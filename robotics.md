@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-19T05:59:32.749843+00:00'
+updated: '2026-03-19T07:10:47.115466+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 19, 2026 at 05:59 UTC  
+**Last Updated:** March 19, 2026 at 07:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[FANUC DR Series High-Speed Delta Robot in Action](https://www.reddit.com/r/robotics/comments/1rx9b6m/fanuc_dr_series_highspeed_delta_robot_in_action/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 This is my 6 DIY DOF robot arm I designed 3 years ago. But I m new on reddit :) This is a project I did only to learn 3D modeling and robotic. Works with Arduino and ROS
 
-11h ago
+12h ago
 
 ---
 
@@ -58,13 +58,7 @@ The goal was to develop a low-cost 6-DOF robotic arm platform that lets me build
 
 Tried with Brachiation motion - a had swing motion that mostly gibbons etc use to move from branches and trees. Made with laser cut wooden plates and a geared motor.
 
-19h ago
-
----
-
-**[Robot playing tennis](https://www.reddit.com/r/robotics/comments/1rxp2jp/robot_playing_tennis/)**
-
-2h ago
+20h ago
 
 ---
 
@@ -72,7 +66,13 @@ Tried with Brachiation motion - a had swing motion that mostly gibbons etc use t
 
 Hi! I'm a co-founder of HEBI Robotics. I have a passion for making robotics research easier, and I mainly work on our visualization tools and our real-time control API for MATLAB. We've often hit bottlenecks when doing visualization out of process. To solve this, we spent the last several months exposing internal UI tools via a stable C ABI, so they can be embedded directly into development code with full access and minimal overhead. After many challenges, we're finally at a point where I'm excited to share a first video of the result. Since the library needs to play well with Python and MATLAB, the engine is 100% asynchronous. An internal layer handles the state transfer, and the UI thread simply swaps to the latest state at the start of every frame. This means users never have to worry about mutexes or the UI thread. All calls are isolated and non-blocking, so you can push data from a high-frequency control loop. For MATLAB users, this means you can run a tight busy-loop without a pause or drawnow, and it still renders smoothly at 60 fps. The bindings are fully auto-generated, so Python and MATLAB get 100% type-hint and autocomplete support out of the box. We're still ironing out a few minor things, but the goal is to make this available to the community and independent of the HEBI hardware ecosystem (as is most of our software). I'm curious what people think! I'm also happy to geek out about the technical details in person at ERF next week or ICRA in June.
 
-🔗 [youtu.be](https://youtu.be/B5GT9XAcqB8) • 9h ago
+🔗 [youtu.be](https://youtu.be/B5GT9XAcqB8) • 10h ago
+
+---
+
+**[Robot playing tennis](https://www.reddit.com/r/robotics/comments/1rxp2jp/robot_playing_tennis/)**
+
+4h ago
 
 ---
 
@@ -80,7 +80,13 @@ Hi! I'm a co-founder of HEBI Robotics. I have a passion for making robotics rese
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=9qZcTMARvpk) • 8h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=9qZcTMARvpk) • 9h ago
+
+---
+
+**[Bender robot](https://www.reddit.com/r/robotics/comments/1rxryqs/bender_robot/)**
+
+1h ago
 
 ---
 
@@ -88,23 +94,15 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 My plan is to build a human size robot. I've built the robotic hand and Forearm so far and it is controlled by either a keyboard, a web interface with a mouse and buttons to click, or voice control. It's pretty wicked.I used my 3d printer to print all of the parts. I got the files from thingiverse.i can send the link if anyone wants it. This is how I created the rest of the project. I used braided fishing line as the tendons. 6 servo motors as the actuators - 5 fingers and 1 wrist. I used the arduino uno board and arduino sketches inside the arduino IDE. I can post all of the code if anyone out there is interested. Next is the elbow and bicep. I'll continue to show my work with updates on here. This project is inspired by Inmoov. Again, I can post the links to their website if there are people interested in this. Any question, feel free to ask. Thanks for watching.
 
-22h ago
+23h ago
 
 ---
 
-**[Reduction of latency in an application using an industrial six axis robot and camera with a PLC as a master device](https://www.reddit.com/r/robotics/comments/1rxs7xa/reduction_of_latency_in_an_application_using_an/)**
+**[I built a UAV simulator on UE5 with real PX4 firmware in the loop](https://www.reddit.com/r/robotics/comments/1rxtexi/i_built_a_uav_simulator_on_ue5_with_real_px4/)**
 
-I'm working on an application which is to detect defects on electronic connectors and this system uses an Epson six axis C3-A601S robot which has a keyence camera mounted on it and with an Omron PLC as a master device. The system uses Ethernet/IP as the communication protocol. The robot has to travel to 12 different positions for the camera to take images and detect the defects. The issue I'm facing is that signals coming from the PLC to the robot are taking up to 500-600 ms for each position during operation which is causing the cycle time to increase far beyond the required cycle time. How can this issue be resolved?
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-12m ago
-
----
-
-**[Building BoxBot, a desktop robotic arm, still a work in progress](https://www.reddit.com/r/robotics/comments/1rx5kk9/building_boxbot_a_desktop_robotic_arm_still_a/)**
-
-I'm building a desktop robotic arm and I can't stop thinking about it Okay so this started as a "wouldn't it be cool if" kind of thing and now it's taken over my workbench entirely. Basic idea: a compact robotic arm that sits on your desk, driven by stepper motors and a belt system, that doesn't require you to have an engineering degree to set up or use. Consumer-friendly is the whole vibe. It's still in development and nowhere near finished, but the progress has been genuinely exciting. Every time I get a new motion working it feels way more satisfying than it probably should lol. Just wanted to share it somewhere because honestly I talk about it too much IRL and my friends are tired of hearing about it 😂
-
-15h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=4QMwmZL_3O4) • 11m ago
 
 ---
 
@@ -116,7 +114,7 @@ I'm building a desktop robotic arm and I can't stop thinking about it Okay so th
 
 In a recent episode of Radio Davos and in a session at the World Economic Forum's 56th Annual Meeting in Davos, experts on physical AI talked us through what's next for autonomous systems.
 
-The World Economic Forum • 12h ago
+The World Economic Forum • 14h ago
 
 ---
 
@@ -132,7 +130,15 @@ NVIDIA Newsroom • 2d ago
 
 The long read: How close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find out
 
-The Guardian • 58m ago
+The Guardian • 2h ago
+
+---
+
+**[Ever played Pokémon Go? You may have helped train delivery robots](https://www.euronews.com/next/2026/03/18/pokemon-go-players-have-unknowingly-been-helping-to-train-delivery-robots)**
+
+A massive databse built by players of Pokémon Go is now being used Coco Robotics to help its street delivery robots better navigate busy urban environments.
+
+Euronews.com • 23h ago
 
 ---
 
@@ -164,19 +170,11 @@ McKinsey & Company • 2d ago
 
 ---
 
-**[Ever played Pokémon Go? You may have helped train delivery robots](https://www.euronews.com/next/2026/03/18/pokemon-go-players-have-unknowingly-been-helping-to-train-delivery-robots)**
+**[US sounds alarm over China’s humanoid robots amid security concerns](https://www.scmp.com/news/us/politics/article/3346942/us-sounds-alarm-over-chinas-humanoid-robots-amid-security-concerns)**
 
-A massive databse built by players of Pokémon Go is now being used Coco Robotics to help its street delivery robots better navigate busy urban environments.
+AI and robotics executives warn American lawmakers that China’s rapid advances – led by Unitree – threaten US dominance.
 
-Euronews.com • 22h ago
-
----
-
-**[A $450 Billion Opportunity: Is This Physical Artificial Intelligence (AI) Stock a Buy Right Now?](https://www.fool.com/investing/2026/03/18/a-450-billion-opportunity-is-this-ai-stock-buy-now/)**
-
-Robotics could be the next frontier in the AI revolution.
-
-The Motley Fool • 5h ago
+South China Morning Post • 1d ago
 
 ---
 
@@ -198,7 +196,47 @@ The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrati
 
 📺 DPCcars
 
-👁️ 92K • 👍 732 • 💬 79 • ⏱️ 2:02 • 2d ago
+👁️ 98K • 👍 767 • 💬 79 • ⏱️ 2:02 • 2d ago
+
+---
+
+**[This wearable robot adds two mechanical legs behind you](https://www.youtube.com/watch?v=y1Jh2BtO-Ow)**
+
+CENTAUR ROBOT - wearable robot adds two legs behind people to help distribute the load ...
+
+📺 Unstoppable Gadgets
+
+👁️ 14K • 👍 196 • 💬 10 • ⏱️ 0:17 • 9h ago
+
+---
+
+**[This Chinese Robot Just Crossed All the Lines — Real Life Terminator T800](https://www.youtube.com/watch?v=0hVT9qcC8Ec)**
+
+China just built something that was supposed to be decades away. Engine AI's T800 humanoid robot is already walking live ...
+
+📺 Core Insights
+
+👁️ 63K • 👍 1K • 💬 119 • ⏱️ 15:19 • 1d ago
+
+---
+
+**[Dancing robot goes rogue in hot pot restaurant](https://www.youtube.com/watch?v=DfnIEWpbMU8)**
+
+Video shows restaurant employees struggling to restrain a dancing robot that went rogue in a hot pot restaurant in California.
+
+📺 NBC News
+
+👁️ 15K • 👍 261 • 💬 95 • ⏱️ 3:38 • 4h ago
+
+---
+
+**[Ai Robot Takes over Flagrant Podcast](https://www.youtube.com/watch?v=_sQWr9EStZA)**
+
+Flagrant is a comedy show that delivers unfiltered, unapologetic, and unruly hot takes directly to your dome piece. In an era ...
+
+📺 FLAGRANT CLIPS
+
+👁️ 50K • 👍 1K • 💬 230 • ⏱️ 16:57 • 1d ago
 
 ---
 
@@ -208,7 +246,7 @@ Gecko Robotics announced a $71 million partnership with the US Navy, deploying i
 
 📺 Bloomberg Technology
 
-👁️ 3K • 👍 95 • 💬 3 • ⏱️ 4:39 • 1d ago
+👁️ 3K • 👍 97 • 💬 3 • ⏱️ 4:39 • 1d ago
 
 ---
 
@@ -218,7 +256,17 @@ I visited @SundayRobotics to see how they're building a household robot that act
 
 📺 ZAUEY (Claire Zau)
 
-👁️ 23K • 👍 749 • 💬 61 • ⏱️ 15:48 • 6d ago
+👁️ 24K • 👍 760 • 💬 63 • ⏱️ 15:48 • 6d ago
+
+---
+
+**[Week 2 FRC Top 25 | REBUILT 2026](https://www.youtube.com/watch?v=U0AafVBmTl4)**
+
+FRC Top 25 breaks down the top 25 teams as voted for by the FRC community. Plus debuts of Clips of the Week, Top 50, Snubs ...
+
+📺 FUN Robotics Network
+
+👁️ 5K • 👍 80 • 💬 5 • ⏱️ 1:18:57 • 1d ago
 
 ---
 
@@ -228,7 +276,7 @@ Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and g
 
 📺 Brighter with Herbert
 
-👁️ 96K • 👍 2K • 💬 313 • ⏱️ 49:45 • 4d ago
+👁️ 97K • 👍 2K • 💬 315 • ⏱️ 49:45 • 4d ago
 
 ---
 
@@ -238,57 +286,7 @@ Our Agibot X2 Ultra robot has finally arrived! Together we will unbox this human
 
 📺 KhanFlicks
 
-👁️ 2K • 💬 27 • ⏱️ 22:01 • 9h ago
-
----
-
-**[Jensen Huang Reveals the Future of Self Driving Cars and Robots at NVIDIA GTC 2026](https://www.youtube.com/watch?v=bvg4zdOeFMk)**
-
-Artificial intelligence is entering the real world. At NVIDIA GTC 2026, Jensen Huang revealed how new AI systems are powering ...
-
-📺 DPCcars
-
-👁️ 103K • 👍 1K • 💬 217 • ⏱️ 11:48 • 2d ago
-
----
-
-**[The First Robot Soldier is Here: Phantom MK-1 Deployed to Ukraine](https://www.youtube.com/watch?v=L0d6mvpDIYY)**
-
-war #robot #usa Foundation is testing its Phantom MK-1 humanoid soldier and has secured $24 million in research contracts with ...
-
-📺 OTOFOOTAGE
-
-👁️ 8K • 👍 41 • 💬 26 • ⏱️ 2:12 • 1d ago
-
----
-
-**[How Disney &amp; Nvidia Brought Olaf to Life as a Robot ☃️](https://www.youtube.com/watch?v=LESOs5GtIrg)**
-
-We got a sneak peek at Disney's newest robotic character Olaf, who will debut at Disneyland Paris by the end of March.
-
-📺 CNET
-
-👁️ 109K • 👍 2K • 💬 115 • ⏱️ 3:35 • 2d ago
-
----
-
-**[China’s New CENTAUR AI ROBOT Gives Humans Super Strength](https://www.youtube.com/watch?v=HxUhW1zIrbw)**
-
-China just revealed a robotic system that can turn a human into something that moves like a centaur, helping people carry heavy ...
-
-📺 AI Revolution
-
-👁️ 48K • 👍 664 • 💬 79 • ⏱️ 14:52 • 5d ago
-
----
-
-**[This REAL-LIFE Terminator Robot Just Made Tesla Optimus Look Like a Toy](https://www.youtube.com/watch?v=ZFj--QMIc7s)**
-
-While everyone's been chasing the perfect humanoid form, a French company called Wandercraft quietly built Calvin-40 in just 40 ...
-
-📺 The AI Nexus
-
-👁️ 5K • 👍 272 • 💬 11 • ⏱️ 24:50 • 2d ago
+👁️ 2K • 💬 28 • ⏱️ 22:01 • 11h ago
 
 ---
 

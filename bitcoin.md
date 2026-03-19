@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-19T05:59:32.740741+00:00'
+updated: '2026-03-19T07:10:47.106788+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - videos
-- social
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 19, 2026 at 05:59 UTC  
+**Last Updated:** March 19, 2026 at 07:10 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,977.54
+### $70,497.09
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -4.3%  
-**7d:** -0.2%  
-**30d:** +6.6%  
-**90d:** -19.9%  
-**1y:** -15.9%  
+**24h:** -5.0%  
+**7d:** -0.9%  
+**30d:** +5.9%  
+**90d:** -20.4%  
+**1y:** -16.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1414.36B
+**Market Cap:** $1409.48B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--43.9%
+-44.2%
 
 **All-Time Low:** $67.81
-+104212.0%
++103636.9%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Institutional demand for Bitcoin has risen to its highest level since October, 2025](https://www.reddit.com/r/Bitcoin/comments/1rxanbh/institutional_demand_for_bitcoin_has_risen_to_its/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Guys, this is next level disturbing. The letter obviously has my full name and home address in order to get delivered. The contents of the letter goes on about Trezor’s new “Authentication Code” going into effect here soon and to scan the QR code on the letter to activate it. It had all the legal mumble jumble and very official looking. Be safe out there everyone. Scammers are not only using the internet.
 
-10h ago
+11h ago
 
 ---
 
@@ -95,15 +95,7 @@ Guys, this is next level disturbing. The letter obviously has my full name and h
 
 I've been running my own umbrel node and staring at the mempool way too much. And it was not really funny. At some point my brain... "What if every transaction was a vehicle on a highway? Small ones are bikes, big ones are trucks etc, etc The result is TxRush – a real-time mempool visualizer where BTC transactions drive across your screen as vehicles. The bigger the amount, the bigger the ride. Actually not a bad way to learn a thing or two about Bitcoin It's a side project, it's free, no signups, no ads, no tracking. Just mempool traffic as a highway. Works on mobile and desktop. Oh and there's a live BTC price with a 24h chart for all you 3am price checkers out there Roast it, love it, ignore it – I had fun building it either way. Link if you want
 
-14h ago
-
----
-
-**[Are you all 100% BTC maxis or do you dabble in others?](https://www.reddit.com/r/Bitcoin/comments/1rxkp6w/are_you_all_100_btc_maxis_or_do_you_dabble_in/)**
-
-I'm predominately BTC, 70%+, but also dabble in others. Curious what others are like on here.
-
-6h ago
+15h ago
 
 ---
 
@@ -111,7 +103,7 @@ I'm predominately BTC, 70%+, but also dabble in others. Curious what others are 
 
 People who dismiss the 4 year cycle got a reality check. I think the power law dynamics are also equally true. For you to remain aware, I pulled the full Power Law dataset (2011–2026) and ran the numbers on what happens when Bitcoin trades at different distances from the model's fair value line. Current state: BTC price: ~$74K Power Law fair value: ~$124K Discount: −40% Power Law floor: ~$52K Corridor position: bottom quarter (deep in the undervalued zone) Every single time BTC has been 40%+ below Power Law fair value, it was higher one year later. 873 out of 873 days. The median gain was +174%. The last time BTC was this discounted was late 2022 / early 2023 — when it was trading around $16–20K and fair value was climbing through $30K+. The DCA problem in this context: If you're in the deep discount zone and you DCA from here, your effective entry drifts upward as BTC (presumably) mean-reverts toward fair value. At 40% annual growth (roughly what the Power Law FV line itself grows at), a 12-month DCA from $74K produces an effective entry around $85K. That's still below fair value, but you've given back a chunk of your discount. This is where all the loan guys come in this sub reddit. I'm not saying DCA is wrong. DCA is discipline, it removes timing risk, and it works. But if you believe the Power Law model, the data says you're in a historically rare window. DCA spreads your buys across this window and the (presumably higher-priced) future. Locking in now keeps your entire position in the discount zone. It's time to Lump sum BTC now!
 
-17h ago
+19h ago
 
 ---
 
@@ -125,7 +117,7 @@ People who dismiss the 4 year cycle got a reality check. I think the power law d
 
 I’ve been buying BTC through P2P with cash, but the fees/premiums are getting out of hand. It just doesn’t feel worth it anymore at these rates. At the same time, I don’t want to use a CEX or deal with KYC. What are you guys using as alternatives that are still relatively private but not as expensive as P2P?
 
-6h ago
+7h ago
 
 ---
 
@@ -133,7 +125,7 @@ I’ve been buying BTC through P2P with cash, but the fees/premiums are getting 
 
 Hey r/Bitcoin, My name is Marc, I’m 20 years old, and I want to quickly share my story with you. A while ago I really started learning about Bitcoin and I see in it what many people still don’t see. At first my goal was simple: instead of letting my money sit in a bank savings account, I wanted to use Bitcoin to actually build a future for myself. Meanwhile it has become much more than that. I work full-time as a paramedic (emergency medical technician). Right now I’ve increased my hours to 120% — that means roughly 6 days a week. At these prices I want to earn and stack as much Bitcoin as possible. Currently I’m only 0.00868 BTC away from my first 0.1 Bitcoin. According to my plan I should hit that in about 2 weeks — and I definitely won’t stop there. I also just cashed out an old pension insurance policy that my grandparents set up for me years ago. There was around $4,000 on it. Realistically I would have only received about $40 per month in retirement from it, so I decided to take the money now and put it all into Bitcoin instead. Who knows — maybe this decision will one day change my entire life. With realistic projections I should reach around 0.15 BTC in a few months. If things continue to go well, 0.25 BTC by 2026-2027 feels very achievable. Bitcoin isn’t just an investment for me anymore. It’s the opportunity I want to go all-in on while I’m still young and able to push hard. Thanks for reading.
 
-6h ago
+7h ago
 
 ---
 
@@ -141,7 +133,15 @@ Hey r/Bitcoin, My name is Marc, I’m 20 years old, and I want to quickly share 
 
 Powder Magazine just wrote about a pair of never-drilled, never-mounted 1974 Dynamic VR17 skis listed for 1 BTC. The price on the site updates live with the Bitcoin price. The VR17 was the ski Jean-Claude Killy's team used. 50 years in storage, still sealed. https://www.powder.com/news/the-bitcoin-skis-dynamic-vr17 Would you mass a sat on these?
 
-9h ago
+10h ago
+
+---
+
+**[How do I integrate bitcoin as a payment method?](https://www.reddit.com/r/Bitcoin/comments/1rxq7ib/how_do_i_integrate_bitcoin_as_a_payment_method/)**
+
+Is there a website service for that? I want to be able to offer bitcoin as a payment option on my website. Currently, I use Stripe as the main one. I would like to be able to generate invoices from it like Stripe does. Is it possible?
+
+3h ago
 
 ---
 
@@ -149,7 +149,7 @@ Powder Magazine just wrote about a pair of never-drilled, never-mounted 1974 Dyn
 
 Been thinking about this lately while working on some client projects - you don't actually lose anything until you hit that sell button, right What gets me is how many people, especially newer Bitcoin holders, act like a 30% drop means the world's ending. Like mate, even traditional markets crash every decade or so, it's just how things work Too many jumped in expecting BTC to be some magical money printer that never goes down. That's not how any of this works - volatility goes both ways If you're gonna celebrate when we hit £90k or £100k, you better be ready to stomach the £45k dips too. Can't have your cake and eat it
 
-5h ago
+6h ago
 
 ---
 
@@ -157,11 +157,11 @@ Been thinking about this lately while working on some client projects - you don'
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price news: BTC adds to losses following Fed pause, Powell press conference](https://www.coindesk.com/markets/2026/03/18/bitcoin-sinks-below-usd71-000-stocks-close-at-session-lows-as-2026-rate-cut-hopes-fade-further)**
+**[Bitcoin price news: BTC remains down sharply as Fed stays on hold](https://www.coindesk.com/markets/2026/03/18/federal-reserve-holds-policy-steady-as-it-balances-growth-and-inflation-concerns)**
 
-Fed chair Jerome Powell said rising energy prices are feeding into the inflation outlook, but "nobody knows" yet how lasting the impact will be.
+Bitcoin remained sharply lower for the session following the expected decision by the U.S. central bank.
 
-CoinDesk • 9h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 9h ago
 
 Inflation has exceeded the central bank’s 2% target for nearly five years, but the Fed held rates firm again as Bitcoin and Ethereum wobbled.
 
-Decrypt • 11h ago
+Decrypt • 12h ago
 
 ---
 
@@ -177,27 +177,13 @@ Decrypt • 11h ago
 
 The sell-off extended beyond crypto as investors reassessed the macro outlook following the Fed’s latest guidance.
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
-**[Strategy's STRC-fueled bitcoin buying spree highlights sentiment-driven structural risks: K33](https://www.theblock.co/post/394097/strategys-strc-fueled-bitcoin-buying-spree-highlights-sentiment-driven-structural-risks-k33)**
+**[Bitcoin price today: slides below $71k as traders pare Fed cut bets](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-slides-below-71k-as-traders-pare-fed-cut-bets-4569793)**
 
-Strategy's STRC-fueled bitcoin buying spree is helping to drive demand but introduces sentiment-sensitive structural risks, according to K33.
-
-The Block • 16h ago
-
----
-
-**[Strategy Faces Key Test It's Failed 3 Times As Bitcoin Price Slips](https://www.investors.com/news/mstr-stock-strategy-bitcoin-50-day-moving-average/)**
-
-Investor's Business Daily • 15h ago
-
----
-
-**[Strategy: Bitcoin Cost Passes Milestone (NASDAQ:MSTR)](https://seekingalpha.com/article/4882787-strategy-bitcoin-cost-passes-milestone)**
-
-Seeking Alpha • 2d ago
+Investing.com • 37m ago
 
 ---
 
@@ -205,7 +191,13 @@ Seeking Alpha • 2d ago
 
 Bitcoin (CRYPTO: BTC) is trading around $73,500 after one of its roughest stretches since the 2022 crash. The cryptocurrency hit $126,000 in October 2025 and started 2026 above $90,000. Then lost a third of its value in the space of roughly three months after the U.S. and Israel struck Iran and risk assets sold off ... Bitcoin Price Prediction: We Asked ChatGPT What Bitcoin Will Be Worth by 31 December 2026
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 8h ago
+
+---
+
+**[Jellico residents petition to review Bitcoin data center after high electric bills](https://www.wate.com/news/campbell-county-news/jellico-residents-petition-to-review-bitcoin-data-center-after-high-electric-bills/)**
+
+WATE 6 On Your Side • 8h ago
 
 ---
 
@@ -213,13 +205,7 @@ Yahoo Finance • 6h ago
 
 On today's episode of CNBC Crypto World, crypto markets are on pace to outperform Wall Street despite a Wednesday pullback driven by hotter-than-expected wholesale data. Also, the SEC and CFTC issue joint guidance on the regulatory classification of crypto assets. Bam Azizi, CEO of Mesh, discusses what it takes to run a crypto business in a slowdown.
 
-CNBC • 10h ago
-
----
-
-**[Jellico residents petition to review Bitcoin data center after high electric bills](https://www.wate.com/news/campbell-county-news/jellico-residents-petition-to-review-bitcoin-data-center-after-high-electric-bills/)**
-
-WATE 6 On Your Side • 7h ago
+CNBC • 12h ago
 
 ---
 
@@ -227,7 +213,23 @@ WATE 6 On Your Side • 7h ago
 
 The SEC and CFTC issued a joint 68-page interpretation on March 17 explicitly naming 16 crypto assets as digital commodities. Staking, mining and airdrops ar...
 
-FinTech Weekly • 14h ago
+FinTech Weekly • 16h ago
+
+---
+
+**[Till Death or Seed Phrase: Woman Accused of Spying on Husband, Stealing $172 Million in Bitcoin](https://bitcoinmagazine.com/news/wife-spying-on-husband-stealing-bitcoin)**
+
+A UK woman is accused of spying on her husband and stealing $172 million in Bitcoin from his hardware wallet.
+
+Bitcoin Magazine • 12h ago
+
+---
+
+**[U.K. judge allows lawsuit over alleged $172M bitcoin theft between spouses](https://www.coindesk.com/business/2026/03/16/man-accuses-wife-of-using-cctv-cameras-to-steal-usd172-million-bitcoin-from-his-hardware-wallet)**
+
+A husband claims his wife used home CCTV to capture his bitcoin seed phrase and transfer 2,323 BTC.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -239,7 +241,7 @@ FinTech Weekly • 14h ago
 
 Seal predictions and decisions with cryptographic proof anchored to Bitcoin. No third party required. Free and open source.
 
-⬆️ 1 • 💬 1 • 21h ago • [psicommit.com](https://psicommit.com/)
+⬆️ 1 • 💬 1 • 22h ago • [psicommit.com](https://psicommit.com/)
 
 ---
 
@@ -291,13 +293,13 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 Seeking power for data centers, Meta and other companies plan to use equipment that is expensive and polluting.
 
-⬆️ 2 • 💬 0 • 3h ago • [nytimes.com](https://www.nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html)
+⬆️ 3 • 💬 0 • 4h ago • [nytimes.com](https://www.nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html)
 
 ---
 
 **[Citcon: AI – Helsinki](https://news.ycombinator.com/item?id=47422870)**
 
-⬆️ 1 • 💬 0 • 22h ago • [citconf.com](https://citconf.com/helsinki2026/)
+⬆️ 1 • 💬 0 • 23h ago • [citconf.com](https://citconf.com/helsinki2026/)
 
 ---
 
@@ -311,7 +313,17 @@ Bill Barhydt is the founder and CEO of Abra and a longtime leader in digital ass
 
 📺 Anthony Pompliano
 
-👁️ 12K • 👍 561 • 💬 2 • ⏱️ 37:41 • 8h ago
+👁️ 15K • 👍 620 • 💬 2 • ⏱️ 37:41 • 10h ago
+
+---
+
+**[Bitcoin: Post-FOMC](https://www.youtube.com/watch?v=Kx7F_EL9ocI)**
+
+Let's talk about Bitcoin post-FOMC! Join the ITC March Madness Bracket Challenge! Winner gets a 1 year subscription to ITC ...
+
+📺 Benjamin Cowen
+
+👁️ 12K • 👍 1K • 💬 62 • ⏱️ 16:44 • 2h ago
 
 ---
 
@@ -321,17 +333,17 @@ While retail panic sells, one entity is aggressively accumulating Bitcoin at a h
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 910 • 💬 63 • ⏱️ 13:53 • 8h ago
+👁️ 13K • 👍 993 • 💬 65 • ⏱️ 13:53 • 10h ago
 
 ---
 
-**[SEC clarifies position on crypto: Chair Atkins on new interpretation of digital assets](https://www.youtube.com/watch?v=cjibSqTvINc)**
+**[BREAKING: BIGGEST BITCOIN ANNOUNCEMENT IN OVER 1 YEAR?! | EP 1463](https://www.youtube.com/watch?v=Wix9Dv4d0HE)**
 
-SEC Chairman Paul Atkins joins 'Squawk Box' to discuss the agency's position on crypto assets, why it believes most crypto ...
+HUGE win for bitcoin clarity in the U.S. NOT coming from the Clarity Act ...
 
-📺 CNBC Television
+📺 Simply Bitcoin
 
-👁️ 29K • 👍 384 • 💬 142 • ⏱️ 5:41 • 15h ago
+👁️ 10K • 👍 397 • 💬 67 • ⏱️ 1:09:50 • 13h ago
 
 ---
 
@@ -341,27 +353,27 @@ Crypto is about to get LEGIT CRAZY $30k Bonus Sign Up For WEEX: https://www.weex
 
 📺 Altcoin Daily
 
-👁️ 10K • 👍 324 • 💬 91 • ⏱️ 1:14 • 17h ago
+👁️ 11K • 👍 339 • 💬 91 • ⏱️ 1:14 • 19h ago
 
 ---
 
-**[BITCOIN BULL TRAP? Why $91K is the Only Number That Matters!](https://www.youtube.com/watch?v=p7TRaTqZFG0)**
+**[Bitcoin &amp; Crypto Get Regulatory Clarity! (What You MUST Know)](https://www.youtube.com/watch?v=5_EHMaIK2fc)**
 
-Bitcoin is pumping, but is the bottom really in? We analyze the 52K price target, the 80K CME gap, and why the liquidation heat ...
+Bitcoin #Crypto #Finance The SEC and CFTC just made a historic move by defining how crypto assets are classified, signaling ...
 
-📺 Financial Funda
+📺 The Wolf Of All Streets
 
-👁️ 9K • 👍 366 • 💬 19 • ⏱️ 1:25 • 1d ago
+👁️ 12K • 👍 513 • 💬 193 • ⏱️ 19:06 • 17h ago
 
 ---
 
-**[$21.5T GIANT Just Sent a HUGE Bitcoin WARNING!!! | EP 1462](https://www.youtube.com/watch?v=McHALqQuyLE)**
+**[SEC clarifies position on crypto: Chair Atkins on new interpretation of digital assets](https://www.youtube.com/watch?v=cjibSqTvINc)**
 
-A silent shift is happening in Bitcoin and most people are missing it. With over 1.5 million BTC moving into the hands of institutions ...
+SEC Chairman Paul Atkins joins 'Squawk Box' to discuss the agency's position on crypto assets, why it believes most crypto ...
 
-📺 Simply Bitcoin
+📺 CNBC Television
 
-👁️ 12K • 👍 516 • 💬 50 • ⏱️ 59:29 • 1d ago
+👁️ 31K • 👍 394 • 💬 144 • ⏱️ 5:41 • 16h ago
 
 ---
 
@@ -371,17 +383,7 @@ Today's FOMC could change everything for crypto, but not in the way most traders
 
 📺 Crypto Banter
 
-👁️ 24K • 👍 1K • 💬 37 • ⏱️ 13:25 • 16h ago
-
----
-
-**[Massive News → Bitcoin HIGHER](https://www.youtube.com/watch?v=us5nLWnf2Zc)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
-
-📺 Altcoin Daily
-
-👁️ 10K • 👍 412 • 💬 48 • ⏱️ 1:08 • 1d ago
+👁️ 25K • 👍 1K • 💬 37 • ⏱️ 13:25 • 18h ago
 
 ---
 
@@ -391,17 +393,17 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptovers
 
 📺 Benjamin Cowen
 
-👁️ 26K • 👍 437 • 💬 18 • ⏱️ 0:22 • 1d ago
+👁️ 27K • 👍 446 • 💬 19 • ⏱️ 0:22 • 1d ago
 
 ---
 
-**[Buyers Are Flooding Back Into Bitcoin](https://www.youtube.com/watch?v=yJXjMUFSfbM)**
+**[Massive News → Bitcoin HIGHER](https://www.youtube.com/watch?v=us5nLWnf2Zc)**
 
-Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
 
-📺 CryptosRUs
+📺 Altcoin Daily
 
-👁️ 19K • 👍 1K • 💬 186 • ⏱️ 36:40 • 1d ago
+👁️ 10K • 👍 413 • 💬 48 • ⏱️ 1:08 • 1d ago
 
 ---
 
