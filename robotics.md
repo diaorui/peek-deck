@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-19T16:30:25.063291+00:00'
+updated: '2026-03-19T17:35:28.002445+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 19, 2026 at 16:30 UTC  
+**Last Updated:** March 19, 2026 at 17:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,25 +34,33 @@ Robotics research and industry news
 
 **[The Robotics team from Wissahickon High School in Ambler, Pennsylvania built a robot Miss Daisy XXIV that picks up balls and shoots them into a container.](https://www.reddit.com/r/robotics/comments/1ry3haa/the_robotics_team_from_wissahickon_high_school_in/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Robot playing tennis ,what are your thoughts on this feat ? Is it comparable to figure cleaning the room ,could it be said that this is best feat ai humanoid robot has shown so far](https://www.reddit.com/r/robotics/comments/1rxwsm1/robot_playing_tennis_what_are_your_thoughts_on/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Bender robot](https://www.reddit.com/r/robotics/comments/1rxryqs/bender_robot/)**
 
-10h ago
+12h ago
+
+---
+
+**[Drone with RoboBaton Viobot2 3D SLAM camera](https://www.reddit.com/r/robotics/comments/1ry6kn0/drone_with_robobaton_viobot2_3d_slam_camera/)**
+
+I integrated the RoboBaton Viobot2 SLAM camera into my drone build. The VIO performance is notably stable, offering reliable visual odometry for autonomous flight applications.
+
+14m ago
 
 ---
 
 **[FANUC DR Series High-Speed Delta Robot in Action](https://www.reddit.com/r/robotics/comments/1rx9b6m/fanuc_dr_series_highspeed_delta_robot_in_action/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -60,7 +68,15 @@ Robotics research and industry news
 
 This is my 6 DIY DOF robot arm I designed 3 years ago. But I m new on reddit :) This is a project I did only to learn 3D modeling and robotic. Works with Arduino and ROS
 
-21h ago
+23h ago
+
+---
+
+**[Robot does Flying Kick into Arcade Machines 🤦‍♂️](https://www.reddit.com/r/robotics/comments/1ry601x/robot_does_flying_kick_into_arcade_machines/)**
+
+Why can’t robots use their lidar to scan the room and confirm there is enough space to perform an action? 🤔 Obviously I learned the hard way but it’s a good question. What do you guys think?
+
+35m ago
 
 ---
 
@@ -68,35 +84,19 @@ This is my 6 DIY DOF robot arm I designed 3 years ago. But I m new on reddit :) 
 
 Tech giants are now deploying robotic dogs to guard massive artificial intelligence data centers across the country cite Fortune. These four legged machines from companies like Boston Dynamics cost up to 300.000 dollars each and patrol massive server campuses around the clock. They are equipped with sensors to detect thermal anomalies unauthorized intruders and equipment failures.
 
-🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 8h ago
+🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 9h ago
 
 ---
 
 **[Ears cat helmet](https://www.reddit.com/r/robotics/comments/1ry4lte/ears_cat_helmet/)**
 
-21m ago
+1h ago
 
 ---
 
 **[My homemade 6 axis arm project](https://www.reddit.com/r/robotics/comments/1rwtm75/my_homemade_6_axis_arm_project/)**
 
 The goal was to develop a low-cost 6-DOF robotic arm platform that lets me build foundational robotics and ROS 2 skills on real hardware instead of only simulation. I wanted a system where I could explore the entire robotics stack, including embedded firmware and motor control all the way up to motion planning and digital-twin simulation. It has also been a great opportunity to experiment with custom and unconventional joint and reducer designs that I haven’t seen implemented on any robotics platforms. Mechanical Architecture: Each joint section was designed and built independently, and later connected using clamped carbon fiber tubes. This modularity allows each joint to be iterated on separately, while the tube lengths can be swapped to change the arm’s reach or payload capacity accordingly. Joint & Reducer Designs: The base joint uses a traditional planetary gearbox. While the shoulder and elbow joints use a split-ring planetary gearbox, by utilizing two slightly offset ring gears driven by a common set of compound planets, this design provides an incredibly high torque density in a compact form factor. Which is what allowed me to achieve a 70:1 and 40:1 gear reduction respectively, while keeping a large contact area to minimize stress between the plastic gears, all without the bulk or backlash of a multi-stage system. Because this gearbox configuration does not provide an accessible output shaft for a conventional encoder, I implemented a custom sensing approach: alternating polarity magnets were mounted around the output ring gear, and a magnetic encoder is positioned perpendicular to the axis with an offset, allowing it to perceive the alternating magnetic fields as a spinning radially magnetized magnet. The spherical wrist uses an inverted belt differential with a custom bearing track to maintain consistent pressure on the belt to prevent skipping. All three wrist motors are mounted behind the elbow joint so they act as a counterweight, reducing inertia at the wrist and improving dynamic performance. Embedded Control & Firmware: The robot is controlled by a STM32 microcontroller, where I developed custom firmware in C to manage SPI communication with 6 daisy-chained encoders, CAN bus communication with a Raspberry Pi, PID loops and step generation for motor control, and a state management safety system. Higher-level planning will run on a Raspberry Pi using ROS 2, where the arm will interface with MoveIt for motion planning and simulation; this is still under development. A write-up of the mechanical design, CAD, and firmware architecture is available on my portfolio, with a deeper breakdown of the ROS-based software stack coming eventually: https://jcgullberg.github.io/projects
-
-1d ago
-
----
-
-**[Test of 3D SLAM Camera RoboBaton mini](https://www.reddit.com/r/robotics/comments/1ry3wri/test_of_3d_slam_camera_robobaton_mini/)**
-
-I found that it's just as powerful as the T265, with slightly better accuracy than the T265. When stationary, even with dynamic objects moving in front of it, its visual positioning doesn't drift—very stable.
-
-47m ago
-
----
-
-**[Experiment with "Brachiation" motion](https://www.reddit.com/r/robotics/comments/1rx0hrv/experiment_with_brachiation_motion/)**
-
-Tried with Brachiation motion - a had swing motion that mostly gibbons etc use to move from branches and trees. Made with laser cut wooden plates and a geared motor.
 
 1d ago
 
@@ -110,7 +110,7 @@ Tried with Brachiation motion - a had swing motion that mostly gibbons etc use t
 
 The long read: How close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find out
 
-The Guardian • 11h ago
+The Guardian • 12h ago
 
 ---
 
@@ -118,7 +118,7 @@ The Guardian • 11h ago
 
 In a recent episode of Radio Davos and in a session at the World Economic Forum's 56th Annual Meeting in Davos, experts on physical AI talked us through what's next for autonomous systems.
 
-The World Economic Forum • 23h ago
+The World Economic Forum • 1d ago
 
 ---
 
@@ -130,11 +130,19 @@ NVIDIA Blog • 1d ago
 
 ---
 
-**[Ever played Pokémon Go? You may have helped train delivery robots](https://www.euronews.com/next/2026/03/18/pokemon-go-players-have-unknowingly-been-helping-to-train-delivery-robots)**
+**[Delivery Robot Dogpiled on the Streets of Philly](https://futurism.com/robots-and-machines/delivery-robot-philadelphia)**
 
-A massive databse built by players of Pokémon Go is now being used Coco Robotics to help its street delivery robots better navigate busy urban environments.
+One little bot learned the tagline "city of brotherly love" only applies to humans, not food delivery robots.
 
-Euronews.com • 1d ago
+Futurism • 4h ago
+
+---
+
+**[Humanoid Military Robots Deployed to Ukraine for Battlefield Testing](https://www.eweek.com/news/humanoid-robots-ukraine-battlefield-testing/)**
+
+Foundation has reportedly delivered two Phantom MK-1 humanoid robots to Ukraine for battlefield testing as robotic warfare expands.
+
+eWeek • 1d ago
 
 ---
 
@@ -160,19 +168,11 @@ Fox News • 2d ago
 
 ---
 
-**[Humanoid Military Robots Deployed to Ukraine for Battlefield Testing](https://www.eweek.com/news/humanoid-robots-ukraine-battlefield-testing/)**
+**[Ever played Pokémon Go? You may have helped train delivery robots](https://www.euronews.com/next/2026/03/18/pokemon-go-players-have-unknowingly-been-helping-to-train-delivery-robots)**
 
-Foundation has reportedly delivered two Phantom MK-1 humanoid robots to Ukraine for battlefield testing as robotic warfare expands.
+A massive databse built by players of Pokémon Go is now being used Coco Robotics to help its street delivery robots better navigate busy urban environments.
 
-eWeek • 1d ago
-
----
-
-**[Delivery Robot Dogpiled on the Streets of Philly](https://futurism.com/robots-and-machines/delivery-robot-philadelphia)**
-
-One little bot learned the tagline "city of brotherly love" only applies to humans, not food delivery robots.
-
-Futurism • 3h ago
+Euronews.com • 1d ago
 
 ---
 
@@ -194,7 +194,7 @@ Video shows restaurant employees struggling to restrain a dancing robot that wen
 
 📺 NBC News
 
-👁️ 47K • 👍 682 • 💬 215 • ⏱️ 3:38 • 13h ago
+👁️ 58K • 👍 867 • 💬 254 • ⏱️ 3:38 • 14h ago
 
 ---
 
@@ -204,27 +204,7 @@ The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrati
 
 📺 DPCcars
 
-👁️ 109K • 👍 843 • 💬 86 • ⏱️ 2:02 • 2d ago
-
----
-
-**[Ai Robot Takes over Flagrant Podcast](https://www.youtube.com/watch?v=_sQWr9EStZA)**
-
-Flagrant is a comedy show that delivers unfiltered, unapologetic, and unruly hot takes directly to your dome piece. In an era ...
-
-📺 FLAGRANT CLIPS
-
-👁️ 54K • 👍 1K • 💬 248 • ⏱️ 16:57 • 1d ago
-
----
-
-**[Sunday Robotics: The Household Robot We&#39;ve Been Waiting For?](https://www.youtube.com/watch?v=QfBw0gMuhaI)**
-
-I visited @SundayRobotics to see how they're building a household robot that actually works in real homes. Founded by Stanford ...
-
-📺 ZAUEY (Claire Zau)
-
-👁️ 25K • 👍 792 • 💬 66 • ⏱️ 15:48 • 6d ago
+👁️ 111K • 👍 865 • 💬 90 • ⏱️ 2:02 • 2d ago
 
 ---
 
@@ -234,7 +214,27 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 8K • 👍 236 • 💬 156 • ⏱️ 2:07 • 5h ago
+👁️ 14K • 👍 318 • 💬 208 • ⏱️ 2:07 • 6h ago
+
+---
+
+**[Ai Robot Takes over Flagrant Podcast](https://www.youtube.com/watch?v=_sQWr9EStZA)**
+
+Flagrant is a comedy show that delivers unfiltered, unapologetic, and unruly hot takes directly to your dome piece. In an era ...
+
+📺 FLAGRANT CLIPS
+
+👁️ 55K • 👍 2K • 💬 252 • ⏱️ 16:57 • 1d ago
+
+---
+
+**[Sunday Robotics: The Household Robot We&#39;ve Been Waiting For?](https://www.youtube.com/watch?v=QfBw0gMuhaI)**
+
+I visited @SundayRobotics to see how they're building a household robot that actually works in real homes. Founded by Stanford ...
+
+📺 ZAUEY (Claire Zau)
+
+👁️ 25K • 👍 801 • 💬 67 • ⏱️ 15:48 • 6d ago
 
 ---
 
@@ -254,15 +254,17 @@ Gecko Robotics announced a $71 million partnership with the US Navy, deploying i
 
 📺 Bloomberg Technology
 
-👁️ 3K • 👍 102 • 💬 3 • ⏱️ 4:39 • 1d ago
+👁️ 3K • 👍 105 • 💬 3 • ⏱️ 4:39 • 1d ago
 
 ---
 
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=o04URFEaSjM)**
+**[How Disney &amp; Nvidia Brought Olaf to Life as a Robot ☃️](https://www.youtube.com/watch?v=LESOs5GtIrg)**
 
-📺 Robot Julie 
+We got a sneak peek at Disney's newest robotic character Olaf, who will debut at Disneyland Paris by the end of March.
 
-👁️ 8K • 👍 45 • ⏱️ 0:24 • 15h ago
+📺 CNET
+
+👁️ 124K • 👍 2K • 💬 127 • ⏱️ 3:35 • 2d ago
 
 ---
 
@@ -276,13 +278,13 @@ China just revealed a robotic system that can turn a human into something that m
 
 ---
 
-**[How Disney &amp; Nvidia Brought Olaf to Life as a Robot ☃️](https://www.youtube.com/watch?v=LESOs5GtIrg)**
+**[Jensen Huang Reveals the Future of Self Driving Cars and Robots at NVIDIA GTC 2026](https://www.youtube.com/watch?v=bvg4zdOeFMk)**
 
-We got a sneak peek at Disney's newest robotic character Olaf, who will debut at Disneyland Paris by the end of March.
+Artificial intelligence is entering the real world. At NVIDIA GTC 2026, Jensen Huang revealed how new AI systems are powering ...
 
-📺 CNET
+📺 DPCcars
 
-👁️ 121K • 👍 2K • 💬 124 • ⏱️ 3:35 • 2d ago
+👁️ 116K • 👍 1K • 💬 228 • ⏱️ 11:48 • 2d ago
 
 ---
 
