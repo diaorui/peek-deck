@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-19T19:50:19.142526+00:00'
+updated: '2026-03-19T20:39:53.889608+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
 - social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 19, 2026 at 19:50 UTC  
+**Last Updated:** March 19, 2026 at 20:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,835.88
+### $70,385.49
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.0%  
-**7d:** -1.6%  
-**30d:** +5.1%  
-**90d:** -21.0%  
-**1y:** -17.1%  
+**24h:** -1.1%  
+**7d:** -0.6%  
+**30d:** +6.2%  
+**90d:** -20.2%  
+**1y:** -16.2%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[who remember those guys?](https://www.reddit.com/r/Bitcoin/comments/1rxuwuj/who_remember_those_guys/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -87,13 +87,19 @@ Rank #1
 
 BTQ Technologies has launched the first working BIP 360 implementation on its Bitcoin Quantum testnet, enabling developers to test quantum-resistant Bitcoin transactions in practice.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/btq-deploys-first-bip-360-quantum) • 4h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/btq-deploys-first-bip-360-quantum) • 5h ago
 
 ---
 
 **[Morpheus explains the truth about the simulation](https://www.reddit.com/r/Bitcoin/comments/1rxx6cm/morpheus_explains_the_truth_about_the_simulation/)**
 
-8h ago
+9h ago
+
+---
+
+**[got a discount](https://www.reddit.com/r/Bitcoin/comments/1rxzx5s/got_a_discount/)**
+
+7h ago
 
 ---
 
@@ -105,17 +111,11 @@ This morning the Federal Reserve will release a proposal for revisions to the Ba
 
 ---
 
-**[got a discount](https://www.reddit.com/r/Bitcoin/comments/1rxzx5s/got_a_discount/)**
-
-6h ago
-
----
-
 **[DCAing 250-400 weekly, whole coin achievable?](https://www.reddit.com/r/Bitcoin/comments/1ry7u44/dcaing_250400_weekly_whole_coin_achievable/)**
 
 A big chunk of my disposable income is going into BTC. I'm in for the long run but just recently got into it. I'm aiming for the .1 in the coming months, I'll keep staking no matter what especially now that the price is low. is the whole coin achievable in the coming years?
 
-1h ago
+2h ago
 
 ---
 
@@ -123,15 +123,15 @@ A big chunk of my disposable income is going into BTC. I'm in for the long run b
 
 Bitcoin treasury company Strive said Thursday that its total BTC holdings hit 13,628 Bitcoin, pulling ahead of Tesla which currently sits at 11,509 BTC. The Texas based firm, which disclosed its holdings as part of the company's fourth-quarter and full-year 2025 financial results, is now registering a total value of $960 million in BTC holdings.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/strive-jumps-past-tesla-bitcoin-134000861.html) • 3h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/strive-jumps-past-tesla-bitcoin-134000861.html) • 4h ago
 
 ---
 
-**[DCA Amount](https://www.reddit.com/r/Bitcoin/comments/1rxvkp9/dca_amount/)**
+**[What's your approach to stacking sats long-term?](https://www.reddit.com/r/Bitcoin/comments/1ry8ao1/whats_your_approach_to_stacking_sats_longterm/)**
 
-I think 10$ a day is a reasonable DCA amount. Of course the wife thinks it’s too heavy. Then in the 60k range I feel the need to double down. Thoughts?
+Hey Bitcoin community I've set myself this goal of reaching one full coin by 2036, which keeps me motivated even during those rough market days. When prices drop I actually get a bit excited knowing I can grab more for my money Currently doing weekly buys of about £220 and crossing my fingers that we don't see massive price jumps too soon, otherwise my timeline might get messed up Been thinking about this while out on my weekend hikes - wondering if there are better ways to go about it? Anyone else working towards similar targets or have tweaks that might help optimize the approach? Would love to hear how others are building their stacks
 
-10h ago
+2h ago
 
 ---
 
@@ -139,7 +139,7 @@ I think 10$ a day is a reasonable DCA amount. Of course the wife thinks it’s t
 
 On my podcast ‘Bitcoin for Millennials’ I talked with Dave Weisberger, a 40-year Wall Street veteran. We discuss stock market structure and the “rigged” narrative, 2008 and socialized losses, fiat debasement via the Cantillon effect and asset inflation, Bitcoin as an asymmetric bet and forced transparency versus Dalio’s critiques, and the real blockers to adoption like custody UX and capital gains taxes.
 
-🔗 [youtu.be](https://youtu.be/inPD8UpAC7Q) • 2h ago
+🔗 [youtu.be](https://youtu.be/inPD8UpAC7Q) • 3h ago
 
 ---
 
@@ -147,7 +147,7 @@ On my podcast ‘Bitcoin for Millennials’ I talked with Dave Weisberger, a 40-
 
 European Central Bank advances retail payments rules as EU lawmakers weigh approval and a possible 2029 rollout.
 
-🔗 [coindesk.com](https://www.coindesk.com/policy/2026/03/19/ecb-seeks-experts-to-help-integrate-digital-euro-into-atms-card-payment-terminals) • 4h ago
+🔗 [coindesk.com](https://www.coindesk.com/policy/2026/03/19/ecb-seeks-experts-to-help-integrate-digital-euro-into-atms-card-payment-terminals) • 5h ago
 
 ---
 
@@ -159,19 +159,19 @@ European Central Bank advances retail payments rules as EU lawmakers weigh appro
 
 Developers are already working to address quantum risks, and investors shouldn’t mistake a long-term challenge for an immediate threat, according to Galaxy Digital’s head of research Alex Thorn.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
 **[Fed Warning Triggers Sudden Bitcoin Price Crash Fear](https://www.forbes.com/sites/digital-assets/2026/03/19/a-wall-street-giant-just-issued-a-stark-bitcoin-price-warning/)**
 
-Forbes • 7h ago
+Forbes • 8h ago
 
 ---
 
-**[Mortgage rates jump to 6.22%; bitcoin, gold, & silver prices fall](https://finance.yahoo.com/video/mortgage-rates-jump-6-22-172719292.html)**
+**[Grant Cardone Teases Monthly Bitcoin Buying As BTC Shines Amid Iran War](https://finance.yahoo.com/markets/crypto/articles/grant-cardone-teases-monthly-bitcoin-183406053.html)**
 
-Yahoo Finance's John Hyland tracks Thursday's top moving stocks and biggest market stories in this Market Minute. This week's mortgage rates jumped to 6.22%, according to the latest data from Freddie Mac (FMCC). Gold (GC=F) and silver (SI=F) prices are under pressure as investors shift expectations around future Fed policy and rate cuts. Bitcoin (BTC-USD) prices fell below $70,000.
+Real estate guru Grant Cardone has hinted that his Cardone Capital company is adopting a monthly Bitcoin-buying strategy. "Cardone Capital [dollar-cost averaging] monthly," Cardone said Monday X post, sharing an AI-generated image of himself in front of a large glowing...
 
 Yahoo Finance • 2h ago
 
@@ -181,7 +181,7 @@ Yahoo Finance • 2h ago
 
 Morgan Stanley's spot Bitcoin ETF will trade under the ticker MSBT on NYSE Arca.
 
-Bitcoin Magazine • 1h ago
+Bitcoin Magazine • 2h ago
 
 ---
 
@@ -189,35 +189,13 @@ Bitcoin Magazine • 1h ago
 
 Scammers are now posting fake social media ads in an attempt to discredit warning stickers placed on Bitcoin ATM machines across the Omaha metro, according to Douglas County Sheriff Aaron Hanson.
 
-WOWT • 16h ago
-
----
-
-**[Ex-Wife Accused of Stealing £180 Million in Bitcoin After Divorce](https://www.bloomberg.com/news/articles/2026-03-19/ex-wife-accused-of-stealing-180-million-in-bitcoin-after-divorce)**
-
-Bloomberg.com • 9h ago
-
----
-
-**[Till Death or Seed Phrase: Woman Accused of Spying on Husband, Stealing $172 Million in Bitcoin](https://bitcoinmagazine.com/news/wife-spying-on-husband-stealing-bitcoin)**
-
-A UK woman is accused of spying on her husband and stealing $172 million in Bitcoin from his hardware wallet.
-
-Bitcoin Magazine • 1d ago
-
----
-
-**[Man Alleges Wife Stole $172 Million in Bitcoin After 'Covertly Recording' Him](https://www.yahoo.com/news/articles/man-alleges-wife-stole-172-213701943.html)**
-
-A man alleged in UK court that his now-estranged wife stole more than $171 million in Bitcoin after using CCTV to obtain a seed phrase.
-
-Yahoo • 2d ago
+WOWT • 17h ago
 
 ---
 
 **[Jellico residents petition to review Bitcoin data center after high electric bills](https://www.wate.com/news/campbell-county-news/jellico-residents-petition-to-review-bitcoin-data-center-after-high-electric-bills/)**
 
-WATE 6 On Your Side • 21h ago
+WATE 6 On Your Side • 22h ago
 
 ---
 
@@ -229,6 +207,30 @@ CNBC • 1d ago
 
 ---
 
+**[Bitcoin Could Drop 25%, Or Jump 120%. Welcome to Crypto's 2026 Grind.](https://www.investopedia.com/the-price-of-bitcoin-could-drop-25-percent-or-jump-120-percent-welcome-to-cryptos-2026-grind-11928359)**
+
+The bear and bull cases for the world's largest cryptocurrency set a wide range of possible outcomes.
+
+Investopedia • 1d ago
+
+---
+
+**[SEC Names Bitcoin, Ether, Solana and 13 More Crypto Assets Digital Commodities — Not Securities](https://www.fintechweekly.com/news/sec-bitcoin-ether-solana-digital-commodities-not-securities-march-2026)**
+
+The SEC and CFTC issued a joint 68-page interpretation on March 17 explicitly naming 16 crypto assets as digital commodities. Staking, mining and airdrops ar...
+
+FinTech Weekly • 1d ago
+
+---
+
+**[Legal battle intensifies over £3bn bitcoin haul seized by British police](https://www.ft.com/content/b580bced-7f81-4636-b8c6-a0b200ed2bd9?syn-25a6b1a6=1)**
+
+Victims of Chinese crypto fraud fight to stop Treasury capturing inflated value of the currency
+
+Financial Times • 8d ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
@@ -237,7 +239,7 @@ CNBC • 1d ago
 
 Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in. Proof that works without us.
 
-⬆️ 1 • 💬 1 • 3h ago • [Umarise](https://umarise.com/blog/proof-of-existence)
+⬆️ 1 • 💬 1 • 4h ago • [Umarise](https://umarise.com/blog/proof-of-existence)
 
 ---
 
@@ -289,7 +291,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 Play a 2D pixel platformer built to explore self-play and reinforcement learning.
 
-⬆️ 1 • 💬 0 • 11h ago • [rlplays.com](https://rlplays.com/game)
+⬆️ 1 • 💬 0 • 12h ago • [rlplays.com](https://rlplays.com/game)
 
 ---
 
@@ -297,7 +299,7 @@ Play a 2D pixel platformer built to explore self-play and reinforcement learning
 
 Seeking power for data centers, Meta and other companies plan to use equipment that is expensive and polluting.
 
-⬆️ 3 • 💬 0 • 17h ago • [nytimes.com](https://www.nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html)
+⬆️ 3 • 💬 0 • 18h ago • [nytimes.com](https://www.nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html)
 
 ---
 
@@ -317,7 +319,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 836 • 💬 90 • ⏱️ 41:39 • 5h ago
+👁️ 13K • 👍 836 • 💬 90 • ⏱️ 41:39 • 6h ago
 
 ---
 
@@ -327,7 +329,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS BTCC: https://themoon
 
 📺 The Moon Show
 
-👁️ 7K • 👍 480 • 💬 86 • ⏱️ 5:50 • 7h ago
+👁️ 7K • 👍 480 • 💬 86 • ⏱️ 5:50 • 8h ago
 
 ---
 
@@ -337,7 +339,7 @@ Let's talk about Bitcoin post-FOMC! Join the ITC March Madness Bracket Challenge
 
 📺 Benjamin Cowen
 
-👁️ 53K • 👍 3K • 💬 170 • ⏱️ 16:44 • 15h ago
+👁️ 53K • 👍 3K • 💬 170 • ⏱️ 16:44 • 16h ago
 
 ---
 
@@ -347,7 +349,7 @@ Bill Barhydt is the founder and CEO of Abra and a longtime leader in digital ass
 
 📺 Anthony Pompliano
 
-👁️ 21K • 👍 843 • 💬 25 • ⏱️ 37:41 • 22h ago
+👁️ 21K • 👍 843 • 💬 25 • ⏱️ 37:41 • 23h ago
 
 ---
 
@@ -357,7 +359,7 @@ Bill Barhydt is the founder and CEO of Abra and a longtime leader in digital ass
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 72 • ⏱️ 9:25 • 21h ago
+👁️ 32K • 👍 2K • 💬 72 • ⏱️ 9:25 • 22h ago
 
 ---
 
@@ -367,7 +369,7 @@ While retail panic sells, one entity is aggressively accumulating Bitcoin at a h
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 80 • ⏱️ 13:53 • 22h ago
+👁️ 18K • 👍 1K • 💬 80 • ⏱️ 13:53 • 23h ago
 
 ---
 

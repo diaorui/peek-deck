@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-03-19T19:50:18.740336+00:00"
+          "dateModified": "2026-03-19T20:39:53.473243+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -843,6 +843,37 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1ry9v81/legit_tesla_robot/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/9fzvfm8802qg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=cb6f709f348c5dc0aca0171f77cc8e722d53e602" alt="Legit Tesla robot" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1ry9v81/legit_tesla_robot/" target="_blank" onclick="event.stopPropagation();">Legit Tesla robot</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1773948708.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rxuoek/robot_dogs_priced_at_300000_a_piece_are_now/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -893,24 +924,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rwtm75/my_homemade_6_axis_arm_project/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1ry4lte/ears_cat_helmet/', '_blank')">
                     <div class="post-thumbnail">
                         
-                        <img src="https://external-preview.redd.it/NjQ4cmQyaHA4cXBnMcMSTkVUG7p_UWyRcMGe6RTGIfYM6EMCp_W5FrT_i86U.png?width=640&crop=smart&auto=webp&s=16cdb20d7e145361ae5a88a09700827e18704294" alt="My homemade 6 axis arm project" onerror="this.style.display='none'" loading="lazy">
+                        <img src="https://external-preview.redd.it/OWJ6dGp1czIwMXFnMbGO7IIw4G0JFpy8AZRotlG-A6rWwKiJ2oADpc3pot3l.png?width=320&crop=smart&auto=webp&s=4f6bc2a3aaaf9ea3cac5f3d467e2912065e1d057" alt="Ears cat helmet" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1rwtm75/my_homemade_6_axis_arm_project/" target="_blank" onclick="event.stopPropagation();">My homemade 6 axis arm project</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1ry4lte/ears_cat_helmet/" target="_blank" onclick="event.stopPropagation();">Ears cat helmet</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            The goal was to develop a low-cost 6-DOF robotic arm platform that lets me build foundational robotics and ROS 2 skills on real hardware instead of only simulation. I wanted a system where I could explore the entire robotics stack, including embedded firmware and motor control all the way up to motion planning and digital-twin simulation. It has also been a great opportunity to experiment with custom and unconventional joint and reducer designs that I haven’t seen implemented on any robotics platforms. Mechanical Architecture: Each joint section was designed and built independently, and later connected using clamped carbon fiber tubes. This modularity allows each joint to be iterated on separately, while the tube lengths can be swapped to change the arm’s reach or payload capacity accordingly. Joint & Reducer Designs: The base joint uses a traditional planetary gearbox. While the shoulder and elbow joints use a split-ring planetary gearbox, by utilizing two slightly offset ring gears driven by a common set of compound planets, this design provides an incredibly high torque density in a compact form factor. Which is what allowed me to achieve a 70:1 and 40:1 gear reduction respectively, while keeping a large contact area to minimize stress between the plastic gears, all without the bulk or backlash of a multi-stage system. Because this gearbox configuration does not provide an accessible output shaft for a conventional encoder, I implemented a custom sensing approach: alternating polarity magnets were mounted around the output ring gear, and a magnetic encoder is positioned perpendicular to the axis with an offset, allowing it to perceive the alternating magnetic fields as a spinning radially magnetized magnet. The spherical wrist uses an inverted belt differential with a custom bearing track to maintain consistent pressure on the belt to prevent skipping. All three wrist motors are mounted behind the elbow joint so they act as a counterweight, reducing inertia at the wrist and improving dynamic performance. Embedded Control & Firmware: The robot is controlled by a STM32 microcontroller, where I developed custom firmware in C to manage SPI communication with 6 daisy-chained encoders, CAN bus communication with a Raspberry Pi, PID loops and step generation for motor control, and a state management safety system. Higher-level planning will run on a Raspberry Pi using ROS 2, where the arm will interface with MoveIt for motion planning and simulation; this is still under development. A write-up of the mechanical design, CAD, and firmware architecture is available on my portfolio, with a deeper breakdown of the ROS-based software stack coming eventually: https://jcgullberg.github.io/projects
-                        </div>
                         
 
                         <!-- Metadata -->
@@ -918,42 +945,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1773806690.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1ry3wri/test_of_3d_slam_camera_robobaton_mini/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/cnU5OGhvdmV2MHFnMY3TpgxcUZuI8cbyhpYZmOz-UWdrz0RFSRTRdGsfQbaV.png?width=640&crop=smart&auto=webp&s=2d180c4b9953d8d39f7b5958b9889291e92b66e3" alt="Test of 3D SLAM Camera RoboBaton mini" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1ry3wri/test_of_3d_slam_camera_robobaton_mini/" target="_blank" onclick="event.stopPropagation();">Test of 3D SLAM Camera RoboBaton mini</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I found that it's just as powerful as the T265, with slightly better accuracy than the T265. When stationary, even with dynamic objects moving in front of it, its visual positioning doesn't drift—very stable.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1773934970.0"></span>
+                                    <span data-timestamp="1773936535.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -986,7 +978,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-19T19:00:12.369542+00:00">Updated 2026-03-19T19:00:12.369542+00:00</small>
+        <small data-timestamp="2026-03-19T20:39:32.291457+00:00">Updated 2026-03-19T20:39:32.291457+00:00</small>
     </div>
 </div>
 
@@ -1171,6 +1163,88 @@
 
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-robotics">
+                
+                <div class="carousel-card" onclick="window.open('https://www.theinformation.com/articles/amazon-acquires-robotics-startup-boosting-efforts-streamline-deliveries', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://tii.imgix.net/production/articles/16787/ddd4d55b-698f-4c06-abcb-646e68c73ff1.png?fm=jpg&auto=compress&w=1200&frame=0');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.theinformation.com/articles/amazon-acquires-robotics-startup-boosting-efforts-streamline-deliveries" target="_blank" onclick="event.stopPropagation();">Amazon Acquires Robotics Startup, Boosting Efforts to Streamline Deliveries</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Amazon has acquired autonomous robotics startup Rivr, an Amazon spokesperson confirmed, a deal that could help the commerce and logistics giant deliver packages to shoppers’ doors more efficiently. Based in Zurich and formerly known as Swiss-Mile, Rivr was valued at $110 million in an August ...
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theinformation.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Information" class="news-favicon">
+                                    <a href="https://www.theinformation.com" target="_blank" onclick="event.stopPropagation();">The Information</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1773951180.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.weau.com/2026/03/19/good-side-robotics-resilience/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://gray-weau-prod.gtv-cdn.com/resizer/v2/Y4WUVWLUMVAFZAOALRK2PHEVDQ.jpg?auth=0aba229de970f8cf86a77219516548c0a82dcf48f6b1b3a31157b1df8c2ddf61&width=1200&height=600&smart=true');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.weau.com/2026/03/19/good-side-robotics-resilience/" target="_blank" onclick="event.stopPropagation();">The Good Side: From Robotics to Resilience</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Capitol City Robotics encourages underrepresented kids to learn robotics and other STEM subjects.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.weau.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="WEAU" class="news-favicon">
+                                    <a href="https://www.weau.com" target="_blank" onclick="event.stopPropagation();">WEAU</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1773942720.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 
                 <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
@@ -1414,20 +1488,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.militarytimes.com/industry/techwatch/2026/03/17/us-navy-taps-gecko-robotics-to-help-remedy-maintenance-headaches/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.foxnews.com/video/6390792906112', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.armytimes.com/resizer/v2/T37XIBWUEJBWLJV35YHSOEOB5M.jpg?width=1200&auth=bd09ec259d9c8fca7b863b728eb1a40d3de21ce5622719c4f5b88b15cfd94687');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3655bbf8-0bfc-468d-a0ee-797e4b5fdcd0/19cfe3b2-2201-4d8d-bf72-4d1acde831ad/1280x720/match/1024/512/image.jpg?ve=1&tl=1');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.militarytimes.com/industry/techwatch/2026/03/17/us-navy-taps-gecko-robotics-to-help-remedy-maintenance-headaches/" target="_blank" onclick="event.stopPropagation();">US Navy taps Gecko Robotics to help remedy maintenance headaches</a>
+                            <a href="https://www.foxnews.com/video/6390792906112" target="_blank" onclick="event.stopPropagation();">Watch: Wall-climbing AI robots inspect Navy warships to speed repairs amid China fleet surge</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Gecko deploys AI and robotics on 18 ships assigned to the Navy’s U.S. Pacific Fleet
+                            See how advanced robotics are scaling destroyers and amphibious ships to detect structural problems faster than traditional methods — part of a new $71 million Navy initiative to boost readiness and cut maintenance delays. (Credit: Gecko Robotics)
                         </div>
                         
 
@@ -1437,9 +1511,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.militarytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Military Times" class="news-favicon">
-                                    <a href="https://www.militarytimes.com" target="_blank" onclick="event.stopPropagation();">Military Times</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Fox News" class="news-favicon">
+                                    <a href="https://www.foxnews.com" target="_blank" onclick="event.stopPropagation();">Fox News</a>
                                     
                                 </div>
                                 
@@ -1447,7 +1521,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1773770171.0"></span>
+                                    <span data-timestamp="1773748485.0"></span>
                                 </div>
                                 
                             </div>
@@ -1455,20 +1529,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.euronews.com/next/2026/03/18/pokemon-go-players-have-unknowingly-been-helping-to-train-delivery-robots', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.visualcapitalist.com/ranked-the-companies-shipping-the-worlds-humanoid-robots/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://images.euronews.com/articles/stories/09/68/88/14/1200x675_cmsv2_5f4ee850-1376-542e-8694-3b630849214f-9688814.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://www.visualcapitalist.com/wp-content/uploads/2026/03/Humanoid-Robot-Shipments_Shareable_03052026-2.webp');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.euronews.com/next/2026/03/18/pokemon-go-players-have-unknowingly-been-helping-to-train-delivery-robots" target="_blank" onclick="event.stopPropagation();">Ever played Pokémon Go? You may have helped train delivery robots</a>
+                            <a href="https://www.visualcapitalist.com/ranked-the-companies-shipping-the-worlds-humanoid-robots/" target="_blank" onclick="event.stopPropagation();">Ranked: The Companies Shipping the Most Humanoid Robots</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            A massive databse built by players of Pokémon Go is now being used Coco Robotics to help its street delivery robots better navigate busy urban environments.
+                            From Unitree to Tesla, see which companies shipped the most robots in 2025, and why Chinese manufacturers dominate the leaderboard.
                         </div>
                         
 
@@ -1478,9 +1552,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.euronews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Euronews.com" class="news-favicon">
-                                    <a href="https://www.euronews.com" target="_blank" onclick="event.stopPropagation();">Euronews.com</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.visualcapitalist.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Visual Capitalist" class="news-favicon">
+                                    <a href="https://www.visualcapitalist.com" target="_blank" onclick="event.stopPropagation();">Visual Capitalist</a>
                                     
                                 </div>
                                 
@@ -1488,89 +1562,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1773819669.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://futurism.com/robots-and-machines/delivery-robot-philadelphia', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://futurism.com/wp-content/uploads/2026/03/delivery-robot-philadelphia.jpg?w=1200');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://futurism.com/robots-and-machines/delivery-robot-philadelphia" target="_blank" onclick="event.stopPropagation();">Delivery Robot Dogpiled on the Streets of Philly</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            One little bot learned the tagline "city of brotherly love" only applies to humans, not food delivery robots.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://futurism.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Futurism" class="news-favicon">
-                                    <a href="https://futurism.com" target="_blank" onclick="event.stopPropagation();">Futurism</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1773925600.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.bbc.com/news/articles/cp32zk4lpz4o', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/news/1024/branded_news/4e27/live/6a6d0bc0-1cac-11f1-b048-c9424b2cf5fd.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.bbc.com/news/articles/cp32zk4lpz4o" target="_blank" onclick="event.stopPropagation();">How robots made Northampton warehouse three times more efficient</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            They can lift heavy boxes and climb shelves 12m high but will they put humans out of work?
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="BBC" class="news-favicon">
-                                    <a href="https://www.bbc.com" target="_blank" onclick="event.stopPropagation();">BBC</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1773902549.0"></span>
+                                    <span data-timestamp="1773774874.0"></span>
                                 </div>
                                 
                             </div>
@@ -1598,7 +1590,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-19T19:00:26.219065+00:00">Updated 2026-03-19T19:00:26.219065+00:00</small>
+        <small data-timestamp="2026-03-19T20:39:49.057830+00:00">Updated 2026-03-19T20:39:49.057830+00:00</small>
     </div>
 </div>
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-19T19:50:19.152182+00:00'
+updated: '2026-03-19T20:39:53.897906+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 19, 2026 at 19:50 UTC  
+**Last Updated:** March 19, 2026 at 20:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[The Robotics team from Wissahickon High School in Ambler, Pennsylvania built a robot Miss Daisy XXIV that picks up balls and shoots them into a container.](https://www.reddit.com/r/robotics/comments/1ry3haa/the_robotics_team_from_wissahickon_high_school_in/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 Why can’t robots use their lidar to scan the room and confirm there is enough space to perform an action? 🤔 Obviously I learned the hard way but it’s a good question. What do you guys think?
 
-2h ago
+3h ago
 
 ---
 
 **[Robot playing tennis ,what are your thoughts on this feat ? Is it comparable to figure cleaning the room ,could it be said that this is best feat ai humanoid robot has shown so far](https://www.reddit.com/r/robotics/comments/1rxwsm1/robot_playing_tennis_what_are_your_thoughts_on/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -56,13 +56,13 @@ Why can’t robots use their lidar to scan the room and confirm there is enough 
 
 I integrated the RoboBaton Viobot2 SLAM camera into my drone build. The VIO performance is notably stable, offering reliable visual odometry for autonomous flight applications.
 
-2h ago
+3h ago
 
 ---
 
 **[Bender robot](https://www.reddit.com/r/robotics/comments/1rxryqs/bender_robot/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -80,25 +80,21 @@ This is my 6 DIY DOF robot arm I designed 3 years ago. But I m new on reddit :) 
 
 ---
 
+**[Legit Tesla robot](https://www.reddit.com/r/robotics/comments/1ry9v81/legit_tesla_robot/)**
+
+1h ago
+
+---
+
 **[Robot dogs priced at $300,000 a piece are now guarding some of the country’s biggest data centers](https://www.reddit.com/r/robotics/comments/1rxuoek/robot_dogs_priced_at_300000_a_piece_are_now/)**
 
 Tech giants are now deploying robotic dogs to guard massive artificial intelligence data centers across the country cite Fortune. These four legged machines from companies like Boston Dynamics cost up to 300.000 dollars each and patrol massive server campuses around the clock. They are equipped with sensors to detect thermal anomalies unauthorized intruders and equipment failures.
 
-🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 11h ago
+🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 12h ago
 
 ---
 
-**[My homemade 6 axis arm project](https://www.reddit.com/r/robotics/comments/1rwtm75/my_homemade_6_axis_arm_project/)**
-
-The goal was to develop a low-cost 6-DOF robotic arm platform that lets me build foundational robotics and ROS 2 skills on real hardware instead of only simulation. I wanted a system where I could explore the entire robotics stack, including embedded firmware and motor control all the way up to motion planning and digital-twin simulation. It has also been a great opportunity to experiment with custom and unconventional joint and reducer designs that I haven’t seen implemented on any robotics platforms. Mechanical Architecture: Each joint section was designed and built independently, and later connected using clamped carbon fiber tubes. This modularity allows each joint to be iterated on separately, while the tube lengths can be swapped to change the arm’s reach or payload capacity accordingly. Joint & Reducer Designs: The base joint uses a traditional planetary gearbox. While the shoulder and elbow joints use a split-ring planetary gearbox, by utilizing two slightly offset ring gears driven by a common set of compound planets, this design provides an incredibly high torque density in a compact form factor. Which is what allowed me to achieve a 70:1 and 40:1 gear reduction respectively, while keeping a large contact area to minimize stress between the plastic gears, all without the bulk or backlash of a multi-stage system. Because this gearbox configuration does not provide an accessible output shaft for a conventional encoder, I implemented a custom sensing approach: alternating polarity magnets were mounted around the output ring gear, and a magnetic encoder is positioned perpendicular to the axis with an offset, allowing it to perceive the alternating magnetic fields as a spinning radially magnetized magnet. The spherical wrist uses an inverted belt differential with a custom bearing track to maintain consistent pressure on the belt to prevent skipping. All three wrist motors are mounted behind the elbow joint so they act as a counterweight, reducing inertia at the wrist and improving dynamic performance. Embedded Control & Firmware: The robot is controlled by a STM32 microcontroller, where I developed custom firmware in C to manage SPI communication with 6 daisy-chained encoders, CAN bus communication with a Raspberry Pi, PID loops and step generation for motor control, and a state management safety system. Higher-level planning will run on a Raspberry Pi using ROS 2, where the arm will interface with MoveIt for motion planning and simulation; this is still under development. A write-up of the mechanical design, CAD, and firmware architecture is available on my portfolio, with a deeper breakdown of the ROS-based software stack coming eventually: https://jcgullberg.github.io/projects
-
-1d ago
-
----
-
-**[Test of 3D SLAM Camera RoboBaton mini](https://www.reddit.com/r/robotics/comments/1ry3wri/test_of_3d_slam_camera_robobaton_mini/)**
-
-I found that it's just as powerful as the T265, with slightly better accuracy than the T265. When stationary, even with dynamic objects moving in front of it, its visual positioning doesn't drift—very stable.
+**[Ears cat helmet](https://www.reddit.com/r/robotics/comments/1ry4lte/ears_cat_helmet/)**
 
 4h ago
 
@@ -108,11 +104,27 @@ I found that it's just as powerful as the T265, with slightly better accuracy th
 
 ## Google News: "robotics"
 
+**[Amazon Acquires Robotics Startup, Boosting Efforts to Streamline Deliveries](https://www.theinformation.com/articles/amazon-acquires-robotics-startup-boosting-efforts-streamline-deliveries)**
+
+Amazon has acquired autonomous robotics startup Rivr, an Amazon spokesperson confirmed, a deal that could help the commerce and logistics giant deliver packages to shoppers’ doors more efficiently. Based in Zurich and formerly known as Swiss-Mile, Rivr was valued at $110 million in an August ...
+
+The Information • 26m ago
+
+---
+
+**[The Good Side: From Robotics to Resilience](https://www.weau.com/2026/03/19/good-side-robotics-resilience/)**
+
+Capitol City Robotics encourages underrepresented kids to learn robotics and other STEM subjects.
+
+WEAU • 2h ago
+
+---
+
 **[Inside China’s robotics revolution](https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution)**
 
 The long read: How close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find out
 
-The Guardian • 14h ago
+The Guardian • 15h ago
 
 ---
 
@@ -154,35 +166,19 @@ TechCrunch • 2d ago
 
 ---
 
-**[US Navy taps Gecko Robotics to help remedy maintenance headaches](https://www.militarytimes.com/industry/techwatch/2026/03/17/us-navy-taps-gecko-robotics-to-help-remedy-maintenance-headaches/)**
+**[Watch: Wall-climbing AI robots inspect Navy warships to speed repairs amid China fleet surge](https://www.foxnews.com/video/6390792906112)**
 
-Gecko deploys AI and robotics on 18 ships assigned to the Navy’s U.S. Pacific Fleet
+See how advanced robotics are scaling destroyers and amphibious ships to detect structural problems faster than traditional methods — part of a new $71 million Navy initiative to boost readiness and cut maintenance delays. (Credit: Gecko Robotics)
 
-Military Times • 2d ago
-
----
-
-**[Ever played Pokémon Go? You may have helped train delivery robots](https://www.euronews.com/next/2026/03/18/pokemon-go-players-have-unknowingly-been-helping-to-train-delivery-robots)**
-
-A massive databse built by players of Pokémon Go is now being used Coco Robotics to help its street delivery robots better navigate busy urban environments.
-
-Euronews.com • 1d ago
+Fox News • 2d ago
 
 ---
 
-**[Delivery Robot Dogpiled on the Streets of Philly](https://futurism.com/robots-and-machines/delivery-robot-philadelphia)**
+**[Ranked: The Companies Shipping the Most Humanoid Robots](https://www.visualcapitalist.com/ranked-the-companies-shipping-the-worlds-humanoid-robots/)**
 
-One little bot learned the tagline "city of brotherly love" only applies to humans, not food delivery robots.
+From Unitree to Tesla, see which companies shipped the most robots in 2025, and why Chinese manufacturers dominate the leaderboard.
 
-Futurism • 6h ago
-
----
-
-**[How robots made Northampton warehouse three times more efficient](https://www.bbc.com/news/articles/cp32zk4lpz4o)**
-
-They can lift heavy boxes and climb shelves 12m high but will they put humans out of work?
-
-BBC • 13h ago
+Visual Capitalist • 2d ago
 
 ---
 
@@ -206,7 +202,7 @@ Video shows restaurant employees struggling to restrain a dancing robot that wen
 
 📺 NBC News
 
-👁️ 71K • 👍 978 • 💬 294 • ⏱️ 3:38 • 16h ago
+👁️ 71K • 👍 978 • 💬 294 • ⏱️ 3:38 • 17h ago
 
 ---
 
@@ -216,7 +212,7 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 19K • 👍 363 • 💬 239 • ⏱️ 2:07 • 8h ago
+👁️ 19K • 👍 363 • 💬 239 • ⏱️ 2:07 • 9h ago
 
 ---
 
@@ -266,7 +262,7 @@ We got a sneak peek at Disney's newest robotic character Olaf, who will debut at
 
 📺 CNET
 
-👁️ 126K • 👍 2K • 💬 128 • ⏱️ 3:35 • 2d ago
+👁️ 126K • 👍 2K • 💬 128 • ⏱️ 3:35 • 3d ago
 
 ---
 
@@ -286,7 +282,7 @@ War Robots Gameplay: NEW Guns VELOS on the Ammit are crazy! WR My War Robots Cre
 
 📺 Manni-Gaming
 
-👁️ 3K • 👍 268 • 💬 59 • ⏱️ 22:28 • 6h ago
+👁️ 3K • 👍 268 • 💬 59 • ⏱️ 22:28 • 7h ago
 
 ---
 
