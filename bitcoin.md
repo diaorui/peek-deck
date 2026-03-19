@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-19T14:28:43.167781+00:00'
+updated: '2026-03-19T15:24:46.139744+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 19, 2026 at 14:28 UTC  
+**Last Updated:** March 19, 2026 at 15:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1386.09B
+**Market Cap:** $1386.82B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
@@ -64,7 +64,7 @@ Rank #1
 -45.0%
 
 **All-Time Low:** $67.81
-+102199.1%
++102129.8%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[who remember those guys?](https://www.reddit.com/r/Bitcoin/comments/1rxuwuj/who_remember_those_guys/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Morpheus explains the truth about the simulation](https://www.reddit.com/r/Bitcoin/comments/1rxx6cm/morpheus_explains_the_truth_about_the_simulation/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 I think 10$ a day is a reasonable DCA amount. Of course the wife thinks it’s too heavy. Then in the 60k range I feel the need to double down. Thoughts?
 
-5h ago
+6h ago
 
 ---
 
 **[Institutional demand for Bitcoin has risen to its highest level since October, 2025](https://www.reddit.com/r/Bitcoin/comments/1rxanbh/institutional_demand_for_bitcoin_has_risen_to_its/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -107,7 +107,7 @@ I think 10$ a day is a reasonable DCA amount. Of course the wife thinks it’s t
 
 Guys, this is next level disturbing. The letter obviously has my full name and home address in order to get delivered. The contents of the letter goes on about Trezor’s new “Authentication Code” going into effect here soon and to scan the QR code on the letter to activate it. It had all the legal mumble jumble and very official looking. Be safe out there everyone. Scammers are not only using the internet.
 
-19h ago
+20h ago
 
 ---
 
@@ -115,7 +115,7 @@ Guys, this is next level disturbing. The letter obviously has my full name and h
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-8h ago
+9h ago
 
 ---
 
@@ -123,7 +123,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Hey r/Bitcoin, My name is Marc, I’m 20 years old, and I want to quickly share my story with you. A while ago I really started learning about Bitcoin and I see in it what many people still don’t see. At first my goal was simple: instead of letting my money sit in a bank savings account, I wanted to use Bitcoin to actually build a future for myself. Meanwhile it has become much more than that. I work full-time as a paramedic (emergency medical technician). Right now I’ve increased my hours to 120% — that means roughly 6 days a week. At these prices I want to earn and stack as much Bitcoin as possible. Currently I’m only 0.00868 BTC away from my first 0.1 Bitcoin. According to my plan I should hit that in about 2 weeks — and I definitely won’t stop there. I also just cashed out an old pension insurance policy that my grandparents set up for me years ago. There was around $4,000 on it. Realistically I would have only received about $40 per month in retirement from it, so I decided to take the money now and put it all into Bitcoin instead. Who knows — maybe this decision will one day change my entire life. With realistic projections I should reach around 0.15 BTC in a few months. If things continue to go well, 0.25 BTC by 2026-2027 feels very achievable. Bitcoin isn’t just an investment for me anymore. It’s the opportunity I want to go all-in on while I’m still young and able to push hard. Thanks for reading.
 
-15h ago
+16h ago
 
 ---
 
@@ -131,7 +131,7 @@ Hey r/Bitcoin, My name is Marc, I’m 20 years old, and I want to quickly share 
 
 I've been running my own umbrel node and staring at the mempool way too much. And it was not really funny. At some point my brain... "What if every transaction was a vehicle on a highway? Small ones are bikes, big ones are trucks etc, etc The result is TxRush – a real-time mempool visualizer where BTC transactions drive across your screen as vehicles. The bigger the amount, the bigger the ride. Actually not a bad way to learn a thing or two about Bitcoin It's a side project, it's free, no signups, no ads, no tracking. Just mempool traffic as a highway. Works on mobile and desktop. Oh and there's a live BTC price with a 24h chart for all you 3am price checkers out there Roast it, love it, ignore it – I had fun building it either way. Link if you want
 
-22h ago
+23h ago
 
 ---
 
@@ -147,7 +147,7 @@ People who dismiss the 4 year cycle got a reality check. I think the power law d
 
 Is there a website service for that? I want to be able to offer bitcoin as a payment option on my website. Currently, I use Stripe as the main one. I would like to be able to generate invoices from it like Stripe does. Is it possible?
 
-10h ago
+11h ago
 
 ---
 
@@ -159,7 +159,7 @@ Is there a website service for that? I want to be able to offer bitcoin as a pay
 
 Developers are already working to address quantum risks, and investors shouldn’t mistake a long-term challenge for an immediate threat, according to Galaxy Digital’s head of research Alex Thorn.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 3h ago
 
 OGs sell as Fed's hawkish stance on rates pressures crypto and other risk assets.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -175,13 +175,13 @@ CoinDesk • 7h ago
 
 BTC dips below $70,000 as energy prices spike and Fed holds rates, pressuring crypto and equities while altcoins see sharper losses.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
 **[Fed Warning Triggers Sudden Bitcoin Price Crash Fear](https://www.forbes.com/sites/digital-assets/2026/03/19/a-wall-street-giant-just-issued-a-stark-bitcoin-price-warning/)**
 
-Forbes • 2h ago
+Forbes • 3h ago
 
 ---
 
@@ -189,7 +189,7 @@ Forbes • 2h ago
 
 US war with Iran continues to rattles markets. Neither Bitcoin nor gold is safe. Both will struggle to rally while oil prices remain elevated.
 
-dlnews.com • 1h ago
+dlnews.com • 2h ago
 
 ---
 
@@ -197,7 +197,7 @@ dlnews.com • 1h ago
 
 Fed proposal cuts bank capital by 4.8% and fixes custody risk rules, clearing a major regulatory hurdle for institutional Bitcoin adoption
 
-Bitcoin Magazine • 11m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -205,7 +205,7 @@ Bitcoin Magazine • 11m ago
 
 Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and XRP (CRYPTO: XRP) have all crashed between 40% and 60% from their 2025 highs. As the entire market gears towards a recovery, investors want to know which of Bitcoin, XRP, or Ethereum is the best crypto to invest in this year? To keep things fair, we asked ChatGPT ... XRP vs Bitcoin vs Ethereum: ChatGPT Predicts Which Crypto Is Best for 2026
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -213,13 +213,13 @@ Yahoo Finance • 1h ago
 
 Scammers are now posting fake social media ads in an attempt to discredit warning stickers placed on Bitcoin ATM machines across the Omaha metro, according to Douglas County Sheriff Aaron Hanson.
 
-WOWT • 10h ago
+WOWT • 11h ago
 
 ---
 
 **[Ex-Wife Accused of Stealing £180 Million in Bitcoin After Divorce](https://www.bloomberg.com/news/articles/2026-03-19/ex-wife-accused-of-stealing-180-million-in-bitcoin-after-divorce)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -227,7 +227,7 @@ Bloomberg.com • 4h ago
 
 A UK woman is accused of spying on her husband and stealing $172 million in Bitcoin from his hardware wallet.
 
-Bitcoin Magazine • 19h ago
+Bitcoin Magazine • 20h ago
 
 ---
 
@@ -291,7 +291,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 Play a 2D pixel platformer built to explore self-play and reinforcement learning.
 
-⬆️ 1 • 💬 0 • 6h ago • [rlplays.com](https://rlplays.com/game)
+⬆️ 1 • 💬 0 • 7h ago • [rlplays.com](https://rlplays.com/game)
 
 ---
 
@@ -299,7 +299,7 @@ Play a 2D pixel platformer built to explore self-play and reinforcement learning
 
 Seeking power for data centers, Meta and other companies plan to use equipment that is expensive and polluting.
 
-⬆️ 3 • 💬 0 • 11h ago • [nytimes.com](https://www.nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html)
+⬆️ 3 • 💬 0 • 12h ago • [nytimes.com](https://www.nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html)
 
 ---
 
@@ -315,21 +315,11 @@ Seeking power for data centers, Meta and other companies plan to use equipment t
 
 **[A Massive Bitcoin Bull Case Is Forming](https://www.youtube.com/watch?v=skohgb8JyWI)**
 
-Bill Barhydt is the founder and CEO of Abra and a longtime leader in digital assets and crypto wealth management.
+Bill Barhydt is the founder and CEO of Abra and a longtime leader in digital assets and crypto wealth management. In this ...
 
 📺 Anthony Pompliano
 
-👁️ 18K • 👍 750 • 💬 2 • ⏱️ 37:41 • 17h ago
-
----
-
-**[Bitcoin: Post-FOMC](https://www.youtube.com/watch?v=Kx7F_EL9ocI)**
-
-Let's talk about Bitcoin post-FOMC! Join the ITC March Madness Bracket Challenge! Winner gets a 1 year subscription to ITC ...
-
-📺 Benjamin Cowen
-
-👁️ 37K • 👍 3K • 💬 141 • ⏱️ 16:44 • 10h ago
+👁️ 19K • 👍 779 • 💬 25 • ⏱️ 37:41 • 18h ago
 
 ---
 
@@ -339,17 +329,17 @@ Let's talk about Bitcoin post-FOMC! Join the ITC March Madness Bracket Challenge
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 2K • 💬 66 • ⏱️ 9:25 • 16h ago
+👁️ 29K • 👍 2K • 💬 68 • ⏱️ 9:25 • 17h ago
 
 ---
 
-**[Bitcoin &amp; Crypto Get Regulatory Clarity! (What You MUST Know)](https://www.youtube.com/watch?v=5_EHMaIK2fc)**
+**[Bitcoin: Post-FOMC](https://www.youtube.com/watch?v=Kx7F_EL9ocI)**
 
-Bitcoin #Crypto #Finance The SEC and CFTC just made a historic move by defining how crypto assets are classified, signaling ...
+Let's talk about Bitcoin post-FOMC! Join the ITC March Madness Bracket Challenge! Winner gets a 1 year subscription to ITC ...
 
-📺 The Wolf Of All Streets
+📺 Benjamin Cowen
 
-👁️ 13K • 👍 526 • 💬 203 • ⏱️ 19:06 • 1d ago
+👁️ 43K • 👍 3K • 💬 155 • ⏱️ 16:44 • 10h ago
 
 ---
 
@@ -359,27 +349,7 @@ While retail panic sells, one entity is aggressively accumulating Bitcoin at a h
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 77 • ⏱️ 13:53 • 17h ago
-
----
-
-**[Bitcoin: An Unfortunate Pattern [Update]](https://www.youtube.com/watch?v=rKjce1jCxSM)**
-
-It can be tough to be objective in Bitcoin bear markets, especially during countertrend rallies. In this video we look at stablecoin ...
-
-📺 Benjamin Cowen
-
-👁️ 86K • 👍 5K • 💬 272 • ⏱️ 30:12 • 1d ago
-
----
-
-**[Why Retailers Don’t Accept Bitcoin As Payment 😅](https://www.youtube.com/watch?v=-kLxmzDmoYk)**
-
-There are several reasons retailers don't accept Bitcoin as payment. #shorts #bitcoin #xrp Order a Tangem Wallet (30% Off + ...
-
-📺 Cyber Scrilla
-
-👁️ 9K • 👍 321 • 💬 46 • ⏱️ 1:05 • 1d ago
+👁️ 17K • 👍 1K • 💬 74 • ⏱️ 13:53 • 18h ago
 
 ---
 
@@ -389,27 +359,57 @@ Crypto is about to get LEGIT CRAZY $30k Bonus Sign Up For WEEX: https://www.weex
 
 📺 Altcoin Daily
 
-👁️ 12K • 👍 359 • 💬 91 • ⏱️ 1:14 • 1d ago
+👁️ 12K • 👍 368 • 💬 91 • ⏱️ 1:14 • 1d ago
 
 ---
 
-**[💥 BREAKING: Bitcoin Is Entering The Banana Zone — $200K Suddenly Looks Possible](https://www.youtube.com/watch?v=pB2Nz2uMtYs)**
+**[SEC clarifies position on crypto: Chair Atkins on new interpretation of digital assets](https://www.youtube.com/watch?v=cjibSqTvINc)**
 
-BREAKING: Bitcoin Is Entering The Banana Zone — $200K Suddenly Looks Possible Bitcoin Is Entering The Banana Zone ...
+SEC Chairman Paul Atkins joins 'Squawk Box' to discuss the agency's position on crypto assets, why it believes most crypto ...
 
-📺 The Wealth Continuum
+📺 CNBC Television
 
-👁️ 4K • 👍 204 • 💬 48 • ⏱️ 17:23 • 19h ago
+👁️ 34K • 👍 432 • 💬 158 • ⏱️ 5:41 • 1d ago
 
 ---
 
-**[BITCOIN: BIG FAT UGLY REJECTION 🚨🚨 (we have been anticipating, this is next)](https://www.youtube.com/watch?v=shV9ab0OnCs)**
+**[Bitcoin faces pressure after hotter-than-expected inflation data: CNBC Crypto World](https://www.youtube.com/watch?v=IEWU2V79Aa0)**
 
-FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
+On today's episode of CNBC Crypto World, crypto markets are on pace to outperform Wall Street despite a Wednesday pullback ...
 
-📺 Ivan on Tech
+📺 CNBC Television
 
-👁️ 8K • 👍 823 • 💬 31 • ⏱️ 53:38 • 4h ago
+👁️ 8K • 👍 105 • 💬 98 • ⏱️ 13:40 • 20h ago
+
+---
+
+**[Massive News → Bitcoin HIGHER](https://www.youtube.com/watch?v=us5nLWnf2Zc)**
+
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc 50% deposit bonus on first $100 (sign up on ...
+
+📺 Altcoin Daily
+
+👁️ 11K • 👍 420 • 💬 99 • ⏱️ 1:08 • 2d ago
+
+---
+
+**[Bitcoin Ownership is Changing FAST. Should You Be Worried?](https://www.youtube.com/watch?v=pGeECOBSMjc)**
+
+Bitcoin is under attack again. Politicians and critics are calling it a Ponzi while institutions and governments accumulate more ...
+
+📺 Simply Bitcoin
+
+👁️ 28K • 👍 2K • 💬 105 • ⏱️ 12:22 • 2d ago
+
+---
+
+**[Bitcoin: An Unfortunate Pattern [Update]](https://www.youtube.com/watch?v=rKjce1jCxSM)**
+
+It can be tough to be objective in Bitcoin bear markets, especially during countertrend rallies. In this video we look at stablecoin ...
+
+📺 Benjamin Cowen
+
+👁️ 87K • 👍 5K • 💬 272 • ⏱️ 30:12 • 1d ago
 
 ---
 

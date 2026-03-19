@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-19T14:28:43.175732+00:00'
+updated: '2026-03-19T15:24:46.148766+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 19, 2026 at 14:28 UTC  
+**Last Updated:** March 19, 2026 at 15:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Robot playing tennis ,what are your thoughts on this feat ? Is it comparable to figure cleaning the room ,could it be said that this is best feat ai humanoid robot has shown so far](https://www.reddit.com/r/robotics/comments/1rxwsm1/robot_playing_tennis_what_are_your_thoughts_on/)**
 
-3h ago
+4h ago
 
 ---
 
 **[FANUC DR Series High-Speed Delta Robot in Action](https://www.reddit.com/r/robotics/comments/1rx9b6m/fanuc_dr_series_highspeed_delta_robot_in_action/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -48,13 +48,13 @@ Robotics research and industry news
 
 This is my 6 DIY DOF robot arm I designed 3 years ago. But I m new on reddit :) This is a project I did only to learn 3D modeling and robotic. Works with Arduino and ROS
 
-19h ago
+20h ago
 
 ---
 
 **[Bender robot](https://www.reddit.com/r/robotics/comments/1rxryqs/bender_robot/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -62,7 +62,7 @@ This is my 6 DIY DOF robot arm I designed 3 years ago. But I m new on reddit :) 
 
 Tech giants are now deploying robotic dogs to guard massive artificial intelligence data centers across the country cite Fortune. These four legged machines from companies like Boston Dynamics cost up to 300.000 dollars each and patrol massive server campuses around the clock. They are equipped with sensors to detect thermal anomalies unauthorized intruders and equipment failures.
 
-🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 6h ago
+🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 7h ago
 
 ---
 
@@ -84,7 +84,7 @@ Tried with Brachiation motion - a had swing motion that mostly gibbons etc use t
 
 **[Robot playing tennis](https://www.reddit.com/r/robotics/comments/1rxp2jp/robot_playing_tennis/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -92,7 +92,7 @@ Tried with Brachiation motion - a had swing motion that mostly gibbons etc use t
 
 Hi! I'm a co-founder of HEBI Robotics. I have a passion for making robotics research easier, and I mainly work on our visualization tools and our real-time control API for MATLAB. We've often hit bottlenecks when doing visualization out of process. To solve this, we spent the last several months exposing internal UI tools via a stable C ABI, so they can be embedded directly into development code with full access and minimal overhead. After many challenges, we're finally at a point where I'm excited to share a first video of the result. Since the library needs to play well with Python and MATLAB, the engine is 100% asynchronous. An internal layer handles the state transfer, and the UI thread simply swaps to the latest state at the start of every frame. This means users never have to worry about mutexes or the UI thread. All calls are isolated and non-blocking, so you can push data from a high-frequency control loop. For MATLAB users, this means you can run a tight busy-loop without a pause or drawnow, and it still renders smoothly at 60 fps. The bindings are fully auto-generated, so Python and MATLAB get 100% type-hint and autocomplete support out of the box. We're still ironing out a few minor things, but the goal is to make this available to the community and independent of the HEBI hardware ecosystem (as is most of our software). I'm curious what people think! I'm also happy to geek out about the technical details in person at ERF next week or ICRA in June.
 
-🔗 [youtu.be](https://youtu.be/B5GT9XAcqB8) • 17h ago
+🔗 [youtu.be](https://youtu.be/B5GT9XAcqB8) • 18h ago
 
 ---
 
@@ -100,7 +100,7 @@ Hi! I'm a co-founder of HEBI Robotics. I have a passion for making robotics rese
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=9qZcTMARvpk) • 16h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=9qZcTMARvpk) • 17h ago
 
 ---
 
@@ -112,7 +112,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 The long read: How close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find out
 
-The Guardian • 9h ago
+The Guardian • 10h ago
 
 ---
 
@@ -120,7 +120,7 @@ The Guardian • 9h ago
 
 In a recent episode of Radio Davos and in a session at the World Economic Forum's 56th Annual Meeting in Davos, experts on physical AI talked us through what's next for autonomous systems.
 
-The World Economic Forum • 21h ago
+The World Economic Forum • 22h ago
 
 ---
 
@@ -189,23 +189,23 @@ The Durango Herald • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[NVIDIA GTC Demo Stuns Audience With Real Olaf Robot Next To Jensen Huang](https://www.youtube.com/watch?v=pPnVsRPFWV8)**
-
-The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrations when Jensen Huang introduced a real ...
-
-📺 DPCcars
-
-👁️ 107K • 👍 832 • 💬 85 • ⏱️ 2:02 • 2d ago
-
----
-
 **[Dancing robot goes rogue in hot pot restaurant](https://www.youtube.com/watch?v=DfnIEWpbMU8)**
 
 Video shows restaurant employees struggling to restrain a dancing robot that went rogue in a hot pot restaurant in California.
 
 📺 NBC News
 
-👁️ 40K • 👍 522 • 💬 175 • ⏱️ 3:38 • 11h ago
+👁️ 47K • 👍 682 • 💬 215 • ⏱️ 3:38 • 12h ago
+
+---
+
+**[NVIDIA GTC Demo Stuns Audience With Real Olaf Robot Next To Jensen Huang](https://www.youtube.com/watch?v=pPnVsRPFWV8)**
+
+The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrations when Jensen Huang introduced a real ...
+
+📺 DPCcars
+
+👁️ 109K • 👍 843 • 💬 86 • ⏱️ 2:02 • 2d ago
 
 ---
 
@@ -215,7 +215,7 @@ Flagrant is a comedy show that delivers unfiltered, unapologetic, and unruly hot
 
 📺 FLAGRANT CLIPS
 
-👁️ 52K • 👍 1K • 💬 243 • ⏱️ 16:57 • 1d ago
+👁️ 54K • 👍 1K • 💬 248 • ⏱️ 16:57 • 1d ago
 
 ---
 
@@ -225,17 +225,17 @@ I visited @SundayRobotics to see how they're building a household robot that act
 
 📺 ZAUEY (Claire Zau)
 
-👁️ 25K • 👍 791 • 💬 66 • ⏱️ 15:48 • 6d ago
+👁️ 25K • 👍 792 • 💬 66 • ⏱️ 15:48 • 6d ago
 
 ---
 
-**[I Built The World&#39;s Smallest Robot Dog!](https://www.youtube.com/watch?v=nmmopQ1EEs0)**
+**[Out of control robot smashes up restaurant as waitress desperately attempts to drag it away](https://www.youtube.com/watch?v=ZyohmMJA5Ao)**
 
-Sesame Micro is a tangent project to the Sesame Robot Project, an open-source mini quadruped robot. This video is an insight ...
+THIS is the hilarious moment a boogying robot dances too hard and sends food and cutlery flying in a high end restaurant.
 
-📺 Dorian Todd
+📺 The Sun
 
-👁️ 5K • 👍 571 • 💬 47 • ⏱️ 11:03 • 9h ago
+👁️ 8K • 👍 236 • 💬 156 • ⏱️ 2:07 • 4h ago
 
 ---
 
@@ -245,35 +245,7 @@ Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and g
 
 📺 Brighter with Herbert
 
-👁️ 98K • 👍 2K • 💬 316 • ⏱️ 49:45 • 4d ago
-
----
-
-**[How Disney &amp; Nvidia Brought Olaf to Life as a Robot ☃️](https://www.youtube.com/watch?v=LESOs5GtIrg)**
-
-We got a sneak peek at Disney's newest robotic character Olaf, who will debut at Disneyland Paris by the end of March.
-
-📺 CNET
-
-👁️ 119K • 👍 2K • 💬 123 • ⏱️ 3:35 • 2d ago
-
----
-
-**[Jensen Huang Reveals the Future of Self Driving Cars and Robots at NVIDIA GTC 2026](https://www.youtube.com/watch?v=bvg4zdOeFMk)**
-
-Artificial intelligence is entering the real world. At NVIDIA GTC 2026, Jensen Huang revealed how new AI systems are powering ...
-
-📺 DPCcars
-
-👁️ 112K • 👍 1K • 💬 225 • ⏱️ 11:48 • 2d ago
-
----
-
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=o04URFEaSjM)**
-
-📺 Robot Julie 
-
-👁️ 5K • 👍 37 • ⏱️ 0:24 • 13h ago
+👁️ 98K • 👍 2K • 💬 317 • ⏱️ 49:45 • 4d ago
 
 ---
 
@@ -283,7 +255,35 @@ Gecko Robotics announced a $71 million partnership with the US Navy, deploying i
 
 📺 Bloomberg Technology
 
-👁️ 3K • 👍 101 • 💬 3 • ⏱️ 4:39 • 1d ago
+👁️ 3K • 👍 102 • 💬 3 • ⏱️ 4:39 • 1d ago
+
+---
+
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=o04URFEaSjM)**
+
+📺 Robot Julie 
+
+👁️ 8K • 👍 45 • ⏱️ 0:24 • 14h ago
+
+---
+
+**[China’s New CENTAUR AI ROBOT Gives Humans Super Strength](https://www.youtube.com/watch?v=HxUhW1zIrbw)**
+
+China just revealed a robotic system that can turn a human into something that moves like a centaur, helping people carry heavy ...
+
+📺 AI Revolution
+
+👁️ 48K • 👍 672 • 💬 81 • ⏱️ 14:52 • 5d ago
+
+---
+
+**[How Disney &amp; Nvidia Brought Olaf to Life as a Robot ☃️](https://www.youtube.com/watch?v=LESOs5GtIrg)**
+
+We got a sneak peek at Disney's newest robotic character Olaf, who will debut at Disneyland Paris by the end of March.
+
+📺 CNET
+
+👁️ 121K • 👍 2K • 💬 124 • ⏱️ 3:35 • 2d ago
 
 ---
 

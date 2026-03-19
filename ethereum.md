@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-19T14:28:43.172984+00:00'
+updated: '2026-03-19T15:24:46.145643+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 19, 2026 at 14:28 UTC  
+**Last Updated:** March 19, 2026 at 15:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $256.59B
+**Market Cap:** $255.48B
 Rank #2
 
 **Circulating Supply:** 120,691,801 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.9%
+-57.2%
 
 **All-Time Low:** $0.43
-+492013.9%
++488780.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The top priority is safety and security. The coins to be stored are ETH and USDC (can also be 2 separate wallets for each, I dont mind that). They are to be used for long-term. The wallet will be installed on a external drive which is then removed and stored securely. Wallet is not installed on the computer itself. What are your best recommendations? PS: Yes, I know! Usually people recommend hardware wallets... but I think they are still risky because you put all your trust in just one single company, and sometimes they can do stupid stuff, for example as we've seen some stories with Ledger and their multiple data leaks. I personally feel more comfrotable with a software one, as long as it's safe and secure.
 
-15h ago
+16h ago
 
 ---
 
@@ -102,7 +102,7 @@ I'm traveling next month across a few different countries and really want to spe
 
 **[r/BASE FOUNDER 'AMA' SERIES Week 6 - DEGEN: Join us Thursday March 19th, 2pm ET](https://www.reddit.com/r/ethereum/comments/1rxgcae/rbase_founder_ama_series_week_6_degen_join_us/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -152,7 +152,7 @@ EF just sold 5000 ETH to Bitmine at local low (price), meanwhile publishing inse
 
 A whale trader has reportedly bought 50,706 ETH with 111.62 million USDT on Wednesday, after selling holdings a year earlier.
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Block • 12h ago
 
 Inflation has exceeded the central bank’s 2% target for nearly five years, but the Fed held rates firm again as Bitcoin and Ethereum wobbled.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
 
 ---
 
@@ -168,7 +168,7 @@ Decrypt • 20h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 40m ago
+Fortune • 1h ago
 
 ---
 
@@ -176,7 +176,7 @@ Fortune • 40m ago
 
 Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and XRP (CRYPTO: XRP) have all crashed between 40% and 60% from their 2025 highs. As the entire market gears towards a recovery, investors want to know which of Bitcoin, XRP, or Ethereum is the best crypto to invest in this year? To keep things fair, we asked ChatGPT ... XRP vs Bitcoin vs Ethereum: ChatGPT Predicts Which Crypto Is Best for 2026
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -184,13 +184,13 @@ Yahoo Finance • 1h ago
 
 When it comes to stablecoins, Ethereum rules and the XRP Ledger lags far behind.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
 **[AI Agents Can Now Escrow Payments Trustlessly — Meet ERC-8183, the Ethereum Standard That Changes Everything](https://www.ccn.com/education/crypto/erc-8183-programmable-escrow-ai-agents-ethereum-how-it-works/)**
 
-CCN.com • 2h ago
+CCN.com • 3h ago
 
 ---
 
@@ -204,13 +204,13 @@ Barron's • 2d ago
 
 Ethereum’s price has spent much of the past cycle lagging its own institutional and on-chain progress, and Bitwise says the reason is straightforward: ETH is still trading primarily as a Bitcoin proxy, not as a fundamentally valued network. In a new factor-model analysis, the asset manager found BT…
 
-TradingView • 19h ago
+TradingView • 20h ago
 
 ---
 
 **[BitMine Stock Drops 8% as Ethereum Pullback, High Costs, and Hawkish Fed Weigh on Investors](https://www.tipranks.com/news/bitmine-stock-drops-8-as-ethereum-pullback-high-costs-and-hawkish-fed-weigh-on-investors)**
 
-TipRanks • 11h ago
+TipRanks • 12h ago
 
 ---
 
@@ -218,7 +218,7 @@ TipRanks • 11h ago
 
 Vitalik Buterin said that the 'lean Ethereum' plan was the only way to get faster speed and security without trade-offs.
 
-AMBCrypto • 6h ago
+AMBCrypto • 7h ago
 
 ---
 
@@ -232,17 +232,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 121 • 💬 4 • ⏱️ 4:15 • 12h ago
+👁️ 2K • 👍 126 • 💬 5 • ⏱️ 4:15 • 13h ago
 
 ---
 
-**[🚨 BTC &amp; ETH: HOW I MAKE MONEY WITH TRADING BOTS!!! METHOD REVEALED!!!! (+Full Tutorial)](https://www.youtube.com/watch?v=Iutgz89XTR8)**
+**[BTC, ETH, SOL, XRP, SUI, FET, CHZ, HBAR, ICP, BNB, ILS1, BTCETH Altcoins Analyzed: Live TA](https://www.youtube.com/watch?v=Dw437Y-IkRQ)**
 
-In this video, I reveal how I make money using trading bots, their settings, strategies, and more. BYUSDT, earn while trading: ...
+In this live technical analysis session, The Trading Parrot breaks down BTC, ETH, SOL, XRP, SUI, FET, CHZ, HBAR, ICP, and ...
 
-📺 Thomas Kralow
+📺 The Trading Parrot
 
-👁️ 851 • 👍 2K • 💬 2 • ⏱️ 13:55 • 3h ago
+👁️ 706 • 👍 87 • 💬 2 • ⏱️ 1:10:26 • 59m ago
+
+---
+
+**[Live Crypto Trading | Bitcoin, Ethereum, Altcoin Scalping &amp; Analysis in Real-Time](https://www.youtube.com/watch?v=BNw5eHPxRp4)**
+
+Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburner Get Free access on - Crypto Trading Club ...
+
+📺 Trade with Burner
+
+👁️ 4K • 👍 506 • 1h ago
 
 ---
 
@@ -252,7 +262,7 @@ BITCOIN DUMP: Bearish Price Target Revealed (get ready)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 6K • 👍 279 • 💬 59 • ⏱️ 17:24 • 12h ago
+👁️ 7K • 👍 274 • 💬 59 • ⏱️ 17:24 • 13h ago
 
 ---
 
@@ -262,37 +272,17 @@ BloFin (NO KYC) – Up to $5,000 bonus + No Restrictions https://marzell.org/Blo
 
 📺 Marzell Crypto
 
-👁️ 479 • 👍 15 • 💬 35 • ⏱️ 3:03 • 21h ago
+👁️ 480 • 👍 15 • 💬 35 • ⏱️ 3:03 • 22h ago
 
 ---
 
-**[ETHEREUM About To Flash Signal That Preceded Every CRYPTO BULL RUN (CONFIRMATION AREA)](https://www.youtube.com/watch?v=KEHaW52ZEkM)**
+**[WILL ETHEREUM RALLY AGAIN?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=xnQHe6XBd2s)**
 
-Use our crypto risk models to accumulate, plan exits, and stay ahead! Free Trial https://app.cryptocapitalventure.ai The oversold ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Dan Gambardello
+📺 Cilinix Crypto
 
-👁️ 13K • 👍 770 • 💬 193 • ⏱️ 13:47 • 2d ago
-
----
-
-**[Crypto Holders Can’t Believe.. It’s Actually Happening](https://www.youtube.com/watch?v=coGc_pNFCQU)**
-
-0% Fees on Gold And Silver (Earn $300k): https://www.weex.com/events/promo/0fees-gold-silver-300k?vipCode=oz5p ...
-
-📺 Altcoin Daily
-
-👁️ 28K • 👍 2K • 💬 66 • ⏱️ 9:25 • 16h ago
-
----
-
-**[BITCOIN (BTC) VOLTA A CAIR DEPOIS DO JURO AMERICANO + ETHEREUM (ETH), SOLANA (SOL), CRIPTOMOEDAS](https://www.youtube.com/watch?v=T48iDecit7Q)**
-
-RECEBA DE GRAÇA OS MEUS MONITORES DA CAPITULAÇÃO E DE FUNDO: https://bit.ly/3MkN08Z ENTRE PARA O MEU ...
-
-📺 Bernardo Pascowitch
-
-👁️ 992 • 👍 212 • 1h ago
+👁️ 132 • 👍 13 • 💬 1 • ⏱️ 5:34 • 5h ago
 
 ---
 
@@ -302,7 +292,15 @@ OUR SPRING $600 OFF INDICATOR SALE IS LIVE!: https://tradeconfidentportal.io/ind
 
 📺 Trade Confident
 
-👁️ 647 • 👍 21 • 💬 1 • ⏱️ 4:12 • 20h ago
+👁️ 650 • 👍 21 • 💬 1 • ⏱️ 4:12 • 21h ago
+
+---
+
+**[Asking AI to Predict Ethereum Price in 2030](https://www.youtube.com/watch?v=nmWDqBAfbkw)**
+
+📺 EllioTrades
+
+👁️ 1K • 👍 55 • 💬 18 • ⏱️ 1:07 • 1h ago
 
 ---
 
@@ -316,13 +314,13 @@ The S&P 500 could fall sharply this year because of a combination of economic he
 
 ---
 
-**[CRYPTO LIVE TRADING || 19 Mar  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=bcEL8UseYYI)**
+**[IS THE CRYPTO RALLY LEGIT? BITCOIN, XRP, ETHEREUM, &amp; SOLANA ANALYSIS!](https://www.youtube.com/watch?v=6I53qLIw3fA)**
 
-join my social platforms for updates and analysis ✓Instagram: ...
+Brian from Santiment joined me to review the crypto market metrics. We review onchain metrics for Bitcoin, Ripple XRP, Ethereum, ...
 
-📺 Aryan trader Live
+📺 Thinking Crypto
 
-👁️ 5K • 👍 4K • 3h ago
+👁️ 3K • 👍 222 • 💬 56 • ⏱️ 28:07 • 1d ago
 
 ---
 
