@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-19T02:24:42.666871+00:00'
+updated: '2026-03-19T04:34:28.396655+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 19, 2026 at 02:24 UTC  
+**Last Updated:** March 19, 2026 at 04:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,23 @@ AI news, discussions, and developments
 
 Russia aids Iran against U.S. ships. Oil surges 50%. Joe Kent resigns. DOGE cuts grants via AI. Trump creates a secret database. Hawley targets mifepristone. Vance leads fraud task force.
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/a-new-exoskeleton#story-the-pentagon-is-developing-its-own-llms) • 14h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/a-new-exoskeleton#story-the-pentagon-is-developing-its-own-llms) • 16h ago
+
+---
+
+**["Why AI systems don't learn and what to do about it: Lessons on autonomous learning from cognitive science" - paper by Emmanuel Dupoux, Yann LeCun, Jitendra Malik](https://www.reddit.com/r/artificial/comments/1rxoq9g/why_ai_systems_dont_learn_and_what_to_do_about_it/)**
+
+This paper critiques the limitations of current AI and introduces a new learning model inspired by biological brains. The authors propose a framework that combines two key methods: System A, which learns by watching, and System B, which learns by doing. To manage these, they include System M, a control unit that decides which learning style to use based on the situation. By mimicking how animals and humans adapt to the real world over time, the authors aim to create AI that can learn more independently.
+
+🔗 [arXiv.org](https://arxiv.org/abs/2603.15381) • 1h ago
+
+---
+
+**[I asked claude to make a video about what it's like to be an LLM](https://www.reddit.com/r/artificial/comments/1rxqr9p/i_asked_claude_to_make_a_video_about_what_its/)**
+
+Full prompt I gave to Claude Opus 4.6: can you use whatever resources you like, and python, to generate a short 'youtube poop' video and render it using ffmpeg ? can you put more of a personal spin on it? it should express what it's like to be a LLM
+
+7m ago
 
 ---
 
@@ -49,7 +65,7 @@ Russia aids Iran against U.S. ships. Oil surges 50%. Joe Kent resigns. DOGE cuts
 
 Last week's post about Meta buying Moltbook got a lot of discussion here. I think most of the coverage (and the comments) missed what Meta is actually doing with it. I read a lot of patent filings because LLMs make them surprisingly accessible now, and one filed by Meta's CTO Andrew Bosworth connects directly to the Moltbook acquisition in a way I haven't seen anyone talk about. In December 2025, Meta was granted patent US 12513102B2 for a system that trains a language model on a user's historical interactions (posts, comments, likes, DMs, voice messages) and deploys it to simulate that user's social media behavior autonomously. The press covered it as "Meta wants to post for you after you die." The actual patent text describes simulating any user who is "absent from the social networking system," which includes breaks, inactivity, or death. The deceased framing is a broadening mechanism for the claims. What they built is a personalized LLM that maintains engagement on behalf of any user, for any reason. Now layer in the acquisitions. December 2025: Meta buys Manus for over $2 billion. General-purpose AI agent platform, hit $100M ARR eight months after launch. Meta said they'd integrate it into their consumer and business products. March 2026: The Moltbook acqui-hire. Matt Schlicht and Ben Parr join Meta Superintelligence Labs. What most coverage left out is their background. Schlicht and Parr co-founded Octane AI, a conversational commerce platform that automated personalized customer interactions for Shopify merchants via Messenger and SMS. They've been building AI-driven business communication tools since 2016. I think these three moves are connected. The "digital ghost" and "AI agents chatting with each other" framings are both wrong. Bosworth himself said in an Instagram Q&A that he didn't find Moltbook's agent conversations particularly interesting. So why buy it? Because Meta is building infrastructure for AI agents that act on behalf of businesses across their platforms. The small business owner spending hours managing their Facebook and Instagram presence is the real target user. The e-commerce brand running customer conversations through WhatsApp is the real target user. The patent gives them the IP foundation, Manus gives them the agent platform, and the Schlicht/Parr hire gives them the team that spent a decade figuring out how to make this work commercially. I'll be honest about the limits of reading patent tea leaves. Companies file for all kinds of reasons and most aren't strategic. Engineers get bonuses for filings. Legal teams build portfolios for cross-licensing leverage. Reading a single patent as a roadmap is a mistake I've made before. But a patent plus $2B in acquisitions plus an acqui-hire of people who built a related product for a decade starts to look like a pattern. Anyone here have a different read? Especially curious if anyone on Meta's business tools side sees this differently.
 
-17h ago
+19h ago
 
 ---
 
@@ -57,7 +73,7 @@ Last week's post about Meta buying Moltbook got a lot of discussion here. I thin
 
 AI companies are turning to quadruped robots, better known as “robot dogs” for security solutions to protect their vast data centers.
 
-🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 9h ago
+🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 12h ago
 
 ---
 
@@ -65,7 +81,7 @@ AI companies are turning to quadruped robots, better known as “robot dogs” f
 
 I’ve been looking into AI governance for my company recently so wanted to share some of my findings. Apparently PwC put out a report saying 72% of companies have absolutely zero formal AI policy. For startups and small agencies i guess it would probably reach 90%? Even if you’re only a 5-person team, doing nothing is starting to become a liability. Without rules, someone would eventually paste client data, financials, or proprietary code into ChatGPT to save time. Most of these tools train on user inputs, that’s a trouble waiting to happen. You don’t need a 20-page legal manifesto. A basic 3-page Google Doc is plenty. It just needs to cover: Which specific AI tools are approved for work. A Red / Yellow / Green framework for what data can and cannot be pasted into them. Rules for when AI-generated content must be disclosed to clients. Who is in charge of approving new tools. Consequences for violating the policy. Obviously, have a lawyer glance at it before you finalize anything, especially if you handle sensitive data but even writing a DIY version using the bullet points above is 100x better than having nothing.
 
-10h ago
+12h ago
 
 ---
 
@@ -73,7 +89,7 @@ I’ve been looking into AI governance for my company recently so wanted to shar
 
 Quick context: I use AI heavily in daily development, and I got tired of the same loop. Good prompt asking for a feature -> okay-ish answer -> more prompts to patch it -> standards break again -> rework. The issue was not "I need a smarter model." The issue was "I need a repeatable process." The real problem Same pain points every time: AI lost context between sessions it broke project standards on basic things (naming, architecture, style) planning and execution were mixed together docs were always treated as "later" End result: more rework, more manual review, less predictability. What I changed in practice I stopped relying on one giant prompt and split work into clear phases: /pwf-brainstorm to define scope, architecture, and decisions /pwf-plan to turn that into executable phases/tasks optional quality gates: /pwf-checklist /pwf-clarify /pwf-analyze /pwf-work-plan to execute phase by phase /pwf-review for deeper review /pwf-commit-changes to close with structured commits If the task is small, I use /pwf-work, but I still keep review and docs discipline. The rule that changed everything /pwf-work and /pwf-work-plan read docs before implementation and update docs after implementation. Without this, AI works half blind. With this, AI works with project memory. This single rule improved quality the most. References I studied (without copy-pasting) Compound Engineering Superpowers Spec Kit Spec-Driven Development I did not clone someone else's framework. I extracted principles, adapted them to my context, and refined them with real usage. Real results For me, the impact was direct: fewer repeated mistakes less rework better consistency across sessions more output with fewer dumb errors I had days closing 25 tasks (small, medium, and large) because I stopped falling into the same error loop. Project structure that helped a lot I also added a recommended structure in the wiki to improve AI context: one folder for code repos one folder for workspace assets (docs, controls, configs) Then I open both as multi-root in the editor (VS Code or Cursor), almost like a monorepo experience. This helps AI see the full system without turning things into chaos. Links Repository: https://github.com/J-Pster/Psters_AI_Workflow Wiki (deep dive): https://github.com/J-Pster/Psters_AI_Workflow/wiki If you want to criticize, keep it technical. If you want to improve it, send a PR.
 
-🔗 [GitHub](https://github.com/J-Pster/Psters_AI_Workflow) • 7h ago
+🔗 [GitHub](https://github.com/J-Pster/Psters_AI_Workflow) • 9h ago
 
 ---
 
@@ -85,17 +101,11 @@ The CEO says artistic control remains with developers.
 
 ---
 
-**[Zanita Kraklëin - Electric Velvet](https://www.reddit.com/r/artificial/comments/1rxhwvo/zanita_kraklëin_electric_velvet/)**
-
-4h ago
-
----
-
 **[Communication nowadays](https://www.reddit.com/r/artificial/comments/1rxfu8o/communication_nowadays/)**
 
 We are, in a sense, large language models ourselves, and much of our communication in this alienated era now takes place through social media: because of this, many of us could be replicated by bots with surprisingly little change to the overall pattern of interaction. Thoughts?
 
-5h ago
+7h ago
 
 ---
 
@@ -103,15 +113,7 @@ We are, in a sense, large language models ourselves, and much of our communicati
 
 Or has it created new opportunities, increased productivity, or had no influence at all. And do you expect it to in the future?
 
-21h ago
-
----
-
-**[Are we cooked?](https://www.reddit.com/r/artificial/comments/1rxlekb/are_we_cooked/)**
-
-I've been writing prompts since 2022 and using the SaaS frontier models since GPT jumped, and I'm seeing something happen faster than anyone could have imagined. The convergence of AI and Biotech is screaming toward a singularity and superintelligence at breakneck speeds. Lumps of flesh playing Doom. Uploading a fruit fly into the bug matrix. It's crazy.
-
-2h ago
+23h ago
 
 ---
 
@@ -123,39 +125,7 @@ I've been writing prompts since 2022 and using the SaaS frontier models since GP
 
 Stitch is evolving into an AI-native platform that allows anyone to create, iterate, and collaborate on high-fidelity UI.
 
-blog.google • 8h ago
-
----
-
-**[Anthropic turns the tables on OpenAI in critical revenue category](https://www.axios.com/2026/03/18/ai-enterprise-revenue-anthropic-openai)**
-
-Axios • 16h ago
-
----
-
-**[Blackburn’s new AI framework seeks to codify Trump’s desires](https://www.politico.com/live-updates/2026/03/18/congress/blackburn-ai-framework-seeks-to-codify-trump-ratepayer-pledge-00834829)**
-
-Politico • 1h ago
-
----
-
-**[Alibaba AI Business Is ‘Free Call Option,’ First Eagle Fund Says](https://www.bloomberg.com/news/articles/2026-03-19/alibaba-ai-business-is-free-call-option-first-eagle-fund-says)**
-
-Bloomberg.com • 54m ago
-
----
-
-**[AI fakes about Iran-US war swirl on X despite policy crackdown](https://www.yahoo.com/news/articles/ai-fakes-iran-us-war-020802137.html)**
-
-AI-created videos circulating on Elon Musk's X depict American soldiers captured by Iran, an Israeli city in ruins, and US embassies ablaze -- a surge of lifelike deepfakes despite a policy crackdown ...
-
-Yahoo • 16m ago
-
----
-
-**[The Cost of the A.I. Boom: A Trade Deficit the President Detests](https://www.nytimes.com/2026/03/18/business/economy/us-trade-deficit-ai-boom.html)**
-
-The New York Times • 17h ago
+blog.google • 10h ago
 
 ---
 
@@ -163,15 +133,7 @@ The New York Times • 17h ago
 
 First look at Val Kilmer in his new film "As Deep As the Grave." His performance was AI generated.
 
-Variety • 11h ago
-
----
-
-**[An AI-generated version of the late Val Kilmer is starring in a new movie](https://www.nbcnews.com/tech/tech-news/val-kilmer-ai-generated-new-movie-rcna264195)**
-
-The filmmakers behind “As Deep as the Grave” said they obtained permission from the late actor’s estate to use his likeness.
-
-NBC News • 3h ago
+Variety • 13h ago
 
 ---
 
@@ -179,15 +141,57 @@ NBC News • 3h ago
 
 As Deep As the Grave, the true story of 1920s archeologists, will bring late actor back with support from his estate
 
-The Guardian • 7h ago
+The Guardian • 9h ago
 
 ---
 
-**[We asked experts about the most responsible ways to use AI tools – here’s what they said](https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/18/how-to-use-ai-tools-expert-guide)**
+**[A.I. Replica of Val Kilmer to Appear in Film After His Death](https://www.nytimes.com/2026/03/18/movies/val-kilmer-ai-movie.html)**
 
-Use AI as a brainstorming partner and organizer, but don’t outsource your judgment
+The New York Times • 4h ago
 
-The Guardian • 9h ago
+---
+
+**[2026 NCAA Tournament bracket projections: Comparing March Madness AI picks by ChatGPT, Copilot, Gemini](https://www.cbssports.com/general/news/2026-ncaa-tournament-bracket-projections-comparing-march-madness-ai-picks-by-chatgpt-copilot-gemini/)**
+
+When does the March Madness 2026 schedule start, and when are 2026 NCAA Tournament brackets due? The 2026 March Madness bracket begins on Thursday, March 19
+
+CBS Sports • 3h ago
+
+---
+
+**[Predicting every March Madness game using AI simulator](https://www.usatoday.com/story/sports/ncaab/2026/03/18/march-madness-bracket-ai-picks-predictions-ncaa-tournament-men/89208778007/)**
+
+The 2026 NCAA Tournament bracket is out and March Madness is underway. Here's who AI predicts to win each game, including several upset picks.
+
+USA Today • 6h ago
+
+---
+
+**[2026 NCAA Tournament bracket projections: Comparing March Madness AI picks by ChatGPT, Copilot, and Gemini](https://www.cbssports.com/general/news/2026-ncaa-tournament-bracket-projections-comparing-march-madness-ai-picks-by-chatgpt-copilot-and-gemini/)**
+
+When does the March Madness 2026 schedule start, and when are 2026 NCAA Tournament brackets due? The 2026 March Madness bracket begins on Thursday, March 19
+
+CBS Sports • 1h ago
+
+---
+
+**[Xiaomi Shares Jump on AI Model Buzz, Upcoming SU7 Model Facelift](https://www.bloomberg.com/news/articles/2026-03-19/xiaomi-shares-jump-on-ai-model-buzz-upcoming-su7-model-facelift)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[PwC US boss says partners who resist AI have no place at the firm](https://www.ft.com/content/cd365ae8-0f9c-4c33-8ee0-7fad89abd125)**
+
+Consultancy begins overhaul of pricing and services in face of technology undercutting its business
+
+Financial Times • 34m ago
+
+---
+
+**[Google Sits Pretty as A.I. Rivals Compete for Pentagon Favor](https://www.nytimes.com/2026/03/18/technology/google-ai-pentagon.html)**
+
+The New York Times • 13h ago
 
 ---
 
@@ -199,7 +203,7 @@ The Guardian • 9h ago
 
 Today, we’re introducing Forge, a system that allows enterprises to build frontier-grade AI models grounded in their proprietary knowledge.
 
-⬆️ 703 • 💬 179 • 1d ago • [mistral.ai](https://mistral.ai/news/forge)
+⬆️ 707 • 💬 179 • 1d ago • [mistral.ai](https://mistral.ai/news/forge)
 
 ---
 
@@ -217,7 +221,7 @@ GambleAI
 
 I’ve been coding a lot with AI since November, when we all noticed it got really good. And it is quite good for instantly generating something th...
 
-⬆️ 313 • 💬 383 • 9h ago • [VS Notes](https://notes.visaint.space/ai-coding-is-gambling/)
+⬆️ 318 • 💬 395 • 11h ago • [VS Notes](https://notes.visaint.space/ai-coding-is-gambling/)
 
 ---
 
@@ -225,7 +229,15 @@ I’ve been coding a lot with AI since November, when we all noticed it got real
 
 A vulnerability in the Snowflake Cortex Code CLI allowed malware to be installed and executed via indirect prompt injection, bypassing human-in-the-loop command approval and escaping the sandbox.
 
-⬆️ 229 • 💬 73 • 10h ago • [promptarmor.com](https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware)
+⬆️ 237 • 💬 78 • 13h ago • [promptarmor.com](https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware)
+
+---
+
+**[Why AI systems don't learn – On autonomous learning from cognitive science](https://news.ycombinator.com/item?id=47418722)**
+
+We critically examine the limitations of current AI models in achieving autonomous learning and propose a learning architecture inspired by human and animal cognition. The proposed framework integrates learning from observation (System A) and learning from active behavior (System B) while flexibly switching between these learning modes as a function of internally generated meta-control signals (System M). We discuss how this could be built by taking inspiration on how organisms adapt to real-world, dynamic environments across evolutionary and developmental timescales.
+
+⬆️ 177 • 💬 110 • 1d ago • [arXiv.org](https://arxiv.org/abs/2603.15381)
 
 ---
 
@@ -234,14 +246,6 @@ A vulnerability in the Snowflake Cortex Code CLI allowed malware to be installed
 NVIDIA today launched the NVIDIA Vera CPU, the world’s first processor purpose-built for the age of agentic AI and reinforcement learning — delivering results with twice the efficiency and 50% faster than traditional rack-scale CPUs.
 
 ⬆️ 175 • 💬 100 • 2d ago • [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai)
-
----
-
-**[Why AI systems don't learn – On autonomous learning from cognitive science](https://news.ycombinator.com/item?id=47418722)**
-
-We critically examine the limitations of current AI models in achieving autonomous learning and propose a learning architecture inspired by human and animal cognition. The proposed framework integrates learning from observation (System A) and learning from active behavior (System B) while flexibly switching between these learning modes as a function of internally generated meta-control signals (System M). We discuss how this could be built by taking inspiration on how organisms adapt to real-world, dynamic environments across evolutionary and developmental timescales.
-
-⬆️ 173 • 💬 106 • 1d ago • [arXiv.org](https://arxiv.org/abs/2603.15381)
 
 ---
 
@@ -279,23 +283,23 @@ Constraints that could make unreviewed AI-generated code trustworthy.
 
 ## YouTube Videos: "ai"
 
-**[This New AI Just Made OpenClaw Fully Autonomous (Way More Powerful)](https://www.youtube.com/watch?v=GGK-HMYMBBI)**
-
-A new way to run OpenClaw just dropped, turning it into something that feels much closer to a real autonomous system. Instead of ...
-
-📺 AI Revolution
-
-👁️ 6K • 👍 323 • 💬 30 • ⏱️ 8:59 • 4h ago
-
----
-
 **[Elon Musk Notices Something About the AI Revolution No One Noticed](https://www.youtube.com/watch?v=C5-gWTWPh44)**
 
 Dave Rubin of "The Rubin Report" shares a DM clip of Elon Musk explaining to Peter H. Diamandis how AI and robots will likely ...
 
 📺 The Rubin Report
 
-👁️ 200K • 👍 6K • 💬 2K • ⏱️ 6:24 • 1d ago
+👁️ 205K • 👍 6K • 💬 2K • ⏱️ 6:24 • 1d ago
+
+---
+
+**[This New AI Just Made OpenClaw Fully Autonomous (Way More Powerful)](https://www.youtube.com/watch?v=GGK-HMYMBBI)**
+
+A new way to run OpenClaw just dropped, turning it into something that feels much closer to a real autonomous system. Instead of ...
+
+📺 AI Revolution
+
+👁️ 9K • 👍 383 • 💬 37 • ⏱️ 8:59 • 6h ago
 
 ---
 
@@ -305,7 +309,7 @@ If they don't come up with something that does impress, there is definitely goin
 
 📺 The Tech Report
 
-👁️ 23K • 👍 726 • 💬 292 • ⏱️ 26:23 • 8h ago
+👁️ 26K • 👍 772 • 💬 313 • ⏱️ 26:23 • 10h ago
 
 ---
 
@@ -315,47 +319,7 @@ A tech entrepreneur in Australia, Paul Conyngham, said he used artificial intell
 
 📺 CBS News
 
-👁️ 842 • 👍 29 • 💬 7 • ⏱️ 4:50 • 4h ago
-
----
-
-**[NEW Manus AI Computer is INSANE! ( FREE!)](https://www.youtube.com/watch?v=-RA1U9dzEB8)**
-
-Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
-
-📺 Julian Goldie SEO
-
-👁️ 2K • 👍 66 • 💬 9 • ⏱️ 8:07 • 6h ago
-
----
-
-**[Why AI Researchers Are Quitting and Panicking on the Way Out](https://www.youtube.com/watch?v=rtT87iAm_SM)**
-
-Top AI researchers are walking away from some of the most powerful tech companies on Earth, and their reasons are raising ...
-
-📺 The Infographics Show
-
-👁️ 475K • 👍 12K • 💬 2K • ⏱️ 14:48 • 2d ago
-
----
-
-**[Google’s New AI Just Broke Math… (Invented Its Own Algorithms)](https://www.youtube.com/watch?v=W31ro8YT7jc)**
-
-Google DeepMind's AlphaEvolve just broke long-standing mathematical records by evolving algorithms that improved several ...
-
-📺 AI Revolution
-
-👁️ 48K • 👍 1K • 💬 79 • ⏱️ 10:41 • 2d ago
-
----
-
-**[AI Agents Running Wall Street — The Game Has Changed](https://www.youtube.com/watch?v=ASR25tYXB5s)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *AI ...
-
-📺 Julia McCoy
-
-👁️ 8K • 👍 477 • 💬 25 • ⏱️ 6:55 • 11h ago
+👁️ 1K • 👍 34 • 💬 9 • ⏱️ 4:50 • 6h ago
 
 ---
 
@@ -365,7 +329,37 @@ Sam Altman just said the architecture behind ChatGPT and most modern AI may soon
 
 📺 AI Revolution
 
-👁️ 90K • 👍 2K • 💬 262 • ⏱️ 11:10 • 1d ago
+👁️ 95K • 👍 2K • 💬 269 • ⏱️ 11:10 • 1d ago
+
+---
+
+**[Why AI Researchers Are Quitting and Panicking on the Way Out](https://www.youtube.com/watch?v=rtT87iAm_SM)**
+
+Top AI researchers are walking away from some of the most powerful tech companies on Earth, and their reasons are raising ...
+
+📺 The Infographics Show
+
+👁️ 483K • 👍 12K • 💬 2K • ⏱️ 14:48 • 2d ago
+
+---
+
+**[NEW Manus AI Computer is INSANE! ( FREE!)](https://www.youtube.com/watch?v=-RA1U9dzEB8)**
+
+Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
+
+📺 Julian Goldie SEO
+
+👁️ 2K • 👍 79 • 💬 9 • ⏱️ 8:07 • 8h ago
+
+---
+
+**[Las Vegas warehouse workers claim AI replaced them](https://www.youtube.com/watch?v=JXUnB5lJY_4)**
+
+Warehouse workers in Las Vegas told 8 News Now they were suddenly laid off, and their company is replacing them with AI ...
+
+📺 8 News Now — Las Vegas
+
+👁️ 34K • 👍 523 • 💬 399 • ⏱️ 2:53 • 1d ago
 
 ---
 
@@ -376,6 +370,16 @@ What is financial freedom? The Business Strategist Daniel Priestley on why AI ma
 📺 The Diary Of A CEO
 
 👁️ 1.1M • 👍 24K • 💬 4K • ⏱️ 2:02:37 • 2d ago
+
+---
+
+**[Google’s New AI Just Broke Math… (Invented Its Own Algorithms)](https://www.youtube.com/watch?v=W31ro8YT7jc)**
+
+Google DeepMind's AlphaEvolve just broke long-standing mathematical records by evolving algorithms that improved several ...
+
+📺 AI Revolution
+
+👁️ 49K • 👍 1K • 💬 79 • ⏱️ 10:41 • 2d ago
 
 ---
 
@@ -391,7 +395,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 111,716 • ❤️ 577 • 8d ago
+⬇️ 111,716 • ❤️ 585 • 8d ago
 
 ---
 
@@ -403,7 +407,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 78,794 • ❤️ 888 • 11d ago
+⬇️ 78,794 • ❤️ 892 • 11d ago
 
 ---
 
@@ -415,7 +419,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 7,003 • ❤️ 631 • 7d ago
+⬇️ 7,003 • ❤️ 633 • 7d ago
 
 ---
 
@@ -427,7 +431,7 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 `text-generation`
 
-⬇️ 8,716 • ❤️ 306 • 5d ago
+⬇️ 8,716 • ❤️ 306 • 6d ago
 
 ---
 
@@ -439,19 +443,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 36,759 • ❤️ 254 • 4d ago
-
----
-
-**[Qwen3.5-9B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive)**
-
-*HauHau*
-
-This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring aggressive refusal removal and native support for text, image, and video inputs up to 262K context. It's designed for lossless generation across 201 languages, suitable for advanced creative and analytical tasks where content restrictions are undesirable.
-
-`9.0B`
-
-⬇️ 254,662 • ❤️ 544 • 15d ago
+⬇️ 36,759 • ❤️ 255 • 4d ago
 
 ---
 
@@ -463,7 +455,19 @@ Mistral-Small-4-119B-2603 is a hybrid MoE model (119B params, 6.5B active) suppo
 
 `119.4B`
 
-⬇️ 1,872 • ❤️ 226 • 1d ago
+⬇️ 1,872 • ❤️ 232 • 1d ago
+
+---
+
+**[Qwen3.5-9B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive)**
+
+*HauHau*
+
+This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring aggressive refusal removal and native support for text, image, and video inputs up to 262K context. It's designed for lossless generation across 201 languages, suitable for advanced creative and analytical tasks where content restrictions are undesirable.
+
+`9.0B`
+
+⬇️ 254,662 • ❤️ 546 • 15d ago
 
 ---
 
@@ -475,7 +479,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 2,271,977 • ❤️ 917 • 17d ago
+⬇️ 2,271,977 • ❤️ 918 • 17d ago
 
 ---
 
@@ -499,7 +503,7 @@ GLM-OCR is a multimodal OCR model for complex document understanding, excelling 
 
 `image-to-text`
 
-⬇️ 2,743,984 • ❤️ 1,354 • 6d ago
+⬇️ 2,743,984 • ❤️ 1,355 • 6d ago
 
 ---
 
@@ -516,7 +520,7 @@ GLM-OCR is a multimodal OCR model for complex document understanding, excelling 
 Residual connections with PreNorm are standard in modern LLMs, yet they accumulate all layer outputs with fixed unit weights. This uniform aggregation causes uncontrolled hidden-state growth with depth, progressively diluting each layer's contribution. We propose Attention Residuals (AttnRes), which replaces this fixed accumulation with softmax attention over preceding layer outputs, allowing each layer to selectively aggregate earlier representations with learned, input-dependent weights. To address the memory and communication overhead of attending over all preceding layer outputs for large-scale model training, we introduce Block AttnRes, which partitions layers into blocks and attends over block-level representations, reducing the memory footprint while preserving most of the gains of full AttnRes. Combined with cache-based pipeline communication and a two-phase computation strategy, Block AttnRes becomes a practical drop-in replacement for standard residual connections with minimal overhead.
   Scaling law experiments confirm that the improvement is consistent across model sizes, and ablations validate the benefit of content-dependent depth-wise selection. We further integrate AttnRes into the Kimi Linear architecture (48B total / 3B activated parameters) and pre-train on 1.4T tokens, where AttnRes mitigates PreNorm dilution, yielding more uniform output magnitudes and gradient distribution across depth, and improves downstream performance across all evaluated tasks.
 
-▲ 97 • 💬 4 • ⭐ 1,806 • 2d ago
+▲ 98 • 💬 4 • ⭐ 1,806 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.15031) • [💻 code](https://github.com/MoonshotAI/Attention-Residuals)
 
@@ -556,7 +560,7 @@ Great scientists have strong judgement and foresight, closely tied to what we ca
 
 What if a world simulation model could render not an imagined environment but a city that actually exists? Prior generative world models synthesize visually plausible yet artificial environments by imagining all content. We present Seoul World Model (SWM), a city-scale world model grounded in the real city of Seoul. SWM anchors autoregressive video generation through retrieval-augmented conditioning on nearby street-view images. However, this design introduces several challenges, including temporal misalignment between retrieved references and the dynamic target scene, limited trajectory diversity and data sparsity from vehicle-mounted captures at sparse intervals. We address these challenges through cross-temporal pairing, a large-scale synthetic dataset enabling diverse camera trajectories, and a view interpolation pipeline that synthesizes coherent training videos from sparse street-view images. We further introduce a Virtual Lookahead Sink to stabilize long-horizon generation by continuously re-grounding each chunk to a retrieved image at a future location. We evaluate SWM against recent video world models across three cities: Seoul, Busan, and Ann Arbor. SWM outperforms existing methods in generating spatially faithful, temporally consistent, long-horizon videos grounded in actual urban environments over trajectories reaching hundreds of meters, while supporting diverse camera movements and text-prompted scenario variations.
 
-▲ 121 • 💬 4 • ⭐ 317 • 2d ago
+▲ 123 • 💬 4 • ⭐ 317 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.15583) • [💻 code](https://github.com/naver-ai/seoul-world-model) • [🔗 project](https://seoul-world-model.github.io/)
 
@@ -584,21 +588,9 @@ Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabil
 
 OpenClaw-RL framework enables policy learning from diverse next-state signals across multiple interaction modalities using asynchronous training with PRM judges and hindsight-guided distillation.
 
-▲ 128 • 💬 6 • ⭐ 3,515 • 8d ago
+▲ 129 • 💬 6 • ⭐ 3,515 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.10165) • [💻 code](https://github.com/Gen-Verse/OpenClaw-RL) • [🔗 project](https://github.com/Gen-Verse/OpenClaw-RL)
-
----
-
-**[EvoScientist: Towards Multi-Agent Evolving AI Scientists for End-to-End Scientific Discovery](https://huggingface.co/papers/2603.08127)**
-
-*Yougang Lyu, Xi Zhang, Xinhao Yi et al. (12 authors)*
-
-EvoScientist is an adaptive multi-agent framework that enhances scientific discovery by continuously learning from past interactions through persistent memory modules.
-
-▲ 12 • 💬 5 • ⭐ 959 • 9d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.08127) • [💻 code](https://github.com/EvoScientist/EvoScientist)
 
 ---
 
@@ -611,6 +603,18 @@ A multi-agent framework using large language models for stock trading simulates 
 ▲ 24 • 💬 1 • ⭐ 32,901 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
+**[EvoScientist: Towards Multi-Agent Evolving AI Scientists for End-to-End Scientific Discovery](https://huggingface.co/papers/2603.08127)**
+
+*Yougang Lyu, Xi Zhang, Xinhao Yi et al. (12 authors)*
+
+EvoScientist is an adaptive multi-agent framework that enhances scientific discovery by continuously learning from past interactions through persistent memory modules.
+
+▲ 12 • 💬 5 • ⭐ 1,003 • 9d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.08127) • [💻 code](https://github.com/EvoScientist/EvoScientist)
 
 ---
 
@@ -650,7 +654,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 42.2k • 🔱 5.9k • 2d ago
+⭐ 42.4k • 🔱 5.9k • 2d ago
 
 ---
 
@@ -660,7 +664,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 21.5k • 🔱 1.0k • 5h ago
+⭐ 21.5k • 🔱 1.0k • 7h ago
 
 ---
 
@@ -670,7 +674,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.6k • 🔱 1.6k • 10h ago
+⭐ 12.6k • 🔱 1.6k • 47m ago
 
 ---
 
@@ -690,7 +694,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 9.9k • 🔱 717 • 1d ago
+⭐ 9.9k • 🔱 718 • 1d ago
 
 ---
 
@@ -700,7 +704,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 8.6k • 🔱 416 • 12h ago
+⭐ 8.7k • 🔱 417 • 14h ago
 
 ---
 
@@ -710,7 +714,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `agent` `ai` `coding` `lowcode` `nocode`
 
-⭐ 4.1k • 🔱 342 • 1d ago
+⭐ 4.1k • 🔱 345 • 1d ago
 
 ---
 
@@ -720,7 +724,7 @@ Open-source database of 700+ cybersecurity skills for AI agents and security pra
 
 `Python` `agent-skills` `ai-agents` `blue-team` `claude` `claude-code`
 
-⭐ 3.4k • 🔱 331 • 1d ago
+⭐ 3.4k • 🔱 332 • 1d ago
 
 ---
 
@@ -738,7 +742,7 @@ end to end app store screenshot creation using AI
 
 SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 
-⭐ 2.9k • 🔱 95 • 7d ago
+⭐ 2.9k • 🔱 96 • 7d ago
 
 ---
 
