@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-19T11:57:30.889426+00:00'
+updated: '2026-03-19T13:23:08.403904+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 19, 2026 at 11:57 UTC  
+**Last Updated:** March 19, 2026 at 13:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,9 +32,15 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Robot playing tennis ,what are your thoughts on this feat ? Is it comparable to figure cleaning the room ,could it be said that this is best feat ai humanoid robot has shown so far](https://www.reddit.com/r/robotics/comments/1rxwsm1/robot_playing_tennis_what_are_your_thoughts_on/)**
+
+2h ago
+
+---
+
 **[FANUC DR Series High-Speed Delta Robot in Action](https://www.reddit.com/r/robotics/comments/1rx9b6m/fanuc_dr_series_highspeed_delta_robot_in_action/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -42,7 +48,21 @@ Robotics research and industry news
 
 This is my 6 DIY DOF robot arm I designed 3 years ago. But I m new on reddit :) This is a project I did only to learn 3D modeling and robotic. Works with Arduino and ROS
 
-17h ago
+18h ago
+
+---
+
+**[Bender robot](https://www.reddit.com/r/robotics/comments/1rxryqs/bender_robot/)**
+
+7h ago
+
+---
+
+**[Robot dogs priced at $300,000 a piece are now guarding some of the country’s biggest data centers](https://www.reddit.com/r/robotics/comments/1rxuoek/robot_dogs_priced_at_300000_a_piece_are_now/)**
+
+Tech giants are now deploying robotic dogs to guard massive artificial intelligence data centers across the country cite Fortune. These four legged machines from companies like Boston Dynamics cost up to 300.000 dollars each and patrol massive server campuses around the clock. They are equipped with sensors to detect thermal anomalies unauthorized intruders and equipment failures.
+
+🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 5h ago
 
 ---
 
@@ -54,14 +74,6 @@ The goal was to develop a low-cost 6-DOF robotic arm platform that lets me build
 
 ---
 
-**[Robot dogs priced at $300,000 a piece are now guarding some of the country’s biggest data centers](https://www.reddit.com/r/robotics/comments/1rxuoek/robot_dogs_priced_at_300000_a_piece_are_now/)**
-
-Tech giants are now deploying robotic dogs to guard massive artificial intelligence data centers across the country cite Fortune. These four legged machines from companies like Boston Dynamics cost up to 300.000 dollars each and patrol massive server campuses around the clock. They are equipped with sensors to detect thermal anomalies unauthorized intruders and equipment failures.
-
-🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 3h ago
-
----
-
 **[Experiment with "Brachiation" motion](https://www.reddit.com/r/robotics/comments/1rx0hrv/experiment_with_brachiation_motion/)**
 
 Tried with Brachiation motion - a had swing motion that mostly gibbons etc use to move from branches and trees. Made with laser cut wooden plates and a geared motor.
@@ -70,15 +82,9 @@ Tried with Brachiation motion - a had swing motion that mostly gibbons etc use t
 
 ---
 
-**[Bender robot](https://www.reddit.com/r/robotics/comments/1rxryqs/bender_robot/)**
-
-6h ago
-
----
-
 **[Robot playing tennis](https://www.reddit.com/r/robotics/comments/1rxp2jp/robot_playing_tennis/)**
 
-8h ago
+10h ago
 
 ---
 
@@ -86,13 +92,7 @@ Tried with Brachiation motion - a had swing motion that mostly gibbons etc use t
 
 Hi! I'm a co-founder of HEBI Robotics. I have a passion for making robotics research easier, and I mainly work on our visualization tools and our real-time control API for MATLAB. We've often hit bottlenecks when doing visualization out of process. To solve this, we spent the last several months exposing internal UI tools via a stable C ABI, so they can be embedded directly into development code with full access and minimal overhead. After many challenges, we're finally at a point where I'm excited to share a first video of the result. Since the library needs to play well with Python and MATLAB, the engine is 100% asynchronous. An internal layer handles the state transfer, and the UI thread simply swaps to the latest state at the start of every frame. This means users never have to worry about mutexes or the UI thread. All calls are isolated and non-blocking, so you can push data from a high-frequency control loop. For MATLAB users, this means you can run a tight busy-loop without a pause or drawnow, and it still renders smoothly at 60 fps. The bindings are fully auto-generated, so Python and MATLAB get 100% type-hint and autocomplete support out of the box. We're still ironing out a few minor things, but the goal is to make this available to the community and independent of the HEBI hardware ecosystem (as is most of our software). I'm curious what people think! I'm also happy to geek out about the technical details in person at ERF next week or ICRA in June.
 
-🔗 [youtu.be](https://youtu.be/B5GT9XAcqB8) • 15h ago
-
----
-
-**[Robot playing tennis ,what are your thoughts on this feat ? Is it comparable to figure cleaning the room ,could it be said that this is best feat ai humanoid robot has shown so far](https://www.reddit.com/r/robotics/comments/1rxwsm1/robot_playing_tennis_what_are_your_thoughts_on/)**
-
-1h ago
+🔗 [youtu.be](https://youtu.be/B5GT9XAcqB8) • 16h ago
 
 ---
 
@@ -100,7 +100,7 @@ Hi! I'm a co-founder of HEBI Robotics. I have a passion for making robotics rese
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=9qZcTMARvpk) • 14h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=9qZcTMARvpk) • 15h ago
 
 ---
 
@@ -112,7 +112,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 The long read: How close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find out
 
-The Guardian • 6h ago
+The Guardian • 8h ago
 
 ---
 
@@ -120,7 +120,7 @@ The Guardian • 6h ago
 
 In a recent episode of Radio Davos and in a session at the World Economic Forum's 56th Annual Meeting in Davos, experts on physical AI talked us through what's next for autonomous systems.
 
-The World Economic Forum • 18h ago
+The World Economic Forum • 20h ago
 
 ---
 
@@ -128,7 +128,16 @@ The World Economic Forum • 18h ago
 
 The latest open models and frameworks from NVIDIA bring together simulation, robot learning and embedded compute to accelerate cloud-to-robot workflows.
 
-NVIDIA Blog • 22h ago
+NVIDIA Blog • 1d ago
+
+---
+
+**[Bayfield High School students win big in robotics, animatronics](https://www.durangoherald.com/articles/bayfield-high-school-students-win-big-in-robotics-animatronics/)**
+
+Bayfield High School students took home big wins last month at the Denver Technology Student Association State Championships. 
+Eight students from BHS brought back team wins, including first and secon...
+
+The Durango Herald • 1d ago
 
 ---
 
@@ -137,6 +146,12 @@ NVIDIA Blog • 22h ago
 A massive databse built by players of Pokémon Go is now being used Coco Robotics to help its street delivery robots better navigate busy urban environments.
 
 Euronews.com • 1d ago
+
+---
+
+**[US Navy Awards Contract to Gecko Robotics to Inspect Ships](https://www.bloomberg.com/news/articles/2026-03-17/us-navy-awards-contract-to-gecko-robotics-to-inspect-ships)**
+
+Bloomberg.com • 2d ago
 
 ---
 
@@ -156,31 +171,17 @@ CNBC • 2d ago
 
 ---
 
-**[US Navy Awards Contract to Gecko Robotics to Inspect Ships](https://www.bloomberg.com/news/articles/2026-03-17/us-navy-awards-contract-to-gecko-robotics-to-inspect-ships)**
-
-Bloomberg.com • 2d ago
-
----
-
 **[The next act for robotics: Human–machine collaboration](https://www.mckinsey.com/industries/industrials/our-insights/the-next-act-for-robotics-human-machine-collaboration)**
 
 McKinsey & Company • 2d ago
 
 ---
 
-**[Nvidia Declares the Rise of ‘Physical AI’ — and a World Run by Robots](https://www.eweek.com/news/nvidia-physical-ai-robotics-models-simulation-tools/)**
+**[Mia Robotics: Next‑Gen unmanned ground vehicles with robust civilian engineering](https://www.jpost.com/defense-and-tech/article-890335)**
 
-Nvidia used GTC 2026 to unveil new physical AI models, simulation tools, and robotics partnerships aimed at factories, healthcare, and logistics.
+The system is a new generation of unmanned ground vehicles (UGVs) built on a platform that has already been tested for years in civilian markets.
 
-eWeek • 1d ago
-
----
-
-**[Ranked: The Companies Shipping the Most Humanoid Robots](https://www.visualcapitalist.com/ranked-the-companies-shipping-the-worlds-humanoid-robots/)**
-
-From Unitree to Tesla, see which companies shipped the most robots in 2025, and why Chinese manufacturers dominate the leaderboard.
-
-Visual Capitalist • 1d ago
+The Jerusalem Post • 1d ago
 
 ---
 
@@ -194,17 +195,7 @@ The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrati
 
 📺 DPCcars
 
-👁️ 103K • 👍 804 • 💬 82 • ⏱️ 2:02 • 2d ago
-
----
-
-**[Ai Robot Takes over Flagrant Podcast](https://www.youtube.com/watch?v=_sQWr9EStZA)**
-
-Flagrant is a comedy show that delivers unfiltered, unapologetic, and unruly hot takes directly to your dome piece. In an era ...
-
-📺 FLAGRANT CLIPS
-
-👁️ 51K • 👍 1K • 💬 234 • ⏱️ 16:57 • 1d ago
+👁️ 107K • 👍 832 • 💬 85 • ⏱️ 2:02 • 2d ago
 
 ---
 
@@ -214,7 +205,17 @@ Video shows restaurant employees struggling to restrain a dancing robot that wen
 
 📺 NBC News
 
-👁️ 31K • 👍 418 • 💬 139 • ⏱️ 3:38 • 8h ago
+👁️ 40K • 👍 522 • 💬 175 • ⏱️ 3:38 • 10h ago
+
+---
+
+**[Ai Robot Takes over Flagrant Podcast](https://www.youtube.com/watch?v=_sQWr9EStZA)**
+
+Flagrant is a comedy show that delivers unfiltered, unapologetic, and unruly hot takes directly to your dome piece. In an era ...
+
+📺 FLAGRANT CLIPS
+
+👁️ 52K • 👍 1K • 💬 243 • ⏱️ 16:57 • 1d ago
 
 ---
 
@@ -224,17 +225,17 @@ I visited @SundayRobotics to see how they're building a household robot that act
 
 📺 ZAUEY (Claire Zau)
 
-👁️ 24K • 👍 772 • 💬 64 • ⏱️ 15:48 • 6d ago
+👁️ 25K • 👍 791 • 💬 66 • ⏱️ 15:48 • 6d ago
 
 ---
 
-**[Gecko Robotics Inks $71 Million Deal With US Navy](https://www.youtube.com/watch?v=82_585LieQY)**
+**[I Built The World&#39;s Smallest Robot Dog!](https://www.youtube.com/watch?v=nmmopQ1EEs0)**
 
-Gecko Robotics announced a $71 million partnership with the US Navy, deploying its AI-powered robots to assess the condition ...
+Sesame Micro is a tangent project to the Sesame Robot Project, an open-source mini quadruped robot. This video is an insight ...
 
-📺 Bloomberg Technology
+📺 Dorian Todd
 
-👁️ 3K • 👍 100 • 💬 3 • ⏱️ 4:39 • 1d ago
+👁️ 5K • 👍 571 • 💬 47 • ⏱️ 11:03 • 8h ago
 
 ---
 
@@ -244,25 +245,7 @@ Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and g
 
 📺 Brighter with Herbert
 
-👁️ 97K • 👍 2K • 💬 315 • ⏱️ 49:45 • 4d ago
-
----
-
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=o04URFEaSjM)**
-
-📺 Robot Julie 
-
-👁️ 2K • 👍 20 • ⏱️ 0:24 • 11h ago
-
----
-
-**[China’s New CENTAUR AI ROBOT Gives Humans Super Strength](https://www.youtube.com/watch?v=HxUhW1zIrbw)**
-
-China just revealed a robotic system that can turn a human into something that moves like a centaur, helping people carry heavy ...
-
-📺 AI Revolution
-
-👁️ 48K • 👍 670 • 💬 81 • ⏱️ 14:52 • 5d ago
+👁️ 98K • 👍 2K • 💬 316 • ⏱️ 49:45 • 4d ago
 
 ---
 
@@ -272,7 +255,7 @@ We got a sneak peek at Disney's newest robotic character Olaf, who will debut at
 
 📺 CNET
 
-👁️ 116K • 👍 2K • 💬 120 • ⏱️ 3:35 • 2d ago
+👁️ 119K • 👍 2K • 💬 123 • ⏱️ 3:35 • 2d ago
 
 ---
 
@@ -282,7 +265,25 @@ Artificial intelligence is entering the real world. At NVIDIA GTC 2026, Jensen H
 
 📺 DPCcars
 
-👁️ 109K • 👍 1K • 💬 221 • ⏱️ 11:48 • 2d ago
+👁️ 112K • 👍 1K • 💬 225 • ⏱️ 11:48 • 2d ago
+
+---
+
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=o04URFEaSjM)**
+
+📺 Robot Julie 
+
+👁️ 5K • 👍 37 • ⏱️ 0:24 • 12h ago
+
+---
+
+**[Gecko Robotics Inks $71 Million Deal With US Navy](https://www.youtube.com/watch?v=82_585LieQY)**
+
+Gecko Robotics announced a $71 million partnership with the US Navy, deploying its AI-powered robots to assess the condition ...
+
+📺 Bloomberg Technology
+
+👁️ 3K • 👍 101 • 💬 3 • ⏱️ 4:39 • 1d ago
 
 ---
 

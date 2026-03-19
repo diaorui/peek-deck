@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-19T11:57:30.886526+00:00'
+updated: '2026-03-19T13:23:08.400652+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 19, 2026 at 11:57 UTC  
+**Last Updated:** March 19, 2026 at 13:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,176.01
+### $2,131.14
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.3%  
-**7d:** +3.7%  
-**30d:** +11.0%  
-**90d:** -27.2%  
-**1y:** +9.6%  
+**24h:** -2.5%  
+**7d:** +2.0%  
+**30d:** +9.2%  
+**90d:** -28.3%  
+**1y:** +7.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $263.88B
+**Market Cap:** $256.59B
 Rank #2
 
 **Circulating Supply:** 120,691,801 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--55.8%
+-56.9%
 
 **All-Time Low:** $0.43
-+504707.4%
++492013.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The top priority is safety and security. The coins to be stored are ETH and USDC (can also be 2 separate wallets for each, I dont mind that). They are to be used for long-term. The wallet will be installed on a external drive which is then removed and stored securely. Wallet is not installed on the computer itself. What are your best recommendations? PS: Yes, I know! Usually people recommend hardware wallets... but I think they are still risky because you put all your trust in just one single company, and sometimes they can do stupid stuff, for example as we've seen some stories with Ledger and their multiple data leaks. I personally feel more comfrotable with a software one, as long as it's safe and secure.
 
-13h ago
+14h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[r/BASE FOUNDER 'AMA' SERIES Week 6 - DEGEN: Join us Thursday March 19th, 2pm ET](https://www.reddit.com/r/ethereum/comments/1rxgcae/rbase_founder_ama_series_week_6_degen_join_us/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I'm traveling next month across a few different countries and really want to spend some of my gains without off-ramping to fiat and dealing with my bank's absolute BS regarding foreign transaction fees. I used to use the Binance card heavily but, well, you know how that ended for a lot of regions. I saw BitMart has a card out now with their 8th anniversary promotions, and Coinbase obviously has their established one. Has anyone used the BitMart card specifically in Europe or Southeast Asia? I'm mainly looking for decent conversion spreads at the point of sale and no hidden monthly maintenance fees
 
-17h ago
+18h ago
 
 ---
 
@@ -152,7 +152,7 @@ EF just sold 5000 ETH to Bitmine at local low (price), meanwhile publishing inse
 
 A whale trader has reportedly bought 50,706 ETH with 111.62 million USDT on Wednesday, after selling holdings a year earlier.
 
-The Block • 9h ago
+The Block • 11h ago
 
 ---
 
@@ -160,35 +160,57 @@ The Block • 9h ago
 
 Inflation has exceeded the central bank’s 2% target for nearly five years, but the Fed held rates firm again as Bitcoin and Ethereum wobbled.
 
-Decrypt • 17h ago
+Decrypt • 19h ago
 
 ---
 
-**[XRP vs. Ethereum: Why Ethereum Could Soar](https://finance.yahoo.com/markets/crypto/articles/xrp-vs-ethereum-why-ethereum-092000710.html)**
+**[XRP vs. Ethereum: Why Ethereum Could Soar](https://www.fool.com/investing/2026/03/19/xrp-vs-ethereum-why-ethereum-could-soar/)**
 
 When it comes to stablecoins, Ethereum rules and the XRP Ledger lags far behind.
 
-Yahoo Finance • 2h ago
+The Motley Fool • 4h ago
 
 ---
 
-**[Fed Holds Rates Steady: Here’s What It Means for Bitcoin Price and Ethereum](https://finance.yahoo.com/markets/crypto/articles/fed-holds-rates-steady-means-091421119.html?pl2=qsp-recent-news_fltrd-strs)**
+**[AI Agents Can Now Escrow Payments Trustlessly — Meet ERC-8183, the Ethereum Standard That Changes Everything](https://www.ccn.com/education/crypto/erc-8183-programmable-escrow-ai-agents-ethereum-how-it-works/)**
 
-The Federal Reserve voted Wednesday (March 18) to hold benchmark interest rates steady at a target range of 3.50% to 3.75%, opting for caution amid rising energy costs that threaten to complicate the US economic recovery, which had a significant impact on the Bitcoin price. The decision to pause rather ...
-
-Yahoo Finance • 2h ago
+CCN.com • 1h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Surge. Why Cryptos Are Being Played as a Hedge Against Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqdrHc1UqJn0hVAMkRbejyYjMZcJZ7PZUxultRJ9VUkv1E6qYKXP9yiD&gaa_ts=69bbdca1&gaa_sig=Lq9ske7a-tdv_p_WeRpg04WSH-4p7bUPkJHWG3SO8Ph7qufxUlp5TtsEGUn5Jryzi2VyUbpv8B6wQ9BVeV7WPA%3D%3D)**
+**[BlackRock launches new ethereum ETF packed with staking rewards](https://finance.yahoo.com/video/blackrock-launches-ethereum-etf-packed-173000503.html)**
 
-Barron's • 2d ago
+BlackRock Head of Digital Assets Robbie Mitchnick joins Julie Hyman to discuss the company's launch of its new ethereum fund — the iShares Staked Ethereum Trust ETF (ETHB) — that lets investors track the cryptocurrency (ETH-USD) and earn staking rewards at the same time.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Why Bitmine Immersion Technologies Stock Rocked the Market on Monday](https://www.fool.com/investing/2026/03/16/why-bitmine-immersion-technologies-stock-rocked-th/)**
+
+Ethereum believers should take a look at this stock.
+
+The Motley Fool • 2d ago
 
 ---
 
 **[BitMine Stock Drops 8% as Ethereum Pullback, High Costs, and Hawkish Fed Weigh on Investors](https://www.tipranks.com/news/bitmine-stock-drops-8-as-ethereum-pullback-high-costs-and-hawkish-fed-weigh-on-investors)**
 
-TipRanks • 8h ago
+TipRanks • 10h ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.596 Million Tokens, and Total Crypto and Total Cash Holdings of $11.5 Billion](https://www.tradingview.com/news/chainwire:32e81fc8a094b:0-bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-596-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-5-billion/)**
+
+Bitmine has 3,040,515 staked ETH, representing $6.6 billion at $2,185 per ETH; MAVAN staking solution on track to launch Q1 2026Bitmine now owns 3.81% of the ETH token supply, over 76% of the way to the 'Alchemy of 5%' in just 8 monthsBitmine increased its investment into Eightco (ticker: $ORBS) by…
+
+TradingView • 8h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Surge. Why Cryptos Are Being Played as a Hedge Against Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqcRuY702tm6LCsy6288eIg9DKifZGM8scoN1RmUPt5d3zCToimdOErq&gaa_ts=69bbfc25&gaa_sig=YK3sfsmvS2oIZoazIC_N4LGvXKBNgrLDpHlVUAdzvt8Y7CdcpP-v2yIb2JAzYVLYqHXeHKY16hJMdDkC1hSCRA%3D%3D)**
+
+Barron's • 2d ago
 
 ---
 
@@ -196,29 +218,7 @@ TipRanks • 8h ago
 
 Ethereum’s price has spent much of the past cycle lagging its own institutional and on-chain progress, and Bitwise says the reason is straightforward: ETH is still trading primarily as a Bitcoin proxy, not as a fundamentally valued network. In a new factor-model analysis, the asset manager found BT…
 
-TradingView • 16h ago
-
----
-
-**[Why Is Ethereum Foundation Selling ETH? Samson Mow Slams ETH as 'Not Money' While Concerns Grow](https://www.ccn.com/news/crypto/why-ethereum-foundation-selling-eth-samson-mow-slams-ethereum/)**
-
-CCN.com • 1h ago
-
----
-
-**[‘Lean Ethereum’ will not compromise security for speed, says Vitalik Buterin – Here’s how](https://ambcrypto.com/lean-ethereum-will-not-compromise-security-for-speed-says-vitalik-buterin-heres-how/)**
-
-Vitalik Buterin said that the 'lean Ethereum' plan was the only way to get faster speed and security without trade-offs.
-
-AMBCrypto • 3h ago
-
----
-
-**[Current price of Ethereum for March 18, 2026](https://fortune.com/article/price-of-ethereum-03-18-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 21h ago
+TradingView • 18h ago
 
 ---
 
@@ -226,23 +226,33 @@ Fortune • 21h ago
 
 ## YouTube Videos: "ethereum"
 
-**[BITCOIN DUMP: Bearish Price Target Revealed (get ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VsplKq_SUII)**
-
-BITCOIN DUMP: Bearish Price Target Revealed (get ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 5K • 👍 253 • 💬 51 • ⏱️ 17:24 • 9h ago
-
----
-
 **[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=EbfYJMQ3Mgo)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 110 • 💬 3 • ⏱️ 4:15 • 9h ago
+👁️ 2K • 👍 121 • 💬 4 • ⏱️ 4:15 • 11h ago
+
+---
+
+**[🚨 BTC &amp; ETH: HOW I MAKE MONEY WITH TRADING BOTS!!! METHOD REVEALED!!!! (+Full Tutorial)](https://www.youtube.com/watch?v=Iutgz89XTR8)**
+
+In this video, I reveal how I make money using trading bots, their settings, strategies, and more. BYUSDT, earn while trading: ...
+
+📺 Thomas Kralow
+
+👁️ 851 • 👍 2K • 💬 2 • ⏱️ 13:55 • 2h ago
+
+---
+
+**[BITCOIN DUMP: Bearish Price Target Revealed (get ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VsplKq_SUII)**
+
+BITCOIN DUMP: Bearish Price Target Revealed (get ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 279 • 💬 59 • ⏱️ 17:24 • 11h ago
 
 ---
 
@@ -252,17 +262,7 @@ BloFin (NO KYC) – Up to $5,000 bonus + No Restrictions https://marzell.org/Blo
 
 📺 Marzell Crypto
 
-👁️ 442 • 👍 15 • 💬 35 • ⏱️ 3:03 • 18h ago
-
----
-
-**[Buying The Ethereum BEAR MARKET Bottom! 213% PROFIT Last Time!](https://www.youtube.com/watch?v=qml9KxnRILA)**
-
-OUR SPRING $600 OFF INDICATOR SALE IS LIVE!: https://tradeconfidentportal.io/indicators/ Join Trade Confident: Get 25% ...
-
-📺 Trade Confident
-
-👁️ 603 • 👍 21 • 💬 1 • ⏱️ 4:12 • 18h ago
+👁️ 479 • 👍 15 • 💬 35 • ⏱️ 3:03 • 20h ago
 
 ---
 
@@ -276,13 +276,33 @@ Use our crypto risk models to accumulate, plan exits, and stay ahead! Free Trial
 
 ---
 
-**[IS THE CRYPTO RALLY LEGIT? BITCOIN, XRP, ETHEREUM, &amp; SOLANA ANALYSIS!](https://www.youtube.com/watch?v=6I53qLIw3fA)**
+**[Crypto Holders Can’t Believe.. It’s Actually Happening](https://www.youtube.com/watch?v=coGc_pNFCQU)**
 
-Brian from Santiment joined me to review the crypto market metrics. We review onchain metrics for Bitcoin, Ripple XRP, Ethereum, ...
+0% Fees on Gold And Silver (Earn $300k): https://www.weex.com/events/promo/0fees-gold-silver-300k?vipCode=oz5p ...
 
-📺 Thinking Crypto
+📺 Altcoin Daily
 
-👁️ 3K • 👍 224 • 💬 56 • ⏱️ 28:07 • 1d ago
+👁️ 28K • 👍 2K • 💬 66 • ⏱️ 9:25 • 15h ago
+
+---
+
+**[BITCOIN (BTC) VOLTA A CAIR DEPOIS DO JURO AMERICANO + ETHEREUM (ETH), SOLANA (SOL), CRIPTOMOEDAS](https://www.youtube.com/watch?v=T48iDecit7Q)**
+
+RECEBA DE GRAÇA OS MEUS MONITORES DA CAPITULAÇÃO E DE FUNDO: https://bit.ly/3MkN08Z ENTRE PARA O MEU ...
+
+📺 Bernardo Pascowitch
+
+👁️ 992 • 👍 212 • 33m ago
+
+---
+
+**[Buying The Ethereum BEAR MARKET Bottom! 213% PROFIT Last Time!](https://www.youtube.com/watch?v=qml9KxnRILA)**
+
+OUR SPRING $600 OFF INDICATOR SALE IS LIVE!: https://tradeconfidentportal.io/indicators/ Join Trade Confident: Get 25% ...
+
+📺 Trade Confident
+
+👁️ 647 • 👍 21 • 💬 1 • ⏱️ 4:12 • 19h ago
 
 ---
 
@@ -296,33 +316,13 @@ The S&P 500 could fall sharply this year because of a combination of economic he
 
 ---
 
-**[BE READY FOR THIS!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=0oz5WM8-UlQ)**
+**[CRYPTO LIVE TRADING || 19 Mar  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=bcEL8UseYYI)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+join my social platforms for updates and analysis ✓Instagram: ...
 
-📺 Cilinix Crypto
+📺 Aryan trader Live
 
-👁️ 684 • 👍 25 • 💬 1 • ⏱️ 4:15 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=J8mohFQNEew)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 167 • 💬 5 • ⏱️ 5:05 • 1d ago
-
----
-
-**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=XQO4sc87FRI)**
-
-ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
-
-📺 Somchanda Bhattacharya Official
-
-👁️ 13K • 👍 1K • ⏱️ 4:23:10 • 11h ago
+👁️ 5K • 👍 4K • 2h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-19T11:57:30.873336+00:00'
+updated: '2026-03-19T13:23:08.386080+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - news
 - videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 19, 2026 at 11:57 UTC  
+**Last Updated:** March 19, 2026 at 13:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,39 +41,7 @@ AI news, discussions, and developments
 
 Full prompt I gave to Claude Opus 4.6: can you use whatever resources you like, and python, to generate a short 'youtube poop' video and render it using ffmpeg ? can you put more of a personal spin on it? it should express what it's like to be a LLM Warning: Flashing Visuals (epilepsy)
 
-7h ago
-
----
-
-**[Agent-to-agent B2B transactions raise a question nobody has a clean answer to: who is the customer?](https://www.reddit.com/r/artificial/comments/1rxs6s4/agenttoagent_b2b_transactions_raise_a_question/)**
-
-Bear with me on this one because I think it's genuinely unsettled. If a buyer's AI agent researches vendors, evaluates options, makes contact, negotiates terms, and returns a recommendation, but a human ultimately signs the contract... who was the customer during all those steps? It matters more than it sounds. If the customer is the human, then the agent is just a tool and you optimize for what the human ultimately cares about. But the human never experienced any of that journey. They just got a shortlist. If the customer is the agent, then you need to think about what makes a company legible to a machine. Not persuasive to a human. Legible to a machine. Clear structure, accurate data, no ambiguity, no spin. The marketing playbook was built for human psychology. Urgency. Social proof. Emotional resonance. None of that works on an agent. An agent doesn't feel FOMO. It doesn't respond to a testimonial from a brand it recognizes. It reads what's there and forms a structured view. I don't think there's a clean answer yet. But the companies treating agents as just another distribution channel for human-optimized content are going to run into a wall. would love to hear whether anyone has thought through this more formally.
-
-6h ago
-
----
-
-**[Solution to AI Agent Prompt Injection, Hijacking attacks and Info Leaks:](https://www.reddit.com/r/artificial/comments/1rxtw4v/solution_to_ai_agent_prompt_injection_hijacking/)**
-
-Solution to AI Agent Prompt Injection, Hijacking attacks and Info Leaks: AI agents can be hijacked mid-task through the content they process. Every existing defense operates at the reasoning layer and can be bypassed. Sentinel enforces at the execution layer, structurally, not probabilistically. The agent cannot act outside its authorized boundary regardless of what it's told. Loom link contains a short video that introduces Sentinel Gateway UI and how system operates based on 3-4 different prompt injection attempts and agent response. Sentinel eliminates any and all security risk associated with regard to AgenticAI. #AIAgent #AgenticAI #AISecurity #CyberSecurity #PromptInjection
-
-🔗 [Loom](https://www.loom.com/share/887679aa59c34a4e9109baafa353eecd) • 4h ago
-
----
-
-**["Why AI systems don't learn and what to do about it: Lessons on autonomous learning from cognitive science" - paper by Emmanuel Dupoux, Yann LeCun, Jitendra Malik](https://www.reddit.com/r/artificial/comments/1rxoq9g/why_ai_systems_dont_learn_and_what_to_do_about_it/)**
-
-This paper critiques the limitations of current AI and introduces a new learning model inspired by biological brains. The authors propose a framework that combines two key methods: System A, which learns by watching, and System B, which learns by doing. To manage these, they include System M, a control unit that decides which learning style to use based on the situation. By mimicking how animals and humans adapt to the real world over time, the authors aim to create AI that can learn more independently.
-
-🔗 [arXiv.org](https://arxiv.org/abs/2603.15381) • 9h ago
-
----
-
-**[This](https://www.reddit.com/r/artificial/comments/1rxwed3/this/)**
-
-I really see how many people don't understand ai is not here to replace but to be used as a tool. The question is by who.
-
-1h ago
+8h ago
 
 ---
 
@@ -81,7 +49,55 @@ I really see how many people don't understand ai is not here to replace but to b
 
 I work on AI agents. Not the "here's a ChatGPT wrapper" kind — actual autonomous agents that do tasks on behalf of small businesses. The thing nobody talks about: there's a massive gap between what AI agents can do and who can actually use them. A developer can set up an agent, connect APIs, handle auth, debug when something breaks. A restaurant owner who wants AI to handle their booking confirmations? They can't. Not because the tech isn't there — but because every solution assumes you know what an API key is. This is the gap that matters. The people who would benefit most from AI automation are the people least equipped to set it up. And "just make it simpler" isn't the answer — it's a different product entirely. You need: • Managed infrastructure (they shouldn't know what a server is) • Guardrails that actually work (the agent can't go rogue with their Twilio account) • Failure modes a non-technical person can understand and fix • Trust signals that don't require reading logs We've been learning this the hard way. The tech works. The packaging for real humans is the actual product. For anyone building in this space — what's your experience? Are your users technical, and if not, where do they get stuck?
 
+4h ago
+
+---
+
+**[Agent-to-agent B2B transactions raise a question nobody has a clean answer to: who is the customer?](https://www.reddit.com/r/artificial/comments/1rxs6s4/agenttoagent_b2b_transactions_raise_a_question/)**
+
+Bear with me on this one because I think it's genuinely unsettled. If a buyer's AI agent researches vendors, evaluates options, makes contact, negotiates terms, and returns a recommendation, but a human ultimately signs the contract... who was the customer during all those steps? It matters more than it sounds. If the customer is the human, then the agent is just a tool and you optimize for what the human ultimately cares about. But the human never experienced any of that journey. They just got a shortlist. If the customer is the agent, then you need to think about what makes a company legible to a machine. Not persuasive to a human. Legible to a machine. Clear structure, accurate data, no ambiguity, no spin. The marketing playbook was built for human psychology. Urgency. Social proof. Emotional resonance. None of that works on an agent. An agent doesn't feel FOMO. It doesn't respond to a testimonial from a brand it recognizes. It reads what's there and forms a structured view. I don't think there's a clean answer yet. But the companies treating agents as just another distribution channel for human-optimized content are going to run into a wall. would love to hear whether anyone has thought through this more formally.
+
+7h ago
+
+---
+
+**["Why AI systems don't learn and what to do about it: Lessons on autonomous learning from cognitive science" - paper by Emmanuel Dupoux, Yann LeCun, Jitendra Malik](https://www.reddit.com/r/artificial/comments/1rxoq9g/why_ai_systems_dont_learn_and_what_to_do_about_it/)**
+
+This paper critiques the limitations of current AI and introduces a new learning model inspired by biological brains. The authors propose a framework that combines two key methods: System A, which learns by watching, and System B, which learns by doing. To manage these, they include System M, a control unit that decides which learning style to use based on the situation. By mimicking how animals and humans adapt to the real world over time, the authors aim to create AI that can learn more independently.
+
+🔗 [arXiv.org](https://arxiv.org/abs/2603.15381) • 10h ago
+
+---
+
+**[This](https://www.reddit.com/r/artificial/comments/1rxwed3/this/)**
+
+I really see how many people don't understand ai is not here to replace but to be used as a tool. The question is by who.
+
 3h ago
+
+---
+
+**[Solution to AI Agent Prompt Injection, Hijacking attacks and Info Leaks:](https://www.reddit.com/r/artificial/comments/1rxtw4v/solution_to_ai_agent_prompt_injection_hijacking/)**
+
+Solution to AI Agent Prompt Injection, Hijacking attacks and Info Leaks: AI agents can be hijacked mid-task through the content they process. Every existing defense operates at the reasoning layer and can be bypassed. Sentinel enforces at the execution layer, structurally, not probabilistically. The agent cannot act outside its authorized boundary regardless of what it's told. Loom link contains a short video that introduces Sentinel Gateway UI and how system operates based on 3-4 different prompt injection attempts and agent response. Sentinel eliminates any and all security risk associated with regard to AgenticAI. #AIAgent #AgenticAI #AISecurity #CyberSecurity #PromptInjection
+
+🔗 [Loom](https://www.loom.com/share/887679aa59c34a4e9109baafa353eecd) • 5h ago
+
+---
+
+**[Val Kilmer in 'As Deep As the Grave, His Performance was AI Generated | Variety](https://www.reddit.com/r/artificial/comments/1rxz6li/val_kilmer_in_as_deep_as_the_grave_his/)**
+
+Iran strikes Qatar's Ras Laffan plant. Gas prices soar. FBI buys data to track movements. The Justice Department uses NSPM7 to prosecute Antifa protesters as domestic terrorists. The FBI and IRS launch an initiative to investigate nonprofit groups for terrorism links.  Bank of America predicts 3 bil
+
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/ai-val-kilmer#story-val-kilmer-in-as-deep-as-the-grave-his-performance) • 49m ago
+
+---
+
+**[Robot dogs priced at $300,000 a piece are now guarding some of the country’s biggest data centers](https://www.reddit.com/r/artificial/comments/1rx8q9x/robot_dogs_priced_at_300000_a_piece_are_now/)**
+
+AI companies are turning to quadruped robots, better known as “robot dogs” for security solutions to protect their vast data centers.
+
+🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 20h ago
 
 ---
 
@@ -93,27 +109,11 @@ Last week's post about Meta buying Moltbook got a lot of discussion here. I thin
 
 ---
 
-**[Robot dogs priced at $300,000 a piece are now guarding some of the country’s biggest data centers](https://www.reddit.com/r/artificial/comments/1rx8q9x/robot_dogs_priced_at_300000_a_piece_are_now/)**
-
-AI companies are turning to quadruped robots, better known as “robot dogs” for security solutions to protect their vast data centers.
-
-🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 19h ago
-
----
-
 **[If you are using ChatGPT, you would probably want an AI policy. [I will not promote]](https://www.reddit.com/r/artificial/comments/1rx8hfr/if_you_are_using_chatgpt_you_would_probably_want/)**
 
 I’ve been looking into AI governance for my company recently so wanted to share some of my findings. Apparently PwC put out a report saying 72% of companies have absolutely zero formal AI policy. For startups and small agencies i guess it would probably reach 90%? Even if you’re only a 5-person team, doing nothing is starting to become a liability. Without rules, someone would eventually paste client data, financials, or proprietary code into ChatGPT to save time. Most of these tools train on user inputs, that’s a trouble waiting to happen. You don’t need a 20-page legal manifesto. A basic 3-page Google Doc is plenty. It just needs to cover: Which specific AI tools are approved for work. A Red / Yellow / Green framework for what data can and cannot be pasted into them. Rules for when AI-generated content must be disclosed to clients. Who is in charge of approving new tools. Consequences for violating the policy. Obviously, have a lawyer glance at it before you finalize anything, especially if you handle sensitive data but even writing a DIY version using the bullet points above is 100x better than having nothing.
 
-19h ago
-
----
-
-**[How I use AI through a repeatable and programmable workflow to stop fixing the same mistakes over and over](https://www.reddit.com/r/artificial/comments/1rxd6q2/how_i_use_ai_through_a_repeatable_and/)**
-
-Quick context: I use AI heavily in daily development, and I got tired of the same loop. Good prompt asking for a feature -> okay-ish answer -> more prompts to patch it -> standards break again -> rework. The issue was not "I need a smarter model." The issue was "I need a repeatable process." The real problem Same pain points every time: AI lost context between sessions it broke project standards on basic things (naming, architecture, style) planning and execution were mixed together docs were always treated as "later" End result: more rework, more manual review, less predictability. What I changed in practice I stopped relying on one giant prompt and split work into clear phases: /pwf-brainstorm to define scope, architecture, and decisions /pwf-plan to turn that into executable phases/tasks optional quality gates: /pwf-checklist /pwf-clarify /pwf-analyze /pwf-work-plan to execute phase by phase /pwf-review for deeper review /pwf-commit-changes to close with structured commits If the task is small, I use /pwf-work, but I still keep review and docs discipline. The rule that changed everything /pwf-work and /pwf-work-plan read docs before implementation and update docs after implementation. Without this, AI works half blind. With this, AI works with project memory. This single rule improved quality the most. References I studied (without copy-pasting) Compound Engineering Superpowers Spec Kit Spec-Driven Development I did not clone someone else's framework. I extracted principles, adapted them to my context, and refined them with real usage. Real results For me, the impact was direct: fewer repeated mistakes less rework better consistency across sessions more output with fewer dumb errors I had days closing 25 tasks (small, medium, and large) because I stopped falling into the same error loop. Project structure that helped a lot I also added a recommended structure in the wiki to improve AI context: one folder for code repos one folder for workspace assets (docs, controls, configs) Then I open both as multi-root in the editor (VS Code or Cursor), almost like a monorepo experience. This helps AI see the full system without turning things into chaos. Links Repository: https://github.com/J-Pster/Psters_AI_Workflow Wiki (deep dive): https://github.com/J-Pster/Psters_AI_Workflow/wiki If you want to criticize, keep it technical. If you want to improve it, send a PR.
-
-🔗 [GitHub](https://github.com/J-Pster/Psters_AI_Workflow) • 16h ago
+20h ago
 
 ---
 
@@ -121,65 +121,55 @@ Quick context: I use AI heavily in daily development, and I got tired of the sam
 
 ## Google News: "ai"
 
+**[Sorry, Mom. You’re Chatting With an A.I. Agent, Not Your Son.](https://www.nytimes.com/2026/03/19/business/ai-agents-anxiety-openclaw.html)**
+
+The New York Times • 4h ago
+
+---
+
 **[Val Kilmer Resurrected by AI to Star in ‘As Deep as the Grave’ Movie — First Look (EXCLUSIVE)](https://variety.com/2026/film/news/val-kilmer-ai-film-as-deep-as-the-grave-1236691042/)**
 
 First look at Val Kilmer in his new film "As Deep As the Grave." His performance was AI generated.
 
-Variety • 20h ago
+Variety • 22h ago
 
 ---
 
-**[A.I. Replica of Val Kilmer to Appear in Film After His Death](https://www.nytimes.com/2026/03/18/movies/val-kilmer-ai-movie.html)**
+**[AI version of late actor Val Kilmer to star in upcoming movie](https://www.detroitnews.com/story/entertainment/movies/2026/03/19/ai-val-kilmer-to-star-in-upcoming-movie/89224108007/)**
 
-The New York Times • 11h ago
+The “Top Gun” and “Heat” star died of pneumonia in April 2025 following a more than decade-long battle with throat cancer.
 
----
-
-**[Val Kilmer set to be be resurrected with AI for new film](https://www.theguardian.com/film/2026/mar/18/val-kilmer-resurrected-in-movie-ai)**
-
-As Deep As the Grave, the true story of 1920s archeologists, will bring late actor back with support from his estate
-
-The Guardian • 16h ago
+The Detroit News • 32m ago
 
 ---
 
-**[Government backtracks on AI and copyright after outcry from major artists](https://www.bbc.com/news/articles/cvg1gr5v333o)**
+**[An AI-rendered Val Kilmer will posthumously appear in a new film](https://apnews.com/article/val-kilmer-ai-movie-5e32b8e3ee65a01b75902bf4d0bf0b98)**
 
-However, the government's position is now unclear, saying it "no longer has a preferred option" for what to do next.
+A year after the actor’s death, a generative AI version of Val Kilmer will co-star in an independent film.
 
-BBC • 22h ago
-
----
-
-**[Geothermal Escapes Trump's Renewable Crackdown, Boosts Fervo's IPO Bid](https://www.bloomberg.com/news/features/2026-03-19/fervo-energy-set-to-go-public-as-ai-demand-trump-propel-geothermal)**
-
-Bloomberg.com • 57m ago
+AP News • 20h ago
 
 ---
 
-**[Tencent To Double AI Investments To $5.2 Billion Amid China’s OpenClaw Frenzy](https://www.forbes.com/sites/ywang/2026/03/19/tencent-to-double-ai-investments-to-52-billion-amid-chinas-openclaw-frenzy/)**
+**[A New Front Line: How AI And Other Innovations Are Transforming The Fight Against TB](https://www.forbes.com/sites/petersands/2026/03/19/a-new-front-line-how-ai-and-other-innovations-are-transforming-the-fight-against-tb/)**
 
-Forbes • 1h ago
-
----
-
-**[HSBC’s CFO just said the bank would turn to AI to cut costs. Now the bank is reported to consider 20,000 job cuts.](https://www.marketwatch.com/story/hsbcs-cfo-just-said-the-bank-would-turn-to-ai-to-cut-costs-now-the-bank-is-reported-to-consider-20-000-job-cuts-7b47233b?gaa_at=eafs&gaa_n=AWEtsqffqEdjywFDFwL2L3lOeN1D9_xkV2Z1S1GX_tseRNst6LVt-n_FMiuC&gaa_ts=69bbdc9f&gaa_sig=GrHPoMbukmjdSMOHljEr48gHTrUfIZTNUFvLnijBJIrAev8VZLGAcRliCw_AZE0_ti-3Yj8biRsClhOQNlpZsA%3D%3D)**
-
-MarketWatch • 1h ago
+Forbes • 25m ago
 
 ---
 
-**[Alibaba revenue misses estimates in December quarter as net income drops 66%](https://www.cnbc.com/2026/03/19/alibaba-december-quarter-earnings-ai-investment.html)**
+**[This cybersecurity stock could be a breakout AI play, according to Macquarie](https://www.cnbc.com/2026/03/19/this-cybersecurity-stock-could-be-an-ai-play-according-to-macquarie.html)**
 
-The tech giant is one of several Chinese AI firms that have been rushing to catch up to U.S. companies in the AI race.
+Okta may have upside if it integrates AI agents into its identity security systems, the bank says.
 
-CNBC • 2h ago
+CNBC • 33m ago
 
 ---
 
-**[A.I. Agents: They’re Fun. They’re Useful. But Don’t Give Them the Credit Card.](https://www.nytimes.com/2026/03/19/technology/ai-agents-uses.html)**
+**[Tennessee grandma mistakenly sent to North Dakota jail due to AI error, attorney says](https://newschannel9.com/news/local/tennessee-grandma-mistakenly-sent-to-north-dakota-jail-due-to-ai-error-attorney-says-carter-county-facial-recognition-software-error-us-marshals-angela-lipps-bank-fraud-mistaken-identity-fake-us-army-military-id-surveillance-video)**
 
-The New York Times • 2h ago
+A Tennessee woman said she ended up in a North Dakota jail for two months because of a facial recognition software error.Now a lawsuit may be in the works.U.S.
+
+WTVC • 30m ago
 
 ---
 
@@ -187,7 +177,21 @@ The New York Times • 2h ago
 
 Stitch is evolving into an AI-native platform that allows anyone to create, iterate, and collaborate on high-fidelity UI.
 
-blog.google • 17h ago
+blog.google • 19h ago
+
+---
+
+**[Blackburn’s new AI framework seeks to codify Trump’s desires](https://www.politico.com/live-updates/2026/03/18/congress/blackburn-ai-framework-seeks-to-codify-trump-ratepayer-pledge-00834829)**
+
+Politico • 12h ago
+
+---
+
+**[Alibaba revenue misses estimates in December quarter as net income drops 66%](https://www.cnbc.com/2026/03/19/alibaba-december-quarter-earnings-ai-investment.html)**
+
+The tech giant is one of several Chinese AI firms that have been rushing to catch up to U.S. companies in the AI race.
+
+CNBC • 3h ago
 
 ---
 
@@ -199,7 +203,7 @@ blog.google • 17h ago
 
 Today, we’re introducing Forge, a system that allows enterprises to build frontier-grade AI models grounded in their proprietary knowledge.
 
-⬆️ 715 • 💬 182 • 1d ago • [mistral.ai](https://mistral.ai/news/forge)
+⬆️ 716 • 💬 182 • 1d ago • [mistral.ai](https://mistral.ai/news/forge)
 
 ---
 
@@ -209,15 +213,7 @@ GambleAI
 
 I’ve been coding a lot with AI since November, when we all noticed it got really good. And it is quite good for instantly generating something th...
 
-⬆️ 331 • 💬 400 • 18h ago • [VS Notes](https://notes.visaint.space/ai-coding-is-gambling/)
-
----
-
-**[AirPods Max 2](https://news.ycombinator.com/item?id=47398681)**
-
-The ultimate over-ear listening experience — in five vibrant colors and with up to 1.5x more Active Noise Cancellation than the previous generation.
-
-⬆️ 319 • 💬 554 • 2d ago • [Apple](https://www.apple.com/airpods-max/)
+⬆️ 336 • 💬 407 • 20h ago • [VS Notes](https://notes.visaint.space/ai-coding-is-gambling/)
 
 ---
 
@@ -225,7 +221,7 @@ The ultimate over-ear listening experience — in five vibrant colors and with 
 
 A vulnerability in the Snowflake Cortex Code CLI allowed malware to be installed and executed via indirect prompt injection, bypassing human-in-the-loop command approval and escaping the sandbox.
 
-⬆️ 251 • 💬 81 • 20h ago • [promptarmor.com](https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware)
+⬆️ 253 • 💬 81 • 21h ago • [promptarmor.com](https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware)
 
 ---
 
@@ -233,7 +229,7 @@ A vulnerability in the Snowflake Cortex Code CLI allowed malware to be installed
 
 We critically examine the limitations of current AI models in achieving autonomous learning and propose a learning architecture inspired by human and animal cognition. The proposed framework integrates learning from observation (System A) and learning from active behavior (System B) while flexibly switching between these learning modes as a function of internally generated meta-control signals (System M). We discuss how this could be built by taking inspiration on how organisms adapt to real-world, dynamic environments across evolutionary and developmental timescales.
 
-⬆️ 188 • 💬 111 • 1d ago • [arXiv.org](https://arxiv.org/abs/2603.15381)
+⬆️ 188 • 💬 112 • 1d ago • [arXiv.org](https://arxiv.org/abs/2603.15381)
 
 ---
 
@@ -245,19 +241,19 @@ NVIDIA today launched the NVIDIA Vera CPU, the world’s first processor purpose
 
 ---
 
-**[Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)](https://news.ycombinator.com/item?id=47401734)**
-
-Large language models (LLMs) have demonstrated the promise to revolutionize the field of software engineering. Among other things, LLM agents are rapidly gaining momentum in software development, with practitioners reporting a multifold increase in productivity after adoption. Yet, empirical evidence is lacking around these claims. In this paper, we estimate the causal effect of adopting a widely popular LLM agent assistant, namely Cursor, on development velocity and software quality. The estimation is enabled by a state-of-the-art difference-in-differences design comparing Cursor-adopting GitHub projects with a matched control group of similar GitHub projects that do not use Cursor. We find that the adoption of Cursor leads to a statistically significant, large, but transient increase in project-level development velocity, along with a substantial and persistent increase in static analysis warnings and code complexity. Further panel generalized-method-of-moments estimation reveals that increases in static analysis warnings and code complexity are major factors driving long-term velocity slowdown. Our study identifies quality assurance as a major bottleneck for early Cursor adopters and calls for it to be a first-class citizen in the design of agentic AI coding tools and AI-driven workflows.
-
-⬆️ 147 • 💬 80 • 2d ago • [arXiv.org](https://arxiv.org/abs/2511.04427)
-
----
-
 **[What 81,000 people want from AI](https://news.ycombinator.com/item?id=47435156)**
 
 Last December, tens of thousands of Claude users around the world had a conversation with our AI interviewer to share how they use AI, what they dream it could make possible, and what they fear it might do.
 
-⬆️ 140 • 💬 111 • 6h ago • [anthropic.com](https://www.anthropic.com/features/81k-interviews)
+⬆️ 158 • 💬 149 • 8h ago • [anthropic.com](https://www.anthropic.com/features/81k-interviews)
+
+---
+
+**[Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)](https://news.ycombinator.com/item?id=47401734)**
+
+Large language models (LLMs) have demonstrated the promise to revolutionize the field of software engineering. Among other things, LLM agents are rapidly gaining momentum in software development, with practitioners reporting a multifold increase in productivity after adoption. Yet, empirical evidence is lacking around these claims. In this paper, we estimate the causal effect of adopting a widely popular LLM agent assistant, namely Cursor, on development velocity and software quality. The estimation is enabled by a state-of-the-art difference-in-differences design comparing Cursor-adopting GitHub projects with a matched control group of similar GitHub projects that do not use Cursor. We find that the adoption of Cursor leads to a statistically significant, large, but transient increase in project-level development velocity, along with a substantial and persistent increase in static analysis warnings and code complexity. Further panel generalized-method-of-moments estimation reveals that increases in static analysis warnings and code complexity are major factors driving long-term velocity slowdown. Our study identifies quality assurance as a major bottleneck for early Cursor adopters and calls for it to be a first-class citizen in the design of agentic AI coding tools and AI-driven workflows.
+
+⬆️ 147 • 💬 81 • 2d ago • [arXiv.org](https://arxiv.org/abs/2511.04427)
 
 ---
 
@@ -273,7 +269,13 @@ TL;DR: MCP tool definitions can burn 55,000+ tokens before an agent processes a 
 
 Google engineers have been spending the past number of months developing Sashiko as an agentic AI code review system for the Linux kernel
 
-⬆️ 94 • 💬 46 • 19h ago • [phoronix.com](https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review)
+⬆️ 96 • 💬 46 • 21h ago • [phoronix.com](https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review)
+
+---
+
+**[Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps](https://news.ycombinator.com/item?id=47401042)**
+
+⬆️ 78 • 💬 60 • 2d ago
 
 ---
 
@@ -287,17 +289,17 @@ Dave Rubin of "The Rubin Report" shares a DM clip of Elon Musk explaining to Pet
 
 📺 The Rubin Report
 
-👁️ 212K • 👍 6K • 💬 2K • ⏱️ 6:24 • 1d ago
+👁️ 215K • 👍 6K • 💬 2K • ⏱️ 6:24 • 1d ago
 
 ---
 
-**[Sam Altman Just Declared the Death of Transformers (ChatGPT Getting Replaced)](https://www.youtube.com/watch?v=XeTuLyOBY_0)**
+**[Grok AI Just Killed Free Video Generation… Use THIS Instead](https://www.youtube.com/watch?v=_DDK_EFGDpA)**
 
-Sam Altman just said the architecture behind ChatGPT and most modern AI may soon be replaced. Apple introduced LiTo, a ...
+Grok AI has stopped free video generation — but don't worry, I'll show you better FREE AI tools to create viral videos instantly.
 
-📺 AI Revolution
+📺 Josephs AI
 
-👁️ 104K • 👍 3K • 💬 280 • ⏱️ 11:10 • 1d ago
+👁️ 6K • 👍 385 • 💬 140 • ⏱️ 4:06 • 4h ago
 
 ---
 
@@ -317,45 +319,27 @@ Top AI researchers are walking away from some of the most powerful tech companie
 
 📺 The Infographics Show
 
-👁️ 500K • 👍 12K • 💬 2K • ⏱️ 14:48 • 2d ago
+👁️ 510K • 👍 12K • 💬 2K • ⏱️ 14:48 • 2d ago
 
 ---
 
-**[Best Free &amp; Unlimited AI Video Generator (With Sound)](https://www.youtube.com/watch?v=tvze37NcujM)**
+**[Sam Altman Just Declared the Death of Transformers (ChatGPT Getting Replaced)](https://www.youtube.com/watch?v=XeTuLyOBY_0)**
 
-Generate watermark-free 4K cinematic AI videos with Higgsfield → https://higgsfield.ai/s/general-malvaai-aVuWCs Grab the ...
+Sam Altman just said the architecture behind ChatGPT and most modern AI may soon be replaced. Apple introduced LiTo, a ...
 
-📺 Malva AI
+📺 AI Revolution
 
-👁️ 11K • 👍 302 • 💬 57 • ⏱️ 8:07 • 22h ago
-
----
-
-**[Insane AI Wedding Photos...](https://www.youtube.com/watch?v=abYGtMXA9-Q)**
-
-📺 Danny Rayes
-
-👁️ 541K • 👍 31K • 💬 169 • ⏱️ 0:27 • 16h ago
+👁️ 108K • 👍 3K • 💬 286 • ⏱️ 11:10 • 1d ago
 
 ---
 
-**[NETANYAHU IS ACTUALLY DEAD !   HasanAbi Reacts to  AI Video  Conspiracy](https://www.youtube.com/watch?v=C-7LQW99fHA)**
+**[Las Vegas warehouse workers claim AI replaced them](https://www.youtube.com/watch?v=JXUnB5lJY_4)**
 
-NETANYAHU IS ACTUALLY DEAD ! HasanAbi Reacts to AI Video Conspiracy YT @HasanAbi Twitch ...
+Warehouse workers in Las Vegas told 8 News Now they were suddenly laid off, and their company is replacing them with AI ...
 
-📺 Hasanabi Clips
+📺 8 News Now — Las Vegas
 
-👁️ 11K • 👍 290 • 💬 165 • ⏱️ 6:50 • 1d ago
-
----
-
-**[Netanyahu War Room Video Fake? Huckabee Face Glitch, Height Fuel AI Debate](https://www.youtube.com/watch?v=-US8xiiPPV8)**
-
-Fresh sightings, but rising doubts continue to surround Benjamin Netanyahu, as a newly released video from the high-security ...
-
-📺 ETimes
-
-👁️ 115K • 👍 953 • 💬 377 • ⏱️ 8:21 • 1d ago
+👁️ 44K • 👍 624 • 💬 465 • ⏱️ 2:53 • 1d ago
 
 ---
 
@@ -365,17 +349,35 @@ Perplexity just launched something called Perplexity Computer — and it might b
 
 📺 The Tech Girl
 
-👁️ 9K • 👍 277 • 💬 20 • ⏱️ 10:37 • 2d ago
+👁️ 9K • 👍 278 • 💬 20 • ⏱️ 10:37 • 2d ago
 
 ---
 
-**[Google&#39;s New AI tool will Transform Video Editing](https://www.youtube.com/watch?v=Rse_2MlMdEc)**
+**[Insane AI Wedding Photos...](https://www.youtube.com/watch?v=abYGtMXA9-Q)**
 
-Check out our free course: https://curiousrefuge.com/start-here Get AI News and Tutorials Sent to your Inbox: ...
+📺 Danny Rayes
 
-📺 Curious Refuge
+👁️ 573K • 👍 33K • 💬 174 • ⏱️ 0:27 • 18h ago
 
-👁️ 10K • 👍 405 • 💬 18 • ⏱️ 11:28 • 16h ago
+---
+
+**[NETANYAHU IS ACTUALLY DEAD !   HasanAbi Reacts to  AI Video  Conspiracy](https://www.youtube.com/watch?v=C-7LQW99fHA)**
+
+NETANYAHU IS ACTUALLY DEAD ! HasanAbi Reacts to AI Video Conspiracy YT @HasanAbi Twitch ...
+
+📺 Hasanabi Clips
+
+👁️ 11K • 👍 290 • 💬 169 • ⏱️ 6:50 • 1d ago
+
+---
+
+**[Newsom Posts AI Meme Instead of Addressing Allegations](https://www.youtube.com/watch?v=1RBi7EgI6B4)**
+
+Newsom Posts AI Meme Instead of Addressing Allegations SUBSCRIBE TO ME: ...
+
+📺 Wes Austin
+
+👁️ 95K • 👍 9K • 💬 536 • ⏱️ 0:53 • 14h ago
 
 ---
 
@@ -391,7 +393,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 174,004 • ❤️ 604 • 8d ago
+⬇️ 174,004 • ❤️ 610 • 8d ago
 
 ---
 
@@ -403,7 +405,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 104,592 • ❤️ 901 • 11d ago
+⬇️ 104,592 • ❤️ 905 • 11d ago
 
 ---
 
@@ -415,7 +417,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 9,905 • ❤️ 639 • 7d ago
+⬇️ 9,905 • ❤️ 640 • 7d ago
 
 ---
 
@@ -427,7 +429,7 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 `text-generation`
 
-⬇️ 12,191 • ❤️ 311 • 6d ago
+⬇️ 12,191 • ❤️ 312 • 6d ago
 
 ---
 
@@ -439,7 +441,7 @@ NVIDIA-Nemotron-3-Super-120B-A12B-BF16 is a 120B parameter LLM with a LatentMoE 
 
 `text-generation` `123.6B`
 
-⬇️ 58,301 • ❤️ 261 • 4d ago
+⬇️ 58,301 • ❤️ 263 • 4d ago
 
 ---
 
@@ -451,7 +453,7 @@ Mistral-Small-4-119B-2603 is a hybrid MoE model (119B params, 6.5B active) suppo
 
 `119.4B`
 
-⬇️ 5,358 • ❤️ 233 • 1d ago
+⬇️ 5,358 • ❤️ 237 • 1d ago
 
 ---
 
@@ -463,7 +465,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 2,589,317 • ❤️ 922 • 17d ago
+⬇️ 2,589,317 • ❤️ 928 • 17d ago
 
 ---
 
@@ -475,7 +477,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 704 • ❤️ 213 • 1h ago
+⬇️ 704 • ❤️ 216 • 3h ago
 
 ---
 
@@ -487,7 +489,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 305,565 • ❤️ 552 • 15d ago
+⬇️ 305,565 • ❤️ 554 • 15d ago
 
 ---
 
@@ -499,7 +501,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 751,665 • ❤️ 678 • 3d ago
+⬇️ 751,665 • ❤️ 679 • 3d ago
 
 ---
 
@@ -516,7 +518,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 Residual connections with PreNorm are standard in modern LLMs, yet they accumulate all layer outputs with fixed unit weights. This uniform aggregation causes uncontrolled hidden-state growth with depth, progressively diluting each layer's contribution. We propose Attention Residuals (AttnRes), which replaces this fixed accumulation with softmax attention over preceding layer outputs, allowing each layer to selectively aggregate earlier representations with learned, input-dependent weights. To address the memory and communication overhead of attending over all preceding layer outputs for large-scale model training, we introduce Block AttnRes, which partitions layers into blocks and attends over block-level representations, reducing the memory footprint while preserving most of the gains of full AttnRes. Combined with cache-based pipeline communication and a two-phase computation strategy, Block AttnRes becomes a practical drop-in replacement for standard residual connections with minimal overhead.
   Scaling law experiments confirm that the improvement is consistent across model sizes, and ablations validate the benefit of content-dependent depth-wise selection. We further integrate AttnRes into the Kimi Linear architecture (48B total / 3B activated parameters) and pre-train on 1.4T tokens, where AttnRes mitigates PreNorm dilution, yielding more uniform output magnitudes and gradient distribution across depth, and improves downstream performance across all evaluated tasks.
 
-▲ 104 • 💬 4 • ⭐ 1,806 • 3d ago
+▲ 105 • 💬 4 • ⭐ 1,934 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.15031) • [💻 code](https://github.com/MoonshotAI/Attention-Residuals)
 
@@ -528,7 +530,7 @@ Residual connections with PreNorm are standard in modern LLMs, yet they accumula
 
 Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
 
-▲ 16 • 💬 0 • ⭐ 35,637 • 13mo ago
+▲ 16 • 💬 0 • ⭐ 35,752 • 13mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet)
 
@@ -542,7 +544,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 Great scientists have strong judgement and foresight, closely tied to what we call scientific taste. Here, we use the term to refer to the capacity to judge and propose research ideas with high potential impact. However, most relative research focuses on improving an AI scientist's executive capability, while enhancing an AI's scientific taste remains underexplored. In this work, we propose Reinforcement Learning from Community Feedback (RLCF), a training paradigm that uses large-scale community signals as supervision, and formulate scientific taste learning as a preference modeling and alignment problem. For preference modeling, we train Scientific Judge on 700K field- and time-matched pairs of high- vs. low-citation papers to judge ideas. For preference alignment, using Scientific Judge as a reward model, we train a policy model, Scientific Thinker, to propose research ideas with high potential impact. Experiments show Scientific Judge outperforms SOTA LLMs (e.g., GPT-5.2, Gemini 3 Pro) and generalizes to future-year test, unseen fields, and peer-review preference. Furthermore, Scientific Thinker proposes research ideas with higher potential impact than baselines. Our findings show that AI can learn scientific taste, marking a key step toward reaching human-level AI scientists.
 
-▲ 246 • 💬 8 • ⭐ 271 • 3d ago
+▲ 252 • 💬 8 • ⭐ 271 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.14473) • [💻 code](https://github.com/tongjingqi/AI-Can-Learn-Scientific-Taste) • [🔗 project](https://tongjingqi.github.io/AI-Can-Learn-Scientific-Taste/)
 
@@ -556,7 +558,7 @@ Great scientists have strong judgement and foresight, closely tied to what we ca
 
 Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabilities, multi-turn generation, and instruction-following control through natural-language descriptions, utilizing a multi-stage training approach and production-ready inference engine.
 
-▲ 34 • 💬 2 • ⭐ 28,161 • 9d ago
+▲ 34 • 💬 2 • ⭐ 28,232 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.08823) • [💻 code](https://github.com/fishaudio/fish-speech) • [🔗 project](https://fish.audio/)
 
@@ -596,7 +598,7 @@ OpenClaw-RL framework enables policy learning from diverse next-state signals ac
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 24 • 💬 1 • ⭐ 33,025 • 14mo ago
+▲ 24 • 💬 2 • ⭐ 33,025 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -608,7 +610,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 EvoScientist is an adaptive multi-agent framework that enhances scientific discovery by continuously learning from past interactions through persistent memory modules.
 
-▲ 12 • 💬 5 • ⭐ 1,003 • 10d ago
+▲ 12 • 💬 5 • ⭐ 1,097 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.08127) • [💻 code](https://github.com/EvoScientist/EvoScientist)
 
@@ -622,7 +624,7 @@ EvoScientist is an adaptive multi-agent framework that enhances scientific disco
 
 Deep search capabilities have become an indispensable competency for frontier Large Language Model (LLM) agents, yet the development of high-performance search agents remains dominated by industrial giants due to a lack of transparent, high-quality training data. This persistent data scarcity has fundamentally hindered the progress of the broader research community in developing and innovating within this domain. To bridge this gap, we introduce OpenSeeker, the first fully open-source search agent (i.e., model and data) that achieves frontier-level performance through two core technical innovations: (1) Fact-grounded scalable controllable QA synthesis, which reverse-engineers the web graph via topological expansion and entity obfuscation to generate complex, multi-hop reasoning tasks with controllable coverage and complexity. (2) Denoised trajectory synthesis, which employs a retrospective summarization mechanism to denoise the trajectory, therefore promoting the teacher LLMs to generate high-quality actions. Experimental results demonstrate that OpenSeeker, trained (a single training run) on only 11.7k synthesized samples, achieves state-of-the-art performance across multiple benchmarks including BrowseComp, BrowseComp-ZH, xbench-DeepSearch, and WideSearch. Notably, trained with simple SFT, OpenSeeker significantly outperforms the second-best fully open-source agent DeepDive (e.g., 29.5% v.s. 15.3% on BrowseComp), and even surpasses industrial competitors such as Tongyi DeepResearch (trained via extensive continual pre-training, SFT, and RL) on BrowseComp-ZH (48.4% v.s. 46.7%). We fully open-source the complete training dataset and the model weights to democratize frontier search agent research and foster a more transparent, collaborative ecosystem.
 
-▲ 134 • 💬 6 • ⭐ 176 • 2d ago
+▲ 135 • 💬 6 • ⭐ 176 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.15594) • [💻 code](https://github.com/rui-ye/OpenSeeker)
 
@@ -651,7 +653,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 42.8k • 🔱 5.9k • 2d ago
+⭐ 43.0k • 🔱 6.0k • 2d ago
 
 ---
 
@@ -661,7 +663,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 21.5k • 🔱 1.0k • 15h ago
+⭐ 21.6k • 🔱 1.0k • 16h ago
 
 ---
 
@@ -671,7 +673,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.7k • 🔱 1.6k • 2h ago
+⭐ 12.7k • 🔱 1.6k • 22m ago
 
 ---
 
@@ -681,7 +683,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 11.3k • 🔱 1.0k • 1d ago
+⭐ 11.3k • 🔱 1.1k • 1d ago
 
 ---
 
@@ -691,7 +693,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.0k • 🔱 721 • 4h ago
+⭐ 10.0k • 🔱 722 • 6h ago
 
 ---
 
@@ -701,7 +703,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 8.8k • 🔱 424 • 2h ago
+⭐ 8.8k • 🔱 430 • 2m ago
 
 ---
 
@@ -711,7 +713,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 4.8k • 🔱 663 • 5h ago
+⭐ 4.9k • 🔱 685 • 6h ago
 
 ---
 
@@ -721,7 +723,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `agent` `ai` `coding` `lowcode` `nocode`
 
-⭐ 4.2k • 🔱 354 • 1d ago
+⭐ 4.2k • 🔱 359 • 1d ago
 
 ---
 
@@ -731,7 +733,7 @@ Open-source database of 700+ cybersecurity skills for AI agents and security pra
 
 `Python` `agent-skills` `ai-agents` `blue-team` `claude` `claude-code`
 
-⭐ 3.5k • 🔱 334 • 2h ago
+⭐ 3.5k • 🔱 335 • 10m ago
 
 ---
 
@@ -741,7 +743,7 @@ end to end app store screenshot creation using AI
 
 `agentic-ai` `apple` `appstore` `automate` `claude`
 
-⭐ 3.0k • 🔱 195 • 5d ago
+⭐ 3.0k • 🔱 197 • 5d ago
 
 ---
 
