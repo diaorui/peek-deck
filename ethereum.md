@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-19T15:24:46.145643+00:00'
+updated: '2026-03-19T16:30:25.060121+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - news
 - videos
-- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 19, 2026 at 15:24 UTC  
+**Last Updated:** March 19, 2026 at 16:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,113.57
+### $2,118.54
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.0%  
-**7d:** +1.4%  
-**30d:** +8.5%  
-**90d:** -28.8%  
-**1y:** +7.2%  
+**24h:** -4.1%  
+**7d:** +1.0%  
+**30d:** +8.1%  
+**90d:** -29.1%  
+**1y:** +6.8%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
+
+---
+
+**[PSA: CoinSpace/CoinWallet v3.0.7 (2021) has a derivation bug that made it provide the WRONG seed phrase. My recovery script inside.](https://www.reddit.com/r/ethereum/comments/1ry380b/psa_coinspacecoinwallet_v307_2021_has_a/)**
+
+Seen some past posts that people had lost their wallets and this might help those people! If you created a wallet with CoinSpace (now Coin Wallet) around early 2021 and your seed phrase generates a completely different address in MetaMask or any standard tool... you're not crazy. The software had a bug. CoinSpace v3.0.7 (and maybe other versions) incorrectly derived wallet addresses from your seed phrase due to two compounding errors in the code. Your seed phrase can be recovered - but not using it directly. the app just used a broken algorithm to turn it into an address, one that no standard wallet tool replicates. CoinWallet is aware of part of the issue and will point you to a derivation path fix if you report it, but that fix alone doesn't work. The recovery script in the repo handles it correctly. I hit this when I needed to recover 1.55 ETH from a wallet I created in Feb 2021. After weeks of forensics I found the bug and wrote a recovery script. Recovery script: https://github.com/RobMulla/coinspace-eth-recovery Full long writeup about my journey: https://robmulla.substack.com/p/how-my-sons-roblox-mod-helped-me If you're affected, and this works for you please let me know! Or if you knew about this already... I'm curious to know if I'm not the only one.
+
+1h ago
 
 ---
 
@@ -80,7 +88,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The top priority is safety and security. The coins to be stored are ETH and USDC (can also be 2 separate wallets for each, I dont mind that). They are to be used for long-term. The wallet will be installed on a external drive which is then removed and stored securely. Wallet is not installed on the computer itself. What are your best recommendations? PS: Yes, I know! Usually people recommend hardware wallets... but I think they are still risky because you put all your trust in just one single company, and sometimes they can do stupid stuff, for example as we've seen some stories with Ledger and their multiple data leaks. I personally feel more comfrotable with a software one, as long as it's safe and secure.
 
-16h ago
+17h ago
+
+---
+
+**[Best crypto cards for global travel right now?](https://www.reddit.com/r/ethereum/comments/1rxbv42/best_crypto_cards_for_global_travel_right_now/)**
+
+I'm traveling next month across a few different countries and really want to spend some of my gains without off-ramping to fiat and dealing with my bank's absolute BS regarding foreign transaction fees. I used to use the Binance card heavily but, well, you know how that ended for a lot of regions. I saw BitMart has a card out now with their 8th anniversary promotions, and Coinbase obviously has their established one. Has anyone used the BitMart card specifically in Europe or Southeast Asia? I'm mainly looking for decent conversion spreads at the point of sale and no hidden monthly maintenance fees
+
+22h ago
 
 ---
 
@@ -92,17 +108,9 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Best crypto cards for global travel right now?](https://www.reddit.com/r/ethereum/comments/1rxbv42/best_crypto_cards_for_global_travel_right_now/)**
-
-I'm traveling next month across a few different countries and really want to spend some of my gains without off-ramping to fiat and dealing with my bank's absolute BS regarding foreign transaction fees. I used to use the Binance card heavily but, well, you know how that ended for a lot of regions. I saw BitMart has a card out now with their 8th anniversary promotions, and Coinbase obviously has their established one. Has anyone used the BitMart card specifically in Europe or Southeast Asia? I'm mainly looking for decent conversion spreads at the point of sale and no hidden monthly maintenance fees
-
-20h ago
-
----
-
 **[r/BASE FOUNDER 'AMA' SERIES Week 6 - DEGEN: Join us Thursday March 19th, 2pm ET](https://www.reddit.com/r/ethereum/comments/1rxgcae/rbase_founder_ama_series_week_6_degen_join_us/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -136,14 +144,6 @@ Hi guys, I am willing to diversify my stablecoins folio to bitcoin, heard about 
 
 ---
 
-**[Ethereum Foundation incompetence](https://www.reddit.com/r/ethereum/comments/1rwyf2c/ethereum_foundation_incompetence/)**
-
-EF just sold 5000 ETH to Bitmine at local low (price), meanwhile publishing insecure anime "safe space" out of touch manifestos. Seriously guys, what's wrong with you?
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -152,7 +152,7 @@ EF just sold 5000 ETH to Bitmine at local low (price), meanwhile publishing inse
 
 A whale trader has reportedly bought 50,706 ETH with 111.62 million USDT on Wednesday, after selling holdings a year earlier.
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -160,15 +160,7 @@ The Block • 13h ago
 
 Inflation has exceeded the central bank’s 2% target for nearly five years, but the Fed held rates firm again as Bitcoin and Ethereum wobbled.
 
-Decrypt • 21h ago
-
----
-
-**[Current price of Ethereum for MM-DD-YYYY](https://fortune.com/article/price-of-ethereum-03-19-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 1h ago
+Decrypt • 22h ago
 
 ---
 
@@ -176,35 +168,15 @@ Fortune • 1h ago
 
 Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and XRP (CRYPTO: XRP) have all crashed between 40% and 60% from their 2025 highs. As the entire market gears towards a recovery, investors want to know which of Bitcoin, XRP, or Ethereum is the best crypto to invest in this year? To keep things fair, we asked ChatGPT ... XRP vs Bitcoin vs Ethereum: ChatGPT Predicts Which Crypto Is Best for 2026
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[XRP vs. Ethereum: Why Ethereum Could Soar](https://www.fool.com/investing/2026/03/19/xrp-vs-ethereum-why-ethereum-could-soar/)**
+**[Current price of Ethereum for March 19, 2026](https://fortune.com/article/price-of-ethereum-03-19-2026/)**
 
-When it comes to stablecoins, Ethereum rules and the XRP Ledger lags far behind.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-The Motley Fool • 5h ago
-
----
-
-**[AI Agents Can Now Escrow Payments Trustlessly — Meet ERC-8183, the Ethereum Standard That Changes Everything](https://www.ccn.com/education/crypto/erc-8183-programmable-escrow-ai-agents-ethereum-how-it-works/)**
-
-CCN.com • 3h ago
-
----
-
-**[Bitcoin, Ethereum, XRP Surge. Why Cryptos Are Being Played as a Hedge Against Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqe9hgmU_zFE18Cx1TRWQhuZX7EilodbZkQq3VkyD0AzQFJLq3OHIowd&gaa_ts=69bc0b84&gaa_sig=gnqhhd9kZjWhiQbQ-i6g4T4XiC2yLHYrzwhmw-WoE4cer7EpM8Rst288_8Sp_5TLOM5Ew9Kyiy7Jv6uc5u8k7Q%3D%3D)**
-
-Barron's • 2d ago
-
----
-
-**[Bitwise Found What’s Really Driving Ethereum Price, And It’s Not Fundamentals](https://www.tradingview.com/news/newsbtc:6fcdea28c094b:0-bitwise-found-what-s-really-driving-ethereum-price-and-it-s-not-fundamentals/)**
-
-Ethereum’s price has spent much of the past cycle lagging its own institutional and on-chain progress, and Bitwise says the reason is straightforward: ETH is still trading primarily as a Bitcoin proxy, not as a fundamentally valued network. In a new factor-model analysis, the asset manager found BT…
-
-TradingView • 20h ago
+Fortune • 1h ago
 
 ---
 
@@ -214,11 +186,39 @@ TipRanks • 12h ago
 
 ---
 
+**[Bitcoin, Ethereum, XRP Surge. Why Cryptos Are Being Played as a Hedge Against Iran Risk.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-iran-risk-62e28edb?gaa_at=eafs&gaa_n=AWEtsqcUQENTiehCVW8riv_6LquxIoC6zE4vpzRCLUB95ga-4tmiQUpRnsc_&gaa_ts=69bc2809&gaa_sig=RhnYbD8NJdDENpoq-TVwLPxfoyX3yVv4XFVPaenQTr79nkxaLV1yKMHYA0tuCKHXGv67it0xaYCXOTiSYCkWtQ%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
+**[Bitwise Found What’s Really Driving Ethereum Price, And It’s Not Fundamentals](https://www.tradingview.com/news/newsbtc:6fcdea28c094b:0-bitwise-found-what-s-really-driving-ethereum-price-and-it-s-not-fundamentals/)**
+
+Ethereum’s price has spent much of the past cycle lagging its own institutional and on-chain progress, and Bitwise says the reason is straightforward: ETH is still trading primarily as a Bitcoin proxy, not as a fundamentally valued network. In a new factor-model analysis, the asset manager found BT…
+
+TradingView • 21h ago
+
+---
+
+**[XRP vs. Ethereum: Why Ethereum Could Soar](https://www.fool.com/investing/2026/03/19/xrp-vs-ethereum-why-ethereum-could-soar/)**
+
+When it comes to stablecoins, Ethereum rules and the XRP Ledger lags far behind.
+
+The Motley Fool • 6h ago
+
+---
+
+**[AI Agents Can Now Escrow Payments Trustlessly — Meet ERC-8183, the Ethereum Standard That Changes Everything](https://www.ccn.com/education/crypto/erc-8183-programmable-escrow-ai-agents-ethereum-how-it-works/)**
+
+CCN.com • 4h ago
+
+---
+
 **[‘Lean Ethereum’ will not compromise security for speed, says Vitalik Buterin – Here’s how](https://ambcrypto.com/lean-ethereum-will-not-compromise-security-for-speed-says-vitalik-buterin-heres-how/)**
 
 Vitalik Buterin said that the 'lean Ethereum' plan was the only way to get faster speed and security without trade-offs.
 
-AMBCrypto • 7h ago
+AMBCrypto • 8h ago
 
 ---
 
@@ -232,7 +232,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 126 • 💬 5 • ⏱️ 4:15 • 13h ago
+👁️ 2K • 👍 126 • 💬 5 • ⏱️ 4:15 • 14h ago
 
 ---
 
@@ -242,7 +242,7 @@ In this live technical analysis session, The Trading Parrot breaks down BTC, ETH
 
 📺 The Trading Parrot
 
-👁️ 706 • 👍 87 • 💬 2 • ⏱️ 1:10:26 • 59m ago
+👁️ 706 • 👍 87 • 💬 2 • ⏱️ 1:10:26 • 2h ago
 
 ---
 
@@ -252,7 +252,7 @@ Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburne
 
 📺 Trade with Burner
 
-👁️ 4K • 👍 506 • 1h ago
+👁️ 4K • 👍 506 • 2h ago
 
 ---
 
@@ -262,7 +262,7 @@ BITCOIN DUMP: Bearish Price Target Revealed (get ready)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 7K • 👍 274 • 💬 59 • ⏱️ 17:24 • 13h ago
+👁️ 7K • 👍 274 • 💬 59 • ⏱️ 17:24 • 14h ago
 
 ---
 
@@ -272,7 +272,7 @@ BloFin (NO KYC) – Up to $5,000 bonus + No Restrictions https://marzell.org/Blo
 
 📺 Marzell Crypto
 
-👁️ 480 • 👍 15 • 💬 35 • ⏱️ 3:03 • 22h ago
+👁️ 480 • 👍 15 • 💬 35 • ⏱️ 3:03 • 23h ago
 
 ---
 
@@ -282,7 +282,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 132 • 👍 13 • 💬 1 • ⏱️ 5:34 • 5h ago
+👁️ 132 • 👍 13 • 💬 1 • ⏱️ 5:34 • 6h ago
 
 ---
 
@@ -292,7 +292,7 @@ OUR SPRING $600 OFF INDICATOR SALE IS LIVE!: https://tradeconfidentportal.io/ind
 
 📺 Trade Confident
 
-👁️ 650 • 👍 21 • 💬 1 • ⏱️ 4:12 • 21h ago
+👁️ 650 • 👍 21 • 💬 1 • ⏱️ 4:12 • 22h ago
 
 ---
 
@@ -300,7 +300,7 @@ OUR SPRING $600 OFF INDICATOR SALE IS LIVE!: https://tradeconfidentportal.io/ind
 
 📺 EllioTrades
 
-👁️ 1K • 👍 55 • 💬 18 • ⏱️ 1:07 • 1h ago
+👁️ 1K • 👍 55 • 💬 18 • ⏱️ 1:07 • 2h ago
 
 ---
 

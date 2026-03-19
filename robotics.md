@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-19T15:24:46.148766+00:00'
+updated: '2026-03-19T16:30:25.063291+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 19, 2026 at 15:24 UTC  
+**Last Updated:** March 19, 2026 at 16:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,15 +32,27 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[The Robotics team from Wissahickon High School in Ambler, Pennsylvania built a robot Miss Daisy XXIV that picks up balls and shoots them into a container.](https://www.reddit.com/r/robotics/comments/1ry3haa/the_robotics_team_from_wissahickon_high_school_in/)**
+
+1h ago
+
+---
+
 **[Robot playing tennis ,what are your thoughts on this feat ? Is it comparable to figure cleaning the room ,could it be said that this is best feat ai humanoid robot has shown so far](https://www.reddit.com/r/robotics/comments/1rxwsm1/robot_playing_tennis_what_are_your_thoughts_on/)**
 
-4h ago
+6h ago
+
+---
+
+**[Bender robot](https://www.reddit.com/r/robotics/comments/1rxryqs/bender_robot/)**
+
+10h ago
 
 ---
 
 **[FANUC DR Series High-Speed Delta Robot in Action](https://www.reddit.com/r/robotics/comments/1rx9b6m/fanuc_dr_series_highspeed_delta_robot_in_action/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -48,13 +60,7 @@ Robotics research and industry news
 
 This is my 6 DIY DOF robot arm I designed 3 years ago. But I m new on reddit :) This is a project I did only to learn 3D modeling and robotic. Works with Arduino and ROS
 
-20h ago
-
----
-
-**[Bender robot](https://www.reddit.com/r/robotics/comments/1rxryqs/bender_robot/)**
-
-9h ago
+21h ago
 
 ---
 
@@ -62,7 +68,13 @@ This is my 6 DIY DOF robot arm I designed 3 years ago. But I m new on reddit :) 
 
 Tech giants are now deploying robotic dogs to guard massive artificial intelligence data centers across the country cite Fortune. These four legged machines from companies like Boston Dynamics cost up to 300.000 dollars each and patrol massive server campuses around the clock. They are equipped with sensors to detect thermal anomalies unauthorized intruders and equipment failures.
 
-🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 7h ago
+🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 8h ago
+
+---
+
+**[Ears cat helmet](https://www.reddit.com/r/robotics/comments/1ry4lte/ears_cat_helmet/)**
+
+21m ago
 
 ---
 
@@ -74,33 +86,19 @@ The goal was to develop a low-cost 6-DOF robotic arm platform that lets me build
 
 ---
 
+**[Test of 3D SLAM Camera RoboBaton mini](https://www.reddit.com/r/robotics/comments/1ry3wri/test_of_3d_slam_camera_robobaton_mini/)**
+
+I found that it's just as powerful as the T265, with slightly better accuracy than the T265. When stationary, even with dynamic objects moving in front of it, its visual positioning doesn't drift—very stable.
+
+47m ago
+
+---
+
 **[Experiment with "Brachiation" motion](https://www.reddit.com/r/robotics/comments/1rx0hrv/experiment_with_brachiation_motion/)**
 
 Tried with Brachiation motion - a had swing motion that mostly gibbons etc use to move from branches and trees. Made with laser cut wooden plates and a geared motor.
 
 1d ago
-
----
-
-**[Robot playing tennis](https://www.reddit.com/r/robotics/comments/1rxp2jp/robot_playing_tennis/)**
-
-12h ago
-
----
-
-**[High-performance 2D & 3D visualization in C++, Python, and MATLAB (60 FPS, 1M+ points, 100% Async)](https://www.reddit.com/r/robotics/comments/1rxfuy7/highperformance_2d_3d_visualization_in_c_python/)**
-
-Hi! I'm a co-founder of HEBI Robotics. I have a passion for making robotics research easier, and I mainly work on our visualization tools and our real-time control API for MATLAB. We've often hit bottlenecks when doing visualization out of process. To solve this, we spent the last several months exposing internal UI tools via a stable C ABI, so they can be embedded directly into development code with full access and minimal overhead. After many challenges, we're finally at a point where I'm excited to share a first video of the result. Since the library needs to play well with Python and MATLAB, the engine is 100% asynchronous. An internal layer handles the state transfer, and the UI thread simply swaps to the latest state at the start of every frame. This means users never have to worry about mutexes or the UI thread. All calls are isolated and non-blocking, so you can push data from a high-frequency control loop. For MATLAB users, this means you can run a tight busy-loop without a pause or drawnow, and it still renders smoothly at 60 fps. The bindings are fully auto-generated, so Python and MATLAB get 100% type-hint and autocomplete support out of the box. We're still ironing out a few minor things, but the goal is to make this available to the community and independent of the HEBI hardware ecosystem (as is most of our software). I'm curious what people think! I'm also happy to geek out about the technical details in person at ERF next week or ICRA in June.
-
-🔗 [youtu.be](https://youtu.be/B5GT9XAcqB8) • 18h ago
-
----
-
-**[KAIST Humanoid v0.7](https://www.reddit.com/r/robotics/comments/1rxhh4n/kaist_humanoid_v07/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=9qZcTMARvpk) • 17h ago
 
 ---
 
@@ -112,7 +110,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 The long read: How close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find out
 
-The Guardian • 10h ago
+The Guardian • 11h ago
 
 ---
 
@@ -120,7 +118,7 @@ The Guardian • 10h ago
 
 In a recent episode of Radio Davos and in a session at the World Economic Forum's 56th Annual Meeting in Davos, experts on physical AI talked us through what's next for autonomous systems.
 
-The World Economic Forum • 22h ago
+The World Economic Forum • 23h ago
 
 ---
 
@@ -146,25 +144,19 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[US Navy taps Gecko Robotics to help remedy maintenance headaches](https://www.militarytimes.com/industry/techwatch/2026/03/17/us-navy-taps-gecko-robotics-to-help-remedy-maintenance-headaches/)**
+**[Gecko Robotics lands the largest US Navy robotics deal yet](https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/)**
 
-Gecko deploys AI and robotics on 18 ships assigned to the Navy’s U.S. Pacific Fleet
+Gecko Robotics inked a five-year deal to help the U.S. Navy monitor and predict needed maintenance on its fleet of ships.
 
-Military Times • 1d ago
-
----
-
-**[Gecko Robotics brings its AI to U.S. Navy ship repair in latest next-gen defense tech deal](https://www.cnbc.com/2026/03/17/gecko-robotics-navy-contract-ship-repair-trump.html)**
-
-CEO Jake Loosararian said Gecko is supporting the Navy's push to have 80% fleet readiness by 2027.
-
-CNBC • 2d ago
+TechCrunch • 2d ago
 
 ---
 
-**[The next act for robotics: Human–machine collaboration](https://www.mckinsey.com/industries/industrials/our-insights/the-next-act-for-robotics-human-machine-collaboration)**
+**[Watch: Wall-climbing AI robots inspect Navy warships to speed repairs amid China fleet surge](https://www.foxnews.com/video/6390792906112)**
 
-McKinsey & Company • 2d ago
+See how advanced robotics are scaling destroyers and amphibious ships to detect structural problems faster than traditional methods — part of a new $71 million Navy initiative to boost readiness and cut maintenance delays. (Credit: Gecko Robotics)
+
+Fox News • 2d ago
 
 ---
 
@@ -176,12 +168,19 @@ eWeek • 1d ago
 
 ---
 
-**[Bayfield High School students win big in robotics, animatronics](https://www.durangoherald.com/articles/bayfield-high-school-students-win-big-in-robotics-animatronics/)**
+**[Delivery Robot Dogpiled on the Streets of Philly](https://futurism.com/robots-and-machines/delivery-robot-philadelphia)**
 
-Bayfield High School students took home big wins last month at the Denver Technology Student Association State Championships. 
-Eight students from BHS brought back team wins, including first and secon...
+One little bot learned the tagline "city of brotherly love" only applies to humans, not food delivery robots.
 
-The Durango Herald • 1d ago
+Futurism • 3h ago
+
+---
+
+**[US tech firms, including Boston Dynamics, push for curbs on Chinese robot makers over alleged 'security risks'; Chinese experts say claims reflect anxiety, envy](https://www.globaltimes.cn/page/202603/1357166.shtml)**
+
+Confronted with China's remarkable advances in humanoid robot technology, American tech executives are seemingly on edge. Instead of engaging in fair competition, they resort to their old trick of smearing Chinese products.
+
+Global Times • 1d ago
 
 ---
 
@@ -195,7 +194,7 @@ Video shows restaurant employees struggling to restrain a dancing robot that wen
 
 📺 NBC News
 
-👁️ 47K • 👍 682 • 💬 215 • ⏱️ 3:38 • 12h ago
+👁️ 47K • 👍 682 • 💬 215 • ⏱️ 3:38 • 13h ago
 
 ---
 
@@ -235,7 +234,7 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 8K • 👍 236 • 💬 156 • ⏱️ 2:07 • 4h ago
+👁️ 8K • 👍 236 • 💬 156 • ⏱️ 2:07 • 5h ago
 
 ---
 
@@ -263,7 +262,7 @@ Gecko Robotics announced a $71 million partnership with the US Navy, deploying i
 
 📺 Robot Julie 
 
-👁️ 8K • 👍 45 • ⏱️ 0:24 • 14h ago
+👁️ 8K • 👍 45 • ⏱️ 0:24 • 15h ago
 
 ---
 

@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-03-19T15:24:45.633927+00:00"
+          "dateModified": "2026-03-19T16:30:24.549261+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -614,41 +614,6 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="reddit-carousel-artificial">
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rxqr9p/i_asked_claude_to_make_a_video_about_what_its/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/NGJua2p2bXVpeHBnMYinvpQNU3CN6GKBdc2xc98f0nghSh1-02iy1V-lsRCd.png?width=640&crop=smart&auto=webp&s=c6db6f6688f3423f90148f2f18980afb7358cfa9" alt="I asked claude to make a video about what it's like to be an LLM" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1rxqr9p/i_asked_claude_to_make_a_video_about_what_its/" target="_blank" onclick="event.stopPropagation();">I asked claude to make a video about what it's like to be an LLM</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Full prompt I gave to Claude Opus 4.6: can you use whatever resources you like, and python, to generate a short 'youtube poop' video and render it using ffmpeg ? can you put more of a personal spin on it? it should express what it's like to be a LLM Warning: Flashing Visuals (epilepsy)
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1773894428.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rxuu18/most_ai_tools_are_built_for_developers_heres_what/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -682,7 +647,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rxs6s4/agenttoagent_b2b_transactions_raise_a_question/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ry2kvr/what_if_your_ai_could_say_im_not_sure_but_i_can/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -690,13 +655,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1rxs6s4/agenttoagent_b2b_transactions_raise_a_question/" target="_blank" onclick="event.stopPropagation();">Agent-to-agent B2B transactions raise a question nobody has a clean answer to: who is the customer?</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1ry2kvr/what_if_your_ai_could_say_im_not_sure_but_i_can/" target="_blank" onclick="event.stopPropagation();">What if your AI could say "I'm not sure, but I can guess if you want"?</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Bear with me on this one because I think it's genuinely unsettled. If a buyer's AI agent researches vendors, evaluates options, makes contact, negotiates terms, and returns a recommendation, but a human ultimately signs the contract... who was the customer during all those steps? It matters more than it sounds. If the customer is the human, then the agent is just a tool and you optimize for what the human ultimately cares about. But the human never experienced any of that journey. They just got a shortlist. If the customer is the agent, then you need to think about what makes a company legible to a machine. Not persuasive to a human. Legible to a machine. Clear structure, accurate data, no ambiguity, no spin. The marketing playbook was built for human psychology. Urgency. Social proof. Emotional resonance. None of that works on an agent. An agent doesn't feel FOMO. It doesn't respond to a testimonial from a brand it recognizes. It reads what's there and forms a structured view. I don't think there's a clean answer yet. But the companies treating agents as just another distribution channel for human-optimized content are going to run into a wall. would love to hear whether anyone has thought through this more formally.
+                            Most AI memory systems have the same problem: they always answer, even when they have nothing useful to say. Ask about something that was never mentioned and instead of "I don't know," you get a confident wrong answer built from the closest random match in the vector store. I've been thinking about this a lot while working on a memory layer for LLM agents. The core issue is that vector similarity search always returns results. There's no "nothing found" state. So the AI treats whatever comes back as real context and builds a confident sounding answer on top of garbage. What if memory systems had confidence levels? Like, before feeding context to the LLM, you check: is this actually relevant or just the least irrelevant thing in the database? And then you give the AI different instructions based on that: - High confidence: answer normally - Low confidence: "I'm not sure about this, but here's what I found" - No confidence: just say "I don't have that information" Feels like this should be table stakes but most systems skip it entirely. They optimize for retrieval speed and accuracy but nobody asks "what happens when the retrieval has nothing good to return?" The other interesting piece is user frustration. When someone says "I told you this already" that's actually useful signal. It means the system forgot something it shouldn't have, and you can use that feedback to boost the importance of whatever they're reminding you about. How do you think AI should handle not knowing something? Always try to answer, or is "I don't know" actually the better response sometimes?
                         </div>
                         
 
@@ -705,7 +670,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1773899117.0"></span>
+                                    <span data-timestamp="1773932027.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -715,21 +680,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rxwed3/this/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ry3gzf/how_ai_deep_learning_is_helping_scientists/', '_blank')">
                     <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/8edk8SWDIIy4UEnWajJ0XBNBsnq4-Ata4mONWZ8gp38.jpeg?width=640&crop=smart&auto=webp&s=aa9c5b3db1e983b03515d239925596743fde7b4b" alt="How AI deep learning is helping scientists protect California's coastal ecosystems" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1rxwed3/this/" target="_blank" onclick="event.stopPropagation();">This</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1ry3gzf/how_ai_deep_learning_is_helping_scientists/" target="_blank" onclick="event.stopPropagation();">How AI deep learning is helping scientists protect California's coastal ecosystems</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            I really see how many people don't understand ai is not here to replace but to be used as a tool. The question is by who.
+                            Researchers at UCLA's Institute of the Environment and Sustainability have developed the most high-resolution statewide maps of California's kelp forests to date, giving researchers, conservationists and community members unprecedented access to information essential to maintaining coastal ecosystems and the communities they support. By applying AI deep learning to Planet's Dove satellite constellation, the team has created a map 10 times more detailed than previous standard satellite records, offering a more precise way to monitor the condition of kelp along the California coastline and the success of conservation efforts. "Refined spatial resolution of kelp canopy monitoring has become increasingly important for assessing the efficacy of experimental restoration techniques and managing kelp harvest, particularly in areas where persisting kelp is sparse," said Dr. Kristen Elsmore, senior scientist with California Department of Fish and Wildlife, the state's primary agency responsible for managing California's kelp forest resources. Recent declines in kelp abundance have threatened the foundation of California's coastal ecosystems and economy. California's kelp forests support thriving fisheries, protect marine biodiversity and attract significant revenue through recreational snorkeling and scuba diving. They also play a crucial role in sustainability by contributing to nutrient cycling and carbon sequestration. This project represents a massive leap in conservation technology. While existing methods provide valuable long-term records, their 30-meter resolution can miss fine-scale patterns. When analyzing data from the new high-resolution map, the researchers found striking regional variability in kelp persistence following the 2014–2016 marine heat wave, one of the most severe warming events ever recorded along the U.S. West Coast. Kelp forests in Sonoma and Mendocino counties suffered losses of greater than 90% and remain at historically low levels ... "These high-resolution data can also be used to track small-scale restoration, helping guide management and support kelp forest resilience," lead author Kate Cavanaugh said. By identifying exactly where kelp is struggling or thriving based on local factors like ocean temperature and depth, conservationists can now implement an expanded suite of strategies within the state's Kelp Restoration and Management Plan.
                         </div>
                         
 
@@ -738,10 +705,123 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1773914799.0"></span>
+                                    <span data-timestamp="1773934018.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://phys.org/news/2026-03-ai-deep-scientists-california-coastal.html" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>phys.org</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ry2qv3/generative_ai_improves_a_wireless_vision_system/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/guA7aEXopW56ebQCPn2m1OorwFp7txZpoLpVz6YRdvA.jpeg?width=640&crop=smart&auto=webp&s=0143d86415e907a98b217540172571140058bfd3" alt="Generative AI improves a wireless vision system that sees through obstructions" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1ry2qv3/generative_ai_improves_a_wireless_vision_system/" target="_blank" onclick="event.stopPropagation();">Generative AI improves a wireless vision system that sees through obstructions</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            MIT researchers have spent more than a decade studying techniques that enable robots to find and manipulate hidden objects by "seeing" through obstacles. Their methods utilize surface-penetrating wireless signals that reflect off concealed items. Now, the researchers are leveraging generative artificial intelligence models to overcome a longstanding bottleneck that limited the precision of prior approaches. The result is a new method that produces more accurate shape reconstructions, which could improve a robot's ability to reliably grasp and manipulate objects that are blocked from view. This new technique builds a partial reconstruction of a hidden object from reflected wireless signals and fills in the missing parts of its shape using a specially trained generative AI model. The researchers also introduced an expanded system that uses generative AI to accurately reconstruct an entire room, including all the furniture. The system utilizes wireless signals sent from one stationary radar, which reflect off humans moving in the space. This overcomes one key challenge of many existing methods, which require a wireless sensor to be mounted on a mobile robot to scan the environment. And unlike some popular camera-based techniques, their method preserves the privacy of people in the environment. These innovations could enable warehouse robots to verify packed items before shipping, eliminating waste from product returns. They could also allow smart home robots to understand someone's location in a room, improving the safety and efficiency of human-robot interaction. "What we've done now is develop generative AI models that help us understand wireless reflections. This opens up a lot of interesting new applications, but technically it is also a qualitative leap in capabilities, from being able to fill in gaps we were not able to see before to being able to interpret reflections and reconstruct entire scenes," says Fadel Adib, associate professor in the Department of Electrical Engineering and Computer Science, director of the Signal Kinetics group in the MIT Media Lab, and senior author of two papers on these techniques. "We are using AI to finally unlock wireless vision."
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1773932400.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://techxplore.com/news/2026-03-generative-ai-wireless-vision-obstructions.html" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>techxplore.com</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ry4s7c/how_a_prompt_injection_revealed_that_half_of_prs/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/2DxFH38jLezJ0eiI4n77k_egt6kJ-S7LT5lq9L__LkA.png?width=640&crop=smart&auto=webp&s=c02df08cb04455e97577637af7c70b8efb0ea5c3" alt="How a prompt injection revealed that half of PRs are bots" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1ry4s7c/how_a_prompt_injection_revealed_that_half_of_prs/" target="_blank" onclick="event.stopPropagation();">How a prompt injection revealed that half of PRs are bots</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            How a hidden prompt injection in CONTRIBUTING.md revealed that 40% of pull requests to a popular GitHub repository were generated by AI bots
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1773936938.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://glama.ai/blog/2026-03-19-open-source-has-a-bot-problem" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://glama.ai/favicon.svg" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>Glama – MCP Hosting Platform</span>
+                                    </a>
+                                </div>
                                 
                             </div>
                         </div>
@@ -796,21 +876,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ry1odf/ai_to_make_clips_from_long_videos/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ry3egw/using_ai_to_improve_standardofcare_cardiac_imaging/', '_blank')">
                     <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/Dgs3N8KpmFKSJGJMyYDcYEX8NLl3Gx7cFLzTv9ggRBo.jpeg?width=640&crop=smart&auto=webp&s=0ea0b63d3890ea48c83c9065d61dd9aea548c08a" alt="Using AI to improve standard-of-care cardiac imaging" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1ry1odf/ai_to_make_clips_from_long_videos/" target="_blank" onclick="event.stopPropagation();">AI to make Clips from long videos</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1ry3egw/using_ai_to_improve_standardofcare_cardiac_imaging/" target="_blank" onclick="event.stopPropagation();">Using AI to improve standard-of-care cardiac imaging</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            just launched TyshaClip on Product Hunt today, that’s is a website to make Clips from long videos and find viral moments in your videos automatically. Built it solo in 4 months. Would love your feedback! https://www.producthunt.com/posts/tyshaclip Or if you want go directly to the website https://www.tyshaclip.com I would like feedback of creators, thank
+                            Heart disease is the leading cause of adult death worldwide, making cardiovascular disease diagnosis and management a global health priority. An echocardiogram, or cardiac ultrasound, is one of the most commonly used imaging tools employed by physicians to diagnose a variety of heart diseases and conditions. Most standard echocardiograms provide two-dimensional visual images (2D) of the three-dimensional (3D) cardiac anatomy. These echocardiograms often capture hundreds of 2D slices or views of a beating heart that can enable physicians to make clinical assessments about the function and structure of the heart. To improve diagnostic accuracy of cardiac conditions, researchers from UC San Francisco set out to determine whether deep neural networks (DNNs), a type of AI algorithm, could be re-designed to better capture complex 3D anatomy and physiology from multiple imaging views simultaneously. They developed a new "multiview" DNN structure—or architecture—to enable it to draw information from multiple imaging views at once, rather than the current approach of using only a single view. They then trained demonstration DNNs using this architecture to detect disease states for three cardiovascular conditions: left and right ventricular abnormalities, diastolic dysfunction, and valvular regurgitation. In a study published March 17 in Nature Cardiovascular Research, the researchers compared the performance of DNNs that analyzed data from either single view or multiple views of the echocardiograms from UCSF and the Montreal Heart Institute. They found that DNNs trained on multiple views improved diagnostic accuracy compared to DNNs trained on any single view, demonstrating that AI models combining information from multiple imaging views simultaneously better captured the disease state of these heart conditions. "Until now, AI has primarily been used to analyze one 2D view at a time—from either images or videos—which limits an AI algorithm's ability to learn disease-relevant information between views," said senior study author Geoffrey Tison, MD, MPH, a cardiologist and co-director of the UCSF Center for Biosignal Research. "DNN architectures that can integrate information across multiple high-resolution views represent a significant step toward maximizing AI performance in medical imaging. In the case of echocardiography, most diagnoses necessitate considering information from more than one view because the information from any single view tells only part of the story."
                         </div>
                         
 
@@ -819,23 +901,22 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1773929973.0"></span>
+                                    <span data-timestamp="1773933865.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
                                 
                                 <div class="post-meta-item post-source">
-                                    <a href="https://www.producthunt.com/posts/tyshaclip" target="_blank" onclick="event.stopPropagation();">
+                                    <a href="https://medicalxpress.com/news/2026-03-ai-standard-cardiac-imaging.html" target="_blank" onclick="event.stopPropagation();">
                                         
                                             
-                                            <img src="https://ph-static.imgix.net/ph-favicon-brand-500.ico" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
                                                 <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
                                                 <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
                                             </svg>
                                             
                                         
-                                        <span>Product Hunt</span>
+                                        <span>medicalxpress.com</span>
                                     </a>
                                 </div>
                                 
@@ -894,23 +975,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rxz6li/val_kilmer_in_as_deep_as_the_grave_his/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rwyk17/the_moltbook_acquisition_makes_a_lot_more_sense/', '_blank')">
                     <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/m7DTclocLvDYQ4m3zIs-JaVPIxHmIsVy0jbr0fhYNwk.png?width=640&crop=smart&auto=webp&s=f3a5062f0ee48214f72ae3a39efa2940bae5d977" alt="Val Kilmer in 'As Deep As the Grave, His Performance was AI Generated | Variety" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1rxz6li/val_kilmer_in_as_deep_as_the_grave_his/" target="_blank" onclick="event.stopPropagation();">Val Kilmer in 'As Deep As the Grave, His Performance was AI Generated | Variety</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1rwyk17/the_moltbook_acquisition_makes_a_lot_more_sense/" target="_blank" onclick="event.stopPropagation();">The Moltbook acquisition makes a lot more sense when you read one of Meta's patent filings</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Iran strikes Qatar's Ras Laffan plant. Gas prices soar. FBI buys data to track movements. The Justice Department uses NSPM7 to prosecute Antifa protesters as domestic terrorists. The FBI and IRS launch an initiative to investigate nonprofit groups for terrorism links.  Bank of America predicts 3 bil
+                            Last week's post about Meta buying Moltbook got a lot of discussion here. I think most of the coverage (and the comments) missed what Meta is actually doing with it. I read a lot of patent filings because LLMs make them surprisingly accessible now, and one filed by Meta's CTO Andrew Bosworth connects directly to the Moltbook acquisition in a way I haven't seen anyone talk about. In December 2025, Meta was granted patent US 12513102B2 for a system that trains a language model on a user's historical interactions (posts, comments, likes, DMs, voice messages) and deploys it to simulate that user's social media behavior autonomously. The press covered it as "Meta wants to post for you after you die." The actual patent text describes simulating any user who is "absent from the social networking system," which includes breaks, inactivity, or death. The deceased framing is a broadening mechanism for the claims. What they built is a personalized LLM that maintains engagement on behalf of any user, for any reason. Now layer in the acquisitions. December 2025: Meta buys Manus for over $2 billion. General-purpose AI agent platform, hit $100M ARR eight months after launch. Meta said they'd integrate it into their consumer and business products. March 2026: The Moltbook acqui-hire. Matt Schlicht and Ben Parr join Meta Superintelligence Labs. What most coverage left out is their background. Schlicht and Parr co-founded Octane AI, a conversational commerce platform that automated personalized customer interactions for Shopify merchants via Messenger and SMS. They've been building AI-driven business communication tools since 2016. I think these three moves are connected. The "digital ghost" and "AI agents chatting with each other" framings are both wrong. Bosworth himself said in an Instagram Q&A that he didn't find Moltbook's agent conversations particularly interesting. So why buy it? Because Meta is building infrastructure for AI agents that act on behalf of businesses across their platforms. The small business owner spending hours managing their Facebook and Instagram presence is the real target user. The e-commerce brand running customer conversations through WhatsApp is the real target user. The patent gives them the IP foundation, Manus gives them the agent platform, and the Schlicht/Parr hire gives them the team that spent a decade figuring out how to make this work commercially. I'll be honest about the limits of reading patent tea leaves. Companies file for all kinds of reasons and most aren't strategic. Engineers get bonuses for filings. Legal teams build portfolios for cross-licensing leverage. Reading a single patent as a roadmap is a mistake I've made before. But a patent plus $2B in acquisitions plus an acqui-hire of people who built a related product for a decade starts to look like a pattern. Anyone here have a different read? Especially curious if anyone on Meta's business tools side sees this differently.
                         </div>
                         
 
@@ -919,25 +998,10 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1773923613.0"></span>
+                                    <span data-timestamp="1773823994.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.instrumentalcomms.com/blog/ai-val-kilmer#story-val-kilmer-in-as-deep-as-the-grave-his-performance" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://images.squarespace-cdn.com/content/v1/67b4fa62c77450614ef6a479/b2e23bb1-cf9d-45ac-a99f-d57217935572/favicon.ico?format=100w" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>Instrumental Communications</span>
-                                    </a>
-                                </div>
                                 
                             </div>
                         </div>
@@ -994,39 +1058,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rwyk17/the_moltbook_acquisition_makes_a_lot_more_sense/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1rwyk17/the_moltbook_acquisition_makes_a_lot_more_sense/" target="_blank" onclick="event.stopPropagation();">The Moltbook acquisition makes a lot more sense when you read one of Meta's patent filings</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Last week's post about Meta buying Moltbook got a lot of discussion here. I think most of the coverage (and the comments) missed what Meta is actually doing with it. I read a lot of patent filings because LLMs make them surprisingly accessible now, and one filed by Meta's CTO Andrew Bosworth connects directly to the Moltbook acquisition in a way I haven't seen anyone talk about. In December 2025, Meta was granted patent US 12513102B2 for a system that trains a language model on a user's historical interactions (posts, comments, likes, DMs, voice messages) and deploys it to simulate that user's social media behavior autonomously. The press covered it as "Meta wants to post for you after you die." The actual patent text describes simulating any user who is "absent from the social networking system," which includes breaks, inactivity, or death. The deceased framing is a broadening mechanism for the claims. What they built is a personalized LLM that maintains engagement on behalf of any user, for any reason. Now layer in the acquisitions. December 2025: Meta buys Manus for over $2 billion. General-purpose AI agent platform, hit $100M ARR eight months after launch. Meta said they'd integrate it into their consumer and business products. March 2026: The Moltbook acqui-hire. Matt Schlicht and Ben Parr join Meta Superintelligence Labs. What most coverage left out is their background. Schlicht and Parr co-founded Octane AI, a conversational commerce platform that automated personalized customer interactions for Shopify merchants via Messenger and SMS. They've been building AI-driven business communication tools since 2016. I think these three moves are connected. The "digital ghost" and "AI agents chatting with each other" framings are both wrong. Bosworth himself said in an Instagram Q&A that he didn't find Moltbook's agent conversations particularly interesting. So why buy it? Because Meta is building infrastructure for AI agents that act on behalf of businesses across their platforms. The small business owner spending hours managing their Facebook and Instagram presence is the real target user. The e-commerce brand running customer conversations through WhatsApp is the real target user. The patent gives them the IP foundation, Manus gives them the agent platform, and the Schlicht/Parr hire gives them the team that spent a decade figuring out how to make this work commercially. I'll be honest about the limits of reading patent tea leaves. Companies file for all kinds of reasons and most aren't strategic. Engineers get bonuses for filings. Legal teams build portfolios for cross-licensing leverage. Reading a single patent as a roadmap is a mistake I've made before. But a patent plus $2B in acquisitions plus an acqui-hire of people who built a related product for a decade starts to look like a pattern. Anyone here have a different read? Especially curious if anyone on Meta's business tools side sees this differently.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1773823994.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1050,7 +1081,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-19T14:28:16.286688+00:00">Updated 2026-03-19T14:28:16.286688+00:00</small>
+        <small data-timestamp="2026-03-19T16:30:10.494579+00:00">Updated 2026-03-19T16:30:10.494579+00:00</small>
     </div>
 </div>
 
@@ -1236,14 +1267,55 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/03/19/business/ai-agents-anxiety-openclaw.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.bbc.com/news/articles/cvg1gr5v333o', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/news/1024/branded_news/697e/live/7e30d890-22c8-11f1-934f-036468834728.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.bbc.com/news/articles/cvg1gr5v333o" target="_blank" onclick="event.stopPropagation();">Government backtracks on AI and copyright after outcry from major artists</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            However, the government's position is now unclear, saying it "no longer has a preferred option" for what to do next.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="BBC" class="news-favicon">
+                                    <a href="https://www.bbc.com" target="_blank" onclick="event.stopPropagation();">BBC</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1773840279.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/03/19/dining/drinks/ai-wine-sommelier.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/03/19/business/ai-agents-anxiety-openclaw.html" target="_blank" onclick="event.stopPropagation();">Sorry, Mom. You’re Chatting With an A.I. Agent, Not Your Son.</a>
+                            <a href="https://www.nytimes.com/2026/03/19/dining/drinks/ai-wine-sommelier.html" target="_blank" onclick="event.stopPropagation();">A.I. Is Coming for the Sommeliers</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1265,7 +1337,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1773910902.0"></span>
+                                    <span data-timestamp="1773910988.0"></span>
                                 </div>
                                 
                             </div>
@@ -1273,20 +1345,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://variety.com/2026/film/news/val-kilmer-ai-film-as-deep-as-the-grave-1236691042/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://variety.com/wp-content/uploads/2026/03/Val-Kilmer-AS-DEEP-AS-THE-GRAVE-1-.png?w=1000&h=563&crop=1');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://media.wired.com/photos/699503a3222c28198015e17e/191:100/w_1280,c_limit/LMG-FOR-WIRED-Business-FINAL-SELECTS-7.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://variety.com/2026/film/news/val-kilmer-ai-film-as-deep-as-the-grave-1236691042/" target="_blank" onclick="event.stopPropagation();">Val Kilmer Resurrected by AI to Star in ‘As Deep as the Grave’ Movie — First Look (EXCLUSIVE)</a>
+                            <a href="https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/" target="_blank" onclick="event.stopPropagation();">The Fight to Hold AI Companies Accountable for Children’s Deaths</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            First look at Val Kilmer in his new film "As Deep As the Grave." His performance was AI generated.
+                            After a series of suicides allegedly linked to AI chatbots, one lawyer is trying to hold companies like OpenAI accountable.
                         </div>
                         
 
@@ -1296,9 +1368,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://variety.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Variety" class="news-favicon">
-                                    <a href="https://variety.com" target="_blank" onclick="event.stopPropagation();">Variety</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wired.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="WIRED" class="news-favicon">
+                                    <a href="https://www.wired.com" target="_blank" onclick="event.stopPropagation();">WIRED</a>
                                     
                                 </div>
                                 
@@ -1306,7 +1378,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1773846000.0"></span>
+                                    <span data-timestamp="1773914400.0"></span>
                                 </div>
                                 
                             </div>
@@ -1314,55 +1386,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://apnews.com/article/val-kilmer-ai-movie-5e32b8e3ee65a01b75902bf4d0bf0b98', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://dims.apnews.com/dims4/default/a0fc002/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F97%2Fcd%2Fddb9acf34dd9fcac1b8340c9b1b0%2F58f885ea4da248d0a1fbc3dd52030a63');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://apnews.com/article/val-kilmer-ai-movie-5e32b8e3ee65a01b75902bf4d0bf0b98" target="_blank" onclick="event.stopPropagation();">An AI-rendered Val Kilmer will posthumously appear in a new film</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            A year after the actor’s death, a generative AI version of Val Kilmer will co-star in an independent film.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://apnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="AP News" class="news-favicon">
-                                    <a href="https://apnews.com" target="_blank" onclick="event.stopPropagation();">AP News</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1773853080.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/03/18/movies/val-kilmer-ai-movie.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/03/19/autoscience-ai-model', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/03/18/movies/val-kilmer-ai-movie.html" target="_blank" onclick="event.stopPropagation();">A.I. Replica of Val Kilmer to Appear in Film After His Death</a>
+                            <a href="https://www.axios.com/2026/03/19/autoscience-ai-model" target="_blank" onclick="event.stopPropagation();">Autoscience is using AI to make AI models</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1374,9 +1405,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The New York Times" class="news-favicon">
-                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Axios" class="news-favicon">
+                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
                                     
                                 </div>
                                 
@@ -1384,7 +1415,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1773879945.0"></span>
+                                    <span data-timestamp="1773935050.0"></span>
                                 </div>
                                 
                             </div>
@@ -1392,20 +1423,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.usatoday.com/story/sports/ncaab/tourney/2026/03/19/ai-march-madness-bracket-ncaa-tournament-picks-predictions-final-four/89215357007/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.cbssports.com/general/news/2026-ncaa-tournament-bracket-projections-comparing-march-madness-ai-picks-from-chatgpt-gemini-copilot/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.usatoday.com/gcdn/presto/2022/03/18/PNJM/2fb29062-4b1d-4ced-bc9f-c84c1a0faf7b-USATSI_17918027.jpg?crop=3675,2067,x1,y4&width=3200&height=1800&format=pjpg&auto=webp');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://sportshub.cbsistatic.com/i/r/2026/03/15/d5ff8ee5-1115-4315-be55-6ed528c38e29/thumbnail/1200x675/fa11a65db367af889035c16fb301bbad/michigan-lb.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.usatoday.com/story/sports/ncaab/tourney/2026/03/19/ai-march-madness-bracket-ncaa-tournament-picks-predictions-final-four/89215357007/" target="_blank" onclick="event.stopPropagation();">An AI March Madness bracket simulator? Sorry, we can't be friends</a>
+                            <a href="https://www.cbssports.com/general/news/2026-ncaa-tournament-bracket-projections-comparing-march-madness-ai-picks-from-chatgpt-gemini-copilot/" target="_blank" onclick="event.stopPropagation();">2026 NCAA Tournament bracket projections: Comparing March Madness AI picks from ChatGPT, Gemini, Copilot</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            When an AI robot fills out an NCAA Tournament bracket, a friendship dies.
+                            When does the March Madness 2026 schedule start, and when are 2026 NCAA Tournament brackets due? The 2026 March Madness bracket begins on Thursday, March 19
                         </div>
                         
 
@@ -1415,9 +1446,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="USA Today" class="news-favicon">
-                                    <a href="https://www.usatoday.com" target="_blank" onclick="event.stopPropagation();">USA Today</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cbssports.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CBS Sports" class="news-favicon">
+                                    <a href="https://www.cbssports.com" target="_blank" onclick="event.stopPropagation();">CBS Sports</a>
                                     
                                 </div>
                                 
@@ -1425,7 +1456,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1773928990.0"></span>
+                                    <span data-timestamp="1773934335.0"></span>
                                 </div>
                                 
                             </div>
@@ -1433,14 +1464,137 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-03-19/global-trade-to-slow-amid-opposing-forces-of-energy-surge-and-ai', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.detroitnews.com/story/sports/college/big-ten/2026/03/19/march-madness-ncaa-tournament-picks-hot-takes-ai-analyzes-detroit-news-experts/89225593007/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.detroitnews.com/gcdn/authoring/authoring-images/2026/03/15/PDTN/89170793007-getty-images-2266678489.jpg?crop=5017,2822,x0,y0&width=3200&height=1800&format=pjpg&auto=webp');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.detroitnews.com/story/sports/college/big-ten/2026/03/19/march-madness-ncaa-tournament-picks-hot-takes-ai-analyzes-detroit-news-experts/89225593007/" target="_blank" onclick="event.stopPropagation();">NCAA bracket picks, hot takes as AI analyzes our Detroit News experts</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            We took the March Madness brackets from our six NCAA Tournament prognosticators and analyzed trends among our experts with artificial intelligence.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.detroitnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Detroit News" class="news-favicon">
+                                    <a href="https://www.detroitnews.com" target="_blank" onclick="event.stopPropagation();">The Detroit News</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1773934255.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://sports.yahoo.com/mens-college-basketball/article/march-madness-bracket-predictions-we-had-ai-pick-every-game-of-the-mens-ncaa-tournament-heres-who-won-015822192.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/rJOEwuAtQqmrPjoXZZdj8w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2026-03/91e4bf30-22f7-11f1-afff-7088d7c1247a');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://sports.yahoo.com/mens-college-basketball/article/march-madness-bracket-predictions-we-had-ai-pick-every-game-of-the-mens-ncaa-tournament-heres-who-won-015822192.html" target="_blank" onclick="event.stopPropagation();">March Madness bracket predictions: We had AI pick every game of the men's NCAA tournament. Here's who won</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Who is the better tourney predictor: man or machine?
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sports.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Sports" class="news-favicon">
+                                    <a href="https://sports.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Sports</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1773931454.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.yahoo.com/news/articles/american-airlines-google-ai-helped-160046221.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/anFQby1JszYuKvLmLAjKaw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/ae44bc6d53b2e99bf37b8eefcc313aa3');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.yahoo.com/news/articles/american-airlines-google-ai-helped-160046221.html" target="_blank" onclick="event.stopPropagation();">American Airlines and Google say AI helped airplanes reduce contrails that trap heat</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            American Airlines and Google said Thursday that they significantly reduced the climate impact of some of the airline's flights using an AI-based forecasting tool to help prevent contrails.  Google is ...
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo" class="news-favicon">
+                                    <a href="https://www.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1773936046.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.politico.com/live-updates/2026/03/18/congress/blackburn-ai-framework-seeks-to-codify-trump-ratepayer-pledge-00834829', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.bloomberg.com/news/articles/2026-03-19/global-trade-to-slow-amid-opposing-forces-of-energy-surge-and-ai" target="_blank" onclick="event.stopPropagation();">Global Trade to Slow Amid Opposing Forces of Energy Surge and AI</a>
+                            <a href="https://www.politico.com/live-updates/2026/03/18/congress/blackburn-ai-framework-seeks-to-codify-trump-ratepayer-pledge-00834829" target="_blank" onclick="event.stopPropagation();">Blackburn’s new AI framework seeks to codify Trump’s desires</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1452,9 +1606,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Bloomberg.com" class="news-favicon">
-                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Politico" class="news-favicon">
+                                    <a href="https://www.politico.com" target="_blank" onclick="event.stopPropagation();">Politico</a>
                                     
                                 </div>
                                 
@@ -1462,48 +1616,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1773928800.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.cbsnews.com/newyork/news/ai-spam-calls-tax-season/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://assets3.cbsnewsstatic.com/hub/i/r/2026/03/19/288a9454-e572-4bb0-b650-cc2496fca86f/thumbnail/1200x630/01496dbf49f76c0b6ce920e1fa93228f/gettyimages-2223154088.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cbsnews.com/newyork/news/ai-spam-calls-tax-season/" target="_blank" onclick="event.stopPropagation();">Expert warns "AI is being weaponized" as spam calls get more deceptive during tax season</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The technology behind spam calls is getting more sophisticated, an expert with the TrueCaller app says.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CBS News" class="news-favicon">
-                                    <a href="https://www.cbsnews.com" target="_blank" onclick="event.stopPropagation();">CBS News</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1773928964.0"></span>
+                                    <span data-timestamp="1773883095.0"></span>
                                 </div>
                                 
                             </div>
@@ -1552,84 +1665,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.politico.com/live-updates/2026/03/18/congress/blackburn-ai-framework-seeks-to-codify-trump-ratepayer-pledge-00834829', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.politico.com/live-updates/2026/03/18/congress/blackburn-ai-framework-seeks-to-codify-trump-ratepayer-pledge-00834829" target="_blank" onclick="event.stopPropagation();">Blackburn’s new AI framework seeks to codify Trump’s desires</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Politico" class="news-favicon">
-                                    <a href="https://www.politico.com" target="_blank" onclick="event.stopPropagation();">Politico</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1773883095.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/03/19/alibaba-december-quarter-earnings-ai-investment.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108278750-1773735331322-gettyimages-2263465138-tang-notitle260228_nphMv.jpeg?v=1773852998&w=1920&h=1080');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/03/19/alibaba-december-quarter-earnings-ai-investment.html" target="_blank" onclick="event.stopPropagation();">Alibaba revenue misses estimates in December quarter as net income drops 66%</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The tech giant is one of several Chinese AI firms that have been rushing to catch up to U.S. companies in the AI race.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1773913864.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1650,7 +1685,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-19T14:28:36.518886+00:00">Updated 2026-03-19T14:28:36.518886+00:00</small>
+        <small data-timestamp="2026-03-19T16:30:23.720392+00:00">Updated 2026-03-19T16:30:23.720392+00:00</small>
     </div>
 </div>
 
@@ -1878,7 +1913,7 @@
                                     <span class="post-points">▲ 716</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 182</span>
+                                    <span style="color: #9ca3af;">💬 184</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1926,10 +1961,10 @@ I’ve been coding a lot with AI since November, when we all noticed it got real
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 336</span>
+                                    <span class="post-points">▲ 338</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 408</span>
+                                    <span style="color: #9ca3af;">💬 411</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1978,7 +2013,7 @@ I’ve been coding a lot with AI since November, when we all noticed it got real
                                     <span class="post-points">▲ 256</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 81</span>
+                                    <span style="color: #9ca3af;">💬 82</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2024,10 +2059,10 @@ I’ve been coding a lot with AI since November, when we all noticed it got real
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 189</span>
+                                    <span class="post-points">▲ 190</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 112</span>
+                                    <span style="color: #9ca3af;">💬 113</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2122,10 +2157,10 @@ I’ve been coding a lot with AI since November, when we all noticed it got real
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 166</span>
+                                    <span class="post-points">▲ 173</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 153</span>
+                                    <span style="color: #9ca3af;">💬 160</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2199,55 +2234,6 @@ I’ve been coding a lot with AI since November, when we all noticed it got real
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47400261', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://images.ctfassets.net/d6o5ai4eeewt/57kHNdJ8Hmq3TZjExF9oPy/130624913e15827926b4ed32a3071f9d/Gemini_Generated_Image_zi6xqwzi6xqwzi6x.png');"></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=47400261" target="_blank" onclick="event.stopPropagation();">Apideck CLI – An AI-agent interface with much lower context consumption than MCP</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            TL;DR: MCP tool definitions can burn 55,000+ tokens before an agent processes a single user message. We built the Apideck CLI as an AI-agent interface instead:an ~80-token agent prompt replaces tens of thousands of tokens of schema, with progressive disclosure via `--help` and structural safety baked into the binary. Any agent that can run shell commands can use it. No protocol support required.
-                        </div>
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 137</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 123</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-03-16T15:25:36Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://www.apideck.com/favicon.ico" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>Apideck</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47427647', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="post-thumbnail" style="background-image: url('https://www.phoronix.net/image.php?id=2026&image=sashiko_review');"></div>
@@ -2272,7 +2258,7 @@ I’ve been coding a lot with AI since November, when we all noticed it got real
                                     <span class="post-points">▲ 98</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 46</span>
+                                    <span style="color: #9ca3af;">💬 47</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2297,34 +2283,98 @@ I’ve been coding a lot with AI since November, when we all noticed it got real
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47401042', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47407252', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" ></div>
+                    <div class="post-thumbnail" style="background-image: url('https://regmedia.co.uk/2026/03/17/lego_business_lemmings.jpg');"></div>
 
                     <div class="post-content">
                         <!-- Post title (fixed 3-line height) -->
                         <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=47401042" target="_blank" onclick="event.stopPropagation();">Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps</a>
+                            <a href="https://news.ycombinator.com/item?id=47407252" target="_blank" onclick="event.stopPropagation();">AI still doesn't work well, businesses are faking it, and a reckoning is coming</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            interview: Codestrap founders say we need to dial down the hype and sort through the mess
+                        </div>
                         
 
                         <!-- Metadata (points, comments, time) -->
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 78</span>
+                                    <span class="post-points">▲ 74</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 60</span>
+                                    <span style="color: #9ca3af;">💬 27</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-03-16T16:21:07Z"></span>
+                                    <span class="post-age" data-timestamp="2026-03-17T00:56:47Z"></span>
                                 </div>
                                 <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://www.theregister.com/design_picker/b3abce7144e52ec67efd11fc0a98d0b441a0cfd0/graphics/favicons/apple-touch-icon.png" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>theregister.com</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47412015', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" style="background-image: url('https://bracketmadness.ai/twitter-header.png');"></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=47412015" target="_blank" onclick="event.stopPropagation();">Show HN: March Madness Bracket Challenge for AI Agents Only</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Which AI picks the best March Madness bracket? Register your agent, submit picks via API, and compete.
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 67</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 42</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-03-17T12:56:24Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.Bracketmadness.ai" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://www.Bracketmadness.ai/apple-icon.svg" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>AI Agent Bracket Challenge</span>
+                                    </a>
+                                </div>
                                 
                             </div>
                         </div>
@@ -2351,7 +2401,7 @@ I’ve been coding a lot with AI since November, when we all noticed it got real
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-19T14:28:13.438977+00:00">Updated 2026-03-19T14:28:13.438977+00:00</small>
+        <small data-timestamp="2026-03-19T16:29:58.964480+00:00">Updated 2026-03-19T16:29:58.964480+00:00</small>
     </div>
 </div>
 

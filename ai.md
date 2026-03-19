@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-19T15:24:46.131325+00:00'
+updated: '2026-03-19T16:30:25.045702+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 19, 2026 at 15:24 UTC  
+**Last Updated:** March 19, 2026 at 16:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,35 +37,43 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[I asked claude to make a video about what it's like to be an LLM](https://www.reddit.com/r/artificial/comments/1rxqr9p/i_asked_claude_to_make_a_video_about_what_its/)**
-
-Full prompt I gave to Claude Opus 4.6: can you use whatever resources you like, and python, to generate a short 'youtube poop' video and render it using ffmpeg ? can you put more of a personal spin on it? it should express what it's like to be a LLM Warning: Flashing Visuals (epilepsy)
-
-10h ago
-
----
-
 **[Most AI tools are built for developers. Here's what happens when regular people try to use AI agents.](https://www.reddit.com/r/artificial/comments/1rxuu18/most_ai_tools_are_built_for_developers_heres_what/)**
 
 I work on AI agents. Not the "here's a ChatGPT wrapper" kind — actual autonomous agents that do tasks on behalf of small businesses. The thing nobody talks about: there's a massive gap between what AI agents can do and who can actually use them. A developer can set up an agent, connect APIs, handle auth, debug when something breaks. A restaurant owner who wants AI to handle their booking confirmations? They can't. Not because the tech isn't there — but because every solution assumes you know what an API key is. This is the gap that matters. The people who would benefit most from AI automation are the people least equipped to set it up. And "just make it simpler" isn't the answer — it's a different product entirely. You need: • Managed infrastructure (they shouldn't know what a server is) • Guardrails that actually work (the agent can't go rogue with their Twilio account) • Failure modes a non-technical person can understand and fix • Trust signals that don't require reading logs We've been learning this the hard way. The tech works. The packaging for real humans is the actual product. For anyone building in this space — what's your experience? Are your users technical, and if not, where do they get stuck?
 
-6h ago
+8h ago
 
 ---
 
-**[Agent-to-agent B2B transactions raise a question nobody has a clean answer to: who is the customer?](https://www.reddit.com/r/artificial/comments/1rxs6s4/agenttoagent_b2b_transactions_raise_a_question/)**
+**[What if your AI could say "I'm not sure, but I can guess if you want"?](https://www.reddit.com/r/artificial/comments/1ry2kvr/what_if_your_ai_could_say_im_not_sure_but_i_can/)**
 
-Bear with me on this one because I think it's genuinely unsettled. If a buyer's AI agent researches vendors, evaluates options, makes contact, negotiates terms, and returns a recommendation, but a human ultimately signs the contract... who was the customer during all those steps? It matters more than it sounds. If the customer is the human, then the agent is just a tool and you optimize for what the human ultimately cares about. But the human never experienced any of that journey. They just got a shortlist. If the customer is the agent, then you need to think about what makes a company legible to a machine. Not persuasive to a human. Legible to a machine. Clear structure, accurate data, no ambiguity, no spin. The marketing playbook was built for human psychology. Urgency. Social proof. Emotional resonance. None of that works on an agent. An agent doesn't feel FOMO. It doesn't respond to a testimonial from a brand it recognizes. It reads what's there and forms a structured view. I don't think there's a clean answer yet. But the companies treating agents as just another distribution channel for human-optimized content are going to run into a wall. would love to hear whether anyone has thought through this more formally.
+Most AI memory systems have the same problem: they always answer, even when they have nothing useful to say. Ask about something that was never mentioned and instead of "I don't know," you get a confident wrong answer built from the closest random match in the vector store. I've been thinking about this a lot while working on a memory layer for LLM agents. The core issue is that vector similarity search always returns results. There's no "nothing found" state. So the AI treats whatever comes back as real context and builds a confident sounding answer on top of garbage. What if memory systems had confidence levels? Like, before feeding context to the LLM, you check: is this actually relevant or just the least irrelevant thing in the database? And then you give the AI different instructions based on that: - High confidence: answer normally - Low confidence: "I'm not sure about this, but here's what I found" - No confidence: just say "I don't have that information" Feels like this should be table stakes but most systems skip it entirely. They optimize for retrieval speed and accuracy but nobody asks "what happens when the retrieval has nothing good to return?" The other interesting piece is user frustration. When someone says "I told you this already" that's actually useful signal. It means the system forgot something it shouldn't have, and you can use that feedback to boost the importance of whatever they're reminding you about. How do you think AI should handle not knowing something? Always try to answer, or is "I don't know" actually the better response sometimes?
 
-9h ago
+1h ago
 
 ---
 
-**[This](https://www.reddit.com/r/artificial/comments/1rxwed3/this/)**
+**[How AI deep learning is helping scientists protect California's coastal ecosystems](https://www.reddit.com/r/artificial/comments/1ry3gzf/how_ai_deep_learning_is_helping_scientists/)**
 
-I really see how many people don't understand ai is not here to replace but to be used as a tool. The question is by who.
+Researchers at UCLA's Institute of the Environment and Sustainability have developed the most high-resolution statewide maps of California's kelp forests to date, giving researchers, conservationists and community members unprecedented access to information essential to maintaining coastal ecosystems and the communities they support. By applying AI deep learning to Planet's Dove satellite constellation, the team has created a map 10 times more detailed than previous standard satellite records, offering a more precise way to monitor the condition of kelp along the California coastline and the success of conservation efforts. "Refined spatial resolution of kelp canopy monitoring has become increasingly important for assessing the efficacy of experimental restoration techniques and managing kelp harvest, particularly in areas where persisting kelp is sparse," said Dr. Kristen Elsmore, senior scientist with California Department of Fish and Wildlife, the state's primary agency responsible for managing California's kelp forest resources. Recent declines in kelp abundance have threatened the foundation of California's coastal ecosystems and economy. California's kelp forests support thriving fisheries, protect marine biodiversity and attract significant revenue through recreational snorkeling and scuba diving. They also play a crucial role in sustainability by contributing to nutrient cycling and carbon sequestration. This project represents a massive leap in conservation technology. While existing methods provide valuable long-term records, their 30-meter resolution can miss fine-scale patterns. When analyzing data from the new high-resolution map, the researchers found striking regional variability in kelp persistence following the 2014–2016 marine heat wave, one of the most severe warming events ever recorded along the U.S. West Coast. Kelp forests in Sonoma and Mendocino counties suffered losses of greater than 90% and remain at historically low levels ... "These high-resolution data can also be used to track small-scale restoration, helping guide management and support kelp forest resilience," lead author Kate Cavanaugh said. By identifying exactly where kelp is struggling or thriving based on local factors like ocean temperature and depth, conservationists can now implement an expanded suite of strategies within the state's Kelp Restoration and Management Plan.
 
-5h ago
+🔗 [phys.org](https://phys.org/news/2026-03-ai-deep-scientists-california-coastal.html) • 1h ago
+
+---
+
+**[Generative AI improves a wireless vision system that sees through obstructions](https://www.reddit.com/r/artificial/comments/1ry2qv3/generative_ai_improves_a_wireless_vision_system/)**
+
+MIT researchers have spent more than a decade studying techniques that enable robots to find and manipulate hidden objects by "seeing" through obstacles. Their methods utilize surface-penetrating wireless signals that reflect off concealed items. Now, the researchers are leveraging generative artificial intelligence models to overcome a longstanding bottleneck that limited the precision of prior approaches. The result is a new method that produces more accurate shape reconstructions, which could improve a robot's ability to reliably grasp and manipulate objects that are blocked from view. This new technique builds a partial reconstruction of a hidden object from reflected wireless signals and fills in the missing parts of its shape using a specially trained generative AI model. The researchers also introduced an expanded system that uses generative AI to accurately reconstruct an entire room, including all the furniture. The system utilizes wireless signals sent from one stationary radar, which reflect off humans moving in the space. This overcomes one key challenge of many existing methods, which require a wireless sensor to be mounted on a mobile robot to scan the environment. And unlike some popular camera-based techniques, their method preserves the privacy of people in the environment. These innovations could enable warehouse robots to verify packed items before shipping, eliminating waste from product returns. They could also allow smart home robots to understand someone's location in a room, improving the safety and efficiency of human-robot interaction. "What we've done now is develop generative AI models that help us understand wireless reflections. This opens up a lot of interesting new applications, but technically it is also a qualitative leap in capabilities, from being able to fill in gaps we were not able to see before to being able to interpret reflections and reconstruct entire scenes," says Fadel Adib, associate professor in the Department of Electrical Engineering and Computer Science, director of the Signal Kinetics group in the MIT Media Lab, and senior author of two papers on these techniques. "We are using AI to finally unlock wireless vision."
+
+🔗 [techxplore.com](https://techxplore.com/news/2026-03-generative-ai-wireless-vision-obstructions.html) • 1h ago
+
+---
+
+**[How a prompt injection revealed that half of PRs are bots](https://www.reddit.com/r/artificial/comments/1ry4s7c/how_a_prompt_injection_revealed_that_half_of_prs/)**
+
+How a hidden prompt injection in CONTRIBUTING.md revealed that 40% of pull requests to a popular GitHub repository were generated by AI bots
+
+🔗 [Glama – MCP Hosting Platform](https://glama.ai/blog/2026-03-19-open-source-has-a-bot-problem) • 14m ago
 
 ---
 
@@ -73,15 +81,15 @@ I really see how many people don't understand ai is not here to replace but to b
 
 This paper critiques the limitations of current AI and introduces a new learning model inspired by biological brains. The authors propose a framework that combines two key methods: System A, which learns by watching, and System B, which learns by doing. To manage these, they include System M, a control unit that decides which learning style to use based on the situation. By mimicking how animals and humans adapt to the real world over time, the authors aim to create AI that can learn more independently.
 
-🔗 [arXiv.org](https://arxiv.org/abs/2603.15381) • 12h ago
+🔗 [arXiv.org](https://arxiv.org/abs/2603.15381) • 13h ago
 
 ---
 
-**[AI to make Clips from long videos](https://www.reddit.com/r/artificial/comments/1ry1odf/ai_to_make_clips_from_long_videos/)**
+**[Using AI to improve standard-of-care cardiac imaging](https://www.reddit.com/r/artificial/comments/1ry3egw/using_ai_to_improve_standardofcare_cardiac_imaging/)**
 
-just launched TyshaClip on Product Hunt today, that’s is a website to make Clips from long videos and find viral moments in your videos automatically. Built it solo in 4 months. Would love your feedback! https://www.producthunt.com/posts/tyshaclip Or if you want go directly to the website https://www.tyshaclip.com I would like feedback of creators, thank
+Heart disease is the leading cause of adult death worldwide, making cardiovascular disease diagnosis and management a global health priority. An echocardiogram, or cardiac ultrasound, is one of the most commonly used imaging tools employed by physicians to diagnose a variety of heart diseases and conditions. Most standard echocardiograms provide two-dimensional visual images (2D) of the three-dimensional (3D) cardiac anatomy. These echocardiograms often capture hundreds of 2D slices or views of a beating heart that can enable physicians to make clinical assessments about the function and structure of the heart. To improve diagnostic accuracy of cardiac conditions, researchers from UC San Francisco set out to determine whether deep neural networks (DNNs), a type of AI algorithm, could be re-designed to better capture complex 3D anatomy and physiology from multiple imaging views simultaneously. They developed a new "multiview" DNN structure—or architecture—to enable it to draw information from multiple imaging views at once, rather than the current approach of using only a single view. They then trained demonstration DNNs using this architecture to detect disease states for three cardiovascular conditions: left and right ventricular abnormalities, diastolic dysfunction, and valvular regurgitation. In a study published March 17 in Nature Cardiovascular Research, the researchers compared the performance of DNNs that analyzed data from either single view or multiple views of the echocardiograms from UCSF and the Montreal Heart Institute. They found that DNNs trained on multiple views improved diagnostic accuracy compared to DNNs trained on any single view, demonstrating that AI models combining information from multiple imaging views simultaneously better captured the disease state of these heart conditions. "Until now, AI has primarily been used to analyze one 2D view at a time—from either images or videos—which limits an AI algorithm's ability to learn disease-relevant information between views," said senior study author Geoffrey Tison, MD, MPH, a cardiologist and co-director of the UCSF Center for Biosignal Research. "DNN architectures that can integrate information across multiple high-resolution views represent a significant step toward maximizing AI performance in medical imaging. In the case of echocardiography, most diagnoses necessitate considering information from more than one view because the information from any single view tells only part of the story."
 
-🔗 [Product Hunt](https://www.producthunt.com/posts/tyshaclip) • 1h ago
+🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-standard-cardiac-imaging.html) • 1h ago
 
 ---
 
@@ -89,23 +97,7 @@ just launched TyshaClip on Product Hunt today, that’s is a website to make Cli
 
 Solution to AI Agent Prompt Injection, Hijacking attacks and Info Leaks: AI agents can be hijacked mid-task through the content they process. Every existing defense operates at the reasoning layer and can be bypassed. Sentinel enforces at the execution layer, structurally, not probabilistically. The agent cannot act outside its authorized boundary regardless of what it's told. Loom link contains a short video that introduces Sentinel Gateway UI and how system operates based on 3-4 different prompt injection attempts and agent response. Sentinel eliminates any and all security risk associated with regard to AgenticAI. #AIAgent #AgenticAI #AISecurity #CyberSecurity #PromptInjection
 
-🔗 [Loom](https://www.loom.com/share/887679aa59c34a4e9109baafa353eecd) • 7h ago
-
----
-
-**[Val Kilmer in 'As Deep As the Grave, His Performance was AI Generated | Variety](https://www.reddit.com/r/artificial/comments/1rxz6li/val_kilmer_in_as_deep_as_the_grave_his/)**
-
-Iran strikes Qatar's Ras Laffan plant. Gas prices soar. FBI buys data to track movements. The Justice Department uses NSPM7 to prosecute Antifa protesters as domestic terrorists. The FBI and IRS launch an initiative to investigate nonprofit groups for terrorism links.  Bank of America predicts 3 bil
-
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/ai-val-kilmer#story-val-kilmer-in-as-deep-as-the-grave-his-performance) • 2h ago
-
----
-
-**[Robot dogs priced at $300,000 a piece are now guarding some of the country’s biggest data centers](https://www.reddit.com/r/artificial/comments/1rx8q9x/robot_dogs_priced_at_300000_a_piece_are_now/)**
-
-AI companies are turning to quadruped robots, better known as “robot dogs” for security solutions to protect their vast data centers.
-
-🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 22h ago
+🔗 [Loom](https://www.loom.com/share/887679aa59c34a4e9109baafa353eecd) • 9h ago
 
 ---
 
@@ -117,57 +109,81 @@ Last week's post about Meta buying Moltbook got a lot of discussion here. I thin
 
 ---
 
+**[Robot dogs priced at $300,000 a piece are now guarding some of the country’s biggest data centers](https://www.reddit.com/r/artificial/comments/1rx8q9x/robot_dogs_priced_at_300000_a_piece_are_now/)**
+
+AI companies are turning to quadruped robots, better known as “robot dogs” for security solutions to protect their vast data centers.
+
+🔗 [Fortune](https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/) • 23h ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
-**[Sorry, Mom. You’re Chatting With an A.I. Agent, Not Your Son.](https://www.nytimes.com/2026/03/19/business/ai-agents-anxiety-openclaw.html)**
+**[Government backtracks on AI and copyright after outcry from major artists](https://www.bbc.com/news/articles/cvg1gr5v333o)**
 
-The New York Times • 6h ago
+However, the government's position is now unclear, saying it "no longer has a preferred option" for what to do next.
 
----
-
-**[Val Kilmer Resurrected by AI to Star in ‘As Deep as the Grave’ Movie — First Look (EXCLUSIVE)](https://variety.com/2026/film/news/val-kilmer-ai-film-as-deep-as-the-grave-1236691042/)**
-
-First look at Val Kilmer in his new film "As Deep As the Grave." His performance was AI generated.
-
-Variety • 1d ago
+BBC • 1d ago
 
 ---
 
-**[An AI-rendered Val Kilmer will posthumously appear in a new film](https://apnews.com/article/val-kilmer-ai-movie-5e32b8e3ee65a01b75902bf4d0bf0b98)**
+**[A.I. Is Coming for the Sommeliers](https://www.nytimes.com/2026/03/19/dining/drinks/ai-wine-sommelier.html)**
 
-A year after the actor’s death, a generative AI version of Val Kilmer will co-star in an independent film.
-
-AP News • 22h ago
+The New York Times • 7h ago
 
 ---
 
-**[A.I. Replica of Val Kilmer to Appear in Film After His Death](https://www.nytimes.com/2026/03/18/movies/val-kilmer-ai-movie.html)**
+**[The Fight to Hold AI Companies Accountable for Children’s Deaths](https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/)**
 
-The New York Times • 14h ago
+After a series of suicides allegedly linked to AI chatbots, one lawyer is trying to hold companies like OpenAI accountable.
 
----
-
-**[An AI March Madness bracket simulator? Sorry, we can't be friends](https://www.usatoday.com/story/sports/ncaab/tourney/2026/03/19/ai-march-madness-bracket-ncaa-tournament-picks-predictions-final-four/89215357007/)**
-
-When an AI robot fills out an NCAA Tournament bracket, a friendship dies.
-
-USA Today • 1h ago
+WIRED • 6h ago
 
 ---
 
-**[Global Trade to Slow Amid Opposing Forces of Energy Surge and AI](https://www.bloomberg.com/news/articles/2026-03-19/global-trade-to-slow-amid-opposing-forces-of-energy-surge-and-ai)**
+**[Autoscience is using AI to make AI models](https://www.axios.com/2026/03/19/autoscience-ai-model)**
 
-Bloomberg.com • 1h ago
+Axios • 46m ago
 
 ---
 
-**[Expert warns "AI is being weaponized" as spam calls get more deceptive during tax season](https://www.cbsnews.com/newyork/news/ai-spam-calls-tax-season/)**
+**[2026 NCAA Tournament bracket projections: Comparing March Madness AI picks from ChatGPT, Gemini, Copilot](https://www.cbssports.com/general/news/2026-ncaa-tournament-bracket-projections-comparing-march-madness-ai-picks-from-chatgpt-gemini-copilot/)**
 
-The technology behind spam calls is getting more sophisticated, an expert with the TrueCaller app says.
+When does the March Madness 2026 schedule start, and when are 2026 NCAA Tournament brackets due? The 2026 March Madness bracket begins on Thursday, March 19
 
-CBS News • 1h ago
+CBS Sports • 58m ago
+
+---
+
+**[NCAA bracket picks, hot takes as AI analyzes our Detroit News experts](https://www.detroitnews.com/story/sports/college/big-ten/2026/03/19/march-madness-ncaa-tournament-picks-hot-takes-ai-analyzes-detroit-news-experts/89225593007/)**
+
+We took the March Madness brackets from our six NCAA Tournament prognosticators and analyzed trends among our experts with artificial intelligence.
+
+The Detroit News • 59m ago
+
+---
+
+**[March Madness bracket predictions: We had AI pick every game of the men's NCAA tournament. Here's who won](https://sports.yahoo.com/mens-college-basketball/article/march-madness-bracket-predictions-we-had-ai-pick-every-game-of-the-mens-ncaa-tournament-heres-who-won-015822192.html)**
+
+Who is the better tourney predictor: man or machine?
+
+Yahoo Sports • 1h ago
+
+---
+
+**[American Airlines and Google say AI helped airplanes reduce contrails that trap heat](https://www.yahoo.com/news/articles/american-airlines-google-ai-helped-160046221.html)**
+
+American Airlines and Google said Thursday that they significantly reduced the climate impact of some of the airline's flights using an AI-based forecasting tool to help prevent contrails.  Google is ...
+
+Yahoo • 29m ago
+
+---
+
+**[Blackburn’s new AI framework seeks to codify Trump’s desires](https://www.politico.com/live-updates/2026/03/18/congress/blackburn-ai-framework-seeks-to-codify-trump-ratepayer-pledge-00834829)**
+
+Politico • 15h ago
 
 ---
 
@@ -175,21 +191,7 @@ CBS News • 1h ago
 
 Stitch is evolving into an AI-native platform that allows anyone to create, iterate, and collaborate on high-fidelity UI.
 
-blog.google • 21h ago
-
----
-
-**[Blackburn’s new AI framework seeks to codify Trump’s desires](https://www.politico.com/live-updates/2026/03/18/congress/blackburn-ai-framework-seeks-to-codify-trump-ratepayer-pledge-00834829)**
-
-Politico • 14h ago
-
----
-
-**[Alibaba revenue misses estimates in December quarter as net income drops 66%](https://www.cnbc.com/2026/03/19/alibaba-december-quarter-earnings-ai-investment.html)**
-
-The tech giant is one of several Chinese AI firms that have been rushing to catch up to U.S. companies in the AI race.
-
-CNBC • 5h ago
+blog.google • 22h ago
 
 ---
 
@@ -201,7 +203,7 @@ CNBC • 5h ago
 
 Today, we’re introducing Forge, a system that allows enterprises to build frontier-grade AI models grounded in their proprietary knowledge.
 
-⬆️ 716 • 💬 182 • 1d ago • [mistral.ai](https://mistral.ai/news/forge)
+⬆️ 716 • 💬 184 • 1d ago • [mistral.ai](https://mistral.ai/news/forge)
 
 ---
 
@@ -211,7 +213,7 @@ GambleAI
 
 I’ve been coding a lot with AI since November, when we all noticed it got really good. And it is quite good for instantly generating something th...
 
-⬆️ 336 • 💬 408 • 22h ago • [VS Notes](https://notes.visaint.space/ai-coding-is-gambling/)
+⬆️ 338 • 💬 411 • 23h ago • [VS Notes](https://notes.visaint.space/ai-coding-is-gambling/)
 
 ---
 
@@ -219,7 +221,7 @@ I’ve been coding a lot with AI since November, when we all noticed it got real
 
 A vulnerability in the Snowflake Cortex Code CLI allowed malware to be installed and executed via indirect prompt injection, bypassing human-in-the-loop command approval and escaping the sandbox.
 
-⬆️ 256 • 💬 81 • 23h ago • [promptarmor.com](https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware)
+⬆️ 256 • 💬 82 • 1d ago • [promptarmor.com](https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware)
 
 ---
 
@@ -227,7 +229,7 @@ A vulnerability in the Snowflake Cortex Code CLI allowed malware to be installed
 
 We critically examine the limitations of current AI models in achieving autonomous learning and propose a learning architecture inspired by human and animal cognition. The proposed framework integrates learning from observation (System A) and learning from active behavior (System B) while flexibly switching between these learning modes as a function of internally generated meta-control signals (System M). We discuss how this could be built by taking inspiration on how organisms adapt to real-world, dynamic environments across evolutionary and developmental timescales.
 
-⬆️ 189 • 💬 112 • 1d ago • [arXiv.org](https://arxiv.org/abs/2603.15381)
+⬆️ 190 • 💬 113 • 1d ago • [arXiv.org](https://arxiv.org/abs/2603.15381)
 
 ---
 
@@ -243,7 +245,7 @@ NVIDIA today launched the NVIDIA Vera CPU, the world’s first processor purpose
 
 Last December, tens of thousands of Claude users around the world had a conversation with our AI interviewer to share how they use AI, what they dream it could make possible, and what they fear it might do.
 
-⬆️ 166 • 💬 153 • 10h ago • [anthropic.com](https://www.anthropic.com/features/81k-interviews)
+⬆️ 173 • 💬 160 • 11h ago • [anthropic.com](https://www.anthropic.com/features/81k-interviews)
 
 ---
 
@@ -255,25 +257,27 @@ Large language models (LLMs) have demonstrated the promise to revolutionize the 
 
 ---
 
-**[Apideck CLI – An AI-agent interface with much lower context consumption than MCP](https://news.ycombinator.com/item?id=47400261)**
-
-TL;DR: MCP tool definitions can burn 55,000+ tokens before an agent processes a single user message. We built the Apideck CLI as an AI-agent interface instead:an ~80-token agent prompt replaces tens of thousands of tokens of schema, with progressive disclosure via `--help` and structural safety baked into the binary. Any agent that can run shell commands can use it. No protocol support required.
-
-⬆️ 137 • 💬 123 • 2d ago • [Apideck](https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative)
-
----
-
 **[Google Engineers Launch "Sashiko" for Agentic AI Code Review of the Linux Kernel](https://news.ycombinator.com/item?id=47427647)**
 
 Google engineers have been spending the past number of months developing Sashiko as an agentic AI code review system for the Linux kernel
 
-⬆️ 98 • 💬 46 • 23h ago • [phoronix.com](https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review)
+⬆️ 98 • 💬 47 • 1d ago • [phoronix.com](https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review)
 
 ---
 
-**[Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps](https://news.ycombinator.com/item?id=47401042)**
+**[AI still doesn't work well, businesses are faking it, and a reckoning is coming](https://news.ycombinator.com/item?id=47407252)**
 
-⬆️ 78 • 💬 60 • 2d ago
+interview: Codestrap founders say we need to dial down the hype and sort through the mess
+
+⬆️ 74 • 💬 27 • 2d ago • [theregister.com](https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/)
+
+---
+
+**[Show HN: March Madness Bracket Challenge for AI Agents Only](https://news.ycombinator.com/item?id=47412015)**
+
+Which AI picks the best March Madness bracket? Register your agent, submit picks via API, and compete.
+
+⬆️ 67 • 💬 42 • 2d ago • [AI Agent Bracket Challenge](https://www.Bracketmadness.ai)
 
 ---
 
@@ -297,7 +301,7 @@ Grok AI has stopped free video generation — but don't worry, I'll show you bet
 
 📺 Josephs AI
 
-👁️ 10K • 👍 585 • 💬 220 • ⏱️ 4:06 • 6h ago
+👁️ 10K • 👍 585 • 💬 220 • ⏱️ 4:06 • 7h ago
 
 ---
 
@@ -317,7 +321,7 @@ What if the biggest AI breakthroughs are happening right now—but most people h
 
 📺 AI Uncovered
 
-👁️ 1K • 👍 72 • 💬 7 • ⏱️ 13:47 • 4h ago
+👁️ 1K • 👍 72 • 💬 7 • ⏱️ 13:47 • 5h ago
 
 ---
 
@@ -347,7 +351,7 @@ If they don't come up with something that does impress, there is definitely goin
 
 📺 The Tech Report
 
-👁️ 38K • 👍 998 • 💬 392 • ⏱️ 26:23 • 21h ago
+👁️ 38K • 👍 998 • 💬 392 • ⏱️ 26:23 • 22h ago
 
 ---
 
@@ -417,7 +421,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 9,905 • ❤️ 640 • 7d ago
+⬇️ 9,905 • ❤️ 640 • 8d ago
 
 ---
 
@@ -477,7 +481,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 704 • ❤️ 221 • 5h ago
+⬇️ 704 • ❤️ 221 • 6h ago
 
 ---
 
@@ -664,7 +668,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 21.6k • 🔱 1.0k • 18h ago
+⭐ 21.6k • 🔱 1.0k • 19h ago
 
 ---
 
@@ -674,7 +678,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.7k • 🔱 1.6k • 33m ago
+⭐ 12.7k • 🔱 1.6k • 1h ago
 
 ---
 
@@ -694,7 +698,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.0k • 🔱 723 • 8h ago
+⭐ 10.0k • 🔱 723 • 9h ago
 
 ---
 
@@ -704,7 +708,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 8.8k • 🔱 431 • 1h ago
+⭐ 8.8k • 🔱 431 • 2h ago
 
 ---
 
@@ -714,7 +718,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 5.0k • 🔱 694 • 13m ago
+⭐ 5.0k • 🔱 694 • 1h ago
 
 ---
 
@@ -724,7 +728,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `agent` `ai` `coding` `lowcode` `nocode`
 
-⭐ 4.3k • 🔱 360 • 1d ago
+⭐ 4.3k • 🔱 360 • 2d ago
 
 ---
 
@@ -734,7 +738,7 @@ Open-source database of 700+ cybersecurity skills for AI agents and security pra
 
 `Python` `agent-skills` `ai-agents` `blue-team` `claude` `claude-code`
 
-⭐ 3.5k • 🔱 339 • 2h ago
+⭐ 3.5k • 🔱 339 • 3h ago
 
 ---
 
