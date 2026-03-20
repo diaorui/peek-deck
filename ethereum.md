@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-20T11:32:59.746057+00:00'
+updated: '2026-03-20T13:02:23.545352+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 20, 2026 at 11:32 UTC  
+**Last Updated:** March 20, 2026 at 13:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,168.43
+### $2,137.84
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +0.8%  
-**7d:** +2.6%  
-**30d:** +10.4%  
-**90d:** -28.3%  
-**1y:** +9.5%  
+**7d:** +2.0%  
+**30d:** +9.8%  
+**90d:** -28.7%  
+**1y:** +8.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $259.16B
+**Market Cap:** $258.26B
 Rank #2
 
 **Circulating Supply:** 120,691,772 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.6%
+-56.7%
 
 **All-Time Low:** $0.43
-+495563.8%
++494344.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everybody, I've been building a no code visual smart contract builder for solidity to help non-developers realize their ideas without having to learn solidity. While doing that, as a dog food experiment, I created a block explorer which uses the visualizations against verified contracts so I could test better. At some point I realized that would make a pretty cool tool for a lot of people since I'm able to surface things that most block explorers don't: being able to replay a transaction and follow what's happening on the visual graph displaying various attributes about a contract like whether it's pausible, has only owner functions, etc showing debug info about every step that happened in the contract There's probably a lot more that I could do there and I'm looking to source ideas from the community about what should be added. It'd be great if y'all could take a look and see if there's anything obvious that I'm missing https://doodledapp.com/explorer Thanks!
 
-12h ago
+14h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Seen some past posts that people had lost their wallets and this might help those people! If you created a wallet with CoinSpace (now Coin Wallet) around early 2021 and your seed phrase generates a completely different address in MetaMask or any standard tool... you're not crazy. The software had a bug. CoinSpace v3.0.7 (and maybe other versions) incorrectly derived wallet addresses from your seed phrase due to two compounding errors in the code. Your seed phrase can be recovered - but not using it directly. the app just used a broken algorithm to turn it into an address, one that no standard wallet tool replicates. CoinWallet is aware of part of the issue and will point you to a derivation path fix if you report it, but that fix alone doesn't work. The recovery script in the repo handles it correctly. I hit this when I needed to recover 1.55 ETH from a wallet I created in Feb 2021. After weeks of forensics I found the bug and wrote a recovery script. Recovery script: https://github.com/RobMulla/coinspace-eth-recovery Full long writeup about my journey: https://robmulla.substack.com/p/how-my-sons-roblox-mod-helped-me If you're affected, and this works for you please let me know! Or if you knew about this already... I'm curious to know if I'm not the only one.
 
-20h ago
+21h ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Amundi launched the $100 million Spiko Amundi Overnight Swap Fund on Ethereum and Stellar with Chainlink support.
 
-The Block • 20h ago
+The Block • 22h ago
 
 ---
 
@@ -164,19 +164,35 @@ Decrypt • 1d ago
 
 ---
 
+**[Current price of Ethereum for March 20, 2026](https://fortune.com/article/price-of-ethereum-03-20-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 11m ago
+
+---
+
+**[Ethereum Price Bottom Has Hit, Tom Lee Claims Again — Three Reasons He Says It's Heading Higher](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-bottom-hit-tom-114323876.html)**
+
+Ethereum bottom call backed by multiple signals, says Tom Lee. Strong upside narrative remains. Credibility tempered by past miss. Ethereum's price is once again at ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Pundit Who Predicted Ethereum Price Bottom Reveals What To Expect Next](https://www.tradingview.com/news/newsbtc:8c05f124b094b:0-pundit-who-predicted-ethereum-price-bottom-reveals-what-to-expect-next/)**
+
+A recent rebound in the Ethereum price has brought renewed focus to an analyst who accurately identified its local bottom. With price now recovering sharply from that region, the same market watcher has outlined the next key levels that could determine Ethereum’s direction in the coming weeks.Ether…
+
+TradingView • 20h ago
+
+---
+
 **[Will Ethereum Ever Hit $5,000?](https://www.fool.com/investing/2026/03/20/will-ethereum-ever-hit-5000/)**
 
 Ethereum hit a new record high in 2025, but it still fell short of the $5,000 milestone.
 
-The Motley Fool • 8m ago
-
----
-
-**[XRP vs Bitcoin vs Ethereum: ChatGPT Predicts Which Crypto Is Best for 2026](https://finance.yahoo.com/markets/crypto/articles/xrp-vs-bitcoin-vs-ethereum-132035939.html)**
-
-Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and XRP (CRYPTO: XRP) have all crashed between 40% and 60% from their 2025 highs. As the entire market gears towards a recovery, investors want to know which of Bitcoin, XRP, or Ethereum is the best crypto to invest in this year? To keep things fair, we asked ChatGPT ... XRP vs Bitcoin vs Ethereum: ChatGPT Predicts Which Crypto Is Best for 2026
-
-Yahoo Finance • 22h ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -184,15 +200,13 @@ Yahoo Finance • 22h ago
 
 “Ethereum, to me, is really gonna be where Wall Street meets crypto,” a source told NYNext.
 
-New York Post • 1h ago
+New York Post • 2h ago
 
 ---
 
-**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1774002600)**
+**[BitMine Stock Drops 8% as Ethereum Pullback, High Costs, and Hawkish Fed Weigh on Investors](https://www.tipranks.com/news/bitmine-stock-drops-8-as-ethereum-pullback-high-costs-and-hawkish-fed-weigh-on-investors)**
 
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 1d ago
+TipRanks • 1d ago
 
 ---
 
@@ -200,23 +214,7 @@ Polymarket • 1d ago
 
 Ethereum has slipped into a valuation range that some on-chain analysts associate with major long-term bottoms, after ETH fell below its realized price for the first time in two years. Via X, renowned crypto analyst Ali Martinez argued on Thursday the setup now resembles prior cycle lows.Ethereum D…
 
-TradingView • 7h ago
-
----
-
-**[Crypto News Today: Remittix Presale Approaches $30M Raised Boosting Ethereum Price Predictions](https://markets.businessinsider.com/news/stocks/crypto-news-today-remittix-presale-approaches-30m-raised-boosting-ethereum-price-predictions-1035946747)**
-
-MAJURO, Marshall Islands, March  19, 2026  (GLOBE NEWSWIRE) -- Remittix has raised $29.7 million in its final presale stage with $30 million withi...
-
-markets.businessinsider.com • 17h ago
-
----
-
-**[Current price of Ethereum for March 19, 2026](https://fortune.com/article/price-of-ethereum-03-19-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 20h ago
+TradingView • 9h ago
 
 ---
 
@@ -232,13 +230,33 @@ AMBCrypto • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[LIVE: Tom Lee on BitMine Makes Massive Ethereum Move! This Speech Is a Game Changer for ETH Holders!](https://www.youtube.com/watch?v=d4EpAK2xHjo)**
+
+Join Tom Lee for his groundbreaking keynote at the Ethereum Conference. Tom Lee, one of Wall Street's most renowned macro ...
+
+📺 Passeport culturel
+
+👁️ 4K • 👍 1K • 55m ago
+
+---
+
+**[WATCH THESE CRUCIAL LEVELS🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=DQbG7liFwyI)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 75 • 👍 6 • 💬 2 • ⏱️ 4:56 • 3h ago
+
+---
+
 **[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=GKJQ7IbJmZQ)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 131 • 💬 4 • ⏱️ 4:29 • 15h ago
+👁️ 2K • 👍 138 • 💬 4 • ⏱️ 4:29 • 17h ago
 
 ---
 
@@ -246,67 +264,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 EllioTrades
 
-👁️ 8K • 👍 186 • 💬 61 • ⏱️ 1:07 • 21h ago
-
----
-
-**[BITCOIN BEARISH TARGET HIT (this is next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5lB0j7D4UkQ)**
-
-BITCOIN BEARISH TARGET HIT (this is next)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
-
-📺 Crypto World
-
-👁️ 5K • 👍 229 • 💬 150 • ⏱️ 18:32 • 11h ago
-
----
-
-**[Bitcoin &amp; Ethereum. SO sollte es jetzt weitergehen für BTC &amp; ETH](https://www.youtube.com/watch?v=pCSWJZHGYnE)**
-
-Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
-
-📺 Krypto Trading & Investing
-
-👁️ 2K • 👍 627 • 💬 72 • ⏱️ 12:10 • 5h ago
-
----
-
-**[BMNR Getting READY to buy ETH Crypto Winter ENDING?!](https://www.youtube.com/watch?v=M1-crsxrVJs)**
-
-BMNR has been increasing their pace of ETH purchase and stacking cash over the last few weeks as they anticipate the end of ...
-
-📺 Elijah Cheng
-
-👁️ 3K • 👍 109 • 💬 23 • ⏱️ 33:20 • 21h ago
-
----
-
-**[BTC &amp; ETH: Emergency FED Meeting Update!!](https://www.youtube.com/watch?v=qLWPSQK-FPE)**
-
-BloFin (NO KYC) – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade ...
-
-📺 Marzell Crypto
-
-👁️ 625 • 👍 17 • 💬 38 • ⏱️ 3:03 • 1d ago
-
----
-
-**[WILL ETHEREUM RALLY AGAIN?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=xnQHe6XBd2s)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 330 • 👍 19 • 💬 1 • ⏱️ 5:34 • 1d ago
-
----
-
-**[ETH Ethereum Price Prediction: 19th of March](https://www.youtube.com/watch?v=ALe8xzWt-n8)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 133 • 👍 14 • 💬 5 • ⏱️ 8:24 • 20h ago
+👁️ 8K • 👍 194 • 💬 55 • ⏱️ 1:07 • 22h ago
 
 ---
 
@@ -316,7 +274,47 @@ Canton is the first privacy-enabled open blockchain network, ensuring limitless 
 
 📺 Paul Barron Network
 
-👁️ 24K • 👍 2K • 💬 920 • ⏱️ 30:27 • 15h ago
+👁️ 25K • 👍 2K • 💬 986 • ⏱️ 30:27 • 16h ago
+
+---
+
+**[BITCOIN BEARISH TARGET HIT (this is next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5lB0j7D4UkQ)**
+
+BITCOIN BEARISH TARGET HIT (this is next)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 246 • 💬 103 • ⏱️ 18:32 • 13h ago
+
+---
+
+**[BMNR Getting READY to buy ETH Crypto Winter ENDING?!](https://www.youtube.com/watch?v=M1-crsxrVJs)**
+
+BMNR has been increasing their pace of ETH purchase and stacking cash over the last few weeks as they anticipate the end of ...
+
+📺 Elijah Cheng
+
+👁️ 3K • 👍 109 • 💬 15 • ⏱️ 33:20 • 22h ago
+
+---
+
+**[Bitcoin &amp; Ethereum. SO sollte es jetzt weitergehen für BTC &amp; ETH](https://www.youtube.com/watch?v=pCSWJZHGYnE)**
+
+Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
+
+📺 Krypto Trading & Investing
+
+👁️ 3K • 👍 702 • 💬 53 • ⏱️ 12:10 • 6h ago
+
+---
+
+**[BTC &amp; ETH: Emergency FED Meeting Update!!](https://www.youtube.com/watch?v=qLWPSQK-FPE)**
+
+BloFin (NO KYC) – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade ...
+
+📺 Marzell Crypto
+
+👁️ 642 • 👍 17 • 💬 69 • ⏱️ 3:03 • 1d ago
 
 ---
 
@@ -326,7 +324,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 129 • 💬 6 • ⏱️ 4:15 • 1d ago
+👁️ 2K • 👍 130 • 💬 6 • ⏱️ 4:15 • 1d ago
 
 ---
 
