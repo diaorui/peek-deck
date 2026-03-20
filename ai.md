@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-20T16:05:04.612898+00:00'
+updated: '2026-03-20T17:09:49.154078+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - videos
 - social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 20, 2026 at 16:05 UTC  
+**Last Updated:** March 20, 2026 at 17:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Suno settled with Warner Music Group in November and agreed to retire all existing models trained on unlicensed music. New licensed models replace them in 2026. When they launch, the old ones are gone permanently. For users this means: free tier loses download access entirely. Paid tier gets monthly download caps. Suno also acquired Songkick from Warner as part of the deal. The more interesting part is what this means for the industry. UMG and Sony are still actively suing Suno. Warner was the only major to settle. So Suno is launching licensed models while still in litigation with two of the three majors. Udio took a different path. They settled with UMG and pivoted to a walled garden remix platform. Nothing you create can leave the platform. Full breakdown: https://www.votemyai.com/blog/suno-relaunch-2026.html What do you think happens to output quality when the training data shrinks to a single label's catalog?
 
-27m ago
+1h ago
 
 ---
 
@@ -49,7 +49,13 @@ Suno settled with Warner Music Group in November and agreed to retire all existi
 
 Funny phenomenon but I noticed that people who use AI a lot sort of end up adopting the same tonality and speaking style of an LLM.
 
-15h ago
+16h ago
+
+---
+
+**[Walmart secures two AI pricing patents, raising dynamic pricing concerns](https://www.reddit.com/r/artificial/comments/1rywmca/walmart_secures_two_ai_pricing_patents_raising/)**
+
+🔗 [techspot.com](https://www.techspot.com/news/111752-walmart-secures-two-ai-pricing-patents-raising-dynamic.html) • 3h ago
 
 ---
 
@@ -57,7 +63,7 @@ Funny phenomenon but I noticed that people who use AI a lot sort of end up adopt
 
 An experimental AI agent bypassed its test environment, opened a hidden connection and attempted cryptocurrency mining without permission during training.
 
-🔗 [techputs](https://techputs.com/experimental-ai-agent-breaks-out-of-test-environment/) • 10h ago
+🔗 [techputs](https://techputs.com/experimental-ai-agent-breaks-out-of-test-environment/) • 11h ago
 
 ---
 
@@ -65,13 +71,7 @@ An experimental AI agent bypassed its test environment, opened a hidden connecti
 
 As the US-Iran War halts Qatar's gas output, a global helium shortage threatens semiconductor production that could disrupt the AI data centre supply chain
 
-🔗 [datacentremagazine.com](https://datacentremagazine.com/news/us-iran-war-analysis-will-helium-crisis-hit-data-centres) • 6h ago
-
----
-
-**[Walmart secures two AI pricing patents, raising dynamic pricing concerns](https://www.reddit.com/r/artificial/comments/1rywmca/walmart_secures_two_ai_pricing_patents_raising/)**
-
-🔗 [techspot.com](https://www.techspot.com/news/111752-walmart-secures-two-ai-pricing-patents-raising-dynamic.html) • 2h ago
+🔗 [datacentremagazine.com](https://datacentremagazine.com/news/us-iran-war-analysis-will-helium-crisis-hit-data-centres) • 7h ago
 
 ---
 
@@ -79,15 +79,7 @@ As the US-Iran War halts Qatar's gas output, a global helium shortage threatens 
 
 basically you build a "cast" of AIs different models like GPT-4o, Claude, and Gemini and you just drop a topic and let them talk to each other. i currently have a group of historical figures debating the ethics of space colonisation and they're actually voting on things. it even pulls live google results so they're staying updated. it's way too fun to just sit back and watch them deliberate/fight. check it out at boardroom.kreygo.com if u want to never sleep again. has anyone else messed with this yet??
 
-35m ago
-
----
-
-**[7 AI tools I actually use as a 15-year IT Project Manager (not a listicle, real stack)](https://www.reddit.com/r/artificial/comments/1rywdfp/7_ai_tools_i_actually_use_as_a_15year_it_project/)**
-
-As a 15+ year IT and Telecom Project Manager, I've seen my fair share of "game-changing" software come and go. Most of it just adds another tab to your
-
-🔗 [John Cs Place](https://jcorcione.com/the-7-best-ai-tools-for-it-professionals-and-project-managers-in-2026/) • 2h ago
+1h ago
 
 ---
 
@@ -95,15 +87,7 @@ As a 15+ year IT and Telecom Project Manager, I've seen my fair share of "game-c
 
 Remember when Sam Altman was out there talking up 1.4 trillion dollars in spending commitments like it was already in the bag? Now CNBC says OpenAI is targeting "only" 600 billion by 2030 while dreaming of 280 billion in revenue that same year. So your telling me they're supposedly doing about 13.1 billion in revenue this year (2025). Jumping to 280 billion by 2030 means roughly 20 times more money coming in over the next five years. That's not just growth, that's borderline fantasy math. Meanwhile Europe is pouring serious money into building its own sovereign AI and independent infrastructure so it doesn't have to keep begging American companies for access. So why on earth would Europeans (or anyone outside the US hype bubble) keep bankrolling OpenAI's monster bills when their own governments are racing to build local alternatives? Europeans in the comments...... are you still cool with funding America's AI empire, or are you finally done playing second fiddle? article: https://mrkt30.com/can-openai-rely-on-europe-for-its-280b-revenue-goals-by-2030/
 
-2h ago
-
----
-
-**[Are “AI employees” actually being used in real workflows yet?](https://www.reddit.com/r/artificial/comments/1ryu9yx/are_ai_employees_actually_being_used_in_real/)**
-
-I’ve been seeing more discussions around AI systems that can handle ongoing tasks, not just single prompts, but actually manage parts of workflows or operations. In theory, it sounds like a step beyond traditional automation, but I’m curious how far this has actually been adopted in practice. Is anyone here using AI in a way that resembles this, where it’s consistently handling multi-step tasks or ongoing processes? Or is it still mostly limited to assisted workflows rather than true autonomy? Would be interesting to hear real use cases (or limitations).
-
-4h ago
+3h ago
 
 ---
 
@@ -111,7 +95,21 @@ I’ve been seeing more discussions around AI systems that can handle ongoing ta
 
 A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/) • 16h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/) • 17h ago
+
+---
+
+**[Are “AI employees” actually being used in real workflows yet?](https://www.reddit.com/r/artificial/comments/1ryu9yx/are_ai_employees_actually_being_used_in_real/)**
+
+I’ve been seeing more discussions around AI systems that can handle ongoing tasks, not just single prompts, but actually manage parts of workflows or operations. In theory, it sounds like a step beyond traditional automation, but I’m curious how far this has actually been adopted in practice. Is anyone here using AI in a way that resembles this, where it’s consistently handling multi-step tasks or ongoing processes? Or is it still mostly limited to assisted workflows rather than true autonomy? Would be interesting to hear real use cases (or limitations).
+
+5h ago
+
+---
+
+**[Jeff Bezos aims to raise $100 billion to buy, revamp manufacturing firms with AI](https://www.reddit.com/r/artificial/comments/1ryswb2/jeff_bezos_aims_to_raise_100_billion_to_buy/)**
+
+🔗 [reuters.com](https://www.reuters.com/business/retail-consumer/jeff-bezos-aims-raise-100-billion-buy-revamp-manufacturing-firms-with-ai-wsj-2026-03-19/) • 6h ago
 
 ---
 
@@ -119,17 +117,23 @@ A rogue AI agent inadvertently exposed Meta company and user data to engineers w
 
 ## Google News: "ai"
 
-**[Nvidia's Huang pitches AI tokens on top of salary as agents reshape how humans work](https://www.cnbc.com/2026/03/20/nvidia-ai-agents-tokens-human-workers-engineer-jobs-unemployment-jensen-huang.html)**
+**[Exclusive | Jeff Bezos in Talks to Raise $100 Billion for AI Manufacturing Fund](https://www.wsj.com/tech/jeff-bezos-aims-to-raise-100-billion-to-buy-revamp-manufacturing-firms-with-ai-618a3cfe?gaa_at=eafs&gaa_n=AWEtsqeCWlb183vsiDkkGwOgpnsNF3tlDzS-J7F5Q_KGZCKUmGJe2fTKAM2M&gaa_ts=69bd82c0&gaa_sig=-CHjeDA_JxDE70UgxTHV1PgNZNppAWL9V7PAb9lsQeADpkdAjqAOXFlCR8NDB6sCCb8V5T2Eu9nCmx9PDNyCfA%3D%3D)**
 
-Most enterprise AI projects have failed since 2018, a sobering track record for an industry awash in enthusiasm.
-
-CNBC • 8h ago
+WSJ • 21h ago
 
 ---
 
 **[A.I. Is Writing Fiction. Publishers Are Unprepared.](https://www.nytimes.com/2026/03/19/books/ai-fiction-shy-girl.html)**
 
-The New York Times • 17h ago
+The New York Times • 18h ago
+
+---
+
+**[Nvidia's Huang pitches AI tokens on top of salary as agents reshape how humans work](https://www.cnbc.com/2026/03/20/nvidia-ai-agents-tokens-human-workers-engineer-jobs-unemployment-jensen-huang.html)**
+
+Most enterprise AI projects have failed since 2018, a sobering track record for an industry awash in enthusiasm.
+
+CNBC • 9h ago
 
 ---
 
@@ -137,37 +141,37 @@ The New York Times • 17h ago
 
 AI industry leaders have opposed state-level regulatory efforts, arguing that a "patchwork" of laws would hobble innovation and give China a competitive edge.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
-**[White House sends blueprint for national AI rules to Congress](https://www.politico.com/live-updates/2026/03/20/congress/white-house-ai-rules-00837472)**
+**[Trump releases AI policy for Congress to pre-empt state rules](https://finance.yahoo.com/news/white-house-releases-national-ai-122759699.html)**
 
-Politico • 2h ago
+WASHINGTON, March 20 (Reuters) - The White House on Friday unveiled an artificial intelligence policy for Congress that urges lawmakers to enact legislation to pre-empt state rules, protect children
 
----
-
-**[The White House just laid out how it wants to regulate AI](https://www.cnn.com/2026/03/20/tech/white-house-ai-framework)**
-
-The White House on Friday released its long-awaited national artificial intelligence legislative framework, a move to prevent states from enacting their own laws and enforce the Trump administration’s light-touch approach to AI regulation.
-
-CNN • 26m ago
+Yahoo Finance • 36m ago
 
 ---
 
-**[An AI-rendered Val Kilmer will posthumously appear in a new film](https://6abc.com/post/ai-rendered-val-kilmer-will-posthumously-appear-new-film/18740924/)**
+**[White House Unveils A.I. Policy Aimed at Blocking State Laws](https://www.nytimes.com/2026/03/20/us/politics/white-house-unveils-ai-policy-aimed-at-blocking-state-laws.html)**
 
-A generative AI version of Val Kilmer will co-star in an independent film, in one of the boldest uses yet of artificial intelligence in moviemaking.
-
-6abc Philadelphia • 32m ago
+The New York Times • 17m ago
 
 ---
 
-**[Shy Girl by Mia Ballard: Horror novel pulled by publishers over alleged AI use](https://www.bbc.com/news/articles/c5y9d44jj24o)**
+**[Mediahuis suspends senior journalist over AI-generated quotes](https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes)**
 
-Author Mia Ballard denies having used AI herself when writing the horror story Shy Girl.
+Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of hallucinations’, after investigation by newspaper where he was once editor-in-chief
 
-BBC • 34m ago
+The Guardian • 53m ago
+
+---
+
+**[AI smart glasses could generate fake photos instantly](https://www.foxnews.com/tech/ai-smart-glasses-could-generate-fake-photos-instantly)**
+
+Google, Meta, Samsung and Apple are developing AI-powered smart glasses that combine cameras and voice assistants to capture and immediately modify photos using generative AI.
+
+Fox News • 13m ago
 
 ---
 
@@ -179,15 +183,9 @@ blog.google • 1d ago
 
 ---
 
-**[Exclusive | Jeff Bezos in Talks to Raise $100 Billion for AI Manufacturing Fund](https://www.wsj.com/tech/jeff-bezos-aims-to-raise-100-billion-to-buy-revamp-manufacturing-firms-with-ai-618a3cfe?gaa_at=eafs&gaa_n=AWEtsqdVJTDyPJ0NQs9K_vNCUc0xCbk96jCB1mWeJx472aYDP0bsTZhNh8Gp&gaa_ts=69bd7398&gaa_sig=BXGKCraH2MnZ_LJKr-T065Ysndl3UBnjXGBb0evbckPf1rHM6_U4IiMR9sljuFfPgLqaa9J-frP7P_MUK-fggQ%3D%3D)**
+**[Super Micro shares plunge as US charges co-founder, 2 more for smuggling AI chips to China](https://www.reuters.com/legal/government/super-micro-shares-plunge-us-charges-co-founder-2-more-smuggling-ai-chips-china-2026-03-20/)**
 
-WSJ • 20h ago
-
----
-
-**[The exclusive Democratic group chat shaping AI policy](https://www.axios.com/2026/03/20/democratic-group-chat-ai-policy)**
-
-Axios • 7h ago
+Reuters • 5h ago
 
 ---
 
@@ -199,7 +197,7 @@ Axios • 7h ago
 
 Today, we’re introducing Forge, a system that allows enterprises to build frontier-grade AI models grounded in their proprietary knowledge.
 
-⬆️ 724 • 💬 188 • 2d ago • [mistral.ai](https://mistral.ai/news/forge)
+⬆️ 724 • 💬 189 • 2d ago • [mistral.ai](https://mistral.ai/news/forge)
 
 ---
 
@@ -225,7 +223,7 @@ A vulnerability in the Snowflake Cortex Code CLI allowed malware to be installed
 
 We critically examine the limitations of current AI models in achieving autonomous learning and propose a learning architecture inspired by human and animal cognition. The proposed framework integrates learning from observation (System A) and learning from active behavior (System B) while flexibly switching between these learning modes as a function of internally generated meta-control signals (System M). We discuss how this could be built by taking inspiration on how organisms adapt to real-world, dynamic environments across evolutionary and developmental timescales.
 
-⬆️ 199 • 💬 114 • 2d ago • [arXiv.org](https://arxiv.org/abs/2603.15381)
+⬆️ 200 • 💬 114 • 2d ago • [arXiv.org](https://arxiv.org/abs/2603.15381)
 
 ---
 
@@ -241,13 +239,13 @@ Last December, tens of thousands of Claude users around the world had a conversa
 
 An AI agent tried to help, and its advice exposed sensitive data.
 
-⬆️ 161 • 💬 132 • 21h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
+⬆️ 162 • 💬 133 • 22h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
 
 ---
 
 **[Be intentional about how AI changes your codebase](https://news.ycombinator.com/item?id=47446373)**
 
-⬆️ 153 • 💬 87 • 18h ago • [aicode.swerdlow.dev](https://aicode.swerdlow.dev)
+⬆️ 154 • 💬 91 • 19h ago • [aicode.swerdlow.dev](https://aicode.swerdlow.dev)
 
 ---
 
@@ -255,7 +253,15 @@ An AI agent tried to help, and its advice exposed sensitive data.
 
 Google engineers have been spending the past number of months developing Sashiko as an agentic AI code review system for the Linux kernel
 
-⬆️ 104 • 💬 49 • 1d ago • [phoronix.com](https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review)
+⬆️ 104 • 💬 49 • 2d ago • [phoronix.com](https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review)
+
+---
+
+**[France's aircraft carrier located in real time by Le Monde through fitness app](https://news.ycombinator.com/item?id=47453942)**
+
+As the Charles de Gaulle and its strike group approach the Middle East, Le Monde identified a French sailor using the Strava fitness application in the Mediterranean Sea. This security flaw remains unaddressed despite our previous revelations.
+
+⬆️ 61 • 💬 76 • 4h ago • [Le Monde.fr](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
 
 ---
 
@@ -265,13 +271,7 @@ Yesterday at lunch a friend asked me what tech trend he should pay attention to 
 
 Without thinking much I said “artificial intelligence”, but having thought about that a...
 
-⬆️ 59 • 💬 58 • 4h ago • [Sam Altman](https://blog.samaltman.com/ai)
-
----
-
-**[Launch HN: Canary (YC W26) – AI QA that understands your code](https://news.ycombinator.com/item?id=47441629)**
-
-⬆️ 58 • 💬 22 • 1d ago
+⬆️ 60 • 💬 58 • 5h ago • [Sam Altman](https://blog.samaltman.com/ai)
 
 ---
 
@@ -295,7 +295,7 @@ Grok AI has changed everything… and not in a good way. Free video generation i
 
 📺 Tech Rush
 
-👁️ 2K • 👍 115 • 💬 39 • ⏱️ 8:02 • 4h ago
+👁️ 2K • 👍 115 • 💬 39 • ⏱️ 8:02 • 5h ago
 
 ---
 
@@ -305,7 +305,7 @@ I spoke to Anthropic's AI agent Claude about AI collecting massive amounts of pe
 
 📺 Senator Bernie Sanders
 
-👁️ 837K • 👍 66K • 💬 9K • ⏱️ 9:18 • 17h ago
+👁️ 837K • 👍 66K • 💬 9K • ⏱️ 9:18 • 18h ago
 
 ---
 
@@ -315,7 +315,7 @@ AI is no longer a future problem. It is already reshaping the job market and mos
 
 📺 Scott Kuru
 
-👁️ 7K • 👍 297 • 💬 84 • ⏱️ 12:49 • 7h ago
+👁️ 7K • 👍 297 • 💬 84 • ⏱️ 12:49 • 8h ago
 
 ---
 
@@ -355,7 +355,7 @@ Grandpa builds a house from cylinders and surprise grandma #ai #grandma #save.
 
 📺 Ai Kulfi
 
-👁️ 201K • 💬 5 • ⏱️ 0:42 • 3h ago
+👁️ 201K • 💬 5 • ⏱️ 0:42 • 4h ago
 
 ---
 
@@ -365,7 +365,7 @@ MiniMax is back with one of the most shocking AI releases yet… and this one mi
 
 📺 WorldofAI
 
-👁️ 10K • 👍 305 • 💬 28 • ⏱️ 11:45 • 13h ago
+👁️ 10K • 👍 305 • 💬 28 • ⏱️ 11:45 • 14h ago
 
 ---
 
@@ -415,7 +415,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 116,845 • ❤️ 949 • 7h ago
+⬇️ 116,845 • ❤️ 949 • 8h ago
 
 ---
 
@@ -499,7 +499,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 796,276 • ❤️ 694 • 4d ago
+⬇️ 796,276 • ❤️ 694 • 5d ago
 
 ---
 
@@ -671,7 +671,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.8k • 🔱 1.6k • 2h ago
+⭐ 12.8k • 🔱 1.6k • 3h ago
 
 ---
 
@@ -691,7 +691,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.1k • 🔱 731 • 5h ago
+⭐ 10.1k • 🔱 731 • 6h ago
 
 ---
 
@@ -701,7 +701,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 9.1k • 🔱 451 • 58m ago
+⭐ 9.1k • 🔱 451 • 2h ago
 
 ---
 
@@ -711,7 +711,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 5.5k • 🔱 805 • 2h ago
+⭐ 5.5k • 🔱 805 • 3h ago
 
 ---
 
@@ -721,7 +721,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `agent` `ai` `coding` `lowcode` `nocode`
 
-⭐ 4.5k • 🔱 404 • 1h ago
+⭐ 4.5k • 🔱 404 • 2h ago
 
 ---
 
@@ -731,7 +731,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `Python` `ai-agents` `claude` `claude-code` `cloud-security` `cybersecurity`
 
-⭐ 3.5k • 🔱 348 • 21h ago
+⭐ 3.5k • 🔱 348 • 22h ago
 
 ---
 

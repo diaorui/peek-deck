@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-20T16:05:04.627295+00:00'
+updated: '2026-03-20T17:09:49.168552+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 20, 2026 at 16:05 UTC  
+**Last Updated:** March 20, 2026 at 17:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,8 +42,8 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** +2.0%  
+**24h:** +0.6%  
+**7d:** +1.9%  
 **30d:** +9.7%  
 **90d:** -28.8%  
 **1y:** +8.8%  
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everybody, I've been building a no code visual smart contract builder for solidity to help non-developers realize their ideas without having to learn solidity. While doing that, as a dog food experiment, I created a block explorer which uses the visualizations against verified contracts so I could test better. At some point I realized that would make a pretty cool tool for a lot of people since I'm able to surface things that most block explorers don't: being able to replay a transaction and follow what's happening on the visual graph displaying various attributes about a contract like whether it's pausible, has only owner functions, etc showing debug info about every step that happened in the contract There's probably a lot more that I could do there and I'm looking to source ideas from the community about what should be added. It'd be great if y'all could take a look and see if there's anything obvious that I'm missing https://doodledapp.com/explorer Thanks!
 
-17h ago
+18h ago
 
 ---
 
@@ -148,14 +148,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Ethereum flipped in 2026? Predictions & Odds](https://polymarket.com/event/eth-flipped-in-2026)**
-
-View real-time odds for "Ethereum flipped in 2026?" as of March 15, 2026 and trade on The World's Largest Prediction Market™
-
-Polymarket • 2mo ago
-
----
-
 **[Bitcoin At $73,000, Ethereum, XRP, Dogecoin Stall Ahead Of Powell Press Conference](https://www.benzinga.com/crypto/cryptocurrency/26/03/51320643/bitcoin-at-73000-ethereum-xrp-dogecoin-stall-ahead-of-powell-press-conference)**
 
 Bitcoin continues to trade around $73,000, following $199.4 million in net ETF inflows on Tuesday, while Ethereum ETFs reported $138.25 million in net inflows.
@@ -164,33 +156,9 @@ Benzinga • 2d ago
 
 ---
 
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqf5ZcqcGDq7bDWFvGx7k0msw95xxgwSNycZ7HOrsmbk3r9W8RfJk4WY&gaa_ts=69bd739b&gaa_sig=FUmteuLEI4Mm552CX7e5-RCZNlCBlDrTJkoLV74bzindIzTiqyLsP_tEBYAF3I_ioZmWiRmaExGQJ6bkhVq0mw%3D%3D)**
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqd1drm4wAl3TwnIBqC2zneLkKmHy53lRicgh-C3bTvNLVncwip58aCn&gaa_ts=69bd82c3&gaa_sig=XVrWYbK2-ub9TShpAj82ETotHHYF-EhRkFkFFFwReLIV5Mb5sHXqSvxWtK5-sZErk6yZ0PBm-ApVa9JZ2j1hgg%3D%3D)**
 
-MarketWatch • 2h ago
-
----
-
-**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1774002600)**
-
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 1d ago
-
----
-
-**[Current price of Ethereum for March 20, 2026](https://fortune.com/article/price-of-ethereum-03-20-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 2h ago
-
----
-
-**[Ethereum Price Is Headed For $8,500 If This Happens](https://www.tradingview.com/news/newsbtc:a1b489bd9094b:0-ethereum-price-is-headed-for-8-500-if-this-happens/)**
-
-Ethereum, being the second-largest cryptocurrency by market cap, has often drawn a lot of attention as the next in line to replicate Bitcoin’s success. But despite Bitcoin rallying to new all-time highs, Ethereum has stayed below $5,000, unable to hit this major target. This has not deterred invest…
-
-TradingView • 5h ago
+MarketWatch • 3h ago
 
 ---
 
@@ -202,11 +170,41 @@ The Block • 1d ago
 
 ---
 
+**[XRP vs Bitcoin vs Ethereum: ChatGPT Predicts Which Crypto Is Best for 2026](https://finance.yahoo.com/markets/crypto/articles/xrp-vs-bitcoin-vs-ethereum-132035939.html)**
+
+Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and XRP (CRYPTO: XRP) have all crashed between 40% and 60% from their 2025 highs. As the entire market gears towards a recovery, investors want to know which of Bitcoin, XRP, or Ethereum is the best crypto to invest in this year? To keep things fair, we asked ChatGPT ... XRP vs Bitcoin vs Ethereum: ChatGPT Predicts Which Crypto Is Best for 2026
+
+Yahoo Finance • 1d ago
+
+---
+
 **[This is the latest sign of a quiet crypto revolution](https://nypost.com/2026/03/20/business/blackrock-launches-ethereum-exchange-traded-fund/)**
 
 “Ethereum, to me, is really gonna be where Wall Street meets crypto,” a source told NYNext.
 
-New York Post • 5h ago
+New York Post • 6h ago
+
+---
+
+**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1774002600)**
+
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 1d ago
+
+---
+
+**[Ethereum Price Bottom Has Hit, Tom Lee Claims Again — Three Reasons He Says It's Heading Higher](https://www.ccn.com/news/crypto/ethereum-price-bottom-hit-tom-lee-claims-again-three-reasons/)**
+
+CCN.com • 5h ago
+
+---
+
+**[Current price of Ethereum for March 20, 2026](https://fortune.com/article/price-of-ethereum-03-20-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 3h ago
 
 ---
 
@@ -214,7 +212,7 @@ New York Post • 5h ago
 
 BlackRock's iShares Staked Ethereum Trust (ETHB) has hit $254 million in assets under management just one week after launch.
 
-Decrypt • 21h ago
+Decrypt • 23h ago
 
 ---
 
@@ -222,7 +220,7 @@ Decrypt • 21h ago
 
 Ethereum hit a new record high in 2025, but it still fell short of the $5,000 milestone.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -236,7 +234,7 @@ Ethereum is showing strong bullish signals, with analysts predicting a major reb
 
 📺 Crypto Sensei
 
-👁️ 1K • 👍 232 • 💬 74 • ⏱️ 12:42 • 2h ago
+👁️ 1K • 👍 232 • 💬 74 • ⏱️ 12:42 • 3h ago
 
 ---
 
@@ -246,7 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 140 • 💬 4 • ⏱️ 4:29 • 20h ago
+👁️ 2K • 👍 140 • 💬 4 • ⏱️ 4:29 • 21h ago
 
 ---
 
@@ -256,7 +254,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 113 • 👍 8 • 💬 2 • ⏱️ 4:56 • 6h ago
+👁️ 113 • 👍 8 • 💬 2 • ⏱️ 4:56 • 7h ago
 
 ---
 
@@ -274,7 +272,7 @@ Join Tom Lee for his groundbreaking keynote at the Ethereum Conference. Tom Lee,
 
 📺 Evangelist Eyu
 
-👁️ 5K • 👍 1K • 2h ago
+👁️ 5K • 👍 1K • 3h ago
 
 ---
 
@@ -284,7 +282,7 @@ Canton is the first privacy-enabled open blockchain network, ensuring limitless 
 
 📺 Paul Barron Network
 
-👁️ 27K • 👍 2K • 💬 1K • ⏱️ 30:27 • 19h ago
+👁️ 27K • 👍 2K • 💬 1K • ⏱️ 30:27 • 20h ago
 
 ---
 
@@ -304,7 +302,7 @@ BITCOIN BEARISH TARGET HIT (this is next)!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 7K • 👍 253 • 💬 95 • ⏱️ 18:32 • 16h ago
+👁️ 7K • 👍 253 • 💬 95 • ⏱️ 18:32 • 17h ago
 
 ---
 
@@ -314,7 +312,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 718 • 💬 80 • ⏱️ 12:10 • 9h ago
+👁️ 3K • 👍 718 • 💬 80 • ⏱️ 12:10 • 10h ago
 
 ---
 
