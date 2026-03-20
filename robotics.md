@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-20T15:11:14.609261+00:00'
+updated: '2026-03-20T16:05:04.630491+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 20, 2026 at 15:11 UTC  
+**Last Updated:** March 20, 2026 at 16:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,21 @@ Robotics research and industry news
 
 From Physical Intelligence on 𝕏 (thread with multiple videos): https://x.com/physical_int/status/2034728220818641363 Technical Blog post: https://www.pi.website/research/rlt
 
-4h ago
+5h ago
 
 ---
 
 **[The Robotics team from Wissahickon High School in Ambler, Pennsylvania built a robot Miss Daisy XXIV that picks up balls and shoots them into a container.](https://www.reddit.com/r/robotics/comments/1ry3haa/the_robotics_team_from_wissahickon_high_school_in/)**
 
-23h ago
+1d ago
+
+---
+
+**[Range of motion evaluation test for my homemade robotic hand & wrist](https://www.reddit.com/r/robotics/comments/1ryzwte/range_of_motion_evaluation_test_for_my_homemade/)**
+
+Showcasing the newest version (v20) of my hand & wrist combo! Same as the last version, it's a combination of direct- and tendon-driven actuation, still with 19 joints and 10 active DOFs. It has independent finger flexion, a 3-DOF thumb, linked finger splay, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist which measures joint position (at the motor output), current, and temperature. And all the movements were programmed with custom C#/C++ software. Improved from the last version, the base thumb joints were switched to direct drive and much beefier motors were swapped in for the wrist joints - improving strength and repeatability under heavier loads. Despite these new motors though, the form factor remains nearly identical to v19, spare a few millimeters of thickness and height. Some more minor changes: (1) ASA and carbon fiber filaments replaced basic PLA to improve rigidity and strength, (2) the power input was switched to an XT30 connector to accommodate the more power-hungry motors, and (3) better filtering and chips to reduce current and position signal noise. Still making incremental improvements here and there, but happy to answer any questions and hear your thoughts!
+
+16m ago
 
 ---
 
@@ -50,7 +58,7 @@ From Physical Intelligence on 𝕏 (thread with multiple videos): https://x.com/
 
 Why can’t robots use their lidar to scan the room and confirm there is enough space to perform an action? 🤔 Obviously I learned the hard way but it’s a good question. What do you guys think?
 
-22h ago
+23h ago
 
 ---
 
@@ -58,7 +66,15 @@ Why can’t robots use their lidar to scan the room and confirm there is enough 
 
 Amazon and Jeff Bezos had previously invested in the startup. The deal signals the e-commerce giant's interest in doorstep delivery.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/) • 13h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/) • 14h ago
+
+---
+
+**[copper-rs v0.14: deterministic robotics runtime in Rust now supports Python tasks](https://www.reddit.com/r/robotics/comments/1ryznc2/copperrs_v014_deterministic_robotics_runtime_in/)**
+
+Copper is an open-source robotics runtime in Rust for building deterministic, observable systems. Until now, it was very much geared toward production. With v0.14, we’re opening that system up to earlier-stage work as well. In robotics, you typically prototype quickly in Python, then rebuild the system to meet determinism, safety, and observability requirements. You can validate algorithms on real logs or simulation, inspect them in a running system, and iterate without rebuilding the surrounding infrastructure. When it’s time to move to Rust, only the task needs to change, and LLMs are quite effective at helping with that step. This release also also introduces: - composable monitoring, including a dedicated safety monitors - a new Webassembly target! After CPUs and MCUs targets, Copper can now fully run in a browser for shareable demos, check out the links in the article. - The ROS2 bridge is now bidirectional, helping the gradual migrations from ROS2 from both sides of the stack The focus is continuity from early experimentation to deployment. If you’re a Python roboticist looking for a smooth path into a Rust-based production system, come talk to us on Discord, we’re happy to help.
+
+🔗 [Copper Robotics](https://www.copper-robotics.com/whats-new/copper-rs-v014-from-prototype-to-production-without-changing-systems) • 25m ago
 
 ---
 
@@ -66,7 +82,7 @@ Amazon and Jeff Bezos had previously invested in the startup. The deal signals t
 
 During NVIDIA's GTC event this week attendees had the chance to see our favorite come to life snowman walking around the show floor. Disney research designer Moritz Baecher describes the technology behind creating Robot Olaf and the future of free range robots.
 
-🔗 [Automate](https://www.automate.org/vision/industry-insights/letting-it-go-disney-researchs-lab-director-on-free-range-robots) • 4h ago
+🔗 [Automate](https://www.automate.org/vision/industry-insights/letting-it-go-disney-researchs-lab-director-on-free-range-robots) • 5h ago
 
 ---
 
@@ -74,7 +90,7 @@ During NVIDIA's GTC event this week attendees had the chance to see our favorite
 
 Been seeing a lot of people building robots that use the ChatGPT API to give them autonomy, but that's like asking a writer to be a gymnast, so I'm building a software that makes better use of VLMs, Depth Estimation and World Models, to give autonomy to your robot. Building this in public. (skipped DAY 5 bc there was no much progress really) Today: > Tested out different visual odometry algorithms > Turns out DA3 is also pretty good for pose estimation/odometry > Was struggling for a bit generating a reasonable occupancy grid > Reused some old code from my robotics research in college > Turns out Bayesian Log-Odds Mapping yielded some kinda good results at least > Pretty low definition voxels for now, but pretty good for SLAM that just uses a camera and no IMU or other odometry methods Working towards releasing this as an API alongside a Python SDK repo, for any builder to be able to add autonomy to their robot as long as it has a camera
 
-15h ago
+16h ago
 
 ---
 
@@ -82,25 +98,13 @@ Been seeing a lot of people building robots that use the ChatGPT API to give the
 
 I badly need help for our problem in the plotting output of the plotter. It seems that the square is tilted at a certain angle. Can somebody help solving this problem.
 
-11h ago
+12h ago
 
 ---
 
 **[Bender display matrix](https://www.reddit.com/r/robotics/comments/1ryocif/bender_display_matrix/)**
 
-9h ago
-
----
-
-**[Robot playing tennis ,what are your thoughts on this feat ? Is it comparable to figure cleaning the room ,could it be said that this is best feat ai humanoid robot has shown so far](https://www.reddit.com/r/robotics/comments/1rxwsm1/robot_playing_tennis_what_are_your_thoughts_on/)**
-
-1d ago
-
----
-
-**[Looking for a robust, high-performance platform for autonomous navigation or swarm coordination?](https://www.reddit.com/r/robotics/comments/1rylr1m/looking_for_a_robust_highperformance_platform_for/)**
-
-11h ago
+10h ago
 
 ---
 
@@ -112,7 +116,7 @@ I badly need help for our problem in the plotting output of the plotter. It seem
 
 Mark Cuban said the push for humanoid robots will fail and that instead robots and spaces will be co-designed.
 
-Business Insider • 9h ago
+Business Insider • 10h ago
 
 ---
 
@@ -128,7 +132,7 @@ CNBC • 17h ago
 
 Amazon has acquired autonomous robotics startup Rivr, an Amazon spokesperson confirmed, a deal that could help the commerce and logistics giant deliver packages to shoppers’ doors more efficiently. Based in Zurich and formerly known as Swiss-Mile, Rivr was valued at $110 million in an August ...
 
-The Information • 18h ago
+The Information • 19h ago
 
 ---
 
@@ -136,21 +140,15 @@ The Information • 18h ago
 
 With last-mile delivery company RIVR now at Amazon, could we soon see quadrupeds delivering our Amazon packages?
 
-The Robot Report • 14h ago
+The Robot Report • 15h ago
 
 ---
 
-**[See inside a Northampton warehouse where 100 robots move stock](https://www.bbc.com/news/videos/c5y8l21q512o)**
+**[Techman’s Humanoid Robot Astonishes GTC 2026 Crowd, Redefining Industrial Robotics](https://www.eweek.com/news/techman-tm-xplore-i-humanoid-robot-nvidia-gtc-2026/)**
 
-They zip around autonomously, climbing shelves more than 12m (39ft) high and delivering stock.
+Techman unveils its TM Xplore I humanoid robot at Nvidia GTC 2026, showcasing AI-powered automation designed for real-world industrial work.
 
-BBC • 3h ago
-
----
-
-**[Chinese Robot Maker Unitree Seeks $610 Million in Shanghai IPO](https://www.bloomberg.com/news/articles/2026-03-20/chinese-robot-maker-unitree-seeks-610-million-in-shanghai-ipo)**
-
-Bloomberg.com • 3h ago
+eWeek • 18h ago
 
 ---
 
@@ -160,17 +158,9 @@ Reuters • 4h ago
 
 ---
 
-**[Techman’s Humanoid Robot Astonishes GTC 2026 Crowd, Redefining Industrial Robotics](https://www.eweek.com/news/techman-tm-xplore-i-humanoid-robot-nvidia-gtc-2026/)**
-
-Techman unveils its TM Xplore I humanoid robot at Nvidia GTC 2026, showcasing AI-powered automation designed for real-world industrial work.
-
-eWeek • 17h ago
-
----
-
 **[Smarter, faster, and more human: AI system helps robots outpace their human teachers](https://techxplore.com/news/2026-03-smarter-faster-human-ai-robots.html)**
 
-Tech Xplore • 20h ago
+Tech Xplore • 21h ago
 
 ---
 
@@ -178,7 +168,23 @@ Tech Xplore • 20h ago
 
 After decades of promise, autonomous systems and robotics are moving from labs to factory floors and households — powered by breakthroughs in AI and hardware.
 
-Bessemer Venture Partners • 22h ago
+Bessemer Venture Partners • 23h ago
+
+---
+
+**[Wall-climbing robots swarm US Navy warships](https://www.foxnews.com/tech/ai-newsletter-wall-climbing-robots-swarm-us-navy-warships)**
+
+The Fox News AI Newsletter gives readers the latest AI technology advancements, covering the challenges and opportunities AI presents.
+
+Fox News • 21h ago
+
+---
+
+**[Nvidia GTC: Everything We Learned About AI, Claws, CPUs and Robotics This Week](https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/)**
+
+Physical AI, agents, inference and more are on the table for the world's biggest company during Monday's conference kickoff.
+
+CNET • 18h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-20T15:11:14.600157+00:00'
+updated: '2026-03-20T16:05:04.621258+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
+- videos
 - social
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 20, 2026 at 15:11 UTC  
+**Last Updated:** March 20, 2026 at 16:05 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,223.30
+### $69,804.25
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
+**24h:** +0.1%  
 **7d:** -1.8%  
-**30d:** +4.4%  
-**90d:** -21.2%  
-**1y:** -16.9%  
+**30d:** +4.5%  
+**90d:** -21.1%  
+**1y:** -16.8%  
 
 ---
 
@@ -77,19 +77,11 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[My biggest Bitcoin regret: Sold 2.1 BTC in 2018 for student loans and a used car—now it would’ve been life-changing money](https://www.reddit.com/r/Bitcoin/comments/1ryibr8/my_biggest_bitcoin_regret_sold_21_btc_in_2018_for/)**
-
-“I was 24 in 2017, fresh out of college, scraping by on ramen and side gigs. A crypto-savvy coworker convinced me to throw my entire savings—about $8,000—into Bitcoin. I ended up with roughly 2.1 BTC at around $3,800 avg. Felt unstoppable. Then 2018 hit: price crashed to $3k, I freaked out thinking it was a scam bubble bursting. Sold every single one to ‘cut losses’ and pay off student loans + buy a used car to get to a better job. Used the cash for real-life adulting. Fast forward: 2021 peak at $69k, I calculated what that would’ve been… over $140k gone. 2022 bear, I tried buying back scraps but could only afford 0.3 BTC. Now in 2026, with BTC way higher, that original stack would’ve been life-changing—house down payment, financial freedom, maybe even quitting the soul-crushing 9-5. Instead I drive the same beat-up car, still renting, and every time I see the price chart I feel physically sick. Worst part? I told my family it was ‘smart’ to sell. They still bring it up as my ‘biggest L.’ What’s your most brutal Bitcoin regret? The one that keeps you up at night? Drop your story—no judgment, just pain-sharing.”
-
-14h ago
-
----
-
 **[Loving Bitcoin at $120k and $60k tells you it’s not about timing, it’s about opting out](https://www.reddit.com/r/Bitcoin/comments/1rywlrd/loving_bitcoin_at_120k_and_60k_tells_you_its_not/)**
 
 Abra Financial Holdings, Inc. CEO
 
-1h ago
+2h ago
 
 ---
 
@@ -97,7 +89,15 @@ Abra Financial Holdings, Inc. CEO
 
 North Carolina is moving to become one of the first states to officially hold Bitcoin as part of its treasury reserves. The bill (HB 92) would allow the state treasurer to invest up to 10% of certain public funds in Bitcoin. These reserves typically consist of US Treasury bonds
 
-1h ago
+2h ago
+
+---
+
+**[My biggest Bitcoin regret: Sold 2.1 BTC in 2018 for student loans and a used car—now it would’ve been life-changing money](https://www.reddit.com/r/Bitcoin/comments/1ryibr8/my_biggest_bitcoin_regret_sold_21_btc_in_2018_for/)**
+
+“I was 24 in 2017, fresh out of college, scraping by on ramen and side gigs. A crypto-savvy coworker convinced me to throw my entire savings—about $8,000—into Bitcoin. I ended up with roughly 2.1 BTC at around $3,800 avg. Felt unstoppable. Then 2018 hit: price crashed to $3k, I freaked out thinking it was a scam bubble bursting. Sold every single one to ‘cut losses’ and pay off student loans + buy a used car to get to a better job. Used the cash for real-life adulting. Fast forward: 2021 peak at $69k, I calculated what that would’ve been… over $140k gone. 2022 bear, I tried buying back scraps but could only afford 0.3 BTC. Now in 2026, with BTC way higher, that original stack would’ve been life-changing—house down payment, financial freedom, maybe even quitting the soul-crushing 9-5. Instead I drive the same beat-up car, still renting, and every time I see the price chart I feel physically sick. Worst part? I told my family it was ‘smart’ to sell. They still bring it up as my ‘biggest L.’ What’s your most brutal Bitcoin regret? The one that keeps you up at night? Drop your story—no judgment, just pain-sharing.”
+
+15h ago
 
 ---
 
@@ -113,7 +113,15 @@ This question is directed at those who exclusively hold Bitcoin. How do you main
 
 The SEC’s interpretation on crypto assets is just the beginning and serves as a bridge while Congress works to advance market structure legislation. Our rules must be clear enough to guide markets, flexible enough to accommodate innovation, and firm enough to protect investors. https://x.com/SECPaulSAtkins/status/2034676128317661351
 
-15h ago
+16h ago
+
+---
+
+**[Stability recently](https://www.reddit.com/r/Bitcoin/comments/1ryvh9f/stability_recently/)**
+
+Is anybody else impressed by the stability of the price in the last month considering the state of the world? If the cycle is real (it's mostly followed it, what, 4 times now? Not exactly a substantial amount of data points... but it is a pattern nonetheless) then it's mildly interesting that it hasn't dropped further faster... yet. And considering the conflicts/wars and the state of the market and oil prices, and gold falling... yet through all this in the past month it has been steady around 70k plus or minus a bit. Maybe all this was "priced in" from before the last month, but if that were the case, amid the bear period of the "4 year cycle" AND the war, I'd have expected the "price in" to be more damaging. Just some commute-thoughts I had... open for discussion.
+
+3h ago
 
 ---
 
@@ -121,7 +129,7 @@ The SEC’s interpretation on crypto assets is just the beginning and serves as 
 
 Back in September I got absolutely wrecked with some ridiculous margin trades, lost a massive chunk of change No point crying over spilled milk though right Strategy now is simple - just keep stacking sats through regular buys and forget about it Bitcoin crashing? mate I'm loving every minute of it, more coins for less cash so I'm cranking up my daily buys These prices are a gift if you ask me
 
-8h ago
+9h ago
 
 ---
 
@@ -135,7 +143,7 @@ Back in September I got absolutely wrecked with some ridiculous margin trades, l
 
 BTQ Technologies has launched the first working BIP 360 implementation on its Bitcoin Quantum testnet, enabling developers to test quantum-resistant Bitcoin transactions in practice.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/btq-deploys-first-bip-360-quantum) • 23h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/btq-deploys-first-bip-360-quantum) • 1d ago
 
 ---
 
@@ -143,15 +151,7 @@ BTQ Technologies has launched the first working BIP 360 implementation on its Bi
 
 learnt from experience, dca is just the answer, suit your self! happy stacking
 
-5h ago
-
----
-
-**[Stability recently](https://www.reddit.com/r/Bitcoin/comments/1ryvh9f/stability_recently/)**
-
-Is anybody else impressed by the stability of the price in the last month considering the state of the world? If the cycle is real (it's mostly followed it, what, 4 times now? Not exactly a substantial amount of data points... but it is a pattern nonetheless) then it's mildly interesting that it hasn't dropped further faster... yet. And considering the conflicts/wars and the state of the market and oil prices, and gold falling... yet through all this in the past month it has been steady around 70k plus or minus a bit. Maybe all this was "priced in" from before the last month, but if that were the case, amid the bear period of the "4 year cycle" AND the war, I'd have expected the "price in" to be more damaging. Just some commute-thoughts I had... open for discussion.
-
-2h ago
+6h ago
 
 ---
 
@@ -159,31 +159,25 @@ Is anybody else impressed by the stability of the price in the last month consid
 
 ## Google News: "bitcoin"
 
+**[From $13,700 to $148 million: Bitcoin whale moves 2,100 BTC untouched for over 13 years](https://www.theblock.co/post/394488/from-13700-to-148-million-bitcoin-whale-moves-2100-btc-untouched-for-over-13-years)**
+
+The bitcoin address initially received the 2,100 BTC on July 4, 2012, when that amount was worth just $13,685.
+
+The Block • 4h ago
+
+---
+
 **[Bitcoin price news: BTC jumps as oil prices slip. Is the bottom in?](https://www.coindesk.com/markets/2026/03/20/bitcoin-jumps-to-usd70-800-as-oil-retreats-ether-and-xrp-lag)**
 
 Oil prices slipped as major economies announced joint efforts to stabilize energy markets.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
-**[Bitcoin, XRP Fall. Crypto Markets Get What They Expected From Fed’s Powell.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-fed-decision-cryptos-powell-e3021a22?gaa_at=eafs&gaa_n=AWEtsqdHfaQLUy_jOQV2a5Ll3m-gDAtzhSsDeV9Lsp7AQE1117jBhzN5f8x3&gaa_ts=69bd5933&gaa_sig=ksoMU1Ozd1-dwaWaVstF_mZxMv9QQ0OAbDXTbyBRE5aGLmKq-gz4wqoii-fTHkbfxwxirddwK2UTmXiwglOqJA%3D%3D)**
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqeC_znRzYuN_v7ZbzZNmTBa5hMI2DWYFUsIj-M1VKSCx2zdWb9pwpg8&gaa_ts=69bd7399&gaa_sig=PXbAKuN5ujqLkiuJj5VYq0x5y7AKODHXyn4y3YzNbMG7xCHQcuSrfeNxTe7atWOPq2JgzEGqlP1W70bGuWQMvQ%3D%3D)**
 
-Barron's • 1d ago
-
----
-
-**[Why Bitcoin Was Sinking on Wednesday](https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-sinking-wednesday-001850414.html)**
-
-A Fed decision and bearish forecasts led to a modest sell-off.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin price today: steadies near $71k after tumbling on oil spike, hawkish Fed](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-steadies-near-71k-after-tumbling-on-oil-spike-hawkish-fed-4572270)**
-
-Investing.com • 9h ago
+MarketWatch • 2h ago
 
 ---
 
@@ -195,31 +189,35 @@ Yahoo • 1h ago
 
 ---
 
-**[Financial advisers used to say no to bitcoin. Now they’re saying maybe — but with a catch.](https://www.marketwatch.com/story/financial-advisers-used-to-say-no-to-bitcoin-now-theyre-saying-maybe-but-with-a-catch-2c16149a?gaa_at=eafs&gaa_n=AWEtsqfSw_T1Z3yGqq42Z8eQpNUpiPyb7wKt8LKZt1QFQyrn54JaYTNRSZrY&gaa_ts=69bd5933&gaa_sig=0tvAOHsErl9ueDgj7wDJSXquRFaAdCPprWBjI2nSailiTUuffnt1NCNBRmTweYw3f_sJ4xmiHK5kLj2e2Y9aCw%3D%3D)**
+**[Eric Trump Says 'Up We Go' After American Bitcoin Surpasses Galaxy Digital In Bitcoin Holdings — So Why Is The Stock Lagging?](https://finance.yahoo.com/markets/crypto/articles/eric-trump-says-american-bitcoin-150105170.html)**
 
-MarketWatch • 3h ago
+American Bitcoin Corp. co-founder Eric Trump celebrated on Wednesday after the company surpassed Galaxy Digital Inc. in accumulating Bitcoin. ‘Climbing The Ladder Faster’ Trump took pride in the achievement on X, adding, “No company is climbing the ladder faster. Up,...
 
----
-
-**[People Are Saying Bitcoin Is Dead. I'm Buying It Right Now With $500](https://www.fool.com/investing/2026/03/20/people-are-saying-bitcoin-is-dead-im-buying-it-rig/)**
-
-Rumors of Bitcoin's death have been much exaggerated.
-
-The Motley Fool • 3h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin long-term holder selling slows, signaling 'potentially constructive' trend: VanEck](https://www.theblock.co/post/394467/bitcoin-long-term-holder-activity-slows-vaneck)**
+**[Bitcoin, XRP Fall. Crypto Markets Get What They Expected From Fed’s Powell.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-fed-decision-cryptos-powell-e3021a22?gaa_at=eafs&gaa_n=AWEtsqczS_F6fmgDdvCh9pNcEDz1YUL0krw0b5DTJZjLqmPjeHPwttBTLTxb&gaa_ts=69bd7399&gaa_sig=-aMGCloNcC8MCuRfpbPYe480bd7MP9q-CwEZWhDbtJFCX8qg5y1VbECOFlE4RIDJf0OcJK1g2Wro3IZttfKx0w%3D%3D)**
 
-VanEck's latest report noted that the selling pressure among bitcoin miners remained steady despite a decline in profitability.
+Barron's • 1d ago
 
-The Block • 6h ago
+---
+
+**[Bitcoin price today: steadies near $71k after tumbling on oil spike, hawkish Fed](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-steadies-near-71k-after-tumbling-on-oil-spike-hawkish-fed-4572270)**
+
+Investing.com • 10h ago
 
 ---
 
 **[Bitcoin Price Undercuts $70,000 As Higher-For-Longer Policy Weighs Across Asset](https://www.investors.com/news/bitcoin-price-fall-70k-federal-reserve-rates-oil-prices-iran-cryptocurrency-stocks-sec-nasdaq/)**
 
-Investor's Business Daily • 17h ago
+Investor's Business Daily • 18h ago
+
+---
+
+**[Bitcoin Holding at $70,000 as Iran War Stokes Inflation Concerns](https://www.bloomberg.com/news/articles/2026-03-20/bitcoin-holding-at-70-000-as-iran-war-stokes-inflation-concerns)**
+
+Bloomberg.com • 5h ago
 
 ---
 
@@ -239,13 +237,13 @@ Bitcoin Magazine • 1d ago
 
 Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in. Proof that works without us.
 
-⬆️ 4 • 💬 0 • 22h ago • [Umarise](https://umarise.com/blog/proof-of-existence)
+⬆️ 4 • 💬 0 • 23h ago • [Umarise](https://umarise.com/blog/proof-of-existence)
 
 ---
 
 **[Bitcoin, XRP Fall in a Bad Week for Cryptos](https://news.ycombinator.com/item?id=47453548)**
 
-⬆️ 2 • 💬 0 • 2h ago • [barrons.com](https://www.barrons.com/articles/bitcoin-price-xrp-etheruem-crypto-sec-nasdaq-2e2f8254)
+⬆️ 2 • 💬 0 • 3h ago • [barrons.com](https://www.barrons.com/articles/bitcoin-price-xrp-etheruem-crypto-sec-nasdaq-2e2f8254)
 
 ---
 
@@ -289,7 +287,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 6K • 👍 458 • 💬 34 • ⏱️ 5:05 • 6h ago
+👁️ 6K • 👍 458 • 💬 34 • ⏱️ 5:05 • 7h ago
 
 ---
 
@@ -299,7 +297,7 @@ Iran, Saudi Warning on oil, QQQ, Tesla, Bitcoin, Solana, and more! BITUNIX TRADE
 
 📺 Lark Davis
 
-👁️ 7K • 👍 479 • 💬 52 • ⏱️ 13:46 • 4h ago
+👁️ 7K • 👍 479 • 💬 52 • ⏱️ 13:46 • 5h ago
 
 ---
 
@@ -309,7 +307,7 @@ Bitcoin Vegas 2026: https://fxo.co/JAmn Welcome to the Crypto Lifer Channel! JOI
 
 📺 Crypto Lifer
 
-👁️ 2K • 👍 319 • 1h ago
+👁️ 2K • 👍 319 • 2h ago
 
 ---
 
@@ -319,7 +317,7 @@ A classic case of the bear market blues for Bitcoin. Into The Cryptoverse Premiu
 
 📺 Benjamin Cowen
 
-👁️ 35K • 👍 3K • 💬 156 • ⏱️ 11:38 • 10h ago
+👁️ 35K • 👍 3K • 💬 156 • ⏱️ 11:38 • 11h ago
 
 ---
 
@@ -339,7 +337,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 150 • 💬 7 • ⏱️ 18:54 • 21h ago
+👁️ 4K • 👍 150 • 💬 7 • ⏱️ 18:54 • 22h ago
 
 ---
 
@@ -349,7 +347,7 @@ Something strange is happening in Bitcoin. While people debate if Bitcoin matter
 
 📺 The Exit Manual
 
-👁️ 25K • 👍 2K • 💬 353 • ⏱️ 14:53 • 19h ago
+👁️ 25K • 👍 2K • 💬 353 • ⏱️ 14:53 • 20h ago
 
 ---
 
@@ -359,7 +357,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 8K • 👍 572 • 💬 199 • ⏱️ 8:48 • 10h ago
+👁️ 8K • 👍 572 • 💬 199 • ⏱️ 8:48 • 11h ago
 
 ---
 
@@ -369,7 +367,7 @@ Is the Bitcoin pullback finally over, or is this just another setup before the n
 
 📺 Crypto Banter
 
-👁️ 5K • 👍 352 • 💬 8 • ⏱️ 8:12 • 6h ago
+👁️ 5K • 👍 352 • 💬 8 • ⏱️ 8:12 • 7h ago
 
 ---
 
@@ -379,7 +377,7 @@ My Private Group: http://t.me/stackerscircle My Trading Strategies: 1. Sign Up T
 
 📺 Satoshi Stacker
 
-👁️ 6K • 👍 374 • 💬 37 • ⏱️ 12:54 • 4h ago
+👁️ 6K • 👍 374 • 💬 37 • ⏱️ 12:54 • 5h ago
 
 ---
 
