@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-20T10:39:14.637000+00:00'
+updated: '2026-03-20T11:32:59.740095+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- videos
 - news
 - cryptocurrency
-- videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 20, 2026 at 10:39 UTC  
+**Last Updated:** March 20, 2026 at 11:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,925.40
+### $70,722.99
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** -0.8%  
-**30d:** +5.5%  
+**24h:** +1.9%  
+**7d:** -0.7%  
+**30d:** +5.6%  
 **90d:** -20.3%  
 **1y:** -16.0%  
 
@@ -81,7 +81,7 @@ Rank #1
 
 “I was 24 in 2017, fresh out of college, scraping by on ramen and side gigs. A crypto-savvy coworker convinced me to throw my entire savings—about $8,000—into Bitcoin. I ended up with roughly 2.1 BTC at around $3,800 avg. Felt unstoppable. Then 2018 hit: price crashed to $3k, I freaked out thinking it was a scam bubble bursting. Sold every single one to ‘cut losses’ and pay off student loans + buy a used car to get to a better job. Used the cash for real-life adulting. Fast forward: 2021 peak at $69k, I calculated what that would’ve been… over $140k gone. 2022 bear, I tried buying back scraps but could only afford 0.3 BTC. Now in 2026, with BTC way higher, that original stack would’ve been life-changing—house down payment, financial freedom, maybe even quitting the soul-crushing 9-5. Instead I drive the same beat-up car, still renting, and every time I see the price chart I feel physically sick. Worst part? I told my family it was ‘smart’ to sell. They still bring it up as my ‘biggest L.’ What’s your most brutal Bitcoin regret? The one that keeps you up at night? Drop your story—no judgment, just pain-sharing.”
 
-9h ago
+10h ago
 
 ---
 
@@ -89,7 +89,15 @@ Rank #1
 
 The SEC’s interpretation on crypto assets is just the beginning and serves as a bridge while Congress works to advance market structure legislation. Our rules must be clear enough to guide markets, flexible enough to accommodate innovation, and firm enough to protect investors. https://x.com/SECPaulSAtkins/status/2034676128317661351
 
-11h ago
+12h ago
+
+---
+
+**[Holding BTC only strategy](https://www.reddit.com/r/Bitcoin/comments/1ryqf4b/holding_btc_only_strategy/)**
+
+This question is directed at those who exclusively hold Bitcoin. How do you maintain conviction in a BTC-only strategy, and how do you deal with FOMO when altcoins are outperforming? Any tips for us that still have urge to buying altcoin ?
+
+3h ago
 
 ---
 
@@ -103,7 +111,7 @@ The SEC’s interpretation on crypto assets is just the beginning and serves as 
 
 BTQ Technologies has launched the first working BIP 360 implementation on its Bitcoin Quantum testnet, enabling developers to test quantum-resistant Bitcoin transactions in practice.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/btq-deploys-first-bip-360-quantum) • 19h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/btq-deploys-first-bip-360-quantum) • 20h ago
 
 ---
 
@@ -119,13 +127,21 @@ Back in September I got absolutely wrecked with some ridiculous margin trades, l
 
 Payment provider Stripe is launching services targeting crypto businesses for onramps, offramps and KYC. Partners incl FTX crypto exchange
 
-🔗 [Ledger Insights - blockchain for enterprise](https://www.ledgerinsights.com/stripe-launches-payment-services-for-crypto-businesses/) • 6h ago
+🔗 [Ledger Insights - blockchain for enterprise](https://www.ledgerinsights.com/stripe-launches-payment-services-for-crypto-businesses/) • 7h ago
 
 ---
 
-**[Holding BTC only strategy](https://www.reddit.com/r/Bitcoin/comments/1ryqf4b/holding_btc_only_strategy/)**
+**[Hashrate Heated House: The Complete Guide to Heating Your Home with Bitcoin Mining](https://www.reddit.com/r/Bitcoin/comments/1ryqoei/hashrate_heated_house_the_complete_guide_to/)**
 
-This question is directed at those who exclusively hold Bitcoin. How do you maintain conviction in a BTC-only strategy, and how do you deal with FOMO when altcoins are outperforming? Any tips for us that still have urge to buying altcoin ?
+Adam, a QA engineer at Braiins, heats his entire house with a single hydro-cooled bitcoin miner. The system provides floor heating, hot tap water, and earns bitcoin at the same time. It has been running for over a year.
+
+🔗 [braiins.com](https://braiins.com/blog/hashrate-heated-house-bitcoin) • 3h ago
+
+---
+
+**[DCA is the answer](https://www.reddit.com/r/Bitcoin/comments/1ryrkx3/dca_is_the_answer/)**
+
+learnt from experience, dca is just the answer, suit your self! happy stacking
 
 2h ago
 
@@ -139,22 +155,6 @@ This question is directed at those who exclusively hold Bitcoin. How do you main
 
 ---
 
-**[Hashrate Heated House: The Complete Guide to Heating Your Home with Bitcoin Mining](https://www.reddit.com/r/Bitcoin/comments/1ryqoei/hashrate_heated_house_the_complete_guide_to/)**
-
-Adam, a QA engineer at Braiins, heats his entire house with a single hydro-cooled bitcoin miner. The system provides floor heating, hot tap water, and earns bitcoin at the same time. It has been running for over a year.
-
-🔗 [braiins.com](https://braiins.com/blog/hashrate-heated-house-bitcoin) • 2h ago
-
----
-
-**[DCAing 250-400 weekly, whole coin achievable?](https://www.reddit.com/r/Bitcoin/comments/1ry7u44/dcaing_250400_weekly_whole_coin_achievable/)**
-
-A big chunk of my disposable income is going into BTC. I'm in for the long run but just recently got into it. I'm aiming for the .1 in the coming months, I'll keep staking no matter what especially now that the price is low. is the whole coin achievable in the coming years? Edit: stacking not staking lol
-
-16h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -163,21 +163,53 @@ A big chunk of my disposable income is going into BTC. I'm in for the long run b
 
 Oil prices slipped as major economies announced joint efforts to stabilize energy markets.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
-**[Bitcoin, XRP Fall. Crypto Markets Get What They Expected From Fed’s Powell.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-fed-decision-cryptos-powell-e3021a22?gaa_at=eafs&gaa_n=AWEtsqdAgqD7QYFwrTAGm4cPQpuUBnEnynjFly9bG2ybhLBAQ0toabyOwkZh&gaa_ts=69bd19fc&gaa_sig=moQNVBrBwWboGul-Lx7iISRO9CLiuk7UnWMXaSDlCQQvaJJDEm0xG32aHbpPm4aaFFc9jOc5bXti1DMeSgf8FQ%3D%3D)**
+**[Strategy's STRC Is Built on a Flawed Premise. Could It Harm Bitcoin?](https://unchainedcrypto.com/bitcoin-is-in-uncertain-territory-could-strategys-strc-be-the-last-straw/)**
+
+Strategy's STRC preferred stock now funds 75% of the company’s bitcoin purchases. With BTC below cost basis and inflation surging, the machine faces its first real stress test.
+
+unchainedcrypto.com • 16h ago
+
+---
+
+**[Bitcoin Supply in Profits Grow 60% as Altcoin Trading Volume Collapses Further — Is A Breakout Coming?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-supply-profits-grow-60-102209882.html)**
+
+Bitcoin shows early recovery signals, but confirmation is pending, analysts say. Altcoin weakness highlights risk-off sentiment. Market direction hinges on holding key levels. Bitcoin’s recovery ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin consolidates as traders hedge and macro uncertainty lingers: Crypto Markets Today](https://www.coindesk.com/markets/2026/03/20/crypto-market-steadies-as-derivatives-signal-caution-macro-pressure-builds)**
+
+BTC holds near $70,500 as derivatives turn defensive, macro risks weigh on sentiment, and altcoins show pockets of strength.
+
+CoinDesk • 40m ago
+
+---
+
+**[Bitcoin Rallies to $71K as Bessent Mulls Lifting Some Iran Oil Sanctions](https://finance.yahoo.com/markets/crypto/articles/bitcoin-rallies-71k-bessent-mulls-095531649.html)**
+
+Bitcoin bounced Friday as U.S. Treasury Secretary Scott Bessent outlined possible responses to soaring oil prices.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[BTQ Technologies Announces First Deployment of BIP 360 on Bitcoin Quantum Testnet v0.3.0](https://www.prnewswire.com/news-releases/btq-technologies-announces-first-deployment-of-bip-360-on-bitcoin-quantum-testnet-v0-3-0--302718592.html)**
+
+The Bitcoin Quantum testnet provides developers, miners, and researchers with a live environment to evaluate how quantum-resistant Bitcoin transactions...
+
+PR Newswire • 1d ago
+
+---
+
+**[Bitcoin, XRP Fall. Crypto Markets Get What They Expected From Fed’s Powell.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-fed-decision-cryptos-powell-e3021a22?gaa_at=eafs&gaa_n=AWEtsqc_38NVs8U5JJiyRx8VmlcJJmRUwETFBmnxX3FnW35JS7p5CZPQYB4Q&gaa_ts=69bd33d1&gaa_sig=Zvok6nYc5s0cd3Vr_6A4WSAI7Hww89rsPkLiSHJ2jxXQ0CRP5xjbQfDhRrCrg8st8KLOA6vKCdrJbL9X4zgv-A%3D%3D)**
 
 Barron's • 1d ago
-
----
-
-**[Bitcoin OGs dump over $100 million in BTC after hawkish Fed dents rate cut hopes](https://www.coindesk.com/markets/2026/03/19/bitcoin-ogs-dump-over-usd100-million-in-btc-after-hawkish-fed-dents-rate-cut-hopes)**
-
-OGs sell as Fed's hawkish stance on rates pressures crypto and other risk assets.
-
-CoinDesk • 1d ago
 
 ---
 
@@ -189,47 +221,17 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin Has Been Declared Dead 471 Times. Here's What Happened Every Time.](https://www.fool.com/investing/2026/03/20/bitcoin-has-been-declared-dead-471-times-heres-wha/)**
-
-People sure love saying that this coin is going to zero.
-
-The Motley Fool • 2h ago
-
----
-
-**[Bitcoin’s price action looks dangerously similar to the pattern that sent it crashing to $60,000](https://www.coindesk.com/markets/2026/03/20/bitcoin-s-price-action-looks-dangerously-similar-to-the-pattern-that-sent-it-crashing-to-usd60-000)**
-
-The recent price action echoes the November–January pattern, showing weak conviction among the “buy the dip” crowd.
-
-CoinDesk • 3h ago
-
----
-
-**[BTQ Technologies Announces First Deployment of BIP 360 on Bitcoin Quantum Testnet v0.3.0](https://www.prnewswire.com/news-releases/btq-technologies-announces-first-deployment-of-bip-360-on-bitcoin-quantum-testnet-v0-3-0--302718592.html)**
-
-The Bitcoin Quantum testnet provides developers, miners, and researchers with a live environment to evaluate how quantum-resistant Bitcoin transactions...
-
-PR Newswire • 23h ago
-
----
-
-**[Ex-Wife Accused of Stealing £180 Million in Bitcoin After Divorce](https://www.bloomberg.com/news/articles/2026-03-19/ex-wife-accused-of-stealing-180-million-in-bitcoin-after-divorce)**
-
-Bloomberg.com • 1d ago
-
----
-
 **[Bitcoin Price Undercuts $70,000 As Higher-For-Longer Policy Weighs Across Asset](https://www.investors.com/news/bitcoin-price-fall-70k-federal-reserve-rates-oil-prices-iran-cryptocurrency-stocks-sec-nasdaq/)**
 
 Investor's Business Daily • 13h ago
 
 ---
 
-**[Douglas County Sheriff: scammers post fake ads to discredit Bitcoin ATM warning stickers](https://www.wowt.com/2026/03/19/douglas-county-sheriff-scammers-post-fake-ads-discredit-bitcoin-atm-warning-stickers/)**
+**[Morgan Stanley advances bitcoin ETF application with amended S-1 filing](https://www.theblock.co/post/394448/morgan-stanley-amended-s-1-filing)**
 
-Scammers are now posting fake social media ads in an attempt to discredit warning stickers placed on Bitcoin ATM machines across the Omaha metro, according to Douglas County Sheriff Aaron Hanson.
+The amendment confirmed that the Morgan Stanley Bitcoin Trust will list on the NYSE Arca under the ticker symbol MSBT.
 
-WOWT • 1d ago
+The Block • 9h ago
 
 ---
 
@@ -285,7 +287,7 @@ A classic case of the bear market blues for Bitcoin. Into The Cryptoverse Premiu
 
 📺 Benjamin Cowen
 
-👁️ 18K • 👍 2K • 💬 95 • ⏱️ 11:38 • 6h ago
+👁️ 18K • 👍 2K • 💬 95 • ⏱️ 11:38 • 7h ago
 
 ---
 
@@ -295,7 +297,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 976 • 💬 193 • ⏱️ 41:39 • 20h ago
+👁️ 19K • 👍 976 • 💬 193 • ⏱️ 41:39 • 21h ago
 
 ---
 
@@ -325,7 +327,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS BTCC: https://themoon
 
 📺 The Moon Show
 
-👁️ 9K • 👍 557 • 💬 95 • ⏱️ 5:50 • 22h ago
+👁️ 9K • 👍 557 • 💬 95 • ⏱️ 5:50 • 23h ago
 
 ---
 
@@ -335,7 +337,7 @@ Something strange is happening in Bitcoin. While people debate if Bitcoin matter
 
 📺 The Exit Manual
 
-👁️ 21K • 👍 2K • 💬 302 • ⏱️ 14:53 • 14h ago
+👁️ 21K • 👍 2K • 💬 302 • ⏱️ 14:53 • 15h ago
 
 ---
 
@@ -345,7 +347,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 130 • 💬 5 • ⏱️ 18:54 • 17h ago
+👁️ 3K • 👍 130 • 💬 5 • ⏱️ 18:54 • 18h ago
 
 ---
 
@@ -365,7 +367,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 5K • 👍 435 • 💬 213 • ⏱️ 8:48 • 5h ago
+👁️ 5K • 👍 435 • 💬 213 • ⏱️ 8:48 • 6h ago
 
 ---
 
@@ -375,7 +377,7 @@ Binance Self-Referral Guide: Get Up to 50% Trading Fee Rebate + $600 Welcome Bon
 
 📺 바이낸스 셀퍼럴 가입방법
 
-👁️ 325 • 💬 1 • ⏱️ 5:18 • 2h ago
+👁️ 325 • 💬 1 • ⏱️ 5:18 • 3h ago
 
 ---
 

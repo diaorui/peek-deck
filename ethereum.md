@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-20T10:39:14.642976+00:00'
+updated: '2026-03-20T11:32:59.746057+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- videos
 - news
 - cryptocurrency
-- videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 20, 2026 at 10:39 UTC  
+**Last Updated:** March 20, 2026 at 11:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.4%  
-**7d:** +2.2%  
-**30d:** +10.0%  
-**90d:** -28.6%  
-**1y:** +9.1%  
+**24h:** +0.8%  
+**7d:** +2.6%  
+**30d:** +10.4%  
+**90d:** -28.3%  
+**1y:** +9.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everybody, I've been building a no code visual smart contract builder for solidity to help non-developers realize their ideas without having to learn solidity. While doing that, as a dog food experiment, I created a block explorer which uses the visualizations against verified contracts so I could test better. At some point I realized that would make a pretty cool tool for a lot of people since I'm able to surface things that most block explorers don't: being able to replay a transaction and follow what's happening on the visual graph displaying various attributes about a contract like whether it's pausible, has only owner functions, etc showing debug info about every step that happened in the contract There's probably a lot more that I could do there and I'm looking to source ideas from the community about what should be added. It'd be great if y'all could take a look and see if there's anything obvious that I'm missing https://doodledapp.com/explorer Thanks!
 
-11h ago
+12h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Seen some past posts that people had lost their wallets and this might help those people! If you created a wallet with CoinSpace (now Coin Wallet) around early 2021 and your seed phrase generates a completely different address in MetaMask or any standard tool... you're not crazy. The software had a bug. CoinSpace v3.0.7 (and maybe other versions) incorrectly derived wallet addresses from your seed phrase due to two compounding errors in the code. Your seed phrase can be recovered - but not using it directly. the app just used a broken algorithm to turn it into an address, one that no standard wallet tool replicates. CoinWallet is aware of part of the issue and will point you to a derivation path fix if you report it, but that fix alone doesn't work. The recovery script in the repo handles it correctly. I hit this when I needed to recover 1.55 ETH from a wallet I created in Feb 2021. After weeks of forensics I found the bug and wrote a recovery script. Recovery script: https://github.com/RobMulla/coinspace-eth-recovery Full long writeup about my journey: https://robmulla.substack.com/p/how-my-sons-roblox-mod-helped-me If you're affected, and this works for you please let me know! Or if you knew about this already... I'm curious to know if I'm not the only one.
 
-19h ago
+20h ago
 
 ---
 
@@ -164,17 +164,35 @@ Decrypt • 1d ago
 
 ---
 
+**[Will Ethereum Ever Hit $5,000?](https://www.fool.com/investing/2026/03/20/will-ethereum-ever-hit-5000/)**
+
+Ethereum hit a new record high in 2025, but it still fell short of the $5,000 milestone.
+
+The Motley Fool • 8m ago
+
+---
+
 **[XRP vs Bitcoin vs Ethereum: ChatGPT Predicts Which Crypto Is Best for 2026](https://finance.yahoo.com/markets/crypto/articles/xrp-vs-bitcoin-vs-ethereum-132035939.html)**
 
 Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and XRP (CRYPTO: XRP) have all crashed between 40% and 60% from their 2025 highs. As the entire market gears towards a recovery, investors want to know which of Bitcoin, XRP, or Ethereum is the best crypto to invest in this year? To keep things fair, we asked ChatGPT ... XRP vs Bitcoin vs Ethereum: ChatGPT Predicts Which Crypto Is Best for 2026
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
-**[BitMine Stock Drops 8% as Ethereum Pullback, High Costs, and Hawkish Fed Weigh on Investors](https://www.tipranks.com/news/bitmine-stock-drops-8-as-ethereum-pullback-high-costs-and-hawkish-fed-weigh-on-investors)**
+**[This is the latest sign of a quiet crypto revolution](https://nypost.com/2026/03/20/business/blackrock-launches-ethereum-exchange-traded-fund/)**
 
-TipRanks • 1d ago
+“Ethereum, to me, is really gonna be where Wall Street meets crypto,” a source told NYNext.
+
+New York Post • 1h ago
+
+---
+
+**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1774002600)**
+
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 1d ago
 
 ---
 
@@ -182,15 +200,7 @@ TipRanks • 1d ago
 
 Ethereum has slipped into a valuation range that some on-chain analysts associate with major long-term bottoms, after ETH fell below its realized price for the first time in two years. Via X, renowned crypto analyst Ali Martinez argued on Thursday the setup now resembles prior cycle lows.Ethereum D…
 
-TradingView • 6h ago
-
----
-
-**[Ethereum above ___ on March 20, 1AM ET? Trading Odds & Predictions](https://polymarket.com/event/ethereum-above-on-march-20-2026-1am-et)**
-
-Ethereum above ___ on March 20, 1AM ET? (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 5h ago
+TradingView • 7h ago
 
 ---
 
@@ -198,7 +208,15 @@ Polymarket • 5h ago
 
 MAJURO, Marshall Islands, March  19, 2026  (GLOBE NEWSWIRE) -- Remittix has raised $29.7 million in its final presale stage with $30 million withi...
 
-markets.businessinsider.com • 16h ago
+markets.businessinsider.com • 17h ago
+
+---
+
+**[Current price of Ethereum for March 19, 2026](https://fortune.com/article/price-of-ethereum-03-19-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 20h ago
 
 ---
 
@@ -207,20 +225,6 @@ markets.businessinsider.com • 16h ago
 Vitalik Buterin said that the 'lean Ethereum' plan was the only way to get faster speed and security without trade-offs.
 
 AMBCrypto • 1d ago
-
----
-
-**[Current price of Ethereum for March 19, 2026](https://fortune.com/article/price-of-ethereum-03-19-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 19h ago
-
----
-
-**[Ethereum Price Holds Near $2,130 After Fed Message Cools Rebound Hopes](https://seekingalpha.com/article/4884267-ethereum-price-holds-near-2130-after-fed-message-cools-rebound-hopes)**
-
-Seeking Alpha • 15h ago
 
 ---
 
@@ -242,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 EllioTrades
 
-👁️ 8K • 👍 186 • 💬 61 • ⏱️ 1:07 • 20h ago
+👁️ 8K • 👍 186 • 💬 61 • ⏱️ 1:07 • 21h ago
 
 ---
 
@@ -252,7 +256,7 @@ BITCOIN BEARISH TARGET HIT (this is next)!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 5K • 👍 229 • 💬 150 • ⏱️ 18:32 • 10h ago
+👁️ 5K • 👍 229 • 💬 150 • ⏱️ 18:32 • 11h ago
 
 ---
 
@@ -262,7 +266,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 627 • 💬 72 • ⏱️ 12:10 • 4h ago
+👁️ 2K • 👍 627 • 💬 72 • ⏱️ 12:10 • 5h ago
 
 ---
 
@@ -272,7 +276,7 @@ BMNR has been increasing their pace of ETH purchase and stacking cash over the l
 
 📺 Elijah Cheng
 
-👁️ 3K • 👍 109 • 💬 23 • ⏱️ 33:20 • 20h ago
+👁️ 3K • 👍 109 • 💬 23 • ⏱️ 33:20 • 21h ago
 
 ---
 
@@ -302,7 +306,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 133 • 👍 14 • 💬 5 • ⏱️ 8:24 • 19h ago
+👁️ 133 • 👍 14 • 💬 5 • ⏱️ 8:24 • 20h ago
 
 ---
 
@@ -312,7 +316,7 @@ Canton is the first privacy-enabled open blockchain network, ensuring limitless 
 
 📺 Paul Barron Network
 
-👁️ 24K • 👍 2K • 💬 920 • ⏱️ 30:27 • 14h ago
+👁️ 24K • 👍 2K • 💬 920 • ⏱️ 30:27 • 15h ago
 
 ---
 
