@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-20T22:30:35.795854+00:00'
+updated: '2026-03-20T22:58:40.957122+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 20, 2026 at 22:30 UTC  
+**Last Updated:** March 20, 2026 at 22:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $257.04B
+**Market Cap:** $260.27B
 Rank #2
 
 **Circulating Supply:** 120,691,772 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.0%
+-56.4%
 
 **All-Time Low:** $0.43
-+490595.9%
++497889.5%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’m looking for a way to swap my Bitcoin to Ethereum without KYC, so obviously i found thorchain, but unfortunately it’s not available here in the U.S, and i heard it’s very expensive as well. Where should I do it you think? sorry if this question was already asked in past but i couldnt find an answer after bit lf time checking.
 
-44m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ I’m looking for a way to swap my Bitcoin to Ethereum without KYC, so obviously
 
 Hey everybody, I've been building a no code visual smart contract builder for solidity to help non-developers realize their ideas without having to learn solidity. While doing that, as a dog food experiment, I created a block explorer which uses the visualizations against verified contracts so I could test better. At some point I realized that would make a pretty cool tool for a lot of people since I'm able to surface things that most block explorers don't: being able to replay a transaction and follow what's happening on the visual graph displaying various attributes about a contract like whether it's pausible, has only owner functions, etc showing debug info about every step that happened in the contract There's probably a lot more that I could do there and I'm looking to source ideas from the community about what should be added. It'd be great if y'all could take a look and see if there's anything obvious that I'm missing https://doodledapp.com/explorer Thanks!
 
-23h ago
+1d ago
 
 ---
 
@@ -112,7 +112,7 @@ Seen some past posts that people had lost their wallets and this might help thos
 
 The top priority is safety and security. The coins to be stored are ETH and USDC (can also be 2 separate wallets for each, I dont mind that). They are to be used for long-term. The wallet will be installed on a external drive which is then removed and stored securely. Wallet is not installed on the computer itself. What are your best recommendations? PS: Yes, I know! Usually people recommend hardware wallets... but I think they are still risky because you put all your trust in just one single company, and sometimes they can do stupid stuff, for example as we've seen some stories with Ledger and their multiple data leaks. I personally feel more comfrotable with a software one, as long as it's safe and secure.
 
-1d ago
+2d ago
 
 ---
 
@@ -160,7 +160,7 @@ Benzinga • 2d ago
 
 Citigroup (NYSE:C) has cut its targets for Bitcoin and Ethereum for this year, according to media reports. The investment bank reportedly expects Bitcoin and Ethereum to reach $112,000 and $3,175 this year. The targets are lower than the bank’s initial...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -198,7 +198,7 @@ Decrypt • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 9h ago
 
 ---
 
@@ -228,13 +228,23 @@ TipRanks • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=2uI2vtUxypk)**
+**[LIVE: Tom Lee on BitMine Makes Massive Ethereum Move! This Speech Is a Game Changer for ETH Holders!](https://www.youtube.com/watch?v=PpzATcVZxSU)**
+
+Join Tom Lee for his groundbreaking keynote at the Ethereum Conference. Tom Lee, one of Wall Street's most renowned macro ...
+
+📺 SALINDA 797
+
+👁️ 3K • 👍 1K • 22m ago
+
+---
+
+**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=mVQQUhWJgSY)**
 
 ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
 
-📺 Max Green
+📺 Hap Palmer
 
-👁️ 188 • 👍 1K • 2h ago
+👁️ 5K • 👍 2K • 1h ago
 
 ---
 
@@ -244,7 +254,7 @@ Ethereum is showing strong bullish signals, with analysts predicting a major reb
 
 📺 Crypto Sensei
 
-👁️ 4K • 👍 404 • 💬 47 • ⏱️ 12:42 • 8h ago
+👁️ 5K • 👍 424 • 💬 50 • ⏱️ 12:42 • 9h ago
 
 ---
 
@@ -254,17 +264,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 246 • 💬 23 • ⏱️ 19:43 • 6h ago
+👁️ 6K • 👍 305 • 💬 40 • ⏱️ 19:43 • 7h ago
 
 ---
 
-**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=i5Vep_p33eE)**
+**[LIVE: Tom Lee on BitMine Makes Massive Ethereum Move! This Speech Is a Game Changer for ETH Holders!](https://www.youtube.com/watch?v=lgrzRKnmXJU)**
 
-ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
+Join Tom Lee for his groundbreaking keynote at the Ethereum Conference. Tom Lee, one of Wall Street's most renowned macro ...
 
-📺 Gershon Rebong
+📺 Anjum Reviews
 
-👁️ 106 • 👍 1K • 3h ago
+👁️ 1K • 👍 1K • 5m ago
+
+---
+
+**[LIVE: Tom Lee on BitMine Makes Massive Ethereum Move! This Speech Is a Game Changer for ETH Holders!](https://www.youtube.com/watch?v=NVQ8NmnocBk)**
+
+Join Tom Lee for his groundbreaking keynote at the Ethereum Conference. Tom Lee, one of Wall Street's most renowned macro ...
+
+📺 pak pik puk
+
+👁️ 3K • 👍 1K • 18m ago
 
 ---
 
@@ -274,7 +294,7 @@ BITCOIN & ALTCOIN WARNING: Price Targets Exposed!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 1K • 👍 105 • 💬 121 • ⏱️ 16:50 • 3h ago
+👁️ 3K • 👍 163 • 💬 255 • ⏱️ 16:50 • 4h ago
 
 ---
 
@@ -284,7 +304,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 90 • 💬 5 • ⏱️ 4:30 • 8h ago
+👁️ 1K • 👍 94 • 💬 5 • ⏱️ 4:30 • 8h ago
 
 ---
 
@@ -292,7 +312,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 EllioTrades
 
-👁️ 9K • 👍 211 • 💬 38 • ⏱️ 1:07 • 1d ago
+👁️ 9K • 👍 215 • 💬 38 • ⏱️ 1:07 • 1d ago
 
 ---
 
@@ -302,27 +322,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 184 • 👍 8 • 💬 2 • ⏱️ 4:56 • 12h ago
-
----
-
-**[Canton Chain Better Than XRP, Solana, &amp; Ethereum?🔥Yuval Rooz INTERVIEW](https://www.youtube.com/watch?v=e2058fi-vYw)**
-
-Canton is the first privacy-enabled open blockchain network, ensuring limitless connections that preserve privacy. Is it worthy of ...
-
-📺 Paul Barron Network
-
-👁️ 30K • 👍 2K • 💬 1K • ⏱️ 30:27 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=GKJQ7IbJmZQ)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 140 • 💬 4 • ⏱️ 4:29 • 1d ago
+👁️ 185 • 👍 8 • 💬 2 • ⏱️ 4:56 • 13h ago
 
 ---
 

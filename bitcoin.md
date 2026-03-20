@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-20T22:30:35.789863+00:00'
+updated: '2026-03-20T22:58:40.951207+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 20, 2026 at 22:30 UTC  
+**Last Updated:** March 20, 2026 at 22:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1399.22B
+**Market Cap:** $1415.95B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--44.6%
+-43.9%
 
 **All-Time Low:** $67.81
-+102902.5%
++104299.1%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Abra Financial Holdings, Inc. CEO
 
-8h ago
+9h ago
 
 ---
 
@@ -89,7 +89,7 @@ Abra Financial Holdings, Inc. CEO
 
 North Carolina is moving to become one of the first states to officially hold Bitcoin as part of its treasury reserves. The bill (HB 92) would allow the state treasurer to invest up to 10% of certain public funds in Bitcoin. These reserves typically consist of US Treasury bonds
 
-8h ago
+9h ago
 
 ---
 
@@ -105,7 +105,7 @@ Hey all, i made mistake a long time ago when BTC price was 17.000€ and I wante
 
 Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Alden's book called Broken Money and read it.
 
-8m ago
+36m ago
 
 ---
 
@@ -121,7 +121,7 @@ Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Al
 
 Is anybody else impressed by the stability of the price in the last month considering the state of the world? If the cycle is real (it's mostly followed it, what, 4 times now? Not exactly a substantial amount of data points... but it is a pattern nonetheless) then it's mildly interesting that it hasn't dropped further faster... yet. And considering the conflicts/wars and the state of the market and oil prices, and gold falling... yet through all this in the past month it has been steady around 70k plus or minus a bit. Maybe all this was "priced in" from before the last month, but if that were the case, amid the bear period of the "4 year cycle" AND the war, I'd have expected the "price in" to be more damaging. Just some commute-thoughts I had... open for discussion.
 
-9h ago
+10h ago
 
 ---
 
@@ -137,7 +137,7 @@ This question is directed at those who exclusively hold Bitcoin. How do you main
 
 Back in September I got absolutely wrecked with some ridiculous margin trades, lost a massive chunk of change No point crying over spilled milk though right Strategy now is simple - just keep stacking sats through regular buys and forget about it Bitcoin crashing? mate I'm loving every minute of it, more coins for less cash so I'm cranking up my daily buys These prices are a gift if you ask me
 
-15h ago
+16h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 1d ago
 
 Oil prices slipped as major economies announced joint efforts to stabilize energy markets.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -205,7 +205,7 @@ Decrypt • 1d ago
 
 Citigroup (NYSE:C) has cut its targets for Bitcoin and Ethereum for this year, according to media reports. The investment bank reportedly expects Bitcoin and Ethereum to reach $112,000 and $3,175 this year. The targets are lower than the bank’s initial...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -213,7 +213,7 @@ Yahoo Finance • 2h ago
 
 Bitcoin's volatility has subsided over the last month, but traders are still paying a premium for downside protection, VanEck said.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -285,7 +285,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 **[BioContact assurance and status monitoring using human body communication](https://news.ycombinator.com/item?id=47459528)**
 
-⬆️ 1 • 💬 0 • 2h ago • [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2590123025045001)
+⬆️ 1 • 💬 0 • 3h ago • [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2590123025045001)
 
 ---
 
@@ -293,13 +293,13 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 ## YouTube Videos: "bitcoin"
 
-**[$180 This Number Will Predict What Happens To Bitcoin In 2026](https://www.youtube.com/watch?v=NzRhDsEmNd8)**
+**[NEW REPORT EXPOSES The $71 Trillion Secret Behind Bitcoin’s Next Move | EP 1465](https://www.youtube.com/watch?v=aC9XCqNsHYQ)**
 
-Iran, Saudi Warning on oil, QQQ, Tesla, Bitcoin, Solana, and more! BITUNIX TRADE THE TOP COINS (available everywhere) ...
+New report exposes institutions have only just begun dipping their toes into bitcoin and 2026 is the year they make big moves .
 
-📺 Lark Davis
+📺 Simply Bitcoin
 
-👁️ 11K • 👍 612 • 💬 60 • ⏱️ 13:46 • 12h ago
+👁️ 4K • 👍 240 • 💬 32 • ⏱️ 1:30:42 • 3h ago
 
 ---
 
@@ -309,17 +309,17 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 10K • 👍 568 • 💬 34 • ⏱️ 5:05 • 13h ago
+👁️ 10K • 👍 593 • 💬 34 • ⏱️ 5:05 • 14h ago
 
 ---
 
-**[Bitcoin: The Bear Market Blues](https://www.youtube.com/watch?v=jiehja20gFE)**
+**[$180 This Number Will Predict What Happens To Bitcoin In 2026](https://www.youtube.com/watch?v=NzRhDsEmNd8)**
 
-A classic case of the bear market blues for Bitcoin. Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries: ...
+Iran, Saudi Warning on oil, QQQ, Tesla, Bitcoin, Solana, and more! BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Benjamin Cowen
+📺 Lark Davis
 
-👁️ 46K • 👍 3K • 💬 173 • ⏱️ 11:38 • 18h ago
+👁️ 12K • 👍 643 • 💬 76 • ⏱️ 13:46 • 12h ago
 
 ---
 
@@ -329,67 +329,67 @@ Bill Barhydt is the founder and CEO of Abra and a longtime leader in digital ass
 
 📺 Anthony Pompliano
 
-👁️ 26K • 👍 990 • 💬 27 • ⏱️ 37:41 • 2d ago
+👁️ 27K • 👍 1K • 💬 27 • ⏱️ 37:41 • 2d ago
 
 ---
 
-**[BITCOIN: STOCKS COLLAPSING SO FAST.... ENERGY CRISIS 👀👀](https://www.youtube.com/watch?v=3WlNn36wtxc)**
+**[Were 4M Companies Just Forced to Use Bitcoin? (Full Report) | EP 1464](https://www.youtube.com/watch?v=FSmCFA6znUA)**
 
-FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
+Bitcoin as money just got a huge win.
 
-📺 Ivan on Tech
+📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 45 • ⏱️ 49:42 • 11h ago
-
----
-
-**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=oLe9g3xDINk)**
-
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
-
-📺 Mahroof Sharif
-
-👁️ 1K • 2h ago
+👁️ 9K • 👍 495 • 💬 50 • ⏱️ 1:14:28 • 1d ago
 
 ---
 
-**[Plan B Just SHOCKED The Crypto World — The Truth About This &quot;Crash&quot;](https://www.youtube.com/watch?v=LlXhpJtfx3Q)**
+**[Bitcoin: The Bear Market Blues](https://www.youtube.com/watch?v=jiehja20gFE)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+A classic case of the bear market blues for Bitcoin. Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries: ...
 
-📺 Savvy Finance
+📺 Benjamin Cowen
 
-👁️ 4K • 👍 168 • 💬 7 • ⏱️ 18:54 • 1d ago
-
----
-
-**[ 🚨 SHOCKING Bitcoin Chart Prediction: REAL Bull Run &amp; Altseason STARTS in 2028 (Institutions BUYING)](https://www.youtube.com/watch?v=rIXo6Grvcwo)**
-
-CRAZY CRYPTO BULLRUN TO START 2028! INSTITUTIONAL INVESTORS ARE LOADING UP NOW Hey babes, I just took a ...
-
-📺 CryptoWendyO
-
-👁️ 5K • 👍 255 • 💬 45 • ⏱️ 3:56 • 2d ago
+👁️ 49K • 👍 3K • 💬 183 • ⏱️ 11:38 • 18h ago
 
 ---
 
-**[Pentagon Wants $200B…What This Means for Bitcoin](https://www.youtube.com/watch?v=_cI0RDe1gjo)**
+**[Crypto Holders Can’t Believe.. It’s Actually Happening](https://www.youtube.com/watch?v=coGc_pNFCQU)**
 
-Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
+0% Fees on Gold And Silver (Earn $300k): https://www.weex.com/events/promo/0fees-gold-silver-300k?vipCode=oz5p ...
 
-📺 CryptosRUs
+📺 Altcoin Daily
 
-👁️ 19K • 👍 989 • 💬 115 • ⏱️ 41:39 • 1d ago
+👁️ 37K • 👍 2K • 💬 125 • ⏱️ 9:25 • 2d ago
 
 ---
 
-**[Bitcoin Could Go As High As...And Still Be Bearish](https://www.youtube.com/watch?v=C8YTsp-T9Uk)**
+**[Why is President Trump Buying Bitcoin? @1MarkMoss  #bitcoin  #crypto #finance](https://www.youtube.com/watch?v=JX_OSxElGM4)**
+
+Connect with Rich on Instagram: @rich_somers Interested in investing with Somers Capital? Visit www.somerscapital.com/invest ...
+
+📺 Rich Somers
+
+👁️ 27K • 👍 384 • 💬 17 • ⏱️ 0:41 • 2d ago
+
+---
+
+**[Bitcoin to $35 TRILLION? He&#39;s dead serious 💀](https://www.youtube.com/watch?v=Wl3GNK7iAiI)**
+
+Crypto is about to get LEGIT CRAZY $30k Bonus Sign Up For WEEX: https://www.weex.com/events/promo/spot-event20?
+
+📺 Altcoin Daily
+
+👁️ 16K • 👍 425 • 💬 131 • ⏱️ 1:14 • 2d ago
+
+---
+
+**[The Emotions That Can Form In The Bear Market (Charts Shown: BTC Year-To-Date ROI, BTC/USD)](https://www.youtube.com/watch?v=SvF3bYSNiVA)**
 
 Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse Newsletter: ...
 
 📺 Benjamin Cowen
 
-👁️ 33K • 👍 518 • 💬 20 • ⏱️ 0:22 • 2d ago
+👁️ 1K • 👍 47 • ⏱️ 0:53 • 49m ago
 
 ---
 
