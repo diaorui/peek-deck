@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-20T18:01:14.905277+00:00'
+updated: '2026-03-20T19:12:20.397322+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
 - cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 20, 2026 at 18:01 UTC  
+**Last Updated:** March 20, 2026 at 19:12 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,120.42
+### $2,127.19
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +1.9%  
-**30d:** +9.7%  
-**90d:** -28.8%  
-**1y:** +8.8%  
+**24h:** -1.1%  
+**7d:** +1.2%  
+**30d:** +8.9%  
+**90d:** -29.3%  
+**1y:** +8.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everybody, I've been building a no code visual smart contract builder for solidity to help non-developers realize their ideas without having to learn solidity. While doing that, as a dog food experiment, I created a block explorer which uses the visualizations against verified contracts so I could test better. At some point I realized that would make a pretty cool tool for a lot of people since I'm able to surface things that most block explorers don't: being able to replay a transaction and follow what's happening on the visual graph displaying various attributes about a contract like whether it's pausible, has only owner functions, etc showing debug info about every step that happened in the contract There's probably a lot more that I could do there and I'm looking to source ideas from the community about what should be added. It'd be great if y'all could take a look and see if there's anything obvious that I'm missing https://doodledapp.com/explorer Thanks!
 
-19h ago
+20h ago
 
 ---
 
@@ -112,7 +112,7 @@ The top priority is safety and security. The coins to be stored are ETH and USDC
 
 I'm traveling next month across a few different countries and really want to spend some of my gains without off-ramping to fiat and dealing with my bank's absolute BS regarding foreign transaction fees. I used to use the Binance card heavily but, well, you know how that ended for a lot of regions. I saw BitMart has a card out now with their 8th anniversary promotions, and Coinbase obviously has their established one. Has anyone used the BitMart card specifically in Europe or Southeast Asia? I'm mainly looking for decent conversion spreads at the point of sale and no hidden monthly maintenance fees
 
-1d ago
+2d ago
 
 ---
 
@@ -156,9 +156,17 @@ Benzinga • 2d ago
 
 ---
 
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqd1drm4wAl3TwnIBqC2zneLkKmHy53lRicgh-C3bTvNLVncwip58aCn&gaa_ts=69bd82c3&gaa_sig=XVrWYbK2-ub9TShpAj82ETotHHYF-EhRkFkFFFwReLIV5Mb5sHXqSvxWtK5-sZErk6yZ0PBm-ApVa9JZ2j1hgg%3D%3D)**
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqdkZEN64Cu25-0wL3iuzm8q3bT-yoi1W-fqLuvYP1MIME3aenpfAYM0&gaa_ts=69bd9f79&gaa_sig=m0frapYyotJOU6Kaol4mMeS_IzVVmrju38wjwMJc_u1loFwk2QzYAc6offwQfGzZEIaisPv7_pONZJb8zYgIMg%3D%3D)**
 
-MarketWatch • 4h ago
+MarketWatch • 5h ago
+
+---
+
+**[This is the latest sign of a quiet crypto revolution](https://nypost.com/2026/03/20/business/blackrock-launches-ethereum-exchange-traded-fund/)**
+
+“Ethereum, to me, is really gonna be where Wall Street meets crypto,” a source told NYNext.
+
+New York Post • 8h ago
 
 ---
 
@@ -178,11 +186,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[This is the latest sign of a quiet crypto revolution](https://nypost.com/2026/03/20/business/blackrock-launches-ethereum-exchange-traded-fund/)**
+**[BlackRock Staked Ethereum Fund Tops $250 Million in Its First Week](https://decrypt.co/361719/blackrock-staked-ethereum-fund-tops-250-million-in-its-first-week)**
 
-“Ethereum, to me, is really gonna be where Wall Street meets crypto,” a source told NYNext.
+BlackRock's iShares Staked Ethereum Trust (ETHB) has hit $254 million in assets under management just one week after launch.
 
-New York Post • 7h ago
+Decrypt • 1d ago
+
+---
+
+**[Current price of Ethereum for March 20, 2026](https://fortune.com/article/price-of-ethereum-03-20-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 5h ago
 
 ---
 
@@ -196,31 +212,15 @@ Polymarket • 1d ago
 
 **[Ethereum Price Bottom Has Hit, Tom Lee Claims Again — Three Reasons He Says It's Heading Higher](https://www.ccn.com/news/crypto/ethereum-price-bottom-hit-tom-lee-claims-again-three-reasons/)**
 
-CCN.com • 6h ago
+CCN.com • 7h ago
 
 ---
 
-**[Current price of Ethereum for March 20, 2026](https://fortune.com/article/price-of-ethereum-03-20-2026/)**
+**[Ethereum Hits Rare MVRV Zone Linked To Past 130%+ Rallies](https://www.tradingview.com/news/newsbtc:8c273c694094b:0-ethereum-hits-rare-mvrv-zone-linked-to-past-130-rallies/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Ethereum has slipped into a valuation range that some on-chain analysts associate with major long-term bottoms, after ETH fell below its realized price for the first time in two years. Via X, renowned crypto analyst Ali Martinez argued on Thursday the setup now resembles prior cycle lows.Ethereum D…
 
-Fortune • 4h ago
-
----
-
-**[BlackRock Staked Ethereum Fund Tops $250 Million in Its First Week](https://decrypt.co/361719/blackrock-staked-ethereum-fund-tops-250-million-in-its-first-week)**
-
-BlackRock's iShares Staked Ethereum Trust (ETHB) has hit $254 million in assets under management just one week after launch.
-
-Decrypt • 23h ago
-
----
-
-**[Will Ethereum Ever Hit $5,000?](https://www.fool.com/investing/2026/03/20/will-ethereum-ever-hit-5000/)**
-
-Ethereum hit a new record high in 2025, but it still fell short of the $5,000 milestone.
-
-The Motley Fool • 6h ago
+TradingView • 15h ago
 
 ---
 
@@ -234,7 +234,7 @@ Ethereum is showing strong bullish signals, with analysts predicting a major reb
 
 📺 Crypto Sensei
 
-👁️ 3K • 👍 360 • 💬 40 • ⏱️ 12:42 • 4h ago
+👁️ 3K • 👍 360 • 💬 40 • ⏱️ 12:42 • 5h ago
 
 ---
 
@@ -244,7 +244,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 1K • 👍 129 • 💬 15 • ⏱️ 19:43 • 2h ago
+👁️ 1K • 👍 129 • 💬 15 • ⏱️ 19:43 • 3h ago
 
 ---
 
@@ -254,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 741 • 👍 82 • 💬 5 • ⏱️ 4:30 • 3h ago
+👁️ 741 • 👍 82 • 💬 5 • ⏱️ 4:30 • 5h ago
 
 ---
 
@@ -272,7 +272,7 @@ Canton is the first privacy-enabled open blockchain network, ensuring limitless 
 
 📺 Paul Barron Network
 
-👁️ 28K • 👍 2K • 💬 1K • ⏱️ 30:27 • 21h ago
+👁️ 28K • 👍 2K • 💬 1K • ⏱️ 30:27 • 22h ago
 
 ---
 
@@ -282,7 +282,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 146 • 👍 8 • 💬 2 • ⏱️ 4:56 • 8h ago
+👁️ 146 • 👍 8 • 💬 2 • ⏱️ 4:56 • 9h ago
 
 ---
 
@@ -292,7 +292,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 140 • 💬 4 • ⏱️ 4:29 • 22h ago
+👁️ 2K • 👍 140 • 💬 4 • ⏱️ 4:29 • 23h ago
 
 ---
 
@@ -312,7 +312,7 @@ BITCOIN BEARISH TARGET HIT (this is next)!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 7K • 👍 263 • 💬 131 • ⏱️ 18:32 • 18h ago
+👁️ 7K • 👍 263 • 💬 131 • ⏱️ 18:32 • 19h ago
 
 ---
 
@@ -322,7 +322,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 4K • 👍 728 • 💬 92 • ⏱️ 12:10 • 11h ago
+👁️ 4K • 👍 728 • 💬 92 • ⏱️ 12:10 • 12h ago
 
 ---
 
