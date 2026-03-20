@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-20T07:49:47.595910+00:00'
+updated: '2026-03-20T08:42:15.885139+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 20, 2026 at 07:49 UTC  
+**Last Updated:** March 20, 2026 at 08:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,156.39
+### $2,168.43
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
-**7d:** +1.7%  
-**30d:** +9.5%  
-**90d:** -28.9%  
-**1y:** +8.6%  
+**24h:** -1.0%  
+**7d:** +3.2%  
+**30d:** +11.1%  
+**90d:** -27.9%  
+**1y:** +10.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Seen some past posts that people had lost their wallets and this might help those people! If you created a wallet with CoinSpace (now Coin Wallet) around early 2021 and your seed phrase generates a completely different address in MetaMask or any standard tool... you're not crazy. The software had a bug. CoinSpace v3.0.7 (and maybe other versions) incorrectly derived wallet addresses from your seed phrase due to two compounding errors in the code. Your seed phrase can be recovered - but not using it directly. the app just used a broken algorithm to turn it into an address, one that no standard wallet tool replicates. CoinWallet is aware of part of the issue and will point you to a derivation path fix if you report it, but that fix alone doesn't work. The recovery script in the repo handles it correctly. I hit this when I needed to recover 1.55 ETH from a wallet I created in Feb 2021. After weeks of forensics I found the bug and wrote a recovery script. Recovery script: https://github.com/RobMulla/coinspace-eth-recovery Full long writeup about my journey: https://robmulla.substack.com/p/how-my-sons-roblox-mod-helped-me If you're affected, and this works for you please let me know! Or if you knew about this already... I'm curious to know if I'm not the only one.
 
-16h ago
+17h ago
 
 ---
 
@@ -148,11 +148,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Whale investor buys $111 million worth of Ethereum one year after selling: onchain data](https://www.theblock.co/post/394263/whale-investor-buys-111-million-ethereum)**
+**[Europe’s largest asset manager Amundi debuts $100 million tokenized fund on Ethereum, Stellar](https://www.theblock.co/post/394348/europes-largest-asset-manager-amundi-debuts-100-million-tokenized-fund-on-ethereum-stellar)**
 
-A whale trader has reportedly bought 50,706 ETH with 111.62 million USDT on Wednesday, after selling holdings a year earlier.
+Amundi launched the $100 million Spiko Amundi Overnight Swap Fund on Ethereum and Stellar with Chainlink support.
 
-The Block • 1d ago
+The Block • 18h ago
 
 ---
 
@@ -164,19 +164,33 @@ Decrypt • 1d ago
 
 ---
 
-**[Crypto News: Pepeto Reveils Bridge Solves Ethereum Crisis While XRP Price Prediction Targets $150 and Whale Wallets Move In](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-reveils-bridge-solves-ethereum-crisis-while-xrp-price-prediction-targets-150-and-whale-wallets-move-in-1035948265)**
-
-Dubai, UAE, March  19, 2026  (GLOBE NEWSWIRE) -- Pepeto's latest presale stage sold out ahead of schedule after the team dropped a major bridge up...
-
-markets.businessinsider.com • 4h ago
-
----
-
 **[XRP vs Bitcoin vs Ethereum: ChatGPT Predicts Which Crypto Is Best for 2026](https://finance.yahoo.com/markets/crypto/articles/xrp-vs-bitcoin-vs-ethereum-132035939.html)**
 
 Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and XRP (CRYPTO: XRP) have all crashed between 40% and 60% from their 2025 highs. As the entire market gears towards a recovery, investors want to know which of Bitcoin, XRP, or Ethereum is the best crypto to invest in this year? To keep things fair, we asked ChatGPT ... XRP vs Bitcoin vs Ethereum: ChatGPT Predicts Which Crypto Is Best for 2026
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
+
+---
+
+**[Bitwise Found What’s Really Driving Ethereum Price, And It’s Not Fundamentals](https://www.tradingview.com/news/newsbtc:6fcdea28c094b:0-bitwise-found-what-s-really-driving-ethereum-price-and-it-s-not-fundamentals/)**
+
+Ethereum’s price has spent much of the past cycle lagging its own institutional and on-chain progress, and Bitwise says the reason is straightforward: ETH is still trading primarily as a Bitcoin proxy, not as a fundamentally valued network. In a new factor-model analysis, the asset manager found BT…
+
+TradingView • 1d ago
+
+---
+
+**[Crypto News Today: Remittix Presale Approaches $30M Raised Boosting Ethereum Price Predictions](https://markets.businessinsider.com/news/stocks/crypto-news-today-remittix-presale-approaches-30m-raised-boosting-ethereum-price-predictions-1035946747)**
+
+MAJURO, Marshall Islands, March  19, 2026  (GLOBE NEWSWIRE) -- Remittix has raised $29.7 million in its final presale stage with $30 million withi...
+
+markets.businessinsider.com • 14h ago
+
+---
+
+**[Ethereum Price Holds Near $2,130 After Fed Message Cools Rebound Hopes](https://seekingalpha.com/article/4884267-ethereum-price-holds-near-2130-after-fed-message-cools-rebound-hopes)**
+
+Seeking Alpha • 13h ago
 
 ---
 
@@ -192,7 +206,7 @@ Fortune • 17h ago
 
 Vitalik Buterin said that the 'lean Ethereum' plan was the only way to get faster speed and security without trade-offs.
 
-AMBCrypto • 23h ago
+AMBCrypto • 1d ago
 
 ---
 
@@ -202,25 +216,11 @@ TipRanks • 1d ago
 
 ---
 
-**[€2.3 trillion asset manager Amundi launches tokenized fund on Ethereum and Stellar](https://cryptobriefing.com/tokenized-fund-launch-ethereum-stellar-2/)**
-
-Amundi and Spiko launch SAFO, a tokenized fund for treasury and collateral management with 24/7 transferability and onchain settlement.
-
-Crypto Briefing • 16h ago
-
----
-
 **[Ethereum is outperforming Bitcoin when it shouldn’t be — what’s driving it?](https://cryptoslate.com/ethereum-is-beating-bitcoin-in-the-one-market-panic-built-for-bitcoin/)**
 
 For Ethereum, the surge in activity and new financial products foster network resilience amid rising global tensions.
 
 CryptoSlate • 1d ago
-
----
-
-**[Citi lowers 12-month forecast for Bitcoin, Ethereum on Crypto bill impasse (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4565422-citi-lowers-12-month-forecast-for-bitcoin-ethereum-on-crypto-bill-impasse)**
-
-Seeking Alpha • 2d ago
 
 ---
 
@@ -234,7 +234,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 123 • 💬 4 • ⏱️ 4:29 • 12h ago
+👁️ 2K • 👍 123 • 💬 4 • ⏱️ 4:29 • 13h ago
 
 ---
 
@@ -244,7 +244,7 @@ BITCOIN BEARISH TARGET HIT (this is next)!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 4K • 👍 211 • 💬 33 • ⏱️ 18:32 • 7h ago
+👁️ 4K • 👍 211 • 💬 33 • ⏱️ 18:32 • 8h ago
 
 ---
 
@@ -252,7 +252,7 @@ BITCOIN BEARISH TARGET HIT (this is next)!!! - Bitcoin News Today, Ethereum & Al
 
 📺 EllioTrades
 
-👁️ 7K • 👍 177 • 💬 61 • ⏱️ 1:07 • 17h ago
+👁️ 7K • 👍 177 • 💬 61 • ⏱️ 1:07 • 18h ago
 
 ---
 
@@ -272,7 +272,7 @@ Get Rich (Without Getting Lucky) in crypto! 50% deposit bonus on first $100 on W
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 2K • 💬 168 • ⏱️ 13:35 • 10h ago
+👁️ 25K • 👍 2K • 💬 168 • ⏱️ 13:35 • 11h ago
 
 ---
 
@@ -282,7 +282,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 324 • 👍 19 • 💬 1 • ⏱️ 5:34 • 21h ago
+👁️ 324 • 👍 19 • 💬 1 • ⏱️ 5:34 • 22h ago
 
 ---
 
@@ -292,7 +292,7 @@ In this live technical analysis session, The Trading Parrot breaks down BTC, ETH
 
 📺 The Trading Parrot
 
-👁️ 2K • 👍 154 • 💬 10 • ⏱️ 1:10:26 • 17h ago
+👁️ 2K • 👍 154 • 💬 10 • ⏱️ 1:10:26 • 18h ago
 
 ---
 
@@ -302,7 +302,7 @@ In this video, I reveal how I make money using trading bots, their settings, str
 
 📺 Thomas Kralow
 
-👁️ 3K • 👍 2K • 💬 25 • ⏱️ 13:55 • 20h ago
+👁️ 3K • 👍 2K • 💬 25 • ⏱️ 13:55 • 21h ago
 
 ---
 
