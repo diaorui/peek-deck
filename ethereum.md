@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-20T19:12:20.397322+00:00'
+updated: '2026-03-20T19:55:30.330973+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
+- videos
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 20, 2026 at 19:12 UTC  
+**Last Updated:** March 20, 2026 at 19:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everybody, I've been building a no code visual smart contract builder for solidity to help non-developers realize their ideas without having to learn solidity. While doing that, as a dog food experiment, I created a block explorer which uses the visualizations against verified contracts so I could test better. At some point I realized that would make a pretty cool tool for a lot of people since I'm able to surface things that most block explorers don't: being able to replay a transaction and follow what's happening on the visual graph displaying various attributes about a contract like whether it's pausible, has only owner functions, etc showing debug info about every step that happened in the contract There's probably a lot more that I could do there and I'm looking to source ideas from the community about what should be added. It'd be great if y'all could take a look and see if there's anything obvious that I'm missing https://doodledapp.com/explorer Thanks!
 
-20h ago
+21h ago
 
 ---
 
@@ -198,7 +198,7 @@ Decrypt • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 5h ago
+Fortune • 6h ago
 
 ---
 
@@ -212,7 +212,7 @@ Polymarket • 1d ago
 
 **[Ethereum Price Bottom Has Hit, Tom Lee Claims Again — Three Reasons He Says It's Heading Higher](https://www.ccn.com/news/crypto/ethereum-price-bottom-hit-tom-lee-claims-again-three-reasons/)**
 
-CCN.com • 7h ago
+CCN.com • 8h ago
 
 ---
 
@@ -234,7 +234,7 @@ Ethereum is showing strong bullish signals, with analysts predicting a major reb
 
 📺 Crypto Sensei
 
-👁️ 3K • 👍 360 • 💬 40 • ⏱️ 12:42 • 5h ago
+👁️ 3K • 👍 360 • 💬 40 • ⏱️ 12:42 • 6h ago
 
 ---
 
@@ -244,7 +244,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 1K • 👍 129 • 💬 15 • ⏱️ 19:43 • 3h ago
+👁️ 1K • 👍 129 • 💬 15 • ⏱️ 19:43 • 4h ago
 
 ---
 
@@ -272,7 +272,7 @@ Canton is the first privacy-enabled open blockchain network, ensuring limitless 
 
 📺 Paul Barron Network
 
-👁️ 28K • 👍 2K • 💬 1K • ⏱️ 30:27 • 22h ago
+👁️ 28K • 👍 2K • 💬 1K • ⏱️ 30:27 • 23h ago
 
 ---
 
@@ -282,7 +282,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 146 • 👍 8 • 💬 2 • ⏱️ 4:56 • 9h ago
+👁️ 146 • 👍 8 • 💬 2 • ⏱️ 4:56 • 10h ago
 
 ---
 
@@ -292,7 +292,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 140 • 💬 4 • ⏱️ 4:29 • 23h ago
+👁️ 2K • 👍 140 • 💬 4 • ⏱️ 4:29 • 1d ago
 
 ---
 
@@ -322,7 +322,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 4K • 👍 728 • 💬 92 • ⏱️ 12:10 • 12h ago
+👁️ 4K • 👍 728 • 💬 92 • ⏱️ 12:10 • 13h ago
 
 ---
 

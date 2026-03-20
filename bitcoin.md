@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-20T19:12:20.391320+00:00'
+updated: '2026-03-20T19:55:30.324961+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
+- videos
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 20, 2026 at 19:12 UTC  
+**Last Updated:** March 20, 2026 at 19:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Abra Financial Holdings, Inc. CEO
 
-5h ago
+6h ago
 
 ---
 
@@ -105,7 +105,7 @@ North Carolina is moving to become one of the first states to officially hold Bi
 
 Is anybody else impressed by the stability of the price in the last month considering the state of the world? If the cycle is real (it's mostly followed it, what, 4 times now? Not exactly a substantial amount of data points... but it is a pattern nonetheless) then it's mildly interesting that it hasn't dropped further faster... yet. And considering the conflicts/wars and the state of the market and oil prices, and gold falling... yet through all this in the past month it has been steady around 70k plus or minus a bit. Maybe all this was "priced in" from before the last month, but if that were the case, amid the bear period of the "4 year cycle" AND the war, I'd have expected the "price in" to be more damaging. Just some commute-thoughts I had... open for discussion.
 
-6h ago
+7h ago
 
 ---
 
@@ -113,7 +113,7 @@ Is anybody else impressed by the stability of the price in the last month consid
 
 Hey all, i made mistake a long time ago when BTC price was 17.000€ and I wanted to do it, but I was too afraid. I wanted this asimetric bet on crypto on my portfolio. Today I purchased my first 1% of coin. I’ve waited for this oppurtunity for a long time now, and I finally got entry I am confortable with. So, new guy in the buisness. :) Any advice tou can give me?
 
-50m ago
+1h ago
 
 ---
 
@@ -129,7 +129,7 @@ This question is directed at those who exclusively hold Bitcoin. How do you main
 
 The SEC’s interpretation on crypto assets is just the beginning and serves as a bridge while Congress works to advance market structure legislation. Our rules must be clear enough to guide markets, flexible enough to accommodate innovation, and firm enough to protect investors. https://x.com/SECPaulSAtkins/status/2034676128317661351
 
-19h ago
+20h ago
 
 ---
 
@@ -137,7 +137,7 @@ The SEC’s interpretation on crypto assets is just the beginning and serves as 
 
 Back in September I got absolutely wrecked with some ridiculous margin trades, lost a massive chunk of change No point crying over spilled milk though right Strategy now is simple - just keep stacking sats through regular buys and forget about it Bitcoin crashing? mate I'm loving every minute of it, more coins for less cash so I'm cranking up my daily buys These prices are a gift if you ask me
 
-12h ago
+13h ago
 
 ---
 
@@ -145,7 +145,7 @@ Back in September I got absolutely wrecked with some ridiculous margin trades, l
 
 learnt from experience, dca is just the answer, suit your self! happy stacking
 
-9h ago
+10h ago
 
 ---
 
@@ -165,7 +165,7 @@ This week’s newsletter includes our regular sections describing changes to ser
 
 The bitcoin address initially received the 2,100 BTC on July 4, 2012, when that amount was worth just $13,685.
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -173,7 +173,7 @@ The Block • 7h ago
 
 Oil prices slipped as major economies announced joint efforts to stabilize energy markets.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -181,13 +181,13 @@ CoinDesk • 6h ago
 
 State officials and advocates are urging Maine residents who lost money in bitcoin-related scams to apply for refunds before an April 1 deadline.  AARP Maine and the Maine Bureau of Consumer Credit Pr...
 
-Yahoo • 2h ago
+Yahoo • 3h ago
 
 ---
 
 **[Bitcoin Whale Strategy Defies Gravity When It Issues Stock. Is It Just Good Timing?](https://www.investors.com/news/mstr-stock-strategy-defies-gravity-stock-issuance-bitcoin/)**
 
-Investor's Business Daily • 2h ago
+Investor's Business Daily • 3h ago
 
 ---
 
@@ -207,7 +207,7 @@ Bloomberg.com • 1d ago
 
 **[Bitcoin Price Undercuts $70,000 As Higher-For-Longer Policy Weighs Across Asset](https://www.investors.com/news/bitcoin-price-fall-70k-federal-reserve-rates-oil-prices-iran-cryptocurrency-stocks-sec-nasdaq/)**
 
-Investor's Business Daily • 21h ago
+Investor's Business Daily • 22h ago
 
 ---
 
@@ -243,7 +243,7 @@ Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in
 
 **[Bitcoin, XRP Fall in a Bad Week for Cryptos](https://news.ycombinator.com/item?id=47453548)**
 
-⬆️ 2 • 💬 0 • 6h ago • [barrons.com](https://www.barrons.com/articles/bitcoin-price-xrp-etheruem-crypto-sec-nasdaq-2e2f8254)
+⬆️ 2 • 💬 0 • 7h ago • [barrons.com](https://www.barrons.com/articles/bitcoin-price-xrp-etheruem-crypto-sec-nasdaq-2e2f8254)
 
 ---
 
@@ -297,7 +297,7 @@ Iran, Saudi Warning on oil, QQQ, Tesla, Bitcoin, Solana, and more! BITUNIX TRADE
 
 📺 Lark Davis
 
-👁️ 10K • 👍 558 • 💬 57 • ⏱️ 13:46 • 8h ago
+👁️ 10K • 👍 558 • 💬 57 • ⏱️ 13:46 • 9h ago
 
 ---
 
@@ -317,7 +317,7 @@ A classic case of the bear market blues for Bitcoin. Into The Cryptoverse Premiu
 
 📺 Benjamin Cowen
 
-👁️ 42K • 👍 3K • 💬 165 • ⏱️ 11:38 • 14h ago
+👁️ 42K • 👍 3K • 💬 165 • ⏱️ 11:38 • 15h ago
 
 ---
 
@@ -327,7 +327,7 @@ Bybit $30'000 Deposit Bonus [NEW ] http://bit.ly/3JhXtNi (click here) Register o
 
 📺 Crypto Anup
 
-👁️ 2K • 👍 181 • 💬 137 • ⏱️ 6:35 • 12h ago
+👁️ 2K • 👍 181 • 💬 137 • ⏱️ 6:35 • 13h ago
 
 ---
 
@@ -347,7 +347,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 13K • 👍 978 • 💬 46 • ⏱️ 49:42 • 8h ago
+👁️ 13K • 👍 978 • 💬 46 • ⏱️ 49:42 • 9h ago
 
 ---
 
@@ -357,7 +357,7 @@ Something strange is happening in Bitcoin. While people debate if Bitcoin matter
 
 📺 The Exit Manual
 
-👁️ 27K • 👍 2K • 💬 363 • ⏱️ 14:53 • 23h ago
+👁️ 27K • 👍 2K • 💬 363 • ⏱️ 14:53 • 1d ago
 
 ---
 
@@ -367,7 +367,7 @@ Bitcoin y Cripto están bastante j*didos en el medio plazo. En este video te exp
 
 📺 Nacho IC
 
-👁️ 13K • 👍 2K • 💬 43 • ⏱️ 16:16 • 7h ago
+👁️ 13K • 👍 2K • 💬 43 • ⏱️ 16:16 • 8h ago
 
 ---
 
