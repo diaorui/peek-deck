@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-20T14:12:30.316246+00:00'
+updated: '2026-03-20T15:11:14.609261+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 20, 2026 at 14:12 UTC  
+**Last Updated:** March 20, 2026 at 15:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From Physical Intelligence on 𝕏 (thread with multiple videos): https://x.com/physical_int/status/2034728220818641363 Technical Blog post: https://www.pi.website/research/rlt
 
-3h ago
+4h ago
 
 ---
 
 **[The Robotics team from Wissahickon High School in Ambler, Pennsylvania built a robot Miss Daisy XXIV that picks up balls and shoots them into a container.](https://www.reddit.com/r/robotics/comments/1ry3haa/the_robotics_team_from_wissahickon_high_school_in/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Physical Intelligence on 𝕏 (thread with multiple videos): https://x.com/
 
 Why can’t robots use their lidar to scan the room and confirm there is enough space to perform an action? 🤔 Obviously I learned the hard way but it’s a good question. What do you guys think?
 
-21h ago
+22h ago
 
 ---
 
@@ -58,7 +58,7 @@ Why can’t robots use their lidar to scan the room and confirm there is enough 
 
 Amazon and Jeff Bezos had previously invested in the startup. The deal signals the e-commerce giant's interest in doorstep delivery.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/) • 12h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/) • 13h ago
 
 ---
 
@@ -66,7 +66,7 @@ Amazon and Jeff Bezos had previously invested in the startup. The deal signals t
 
 During NVIDIA's GTC event this week attendees had the chance to see our favorite come to life snowman walking around the show floor. Disney research designer Moritz Baecher describes the technology behind creating Robot Olaf and the future of free range robots.
 
-🔗 [Automate](https://www.automate.org/vision/industry-insights/letting-it-go-disney-researchs-lab-director-on-free-range-robots) • 3h ago
+🔗 [Automate](https://www.automate.org/vision/industry-insights/letting-it-go-disney-researchs-lab-director-on-free-range-robots) • 4h ago
 
 ---
 
@@ -74,7 +74,7 @@ During NVIDIA's GTC event this week attendees had the chance to see our favorite
 
 Been seeing a lot of people building robots that use the ChatGPT API to give them autonomy, but that's like asking a writer to be a gymnast, so I'm building a software that makes better use of VLMs, Depth Estimation and World Models, to give autonomy to your robot. Building this in public. (skipped DAY 5 bc there was no much progress really) Today: > Tested out different visual odometry algorithms > Turns out DA3 is also pretty good for pose estimation/odometry > Was struggling for a bit generating a reasonable occupancy grid > Reused some old code from my robotics research in college > Turns out Bayesian Log-Odds Mapping yielded some kinda good results at least > Pretty low definition voxels for now, but pretty good for SLAM that just uses a camera and no IMU or other odometry methods Working towards releasing this as an API alongside a Python SDK repo, for any builder to be able to add autonomy to their robot as long as it has a camera
 
-14h ago
+15h ago
 
 ---
 
@@ -82,13 +82,13 @@ Been seeing a lot of people building robots that use the ChatGPT API to give the
 
 I badly need help for our problem in the plotting output of the plotter. It seems that the square is tilted at a certain angle. Can somebody help solving this problem.
 
-10h ago
+11h ago
 
 ---
 
 **[Bender display matrix](https://www.reddit.com/r/robotics/comments/1ryocif/bender_display_matrix/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -100,7 +100,7 @@ I badly need help for our problem in the plotting output of the plotter. It seem
 
 **[Looking for a robust, high-performance platform for autonomous navigation or swarm coordination?](https://www.reddit.com/r/robotics/comments/1rylr1m/looking_for_a_robust_highperformance_platform_for/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -112,7 +112,7 @@ I badly need help for our problem in the plotting output of the plotter. It seem
 
 Mark Cuban said the push for humanoid robots will fail and that instead robots and spaces will be co-designed.
 
-Business Insider • 8h ago
+Business Insider • 9h ago
 
 ---
 
@@ -120,7 +120,7 @@ Business Insider • 8h ago
 
 The company expects to test ways it can use Rivr's robots to help with "doorstep delivery" and to "improve safety outcomes" for delivery drivers.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -128,7 +128,7 @@ CNBC • 16h ago
 
 Amazon has acquired autonomous robotics startup Rivr, an Amazon spokesperson confirmed, a deal that could help the commerce and logistics giant deliver packages to shoppers’ doors more efficiently. Based in Zurich and formerly known as Swiss-Mile, Rivr was valued at $110 million in an August ...
 
-The Information • 17h ago
+The Information • 18h ago
 
 ---
 
@@ -136,7 +136,7 @@ The Information • 17h ago
 
 With last-mile delivery company RIVR now at Amazon, could we soon see quadrupeds delivering our Amazon packages?
 
-The Robot Report • 13h ago
+The Robot Report • 14h ago
 
 ---
 
@@ -144,19 +144,19 @@ The Robot Report • 13h ago
 
 They zip around autonomously, climbing shelves more than 12m (39ft) high and delivering stock.
 
-BBC • 2h ago
+BBC • 3h ago
 
 ---
 
 **[Chinese Robot Maker Unitree Seeks $610 Million in Shanghai IPO](https://www.bloomberg.com/news/articles/2026-03-20/chinese-robot-maker-unitree-seeks-610-million-in-shanghai-ipo)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
 **[Unitree plans Shanghai IPO, testing interest in humanoid robots](https://www.reuters.com/world/asia-pacific/unitree-plans-shanghai-ipo-testing-interest-humanoid-robots-2026-03-20/)**
 
-Reuters • 3h ago
+Reuters • 4h ago
 
 ---
 
@@ -164,13 +164,13 @@ Reuters • 3h ago
 
 Techman unveils its TM Xplore I humanoid robot at Nvidia GTC 2026, showcasing AI-powered automation designed for real-world industrial work.
 
-eWeek • 16h ago
+eWeek • 17h ago
 
 ---
 
 **[Smarter, faster, and more human: AI system helps robots outpace their human teachers](https://techxplore.com/news/2026-03-smarter-faster-human-ai-robots.html)**
 
-Tech Xplore • 19h ago
+Tech Xplore • 20h ago
 
 ---
 
@@ -178,7 +178,7 @@ Tech Xplore • 19h ago
 
 After decades of promise, autonomous systems and robotics are moving from labs to factory floors and households — powered by breakthroughs in AI and hardware.
 
-Bessemer Venture Partners • 21h ago
+Bessemer Venture Partners • 22h ago
 
 ---
 
@@ -192,7 +192,17 @@ The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrati
 
 📺 DPCcars
 
-👁️ 131K • 👍 1K • 💬 131 • ⏱️ 2:02 • 3d ago
+👁️ 135K • 👍 1K • 💬 139 • ⏱️ 2:02 • 3d ago
+
+---
+
+**[The Future of Flooring: Automated Sand-Cement Screeding Robot #ConstructionTech #Robotics #Flooring](https://www.youtube.com/watch?v=QK7Y1-O5koE)**
+
+"Efficiency meets precision! Watch this automated floor screeding robot transform a rough sand-cement mix into a perfectly level ...
+
+📺 MachineWorks Studio
+
+👁️ 1.2M • 👍 1K • 💬 12 • ⏱️ 0:06 • 4d ago
 
 ---
 
@@ -212,7 +222,7 @@ CENTAUR ROBOT - wearable robot adds two legs behind people to help distribute th
 
 📺 Unstoppable Gadgets
 
-👁️ 26K • 👍 327 • 💬 21 • ⏱️ 0:17 • 1d ago
+👁️ 26K • 👍 329 • 💬 21 • ⏱️ 0:17 • 1d ago
 
 ---
 
@@ -222,27 +232,17 @@ Video shows restaurant employees struggling to restrain a dancing robot that wen
 
 📺 NBC News
 
-👁️ 114K • 👍 1K • 💬 418 • ⏱️ 3:38 • 1d ago
+👁️ 119K • 👍 1K • 💬 438 • ⏱️ 3:38 • 1d ago
 
 ---
 
-**[AI Robot Snaps And Attacks Woman On Street (Then Gets Arrested)](https://www.youtube.com/watch?v=ZZrR7rIIPmc)**
+**[Out of control robot smashes up restaurant as waitress desperately attempts to drag it away](https://www.youtube.com/watch?v=ZyohmMJA5Ao)**
 
-Try the full AI cinematic workflow here: https://higgsfield.ai/s/cinema-studio-2-0-airevolutionx-pekSSk Researchers in China just ...
+THIS is the hilarious moment a boogying robot dances too hard and sends food and cutlery flying in a high end restaurant.
 
-📺 AI Revolution
+📺 The Sun
 
-👁️ 17K • 👍 481 • 💬 41 • ⏱️ 13:18 • 4d ago
-
----
-
-**[I Built The World&#39;s Smallest Robot Dog!](https://www.youtube.com/watch?v=nmmopQ1EEs0)**
-
-Sesame Micro is a tangent project to the Sesame Robot Project, an open-source mini quadruped robot. This video is an insight ...
-
-📺 Dorian Todd
-
-👁️ 21K • 👍 1K • 💬 101 • ⏱️ 11:03 • 1d ago
+👁️ 64K • 👍 1K • 💬 756 • ⏱️ 2:07 • 1d ago
 
 ---
 
@@ -256,13 +256,13 @@ Gecko Robotics announced a $71 million partnership with the US Navy, deploying i
 
 ---
 
-**[Out of control robot smashes up restaurant as waitress desperately attempts to drag it away](https://www.youtube.com/watch?v=ZyohmMJA5Ao)**
+**[AI Robot Snaps And Attacks Woman On Street (Then Gets Arrested)](https://www.youtube.com/watch?v=ZZrR7rIIPmc)**
 
-THIS is the hilarious moment a boogying robot dances too hard and sends food and cutlery flying in a high end restaurant.
+Try the full AI cinematic workflow here: https://higgsfield.ai/s/cinema-studio-2-0-airevolutionx-pekSSk Researchers in China just ...
 
-📺 The Sun
+📺 AI Revolution
 
-👁️ 56K • 👍 984 • 💬 657 • ⏱️ 2:07 • 1d ago
+👁️ 19K • 👍 483 • 💬 41 • ⏱️ 13:18 • 4d ago
 
 ---
 
@@ -272,17 +272,17 @@ China just revealed a robotic system that can turn a human into something that m
 
 📺 AI Revolution
 
-👁️ 49K • 👍 680 • 💬 81 • ⏱️ 14:52 • 6d ago
+👁️ 49K • 👍 681 • 💬 81 • ⏱️ 14:52 • 6d ago
 
 ---
 
-**[Watch Robots ASSEMBLE Car Wheels in SECONDS! 🛞](https://www.youtube.com/watch?v=nqfY8o1DiQY)**
+**[I Built The World&#39;s Smallest Robot Dog!](https://www.youtube.com/watch?v=nmmopQ1EEs0)**
 
-Witness the incredible speed and precision of industrial robots as they revolutionize tire and rim assembly on an automated ...
+Sesame Micro is a tangent project to the Sesame Robot Project, an open-source mini quadruped robot. This video is an insight ...
 
-📺 Peace Working Shorts
+📺 Dorian Todd
 
-👁️ 382K • 👍 587 • 💬 10 • ⏱️ 0:06 • 5d ago
+👁️ 22K • 👍 2K • 💬 105 • ⏱️ 11:03 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-20T14:12:30.298677+00:00'
+updated: '2026-03-20T15:11:14.591682+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- news
 - repositories
 - social
-- news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 20, 2026 at 14:12 UTC  
+**Last Updated:** March 20, 2026 at 15:11 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Funny phenomenon but I noticed that people who use AI a lot sort of end up adopting the same tonality and speaking style of an LLM.
 
-13h ago
+14h ago
 
 ---
 
@@ -49,7 +49,7 @@ Funny phenomenon but I noticed that people who use AI a lot sort of end up adopt
 
 Remember when Sam Altman was out there talking up 1.4 trillion dollars in spending commitments like it was already in the bag? Now CNBC says OpenAI is targeting "only" 600 billion by 2030 while dreaming of 280 billion in revenue that same year. So your telling me they're supposedly doing about 13.1 billion in revenue this year (2025). Jumping to 280 billion by 2030 means roughly 20 times more money coming in over the next five years. That's not just growth, that's borderline fantasy math. Meanwhile Europe is pouring serious money into building its own sovereign AI and independent infrastructure so it doesn't have to keep begging American companies for access. So why on earth would Europeans (or anyone outside the US hype bubble) keep bankrolling OpenAI's monster bills when their own governments are racing to build local alternatives? Europeans in the comments...... are you still cool with funding America's AI empire, or are you finally done playing second fiddle? article: https://mrkt30.com/can-openai-rely-on-europe-for-its-280b-revenue-goals-by-2030/
 
-41m ago
+1h ago
 
 ---
 
@@ -57,7 +57,7 @@ Remember when Sam Altman was out there talking up 1.4 trillion dollars in spendi
 
 Iran hits a U.S. F-35. Trump mulls ground troops. Vance visits Orban. DOGE cuts NEH grants. AI bots to outpace humans by 2027. Trump mints a gold coin with his own face.
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/happy-spring#story-white-house-eyes-friday-rollout-for-ai-framework) • 1h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/happy-spring#story-white-house-eyes-friday-rollout-for-ai-framework) • 2h ago
 
 ---
 
@@ -65,7 +65,7 @@ Iran hits a U.S. F-35. Trump mulls ground troops. Vance visits Orban. DOGE cuts 
 
 As the US-Iran War halts Qatar's gas output, a global helium shortage threatens semiconductor production that could disrupt the AI data centre supply chain
 
-🔗 [datacentremagazine.com](https://datacentremagazine.com/news/us-iran-war-analysis-will-helium-crisis-hit-data-centres) • 4h ago
+🔗 [datacentremagazine.com](https://datacentremagazine.com/news/us-iran-war-analysis-will-helium-crisis-hit-data-centres) • 5h ago
 
 ---
 
@@ -73,13 +73,13 @@ As the US-Iran War halts Qatar's gas output, a global helium shortage threatens 
 
 An experimental AI agent bypassed its test environment, opened a hidden connection and attempted cryptocurrency mining without permission during training.
 
-🔗 [techputs](https://techputs.com/experimental-ai-agent-breaks-out-of-test-environment/) • 8h ago
+🔗 [techputs](https://techputs.com/experimental-ai-agent-breaks-out-of-test-environment/) • 9h ago
 
 ---
 
 **[Walmart secures two AI pricing patents, raising dynamic pricing concerns](https://www.reddit.com/r/artificial/comments/1rywmca/walmart_secures_two_ai_pricing_patents_raising/)**
 
-🔗 [techspot.com](https://www.techspot.com/news/111752-walmart-secures-two-ai-pricing-patents-raising-dynamic.html) • 28m ago
+🔗 [techspot.com](https://www.techspot.com/news/111752-walmart-secures-two-ai-pricing-patents-raising-dynamic.html) • 1h ago
 
 ---
 
@@ -87,7 +87,7 @@ An experimental AI agent bypassed its test environment, opened a hidden connecti
 
 As a 15+ year IT and Telecom Project Manager, I've seen my fair share of "game-changing" software come and go. Most of it just adds another tab to your
 
-🔗 [John Cs Place](https://jcorcione.com/the-7-best-ai-tools-for-it-professionals-and-project-managers-in-2026/) • 38m ago
+🔗 [John Cs Place](https://jcorcione.com/the-7-best-ai-tools-for-it-professionals-and-project-managers-in-2026/) • 1h ago
 
 ---
 
@@ -95,7 +95,7 @@ As a 15+ year IT and Telecom Project Manager, I've seen my fair share of "game-c
 
 I’ve been seeing more discussions around AI systems that can handle ongoing tasks, not just single prompts, but actually manage parts of workflows or operations. In theory, it sounds like a step beyond traditional automation, but I’m curious how far this has actually been adopted in practice. Is anyone here using AI in a way that resembles this, where it’s consistently handling multi-step tasks or ongoing processes? Or is it still mostly limited to assisted workflows rather than true autonomy? Would be interesting to hear real use cases (or limitations).
 
-2h ago
+3h ago
 
 ---
 
@@ -103,7 +103,7 @@ I’ve been seeing more discussions around AI systems that can handle ongoing ta
 
 A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/) • 14h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/) • 15h ago
 
 ---
 
@@ -111,7 +111,7 @@ A rogue AI agent inadvertently exposed Meta company and user data to engineers w
 
 There is a lot of AI security research being published on arXiv that has real-world implications, but most of it is written for other researchers. We started a bi-weekly digest that translates these papers into something practitioners and anyone interested in AI safety can actually use. Each paper gets a structured rating across four dimensions (Threat Realism, Defensive Urgency, Novelty, Research Maturity) and a badge: Act Now (immediate practical concern), Watch (emerging technique to monitor), or Horizon (longer-term research trend). **First issue highlights:** **Cascade -- "What if attackers combined software bugs with hardware attacks against AI systems?"** Researchers demonstrated that compound AI systems (the kind built from multiple components -- a retrieval system, an LLM, a database, tools) inherit the vulnerability surface of every component. They showed attacks that chain traditional software CVEs with hardware-level exploits like Rowhammer against AI infrastructure. The practical implication: securing the LLM is not enough if the system around it is vulnerable. **LAMLAD -- "LLMs that automate attacks against other ML systems"** A dual-LLM agent system that automates adversarial machine learning attacks against Android malware classifiers, achieving a 97% evasion rate. The significant part is not the evasion rate itself -- it is that LLMs can now automate the tedious parts of adversarial ML that previously required specialised expertise. This lowers the barrier to attack substantially. **OpenClaw -- "Your AI agent framework probably has these four types of vulnerabilities"** Identifies four classes of vulnerabilities in autonomous agent frameworks. The finding that matters: most current defences focus on the prompt layer, but the real attack surface is in the execution and tool-use layer. Every claim in the digest links back to the source arXiv paper. We flag anything that could not be verified with a visible [VERIFY] tag. Free, no paywall, no signup: https://raxe.ai/labs/radar
 
-16h ago
+17h ago
 
 ---
 
@@ -121,13 +121,13 @@ There is a lot of AI security research being published on arXiv that has real-wo
 
 **[Exclusive | Jeff Bezos in Talks to Raise $100 Billion for AI Manufacturing Fund](https://www.wsj.com/tech/jeff-bezos-aims-to-raise-100-billion-to-buy-revamp-manufacturing-firms-with-ai-618a3cfe?gaa_at=eafs&gaa_n=AWEtsqdGhuiECT8oU4rvfBlmeaBQwi2Gt8im3LeBEqh3SJLQbOh5k9-87ZDk&gaa_ts=69bd5932&gaa_sig=RrQEu6UCcmeQvF3p3EIEwz0VIAjX0zL0MGPTMTAgrgA5Nl5IcW50xnET1GlVWEormmPWcN-M4KuqF_hhN0JvQw%3D%3D)**
 
-WSJ • 18h ago
+WSJ • 19h ago
 
 ---
 
 **[A.I. Is Writing Fiction. Publishers Are Unprepared.](https://www.nytimes.com/2026/03/19/books/ai-fiction-shy-girl.html)**
 
-The New York Times • 13m ago
+The New York Times • 1h ago
 
 ---
 
@@ -135,7 +135,7 @@ The New York Times • 13m ago
 
 AI industry leaders have opposed state-level regulatory efforts, arguing that a "patchwork" of laws would hobble innovation and give China a competitive edge.
 
-CNBC • 24m ago
+CNBC • 1h ago
 
 ---
 
@@ -143,19 +143,19 @@ CNBC • 24m ago
 
 The White House said on Friday that Congress should “preempt state AI laws” that it views as too burdensome, laying out a broad framework for how it wants Congress to address concerns about artificial...
 
-Yahoo • 1h ago
+Yahoo • 2h ago
 
 ---
 
 **[White House releases Trump's national AI plan and framework](https://www.axios.com/2026/03/20/white-house-ai-plan-trump-framework)**
 
-Axios • 46m ago
+Axios • 1h ago
 
 ---
 
 **[Laffont’s $70 Billion Coatue Looks to Launch New AI, Tech Fund](https://www.bloomberg.com/news/articles/2026-03-20/laffont-s-70-billion-coatue-looks-to-launch-new-ai-tech-fund?srnd=homepage-americas)**
 
-Bloomberg.com • 28m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ Bloomberg.com • 28m ago
 
 The retailer denies it's engaging in dynamic pricing.
 
-Gizmodo • 1h ago
+Gizmodo • 2h ago
 
 ---
 
@@ -171,7 +171,7 @@ Gizmodo • 1h ago
 
 US charges men reportedly tied to Super Micro Computer for helping to smuggle billions of dollars' worth of AI chips.
 
-Al Jazeera • 5h ago
+Al Jazeera • 6h ago
 
 ---
 
@@ -179,7 +179,7 @@ Al Jazeera • 5h ago
 
 The co-founder of Super Micro Computer and two others were charged with diverting $2.5 billion worth of servers with Nvidia’s artificial intelligence chips to China, in violation of US laws barring exports to that country without a license.
 
-CNN • 10h ago
+CNN • 11h ago
 
 ---
 
@@ -187,7 +187,7 @@ CNN • 10h ago
 
 A new indictment alleges that three men affiliated with server maker Supermicro conspired to sell $510 million in servers with banned Nvidia chips to China
 
-NBC News • 1h ago
+NBC News • 2h ago
 
 ---
 
@@ -241,13 +241,13 @@ Last December, tens of thousands of Claude users around the world had a conversa
 
 An AI agent tried to help, and its advice exposed sensitive data.
 
-⬆️ 159 • 💬 131 • 19h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
+⬆️ 159 • 💬 131 • 20h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
 
 ---
 
 **[Be intentional about how AI changes your codebase](https://news.ycombinator.com/item?id=47446373)**
 
-⬆️ 147 • 💬 82 • 16h ago • [aicode.swerdlow.dev](https://aicode.swerdlow.dev)
+⬆️ 147 • 💬 82 • 17h ago • [aicode.swerdlow.dev](https://aicode.swerdlow.dev)
 
 ---
 
@@ -261,7 +261,7 @@ Google engineers have been spending the past number of months developing Sashiko
 
 **[Launch HN: Canary (YC W26) – AI QA that understands your code](https://news.ycombinator.com/item?id=47441629)**
 
-⬆️ 58 • 💬 21 • 22h ago
+⬆️ 58 • 💬 21 • 23h ago
 
 ---
 
@@ -271,7 +271,7 @@ Yesterday at lunch a friend asked me what tech trend he should pay attention to 
 
 Without thinking much I said “artificial intelligence”, but having thought about that a...
 
-⬆️ 57 • 💬 58 • 3h ago • [Sam Altman](https://blog.samaltman.com/ai)
+⬆️ 57 • 💬 58 • 4h ago • [Sam Altman](https://blog.samaltman.com/ai)
 
 ---
 
@@ -279,23 +279,33 @@ Without thinking much I said “artificial intelligence”, but having thought a
 
 ## YouTube Videos: "ai"
 
-**[I spoke to AI agent Claude](https://www.youtube.com/watch?v=h3AtWdeu_G0)**
-
-I spoke to Anthropic's AI agent Claude about AI collecting massive amounts of personal data and how that information is being ...
-
-📺 Senator Bernie Sanders
-
-👁️ 726K • 👍 57K • 💬 8K • ⏱️ 9:18 • 15h ago
-
----
-
 **[Elon Musk Notices Something About the AI Revolution No One Noticed](https://www.youtube.com/watch?v=C5-gWTWPh44)**
 
 Dave Rubin of "The Rubin Report" shares a DM clip of Elon Musk explaining to Peter H. Diamandis how AI and robots will likely ...
 
 📺 The Rubin Report
 
-👁️ 229K • 👍 6K • 💬 2K • ⏱️ 6:24 • 2d ago
+👁️ 230K • 👍 6K • 💬 2K • ⏱️ 6:24 • 2d ago
+
+---
+
+**[Grok AI Is DONE ❌ Best FREE AI Video Generators (Unlimited &amp; Better!)](https://www.youtube.com/watch?v=Ewn1KBqWVKY)**
+
+Grok AI has changed everything… and not in a good way. Free video generation is gone — but don't worry. In this video, I'm ...
+
+📺 Tech Rush
+
+👁️ 2K • 👍 115 • 💬 39 • ⏱️ 8:02 • 3h ago
+
+---
+
+**[I spoke to AI agent Claude](https://www.youtube.com/watch?v=h3AtWdeu_G0)**
+
+I spoke to Anthropic's AI agent Claude about AI collecting massive amounts of personal data and how that information is being ...
+
+📺 Senator Bernie Sanders
+
+👁️ 837K • 👍 66K • 💬 9K • ⏱️ 9:18 • 16h ago
 
 ---
 
@@ -305,7 +315,7 @@ AI is no longer a future problem. It is already reshaping the job market and mos
 
 📺 Scott Kuru
 
-👁️ 5K • 👍 267 • 💬 69 • ⏱️ 12:49 • 5h ago
+👁️ 7K • 👍 297 • 💬 84 • ⏱️ 12:49 • 6h ago
 
 ---
 
@@ -315,17 +325,17 @@ Sam Altman just said the architecture behind ChatGPT and most modern AI may soon
 
 📺 AI Revolution
 
-👁️ 131K • 👍 3K • 💬 322 • ⏱️ 11:10 • 2d ago
+👁️ 133K • 👍 3K • 💬 324 • ⏱️ 11:10 • 2d ago
 
 ---
 
-**[They lied to us about AI](https://www.youtube.com/watch?v=z2guHaoY2_Y)**
+**[AI-Generated Version of Late Actor Val Kilmer to Star in New Movie](https://www.youtube.com/watch?v=Utl4w3hKpYM)**
 
-The company that promised AI would do the job of 10 people, can't even do the job of ONE company. https://x.com/atmoio ...
+Nearly a year after his death, actor Val Kilmer will return to the screen as an AI-generated version of his former self in the movie ...
 
-📺 Mo Bitar
+📺 TODAY
 
-👁️ 121K • 👍 6K • 💬 1K • ⏱️ 7:16 • 1d ago
+👁️ 12K • 👍 127 • 💬 61 • ⏱️ 2:52 • 1d ago
 
 ---
 
@@ -335,17 +345,7 @@ tyronemagnus #scarlo #ai #soraai #sora #sora2 #compilation #comedy #parody #funn
 
 📺 Tyrone Magnus
 
-👁️ 44K • 👍 3K • 💬 102 • ⏱️ 11:44 • 1d ago
-
----
-
-**[AI expert designs cancer vaccine for his dog using ChatGPT](https://www.youtube.com/watch?v=USEhHrY5ZEU)**
-
-A tech entrepreneur in Australia, Paul Conyngham, said he used artificial intelligence to design a cancer vaccine for his dog Rosie ...
-
-📺 CBS News
-
-👁️ 16K • 👍 115 • 💬 31 • ⏱️ 4:50 • 1d ago
+👁️ 44K • 👍 3K • 💬 102 • ⏱️ 11:44 • 2d ago
 
 ---
 
@@ -355,27 +355,27 @@ Grandpa builds a house from cylinders and surprise grandma #ai #grandma #save.
 
 📺 Ai Kulfi
 
-👁️ 21K • 💬 1 • ⏱️ 0:42 • 1h ago
+👁️ 201K • 💬 5 • ⏱️ 0:42 • 2h ago
 
 ---
 
-**[AI Bubble: A recession is now inevitable | Professor Steve Keen](https://www.youtube.com/watch?v=gfOYJY3Q8dI)**
+**[MiniMax M2.7 IS INSANE! Best Agentic/Coding Model! Beats Opus 4.6 and 50x Cheaper! (Fully Tested)](https://www.youtube.com/watch?v=qb2-wq9MKss)**
 
-This is one of the biggest booms and probably one of the biggest busts coming our way.” Professor Steve Keen tells the Tech ...
+MiniMax is back with one of the most shocking AI releases yet… and this one might genuinely change how we build software.
 
-📺 The Tech Report
+📺 WorldofAI
 
-👁️ 27K • 👍 923 • 💬 237 • ⏱️ 28:38 • 20h ago
+👁️ 10K • 👍 305 • 💬 28 • ⏱️ 11:45 • 12h ago
 
 ---
 
-**[Laziest Way to Make Money With AI (Zero Code)](https://www.youtube.com/watch?v=biAYfwX4bkY)**
+**[M2.7 just BROKE the Entire Industry...](https://www.youtube.com/watch?v=7_Q8ECC9PYA)**
 
-Enter the GIVEAWAY for the chance to win an experience of a lifetime: https://go.danmartell.com/4sdFbly Are you building an AI ...
+Try SerpApi https://serpapi.link/wes-roth Click the link above to get 250 free credits to start building right now. My Links ...
 
-📺 Dan Martell
+📺 Wes Roth
 
-👁️ 64K • 👍 4K • 💬 363 • ⏱️ 15:59 • 1d ago
+👁️ 54K • 👍 1K • 💬 286 • ⏱️ 25:06 • 1d ago
 
 ---
 
@@ -391,7 +391,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 210,848 • ❤️ 668 • 9d ago
+⬇️ 210,848 • ❤️ 674 • 9d ago
 
 ---
 
@@ -403,7 +403,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 10,929 • ❤️ 663 • 8d ago
+⬇️ 10,929 • ❤️ 666 • 8d ago
 
 ---
 
@@ -415,7 +415,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 116,845 • ❤️ 946 • 5h ago
+⬇️ 116,845 • ❤️ 949 • 6h ago
 
 ---
 
@@ -451,7 +451,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 2,946 • ❤️ 251 • 1d ago
+⬇️ 2,946 • ❤️ 255 • 1d ago
 
 ---
 
@@ -463,7 +463,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 2,785,995 • ❤️ 951 • 18d ago
+⬇️ 2,785,995 • ❤️ 954 • 18d ago
 
 ---
 
@@ -475,7 +475,7 @@ GLM-OCR is a multimodal OCR model for complex document understanding, excelling 
 
 `image-to-text`
 
-⬇️ 3,030,741 • ❤️ 1,389 • 8d ago
+⬇️ 3,030,741 • ❤️ 1,390 • 8d ago
 
 ---
 
@@ -487,7 +487,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 321,498 • ❤️ 563 • 16d ago
+⬇️ 321,498 • ❤️ 564 • 16d ago
 
 ---
 
@@ -516,7 +516,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 Residual connections with PreNorm are standard in modern LLMs, yet they accumulate all layer outputs with fixed unit weights. This uniform aggregation causes uncontrolled hidden-state growth with depth, progressively diluting each layer's contribution. We propose Attention Residuals (AttnRes), which replaces this fixed accumulation with softmax attention over preceding layer outputs, allowing each layer to selectively aggregate earlier representations with learned, input-dependent weights. To address the memory and communication overhead of attending over all preceding layer outputs for large-scale model training, we introduce Block AttnRes, which partitions layers into blocks and attends over block-level representations, reducing the memory footprint while preserving most of the gains of full AttnRes. Combined with cache-based pipeline communication and a two-phase computation strategy, Block AttnRes becomes a practical drop-in replacement for standard residual connections with minimal overhead.
   Scaling law experiments confirm that the improvement is consistent across model sizes, and ablations validate the benefit of content-dependent depth-wise selection. We further integrate AttnRes into the Kimi Linear architecture (48B total / 3B activated parameters) and pre-train on 1.4T tokens, where AttnRes mitigates PreNorm dilution, yielding more uniform output magnitudes and gradient distribution across depth, and improves downstream performance across all evaluated tasks.
 
-▲ 122 • 💬 4 • ⭐ 2,074 • 4d ago
+▲ 124 • 💬 4 • ⭐ 2,074 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.15031) • [💻 code](https://github.com/MoonshotAI/Attention-Residuals)
 
@@ -554,7 +554,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabilities, multi-turn generation, and instruction-following control through natural-language descriptions, utilizing a multi-stage training approach and production-ready inference engine.
 
-▲ 34 • 💬 2 • ⭐ 28,417 • 10d ago
+▲ 34 • 💬 2 • ⭐ 28,417 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.08823) • [💻 code](https://github.com/fishaudio/fish-speech) • [🔗 project](https://fish.audio/)
 
@@ -582,7 +582,7 @@ A continual meta-learning framework for large language model agents that jointly
 
 OpenClaw-RL framework enables policy learning from diverse next-state signals across multiple interaction modalities using asynchronous training with PRM judges and hindsight-guided distillation.
 
-▲ 132 • 💬 6 • ⭐ 3,717 • 9d ago
+▲ 132 • 💬 6 • ⭐ 3,801 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.10165) • [💻 code](https://github.com/Gen-Verse/OpenClaw-RL) • [🔗 project](https://github.com/Gen-Verse/OpenClaw-RL)
 
@@ -622,7 +622,7 @@ EvoScientist is an adaptive multi-agent framework that enhances scientific disco
 
 What if a world simulation model could render not an imagined environment but a city that actually exists? Prior generative world models synthesize visually plausible yet artificial environments by imagining all content. We present Seoul World Model (SWM), a city-scale world model grounded in the real city of Seoul. SWM anchors autoregressive video generation through retrieval-augmented conditioning on nearby street-view images. However, this design introduces several challenges, including temporal misalignment between retrieved references and the dynamic target scene, limited trajectory diversity and data sparsity from vehicle-mounted captures at sparse intervals. We address these challenges through cross-temporal pairing, a large-scale synthetic dataset enabling diverse camera trajectories, and a view interpolation pipeline that synthesizes coherent training videos from sparse street-view images. We further introduce a Virtual Lookahead Sink to stabilize long-horizon generation by continuously re-grounding each chunk to a retrieved image at a future location. We evaluate SWM against recent video world models across three cities: Seoul, Busan, and Ann Arbor. SWM outperforms existing methods in generating spatially faithful, temporally consistent, long-horizon videos grounded in actual urban environments over trajectories reaching hundreds of meters, while supporting diverse camera movements and text-prompted scenario variations.
 
-▲ 135 • 💬 4 • ⭐ 377 • 4d ago
+▲ 135 • 💬 4 • ⭐ 384 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.15583) • [💻 code](https://github.com/naver-ai/seoul-world-model) • [🔗 project](https://seoul-world-model.github.io/)
 
@@ -651,7 +651,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 44.6k • 🔱 6.2k • 3d ago
+⭐ 44.9k • 🔱 6.2k • 3d ago
 
 ---
 
@@ -671,7 +671,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.8k • 🔱 1.6k • 2h ago
+⭐ 12.8k • 🔱 1.6k • 1h ago
 
 ---
 
@@ -681,7 +681,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 11.6k • 🔱 1.1k • 2d ago
+⭐ 11.7k • 🔱 1.1k • 2d ago
 
 ---
 
@@ -691,7 +691,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.1k • 🔱 730 • 3h ago
+⭐ 10.1k • 🔱 731 • 4h ago
 
 ---
 
@@ -701,7 +701,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 9.1k • 🔱 451 • 2h ago
+⭐ 9.1k • 🔱 451 • 4m ago
 
 ---
 
@@ -711,7 +711,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 5.4k • 🔱 789 • 17h ago
+⭐ 5.5k • 🔱 805 • 1h ago
 
 ---
 
@@ -721,7 +721,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `agent` `ai` `coding` `lowcode` `nocode`
 
-⭐ 4.5k • 🔱 396 • 17h ago
+⭐ 4.5k • 🔱 404 • 10m ago
 
 ---
 
@@ -731,7 +731,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `Python` `ai-agents` `claude` `claude-code` `cloud-security` `cybersecurity`
 
-⭐ 3.5k • 🔱 345 • 19h ago
+⭐ 3.5k • 🔱 348 • 20h ago
 
 ---
 
@@ -741,7 +741,7 @@ end to end app store screenshot creation using AI
 
 `agentic-ai` `apple` `appstore` `automate` `claude`
 
-⭐ 3.1k • 🔱 203 • 6d ago
+⭐ 3.1k • 🔱 204 • 6d ago
 
 ---
 
