@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-20T20:35:44.798707+00:00'
+updated: '2026-03-20T21:31:31.023236+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
 - news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 20, 2026 at 20:35 UTC  
+**Last Updated:** March 20, 2026 at 21:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Abra Financial Holdings, Inc. CEO
 
-6h ago
+7h ago
 
 ---
 
@@ -89,7 +89,7 @@ Abra Financial Holdings, Inc. CEO
 
 North Carolina is moving to become one of the first states to officially hold Bitcoin as part of its treasury reserves. The bill (HB 92) would allow the state treasurer to invest up to 10% of certain public funds in Bitcoin. These reserves typically consist of US Treasury bonds
 
-6h ago
+7h ago
 
 ---
 
@@ -97,7 +97,7 @@ North Carolina is moving to become one of the first states to officially hold Bi
 
 “I was 24 in 2017, fresh out of college, scraping by on ramen and side gigs. A crypto-savvy coworker convinced me to throw my entire savings—about $8,000—into Bitcoin. I ended up with roughly 2.1 BTC at around $3,800 avg. Felt unstoppable. Then 2018 hit: price crashed to $3k, I freaked out thinking it was a scam bubble bursting. Sold every single one to ‘cut losses’ and pay off student loans + buy a used car to get to a better job. Used the cash for real-life adulting. Fast forward: 2021 peak at $69k, I calculated what that would’ve been… over $140k gone. 2022 bear, I tried buying back scraps but could only afford 0.3 BTC. Now in 2026, with BTC way higher, that original stack would’ve been life-changing—house down payment, financial freedom, maybe even quitting the soul-crushing 9-5. Instead I drive the same beat-up car, still renting, and every time I see the price chart I feel physically sick. Worst part? I told my family it was ‘smart’ to sell. They still bring it up as my ‘biggest L.’ What’s your most brutal Bitcoin regret? The one that keeps you up at night? Drop your story—no judgment, just pain-sharing.”
 
-19h ago
+20h ago
 
 ---
 
@@ -105,7 +105,7 @@ North Carolina is moving to become one of the first states to officially hold Bi
 
 Hey all, i made mistake a long time ago when BTC price was 17.000€ and I wanted to do it, but I was too afraid. I wanted this asimetric bet on crypto on my portfolio. Today I purchased my first 1% of coin. I’ve waited for this oppurtunity for a long time now, and I finally got entry I am confortable with. So, new guy in the buisness. :) Any advice tou can give me?
 
-2h ago
+3h ago
 
 ---
 
@@ -113,7 +113,7 @@ Hey all, i made mistake a long time ago when BTC price was 17.000€ and I wante
 
 Is anybody else impressed by the stability of the price in the last month considering the state of the world? If the cycle is real (it's mostly followed it, what, 4 times now? Not exactly a substantial amount of data points... but it is a pattern nonetheless) then it's mildly interesting that it hasn't dropped further faster... yet. And considering the conflicts/wars and the state of the market and oil prices, and gold falling... yet through all this in the past month it has been steady around 70k plus or minus a bit. Maybe all this was "priced in" from before the last month, but if that were the case, amid the bear period of the "4 year cycle" AND the war, I'd have expected the "price in" to be more damaging. Just some commute-thoughts I had... open for discussion.
 
-7h ago
+8h ago
 
 ---
 
@@ -121,7 +121,7 @@ Is anybody else impressed by the stability of the price in the last month consid
 
 This question is directed at those who exclusively hold Bitcoin. How do you maintain conviction in a BTC-only strategy, and how do you deal with FOMO when altcoins are outperforming? Any tips for us that still have urge to buying altcoin ?
 
-12h ago
+13h ago
 
 ---
 
@@ -129,7 +129,7 @@ This question is directed at those who exclusively hold Bitcoin. How do you main
 
 The SEC’s interpretation on crypto assets is just the beginning and serves as a bridge while Congress works to advance market structure legislation. Our rules must be clear enough to guide markets, flexible enough to accommodate innovation, and firm enough to protect investors. https://x.com/SECPaulSAtkins/status/2034676128317661351
 
-21h ago
+22h ago
 
 ---
 
@@ -145,7 +145,7 @@ Back in September I got absolutely wrecked with some ridiculous margin trades, l
 
 This week’s newsletter includes our regular sections describing changes to services and client software, announcing new releases and release candidates, and summarizing recent changes to popular Bitcoin infrastructure software.
 
-🔗 [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/03/20/) • 4h ago
+🔗 [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/03/20/) • 5h ago
 
 ---
 
@@ -153,7 +153,7 @@ This week’s newsletter includes our regular sections describing changes to ser
 
 learnt from experience, dca is just the answer, suit your self! happy stacking
 
-11h ago
+12h ago
 
 ---
 
@@ -165,7 +165,7 @@ learnt from experience, dca is just the answer, suit your self! happy stacking
 
 Oil prices slipped as major economies announced joint efforts to stabilize energy markets.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo • 4h ago
 
 The president and CEO of Strategy said Morgan Stanley’s upcoming bitcoin ETF could unlock as much as $160 billion in demand under a modest portfolio allocation scenario.
 
-Bitcoin Magazine • 2h ago
+Bitcoin Magazine • 3h ago
 
 ---
 
@@ -195,7 +195,7 @@ Bitcoin Magazine • 2h ago
 
 Citigroup (NYSE:C) has cut its targets for Bitcoin and Ethereum for this year, according to media reports. The investment bank reportedly expects Bitcoin and Ethereum to reach $112,000 and $3,175 this year. The targets are lower than the bank’s initial...
 
-Yahoo Finance • 46m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 46m ago
 
 VanEck's latest report noted that the selling pressure among bitcoin miners remained steady despite a decline in profitability.
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -215,7 +215,7 @@ Bloomberg.com • 1d ago
 
 **[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqecMd61lA94Oq_0ft7KOsc6RTQNQa6lw4edOdyf2sGcmZTLI9mFCDQe&gaa_ts=69bdb2f8&gaa_sig=N6ElIfDCZj3F8WM8d8XQbhPn4grbo8zVUOaG6eoIEQPLNT38KDHhDIhq4tgFig5pOhjd6oecVPFzlMK5Jxg8Ng%3D%3D)**
 
-MarketWatch • 6h ago
+MarketWatch • 7h ago
 
 ---
 
@@ -247,7 +247,7 @@ Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in
 
 **[Bitcoin, XRP Fall in a Bad Week for Cryptos](https://news.ycombinator.com/item?id=47453548)**
 
-⬆️ 2 • 💬 0 • 8h ago • [barrons.com](https://www.barrons.com/articles/bitcoin-price-xrp-etheruem-crypto-sec-nasdaq-2e2f8254)
+⬆️ 2 • 💬 0 • 9h ago • [barrons.com](https://www.barrons.com/articles/bitcoin-price-xrp-etheruem-crypto-sec-nasdaq-2e2f8254)
 
 ---
 
@@ -283,7 +283,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 **[BioContact assurance and status monitoring using human body communication](https://news.ycombinator.com/item?id=47459528)**
 
-⬆️ 1 • 💬 0 • 59m ago • [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2590123025045001)
+⬆️ 1 • 💬 0 • 1h ago • [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2590123025045001)
 
 ---
 
@@ -297,7 +297,7 @@ Iran, Saudi Warning on oil, QQQ, Tesla, Bitcoin, Solana, and more! BITUNIX TRADE
 
 📺 Lark Davis
 
-👁️ 11K • 👍 612 • 💬 60 • ⏱️ 13:46 • 10h ago
+👁️ 11K • 👍 612 • 💬 60 • ⏱️ 13:46 • 11h ago
 
 ---
 
@@ -307,7 +307,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 10K • 👍 568 • 💬 34 • ⏱️ 5:05 • 11h ago
+👁️ 10K • 👍 568 • 💬 34 • ⏱️ 5:05 • 12h ago
 
 ---
 
@@ -317,7 +317,7 @@ A classic case of the bear market blues for Bitcoin. Into The Cryptoverse Premiu
 
 📺 Benjamin Cowen
 
-👁️ 46K • 👍 3K • 💬 173 • ⏱️ 11:38 • 16h ago
+👁️ 46K • 👍 3K • 💬 173 • ⏱️ 11:38 • 17h ago
 
 ---
 
@@ -327,7 +327,7 @@ Bill Barhydt is the founder and CEO of Abra and a longtime leader in digital ass
 
 📺 Anthony Pompliano
 
-👁️ 26K • 👍 990 • 💬 27 • ⏱️ 37:41 • 1d ago
+👁️ 26K • 👍 990 • 💬 27 • ⏱️ 37:41 • 2d ago
 
 ---
 
@@ -337,7 +337,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 15K • 👍 1K • 💬 45 • ⏱️ 49:42 • 9h ago
+👁️ 15K • 👍 1K • 💬 45 • ⏱️ 49:42 • 10h ago
 
 ---
 
@@ -347,7 +347,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Mahroof Sharif
 
-👁️ 1K • 16m ago
+👁️ 1K • 1h ago
 
 ---
 
@@ -367,7 +367,7 @@ CRAZY CRYPTO BULLRUN TO START 2028! INSTITUTIONAL INVESTORS ARE LOADING UP NOW H
 
 📺 CryptoWendyO
 
-👁️ 5K • 👍 255 • 💬 45 • ⏱️ 3:56 • 1d ago
+👁️ 5K • 👍 255 • 💬 45 • ⏱️ 3:56 • 2d ago
 
 ---
 
