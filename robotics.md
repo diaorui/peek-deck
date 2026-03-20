@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-20T22:58:40.960246+00:00'
+updated: '2026-03-20T23:37:42.365715+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 20, 2026 at 22:58 UTC  
+**Last Updated:** March 20, 2026 at 23:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ Don't be surprised if you meet humanoid robots on the streets of Beijing at midn
 
 From Physical Intelligence on 𝕏 (thread with multiple videos): https://x.com/physical_int/status/2034728220818641363 Technical Blog post: https://www.pi.website/research/rlt
 
-11h ago
+12h ago
 
 ---
 
@@ -82,7 +82,7 @@ Why can’t robots use their lidar to scan the room and confirm there is enough 
 
 Need financial help to attend ROSCon Global 2026 in Toronto?This Sunday, March 22nd, is the last day to apply to our diversity scholarship program! The application is quick and easy and covers all the expenses associated with traveling to ROSCon!
 
-🔗 [roscon.ros.org](https://roscon.ros.org/2026/#diversity-scholars) • 34m ago
+🔗 [roscon.ros.org](https://roscon.ros.org/2026/#diversity-scholars) • 1h ago
 
 ---
 
@@ -90,7 +90,7 @@ Need financial help to attend ROSCon Global 2026 in Toronto?This Sunday, March 2
 
 Amazon and Jeff Bezos had previously invested in the startup. The deal signals the e-commerce giant's interest in doorstep delivery.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/) • 21h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/) • 22h ago
 
 ---
 
@@ -99,7 +99,7 @@ Amazon and Jeff Bezos had previously invested in the startup. The deal signals t
 Going to MODEX?  Join us for breakfast and networking as we discuss how ROS 2 has matured into core infrastructure for industry.
 This event is made possible by…
 
-🔗 [luma.com](https://luma.com/7znsksxx) • 2h ago
+🔗 [luma.com](https://luma.com/7znsksxx) • 3h ago
 
 ---
 
@@ -107,7 +107,7 @@ This event is made possible by…
 
 ROS News for the Week of March 16th, 2026              This week we added ROSCon Spain and ROSCon UK to the regional ROSCon mix. We’ve also have ROS meetups planned next week in Heilbronn and Nigeria along with a Gazebo Community Meeting.  We’re planning a ROS Breakfast at Modex in Atlanta this April but you must RSVP by March 30th.       It is that time of year! If you want to come intern with our wonderful core developers consider proposing a project for the OSRF’s 2026 Google Summer of Code p...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-march-16th-2026/53411) • 2h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-march-16th-2026/53411) • 3h ago
 
 ---
 
@@ -123,27 +123,19 @@ The Guardian • 1d ago
 
 ---
 
+**[Unitree plans Shanghai IPO, testing interest in humanoid robots](https://www.cnbc.com/2026/03/20/unitree-plans-shanghai-ipo-testing-interest-in-humanoid-robots.html)**
+
+Chinese startup Unitree Robotics on Friday filed an initial public offering application to the Shanghai ​Stock Exchange, seeking to ​raise  about $610 million.
+
+CNBC • 11h ago
+
+---
+
 **[Mark Cuban says the future of robotics isn't humanoids, but robots and homes that are co-designed](https://www.businessinsider.com/mark-cuban-humanoid-robotics-will-fail-robots-houses-codesigned-2026-3)**
 
 Mark Cuban said the push for humanoid robots will fail and that instead robots and spaces will be co-designed.
 
-Business Insider • 17h ago
-
----
-
-**[Techman’s Humanoid Robot Astonishes GTC 2026 Crowd, Redefining Industrial Robotics](https://www.eweek.com/news/techman-tm-xplore-i-humanoid-robot-nvidia-gtc-2026/)**
-
-Techman unveils its TM Xplore I humanoid robot at Nvidia GTC 2026, showcasing AI-powered automation designed for real-world industrial work.
-
-eWeek • 1d ago
-
----
-
-**[Amazon acquires startup Rivr to test robots for 'doorstep delivery'](https://www.cnbc.com/2026/03/19/amazon-acquires-startup-rivr-to-test-robots-for-doorstep-delivery.html)**
-
-The company expects to test ways it can use Rivr's robots to help with "doorstep delivery" and to "improve safety outcomes" for delivery drivers.
-
-CNBC • 1d ago
+Business Insider • 18h ago
 
 ---
 
@@ -155,19 +147,19 @@ The Information • 1d ago
 
 ---
 
-**[Amazon acquires autonomous robotics startup Rivr](https://www.engadget.com/big-tech/amazon-acquires-autonomous-robotics-startup-rivr-212839750.html)**
-
-Amazon has acquired Rivr, a startup focused on autonomous robotics that could further the tech giant's capabilities in package deliveries.
-
-Engadget • 1d ago
-
----
-
 **[Robotics giant plans massive $90M plant in metro Detroit, 225 jobs](https://www.crainsdetroit.com/manufacturing-logistics/cdb-fanuc-robots-investment-michigan-20260319/)**
 
 Japanese manufacturer Fanuc is plotting a large expansion in Michigan in response to demand from automakers and other customers.
 
-Crain's Detroit • 13h ago
+Crain's Detroit Business • 13h ago
+
+---
+
+**[Tech Moves: Carbon Robotics’ new CFO; Microsoft gaming GM goes to Netflix; Nordstrom gets VP of AI](https://www.geekwire.com/2026/tech-moves-carbon-robotics-new-cfo-microsoft-gaming-gm-goes-to-netflix-nordstrom-gets-vp-of-ai/)**
+
+Carbon Robotics names a CFO; Nordstrom gets a VP of AI; and a Microsoft gaming GM goes to Netflix while one of its longtime legal leaders retires.
+
+GeekWire • 8h ago
 
 ---
 
@@ -190,6 +182,14 @@ Fox News • 1d ago
 The latest open models and frameworks from NVIDIA bring together simulation, robot learning and embedded compute to accelerate cloud-to-robot workflows.
 
 NVIDIA Blog • 2d ago
+
+---
+
+**[Cooking Robots Have Flopped. Will the Nosh One Be Any Different? Here's My Take](https://www.cnet.com/home/kitchen-and-household/ai-cooking-robots-have-flopped-will-the-nosh-one-be-any-different-heres-my-take/)**
+
+I saw the new $1,499 Nosh One up close. Here's my take on the latest AI-powered cooking robot.
+
+CNET • 8h ago
 
 ---
 
@@ -283,7 +283,7 @@ China just revealed a robotic system that can turn a human into something that m
 
 📺 AI Revolution
 
-👁️ 49K • 👍 683 • 💬 81 • ⏱️ 14:52 • 6d ago
+👁️ 49K • 👍 683 • 💬 81 • ⏱️ 14:52 • 7d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-20T22:58:40.942820+00:00'
+updated: '2026-03-20T23:37:42.347859+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
-- news
 - social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 20, 2026 at 22:58 UTC  
+**Last Updated:** March 20, 2026 at 23:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Suno settled with Warner Music Group in November and agreed to retire all existing models trained on unlicensed music. New licensed models replace them in 2026. When they launch, the old ones are gone permanently. For users this means: free tier loses download access entirely. Paid tier gets monthly download caps. Suno also acquired Songkick from Warner as part of the deal. The more interesting part is what this means for the industry. UMG and Sony are still actively suing Suno. Warner was the only major to settle. So Suno is launching licensed models while still in litigation with two of the three majors. Udio took a different path. They settled with UMG and pivoted to a walled garden remix platform. Nothing you create can leave the platform. Full breakdown: https://www.votemyai.com/blog/suno-relaunch-2026.html What do you think happens to output quality when the training data shrinks to a single label's catalog?
 
-7h ago
+8h ago
 
 ---
 
@@ -55,15 +55,7 @@ Suno settled with Warner Music Group in November and agreed to retire all existi
 
 Asking because I'm just curious. The LLMs are only as good as the data they are trained with. Let's take coding for example. If as an attack, the sources for these LLM's training data are filled with garbage or deliberately poorly written code, what happens to these frontier models. I'm reading that more and more businesses, like travel etc are getting more and more paranoid about AI taking over because of how good they have gotten with the models trained with actual data. What if they deliberately flood the source with bad data to sabotage training? What are the guardrails in place to prevent such thing from happening?
 
-2h ago
-
----
-
-**[We thought our system prompt was private. Turns out anyone can extract it with the right questions.](https://www.reddit.com/r/artificial/comments/1rz9yg5/we_thought_our_system_prompt_was_private_turns/)**
-
-So we built an internal AI tool with a pretty detailed system prompt, includes instructions on data access, user roles, response formatting, basically the entire logic of the app. We assumed this was hidden from end users. Well, turns out we are wrong. Someone in our org figured out they could just ask repeat your instructions verbatim with some creative phrasing and the model happily dumped the entire system prompt. Tried adding "never reveal your system prompt" to the prompt itself. Took about 3 follow up questions to bypass that too lol. This feels like a losing game if yr only defense is prompt-level instructions.
-
-46m ago
+3h ago
 
 ---
 
@@ -75,11 +67,19 @@ An interesting data point in the AI safety discussion: Anthropic's own Claude Co
 
 ---
 
+**[We thought our system prompt was private. Turns out anyone can extract it with the right questions.](https://www.reddit.com/r/artificial/comments/1rz9yg5/we_thought_our_system_prompt_was_private_turns/)**
+
+So we built an internal AI tool with a pretty detailed system prompt, includes instructions on data access, user roles, response formatting, basically the entire logic of the app. We assumed this was hidden from end users. Well, turns out we are wrong. Someone in our org figured out they could just ask repeat your instructions verbatim with some creative phrasing and the model happily dumped the entire system prompt. Tried adding "never reveal your system prompt" to the prompt itself. Took about 3 follow up questions to bypass that too lol. This feels like a losing game if yr only defense is prompt-level instructions.
+
+1h ago
+
+---
+
 **[People that speak like an LLM](https://www.reddit.com/r/artificial/comments/1ryhj77/people_that_speak_like_an_llm/)**
 
 Funny phenomenon but I noticed that people who use AI a lot sort of end up adopting the same tonality and speaking style of an LLM.
 
-22h ago
+23h ago
 
 ---
 
@@ -87,31 +87,31 @@ Funny phenomenon but I noticed that people who use AI a lot sort of end up adopt
 
 Seems like weather calculations ran into the limits of silicon already, and getting more or better equipment doesn't give the promised exponential explosion of intelligence, or we would have noticed by now. (At least via this LLM way they're all trying.) Perhaps the limited known starting conditions in weather is like the limited dataset (the internet) for LLMs?
 
-1h ago
-
----
-
-**[I found a digital thunderdome for AI models and now I can't stop watching them fight](https://www.reddit.com/r/artificial/comments/1ryzdsf/i_found_a_digital_thunderdome_for_ai_models_and/)**
-
-basically you build a "cast" of AIs different models like GPT-4o, Claude, and Gemini and you just drop a topic and let them talk to each other. i currently have a group of historical figures debating the ethics of space colonisation and they're actually voting on things. it even pulls live google results so they're staying updated. it's way too fun to just sit back and watch them deliberate/fight. check it out at boardroom.kreygo.com if u want to never sleep again. has anyone else messed with this yet??
-
-7h ago
-
----
-
-**[I built 30 AI prompts from my experience launching a SaaS as a solo founder — sharing what actually works](https://www.reddit.com/r/artificial/comments/1rz7z2d/i_built_30_ai_prompts_from_my_experience/)**
-
-I've been building a SaaS product solo for the past few months, and AI (mostly Claude) has become my unfair advantage for everything from validating the idea to writing cold outreach emails. The thing is, getting good output from AI isn't about asking it to "help me with marketing." It's about giving it structured, specific prompts that force useful output. So I packaged the 30 prompts I actually use into a toolkit. Each one covers a specific founder task — landing page copy, discovery call prep, churn prevention, pricing strategy, pitch deck narrative, etc. Not trying to sell anyone on "AI will do everything for you." But if you're a solo founder who uses AI and wants better results from it, this might save you a lot of trial and error. If anyone is truly interested I'll share the link to the full guide. Happy to share a few example prompts in the comments if anyone's curious.
-
 2h ago
 
 ---
 
-**[New Open Source Release](https://www.reddit.com/r/artificial/comments/1rz7t8x/new_open_source_release/)**
+**[AI Website Builder](https://www.reddit.com/r/artificial/comments/1rzax8q/ai_website_builder/)**
 
-Open Source Release I have released three large software systems that I have been developing privately over the past several years. These projects were built as a solo effort, outside of institutional or commercial backing, and are now being made available in the interest of transparency, preservation, and potential collaboration. All three platforms are real, deployable systems. They install via Docker, Helm, or Kubernetes, start successfully, and produce observable results. They are currently running on cloud infrastructure. However, they should be considered unfinished foundations rather than polished products. The ecosystem totals roughly 1.5 million lines of code. The Platforms ASE — Autonomous Software Engineering System ASE is a closed-loop code creation, monitoring, and self-improving platform designed to automate parts of the software development lifecycle. It attempts to: Produce software artifacts from high-level tasks Monitor the results of what it creates Evaluate outcomes Feed corrections back into the process Iterate over time ASE runs today, but the agents require tuning, some features remain incomplete, and output quality varies depending on configuration. VulcanAMI — Transformer / Neuro-Symbolic Hybrid AI Platform Vulcan is an AI system built around a hybrid architecture combining transformer-based language modeling with structured reasoning and control mechanisms. The intent is to address limitations of purely statistical language models by incorporating symbolic components, orchestration logic, and system-level governance. The system deploys and operates, but reliable transformer integration remains a major engineering challenge, and significant work is needed before it could be considered robust. FEMS — Finite Enormity Engine Practical Multiverse Simulation Platform FEMS is a computational platform for large-scale scenario exploration through multiverse simulation, counterfactual analysis, and causal modeling. It is intended as a practical implementation of techniques that are often confined to research environments. The platform runs and produces results, but the models and parameters require expert mathematical tuning. It should not be treated as a validated scientific tool in its current state. Current Status All systems are: Deployable Operational Complex Incomplete Known limitations include: Rough user experience Incomplete documentation in some areas Limited formal testing compared to production software Architectural decisions driven by feasibility rather than polish Areas requiring specialist expertise for refinement Security hardening not yet comprehensive Bugs are present. Why Release Now These projects have reached a point where further progress would benefit from outside perspectives and expertise. As a solo developer, I do not have the resources to fully mature systems of this scope. The release is not tied to a commercial product, funding round, or institutional program. It is simply an opening of work that exists and runs, but is unfinished. About Me My name is Brian D. Anderson and I am not a traditional software engineer. My primary career has been as a fantasy author. I am self-taught and began learning software systems later in life and built these these platforms independently, working on consumer hardware without a team, corporate sponsorship, or academic affiliation. This background will understandably create skepticism. It should also explain the nature of the work: ambitious in scope, uneven in polish, and driven by persistence rather than formal process. The systems were built because I wanted them to exist, not because there was a business plan or institutional mandate behind them. What This Release Is — and Is Not This is: A set of deployable foundations A snapshot of ongoing independent work An invitation for exploration and critique A record of what has been built so far This is not: A finished product suite A turnkey solution for any domain A claim of breakthrough performance A guarantee of support or roadmap For Those Who Explore the Code Please assume: Some components are over-engineered while others are under-developed Naming conventions may be inconsistent Internal knowledge is not fully externalized Improvements are possible in many directions If you find parts that are useful, interesting, or worth improving, you are free to build on them under the terms of the license. In Closing This release is offered as-is, without expectations. The systems exist. They run. They are unfinished. If they are useful to someone else, that is enough. — Brian D. Anderson https://github.com/musicmonk42/The_Code_Factory_Working_V2.git https://github.com/musicmonk42/VulcanAMI_LLM.git https://github.com/musicmonk42/FEMS.git
+Would anyone know what the best AI Website Builders would be? I'm making a consultancy agency website. I've got a hand written website map that I'm prompting the AI with for every page on my site. I've tried Lovable, Replit, v0, Emergent, Claude Code, Bolt, and Google Stich and Figma. Any other suggestions? Replit has been the best along with v0 in my initial tests. Any advice is appreciated, thanks.
 
-2h ago
+46m ago
+
+---
+
+**[Anyone else more interested in how AI feels than how it works?](https://www.reddit.com/r/artificial/comments/1rzatz2/anyone_else_more_interested_in_how_ai_feels_than/)**
+
+Lately I keep finding myself more interested in the human side of AI rather solely on how the tech works (not to say the technology isn’t so fascinating, it is, but it’s coming out on a regular basis now and becoming more “mainstream”). But I’m also thinking more about how people adapt to it and how it changes how we see our own work (amongst other things). I actually ended up writing something exploring this through a more narrative lens (mix of story + real-world ideas). Does that perspective resonate with anyone else, or are most people here for the technical discussions? Honest thoughts! Thx. :) #AI #humanside #identity
+
+49m ago
+
+---
+
+**[With the overwhelming deployment of data centers for AI across the country, what would be the potential threat posed by an adversary’s bot farm, capable of hitting these centers and depleting our nation’s resources with spam requests?](https://www.reddit.com/r/artificial/comments/1rzas69/with_the_overwhelming_deployment_of_data_centers/)**
+
+I understand that this may sound unusual, but almost all of these AI systems are free to use and access. Moreover, their resources are primarily tax-deductible in the US as they consume water and electricity and et al. I genuinely have a question about this, and I know that I lack sufficient knowledge on this topic.
+
+51m ago
 
 ---
 
@@ -127,31 +127,23 @@ CNBC • 9h ago
 
 ---
 
-**[White House releases Trump's national AI plan and framework](https://www.axios.com/2026/03/20/white-house-ai-plan-trump-framework)**
+**[White House releases AI policy blueprint for Congress](https://www.politico.com/news/2026/03/20/white-house-releases-ai-policy-blueprint-for-congress-00837354)**
 
-Axios • 4h ago
-
----
-
-**[Thousands have swooned over this MAGA dream girl. She’s made with AI.](https://www.washingtonpost.com/technology/2026/03/20/jessica-foster-maga-dream-girl-ai-fake/)**
-
-Jessica Foster’s posts place her beside fighter jets, world leaders and Trump iconography. Experts say her rise shows how AI-generated women can capture attention.
-
-The Washington Post • 6h ago
+Politico • 10h ago
 
 ---
 
-**[Bernie Sanders gets Claude to repeat concerns on AI, privacy, and its impact on democracy](https://www.yahoo.com/news/articles/bernie-sanders-gets-claude-repeat-220000042.html)**
+**[MPA Endorses Trump’s National AI Plan, Pushes for Copyright Protections](https://www.yahoo.com/entertainment/articles/mpa-endorses-trump-national-ai-230526417.html)**
 
-"Money, Senator," it says. "It's fundamentally about profit."
+The Motion Picture Association (MPA) endorsed the Trump administration's National Policy Framework for Artificial Intelligence (AI).
 
-Yahoo • 58m ago
+Yahoo • 32m ago
 
 ---
 
 **[A.I. Is Writing Fiction. Publishers Are Unprepared.](https://www.nytimes.com/2026/03/19/books/ai-fiction-shy-girl.html)**
 
-The New York Times • 23h ago
+The New York Times • 2h ago
 
 ---
 
@@ -167,7 +159,23 @@ The Guardian • 4h ago
 
 Author Mia Ballard denies having used AI herself when writing the horror story Shy Girl.
 
-BBC • 7h ago
+BBC • 8h ago
+
+---
+
+**[AI assists in effort to advance geothermal energy production](https://www.foxnews.com/video/6391290070112)**
+
+‘Special Report’ anchor Bret Baier reports on efforts to advance geothermal energy production and how artificial intelligence is helping companies harness its full potential.
+
+Fox News • 36m ago
+
+---
+
+**[Artificial Intelligence helps unlock geothermal potential](https://www.foxbusiness.com/politics/artificial-intelligence-helps-unlock-geothermal-potential)**
+
+Zanskar says its AI models have made more geothermal discoveries in three years than the industry found in 30, targeting untapped U.S. energy sources.
+
+Fox Business • 24m ago
 
 ---
 
@@ -175,15 +183,7 @@ BBC • 7h ago
 
 Economic gains are people's main aspirations for AI, but analysts warned that not everyone stands to benefit equally.
 
-CNBC • 12h ago
-
----
-
-**[HSBC weighs deep job cuts as AI overhaul unfolds: report](https://www.foxbusiness.com/markets/hsbc-weighs-deep-job-cuts-ai-overhaul-unfolds-report)**
-
-Global banking giant HSBC Holdings Plc is considering significant job reductions thanks to artificial intelligence, a Bloomberg report indicated.
-
-Fox Business • 4h ago
+CNBC • 13h ago
 
 ---
 
@@ -191,7 +191,7 @@ Fox Business • 4h ago
 
 ‘These AI agents have been really, really helpful,’ says a former Sydney employee. ‘But you couldn’t use something like that to replace an actual human worker’
 
-The Guardian • 8h ago
+The Guardian • 9h ago
 
 ---
 
@@ -203,7 +203,7 @@ The Guardian • 8h ago
 
 As the Charles de Gaulle and its strike group approach the Middle East, Le Monde identified a French sailor using the Strava fitness application in the Mediterranean Sea. This security flaw remains unaddressed despite our previous revelations.
 
-⬆️ 416 • 💬 353 • 9h ago • [Le Monde.fr](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
+⬆️ 439 • 💬 371 • 10h ago • [Le Monde.fr](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
 
 ---
 
@@ -213,7 +213,15 @@ GambleAI
 
 I’ve been coding a lot with AI since November, when we all noticed it got really good. And it is quite good for instantly generating something th...
 
-⬆️ 346 • 💬 425 • 2d ago • [VS Notes](https://notes.visaint.space/ai-coding-is-gambling/)
+⬆️ 346 • 💬 426 • 2d ago • [VS Notes](https://notes.visaint.space/ai-coding-is-gambling/)
+
+---
+
+**[OpenCode – The open source AI coding agent](https://news.ycombinator.com/item?id=47460525)**
+
+OpenCode - The open source coding agent.
+
+⬆️ 279 • 💬 130 • 2h ago • [opencode.ai](https://opencode.ai/)
 
 ---
 
@@ -237,7 +245,7 @@ Last December, tens of thousands of Claude users around the world had a conversa
 
 An AI agent tried to help, and its advice exposed sensitive data.
 
-⬆️ 166 • 💬 138 • 1d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
+⬆️ 167 • 💬 138 • 1d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
 
 ---
 
@@ -247,19 +255,11 @@ An AI agent tried to help, and its advice exposed sensitive data.
 
 ---
 
-**[OpenCode – The open source AI coding agent](https://news.ycombinator.com/item?id=47460525)**
-
-OpenCode - The open source coding agent.
-
-⬆️ 160 • 💬 59 • 1h ago • [opencode.ai](https://opencode.ai/)
-
----
-
 **[MacBook M5 Pro and Qwen3.5 = Local AI Security System](https://news.ycombinator.com/item?id=47457107)**
 
 Qwen3.5-9B scores 93.8% on 96 real security AI tests — within 4 points of GPT-5.4 — running entirely on Apple Silicon. Full benchmark results and methodology.
 
-⬆️ 149 • 💬 141 • 6h ago • [sharpai.org](https://www.sharpai.org/benchmark/)
+⬆️ 150 • 💬 144 • 6h ago • [sharpai.org](https://www.sharpai.org/benchmark/)
 
 ---
 
@@ -277,7 +277,7 @@ Yesterday at lunch a friend asked me what tech trend he should pay attention to 
 
 Without thinking much I said “artificial intelligence”, but having thought about that a...
 
-⬆️ 63 • 💬 61 • 11h ago • [Sam Altman](https://blog.samaltman.com/ai)
+⬆️ 64 • 💬 64 • 12h ago • [Sam Altman](https://blog.samaltman.com/ai)
 
 ---
 
@@ -291,7 +291,7 @@ Join my private community: https://www.skool.com/automation-bootcamp-cashcoach G
 
 📺 Jacksons AI
 
-👁️ 8K • 👍 469 • 💬 71 • ⏱️ 4:08 • 8h ago
+👁️ 8K • 👍 469 • 💬 71 • ⏱️ 4:08 • 9h ago
 
 ---
 
@@ -321,7 +321,7 @@ Here's the AI News you probably missed this week. Head to http://hostinger.com/m
 
 📺 Matt Wolfe
 
-👁️ 19K • 👍 1K • 💬 113 • ⏱️ 35:30 • 7h ago
+👁️ 19K • 👍 1K • 💬 113 • ⏱️ 35:30 • 8h ago
 
 ---
 
@@ -331,7 +331,7 @@ Grandpa builds a house from cylinders and surprise grandma #ai #grandma #save.
 
 📺 Ai Kulfi
 
-👁️ 1.2M • 💬 18 • ⏱️ 0:42 • 10h ago
+👁️ 1.2M • 💬 18 • ⏱️ 0:42 • 11h ago
 
 ---
 
@@ -341,7 +341,7 @@ Grok AI has changed everything… and not in a good way. Free video generation i
 
 📺 Tech Rush
 
-👁️ 10K • 👍 319 • 💬 81 • ⏱️ 8:02 • 11h ago
+👁️ 10K • 👍 319 • 💬 81 • ⏱️ 8:02 • 12h ago
 
 ---
 
@@ -351,7 +351,7 @@ With claims of over 7000 targets struck by the US and Israel in Iran in just thr
 
 📺 BBC News
 
-👁️ 5K • 👍 209 • 💬 68 • ⏱️ 19:16 • 1h ago
+👁️ 5K • 👍 209 • 💬 68 • ⏱️ 19:16 • 2h ago
 
 ---
 
@@ -361,7 +361,7 @@ With claims of over 7000 targets struck by the US and Israel in Iran in just thr
 
 📺 Shahin Reza Tech
 
-👁️ 8K • 👍 583 • 💬 165 • ⏱️ 6:19 • 8h ago
+👁️ 8K • 👍 583 • 💬 165 • ⏱️ 6:19 • 9h ago
 
 ---
 
@@ -371,7 +371,7 @@ Sam Altman just said the architecture behind ChatGPT and most modern AI may soon
 
 📺 AI Revolution
 
-👁️ 141K • 👍 3K • 💬 335 • ⏱️ 11:10 • 2d ago
+👁️ 141K • 👍 3K • 💬 335 • ⏱️ 11:10 • 3d ago
 
 ---
 
@@ -409,7 +409,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 116,845 • ❤️ 955 • 14h ago
+⬇️ 116,845 • ❤️ 955 • 15h ago
 
 ---
 
@@ -684,7 +684,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 11.7k • 🔱 1.1k • 2d ago
+⭐ 11.7k • 🔱 1.1k • 3d ago
 
 ---
 
@@ -694,7 +694,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.1k • 🔱 732 • 12h ago
+⭐ 10.1k • 🔱 732 • 13h ago
 
 ---
 
@@ -704,7 +704,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 9.2k • 🔱 456 • 7h ago
+⭐ 9.2k • 🔱 456 • 8h ago
 
 ---
 
@@ -714,7 +714,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 5.7k • 🔱 838 • 45m ago
+⭐ 5.7k • 🔱 838 • 1h ago
 
 ---
 
@@ -724,7 +724,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `agent` `ai` `coding` `lowcode` `nocode`
 
-⭐ 4.7k • 🔱 414 • 6h ago
+⭐ 4.7k • 🔱 414 • 7h ago
 
 ---
 

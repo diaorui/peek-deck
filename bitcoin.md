@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-20T22:58:40.951207+00:00'
+updated: '2026-03-20T23:37:42.356512+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - videos
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 20, 2026 at 22:58 UTC  
+**Last Updated:** March 20, 2026 at 23:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** -0.7%  
-**30d:** +5.6%  
-**90d:** -20.2%  
-**1y:** -15.9%  
+**24h:** +0.4%  
+**7d:** -1.0%  
+**30d:** +5.3%  
+**90d:** -20.5%  
+**1y:** -16.2%  
 
 ---
 
@@ -85,6 +85,14 @@ Abra Financial Holdings, Inc. CEO
 
 ---
 
+**[This sub currently](https://www.reddit.com/r/Bitcoin/comments/1rza6z8/this_sub_currently/)**
+
+Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Alden's book called Broken Money and read it.
+
+1h ago
+
+---
+
 **[good morninggggg bitcoin bulls! North Carolina just introduced a bill to put Bitcoin in the state treasury](https://www.reddit.com/r/Bitcoin/comments/1rywz2l/good_morninggggg_bitcoin_bulls_north_carolina/)**
 
 North Carolina is moving to become one of the first states to officially hold Bitcoin as part of its treasury reserves. The bill (HB 92) would allow the state treasurer to invest up to 10% of certain public funds in Bitcoin. These reserves typically consist of US Treasury bonds
@@ -97,23 +105,7 @@ North Carolina is moving to become one of the first states to officially hold Bi
 
 Hey all, i made mistake a long time ago when BTC price was 17.000€ and I wanted to do it, but I was too afraid. I wanted this asimetric bet on crypto on my portfolio. Today I purchased my first 1% of coin. I’ve waited for this oppurtunity for a long time now, and I finally got entry I am confortable with. So, new guy in the buisness. :) Any advice tou can give me?
 
-4h ago
-
----
-
-**[This sub currently](https://www.reddit.com/r/Bitcoin/comments/1rza6z8/this_sub_currently/)**
-
-Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Alden's book called Broken Money and read it.
-
-36m ago
-
----
-
-**[My biggest Bitcoin regret: Sold 2.1 BTC in 2018 for student loans and a used car—now it would’ve been life-changing money](https://www.reddit.com/r/Bitcoin/comments/1ryibr8/my_biggest_bitcoin_regret_sold_21_btc_in_2018_for/)**
-
-“I was 24 in 2017, fresh out of college, scraping by on ramen and side gigs. A crypto-savvy coworker convinced me to throw my entire savings—about $8,000—into Bitcoin. I ended up with roughly 2.1 BTC at around $3,800 avg. Felt unstoppable. Then 2018 hit: price crashed to $3k, I freaked out thinking it was a scam bubble bursting. Sold every single one to ‘cut losses’ and pay off student loans + buy a used car to get to a better job. Used the cash for real-life adulting. Fast forward: 2021 peak at $69k, I calculated what that would’ve been… over $140k gone. 2022 bear, I tried buying back scraps but could only afford 0.3 BTC. Now in 2026, with BTC way higher, that original stack would’ve been life-changing—house down payment, financial freedom, maybe even quitting the soul-crushing 9-5. Instead I drive the same beat-up car, still renting, and every time I see the price chart I feel physically sick. Worst part? I told my family it was ‘smart’ to sell. They still bring it up as my ‘biggest L.’ What’s your most brutal Bitcoin regret? The one that keeps you up at night? Drop your story—no judgment, just pain-sharing.”
-
-21h ago
+5h ago
 
 ---
 
@@ -125,11 +117,19 @@ Is anybody else impressed by the stability of the price in the last month consid
 
 ---
 
+**[My biggest Bitcoin regret: Sold 2.1 BTC in 2018 for student loans and a used car—now it would’ve been life-changing money](https://www.reddit.com/r/Bitcoin/comments/1ryibr8/my_biggest_bitcoin_regret_sold_21_btc_in_2018_for/)**
+
+“I was 24 in 2017, fresh out of college, scraping by on ramen and side gigs. A crypto-savvy coworker convinced me to throw my entire savings—about $8,000—into Bitcoin. I ended up with roughly 2.1 BTC at around $3,800 avg. Felt unstoppable. Then 2018 hit: price crashed to $3k, I freaked out thinking it was a scam bubble bursting. Sold every single one to ‘cut losses’ and pay off student loans + buy a used car to get to a better job. Used the cash for real-life adulting. Fast forward: 2021 peak at $69k, I calculated what that would’ve been… over $140k gone. 2022 bear, I tried buying back scraps but could only afford 0.3 BTC. Now in 2026, with BTC way higher, that original stack would’ve been life-changing—house down payment, financial freedom, maybe even quitting the soul-crushing 9-5. Instead I drive the same beat-up car, still renting, and every time I see the price chart I feel physically sick. Worst part? I told my family it was ‘smart’ to sell. They still bring it up as my ‘biggest L.’ What’s your most brutal Bitcoin regret? The one that keeps you up at night? Drop your story—no judgment, just pain-sharing.”
+
+22h ago
+
+---
+
 **[Holding BTC only strategy](https://www.reddit.com/r/Bitcoin/comments/1ryqf4b/holding_btc_only_strategy/)**
 
 This question is directed at those who exclusively hold Bitcoin. How do you maintain conviction in a BTC-only strategy, and how do you deal with FOMO when altcoins are outperforming? Any tips for us that still have urge to buying altcoin ?
 
-14h ago
+15h ago
 
 ---
 
@@ -137,7 +137,15 @@ This question is directed at those who exclusively hold Bitcoin. How do you main
 
 Back in September I got absolutely wrecked with some ridiculous margin trades, lost a massive chunk of change No point crying over spilled milk though right Strategy now is simple - just keep stacking sats through regular buys and forget about it Bitcoin crashing? mate I'm loving every minute of it, more coins for less cash so I'm cranking up my daily buys These prices are a gift if you ask me
 
-16h ago
+17h ago
+
+---
+
+**[What are the best hardware wallets in your opinion?](https://www.reddit.com/r/Bitcoin/comments/1rzbujf/what_are_the_best_hardware_wallets_in_your_opinion/)**
+
+This is my comprehensive guide for 10 and more hardware wallets, their pros and cons and facts why a specific wallet may be suitable for a user personality. What is your take?
+
+🔗 [renditecloud.com](https://renditecloud.com/2026/02/09/the-10-best-crypto-hardware-wallets-in-2026/) • 8m ago
 
 ---
 
@@ -145,15 +153,7 @@ Back in September I got absolutely wrecked with some ridiculous margin trades, l
 
 The SEC’s interpretation on crypto assets is just the beginning and serves as a bridge while Congress works to advance market structure legislation. Our rules must be clear enough to guide markets, flexible enough to accommodate innovation, and firm enough to protect investors. https://x.com/SECPaulSAtkins/status/2034676128317661351
 
-23h ago
-
----
-
-**[Bitcoin Optech Newsletter #397](https://www.reddit.com/r/Bitcoin/comments/1rz0itc/bitcoin_optech_newsletter_397/)**
-
-This week’s newsletter includes our regular sections describing changes to services and client software, announcing new releases and release candidates, and summarizing recent changes to popular Bitcoin infrastructure software.
-
-🔗 [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/03/20/) • 6h ago
+1d ago
 
 ---
 
@@ -177,11 +177,19 @@ CoinDesk • 17h ago
 
 ---
 
+**[Phong Le Calls Morgan Stanley’s BTC ETF a “Monster Bitcoin” Bet With $160 Billion Potential](https://bitcoinmagazine.com/news/phong-le-calls-morgan-stanleys-bitcoin)**
+
+The president and CEO of Strategy said Morgan Stanley’s upcoming bitcoin ETF could unlock as much as $160 billion in demand under a modest portfolio allocation scenario.
+
+Bitcoin Magazine • 5h ago
+
+---
+
 **[Morgan Stanley sets MSBT ticker and $1 million seed capital for bitcoin ETF](https://www.coindesk.com/markets/2026/03/20/morgan-stanley-sets-msbt-ticker-and-usd1-million-seed-capital-for-bitcoin-etf)**
 
 Morgan Stanley has filed to launch a spot Bitcoin ETF with the ticker MSBT and a $1 million seed at debut.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -189,15 +197,7 @@ CoinDesk • 17h ago
 
 Morgan Stanley (MS) has filed an amended S-1 for its Bitcoin ETF, which will trade under the ticker MSBT on the New York Stock Exchange.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Morgan Stanley Prepares Bitcoin ETF for NYSE Arca Launch, Picking MSBT Ticker](https://decrypt.co/361769/morgan-stanley-prepares-bitcoin-etf-nyse-arca-launch-msbt)**
-
-Morgan Stanley updated its Bitcoin ETF S-1 filing, adding Fidelity as custodian and revealing the NYSE Arca ticker MSBT.
-
-Decrypt • 1d ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -217,15 +217,15 @@ Yahoo Finance • 2h ago
 
 ---
 
-**[‘Difficult to resolve’: Local authorities return money lost in Bitcoin scam](https://fox8.com/news/difficult-to-resolve-local-authorities-return-money-lost-in-bitcoin-scam/)**
+**[Bitcoin, XRP Fall. Crypto Markets Get What They Expected From Fed’s Powell.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-fed-decision-cryptos-powell-e3021a22?gaa_at=eafs&gaa_n=AWEtsqczmjTQzANxCZIjc1IJFguVXSfZD7F5EQQNEAplo7Dp6P-rBtUty-MI&gaa_ts=69bdddb5&gaa_sig=oKPYuFJwsMP9wkVXORpLG7ec7hwuPxjIc90CRej0h4sufYIv8QOKHKUfpsb4vWTe2WbCilWtYiePadtOaMsX1w%3D%3D)**
 
-FOX 8 News • 7h ago
+Barron's • 2d ago
 
 ---
 
 **[Bitcoin Whale Strategy Defies Gravity When It Issues Stock. Is It Just Good Timing?](https://www.investors.com/news/mstr-stock-strategy-defies-gravity-stock-issuance-bitcoin/)**
 
-Investor's Business Daily • 5h ago
+Investor's Business Daily • 6h ago
 
 ---
 
@@ -249,7 +249,7 @@ Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in
 
 **[Bitcoin, XRP Fall in a Bad Week for Cryptos](https://news.ycombinator.com/item?id=47453548)**
 
-⬆️ 2 • 💬 0 • 10h ago • [barrons.com](https://www.barrons.com/articles/bitcoin-price-xrp-etheruem-crypto-sec-nasdaq-2e2f8254)
+⬆️ 2 • 💬 0 • 11h ago • [barrons.com](https://www.barrons.com/articles/bitcoin-price-xrp-etheruem-crypto-sec-nasdaq-2e2f8254)
 
 ---
 
@@ -285,7 +285,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 **[BioContact assurance and status monitoring using human body communication](https://news.ycombinator.com/item?id=47459528)**
 
-⬆️ 1 • 💬 0 • 3h ago • [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2590123025045001)
+⬆️ 1 • 💬 0 • 4h ago • [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2590123025045001)
 
 ---
 
@@ -299,7 +299,7 @@ New report exposes institutions have only just begun dipping their toes into bit
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 240 • 💬 32 • ⏱️ 1:30:42 • 3h ago
+👁️ 4K • 👍 240 • 💬 32 • ⏱️ 1:30:42 • 4h ago
 
 ---
 
@@ -319,7 +319,7 @@ Iran, Saudi Warning on oil, QQQ, Tesla, Bitcoin, Solana, and more! BITUNIX TRADE
 
 📺 Lark Davis
 
-👁️ 12K • 👍 643 • 💬 76 • ⏱️ 13:46 • 12h ago
+👁️ 12K • 👍 643 • 💬 76 • ⏱️ 13:46 • 13h ago
 
 ---
 
@@ -349,7 +349,7 @@ A classic case of the bear market blues for Bitcoin. Into The Cryptoverse Premiu
 
 📺 Benjamin Cowen
 
-👁️ 49K • 👍 3K • 💬 183 • ⏱️ 11:38 • 18h ago
+👁️ 49K • 👍 3K • 💬 183 • ⏱️ 11:38 • 19h ago
 
 ---
 
@@ -389,7 +389,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptovers
 
 📺 Benjamin Cowen
 
-👁️ 1K • 👍 47 • ⏱️ 0:53 • 49m ago
+👁️ 1K • 👍 47 • ⏱️ 0:53 • 1h ago
 
 ---
 
