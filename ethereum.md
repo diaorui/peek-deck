@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-20T21:31:31.028550+00:00'
+updated: '2026-03-20T22:30:35.795854+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- cryptocurrency
 - social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 20, 2026 at 21:31 UTC  
+**Last Updated:** March 20, 2026 at 22:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,127.19
+### $2,163.69
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** +1.6%  
-**30d:** +9.3%  
-**90d:** -29.0%  
-**1y:** +8.4%  
+**24h:** +0.9%  
+**7d:** +2.9%  
+**30d:** +10.7%  
+**90d:** -28.1%  
+**1y:** +9.8%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
+
+---
+
+**[Thorchain Alternative?](https://www.reddit.com/r/ethereum/comments/1rz9an2/thorchain_alternative/)**
+
+I’m looking for a way to swap my Bitcoin to Ethereum without KYC, so obviously i found thorchain, but unfortunately it’s not available here in the U.S, and i heard it’s very expensive as well. Where should I do it you think? sorry if this question was already asked in past but i couldnt find an answer after bit lf time checking.
+
+44m ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everybody, I've been building a no code visual smart contract builder for solidity to help non-developers realize their ideas without having to learn solidity. While doing that, as a dog food experiment, I created a block explorer which uses the visualizations against verified contracts so I could test better. At some point I realized that would make a pretty cool tool for a lot of people since I'm able to surface things that most block explorers don't: being able to replay a transaction and follow what's happening on the visual graph displaying various attributes about a contract like whether it's pausible, has only owner functions, etc showing debug info about every step that happened in the contract There's probably a lot more that I could do there and I'm looking to source ideas from the community about what should be added. It'd be great if y'all could take a look and see if there's anything obvious that I'm missing https://doodledapp.com/explorer Thanks!
 
-22h ago
+23h ago
 
 ---
 
@@ -136,14 +144,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Daily General Discussion March 17, 2026](https://www.reddit.com/r/ethereum/comments/1rvxepg/daily_general_discussion_march_17_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -160,13 +160,21 @@ Benzinga • 2d ago
 
 Citigroup (NYSE:C) has cut its targets for Bitcoin and Ethereum for this year, according to media reports. The investment bank reportedly expects Bitcoin and Ethereum to reach $112,000 and $3,175 this year. The targets are lower than the bank’s initial...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqehG7mcLekb19mCGymGtvbJNvxeFXkzMMG7w4TQXozmdxopPlOPmE8x&gaa_ts=69bdb2fa&gaa_sig=WatZHOsFvlCW7OwjjDuvivCoiDb9B6GUi0nxw5W3sOXYb6rpfohjnPgdppWsmnkeZYt_W7Jm-PcJUG-ryOqOQg%3D%3D)**
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqd_-EP-ihbmsl89d8KoWtzh7fGNBJmxH3ctxul4lBgE0vrgIxQrcaOh&gaa_ts=69bdcdf8&gaa_sig=sCHxb6LBCc5eEHsaYFO8Ys8mfwRsifrhFgXQJ7knaR3WZYGLQGwtt4OTe7cFmGFNCtd5NLJ_kvxtF4-OXEPhgw%3D%3D)**
 
-MarketWatch • 7h ago
+MarketWatch • 8h ago
+
+---
+
+**[This is the latest sign of a quiet crypto revolution](https://nypost.com/2026/03/20/business/blackrock-launches-ethereum-exchange-traded-fund/)**
+
+“Ethereum, to me, is really gonna be where Wall Street meets crypto,” a source told NYNext.
+
+New York Post • 11h ago
 
 ---
 
@@ -175,14 +183,6 @@ MarketWatch • 7h ago
 Canton developers said supporting programming languages outside of its native Daml could open the network to a wider pool of developers.
 
 The Block • 1d ago
-
----
-
-**[This is the latest sign of a quiet crypto revolution](https://nypost.com/2026/03/20/business/blackrock-launches-ethereum-exchange-traded-fund/)**
-
-“Ethereum, to me, is really gonna be where Wall Street meets crypto,” a source told NYNext.
-
-New York Post • 10h ago
 
 ---
 
@@ -198,13 +198,7 @@ Decrypt • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 7h ago
-
----
-
-**[Ethereum Price Bottom Has Hit, Tom Lee Claims Again — Three Reasons He Says It's Heading Higher](https://www.ccn.com/news/crypto/ethereum-price-bottom-hit-tom-lee-claims-again-three-reasons/)**
-
-CCN.com • 9h ago
+Fortune • 8h ago
 
 ---
 
@@ -212,7 +206,15 @@ CCN.com • 9h ago
 
 Ethereum has slipped into a valuation range that some on-chain analysts associate with major long-term bottoms, after ETH fell below its realized price for the first time in two years. Via X, renowned crypto analyst Ali Martinez argued on Thursday the setup now resembles prior cycle lows.Ethereum D…
 
-TradingView • 17h ago
+TradingView • 18h ago
+
+---
+
+**[Will Ethereum Ever Hit $5,000?](https://www.fool.com/investing/2026/03/20/will-ethereum-ever-hit-5000/)**
+
+Ethereum hit a new record high in 2025, but it still fell short of the $5,000 milestone.
+
+The Motley Fool • 10h ago
 
 ---
 
@@ -232,7 +234,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 Max Green
 
-👁️ 188 • 👍 1K • 1h ago
+👁️ 188 • 👍 1K • 2h ago
 
 ---
 
@@ -252,7 +254,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 246 • 💬 23 • ⏱️ 19:43 • 5h ago
+👁️ 3K • 👍 246 • 💬 23 • ⏱️ 19:43 • 6h ago
 
 ---
 
@@ -262,7 +264,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 Gershon Rebong
 
-👁️ 106 • 👍 1K • 2h ago
+👁️ 106 • 👍 1K • 3h ago
 
 ---
 
@@ -272,7 +274,7 @@ BITCOIN & ALTCOIN WARNING: Price Targets Exposed!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 1K • 👍 105 • 💬 121 • ⏱️ 16:50 • 2h ago
+👁️ 1K • 👍 105 • 💬 121 • ⏱️ 16:50 • 3h ago
 
 ---
 
@@ -282,7 +284,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 90 • 💬 5 • ⏱️ 4:30 • 7h ago
+👁️ 1K • 👍 90 • 💬 5 • ⏱️ 4:30 • 8h ago
 
 ---
 
@@ -300,7 +302,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 184 • 👍 8 • 💬 2 • ⏱️ 4:56 • 11h ago
+👁️ 184 • 👍 8 • 💬 2 • ⏱️ 4:56 • 12h ago
 
 ---
 
