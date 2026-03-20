@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-20T13:02:23.539340+00:00'
+updated: '2026-03-20T14:12:30.307148+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 20, 2026 at 13:02 UTC  
+**Last Updated:** March 20, 2026 at 14:12 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,722.99
+### $70,223.30
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** -1.2%  
-**30d:** +5.0%  
-**90d:** -20.7%  
-**1y:** -16.4%  
+**24h:** +0.5%  
+**7d:** -1.8%  
+**30d:** +4.4%  
+**90d:** -21.2%  
+**1y:** -16.9%  
 
 ---
 
@@ -81,7 +81,23 @@ Rank #1
 
 “I was 24 in 2017, fresh out of college, scraping by on ramen and side gigs. A crypto-savvy coworker convinced me to throw my entire savings—about $8,000—into Bitcoin. I ended up with roughly 2.1 BTC at around $3,800 avg. Felt unstoppable. Then 2018 hit: price crashed to $3k, I freaked out thinking it was a scam bubble bursting. Sold every single one to ‘cut losses’ and pay off student loans + buy a used car to get to a better job. Used the cash for real-life adulting. Fast forward: 2021 peak at $69k, I calculated what that would’ve been… over $140k gone. 2022 bear, I tried buying back scraps but could only afford 0.3 BTC. Now in 2026, with BTC way higher, that original stack would’ve been life-changing—house down payment, financial freedom, maybe even quitting the soul-crushing 9-5. Instead I drive the same beat-up car, still renting, and every time I see the price chart I feel physically sick. Worst part? I told my family it was ‘smart’ to sell. They still bring it up as my ‘biggest L.’ What’s your most brutal Bitcoin regret? The one that keeps you up at night? Drop your story—no judgment, just pain-sharing.”
 
-11h ago
+13h ago
+
+---
+
+**[Loving Bitcoin at $120k and $60k tells you it’s not about timing, it’s about opting out](https://www.reddit.com/r/Bitcoin/comments/1rywlrd/loving_bitcoin_at_120k_and_60k_tells_you_its_not/)**
+
+Abra Financial Holdings, Inc. CEO
+
+29m ago
+
+---
+
+**[good morninggggg bitcoin bulls! North Carolina just introduced a bill to put Bitcoin in the state treasury](https://www.reddit.com/r/Bitcoin/comments/1rywz2l/good_morninggggg_bitcoin_bulls_north_carolina/)**
+
+North Carolina is moving to become one of the first states to officially hold Bitcoin as part of its treasury reserves. The bill (HB 92) would allow the state treasurer to invest up to 10% of certain public funds in Bitcoin. These reserves typically consist of US Treasury bonds
+
+13m ago
 
 ---
 
@@ -89,7 +105,7 @@ Rank #1
 
 This question is directed at those who exclusively hold Bitcoin. How do you maintain conviction in a BTC-only strategy, and how do you deal with FOMO when altcoins are outperforming? Any tips for us that still have urge to buying altcoin ?
 
-4h ago
+6h ago
 
 ---
 
@@ -97,7 +113,7 @@ This question is directed at those who exclusively hold Bitcoin. How do you main
 
 The SEC’s interpretation on crypto assets is just the beginning and serves as a bridge while Congress works to advance market structure legislation. Our rules must be clear enough to guide markets, flexible enough to accommodate innovation, and firm enough to protect investors. https://x.com/SECPaulSAtkins/status/2034676128317661351
 
-13h ago
+14h ago
 
 ---
 
@@ -105,7 +121,7 @@ The SEC’s interpretation on crypto assets is just the beginning and serves as 
 
 Back in September I got absolutely wrecked with some ridiculous margin trades, lost a massive chunk of change No point crying over spilled milk though right Strategy now is simple - just keep stacking sats through regular buys and forget about it Bitcoin crashing? mate I'm loving every minute of it, more coins for less cash so I'm cranking up my daily buys These prices are a gift if you ask me
 
-6h ago
+7h ago
 
 ---
 
@@ -115,19 +131,11 @@ Back in September I got absolutely wrecked with some ridiculous margin trades, l
 
 ---
 
-**[Is $30.000 enought?](https://www.reddit.com/r/Bitcoin/comments/1rytmfg/is_30000_enought/)**
-
-Good morning everyone. Recently I've been thinking about how much bitcoin I would need to live comfortably. If I invest all my $30,000 * 12% annual return on Bitcoin, I arrive at a value of $5 million. I found out an calculator. Is this projection realistic or would it be crazy? To be clear, hypothetically I would invest this money and only come back to withdraw it in 22 years…
-
-🔗 [threedolar.com.br](https://threedolar.com.br/en/bitcoin-retirement-calculator/) • 1h ago
-
----
-
 **[Quantum Resistant Bitcoin? BTQ Deploys First Working BIP 360 Implementation on Bitcoin Quantum Testnet](https://www.reddit.com/r/Bitcoin/comments/1ry3lpt/quantum_resistant_bitcoin_btq_deploys_first/)**
 
 BTQ Technologies has launched the first working BIP 360 implementation on its Bitcoin Quantum testnet, enabling developers to test quantum-resistant Bitcoin transactions in practice.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/btq-deploys-first-bip-360-quantum) • 21h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/btq-deploys-first-bip-360-quantum) • 22h ago
 
 ---
 
@@ -135,23 +143,15 @@ BTQ Technologies has launched the first working BIP 360 implementation on its Bi
 
 learnt from experience, dca is just the answer, suit your self! happy stacking
 
-3h ago
+4h ago
 
 ---
 
-**[Stripe launches payment services for crypto businesses](https://www.reddit.com/r/Bitcoin/comments/1rymisy/stripe_launches_payment_services_for_crypto/)**
+**[Stability recently](https://www.reddit.com/r/Bitcoin/comments/1ryvh9f/stability_recently/)**
 
-Payment provider Stripe is launching services targeting crypto businesses for onramps, offramps and KYC. Partners incl FTX crypto exchange
+Is anybody else impressed by the stability of the price in the last month considering the state of the world? If the cycle is real (it's mostly followed it, what, 4 times now? Not exactly a substantial amount of data points... but it is a pattern nonetheless) then it's mildly interesting that it hasn't dropped further faster... yet. And considering the conflicts/wars and the state of the market and oil prices, and gold falling... yet through all this in the past month it has been steady around 70k plus or minus a bit. Maybe all this was "priced in" from before the last month, but if that were the case, amid the bear period of the "4 year cycle" AND the war, I'd have expected the "price in" to be more damaging. Just some commute-thoughts I had... open for discussion.
 
-🔗 [Ledger Insights - blockchain for enterprise](https://www.ledgerinsights.com/stripe-launches-payment-services-for-crypto-businesses/) • 8h ago
-
----
-
-**[Hashrate Heated House: The Complete Guide to Heating Your Home with Bitcoin Mining](https://www.reddit.com/r/Bitcoin/comments/1ryqoei/hashrate_heated_house_the_complete_guide_to/)**
-
-Adam, a QA engineer at Braiins, heats his entire house with a single hydro-cooled bitcoin miner. The system provides floor heating, hot tap water, and earns bitcoin at the same time. It has been running for over a year.
-
-🔗 [braiins.com](https://braiins.com/blog/hashrate-heated-house-bitcoin) • 4h ago
+1h ago
 
 ---
 
@@ -163,41 +163,41 @@ Adam, a QA engineer at Braiins, heats his entire house with a single hydro-coole
 
 Oil prices slipped as major economies announced joint efforts to stabilize energy markets.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
-**[Bitcoin, XRP Fall. Crypto Markets Get What They Expected From Fed’s Powell.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-fed-decision-cryptos-powell-e3021a22?gaa_at=eafs&gaa_n=AWEtsqfmVTK6K1MCaKAm0BdsRj5gA315AjxknymeX8iz9vB6CZy5kGFJ7d-b&gaa_ts=69bd48c3&gaa_sig=GjZQnDVsrraJAhsXC9aLAvKVAxKO18RKuefW2sopmGshx5jIQq_Zf_U3EMgqOXrODDo11ouzOxhyCRRq1Mg4xg%3D%3D)**
+**[Bitcoin, XRP Fall. Crypto Markets Get What They Expected From Fed’s Powell.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-fed-decision-cryptos-powell-e3021a22?gaa_at=eafs&gaa_n=AWEtsqdHfaQLUy_jOQV2a5Ll3m-gDAtzhSsDeV9Lsp7AQE1117jBhzN5f8x3&gaa_ts=69bd5933&gaa_sig=ksoMU1Ozd1-dwaWaVstF_mZxMv9QQ0OAbDXTbyBRE5aGLmKq-gz4wqoii-fTHkbfxwxirddwK2UTmXiwglOqJA%3D%3D)**
 
 Barron's • 1d ago
 
 ---
 
-**[Bitcoin (BTC) price news: Hold onto "dry powder" while prices swing, says one analyst](https://www.coindesk.com/markets/2026/03/19/bitcoin-holds-usd69-000-as-gold-tumbles-oil-spikes-but-analyst-says-stay-on-sidelines)**
+**[Why Bitcoin Was Sinking on Wednesday](https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-sinking-wednesday-001850414.html)**
 
-While bitcoin has shown relative strength against gold since the war in Iran broke out, investors are better off holding off "dry powder" while prices swing wildly on headlines, said Wintermute's Bryan Tan.
+A Fed decision and bearish forecasts led to a modest sell-off.
 
-CoinDesk • 19h ago
+Yahoo Finance • 1d ago
 
 ---
 
 **[Bitcoin price today: steadies near $71k after tumbling on oil spike, hawkish Fed](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-steadies-near-71k-after-tumbling-on-oil-spike-hawkish-fed-4572270)**
 
-Investing.com • 7h ago
+Investing.com • 8h ago
 
 ---
 
-**[Perry Township Police Department recovers funds for Bitcoin scam victim](https://www.yahoo.com/news/articles/perry-township-police-department-recovers-102829399.html)**
+**[Man Accuses Ex-Wife of $200M Bitcoin Theft — How Feasible Is It? Experts Weigh In](https://www.yahoo.com/news/articles/man-accuses-ex-wife-200m-140557145.html)**
 
-The Perry Township Police Department in Stark County helped in recovering a majority of a man's money after he fell for a Bitcoin scam, according to a Facebook post.  "If something doesn’t feel right,...
+A man claims his ex-wife stole $200 million in Bitcoin using access to his wallet’s recovery phrase. Experts say the method is possible and likely ...
 
-Yahoo • 2h ago
+Yahoo • 6m ago
 
 ---
 
-**[Financial advisers used to say no to bitcoin. Now they’re saying maybe — but with a catch.](https://www.marketwatch.com/story/financial-advisers-used-to-say-no-to-bitcoin-now-theyre-saying-maybe-but-with-a-catch-2c16149a?gaa_at=eafs&gaa_n=AWEtsqcwIX-km8Req1lOxMiy7qbrGLsW64GUHutjACUQPA1yUKrm9tAmPraK&gaa_ts=69bd48c3&gaa_sig=UQTTCmUdpFng_8HBRAMRVEMGgz4hQ-tkq_Nr6N10it5fJLMDzwpwlcn5wwg9DgMpdK0X-UbBjMSc7L6T1R8Jbw%3D%3D)**
+**[Financial advisers used to say no to bitcoin. Now they’re saying maybe — but with a catch.](https://www.marketwatch.com/story/financial-advisers-used-to-say-no-to-bitcoin-now-theyre-saying-maybe-but-with-a-catch-2c16149a?gaa_at=eafs&gaa_n=AWEtsqfSw_T1Z3yGqq42Z8eQpNUpiPyb7wKt8LKZt1QFQyrn54JaYTNRSZrY&gaa_ts=69bd5933&gaa_sig=0tvAOHsErl9ueDgj7wDJSXquRFaAdCPprWBjI2nSailiTUuffnt1NCNBRmTweYw3f_sJ4xmiHK5kLj2e2Y9aCw%3D%3D)**
 
-MarketWatch • 1h ago
+MarketWatch • 2h ago
 
 ---
 
@@ -205,27 +205,29 @@ MarketWatch • 1h ago
 
 Rumors of Bitcoin's death have been much exaggerated.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
-**[Ex-Wife Accused of Stealing £180 Million in Bitcoin After Divorce](https://www.bloomberg.com/news/articles/2026-03-19/ex-wife-accused-of-stealing-180-million-in-bitcoin-after-divorce)**
+**[Bitcoin long-term holder selling slows, signaling 'potentially constructive' trend: VanEck](https://www.theblock.co/post/394467/bitcoin-long-term-holder-activity-slows-vaneck)**
 
-Bloomberg.com • 1d ago
+VanEck's latest report noted that the selling pressure among bitcoin miners remained steady despite a decline in profitability.
 
----
-
-**[Current price of Bitcoin for March 20, 2026](https://fortune.com/article/price-of-bitcoin-03-20-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 11m ago
+The Block • 5h ago
 
 ---
 
 **[Bitcoin Price Undercuts $70,000 As Higher-For-Longer Policy Weighs Across Asset](https://www.investors.com/news/bitcoin-price-fall-70k-federal-reserve-rates-oil-prices-iran-cryptocurrency-stocks-sec-nasdaq/)**
 
-Investor's Business Daily • 15h ago
+Investor's Business Daily • 16h ago
+
+---
+
+**[BTQ Deploys First Working BIP 360 Implementation On Bitcoin Quantum Testnet](https://bitcoinmagazine.com/news/btq-deploys-first-bip-360-quantum)**
+
+BTQ Technologies has launched the first working BIP 360 implementation on its Bitcoin Quantum testnet, enabling developers to test quantum-resistant Bitcoin transactions in practice.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -237,13 +239,13 @@ Investor's Business Daily • 15h ago
 
 Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in. Proof that works without us.
 
-⬆️ 4 • 💬 0 • 20h ago • [Umarise](https://umarise.com/blog/proof-of-existence)
+⬆️ 4 • 💬 0 • 21h ago • [Umarise](https://umarise.com/blog/proof-of-existence)
 
 ---
 
 **[Bitcoin, XRP Fall in a Bad Week for Cryptos](https://news.ycombinator.com/item?id=47453548)**
 
-⬆️ 2 • 💬 0 • 42m ago • [barrons.com](https://www.barrons.com/articles/bitcoin-price-xrp-etheruem-crypto-sec-nasdaq-2e2f8254)
+⬆️ 2 • 💬 0 • 1h ago • [barrons.com](https://www.barrons.com/articles/bitcoin-price-xrp-etheruem-crypto-sec-nasdaq-2e2f8254)
 
 ---
 
@@ -287,7 +289,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 4K • 👍 361 • 💬 15 • ⏱️ 5:05 • 4h ago
+👁️ 4K • 👍 361 • 💬 15 • ⏱️ 5:05 • 5h ago
 
 ---
 
@@ -297,7 +299,7 @@ A classic case of the bear market blues for Bitcoin. Into The Cryptoverse Premiu
 
 📺 Benjamin Cowen
 
-👁️ 28K • 👍 2K • 💬 138 • ⏱️ 11:38 • 8h ago
+👁️ 28K • 👍 2K • 💬 138 • ⏱️ 11:38 • 9h ago
 
 ---
 
@@ -307,7 +309,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 7K • 👍 548 • 💬 102 • ⏱️ 8:48 • 8h ago
+👁️ 7K • 👍 548 • 💬 102 • ⏱️ 8:48 • 9h ago
 
 ---
 
@@ -317,7 +319,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 980 • 💬 158 • ⏱️ 41:39 • 22h ago
+👁️ 19K • 👍 980 • 💬 158 • ⏱️ 41:39 • 23h ago
 
 ---
 
@@ -327,7 +329,7 @@ Is the Bitcoin pullback finally over, or is this just another setup before the n
 
 📺 Crypto Banter
 
-👁️ 3K • 👍 311 • 💬 8 • ⏱️ 8:12 • 4h ago
+👁️ 3K • 👍 311 • 💬 8 • ⏱️ 8:12 • 5h ago
 
 ---
 
@@ -347,7 +349,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 139 • 💬 7 • ⏱️ 18:54 • 19h ago
+👁️ 3K • 👍 139 • 💬 7 • ⏱️ 18:54 • 20h ago
 
 ---
 
@@ -367,7 +369,7 @@ Something strange is happening in Bitcoin. While people debate if Bitcoin matter
 
 📺 The Exit Manual
 
-👁️ 23K • 👍 2K • 💬 352 • ⏱️ 14:53 • 17h ago
+👁️ 23K • 👍 2K • 💬 352 • ⏱️ 14:53 • 18h ago
 
 ---
 
@@ -377,7 +379,7 @@ BITCOIN BEARISH TARGET HIT (this is next)!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 6K • 👍 246 • 💬 103 • ⏱️ 18:32 • 13h ago
+👁️ 6K • 👍 246 • 💬 103 • ⏱️ 18:32 • 14h ago
 
 ---
 

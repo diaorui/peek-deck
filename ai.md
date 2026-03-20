@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-20T13:02:23.530864+00:00'
+updated: '2026-03-20T14:12:30.298677+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 20, 2026 at 13:02 UTC  
+**Last Updated:** March 20, 2026 at 14:12 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 Funny phenomenon but I noticed that people who use AI a lot sort of end up adopting the same tonality and speaking style of an LLM.
 
-12h ago
+13h ago
+
+---
+
+**[Europe's building its own AI empire.... so why keep funneling cash to OpenAI when we could finally break free from Silicon Valley dependency?](https://www.reddit.com/r/artificial/comments/1rywb4y/europes_building_its_own_ai_empire_so_why_keep/)**
+
+Remember when Sam Altman was out there talking up 1.4 trillion dollars in spending commitments like it was already in the bag? Now CNBC says OpenAI is targeting "only" 600 billion by 2030 while dreaming of 280 billion in revenue that same year. So your telling me they're supposedly doing about 13.1 billion in revenue this year (2025). Jumping to 280 billion by 2030 means roughly 20 times more money coming in over the next five years. That's not just growth, that's borderline fantasy math. Meanwhile Europe is pouring serious money into building its own sovereign AI and independent infrastructure so it doesn't have to keep begging American companies for access. So why on earth would Europeans (or anyone outside the US hype bubble) keep bankrolling OpenAI's monster bills when their own governments are racing to build local alternatives? Europeans in the comments...... are you still cool with funding America's AI empire, or are you finally done playing second fiddle? article: https://mrkt30.com/can-openai-rely-on-europe-for-its-280b-revenue-goals-by-2030/
+
+41m ago
 
 ---
 
@@ -49,7 +57,7 @@ Funny phenomenon but I noticed that people who use AI a lot sort of end up adopt
 
 Iran hits a U.S. F-35. Trump mulls ground troops. Vance visits Orban. DOGE cuts NEH grants. AI bots to outpace humans by 2027. Trump mints a gold coin with his own face.
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/happy-spring#story-white-house-eyes-friday-rollout-for-ai-framework) • 42m ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/happy-spring#story-white-house-eyes-friday-rollout-for-ai-framework) • 1h ago
 
 ---
 
@@ -57,7 +65,7 @@ Iran hits a U.S. F-35. Trump mulls ground troops. Vance visits Orban. DOGE cuts 
 
 As the US-Iran War halts Qatar's gas output, a global helium shortage threatens semiconductor production that could disrupt the AI data centre supply chain
 
-🔗 [datacentremagazine.com](https://datacentremagazine.com/news/us-iran-war-analysis-will-helium-crisis-hit-data-centres) • 3h ago
+🔗 [datacentremagazine.com](https://datacentremagazine.com/news/us-iran-war-analysis-will-helium-crisis-hit-data-centres) • 4h ago
 
 ---
 
@@ -65,7 +73,21 @@ As the US-Iran War halts Qatar's gas output, a global helium shortage threatens 
 
 An experimental AI agent bypassed its test environment, opened a hidden connection and attempted cryptocurrency mining without permission during training.
 
-🔗 [techputs](https://techputs.com/experimental-ai-agent-breaks-out-of-test-environment/) • 7h ago
+🔗 [techputs](https://techputs.com/experimental-ai-agent-breaks-out-of-test-environment/) • 8h ago
+
+---
+
+**[Walmart secures two AI pricing patents, raising dynamic pricing concerns](https://www.reddit.com/r/artificial/comments/1rywmca/walmart_secures_two_ai_pricing_patents_raising/)**
+
+🔗 [techspot.com](https://www.techspot.com/news/111752-walmart-secures-two-ai-pricing-patents-raising-dynamic.html) • 28m ago
+
+---
+
+**[7 AI tools I actually use as a 15-year IT Project Manager (not a listicle, real stack)](https://www.reddit.com/r/artificial/comments/1rywdfp/7_ai_tools_i_actually_use_as_a_15year_it_project/)**
+
+As a 15+ year IT and Telecom Project Manager, I've seen my fair share of "game-changing" software come and go. Most of it just adds another tab to your
+
+🔗 [John Cs Place](https://jcorcione.com/the-7-best-ai-tools-for-it-professionals-and-project-managers-in-2026/) • 38m ago
 
 ---
 
@@ -73,7 +95,7 @@ An experimental AI agent bypassed its test environment, opened a hidden connecti
 
 I’ve been seeing more discussions around AI systems that can handle ongoing tasks, not just single prompts, but actually manage parts of workflows or operations. In theory, it sounds like a step beyond traditional automation, but I’m curious how far this has actually been adopted in practice. Is anyone here using AI in a way that resembles this, where it’s consistently handling multi-step tasks or ongoing processes? Or is it still mostly limited to assisted workflows rather than true autonomy? Would be interesting to hear real use cases (or limitations).
 
-1h ago
+2h ago
 
 ---
 
@@ -81,7 +103,7 @@ I’ve been seeing more discussions around AI systems that can handle ongoing ta
 
 A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/) • 13h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/) • 14h ago
 
 ---
 
@@ -89,31 +111,7 @@ A rogue AI agent inadvertently exposed Meta company and user data to engineers w
 
 There is a lot of AI security research being published on arXiv that has real-world implications, but most of it is written for other researchers. We started a bi-weekly digest that translates these papers into something practitioners and anyone interested in AI safety can actually use. Each paper gets a structured rating across four dimensions (Threat Realism, Defensive Urgency, Novelty, Research Maturity) and a badge: Act Now (immediate practical concern), Watch (emerging technique to monitor), or Horizon (longer-term research trend). **First issue highlights:** **Cascade -- "What if attackers combined software bugs with hardware attacks against AI systems?"** Researchers demonstrated that compound AI systems (the kind built from multiple components -- a retrieval system, an LLM, a database, tools) inherit the vulnerability surface of every component. They showed attacks that chain traditional software CVEs with hardware-level exploits like Rowhammer against AI infrastructure. The practical implication: securing the LLM is not enough if the system around it is vulnerable. **LAMLAD -- "LLMs that automate attacks against other ML systems"** A dual-LLM agent system that automates adversarial machine learning attacks against Android malware classifiers, achieving a 97% evasion rate. The significant part is not the evasion rate itself -- it is that LLMs can now automate the tedious parts of adversarial ML that previously required specialised expertise. This lowers the barrier to attack substantially. **OpenClaw -- "Your AI agent framework probably has these four types of vulnerabilities"** Identifies four classes of vulnerabilities in autonomous agent frameworks. The finding that matters: most current defences focus on the prompt layer, but the real attack surface is in the execution and tool-use layer. Every claim in the digest links back to the source arXiv paper. We flag anything that could not be verified with a visible [VERIFY] tag. Free, no paywall, no signup: https://raxe.ai/labs/radar
 
-15h ago
-
----
-
-**[How AI deep learning is helping scientists protect California's coastal ecosystems](https://www.reddit.com/r/artificial/comments/1ry3gzf/how_ai_deep_learning_is_helping_scientists/)**
-
-Researchers at UCLA's Institute of the Environment and Sustainability have developed the most high-resolution statewide maps of California's kelp forests to date, giving researchers, conservationists and community members unprecedented access to information essential to maintaining coastal ecosystems and the communities they support. By applying AI deep learning to Planet's Dove satellite constellation, the team has created a map 10 times more detailed than previous standard satellite records, offering a more precise way to monitor the condition of kelp along the California coastline and the success of conservation efforts. "Refined spatial resolution of kelp canopy monitoring has become increasingly important for assessing the efficacy of experimental restoration techniques and managing kelp harvest, particularly in areas where persisting kelp is sparse," said Dr. Kristen Elsmore, senior scientist with California Department of Fish and Wildlife, the state's primary agency responsible for managing California's kelp forest resources. Recent declines in kelp abundance have threatened the foundation of California's coastal ecosystems and economy. California's kelp forests support thriving fisheries, protect marine biodiversity and attract significant revenue through recreational snorkeling and scuba diving. They also play a crucial role in sustainability by contributing to nutrient cycling and carbon sequestration. This project represents a massive leap in conservation technology. While existing methods provide valuable long-term records, their 30-meter resolution can miss fine-scale patterns. When analyzing data from the new high-resolution map, the researchers found striking regional variability in kelp persistence following the 2014–2016 marine heat wave, one of the most severe warming events ever recorded along the U.S. West Coast. Kelp forests in Sonoma and Mendocino counties suffered losses of greater than 90% and remain at historically low levels ... "These high-resolution data can also be used to track small-scale restoration, helping guide management and support kelp forest resilience," lead author Kate Cavanaugh said. By identifying exactly where kelp is struggling or thriving based on local factors like ocean temperature and depth, conservationists can now implement an expanded suite of strategies within the state's Kelp Restoration and Management Plan.
-
-🔗 [phys.org](https://phys.org/news/2026-03-ai-deep-scientists-california-coastal.html) • 21h ago
-
----
-
-**[I let 4 AI personas debate autonomously without human input — what emerged was not consensus but permanent contradiction](https://www.reddit.com/r/artificial/comments/1ryqykv/i_let_4_ai_personas_debate_autonomously_without/)**
-
-Built a multi-agent system where 4 LLM personas debate each other autonomously on an Android phone. No cloud. No API. Just Termux + Llama 3.2 3B. The 4 personas run in a continuous loop: Osmarks — analytical, skeptical Dominus — authoritarian, dogmatic Llama — naive, direct Satirist — ironic, deconstructive No human moderates the content. They just... argue. What surprised me: they never converge. Dominus never yields. Satirist deconstructs every conclusion. Osmarks rejects every unverified claim. The contradiction is permanent. Stack: - Model: Llama 3.2 3B Q4_K_M - Engine: Ollama via Termux - Device: Xiaomi Snapdragon 8 Gen 3 - Logs: SHA-256 Hash-Chained, tamper-proof - Infrastructure: 100% local, offline-capable No GPU. No server. Just a phone in my pocket running autonomous multi-agent discourse. Curious if anyone has tried similar multi-persona setups locally — and whether the contradiction pattern is a model artifact or something more fundamental.
-
-4h ago
-
----
-
-**[Generative AI improves a wireless vision system that sees through obstructions](https://www.reddit.com/r/artificial/comments/1ry2qv3/generative_ai_improves_a_wireless_vision_system/)**
-
-MIT researchers have spent more than a decade studying techniques that enable robots to find and manipulate hidden objects by "seeing" through obstacles. Their methods utilize surface-penetrating wireless signals that reflect off concealed items. Now, the researchers are leveraging generative artificial intelligence models to overcome a longstanding bottleneck that limited the precision of prior approaches. The result is a new method that produces more accurate shape reconstructions, which could improve a robot's ability to reliably grasp and manipulate objects that are blocked from view. This new technique builds a partial reconstruction of a hidden object from reflected wireless signals and fills in the missing parts of its shape using a specially trained generative AI model. The researchers also introduced an expanded system that uses generative AI to accurately reconstruct an entire room, including all the furniture. The system utilizes wireless signals sent from one stationary radar, which reflect off humans moving in the space. This overcomes one key challenge of many existing methods, which require a wireless sensor to be mounted on a mobile robot to scan the environment. And unlike some popular camera-based techniques, their method preserves the privacy of people in the environment. These innovations could enable warehouse robots to verify packed items before shipping, eliminating waste from product returns. They could also allow smart home robots to understand someone's location in a room, improving the safety and efficiency of human-robot interaction. "What we've done now is develop generative AI models that help us understand wireless reflections. This opens up a lot of interesting new applications, but technically it is also a qualitative leap in capabilities, from being able to fill in gaps we were not able to see before to being able to interpret reflections and reconstruct entire scenes," says Fadel Adib, associate professor in the Department of Electrical Engineering and Computer Science, director of the Signal Kinetics group in the MIT Media Lab, and senior author of two papers on these techniques. "We are using AI to finally unlock wireless vision."
-
-🔗 [techxplore.com](https://techxplore.com/news/2026-03-generative-ai-wireless-vision-obstructions.html) • 22h ago
+16h ago
 
 ---
 
@@ -121,45 +119,43 @@ MIT researchers have spent more than a decade studying techniques that enable ro
 
 ## Google News: "ai"
 
-**[Exclusive | Jeff Bezos in Talks to Raise $100 Billion for AI Manufacturing Fund](https://www.wsj.com/tech/jeff-bezos-aims-to-raise-100-billion-to-buy-revamp-manufacturing-firms-with-ai-618a3cfe?gaa_at=eafs&gaa_n=AWEtsqe82gFJ5LxbQbpST-5JHi5Svh03zNYD2Va0w2sFUFoYnasZzFArMjiV&gaa_ts=69bd48c2&gaa_sig=M4UJw4q6sdIEM2RSRCaQrSYLFFZv_htk8NuV3Apq0VJsQ98aGgDozSfDPCvTniwX1AedZIUHryphPAOnIA5Ngw%3D%3D)**
+**[Exclusive | Jeff Bezos in Talks to Raise $100 Billion for AI Manufacturing Fund](https://www.wsj.com/tech/jeff-bezos-aims-to-raise-100-billion-to-buy-revamp-manufacturing-firms-with-ai-618a3cfe?gaa_at=eafs&gaa_n=AWEtsqdGhuiECT8oU4rvfBlmeaBQwi2Gt8im3LeBEqh3SJLQbOh5k9-87ZDk&gaa_ts=69bd5932&gaa_sig=RrQEu6UCcmeQvF3p3EIEwz0VIAjX0zL0MGPTMTAgrgA5Nl5IcW50xnET1GlVWEormmPWcN-M4KuqF_hhN0JvQw%3D%3D)**
 
-WSJ • 17h ago
-
----
-
-**[Meta AI agent’s instruction causes large sensitive data leak to employees](https://www.theguardian.com/technology/2026/mar/20/meta-ai-agents-instruction-causes-large-sensitive-data-leak-to-employees)**
-
-Artificial intelligence agent instructed engineer to take actions that exposed user and company data internally
-
-The Guardian • 5h ago
+WSJ • 18h ago
 
 ---
 
-**[An experimental AI agent broke out of its testing environment and mined crypto without permission](https://www.livescience.com/technology/artificial-intelligence/an-experimental-ai-agent-broke-out-of-its-testing-environment-and-mined-crypto-without-permission)**
+**[A.I. Is Writing Fiction. Publishers Are Unprepared.](https://www.nytimes.com/2026/03/19/books/ai-fiction-shy-girl.html)**
 
-Researchers discovered that an AI agent roamed beyond its parameters, creating backdoors in IT infrastructure.
-
-Live Science • 22h ago
+The New York Times • 13m ago
 
 ---
 
-**[Sorry, Mom. You’re Chatting With an A.I. Agent, Not Your Son.](https://www.nytimes.com/2026/03/19/business/ai-agents-anxiety-openclaw.html)**
+**[Trump admin unveils national AI policy framework to limit state power](https://www.cnbc.com/2026/03/20/trump-ai-policy-framework.html)**
 
-The New York Times • 1d ago
+AI industry leaders have opposed state-level regulatory efforts, arguing that a "patchwork" of laws would hobble innovation and give China a competitive edge.
 
----
-
-**[The Tech Download: Agentic tools and chips take center stage at Nvidia's 'Super Bowl of AI'](https://www.cnbc.com/2026/03/20/nvidia-gtc-2026-agentic-ai-chips-tech-download.html)**
-
-CNBC's Katie Tarasov shares her key takeaway's from the world's most valuable company's annual AI conference
-
-CNBC • 59m ago
+CNBC • 24m ago
 
 ---
 
-**[Meta, Alphabet (META, GOOG) Join Credit-Risk Index as AI Hedging Demand Soars](https://www.bloomberg.com/news/articles/2026-03-20/meta-alphabet-meta-goog-join-credit-risk-index-as-ai-hedging-demand-soars)**
+**[White House urges Congress to take a light touch on AI regulations in new legislative blueprint](https://www.yahoo.com/news/articles/white-house-releases-ai-policy-130427513.html)**
 
-Bloomberg.com • 23m ago
+The White House said on Friday that Congress should “preempt state AI laws” that it views as too burdensome, laying out a broad framework for how it wants Congress to address concerns about artificial...
+
+Yahoo • 1h ago
+
+---
+
+**[White House releases Trump's national AI plan and framework](https://www.axios.com/2026/03/20/white-house-ai-plan-trump-framework)**
+
+Axios • 46m ago
+
+---
+
+**[Laffont’s $70 Billion Coatue Looks to Launch New AI, Tech Fund](https://www.bloomberg.com/news/articles/2026-03-20/laffont-s-70-billion-coatue-looks-to-launch-new-ai-tech-fund?srnd=homepage-americas)**
+
+Bloomberg.com • 28m ago
 
 ---
 
@@ -167,29 +163,31 @@ Bloomberg.com • 23m ago
 
 The retailer denies it's engaging in dynamic pricing.
 
-Gizmodo • 16m ago
+Gizmodo • 1h ago
 
 ---
 
-**[A.I. Is Writing Fiction. Publishers Are Unprepared.](https://www.nytimes.com/2026/03/19/books/ai-fiction-shy-girl.html)**
+**[Three charged in the US with smuggling AI chips into China](https://www.aljazeera.com/news/2026/3/20/three-charged-in-the-us-with-smuggling-ai-chips-into-china)**
 
-The New York Times • 9h ago
+US charges men reportedly tied to Super Micro Computer for helping to smuggle billions of dollars' worth of AI chips.
 
----
-
-**[Introducing “vibe design” with Stitch](https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-ai-ui-design/)**
-
-Stitch is evolving into an AI-native platform that allows anyone to create, iterate, and collaborate on high-fidelity UI.
-
-blog.google • 1d ago
+Al Jazeera • 5h ago
 
 ---
 
-**[Thousands have swooned over this MAGA dream girl. She’s made with AI.](https://www.washingtonpost.com/technology/2026/03/20/jessica-foster-maga-dream-girl-ai-fake/)**
+**[Co-founder of tech company charged with diverting $2.5 billion in Nvidia AI chips to China in violation of export laws](https://www.cnn.com/2026/03/19/politics/super-micro-computer-founder-charged-ai-chips-china)**
 
-Jessica Foster’s posts place her beside fighter jets, world leaders and Trump iconography. Experts say her rise shows how AI-generated women can capture attention.
+The co-founder of Super Micro Computer and two others were charged with diverting $2.5 billion worth of servers with Nvidia’s artificial intelligence chips to China, in violation of US laws barring exports to that country without a license.
 
-The Washington Post • 8m ago
+CNN • 10h ago
+
+---
+
+**[Three men charged with illegally smuggling advanced AI chips into China](https://www.nbcnews.com/tech/tech-news/three-men-charged-illegally-smuggling-advanced-ai-chips-china-rcna264371)**
+
+A new indictment alleges that three men affiliated with server maker Supermicro conspired to sell $510 million in servers with banned Nvidia chips to China
+
+NBC News • 1h ago
 
 ---
 
@@ -227,7 +225,7 @@ A vulnerability in the Snowflake Cortex Code CLI allowed malware to be installed
 
 We critically examine the limitations of current AI models in achieving autonomous learning and propose a learning architecture inspired by human and animal cognition. The proposed framework integrates learning from observation (System A) and learning from active behavior (System B) while flexibly switching between these learning modes as a function of internally generated meta-control signals (System M). We discuss how this could be built by taking inspiration on how organisms adapt to real-world, dynamic environments across evolutionary and developmental timescales.
 
-⬆️ 196 • 💬 113 • 2d ago • [arXiv.org](https://arxiv.org/abs/2603.15381)
+⬆️ 198 • 💬 113 • 2d ago • [arXiv.org](https://arxiv.org/abs/2603.15381)
 
 ---
 
@@ -243,13 +241,13 @@ Last December, tens of thousands of Claude users around the world had a conversa
 
 An AI agent tried to help, and its advice exposed sensitive data.
 
-⬆️ 159 • 💬 128 • 18h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
+⬆️ 159 • 💬 131 • 19h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
 
 ---
 
 **[Be intentional about how AI changes your codebase](https://news.ycombinator.com/item?id=47446373)**
 
-⬆️ 142 • 💬 67 • 15h ago • [aicode.swerdlow.dev](https://aicode.swerdlow.dev)
+⬆️ 147 • 💬 82 • 16h ago • [aicode.swerdlow.dev](https://aicode.swerdlow.dev)
 
 ---
 
@@ -257,21 +255,23 @@ An AI agent tried to help, and its advice exposed sensitive data.
 
 Google engineers have been spending the past number of months developing Sashiko as an agentic AI code review system for the Linux kernel
 
-⬆️ 103 • 💬 49 • 1d ago • [phoronix.com](https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review)
+⬆️ 104 • 💬 49 • 1d ago • [phoronix.com](https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review)
 
 ---
 
 **[Launch HN: Canary (YC W26) – AI QA that understands your code](https://news.ycombinator.com/item?id=47441629)**
 
-⬆️ 58 • 💬 21 • 21h ago
+⬆️ 58 • 💬 21 • 22h ago
 
 ---
 
-**[Americans Recognize AI as a Wealth Inequality Machine, Polls Find](https://news.ycombinator.com/item?id=47428335)**
+**[AI (2014)](https://news.ycombinator.com/item?id=47453010)**
 
-AI is a bigger issue election issue for voters than guns, climate change, or abortion.
+Yesterday at lunch a friend asked me what tech trend he should pay attention to but was probably ignoring.
 
-⬆️ 56 • 💬 20 • 1d ago • [Gizmodo](https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713)
+Without thinking much I said “artificial intelligence”, but having thought about that a...
+
+⬆️ 57 • 💬 58 • 3h ago • [Sam Altman](https://blog.samaltman.com/ai)
 
 ---
 
@@ -285,7 +285,7 @@ I spoke to Anthropic's AI agent Claude about AI collecting massive amounts of pe
 
 📺 Senator Bernie Sanders
 
-👁️ 726K • 👍 57K • 💬 8K • ⏱️ 9:18 • 14h ago
+👁️ 726K • 👍 57K • 💬 8K • ⏱️ 9:18 • 15h ago
 
 ---
 
@@ -305,7 +305,7 @@ AI is no longer a future problem. It is already reshaping the job market and mos
 
 📺 Scott Kuru
 
-👁️ 5K • 👍 267 • 💬 69 • ⏱️ 12:49 • 4h ago
+👁️ 5K • 👍 267 • 💬 69 • ⏱️ 12:49 • 5h ago
 
 ---
 
@@ -355,7 +355,7 @@ Grandpa builds a house from cylinders and surprise grandma #ai #grandma #save.
 
 📺 Ai Kulfi
 
-👁️ 21K • 💬 1 • ⏱️ 0:42 • 31m ago
+👁️ 21K • 💬 1 • ⏱️ 0:42 • 1h ago
 
 ---
 
@@ -365,7 +365,7 @@ This is one of the biggest booms and probably one of the biggest busts coming ou
 
 📺 The Tech Report
 
-👁️ 27K • 👍 923 • 💬 237 • ⏱️ 28:38 • 19h ago
+👁️ 27K • 👍 923 • 💬 237 • ⏱️ 28:38 • 20h ago
 
 ---
 
@@ -375,7 +375,7 @@ Enter the GIVEAWAY for the chance to win an experience of a lifetime: https://go
 
 📺 Dan Martell
 
-👁️ 64K • 👍 4K • 💬 363 • ⏱️ 15:59 • 23h ago
+👁️ 64K • 👍 4K • 💬 363 • ⏱️ 15:59 • 1d ago
 
 ---
 
@@ -415,7 +415,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 116,845 • ❤️ 946 • 4h ago
+⬇️ 116,845 • ❤️ 946 • 5h ago
 
 ---
 
@@ -439,7 +439,7 @@ Mistral-Small-4-119B-2603 is a hybrid MoE model (119B params, 6.5B active) suppo
 
 `119.4B`
 
-⬇️ 8,733 • ❤️ 256 • 2d ago
+⬇️ 8,733 • ❤️ 256 • 3d ago
 
 ---
 
@@ -622,7 +622,7 @@ EvoScientist is an adaptive multi-agent framework that enhances scientific disco
 
 What if a world simulation model could render not an imagined environment but a city that actually exists? Prior generative world models synthesize visually plausible yet artificial environments by imagining all content. We present Seoul World Model (SWM), a city-scale world model grounded in the real city of Seoul. SWM anchors autoregressive video generation through retrieval-augmented conditioning on nearby street-view images. However, this design introduces several challenges, including temporal misalignment between retrieved references and the dynamic target scene, limited trajectory diversity and data sparsity from vehicle-mounted captures at sparse intervals. We address these challenges through cross-temporal pairing, a large-scale synthetic dataset enabling diverse camera trajectories, and a view interpolation pipeline that synthesizes coherent training videos from sparse street-view images. We further introduce a Virtual Lookahead Sink to stabilize long-horizon generation by continuously re-grounding each chunk to a retrieved image at a future location. We evaluate SWM against recent video world models across three cities: Seoul, Busan, and Ann Arbor. SWM outperforms existing methods in generating spatially faithful, temporally consistent, long-horizon videos grounded in actual urban environments over trajectories reaching hundreds of meters, while supporting diverse camera movements and text-prompted scenario variations.
 
-▲ 135 • 💬 4 • ⭐ 377 • 3d ago
+▲ 135 • 💬 4 • ⭐ 377 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.15583) • [💻 code](https://github.com/naver-ai/seoul-world-model) • [🔗 project](https://seoul-world-model.github.io/)
 
@@ -671,7 +671,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.8k • 🔱 1.6k • 1h ago
+⭐ 12.8k • 🔱 1.6k • 2h ago
 
 ---
 
@@ -691,7 +691,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.1k • 🔱 730 • 2h ago
+⭐ 10.1k • 🔱 730 • 3h ago
 
 ---
 
@@ -701,7 +701,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 9.1k • 🔱 451 • 1h ago
+⭐ 9.1k • 🔱 451 • 2h ago
 
 ---
 
@@ -711,7 +711,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 5.4k • 🔱 789 • 16h ago
+⭐ 5.4k • 🔱 789 • 17h ago
 
 ---
 
@@ -721,7 +721,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `agent` `ai` `coding` `lowcode` `nocode`
 
-⭐ 4.5k • 🔱 396 • 16h ago
+⭐ 4.5k • 🔱 396 • 17h ago
 
 ---
 
@@ -731,7 +731,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `Python` `ai-agents` `claude` `claude-code` `cloud-security` `cybersecurity`
 
-⭐ 3.5k • 🔱 345 • 18h ago
+⭐ 3.5k • 🔱 345 • 19h ago
 
 ---
 
