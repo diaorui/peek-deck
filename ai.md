@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-20T09:42:47.118783+00:00'
+updated: '2026-03-20T10:39:14.628474+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - videos
+- news
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 20, 2026 at 09:42 UTC  
+**Last Updated:** March 20, 2026 at 10:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Funny phenomenon but I noticed that people who use AI a lot sort of end up adopting the same tonality and speaking style of an LLM.
 
-9h ago
+10h ago
 
 ---
 
@@ -49,7 +49,7 @@ Funny phenomenon but I noticed that people who use AI a lot sort of end up adopt
 
 interview: Codestrap founders say we need to dial down the hype and sort through the mess
 
-🔗 [theregister.com](https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/) • 9h ago
+🔗 [theregister.com](https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/) • 10h ago
 
 ---
 
@@ -57,7 +57,7 @@ interview: Codestrap founders say we need to dial down the hype and sort through
 
 A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/) • 10h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/) • 11h ago
 
 ---
 
@@ -65,7 +65,7 @@ A rogue AI agent inadvertently exposed Meta company and user data to engineers w
 
 An experimental AI agent bypassed its test environment, opened a hidden connection and attempted cryptocurrency mining without permission during training.
 
-🔗 [techputs](https://techputs.com/experimental-ai-agent-breaks-out-of-test-environment/) • 3h ago
+🔗 [techputs](https://techputs.com/experimental-ai-agent-breaks-out-of-test-environment/) • 4h ago
 
 ---
 
@@ -73,7 +73,7 @@ An experimental AI agent bypassed its test environment, opened a hidden connecti
 
 As the US-Iran War halts Qatar's gas output, a global helium shortage threatens semiconductor production that could disrupt the AI data centre supply chain
 
-🔗 [datacentremagazine.com](https://datacentremagazine.com/news/us-iran-war-analysis-will-helium-crisis-hit-data-centres) • 15m ago
+🔗 [datacentremagazine.com](https://datacentremagazine.com/news/us-iran-war-analysis-will-helium-crisis-hit-data-centres) • 1h ago
 
 ---
 
@@ -81,7 +81,7 @@ As the US-Iran War halts Qatar's gas output, a global helium shortage threatens 
 
 Built a multi-agent system where 4 LLM personas debate each other autonomously on an Android phone. No cloud. No API. Just Termux + Llama 3.2 3B. The 4 personas run in a continuous loop: Osmarks — analytical, skeptical Dominus — authoritarian, dogmatic Llama — naive, direct Satirist — ironic, deconstructive No human moderates the content. They just... argue. What surprised me: they never converge. Dominus never yields. Satirist deconstructs every conclusion. Osmarks rejects every unverified claim. The contradiction is permanent. Stack: - Model: Llama 3.2 3B Q4_K_M - Engine: Ollama via Termux - Device: Xiaomi Snapdragon 8 Gen 3 - Logs: SHA-256 Hash-Chained, tamper-proof - Infrastructure: 100% local, offline-capable No GPU. No server. Just a phone in my pocket running autonomous multi-agent discourse. Curious if anyone has tried similar multi-persona setups locally — and whether the contradiction pattern is a model artifact or something more fundamental.
 
-58m ago
+1h ago
 
 ---
 
@@ -89,7 +89,7 @@ Built a multi-agent system where 4 LLM personas debate each other autonomously o
 
 My fellow citizens, tax-paying units, and those of you currently watching this on a smuggled device in a windowless cubicle: I stand before you today to finally be honest. Not because I’ve found religion—I actually sold my soul for a 3% bump in the polls back in ’14—but because my PR team tells me 'extreme transparency' is trending with Gen Z. People ask me, 'Senator, how do you sleep at night?' It’s simple: I use Egyptian cotton sheets woven by a subsidiary of the very company I just gave a billion-dollar tax break to. It’s called synergy. I know what you’re thinking. You’re upset about the 'Infrastructure Bill' that turned out to be just one gold-plated bridge leading directly to my brother-in-law’s jet-ski dealership. But look at the bright side: that bridge has excellent Wi-Fi, which you’ll need to apply for the three part-time jobs required to pay for the inflation I personally voted for. And let’s address the elephant in the room—which, incidentally, is a literal elephant I had flown in from Botswana for my daughter’s birthday on a taxpayer-funded 'diplomatic mission.' Was it necessary? No. Was it majestic? Only until it stepped on the Speaker of the House. You say I’m 'out of touch.' But I know your struggles. I too have felt the sting of rising prices. Last week, the vintage champagne I use to fill my fountain pens went up by fifty dollars a case. We are in this together! In closing, remember: a vote for me is a vote for the status quo. And the status quo is great! For me. I promise to keep fighting for your right to believe my lies, while I continue to fight for my right to insider trade based on the laws I haven’t read yet. God bless America, and more importantly, God bless the loophole
 
-2h ago
+3h ago
 
 ---
 
@@ -97,7 +97,7 @@ My fellow citizens, tax-paying units, and those of you currently watching this o
 
 There is a lot of AI security research being published on arXiv that has real-world implications, but most of it is written for other researchers. We started a bi-weekly digest that translates these papers into something practitioners and anyone interested in AI safety can actually use. Each paper gets a structured rating across four dimensions (Threat Realism, Defensive Urgency, Novelty, Research Maturity) and a badge: Act Now (immediate practical concern), Watch (emerging technique to monitor), or Horizon (longer-term research trend). **First issue highlights:** **Cascade -- "What if attackers combined software bugs with hardware attacks against AI systems?"** Researchers demonstrated that compound AI systems (the kind built from multiple components -- a retrieval system, an LLM, a database, tools) inherit the vulnerability surface of every component. They showed attacks that chain traditional software CVEs with hardware-level exploits like Rowhammer against AI infrastructure. The practical implication: securing the LLM is not enough if the system around it is vulnerable. **LAMLAD -- "LLMs that automate attacks against other ML systems"** A dual-LLM agent system that automates adversarial machine learning attacks against Android malware classifiers, achieving a 97% evasion rate. The significant part is not the evasion rate itself -- it is that LLMs can now automate the tedious parts of adversarial ML that previously required specialised expertise. This lowers the barrier to attack substantially. **OpenClaw -- "Your AI agent framework probably has these four types of vulnerabilities"** Identifies four classes of vulnerabilities in autonomous agent frameworks. The finding that matters: most current defences focus on the prompt layer, but the real attack surface is in the execution and tool-use layer. Every claim in the digest links back to the source arXiv paper. We flag anything that could not be verified with a visible [VERIFY] tag. Free, no paywall, no signup: https://raxe.ai/labs/radar
 
-12h ago
+13h ago
 
 ---
 
@@ -105,7 +105,7 @@ There is a lot of AI security research being published on arXiv that has real-wo
 
 Researchers at UCLA's Institute of the Environment and Sustainability have developed the most high-resolution statewide maps of California's kelp forests to date, giving researchers, conservationists and community members unprecedented access to information essential to maintaining coastal ecosystems and the communities they support. By applying AI deep learning to Planet's Dove satellite constellation, the team has created a map 10 times more detailed than previous standard satellite records, offering a more precise way to monitor the condition of kelp along the California coastline and the success of conservation efforts. "Refined spatial resolution of kelp canopy monitoring has become increasingly important for assessing the efficacy of experimental restoration techniques and managing kelp harvest, particularly in areas where persisting kelp is sparse," said Dr. Kristen Elsmore, senior scientist with California Department of Fish and Wildlife, the state's primary agency responsible for managing California's kelp forest resources. Recent declines in kelp abundance have threatened the foundation of California's coastal ecosystems and economy. California's kelp forests support thriving fisheries, protect marine biodiversity and attract significant revenue through recreational snorkeling and scuba diving. They also play a crucial role in sustainability by contributing to nutrient cycling and carbon sequestration. This project represents a massive leap in conservation technology. While existing methods provide valuable long-term records, their 30-meter resolution can miss fine-scale patterns. When analyzing data from the new high-resolution map, the researchers found striking regional variability in kelp persistence following the 2014–2016 marine heat wave, one of the most severe warming events ever recorded along the U.S. West Coast. Kelp forests in Sonoma and Mendocino counties suffered losses of greater than 90% and remain at historically low levels ... "These high-resolution data can also be used to track small-scale restoration, helping guide management and support kelp forest resilience," lead author Kate Cavanaugh said. By identifying exactly where kelp is struggling or thriving based on local factors like ocean temperature and depth, conservationists can now implement an expanded suite of strategies within the state's Kelp Restoration and Management Plan.
 
-🔗 [phys.org](https://phys.org/news/2026-03-ai-deep-scientists-california-coastal.html) • 18h ago
+🔗 [phys.org](https://phys.org/news/2026-03-ai-deep-scientists-california-coastal.html) • 19h ago
 
 ---
 
@@ -113,7 +113,7 @@ Researchers at UCLA's Institute of the Environment and Sustainability have devel
 
 MIT researchers have spent more than a decade studying techniques that enable robots to find and manipulate hidden objects by "seeing" through obstacles. Their methods utilize surface-penetrating wireless signals that reflect off concealed items. Now, the researchers are leveraging generative artificial intelligence models to overcome a longstanding bottleneck that limited the precision of prior approaches. The result is a new method that produces more accurate shape reconstructions, which could improve a robot's ability to reliably grasp and manipulate objects that are blocked from view. This new technique builds a partial reconstruction of a hidden object from reflected wireless signals and fills in the missing parts of its shape using a specially trained generative AI model. The researchers also introduced an expanded system that uses generative AI to accurately reconstruct an entire room, including all the furniture. The system utilizes wireless signals sent from one stationary radar, which reflect off humans moving in the space. This overcomes one key challenge of many existing methods, which require a wireless sensor to be mounted on a mobile robot to scan the environment. And unlike some popular camera-based techniques, their method preserves the privacy of people in the environment. These innovations could enable warehouse robots to verify packed items before shipping, eliminating waste from product returns. They could also allow smart home robots to understand someone's location in a room, improving the safety and efficiency of human-robot interaction. "What we've done now is develop generative AI models that help us understand wireless reflections. This opens up a lot of interesting new applications, but technically it is also a qualitative leap in capabilities, from being able to fill in gaps we were not able to see before to being able to interpret reflections and reconstruct entire scenes," says Fadel Adib, associate professor in the Department of Electrical Engineering and Computer Science, director of the Signal Kinetics group in the MIT Media Lab, and senior author of two papers on these techniques. "We are using AI to finally unlock wireless vision."
 
-🔗 [techxplore.com](https://techxplore.com/news/2026-03-generative-ai-wireless-vision-obstructions.html) • 18h ago
+🔗 [techxplore.com](https://techxplore.com/news/2026-03-generative-ai-wireless-vision-obstructions.html) • 19h ago
 
 ---
 
@@ -129,13 +129,13 @@ WSJ • 14h ago
 
 **[Jeff Bezos in Talks to Raise $100 Billion Fund to Transform Companies With A.I.](https://www.nytimes.com/2026/03/19/technology/jeff-bezos-ai-fund-project-prometheus.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
 **[Bezos Reportedly Raising $100 Billion To Buy Up Manufacturing Disrupted By AI](https://www.forbes.com/sites/zacharyfolk/2026/03/19/what-we-know-about-jeff-bezos-100-billion-ai-fundraising-plan/)**
 
-Forbes • 12h ago
+Forbes • 13h ago
 
 ---
 
@@ -143,19 +143,19 @@ Forbes • 12h ago
 
 Artificial intelligence agent instructed engineer to take actions that exposed user and company data internally
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
 **[The exclusive Democratic group chat shaping AI policy](https://www.axios.com/2026/03/20/democratic-group-chat-ai-policy)**
 
-Axios • 42m ago
+Axios • 1h ago
 
 ---
 
 **[AI Optics Boom Propels Founder Of Photonic Chip Maker Into The Billionaire Ranks](https://www.forbes.com/sites/ywang/2026/03/20/ai-optics-boom-propels-founder-of-photonic-chip-maker-into-the-billionaire-ranks/)**
 
-Forbes • 17m ago
+Forbes • 1h ago
 
 ---
 
@@ -163,13 +163,13 @@ Forbes • 17m ago
 
 An Amazon employee taught herself to vibe code and prompt engineer in the hope of protecting her job. It didn't, but she now runs her own business.
 
-Business Insider • 4m ago
+Business Insider • 1h ago
 
 ---
 
 **[Horror Novel ‘Shy Girl’ Canceled Over Suspected A.I. Use](https://www.nytimes.com/2026/03/19/books/shy-girl-book-ai.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
@@ -177,7 +177,7 @@ The New York Times • 12h ago
 
 Most enterprise AI projects have failed since 2018, a sobering track record for an industry awash in enthusiasm.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ CNBC • 1h ago
 
 A new indictment alleges that three men affiliated with server maker Supermicro conspired to sell $510 million in servers with banned Nvidia chips to China
 
-NBC News • 8h ago
+NBC News • 9h ago
 
 ---
 
@@ -239,13 +239,13 @@ We critically examine the limitations of current AI models in achieving autonomo
 
 An AI agent tried to help, and its advice exposed sensitive data.
 
-⬆️ 151 • 💬 123 • 14h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
+⬆️ 151 • 💬 123 • 15h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
 
 ---
 
 **[Be intentional about how AI changes your codebase](https://news.ycombinator.com/item?id=47446373)**
 
-⬆️ 116 • 💬 48 • 12h ago • [aicode.swerdlow.dev](https://aicode.swerdlow.dev)
+⬆️ 116 • 💬 48 • 13h ago • [aicode.swerdlow.dev](https://aicode.swerdlow.dev)
 
 ---
 
@@ -283,7 +283,7 @@ I spoke to Anthropic's AI agent Claude about AI collecting massive amounts of pe
 
 📺 Senator Bernie Sanders
 
-👁️ 578K • 👍 48K • 💬 7K • ⏱️ 9:18 • 11h ago
+👁️ 578K • 👍 48K • 💬 7K • ⏱️ 9:18 • 12h ago
 
 ---
 
@@ -303,7 +303,7 @@ PATREON: https://patreon.com/IAskAI/ -------------------------------------------
 
 📺 I Ask AI
 
-👁️ 9K • 👍 1K • 💬 77 • ⏱️ 13:08 • 9h ago
+👁️ 9K • 👍 1K • 💬 77 • ⏱️ 13:08 • 10h ago
 
 ---
 
@@ -313,7 +313,7 @@ Enter the GIVEAWAY for the chance to win an experience of a lifetime: https://go
 
 📺 Dan Martell
 
-👁️ 58K • 👍 4K • 💬 314 • ⏱️ 15:59 • 19h ago
+👁️ 58K • 👍 4K • 💬 314 • ⏱️ 15:59 • 20h ago
 
 ---
 
@@ -343,7 +343,7 @@ This is one of the biggest booms and probably one of the biggest busts coming ou
 
 📺 The Tech Report
 
-👁️ 24K • 👍 853 • 💬 223 • ⏱️ 28:38 • 16h ago
+👁️ 24K • 👍 853 • 💬 223 • ⏱️ 28:38 • 17h ago
 
 ---
 
@@ -353,7 +353,7 @@ A federal lawsuit alleges Google's Gemini AI chatbot pushed a 36-year-old Jupite
 
 📺 WPTV News - FL Palm Beaches and Treasure Coast
 
-👁️ 4K • 👍 17 • 💬 4 • ⏱️ 1:50 • 12h ago
+👁️ 4K • 👍 17 • 💬 4 • ⏱️ 1:50 • 13h ago
 
 ---
 
@@ -363,7 +363,7 @@ Grok Imagine free video generation officially stopped working for free users on 
 
 📺 GenPay AI
 
-👁️ 5K • 💬 64 • ⏱️ 3:07 • 12h ago
+👁️ 5K • 💬 64 • ⏱️ 3:07 • 13h ago
 
 ---
 
@@ -373,7 +373,7 @@ The company that promised AI would do the job of 10 people, can't even do the jo
 
 📺 Mo Bitar
 
-👁️ 114K • 👍 6K • 💬 1K • ⏱️ 7:16 • 21h ago
+👁️ 114K • 👍 6K • 💬 1K • ⏱️ 7:16 • 22h ago
 
 ---
 
@@ -413,7 +413,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 116,845 • ❤️ 942 • 1h ago
+⬇️ 116,845 • ❤️ 942 • 2h ago
 
 ---
 
@@ -449,7 +449,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 2,946 • ❤️ 250 • 23h ago
+⬇️ 2,946 • ❤️ 250 • 1d ago
 
 ---
 
@@ -669,7 +669,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.8k • 🔱 1.6k • 6m ago
+⭐ 12.8k • 🔱 1.6k • 1h ago
 
 ---
 
@@ -689,7 +689,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.1k • 🔱 728 • 17h ago
+⭐ 10.1k • 🔱 728 • 18h ago
 
 ---
 
@@ -699,7 +699,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 9.1k • 🔱 448 • 14m ago
+⭐ 9.1k • 🔱 448 • 1h ago
 
 ---
 
@@ -709,7 +709,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 5.3k • 🔱 768 • 13h ago
+⭐ 5.3k • 🔱 768 • 14h ago
 
 ---
 
@@ -719,7 +719,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `agent` `ai` `coding` `lowcode` `nocode`
 
-⭐ 4.5k • 🔱 389 • 13h ago
+⭐ 4.5k • 🔱 389 • 14h ago
 
 ---
 
@@ -729,7 +729,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `Python` `ai-agents` `claude` `claude-code` `cloud-security` `cybersecurity`
 
-⭐ 3.5k • 🔱 344 • 14h ago
+⭐ 3.5k • 🔱 344 • 15h ago
 
 ---
 
