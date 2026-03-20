@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-19T23:31:24.500397+00:00'
+updated: '2026-03-20T02:10:31.623769+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 19, 2026 at 23:31 UTC  
+**Last Updated:** March 20, 2026 at 02:10 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,43 +36,43 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,148.64
+### $2,156.39
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.4%  
-**7d:** +2.2%  
-**30d:** +9.4%  
-**90d:** -28.2%  
-**1y:** +8.1%  
+**24h:** -2.9%  
+**7d:** +2.5%  
+**30d:** +10.3%  
+**90d:** -28.4%  
+**1y:** +9.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $259.56B
+**Market Cap:** $259.33B
 Rank #2
 
-**Circulating Supply:** 120,691,801 ETH
+**Circulating Supply:** 120,691,772 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.5%
+-56.6%
 
 **All-Time Low:** $0.43
-+496656.2%
++496138.8%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[Survived another cycle! The reality of 8 years in crypto](https://www.reddit.com/r/ethereum/comments/1ryccm1/survived_another_cycle_the_reality_of_8_years_in/)**
+**[A new kind of block explorer](https://www.reddit.com/r/ethereum/comments/1ryey1t/a_new_kind_of_block_explorer/)**
 
-It is genuinely crazy to sit back and think that I've been actively trading in this space since late 2017. If you had told me back then about half the things we've lived through, I would have called you insane. I've watched the ICO craze turn to dust, the DeFi summer print millionaires overnight, and the absolute bloodbath of the FTX and Celsius collapses. When you first get into crypto, all you care about is finding that next 100x gem. You chase yield, you jump into sketchy liquidity pools, and you ignore all the red flags. But after you survive a few brutal bear markets, your priorities shift entirely. Honestly, longevity is the only metric I actually care about now. If an exchange or a project has been around for multiple full four-year cycles, I trust them infinitely more than the flavor of the month. I was looking at the charts today and noticed BitMart is running their 8th-anniversary events. It kind of hit me. 8 years in the crypto industry is the equivalent of 80 years in traditional finance. Surviving the regulatory crackdowns, the hacks that wiped out competitors, and the immense volatility takes serious infrastructure. For all the new guys here: stop chasing the 40% APY on platforms that launched three months ago. Stick to the survivors, secure your seed phrases, and use exchanges that have actually proven they can weather the storm.
+Hey everybody, I've been building a no code visual smart contract builder for solidity to help non-developers realize their ideas without having to learn solidity. While doing that, as a dog food experiment, I created a block explorer which uses the visualizations against verified contracts so I could test better. At some point I realized that would make a pretty cool tool for a lot of people since I'm able to surface things that most block explorers don't: being able to replay a transaction and follow what's happening on the visual graph displaying various attributes about a contract like whether it's pausible, has only owner functions, etc showing debug info about every step that happened in the contract There's probably a lot more that I could do there and I'm looking to source ideas from the community about what should be added. It'd be great if y'all could take a look and see if there's anything obvious that I'm missing https://doodledapp.com/explorer Thanks!
 
-2h ago
+3h ago
 
 ---
 
@@ -80,15 +80,7 @@ It is genuinely crazy to sit back and think that I've been actively trading in t
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
-
----
-
-**[A new kind of block explorer](https://www.reddit.com/r/ethereum/comments/1ryey1t/a_new_kind_of_block_explorer/)**
-
-Hey everybody, I've been building a no code visual smart contract builder for solidity to help non-developers realize their ideas without having to learn solidity. While doing that, as a dog food experiment, I created a block explorer which uses the visualizations against verified contracts so I could test better. At some point I realized that would make a pretty cool tool for a lot of people since I'm able to surface things that most block explorers don't: being able to replay a transaction and follow what's happening on the visual graph displaying various attributes about a contract like whether it's pausible, has only owner functions, etc showing debug info about every step that happened in the contract There's probably a lot more that I could do there and I'm looking to source ideas from the community about what should be added. It'd be great if y'all could take a look and see if there's anything obvious that I'm missing https://doodledapp.com/explorer Thanks!
-
-48m ago
+21h ago
 
 ---
 
@@ -96,7 +88,7 @@ Hey everybody, I've been building a no code visual smart contract builder for so
 
 Seen some past posts that people had lost their wallets and this might help those people! If you created a wallet with CoinSpace (now Coin Wallet) around early 2021 and your seed phrase generates a completely different address in MetaMask or any standard tool... you're not crazy. The software had a bug. CoinSpace v3.0.7 (and maybe other versions) incorrectly derived wallet addresses from your seed phrase due to two compounding errors in the code. Your seed phrase can be recovered - but not using it directly. the app just used a broken algorithm to turn it into an address, one that no standard wallet tool replicates. CoinWallet is aware of part of the issue and will point you to a derivation path fix if you report it, but that fix alone doesn't work. The recovery script in the repo handles it correctly. I hit this when I needed to recover 1.55 ETH from a wallet I created in Feb 2021. After weeks of forensics I found the bug and wrote a recovery script. Recovery script: https://github.com/RobMulla/coinspace-eth-recovery Full long writeup about my journey: https://robmulla.substack.com/p/how-my-sons-roblox-mod-helped-me If you're affected, and this works for you please let me know! Or if you knew about this already... I'm curious to know if I'm not the only one.
 
-8h ago
+10h ago
 
 ---
 
@@ -144,37 +136,47 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[FCR — Fast Confirmation Rule for Ethereum](https://www.reddit.com/r/ethereum/comments/1rw6o1r/fcr_fast_confirmation_rule_for_ethereum/)**
+
+Confirm Ethereum transactions in ~13 seconds instead of ~13 minutes. Deterministic single-slot confirmation — no hard fork required.
+
+🔗 [Fast Confirmation Rule](https://fastconfirm.it) • 2d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
 
-**[Whale investor buys $111 million worth of Ethereum one year after selling: onchain data](https://www.theblock.co/post/394263/whale-investor-buys-111-million-ethereum)**
+**[Europe’s largest asset manager Amundi debuts $100 million tokenized fund on Ethereum, Stellar](https://www.theblock.co/post/394348/europes-largest-asset-manager-amundi-debuts-100-million-tokenized-fund-on-ethereum-stellar)**
 
-A whale trader has reportedly bought 50,706 ETH with 111.62 million USDT on Wednesday, after selling holdings a year earlier.
+Amundi launched the $100 million Spiko Amundi Overnight Swap Fund on Ethereum and Stellar with Chainlink support.
 
-The Block • 21h ago
+The Block • 11h ago
 
 ---
 
-**[Citi Downgrades Crypto Exchange Gemini After Cutting Bitcoin, Ethereum Price Targets](https://decrypt.co/361496/citi-downgrades-gemini-cutting-bitcoin-ethereum-targets)**
+**[Bitcoin, Ethereum Waver as Fed Holds Interest Rates Steady](https://decrypt.co/361603/bitcoin-ethereum-waver-fed-holds-interest-rates-steady)**
 
-Gemini stock (GEMI) fell 16% on Wednesday following the downgrade and a broader market dip, after Citi cut its Bitcoin and Ethereum targets.
+Inflation has exceeded the central bank’s 2% target for nearly five years, but the Fed held rates firm again as Bitcoin and Ethereum wobbled.
 
 Decrypt • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum prices drop on hot inflation data ahead of Fed meeting](https://finance.yahoo.com/news/bitcoin-ethereum-prices-drop-hot-184341708.html?pl2=unspecified-block_all)**
+**[New Crypto: Pepeto Announces DeFi Tools Innovation While Ethereum Price Prediction Targets $12K and Whale Activity Surges](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-defi-tools-innovation-while-ethereum-price-prediction-targets-12k-and-whale-activity-surges-1035948120)**
 
-Bitcoin and Ethereum prices dropped hard on Wednesday. The dip in prices comes as investors wait to see what the Federal Reserve will do. Inflation is hot so a cut is looking unlikely.
+Dubai, UAE, March  19, 2026  (GLOBE NEWSWIRE) -- Pepeto dropped a DeFi exchange tools innovation and the presale blew past $8.19 million while the...
 
-Yahoo Finance • 1d ago
+markets.businessinsider.com • 1h ago
 
 ---
 
-**[Ethereum Price Holds Near $2,130 After Fed Message Cools Rebound Hopes](https://seekingalpha.com/article/4884267-ethereum-price-holds-near-2130-after-fed-message-cools-rebound-hopes)**
+**[XRP vs Bitcoin vs Ethereum: ChatGPT Predicts Which Crypto Is Best for 2026](https://finance.yahoo.com/markets/crypto/articles/xrp-vs-bitcoin-vs-ethereum-132035939.html)**
 
-Seeking Alpha • 4h ago
+Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and XRP (CRYPTO: XRP) have all crashed between 40% and 60% from their 2025 highs. As the entire market gears towards a recovery, investors want to know which of Bitcoin, XRP, or Ethereum is the best crypto to invest in this year? To keep things fair, we asked ChatGPT ... XRP vs Bitcoin vs Ethereum: ChatGPT Predicts Which Crypto Is Best for 2026
+
+Yahoo Finance • 12h ago
 
 ---
 
@@ -182,7 +184,7 @@ Seeking Alpha • 4h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 11h ago
 
 ---
 
@@ -190,37 +192,35 @@ Fortune • 8h ago
 
 Vitalik Buterin said that the 'lean Ethereum' plan was the only way to get faster speed and security without trade-offs.
 
-AMBCrypto • 15h ago
-
----
-
-**[Bitwise Found What’s Really Driving Ethereum Price, And It’s Not Fundamentals](https://www.tradingview.com/news/newsbtc:6fcdea28c094b:0-bitwise-found-what-s-really-driving-ethereum-price-and-it-s-not-fundamentals/)**
-
-Ethereum’s price has spent much of the past cycle lagging its own institutional and on-chain progress, and Bitwise says the reason is straightforward: ETH is still trading primarily as a Bitcoin proxy, not as a fundamentally valued network. In a new factor-model analysis, the asset manager found BT…
-
-TradingView • 1d ago
+AMBCrypto • 18h ago
 
 ---
 
 **[BitMine Stock Drops 8% as Ethereum Pullback, High Costs, and Hawkish Fed Weigh on Investors](https://www.tipranks.com/news/bitmine-stock-drops-8-as-ethereum-pullback-high-costs-and-hawkish-fed-weigh-on-investors)**
 
-TipRanks • 19h ago
+TipRanks • 21h ago
 
 ---
 
-**[€2.3 trillion asset manager Amundi launches tokenized fund on Ethereum and Stellar](https://cryptobriefing.com/tokenized-fund-launch-ethereum-stellar-2/)**
+**[Ethereum Price Holds Near $2,130 After Fed Message Cools Rebound Hopes](https://seekingalpha.com/article/4884267-ethereum-price-holds-near-2130-after-fed-message-cools-rebound-hopes)**
 
-Amundi and Spiko launch SAFO, a tokenized fund for treasury and collateral management with 24/7 transferability and onchain settlement.
-
-Crypto Briefing • 7h ago
+Seeking Alpha • 6h ago
 
 ---
 
-**[New Crypto: Pepeto Announces New Binance Expert Onboard While Ethereum Price Outperforms BTC But Bitcoin Price Prediction Targets ATH](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-new-binance-expert-onboard-while-ethereum-price-outperforms-btc-but-bitcoin-price-prediction-targets-ath-1035943299)**
+**[Ethereum is outperforming Bitcoin when it shouldn’t be — what’s driving it?](https://cryptoslate.com/ethereum-is-beating-bitcoin-in-the-one-market-panic-built-for-bitcoin/)**
 
-Dubai, UAE, March  18, 2026  (GLOBE NEWSWIRE) -- Pepeto confirmed that a new Binance executive has joined the development team to accelerate the e...
+For Ethereum, the surge in activity and new financial products foster network resilience amid rising global tensions.
 
-markets.businessinsider.com • 1d ago
+CryptoSlate • 1d ago
+
+---
+
+**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1773948300)**
+
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 5h ago
 
 ---
 
@@ -234,7 +234,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 735 • 👍 78 • 💬 4 • ⏱️ 4:29 • 3h ago
+👁️ 1K • 👍 107 • 💬 4 • ⏱️ 4:29 • 6h ago
+
+---
+
+**[BITCOIN BEARISH TARGET HIT (this is next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5lB0j7D4UkQ)**
+
+BITCOIN BEARISH TARGET HIT (this is next)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
+
+📺 Crypto World
+
+👁️ 1K • 👍 118 • 💬 18 • ⏱️ 18:32 • 2h ago
 
 ---
 
@@ -242,27 +252,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 EllioTrades
 
-👁️ 5K • 👍 150 • 💬 56 • ⏱️ 1:07 • 9h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=EbfYJMQ3Mgo)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 129 • 💬 6 • ⏱️ 4:15 • 21h ago
-
----
-
-**[BMNR Getting READY to buy ETH Crypto Winter ENDING?!](https://www.youtube.com/watch?v=M1-crsxrVJs)**
-
-BMNR has been increasing their pace of ETH purchase and stacking cash over the last few weeks as they anticipate the end of ...
-
-📺 Elijah Cheng
-
-👁️ 2K • 👍 88 • 💬 26 • ⏱️ 33:20 • 9h ago
+👁️ 6K • 👍 169 • 💬 61 • ⏱️ 1:07 • 11h ago
 
 ---
 
@@ -272,27 +262,17 @@ Canton is the first privacy-enabled open blockchain network, ensuring limitless 
 
 📺 Paul Barron Network
 
-👁️ 5K • 👍 873 • 💬 421 • ⏱️ 30:27 • 3h ago
+👁️ 15K • 👍 1K • 💬 738 • ⏱️ 30:27 • 5h ago
 
 ---
 
-**[BTC, ETH, SOL, XRP, SUI, FET, CHZ, HBAR, ICP, BNB, ILS1, BTCETH Altcoins Analyzed: Live TA](https://www.youtube.com/watch?v=Dw437Y-IkRQ)**
+**[BMNR Getting READY to buy ETH Crypto Winter ENDING?!](https://www.youtube.com/watch?v=M1-crsxrVJs)**
 
-In this live technical analysis session, The Trading Parrot breaks down BTC, ETH, SOL, XRP, SUI, FET, CHZ, HBAR, ICP, and ...
+BMNR has been increasing their pace of ETH purchase and stacking cash over the last few weeks as they anticipate the end of ...
 
-📺 The Trading Parrot
+📺 Elijah Cheng
 
-👁️ 1K • 👍 149 • 💬 9 • ⏱️ 1:10:26 • 9h ago
-
----
-
-**[WILL ETHEREUM RALLY AGAIN?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=xnQHe6XBd2s)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 254 • 👍 18 • 💬 1 • ⏱️ 5:34 • 13h ago
+👁️ 2K • 👍 103 • 💬 11 • ⏱️ 33:20 • 11h ago
 
 ---
 
@@ -302,27 +282,47 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 72 • 👍 11 • 💬 5 • ⏱️ 8:24 • 8h ago
+👁️ 93 • 👍 13 • 💬 5 • ⏱️ 8:24 • 11h ago
 
 ---
 
-**[BTC &amp; ETH: Emergency FED Meeting Update!!](https://www.youtube.com/watch?v=qLWPSQK-FPE)**
+**[My Top Crypto Coin to Get Rich (Without Getting Lucky)](https://www.youtube.com/watch?v=L7_USmbleZM)**
 
-BloFin (NO KYC) – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade ...
+Get Rich (Without Getting Lucky) in crypto! 50% deposit bonus on first $100 on WEEX: ...
 
-📺 Marzell Crypto
+📺 Altcoin Daily
 
-👁️ 582 • 👍 17 • 💬 38 • ⏱️ 3:03 • 1d ago
+👁️ 13K • 👍 1K • 💬 140 • ⏱️ 13:35 • 4h ago
 
 ---
 
-**[The Controversial Manifesto Reshaping Ethereum - The Chopping Block](https://www.youtube.com/watch?v=6toqXRF99Qc)**
+**[BTC, ETH, SOL, XRP, SUI, FET, CHZ, HBAR, ICP, BNB, ILS1, BTCETH Altcoins Analyzed: Live TA](https://www.youtube.com/watch?v=Dw437Y-IkRQ)**
 
-Crypto insiders debate the Ethereum Foundation's new “CROPS” mandate: is the EF losing touch with builders, why does Solana ...
+In this live technical analysis session, The Trading Parrot breaks down BTC, ETH, SOL, XRP, SUI, FET, CHZ, HBAR, ICP, and ...
 
-📺 Unchained
+📺 The Trading Parrot
 
-👁️ 804 • 👍 27 • 💬 9 • ⏱️ 1:11:22 • 7h ago
+👁️ 2K • 👍 152 • 💬 9 • ⏱️ 1:10:26 • 11h ago
+
+---
+
+**[How I&#39;m Turning $104,805 in Eth to over $500,000](https://www.youtube.com/watch?v=WoKP38GT7Y0)**
+
+Work With Me - https://jakegordoncrypto.co/youtube DISCLAIMER AND WARNING The content provided in this video, and on any ...
+
+📺 Jake Gordon Crypto
+
+👁️ 59 • 👍 11 • 💬 1 • ⏱️ 12:24 • 45m ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=EbfYJMQ3Mgo)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 129 • 💬 6 • ⏱️ 4:15 • 23h ago
 
 ---
 
