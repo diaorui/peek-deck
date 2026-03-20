@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-20T19:55:30.334151+00:00'
+updated: '2026-03-20T20:35:44.806635+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 20, 2026 at 19:55 UTC  
+**Last Updated:** March 20, 2026 at 20:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ Don't be surprised if you meet humanoid robots on the streets of Beijing at midn
 
 From Physical Intelligence on 𝕏 (thread with multiple videos): https://x.com/physical_int/status/2034728220818641363 Technical Blog post: https://www.pi.website/research/rlt
 
-8h ago
+9h ago
 
 ---
 
@@ -82,7 +82,24 @@ Why can’t robots use their lidar to scan the room and confirm there is enough 
 
 Amazon and Jeff Bezos had previously invested in the startup. The deal signals the e-commerce giant's interest in doorstep delivery.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/) • 18h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/) • 19h ago
+
+---
+
+**[ROS Breakfast Meetup at MODEX](https://www.reddit.com/r/robotics/comments/1rz73c6/ros_breakfast_meetup_at_modex/)**
+
+Going to MODEX?  Join us for breakfast and networking as we discuss how ROS 2 has matured into core infrastructure for industry.
+This event is made possible by…
+
+🔗 [luma.com](https://luma.com/7znsksxx) • 16m ago
+
+---
+
+**[ROS News for the Week of March 16th, 2026 - Community News](https://www.reddit.com/r/robotics/comments/1rz72p9/ros_news_for_the_week_of_march_16th_2026/)**
+
+ROS News for the Week of March 16th, 2026              This week we added ROSCon Spain and ROSCon UK to the regional ROSCon mix. We’ve also have ROS meetups planned next week in Heilbronn and Nigeria along with a Gazebo Community Meeting.  We’re planning a ROS Breakfast at Modex in Atlanta this April but you must RSVP by March 30th.       It is that time of year! If you want to come intern with our wonderful core developers consider proposing a project for the OSRF’s 2026 Google Summer of Code p...
+
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-march-16th-2026/53411) • 17m ago
 
 ---
 
@@ -90,23 +107,7 @@ Amazon and Jeff Bezos had previously invested in the startup. The deal signals t
 
 During NVIDIA's GTC event this week attendees had the chance to see our favorite come to life snowman walking around the show floor. Disney research designer Moritz Baecher describes the technology behind creating Robot Olaf and the future of free range robots.
 
-🔗 [Automate](https://www.automate.org/vision/industry-insights/letting-it-go-disney-researchs-lab-director-on-free-range-robots) • 9h ago
-
----
-
-**[Building an A.I. navigation software that will only require a camera, a raspberry pi and a WiFi connection (DAY 6)](https://www.reddit.com/r/robotics/comments/1ryfrmu/building_an_ai_navigation_software_that_will_only/)**
-
-Been seeing a lot of people building robots that use the ChatGPT API to give them autonomy, but that's like asking a writer to be a gymnast, so I'm building a software that makes better use of VLMs, Depth Estimation and World Models, to give autonomy to your robot. Building this in public. (skipped DAY 5 bc there was no much progress really) Today: > Tested out different visual odometry algorithms > Turns out DA3 is also pretty good for pose estimation/odometry > Was struggling for a bit generating a reasonable occupancy grid > Reused some old code from my robotics research in college > Turns out Bayesian Log-Odds Mapping yielded some kinda good results at least > Pretty low definition voxels for now, but pretty good for SLAM that just uses a camera and no IMU or other odometry methods Working towards releasing this as an API alongside a Python SDK repo, for any builder to be able to add autonomy to their robot as long as it has a camera
-
-20h ago
-
----
-
-**[Need help for the 3 DOF SCARA Plotter](https://www.reddit.com/r/robotics/comments/1rylxr3/need_help_for_the_3_dof_scara_plotter/)**
-
-I badly need help for our problem in the plotting output of the plotter. It seems that the square is tilted at a certain angle. Can somebody help solving this problem.
-
-16h ago
+🔗 [Automate](https://www.automate.org/vision/industry-insights/letting-it-go-disney-researchs-lab-director-on-free-range-robots) • 10h ago
 
 ---
 
@@ -122,19 +123,11 @@ The Guardian • 1d ago
 
 ---
 
-**[Mark Cuban says the future of robotics isn't humanoids, but robots and homes that are co-designed](https://www.businessinsider.com/mark-cuban-humanoid-robotics-will-fail-robots-houses-codesigned-2026-3)**
-
-Mark Cuban said the push for humanoid robots will fail and that instead robots and spaces will be co-designed.
-
-Business Insider • 14h ago
-
----
-
 **[Amazon acquires startup Rivr to test robots for 'doorstep delivery'](https://www.cnbc.com/2026/03/19/amazon-acquires-startup-rivr-to-test-robots-for-doorstep-delivery.html)**
 
 The company expects to test ways it can use Rivr's robots to help with "doorstep delivery" and to "improve safety outcomes" for delivery drivers.
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
@@ -142,7 +135,7 @@ CNBC • 21h ago
 
 Amazon has acquired autonomous robotics startup Rivr, an Amazon spokesperson confirmed, a deal that could help the commerce and logistics giant deliver packages to shoppers’ doors more efficiently. Based in Zurich and formerly known as Swiss-Mile, Rivr was valued at $110 million in an August ...
 
-The Information • 23h ago
+The Information • 1d ago
 
 ---
 
@@ -150,7 +143,7 @@ The Information • 23h ago
 
 Amazon has acquired Rivr, a startup focused on autonomous robotics that could further the tech giant's capabilities in package deliveries.
 
-Engadget • 22h ago
+Engadget • 23h ago
 
 ---
 
@@ -162,9 +155,17 @@ Crain's Detroit • 10h ago
 
 ---
 
+**[Mark Cuban says the future of robotics isn't humanoids, but robots and homes that are co-designed](https://www.businessinsider.com/mark-cuban-humanoid-robotics-will-fail-robots-houses-codesigned-2026-3)**
+
+Mark Cuban said the push for humanoid robots will fail and that instead robots and spaces will be co-designed.
+
+Business Insider • 15h ago
+
+---
+
 **[Chinese Robot Maker Unitree Seeks $610 Million in Shanghai IPO](https://www.bloomberg.com/news/articles/2026-03-20/chinese-robot-maker-unitree-seeks-610-million-in-shanghai-ipo)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -182,37 +183,17 @@ eWeek • 22h ago
 
 ---
 
-**[Wall-climbing robots swarm US Navy warships](https://www.foxnews.com/tech/ai-newsletter-wall-climbing-robots-swarm-us-navy-warships)**
+**[From Simulation to Production: How to Build Robots With AI](https://blogs.nvidia.com/blog/build-robots-with-ai/)**
 
-The Fox News AI Newsletter gives readers the latest AI technology advancements, covering the challenges and opportunities AI presents.
+The latest open models and frameworks from NVIDIA bring together simulation, robot learning and embedded compute to accelerate cloud-to-robot workflows.
 
-Fox News • 1d ago
+NVIDIA Blog • 2d ago
 
 ---
 
 ---
 
 ## YouTube Videos: "robotics"
-
-**[NVIDIA GTC Demo Stuns Audience With Real Olaf Robot Next To Jensen Huang](https://www.youtube.com/watch?v=pPnVsRPFWV8)**
-
-The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrations when Jensen Huang introduced a real ...
-
-📺 DPCcars
-
-👁️ 141K • 👍 1K • 💬 152 • ⏱️ 2:02 • 3d ago
-
----
-
-**[The Future of Flooring: Automated Sand-Cement Screeding Robot #ConstructionTech #Robotics #Flooring](https://www.youtube.com/watch?v=QK7Y1-O5koE)**
-
-"Efficiency meets precision! Watch this automated floor screeding robot transform a rough sand-cement mix into a perfectly level ...
-
-📺 MachineWorks Studio
-
-👁️ 1.4M • 👍 1K • 💬 14 • ⏱️ 0:06 • 4d ago
-
----
 
 **[EXCLUSIVE: This Robot Video Changed The Conversation](https://www.youtube.com/watch?v=t7BI3Z1THz4)**
 
@@ -224,13 +205,23 @@ Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and g
 
 ---
 
-**[This wearable robot adds two mechanical legs behind you](https://www.youtube.com/watch?v=y1Jh2BtO-Ow)**
+**[Gecko Robotics Inks $71 Million Deal With US Navy](https://www.youtube.com/watch?v=82_585LieQY)**
 
-CENTAUR ROBOT - wearable robot adds two legs behind people to help distribute the load ...
+Gecko Robotics announced a $71 million partnership with the US Navy, deploying its AI-powered robots to assess the condition ...
 
-📺 Unstoppable Gadgets
+📺 Bloomberg Technology
 
-👁️ 27K • 👍 332 • 💬 21 • ⏱️ 0:17 • 1d ago
+👁️ 4K • 👍 127 • 💬 3 • ⏱️ 4:39 • 3d ago
+
+---
+
+**[The Future of Flooring: Automated Sand-Cement Screeding Robot #ConstructionTech #Robotics #Flooring](https://www.youtube.com/watch?v=QK7Y1-O5koE)**
+
+"Efficiency meets precision! Watch this automated floor screeding robot transform a rough sand-cement mix into a perfectly level ...
+
+📺 MachineWorks Studio
+
+👁️ 1.5M • 👍 1K • 💬 16 • ⏱️ 0:06 • 4d ago
 
 ---
 
@@ -240,37 +231,7 @@ Video shows restaurant employees struggling to restrain a dancing robot that wen
 
 📺 NBC News
 
-👁️ 126K • 👍 2K • 💬 464 • ⏱️ 3:38 • 1d ago
-
----
-
-**[Out of control robot smashes up restaurant as waitress desperately attempts to drag it away](https://www.youtube.com/watch?v=ZyohmMJA5Ao)**
-
-THIS is the hilarious moment a boogying robot dances too hard and sends food and cutlery flying in a high end restaurant.
-
-📺 The Sun
-
-👁️ 78K • 👍 1K • 💬 877 • ⏱️ 2:07 • 1d ago
-
----
-
-**[Gecko Robotics Inks $71 Million Deal With US Navy](https://www.youtube.com/watch?v=82_585LieQY)**
-
-Gecko Robotics announced a $71 million partnership with the US Navy, deploying its AI-powered robots to assess the condition ...
-
-📺 Bloomberg Technology
-
-👁️ 4K • 👍 121 • 💬 3 • ⏱️ 4:39 • 3d ago
-
----
-
-**[AI Robot Snaps And Attacks Woman On Street (Then Gets Arrested)](https://www.youtube.com/watch?v=ZZrR7rIIPmc)**
-
-Try the full AI cinematic workflow here: https://higgsfield.ai/s/cinema-studio-2-0-airevolutionx-pekSSk Researchers in China just ...
-
-📺 AI Revolution
-
-👁️ 20K • 👍 484 • 💬 42 • ⏱️ 13:18 • 4d ago
+👁️ 131K • 👍 2K • 💬 476 • ⏱️ 3:38 • 1d ago
 
 ---
 
@@ -280,7 +241,47 @@ China just revealed a robotic system that can turn a human into something that m
 
 📺 AI Revolution
 
-👁️ 49K • 👍 681 • 💬 81 • ⏱️ 14:52 • 6d ago
+👁️ 49K • 👍 683 • 💬 81 • ⏱️ 14:52 • 6d ago
+
+---
+
+**[AI Robot Snaps And Attacks Woman On Street (Then Gets Arrested)](https://www.youtube.com/watch?v=ZZrR7rIIPmc)**
+
+Try the full AI cinematic workflow here: https://higgsfield.ai/s/cinema-studio-2-0-airevolutionx-pekSSk Researchers in China just ...
+
+📺 AI Revolution
+
+👁️ 20K • 👍 486 • 💬 42 • ⏱️ 13:18 • 4d ago
+
+---
+
+**[NVIDIA GTC Demo Stuns Audience With Real Olaf Robot Next To Jensen Huang](https://www.youtube.com/watch?v=pPnVsRPFWV8)**
+
+The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrations when Jensen Huang introduced a real ...
+
+📺 DPCcars
+
+👁️ 145K • 👍 1K • 💬 164 • ⏱️ 2:02 • 3d ago
+
+---
+
+**[This wearable robot adds two mechanical legs behind you](https://www.youtube.com/watch?v=y1Jh2BtO-Ow)**
+
+CENTAUR ROBOT - wearable robot adds two legs behind people to help distribute the load ...
+
+📺 Unstoppable Gadgets
+
+👁️ 27K • 👍 334 • 💬 21 • ⏱️ 0:17 • 1d ago
+
+---
+
+**[Out of control robot smashes up restaurant as waitress desperately attempts to drag it away](https://www.youtube.com/watch?v=ZyohmMJA5Ao)**
+
+THIS is the hilarious moment a boogying robot dances too hard and sends food and cutlery flying in a high end restaurant.
+
+📺 The Sun
+
+👁️ 90K • 👍 1K • 💬 967 • ⏱️ 2:07 • 1d ago
 
 ---
 
@@ -290,7 +291,7 @@ Sesame Micro is a tangent project to the Sesame Robot Project, an open-source mi
 
 📺 Dorian Todd
 
-👁️ 24K • 👍 2K • 💬 109 • ⏱️ 11:03 • 1d ago
+👁️ 25K • 👍 2K • 💬 116 • ⏱️ 11:03 • 1d ago
 
 ---
 

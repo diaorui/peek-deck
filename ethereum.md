@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-20T19:55:30.330973+00:00'
+updated: '2026-03-20T20:35:44.803892+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
+- videos
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 20, 2026 at 19:55 UTC  
+**Last Updated:** March 20, 2026 at 20:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.1%  
-**7d:** +1.2%  
-**30d:** +8.9%  
-**90d:** -29.3%  
-**1y:** +8.0%  
+**24h:** -0.9%  
+**7d:** +1.6%  
+**30d:** +9.3%  
+**90d:** -29.0%  
+**1y:** +8.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $257.22B
+**Market Cap:** $257.04B
 Rank #2
 
 **Circulating Supply:** 120,691,772 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.8%
+-57.0%
 
 **All-Time Low:** $0.43
-+493094.8%
++490595.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -156,17 +156,17 @@ Benzinga • 2d ago
 
 ---
 
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqdkZEN64Cu25-0wL3iuzm8q3bT-yoi1W-fqLuvYP1MIME3aenpfAYM0&gaa_ts=69bd9f79&gaa_sig=m0frapYyotJOU6Kaol4mMeS_IzVVmrju38wjwMJc_u1loFwk2QzYAc6offwQfGzZEIaisPv7_pONZJb8zYgIMg%3D%3D)**
+**[Citigroup Reportedly Lowers 2026 Bitcoin And Ethereum Targets, Cites Stalling Legislation](https://finance.yahoo.com/markets/crypto/articles/citigroup-reportedly-lowers-2026-bitcoin-194918720.html)**
 
-MarketWatch • 5h ago
+Citigroup (NYSE:C) has cut its targets for Bitcoin and Ethereum for this year, according to media reports. The investment bank reportedly expects Bitcoin and Ethereum to reach $112,000 and $3,175 this year. The targets are lower than the bank’s initial...
+
+Yahoo Finance • 46m ago
 
 ---
 
-**[This is the latest sign of a quiet crypto revolution](https://nypost.com/2026/03/20/business/blackrock-launches-ethereum-exchange-traded-fund/)**
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqehG7mcLekb19mCGymGtvbJNvxeFXkzMMG7w4TQXozmdxopPlOPmE8x&gaa_ts=69bdb2fa&gaa_sig=WatZHOsFvlCW7OwjjDuvivCoiDb9B6GUi0nxw5W3sOXYb6rpfohjnPgdppWsmnkeZYt_W7Jm-PcJUG-ryOqOQg%3D%3D)**
 
-“Ethereum, to me, is really gonna be where Wall Street meets crypto,” a source told NYNext.
-
-New York Post • 8h ago
+MarketWatch • 6h ago
 
 ---
 
@@ -178,11 +178,11 @@ The Block • 1d ago
 
 ---
 
-**[XRP vs Bitcoin vs Ethereum: ChatGPT Predicts Which Crypto Is Best for 2026](https://finance.yahoo.com/markets/crypto/articles/xrp-vs-bitcoin-vs-ethereum-132035939.html)**
+**[This is the latest sign of a quiet crypto revolution](https://nypost.com/2026/03/20/business/blackrock-launches-ethereum-exchange-traded-fund/)**
 
-Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and XRP (CRYPTO: XRP) have all crashed between 40% and 60% from their 2025 highs. As the entire market gears towards a recovery, investors want to know which of Bitcoin, XRP, or Ethereum is the best crypto to invest in this year? To keep things fair, we asked ChatGPT ... XRP vs Bitcoin vs Ethereum: ChatGPT Predicts Which Crypto Is Best for 2026
+“Ethereum, to me, is really gonna be where Wall Street meets crypto,” a source told NYNext.
 
-Yahoo Finance • 1d ago
+New York Post • 9h ago
 
 ---
 
@@ -202,14 +202,6 @@ Fortune • 6h ago
 
 ---
 
-**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1774002600)**
-
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 1d ago
-
----
-
 **[Ethereum Price Bottom Has Hit, Tom Lee Claims Again — Three Reasons He Says It's Heading Higher](https://www.ccn.com/news/crypto/ethereum-price-bottom-hit-tom-lee-claims-again-three-reasons/)**
 
 CCN.com • 8h ago
@@ -220,7 +212,13 @@ CCN.com • 8h ago
 
 Ethereum has slipped into a valuation range that some on-chain analysts associate with major long-term bottoms, after ETH fell below its realized price for the first time in two years. Via X, renowned crypto analyst Ali Martinez argued on Thursday the setup now resembles prior cycle lows.Ethereum D…
 
-TradingView • 15h ago
+TradingView • 16h ago
+
+---
+
+**[BitMine Stock Drops 8% as Ethereum Pullback, High Costs, and Hawkish Fed Weigh on Investors](https://www.tipranks.com/news/bitmine-stock-drops-8-as-ethereum-pullback-high-costs-and-hawkish-fed-weigh-on-investors)**
+
+TipRanks • 1d ago
 
 ---
 
@@ -228,13 +226,23 @@ TradingView • 15h ago
 
 ## YouTube Videos: "ethereum"
 
+**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=2uI2vtUxypk)**
+
+ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
+
+📺 Max Green
+
+👁️ 188 • 👍 1K • 50m ago
+
+---
+
 **[Tom Lee: The &#39;&#39;100x&#39;&#39;?! Opportunity Just Got Even Bigger! (New 2026 Prediction)](https://www.youtube.com/watch?v=ZPGB-z8MNug)**
 
 Ethereum is showing strong bullish signals, with analysts predicting a major rebound after a technical bottom, supported by its ...
 
 📺 Crypto Sensei
 
-👁️ 3K • 👍 360 • 💬 40 • ⏱️ 12:42 • 6h ago
+👁️ 4K • 👍 404 • 💬 47 • ⏱️ 12:42 • 7h ago
 
 ---
 
@@ -244,7 +252,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 1K • 👍 129 • 💬 15 • ⏱️ 19:43 • 4h ago
+👁️ 3K • 👍 246 • 💬 23 • ⏱️ 19:43 • 4h ago
+
+---
+
+**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=i5Vep_p33eE)**
+
+ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
+
+📺 Gershon Rebong
+
+👁️ 106 • 👍 1K • 1h ago
+
+---
+
+**[BITCOIN &amp; ALTCOIN WARNING: Price Targets Exposed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_1-O-RlRdxA)**
+
+BITCOIN & ALTCOIN WARNING: Price Targets Exposed!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 1K • 👍 105 • 💬 121 • ⏱️ 16:50 • 1h ago
 
 ---
 
@@ -254,7 +282,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 741 • 👍 82 • 💬 5 • ⏱️ 4:30 • 5h ago
+👁️ 1K • 👍 90 • 💬 5 • ⏱️ 4:30 • 6h ago
 
 ---
 
@@ -262,17 +290,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 EllioTrades
 
-👁️ 9K • 👍 205 • 💬 83 • ⏱️ 1:07 • 1d ago
-
----
-
-**[Canton Chain Better Than XRP, Solana, &amp; Ethereum?🔥Yuval Rooz INTERVIEW](https://www.youtube.com/watch?v=e2058fi-vYw)**
-
-Canton is the first privacy-enabled open blockchain network, ensuring limitless connections that preserve privacy. Is it worthy of ...
-
-📺 Paul Barron Network
-
-👁️ 28K • 👍 2K • 💬 1K • ⏱️ 30:27 • 23h ago
+👁️ 9K • 👍 211 • 💬 38 • ⏱️ 1:07 • 1d ago
 
 ---
 
@@ -282,7 +300,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 146 • 👍 8 • 💬 2 • ⏱️ 4:56 • 10h ago
+👁️ 184 • 👍 8 • 💬 2 • ⏱️ 4:56 • 10h ago
+
+---
+
+**[Canton Chain Better Than XRP, Solana, &amp; Ethereum?🔥Yuval Rooz INTERVIEW](https://www.youtube.com/watch?v=e2058fi-vYw)**
+
+Canton is the first privacy-enabled open blockchain network, ensuring limitless connections that preserve privacy. Is it worthy of ...
+
+📺 Paul Barron Network
+
+👁️ 30K • 👍 2K • 💬 1K • ⏱️ 30:27 • 1d ago
 
 ---
 
@@ -293,36 +321,6 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 📺 More Crypto Online
 
 👁️ 2K • 👍 140 • 💬 4 • ⏱️ 4:29 • 1d ago
-
----
-
-**[Crypto Holders Can’t Believe.. It’s Actually Happening](https://www.youtube.com/watch?v=coGc_pNFCQU)**
-
-0% Fees on Gold And Silver (Earn $300k): https://www.weex.com/events/promo/0fees-gold-silver-300k?vipCode=oz5p ...
-
-📺 Altcoin Daily
-
-👁️ 36K • 👍 2K • 💬 132 • ⏱️ 9:25 • 1d ago
-
----
-
-**[BITCOIN BEARISH TARGET HIT (this is next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5lB0j7D4UkQ)**
-
-BITCOIN BEARISH TARGET HIT (this is next)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 263 • 💬 131 • ⏱️ 18:32 • 19h ago
-
----
-
-**[Bitcoin &amp; Ethereum. SO sollte es jetzt weitergehen für BTC &amp; ETH](https://www.youtube.com/watch?v=pCSWJZHGYnE)**
-
-Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
-
-📺 Krypto Trading & Investing
-
-👁️ 4K • 👍 728 • 💬 92 • ⏱️ 12:10 • 13h ago
 
 ---
 
