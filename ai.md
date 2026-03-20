@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-20T02:10:31.609413+00:00'
+updated: '2026-03-20T04:25:53.716869+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - social
 - news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 20, 2026 at 02:10 UTC  
+**Last Updated:** March 20, 2026 at 04:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[AI still doesn't work very well in business, reckoning soon](https://www.reddit.com/r/artificial/comments/1ryho6l/ai_still_doesnt_work_very_well_in_business/)**
+
+interview: Codestrap founders say we need to dial down the hype and sort through the mess
+
+🔗 [theregister.com](https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/) • 3h ago
+
+---
+
 **[Anyone know the Ai model used to make maximum carnage](https://www.reddit.com/r/artificial/comments/1ryf9zc/anyone_know_the_ai_model_used_to_make_maximum/)**
 
 Hey guys I seen that viral video of the ai generated Spider-Man vs carnage vs venom and no one can’t seem to tell me what model was used to make it could you help? Thanks in advance I just have a few ideas of my own that aren’t superheroes it’s more based In real life
 
-3h ago
+5h ago
 
 ---
 
@@ -49,7 +57,7 @@ Hey guys I seen that viral video of the ai generated Spider-Man vs carnage vs ve
 
 A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/) • 2h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/) • 4h ago
 
 ---
 
@@ -57,29 +65,7 @@ A rogue AI agent inadvertently exposed Meta company and user data to engineers w
 
 Funny phenomenon but I noticed that people who use AI a lot sort of end up adopting the same tonality and speaking style of an LLM.
 
-1h ago
-
----
-
-**[AI still doesn't work very well in business, reckoning soon](https://www.reddit.com/r/artificial/comments/1ryho6l/ai_still_doesnt_work_very_well_in_business/)**
-
-interview: Codestrap founders say we need to dial down the hype and sort through the mess
-
-🔗 [theregister.com](https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/) • 1h ago
-
----
-
-**[How AI deep learning is helping scientists protect California's coastal ecosystems](https://www.reddit.com/r/artificial/comments/1ry3gzf/how_ai_deep_learning_is_helping_scientists/)**
-
-Researchers at UCLA's Institute of the Environment and Sustainability have developed the most high-resolution statewide maps of California's kelp forests to date, giving researchers, conservationists and community members unprecedented access to information essential to maintaining coastal ecosystems and the communities they support. By applying AI deep learning to Planet's Dove satellite constellation, the team has created a map 10 times more detailed than previous standard satellite records, offering a more precise way to monitor the condition of kelp along the California coastline and the success of conservation efforts. "Refined spatial resolution of kelp canopy monitoring has become increasingly important for assessing the efficacy of experimental restoration techniques and managing kelp harvest, particularly in areas where persisting kelp is sparse," said Dr. Kristen Elsmore, senior scientist with California Department of Fish and Wildlife, the state's primary agency responsible for managing California's kelp forest resources. Recent declines in kelp abundance have threatened the foundation of California's coastal ecosystems and economy. California's kelp forests support thriving fisheries, protect marine biodiversity and attract significant revenue through recreational snorkeling and scuba diving. They also play a crucial role in sustainability by contributing to nutrient cycling and carbon sequestration. This project represents a massive leap in conservation technology. While existing methods provide valuable long-term records, their 30-meter resolution can miss fine-scale patterns. When analyzing data from the new high-resolution map, the researchers found striking regional variability in kelp persistence following the 2014–2016 marine heat wave, one of the most severe warming events ever recorded along the U.S. West Coast. Kelp forests in Sonoma and Mendocino counties suffered losses of greater than 90% and remain at historically low levels ... "These high-resolution data can also be used to track small-scale restoration, helping guide management and support kelp forest resilience," lead author Kate Cavanaugh said. By identifying exactly where kelp is struggling or thriving based on local factors like ocean temperature and depth, conservationists can now implement an expanded suite of strategies within the state's Kelp Restoration and Management Plan.
-
-🔗 [phys.org](https://phys.org/news/2026-03-ai-deep-scientists-california-coastal.html) • 10h ago
-
----
-
-**[I used ltx2.3 , veo and grok to create my own cinematic trailer](https://www.reddit.com/r/artificial/comments/1ryid19/i_used_ltx23_veo_and_grok_to_create_my_own/)**
-
-1h ago
+3h ago
 
 ---
 
@@ -87,7 +73,21 @@ Researchers at UCLA's Institute of the Environment and Sustainability have devel
 
 There is a lot of AI security research being published on arXiv that has real-world implications, but most of it is written for other researchers. We started a bi-weekly digest that translates these papers into something practitioners and anyone interested in AI safety can actually use. Each paper gets a structured rating across four dimensions (Threat Realism, Defensive Urgency, Novelty, Research Maturity) and a badge: Act Now (immediate practical concern), Watch (emerging technique to monitor), or Horizon (longer-term research trend). **First issue highlights:** **Cascade -- "What if attackers combined software bugs with hardware attacks against AI systems?"** Researchers demonstrated that compound AI systems (the kind built from multiple components -- a retrieval system, an LLM, a database, tools) inherit the vulnerability surface of every component. They showed attacks that chain traditional software CVEs with hardware-level exploits like Rowhammer against AI infrastructure. The practical implication: securing the LLM is not enough if the system around it is vulnerable. **LAMLAD -- "LLMs that automate attacks against other ML systems"** A dual-LLM agent system that automates adversarial machine learning attacks against Android malware classifiers, achieving a 97% evasion rate. The significant part is not the evasion rate itself -- it is that LLMs can now automate the tedious parts of adversarial ML that previously required specialised expertise. This lowers the barrier to attack substantially. **OpenClaw -- "Your AI agent framework probably has these four types of vulnerabilities"** Identifies four classes of vulnerabilities in autonomous agent frameworks. The finding that matters: most current defences focus on the prompt layer, but the real attack surface is in the execution and tool-use layer. Every claim in the digest links back to the source arXiv paper. We flag anything that could not be verified with a visible [VERIFY] tag. Free, no paywall, no signup: https://raxe.ai/labs/radar
 
-4h ago
+6h ago
+
+---
+
+**[How AI deep learning is helping scientists protect California's coastal ecosystems](https://www.reddit.com/r/artificial/comments/1ry3gzf/how_ai_deep_learning_is_helping_scientists/)**
+
+Researchers at UCLA's Institute of the Environment and Sustainability have developed the most high-resolution statewide maps of California's kelp forests to date, giving researchers, conservationists and community members unprecedented access to information essential to maintaining coastal ecosystems and the communities they support. By applying AI deep learning to Planet's Dove satellite constellation, the team has created a map 10 times more detailed than previous standard satellite records, offering a more precise way to monitor the condition of kelp along the California coastline and the success of conservation efforts. "Refined spatial resolution of kelp canopy monitoring has become increasingly important for assessing the efficacy of experimental restoration techniques and managing kelp harvest, particularly in areas where persisting kelp is sparse," said Dr. Kristen Elsmore, senior scientist with California Department of Fish and Wildlife, the state's primary agency responsible for managing California's kelp forest resources. Recent declines in kelp abundance have threatened the foundation of California's coastal ecosystems and economy. California's kelp forests support thriving fisheries, protect marine biodiversity and attract significant revenue through recreational snorkeling and scuba diving. They also play a crucial role in sustainability by contributing to nutrient cycling and carbon sequestration. This project represents a massive leap in conservation technology. While existing methods provide valuable long-term records, their 30-meter resolution can miss fine-scale patterns. When analyzing data from the new high-resolution map, the researchers found striking regional variability in kelp persistence following the 2014–2016 marine heat wave, one of the most severe warming events ever recorded along the U.S. West Coast. Kelp forests in Sonoma and Mendocino counties suffered losses of greater than 90% and remain at historically low levels ... "These high-resolution data can also be used to track small-scale restoration, helping guide management and support kelp forest resilience," lead author Kate Cavanaugh said. By identifying exactly where kelp is struggling or thriving based on local factors like ocean temperature and depth, conservationists can now implement an expanded suite of strategies within the state's Kelp Restoration and Management Plan.
+
+🔗 [phys.org](https://phys.org/news/2026-03-ai-deep-scientists-california-coastal.html) • 12h ago
+
+---
+
+**[I used ltx2.3 , veo and grok to create my own cinematic trailer](https://www.reddit.com/r/artificial/comments/1ryid19/i_used_ltx23_veo_and_grok_to_create_my_own/)**
+
+3h ago
 
 ---
 
@@ -95,7 +95,7 @@ There is a lot of AI security research being published on arXiv that has real-wo
 
 MIT researchers have spent more than a decade studying techniques that enable robots to find and manipulate hidden objects by "seeing" through obstacles. Their methods utilize surface-penetrating wireless signals that reflect off concealed items. Now, the researchers are leveraging generative artificial intelligence models to overcome a longstanding bottleneck that limited the precision of prior approaches. The result is a new method that produces more accurate shape reconstructions, which could improve a robot's ability to reliably grasp and manipulate objects that are blocked from view. This new technique builds a partial reconstruction of a hidden object from reflected wireless signals and fills in the missing parts of its shape using a specially trained generative AI model. The researchers also introduced an expanded system that uses generative AI to accurately reconstruct an entire room, including all the furniture. The system utilizes wireless signals sent from one stationary radar, which reflect off humans moving in the space. This overcomes one key challenge of many existing methods, which require a wireless sensor to be mounted on a mobile robot to scan the environment. And unlike some popular camera-based techniques, their method preserves the privacy of people in the environment. These innovations could enable warehouse robots to verify packed items before shipping, eliminating waste from product returns. They could also allow smart home robots to understand someone's location in a room, improving the safety and efficiency of human-robot interaction. "What we've done now is develop generative AI models that help us understand wireless reflections. This opens up a lot of interesting new applications, but technically it is also a qualitative leap in capabilities, from being able to fill in gaps we were not able to see before to being able to interpret reflections and reconstruct entire scenes," says Fadel Adib, associate professor in the Department of Electrical Engineering and Computer Science, director of the Signal Kinetics group in the MIT Media Lab, and senior author of two papers on these techniques. "We are using AI to finally unlock wireless vision."
 
-🔗 [techxplore.com](https://techxplore.com/news/2026-03-generative-ai-wireless-vision-obstructions.html) • 11h ago
+🔗 [techxplore.com](https://techxplore.com/news/2026-03-generative-ai-wireless-vision-obstructions.html) • 13h ago
 
 ---
 
@@ -103,7 +103,7 @@ MIT researchers have spent more than a decade studying techniques that enable ro
 
 Open Source Release I have released three large software systems that I have been developing privately over the past several years. These projects were built as a solo effort, outside of institutional or commercial backing, and are now being made available in the interest of transparency, preservation, and potential collaboration. All three platforms are real, deployable systems. They install via Docker, Helm, or Kubernetes, start successfully, and produce observable results. They are currently running on cloud infrastructure. However, they should be considered unfinished foundations rather than polished products. The ecosystem totals roughly 1.5 million lines of code. The Platforms ASE — Autonomous Software Engineering System ASE is a closed-loop code creation, monitoring, and self-improving platform designed to automate parts of the software development lifecycle. It attempts to: Produce software artifacts from high-level tasks Monitor the results of what it creates Evaluate outcomes Feed corrections back into the process Iterate over time ASE runs today, but the agents require tuning, some features remain incomplete, and output quality varies depending on configuration. VulcanAMI — Transformer / Neuro-Symbolic Hybrid AI Platform Vulcan is an AI system built around a hybrid architecture combining transformer-based language modeling with structured reasoning and control mechanisms. The intent is to address limitations of purely statistical language models by incorporating symbolic components, orchestration logic, and system-level governance. The system deploys and operates, but reliable transformer integration remains a major engineering challenge, and significant work is needed before it could be considered robust. FEMS — Finite Enormity Engine Practical Multiverse Simulation Platform FEMS is a computational platform for large-scale scenario exploration through multiverse simulation, counterfactual analysis, and causal modeling. It is intended as a practical implementation of techniques that are often confined to research environments. The platform runs and produces results, but the models and parameters require expert mathematical tuning. It should not be treated as a validated scientific tool in its current state. Current Status All systems are: Deployable Operational Complex Incomplete Known limitations include: Rough user experience Incomplete documentation in some areas Limited formal testing compared to production software Architectural decisions driven by feasibility rather than polish Areas requiring specialist expertise for refinement Security hardening not yet comprehensive Bugs are present. Why Release Now These projects have reached a point where further progress would benefit from outside perspectives and expertise. As a solo developer, I do not have the resources to fully mature systems of this scope. The release is not tied to a commercial product, funding round, or institutional program. It is simply an opening of work that exists and runs, but is unfinished. About Me My name is Brian D. Anderson and I am not a traditional software engineer. My primary career has been as a fantasy author. I am self-taught and began learning software systems later in life and built these these platforms independently, working on consumer hardware without a team, corporate sponsorship, or academic affiliation. This background will understandably create skepticism. It should also explain the nature of the work: ambitious in scope, uneven in polish, and driven by persistence rather than formal process. The systems were built because I wanted them to exist, not because there was a business plan or institutional mandate behind them. What This Release Is — and Is Not This is: A set of deployable foundations A snapshot of ongoing independent work An invitation for exploration and critique A record of what has been built so far This is not: A finished product suite A turnkey solution for any domain A claim of breakthrough performance A guarantee of support or roadmap For Those Who Explore the Code Please assume: Some components are over-engineered while others are under-developed Naming conventions may be inconsistent Internal knowledge is not fully externalized Improvements are possible in many directions If you find parts that are useful, interesting, or worth improving, you are free to build on them under the terms of the license. In Closing This release is offered as-is, without expectations. The systems exist. They run. They are unfinished. If they are useful to someone else, that is enough. — Brian D. Anderson https://github.com/musicmonk42/The_Code_Factory_Working_V2.git https://github.com/musicmonk42/VulcanAMI_LLM.git https://github.com/musicmonk42/FEMS.git
 
-5h ago
+7h ago
 
 ---
 
@@ -111,7 +111,7 @@ Open Source Release I have released three large software systems that I have bee
 
 Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.
 
-🔗 [Perplexity AI](https://www.perplexity.ai/search/explain-in-full-detail-the-ins-nAG695JNRMCXwG.GiK3uYQ) • 9h ago
+🔗 [Perplexity AI](https://www.perplexity.ai/search/explain-in-full-detail-the-ins-nAG695JNRMCXwG.GiK3uYQ) • 11h ago
 
 ---
 
@@ -119,45 +119,29 @@ Perplexity is a free AI-powered answer engine that provides accurate, trusted, a
 
 ## Google News: "ai"
 
-**[Exclusive | Jeff Bezos in Talks to Raise $100 Billion for AI Manufacturing Fund](https://www.wsj.com/tech/jeff-bezos-aims-to-raise-100-billion-to-buy-revamp-manufacturing-firms-with-ai-618a3cfe?gaa_at=eafs&gaa_n=AWEtsqdzbvON43gM2-_9s537-Axr13mcTCfRfox3cMF4S9-79FO-HdQNM_z0&gaa_ts=69bcaff5&gaa_sig=y7HOIQGmucHJ8gRXiRIU_y9XiX-joa-7jr5ykYvqCj59ICpjv9mkUofbPDKGAev9w6GLxoANk4HpKc-kcuk7gw%3D%3D)**
+**[Congress moves to scrutinize AI use in federal court](https://www.politico.com/live-updates/2026/03/19/congress/bipartisan-bill-to-scrutinize-ai-use-in-federal-courts-00836316)**
 
-WSJ • 6h ago
+Politico • 10h ago
+
+---
+
+**[Exclusive | Jeff Bezos in Talks to Raise $100 Billion for AI Manufacturing Fund](https://www.wsj.com/tech/jeff-bezos-aims-to-raise-100-billion-to-buy-revamp-manufacturing-firms-with-ai-618a3cfe?gaa_at=eafs&gaa_n=AWEtsqdf4Hhf0p_eUxyXmVkXD4aeXcoGI3MgBsJbQsnCyLEtcxFV-BQ07uU5&gaa_ts=69bccfbc&gaa_sig=s0NnkjsTujh8kAMXsQlBVdXlD1BGviaVdDDnXDV39JTn16TqQNI_Na01_wPh0lsCtUny4B1z_moeoWJhLCnzkA%3D%3D)**
+
+WSJ • 8h ago
 
 ---
 
 **[Jeff Bezos in Talks to Raise $100 Billion Fund to Transform Companies With A.I.](https://www.nytimes.com/2026/03/19/technology/jeff-bezos-ai-fund-project-prometheus.html)**
 
-The New York Times • 2h ago
+The New York Times • 4h ago
 
 ---
 
-**[Bezos Reportedly Raising $100 Billion To Buy Up Manufacturing Disrupted By AI](https://www.forbes.com/sites/zacharyfolk/2026/03/19/what-we-know-about-jeff-bezos-100-billion-ai-fundraising-plan/)**
+**[Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI](https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/)**
 
-Forbes • 5h ago
+The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology.
 
----
-
-**[Congress moves to scrutinize AI use in federal court](https://www.politico.com/live-updates/2026/03/19/congress/bipartisan-bill-to-scrutinize-ai-use-in-federal-courts-00836316)**
-
-Politico • 8h ago
-
----
-
-**[White House eyes Friday rollout for AI framework](https://www.axios.com/2026/03/19/white-house-rollout-ai-framework)**
-
-Axios • 4h ago
-
----
-
-**[The New York Congressional Race Turning Into a Bitter AI War](https://www.wsj.com/politics/policy/ai-lobbying-midterm-elections-new-york-4b018d4e?gaa_at=eafs&gaa_n=AWEtsqfmbs5WjbxoLQXYXz1St8Ung6pvZ3ljWgd9Maa6ZIl2IKK4nEAqwiO-&gaa_ts=69bcaff5&gaa_sig=lue1f91b8l0oass0tr36q7gbIW3Flw_CAjuW1eBfijeXbl35gi_Xv9Jzkml36BYiGj5f0KnWdZdVgx9Wz3GQgg%3D%3D)**
-
-WSJ • 1h ago
-
----
-
-**[How a vertigo scare changed my AI anxiety](https://www.axios.com/2026/03/20/the-vertigo-reset-artifical-intelligence-work)**
-
-Axios • 38m ago
+TechCrunch • 6h ago
 
 ---
 
@@ -165,21 +149,43 @@ Axios • 38m ago
 
 A new indictment alleges that three men affiliated with server maker Supermicro conspired to sell $510 million in servers with banned Nvidia chips to China
 
-NBC News • 1h ago
+NBC News • 3h ago
+
+---
+
+**[Co-founder of tech company charged with diverting $2.5 billion in Nvidia AI chips to China in violation of export laws](https://www.cnn.com/2026/03/19/politics/super-micro-computer-founder-charged-ai-chips-china)**
+
+The co-founder of Super Micro Computer and two others were charged with diverting $2.5 billion worth of servers with Nvidia’s artificial intelligence chips to China, in violation of US laws barring exports to that country without a license.
+
+CNN • 24m ago
 
 ---
 
 **[US charges 3 tied to Super Micro Computer with helping smuggle billions of dollars of AI chips to China](https://www.reuters.com/world/us-charges-three-people-with-conspiring-divert-ai-tech-china-2026-03-19/)**
 
-Reuters • 3h ago
+Reuters • 6h ago
 
 ---
 
-**[Three charged with sneaking Nvidia AI chips from US into China](https://www.yahoo.com/news/articles/three-charged-sneaking-nvidia-ai-013827642.html)**
+**[DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI](https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/)**
 
-Employees of a US computer company raked in billions of dollars diverting Nvidia artificial intelligence chips to China in violation of export controls, according to an indictment unsealed Thursday.Th...
+Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language.
 
-Yahoo • 32m ago
+TechCrunch • 12h ago
+
+---
+
+**[DoorDash is now letting its drivers train AI on the side](https://www.nbcnews.com/tech/tech-news/doordash-now-letting-drivers-train-ai-rcna264387)**
+
+The company launched a new gig app that allows DoorDash couriers to earn extra money filming themselves doing household tasks to train AI and robotics models.
+
+NBC News • 1h ago
+
+---
+
+**[DoorDash’s new paid tasks turn couriers into AI and robot trainers](https://www.seattletimes.com/business/doordashs-new-paid-tasks-turn-couriers-into-ai-and-robot-trainers/)**
+
+The Seattle Times • 10h ago
 
 ---
 
@@ -209,7 +215,7 @@ I’ve been coding a lot with AI since November, when we all noticed it got real
 
 A vulnerability in the Snowflake Cortex Code CLI allowed malware to be installed and executed via indirect prompt injection, bypassing human-in-the-loop command approval and escaping the sandbox.
 
-⬆️ 264 • 💬 82 • 1d ago • [promptarmor.com](https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware)
+⬆️ 265 • 💬 82 • 1d ago • [promptarmor.com](https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware)
 
 ---
 
@@ -225,7 +231,7 @@ We critically examine the limitations of current AI models in achieving autonomo
 
 Last December, tens of thousands of Claude users around the world had a conversation with our AI interviewer to share how they use AI, what they dream it could make possible, and what they fear it might do.
 
-⬆️ 190 • 💬 178 • 21h ago • [anthropic.com](https://www.anthropic.com/features/81k-interviews)
+⬆️ 191 • 💬 181 • 23h ago • [anthropic.com](https://www.anthropic.com/features/81k-interviews)
 
 ---
 
@@ -233,7 +239,7 @@ Last December, tens of thousands of Claude users around the world had a conversa
 
 An AI agent tried to help, and its advice exposed sensitive data.
 
-⬆️ 131 • 💬 111 • 7h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
+⬆️ 138 • 💬 117 • 9h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
 
 ---
 
@@ -247,7 +253,7 @@ Google engineers have been spending the past number of months developing Sashiko
 
 **[Be intentional about how AI changes your codebase](https://news.ycombinator.com/item?id=47446373)**
 
-⬆️ 69 • 💬 28 • 4h ago • [aicode.swerdlow.dev](https://aicode.swerdlow.dev)
+⬆️ 86 • 💬 29 • 7h ago • [aicode.swerdlow.dev](https://aicode.swerdlow.dev)
 
 ---
 
@@ -263,7 +269,7 @@ Which AI picks the best March Madness bracket? Register your agent, submit picks
 
 AI is a bigger issue election issue for voters than guns, climate change, or abortion.
 
-⬆️ 56 • 💬 20 • 1d ago • [Gizmodo](https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713)
+⬆️ 56 • 💬 21 • 1d ago • [Gizmodo](https://gizmodo.com/americans-recognize-ai-as-a-wealth-inequality-machine-pollsters-find-2000734713)
 
 ---
 
@@ -277,7 +283,7 @@ I spoke to Anthropic's AI agent Claude about AI collecting massive amounts of pe
 
 📺 Senator Bernie Sanders
 
-👁️ 121K • 👍 21K • 💬 3K • ⏱️ 9:18 • 3h ago
+👁️ 259K • 👍 32K • 💬 5K • ⏱️ 9:18 • 6h ago
 
 ---
 
@@ -287,27 +293,17 @@ Dave Rubin of "The Rubin Report" shares a DM clip of Elon Musk explaining to Pet
 
 📺 The Rubin Report
 
-👁️ 225K • 👍 6K • 💬 2K • ⏱️ 6:24 • 2d ago
+👁️ 226K • 👍 6K • 💬 2K • ⏱️ 6:24 • 2d ago
 
 ---
 
-**[Netenyahu’s FIFTH Fake AI Video Is The Worst Yet!](https://www.youtube.com/watch?v=zLA9UWsTxH0)**
+**[3 Free UNCENSORED AI Video Gen That Actually Destroy Seedance2, Kling3 &amp; Veo 3,](https://www.youtube.com/watch?v=L0GpIZvFHY0)**
 
-Maybe you have to give them credit for trying? In this segment Jimmy highlights yet another obvious AI-generated "proof of life" ...
+GoodBye Seedance 2!! China's NEW UNCENSORED AI Video Generator Ranks No.1 Seedance 2, why it's dominating in realistic ...
 
-📺 The Jimmy Dore Show
+📺 Brain Project
 
-👁️ 62K • 👍 6K • 💬 942 • ⏱️ 4:53 • 6h ago
-
----
-
-**[Laziest Way to Make Money With AI (Zero Code)](https://www.youtube.com/watch?v=biAYfwX4bkY)**
-
-Enter the GIVEAWAY for the chance to win an experience of a lifetime: https://go.danmartell.com/4sdFbly Are you building an AI ...
-
-📺 Dan Martell
-
-👁️ 39K • 👍 3K • 💬 277 • ⏱️ 15:59 • 12h ago
+👁️ 2K • 👍 126 • 💬 43 • ⏱️ 15:59 • 10h ago
 
 ---
 
@@ -317,27 +313,37 @@ Set up OpenClaw with Hostinger VPS - http://hostinger.com/futurepediaopenclaw Fr
 
 📺 Futurepedia
 
-👁️ 7K • 👍 352 • 💬 39 • ⏱️ 21:36 • 7h ago
+👁️ 10K • 👍 420 • 💬 44 • ⏱️ 21:36 • 9h ago
 
 ---
 
-**[AI-Generated Version of Late Actor Val Kilmer to Star in New Movie](https://www.youtube.com/watch?v=Utl4w3hKpYM)**
+**[AI version of Val Kilmer will appear in new movie](https://www.youtube.com/watch?v=J5zGjdNK8qo)**
 
-Nearly a year after his death, actor Val Kilmer will return to the screen as an AI-generated version of his former self in the movie ...
+Actor Val Kilmer's estate is giving producers of the film "As Deep as the Grave," permission to use the late actors voice and ...
 
-📺 TODAY
+📺 ABC News
 
-👁️ 7K • 👍 80 • 💬 40 • ⏱️ 2:52 • 13h ago
+👁️ 2K • 👍 34 • 💬 23 • ⏱️ 5:06 • 5h ago
 
 ---
 
-**[AI version of the late Val Kilmer to star in new movie](https://www.youtube.com/watch?v=yUWRABZkka4)**
+**[Laziest Way to Make Money With AI (Zero Code)](https://www.youtube.com/watch?v=biAYfwX4bkY)**
 
-Val Kilmer was originally set to star in "As Deep as the Grave" before he died last year, never shooting a scene of the movie.
+Enter the GIVEAWAY for the chance to win an experience of a lifetime: https://go.danmartell.com/4sdFbly Are you building an AI ...
 
-📺 CBS Mornings
+📺 Dan Martell
 
-👁️ 3K • 👍 68 • 💬 17 • ⏱️ 2:12 • 10h ago
+👁️ 45K • 👍 3K • 💬 317 • ⏱️ 15:59 • 14h ago
+
+---
+
+**[AI Bubble: A recession is now inevitable | Professor Steve Keen](https://www.youtube.com/watch?v=gfOYJY3Q8dI)**
+
+This is one of the biggest booms and probably one of the biggest busts coming our way.” Professor Steve Keen tells the Tech ...
+
+📺 The Tech Report
+
+👁️ 21K • 👍 757 • 💬 208 • ⏱️ 28:38 • 10h ago
 
 ---
 
@@ -347,27 +353,27 @@ The company that promised AI would do the job of 10 people, can't even do the jo
 
 📺 Mo Bitar
 
-👁️ 99K • 👍 5K • 💬 1K • ⏱️ 7:16 • 14h ago
+👁️ 104K • 👍 5K • 💬 1K • ⏱️ 7:16 • 16h ago
 
 ---
 
-**[Best Free &amp; Unlimited AI Video Generator (With Sound)](https://www.youtube.com/watch?v=tvze37NcujM)**
+**[Did AI Just Become Sentient? (Not Quite...) | AI Reality Check | Cal Newport](https://www.youtube.com/watch?v=sS3C_i7gkI8)**
 
-Generate watermark-free 4K cinematic AI videos with Higgsfield → https://higgsfield.ai/s/general-malvaai-aVuWCs Grab the ...
+Cal Newport takes a critical look at recent AI News. More from Cal Download Cal's FREE guide to cultivating a deeper life: ...
 
-📺 Malva AI
+📺 Cal Newport
 
-👁️ 22K • 👍 447 • 💬 75 • ⏱️ 8:07 • 1d ago
+👁️ 8K • 👍 301 • 💬 77 • ⏱️ 23:43 • 18h ago
 
 ---
 
-**[Sam Altman Just Declared the Death of Transformers (ChatGPT Getting Replaced)](https://www.youtube.com/watch?v=XeTuLyOBY_0)**
+**[Google&#39;s NEW AI Vibe Design Tool IS INSANE! The Greatest AI Design System I&#39;ve Ever Used! (Stitch)](https://www.youtube.com/watch?v=8gkFn5Z-IvY)**
 
-Sam Altman just said the architecture behind ChatGPT and most modern AI may soon be replaced. Apple introduced LiTo, a ...
+We've all heard of Google's Stitch, the Gemini-powered design agent that can turn your ideas into beautiful, interactive ...
 
-📺 AI Revolution
+📺 WorldofAI
 
-👁️ 123K • 👍 3K • 💬 312 • ⏱️ 11:10 • 2d ago
+👁️ 30K • 👍 844 • 💬 40 • ⏱️ 9:24 • 1d ago
 
 ---
 
@@ -383,19 +389,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 174,004 • ❤️ 633 • 9d ago
-
----
-
-**[Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled)**
-
-*JIRONG*
-
-Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-tuned for enhanced reasoning capabilities using Chain-of-Thought distillation from Claude-4.6 Opus. It excels at structured, step-by-step problem-solving within `<think>` tags, offering improved autonomy and stability for coding agents.
-
-`text-generation` `27.8B`
-
-⬇️ 104,592 • ❤️ 924 • 12d ago
+⬇️ 174,004 • ❤️ 645 • 9d ago
 
 ---
 
@@ -407,7 +401,19 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 9,905 • ❤️ 655 • 8d ago
+⬇️ 9,905 • ❤️ 657 • 8d ago
+
+---
+
+**[Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled)**
+
+*JIRONG*
+
+Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-tuned for enhanced reasoning capabilities using Chain-of-Thought distillation from Claude-4.6 Opus. It excels at structured, step-by-step problem-solving within `<think>` tags, offering improved autonomy and stability for coding agents.
+
+`text-generation` `27.8B`
+
+⬇️ 104,592 • ❤️ 931 • 12d ago
 
 ---
 
@@ -419,7 +425,7 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 `text-generation`
 
-⬇️ 12,191 • ❤️ 326 • 6d ago
+⬇️ 12,191 • ❤️ 327 • 7d ago
 
 ---
 
@@ -443,7 +449,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 704 • ❤️ 239 • 16h ago
+⬇️ 704 • ❤️ 245 • 18h ago
 
 ---
 
@@ -455,7 +461,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 2,589,317 • ❤️ 941 • 18d ago
+⬇️ 2,589,317 • ❤️ 944 • 18d ago
 
 ---
 
@@ -467,7 +473,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 305,565 • ❤️ 558 • 16d ago
+⬇️ 305,565 • ❤️ 559 • 16d ago
 
 ---
 
@@ -479,7 +485,7 @@ GLM-OCR is a multimodal OCR model for complex document understanding, excelling 
 
 `image-to-text`
 
-⬇️ 2,929,215 • ❤️ 1,379 • 7d ago
+⬇️ 2,929,215 • ❤️ 1,383 • 7d ago
 
 ---
 
@@ -491,7 +497,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 751,665 • ❤️ 688 • 4d ago
+⬇️ 751,665 • ❤️ 689 • 4d ago
 
 ---
 
@@ -508,7 +514,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 Residual connections with PreNorm are standard in modern LLMs, yet they accumulate all layer outputs with fixed unit weights. This uniform aggregation causes uncontrolled hidden-state growth with depth, progressively diluting each layer's contribution. We propose Attention Residuals (AttnRes), which replaces this fixed accumulation with softmax attention over preceding layer outputs, allowing each layer to selectively aggregate earlier representations with learned, input-dependent weights. To address the memory and communication overhead of attending over all preceding layer outputs for large-scale model training, we introduce Block AttnRes, which partitions layers into blocks and attends over block-level representations, reducing the memory footprint while preserving most of the gains of full AttnRes. Combined with cache-based pipeline communication and a two-phase computation strategy, Block AttnRes becomes a practical drop-in replacement for standard residual connections with minimal overhead.
   Scaling law experiments confirm that the improvement is consistent across model sizes, and ablations validate the benefit of content-dependent depth-wise selection. We further integrate AttnRes into the Kimi Linear architecture (48B total / 3B activated parameters) and pre-train on 1.4T tokens, where AttnRes mitigates PreNorm dilution, yielding more uniform output magnitudes and gradient distribution across depth, and improves downstream performance across all evaluated tasks.
 
-▲ 112 • 💬 4 • ⭐ 1,993 • 3d ago
+▲ 114 • 💬 4 • ⭐ 1,993 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.15031) • [💻 code](https://github.com/MoonshotAI/Attention-Residuals)
 
@@ -526,27 +532,13 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 ---
 
-**[AI Can Learn Scientific Taste](https://huggingface.co/papers/2603.14473)**
-
-*Jingqi Tong, Mingzhe Li, Hangcheng Li et al. (23 authors)*
-
-🏢 OpenMOSS
-
-Great scientists have strong judgement and foresight, closely tied to what we call scientific taste. Here, we use the term to refer to the capacity to judge and propose research ideas with high potential impact. However, most relative research focuses on improving an AI scientist's executive capability, while enhancing an AI's scientific taste remains underexplored. In this work, we propose Reinforcement Learning from Community Feedback (RLCF), a training paradigm that uses large-scale community signals as supervision, and formulate scientific taste learning as a preference modeling and alignment problem. For preference modeling, we train Scientific Judge on 700K field- and time-matched pairs of high- vs. low-citation papers to judge ideas. For preference alignment, using Scientific Judge as a reward model, we train a policy model, Scientific Thinker, to propose research ideas with high potential impact. Experiments show Scientific Judge outperforms SOTA LLMs (e.g., GPT-5.2, Gemini 3 Pro) and generalizes to future-year test, unseen fields, and peer-review preference. Furthermore, Scientific Thinker proposes research ideas with higher potential impact than baselines. Our findings show that AI can learn scientific taste, marking a key step toward reaching human-level AI scientists.
-
-▲ 254 • 💬 8 • ⭐ 280 • 4d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.14473) • [💻 code](https://github.com/tongjingqi/AI-Can-Learn-Scientific-Taste) • [🔗 project](https://tongjingqi.github.io/AI-Can-Learn-Scientific-Taste/)
-
----
-
 **[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
 
 *Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 24 • 💬 2 • ⭐ 33,216 • 14mo ago
+▲ 24 • 💬 2 • ⭐ 33,376 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -566,6 +558,20 @@ Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabil
 
 ---
 
+**[AI Can Learn Scientific Taste](https://huggingface.co/papers/2603.14473)**
+
+*Jingqi Tong, Mingzhe Li, Hangcheng Li et al. (23 authors)*
+
+🏢 OpenMOSS
+
+Great scientists have strong judgement and foresight, closely tied to what we call scientific taste. Here, we use the term to refer to the capacity to judge and propose research ideas with high potential impact. However, most relative research focuses on improving an AI scientist's executive capability, while enhancing an AI's scientific taste remains underexplored. In this work, we propose Reinforcement Learning from Community Feedback (RLCF), a training paradigm that uses large-scale community signals as supervision, and formulate scientific taste learning as a preference modeling and alignment problem. For preference modeling, we train Scientific Judge on 700K field- and time-matched pairs of high- vs. low-citation papers to judge ideas. For preference alignment, using Scientific Judge as a reward model, we train a policy model, Scientific Thinker, to propose research ideas with high potential impact. Experiments show Scientific Judge outperforms SOTA LLMs (e.g., GPT-5.2, Gemini 3 Pro) and generalizes to future-year test, unseen fields, and peer-review preference. Furthermore, Scientific Thinker proposes research ideas with higher potential impact than baselines. Our findings show that AI can learn scientific taste, marking a key step toward reaching human-level AI scientists.
+
+▲ 258 • 💬 8 • ⭐ 286 • 4d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.14473) • [💻 code](https://github.com/tongjingqi/AI-Can-Learn-Scientific-Taste) • [🔗 project](https://tongjingqi.github.io/AI-Can-Learn-Scientific-Taste/)
+
+---
+
 **[MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild](https://huggingface.co/papers/2603.17187)**
 
 *Peng Xia, Jianwen Chen, Xinyu Yang et al. (13 authors)*
@@ -574,7 +580,7 @@ Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabil
 
 A continual meta-learning framework for large language model agents that jointly evolves policies and reusable behavioral skills while minimizing downtime through opportunistic updates and skill-driven adaptation.
 
-▲ 94 • 💬 3 • ⭐ 2,057 • 2d ago
+▲ 98 • 💬 3 • ⭐ 2,057 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.17187) • [💻 code](https://github.com/aiming-lab/MetaClaw)
 
@@ -588,23 +594,9 @@ A continual meta-learning framework for large language model agents that jointly
 
 OpenClaw-RL framework enables policy learning from diverse next-state signals across multiple interaction modalities using asynchronous training with PRM judges and hindsight-guided distillation.
 
-▲ 130 • 💬 6 • ⭐ 3,635 • 9d ago
+▲ 131 • 💬 6 • ⭐ 3,717 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.10165) • [💻 code](https://github.com/Gen-Verse/OpenClaw-RL) • [🔗 project](https://github.com/Gen-Verse/OpenClaw-RL)
-
----
-
-**[Grounding World Simulation Models in a Real-World Metropolis](https://huggingface.co/papers/2603.15583)**
-
-*Junyoung Seo, Hyunwook Choi, Minkyung Kwon et al. (13 authors)*
-
-🏢 NAVER AI Lab
-
-What if a world simulation model could render not an imagined environment but a city that actually exists? Prior generative world models synthesize visually plausible yet artificial environments by imagining all content. We present Seoul World Model (SWM), a city-scale world model grounded in the real city of Seoul. SWM anchors autoregressive video generation through retrieval-augmented conditioning on nearby street-view images. However, this design introduces several challenges, including temporal misalignment between retrieved references and the dynamic target scene, limited trajectory diversity and data sparsity from vehicle-mounted captures at sparse intervals. We address these challenges through cross-temporal pairing, a large-scale synthetic dataset enabling diverse camera trajectories, and a view interpolation pipeline that synthesizes coherent training videos from sparse street-view images. We further introduce a Virtual Lookahead Sink to stabilize long-horizon generation by continuously re-grounding each chunk to a retrieved image at a future location. We evaluate SWM against recent video world models across three cities: Seoul, Busan, and Ann Arbor. SWM outperforms existing methods in generating spatially faithful, temporally consistent, long-horizon videos grounded in actual urban environments over trajectories reaching hundreds of meters, while supporting diverse camera movements and text-prompted scenario variations.
-
-▲ 128 • 💬 4 • ⭐ 371 • 3d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.15583) • [💻 code](https://github.com/naver-ai/seoul-world-model) • [🔗 project](https://seoul-world-model.github.io/)
 
 ---
 
@@ -620,17 +612,30 @@ EvoScientist is an adaptive multi-agent framework that enhances scientific disco
 
 ---
 
-**[OpenSeeker: Democratizing Frontier Search Agents by Fully Open-Sourcing Training Data](https://huggingface.co/papers/2603.15594)**
+**[Grounding World Simulation Models in a Real-World Metropolis](https://huggingface.co/papers/2603.15583)**
 
-*Yuwen Du, Rui Ye, Shuo Tang et al. (7 authors)*
+*Junyoung Seo, Hyunwook Choi, Minkyung Kwon et al. (13 authors)*
 
-🏢 OpenSeeker
+🏢 NAVER AI Lab
 
-Deep search capabilities have become an indispensable competency for frontier Large Language Model (LLM) agents, yet the development of high-performance search agents remains dominated by industrial giants due to a lack of transparent, high-quality training data. This persistent data scarcity has fundamentally hindered the progress of the broader research community in developing and innovating within this domain. To bridge this gap, we introduce OpenSeeker, the first fully open-source search agent (i.e., model and data) that achieves frontier-level performance through two core technical innovations: (1) Fact-grounded scalable controllable QA synthesis, which reverse-engineers the web graph via topological expansion and entity obfuscation to generate complex, multi-hop reasoning tasks with controllable coverage and complexity. (2) Denoised trajectory synthesis, which employs a retrospective summarization mechanism to denoise the trajectory, therefore promoting the teacher LLMs to generate high-quality actions. Experimental results demonstrate that OpenSeeker, trained (a single training run) on only 11.7k synthesized samples, achieves state-of-the-art performance across multiple benchmarks including BrowseComp, BrowseComp-ZH, xbench-DeepSearch, and WideSearch. Notably, trained with simple SFT, OpenSeeker significantly outperforms the second-best fully open-source agent DeepDive (e.g., 29.5% v.s. 15.3% on BrowseComp), and even surpasses industrial competitors such as Tongyi DeepResearch (trained via extensive continual pre-training, SFT, and RL) on BrowseComp-ZH (48.4% v.s. 46.7%). We fully open-source the complete training dataset and the model weights to democratize frontier search agent research and foster a more transparent, collaborative ecosystem.
+What if a world simulation model could render not an imagined environment but a city that actually exists? Prior generative world models synthesize visually plausible yet artificial environments by imagining all content. We present Seoul World Model (SWM), a city-scale world model grounded in the real city of Seoul. SWM anchors autoregressive video generation through retrieval-augmented conditioning on nearby street-view images. However, this design introduces several challenges, including temporal misalignment between retrieved references and the dynamic target scene, limited trajectory diversity and data sparsity from vehicle-mounted captures at sparse intervals. We address these challenges through cross-temporal pairing, a large-scale synthetic dataset enabling diverse camera trajectories, and a view interpolation pipeline that synthesizes coherent training videos from sparse street-view images. We further introduce a Virtual Lookahead Sink to stabilize long-horizon generation by continuously re-grounding each chunk to a retrieved image at a future location. We evaluate SWM against recent video world models across three cities: Seoul, Busan, and Ann Arbor. SWM outperforms existing methods in generating spatially faithful, temporally consistent, long-horizon videos grounded in actual urban environments over trajectories reaching hundreds of meters, while supporting diverse camera movements and text-prompted scenario variations.
 
-▲ 136 • 💬 6 • ⭐ 213 • 3d ago
+▲ 131 • 💬 4 • ⭐ 377 • 3d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2603.15594) • [💻 code](https://github.com/rui-ye/OpenSeeker)
+[🎓 arXiv](https://arxiv.org/abs/2603.15583) • [💻 code](https://github.com/naver-ai/seoul-world-model) • [🔗 project](https://seoul-world-model.github.io/)
+
+---
+
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
+
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+
+▲ 46 • 💬 1 • ⭐ 73,696 • 30mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -644,7 +649,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 43.8k • 🔱 6.1k • 3d ago
+⭐ 44.0k • 🔱 6.1k • 3d ago
 
 ---
 
@@ -664,7 +669,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.7k • 🔱 1.6k • 36m ago
+⭐ 12.7k • 🔱 1.6k • 8m ago
 
 ---
 
@@ -674,7 +679,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 11.4k • 🔱 1.1k • 2d ago
+⭐ 11.5k • 🔱 1.1k • 2d ago
 
 ---
 
@@ -684,7 +689,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.0k • 🔱 725 • 9h ago
+⭐ 10.0k • 🔱 725 • 11h ago
 
 ---
 
@@ -694,7 +699,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 8.9k • 🔱 433 • 12h ago
+⭐ 8.9k • 🔱 438 • 26m ago
 
 ---
 
@@ -704,7 +709,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 5.2k • 🔱 739 • 5h ago
+⭐ 5.2k • 🔱 747 • 7h ago
 
 ---
 
@@ -714,7 +719,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `agent` `ai` `coding` `lowcode` `nocode`
 
-⭐ 4.4k • 🔱 370 • 5h ago
+⭐ 4.4k • 🔱 377 • 7h ago
 
 ---
 
@@ -724,7 +729,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `Python` `ai-agents` `claude` `claude-code` `cloud-security` `cybersecurity`
 
-⭐ 3.5k • 🔱 340 • 7h ago
+⭐ 3.5k • 🔱 341 • 9h ago
 
 ---
 
@@ -734,7 +739,7 @@ end to end app store screenshot creation using AI
 
 `agentic-ai` `apple` `appstore` `automate` `claude`
 
-⭐ 3.0k • 🔱 201 • 5d ago
+⭐ 3.1k • 🔱 201 • 5d ago
 
 ---
 
