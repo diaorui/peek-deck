@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-20T05:35:14.164529+00:00'
+updated: '2026-03-20T06:58:03.344454+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 20, 2026 at 05:35 UTC  
+**Last Updated:** March 20, 2026 at 06:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[The Robotics team from Wissahickon High School in Ambler, Pennsylvania built a robot Miss Daisy XXIV that picks up balls and shoots them into a container.](https://www.reddit.com/r/robotics/comments/1ry3haa/the_robotics_team_from_wissahickon_high_school_in/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Why can’t robots use their lidar to scan the room and confirm there is enough space to perform an action? 🤔 Obviously I learned the hard way but it’s a good question. What do you guys think?
 
-12h ago
+13h ago
 
 ---
 
@@ -50,7 +50,7 @@ Why can’t robots use their lidar to scan the room and confirm there is enough 
 
 Amazon and Jeff Bezos had previously invested in the startup. The deal signals the e-commerce giant's interest in doorstep delivery.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/) • 4h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/) • 5h ago
 
 ---
 
@@ -58,7 +58,7 @@ Amazon and Jeff Bezos had previously invested in the startup. The deal signals t
 
 Been seeing a lot of people building robots that use the ChatGPT API to give them autonomy, but that's like asking a writer to be a gymnast, so I'm building a software that makes better use of VLMs, Depth Estimation and World Models, to give autonomy to your robot. Building this in public. (skipped DAY 5 bc there was no much progress really) Today: > Tested out different visual odometry algorithms > Turns out DA3 is also pretty good for pose estimation/odometry > Was struggling for a bit generating a reasonable occupancy grid > Reused some old code from my robotics research in college > Turns out Bayesian Log-Odds Mapping yielded some kinda good results at least > Pretty low definition voxels for now, but pretty good for SLAM that just uses a camera and no IMU or other odometry methods Working towards releasing this as an API alongside a Python SDK repo, for any builder to be able to add autonomy to their robot as long as it has a camera
 
-6h ago
+7h ago
 
 ---
 
@@ -66,13 +66,19 @@ Been seeing a lot of people building robots that use the ChatGPT API to give the
 
 I badly need help for our problem in the plotting output of the plotter. It seems that the square is tilted at a certain angle. Can somebody help solving this problem.
 
-1h ago
+3h ago
+
+---
+
+**[Bender display matrix](https://www.reddit.com/r/robotics/comments/1ryocif/bender_display_matrix/)**
+
+55m ago
 
 ---
 
 **[Robot playing tennis ,what are your thoughts on this feat ? Is it comparable to figure cleaning the room ,could it be said that this is best feat ai humanoid robot has shown so far](https://www.reddit.com/r/robotics/comments/1rxwsm1/robot_playing_tennis_what_are_your_thoughts_on/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -80,25 +86,19 @@ I badly need help for our problem in the plotting output of the plotter. It seem
 
 I integrated the RoboBaton Viobot2 SLAM camera into my drone build. The VIO performance is notably stable, offering reliable visual odometry for autonomous flight applications.
 
-12h ago
+13h ago
 
 ---
 
 **[Looking for a robust, high-performance platform for autonomous navigation or swarm coordination?](https://www.reddit.com/r/robotics/comments/1rylr1m/looking_for_a_robust_highperformance_platform_for/)**
 
-1h ago
+3h ago
 
 ---
 
 **[Bender robot](https://www.reddit.com/r/robotics/comments/1rxryqs/bender_robot/)**
 
 1d ago
-
----
-
-**[Ears cat helmet](https://www.reddit.com/r/robotics/comments/1ry4lte/ears_cat_helmet/)**
-
-13h ago
 
 ---
 
@@ -110,7 +110,23 @@ I integrated the RoboBaton Viobot2 SLAM camera into my drone build. The VIO perf
 
 Amazon has acquired autonomous robotics startup Rivr, an Amazon spokesperson confirmed, a deal that could help the commerce and logistics giant deliver packages to shoppers’ doors more efficiently. Based in Zurich and formerly known as Swiss-Mile, Rivr was valued at $110 million in an August ...
 
-The Information • 9h ago
+The Information • 10h ago
+
+---
+
+**[Amazon acquires startup Rivr to test robots for 'doorstep delivery'](https://www.cnbc.com/2026/03/19/amazon-acquires-startup-rivr-to-test-robots-for-doorstep-delivery.html)**
+
+The company expects to test ways it can use Rivr's robots to help with "doorstep delivery" and to "improve safety outcomes" for delivery drivers.
+
+CNBC • 8h ago
+
+---
+
+**[Amazon acquires robotic doorstep delivery provider RIVR](https://www.therobotreport.com/amazon-acquires-robotic-doorstep-delivery-provider-rivr/)**
+
+With last-mile delivery company RIVR now at Amazon, could we soon see quadrupeds delivering our Amazon packages?
+
+The Robot Report • 5h ago
 
 ---
 
@@ -118,7 +134,23 @@ The Information • 9h ago
 
 Techman unveils its TM Xplore I humanoid robot at Nvidia GTC 2026, showcasing AI-powered automation designed for real-world industrial work.
 
-eWeek • 7h ago
+eWeek • 9h ago
+
+---
+
+**[Ranked: The Companies Shipping the Most Humanoid Robots](https://www.visualcapitalist.com/ranked-the-companies-shipping-the-worlds-humanoid-robots/)**
+
+From Unitree to Tesla, see which companies shipped the most robots in 2025, and why Chinese manufacturers dominate the leaderboard.
+
+Visual Capitalist • 2d ago
+
+---
+
+**[Inside China’s robotics revolution](https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution)**
+
+The long read: How close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find out
+
+The Guardian • 1d ago
 
 ---
 
@@ -132,7 +164,7 @@ Bloomberg.com • 2d ago
 
 The Fox News AI Newsletter gives readers the latest AI technology advancements, covering the challenges and opportunities AI presents.
 
-Fox News • 10h ago
+Fox News • 12h ago
 
 ---
 
@@ -146,39 +178,7 @@ TechCrunch • 2d ago
 
 **[Smarter, faster, and more human: AI system helps robots outpace their human teachers](https://techxplore.com/news/2026-03-smarter-faster-human-ai-robots.html)**
 
-Tech Xplore • 11h ago
-
----
-
-**[Amazon acquires startup Rivr to test robots for 'doorstep delivery'](https://www.cnbc.com/2026/03/19/amazon-acquires-startup-rivr-to-test-robots-for-doorstep-delivery.html)**
-
-The company expects to test ways it can use Rivr's robots to help with "doorstep delivery" and to "improve safety outcomes" for delivery drivers.
-
-CNBC • 7h ago
-
----
-
-**[50 startups transforming industries with physical AI](https://www.bvp.com/atlas/50-startups-transforming-industries-with-physical-ai)**
-
-After decades of promise, autonomous systems and robotics are moving from labs to factory floors and households — powered by breakthroughs in AI and hardware.
-
-Bessemer Venture Partners • 12h ago
-
----
-
-**[Mark Cuban says the future of robotics isn't humanoids, but robots and homes that are co-designed](https://www.businessinsider.com/mark-cuban-humanoid-robotics-will-fail-robots-houses-codesigned-2026-3)**
-
-Mark Cuban said the push for humanoid robots will fail and that instead robots and spaces will be co-designed.
-
-Business Insider • 1h ago
-
----
-
-**[Amazon acquires Rivr, maker of a stair-climbing delivery robot](https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/)**
-
-Amazon and Jeff Bezos had previously invested in the startup. The deal signals the e-commerce giant's interest in doorstep delivery.
-
-TechCrunch • 6h ago
+Tech Xplore • 12h ago
 
 ---
 
@@ -192,17 +192,7 @@ The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrati
 
 📺 DPCcars
 
-👁️ 121K • 👍 949 • 💬 107 • ⏱️ 2:02 • 3d ago
-
----
-
-**[This wearable robot adds two mechanical legs behind you](https://www.youtube.com/watch?v=y1Jh2BtO-Ow)**
-
-CENTAUR ROBOT - wearable robot adds two legs behind people to help distribute the load ...
-
-📺 Unstoppable Gadgets
-
-👁️ 25K • 👍 321 • 💬 21 • ⏱️ 0:17 • 1d ago
+👁️ 123K • 👍 980 • 💬 109 • ⏱️ 2:02 • 3d ago
 
 ---
 
@@ -212,7 +202,7 @@ Video shows restaurant employees struggling to restrain a dancing robot that wen
 
 📺 NBC News
 
-👁️ 97K • 👍 1K • 💬 368 • ⏱️ 3:38 • 1d ago
+👁️ 104K • 👍 1K • 💬 375 • ⏱️ 3:38 • 1d ago
 
 ---
 
@@ -222,7 +212,7 @@ Gecko Robotics announced a $71 million partnership with the US Navy, deploying i
 
 📺 Bloomberg Technology
 
-👁️ 4K • 👍 114 • 💬 3 • ⏱️ 4:39 • 2d ago
+👁️ 4K • 👍 115 • 💬 3 • ⏱️ 4:39 • 2d ago
 
 ---
 
@@ -232,7 +222,17 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 31K • 👍 558 • 💬 388 • ⏱️ 2:07 • 18h ago
+👁️ 37K • 👍 691 • 💬 476 • ⏱️ 2:07 • 19h ago
+
+---
+
+**[This wearable robot adds two mechanical legs behind you](https://www.youtube.com/watch?v=y1Jh2BtO-Ow)**
+
+CENTAUR ROBOT - wearable robot adds two legs behind people to help distribute the load ...
+
+📺 Unstoppable Gadgets
+
+👁️ 26K • 👍 322 • 💬 21 • ⏱️ 0:17 • 1d ago
 
 ---
 
@@ -242,17 +242,7 @@ Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and g
 
 📺 Brighter with Herbert
 
-👁️ 99K • 👍 2K • 💬 319 • ⏱️ 49:45 • 5d ago
-
----
-
-**[NEW VELOS Guns on AMMIT are INSANE! War Robots](https://www.youtube.com/watch?v=gcxfeY7GmOA)**
-
-War Robots Gameplay: NEW Guns VELOS on the Ammit are crazy! WR My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 6K • 👍 376 • 💬 73 • ⏱️ 22:28 • 16h ago
+👁️ 100K • 👍 2K • 💬 319 • ⏱️ 49:45 • 5d ago
 
 ---
 
@@ -262,17 +252,7 @@ China just revealed a robotic system that can turn a human into something that m
 
 📺 AI Revolution
 
-👁️ 48K • 👍 674 • 💬 81 • ⏱️ 14:52 • 6d ago
-
----
-
-**[Watch Robots ASSEMBLE Car Wheels in SECONDS! 🛞](https://www.youtube.com/watch?v=nqfY8o1DiQY)**
-
-Witness the incredible speed and precision of industrial robots as they revolutionize tire and rim assembly on an automated ...
-
-📺 Peace Working Shorts
-
-👁️ 381K • 👍 585 • 💬 10 • ⏱️ 0:06 • 4d ago
+👁️ 49K • 👍 676 • 💬 81 • ⏱️ 14:52 • 6d ago
 
 ---
 
@@ -282,7 +262,27 @@ Artificial intelligence is entering the real world. At NVIDIA GTC 2026, Jensen H
 
 📺 DPCcars
 
-👁️ 127K • 👍 2K • 💬 237 • ⏱️ 11:48 • 3d ago
+👁️ 131K • 👍 2K • 💬 237 • ⏱️ 11:48 • 3d ago
+
+---
+
+**[NEW VELOS Guns on AMMIT are INSANE! War Robots](https://www.youtube.com/watch?v=gcxfeY7GmOA)**
+
+War Robots Gameplay: NEW Guns VELOS on the Ammit are crazy! WR My War Robots Creator Link: https://wr.my.games/manni ...
+
+📺 Manni-Gaming
+
+👁️ 7K • 👍 398 • 💬 76 • ⏱️ 22:28 • 17h ago
+
+---
+
+**[How Disney &amp; Nvidia Brought Olaf to Life as a Robot ☃️](https://www.youtube.com/watch?v=LESOs5GtIrg)**
+
+We got a sneak peek at Disney's newest robotic character Olaf, who will debut at Disneyland Paris by the end of March.
+
+📺 CNET
+
+👁️ 135K • 👍 2K • 💬 140 • ⏱️ 3:35 • 3d ago
 
 ---
 

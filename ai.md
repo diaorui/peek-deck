@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-20T05:35:14.146614+00:00'
+updated: '2026-03-20T06:58:03.326690+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 20, 2026 at 05:35 UTC  
+**Last Updated:** March 20, 2026 at 06:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,27 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[AI still doesn't work very well in business, reckoning soon](https://www.reddit.com/r/artificial/comments/1ryho6l/ai_still_doesnt_work_very_well_in_business/)**
-
-interview: Codestrap founders say we need to dial down the hype and sort through the mess
-
-🔗 [theregister.com](https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/) • 4h ago
-
----
-
 **[People that speak like an LLM](https://www.reddit.com/r/artificial/comments/1ryhj77/people_that_speak_like_an_llm/)**
 
 Funny phenomenon but I noticed that people who use AI a lot sort of end up adopting the same tonality and speaking style of an LLM.
 
-5h ago
+6h ago
 
 ---
 
-**[Anyone know the Ai model used to make maximum carnage](https://www.reddit.com/r/artificial/comments/1ryf9zc/anyone_know_the_ai_model_used_to_make_maximum/)**
+**[AI still doesn't work very well in business, reckoning soon](https://www.reddit.com/r/artificial/comments/1ryho6l/ai_still_doesnt_work_very_well_in_business/)**
 
-Hey guys I seen that viral video of the ai generated Spider-Man vs carnage vs venom and no one can’t seem to tell me what model was used to make it could you help? Thanks in advance I just have a few ideas of my own that aren’t superheroes it’s more based In real life
+interview: Codestrap founders say we need to dial down the hype and sort through the mess
 
-6h ago
+🔗 [theregister.com](https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/) • 6h ago
 
 ---
 
@@ -65,13 +57,15 @@ Hey guys I seen that viral video of the ai generated Spider-Man vs carnage vs ve
 
 A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/) • 6h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/) • 7h ago
 
 ---
 
-**[I used ltx2.3 , veo and grok to create my own cinematic trailer](https://www.reddit.com/r/artificial/comments/1ryid19/i_used_ltx23_veo_and_grok_to_create_my_own/)**
+**[Experimental AI agent breaks out of test environment, Mines crypto without permission](https://www.reddit.com/r/artificial/comments/1ryo8er/experimental_ai_agent_breaks_out_of_test/)**
 
-4h ago
+An experimental AI agent bypassed its test environment, opened a hidden connection and attempted cryptocurrency mining without permission during training.
+
+🔗 [techputs](https://techputs.com/experimental-ai-agent-breaks-out-of-test-environment/) • 1h ago
 
 ---
 
@@ -79,7 +73,7 @@ A rogue AI agent inadvertently exposed Meta company and user data to engineers w
 
 There is a lot of AI security research being published on arXiv that has real-world implications, but most of it is written for other researchers. We started a bi-weekly digest that translates these papers into something practitioners and anyone interested in AI safety can actually use. Each paper gets a structured rating across four dimensions (Threat Realism, Defensive Urgency, Novelty, Research Maturity) and a badge: Act Now (immediate practical concern), Watch (emerging technique to monitor), or Horizon (longer-term research trend). **First issue highlights:** **Cascade -- "What if attackers combined software bugs with hardware attacks against AI systems?"** Researchers demonstrated that compound AI systems (the kind built from multiple components -- a retrieval system, an LLM, a database, tools) inherit the vulnerability surface of every component. They showed attacks that chain traditional software CVEs with hardware-level exploits like Rowhammer against AI infrastructure. The practical implication: securing the LLM is not enough if the system around it is vulnerable. **LAMLAD -- "LLMs that automate attacks against other ML systems"** A dual-LLM agent system that automates adversarial machine learning attacks against Android malware classifiers, achieving a 97% evasion rate. The significant part is not the evasion rate itself -- it is that LLMs can now automate the tedious parts of adversarial ML that previously required specialised expertise. This lowers the barrier to attack substantially. **OpenClaw -- "Your AI agent framework probably has these four types of vulnerabilities"** Identifies four classes of vulnerabilities in autonomous agent frameworks. The finding that matters: most current defences focus on the prompt layer, but the real attack surface is in the execution and tool-use layer. Every claim in the digest links back to the source arXiv paper. We flag anything that could not be verified with a visible [VERIFY] tag. Free, no paywall, no signup: https://raxe.ai/labs/radar
 
-8h ago
+9h ago
 
 ---
 
@@ -87,7 +81,7 @@ There is a lot of AI security research being published on arXiv that has real-wo
 
 Researchers at UCLA's Institute of the Environment and Sustainability have developed the most high-resolution statewide maps of California's kelp forests to date, giving researchers, conservationists and community members unprecedented access to information essential to maintaining coastal ecosystems and the communities they support. By applying AI deep learning to Planet's Dove satellite constellation, the team has created a map 10 times more detailed than previous standard satellite records, offering a more precise way to monitor the condition of kelp along the California coastline and the success of conservation efforts. "Refined spatial resolution of kelp canopy monitoring has become increasingly important for assessing the efficacy of experimental restoration techniques and managing kelp harvest, particularly in areas where persisting kelp is sparse," said Dr. Kristen Elsmore, senior scientist with California Department of Fish and Wildlife, the state's primary agency responsible for managing California's kelp forest resources. Recent declines in kelp abundance have threatened the foundation of California's coastal ecosystems and economy. California's kelp forests support thriving fisheries, protect marine biodiversity and attract significant revenue through recreational snorkeling and scuba diving. They also play a crucial role in sustainability by contributing to nutrient cycling and carbon sequestration. This project represents a massive leap in conservation technology. While existing methods provide valuable long-term records, their 30-meter resolution can miss fine-scale patterns. When analyzing data from the new high-resolution map, the researchers found striking regional variability in kelp persistence following the 2014–2016 marine heat wave, one of the most severe warming events ever recorded along the U.S. West Coast. Kelp forests in Sonoma and Mendocino counties suffered losses of greater than 90% and remain at historically low levels ... "These high-resolution data can also be used to track small-scale restoration, helping guide management and support kelp forest resilience," lead author Kate Cavanaugh said. By identifying exactly where kelp is struggling or thriving based on local factors like ocean temperature and depth, conservationists can now implement an expanded suite of strategies within the state's Kelp Restoration and Management Plan.
 
-🔗 [phys.org](https://phys.org/news/2026-03-ai-deep-scientists-california-coastal.html) • 14h ago
+🔗 [phys.org](https://phys.org/news/2026-03-ai-deep-scientists-california-coastal.html) • 15h ago
 
 ---
 
@@ -95,7 +89,7 @@ Researchers at UCLA's Institute of the Environment and Sustainability have devel
 
 MIT researchers have spent more than a decade studying techniques that enable robots to find and manipulate hidden objects by "seeing" through obstacles. Their methods utilize surface-penetrating wireless signals that reflect off concealed items. Now, the researchers are leveraging generative artificial intelligence models to overcome a longstanding bottleneck that limited the precision of prior approaches. The result is a new method that produces more accurate shape reconstructions, which could improve a robot's ability to reliably grasp and manipulate objects that are blocked from view. This new technique builds a partial reconstruction of a hidden object from reflected wireless signals and fills in the missing parts of its shape using a specially trained generative AI model. The researchers also introduced an expanded system that uses generative AI to accurately reconstruct an entire room, including all the furniture. The system utilizes wireless signals sent from one stationary radar, which reflect off humans moving in the space. This overcomes one key challenge of many existing methods, which require a wireless sensor to be mounted on a mobile robot to scan the environment. And unlike some popular camera-based techniques, their method preserves the privacy of people in the environment. These innovations could enable warehouse robots to verify packed items before shipping, eliminating waste from product returns. They could also allow smart home robots to understand someone's location in a room, improving the safety and efficiency of human-robot interaction. "What we've done now is develop generative AI models that help us understand wireless reflections. This opens up a lot of interesting new applications, but technically it is also a qualitative leap in capabilities, from being able to fill in gaps we were not able to see before to being able to interpret reflections and reconstruct entire scenes," says Fadel Adib, associate professor in the Department of Electrical Engineering and Computer Science, director of the Signal Kinetics group in the MIT Media Lab, and senior author of two papers on these techniques. "We are using AI to finally unlock wireless vision."
 
-🔗 [techxplore.com](https://techxplore.com/news/2026-03-generative-ai-wireless-vision-obstructions.html) • 14h ago
+🔗 [techxplore.com](https://techxplore.com/news/2026-03-generative-ai-wireless-vision-obstructions.html) • 15h ago
 
 ---
 
@@ -103,7 +97,7 @@ MIT researchers have spent more than a decade studying techniques that enable ro
 
 Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.
 
-🔗 [Perplexity AI](https://www.perplexity.ai/search/explain-in-full-detail-the-ins-nAG695JNRMCXwG.GiK3uYQ) • 13h ago
+🔗 [Perplexity AI](https://www.perplexity.ai/search/explain-in-full-detail-the-ins-nAG695JNRMCXwG.GiK3uYQ) • 14h ago
 
 ---
 
@@ -111,7 +105,15 @@ Perplexity is a free AI-powered answer engine that provides accurate, trusted, a
 
 Open Source Release I have released three large software systems that I have been developing privately over the past several years. These projects were built as a solo effort, outside of institutional or commercial backing, and are now being made available in the interest of transparency, preservation, and potential collaboration. All three platforms are real, deployable systems. They install via Docker, Helm, or Kubernetes, start successfully, and produce observable results. They are currently running on cloud infrastructure. However, they should be considered unfinished foundations rather than polished products. The ecosystem totals roughly 1.5 million lines of code. The Platforms ASE — Autonomous Software Engineering System ASE is a closed-loop code creation, monitoring, and self-improving platform designed to automate parts of the software development lifecycle. It attempts to: Produce software artifacts from high-level tasks Monitor the results of what it creates Evaluate outcomes Feed corrections back into the process Iterate over time ASE runs today, but the agents require tuning, some features remain incomplete, and output quality varies depending on configuration. VulcanAMI — Transformer / Neuro-Symbolic Hybrid AI Platform Vulcan is an AI system built around a hybrid architecture combining transformer-based language modeling with structured reasoning and control mechanisms. The intent is to address limitations of purely statistical language models by incorporating symbolic components, orchestration logic, and system-level governance. The system deploys and operates, but reliable transformer integration remains a major engineering challenge, and significant work is needed before it could be considered robust. FEMS — Finite Enormity Engine Practical Multiverse Simulation Platform FEMS is a computational platform for large-scale scenario exploration through multiverse simulation, counterfactual analysis, and causal modeling. It is intended as a practical implementation of techniques that are often confined to research environments. The platform runs and produces results, but the models and parameters require expert mathematical tuning. It should not be treated as a validated scientific tool in its current state. Current Status All systems are: Deployable Operational Complex Incomplete Known limitations include: Rough user experience Incomplete documentation in some areas Limited formal testing compared to production software Architectural decisions driven by feasibility rather than polish Areas requiring specialist expertise for refinement Security hardening not yet comprehensive Bugs are present. Why Release Now These projects have reached a point where further progress would benefit from outside perspectives and expertise. As a solo developer, I do not have the resources to fully mature systems of this scope. The release is not tied to a commercial product, funding round, or institutional program. It is simply an opening of work that exists and runs, but is unfinished. About Me My name is Brian D. Anderson and I am not a traditional software engineer. My primary career has been as a fantasy author. I am self-taught and began learning software systems later in life and built these these platforms independently, working on consumer hardware without a team, corporate sponsorship, or academic affiliation. This background will understandably create skepticism. It should also explain the nature of the work: ambitious in scope, uneven in polish, and driven by persistence rather than formal process. The systems were built because I wanted them to exist, not because there was a business plan or institutional mandate behind them. What This Release Is — and Is Not This is: A set of deployable foundations A snapshot of ongoing independent work An invitation for exploration and critique A record of what has been built so far This is not: A finished product suite A turnkey solution for any domain A claim of breakthrough performance A guarantee of support or roadmap For Those Who Explore the Code Please assume: Some components are over-engineered while others are under-developed Naming conventions may be inconsistent Internal knowledge is not fully externalized Improvements are possible in many directions If you find parts that are useful, interesting, or worth improving, you are free to build on them under the terms of the license. In Closing This release is offered as-is, without expectations. The systems exist. They run. They are unfinished. If they are useful to someone else, that is enough. — Brian D. Anderson https://github.com/musicmonk42/The_Code_Factory_Working_V2.git https://github.com/musicmonk42/VulcanAMI_LLM.git https://github.com/musicmonk42/FEMS.git
 
-8h ago
+10h ago
+
+---
+
+**[Solution to AI Agent Prompt Injection, Hijacking attacks and Info Leaks:](https://www.reddit.com/r/artificial/comments/1rxtw4v/solution_to_ai_agent_prompt_injection_hijacking/)**
+
+Solution to AI Agent Prompt Injection, Hijacking attacks and Info Leaks: AI agents can be hijacked mid-task through the content they process. Every existing defense operates at the reasoning layer and can be bypassed. Sentinel enforces at the execution layer, structurally, not probabilistically. The agent cannot act outside its authorized boundary regardless of what it's told. You can visit sentinel-gateway.com for more info Loom link contains a short video that introduces Sentinel Gateway UI and how system operates based on 3-4 different prompt injection attempts and agent response. Sentinel eliminates any and all security risk associated with regard to AgenticAI. #AIAgent #AgenticAI #AISecurity #CyberSecurity #PromptInjection
+
+🔗 [Loom](https://www.loom.com/share/887679aa59c34a4e9109baafa353eecd) • 23h ago
 
 ---
 
@@ -119,69 +121,73 @@ Open Source Release I have released three large software systems that I have bee
 
 ## Google News: "ai"
 
-**[Exclusive | Jeff Bezos in Talks to Raise $100 Billion for AI Manufacturing Fund](https://www.wsj.com/tech/jeff-bezos-aims-to-raise-100-billion-to-buy-revamp-manufacturing-firms-with-ai-618a3cfe?gaa_at=eafs&gaa_n=AWEtsqclho2wicge07FstVBIO-Vh4xoS8GY3ppMmaGdLuxzHYXJ8M-qTJhbs&gaa_ts=69bcdfef&gaa_sig=MIfKkqVqEyTEuH3vf2tRCH6Imfi2t4Q9vGmAX9xQmrcNaSbpdS_se3TsY6PfRukaW1J7Jhog8z5QU7DTJAn8uQ%3D%3D)**
+**[Exclusive | Jeff Bezos in Talks to Raise $100 Billion for AI Manufacturing Fund](https://www.wsj.com/tech/jeff-bezos-aims-to-raise-100-billion-to-buy-revamp-manufacturing-firms-with-ai-618a3cfe?gaa_at=eafs&gaa_n=AWEtsqembkoDhwDWK4YYbnzrKtHrudjiispNAdBty4aEsyh7JfHuNuSI0vQf&gaa_ts=69bcf35e&gaa_sig=k6ooMEW8PfVOf0fkLRNgVNAHAsGCfwedwFkZbpMhCzab-IWJVwoYmn8NDzOafUSxiJX7z3v4Gqpkvcyt_YHBUw%3D%3D)**
 
-WSJ • 9h ago
+WSJ • 11h ago
 
 ---
 
 **[Jeff Bezos in Talks to Raise $100 Billion Fund to Transform Companies With A.I.](https://www.nytimes.com/2026/03/19/technology/jeff-bezos-ai-fund-project-prometheus.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
 **[Bezos Reportedly Raising $100 Billion To Buy Up Manufacturing Disrupted By AI](https://www.forbes.com/sites/zacharyfolk/2026/03/19/what-we-know-about-jeff-bezos-100-billion-ai-fundraising-plan/)**
 
-Forbes • 8h ago
+Forbes • 9h ago
+
+---
+
+**[Meta AI agent’s instruction causes large sensitive data leak to employees](https://www.theguardian.com/technology/2026/mar/20/meta-ai-agents-instruction-causes-large-sensitive-data-leak-to-employees)**
+
+Artificial intelligence agent instructed engineer to take actions that exposed user and company data internally
+
+The Guardian • 58m ago
+
+---
+
+**[Alibaba workforce shrinks 34% in 2025 as Chinese tech giant doubles down on AI](https://www.cnbc.com/2026/03/20/alibaba-headcount-falls-ai-push-sun-art-intime-sales.html)**
+
+Alibaba cut its staff by roughly 34% over the course of 2025, as the company disposed of peripheral holdings to focus on its AI business.
+
+CNBC • 44m ago
+
+---
+
+**[Alibaba, Tencent Shares Lose $66 Billion as AI Vision Falls Flat](https://www.bloomberg.com/news/articles/2026-03-20/alibaba-tencent-shed-66-billion-after-ai-vision-falls-flat)**
+
+Bloomberg.com • 3h ago
+
+---
+
+**[Alibaba stock falls despite AI outlook, Elliott takes Align stake](https://finance.yahoo.com/video/alibaba-stock-falls-despite-ai-212932216.html)**
+
+Yahoo Finance Markets and Data Editor Jared Blikre and Market Catalysts host Julie Hyman take a closer look at some of Thursday morning's trending tickers and stories. Alibaba (BABA) stock is plunging after the company reported revenue that fell short of expectations, though analysts are still bullish on Alibaba's artificial intelligence (AI) outlook. Elliott Investment Management is building a stake in Invisalign-maker Align Technology (ALGN).
+
+Yahoo Finance • 9h ago
+
+---
+
+**[‘It Feels Like There’s No Jobs’: 12 Gen Z Voters on the U.S. Economy](https://www.nytimes.com/interactive/2026/03/19/opinion/focus-group-gen-z-jobs.html)**
+
+The group discusses the labor market, work and how A.I. and hustle culture are influencing their lives.
+
+The New York Times • 21h ago
+
+---
+
+**[Introducing “vibe design” with Stitch](https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-ai-ui-design/)**
+
+Stitch is evolving into an AI-native platform that allows anyone to create, iterate, and collaborate on high-fidelity UI.
+
+blog.google • 1d ago
 
 ---
 
 **[Congress moves to scrutinize AI use in federal court](https://www.politico.com/live-updates/2026/03/19/congress/bipartisan-bill-to-scrutinize-ai-use-in-federal-courts-00836316)**
 
 Politico • 11h ago
-
----
-
-**[Three Charged by US With Plot to Illegally Send AI Tech to China](https://www.bloomberg.com/news/articles/2026-03-19/three-charged-by-us-with-plot-to-illegally-send-ai-tech-to-china)**
-
-Bloomberg.com • 38m ago
-
----
-
-**[Co-founder of tech company charged with diverting $2.5 billion in Nvidia AI chips to China in violation of export laws](https://www.cnn.com/2026/03/19/politics/super-micro-computer-founder-charged-ai-chips-china)**
-
-The co-founder of Super Micro Computer and two others were charged with diverting $2.5 billion worth of servers with Nvidia’s artificial intelligence chips to China, in violation of US laws barring exports to that country without a license.
-
-CNN • 1h ago
-
----
-
-**[Three men charged with illegally smuggling advanced AI chips into China](https://www.nbcnews.com/tech/tech-news/three-men-charged-illegally-smuggling-advanced-ai-chips-china-rcna264371)**
-
-A new indictment alleges that three men affiliated with server maker Supermicro conspired to sell $510 million in servers with banned Nvidia chips to China
-
-NBC News • 4h ago
-
----
-
-**[What to Know About Tesla’s Terafab Project and the Company’s AI Future](https://www.barrons.com/articles/tesla-stock-ai-terafab-project-e028ab08?gaa_at=eafs&gaa_n=AWEtsqdbtuArmGLXMjSs3TKMBqG_tDXkk-r5rWsE3YBbV03e3jKVpPr3WOSy&gaa_ts=69bcdfef&gaa_sig=4_J9L0jRLzu4CN9taKmMEVmcWOTDKezP3bojpw2TLI3Q-4P60TDbZeCnDj32ZrffbMoTu4f2fIwyAZGK8HkQ2g%3D%3D)**
-
-Barron's • 35m ago
-
----
-
-**[Edward Jones insists AI will not replace its $2.5tn financial adviser network](https://www.ft.com/content/255db77a-a48e-4952-b135-c6db334ded63)**
-
-Clients will want human insights even as new technology shakes up investing, according to chief executive Penny Pennington
-
-Financial Times • 34m ago
-
----
-
-**[Horror Novel ‘Shy Girl’ Canceled Over Suspected A.I. Use](https://www.nytimes.com/2026/03/19/books/shy-girl-book-ai.html)**
-
-The New York Times • 2h ago
 
 ---
 
@@ -193,7 +199,7 @@ The New York Times • 2h ago
 
 Today, we’re introducing Forge, a system that allows enterprises to build frontier-grade AI models grounded in their proprietary knowledge.
 
-⬆️ 723 • 💬 186 • 2d ago • [mistral.ai](https://mistral.ai/news/forge)
+⬆️ 724 • 💬 186 • 2d ago • [mistral.ai](https://mistral.ai/news/forge)
 
 ---
 
@@ -227,7 +233,7 @@ We critically examine the limitations of current AI models in achieving autonomo
 
 Last December, tens of thousands of Claude users around the world had a conversation with our AI interviewer to share how they use AI, what they dream it could make possible, and what they fear it might do.
 
-⬆️ 192 • 💬 181 • 1d ago • [anthropic.com](https://www.anthropic.com/features/81k-interviews)
+⬆️ 193 • 💬 182 • 1d ago • [anthropic.com](https://www.anthropic.com/features/81k-interviews)
 
 ---
 
@@ -235,7 +241,7 @@ Last December, tens of thousands of Claude users around the world had a conversa
 
 An AI agent tried to help, and its advice exposed sensitive data.
 
-⬆️ 141 • 💬 119 • 10h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
+⬆️ 147 • 💬 119 • 11h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
 
 ---
 
@@ -243,13 +249,13 @@ An AI agent tried to help, and its advice exposed sensitive data.
 
 Google engineers have been spending the past number of months developing Sashiko as an agentic AI code review system for the Linux kernel
 
-⬆️ 102 • 💬 49 • 1d ago • [phoronix.com](https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review)
+⬆️ 103 • 💬 49 • 1d ago • [phoronix.com](https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review)
 
 ---
 
 **[Be intentional about how AI changes your codebase](https://news.ycombinator.com/item?id=47446373)**
 
-⬆️ 96 • 💬 35 • 8h ago • [aicode.swerdlow.dev](https://aicode.swerdlow.dev)
+⬆️ 102 • 💬 39 • 9h ago • [aicode.swerdlow.dev](https://aicode.swerdlow.dev)
 
 ---
 
@@ -279,7 +285,7 @@ I spoke to Anthropic's AI agent Claude about AI collecting massive amounts of pe
 
 📺 Senator Bernie Sanders
 
-👁️ 259K • 👍 32K • 💬 5K • ⏱️ 9:18 • 7h ago
+👁️ 434K • 👍 41K • 💬 6K • ⏱️ 9:18 • 8h ago
 
 ---
 
@@ -289,7 +295,7 @@ Dave Rubin of "The Rubin Report" shares a DM clip of Elon Musk explaining to Pet
 
 📺 The Rubin Report
 
-👁️ 226K • 👍 6K • 💬 2K • ⏱️ 6:24 • 2d ago
+👁️ 227K • 👍 6K • 💬 2K • ⏱️ 6:24 • 2d ago
 
 ---
 
@@ -299,17 +305,17 @@ GoodBye Seedance 2!! China's NEW UNCENSORED AI Video Generator Ranks No.1 Seedan
 
 📺 Brain Project
 
-👁️ 2K • 👍 126 • 💬 43 • ⏱️ 15:59 • 12h ago
+👁️ 3K • 👍 149 • 💬 64 • ⏱️ 15:59 • 13h ago
 
 ---
 
-**[Top 7 AI Agent Tools That Actually Work](https://www.youtube.com/watch?v=_vLi76x43b0)**
+**[Grok Free Video STOPPED WORKING? 🛑 (3 Best Free AI Alternatives) | March 2026](https://www.youtube.com/watch?v=gTsKuDcDLgU)**
 
-Set up OpenClaw with Hostinger VPS - http://hostinger.com/futurepediaopenclaw Free AI Agents Cheat Sheet ...
+Grok Imagine free video generation officially stopped working for free users on March 19, 2026. If you're hitting the SuperGrok ...
 
-📺 Futurepedia
+📺 GenPay AI
 
-👁️ 10K • 👍 420 • 💬 44 • ⏱️ 21:36 • 10h ago
+👁️ 3K • 💬 50 • ⏱️ 3:07 • 9h ago
 
 ---
 
@@ -319,17 +325,17 @@ Actor Val Kilmer's estate is giving producers of the film "As Deep as the Grave,
 
 📺 ABC News
 
-👁️ 2K • 👍 34 • 💬 23 • ⏱️ 5:06 • 7h ago
+👁️ 3K • 👍 39 • 💬 23 • ⏱️ 5:06 • 8h ago
 
 ---
 
-**[Laziest Way to Make Money With AI (Zero Code)](https://www.youtube.com/watch?v=biAYfwX4bkY)**
+**[How Ai Slop will Spark the Next Human Renaissance](https://www.youtube.com/watch?v=0iT9HbaRwfM)**
 
-Enter the GIVEAWAY for the chance to win an experience of a lifetime: https://go.danmartell.com/4sdFbly Are you building an AI ...
+Head to http://squarespace.com/afterskool to save 10% off your first purchase of a website or domain using code afterskool.
 
-📺 Dan Martell
+📺 After Skool
 
-👁️ 45K • 👍 3K • 💬 317 • ⏱️ 15:59 • 15h ago
+👁️ 244K • 👍 22K • 💬 2K • ⏱️ 11:41 • 2d ago
 
 ---
 
@@ -339,7 +345,7 @@ This is one of the biggest booms and probably one of the biggest busts coming ou
 
 📺 The Tech Report
 
-👁️ 21K • 👍 757 • 💬 208 • ⏱️ 28:38 • 12h ago
+👁️ 23K • 👍 806 • 💬 216 • ⏱️ 28:38 • 13h ago
 
 ---
 
@@ -349,27 +355,27 @@ The company that promised AI would do the job of 10 people, can't even do the jo
 
 📺 Mo Bitar
 
-👁️ 104K • 👍 5K • 💬 1K • ⏱️ 7:16 • 17h ago
+👁️ 109K • 👍 6K • 💬 1K • ⏱️ 7:16 • 18h ago
 
 ---
 
-**[Did AI Just Become Sentient? (Not Quite...) | AI Reality Check | Cal Newport](https://www.youtube.com/watch?v=sS3C_i7gkI8)**
+**[Sam Altman Just Declared the Death of Transformers (ChatGPT Getting Replaced)](https://www.youtube.com/watch?v=XeTuLyOBY_0)**
 
-Cal Newport takes a critical look at recent AI News. More from Cal Download Cal's FREE guide to cultivating a deeper life: ...
+Sam Altman just said the architecture behind ChatGPT and most modern AI may soon be replaced. Apple introduced LiTo, a ...
 
-📺 Cal Newport
+📺 AI Revolution
 
-👁️ 8K • 👍 301 • 💬 77 • ⏱️ 23:43 • 19h ago
+👁️ 127K • 👍 3K • 💬 319 • ⏱️ 11:10 • 2d ago
 
 ---
 
-**[Google&#39;s NEW AI Vibe Design Tool IS INSANE! The Greatest AI Design System I&#39;ve Ever Used! (Stitch)](https://www.youtube.com/watch?v=8gkFn5Z-IvY)**
+**[Tyrone Magnus &amp; Scar-Lo | Sora 2 AI Compilation #2 | Reaction!](https://www.youtube.com/watch?v=ZXMSZDZ31Ew)**
 
-We've all heard of Google's Stitch, the Gemini-powered design agent that can turn your ideas into beautiful, interactive ...
+tyronemagnus #scarlo #ai #soraai #sora #sora2 #compilation #comedy #parody #funny #tyronemagnus #reactions #reaction ...
 
-📺 WorldofAI
+📺 Tyrone Magnus
 
-👁️ 30K • 👍 844 • 💬 40 • ⏱️ 9:24 • 1d ago
+👁️ 43K • 👍 3K • 💬 102 • ⏱️ 11:44 • 1d ago
 
 ---
 
@@ -385,7 +391,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 174,004 • ❤️ 645 • 9d ago
+⬇️ 174,004 • ❤️ 649 • 9d ago
 
 ---
 
@@ -409,7 +415,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 104,592 • ❤️ 931 • 12d ago
+⬇️ 104,592 • ❤️ 938 • 12d ago
 
 ---
 
@@ -433,7 +439,7 @@ Mistral-Small-4-119B-2603 is a hybrid MoE model (119B params, 6.5B active) suppo
 
 `119.4B`
 
-⬇️ 5,358 • ❤️ 250 • 2d ago
+⬇️ 5,358 • ❤️ 251 • 2d ago
 
 ---
 
@@ -445,7 +451,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 704 • ❤️ 245 • 19h ago
+⬇️ 704 • ❤️ 248 • 20h ago
 
 ---
 
@@ -457,7 +463,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 2,589,317 • ❤️ 944 • 18d ago
+⬇️ 2,589,317 • ❤️ 947 • 18d ago
 
 ---
 
@@ -469,7 +475,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 305,565 • ❤️ 559 • 16d ago
+⬇️ 305,565 • ❤️ 561 • 16d ago
 
 ---
 
@@ -481,7 +487,7 @@ GLM-OCR is a multimodal OCR model for complex document understanding, excelling 
 
 `image-to-text`
 
-⬇️ 2,929,215 • ❤️ 1,383 • 7d ago
+⬇️ 2,929,215 • ❤️ 1,385 • 8d ago
 
 ---
 
@@ -493,7 +499,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 
 `image-to-video`
 
-⬇️ 751,665 • ❤️ 689 • 4d ago
+⬇️ 751,665 • ❤️ 691 • 4d ago
 
 ---
 
@@ -510,7 +516,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 Residual connections with PreNorm are standard in modern LLMs, yet they accumulate all layer outputs with fixed unit weights. This uniform aggregation causes uncontrolled hidden-state growth with depth, progressively diluting each layer's contribution. We propose Attention Residuals (AttnRes), which replaces this fixed accumulation with softmax attention over preceding layer outputs, allowing each layer to selectively aggregate earlier representations with learned, input-dependent weights. To address the memory and communication overhead of attending over all preceding layer outputs for large-scale model training, we introduce Block AttnRes, which partitions layers into blocks and attends over block-level representations, reducing the memory footprint while preserving most of the gains of full AttnRes. Combined with cache-based pipeline communication and a two-phase computation strategy, Block AttnRes becomes a practical drop-in replacement for standard residual connections with minimal overhead.
   Scaling law experiments confirm that the improvement is consistent across model sizes, and ablations validate the benefit of content-dependent depth-wise selection. We further integrate AttnRes into the Kimi Linear architecture (48B total / 3B activated parameters) and pre-train on 1.4T tokens, where AttnRes mitigates PreNorm dilution, yielding more uniform output magnitudes and gradient distribution across depth, and improves downstream performance across all evaluated tasks.
 
-▲ 114 • 💬 4 • ⭐ 1,993 • 4d ago
+▲ 115 • 💬 4 • ⭐ 1,993 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.15031) • [💻 code](https://github.com/MoonshotAI/Attention-Residuals)
 
@@ -534,7 +540,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 24 • 💬 2 • ⭐ 33,376 • 14mo ago
+▲ 25 • 💬 2 • ⭐ 33,376 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -576,7 +582,7 @@ Great scientists have strong judgement and foresight, closely tied to what we ca
 
 A continual meta-learning framework for large language model agents that jointly evolves policies and reusable behavioral skills while minimizing downtime through opportunistic updates and skill-driven adaptation.
 
-▲ 98 • 💬 3 • ⭐ 2,057 • 2d ago
+▲ 102 • 💬 3 • ⭐ 2,057 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.17187) • [💻 code](https://github.com/aiming-lab/MetaClaw)
 
@@ -616,7 +622,7 @@ EvoScientist is an adaptive multi-agent framework that enhances scientific disco
 
 What if a world simulation model could render not an imagined environment but a city that actually exists? Prior generative world models synthesize visually plausible yet artificial environments by imagining all content. We present Seoul World Model (SWM), a city-scale world model grounded in the real city of Seoul. SWM anchors autoregressive video generation through retrieval-augmented conditioning on nearby street-view images. However, this design introduces several challenges, including temporal misalignment between retrieved references and the dynamic target scene, limited trajectory diversity and data sparsity from vehicle-mounted captures at sparse intervals. We address these challenges through cross-temporal pairing, a large-scale synthetic dataset enabling diverse camera trajectories, and a view interpolation pipeline that synthesizes coherent training videos from sparse street-view images. We further introduce a Virtual Lookahead Sink to stabilize long-horizon generation by continuously re-grounding each chunk to a retrieved image at a future location. We evaluate SWM against recent video world models across three cities: Seoul, Busan, and Ann Arbor. SWM outperforms existing methods in generating spatially faithful, temporally consistent, long-horizon videos grounded in actual urban environments over trajectories reaching hundreds of meters, while supporting diverse camera movements and text-prompted scenario variations.
 
-▲ 131 • 💬 4 • ⭐ 377 • 3d ago
+▲ 132 • 💬 4 • ⭐ 377 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.15583) • [💻 code](https://github.com/naver-ai/seoul-world-model) • [🔗 project](https://seoul-world-model.github.io/)
 
@@ -629,7 +635,7 @@ What if a world simulation model could render not an imagined environment but a 
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 46 • 💬 1 • ⭐ 73,696 • 30mo ago
+▲ 46 • 💬 1 • ⭐ 73,753 • 30mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -645,7 +651,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 44.0k • 🔱 6.1k • 3d ago
+⭐ 44.1k • 🔱 6.1k • 3d ago
 
 ---
 
@@ -665,7 +671,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.7k • 🔱 1.6k • 1h ago
+⭐ 12.8k • 🔱 1.6k • 6m ago
 
 ---
 
@@ -685,7 +691,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.0k • 🔱 725 • 13h ago
+⭐ 10.1k • 🔱 726 • 14h ago
 
 ---
 
@@ -695,7 +701,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 8.9k • 🔱 438 • 1h ago
+⭐ 9.0k • 🔱 440 • 4m ago
 
 ---
 
@@ -705,7 +711,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 5.2k • 🔱 747 • 8h ago
+⭐ 5.2k • 🔱 754 • 10h ago
 
 ---
 
@@ -715,7 +721,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `agent` `ai` `coding` `lowcode` `nocode`
 
-⭐ 4.4k • 🔱 377 • 9h ago
+⭐ 4.4k • 🔱 379 • 10h ago
 
 ---
 
@@ -725,7 +731,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `Python` `ai-agents` `claude` `claude-code` `cloud-security` `cybersecurity`
 
-⭐ 3.5k • 🔱 341 • 10h ago
+⭐ 3.5k • 🔱 343 • 12h ago
 
 ---
 
@@ -735,7 +741,7 @@ end to end app store screenshot creation using AI
 
 `agentic-ai` `apple` `appstore` `automate` `claude`
 
-⭐ 3.1k • 🔱 201 • 5d ago
+⭐ 3.1k • 🔱 202 • 5d ago
 
 ---
 

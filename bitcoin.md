@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-20T05:35:14.155201+00:00'
+updated: '2026-03-20T06:58:03.335261+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 20, 2026 at 05:35 UTC  
+**Last Updated:** March 20, 2026 at 06:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,599.90
+### $70,467.80
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -0.8%  
-**30d:** +5.5%  
-**90d:** -20.4%  
-**1y:** -16.1%  
+**24h:** +0.4%  
+**7d:** -1.0%  
+**30d:** +5.2%  
+**90d:** -20.5%  
+**1y:** -16.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1417.46B
+**Market Cap:** $1410.27B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--43.8%
+-44.1%
 
 **All-Time Low:** $67.81
-+104393.4%
++103843.4%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 “I was 24 in 2017, fresh out of college, scraping by on ramen and side gigs. A crypto-savvy coworker convinced me to throw my entire savings—about $8,000—into Bitcoin. I ended up with roughly 2.1 BTC at around $3,800 avg. Felt unstoppable. Then 2018 hit: price crashed to $3k, I freaked out thinking it was a scam bubble bursting. Sold every single one to ‘cut losses’ and pay off student loans + buy a used car to get to a better job. Used the cash for real-life adulting. Fast forward: 2021 peak at $69k, I calculated what that would’ve been… over $140k gone. 2022 bear, I tried buying back scraps but could only afford 0.3 BTC. Now in 2026, with BTC way higher, that original stack would’ve been life-changing—house down payment, financial freedom, maybe even quitting the soul-crushing 9-5. Instead I drive the same beat-up car, still renting, and every time I see the price chart I feel physically sick. Worst part? I told my family it was ‘smart’ to sell. They still bring it up as my ‘biggest L.’ What’s your most brutal Bitcoin regret? The one that keeps you up at night? Drop your story—no judgment, just pain-sharing.”
 
-4h ago
+5h ago
 
 ---
 
@@ -89,13 +89,13 @@ Rank #1
 
 The SEC’s interpretation on crypto assets is just the beginning and serves as a bridge while Congress works to advance market structure legislation. Our rules must be clear enough to guide markets, flexible enough to accommodate innovation, and firm enough to protect investors. https://x.com/SECPaulSAtkins/status/2034676128317661351
 
-6h ago
+7h ago
 
 ---
 
 **[who remember those guys?](https://www.reddit.com/r/Bitcoin/comments/1rxuwuj/who_remember_those_guys/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -103,7 +103,7 @@ The SEC’s interpretation on crypto assets is just the beginning and serves as 
 
 BTQ Technologies has launched the first working BIP 360 implementation on its Bitcoin Quantum testnet, enabling developers to test quantum-resistant Bitcoin transactions in practice.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/btq-deploys-first-bip-360-quantum) • 14h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/btq-deploys-first-bip-360-quantum) • 15h ago
 
 ---
 
@@ -111,7 +111,23 @@ BTQ Technologies has launched the first working BIP 360 implementation on its Bi
 
 … think the people who make posts or comments like “BTC is going straight $30k this fall” or “BTC is going to skyrocket next month” just sound like complete morons?? You can get some insight from past trends sure.. but that doesn’t mean that those trends will continue in the future. What people fail to realize is that the graph of bitcoin over its entire history is really a graph of everyone’s emotions and willingness to buy/sell at a current price point, given current market conditions for the time. As attitudes and sentiment change, so will the graph and behavior of BTC. With more big money getting into BTC, the behavior of it will change significantly. But it’s really the behavior of aggregate people all over the world, which is driven mostly by emotion and confidence (or lack there of). So the people who claim to know where it is going at anytime just sound stupid to me. That’s all
 
-8h ago
+9h ago
+
+---
+
+**[Stripe launches payment services for crypto businesses](https://www.reddit.com/r/Bitcoin/comments/1rymisy/stripe_launches_payment_services_for_crypto/)**
+
+Payment provider Stripe is launching services targeting crypto businesses for onramps, offramps and KYC. Partners incl FTX crypto exchange
+
+🔗 [Ledger Insights - blockchain for enterprise](https://www.ledgerinsights.com/stripe-launches-payment-services-for-crypto-businesses/) • 2h ago
+
+---
+
+**[BTC dipping hard? Perfect timing to bump my DCA to $75 daily](https://www.reddit.com/r/Bitcoin/comments/1ryovgj/btc_dipping_hard_perfect_timing_to_bump_my_dca_to/)**
+
+Back in September I got absolutely wrecked with some ridiculous margin trades, lost a massive chunk of change No point crying over spilled milk though right Strategy now is simple - just keep stacking sats through regular buys and forget about it Bitcoin crashing? mate I'm loving every minute of it, more coins for less cash so I'm cranking up my daily buys These prices are a gift if you ask me
+
+24m ago
 
 ---
 
@@ -119,13 +135,7 @@ BTQ Technologies has launched the first working BIP 360 implementation on its Bi
 
 A big chunk of my disposable income is going into BTC. I'm in for the long run but just recently got into it. I'm aiming for the .1 in the coming months, I'll keep staking no matter what especially now that the price is low. is the whole coin achievable in the coming years? Edit: stacking not staking lol
 
-11h ago
-
----
-
-**[Morpheus explains the truth about the simulation](https://www.reddit.com/r/Bitcoin/comments/1rxx6cm/morpheus_explains_the_truth_about_the_simulation/)**
-
-18h ago
+12h ago
 
 ---
 
@@ -133,21 +143,13 @@ A big chunk of my disposable income is going into BTC. I'm in for the long run b
 
 Bitcoin treasury company Strive said Thursday that its total BTC holdings hit 13,628 Bitcoin, pulling ahead of Tesla which currently sits at 11,509 BTC. The Texas based firm, which disclosed its holdings as part of the company's fourth-quarter and full-year 2025 financial results, is now registering a total value of $960 million in BTC holdings.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/strive-jumps-past-tesla-bitcoin-134000861.html) • 13h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/strive-jumps-past-tesla-bitcoin-134000861.html) • 14h ago
 
 ---
 
 **[got a discount](https://www.reddit.com/r/Bitcoin/comments/1rxzx5s/got_a_discount/)**
 
-16h ago
-
----
-
-**[Federal Reserve will release a proposal for revisions to the Basel risk weighting standards](https://www.reddit.com/r/Bitcoin/comments/1ry3w34/federal_reserve_will_release_a_proposal_for/)**
-
-This morning the Federal Reserve will release a proposal for revisions to the Basel risk weighting standards. Bitcoin is currently treated as a toxic asset under the Basel standards. A change in the guidance would be a big win for American Bitcoiners. BPI will be in attendance at today’s meeting. We’ll keep you updated on text of the proposal and next steps.
-
-13h ago
+17h ago
 
 ---
 
@@ -155,17 +157,33 @@ This morning the Federal Reserve will release a proposal for revisions to the Ba
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price Undercuts $70,000 As Higher-For-Longer Policy Weighs Across Asset](https://www.investors.com/news/bitcoin-price-fall-70k-federal-reserve-rates-oil-prices-iran-cryptocurrency-stocks-sec-nasdaq/)**
+**[Morgan Stanley advances bitcoin ETF application with amended S-1 filing](https://www.theblock.co/post/394448/morgan-stanley-amended-s-1-filing)**
 
-Investor's Business Daily • 7h ago
+The amendment confirmed that the Morgan Stanley Bitcoin Trust will list on the NYSE Arca under the ticker symbol MSBT.
+
+The Block • 4h ago
 
 ---
 
-**[Michael Saylor's New Product Means 'Bitcoin Bottom Is In,' Trader Says](https://finance.yahoo.com/markets/crypto/articles/michael-saylors-product-means-bitcoin-033102509.html)**
+**[Trillions in options set to expire Friday as quadruple witching tests crypto resilience](https://www.coindesk.com/markets/2026/03/10/quadruple-witching-arrives-tomorrow-as-markets-brace-for-potential-bitcoin-volatility)**
 
-Prominent trader Taiki Maeda says the crypto market may have already bottomed, arguing that a new fixed-income product tied to Bitcoin could make further downside increasingly difficult. ‘Bottom Is In' As Bearish Sentiment Peaks In his Mar.17 podcast, Maeda noted...
+Bitcoin tended to show muted performance on quadruple witching days in 2025, followed by weakness in the days to weeks after.
 
-Yahoo Finance • 2h ago
+CoinDesk • 14h ago
+
+---
+
+**[Bitcoin Holding at $70,000 as Iran War Stokes Inflation Concerns](https://www.bloomberg.com/news/articles/2026-03-20/bitcoin-holding-at-70-000-as-iran-war-stokes-inflation-concerns)**
+
+Bloomberg.com • 21m ago
+
+---
+
+**[Bitcoin (BTC) price news: Hold onto "dry powder" while prices swing, says one analyst](https://www.coindesk.com/markets/2026/03/19/bitcoin-holds-usd69-000-as-gold-tumbles-oil-spikes-but-analyst-says-stay-on-sidelines)**
+
+While bitcoin has shown relative strength against gold since the war in Iran broke out, investors are better off holding off "dry powder" while prices swing wildly on headlines, said Wintermute's Bryan Tan.
+
+CoinDesk • 13h ago
 
 ---
 
@@ -173,13 +191,15 @@ Yahoo Finance • 2h ago
 
 Morgan Stanley has filed to launch a spot Bitcoin ETF with the ticker MSBT and a $1 million seed at debut.
 
-CoinDesk • 25m ago
+CoinDesk • 1h ago
 
 ---
 
-**[Ex-Wife Accused of Stealing £180 Million in Bitcoin After Divorce](https://www.bloomberg.com/news/articles/2026-03-19/ex-wife-accused-of-stealing-180-million-in-bitcoin-after-divorce)**
+**[Michael Saylor's New Product Means 'Bitcoin Bottom Is In,' Trader Says](https://finance.yahoo.com/markets/crypto/articles/michael-saylors-product-means-bitcoin-033102509.html)**
 
-Bloomberg.com • 19h ago
+Prominent trader Taiki Maeda says the crypto market may have already bottomed, arguing that a new fixed-income product tied to Bitcoin could make further downside increasingly difficult. ‘Bottom Is In' As Bearish Sentiment Peaks In his Mar.17 podcast, Maeda noted...
+
+Yahoo Finance • 3h ago
 
 ---
 
@@ -187,7 +207,7 @@ Bloomberg.com • 19h ago
 
 The Bitcoin Quantum testnet provides developers, miners, and researchers with a live environment to evaluate how quantum-resistant Bitcoin transactions...
 
-PR Newswire • 18h ago
+PR Newswire • 19h ago
 
 ---
 
@@ -199,31 +219,17 @@ WOWT • 1d ago
 
 ---
 
+**[Bitcoin needs to reclaim $75,000 to herald a risk-on recovery, charts show](https://www.cnbc.com/2026/03/18/bitcoin-must-reclaim-75000-to-herald-risk-on-recovery-charts-show-.html)**
+
+The two prior times when the bitcoin-to-S&P-500 relative line made a key low, it also marked major lows for the SPX — March 2020 and Oct. 2022.
+
+CNBC • 1d ago
+
+---
+
 **[Jellico residents petition to review Bitcoin data center after high electric bills](https://www.wate.com/news/campbell-county-news/jellico-residents-petition-to-review-bitcoin-data-center-after-high-electric-bills/)**
 
 WATE 6 On Your Side • 1d ago
-
----
-
-**[Fed Warning Triggers Sudden Bitcoin Price Crash Fear](https://www.forbes.com/sites/digital-assets/2026/03/19/a-wall-street-giant-just-issued-a-stark-bitcoin-price-warning/)**
-
-Forbes • 17h ago
-
----
-
-**[Bitcoin Could Drop 25%, Or Jump 120%. Welcome to Crypto's 2026 Grind.](https://www.investopedia.com/the-price-of-bitcoin-could-drop-25-percent-or-jump-120-percent-welcome-to-cryptos-2026-grind-11928359)**
-
-The bear and bull cases for the world's largest cryptocurrency set a wide range of possible outcomes.
-
-Investopedia • 2d ago
-
----
-
-**[SEC Names Bitcoin, Ether, Solana and 13 More Crypto Assets Digital Commodities — Not Securities](https://www.fintechweekly.com/news/sec-bitcoin-ether-solana-digital-commodities-not-securities-march-2026)**
-
-The SEC and CFTC issued a joint 68-page interpretation on March 17 explicitly naming 16 crypto assets as digital commodities. Staking, mining and airdrops ar...
-
-FinTech Weekly • 1d ago
 
 ---
 
@@ -235,7 +241,7 @@ FinTech Weekly • 1d ago
 
 Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in. Proof that works without us.
 
-⬆️ 4 • 💬 0 • 13h ago • [Umarise](https://umarise.com/blog/proof-of-existence)
+⬆️ 4 • 💬 0 • 14h ago • [Umarise](https://umarise.com/blog/proof-of-existence)
 
 ---
 
@@ -273,13 +279,23 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin: The Bear Market Blues](https://www.youtube.com/watch?v=jiehja20gFE)**
+
+A classic case of the bear market blues for Bitcoin. Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries: ...
+
+📺 Benjamin Cowen
+
+👁️ 9K • 👍 965 • 💬 68 • ⏱️ 11:38 • 2h ago
+
+---
+
 **[Pentagon Wants $200B…What This Means for Bitcoin](https://www.youtube.com/watch?v=_cI0RDe1gjo)**
 
 Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 951 • 💬 154 • ⏱️ 41:39 • 15h ago
+👁️ 18K • 👍 966 • 💬 156 • ⏱️ 41:39 • 16h ago
 
 ---
 
@@ -289,7 +305,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 101 • 💬 5 • ⏱️ 18:54 • 12h ago
+👁️ 2K • 👍 111 • 💬 5 • ⏱️ 18:54 • 13h ago
 
 ---
 
@@ -309,7 +325,7 @@ Bill Barhydt is the founder and CEO of Abra and a longtime leader in digital ass
 
 📺 Anthony Pompliano
 
-👁️ 23K • 👍 885 • 💬 25 • ⏱️ 37:41 • 1d ago
+👁️ 23K • 👍 894 • 💬 25 • ⏱️ 37:41 • 1d ago
 
 ---
 
@@ -319,17 +335,17 @@ Bill Barhydt is the founder and CEO of Abra and a longtime leader in digital ass
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 136 • ⏱️ 9:25 • 1d ago
+👁️ 35K • 👍 2K • 💬 137 • ⏱️ 9:25 • 1d ago
 
 ---
 
-**[Bitcoin vs. Capitol Hill: The Fight for Your Crypto!](https://www.youtube.com/watch?v=1sIZIP0SPWs)**
+**[Why is President Trump Buying Bitcoin? @1MarkMoss  #bitcoin  #crypto #finance](https://www.youtube.com/watch?v=JX_OSxElGM4)**
 
-Sophi talks about Bitcoin vs. Capitol Hill: The Fight for Your Crypto! Brought to you by Bitcoinwell.com a bitcoin-only platform on a ...
+Connect with Rich on Instagram: @rich_somers Interested in investing with Somers Capital? Visit www.somerscapital.com/invest ...
 
-📺 Simply Bitcoin
+📺 Rich Somers
 
-👁️ 768 • 👍 30 • 💬 16 • ⏱️ 0:36 • 1d ago
+👁️ 18K • 👍 299 • 💬 13 • ⏱️ 0:41 • 1d ago
 
 ---
 
@@ -339,7 +355,7 @@ Let's talk about Bitcoin post-FOMC! Join the ITC March Madness Bracket Challenge
 
 📺 Benjamin Cowen
 
-👁️ 61K • 👍 4K • 💬 191 • ⏱️ 16:44 • 1d ago
+👁️ 63K • 👍 4K • 💬 192 • ⏱️ 16:44 • 1d ago
 
 ---
 
@@ -349,27 +365,17 @@ Crypto is about to get LEGIT CRAZY $30k Bonus Sign Up For WEEX: https://www.weex
 
 📺 Altcoin Daily
 
-👁️ 14K • 👍 398 • 💬 133 • ⏱️ 1:14 • 1d ago
+👁️ 15K • 👍 405 • 💬 133 • ⏱️ 1:14 • 1d ago
 
 ---
 
-**[ 🚨 SHOCKING Bitcoin Chart Prediction: REAL Bull Run &amp; Altseason STARTS in 2028 (Institutions BUYING)](https://www.youtube.com/watch?v=rIXo6Grvcwo)**
+**[THE UNTHINKABLE Coming VCERY SOON! MEGA HUGE Bitcoin WARNING!!!!!](https://www.youtube.com/watch?v=GKaOKEd1n4Y)**
 
-CRAZY CRYPTO BULLRUN TO START 2028! INSTITUTIONAL INVESTORS ARE LOADING UP NOW Hey babes, I just took a ...
+ANTARCTIC EXCHANGE LOWEST FEES!   https://partner.antarctic.live/code/JaysonCasper Trade SILVER GOLD STOCKS ...
 
-📺 CryptoWendyO
+📺 Jayson Casper
 
-👁️ 4K • 👍 237 • 💬 40 • ⏱️ 3:56 • 1d ago
-
----
-
-**[Chamath vs Saylor: Who’s Right About Bitcoin’s Biggest Threat?](https://www.youtube.com/watch?v=uvXvlI3HRlM)**
-
-A major clash is unfolding between Chamath and Saylor over Bitcoin's future. One side says AI and quantum computing could ...
-
-📺 Simply Bitcoin
-
-👁️ 26K • 👍 1K • 💬 206 • ⏱️ 12:42 • 2d ago
+👁️ 4K • 👍 307 • 💬 80 • ⏱️ 9:55 • 18h ago
 
 ---
 

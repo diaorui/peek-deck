@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-20T05:35:14.161209+00:00'
+updated: '2026-03-20T06:58:03.341261+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 20, 2026 at 05:35 UTC  
+**Last Updated:** March 20, 2026 at 06:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.7%  
-**7d:** +2.2%  
-**30d:** +10.0%  
-**90d:** -28.6%  
-**1y:** +9.1%  
+**24h:** -1.5%  
+**7d:** +1.7%  
+**30d:** +9.5%  
+**90d:** -28.9%  
+**1y:** +8.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $260.02B
+**Market Cap:** $258.00B
 Rank #2
 
 **Circulating Supply:** 120,691,772 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.5%
+-56.8%
 
 **All-Time Low:** $0.43
-+497203.6%
++493445.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-34m ago
+1h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everybody, I've been building a no code visual smart contract builder for solidity to help non-developers realize their ideas without having to learn solidity. While doing that, as a dog food experiment, I created a block explorer which uses the visualizations against verified contracts so I could test better. At some point I realized that would make a pretty cool tool for a lot of people since I'm able to surface things that most block explorers don't: being able to replay a transaction and follow what's happening on the visual graph displaying various attributes about a contract like whether it's pausible, has only owner functions, etc showing debug info about every step that happened in the contract There's probably a lot more that I could do there and I'm looking to source ideas from the community about what should be added. It'd be great if y'all could take a look and see if there's anything obvious that I'm missing https://doodledapp.com/explorer Thanks!
 
-6h ago
+8h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Seen some past posts that people had lost their wallets and this might help those people! If you created a wallet with CoinSpace (now Coin Wallet) around early 2021 and your seed phrase generates a completely different address in MetaMask or any standard tool... you're not crazy. The software had a bug. CoinSpace v3.0.7 (and maybe other versions) incorrectly derived wallet addresses from your seed phrase due to two compounding errors in the code. Your seed phrase can be recovered - but not using it directly. the app just used a broken algorithm to turn it into an address, one that no standard wallet tool replicates. CoinWallet is aware of part of the issue and will point you to a derivation path fix if you report it, but that fix alone doesn't work. The recovery script in the repo handles it correctly. I hit this when I needed to recover 1.55 ETH from a wallet I created in Feb 2021. After weeks of forensics I found the bug and wrote a recovery script. Recovery script: https://github.com/RobMulla/coinspace-eth-recovery Full long writeup about my journey: https://robmulla.substack.com/p/how-my-sons-roblox-mod-helped-me If you're affected, and this works for you please let me know! Or if you knew about this already... I'm curious to know if I'm not the only one.
 
-14h ago
+15h ago
 
 ---
 
@@ -168,7 +168,7 @@ Decrypt • 1d ago
 
 Dubai, UAE, March  19, 2026  (GLOBE NEWSWIRE) -- Pepeto's latest presale stage sold out ahead of schedule after the team dropped a major bridge up...
 
-markets.businessinsider.com • 1h ago
+markets.businessinsider.com • 3h ago
 
 ---
 
@@ -176,7 +176,7 @@ markets.businessinsider.com • 1h ago
 
 Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and XRP (CRYPTO: XRP) have all crashed between 40% and 60% from their 2025 highs. As the entire market gears towards a recovery, investors want to know which of Bitcoin, XRP, or Ethereum is the best crypto to invest in this year? To keep things fair, we asked ChatGPT ... XRP vs Bitcoin vs Ethereum: ChatGPT Predicts Which Crypto Is Best for 2026
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -184,7 +184,7 @@ Yahoo Finance • 16h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 14h ago
+Fortune • 16h ago
 
 ---
 
@@ -192,7 +192,7 @@ Fortune • 14h ago
 
 Vitalik Buterin said that the 'lean Ethereum' plan was the only way to get faster speed and security without trade-offs.
 
-AMBCrypto • 21h ago
+AMBCrypto • 22h ago
 
 ---
 
@@ -206,7 +206,7 @@ TipRanks • 1d ago
 
 Amundi and Spiko launch SAFO, a tokenized fund for treasury and collateral management with 24/7 transferability and onchain settlement.
 
-Crypto Briefing • 13h ago
+Crypto Briefing • 15h ago
 
 ---
 
@@ -234,7 +234,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 117 • 💬 4 • ⏱️ 4:29 • 9h ago
+👁️ 2K • 👍 123 • 💬 4 • ⏱️ 4:29 • 11h ago
 
 ---
 
@@ -244,7 +244,7 @@ BITCOIN BEARISH TARGET HIT (this is next)!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 3K • 👍 177 • 💬 32 • ⏱️ 18:32 • 5h ago
+👁️ 4K • 👍 211 • 💬 33 • ⏱️ 18:32 • 6h ago
 
 ---
 
@@ -252,67 +252,27 @@ BITCOIN BEARISH TARGET HIT (this is next)!!! - Bitcoin News Today, Ethereum & Al
 
 📺 EllioTrades
 
-👁️ 7K • 👍 172 • 💬 61 • ⏱️ 1:07 • 15h ago
+👁️ 7K • 👍 177 • 💬 61 • ⏱️ 1:07 • 16h ago
 
 ---
 
-**[BMNR Getting READY to buy ETH Crypto Winter ENDING?!](https://www.youtube.com/watch?v=M1-crsxrVJs)**
+**[XRP a Non-Security. (Now Ethereum Moving In) 🚨🚨](https://www.youtube.com/watch?v=5PVrb5zcFeY)**
 
-BMNR has been increasing their pace of ETH purchase and stacking cash over the last few weeks as they anticipate the end of ...
+XRP just received regulatory clarity that institutions have been waiting years for. U.S. regulators are now signaling XRP's ...
 
-📺 Elijah Cheng
+📺 Jungle Inc Crypto
 
-👁️ 3K • 👍 105 • 💬 14 • ⏱️ 33:20 • 15h ago
-
----
-
-**[ETH Ethereum Price Prediction: 19th of March](https://www.youtube.com/watch?v=ALe8xzWt-n8)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 116 • 👍 13 • 💬 5 • ⏱️ 8:24 • 14h ago
+👁️ 1K • 👍 218 • 💬 28 • ⏱️ 11:36 • 2h ago
 
 ---
 
-**[Canton Chain Better Than XRP, Solana, &amp; Ethereum?🔥Yuval Rooz INTERVIEW](https://www.youtube.com/watch?v=e2058fi-vYw)**
+**[My Top Crypto Coin to Get Rich (Without Getting Lucky)](https://www.youtube.com/watch?v=L7_USmbleZM)**
 
-Canton is the first privacy-enabled open blockchain network, ensuring limitless connections that preserve privacy. Is it worthy of ...
+Get Rich (Without Getting Lucky) in crypto! 50% deposit bonus on first $100 on WEEX: ...
 
-📺 Paul Barron Network
+📺 Altcoin Daily
 
-👁️ 19K • 👍 2K • 💬 836 • ⏱️ 30:27 • 9h ago
-
----
-
-**[BTC, ETH, SOL, XRP, SUI, FET, CHZ, HBAR, ICP, BNB, ILS1, BTCETH Altcoins Analyzed: Live TA](https://www.youtube.com/watch?v=Dw437Y-IkRQ)**
-
-In this live technical analysis session, The Trading Parrot breaks down BTC, ETH, SOL, XRP, SUI, FET, CHZ, HBAR, ICP, and ...
-
-📺 The Trading Parrot
-
-👁️ 2K • 👍 154 • 💬 9 • ⏱️ 1:10:26 • 15h ago
-
----
-
-**[BTC &amp; ETH: Emergency FED Meeting Update!!](https://www.youtube.com/watch?v=qLWPSQK-FPE)**
-
-BloFin (NO KYC) – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade ...
-
-📺 Marzell Crypto
-
-👁️ 610 • 👍 17 • 💬 38 • ⏱️ 3:03 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=_heJVIVe6CY)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 240 • 👍 49 • ⏱️ 6:09 • 2h ago
+👁️ 25K • 👍 2K • 💬 168 • ⏱️ 13:35 • 9h ago
 
 ---
 
@@ -322,7 +282,47 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 304 • 👍 18 • 💬 1 • ⏱️ 5:34 • 19h ago
+👁️ 324 • 👍 19 • 💬 1 • ⏱️ 5:34 • 20h ago
+
+---
+
+**[BTC, ETH, SOL, XRP, SUI, FET, CHZ, HBAR, ICP, BNB, ILS1, BTCETH Altcoins Analyzed: Live TA](https://www.youtube.com/watch?v=Dw437Y-IkRQ)**
+
+In this live technical analysis session, The Trading Parrot breaks down BTC, ETH, SOL, XRP, SUI, FET, CHZ, HBAR, ICP, and ...
+
+📺 The Trading Parrot
+
+👁️ 2K • 👍 154 • 💬 10 • ⏱️ 1:10:26 • 16h ago
+
+---
+
+**[🚨 BTC &amp; ETH: HOW I MAKE MONEY WITH TRADING BOTS!!! METHOD REVEALED!!!! (+Full Tutorial)](https://www.youtube.com/watch?v=Iutgz89XTR8)**
+
+In this video, I reveal how I make money using trading bots, their settings, strategies, and more. BYUSDT, earn while trading: ...
+
+📺 Thomas Kralow
+
+👁️ 3K • 👍 2K • 💬 25 • ⏱️ 13:55 • 20h ago
+
+---
+
+**[ETH Ethereum Price Prediction: 19th of March](https://www.youtube.com/watch?v=ALe8xzWt-n8)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 122 • 👍 14 • 💬 5 • ⏱️ 8:24 • 16h ago
+
+---
+
+**[BTC &amp; ETH: Emergency FED Meeting Update!!](https://www.youtube.com/watch?v=qLWPSQK-FPE)**
+
+BloFin (NO KYC) – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade ...
+
+📺 Marzell Crypto
+
+👁️ 612 • 👍 17 • 💬 38 • ⏱️ 3:03 • 1d ago
 
 ---
 
