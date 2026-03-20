@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-20T06:58:03.335261+00:00'
+updated: '2026-03-20T07:49:47.590540+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 20, 2026 at 06:58 UTC  
+**Last Updated:** March 20, 2026 at 07:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 “I was 24 in 2017, fresh out of college, scraping by on ramen and side gigs. A crypto-savvy coworker convinced me to throw my entire savings—about $8,000—into Bitcoin. I ended up with roughly 2.1 BTC at around $3,800 avg. Felt unstoppable. Then 2018 hit: price crashed to $3k, I freaked out thinking it was a scam bubble bursting. Sold every single one to ‘cut losses’ and pay off student loans + buy a used car to get to a better job. Used the cash for real-life adulting. Fast forward: 2021 peak at $69k, I calculated what that would’ve been… over $140k gone. 2022 bear, I tried buying back scraps but could only afford 0.3 BTC. Now in 2026, with BTC way higher, that original stack would’ve been life-changing—house down payment, financial freedom, maybe even quitting the soul-crushing 9-5. Instead I drive the same beat-up car, still renting, and every time I see the price chart I feel physically sick. Worst part? I told my family it was ‘smart’ to sell. They still bring it up as my ‘biggest L.’ What’s your most brutal Bitcoin regret? The one that keeps you up at night? Drop your story—no judgment, just pain-sharing.”
 
-5h ago
+6h ago
 
 ---
 
@@ -89,13 +89,13 @@ Rank #1
 
 The SEC’s interpretation on crypto assets is just the beginning and serves as a bridge while Congress works to advance market structure legislation. Our rules must be clear enough to guide markets, flexible enough to accommodate innovation, and firm enough to protect investors. https://x.com/SECPaulSAtkins/status/2034676128317661351
 
-7h ago
+8h ago
 
 ---
 
 **[who remember those guys?](https://www.reddit.com/r/Bitcoin/comments/1rxuwuj/who_remember_those_guys/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -103,7 +103,7 @@ The SEC’s interpretation on crypto assets is just the beginning and serves as 
 
 BTQ Technologies has launched the first working BIP 360 implementation on its Bitcoin Quantum testnet, enabling developers to test quantum-resistant Bitcoin transactions in practice.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/btq-deploys-first-bip-360-quantum) • 15h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/btq-deploys-first-bip-360-quantum) • 16h ago
 
 ---
 
@@ -111,7 +111,7 @@ BTQ Technologies has launched the first working BIP 360 implementation on its Bi
 
 … think the people who make posts or comments like “BTC is going straight $30k this fall” or “BTC is going to skyrocket next month” just sound like complete morons?? You can get some insight from past trends sure.. but that doesn’t mean that those trends will continue in the future. What people fail to realize is that the graph of bitcoin over its entire history is really a graph of everyone’s emotions and willingness to buy/sell at a current price point, given current market conditions for the time. As attitudes and sentiment change, so will the graph and behavior of BTC. With more big money getting into BTC, the behavior of it will change significantly. But it’s really the behavior of aggregate people all over the world, which is driven mostly by emotion and confidence (or lack there of). So the people who claim to know where it is going at anytime just sound stupid to me. That’s all
 
-9h ago
+10h ago
 
 ---
 
@@ -119,7 +119,7 @@ BTQ Technologies has launched the first working BIP 360 implementation on its Bi
 
 Payment provider Stripe is launching services targeting crypto businesses for onramps, offramps and KYC. Partners incl FTX crypto exchange
 
-🔗 [Ledger Insights - blockchain for enterprise](https://www.ledgerinsights.com/stripe-launches-payment-services-for-crypto-businesses/) • 2h ago
+🔗 [Ledger Insights - blockchain for enterprise](https://www.ledgerinsights.com/stripe-launches-payment-services-for-crypto-businesses/) • 3h ago
 
 ---
 
@@ -127,7 +127,7 @@ Payment provider Stripe is launching services targeting crypto businesses for on
 
 Back in September I got absolutely wrecked with some ridiculous margin trades, lost a massive chunk of change No point crying over spilled milk though right Strategy now is simple - just keep stacking sats through regular buys and forget about it Bitcoin crashing? mate I'm loving every minute of it, more coins for less cash so I'm cranking up my daily buys These prices are a gift if you ask me
 
-24m ago
+1h ago
 
 ---
 
@@ -135,7 +135,7 @@ Back in September I got absolutely wrecked with some ridiculous margin trades, l
 
 A big chunk of my disposable income is going into BTC. I'm in for the long run but just recently got into it. I'm aiming for the .1 in the coming months, I'll keep staking no matter what especially now that the price is low. is the whole coin achievable in the coming years? Edit: stacking not staking lol
 
-12h ago
+13h ago
 
 ---
 
@@ -143,13 +143,13 @@ A big chunk of my disposable income is going into BTC. I'm in for the long run b
 
 Bitcoin treasury company Strive said Thursday that its total BTC holdings hit 13,628 Bitcoin, pulling ahead of Tesla which currently sits at 11,509 BTC. The Texas based firm, which disclosed its holdings as part of the company's fourth-quarter and full-year 2025 financial results, is now registering a total value of $960 million in BTC holdings.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/strive-jumps-past-tesla-bitcoin-134000861.html) • 14h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/strive-jumps-past-tesla-bitcoin-134000861.html) • 15h ago
 
 ---
 
 **[got a discount](https://www.reddit.com/r/Bitcoin/comments/1rxzx5s/got_a_discount/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -161,7 +161,7 @@ Bitcoin treasury company Strive said Thursday that its total BTC holdings hit 13
 
 The amendment confirmed that the Morgan Stanley Bitcoin Trust will list on the NYSE Arca under the ticker symbol MSBT.
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
@@ -169,13 +169,13 @@ The Block • 4h ago
 
 Bitcoin tended to show muted performance on quadruple witching days in 2025, followed by weakness in the days to weeks after.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
 **[Bitcoin Holding at $70,000 as Iran War Stokes Inflation Concerns](https://www.bloomberg.com/news/articles/2026-03-20/bitcoin-holding-at-70-000-as-iran-war-stokes-inflation-concerns)**
 
-Bloomberg.com • 21m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ Bloomberg.com • 21m ago
 
 While bitcoin has shown relative strength against gold since the war in Iran broke out, investors are better off holding off "dry powder" while prices swing wildly on headlines, said Wintermute's Bryan Tan.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -191,7 +191,7 @@ CoinDesk • 13h ago
 
 Morgan Stanley has filed to launch a spot Bitcoin ETF with the ticker MSBT and a $1 million seed at debut.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -199,7 +199,7 @@ CoinDesk • 1h ago
 
 Prominent trader Taiki Maeda says the crypto market may have already bottomed, arguing that a new fixed-income product tied to Bitcoin could make further downside increasingly difficult. ‘Bottom Is In' As Bearish Sentiment Peaks In his Mar.17 podcast, Maeda noted...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -207,7 +207,7 @@ Yahoo Finance • 3h ago
 
 The Bitcoin Quantum testnet provides developers, miners, and researchers with a live environment to evaluate how quantum-resistant Bitcoin transactions...
 
-PR Newswire • 19h ago
+PR Newswire • 20h ago
 
 ---
 
@@ -241,7 +241,7 @@ WATE 6 On Your Side • 1d ago
 
 Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in. Proof that works without us.
 
-⬆️ 4 • 💬 0 • 14h ago • [Umarise](https://umarise.com/blog/proof-of-existence)
+⬆️ 4 • 💬 0 • 15h ago • [Umarise](https://umarise.com/blog/proof-of-existence)
 
 ---
 
@@ -285,7 +285,7 @@ A classic case of the bear market blues for Bitcoin. Into The Cryptoverse Premiu
 
 📺 Benjamin Cowen
 
-👁️ 9K • 👍 965 • 💬 68 • ⏱️ 11:38 • 2h ago
+👁️ 9K • 👍 965 • 💬 68 • ⏱️ 11:38 • 3h ago
 
 ---
 
@@ -295,7 +295,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 966 • 💬 156 • ⏱️ 41:39 • 16h ago
+👁️ 18K • 👍 966 • 💬 156 • ⏱️ 41:39 • 17h ago
 
 ---
 
@@ -305,7 +305,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 111 • 💬 5 • ⏱️ 18:54 • 13h ago
+👁️ 2K • 👍 111 • 💬 5 • ⏱️ 18:54 • 14h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-20T06:58:03.326690+00:00'
+updated: '2026-03-20T07:49:47.582882+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
 - repositories
-- social
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 20, 2026 at 06:58 UTC  
+**Last Updated:** March 20, 2026 at 07:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Funny phenomenon but I noticed that people who use AI a lot sort of end up adopting the same tonality and speaking style of an LLM.
 
-6h ago
+7h ago
 
 ---
 
@@ -49,7 +49,7 @@ Funny phenomenon but I noticed that people who use AI a lot sort of end up adopt
 
 interview: Codestrap founders say we need to dial down the hype and sort through the mess
 
-🔗 [theregister.com](https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/) • 6h ago
+🔗 [theregister.com](https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/) • 7h ago
 
 ---
 
@@ -57,7 +57,7 @@ interview: Codestrap founders say we need to dial down the hype and sort through
 
 A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/) • 7h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/) • 8h ago
 
 ---
 
@@ -73,7 +73,7 @@ An experimental AI agent bypassed its test environment, opened a hidden connecti
 
 There is a lot of AI security research being published on arXiv that has real-world implications, but most of it is written for other researchers. We started a bi-weekly digest that translates these papers into something practitioners and anyone interested in AI safety can actually use. Each paper gets a structured rating across four dimensions (Threat Realism, Defensive Urgency, Novelty, Research Maturity) and a badge: Act Now (immediate practical concern), Watch (emerging technique to monitor), or Horizon (longer-term research trend). **First issue highlights:** **Cascade -- "What if attackers combined software bugs with hardware attacks against AI systems?"** Researchers demonstrated that compound AI systems (the kind built from multiple components -- a retrieval system, an LLM, a database, tools) inherit the vulnerability surface of every component. They showed attacks that chain traditional software CVEs with hardware-level exploits like Rowhammer against AI infrastructure. The practical implication: securing the LLM is not enough if the system around it is vulnerable. **LAMLAD -- "LLMs that automate attacks against other ML systems"** A dual-LLM agent system that automates adversarial machine learning attacks against Android malware classifiers, achieving a 97% evasion rate. The significant part is not the evasion rate itself -- it is that LLMs can now automate the tedious parts of adversarial ML that previously required specialised expertise. This lowers the barrier to attack substantially. **OpenClaw -- "Your AI agent framework probably has these four types of vulnerabilities"** Identifies four classes of vulnerabilities in autonomous agent frameworks. The finding that matters: most current defences focus on the prompt layer, but the real attack surface is in the execution and tool-use layer. Every claim in the digest links back to the source arXiv paper. We flag anything that could not be verified with a visible [VERIFY] tag. Free, no paywall, no signup: https://raxe.ai/labs/radar
 
-9h ago
+10h ago
 
 ---
 
@@ -81,7 +81,7 @@ There is a lot of AI security research being published on arXiv that has real-wo
 
 Researchers at UCLA's Institute of the Environment and Sustainability have developed the most high-resolution statewide maps of California's kelp forests to date, giving researchers, conservationists and community members unprecedented access to information essential to maintaining coastal ecosystems and the communities they support. By applying AI deep learning to Planet's Dove satellite constellation, the team has created a map 10 times more detailed than previous standard satellite records, offering a more precise way to monitor the condition of kelp along the California coastline and the success of conservation efforts. "Refined spatial resolution of kelp canopy monitoring has become increasingly important for assessing the efficacy of experimental restoration techniques and managing kelp harvest, particularly in areas where persisting kelp is sparse," said Dr. Kristen Elsmore, senior scientist with California Department of Fish and Wildlife, the state's primary agency responsible for managing California's kelp forest resources. Recent declines in kelp abundance have threatened the foundation of California's coastal ecosystems and economy. California's kelp forests support thriving fisheries, protect marine biodiversity and attract significant revenue through recreational snorkeling and scuba diving. They also play a crucial role in sustainability by contributing to nutrient cycling and carbon sequestration. This project represents a massive leap in conservation technology. While existing methods provide valuable long-term records, their 30-meter resolution can miss fine-scale patterns. When analyzing data from the new high-resolution map, the researchers found striking regional variability in kelp persistence following the 2014–2016 marine heat wave, one of the most severe warming events ever recorded along the U.S. West Coast. Kelp forests in Sonoma and Mendocino counties suffered losses of greater than 90% and remain at historically low levels ... "These high-resolution data can also be used to track small-scale restoration, helping guide management and support kelp forest resilience," lead author Kate Cavanaugh said. By identifying exactly where kelp is struggling or thriving based on local factors like ocean temperature and depth, conservationists can now implement an expanded suite of strategies within the state's Kelp Restoration and Management Plan.
 
-🔗 [phys.org](https://phys.org/news/2026-03-ai-deep-scientists-california-coastal.html) • 15h ago
+🔗 [phys.org](https://phys.org/news/2026-03-ai-deep-scientists-california-coastal.html) • 16h ago
 
 ---
 
@@ -89,7 +89,7 @@ Researchers at UCLA's Institute of the Environment and Sustainability have devel
 
 MIT researchers have spent more than a decade studying techniques that enable robots to find and manipulate hidden objects by "seeing" through obstacles. Their methods utilize surface-penetrating wireless signals that reflect off concealed items. Now, the researchers are leveraging generative artificial intelligence models to overcome a longstanding bottleneck that limited the precision of prior approaches. The result is a new method that produces more accurate shape reconstructions, which could improve a robot's ability to reliably grasp and manipulate objects that are blocked from view. This new technique builds a partial reconstruction of a hidden object from reflected wireless signals and fills in the missing parts of its shape using a specially trained generative AI model. The researchers also introduced an expanded system that uses generative AI to accurately reconstruct an entire room, including all the furniture. The system utilizes wireless signals sent from one stationary radar, which reflect off humans moving in the space. This overcomes one key challenge of many existing methods, which require a wireless sensor to be mounted on a mobile robot to scan the environment. And unlike some popular camera-based techniques, their method preserves the privacy of people in the environment. These innovations could enable warehouse robots to verify packed items before shipping, eliminating waste from product returns. They could also allow smart home robots to understand someone's location in a room, improving the safety and efficiency of human-robot interaction. "What we've done now is develop generative AI models that help us understand wireless reflections. This opens up a lot of interesting new applications, but technically it is also a qualitative leap in capabilities, from being able to fill in gaps we were not able to see before to being able to interpret reflections and reconstruct entire scenes," says Fadel Adib, associate professor in the Department of Electrical Engineering and Computer Science, director of the Signal Kinetics group in the MIT Media Lab, and senior author of two papers on these techniques. "We are using AI to finally unlock wireless vision."
 
-🔗 [techxplore.com](https://techxplore.com/news/2026-03-generative-ai-wireless-vision-obstructions.html) • 15h ago
+🔗 [techxplore.com](https://techxplore.com/news/2026-03-generative-ai-wireless-vision-obstructions.html) • 16h ago
 
 ---
 
@@ -97,7 +97,7 @@ MIT researchers have spent more than a decade studying techniques that enable ro
 
 Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.
 
-🔗 [Perplexity AI](https://www.perplexity.ai/search/explain-in-full-detail-the-ins-nAG695JNRMCXwG.GiK3uYQ) • 14h ago
+🔗 [Perplexity AI](https://www.perplexity.ai/search/explain-in-full-detail-the-ins-nAG695JNRMCXwG.GiK3uYQ) • 15h ago
 
 ---
 
@@ -113,7 +113,7 @@ Open Source Release I have released three large software systems that I have bee
 
 Solution to AI Agent Prompt Injection, Hijacking attacks and Info Leaks: AI agents can be hijacked mid-task through the content they process. Every existing defense operates at the reasoning layer and can be bypassed. Sentinel enforces at the execution layer, structurally, not probabilistically. The agent cannot act outside its authorized boundary regardless of what it's told. You can visit sentinel-gateway.com for more info Loom link contains a short video that introduces Sentinel Gateway UI and how system operates based on 3-4 different prompt injection attempts and agent response. Sentinel eliminates any and all security risk associated with regard to AgenticAI. #AIAgent #AgenticAI #AISecurity #CyberSecurity #PromptInjection
 
-🔗 [Loom](https://www.loom.com/share/887679aa59c34a4e9109baafa353eecd) • 23h ago
+🔗 [Loom](https://www.loom.com/share/887679aa59c34a4e9109baafa353eecd) • 1d ago
 
 ---
 
@@ -123,19 +123,19 @@ Solution to AI Agent Prompt Injection, Hijacking attacks and Info Leaks: AI agen
 
 **[Exclusive | Jeff Bezos in Talks to Raise $100 Billion for AI Manufacturing Fund](https://www.wsj.com/tech/jeff-bezos-aims-to-raise-100-billion-to-buy-revamp-manufacturing-firms-with-ai-618a3cfe?gaa_at=eafs&gaa_n=AWEtsqembkoDhwDWK4YYbnzrKtHrudjiispNAdBty4aEsyh7JfHuNuSI0vQf&gaa_ts=69bcf35e&gaa_sig=k6ooMEW8PfVOf0fkLRNgVNAHAsGCfwedwFkZbpMhCzab-IWJVwoYmn8NDzOafUSxiJX7z3v4Gqpkvcyt_YHBUw%3D%3D)**
 
-WSJ • 11h ago
+WSJ • 12h ago
 
 ---
 
 **[Jeff Bezos in Talks to Raise $100 Billion Fund to Transform Companies With A.I.](https://www.nytimes.com/2026/03/19/technology/jeff-bezos-ai-fund-project-prometheus.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
 **[Bezos Reportedly Raising $100 Billion To Buy Up Manufacturing Disrupted By AI](https://www.forbes.com/sites/zacharyfolk/2026/03/19/what-we-know-about-jeff-bezos-100-billion-ai-fundraising-plan/)**
 
-Forbes • 9h ago
+Forbes • 10h ago
 
 ---
 
@@ -143,7 +143,7 @@ Forbes • 9h ago
 
 Artificial intelligence agent instructed engineer to take actions that exposed user and company data internally
 
-The Guardian • 58m ago
+The Guardian • 1h ago
 
 ---
 
@@ -151,13 +151,13 @@ The Guardian • 58m ago
 
 Alibaba cut its staff by roughly 34% over the course of 2025, as the company disposed of peripheral holdings to focus on its AI business.
 
-CNBC • 44m ago
+CNBC • 1h ago
 
 ---
 
 **[Alibaba, Tencent Shares Lose $66 Billion as AI Vision Falls Flat](https://www.bloomberg.com/news/articles/2026-03-20/alibaba-tencent-shed-66-billion-after-ai-vision-falls-flat)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -165,7 +165,7 @@ Bloomberg.com • 3h ago
 
 Yahoo Finance Markets and Data Editor Jared Blikre and Market Catalysts host Julie Hyman take a closer look at some of Thursday morning's trending tickers and stories. Alibaba (BABA) stock is plunging after the company reported revenue that fell short of expectations, though analysts are still bullish on Alibaba's artificial intelligence (AI) outlook. Elliott Investment Management is building a stake in Invisalign-maker Align Technology (ALGN).
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 9h ago
 
 The group discusses the labor market, work and how A.I. and hustle culture are influencing their lives.
 
-The New York Times • 21h ago
+The New York Times • 22h ago
 
 ---
 
@@ -187,7 +187,7 @@ blog.google • 1d ago
 
 **[Congress moves to scrutinize AI use in federal court](https://www.politico.com/live-updates/2026/03/19/congress/bipartisan-bill-to-scrutinize-ai-use-in-federal-courts-00836316)**
 
-Politico • 11h ago
+Politico • 12h ago
 
 ---
 
@@ -241,7 +241,7 @@ Last December, tens of thousands of Claude users around the world had a conversa
 
 An AI agent tried to help, and its advice exposed sensitive data.
 
-⬆️ 147 • 💬 119 • 11h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
+⬆️ 147 • 💬 119 • 12h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
 
 ---
 
@@ -255,7 +255,7 @@ Google engineers have been spending the past number of months developing Sashiko
 
 **[Be intentional about how AI changes your codebase](https://news.ycombinator.com/item?id=47446373)**
 
-⬆️ 102 • 💬 39 • 9h ago • [aicode.swerdlow.dev](https://aicode.swerdlow.dev)
+⬆️ 102 • 💬 39 • 10h ago • [aicode.swerdlow.dev](https://aicode.swerdlow.dev)
 
 ---
 
@@ -285,7 +285,7 @@ I spoke to Anthropic's AI agent Claude about AI collecting massive amounts of pe
 
 📺 Senator Bernie Sanders
 
-👁️ 434K • 👍 41K • 💬 6K • ⏱️ 9:18 • 8h ago
+👁️ 434K • 👍 41K • 💬 6K • ⏱️ 9:18 • 9h ago
 
 ---
 
@@ -305,7 +305,7 @@ GoodBye Seedance 2!! China's NEW UNCENSORED AI Video Generator Ranks No.1 Seedan
 
 📺 Brain Project
 
-👁️ 3K • 👍 149 • 💬 64 • ⏱️ 15:59 • 13h ago
+👁️ 3K • 👍 149 • 💬 64 • ⏱️ 15:59 • 14h ago
 
 ---
 
@@ -315,7 +315,7 @@ Grok Imagine free video generation officially stopped working for free users on 
 
 📺 GenPay AI
 
-👁️ 3K • 💬 50 • ⏱️ 3:07 • 9h ago
+👁️ 3K • 💬 50 • ⏱️ 3:07 • 10h ago
 
 ---
 
@@ -325,7 +325,7 @@ Actor Val Kilmer's estate is giving producers of the film "As Deep as the Grave,
 
 📺 ABC News
 
-👁️ 3K • 👍 39 • 💬 23 • ⏱️ 5:06 • 8h ago
+👁️ 3K • 👍 39 • 💬 23 • ⏱️ 5:06 • 9h ago
 
 ---
 
@@ -345,7 +345,7 @@ This is one of the biggest booms and probably one of the biggest busts coming ou
 
 📺 The Tech Report
 
-👁️ 23K • 👍 806 • 💬 216 • ⏱️ 28:38 • 13h ago
+👁️ 23K • 👍 806 • 💬 216 • ⏱️ 28:38 • 14h ago
 
 ---
 
@@ -355,7 +355,7 @@ The company that promised AI would do the job of 10 people, can't even do the jo
 
 📺 Mo Bitar
 
-👁️ 109K • 👍 6K • 💬 1K • ⏱️ 7:16 • 18h ago
+👁️ 109K • 👍 6K • 💬 1K • ⏱️ 7:16 • 19h ago
 
 ---
 
@@ -451,7 +451,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 704 • ❤️ 248 • 20h ago
+⬇️ 704 • ❤️ 248 • 21h ago
 
 ---
 
@@ -671,7 +671,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.8k • 🔱 1.6k • 6m ago
+⭐ 12.8k • 🔱 1.6k • 58m ago
 
 ---
 
@@ -691,7 +691,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.1k • 🔱 726 • 14h ago
+⭐ 10.1k • 🔱 726 • 15h ago
 
 ---
 
@@ -701,7 +701,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 9.0k • 🔱 440 • 4m ago
+⭐ 9.0k • 🔱 440 • 56m ago
 
 ---
 
@@ -711,7 +711,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 5.2k • 🔱 754 • 10h ago
+⭐ 5.2k • 🔱 754 • 11h ago
 
 ---
 
@@ -721,7 +721,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `agent` `ai` `coding` `lowcode` `nocode`
 
-⭐ 4.4k • 🔱 379 • 10h ago
+⭐ 4.4k • 🔱 379 • 11h ago
 
 ---
 
@@ -731,7 +731,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `Python` `ai-agents` `claude` `claude-code` `cloud-security` `cybersecurity`
 
-⭐ 3.5k • 🔱 343 • 12h ago
+⭐ 3.5k • 🔱 343 • 13h ago
 
 ---
 
@@ -741,7 +741,7 @@ end to end app store screenshot creation using AI
 
 `agentic-ai` `apple` `appstore` `automate` `claude`
 
-⭐ 3.1k • 🔱 202 • 5d ago
+⭐ 3.1k • 🔱 202 • 6d ago
 
 ---
 
