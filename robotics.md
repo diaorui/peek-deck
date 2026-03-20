@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-20T17:09:49.171745+00:00'
+updated: '2026-03-20T18:01:14.908495+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 20, 2026 at 17:09 UTC  
+**Last Updated:** March 20, 2026 at 18:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Showcasing the newest version (v20) of my hand & wrist combo! Same as the last version, it's a combination of direct- and tendon-driven actuation, still with 19 joints and 10 active DOFs. It has independent finger flexion, a 3-DOF thumb, linked finger splay, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist which measures joint position (at the motor output), current, and temperature. And all the movements were programmed with custom C#/C++ software. Improved from the last version, the base thumb joints were switched to direct drive and much beefier motors were swapped in for the wrist joints - improving strength and repeatability under heavier loads. Despite these new motors though, the form factor remains nearly identical to v19, spare a few millimeters of thickness and height. Some more minor changes: (1) ASA and carbon fiber filaments replaced basic PLA to improve rigidity and strength, (2) the power input was switched to an XT30 connector to accommodate the more power-hungry motors, and (3) better filtering and chips to reduce current and position signal noise. Still making incremental improvements here and there, but happy to answer any questions and hear your thoughts!
 
-1h ago
+2h ago
 
 ---
 
@@ -58,7 +58,7 @@ From Physical Intelligence on 𝕏 (thread with multiple videos): https://x.com/
 
 Don't be surprised if you meet humanoid robots on the streets of Beijing at midnight. They are training for their half-marathon! Over 20 teams joined the first trial run. The official race will be held on April 19.
 
-30m ago
+1h ago
 
 ---
 
@@ -66,7 +66,7 @@ Don't be surprised if you meet humanoid robots on the streets of Beijing at midn
 
 Copper is an open-source robotics runtime in Rust for building deterministic, observable systems. Until now, it was very much geared toward production. With v0.14, we’re opening that system up to earlier-stage work as well. In robotics, you typically prototype quickly in Python, then rebuild the system to meet determinism, safety, and observability requirements. You can validate algorithms on real logs or simulation, inspect them in a running system, and iterate without rebuilding the surrounding infrastructure. When it’s time to move to Rust, only the task needs to change, and LLMs are quite effective at helping with that step. This release also also introduces: - composable monitoring, including a dedicated safety monitors - a new Webassembly target! After CPUs and MCUs targets, Copper can now fully run in a browser for shareable demos, check out the links in the article. - The ROS2 bridge is now bidirectional, helping the gradual migrations from ROS2 from both sides of the stack The focus is continuity from early experimentation to deployment. If you’re a Python roboticist looking for a smooth path into a Rust-based production system, come talk to us on Discord, we’re happy to help.
 
-🔗 [Copper Robotics](https://www.copper-robotics.com/whats-new/copper-rs-v014-from-prototype-to-production-without-changing-systems) • 1h ago
+🔗 [Copper Robotics](https://www.copper-robotics.com/whats-new/copper-rs-v014-from-prototype-to-production-without-changing-systems) • 2h ago
 
 ---
 
@@ -82,7 +82,7 @@ Why can’t robots use their lidar to scan the room and confirm there is enough 
 
 Amazon and Jeff Bezos had previously invested in the startup. The deal signals the e-commerce giant's interest in doorstep delivery.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/) • 15h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/) • 16h ago
 
 ---
 
@@ -90,7 +90,7 @@ Amazon and Jeff Bezos had previously invested in the startup. The deal signals t
 
 During NVIDIA's GTC event this week attendees had the chance to see our favorite come to life snowman walking around the show floor. Disney research designer Moritz Baecher describes the technology behind creating Robot Olaf and the future of free range robots.
 
-🔗 [Automate](https://www.automate.org/vision/industry-insights/letting-it-go-disney-researchs-lab-director-on-free-range-robots) • 6h ago
+🔗 [Automate](https://www.automate.org/vision/industry-insights/letting-it-go-disney-researchs-lab-director-on-free-range-robots) • 7h ago
 
 ---
 
@@ -98,7 +98,7 @@ During NVIDIA's GTC event this week attendees had the chance to see our favorite
 
 Been seeing a lot of people building robots that use the ChatGPT API to give them autonomy, but that's like asking a writer to be a gymnast, so I'm building a software that makes better use of VLMs, Depth Estimation and World Models, to give autonomy to your robot. Building this in public. (skipped DAY 5 bc there was no much progress really) Today: > Tested out different visual odometry algorithms > Turns out DA3 is also pretty good for pose estimation/odometry > Was struggling for a bit generating a reasonable occupancy grid > Reused some old code from my robotics research in college > Turns out Bayesian Log-Odds Mapping yielded some kinda good results at least > Pretty low definition voxels for now, but pretty good for SLAM that just uses a camera and no IMU or other odometry methods Working towards releasing this as an API alongside a Python SDK repo, for any builder to be able to add autonomy to their robot as long as it has a camera
 
-17h ago
+18h ago
 
 ---
 
@@ -106,7 +106,7 @@ Been seeing a lot of people building robots that use the ChatGPT API to give the
 
 I badly need help for our problem in the plotting output of the plotter. It seems that the square is tilted at a certain angle. Can somebody help solving this problem.
 
-13h ago
+14h ago
 
 ---
 
@@ -118,7 +118,7 @@ I badly need help for our problem in the plotting output of the plotter. It seem
 
 Mark Cuban said the push for humanoid robots will fail and that instead robots and spaces will be co-designed.
 
-Business Insider • 11h ago
+Business Insider • 12h ago
 
 ---
 
@@ -134,7 +134,7 @@ CNBC • 19h ago
 
 Amazon has acquired autonomous robotics startup Rivr, an Amazon spokesperson confirmed, a deal that could help the commerce and logistics giant deliver packages to shoppers’ doors more efficiently. Based in Zurich and formerly known as Swiss-Mile, Rivr was valued at $110 million in an August ...
 
-The Information • 20h ago
+The Information • 21h ago
 
 ---
 
@@ -142,7 +142,7 @@ The Information • 20h ago
 
 With last-mile delivery company RIVR now at Amazon, could we soon see quadrupeds delivering our Amazon packages?
 
-The Robot Report • 16h ago
+The Robot Report • 17h ago
 
 ---
 
@@ -156,13 +156,13 @@ Bloomberg.com • 5h ago
 
 Techman unveils its TM Xplore I humanoid robot at Nvidia GTC 2026, showcasing AI-powered automation designed for real-world industrial work.
 
-eWeek • 19h ago
+eWeek • 20h ago
 
 ---
 
 **[Smarter, faster, and more human: AI system helps robots outpace their human teachers](https://techxplore.com/news/2026-03-smarter-faster-human-ai-robots.html)**
 
-Tech Xplore • 22h ago
+Tech Xplore • 23h ago
 
 ---
 
@@ -178,7 +178,7 @@ Bessemer Venture Partners • 1d ago
 
 The Fox News AI Newsletter gives readers the latest AI technology advancements, covering the challenges and opportunities AI presents.
 
-Fox News • 22h ago
+Fox News • 23h ago
 
 ---
 
@@ -186,7 +186,7 @@ Fox News • 22h ago
 
 Physical AI, agents, inference and more are on the table for the world's biggest company during Monday's conference kickoff.
 
-CNET • 19h ago
+CNET • 20h ago
 
 ---
 
@@ -200,7 +200,7 @@ The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrati
 
 📺 DPCcars
 
-👁️ 135K • 👍 1K • 💬 139 • ⏱️ 2:02 • 3d ago
+👁️ 141K • 👍 1K • 💬 152 • ⏱️ 2:02 • 3d ago
 
 ---
 
@@ -210,7 +210,7 @@ The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrati
 
 📺 MachineWorks Studio
 
-👁️ 1.2M • 👍 1K • 💬 12 • ⏱️ 0:06 • 4d ago
+👁️ 1.4M • 👍 1K • 💬 14 • ⏱️ 0:06 • 4d ago
 
 ---
 
@@ -220,7 +220,7 @@ Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and g
 
 📺 Brighter with Herbert
 
-👁️ 100K • 👍 2K • 💬 319 • ⏱️ 49:45 • 5d ago
+👁️ 101K • 👍 2K • 💬 319 • ⏱️ 49:45 • 5d ago
 
 ---
 
@@ -230,7 +230,7 @@ CENTAUR ROBOT - wearable robot adds two legs behind people to help distribute th
 
 📺 Unstoppable Gadgets
 
-👁️ 26K • 👍 329 • 💬 21 • ⏱️ 0:17 • 1d ago
+👁️ 27K • 👍 332 • 💬 21 • ⏱️ 0:17 • 1d ago
 
 ---
 
@@ -240,7 +240,7 @@ Video shows restaurant employees struggling to restrain a dancing robot that wen
 
 📺 NBC News
 
-👁️ 119K • 👍 1K • 💬 438 • ⏱️ 3:38 • 1d ago
+👁️ 126K • 👍 2K • 💬 464 • ⏱️ 3:38 • 1d ago
 
 ---
 
@@ -250,7 +250,7 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 64K • 👍 1K • 💬 756 • ⏱️ 2:07 • 1d ago
+👁️ 78K • 👍 1K • 💬 877 • ⏱️ 2:07 • 1d ago
 
 ---
 
@@ -260,7 +260,7 @@ Gecko Robotics announced a $71 million partnership with the US Navy, deploying i
 
 📺 Bloomberg Technology
 
-👁️ 4K • 👍 116 • 💬 3 • ⏱️ 4:39 • 2d ago
+👁️ 4K • 👍 121 • 💬 3 • ⏱️ 4:39 • 2d ago
 
 ---
 
@@ -270,7 +270,7 @@ Try the full AI cinematic workflow here: https://higgsfield.ai/s/cinema-studio-2
 
 📺 AI Revolution
 
-👁️ 19K • 👍 483 • 💬 41 • ⏱️ 13:18 • 4d ago
+👁️ 20K • 👍 484 • 💬 42 • ⏱️ 13:18 • 4d ago
 
 ---
 
@@ -290,7 +290,7 @@ Sesame Micro is a tangent project to the Sesame Robot Project, an open-source mi
 
 📺 Dorian Todd
 
-👁️ 22K • 👍 2K • 💬 105 • ⏱️ 11:03 • 1d ago
+👁️ 24K • 👍 2K • 💬 109 • ⏱️ 11:03 • 1d ago
 
 ---
 

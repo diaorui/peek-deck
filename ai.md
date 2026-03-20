@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-20T17:09:49.154078+00:00'
+updated: '2026-03-20T18:01:14.890854+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
+- videos
 - repositories
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 20, 2026 at 17:09 UTC  
+**Last Updated:** March 20, 2026 at 18:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Suno settled with Warner Music Group in November and agreed to retire all existing models trained on unlicensed music. New licensed models replace them in 2026. When they launch, the old ones are gone permanently. For users this means: free tier loses download access entirely. Paid tier gets monthly download caps. Suno also acquired Songkick from Warner as part of the deal. The more interesting part is what this means for the industry. UMG and Sony are still actively suing Suno. Warner was the only major to settle. So Suno is launching licensed models while still in litigation with two of the three majors. Udio took a different path. They settled with UMG and pivoted to a walled garden remix platform. Nothing you create can leave the platform. Full breakdown: https://www.votemyai.com/blog/suno-relaunch-2026.html What do you think happens to output quality when the training data shrinks to a single label's catalog?
 
-1h ago
+2h ago
 
 ---
 
@@ -49,13 +49,13 @@ Suno settled with Warner Music Group in November and agreed to retire all existi
 
 Funny phenomenon but I noticed that people who use AI a lot sort of end up adopting the same tonality and speaking style of an LLM.
 
-16h ago
+17h ago
 
 ---
 
 **[Walmart secures two AI pricing patents, raising dynamic pricing concerns](https://www.reddit.com/r/artificial/comments/1rywmca/walmart_secures_two_ai_pricing_patents_raising/)**
 
-🔗 [techspot.com](https://www.techspot.com/news/111752-walmart-secures-two-ai-pricing-patents-raising-dynamic.html) • 3h ago
+🔗 [techspot.com](https://www.techspot.com/news/111752-walmart-secures-two-ai-pricing-patents-raising-dynamic.html) • 4h ago
 
 ---
 
@@ -63,7 +63,7 @@ Funny phenomenon but I noticed that people who use AI a lot sort of end up adopt
 
 An experimental AI agent bypassed its test environment, opened a hidden connection and attempted cryptocurrency mining without permission during training.
 
-🔗 [techputs](https://techputs.com/experimental-ai-agent-breaks-out-of-test-environment/) • 11h ago
+🔗 [techputs](https://techputs.com/experimental-ai-agent-breaks-out-of-test-environment/) • 12h ago
 
 ---
 
@@ -71,7 +71,7 @@ An experimental AI agent bypassed its test environment, opened a hidden connecti
 
 As the US-Iran War halts Qatar's gas output, a global helium shortage threatens semiconductor production that could disrupt the AI data centre supply chain
 
-🔗 [datacentremagazine.com](https://datacentremagazine.com/news/us-iran-war-analysis-will-helium-crisis-hit-data-centres) • 7h ago
+🔗 [datacentremagazine.com](https://datacentremagazine.com/news/us-iran-war-analysis-will-helium-crisis-hit-data-centres) • 8h ago
 
 ---
 
@@ -79,7 +79,7 @@ As the US-Iran War halts Qatar's gas output, a global helium shortage threatens 
 
 basically you build a "cast" of AIs different models like GPT-4o, Claude, and Gemini and you just drop a topic and let them talk to each other. i currently have a group of historical figures debating the ethics of space colonisation and they're actually voting on things. it even pulls live google results so they're staying updated. it's way too fun to just sit back and watch them deliberate/fight. check it out at boardroom.kreygo.com if u want to never sleep again. has anyone else messed with this yet??
 
-1h ago
+2h ago
 
 ---
 
@@ -87,7 +87,7 @@ basically you build a "cast" of AIs different models like GPT-4o, Claude, and Ge
 
 Remember when Sam Altman was out there talking up 1.4 trillion dollars in spending commitments like it was already in the bag? Now CNBC says OpenAI is targeting "only" 600 billion by 2030 while dreaming of 280 billion in revenue that same year. So your telling me they're supposedly doing about 13.1 billion in revenue this year (2025). Jumping to 280 billion by 2030 means roughly 20 times more money coming in over the next five years. That's not just growth, that's borderline fantasy math. Meanwhile Europe is pouring serious money into building its own sovereign AI and independent infrastructure so it doesn't have to keep begging American companies for access. So why on earth would Europeans (or anyone outside the US hype bubble) keep bankrolling OpenAI's monster bills when their own governments are racing to build local alternatives? Europeans in the comments...... are you still cool with funding America's AI empire, or are you finally done playing second fiddle? article: https://mrkt30.com/can-openai-rely-on-europe-for-its-280b-revenue-goals-by-2030/
 
-3h ago
+4h ago
 
 ---
 
@@ -95,7 +95,7 @@ Remember when Sam Altman was out there talking up 1.4 trillion dollars in spendi
 
 A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/) • 17h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/) • 18h ago
 
 ---
 
@@ -103,13 +103,13 @@ A rogue AI agent inadvertently exposed Meta company and user data to engineers w
 
 I’ve been seeing more discussions around AI systems that can handle ongoing tasks, not just single prompts, but actually manage parts of workflows or operations. In theory, it sounds like a step beyond traditional automation, but I’m curious how far this has actually been adopted in practice. Is anyone here using AI in a way that resembles this, where it’s consistently handling multi-step tasks or ongoing processes? Or is it still mostly limited to assisted workflows rather than true autonomy? Would be interesting to hear real use cases (or limitations).
 
-5h ago
+6h ago
 
 ---
 
 **[Jeff Bezos aims to raise $100 billion to buy, revamp manufacturing firms with AI](https://www.reddit.com/r/artificial/comments/1ryswb2/jeff_bezos_aims_to_raise_100_billion_to_buy/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/retail-consumer/jeff-bezos-aims-raise-100-billion-buy-revamp-manufacturing-firms-with-ai-wsj-2026-03-19/) • 6h ago
+🔗 [reuters.com](https://www.reuters.com/business/retail-consumer/jeff-bezos-aims-raise-100-billion-buy-revamp-manufacturing-firms-with-ai-wsj-2026-03-19/) • 7h ago
 
 ---
 
@@ -119,13 +119,13 @@ I’ve been seeing more discussions around AI systems that can handle ongoing ta
 
 **[Exclusive | Jeff Bezos in Talks to Raise $100 Billion for AI Manufacturing Fund](https://www.wsj.com/tech/jeff-bezos-aims-to-raise-100-billion-to-buy-revamp-manufacturing-firms-with-ai-618a3cfe?gaa_at=eafs&gaa_n=AWEtsqeCWlb183vsiDkkGwOgpnsNF3tlDzS-J7F5Q_KGZCKUmGJe2fTKAM2M&gaa_ts=69bd82c0&gaa_sig=-CHjeDA_JxDE70UgxTHV1PgNZNppAWL9V7PAb9lsQeADpkdAjqAOXFlCR8NDB6sCCb8V5T2Eu9nCmx9PDNyCfA%3D%3D)**
 
-WSJ • 21h ago
+WSJ • 22h ago
 
 ---
 
 **[A.I. Is Writing Fiction. Publishers Are Unprepared.](https://www.nytimes.com/2026/03/19/books/ai-fiction-shy-girl.html)**
 
-The New York Times • 18h ago
+The New York Times • 19h ago
 
 ---
 
@@ -133,7 +133,7 @@ The New York Times • 18h ago
 
 Most enterprise AI projects have failed since 2018, a sobering track record for an industry awash in enthusiasm.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
@@ -141,7 +141,7 @@ CNBC • 9h ago
 
 AI industry leaders have opposed state-level regulatory efforts, arguing that a "patchwork" of laws would hobble innovation and give China a competitive edge.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -149,13 +149,13 @@ CNBC • 3h ago
 
 WASHINGTON, March 20 (Reuters) - The White House on Friday unveiled an artificial intelligence policy for Congress that urges lawmakers to enact legislation to pre-empt state rules, protect children
 
-Yahoo Finance • 36m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[White House Unveils A.I. Policy Aimed at Blocking State Laws](https://www.nytimes.com/2026/03/20/us/politics/white-house-unveils-ai-policy-aimed-at-blocking-state-laws.html)**
 
-The New York Times • 17m ago
+The New York Times • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ The New York Times • 17m ago
 
 Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of hallucinations’, after investigation by newspaper where he was once editor-in-chief
 
-The Guardian • 53m ago
+The Guardian • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Guardian • 53m ago
 
 Google, Meta, Samsung and Apple are developing AI-powered smart glasses that combine cameras and voice assistants to capture and immediately modify photos using generative AI.
 
-Fox News • 13m ago
+Fox News • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ blog.google • 1d ago
 
 **[Super Micro shares plunge as US charges co-founder, 2 more for smuggling AI chips to China](https://www.reuters.com/legal/government/super-micro-shares-plunge-us-charges-co-founder-2-more-smuggling-ai-chips-china-2026-03-20/)**
 
-Reuters • 5h ago
+Reuters • 6h ago
 
 ---
 
@@ -207,7 +207,7 @@ GambleAI
 
 I’ve been coding a lot with AI since November, when we all noticed it got really good. And it is quite good for instantly generating something th...
 
-⬆️ 345 • 💬 423 • 1d ago • [VS Notes](https://notes.visaint.space/ai-coding-is-gambling/)
+⬆️ 345 • 💬 423 • 2d ago • [VS Notes](https://notes.visaint.space/ai-coding-is-gambling/)
 
 ---
 
@@ -239,13 +239,13 @@ Last December, tens of thousands of Claude users around the world had a conversa
 
 An AI agent tried to help, and its advice exposed sensitive data.
 
-⬆️ 162 • 💬 133 • 22h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
+⬆️ 162 • 💬 133 • 23h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
 
 ---
 
 **[Be intentional about how AI changes your codebase](https://news.ycombinator.com/item?id=47446373)**
 
-⬆️ 154 • 💬 91 • 19h ago • [aicode.swerdlow.dev](https://aicode.swerdlow.dev)
+⬆️ 154 • 💬 91 • 20h ago • [aicode.swerdlow.dev](https://aicode.swerdlow.dev)
 
 ---
 
@@ -271,7 +271,7 @@ Yesterday at lunch a friend asked me what tech trend he should pay attention to 
 
 Without thinking much I said “artificial intelligence”, but having thought about that a...
 
-⬆️ 60 • 💬 58 • 5h ago • [Sam Altman](https://blog.samaltman.com/ai)
+⬆️ 60 • 💬 58 • 6h ago • [Sam Altman](https://blog.samaltman.com/ai)
 
 ---
 
@@ -285,17 +285,7 @@ Dave Rubin of "The Rubin Report" shares a DM clip of Elon Musk explaining to Pet
 
 📺 The Rubin Report
 
-👁️ 230K • 👍 6K • 💬 2K • ⏱️ 6:24 • 2d ago
-
----
-
-**[Grok AI Is DONE ❌ Best FREE AI Video Generators (Unlimited &amp; Better!)](https://www.youtube.com/watch?v=Ewn1KBqWVKY)**
-
-Grok AI has changed everything… and not in a good way. Free video generation is gone — but don't worry. In this video, I'm ...
-
-📺 Tech Rush
-
-👁️ 2K • 👍 115 • 💬 39 • ⏱️ 8:02 • 5h ago
+👁️ 232K • 👍 6K • 💬 2K • ⏱️ 6:24 • 2d ago
 
 ---
 
@@ -305,7 +295,7 @@ I spoke to Anthropic's AI agent Claude about AI collecting massive amounts of pe
 
 📺 Senator Bernie Sanders
 
-👁️ 837K • 👍 66K • 💬 9K • ⏱️ 9:18 • 18h ago
+👁️ 1.0M • 👍 78K • 💬 10K • ⏱️ 9:18 • 19h ago
 
 ---
 
@@ -315,7 +305,17 @@ AI is no longer a future problem. It is already reshaping the job market and mos
 
 📺 Scott Kuru
 
-👁️ 7K • 👍 297 • 💬 84 • ⏱️ 12:49 • 8h ago
+👁️ 8K • 👍 314 • 💬 90 • ⏱️ 12:49 • 9h ago
+
+---
+
+**[Grok AI Is DONE ❌ Best FREE AI Video Generators (Unlimited &amp; Better!)](https://www.youtube.com/watch?v=Ewn1KBqWVKY)**
+
+Grok AI has changed everything… and not in a good way. Free video generation is gone — but don't worry. In this video, I'm ...
+
+📺 Tech Rush
+
+👁️ 5K • 👍 248 • 💬 67 • ⏱️ 8:02 • 6h ago
 
 ---
 
@@ -325,17 +325,7 @@ Sam Altman just said the architecture behind ChatGPT and most modern AI may soon
 
 📺 AI Revolution
 
-👁️ 133K • 👍 3K • 💬 324 • ⏱️ 11:10 • 2d ago
-
----
-
-**[AI-Generated Version of Late Actor Val Kilmer to Star in New Movie](https://www.youtube.com/watch?v=Utl4w3hKpYM)**
-
-Nearly a year after his death, actor Val Kilmer will return to the screen as an AI-generated version of his former self in the movie ...
-
-📺 TODAY
-
-👁️ 12K • 👍 127 • 💬 61 • ⏱️ 2:52 • 1d ago
+👁️ 136K • 👍 3K • 💬 328 • ⏱️ 11:10 • 2d ago
 
 ---
 
@@ -345,27 +335,7 @@ tyronemagnus #scarlo #ai #soraai #sora #sora2 #compilation #comedy #parody #funn
 
 📺 Tyrone Magnus
 
-👁️ 44K • 👍 3K • 💬 102 • ⏱️ 11:44 • 2d ago
-
----
-
-**[Grandpa builds a house from cylinders and surprise grandma #ai #grandma #save](https://www.youtube.com/watch?v=DGQNxNYYwuQ)**
-
-Grandpa builds a house from cylinders and surprise grandma #ai #grandma #save.
-
-📺 Ai Kulfi
-
-👁️ 201K • 💬 5 • ⏱️ 0:42 • 4h ago
-
----
-
-**[MiniMax M2.7 IS INSANE! Best Agentic/Coding Model! Beats Opus 4.6 and 50x Cheaper! (Fully Tested)](https://www.youtube.com/watch?v=qb2-wq9MKss)**
-
-MiniMax is back with one of the most shocking AI releases yet… and this one might genuinely change how we build software.
-
-📺 WorldofAI
-
-👁️ 10K • 👍 305 • 💬 28 • ⏱️ 11:45 • 14h ago
+👁️ 45K • 👍 3K • 💬 103 • ⏱️ 11:44 • 2d ago
 
 ---
 
@@ -375,7 +345,37 @@ Try SerpApi https://serpapi.link/wes-roth Click the link above to get 250 free c
 
 📺 Wes Roth
 
-👁️ 54K • 👍 1K • 💬 286 • ⏱️ 25:06 • 1d ago
+👁️ 54K • 👍 1K • 💬 288 • ⏱️ 25:06 • 1d ago
+
+---
+
+**[YouTube’s New AI Slop Strategy is…](https://www.youtube.com/watch?v=OSibGWIlbxI)**
+
+YouTube is rolling out a special question for viewers to answer about videos they watch: "does this feel like AI slop?" Is this a good ...
+
+📺 Vailskibum
+
+👁️ 35K • 👍 3K • 💬 428 • ⏱️ 2:44 • 23h ago
+
+---
+
+**[They lied to us about AI](https://www.youtube.com/watch?v=z2guHaoY2_Y)**
+
+The company that promised AI would do the job of 10 people, can't even do the job of ONE company. https://x.com/atmoio ...
+
+📺 Mo Bitar
+
+👁️ 130K • 👍 7K • 💬 1K • ⏱️ 7:16 • 1d ago
+
+---
+
+**[Lawsuit claims Google&#39;s AI chatbot pushed Jupiter man to suicide](https://www.youtube.com/watch?v=NqZNtCHvOro)**
+
+A federal lawsuit alleges Google's Gemini AI chatbot pushed a 36-year-old Jupiter man to plan a mass murder and ultimately take ...
+
+📺 WPTV News - FL Palm Beaches and Treasure Coast
+
+👁️ 4K • 👍 18 • 💬 4 • ⏱️ 1:50 • 20h ago
 
 ---
 
@@ -391,19 +391,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 210,848 • ❤️ 674 • 9d ago
-
----
-
-**[s2-pro](https://huggingface.co/fishaudio/s2-pro)**
-
-*Fish Audio*
-
-Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offering fine-grained, free-form control over prosody and emotion via inline text tags. It features a Dual-Autoregressive architecture for high-fidelity audio and low-latency streaming inference, suitable for advanced TTS applications.
-
-`text-to-speech` `4.6B`
-
-⬇️ 10,929 • ❤️ 666 • 9d ago
+⬇️ 210,848 • ❤️ 677 • 9d ago
 
 ---
 
@@ -415,7 +403,43 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 116,845 • ❤️ 949 • 8h ago
+⬇️ 116,845 • ❤️ 952 • 9h ago
+
+---
+
+**[s2-pro](https://huggingface.co/fishaudio/s2-pro)**
+
+*Fish Audio*
+
+Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offering fine-grained, free-form control over prosody and emotion via inline text tags. It features a Dual-Autoregressive architecture for high-fidelity audio and low-latency streaming inference, suitable for advanced TTS applications.
+
+`text-to-speech` `4.6B`
+
+⬇️ 10,929 • ❤️ 668 • 9d ago
+
+---
+
+**[Mistral-Small-4-119B-2603](https://huggingface.co/mistralai/Mistral-Small-4-119B-2603)**
+
+*Mistral AI_*
+
+Mistral-Small-4-119B-2603 is a hybrid MoE model (119B params, 6.5B active) supporting 256k context and multimodal input (text/image). It excels at instruction following, reasoning (configurable effort), and agentic tasks with native function calling, offering significant speed and throughput improvements for use cases like coding, document analysis, and general assistants.
+
+`119.4B`
+
+⬇️ 8,733 • ❤️ 259 • 3d ago
+
+---
+
+**[Qianfan-OCR](https://huggingface.co/baidu/Qianfan-OCR)**
+
+*BAIDU*
+
+Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document intelligence, capable of direct image-to-Markdown conversion and supporting prompt-driven tasks like document parsing, table extraction, and question answering across 192 languages. It achieves state-of-the-art performance on benchmarks like OmniDocBench v1.5 with its innovative 'Layout-as-Thought' mechanism.
+
+`image-text-to-text` `4.7B`
+
+⬇️ 2,946 • ❤️ 257 • 1d ago
 
 ---
 
@@ -431,27 +455,25 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 ---
 
-**[Mistral-Small-4-119B-2603](https://huggingface.co/mistralai/Mistral-Small-4-119B-2603)**
+**[GLM-OCR](https://huggingface.co/zai-org/GLM-OCR)**
 
-*Mistral AI_*
+*Z.ai*
 
-Mistral-Small-4-119B-2603 is a hybrid MoE model (119B params, 6.5B active) supporting 256k context and multimodal input (text/image). It excels at instruction following, reasoning (configurable effort), and agentic tasks with native function calling, offering significant speed and throughput improvements for use cases like coding, document analysis, and general assistants.
+GLM-OCR is a multimodal OCR model for complex document understanding, excelling in state-of-the-art performance on benchmarks and real-world scenarios like tables and code-heavy documents. It offers efficient inference with a 0.9B parameter model, supporting deployment via vLLM, SGLang, and Ollama for high-concurrency services and edge deployments.
 
-`119.4B`
+`image-to-text`
 
-⬇️ 8,733 • ❤️ 256 • 3d ago
+⬇️ 3,030,741 • ❤️ 1,392 • 8d ago
 
 ---
 
-**[Qianfan-OCR](https://huggingface.co/baidu/Qianfan-OCR)**
+**[Foundation-1](https://huggingface.co/RoyalCities/Foundation-1)**
 
-*BAIDU*
+*Royal Cities*
 
-Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document intelligence, capable of direct image-to-Markdown conversion and supporting prompt-driven tasks like document parsing, table extraction, and question answering across 192 languages. It achieves state-of-the-art performance on benchmarks like OmniDocBench v1.5 with its innovative 'Layout-as-Thought' mechanism.
+Foundation-1 is a structured text-to-sample model for music production, enabling precise control over instrumentation, timbre, FX, and musical structure (tempo, key, bar count) for generating coherent, production-ready audio loops.
 
-`image-text-to-text` `4.7B`
-
-⬇️ 2,946 • ❤️ 255 • 1d ago
+⬇️ 0 • ❤️ 192 • 3d ago
 
 ---
 
@@ -463,19 +485,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 2,785,995 • ❤️ 954 • 18d ago
-
----
-
-**[GLM-OCR](https://huggingface.co/zai-org/GLM-OCR)**
-
-*Z.ai*
-
-GLM-OCR is a multimodal OCR model for complex document understanding, excelling in state-of-the-art performance on benchmarks and real-world scenarios like tables and code-heavy documents. It offers efficient inference with a 0.9B parameter model, supporting deployment via vLLM, SGLang, and Ollama for high-concurrency services and edge deployments.
-
-`image-to-text`
-
-⬇️ 3,030,741 • ❤️ 1,390 • 8d ago
+⬇️ 2,785,995 • ❤️ 957 • 18d ago
 
 ---
 
@@ -487,19 +497,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 321,498 • ❤️ 564 • 16d ago
-
----
-
-**[LTX-2.3](https://huggingface.co/Lightricks/LTX-2.3)**
-
-*Lightricks*
-
-LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchronized video and audio from various inputs, including images and text. It offers improved visual and audio quality, enhanced prompt adherence, and supports local execution with open weights.
-
-`image-to-video`
-
-⬇️ 796,276 • ❤️ 694 • 5d ago
+⬇️ 321,498 • ❤️ 565 • 16d ago
 
 ---
 
@@ -516,7 +514,7 @@ LTX-2.3 is a DiT-based audio-video foundation model capable of generating synchr
 Residual connections with PreNorm are standard in modern LLMs, yet they accumulate all layer outputs with fixed unit weights. This uniform aggregation causes uncontrolled hidden-state growth with depth, progressively diluting each layer's contribution. We propose Attention Residuals (AttnRes), which replaces this fixed accumulation with softmax attention over preceding layer outputs, allowing each layer to selectively aggregate earlier representations with learned, input-dependent weights. To address the memory and communication overhead of attending over all preceding layer outputs for large-scale model training, we introduce Block AttnRes, which partitions layers into blocks and attends over block-level representations, reducing the memory footprint while preserving most of the gains of full AttnRes. Combined with cache-based pipeline communication and a two-phase computation strategy, Block AttnRes becomes a practical drop-in replacement for standard residual connections with minimal overhead.
   Scaling law experiments confirm that the improvement is consistent across model sizes, and ablations validate the benefit of content-dependent depth-wise selection. We further integrate AttnRes into the Kimi Linear architecture (48B total / 3B activated parameters) and pre-train on 1.4T tokens, where AttnRes mitigates PreNorm dilution, yielding more uniform output magnitudes and gradient distribution across depth, and improves downstream performance across all evaluated tasks.
 
-▲ 124 • 💬 4 • ⭐ 2,074 • 4d ago
+▲ 125 • 💬 4 • ⭐ 2,074 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.15031) • [💻 code](https://github.com/MoonshotAI/Attention-Residuals)
 
@@ -540,7 +538,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 25 • 💬 2 • ⭐ 33,376 • 14mo ago
+▲ 25 • 💬 2 • ⭐ 33,688 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -568,7 +566,7 @@ Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabil
 
 A continual meta-learning framework for large language model agents that jointly evolves policies and reusable behavioral skills while minimizing downtime through opportunistic updates and skill-driven adaptation.
 
-▲ 106 • 💬 3 • ⭐ 2,146 • 2d ago
+▲ 108 • 💬 3 • ⭐ 2,146 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.17187) • [💻 code](https://github.com/aiming-lab/MetaClaw)
 
@@ -622,22 +620,21 @@ EvoScientist is an adaptive multi-agent framework that enhances scientific disco
 
 What if a world simulation model could render not an imagined environment but a city that actually exists? Prior generative world models synthesize visually plausible yet artificial environments by imagining all content. We present Seoul World Model (SWM), a city-scale world model grounded in the real city of Seoul. SWM anchors autoregressive video generation through retrieval-augmented conditioning on nearby street-view images. However, this design introduces several challenges, including temporal misalignment between retrieved references and the dynamic target scene, limited trajectory diversity and data sparsity from vehicle-mounted captures at sparse intervals. We address these challenges through cross-temporal pairing, a large-scale synthetic dataset enabling diverse camera trajectories, and a view interpolation pipeline that synthesizes coherent training videos from sparse street-view images. We further introduce a Virtual Lookahead Sink to stabilize long-horizon generation by continuously re-grounding each chunk to a retrieved image at a future location. We evaluate SWM against recent video world models across three cities: Seoul, Busan, and Ann Arbor. SWM outperforms existing methods in generating spatially faithful, temporally consistent, long-horizon videos grounded in actual urban environments over trajectories reaching hundreds of meters, while supporting diverse camera movements and text-prompted scenario variations.
 
-▲ 135 • 💬 4 • ⭐ 384 • 4d ago
+▲ 136 • 💬 4 • ⭐ 384 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.15583) • [💻 code](https://github.com/naver-ai/seoul-world-model) • [🔗 project](https://seoul-world-model.github.io/)
 
 ---
 
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
+**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
 
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
 
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-▲ 46 • 💬 1 • ⭐ 73,753 • 30mo ago
+▲ 48 • 💬 2 • ⭐ 50,507 • 10mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
 ---
 
@@ -651,7 +648,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 44.9k • 🔱 6.2k • 3d ago
+⭐ 45.3k • 🔱 6.3k • 3d ago
 
 ---
 
@@ -661,7 +658,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 21.7k • 🔱 1.0k • 1d ago
+⭐ 21.8k • 🔱 1.0k • 1d ago
 
 ---
 
@@ -671,7 +668,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.8k • 🔱 1.6k • 3h ago
+⭐ 12.8k • 🔱 1.6k • 4h ago
 
 ---
 
@@ -691,7 +688,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.1k • 🔱 731 • 6h ago
+⭐ 10.1k • 🔱 731 • 7h ago
 
 ---
 
@@ -701,7 +698,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 9.1k • 🔱 451 • 2h ago
+⭐ 9.2k • 🔱 455 • 2h ago
 
 ---
 
@@ -711,7 +708,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 5.5k • 🔱 805 • 3h ago
+⭐ 5.6k • 🔱 826 • 2m ago
 
 ---
 
@@ -721,7 +718,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `agent` `ai` `coding` `lowcode` `nocode`
 
-⭐ 4.5k • 🔱 404 • 2h ago
+⭐ 4.6k • 🔱 407 • 1h ago
 
 ---
 
@@ -731,7 +728,7 @@ Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from
 
 `Python` `ai-agents` `claude` `claude-code` `cloud-security` `cybersecurity`
 
-⭐ 3.5k • 🔱 348 • 22h ago
+⭐ 3.5k • 🔱 349 • 23h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-20T17:09:49.162601+00:00'
+updated: '2026-03-20T18:01:14.899289+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
+- videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 20, 2026 at 17:09 UTC  
+**Last Updated:** March 20, 2026 at 18:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1391.67B
+**Market Cap:** $1396.16B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--44.9%
+-44.6%
 
 **All-Time Low:** $67.81
-+102415.9%
++102982.1%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Abra Financial Holdings, Inc. CEO
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ Abra Financial Holdings, Inc. CEO
 
 North Carolina is moving to become one of the first states to officially hold Bitcoin as part of its treasury reserves. The bill (HB 92) would allow the state treasurer to invest up to 10% of certain public funds in Bitcoin. These reserves typically consist of US Treasury bonds
 
-3h ago
+4h ago
 
 ---
 
@@ -105,7 +105,7 @@ North Carolina is moving to become one of the first states to officially hold Bi
 
 Is anybody else impressed by the stability of the price in the last month considering the state of the world? If the cycle is real (it's mostly followed it, what, 4 times now? Not exactly a substantial amount of data points... but it is a pattern nonetheless) then it's mildly interesting that it hasn't dropped further faster... yet. And considering the conflicts/wars and the state of the market and oil prices, and gold falling... yet through all this in the past month it has been steady around 70k plus or minus a bit. Maybe all this was "priced in" from before the last month, but if that were the case, amid the bear period of the "4 year cycle" AND the war, I'd have expected the "price in" to be more damaging. Just some commute-thoughts I had... open for discussion.
 
-4h ago
+5h ago
 
 ---
 
@@ -121,7 +121,7 @@ This question is directed at those who exclusively hold Bitcoin. How do you main
 
 The SEC’s interpretation on crypto assets is just the beginning and serves as a bridge while Congress works to advance market structure legislation. Our rules must be clear enough to guide markets, flexible enough to accommodate innovation, and firm enough to protect investors. https://x.com/SECPaulSAtkins/status/2034676128317661351
 
-17h ago
+18h ago
 
 ---
 
@@ -129,7 +129,7 @@ The SEC’s interpretation on crypto assets is just the beginning and serves as 
 
 Back in September I got absolutely wrecked with some ridiculous margin trades, lost a massive chunk of change No point crying over spilled milk though right Strategy now is simple - just keep stacking sats through regular buys and forget about it Bitcoin crashing? mate I'm loving every minute of it, more coins for less cash so I'm cranking up my daily buys These prices are a gift if you ask me
 
-10h ago
+11h ago
 
 ---
 
@@ -137,7 +137,7 @@ Back in September I got absolutely wrecked with some ridiculous margin trades, l
 
 learnt from experience, dca is just the answer, suit your self! happy stacking
 
-7h ago
+8h ago
 
 ---
 
@@ -163,7 +163,7 @@ BTQ Technologies has launched the first working BIP 360 implementation on its Bi
 
 The bitcoin address initially received the 2,100 BTC on July 4, 2012, when that amount was worth just $13,685.
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -171,13 +171,13 @@ The Block • 5h ago
 
 Oil prices slipped as major economies announced joint efforts to stabilize energy markets.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
 **[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqcO4VYaPKmoY8jG-uGI2QmTdE_DWVnsiYS7VxG3KxTpMboENgYvaxna&gaa_ts=69bd82c1&gaa_sig=H_1DaGxtYQg8ORYgHfZlQOH6DrhnUsV1PCEGNGTkKG-0aK0bPVGsF8S3aSpsDzklfiSUebVmNixVPLnH4IGqKA%3D%3D)**
 
-MarketWatch • 3h ago
+MarketWatch • 4h ago
 
 ---
 
@@ -201,7 +201,7 @@ Yahoo Finance • 2d ago
 
 Is your favorite cryptocurrency a security or a commodity? Federal regulators just made the distinction a lot clearer. Yes, it matters.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -223,13 +223,13 @@ Barron's • 1d ago
 
 Bitcoin stabilized after a 19% drawdown as futures leverage cooled, options demand for downside protection hit cycle highs, and miner selling stayed contained.
 
-VanEck • 18h ago
+VanEck • 19h ago
 
 ---
 
 **[Bitcoin Holding at $70,000 as Iran War Stokes Inflation Concerns](https://www.bloomberg.com/news/articles/2026-03-20/bitcoin-holding-at-70-000-as-iran-war-stokes-inflation-concerns)**
 
-Bloomberg.com • 33m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -247,7 +247,7 @@ Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in
 
 **[Bitcoin, XRP Fall in a Bad Week for Cryptos](https://news.ycombinator.com/item?id=47453548)**
 
-⬆️ 2 • 💬 0 • 4h ago • [barrons.com](https://www.barrons.com/articles/bitcoin-price-xrp-etheruem-crypto-sec-nasdaq-2e2f8254)
+⬆️ 2 • 💬 0 • 5h ago • [barrons.com](https://www.barrons.com/articles/bitcoin-price-xrp-etheruem-crypto-sec-nasdaq-2e2f8254)
 
 ---
 
@@ -291,7 +291,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 6K • 👍 458 • 💬 34 • ⏱️ 5:05 • 8h ago
+👁️ 8K • 👍 530 • 💬 35 • ⏱️ 5:05 • 9h ago
 
 ---
 
@@ -301,37 +301,7 @@ Iran, Saudi Warning on oil, QQQ, Tesla, Bitcoin, Solana, and more! BITUNIX TRADE
 
 📺 Lark Davis
 
-👁️ 7K • 👍 479 • 💬 52 • ⏱️ 13:46 • 6h ago
-
----
-
-**[Bitcoin Live Trading: $70K Hold or Total Collapse?! EP1943](https://www.youtube.com/watch?v=j2nRY1lAR0E)**
-
-Bitcoin Vegas 2026: https://fxo.co/JAmn Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ...
-
-📺 Crypto Lifer
-
-👁️ 2K • 👍 319 • 3h ago
-
----
-
-**[Bitcoin: The Bear Market Blues](https://www.youtube.com/watch?v=jiehja20gFE)**
-
-A classic case of the bear market blues for Bitcoin. Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries: ...
-
-📺 Benjamin Cowen
-
-👁️ 35K • 👍 3K • 💬 156 • ⏱️ 11:38 • 12h ago
-
----
-
-**[Saylor Just Hit a Massive Bitcoin Milestone! (Full Report)](https://www.youtube.com/watch?v=NfcCzgtibtY)**
-
-While retail panic sells, one entity is aggressively accumulating Bitcoin at a historic pace. Michael Saylor is racing toward 1 million ...
-
-📺 Simply Bitcoin
-
-👁️ 20K • 👍 1K • 💬 105 • ⏱️ 13:53 • 1d ago
+👁️ 10K • 👍 558 • 💬 57 • ⏱️ 13:46 • 7h ago
 
 ---
 
@@ -341,7 +311,47 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 150 • 💬 7 • ⏱️ 18:54 • 23h ago
+👁️ 4K • 👍 154 • 💬 7 • ⏱️ 18:54 • 1d ago
+
+---
+
+**[Bitcoin: The Bear Market Blues](https://www.youtube.com/watch?v=jiehja20gFE)**
+
+A classic case of the bear market blues for Bitcoin. Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries: ...
+
+📺 Benjamin Cowen
+
+👁️ 42K • 👍 3K • 💬 165 • ⏱️ 11:38 • 13h ago
+
+---
+
+**[🚨 BITCOIN: IT&#39;S NOW OR NEVER!!!!!! (Btc holders watch this NOW!!!!!)](https://www.youtube.com/watch?v=cPrO9yr-s9E)**
+
+Bybit $30'000 Deposit Bonus [NEW ] http://bit.ly/3JhXtNi (click here) Register on Phemex **$6000 Deposit Bonus** ...
+
+📺 Crypto Anup
+
+👁️ 2K • 👍 181 • 💬 137 • ⏱️ 6:35 • 11h ago
+
+---
+
+**[Saylor Just Hit a Massive Bitcoin Milestone! (Full Report)](https://www.youtube.com/watch?v=NfcCzgtibtY)**
+
+While retail panic sells, one entity is aggressively accumulating Bitcoin at a historic pace. Michael Saylor is racing toward 1 million ...
+
+📺 Simply Bitcoin
+
+👁️ 20K • 👍 1K • 💬 106 • ⏱️ 13:53 • 1d ago
+
+---
+
+**[BITCOIN: STOCKS COLLAPSING SO FAST.... ENERGY CRISIS 👀👀](https://www.youtube.com/watch?v=3WlNn36wtxc)**
+
+FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
+
+📺 Ivan on Tech
+
+👁️ 13K • 👍 978 • 💬 46 • ⏱️ 49:42 • 7h ago
 
 ---
 
@@ -351,37 +361,27 @@ Something strange is happening in Bitcoin. While people debate if Bitcoin matter
 
 📺 The Exit Manual
 
-👁️ 25K • 👍 2K • 💬 353 • ⏱️ 14:53 • 21h ago
+👁️ 27K • 👍 2K • 💬 363 • ⏱️ 14:53 • 22h ago
 
 ---
 
-**[BITCOIN WILL BOTTOM HERE... *don&#39;t miss*](https://www.youtube.com/watch?v=clBrxbfonvc)**
+**[❌ No Quería Grabar Este Video de Bitcoin (Te Explico TODO)](https://www.youtube.com/watch?v=ae7dIIj2Jfk)**
 
-WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $25 ...
+Bitcoin y Cripto están bastante j*didos en el medio plazo. En este video te explico las consecuencias de TODO. Únete a mi ...
 
-📺 Crypto Rover
+📺 Nacho IC
 
-👁️ 8K • 👍 572 • 💬 199 • ⏱️ 8:48 • 12h ago
-
----
-
-**[Is It Safe To Buy Crypto Now? Bitcoin Update](https://www.youtube.com/watch?v=p1J354RJq_c)**
-
-Is the Bitcoin pullback finally over, or is this just another setup before the next move down? In this video, Sheldon breaks down the ...
-
-📺 Crypto Banter
-
-👁️ 5K • 👍 352 • 💬 8 • ⏱️ 8:12 • 8h ago
+👁️ 13K • 👍 2K • 💬 43 • ⏱️ 16:16 • 6h ago
 
 ---
 
-**[BITCOIN... THINGS ARE ESCALATING…](https://www.youtube.com/watch?v=JfNQBvjTsyY)**
+**[A Massive Bitcoin Bull Case Is Forming](https://www.youtube.com/watch?v=skohgb8JyWI)**
 
-My Private Group: http://t.me/stackerscircle My Trading Strategies: 1. Sign Up To Pionex https://bit.ly/3AhN6sw 2. Claim ...
+Bill Barhydt is the founder and CEO of Abra and a longtime leader in digital assets and crypto wealth management. In this ...
 
-📺 Satoshi Stacker
+📺 Anthony Pompliano
 
-👁️ 6K • 👍 374 • 💬 37 • ⏱️ 12:54 • 6h ago
+👁️ 25K • 👍 975 • 💬 26 • ⏱️ 37:41 • 1d ago
 
 ---
 
