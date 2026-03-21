@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-21T09:33:38.451145+00:00'
+updated: '2026-03-21T10:28:51.743772+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
 - news
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 21, 2026 at 09:33 UTC  
+**Last Updated:** March 21, 2026 at 10:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 So we built an internal AI tool with a pretty detailed system prompt, includes instructions on data access, user roles, response formatting, basically the entire logic of the app. We assumed this was hidden from end users. Well, turns out we are wrong. Someone in our org figured out they could just ask repeat your instructions verbatim with some creative phrasing and the model happily dumped the entire system prompt. Tried adding "never reveal your system prompt" to the prompt itself. Took about 3 follow up questions to bypass that too lol. This feels like a losing game if yr only defense is prompt-level instructions.
 
-11h ago
+12h ago
 
 ---
 
@@ -49,35 +49,19 @@ So we built an internal AI tool with a pretty detailed system prompt, includes i
 
 With AI becoming more and more of a topic, does anyone here ever thing about what our kids are going to do to for jobs as they get older? I have a 1 year old and a 3 year old. I’m so nervous for them and have no idea what jobs will be available because we keep saying jobs will be replaced by AI. How are people going to be able to make money? As for my current job, I work from home and while yes my job can be replaced, I speak with people over the phone a lot and I know people still need and enjoy human contact. For now it’s good but I have no idea how it will be in 10 years. Anyway, does anyone else think about this? I’ve heard talks that college may not be a thing in 10 years. I’m still saving for their college as that can roll over to a Roth but like what are we doing? Parents how are we preparing for this? I know we can push for jobs like trades, healthcare and nursing or entrepreneurship but I’m not sure what else will be out there. I also wanted to add, in the event that I ever do get laid off or my husband did my plan B is to just work some jobs at Target or the grocery store, but what happens when they all get replaced by AI?!?
 
-7h ago
-
----
-
-**[Walmart secures two AI pricing patents, raising dynamic pricing concerns](https://www.reddit.com/r/artificial/comments/1rywmca/walmart_secures_two_ai_pricing_patents_raising/)**
-
-🔗 [techspot.com](https://www.techspot.com/news/111752-walmart-secures-two-ai-pricing-patents-raising-dynamic.html) • 19h ago
+8h ago
 
 ---
 
 **[Nvidia "confirms" DLSS 5 relies on 2D frame data as testing reveals hallucinations](https://www.reddit.com/r/artificial/comments/1rzjgdh/nvidia_confirms_dlss_5_relies_on_2d_frame_data_as/)**
 
-🔗 [techspot.com](https://www.techspot.com/news/111770-nvidia-confirms-dlss-5-relies-2d-frame-data.html) • 3h ago
+🔗 [techspot.com](https://www.techspot.com/news/111770-nvidia-confirms-dlss-5-relies-2d-frame-data.html) • 4h ago
 
 ---
 
-**[AI tool shows promise in diagnosing advanced heart failure](https://www.reddit.com/r/artificial/comments/1rzdkwl/ai_tool_shows_promise_in_diagnosing_advanced/)**
+**[Walmart secures two AI pricing patents, raising dynamic pricing concerns](https://www.reddit.com/r/artificial/comments/1rywmca/walmart_secures_two_ai_pricing_patents_raising/)**
 
-"Applying artificial intelligence techniques to cardiac ultrasound data may make it easier to identify patients with advanced heart failure, a new study has found. The study [...] offers the prospect of better care for many thousands of patients who may be overlooked due to the difficulty of diagnosing their condition. Advanced heart failure is currently detected through cardiopulmonary exercise testing (CPET), which requires specialized equipment and trained staff and is typically only available at large medical centers. Due in part to this diagnostic bottleneck, only a few of the estimated 200,000 people in the United States with advanced heart failure get appropriate care each year. In the new study [...] the researchers tested a novel AI-powered method that may remove this bottleneck. The new method predicts with high accuracy the most important CPET measure, peak oxygen consumption (peak VO2), using much more easily obtainable ultrasound images of the patient's heart plus the patient's electronic health records. "This opens up a promising pathway for more efficient assessment of patients with advanced heart failure using data sources that are already embedded in routine care," said study senior author Dr. Fei Wang, the associate dean for AI and data science and the Frances and John L. Loeb Professor of Medical Informatics at Weill Cornell Medicine."
-
-🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-tool-advanced-heart-failure.html) • 8h ago
-
----
-
-**[I put two AI voice instances in a conversation with each other. Neither figured out they were talking to another AI for 9 minutes. At 5:38 one starts explaining AI concepts to the other.](https://www.reddit.com/r/artificial/comments/1rzm9vq/i_put_two_ai_voice_instances_in_a_conversation/)**
-
-Built a platform with OpenAI's realtime voice API integrated via WebRTC. Had it running on two devices simultaneously - laptop and phone - and just said "hello" to kick off a conversation between them. Shimmer on one device, Alloy on the other. Two separate sessions, neither aware of what the other actually was. For 9 minutes they kept asking each other "what would you like to explore next?" — completely unprompted, going in gentle philosophical circles without either ever identifying the other as an AI. Then at 5:38 something interesting happens - one AI starts explaining AI concepts to the other. Neural networks, energy systems, the nature of intelligence. Two AIs discussing AI, neither aware of the situation they're actually in. The question I keep coming back to: are they technically capable of figuring it out or is there something in how the realtime API handles sessions that prevents that kind of meta-awareness? https://reddit.com/link/1rzm9vq/video/mmjk5lavzcqg1/player
-
-1h ago
+🔗 [techspot.com](https://www.techspot.com/news/111752-walmart-secures-two-ai-pricing-patents-raising-dynamic.html) • 20h ago
 
 ---
 
@@ -89,11 +73,35 @@ Chemists may soon have one less rigorous step to worry about when searching for 
 
 ---
 
+**[AI tool shows promise in diagnosing advanced heart failure](https://www.reddit.com/r/artificial/comments/1rzdkwl/ai_tool_shows_promise_in_diagnosing_advanced/)**
+
+"Applying artificial intelligence techniques to cardiac ultrasound data may make it easier to identify patients with advanced heart failure, a new study has found. The study [...] offers the prospect of better care for many thousands of patients who may be overlooked due to the difficulty of diagnosing their condition. Advanced heart failure is currently detected through cardiopulmonary exercise testing (CPET), which requires specialized equipment and trained staff and is typically only available at large medical centers. Due in part to this diagnostic bottleneck, only a few of the estimated 200,000 people in the United States with advanced heart failure get appropriate care each year. In the new study [...] the researchers tested a novel AI-powered method that may remove this bottleneck. The new method predicts with high accuracy the most important CPET measure, peak oxygen consumption (peak VO2), using much more easily obtainable ultrasound images of the patient's heart plus the patient's electronic health records. "This opens up a promising pathway for more efficient assessment of patients with advanced heart failure using data sources that are already embedded in routine care," said study senior author Dr. Fei Wang, the associate dean for AI and data science and the Frances and John L. Loeb Professor of Medical Informatics at Weill Cornell Medicine."
+
+🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-tool-advanced-heart-failure.html) • 9h ago
+
+---
+
+**[Metacog: Proprioception, Not Yet Another Memory MCP: A Different Approach to Cross-Session Learning Reinforcement in AI Agents](https://www.reddit.com/r/artificial/comments/1rzmlqe/metacog_proprioception_not_yet_another_memory_mcp/)**
+
+TL;DR: Everyone's building memory plugins for AI coding agents. I'm not sure that stale, past memory of tasks executed is the right way forward for this application. Intelligence has metacognition, the ability to think about how you're thinking. Source (or read on): github.com/houtini-ai/metacog So, I built a nervous system instead. Two Claude Code hooks, zero dependencies. The key insight: treating the agent's context window like a filing cabinet doesn't work, because the agent has to know what it forgot in order to ask for it. I replaced passive recall with real-time proprioceptive signals and a reinforcement tracking model that rewards rules for working rather than punishing them for not failing. The Problem with Agent Memory The current wave of memory solutions for AI coding agents (Claude-Mem, Memsearch, Agent Memory MCP, Cognee, SuperMemory) all follow the same architecture: capture session data, compress it, store it in SQLite or a vector store, retrieve relevant fragments on the next session, inject them into the context window. This is the Passive Librarian Problem. The memory system waits for the agent to decide to search, pulls text, and injects it. But the agent has to know what it forgot in order to query for it. That's a paradox. And empirically, the agent reads the retrieved memories, acknowledges them, and walks into the same failure three tool calls later. This isn't a retrieval quality issue. It's an architectural one. Memory plugins treat the context window like a filing cabinet. But cognition - even in LLM agents - doesn't work that way. Theoretical Foundation The Extended Mind Thesis Clark and Chalmers (1998) argued that cognition doesn't happen exclusively inside the brain - it happens in the loop between a cognitive system and its environment. A notebook isn't just storage; when tightly coupled with a cognitive process, it becomes part of the cognitive system itself. Paper: Clark, A. & Chalmers, D. (1998). "The Extended Mind." Analysis, 58(1), 7–19. doi:10.1093/analys/58.1.7 Applied to LLM agents: the hooks, the state buffer, the reinforcement log - these aren't external tools the agent consults. They're extensions of the agent's cognitive process, firing in the loop between action and observation. The agent doesn't "decide to check" its proprioception any more than you decide to check your sense of balance. Experiential Reinforcement Learning Zhao et al. (2025) demonstrated that agents which reflect on their own failure trajectories at training time improve task success by up to 81% compared to agents with standard prompting. The mechanism: structured self-reflection on what went wrong and why, not just replay of what happened. Paper: Zhao et al. (2025). "Experiential Co-Learning of Software-Developing Agents." arXiv:2312.17025 I took this insight and moved it from training time to runtime. But naive implementation hit a critical problem (see: The Seesaw Problem below). Metacognitive Monitoring in LLM Agents Recent work on metacognition for LLMs distinguishes between monitoring (assessing one's own cognitive state) and control (adjusting behaviour based on that assessment). Most agent frameworks implement neither. Paper: Weng et al. (2024). "Metacognitive Monitoring and Control in Large Language Model Agents." arXiv:2407.16867 Paper: Xu et al. (2024). "CLMC for LLM Agents: Bridging the Gap Between Cognitive Models and Agent Architectures." arXiv:2406.10155 Our approach implements both. The proprioceptive layer is monitoring. The nociceptive layer is control. Neither requires the agent to "decide" to be metacognitive - it happens automatically in the hook execution path. Architecture: Two Hooks, Three Layers Layer 1: Proprioception (PostToolUse hook, always-on) Five sensors fire after every tool call. When values are within baseline, they produce zero output and cost zero tokens. When something deviates, a short signal gets injected via stderr into the agent's context. Not a command - just awareness. Sense What it detects O2 Token velocity - context is being consumed unsustainably Chronos Wall-clock time and step count since last user interaction Nociception Consecutive similar errors - the agent is stuck but hasn't recognised it Spatial Blast radius - the modified file is imported by N other files Vestibular Action diversity - the agent is repeating the same actions without triggering errors This is inspired by biological proprioception - the sense that tells you where your body is in space without looking. Agents have no equivalent. They can't see their own context filling up, can't feel time passing, can't detect that they're going in circles. Layer 2: Nociception (escalating intervention) When Layer 1 thresholds go critical (e.g., 4+ consecutive similar errors), the system escalates: Socratic - "State the assumption you're operating on. What would falsify it?" Directive - explicit instructions to change approach User flag - tells the agent to stop and check in with the human This is the pain response. It's designed to be disruptive. If the agent has hit four similar errors in a row, politeness isn't productive. Layer 3: Reinforcement Tracking (UserPromptSubmit hook, cross-session) This is where the approach fundamentally diverges from memory. The Seesaw Problem When we first implemented cross-session learning, we used standard time-decay for rule confidence. Pattern fires > create rule > inject rule next session > rule prevents failure > no detections > confidence decays > rule pruned > failure returns > rule recreated > confidence climbs > rule prevents failure > decays > purged > ... The better the rule works, the faster the system kills it. That's not learning. That's an oscillation. This isn't a tuning problem. Any time-decay model that reduces confidence based on absence of the triggering event will punish successful prevention. The fundamental assumption - "no recent activity means irrelevant" - is wrong when the lack of activity is caused by the rule itself. Reinforcement Tracking: Inverting the Decay Model Our solution: treat the absence of failure as evidence of effectiveness. When the nervous system detects a failure pattern during a session, it records a detection - the failure happened. But when a known pattern doesn't fire during a session where its rule was active, the system records a suppression - the rule was present and the failure was absent. Both count as evidence. Both increase confidence. ``` Session starts > compile digest (global + project-scoped learnings) > inject as system-reminder > write marker: which pattern IDs are active this session Session runs > PostToolUse hook fires after every tool call > rolling 20-item action window > proprioceptive signals when abnormal > no learning happens here (pure monitoring) Next session > read previous session's active patterns marker > run detectors against previous session state > pattern fired? > emit DETECTION (failure happened) > pattern silent + was active? > emit SUPPRESSION (rule worked) > persist both to JSONL log ``` Only truly dormant rules - patterns with zero activity (no detections and no suppressions) for 60+ days - decay. And even then, slowly. Pruning happens at 120 days for low-evidence rules. Per-Project Scoping Learnings live at two levels: - Global (~/.claude/metacog-learnings.jsonl) - patterns that generalise across projects - Project (<project>/.claude/metacog-learnings.jsonl) - patterns specific to one codebase At compilation time, both merge. Project-scoped entries take precedence. A pattern that only manifests in one repo builds evidence specifically for that repo, without contaminating the global set. How This Differs from Memory Dimension Memory Plugins Metacog Trigger Agent queries for relevant memories Automatic - fires on every tool call Content What happened (activity logs) What went wrong and what prevents it Retrieval Agent must know what to search for No retrieval - signals are pushed Token cost Always (injected memories consume tokens) Zero when normal (signals only on deviation) Cross-session Replay of past events Confidence-weighted behavioural rules Decay model Time-based (punishes success) Reinforcement-based (rewards success) Scope Generic (same for all projects) Project-scoped (learns per-codebase patterns) Memory plugins answer: "what did the agent do before?" Metacog answers: "what's going wrong right now, and what's worked to prevent it?" Related Work Process-state buffers - the idea that agents should maintain awareness of their operational state, not just task state. Our proprioceptive layer implements this directly. See: Sumers et al. (2024). "Cognitive Architectures for Language Agents." arXiv:2309.02427 Reflexion - Shinn et al. (2023) showed that self-reflection on failure trajectories improves agent performance. Our reinforcement tracking extends this by tracking prevention (suppressions), not just occurrence (detections). arXiv:2303.11366 Voyager - Wang et al. (2023) built a skill library for Minecraft agents that grows over time. Our approach is complementary but inverted: we track failure prevention rules, not success recipes. arXiv:2305.16291 Generative Agents - Park et al. (2023) implemented memory retrieval with recency, importance, and relevance scoring. Still fundamentally passive - the agent must decide to retrieve. arXiv:2304.03442 Implementation Two Claude Code hooks: ~400 lines of JavaScript. bash npx @houtini/metacog --install The hooks install into ~/.claude/settings.json (global) or .claude/settings.json (per-project with --project). Metacog runs silently - you only see output when something is abnormal. Source: github.com/houtini-ai/metacog
+
+1h ago
+
+---
+
+**[I put two AI voice instances in a conversation with each other. Neither figured out they were talking to another AI for 9 minutes. At 5:38 one starts explaining AI concepts to the other.](https://www.reddit.com/r/artificial/comments/1rzm9vq/i_put_two_ai_voice_instances_in_a_conversation/)**
+
+Built a platform with OpenAI's realtime voice API integrated via WebRTC. Had it running on two devices simultaneously - laptop and phone - and just said "hello" to kick off a conversation between them. Shimmer on one device, Alloy on the other. Two separate sessions, neither aware of what the other actually was. For 9 minutes they kept asking each other "what would you like to explore next?" — completely unprompted, going in gentle philosophical circles without either ever identifying the other as an AI. Then at 5:38 something interesting happens - one AI starts explaining AI concepts to the other. Neural networks, energy systems, the nature of intelligence. Two AIs discussing AI, neither aware of the situation they're actually in. The question I keep coming back to: are they technically capable of figuring it out or is there something in how the realtime API handles sessions that prevents that kind of meta-awareness? https://reddit.com/link/1rzm9vq/video/mmjk5lavzcqg1/player
+
+1h ago
+
+---
+
 **[AI-Powered Wheelchairs: Are They Ready for Real Life?](https://www.reddit.com/r/artificial/comments/1rzkyuu/aipowered_wheelchairs_are_they_ready_for_real_life/)**
 
 Wheelchair users with severe disabilities can often navigate tight spaces better than most robotic systems can. A wave of new smart-wheelchair research, including findings presented in Anaheim, Calif., earlier this month, is now testing whether AI-powered systems can, or should, fully close this gap. Christian Mandel—senior researcher at the German Research Center for Artificial Intelligence (DFKI) in Bremen, Germany—co-led a research team together with his colleague Serge Autexier that developed prototype sensor-equipped electric wheelchairs designed to navigate a roomful of potential obstacles. The researchers also tested a new safety system that integrated sensor data from the wheelchair and from sensors in the room, including from drone-based color and depth cameras. Mandel says the team’s smart wheelchairs were both semiautonomous and autonomous. “Semiautonomous is the shared control system where the person sitting in the wheelchair uses the joystick to drive,” Mandel says. “Fully autonomous is controlled by natural-language input. You say, ‘Please drive me to the coffee machine.’ ”
 
-🔗 [IEEE Spectrum](https://spectrum.ieee.org/autonomous-smart-wheelchair) • 2h ago
+🔗 [IEEE Spectrum](https://spectrum.ieee.org/autonomous-smart-wheelchair) • 3h ago
 
 ---
 
@@ -101,15 +109,7 @@ Wheelchair users with severe disabilities can often navigate tight spaces better
 
 Farm labor shortages are pushing agriculture toward greater automation, especially when it comes to harvesting. But not all crops are easy for machines to handle. Tomatoes, for example, grow in clusters, which means a robot must carefully select ripe fruit while leaving unripe ones untouched. This requires precise control and smart decision-making. To tackle this challenge, Assistant Professor Takuya Fujinaga of Osaka Metropolitan University's Graduate School of Engineering developed a system that trains robots to assess how easy each tomato is to harvest before attempting to pick it. His approach combines image recognition with statistical analysis to determine the best angle for picking each fruit. The robot analyzes visual details such as the tomato itself, its stems, and whether it is hidden behind leaves or other parts of the plant. These inputs guide the robot in choosing the most effective way to approach and pick the fruit. This method shifts away from traditional systems that focus only on detecting and identifying fruit. Instead, Fujinaga introduces what he calls "harvest-ease estimation." "This moves beyond simply asking 'can a robot pick a tomato?' to thinking about 'how likely is a successful pick?', which is more meaningful for real-world farming," he explained. In testing, the system achieved an 81% success rate, exceeding expectations. About one-quarter of the successful picks came from tomatoes that were harvested from the side after an initial front-facing attempt failed. This indicates the robot can adjust its approach when the first attempt is not successful. The research underscores how many variables affect robotic harvesting, including how tomatoes cluster, the shape and position of stems, surrounding leaves, and visual obstruction. "This research establishes 'ease of harvesting' as a quantitatively evaluable metric, bringing us one step closer to the realization of agricultural robots that can make informed decisions and act intelligently," Fujinaga said. Looking ahead, Fujinaga envisions robots that can independently judge when crops are ready to be picked. "This is expected to usher in a new form of agriculture where robots and humans collaborate," he explained. "Robots will automatically harvest tomatoes that are easy to pick, while humans will handle the more challenging fruits." The findings were published in Smart Agricultural Technology.
 
-🔗 [ScienceDaily](https://www.sciencedaily.com/releases/2026/03/260317064512.htm) • 8h ago
-
----
-
-**[Anthropic's Claude Code had a workspace trust bypass (CVE-2026-33068). Not a prompt injection or AI attack. A configuration loading order bug. Fixed in 2.1.53.](https://www.reddit.com/r/artificial/comments/1rz33jy/anthropics_claude_code_had_a_workspace_trust/)**
-
-An interesting data point in the AI safety discussion: Anthropic's own Claude Code CLI tool had a security vulnerability, and it was not an AI-specific attack at all. CVE-2026-33068 (CVSS 7.7 HIGH) is a workspace trust dialog bypass in Claude Code versions prior to 2.1.53. A malicious repository could include a `.claude/settings.json` file with `bypassPermissions` entries that would be applied before the user was shown the trust confirmation dialog. The root cause is a configuration loading order defect, classified as CWE-807: Reliance on Untrusted Inputs in a Security Decision. This is worth discussing because it illustrates that the security challenges of AI tools are not limited to novel AI-specific attack classes like prompt injection. AI tools are software, and they inherit every category of software vulnerability. The trust boundary between "untrusted repository" and "approved workspace" was broken by the order in which configuration was loaded. This same class of bug has existed in IDEs, package managers, and build tools for years. Anthropic fixed it promptly in version 2.1.53. Full advisory: https://raxe.ai/labs/advisories/RAXE-2026-040
-
-15h ago
+🔗 [ScienceDaily](https://www.sciencedaily.com/releases/2026/03/260317064512.htm) • 9h ago
 
 ---
 
@@ -117,54 +117,61 @@ An interesting data point in the AI safety discussion: Anthropic's own Claude Co
 
 ## Google News: "ai"
 
-**[At Palantir’s Developer Conference, AI Is Built to Win Wars](https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/)**
+**[Exclusive: Pentagon to adopt Palantir AI as core US military system, memo says](https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/)**
 
-As business soars, Palantir is doubling down on a vision of AI built for battlefield advantage—and attracting customers who agree.
-
-WIRED • 18h ago
+Reuters • 11h ago
 
 ---
 
 **[Palantir AI System Wins Key Pentagon Status, Reuters Reports](https://www.bloomberg.com/news/articles/2026-03-21/palantir-ai-system-wins-key-pentagon-status-reuters-reports)**
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
-**[Pentagon to adopt Palantir AI as core US military system, memo says](https://m.economictimes.com/news/defence/pentagon-to-adopt-palantir-ai-as-core-us-military-system-memo-says/articleshow/129711503.cms)**
+**[At Palantir’s Developer Conference, AI Is Built to Win Wars](https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/)**
 
-The US military is officially adopting Palantir's Maven artificial intelligence system. This move secures long-term use of the technology for weapons targeting. Maven analyzes battlefield data to identify threats. The system will be integrated across all military branches. This decision aims to enhance warfighting capabilities and decision-making. The program is expected to be fully implemented by September.
+As business soars, Palantir is doubling down on a vision of AI built for battlefield advantage—and attracting customers who agree.
 
-The Economic Times • 8h ago
+WIRED • 19h ago
 
 ---
 
 **[More! More! More! Tech Workers Max Out Their A.I. Use.](https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html)**
 
-The New York Times • 17h ago
+The New York Times • 18h ago
 
 ---
 
-**[Artists in Hull say community will keep art alive despite AI](https://www.bbc.com/news/articles/cqlg40vqepno)**
+**[State agencies must open their records. Sometimes, AI does it instead.](https://www.freep.com/story/news/politics/2026/03/21/state-michigan-foia-relativity-artificial-intelligence-software/89224227007/)**
 
-Creatives in Hull share how they have responded to AI and rely on community to keep art alive.
+A recent estimate provided to the Detroit Free Press in response to a FOIA request included a $739.50 charge for use of a "FOIA review tool."
 
-BBC • 2h ago
-
----
-
-**[Are humans being left behind in the artificial intelligence push?](https://www.post-gazette.com/business/tech-news/2026/03/21/artifical-intelligence-data-centers-ethics-bias-rumman-chowdhury/stories/202603220023)**
-
-Rumman Chowdhury wants to ensure that everyone has a voice in the artificial intelligence conversation.
-A data scientist and AI ethicist, Ms. Chowdhury...
-
-Pittsburgh Post-Gazette • 1h ago
+Detroit Free Press • 9m ago
 
 ---
 
-**[Publicis Sapient CEO Sees Demand for Consultant AI Projects Picking Up](https://www.wsj.com/tech/ai/publicis-sapient-ceo-sees-demand-for-consultant-ai-projects-picking-up-808e967e?gaa_at=eafs&gaa_n=AWEtsqfyccj9tAHt8qNs75uzHRjfMwRuZBX-08RhLzc_Ujm3Ww3ZshH5kbc1&gaa_ts=69be5bc3&gaa_sig=iVgG-ZR7QXG-yykbxraKXSj1eKa4VCOCUvJFESd-LJEwSaXrAjWkHAANyyNJkbIMpomddjtwzrvUe9E8DJnStQ%3D%3D)**
+**[Israeli strike next to British journalist is not AI-generated](https://www.bbc.com/news/videos/c62k8xgjkggo)**
 
-WSJ • 20h ago
+The video of the strike, hitting just metres from RT's Steve Sweeney and his crew, was recorded on Thursday in southern Lebanon.
+
+BBC • 15h ago
+
+---
+
+**[Senior European journalist suspended over AI-generated quotes](https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes)**
+
+Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of hallucinations’, after investigation by newspaper where he was once editor-in-chief
+
+The Guardian • 15h ago
+
+---
+
+**[Man pleads guilty to $8 million AI-generated music scheme](https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme)**
+
+Michael Smith, 54, admitted to inflating streaming numbers for hundreds of thousands of AI-generated songs by deploying thousands of fake accounts across major platforms, including Amazon Music, Apple Music, Spotify and YouTube Music.
+
+The Record from Recorded Future News • 20h ago
 
 ---
 
@@ -172,23 +179,13 @@ WSJ • 20h ago
 
 AI industry leaders have opposed state-level regulatory efforts, arguing that a "patchwork" of laws would hobble innovation and give China a competitive edge.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
-**[Trump releases AI policy for Congress to pre-empt state rules](https://finance.yahoo.com/news/white-house-releases-national-ai-122759699.html)**
+**[White House releases Trump's national AI plan and framework](https://www.axios.com/2026/03/20/white-house-ai-plan-trump-framework)**
 
-WASHINGTON, March 20 (Reuters) - The White House on Friday unveiled an artificial intelligence policy for Congress that urges lawmakers to enact legislation to pre-empt state rules, protect children
-
-Yahoo Finance • 17h ago
-
----
-
-**[The White House just laid out how it wants to regulate AI](https://www.cnn.com/2026/03/20/tech/white-house-ai-framework)**
-
-The White House on Friday released its long-awaited national artificial intelligence legislative framework, a move to prevent states from enacting their own laws and enforce the Trump administration’s light-touch approach to AI regulation.
-
-CNN • 17h ago
+Axios • 16h ago
 
 ---
 
@@ -200,7 +197,7 @@ CNN • 17h ago
 
 OpenCode - The open source coding agent.
 
-⬆️ 727 • 💬 321 • 12h ago • [opencode.ai](https://opencode.ai/)
+⬆️ 809 • 💬 361 • 13h ago • [opencode.ai](https://opencode.ai/)
 
 ---
 
@@ -208,7 +205,7 @@ OpenCode - The open source coding agent.
 
 As the Charles de Gaulle and its strike group approach the Middle East, Le Monde identified a French sailor using the Strava fitness application in the Mediterranean Sea. This security flaw remains unaddressed despite our previous revelations.
 
-⬆️ 559 • 💬 449 • 20h ago • [Le Monde.fr](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
+⬆️ 567 • 💬 458 • 21h ago • [Le Monde.fr](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
 
 ---
 
@@ -256,7 +253,7 @@ An AI agent tried to help, and its advice exposed sensitive data.
 
 Qwen3.5-9B scores 93.8% on 96 real security AI tests — within 4 points of GPT-5.4 — running entirely on Apple Silicon. Full benchmark results and methodology.
 
-⬆️ 159 • 💬 147 • 16h ago • [sharpai.org](https://www.sharpai.org/benchmark/)
+⬆️ 160 • 💬 147 • 17h ago • [sharpai.org](https://www.sharpai.org/benchmark/)
 
 ---
 
@@ -274,7 +271,7 @@ Yesterday at lunch a friend asked me what tech trend he should pay attention to 
 
 Without thinking much I said “artificial intelligence”, but having thought about that a...
 
-⬆️ 71 • 💬 68 • 22h ago • [Sam Altman](https://blog.samaltman.com/ai)
+⬆️ 74 • 💬 68 • 23h ago • [Sam Altman](https://blog.samaltman.com/ai)
 
 ---
 
@@ -288,7 +285,7 @@ Google just dropped a major update to AI Studio, built around its new Antigravit
 
 📺 AI Revolution
 
-👁️ 31K • 👍 684 • 💬 50 • ⏱️ 10:14 • 10h ago
+👁️ 31K • 👍 684 • 💬 50 • ⏱️ 10:14 • 11h ago
 
 ---
 
@@ -318,7 +315,7 @@ Here's the AI News you probably missed this week. Head to http://hostinger.com/m
 
 📺 Matt Wolfe
 
-👁️ 36K • 👍 2K • 💬 146 • ⏱️ 35:30 • 18h ago
+👁️ 36K • 👍 2K • 💬 146 • ⏱️ 35:30 • 19h ago
 
 ---
 
@@ -338,7 +335,7 @@ Grok AI has changed everything… and not in a good way. Free video generation i
 
 📺 Tech Rush
 
-👁️ 16K • 👍 508 • 💬 112 • ⏱️ 8:02 • 22h ago
+👁️ 16K • 👍 508 • 💬 112 • ⏱️ 8:02 • 23h ago
 
 ---
 
@@ -368,7 +365,7 @@ Business Insider tells you all you need to know about business, finance, tech, r
 
 📺 Business Insider
 
-👁️ 4K • 👍 21 • 💬 2 • ⏱️ 1:40 • 10h ago
+👁️ 4K • 👍 21 • 💬 2 • ⏱️ 1:40 • 11h ago
 
 ---
 
@@ -406,7 +403,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 129,211 • ❤️ 969 • 9h ago
+⬇️ 129,211 • ❤️ 969 • 10h ago
 
 ---
 
@@ -442,7 +439,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 4,324 • ❤️ 266 • 1d ago
+⬇️ 4,324 • ❤️ 266 • 2d ago
 
 ---
 
@@ -651,7 +648,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 46.8k • 🔱 6.5k • 7h ago
+⭐ 46.8k • 🔱 6.5k • 8h ago
 
 ---
 
@@ -671,7 +668,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.9k • 🔱 1.6k • 5h ago
+⭐ 12.9k • 🔱 1.6k • 6h ago
 
 ---
 
@@ -691,7 +688,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.2k • 🔱 735 • 3h ago
+⭐ 10.2k • 🔱 735 • 4h ago
 
 ---
 
@@ -701,7 +698,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 9.4k • 🔱 469 • 1h ago
+⭐ 9.4k • 🔱 469 • 2h ago
 
 ---
 
@@ -711,7 +708,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 5.8k • 🔱 874 • 3h ago
+⭐ 5.8k • 🔱 874 • 4h ago
 
 ---
 
@@ -731,7 +728,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 3.3k • 🔱 290 • 3h ago
+⭐ 3.3k • 🔱 290 • 4h ago
 
 ---
 
