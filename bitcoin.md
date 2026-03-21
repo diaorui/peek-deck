@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-21T14:54:35.905298+00:00'
+updated: '2026-03-21T15:27:08.323126+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - social
 - cryptocurrency
 - news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 14:54 UTC  
+**Last Updated:** March 21, 2026 at 15:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -95,7 +95,7 @@ Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perreno
 
 Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Alden's book called Broken Money and read it.
 
-16h ago
+17h ago
 
 ---
 
@@ -103,7 +103,7 @@ Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Al
 
 Holder since 2015. Never soldi. Slowly accumulating. Sometimes daily trading (with alternate results). A lot of "If I did that I wold have earned this much...", and "I should have done that when..." in my mind to keep me busy if I want. Now +50% or -50% in a month has noneffect on me, I simply zoom out. I also convinces two people to buy Bitcoin. Am I officially a veteran? Where Is my badge?😄
 
-4h ago
+5h ago
 
 ---
 
@@ -135,7 +135,7 @@ Abra Financial Holdings, Inc. CEO
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-8h ago
+9h ago
 
 ---
 
@@ -151,7 +151,7 @@ The government relies on this crypto infrastructure for international trade, whi
 
 any insight on the approximate cost to mine 1 bitcoin? I appreciate it varies by miner but average and bands would be helpful any credible charts out there of bitcoin price relative to cost to mine?
 
-2h ago
+3h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Block • 1d ago
 
 This coin is known for being difficult to hold for a reason.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Motley Fool • 1h ago
 
 The market is pessimistic, as these popular digital assets are trading significantly below recent highs.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 3h ago
 
 First-quarter purchases have reached 89,618 BTC so far, the most since fourth-quarter 2024, and the quarter is not yet over.
 
-CoinDesk • 53m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -233,7 +233,7 @@ Barron's • 2d ago
 
 The president and CEO of Strategy said Morgan Stanley’s upcoming bitcoin ETF could unlock as much as $160 billion in demand under a modest portfolio allocation scenario.
 
-Bitcoin Magazine • 20h ago
+Bitcoin Magazine • 21h ago
 
 ---
 
@@ -311,7 +311,7 @@ New report exposes institutions have only just begun dipping their toes into bit
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 300 • 💬 102 • ⏱️ 1:30:42 • 19h ago
+👁️ 7K • 👍 300 • 💬 102 • ⏱️ 1:30:42 • 20h ago
 
 ---
 
@@ -331,7 +331,7 @@ A central bank buying Bitcoin would change everything. Not because of the amount
 
 📺 Tim Talks Finance
 
-👁️ 3K • 👍 145 • 💬 27 • ⏱️ 18:40 • 15h ago
+👁️ 3K • 👍 145 • 💬 27 • ⏱️ 18:40 • 16h ago
 
 ---
 
@@ -351,7 +351,7 @@ Why 0.21 Bitcoin Is The Mathematical Tipping Point (5-Year Blueprint) There will
 
 📺 Brad Long
 
-👁️ 1K • 👍 83 • 💬 42 • ⏱️ 12:32 • 18h ago
+👁️ 1K • 👍 83 • 💬 42 • ⏱️ 12:32 • 19h ago
 
 ---
 

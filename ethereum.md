@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-21T14:54:35.912028+00:00'
+updated: '2026-03-21T15:27:08.329285+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - social
 - cryptocurrency
 - news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 14:54 UTC  
+**Last Updated:** March 21, 2026 at 15:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone, I’ve been working on a side project called Blockpeek and just shipped a new update. It’s a blockchain transaction scanner that tries to explain what actually happened in plain English instead of just showing raw hex data. You paste a transaction hash (or upload a screenshot from your wallet/exchange) and it tells you: ∙ What was sent, to who, from who ∙ The USD value at the time ∙ Gas fees in USD ∙ Which chain it was on (auto-detects Ethereum, BSC, Arbitrum, Polygon, Base, Solana, Bitcoin, Tron and more) It’s free, no login required. Would genuinely love feedback — what’s missing, what’s broken, what would make it actually useful for you. blockpeek.io
 
-15h ago
+16h ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Seen some past posts that people had lost their wallets and this might help those people! If you created a wallet with CoinSpace (now Coin Wallet) around early 2021 and your seed phrase generates a completely different address in MetaMask or any standard tool... you're not crazy. The software had a bug. CoinSpace v3.0.7 (and maybe other versions) incorrectly derived wallet addresses from your seed phrase due to two compounding errors in the code. Your seed phrase can be recovered - but not using it directly. the app just used a broken algorithm to turn it into an address, one that no standard wallet tool replicates. CoinWallet is aware of part of the issue and will point you to a derivation path fix if you report it, but that fix alone doesn't work. The recovery script in the repo handles it correctly. I hit this when I needed to recover 1.55 ETH from a wallet I created in Feb 2021. After weeks of forensics I found the bug and wrote a recovery script. Recovery script: https://github.com/RobMulla/coinspace-eth-recovery Full long writeup about my journey: https://robmulla.substack.com/p/how-my-sons-roblox-mod-helped-me If you're affected, and this works for you please let me know! Or if you knew about this already... I'm curious to know if I'm not the only one.
 
-1d ago
+2d ago
 
 ---
 
@@ -210,7 +210,7 @@ TradingView • 1d ago
 
 #FeaturedPost
 
-Business Insider Africa • 23h ago
+Business Insider Africa • 1d ago
 
 ---
 
@@ -260,7 +260,7 @@ BlackRock just launched a staking Ethereum ETF—but is it really a win for inve
 
 📺 Coin Bureau
 
-👁️ 735 • 👍 54 • 💬 8 • ⏱️ 18:11 • 53m ago
+👁️ 735 • 👍 54 • 💬 8 • ⏱️ 18:11 • 1h ago
 
 ---
 
@@ -270,7 +270,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 117 • 💬 5 • ⏱️ 3:56 • 11h ago
+👁️ 1K • 👍 117 • 💬 5 • ⏱️ 3:56 • 12h ago
 
 ---
 
@@ -280,7 +280,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 66 • 👍 7 • 💬 1 • ⏱️ 4:32 • 37m ago
+👁️ 66 • 👍 7 • 💬 1 • ⏱️ 4:32 • 1h ago
 
 ---
 

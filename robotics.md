@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-21T14:54:35.915298+00:00'
+updated: '2026-03-21T15:27:08.332597+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 21, 2026 at 14:54 UTC  
+**Last Updated:** March 21, 2026 at 15:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[You eventually start to realize, no job is safe](https://www.reddit.com/r/robotics/comments/1rzftd8/you_eventually_start_to_realize_no_job_is_safe/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
-1h ago
+2h ago
 
 ---
 
@@ -66,7 +66,7 @@ Don't be surprised if you meet humanoid robots on the streets of Beijing at midn
 
 It's one of the sample tasks I'm planning to demonstrate to the guests of my upcoming conference. ( 120 characters limit bypass )
 
-1h ago
+2h ago
 
 ---
 
@@ -74,7 +74,7 @@ It's one of the sample tasks I'm planning to demonstrate to the guests of my upc
 
 I created this thread to discuss the reviews and scores for the submissions to RSS 2026 in Sydney Australia. Did anyone receive their reviews yet?
 
-4h ago
+5h ago
 
 ---
 
@@ -104,7 +104,7 @@ Copper is an open-source robotics runtime in Rust for building deterministic, ob
 
 Need financial help to attend ROSCon Global 2026 in Toronto?This Sunday, March 22nd, is the last day to apply to our diversity scholarship program! The application is quick and easy and covers all the expenses associated with traveling to ROSCon!
 
-🔗 [roscon.ros.org](https://roscon.ros.org/2026/#diversity-scholars) • 16h ago
+🔗 [roscon.ros.org](https://roscon.ros.org/2026/#diversity-scholars) • 17h ago
 
 ---
 
@@ -148,7 +148,7 @@ The Guardian • 2d ago
 
 It took nature millions of years to create intelligent, adaptive species. Researchers at Northwestern University in Illinois are using AI to evolve robots in minutes. The result is a robot that is agile, highly adaptive, and technically indestructible.
 
-New Atlas • 2h ago
+New Atlas • 3h ago
 
 ---
 
@@ -172,7 +172,7 @@ Crain's Detroit Business • 1d ago
 
 Carbon Robotics names a CFO; Nordstrom gets a VP of AI; and a Microsoft gaming GM goes to Netflix while one of its longtime legal leaders retires.
 
-GeekWire • 23h ago
+GeekWire • 1d ago
 
 ---
 
@@ -188,7 +188,7 @@ Business Insider • 1d ago
 
 The company Twist Robotics has unveiled an updated version of the Obriy Anti-Shahed simulator. The platform’s key focus is the ability to practice scenarios for intercepting long-range drones.Representatives of the […]
 
-Мілітарний • 22h ago
+Мілітарний • 23h ago
 
 ---
 
@@ -212,7 +212,7 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 MachineWorks Studio
 
-👁️ 2.0M • 👍 2K • 💬 24 • ⏱️ 0:06 • 4d ago
+👁️ 2.0M • 👍 2K • 💬 24 • ⏱️ 0:06 • 5d ago
 
 ---
 
