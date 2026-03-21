@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-21T20:53:45.322552+00:00'
+updated: '2026-03-21T21:26:37.016383+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
 - news
+- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 21, 2026 at 20:53 UTC  
+**Last Updated:** March 21, 2026 at 21:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 So we built an internal AI tool with a pretty detailed system prompt, includes instructions on data access, user roles, response formatting, basically the entire logic of the app. We assumed this was hidden from end users. Well, turns out we are wrong. Someone in our org figured out they could just ask repeat your instructions verbatim with some creative phrasing and the model happily dumped the entire system prompt. Tried adding "never reveal your system prompt" to the prompt itself. Took about 3 follow up questions to bypass that too lol. This feels like a losing game if yr only defense is prompt-level instructions.
 
-22h ago
+23h ago
 
 ---
 
@@ -49,7 +49,7 @@ So we built an internal AI tool with a pretty detailed system prompt, includes i
 
 following up on a discussion from earlier a pattern that keeps showing up in real systems: most control happens after execution - retries - state checks - monitoring - idempotency patches but the actual decision to execute is often implicit if the agent can call the tool, the action runs in most other systems we separate: - capability (can call) - authority (allowed to execute) agents usually collapse those into one so the question becomes: where should the actual allow/deny decision live? - inside the agent loop? - inside tool wrappers? - as a centralized policy layer? - somewhere else entirely? or are we all still letting the agent decide and patching things after the fact?
 
-1h ago
+2h ago
 
 ---
 
@@ -57,7 +57,7 @@ following up on a discussion from earlier a pattern that keeps showing up in rea
 
 Growth without people.
 
-🔗 [driscollglobe.com](https://www.driscollglobe.com/p/the-intelligence-curse-is-coming) • 1h ago
+🔗 [driscollglobe.com](https://www.driscollglobe.com/p/the-intelligence-curse-is-coming) • 2h ago
 
 ---
 
@@ -65,7 +65,7 @@ Growth without people.
 
 SysSignal is for people who follow AI + data center infrastructure. It aggregates news across the space and creates a daily summary of the biggest topics, so it’s easier to keep up without bouncing between sites. Mostly built it for myself, but figured others here might get value from it too. If you find feeds that would be useful you can submit them through the website and we can get them added in. Feel free to give any feedback and critiques!
 
-🔗 [syssignal.com](https://syssignal.com/) • 2h ago
+🔗 [syssignal.com](https://syssignal.com/) • 3h ago
 
 ---
 
@@ -73,7 +73,7 @@ SysSignal is for people who follow AI + data center infrastructure. It aggregate
 
 With AI becoming more and more of a topic, does anyone here ever thing about what our kids are going to do to for jobs as they get older? I have a 1 year old and a 3 year old. I’m so nervous for them and have no idea what jobs will be available because we keep saying jobs will be replaced by AI. How are people going to be able to make money? As for my current job, I work from home and while yes my job can be replaced, I speak with people over the phone a lot and I know people still need and enjoy human contact. For now it’s good but I have no idea how it will be in 10 years. Anyway, does anyone else think about this? I’ve heard talks that college may not be a thing in 10 years. I’m still saving for their college as that can roll over to a Roth but like what are we doing? Parents how are we preparing for this? I know we can push for jobs like trades, healthcare and nursing or entrepreneurship but I’m not sure what else will be out there. I also wanted to add, in the event that I ever do get laid off or my husband did my plan B is to just work some jobs at Target or the grocery store, but what happens when they all get replaced by AI?!?
 
-18h ago
+19h ago
 
 ---
 
@@ -93,7 +93,7 @@ With AI becoming more and more of a topic, does anyone here ever thing about wha
 
 Wheelchair users with severe disabilities can often navigate tight spaces better than most robotic systems can. A wave of new smart-wheelchair research, including findings presented in Anaheim, Calif., earlier this month, is now testing whether AI-powered systems can, or should, fully close this gap. Christian Mandel—senior researcher at the German Research Center for Artificial Intelligence (DFKI) in Bremen, Germany—co-led a research team together with his colleague Serge Autexier that developed prototype sensor-equipped electric wheelchairs designed to navigate a roomful of potential obstacles. The researchers also tested a new safety system that integrated sensor data from the wheelchair and from sensors in the room, including from drone-based color and depth cameras. Mandel says the team’s smart wheelchairs were both semiautonomous and autonomous. “Semiautonomous is the shared control system where the person sitting in the wheelchair uses the joystick to drive,” Mandel says. “Fully autonomous is controlled by natural-language input. You say, ‘Please drive me to the coffee machine.’ ”
 
-🔗 [IEEE Spectrum](https://spectrum.ieee.org/autonomous-smart-wheelchair) • 13h ago
+🔗 [IEEE Spectrum](https://spectrum.ieee.org/autonomous-smart-wheelchair) • 14h ago
 
 ---
 
@@ -121,7 +121,7 @@ Chemists may soon have one less rigorous step to worry about when searching for 
 
 At Nvidia's GTC conference this week, CEO Nvidia Jensen Huang dedicated a major part of his keynote to OpenClaw, a technology that didn't exist six months ago.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -135,19 +135,19 @@ Reuters • 21h ago
 
 Gig AI trainers worldwide are selling moments of their lives, including calls and texts, to AI companies for quick cash
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
 **[Where Is Mojtaba Khamenei? Iran Fills the Gap With AI and Voice-Overs](https://www.wsj.com/world/middle-east/where-is-mojtaba-khamenei-iran-fills-the-gap-with-ai-and-voice-overs-912b3827?gaa_at=eafs&gaa_n=AWEtsqfjjtEuKt6tPO_wy4wI21NbUQrxdL56shjwP-E8Idh5wigpWjFLlgQP&gaa_ts=69bf08c0&gaa_sig=ja-_Aa2Acd8YrBfE35uhjDaVE9Y7u6-n5zGSFV-R50xQz39nbNDBEk2OW0zuQBRr8vZmuZtudChOi_EGpY-IFg%3D%3D)**
 
-WSJ • 5h ago
+WSJ • 6h ago
 
 ---
 
 **[A.I. Is Writing Fiction. Publishers Are Unprepared.](https://www.nytimes.com/2026/03/19/books/ai-fiction-shy-girl.html)**
 
-The New York Times • 23h ago
+The New York Times • 1d ago
 
 ---
 
@@ -163,7 +163,7 @@ BBC • 1d ago
 
 One of the first controversies of its kind.
 
-Ars Technica • 23h ago
+Ars Technica • 1d ago
 
 ---
 
@@ -171,7 +171,7 @@ Ars Technica • 23h ago
 
 Zanskar says its AI models have made more geothermal discoveries in three years than the industry found in 30, targeting untapped U.S. energy sources.
 
-Fox Business • 21h ago
+Fox Business • 22h ago
 
 ---
 
@@ -179,7 +179,7 @@ Fox Business • 21h ago
 
 New research from the NeuroLeadership Institute finds fluent AI users share a single cognitive habit — and it has nothing to do with tech skills.
 
-Fortune • 6h ago
+Fortune • 7h ago
 
 ---
 
@@ -199,7 +199,7 @@ WIRED • 1d ago
 
 OpenCode - The open source coding agent.
 
-⬆️ 1162 • 💬 571 • 23h ago • [opencode.ai](https://opencode.ai/)
+⬆️ 1162 • 💬 571 • 1d ago • [opencode.ai](https://opencode.ai/)
 
 ---
 
@@ -245,7 +245,7 @@ Qwen3.5-9B scores 93.8% on 96 real security AI tests — within 4 points of GPT-
 
 **[Be intentional about how AI changes your codebase](https://news.ycombinator.com/item?id=47446373)**
 
-⬆️ 167 • 💬 101 • 1d ago • [aicode.swerdlow.dev](https://aicode.swerdlow.dev)
+⬆️ 167 • 💬 101 • 2d ago • [aicode.swerdlow.dev](https://aicode.swerdlow.dev)
 
 ---
 
@@ -320,7 +320,7 @@ Google just dropped a major update to AI Studio, built around its new Antigravit
 
 📺 AI Revolution
 
-👁️ 43K • 👍 915 • 💬 63 • ⏱️ 10:14 • 21h ago
+👁️ 43K • 👍 915 • 💬 63 • ⏱️ 10:14 • 22h ago
 
 ---
 
@@ -330,7 +330,7 @@ UPDATE! We just put together 2 mega guides for you. Guide #1 shows you exactly h
 
 📺 Chris Koerner on The Koerner Office Podcast
 
-👁️ 76K • 👍 3K • 💬 481 • ⏱️ 30:54 • 21h ago
+👁️ 76K • 👍 3K • 💬 481 • ⏱️ 30:54 • 22h ago
 
 ---
 
@@ -350,7 +350,7 @@ Take your personal data back with Incogni! Use code FADS at the link below and g
 
 📺 Fads
 
-👁️ 18K • 👍 1K • 💬 193 • ⏱️ 12:05 • 23h ago
+👁️ 18K • 👍 1K • 💬 193 • ⏱️ 12:05 • 1d ago
 
 ---
 
@@ -408,7 +408,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 129,211 • ❤️ 992 • 20h ago
+⬇️ 129,211 • ❤️ 992 • 21h ago
 
 ---
 
@@ -651,7 +651,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 47.9k • 🔱 6.6k • 18h ago
+⭐ 47.9k • 🔱 6.6k • 19h ago
 
 ---
 
@@ -691,7 +691,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.2k • 🔱 736 • 14h ago
+⭐ 10.2k • 🔱 736 • 15h ago
 
 ---
 
@@ -701,7 +701,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 9.6k • 🔱 482 • 3h ago
+⭐ 9.6k • 🔱 482 • 4h ago
 
 ---
 
@@ -711,7 +711,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 6.0k • 🔱 906 • 53m ago
+⭐ 6.0k • 🔱 906 • 1h ago
 
 ---
 
@@ -721,7 +721,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `Python` `ai-agents` `claude` `claude-code` `cloud-security` `cybersecurity`
 
-⭐ 3.6k • 🔱 355 • 7h ago
+⭐ 3.6k • 🔱 355 • 8h ago
 
 ---
 
@@ -731,7 +731,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 3.6k • 🔱 308 • 39m ago
+⭐ 3.6k • 🔱 308 • 1h ago
 
 ---
 

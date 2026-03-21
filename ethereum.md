@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-21T20:53:45.336854+00:00'
+updated: '2026-03-21T21:26:37.031483+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 20:53 UTC  
+**Last Updated:** March 21, 2026 at 21:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -88,7 +88,7 @@ Feels like Ethereum DeFi is slowly shifting from “yield” to… actual revenu
 
 Hey everyone, I’ve been working on a side project called Blockpeek and just shipped a new update. It’s a blockchain transaction scanner that tries to explain what actually happened in plain English instead of just showing raw hex data. You paste a transaction hash (or upload a screenshot from your wallet/exchange) and it tells you: ∙ What was sent, to who, from who ∙ The USD value at the time ∙ Gas fees in USD ∙ Which chain it was on (auto-detects Ethereum, BSC, Arbitrum, Polygon, Base, Solana, Bitcoin, Tron and more) It’s free, no login required. Would genuinely love feedback — what’s missing, what’s broken, what would make it actually useful for you. blockpeek.io
 
-21h ago
+22h ago
 
 ---
 
@@ -156,7 +156,7 @@ I'm traveling next month across a few different countries and really want to spe
 
 Ethereum, XRP, and Solana prices remained firm as the broader crypto market hovered slightly above the $70,000 level on renewed optimism.   Ethereum price
 
-CoinGape • 9h ago
+CoinGape • 10h ago
 
 ---
 
@@ -226,7 +226,7 @@ Decrypt • 2d ago
 
 Dubai, UAE, March  20, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto announced a major exchange bridge update that eliminates gas fees an...
 
-markets.businessinsider.com • 20h ago
+markets.businessinsider.com • 21h ago
 
 ---
 
@@ -240,7 +240,7 @@ BlackRock just launched a staking Ethereum ETF—but is it really a win for inve
 
 📺 Coin Bureau
 
-👁️ 8K • 👍 457 • 💬 63 • ⏱️ 18:11 • 6h ago
+👁️ 8K • 👍 457 • 💬 63 • ⏱️ 18:11 • 7h ago
 
 ---
 
@@ -250,7 +250,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 Chad Colby
 
-👁️ 5K • 👍 1K • 4h ago
+👁️ 5K • 👍 1K • 5h ago
 
 ---
 
@@ -280,7 +280,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 119 • 💬 5 • ⏱️ 3:56 • 17h ago
+👁️ 2K • 👍 119 • 💬 5 • ⏱️ 3:56 • 18h ago
 
 ---
 
@@ -290,7 +290,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 252 • 👍 14 • 💬 1 • ⏱️ 5:16 • 10h ago
+👁️ 252 • 👍 14 • 💬 1 • ⏱️ 5:16 • 11h ago
 
 ---
 
@@ -300,7 +300,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 83 • 💬 4 • ⏱️ 4:32 • 6h ago
+👁️ 1K • 👍 83 • 💬 4 • ⏱️ 4:32 • 7h ago
 
 ---
 
@@ -318,7 +318,7 @@ This is all about why the next big crypto crash could be about to hit. Big news 
 
 📺 Investing Made Simple
 
-👁️ 6K • 👍 474 • ⏱️ 11:34 • 6h ago
+👁️ 6K • 👍 474 • ⏱️ 11:34 • 7h ago
 
 ---
 
@@ -328,7 +328,7 @@ ETF OUT FLOW? - Latest Crypto Market News Today & BTC - ETH Update Welcome to Al
 
 📺 AL MAKKAH TECH & BUSINESS HUB
 
-👁️ 440 • 👍 107 • 💬 7 • ⏱️ 11:58 • 1h ago
+👁️ 440 • 👍 107 • 💬 7 • ⏱️ 11:58 • 2h ago
 
 ---
 

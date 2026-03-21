@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-21T20:53:45.330941+00:00'
+updated: '2026-03-21T21:26:37.025199+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 20:53 UTC  
+**Last Updated:** March 21, 2026 at 21:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -95,13 +95,13 @@ Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perreno
 
 An excellent book about all the details, even people who fought the Blocksize war might have missed: https://www.youtube.com/watch?v=6YtS5ZNuuTw And excellent explanation of r/thelightningnetwork: https://www.youtube.com/watch?v=yKdK-7AtAMQ A bonus video. Lyn Alden's Full Broken Money Thesis in under 50min: https://www.youtube.com/watch?v=k3NN_NZOdhY
 
-57m ago
+1h ago
 
 ---
 
 **[Lightning Network might be already moving over $15B/year based on most recent data](https://www.reddit.com/r/Bitcoin/comments/1rztn0r/lightning_network_might_be_already_moving_over/)**
 
-🔗 [X (formerly Twitter)](https://x.com/LightningNewsX/status/2035261125630001359?s=20) • 5h ago
+🔗 [X (formerly Twitter)](https://x.com/LightningNewsX/status/2035261125630001359?s=20) • 6h ago
 
 ---
 
@@ -109,7 +109,7 @@ An excellent book about all the details, even people who fought the Blocksize wa
 
 Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Alden's book called Broken Money and read it.
 
-22h ago
+23h ago
 
 ---
 
@@ -117,7 +117,7 @@ Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Al
 
 Holder since 2015. Never soldi. Slowly accumulating. Sometimes daily trading (with alternate results). A lot of "If I did that I wold have earned this much...", and "I should have done that when..." in my mind to keep me busy if I want. Now +50% or -50% in a month has noneffect on me, I simply zoom out. I also convinces two people to buy Bitcoin. Am I officially a veteran? Where Is my badge?😄
 
-10h ago
+11h ago
 
 ---
 
@@ -125,7 +125,7 @@ Holder since 2015. Never soldi. Slowly accumulating. Sometimes daily trading (wi
 
 hi, just checking in to say hi I am generally a conservative broad index ETF investor for most of my savings but jn recent years have also been buying bitcoin and and now hold 1,1 BTC. I am torn between contirnuing to buy a bit every month or stopping altogether having achieve wholecoinership. I would be interested to know how other stackers approach this
 
-1h ago
+2h ago
 
 ---
 
@@ -133,7 +133,7 @@ hi, just checking in to say hi I am generally a conservative broad index ETF inv
 
 Bitcoin and cryptocurrency explained in a way that's fun and easy to understand.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=Jk7hYothBZw&t=2s) • 3h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=Jk7hYothBZw&t=2s) • 4h ago
 
 ---
 
@@ -161,7 +161,7 @@ Please someone just buy or sell already so the price moves!
 
 First-quarter purchases have reached 89,618 BTC so far, the most since fourth-quarter 2024, and the quarter is not yet over.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 4h ago
 
 Despite stabilizing spot prices, investors remain defensive, with leveraged speculation cooling and realized volatility dropping from 80 to 50, suggesting a cautious market sentiment.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -213,7 +213,7 @@ Bitcoin Magazine • 1d ago
 
 **[White House Quietly Confirms A ‘Major’ Crypto Milestone As Bitcoin Braces For A Huge Price Earthquake](https://www.forbes.com/sites/digital-assets/2026/03/21/white-house-quietly-confirms-a-major-crypto-milestone-as-bitcoin-braces-for-a-huge-price-earthquake/)**
 
-Forbes • 8h ago
+Forbes • 9h ago
 
 ---
 
@@ -227,7 +227,7 @@ Bloomberg.com • 2d ago
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 3h ago
+Polymarket • 4h ago
 
 ---
 
@@ -261,7 +261,7 @@ Seal predictions and decisions with cryptographic proof anchored to Bitcoin. No 
 
 Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 33 chain analysis heuristics. Free, client-side, no tracking.
 
-⬆️ 1 • 💬 0 • 3h ago • [am-i.exposed](https://am-i.exposed/)
+⬆️ 1 • 💬 0 • 4h ago • [am-i.exposed](https://am-i.exposed/)
 
 ---
 
@@ -303,7 +303,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 25K • 👍 1K • 💬 38 • ⏱️ 59:39 • 7h ago
+👁️ 25K • 👍 1K • 💬 38 • ⏱️ 59:39 • 8h ago
 
 ---
 
@@ -363,7 +363,7 @@ A central bank buying Bitcoin would change everything. Not because of the amount
 
 📺 Tim Talks Finance
 
-👁️ 3K • 👍 168 • 💬 38 • ⏱️ 18:40 • 21h ago
+👁️ 3K • 👍 168 • 💬 38 • ⏱️ 18:40 • 22h ago
 
 ---
 
@@ -383,7 +383,7 @@ Ric Edelman gives Jenn Sanasie his Bitcoin prediction if the CLARITY Act passes.
 
 📺 CoinDesk
 
-👁️ 5K • 👍 18 • 💬 3 • ⏱️ 0:19 • 14h ago
+👁️ 5K • 👍 18 • 💬 3 • ⏱️ 0:19 • 15h ago
 
 ---
 
@@ -393,7 +393,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 8K • 👍 440 • 💬 34 • ⏱️ 13:09 • 9h ago
+👁️ 8K • 👍 440 • 💬 34 • ⏱️ 13:09 • 10h ago
 
 ---
 

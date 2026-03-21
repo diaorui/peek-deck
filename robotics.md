@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-21T20:53:45.340018+00:00'
+updated: '2026-03-21T21:26:37.034764+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 21, 2026 at 20:53 UTC  
+**Last Updated:** March 21, 2026 at 21:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
-7h ago
+8h ago
 
 ---
 
 **[Ringbot: A monocycle robot developed by the Robotics and Institute (RAI) that uses internal legs for balance and acrobatic maneuvers](https://www.reddit.com/r/robotics/comments/1rztuum/ringbot_a_monocycle_robot_developed_by_the/)**
 
-5h ago
+6h ago
 
 ---
 
 **[You eventually start to realize, no job is safe](https://www.reddit.com/r/robotics/comments/1rzftd8/you_eventually_start_to_realize_no_job_is_safe/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -56,7 +56,7 @@ From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
 We’re running a pretty heavy autonomous stack on a single edge computer (ROS 2 Jazzy) — multiple high-res cameras, dense LiDARs, and radars all on one machine. We’re starting to hit serious compute + latency limits, especially with intra-process communication and recording. Right now we’re evaluating: Fast DDS Cyclone DDS Zenoh Iceoryx Also, as soon as we start recording with rosbag2, CPU usage spikes hard and we get frame drops across the system. Two questions for folks who’ve pushed ROS 2 hard on a single machine: For high-bandwidth intra-host comms on Jazzy, which RMW has actually given you the best real-world performance? How are you dealing with the rosbag2 overhead? Composable recorder node? Separate process? Or bypassing ROS entirely and logging raw sensor data? For context: we previously ran Humble + CycloneDDS + MCAP and saw similar bottlenecks. Curious what setups are working well in practice.
 
-16m ago
+49m ago
 
 ---
 
@@ -72,7 +72,7 @@ Testing the built-in 3D reconstruction algorithm of the Viobot2 — the result l
 
 It's one of the sample tasks I'm planning to demonstrate to the guests of my upcoming conference. ( 120 characters limit bypass )
 
-7h ago
+8h ago
 
 ---
 
@@ -96,7 +96,7 @@ Don't be surprised if you meet humanoid robots on the streets of Beijing at midn
 
 I want to make an aim-able phone holder with servos/steppers tucked in the base… and I don’t want to reinvent the wheel. Are there any references of this design? (Like a Simpson 3d printer, but simpler and for robot arms)
 
-4m ago
+37m ago
 
 ---
 
@@ -104,7 +104,7 @@ I want to make an aim-able phone holder with servos/steppers tucked in the base�
 
 I created this thread to discuss the reviews and scores for the submissions to RSS 2026 in Sydney Australia. Did anyone receive their reviews yet?
 
-10h ago
+11h ago
 
 ---
 
@@ -156,7 +156,7 @@ CNBC • 1d ago
 
 It took nature millions of years to create intelligent, adaptive species. Researchers at Northwestern University in Illinois are using AI to evolve robots in minutes. The result is a robot that is agile, highly adaptive, and technically indestructible.
 
-New Atlas • 8h ago
+New Atlas • 9h ago
 
 ---
 
@@ -172,7 +172,7 @@ Crain's Detroit • 1d ago
 
 High school students from 31 teams across the US and Taiwan are competing in the FIRST Robotics Central Illinois Regional Competition at Bradley University, where they must design, build, program, and...
 
-Yahoo • 2h ago
+Yahoo • 3h ago
 
 ---
 
@@ -252,7 +252,7 @@ The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrati
 
 📺 DPCcars
 
-👁️ 188K • 👍 2K • 💬 236 • ⏱️ 2:02 • 4d ago
+👁️ 188K • 👍 2K • 💬 236 • ⏱️ 2:02 • 5d ago
 
 ---
 
@@ -262,7 +262,7 @@ War Robots Gameplay: Playing Spear and Atomizer on Ammit - Tier 4 My War Robots 
 
 📺 Manni-Gaming
 
-👁️ 4K • 👍 220 • 💬 36 • ⏱️ 12:20 • 7h ago
+👁️ 4K • 👍 220 • 💬 36 • ⏱️ 12:20 • 8h ago
 
 ---
 
