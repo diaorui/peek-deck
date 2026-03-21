@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-21T18:38:24.780857+00:00'
+updated: '2026-03-21T19:25:23.717286+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 21, 2026 at 18:38 UTC  
+**Last Updated:** March 21, 2026 at 19:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
-5h ago
+6h ago
 
 ---
 
 **[Ringbot: A monocycle robot developed by the Robotics and Institute (RAI) that uses internal legs for balance and acrobatic maneuvers](https://www.reddit.com/r/robotics/comments/1rztuum/ringbot_a_monocycle_robot_developed_by_the/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -56,7 +56,7 @@ From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
 Testing the built-in 3D reconstruction algorithm of the Viobot2 — the result looks good. Has anyone used the Viobot2 for other DIY work? Can anyone share with me?
 
-3h ago
+4h ago
 
 ---
 
@@ -80,13 +80,13 @@ Don't be surprised if you meet humanoid robots on the streets of Beijing at midn
 
 It's one of the sample tasks I'm planning to demonstrate to the guests of my upcoming conference. ( 120 characters limit bypass )
 
-5h ago
+6h ago
 
 ---
 
 **[FINDING THE RIGHT METAPHOR (Edited)](https://www.reddit.com/r/robotics/comments/1rzyd1e/finding_the_right_metaphor_edited/)**
 
-30m ago
+1h ago
 
 ---
 
@@ -94,7 +94,7 @@ It's one of the sample tasks I'm planning to demonstrate to the guests of my upc
 
 I created this thread to discuss the reviews and scores for the submissions to RSS 2026 in Sydney Australia. Did anyone receive their reviews yet?
 
-8h ago
+9h ago
 
 ---
 
@@ -146,7 +146,7 @@ The Guardian • 2d ago
 
 This humanoid robot is learning tennis the same way I did—by playing. Plus a robot horse for the Year of the Fire Horse in this week's robot videos.
 
-IEEE Spectrum • 1h ago
+IEEE Spectrum • 2h ago
 
 ---
 
@@ -162,7 +162,7 @@ CNBC • 1d ago
 
 It took nature millions of years to create intelligent, adaptive species. Researchers at Northwestern University in Illinois are using AI to evolve robots in minutes. The result is a robot that is agile, highly adaptive, and technically indestructible.
 
-New Atlas • 6h ago
+New Atlas • 7h ago
 
 ---
 
@@ -268,7 +268,7 @@ Best Robot Vacuums 2026: justadadapproved.com 3 mistakes that can break your rob
 
 📺 Just A Dad Approved
 
-👁️ 2K • 👍 119 • 💬 18 • ⏱️ 15:33 • 6h ago
+👁️ 2K • 👍 119 • 💬 18 • ⏱️ 15:33 • 7h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-21T18:38:24.771511+00:00'
+updated: '2026-03-21T19:25:23.707967+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- videos
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 18:38 UTC  
+**Last Updated:** March 21, 2026 at 19:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -93,7 +93,7 @@ Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perreno
 
 **[Lightning Network might be already moving over $15B/year based on most recent data](https://www.reddit.com/r/Bitcoin/comments/1rztn0r/lightning_network_might_be_already_moving_over/)**
 
-🔗 [X (formerly Twitter)](https://x.com/LightningNewsX/status/2035261125630001359?s=20) • 3h ago
+🔗 [X (formerly Twitter)](https://x.com/LightningNewsX/status/2035261125630001359?s=20) • 4h ago
 
 ---
 
@@ -101,7 +101,7 @@ Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perreno
 
 Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Alden's book called Broken Money and read it.
 
-20h ago
+21h ago
 
 ---
 
@@ -109,7 +109,7 @@ Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Al
 
 Holder since 2015. Never soldi. Slowly accumulating. Sometimes daily trading (with alternate results). A lot of "If I did that I wold have earned this much...", and "I should have done that when..." in my mind to keep me busy if I want. Now +50% or -50% in a month has noneffect on me, I simply zoom out. I also convinces two people to buy Bitcoin. Am I officially a veteran? Where Is my badge?😄
 
-8h ago
+9h ago
 
 ---
 
@@ -117,7 +117,7 @@ Holder since 2015. Never soldi. Slowly accumulating. Sometimes daily trading (wi
 
 Bitcoin and cryptocurrency explained in a way that's fun and easy to understand.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=Jk7hYothBZw&t=2s) • 1h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=Jk7hYothBZw&t=2s) • 2h ago
 
 ---
 
@@ -125,7 +125,7 @@ Bitcoin and cryptocurrency explained in a way that's fun and easy to understand.
 
 Please someone just buy or sell already so the price moves!
 
-13h ago
+14h ago
 
 ---
 
@@ -133,7 +133,7 @@ Please someone just buy or sell already so the price moves!
 
 any insight on the approximate cost to mine 1 bitcoin? I appreciate it varies by miner but average and bands would be helpful any credible charts out there of bitcoin price relative to cost to mine?
 
-6h ago
+7h ago
 
 ---
 
@@ -149,7 +149,7 @@ Abra Financial Holdings, Inc. CEO
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-12h ago
+13h ago
 
 ---
 
@@ -261,7 +261,7 @@ Seal predictions and decisions with cryptographic proof anchored to Bitcoin. No 
 
 Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 33 chain analysis heuristics. Free, client-side, no tracking.
 
-⬆️ 1 • 💬 0 • 1h ago • [am-i.exposed](https://am-i.exposed/)
+⬆️ 1 • 💬 0 • 2h ago • [am-i.exposed](https://am-i.exposed/)
 
 ---
 
@@ -323,7 +323,7 @@ New report exposes institutions have only just begun dipping their toes into bit
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 313 • 💬 47 • ⏱️ 1:30:42 • 23h ago
+👁️ 7K • 👍 313 • 💬 47 • ⏱️ 1:30:42 • 1d ago
 
 ---
 
@@ -333,7 +333,7 @@ A central bank buying Bitcoin would change everything. Not because of the amount
 
 📺 Tim Talks Finance
 
-👁️ 3K • 👍 164 • 💬 36 • ⏱️ 18:40 • 19h ago
+👁️ 3K • 👍 164 • 💬 36 • ⏱️ 18:40 • 20h ago
 
 ---
 
@@ -373,7 +373,7 @@ Ric Edelman gives Jenn Sanasie his Bitcoin prediction if the CLARITY Act passes.
 
 📺 CoinDesk
 
-👁️ 4K • 👍 17 • 💬 2 • ⏱️ 0:19 • 12h ago
+👁️ 4K • 👍 17 • 💬 2 • ⏱️ 0:19 • 13h ago
 
 ---
 
@@ -383,7 +383,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 7K • 👍 413 • 💬 33 • ⏱️ 13:09 • 7h ago
+👁️ 7K • 👍 413 • 💬 33 • ⏱️ 13:09 • 8h ago
 
 ---
 
@@ -393,7 +393,7 @@ Connect with Rich on Instagram: @rich_somers Interested in investing with Somers
 
 📺 Rich Somers
 
-👁️ 40K • 👍 491 • 💬 28 • ⏱️ 0:41 • 2d ago
+👁️ 40K • 👍 491 • 💬 28 • ⏱️ 0:41 • 3d ago
 
 ---
 
