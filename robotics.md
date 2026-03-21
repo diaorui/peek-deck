@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-21T08:35:40.381287+00:00'
+updated: '2026-03-21T09:33:38.469033+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 21, 2026 at 08:35 UTC  
+**Last Updated:** March 21, 2026 at 09:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[You eventually start to realize, no job is safe](https://www.reddit.com/r/robotics/comments/1rzftd8/you_eventually_start_to_realize_no_job_is_safe/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Showcasing the newest version (v20) of my hand & wrist combo! Same as the last version, it's a combination of direct- and tendon-driven actuation, still with 19 joints and 10 active DOFs. It has independent finger flexion, a 3-DOF thumb, linked finger splay, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist which measures joint position (at the motor output), current, and temperature. And all the movements were programmed with custom C#/C++ software. Improved from the last version, the base thumb joints were switched to direct drive and much beefier motors were swapped in for the wrist joints - improving strength and repeatability under heavier loads. Despite these new motors though, the form factor remains nearly identical to v19, spare a few millimeters of thickness and height. Some more minor changes: (1) ASA and carbon fiber filaments replaced basic PLA to improve rigidity and strength, (2) the power input was switched to an XT30 connector to accommodate the more power-hungry motors, and (3) better filtering and chips to reduce current and position signal noise. Still making incremental improvements here and there, but happy to answer any questions and hear your thoughts!
 
-16h ago
+17h ago
 
 ---
 
@@ -50,7 +50,7 @@ Showcasing the newest version (v20) of my hand & wrist combo! Same as the last v
 
 Don't be surprised if you meet humanoid robots on the streets of Beijing at midnight. They are training for their half-marathon! Over 20 teams joined the first trial run. The official race will be held on April 19.
 
-15h ago
+16h ago
 
 ---
 
@@ -58,13 +58,13 @@ Don't be surprised if you meet humanoid robots on the streets of Beijing at midn
 
 From Physical Intelligence on 𝕏 (thread with multiple videos): https://x.com/physical_int/status/2034728220818641363 Technical Blog post: https://www.pi.website/research/rlt
 
-21h ago
+22h ago
 
 ---
 
 **[Smarter, faster, and more human: AI system helps robots outpace their human teachers](https://www.reddit.com/r/robotics/comments/1rzjz9w/smarter_faster_and_more_human_ai_system_helps/)**
 
-🔗 [techxplore.com](https://techxplore.com/news/2026-03-smarter-faster-human-ai-robots.html) • 2h ago
+🔗 [techxplore.com](https://techxplore.com/news/2026-03-smarter-faster-human-ai-robots.html) • 3h ago
 
 ---
 
@@ -78,7 +78,7 @@ From Physical Intelligence on 𝕏 (thread with multiple videos): https://x.com/
 
 Copper is an open-source robotics runtime in Rust for building deterministic, observable systems. Until now, it was very much geared toward production. With v0.14, we’re opening that system up to earlier-stage work as well. In robotics, you typically prototype quickly in Python, then rebuild the system to meet determinism, safety, and observability requirements. You can validate algorithms on real logs or simulation, inspect them in a running system, and iterate without rebuilding the surrounding infrastructure. When it’s time to move to Rust, only the task needs to change, and LLMs are quite effective at helping with that step. This release also also introduces: - composable monitoring, including a dedicated safety monitors - a new Webassembly target! After CPUs and MCUs targets, Copper can now fully run in a browser for shareable demos, check out the links in the article. - The ROS2 bridge is now bidirectional, helping the gradual migrations from ROS2 from both sides of the stack The focus is continuity from early experimentation to deployment. If you’re a Python roboticist looking for a smooth path into a Rust-based production system, come talk to us on Discord, we’re happy to help.
 
-🔗 [Copper Robotics](https://www.copper-robotics.com/whats-new/copper-rs-v014-from-prototype-to-production-without-changing-systems) • 16h ago
+🔗 [Copper Robotics](https://www.copper-robotics.com/whats-new/copper-rs-v014-from-prototype-to-production-without-changing-systems) • 17h ago
 
 ---
 
@@ -86,7 +86,7 @@ Copper is an open-source robotics runtime in Rust for building deterministic, ob
 
 Need financial help to attend ROSCon Global 2026 in Toronto?This Sunday, March 22nd, is the last day to apply to our diversity scholarship program! The application is quick and easy and covers all the expenses associated with traveling to ROSCon!
 
-🔗 [roscon.ros.org](https://roscon.ros.org/2026/#diversity-scholars) • 10h ago
+🔗 [roscon.ros.org](https://roscon.ros.org/2026/#diversity-scholars) • 11h ago
 
 ---
 
@@ -122,7 +122,7 @@ The Information • 1d ago
 
 Chinese startup Unitree Robotics on Friday filed an initial public offering application to the Shanghai ​Stock Exchange, seeking to ​raise  about $610 million.
 
-CNBC • 20h ago
+CNBC • 21h ago
 
 ---
 
@@ -146,7 +146,7 @@ Business Insider • 1d ago
 
 Japanese manufacturer Fanuc is plotting a large expansion in Michigan in response to demand from automakers and other customers.
 
-Crain's Detroit Business • 22h ago
+Crain's Detroit Business • 23h ago
 
 ---
 
@@ -154,7 +154,7 @@ Crain's Detroit Business • 22h ago
 
 Carbon Robotics names a CFO; Nordstrom gets a VP of AI; and a Microsoft gaming GM goes to Netflix while one of its longtime legal leaders retires.
 
-GeekWire • 17h ago
+GeekWire • 18h ago
 
 ---
 
@@ -192,23 +192,33 @@ Bessemer Venture Partners • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[This Chinese Robot Just Crossed All the Lines — Real Life Terminator T800](https://www.youtube.com/watch?v=0hVT9qcC8Ec)**
-
-China just built something that was supposed to be decades away. Engine AI's T800 humanoid robot is already walking live ...
-
-📺 Core Insights
-
-👁️ 68K • 👍 1K • 💬 132 • ⏱️ 15:19 • 3d ago
-
----
-
 **[Out of control robot smashes up restaurant as waitress desperately attempts to drag it away](https://www.youtube.com/watch?v=ZyohmMJA5Ao)**
 
 THIS is the hilarious moment a boogying robot dances too hard and sends food and cutlery flying in a high end restaurant.
 
 📺 The Sun
 
-👁️ 139K • 👍 2K • 💬 1K • ⏱️ 2:07 • 1d ago
+👁️ 153K • 👍 2K • 💬 1K • ⏱️ 2:07 • 1d ago
+
+---
+
+**[This Chinese Robot Just Crossed All the Lines — Real Life Terminator T800](https://www.youtube.com/watch?v=0hVT9qcC8Ec)**
+
+China just built something that was supposed to be decades away. Engine AI's T800 humanoid robot is already walking live ...
+
+📺 Core Insights
+
+👁️ 69K • 👍 1K • 💬 132 • ⏱️ 15:19 • 3d ago
+
+---
+
+**[The Future of Flooring: Automated Sand-Cement Screeding Robot #ConstructionTech #Robotics #Flooring](https://www.youtube.com/watch?v=QK7Y1-O5koE)**
+
+"Efficiency meets precision! Watch this automated floor screeding robot transform a rough sand-cement mix into a perfectly level ...
+
+📺 MachineWorks Studio
+
+👁️ 1.8M • 👍 2K • 💬 21 • ⏱️ 0:06 • 4d ago
 
 ---
 
@@ -218,55 +228,17 @@ Video shows restaurant employees struggling to restrain a dancing robot that wen
 
 📺 NBC News
 
-👁️ 156K • 👍 2K • 💬 562 • ⏱️ 3:38 • 2d ago
+👁️ 159K • 👍 2K • 💬 573 • ⏱️ 3:38 • 2d ago
 
 ---
 
-**[Anyone can build one of these robot hands… 👀 #trendingshorts #robot #opensource #tech](https://www.youtube.com/watch?v=0qJwuyDf8rc)**
+**[EXCLUSIVE: This Robot Video Changed The Conversation](https://www.youtube.com/watch?v=t7BI3Z1THz4)**
 
-This robotic hand costs less than $2000 and can be 3D printed in a single day. It also just ran autonomously for seven hours ...
+Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and get $500 to $1K off. My daughter: ...
 
-📺 Rowan Cheung
+📺 Brighter with Herbert
 
-👁️ 668K • 👍 33K • 💬 403 • ⏱️ 1:20 • 2d ago
-
----
-
-**[Jensen Huang Reveals the Future of Self Driving Cars and Robots at NVIDIA GTC 2026](https://www.youtube.com/watch?v=bvg4zdOeFMk)**
-
-Artificial intelligence is entering the real world. At NVIDIA GTC 2026, Jensen Huang revealed how new AI systems are powering ...
-
-📺 DPCcars
-
-👁️ 158K • 👍 2K • 💬 248 • ⏱️ 11:48 • 4d ago
-
----
-
-**[NVIDIA GTC Demo Stuns Audience With Real Olaf Robot Next To Jensen Huang](https://www.youtube.com/watch?v=pPnVsRPFWV8)**
-
-The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrations when Jensen Huang introduced a real ...
-
-📺 DPCcars
-
-👁️ 166K • 👍 1K • 💬 194 • ⏱️ 2:02 • 4d ago
-
----
-
-**[Robots are starting to show the signs..](https://www.youtube.com/watch?v=Bs3hZmIIjOs)**
-
-📺 Fredo on TV
-
-👁️ 227K • 👍 23K • 💬 683 • ⏱️ 0:20 • 2d ago
-
----
-
-**[The Futuristic Dress With Robot Arms 😱 (@cameronhughes on TT)](https://www.youtube.com/watch?v=NsyKm_8TOeM)**
-
-This guy built one of the craziest futuristic dresses for his girlfriend. When she needed a new outfit, he designed a system with 16 ...
-
-📺 Tash daily
-
-👁️ 111K • 👍 1K • 💬 12 • ⏱️ 0:18 • 3d ago
+👁️ 102K • 👍 2K • 💬 324 • ⏱️ 49:45 • 6d ago
 
 ---
 
@@ -276,7 +248,17 @@ CENTAUR ROBOT - wearable robot adds two legs behind people to help distribute th
 
 📺 Unstoppable Gadgets
 
-👁️ 27K • 👍 336 • 💬 21 • ⏱️ 0:17 • 2d ago
+👁️ 28K • 👍 337 • 💬 21 • ⏱️ 0:17 • 2d ago
+
+---
+
+**[NVIDIA GTC Demo Stuns Audience With Real Olaf Robot Next To Jensen Huang](https://www.youtube.com/watch?v=pPnVsRPFWV8)**
+
+The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrations when Jensen Huang introduced a real ...
+
+📺 DPCcars
+
+👁️ 170K • 👍 2K • 💬 205 • ⏱️ 2:02 • 4d ago
 
 ---
 
@@ -286,7 +268,23 @@ Chinese robotics leader Unitree finds itself in the crosshairs of the US governm
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 29 • 💬 3 • ⏱️ 0:41 • 12h ago
+👁️ 1K • 👍 32 • 💬 3 • ⏱️ 0:41 • 13h ago
+
+---
+
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=WWgwW9S3PLI)**
+
+📺 Robot Julie 
+
+👁️ 2K • 👍 10 • ⏱️ 0:21 • 9h ago
+
+---
+
+**[ai Robot](https://www.youtube.com/watch?v=b4VeIq3C3hg)**
+
+📺 Meshu Reacts 
+
+👁️ 35K • 👍 113 • ⏱️ 0:09 • 4d ago
 
 ---
 
