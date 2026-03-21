@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-21T21:48:45.370054+00:00'
+updated: '2026-03-21T22:27:12.507823+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- news
 - videos
 - cryptocurrency
-- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 21:48 UTC  
+**Last Updated:** March 21, 2026 at 22:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +0.3%  
-**7d:** -1.1%  
-**30d:** +9.4%  
-**90d:** -28.4%  
-**1y:** +8.8%  
+**7d:** -1.2%  
+**30d:** +9.3%  
+**90d:** -28.5%  
+**1y:** +8.6%  
 
 ---
 
@@ -72,15 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
-
----
-
-**[Feels like Ethereum DeFi is slowly shifting from “yield” to… actual revenue?](https://www.reddit.com/r/ethereum/comments/1s00u5q/feels_like_ethereum_defi_is_slowly_shifting_from/)**
-
-Feels like Ethereum DeFi is slowly shifting from “yield” to… actual revenue? Saw a thread recently about TVL climbing again, and someone pointed out that what really matters isn’t how much is locked, but where the returns actually come from. That stuck with me. Because if we’re honest — a lot of yield is still just internal loops. Restaking, incentives, recursive liquidity… it works, but it’s kind of self-contained. Lately I’ve been looking into models where returns come from outside the system. For example, 8lends — capital goes into real businesses, they generate revenue, and that’s what funds the yield. Feels closer to what DeFi originally promised, no? At the same time, it introduces a different layer of risk — off-chain dependency, credit exposure, all that. Curious how this fits into Ethereum long-term. Are we moving in that direction, or is this just a niche side path?
-
-2h ago
+17h ago
 
 ---
 
@@ -88,7 +80,7 @@ Feels like Ethereum DeFi is slowly shifting from “yield” to… actual revenu
 
 Hey everyone, I’ve been working on a side project called Blockpeek and just shipped a new update. It’s a blockchain transaction scanner that tries to explain what actually happened in plain English instead of just showing raw hex data. You paste a transaction hash (or upload a screenshot from your wallet/exchange) and it tells you: ∙ What was sent, to who, from who ∙ The USD value at the time ∙ Gas fees in USD ∙ Which chain it was on (auto-detects Ethereum, BSC, Arbitrum, Polygon, Base, Solana, Bitcoin, Tron and more) It’s free, no login required. Would genuinely love feedback — what’s missing, what’s broken, what would make it actually useful for you. blockpeek.io
 
-22h ago
+23h ago
 
 ---
 
@@ -148,25 +140,17 @@ I'm traveling next month across a few different countries and really want to spe
 
 ---
 
+**[Daily General Discussion March 18, 2026](https://www.reddit.com/r/ethereum/comments/1rwuoph/daily_general_discussion_march_18_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+3d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
-
-**[Ethereum, XRP, and Solana Price Prediction As CLARITY Act Advances After Senate–White House Deal](https://coingape.com/markets/ethereum-xrp-and-solana-price-prediction-as-clarity-act-advances-after-senate-white-house-deal/)**
-
-Ethereum, XRP, and Solana prices remained firm as the broader crypto market hovered slightly above the $70,000 level on renewed optimism.   Ethereum price
-
-CoinGape • 10h ago
-
----
-
-**[Bitcoin At $73,000, Ethereum, XRP, Dogecoin Stall Ahead Of Powell Press Conference](https://www.benzinga.com/crypto/cryptocurrency/26/03/51320643/bitcoin-at-73000-ethereum-xrp-dogecoin-stall-ahead-of-powell-press-conference)**
-
-Bitcoin continues to trade around $73,000, following $199.4 million in net ETF inflows on Tuesday, while Ethereum ETFs reported $138.25 million in net inflows.
-
-Benzinga • 3d ago
-
----
 
 **[Current price of Ethereum for March 20, 2026](https://fortune.com/article/price-of-ethereum-03-20-2026/)**
 
@@ -184,17 +168,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqdqtJ2Ey9g7M7OwKVSrOeoG_U2VBYUPk1wlLLp8ART8omt2wz6Tq5Dk&gaa_ts=69bf08c4&gaa_sig=ZZr6krT_GZ6SpWf2knvjiEJsQURPt1MmMLhbBUh_ucKyNzwWCMdSysToHi0HFrWHhuSWWlh2GzaDp1CzDoa9JQ%3D%3D)**
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqeA61HCQaZKMESCEcwTMDF9-Cu6cVdSdZWiH2uh6EojmqZUM0xcGwF8&gaa_ts=69bf1ead&gaa_sig=Fr63FgxSflWzKZaigoNMxkiqBDCWaS1g2SKPW_SrJNQ2CINg4DBw15pWeX_jvUktKbjSp6LOo665Xw_bERyqQw%3D%3D)**
 
 MarketWatch • 1d ago
-
----
-
-**[Whale investor buys $111 million worth of Ethereum one year after selling: onchain data](https://www.theblock.co/post/394263/whale-investor-buys-111-million-ethereum)**
-
-A whale trader has reportedly bought 50,706 ETH with 111.62 million USDT on Wednesday, after selling holdings a year earlier.
-
-The Block • 2d ago
 
 ---
 
@@ -206,11 +182,27 @@ New York Post • 1d ago
 
 ---
 
-**[Ethereum Investor Druckenmiller Predicts Stablecoin-Led Payment Systems](https://www.tradingview.com/news/newsbtc:58bfcbd65094b:0-ethereum-investor-druckenmiller-predicts-stablecoin-led-payment-systems/)**
+**[Ethereum eyes 25% rally as richest ETH whales return to 'profitable state'](https://www.tradingview.com/news/cointelegraph:29dd957b6094b:0-ethereum-eyes-25-rally-as-richest-eth-whales-return-to-profitable-state/)**
 
-Ethereum investor Stanley Druckenmiller has added his voice to the growing conversation around the future of digital finance, predicting that stablecoins could become the dominant force in global payment systems within the next few years. The veteran investor’s outlook reflects a broader shift amon…
+Ethereum’s native token, Ether BITSTAMP:ETHUSD, may rise by around 25% in the coming months as its richest whale group becomes profitable for the first time since early February.Key takeaways:Whale metric signals ETH is bottoming alreadyThe unrealized profit ratio of wallets holding more than 100,0…
 
-TradingView • 1d ago
+TradingView • 6h ago
+
+---
+
+**[Zenith links Canton and Ethereum through atomic swaps](https://www.theblock.co/post/394288/zenith-links-canton-ethereum-through-atomic-swaps)**
+
+Canton developers said supporting programming languages outside of its native Daml could open the network to a wider pool of developers.
+
+The Block • 2d ago
+
+---
+
+**[Crypto News: Pepeto Updates Defi Exchange Bridge Solving Ethereum Blockchain While XRP Price Prediction Targets $150](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-updates-defi-exchange-bridge-solving-ethereum-blockchain-while-xrp-price-prediction-targets-150-1035951711)**
+
+Dubai, UAE, March  20, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto announced a major exchange bridge update that eliminates gas fees an...
+
+markets.businessinsider.com • 22h ago
 
 ---
 
@@ -222,11 +214,19 @@ Decrypt • 2d ago
 
 ---
 
-**[Crypto News: Pepeto Updates Defi Exchange Bridge Solving Ethereum Blockchain While XRP Price Prediction Targets $150](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-updates-defi-exchange-bridge-solving-ethereum-blockchain-while-xrp-price-prediction-targets-150-1035951711)**
+**[Will Ethereum Ever Hit $5,000?](https://www.fool.com/investing/2026/03/20/will-ethereum-ever-hit-5000/)**
 
-Dubai, UAE, March  20, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto announced a major exchange bridge update that eliminates gas fees an...
+Ethereum hit a new record high in 2025, but it still fell short of the $5,000 milestone.
 
-markets.businessinsider.com • 21h ago
+The Motley Fool • 1d ago
+
+---
+
+**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1774092900)**
+
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 10h ago
 
 ---
 
@@ -240,7 +240,7 @@ BlackRock just launched a staking Ethereum ETF—but is it really a win for inve
 
 📺 Coin Bureau
 
-👁️ 8K • 👍 457 • 💬 63 • ⏱️ 18:11 • 7h ago
+👁️ 8K • 👍 457 • 💬 63 • ⏱️ 18:11 • 8h ago
 
 ---
 
@@ -250,7 +250,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 Chad Colby
 
-👁️ 5K • 👍 1K • 5h ago
+👁️ 5K • 👍 1K • 6h ago
 
 ---
 
@@ -280,7 +280,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 119 • 💬 5 • ⏱️ 3:56 • 18h ago
+👁️ 2K • 👍 119 • 💬 5 • ⏱️ 3:56 • 19h ago
 
 ---
 
@@ -290,7 +290,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 252 • 👍 14 • 💬 1 • ⏱️ 5:16 • 11h ago
+👁️ 252 • 👍 14 • 💬 1 • ⏱️ 5:16 • 12h ago
 
 ---
 
@@ -300,7 +300,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 83 • 💬 4 • ⏱️ 4:32 • 7h ago
+👁️ 1K • 👍 83 • 💬 4 • ⏱️ 4:32 • 8h ago
 
 ---
 
@@ -318,7 +318,7 @@ This is all about why the next big crypto crash could be about to hit. Big news 
 
 📺 Investing Made Simple
 
-👁️ 6K • 👍 474 • ⏱️ 11:34 • 7h ago
+👁️ 6K • 👍 474 • ⏱️ 11:34 • 8h ago
 
 ---
 
@@ -328,7 +328,7 @@ ETF OUT FLOW? - Latest Crypto Market News Today & BTC - ETH Update Welcome to Al
 
 📺 AL MAKKAH TECH & BUSINESS HUB
 
-👁️ 440 • 👍 107 • 💬 7 • ⏱️ 11:58 • 2h ago
+👁️ 440 • 👍 107 • 💬 7 • ⏱️ 11:58 • 3h ago
 
 ---
 

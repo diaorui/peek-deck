@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-21T21:48:45.373267+00:00'
+updated: '2026-03-21T22:27:12.510626+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 21, 2026 at 21:48 UTC  
+**Last Updated:** March 21, 2026 at 22:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
-8h ago
+9h ago
 
 ---
 
 **[Ringbot: A monocycle robot developed by the Robotics and Institute (RAI) that uses internal legs for balance and acrobatic maneuvers](https://www.reddit.com/r/robotics/comments/1rztuum/ringbot_a_monocycle_robot_developed_by_the/)**
 
-6h ago
+7h ago
 
 ---
 
 **[You eventually start to realize, no job is safe](https://www.reddit.com/r/robotics/comments/1rzftd8/you_eventually_start_to_realize_no_job_is_safe/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -64,7 +64,7 @@ We’re running a pretty heavy autonomous stack on a single edge computer (ROS 2
 
 Testing the built-in 3D reconstruction algorithm of the Viobot2 — the result looks good. Has anyone used the Viobot2 for other DIY work? Can anyone share with me?
 
-6h ago
+7h ago
 
 ---
 
@@ -72,7 +72,7 @@ Testing the built-in 3D reconstruction algorithm of the Viobot2 — the result l
 
 It's one of the sample tasks I'm planning to demonstrate to the guests of my upcoming conference. ( 120 characters limit bypass )
 
-8h ago
+9h ago
 
 ---
 
@@ -92,19 +92,17 @@ Don't be surprised if you meet humanoid robots on the streets of Beijing at midn
 
 ---
 
-**[Are there any cable driven 2 DOF mechanisms like this?](https://www.reddit.com/r/robotics/comments/1s02cv0/are_there_any_cable_driven_2_dof_mechanisms_like/)**
+**[FINDING THE RIGHT METAPHOR (Edited)](https://www.reddit.com/r/robotics/comments/1s040cn/finding_the_right_metaphor_edited/)**
 
-I want to make an aim-able phone holder with servos/steppers tucked in the base… and I don’t want to reinvent the wheel. Are there any references of this design? (Like a Simpson 3d printer, but simpler and for robot arms)
-
-59m ago
+29m ago
 
 ---
 
-**[RSS - robotics sciences and systems 2026 - discussion](https://www.reddit.com/r/robotics/comments/1rznoyh/rss_robotics_sciences_and_systems_2026_discussion/)**
+**[Want to build a humanoid robot for fun — looked into InMoov but intimidated by the hardware assembly. Any advice?](https://www.reddit.com/r/robotics/comments/1s03nk2/want_to_build_a_humanoid_robot_for_fun_looked/)**
 
-I created this thread to discuss the reviews and scores for the submissions to RSS 2026 in Sydney Australia. Did anyone receive their reviews yet?
+Hey, I want to build a humanoid robot as a personal project — not necessarily life sized, maybe scaled down a bit. I came across InMoov and it looks amazing but I'm a bit intimidated by the non-printed hardware requirements like springs, metal rods, drilling into parts etc. I'm comfortable with electronics and embedded systems (Arduino/ESP32, servos, sensors) so that side doesn't scare me. It's more the mechanical assembly and sourcing all the non-printed hardware that feels overwhelming. Has anyone: Built InMoov and found ways to simplify the mechanical assembly? Found a good detailed step by step tutorial that makes it less intimidating? Found cheaper alternatives to the hardware components it needs? Built a simplified or scaled down version? Not looking for a perfect robot, just something that works and that I can build on over time. Any advice or experience would really help. Thanks
 
-11h ago
+44m ago
 
 ---
 
@@ -120,11 +118,27 @@ Business Insider • 1d ago
 
 ---
 
+**[Inside China’s robotics revolution](https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution)**
+
+The long read: How close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find out
+
+The Guardian • 2d ago
+
+---
+
+**[FIRST robotics competition draws dozens of teams to Hofstra](https://www.newsday.com/long-island/education/robotics-first-hofstra-gvc1vvx2)**
+
+"It's a friendly competition, or it tries to be," an official said of the two-day event hosted by the nonprofit FIRST.
+
+Newsday • 46m ago
+
+---
+
 **[Amazon acquires startup Rivr to test robots for 'doorstep delivery'](https://www.cnbc.com/2026/03/19/amazon-acquires-startup-rivr-to-test-robots-for-doorstep-delivery.html)**
 
 The company expects to test ways it can use Rivr's robots to help with "doorstep delivery" and to "improve safety outcomes" for delivery drivers.
 
-CNBC • 1d ago
+CNBC • 2d ago
 
 ---
 
@@ -144,19 +158,11 @@ Engadget • 2d ago
 
 ---
 
-**[Unitree plans Shanghai IPO, testing interest in humanoid robots](https://www.cnbc.com/2026/03/20/unitree-plans-shanghai-ipo-testing-interest-in-humanoid-robots.html)**
-
-Chinese startup Unitree Robotics on Friday filed an initial public offering application to the Shanghai ​Stock Exchange, seeking to ​raise  about $610 million.
-
-CNBC • 1d ago
-
----
-
 **[AI-evolved adaptable robot is almost impossible to destroy](https://newatlas.com/robotics/ai-evolved-indestructible-robot/)**
 
 It took nature millions of years to create intelligent, adaptive species. Researchers at Northwestern University in Illinois are using AI to evolve robots in minutes. The result is a robot that is agile, highly adaptive, and technically indestructible.
 
-New Atlas • 9h ago
+New Atlas • 10h ago
 
 ---
 
@@ -168,27 +174,17 @@ Crain's Detroit • 1d ago
 
 ---
 
-**[Robotics competition brings students from around the world to Bradley University](https://www.yahoo.com/news/articles/robotics-competition-brings-students-around-180249313.html)**
-
-High school students from 31 teams across the US and Taiwan are competing in the FIRST Robotics Central Illinois Regional Competition at Bradley University, where they must design, build, program, and...
-
-Yahoo • 3h ago
-
----
-
-**[Inside China’s robotics revolution](https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution)**
-
-The long read: How close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find out
-
-The Guardian • 2d ago
-
----
-
 **[Tech Moves: Carbon Robotics’ new CFO; Microsoft gaming GM goes to Netflix; Nordstrom gets VP of AI](https://www.geekwire.com/2026/tech-moves-carbon-robotics-new-cfo-microsoft-gaming-gm-goes-to-netflix-nordstrom-gets-vp-of-ai/)**
 
 Carbon Robotics names a CFO; Nordstrom gets a VP of AI; and a Microsoft gaming GM goes to Netflix while one of its longtime legal leaders retires.
 
 GeekWire • 1d ago
+
+---
+
+**[Chinese Robot Maker Unitree Seeks $610 Million in Shanghai IPO](https://www.bloomberg.com/news/articles/2026-03-20/chinese-robot-maker-unitree-seeks-610-million-in-shanghai-ipo)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -262,7 +258,7 @@ War Robots Gameplay: Playing Spear and Atomizer on Ammit - Tier 4 My War Robots 
 
 📺 Manni-Gaming
 
-👁️ 4K • 👍 220 • 💬 36 • ⏱️ 12:20 • 8h ago
+👁️ 4K • 👍 220 • 💬 36 • ⏱️ 12:20 • 9h ago
 
 ---
 
