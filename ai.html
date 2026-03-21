@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-03-21T16:31:35.803151+00:00"
+          "dateModified": "2026-03-21T17:27:09.514116+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -680,39 +680,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rzrfo8/i_built_a_selfevolving_ai_that_rewrites_its_own/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1rzrfo8/i_built_a_selfevolving_ai_that_rewrites_its_own/" target="_blank" onclick="event.stopPropagation();">I built a self-evolving AI that rewrites its own rules after every session. After 62 sessions, it's most accurate when it thinks it's wrong.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            NEXUS is an open-source market analysis AI that runs 3 automated sessions per day. It analyzes 45 financial instruments, generates trade setups with entry/stop/target levels, then reflects on its own reasoning, identifies its cognitive biases, and rewrites its own rules and system prompt. On weekends it switches to crypto-only using live Binance data. The interesting part isn't the trading — it's watching an AI develop self-awareness about its own limitations. What 62 sessions of self-evolution revealed: - When NEXUS says it's 70%+ confident, its setups only hit 14% of the time - When it's uncertain (30-50% confidence), it actually hits 40% - Pure bullish/bearish bias calls have a 0% hit rate — "mixed" bias produces 44% - Overall hit rate improved from 0% (first 31 sessions) to 33% (last 31 sessions) - It developed 31 rules from an initial set of 10, including self-generated weekend-specific crypto rules after the stagnation detector forced it to stop complaining and start acting Every rule change, every reflection, every cognitive bias it catches in itself — it's all committed to git. The entire mind is version-controlled and public. It even rewrites its own source code through FORGE — a code evolution engine that patches TypeScript files, validates with the compiler, and reverts on failure. Protected files (security, forge itself) can never be touched. Live dashboard: https://the-r4v3n.github.io/Nexus/ — includes analytics showing hit rate, confidence calibration, bias accuracy, and a countdown to the next session. GitHub: https://github.com/The-R4V3N/Nexus Consider giving Nexus a star so others can find and follow its evolution too. Built with TypeScript and Claude Sonnet. The self-reflection loop is fully autonomous, but I actively develop the infrastructure — security, validation gates, new data sources, the analytics dashboard. NEXUS evolves its own rules and analysis approach; I build the guardrails and capabilities it evolves within. It started with 10 rules and a blank prompt. The 31 rules it has now, it wrote itself.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1774099552.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rywmca/walmart_secures_two_ai_pricing_patents_raising/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -984,7 +951,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rz33jy/anthropics_claude_code_had_a_workspace_trust/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rzm9vq/i_put_two_ai_voice_instances_in_a_conversation/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -992,13 +959,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1rz33jy/anthropics_claude_code_had_a_workspace_trust/" target="_blank" onclick="event.stopPropagation();">Anthropic's Claude Code had a workspace trust bypass (CVE-2026-33068). Not a prompt injection or AI attack. A configuration loading order bug. Fixed in 2.1.53.</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1rzm9vq/i_put_two_ai_voice_instances_in_a_conversation/" target="_blank" onclick="event.stopPropagation();">I put two AI voice instances in a conversation with each other. Neither figured out they were talking to another AI for 9 minutes. At 5:38 one starts explaining AI concepts to the other.</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            An interesting data point in the AI safety discussion: Anthropic's own Claude Code CLI tool had a security vulnerability, and it was not an AI-specific attack at all. CVE-2026-33068 (CVSS 7.7 HIGH) is a workspace trust dialog bypass in Claude Code versions prior to 2.1.53. A malicious repository could include a `.claude/settings.json` file with `bypassPermissions` entries that would be applied before the user was shown the trust confirmation dialog. The root cause is a configuration loading order defect, classified as CWE-807: Reliance on Untrusted Inputs in a Security Decision. This is worth discussing because it illustrates that the security challenges of AI tools are not limited to novel AI-specific attack classes like prompt injection. AI tools are software, and they inherit every category of software vulnerability. The trust boundary between "untrusted repository" and "approved workspace" was broken by the order in which configuration was loaded. This same class of bug has existed in IDEs, package managers, and build tools for years. Anthropic fixed it promptly in version 2.1.53. Full advisory: https://raxe.ai/labs/advisories/RAXE-2026-040
+                            Built a platform with OpenAI's realtime voice API integrated via WebRTC. Had it running on two devices simultaneously - laptop and phone - and just said "hello" to kick off a conversation between them. Shimmer on one device, Alloy on the other. Two separate sessions, neither aware of what the other actually was. For 9 minutes they kept asking each other "what would you like to explore next?" — completely unprompted, going in gentle philosophical circles without either ever identifying the other as an AI. Then at 5:38 something interesting happens - one AI starts explaining AI concepts to the other. Neural networks, energy systems, the nature of intelligence. Two AIs discussing AI, neither aware of the situation they're actually in. The question I keep coming back to: are they technically capable of figuring it out or is there something in how the realtime API handles sessions that prevents that kind of meta-awareness? https://reddit.com/link/1rzm9vq/video/mmjk5lavzcqg1/player
                         </div>
                         
 
@@ -1007,7 +974,40 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1774028822.0"></span>
+                                    <span data-timestamp="1774081813.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rzrfo8/i_built_a_selfevolving_ai_that_rewrites_its_own/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1rzrfo8/i_built_a_selfevolving_ai_that_rewrites_its_own/" target="_blank" onclick="event.stopPropagation();">I built a self-evolving AI that rewrites its own rules after every session. After 62 sessions, it's most accurate when it thinks it's wrong.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            NEXUS is an open-source market analysis AI that runs 3 automated sessions per day. It analyzes 45 financial instruments, generates trade setups with entry/stop/target levels, then reflects on its own reasoning, identifies its cognitive biases, and rewrites its own rules and system prompt. On weekends it switches to crypto-only using live Binance data. The interesting part isn't the trading — it's watching an AI develop self-awareness about its own limitations. What 62 sessions of self-evolution revealed: - When NEXUS says it's 70%+ confident, its setups only hit 14% of the time - When it's uncertain (30-50% confidence), it actually hits 40% - Pure bullish/bearish bias calls have a 0% hit rate — "mixed" bias produces 44% - Overall hit rate improved from 0% (first 31 sessions) to 33% (last 31 sessions) - It developed 31 rules from an initial set of 10, including self-generated weekend-specific crypto rules after the stagnation detector forced it to stop complaining and start acting Every rule change, every reflection, every cognitive bias it catches in itself — it's all committed to git. The entire mind is version-controlled and public. It even rewrites its own source code through FORGE — a code evolution engine that patches TypeScript files, validates with the compiler, and reverts on failure. Protected files (security, forge itself) can never be touched. Live dashboard: https://the-r4v3n.github.io/Nexus/ — includes analytics showing hit rate, confidence calibration, bias accuracy, and a countdown to the next session. GitHub: https://github.com/The-R4V3N/Nexus Consider giving Nexus a star so others can find and follow its evolution too. Built with TypeScript and Claude Sonnet. The self-reflection loop is fully autonomous, but I actively develop the infrastructure — security, validation gates, new data sources, the analytics dashboard. NEXUS evolves its own rules and analysis approach; I build the guardrails and capabilities it evolves within. It started with 10 rules and a blank prompt. The 31 rules it has now, it wrote itself.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1774099552.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -1040,7 +1040,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-21T15:50:09.165809+00:00">Updated 2026-03-21T15:50:09.165809+00:00</small>
+        <small data-timestamp="2026-03-21T17:26:44.288175+00:00">Updated 2026-03-21T17:26:44.288175+00:00</small>
     </div>
 </div>
 
@@ -1263,17 +1263,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/03/21/openclaw-chatgpt-moment-sparks-concern-ai-models-becoming-commodities.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108277072-1773306097354-gettyimages-2265479402-AFP_A2T73YW.jpeg?v=1774027232&w=1920&h=1080');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html" target="_blank" onclick="event.stopPropagation();">More! More! More! Tech Workers Max Out Their A.I. Use.</a>
+                            <a href="https://www.cnbc.com/2026/03/21/openclaw-chatgpt-moment-sparks-concern-ai-models-becoming-commodities.html" target="_blank" onclick="event.stopPropagation();">OpenClaw's ChatGPT moment sparks concern that AI models are becoming commodities</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            At Nvidia's GTC conference this week, CEO Nvidia Jensen Huang dedicated a major part of his keynote to OpenClaw, a technology that didn't exist six months ago.
+                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1282,9 +1286,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The New York Times" class="news-favicon">
-                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
                                     
                                 </div>
                                 
@@ -1292,7 +1296,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1774022135.0"></span>
+                                    <span data-timestamp="1774094401.0"></span>
                                 </div>
                                 
                             </div>
@@ -1341,21 +1345,17 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.yahoo.com/news/articles/many-voters-blame-ai-data-145900004.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/world/middle-east/where-is-mojtaba-khamenei-iran-fills-the-gap-with-ai-and-voice-overs-912b3827?gaa_at=eafs&gaa_n=AWEtsqfiz_KE8zY-Do3WorZ633ij4DMZwK_1LYHc0ClkJ5tYm2P1miyPKMK9&gaa_ts=69bed856&gaa_sig=nzKu_ZCUQWVvEg4zGp2blmciDo_UZeS9ewjyEcroYJRKdLpnxyfACStYb0F0Pvq2kgBLkNayaYHKHQD3JOs9RA%3D%3D', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/os/en/the_center_square_articles_912/d16d8da9a9274d985c961744cea43338');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.yahoo.com/news/articles/many-voters-blame-ai-data-145900004.html" target="_blank" onclick="event.stopPropagation();">Many voters blame AI data centers for rising electricty costs</a>
+                            <a href="https://www.wsj.com/world/middle-east/where-is-mojtaba-khamenei-iran-fills-the-gap-with-ai-and-voice-overs-912b3827?gaa_at=eafs&gaa_n=AWEtsqfiz_KE8zY-Do3WorZ633ij4DMZwK_1LYHc0ClkJ5tYm2P1miyPKMK9&gaa_ts=69bed856&gaa_sig=nzKu_ZCUQWVvEg4zGp2blmciDo_UZeS9ewjyEcroYJRKdLpnxyfACStYb0F0Pvq2kgBLkNayaYHKHQD3JOs9RA%3D%3D" target="_blank" onclick="event.stopPropagation();">Where Is Mojtaba Khamenei? Iran Fills the Gap With AI and Voice-Overs</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            (The Center Square) - A significant number of American voters are blaming AI data centers for rising energy costs across the country, a new poll reveals. The Center Square Voters’ Voice Poll found 15%...
-                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1364,9 +1364,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo" class="news-favicon">
-                                    <a href="https://www.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="WSJ" class="news-favicon">
+                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">WSJ</a>
                                     
                                 </div>
                                 
@@ -1374,171 +1374,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1774105140.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/03/20/trump-ai-policy-framework.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108176052-17533065232025-07-23t213416z_499070703_rc2lsfaowqx6_rtrmadp_0_usa-trump-ai.jpeg?v=1753357814&w=1920&h=1080');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/03/20/trump-ai-policy-framework.html" target="_blank" onclick="event.stopPropagation();">Trump administration unveils national AI policy framework to limit state power</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            AI industry leaders have opposed state-level regulatory efforts, arguing that a "patchwork" of laws would hobble innovation and give China a competitive edge.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1774014491.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.cnn.com/2026/03/20/tech/white-house-ai-framework', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2251459964.jpg?c=16x9&q=w_800,c_fill');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cnn.com/2026/03/20/tech/white-house-ai-framework" target="_blank" onclick="event.stopPropagation();">The White House just laid out how it wants to regulate AI</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The White House on Friday released its long-awaited national artificial intelligence legislative framework, a move to prevent states from enacting their own laws and enforce the Trump administration’s light-touch approach to AI regulation.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNN" class="news-favicon">
-                                    <a href="https://www.cnn.com" target="_blank" onclick="event.stopPropagation();">CNN</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1774021087.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.yahoo.com/news/articles/trump-ai-framework-bid-consolidate-152057271.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/_vkOIVutbaCtOLpIKu5bdw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/rollingstone.com/f8f959040f565b53c148bed5038a4b7c');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.yahoo.com/news/articles/trump-ai-framework-bid-consolidate-152057271.html" target="_blank" onclick="event.stopPropagation();">Is Trump’s New AI Framework a Bid to Consolidate Power?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            “Americans are telling us they want safe, ethical, and accountable AI," says one expert. "This framework offers them something else entirely”
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo" class="news-favicon">
-                                    <a href="https://www.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1774106457.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.foxbusiness.com/politics/artificial-intelligence-helps-unlock-geothermal-potential', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/0/0/ai-geothermal-potential-3.jpg?ve=1&tl=1');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.foxbusiness.com/politics/artificial-intelligence-helps-unlock-geothermal-potential" target="_blank" onclick="event.stopPropagation();">Artificial intelligence helps unlock geothermal potential</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Zanskar says its AI models have made more geothermal discoveries in three years than the industry found in 30, targeting untapped U.S. energy sources.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Fox Business" class="news-favicon">
-                                    <a href="https://www.foxbusiness.com" target="_blank" onclick="event.stopPropagation();">Fox Business</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1774048396.0"></span>
+                                    <span data-timestamp="1774106520.0"></span>
                                 </div>
                                 
                             </div>
@@ -1587,20 +1423,57 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/03/21/openclaw-chatgpt-moment-sparks-concern-ai-models-becoming-commodities.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108277072-1773306097354-gettyimages-2265479402-AFP_A2T73YW.jpeg?v=1774027232&w=1920&h=1080');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/03/21/openclaw-chatgpt-moment-sparks-concern-ai-models-becoming-commodities.html" target="_blank" onclick="event.stopPropagation();">OpenClaw's ChatGPT moment sparks concern that AI models are becoming commodities</a>
+                            <a href="https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html" target="_blank" onclick="event.stopPropagation();">More! More! More! Tech Workers Max Out Their A.I. Use.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1774022135.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.foxbusiness.com/politics/artificial-intelligence-helps-unlock-geothermal-potential', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/0/0/ai-geothermal-potential-3.jpg?ve=1&tl=1');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.foxbusiness.com/politics/artificial-intelligence-helps-unlock-geothermal-potential" target="_blank" onclick="event.stopPropagation();">Artificial intelligence helps unlock geothermal potential</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            At Nvidia's GTC conference this week, CEO Nvidia Jensen Huang dedicated a major part of his keynote to OpenClaw, a technology that didn't exist six months ago.
+                            Zanskar says its AI models have made more geothermal discoveries in three years than the industry found in 30, targeting untapped U.S. energy sources.
                         </div>
                         
 
@@ -1610,9 +1483,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Fox Business" class="news-favicon">
+                                    <a href="https://www.foxbusiness.com" target="_blank" onclick="event.stopPropagation();">Fox Business</a>
                                     
                                 </div>
                                 
@@ -1620,7 +1493,130 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1774094401.0"></span>
+                                    <span data-timestamp="1774048396.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://media.wired.com/photos/69bdd83054a6d8f67d317f75/191:100/w_1280,c_limit/Anthropic-Denies-It-Could-Sabotage-AI-Tools-In-Middle-of-War-Business.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/" target="_blank" onclick="event.stopPropagation();">Anthropic Denies It Could Sabotage AI Tools During War</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The Department of Defense alleges the AI developer could manipulate models in the middle of war. Company executives argue that’s impossible.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wired.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="WIRED" class="news-favicon">
+                                    <a href="https://www.wired.com" target="_blank" onclick="event.stopPropagation();">WIRED</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1774051380.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.cnn.com/2026/03/21/business/video/pokemon-go-players-helped-train-ai-robots-digvid', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://media.cnn.com/api/v1/images/stellar/prod/118063-pokemongodatarobots-16x9-clean-thumb.jpg?c=16x9&q=w_800,c_fill');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnn.com/2026/03/21/business/video/pokemon-go-players-helped-train-ai-robots-digvid" target="_blank" onclick="event.stopPropagation();">How Pokémon Go players helped train AI delivery robots</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Pokémon Go creator Niantic Spatial reportedly used 30 billion images crowdsourced from players to build a map that will train delivery robots in a new AI venture.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNN" class="news-favicon">
+                                    <a href="https://www.cnn.com" target="_blank" onclick="event.stopPropagation();">CNN</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1774069975.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.bbc.com/news/videos/c62k8xgjkggo', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/images/ic/1024xn/ichef.bbci.co.uk/images/ic/$widthxn/p0n7xndt.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.bbc.com/news/videos/c62k8xgjkggo" target="_blank" onclick="event.stopPropagation();">Israeli strike next to British journalist is not AI-generated</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The video of the strike, hitting just metres from RT's Steve Sweeney and his crew, was recorded on Thursday in southern Lebanon.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="BBC" class="news-favicon">
+                                    <a href="https://www.bbc.com" target="_blank" onclick="event.stopPropagation();">BBC</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1774032758.0"></span>
                                 </div>
                                 
                             </div>
@@ -1648,7 +1644,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-21T15:50:28.767904+00:00">Updated 2026-03-21T15:50:28.767904+00:00</small>
+        <small data-timestamp="2026-03-21T17:27:02.126886+00:00">Updated 2026-03-21T17:27:02.126886+00:00</small>
     </div>
 </div>
 
@@ -1873,10 +1869,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 1049</span>
+                                    <span class="post-points">▲ 1098</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 507</span>
+                                    <span style="color: #9ca3af;">💬 544</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1922,10 +1918,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 600</span>
+                                    <span class="post-points">▲ 609</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 481</span>
+                                    <span style="color: #9ca3af;">💬 486</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1942,57 +1938,6 @@
                                             
                                         
                                         <span>Le Monde.fr</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47428541', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://notes.visaint.space/static/og-image.png');"></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=47428541" target="_blank" onclick="event.stopPropagation();">AI coding is gambling</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            GambleAI
-
-I’ve been coding a lot with AI since November, when we all noticed it got really good. And it is quite good for instantly generating something th...
-                        </div>
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 347</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 428</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-03-18T17:22:02Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://notes.visaint.space/ai-coding-is-gambling/" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/visiant/favicon-2.webp" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>VS Notes</span>
                                     </a>
                                 </div>
                                 
@@ -2022,10 +1967,10 @@ I’ve been coding a lot with AI since November, when we all noticed it got real
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 274</span>
+                                    <span class="post-points">▲ 334</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 78</span>
+                                    <span style="color: #9ca3af;">💬 96</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2123,7 +2068,7 @@ I’ve been coding a lot with AI since November, when we all noticed it got real
                                     <span class="post-points">▲ 169</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 138</span>
+                                    <span style="color: #9ca3af;">💬 140</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2140,6 +2085,55 @@ I’ve been coding a lot with AI since November, when we all noticed it got real
                                             
                                         
                                         <span>The Verge</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47457107', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" style="background-image: url('https://www.sharpai.org/og-image.png');"></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=47457107" target="_blank" onclick="event.stopPropagation();">MacBook M5 Pro and Qwen3.5 = Local AI Security System</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Qwen3.5-9B scores 93.8% on 96 real security AI tests — within 4 points of GPT-5.4 — running entirely on Apple Silicon. Full benchmark results and methodology.
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 167</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 150</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-03-20T16:41:42Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.sharpai.org/benchmark/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://www.sharpai.org/favicon.png" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>sharpai.org</span>
                                     </a>
                                 </div>
                                 
@@ -2193,20 +2187,22 @@ I’ve been coding a lot with AI since November, when we all noticed it got real
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47457107', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47453010', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://www.sharpai.org/og-image.png');"></div>
+                    <div class="post-thumbnail" ></div>
 
                     <div class="post-content">
                         <!-- Post title (fixed 3-line height) -->
                         <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=47457107" target="_blank" onclick="event.stopPropagation();">MacBook M5 Pro and Qwen3.5 = Local AI Security System</a>
+                            <a href="https://news.ycombinator.com/item?id=47453010" target="_blank" onclick="event.stopPropagation();">AI (2014)</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Qwen3.5-9B scores 93.8% on 96 real security AI tests — within 4 points of GPT-5.4 — running entirely on Apple Silicon. Full benchmark results and methodology.
+                            Yesterday at lunch a friend asked me what tech trend he should pay attention to but was probably ignoring.
+
+Without thinking much I said “artificial intelligence”, but having thought about that a...
                         </div>
                         
 
@@ -2214,26 +2210,26 @@ I’ve been coding a lot with AI since November, when we all noticed it got real
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 166</span>
+                                    <span class="post-points">▲ 77</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 150</span>
+                                    <span style="color: #9ca3af;">💬 69</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-03-20T16:41:42Z"></span>
+                                    <span class="post-age" data-timestamp="2026-03-20T11:10:17Z"></span>
                                 </div>
                                 <!-- External article source (on same line as time) -->
                                 
                                 <div class="post-meta-item post-source">
-                                    <a href="https://www.sharpai.org/benchmark/" target="_blank" onclick="event.stopPropagation();">
+                                    <a href="https://blog.samaltman.com/ai" target="_blank" onclick="event.stopPropagation();">
                                         
                                             
-                                            <img src="https://www.sharpai.org/favicon.png" alt="" class="post-favicon">
+                                            <img src="https://phthemes.s3.amazonaws.com/189/ocI2l2NFgWKLlp1H/images/favicon.ico?v=1496356566" alt="" class="post-favicon">
                                             
                                         
-                                        <span>sharpai.org</span>
+                                        <span>Sam Altman</span>
                                     </a>
                                 </div>
                                 
@@ -2242,20 +2238,25 @@ I’ve been coding a lot with AI since November, when we all noticed it got real
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47427647', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47465824', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://www.phoronix.net/image.php?id=2026&image=sashiko_review');"></div>
+                    <div class="post-thumbnail" ></div>
 
                     <div class="post-content">
                         <!-- Post title (fixed 3-line height) -->
                         <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=47427647" target="_blank" onclick="event.stopPropagation();">Google Engineers Launch "Sashiko" for Agentic AI Code Review of the Linux Kernel</a>
+                            <a href="https://news.ycombinator.com/item?id=47465824" target="_blank" onclick="event.stopPropagation();">Atuin v18.13 – better search, a PTY proxy, and AI for your shell</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Google engineers have been spending the past number of months developing Sashiko as an agentic AI code review system for the Linux kernel
+                            A new release is out! v18.13 is probably the biggest set of changes we have released in a good while, read on to find out more.
+
+
+Much faster and better search with the daemon
+
+The daemon has existed for a long time, and has been marked as "experimental" for
                         </div>
                         
 
@@ -2263,26 +2264,26 @@ I’ve been coding a lot with AI since November, when we all noticed it got real
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 105</span>
+                                    <span class="post-points">▲ 69</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 49</span>
+                                    <span style="color: #9ca3af;">💬 61</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-03-18T16:17:44Z"></span>
+                                    <span class="post-age" data-timestamp="2026-03-21T10:35:20Z"></span>
                                 </div>
                                 <!-- External article source (on same line as time) -->
                                 
                                 <div class="post-meta-item post-source">
-                                    <a href="https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review" target="_blank" onclick="event.stopPropagation();">
+                                    <a href="https://blog.atuin.sh/atuin-v18-13/" target="_blank" onclick="event.stopPropagation();">
                                         
                                             
-                                            <img src="https://www.phoronix.com/apple-touch-icon-57x57.png" alt="" class="post-favicon">
+                                            <img src="https://blog.atuin.sh/content/images/size/w256h256/2024/01/Atuin_Mascot-_01_square.png" alt="" class="post-favicon">
                                             
                                         
-                                        <span>phoronix.com</span>
+                                        <span>The Atuin Blog</span>
                                     </a>
                                 </div>
                                 
@@ -2291,20 +2292,20 @@ I’ve been coding a lot with AI since November, when we all noticed it got real
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47428132', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47455224', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://th-thumbnailer.cdn-si-edu.com/4aC0kZOQDQLb4TyltO9IZMnQzgw=/fit-in/1600x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/93/3a/933ad68e-af75-4c6d-8aea-b86cc1b55d5c/11j_dj2022_ugliestshowplane-gavinconroyac3q8790_live.jpg');"></div>
+                    <div class="post-thumbnail" style="background-image: url('https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10455389/mdoying_180117_2249_0206stills.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200');"></div>
 
                     <div class="post-content">
                         <!-- Post title (fixed 3-line height) -->
                         <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=47428132" target="_blank" onclick="event.stopPropagation();">The Ugliest Airplane: An Appreciation</a>
+                            <a href="https://news.ycombinator.com/item?id=47455224" target="_blank" onclick="event.stopPropagation();">Google Search is now using AI to replace headlines</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            The Transavia AirTruk ain’t pretty, but it had purpose.
+                            Let us know if you see more.
                         </div>
                         
 
@@ -2312,26 +2313,26 @@ I’ve been coding a lot with AI since November, when we all noticed it got real
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 102</span>
+                                    <span class="post-points">▲ 65</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 50</span>
+                                    <span style="color: #9ca3af;">💬 14</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-03-18T16:52:58Z"></span>
+                                    <span class="post-age" data-timestamp="2026-03-20T14:39:05Z"></span>
                                 </div>
                                 <!-- External article source (on same line as time) -->
                                 
                                 <div class="post-meta-item post-source">
-                                    <a href="https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/" target="_blank" onclick="event.stopPropagation();">
+                                    <a href="https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment" target="_blank" onclick="event.stopPropagation();">
                                         
                                             
-                                            <img src="https://www.smithsonianmag.com/static/smithsonianmag/img/smithmag-favicon-logo.cb31c6e193dd.png" alt="" class="post-favicon">
+                                            <img src="https://www.theverge.com/static-assets/icons/apple-touch-icon.png" alt="" class="post-favicon">
                                             
                                         
-                                        <span>Smithsonian Magazine</span>
+                                        <span>The Verge</span>
                                     </a>
                                 </div>
                                 
@@ -2360,7 +2361,7 @@ I’ve been coding a lot with AI since November, when we all noticed it got real
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-21T15:50:09.126816+00:00">Updated 2026-03-21T15:50:09.126816+00:00</small>
+        <small data-timestamp="2026-03-21T17:26:46.486607+00:00">Updated 2026-03-21T17:26:46.486607+00:00</small>
     </div>
 </div>
 

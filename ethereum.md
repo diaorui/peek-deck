@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-21T16:31:36.257700+00:00'
+updated: '2026-03-21T17:27:10.032128+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 16:31 UTC  
+**Last Updated:** March 21, 2026 at 17:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** -1.1%  
-**30d:** +9.4%  
-**90d:** -28.4%  
-**1y:** +8.8%  
+**24h:** +1.2%  
+**7d:** -1.4%  
+**30d:** +9.0%  
+**90d:** -28.6%  
+**1y:** +8.4%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone, I’ve been working on a side project called Blockpeek and just shipped a new update. It’s a blockchain transaction scanner that tries to explain what actually happened in plain English instead of just showing raw hex data. You paste a transaction hash (or upload a screenshot from your wallet/exchange) and it tells you: ∙ What was sent, to who, from who ∙ The USD value at the time ∙ Gas fees in USD ∙ Which chain it was on (auto-detects Ethereum, BSC, Arbitrum, Polygon, Base, Solana, Bitcoin, Tron and more) It’s free, no login required. Would genuinely love feedback — what’s missing, what’s broken, what would make it actually useful for you. blockpeek.io
 
-17h ago
+18h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey everyone, I’ve been working on a side project called Blockpeek and just sh
 
 I’m looking for a way to swap my Bitcoin to Ethereum without KYC, so obviously i found thorchain, but unfortunately it’s not available here in the U.S, and i heard it’s very expensive as well. Where should I do it you think? sorry if this question was already asked in past but i couldnt find an answer after bit lf time checking.
 
-18h ago
+19h ago
 
 ---
 
@@ -176,7 +176,15 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqcKc0mDkmjwZM1ZOwLx2_z8bbwblNMxdXcDKGMJUBI6jxWfX8ZGfqBn&gaa_ts=69bec1b7&gaa_sig=JF6tW7jE0aNMU04PuTWsZu5BNuDK1ylg_b2c6l5nzfaTshQl5JEFIeso48MJ9iSXmc7sOnOdmTeQqAwqWmnOFg%3D%3D)**
+**[Whale investor buys $111 million worth of Ethereum one year after selling: onchain data](https://www.theblock.co/post/394263/whale-investor-buys-111-million-ethereum)**
+
+A whale trader has reportedly bought 50,706 ETH with 111.62 million USDT on Wednesday, after selling holdings a year earlier.
+
+The Block • 2d ago
+
+---
+
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqfaGkmKDLQ5nVXlUr36sAOxBkvYk0nfEZwRv80v0qWBTNAuA7sMUwMI&gaa_ts=69bed85a&gaa_sig=eGp7BnGNL828T8w2oPfrPjElEuwwwfUmPzb3PETHjFA7l7NgZPYC9CYnJbd0_CoI0n8SlYnOgpJpcvo6juV8bQ%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -190,35 +198,11 @@ New York Post • 1d ago
 
 ---
 
-**[Europe’s largest asset manager Amundi debuts $100 million tokenized fund on Ethereum, Stellar](https://www.theblock.co/post/394348/europes-largest-asset-manager-amundi-debuts-100-million-tokenized-fund-on-ethereum-stellar)**
-
-Amundi launched the $100 million Spiko Amundi Overnight Swap Fund on Ethereum and Stellar with Chainlink support.
-
-The Block • 2d ago
-
----
-
 **[Ethereum Investor Druckenmiller Predicts Stablecoin-Led Payment Systems](https://www.tradingview.com/news/newsbtc:58bfcbd65094b:0-ethereum-investor-druckenmiller-predicts-stablecoin-led-payment-systems/)**
 
 Ethereum investor Stanley Druckenmiller has added his voice to the growing conversation around the future of digital finance, predicting that stablecoins could become the dominant force in global payment systems within the next few years. The veteran investor’s outlook reflects a broader shift amon…
 
-TradingView • 22h ago
-
----
-
-**[The rise of ETH gambling sites and Africa’s expanding digital economy](https://africa.businessinsider.com/local/lifestyle/the-rise-of-eth-gambling-sites-and-africas-expanding-digital-economy/l056ctt)**
-
-#FeaturedPost
-
-Business Insider Africa • 1d ago
-
----
-
-**[Will Ethereum Ever Hit $5,000?](https://www.fool.com/investing/2026/03/20/will-ethereum-ever-hit-5000/)**
-
-Ethereum hit a new record high in 2025, but it still fell short of the $5,000 milestone.
-
-The Motley Fool • 1d ago
+TradingView • 23h ago
 
 ---
 
@@ -227,6 +211,22 @@ The Motley Fool • 1d ago
 BlackRock's iShares Staked Ethereum Trust (ETHB) has hit $254 million in assets under management just one week after launch.
 
 Decrypt • 1d ago
+
+---
+
+**[Crypto News: Pepeto Updates Defi Exchange Bridge Solving Ethereum Blockchain While XRP Price Prediction Targets $150](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-updates-defi-exchange-bridge-solving-ethereum-blockchain-while-xrp-price-prediction-targets-150-1035951711)**
+
+Dubai, UAE, March  20, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto announced a major exchange bridge update that eliminates gas fees an...
+
+markets.businessinsider.com • 17h ago
+
+---
+
+**[Will Ethereum Ever Hit $5,000?](https://www.fool.com/investing/2026/03/20/will-ethereum-ever-hit-5000/)**
+
+Ethereum hit a new record high in 2025, but it still fell short of the $5,000 milestone.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -240,7 +240,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 Chad Colby
 
-👁️ 467 • 👍 1K • 7m ago
+👁️ 467 • 👍 1K • 1h ago
 
 ---
 
@@ -270,7 +270,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 117 • 💬 5 • ⏱️ 3:56 • 13h ago
+👁️ 2K • 👍 117 • 💬 5 • ⏱️ 3:56 • 14h ago
 
 ---
 
@@ -280,7 +280,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 168 • 👍 9 • 💬 1 • ⏱️ 5:16 • 6h ago
+👁️ 168 • 👍 9 • 💬 1 • ⏱️ 5:16 • 7h ago
 
 ---
 
@@ -298,7 +298,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 463 • 👍 55 • 💬 4 • ⏱️ 4:32 • 2h ago
+👁️ 463 • 👍 55 • 💬 4 • ⏱️ 4:32 • 3h ago
 
 ---
 
@@ -308,7 +308,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 My Channel
 
-👁️ 6K • 👍 1K • 2h ago
+👁️ 6K • 👍 1K • 3h ago
 
 ---
 
@@ -318,7 +318,7 @@ BITCOIN & ALTCOIN WARNING: Price Targets Exposed!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 7K • 👍 259 • 💬 155 • ⏱️ 16:50 • 21h ago
+👁️ 7K • 👍 259 • 💬 155 • ⏱️ 16:50 • 22h ago
 
 ---
 
@@ -328,7 +328,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 4K • 👍 4K • 1h ago
+👁️ 4K • 👍 4K • 2h ago
 
 ---
 

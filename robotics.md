@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-21T16:31:36.260534+00:00'
+updated: '2026-03-21T17:27:10.035303+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 21, 2026 at 16:31 UTC  
+**Last Updated:** March 21, 2026 at 17:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
-3h ago
-
----
-
-**[You eventually start to realize, no job is safe](https://www.reddit.com/r/robotics/comments/1rzftd8/you_eventually_start_to_realize_no_job_is_safe/)**
-
-14h ago
+4h ago
 
 ---
 
 **[Ringbot: A monocycle robot developed by the Robotics and Institute (RAI) that uses internal legs for balance and acrobatic maneuvers](https://www.reddit.com/r/robotics/comments/1rztuum/ringbot_a_monocycle_robot_developed_by_the/)**
 
-1h ago
+2h ago
+
+---
+
+**[You eventually start to realize, no job is safe](https://www.reddit.com/r/robotics/comments/1rzftd8/you_eventually_start_to_realize_no_job_is_safe/)**
+
+15h ago
 
 ---
 
@@ -64,7 +64,7 @@ Showcasing the newest version (v20) of my hand & wrist combo! Same as the last v
 
 Testing the built-in 3D reconstruction algorithm of the Viobot2 — the result looks good. Has anyone used the Viobot2 for other DIY work? Can anyone share with me?
 
-1h ago
+2h ago
 
 ---
 
@@ -72,7 +72,7 @@ Testing the built-in 3D reconstruction algorithm of the Viobot2 — the result l
 
 Don't be surprised if you meet humanoid robots on the streets of Beijing at midnight. They are training for their half-marathon! Over 20 teams joined the first trial run. The official race will be held on April 19.
 
-23h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ Don't be surprised if you meet humanoid robots on the streets of Beijing at midn
 
 It's one of the sample tasks I'm planning to demonstrate to the guests of my upcoming conference. ( 120 characters limit bypass )
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ It's one of the sample tasks I'm planning to demonstrate to the guests of my upc
 
 I created this thread to discuss the reviews and scores for the submissions to RSS 2026 in Sydney Australia. Did anyone receive their reviews yet?
 
-6h ago
+7h ago
 
 ---
 
@@ -144,11 +144,11 @@ The Guardian • 2d ago
 
 ---
 
-**[AI-evolved adaptable robot is almost impossible to destroy](https://newatlas.com/robotics/ai-evolved-indestructible-robot/)**
+**[Video Friday: Humanoid Learns Tennis Skills Playing Humans](https://spectrum.ieee.org/tennis-playing-robot)**
 
-It took nature millions of years to create intelligent, adaptive species. Researchers at Northwestern University in Illinois are using AI to evolve robots in minutes. The result is a robot that is agile, highly adaptive, and technically indestructible.
+This humanoid robot is learning tennis the same way I did—by playing. Plus a robot horse for the Year of the Fire Horse in this week's robot videos.
 
-New Atlas • 4h ago
+IEEE Spectrum • 33m ago
 
 ---
 
@@ -157,6 +157,14 @@ New Atlas • 4h ago
 Chinese startup Unitree Robotics on Friday filed an initial public offering application to the Shanghai ​Stock Exchange, seeking to ​raise  about $610 million.
 
 CNBC • 1d ago
+
+---
+
+**[AI-evolved adaptable robot is almost impossible to destroy](https://newatlas.com/robotics/ai-evolved-indestructible-robot/)**
+
+It took nature millions of years to create intelligent, adaptive species. Researchers at Northwestern University in Illinois are using AI to evolve robots in minutes. The result is a robot that is agile, highly adaptive, and technically indestructible.
+
+New Atlas • 5h ago
 
 ---
 
@@ -181,14 +189,6 @@ GeekWire • 1d ago
 The company Twist Robotics has unveiled an updated version of the Obriy Anti-Shahed simulator. The platform’s key focus is the ability to practice scenarios for intercepting long-range drones.Representatives of the […]
 
 Мілітарний • 1d ago
-
----
-
-**[Mark Cuban says the future of robotics isn't humanoids, but robots and homes that are co-designed](https://www.businessinsider.com/mark-cuban-humanoid-robotics-will-fail-robots-houses-codesigned-2026-3)**
-
-Mark Cuban said the push for humanoid robots will fail and that instead robots and spaces will be co-designed.
-
-Business Insider • 1d ago
 
 ---
 
@@ -290,7 +290,7 @@ Humanoid tennis athletes are officially here! A team from Tsinghua University an
 
 📺 XRoboHub
 
-👁️ 163K • 👍 2K • 💬 278 • ⏱️ 0:23 • 5d ago
+👁️ 163K • 👍 2K • 💬 278 • ⏱️ 0:23 • 6d ago
 
 ---
 

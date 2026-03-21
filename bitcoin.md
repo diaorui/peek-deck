@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-21T16:31:36.252510+00:00'
+updated: '2026-03-21T17:27:10.026111+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 16:31 UTC  
+**Last Updated:** March 21, 2026 at 17:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,776.40
+### $70,374.69
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.4%  
-**7d:** -2.9%  
-**30d:** +3.9%  
-**90d:** -20.0%  
-**1y:** -15.7%  
+**24h:** +1.0%  
+**7d:** -3.2%  
+**30d:** +3.5%  
+**90d:** -20.3%  
+**1y:** -16.0%  
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perrenod
 
-5h ago
+6h ago
 
 ---
 
@@ -95,7 +95,13 @@ Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perreno
 
 Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Alden's book called Broken Money and read it.
 
-18h ago
+19h ago
+
+---
+
+**[Lightning Network might be already moving over $15B/year based on most recent data](https://www.reddit.com/r/Bitcoin/comments/1rztn0r/lightning_network_might_be_already_moving_over/)**
+
+🔗 [X (formerly Twitter)](https://x.com/LightningNewsX/status/2035261125630001359?s=20) • 2h ago
 
 ---
 
@@ -103,13 +109,7 @@ Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Al
 
 Holder since 2015. Never soldi. Slowly accumulating. Sometimes daily trading (with alternate results). A lot of "If I did that I wold have earned this much...", and "I should have done that when..." in my mind to keep me busy if I want. Now +50% or -50% in a month has noneffect on me, I simply zoom out. I also convinces two people to buy Bitcoin. Am I officially a veteran? Where Is my badge?😄
 
-6h ago
-
----
-
-**[Lightning Network might be already moving over $15B/year based on most recent data](https://www.reddit.com/r/Bitcoin/comments/1rztn0r/lightning_network_might_be_already_moving_over/)**
-
-🔗 [X (formerly Twitter)](https://x.com/LightningNewsX/status/2035261125630001359?s=20) • 1h ago
+7h ago
 
 ---
 
@@ -117,7 +117,7 @@ Holder since 2015. Never soldi. Slowly accumulating. Sometimes daily trading (wi
 
 Please someone just buy or sell already so the price moves!
 
-11h ago
+12h ago
 
 ---
 
@@ -133,7 +133,7 @@ Abra Financial Holdings, Inc. CEO
 
 any insight on the approximate cost to mine 1 bitcoin? I appreciate it varies by miner but average and bands would be helpful any credible charts out there of bitcoin price relative to cost to mine?
 
-4h ago
+5h ago
 
 ---
 
@@ -141,7 +141,7 @@ any insight on the approximate cost to mine 1 bitcoin? I appreciate it varies by
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-10h ago
+11h ago
 
 ---
 
@@ -149,7 +149,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 The government relies on this crypto infrastructure for international trade, while ordinary Iranians use it as a financial lifeline during protests and economic crises. Iran has built a multibillion-dollar parallel economy using state-sponsored Bitcoin mining and stablecoins to bypass the U.S. dollar, heavily driven by the IRGC. The government relies on this crypto infrastructure for international trade, while ordinary Iranians use it as a financial lifeline during protests and economic crises. Recent military strikes threaten Iran's fragile power grid, which is essential to sustaining the energy-intensive mining operations that keep this financial channel open. The Islamic Revolutionary Guard Corps (IRGC), the primary branch of the country’s military, has since deepened its role in the space. Chainalysis estimates IRGC-linked addresses accounted for more than 50% of total Iranian crypto inflows in the fourth quarter of 2025, with over $3 billion in value received last year.
 
-16h ago
+17h ago
 
 ---
 
@@ -165,19 +165,19 @@ CoinDesk • 1d ago
 
 ---
 
-**[What Happens to Bitcoin if Bank of America's 'Three Conditions' for Fed Rate Hikes Hit?](https://decrypt.co/361919/what-happens-bitcoin-bank-america-conditions-fed-rate-hikes-hit)**
+**[From $13,700 to $148 million: Bitcoin whale moves 2,100 BTC untouched for over 13 years](https://www.theblock.co/post/394488/from-13700-to-148-million-bitcoin-whale-moves-2100-btc-untouched-for-over-13-years)**
 
-As the U.S.-Israel war with Iran approaches a fourth week, Bank of America analysts envision a rate hike that would likely affect Bitcoin.
+The bitcoin address initially received the 2,100 BTC on July 4, 2012, when that amount was worth just $13,685.
 
-Decrypt • 23h ago
+The Block • 1d ago
 
 ---
 
-**[Bitcoin Just Had Its Worst Start to a Year Ever. History Says April Could Change Everything.](https://www.fool.com/investing/2026/03/21/bitcoin-just-had-its-worst-start-to-a-year-ever-hi/)**
+**[As Bitcoin lies flat, Hyperliquid tops weekly gains after Grayscale files for HYPE ETF](https://finance.yahoo.com/markets/crypto/articles/bitcoin-lies-flat-hyperliquid-tops-144915797.html)**
 
-This coin is known for being difficult to hold for a reason.
+HYPE is the biggest gainer over the past week out of large cap coins. Its rise comes as decentralised exchange Hyperliquid becomes mainstream. Bitcoin’s price has barely budged over the past week.
 
-The Motley Fool • 3h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -185,15 +185,7 @@ The Motley Fool • 3h ago
 
 First-quarter purchases have reached 89,618 BTC so far, the most since fourth-quarter 2024, and the quarter is not yet over.
 
-CoinDesk • 2h ago
-
----
-
-**[Eric Trump Says 'Up We Go' After American Bitcoin Surpasses Galaxy Digital In Bitcoin Holdings — So Why Is The Stock Lagging?](https://finance.yahoo.com/markets/crypto/articles/eric-trump-says-american-bitcoin-150105170.html)**
-
-American Bitcoin Corp. co-founder Eric Trump celebrated on Wednesday after the company surpassed Galaxy Digital Inc. in accumulating Bitcoin. ‘Climbing The Ladder Faster’ Trump took pride in the achievement on X, adding, “No company is climbing the ladder faster. Up,...
-
-Yahoo Finance • 1d ago
+CoinDesk • 3h ago
 
 ---
 
@@ -201,11 +193,11 @@ Yahoo Finance • 1d ago
 
 Unpopular
 
-Financial Times • 23h ago
+Financial Times • 1d ago
 
 ---
 
-**[Bitcoin Falls Below $70,000. It’s Not Just the Fed Decision Dragging on the Crypto, XRP.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-fed-powell-oil-033bcaee?gaa_at=eafs&gaa_n=AWEtsqeLjlr-_dJuezAaZmLtCXvZRn_dBae7Lg-jLvry8butxC5Y8CySSjdu&gaa_ts=69bec1b5&gaa_sig=Hz6r1azxRcVUbMeWi6LiymClU8TfZfASYBPRI9JR1DYVDgTgjxRk9mf9WSbPCEZNqkRMZOTMVfADmcJVUAWqeg%3D%3D)**
+**[Bitcoin Falls Below $70,000. It’s Not Just the Fed Decision Dragging on the Crypto, XRP.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-fed-powell-oil-033bcaee?gaa_at=eafs&gaa_n=AWEtsqcPF21QOdhN9nyKmU1_6fAQ7dtONwE7SXly1mIdJYOP-TOYzch03wLU&gaa_ts=69bed858&gaa_sig=RUz6-wHZKZLP6EMMedaNWcZDifoJabME3YY86tmsxmDAGjgJjDFE5iEY3XD41JFPjYrTjUIz7Uir1emHSpbzxw%3D%3D)**
 
 Barron's • 2d ago
 
@@ -215,15 +207,19 @@ Barron's • 2d ago
 
 The president and CEO of Strategy said Morgan Stanley’s upcoming bitcoin ETF could unlock as much as $160 billion in demand under a modest portfolio allocation scenario.
 
-Bitcoin Magazine • 22h ago
+Bitcoin Magazine • 23h ago
 
 ---
 
-**[Bitcoin long-term holder selling slows, signaling 'potentially constructive' trend: VanEck](https://www.theblock.co/post/394467/bitcoin-long-term-holder-activity-slows-vaneck)**
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqeiAgmKjcGYT7Y0hXEcHfmd-d2DnFJcl5WOPBIi4Q8RRJ15OVTTuJb8&gaa_ts=69bed858&gaa_sig=izB4BjVxg2XMwLvLF-KW7E4oZZ9UQ1vNrzBL6SFckovY9nMXdQHlTh8761uKO1usudTH8F0-cP0DQNTnU6dkSw%3D%3D)**
 
-VanEck's latest report noted that the selling pressure among bitcoin miners remained steady despite a decline in profitability.
+MarketWatch • 1d ago
 
-The Block • 1d ago
+---
+
+**[Ex-Wife Accused of Stealing £180 Million in Bitcoin After Divorce](https://www.bloomberg.com/news/articles/2026-03-19/ex-wife-accused-of-stealing-180-million-in-bitcoin-after-divorce)**
+
+Bloomberg.com • 2d ago
 
 ---
 
@@ -243,7 +239,7 @@ Polymarket • 1d ago
 
 Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in. Proof that works without us.
 
-⬆️ 6 • 💬 0 • 1d ago • [Umarise](https://umarise.com/blog/proof-of-existence)
+⬆️ 6 • 💬 0 • 2d ago • [Umarise](https://umarise.com/blog/proof-of-existence)
 
 ---
 
@@ -258,6 +254,14 @@ Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in
 Seal predictions and decisions with cryptographic proof anchored to Bitcoin. No third party required. Free and open source.
 
 ⬆️ 1 • 💬 1 • 3d ago • [psicommit.com](https://psicommit.com/)
+
+---
+
+**[Am-I.exposed – Bitcoin Privacy Scanner](https://news.ycombinator.com/item?id=47468905)**
+
+Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 33 chain analysis heuristics. Free, client-side, no tracking.
+
+⬆️ 1 • 💬 0 • 18m ago • [am-i.exposed](https://am-i.exposed/)
 
 ---
 
@@ -279,7 +283,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 **[BioContact assurance and status monitoring using human body communication](https://news.ycombinator.com/item?id=47459528)**
 
-⬆️ 1 • 💬 0 • 20h ago • [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2590123025045001)
+⬆️ 1 • 💬 0 • 21h ago • [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2590123025045001)
 
 ---
 
@@ -319,7 +323,7 @@ New report exposes institutions have only just begun dipping their toes into bit
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 306 • 💬 47 • ⏱️ 1:30:42 • 21h ago
+👁️ 7K • 👍 306 • 💬 47 • ⏱️ 1:30:42 • 22h ago
 
 ---
 
@@ -329,7 +333,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 My Channel
 
-👁️ 6K • 👍 1K • 2h ago
+👁️ 6K • 👍 1K • 3h ago
 
 ---
 
@@ -349,7 +353,7 @@ A central bank buying Bitcoin would change everything. Not because of the amount
 
 📺 Tim Talks Finance
 
-👁️ 3K • 👍 153 • 💬 36 • ⏱️ 18:40 • 17h ago
+👁️ 3K • 👍 153 • 💬 36 • ⏱️ 18:40 • 18h ago
 
 ---
 
@@ -369,7 +373,7 @@ Bill Barhydt is the founder and CEO of Abra and a longtime leader in digital ass
 
 📺 Altcoin Daily
 
-👁️ 8K • 👍 274 • 💬 86 • ⏱️ 1:06 • 21h ago
+👁️ 8K • 👍 274 • 💬 86 • ⏱️ 1:06 • 22h ago
 
 ---
 
@@ -379,7 +383,7 @@ Why 0.21 Bitcoin Is The Mathematical Tipping Point (5-Year Blueprint) There will
 
 📺 Brad Long
 
-👁️ 1K • 👍 91 • 💬 51 • ⏱️ 12:32 • 20h ago
+👁️ 1K • 👍 91 • 💬 51 • ⏱️ 12:32 • 21h ago
 
 ---
 
