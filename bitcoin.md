@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-21T11:46:31.186264+00:00'
+updated: '2026-03-21T12:52:32.109022+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
 - cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 11:46 UTC  
+**Last Updated:** March 21, 2026 at 12:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,672.32
+### $70,734.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -2.9%  
-**30d:** +3.8%  
-**90d:** -20.0%  
-**1y:** -15.8%  
+**24h:** +1.3%  
+**7d:** -2.8%  
+**30d:** +4.0%  
+**90d:** -19.9%  
+**1y:** -15.6%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[RIP Legend](https://www.reddit.com/r/Bitcoin/comments/1rzh2xj/rip_legend/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Alden's book called Broken Money and read it.
 
-13h ago
+14h ago
 
 ---
 
@@ -95,7 +95,7 @@ Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Al
 
 Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perrenod
 
-1h ago
+2h ago
 
 ---
 
@@ -103,7 +103,15 @@ Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perreno
 
 Holder since 2015. Never soldi. Slowly accumulating. Sometimes daily trading (with alternate results). A lot of "If I did that I wold have earned this much...", and "I should have done that when..." in my mind to keep me busy if I want. Now +50% or -50% in a month has noneffect on me, I simply zoom out. I also convinces two people to buy Bitcoin. Am I officially a veteran? Where Is my badge?😄
 
-1h ago
+2h ago
+
+---
+
+**[Bitcoin stuck, it needs your help!](https://www.reddit.com/r/Bitcoin/comments/1rzindb/bitcoin_stuck_it_needs_your_help/)**
+
+Please someone just buy or sell already so the price moves!
+
+8h ago
 
 ---
 
@@ -111,13 +119,13 @@ Holder since 2015. Never soldi. Slowly accumulating. Sometimes daily trading (wi
 
 Abra Financial Holdings, Inc. CEO
 
-22h ago
+23h ago
 
 ---
 
-**[Bitcoin stuck, it needs your help!](https://www.reddit.com/r/Bitcoin/comments/1rzindb/bitcoin_stuck_it_needs_your_help/)**
+**[Daily Discussion, March 21, 2026](https://www.reddit.com/r/Bitcoin/comments/1rzjznp/daily_discussion_march_21_2026/)**
 
-Please someone just buy or sell already so the price moves!
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
 6h ago
 
@@ -127,15 +135,7 @@ Please someone just buy or sell already so the price moves!
 
 The government relies on this crypto infrastructure for international trade, while ordinary Iranians use it as a financial lifeline during protests and economic crises. Iran has built a multibillion-dollar parallel economy using state-sponsored Bitcoin mining and stablecoins to bypass the U.S. dollar, heavily driven by the IRGC. The government relies on this crypto infrastructure for international trade, while ordinary Iranians use it as a financial lifeline during protests and economic crises. Recent military strikes threaten Iran's fragile power grid, which is essential to sustaining the energy-intensive mining operations that keep this financial channel open. The Islamic Revolutionary Guard Corps (IRGC), the primary branch of the country’s military, has since deepened its role in the space. Chainalysis estimates IRGC-linked addresses accounted for more than 50% of total Iranian crypto inflows in the fourth quarter of 2025, with over $3 billion in value received last year.
 
-12h ago
-
----
-
-**[Daily Discussion, March 21, 2026](https://www.reddit.com/r/Bitcoin/comments/1rzjznp/daily_discussion_march_21_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-5h ago
+13h ago
 
 ---
 
@@ -143,7 +143,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 North Carolina is moving to become one of the first states to officially hold Bitcoin as part of its treasury reserves. The bill (HB 92) would allow the state treasurer to invest up to 10% of certain public funds in Bitcoin. These reserves typically consist of US Treasury bonds
 
-21h ago
+22h ago
 
 ---
 
@@ -151,7 +151,7 @@ North Carolina is moving to become one of the first states to officially hold Bi
 
 Hey all, i made mistake a long time ago when BTC price was 17.000€ and I wanted to do it, but I was too afraid. I wanted this asimetric bet on crypto on my portfolio. Today I purchased my first 1% of coin. I’ve waited for this oppurtunity for a long time now, and I finally got entry I am confortable with. So, new guy in the buisness. :) Any advice tou can give me?
 
-17h ago
+18h ago
 
 ---
 
@@ -167,11 +167,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[From $13,700 to $148 million: Bitcoin whale moves 2,100 BTC untouched for over 13 years](https://www.theblock.co/post/394488/from-13700-to-148-million-bitcoin-whale-moves-2100-btc-untouched-for-over-13-years)**
+**[What Happens to Bitcoin if Bank of America's 'Three Conditions' for Fed Rate Hikes Hit?](https://decrypt.co/361919/what-happens-bitcoin-bank-america-conditions-fed-rate-hikes-hit)**
 
-The bitcoin address initially received the 2,100 BTC on July 4, 2012, when that amount was worth just $13,685.
+As the U.S.-Israel war with Iran approaches a fourth week, Bank of America analysts envision a rate hike that would likely affect Bitcoin.
 
-The Block • 1d ago
+Decrypt • 19h ago
 
 ---
 
@@ -179,23 +179,23 @@ The Block • 1d ago
 
 This coin offers a very appealing mixture of new in-demand services for AI and a proven supply schedule.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
-**[Better Crypto Buy: Bitcoin vs. Dogecoin? Here's the 1 to Buy for 2026.](https://www.fool.com/investing/2026/03/21/better-crypto-buy-bitcoin-dogecoin-1-buy-2026/)**
+**[Better Crypto Buy: Bitcoin vs. Dogecoin? Here's the 1 to Buy for 2026.](https://finance.yahoo.com/markets/crypto/articles/better-crypto-buy-bitcoin-vs-112000097.html)**
 
 The market is pessimistic, as these popular digital assets are trading significantly below recent highs.
 
-The Motley Fool • 16m ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Eric Trump Says 'Up We Go' After American Bitcoin Surpasses Galaxy Digital In Bitcoin Holdings — So Why Is The Stock Lagging?](https://finance.yahoo.com/markets/crypto/articles/eric-trump-says-american-bitcoin-150105170.html)**
+**[Bitcoin Just Had Its Worst Start to a Year Ever. History Says April Could Change Everything.](https://www.fool.com/investing/2026/03/21/bitcoin-just-had-its-worst-start-to-a-year-ever-hi/)**
 
-American Bitcoin Corp. co-founder Eric Trump celebrated on Wednesday after the company surpassed Galaxy Digital Inc. in accumulating Bitcoin. ‘Climbing The Ladder Faster’ Trump took pride in the achievement on X, adding, “No company is climbing the ladder faster. Up,...
+This coin is known for being difficult to hold for a reason.
 
-Yahoo Finance • 20h ago
+The Motley Fool • 15m ago
 
 ---
 
@@ -203,11 +203,11 @@ Yahoo Finance • 20h ago
 
 Unpopular
 
-Financial Times • 18h ago
+Financial Times • 20h ago
 
 ---
 
-**[Bitcoin Falls Below $70,000. It’s Not Just the Fed Decision Dragging on the Crypto, XRP.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-fed-powell-oil-033bcaee?gaa_at=eafs&gaa_n=AWEtsqez-TkMxV_aNQK0g_h0OoJkwwdhZar2D_rWyz6O8EjOWffciaN1VbPS&gaa_ts=69be8871&gaa_sig=yZbI3o5E92f3TpcT7ZQcBTTuEcb8tCyPavua3akZTg0hdJGFvbXrfZpnc8U_C51OPRhzJu7YUGZ2yg6txdVOOw%3D%3D)**
+**[Bitcoin Falls Below $70,000. It’s Not Just the Fed Decision Dragging on the Crypto, XRP.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-fed-powell-oil-033bcaee?gaa_at=eafs&gaa_n=AWEtsqfNbNo1UH5V9m9J02wWE_WXu3sQ5DuYlwDXiFB41VNsguXIBXXclKxO&gaa_ts=69be97fa&gaa_sig=Afomj9PkD3ui1I_GfhvdLMhLtibK4hVzLXC-GSkhnz_nm12Xrk0gWhl-6whnN881EejNw5i8md54P4RQtC9r9w%3D%3D)**
 
 Barron's • 2d ago
 
@@ -217,23 +217,21 @@ Barron's • 2d ago
 
 The president and CEO of Strategy said Morgan Stanley’s upcoming bitcoin ETF could unlock as much as $160 billion in demand under a modest portfolio allocation scenario.
 
-Bitcoin Magazine • 17h ago
+Bitcoin Magazine • 18h ago
 
 ---
 
-**[Popular Texas bank has unreal target for MicroStrategy](https://www.thestreet.com/crypto/investing/popular-texas-bank-makes-unreal-prediction-for-microstrategy)**
+**[Ex-Wife Accused of Stealing £180 Million in Bitcoin After Divorce](https://www.bloomberg.com/news/articles/2026-03-19/ex-wife-accused-of-stealing-180-million-in-bitcoin-after-divorce)**
 
-Texas Capital remains hopeful about Strategy's Bitcoin policy.
-
-thestreet.com • 14h ago
+Bloomberg.com • 2d ago
 
 ---
 
-**[Bitcoin Has Stabilized, But Investors Are Paying Up for Downside Protection: VanEck](https://decrypt.co/361939/bitcoin-stabilized-investors-paying-downside-protection-vaneck)**
+**[From $13,700 to $148 million: Bitcoin whale moves 2,100 BTC untouched for over 13 years](https://www.theblock.co/post/394488/from-13700-to-148-million-bitcoin-whale-moves-2100-btc-untouched-for-over-13-years)**
 
-Bitcoin's volatility has subsided over the last month, but traders are still paying a premium for downside protection, VanEck said.
+The bitcoin address initially received the 2,100 BTC on July 4, 2012, when that amount was worth just $13,685.
 
-Decrypt • 14h ago
+The Block • 1d ago
 
 ---
 
@@ -251,7 +249,7 @@ Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in
 
 **[Bitcoin, XRP Fall in a Bad Week for Cryptos](https://news.ycombinator.com/item?id=47453548)**
 
-⬆️ 2 • 💬 0 • 23h ago • [barrons.com](https://www.barrons.com/articles/bitcoin-price-xrp-etheruem-crypto-sec-nasdaq-2e2f8254)
+⬆️ 2 • 💬 0 • 1d ago • [barrons.com](https://www.barrons.com/articles/bitcoin-price-xrp-etheruem-crypto-sec-nasdaq-2e2f8254)
 
 ---
 
@@ -275,13 +273,13 @@ Open archive of autonomous scientific discovery experiments.
 
 Contribute to Kristian5013/resonancenet development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 5d ago • [GitHub](https://github.com/Kristian5013/resonancenet)
+⬆️ 1 • 💬 0 • 6d ago • [GitHub](https://github.com/Kristian5013/resonancenet)
 
 ---
 
 **[BioContact assurance and status monitoring using human body communication](https://news.ycombinator.com/item?id=47459528)**
 
-⬆️ 1 • 💬 0 • 16h ago • [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2590123025045001)
+⬆️ 1 • 💬 0 • 17h ago • [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2590123025045001)
 
 ---
 
@@ -301,7 +299,7 @@ Bitcoin just went live at millions of businesses without anyone opting in. While
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 1K • 💬 149 • ⏱️ 12:51 • 13h ago
+👁️ 13K • 👍 1K • 💬 149 • ⏱️ 12:51 • 14h ago
 
 ---
 
@@ -311,7 +309,7 @@ New report exposes institutions have only just begun dipping their toes into bit
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 291 • 💬 100 • ⏱️ 1:30:42 • 16h ago
+👁️ 7K • 👍 291 • 💬 100 • ⏱️ 1:30:42 • 17h ago
 
 ---
 
@@ -321,7 +319,7 @@ Why 0.21 Bitcoin Is The Mathematical Tipping Point (5-Year Blueprint) There will
 
 📺 Brad Long
 
-👁️ 1K • 👍 73 • 💬 36 • ⏱️ 12:32 • 15h ago
+👁️ 1K • 👍 73 • 💬 36 • ⏱️ 12:32 • 16h ago
 
 ---
 
@@ -331,7 +329,7 @@ A central bank buying Bitcoin would change everything. Not because of the amount
 
 📺 Tim Talks Finance
 
-👁️ 2K • 👍 134 • 💬 22 • ⏱️ 18:40 • 12h ago
+👁️ 2K • 👍 134 • 💬 22 • ⏱️ 18:40 • 13h ago
 
 ---
 
@@ -351,7 +349,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 6K • 👍 359 • 💬 130 • ⏱️ 8:34 • 12h ago
+👁️ 6K • 👍 359 • 💬 130 • ⏱️ 8:34 • 13h ago
 
 ---
 
@@ -361,7 +359,7 @@ Bitcoin Vegas 2026: https://fxo.co/JAmn Welcome to the Crypto Lifer Channel! JOI
 
 📺 Crypto Lifer
 
-👁️ 6K • 👍 467 • 💬 54 • ⏱️ 2:00:31 • 19h ago
+👁️ 6K • 👍 467 • 💬 54 • ⏱️ 2:00:31 • 20h ago
 
 ---
 
@@ -381,7 +379,7 @@ Crypto is about to get LEGIT CRAZY $30k Bonus Sign Up For WEEX: https://www.weex
 
 📺 Altcoin Daily
 
-👁️ 16K • 👍 430 • 💬 112 • ⏱️ 1:14 • 2d ago
+👁️ 16K • 👍 430 • 💬 112 • ⏱️ 1:14 • 3d ago
 
 ---
 

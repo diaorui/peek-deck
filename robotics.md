@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-21T11:46:31.195390+00:00'
+updated: '2026-03-21T12:52:32.122591+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 21, 2026 at 11:46 UTC  
+**Last Updated:** March 21, 2026 at 12:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[You eventually start to realize, no job is safe](https://www.reddit.com/r/robotics/comments/1rzftd8/you_eventually_start_to_realize_no_job_is_safe/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Showcasing the newest version (v20) of my hand & wrist combo! Same as the last version, it's a combination of direct- and tendon-driven actuation, still with 19 joints and 10 active DOFs. It has independent finger flexion, a 3-DOF thumb, linked finger splay, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist which measures joint position (at the motor output), current, and temperature. And all the movements were programmed with custom C#/C++ software. Improved from the last version, the base thumb joints were switched to direct drive and much beefier motors were swapped in for the wrist joints - improving strength and repeatability under heavier loads. Despite these new motors though, the form factor remains nearly identical to v19, spare a few millimeters of thickness and height. Some more minor changes: (1) ASA and carbon fiber filaments replaced basic PLA to improve rigidity and strength, (2) the power input was switched to an XT30 connector to accommodate the more power-hungry motors, and (3) better filtering and chips to reduce current and position signal noise. Still making incremental improvements here and there, but happy to answer any questions and hear your thoughts!
 
-19h ago
+21h ago
 
 ---
 
@@ -50,7 +50,7 @@ Showcasing the newest version (v20) of my hand & wrist combo! Same as the last v
 
 Don't be surprised if you meet humanoid robots on the streets of Beijing at midnight. They are training for their half-marathon! Over 20 teams joined the first trial run. The official race will be held on April 19.
 
-19h ago
+20h ago
 
 ---
 
@@ -58,7 +58,7 @@ Don't be surprised if you meet humanoid robots on the streets of Beijing at midn
 
 I created this thread to discuss the reviews and scores for the submissions to RSS 2026 in Sydney Australia. Did anyone receive their reviews yet?
 
-1h ago
+2h ago
 
 ---
 
@@ -74,7 +74,7 @@ From Physical Intelligence on 𝕏 (thread with multiple videos): https://x.com/
 
 Copper is an open-source robotics runtime in Rust for building deterministic, observable systems. Until now, it was very much geared toward production. With v0.14, we’re opening that system up to earlier-stage work as well. In robotics, you typically prototype quickly in Python, then rebuild the system to meet determinism, safety, and observability requirements. You can validate algorithms on real logs or simulation, inspect them in a running system, and iterate without rebuilding the surrounding infrastructure. When it’s time to move to Rust, only the task needs to change, and LLMs are quite effective at helping with that step. This release also also introduces: - composable monitoring, including a dedicated safety monitors - a new Webassembly target! After CPUs and MCUs targets, Copper can now fully run in a browser for shareable demos, check out the links in the article. - The ROS2 bridge is now bidirectional, helping the gradual migrations from ROS2 from both sides of the stack The focus is continuity from early experimentation to deployment. If you’re a Python roboticist looking for a smooth path into a Rust-based production system, come talk to us on Discord, we’re happy to help.
 
-🔗 [Copper Robotics](https://www.copper-robotics.com/whats-new/copper-rs-v014-from-prototype-to-production-without-changing-systems) • 20h ago
+🔗 [Copper Robotics](https://www.copper-robotics.com/whats-new/copper-rs-v014-from-prototype-to-production-without-changing-systems) • 21h ago
 
 ---
 
@@ -88,7 +88,7 @@ Copper is an open-source robotics runtime in Rust for building deterministic, ob
 
 Need financial help to attend ROSCon Global 2026 in Toronto?This Sunday, March 22nd, is the last day to apply to our diversity scholarship program! The application is quick and easy and covers all the expenses associated with traveling to ROSCon!
 
-🔗 [roscon.ros.org](https://roscon.ros.org/2026/#diversity-scholars) • 13h ago
+🔗 [roscon.ros.org](https://roscon.ros.org/2026/#diversity-scholars) • 14h ago
 
 ---
 
@@ -120,6 +120,22 @@ The Information • 1d ago
 
 ---
 
+**[Amazon acquires startup Rivr to test robots for 'doorstep delivery'](https://www.cnbc.com/2026/03/19/amazon-acquires-startup-rivr-to-test-robots-for-doorstep-delivery.html)**
+
+The company expects to test ways it can use Rivr's robots to help with "doorstep delivery" and to "improve safety outcomes" for delivery drivers.
+
+CNBC • 1d ago
+
+---
+
+**[Amazon acquires Rivr, maker of a stair-climbing delivery robot](https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/)**
+
+Amazon and Jeff Bezos had previously invested in the startup. The deal signals the e-commerce giant's interest in doorstep delivery.
+
+TechCrunch • 1d ago
+
+---
+
 **[Inside China’s robotics revolution](https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution)**
 
 The long read: How close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find out
@@ -128,11 +144,19 @@ The Guardian • 2d ago
 
 ---
 
+**[The great robot race: How companies can balance speed to market and compliance in the U.S.](https://www.therobotreport.com/great-robot-race-how-companies-balance-speed-market-compliance-u-s/)**
+
+While standards vary between the U.S. and EU, consumer robotics and AI developers need compliance strategies, explain Cooley experts.
+
+The Robot Report • 18m ago
+
+---
+
 **[Unitree plans Shanghai IPO, testing interest in humanoid robots](https://www.cnbc.com/2026/03/20/unitree-plans-shanghai-ipo-testing-interest-in-humanoid-robots.html)**
 
 Chinese startup Unitree Robotics on Friday filed an initial public offering application to the Shanghai ​Stock Exchange, seeking to ​raise  about $610 million.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
@@ -165,30 +189,6 @@ NVIDIA Blog • 2d ago
 Aptima reached the Army xTechHumanoid finals with a fully autonomous locomotion system that helps humanoid robots navigate difficult terrain and recover from slips or entanglements without human input.
 
 Military.com • 2d ago
-
----
-
-**[Tech Moves: Carbon Robotics’ new CFO; Microsoft gaming GM goes to Netflix; Nordstrom gets VP of AI](https://www.geekwire.com/2026/tech-moves-carbon-robotics-new-cfo-microsoft-gaming-gm-goes-to-netflix-nordstrom-gets-vp-of-ai/)**
-
-Carbon Robotics names a CFO; Nordstrom gets a VP of AI; and a Microsoft gaming GM goes to Netflix while one of its longtime legal leaders retires.
-
-GeekWire • 20h ago
-
----
-
-**[How robots made Northampton warehouse three times more efficient](https://www.bbc.com/news/articles/cp32zk4lpz4o)**
-
-They can lift heavy boxes and climb shelves 12m high but will they put humans out of work?
-
-BBC • 2d ago
-
----
-
-**[Techman’s Humanoid Robot Astonishes GTC 2026 Crowd, Redefining Industrial Robotics](https://www.eweek.com/news/techman-tm-xplore-i-humanoid-robot-nvidia-gtc-2026/)**
-
-Techman unveils its TM Xplore I humanoid robot at Nvidia GTC 2026, showcasing AI-powered automation designed for real-world industrial work.
-
-eWeek • 1d ago
 
 ---
 
@@ -262,7 +262,7 @@ Chinese robotics leader Unitree finds itself in the crosshairs of the US governm
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 33 • 💬 3 • ⏱️ 0:41 • 15h ago
+👁️ 1K • 👍 33 • 💬 3 • ⏱️ 0:41 • 16h ago
 
 ---
 
