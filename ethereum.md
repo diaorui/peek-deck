@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-21T15:50:32.950173+00:00'
+updated: '2026-03-21T16:31:36.257700+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
-- news
 - cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 15:50 UTC  
+**Last Updated:** March 21, 2026 at 16:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $260.88B
+**Market Cap:** $259.63B
 Rank #2
 
 **Circulating Supply:** 120,691,752 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.3%
+-56.5%
 
 **All-Time Low:** $0.43
-+499118.2%
++496282.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone, I’ve been working on a side project called Blockpeek and just shipped a new update. It’s a blockchain transaction scanner that tries to explain what actually happened in plain English instead of just showing raw hex data. You paste a transaction hash (or upload a screenshot from your wallet/exchange) and it tells you: ∙ What was sent, to who, from who ∙ The USD value at the time ∙ Gas fees in USD ∙ Which chain it was on (auto-detects Ethereum, BSC, Arbitrum, Polygon, Base, Solana, Bitcoin, Tron and more) It’s free, no login required. Would genuinely love feedback — what’s missing, what’s broken, what would make it actually useful for you. blockpeek.io
 
-16h ago
+17h ago
 
 ---
 
@@ -202,7 +202,7 @@ The Block • 2d ago
 
 Ethereum investor Stanley Druckenmiller has added his voice to the growing conversation around the future of digital finance, predicting that stablecoins could become the dominant force in global payment systems within the next few years. The veteran investor’s outlook reflects a broader shift amon…
 
-TradingView • 21h ago
+TradingView • 22h ago
 
 ---
 
@@ -234,13 +234,23 @@ Decrypt • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=FeGxOYyXTyE)**
+
+ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
+
+📺 Chad Colby
+
+👁️ 467 • 👍 1K • 7m ago
+
+---
+
 **[Tom Lee: &quot;$250K Bitcoin &amp; $12K Ethereum&quot; - His EXACT 2026 Price Targets Revealed](https://www.youtube.com/watch?v=POwKnprttyw)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 10K • 👍 426 • 💬 52 • ⏱️ 19:43 • 1d ago
+👁️ 11K • 👍 436 • 💬 52 • ⏱️ 19:43 • 1d ago
 
 ---
 
@@ -250,17 +260,7 @@ Ethereum is showing strong bullish signals, with analysts predicting a major reb
 
 📺 Crypto Sensei
 
-👁️ 6K • 👍 453 • 💬 68 • ⏱️ 12:42 • 1d ago
-
----
-
-**[Wall Street&#39;s 18% Tax on Ethereum](https://www.youtube.com/watch?v=l77QrTEIgpo)**
-
-BlackRock just launched a staking Ethereum ETF—but is it really a win for investors? This video breaks down ETHB, hidden fees, ...
-
-📺 Coin Bureau
-
-👁️ 735 • 👍 54 • 💬 8 • ⏱️ 18:11 • 1h ago
+👁️ 6K • 👍 455 • 💬 55 • ⏱️ 12:42 • 1d ago
 
 ---
 
@@ -270,7 +270,25 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 117 • 💬 5 • ⏱️ 3:56 • 12h ago
+👁️ 2K • 👍 117 • 💬 5 • ⏱️ 3:56 • 13h ago
+
+---
+
+**[BE READY FOR THIS DUMP!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=4IMp91ZMHw4)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 168 • 👍 9 • 💬 1 • ⏱️ 5:16 • 6h ago
+
+---
+
+**[Asking AI to Predict Ethereum Price in 2030](https://www.youtube.com/watch?v=nmWDqBAfbkw)**
+
+📺 EllioTrades
+
+👁️ 10K • 👍 227 • 💬 40 • ⏱️ 1:07 • 2d ago
 
 ---
 
@@ -280,25 +298,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 66 • 👍 7 • 💬 1 • ⏱️ 4:32 • 1h ago
-
----
-
-**[Asking AI to Predict Ethereum Price in 2030](https://www.youtube.com/watch?v=nmWDqBAfbkw)**
-
-📺 EllioTrades
-
-👁️ 10K • 👍 224 • 💬 40 • ⏱️ 1:07 • 2d ago
-
----
-
-**[BITCOIN &amp; ALTCOIN WARNING: Price Targets Exposed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_1-O-RlRdxA)**
-
-BITCOIN & ALTCOIN WARNING: Price Targets Exposed!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 255 • 💬 120 • ⏱️ 16:50 • 21h ago
+👁️ 463 • 👍 55 • 💬 4 • ⏱️ 4:32 • 2h ago
 
 ---
 
@@ -308,27 +308,27 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 My Channel
 
-👁️ 4K • 👍 1K • 2h ago
+👁️ 6K • 👍 1K • 2h ago
 
 ---
 
-**[CRYPTO LIVE TRADING || 21 Mar  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=Mq12CpNVv9A)**
+**[BITCOIN &amp; ALTCOIN WARNING: Price Targets Exposed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_1-O-RlRdxA)**
+
+BITCOIN & ALTCOIN WARNING: Price Targets Exposed!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 259 • 💬 155 • ⏱️ 16:50 • 21h ago
+
+---
+
+**[CRYPTO LIVE TRADING || 21 Mar  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=TK9P6G1BaIo)**
 
 join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 11K • 👍 4K • 💬 30 • ⏱️ 1:41:53 • 2h ago
-
----
-
-**[BTC &amp; ETH: Emergency FED Meeting Update!!](https://www.youtube.com/watch?v=qLWPSQK-FPE)**
-
-BloFin (NO KYC) – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade ...
-
-📺 Marzell Crypto
-
-👁️ 685 • 👍 17 • 💬 27 • ⏱️ 3:03 • 2d ago
+👁️ 4K • 👍 4K • 1h ago
 
 ---
 

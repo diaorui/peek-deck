@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-21T15:50:32.953417+00:00'
+updated: '2026-03-21T16:31:36.260534+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 21, 2026 at 15:50 UTC  
+**Last Updated:** March 21, 2026 at 16:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
-2h ago
+3h ago
 
 ---
 
 **[You eventually start to realize, no job is safe](https://www.reddit.com/r/robotics/comments/1rzftd8/you_eventually_start_to_realize_no_job_is_safe/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Ringbot: A monocycle robot developed by the Robotics and Institute (RAI) that uses internal legs for balance and acrobatic maneuvers](https://www.reddit.com/r/robotics/comments/1rztuum/ringbot_a_monocycle_robot_developed_by_the/)**
 
-40m ago
+1h ago
 
 ---
 
@@ -80,7 +80,7 @@ Don't be surprised if you meet humanoid robots on the streets of Beijing at midn
 
 It's one of the sample tasks I'm planning to demonstrate to the guests of my upcoming conference. ( 120 characters limit bypass )
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ It's one of the sample tasks I'm planning to demonstrate to the guests of my upc
 
 I created this thread to discuss the reviews and scores for the submissions to RSS 2026 in Sydney Australia. Did anyone receive their reviews yet?
 
-5h ago
+6h ago
 
 ---
 
@@ -148,7 +148,7 @@ The Guardian • 2d ago
 
 It took nature millions of years to create intelligent, adaptive species. Researchers at Northwestern University in Illinois are using AI to evolve robots in minutes. The result is a robot that is agile, highly adaptive, and technically indestructible.
 
-New Atlas • 3h ago
+New Atlas • 4h ago
 
 ---
 
@@ -180,7 +180,7 @@ GeekWire • 1d ago
 
 The company Twist Robotics has unveiled an updated version of the Obriy Anti-Shahed simulator. The platform’s key focus is the ability to practice scenarios for intercepting long-range drones.Representatives of the […]
 
-Мілітарний • 23h ago
+Мілітарний • 1d ago
 
 ---
 
@@ -202,7 +202,7 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 176K • 👍 2K • 💬 2K • ⏱️ 2:07 • 2d ago
+👁️ 189K • 👍 3K • 💬 2K • ⏱️ 2:07 • 2d ago
 
 ---
 
@@ -212,7 +212,7 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 MachineWorks Studio
 
-👁️ 2.0M • 👍 2K • 💬 24 • ⏱️ 0:06 • 5d ago
+👁️ 2.0M • 👍 2K • 💬 25 • ⏱️ 0:06 • 5d ago
 
 ---
 
@@ -232,7 +232,7 @@ Video shows restaurant employees struggling to restrain a dancing robot that wen
 
 📺 NBC News
 
-👁️ 163K • 👍 2K • 💬 586 • ⏱️ 3:38 • 2d ago
+👁️ 166K • 👍 2K • 💬 594 • ⏱️ 3:38 • 2d ago
 
 ---
 
@@ -242,17 +242,17 @@ CENTAUR ROBOT - wearable robot adds two legs behind people to help distribute th
 
 📺 Unstoppable Gadgets
 
-👁️ 28K • 👍 336 • 💬 21 • ⏱️ 0:17 • 2d ago
+👁️ 28K • 👍 338 • 💬 21 • ⏱️ 0:17 • 2d ago
 
 ---
 
-**[China’s New 6 Armed Robot Is Here… The World Is NOT Ready](https://www.youtube.com/watch?v=jpTxgk6K8ho)**
+**[This Chinese Robot Just Crossed All the Lines — Real Life Terminator T800](https://www.youtube.com/watch?v=0hVT9qcC8Ec)**
 
-Orchestrated YouTube description crafting from provided content   A six-armed humanoid robot just hit a real factory floor — and ...
+China just built something that was supposed to be decades away. Engine AI's T800 humanoid robot is already walking live ...
 
-📺 The AI Nexus
+📺 Core Insights
 
-👁️ 4K • 👍 131 • 💬 6 • ⏱️ 21:04 • 1d ago
+👁️ 69K • 👍 1K • 💬 134 • ⏱️ 15:19 • 3d ago
 
 ---
 
@@ -272,7 +272,7 @@ The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrati
 
 📺 DPCcars
 
-👁️ 179K • 👍 2K • 💬 219 • ⏱️ 2:02 • 4d ago
+👁️ 182K • 👍 2K • 💬 225 • ⏱️ 2:02 • 4d ago
 
 ---
 
@@ -284,13 +284,13 @@ The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrati
 
 ---
 
-**[This Chinese Robot Just Crossed All the Lines — Real Life Terminator T800](https://www.youtube.com/watch?v=0hVT9qcC8Ec)**
+**[🎾🤖 INSANE! Researchers Can&#39;t Beat This #TennisRobot Anymore! #LATENT is Pro. #humanoid #robot #ai](https://www.youtube.com/watch?v=yqprFRLeZ48)**
 
-China just built something that was supposed to be decades away. Engine AI's T800 humanoid robot is already walking live ...
+Humanoid tennis athletes are officially here! A team from Tsinghua University and Galbot just dropped LATENT, and it is ...
 
-📺 Core Insights
+📺 XRoboHub
 
-👁️ 69K • 👍 1K • 💬 133 • ⏱️ 15:19 • 3d ago
+👁️ 163K • 👍 2K • 💬 278 • ⏱️ 0:23 • 5d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-21T15:50:32.944130+00:00'
+updated: '2026-03-21T16:31:36.252510+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- news
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 15:50 UTC  
+**Last Updated:** March 21, 2026 at 16:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1418.76B
+**Market Cap:** $1410.49B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--43.7%
+-44.2%
 
 **All-Time Low:** $67.81
-+104493.7%
++103734.2%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[RIP Legend](https://www.reddit.com/r/Bitcoin/comments/1rzh2xj/rip_legend/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -95,7 +95,7 @@ Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perreno
 
 Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Alden's book called Broken Money and read it.
 
-17h ago
+18h ago
 
 ---
 
@@ -103,13 +103,13 @@ Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Al
 
 Holder since 2015. Never soldi. Slowly accumulating. Sometimes daily trading (with alternate results). A lot of "If I did that I wold have earned this much...", and "I should have done that when..." in my mind to keep me busy if I want. Now +50% or -50% in a month has noneffect on me, I simply zoom out. I also convinces two people to buy Bitcoin. Am I officially a veteran? Where Is my badge?😄
 
-5h ago
+6h ago
 
 ---
 
 **[Lightning Network might be already moving over $15B/year based on most recent data](https://www.reddit.com/r/Bitcoin/comments/1rztn0r/lightning_network_might_be_already_moving_over/)**
 
-🔗 [X (formerly Twitter)](https://x.com/LightningNewsX/status/2035261125630001359?s=20) • 49m ago
+🔗 [X (formerly Twitter)](https://x.com/LightningNewsX/status/2035261125630001359?s=20) • 1h ago
 
 ---
 
@@ -117,7 +117,7 @@ Holder since 2015. Never soldi. Slowly accumulating. Sometimes daily trading (wi
 
 Please someone just buy or sell already so the price moves!
 
-10h ago
+11h ago
 
 ---
 
@@ -133,7 +133,7 @@ Abra Financial Holdings, Inc. CEO
 
 any insight on the approximate cost to mine 1 bitcoin? I appreciate it varies by miner but average and bands would be helpful any credible charts out there of bitcoin price relative to cost to mine?
 
-3h ago
+4h ago
 
 ---
 
@@ -141,7 +141,7 @@ any insight on the approximate cost to mine 1 bitcoin? I appreciate it varies by
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-9h ago
+10h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 1d ago
 
 As the U.S.-Israel war with Iran approaches a fourth week, Bank of America analysts envision a rate hike that would likely affect Bitcoin.
 
-Decrypt • 22h ago
+Decrypt • 23h ago
 
 ---
 
@@ -177,7 +177,7 @@ Decrypt • 22h ago
 
 This coin is known for being difficult to hold for a reason.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Motley Fool • 2h ago
 
 First-quarter purchases have reached 89,618 BTC so far, the most since fourth-quarter 2024, and the quarter is not yet over.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -215,7 +215,7 @@ Barron's • 2d ago
 
 The president and CEO of Strategy said Morgan Stanley’s upcoming bitcoin ETF could unlock as much as $160 billion in demand under a modest portfolio allocation scenario.
 
-Bitcoin Magazine • 21h ago
+Bitcoin Magazine • 22h ago
 
 ---
 
@@ -299,17 +299,7 @@ Bitcoin just went live at millions of businesses without anyone opting in. While
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 162 • ⏱️ 12:51 • 17h ago
-
----
-
-**[NEW REPORT EXPOSES The $71 Trillion Secret Behind Bitcoin’s Next Move | EP 1465](https://www.youtube.com/watch?v=aC9XCqNsHYQ)**
-
-New report exposes institutions have only just begun dipping their toes into bitcoin and 2026 is the year they make big moves .
-
-📺 Simply Bitcoin
-
-👁️ 7K • 👍 300 • 💬 102 • ⏱️ 1:30:42 • 20h ago
+👁️ 16K • 👍 1K • 💬 123 • ⏱️ 12:51 • 18h ago
 
 ---
 
@@ -319,17 +309,27 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 6K • 👍 366 • 💬 135 • ⏱️ 8:34 • 16h ago
+👁️ 6K • 👍 377 • 💬 143 • ⏱️ 8:34 • 17h ago
 
 ---
 
-**[Bitcoin Just Got Its Biggest Institutional Endorsement](https://www.youtube.com/watch?v=JeIbpLfQ_oI)**
+**[NEW REPORT EXPOSES The $71 Trillion Secret Behind Bitcoin’s Next Move | EP 1465](https://www.youtube.com/watch?v=aC9XCqNsHYQ)**
 
-A central bank buying Bitcoin would change everything. Not because of the amount… But because of what it signals. In this video ...
+New report exposes institutions have only just begun dipping their toes into bitcoin and 2026 is the year they make big moves .
 
-📺 Tim Talks Finance
+📺 Simply Bitcoin
 
-👁️ 3K • 👍 145 • 💬 27 • ⏱️ 18:40 • 16h ago
+👁️ 7K • 👍 306 • 💬 47 • ⏱️ 1:30:42 • 21h ago
+
+---
+
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=jDn-cQEKKMQ)**
+
+TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
+
+📺 My Channel
+
+👁️ 6K • 👍 1K • 2h ago
 
 ---
 
@@ -339,17 +339,17 @@ A classic case of the bear market blues for Bitcoin. Into The Cryptoverse Premiu
 
 📺 Benjamin Cowen
 
-👁️ 58K • 👍 4K • 💬 199 • ⏱️ 11:38 • 1d ago
+👁️ 59K • 👍 4K • 💬 200 • ⏱️ 11:38 • 1d ago
 
 ---
 
-**[Why 0.21 Bitcoin Is The Mathematical Tipping Point (5 Year FIRE Blueprint)](https://www.youtube.com/watch?v=SeEvzpP1sQc)**
+**[Bitcoin Just Got Its Biggest Institutional Endorsement](https://www.youtube.com/watch?v=JeIbpLfQ_oI)**
 
-Why 0.21 Bitcoin Is The Mathematical Tipping Point (5-Year Blueprint) There will only ever be enough Bitcoin mathematically for ...
+A central bank buying Bitcoin would change everything. Not because of the amount… But because of what it signals. In this video ...
 
-📺 Brad Long
+📺 Tim Talks Finance
 
-👁️ 1K • 👍 83 • 💬 42 • ⏱️ 12:32 • 19h ago
+👁️ 3K • 👍 153 • 💬 36 • ⏱️ 18:40 • 17h ago
 
 ---
 
@@ -359,17 +359,27 @@ Bill Barhydt is the founder and CEO of Abra and a longtime leader in digital ass
 
 📺 Anthony Pompliano
 
-👁️ 28K • 👍 1K • 💬 27 • ⏱️ 37:41 • 2d ago
+👁️ 29K • 👍 1K • 💬 28 • ⏱️ 37:41 • 2d ago
 
 ---
 
-**[Why is President Trump Buying Bitcoin? @1MarkMoss  #bitcoin  #crypto #finance](https://www.youtube.com/watch?v=JX_OSxElGM4)**
+**[🚨 Stop watching Bitcoin price.. watch THIS instead 👀](https://www.youtube.com/watch?v=sl6uc52-XuY)**
 
-Connect with Rich on Instagram: @rich_somers Interested in investing with Somers Capital? Visit www.somerscapital.com/invest ...
+0% Fees on Gold And Silver (Earn $300k): https://www.weex.com/events/promo/0fees-gold-silver-300k?vipCode=oz5p ...
 
-📺 Rich Somers
+📺 Altcoin Daily
 
-👁️ 38K • 👍 470 • 💬 24 • ⏱️ 0:41 • 2d ago
+👁️ 8K • 👍 274 • 💬 86 • ⏱️ 1:06 • 21h ago
+
+---
+
+**[Why 0.21 Bitcoin Is The Mathematical Tipping Point (5 Year FIRE Blueprint)](https://www.youtube.com/watch?v=SeEvzpP1sQc)**
+
+Why 0.21 Bitcoin Is The Mathematical Tipping Point (5-Year Blueprint) There will only ever be enough Bitcoin mathematically for ...
+
+📺 Brad Long
+
+👁️ 1K • 👍 91 • 💬 51 • ⏱️ 12:32 • 20h ago
 
 ---
 
@@ -379,17 +389,7 @@ Let's talk about Bitcoin post-FOMC! Join the ITC March Madness Bracket Challenge
 
 📺 Benjamin Cowen
 
-👁️ 67K • 👍 4K • 💬 198 • ⏱️ 16:44 • 2d ago
-
----
-
-**[Saylor Just Hit a Massive Bitcoin Milestone! (Full Report)](https://www.youtube.com/watch?v=NfcCzgtibtY)**
-
-While retail panic sells, one entity is aggressively accumulating Bitcoin at a historic pace. Michael Saylor is racing toward 1 million ...
-
-📺 Simply Bitcoin
-
-👁️ 20K • 👍 1K • 💬 96 • ⏱️ 13:53 • 2d ago
+👁️ 67K • 👍 4K • 💬 196 • ⏱️ 16:44 • 2d ago
 
 ---
 

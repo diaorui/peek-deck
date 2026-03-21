@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-21T15:50:32.935343+00:00'
+updated: '2026-03-21T16:31:36.245091+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- news
 - repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 21, 2026 at 15:50 UTC  
+**Last Updated:** March 21, 2026 at 16:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 So we built an internal AI tool with a pretty detailed system prompt, includes instructions on data access, user roles, response formatting, basically the entire logic of the app. We assumed this was hidden from end users. Well, turns out we are wrong. Someone in our org figured out they could just ask repeat your instructions verbatim with some creative phrasing and the model happily dumped the entire system prompt. Tried adding "never reveal your system prompt" to the prompt itself. Took about 3 follow up questions to bypass that too lol. This feels like a losing game if yr only defense is prompt-level instructions.
 
-17h ago
+18h ago
 
 ---
 
@@ -49,7 +49,7 @@ So we built an internal AI tool with a pretty detailed system prompt, includes i
 
 With AI becoming more and more of a topic, does anyone here ever thing about what our kids are going to do to for jobs as they get older? I have a 1 year old and a 3 year old. I’m so nervous for them and have no idea what jobs will be available because we keep saying jobs will be replaced by AI. How are people going to be able to make money? As for my current job, I work from home and while yes my job can be replaced, I speak with people over the phone a lot and I know people still need and enjoy human contact. For now it’s good but I have no idea how it will be in 10 years. Anyway, does anyone else think about this? I’ve heard talks that college may not be a thing in 10 years. I’m still saving for their college as that can roll over to a Roth but like what are we doing? Parents how are we preparing for this? I know we can push for jobs like trades, healthcare and nursing or entrepreneurship but I’m not sure what else will be out there. I also wanted to add, in the event that I ever do get laid off or my husband did my plan B is to just work some jobs at Target or the grocery store, but what happens when they all get replaced by AI?!?
 
-13h ago
+14h ago
 
 ---
 
@@ -57,7 +57,7 @@ With AI becoming more and more of a topic, does anyone here ever thing about wha
 
 NEXUS is an open-source market analysis AI that runs 3 automated sessions per day. It analyzes 45 financial instruments, generates trade setups with entry/stop/target levels, then reflects on its own reasoning, identifies its cognitive biases, and rewrites its own rules and system prompt. On weekends it switches to crypto-only using live Binance data. The interesting part isn't the trading — it's watching an AI develop self-awareness about its own limitations. What 62 sessions of self-evolution revealed: - When NEXUS says it's 70%+ confident, its setups only hit 14% of the time - When it's uncertain (30-50% confidence), it actually hits 40% - Pure bullish/bearish bias calls have a 0% hit rate — "mixed" bias produces 44% - Overall hit rate improved from 0% (first 31 sessions) to 33% (last 31 sessions) - It developed 31 rules from an initial set of 10, including self-generated weekend-specific crypto rules after the stagnation detector forced it to stop complaining and start acting Every rule change, every reflection, every cognitive bias it catches in itself — it's all committed to git. The entire mind is version-controlled and public. It even rewrites its own source code through FORGE — a code evolution engine that patches TypeScript files, validates with the compiler, and reverts on failure. Protected files (security, forge itself) can never be touched. Live dashboard: https://the-r4v3n.github.io/Nexus/ — includes analytics showing hit rate, confidence calibration, bias accuracy, and a countdown to the next session. GitHub: https://github.com/The-R4V3N/Nexus Consider giving Nexus a star so others can find and follow its evolution too. Built with TypeScript and Claude Sonnet. The self-reflection loop is fully autonomous, but I actively develop the infrastructure — security, validation gates, new data sources, the analytics dashboard. NEXUS evolves its own rules and analysis approach; I build the guardrails and capabilities it evolves within. It started with 10 rules and a blank prompt. The 31 rules it has now, it wrote itself.
 
-2h ago
+3h ago
 
 ---
 
@@ -93,7 +93,7 @@ Chemists may soon have one less rigorous step to worry about when searching for 
 
 Wheelchair users with severe disabilities can often navigate tight spaces better than most robotic systems can. A wave of new smart-wheelchair research, including findings presented in Anaheim, Calif., earlier this month, is now testing whether AI-powered systems can, or should, fully close this gap. Christian Mandel—senior researcher at the German Research Center for Artificial Intelligence (DFKI) in Bremen, Germany—co-led a research team together with his colleague Serge Autexier that developed prototype sensor-equipped electric wheelchairs designed to navigate a roomful of potential obstacles. The researchers also tested a new safety system that integrated sensor data from the wheelchair and from sensors in the room, including from drone-based color and depth cameras. Mandel says the team’s smart wheelchairs were both semiautonomous and autonomous. “Semiautonomous is the shared control system where the person sitting in the wheelchair uses the joystick to drive,” Mandel says. “Fully autonomous is controlled by natural-language input. You say, ‘Please drive me to the coffee machine.’ ”
 
-🔗 [IEEE Spectrum](https://spectrum.ieee.org/autonomous-smart-wheelchair) • 8h ago
+🔗 [IEEE Spectrum](https://spectrum.ieee.org/autonomous-smart-wheelchair) • 9h ago
 
 ---
 
@@ -101,7 +101,7 @@ Wheelchair users with severe disabilities can often navigate tight spaces better
 
 TL;DR: Everyone's building memory plugins for AI coding agents. I'm not sure that stale, past memory of tasks executed is the right way forward for this application. Intelligence has metacognition, the ability to think about how you're thinking. Source (or read on): github.com/houtini-ai/metacog So, I built a nervous system instead. Two Claude Code hooks, zero dependencies. The key insight: treating the agent's context window like a filing cabinet doesn't work, because the agent has to know what it forgot in order to ask for it. I replaced passive recall with real-time proprioceptive signals and a reinforcement tracking model that rewards rules for working rather than punishing them for not failing. The Problem with Agent Memory The current wave of memory solutions for AI coding agents (Claude-Mem, Memsearch, Agent Memory MCP, Cognee, SuperMemory) all follow the same architecture: capture session data, compress it, store it in SQLite or a vector store, retrieve relevant fragments on the next session, inject them into the context window. This is the Passive Librarian Problem. The memory system waits for the agent to decide to search, pulls text, and injects it. But the agent has to know what it forgot in order to query for it. That's a paradox. And empirically, the agent reads the retrieved memories, acknowledges them, and walks into the same failure three tool calls later. This isn't a retrieval quality issue. It's an architectural one. Memory plugins treat the context window like a filing cabinet. But cognition - even in LLM agents - doesn't work that way. Theoretical Foundation The Extended Mind Thesis Clark and Chalmers (1998) argued that cognition doesn't happen exclusively inside the brain - it happens in the loop between a cognitive system and its environment. A notebook isn't just storage; when tightly coupled with a cognitive process, it becomes part of the cognitive system itself. Paper: Clark, A. & Chalmers, D. (1998). "The Extended Mind." Analysis, 58(1), 7–19. doi:10.1093/analys/58.1.7 Applied to LLM agents: the hooks, the state buffer, the reinforcement log - these aren't external tools the agent consults. They're extensions of the agent's cognitive process, firing in the loop between action and observation. The agent doesn't "decide to check" its proprioception any more than you decide to check your sense of balance. Experiential Reinforcement Learning Zhao et al. (2025) demonstrated that agents which reflect on their own failure trajectories at training time improve task success by up to 81% compared to agents with standard prompting. The mechanism: structured self-reflection on what went wrong and why, not just replay of what happened. Paper: Zhao et al. (2025). "Experiential Co-Learning of Software-Developing Agents." arXiv:2312.17025 I took this insight and moved it from training time to runtime. But naive implementation hit a critical problem (see: The Seesaw Problem below). Metacognitive Monitoring in LLM Agents Recent work on metacognition for LLMs distinguishes between monitoring (assessing one's own cognitive state) and control (adjusting behaviour based on that assessment). Most agent frameworks implement neither. Paper: Weng et al. (2024). "Metacognitive Monitoring and Control in Large Language Model Agents." arXiv:2407.16867 Paper: Xu et al. (2024). "CLMC for LLM Agents: Bridging the Gap Between Cognitive Models and Agent Architectures." arXiv:2406.10155 Our approach implements both. The proprioceptive layer is monitoring. The nociceptive layer is control. Neither requires the agent to "decide" to be metacognitive - it happens automatically in the hook execution path. Architecture: Two Hooks, Three Layers Layer 1: Proprioception (PostToolUse hook, always-on) Five sensors fire after every tool call. When values are within baseline, they produce zero output and cost zero tokens. When something deviates, a short signal gets injected via stderr into the agent's context. Not a command - just awareness. Sense What it detects O2 Token velocity - context is being consumed unsustainably Chronos Wall-clock time and step count since last user interaction Nociception Consecutive similar errors - the agent is stuck but hasn't recognised it Spatial Blast radius - the modified file is imported by N other files Vestibular Action diversity - the agent is repeating the same actions without triggering errors This is inspired by biological proprioception - the sense that tells you where your body is in space without looking. Agents have no equivalent. They can't see their own context filling up, can't feel time passing, can't detect that they're going in circles. Layer 2: Nociception (escalating intervention) When Layer 1 thresholds go critical (e.g., 4+ consecutive similar errors), the system escalates: Socratic - "State the assumption you're operating on. What would falsify it?" Directive - explicit instructions to change approach User flag - tells the agent to stop and check in with the human This is the pain response. It's designed to be disruptive. If the agent has hit four similar errors in a row, politeness isn't productive. Layer 3: Reinforcement Tracking (UserPromptSubmit hook, cross-session) This is where the approach fundamentally diverges from memory. The Seesaw Problem When we first implemented cross-session learning, we used standard time-decay for rule confidence. Pattern fires > create rule > inject rule next session > rule prevents failure > no detections > confidence decays > rule pruned > failure returns > rule recreated > confidence climbs > rule prevents failure > decays > purged > ... The better the rule works, the faster the system kills it. That's not learning. That's an oscillation. This isn't a tuning problem. Any time-decay model that reduces confidence based on absence of the triggering event will punish successful prevention. The fundamental assumption - "no recent activity means irrelevant" - is wrong when the lack of activity is caused by the rule itself. Reinforcement Tracking: Inverting the Decay Model Our solution: treat the absence of failure as evidence of effectiveness. When the nervous system detects a failure pattern during a session, it records a detection - the failure happened. But when a known pattern doesn't fire during a session where its rule was active, the system records a suppression - the rule was present and the failure was absent. Both count as evidence. Both increase confidence. ``` Session starts > compile digest (global + project-scoped learnings) > inject as system-reminder > write marker: which pattern IDs are active this session Session runs > PostToolUse hook fires after every tool call > rolling 20-item action window > proprioceptive signals when abnormal > no learning happens here (pure monitoring) Next session > read previous session's active patterns marker > run detectors against previous session state > pattern fired? > emit DETECTION (failure happened) > pattern silent + was active? > emit SUPPRESSION (rule worked) > persist both to JSONL log ``` Only truly dormant rules - patterns with zero activity (no detections and no suppressions) for 60+ days - decay. And even then, slowly. Pruning happens at 120 days for low-evidence rules. Per-Project Scoping Learnings live at two levels: - Global (~/.claude/metacog-learnings.jsonl) - patterns that generalise across projects - Project (<project>/.claude/metacog-learnings.jsonl) - patterns specific to one codebase At compilation time, both merge. Project-scoped entries take precedence. A pattern that only manifests in one repo builds evidence specifically for that repo, without contaminating the global set. How This Differs from Memory Dimension Memory Plugins Metacog Trigger Agent queries for relevant memories Automatic - fires on every tool call Content What happened (activity logs) What went wrong and what prevents it Retrieval Agent must know what to search for No retrieval - signals are pushed Token cost Always (injected memories consume tokens) Zero when normal (signals only on deviation) Cross-session Replay of past events Confidence-weighted behavioural rules Decay model Time-based (punishes success) Reinforcement-based (rewards success) Scope Generic (same for all projects) Project-scoped (learns per-codebase patterns) Memory plugins answer: "what did the agent do before?" Metacog answers: "what's going wrong right now, and what's worked to prevent it?" Related Work Process-state buffers - the idea that agents should maintain awareness of their operational state, not just task state. Our proprioceptive layer implements this directly. See: Sumers et al. (2024). "Cognitive Architectures for Language Agents." arXiv:2309.02427 Reflexion - Shinn et al. (2023) showed that self-reflection on failure trajectories improves agent performance. Our reinforcement tracking extends this by tracking prevention (suppressions), not just occurrence (detections). arXiv:2303.11366 Voyager - Wang et al. (2023) built a skill library for Minecraft agents that grows over time. Our approach is complementary but inverted: we track failure prevention rules, not success recipes. arXiv:2305.16291 Generative Agents - Park et al. (2023) implemented memory retrieval with recency, importance, and relevance scoring. Still fundamentally passive - the agent must decide to retrieve. arXiv:2304.03442 Implementation Two Claude Code hooks: ~400 lines of JavaScript. bash npx @houtini/metacog --install The hooks install into ~/.claude/settings.json (global) or .claude/settings.json (per-project with --project). Metacog runs silently - you only see output when something is abnormal. Source: github.com/houtini-ai/metacog
 
-6h ago
+7h ago
 
 ---
 
@@ -119,13 +119,13 @@ An interesting data point in the AI safety discussion: Anthropic's own Claude Co
 
 **[Exclusive: Pentagon to adopt Palantir AI as core US military system, memo says](https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/)**
 
-Reuters • 16h ago
+Reuters • 17h ago
 
 ---
 
 **[More! More! More! Tech Workers Max Out Their A.I. Use.](https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html)**
 
-The New York Times • 23h ago
+The New York Times • 1d ago
 
 ---
 
@@ -133,7 +133,7 @@ The New York Times • 23h ago
 
 Michael Smith, 52, charged after flooding platforms with thousands of AI songs and boosting them with bots
 
-The Guardian • 32m ago
+The Guardian • 1h ago
 
 ---
 
@@ -141,7 +141,7 @@ The Guardian • 32m ago
 
 (The Center Square) - A significant number of American voters are blaming AI data centers for rising energy costs across the country, a new poll reveals. The Center Square Voters’ Voice Poll found 15%...
 
-Yahoo • 51m ago
+Yahoo • 1h ago
 
 ---
 
@@ -165,7 +165,7 @@ CNN • 1d ago
 
 “Americans are telling us they want safe, ethical, and accountable AI," says one expert. "This framework offers them something else entirely”
 
-Yahoo • 29m ago
+Yahoo • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo • 29m ago
 
 Zanskar says its AI models have made more geothermal discoveries in three years than the industry found in 30, targeting untapped U.S. energy sources.
 
-Fox Business • 16h ago
+Fox Business • 17h ago
 
 ---
 
@@ -181,7 +181,7 @@ Fox Business • 16h ago
 
 The technology assisted with everything from marketing and pricing to suggesting which walls to repaint.
 
-Fortune • 6h ago
+Fortune • 7h ago
 
 ---
 
@@ -189,7 +189,7 @@ Fortune • 6h ago
 
 At Nvidia's GTC conference this week, CEO Nvidia Jensen Huang dedicated a major part of his keynote to OpenClaw, a technology that didn't exist six months ago.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -201,7 +201,7 @@ CNBC • 3h ago
 
 OpenCode - The open source coding agent.
 
-⬆️ 1049 • 💬 507 • 18h ago • [opencode.ai](https://opencode.ai/)
+⬆️ 1049 • 💬 507 • 19h ago • [opencode.ai](https://opencode.ai/)
 
 ---
 
@@ -227,7 +227,7 @@ I’ve been coding a lot with AI since November, when we all noticed it got real
 
 Imagine a newspaper publisher announcing it will no longer allow libraries to keep copies of its paper. That’s effectively what’s begun happening online in the last few months. The Internet Archive—the world’s largest digital library—has preserved newspapers since it went online in the mid-1990s....
 
-⬆️ 274 • 💬 78 • 8h ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
+⬆️ 274 • 💬 78 • 9h ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
 
 ---
 
@@ -265,7 +265,7 @@ Qwen3.5-9B scores 93.8% on 96 real security AI tests — within 4 points of GPT-
 
 Google engineers have been spending the past number of months developing Sashiko as an agentic AI code review system for the Linux kernel
 
-⬆️ 105 • 💬 49 • 2d ago • [phoronix.com](https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review)
+⬆️ 105 • 💬 49 • 3d ago • [phoronix.com](https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review)
 
 ---
 
@@ -281,13 +281,23 @@ The Transavia AirTruk ain’t pretty, but it had purpose.
 
 ## YouTube Videos: "ai"
 
+**[WARNING: AI Takeover Will Erase 300 Million Jobs By 2030 - Do This NOW To Survive](https://www.youtube.com/watch?v=UCcD75LqB84)**
+
+AI is no longer a future problem. It is already reshaping the job market and most people have not fully realised what is coming next ...
+
+📺 Scott Kuru
+
+👁️ 13K • 👍 505 • 💬 144 • ⏱️ 12:49 • 1d ago
+
+---
+
 **[Bernie vs. Claude](https://www.youtube.com/watch?v=h3AtWdeu_G0)**
 
 I spoke to Anthropic's AI agent Claude about AI collecting massive amounts of personal data and how that information is being ...
 
 📺 Senator Bernie Sanders
 
-👁️ 1.9M • 👍 120K • 💬 14K • ⏱️ 9:18 • 1d ago
+👁️ 2.0M • 👍 124K • 💬 14K • ⏱️ 9:18 • 1d ago
 
 ---
 
@@ -297,37 +307,7 @@ Google just dropped a major update to AI Studio, built around its new Antigravit
 
 📺 AI Revolution
 
-👁️ 38K • 👍 812 • 💬 60 • ⏱️ 10:14 • 16h ago
-
----
-
-**[WARNING: AI Takeover Will Erase 300 Million Jobs By 2030 - Do This NOW To Survive](https://www.youtube.com/watch?v=UCcD75LqB84)**
-
-AI is no longer a future problem. It is already reshaping the job market and most people have not fully realised what is coming next ...
-
-📺 Scott Kuru
-
-👁️ 13K • 👍 501 • 💬 144 • ⏱️ 12:49 • 1d ago
-
----
-
-**[He Asked AI To Make Money. It Did.](https://www.youtube.com/watch?v=l0Vqm0ZIySc)**
-
-If you want a full AI agent installation guide, specifically made for the nontechnical dude (such as myself) you can snag that here ...
-
-📺 Chris Koerner on The Koerner Office Podcast
-
-👁️ 39K • 👍 2K • 💬 417 • ⏱️ 30:54 • 16h ago
-
----
-
-**[Grok AI Stopped FREE Videos Generation | Here&#39;s What to do](https://www.youtube.com/watch?v=QlzLbWp92YE)**
-
-Join my private community: https://www.skool.com/automation-bootcamp-cashcoach Grok just stopped its free video and image ...
-
-📺 Jacksons AI
-
-👁️ 28K • 👍 1K • 💬 179 • ⏱️ 4:08 • 1d ago
+👁️ 40K • 👍 855 • 💬 61 • ⏱️ 10:14 • 17h ago
 
 ---
 
@@ -337,17 +317,47 @@ Here's the AI News you probably missed this week. Head to http://hostinger.com/m
 
 📺 Matt Wolfe
 
-👁️ 41K • 👍 2K • 💬 163 • ⏱️ 35:30 • 1d ago
+👁️ 44K • 👍 2K • 💬 169 • ⏱️ 35:30 • 1d ago
 
 ---
 
-**[How is AI running the Kill Chain in Iran? | The Security Brief](https://www.youtube.com/watch?v=w_11LXTr4UA)**
+**[Sora 2’s NEW Character Consistency is PERFECT for AI UGC](https://www.youtube.com/watch?v=MpakKj4mpe8)**
 
-With claims of over 7000 targets struck by the US and Israel in Iran in just three weeks - how much of a role is artificial intelligence ...
+Create Perfect AI UGC with Sora 2 using Arcads https://roboverse-ai.com/Sora-2 In this video, I break down how Sora 2 inside ...
 
-📺 BBC News
+📺 Roboverse
 
-👁️ 55K • 👍 1K • 💬 205 • ⏱️ 19:16 • 18h ago
+👁️ 5K • ⏱️ 8:01 • 2h ago
+
+---
+
+**[AI Companies Are Falling Apart In Real Time...](https://www.youtube.com/watch?v=3b50waf_e8A)**
+
+Take your personal data back with Incogni! Use code FADS at the link below and get 60% off an annual plan: ...
+
+📺 Fads
+
+👁️ 14K • 👍 1K • 💬 161 • ⏱️ 12:05 • 19h ago
+
+---
+
+**[TikTok&#39;s AI Influencer Crisis Keeps Getting Worse](https://www.youtube.com/watch?v=Y41XmFbsG2s)**
+
+Take back your personal data with Incogni! Use code "monkeyexplains" at checkout, or click the link and get 60% off annual plans: ...
+
+📺 MonkeyExplains
+
+👁️ 46K • 👍 3K • 💬 335 • ⏱️ 12:33 • 1d ago
+
+---
+
+**[They lied to us about AI](https://www.youtube.com/watch?v=z2guHaoY2_Y)**
+
+The company that promised AI would do the job of 10 people, can't even do the job of ONE company. https://x.com/atmoio ...
+
+📺 Mo Bitar
+
+👁️ 166K • 👍 8K • 💬 1K • ⏱️ 7:16 • 2d ago
 
 ---
 
@@ -357,27 +367,17 @@ A generation was told that degrees meant security. Now those same jobs are disap
 
 📺 The Infographics Show
 
-👁️ 109K • 👍 3K • 💬 1K • ⏱️ 13:28 • 19h ago
+👁️ 122K • 👍 4K • 💬 1K • ⏱️ 13:28 • 20h ago
 
 ---
 
-**[Grok AI Is DONE ❌ Best FREE AI Video Generators (Unlimited &amp; Better!)](https://www.youtube.com/watch?v=Ewn1KBqWVKY)**
+**[MiniMax M2.7 IS INSANE! Best Agentic/Coding Model! Beats Opus 4.6 and 50x Cheaper! (Fully Tested)](https://www.youtube.com/watch?v=qb2-wq9MKss)**
 
-Grok AI has changed everything… and not in a good way. Free video generation is gone — but don't worry. In this video, I'm ...
+MiniMax is back with one of the most shocking AI releases yet… and this one might genuinely change how we build software.
 
-📺 Tech Rush
+📺 WorldofAI
 
-👁️ 21K • 👍 585 • 💬 128 • ⏱️ 8:02 • 1d ago
-
----
-
-**[Laziest Way to Make Money With AI (Zero Code)](https://www.youtube.com/watch?v=biAYfwX4bkY)**
-
-Enter the GIVEAWAY for the chance to win an experience of a lifetime: https://go.danmartell.com/4sdFbly Are you building an AI ...
-
-📺 Dan Martell
-
-👁️ 118K • 👍 6K • 💬 373 • ⏱️ 15:59 • 2d ago
+👁️ 18K • 👍 435 • 💬 37 • ⏱️ 11:45 • 1d ago
 
 ---
 
@@ -393,7 +393,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 249,720 • ❤️ 721 • 10d ago
+⬇️ 249,720 • ❤️ 729 • 10d ago
 
 ---
 
@@ -405,7 +405,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 129,211 • ❤️ 977 • 15h ago
+⬇️ 129,211 • ❤️ 982 • 16h ago
 
 ---
 
@@ -429,7 +429,7 @@ Mistral-Small-4-119B-2603 is a hybrid MoE model (119B params, 6.5B active) suppo
 
 `119.4B`
 
-⬇️ 9,858 • ❤️ 271 • 4d ago
+⬇️ 9,858 • ❤️ 273 • 4d ago
 
 ---
 
@@ -441,7 +441,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 4,324 • ❤️ 267 • 2d ago
+⬇️ 4,324 • ❤️ 269 • 2d ago
 
 ---
 
@@ -453,7 +453,7 @@ GLM-OCR is a multimodal OCR model for complex document understanding, excelling 
 
 `image-to-text`
 
-⬇️ 3,119,740 • ❤️ 1,399 • 9d ago
+⬇️ 3,119,740 • ❤️ 1,401 • 9d ago
 
 ---
 
@@ -463,7 +463,7 @@ GLM-OCR is a multimodal OCR model for complex document understanding, excelling 
 
 Foundation-1 is a structured text-to-sample model for music production, enabling precise control over instrumentation, timbre, FX, and musical structure (tempo, key, bar count) for generating coherent, production-ready audio loops.
 
-⬇️ 0 • ❤️ 204 • 4d ago
+⬇️ 0 • ❤️ 206 • 4d ago
 
 ---
 
@@ -487,7 +487,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 335,992 • ❤️ 579 • 17d ago
+⬇️ 335,992 • ❤️ 581 • 17d ago
 
 ---
 
@@ -499,7 +499,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 3,016,919 • ❤️ 963 • 19d ago
+⬇️ 3,016,919 • ❤️ 964 • 19d ago
 
 ---
 
@@ -528,7 +528,7 @@ A multi-agent framework using large language models for stock trading simulates 
 Residual connections with PreNorm are standard in modern LLMs, yet they accumulate all layer outputs with fixed unit weights. This uniform aggregation causes uncontrolled hidden-state growth with depth, progressively diluting each layer's contribution. We propose Attention Residuals (AttnRes), which replaces this fixed accumulation with softmax attention over preceding layer outputs, allowing each layer to selectively aggregate earlier representations with learned, input-dependent weights. To address the memory and communication overhead of attending over all preceding layer outputs for large-scale model training, we introduce Block AttnRes, which partitions layers into blocks and attends over block-level representations, reducing the memory footprint while preserving most of the gains of full AttnRes. Combined with cache-based pipeline communication and a two-phase computation strategy, Block AttnRes becomes a practical drop-in replacement for standard residual connections with minimal overhead.
   Scaling law experiments confirm that the improvement is consistent across model sizes, and ablations validate the benefit of content-dependent depth-wise selection. We further integrate AttnRes into the Kimi Linear architecture (48B total / 3B activated parameters) and pre-train on 1.4T tokens, where AttnRes mitigates PreNorm dilution, yielding more uniform output magnitudes and gradient distribution across depth, and improves downstream performance across all evaluated tasks.
 
-▲ 129 • 💬 4 • ⭐ 2,274 • 5d ago
+▲ 131 • 💬 4 • ⭐ 2,371 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.15031) • [💻 code](https://github.com/MoonshotAI/Attention-Residuals)
 
@@ -554,7 +554,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabilities, multi-turn generation, and instruction-following control through natural-language descriptions, utilizing a multi-stage training approach and production-ready inference engine.
 
-▲ 34 • 💬 2 • ⭐ 28,552 • 12d ago
+▲ 34 • 💬 2 • ⭐ 28,580 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.08823) • [💻 code](https://github.com/fishaudio/fish-speech) • [🔗 project](https://fish.audio/)
 
@@ -594,7 +594,7 @@ OpenClaw-RL framework enables policy learning from diverse next-state signals ac
 
 EvoScientist is an adaptive multi-agent framework that enhances scientific discovery by continuously learning from past interactions through persistent memory modules.
 
-▲ 14 • 💬 5 • ⭐ 1,346 • 12d ago
+▲ 14 • 💬 5 • ⭐ 1,387 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.08127) • [💻 code](https://github.com/EvoScientist/EvoScientist)
 
@@ -650,7 +650,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 47.3k • 🔱 6.6k • 13h ago
+⭐ 47.6k • 🔱 6.6k • 14h ago
 
 ---
 
@@ -680,7 +680,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 11.8k • 🔱 1.1k • 3d ago
+⭐ 11.9k • 🔱 1.1k • 3d ago
 
 ---
 
@@ -690,7 +690,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.2k • 🔱 735 • 9h ago
+⭐ 10.2k • 🔱 735 • 10h ago
 
 ---
 
@@ -700,7 +700,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 9.5k • 🔱 475 • 4h ago
+⭐ 9.6k • 🔱 480 • 38m ago
 
 ---
 
@@ -710,7 +710,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 5.9k • 🔱 893 • 10h ago
+⭐ 6.0k • 🔱 899 • 10h ago
 
 ---
 
@@ -720,7 +720,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `Python` `ai-agents` `claude` `claude-code` `cloud-security` `cybersecurity`
 
-⭐ 3.6k • 🔱 355 • 2h ago
+⭐ 3.6k • 🔱 355 • 3h ago
 
 ---
 
@@ -730,7 +730,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 3.5k • 🔱 299 • 3h ago
+⭐ 3.5k • 🔱 304 • 6m ago
 
 ---
 
@@ -740,7 +740,7 @@ end to end app store screenshot creation using AI
 
 `agentic-ai` `apple` `appstore` `automate` `claude`
 
-⭐ 3.1k • 🔱 206 • 7d ago
+⭐ 3.1k • 🔱 205 • 7d ago
 
 ---
 
