@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-21T12:52:32.117883+00:00'
+updated: '2026-03-21T13:42:57.314672+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- social
 - cryptocurrency
 - videos
-- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 12:52 UTC  
+**Last Updated:** March 21, 2026 at 13:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone, I’ve been working on a side project called Blockpeek and just shipped a new update. It’s a blockchain transaction scanner that tries to explain what actually happened in plain English instead of just showing raw hex data. You paste a transaction hash (or upload a screenshot from your wallet/exchange) and it tells you: ∙ What was sent, to who, from who ∙ The USD value at the time ∙ Gas fees in USD ∙ Which chain it was on (auto-detects Ethereum, BSC, Arbitrum, Polygon, Base, Solana, Bitcoin, Tron and more) It’s free, no login required. Would genuinely love feedback — what’s missing, what’s broken, what would make it actually useful for you. blockpeek.io
 
-13h ago
+14h ago
 
 ---
 
@@ -164,7 +164,7 @@ Benzinga • 3d ago
 
 As long as their real-world use cases continue to grow, these cryptocurrencies should soar in value.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -186,7 +186,7 @@ Yahoo Finance • 1d ago
 
 **[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqeZX4sr-w4HdUmkxaCDdxkOhJIBKMiP5svCAzybCsJsn10tJwBCT3ub&gaa_ts=69be97fc&gaa_sig=LoEtotQrxOuPA8qzO2hmi-ujQWlhDV1NoABLNDGzxH6oiwL6DQRxYbfqGVoyNrMuf3FGc9rkSPWvu51SHOtVDQ%3D%3D)**
 
-MarketWatch • 22h ago
+MarketWatch • 23h ago
 
 ---
 
@@ -226,7 +226,7 @@ Decrypt • 1d ago
 
 #FeaturedPost
 
-Business Insider Africa • 21h ago
+Business Insider Africa • 22h ago
 
 ---
 
@@ -250,7 +250,7 @@ Ethereum is showing strong bullish signals, with analysts predicting a major reb
 
 📺 Crypto Sensei
 
-👁️ 6K • 👍 453 • 💬 67 • ⏱️ 12:42 • 23h ago
+👁️ 6K • 👍 453 • 💬 67 • ⏱️ 12:42 • 1d ago
 
 ---
 
@@ -260,7 +260,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 114 • 💬 4 • ⏱️ 3:56 • 9h ago
+👁️ 1K • 👍 114 • 💬 4 • ⏱️ 3:56 • 10h ago
 
 ---
 
@@ -278,7 +278,7 @@ BITCOIN & ALTCOIN WARNING: Price Targets Exposed!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 7K • 👍 252 • 💬 118 • ⏱️ 16:50 • 18h ago
+👁️ 7K • 👍 252 • 💬 118 • ⏱️ 16:50 • 19h ago
 
 ---
 
@@ -288,7 +288,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 2K • 👍 2K • 1h ago
+👁️ 2K • 👍 2K • 2h ago
 
 ---
 
@@ -298,7 +298,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 82 • 👍 5 • 💬 1 • ⏱️ 5:16 • 2h ago
+👁️ 82 • 👍 5 • 💬 1 • ⏱️ 5:16 • 3h ago
 
 ---
 
@@ -328,7 +328,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 917 • 👍 89 • ⏱️ 5:41 • 9h ago
+👁️ 917 • 👍 89 • ⏱️ 5:41 • 10h ago
 
 ---
 

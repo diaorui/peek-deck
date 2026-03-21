@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-21T12:52:32.109022+00:00'
+updated: '2026-03-21T13:42:57.308727+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- social
 - cryptocurrency
 - videos
-- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 12:52 UTC  
+**Last Updated:** March 21, 2026 at 13:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[RIP Legend](https://www.reddit.com/r/Bitcoin/comments/1rzh2xj/rip_legend/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Alden's book called Broken Money and read it.
 
-14h ago
+15h ago
 
 ---
 
@@ -95,7 +95,7 @@ Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Al
 
 Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perrenod
 
-2h ago
+3h ago
 
 ---
 
@@ -103,7 +103,7 @@ Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perreno
 
 Holder since 2015. Never soldi. Slowly accumulating. Sometimes daily trading (with alternate results). A lot of "If I did that I wold have earned this much...", and "I should have done that when..." in my mind to keep me busy if I want. Now +50% or -50% in a month has noneffect on me, I simply zoom out. I also convinces two people to buy Bitcoin. Am I officially a veteran? Where Is my badge?😄
 
-2h ago
+3h ago
 
 ---
 
@@ -127,7 +127,7 @@ Abra Financial Holdings, Inc. CEO
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-6h ago
+7h ago
 
 ---
 
@@ -143,7 +143,7 @@ The government relies on this crypto infrastructure for international trade, whi
 
 North Carolina is moving to become one of the first states to officially hold Bitcoin as part of its treasury reserves. The bill (HB 92) would allow the state treasurer to invest up to 10% of certain public funds in Bitcoin. These reserves typically consist of US Treasury bonds
 
-22h ago
+23h ago
 
 ---
 
@@ -151,7 +151,7 @@ North Carolina is moving to become one of the first states to officially hold Bi
 
 Hey all, i made mistake a long time ago when BTC price was 17.000€ and I wanted to do it, but I was too afraid. I wanted this asimetric bet on crypto on my portfolio. Today I purchased my first 1% of coin. I’ve waited for this oppurtunity for a long time now, and I finally got entry I am confortable with. So, new guy in the buisness. :) Any advice tou can give me?
 
-18h ago
+19h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 1d ago
 
 As the U.S.-Israel war with Iran approaches a fourth week, Bank of America analysts envision a rate hike that would likely affect Bitcoin.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
@@ -179,7 +179,7 @@ Decrypt • 19h ago
 
 This coin offers a very appealing mixture of new in-demand services for AI and a proven supply schedule.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Motley Fool • 2h ago
 
 The market is pessimistic, as these popular digital assets are trading significantly below recent highs.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 1h ago
 
 This coin is known for being difficult to hold for a reason.
 
-The Motley Fool • 15m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -217,7 +217,7 @@ Barron's • 2d ago
 
 The president and CEO of Strategy said Morgan Stanley’s upcoming bitcoin ETF could unlock as much as $160 billion in demand under a modest portfolio allocation scenario.
 
-Bitcoin Magazine • 18h ago
+Bitcoin Magazine • 19h ago
 
 ---
 
@@ -279,7 +279,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 **[BioContact assurance and status monitoring using human body communication](https://news.ycombinator.com/item?id=47459528)**
 
-⬆️ 1 • 💬 0 • 17h ago • [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2590123025045001)
+⬆️ 1 • 💬 0 • 18h ago • [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2590123025045001)
 
 ---
 
@@ -299,7 +299,7 @@ Bitcoin just went live at millions of businesses without anyone opting in. While
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 1K • 💬 149 • ⏱️ 12:51 • 14h ago
+👁️ 13K • 👍 1K • 💬 149 • ⏱️ 12:51 • 15h ago
 
 ---
 
@@ -309,7 +309,7 @@ New report exposes institutions have only just begun dipping their toes into bit
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 291 • 💬 100 • ⏱️ 1:30:42 • 17h ago
+👁️ 7K • 👍 291 • 💬 100 • ⏱️ 1:30:42 • 18h ago
 
 ---
 
@@ -319,7 +319,7 @@ Why 0.21 Bitcoin Is The Mathematical Tipping Point (5-Year Blueprint) There will
 
 📺 Brad Long
 
-👁️ 1K • 👍 73 • 💬 36 • ⏱️ 12:32 • 16h ago
+👁️ 1K • 👍 73 • 💬 36 • ⏱️ 12:32 • 17h ago
 
 ---
 
@@ -329,7 +329,7 @@ A central bank buying Bitcoin would change everything. Not because of the amount
 
 📺 Tim Talks Finance
 
-👁️ 2K • 👍 134 • 💬 22 • ⏱️ 18:40 • 13h ago
+👁️ 2K • 👍 134 • 💬 22 • ⏱️ 18:40 • 14h ago
 
 ---
 
@@ -349,7 +349,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 6K • 👍 359 • 💬 130 • ⏱️ 8:34 • 13h ago
+👁️ 6K • 👍 359 • 💬 130 • ⏱️ 8:34 • 14h ago
 
 ---
 
@@ -359,7 +359,7 @@ Bitcoin Vegas 2026: https://fxo.co/JAmn Welcome to the Crypto Lifer Channel! JOI
 
 📺 Crypto Lifer
 
-👁️ 6K • 👍 467 • 💬 54 • ⏱️ 2:00:31 • 20h ago
+👁️ 6K • 👍 467 • 💬 54 • ⏱️ 2:00:31 • 21h ago
 
 ---
 
