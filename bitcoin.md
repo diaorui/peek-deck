@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-21T10:54:17.211288+00:00'
+updated: '2026-03-21T11:24:19.886343+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
 - social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 10:54 UTC  
+**Last Updated:** March 21, 2026 at 11:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ Rank #1
 
 Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Alden's book called Broken Money and read it.
 
-12h ago
+13h ago
 
 ---
 
@@ -111,7 +111,7 @@ Please someone just buy or sell already so the price moves!
 
 Holder since 2015. Never soldi. Slowly accumulating. Sometimes daily trading (with alternate results). A lot of "If I did that I wold have earned this much...", and "I should have done that when..." in my mind to keep me busy if I want. Now +50% or -50% in a month has noneffect on me, I simply zoom out. I also convinces two people to buy Bitcoin. Am I officially a veteran? Where Is my badge?😄
 
-43m ago
+1h ago
 
 ---
 
@@ -127,7 +127,7 @@ The government relies on this crypto infrastructure for international trade, whi
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
 
 ---
 
@@ -135,7 +135,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 North Carolina is moving to become one of the first states to officially hold Bitcoin as part of its treasury reserves. The bill (HB 92) would allow the state treasurer to invest up to 10% of certain public funds in Bitcoin. These reserves typically consist of US Treasury bonds
 
-20h ago
+21h ago
 
 ---
 
@@ -143,7 +143,7 @@ North Carolina is moving to become one of the first states to officially hold Bi
 
 Hey all, i made mistake a long time ago when BTC price was 17.000€ and I wanted to do it, but I was too afraid. I wanted this asimetric bet on crypto on my portfolio. Today I purchased my first 1% of coin. I’ve waited for this oppurtunity for a long time now, and I finally got entry I am confortable with. So, new guy in the buisness. :) Any advice tou can give me?
 
-16h ago
+17h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Block • 23h ago
 
 This coin offers a very appealing mixture of new in-demand services for AI and a proven supply schedule.
 
-The Motley Fool • 30m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Motley Fool • 30m ago
 
 American Bitcoin Corp. co-founder Eric Trump celebrated on Wednesday after the company surpassed Galaxy Digital Inc. in accumulating Bitcoin. ‘Climbing The Ladder Faster’ Trump took pride in the achievement on X, adding, “No company is climbing the ladder faster. Up,...
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -209,7 +209,7 @@ Barron's • 2d ago
 
 The president and CEO of Strategy said Morgan Stanley’s upcoming bitcoin ETF could unlock as much as $160 billion in demand under a modest portfolio allocation scenario.
 
-Bitcoin Magazine • 16h ago
+Bitcoin Magazine • 17h ago
 
 ---
 
@@ -249,7 +249,7 @@ Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in
 
 **[Bitcoin, XRP Fall in a Bad Week for Cryptos](https://news.ycombinator.com/item?id=47453548)**
 
-⬆️ 2 • 💬 0 • 22h ago • [barrons.com](https://www.barrons.com/articles/bitcoin-price-xrp-etheruem-crypto-sec-nasdaq-2e2f8254)
+⬆️ 2 • 💬 0 • 23h ago • [barrons.com](https://www.barrons.com/articles/bitcoin-price-xrp-etheruem-crypto-sec-nasdaq-2e2f8254)
 
 ---
 
@@ -309,7 +309,7 @@ New report exposes institutions have only just begun dipping their toes into bit
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 290 • 💬 100 • ⏱️ 1:30:42 • 15h ago
+👁️ 6K • 👍 290 • 💬 100 • ⏱️ 1:30:42 • 16h ago
 
 ---
 
@@ -319,7 +319,7 @@ Why 0.21 Bitcoin Is The Mathematical Tipping Point (5-Year Blueprint) There will
 
 📺 Brad Long
 
-👁️ 902 • 👍 68 • 💬 35 • ⏱️ 12:32 • 14h ago
+👁️ 902 • 👍 68 • 💬 35 • ⏱️ 12:32 • 15h ago
 
 ---
 
@@ -339,7 +339,7 @@ A central bank buying Bitcoin would change everything. Not because of the amount
 
 📺 Tim Talks Finance
 
-👁️ 2K • 👍 124 • 💬 14 • ⏱️ 18:40 • 11h ago
+👁️ 2K • 👍 124 • 💬 14 • ⏱️ 18:40 • 12h ago
 
 ---
 

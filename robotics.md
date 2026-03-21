@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-21T10:54:17.220485+00:00'
+updated: '2026-03-21T11:24:19.895591+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 21, 2026 at 10:54 UTC  
+**Last Updated:** March 21, 2026 at 11:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Don't be surprised if you meet humanoid robots on the streets of Beijing at midn
 
 From Physical Intelligence on 𝕏 (thread with multiple videos): https://x.com/physical_int/status/2034728220818641363 Technical Blog post: https://www.pi.website/research/rlt
 
-23h ago
+1d ago
 
 ---
 
@@ -66,7 +66,7 @@ From Physical Intelligence on 𝕏 (thread with multiple videos): https://x.com/
 
 I created this thread to discuss the reviews and scores for the submissions to RSS 2026 in Sydney Australia. Did anyone receive their reviews yet?
 
-51m ago
+1h ago
 
 ---
 
@@ -124,7 +124,7 @@ The Information • 1d ago
 
 The long read: How close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find out
 
-The Guardian • 1d ago
+The Guardian • 2d ago
 
 ---
 
@@ -172,7 +172,7 @@ Military.com • 2d ago
 
 Carbon Robotics names a CFO; Nordstrom gets a VP of AI; and a Microsoft gaming GM goes to Netflix while one of its longtime legal leaders retires.
 
-GeekWire • 19h ago
+GeekWire • 20h ago
 
 ---
 
@@ -202,7 +202,7 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 153K • 👍 2K • 💬 1K • ⏱️ 2:07 • 1d ago
+👁️ 153K • 👍 2K • 💬 1K • ⏱️ 2:07 • 2d ago
 
 ---
 
@@ -272,7 +272,7 @@ Chinese robotics leader Unitree finds itself in the crosshairs of the US governm
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 32 • 💬 3 • ⏱️ 0:41 • 14h ago
+👁️ 1K • 👍 32 • 💬 3 • ⏱️ 0:41 • 15h ago
 
 ---
 

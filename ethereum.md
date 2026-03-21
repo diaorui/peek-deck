@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-21T10:54:17.217292+00:00'
+updated: '2026-03-21T11:24:19.892389+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
 - social
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 10:54 UTC  
+**Last Updated:** March 21, 2026 at 11:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone, I’ve been working on a side project called Blockpeek and just shipped a new update. It’s a blockchain transaction scanner that tries to explain what actually happened in plain English instead of just showing raw hex data. You paste a transaction hash (or upload a screenshot from your wallet/exchange) and it tells you: ∙ What was sent, to who, from who ∙ The USD value at the time ∙ Gas fees in USD ∙ Which chain it was on (auto-detects Ethereum, BSC, Arbitrum, Polygon, Base, Solana, Bitcoin, Tron and more) It’s free, no login required. Would genuinely love feedback — what’s missing, what’s broken, what would make it actually useful for you. blockpeek.io
 
-11h ago
+12h ago
 
 ---
 
@@ -180,13 +180,13 @@ Fortune • 21h ago
 
 Ethereum bottom call backed by multiple signals, says Tom Lee. Strong upside narrative remains. Credibility tempered by past miss. Ethereum's price is once again at ...
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
 **[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqeVAEJKlDNobOjpXj7Wco313lD33BUYJ1xkoywFVG9A3FdNX1JQJd2u&gaa_ts=69be7651&gaa_sig=j1qkNzT7ZekZ8FZgVvan2fmXSZ7MlsQ_b53zHcGnYrb_fWKoZQQCZR1td6YDmP3D0A9i0py5SNms4e3zJ5O3Jg%3D%3D)**
 
-MarketWatch • 20h ago
+MarketWatch • 21h ago
 
 ---
 
@@ -194,7 +194,7 @@ MarketWatch • 20h ago
 
 “Ethereum, to me, is really gonna be where Wall Street meets crypto,” a source told NYNext.
 
-New York Post • 23h ago
+New York Post • 1d ago
 
 ---
 
@@ -210,7 +210,7 @@ The Block • 1d ago
 
 #FeaturedPost
 
-Business Insider Africa • 19h ago
+Business Insider Africa • 20h ago
 
 ---
 
@@ -260,7 +260,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 886 • 👍 98 • 💬 7 • ⏱️ 3:56 • 7h ago
+👁️ 886 • 👍 98 • 💬 7 • ⏱️ 3:56 • 8h ago
 
 ---
 
@@ -288,7 +288,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 708 • 👍 79 • ⏱️ 5:41 • 7h ago
+👁️ 708 • 👍 79 • ⏱️ 5:41 • 8h ago
 
 ---
 
