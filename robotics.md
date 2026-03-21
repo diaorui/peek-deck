@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-21T17:51:33.888100+00:00'
+updated: '2026-03-21T18:38:24.780857+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 21, 2026 at 17:51 UTC  
+**Last Updated:** March 21, 2026 at 18:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,27 +36,19 @@ Robotics research and industry news
 
 From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
-4h ago
+5h ago
 
 ---
 
 **[Ringbot: A monocycle robot developed by the Robotics and Institute (RAI) that uses internal legs for balance and acrobatic maneuvers](https://www.reddit.com/r/robotics/comments/1rztuum/ringbot_a_monocycle_robot_developed_by_the/)**
 
-2h ago
+3h ago
 
 ---
 
 **[You eventually start to realize, no job is safe](https://www.reddit.com/r/robotics/comments/1rzftd8/you_eventually_start_to_realize_no_job_is_safe/)**
 
-15h ago
-
----
-
-**[Range of motion evaluation test for my homemade robotic hand & wrist](https://www.reddit.com/r/robotics/comments/1ryzwte/range_of_motion_evaluation_test_for_my_homemade/)**
-
-Showcasing the newest version (v20) of my hand & wrist combo! Same as the last version, it's a combination of direct- and tendon-driven actuation, still with 19 joints and 10 active DOFs. It has independent finger flexion, a 3-DOF thumb, linked finger splay, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist which measures joint position (at the motor output), current, and temperature. And all the movements were programmed with custom C#/C++ software. Improved from the last version, the base thumb joints were switched to direct drive and much beefier motors were swapped in for the wrist joints - improving strength and repeatability under heavier loads. Despite these new motors though, the form factor remains nearly identical to v19, spare a few millimeters of thickness and height. Some more minor changes: (1) ASA and carbon fiber filaments replaced basic PLA to improve rigidity and strength, (2) the power input was switched to an XT30 connector to accommodate the more power-hungry motors, and (3) better filtering and chips to reduce current and position signal noise. Still making incremental improvements here and there, but happy to answer any questions and hear your thoughts!
-
-1d ago
+16h ago
 
 ---
 
@@ -65,6 +57,14 @@ Showcasing the newest version (v20) of my hand & wrist combo! Same as the last v
 Testing the built-in 3D reconstruction algorithm of the Viobot2 — the result looks good. Has anyone used the Viobot2 for other DIY work? Can anyone share with me?
 
 3h ago
+
+---
+
+**[Range of motion evaluation test for my homemade robotic hand & wrist](https://www.reddit.com/r/robotics/comments/1ryzwte/range_of_motion_evaluation_test_for_my_homemade/)**
+
+Showcasing the newest version (v20) of my hand & wrist combo! Same as the last version, it's a combination of direct- and tendon-driven actuation, still with 19 joints and 10 active DOFs. It has independent finger flexion, a 3-DOF thumb, linked finger splay, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist which measures joint position (at the motor output), current, and temperature. And all the movements were programmed with custom C#/C++ software. Improved from the last version, the base thumb joints were switched to direct drive and much beefier motors were swapped in for the wrist joints - improving strength and repeatability under heavier loads. Despite these new motors though, the form factor remains nearly identical to v19, spare a few millimeters of thickness and height. Some more minor changes: (1) ASA and carbon fiber filaments replaced basic PLA to improve rigidity and strength, (2) the power input was switched to an XT30 connector to accommodate the more power-hungry motors, and (3) better filtering and chips to reduce current and position signal noise. Still making incremental improvements here and there, but happy to answer any questions and hear your thoughts!
+
+1d ago
 
 ---
 
@@ -80,7 +80,13 @@ Don't be surprised if you meet humanoid robots on the streets of Beijing at midn
 
 It's one of the sample tasks I'm planning to demonstrate to the guests of my upcoming conference. ( 120 characters limit bypass )
 
-4h ago
+5h ago
+
+---
+
+**[FINDING THE RIGHT METAPHOR (Edited)](https://www.reddit.com/r/robotics/comments/1rzyd1e/finding_the_right_metaphor_edited/)**
+
+30m ago
 
 ---
 
@@ -88,7 +94,7 @@ It's one of the sample tasks I'm planning to demonstrate to the guests of my upc
 
 I created this thread to discuss the reviews and scores for the submissions to RSS 2026 in Sydney Australia. Did anyone receive their reviews yet?
 
-7h ago
+8h ago
 
 ---
 
@@ -97,14 +103,6 @@ I created this thread to discuss the reviews and scores for the submissions to R
 From Physical Intelligence on 𝕏 (thread with multiple videos): https://x.com/physical_int/status/2034728220818641363 Technical Blog post: https://www.pi.website/research/rlt
 
 1d ago
-
----
-
-**[copper-rs v0.14: deterministic robotics runtime in Rust now supports Python tasks](https://www.reddit.com/r/robotics/comments/1ryznc2/copperrs_v014_deterministic_robotics_runtime_in/)**
-
-Copper is an open-source robotics runtime in Rust for building deterministic, observable systems. Until now, it was very much geared toward production. With v0.14, we’re opening that system up to earlier-stage work as well. In robotics, you typically prototype quickly in Python, then rebuild the system to meet determinism, safety, and observability requirements. You can validate algorithms on real logs or simulation, inspect them in a running system, and iterate without rebuilding the surrounding infrastructure. When it’s time to move to Rust, only the task needs to change, and LLMs are quite effective at helping with that step. This release also also introduces: - composable monitoring, including a dedicated safety monitors - a new Webassembly target! After CPUs and MCUs targets, Copper can now fully run in a browser for shareable demos, check out the links in the article. - The ROS2 bridge is now bidirectional, helping the gradual migrations from ROS2 from both sides of the stack The focus is continuity from early experimentation to deployment. If you’re a Python roboticist looking for a smooth path into a Rust-based production system, come talk to us on Discord, we’re happy to help.
-
-🔗 [Copper Robotics](https://www.copper-robotics.com/whats-new/copper-rs-v014-from-prototype-to-production-without-changing-systems) • 1d ago
 
 ---
 
@@ -148,7 +146,7 @@ The Guardian • 2d ago
 
 This humanoid robot is learning tennis the same way I did—by playing. Plus a robot horse for the Year of the Fire Horse in this week's robot videos.
 
-IEEE Spectrum • 58m ago
+IEEE Spectrum • 1h ago
 
 ---
 
@@ -164,7 +162,7 @@ CNBC • 1d ago
 
 It took nature millions of years to create intelligent, adaptive species. Researchers at Northwestern University in Illinois are using AI to evolve robots in minutes. The result is a robot that is agile, highly adaptive, and technically indestructible.
 
-New Atlas • 5h ago
+New Atlas • 6h ago
 
 ---
 
@@ -196,33 +194,23 @@ The company Twist Robotics has unveiled an updated version of the Obriy Anti-Sha
 
 ## YouTube Videos: "robotics"
 
-**[Out of control robot smashes up restaurant as waitress desperately attempts to drag it away](https://www.youtube.com/watch?v=ZyohmMJA5Ao)**
-
-THIS is the hilarious moment a boogying robot dances too hard and sends food and cutlery flying in a high end restaurant.
-
-📺 The Sun
-
-👁️ 189K • 👍 3K • 💬 2K • ⏱️ 2:07 • 2d ago
-
----
-
 **[The Future of Flooring: Automated Sand-Cement Screeding Robot #ConstructionTech #Robotics #Flooring](https://www.youtube.com/watch?v=QK7Y1-O5koE)**
 
 "Efficiency meets precision! Watch this automated floor screeding robot transform a rough sand-cement mix into a perfectly level ...
 
 📺 MachineWorks Studio
 
-👁️ 2.0M • 👍 2K • 💬 25 • ⏱️ 0:06 • 5d ago
+👁️ 2.1M • 👍 2K • 💬 29 • ⏱️ 0:06 • 5d ago
 
 ---
 
-**[EXCLUSIVE: This Robot Video Changed The Conversation](https://www.youtube.com/watch?v=t7BI3Z1THz4)**
+**[Out of control robot smashes up restaurant as waitress desperately attempts to drag it away](https://www.youtube.com/watch?v=ZyohmMJA5Ao)**
 
-Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and get $500 to $1K off. My daughter: ...
+THIS is the hilarious moment a boogying robot dances too hard and sends food and cutlery flying in a high end restaurant.
 
-📺 Brighter with Herbert
+📺 The Sun
 
-👁️ 103K • 👍 2K • 💬 324 • ⏱️ 49:45 • 6d ago
+👁️ 205K • 👍 3K • 💬 2K • ⏱️ 2:07 • 2d ago
 
 ---
 
@@ -232,7 +220,7 @@ Video shows restaurant employees struggling to restrain a dancing robot that wen
 
 📺 NBC News
 
-👁️ 166K • 👍 2K • 💬 594 • ⏱️ 3:38 • 2d ago
+👁️ 169K • 👍 2K • 💬 600 • ⏱️ 3:38 • 2d ago
 
 ---
 
@@ -242,17 +230,17 @@ CENTAUR ROBOT - wearable robot adds two legs behind people to help distribute th
 
 📺 Unstoppable Gadgets
 
-👁️ 28K • 👍 338 • 💬 21 • ⏱️ 0:17 • 2d ago
+👁️ 28K • 👍 339 • 💬 21 • ⏱️ 0:17 • 2d ago
 
 ---
 
-**[This Chinese Robot Just Crossed All the Lines — Real Life Terminator T800](https://www.youtube.com/watch?v=0hVT9qcC8Ec)**
+**[AI Robot Snaps And Attacks Woman On Street (Then Gets Arrested)](https://www.youtube.com/watch?v=ZZrR7rIIPmc)**
 
-China just built something that was supposed to be decades away. Engine AI's T800 humanoid robot is already walking live ...
+Try the full AI cinematic workflow here: https://higgsfield.ai/s/cinema-studio-2-0-airevolutionx-pekSSk Researchers in China just ...
 
-📺 Core Insights
+📺 AI Revolution
 
-👁️ 69K • 👍 1K • 💬 134 • ⏱️ 15:19 • 3d ago
+👁️ 21K • 👍 498 • 💬 43 • ⏱️ 13:18 • 5d ago
 
 ---
 
@@ -266,31 +254,39 @@ Welcome to the ultimate robot showdown of 2026! In this video, we feature over 1
 
 ---
 
-**[NVIDIA GTC Demo Stuns Audience With Real Olaf Robot Next To Jensen Huang](https://www.youtube.com/watch?v=pPnVsRPFWV8)**
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=WWgwW9S3PLI)**
 
-The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrations when Jensen Huang introduced a real ...
+📺 Robot Julie 
 
-📺 DPCcars
-
-👁️ 182K • 👍 2K • 💬 225 • ⏱️ 2:02 • 4d ago
+👁️ 14K • 👍 85 • ⏱️ 0:21 • 18h ago
 
 ---
 
-**[ai Robot](https://www.youtube.com/watch?v=b4VeIq3C3hg)**
+**[🛑 STOP Doing This! 3 Mistakes That Will Kill Your Robot Vacuum](https://www.youtube.com/watch?v=ro7utfovBio)**
 
-📺 Meshu Reacts 
+Best Robot Vacuums 2026: justadadapproved.com 3 mistakes that can break your robot vacuum! Mova P10 ...
 
-👁️ 35K • 👍 113 • ⏱️ 0:09 • 4d ago
+📺 Just A Dad Approved
+
+👁️ 2K • 👍 119 • 💬 18 • ⏱️ 15:33 • 6h ago
 
 ---
 
-**[🎾🤖 INSANE! Researchers Can&#39;t Beat This #TennisRobot Anymore! #LATENT is Pro. #humanoid #robot #ai](https://www.youtube.com/watch?v=yqprFRLeZ48)**
+**[This Chinese Robot Just Crossed All the Lines — Real Life Terminator T800](https://www.youtube.com/watch?v=0hVT9qcC8Ec)**
 
-Humanoid tennis athletes are officially here! A team from Tsinghua University and Galbot just dropped LATENT, and it is ...
+China just built something that was supposed to be decades away. Engine AI's T800 humanoid robot is already walking live ...
 
-📺 XRoboHub
+📺 Core Insights
 
-👁️ 163K • 👍 2K • 💬 278 • ⏱️ 0:23 • 6d ago
+👁️ 69K • 👍 1K • 💬 134 • ⏱️ 15:19 • 3d ago
+
+---
+
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=o04URFEaSjM)**
+
+📺 Robot Julie 
+
+👁️ 34K • 👍 137 • 💬 2 • ⏱️ 0:24 • 2d ago
 
 ---
 

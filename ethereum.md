@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-21T17:51:33.884820+00:00'
+updated: '2026-03-21T18:38:24.777542+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- videos
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 17:51 UTC  
+**Last Updated:** March 21, 2026 at 18:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,151.24
+### $2,148.86
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** -1.4%  
-**30d:** +9.0%  
-**90d:** -28.6%  
-**1y:** +8.4%  
+**24h:** +1.0%  
+**7d:** -1.2%  
+**30d:** +9.3%  
+**90d:** -28.5%  
+**1y:** +8.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $259.63B
+**Market Cap:** $259.85B
 Rank #2
 
 **Circulating Supply:** 120,691,752 ETH
@@ -62,7 +62,7 @@ No max supply
 -56.5%
 
 **All-Time Low:** $0.43
-+496282.0%
++497122.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone, I’ve been working on a side project called Blockpeek and just shipped a new update. It’s a blockchain transaction scanner that tries to explain what actually happened in plain English instead of just showing raw hex data. You paste a transaction hash (or upload a screenshot from your wallet/exchange) and it tells you: ∙ What was sent, to who, from who ∙ The USD value at the time ∙ Gas fees in USD ∙ Which chain it was on (auto-detects Ethereum, BSC, Arbitrum, Polygon, Base, Solana, Bitcoin, Tron and more) It’s free, no login required. Would genuinely love feedback — what’s missing, what’s broken, what would make it actually useful for you. blockpeek.io
 
-18h ago
+19h ago
 
 ---
 
@@ -136,7 +136,7 @@ The top priority is safety and security. The coins to be stored are ETH and USDC
 
 I'm traveling next month across a few different countries and really want to spend some of my gains without off-ramping to fiat and dealing with my bank's absolute BS regarding foreign transaction fees. I used to use the Binance card heavily but, well, you know how that ended for a lot of regions. I saw BitMart has a card out now with their 8th anniversary promotions, and Coinbase obviously has their established one. Has anyone used the BitMart card specifically in Europe or Southeast Asia? I'm mainly looking for decent conversion spreads at the point of sale and no hidden monthly maintenance fees
 
-2d ago
+3d ago
 
 ---
 
@@ -151,6 +151,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 ---
 
 ## Google News: "ethereum"
+
+**[Ethereum, XRP, and Solana Price Prediction As CLARITY Act Advances After Senate–White House Deal](https://coingape.com/markets/ethereum-xrp-and-solana-price-prediction-as-clarity-act-advances-after-senate-white-house-deal/)**
+
+Ethereum, XRP, and Solana prices remained firm as the broader crypto market hovered slightly above the $70,000 level on renewed optimism.   Ethereum price
+
+CoinGape • 7h ago
+
+---
 
 **[Bitcoin At $73,000, Ethereum, XRP, Dogecoin Stall Ahead Of Powell Press Conference](https://www.benzinga.com/crypto/cryptocurrency/26/03/51320643/bitcoin-at-73000-ethereum-xrp-dogecoin-stall-ahead-of-powell-press-conference)**
 
@@ -184,7 +192,7 @@ The Block • 2d ago
 
 ---
 
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqfaGkmKDLQ5nVXlUr36sAOxBkvYk0nfEZwRv80v0qWBTNAuA7sMUwMI&gaa_ts=69bed85a&gaa_sig=eGp7BnGNL828T8w2oPfrPjElEuwwwfUmPzb3PETHjFA7l7NgZPYC9CYnJbd0_CoI0n8SlYnOgpJpcvo6juV8bQ%3D%3D)**
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqeKnhCccIZgGBTz8W0PYxl0KecP077j7LHEf1U-8WBhZuYTJM0OfnpJ&gaa_ts=69bee90b&gaa_sig=FPuXp_BrNUjPN6SQXws3Ctg3e6q3IUcO7uCa0aH4hIZ3L4V4a94SUfiaT97CVISdNXc9YQN1gp3xk8j-dsJJ6A%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -202,7 +210,7 @@ New York Post • 1d ago
 
 Ethereum investor Stanley Druckenmiller has added his voice to the growing conversation around the future of digital finance, predicting that stablecoins could become the dominant force in global payment systems within the next few years. The veteran investor’s outlook reflects a broader shift amon…
 
-TradingView • 23h ago
+TradingView • 1d ago
 
 ---
 
@@ -210,7 +218,7 @@ TradingView • 23h ago
 
 BlackRock's iShares Staked Ethereum Trust (ETHB) has hit $254 million in assets under management just one week after launch.
 
-Decrypt • 1d ago
+Decrypt • 2d ago
 
 ---
 
@@ -218,15 +226,7 @@ Decrypt • 1d ago
 
 Dubai, UAE, March  20, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto announced a major exchange bridge update that eliminates gas fees an...
 
-markets.businessinsider.com • 17h ago
-
----
-
-**[Will Ethereum Ever Hit $5,000?](https://www.fool.com/investing/2026/03/20/will-ethereum-ever-hit-5000/)**
-
-Ethereum hit a new record high in 2025, but it still fell short of the $5,000 milestone.
-
-The Motley Fool • 1d ago
+markets.businessinsider.com • 18h ago
 
 ---
 
@@ -240,7 +240,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 Chad Colby
 
-👁️ 467 • 👍 1K • 1h ago
+👁️ 894 • 👍 1K • 2h ago
 
 ---
 
@@ -250,7 +250,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 436 • 💬 52 • ⏱️ 19:43 • 1d ago
+👁️ 11K • 👍 446 • 💬 53 • ⏱️ 19:43 • 1d ago
 
 ---
 
@@ -260,7 +260,17 @@ Ethereum is showing strong bullish signals, with analysts predicting a major reb
 
 📺 Crypto Sensei
 
-👁️ 6K • 👍 455 • 💬 55 • ⏱️ 12:42 • 1d ago
+👁️ 6K • 👍 459 • 💬 55 • ⏱️ 12:42 • 1d ago
+
+---
+
+**[LIVE: Tom Lee on BitMine Makes Massive Ethereum Move! This Speech Is a Game Changer for ETH Holders!](https://www.youtube.com/watch?v=ao6SmYX-V7Q)**
+
+Join Tom Lee for his groundbreaking keynote at the Ethereum Conference. Tom Lee, one of Wall Street's most renowned macro ...
+
+📺 SCP Realised
+
+👁️ 3K • 👍 659 • 25m ago
 
 ---
 
@@ -270,7 +280,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 117 • 💬 5 • ⏱️ 3:56 • 14h ago
+👁️ 2K • 👍 118 • 💬 5 • ⏱️ 3:56 • 15h ago
 
 ---
 
@@ -280,7 +290,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 168 • 👍 9 • 💬 1 • ⏱️ 5:16 • 7h ago
+👁️ 202 • 👍 13 • 💬 1 • ⏱️ 5:16 • 8h ago
 
 ---
 
@@ -288,7 +298,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 EllioTrades
 
-👁️ 10K • 👍 227 • 💬 40 • ⏱️ 1:07 • 2d ago
+👁️ 10K • 👍 232 • 💬 40 • ⏱️ 1:07 • 2d ago
 
 ---
 
@@ -298,17 +308,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 463 • 👍 55 • 💬 4 • ⏱️ 4:32 • 3h ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=jDn-cQEKKMQ)**
-
-TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
-
-📺 My Channel
-
-👁️ 6K • 👍 1K • 4h ago
+👁️ 768 • 👍 75 • 💬 4 • ⏱️ 4:32 • 4h ago
 
 ---
 
@@ -318,17 +318,17 @@ BITCOIN & ALTCOIN WARNING: Price Targets Exposed!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 7K • 👍 259 • 💬 155 • ⏱️ 16:50 • 23h ago
+👁️ 7K • 👍 260 • 💬 160 • ⏱️ 16:50 • 23h ago
 
 ---
 
-**[CRYPTO LIVE TRADING || 21 Mar  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=TK9P6G1BaIo)**
+**[Is PRIVATE AI the next big crypto narrative? Blacklight &amp; Ethereum integration. Private AI Is Here](https://www.youtube.com/watch?v=kdqJQYItK0w)**
 
-join my social platforms for updates and analysis ✓Instagram: ...
+Speaker: John Woods ▪️ CEO at the Nillion Association #Nillion, #Ethereum, #ETH, #L2, #Blacklight, #blockchain, #web3, ...
 
-📺 Aryan trader Live
+📺 Synopsis Web3 Summit
 
-👁️ 4K • 👍 4K • 2h ago
+👁️ 1K • 💬 1 • ⏱️ 36:35 • 1h ago
 
 ---
 
