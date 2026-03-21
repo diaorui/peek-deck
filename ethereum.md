@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-21T11:24:19.892389+00:00'
+updated: '2026-03-21T11:46:31.192207+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- videos
 - cryptocurrency
 - social
-- videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 11:24 UTC  
+**Last Updated:** March 21, 2026 at 11:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** -1.1%  
-**30d:** +9.4%  
+**24h:** +0.7%  
+**7d:** -1.0%  
+**30d:** +9.5%  
 **90d:** -28.4%  
-**1y:** +8.8%  
+**1y:** +8.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $260.07B
+**Market Cap:** $260.19B
 Rank #2
 
 **Circulating Supply:** 120,691,752 ETH
@@ -62,7 +62,7 @@ No max supply
 -56.4%
 
 **All-Time Low:** $0.43
-+497644.7%
++497928.8%
 
 ---
 
@@ -84,19 +84,11 @@ Hey everyone, I’ve been working on a side project called Blockpeek and just sh
 
 ---
 
-**[Red flags to look for in an exchange.](https://www.reddit.com/r/ethereum/comments/1rzdfrn/red_flags_to_look_for_in_an_exchange/)**
-
-Whenever I see an exchange offering 40% APY on stablecoins, I run the other way immediately. Yield doesn't come from nowhere. I look for platforms that just focus on standard spot trading, verifiable proof of reserves, and steady, quiet growth. That's exactly why I've stuck with Coinbase and BitMart over the years. Solid security beats flashy yields every single time.
-
-10h ago
-
----
-
 **[Thorchain Alternative?](https://www.reddit.com/r/ethereum/comments/1rz9an2/thorchain_alternative/)**
 
 I’m looking for a way to swap my Bitcoin to Ethereum without KYC, so obviously i found thorchain, but unfortunately it’s not available here in the U.S, and i heard it’s very expensive as well. Where should I do it you think? sorry if this question was already asked in past but i couldnt find an answer after bit lf time checking.
 
-13h ago
+14h ago
 
 ---
 
@@ -148,6 +140,14 @@ I'm traveling next month across a few different countries and really want to spe
 
 ---
 
+**[Daily General Discussion March 18, 2026](https://www.reddit.com/r/ethereum/comments/1rwuoph/daily_general_discussion_march_18_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+3d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -164,7 +164,7 @@ Benzinga • 2d ago
 
 As long as their real-world use cases continue to grow, these cryptocurrencies should soar in value.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -176,6 +176,14 @@ Fortune • 21h ago
 
 ---
 
+**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1774002600)**
+
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 2d ago
+
+---
+
 **[Ethereum Price Bottom Has Hit, Tom Lee Claims Again — Three Reasons He Says It's Heading Higher](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-bottom-hit-tom-114323876.html)**
 
 Ethereum bottom call backed by multiple signals, says Tom Lee. Strong upside narrative remains. Credibility tempered by past miss. Ethereum's price is once again at ...
@@ -184,7 +192,7 @@ Yahoo Finance • 23h ago
 
 ---
 
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqeVAEJKlDNobOjpXj7Wco313lD33BUYJ1xkoywFVG9A3FdNX1JQJd2u&gaa_ts=69be7651&gaa_sig=j1qkNzT7ZekZ8FZgVvan2fmXSZ7MlsQ_b53zHcGnYrb_fWKoZQQCZR1td6YDmP3D0A9i0py5SNms4e3zJ5O3Jg%3D%3D)**
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqcj-SWulxcvxFtpnce8AS0BGCdnQ2eRk9_cGF2Eme-DKaHJZW-HVO2B&gaa_ts=69be8873&gaa_sig=7u-HPnlPBt7s3celgSf1Xe21UzGzWfZhusR_M0N_w79tdesmmhlaGSR7LJZq-XLcYFmX6YTHgXQNnd9aDztSYA%3D%3D)**
 
 MarketWatch • 21h ago
 
@@ -203,14 +211,6 @@ New York Post • 1d ago
 Amundi launched the $100 million Spiko Amundi Overnight Swap Fund on Ethereum and Stellar with Chainlink support.
 
 The Block • 1d ago
-
----
-
-**[The rise of ETH gambling sites and Africa’s expanding digital economy](https://africa.businessinsider.com/local/lifestyle/the-rise-of-eth-gambling-sites-and-africas-expanding-digital-economy/l056ctt)**
-
-#FeaturedPost
-
-Business Insider Africa • 20h ago
 
 ---
 
@@ -240,7 +240,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 10K • 👍 389 • 💬 50 • ⏱️ 19:43 • 19h ago
+👁️ 10K • 👍 400 • 💬 51 • ⏱️ 19:43 • 20h ago
 
 ---
 
@@ -250,7 +250,7 @@ Ethereum is showing strong bullish signals, with analysts predicting a major reb
 
 📺 Crypto Sensei
 
-👁️ 6K • 👍 448 • 💬 65 • ⏱️ 12:42 • 21h ago
+👁️ 6K • 👍 453 • 💬 67 • ⏱️ 12:42 • 22h ago
 
 ---
 
@@ -260,7 +260,15 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 886 • 👍 98 • 💬 7 • ⏱️ 3:56 • 8h ago
+👁️ 1K • 👍 114 • 💬 4 • ⏱️ 3:56 • 8h ago
+
+---
+
+**[Asking AI to Predict Ethereum Price in 2030](https://www.youtube.com/watch?v=nmWDqBAfbkw)**
+
+📺 EllioTrades
+
+👁️ 10K • 👍 224 • 💬 39 • ⏱️ 1:07 • 1d ago
 
 ---
 
@@ -270,25 +278,27 @@ BITCOIN & ALTCOIN WARNING: Price Targets Exposed!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 6K • 👍 245 • 💬 118 • ⏱️ 16:50 • 16h ago
+👁️ 7K • 👍 252 • 💬 118 • ⏱️ 16:50 • 17h ago
 
 ---
 
-**[Asking AI to Predict Ethereum Price in 2030](https://www.youtube.com/watch?v=nmWDqBAfbkw)**
+**[CRYPTO LIVE TRADING || 21 Mar  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=Mq12CpNVv9A)**
 
-📺 EllioTrades
+join my social platforms for updates and analysis ✓Instagram: ...
 
-👁️ 10K • 👍 223 • 💬 39 • ⏱️ 1:07 • 1d ago
+📺 Aryan trader Live
+
+👁️ 2K • 👍 2K • 51m ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=sN3lpOtC4-M)**
+**[BE READY FOR THIS DUMP!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=4IMp91ZMHw4)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Crypto Gyan
+📺 Cilinix Crypto
 
-👁️ 708 • 👍 79 • ⏱️ 5:41 • 8h ago
+👁️ 82 • 👍 5 • 💬 1 • ⏱️ 5:16 • 1h ago
 
 ---
 
@@ -312,23 +322,13 @@ Canton is the first privacy-enabled open blockchain network, ensuring limitless 
 
 ---
 
-**[ETH Ethereum Price Prediction: 19th of March](https://www.youtube.com/watch?v=ALe8xzWt-n8)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=sN3lpOtC4-M)**
 
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 C-Zar Gets Crypto 
+📺 Crypto Gyan
 
-👁️ 150 • 👍 14 • 💬 5 • ⏱️ 8:24 • 1d ago
-
----
-
-**[BTC, ETH, SOL, XRP, SUI, FET, CHZ, HBAR, ICP, BNB, ILS1, BTCETH Altcoins Analyzed: Live TA](https://www.youtube.com/watch?v=Dw437Y-IkRQ)**
-
-In this live technical analysis session, The Trading Parrot breaks down BTC, ETH, SOL, XRP, SUI, FET, CHZ, HBAR, ICP, and ...
-
-📺 The Trading Parrot
-
-👁️ 2K • 👍 157 • 💬 12 • ⏱️ 1:10:26 • 1d ago
+👁️ 917 • 👍 89 • ⏱️ 5:41 • 8h ago
 
 ---
 

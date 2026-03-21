@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-21T11:24:19.895591+00:00'
+updated: '2026-03-21T11:46:31.195390+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 21, 2026 at 11:24 UTC  
+**Last Updated:** March 21, 2026 at 11:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[You eventually start to realize, no job is safe](https://www.reddit.com/r/robotics/comments/1rzftd8/you_eventually_start_to_realize_no_job_is_safe/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -50,15 +50,7 @@ Showcasing the newest version (v20) of my hand & wrist combo! Same as the last v
 
 Don't be surprised if you meet humanoid robots on the streets of Beijing at midnight. They are training for their half-marathon! Over 20 teams joined the first trial run. The official race will be held on April 19.
 
-18h ago
-
----
-
-**[Physical Intelligence developed an RL method for fine-tuning their models for precise tasks in just a few hours or even minutes](https://www.reddit.com/r/robotics/comments/1ryt963/physical_intelligence_developed_an_rl_method_for/)**
-
-From Physical Intelligence on 𝕏 (thread with multiple videos): https://x.com/physical_int/status/2034728220818641363 Technical Blog post: https://www.pi.website/research/rlt
-
-1d ago
+19h ago
 
 ---
 
@@ -70,7 +62,9 @@ I created this thread to discuss the reviews and scores for the submissions to R
 
 ---
 
-**[The Robotics team from Wissahickon High School in Ambler, Pennsylvania built a robot Miss Daisy XXIV that picks up balls and shoots them into a container.](https://www.reddit.com/r/robotics/comments/1ry3haa/the_robotics_team_from_wissahickon_high_school_in/)**
+**[Physical Intelligence developed an RL method for fine-tuning their models for precise tasks in just a few hours or even minutes](https://www.reddit.com/r/robotics/comments/1ryt963/physical_intelligence_developed_an_rl_method_for/)**
+
+From Physical Intelligence on 𝕏 (thread with multiple videos): https://x.com/physical_int/status/2034728220818641363 Technical Blog post: https://www.pi.website/research/rlt
 
 1d ago
 
@@ -80,7 +74,13 @@ I created this thread to discuss the reviews and scores for the submissions to R
 
 Copper is an open-source robotics runtime in Rust for building deterministic, observable systems. Until now, it was very much geared toward production. With v0.14, we’re opening that system up to earlier-stage work as well. In robotics, you typically prototype quickly in Python, then rebuild the system to meet determinism, safety, and observability requirements. You can validate algorithms on real logs or simulation, inspect them in a running system, and iterate without rebuilding the surrounding infrastructure. When it’s time to move to Rust, only the task needs to change, and LLMs are quite effective at helping with that step. This release also also introduces: - composable monitoring, including a dedicated safety monitors - a new Webassembly target! After CPUs and MCUs targets, Copper can now fully run in a browser for shareable demos, check out the links in the article. - The ROS2 bridge is now bidirectional, helping the gradual migrations from ROS2 from both sides of the stack The focus is continuity from early experimentation to deployment. If you’re a Python roboticist looking for a smooth path into a Rust-based production system, come talk to us on Discord, we’re happy to help.
 
-🔗 [Copper Robotics](https://www.copper-robotics.com/whats-new/copper-rs-v014-from-prototype-to-production-without-changing-systems) • 19h ago
+🔗 [Copper Robotics](https://www.copper-robotics.com/whats-new/copper-rs-v014-from-prototype-to-production-without-changing-systems) • 20h ago
+
+---
+
+**[The Robotics team from Wissahickon High School in Ambler, Pennsylvania built a robot Miss Daisy XXIV that picks up balls and shoots them into a container.](https://www.reddit.com/r/robotics/comments/1ry3haa/the_robotics_team_from_wissahickon_high_school_in/)**
+
+1d ago
 
 ---
 
@@ -88,7 +88,7 @@ Copper is an open-source robotics runtime in Rust for building deterministic, ob
 
 Need financial help to attend ROSCon Global 2026 in Toronto?This Sunday, March 22nd, is the last day to apply to our diversity scholarship program! The application is quick and easy and covers all the expenses associated with traveling to ROSCon!
 
-🔗 [roscon.ros.org](https://roscon.ros.org/2026/#diversity-scholars) • 12h ago
+🔗 [roscon.ros.org](https://roscon.ros.org/2026/#diversity-scholars) • 13h ago
 
 ---
 
@@ -132,7 +132,7 @@ The Guardian • 2d ago
 
 Chinese startup Unitree Robotics on Friday filed an initial public offering application to the Shanghai ​Stock Exchange, seeking to ​raise  about $610 million.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
@@ -202,17 +202,7 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 153K • 👍 2K • 💬 1K • ⏱️ 2:07 • 2d ago
-
----
-
-**[This Chinese Robot Just Crossed All the Lines — Real Life Terminator T800](https://www.youtube.com/watch?v=0hVT9qcC8Ec)**
-
-China just built something that was supposed to be decades away. Engine AI's T800 humanoid robot is already walking live ...
-
-📺 Core Insights
-
-👁️ 69K • 👍 1K • 💬 132 • ⏱️ 15:19 • 3d ago
+👁️ 164K • 👍 2K • 💬 1K • ⏱️ 2:07 • 2d ago
 
 ---
 
@@ -222,7 +212,7 @@ China just built something that was supposed to be decades away. Engine AI's T80
 
 📺 MachineWorks Studio
 
-👁️ 1.8M • 👍 2K • 💬 21 • ⏱️ 0:06 • 4d ago
+👁️ 1.9M • 👍 2K • 💬 24 • ⏱️ 0:06 • 4d ago
 
 ---
 
@@ -232,7 +222,7 @@ Video shows restaurant employees struggling to restrain a dancing robot that wen
 
 📺 NBC News
 
-👁️ 159K • 👍 2K • 💬 573 • ⏱️ 3:38 • 2d ago
+👁️ 161K • 👍 2K • 💬 576 • ⏱️ 3:38 • 2d ago
 
 ---
 
@@ -252,17 +242,17 @@ CENTAUR ROBOT - wearable robot adds two legs behind people to help distribute th
 
 📺 Unstoppable Gadgets
 
-👁️ 28K • 👍 337 • 💬 21 • ⏱️ 0:17 • 2d ago
+👁️ 28K • 👍 336 • 💬 21 • ⏱️ 0:17 • 2d ago
 
 ---
 
-**[NVIDIA GTC Demo Stuns Audience With Real Olaf Robot Next To Jensen Huang](https://www.youtube.com/watch?v=pPnVsRPFWV8)**
+**[China’s New 6 Armed Robot Is Here… The World Is NOT Ready](https://www.youtube.com/watch?v=jpTxgk6K8ho)**
 
-The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrations when Jensen Huang introduced a real ...
+Orchestrated YouTube description crafting from provided content   A six-armed humanoid robot just hit a real factory floor — and ...
 
-📺 DPCcars
+📺 The AI Nexus
 
-👁️ 170K • 👍 2K • 💬 205 • ⏱️ 2:02 • 4d ago
+👁️ 4K • 👍 123 • 💬 6 • ⏱️ 21:04 • 1d ago
 
 ---
 
@@ -272,15 +262,7 @@ Chinese robotics leader Unitree finds itself in the crosshairs of the US governm
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 32 • 💬 3 • ⏱️ 0:41 • 15h ago
-
----
-
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=WWgwW9S3PLI)**
-
-📺 Robot Julie 
-
-👁️ 2K • 👍 10 • ⏱️ 0:21 • 10h ago
+👁️ 1K • 👍 33 • 💬 3 • ⏱️ 0:41 • 15h ago
 
 ---
 
@@ -289,6 +271,26 @@ Chinese robotics leader Unitree finds itself in the crosshairs of the US governm
 📺 Meshu Reacts 
 
 👁️ 35K • 👍 113 • ⏱️ 0:09 • 4d ago
+
+---
+
+**[NVIDIA GTC Demo Stuns Audience With Real Olaf Robot Next To Jensen Huang](https://www.youtube.com/watch?v=pPnVsRPFWV8)**
+
+The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrations when Jensen Huang introduced a real ...
+
+📺 DPCcars
+
+👁️ 174K • 👍 2K • 💬 211 • ⏱️ 2:02 • 4d ago
+
+---
+
+**[This Chinese Robot Just Crossed All the Lines — Real Life Terminator T800](https://www.youtube.com/watch?v=0hVT9qcC8Ec)**
+
+China just built something that was supposed to be decades away. Engine AI's T800 humanoid robot is already walking live ...
+
+📺 Core Insights
+
+👁️ 69K • 👍 1K • 💬 132 • ⏱️ 15:19 • 3d ago
 
 ---
 

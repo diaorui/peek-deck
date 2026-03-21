@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-21T11:24:19.886343+00:00'
+updated: '2026-03-21T11:46:31.186264+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- videos
 - cryptocurrency
 - social
-- videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 11:24 UTC  
+**Last Updated:** March 21, 2026 at 11:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
+**24h:** +0.4%  
 **7d:** -2.9%  
-**30d:** +3.9%  
+**30d:** +3.8%  
 **90d:** -20.0%  
-**1y:** -15.7%  
+**1y:** -15.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1411.72B
+**Market Cap:** $1412.23B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
@@ -64,7 +64,7 @@ Rank #1
 -44.0%
 
 **All-Time Low:** $67.81
-+103983.5%
++104052.8%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[RIP Legend](https://www.reddit.com/r/Bitcoin/comments/1rzh2xj/rip_legend/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -91,19 +91,11 @@ Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Al
 
 ---
 
-**[Loving Bitcoin at $120k and $60k tells you it’s not about timing, it’s about opting out](https://www.reddit.com/r/Bitcoin/comments/1rywlrd/loving_bitcoin_at_120k_and_60k_tells_you_its_not/)**
+**[Have you seen it? The scientist said that BTC will reach $350K ~ $700K without FOMO between mid 2027 ~ end 2028.](https://www.reddit.com/r/Bitcoin/comments/1rzo7jq/have_you_seen_it_the_scientist_said_that_btc_will/)**
 
-Abra Financial Holdings, Inc. CEO
+Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perrenod
 
-21h ago
-
----
-
-**[Bitcoin stuck, it needs your help!](https://www.reddit.com/r/Bitcoin/comments/1rzindb/bitcoin_stuck_it_needs_your_help/)**
-
-Please someone just buy or sell already so the price moves!
-
-6h ago
+1h ago
 
 ---
 
@@ -115,11 +107,27 @@ Holder since 2015. Never soldi. Slowly accumulating. Sometimes daily trading (wi
 
 ---
 
+**[Loving Bitcoin at $120k and $60k tells you it’s not about timing, it’s about opting out](https://www.reddit.com/r/Bitcoin/comments/1rywlrd/loving_bitcoin_at_120k_and_60k_tells_you_its_not/)**
+
+Abra Financial Holdings, Inc. CEO
+
+22h ago
+
+---
+
+**[Bitcoin stuck, it needs your help!](https://www.reddit.com/r/Bitcoin/comments/1rzindb/bitcoin_stuck_it_needs_your_help/)**
+
+Please someone just buy or sell already so the price moves!
+
+6h ago
+
+---
+
 **[Iran crisis puts the regime's $7.8 billion crypto shadow economy in spotlight](https://www.reddit.com/r/Bitcoin/comments/1rzc97n/iran_crisis_puts_the_regimes_78_billion_crypto/)**
 
 The government relies on this crypto infrastructure for international trade, while ordinary Iranians use it as a financial lifeline during protests and economic crises. Iran has built a multibillion-dollar parallel economy using state-sponsored Bitcoin mining and stablecoins to bypass the U.S. dollar, heavily driven by the IRGC. The government relies on this crypto infrastructure for international trade, while ordinary Iranians use it as a financial lifeline during protests and economic crises. Recent military strikes threaten Iran's fragile power grid, which is essential to sustaining the energy-intensive mining operations that keep this financial channel open. The Islamic Revolutionary Guard Corps (IRGC), the primary branch of the country’s military, has since deepened its role in the space. Chainalysis estimates IRGC-linked addresses accounted for more than 50% of total Iranian crypto inflows in the fourth quarter of 2025, with over $3 billion in value received last year.
 
-11h ago
+12h ago
 
 ---
 
@@ -147,14 +155,6 @@ Hey all, i made mistake a long time ago when BTC price was 17.000€ and I wante
 
 ---
 
-**[What are the best hardware wallets in your opinion?](https://www.reddit.com/r/Bitcoin/comments/1rzbujf/what_are_the_best_hardware_wallets_in_your_opinion/)**
-
-This is my comprehensive guide for 10 and more hardware wallets, their pros and cons and facts why a specific wallet may be suitable for a user personality. What is your take?
-
-🔗 [renditecloud.com](https://renditecloud.com/2026/02/09/the-10-best-crypto-hardware-wallets-in-2026/) • 11h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -171,7 +171,7 @@ CoinDesk • 1d ago
 
 The bitcoin address initially received the 2,100 BTC on July 4, 2012, when that amount was worth just $13,685.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -180,6 +180,14 @@ The Block • 23h ago
 This coin offers a very appealing mixture of new in-demand services for AI and a proven supply schedule.
 
 The Motley Fool • 1h ago
+
+---
+
+**[Better Crypto Buy: Bitcoin vs. Dogecoin? Here's the 1 to Buy for 2026.](https://www.fool.com/investing/2026/03/21/better-crypto-buy-bitcoin-dogecoin-1-buy-2026/)**
+
+The market is pessimistic, as these popular digital assets are trading significantly below recent highs.
+
+The Motley Fool • 16m ago
 
 ---
 
@@ -199,7 +207,7 @@ Financial Times • 18h ago
 
 ---
 
-**[Bitcoin Falls Below $70,000. It’s Not Just the Fed Decision Dragging on the Crypto, XRP.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-fed-powell-oil-033bcaee?gaa_at=eafs&gaa_n=AWEtsqccd52OLIylVo_G-XRalavILq-l1c3TqyiMiRIMSNVSlYZb41N2Rh3j&gaa_ts=69be7650&gaa_sig=xd3wRr-Of5yKrQD2m0yuxtUSlpygdMymiAm5AIFIzjAJ_A9sKd67kmXCJcVBcR4g8ghyklqlms_9VaSazHGYqQ%3D%3D)**
+**[Bitcoin Falls Below $70,000. It’s Not Just the Fed Decision Dragging on the Crypto, XRP.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-fed-powell-oil-033bcaee?gaa_at=eafs&gaa_n=AWEtsqez-TkMxV_aNQK0g_h0OoJkwwdhZar2D_rWyz6O8EjOWffciaN1VbPS&gaa_ts=69be8871&gaa_sig=yZbI3o5E92f3TpcT7ZQcBTTuEcb8tCyPavua3akZTg0hdJGFvbXrfZpnc8U_C51OPRhzJu7YUGZ2yg6txdVOOw%3D%3D)**
 
 Barron's • 2d ago
 
@@ -217,7 +225,7 @@ Bitcoin Magazine • 17h ago
 
 Texas Capital remains hopeful about Strategy's Bitcoin policy.
 
-thestreet.com • 13h ago
+thestreet.com • 14h ago
 
 ---
 
@@ -226,12 +234,6 @@ thestreet.com • 13h ago
 Bitcoin's volatility has subsided over the last month, but traders are still paying a premium for downside protection, VanEck said.
 
 Decrypt • 14h ago
-
----
-
-**[Ex-Wife Accused of Stealing £180 Million in Bitcoin After Divorce](https://www.bloomberg.com/news/articles/2026-03-19/ex-wife-accused-of-stealing-180-million-in-bitcoin-after-divorce)**
-
-Bloomberg.com • 2d ago
 
 ---
 
@@ -279,7 +281,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 **[BioContact assurance and status monitoring using human body communication](https://news.ycombinator.com/item?id=47459528)**
 
-⬆️ 1 • 💬 0 • 15h ago • [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2590123025045001)
+⬆️ 1 • 💬 0 • 16h ago • [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2590123025045001)
 
 ---
 
@@ -299,7 +301,7 @@ Bitcoin just went live at millions of businesses without anyone opting in. While
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 978 • 💬 136 • ⏱️ 12:51 • 12h ago
+👁️ 13K • 👍 1K • 💬 149 • ⏱️ 12:51 • 13h ago
 
 ---
 
@@ -309,7 +311,7 @@ New report exposes institutions have only just begun dipping their toes into bit
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 290 • 💬 100 • ⏱️ 1:30:42 • 16h ago
+👁️ 7K • 👍 291 • 💬 100 • ⏱️ 1:30:42 • 16h ago
 
 ---
 
@@ -319,17 +321,7 @@ Why 0.21 Bitcoin Is The Mathematical Tipping Point (5-Year Blueprint) There will
 
 📺 Brad Long
 
-👁️ 902 • 👍 68 • 💬 35 • ⏱️ 12:32 • 15h ago
-
----
-
-**[Bitcoin: The Bear Market Blues](https://www.youtube.com/watch?v=jiehja20gFE)**
-
-A classic case of the bear market blues for Bitcoin. Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries: ...
-
-📺 Benjamin Cowen
-
-👁️ 56K • 👍 4K • 💬 192 • ⏱️ 11:38 • 1d ago
+👁️ 1K • 👍 73 • 💬 36 • ⏱️ 12:32 • 15h ago
 
 ---
 
@@ -339,27 +331,37 @@ A central bank buying Bitcoin would change everything. Not because of the amount
 
 📺 Tim Talks Finance
 
-👁️ 2K • 👍 124 • 💬 14 • ⏱️ 18:40 • 12h ago
+👁️ 2K • 👍 134 • 💬 22 • ⏱️ 18:40 • 12h ago
 
 ---
 
-**[My Top Crypto Coin to Get Rich (Without Getting Lucky)](https://www.youtube.com/watch?v=L7_USmbleZM)**
+**[Bitcoin: The Bear Market Blues](https://www.youtube.com/watch?v=jiehja20gFE)**
 
-Get Rich (Without Getting Lucky) in crypto! 50% deposit bonus on first $100 on WEEX: ...
+A classic case of the bear market blues for Bitcoin. Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries: ...
 
-📺 Altcoin Daily
+📺 Benjamin Cowen
 
-👁️ 41K • 👍 2K • 💬 235 • ⏱️ 13:35 • 1d ago
+👁️ 57K • 👍 4K • 💬 193 • ⏱️ 11:38 • 1d ago
 
 ---
 
-**[$180 This Number Will Predict What Happens To Bitcoin In 2026](https://www.youtube.com/watch?v=NzRhDsEmNd8)**
+**[This Bitcoin Signal Has Never Failed And It Just Signaled This…](https://www.youtube.com/watch?v=H03UCveRgCA)**
 
-Iran, Saudi Warning on oil, QQQ, Tesla, Bitcoin, Solana, and more! BITUNIX TRADE THE TOP COINS (available everywhere) ...
+Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
 
-📺 Lark Davis
+📺 CryptosRus Extra
 
-👁️ 14K • 👍 676 • 💬 64 • ⏱️ 13:46 • 1d ago
+👁️ 6K • 👍 359 • 💬 130 • ⏱️ 8:34 • 12h ago
+
+---
+
+**[Bitcoin Live Trading: $70K Hold or Total Collapse?! EP1943](https://www.youtube.com/watch?v=j2nRY1lAR0E)**
+
+Bitcoin Vegas 2026: https://fxo.co/JAmn Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ...
+
+📺 Crypto Lifer
+
+👁️ 6K • 👍 467 • 💬 54 • ⏱️ 2:00:31 • 19h ago
 
 ---
 
@@ -369,17 +371,7 @@ Connect with Rich on Instagram: @rich_somers Interested in investing with Somers
 
 📺 Rich Somers
 
-👁️ 36K • 👍 457 • 💬 18 • ⏱️ 0:41 • 2d ago
-
----
-
-**[THIS CHANGES EVERYTHING FOR BITCOIN ](https://www.youtube.com/watch?v=_y5XAFpQ694)**
-
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Weekly 100 ...
-
-📺 The Moon Show
-
-👁️ 12K • 👍 628 • 💬 36 • ⏱️ 5:05 • 1d ago
+👁️ 37K • 👍 463 • 💬 19 • ⏱️ 0:41 • 2d ago
 
 ---
 
@@ -389,7 +381,17 @@ Crypto is about to get LEGIT CRAZY $30k Bonus Sign Up For WEEX: https://www.weex
 
 📺 Altcoin Daily
 
-👁️ 16K • 👍 429 • 💬 112 • ⏱️ 1:14 • 2d ago
+👁️ 16K • 👍 430 • 💬 112 • ⏱️ 1:14 • 2d ago
+
+---
+
+**[THIS CHANGES EVERYTHING FOR BITCOIN ](https://www.youtube.com/watch?v=_y5XAFpQ694)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Weekly 100 ...
+
+📺 The Moon Show
+
+👁️ 12K • 👍 635 • 💬 37 • ⏱️ 5:05 • 1d ago
 
 ---
 
