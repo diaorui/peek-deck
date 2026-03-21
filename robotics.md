@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-21T17:27:10.035303+00:00'
+updated: '2026-03-21T17:51:33.888100+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 21, 2026 at 17:27 UTC  
+**Last Updated:** March 21, 2026 at 17:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -64,7 +64,7 @@ Showcasing the newest version (v20) of my hand & wrist combo! Same as the last v
 
 Testing the built-in 3D reconstruction algorithm of the Viobot2 — the result looks good. Has anyone used the Viobot2 for other DIY work? Can anyone share with me?
 
-2h ago
+3h ago
 
 ---
 
@@ -148,7 +148,7 @@ The Guardian • 2d ago
 
 This humanoid robot is learning tennis the same way I did—by playing. Plus a robot horse for the Year of the Fire Horse in this week's robot videos.
 
-IEEE Spectrum • 33m ago
+IEEE Spectrum • 58m ago
 
 ---
 

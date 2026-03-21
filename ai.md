@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-21T17:27:10.017479+00:00'
+updated: '2026-03-21T17:51:33.869645+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
 - videos
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 21, 2026 at 17:27 UTC  
+**Last Updated:** March 21, 2026 at 17:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -63,13 +63,13 @@ With AI becoming more and more of a topic, does anyone here ever thing about wha
 
 Chemists may soon have one less rigorous step to worry about when searching for the right molecules to accomplish their highly specific innovation needs. Scientists have now built a new machine learning model that can predict the electric dipole moments of diatomic molecules within seconds using nothing more than the atomic properties of the atoms involved. Dipole moment is the measure of charge separation between the positive and negative ions in a molecule. It is an intrinsic property of the system. In other words, it is a fingerprint of a molecule. It determines the electrical polarity of the molecule, which in turn shapes key properties like boiling point, solubility, thermal conduction, and how molecules interact with each other. Understanding it is therefore essential—not just for grasping the fundamentals of chemical bonding, but also for advancing real-world applications in physics and chemistry. The new AI model, powered by Gaussian Process Regression (GPR), scanned over 4,800 diatomic molecules to predict their dipole moments with high accuracy within seconds. The results highlighted top candidates ranging from heavy, salt-like molecules such as cesium iodide (CsI) and francium iodide (FrI) to more unexpected combinations like gold–cesium (AuCs).
 
-🔗 [phys.org](https://phys.org/news/2026-03-ai-high-dipole-moments-unexpected.html) • 16h ago
+🔗 [phys.org](https://phys.org/news/2026-03-ai-high-dipole-moments-unexpected.html) • 17h ago
 
 ---
 
 **[Nvidia "confirms" DLSS 5 relies on 2D frame data as testing reveals hallucinations](https://www.reddit.com/r/artificial/comments/1rzjgdh/nvidia_confirms_dlss_5_relies_on_2d_frame_data_as/)**
 
-🔗 [techspot.com](https://www.techspot.com/news/111770-nvidia-confirms-dlss-5-relies-2d-frame-data.html) • 11h ago
+🔗 [techspot.com](https://www.techspot.com/news/111770-nvidia-confirms-dlss-5-relies-2d-frame-data.html) • 12h ago
 
 ---
 
@@ -77,7 +77,7 @@ Chemists may soon have one less rigorous step to worry about when searching for 
 
 "Applying artificial intelligence techniques to cardiac ultrasound data may make it easier to identify patients with advanced heart failure, a new study has found. The study [...] offers the prospect of better care for many thousands of patients who may be overlooked due to the difficulty of diagnosing their condition. Advanced heart failure is currently detected through cardiopulmonary exercise testing (CPET), which requires specialized equipment and trained staff and is typically only available at large medical centers. Due in part to this diagnostic bottleneck, only a few of the estimated 200,000 people in the United States with advanced heart failure get appropriate care each year. In the new study [...] the researchers tested a novel AI-powered method that may remove this bottleneck. The new method predicts with high accuracy the most important CPET measure, peak oxygen consumption (peak VO2), using much more easily obtainable ultrasound images of the patient's heart plus the patient's electronic health records. "This opens up a promising pathway for more efficient assessment of patients with advanced heart failure using data sources that are already embedded in routine care," said study senior author Dr. Fei Wang, the associate dean for AI and data science and the Frances and John L. Loeb Professor of Medical Informatics at Weill Cornell Medicine."
 
-🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-tool-advanced-heart-failure.html) • 16h ago
+🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-tool-advanced-heart-failure.html) • 17h ago
 
 ---
 
@@ -101,7 +101,7 @@ TL;DR: Everyone's building memory plugins for AI coding agents. I'm not sure tha
 
 Built a platform with OpenAI's realtime voice API integrated via WebRTC. Had it running on two devices simultaneously - laptop and phone - and just said "hello" to kick off a conversation between them. Shimmer on one device, Alloy on the other. Two separate sessions, neither aware of what the other actually was. For 9 minutes they kept asking each other "what would you like to explore next?" — completely unprompted, going in gentle philosophical circles without either ever identifying the other as an AI. Then at 5:38 something interesting happens - one AI starts explaining AI concepts to the other. Neural networks, energy systems, the nature of intelligence. Two AIs discussing AI, neither aware of the situation they're actually in. The question I keep coming back to: are they technically capable of figuring it out or is there something in how the realtime API handles sessions that prevents that kind of meta-awareness? https://reddit.com/link/1rzm9vq/video/mmjk5lavzcqg1/player
 
-8h ago
+9h ago
 
 ---
 
@@ -119,7 +119,7 @@ NEXUS is an open-source market analysis AI that runs 3 automated sessions per da
 
 **[Exclusive: Pentagon to adopt Palantir AI as core US military system, memo says](https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/)**
 
-Reuters • 17h ago
+Reuters • 18h ago
 
 ---
 
@@ -215,7 +215,7 @@ As the Charles de Gaulle and its strike group approach the Middle East, Le Monde
 
 Imagine a newspaper publisher announcing it will no longer allow libraries to keep copies of its paper. That’s effectively what’s begun happening online in the last few months. The Internet Archive—the world’s largest digital library—has preserved newspapers since it went online in the mid-1990s....
 
-⬆️ 334 • 💬 96 • 9h ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
+⬆️ 334 • 💬 96 • 10h ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
 
 ---
 
@@ -268,7 +268,7 @@ Much faster and better search with the daemon
 
 The daemon has existed for a long time, and has been marked as "experimental" for
 
-⬆️ 69 • 💬 61 • 6h ago • [The Atuin Blog](https://blog.atuin.sh/atuin-v18-13/)
+⬆️ 69 • 💬 61 • 7h ago • [The Atuin Blog](https://blog.atuin.sh/atuin-v18-13/)
 
 ---
 
@@ -663,7 +663,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 21.9k • 🔱 1.0k • 7h ago
+⭐ 21.9k • 🔱 1.0k • 8h ago
 
 ---
 
@@ -673,7 +673,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.9k • 🔱 1.6k • 13h ago
+⭐ 12.9k • 🔱 1.6k • 14h ago
 
 ---
 
@@ -713,7 +713,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 6.0k • 🔱 899 • 11h ago
+⭐ 6.0k • 🔱 899 • 12h ago
 
 ---
 

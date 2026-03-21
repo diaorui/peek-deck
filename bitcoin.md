@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-21T17:27:10.026111+00:00'
+updated: '2026-03-21T17:51:33.878651+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 17:27 UTC  
+**Last Updated:** March 21, 2026 at 17:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[RIP Legend](https://www.reddit.com/r/Bitcoin/comments/1rzh2xj/rip_legend/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perrenod
 
-6h ago
+7h ago
 
 ---
 
@@ -117,7 +117,7 @@ Holder since 2015. Never soldi. Slowly accumulating. Sometimes daily trading (wi
 
 Please someone just buy or sell already so the price moves!
 
-12h ago
+13h ago
 
 ---
 
@@ -149,7 +149,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 The government relies on this crypto infrastructure for international trade, while ordinary Iranians use it as a financial lifeline during protests and economic crises. Iran has built a multibillion-dollar parallel economy using state-sponsored Bitcoin mining and stablecoins to bypass the U.S. dollar, heavily driven by the IRGC. The government relies on this crypto infrastructure for international trade, while ordinary Iranians use it as a financial lifeline during protests and economic crises. Recent military strikes threaten Iran's fragile power grid, which is essential to sustaining the energy-intensive mining operations that keep this financial channel open. The Islamic Revolutionary Guard Corps (IRGC), the primary branch of the country’s military, has since deepened its role in the space. Chainalysis estimates IRGC-linked addresses accounted for more than 50% of total Iranian crypto inflows in the fourth quarter of 2025, with over $3 billion in value received last year.
 
-17h ago
+18h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Block • 1d ago
 
 HYPE is the biggest gainer over the past week out of large cap coins. Its rise comes as decentralised exchange Hyperliquid becomes mainstream. Bitcoin’s price has barely budged over the past week.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -261,7 +261,7 @@ Seal predictions and decisions with cryptographic proof anchored to Bitcoin. No 
 
 Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 33 chain analysis heuristics. Free, client-side, no tracking.
 
-⬆️ 1 • 💬 0 • 18m ago • [am-i.exposed](https://am-i.exposed/)
+⬆️ 1 • 💬 0 • 42m ago • [am-i.exposed](https://am-i.exposed/)
 
 ---
 
@@ -283,7 +283,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 **[BioContact assurance and status monitoring using human body communication](https://news.ycombinator.com/item?id=47459528)**
 
-⬆️ 1 • 💬 0 • 21h ago • [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2590123025045001)
+⬆️ 1 • 💬 0 • 22h ago • [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2590123025045001)
 
 ---
 
@@ -303,7 +303,7 @@ Bitcoin just went live at millions of businesses without anyone opting in. While
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 123 • ⏱️ 12:51 • 18h ago
+👁️ 16K • 👍 1K • 💬 123 • ⏱️ 12:51 • 19h ago
 
 ---
 
@@ -313,7 +313,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 6K • 👍 377 • 💬 143 • ⏱️ 8:34 • 17h ago
+👁️ 6K • 👍 377 • 💬 143 • ⏱️ 8:34 • 18h ago
 
 ---
 
@@ -333,7 +333,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 My Channel
 
-👁️ 6K • 👍 1K • 3h ago
+👁️ 6K • 👍 1K • 4h ago
 
 ---
 
@@ -373,7 +373,7 @@ Bill Barhydt is the founder and CEO of Abra and a longtime leader in digital ass
 
 📺 Altcoin Daily
 
-👁️ 8K • 👍 274 • 💬 86 • ⏱️ 1:06 • 22h ago
+👁️ 8K • 👍 274 • 💬 86 • ⏱️ 1:06 • 23h ago
 
 ---
 
