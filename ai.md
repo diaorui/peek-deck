@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-21T05:27:44.876833+00:00'
+updated: '2026-03-21T06:02:35.202377+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
 - repositories
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 21, 2026 at 05:27 UTC  
+**Last Updated:** March 21, 2026 at 06:02 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ With AI becoming more and more of a topic, does anyone here ever thing about wha
 
 **[Walmart secures two AI pricing patents, raising dynamic pricing concerns](https://www.reddit.com/r/artificial/comments/1rywmca/walmart_secures_two_ai_pricing_patents_raising/)**
 
-🔗 [techspot.com](https://www.techspot.com/news/111752-walmart-secures-two-ai-pricing-patents-raising-dynamic.html) • 15h ago
+🔗 [techspot.com](https://www.techspot.com/news/111752-walmart-secures-two-ai-pricing-patents-raising-dynamic.html) • 16h ago
 
 ---
 
@@ -69,7 +69,7 @@ With AI becoming more and more of a topic, does anyone here ever thing about wha
 
 "Applying artificial intelligence techniques to cardiac ultrasound data may make it easier to identify patients with advanced heart failure, a new study has found. The study [...] offers the prospect of better care for many thousands of patients who may be overlooked due to the difficulty of diagnosing their condition. Advanced heart failure is currently detected through cardiopulmonary exercise testing (CPET), which requires specialized equipment and trained staff and is typically only available at large medical centers. Due in part to this diagnostic bottleneck, only a few of the estimated 200,000 people in the United States with advanced heart failure get appropriate care each year. In the new study [...] the researchers tested a novel AI-powered method that may remove this bottleneck. The new method predicts with high accuracy the most important CPET measure, peak oxygen consumption (peak VO2), using much more easily obtainable ultrasound images of the patient's heart plus the patient's electronic health records. "This opens up a promising pathway for more efficient assessment of patients with advanced heart failure using data sources that are already embedded in routine care," said study senior author Dr. Fei Wang, the associate dean for AI and data science and the Frances and John L. Loeb Professor of Medical Informatics at Weill Cornell Medicine."
 
-🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-tool-advanced-heart-failure.html) • 4h ago
+🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-tool-advanced-heart-failure.html) • 5h ago
 
 ---
 
@@ -77,7 +77,7 @@ With AI becoming more and more of a topic, does anyone here ever thing about wha
 
 Chemists may soon have one less rigorous step to worry about when searching for the right molecules to accomplish their highly specific innovation needs. Scientists have now built a new machine learning model that can predict the electric dipole moments of diatomic molecules within seconds using nothing more than the atomic properties of the atoms involved. Dipole moment is the measure of charge separation between the positive and negative ions in a molecule. It is an intrinsic property of the system. In other words, it is a fingerprint of a molecule. It determines the electrical polarity of the molecule, which in turn shapes key properties like boiling point, solubility, thermal conduction, and how molecules interact with each other. Understanding it is therefore essential—not just for grasping the fundamentals of chemical bonding, but also for advancing real-world applications in physics and chemistry. The new AI model, powered by Gaussian Process Regression (GPR), scanned over 4,800 diatomic molecules to predict their dipole moments with high accuracy within seconds. The results highlighted top candidates ranging from heavy, salt-like molecules such as cesium iodide (CsI) and francium iodide (FrI) to more unexpected combinations like gold–cesium (AuCs).
 
-🔗 [phys.org](https://phys.org/news/2026-03-ai-high-dipole-moments-unexpected.html) • 4h ago
+🔗 [phys.org](https://phys.org/news/2026-03-ai-high-dipole-moments-unexpected.html) • 5h ago
 
 ---
 
@@ -93,7 +93,7 @@ Farm labor shortages are pushing agriculture toward greater automation, especial
 
 Something changed in the last year. AI agents aren't just chatbots anymore - they're operating products. Claude has computer use. Agents navigate UIs, click buttons, fill forms, complete workflows. Your customers are going to start sending AI agents to do tasks in your product. Some already are. The problem: your SaaS is probably broken for agents. Not your fault - nobody designed for this. But here's what trips them up: - Skeleton loaders that look like empty states - Auto-save that triggers on every keystroke (agents don't know to wait) - Workspace switchers that change all visible data - OAuth popups that open in new windows - MFA flows agents literally cannot complete - Async processes that take minutes and look stalled - "Approve" buttons that trigger paid operations with no confirmation I ran into all of this when I had Claude navigate my own product (BrandyBee). It kept asking "is this broken?" at perfectly normal loading screens. So I built **operate.txt** - a simple YAML file at yourdomain.com/operate.txt that documents how your product actually works for AI agents. Loading states, irreversible actions, form dependencies, async operations, task flows. Think of it as product documentation specifically for AI agents operating your product. I open-sourced the spec with examples: https://github.com/serdem1/operate.txt The creation process: open your product alongside Claude, tell it to navigate like a first-time user, watch where it hesitates. Those spots become your highest-priority entries. Have Claude draft the file, you correct what it gets wrong. operate.txt is a competitive advantage today. In 3 years it'll be a baseline expectation. The SaaS products where agents succeed reliably will be the ones customers choose.
 
-4h ago
+5h ago
 
 ---
 
@@ -101,7 +101,7 @@ Something changed in the last year. AI agents aren't just chatbots anymore - the
 
 An interesting data point in the AI safety discussion: Anthropic's own Claude Code CLI tool had a security vulnerability, and it was not an AI-specific attack at all. CVE-2026-33068 (CVSS 7.7 HIGH) is a workspace trust dialog bypass in Claude Code versions prior to 2.1.53. A malicious repository could include a `.claude/settings.json` file with `bypassPermissions` entries that would be applied before the user was shown the trust confirmation dialog. The root cause is a configuration loading order defect, classified as CWE-807: Reliance on Untrusted Inputs in a Security Decision. This is worth discussing because it illustrates that the security challenges of AI tools are not limited to novel AI-specific attack classes like prompt injection. AI tools are software, and they inherit every category of software vulnerability. The trust boundary between "untrusted repository" and "approved workspace" was broken by the order in which configuration was loaded. This same class of bug has existed in IDEs, package managers, and build tools for years. Anthropic fixed it promptly in version 2.1.53. Full advisory: https://raxe.ai/labs/advisories/RAXE-2026-040
 
-11h ago
+12h ago
 
 ---
 
@@ -109,7 +109,7 @@ An interesting data point in the AI safety discussion: Anthropic's own Claude Co
 
 New research reveals that "foundation models" trained on vast, general time-series data may be able to forecast river flows accurately, even in regions with little or no local hydrological records. The approach could improve flood warnings, drought planning and water-resource management in parts of the world where monitoring data is limited. The study, published in Machine Learning: Earth, was conducted by researchers from The University of Texas at Austin and Hydrotify LLC. In many parts of the world, river gauges are sparse, records are incomplete and monitoring networks are difficult to maintain. Without long, reliable datasets, communities often have little warning before floods, limited insight into drought risk and fewer tools to guide water allocation and infrastructure planning. As climate pressures grow, the ability to produce useful forecasts without relying on extensive local records is becoming increasingly important. The research team evaluated several advanced AI models known as time-series foundational models (TSFMs). Originally trained using time series data from sectors such as energy, transport and climate, these TSFMs were tested on a large US river dataset comprising more than 500 basins. One model in particular, called Sundial, performed nearly as well as a long-short term memory (LSTM) model that had been fully trained using decades of river flow records. The AI models showed their strongest performance in basins dominated by strong seasonal patterns, such as snowmelt-driven flow. Commenting on the findings, Dr. Alexander Sun from the University of Texas at Austin and Hydrotify LLC, said, "Reliable water information is essential for communities everywhere, but many regions still lack the long-term records needed to support traditional forecasting methods. Approaches like this show how new AI tools could help close that gap by giving more places access to data-driven predictions. "While there is still progress to be made, especially in more complex river systems, this work points to a future where improved forecasting is possible even in areas that have been underserved for decades."
 
-🔗 [phys.org](https://phys.org/news/2026-03-ai-scarce-regions.html) • 4h ago
+🔗 [phys.org](https://phys.org/news/2026-03-ai-scarce-regions.html) • 5h ago
 
 ---
 
@@ -119,7 +119,7 @@ New research reveals that "foundation models" trained on vast, general time-seri
 
 **[Exclusive: Pentagon to adopt Palantir AI as core US military system, memo says](https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/)**
 
-Reuters • 5h ago
+Reuters • 6h ago
 
 ---
 
@@ -127,13 +127,13 @@ Reuters • 5h ago
 
 As business soars, Palantir is doubling down on a vision of AI built for battlefield advantage—and attracting customers who agree.
 
-WIRED • 14h ago
+WIRED • 15h ago
 
 ---
 
 **[Palantir AI System Wins Key Pentagon Status, Reuters Reports](https://www.bloomberg.com/news/articles/2026-03-21/palantir-ai-system-wins-key-pentagon-status-reuters-reports)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -147,7 +147,7 @@ The New York Times • 11h ago
 
 Pokémon Go creator Niantic Spatial reportedly used 30 billion images crowdsourced from players to build a map that will train delivery robots in a new AI venture.
 
-CNN • 14m ago
+CNN • 49m ago
 
 ---
 
@@ -155,7 +155,7 @@ CNN • 14m ago
 
 Pokémon Go creator Niantic Spatial reportedly used 30 billion images crowdsourced from players to build a map that will train delivery robots in a new AI venture.
 
-CNN • 23m ago
+CNN • 58m ago
 
 ---
 
@@ -171,7 +171,7 @@ Fox Business • 6h ago
 
 AI industry leaders have opposed state-level regulatory efforts, arguing that a "patchwork" of laws would hobble innovation and give China a competitive edge.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
@@ -179,7 +179,7 @@ CNBC • 15h ago
 
 WASHINGTON, March 20 (Reuters) - The White House on Friday unveiled an artificial intelligence policy for Congress that urges lawmakers to enact legislation to pre-empt state rules, protect children
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -207,7 +207,7 @@ OpenCode - The open source coding agent.
 
 As the Charles de Gaulle and its strike group approach the Middle East, Le Monde identified a French sailor using the Strava fitness application in the Mediterranean Sea. This security flaw remains unaddressed despite our previous revelations.
 
-⬆️ 520 • 💬 410 • 16h ago • [Le Monde.fr](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
+⬆️ 520 • 💬 410 • 17h ago • [Le Monde.fr](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
 
 ---
 
@@ -255,7 +255,7 @@ An AI agent tried to help, and its advice exposed sensitive data.
 
 Qwen3.5-9B scores 93.8% on 96 real security AI tests — within 4 points of GPT-5.4 — running entirely on Apple Silicon. Full benchmark results and methodology.
 
-⬆️ 156 • 💬 146 • 12h ago • [sharpai.org](https://www.sharpai.org/benchmark/)
+⬆️ 156 • 💬 146 • 13h ago • [sharpai.org](https://www.sharpai.org/benchmark/)
 
 ---
 
@@ -307,7 +307,7 @@ AI is no longer a future problem. It is already reshaping the job market and mos
 
 📺 Scott Kuru
 
-👁️ 11K • 👍 430 • 💬 127 • ⏱️ 12:49 • 20h ago
+👁️ 11K • 👍 430 • 💬 127 • ⏱️ 12:49 • 21h ago
 
 ---
 
@@ -317,7 +317,7 @@ Join my private community: https://www.skool.com/automation-bootcamp-cashcoach G
 
 📺 Jacksons AI
 
-👁️ 17K • 👍 784 • 💬 112 • ⏱️ 4:08 • 14h ago
+👁️ 17K • 👍 784 • 💬 112 • ⏱️ 4:08 • 15h ago
 
 ---
 
@@ -357,7 +357,7 @@ higgsfield #cinemastudio #ai Higgsfield AI Cinema Studio 2.5 Changes How AI Vide
 
 📺 metricsmule
 
-👁️ 6K • 👍 330 • 💬 42 • ⏱️ 12:41 • 14h ago
+👁️ 6K • 👍 330 • 💬 42 • ⏱️ 12:41 • 15h ago
 
 ---
 
@@ -405,7 +405,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 116,845 • ❤️ 961 • 5h ago
+⬇️ 116,845 • ❤️ 961 • 6h ago
 
 ---
 
@@ -528,7 +528,7 @@ A multi-agent framework using large language models for stock trading simulates 
 Residual connections with PreNorm are standard in modern LLMs, yet they accumulate all layer outputs with fixed unit weights. This uniform aggregation causes uncontrolled hidden-state growth with depth, progressively diluting each layer's contribution. We propose Attention Residuals (AttnRes), which replaces this fixed accumulation with softmax attention over preceding layer outputs, allowing each layer to selectively aggregate earlier representations with learned, input-dependent weights. To address the memory and communication overhead of attending over all preceding layer outputs for large-scale model training, we introduce Block AttnRes, which partitions layers into blocks and attends over block-level representations, reducing the memory footprint while preserving most of the gains of full AttnRes. Combined with cache-based pipeline communication and a two-phase computation strategy, Block AttnRes becomes a practical drop-in replacement for standard residual connections with minimal overhead.
   Scaling law experiments confirm that the improvement is consistent across model sizes, and ablations validate the benefit of content-dependent depth-wise selection. We further integrate AttnRes into the Kimi Linear architecture (48B total / 3B activated parameters) and pre-train on 1.4T tokens, where AttnRes mitigates PreNorm dilution, yielding more uniform output magnitudes and gradient distribution across depth, and improves downstream performance across all evaluated tasks.
 
-▲ 126 • 💬 4 • ⭐ 2,274 • 4d ago
+▲ 126 • 💬 4 • ⭐ 2,274 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.15031) • [💻 code](https://github.com/MoonshotAI/Attention-Residuals)
 
@@ -670,7 +670,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.8k • 🔱 1.6k • 1h ago
+⭐ 12.8k • 🔱 1.6k • 2h ago
 
 ---
 
@@ -700,7 +700,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 9.3k • 🔱 461 • 13h ago
+⭐ 9.3k • 🔱 461 • 14h ago
 
 ---
 
@@ -730,7 +730,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 3.2k • 🔱 285 • 2h ago
+⭐ 3.2k • 🔱 285 • 3h ago
 
 ---
 

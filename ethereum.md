@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-21T05:27:44.892977+00:00'
+updated: '2026-03-21T06:02:35.216803+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 05:27 UTC  
+**Last Updated:** March 21, 2026 at 06:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-27m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey everyone, I’ve been working on a side project called Blockpeek and just sh
 
 I’m looking for a way to swap my Bitcoin to Ethereum without KYC, so obviously i found thorchain, but unfortunately it’s not available here in the U.S, and i heard it’s very expensive as well. Where should I do it you think? sorry if this question was already asked in past but i couldnt find an answer after bit lf time checking.
 
-7h ago
+8h ago
 
 ---
 
@@ -96,7 +96,7 @@ I’m looking for a way to swap my Bitcoin to Ethereum without KYC, so obviously
 
 Whenever I see an exchange offering 40% APY on stablecoins, I run the other way immediately. Yield doesn't come from nowhere. I look for platforms that just focus on standard spot trading, verifiable proof of reserves, and steady, quiet growth. That's exactly why I've stuck with Coinbase and BitMart over the years. Solid security beats flashy yields every single time.
 
-4h ago
+5h ago
 
 ---
 
@@ -164,13 +164,13 @@ Benzinga • 2d ago
 
 Ethereum bottom call backed by multiple signals, says Tom Lee. Strong upside narrative remains. Credibility tempered by past miss. Ethereum's price is once again at ...
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
 **[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqdFBGmo7LSOQj512Wakutc4v9lSMHUtZ8K2cHv3uhINXBExYElkGrKa&gaa_ts=69be2fbc&gaa_sig=SB_ruGgXRiyfxcOsI2czNsyBv0oPoo2nOTGwwvhY9oFTniEGhmviE36j8K3HsYzXgGdJ2UzSBHqhIlkvCzMZ0w%3D%3D)**
 
-MarketWatch • 15h ago
+MarketWatch • 16h ago
 
 ---
 
@@ -178,7 +178,7 @@ MarketWatch • 15h ago
 
 “Ethereum, to me, is really gonna be where Wall Street meets crypto,” a source told NYNext.
 
-New York Post • 18h ago
+New York Post • 19h ago
 
 ---
 
@@ -194,7 +194,7 @@ The Block • 1d ago
 
 #FeaturedPost
 
-Business Insider Africa • 14h ago
+Business Insider Africa • 15h ago
 
 ---
 
@@ -218,7 +218,7 @@ Decrypt • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 15h ago
+Fortune • 16h ago
 
 ---
 
@@ -226,7 +226,7 @@ Fortune • 15h ago
 
 Ethereum hit a new record high in 2025, but it still fell short of the $5,000 milestone.
 
-The Motley Fool • 17h ago
+The Motley Fool • 18h ago
 
 ---
 
@@ -240,7 +240,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 363 • 💬 47 • ⏱️ 19:43 • 13h ago
+👁️ 9K • 👍 363 • 💬 47 • ⏱️ 19:43 • 14h ago
 
 ---
 
@@ -250,7 +250,7 @@ Ethereum is showing strong bullish signals, with analysts predicting a major reb
 
 📺 Crypto Sensei
 
-👁️ 5K • 👍 439 • 💬 46 • ⏱️ 12:42 • 15h ago
+👁️ 5K • 👍 439 • 💬 46 • ⏱️ 12:42 • 16h ago
 
 ---
 
@@ -270,7 +270,7 @@ BITCOIN & ALTCOIN WARNING: Price Targets Exposed!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 5K • 👍 220 • 💬 44 • ⏱️ 16:50 • 10h ago
+👁️ 5K • 👍 220 • 💬 44 • ⏱️ 16:50 • 11h ago
 
 ---
 
@@ -308,7 +308,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 208 • 👍 8 • 💬 2 • ⏱️ 4:56 • 19h ago
+👁️ 208 • 👍 8 • 💬 2 • ⏱️ 4:56 • 20h ago
 
 ---
 

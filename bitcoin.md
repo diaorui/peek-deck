@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-21T05:27:44.886291+00:00'
+updated: '2026-03-21T06:02:35.210817+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 05:27 UTC  
+**Last Updated:** March 21, 2026 at 06:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -70,7 +70,7 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 11
+### 12
 **EXTREME FEAR**
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[RIP Legend](https://www.reddit.com/r/Bitcoin/comments/1rzh2xj/rip_legend/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -95,7 +95,7 @@ Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Al
 
 Abra Financial Holdings, Inc. CEO
 
-15h ago
+16h ago
 
 ---
 
@@ -103,7 +103,7 @@ Abra Financial Holdings, Inc. CEO
 
 North Carolina is moving to become one of the first states to officially hold Bitcoin as part of its treasury reserves. The bill (HB 92) would allow the state treasurer to invest up to 10% of certain public funds in Bitcoin. These reserves typically consist of US Treasury bonds
 
-15h ago
+16h ago
 
 ---
 
@@ -111,7 +111,7 @@ North Carolina is moving to become one of the first states to officially hold Bi
 
 The government relies on this crypto infrastructure for international trade, while ordinary Iranians use it as a financial lifeline during protests and economic crises. Iran has built a multibillion-dollar parallel economy using state-sponsored Bitcoin mining and stablecoins to bypass the U.S. dollar, heavily driven by the IRGC. The government relies on this crypto infrastructure for international trade, while ordinary Iranians use it as a financial lifeline during protests and economic crises. Recent military strikes threaten Iran's fragile power grid, which is essential to sustaining the energy-intensive mining operations that keep this financial channel open. The Islamic Revolutionary Guard Corps (IRGC), the primary branch of the country’s military, has since deepened its role in the space. Chainalysis estimates IRGC-linked addresses accounted for more than 50% of total Iranian crypto inflows in the fourth quarter of 2025, with over $3 billion in value received last year.
 
-5h ago
+6h ago
 
 ---
 
@@ -127,7 +127,7 @@ Hey all, i made mistake a long time ago when BTC price was 17.000€ and I wante
 
 This is my comprehensive guide for 10 and more hardware wallets, their pros and cons and facts why a specific wallet may be suitable for a user personality. What is your take?
 
-🔗 [renditecloud.com](https://renditecloud.com/2026/02/09/the-10-best-crypto-hardware-wallets-in-2026/) • 5h ago
+🔗 [renditecloud.com](https://renditecloud.com/2026/02/09/the-10-best-crypto-hardware-wallets-in-2026/) • 6h ago
 
 ---
 
@@ -135,7 +135,7 @@ This is my comprehensive guide for 10 and more hardware wallets, their pros and 
 
 Is anybody else impressed by the stability of the price in the last month considering the state of the world? If the cycle is real (it's mostly followed it, what, 4 times now? Not exactly a substantial amount of data points... but it is a pattern nonetheless) then it's mildly interesting that it hasn't dropped further faster... yet. And considering the conflicts/wars and the state of the market and oil prices, and gold falling... yet through all this in the past month it has been steady around 70k plus or minus a bit. Maybe all this was "priced in" from before the last month, but if that were the case, amid the bear period of the "4 year cycle" AND the war, I'd have expected the "price in" to be more damaging. Just some commute-thoughts I had... open for discussion.
 
-16h ago
+17h ago
 
 ---
 
@@ -209,13 +209,13 @@ Barron's • 2d ago
 
 Unpopular
 
-Financial Times • 12h ago
+Financial Times • 13h ago
 
 ---
 
 **[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqcBKSWU68ogvIBGAa5yAz3ILAtn3D0_EoVDUjdN8cbtNJyi4YFJhf2c&gaa_ts=69be2fba&gaa_sig=g3NoOMfSJl-iDQgLTSnJo7yVPj3qZRe-vBMQ6aFhSBJZpbPhTjfACR4seDjQ7qpBiut8w_Btg9SMf3ROnD0PZQ%3D%3D)**
 
-MarketWatch • 15h ago
+MarketWatch • 16h ago
 
 ---
 
@@ -223,7 +223,7 @@ MarketWatch • 15h ago
 
 Texas Capital remains hopeful about Strategy's Bitcoin policy.
 
-thestreet.com • 7h ago
+thestreet.com • 8h ago
 
 ---
 
@@ -283,7 +283,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 **[BioContact assurance and status monitoring using human body communication](https://news.ycombinator.com/item?id=47459528)**
 
-⬆️ 1 • 💬 0 • 9h ago • [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2590123025045001)
+⬆️ 1 • 💬 0 • 10h ago • [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2590123025045001)
 
 ---
 
@@ -303,7 +303,7 @@ Bitcoin just went live at millions of businesses without anyone opting in. While
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 791 • 💬 61 • ⏱️ 12:51 • 6h ago
+👁️ 8K • 👍 791 • 💬 61 • ⏱️ 12:51 • 7h ago
 
 ---
 
@@ -313,7 +313,7 @@ New report exposes institutions have only just begun dipping their toes into bit
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 275 • 💬 36 • ⏱️ 1:30:42 • 10h ago
+👁️ 6K • 👍 275 • 💬 36 • ⏱️ 1:30:42 • 11h ago
 
 ---
 
@@ -323,7 +323,7 @@ A central bank buying Bitcoin would change everything. Not because of the amount
 
 📺 Tim Talks Finance
 
-👁️ 1K • 👍 97 • 💬 12 • ⏱️ 18:40 • 6h ago
+👁️ 1K • 👍 97 • 💬 12 • ⏱️ 18:40 • 7h ago
 
 ---
 
@@ -353,7 +353,7 @@ Dave LaValle, president of @CoinDesk, offers a full picture perspective on the s
 
 📺 Schwab Network
 
-👁️ 643 • 👍 13 • 💬 1 • ⏱️ 7:00 • 9h ago
+👁️ 643 • 👍 13 • 💬 1 • ⏱️ 7:00 • 10h ago
 
 ---
 
