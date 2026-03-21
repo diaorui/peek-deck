@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-21T20:28:43.470486+00:00'
+updated: '2026-03-21T20:53:45.330941+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 20:28 UTC  
+**Last Updated:** March 21, 2026 at 20:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -3.3%  
-**30d:** +3.4%  
-**90d:** -20.3%  
-**1y:** -16.1%  
+**24h:** -0.2%  
+**7d:** -3.2%  
+**30d:** +3.6%  
+**90d:** -20.2%  
+**1y:** -16.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1409.14B
+**Market Cap:** $1409.29B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
@@ -64,7 +64,7 @@ Rank #1
 -44.1%
 
 **All-Time Low:** $67.81
-+103796.2%
++103775.5%
 
 ---
 
@@ -81,13 +81,21 @@ Rank #1
 
 Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perrenod
 
-9h ago
+10h ago
 
 ---
 
 **[RIP Legend](https://www.reddit.com/r/Bitcoin/comments/1rzh2xj/rip_legend/)**
 
-16h ago
+17h ago
+
+---
+
+**[There won't be a second date but at least she knows about the Blocksize War and how the Lightning Network works](https://www.reddit.com/r/Bitcoin/comments/1s012lr/there_wont_be_a_second_date_but_at_least_she/)**
+
+An excellent book about all the details, even people who fought the Blocksize war might have missed: https://www.youtube.com/watch?v=6YtS5ZNuuTw And excellent explanation of r/thelightningnetwork: https://www.youtube.com/watch?v=yKdK-7AtAMQ A bonus video. Lyn Alden's Full Broken Money Thesis in under 50min: https://www.youtube.com/watch?v=k3NN_NZOdhY
+
+57m ago
 
 ---
 
@@ -113,6 +121,14 @@ Holder since 2015. Never soldi. Slowly accumulating. Sometimes daily trading (wi
 
 ---
 
+**[FAFO Bitcoin investor here](https://www.reddit.com/r/Bitcoin/comments/1rzzwwb/fafo_bitcoin_investor_here/)**
+
+hi, just checking in to say hi I am generally a conservative broad index ETF investor for most of my savings but jn recent years have also been buying bitcoin and and now hold 1,1 BTC. I am torn between contirnuing to buy a bit every month or stopping altogether having achieve wholecoinership. I would be interested to know how other stackers approach this
+
+1h ago
+
+---
+
 **[What Is Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1rzwqrg/what_is_bitcoin/)**
 
 Bitcoin and cryptocurrency explained in a way that's fun and easy to understand.
@@ -121,9 +137,9 @@ Bitcoin and cryptocurrency explained in a way that's fun and easy to understand.
 
 ---
 
-**[FAFO Bitcoin investor here](https://www.reddit.com/r/Bitcoin/comments/1rzzwwb/fafo_bitcoin_investor_here/)**
+**[I switched to hourly DCA a few months ago.](https://www.reddit.com/r/Bitcoin/comments/1s00fzt/i_switched_to_hourly_dca_a_few_months_ago/)**
 
-hi, just checking in to say hi I am generally a conservative broad index ETF investor for most of my savings but jn recent years have also been buying bitcoin and and now hold 1,1 BTC. I am torn between contirnuing to buy a bit every month or stopping altogether having achieve wholecoinership. I would be interested to know how other stackers approach this
+River provides hourly DCA without fees, it’s honestly my favorite so far. No one mentions it here, but I thought I’d say that I like it a lot.
 
 1h ago
 
@@ -133,29 +149,21 @@ hi, just checking in to say hi I am generally a conservative broad index ETF inv
 
 Please someone just buy or sell already so the price moves!
 
-15h ago
-
----
-
-**[Cost to mine](https://www.reddit.com/r/Bitcoin/comments/1rzps0g/cost_to_mine/)**
-
-any insight on the approximate cost to mine 1 bitcoin? I appreciate it varies by miner but average and bands would be helpful any credible charts out there of bitcoin price relative to cost to mine?
-
-8h ago
-
----
-
-**[Loving Bitcoin at $120k and $60k tells you it’s not about timing, it’s about opting out](https://www.reddit.com/r/Bitcoin/comments/1rywlrd/loving_bitcoin_at_120k_and_60k_tells_you_its_not/)**
-
-Abra Financial Holdings, Inc. CEO
-
-1d ago
+16h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[Strategy (MSTR) on track for second-biggest BTC buying quarter despite price drop](https://www.coindesk.com/markets/2026/03/21/strategy-set-for-second-biggest-bitcoin-buying-quarter-despite-btc-price-slide)**
+
+First-quarter purchases have reached 89,618 BTC so far, the most since fourth-quarter 2024, and the quarter is not yet over.
+
+CoinDesk • 6h ago
+
+---
 
 **[From $13,700 to $148 million: Bitcoin whale moves 2,100 BTC untouched for over 13 years](https://www.theblock.co/post/394488/from-13700-to-148-million-bitcoin-whale-moves-2100-btc-untouched-for-over-13-years)**
 
@@ -165,11 +173,11 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin’s price action looks dangerously similar to the pattern that sent it crashing to $60,000](https://www.coindesk.com/markets/2026/03/20/bitcoin-s-price-action-looks-dangerously-similar-to-the-pattern-that-sent-it-crashing-to-usd60-000)**
+**[Bitcoin Price News: Two Early Bitcoin Holders Sold $117M BTC, but Whales Are Buying the Dip at Record Pace](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-news-two-early-162824070.html)**
 
-The recent price action echoes the November–January pattern, showing weak conviction among the “buy the dip” crowd.
+Bitcoin (CRYPTO: BTC) is trading around $70,500 after a brief rally toward $75,000 that was met with a firm rejection following the Fed decision. Two Bitcoin OGs then made massive moves on March 19, selling a combined $117 million in BTC the day after the Fed held rates and raised its inflation forecast. On the ... Bitcoin Price News: Two Early Bitcoin Holders Sold $117M BTC, but Whales Are Buying the Dip at Record Pace
 
-CoinDesk • 1d ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -181,11 +189,9 @@ CoinDesk • 1h ago
 
 ---
 
-**[Eric Trump Says 'Up We Go' After American Bitcoin Surpasses Galaxy Digital In Bitcoin Holdings — So Why Is The Stock Lagging?](https://finance.yahoo.com/markets/crypto/articles/eric-trump-says-american-bitcoin-150105170.html)**
+**[Bitcoin Falls Below $70,000. It’s Not Just the Fed Decision Dragging on the Crypto, XRP.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-fed-powell-oil-033bcaee?gaa_at=eafs&gaa_n=AWEtsqd6rYEoLqNcBZDdB8fUlYXUhOk9wxs1izpBCy2MKffnNnFh6bKQn9-e&gaa_ts=69bf08c2&gaa_sig=G3KMl_T9T52mh34tbmb26EbPZG7jBp-MNhGPh4ge8ERNLsCHYXT8xYCzudW-Em-Sjq7aPbjwNcAXYgSEs6Kl2g%3D%3D)**
 
-American Bitcoin Corp. co-founder Eric Trump celebrated on Wednesday after the company surpassed Galaxy Digital Inc. in accumulating Bitcoin. ‘Climbing The Ladder Faster’ Trump took pride in the achievement on X, adding, “No company is climbing the ladder faster. Up,...
-
-Yahoo Finance • 1d ago
+Barron's • 2d ago
 
 ---
 
@@ -197,12 +203,6 @@ Financial Times • 1d ago
 
 ---
 
-**[Bitcoin Falls Below $70,000. It’s Not Just the Fed Decision Dragging on the Crypto, XRP.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-fed-powell-oil-033bcaee?gaa_at=eafs&gaa_n=AWEtsqcTFWNETkIYaknetAw5OyXcI7dHNZ8EEPCikdrGocr0FxlFl-xZwOv5&gaa_ts=69bef906&gaa_sig=Qr2rEMvJpVsyi0-dMFK1UuYB8GC7vQWQQwMxeOfjN3bN6X_OelzTH3EKj5EJcN2MTnA8aaF3Tqqd0LKcM5nk7Q%3D%3D)**
-
-Barron's • 2d ago
-
----
-
 **[Phong Le Calls Morgan Stanley’s BTC ETF a “Monster Bitcoin” Bet With $160 Billion Potential](https://bitcoinmagazine.com/news/phong-le-calls-morgan-stanleys-bitcoin)**
 
 The president and CEO of Strategy said Morgan Stanley’s upcoming bitcoin ETF could unlock as much as $160 billion in demand under a modest portfolio allocation scenario.
@@ -211,21 +211,23 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqfKZ4pKpkjBIL_f2nO59_CA_agZHajkBwP_Zb2xMGigkpUqWNXR345u&gaa_ts=69bef906&gaa_sig=sR-camrpLP-zUipnSyjf-y8fFew1SbJsKn_23hTlCAr8XH3HpgW5iwP2eNFS67PPFuR-deoaQizcd02chhoqyg%3D%3D)**
+**[White House Quietly Confirms A ‘Major’ Crypto Milestone As Bitcoin Braces For A Huge Price Earthquake](https://www.forbes.com/sites/digital-assets/2026/03/21/white-house-quietly-confirms-a-major-crypto-milestone-as-bitcoin-braces-for-a-huge-price-earthquake/)**
 
-MarketWatch • 1d ago
-
----
-
-**[‘Difficult to resolve’: Local authorities return money lost in Bitcoin scam](https://fox8.com/news/difficult-to-resolve-local-authorities-return-money-lost-in-bitcoin-scam/)**
-
-FOX 8 News • 1d ago
+Forbes • 8h ago
 
 ---
 
 **[Ex-Wife Accused of Stealing £180 Million in Bitcoin After Divorce](https://www.bloomberg.com/news/articles/2026-03-19/ex-wife-accused-of-stealing-180-million-in-bitcoin-after-divorce)**
 
-Bloomberg • 2d ago
+Bloomberg.com • 2d ago
+
+---
+
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1774119300)**
+
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 3h ago
 
 ---
 
@@ -295,13 +297,23 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 ## YouTube Videos: "bitcoin"
 
+**[Why Bitcoin Could Explode As Global Markets Crack](https://www.youtube.com/watch?v=yFa1iAAk7Bg)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 25K • 👍 1K • 💬 38 • ⏱️ 59:39 • 7h ago
+
+---
+
 **[4M Companies Just FORCED to Adopt Bitcoin? ](https://www.youtube.com/watch?v=8FHfwGCet-E)**
 
 Bitcoin just went live at millions of businesses without anyone opting in. While most people are distracted, Dorsey, Musk, and ...
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 125 • ⏱️ 12:51 • 21h ago
+👁️ 18K • 👍 1K • 💬 155 • ⏱️ 12:51 • 22h ago
 
 ---
 
@@ -311,7 +323,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 7K • 👍 382 • 💬 141 • ⏱️ 8:34 • 20h ago
+👁️ 7K • 👍 389 • 💬 202 • ⏱️ 8:34 • 21h ago
 
 ---
 
@@ -321,17 +333,17 @@ New report exposes institutions have only just begun dipping their toes into bit
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 313 • 💬 47 • ⏱️ 1:30:42 • 1d ago
+👁️ 7K • 👍 319 • 💬 47 • ⏱️ 1:30:42 • 1d ago
 
 ---
 
-**[Bitcoin Just Got Its Biggest Institutional Endorsement](https://www.youtube.com/watch?v=JeIbpLfQ_oI)**
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=jDn-cQEKKMQ)**
 
-A central bank buying Bitcoin would change everything. Not because of the amount… But because of what it signals. In this video ...
+TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
 
-📺 Tim Talks Finance
+📺 My Channel
 
-👁️ 3K • 👍 164 • 💬 36 • ⏱️ 18:40 • 21h ago
+👁️ 6K • 👍 1K • 7h ago
 
 ---
 
@@ -341,7 +353,17 @@ A classic case of the bear market blues for Bitcoin. Into The Cryptoverse Premiu
 
 📺 Benjamin Cowen
 
-👁️ 60K • 👍 4K • 💬 203 • ⏱️ 11:38 • 1d ago
+👁️ 61K • 👍 4K • 💬 204 • ⏱️ 11:38 • 1d ago
+
+---
+
+**[Bitcoin Just Got Its Biggest Institutional Endorsement](https://www.youtube.com/watch?v=JeIbpLfQ_oI)**
+
+A central bank buying Bitcoin would change everything. Not because of the amount… But because of what it signals. In this video ...
+
+📺 Tim Talks Finance
+
+👁️ 3K • 👍 168 • 💬 38 • ⏱️ 18:40 • 21h ago
 
 ---
 
@@ -351,17 +373,7 @@ A classic case of the bear market blues for Bitcoin. Into The Cryptoverse Premiu
 
 📺 Altcoin Daily
 
-👁️ 8K • 👍 283 • 💬 84 • ⏱️ 1:06 • 1d ago
-
----
-
-**[A Massive Bitcoin Bull Case Is Forming](https://www.youtube.com/watch?v=skohgb8JyWI)**
-
-Bill Barhydt is the founder and CEO of Abra and a longtime leader in digital assets and crypto wealth management. In this ...
-
-📺 Anthony Pompliano
-
-👁️ 29K • 👍 1K • 💬 28 • ⏱️ 37:41 • 2d ago
+👁️ 9K • 👍 288 • 💬 81 • ⏱️ 1:06 • 1d ago
 
 ---
 
@@ -371,7 +383,7 @@ Ric Edelman gives Jenn Sanasie his Bitcoin prediction if the CLARITY Act passes.
 
 📺 CoinDesk
 
-👁️ 4K • 👍 17 • 💬 2 • ⏱️ 0:19 • 14h ago
+👁️ 5K • 👍 18 • 💬 3 • ⏱️ 0:19 • 14h ago
 
 ---
 
@@ -381,17 +393,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 7K • 👍 413 • 💬 33 • ⏱️ 13:09 • 9h ago
-
----
-
-**[Why is President Trump Buying Bitcoin? @1MarkMoss  #bitcoin  #crypto #finance](https://www.youtube.com/watch?v=JX_OSxElGM4)**
-
-Connect with Rich on Instagram: @rich_somers Interested in investing with Somers Capital? Visit www.somerscapital.com/invest ...
-
-📺 Rich Somers
-
-👁️ 40K • 👍 491 • 💬 28 • ⏱️ 0:41 • 3d ago
+👁️ 8K • 👍 440 • 💬 34 • ⏱️ 13:09 • 9h ago
 
 ---
 

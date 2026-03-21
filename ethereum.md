@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-21T20:28:43.476427+00:00'
+updated: '2026-03-21T20:53:45.336854+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 20:28 UTC  
+**Last Updated:** March 21, 2026 at 20:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** -1.3%  
-**30d:** +9.2%  
-**90d:** -28.5%  
-**1y:** +8.6%  
+**24h:** +0.3%  
+**7d:** -1.1%  
+**30d:** +9.4%  
+**90d:** -28.4%  
+**1y:** +8.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $259.85B
+**Market Cap:** $260.12B
 Rank #2
 
 **Circulating Supply:** 120,691,752 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.5%
+-56.4%
 
 **All-Time Low:** $0.43
-+497122.7%
++497543.1%
 
 ---
 
@@ -73,6 +73,14 @@ No max supply
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 15h ago
+
+---
+
+**[Feels like Ethereum DeFi is slowly shifting from “yield” to… actual revenue?](https://www.reddit.com/r/ethereum/comments/1s00u5q/feels_like_ethereum_defi_is_slowly_shifting_from/)**
+
+Feels like Ethereum DeFi is slowly shifting from “yield” to… actual revenue? Saw a thread recently about TVL climbing again, and someone pointed out that what really matters isn’t how much is locked, but where the returns actually come from. That stuck with me. Because if we’re honest — a lot of yield is still just internal loops. Restaking, incentives, recursive liquidity… it works, but it’s kind of self-contained. Lately I’ve been looking into models where returns come from outside the system. For example, 8lends — capital goes into real businesses, they generate revenue, and that’s what funds the yield. Feels closer to what DeFi originally promised, no? At the same time, it introduces a different layer of risk — off-chain dependency, credit exposure, all that. Curious how this fits into Ethereum long-term. Are we moving in that direction, or is this just a niche side path?
+
+1h ago
 
 ---
 
@@ -88,7 +96,7 @@ Hey everyone, I’ve been working on a side project called Blockpeek and just sh
 
 I’m looking for a way to swap my Bitcoin to Ethereum without KYC, so obviously i found thorchain, but unfortunately it’s not available here in the U.S, and i heard it’s very expensive as well. Where should I do it you think? sorry if this question was already asked in past but i couldnt find an answer after bit lf time checking.
 
-22h ago
+23h ago
 
 ---
 
@@ -140,14 +148,6 @@ I'm traveling next month across a few different countries and really want to spe
 
 ---
 
-**[Daily General Discussion March 18, 2026](https://www.reddit.com/r/ethereum/comments/1rwuoph/daily_general_discussion_march_18_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -184,17 +184,17 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqdqtJ2Ey9g7M7OwKVSrOeoG_U2VBYUPk1wlLLp8ART8omt2wz6Tq5Dk&gaa_ts=69bf08c4&gaa_sig=ZZr6krT_GZ6SpWf2knvjiEJsQURPt1MmMLhbBUh_ucKyNzwWCMdSysToHi0HFrWHhuSWWlh2GzaDp1CzDoa9JQ%3D%3D)**
+
+MarketWatch • 1d ago
+
+---
+
 **[Whale investor buys $111 million worth of Ethereum one year after selling: onchain data](https://www.theblock.co/post/394263/whale-investor-buys-111-million-ethereum)**
 
 A whale trader has reportedly bought 50,706 ETH with 111.62 million USDT on Wednesday, after selling holdings a year earlier.
 
 The Block • 2d ago
-
----
-
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqcBgDMMg04zn9fatF8KzajNijs32E6DDMn1R7CxeudrARF1LksyM_Cf&gaa_ts=69bef908&gaa_sig=nRN4awbvZWWBLDvO_exNKMveNUMBU3yyF2coqeRyM4HM2mkHgokTxbe5G5_5KBcOUTs8vQDKpQoCXHRTtA4ObA%3D%3D)**
-
-MarketWatch • 1d ago
 
 ---
 
@@ -234,13 +234,23 @@ markets.businessinsider.com • 20h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Vitalik vs BlackRock: Who Wins?](https://www.youtube.com/watch?v=l77QrTEIgpo)**
+
+BlackRock just launched a staking Ethereum ETF—but is it really a win for investors? This video breaks down ETHB, hidden fees, ...
+
+📺 Coin Bureau
+
+👁️ 8K • 👍 457 • 💬 63 • ⏱️ 18:11 • 6h ago
+
+---
+
 **[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=FeGxOYyXTyE)**
 
 ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
 
 📺 Chad Colby
 
-👁️ 894 • 👍 1K • 4h ago
+👁️ 5K • 👍 1K • 4h ago
 
 ---
 
@@ -250,7 +260,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 446 • 💬 53 • ⏱️ 19:43 • 1d ago
+👁️ 11K • 👍 453 • 💬 33 • ⏱️ 19:43 • 1d ago
 
 ---
 
@@ -260,17 +270,7 @@ Ethereum is showing strong bullish signals, with analysts predicting a major reb
 
 📺 Crypto Sensei
 
-👁️ 6K • 👍 459 • 💬 55 • ⏱️ 12:42 • 1d ago
-
----
-
-**[LIVE: Tom Lee on BitMine Makes Massive Ethereum Move! This Speech Is a Game Changer for ETH Holders!](https://www.youtube.com/watch?v=ao6SmYX-V7Q)**
-
-Join Tom Lee for his groundbreaking keynote at the Ethereum Conference. Tom Lee, one of Wall Street's most renowned macro ...
-
-📺 SCP Realised
-
-👁️ 3K • 👍 659 • 2h ago
+👁️ 6K • 👍 461 • 💬 55 • ⏱️ 12:42 • 1d ago
 
 ---
 
@@ -280,7 +280,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 118 • 💬 5 • ⏱️ 3:56 • 17h ago
+👁️ 2K • 👍 119 • 💬 5 • ⏱️ 3:56 • 17h ago
 
 ---
 
@@ -290,15 +290,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 202 • 👍 13 • 💬 1 • ⏱️ 5:16 • 10h ago
-
----
-
-**[Asking AI to Predict Ethereum Price in 2030](https://www.youtube.com/watch?v=nmWDqBAfbkw)**
-
-📺 EllioTrades
-
-👁️ 10K • 👍 232 • 💬 40 • ⏱️ 1:07 • 2d ago
+👁️ 252 • 👍 14 • 💬 1 • ⏱️ 5:16 • 10h ago
 
 ---
 
@@ -308,27 +300,35 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 768 • 👍 75 • 💬 4 • ⏱️ 4:32 • 6h ago
+👁️ 1K • 👍 83 • 💬 4 • ⏱️ 4:32 • 6h ago
 
 ---
 
-**[BITCOIN &amp; ALTCOIN WARNING: Price Targets Exposed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_1-O-RlRdxA)**
+**[Asking AI to Predict Ethereum Price in 2030](https://www.youtube.com/watch?v=nmWDqBAfbkw)**
 
-BITCOIN & ALTCOIN WARNING: Price Targets Exposed!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+📺 EllioTrades
 
-📺 Crypto World
-
-👁️ 7K • 👍 260 • 💬 160 • ⏱️ 16:50 • 1d ago
+👁️ 11K • 👍 234 • 💬 35 • ⏱️ 1:07 • 2d ago
 
 ---
 
-**[Is PRIVATE AI the next big crypto narrative? Blacklight &amp; Ethereum integration. Private AI Is Here](https://www.youtube.com/watch?v=kdqJQYItK0w)**
+**[The Next Crypto Crash Is HERE? 😳](https://www.youtube.com/watch?v=ONDafP5yxAw)**
 
-Speaker: John Woods ▪️ CEO at the Nillion Association #Nillion, #Ethereum, #ETH, #L2, #Blacklight, #blockchain, #web3, ...
+This is all about why the next big crypto crash could be about to hit. Big news for all Bitcoin, Ethereum, Solana and Altcoin ...
 
-📺 Synopsis Web3 Summit
+📺 Investing Made Simple
 
-👁️ 1K • 💬 1 • ⏱️ 36:35 • 3h ago
+👁️ 6K • 👍 474 • ⏱️ 11:34 • 6h ago
+
+---
+
+**[ETF OUT FLOW?  - Latest Crypto Market News Today &amp; BTC - ETH Update](https://www.youtube.com/watch?v=H3SwfH8q-Lc)**
+
+ETF OUT FLOW? - Latest Crypto Market News Today & BTC - ETH Update Welcome to Al Makkah Tech & Business Hub!
+
+📺 AL MAKKAH TECH & BUSINESS HUB
+
+👁️ 440 • 👍 107 • 💬 7 • ⏱️ 11:58 • 1h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-21T20:28:43.479593+00:00'
+updated: '2026-03-21T20:53:45.340018+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 21, 2026 at 20:28 UTC  
+**Last Updated:** March 21, 2026 at 20:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,11 +52,27 @@ From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
 ---
 
+**[RMW comparison on Jazzy (Fast DDS vs Cyclone DDS vs Zenoh vs Iceoryx) + handling rosbag2 CPU spikes](https://www.reddit.com/r/robotics/comments/1s022nr/rmw_comparison_on_jazzy_fast_dds_vs_cyclone_dds/)**
+
+We’re running a pretty heavy autonomous stack on a single edge computer (ROS 2 Jazzy) — multiple high-res cameras, dense LiDARs, and radars all on one machine. We’re starting to hit serious compute + latency limits, especially with intra-process communication and recording. Right now we’re evaluating: Fast DDS Cyclone DDS Zenoh Iceoryx Also, as soon as we start recording with rosbag2, CPU usage spikes hard and we get frame drops across the system. Two questions for folks who’ve pushed ROS 2 hard on a single machine: For high-bandwidth intra-host comms on Jazzy, which RMW has actually given you the best real-world performance? How are you dealing with the rosbag2 overhead? Composable recorder node? Separate process? Or bypassing ROS entirely and logging raw sensor data? For context: we previously ran Humble + CycloneDDS + MCAP and saw similar bottlenecks. Curious what setups are working well in practice.
+
+16m ago
+
+---
+
 **[Test the Algorithm with RoboBaton viobot2, Has Anyone Used The Viobot2 For Other DIY work?](https://www.reddit.com/r/robotics/comments/1rztcci/test_the_algorithm_with_robobaton_viobot2_has/)**
 
 Testing the built-in 3D reconstruction algorithm of the Viobot2 — the result looks good. Has anyone used the Viobot2 for other DIY work? Can anyone share with me?
 
-5h ago
+6h ago
+
+---
+
+**[Another demo of my school project running the ACT](https://www.reddit.com/r/robotics/comments/1rzqryd/another_demo_of_my_school_project_running_the_act/)**
+
+It's one of the sample tasks I'm planning to demonstrate to the guests of my upcoming conference. ( 120 characters limit bypass )
+
+7h ago
 
 ---
 
@@ -76,11 +92,11 @@ Don't be surprised if you meet humanoid robots on the streets of Beijing at midn
 
 ---
 
-**[Another demo of my school project running the ACT](https://www.reddit.com/r/robotics/comments/1rzqryd/another_demo_of_my_school_project_running_the_act/)**
+**[Are there any cable driven 2 DOF mechanisms like this?](https://www.reddit.com/r/robotics/comments/1s02cv0/are_there_any_cable_driven_2_dof_mechanisms_like/)**
 
-It's one of the sample tasks I'm planning to demonstrate to the guests of my upcoming conference. ( 120 characters limit bypass )
+I want to make an aim-able phone holder with servos/steppers tucked in the base… and I don’t want to reinvent the wheel. Are there any references of this design? (Like a Simpson 3d printer, but simpler and for robot arms)
 
-7h ago
+4m ago
 
 ---
 
@@ -89,20 +105,6 @@ It's one of the sample tasks I'm planning to demonstrate to the guests of my upc
 I created this thread to discuss the reviews and scores for the submissions to RSS 2026 in Sydney Australia. Did anyone receive their reviews yet?
 
 10h ago
-
----
-
-**[FINDING THE RIGHT METAPHOR (Edited)](https://www.reddit.com/r/robotics/comments/1rzyd1e/finding_the_right_metaphor_edited/)**
-
-2h ago
-
----
-
-**[Physical Intelligence developed an RL method for fine-tuning their models for precise tasks in just a few hours or even minutes](https://www.reddit.com/r/robotics/comments/1ryt963/physical_intelligence_developed_an_rl_method_for/)**
-
-From Physical Intelligence on 𝕏 (thread with multiple videos): https://x.com/physical_int/status/2034728220818641363 Technical Blog post: https://www.pi.website/research/rlt
-
-1d ago
 
 ---
 
@@ -142,14 +144,6 @@ Engadget • 1d ago
 
 ---
 
-**[Robotics competition brings students from around the world to Bradley University](https://www.yahoo.com/news/articles/robotics-competition-brings-students-around-180249313.html)**
-
-High school students from 31 teams across the US and Taiwan are competing in the FIRST Robotics Central Illinois Regional Competition at Bradley University, where they must design, build, program, and...
-
-Yahoo • 2h ago
-
----
-
 **[Unitree plans Shanghai IPO, testing interest in humanoid robots](https://www.cnbc.com/2026/03/20/unitree-plans-shanghai-ipo-testing-interest-in-humanoid-robots.html)**
 
 Chinese startup Unitree Robotics on Friday filed an initial public offering application to the Shanghai ​Stock Exchange, seeking to ​raise  about $610 million.
@@ -170,15 +164,15 @@ New Atlas • 8h ago
 
 Japanese manufacturer Fanuc is plotting a large expansion in Michigan in response to demand from automakers and other customers.
 
-Crain's Detroit Business • 1d ago
+Crain's Detroit • 1d ago
 
 ---
 
-**[Tech Moves: Carbon Robotics’ new CFO; Microsoft gaming GM goes to Netflix; Nordstrom gets VP of AI](https://www.geekwire.com/2026/tech-moves-carbon-robotics-new-cfo-microsoft-gaming-gm-goes-to-netflix-nordstrom-gets-vp-of-ai/)**
+**[Robotics competition brings students from around the world to Bradley University](https://www.yahoo.com/news/articles/robotics-competition-brings-students-around-180249313.html)**
 
-Carbon Robotics names a CFO; Nordstrom gets a VP of AI; and a Microsoft gaming GM goes to Netflix while one of its longtime legal leaders retires.
+High school students from 31 teams across the US and Taiwan are competing in the FIRST Robotics Central Illinois Regional Competition at Bradley University, where they must design, build, program, and...
 
-GeekWire • 1d ago
+Yahoo • 2h ago
 
 ---
 
@@ -187,6 +181,14 @@ GeekWire • 1d ago
 The long read: How close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find out
 
 The Guardian • 2d ago
+
+---
+
+**[Tech Moves: Carbon Robotics’ new CFO; Microsoft gaming GM goes to Netflix; Nordstrom gets VP of AI](https://www.geekwire.com/2026/tech-moves-carbon-robotics-new-cfo-microsoft-gaming-gm-goes-to-netflix-nordstrom-gets-vp-of-ai/)**
+
+Carbon Robotics names a CFO; Nordstrom gets a VP of AI; and a Microsoft gaming GM goes to Netflix while one of its longtime legal leaders retires.
+
+GeekWire • 1d ago
 
 ---
 
@@ -200,7 +202,7 @@ The Guardian • 2d ago
 
 📺 MachineWorks Studio
 
-👁️ 2.1M • 👍 2K • 💬 29 • ⏱️ 0:06 • 5d ago
+👁️ 2.2M • 👍 2K • 💬 35 • ⏱️ 0:06 • 5d ago
 
 ---
 
@@ -210,7 +212,7 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 205K • 👍 3K • 💬 2K • ⏱️ 2:07 • 2d ago
+👁️ 219K • 👍 3K • 💬 2K • ⏱️ 2:07 • 2d ago
 
 ---
 
@@ -220,7 +222,7 @@ Video shows restaurant employees struggling to restrain a dancing robot that wen
 
 📺 NBC News
 
-👁️ 169K • 👍 2K • 💬 600 • ⏱️ 3:38 • 2d ago
+👁️ 172K • 👍 2K • 💬 608 • ⏱️ 3:38 • 2d ago
 
 ---
 
@@ -230,7 +232,7 @@ CENTAUR ROBOT - wearable robot adds two legs behind people to help distribute th
 
 📺 Unstoppable Gadgets
 
-👁️ 28K • 👍 339 • 💬 21 • ⏱️ 0:17 • 2d ago
+👁️ 28K • 👍 339 • 💬 22 • ⏱️ 0:17 • 2d ago
 
 ---
 
@@ -240,7 +242,37 @@ Try the full AI cinematic workflow here: https://higgsfield.ai/s/cinema-studio-2
 
 📺 AI Revolution
 
-👁️ 21K • 👍 498 • 💬 43 • ⏱️ 13:18 • 5d ago
+👁️ 21K • 👍 500 • 💬 43 • ⏱️ 13:18 • 5d ago
+
+---
+
+**[NVIDIA GTC Demo Stuns Audience With Real Olaf Robot Next To Jensen Huang](https://www.youtube.com/watch?v=pPnVsRPFWV8)**
+
+The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrations when Jensen Huang introduced a real ...
+
+📺 DPCcars
+
+👁️ 188K • 👍 2K • 💬 236 • ⏱️ 2:02 • 4d ago
+
+---
+
+**[Outdated Tier 4 Weapons in War Robots](https://www.youtube.com/watch?v=8zKwEsyhPYE)**
+
+War Robots Gameplay: Playing Spear and Atomizer on Ammit - Tier 4 My War Robots Creator Link: https://wr.my.games/manni ...
+
+📺 Manni-Gaming
+
+👁️ 4K • 👍 220 • 💬 36 • ⏱️ 12:20 • 7h ago
+
+---
+
+**[🎾🤖 INSANE! Researchers Can&#39;t Beat This #TennisRobot Anymore! #LATENT is Pro. #humanoid #robot #ai](https://www.youtube.com/watch?v=yqprFRLeZ48)**
+
+Humanoid tennis athletes are officially here! A team from Tsinghua University and Galbot just dropped LATENT, and it is ...
+
+📺 XRoboHub
+
+👁️ 165K • 👍 2K • 💬 278 • ⏱️ 0:23 • 6d ago
 
 ---
 
@@ -254,39 +286,13 @@ Welcome to the ultimate robot showdown of 2026! In this video, we feature over 1
 
 ---
 
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=WWgwW9S3PLI)**
+**[Spray-On Robot Skin Feels Strain Like Human Skin 🤖 #robotics #innovation #technology](https://www.youtube.com/watch?v=NGsP7tN0wuQ)**
 
-📺 Robot Julie 
+This Spray-On Electronic Skin Could Make Robots Feel More Like Humans. Researchers at KAIST have developed a new kind of ...
 
-👁️ 14K • 👍 85 • ⏱️ 0:21 • 19h ago
+📺 EcoZora
 
----
-
-**[🛑 STOP Doing This! 3 Mistakes That Will Kill Your Robot Vacuum](https://www.youtube.com/watch?v=ro7utfovBio)**
-
-Best Robot Vacuums 2026: justadadapproved.com 3 mistakes that can break your robot vacuum! Mova P10 ...
-
-📺 Just A Dad Approved
-
-👁️ 2K • 👍 119 • 💬 18 • ⏱️ 15:33 • 8h ago
-
----
-
-**[This Chinese Robot Just Crossed All the Lines — Real Life Terminator T800](https://www.youtube.com/watch?v=0hVT9qcC8Ec)**
-
-China just built something that was supposed to be decades away. Engine AI's T800 humanoid robot is already walking live ...
-
-📺 Core Insights
-
-👁️ 69K • 👍 1K • 💬 134 • ⏱️ 15:19 • 4d ago
-
----
-
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=o04URFEaSjM)**
-
-📺 Robot Julie 
-
-👁️ 34K • 👍 137 • 💬 2 • ⏱️ 0:24 • 2d ago
+👁️ 6K • 👍 20 • 💬 3 • ⏱️ 0:07 • 2d ago
 
 ---
 

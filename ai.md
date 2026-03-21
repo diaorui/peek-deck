@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-21T20:28:43.461961+00:00'
+updated: '2026-03-21T20:53:45.322552+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- social
 - news
 - repositories
-- social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 21, 2026 at 20:28 UTC  
+**Last Updated:** March 21, 2026 at 20:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -79,7 +79,13 @@ With AI becoming more and more of a topic, does anyone here ever thing about wha
 
 **[Nvidia "confirms" DLSS 5 relies on 2D frame data as testing reveals hallucinations](https://www.reddit.com/r/artificial/comments/1rzjgdh/nvidia_confirms_dlss_5_relies_on_2d_frame_data_as/)**
 
-🔗 [techspot.com](https://www.techspot.com/news/111770-nvidia-confirms-dlss-5-relies-2d-frame-data.html) • 14h ago
+🔗 [techspot.com](https://www.techspot.com/news/111770-nvidia-confirms-dlss-5-relies-2d-frame-data.html) • 15h ago
+
+---
+
+**[Walmart secures two AI pricing patents, raising dynamic pricing concerns](https://www.reddit.com/r/artificial/comments/1rywmca/walmart_secures_two_ai_pricing_patents_raising/)**
+
+🔗 [techspot.com](https://www.techspot.com/news/111752-walmart-secures-two-ai-pricing-patents-raising-dynamic.html) • 1d ago
 
 ---
 
@@ -91,17 +97,11 @@ Wheelchair users with severe disabilities can often navigate tight spaces better
 
 ---
 
-**[Walmart secures two AI pricing patents, raising dynamic pricing concerns](https://www.reddit.com/r/artificial/comments/1rywmca/walmart_secures_two_ai_pricing_patents_raising/)**
-
-🔗 [techspot.com](https://www.techspot.com/news/111752-walmart-secures-two-ai-pricing-patents-raising-dynamic.html) • 1d ago
-
----
-
 **[AI tool shows promise in diagnosing advanced heart failure](https://www.reddit.com/r/artificial/comments/1rzdkwl/ai_tool_shows_promise_in_diagnosing_advanced/)**
 
 "Applying artificial intelligence techniques to cardiac ultrasound data may make it easier to identify patients with advanced heart failure, a new study has found. The study [...] offers the prospect of better care for many thousands of patients who may be overlooked due to the difficulty of diagnosing their condition. Advanced heart failure is currently detected through cardiopulmonary exercise testing (CPET), which requires specialized equipment and trained staff and is typically only available at large medical centers. Due in part to this diagnostic bottleneck, only a few of the estimated 200,000 people in the United States with advanced heart failure get appropriate care each year. In the new study [...] the researchers tested a novel AI-powered method that may remove this bottleneck. The new method predicts with high accuracy the most important CPET measure, peak oxygen consumption (peak VO2), using much more easily obtainable ultrasound images of the patient's heart plus the patient's electronic health records. "This opens up a promising pathway for more efficient assessment of patients with advanced heart failure using data sources that are already embedded in routine care," said study senior author Dr. Fei Wang, the associate dean for AI and data science and the Frances and John L. Loeb Professor of Medical Informatics at Weill Cornell Medicine."
 
-🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-tool-advanced-heart-failure.html) • 19h ago
+🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-tool-advanced-heart-failure.html) • 20h ago
 
 ---
 
@@ -109,7 +109,7 @@ Wheelchair users with severe disabilities can often navigate tight spaces better
 
 Chemists may soon have one less rigorous step to worry about when searching for the right molecules to accomplish their highly specific innovation needs. Scientists have now built a new machine learning model that can predict the electric dipole moments of diatomic molecules within seconds using nothing more than the atomic properties of the atoms involved. Dipole moment is the measure of charge separation between the positive and negative ions in a molecule. It is an intrinsic property of the system. In other words, it is a fingerprint of a molecule. It determines the electrical polarity of the molecule, which in turn shapes key properties like boiling point, solubility, thermal conduction, and how molecules interact with each other. Understanding it is therefore essential—not just for grasping the fundamentals of chemical bonding, but also for advancing real-world applications in physics and chemistry. The new AI model, powered by Gaussian Process Regression (GPR), scanned over 4,800 diatomic molecules to predict their dipole moments with high accuracy within seconds. The results highlighted top candidates ranging from heavy, salt-like molecules such as cesium iodide (CsI) and francium iodide (FrI) to more unexpected combinations like gold–cesium (AuCs).
 
-🔗 [phys.org](https://phys.org/news/2026-03-ai-high-dipole-moments-unexpected.html) • 19h ago
+🔗 [phys.org](https://phys.org/news/2026-03-ai-high-dipole-moments-unexpected.html) • 20h ago
 
 ---
 
@@ -125,25 +125,29 @@ CNBC • 8h ago
 
 ---
 
-**[US man pleads guilty to defrauding music streamers out of millions using AI](https://www.theguardian.com/us-news/2026/mar/21/man-pleads-guilty-music-streaming-fraud-ai)**
+**[Exclusive: Pentagon to adopt Palantir AI as core US military system, memo says](https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/)**
 
-Michael Smith, 52, charged after flooding platforms with thousands of AI songs and boosting them with bots
+Reuters • 21h ago
 
-The Guardian • 1h ago
+---
+
+**[Thousands of people are selling their identities to train AI – but at what cost?](https://www.theguardian.com/technology/2026/mar/21/ai-trainers-identity-cost)**
+
+Gig AI trainers worldwide are selling moments of their lives, including calls and texts, to AI companies for quick cash
+
+The Guardian • 6h ago
+
+---
+
+**[Where Is Mojtaba Khamenei? Iran Fills the Gap With AI and Voice-Overs](https://www.wsj.com/world/middle-east/where-is-mojtaba-khamenei-iran-fills-the-gap-with-ai-and-voice-overs-912b3827?gaa_at=eafs&gaa_n=AWEtsqfjjtEuKt6tPO_wy4wI21NbUQrxdL56shjwP-E8Idh5wigpWjFLlgQP&gaa_ts=69bf08c0&gaa_sig=ja-_Aa2Acd8YrBfE35uhjDaVE9Y7u6-n5zGSFV-R50xQz39nbNDBEk2OW0zuQBRr8vZmuZtudChOi_EGpY-IFg%3D%3D)**
+
+WSJ • 5h ago
 
 ---
 
 **[A.I. Is Writing Fiction. Publishers Are Unprepared.](https://www.nytimes.com/2026/03/19/books/ai-fiction-shy-girl.html)**
 
 The New York Times • 23h ago
-
----
-
-**[Publisher pulls horror novel ‘Shy Girl’ over AI concerns](https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/)**
-
-Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.
-
-TechCrunch • 58m ago
 
 ---
 
@@ -155,23 +159,11 @@ BBC • 1d ago
 
 ---
 
-**[A man let ChatGPT sell his home. It beat every agent's estimate by $100K—and closed in 5 days](https://fortune.com/2026/03/21/florida-man-chatgpt-sells-house-ai-jobs-marketing-pricing/)**
+**[Writer denies it, but publisher pulls horror novel after multiple allegations of AI use](https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/)**
 
-The technology assisted with everything from marketing and pricing to suggesting which walls to repaint.
+One of the first controversies of its kind.
 
-Fortune • 11h ago
-
----
-
-**[Exclusive: Pentagon to adopt Palantir AI as core US military system, memo says](https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/)**
-
-Reuters • 21h ago
-
----
-
-**[More! More! More! Tech Workers Max Out Their A.I. Use.](https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html)**
-
-The New York Times • 1d ago
+Ars Technica • 23h ago
 
 ---
 
@@ -183,9 +175,19 @@ Fox Business • 21h ago
 
 ---
 
-**[Where Is Mojtaba Khamenei? Iran Fills the Gap With AI and Voice-Overs](https://www.wsj.com/world/middle-east/where-is-mojtaba-khamenei-iran-fills-the-gap-with-ai-and-voice-overs-912b3827?gaa_at=eafs&gaa_n=AWEtsqcLxkoerCMcU_TmzIzQas-MXXEdWIMxAk0XOKyJV5TXROjX3gZE-0iD&gaa_ts=69bef905&gaa_sig=d7Y06KH3cpfp-Gjh3Lah-WKjY934xMt4eEfSMrMPeEYJTHUSfWQKTr8yDbQpBC58N8h40BE5wj2b8QjlxuVDzw%3D%3D)**
+**[The one skill that separates people who get smarter with AI from everyone else](https://fortune.com/2026/03/21/success-using-ai-one-secret-trait-metacognition/)**
 
-WSJ • 5h ago
+New research from the NeuroLeadership Institute finds fluent AI users share a single cognitive habit — and it has nothing to do with tech skills.
+
+Fortune • 6h ago
+
+---
+
+**[At Palantir’s Developer Conference, AI Is Built to Win Wars](https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/)**
+
+As business soars, Palantir is doubling down on a vision of AI built for battlefield advantage—and attracting customers who agree.
+
+WIRED • 1d ago
 
 ---
 
@@ -197,7 +199,7 @@ WSJ • 5h ago
 
 OpenCode - The open source coding agent.
 
-⬆️ 1146 • 💬 562 • 23h ago • [opencode.ai](https://opencode.ai/)
+⬆️ 1162 • 💬 571 • 23h ago • [opencode.ai](https://opencode.ai/)
 
 ---
 
@@ -205,7 +207,7 @@ OpenCode - The open source coding agent.
 
 As the Charles de Gaulle and its strike group approach the Middle East, Le Monde identified a French sailor using the Strava fitness application in the Mediterranean Sea. This security flaw remains unaddressed despite our previous revelations.
 
-⬆️ 612 • 💬 492 • 1d ago • [Le Monde.fr](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
+⬆️ 613 • 💬 494 • 1d ago • [Le Monde.fr](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
 
 ---
 
@@ -213,7 +215,7 @@ As the Charles de Gaulle and its strike group approach the Middle East, Le Monde
 
 Imagine a newspaper publisher announcing it will no longer allow libraries to keep copies of its paper. That’s effectively what’s begun happening online in the last few months. The Internet Archive—the world’s largest digital library—has preserved newspapers since it went online in the mid-1990s....
 
-⬆️ 405 • 💬 119 • 12h ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
+⬆️ 438 • 💬 125 • 13h ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
 
 ---
 
@@ -221,7 +223,7 @@ Imagine a newspaper publisher announcing it will no longer allow libraries to ke
 
 Last December, tens of thousands of Claude users around the world had a conversation with our AI interviewer to share how they use AI, what they dream it could make possible, and what they fear it might do.
 
-⬆️ 198 • 💬 187 • 2d ago • [anthropic.com](https://www.anthropic.com/features/81k-interviews)
+⬆️ 198 • 💬 188 • 2d ago • [anthropic.com](https://www.anthropic.com/features/81k-interviews)
 
 ---
 
@@ -253,7 +255,7 @@ Yesterday at lunch a friend asked me what tech trend he should pay attention to 
 
 Without thinking much I said “artificial intelligence”, but having thought about that a...
 
-⬆️ 79 • 💬 69 • 1d ago • [Sam Altman](https://blog.samaltman.com/ai)
+⬆️ 80 • 💬 69 • 1d ago • [Sam Altman](https://blog.samaltman.com/ai)
 
 ---
 
@@ -266,7 +268,7 @@ Much faster and better search with the daemon
 
 The daemon has existed for a long time, and has been marked as "experimental" for
 
-⬆️ 72 • 💬 68 • 9h ago • [The Atuin Blog](https://blog.atuin.sh/atuin-v18-13/)
+⬆️ 79 • 💬 70 • 10h ago • [The Atuin Blog](https://blog.atuin.sh/atuin-v18-13/)
 
 ---
 
@@ -274,7 +276,7 @@ The daemon has existed for a long time, and has been marked as "experimental" fo
 
 Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of hallucinations’, after investigation by newspaper where he was once editor-in-chief
 
-⬆️ 67 • 💬 49 • 5h ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes)
+⬆️ 75 • 💬 56 • 6h ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes)
 
 ---
 
@@ -288,7 +290,17 @@ I spoke to Anthropic's AI agent Claude about AI collecting massive amounts of pe
 
 📺 Senator Bernie Sanders
 
-👁️ 2.1M • 👍 127K • 💬 14K • ⏱️ 9:18 • 1d ago
+👁️ 2.2M • 👍 129K • 💬 14K • ⏱️ 9:18 • 1d ago
+
+---
+
+**[The Biggest Crack in the AI Narrative Has Finally Arrived.](https://www.youtube.com/watch?v=cXtosfAukLs)**
+
+The AI boom has rocketed the stock prices of Nvidia, Amazon, Apple, Tesla, Microsoft, Google and Meta. But now the AI boom ...
+
+📺 New Money
+
+👁️ 25K • 👍 1K • 💬 140 • ⏱️ 15:50 • 8h ago
 
 ---
 
@@ -298,7 +310,7 @@ AI is no longer a future problem. It is already reshaping the job market and mos
 
 📺 Scott Kuru
 
-👁️ 13K • 👍 508 • 💬 145 • ⏱️ 12:49 • 1d ago
+👁️ 13K • 👍 520 • 💬 147 • ⏱️ 12:49 • 1d ago
 
 ---
 
@@ -308,7 +320,7 @@ Google just dropped a major update to AI Studio, built around its new Antigravit
 
 📺 AI Revolution
 
-👁️ 42K • 👍 892 • 💬 62 • ⏱️ 10:14 • 21h ago
+👁️ 43K • 👍 915 • 💬 63 • ⏱️ 10:14 • 21h ago
 
 ---
 
@@ -318,47 +330,17 @@ UPDATE! We just put together 2 mega guides for you. Guide #1 shows you exactly h
 
 📺 Chris Koerner on The Koerner Office Podcast
 
-👁️ 63K • 👍 3K • 💬 431 • ⏱️ 30:54 • 21h ago
+👁️ 76K • 👍 3K • 💬 481 • ⏱️ 30:54 • 21h ago
 
 ---
 
-**[TikTok&#39;s AI Influencer Crisis Keeps Getting Worse](https://www.youtube.com/watch?v=Y41XmFbsG2s)**
+**[Grok AI Stopped FREE Videos Generation | Here&#39;s What to do](https://www.youtube.com/watch?v=QlzLbWp92YE)**
 
-Take back your personal data with Incogni! Use code "monkeyexplains" at checkout, or click the link and get 60% off annual plans: ...
+Join my private community: https://www.skool.com/automation-bootcamp-cashcoach Grok just stopped its free video and image ...
 
-📺 MonkeyExplains
+📺 Jacksons AI
 
-👁️ 48K • 👍 3K • 💬 343 • ⏱️ 12:33 • 1d ago
-
----
-
-**[NEW Google AI Studio Update is INSANE! 🤯](https://www.youtube.com/watch?v=qHu5WHZMj1U)**
-
-Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
-
-📺 Julian Goldie SEO
-
-👁️ 2K • 👍 72 • 💬 5 • ⏱️ 8:26 • 13h ago
-
----
-
-**[Dymesty AI Glasses Review – The Smart Glasses You’ll Actually Wear Every Day](https://www.youtube.com/watch?v=a5GQRbJzTY0)**
-
-Dymesty AI Glasses Review – The Smart Glasses You'll Actually Wear Every Day Check out the Dymesty AI Glasses Jobs Circle ...
-
-📺 TechLine
-
-👁️ 18K • 👍 1K • 💬 4 • ⏱️ 10:28 • 1d ago
-
----
-
-**[AI News: Every Major Announcement From This Week](https://www.youtube.com/watch?v=V4un_4uTEHs)**
-
-Here's the AI News you probably missed this week. Head to http://hostinger.com/mattopenclaw and use the coupon code ...
-
-📺 Matt Wolfe
-
-👁️ 46K • 👍 2K • 💬 173 • ⏱️ 35:30 • 1d ago
+👁️ 35K • 👍 1K • 💬 200 • ⏱️ 4:08 • 1d ago
 
 ---
 
@@ -368,17 +350,37 @@ Take your personal data back with Incogni! Use code FADS at the link below and g
 
 📺 Fads
 
-👁️ 16K • 👍 1K • 💬 174 • ⏱️ 12:05 • 23h ago
+👁️ 18K • 👍 1K • 💬 193 • ⏱️ 12:05 • 23h ago
 
 ---
 
-**[Laziest Way to Make Money With AI (Zero Code)](https://www.youtube.com/watch?v=biAYfwX4bkY)**
+**[AI News: Every Major Announcement From This Week](https://www.youtube.com/watch?v=V4un_4uTEHs)**
 
-Enter the GIVEAWAY for the chance to win an experience of a lifetime: https://go.danmartell.com/4sdFbly Are you building an AI ...
+Here's the AI News you probably missed this week. Head to http://hostinger.com/mattopenclaw and use the coupon code ...
 
-📺 Dan Martell
+📺 Matt Wolfe
 
-👁️ 126K • 👍 7K • 💬 387 • ⏱️ 15:59 • 2d ago
+👁️ 47K • 👍 2K • 💬 178 • ⏱️ 35:30 • 1d ago
+
+---
+
+**[They lied to us about AI](https://www.youtube.com/watch?v=z2guHaoY2_Y)**
+
+The company that promised AI would do the job of 10 people, can't even do the job of ONE company. https://x.com/atmoio ...
+
+📺 Mo Bitar
+
+👁️ 170K • 👍 8K • 💬 2K • ⏱️ 7:16 • 2d ago
+
+---
+
+**[M2.7 just BROKE the Entire Industry...](https://www.youtube.com/watch?v=7_Q8ECC9PYA)**
+
+Try SerpApi https://serpapi.link/wes-roth Click the link above to get 250 free credits to start building right now. My Links ...
+
+📺 Wes Roth
+
+👁️ 58K • 👍 2K • 💬 291 • ⏱️ 25:06 • 2d ago
 
 ---
 
@@ -394,7 +396,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 249,720 • ❤️ 731 • 10d ago
+⬇️ 249,720 • ❤️ 733 • 10d ago
 
 ---
 
@@ -406,7 +408,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 129,211 • ❤️ 986 • 20h ago
+⬇️ 129,211 • ❤️ 992 • 20h ago
 
 ---
 
@@ -418,7 +420,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 11,727 • ❤️ 687 • 10d ago
+⬇️ 11,727 • ❤️ 689 • 10d ago
 
 ---
 
@@ -442,7 +444,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 4,324 • ❤️ 271 • 2d ago
+⬇️ 4,324 • ❤️ 272 • 2d ago
 
 ---
 
@@ -454,7 +456,7 @@ GLM-OCR is a multimodal OCR model for complex document understanding, excelling 
 
 `image-to-text`
 
-⬇️ 3,119,740 • ❤️ 1,404 • 9d ago
+⬇️ 3,119,740 • ❤️ 1,405 • 9d ago
 
 ---
 
@@ -464,7 +466,7 @@ GLM-OCR is a multimodal OCR model for complex document understanding, excelling 
 
 Foundation-1 is a structured text-to-sample model for music production, enabling precise control over instrumentation, timbre, FX, and musical structure (tempo, key, bar count) for generating coherent, production-ready audio loops.
 
-⬇️ 0 • ❤️ 209 • 5d ago
+⬇️ 0 • ❤️ 214 • 5d ago
 
 ---
 
@@ -476,7 +478,7 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 `text-generation`
 
-⬇️ 17,367 • ❤️ 340 • 8d ago
+⬇️ 17,367 • ❤️ 341 • 8d ago
 
 ---
 
@@ -488,7 +490,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 335,992 • ❤️ 581 • 17d ago
+⬇️ 335,992 • ❤️ 586 • 17d ago
 
 ---
 
@@ -500,7 +502,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 3,016,919 • ❤️ 965 • 19d ago
+⬇️ 3,016,919 • ❤️ 966 • 19d ago
 
 ---
 
@@ -561,20 +563,6 @@ Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabil
 
 ---
 
-**[OpenClaw-RL: Train Any Agent Simply by Talking](https://huggingface.co/papers/2603.10165)**
-
-*Yinjie Wang, Xuyang Chen, Xiaolong Jin et al. (5 authors)*
-
-🏢 Princeton AI Lab
-
-OpenClaw-RL framework enables policy learning from diverse next-state signals across multiple interaction modalities using asynchronous training with PRM judges and hindsight-guided distillation.
-
-▲ 134 • 💬 6 • ⭐ 3,881 • 11d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.10165) • [💻 code](https://github.com/Gen-Verse/OpenClaw-RL) • [🔗 project](https://github.com/Gen-Verse/OpenClaw-RL)
-
----
-
 **[MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild](https://huggingface.co/papers/2603.17187)**
 
 *Peng Xia, Jianwen Chen, Xinyu Yang et al. (13 authors)*
@@ -586,6 +574,20 @@ A continual meta-learning framework for large language model agents that jointly
 ▲ 115 • 💬 3 • ⭐ 2,255 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.17187) • [💻 code](https://github.com/aiming-lab/MetaClaw)
+
+---
+
+**[OpenClaw-RL: Train Any Agent Simply by Talking](https://huggingface.co/papers/2603.10165)**
+
+*Yinjie Wang, Xuyang Chen, Xiaolong Jin et al. (5 authors)*
+
+🏢 Princeton AI Lab
+
+OpenClaw-RL framework enables policy learning from diverse next-state signals across multiple interaction modalities using asynchronous training with PRM judges and hindsight-guided distillation.
+
+▲ 134 • 💬 6 • ⭐ 3,917 • 11d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.10165) • [💻 code](https://github.com/Gen-Verse/OpenClaw-RL) • [🔗 project](https://github.com/Gen-Verse/OpenClaw-RL)
 
 ---
 
@@ -609,7 +611,7 @@ EvoScientist is an adaptive multi-agent framework that enhances scientific disco
 
 Great scientists have strong judgement and foresight, closely tied to what we call scientific taste. Here, we use the term to refer to the capacity to judge and propose research ideas with high potential impact. However, most relative research focuses on improving an AI scientist's executive capability, while enhancing an AI's scientific taste remains underexplored. In this work, we propose Reinforcement Learning from Community Feedback (RLCF), a training paradigm that uses large-scale community signals as supervision, and formulate scientific taste learning as a preference modeling and alignment problem. For preference modeling, we train Scientific Judge on 700K field- and time-matched pairs of high- vs. low-citation papers to judge ideas. For preference alignment, using Scientific Judge as a reward model, we train a policy model, Scientific Thinker, to propose research ideas with high potential impact. Experiments show Scientific Judge outperforms SOTA LLMs (e.g., GPT-5.2, Gemini 3 Pro) and generalizes to future-year test, unseen fields, and peer-review preference. Furthermore, Scientific Thinker proposes research ideas with higher potential impact than baselines. Our findings show that AI can learn scientific taste, marking a key step toward reaching human-level AI scientists.
 
-▲ 265 • 💬 8 • ⭐ 298 • 6d ago
+▲ 266 • 💬 8 • ⭐ 305 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.14473) • [💻 code](https://github.com/tongjingqi/AI-Can-Learn-Scientific-Taste) • [🔗 project](https://tongjingqi.github.io/AI-Can-Learn-Scientific-Taste/)
 
@@ -627,17 +629,15 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 ---
 
-**[Grounding World Simulation Models in a Real-World Metropolis](https://huggingface.co/papers/2603.15583)**
+**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
 
-*Junyoung Seo, Hyunwook Choi, Minkyung Kwon et al. (13 authors)*
+*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
 
-🏢 NAVER AI Lab
+Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-What if a world simulation model could render not an imagined environment but a city that actually exists? Prior generative world models synthesize visually plausible yet artificial environments by imagining all content. We present Seoul World Model (SWM), a city-scale world model grounded in the real city of Seoul. SWM anchors autoregressive video generation through retrieval-augmented conditioning on nearby street-view images. However, this design introduces several challenges, including temporal misalignment between retrieved references and the dynamic target scene, limited trajectory diversity and data sparsity from vehicle-mounted captures at sparse intervals. We address these challenges through cross-temporal pairing, a large-scale synthetic dataset enabling diverse camera trajectories, and a view interpolation pipeline that synthesizes coherent training videos from sparse street-view images. We further introduce a Virtual Lookahead Sink to stabilize long-horizon generation by continuously re-grounding each chunk to a retrieved image at a future location. We evaluate SWM against recent video world models across three cities: Seoul, Busan, and Ann Arbor. SWM outperforms existing methods in generating spatially faithful, temporally consistent, long-horizon videos grounded in actual urban environments over trajectories reaching hundreds of meters, while supporting diverse camera movements and text-prompted scenario variations.
+▲ 48 • 💬 2 • ⭐ 50,611 • 10mo ago
 
-▲ 138 • 💬 4 • ⭐ 390 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.15583) • [💻 code](https://github.com/naver-ai/seoul-world-model) • [🔗 project](https://seoul-world-model.github.io/)
+[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
 ---
 
@@ -651,7 +651,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 47.8k • 🔱 6.6k • 18h ago
+⭐ 47.9k • 🔱 6.6k • 18h ago
 
 ---
 
@@ -661,7 +661,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 21.9k • 🔱 1.0k • 10h ago
+⭐ 21.9k • 🔱 1.0k • 11h ago
 
 ---
 
@@ -671,7 +671,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.9k • 🔱 1.6k • 16h ago
+⭐ 12.9k • 🔱 1.6k • 17h ago
 
 ---
 
@@ -711,7 +711,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 6.0k • 🔱 904 • 3h ago
+⭐ 6.0k • 🔱 906 • 53m ago
 
 ---
 
@@ -731,7 +731,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 3.6k • 🔱 307 • 3h ago
+⭐ 3.6k • 🔱 308 • 39m ago
 
 ---
 
@@ -741,7 +741,7 @@ end to end app store screenshot creation using AI
 
 `agentic-ai` `apple` `appstore` `automate` `claude`
 
-⭐ 3.1k • 🔱 206 • 7d ago
+⭐ 3.1k • 🔱 207 • 7d ago
 
 ---
 
