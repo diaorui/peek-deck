@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-21T19:46:35.964942+00:00'
+updated: '2026-03-21T20:28:43.479593+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 21, 2026 at 19:46 UTC  
+**Last Updated:** March 21, 2026 at 20:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
-6h ago
+7h ago
 
 ---
 
 **[Ringbot: A monocycle robot developed by the Robotics and Institute (RAI) that uses internal legs for balance and acrobatic maneuvers](https://www.reddit.com/r/robotics/comments/1rztuum/ringbot_a_monocycle_robot_developed_by_the/)**
 
-4h ago
+5h ago
 
 ---
 
 **[You eventually start to realize, no job is safe](https://www.reddit.com/r/robotics/comments/1rzftd8/you_eventually_start_to_realize_no_job_is_safe/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -56,7 +56,7 @@ From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
 Testing the built-in 3D reconstruction algorithm of the Viobot2 — the result looks good. Has anyone used the Viobot2 for other DIY work? Can anyone share with me?
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ Don't be surprised if you meet humanoid robots on the streets of Beijing at midn
 
 It's one of the sample tasks I'm planning to demonstrate to the guests of my upcoming conference. ( 120 characters limit bypass )
 
-6h ago
+7h ago
 
 ---
 
@@ -88,13 +88,13 @@ It's one of the sample tasks I'm planning to demonstrate to the guests of my upc
 
 I created this thread to discuss the reviews and scores for the submissions to RSS 2026 in Sydney Australia. Did anyone receive their reviews yet?
 
-9h ago
+10h ago
 
 ---
 
 **[FINDING THE RIGHT METAPHOR (Edited)](https://www.reddit.com/r/robotics/comments/1rzyd1e/finding_the_right_metaphor_edited/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -130,7 +130,7 @@ CNBC • 1d ago
 
 Amazon has acquired autonomous robotics startup Rivr, an Amazon spokesperson confirmed, a deal that could help the commerce and logistics giant deliver packages to shoppers’ doors more efficiently. Based in Zurich and formerly known as Swiss-Mile, Rivr was valued at $110 million in an August ...
 
-The Information • 1d ago
+The Information • 2d ago
 
 ---
 
@@ -146,7 +146,7 @@ Engadget • 1d ago
 
 High school students from 31 teams across the US and Taiwan are competing in the FIRST Robotics Central Illinois Regional Competition at Bradley University, where they must design, build, program, and...
 
-Yahoo • 1h ago
+Yahoo • 2h ago
 
 ---
 
@@ -162,7 +162,7 @@ CNBC • 1d ago
 
 It took nature millions of years to create intelligent, adaptive species. Researchers at Northwestern University in Illinois are using AI to evolve robots in minutes. The result is a robot that is agile, highly adaptive, and technically indestructible.
 
-New Atlas • 7h ago
+New Atlas • 8h ago
 
 ---
 
@@ -268,7 +268,7 @@ Best Robot Vacuums 2026: justadadapproved.com 3 mistakes that can break your rob
 
 📺 Just A Dad Approved
 
-👁️ 2K • 👍 119 • 💬 18 • ⏱️ 15:33 • 7h ago
+👁️ 2K • 👍 119 • 💬 18 • ⏱️ 15:33 • 8h ago
 
 ---
 
@@ -278,7 +278,7 @@ China just built something that was supposed to be decades away. Engine AI's T80
 
 📺 Core Insights
 
-👁️ 69K • 👍 1K • 💬 134 • ⏱️ 15:19 • 3d ago
+👁️ 69K • 👍 1K • 💬 134 • ⏱️ 15:19 • 4d ago
 
 ---
 

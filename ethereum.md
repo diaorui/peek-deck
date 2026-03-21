@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-21T19:46:35.961756+00:00'
+updated: '2026-03-21T20:28:43.476427+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 19:46 UTC  
+**Last Updated:** March 21, 2026 at 20:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone, I’ve been working on a side project called Blockpeek and just shipped a new update. It’s a blockchain transaction scanner that tries to explain what actually happened in plain English instead of just showing raw hex data. You paste a transaction hash (or upload a screenshot from your wallet/exchange) and it tells you: ∙ What was sent, to who, from who ∙ The USD value at the time ∙ Gas fees in USD ∙ Which chain it was on (auto-detects Ethereum, BSC, Arbitrum, Polygon, Base, Solana, Bitcoin, Tron and more) It’s free, no login required. Would genuinely love feedback — what’s missing, what’s broken, what would make it actually useful for you. blockpeek.io
 
-20h ago
+21h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum, XRP, and Solana prices remained firm as the broader crypto market hovered slightly above the $70,000 level on renewed optimism.   Ethereum price
 
-CoinGape • 8h ago
+CoinGape • 9h ago
 
 ---
 
@@ -226,7 +226,7 @@ Decrypt • 2d ago
 
 Dubai, UAE, March  20, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto announced a major exchange bridge update that eliminates gas fees an...
 
-markets.businessinsider.com • 19h ago
+markets.businessinsider.com • 20h ago
 
 ---
 
@@ -240,7 +240,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 Chad Colby
 
-👁️ 894 • 👍 1K • 3h ago
+👁️ 894 • 👍 1K • 4h ago
 
 ---
 
@@ -270,7 +270,7 @@ Join Tom Lee for his groundbreaking keynote at the Ethereum Conference. Tom Lee,
 
 📺 SCP Realised
 
-👁️ 3K • 👍 659 • 1h ago
+👁️ 3K • 👍 659 • 2h ago
 
 ---
 
@@ -280,7 +280,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 118 • 💬 5 • ⏱️ 3:56 • 16h ago
+👁️ 2K • 👍 118 • 💬 5 • ⏱️ 3:56 • 17h ago
 
 ---
 
@@ -290,7 +290,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 202 • 👍 13 • 💬 1 • ⏱️ 5:16 • 9h ago
+👁️ 202 • 👍 13 • 💬 1 • ⏱️ 5:16 • 10h ago
 
 ---
 
@@ -308,7 +308,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 768 • 👍 75 • 💬 4 • ⏱️ 4:32 • 5h ago
+👁️ 768 • 👍 75 • 💬 4 • ⏱️ 4:32 • 6h ago
 
 ---
 
@@ -328,7 +328,7 @@ Speaker: John Woods ▪️ CEO at the Nillion Association #Nillion, #Ethereum, #
 
 📺 Synopsis Web3 Summit
 
-👁️ 1K • 💬 1 • ⏱️ 36:35 • 2h ago
+👁️ 1K • 💬 1 • ⏱️ 36:35 • 3h ago
 
 ---
 
