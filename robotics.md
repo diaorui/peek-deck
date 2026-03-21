@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-21T15:27:08.332597+00:00'
+updated: '2026-03-21T15:50:32.953417+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 21, 2026 at 15:27 UTC  
+**Last Updated:** March 21, 2026 at 15:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,12 +32,6 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[You eventually start to realize, no job is safe](https://www.reddit.com/r/robotics/comments/1rzftd8/you_eventually_start_to_realize_no_job_is_safe/)**
-
-13h ago
-
----
-
 **[Chinese robot hand tighten screws with insane precision (From ORCA Dexterity design)](https://www.reddit.com/r/robotics/comments/1rzr3bk/chinese_robot_hand_tighten_screws_with_insane/)**
 
 From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
@@ -46,11 +40,31 @@ From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
 ---
 
+**[You eventually start to realize, no job is safe](https://www.reddit.com/r/robotics/comments/1rzftd8/you_eventually_start_to_realize_no_job_is_safe/)**
+
+13h ago
+
+---
+
+**[Ringbot: A monocycle robot developed by the Robotics and Institute (RAI) that uses internal legs for balance and acrobatic maneuvers](https://www.reddit.com/r/robotics/comments/1rztuum/ringbot_a_monocycle_robot_developed_by_the/)**
+
+40m ago
+
+---
+
 **[Range of motion evaluation test for my homemade robotic hand & wrist](https://www.reddit.com/r/robotics/comments/1ryzwte/range_of_motion_evaluation_test_for_my_homemade/)**
 
 Showcasing the newest version (v20) of my hand & wrist combo! Same as the last version, it's a combination of direct- and tendon-driven actuation, still with 19 joints and 10 active DOFs. It has independent finger flexion, a 3-DOF thumb, linked finger splay, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist which measures joint position (at the motor output), current, and temperature. And all the movements were programmed with custom C#/C++ software. Improved from the last version, the base thumb joints were switched to direct drive and much beefier motors were swapped in for the wrist joints - improving strength and repeatability under heavier loads. Despite these new motors though, the form factor remains nearly identical to v19, spare a few millimeters of thickness and height. Some more minor changes: (1) ASA and carbon fiber filaments replaced basic PLA to improve rigidity and strength, (2) the power input was switched to an XT30 connector to accommodate the more power-hungry motors, and (3) better filtering and chips to reduce current and position signal noise. Still making incremental improvements here and there, but happy to answer any questions and hear your thoughts!
 
-23h ago
+1d ago
+
+---
+
+**[Test the Algorithm with RoboBaton viobot2, Has Anyone Used The Viobot2 For Other DIY work?](https://www.reddit.com/r/robotics/comments/1rztcci/test_the_algorithm_with_robobaton_viobot2_has/)**
+
+Testing the built-in 3D reconstruction algorithm of the Viobot2 — the result looks good. Has anyone used the Viobot2 for other DIY work? Can anyone share with me?
+
+1h ago
 
 ---
 
@@ -58,7 +72,7 @@ Showcasing the newest version (v20) of my hand & wrist combo! Same as the last v
 
 Don't be surprised if you meet humanoid robots on the streets of Beijing at midnight. They are training for their half-marathon! Over 20 teams joined the first trial run. The official race will be held on April 19.
 
-22h ago
+23h ago
 
 ---
 
@@ -90,21 +104,7 @@ From Physical Intelligence on 𝕏 (thread with multiple videos): https://x.com/
 
 Copper is an open-source robotics runtime in Rust for building deterministic, observable systems. Until now, it was very much geared toward production. With v0.14, we’re opening that system up to earlier-stage work as well. In robotics, you typically prototype quickly in Python, then rebuild the system to meet determinism, safety, and observability requirements. You can validate algorithms on real logs or simulation, inspect them in a running system, and iterate without rebuilding the surrounding infrastructure. When it’s time to move to Rust, only the task needs to change, and LLMs are quite effective at helping with that step. This release also also introduces: - composable monitoring, including a dedicated safety monitors - a new Webassembly target! After CPUs and MCUs targets, Copper can now fully run in a browser for shareable demos, check out the links in the article. - The ROS2 bridge is now bidirectional, helping the gradual migrations from ROS2 from both sides of the stack The focus is continuity from early experimentation to deployment. If you’re a Python roboticist looking for a smooth path into a Rust-based production system, come talk to us on Discord, we’re happy to help.
 
-🔗 [Copper Robotics](https://www.copper-robotics.com/whats-new/copper-rs-v014-from-prototype-to-production-without-changing-systems) • 23h ago
-
----
-
-**[The Robotics team from Wissahickon High School in Ambler, Pennsylvania built a robot Miss Daisy XXIV that picks up balls and shoots them into a container.](https://www.reddit.com/r/robotics/comments/1ry3haa/the_robotics_team_from_wissahickon_high_school_in/)**
-
-1d ago
-
----
-
-**[ROSCon Diversity Scholarship Applications are due this Sunday, March 22nd!](https://www.reddit.com/r/robotics/comments/1rza97r/roscon_diversity_scholarship_applications_are_due/)**
-
-Need financial help to attend ROSCon Global 2026 in Toronto?This Sunday, March 22nd, is the last day to apply to our diversity scholarship program! The application is quick and easy and covers all the expenses associated with traveling to ROSCon!
-
-🔗 [roscon.ros.org](https://roscon.ros.org/2026/#diversity-scholars) • 17h ago
+🔗 [Copper Robotics](https://www.copper-robotics.com/whats-new/copper-rs-v014-from-prototype-to-production-without-changing-systems) • 1d ago
 
 ---
 
@@ -128,11 +128,11 @@ The Information • 1d ago
 
 ---
 
-**[Amazon acquires robotic doorstep delivery provider RIVR](https://www.therobotreport.com/amazon-acquires-robotic-doorstep-delivery-provider-rivr/)**
+**[Amazon acquires autonomous robotics startup Rivr](https://www.engadget.com/big-tech/amazon-acquires-autonomous-robotics-startup-rivr-212839750.html)**
 
-With last-mile delivery company RIVR now at Amazon, could we soon see quadrupeds delivering our Amazon packages?
+Amazon has acquired Rivr, a startup focused on autonomous robotics that could further the tech giant's capabilities in package deliveries.
 
-The Robot Report • 1d ago
+Engadget • 1d ago
 
 ---
 
@@ -176,19 +176,19 @@ GeekWire • 1d ago
 
 ---
 
-**[Mark Cuban says the future of robotics isn't humanoids, but robots and homes that are co-designed](https://www.businessinsider.com/mark-cuban-humanoid-robotics-will-fail-robots-houses-codesigned-2026-3)**
-
-Mark Cuban said the push for humanoid robots will fail and that instead robots and spaces will be co-designed.
-
-Business Insider • 1d ago
-
----
-
 **[Twist Robotics Unveils Anti-Drone Version of Obriy Simulator](https://militarnyi.com/en/news/twist-robotics-anti-drone-obriy-simulator/)**
 
 The company Twist Robotics has unveiled an updated version of the Obriy Anti-Shahed simulator. The platform’s key focus is the ability to practice scenarios for intercepting long-range drones.Representatives of the […]
 
 Мілітарний • 23h ago
+
+---
+
+**[Mark Cuban says the future of robotics isn't humanoids, but robots and homes that are co-designed](https://www.businessinsider.com/mark-cuban-humanoid-robotics-will-fail-robots-houses-codesigned-2026-3)**
+
+Mark Cuban said the push for humanoid robots will fail and that instead robots and spaces will be co-designed.
+
+Business Insider • 1d ago
 
 ---
 

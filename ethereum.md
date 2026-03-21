@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-21T15:27:08.329285+00:00'
+updated: '2026-03-21T15:50:32.950173+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - social
-- cryptocurrency
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 15:27 UTC  
+**Last Updated:** March 21, 2026 at 15:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,155.61
+### $2,151.24
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** -0.8%  
-**30d:** +9.8%  
-**90d:** -28.2%  
-**1y:** +9.2%  
+**24h:** +0.7%  
+**7d:** -1.1%  
+**30d:** +9.4%  
+**90d:** -28.4%  
+**1y:** +8.8%  
 
 ---
 
@@ -88,7 +88,7 @@ Hey everyone, I’ve been working on a side project called Blockpeek and just sh
 
 I’m looking for a way to swap my Bitcoin to Ethereum without KYC, so obviously i found thorchain, but unfortunately it’s not available here in the U.S, and i heard it’s very expensive as well. Where should I do it you think? sorry if this question was already asked in past but i couldnt find an answer after bit lf time checking.
 
-17h ago
+18h ago
 
 ---
 
@@ -176,15 +176,7 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Whale investor buys $111 million worth of Ethereum one year after selling: onchain data](https://www.theblock.co/post/394263/whale-investor-buys-111-million-ethereum)**
-
-A whale trader has reportedly bought 50,706 ETH with 111.62 million USDT on Wednesday, after selling holdings a year earlier.
-
-The Block • 2d ago
-
----
-
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqeq_ttxg3A8dYCNzDQaDpAnLG_B1ccM53pMYsivfCNcNn7-rNVzwShF&gaa_ts=69beae86&gaa_sig=7NLIf3lGY-18UcMLrPmleGOrhhan8Z8eiWADhIa7t1QXOgbHInp-6r0XlDJYFFG2W1VnEc2CD0ir6SjIgYE9kw%3D%3D)**
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqcKc0mDkmjwZM1ZOwLx2_z8bbwblNMxdXcDKGMJUBI6jxWfX8ZGfqBn&gaa_ts=69bec1b7&gaa_sig=JF6tW7jE0aNMU04PuTWsZu5BNuDK1ylg_b2c6l5nzfaTshQl5JEFIeso48MJ9iSXmc7sOnOdmTeQqAwqWmnOFg%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -198,11 +190,19 @@ New York Post • 1d ago
 
 ---
 
-**[Ethereum Hits Rare MVRV Zone Linked To Past 130%+ Rallies](https://www.tradingview.com/news/newsbtc:8c273c694094b:0-ethereum-hits-rare-mvrv-zone-linked-to-past-130-rallies/)**
+**[Europe’s largest asset manager Amundi debuts $100 million tokenized fund on Ethereum, Stellar](https://www.theblock.co/post/394348/europes-largest-asset-manager-amundi-debuts-100-million-tokenized-fund-on-ethereum-stellar)**
 
-Ethereum has slipped into a valuation range that some on-chain analysts associate with major long-term bottoms, after ETH fell below its realized price for the first time in two years. Via X, renowned crypto analyst Ali Martinez argued on Thursday the setup now resembles prior cycle lows.Ethereum D…
+Amundi launched the $100 million Spiko Amundi Overnight Swap Fund on Ethereum and Stellar with Chainlink support.
 
-TradingView • 1d ago
+The Block • 2d ago
+
+---
+
+**[Ethereum Investor Druckenmiller Predicts Stablecoin-Led Payment Systems](https://www.tradingview.com/news/newsbtc:58bfcbd65094b:0-ethereum-investor-druckenmiller-predicts-stablecoin-led-payment-systems/)**
+
+Ethereum investor Stanley Druckenmiller has added his voice to the growing conversation around the future of digital finance, predicting that stablecoins could become the dominant force in global payment systems within the next few years. The veteran investor’s outlook reflects a broader shift amon…
+
+TradingView • 21h ago
 
 ---
 
@@ -240,7 +240,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 10K • 👍 426 • 💬 52 • ⏱️ 19:43 • 23h ago
+👁️ 10K • 👍 426 • 💬 52 • ⏱️ 19:43 • 1d ago
 
 ---
 
@@ -298,7 +298,7 @@ BITCOIN & ALTCOIN WARNING: Price Targets Exposed!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 7K • 👍 255 • 💬 120 • ⏱️ 16:50 • 20h ago
+👁️ 7K • 👍 255 • 💬 120 • ⏱️ 16:50 • 21h ago
 
 ---
 
@@ -308,7 +308,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 My Channel
 
-👁️ 4K • 👍 1K • 1h ago
+👁️ 4K • 👍 1K • 2h ago
 
 ---
 
@@ -318,7 +318,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 11K • 👍 4K • 💬 30 • ⏱️ 1:41:53 • 1h ago
+👁️ 11K • 👍 4K • 💬 30 • ⏱️ 1:41:53 • 2h ago
 
 ---
 
