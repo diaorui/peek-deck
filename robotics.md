@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-21T23:27:03.723433+00:00'
+updated: '2026-03-21T23:49:26.158408+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 21, 2026 at 23:27 UTC  
+**Last Updated:** March 21, 2026 at 23:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
 We’re running a pretty heavy autonomous stack on a single edge computer (ROS 2 Jazzy) — multiple high-res cameras, dense LiDARs, and radars all on one machine. We’re starting to hit serious compute + latency limits, especially with intra-process communication and recording. Right now we’re evaluating: Fast DDS Cyclone DDS Zenoh Iceoryx Also, as soon as we start recording with rosbag2, CPU usage spikes hard and we get frame drops across the system. Two questions for folks who’ve pushed ROS 2 hard on a single machine: For high-bandwidth intra-host comms on Jazzy, which RMW has actually given you the best real-world performance? How are you dealing with the rosbag2 overhead? Composable recorder node? Separate process? Or bypassing ROS entirely and logging raw sensor data? For context: we previously ran Humble + CycloneDDS + MCAP and saw similar bottlenecks. Curious what setups are working well in practice.
 
-2h ago
+3h ago
 
 ---
 
@@ -64,7 +64,15 @@ We’re running a pretty heavy autonomous stack on a single edge computer (ROS 2
 
 Testing the built-in 3D reconstruction algorithm of the Viobot2 — the result looks good. Has anyone used the Viobot2 for other DIY work? Can anyone share with me?
 
-8h ago
+9h ago
+
+---
+
+**[Are there any cable driven 2 DOF mechanisms like this?](https://www.reddit.com/r/robotics/comments/1s02cv0/are_there_any_cable_driven_2_dof_mechanisms_like/)**
+
+I want to make an aim-able phone holder with servos/steppers tucked in the base… and I don’t want to reinvent the wheel. Are there any references of this design? (Like a Simpson 3d printer, but simpler and for robot arms)
+
+3h ago
 
 ---
 
@@ -73,6 +81,14 @@ Testing the built-in 3D reconstruction algorithm of the Viobot2 — the result l
 It's one of the sample tasks I'm planning to demonstrate to the guests of my upcoming conference. ( 120 characters limit bypass )
 
 10h ago
+
+---
+
+**[Want to build a humanoid robot for fun — looked into InMoov but intimidated by the hardware assembly. Any advice?](https://www.reddit.com/r/robotics/comments/1s03nk2/want_to_build_a_humanoid_robot_for_fun_looked/)**
+
+Hey, I want to build a humanoid robot as a personal project — not necessarily life sized, maybe scaled down a bit. I came across InMoov and it looks amazing but I'm a bit intimidated by the non-printed hardware requirements like springs, metal rods, drilling into parts etc. I'm comfortable with electronics and embedded systems (Arduino/ESP32, servos, sensors) so that side doesn't scare me. It's more the mechanical assembly and sourcing all the non-printed hardware that feels overwhelming. Has anyone: Built InMoov and found ways to simplify the mechanical assembly? Found a good detailed step by step tutorial that makes it less intimidating? Found cheaper alternatives to the hardware components it needs? Built a simplified or scaled down version? Not looking for a perfect robot, just something that works and that I can build on over time. Any advice or experience would really help. Thanks
+
+2h ago
 
 ---
 
@@ -92,31 +108,9 @@ Don't be surprised if you meet humanoid robots on the streets of Beijing at midn
 
 ---
 
-**[FINDING THE RIGHT METAPHOR (Edited)](https://www.reddit.com/r/robotics/comments/1s040cn/finding_the_right_metaphor_edited/)**
-
-1h ago
-
----
-
-**[Want to build a humanoid robot for fun — looked into InMoov but intimidated by the hardware assembly. Any advice?](https://www.reddit.com/r/robotics/comments/1s03nk2/want_to_build_a_humanoid_robot_for_fun_looked/)**
-
-Hey, I want to build a humanoid robot as a personal project — not necessarily life sized, maybe scaled down a bit. I came across InMoov and it looks amazing but I'm a bit intimidated by the non-printed hardware requirements like springs, metal rods, drilling into parts etc. I'm comfortable with electronics and embedded systems (Arduino/ESP32, servos, sensors) so that side doesn't scare me. It's more the mechanical assembly and sourcing all the non-printed hardware that feels overwhelming. Has anyone: Built InMoov and found ways to simplify the mechanical assembly? Found a good detailed step by step tutorial that makes it less intimidating? Found cheaper alternatives to the hardware components it needs? Built a simplified or scaled down version? Not looking for a perfect robot, just something that works and that I can build on over time. Any advice or experience would really help. Thanks
-
-1h ago
-
----
-
 ---
 
 ## Google News: "robotics"
-
-**[Mark Cuban says the future of robotics isn't humanoids, but robots and homes that are co-designed](https://www.businessinsider.com/mark-cuban-humanoid-robotics-will-fail-robots-houses-codesigned-2026-3)**
-
-Mark Cuban said the push for humanoid robots will fail and that instead robots and spaces will be co-designed.
-
-Business Insider • 1d ago
-
----
 
 **[Inside China’s robotics revolution](https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution)**
 
@@ -126,11 +120,27 @@ The Guardian • 2d ago
 
 ---
 
-**[FIRST robotics competition draws dozens of teams to Hofstra](https://www.newsday.com/long-island/education/robotics-first-hofstra-gvc1vvx2)**
+**[Robotics giant plans massive $90M plant in metro Detroit, 225 jobs](https://www.crainsdetroit.com/manufacturing-logistics/cdb-fanuc-robots-investment-michigan-20260319/)**
 
-"It's a friendly competition, or it tries to be," an official said of the two-day event hosted by the nonprofit FIRST.
+Japanese manufacturer Fanuc is plotting a large expansion in Michigan in response to demand from automakers and other customers.
 
-Newsday • 1h ago
+Crain's Detroit • 1d ago
+
+---
+
+**[Video Friday: Humanoid Learns Tennis Skills Playing Humans](https://spectrum.ieee.org/tennis-playing-robot)**
+
+This humanoid robot is learning tennis the same way I did—by playing. Plus a robot horse for the Year of the Fire Horse in this week's robot videos.
+
+IEEE Spectrum • 6h ago
+
+---
+
+**[AI-evolved adaptable robot is almost impossible to destroy](https://newatlas.com/robotics/ai-evolved-indestructible-robot/)**
+
+It took nature millions of years to create intelligent, adaptive species. Researchers at Northwestern University in Illinois are using AI to evolve robots in minutes. The result is a robot that is agile, highly adaptive, and technically indestructible.
+
+New Atlas • 11h ago
 
 ---
 
@@ -158,27 +168,19 @@ Engadget • 2d ago
 
 ---
 
-**[AI-evolved adaptable robot is almost impossible to destroy](https://newatlas.com/robotics/ai-evolved-indestructible-robot/)**
+**[FIRST robotics competition draws dozens of teams to Hofstra](https://www.newsday.com/long-island/education/robotics-first-hofstra-gvc1vvx2)**
 
-It took nature millions of years to create intelligent, adaptive species. Researchers at Northwestern University in Illinois are using AI to evolve robots in minutes. The result is a robot that is agile, highly adaptive, and technically indestructible.
+"It's a friendly competition, or it tries to be," an official said of the two-day event hosted by the nonprofit FIRST.
 
-New Atlas • 11h ago
-
----
-
-**[Robotics giant plans massive $90M plant in metro Detroit, 225 jobs](https://www.crainsdetroit.com/manufacturing-logistics/cdb-fanuc-robots-investment-michigan-20260319/)**
-
-Japanese manufacturer Fanuc is plotting a large expansion in Michigan in response to demand from automakers and other customers.
-
-Crain's Detroit • 1d ago
+Newsday • 1h ago
 
 ---
 
-**[Tech Moves: Carbon Robotics’ new CFO; Microsoft gaming GM goes to Netflix; Nordstrom gets VP of AI](https://www.geekwire.com/2026/tech-moves-carbon-robotics-new-cfo-microsoft-gaming-gm-goes-to-netflix-nordstrom-gets-vp-of-ai/)**
+**[Qualcomm Stockholders Back Board, Equity Plan; CEO Amon Highlights AI, Robotics and Data Center Push](https://finance.yahoo.com/markets/stocks/articles/qualcomm-stockholders-back-board-equity-230305751.html)**
 
-Carbon Robotics names a CFO; Nordstrom gets a VP of AI; and a Microsoft gaming GM goes to Netflix while one of its longtime legal leaders retires.
+Qualcomm (NASDAQ:QCOM) held its 2026 annual meeting of stockholders on Thursday, with Chair Mark McLaughlin opening the session by introducing board nominees and members of the executive team, including President and CEO Cristiano Amon and CFO/COO Akash Palkhiwala. McLaughlin also recognized two dep
 
-GeekWire • 1d ago
+Yahoo Finance • 46m ago
 
 ---
 

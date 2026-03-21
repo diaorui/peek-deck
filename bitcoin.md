@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-21T23:27:03.714141+00:00'
+updated: '2026-03-21T23:49:26.149286+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
+- cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 23:27 UTC  
+**Last Updated:** March 21, 2026 at 23:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,327.16
+### $70,000.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -3.4%  
-**30d:** +3.3%  
-**90d:** -20.4%  
-**1y:** -16.2%  
+**24h:** -1.5%  
+**7d:** -4.2%  
+**30d:** +2.4%  
+**90d:** -21.1%  
+**1y:** -16.9%  
 
 ---
 
@@ -77,14 +77,6 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Have you seen it? The scientist said that BTC will reach $350K ~ $700K without FOMO between mid 2027 ~ end 2028.](https://www.reddit.com/r/Bitcoin/comments/1rzo7jq/have_you_seen_it_the_scientist_said_that_btc_will/)**
-
-Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perrenod
-
-12h ago
-
----
-
 **[There won't be a second date but at least she knows about the Blocksize War and how the Lightning Network works](https://www.reddit.com/r/Bitcoin/comments/1s012lr/there_wont_be_a_second_date_but_at_least_she/)**
 
 An excellent book about all the details, even people who fought the Blocksize war might have missed: https://www.youtube.com/watch?v=6YtS5ZNuuTw And excellent explanation of r/thelightningnetwork: https://www.youtube.com/watch?v=yKdK-7AtAMQ A bonus video. Lyn Alden's Full Broken Money Thesis in under 50min: https://www.youtube.com/watch?v=k3NN_NZOdhY
@@ -93,23 +85,31 @@ An excellent book about all the details, even people who fought the Blocksize wa
 
 ---
 
+**[Morgan Stanley's Bitcoin ETF To Trade As 'MSBT' On NYSE. Likely to funnel more capital into BTC than all other Bitcoin ETF's combined.](https://www.reddit.com/r/Bitcoin/comments/1s04ah4/morgan_stanleys_bitcoin_etf_to_trade_as_msbt_on/)**
+
+Morgan Stanley allows clients to allocate between 0-4% of their portfolioa to bitcoin. Even a modest 2% could add $160 Billion dollars in capital to the BTC market.
+
+🔗 [Bitcoin Magazine](https://share.google/eNr25Ee6vq1fB2Lv1) • 1h ago
+
+---
+
 **[RIP Legend](https://www.reddit.com/r/Bitcoin/comments/1rzh2xj/rip_legend/)**
 
-19h ago
+20h ago
+
+---
+
+**[Have you seen it? The scientist said that BTC will reach $350K ~ $700K without FOMO between mid 2027 ~ end 2028.](https://www.reddit.com/r/Bitcoin/comments/1rzo7jq/have_you_seen_it_the_scientist_said_that_btc_will/)**
+
+Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perrenod
+
+13h ago
 
 ---
 
 **[Lightning Network might be already moving over $15B/year based on most recent data](https://www.reddit.com/r/Bitcoin/comments/1rztn0r/lightning_network_might_be_already_moving_over/)**
 
 🔗 [X (formerly Twitter)](https://x.com/LightningNewsX/status/2035261125630001359?s=20) • 8h ago
-
----
-
-**[Morgan Stanley's Bitcoin ETF To Trade As 'MSBT' On NYSE. Likely to funnel more capital into BTC than all other Bitcoin ETF's combined.](https://www.reddit.com/r/Bitcoin/comments/1s04ah4/morgan_stanleys_bitcoin_etf_to_trade_as_msbt_on/)**
-
-Morgan Stanley allows clients to allocate between 0-4% of their portfolioa to bitcoin. Even a modest 2% could add $160 Billion dollars in capital to the BTC market.
-
-🔗 [Bitcoin Magazine](https://share.google/eNr25Ee6vq1fB2Lv1) • 1h ago
 
 ---
 
@@ -129,14 +129,6 @@ Holder since 2015. Never soldi. Slowly accumulating. Sometimes daily trading (wi
 
 ---
 
-**[What Is Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1rzwqrg/what_is_bitcoin/)**
-
-Bitcoin and cryptocurrency explained in a way that's fun and easy to understand.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=Jk7hYothBZw&t=2s) • 6h ago
-
----
-
 **[FAFO Bitcoin investor here](https://www.reddit.com/r/Bitcoin/comments/1rzzwwb/fafo_bitcoin_investor_here/)**
 
 hi, just checking in to say hi I am generally a conservative broad index ETF investor for most of my savings but jn recent years have also been buying bitcoin and and now hold 1,1 BTC. I am torn between contirnuing to buy a bit every month or stopping altogether having achieve wholecoinership. I would be interested to know how other stackers approach this
@@ -145,11 +137,19 @@ hi, just checking in to say hi I am generally a conservative broad index ETF inv
 
 ---
 
-**[Bitcoin stuck, it needs your help!](https://www.reddit.com/r/Bitcoin/comments/1rzindb/bitcoin_stuck_it_needs_your_help/)**
+**[What Is Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1rzwqrg/what_is_bitcoin/)**
 
-Please someone just buy or sell already so the price moves!
+Bitcoin and cryptocurrency explained in a way that's fun and easy to understand.
 
-18h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=Jk7hYothBZw&t=2s) • 6h ago
+
+---
+
+**[Cost to mine](https://www.reddit.com/r/Bitcoin/comments/1rzps0g/cost_to_mine/)**
+
+any insight on the approximate cost to mine 1 bitcoin? I appreciate it varies by miner but average and bands would be helpful any credible charts out there of bitcoin price relative to cost to mine?
+
+11h ago
 
 ---
 
@@ -157,27 +157,19 @@ Please someone just buy or sell already so the price moves!
 
 ## Google News: "bitcoin"
 
-**[From $13,700 to $148 million: Bitcoin whale moves 2,100 BTC untouched for over 13 years](https://www.theblock.co/post/394488/from-13700-to-148-million-bitcoin-whale-moves-2100-btc-untouched-for-over-13-years)**
-
-The bitcoin address initially received the 2,100 BTC on July 4, 2012, when that amount was worth just $13,685.
-
-The Block • 1d ago
-
----
-
-**[Bitcoin’s price action looks dangerously similar to the pattern that sent it crashing to $60,000](https://www.coindesk.com/markets/2026/03/20/bitcoin-s-price-action-looks-dangerously-similar-to-the-pattern-that-sent-it-crashing-to-usd60-000)**
-
-The recent price action echoes the November–January pattern, showing weak conviction among the “buy the dip” crowd.
-
-CoinDesk • 1d ago
-
----
-
 **[Bitcoin options signal extreme fear as downside protection premium hits new all-time high, says VanEck](https://www.coindesk.com/markets/2026/03/21/bitcoin-options-signal-extreme-fear-as-downside-protection-premium-hits-new-all-time-high-says-vaneck)**
 
 Despite stabilizing spot prices, investors remain defensive, with leveraged speculation cooling and realized volatility dropping from 80 to 50, suggesting a cautious market sentiment.
 
 CoinDesk • 4h ago
+
+---
+
+**[From $13,700 to $148 million: Bitcoin whale moves 2,100 BTC untouched for over 13 years](https://www.theblock.co/post/394488/from-13700-to-148-million-bitcoin-whale-moves-2100-btc-untouched-for-over-13-years)**
+
+The bitcoin address initially received the 2,100 BTC on July 4, 2012, when that amount was worth just $13,685.
+
+The Block • 1d ago
 
 ---
 
@@ -189,6 +181,12 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Bitcoin Falls Below $70,000. It’s Not Just the Fed Decision Dragging on the Crypto, XRP.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-fed-powell-oil-033bcaee?gaa_at=eafs&gaa_n=AWEtsqcNWarbJHx7XG1QBqoCOqnKpLfCw6nwiID56dKpZMVyXwPqek6O_90Y&gaa_ts=69bf31f5&gaa_sig=YyXRoAwX4TKztkWFWn-ZivyMVAyUShRyauJXcqJzi7lgRzg0dUQEbRAekQEGTgpY-O1J7RKjOKvYn9bcO2kgNA%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
 **[Retail investors aren’t crazy for Farage and Kwarteng’s bitcoin business](https://www.ft.com/content/f9849a1a-7d8a-4806-babd-b32c4d3105c5)**
 
 Unpopular
@@ -197,9 +195,17 @@ Financial Times • 1d ago
 
 ---
 
-**[Bitcoin Falls Below $70,000. It’s Not Just the Fed Decision Dragging on the Crypto, XRP.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-fed-powell-oil-033bcaee?gaa_at=eafs&gaa_n=AWEtsqet6nR9D0zB4qW3Cx_w4sJcx1kKt7tau2IZf-htMnvEdPW6N4ZEEU0j&gaa_ts=69bf1eac&gaa_sig=LXdWZ7fxcnzu5nfqnWAvYaIwfM86sFMK_YeFAR7vxG3n7w8WzNzAP3syLwrAz7p52vcYSyR16aAKvxWFO_kB8A%3D%3D)**
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1774131900)**
 
-Barron's • 2d ago
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 1h ago
+
+---
+
+**[White House Quietly Confirms A ‘Major’ Crypto Milestone As Bitcoin Braces For A Huge Price Earthquake](https://www.forbes.com/sites/digital-assets/2026/03/21/white-house-quietly-confirms-a-major-crypto-milestone-as-bitcoin-braces-for-a-huge-price-earthquake/)**
+
+Forbes • 11h ago
 
 ---
 
@@ -211,17 +217,9 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[White House Quietly Confirms A ‘Major’ Crypto Milestone As Bitcoin Braces For A Huge Price Earthquake](https://www.forbes.com/sites/digital-assets/2026/03/21/white-house-quietly-confirms-a-major-crypto-milestone-as-bitcoin-braces-for-a-huge-price-earthquake/)**
+**[Bitcoin Whale Strategy Defies Gravity When It Issues Stock. Is It Just Good Timing?](https://www.investors.com/news/mstr-stock-strategy-defies-gravity-stock-issuance-bitcoin/)**
 
-Forbes • 11h ago
-
----
-
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1774128000)**
-
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 2h ago
+Investor's Business Daily • 1d ago
 
 ---
 
@@ -297,7 +295,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 An event loop for asyncio written in Rust. Contribute to RustedBytes/rsloop development by creating an account on GitHub.
 
-⬆️ 2 • 💬 0 • 1h ago • [GitHub](https://github.com/RustedBytes/rsloop)
+⬆️ 3 • 💬 0 • 1h ago • [GitHub](https://github.com/RustedBytes/rsloop)
 
 ---
 
@@ -341,7 +339,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 7K • 👍 397 • 💬 253 • ⏱️ 8:34 • 23h ago
+👁️ 7K • 👍 397 • 💬 253 • ⏱️ 8:34 • 1d ago
 
 ---
 
@@ -401,7 +399,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 My Channel
 
-👁️ 6K • 👍 1K • 9h ago
+👁️ 6K • 👍 1K • 10h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-21T23:27:03.705313+00:00'
+updated: '2026-03-21T23:49:26.140726+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - social
+- repositories
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 21, 2026 at 23:27 UTC  
+**Last Updated:** March 21, 2026 at 23:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -71,7 +71,7 @@ SysSignal is for people who follow AI + data center infrastructure. It aggregate
 
 **[Nvidia "confirms" DLSS 5 relies on 2D frame data as testing reveals hallucinations](https://www.reddit.com/r/artificial/comments/1rzjgdh/nvidia_confirms_dlss_5_relies_on_2d_frame_data_as/)**
 
-🔗 [techspot.com](https://www.techspot.com/news/111770-nvidia-confirms-dlss-5-relies-2d-frame-data.html) • 17h ago
+🔗 [techspot.com](https://www.techspot.com/news/111770-nvidia-confirms-dlss-5-relies-2d-frame-data.html) • 18h ago
 
 ---
 
@@ -97,19 +97,19 @@ Wheelchair users with severe disabilities can often navigate tight spaces better
 
 ---
 
-**[AI tool shows promise in diagnosing advanced heart failure](https://www.reddit.com/r/artificial/comments/1rzdkwl/ai_tool_shows_promise_in_diagnosing_advanced/)**
-
-"Applying artificial intelligence techniques to cardiac ultrasound data may make it easier to identify patients with advanced heart failure, a new study has found. The study [...] offers the prospect of better care for many thousands of patients who may be overlooked due to the difficulty of diagnosing their condition. Advanced heart failure is currently detected through cardiopulmonary exercise testing (CPET), which requires specialized equipment and trained staff and is typically only available at large medical centers. Due in part to this diagnostic bottleneck, only a few of the estimated 200,000 people in the United States with advanced heart failure get appropriate care each year. In the new study [...] the researchers tested a novel AI-powered method that may remove this bottleneck. The new method predicts with high accuracy the most important CPET measure, peak oxygen consumption (peak VO2), using much more easily obtainable ultrasound images of the patient's heart plus the patient's electronic health records. "This opens up a promising pathway for more efficient assessment of patients with advanced heart failure using data sources that are already embedded in routine care," said study senior author Dr. Fei Wang, the associate dean for AI and data science and the Frances and John L. Loeb Professor of Medical Informatics at Weill Cornell Medicine."
-
-🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-tool-advanced-heart-failure.html) • 22h ago
-
----
-
 **[New AI model predicts record high dipole moments in unexpected molecules](https://www.reddit.com/r/artificial/comments/1rzdcpp/new_ai_model_predicts_record_high_dipole_moments/)**
 
 Chemists may soon have one less rigorous step to worry about when searching for the right molecules to accomplish their highly specific innovation needs. Scientists have now built a new machine learning model that can predict the electric dipole moments of diatomic molecules within seconds using nothing more than the atomic properties of the atoms involved. Dipole moment is the measure of charge separation between the positive and negative ions in a molecule. It is an intrinsic property of the system. In other words, it is a fingerprint of a molecule. It determines the electrical polarity of the molecule, which in turn shapes key properties like boiling point, solubility, thermal conduction, and how molecules interact with each other. Understanding it is therefore essential—not just for grasping the fundamentals of chemical bonding, but also for advancing real-world applications in physics and chemistry. The new AI model, powered by Gaussian Process Regression (GPR), scanned over 4,800 diatomic molecules to predict their dipole moments with high accuracy within seconds. The results highlighted top candidates ranging from heavy, salt-like molecules such as cesium iodide (CsI) and francium iodide (FrI) to more unexpected combinations like gold–cesium (AuCs).
 
-🔗 [phys.org](https://phys.org/news/2026-03-ai-high-dipole-moments-unexpected.html) • 22h ago
+🔗 [phys.org](https://phys.org/news/2026-03-ai-high-dipole-moments-unexpected.html) • 23h ago
+
+---
+
+**[AI tool shows promise in diagnosing advanced heart failure](https://www.reddit.com/r/artificial/comments/1rzdkwl/ai_tool_shows_promise_in_diagnosing_advanced/)**
+
+"Applying artificial intelligence techniques to cardiac ultrasound data may make it easier to identify patients with advanced heart failure, a new study has found. The study [...] offers the prospect of better care for many thousands of patients who may be overlooked due to the difficulty of diagnosing their condition. Advanced heart failure is currently detected through cardiopulmonary exercise testing (CPET), which requires specialized equipment and trained staff and is typically only available at large medical centers. Due in part to this diagnostic bottleneck, only a few of the estimated 200,000 people in the United States with advanced heart failure get appropriate care each year. In the new study [...] the researchers tested a novel AI-powered method that may remove this bottleneck. The new method predicts with high accuracy the most important CPET measure, peak oxygen consumption (peak VO2), using much more easily obtainable ultrasound images of the patient's heart plus the patient's electronic health records. "This opens up a promising pathway for more efficient assessment of patients with advanced heart failure using data sources that are already embedded in routine care," said study senior author Dr. Fei Wang, the associate dean for AI and data science and the Frances and John L. Loeb Professor of Medical Informatics at Weill Cornell Medicine."
+
+🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-tool-advanced-heart-failure.html) • 23h ago
 
 ---
 
@@ -125,25 +125,11 @@ CNBC • 11h ago
 
 ---
 
-**[Nvidia's Huang pitches AI tokens on top of salary as agents reshape how humans work](https://www.cnbc.com/2026/03/20/nvidia-ai-agents-tokens-human-workers-engineer-jobs-unemployment-jensen-huang.html)**
+**[Thousands of people are selling their identities to train AI – but at what cost?](https://www.theguardian.com/technology/2026/mar/21/ai-trainers-identity-cost)**
 
-Most enterprise AI projects have failed since 2018, a sobering track record for an industry awash in enthusiasm.
+Gig AI trainers worldwide are selling moments of their lives, including calls and texts, to AI companies for quick cash
 
-CNBC • 1d ago
-
----
-
-**[Nvidia CEO predicts millions of AI agents will work alongside 75,000 employees in the not so distant future](https://supercarblondie.com/tech/nvidia-ceo-predicts-millions-ai-agents-will-work-alongside-employees/)**
-
-If Nvidia CEO Jensen Huang is right, the next step for AI in the workplace is to become part of the employed workforce - alongside human coworkers
-
-supercarblondie.com • 4h ago
-
----
-
-**[Exclusive: Pentagon to adopt Palantir AI as core US military system, memo says](https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/)**
-
-Reuters • 23h ago
+The Guardian • 2h ago
 
 ---
 
@@ -155,9 +141,17 @@ Fortune • 14h ago
 
 ---
 
-**[The Trillion Dollar Race to Automate Our Entire Lives](https://www.wsj.com/tech/ai/claude-code-cursor-codex-vibe-coding-52750531?gaa_at=eafs&gaa_n=AWEtsqfSLmZFhnRHMy3L-oXEm8WMSdeQ43gRoIEZ0-63nFW_vV8XGE297T2_&gaa_ts=69bf1eaa&gaa_sig=M8mVCiJUiUL5SIQIBwgK8yyfhdt3f9dX9t6KI2RPPGl4rIkHn4f62T94vDB6W6_NVHMpy5kFQuGet9_wkgDF7g%3D%3D)**
+**[Where Is Mojtaba Khamenei? Iran Fills the Gap With AI and Voice-Overs](https://www.wsj.com/world/middle-east/where-is-mojtaba-khamenei-iran-fills-the-gap-with-ai-and-voice-overs-912b3827?gaa_at=eafs&gaa_n=AWEtsqclAUcRP_x0a9FI9aVtoQ896W56qcNB9Cwp4Y_6UnCFgjEZpliIDINk&gaa_ts=69bf31f4&gaa_sig=LTi5B6WGYZN2l29nA_ujQZMEEKi8dC6R26AwJ0wxBbhF9G_e5s9qJdlqRITknHQxy1l8G5EaiPW5Jxz33KVNiw%3D%3D)**
 
-WSJ • 20h ago
+WSJ • 8h ago
+
+---
+
+**[Pentagon to adopt Palantir AI as core US military system, memo says](https://finance.yahoo.com/sectors/technology/articles/exclusive-pentagon-adopt-palantir-ai-232821913.html)**
+
+Palantir’s Maven artificial intelligence system will become an official program of record, Deputy Secretary of Defense Steve Feinberg said in a letter to Pentagon leaders, a move that locks in long-term use of Palantir’s weapons-targeting ‌technology across the U.S. military.  In the March 9 letter to senior Pentagon leaders and U.S. military commanders, Feinberg said embedding Palantir’s Maven ‌Smart System would provide warfighters “with the latest tools necessary to detect, deter, and dominate our adversaries in all domains”.
+
+Yahoo Finance • 11h ago
 
 ---
 
@@ -175,9 +169,11 @@ BBC • 1d ago
 
 ---
 
-**[‘Femgore’ horror novel pulled over claims it was written by AI](https://www.thetimes.com/culture/books/article/hachette-femgore-horror-novel-mia-ballard-shy-girl-ai-vnmk7cqp6?gaa_at=eafs&gaa_n=AWEtsqfJvhFUQDkg6eHEeTy64UI6BMd0gFRxKFY4w9vz0aSxgjVuLqeQH4Wr&gaa_ts=69bf1eaa&gaa_sig=OtWiyZY1NFrBYq62weZa02kbEFdpWQBvUBTMDqe5K73kxDh9V4Q28l4c5cL7k_3NhhcSTWpQagXOzum3JIsUZw%3D%3D)**
+**[Publisher pulls horror novel ‘Shy Girl’ over AI concerns](https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/)**
 
-The Times • 1d ago
+Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.
+
+TechCrunch • 4h ago
 
 ---
 
@@ -189,6 +185,14 @@ Fox Business • 1d ago
 
 ---
 
+**[How Pokémon Go players helped train AI delivery robots](https://www.cnn.com/2026/03/21/business/video/pokemon-go-players-helped-train-ai-robots-digvid-vrtc)**
+
+Pokémon Go creator Niantic Spatial reportedly used 30 billion images crowdsourced from players to build a map that will train delivery robots in a new AI venture.
+
+CNN • 18h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -197,7 +201,7 @@ Fox Business • 1d ago
 
 OpenCode - The open source coding agent.
 
-⬆️ 1179 • 💬 578 • 1d ago • [opencode.ai](https://opencode.ai/)
+⬆️ 1186 • 💬 583 • 1d ago • [opencode.ai](https://opencode.ai/)
 
 ---
 
@@ -213,7 +217,13 @@ As the Charles de Gaulle and its strike group approach the Middle East, Le Monde
 
 Imagine a newspaper publisher announcing it will no longer allow libraries to keep copies of its paper. That’s effectively what’s begun happening online in the last few months. The Internet Archive—the world’s largest digital library—has preserved newspapers since it went online in the mid-1990s....
 
-⬆️ 463 • 💬 131 • 15h ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
+⬆️ 480 • 💬 137 • 16h ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
+
+---
+
+**[Tinybox- offline AI device 120B parameters](https://news.ycombinator.com/item?id=47470773)**
+
+⬆️ 241 • 💬 131 • 3h ago • [tinygrad.org](https://tinygrad.org/#tinybox)
 
 ---
 
@@ -225,17 +235,19 @@ Last December, tens of thousands of Claude users around the world had a conversa
 
 ---
 
-**[Tinybox- offline AI device 120B parameters](https://news.ycombinator.com/item?id=47470773)**
-
-⬆️ 171 • 💬 100 • 3h ago • [tinygrad.org](https://tinygrad.org/#tinybox)
-
----
-
 **[A rogue AI led to a serious security incident at Meta](https://news.ycombinator.com/item?id=47444195)**
 
 An AI agent tried to help, and its advice exposed sensitive data.
 
 ⬆️ 169 • 💬 141 • 2d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
+
+---
+
+**[MacBook M5 Pro and Qwen3.5 = Local AI Security System](https://news.ycombinator.com/item?id=47457107)**
+
+Qwen3.5-9B scores 93.8% on 96 real security AI tests — within 4 points of GPT-5.4 — running entirely on Apple Silicon. Full benchmark results and methodology.
+
+⬆️ 168 • 💬 150 • 1d ago • [sharpai.org](https://www.sharpai.org/benchmark/)
 
 ---
 
@@ -245,11 +257,9 @@ An AI agent tried to help, and its advice exposed sensitive data.
 
 ---
 
-**[MacBook M5 Pro and Qwen3.5 = Local AI Security System](https://news.ycombinator.com/item?id=47457107)**
+**[Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning](https://news.ycombinator.com/item?id=47467913)**
 
-Qwen3.5-9B scores 93.8% on 96 real security AI tests — within 4 points of GPT-5.4 — running entirely on Apple Silicon. Full benchmark results and methodology.
-
-⬆️ 167 • 💬 150 • 1d ago • [sharpai.org](https://www.sharpai.org/benchmark/)
+⬆️ 83 • 💬 48 • 8h ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
 
 ---
 
@@ -262,15 +272,7 @@ Much faster and better search with the daemon
 
 The daemon has existed for a long time, and has been marked as "experimental" for
 
-⬆️ 81 • 💬 73 • 12h ago • [The Atuin Blog](https://blog.atuin.sh/atuin-v18-13/)
-
----
-
-**[Senior European journalist suspended over AI-generated quotes](https://news.ycombinator.com/item?id=47467566)**
-
-Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of hallucinations’, after investigation by newspaper where he was once editor-in-chief
-
-⬆️ 81 • 💬 67 • 8h ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes)
+⬆️ 82 • 💬 73 • 13h ago • [The Atuin Blog](https://blog.atuin.sh/atuin-v18-13/)
 
 ---
 
@@ -284,7 +286,7 @@ The AI boom has rocketed the stock prices of Nvidia, Amazon, Apple, Tesla, Micro
 
 📺 New Money
 
-👁️ 33K • 👍 1K • 💬 159 • ⏱️ 15:50 • 10h ago
+👁️ 33K • 👍 1K • 💬 159 • ⏱️ 15:50 • 11h ago
 
 ---
 
@@ -655,7 +657,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 21.9k • 🔱 1.0k • 13h ago
+⭐ 21.9k • 🔱 1.0k • 14h ago
 
 ---
 
@@ -665,7 +667,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.9k • 🔱 1.6k • 19h ago
+⭐ 12.9k • 🔱 1.6k • 20h ago
 
 ---
 

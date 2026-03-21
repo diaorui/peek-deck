@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-21T23:27:03.720173+00:00'
+updated: '2026-03-21T23:49:26.155247+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
+- cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 23:27 UTC  
+**Last Updated:** March 21, 2026 at 23:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** -1.2%  
-**30d:** +9.3%  
-**90d:** -28.5%  
-**1y:** +8.6%  
+**24h:** -1.1%  
+**7d:** -2.3%  
+**30d:** +8.1%  
+**90d:** -29.2%  
+**1y:** +7.5%  
 
 ---
 
@@ -152,6 +152,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Bitcoin At $73,000, Ethereum, XRP, Dogecoin Stall Ahead Of Powell Press Conference](https://www.benzinga.com/crypto/cryptocurrency/26/03/51320643/bitcoin-at-73000-ethereum-xrp-dogecoin-stall-ahead-of-powell-press-conference)**
+
+Bitcoin continues to trade around $73,000, following $199.4 million in net ETF inflows on Tuesday, while Ethereum ETFs reported $138.25 million in net inflows.
+
+Benzinga • 3d ago
+
+---
+
 **[Current price of Ethereum for March 20, 2026](https://fortune.com/article/price-of-ethereum-03-20-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
@@ -168,7 +176,7 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqeA61HCQaZKMESCEcwTMDF9-Cu6cVdSdZWiH2uh6EojmqZUM0xcGwF8&gaa_ts=69bf1ead&gaa_sig=Fr63FgxSflWzKZaigoNMxkiqBDCWaS1g2SKPW_SrJNQ2CINg4DBw15pWeX_jvUktKbjSp6LOo665Xw_bERyqQw%3D%3D)**
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqdPQ8mK-U_U0AaiACXWwpGoeKCmtGs71eEN6kBvd6W4KLCokbEC0-j3&gaa_ts=69bf31f7&gaa_sig=XVjUaOS8uDc_6ftggFGjeY1cbyPpfr3uGAZdw-gunp_JaLGzdCHS92xOctuuHHTV56gyeLLUd8g_Oid4_hb3NA%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -222,14 +230,6 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1774092900)**
-
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 11h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -250,7 +250,7 @@ BITCOIN PRICE HISTORY REPEATING (Get Ready)!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 646 • 👍 52 • 💬 6 • ⏱️ 13:52 • 33m ago
+👁️ 646 • 👍 52 • 💬 6 • ⏱️ 13:52 • 56m ago
 
 ---
 
@@ -320,7 +320,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 My Channel
 
-👁️ 6K • 👍 1K • 9h ago
+👁️ 6K • 👍 1K • 10h ago
 
 ---
 
