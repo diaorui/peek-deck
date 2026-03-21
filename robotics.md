@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-21T22:27:12.510626+00:00'
+updated: '2026-03-21T22:52:23.358910+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 21, 2026 at 22:27 UTC  
+**Last Updated:** March 21, 2026 at 22:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
 We’re running a pretty heavy autonomous stack on a single edge computer (ROS 2 Jazzy) — multiple high-res cameras, dense LiDARs, and radars all on one machine. We’re starting to hit serious compute + latency limits, especially with intra-process communication and recording. Right now we’re evaluating: Fast DDS Cyclone DDS Zenoh Iceoryx Also, as soon as we start recording with rosbag2, CPU usage spikes hard and we get frame drops across the system. Two questions for folks who’ve pushed ROS 2 hard on a single machine: For high-bandwidth intra-host comms on Jazzy, which RMW has actually given you the best real-world performance? How are you dealing with the rosbag2 overhead? Composable recorder node? Separate process? Or bypassing ROS entirely and logging raw sensor data? For context: we previously ran Humble + CycloneDDS + MCAP and saw similar bottlenecks. Curious what setups are working well in practice.
 
-1h ago
+2h ago
 
 ---
 
@@ -64,7 +64,7 @@ We’re running a pretty heavy autonomous stack on a single edge computer (ROS 2
 
 Testing the built-in 3D reconstruction algorithm of the Viobot2 — the result looks good. Has anyone used the Viobot2 for other DIY work? Can anyone share with me?
 
-7h ago
+8h ago
 
 ---
 
@@ -94,7 +94,7 @@ Don't be surprised if you meet humanoid robots on the streets of Beijing at midn
 
 **[FINDING THE RIGHT METAPHOR (Edited)](https://www.reddit.com/r/robotics/comments/1s040cn/finding_the_right_metaphor_edited/)**
 
-29m ago
+54m ago
 
 ---
 
@@ -102,7 +102,7 @@ Don't be surprised if you meet humanoid robots on the streets of Beijing at midn
 
 Hey, I want to build a humanoid robot as a personal project — not necessarily life sized, maybe scaled down a bit. I came across InMoov and it looks amazing but I'm a bit intimidated by the non-printed hardware requirements like springs, metal rods, drilling into parts etc. I'm comfortable with electronics and embedded systems (Arduino/ESP32, servos, sensors) so that side doesn't scare me. It's more the mechanical assembly and sourcing all the non-printed hardware that feels overwhelming. Has anyone: Built InMoov and found ways to simplify the mechanical assembly? Found a good detailed step by step tutorial that makes it less intimidating? Found cheaper alternatives to the hardware components it needs? Built a simplified or scaled down version? Not looking for a perfect robot, just something that works and that I can build on over time. Any advice or experience would really help. Thanks
 
-44m ago
+1h ago
 
 ---
 
@@ -130,7 +130,7 @@ The Guardian • 2d ago
 
 "It's a friendly competition, or it tries to be," an official said of the two-day event hosted by the nonprofit FIRST.
 
-Newsday • 46m ago
+Newsday • 1h ago
 
 ---
 

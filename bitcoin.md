@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-21T22:27:12.502592+00:00'
+updated: '2026-03-21T22:52:23.349725+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 22:27 UTC  
+**Last Updated:** March 21, 2026 at 22:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perrenod
 
-11h ago
+12h ago
 
 ---
 
@@ -95,7 +95,7 @@ An excellent book about all the details, even people who fought the Blocksize wa
 
 **[RIP Legend](https://www.reddit.com/r/Bitcoin/comments/1rzh2xj/rip_legend/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -109,7 +109,7 @@ An excellent book about all the details, even people who fought the Blocksize wa
 
 Morgan Stanley allows clients to allocate between 0-4% of their portfolioa to bitcoin. Even a modest 2% could add $160 Billion dollars in capital to the BTC market.
 
-🔗 [Bitcoin Magazine](https://share.google/eNr25Ee6vq1fB2Lv1) • 17m ago
+🔗 [Bitcoin Magazine](https://share.google/eNr25Ee6vq1fB2Lv1) • 42m ago
 
 ---
 
@@ -149,7 +149,7 @@ hi, just checking in to say hi I am generally a conservative broad index ETF inv
 
 Please someone just buy or sell already so the price moves!
 
-17h ago
+18h ago
 
 ---
 
@@ -297,7 +297,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 An event loop for asyncio written in Rust. Contribute to RustedBytes/rsloop development by creating an account on GitHub.
 
-⬆️ 2 • 💬 0 • 14m ago • [GitHub](https://github.com/RustedBytes/rsloop)
+⬆️ 2 • 💬 0 • 39m ago • [GitHub](https://github.com/RustedBytes/rsloop)
 
 ---
 
@@ -321,7 +321,7 @@ Bitcoin just went live at millions of businesses without anyone opting in. While
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 155 • ⏱️ 12:51 • 23h ago
+👁️ 18K • 👍 1K • 💬 155 • ⏱️ 12:51 • 1d ago
 
 ---
 
@@ -331,7 +331,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 7K • 👍 389 • 💬 202 • ⏱️ 8:34 • 22h ago
+👁️ 7K • 👍 389 • 💬 202 • ⏱️ 8:34 • 23h ago
 
 ---
 
@@ -351,7 +351,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 My Channel
 
-👁️ 6K • 👍 1K • 8h ago
+👁️ 6K • 👍 1K • 9h ago
 
 ---
 
