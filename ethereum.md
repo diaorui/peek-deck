@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-20T23:37:42.362484+00:00'
+updated: '2026-03-21T02:04:51.152839+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
-- news
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 20, 2026 at 23:37 UTC  
+**Last Updated:** March 21, 2026 at 02:04 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,43 +36,51 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,147.57
+### $2,153.12
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +2.4%  
-**30d:** +10.2%  
-**90d:** -28.5%  
-**1y:** +9.3%  
+**24h:** -0.2%  
+**7d:** -1.4%  
+**30d:** +9.1%  
+**90d:** -28.6%  
+**1y:** +8.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $260.27B
+**Market Cap:** $259.17B
 Rank #2
 
-**Circulating Supply:** 120,691,772 ETH
+**Circulating Supply:** 120,691,752 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.4%
+-56.6%
 
 **All-Time Low:** $0.43
-+497889.5%
++495755.5%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[I built a free tool that makes blockchain transactions human-readable — would love feedback](https://www.reddit.com/r/ethereum/comments/1rzbnql/i_built_a_free_tool_that_makes_blockchain/)**
+
+Hey everyone, I’ve been working on a side project called Blockpeek and just shipped a new update. It’s a blockchain transaction scanner that tries to explain what actually happened in plain English instead of just showing raw hex data. You paste a transaction hash (or upload a screenshot from your wallet/exchange) and it tells you: ∙ What was sent, to who, from who ∙ The USD value at the time ∙ Gas fees in USD ∙ Which chain it was on (auto-detects Ethereum, BSC, Arbitrum, Polygon, Base, Solana, Bitcoin, Tron and more) It’s free, no login required. Would genuinely love feedback — what’s missing, what’s broken, what would make it actually useful for you. blockpeek.io
+
+2h ago
+
+---
+
 **[Thorchain Alternative?](https://www.reddit.com/r/ethereum/comments/1rz9an2/thorchain_alternative/)**
 
 I’m looking for a way to swap my Bitcoin to Ethereum without KYC, so obviously i found thorchain, but unfortunately it’s not available here in the U.S, and i heard it’s very expensive as well. Where should I do it you think? sorry if this question was already asked in past but i couldnt find an answer after bit lf time checking.
 
-1h ago
+4h ago
 
 ---
 
@@ -80,15 +88,15 @@ I’m looking for a way to swap my Bitcoin to Ethereum without KYC, so obviously
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+21h ago
 
 ---
 
-**[I built a free tool that makes blockchain transactions human-readable — would love feedback](https://www.reddit.com/r/ethereum/comments/1rzbnql/i_built_a_free_tool_that_makes_blockchain/)**
+**[Red flags to look for in an exchange.](https://www.reddit.com/r/ethereum/comments/1rzdfrn/red_flags_to_look_for_in_an_exchange/)**
 
-Hey everyone, I’ve been working on a side project called Blockpeek and just shipped a new update. It’s a blockchain transaction scanner that tries to explain what actually happened in plain English instead of just showing raw hex data. You paste a transaction hash (or upload a screenshot from your wallet/exchange) and it tells you: ∙ What was sent, to who, from who ∙ The USD value at the time ∙ Gas fees in USD ∙ Which chain it was on (auto-detects Ethereum, BSC, Arbitrum, Polygon, Base, Solana, Bitcoin, Tron and more) It’s free, no login required. Would genuinely love feedback — what’s missing, what’s broken, what would make it actually useful for you. blockpeek.io
+Whenever I see an exchange offering 40% APY on stablecoins, I run the other way immediately. Yield doesn't come from nowhere. I look for platforms that just focus on standard spot trading, verifiable proof of reserves, and steady, quiet growth. That's exactly why I've stuck with Coinbase and BitMart over the years. Solid security beats flashy yields every single time.
 
-16m ago
+1h ago
 
 ---
 
@@ -140,12 +148,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[r/BASE FOUNDER 'AMA' SERIES Week 6 - DEGEN: Join us Thursday March 19th, 2pm ET](https://www.reddit.com/r/ethereum/comments/1rxgcae/rbase_founder_ama_series_week_6_degen_join_us/)**
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -158,25 +160,17 @@ Benzinga • 2d ago
 
 ---
 
-**[Citigroup Reportedly Lowers 2026 Bitcoin And Ethereum Targets, Cites Stalling Legislation](https://finance.yahoo.com/markets/crypto/articles/citigroup-reportedly-lowers-2026-bitcoin-194918720.html)**
+**[Ethereum Price Bottom Has Hit, Tom Lee Claims Again — Three Reasons He Says It's Heading Higher](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-bottom-hit-tom-114323876.html)**
 
-Citigroup (NYSE:C) has cut its targets for Bitcoin and Ethereum for this year, according to media reports. The investment bank reportedly expects Bitcoin and Ethereum to reach $112,000 and $3,175 this year. The targets are lower than the bank’s initial...
+Ethereum bottom call backed by multiple signals, says Tom Lee. Strong upside narrative remains. Credibility tempered by past miss. Ethereum's price is once again at ...
 
-Yahoo Finance • 3h ago
-
----
-
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqcJtQCBngDF8rmL-9zLkPM5nGn2A2VGfkPqNhj-OA07RVieBDL_xMTc&gaa_ts=69bdddb6&gaa_sig=fK7RW32PCy9ehGTWtPc2cc6Pw82Le1mdWsqjxlp-qXUBJGx0m-YuTkXR0mVQTwoHjdbzpReFZE3Z36LZYcLE5g%3D%3D)**
-
-MarketWatch • 9h ago
+Yahoo Finance • 14h ago
 
 ---
 
-**[This is the latest sign of a quiet crypto revolution](https://nypost.com/2026/03/20/business/blackrock-launches-ethereum-exchange-traded-fund/)**
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqddgDMJK2vOIOJ6yGI7n4Z3bE-v_0A8NIJ9Giopn7dpT0inFaB2DIEL&gaa_ts=69be002d&gaa_sig=KOQKsXm143-6tQBpdD_iAIVorfSmMVniSZVjY_cfC6BEA7ngGg5Fe5AvybPS6nlJIQKtuPdGS4Wl-VNe4reKpg%3D%3D)**
 
-“Ethereum, to me, is really gonna be where Wall Street meets crypto,” a source told NYNext.
-
-New York Post • 12h ago
+MarketWatch • 12h ago
 
 ---
 
@@ -188,11 +182,19 @@ The Block • 1d ago
 
 ---
 
+**[This is the latest sign of a quiet crypto revolution](https://nypost.com/2026/03/20/business/blackrock-launches-ethereum-exchange-traded-fund/)**
+
+“Ethereum, to me, is really gonna be where Wall Street meets crypto,” a source told NYNext.
+
+New York Post • 15h ago
+
+---
+
 **[Ethereum Hits Rare MVRV Zone Linked To Past 130%+ Rallies](https://www.tradingview.com/news/newsbtc:8c273c694094b:0-ethereum-hits-rare-mvrv-zone-linked-to-past-130-rallies/)**
 
 Ethereum has slipped into a valuation range that some on-chain analysts associate with major long-term bottoms, after ETH fell below its realized price for the first time in two years. Via X, renowned crypto analyst Ali Martinez argued on Thursday the setup now resembles prior cycle lows.Ethereum D…
 
-TradingView • 19h ago
+TradingView • 22h ago
 
 ---
 
@@ -208,7 +210,7 @@ Decrypt • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 10h ago
+Fortune • 12h ago
 
 ---
 
@@ -216,7 +218,7 @@ Fortune • 10h ago
 
 Ethereum hit a new record high in 2025, but it still fell short of the $5,000 milestone.
 
-The Motley Fool • 11h ago
+The Motley Fool • 14h ago
 
 ---
 
@@ -230,23 +232,13 @@ TipRanks • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[LIVE: Tom Lee on BitMine Makes Massive Ethereum Move! This Speech Is a Game Changer for ETH Holders!](https://www.youtube.com/watch?v=PpzATcVZxSU)**
+**[Tom Lee: &quot;$250K Bitcoin &amp; $12K Ethereum&quot; - His EXACT 2026 Price Targets Revealed](https://www.youtube.com/watch?v=POwKnprttyw)**
 
-Join Tom Lee for his groundbreaking keynote at the Ethereum Conference. Tom Lee, one of Wall Street's most renowned macro ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 SALINDA 797
+📺 Crypto Nutshell
 
-👁️ 3K • 👍 1K • 1h ago
-
----
-
-**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=mVQQUhWJgSY)**
-
-ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
-
-📺 Hap Palmer
-
-👁️ 5K • 👍 2K • 2h ago
+👁️ 8K • 👍 349 • 💬 52 • ⏱️ 19:43 • 10h ago
 
 ---
 
@@ -256,37 +248,7 @@ Ethereum is showing strong bullish signals, with analysts predicting a major reb
 
 📺 Crypto Sensei
 
-👁️ 5K • 👍 424 • 💬 50 • ⏱️ 12:42 • 10h ago
-
----
-
-**[Tom Lee: &quot;$250K Bitcoin &amp; $12K Ethereum&quot; - His EXACT 2026 Price Targets Revealed](https://www.youtube.com/watch?v=POwKnprttyw)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 6K • 👍 305 • 💬 40 • ⏱️ 19:43 • 7h ago
-
----
-
-**[LIVE: Tom Lee on BitMine Makes Massive Ethereum Move! This Speech Is a Game Changer for ETH Holders!](https://www.youtube.com/watch?v=lgrzRKnmXJU)**
-
-Join Tom Lee for his groundbreaking keynote at the Ethereum Conference. Tom Lee, one of Wall Street's most renowned macro ...
-
-📺 Anjum Reviews
-
-👁️ 1K • 👍 1K • 44m ago
-
----
-
-**[LIVE: Tom Lee on BitMine Makes Massive Ethereum Move! This Speech Is a Game Changer for ETH Holders!](https://www.youtube.com/watch?v=NVQ8NmnocBk)**
-
-Join Tom Lee for his groundbreaking keynote at the Ethereum Conference. Tom Lee, one of Wall Street's most renowned macro ...
-
-📺 pak pik puk
-
-👁️ 3K • 👍 1K • 57m ago
+👁️ 5K • 👍 434 • 💬 46 • ⏱️ 12:42 • 12h ago
 
 ---
 
@@ -296,7 +258,15 @@ BITCOIN & ALTCOIN WARNING: Price Targets Exposed!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 3K • 👍 163 • 💬 255 • ⏱️ 16:50 • 4h ago
+👁️ 4K • 👍 205 • 💬 123 • ⏱️ 16:50 • 7h ago
+
+---
+
+**[Asking AI to Predict Ethereum Price in 2030](https://www.youtube.com/watch?v=nmWDqBAfbkw)**
+
+📺 EllioTrades
+
+👁️ 9K • 👍 219 • 💬 39 • ⏱️ 1:07 • 1d ago
 
 ---
 
@@ -306,15 +276,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 94 • 💬 5 • ⏱️ 4:30 • 9h ago
+👁️ 1K • 👍 93 • 💬 7 • ⏱️ 4:30 • 11h ago
 
 ---
 
-**[Asking AI to Predict Ethereum Price in 2030](https://www.youtube.com/watch?v=nmWDqBAfbkw)**
+**[Canton Chain Better Than XRP, Solana, &amp; Ethereum?🔥Yuval Rooz INTERVIEW](https://www.youtube.com/watch?v=e2058fi-vYw)**
 
-📺 EllioTrades
+Canton is the first privacy-enabled open blockchain network, ensuring limitless connections that preserve privacy. Is it worthy of ...
 
-👁️ 9K • 👍 215 • 💬 38 • ⏱️ 1:07 • 1d ago
+📺 Paul Barron Network
+
+👁️ 31K • 👍 2K • 💬 1K • ⏱️ 30:27 • 1d ago
 
 ---
 
@@ -324,7 +296,37 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 185 • 👍 8 • 💬 2 • ⏱️ 4:56 • 13h ago
+👁️ 197 • 👍 8 • 💬 2 • ⏱️ 4:56 • 16h ago
+
+---
+
+**[Crypto Holders Can’t Believe.. It’s Actually Happening](https://www.youtube.com/watch?v=coGc_pNFCQU)**
+
+0% Fees on Gold And Silver (Earn $300k): https://www.weex.com/events/promo/0fees-gold-silver-300k?vipCode=oz5p ...
+
+📺 Altcoin Daily
+
+👁️ 37K • 👍 2K • 💬 116 • ⏱️ 9:25 • 2d ago
+
+---
+
+**[🚨 BTC &amp; ETH: HOW I MAKE MONEY WITH TRADING BOTS!!! METHOD REVEALED!!!! (+Full Tutorial)](https://www.youtube.com/watch?v=Iutgz89XTR8)**
+
+In this video, I reveal how I make money using trading bots, their settings, strategies, and more. BYUSDT, earn while trading: ...
+
+📺 Thomas Kralow
+
+👁️ 4K • 👍 2K • 💬 14 • ⏱️ 13:55 • 1d ago
+
+---
+
+**[ETH Ethereum Price Prediction: 19th of March](https://www.youtube.com/watch?v=ALe8xzWt-n8)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 147 • 👍 14 • 💬 5 • ⏱️ 8:24 • 1d ago
 
 ---
 

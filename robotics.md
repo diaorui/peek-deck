@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-20T23:37:42.365715+00:00'
+updated: '2026-03-21T02:04:51.156029+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 20, 2026 at 23:37 UTC  
+**Last Updated:** March 21, 2026 at 02:04 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Showcasing the newest version (v20) of my hand & wrist combo! Same as the last version, it's a combination of direct- and tendon-driven actuation, still with 19 joints and 10 active DOFs. It has independent finger flexion, a 3-DOF thumb, linked finger splay, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist which measures joint position (at the motor output), current, and temperature. And all the movements were programmed with custom C#/C++ software. Improved from the last version, the base thumb joints were switched to direct drive and much beefier motors were swapped in for the wrist joints - improving strength and repeatability under heavier loads. Despite these new motors though, the form factor remains nearly identical to v19, spare a few millimeters of thickness and height. Some more minor changes: (1) ASA and carbon fiber filaments replaced basic PLA to improve rigidity and strength, (2) the power input was switched to an XT30 connector to accommodate the more power-hungry motors, and (3) better filtering and chips to reduce current and position signal noise. Still making incremental improvements here and there, but happy to answer any questions and hear your thoughts!
 
-7h ago
+10h ago
 
 ---
 
@@ -44,7 +44,7 @@ Showcasing the newest version (v20) of my hand & wrist combo! Same as the last v
 
 Don't be surprised if you meet humanoid robots on the streets of Beijing at midnight. They are training for their half-marathon! Over 20 teams joined the first trial run. The official race will be held on April 19.
 
-6h ago
+9h ago
 
 ---
 
@@ -52,7 +52,7 @@ Don't be surprised if you meet humanoid robots on the streets of Beijing at midn
 
 From Physical Intelligence on 𝕏 (thread with multiple videos): https://x.com/physical_int/status/2034728220818641363 Technical Blog post: https://www.pi.website/research/rlt
 
-12h ago
+15h ago
 
 ---
 
@@ -66,7 +66,15 @@ From Physical Intelligence on 𝕏 (thread with multiple videos): https://x.com/
 
 Copper is an open-source robotics runtime in Rust for building deterministic, observable systems. Until now, it was very much geared toward production. With v0.14, we’re opening that system up to earlier-stage work as well. In robotics, you typically prototype quickly in Python, then rebuild the system to meet determinism, safety, and observability requirements. You can validate algorithms on real logs or simulation, inspect them in a running system, and iterate without rebuilding the surrounding infrastructure. When it’s time to move to Rust, only the task needs to change, and LLMs are quite effective at helping with that step. This release also also introduces: - composable monitoring, including a dedicated safety monitors - a new Webassembly target! After CPUs and MCUs targets, Copper can now fully run in a browser for shareable demos, check out the links in the article. - The ROS2 bridge is now bidirectional, helping the gradual migrations from ROS2 from both sides of the stack The focus is continuity from early experimentation to deployment. If you’re a Python roboticist looking for a smooth path into a Rust-based production system, come talk to us on Discord, we’re happy to help.
 
-🔗 [Copper Robotics](https://www.copper-robotics.com/whats-new/copper-rs-v014-from-prototype-to-production-without-changing-systems) • 7h ago
+🔗 [Copper Robotics](https://www.copper-robotics.com/whats-new/copper-rs-v014-from-prototype-to-production-without-changing-systems) • 10h ago
+
+---
+
+**[When will German automobile companies start making humanoids?](https://www.reddit.com/r/robotics/comments/1rzfaqy/when_will_german_automobile_companies_start/)**
+
+The opportunity is bigger than starting with cars in 1886 and the production need is going to be bigger than mass car production in the 50s. Germany is late in the party, but the mass production didn’t start yet
+
+3m ago
 
 ---
 
@@ -82,7 +90,7 @@ Why can’t robots use their lidar to scan the room and confirm there is enough 
 
 Need financial help to attend ROSCon Global 2026 in Toronto?This Sunday, March 22nd, is the last day to apply to our diversity scholarship program! The application is quick and easy and covers all the expenses associated with traveling to ROSCon!
 
-🔗 [roscon.ros.org](https://roscon.ros.org/2026/#diversity-scholars) • 1h ago
+🔗 [roscon.ros.org](https://roscon.ros.org/2026/#diversity-scholars) • 3h ago
 
 ---
 
@@ -90,7 +98,7 @@ Need financial help to attend ROSCon Global 2026 in Toronto?This Sunday, March 2
 
 Amazon and Jeff Bezos had previously invested in the startup. The deal signals the e-commerce giant's interest in doorstep delivery.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/) • 22h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/) • 1d ago
 
 ---
 
@@ -99,15 +107,7 @@ Amazon and Jeff Bezos had previously invested in the startup. The deal signals t
 Going to MODEX?  Join us for breakfast and networking as we discuss how ROS 2 has matured into core infrastructure for industry.
 This event is made possible by…
 
-🔗 [luma.com](https://luma.com/7znsksxx) • 3h ago
-
----
-
-**[ROS News for the Week of March 16th, 2026 - Community News](https://www.reddit.com/r/robotics/comments/1rz72p9/ros_news_for_the_week_of_march_16th_2026/)**
-
-ROS News for the Week of March 16th, 2026              This week we added ROSCon Spain and ROSCon UK to the regional ROSCon mix. We’ve also have ROS meetups planned next week in Heilbronn and Nigeria along with a Gazebo Community Meeting.  We’re planning a ROS Breakfast at Modex in Atlanta this April but you must RSVP by March 30th.       It is that time of year! If you want to come intern with our wonderful core developers consider proposing a project for the OSRF’s 2026 Google Summer of Code p...
-
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-march-16th-2026/53411) • 3h ago
+🔗 [luma.com](https://luma.com/7znsksxx) • 5h ago
 
 ---
 
@@ -123,19 +123,27 @@ The Guardian • 1d ago
 
 ---
 
-**[Unitree plans Shanghai IPO, testing interest in humanoid robots](https://www.cnbc.com/2026/03/20/unitree-plans-shanghai-ipo-testing-interest-in-humanoid-robots.html)**
-
-Chinese startup Unitree Robotics on Friday filed an initial public offering application to the Shanghai ​Stock Exchange, seeking to ​raise  about $610 million.
-
-CNBC • 11h ago
-
----
-
 **[Mark Cuban says the future of robotics isn't humanoids, but robots and homes that are co-designed](https://www.businessinsider.com/mark-cuban-humanoid-robotics-will-fail-robots-houses-codesigned-2026-3)**
 
 Mark Cuban said the push for humanoid robots will fail and that instead robots and spaces will be co-designed.
 
-Business Insider • 18h ago
+Business Insider • 20h ago
+
+---
+
+**[Unitree plans Shanghai IPO, testing interest in humanoid robots](https://www.cnbc.com/2026/03/20/unitree-plans-shanghai-ipo-testing-interest-in-humanoid-robots.html)**
+
+Chinese startup Unitree Robotics on Friday filed an initial public offering application to the Shanghai ​Stock Exchange, seeking to ​raise  about $610 million.
+
+CNBC • 13h ago
+
+---
+
+**[Amazon acquires startup Rivr to test robots for 'doorstep delivery'](https://www.cnbc.com/2026/03/19/amazon-acquires-startup-rivr-to-test-robots-for-doorstep-delivery.html)**
+
+The company expects to test ways it can use Rivr's robots to help with "doorstep delivery" and to "improve safety outcomes" for delivery drivers.
+
+CNBC • 1d ago
 
 ---
 
@@ -147,11 +155,19 @@ The Information • 1d ago
 
 ---
 
+**[Amazon acquires autonomous robotics startup Rivr](https://www.engadget.com/big-tech/amazon-acquires-autonomous-robotics-startup-rivr-212839750.html)**
+
+Amazon has acquired Rivr, a startup focused on autonomous robotics that could further the tech giant's capabilities in package deliveries.
+
+Engadget • 1d ago
+
+---
+
 **[Robotics giant plans massive $90M plant in metro Detroit, 225 jobs](https://www.crainsdetroit.com/manufacturing-logistics/cdb-fanuc-robots-investment-michigan-20260319/)**
 
 Japanese manufacturer Fanuc is plotting a large expansion in Michigan in response to demand from automakers and other customers.
 
-Crain's Detroit Business • 13h ago
+Crain's Detroit Business • 16h ago
 
 ---
 
@@ -159,7 +175,7 @@ Crain's Detroit Business • 13h ago
 
 Carbon Robotics names a CFO; Nordstrom gets a VP of AI; and a Microsoft gaming GM goes to Netflix while one of its longtime legal leaders retires.
 
-GeekWire • 8h ago
+GeekWire • 10h ago
 
 ---
 
@@ -177,35 +193,9 @@ Fox News • 1d ago
 
 ---
 
-**[From Simulation to Production: How to Build Robots With AI](https://blogs.nvidia.com/blog/build-robots-with-ai/)**
-
-The latest open models and frameworks from NVIDIA bring together simulation, robot learning and embedded compute to accelerate cloud-to-robot workflows.
-
-NVIDIA Blog • 2d ago
-
----
-
-**[Cooking Robots Have Flopped. Will the Nosh One Be Any Different? Here's My Take](https://www.cnet.com/home/kitchen-and-household/ai-cooking-robots-have-flopped-will-the-nosh-one-be-any-different-heres-my-take/)**
-
-I saw the new $1,499 Nosh One up close. Here's my take on the latest AI-powered cooking robot.
-
-CNET • 8h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
-
-**[NVIDIA GTC Demo Stuns Audience With Real Olaf Robot Next To Jensen Huang](https://www.youtube.com/watch?v=pPnVsRPFWV8)**
-
-The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrations when Jensen Huang introduced a real ...
-
-📺 DPCcars
-
-👁️ 149K • 👍 1K • 💬 167 • ⏱️ 2:02 • 4d ago
-
----
 
 **[The Future of Flooring: Automated Sand-Cement Screeding Robot #ConstructionTech #Robotics #Flooring](https://www.youtube.com/watch?v=QK7Y1-O5koE)**
 
@@ -214,26 +204,6 @@ The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrati
 📺 MachineWorks Studio
 
 👁️ 1.6M • 👍 1K • 💬 17 • ⏱️ 0:06 • 4d ago
-
----
-
-**[Dancing robot goes rogue in hot pot restaurant](https://www.youtube.com/watch?v=DfnIEWpbMU8)**
-
-Video shows restaurant employees struggling to restrain a dancing robot that went rogue in a hot pot restaurant in California.
-
-📺 NBC News
-
-👁️ 136K • 👍 2K • 💬 488 • ⏱️ 3:38 • 1d ago
-
----
-
-**[China’s AI Robot Giant Just Triggered a US National Security Alarm #robotics #humanoidrobots #ai](https://www.youtube.com/watch?v=YkiRLxVMEEY)**
-
-Chinese robotics leader Unitree finds itself in the crosshairs of the US government, which increasingly views its rapid ascent as a ...
-
-📺 Kalil 4.0
-
-👁️ 606 • 👍 23 • ⏱️ 0:41 • 3h ago
 
 ---
 
@@ -247,23 +217,53 @@ China just built something that was supposed to be decades away. Engine AI's T80
 
 ---
 
+**[Dancing robot goes rogue in hot pot restaurant](https://www.youtube.com/watch?v=DfnIEWpbMU8)**
+
+Video shows restaurant employees struggling to restrain a dancing robot that went rogue in a hot pot restaurant in California.
+
+📺 NBC News
+
+👁️ 142K • 👍 2K • 💬 540 • ⏱️ 3:38 • 1d ago
+
+---
+
+**[China’s AI Robot Giant Just Triggered a US National Security Alarm #robotics #humanoidrobots #ai](https://www.youtube.com/watch?v=YkiRLxVMEEY)**
+
+Chinese robotics leader Unitree finds itself in the crosshairs of the US government, which increasingly views its rapid ascent as a ...
+
+📺 Kalil 4.0
+
+👁️ 883 • 👍 23 • 💬 3 • ⏱️ 0:41 • 6h ago
+
+---
+
 **[EXCLUSIVE: This Robot Video Changed The Conversation](https://www.youtube.com/watch?v=t7BI3Z1THz4)**
 
 Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and get $500 to $1K off. My daughter: ...
 
 📺 Brighter with Herbert
 
-👁️ 101K • 👍 2K • 💬 319 • ⏱️ 49:45 • 6d ago
+👁️ 102K • 👍 2K • 💬 319 • ⏱️ 49:45 • 6d ago
 
 ---
 
-**[Gecko Robotics Inks $71 Million Deal With US Navy](https://www.youtube.com/watch?v=82_585LieQY)**
+**[NVIDIA GTC Demo Stuns Audience With Real Olaf Robot Next To Jensen Huang](https://www.youtube.com/watch?v=pPnVsRPFWV8)**
 
-Gecko Robotics announced a $71 million partnership with the US Navy, deploying its AI-powered robots to assess the condition ...
+The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrations when Jensen Huang introduced a real ...
 
-📺 Bloomberg Technology
+📺 DPCcars
 
-👁️ 4K • 👍 128 • 💬 3 • ⏱️ 4:39 • 3d ago
+👁️ 155K • 👍 1K • 💬 172 • ⏱️ 2:02 • 4d ago
+
+---
+
+**[This wearable robot adds two mechanical legs behind you](https://www.youtube.com/watch?v=y1Jh2BtO-Ow)**
+
+CENTAUR ROBOT - wearable robot adds two legs behind people to help distribute the load ...
+
+📺 Unstoppable Gadgets
+
+👁️ 27K • 👍 334 • 💬 21 • ⏱️ 0:17 • 2d ago
 
 ---
 
@@ -273,17 +273,17 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 100K • 👍 2K • 💬 1K • ⏱️ 2:07 • 1d ago
+👁️ 112K • 👍 2K • 💬 1K • ⏱️ 2:07 • 1d ago
 
 ---
 
-**[China’s New CENTAUR AI ROBOT Gives Humans Super Strength](https://www.youtube.com/watch?v=HxUhW1zIrbw)**
+**[Dancing robot restrained by staff at Cupertino, CA restaurant after causing chaos](https://www.youtube.com/watch?v=RMONOjZTowU)**
 
-China just revealed a robotic system that can turn a human into something that moves like a centaur, helping people carry heavy ...
+Video from Haidilao Hot Pot in Cupertino shows a now-viral robot dancing wildly, knocking items off a table as employees step in ...
 
-📺 AI Revolution
+📺 ABC7 News Bay Area
 
-👁️ 49K • 👍 683 • 💬 81 • ⏱️ 14:52 • 7d ago
+👁️ 5K • 👍 56 • 💬 24 • ⏱️ 1:03 • 1d ago
 
 ---
 
@@ -293,7 +293,7 @@ Artificial intelligence is entering the real world. At NVIDIA GTC 2026, Jensen H
 
 📺 DPCcars
 
-👁️ 146K • 👍 2K • 💬 246 • ⏱️ 11:48 • 4d ago
+👁️ 150K • 👍 2K • 💬 247 • ⏱️ 11:48 • 4d ago
 
 ---
 
