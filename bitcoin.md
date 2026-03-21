@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-21T04:17:04.242905+00:00'
+updated: '2026-03-21T05:27:44.886291+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
+- videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 04:17 UTC  
+**Last Updated:** March 21, 2026 at 05:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
+**24h:** +0.4%  
 **7d:** -2.7%  
 **30d:** +4.0%  
 **90d:** -19.9%  
@@ -79,7 +79,7 @@ Rank #1
 
 **[RIP Legend](https://www.reddit.com/r/Bitcoin/comments/1rzh2xj/rip_legend/)**
 
-48m ago
+1h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Alden's book called Broken Money and read it.
 
-5h ago
+7h ago
 
 ---
 
@@ -95,7 +95,7 @@ Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Al
 
 Abra Financial Holdings, Inc. CEO
 
-14h ago
+15h ago
 
 ---
 
@@ -103,15 +103,7 @@ Abra Financial Holdings, Inc. CEO
 
 North Carolina is moving to become one of the first states to officially hold Bitcoin as part of its treasury reserves. The bill (HB 92) would allow the state treasurer to invest up to 10% of certain public funds in Bitcoin. These reserves typically consist of US Treasury bonds
 
-14h ago
-
----
-
-**[I made mistake a long time ago.](https://www.reddit.com/r/Bitcoin/comments/1rz40sz/i_made_mistake_a_long_time_ago/)**
-
-Hey all, i made mistake a long time ago when BTC price was 17.000€ and I wanted to do it, but I was too afraid. I wanted this asimetric bet on crypto on my portfolio. Today I purchased my first 1% of coin. I’ve waited for this oppurtunity for a long time now, and I finally got entry I am confortable with. So, new guy in the buisness. :) Any advice tou can give me?
-
-9h ago
+15h ago
 
 ---
 
@@ -119,7 +111,15 @@ Hey all, i made mistake a long time ago when BTC price was 17.000€ and I wante
 
 The government relies on this crypto infrastructure for international trade, while ordinary Iranians use it as a financial lifeline during protests and economic crises. Iran has built a multibillion-dollar parallel economy using state-sponsored Bitcoin mining and stablecoins to bypass the U.S. dollar, heavily driven by the IRGC. The government relies on this crypto infrastructure for international trade, while ordinary Iranians use it as a financial lifeline during protests and economic crises. Recent military strikes threaten Iran's fragile power grid, which is essential to sustaining the energy-intensive mining operations that keep this financial channel open. The Islamic Revolutionary Guard Corps (IRGC), the primary branch of the country’s military, has since deepened its role in the space. Chainalysis estimates IRGC-linked addresses accounted for more than 50% of total Iranian crypto inflows in the fourth quarter of 2025, with over $3 billion in value received last year.
 
-4h ago
+5h ago
+
+---
+
+**[I made mistake a long time ago.](https://www.reddit.com/r/Bitcoin/comments/1rz40sz/i_made_mistake_a_long_time_ago/)**
+
+Hey all, i made mistake a long time ago when BTC price was 17.000€ and I wanted to do it, but I was too afraid. I wanted this asimetric bet on crypto on my portfolio. Today I purchased my first 1% of coin. I’ve waited for this oppurtunity for a long time now, and I finally got entry I am confortable with. So, new guy in the buisness. :) Any advice tou can give me?
+
+11h ago
 
 ---
 
@@ -127,7 +127,7 @@ The government relies on this crypto infrastructure for international trade, whi
 
 This is my comprehensive guide for 10 and more hardware wallets, their pros and cons and facts why a specific wallet may be suitable for a user personality. What is your take?
 
-🔗 [renditecloud.com](https://renditecloud.com/2026/02/09/the-10-best-crypto-hardware-wallets-in-2026/) • 4h ago
+🔗 [renditecloud.com](https://renditecloud.com/2026/02/09/the-10-best-crypto-hardware-wallets-in-2026/) • 5h ago
 
 ---
 
@@ -135,7 +135,7 @@ This is my comprehensive guide for 10 and more hardware wallets, their pros and 
 
 Is anybody else impressed by the stability of the price in the last month considering the state of the world? If the cycle is real (it's mostly followed it, what, 4 times now? Not exactly a substantial amount of data points... but it is a pattern nonetheless) then it's mildly interesting that it hasn't dropped further faster... yet. And considering the conflicts/wars and the state of the market and oil prices, and gold falling... yet through all this in the past month it has been steady around 70k plus or minus a bit. Maybe all this was "priced in" from before the last month, but if that were the case, amid the bear period of the "4 year cycle" AND the war, I'd have expected the "price in" to be more damaging. Just some commute-thoughts I had... open for discussion.
 
-15h ago
+16h ago
 
 ---
 
@@ -147,17 +147,25 @@ Is anybody else impressed by the stability of the price in the last month consid
 
 ---
 
-**[Holding BTC only strategy](https://www.reddit.com/r/Bitcoin/comments/1ryqf4b/holding_btc_only_strategy/)**
+**[Being Debanked Is Less Risky Than KYC](https://www.reddit.com/r/Bitcoin/comments/1rzgub2/being_debanked_is_less_risky_than_kyc/)**
 
-This question is directed at those who exclusively hold Bitcoin. How do you maintain conviction in a BTC-only strategy, and how do you deal with FOMO when altcoins are outperforming? Any tips for us that still have urge to buying altcoin ?
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-20h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=1reI_8S5EDM) • 2h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[Bitcoin’s price action looks dangerously similar to the pattern that sent it crashing to $60,000](https://www.coindesk.com/markets/2026/03/20/bitcoin-s-price-action-looks-dangerously-similar-to-the-pattern-that-sent-it-crashing-to-usd60-000)**
+
+The recent price action echoes the November–January pattern, showing weak conviction among the “buy the dip” crowd.
+
+CoinDesk • 22h ago
+
+---
 
 **[Gold, silver, bitcoin crash as safe-haven luster fades following Fed decision](https://finance.yahoo.com/news/gold-silver-bitcoin-crash-as-safe-haven-luster-fades-following-fed-decision-160420933.html)**
 
@@ -167,27 +175,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin price news: BTC jumps as oil prices slip. Is the bottom in?](https://www.coindesk.com/markets/2026/03/20/bitcoin-jumps-to-usd70-800-as-oil-retreats-ether-and-xrp-lag)**
-
-Oil prices slipped as major economies announced joint efforts to stabilize energy markets.
-
-CoinDesk • 22h ago
-
----
-
 **[Phong Le Calls Morgan Stanley’s BTC ETF a “Monster Bitcoin” Bet With $160 Billion Potential](https://bitcoinmagazine.com/news/phong-le-calls-morgan-stanleys-bitcoin)**
 
 The president and CEO of Strategy said Morgan Stanley’s upcoming bitcoin ETF could unlock as much as $160 billion in demand under a modest portfolio allocation scenario.
 
-Bitcoin Magazine • 10h ago
+Bitcoin Magazine • 11h ago
 
 ---
 
-**[Morgan Stanley sets MSBT ticker and $1 million seed capital for bitcoin ETF](https://www.coindesk.com/markets/2026/03/20/morgan-stanley-sets-msbt-ticker-and-usd1-million-seed-capital-for-bitcoin-etf)**
+**[Bitcoin news: Morgan Stanley sets MSBT ticker and $1 million seed capital for BTC ETF](https://www.coindesk.com/markets/2026/03/20/morgan-stanley-sets-msbt-ticker-and-usd1-million-seed-capital-for-bitcoin-etf)**
 
 Morgan Stanley has filed to launch a spot Bitcoin ETF with the ticker MSBT and a $1 million seed at debut.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -199,11 +199,9 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin long-term holder selling slows, signaling 'potentially constructive' trend: VanEck](https://www.theblock.co/post/394467/bitcoin-long-term-holder-activity-slows-vaneck)**
+**[Bitcoin, XRP Fall. Crypto Markets Get What They Expected From Fed’s Powell.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-fed-decision-cryptos-powell-e3021a22?gaa_at=eafs&gaa_n=AWEtsqe-XDNanpmGQvfiZZyrVlWfzSPmsFDDnxjj-wT6A_dGhWMUhSWtnnKK&gaa_ts=69be2fba&gaa_sig=apGmYUTfzoA3EZIjpQpYAAJ_MtD7DAINNjO4MvlqGrtKW9Owp6nKTV5OO9OOsw1MQZ1_ZybmuQ46c96gcwGB5g%3D%3D)**
 
-VanEck's latest report noted that the selling pressure among bitcoin miners remained steady despite a decline in profitability.
-
-The Block • 19h ago
+Barron's • 2d ago
 
 ---
 
@@ -211,21 +209,21 @@ The Block • 19h ago
 
 Unpopular
 
-Financial Times • 11h ago
+Financial Times • 12h ago
 
 ---
 
-**[Bitcoin, XRP Fall. Crypto Markets Get What They Expected From Fed’s Powell.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-fed-decision-cryptos-powell-e3021a22?gaa_at=eafs&gaa_n=AWEtsqekuDVYYst3u4Fdse4qjngB6cvNvTjdKeCC488jJTU59GDcJDJPRXMQ&gaa_ts=69be1f2e&gaa_sig=RFxlJ1ZdNaUQ5NBo8garKh_GXdfF-bXFba1-DRy0N2sTcz15nCvmgsrfhPcks2nu8sxcrq2j9LS5NbrDYus2SA%3D%3D)**
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqcBKSWU68ogvIBGAa5yAz3ILAtn3D0_EoVDUjdN8cbtNJyi4YFJhf2c&gaa_ts=69be2fba&gaa_sig=g3NoOMfSJl-iDQgLTSnJo7yVPj3qZRe-vBMQ6aFhSBJZpbPhTjfACR4seDjQ7qpBiut8w_Btg9SMf3ROnD0PZQ%3D%3D)**
 
-Barron's • 2d ago
+MarketWatch • 15h ago
 
 ---
 
-**[BTQ Technologies Announces First Deployment of BIP 360 on Bitcoin Quantum Testnet v0.3.0](https://www.prnewswire.com/news-releases/btq-technologies-announces-first-deployment-of-bip-360-on-bitcoin-quantum-testnet-v0-3-0--302718592.html)**
+**[Popular Texas bank has unreal target for MicroStrategy](https://www.thestreet.com/crypto/investing/popular-texas-bank-makes-unreal-prediction-for-microstrategy)**
 
-The Bitcoin Quantum testnet provides developers, miners, and researchers with a live environment to evaluate how quantum-resistant Bitcoin transactions...
+Texas Capital remains hopeful about Strategy's Bitcoin policy.
 
-PR Newswire • 1d ago
+thestreet.com • 7h ago
 
 ---
 
@@ -249,7 +247,7 @@ Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in
 
 **[Bitcoin, XRP Fall in a Bad Week for Cryptos](https://news.ycombinator.com/item?id=47453548)**
 
-⬆️ 2 • 💬 0 • 15h ago • [barrons.com](https://www.barrons.com/articles/bitcoin-price-xrp-etheruem-crypto-sec-nasdaq-2e2f8254)
+⬆️ 2 • 💬 0 • 17h ago • [barrons.com](https://www.barrons.com/articles/bitcoin-price-xrp-etheruem-crypto-sec-nasdaq-2e2f8254)
 
 ---
 
@@ -285,7 +283,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 **[BioContact assurance and status monitoring using human body communication](https://news.ycombinator.com/item?id=47459528)**
 
-⬆️ 1 • 💬 0 • 8h ago • [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2590123025045001)
+⬆️ 1 • 💬 0 • 9h ago • [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2590123025045001)
 
 ---
 
@@ -305,7 +303,7 @@ Bitcoin just went live at millions of businesses without anyone opting in. While
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 791 • 💬 61 • ⏱️ 12:51 • 5h ago
+👁️ 8K • 👍 791 • 💬 61 • ⏱️ 12:51 • 6h ago
 
 ---
 
@@ -315,7 +313,7 @@ New report exposes institutions have only just begun dipping their toes into bit
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 275 • 💬 36 • ⏱️ 1:30:42 • 9h ago
+👁️ 6K • 👍 275 • 💬 36 • ⏱️ 1:30:42 • 10h ago
 
 ---
 
@@ -325,7 +323,7 @@ A central bank buying Bitcoin would change everything. Not because of the amount
 
 📺 Tim Talks Finance
 
-👁️ 1K • 👍 97 • 💬 12 • ⏱️ 18:40 • 5h ago
+👁️ 1K • 👍 97 • 💬 12 • ⏱️ 18:40 • 6h ago
 
 ---
 
@@ -335,7 +333,7 @@ A classic case of the bear market blues for Bitcoin. Into The Cryptoverse Premiu
 
 📺 Benjamin Cowen
 
-👁️ 53K • 👍 4K • 💬 189 • ⏱️ 11:38 • 23h ago
+👁️ 53K • 👍 4K • 💬 189 • ⏱️ 11:38 • 1d ago
 
 ---
 
@@ -355,7 +353,7 @@ Dave LaValle, president of @CoinDesk, offers a full picture perspective on the s
 
 📺 Schwab Network
 
-👁️ 643 • 👍 13 • 💬 1 • ⏱️ 7:00 • 8h ago
+👁️ 643 • 👍 13 • 💬 1 • ⏱️ 7:00 • 9h ago
 
 ---
 
@@ -365,7 +363,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 826 • 💬 75 • ⏱️ 38:05 • 13h ago
+👁️ 14K • 👍 826 • 💬 75 • ⏱️ 38:05 • 15h ago
 
 ---
 
@@ -395,7 +393,7 @@ My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
 📺 Road To $1 Million USD
 
-👁️ 2K • 👍 176 • 💬 15 • ⏱️ 6:21 • 5h ago
+👁️ 2K • 👍 176 • 💬 15 • ⏱️ 6:21 • 6h ago
 
 ---
 

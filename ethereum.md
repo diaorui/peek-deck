@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-21T04:17:04.248864+00:00'
+updated: '2026-03-21T05:27:44.892977+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
+- videos
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 04:17 UTC  
+**Last Updated:** March 21, 2026 at 05:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,153.12
+### $2,152.86
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** -0.9%  
-**30d:** +9.6%  
-**90d:** -28.3%  
-**1y:** +9.0%  
+**24h:** +1.0%  
+**7d:** -1.1%  
+**30d:** +9.5%  
+**90d:** -28.4%  
+**1y:** +8.8%  
 
 ---
 
@@ -68,11 +68,19 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion March 21, 2026](https://www.reddit.com/r/ethereum/comments/1rzitba/daily_general_discussion_march_21_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+27m ago
+
+---
+
 **[I built a free tool that makes blockchain transactions human-readable — would love feedback](https://www.reddit.com/r/ethereum/comments/1rzbnql/i_built_a_free_tool_that_makes_blockchain/)**
 
 Hey everyone, I’ve been working on a side project called Blockpeek and just shipped a new update. It’s a blockchain transaction scanner that tries to explain what actually happened in plain English instead of just showing raw hex data. You paste a transaction hash (or upload a screenshot from your wallet/exchange) and it tells you: ∙ What was sent, to who, from who ∙ The USD value at the time ∙ Gas fees in USD ∙ Which chain it was on (auto-detects Ethereum, BSC, Arbitrum, Polygon, Base, Solana, Bitcoin, Tron and more) It’s free, no login required. Would genuinely love feedback — what’s missing, what’s broken, what would make it actually useful for you. blockpeek.io
 
-4h ago
+6h ago
 
 ---
 
@@ -80,7 +88,7 @@ Hey everyone, I’ve been working on a side project called Blockpeek and just sh
 
 I’m looking for a way to swap my Bitcoin to Ethereum without KYC, so obviously i found thorchain, but unfortunately it’s not available here in the U.S, and i heard it’s very expensive as well. Where should I do it you think? sorry if this question was already asked in past but i couldnt find an answer after bit lf time checking.
 
-6h ago
+7h ago
 
 ---
 
@@ -88,7 +96,7 @@ I’m looking for a way to swap my Bitcoin to Ethereum without KYC, so obviously
 
 Whenever I see an exchange offering 40% APY on stablecoins, I run the other way immediately. Yield doesn't come from nowhere. I look for platforms that just focus on standard spot trading, verifiable proof of reserves, and steady, quiet growth. That's exactly why I've stuck with Coinbase and BitMart over the years. Solid security beats flashy yields every single time.
 
-3h ago
+4h ago
 
 ---
 
@@ -96,7 +104,7 @@ Whenever I see an exchange offering 40% APY on stablecoins, I run the other way 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -112,7 +120,7 @@ Hey everybody, I've been building a no code visual smart contract builder for so
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -140,14 +148,6 @@ I'm traveling next month across a few different countries and really want to spe
 
 ---
 
-**[Daily General Discussion March 18, 2026](https://www.reddit.com/r/ethereum/comments/1rwuoph/daily_general_discussion_march_18_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -164,13 +164,13 @@ Benzinga • 2d ago
 
 Ethereum bottom call backed by multiple signals, says Tom Lee. Strong upside narrative remains. Credibility tempered by past miss. Ethereum's price is once again at ...
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqeG6AaBT0GnCn8UiyUeQZ-hU5OVdmkFg63lPpdoR0ZoXHF3mWRkS0_6&gaa_ts=69be1f30&gaa_sig=uuMHroVk_bZFRg4ZEeEswrjOao0A0r-WzNGzvy--K0-kjJmI6F-diS_CZRnO-0pjiLLG1R2aOem7zgvLWqK_6g%3D%3D)**
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqdFBGmo7LSOQj512Wakutc4v9lSMHUtZ8K2cHv3uhINXBExYElkGrKa&gaa_ts=69be2fbc&gaa_sig=SB_ruGgXRiyfxcOsI2czNsyBv0oPoo2nOTGwwvhY9oFTniEGhmviE36j8K3HsYzXgGdJ2UzSBHqhIlkvCzMZ0w%3D%3D)**
 
-MarketWatch • 14h ago
+MarketWatch • 15h ago
 
 ---
 
@@ -178,7 +178,7 @@ MarketWatch • 14h ago
 
 “Ethereum, to me, is really gonna be where Wall Street meets crypto,” a source told NYNext.
 
-New York Post • 17h ago
+New York Post • 18h ago
 
 ---
 
@@ -187,6 +187,14 @@ New York Post • 17h ago
 Amundi launched the $100 million Spiko Amundi Overnight Swap Fund on Ethereum and Stellar with Chainlink support.
 
 The Block • 1d ago
+
+---
+
+**[The rise of ETH gambling sites and Africa’s expanding digital economy](https://africa.businessinsider.com/local/lifestyle/the-rise-of-eth-gambling-sites-and-africas-expanding-digital-economy/l056ctt)**
+
+#FeaturedPost
+
+Business Insider Africa • 14h ago
 
 ---
 
@@ -210,7 +218,7 @@ Decrypt • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 14h ago
+Fortune • 15h ago
 
 ---
 
@@ -218,13 +226,7 @@ Fortune • 14h ago
 
 Ethereum hit a new record high in 2025, but it still fell short of the $5,000 milestone.
 
-The Motley Fool • 16h ago
-
----
-
-**[BitMine Stock Drops 8% as Ethereum Pullback, High Costs, and Hawkish Fed Weigh on Investors](https://www.tipranks.com/news/bitmine-stock-drops-8-as-ethereum-pullback-high-costs-and-hawkish-fed-weigh-on-investors)**
-
-TipRanks • 1d ago
+The Motley Fool • 17h ago
 
 ---
 
@@ -238,7 +240,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 363 • 💬 47 • ⏱️ 19:43 • 12h ago
+👁️ 9K • 👍 363 • 💬 47 • ⏱️ 19:43 • 13h ago
 
 ---
 
@@ -248,7 +250,7 @@ Ethereum is showing strong bullish signals, with analysts predicting a major reb
 
 📺 Crypto Sensei
 
-👁️ 5K • 👍 439 • 💬 46 • ⏱️ 12:42 • 14h ago
+👁️ 5K • 👍 439 • 💬 46 • ⏱️ 12:42 • 15h ago
 
 ---
 
@@ -258,7 +260,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 218 • 👍 25 • 💬 2 • ⏱️ 3:56 • 1h ago
+👁️ 218 • 👍 25 • 💬 2 • ⏱️ 3:56 • 2h ago
 
 ---
 
@@ -268,7 +270,7 @@ BITCOIN & ALTCOIN WARNING: Price Targets Exposed!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 5K • 👍 220 • 💬 44 • ⏱️ 16:50 • 9h ago
+👁️ 5K • 👍 220 • 💬 44 • ⏱️ 16:50 • 10h ago
 
 ---
 
@@ -286,7 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 94 • 💬 7 • ⏱️ 4:30 • 14h ago
+👁️ 1K • 👍 94 • 💬 7 • ⏱️ 4:30 • 15h ago
 
 ---
 
@@ -306,7 +308,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 208 • 👍 8 • 💬 2 • ⏱️ 4:56 • 18h ago
+👁️ 208 • 👍 8 • 💬 2 • ⏱️ 4:56 • 19h ago
 
 ---
 

@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-03-21T04:17:03.706237+00:00"
+          "dateModified": "2026-03-21T05:27:44.292531+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -614,39 +614,6 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="reddit-carousel-artificial">
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ryzllf/suno_is_shutting_down_its_current_ai_models_heres/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1ryzllf/suno_is_shutting_down_its_current_ai_models_heres/" target="_blank" onclick="event.stopPropagation();">Suno is shutting down its current AI models. Here's what actually changes.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Suno settled with Warner Music Group in November and agreed to retire all existing models trained on unlicensed music. New licensed models replace them in 2026. When they launch, the old ones are gone permanently. For users this means: free tier loses download access entirely. Paid tier gets monthly download caps. Suno also acquired Songkick from Warner as part of the deal. The more interesting part is what this means for the industry. UMG and Sony are still actively suing Suno. Warner was the only major to settle. So Suno is launching licensed models while still in litigation with two of the three majors. Udio took a different path. They settled with UMG and pivoted to a walled garden remix platform. Nothing you create can leave the platform. Full breakdown: https://www.votemyai.com/blog/suno-relaunch-2026.html What do you think happens to output quality when the training data shrinks to a single label's catalog?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1774021059.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rz9yg5/we_thought_our_system_prompt_was_private_turns/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -758,6 +725,37 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rzhvx0/the_architecture_of_learning_part_1/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/NG02a2Qzb2pwYnFnMfszuLkwjmzePDtuh2cAjPmrP4_8AxD1xUx4E0D7Ihdo.png?width=320&crop=smart&auto=webp&s=ce275689f5d5d1a3a5f4360a7323e403e8619286" alt="The Architecture of Learning Part 1" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1rzhvx0/the_architecture_of_learning_part_1/" target="_blank" onclick="event.stopPropagation();">The Architecture of Learning Part 1</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1774066199.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rzdkwl/ai_tool_shows_promise_in_diagnosing_advanced/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -856,39 +854,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rzduy4/ai_agents_are_about_to_start_using_your_saas_on/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1rzduy4/ai_agents_are_about_to_start_using_your_saas_on/" target="_blank" onclick="event.stopPropagation();">AI agents are about to start using your SaaS on behalf of your customers. Is your product ready?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Something changed in the last year. AI agents aren't just chatbots anymore - they're operating products. Claude has computer use. Agents navigate UIs, click buttons, fill forms, complete workflows. Your customers are going to start sending AI agents to do tasks in your product. Some already are. The problem: your SaaS is probably broken for agents. Not your fault - nobody designed for this. But here's what trips them up: - Skeleton loaders that look like empty states - Auto-save that triggers on every keystroke (agents don't know to wait) - Workspace switchers that change all visible data - OAuth popups that open in new windows - MFA flows agents literally cannot complete - Async processes that take minutes and look stalled - "Approve" buttons that trigger paid operations with no confirmation I ran into all of this when I had Claude navigate my own product (BrandyBee). It kept asking "is this broken?" at perfectly normal loading screens. So I built **operate.txt** - a simple YAML file at yourdomain.com/operate.txt that documents how your product actually works for AI agents. Loading states, irreversible actions, form dependencies, async operations, task flows. Think of it as product documentation specifically for AI agents operating your product. I open-sourced the spec with examples: https://github.com/serdem1/operate.txt The creation process: open your product alongside Claude, tell it to navigate like a first-time user, watch where it hesitates. Those spots become your highest-priority entries. Have Claude draft the file, you correct what it gets wrong. operate.txt is a competitive advantage today. In 3 years it'll be a baseline expectation. The SaaS products where agents succeed reliably will be the ones customers choose.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1774054553.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rzee1j/aipowered_robot_learns_how_to_harvest_tomatoes/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -939,6 +904,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rzduy4/ai_agents_are_about_to_start_using_your_saas_on/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1rzduy4/ai_agents_are_about_to_start_using_your_saas_on/" target="_blank" onclick="event.stopPropagation();">AI agents are about to start using your SaaS on behalf of your customers. Is your product ready?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Something changed in the last year. AI agents aren't just chatbots anymore - they're operating products. Claude has computer use. Agents navigate UIs, click buttons, fill forms, complete workflows. Your customers are going to start sending AI agents to do tasks in your product. Some already are. The problem: your SaaS is probably broken for agents. Not your fault - nobody designed for this. But here's what trips them up: - Skeleton loaders that look like empty states - Auto-save that triggers on every keystroke (agents don't know to wait) - Workspace switchers that change all visible data - OAuth popups that open in new windows - MFA flows agents literally cannot complete - Async processes that take minutes and look stalled - "Approve" buttons that trigger paid operations with no confirmation I ran into all of this when I had Claude navigate my own product (BrandyBee). It kept asking "is this broken?" at perfectly normal loading screens. So I built **operate.txt** - a simple YAML file at yourdomain.com/operate.txt that documents how your product actually works for AI agents. Loading states, irreversible actions, form dependencies, async operations, task flows. Think of it as product documentation specifically for AI agents operating your product. I open-sourced the spec with examples: https://github.com/serdem1/operate.txt The creation process: open your product alongside Claude, tell it to navigate like a first-time user, watch where it hesitates. Those spots become your highest-priority entries. Have Claude draft the file, you correct what it gets wrong. operate.txt is a competitive advantage today. In 3 years it'll be a baseline expectation. The SaaS products where agents succeed reliably will be the ones customers choose.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1774054553.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rz33jy/anthropics_claude_code_had_a_workspace_trust/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -972,20 +970,24 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rzhvx0/the_architecture_of_learning_part_1/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1rzdnvo/ai_shows_promise_for_flood_forecasting_and_water/', '_blank')">
                     <div class="post-thumbnail">
                         
-                        <img src="https://external-preview.redd.it/NG02a2Qzb2pwYnFnMfszuLkwjmzePDtuh2cAjPmrP4_8AxD1xUx4E0D7Ihdo.png?width=320&crop=smart&auto=webp&s=ce275689f5d5d1a3a5f4360a7323e403e8619286" alt="The Architecture of Learning Part 1" onerror="this.style.display='none'" loading="lazy">
+                        <img src="https://external-preview.redd.it/J1Wl2uJX88UiWis0oRM_GRxyCnvSnnZxfFoqA40oG5A.jpeg?width=640&crop=smart&auto=webp&s=04bab865e9858b7ce3f58b955ce93de1b4ac6273" alt="AI shows promise for flood forecasting and water security in data scarce regions" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1rzhvx0/the_architecture_of_learning_part_1/" target="_blank" onclick="event.stopPropagation();">The Architecture of Learning Part 1</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1rzdnvo/ai_shows_promise_for_flood_forecasting_and_water/" target="_blank" onclick="event.stopPropagation();">AI shows promise for flood forecasting and water security in data scarce regions</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            New research reveals that "foundation models" trained on vast, general time-series data may be able to forecast river flows accurately, even in regions with little or no local hydrological records. The approach could improve flood warnings, drought planning and water-resource management in parts of the world where monitoring data is limited. The study, published in Machine Learning: Earth, was conducted by researchers from The University of Texas at Austin and Hydrotify LLC. In many parts of the world, river gauges are sparse, records are incomplete and monitoring networks are difficult to maintain. Without long, reliable datasets, communities often have little warning before floods, limited insight into drought risk and fewer tools to guide water allocation and infrastructure planning. As climate pressures grow, the ability to produce useful forecasts without relying on extensive local records is becoming increasingly important. The research team evaluated several advanced AI models known as time-series foundational models (TSFMs). Originally trained using time series data from sectors such as energy, transport and climate, these TSFMs were tested on a large US river dataset comprising more than 500 basins. One model in particular, called Sundial, performed nearly as well as a long-short term memory (LSTM) model that had been fully trained using decades of river flow records. The AI models showed their strongest performance in basins dominated by strong seasonal patterns, such as snowmelt-driven flow. Commenting on the findings, Dr. Alexander Sun from the University of Texas at Austin and Hydrotify LLC, said, "Reliable water information is essential for communities everywhere, but many regions still lack the long-term records needed to support traditional forecasting methods. Approaches like this show how new AI tools could help close that gap by giving more places access to data-driven predictions. "While there is still progress to be made, especially in more complex river systems, this work points to a future where improved forecasting is possible even in areas that have been underserved for decades."
+                        </div>
                         
 
                         <!-- Metadata -->
@@ -993,10 +995,24 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1774066199.0"></span>
+                                    <span data-timestamp="1774054024.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://phys.org/news/2026-03-ai-scarce-regions.html" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>phys.org</span>
+                                    </a>
+                                </div>
                                 
                             </div>
                         </div>
@@ -1026,7 +1042,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-21T04:16:42.864234+00:00">Updated 2026-03-21T04:16:42.864234+00:00</small>
+        <small data-timestamp="2026-03-21T05:27:18.653327+00:00">Updated 2026-03-21T05:27:18.653327+00:00</small>
     </div>
 </div>
 
@@ -1364,6 +1380,129 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.cnn.com/2026/03/21/business/video/pokemon-go-players-helped-train-ai-robots-digvid', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://media.cnn.com/api/v1/images/stellar/prod/118063-pokemongodatarobots-16x9-clean-thumb.jpg?c=16x9&q=w_800,c_fill');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnn.com/2026/03/21/business/video/pokemon-go-players-helped-train-ai-robots-digvid" target="_blank" onclick="event.stopPropagation();">How Pokémon Go players helped train AI delivery robots</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Pokémon Go creator Niantic Spatial reportedly used 30 billion images crowdsourced from players to build a map that will train delivery robots in a new AI venture.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNN" class="news-favicon">
+                                    <a href="https://www.cnn.com" target="_blank" onclick="event.stopPropagation();">CNN</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1774069975.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://edition.cnn.com/2026/03/21/business/video/pokemon-go-players-helped-train-ai-robots-digvid-vrtc', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://media.cnn.com/api/v1/images/stellar/prod/118063-pokemongodatarobots-clean-thumb.jpg?c=16x9&q=w_800,c_fill');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://edition.cnn.com/2026/03/21/business/video/pokemon-go-players-helped-train-ai-robots-digvid-vrtc" target="_blank" onclick="event.stopPropagation();">How Pokémon Go players helped train AI delivery robots</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Pokémon Go creator Niantic Spatial reportedly used 30 billion images crowdsourced from players to build a map that will train delivery robots in a new AI venture.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://edition.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNN" class="news-favicon">
+                                    <a href="https://edition.cnn.com" target="_blank" onclick="event.stopPropagation();">CNN</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1774069440.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.foxbusiness.com/politics/artificial-intelligence-helps-unlock-geothermal-potential', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/0/0/ai-geothermal-potential-3.jpg?ve=1&tl=1');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.foxbusiness.com/politics/artificial-intelligence-helps-unlock-geothermal-potential" target="_blank" onclick="event.stopPropagation();">Artificial intelligence helps unlock geothermal potential</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Zanskar says its AI models have made more geothermal discoveries in three years than the industry found in 30, targeting untapped U.S. energy sources.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Fox Business" class="news-favicon">
+                                    <a href="https://www.foxbusiness.com" target="_blank" onclick="event.stopPropagation();">Fox Business</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1774048396.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/03/20/trump-ai-policy-framework.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108176052-17533065232025-07-23t213416z_499070703_rc2lsfaowqx6_rtrmadp_0_usa-trump-ai.jpeg?v=1753357814&w=1920&h=1080');"></div>
@@ -1446,20 +1585,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/technology/2026/03/20/jessica-foster-maga-dream-girl-ai-fake/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.independent.co.uk/news/world/americas/us-politics/maga-ai-us-soldier-instagram-account-trump-b2942600.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/33NXRZ2FMBFT3M5ZEQR67KAUKA.jpg&w=1440');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://static.independent.co.uk/2026/03/20/12/35/Screenshot-2026-03-20-at-08-30-41.png?trim=15,0,523,0&width=1200&height=800&crop=1200:800');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.washingtonpost.com/technology/2026/03/20/jessica-foster-maga-dream-girl-ai-fake/" target="_blank" onclick="event.stopPropagation();">Thousands have swooned over this MAGA dream girl. She’s made with AI.</a>
+                            <a href="https://www.independent.co.uk/news/world/americas/us-politics/maga-ai-us-soldier-instagram-account-trump-b2942600.html" target="_blank" onclick="event.stopPropagation();">MAGA has been swooning over a beautiful Army soldier and her pro-Trump message. She is AI</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Jessica Foster’s posts place her beside fighter jets, world leaders and Trump iconography. Experts say her rise shows how AI-generated women can capture attention.
+                            The account is an example of how artificial intelligence is being used to push political agendas in wartime
                         </div>
                         
 
@@ -1469,9 +1608,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Washington Post" class="news-favicon">
-                                    <a href="https://www.washingtonpost.com" target="_blank" onclick="event.stopPropagation();">The Washington Post</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.independent.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Independent" class="news-favicon">
+                                    <a href="https://www.independent.co.uk" target="_blank" onclick="event.stopPropagation();">The Independent</a>
                                     
                                 </div>
                                 
@@ -1479,126 +1618,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1774022453.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.foxbusiness.com/politics/artificial-intelligence-helps-unlock-geothermal-potential', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/0/0/ai-geothermal-potential-3.jpg?ve=1&tl=1');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.foxbusiness.com/politics/artificial-intelligence-helps-unlock-geothermal-potential" target="_blank" onclick="event.stopPropagation();">Artificial intelligence helps unlock geothermal potential</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Zanskar says its AI models have made more geothermal discoveries in three years than the industry found in 30, targeting untapped U.S. energy sources.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Fox Business" class="news-favicon">
-                                    <a href="https://www.foxbusiness.com" target="_blank" onclick="event.stopPropagation();">Fox Business</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1774048396.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.bbc.com/news/videos/c62k8xgjkggo', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/images/ic/1024xn/ichef.bbci.co.uk/images/ic/$widthxn/p0n7xndt.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.bbc.com/news/videos/c62k8xgjkggo" target="_blank" onclick="event.stopPropagation();">Israeli strike next to British journalist is not AI-generated</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The video of the strike, hitting just metres from RT's Steve Sweeney and his crew, was recorded on Thursday in southern Lebanon.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="BBC" class="news-favicon">
-                                    <a href="https://www.bbc.com" target="_blank" onclick="event.stopPropagation();">BBC</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1774032758.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.forbes.com/sites/tylerroush/2026/03/20/super-micro-shares-plunge-25-after-co-founder-charged-in-25-billion-ai-chip-smuggling-plot/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.forbes.com/sites/tylerroush/2026/03/20/super-micro-shares-plunge-25-after-co-founder-charged-in-25-billion-ai-chip-smuggling-plot/" target="_blank" onclick="event.stopPropagation();">Super Micro Shares Plunge 25% After Co-Founder Charged In $2.5 Billion AI Chip Smuggling Plot</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Forbes" class="news-favicon">
-                                    <a href="https://www.forbes.com" target="_blank" onclick="event.stopPropagation();">Forbes</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1774012339.0"></span>
+                                    <span data-timestamp="1774023720.0"></span>
                                 </div>
                                 
                             </div>
@@ -1626,7 +1646,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-21T04:16:55.724492+00:00">Updated 2026-03-21T04:16:55.724492+00:00</small>
+        <small data-timestamp="2026-03-21T05:27:34.341164+00:00">Updated 2026-03-21T05:27:34.341164+00:00</small>
     </div>
 </div>
 
@@ -1851,10 +1871,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 547</span>
+                                    <span class="post-points">▲ 591</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 250</span>
+                                    <span style="color: #9ca3af;">💬 263</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1900,10 +1920,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 504</span>
+                                    <span class="post-points">▲ 520</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 403</span>
+                                    <span style="color: #9ca3af;">💬 410</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2146,7 +2166,7 @@ I’ve been coding a lot with AI since November, when we all noticed it got real
                                     <span class="post-points">▲ 165</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 96</span>
+                                    <span style="color: #9ca3af;">💬 97</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2192,7 +2212,7 @@ I’ve been coding a lot with AI since November, when we all noticed it got real
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 155</span>
+                                    <span class="post-points">▲ 156</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 146</span>
@@ -2292,10 +2312,10 @@ Without thinking much I said “artificial intelligence”, but having thought a
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 68</span>
+                                    <span class="post-points">▲ 69</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 67</span>
+                                    <span style="color: #9ca3af;">💬 68</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2340,7 +2360,7 @@ Without thinking much I said “artificial intelligence”, but having thought a
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-21T04:16:42.603613+00:00">Updated 2026-03-21T04:16:42.603613+00:00</small>
+        <small data-timestamp="2026-03-21T05:27:18.716393+00:00">Updated 2026-03-21T05:27:18.716393+00:00</small>
     </div>
 </div>
 
