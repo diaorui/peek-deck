@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-21T22:52:23.349725+00:00'
+updated: '2026-03-21T23:27:03.714141+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- news
 - social
 - videos
-- news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 22:52 UTC  
+**Last Updated:** March 21, 2026 at 23:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1409.29B
+**Market Cap:** $1403.51B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--44.1%
+-44.4%
 
 **All-Time Low:** $67.81
-+103775.5%
++103342.0%
 
 ---
 
@@ -89,7 +89,7 @@ Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perreno
 
 An excellent book about all the details, even people who fought the Blocksize war might have missed: https://www.youtube.com/watch?v=6YtS5ZNuuTw And excellent explanation of r/thelightningnetwork: https://www.youtube.com/watch?v=yKdK-7AtAMQ A bonus video. Lyn Alden's Full Broken Money Thesis in under 50min: https://www.youtube.com/watch?v=k3NN_NZOdhY
 
-2h ago
+3h ago
 
 ---
 
@@ -101,7 +101,7 @@ An excellent book about all the details, even people who fought the Blocksize wa
 
 **[Lightning Network might be already moving over $15B/year based on most recent data](https://www.reddit.com/r/Bitcoin/comments/1rztn0r/lightning_network_might_be_already_moving_over/)**
 
-🔗 [X (formerly Twitter)](https://x.com/LightningNewsX/status/2035261125630001359?s=20) • 7h ago
+🔗 [X (formerly Twitter)](https://x.com/LightningNewsX/status/2035261125630001359?s=20) • 8h ago
 
 ---
 
@@ -109,7 +109,7 @@ An excellent book about all the details, even people who fought the Blocksize wa
 
 Morgan Stanley allows clients to allocate between 0-4% of their portfolioa to bitcoin. Even a modest 2% could add $160 Billion dollars in capital to the BTC market.
 
-🔗 [Bitcoin Magazine](https://share.google/eNr25Ee6vq1fB2Lv1) • 42m ago
+🔗 [Bitcoin Magazine](https://share.google/eNr25Ee6vq1fB2Lv1) • 1h ago
 
 ---
 
@@ -125,7 +125,7 @@ Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Al
 
 Holder since 2015. Never soldi. Slowly accumulating. Sometimes daily trading (with alternate results). A lot of "If I did that I wold have earned this much...", and "I should have done that when..." in my mind to keep me busy if I want. Now +50% or -50% in a month has noneffect on me, I simply zoom out. I also convinces two people to buy Bitcoin. Am I officially a veteran? Where Is my badge?😄
 
-12h ago
+13h ago
 
 ---
 
@@ -133,7 +133,7 @@ Holder since 2015. Never soldi. Slowly accumulating. Sometimes daily trading (wi
 
 Bitcoin and cryptocurrency explained in a way that's fun and easy to understand.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=Jk7hYothBZw&t=2s) • 5h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=Jk7hYothBZw&t=2s) • 6h ago
 
 ---
 
@@ -141,7 +141,7 @@ Bitcoin and cryptocurrency explained in a way that's fun and easy to understand.
 
 hi, just checking in to say hi I am generally a conservative broad index ETF investor for most of my savings but jn recent years have also been buying bitcoin and and now hold 1,1 BTC. I am torn between contirnuing to buy a bit every month or stopping altogether having achieve wholecoinership. I would be interested to know how other stackers approach this
 
-3h ago
+4h ago
 
 ---
 
@@ -177,7 +177,7 @@ CoinDesk • 1d ago
 
 Despite stabilizing spot prices, investors remain defensive, with leveraged speculation cooling and realized volatility dropping from 80 to 50, suggesting a cautious market sentiment.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -213,7 +213,7 @@ Bitcoin Magazine • 1d ago
 
 **[White House Quietly Confirms A ‘Major’ Crypto Milestone As Bitcoin Braces For A Huge Price Earthquake](https://www.forbes.com/sites/digital-assets/2026/03/21/white-house-quietly-confirms-a-major-crypto-milestone-as-bitcoin-braces-for-a-huge-price-earthquake/)**
 
-Forbes • 10h ago
+Forbes • 11h ago
 
 ---
 
@@ -221,7 +221,7 @@ Forbes • 10h ago
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 1h ago
+Polymarket • 2h ago
 
 ---
 
@@ -261,7 +261,7 @@ Seal predictions and decisions with cryptographic proof anchored to Bitcoin. No 
 
 Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 33 chain analysis heuristics. Free, client-side, no tracking.
 
-⬆️ 1 • 💬 0 • 5h ago • [am-i.exposed](https://am-i.exposed/)
+⬆️ 1 • 💬 0 • 6h ago • [am-i.exposed](https://am-i.exposed/)
 
 ---
 
@@ -297,7 +297,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 An event loop for asyncio written in Rust. Contribute to RustedBytes/rsloop development by creating an account on GitHub.
 
-⬆️ 2 • 💬 0 • 39m ago • [GitHub](https://github.com/RustedBytes/rsloop)
+⬆️ 2 • 💬 0 • 1h ago • [GitHub](https://github.com/RustedBytes/rsloop)
 
 ---
 
@@ -311,7 +311,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 25K • 👍 1K • 💬 38 • ⏱️ 59:39 • 9h ago
+👁️ 31K • 👍 2K • 💬 38 • ⏱️ 59:39 • 10h ago
 
 ---
 
@@ -321,17 +321,7 @@ Bitcoin just went live at millions of businesses without anyone opting in. While
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 155 • ⏱️ 12:51 • 1d ago
-
----
-
-**[This Bitcoin Signal Has Never Failed And It Just Signaled This…](https://www.youtube.com/watch?v=H03UCveRgCA)**
-
-Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
-
-📺 CryptosRus Extra
-
-👁️ 7K • 👍 389 • 💬 202 • ⏱️ 8:34 • 23h ago
+👁️ 19K • 👍 1K • 💬 157 • ⏱️ 12:51 • 1d ago
 
 ---
 
@@ -341,7 +331,67 @@ New report exposes institutions have only just begun dipping their toes into bit
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 319 • 💬 47 • ⏱️ 1:30:42 • 1d ago
+👁️ 8K • 👍 325 • 💬 75 • ⏱️ 1:30:42 • 1d ago
+
+---
+
+**[This Bitcoin Signal Has Never Failed And It Just Signaled This…](https://www.youtube.com/watch?v=H03UCveRgCA)**
+
+Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
+
+📺 CryptosRus Extra
+
+👁️ 7K • 👍 397 • 💬 253 • ⏱️ 8:34 • 23h ago
+
+---
+
+**[Bitcoin: The Bear Market Blues](https://www.youtube.com/watch?v=jiehja20gFE)**
+
+A classic case of the bear market blues for Bitcoin. Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries: ...
+
+📺 Benjamin Cowen
+
+👁️ 62K • 👍 4K • 💬 204 • ⏱️ 11:38 • 1d ago
+
+---
+
+**[Bitcoin Just Got Its Biggest Institutional Endorsement](https://www.youtube.com/watch?v=JeIbpLfQ_oI)**
+
+A central bank buying Bitcoin would change everything. Not because of the amount… But because of what it signals. In this video ...
+
+📺 Tim Talks Finance
+
+👁️ 3K • 👍 172 • 💬 38 • ⏱️ 18:40 • 1d ago
+
+---
+
+**[“I’m still on record that Bitcoin will be $500,000 by the end of the decade.”](https://www.youtube.com/watch?v=v6PQeqlyT5g)**
+
+Ric Edelman gives Jenn Sanasie his Bitcoin prediction if the CLARITY Act passes. Full episode: https://youtu.be/bv_-UQG3ork.
+
+📺 CoinDesk
+
+👁️ 6K • 👍 21 • 💬 3 • ⏱️ 0:19 • 17h ago
+
+---
+
+**[BITCOIN: Don’t F**K This Up! (it’s coming) - BTC Price Prediction Today](https://www.youtube.com/watch?v=z5IUxATrPvI)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 8K • 👍 464 • 💬 35 • ⏱️ 13:09 • 12h ago
+
+---
+
+**[Why 0.21 Bitcoin Is The Mathematical Tipping Point (5 Year FIRE Blueprint)](https://www.youtube.com/watch?v=SeEvzpP1sQc)**
+
+Why 0.21 Bitcoin Is The Mathematical Tipping Point (5-Year Blueprint) There will only ever be enough Bitcoin mathematically for ...
+
+📺 Brad Long
+
+👁️ 2K • 👍 100 • 💬 55 • ⏱️ 12:32 • 1d ago
 
 ---
 
@@ -352,56 +402,6 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 📺 My Channel
 
 👁️ 6K • 👍 1K • 9h ago
-
----
-
-**[Bitcoin: The Bear Market Blues](https://www.youtube.com/watch?v=jiehja20gFE)**
-
-A classic case of the bear market blues for Bitcoin. Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries: ...
-
-📺 Benjamin Cowen
-
-👁️ 61K • 👍 4K • 💬 204 • ⏱️ 11:38 • 1d ago
-
----
-
-**[Bitcoin Just Got Its Biggest Institutional Endorsement](https://www.youtube.com/watch?v=JeIbpLfQ_oI)**
-
-A central bank buying Bitcoin would change everything. Not because of the amount… But because of what it signals. In this video ...
-
-📺 Tim Talks Finance
-
-👁️ 3K • 👍 168 • 💬 38 • ⏱️ 18:40 • 23h ago
-
----
-
-**[🚨 Stop watching Bitcoin price.. watch THIS instead 👀](https://www.youtube.com/watch?v=sl6uc52-XuY)**
-
-0% Fees on Gold And Silver (Earn $300k): https://www.weex.com/events/promo/0fees-gold-silver-300k?vipCode=oz5p ...
-
-📺 Altcoin Daily
-
-👁️ 9K • 👍 288 • 💬 81 • ⏱️ 1:06 • 1d ago
-
----
-
-**[“I’m still on record that Bitcoin will be $500,000 by the end of the decade.”](https://www.youtube.com/watch?v=v6PQeqlyT5g)**
-
-Ric Edelman gives Jenn Sanasie his Bitcoin prediction if the CLARITY Act passes. Full episode: https://youtu.be/bv_-UQG3ork.
-
-📺 CoinDesk
-
-👁️ 5K • 👍 18 • 💬 3 • ⏱️ 0:19 • 16h ago
-
----
-
-**[BITCOIN: Don’t F**K This Up! (it’s coming) - BTC Price Prediction Today](https://www.youtube.com/watch?v=z5IUxATrPvI)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 8K • 👍 440 • 💬 34 • ⏱️ 13:09 • 11h ago
 
 ---
 

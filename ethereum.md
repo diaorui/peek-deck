@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-21T22:52:23.355701+00:00'
+updated: '2026-03-21T23:27:03.720173+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- news
 - social
 - videos
-- news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 22:52 UTC  
+**Last Updated:** March 21, 2026 at 23:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $260.12B
+**Market Cap:** $259.05B
 Rank #2
 
 **Circulating Supply:** 120,691,752 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.4%
+-56.6%
 
 **All-Time Low:** $0.43
-+497543.1%
++495422.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone, I’ve been working on a side project called Blockpeek and just shipped a new update. It’s a blockchain transaction scanner that tries to explain what actually happened in plain English instead of just showing raw hex data. You paste a transaction hash (or upload a screenshot from your wallet/exchange) and it tells you: ∙ What was sent, to who, from who ∙ The USD value at the time ∙ Gas fees in USD ∙ Which chain it was on (auto-detects Ethereum, BSC, Arbitrum, Polygon, Base, Solana, Bitcoin, Tron and more) It’s free, no login required. Would genuinely love feedback — what’s missing, what’s broken, what would make it actually useful for you. blockpeek.io
 
-23h ago
+1d ago
 
 ---
 
@@ -186,7 +186,7 @@ New York Post • 1d ago
 
 Ethereum’s native token, Ether BITSTAMP:ETHUSD, may rise by around 25% in the coming months as its richest whale group becomes profitable for the first time since early February.Key takeaways:Whale metric signals ETH is bottoming alreadyThe unrealized profit ratio of wallets holding more than 100,0…
 
-TradingView • 6h ago
+TradingView • 7h ago
 
 ---
 
@@ -202,7 +202,7 @@ The Block • 2d ago
 
 Dubai, UAE, March  20, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto announced a major exchange bridge update that eliminates gas fees an...
 
-markets.businessinsider.com • 22h ago
+markets.businessinsider.com • 23h ago
 
 ---
 
@@ -226,7 +226,7 @@ The Motley Fool • 1d ago
 
 Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 10h ago
+Polymarket • 11h ago
 
 ---
 
@@ -240,17 +240,17 @@ BlackRock just launched a staking Ethereum ETF—but is it really a win for inve
 
 📺 Coin Bureau
 
-👁️ 8K • 👍 457 • 💬 63 • ⏱️ 18:11 • 8h ago
+👁️ 10K • 👍 533 • 💬 62 • ⏱️ 18:11 • 9h ago
 
 ---
 
-**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=FeGxOYyXTyE)**
+**[BITCOIN PRICE HISTORY REPEATING (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=SNd96DMH8Wc)**
 
-ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
+BITCOIN PRICE HISTORY REPEATING (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Chad Colby
+📺 Crypto World
 
-👁️ 5K • 👍 1K • 6h ago
+👁️ 646 • 👍 52 • 💬 6 • ⏱️ 13:52 • 33m ago
 
 ---
 
@@ -260,7 +260,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 453 • 💬 33 • ⏱️ 19:43 • 1d ago
+👁️ 11K • 👍 462 • 💬 33 • ⏱️ 19:43 • 1d ago
 
 ---
 
@@ -270,7 +270,17 @@ Ethereum is showing strong bullish signals, with analysts predicting a major reb
 
 📺 Crypto Sensei
 
-👁️ 6K • 👍 461 • 💬 55 • ⏱️ 12:42 • 1d ago
+👁️ 6K • 👍 462 • 💬 55 • ⏱️ 12:42 • 1d ago
+
+---
+
+**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=FeGxOYyXTyE)**
+
+ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
+
+📺 Chad Colby
+
+👁️ 6K • 👍 1K • 7h ago
 
 ---
 
@@ -280,17 +290,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 119 • 💬 5 • ⏱️ 3:56 • 19h ago
-
----
-
-**[BE READY FOR THIS DUMP!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=4IMp91ZMHw4)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 252 • 👍 14 • 💬 1 • ⏱️ 5:16 • 12h ago
+👁️ 2K • 👍 120 • 💬 5 • ⏱️ 3:56 • 20h ago
 
 ---
 
@@ -300,7 +300,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 83 • 💬 4 • ⏱️ 4:32 • 8h ago
+👁️ 1K • 👍 89 • 💬 4 • ⏱️ 4:32 • 9h ago
+
+---
+
+**[BE READY FOR THIS DUMP!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=4IMp91ZMHw4)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 252 • 👍 14 • 💬 1 • ⏱️ 5:16 • 13h ago
+
+---
+
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=jDn-cQEKKMQ)**
+
+TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
+
+📺 My Channel
+
+👁️ 6K • 👍 1K • 9h ago
 
 ---
 
@@ -308,27 +328,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 EllioTrades
 
-👁️ 11K • 👍 234 • 💬 35 • ⏱️ 1:07 • 2d ago
-
----
-
-**[The Next Crypto Crash Is HERE? 😳](https://www.youtube.com/watch?v=ONDafP5yxAw)**
-
-This is all about why the next big crypto crash could be about to hit. Big news for all Bitcoin, Ethereum, Solana and Altcoin ...
-
-📺 Investing Made Simple
-
-👁️ 6K • 👍 474 • ⏱️ 11:34 • 8h ago
-
----
-
-**[ETF OUT FLOW?  - Latest Crypto Market News Today &amp; BTC - ETH Update](https://www.youtube.com/watch?v=H3SwfH8q-Lc)**
-
-ETF OUT FLOW? - Latest Crypto Market News Today & BTC - ETH Update Welcome to Al Makkah Tech & Business Hub!
-
-📺 AL MAKKAH TECH & BUSINESS HUB
-
-👁️ 440 • 👍 107 • 💬 7 • ⏱️ 11:58 • 3h ago
+👁️ 11K • 👍 239 • 💬 35 • ⏱️ 1:07 • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-21T22:52:23.341286+00:00'
+updated: '2026-03-21T23:27:03.705313+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- news
 - social
 - videos
-- news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 21, 2026 at 22:52 UTC  
+**Last Updated:** March 21, 2026 at 23:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Growth without people.
 
-🔗 [driscollglobe.com](https://www.driscollglobe.com/p/the-intelligence-curse-is-coming) • 3h ago
+🔗 [driscollglobe.com](https://www.driscollglobe.com/p/the-intelligence-curse-is-coming) • 4h ago
 
 ---
 
@@ -57,7 +57,7 @@ So we built an internal AI tool with a pretty detailed system prompt, includes i
 
 following up on a discussion from earlier a pattern that keeps showing up in real systems: most control happens after execution - retries - state checks - monitoring - idempotency patches but the actual decision to execute is often implicit if the agent can call the tool, the action runs in most other systems we separate: - capability (can call) - authority (allowed to execute) agents usually collapse those into one so the question becomes: where should the actual allow/deny decision live? - inside the agent loop? - inside tool wrappers? - as a centralized policy layer? - somewhere else entirely? or are we all still letting the agent decide and patching things after the fact?
 
-3h ago
+4h ago
 
 ---
 
@@ -65,7 +65,7 @@ following up on a discussion from earlier a pattern that keeps showing up in rea
 
 SysSignal is for people who follow AI + data center infrastructure. It aggregates news across the space and creates a daily summary of the biggest topics, so it’s easier to keep up without bouncing between sites. Mostly built it for myself, but figured others here might get value from it too. If you find feeds that would be useful you can submit them through the website and we can get them added in. Feel free to give any feedback and critiques!
 
-🔗 [syssignal.com](https://syssignal.com/) • 4h ago
+🔗 [syssignal.com](https://syssignal.com/) • 5h ago
 
 ---
 
@@ -79,7 +79,7 @@ SysSignal is for people who follow AI + data center infrastructure. It aggregate
 
 With AI becoming more and more of a topic, does anyone here ever thing about what our kids are going to do to for jobs as they get older? I have a 1 year old and a 3 year old. I’m so nervous for them and have no idea what jobs will be available because we keep saying jobs will be replaced by AI. How are people going to be able to make money? As for my current job, I work from home and while yes my job can be replaced, I speak with people over the phone a lot and I know people still need and enjoy human contact. For now it’s good but I have no idea how it will be in 10 years. Anyway, does anyone else think about this? I’ve heard talks that college may not be a thing in 10 years. I’m still saving for their college as that can roll over to a Roth but like what are we doing? Parents how are we preparing for this? I know we can push for jobs like trades, healthcare and nursing or entrepreneurship but I’m not sure what else will be out there. I also wanted to add, in the event that I ever do get laid off or my husband did my plan B is to just work some jobs at Target or the grocery store, but what happens when they all get replaced by AI?!?
 
-20h ago
+21h ago
 
 ---
 
@@ -93,7 +93,7 @@ With AI becoming more and more of a topic, does anyone here ever thing about wha
 
 Wheelchair users with severe disabilities can often navigate tight spaces better than most robotic systems can. A wave of new smart-wheelchair research, including findings presented in Anaheim, Calif., earlier this month, is now testing whether AI-powered systems can, or should, fully close this gap. Christian Mandel—senior researcher at the German Research Center for Artificial Intelligence (DFKI) in Bremen, Germany—co-led a research team together with his colleague Serge Autexier that developed prototype sensor-equipped electric wheelchairs designed to navigate a roomful of potential obstacles. The researchers also tested a new safety system that integrated sensor data from the wheelchair and from sensors in the room, including from drone-based color and depth cameras. Mandel says the team’s smart wheelchairs were both semiautonomous and autonomous. “Semiautonomous is the shared control system where the person sitting in the wheelchair uses the joystick to drive,” Mandel says. “Fully autonomous is controlled by natural-language input. You say, ‘Please drive me to the coffee machine.’ ”
 
-🔗 [IEEE Spectrum](https://spectrum.ieee.org/autonomous-smart-wheelchair) • 15h ago
+🔗 [IEEE Spectrum](https://spectrum.ieee.org/autonomous-smart-wheelchair) • 16h ago
 
 ---
 
@@ -121,7 +121,7 @@ Chemists may soon have one less rigorous step to worry about when searching for 
 
 At Nvidia's GTC conference this week, CEO Nvidia Jensen Huang dedicated a major part of his keynote to OpenClaw, a technology that didn't exist six months ago.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -151,13 +151,13 @@ Reuters • 23h ago
 
 The technology assisted with everything from marketing and pricing to suggesting which walls to repaint.
 
-Fortune • 13h ago
+Fortune • 14h ago
 
 ---
 
 **[The Trillion Dollar Race to Automate Our Entire Lives](https://www.wsj.com/tech/ai/claude-code-cursor-codex-vibe-coding-52750531?gaa_at=eafs&gaa_n=AWEtsqfSLmZFhnRHMy3L-oXEm8WMSdeQ43gRoIEZ0-63nFW_vV8XGE297T2_&gaa_ts=69bf1eaa&gaa_sig=M8mVCiJUiUL5SIQIBwgK8yyfhdt3f9dX9t6KI2RPPGl4rIkHn4f62T94vDB6W6_NVHMpy5kFQuGet9_wkgDF7g%3D%3D)**
 
-WSJ • 19h ago
+WSJ • 20h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Times • 1d ago
 
 Zanskar says its AI models have made more geothermal discoveries in three years than the industry found in 30, targeting untapped U.S. energy sources.
 
-Fox Business • 23h ago
+Fox Business • 1d ago
 
 ---
 
@@ -227,7 +227,7 @@ Last December, tens of thousands of Claude users around the world had a conversa
 
 **[Tinybox- offline AI device 120B parameters](https://news.ycombinator.com/item?id=47470773)**
 
-⬆️ 171 • 💬 100 • 2h ago • [tinygrad.org](https://tinygrad.org/#tinybox)
+⬆️ 171 • 💬 100 • 3h ago • [tinygrad.org](https://tinygrad.org/#tinybox)
 
 ---
 
@@ -278,33 +278,23 @@ Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of halluci
 
 ## YouTube Videos: "ai"
 
-**[Bernie vs. Claude](https://www.youtube.com/watch?v=h3AtWdeu_G0)**
-
-I spoke to Anthropic's AI agent Claude about AI collecting massive amounts of personal data and how that information is being ...
-
-📺 Senator Bernie Sanders
-
-👁️ 2.2M • 👍 129K • 💬 14K • ⏱️ 9:18 • 2d ago
-
----
-
 **[The Biggest Crack in the AI Narrative Has Finally Arrived.](https://www.youtube.com/watch?v=cXtosfAukLs)**
 
 The AI boom has rocketed the stock prices of Nvidia, Amazon, Apple, Tesla, Microsoft, Google and Meta. But now the AI boom ...
 
 📺 New Money
 
-👁️ 25K • 👍 1K • 💬 140 • ⏱️ 15:50 • 10h ago
+👁️ 33K • 👍 1K • 💬 159 • ⏱️ 15:50 • 10h ago
 
 ---
 
-**[WARNING: AI Takeover Will Erase 300 Million Jobs By 2030 - Do This NOW To Survive](https://www.youtube.com/watch?v=UCcD75LqB84)**
+**[Bernie vs. Claude](https://www.youtube.com/watch?v=h3AtWdeu_G0)**
 
-AI is no longer a future problem. It is already reshaping the job market and most people have not fully realised what is coming next ...
+I spoke to Anthropic's AI agent Claude about AI collecting massive amounts of personal data and how that information is being ...
 
-📺 Scott Kuru
+📺 Senator Bernie Sanders
 
-👁️ 13K • 👍 520 • 💬 147 • ⏱️ 12:49 • 1d ago
+👁️ 2.2M • 👍 130K • 💬 14K • ⏱️ 9:18 • 2d ago
 
 ---
 
@@ -314,7 +304,7 @@ Google just dropped a major update to AI Studio, built around its new Antigravit
 
 📺 AI Revolution
 
-👁️ 43K • 👍 915 • 💬 63 • ⏱️ 10:14 • 23h ago
+👁️ 45K • 👍 948 • 💬 63 • ⏱️ 10:14 • 1d ago
 
 ---
 
@@ -324,17 +314,7 @@ UPDATE! We just put together 2 mega guides for you. Guide #1 shows you exactly h
 
 📺 Chris Koerner on The Koerner Office Podcast
 
-👁️ 76K • 👍 3K • 💬 481 • ⏱️ 30:54 • 23h ago
-
----
-
-**[Grok AI Stopped FREE Videos Generation | Here&#39;s What to do](https://www.youtube.com/watch?v=QlzLbWp92YE)**
-
-Join my private community: https://www.skool.com/automation-bootcamp-cashcoach Grok just stopped its free video and image ...
-
-📺 Jacksons AI
-
-👁️ 35K • 👍 1K • 💬 200 • ⏱️ 4:08 • 1d ago
+👁️ 88K • 👍 4K • 💬 500 • ⏱️ 30:54 • 1d ago
 
 ---
 
@@ -344,7 +324,17 @@ Take your personal data back with Incogni! Use code FADS at the link below and g
 
 📺 Fads
 
-👁️ 18K • 👍 1K • 💬 193 • ⏱️ 12:05 • 1d ago
+👁️ 20K • 👍 1K • 💬 208 • ⏱️ 12:05 • 1d ago
+
+---
+
+**[Grok AI Stopped FREE Videos Generation | Here&#39;s What to do](https://www.youtube.com/watch?v=QlzLbWp92YE)**
+
+Join my private community: https://www.skool.com/automation-bootcamp-cashcoach Grok just stopped its free video and image ...
+
+📺 Jacksons AI
+
+👁️ 36K • 👍 1K • 💬 204 • ⏱️ 4:08 • 1d ago
 
 ---
 
@@ -354,7 +344,27 @@ Here's the AI News you probably missed this week. Head to http://hostinger.com/m
 
 📺 Matt Wolfe
 
-👁️ 47K • 👍 2K • 💬 178 • ⏱️ 35:30 • 1d ago
+👁️ 49K • 👍 2K • 💬 179 • ⏱️ 35:30 • 1d ago
+
+---
+
+**[How To Use Super GROK AI for Free – (New Method For Beginners)](https://www.youtube.com/watch?v=0D05Lwo4o18)**
+
+Grok AI is one of the most powerful AI tools right now, but many people are struggling to use it because of the high cost.
+
+📺 Creative Jane
+
+👁️ 3K • 👍 82 • 💬 17 • ⏱️ 5:30 • 12h ago
+
+---
+
+**[How AI is Causing a White Collar Purge](https://www.youtube.com/watch?v=Zcpj-U5lcAc)**
+
+A generation was told that degrees meant security. Now those same jobs are disappearing, fast. From finance and law to tech and ...
+
+📺 The Infographics Show
+
+👁️ 153K • 👍 4K • 💬 1K • ⏱️ 13:28 • 1d ago
 
 ---
 
@@ -364,17 +374,7 @@ The company that promised AI would do the job of 10 people, can't even do the jo
 
 📺 Mo Bitar
 
-👁️ 170K • 👍 8K • 💬 2K • ⏱️ 7:16 • 2d ago
-
----
-
-**[M2.7 just BROKE the Entire Industry...](https://www.youtube.com/watch?v=7_Q8ECC9PYA)**
-
-Try SerpApi https://serpapi.link/wes-roth Click the link above to get 250 free credits to start building right now. My Links ...
-
-📺 Wes Roth
-
-👁️ 58K • 👍 2K • 💬 291 • ⏱️ 25:06 • 2d ago
+👁️ 173K • 👍 8K • 💬 2K • ⏱️ 7:16 • 2d ago
 
 ---
 
@@ -390,7 +390,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 249,720 • ❤️ 733 • 11d ago
+⬇️ 249,720 • ❤️ 736 • 11d ago
 
 ---
 
@@ -402,7 +402,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 129,211 • ❤️ 992 • 22h ago
+⬇️ 129,211 • ❤️ 995 • 23h ago
 
 ---
 
@@ -414,7 +414,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 11,727 • ❤️ 689 • 10d ago
+⬇️ 11,727 • ❤️ 691 • 10d ago
 
 ---
 
@@ -426,7 +426,7 @@ Mistral-Small-4-119B-2603 is a hybrid MoE model (119B params, 6.5B active) suppo
 
 `119.4B`
 
-⬇️ 9,858 • ❤️ 274 • 4d ago
+⬇️ 9,858 • ❤️ 276 • 4d ago
 
 ---
 
@@ -442,6 +442,16 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 ---
 
+**[Foundation-1](https://huggingface.co/RoyalCities/Foundation-1)**
+
+*Royal Cities*
+
+Foundation-1 is a structured text-to-sample model for music production, enabling precise control over instrumentation, timbre, FX, and musical structure (tempo, key, bar count) for generating coherent, production-ready audio loops.
+
+⬇️ 0 • ❤️ 215 • 5d ago
+
+---
+
 **[GLM-OCR](https://huggingface.co/zai-org/GLM-OCR)**
 
 *Z.ai*
@@ -454,16 +464,6 @@ GLM-OCR is a multimodal OCR model for complex document understanding, excelling 
 
 ---
 
-**[Foundation-1](https://huggingface.co/RoyalCities/Foundation-1)**
-
-*Royal Cities*
-
-Foundation-1 is a structured text-to-sample model for music production, enabling precise control over instrumentation, timbre, FX, and musical structure (tempo, key, bar count) for generating coherent, production-ready audio loops.
-
-⬇️ 0 • ❤️ 214 • 5d ago
-
----
-
 **[OmniCoder-9B](https://huggingface.co/Tesslate/OmniCoder-9B)**
 
 *Tesslate*
@@ -472,7 +472,7 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 `text-generation`
 
-⬇️ 17,367 • ❤️ 341 • 8d ago
+⬇️ 17,367 • ❤️ 342 • 8d ago
 
 ---
 
@@ -484,7 +484,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 335,992 • ❤️ 586 • 17d ago
+⬇️ 335,992 • ❤️ 589 • 17d ago
 
 ---
 
@@ -496,7 +496,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 `image-text-to-text` `9.7B`
 
-⬇️ 3,016,919 • ❤️ 966 • 19d ago
+⬇️ 3,016,919 • ❤️ 967 • 19d ago
 
 ---
 
@@ -510,7 +510,7 @@ Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 25 • 💬 2 • ⭐ 34,884 • 14mo ago
+▲ 25 • 💬 2 • ⭐ 35,439 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -540,6 +540,18 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 ▲ 16 • 💬 0 • ⭐ 36,159 • 13mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet)
+
+---
+
+**[AutoDev: Automated AI-Driven Development](https://huggingface.co/papers/2403.08299)**
+
+*Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)*
+
+AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
+
+▲ 12 • 💬 1 • ⭐ 10,822 • 24mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
 ---
 
@@ -623,18 +635,6 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 ---
 
-**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
-
-*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
-
-Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
-
-▲ 48 • 💬 2 • ⭐ 50,611 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -645,7 +645,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 47.9k • 🔱 6.6k • 20h ago
+⭐ 48.1k • 🔱 6.7k • 21h ago
 
 ---
 
@@ -675,7 +675,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 11.9k • 🔱 1.1k • 3d ago
+⭐ 11.9k • 🔱 1.1k • 4d ago
 
 ---
 
@@ -685,7 +685,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.2k • 🔱 736 • 16h ago
+⭐ 10.2k • 🔱 736 • 17h ago
 
 ---
 
@@ -695,7 +695,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 9.6k • 🔱 482 • 5h ago
+⭐ 9.6k • 🔱 484 • 6h ago
 
 ---
 
@@ -705,17 +705,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 6.0k • 🔱 906 • 2h ago
-
----
-
-**[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)**
-
-734+ structured cybersecurity skills for AI agents · MITRE ATT&CK mapped · agentskills.io open standard · Works with Claude Code, GitHub Copilot, OpenAI Codex CLI, Cursor, Gemini CLI & 20+ platforms · Penetration testing, DFIR, threat intel, cloud security & more · Apache 2.0
-
-`Python` `ai-agents` `claude` `claude-code` `cloud-security` `cybersecurity`
-
-⭐ 3.6k • 🔱 355 • 9h ago
+⭐ 6.0k • 🔱 911 • 1h ago
 
 ---
 
@@ -725,7 +715,17 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 3.6k • 🔱 308 • 2h ago
+⭐ 3.6k • 🔱 310 • 3h ago
+
+---
+
+**[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)**
+
+734+ structured cybersecurity skills for AI agents · MITRE ATT&CK mapped · agentskills.io open standard · Works with Claude Code, GitHub Copilot, OpenAI Codex CLI, Cursor, Gemini CLI & 20+ platforms · Penetration testing, DFIR, threat intel, cloud security & more · Apache 2.0
+
+`Python` `ai-agents` `claude` `claude-code` `cloud-security` `cybersecurity`
+
+⭐ 3.6k • 🔱 355 • 10h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-21T22:52:23.358910+00:00'
+updated: '2026-03-21T23:27:03.723433+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 21, 2026 at 22:52 UTC  
+**Last Updated:** March 21, 2026 at 23:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
-9h ago
+10h ago
 
 ---
 
 **[Ringbot: A monocycle robot developed by the Robotics and Institute (RAI) that uses internal legs for balance and acrobatic maneuvers](https://www.reddit.com/r/robotics/comments/1rztuum/ringbot_a_monocycle_robot_developed_by_the/)**
 
-7h ago
+8h ago
 
 ---
 
 **[You eventually start to realize, no job is safe](https://www.reddit.com/r/robotics/comments/1rzftd8/you_eventually_start_to_realize_no_job_is_safe/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -72,7 +72,7 @@ Testing the built-in 3D reconstruction algorithm of the Viobot2 — the result l
 
 It's one of the sample tasks I'm planning to demonstrate to the guests of my upcoming conference. ( 120 characters limit bypass )
 
-9h ago
+10h ago
 
 ---
 
@@ -94,7 +94,7 @@ Don't be surprised if you meet humanoid robots on the streets of Beijing at midn
 
 **[FINDING THE RIGHT METAPHOR (Edited)](https://www.reddit.com/r/robotics/comments/1s040cn/finding_the_right_metaphor_edited/)**
 
-54m ago
+1h ago
 
 ---
 
@@ -162,7 +162,7 @@ Engadget • 2d ago
 
 It took nature millions of years to create intelligent, adaptive species. Researchers at Northwestern University in Illinois are using AI to evolve robots in minutes. The result is a robot that is agile, highly adaptive, and technically indestructible.
 
-New Atlas • 10h ago
+New Atlas • 11h ago
 
 ---
 
@@ -192,43 +192,13 @@ Bloomberg.com • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[The Future of Flooring: Automated Sand-Cement Screeding Robot #ConstructionTech #Robotics #Flooring](https://www.youtube.com/watch?v=QK7Y1-O5koE)**
-
-"Efficiency meets precision! Watch this automated floor screeding robot transform a rough sand-cement mix into a perfectly level ...
-
-📺 MachineWorks Studio
-
-👁️ 2.2M • 👍 2K • 💬 35 • ⏱️ 0:06 • 5d ago
-
----
-
-**[Out of control robot smashes up restaurant as waitress desperately attempts to drag it away](https://www.youtube.com/watch?v=ZyohmMJA5Ao)**
-
-THIS is the hilarious moment a boogying robot dances too hard and sends food and cutlery flying in a high end restaurant.
-
-📺 The Sun
-
-👁️ 219K • 👍 3K • 💬 2K • ⏱️ 2:07 • 2d ago
-
----
-
 **[Dancing robot goes rogue in hot pot restaurant](https://www.youtube.com/watch?v=DfnIEWpbMU8)**
 
 Video shows restaurant employees struggling to restrain a dancing robot that went rogue in a hot pot restaurant in California.
 
 📺 NBC News
 
-👁️ 172K • 👍 2K • 💬 608 • ⏱️ 3:38 • 2d ago
-
----
-
-**[This wearable robot adds two mechanical legs behind you](https://www.youtube.com/watch?v=y1Jh2BtO-Ow)**
-
-CENTAUR ROBOT - wearable robot adds two legs behind people to help distribute the load ...
-
-📺 Unstoppable Gadgets
-
-👁️ 28K • 👍 339 • 💬 22 • ⏱️ 0:17 • 3d ago
+👁️ 176K • 👍 2K • 💬 615 • ⏱️ 3:38 • 2d ago
 
 ---
 
@@ -238,7 +208,47 @@ Try the full AI cinematic workflow here: https://higgsfield.ai/s/cinema-studio-2
 
 📺 AI Revolution
 
-👁️ 21K • 👍 500 • 💬 43 • ⏱️ 13:18 • 5d ago
+👁️ 21K • 👍 501 • 💬 43 • ⏱️ 13:18 • 5d ago
+
+---
+
+**[Out of control robot smashes up restaurant as waitress desperately attempts to drag it away](https://www.youtube.com/watch?v=ZyohmMJA5Ao)**
+
+THIS is the hilarious moment a boogying robot dances too hard and sends food and cutlery flying in a high end restaurant.
+
+📺 The Sun
+
+👁️ 229K • 👍 3K • 💬 2K • ⏱️ 2:07 • 2d ago
+
+---
+
+**[The Future of Flooring: Automated Sand-Cement Screeding Robot #ConstructionTech #Robotics #Flooring](https://www.youtube.com/watch?v=QK7Y1-O5koE)**
+
+"Efficiency meets precision! Watch this automated floor screeding robot transform a rough sand-cement mix into a perfectly level ...
+
+📺 MachineWorks Studio
+
+👁️ 2.3M • 👍 2K • 💬 37 • ⏱️ 0:06 • 5d ago
+
+---
+
+**[This Chinese Robot Just Crossed All the Lines — Real Life Terminator T800](https://www.youtube.com/watch?v=0hVT9qcC8Ec)**
+
+China just built something that was supposed to be decades away. Engine AI's T800 humanoid robot is already walking live ...
+
+📺 Core Insights
+
+👁️ 69K • 👍 1K • 💬 134 • ⏱️ 15:19 • 4d ago
+
+---
+
+**[This wearable robot adds two mechanical legs behind you](https://www.youtube.com/watch?v=y1Jh2BtO-Ow)**
+
+CENTAUR ROBOT - wearable robot adds two legs behind people to help distribute the load ...
+
+📺 Unstoppable Gadgets
+
+👁️ 28K • 👍 341 • 💬 22 • ⏱️ 0:17 • 3d ago
 
 ---
 
@@ -248,37 +258,7 @@ The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrati
 
 📺 DPCcars
 
-👁️ 188K • 👍 2K • 💬 236 • ⏱️ 2:02 • 5d ago
-
----
-
-**[Outdated Tier 4 Weapons in War Robots](https://www.youtube.com/watch?v=8zKwEsyhPYE)**
-
-War Robots Gameplay: Playing Spear and Atomizer on Ammit - Tier 4 My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 4K • 👍 220 • 💬 36 • ⏱️ 12:20 • 9h ago
-
----
-
-**[🎾🤖 INSANE! Researchers Can&#39;t Beat This #TennisRobot Anymore! #LATENT is Pro. #humanoid #robot #ai](https://www.youtube.com/watch?v=yqprFRLeZ48)**
-
-Humanoid tennis athletes are officially here! A team from Tsinghua University and Galbot just dropped LATENT, and it is ...
-
-📺 XRoboHub
-
-👁️ 165K • 👍 2K • 💬 278 • ⏱️ 0:23 • 6d ago
-
----
-
-**[100+ Transformers Robot Car Transforming 2026 | Bumblebee, Tobot, Carbot Eating Dinosaur Satisfying](https://www.youtube.com/watch?v=_7fdS9GJVGE)**
-
-Welcome to the ultimate robot showdown of 2026! In this video, we feature over 100+ Transformers, Tobot, and Hello Carbot ...
-
-📺 Prime Collects
-
-👁️ 20K • 👍 57 • ⏱️ 13:46 • 4d ago
+👁️ 192K • 👍 2K • 💬 241 • ⏱️ 2:02 • 5d ago
 
 ---
 
@@ -288,7 +268,27 @@ This Spray-On Electronic Skin Could Make Robots Feel More Like Humans. Researche
 
 📺 EcoZora
 
-👁️ 6K • 👍 20 • 💬 3 • ⏱️ 0:07 • 2d ago
+👁️ 7K • 👍 20 • 💬 3 • ⏱️ 0:07 • 2d ago
+
+---
+
+**[🛑 STOP Doing This! 3 Mistakes That Will Kill Your Robot Vacuum](https://www.youtube.com/watch?v=ro7utfovBio)**
+
+Best Robot Vacuums 2026: justadadapproved.com 3 mistakes that can break your robot vacuum! Mova P10 ...
+
+📺 Just A Dad Approved
+
+👁️ 3K • 👍 155 • 💬 24 • ⏱️ 15:33 • 11h ago
+
+---
+
+**[Outdated Tier 4 Weapons in War Robots](https://www.youtube.com/watch?v=8zKwEsyhPYE)**
+
+War Robots Gameplay: Playing Spear and Atomizer on Ammit - Tier 4 My War Robots Creator Link: https://wr.my.games/manni ...
+
+📺 Manni-Gaming
+
+👁️ 5K • 👍 242 • 💬 37 • ⏱️ 12:20 • 10h ago
 
 ---
 
