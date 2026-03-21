@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-21T21:26:37.031483+00:00'
+updated: '2026-03-21T21:48:45.370054+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 21:26 UTC  
+**Last Updated:** March 21, 2026 at 21:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Feels like Ethereum DeFi is slowly shifting from “yield” to… actual revenue? Saw a thread recently about TVL climbing again, and someone pointed out that what really matters isn’t how much is locked, but where the returns actually come from. That stuck with me. Because if we’re honest — a lot of yield is still just internal loops. Restaking, incentives, recursive liquidity… it works, but it’s kind of self-contained. Lately I’ve been looking into models where returns come from outside the system. For example, 8lends — capital goes into real businesses, they generate revenue, and that’s what funds the yield. Feels closer to what DeFi originally promised, no? At the same time, it introduces a different layer of risk — off-chain dependency, credit exposure, all that. Curious how this fits into Ethereum long-term. Are we moving in that direction, or is this just a niche side path?
 
-1h ago
+2h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hey everyone, I’ve been working on a side project called Blockpeek and just sh
 
 I’m looking for a way to swap my Bitcoin to Ethereum without KYC, so obviously i found thorchain, but unfortunately it’s not available here in the U.S, and i heard it’s very expensive as well. Where should I do it you think? sorry if this question was already asked in past but i couldnt find an answer after bit lf time checking.
 
-23h ago
+1d ago
 
 ---
 

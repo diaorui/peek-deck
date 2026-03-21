@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-21T21:26:37.025199+00:00'
+updated: '2026-03-21T21:48:45.364023+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 21:26 UTC  
+**Last Updated:** March 21, 2026 at 21:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perrenod
 
-10h ago
+11h ago
 
 ---
 
 **[RIP Legend](https://www.reddit.com/r/Bitcoin/comments/1rzh2xj/rip_legend/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -141,7 +141,7 @@ Bitcoin and cryptocurrency explained in a way that's fun and easy to understand.
 
 River provides hourly DCA without fees, it’s honestly my favorite so far. No one mentions it here, but I thought I’d say that I like it a lot.
 
-1h ago
+2h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Block • 1d ago
 
 Bitcoin (CRYPTO: BTC) is trading around $70,500 after a brief rally toward $75,000 that was met with a firm rejection following the Fed decision. Two Bitcoin OGs then made massive moves on March 19, selling a combined $117 million in BTC the day after the Fed held rates and raised its inflation forecast. On the ... Bitcoin Price News: Two Early Bitcoin Holders Sold $117M BTC, but Whales Are Buying the Dip at Record Pace
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -313,7 +313,7 @@ Bitcoin just went live at millions of businesses without anyone opting in. While
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 155 • ⏱️ 12:51 • 22h ago
+👁️ 18K • 👍 1K • 💬 155 • ⏱️ 12:51 • 23h ago
 
 ---
 
@@ -323,7 +323,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 7K • 👍 389 • 💬 202 • ⏱️ 8:34 • 21h ago
+👁️ 7K • 👍 389 • 💬 202 • ⏱️ 8:34 • 22h ago
 
 ---
 
@@ -343,7 +343,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 My Channel
 
-👁️ 6K • 👍 1K • 7h ago
+👁️ 6K • 👍 1K • 8h ago
 
 ---
 

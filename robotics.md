@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-21T21:26:37.034764+00:00'
+updated: '2026-03-21T21:48:45.373267+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 21, 2026 at 21:26 UTC  
+**Last Updated:** March 21, 2026 at 21:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
 We’re running a pretty heavy autonomous stack on a single edge computer (ROS 2 Jazzy) — multiple high-res cameras, dense LiDARs, and radars all on one machine. We’re starting to hit serious compute + latency limits, especially with intra-process communication and recording. Right now we’re evaluating: Fast DDS Cyclone DDS Zenoh Iceoryx Also, as soon as we start recording with rosbag2, CPU usage spikes hard and we get frame drops across the system. Two questions for folks who’ve pushed ROS 2 hard on a single machine: For high-bandwidth intra-host comms on Jazzy, which RMW has actually given you the best real-world performance? How are you dealing with the rosbag2 overhead? Composable recorder node? Separate process? Or bypassing ROS entirely and logging raw sensor data? For context: we previously ran Humble + CycloneDDS + MCAP and saw similar bottlenecks. Curious what setups are working well in practice.
 
-49m ago
+1h ago
 
 ---
 
@@ -96,7 +96,7 @@ Don't be surprised if you meet humanoid robots on the streets of Beijing at midn
 
 I want to make an aim-able phone holder with servos/steppers tucked in the base… and I don’t want to reinvent the wheel. Are there any references of this design? (Like a Simpson 3d printer, but simpler and for robot arms)
 
-37m ago
+59m ago
 
 ---
 
@@ -140,7 +140,7 @@ The Information • 2d ago
 
 Amazon has acquired Rivr, a startup focused on autonomous robotics that could further the tech giant's capabilities in package deliveries.
 
-Engadget • 1d ago
+Engadget • 2d ago
 
 ---
 
@@ -232,7 +232,7 @@ CENTAUR ROBOT - wearable robot adds two legs behind people to help distribute th
 
 📺 Unstoppable Gadgets
 
-👁️ 28K • 👍 339 • 💬 22 • ⏱️ 0:17 • 2d ago
+👁️ 28K • 👍 339 • 💬 22 • ⏱️ 0:17 • 3d ago
 
 ---
 
