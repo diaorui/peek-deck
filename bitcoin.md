@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-21T14:28:39.382044+00:00'
+updated: '2026-03-21T14:54:35.905298+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 14:28 UTC  
+**Last Updated:** March 21, 2026 at 14:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[RIP Legend](https://www.reddit.com/r/Bitcoin/comments/1rzh2xj/rip_legend/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perrenod
 
-3h ago
+4h ago
 
 ---
 
@@ -111,7 +111,7 @@ Holder since 2015. Never soldi. Slowly accumulating. Sometimes daily trading (wi
 
 Please someone just buy or sell already so the price moves!
 
-9h ago
+10h ago
 
 ---
 
@@ -119,7 +119,7 @@ Please someone just buy or sell already so the price moves!
 
 I was so confident to buy it but after visiting this reddit and hearing multiple people talk about it being dead im bit skeptical
 
-53m ago
+1h ago
 
 ---
 
@@ -143,7 +143,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 The government relies on this crypto infrastructure for international trade, while ordinary Iranians use it as a financial lifeline during protests and economic crises. Iran has built a multibillion-dollar parallel economy using state-sponsored Bitcoin mining and stablecoins to bypass the U.S. dollar, heavily driven by the IRGC. The government relies on this crypto infrastructure for international trade, while ordinary Iranians use it as a financial lifeline during protests and economic crises. Recent military strikes threaten Iran's fragile power grid, which is essential to sustaining the energy-intensive mining operations that keep this financial channel open. The Islamic Revolutionary Guard Corps (IRGC), the primary branch of the country’s military, has since deepened its role in the space. Chainalysis estimates IRGC-linked addresses accounted for more than 50% of total Iranian crypto inflows in the fourth quarter of 2025, with over $3 billion in value received last year.
 
-14h ago
+15h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 3h ago
 
 First-quarter purchases have reached 89,618 BTC so far, the most since fourth-quarter 2024, and the quarter is not yet over.
 
-CoinDesk • 28m ago
+CoinDesk • 53m ago
 
 ---
 
@@ -203,7 +203,7 @@ CoinDesk • 28m ago
 
 Unpopular
 
-Financial Times • 21h ago
+Financial Times • 22h ago
 
 ---
 
@@ -281,7 +281,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 **[BioContact assurance and status monitoring using human body communication](https://news.ycombinator.com/item?id=47459528)**
 
-⬆️ 1 • 💬 0 • 18h ago • [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2590123025045001)
+⬆️ 1 • 💬 0 • 19h ago • [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2590123025045001)
 
 ---
 
@@ -301,7 +301,7 @@ Bitcoin just went live at millions of businesses without anyone opting in. While
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 162 • ⏱️ 12:51 • 15h ago
+👁️ 14K • 👍 1K • 💬 162 • ⏱️ 12:51 • 16h ago
 
 ---
 
@@ -321,7 +321,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 6K • 👍 366 • 💬 135 • ⏱️ 8:34 • 14h ago
+👁️ 6K • 👍 366 • 💬 135 • ⏱️ 8:34 • 15h ago
 
 ---
 

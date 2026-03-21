@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-21T14:28:39.387945+00:00'
+updated: '2026-03-21T14:54:35.912028+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 14:28 UTC  
+**Last Updated:** March 21, 2026 at 14:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -88,7 +88,7 @@ Hey everyone, I’ve been working on a side project called Blockpeek and just sh
 
 I’m looking for a way to swap my Bitcoin to Ethereum without KYC, so obviously i found thorchain, but unfortunately it’s not available here in the U.S, and i heard it’s very expensive as well. Where should I do it you think? sorry if this question was already asked in past but i couldnt find an answer after bit lf time checking.
 
-16h ago
+17h ago
 
 ---
 
@@ -240,7 +240,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 10K • 👍 426 • 💬 52 • ⏱️ 19:43 • 22h ago
+👁️ 10K • 👍 426 • 💬 52 • ⏱️ 19:43 • 23h ago
 
 ---
 
@@ -260,7 +260,7 @@ BlackRock just launched a staking Ethereum ETF—but is it really a win for inve
 
 📺 Coin Bureau
 
-👁️ 735 • 👍 54 • 💬 8 • ⏱️ 18:11 • 27m ago
+👁️ 735 • 👍 54 • 💬 8 • ⏱️ 18:11 • 53m ago
 
 ---
 
@@ -280,7 +280,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 66 • 👍 7 • 💬 1 • ⏱️ 4:32 • 11m ago
+👁️ 66 • 👍 7 • 💬 1 • ⏱️ 4:32 • 37m ago
 
 ---
 
@@ -298,7 +298,7 @@ BITCOIN & ALTCOIN WARNING: Price Targets Exposed!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 7K • 👍 255 • 💬 120 • ⏱️ 16:50 • 19h ago
+👁️ 7K • 👍 255 • 💬 120 • ⏱️ 16:50 • 20h ago
 
 ---
 
@@ -308,7 +308,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 My Channel
 
-👁️ 4K • 👍 1K • 51m ago
+👁️ 4K • 👍 1K • 1h ago
 
 ---
 
@@ -318,7 +318,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 11K • 👍 4K • 💬 30 • ⏱️ 1:41:53 • 42m ago
+👁️ 11K • 👍 4K • 💬 30 • ⏱️ 1:41:53 • 1h ago
 
 ---
 
