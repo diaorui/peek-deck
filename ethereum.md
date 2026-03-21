@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-21T06:02:35.216803+00:00'
+updated: '2026-03-21T07:09:00.485520+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 06:02 UTC  
+**Last Updated:** March 21, 2026 at 07:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** -1.1%  
+**24h:** -0.4%  
+**7d:** -1.0%  
 **30d:** +9.5%  
 **90d:** -28.4%  
-**1y:** +8.8%  
+**1y:** +8.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $260.26B
+**Market Cap:** $260.12B
 Rank #2
 
 **Circulating Supply:** 120,691,752 ETH
@@ -62,7 +62,7 @@ No max supply
 -56.4%
 
 **All-Time Low:** $0.43
-+497755.6%
++497587.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone, I’ve been working on a side project called Blockpeek and just shipped a new update. It’s a blockchain transaction scanner that tries to explain what actually happened in plain English instead of just showing raw hex data. You paste a transaction hash (or upload a screenshot from your wallet/exchange) and it tells you: ∙ What was sent, to who, from who ∙ The USD value at the time ∙ Gas fees in USD ∙ Which chain it was on (auto-detects Ethereum, BSC, Arbitrum, Polygon, Base, Solana, Bitcoin, Tron and more) It’s free, no login required. Would genuinely love feedback — what’s missing, what’s broken, what would make it actually useful for you. blockpeek.io
 
-6h ago
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey everyone, I’ve been working on a side project called Blockpeek and just sh
 
 I’m looking for a way to swap my Bitcoin to Ethereum without KYC, so obviously i found thorchain, but unfortunately it’s not available here in the U.S, and i heard it’s very expensive as well. Where should I do it you think? sorry if this question was already asked in past but i couldnt find an answer after bit lf time checking.
 
-8h ago
+9h ago
 
 ---
 
@@ -96,7 +96,7 @@ I’m looking for a way to swap my Bitcoin to Ethereum without KYC, so obviously
 
 Whenever I see an exchange offering 40% APY on stablecoins, I run the other way immediately. Yield doesn't come from nowhere. I look for platforms that just focus on standard spot trading, verifiable proof of reserves, and steady, quiet growth. That's exactly why I've stuck with Coinbase and BitMart over the years. Solid security beats flashy yields every single time.
 
-5h ago
+6h ago
 
 ---
 
@@ -164,13 +164,13 @@ Benzinga • 2d ago
 
 Ethereum bottom call backed by multiple signals, says Tom Lee. Strong upside narrative remains. Credibility tempered by past miss. Ethereum's price is once again at ...
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqdFBGmo7LSOQj512Wakutc4v9lSMHUtZ8K2cHv3uhINXBExYElkGrKa&gaa_ts=69be2fbc&gaa_sig=SB_ruGgXRiyfxcOsI2czNsyBv0oPoo2nOTGwwvhY9oFTniEGhmviE36j8K3HsYzXgGdJ2UzSBHqhIlkvCzMZ0w%3D%3D)**
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqe-1desrg1C5bk85-_Sg6NdukXlStc6cBZF6skvNqZena2F11Dwb5cJ&gaa_ts=69be4775&gaa_sig=rqIDjeRzEiPJLw9YWVcmueyCj9-QhpVk4XQTvI2IxaDg5LhXRmbuhrtfBPWix21mxiVPqgRSX0zcBps-LlkSKQ%3D%3D)**
 
-MarketWatch • 16h ago
+MarketWatch • 17h ago
 
 ---
 
@@ -178,7 +178,7 @@ MarketWatch • 16h ago
 
 “Ethereum, to me, is really gonna be where Wall Street meets crypto,” a source told NYNext.
 
-New York Post • 19h ago
+New York Post • 20h ago
 
 ---
 
@@ -194,7 +194,7 @@ The Block • 1d ago
 
 #FeaturedPost
 
-Business Insider Africa • 15h ago
+Business Insider Africa • 16h ago
 
 ---
 
@@ -218,7 +218,7 @@ Decrypt • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 16h ago
+Fortune • 17h ago
 
 ---
 
@@ -226,7 +226,7 @@ Fortune • 16h ago
 
 Ethereum hit a new record high in 2025, but it still fell short of the $5,000 milestone.
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -240,17 +240,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 363 • 💬 47 • ⏱️ 19:43 • 14h ago
-
----
-
-**[Tom Lee: The &#39;&#39;100x&#39;&#39;?! Opportunity Just Got Even Bigger! (New 2026 Prediction)](https://www.youtube.com/watch?v=ZPGB-z8MNug)**
-
-Ethereum is showing strong bullish signals, with analysts predicting a major rebound after a technical bottom, supported by its ...
-
-📺 Crypto Sensei
-
-👁️ 5K • 👍 439 • 💬 46 • ⏱️ 12:42 • 16h ago
+👁️ 9K • 👍 378 • 💬 48 • ⏱️ 19:43 • 15h ago
 
 ---
 
@@ -260,7 +250,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 218 • 👍 25 • 💬 2 • ⏱️ 3:56 • 2h ago
+👁️ 554 • 👍 64 • 💬 2 • ⏱️ 3:56 • 3h ago
+
+---
+
+**[Tom Lee: The &#39;&#39;100x&#39;&#39;?! Opportunity Just Got Even Bigger! (New 2026 Prediction)](https://www.youtube.com/watch?v=ZPGB-z8MNug)**
+
+Ethereum is showing strong bullish signals, with analysts predicting a major rebound after a technical bottom, supported by its ...
+
+📺 Crypto Sensei
+
+👁️ 5K • 👍 446 • 💬 49 • ⏱️ 12:42 • 17h ago
 
 ---
 
@@ -270,7 +270,7 @@ BITCOIN & ALTCOIN WARNING: Price Targets Exposed!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 5K • 👍 220 • 💬 44 • ⏱️ 16:50 • 11h ago
+👁️ 6K • 👍 235 • 💬 45 • ⏱️ 16:50 • 12h ago
 
 ---
 
@@ -278,17 +278,17 @@ BITCOIN & ALTCOIN WARNING: Price Targets Exposed!!! - Bitcoin News Today, Ethere
 
 📺 EllioTrades
 
-👁️ 10K • 👍 220 • 💬 39 • ⏱️ 1:07 • 1d ago
+👁️ 10K • 👍 222 • 💬 39 • ⏱️ 1:07 • 1d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=I5iGQgskUzQ)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=sN3lpOtC4-M)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 More Crypto Online
+📺 Crypto Gyan
 
-👁️ 1K • 👍 94 • 💬 7 • ⏱️ 4:30 • 15h ago
+👁️ 457 • 👍 66 • ⏱️ 5:41 • 4h ago
 
 ---
 
@@ -302,33 +302,33 @@ Canton is the first privacy-enabled open blockchain network, ensuring limitless 
 
 ---
 
-**[WATCH THESE CRUCIAL LEVELS🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=DQbG7liFwyI)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=I5iGQgskUzQ)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Cilinix Crypto
+📺 More Crypto Online
 
-👁️ 208 • 👍 8 • 💬 2 • ⏱️ 4:56 • 20h ago
-
----
-
-**[IS THE CRYPTO RALLY LEGIT? BITCOIN, XRP, ETHEREUM, &amp; SOLANA ANALYSIS!](https://www.youtube.com/watch?v=6I53qLIw3fA)**
-
-Brian from Santiment joined me to review the crypto market metrics. We review onchain metrics for Bitcoin, Ripple XRP, Ethereum, ...
-
-📺 Thinking Crypto
-
-👁️ 4K • 👍 229 • 💬 72 • ⏱️ 28:07 • 2d ago
+👁️ 1K • 👍 94 • 💬 7 • ⏱️ 4:30 • 16h ago
 
 ---
 
-**[Ethereum Just Got Easier: What is ETHB?](https://www.youtube.com/watch?v=R1qPIW73oos)**
+**[BTC, ETH, SOL, XRP, SUI, FET, CHZ, HBAR, ICP, BNB, ILS1, BTCETH Altcoins Analyzed: Live TA](https://www.youtube.com/watch?v=Dw437Y-IkRQ)**
 
-Crypto felt unfamiliar. Until it didn't. For a long time, crypto felt new. Hard to access. Complicated. Then came ETPs. Same screens ...
+In this live technical analysis session, The Trading Parrot breaks down BTC, ETH, SOL, XRP, SUI, FET, CHZ, HBAR, ICP, and ...
 
-📺 iShares by BlackRock
+📺 The Trading Parrot
 
-👁️ 221 • 👍 3 • ⏱️ 0:37 • 2d ago
+👁️ 2K • 👍 157 • 💬 12 • ⏱️ 1:10:26 • 1d ago
+
+---
+
+**[XRP a Non-Security. (Now Ethereum Moving In) 🚨🚨](https://www.youtube.com/watch?v=5PVrb5zcFeY)**
+
+XRP just received regulatory clarity that institutions have been waiting years for. U.S. regulators are now signaling XRP's ...
+
+📺 Jungle Inc Crypto
+
+👁️ 8K • 👍 684 • 💬 119 • ⏱️ 11:36 • 1d ago
 
 ---
 
