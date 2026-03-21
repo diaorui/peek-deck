@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-21T19:25:23.717286+00:00'
+updated: '2026-03-21T19:46:35.964942+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 21, 2026 at 19:25 UTC  
+**Last Updated:** March 21, 2026 at 19:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,7 +48,7 @@ From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
 **[You eventually start to realize, no job is safe](https://www.reddit.com/r/robotics/comments/1rzftd8/you_eventually_start_to_realize_no_job_is_safe/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -84,17 +84,17 @@ It's one of the sample tasks I'm planning to demonstrate to the guests of my upc
 
 ---
 
-**[FINDING THE RIGHT METAPHOR (Edited)](https://www.reddit.com/r/robotics/comments/1rzyd1e/finding_the_right_metaphor_edited/)**
-
-1h ago
-
----
-
 **[RSS - robotics sciences and systems 2026 - discussion](https://www.reddit.com/r/robotics/comments/1rznoyh/rss_robotics_sciences_and_systems_2026_discussion/)**
 
 I created this thread to discuss the reviews and scores for the submissions to RSS 2026 in Sydney Australia. Did anyone receive their reviews yet?
 
 9h ago
+
+---
+
+**[FINDING THE RIGHT METAPHOR (Edited)](https://www.reddit.com/r/robotics/comments/1rzyd1e/finding_the_right_metaphor_edited/)**
+
+1h ago
 
 ---
 
@@ -109,6 +109,14 @@ From Physical Intelligence on 𝕏 (thread with multiple videos): https://x.com/
 ---
 
 ## Google News: "robotics"
+
+**[Mark Cuban says the future of robotics isn't humanoids, but robots and homes that are co-designed](https://www.businessinsider.com/mark-cuban-humanoid-robotics-will-fail-robots-houses-codesigned-2026-3)**
+
+Mark Cuban said the push for humanoid robots will fail and that instead robots and spaces will be co-designed.
+
+Business Insider • 1d ago
+
+---
 
 **[Amazon acquires startup Rivr to test robots for 'doorstep delivery'](https://www.cnbc.com/2026/03/19/amazon-acquires-startup-rivr-to-test-robots-for-doorstep-delivery.html)**
 
@@ -134,19 +142,11 @@ Engadget • 1d ago
 
 ---
 
-**[Inside China’s robotics revolution](https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution)**
+**[Robotics competition brings students from around the world to Bradley University](https://www.yahoo.com/news/articles/robotics-competition-brings-students-around-180249313.html)**
 
-The long read: How close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find out
+High school students from 31 teams across the US and Taiwan are competing in the FIRST Robotics Central Illinois Regional Competition at Bradley University, where they must design, build, program, and...
 
-The Guardian • 2d ago
-
----
-
-**[Video Friday: Humanoid Learns Tennis Skills Playing Humans](https://spectrum.ieee.org/tennis-playing-robot)**
-
-This humanoid robot is learning tennis the same way I did—by playing. Plus a robot horse for the Year of the Fire Horse in this week's robot videos.
-
-IEEE Spectrum • 2h ago
+Yahoo • 1h ago
 
 ---
 
@@ -182,11 +182,11 @@ GeekWire • 1d ago
 
 ---
 
-**[Twist Robotics Unveils Anti-Drone Version of Obriy Simulator](https://militarnyi.com/en/news/twist-robotics-anti-drone-obriy-simulator/)**
+**[Inside China’s robotics revolution](https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution)**
 
-The company Twist Robotics has unveiled an updated version of the Obriy Anti-Shahed simulator. The platform’s key focus is the ability to practice scenarios for intercepting long-range drones.Representatives of the […]
+The long read: How close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find out
 
-Мілітарний • 1d ago
+The Guardian • 2d ago
 
 ---
 
@@ -258,7 +258,7 @@ Welcome to the ultimate robot showdown of 2026! In this video, we feature over 1
 
 📺 Robot Julie 
 
-👁️ 14K • 👍 85 • ⏱️ 0:21 • 18h ago
+👁️ 14K • 👍 85 • ⏱️ 0:21 • 19h ago
 
 ---
 

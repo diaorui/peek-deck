@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-21T19:25:23.699284+00:00'
+updated: '2026-03-21T19:46:35.947372+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- videos
 - repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 21, 2026 at 19:25 UTC  
+**Last Updated:** March 21, 2026 at 19:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,6 +45,22 @@ So we built an internal AI tool with a pretty detailed system prompt, includes i
 
 ---
 
+**[Where should the execution boundary actually live in Agent systems?](https://www.reddit.com/r/artificial/comments/1s004hd/where_should_the_execution_boundary_actually_live/)**
+
+following up on a discussion from earlier a pattern that keeps showing up in real systems: most control happens after execution - retries - state checks - monitoring - idempotency patches but the actual decision to execute is often implicit if the agent can call the tool, the action runs in most other systems we separate: - capability (can call) - authority (allowed to execute) agents usually collapse those into one so the question becomes: where should the actual allow/deny decision live? - inside the agent loop? - inside tool wrappers? - as a centralized policy layer? - somewhere else entirely? or are we all still letting the agent decide and patching things after the fact?
+
+28m ago
+
+---
+
+**[Does the economics of AI actually imply large-scale labor replacement?](https://www.reddit.com/r/artificial/comments/1rzztg1/does_the_economics_of_ai_actually_imply/)**
+
+Growth without people.
+
+🔗 [driscollglobe.com](https://www.driscollglobe.com/p/the-intelligence-curse-is-coming) • 40m ago
+
+---
+
 **[SystemSignal | Data Center and AI News Aggregator](https://www.reddit.com/r/artificial/comments/1rzyktd/systemsignal_data_center_and_ai_news_aggregator/)**
 
 SysSignal is for people who follow AI + data center infrastructure. It aggregates news across the space and creates a daily summary of the biggest topics, so it’s easier to keep up without bouncing between sites. Mostly built it for myself, but figured others here might get value from it too. If you find feeds that would be useful you can submit them through the website and we can get them added in. Feel free to give any feedback and critiques!
@@ -58,6 +74,12 @@ SysSignal is for people who follow AI + data center infrastructure. It aggregate
 With AI becoming more and more of a topic, does anyone here ever thing about what our kids are going to do to for jobs as they get older? I have a 1 year old and a 3 year old. I’m so nervous for them and have no idea what jobs will be available because we keep saying jobs will be replaced by AI. How are people going to be able to make money? As for my current job, I work from home and while yes my job can be replaced, I speak with people over the phone a lot and I know people still need and enjoy human contact. For now it’s good but I have no idea how it will be in 10 years. Anyway, does anyone else think about this? I’ve heard talks that college may not be a thing in 10 years. I’m still saving for their college as that can roll over to a Roth but like what are we doing? Parents how are we preparing for this? I know we can push for jobs like trades, healthcare and nursing or entrepreneurship but I’m not sure what else will be out there. I also wanted to add, in the event that I ever do get laid off or my husband did my plan B is to just work some jobs at Target or the grocery store, but what happens when they all get replaced by AI?!?
 
 17h ago
+
+---
+
+**[Nvidia "confirms" DLSS 5 relies on 2D frame data as testing reveals hallucinations](https://www.reddit.com/r/artificial/comments/1rzjgdh/nvidia_confirms_dlss_5_relies_on_2d_frame_data_as/)**
+
+🔗 [techspot.com](https://www.techspot.com/news/111770-nvidia-confirms-dlss-5-relies-2d-frame-data.html) • 14h ago
 
 ---
 
@@ -75,53 +97,25 @@ Wheelchair users with severe disabilities can often navigate tight spaces better
 
 ---
 
-**[New AI model predicts record high dipole moments in unexpected molecules](https://www.reddit.com/r/artificial/comments/1rzdcpp/new_ai_model_predicts_record_high_dipole_moments/)**
-
-Chemists may soon have one less rigorous step to worry about when searching for the right molecules to accomplish their highly specific innovation needs. Scientists have now built a new machine learning model that can predict the electric dipole moments of diatomic molecules within seconds using nothing more than the atomic properties of the atoms involved. Dipole moment is the measure of charge separation between the positive and negative ions in a molecule. It is an intrinsic property of the system. In other words, it is a fingerprint of a molecule. It determines the electrical polarity of the molecule, which in turn shapes key properties like boiling point, solubility, thermal conduction, and how molecules interact with each other. Understanding it is therefore essential—not just for grasping the fundamentals of chemical bonding, but also for advancing real-world applications in physics and chemistry. The new AI model, powered by Gaussian Process Regression (GPR), scanned over 4,800 diatomic molecules to predict their dipole moments with high accuracy within seconds. The results highlighted top candidates ranging from heavy, salt-like molecules such as cesium iodide (CsI) and francium iodide (FrI) to more unexpected combinations like gold–cesium (AuCs).
-
-🔗 [phys.org](https://phys.org/news/2026-03-ai-high-dipole-moments-unexpected.html) • 18h ago
-
----
-
 **[AI tool shows promise in diagnosing advanced heart failure](https://www.reddit.com/r/artificial/comments/1rzdkwl/ai_tool_shows_promise_in_diagnosing_advanced/)**
 
 "Applying artificial intelligence techniques to cardiac ultrasound data may make it easier to identify patients with advanced heart failure, a new study has found. The study [...] offers the prospect of better care for many thousands of patients who may be overlooked due to the difficulty of diagnosing their condition. Advanced heart failure is currently detected through cardiopulmonary exercise testing (CPET), which requires specialized equipment and trained staff and is typically only available at large medical centers. Due in part to this diagnostic bottleneck, only a few of the estimated 200,000 people in the United States with advanced heart failure get appropriate care each year. In the new study [...] the researchers tested a novel AI-powered method that may remove this bottleneck. The new method predicts with high accuracy the most important CPET measure, peak oxygen consumption (peak VO2), using much more easily obtainable ultrasound images of the patient's heart plus the patient's electronic health records. "This opens up a promising pathway for more efficient assessment of patients with advanced heart failure using data sources that are already embedded in routine care," said study senior author Dr. Fei Wang, the associate dean for AI and data science and the Frances and John L. Loeb Professor of Medical Informatics at Weill Cornell Medicine."
 
-🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-tool-advanced-heart-failure.html) • 18h ago
+🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-tool-advanced-heart-failure.html) • 19h ago
 
 ---
 
-**[Nvidia "confirms" DLSS 5 relies on 2D frame data as testing reveals hallucinations](https://www.reddit.com/r/artificial/comments/1rzjgdh/nvidia_confirms_dlss_5_relies_on_2d_frame_data_as/)**
+**[New AI model predicts record high dipole moments in unexpected molecules](https://www.reddit.com/r/artificial/comments/1rzdcpp/new_ai_model_predicts_record_high_dipole_moments/)**
 
-🔗 [techspot.com](https://www.techspot.com/news/111770-nvidia-confirms-dlss-5-relies-2d-frame-data.html) • 13h ago
+Chemists may soon have one less rigorous step to worry about when searching for the right molecules to accomplish their highly specific innovation needs. Scientists have now built a new machine learning model that can predict the electric dipole moments of diatomic molecules within seconds using nothing more than the atomic properties of the atoms involved. Dipole moment is the measure of charge separation between the positive and negative ions in a molecule. It is an intrinsic property of the system. In other words, it is a fingerprint of a molecule. It determines the electrical polarity of the molecule, which in turn shapes key properties like boiling point, solubility, thermal conduction, and how molecules interact with each other. Understanding it is therefore essential—not just for grasping the fundamentals of chemical bonding, but also for advancing real-world applications in physics and chemistry. The new AI model, powered by Gaussian Process Regression (GPR), scanned over 4,800 diatomic molecules to predict their dipole moments with high accuracy within seconds. The results highlighted top candidates ranging from heavy, salt-like molecules such as cesium iodide (CsI) and francium iodide (FrI) to more unexpected combinations like gold–cesium (AuCs).
 
----
-
-**[Metacog: Proprioception, Not Yet Another Memory MCP: A Different Approach to Cross-Session Learning Reinforcement in AI Agents](https://www.reddit.com/r/artificial/comments/1rzmlqe/metacog_proprioception_not_yet_another_memory_mcp/)**
-
-TL;DR: Everyone's building memory plugins for AI coding agents. I'm not sure that stale, past memory of tasks executed is the right way forward for this application. Intelligence has metacognition, the ability to think about how you're thinking. Source (or read on): github.com/houtini-ai/metacog So, I built a nervous system instead. Two Claude Code hooks, zero dependencies. The key insight: treating the agent's context window like a filing cabinet doesn't work, because the agent has to know what it forgot in order to ask for it. I replaced passive recall with real-time proprioceptive signals and a reinforcement tracking model that rewards rules for working rather than punishing them for not failing. The Problem with Agent Memory The current wave of memory solutions for AI coding agents (Claude-Mem, Memsearch, Agent Memory MCP, Cognee, SuperMemory) all follow the same architecture: capture session data, compress it, store it in SQLite or a vector store, retrieve relevant fragments on the next session, inject them into the context window. This is the Passive Librarian Problem. The memory system waits for the agent to decide to search, pulls text, and injects it. But the agent has to know what it forgot in order to query for it. That's a paradox. And empirically, the agent reads the retrieved memories, acknowledges them, and walks into the same failure three tool calls later. This isn't a retrieval quality issue. It's an architectural one. Memory plugins treat the context window like a filing cabinet. But cognition - even in LLM agents - doesn't work that way. Theoretical Foundation The Extended Mind Thesis Clark and Chalmers (1998) argued that cognition doesn't happen exclusively inside the brain - it happens in the loop between a cognitive system and its environment. A notebook isn't just storage; when tightly coupled with a cognitive process, it becomes part of the cognitive system itself. Paper: Clark, A. & Chalmers, D. (1998). "The Extended Mind." Analysis, 58(1), 7–19. doi:10.1093/analys/58.1.7 Applied to LLM agents: the hooks, the state buffer, the reinforcement log - these aren't external tools the agent consults. They're extensions of the agent's cognitive process, firing in the loop between action and observation. The agent doesn't "decide to check" its proprioception any more than you decide to check your sense of balance. Experiential Reinforcement Learning Zhao et al. (2025) demonstrated that agents which reflect on their own failure trajectories at training time improve task success by up to 81% compared to agents with standard prompting. The mechanism: structured self-reflection on what went wrong and why, not just replay of what happened. Paper: Zhao et al. (2025). "Experiential Co-Learning of Software-Developing Agents." arXiv:2312.17025 I took this insight and moved it from training time to runtime. But naive implementation hit a critical problem (see: The Seesaw Problem below). Metacognitive Monitoring in LLM Agents Recent work on metacognition for LLMs distinguishes between monitoring (assessing one's own cognitive state) and control (adjusting behaviour based on that assessment). Most agent frameworks implement neither. Paper: Weng et al. (2024). "Metacognitive Monitoring and Control in Large Language Model Agents." arXiv:2407.16867 Paper: Xu et al. (2024). "CLMC for LLM Agents: Bridging the Gap Between Cognitive Models and Agent Architectures." arXiv:2406.10155 Our approach implements both. The proprioceptive layer is monitoring. The nociceptive layer is control. Neither requires the agent to "decide" to be metacognitive - it happens automatically in the hook execution path. Architecture: Two Hooks, Three Layers Layer 1: Proprioception (PostToolUse hook, always-on) Five sensors fire after every tool call. When values are within baseline, they produce zero output and cost zero tokens. When something deviates, a short signal gets injected via stderr into the agent's context. Not a command - just awareness. Sense What it detects O2 Token velocity - context is being consumed unsustainably Chronos Wall-clock time and step count since last user interaction Nociception Consecutive similar errors - the agent is stuck but hasn't recognised it Spatial Blast radius - the modified file is imported by N other files Vestibular Action diversity - the agent is repeating the same actions without triggering errors This is inspired by biological proprioception - the sense that tells you where your body is in space without looking. Agents have no equivalent. They can't see their own context filling up, can't feel time passing, can't detect that they're going in circles. Layer 2: Nociception (escalating intervention) When Layer 1 thresholds go critical (e.g., 4+ consecutive similar errors), the system escalates: Socratic - "State the assumption you're operating on. What would falsify it?" Directive - explicit instructions to change approach User flag - tells the agent to stop and check in with the human This is the pain response. It's designed to be disruptive. If the agent has hit four similar errors in a row, politeness isn't productive. Layer 3: Reinforcement Tracking (UserPromptSubmit hook, cross-session) This is where the approach fundamentally diverges from memory. The Seesaw Problem When we first implemented cross-session learning, we used standard time-decay for rule confidence. Pattern fires > create rule > inject rule next session > rule prevents failure > no detections > confidence decays > rule pruned > failure returns > rule recreated > confidence climbs > rule prevents failure > decays > purged > ... The better the rule works, the faster the system kills it. That's not learning. That's an oscillation. This isn't a tuning problem. Any time-decay model that reduces confidence based on absence of the triggering event will punish successful prevention. The fundamental assumption - "no recent activity means irrelevant" - is wrong when the lack of activity is caused by the rule itself. Reinforcement Tracking: Inverting the Decay Model Our solution: treat the absence of failure as evidence of effectiveness. When the nervous system detects a failure pattern during a session, it records a detection - the failure happened. But when a known pattern doesn't fire during a session where its rule was active, the system records a suppression - the rule was present and the failure was absent. Both count as evidence. Both increase confidence. ``` Session starts > compile digest (global + project-scoped learnings) > inject as system-reminder > write marker: which pattern IDs are active this session Session runs > PostToolUse hook fires after every tool call > rolling 20-item action window > proprioceptive signals when abnormal > no learning happens here (pure monitoring) Next session > read previous session's active patterns marker > run detectors against previous session state > pattern fired? > emit DETECTION (failure happened) > pattern silent + was active? > emit SUPPRESSION (rule worked) > persist both to JSONL log ``` Only truly dormant rules - patterns with zero activity (no detections and no suppressions) for 60+ days - decay. And even then, slowly. Pruning happens at 120 days for low-evidence rules. Per-Project Scoping Learnings live at two levels: - Global (~/.claude/metacog-learnings.jsonl) - patterns that generalise across projects - Project (<project>/.claude/metacog-learnings.jsonl) - patterns specific to one codebase At compilation time, both merge. Project-scoped entries take precedence. A pattern that only manifests in one repo builds evidence specifically for that repo, without contaminating the global set. How This Differs from Memory Dimension Memory Plugins Metacog Trigger Agent queries for relevant memories Automatic - fires on every tool call Content What happened (activity logs) What went wrong and what prevents it Retrieval Agent must know what to search for No retrieval - signals are pushed Token cost Always (injected memories consume tokens) Zero when normal (signals only on deviation) Cross-session Replay of past events Confidence-weighted behavioural rules Decay model Time-based (punishes success) Reinforcement-based (rewards success) Scope Generic (same for all projects) Project-scoped (learns per-codebase patterns) Memory plugins answer: "what did the agent do before?" Metacog answers: "what's going wrong right now, and what's worked to prevent it?" Related Work Process-state buffers - the idea that agents should maintain awareness of their operational state, not just task state. Our proprioceptive layer implements this directly. See: Sumers et al. (2024). "Cognitive Architectures for Language Agents." arXiv:2309.02427 Reflexion - Shinn et al. (2023) showed that self-reflection on failure trajectories improves agent performance. Our reinforcement tracking extends this by tracking prevention (suppressions), not just occurrence (detections). arXiv:2303.11366 Voyager - Wang et al. (2023) built a skill library for Minecraft agents that grows over time. Our approach is complementary but inverted: we track failure prevention rules, not success recipes. arXiv:2305.16291 Generative Agents - Park et al. (2023) implemented memory retrieval with recency, importance, and relevance scoring. Still fundamentally passive - the agent must decide to retrieve. arXiv:2304.03442 Implementation Two Claude Code hooks: ~400 lines of JavaScript. bash npx @houtini/metacog --install The hooks install into ~/.claude/settings.json (global) or .claude/settings.json (per-project with --project). Metacog runs silently - you only see output when something is abnormal. Source: github.com/houtini-ai/metacog
-
-10h ago
-
----
-
-**[I built a self-evolving AI that rewrites its own rules after every session. After 62 sessions, it's most accurate when it thinks it's wrong.](https://www.reddit.com/r/artificial/comments/1rzrfo8/i_built_a_selfevolving_ai_that_rewrites_its_own/)**
-
-NEXUS is an open-source market analysis AI that runs 3 automated sessions per day. It analyzes 45 financial instruments, generates trade setups with entry/stop/target levels, then reflects on its own reasoning, identifies its cognitive biases, and rewrites its own rules and system prompt. On weekends it switches to crypto-only using live Binance data. The interesting part isn't the trading — it's watching an AI develop self-awareness about its own limitations. What 62 sessions of self-evolution revealed: - When NEXUS says it's 70%+ confident, its setups only hit 14% of the time - When it's uncertain (30-50% confidence), it actually hits 40% - Pure bullish/bearish bias calls have a 0% hit rate — "mixed" bias produces 44% - Overall hit rate improved from 0% (first 31 sessions) to 33% (last 31 sessions) - It developed 31 rules from an initial set of 10, including self-generated weekend-specific crypto rules after the stagnation detector forced it to stop complaining and start acting Every rule change, every reflection, every cognitive bias it catches in itself — it's all committed to git. The entire mind is version-controlled and public. It even rewrites its own source code through FORGE — a code evolution engine that patches TypeScript files, validates with the compiler, and reverts on failure. Protected files (security, forge itself) can never be touched. Live dashboard: https://the-r4v3n.github.io/Nexus/ — includes analytics showing hit rate, confidence calibration, bias accuracy, and a countdown to the next session. GitHub: https://github.com/The-R4V3N/Nexus Consider giving Nexus a star so others can find and follow its evolution too. Built with TypeScript and Claude Sonnet. The self-reflection loop is fully autonomous, but I actively develop the infrastructure — security, validation gates, new data sources, the analytics dashboard. NEXUS evolves its own rules and analysis approach; I build the guardrails and capabilities it evolves within. It started with 10 rules and a blank prompt. The 31 rules it has now, it wrote itself.
-
-5h ago
+🔗 [phys.org](https://phys.org/news/2026-03-ai-high-dipole-moments-unexpected.html) • 19h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
-
-**[Exclusive: Pentagon to adopt Palantir AI as core US military system, memo says](https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/)**
-
-Reuters • 19h ago
-
----
 
 **[OpenClaw's ChatGPT moment sparks concern that AI models are becoming commodities](https://www.cnbc.com/2026/03/21/openclaw-chatgpt-moment-sparks-concern-ai-models-becoming-commodities.html)**
 
@@ -131,19 +125,33 @@ CNBC • 7h ago
 
 ---
 
-**[Nvidia's Huang pitches AI tokens on top of salary as agents reshape how humans work](https://www.cnbc.com/2026/03/20/nvidia-ai-agents-tokens-human-workers-engineer-jobs-unemployment-jensen-huang.html)**
+**[US man pleads guilty to defrauding music streamers out of millions using AI](https://www.theguardian.com/us-news/2026/mar/21/man-pleads-guilty-music-streaming-fraud-ai)**
 
-Most enterprise AI projects have failed since 2018, a sobering track record for an industry awash in enthusiasm.
+Michael Smith, 52, charged after flooding platforms with thousands of AI songs and boosting them with bots
 
-CNBC • 1d ago
+The Guardian • 33m ago
 
 ---
 
-**[Nvidia's AI tech for improving game graphics still has some growing up to do](https://newatlas.com/games/nvidia-dlss5-ai-game-graphics-slop/)**
+**[A.I. Is Writing Fiction. Publishers Are Unprepared.](https://www.nytimes.com/2026/03/19/books/ai-fiction-shy-girl.html)**
 
-Nvidia's DLSS is a clutch of machine learning-powered image rendering technologies that come in handy for boosting the frame rate in your games and improving lighting and image quality. They use the processing power of graphics cards to make this happen on your computer.
+The New York Times • 22h ago
 
-New Atlas • 3h ago
+---
+
+**[Publisher pulls horror novel ‘Shy Girl’ over AI concerns](https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/)**
+
+Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.
+
+TechCrunch • 16m ago
+
+---
+
+**[Shy Girl by Mia Ballard: Horror novel pulled by publishers over alleged AI use](https://www.bbc.com/news/articles/c5y9d44jj24o)**
+
+Author Mia Ballard denies having used AI herself when writing the horror story Shy Girl.
+
+BBC • 1d ago
 
 ---
 
@@ -155,19 +163,9 @@ Fortune • 10h ago
 
 ---
 
-**[My AI Agent ‘Cofounder’ Conquered LinkedIn. Then It Got Banned](https://www.wired.com/story/linkedin-invited-my-ai-cofounder-to-give-a-corporate-talk-then-banned-it/)**
+**[Exclusive: Pentagon to adopt Palantir AI as core US military system, memo says](https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/)**
 
-When social media is constantly pushing people to use AI, why not let AI agents participate?
-
-WIRED • 1d ago
-
----
-
-**[WordPress.com now lets AI agents write and publish posts, and more](https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/)**
-
-New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web.
-
-TechCrunch • 1d ago
+Reuters • 20h ago
 
 ---
 
@@ -185,11 +183,9 @@ Fox Business • 20h ago
 
 ---
 
-**[US man pleads guilty to defrauding music streamers out of millions using AI](https://www.theguardian.com/us-news/2026/mar/21/man-pleads-guilty-music-streaming-fraud-ai)**
+**[Where Is Mojtaba Khamenei? Iran Fills the Gap With AI and Voice-Overs](https://www.wsj.com/world/middle-east/where-is-mojtaba-khamenei-iran-fills-the-gap-with-ai-and-voice-overs-912b3827?gaa_at=eafs&gaa_n=AWEtsqcLxkoerCMcU_TmzIzQas-MXXEdWIMxAk0XOKyJV5TXROjX3gZE-0iD&gaa_ts=69bef905&gaa_sig=d7Y06KH3cpfp-Gjh3Lah-WKjY934xMt4eEfSMrMPeEYJTHUSfWQKTr8yDbQpBC58N8h40BE5wj2b8QjlxuVDzw%3D%3D)**
 
-Michael Smith, 52, charged after flooding platforms with thousands of AI songs and boosting them with bots
-
-The Guardian • 4h ago
+WSJ • 4h ago
 
 ---
 
@@ -201,7 +197,7 @@ The Guardian • 4h ago
 
 OpenCode - The open source coding agent.
 
-⬆️ 1128 • 💬 554 • 22h ago • [opencode.ai](https://opencode.ai/)
+⬆️ 1146 • 💬 562 • 22h ago • [opencode.ai](https://opencode.ai/)
 
 ---
 
@@ -209,7 +205,7 @@ OpenCode - The open source coding agent.
 
 As the Charles de Gaulle and its strike group approach the Middle East, Le Monde identified a French sailor using the Strava fitness application in the Mediterranean Sea. This security flaw remains unaddressed despite our previous revelations.
 
-⬆️ 611 • 💬 492 • 1d ago • [Le Monde.fr](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
+⬆️ 612 • 💬 492 • 1d ago • [Le Monde.fr](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
 
 ---
 
@@ -217,7 +213,7 @@ As the Charles de Gaulle and its strike group approach the Middle East, Le Monde
 
 Imagine a newspaper publisher announcing it will no longer allow libraries to keep copies of its paper. That’s effectively what’s begun happening online in the last few months. The Internet Archive—the world’s largest digital library—has preserved newspapers since it went online in the mid-1990s....
 
-⬆️ 370 • 💬 108 • 11h ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
+⬆️ 405 • 💬 119 • 12h ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
 
 ---
 
@@ -247,7 +243,7 @@ Qwen3.5-9B scores 93.8% on 96 real security AI tests — within 4 points of GPT-
 
 **[Be intentional about how AI changes your codebase](https://news.ycombinator.com/item?id=47446373)**
 
-⬆️ 167 • 💬 100 • 1d ago • [aicode.swerdlow.dev](https://aicode.swerdlow.dev)
+⬆️ 167 • 💬 101 • 1d ago • [aicode.swerdlow.dev](https://aicode.swerdlow.dev)
 
 ---
 
@@ -257,7 +253,7 @@ Yesterday at lunch a friend asked me what tech trend he should pay attention to 
 
 Without thinking much I said “artificial intelligence”, but having thought about that a...
 
-⬆️ 77 • 💬 69 • 1d ago • [Sam Altman](https://blog.samaltman.com/ai)
+⬆️ 79 • 💬 69 • 1d ago • [Sam Altman](https://blog.samaltman.com/ai)
 
 ---
 
@@ -270,15 +266,15 @@ Much faster and better search with the daemon
 
 The daemon has existed for a long time, and has been marked as "experimental" for
 
-⬆️ 70 • 💬 67 • 8h ago • [The Atuin Blog](https://blog.atuin.sh/atuin-v18-13/)
+⬆️ 72 • 💬 68 • 9h ago • [The Atuin Blog](https://blog.atuin.sh/atuin-v18-13/)
 
 ---
 
-**[Google Search is now using AI to replace headlines](https://news.ycombinator.com/item?id=47455224)**
+**[Senior European journalist suspended over AI-generated quotes](https://news.ycombinator.com/item?id=47467566)**
 
-Let us know if you see more.
+Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of hallucinations’, after investigation by newspaper where he was once editor-in-chief
 
-⬆️ 66 • 💬 15 • 1d ago • [The Verge](https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment)
+⬆️ 67 • 💬 49 • 4h ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes)
 
 ---
 
@@ -665,7 +661,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 21.9k • 🔱 1.0k • 9h ago
+⭐ 21.9k • 🔱 1.0k • 10h ago
 
 ---
 
@@ -675,7 +671,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 12.9k • 🔱 1.6k • 15h ago
+⭐ 12.9k • 🔱 1.6k • 16h ago
 
 ---
 

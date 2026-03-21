@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-21T19:25:23.714070+00:00'
+updated: '2026-03-21T19:46:35.961756+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- videos
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 19:25 UTC  
+**Last Updated:** March 21, 2026 at 19:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** -1.2%  
-**30d:** +9.3%  
+**24h:** +0.8%  
+**7d:** -1.3%  
+**30d:** +9.2%  
 **90d:** -28.5%  
-**1y:** +8.7%  
+**1y:** +8.6%  
 
 ---
 
@@ -88,7 +88,7 @@ Hey everyone, I’ve been working on a side project called Blockpeek and just sh
 
 I’m looking for a way to swap my Bitcoin to Ethereum without KYC, so obviously i found thorchain, but unfortunately it’s not available here in the U.S, and i heard it’s very expensive as well. Where should I do it you think? sorry if this question was already asked in past but i couldnt find an answer after bit lf time checking.
 
-21h ago
+22h ago
 
 ---
 
@@ -192,7 +192,7 @@ The Block • 2d ago
 
 ---
 
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqeKnhCccIZgGBTz8W0PYxl0KecP077j7LHEf1U-8WBhZuYTJM0OfnpJ&gaa_ts=69bee90b&gaa_sig=FPuXp_BrNUjPN6SQXws3Ctg3e6q3IUcO7uCa0aH4hIZ3L4V4a94SUfiaT97CVISdNXc9YQN1gp3xk8j-dsJJ6A%3D%3D)**
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqcBgDMMg04zn9fatF8KzajNijs32E6DDMn1R7CxeudrARF1LksyM_Cf&gaa_ts=69bef908&gaa_sig=nRN4awbvZWWBLDvO_exNKMveNUMBU3yyF2coqeRyM4HM2mkHgokTxbe5G5_5KBcOUTs8vQDKpQoCXHRTtA4ObA%3D%3D)**
 
 MarketWatch • 1d ago
 

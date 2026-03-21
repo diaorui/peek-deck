@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-21T19:25:23.707967+00:00'
+updated: '2026-03-21T19:46:35.955833+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- videos
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 19:25 UTC  
+**Last Updated:** March 21, 2026 at 19:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,10 +45,10 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +0.5%  
-**7d:** -3.1%  
-**30d:** +3.6%  
-**90d:** -20.2%  
-**1y:** -15.9%  
+**7d:** -3.3%  
+**30d:** +3.4%  
+**90d:** -20.3%  
+**1y:** -16.1%  
 
 ---
 
@@ -77,17 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[RIP Legend](https://www.reddit.com/r/Bitcoin/comments/1rzh2xj/rip_legend/)**
-
-15h ago
-
----
-
 **[Have you seen it? The scientist said that BTC will reach $350K ~ $700K without FOMO between mid 2027 ~ end 2028.](https://www.reddit.com/r/Bitcoin/comments/1rzo7jq/have_you_seen_it_the_scientist_said_that_btc_will/)**
 
 Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perrenod
 
-8h ago
+9h ago
+
+---
+
+**[RIP Legend](https://www.reddit.com/r/Bitcoin/comments/1rzh2xj/rip_legend/)**
+
+16h ago
 
 ---
 
@@ -121,6 +121,14 @@ Bitcoin and cryptocurrency explained in a way that's fun and easy to understand.
 
 ---
 
+**[FAFO Bitcoin investor here](https://www.reddit.com/r/Bitcoin/comments/1rzzwwb/fafo_bitcoin_investor_here/)**
+
+hi, just checking in to say hi I am generally a conservative broad index ETF investor for most of my savings but jn recent years have also been buying bitcoin and and now hold 1,1 BTC. I am torn between contirnuing to buy a bit every month or stopping altogether having achieve wholecoinership. I would be interested to know how other stackers approach this
+
+36m ago
+
+---
+
 **[Bitcoin stuck, it needs your help!](https://www.reddit.com/r/Bitcoin/comments/1rzindb/bitcoin_stuck_it_needs_your_help/)**
 
 Please someone just buy or sell already so the price moves!
@@ -145,14 +153,6 @@ Abra Financial Holdings, Inc. CEO
 
 ---
 
-**[Daily Discussion, March 21, 2026](https://www.reddit.com/r/Bitcoin/comments/1rzjznp/daily_discussion_march_21_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-13h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -173,6 +173,14 @@ CoinDesk • 1d ago
 
 ---
 
+**[Bitcoin options signal extreme fear as downside protection premium hits new all-time high, says VanEck](https://www.coindesk.com/markets/2026/03/21/bitcoin-options-signal-extreme-fear-as-downside-protection-premium-hits-new-all-time-high-says-vaneck)**
+
+Despite stabilizing spot prices, investors remain defensive, with leveraged speculation cooling and realized volatility dropping from 80 to 50, suggesting a cautious market sentiment.
+
+CoinDesk • 50m ago
+
+---
+
 **[Eric Trump Says 'Up We Go' After American Bitcoin Surpasses Galaxy Digital In Bitcoin Holdings — So Why Is The Stock Lagging?](https://finance.yahoo.com/markets/crypto/articles/eric-trump-says-american-bitcoin-150105170.html)**
 
 American Bitcoin Corp. co-founder Eric Trump celebrated on Wednesday after the company surpassed Galaxy Digital Inc. in accumulating Bitcoin. ‘Climbing The Ladder Faster’ Trump took pride in the achievement on X, adding, “No company is climbing the ladder faster. Up,...
@@ -189,25 +197,9 @@ Financial Times • 1d ago
 
 ---
 
-**[Crypto market sheds $100 billion as bitcoin price drops 5% amid Fed caution](https://www.theblock.co/post/394219/crypto-market-sheds-100-billion-bitcoin-price-drops-5-fed-caution)**
-
-The sell-off extended beyond crypto as investors reassessed the macro outlook following the Fed’s latest guidance.
-
-The Block • 2d ago
-
----
-
-**[Bitcoin Falls Below $70,000. It’s Not Just the Fed Decision Dragging on the Crypto, XRP.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-fed-powell-oil-033bcaee?gaa_at=eafs&gaa_n=AWEtsqcsXOGbDDVaYgI4OQE9BoQ_2Kyp3fNsi3hxi3tZbFvwpFnbrxchid6k&gaa_ts=69bee908&gaa_sig=T8C7QOwPh8Mg6j47kixPEbO0sHlZheFCKiUJPd6Ir6fSY3s22lHHiRYzIaPdyB9PqLustePawwvO0FSqesV_eQ%3D%3D)**
+**[Bitcoin Falls Below $70,000. It’s Not Just the Fed Decision Dragging on the Crypto, XRP.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-fed-powell-oil-033bcaee?gaa_at=eafs&gaa_n=AWEtsqcTFWNETkIYaknetAw5OyXcI7dHNZ8EEPCikdrGocr0FxlFl-xZwOv5&gaa_ts=69bef906&gaa_sig=Qr2rEMvJpVsyi0-dMFK1UuYB8GC7vQWQQwMxeOfjN3bN6X_OelzTH3EKj5EJcN2MTnA8aaF3Tqqd0LKcM5nk7Q%3D%3D)**
 
 Barron's • 2d ago
-
----
-
-**[Bitcoin (BTC) price news: Hold onto "dry powder" while prices swing, says one analyst](https://www.coindesk.com/markets/2026/03/19/bitcoin-holds-usd69-000-as-gold-tumbles-oil-spikes-but-analyst-says-stay-on-sidelines)**
-
-While bitcoin has shown relative strength against gold since the war in Iran broke out, investors are better off holding off "dry powder" while prices swing wildly on headlines, said Wintermute's Bryan Tan.
-
-CoinDesk • 2d ago
 
 ---
 
@@ -219,15 +211,21 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqeJmM4oH3y-Gqd6FMjO2CHyWkfFxv-j-MTUfexbtvTRmGGgpZf7aLw0&gaa_ts=69bee908&gaa_sig=4K2Nhq9pZvzn5vd8WppaujMhQTVzvSZ1pjfzvWsqUGHxAssx65x0rPnSeos_HXsbcjR_xFQ3U91UNeMHx8hhaw%3D%3D)**
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqfKZ4pKpkjBIL_f2nO59_CA_agZHajkBwP_Zb2xMGigkpUqWNXR345u&gaa_ts=69bef906&gaa_sig=sR-camrpLP-zUipnSyjf-y8fFew1SbJsKn_23hTlCAr8XH3HpgW5iwP2eNFS67PPFuR-deoaQizcd02chhoqyg%3D%3D)**
 
 MarketWatch • 1d ago
 
 ---
 
+**[‘Difficult to resolve’: Local authorities return money lost in Bitcoin scam](https://fox8.com/news/difficult-to-resolve-local-authorities-return-money-lost-in-bitcoin-scam/)**
+
+FOX 8 News • 1d ago
+
+---
+
 **[Ex-Wife Accused of Stealing £180 Million in Bitcoin After Divorce](https://www.bloomberg.com/news/articles/2026-03-19/ex-wife-accused-of-stealing-180-million-in-bitcoin-after-divorce)**
 
-Bloomberg.com • 2d ago
+Bloomberg • 2d ago
 
 ---
 
@@ -283,7 +281,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 **[BioContact assurance and status monitoring using human body communication](https://news.ycombinator.com/item?id=47459528)**
 
-⬆️ 1 • 💬 0 • 23h ago • [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2590123025045001)
+⬆️ 1 • 💬 0 • 1d ago • [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2590123025045001)
 
 ---
 
@@ -303,7 +301,7 @@ Bitcoin just went live at millions of businesses without anyone opting in. While
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 125 • ⏱️ 12:51 • 20h ago
+👁️ 17K • 👍 1K • 💬 125 • ⏱️ 12:51 • 21h ago
 
 ---
 
@@ -313,7 +311,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 7K • 👍 382 • 💬 141 • ⏱️ 8:34 • 19h ago
+👁️ 7K • 👍 382 • 💬 141 • ⏱️ 8:34 • 20h ago
 
 ---
 
