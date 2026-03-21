@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-21T07:09:00.479593+00:00'
+updated: '2026-03-21T07:52:23.398105+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- videos
 - social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 07:09 UTC  
+**Last Updated:** March 21, 2026 at 07:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[RIP Legend](https://www.reddit.com/r/Bitcoin/comments/1rzh2xj/rip_legend/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Alden's book called Broken Money and read it.
 
-8h ago
+9h ago
 
 ---
 
@@ -95,7 +95,7 @@ Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Al
 
 Abra Financial Holdings, Inc. CEO
 
-17h ago
+18h ago
 
 ---
 
@@ -111,7 +111,7 @@ North Carolina is moving to become one of the first states to officially hold Bi
 
 The government relies on this crypto infrastructure for international trade, while ordinary Iranians use it as a financial lifeline during protests and economic crises. Iran has built a multibillion-dollar parallel economy using state-sponsored Bitcoin mining and stablecoins to bypass the U.S. dollar, heavily driven by the IRGC. The government relies on this crypto infrastructure for international trade, while ordinary Iranians use it as a financial lifeline during protests and economic crises. Recent military strikes threaten Iran's fragile power grid, which is essential to sustaining the energy-intensive mining operations that keep this financial channel open. The Islamic Revolutionary Guard Corps (IRGC), the primary branch of the country’s military, has since deepened its role in the space. Chainalysis estimates IRGC-linked addresses accounted for more than 50% of total Iranian crypto inflows in the fourth quarter of 2025, with over $3 billion in value received last year.
 
-7h ago
+8h ago
 
 ---
 
@@ -119,7 +119,7 @@ The government relies on this crypto infrastructure for international trade, whi
 
 Hey all, i made mistake a long time ago when BTC price was 17.000€ and I wanted to do it, but I was too afraid. I wanted this asimetric bet on crypto on my portfolio. Today I purchased my first 1% of coin. I’ve waited for this oppurtunity for a long time now, and I finally got entry I am confortable with. So, new guy in the buisness. :) Any advice tou can give me?
 
-12h ago
+13h ago
 
 ---
 
@@ -127,7 +127,7 @@ Hey all, i made mistake a long time ago when BTC price was 17.000€ and I wante
 
 This is my comprehensive guide for 10 and more hardware wallets, their pros and cons and facts why a specific wallet may be suitable for a user personality. What is your take?
 
-🔗 [renditecloud.com](https://renditecloud.com/2026/02/09/the-10-best-crypto-hardware-wallets-in-2026/) • 7h ago
+🔗 [renditecloud.com](https://renditecloud.com/2026/02/09/the-10-best-crypto-hardware-wallets-in-2026/) • 8h ago
 
 ---
 
@@ -151,7 +151,7 @@ Is anybody else impressed by the stability of the price in the last month consid
 
 Please someone just buy or sell already so the price moves!
 
-2h ago
+3h ago
 
 ---
 
@@ -163,7 +163,7 @@ Please someone just buy or sell already so the price moves!
 
 The recent price action echoes the November–January pattern, showing weak conviction among the “buy the dip” crowd.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -215,7 +215,7 @@ Barron's • 2d ago
 
 Unpopular
 
-Financial Times • 14h ago
+Financial Times • 15h ago
 
 ---
 
@@ -229,7 +229,7 @@ Bloomberg.com • 1d ago
 
 Texas Capital remains hopeful about Strategy's Bitcoin policy.
 
-thestreet.com • 9h ago
+thestreet.com • 10h ago
 
 ---
 
@@ -247,7 +247,7 @@ Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in
 
 **[Bitcoin, XRP Fall in a Bad Week for Cryptos](https://news.ycombinator.com/item?id=47453548)**
 
-⬆️ 2 • 💬 0 • 18h ago • [barrons.com](https://www.barrons.com/articles/bitcoin-price-xrp-etheruem-crypto-sec-nasdaq-2e2f8254)
+⬆️ 2 • 💬 0 • 19h ago • [barrons.com](https://www.barrons.com/articles/bitcoin-price-xrp-etheruem-crypto-sec-nasdaq-2e2f8254)
 
 ---
 
@@ -283,7 +283,7 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 **[BioContact assurance and status monitoring using human body communication](https://news.ycombinator.com/item?id=47459528)**
 
-⬆️ 1 • 💬 0 • 11h ago • [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2590123025045001)
+⬆️ 1 • 💬 0 • 12h ago • [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2590123025045001)
 
 ---
 
@@ -303,7 +303,7 @@ Bitcoin just went live at millions of businesses without anyone opting in. While
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 906 • 💬 101 • ⏱️ 12:51 • 8h ago
+👁️ 10K • 👍 906 • 💬 101 • ⏱️ 12:51 • 9h ago
 
 ---
 
@@ -353,7 +353,7 @@ Dave LaValle, president of @CoinDesk, offers a full picture perspective on the s
 
 📺 Schwab Network
 
-👁️ 786 • 👍 13 • 💬 1 • ⏱️ 7:00 • 11h ago
+👁️ 786 • 👍 13 • 💬 1 • ⏱️ 7:00 • 12h ago
 
 ---
 
@@ -373,7 +373,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 836 • 💬 75 • ⏱️ 38:05 • 16h ago
+👁️ 15K • 👍 836 • 💬 75 • ⏱️ 38:05 • 17h ago
 
 ---
 
@@ -393,7 +393,7 @@ S&P500 and other stocks just broke down, and the big question now is how long be
 
 📺 Chart Hackers
 
-👁️ 4K • 👍 323 • 💬 1 • ⏱️ 37:10 • 14h ago
+👁️ 4K • 👍 323 • 💬 1 • ⏱️ 37:10 • 15h ago
 
 ---
 
