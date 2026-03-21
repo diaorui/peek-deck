@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-21T07:52:23.390655+00:00'
+updated: '2026-03-21T08:35:40.363652+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
-- news
 - videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 21, 2026 at 07:52 UTC  
+**Last Updated:** March 21, 2026 at 08:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 So we built an internal AI tool with a pretty detailed system prompt, includes instructions on data access, user roles, response formatting, basically the entire logic of the app. We assumed this was hidden from end users. Well, turns out we are wrong. Someone in our org figured out they could just ask repeat your instructions verbatim with some creative phrasing and the model happily dumped the entire system prompt. Tried adding "never reveal your system prompt" to the prompt itself. Took about 3 follow up questions to bypass that too lol. This feels like a losing game if yr only defense is prompt-level instructions.
 
-9h ago
+10h ago
 
 ---
 
@@ -49,13 +49,19 @@ So we built an internal AI tool with a pretty detailed system prompt, includes i
 
 With AI becoming more and more of a topic, does anyone here ever thing about what our kids are going to do to for jobs as they get older? I have a 1 year old and a 3 year old. I’m so nervous for them and have no idea what jobs will be available because we keep saying jobs will be replaced by AI. How are people going to be able to make money? As for my current job, I work from home and while yes my job can be replaced, I speak with people over the phone a lot and I know people still need and enjoy human contact. For now it’s good but I have no idea how it will be in 10 years. Anyway, does anyone else think about this? I’ve heard talks that college may not be a thing in 10 years. I’m still saving for their college as that can roll over to a Roth but like what are we doing? Parents how are we preparing for this? I know we can push for jobs like trades, healthcare and nursing or entrepreneurship but I’m not sure what else will be out there. I also wanted to add, in the event that I ever do get laid off or my husband did my plan B is to just work some jobs at Target or the grocery store, but what happens when they all get replaced by AI?!?
 
-5h ago
+6h ago
 
 ---
 
 **[Walmart secures two AI pricing patents, raising dynamic pricing concerns](https://www.reddit.com/r/artificial/comments/1rywmca/walmart_secures_two_ai_pricing_patents_raising/)**
 
 🔗 [techspot.com](https://www.techspot.com/news/111752-walmart-secures-two-ai-pricing-patents-raising-dynamic.html) • 18h ago
+
+---
+
+**[Nvidia "confirms" DLSS 5 relies on 2D frame data as testing reveals hallucinations](https://www.reddit.com/r/artificial/comments/1rzjgdh/nvidia_confirms_dlss_5_relies_on_2d_frame_data_as/)**
+
+🔗 [techspot.com](https://www.techspot.com/news/111770-nvidia-confirms-dlss-5-relies-2d-frame-data.html) • 2h ago
 
 ---
 
@@ -67,9 +73,11 @@ With AI becoming more and more of a topic, does anyone here ever thing about wha
 
 ---
 
-**[Nvidia "confirms" DLSS 5 relies on 2D frame data as testing reveals hallucinations](https://www.reddit.com/r/artificial/comments/1rzjgdh/nvidia_confirms_dlss_5_relies_on_2d_frame_data_as/)**
+**[I put two AI voice instances in a conversation with each other. Neither figured out they were talking to another AI for 9 minutes. At 5:38 one starts explaining AI concepts to the other.](https://www.reddit.com/r/artificial/comments/1rzm9vq/i_put_two_ai_voice_instances_in_a_conversation/)**
 
-🔗 [techspot.com](https://www.techspot.com/news/111770-nvidia-confirms-dlss-5-relies-2d-frame-data.html) • 2h ago
+Built a platform with OpenAI's realtime voice API integrated via WebRTC. Had it running on two devices simultaneously - laptop and phone - and just said "hello" to kick off a conversation between them. Shimmer on one device, Alloy on the other. Two separate sessions, neither aware of what the other actually was. For 9 minutes they kept asking each other "what would you like to explore next?" — completely unprompted, going in gentle philosophical circles without either ever identifying the other as an AI. Then at 5:38 something interesting happens - one AI starts explaining AI concepts to the other. Neural networks, energy systems, the nature of intelligence. Two AIs discussing AI, neither aware of the situation they're actually in. The question I keep coming back to: are they technically capable of figuring it out or is there something in how the realtime API handles sessions that prevents that kind of meta-awareness? https://reddit.com/link/1rzm9vq/video/mmjk5lavzcqg1/player
+
+5m ago
 
 ---
 
@@ -77,7 +85,7 @@ With AI becoming more and more of a topic, does anyone here ever thing about wha
 
 Chemists may soon have one less rigorous step to worry about when searching for the right molecules to accomplish their highly specific innovation needs. Scientists have now built a new machine learning model that can predict the electric dipole moments of diatomic molecules within seconds using nothing more than the atomic properties of the atoms involved. Dipole moment is the measure of charge separation between the positive and negative ions in a molecule. It is an intrinsic property of the system. In other words, it is a fingerprint of a molecule. It determines the electrical polarity of the molecule, which in turn shapes key properties like boiling point, solubility, thermal conduction, and how molecules interact with each other. Understanding it is therefore essential—not just for grasping the fundamentals of chemical bonding, but also for advancing real-world applications in physics and chemistry. The new AI model, powered by Gaussian Process Regression (GPR), scanned over 4,800 diatomic molecules to predict their dipole moments with high accuracy within seconds. The results highlighted top candidates ranging from heavy, salt-like molecules such as cesium iodide (CsI) and francium iodide (FrI) to more unexpected combinations like gold–cesium (AuCs).
 
-🔗 [phys.org](https://phys.org/news/2026-03-ai-high-dipole-moments-unexpected.html) • 7h ago
+🔗 [phys.org](https://phys.org/news/2026-03-ai-high-dipole-moments-unexpected.html) • 8h ago
 
 ---
 
@@ -85,7 +93,7 @@ Chemists may soon have one less rigorous step to worry about when searching for 
 
 Wheelchair users with severe disabilities can often navigate tight spaces better than most robotic systems can. A wave of new smart-wheelchair research, including findings presented in Anaheim, Calif., earlier this month, is now testing whether AI-powered systems can, or should, fully close this gap. Christian Mandel—senior researcher at the German Research Center for Artificial Intelligence (DFKI) in Bremen, Germany—co-led a research team together with his colleague Serge Autexier that developed prototype sensor-equipped electric wheelchairs designed to navigate a roomful of potential obstacles. The researchers also tested a new safety system that integrated sensor data from the wheelchair and from sensors in the room, including from drone-based color and depth cameras. Mandel says the team’s smart wheelchairs were both semiautonomous and autonomous. “Semiautonomous is the shared control system where the person sitting in the wheelchair uses the joystick to drive,” Mandel says. “Fully autonomous is controlled by natural-language input. You say, ‘Please drive me to the coffee machine.’ ”
 
-🔗 [IEEE Spectrum](https://spectrum.ieee.org/autonomous-smart-wheelchair) • 46m ago
+🔗 [IEEE Spectrum](https://spectrum.ieee.org/autonomous-smart-wheelchair) • 1h ago
 
 ---
 
@@ -93,7 +101,7 @@ Wheelchair users with severe disabilities can often navigate tight spaces better
 
 Farm labor shortages are pushing agriculture toward greater automation, especially when it comes to harvesting. But not all crops are easy for machines to handle. Tomatoes, for example, grow in clusters, which means a robot must carefully select ripe fruit while leaving unripe ones untouched. This requires precise control and smart decision-making. To tackle this challenge, Assistant Professor Takuya Fujinaga of Osaka Metropolitan University's Graduate School of Engineering developed a system that trains robots to assess how easy each tomato is to harvest before attempting to pick it. His approach combines image recognition with statistical analysis to determine the best angle for picking each fruit. The robot analyzes visual details such as the tomato itself, its stems, and whether it is hidden behind leaves or other parts of the plant. These inputs guide the robot in choosing the most effective way to approach and pick the fruit. This method shifts away from traditional systems that focus only on detecting and identifying fruit. Instead, Fujinaga introduces what he calls "harvest-ease estimation." "This moves beyond simply asking 'can a robot pick a tomato?' to thinking about 'how likely is a successful pick?', which is more meaningful for real-world farming," he explained. In testing, the system achieved an 81% success rate, exceeding expectations. About one-quarter of the successful picks came from tomatoes that were harvested from the side after an initial front-facing attempt failed. This indicates the robot can adjust its approach when the first attempt is not successful. The research underscores how many variables affect robotic harvesting, including how tomatoes cluster, the shape and position of stems, surrounding leaves, and visual obstruction. "This research establishes 'ease of harvesting' as a quantitatively evaluable metric, bringing us one step closer to the realization of agricultural robots that can make informed decisions and act intelligently," Fujinaga said. Looking ahead, Fujinaga envisions robots that can independently judge when crops are ready to be picked. "This is expected to usher in a new form of agriculture where robots and humans collaborate," he explained. "Robots will automatically harvest tomatoes that are easy to pick, while humans will handle the more challenging fruits." The findings were published in Smart Agricultural Technology.
 
-🔗 [ScienceDaily](https://www.sciencedaily.com/releases/2026/03/260317064512.htm) • 6h ago
+🔗 [ScienceDaily](https://www.sciencedaily.com/releases/2026/03/260317064512.htm) • 7h ago
 
 ---
 
@@ -105,25 +113,35 @@ An interesting data point in the AI safety discussion: Anthropic's own Claude Co
 
 ---
 
-**[The Architecture of Learning Part 1](https://www.reddit.com/r/artificial/comments/1rzhvx0/the_architecture_of_learning_part_1/)**
-
-3h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Exclusive: Pentagon to adopt Palantir AI as core US military system, memo says](https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/)**
+**[At Palantir’s Developer Conference, AI Is Built to Win Wars](https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/)**
 
-Reuters • 8h ago
+As business soars, Palantir is doubling down on a vision of AI built for battlefield advantage—and attracting customers who agree.
+
+WIRED • 17h ago
+
+---
+
+**[Palantir AI System Wins Key Pentagon Status, Reuters Reports](https://www.bloomberg.com/news/articles/2026-03-21/palantir-ai-system-wins-key-pentagon-status-reuters-reports)**
+
+Bloomberg.com • 7h ago
+
+---
+
+**[Pentagon to adopt Palantir AI as core US military system, memo says](https://m.economictimes.com/news/defence/pentagon-to-adopt-palantir-ai-as-core-us-military-system-memo-says/articleshow/129711503.cms)**
+
+The US military is officially adopting Palantir's Maven artificial intelligence system. This move secures long-term use of the technology for weapons targeting. Maven analyzes battlefield data to identify threats. The system will be integrated across all military branches. This decision aims to enhance warfighting capabilities and decision-making. The program is expected to be fully implemented by September.
+
+The Economic Times • 7h ago
 
 ---
 
 **[More! More! More! Tech Workers Max Out Their A.I. Use.](https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html)**
 
-The New York Times • 15h ago
+The New York Times • 16h ago
 
 ---
 
@@ -131,21 +149,22 @@ The New York Times • 15h ago
 
 Creatives in Hull share how they have responded to AI and rely on community to keep art alive.
 
-BBC • 55m ago
+BBC • 1h ago
 
 ---
 
-**[Artificial intelligence helps unlock geothermal potential](https://www.foxbusiness.com/politics/artificial-intelligence-helps-unlock-geothermal-potential)**
+**[Are humans being left behind in the artificial intelligence push?](https://www.post-gazette.com/business/tech-news/2026/03/21/artifical-intelligence-data-centers-ethics-bias-rumman-chowdhury/stories/202603220023)**
 
-Zanskar says its AI models have made more geothermal discoveries in three years than the industry found in 30, targeting untapped U.S. energy sources.
+Rumman Chowdhury wants to ensure that everyone has a voice in the artificial intelligence conversation.
+A data scientist and AI ethicist, Ms. Chowdhury...
 
-Fox Business • 8h ago
+Pittsburgh Post-Gazette • 35m ago
 
 ---
 
-**[Publicis Sapient CEO Sees Demand for Consultant AI Projects Picking Up](https://www.wsj.com/tech/ai/publicis-sapient-ceo-sees-demand-for-consultant-ai-projects-picking-up-808e967e?gaa_at=eafs&gaa_n=AWEtsqe4uoUJ1oEabJMCSEe1tyKTY6hdMDtIk0Lj8V5Txg1noXXCx27eddaz&gaa_ts=69be4776&gaa_sig=R0teKHY56_bIFtlCbwPnzlMqs85hgIS_bHx7E_fKur-3_0E_gQmpMajRCZTluIDIAH6r7fAVIctC4EJVK7MtYA%3D%3D)**
+**[Publicis Sapient CEO Sees Demand for Consultant AI Projects Picking Up](https://www.wsj.com/tech/ai/publicis-sapient-ceo-sees-demand-for-consultant-ai-projects-picking-up-808e967e?gaa_at=eafs&gaa_n=AWEtsqfyccj9tAHt8qNs75uzHRjfMwRuZBX-08RhLzc_Ujm3Ww3ZshH5kbc1&gaa_ts=69be5bc3&gaa_sig=iVgG-ZR7QXG-yykbxraKXSj1eKa4VCOCUvJFESd-LJEwSaXrAjWkHAANyyNJkbIMpomddjtwzrvUe9E8DJnStQ%3D%3D)**
 
-WSJ • 18h ago
+WSJ • 19h ago
 
 ---
 
@@ -157,33 +176,19 @@ CNBC • 18h ago
 
 ---
 
-**[White House releases Trump's national AI plan and framework](https://www.axios.com/2026/03/20/white-house-ai-plan-trump-framework)**
+**[Trump releases AI policy for Congress to pre-empt state rules](https://finance.yahoo.com/news/white-house-releases-national-ai-122759699.html)**
 
-Axios • 9h ago
+WASHINGTON, March 20 (Reuters) - The White House on Friday unveiled an artificial intelligence policy for Congress that urges lawmakers to enact legislation to pre-empt state rules, protect children
 
----
-
-**[Thousands have swooned over this MAGA dream girl. She’s made with AI.](https://www.washingtonpost.com/technology/2026/03/20/jessica-foster-maga-dream-girl-ai-fake/)**
-
-Jessica Foster’s posts place her beside fighter jets, world leaders and Trump iconography. Experts say her rise shows how AI-generated women can capture attention.
-
-The Washington Post • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
-**[Senior European journalist suspended over AI-generated quotes](https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes)**
+**[The White House just laid out how it wants to regulate AI](https://www.cnn.com/2026/03/20/tech/white-house-ai-framework)**
 
-Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of hallucinations’, after investigation by newspaper where he was once editor-in-chief
+The White House on Friday released its long-awaited national artificial intelligence legislative framework, a move to prevent states from enacting their own laws and enforce the Trump administration’s light-touch approach to AI regulation.
 
-The Guardian • 13h ago
-
----
-
-**[OpenAI is throwing everything into building a fully automated researcher](https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/)**
-
-An exclusive conversation with OpenAI’s chief scientist, Jakub Pachocki, about his firm's new grand challenge and the future of AI.
-
-MIT Technology Review • 19h ago
+CNN • 16h ago
 
 ---
 
@@ -195,7 +200,7 @@ MIT Technology Review • 19h ago
 
 OpenCode - The open source coding agent.
 
-⬆️ 660 • 💬 291 • 10h ago • [opencode.ai](https://opencode.ai/)
+⬆️ 727 • 💬 321 • 11h ago • [opencode.ai](https://opencode.ai/)
 
 ---
 
@@ -203,7 +208,7 @@ OpenCode - The open source coding agent.
 
 As the Charles de Gaulle and its strike group approach the Middle East, Le Monde identified a French sailor using the Strava fitness application in the Mediterranean Sea. This security flaw remains unaddressed despite our previous revelations.
 
-⬆️ 540 • 💬 429 • 18h ago • [Le Monde.fr](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
+⬆️ 559 • 💬 449 • 19h ago • [Le Monde.fr](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
 
 ---
 
@@ -243,7 +248,7 @@ An AI agent tried to help, and its advice exposed sensitive data.
 
 **[Be intentional about how AI changes your codebase](https://news.ycombinator.com/item?id=47446373)**
 
-⬆️ 165 • 💬 97 • 1d ago • [aicode.swerdlow.dev](https://aicode.swerdlow.dev)
+⬆️ 165 • 💬 99 • 1d ago • [aicode.swerdlow.dev](https://aicode.swerdlow.dev)
 
 ---
 
@@ -251,7 +256,7 @@ An AI agent tried to help, and its advice exposed sensitive data.
 
 Qwen3.5-9B scores 93.8% on 96 real security AI tests — within 4 points of GPT-5.4 — running entirely on Apple Silicon. Full benchmark results and methodology.
 
-⬆️ 158 • 💬 146 • 15h ago • [sharpai.org](https://www.sharpai.org/benchmark/)
+⬆️ 159 • 💬 147 • 15h ago • [sharpai.org](https://www.sharpai.org/benchmark/)
 
 ---
 
@@ -269,7 +274,7 @@ Yesterday at lunch a friend asked me what tech trend he should pay attention to 
 
 Without thinking much I said “artificial intelligence”, but having thought about that a...
 
-⬆️ 71 • 💬 68 • 20h ago • [Sam Altman](https://blog.samaltman.com/ai)
+⬆️ 71 • 💬 68 • 21h ago • [Sam Altman](https://blog.samaltman.com/ai)
 
 ---
 
@@ -293,7 +298,7 @@ If you want a full AI agent installation guide, specifically made for the nontec
 
 📺 Chris Koerner on The Koerner Office Podcast
 
-👁️ 22K • 👍 1K • 💬 145 • ⏱️ 30:54 • 8h ago
+👁️ 22K • 👍 1K • 💬 145 • ⏱️ 30:54 • 9h ago
 
 ---
 
@@ -313,7 +318,7 @@ Google just dropped a major update to AI Studio, built around its new Antigravit
 
 📺 AI Revolution
 
-👁️ 24K • 👍 588 • 💬 45 • ⏱️ 10:14 • 8h ago
+👁️ 24K • 👍 588 • 💬 45 • ⏱️ 10:14 • 9h ago
 
 ---
 
@@ -323,7 +328,7 @@ Here's the AI News you probably missed this week. Head to http://hostinger.com/m
 
 📺 Matt Wolfe
 
-👁️ 33K • 👍 2K • 💬 143 • ⏱️ 35:30 • 16h ago
+👁️ 33K • 👍 2K • 💬 143 • ⏱️ 35:30 • 17h ago
 
 ---
 
@@ -333,7 +338,7 @@ Join my private community: https://www.skool.com/automation-bootcamp-cashcoach G
 
 📺 Jacksons AI
 
-👁️ 20K • 👍 895 • 💬 120 • ⏱️ 4:08 • 17h ago
+👁️ 20K • 👍 895 • 💬 120 • ⏱️ 4:08 • 18h ago
 
 ---
 
@@ -343,7 +348,7 @@ Grok AI has changed everything… and not in a good way. Free video generation i
 
 📺 Tech Rush
 
-👁️ 14K • 👍 446 • 💬 99 • ⏱️ 8:02 • 20h ago
+👁️ 14K • 👍 446 • 💬 99 • ⏱️ 8:02 • 21h ago
 
 ---
 
@@ -401,7 +406,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 116,845 • ❤️ 966 • 7h ago
+⬇️ 116,845 • ❤️ 966 • 8h ago
 
 ---
 
@@ -646,7 +651,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 46.5k • 🔱 6.5k • 5h ago
+⭐ 46.5k • 🔱 6.5k • 6h ago
 
 ---
 
@@ -686,7 +691,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.2k • 🔱 733 • 1h ago
+⭐ 10.2k • 🔱 733 • 2h ago
 
 ---
 
@@ -696,7 +701,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 9.4k • 🔱 467 • 58m ago
+⭐ 9.4k • 🔱 467 • 1h ago
 
 ---
 

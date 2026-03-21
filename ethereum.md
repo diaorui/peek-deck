@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-21T07:52:23.403355+00:00'
+updated: '2026-03-21T08:35:40.378109+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
-- news
 - videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 07:52 UTC  
+**Last Updated:** March 21, 2026 at 08:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,152.86
+### $2,155.61
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** -1.0%  
-**30d:** +9.5%  
-**90d:** -28.4%  
-**1y:** +8.9%  
+**24h:** +0.6%  
+**7d:** -1.2%  
+**30d:** +9.3%  
+**90d:** -28.5%  
+**1y:** +8.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -80,15 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone, I’ve been working on a side project called Blockpeek and just shipped a new update. It’s a blockchain transaction scanner that tries to explain what actually happened in plain English instead of just showing raw hex data. You paste a transaction hash (or upload a screenshot from your wallet/exchange) and it tells you: ∙ What was sent, to who, from who ∙ The USD value at the time ∙ Gas fees in USD ∙ Which chain it was on (auto-detects Ethereum, BSC, Arbitrum, Polygon, Base, Solana, Bitcoin, Tron and more) It’s free, no login required. Would genuinely love feedback — what’s missing, what’s broken, what would make it actually useful for you. blockpeek.io
 
-8h ago
-
----
-
-**[Thorchain Alternative?](https://www.reddit.com/r/ethereum/comments/1rz9an2/thorchain_alternative/)**
-
-I’m looking for a way to swap my Bitcoin to Ethereum without KYC, so obviously i found thorchain, but unfortunately it’s not available here in the U.S, and i heard it’s very expensive as well. Where should I do it you think? sorry if this question was already asked in past but i couldnt find an answer after bit lf time checking.
-
-10h ago
+9h ago
 
 ---
 
@@ -97,6 +89,14 @@ I’m looking for a way to swap my Bitcoin to Ethereum without KYC, so obviously
 Whenever I see an exchange offering 40% APY on stablecoins, I run the other way immediately. Yield doesn't come from nowhere. I look for platforms that just focus on standard spot trading, verifiable proof of reserves, and steady, quiet growth. That's exactly why I've stuck with Coinbase and BitMart over the years. Solid security beats flashy yields every single time.
 
 7h ago
+
+---
+
+**[Thorchain Alternative?](https://www.reddit.com/r/ethereum/comments/1rz9an2/thorchain_alternative/)**
+
+I’m looking for a way to swap my Bitcoin to Ethereum without KYC, so obviously i found thorchain, but unfortunately it’s not available here in the U.S, and i heard it’s very expensive as well. Where should I do it you think? sorry if this question was already asked in past but i couldnt find an answer after bit lf time checking.
+
+10h ago
 
 ---
 
@@ -164,13 +164,13 @@ Benzinga • 2d ago
 
 Ethereum bottom call backed by multiple signals, says Tom Lee. Strong upside narrative remains. Credibility tempered by past miss. Ethereum's price is once again at ...
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqe-1desrg1C5bk85-_Sg6NdukXlStc6cBZF6skvNqZena2F11Dwb5cJ&gaa_ts=69be4775&gaa_sig=rqIDjeRzEiPJLw9YWVcmueyCj9-QhpVk4XQTvI2IxaDg5LhXRmbuhrtfBPWix21mxiVPqgRSX0zcBps-LlkSKQ%3D%3D)**
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqdRtDrcyWPvTcHDxJy2hPO3XNaJbP5fkmGD4PS6mrgKBrJfbkWSfKsF&gaa_ts=69be5bc5&gaa_sig=t0QVBVfTpsGa8PY3Dvq2RPlKVVUGtvoek-n1gJNNaNgbOweQ1D2XZ3rJXPPQVq9iP6Wa743MrGu23VfC-lu1bA%3D%3D)**
 
-MarketWatch • 17h ago
+MarketWatch • 18h ago
 
 ---
 
@@ -178,7 +178,7 @@ MarketWatch • 17h ago
 
 “Ethereum, to me, is really gonna be where Wall Street meets crypto,” a source told NYNext.
 
-New York Post • 20h ago
+New York Post • 21h ago
 
 ---
 
@@ -194,7 +194,7 @@ The Block • 1d ago
 
 #FeaturedPost
 
-Business Insider Africa • 16h ago
+Business Insider Africa • 17h ago
 
 ---
 
@@ -226,7 +226,7 @@ Fortune • 18h ago
 
 Ethereum hit a new record high in 2025, but it still fell short of the $5,000 milestone.
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -250,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 554 • 👍 64 • 💬 2 • ⏱️ 3:56 • 4h ago
+👁️ 554 • 👍 64 • 💬 2 • ⏱️ 3:56 • 5h ago
 
 ---
 
@@ -260,7 +260,7 @@ Ethereum is showing strong bullish signals, with analysts predicting a major reb
 
 📺 Crypto Sensei
 
-👁️ 5K • 👍 446 • 💬 49 • ⏱️ 12:42 • 18h ago
+👁️ 5K • 👍 446 • 💬 49 • ⏱️ 12:42 • 19h ago
 
 ---
 
@@ -288,7 +288,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 457 • 👍 66 • ⏱️ 5:41 • 4h ago
+👁️ 457 • 👍 66 • ⏱️ 5:41 • 5h ago
 
 ---
 
@@ -308,7 +308,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 94 • 💬 7 • ⏱️ 4:30 • 17h ago
+👁️ 1K • 👍 94 • 💬 7 • ⏱️ 4:30 • 18h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-21T07:52:23.406074+00:00'
+updated: '2026-03-21T08:35:40.381287+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 21, 2026 at 07:52 UTC  
+**Last Updated:** March 21, 2026 at 08:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[You eventually start to realize, no job is safe](https://www.reddit.com/r/robotics/comments/1rzftd8/you_eventually_start_to_realize_no_job_is_safe/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -58,13 +58,13 @@ Don't be surprised if you meet humanoid robots on the streets of Beijing at midn
 
 From Physical Intelligence on 𝕏 (thread with multiple videos): https://x.com/physical_int/status/2034728220818641363 Technical Blog post: https://www.pi.website/research/rlt
 
-20h ago
+21h ago
 
 ---
 
 **[Smarter, faster, and more human: AI system helps robots outpace their human teachers](https://www.reddit.com/r/robotics/comments/1rzjz9w/smarter_faster_and_more_human_ai_system_helps/)**
 
-🔗 [techxplore.com](https://techxplore.com/news/2026-03-smarter-faster-human-ai-robots.html) • 1h ago
+🔗 [techxplore.com](https://techxplore.com/news/2026-03-smarter-faster-human-ai-robots.html) • 2h ago
 
 ---
 
@@ -82,19 +82,19 @@ Copper is an open-source robotics runtime in Rust for building deterministic, ob
 
 ---
 
+**[ROSCon Diversity Scholarship Applications are due this Sunday, March 22nd!](https://www.reddit.com/r/robotics/comments/1rza97r/roscon_diversity_scholarship_applications_are_due/)**
+
+Need financial help to attend ROSCon Global 2026 in Toronto?This Sunday, March 22nd, is the last day to apply to our diversity scholarship program! The application is quick and easy and covers all the expenses associated with traveling to ROSCon!
+
+🔗 [roscon.ros.org](https://roscon.ros.org/2026/#diversity-scholars) • 10h ago
+
+---
+
 **[Robot does Flying Kick into Arcade Machines 🤦‍♂️](https://www.reddit.com/r/robotics/comments/1ry601x/robot_does_flying_kick_into_arcade_machines/)**
 
 Why can’t robots use their lidar to scan the room and confirm there is enough space to perform an action? 🤔 Obviously I learned the hard way but it’s a good question. What do you guys think?
 
 1d ago
-
----
-
-**[ROSCon Diversity Scholarship Applications are due this Sunday, March 22nd!](https://www.reddit.com/r/robotics/comments/1rza97r/roscon_diversity_scholarship_applications_are_due/)**
-
-Need financial help to attend ROSCon Global 2026 in Toronto?This Sunday, March 22nd, is the last day to apply to our diversity scholarship program! The application is quick and easy and covers all the expenses associated with traveling to ROSCon!
-
-🔗 [roscon.ros.org](https://roscon.ros.org/2026/#diversity-scholars) • 9h ago
 
 ---
 
@@ -122,7 +122,7 @@ The Information • 1d ago
 
 Chinese startup Unitree Robotics on Friday filed an initial public offering application to the Shanghai ​Stock Exchange, seeking to ​raise  about $610 million.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
@@ -154,7 +154,7 @@ Crain's Detroit Business • 22h ago
 
 Carbon Robotics names a CFO; Nordstrom gets a VP of AI; and a Microsoft gaming GM goes to Netflix while one of its longtime legal leaders retires.
 
-GeekWire • 16h ago
+GeekWire • 17h ago
 
 ---
 
@@ -286,7 +286,7 @@ Chinese robotics leader Unitree finds itself in the crosshairs of the US governm
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 29 • 💬 3 • ⏱️ 0:41 • 11h ago
+👁️ 1K • 👍 29 • 💬 3 • ⏱️ 0:41 • 12h ago
 
 ---
 
