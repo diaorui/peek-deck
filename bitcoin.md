@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-21T13:42:57.308727+00:00'
+updated: '2026-03-21T14:28:39.382044+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 13:42 UTC  
+**Last Updated:** March 21, 2026 at 14:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,734.00
+### $70,776.40
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** -2.8%  
-**30d:** +4.0%  
-**90d:** -19.9%  
-**1y:** -15.6%  
+**24h:** +1.5%  
+**7d:** -2.4%  
+**30d:** +4.3%  
+**90d:** -19.6%  
+**1y:** -15.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1412.23B
+**Market Cap:** $1418.76B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--44.0%
+-43.7%
 
 **All-Time Low:** $67.81
-+104052.8%
++104493.7%
 
 ---
 
@@ -83,14 +83,6 @@ Rank #1
 
 ---
 
-**[This sub currently](https://www.reddit.com/r/Bitcoin/comments/1rza6z8/this_sub_currently/)**
-
-Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Alden's book called Broken Money and read it.
-
-15h ago
-
----
-
 **[Have you seen it? The scientist said that BTC will reach $350K ~ $700K without FOMO between mid 2027 ~ end 2028.](https://www.reddit.com/r/Bitcoin/comments/1rzo7jq/have_you_seen_it_the_scientist_said_that_btc_will/)**
 
 Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perrenod
@@ -99,11 +91,19 @@ Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perreno
 
 ---
 
+**[This sub currently](https://www.reddit.com/r/Bitcoin/comments/1rza6z8/this_sub_currently/)**
+
+Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Alden's book called Broken Money and read it.
+
+16h ago
+
+---
+
 **[Bitcoin holder since 2015. Am I a veteran?](https://www.reddit.com/r/Bitcoin/comments/1rznteg/bitcoin_holder_since_2015_am_i_a_veteran/)**
 
 Holder since 2015. Never soldi. Slowly accumulating. Sometimes daily trading (with alternate results). A lot of "If I did that I wold have earned this much...", and "I should have done that when..." in my mind to keep me busy if I want. Now +50% or -50% in a month has noneffect on me, I simply zoom out. I also convinces two people to buy Bitcoin. Am I officially a veteran? Where Is my badge?😄
 
-3h ago
+4h ago
 
 ---
 
@@ -111,7 +111,15 @@ Holder since 2015. Never soldi. Slowly accumulating. Sometimes daily trading (wi
 
 Please someone just buy or sell already so the price moves!
 
-8h ago
+9h ago
+
+---
+
+**[Is this a good time to buy btc?](https://www.reddit.com/r/Bitcoin/comments/1rzrnfy/is_this_a_good_time_to_buy_btc/)**
+
+I was so confident to buy it but after visiting this reddit and hearing multiple people talk about it being dead im bit skeptical
+
+53m ago
 
 ---
 
@@ -119,7 +127,7 @@ Please someone just buy or sell already so the price moves!
 
 Abra Financial Holdings, Inc. CEO
 
-23h ago
+1d ago
 
 ---
 
@@ -127,7 +135,7 @@ Abra Financial Holdings, Inc. CEO
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-7h ago
+8h ago
 
 ---
 
@@ -135,23 +143,15 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 The government relies on this crypto infrastructure for international trade, while ordinary Iranians use it as a financial lifeline during protests and economic crises. Iran has built a multibillion-dollar parallel economy using state-sponsored Bitcoin mining and stablecoins to bypass the U.S. dollar, heavily driven by the IRGC. The government relies on this crypto infrastructure for international trade, while ordinary Iranians use it as a financial lifeline during protests and economic crises. Recent military strikes threaten Iran's fragile power grid, which is essential to sustaining the energy-intensive mining operations that keep this financial channel open. The Islamic Revolutionary Guard Corps (IRGC), the primary branch of the country’s military, has since deepened its role in the space. Chainalysis estimates IRGC-linked addresses accounted for more than 50% of total Iranian crypto inflows in the fourth quarter of 2025, with over $3 billion in value received last year.
 
-13h ago
+14h ago
 
 ---
 
-**[good morninggggg bitcoin bulls! North Carolina just introduced a bill to put Bitcoin in the state treasury](https://www.reddit.com/r/Bitcoin/comments/1rywz2l/good_morninggggg_bitcoin_bulls_north_carolina/)**
+**[Cost to mine](https://www.reddit.com/r/Bitcoin/comments/1rzps0g/cost_to_mine/)**
 
-North Carolina is moving to become one of the first states to officially hold Bitcoin as part of its treasury reserves. The bill (HB 92) would allow the state treasurer to invest up to 10% of certain public funds in Bitcoin. These reserves typically consist of US Treasury bonds
+any insight on the approximate cost to mine 1 bitcoin? I appreciate it varies by miner but average and bands would be helpful any credible charts out there of bitcoin price relative to cost to mine?
 
-23h ago
-
----
-
-**[I made mistake a long time ago.](https://www.reddit.com/r/Bitcoin/comments/1rz40sz/i_made_mistake_a_long_time_ago/)**
-
-Hey all, i made mistake a long time ago when BTC price was 17.000€ and I wanted to do it, but I was too afraid. I wanted this asimetric bet on crypto on my portfolio. Today I purchased my first 1% of coin. I’ve waited for this oppurtunity for a long time now, and I finally got entry I am confortable with. So, new guy in the buisness. :) Any advice tou can give me?
-
-19h ago
+2h ago
 
 ---
 
@@ -167,27 +167,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[What Happens to Bitcoin if Bank of America's 'Three Conditions' for Fed Rate Hikes Hit?](https://decrypt.co/361919/what-happens-bitcoin-bank-america-conditions-fed-rate-hikes-hit)**
+**[From $13,700 to $148 million: Bitcoin whale moves 2,100 BTC untouched for over 13 years](https://www.theblock.co/post/394488/from-13700-to-148-million-bitcoin-whale-moves-2100-btc-untouched-for-over-13-years)**
 
-As the U.S.-Israel war with Iran approaches a fourth week, Bank of America analysts envision a rate hike that would likely affect Bitcoin.
+The bitcoin address initially received the 2,100 BTC on July 4, 2012, when that amount was worth just $13,685.
 
-Decrypt • 20h ago
-
----
-
-**[Built Like Bitcoin, Designed for AI: Is Bittensor (TAO) a Buy After Climbing 40% in 1 Month?](https://www.fool.com/investing/2026/03/21/built-like-bitcoin-designed-for-ai-is-bittensor-ta/)**
-
-This coin offers a very appealing mixture of new in-demand services for AI and a proven supply schedule.
-
-The Motley Fool • 3h ago
-
----
-
-**[Better Crypto Buy: Bitcoin vs. Dogecoin? Here's the 1 to Buy for 2026.](https://finance.yahoo.com/markets/crypto/articles/better-crypto-buy-bitcoin-vs-112000097.html)**
-
-The market is pessimistic, as these popular digital assets are trading significantly below recent highs.
-
-Yahoo Finance • 2h ago
+The Block • 1d ago
 
 ---
 
@@ -199,15 +183,47 @@ The Motley Fool • 1h ago
 
 ---
 
+**[Better Crypto Buy: Bitcoin vs. Dogecoin? Here's the 1 to Buy for 2026.](https://finance.yahoo.com/markets/crypto/articles/better-crypto-buy-bitcoin-vs-112000097.html)**
+
+The market is pessimistic, as these popular digital assets are trading significantly below recent highs.
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Strategy (MSTR) on track for second-biggest BTC buying quarter despite price drop](https://www.coindesk.com/markets/2026/03/21/strategy-set-for-second-biggest-bitcoin-buying-quarter-despite-btc-price-slide)**
+
+First-quarter purchases have reached 89,618 BTC so far, the most since fourth-quarter 2024, and the quarter is not yet over.
+
+CoinDesk • 28m ago
+
+---
+
 **[Retail investors aren’t crazy for Farage and Kwarteng’s bitcoin business](https://www.ft.com/content/f9849a1a-7d8a-4806-babd-b32c4d3105c5)**
 
 Unpopular
 
-Financial Times • 20h ago
+Financial Times • 21h ago
 
 ---
 
-**[Bitcoin Falls Below $70,000. It’s Not Just the Fed Decision Dragging on the Crypto, XRP.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-fed-powell-oil-033bcaee?gaa_at=eafs&gaa_n=AWEtsqfNbNo1UH5V9m9J02wWE_WXu3sQ5DuYlwDXiFB41VNsguXIBXXclKxO&gaa_ts=69be97fa&gaa_sig=Afomj9PkD3ui1I_GfhvdLMhLtibK4hVzLXC-GSkhnz_nm12Xrk0gWhl-6whnN881EejNw5i8md54P4RQtC9r9w%3D%3D)**
+**[Crypto market sheds $100 billion as bitcoin price drops 5% amid Fed caution](https://www.theblock.co/post/394219/crypto-market-sheds-100-billion-bitcoin-price-drops-5-fed-caution)**
+
+The sell-off extended beyond crypto as investors reassessed the macro outlook following the Fed’s latest guidance.
+
+The Block • 2d ago
+
+---
+
+**[Traders pour in billions ahead of Fed's 2PM decision](https://www.thestreet.com/crypto/markets/traders-pour-in-billions-ahead-of-feds-2pm-decision)**
+
+Large players appear to be positioning as markets await Fed’s FOMC decision.
+
+thestreet.com • 3d ago
+
+---
+
+**[Bitcoin Falls Below $70,000. It’s Not Just the Fed Decision Dragging on the Crypto, XRP.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-fed-powell-oil-033bcaee?gaa_at=eafs&gaa_n=AWEtsqdkifFVsDt6JdjupON7UEWwOyUpDtAZyUYHqsY4H2GONgsPfeHlhcae&gaa_ts=69beae84&gaa_sig=fwy4dDGrp7gp4BIykArbPz1d6ciDNEY7dc0czuuLbHMp9iVuPaYLS772-V6xv75T_z75n8qLi48w_UL2aZ_7Cg%3D%3D)**
 
 Barron's • 2d ago
 
@@ -217,21 +233,7 @@ Barron's • 2d ago
 
 The president and CEO of Strategy said Morgan Stanley’s upcoming bitcoin ETF could unlock as much as $160 billion in demand under a modest portfolio allocation scenario.
 
-Bitcoin Magazine • 19h ago
-
----
-
-**[Ex-Wife Accused of Stealing £180 Million in Bitcoin After Divorce](https://www.bloomberg.com/news/articles/2026-03-19/ex-wife-accused-of-stealing-180-million-in-bitcoin-after-divorce)**
-
-Bloomberg.com • 2d ago
-
----
-
-**[From $13,700 to $148 million: Bitcoin whale moves 2,100 BTC untouched for over 13 years](https://www.theblock.co/post/394488/from-13700-to-148-million-bitcoin-whale-moves-2100-btc-untouched-for-over-13-years)**
-
-The bitcoin address initially received the 2,100 BTC on July 4, 2012, when that amount was worth just $13,685.
-
-The Block • 1d ago
+Bitcoin Magazine • 20h ago
 
 ---
 
@@ -299,7 +301,7 @@ Bitcoin just went live at millions of businesses without anyone opting in. While
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 1K • 💬 149 • ⏱️ 12:51 • 15h ago
+👁️ 14K • 👍 1K • 💬 162 • ⏱️ 12:51 • 15h ago
 
 ---
 
@@ -309,37 +311,7 @@ New report exposes institutions have only just begun dipping their toes into bit
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 291 • 💬 100 • ⏱️ 1:30:42 • 18h ago
-
----
-
-**[Why 0.21 Bitcoin Is The Mathematical Tipping Point (5 Year FIRE Blueprint)](https://www.youtube.com/watch?v=SeEvzpP1sQc)**
-
-Why 0.21 Bitcoin Is The Mathematical Tipping Point (5-Year Blueprint) There will only ever be enough Bitcoin mathematically for ...
-
-📺 Brad Long
-
-👁️ 1K • 👍 73 • 💬 36 • ⏱️ 12:32 • 17h ago
-
----
-
-**[Bitcoin Just Got Its Biggest Institutional Endorsement](https://www.youtube.com/watch?v=JeIbpLfQ_oI)**
-
-A central bank buying Bitcoin would change everything. Not because of the amount… But because of what it signals. In this video ...
-
-📺 Tim Talks Finance
-
-👁️ 2K • 👍 134 • 💬 22 • ⏱️ 18:40 • 14h ago
-
----
-
-**[Bitcoin: The Bear Market Blues](https://www.youtube.com/watch?v=jiehja20gFE)**
-
-A classic case of the bear market blues for Bitcoin. Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries: ...
-
-📺 Benjamin Cowen
-
-👁️ 57K • 👍 4K • 💬 193 • ⏱️ 11:38 • 1d ago
+👁️ 7K • 👍 300 • 💬 102 • ⏱️ 1:30:42 • 19h ago
 
 ---
 
@@ -349,17 +321,47 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 6K • 👍 359 • 💬 130 • ⏱️ 8:34 • 14h ago
+👁️ 6K • 👍 366 • 💬 135 • ⏱️ 8:34 • 14h ago
 
 ---
 
-**[Bitcoin Live Trading: $70K Hold or Total Collapse?! EP1943](https://www.youtube.com/watch?v=j2nRY1lAR0E)**
+**[Bitcoin Just Got Its Biggest Institutional Endorsement](https://www.youtube.com/watch?v=JeIbpLfQ_oI)**
 
-Bitcoin Vegas 2026: https://fxo.co/JAmn Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ...
+A central bank buying Bitcoin would change everything. Not because of the amount… But because of what it signals. In this video ...
 
-📺 Crypto Lifer
+📺 Tim Talks Finance
 
-👁️ 6K • 👍 467 • 💬 54 • ⏱️ 2:00:31 • 21h ago
+👁️ 3K • 👍 145 • 💬 27 • ⏱️ 18:40 • 15h ago
+
+---
+
+**[Bitcoin: The Bear Market Blues](https://www.youtube.com/watch?v=jiehja20gFE)**
+
+A classic case of the bear market blues for Bitcoin. Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries: ...
+
+📺 Benjamin Cowen
+
+👁️ 58K • 👍 4K • 💬 199 • ⏱️ 11:38 • 1d ago
+
+---
+
+**[Why 0.21 Bitcoin Is The Mathematical Tipping Point (5 Year FIRE Blueprint)](https://www.youtube.com/watch?v=SeEvzpP1sQc)**
+
+Why 0.21 Bitcoin Is The Mathematical Tipping Point (5-Year Blueprint) There will only ever be enough Bitcoin mathematically for ...
+
+📺 Brad Long
+
+👁️ 1K • 👍 83 • 💬 42 • ⏱️ 12:32 • 18h ago
+
+---
+
+**[A Massive Bitcoin Bull Case Is Forming](https://www.youtube.com/watch?v=skohgb8JyWI)**
+
+Bill Barhydt is the founder and CEO of Abra and a longtime leader in digital assets and crypto wealth management. In this ...
+
+📺 Anthony Pompliano
+
+👁️ 28K • 👍 1K • 💬 27 • ⏱️ 37:41 • 2d ago
 
 ---
 
@@ -369,27 +371,27 @@ Connect with Rich on Instagram: @rich_somers Interested in investing with Somers
 
 📺 Rich Somers
 
-👁️ 37K • 👍 463 • 💬 19 • ⏱️ 0:41 • 2d ago
+👁️ 38K • 👍 470 • 💬 24 • ⏱️ 0:41 • 2d ago
 
 ---
 
-**[Bitcoin to $35 TRILLION? He&#39;s dead serious 💀](https://www.youtube.com/watch?v=Wl3GNK7iAiI)**
+**[Bitcoin: Post-FOMC](https://www.youtube.com/watch?v=Kx7F_EL9ocI)**
 
-Crypto is about to get LEGIT CRAZY $30k Bonus Sign Up For WEEX: https://www.weex.com/events/promo/spot-event20?
+Let's talk about Bitcoin post-FOMC! Join the ITC March Madness Bracket Challenge! Winner gets a 1 year subscription to ITC ...
 
-📺 Altcoin Daily
+📺 Benjamin Cowen
 
-👁️ 16K • 👍 430 • 💬 112 • ⏱️ 1:14 • 3d ago
+👁️ 67K • 👍 4K • 💬 198 • ⏱️ 16:44 • 2d ago
 
 ---
 
-**[THIS CHANGES EVERYTHING FOR BITCOIN ](https://www.youtube.com/watch?v=_y5XAFpQ694)**
+**[Saylor Just Hit a Massive Bitcoin Milestone! (Full Report)](https://www.youtube.com/watch?v=NfcCzgtibtY)**
 
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Weekly 100 ...
+While retail panic sells, one entity is aggressively accumulating Bitcoin at a historic pace. Michael Saylor is racing toward 1 million ...
 
-📺 The Moon Show
+📺 Simply Bitcoin
 
-👁️ 12K • 👍 635 • 💬 37 • ⏱️ 5:05 • 1d ago
+👁️ 20K • 👍 1K • 💬 96 • ⏱️ 13:53 • 2d ago
 
 ---
 

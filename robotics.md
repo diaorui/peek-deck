@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-21T13:42:57.317858+00:00'
+updated: '2026-03-21T14:28:39.391087+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 21, 2026 at 13:42 UTC  
+**Last Updated:** March 21, 2026 at 14:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,15 @@ Robotics research and industry news
 
 **[You eventually start to realize, no job is safe](https://www.reddit.com/r/robotics/comments/1rzftd8/you_eventually_start_to_realize_no_job_is_safe/)**
 
-11h ago
+12h ago
+
+---
+
+**[Chinese robot hand tighten screws with insane precision (From ORCA Dexterity design)](https://www.reddit.com/r/robotics/comments/1rzr3bk/chinese_robot_hand_tighten_screws_with_insane/)**
+
+From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
+
+1h ago
 
 ---
 
@@ -42,7 +50,7 @@ Robotics research and industry news
 
 Showcasing the newest version (v20) of my hand & wrist combo! Same as the last version, it's a combination of direct- and tendon-driven actuation, still with 19 joints and 10 active DOFs. It has independent finger flexion, a 3-DOF thumb, linked finger splay, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist which measures joint position (at the motor output), current, and temperature. And all the movements were programmed with custom C#/C++ software. Improved from the last version, the base thumb joints were switched to direct drive and much beefier motors were swapped in for the wrist joints - improving strength and repeatability under heavier loads. Despite these new motors though, the form factor remains nearly identical to v19, spare a few millimeters of thickness and height. Some more minor changes: (1) ASA and carbon fiber filaments replaced basic PLA to improve rigidity and strength, (2) the power input was switched to an XT30 connector to accommodate the more power-hungry motors, and (3) better filtering and chips to reduce current and position signal noise. Still making incremental improvements here and there, but happy to answer any questions and hear your thoughts!
 
-21h ago
+22h ago
 
 ---
 
@@ -54,11 +62,19 @@ Don't be surprised if you meet humanoid robots on the streets of Beijing at midn
 
 ---
 
+**[Another demo of my school project running the ACT](https://www.reddit.com/r/robotics/comments/1rzqryd/another_demo_of_my_school_project_running_the_act/)**
+
+It's one of the sample tasks I'm planning to demonstrate to the guests of my upcoming conference. ( 120 characters limit bypass )
+
+1h ago
+
+---
+
 **[RSS - robotics sciences and systems 2026 - discussion](https://www.reddit.com/r/robotics/comments/1rznoyh/rss_robotics_sciences_and_systems_2026_discussion/)**
 
 I created this thread to discuss the reviews and scores for the submissions to RSS 2026 in Sydney Australia. Did anyone receive their reviews yet?
 
-3h ago
+4h ago
 
 ---
 
@@ -88,37 +104,13 @@ Copper is an open-source robotics runtime in Rust for building deterministic, ob
 
 Need financial help to attend ROSCon Global 2026 in Toronto?This Sunday, March 22nd, is the last day to apply to our diversity scholarship program! The application is quick and easy and covers all the expenses associated with traveling to ROSCon!
 
-🔗 [roscon.ros.org](https://roscon.ros.org/2026/#diversity-scholars) • 15h ago
-
----
-
-**[Robot does Flying Kick into Arcade Machines 🤦‍♂️](https://www.reddit.com/r/robotics/comments/1ry601x/robot_does_flying_kick_into_arcade_machines/)**
-
-Why can’t robots use their lidar to scan the room and confirm there is enough space to perform an action? 🤔 Obviously I learned the hard way but it’s a good question. What do you guys think?
-
-1d ago
-
----
-
-**[Amazon acquires Rivr, maker of a stair-climbing delivery robot - TechCrunch](https://www.reddit.com/r/robotics/comments/1ryisz3/amazon_acquires_rivr_maker_of_a_stairclimbing/)**
-
-Amazon and Jeff Bezos had previously invested in the startup. The deal signals the e-commerce giant's interest in doorstep delivery.
-
-🔗 [TechCrunch](https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/) • 1d ago
+🔗 [roscon.ros.org](https://roscon.ros.org/2026/#diversity-scholars) • 16h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[Amazon Acquires Robotics Startup, Boosting Efforts to Streamline Deliveries](https://www.theinformation.com/articles/amazon-acquires-robotics-startup-boosting-efforts-streamline-deliveries)**
-
-Amazon has acquired autonomous robotics startup Rivr, an Amazon spokesperson confirmed, a deal that could help the commerce and logistics giant deliver packages to shoppers’ doors more efficiently. Based in Zurich and formerly known as Swiss-Mile, Rivr was valued at $110 million in an August ...
-
-The Information • 1d ago
-
----
 
 **[Amazon acquires startup Rivr to test robots for 'doorstep delivery'](https://www.cnbc.com/2026/03/19/amazon-acquires-startup-rivr-to-test-robots-for-doorstep-delivery.html)**
 
@@ -128,11 +120,19 @@ CNBC • 1d ago
 
 ---
 
-**[Amazon acquires Rivr, maker of a stair-climbing delivery robot](https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/)**
+**[Amazon Acquires Robotics Startup, Boosting Efforts to Streamline Deliveries](https://www.theinformation.com/articles/amazon-acquires-robotics-startup-boosting-efforts-streamline-deliveries)**
 
-Amazon and Jeff Bezos had previously invested in the startup. The deal signals the e-commerce giant's interest in doorstep delivery.
+Amazon has acquired autonomous robotics startup Rivr, an Amazon spokesperson confirmed, a deal that could help the commerce and logistics giant deliver packages to shoppers’ doors more efficiently. Based in Zurich and formerly known as Swiss-Mile, Rivr was valued at $110 million in an August ...
 
-TechCrunch • 1d ago
+The Information • 1d ago
+
+---
+
+**[Amazon acquires robotic doorstep delivery provider RIVR](https://www.therobotreport.com/amazon-acquires-robotic-doorstep-delivery-provider-rivr/)**
+
+With last-mile delivery company RIVR now at Amazon, could we soon see quadrupeds delivering our Amazon packages?
+
+The Robot Report • 1d ago
 
 ---
 
@@ -144,11 +144,11 @@ The Guardian • 2d ago
 
 ---
 
-**[The great robot race: How companies can balance speed to market and compliance in the U.S.](https://www.therobotreport.com/great-robot-race-how-companies-balance-speed-market-compliance-u-s/)**
+**[AI-evolved adaptable robot is almost impossible to destroy](https://newatlas.com/robotics/ai-evolved-indestructible-robot/)**
 
-While standards vary between the U.S. and EU, consumer robotics and AI developers need compliance strategies, explain Cooley experts.
+It took nature millions of years to create intelligent, adaptive species. Researchers at Northwestern University in Illinois are using AI to evolve robots in minutes. The result is a robot that is agile, highly adaptive, and technically indestructible.
 
-The Robot Report • 1h ago
+New Atlas • 2h ago
 
 ---
 
@@ -168,6 +168,14 @@ Crain's Detroit Business • 1d ago
 
 ---
 
+**[Tech Moves: Carbon Robotics’ new CFO; Microsoft gaming GM goes to Netflix; Nordstrom gets VP of AI](https://www.geekwire.com/2026/tech-moves-carbon-robotics-new-cfo-microsoft-gaming-gm-goes-to-netflix-nordstrom-gets-vp-of-ai/)**
+
+Carbon Robotics names a CFO; Nordstrom gets a VP of AI; and a Microsoft gaming GM goes to Netflix while one of its longtime legal leaders retires.
+
+GeekWire • 23h ago
+
+---
+
 **[Mark Cuban says the future of robotics isn't humanoids, but robots and homes that are co-designed](https://www.businessinsider.com/mark-cuban-humanoid-robotics-will-fail-robots-houses-codesigned-2026-3)**
 
 Mark Cuban said the push for humanoid robots will fail and that instead robots and spaces will be co-designed.
@@ -176,19 +184,11 @@ Business Insider • 1d ago
 
 ---
 
-**[From Simulation to Production: How to Build Robots With AI](https://blogs.nvidia.com/blog/build-robots-with-ai/)**
+**[Twist Robotics Unveils Anti-Drone Version of Obriy Simulator](https://militarnyi.com/en/news/twist-robotics-anti-drone-obriy-simulator/)**
 
-The latest open models and frameworks from NVIDIA bring together simulation, robot learning and embedded compute to accelerate cloud-to-robot workflows.
+The company Twist Robotics has unveiled an updated version of the Obriy Anti-Shahed simulator. The platform’s key focus is the ability to practice scenarios for intercepting long-range drones.Representatives of the […]
 
-NVIDIA Blog • 3d ago
-
----
-
-**[Army xTechHumanoid Competition Highlights Aptima’s Fully Autonomous Robot Mobility Research](https://www.military.com/feature/2026/03/10/army-xtechhumanoid-competition-highlights-aptimas-fully-autonomous-robot-mobility-research.html)**
-
-Aptima reached the Army xTechHumanoid finals with a fully autonomous locomotion system that helps humanoid robots navigate difficult terrain and recover from slips or entanglements without human input.
-
-Military.com • 2d ago
+Мілітарний • 22h ago
 
 ---
 
@@ -202,7 +202,7 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 164K • 👍 2K • 💬 1K • ⏱️ 2:07 • 2d ago
+👁️ 176K • 👍 2K • 💬 2K • ⏱️ 2:07 • 2d ago
 
 ---
 
@@ -212,17 +212,7 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 MachineWorks Studio
 
-👁️ 1.9M • 👍 2K • 💬 24 • ⏱️ 0:06 • 4d ago
-
----
-
-**[Dancing robot goes rogue in hot pot restaurant](https://www.youtube.com/watch?v=DfnIEWpbMU8)**
-
-Video shows restaurant employees struggling to restrain a dancing robot that went rogue in a hot pot restaurant in California.
-
-📺 NBC News
-
-👁️ 161K • 👍 2K • 💬 576 • ⏱️ 3:38 • 2d ago
+👁️ 2.0M • 👍 2K • 💬 24 • ⏱️ 0:06 • 4d ago
 
 ---
 
@@ -232,7 +222,17 @@ Humanoid Robot Race Just Heated Up! Buying a Tesla? Use this referral link and g
 
 📺 Brighter with Herbert
 
-👁️ 102K • 👍 2K • 💬 324 • ⏱️ 49:45 • 6d ago
+👁️ 103K • 👍 2K • 💬 324 • ⏱️ 49:45 • 6d ago
+
+---
+
+**[Dancing robot goes rogue in hot pot restaurant](https://www.youtube.com/watch?v=DfnIEWpbMU8)**
+
+Video shows restaurant employees struggling to restrain a dancing robot that went rogue in a hot pot restaurant in California.
+
+📺 NBC News
+
+👁️ 163K • 👍 2K • 💬 586 • ⏱️ 3:38 • 2d ago
 
 ---
 
@@ -252,17 +252,27 @@ Orchestrated YouTube description crafting from provided content   A six-armed hu
 
 📺 The AI Nexus
 
-👁️ 4K • 👍 123 • 💬 6 • ⏱️ 21:04 • 1d ago
+👁️ 4K • 👍 131 • 💬 6 • ⏱️ 21:04 • 1d ago
 
 ---
 
-**[China’s AI Robot Giant Just Triggered a US National Security Alarm #robotics #humanoidrobots #ai](https://www.youtube.com/watch?v=YkiRLxVMEEY)**
+**[100+ Transformers Robot Car Transforming 2026 | Bumblebee, Tobot, Carbot Eating Dinosaur Satisfying](https://www.youtube.com/watch?v=_7fdS9GJVGE)**
 
-Chinese robotics leader Unitree finds itself in the crosshairs of the US government, which increasingly views its rapid ascent as a ...
+Welcome to the ultimate robot showdown of 2026! In this video, we feature over 100+ Transformers, Tobot, and Hello Carbot ...
 
-📺 Kalil 4.0
+📺 Prime Collects
 
-👁️ 1K • 👍 33 • 💬 3 • ⏱️ 0:41 • 17h ago
+👁️ 20K • 👍 57 • ⏱️ 13:46 • 4d ago
+
+---
+
+**[NVIDIA GTC Demo Stuns Audience With Real Olaf Robot Next To Jensen Huang](https://www.youtube.com/watch?v=pPnVsRPFWV8)**
+
+The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrations when Jensen Huang introduced a real ...
+
+📺 DPCcars
+
+👁️ 179K • 👍 2K • 💬 219 • ⏱️ 2:02 • 4d ago
 
 ---
 
@@ -274,23 +284,13 @@ Chinese robotics leader Unitree finds itself in the crosshairs of the US governm
 
 ---
 
-**[NVIDIA GTC Demo Stuns Audience With Real Olaf Robot Next To Jensen Huang](https://www.youtube.com/watch?v=pPnVsRPFWV8)**
-
-The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrations when Jensen Huang introduced a real ...
-
-📺 DPCcars
-
-👁️ 174K • 👍 2K • 💬 211 • ⏱️ 2:02 • 4d ago
-
----
-
 **[This Chinese Robot Just Crossed All the Lines — Real Life Terminator T800](https://www.youtube.com/watch?v=0hVT9qcC8Ec)**
 
 China just built something that was supposed to be decades away. Engine AI's T800 humanoid robot is already walking live ...
 
 📺 Core Insights
 
-👁️ 69K • 👍 1K • 💬 132 • ⏱️ 15:19 • 3d ago
+👁️ 69K • 👍 1K • 💬 133 • ⏱️ 15:19 • 3d ago
 
 ---
 

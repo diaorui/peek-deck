@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-21T13:42:57.314672+00:00'
+updated: '2026-03-21T14:28:39.387945+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 13:42 UTC  
+**Last Updated:** March 21, 2026 at 14:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.5%  
-**7d:** -0.9%  
-**30d:** +9.6%  
-**90d:** -28.3%  
-**1y:** +9.0%  
+**24h:** +1.3%  
+**7d:** -0.8%  
+**30d:** +9.8%  
+**90d:** -28.2%  
+**1y:** +9.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $260.19B
+**Market Cap:** $260.88B
 Rank #2
 
 **Circulating Supply:** 120,691,752 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.4%
+-56.3%
 
 **All-Time Low:** $0.43
-+497928.8%
++499118.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone, I’ve been working on a side project called Blockpeek and just shipped a new update. It’s a blockchain transaction scanner that tries to explain what actually happened in plain English instead of just showing raw hex data. You paste a transaction hash (or upload a screenshot from your wallet/exchange) and it tells you: ∙ What was sent, to who, from who ∙ The USD value at the time ∙ Gas fees in USD ∙ Which chain it was on (auto-detects Ethereum, BSC, Arbitrum, Polygon, Base, Solana, Bitcoin, Tron and more) It’s free, no login required. Would genuinely love feedback — what’s missing, what’s broken, what would make it actually useful for you. blockpeek.io
 
-14h ago
+15h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey everyone, I’ve been working on a side project called Blockpeek and just sh
 
 I’m looking for a way to swap my Bitcoin to Ethereum without KYC, so obviously i found thorchain, but unfortunately it’s not available here in the U.S, and i heard it’s very expensive as well. Where should I do it you think? sorry if this question was already asked in past but i couldnt find an answer after bit lf time checking.
 
-15h ago
+16h ago
 
 ---
 
@@ -160,19 +160,11 @@ Benzinga • 3d ago
 
 ---
 
-**[3 Cryptocurrencies With Real-World Utility to Buy Now](https://www.fool.com/investing/2026/03/21/3-cryptocurrencies-with-real-world-utility-to-buy/)**
-
-As long as their real-world use cases continue to grow, these cryptocurrencies should soar in value.
-
-The Motley Fool • 4h ago
-
----
-
 **[Current price of Ethereum for March 20, 2026](https://fortune.com/article/price-of-ethereum-03-20-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 23h ago
+Fortune • 1d ago
 
 ---
 
@@ -184,17 +176,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqeZX4sr-w4HdUmkxaCDdxkOhJIBKMiP5svCAzybCsJsn10tJwBCT3ub&gaa_ts=69be97fc&gaa_sig=LoEtotQrxOuPA8qzO2hmi-ujQWlhDV1NoABLNDGzxH6oiwL6DQRxYbfqGVoyNrMuf3FGc9rkSPWvu51SHOtVDQ%3D%3D)**
+**[Whale investor buys $111 million worth of Ethereum one year after selling: onchain data](https://www.theblock.co/post/394263/whale-investor-buys-111-million-ethereum)**
 
-MarketWatch • 23h ago
+A whale trader has reportedly bought 50,706 ETH with 111.62 million USDT on Wednesday, after selling holdings a year earlier.
+
+The Block • 2d ago
 
 ---
 
-**[Europe’s largest asset manager Amundi debuts $100 million tokenized fund on Ethereum, Stellar](https://www.theblock.co/post/394348/europes-largest-asset-manager-amundi-debuts-100-million-tokenized-fund-on-ethereum-stellar)**
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqeq_ttxg3A8dYCNzDQaDpAnLG_B1ccM53pMYsivfCNcNn7-rNVzwShF&gaa_ts=69beae86&gaa_sig=7NLIf3lGY-18UcMLrPmleGOrhhan8Z8eiWADhIa7t1QXOgbHInp-6r0XlDJYFFG2W1VnEc2CD0ir6SjIgYE9kw%3D%3D)**
 
-Amundi launched the $100 million Spiko Amundi Overnight Swap Fund on Ethereum and Stellar with Chainlink support.
-
-The Block • 1d ago
+MarketWatch • 1d ago
 
 ---
 
@@ -214,19 +206,27 @@ TradingView • 1d ago
 
 ---
 
+**[The rise of ETH gambling sites and Africa’s expanding digital economy](https://africa.businessinsider.com/local/lifestyle/the-rise-of-eth-gambling-sites-and-africas-expanding-digital-economy/l056ctt)**
+
+#FeaturedPost
+
+Business Insider Africa • 23h ago
+
+---
+
+**[Will Ethereum Ever Hit $5,000?](https://www.fool.com/investing/2026/03/20/will-ethereum-ever-hit-5000/)**
+
+Ethereum hit a new record high in 2025, but it still fell short of the $5,000 milestone.
+
+The Motley Fool • 1d ago
+
+---
+
 **[BlackRock Staked Ethereum Fund Tops $250 Million in Its First Week](https://decrypt.co/361719/blackrock-staked-ethereum-fund-tops-250-million-in-its-first-week)**
 
 BlackRock's iShares Staked Ethereum Trust (ETHB) has hit $254 million in assets under management just one week after launch.
 
 Decrypt • 1d ago
-
----
-
-**[The rise of ETH gambling sites and Africa’s expanding digital economy](https://africa.businessinsider.com/local/lifestyle/the-rise-of-eth-gambling-sites-and-africas-expanding-digital-economy/l056ctt)**
-
-#FeaturedPost
-
-Business Insider Africa • 22h ago
 
 ---
 
@@ -240,7 +240,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 10K • 👍 400 • 💬 51 • ⏱️ 19:43 • 21h ago
+👁️ 10K • 👍 426 • 💬 52 • ⏱️ 19:43 • 22h ago
 
 ---
 
@@ -250,7 +250,17 @@ Ethereum is showing strong bullish signals, with analysts predicting a major reb
 
 📺 Crypto Sensei
 
-👁️ 6K • 👍 453 • 💬 67 • ⏱️ 12:42 • 1d ago
+👁️ 6K • 👍 453 • 💬 68 • ⏱️ 12:42 • 1d ago
+
+---
+
+**[Wall Street&#39;s 18% Tax on Ethereum](https://www.youtube.com/watch?v=l77QrTEIgpo)**
+
+BlackRock just launched a staking Ethereum ETF—but is it really a win for investors? This video breaks down ETHB, hidden fees, ...
+
+📺 Coin Bureau
+
+👁️ 735 • 👍 54 • 💬 8 • ⏱️ 18:11 • 27m ago
 
 ---
 
@@ -260,7 +270,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 114 • 💬 4 • ⏱️ 3:56 • 10h ago
+👁️ 1K • 👍 117 • 💬 5 • ⏱️ 3:56 • 11h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=gVyifAAJSa0)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 66 • 👍 7 • 💬 1 • ⏱️ 4:32 • 11m ago
 
 ---
 
@@ -268,7 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 EllioTrades
 
-👁️ 10K • 👍 224 • 💬 39 • ⏱️ 1:07 • 1d ago
+👁️ 10K • 👍 224 • 💬 40 • ⏱️ 1:07 • 2d ago
 
 ---
 
@@ -278,7 +298,17 @@ BITCOIN & ALTCOIN WARNING: Price Targets Exposed!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 7K • 👍 252 • 💬 118 • ⏱️ 16:50 • 19h ago
+👁️ 7K • 👍 255 • 💬 120 • ⏱️ 16:50 • 19h ago
+
+---
+
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=jDn-cQEKKMQ)**
+
+TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
+
+📺 My Channel
+
+👁️ 4K • 👍 1K • 51m ago
 
 ---
 
@@ -288,47 +318,17 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 2K • 👍 2K • 2h ago
+👁️ 11K • 👍 4K • 💬 30 • ⏱️ 1:41:53 • 42m ago
 
 ---
 
-**[BE READY FOR THIS DUMP!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=4IMp91ZMHw4)**
+**[BTC &amp; ETH: Emergency FED Meeting Update!!](https://www.youtube.com/watch?v=qLWPSQK-FPE)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+BloFin (NO KYC) – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade ...
 
-📺 Cilinix Crypto
+📺 Marzell Crypto
 
-👁️ 82 • 👍 5 • 💬 1 • ⏱️ 5:16 • 3h ago
-
----
-
-**[Crypto Holders Can’t Believe.. It’s Actually Happening](https://www.youtube.com/watch?v=coGc_pNFCQU)**
-
-0% Fees on Gold And Silver (Earn $300k): https://www.weex.com/events/promo/0fees-gold-silver-300k?vipCode=oz5p ...
-
-📺 Altcoin Daily
-
-👁️ 38K • 👍 2K • 💬 116 • ⏱️ 9:25 • 2d ago
-
----
-
-**[Canton Chain Better Than XRP, Solana, &amp; Ethereum?🔥Yuval Rooz INTERVIEW](https://www.youtube.com/watch?v=e2058fi-vYw)**
-
-Canton is the first privacy-enabled open blockchain network, ensuring limitless connections that preserve privacy. Is it worthy of ...
-
-📺 Paul Barron Network
-
-👁️ 32K • 👍 2K • 💬 1K • ⏱️ 30:27 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=sN3lpOtC4-M)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 917 • 👍 89 • ⏱️ 5:41 • 10h ago
+👁️ 685 • 👍 17 • 💬 27 • ⏱️ 3:03 • 2d ago
 
 ---
 
