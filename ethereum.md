@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-21T02:04:51.152839+00:00'
+updated: '2026-03-21T04:17:04.248864+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- news
 - social
 - cryptocurrency
-- news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 02:04 UTC  
+**Last Updated:** March 21, 2026 at 04:17 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -1.4%  
-**30d:** +9.1%  
-**90d:** -28.6%  
-**1y:** +8.5%  
+**24h:** +0.8%  
+**7d:** -0.9%  
+**30d:** +9.6%  
+**90d:** -28.3%  
+**1y:** +9.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $259.17B
+**Market Cap:** $260.26B
 Rank #2
 
 **Circulating Supply:** 120,691,752 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.6%
+-56.4%
 
 **All-Time Low:** $0.43
-+495755.5%
++497755.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Hey everyone, I’ve been working on a side project called Blockpeek and just shipped a new update. It’s a blockchain transaction scanner that tries to explain what actually happened in plain English instead of just showing raw hex data. You paste a transaction hash (or upload a screenshot from your wallet/exchange) and it tells you: ∙ What was sent, to who, from who ∙ The USD value at the time ∙ Gas fees in USD ∙ Which chain it was on (auto-detects Ethereum, BSC, Arbitrum, Polygon, Base, Solana, Bitcoin, Tron and more) It’s free, no login required. Would genuinely love feedback — what’s missing, what’s broken, what would make it actually useful for you. blockpeek.io
 
-2h ago
+4h ago
 
 ---
 
@@ -80,15 +80,7 @@ Hey everyone, I’ve been working on a side project called Blockpeek and just sh
 
 I’m looking for a way to swap my Bitcoin to Ethereum without KYC, so obviously i found thorchain, but unfortunately it’s not available here in the U.S, and i heard it’s very expensive as well. Where should I do it you think? sorry if this question was already asked in past but i couldnt find an answer after bit lf time checking.
 
-4h ago
-
----
-
-**[Daily General Discussion March 20, 2026](https://www.reddit.com/r/ethereum/comments/1ryna1i/daily_general_discussion_march_20_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-21h ago
+6h ago
 
 ---
 
@@ -96,7 +88,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Whenever I see an exchange offering 40% APY on stablecoins, I run the other way immediately. Yield doesn't come from nowhere. I look for platforms that just focus on standard spot trading, verifiable proof of reserves, and steady, quiet growth. That's exactly why I've stuck with Coinbase and BitMart over the years. Solid security beats flashy yields every single time.
 
-1h ago
+3h ago
+
+---
+
+**[Daily General Discussion March 20, 2026](https://www.reddit.com/r/ethereum/comments/1ryna1i/daily_general_discussion_march_20_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+23h ago
 
 ---
 
@@ -164,21 +164,13 @@ Benzinga • 2d ago
 
 Ethereum bottom call backed by multiple signals, says Tom Lee. Strong upside narrative remains. Credibility tempered by past miss. Ethereum's price is once again at ...
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 16h ago
 
 ---
 
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqddgDMJK2vOIOJ6yGI7n4Z3bE-v_0A8NIJ9Giopn7dpT0inFaB2DIEL&gaa_ts=69be002d&gaa_sig=KOQKsXm143-6tQBpdD_iAIVorfSmMVniSZVjY_cfC6BEA7ngGg5Fe5AvybPS6nlJIQKtuPdGS4Wl-VNe4reKpg%3D%3D)**
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqeG6AaBT0GnCn8UiyUeQZ-hU5OVdmkFg63lPpdoR0ZoXHF3mWRkS0_6&gaa_ts=69be1f30&gaa_sig=uuMHroVk_bZFRg4ZEeEswrjOao0A0r-WzNGzvy--K0-kjJmI6F-diS_CZRnO-0pjiLLG1R2aOem7zgvLWqK_6g%3D%3D)**
 
-MarketWatch • 12h ago
-
----
-
-**[Zenith links Canton and Ethereum through atomic swaps](https://www.theblock.co/post/394288/zenith-links-canton-ethereum-through-atomic-swaps)**
-
-Canton developers said supporting programming languages outside of its native Daml could open the network to a wider pool of developers.
-
-The Block • 1d ago
+MarketWatch • 14h ago
 
 ---
 
@@ -186,7 +178,15 @@ The Block • 1d ago
 
 “Ethereum, to me, is really gonna be where Wall Street meets crypto,” a source told NYNext.
 
-New York Post • 15h ago
+New York Post • 17h ago
+
+---
+
+**[Europe’s largest asset manager Amundi debuts $100 million tokenized fund on Ethereum, Stellar](https://www.theblock.co/post/394348/europes-largest-asset-manager-amundi-debuts-100-million-tokenized-fund-on-ethereum-stellar)**
+
+Amundi launched the $100 million Spiko Amundi Overnight Swap Fund on Ethereum and Stellar with Chainlink support.
+
+The Block • 1d ago
 
 ---
 
@@ -194,7 +194,7 @@ New York Post • 15h ago
 
 Ethereum has slipped into a valuation range that some on-chain analysts associate with major long-term bottoms, after ETH fell below its realized price for the first time in two years. Via X, renowned crypto analyst Ali Martinez argued on Thursday the setup now resembles prior cycle lows.Ethereum D…
 
-TradingView • 22h ago
+TradingView • 1d ago
 
 ---
 
@@ -210,7 +210,7 @@ Decrypt • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 12h ago
+Fortune • 14h ago
 
 ---
 
@@ -218,7 +218,7 @@ Fortune • 12h ago
 
 Ethereum hit a new record high in 2025, but it still fell short of the $5,000 milestone.
 
-The Motley Fool • 14h ago
+The Motley Fool • 16h ago
 
 ---
 
@@ -238,7 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 349 • 💬 52 • ⏱️ 19:43 • 10h ago
+👁️ 9K • 👍 363 • 💬 47 • ⏱️ 19:43 • 12h ago
 
 ---
 
@@ -248,7 +248,17 @@ Ethereum is showing strong bullish signals, with analysts predicting a major reb
 
 📺 Crypto Sensei
 
-👁️ 5K • 👍 434 • 💬 46 • ⏱️ 12:42 • 12h ago
+👁️ 5K • 👍 439 • 💬 46 • ⏱️ 12:42 • 14h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=g8m2K_XaFLo)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 218 • 👍 25 • 💬 2 • ⏱️ 3:56 • 1h ago
 
 ---
 
@@ -258,7 +268,7 @@ BITCOIN & ALTCOIN WARNING: Price Targets Exposed!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 4K • 👍 205 • 💬 123 • ⏱️ 16:50 • 7h ago
+👁️ 5K • 👍 220 • 💬 44 • ⏱️ 16:50 • 9h ago
 
 ---
 
@@ -266,7 +276,7 @@ BITCOIN & ALTCOIN WARNING: Price Targets Exposed!!! - Bitcoin News Today, Ethere
 
 📺 EllioTrades
 
-👁️ 9K • 👍 219 • 💬 39 • ⏱️ 1:07 • 1d ago
+👁️ 10K • 👍 220 • 💬 39 • ⏱️ 1:07 • 1d ago
 
 ---
 
@@ -276,7 +286,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 93 • 💬 7 • ⏱️ 4:30 • 11h ago
+👁️ 1K • 👍 94 • 💬 7 • ⏱️ 4:30 • 14h ago
 
 ---
 
@@ -286,7 +296,7 @@ Canton is the first privacy-enabled open blockchain network, ensuring limitless 
 
 📺 Paul Barron Network
 
-👁️ 31K • 👍 2K • 💬 1K • ⏱️ 30:27 • 1d ago
+👁️ 32K • 👍 2K • 💬 1K • ⏱️ 30:27 • 1d ago
 
 ---
 
@@ -296,37 +306,27 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 197 • 👍 8 • 💬 2 • ⏱️ 4:56 • 16h ago
+👁️ 208 • 👍 8 • 💬 2 • ⏱️ 4:56 • 18h ago
 
 ---
 
-**[Crypto Holders Can’t Believe.. It’s Actually Happening](https://www.youtube.com/watch?v=coGc_pNFCQU)**
+**[IS THE CRYPTO RALLY LEGIT? BITCOIN, XRP, ETHEREUM, &amp; SOLANA ANALYSIS!](https://www.youtube.com/watch?v=6I53qLIw3fA)**
 
-0% Fees on Gold And Silver (Earn $300k): https://www.weex.com/events/promo/0fees-gold-silver-300k?vipCode=oz5p ...
+Brian from Santiment joined me to review the crypto market metrics. We review onchain metrics for Bitcoin, Ripple XRP, Ethereum, ...
 
-📺 Altcoin Daily
+📺 Thinking Crypto
 
-👁️ 37K • 👍 2K • 💬 116 • ⏱️ 9:25 • 2d ago
-
----
-
-**[🚨 BTC &amp; ETH: HOW I MAKE MONEY WITH TRADING BOTS!!! METHOD REVEALED!!!! (+Full Tutorial)](https://www.youtube.com/watch?v=Iutgz89XTR8)**
-
-In this video, I reveal how I make money using trading bots, their settings, strategies, and more. BYUSDT, earn while trading: ...
-
-📺 Thomas Kralow
-
-👁️ 4K • 👍 2K • 💬 14 • ⏱️ 13:55 • 1d ago
+👁️ 4K • 👍 229 • 💬 72 • ⏱️ 28:07 • 2d ago
 
 ---
 
-**[ETH Ethereum Price Prediction: 19th of March](https://www.youtube.com/watch?v=ALe8xzWt-n8)**
+**[Ethereum Just Got Easier: What is ETHB?](https://www.youtube.com/watch?v=R1qPIW73oos)**
 
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+Crypto felt unfamiliar. Until it didn't. For a long time, crypto felt new. Hard to access. Complicated. Then came ETPs. Same screens ...
 
-📺 C-Zar Gets Crypto 
+📺 iShares by BlackRock
 
-👁️ 147 • 👍 14 • 💬 5 • ⏱️ 8:24 • 1d ago
+👁️ 221 • 👍 3 • ⏱️ 0:37 • 2d ago
 
 ---
 

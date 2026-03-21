@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-21T02:04:51.146856+00:00'
+updated: '2026-03-21T04:17:04.242905+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- news
 - social
 - cryptocurrency
-- news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 02:04 UTC  
+**Last Updated:** March 21, 2026 at 04:17 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,523.55
+### $70,672.32
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -3.1%  
-**30d:** +3.6%  
-**90d:** -20.2%  
-**1y:** -15.9%  
+**24h:** +0.2%  
+**7d:** -2.7%  
+**30d:** +4.0%  
+**90d:** -19.9%  
+**1y:** -15.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1409.82B
+**Market Cap:** $1415.13B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--44.1%
+-43.9%
 
 **All-Time Low:** $67.81
-+103793.2%
++104215.0%
 
 ---
 
@@ -77,11 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[RIP Legend](https://www.reddit.com/r/Bitcoin/comments/1rzh2xj/rip_legend/)**
+
+48m ago
+
+---
+
 **[This sub currently](https://www.reddit.com/r/Bitcoin/comments/1rza6z8/this_sub_currently/)**
 
 Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Alden's book called Broken Money and read it.
 
-3h ago
+5h ago
 
 ---
 
@@ -89,7 +95,7 @@ Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Al
 
 Abra Financial Holdings, Inc. CEO
 
-12h ago
+14h ago
 
 ---
 
@@ -97,15 +103,7 @@ Abra Financial Holdings, Inc. CEO
 
 North Carolina is moving to become one of the first states to officially hold Bitcoin as part of its treasury reserves. The bill (HB 92) would allow the state treasurer to invest up to 10% of certain public funds in Bitcoin. These reserves typically consist of US Treasury bonds
 
-12h ago
-
----
-
-**[Iran crisis puts the regime's $7.8 billion crypto shadow economy in spotlight](https://www.reddit.com/r/Bitcoin/comments/1rzc97n/iran_crisis_puts_the_regimes_78_billion_crypto/)**
-
-The government relies on this crypto infrastructure for international trade, while ordinary Iranians use it as a financial lifeline during protests and economic crises. Iran has built a multibillion-dollar parallel economy using state-sponsored Bitcoin mining and stablecoins to bypass the U.S. dollar, heavily driven by the IRGC. The government relies on this crypto infrastructure for international trade, while ordinary Iranians use it as a financial lifeline during protests and economic crises. Recent military strikes threaten Iran's fragile power grid, which is essential to sustaining the energy-intensive mining operations that keep this financial channel open. The Islamic Revolutionary Guard Corps (IRGC), the primary branch of the country’s military, has since deepened its role in the space. Chainalysis estimates IRGC-linked addresses accounted for more than 50% of total Iranian crypto inflows in the fourth quarter of 2025, with over $3 billion in value received last year.
-
-2h ago
+14h ago
 
 ---
 
@@ -113,7 +111,15 @@ The government relies on this crypto infrastructure for international trade, whi
 
 Hey all, i made mistake a long time ago when BTC price was 17.000€ and I wanted to do it, but I was too afraid. I wanted this asimetric bet on crypto on my portfolio. Today I purchased my first 1% of coin. I’ve waited for this oppurtunity for a long time now, and I finally got entry I am confortable with. So, new guy in the buisness. :) Any advice tou can give me?
 
-7h ago
+9h ago
+
+---
+
+**[Iran crisis puts the regime's $7.8 billion crypto shadow economy in spotlight](https://www.reddit.com/r/Bitcoin/comments/1rzc97n/iran_crisis_puts_the_regimes_78_billion_crypto/)**
+
+The government relies on this crypto infrastructure for international trade, while ordinary Iranians use it as a financial lifeline during protests and economic crises. Iran has built a multibillion-dollar parallel economy using state-sponsored Bitcoin mining and stablecoins to bypass the U.S. dollar, heavily driven by the IRGC. The government relies on this crypto infrastructure for international trade, while ordinary Iranians use it as a financial lifeline during protests and economic crises. Recent military strikes threaten Iran's fragile power grid, which is essential to sustaining the energy-intensive mining operations that keep this financial channel open. The Islamic Revolutionary Guard Corps (IRGC), the primary branch of the country’s military, has since deepened its role in the space. Chainalysis estimates IRGC-linked addresses accounted for more than 50% of total Iranian crypto inflows in the fourth quarter of 2025, with over $3 billion in value received last year.
+
+4h ago
 
 ---
 
@@ -121,7 +127,7 @@ Hey all, i made mistake a long time ago when BTC price was 17.000€ and I wante
 
 This is my comprehensive guide for 10 and more hardware wallets, their pros and cons and facts why a specific wallet may be suitable for a user personality. What is your take?
 
-🔗 [renditecloud.com](https://renditecloud.com/2026/02/09/the-10-best-crypto-hardware-wallets-in-2026/) • 2h ago
+🔗 [renditecloud.com](https://renditecloud.com/2026/02/09/the-10-best-crypto-hardware-wallets-in-2026/) • 4h ago
 
 ---
 
@@ -129,7 +135,7 @@ This is my comprehensive guide for 10 and more hardware wallets, their pros and 
 
 Is anybody else impressed by the stability of the price in the last month considering the state of the world? If the cycle is real (it's mostly followed it, what, 4 times now? Not exactly a substantial amount of data points... but it is a pattern nonetheless) then it's mildly interesting that it hasn't dropped further faster... yet. And considering the conflicts/wars and the state of the market and oil prices, and gold falling... yet through all this in the past month it has been steady around 70k plus or minus a bit. Maybe all this was "priced in" from before the last month, but if that were the case, amid the bear period of the "4 year cycle" AND the war, I'd have expected the "price in" to be more damaging. Just some commute-thoughts I had... open for discussion.
 
-13h ago
+15h ago
 
 ---
 
@@ -145,15 +151,7 @@ Is anybody else impressed by the stability of the price in the last month consid
 
 This question is directed at those who exclusively hold Bitcoin. How do you maintain conviction in a BTC-only strategy, and how do you deal with FOMO when altcoins are outperforming? Any tips for us that still have urge to buying altcoin ?
 
-17h ago
-
----
-
-**[BTC dipping hard? Perfect timing to bump my DCA to $75 daily](https://www.reddit.com/r/Bitcoin/comments/1ryovgj/btc_dipping_hard_perfect_timing_to_bump_my_dca_to/)**
-
-Back in September I got absolutely wrecked with some ridiculous margin trades, lost a massive chunk of change No point crying over spilled milk though right Strategy now is simple - just keep stacking sats through regular buys and forget about it Bitcoin crashing? mate I'm loving every minute of it, more coins for less cash so I'm cranking up my daily buys These prices are a gift if you ask me
-
-19h ago
+20h ago
 
 ---
 
@@ -173,15 +171,31 @@ Yahoo Finance • 1d ago
 
 Oil prices slipped as major economies announced joint efforts to stabilize energy markets.
 
-CoinDesk • 20h ago
+CoinDesk • 22h ago
 
 ---
 
-**[Could A Rotation From Gold Into Bitcoin Be Signaling A Bottom?](https://finance.yahoo.com/video/could-rotation-gold-bitcoin-signaling-001200252.html)**
+**[Phong Le Calls Morgan Stanley’s BTC ETF a “Monster Bitcoin” Bet With $160 Billion Potential](https://bitcoinmagazine.com/news/phong-le-calls-morgan-stanleys-bitcoin)**
 
-The rotation into Bitcoin from gold could be an important tell, says Josh Lim
+The president and CEO of Strategy said Morgan Stanley’s upcoming bitcoin ETF could unlock as much as $160 billion in demand under a modest portfolio allocation scenario.
 
-Yahoo Finance • 1h ago
+Bitcoin Magazine • 10h ago
+
+---
+
+**[Morgan Stanley sets MSBT ticker and $1 million seed capital for bitcoin ETF](https://www.coindesk.com/markets/2026/03/20/morgan-stanley-sets-msbt-ticker-and-usd1-million-seed-capital-for-bitcoin-etf)**
+
+Morgan Stanley has filed to launch a spot Bitcoin ETF with the ticker MSBT and a $1 million seed at debut.
+
+CoinDesk • 23h ago
+
+---
+
+**[Morgan Stanley Prepares Bitcoin ETF for NYSE Arca Launch, Picking MSBT Ticker](https://decrypt.co/361769/morgan-stanley-prepares-bitcoin-etf-nyse-arca-launch-msbt)**
+
+Morgan Stanley updated its Bitcoin ETF S-1 filing, adding Fidelity as custodian and revealing the NYSE Arca ticker MSBT.
+
+Decrypt • 1d ago
 
 ---
 
@@ -189,7 +203,7 @@ Yahoo Finance • 1h ago
 
 VanEck's latest report noted that the selling pressure among bitcoin miners remained steady despite a decline in profitability.
 
-The Block • 17h ago
+The Block • 19h ago
 
 ---
 
@@ -197,19 +211,13 @@ The Block • 17h ago
 
 Unpopular
 
-Financial Times • 9h ago
+Financial Times • 11h ago
 
 ---
 
-**[Bitcoin, XRP Fall. Crypto Markets Get What They Expected From Fed’s Powell.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-fed-decision-cryptos-powell-e3021a22?gaa_at=eafs&gaa_n=AWEtsqd5ZCQdQQqy3WC6UO_F29h5IeKJFfOv0u8Ts8gvpccIty8MlqyjiFPQ&gaa_ts=69be002b&gaa_sig=b0lCR0D6Zqs31M28Y8S9OBUzfP8zoSzuLxlVE16pt55MyCkDtNwTC1UDLLfXCXWbew5z24q7-fD-COpjp7ZB6w%3D%3D)**
+**[Bitcoin, XRP Fall. Crypto Markets Get What They Expected From Fed’s Powell.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-fed-decision-cryptos-powell-e3021a22?gaa_at=eafs&gaa_n=AWEtsqekuDVYYst3u4Fdse4qjngB6cvNvTjdKeCC488jJTU59GDcJDJPRXMQ&gaa_ts=69be1f2e&gaa_sig=RFxlJ1ZdNaUQ5NBo8garKh_GXdfF-bXFba1-DRy0N2sTcz15nCvmgsrfhPcks2nu8sxcrq2j9LS5NbrDYus2SA%3D%3D)**
 
 Barron's • 2d ago
-
----
-
-**[Ex-Wife Accused of Stealing £180 Million in Bitcoin After Divorce](https://www.bloomberg.com/news/articles/2026-03-19/ex-wife-accused-of-stealing-180-million-in-bitcoin-after-divorce)**
-
-Bloomberg.com • 1d ago
 
 ---
 
@@ -221,15 +229,9 @@ PR Newswire • 1d ago
 
 ---
 
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqfXKvw2ulVoo3vlZ4noWT8kIQWdPyxO77aai03x2hvTZYj7yKFxEYJ6&gaa_ts=69be002b&gaa_sig=oAA2q3BUO5bpR8VU27LxO8ECN1JJgJ3UE9xRJoPxvgSZk0s45wfYd1DfAG7nN2VXFPOR06KjDHe8eiCKevD17Q%3D%3D)**
+**[Ex-Wife Accused of Stealing £180 Million in Bitcoin After Divorce](https://www.bloomberg.com/news/articles/2026-03-19/ex-wife-accused-of-stealing-180-million-in-bitcoin-after-divorce)**
 
-MarketWatch • 12h ago
-
----
-
-**[Jellico residents petition to review Bitcoin data center after high electric bills](https://www.wate.com/news/campbell-county-news/jellico-residents-petition-to-review-bitcoin-data-center-after-high-electric-bills/)**
-
-WATE 6 On Your Side • 2d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -241,13 +243,13 @@ WATE 6 On Your Side • 2d ago
 
 Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in. Proof that works without us.
 
-⬆️ 5 • 💬 0 • 1d ago • [Umarise](https://umarise.com/blog/proof-of-existence)
+⬆️ 6 • 💬 0 • 1d ago • [Umarise](https://umarise.com/blog/proof-of-existence)
 
 ---
 
 **[Bitcoin, XRP Fall in a Bad Week for Cryptos](https://news.ycombinator.com/item?id=47453548)**
 
-⬆️ 2 • 💬 0 • 13h ago • [barrons.com](https://www.barrons.com/articles/bitcoin-price-xrp-etheruem-crypto-sec-nasdaq-2e2f8254)
+⬆️ 2 • 💬 0 • 15h ago • [barrons.com](https://www.barrons.com/articles/bitcoin-price-xrp-etheruem-crypto-sec-nasdaq-2e2f8254)
 
 ---
 
@@ -283,13 +285,13 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 **[BioContact assurance and status monitoring using human body communication](https://news.ycombinator.com/item?id=47459528)**
 
-⬆️ 1 • 💬 0 • 6h ago • [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2590123025045001)
+⬆️ 1 • 💬 0 • 8h ago • [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2590123025045001)
 
 ---
 
 **[TrustAgentAI – Cryptographic receipts for MCP tool calls (non-repudiation layer)](https://news.ycombinator.com/item?id=47421489)**
 
-⬆️ 6 • 💬 0 • 2d ago
+⬆️ 6 • 💬 0 • 3d ago
 
 ---
 
@@ -297,13 +299,23 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 ## YouTube Videos: "bitcoin"
 
+**[4M Companies Just FORCED to Adopt Bitcoin? ](https://www.youtube.com/watch?v=8FHfwGCet-E)**
+
+Bitcoin just went live at millions of businesses without anyone opting in. While most people are distracted, Dorsey, Musk, and ...
+
+📺 Simply Bitcoin
+
+👁️ 8K • 👍 791 • 💬 61 • ⏱️ 12:51 • 5h ago
+
+---
+
 **[NEW REPORT EXPOSES The $71 Trillion Secret Behind Bitcoin’s Next Move | EP 1465](https://www.youtube.com/watch?v=aC9XCqNsHYQ)**
 
 New report exposes institutions have only just begun dipping their toes into bitcoin and 2026 is the year they make big moves .
 
 📺 Simply Bitcoin
 
-👁️ 5K • 👍 262 • 💬 41 • ⏱️ 1:30:42 • 7h ago
+👁️ 6K • 👍 275 • 💬 36 • ⏱️ 1:30:42 • 9h ago
 
 ---
 
@@ -313,17 +325,17 @@ A central bank buying Bitcoin would change everything. Not because of the amount
 
 📺 Tim Talks Finance
 
-👁️ 750 • 👍 74 • 💬 5 • ⏱️ 18:40 • 3h ago
+👁️ 1K • 👍 97 • 💬 12 • ⏱️ 18:40 • 5h ago
 
 ---
 
-**[Is It Safe To Buy Crypto Now? Bitcoin Update](https://www.youtube.com/watch?v=p1J354RJq_c)**
+**[Bitcoin: The Bear Market Blues](https://www.youtube.com/watch?v=jiehja20gFE)**
 
-Is the Bitcoin pullback finally over, or is this just another setup before the next move down? In this video, Sheldon breaks down the ...
+A classic case of the bear market blues for Bitcoin. Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries: ...
 
-📺 Crypto Banter
+📺 Benjamin Cowen
 
-👁️ 7K • 👍 409 • 💬 11 • ⏱️ 8:12 • 17h ago
+👁️ 53K • 👍 4K • 💬 189 • ⏱️ 11:38 • 23h ago
 
 ---
 
@@ -343,27 +355,17 @@ Dave LaValle, president of @CoinDesk, offers a full picture perspective on the s
 
 📺 Schwab Network
 
-👁️ 491 • 👍 10 • 💬 1 • ⏱️ 7:00 • 6h ago
+👁️ 643 • 👍 13 • 💬 1 • ⏱️ 7:00 • 8h ago
 
 ---
 
-**[Bitcoin: The Bear Market Blues](https://www.youtube.com/watch?v=jiehja20gFE)**
+**[The Bitcoin Bull Signals You Don&#39;t Want to Miss](https://www.youtube.com/watch?v=U0Bbub2jyg0)**
 
-A classic case of the bear market blues for Bitcoin. Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries: ...
+Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
 
-📺 Benjamin Cowen
+📺 CryptosRUs
 
-👁️ 52K • 👍 3K • 💬 187 • ⏱️ 11:38 • 21h ago
-
----
-
-**[Crypto Holders Can’t Believe.. It’s Actually Happening](https://www.youtube.com/watch?v=coGc_pNFCQU)**
-
-0% Fees on Gold And Silver (Earn $300k): https://www.weex.com/events/promo/0fees-gold-silver-300k?vipCode=oz5p ...
-
-📺 Altcoin Daily
-
-👁️ 37K • 👍 2K • 💬 116 • ⏱️ 9:25 • 2d ago
+👁️ 14K • 👍 826 • 💬 75 • ⏱️ 38:05 • 13h ago
 
 ---
 
@@ -377,23 +379,23 @@ Crypto is about to get LEGIT CRAZY $30k Bonus Sign Up For WEEX: https://www.weex
 
 ---
 
-**[Why is President Trump Buying Bitcoin? @1MarkMoss  #bitcoin  #crypto #finance](https://www.youtube.com/watch?v=JX_OSxElGM4)**
+**[Iran, Oil, and What the Petrodollar Breakdown Means for Bitcoin](https://www.youtube.com/watch?v=F0LpasoGYdI)**
 
-Connect with Rich on Instagram: @rich_somers Interested in investing with Somers Capital? Visit www.somerscapital.com/invest ...
+The old system is cracking and Bitcoin is starting to look like the escape hatch. This breaks down the petrodollar fracture, Wall ...
 
-📺 Rich Somers
+📺 Simply Bitcoin
 
-👁️ 29K • 👍 416 • 💬 18 • ⏱️ 0:41 • 2d ago
+👁️ 15K • 👍 1K • 💬 81 • ⏱️ 20:44 • 1d ago
 
 ---
 
-**[Bitcoin: Post-FOMC](https://www.youtube.com/watch?v=Kx7F_EL9ocI)**
+**[BITCOIN: INTO THE WEEKEND ANALYSIS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=wKFBgaUZBaE)**
 
-Let's talk about Bitcoin post-FOMC! Join the ITC March Madness Bracket Challenge! Winner gets a 1 year subscription to ITC ...
+My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
-📺 Benjamin Cowen
+📺 Road To $1 Million USD
 
-👁️ 66K • 👍 4K • 💬 194 • ⏱️ 16:44 • 1d ago
+👁️ 2K • 👍 176 • 💬 15 • ⏱️ 6:21 • 5h ago
 
 ---
 
