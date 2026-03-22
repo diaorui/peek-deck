@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-22T11:25:44.220257+00:00'
+updated: '2026-03-22T11:47:19.327889+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 22, 2026 at 11:25 UTC  
+**Last Updated:** March 22, 2026 at 11:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
 From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2035439044151382398 OpenMind Robotics webstite: https://www.openmindrobotics.com/
 
-48m ago
+1h ago
 
 ---
 
@@ -64,7 +64,7 @@ From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2035439044151
 
 We’re running a pretty heavy autonomous stack on a single edge computer (ROS 2 Jazzy) — multiple high-res cameras, dense LiDARs, and radars all on one machine. We’re starting to hit serious compute + latency limits, especially with intra-process communication and recording. Right now we’re evaluating: Fast DDS Cyclone DDS Zenoh Iceoryx Also, as soon as we start recording with rosbag2, CPU usage spikes hard and we get frame drops across the system. Two questions for folks who’ve pushed ROS 2 hard on a single machine: For high-bandwidth intra-host comms on Jazzy, which RMW has actually given you the best real-world performance? How are you dealing with the rosbag2 overhead? Composable recorder node? Separate process? Or bypassing ROS entirely and logging raw sensor data? For context: we previously ran Humble + CycloneDDS + MCAP and saw similar bottlenecks. Curious what setups are working well in practice.
 
-14h ago
+15h ago
 
 ---
 
@@ -96,7 +96,7 @@ Testing the built-in 3D reconstruction algorithm of the Viobot2 — the result l
 
 Hey, I want to build a humanoid robot as a personal project — not necessarily life sized, maybe scaled down a bit. I came across InMoov and it looks amazing but I'm a bit intimidated by the non-printed hardware requirements like springs, metal rods, drilling into parts etc. I'm comfortable with electronics and embedded systems (Arduino/ESP32, servos, sensors) so that side doesn't scare me. It's more the mechanical assembly and sourcing all the non-printed hardware that feels overwhelming. Has anyone: Built InMoov and found ways to simplify the mechanical assembly? Found a good detailed step by step tutorial that makes it less intimidating? Found cheaper alternatives to the hardware components it needs? Built a simplified or scaled down version? Not looking for a perfect robot, just something that works and that I can build on over time. Any advice or experience would really help. Thanks
 
-13h ago
+14h ago
 
 ---
 
@@ -194,33 +194,13 @@ Crain's Detroit • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[Out of control robot smashes up restaurant as waitress desperately attempts to drag it away](https://www.youtube.com/watch?v=ZyohmMJA5Ao)**
-
-THIS is the hilarious moment a boogying robot dances too hard and sends food and cutlery flying in a high end restaurant.
-
-📺 The Sun
-
-👁️ 251K • 👍 3K • 💬 2K • ⏱️ 2:07 • 3d ago
-
----
-
 **[The Future of Flooring: Automated Sand-Cement Screeding Robot #ConstructionTech #Robotics #Flooring](https://www.youtube.com/watch?v=QK7Y1-O5koE)**
 
 "Efficiency meets precision! Watch this automated floor screeding robot transform a rough sand-cement mix into a perfectly level ...
 
 📺 MachineWorks Studio
 
-👁️ 2.6M • 👍 2K • 💬 38 • ⏱️ 0:06 • 5d ago
-
----
-
-**[Dancing robot goes rogue in hot pot restaurant](https://www.youtube.com/watch?v=DfnIEWpbMU8)**
-
-Video shows restaurant employees struggling to restrain a dancing robot that went rogue in a hot pot restaurant in California.
-
-📺 NBC News
-
-👁️ 185K • 👍 2K • 💬 625 • ⏱️ 3:38 • 3d ago
+👁️ 2.7M • 👍 2K • 💬 39 • ⏱️ 0:06 • 5d ago
 
 ---
 
@@ -230,7 +210,37 @@ COGLET KICKSTARTER LAUNCH: ...
 
 📺 Will Cogley
 
-👁️ 15K • 👍 1K • 💬 60 • ⏱️ 10:35 • 1d ago
+👁️ 15K • 👍 1K • 💬 62 • ⏱️ 10:35 • 1d ago
+
+---
+
+**[Out of control robot smashes up restaurant as waitress desperately attempts to drag it away](https://www.youtube.com/watch?v=ZyohmMJA5Ao)**
+
+THIS is the hilarious moment a boogying robot dances too hard and sends food and cutlery flying in a high end restaurant.
+
+📺 The Sun
+
+👁️ 255K • 👍 3K • 💬 2K • ⏱️ 2:07 • 3d ago
+
+---
+
+**[This Chinese Robot Just Crossed All the Lines — Real Life Terminator T800](https://www.youtube.com/watch?v=0hVT9qcC8Ec)**
+
+China just built something that was supposed to be decades away. Engine AI's T800 humanoid robot is already walking live ...
+
+📺 Core Insights
+
+👁️ 70K • 👍 1K • 💬 134 • ⏱️ 15:19 • 4d ago
+
+---
+
+**[Dancing robot goes rogue in hot pot restaurant](https://www.youtube.com/watch?v=DfnIEWpbMU8)**
+
+Video shows restaurant employees struggling to restrain a dancing robot that went rogue in a hot pot restaurant in California.
+
+📺 NBC News
+
+👁️ 186K • 👍 2K • 💬 625 • ⏱️ 3:38 • 3d ago
 
 ---
 
@@ -240,17 +250,7 @@ Try the full AI cinematic workflow here: https://higgsfield.ai/s/cinema-studio-2
 
 📺 AI Revolution
 
-👁️ 21K • 👍 504 • 💬 44 • ⏱️ 13:18 • 6d ago
-
----
-
-**[NVIDIA GTC Demo Stuns Audience With Real Olaf Robot Next To Jensen Huang](https://www.youtube.com/watch?v=pPnVsRPFWV8)**
-
-The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrations when Jensen Huang introduced a real ...
-
-📺 DPCcars
-
-👁️ 201K • 👍 2K • 💬 270 • ⏱️ 2:02 • 5d ago
+👁️ 22K • 👍 507 • 💬 46 • ⏱️ 13:18 • 6d ago
 
 ---
 
@@ -260,37 +260,35 @@ This Spray-On Electronic Skin Could Make Robots Feel More Like Humans. Researche
 
 📺 EcoZora
 
-👁️ 11K • 👍 30 • 💬 3 • ⏱️ 0:07 • 2d ago
+👁️ 12K • 👍 30 • 💬 3 • ⏱️ 0:07 • 2d ago
 
 ---
 
-**[This wearable robot adds two mechanical legs behind you](https://www.youtube.com/watch?v=y1Jh2BtO-Ow)**
+**[NVIDIA GTC Demo Stuns Audience With Real Olaf Robot Next To Jensen Huang](https://www.youtube.com/watch?v=pPnVsRPFWV8)**
 
-CENTAUR ROBOT - wearable robot adds two legs behind people to help distribute the load ...
+The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrations when Jensen Huang introduced a real ...
 
-📺 Unstoppable Gadgets
+📺 DPCcars
 
-👁️ 29K • 👍 343 • 💬 22 • ⏱️ 0:17 • 3d ago
-
----
-
-**[🎾🤖 INSANE! Researchers Can&#39;t Beat This #TennisRobot Anymore! #LATENT is Pro. #humanoid #robot #ai](https://www.youtube.com/watch?v=yqprFRLeZ48)**
-
-Humanoid tennis athletes are officially here! A team from Tsinghua University and Galbot just dropped LATENT, and it is ...
-
-📺 XRoboHub
-
-👁️ 169K • 👍 2K • 💬 279 • ⏱️ 0:23 • 6d ago
+👁️ 204K • 👍 2K • 💬 285 • ⏱️ 2:02 • 5d ago
 
 ---
 
-**[Unboxing the FUTURE! Agibot X2 Ultra Humanoid Robot ](https://www.youtube.com/watch?v=Nf4q5uxCTKQ)**
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=hyus0N9wwM4)**
 
-Our Agibot X2 Ultra robot has finally arrived! Together we will unbox this humanoid robot, set it up, and run through all the details.
+📺 Robot Julie 
 
-📺 KhanFlicks
+👁️ 31K • 👍 203 • 💬 3 • ⏱️ 0:28 • 1d ago
 
-👁️ 140K • 💬 143 • ⏱️ 22:01 • 3d ago
+---
+
+**[Inside a factory run by 3,000 robots](https://www.youtube.com/watch?v=6FZDbwuGsWw)**
+
+China has unveiled its development blueprint for the 15th Five-Year Plan period. It features a strong focus on modernization, ...
+
+📺 CGTN
+
+👁️ 43K • 👍 731 • 💬 76 • ⏱️ 5:04 • 5d ago
 
 ---
 

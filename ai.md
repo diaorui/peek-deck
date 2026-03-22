@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-22T11:25:44.202976+00:00'
+updated: '2026-03-22T11:47:19.310230+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- news
 - repositories
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 22, 2026 at 11:25 UTC  
+**Last Updated:** March 22, 2026 at 11:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Growth without people.
 
 I keep seeing more and more companies say that they're going to reduce hallucination and drift and mistakes made by Al by adding supervisor or manager Al on top of them that will review everything that those Al agents are doing. that seems to be the way. another thing I'm seeing is adding multiple Al judges to evaluate the output and those companies are running around touting their low percentage false positives or mistakes adding additional Al agents on top of Al agents reduce mistakes is like wrapping yourself in a wet blanket and then adding more with blankets to keep you warm when you're freezing. you will freeze, it will just take longer, and it's going to use a lot of blankets. I don't understand. the blind warship of pure Al solutions. we have software that can achieve determinism. we know this. hybrid solutions between Al and software is the only way forward
 
-8h ago
+9h ago
 
 ---
 
@@ -123,7 +123,7 @@ Chemists may soon have one less rigorous step to worry about when searching for 
 
 Dozens of Instagram and TikTok accounts have used AI avatars to promote explicit content, the BBC finds.
 
-BBC • 10h ago
+BBC • 11h ago
 
 ---
 
@@ -247,7 +247,7 @@ Qwen3.5-9B scores 93.8% on 96 real security AI tests — within 4 points of GPT-
 
 **[Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning](https://news.ycombinator.com/item?id=47467913)**
 
-⬆️ 153 • 💬 83 • 19h ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
+⬆️ 153 • 💬 83 • 20h ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
 
 ---
 
@@ -292,7 +292,7 @@ I spoke to Anthropic's AI agent Claude about AI collecting massive amounts of pe
 
 📺 Senator Bernie Sanders
 
-👁️ 2.3M • 👍 133K • 💬 15K • ⏱️ 9:18 • 2d ago
+👁️ 2.3M • 👍 134K • 💬 15K • ⏱️ 9:18 • 2d ago
 
 ---
 
@@ -302,7 +302,7 @@ UPDATE! We just put together 2 mega guides for you. Guide #1 shows you exactly h
 
 📺 Chris Koerner on The Koerner Office Podcast
 
-👁️ 128K • 👍 5K • 💬 579 • ⏱️ 30:54 • 1d ago
+👁️ 136K • 👍 5K • 💬 590 • ⏱️ 30:54 • 1d ago
 
 ---
 
@@ -312,7 +312,7 @@ The AI boom has rocketed the stock prices of Nvidia, Amazon, Apple, Tesla, Micro
 
 📺 New Money
 
-👁️ 52K • 👍 2K • 💬 200 • ⏱️ 15:50 • 22h ago
+👁️ 57K • 👍 2K • 💬 223 • ⏱️ 15:50 • 23h ago
 
 ---
 
@@ -322,27 +322,7 @@ Google just dropped a major update to AI Studio, built around its new Antigravit
 
 📺 AI Revolution
 
-👁️ 49K • 👍 1K • 💬 67 • ⏱️ 10:14 • 1d ago
-
----
-
-**[🐙 Building AI Apps In 2026](https://www.youtube.com/watch?v=l__xK3lI-8U)**
-
-Want to get resources from this livestream? Sign up here so I can email them to you: https://www.lonelyoctopus.com/workshop ...
-
-📺 Tina Huang
-
-👁️ 13K • 👍 803 • 💬 44 • ⏱️ 1:26:45 • 20h ago
-
----
-
-**[White House roles out new AI BLUEPRINT](https://www.youtube.com/watch?v=5WTnJFd6ZwY)**
-
-The Trump administration on Friday issued a legislative framework for a single national policy on artificial intelligence. The goal ...
-
-📺 The National Desk
-
-👁️ 3K • 👍 24 • 💬 7 • ⏱️ 3:50 • 1d ago
+👁️ 50K • 👍 1K • 💬 68 • ⏱️ 10:14 • 1d ago
 
 ---
 
@@ -352,7 +332,17 @@ Take your personal data back with Incogni! Use code FADS at the link below and g
 
 📺 Fads
 
-👁️ 26K • 👍 2K • 💬 236 • ⏱️ 12:05 • 1d ago
+👁️ 28K • 👍 2K • 💬 252 • ⏱️ 12:05 • 1d ago
+
+---
+
+**[White House roles out new AI BLUEPRINT](https://www.youtube.com/watch?v=5WTnJFd6ZwY)**
+
+The Trump administration on Friday issued a legislative framework for a single national policy on artificial intelligence. The goal ...
+
+📺 The National Desk
+
+👁️ 3K • 👍 23 • 💬 7 • ⏱️ 3:50 • 1d ago
 
 ---
 
@@ -362,7 +352,17 @@ Since ChatGPT's debut, AI has been framed as everything from a world-changing br
 
 📺 Bloomberg Television
 
-👁️ 40K • 👍 1K • 💬 204 • ⏱️ 12:20 • 21h ago
+👁️ 49K • 👍 1K • 💬 280 • ⏱️ 12:20 • 21h ago
+
+---
+
+**[🐙 Building AI Apps In 2026](https://www.youtube.com/watch?v=l__xK3lI-8U)**
+
+Want to get resources from this livestream? Sign up here so I can email them to you: https://www.lonelyoctopus.com/workshop ...
+
+📺 Tina Huang
+
+👁️ 13K • 👍 807 • 💬 44 • ⏱️ 1:26:45 • 20h ago
 
 ---
 
@@ -372,17 +372,17 @@ Here's the AI News you probably missed this week. Head to http://hostinger.com/m
 
 📺 Matt Wolfe
 
-👁️ 54K • 👍 2K • 💬 191 • ⏱️ 35:30 • 1d ago
+👁️ 55K • 👍 2K • 💬 193 • ⏱️ 35:30 • 1d ago
 
 ---
 
-**[How AI is Causing a White Collar Purge](https://www.youtube.com/watch?v=Zcpj-U5lcAc)**
+**[Grok AI Stopped FREE Videos Generation | Here&#39;s What to do](https://www.youtube.com/watch?v=QlzLbWp92YE)**
 
-A generation was told that degrees meant security. Now those same jobs are disappearing, fast. From finance and law to tech and ...
+Join my private community: https://www.skool.com/automation-bootcamp-cashcoach Grok just stopped its free video and image ...
 
-📺 The Infographics Show
+📺 Jacksons AI
 
-👁️ 169K • 👍 4K • 💬 1K • ⏱️ 13:28 • 1d ago
+👁️ 42K • 👍 2K • 💬 241 • ⏱️ 4:08 • 1d ago
 
 ---
 
@@ -398,7 +398,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 275,623 • ❤️ 755 • 11d ago
+⬇️ 275,623 • ❤️ 766 • 11d ago
 
 ---
 
@@ -410,7 +410,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 141,370 • ❤️ 1,007 • 1d ago
+⬇️ 141,370 • ❤️ 1,011 • 1d ago
 
 ---
 
@@ -456,7 +456,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 Foundation-1 is a structured text-to-sample model for music production, enabling precise control over instrumentation, timbre, FX, and musical structure (tempo, key, bar count) for generating coherent, production-ready audio loops.
 
-⬇️ 0 • ❤️ 219 • 5d ago
+⬇️ 0 • ❤️ 220 • 5d ago
 
 ---
 
@@ -468,7 +468,19 @@ GLM-OCR is a multimodal OCR model for complex document understanding, excelling 
 
 `image-to-text`
 
-⬇️ 3,196,245 • ❤️ 1,410 • 10d ago
+⬇️ 3,196,245 • ❤️ 1,411 • 10d ago
+
+---
+
+**[Nemotron-Cascade-2-30B-A3B](https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B)**
+
+*NVIDIA*
+
+Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling in reasoning and agentic tasks, achieving top performance on math (IMO 2025) and code reasoning (IOI 2025) benchmarks. It supports both 'thinking' and 'instruct' modes for versatile text generation.
+
+`text-generation` `31.6B`
+
+⬇️ 3,311 • ❤️ 172 • 11h ago
 
 ---
 
@@ -480,7 +492,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 350,452 • ❤️ 597 • 18d ago
+⬇️ 350,452 • ❤️ 599 • 18d ago
 
 ---
 
@@ -493,18 +505,6 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 `text-generation`
 
 ⬇️ 18,392 • ❤️ 348 • 9d ago
-
----
-
-**[Nemotron-Cascade-2-30B-A3B](https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B)**
-
-*NVIDIA*
-
-Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling in reasoning and agentic tasks, achieving top performance on math (IMO 2025) and code reasoning (IOI 2025) benchmarks. It supports both 'thinking' and 'instruct' modes for versatile text generation.
-
-`text-generation` `31.6B`
-
-⬇️ 3,311 • ❤️ 165 • 11h ago
 
 ---
 
@@ -545,7 +545,7 @@ AutoDev is an AI-driven software development framework that automates complex en
 Residual connections with PreNorm are standard in modern LLMs, yet they accumulate all layer outputs with fixed unit weights. This uniform aggregation causes uncontrolled hidden-state growth with depth, progressively diluting each layer's contribution. We propose Attention Residuals (AttnRes), which replaces this fixed accumulation with softmax attention over preceding layer outputs, allowing each layer to selectively aggregate earlier representations with learned, input-dependent weights. To address the memory and communication overhead of attending over all preceding layer outputs for large-scale model training, we introduce Block AttnRes, which partitions layers into blocks and attends over block-level representations, reducing the memory footprint while preserving most of the gains of full AttnRes. Combined with cache-based pipeline communication and a two-phase computation strategy, Block AttnRes becomes a practical drop-in replacement for standard residual connections with minimal overhead.
   Scaling law experiments confirm that the improvement is consistent across model sizes, and ablations validate the benefit of content-dependent depth-wise selection. We further integrate AttnRes into the Kimi Linear architecture (48B total / 3B activated parameters) and pre-train on 1.4T tokens, where AttnRes mitigates PreNorm dilution, yielding more uniform output magnitudes and gradient distribution across depth, and improves downstream performance across all evaluated tasks.
 
-▲ 134 • 💬 4 • ⭐ 2,419 • 6d ago
+▲ 135 • 💬 4 • ⭐ 2,464 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.15031) • [💻 code](https://github.com/MoonshotAI/Attention-Residuals)
 
@@ -557,7 +557,7 @@ Residual connections with PreNorm are standard in modern LLMs, yet they accumula
 
 Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
 
-▲ 16 • 💬 0 • ⭐ 36,226 • 13mo ago
+▲ 16 • 💬 0 • ⭐ 36,284 • 13mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet)
 
@@ -571,7 +571,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabilities, multi-turn generation, and instruction-following control through natural-language descriptions, utilizing a multi-stage training approach and production-ready inference engine.
 
-▲ 34 • 💬 2 • ⭐ 28,608 • 12d ago
+▲ 34 • 💬 2 • ⭐ 28,624 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.08823) • [💻 code](https://github.com/fishaudio/fish-speech) • [🔗 project](https://fish.audio/)
 
@@ -653,7 +653,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 48.9k • 🔱 6.8k • 1d ago
+⭐ 49.1k • 🔱 6.8k • 1d ago
 
 ---
 
@@ -683,7 +683,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 11.9k • 🔱 1.2k • 4d ago
+⭐ 12.0k • 🔱 1.2k • 4d ago
 
 ---
 
@@ -693,7 +693,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.3k • 🔱 742 • 1d ago
+⭐ 10.3k • 🔱 743 • 1d ago
 
 ---
 
@@ -703,7 +703,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 9.8k • 🔱 498 • 4h ago
+⭐ 9.9k • 🔱 504 • 52m ago
 
 ---
 
@@ -713,7 +713,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 6.1k • 🔱 925 • 13h ago
+⭐ 6.1k • 🔱 928 • 13h ago
 
 ---
 
@@ -723,7 +723,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 3.9k • 🔱 335 • 2h ago
+⭐ 4.0k • 🔱 340 • 24m ago
 
 ---
 
@@ -733,7 +733,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `Python` `ai-agents` `claude` `claude-code` `cloud-security` `cybersecurity`
 
-⭐ 3.6k • 🔱 355 • 22h ago
+⭐ 3.6k • 🔱 357 • 22h ago
 
 ---
 

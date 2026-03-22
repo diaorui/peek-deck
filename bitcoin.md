@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-22T11:25:44.211268+00:00'
+updated: '2026-03-22T11:47:19.318702+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 11:25 UTC  
+**Last Updated:** March 22, 2026 at 11:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1373.18B
+**Market Cap:** $1367.58B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--45.5%
+-45.8%
 
 **All-Time Low:** $67.81
-+101166.8%
++100745.0%
 
 ---
 
@@ -139,7 +139,7 @@ Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perreno
 
 **[The Code of Liberty: Why Bitcoin is the Only True Constitutional Money.](https://www.reddit.com/r/Bitcoin/comments/1s0hhko/the_code_of_liberty_why_bitcoin_is_the_only_true/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-code-of-liberty-why-bitcoin-is) • 1h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-code-of-liberty-why-bitcoin-is) • 2h ago
 
 ---
 
@@ -159,7 +159,7 @@ hi, just checking in to say hi I am generally a conservative broad index ETF inv
 
 The average production cost was sitting at $88,000 per bitcoin in mid-March, according to Checkonchain's difficulty regression model.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -173,7 +173,7 @@ Forbes • 23h ago
 
 One of these assets is catalyst-driven; the other isn't.
 
-The Motley Fool • 54m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Motley Fool • 54m ago
 
 @1033532633213 Views
 
-Moomoo • 1h ago
+Moomoo • 2h ago
 
 ---
 
@@ -197,7 +197,7 @@ Moomoo • 3h ago
 
 “We’re not the securities and everything commission anymore,” SEC Chair Paul Atkins told a crypto conference on Tuesday, minutes after his agency and the CFTC jointly classified Bitcoin and 15 other tokens as digital commodities, not securities. The crowd cheered....
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -221,7 +221,7 @@ Bitcoin Magazine • 1d ago
 
 Two Bitcoin OGs sold $117M in BTC after the Fed decision. But Bitcoin whale wallets are buying the dip as exchange reserves hit a 7-year low.
 
-24/7 Wall St. • 18h ago
+24/7 Wall St. • 19h ago
 
 ---
 
@@ -249,7 +249,7 @@ Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in
 
 Difficulty is now nearly 10% below where it started the year, despite a sharp 14.7% rebound in February after weather-related disruptions subsided.
 
-⬆️ 5 • 💬 1 • 5h ago • [The Block](https://www.theblock.co/post/394579/bitcoin-mining-difficulty-drops-7-8-as-miner-exodus-accelerates-amid-ai-pivot)
+⬆️ 5 • 💬 1 • 6h ago • [The Block](https://www.theblock.co/post/394579/bitcoin-mining-difficulty-drops-7-8-as-miner-exodus-accelerates-amid-ai-pivot)
 
 ---
 
@@ -301,7 +301,7 @@ Bitcoin just scored a massive regulatory win that changes everything for develop
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 79 • ⏱️ 21:11 • 12h ago
+👁️ 22K • 👍 1K • 💬 92 • ⏱️ 21:11 • 12h ago
 
 ---
 
@@ -311,7 +311,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 43K • 👍 2K • 💬 129 • ⏱️ 59:39 • 22h ago
+👁️ 45K • 👍 2K • 💬 129 • ⏱️ 59:39 • 22h ago
 
 ---
 
@@ -321,7 +321,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 8K • 👍 405 • 💬 196 • ⏱️ 8:34 • 1d ago
+👁️ 8K • 👍 406 • 💬 151 • ⏱️ 8:34 • 1d ago
 
 ---
 
@@ -331,7 +331,7 @@ Bitcoin just went live at millions of businesses without anyone opting in. While
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 147 • ⏱️ 12:51 • 1d ago
+👁️ 21K • 👍 1K • 💬 135 • ⏱️ 12:51 • 1d ago
 
 ---
 
@@ -341,7 +341,7 @@ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 
 
 📺 Altcoin Daily
 
-👁️ 18K • 👍 1K • 💬 151 • ⏱️ 8:36 • 13h ago
+👁️ 20K • 👍 1K • 💬 161 • ⏱️ 8:36 • 14h ago
 
 ---
 
@@ -351,7 +351,7 @@ A classic case of the bear market blues for Bitcoin. Into The Cryptoverse Premiu
 
 📺 Benjamin Cowen
 
-👁️ 65K • 👍 4K • 💬 204 • ⏱️ 11:38 • 2d ago
+👁️ 65K • 👍 4K • 💬 205 • ⏱️ 11:38 • 2d ago
 
 ---
 
@@ -361,7 +361,7 @@ Bitcoin Vegas 2026: https://fxo.co/JAmn Welcome to the Crypto Lifer Channel! JOI
 
 📺 Crypto Lifer
 
-👁️ 5K • 👍 327 • 💬 36 • ⏱️ 1:10:20 • 9h ago
+👁️ 5K • 👍 329 • 💬 51 • ⏱️ 1:10:20 • 10h ago
 
 ---
 
@@ -369,17 +369,7 @@ Bitcoin Vegas 2026: https://fxo.co/JAmn Welcome to the Crypto Lifer Channel! JOI
 
 📺 CryptoWendyO
 
-👁️ 9K • 👍 514 • 💬 8 • ⏱️ 2:00 • 1d ago
-
----
-
-**[I bought Bitcoin Cards at Target? #bitcoin](https://www.youtube.com/watch?v=R3_ip5GwMF8)**
-
-Coin Deals HERE https://solo.to/couchcollectibles FREE $15 Credit: https://www.whatnot.com/invite/couchcollectibles ...
-
-📺 Couch Collectibles
-
-👁️ 914 • 👍 35 • 💬 1 • ⏱️ 2:52 • 9h ago
+👁️ 9K • 👍 522 • 💬 8 • ⏱️ 2:00 • 1d ago
 
 ---
 
@@ -389,7 +379,17 @@ Coin Deals HERE https://solo.to/couchcollectibles FREE $15 Credit: https://www.w
 
 📺 Altcoin Daily
 
-👁️ 10K • 👍 310 • 💬 57 • ⏱️ 1:06 • 1d ago
+👁️ 10K • 👍 315 • 💬 54 • ⏱️ 1:06 • 1d ago
+
+---
+
+**[I bought Bitcoin Cards at Target? #bitcoin](https://www.youtube.com/watch?v=R3_ip5GwMF8)**
+
+Coin Deals HERE https://solo.to/couchcollectibles FREE $15 Credit: https://www.whatnot.com/invite/couchcollectibles ...
+
+📺 Couch Collectibles
+
+👁️ 955 • 👍 36 • 💬 1 • ⏱️ 2:52 • 9h ago
 
 ---
 

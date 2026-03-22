@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-22T11:25:44.217113+00:00'
+updated: '2026-03-22T11:47:19.324660+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 11:25 UTC  
+**Last Updated:** March 22, 2026 at 11:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $251.26B
+**Market Cap:** $250.15B
 Rank #2
 
 **Circulating Supply:** 120,691,743 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.9%
+-58.1%
 
 **All-Time Low:** $0.43
-+480930.3%
++479061.8%
 
 ---
 
@@ -210,7 +210,7 @@ AMBCrypto • 8h ago
 
 QBridge connects Qubic to Ethereum with a non-custodial, audited cross-chain bridge. Lock QUBIC, mint wQUBIC as an ERC-20 token, and access Ethereum DeFi. IPO live in Epoch 205.
 
-Qubic • 22h ago
+Qubic • 23h ago
 
 ---
 
@@ -234,13 +234,43 @@ The Block • 2d ago
 
 ## YouTube Videos: "ethereum"
 
+**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=GKa-e5iSFRI)**
+
+ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
+
+📺 Chad Colby
+
+👁️ 4K • 👍 1K • 1h ago
+
+---
+
 **[Vitalik vs BlackRock: Who Wins?](https://www.youtube.com/watch?v=l77QrTEIgpo)**
 
 BlackRock just launched a staking Ethereum ETF—but is it really a win for investors? This video breaks down ETHB, hidden fees, ...
 
 📺 Coin Bureau
 
-👁️ 14K • 👍 674 • 💬 79 • ⏱️ 18:11 • 21h ago
+👁️ 15K • 👍 712 • 💬 89 • ⏱️ 18:11 • 21h ago
+
+---
+
+**[ETHEREUM DUMP WARNING!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=33AaudyEK0Q)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 92 • 👍 12 • 💬 1 • ⏱️ 4:47 • 1h ago
+
+---
+
+**[BITCOIN &amp; ETH HUGE DROP, JUST AS I REDUCED AND LOWERED MY TRADES](https://www.youtube.com/watch?v=Uyoug29e0J4)**
+
+In today's video I break down Bitcoin, Ethereum, stocks, oil, gold, and silver, including the key levels, setups, and risk management ...
+
+📺 James Crypto Guru
+
+👁️ 2K • 👍 115 • 💬 10 • ⏱️ 12:28 • 11h ago
 
 ---
 
@@ -250,17 +280,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 480 • 💬 43 • ⏱️ 19:43 • 1d ago
-
----
-
-**[BITCOIN PRICE HISTORY REPEATING (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=SNd96DMH8Wc)**
-
-BITCOIN PRICE HISTORY REPEATING (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 265 • 💬 126 • ⏱️ 13:52 • 12h ago
+👁️ 12K • 👍 484 • 💬 47 • ⏱️ 19:43 • 1d ago
 
 ---
 
@@ -270,17 +290,27 @@ Ethereum is showing strong bullish signals, with analysts predicting a major reb
 
 📺 Crypto Sensei
 
-👁️ 6K • 👍 466 • 💬 56 • ⏱️ 12:42 • 1d ago
+👁️ 6K • 👍 467 • 💬 56 • ⏱️ 12:42 • 1d ago
 
 ---
 
-**[🚨 BTC &amp; ETH: HOW I MAKE MONEY WITH TRADING BOTS!!! METHOD REVEALED!!!! (+Full Tutorial)](https://www.youtube.com/watch?v=Iutgz89XTR8)**
+**[BITCOIN PRICE HISTORY REPEATING (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=SNd96DMH8Wc)**
 
-In this video, I reveal how I make money using trading bots, their settings, strategies, and more. BYUSDT, earn while trading: ...
+BITCOIN PRICE HISTORY REPEATING (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Thomas Kralow
+📺 Crypto World
 
-👁️ 5K • 👍 2K • 💬 12 • ⏱️ 13:55 • 3d ago
+👁️ 7K • 👍 278 • 💬 128 • ⏱️ 13:52 • 12h ago
+
+---
+
+**[CRYPTO LIVE TRADING || 22 Mar  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=ut_1CXUKnI8)**
+
+join my social platforms for updates and analysis ✓Instagram: ...
+
+📺 Aryan trader Live
+
+👁️ 2K • 👍 2K • 1h ago
 
 ---
 
@@ -288,7 +318,7 @@ In this video, I reveal how I make money using trading bots, their settings, str
 
 📺 EllioTrades
 
-👁️ 12K • 👍 251 • 💬 36 • ⏱️ 1:07 • 2d ago
+👁️ 12K • 👍 254 • 💬 36 • ⏱️ 1:07 • 2d ago
 
 ---
 
@@ -298,37 +328,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Buy
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 3K • 💬 268 • ⏱️ 9:50 • 1d ago
-
----
-
-**[Canton Chain Better Than XRP, Solana, &amp; Ethereum?🔥Yuval Rooz INTERVIEW](https://www.youtube.com/watch?v=e2058fi-vYw)**
-
-Canton is the first privacy-enabled open blockchain network, ensuring limitless connections that preserve privacy. Is it worthy of ...
-
-📺 Paul Barron Network
-
-👁️ 36K • 👍 2K • 💬 1K • ⏱️ 30:27 • 2d ago
-
----
-
-**[XRP a Non-Security. (Now Ethereum Moving In) 🚨🚨](https://www.youtube.com/watch?v=5PVrb5zcFeY)**
-
-XRP just received regulatory clarity that institutions have been waiting years for. U.S. regulators are now signaling XRP's ...
-
-📺 Jungle Inc Crypto
-
-👁️ 8K • 👍 695 • 💬 119 • ⏱️ 11:36 • 2d ago
-
----
-
-**[WATCH THESE CRUCIAL LEVELS🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=DQbG7liFwyI)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 271 • 👍 8 • 💬 2 • ⏱️ 4:56 • 2d ago
+👁️ 51K • 👍 3K • 💬 240 • ⏱️ 9:50 • 1d ago
 
 ---
 
