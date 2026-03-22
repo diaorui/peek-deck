@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-22T12:54:47.196197+00:00'
+updated: '2026-03-22T13:45:10.017077+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 12:54 UTC  
+**Last Updated:** March 22, 2026 at 13:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -172,7 +172,7 @@ Polymarket • 2mo ago
 
 Ethereum’s native token, Ether BITSTAMP:ETHUSD, may rise by around 25% in the coming months as its richest whale group becomes profitable for the first time since early February.Key takeaways:Whale metric signals ETH is bottoming alreadyThe unrealized profit ratio of wallets holding more than 100,0…
 
-TradingView • 20h ago
+TradingView • 21h ago
 
 ---
 
@@ -248,7 +248,7 @@ BlackRock just launched a staking Ethereum ETF—but is it really a win for inve
 
 📺 Coin Bureau
 
-👁️ 15K • 👍 712 • 💬 89 • ⏱️ 18:11 • 22h ago
+👁️ 15K • 👍 712 • 💬 89 • ⏱️ 18:11 • 23h ago
 
 ---
 
@@ -258,7 +258,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 92 • 👍 12 • 💬 1 • ⏱️ 4:47 • 2h ago
+👁️ 92 • 👍 12 • 💬 1 • ⏱️ 4:47 • 3h ago
 
 ---
 
@@ -268,7 +268,7 @@ In today's video I break down Bitcoin, Ethereum, stocks, oil, gold, and silver, 
 
 📺 James Crypto Guru
 
-👁️ 2K • 👍 115 • 💬 10 • ⏱️ 12:28 • 12h ago
+👁️ 2K • 👍 115 • 💬 10 • ⏱️ 12:28 • 13h ago
 
 ---
 
@@ -288,7 +288,7 @@ Ethereum is showing strong bullish signals, with analysts predicting a major reb
 
 📺 Crypto Sensei
 
-👁️ 6K • 👍 467 • 💬 56 • ⏱️ 12:42 • 1d ago
+👁️ 6K • 👍 467 • 💬 56 • ⏱️ 12:42 • 2d ago
 
 ---
 
@@ -308,7 +308,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 2K • 👍 2K • 2h ago
+👁️ 2K • 👍 2K • 3h ago
 
 ---
 
