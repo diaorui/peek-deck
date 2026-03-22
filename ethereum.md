@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-22T17:51:45.690160+00:00'
+updated: '2026-03-22T18:39:15.007839+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
 - cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 17:51 UTC  
+**Last Updated:** March 22, 2026 at 18:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,43 +42,43 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.1%  
-**7d:** -11.4%  
-**30d:** +5.6%  
-**90d:** -29.7%  
-**1y:** +3.9%  
+**24h:** -4.1%  
+**7d:** -12.2%  
+**30d:** +4.6%  
+**90d:** -30.4%  
+**1y:** +3.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $250.93B
+**Market Cap:** $250.32B
 Rank #2
 
 **Circulating Supply:** 120,691,743 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.0%
+-58.3%
 
 **All-Time Low:** $0.43
-+480041.1%
++476491.2%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Ethereum Cuts Bridge Times by 98%](https://www.reddit.com/r/ethereum/comments/1s0mzw8/ethereum_cuts_bridge_times_by_98/)**
+
+🔗 [financefeeds.com](https://financefeeds.com/crypto-news-ethereum-cuts-bridge-times-by-98-while-pepeto-hands-early-believers-100x-presale-gains/) • 4h ago
+
+---
+
 **[Daily General Discussion March 22, 2026](https://www.reddit.com/r/ethereum/comments/1s0cxb3/daily_general_discussion_march_22_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
-
----
-
-**[Ethereum Cuts Bridge Times by 98%](https://www.reddit.com/r/ethereum/comments/1s0mzw8/ethereum_cuts_bridge_times_by_98/)**
-
-🔗 [financefeeds.com](https://financefeeds.com/crypto-news-ethereum-cuts-bridge-times-by-98-while-pepeto-hands-early-believers-100x-presale-gains/) • 3h ago
+13h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi there, I made a niche thing, probably useful for a small group of node runners who wanted something like this. It’s basically a lightweight, IPFS-hosted Ethereum explorer — like Etherscan, but it queries your own node directly via JSON-RPC. It’s just a static HTML page, so you open it, enter your RPC, and use it. No backend, no setup — just a page. Access nodex.monkale.eth nodex.monkale.eth.limo Repo github.com/monkale-io/ethereum-node-explorer I built it after I started running my own node and wanted a simple web UI to explore it. I found an old explorer (Alethio ethereum-lite-explorer) — it still works and is actually quite good, but it was abandoned ~6 years ago — so I decided to rewrite it with a modern stack and put it on IPFS, so it can stay just a static page without any backend or services to run. Planning to maintain and evolve it. Feedback and contributions are welcome.
 
-1h ago
+2h ago
 
 ---
 
@@ -94,7 +94,7 @@ Hi there, I made a niche thing, probably useful for a small group of node runner
 
 https://tradepal.co/blog/eth-ai-trading-analysis-ethereum-is
 
-1h ago
+2h ago
 
 ---
 
@@ -102,7 +102,7 @@ https://tradepal.co/blog/eth-ai-trading-analysis-ethereum-is
 
 Hi everyone, I'd really appreciate some feedback on something we're building on Ethereum. This is pretty much my first time doing this, but my co-founder is way more experienced, he's been a Web3 engineer for a long time. You probably know there are already some projects putting public stocks on-chain as RWAs. What we're trying to do is a bit different: bring the actual chain of custody on-chain for those shares. The issue with normal shares is they're totally fungible so you have zero clue who owned it before you. We want to track that history to unlock some "cultural premium" value as an RWA. Kind of like NFTs but for real shares. For example imagine proving your TSLA share was once held by Elon Musk. That kind of story probably makes it worth more to some people. To make it work we take verified shares (held in proper custody) and wrap them as provenance-wrapped shares on Ethereum smart contracts, using something like ERC-1155 for semi-fungible units, and record the full ownership chain in metadata or on-chain events. We're still in the middle of building, no live contracts or actual trading yet. Just trying to get real opinions early and figure if we're onto something or is this just dumb as hell. It would mean a lot to hear what Ethereum people think: Does provenance tracking for equities as RWAs actually sound useful/valuable, or is it kind of a gimmick? You can check out the demo to see how we're thinking about it in practice: https://provenantx.com https://preview.redd.it/fru8qps46iqg1.png?width=624&format=png&auto=webp&s=d93019bd8ad4a09695879f36d7c32f6f80436582 Thanks a ton for any thoughts!
 
-15h ago
+16h ago
 
 ---
 
@@ -166,19 +166,19 @@ Polymarket • 2mo ago
 
 ---
 
-**[Ethereum Entered 'Generational Buy Zone,' Says Analyst: 'Precursor To Massive Structural Bull Rallies'](https://finance.yahoo.com/markets/crypto/articles/ethereum-entered-generational-buy-zone-150120991.html)**
-
-Cryptocurrency analyst Ali Martinez said on Thursday that Ethereum has entered a generational “Buy Zone,” hinting at major bull runs on the horizon. What History Says In an X post, Martinez pointed out that Ethereum’s Market Value to Realized Value...
-
-Yahoo Finance • 2h ago
-
----
-
 **[Ethereum news (ETH): Tensions rise across Ethereum as scaling, security and AI Priorities intensify](https://www.coindesk.com/tech/2026/03/22/ethereum-faces-make-or-break-moment-in-high-stakes-balancing-act-as-scaling-quantum-and-ai-pressures-mount)**
 
 While upgrades have improved efficiency and lowered costs, the ecosystem faces deeper structural questions around fragmentation, security, and purpose, even as it continues prioritizing base-layer scaling.
 
-CoinDesk • 44m ago
+CoinDesk • 1h ago
+
+---
+
+**[Ethereum Entered 'Generational Buy Zone,' Says Analyst: 'Precursor To Massive Structural Bull Rallies'](https://finance.yahoo.com/markets/crypto/articles/ethereum-entered-generational-buy-zone-150120991.html)**
+
+Cryptocurrency analyst Ali Martinez said on Thursday that Ethereum has entered a generational “Buy Zone,” hinting at major bull runs on the horizon. What History Says In an X post, Martinez pointed out that Ethereum’s Market Value to Realized Value...
+
+Yahoo Finance • 3h ago
 
 ---
 
@@ -198,9 +198,15 @@ Qubic • 1d ago
 
 ---
 
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqcbdFWz0uluYk9e20c8NNkmOFeLUw2fKfk3x9tE_4T7vuWe-1G59hIu&gaa_ts=69c02967&gaa_sig=XnK3nT4cDu8AIGqfIU9Yaqc9foaQYY_LCRld1Uj9G4hkXNAyrwBgUTn7DQxge3jA-iRJNQJUCDPt3nBLuXF8oA%3D%3D)**
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqcAHiSGuI157_UaoM5_PZw-_YSkr0q6xWqdLdTM2UjmmEch6_5udeiO&gaa_ts=69c03abf&gaa_sig=7l6FDdkYuMCHGX_wumtXiEu6jY1vNBItcmAwB2S_BtTSA2io6-UBjOKdJj4a-VF7YUHTHKyJUCMIpCQgYQXqsg%3D%3D)**
 
 MarketWatch • 2d ago
+
+---
+
+**[Ethereum ETF Sees Investors Head for the Exits as Price Slump Bites](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-sees-investors-head-for-the-exits-as-price-slump-bites)**
+
+TipRanks • 5h ago
 
 ---
 
@@ -209,12 +215,6 @@ MarketWatch • 2d ago
 “Ethereum, to me, is really gonna be where Wall Street meets crypto,” a source told NYNext.
 
 New York Post • 2d ago
-
----
-
-**[Ethereum ETF Sees Investors Head for the Exits as Price Slump Bites](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-sees-investors-head-for-the-exits-as-price-slump-bites)**
-
-TipRanks • 4h ago
 
 ---
 
@@ -236,7 +236,7 @@ BlackRock just launched a staking Ethereum ETF—but is it really a win for inve
 
 📺 Coin Bureau
 
-👁️ 17K • 👍 756 • 💬 92 • ⏱️ 18:11 • 1d ago
+👁️ 17K • 👍 774 • 💬 92 • ⏱️ 18:11 • 1d ago
 
 ---
 
@@ -246,17 +246,17 @@ CRYPTO MARKET UPDATE! Crypto Crash Next Week? Join the Premium Signal Group for 
 
 📺 Cilinix Crypto
 
-👁️ 507 • 👍 53 • 💬 150 • ⏱️ 6:47 • 4h ago
+👁️ 814 • 👍 68 • 💬 130 • ⏱️ 6:47 • 5h ago
 
 ---
 
-**[ETHEREUM DUMP WARNING!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=33AaudyEK0Q)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=99org2xyUKk)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Cilinix Crypto
+📺 More Crypto Online
 
-👁️ 211 • 👍 12 • 💬 1 • ⏱️ 4:47 • 7h ago
+👁️ 1K • 👍 115 • 💬 32 • ⏱️ 4:00 • 4h ago
 
 ---
 
@@ -266,7 +266,7 @@ Ethereum is showing strong bullish signals, with analysts predicting a major reb
 
 📺 Crypto Sensei
 
-👁️ 7K • 👍 472 • 💬 56 • ⏱️ 12:42 • 2d ago
+👁️ 7K • 👍 473 • 💬 56 • ⏱️ 12:42 • 2d ago
 
 ---
 
@@ -276,7 +276,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 488 • 💬 47 • ⏱️ 19:43 • 2d ago
+👁️ 12K • 👍 490 • 💬 47 • ⏱️ 19:43 • 2d ago
 
 ---
 
@@ -286,17 +286,17 @@ cryptomonnaies #cryptofrance #Bitcoin #Crypto #dollar #crypto #macroéconomie #s
 
 📺 Cryptolyze | Crypto - Finance - Économie
 
-👁️ 2K • 👍 304 • 💬 38 • ⏱️ 35:47 • 6h ago
+👁️ 3K • 👍 372 • 💬 42 • ⏱️ 35:47 • 7h ago
 
 ---
 
-**[CRYPTO LIVE TRADING || 22 Mar  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=AwuhYEdMpUg)**
+**[$TAUX - TAUROX TOKEN PRESALE CRYPTO COIN HOW TO BUY TAUX ETHEREUM BLOCKCHAIN ETH CHAIN ICO NEW 2026](https://www.youtube.com/watch?v=o0znfbnacjk)**
 
-join my social platforms for updates and analysis ✓Instagram: ...
+REFERRAL CODES MEXC REFERRAL CODE... https://www.mexc.com/register?inviteCode=mexc-1FHY2 WEEX REFERRAL ...
 
-📺 Aryan trader Live
+📺 CRYPTO VIDEOZ
 
-👁️ 5K • 👍 4K • 2h ago
+👁️ 16 • 💬 16 • ⏱️ 8:29 • 2h ago
 
 ---
 
@@ -306,27 +306,27 @@ BITCOIN PRICE HISTORY REPEATING (Get Ready)!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 9K • 👍 303 • 💬 133 • ⏱️ 13:52 • 18h ago
+👁️ 9K • 👍 312 • 💬 138 • ⏱️ 13:52 • 19h ago
 
 ---
 
-**[BITCOIN &amp; ETH HUGE DROP, JUST AS I REDUCED AND LOWERED MY TRADES](https://www.youtube.com/watch?v=Uyoug29e0J4)**
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=aW3-eDMMfvs)**
 
-In today's video I break down Bitcoin, Ethereum, stocks, oil, gold, and silver, including the key levels, setups, and risk management ...
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
 
-📺 James Crypto Guru
+📺 AudioWake
 
-👁️ 2K • 👍 127 • 💬 10 • ⏱️ 12:28 • 17h ago
+👁️ 2K • 8h ago
 
 ---
 
-**[JUST IN: CNBC Accidentally Reveals Massive Crypto News | Clarity Act](https://www.youtube.com/watch?v=47Rl-dnSMz4)**
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=aZjGbDEMQ3E)**
 
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Buy, Sell, Trade Coins ($500 Bonus + $30k ...
+TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
 
-📺 Altcoin Daily
+📺 My Channel
 
-👁️ 53K • 👍 3K • 💬 240 • ⏱️ 9:50 • 1d ago
+👁️ 3K • 👍 1K • 3h ago
 
 ---
 

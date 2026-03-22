@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-22T17:51:45.693508+00:00'
+updated: '2026-03-22T18:39:15.011045+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 22, 2026 at 17:51 UTC  
+**Last Updated:** March 22, 2026 at 18:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -31,6 +31,14 @@ Robotics research and industry news
 ---
 
 ## Reddit: r/robotics
+
+**[HEXAPOD PROGRESSSSS](https://www.reddit.com/r/robotics/comments/1s0s75e/hexapod_progresssss/)**
+
+Still cant get it to walk forward yet but rotating seems okay. Can definitely be better tho. This is still a work im progress, the hexapod frame is 3d printed from a creator at makerworld. The internals and code are mine. Mine uses a ps2 controller for this hexapod. If any of you guys are working on the same frame, i will share the schematics and code for free once im finally done with this builddd. Its been about a month since i started this hexapod and mannnn its been cracking my head ever since 😂
+
+49m ago
+
+---
 
 **[Warehouse Robotics Are Now Sorting Books in Public Libraries](https://www.reddit.com/r/robotics/comments/1s0qomy/warehouse_robotics_are_now_sorting_books_in/)**
 
@@ -56,17 +64,25 @@ From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
 ---
 
-**[Ringbot: A monocycle robot developed by the Robotics and Institute (RAI) that uses internal legs for balance and acrobatic maneuvers](https://www.reddit.com/r/robotics/comments/1rztuum/ringbot_a_monocycle_robot_developed_by_the/)**
-
-1d ago
-
----
-
 **[Followed a ROS2 tutorial, but my robot model looks completely different , not sure what I did](https://www.reddit.com/r/robotics/comments/1s0mjh3/followed_a_ros2_tutorial_but_my_robot_model_looks/)**
 
 I’m currently learning ROS2 and working with Gazebo, so I followed a tutorial where the robot looks like this (first image : red/yellow block style) but when I built mine, I ended up with something like the second image (black robot with wheels + lidar). I didn’t intentionally change much, so I’m confused how it ended up so different. What I did: - Followed a ROS2 mobile robot tutorial - Set up the model + simulation in Gazebo - Added lidar and basic movement control What I’m noticing: - My model structure looks completely different - Visual + geometry doesn’t match tutorial - Not sure if I accidentally changed URDF/Xacro or used a different base model Questions: What could cause this kind of difference? Did I accidentally switch model type (like differential vs something else)? Is this normal when building your own model vs tutorial assets? Also — I’m documenting my learning journey (ROS2 + robotics), so any guidance would help a lot. Thanks!
 
-3h ago
+4h ago
+
+---
+
+**[Robotic Fish Are This Invasive Species' 'Worst Nightmare'](https://www.reddit.com/r/robotics/comments/1s0sff2/robotic_fish_are_this_invasive_species_worst/)**
+
+The tiny swimmers wreak havoc across the globe, but the robofish shocked them enough to impair their survival and reproduction
+
+🔗 [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/scientists-terrify-invasive-mosquitofish-with-their-worst-nightmare-a-robotic-fish-180979258/) • 40m ago
+
+---
+
+**[Ringbot: A monocycle robot developed by the Robotics and Institute (RAI) that uses internal legs for balance and acrobatic maneuvers](https://www.reddit.com/r/robotics/comments/1rztuum/ringbot_a_monocycle_robot_developed_by_the/)**
+
+1d ago
 
 ---
 
@@ -74,33 +90,19 @@ I’m currently learning ROS2 and working with Gazebo, so I followed a tutorial 
 
 https://genesis-embodied-ai.github.io/ It's been about a year since they released their open repo along with an announcement video that seemed a little too good to be true. The video made a lot of publicity but there seemed to be some controversy at the time about the video containing functionality that wasn't actually available, that the devs said would be released later. Since then, I haven't seen any one actually using it. Was it all hype? It looks like the repo is still active. Has anyone used it for anything?
 
-1h ago
+2h ago
 
 ---
 
 **[Real-time IMU VR tracking (ESP32 + ICM45686) streaming to PC — early test](https://www.reddit.com/r/robotics/comments/1s0jy7p/realtime_imu_vr_tracking_esp32_icm45686_streaming/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Those of you running multiple AI models on a single edge GPU (Jetson, etc.) - how do you handle resource allocation?](https://www.reddit.com/r/robotics/comments/1s0olg0/those_of_you_running_multiple_ai_models_on_a/)**
 
-2h ago
-
----
-
-**[You eventually start to realize, no job is safe](https://www.reddit.com/r/robotics/comments/1rzftd8/you_eventually_start_to_realize_no_job_is_safe/)**
-
-1d ago
-
----
-
-**[RMW comparison on Jazzy (Fast DDS vs Cyclone DDS vs Zenoh vs Iceoryx) + handling rosbag2 CPU spikes](https://www.reddit.com/r/robotics/comments/1s022nr/rmw_comparison_on_jazzy_fast_dds_vs_cyclone_dds/)**
-
-We’re running a pretty heavy autonomous stack on a single edge computer (ROS 2 Jazzy) — multiple high-res cameras, dense LiDARs, and radars all on one machine. We’re starting to hit serious compute + latency limits, especially with intra-process communication and recording. Right now we’re evaluating: Fast DDS Cyclone DDS Zenoh Iceoryx Also, as soon as we start recording with rosbag2, CPU usage spikes hard and we get frame drops across the system. Two questions for folks who’ve pushed ROS 2 hard on a single machine: For high-bandwidth intra-host comms on Jazzy, which RMW has actually given you the best real-world performance? How are you dealing with the rosbag2 overhead? Composable recorder node? Separate process? Or bypassing ROS entirely and logging raw sensor data? For context: we previously ran Humble + CycloneDDS + MCAP and saw similar bottlenecks. Curious what setups are working well in practice.
-
-21h ago
+3h ago
 
 ---
 
@@ -180,7 +182,7 @@ GeekWire • 2d ago
 
 **[Smarter, faster, and more human: AI system helps robots outpace their human teachers](https://techxplore.com/news/2026-03-smarter-faster-human-ai-robots.html)**
 
-Tech Xplore • 2d ago
+Tech Xplore • 3d ago
 
 ---
 
@@ -188,23 +190,43 @@ Tech Xplore • 2d ago
 
 ## YouTube Videos: "robotics"
 
+**[Every Robot I Met at Nvidia GTC SPEEDRUN!](https://www.youtube.com/watch?v=mFr7XfTY5bY)**
+
+The robots at Nvidia GTC were showcasing strength, dexterity and the ability to work together on the same task. Read more about ...
+
+📺 CNET
+
+👁️ 3K • 👍 186 • 💬 6 • ⏱️ 5:50 • 6h ago
+
+---
+
+**[Engineering Disney’s Olaf Robot](https://www.youtube.com/watch?v=zi0xi_UwvBU)**
+
+How do you build a robot with a massive head, no visible legs, and motors that overheat? ❄️   Explaining the engineering ...
+
+📺 ZAUEY (Claire Zau)
+
+👁️ 407 • 👍 11 • ⏱️ 2:09 • 14m ago
+
+---
+
+**[Gecko Robotics Inks $71 Million Deal With US Navy](https://www.youtube.com/watch?v=82_585LieQY)**
+
+Gecko Robotics announced a $71 million partnership with the US Navy, deploying its AI-powered robots to assess the condition ...
+
+📺 Bloomberg Technology
+
+👁️ 5K • 👍 142 • 💬 3 • ⏱️ 4:39 • 5d ago
+
+---
+
 **[The Future of Flooring: Automated Sand-Cement Screeding Robot #ConstructionTech #Robotics #Flooring](https://www.youtube.com/watch?v=QK7Y1-O5koE)**
 
 "Efficiency meets precision! Watch this automated floor screeding robot transform a rough sand-cement mix into a perfectly level ...
 
 📺 MachineWorks Studio
 
-👁️ 2.8M • 👍 3K • 💬 41 • ⏱️ 0:06 • 6d ago
-
----
-
-**[What It Took to Make This Robot Work](https://www.youtube.com/watch?v=qzNmMoFnRsY)**
-
-COGLET KICKSTARTER LAUNCH: ...
-
-📺 Will Cogley
-
-👁️ 15K • 👍 1K • 💬 63 • ⏱️ 10:35 • 2d ago
+👁️ 2.9M • 👍 3K • 💬 42 • ⏱️ 0:06 • 6d ago
 
 ---
 
@@ -214,7 +236,7 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 263K • 👍 3K • 💬 2K • ⏱️ 2:07 • 3d ago
+👁️ 266K • 👍 3K • 💬 2K • ⏱️ 2:07 • 3d ago
 
 ---
 
@@ -224,17 +246,37 @@ Do you want to see a humanoid AI lab from the inside? I do – join me and let's
 
 📺 Andreas Klinger @ PROTOTYPE
 
-👁️ 11K • 👍 460 • 💬 36 • ⏱️ 18:52 • 2d ago
+👁️ 11K • 👍 463 • 💬 36 • ⏱️ 18:52 • 2d ago
 
 ---
 
-**[Every Robot I Met at Nvidia GTC SPEEDRUN!](https://www.youtube.com/watch?v=mFr7XfTY5bY)**
+**[What It Took to Make This Robot Work](https://www.youtube.com/watch?v=qzNmMoFnRsY)**
 
-The robots at Nvidia GTC were showcasing strength, dexterity and the ability to work together on the same task. Read more about ...
+COGLET KICKSTARTER LAUNCH: ...
 
-📺 CNET
+📺 Will Cogley
 
-👁️ 2K • 👍 151 • 💬 6 • ⏱️ 5:50 • 5h ago
+👁️ 16K • 👍 1K • 💬 64 • ⏱️ 10:35 • 2d ago
+
+---
+
+**[Dancing robot goes rogue in hot pot restaurant](https://www.youtube.com/watch?v=DfnIEWpbMU8)**
+
+Video shows restaurant employees struggling to restrain a dancing robot that went rogue in a hot pot restaurant in California.
+
+📺 NBC News
+
+👁️ 191K • 👍 2K • 💬 635 • ⏱️ 3:38 • 3d ago
+
+---
+
+**[Midea&#39;s 6-Armed Humanoid Robot Gets to Work #humanoidrobot #robotics #futureofwork #robot](https://www.youtube.com/watch?v=2WazFUmIg54)**
+
+Midea Group, one of the world's largest home appliance manufacturers, just unveiled its new six-armed humanoid robot, Miro U.
+
+📺 Kalil 4.0
+
+👁️ 512 • 👍 15 • ⏱️ 0:24 • 1h ago
 
 ---
 
@@ -245,44 +287,6 @@ China just built something that was supposed to be decades away. Engine AI's T80
 📺 Core Insights
 
 👁️ 70K • 👍 1K • 💬 134 • ⏱️ 15:19 • 4d ago
-
----
-
-**[Dancing robot goes rogue in hot pot restaurant](https://www.youtube.com/watch?v=DfnIEWpbMU8)**
-
-Video shows restaurant employees struggling to restrain a dancing robot that went rogue in a hot pot restaurant in California.
-
-📺 NBC News
-
-👁️ 189K • 👍 2K • 💬 634 • ⏱️ 3:38 • 3d ago
-
----
-
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=hyus0N9wwM4)**
-
-📺 Robot Julie 
-
-👁️ 32K • 👍 206 • 💬 3 • ⏱️ 0:28 • 1d ago
-
----
-
-**[NVIDIA GTC Demo Stuns Audience With Real Olaf Robot Next To Jensen Huang](https://www.youtube.com/watch?v=pPnVsRPFWV8)**
-
-The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrations when Jensen Huang introduced a real ...
-
-📺 DPCcars
-
-👁️ 209K • 👍 2K • 💬 288 • ⏱️ 2:02 • 5d ago
-
----
-
-**[Outdated Tier 4 Weapons in War Robots](https://www.youtube.com/watch?v=8zKwEsyhPYE)**
-
-War Robots Gameplay: Playing Spear and Atomizer on Ammit - Tier 4 My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 8K • 👍 330 • 💬 52 • ⏱️ 12:20 • 1d ago
 
 ---
 

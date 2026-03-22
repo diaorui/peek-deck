@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-22T17:51:45.684236+00:00'
+updated: '2026-03-22T18:39:15.001677+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
 - cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 17:51 UTC  
+**Last Updated:** March 22, 2026 at 18:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,855.47
+### $68,803.23
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.3%  
-**7d:** -8.2%  
-**30d:** +1.1%  
-**90d:** -21.3%  
-**1y:** -20.0%  
+**24h:** -2.7%  
+**7d:** -8.5%  
+**30d:** +0.7%  
+**90d:** -21.6%  
+**1y:** -20.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1374.45B
+**Market Cap:** $1372.30B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--45.5%
+-45.7%
 
 **All-Time Low:** $67.81
-+101193.3%
++100870.4%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Link to the Bitcoin history in El Zonte, but I'm sure you can find and share even better articles: https://wildcatsandblacksheep.com/the-salvadoran-beach-town-that-became-a-bitcoin-testbed/
 
-3h ago
+4h ago
 
 ---
 
@@ -97,7 +97,7 @@ Sometimes it doesn't feel real that we're under $70K right now and have the oppo
 
 About 10 years ago, I bought 0.2 Bitcoin out of curiosity, and recently I happened upon the document where I wrote down the information about it. There are a few user names and passwords that I don’t quite know what they are good for, so I installed Bluewallet (iOS) which asked me for a seed. So I entered this “seed“ phrase, which seems to be correct, and now I can see the balance (0.218797) in my BlueWallet wallet. 1) I guess this means that I could sell these 0.21…. Bitcoin if I wanted to (I don’t want to, it’s hypothetical)? Would I need a password? Im pretty sure i have the correct password, but how can I test this without actually selling anything? 2) I don’t understand where my 0.2… Bitcoin is stored. I think it’s not stored on my device, otherwise I wouldn’t need the seed phrase to access it, right? So how can I know where it is stored? 3) (Related to Q 2): If I wanted to buy a little more, how could I add that to my existing balance rather than creating a new wallet? Thanks in advance
 
-5h ago
+6h ago
 
 ---
 
@@ -105,7 +105,7 @@ About 10 years ago, I bought 0.2 Bitcoin out of curiosity, and recently I happen
 
 Hey all, I have a friend who is definitely not tech-savvy who mentioned that she bought about 20 BTC as a joke in 2013. She says she documented all of the procedures and passwords at the behest of a tech friend she doesn't speak to any longer. She also still has the laptop from 2013 that she apparently did all this with, which doesn't seem to boot up. I did help her find the exchange she used and confirmed through the log that she sent 16.1 BTC to this wallet of hers. I have been researching the common wallets and am not sure if she had a web-based or software-based wallet. I believe (hoping) it was software-based and found the top five from that time. Apparently the web-based wallets suffered a high casualty rate. So it seems like it would be best to get the original laptop working again, even though she said she backed it up, the Bitcoin-related data was apparently on a different partition and I don't think she backed up that partition, as she just did time machine backups. Seems like a good next step? Thanks in advance.
 
-14h ago
+15h ago
 
 ---
 
@@ -113,7 +113,7 @@ Hey all, I have a friend who is definitely not tech-savvy who mentioned that she
 
 Morgan Stanley allows clients to allocate between 0-4% of their portfolioa to bitcoin. Even a modest 2% could add $160 Billion dollars in capital to the BTC market.
 
-🔗 [Bitcoin Magazine](https://share.google/eNr25Ee6vq1fB2Lv1) • 19h ago
+🔗 [Bitcoin Magazine](https://share.google/eNr25Ee6vq1fB2Lv1) • 20h ago
 
 ---
 
@@ -121,13 +121,15 @@ Morgan Stanley allows clients to allocate between 0-4% of their portfolioa to bi
 
 An excellent book about all the details, even people who fought the Blocksize war might have missed: https://www.youtube.com/watch?v=6YtS5ZNuuTw And excellent explanation of r/thelightningnetwork: https://www.youtube.com/watch?v=yKdK-7AtAMQ A bonus video. Lyn Alden's Full Broken Money Thesis in under 50min: https://www.youtube.com/watch?v=k3NN_NZOdhY
 
-21h ago
+22h ago
 
 ---
 
-**[The Code of Liberty: Why Bitcoin is the Only True Constitutional Money.](https://www.reddit.com/r/Bitcoin/comments/1s0hhko/the_code_of_liberty_why_bitcoin_is_the_only_true/)**
+**[Can I sue Coinbase?](https://www.reddit.com/r/Bitcoin/comments/1s0oun3/can_i_sue_coinbase/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-code-of-liberty-why-bitcoin-is) • 8h ago
+This is the situation: I had a friend send me btc over the years to Coinbase. There was a substantial amount there I sent it further to sell and i received, up until 2019. Then I left the remaining balance on Coinbase and didn't touch it. Well i logged in with same info and it recreated my account. Long story short, they deleted my account claiming there were no transactions in it EVER and it was inactive. Which is entirely untrue. I have email confirmations for every single transaction from Coinbase in my email account. The difference is for the btc i sent the notification is: "you sent x amount of btc to this xyz address". Based on the notification i can see the transaction on the blockchain, clearly indicating there were transactions. Unfortunately, and conveniently for Coinbase, the notification for receiving btc was just: "you received x amount of btc". Not stating from whom or nothing, so I can't find it on the blockchain. Anyway I've been talking to their support the whole day and thy continue claiming they deleted the account due to inactivity and 0 all time transactions, which again I've proven to them to not be the case. What can I do? I'm pretty certain there is a significant amount on there but I have no way of finding out specifically how much or retrieving this amount cause Coinbase support is awful. UPDATE: They magically found my transaction history now, and the balance is 0.
+
+2h ago
 
 ---
 
@@ -139,19 +141,17 @@ We’ve all seen the headlines that the SEC and CFTC finally put it in writing: 
 
 ---
 
-**[How much of your investments do you actually put into Bitcoin and crypto](https://www.reddit.com/r/Bitcoin/comments/1s08349/how_much_of_your_investments_do_you_actually_put/)**
+**[Where do you get your financial news?](https://www.reddit.com/r/Bitcoin/comments/1s0r7lu/where_do_you_get_your_financial_news/)**
 
-Been watching the markets lately and keep wanting to throw more money at these lower prices curious what everyone else is doing with their investment split between crypto and the usual stuff like index funds stocks bonds etc what percentage you running and why did you choose that amount also probably spending too much time refreshing charts instead of studing but whatever
+I’ve been investing for more than a year now but still struggle to find reliable sources to get news from. I’m not one to sit and watch news on the tv all day. Where do you find your financial news?
 
-16h ago
+1h ago
 
 ---
 
-**[Daily Discussion, March 22, 2026](https://www.reddit.com/r/Bitcoin/comments/1s0dz13/daily_discussion_march_22_2026/)**
+**[The Code of Liberty: Why Bitcoin is the Only True Constitutional Money.](https://www.reddit.com/r/Bitcoin/comments/1s0hhko/the_code_of_liberty_why_bitcoin_is_the_only_true/)**
 
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-11h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-code-of-liberty-why-bitcoin-is) • 8h ago
 
 ---
 
@@ -163,7 +163,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 The average production cost was sitting at $88,000 per bitcoin in mid-March, according to Checkonchain's difficulty regression model.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -173,31 +173,17 @@ Forbes • 1d ago
 
 ---
 
-**[Michael Saylor Changed Tactics To Buy More Bitcoin: What It Means For MSTR](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-changed-tactics-buy-153116394.html)**
+**[2 Cryptocurrencies That Could Double Over the Next 5 Years](https://www.fool.com/investing/2026/03/22/2-cryptocurrencies-that-could-double-over-the-next/)**
 
-Strategy executive chairman Michael Saylor is increasingly turning to alternative funding channels to finance its Bitcoin purchases, signaling a shift away from heavy reliance on equity dilution. Funding Shift Emerges In a Mar.19 post on X, CryptoQuant data showed the...
+These two cryptocurrencies are trading at deep discounts, and could be ready to soar higher.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Gold Falters as Macro Pressures Build, Bitcoin Holds Liquidity Trend](https://www.moomoo.com/news/post/67218584/gold-falters-as-macro-pressures-build-bitcoin-holds-liquidity-trend)**
-
-Moomoo • 2h ago
-
----
-
-**[Strategy calls its new bitcoin funding tool an 'iPhone' moment but analysts warn of hidden risks](https://www.coindesk.com/business/2026/03/22/the-genius-and-the-danger-of-strc-how-strategy-s-new-funding-model-bends-so-it-doesn-t-break)**
-
-Strategy's STRC has bitcoin a major bitcoin accumulation tool, but analysts warn the risks aren't as clear as the marketing makes them out to be.
-
-CoinDesk • 1h ago
+The Motley Fool • 12m ago
 
 ---
 
 **[Bitcoin Drops Below $69,000 as War Fears Weigh on Crypto Markets](https://www.bloomberg.com/news/articles/2026-03-22/bitcoin-drops-below-69-000-as-war-fears-weigh-on-crypto-markets)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -209,6 +195,14 @@ The Berkshire Eagle • 1d ago
 
 ---
 
+**[Bitcoin Already Rising To Quantum Threat, Says Galaxy — So What Is Most At Risk?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-already-rising-quantum-threat-123215286.html)**
+
+Risk is real but limited today, says Galaxy. Bitcoin is already preparing, the firm found. Debate remains divided. Bitcoin may already be adapting to the ...
+
+Yahoo Finance • 6h ago
+
+---
+
 **[French bitcoin evangelical Eric Larchevêque wants his right-wing voice to be part of public debate](https://www.lemonde.fr/en/m-le-mag/article/2026/03/21/french-bitcoin-evangelical-eric-larcheveque-wants-his-right-wing-voice-to-be-part-of-public-debate_6751676_117.html)**
 
 Known to the public as a judge on a television show, the French bitcoin pioneer wants to win over the masses to the cryptocurrencies that made him wealthy. With the 2027 presidential election approaching, this libertarian has embraced increasingly radical ideas.
@@ -217,19 +211,27 @@ Le Monde.fr • 1d ago
 
 ---
 
-**[Best Cryptocurrencies to Buy Right Now for Long-Term Investors](https://www.fool.com/investing/2026/03/22/best-cryptocurrencies-to-buy-right-now-for-long-te/)**
-
-For buy-and-hold investors, these three cryptocurrencies could be the key to turbocharging portfolio returns.
-
-The Motley Fool • 5h ago
-
----
-
 **[Bitcoin long-term holder selling slows, signaling 'potentially constructive' trend: VanEck](https://www.theblock.co/post/394467/bitcoin-long-term-holder-activity-slows-vaneck)**
 
 VanEck's latest report noted that the selling pressure among bitcoin miners remained steady despite a decline in profitability.
 
 The Block • 2d ago
+
+---
+
+**[Phong Le Calls Morgan Stanley’s BTC ETF a “Monster Bitcoin” Bet With $160 Billion Potential](https://bitcoinmagazine.com/news/phong-le-calls-morgan-stanleys-bitcoin)**
+
+The president and CEO of Strategy said Morgan Stanley’s upcoming bitcoin ETF could unlock as much as $160 billion in demand under a modest portfolio allocation scenario.
+
+Bitcoin Magazine • 2d ago
+
+---
+
+**[Bitcoin Price News: Two Early Bitcoin Holders Sold $117M BTC, but Whales Are Buying the Dip at Record Pace](https://247wallst.com/investing/2026/03/21/bitcoin-price-news-two-early-bitcoin-holders-sold-117m-btc-but-whales-are-buying-the-dip-at-record-pace/)**
+
+Two Bitcoin OGs sold $117M in BTC after the Fed decision. But Bitcoin whale wallets are buying the dip as exchange reserves hit a 7-year low.
+
+24/7 Wall St. • 1d ago
 
 ---
 
@@ -249,7 +251,7 @@ Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in
 
 Difficulty is now nearly 10% below where it started the year, despite a sharp 14.7% rebound in February after weather-related disruptions subsided.
 
-⬆️ 5 • 💬 1 • 12h ago • [The Block](https://www.theblock.co/post/394579/bitcoin-mining-difficulty-drops-7-8-as-miner-exodus-accelerates-amid-ai-pivot)
+⬆️ 5 • 💬 1 • 13h ago • [The Block](https://www.theblock.co/post/394579/bitcoin-mining-difficulty-drops-7-8-as-miner-exodus-accelerates-amid-ai-pivot)
 
 ---
 
@@ -299,17 +301,7 @@ Bitcoin just scored a massive regulatory win that changes everything for develop
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 119 • ⏱️ 21:11 • 18h ago
-
----
-
-**[Bitcoin Holders, I Really Wasn&#39;t Expecting This Outcome](https://www.youtube.com/watch?v=xwff4pYhO9E)**
-
-Things are heating up Check out Ledn: https://aaronbtc.com/ledn ChangeNOW: https://bit.ly/47E6nl9 X ...
-
-📺 Aaron Bennett
-
-👁️ 5K • 👍 338 • 💬 46 • ⏱️ 9:35 • 8h ago
+👁️ 27K • 👍 2K • 💬 114 • ⏱️ 21:11 • 19h ago
 
 ---
 
@@ -319,7 +311,27 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 48K • 👍 2K • 💬 129 • ⏱️ 59:39 • 1d ago
+👁️ 50K • 👍 2K • 💬 129 • ⏱️ 59:39 • 1d ago
+
+---
+
+**[Bitcoin Holders, I Really Wasn&#39;t Expecting This Outcome](https://www.youtube.com/watch?v=xwff4pYhO9E)**
+
+Things are heating up Check out Ledn: https://aaronbtc.com/ledn ChangeNOW: https://bit.ly/47E6nl9 X ...
+
+📺 Aaron Bennett
+
+👁️ 6K • 👍 381 • 💬 55 • ⏱️ 9:35 • 9h ago
+
+---
+
+**[&quot;Bitcoin Is Following A Pattern Nobody Wants To Admit&quot; | Anthony Scaramucci](https://www.youtube.com/watch?v=KXaqFMV4jKM)**
+
+Bitcoin #Crypto #Finance Anthony Scaramucci says this Bitcoin pullback may be far more normal than it feels — and he still sees ...
+
+📺 The Wolf Of All Streets
+
+👁️ 11K • 👍 683 • 💬 139 • ⏱️ 30:41 • 5h ago
 
 ---
 
@@ -329,7 +341,27 @@ Bitcoin just went live at millions of businesses without anyone opting in. While
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 1K • 💬 139 • ⏱️ 12:51 • 1d ago
+👁️ 22K • 👍 2K • 💬 143 • ⏱️ 12:51 • 1d ago
+
+---
+
+**[Exactly How Bitcoin Reaches $1.5 Million By 2030 (3 Experts Explain)](https://www.youtube.com/watch?v=gpRhzWFZEmM)**
+
+Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: ...
+
+📺 Altcoin Daily
+
+👁️ 24K • 👍 1K • 💬 172 • ⏱️ 8:36 • 20h ago
+
+---
+
+**[Ben Cowen Explains How to Know the Bitcoin Bottom Is In](https://www.youtube.com/watch?v=gW9BEhCfYzs)**
+
+Watch the full episode here: https://youtu.be/7cW2PCPA8kY. Ben Cowen explains the key signals he's watching to determine ...
+
+📺 Market Disruptors Podcast
+
+👁️ 716 • 👍 76 • 💬 5 • ⏱️ 7:18 • 2h ago
 
 ---
 
@@ -339,7 +371,7 @@ A classic case of the bear market blues for Bitcoin. Into The Cryptoverse Premiu
 
 📺 Benjamin Cowen
 
-👁️ 66K • 👍 4K • 💬 208 • ⏱️ 11:38 • 2d ago
+👁️ 67K • 👍 4K • 💬 208 • ⏱️ 11:38 • 2d ago
 
 ---
 
@@ -349,45 +381,17 @@ Bitcoin Vegas 2026: https://fxo.co/JAmn Welcome to the Crypto Lifer Channel! JOI
 
 📺 Crypto Lifer
 
-👁️ 5K • 👍 333 • 💬 106 • ⏱️ 1:10:20 • 16h ago
+👁️ 5K • 👍 334 • 💬 79 • ⏱️ 1:10:20 • 17h ago
 
 ---
 
-**[From Prison to College Funds: The Unexpected Impact of Selling Bitcoin with @Physicsduck](https://www.youtube.com/watch?v=EVdAgtiUsF0)**
+**[Sunday Bitcoin Update: BTC Dip Creates Fear! Perfect Setup for Pump?](https://www.youtube.com/watch?v=yYTsBBsRlLo)**
 
-Selling Bitcoin led to a 30-month prison sentence. Many customers who bought Bitcoin years ago held onto it, and as its value ...
+Bitcoin Vegas 2026: https://fxo.co/JAmn Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ...
 
-📺 LiveWire Podcast
+📺 Crypto Lifer
 
-👁️ 12K • 👍 802 • 💬 53 • ⏱️ 1:34 • 1d ago
-
----
-
-**[😱XRP ETF IN SERIOUS TROUBLE! ZERO INFLOWS OR OUTFLOW RECORDED #bitcoin #crypto #xrp](https://www.youtube.com/watch?v=ACQ3uWr4Noo)**
-
-📺 CryptoWendyO
-
-👁️ 9K • 👍 532 • 💬 13 • ⏱️ 2:00 • 1d ago
-
----
-
-**[THIS IS WHY BITCOIN IS DUMPING...](https://www.youtube.com/watch?v=ZCxCGSBBdoQ)**
-
-WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $25 ...
-
-📺 Crypto Rover
-
-👁️ 3K • 👍 298 • 💬 186 • ⏱️ 6:27 • 4h ago
-
----
-
-**[I bought Bitcoin Cards at Target? #bitcoin](https://www.youtube.com/watch?v=R3_ip5GwMF8)**
-
-Coin Deals HERE https://solo.to/couchcollectibles FREE $15 Credit: https://www.whatnot.com/invite/couchcollectibles ...
-
-📺 Couch Collectibles
-
-👁️ 1K • 👍 45 • 💬 2 • ⏱️ 2:52 • 15h ago
+👁️ 5K • 👍 406 • 💬 76 • ⏱️ 1:51:25 • 3h ago
 
 ---
 
