@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-22T08:35:55.143329+00:00'
+updated: '2026-03-22T09:34:38.654090+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 22, 2026 at 08:35 UTC  
+**Last Updated:** March 22, 2026 at 09:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
-19h ago
+20h ago
 
 ---
 
 **[Ringbot: A monocycle robot developed by the Robotics and Institute (RAI) that uses internal legs for balance and acrobatic maneuvers](https://www.reddit.com/r/robotics/comments/1rztuum/ringbot_a_monocycle_robot_developed_by_the/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -52,19 +52,19 @@ From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
 ---
 
-**[Are there any cable driven 2 DOF mechanisms like this?](https://www.reddit.com/r/robotics/comments/1s02cv0/are_there_any_cable_driven_2_dof_mechanisms_like/)**
-
-I want to make an aim-able phone holder with servos/steppers tucked in the base… and I don’t want to reinvent the wheel. Are there any references of this design? (Like a Simpson 3d printer, but simpler and for robot arms)
-
-11h ago
-
----
-
 **[RMW comparison on Jazzy (Fast DDS vs Cyclone DDS vs Zenoh vs Iceoryx) + handling rosbag2 CPU spikes](https://www.reddit.com/r/robotics/comments/1s022nr/rmw_comparison_on_jazzy_fast_dds_vs_cyclone_dds/)**
 
 We’re running a pretty heavy autonomous stack on a single edge computer (ROS 2 Jazzy) — multiple high-res cameras, dense LiDARs, and radars all on one machine. We’re starting to hit serious compute + latency limits, especially with intra-process communication and recording. Right now we’re evaluating: Fast DDS Cyclone DDS Zenoh Iceoryx Also, as soon as we start recording with rosbag2, CPU usage spikes hard and we get frame drops across the system. Two questions for folks who’ve pushed ROS 2 hard on a single machine: For high-bandwidth intra-host comms on Jazzy, which RMW has actually given you the best real-world performance? How are you dealing with the rosbag2 overhead? Composable recorder node? Separate process? Or bypassing ROS entirely and logging raw sensor data? For context: we previously ran Humble + CycloneDDS + MCAP and saw similar bottlenecks. Curious what setups are working well in practice.
 
-11h ago
+12h ago
+
+---
+
+**[Are there any cable driven 2 DOF mechanisms like this?](https://www.reddit.com/r/robotics/comments/1s02cv0/are_there_any_cable_driven_2_dof_mechanisms_like/)**
+
+I want to make an aim-able phone holder with servos/steppers tucked in the base… and I don’t want to reinvent the wheel. Are there any references of this design? (Like a Simpson 3d printer, but simpler and for robot arms)
+
+12h ago
 
 ---
 
@@ -72,7 +72,7 @@ We’re running a pretty heavy autonomous stack on a single edge computer (ROS 2
 
 It's one of the sample tasks I'm planning to demonstrate to the guests of my upcoming conference. ( 120 characters limit bypass )
 
-19h ago
+20h ago
 
 ---
 
@@ -80,7 +80,7 @@ It's one of the sample tasks I'm planning to demonstrate to the guests of my upc
 
 Testing the built-in 3D reconstruction algorithm of the Viobot2 — the result looks good. Has anyone used the Viobot2 for other DIY work? Can anyone share with me?
 
-17h ago
+18h ago
 
 ---
 
@@ -88,7 +88,7 @@ Testing the built-in 3D reconstruction algorithm of the Viobot2 — the result l
 
 Hey, I want to build a humanoid robot as a personal project — not necessarily life sized, maybe scaled down a bit. I came across InMoov and it looks amazing but I'm a bit intimidated by the non-printed hardware requirements like springs, metal rods, drilling into parts etc. I'm comfortable with electronics and embedded systems (Arduino/ESP32, servos, sensors) so that side doesn't scare me. It's more the mechanical assembly and sourcing all the non-printed hardware that feels overwhelming. Has anyone: Built InMoov and found ways to simplify the mechanical assembly? Found a good detailed step by step tutorial that makes it less intimidating? Found cheaper alternatives to the hardware components it needs? Built a simplified or scaled down version? Not looking for a perfect robot, just something that works and that I can build on over time. Any advice or experience would really help. Thanks
 
-10h ago
+11h ago
 
 ---
 
@@ -132,13 +132,7 @@ Business Insider • 2d ago
 
 This humanoid robot is learning tennis the same way I did—by playing. Plus a robot horse for the Year of the Fire Horse in this week's robot videos.
 
-IEEE Spectrum • 15h ago
-
----
-
-**[Unitree plans Shanghai IPO, testing interest in humanoid robots](https://www.reuters.com/world/asia-pacific/unitree-plans-shanghai-ipo-testing-interest-humanoid-robots-2026-03-20/)**
-
-Reuters • 1d ago
+IEEE Spectrum • 16h ago
 
 ---
 
@@ -146,23 +140,13 @@ Reuters • 1d ago
 
 It took nature millions of years to create intelligent, adaptive species. Researchers at Northwestern University in Illinois are using AI to evolve robots in minutes. The result is a robot that is agile, highly adaptive, and technically indestructible.
 
-New Atlas • 20h ago
+New Atlas • 21h ago
 
 ---
 
-**[Robotics giant plans massive $90M plant in metro Detroit, 225 jobs](https://www.crainsdetroit.com/manufacturing-logistics/cdb-fanuc-robots-investment-michigan-20260319/)**
+**[Unitree plans Shanghai IPO, testing interest in humanoid robots](https://www.reuters.com/world/asia-pacific/unitree-plans-shanghai-ipo-testing-interest-humanoid-robots-2026-03-20/)**
 
-Japanese manufacturer Fanuc is plotting a large expansion in Michigan in response to demand from automakers and other customers.
-
-Crain's Detroit • 1d ago
-
----
-
-**[Tech Moves: Carbon Robotics’ new CFO; Microsoft gaming GM goes to Netflix; Nordstrom gets VP of AI](https://www.geekwire.com/2026/tech-moves-carbon-robotics-new-cfo-microsoft-gaming-gm-goes-to-netflix-nordstrom-gets-vp-of-ai/)**
-
-Carbon Robotics names a CFO; Nordstrom gets a VP of AI; and a Microsoft gaming GM goes to Netflix while one of its longtime legal leaders retires.
-
-GeekWire • 1d ago
+Reuters • 1d ago
 
 ---
 
@@ -190,19 +174,25 @@ Engadget • 2d ago
 
 ---
 
+**[Robotics giant plans massive $90M plant in metro Detroit, 225 jobs](https://www.crainsdetroit.com/manufacturing-logistics/cdb-fanuc-robots-investment-michigan-20260319/)**
+
+Japanese manufacturer Fanuc is plotting a large expansion in Michigan in response to demand from automakers and other customers.
+
+Crain's Detroit • 1d ago
+
+---
+
+**[Tech Moves: Carbon Robotics’ new CFO; Microsoft gaming GM goes to Netflix; Nordstrom gets VP of AI](https://www.geekwire.com/2026/tech-moves-carbon-robotics-new-cfo-microsoft-gaming-gm-goes-to-netflix-nordstrom-gets-vp-of-ai/)**
+
+Carbon Robotics names a CFO; Nordstrom gets a VP of AI; and a Microsoft gaming GM goes to Netflix while one of its longtime legal leaders retires.
+
+GeekWire • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
-
-**[The Future of Flooring: Automated Sand-Cement Screeding Robot #ConstructionTech #Robotics #Flooring](https://www.youtube.com/watch?v=QK7Y1-O5koE)**
-
-"Efficiency meets precision! Watch this automated floor screeding robot transform a rough sand-cement mix into a perfectly level ...
-
-📺 MachineWorks Studio
-
-👁️ 2.5M • 👍 2K • 💬 38 • ⏱️ 0:06 • 5d ago
-
----
 
 **[Out of control robot smashes up restaurant as waitress desperately attempts to drag it away](https://www.youtube.com/watch?v=ZyohmMJA5Ao)**
 
@@ -210,7 +200,17 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 247K • 👍 3K • 💬 2K • ⏱️ 2:07 • 2d ago
+👁️ 251K • 👍 3K • 💬 2K • ⏱️ 2:07 • 2d ago
+
+---
+
+**[The Future of Flooring: Automated Sand-Cement Screeding Robot #ConstructionTech #Robotics #Flooring](https://www.youtube.com/watch?v=QK7Y1-O5koE)**
+
+"Efficiency meets precision! Watch this automated floor screeding robot transform a rough sand-cement mix into a perfectly level ...
+
+📺 MachineWorks Studio
+
+👁️ 2.6M • 👍 2K • 💬 38 • ⏱️ 0:06 • 5d ago
 
 ---
 
@@ -220,17 +220,17 @@ Video shows restaurant employees struggling to restrain a dancing robot that wen
 
 📺 NBC News
 
-👁️ 183K • 👍 2K • 💬 624 • ⏱️ 3:38 • 3d ago
+👁️ 185K • 👍 2K • 💬 625 • ⏱️ 3:38 • 3d ago
 
 ---
 
-**[This wearable robot adds two mechanical legs behind you](https://www.youtube.com/watch?v=y1Jh2BtO-Ow)**
+**[What It Took to Make This Robot Work](https://www.youtube.com/watch?v=qzNmMoFnRsY)**
 
-CENTAUR ROBOT - wearable robot adds two legs behind people to help distribute the load ...
+COGLET KICKSTARTER LAUNCH: ...
 
-📺 Unstoppable Gadgets
+📺 Will Cogley
 
-👁️ 29K • 👍 342 • 💬 22 • ⏱️ 0:17 • 3d ago
+👁️ 15K • 👍 1K • 💬 60 • ⏱️ 10:35 • 1d ago
 
 ---
 
@@ -240,27 +240,7 @@ Try the full AI cinematic workflow here: https://higgsfield.ai/s/cinema-studio-2
 
 📺 AI Revolution
 
-👁️ 21K • 👍 504 • 💬 43 • ⏱️ 13:18 • 6d ago
-
----
-
-**[Elon Musk Just Unveiled &quot;Optima&quot; - The Female Version of the Tesla Robot](https://www.youtube.com/watch?v=445GqPQNm2E)**
-
-Fresh attention is building around a new concept reportedly linked to Elon Musk that explores a more human-like direction for ...
-
-📺 Carros Show
-
-👁️ 2K • 👍 45 • 💬 7 • ⏱️ 8:13 • 4d ago
-
----
-
-**[Spray-On Robot Skin Feels Strain Like Human Skin 🤖 #robotics #innovation #technology](https://www.youtube.com/watch?v=NGsP7tN0wuQ)**
-
-This Spray-On Electronic Skin Could Make Robots Feel More Like Humans. Researchers at KAIST have developed a new kind of ...
-
-📺 EcoZora
-
-👁️ 10K • 👍 26 • 💬 3 • ⏱️ 0:07 • 2d ago
+👁️ 21K • 👍 504 • 💬 44 • ⏱️ 13:18 • 6d ago
 
 ---
 
@@ -270,17 +250,27 @@ The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrati
 
 📺 DPCcars
 
-👁️ 198K • 👍 2K • 💬 263 • ⏱️ 2:02 • 5d ago
+👁️ 201K • 👍 2K • 💬 270 • ⏱️ 2:02 • 5d ago
 
 ---
 
-**[Outdated Tier 4 Weapons in War Robots](https://www.youtube.com/watch?v=8zKwEsyhPYE)**
+**[Spray-On Robot Skin Feels Strain Like Human Skin 🤖 #robotics #innovation #technology](https://www.youtube.com/watch?v=NGsP7tN0wuQ)**
 
-War Robots Gameplay: Playing Spear and Atomizer on Ammit - Tier 4 My War Robots Creator Link: https://wr.my.games/manni ...
+This Spray-On Electronic Skin Could Make Robots Feel More Like Humans. Researchers at KAIST have developed a new kind of ...
 
-📺 Manni-Gaming
+📺 EcoZora
 
-👁️ 6K • 👍 294 • 💬 43 • ⏱️ 12:20 • 19h ago
+👁️ 11K • 👍 30 • 💬 3 • ⏱️ 0:07 • 2d ago
+
+---
+
+**[This wearable robot adds two mechanical legs behind you](https://www.youtube.com/watch?v=y1Jh2BtO-Ow)**
+
+CENTAUR ROBOT - wearable robot adds two legs behind people to help distribute the load ...
+
+📺 Unstoppable Gadgets
+
+👁️ 29K • 👍 343 • 💬 22 • ⏱️ 0:17 • 3d ago
 
 ---
 
@@ -290,7 +280,17 @@ Humanoid tennis athletes are officially here! A team from Tsinghua University an
 
 📺 XRoboHub
 
-👁️ 168K • 👍 2K • 💬 279 • ⏱️ 0:23 • 6d ago
+👁️ 169K • 👍 2K • 💬 279 • ⏱️ 0:23 • 6d ago
+
+---
+
+**[Unboxing the FUTURE! Agibot X2 Ultra Humanoid Robot ](https://www.youtube.com/watch?v=Nf4q5uxCTKQ)**
+
+Our Agibot X2 Ultra robot has finally arrived! Together we will unbox this humanoid robot, set it up, and run through all the details.
+
+📺 KhanFlicks
+
+👁️ 140K • 💬 143 • ⏱️ 22:01 • 3d ago
 
 ---
 

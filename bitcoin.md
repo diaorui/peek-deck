@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-22T08:35:55.134266+00:00'
+updated: '2026-03-22T09:34:38.644953+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- videos
 - news
 - cryptocurrency
-- videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 08:35 UTC  
+**Last Updated:** March 22, 2026 at 09:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,252.44
+### $68,819.29
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** -7.7%  
-**30d:** +1.6%  
-**90d:** -20.9%  
-**1y:** -19.6%  
+**24h:** -2.8%  
+**7d:** -8.3%  
+**30d:** +0.9%  
+**90d:** -21.4%  
+**1y:** -20.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1383.14B
+**Market Cap:** $1373.18B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--45.1%
+-45.5%
 
 **All-Time Low:** $67.81
-+101901.2%
++101166.8%
 
 ---
 
@@ -77,19 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[There won't be a second date but at least she knows about the Blocksize War and how the Lightning Network works](https://www.reddit.com/r/Bitcoin/comments/1s012lr/there_wont_be_a_second_date_but_at_least_she/)**
-
-An excellent book about all the details, even people who fought the Blocksize war might have missed: https://www.youtube.com/watch?v=6YtS5ZNuuTw And excellent explanation of r/thelightningnetwork: https://www.youtube.com/watch?v=yKdK-7AtAMQ A bonus video. Lyn Alden's Full Broken Money Thesis in under 50min: https://www.youtube.com/watch?v=k3NN_NZOdhY
-
-12h ago
-
----
-
 **[Morgan Stanley's Bitcoin ETF To Trade As 'MSBT' On NYSE. Likely to funnel more capital into BTC than all other Bitcoin ETF's combined.](https://www.reddit.com/r/Bitcoin/comments/1s04ah4/morgan_stanleys_bitcoin_etf_to_trade_as_msbt_on/)**
 
 Morgan Stanley allows clients to allocate between 0-4% of their portfolioa to bitcoin. Even a modest 2% could add $160 Billion dollars in capital to the BTC market.
 
-🔗 [Bitcoin Magazine](https://share.google/eNr25Ee6vq1fB2Lv1) • 10h ago
+🔗 [Bitcoin Magazine](https://share.google/eNr25Ee6vq1fB2Lv1) • 11h ago
+
+---
+
+**[There won't be a second date but at least she knows about the Blocksize War and how the Lightning Network works](https://www.reddit.com/r/Bitcoin/comments/1s012lr/there_wont_be_a_second_date_but_at_least_she/)**
+
+An excellent book about all the details, even people who fought the Blocksize war might have missed: https://www.youtube.com/watch?v=6YtS5ZNuuTw And excellent explanation of r/thelightningnetwork: https://www.youtube.com/watch?v=yKdK-7AtAMQ A bonus video. Lyn Alden's Full Broken Money Thesis in under 50min: https://www.youtube.com/watch?v=k3NN_NZOdhY
+
+13h ago
 
 ---
 
@@ -97,7 +97,7 @@ Morgan Stanley allows clients to allocate between 0-4% of their portfolioa to bi
 
 Hey all, I have a friend who is definitely not tech-savvy who mentioned that she bought about 20 BTC as a joke in 2013. She says she documented all of the procedures and passwords at the behest of a tech friend she doesn't speak to any longer. She also still has the laptop from 2013 that she apparently did all this with, which doesn't seem to boot up. I did help her find the exchange she used and confirmed through the log that she sent 16.1 BTC to this wallet of hers. I have been researching the common wallets and am not sure if she had a web-based or software-based wallet. I believe (hoping) it was software-based and found the top five from that time. Apparently the web-based wallets suffered a high casualty rate. So it seems like it would be best to get the original laptop working again, even though she said she backed it up, the Bitcoin-related data was apparently on a different partition and I don't think she backed up that partition, as she just did time machine backups. Seems like a good next step? Thanks in advance.
 
-5h ago
+6h ago
 
 ---
 
@@ -111,7 +111,15 @@ Hey all, I have a friend who is definitely not tech-savvy who mentioned that she
 
 Been watching the markets lately and keep wanting to throw more money at these lower prices curious what everyone else is doing with their investment split between crypto and the usual stuff like index funds stocks bonds etc what percentage you running and why did you choose that amount also probably spending too much time refreshing charts instead of studing but whatever
 
-7h ago
+8h ago
+
+---
+
+**[Daily Discussion, March 22, 2026](https://www.reddit.com/r/Bitcoin/comments/1s0dz13/daily_discussion_march_22_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+3h ago
 
 ---
 
@@ -123,17 +131,9 @@ Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perreno
 
 ---
 
-**[Daily Discussion, March 22, 2026](https://www.reddit.com/r/Bitcoin/comments/1s0dz13/daily_discussion_march_22_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-2h ago
-
----
-
 **[Lightning Network might be already moving over $15B/year based on most recent data](https://www.reddit.com/r/Bitcoin/comments/1rztn0r/lightning_network_might_be_already_moving_over/)**
 
-🔗 [X (formerly Twitter)](https://x.com/LightningNewsX/status/2035261125630001359?s=20) • 17h ago
+🔗 [X (formerly Twitter)](https://x.com/LightningNewsX/status/2035261125630001359?s=20) • 18h ago
 
 ---
 
@@ -141,15 +141,15 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 hi, just checking in to say hi I am generally a conservative broad index ETF investor for most of my savings but jn recent years have also been buying bitcoin and and now hold 1,1 BTC. I am torn between contirnuing to buy a bit every month or stopping altogether having achieve wholecoinership. I would be interested to know how other stackers approach this
 
-13h ago
+14h ago
 
 ---
 
-**[These type of people then claim Bitcoin is a scam…](https://www.reddit.com/r/Bitcoin/comments/1s08641/these_type_of_people_then_claim_bitcoin_is_a_scam/)**
+**[This sub currently](https://www.reddit.com/r/Bitcoin/comments/1rza6z8/this_sub_currently/)**
 
-https://www.reddit.com/r/CashApp/s/uqam2M17dd A permissioned vs permissionless system…
+Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Alden's book called Broken Money and read it.
 
-7h ago
+1d ago
 
 ---
 
@@ -157,41 +157,49 @@ https://www.reddit.com/r/CashApp/s/uqam2M17dd A permissioned vs permissionless s
 
 ## Google News: "bitcoin"
 
-**[Bitcoin options signal extreme fear as downside protection premium hits new all-time high, says VanEck](https://www.coindesk.com/markets/2026/03/21/bitcoin-options-signal-extreme-fear-as-downside-protection-premium-hits-new-all-time-high-says-vaneck)**
+**[Bitcoin miners are losing $19,000 on every BTC produced as difficulty drops 7.8%](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)**
 
-Despite stabilizing spot prices, investors remain defensive, with leveraged speculation cooling and realized volatility dropping from 80 to 50, suggesting a cautious market sentiment.
+The average production cost was sitting at $88,000 per bitcoin in mid-March, according to Checkonchain's difficulty regression model.
 
-CoinDesk • 13h ago
-
----
-
-**[Bitcoin Price News: Two Early Bitcoin Holders Sold $117M BTC, but Whales Are Buying the Dip at Record Pace](https://247wallst.com/investing/2026/03/21/bitcoin-price-news-two-early-bitcoin-holders-sold-117m-btc-but-whales-are-buying-the-dip-at-record-pace/)**
-
-Two Bitcoin OGs sold $117M in BTC after the Fed decision. But Bitcoin whale wallets are buying the dip as exchange reserves hit a 7-year low.
-
-24/7 Wall St. • 16h ago
+CoinDesk • 3h ago
 
 ---
 
-**[Better Asset to Buy Now With $500 and Hold for 3 Years: Bitcoin vs. Gold](https://www.fool.com/investing/2026/03/22/better-asset-to-buy-now-with-500-and-hold-for-3-ye/)**
+**[White House Quietly Confirms A ‘Major’ Crypto Milestone As Bitcoin Braces For A Huge Price Earthquake](https://www.forbes.com/sites/digital-assets/2026/03/21/white-house-quietly-confirms-a-major-crypto-milestone-as-bitcoin-braces-for-a-huge-price-earthquake/)**
 
-We live in interesting times, and these assets are built for exactly that.
-
-The Motley Fool • 3h ago
+Forbes • 21h ago
 
 ---
 
-**[Bitcoin Miners Are Losing $19,000 on Every BTC Produced as Difficulty Drops 7.8%](https://www.moomoo.com/news/post/67215786/bitcoin-miners-are-losing-19000-on-every-btc-produced-as)**
+**[$Bitcoin (BTC.CC)$support line broken, likely to test 2 support lines below, short term down trend](https://www.moomoo.com/community/feed/bitcoin-btc-cc-support-line-broken-likely-to-test-2-116271760605190)**
+
+@106524812 5050 Views
 
 Moomoo • 1h ago
 
 ---
 
-**[Better Asset to Buy Now With $500 and Hold for 3 Years: Bitcoin vs. Gold](https://finance.yahoo.com/markets/commodities/articles/better-asset-buy-now-500-045000521.html)**
+**[XRP price: Ripple linked token falls 3% as bitcoin weakness caps recovery](https://www.coindesk.com/markets/2026/03/22/xrp-falls-3-as-breakdown-below-usd1-44-and-bitcoin-weakness-caps-recovery)**
 
-We live in interesting times, and these assets are built for exactly that.
+Traders are watching support near $1.40 as repeated failures below $1.60 reinforce broader downtrend.
 
-Yahoo Finance • 3h ago
+CoinDesk • 2h ago
+
+---
+
+**[Bitcoin drops below $69,200 as Trump gives 48-hour ultimatum on Iran power plants](https://www.coindesk.com/markets/2026/03/22/bitcoin-drops-below-usd69-200-as-trump-gives-48-hour-ultimatum-on-iran-power-plants)**
+
+BTC fell 2.2% as $299 million in liquidations hit crypto markets, with long positions accounting for 85% of the damage.
+
+CoinDesk • 3h ago
+
+---
+
+**[Bitcoin Got Its Biggest Regulatory Win In A Decade—And Dropped To $70,000 Anyway](https://finance.yahoo.com/markets/crypto/articles/bitcoin-got-biggest-regulatory-win-003117136.html)**
+
+“We’re not the securities and everything commission anymore,” SEC Chair Paul Atkins told a crypto conference on Tuesday, minutes after his agency and the CFTC jointly classified Bitcoin and 15 other tokens as digital commodities, not securities. The crowd cheered....
+
+Yahoo Finance • 9h ago
 
 ---
 
@@ -203,33 +211,27 @@ The Block • 2d ago
 
 ---
 
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1774163700)**
-
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 1h ago
-
----
-
-**[White House Quietly Confirms A ‘Major’ Crypto Milestone As Bitcoin Braces For A Huge Price Earthquake](https://www.forbes.com/sites/digital-assets/2026/03/21/white-house-quietly-confirms-a-major-crypto-milestone-as-bitcoin-braces-for-a-huge-price-earthquake/)**
-
-Forbes • 20h ago
-
----
-
-**[Retail investors aren’t crazy for Farage and Kwarteng’s bitcoin business](https://www.ft.com/content/f9849a1a-7d8a-4806-babd-b32c4d3105c5)**
-
-Unpopular
-
-Financial Times • 1d ago
-
----
-
 **[Phong Le Calls Morgan Stanley’s BTC ETF a “Monster Bitcoin” Bet With $160 Billion Potential](https://bitcoinmagazine.com/news/phong-le-calls-morgan-stanleys-bitcoin)**
 
 The president and CEO of Strategy said Morgan Stanley’s upcoming bitcoin ETF could unlock as much as $160 billion in demand under a modest portfolio allocation scenario.
 
 Bitcoin Magazine • 1d ago
+
+---
+
+**[Built Like Bitcoin, Designed for AI: Is Bittensor (TAO) a Buy After Climbing 40% in 1 Month?](https://www.fool.com/investing/2026/03/21/built-like-bitcoin-designed-for-ai-is-bittensor-ta/)**
+
+This coin offers a very appealing mixture of new in-demand services for AI and a proven supply schedule.
+
+The Motley Fool • 22h ago
+
+---
+
+**[Bitcoin Price News: Two Early Bitcoin Holders Sold $117M BTC, but Whales Are Buying the Dip at Record Pace](https://247wallst.com/investing/2026/03/21/bitcoin-price-news-two-early-bitcoin-holders-sold-117m-btc-but-whales-are-buying-the-dip-at-record-pace/)**
+
+Two Bitcoin OGs sold $117M in BTC after the Fed decision. But Bitcoin whale wallets are buying the dip as exchange reserves hit a 7-year low.
+
+24/7 Wall St. • 17h ago
 
 ---
 
@@ -249,7 +251,7 @@ Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in
 
 Difficulty is now nearly 10% below where it started the year, despite a sharp 14.7% rebound in February after weather-related disruptions subsided.
 
-⬆️ 5 • 💬 1 • 2h ago • [The Block](https://www.theblock.co/post/394579/bitcoin-mining-difficulty-drops-7-8-as-miner-exodus-accelerates-amid-ai-pivot)
+⬆️ 5 • 💬 1 • 3h ago • [The Block](https://www.theblock.co/post/394579/bitcoin-mining-difficulty-drops-7-8-as-miner-exodus-accelerates-amid-ai-pivot)
 
 ---
 
@@ -271,7 +273,7 @@ Seal predictions and decisions with cryptographic proof anchored to Bitcoin. No 
 
 Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 33 chain analysis heuristics. Free, client-side, no tracking.
 
-⬆️ 1 • 💬 0 • 15h ago • [am-i.exposed](https://am-i.exposed/)
+⬆️ 1 • 💬 0 • 16h ago • [am-i.exposed](https://am-i.exposed/)
 
 ---
 
@@ -295,23 +297,23 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 ## YouTube Videos: "bitcoin"
 
-**[Why Bitcoin Could Explode As Global Markets Crack](https://www.youtube.com/watch?v=yFa1iAAk7Bg)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 41K • 👍 2K • 💬 129 • ⏱️ 59:39 • 19h ago
-
----
-
 **[BIGGEST BITCOIN ANNOUNCEMENT IN OVER 1 YEAR?!](https://www.youtube.com/watch?v=3bFwFyButjg)**
 
 Bitcoin just scored a massive regulatory win that changes everything for developers and self-custody. The SEC and CFTC finally ...
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 68 • ⏱️ 21:11 • 9h ago
+👁️ 20K • 👍 1K • 💬 79 • ⏱️ 21:11 • 10h ago
+
+---
+
+**[Why Bitcoin Could Explode As Global Markets Crack](https://www.youtube.com/watch?v=yFa1iAAk7Bg)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 43K • 👍 2K • 💬 129 • ⏱️ 59:39 • 20h ago
 
 ---
 
@@ -321,7 +323,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 8K • 👍 402 • 💬 195 • ⏱️ 8:34 • 1d ago
+👁️ 8K • 👍 405 • 💬 196 • ⏱️ 8:34 • 1d ago
 
 ---
 
@@ -331,7 +333,7 @@ Bitcoin just went live at millions of businesses without anyone opting in. While
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 144 • ⏱️ 12:51 • 1d ago
+👁️ 21K • 👍 1K • 💬 147 • ⏱️ 12:51 • 1d ago
 
 ---
 
@@ -341,7 +343,7 @@ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 
 
 📺 Altcoin Daily
 
-👁️ 15K • 👍 1K • 💬 98 • ⏱️ 8:36 • 10h ago
+👁️ 18K • 👍 1K • 💬 151 • ⏱️ 8:36 • 11h ago
 
 ---
 
@@ -361,7 +363,7 @@ Bitcoin Vegas 2026: https://fxo.co/JAmn Welcome to the Crypto Lifer Channel! JOI
 
 📺 Crypto Lifer
 
-👁️ 5K • 👍 325 • 💬 35 • ⏱️ 1:10:20 • 6h ago
+👁️ 5K • 👍 327 • 💬 36 • ⏱️ 1:10:20 • 7h ago
 
 ---
 
@@ -369,17 +371,7 @@ Bitcoin Vegas 2026: https://fxo.co/JAmn Welcome to the Crypto Lifer Channel! JOI
 
 📺 CryptoWendyO
 
-👁️ 9K • 👍 511 • 💬 8 • ⏱️ 2:00 • 1d ago
-
----
-
-**[21 in 21: Michael Saylor on Bitcoin, AI, and Advice for Builders](https://www.youtube.com/watch?v=PIVWyjihxnA)**
-
-Michael Saylor joined Haley Berkoe on 21 in 21 for a rapid-fire conversation on bitcoin, AI, and what's coming next. He shares ...
-
-📺 Presidio Bitcoin
-
-👁️ 41K • 👍 2K • 💬 221 • ⏱️ 22:25 • 2d ago
+👁️ 9K • 👍 514 • 💬 8 • ⏱️ 2:00 • 1d ago
 
 ---
 
@@ -389,7 +381,17 @@ Coin Deals HERE https://solo.to/couchcollectibles FREE $15 Credit: https://www.w
 
 📺 Couch Collectibles
 
-👁️ 803 • 👍 32 • 💬 1 • ⏱️ 2:52 • 6h ago
+👁️ 914 • 👍 35 • 💬 1 • ⏱️ 2:52 • 7h ago
+
+---
+
+**[🚨 Stop watching Bitcoin price.. watch THIS instead 👀](https://www.youtube.com/watch?v=sl6uc52-XuY)**
+
+0% Fees on Gold And Silver (Earn $300k): https://www.weex.com/events/promo/0fees-gold-silver-300k?vipCode=oz5p ...
+
+📺 Altcoin Daily
+
+👁️ 10K • 👍 310 • 💬 57 • ⏱️ 1:06 • 1d ago
 
 ---
 
