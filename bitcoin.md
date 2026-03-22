@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-22T14:29:26.805184+00:00'
+updated: '2026-03-22T14:55:28.041181+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- social
 - news
 - videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 14:29 UTC  
+**Last Updated:** March 22, 2026 at 14:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Link to the Bitcoin history in El Zonte, but I'm sure you can find and share even better articles: https://wildcatsandblacksheep.com/the-salvadoran-beach-town-that-became-a-bitcoin-testbed/
 
-33m ago
+59m ago
 
 ---
 
@@ -121,7 +121,7 @@ An excellent book about all the details, even people who fought the Blocksize wa
 
 Sometimes it doesn't feel real that we're under $70K right now and have the opportunity to buy at this time. Looking back in a few years and we'll all wish that we had this chance again. I'm trying to get as much as I can right now because once that ship sails... It's gone my friends. Just putting the NOW in perspective. I always look back and regret not buying early, but not this time.
 
-40m ago
+1h ago
 
 ---
 
@@ -135,7 +135,7 @@ Been watching the markets lately and keep wanting to throw more money at these l
 
 **[The Code of Liberty: Why Bitcoin is the Only True Constitutional Money.](https://www.reddit.com/r/Bitcoin/comments/1s0hhko/the_code_of_liberty_why_bitcoin_is_the_only_true/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-code-of-liberty-why-bitcoin-is) • 4h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-code-of-liberty-why-bitcoin-is) • 5h ago
 
 ---
 
@@ -161,7 +161,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 The average production cost was sitting at $88,000 per bitcoin in mid-March, according to Checkonchain's difficulty regression model.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -189,7 +189,7 @@ The Motley Fool • 3h ago
 
 Risk is real but limited today, says Galaxy. Bitcoin is already preparing, the firm found. Debate remains divided. Bitcoin may already be adapting to the ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -249,7 +249,7 @@ Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in
 
 Difficulty is now nearly 10% below where it started the year, despite a sharp 14.7% rebound in February after weather-related disruptions subsided.
 
-⬆️ 5 • 💬 1 • 8h ago • [The Block](https://www.theblock.co/post/394579/bitcoin-mining-difficulty-drops-7-8-as-miner-exodus-accelerates-amid-ai-pivot)
+⬆️ 5 • 💬 1 • 9h ago • [The Block](https://www.theblock.co/post/394579/bitcoin-mining-difficulty-drops-7-8-as-miner-exodus-accelerates-amid-ai-pivot)
 
 ---
 
@@ -339,7 +339,7 @@ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 
 
 📺 Altcoin Daily
 
-👁️ 22K • 👍 1K • 💬 181 • ⏱️ 8:36 • 16h ago
+👁️ 22K • 👍 1K • 💬 181 • ⏱️ 8:36 • 17h ago
 
 ---
 
@@ -359,7 +359,7 @@ Bitcoin Vegas 2026: https://fxo.co/JAmn Welcome to the Crypto Lifer Channel! JOI
 
 📺 Crypto Lifer
 
-👁️ 5K • 👍 330 • 💬 107 • ⏱️ 1:10:20 • 12h ago
+👁️ 5K • 👍 330 • 💬 107 • ⏱️ 1:10:20 • 13h ago
 
 ---
 

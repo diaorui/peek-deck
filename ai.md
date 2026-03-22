@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-22T14:29:26.797493+00:00'
+updated: '2026-03-22T14:55:28.032758+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- social
 - news
 - videos
-- social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 22, 2026 at 14:29 UTC  
+**Last Updated:** March 22, 2026 at 14:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Every time I walk in the city everyone is sad and depressed and unhappy. I work 
 
 Focus Features is offering Reddit users free tickets to a special advanced screening of The AI Doc: Or How I Became an Apocaloptimist, ahead of its regular release. The screenings will take place at 2 different theaters in NYC (AMC Lincoln Square) and LA (AMC The Grove) on Thursday 3/26 at 7 PM. You can bring a guest as well. It's from director Daniel Roher, who won the Best Documentary Oscar for his 2022 film Navalny. If you're in that area and are interested in attending this special event ahead of the regular release, for free, please fill out this form for your free ticket(s): LA: https://forms.gle/FvRZZLbrteYfb8ePA NY: https://forms.gle/L28h4fpWf96ExjKz6 The NY screening is at: AMC Lincoln Square | 1998 Broadway, New York, NY 10023 The LA screening is at : AMC The Grove | 189 The Grove Dr, Los Angeles, CA 90036 Trailer: https://www.youtube.com/watch?v=xkPbV3IRe4Y Synopsis: Hoping to figure out what's happening with artificial intelligence, a father-to-be embarks on an eye-opening journey to learn more about the most powerful technology humanity has ever created -- and what's at stake if we get it wrong. You will get your tickets by email a couple of days before the screening.
 
-1h ago
+2h ago
 
 ---
 
@@ -73,7 +73,7 @@ Growth without people.
 
 I keep seeing more and more companies say that they're going to reduce hallucination and drift and mistakes made by Al by adding supervisor or manager Al on top of them that will review everything that those Al agents are doing. that seems to be the way. another thing I'm seeing is adding multiple Al judges to evaluate the output and those companies are running around touting their low percentage false positives or mistakes adding additional Al agents on top of Al agents reduce mistakes is like wrapping yourself in a wet blanket and then adding more with blankets to keep you warm when you're freezing. you will freeze, it will just take longer, and it's going to use a lot of blankets. I don't understand. the blind warship of pure Al solutions. we have software that can achieve determinism. we know this. hybrid solutions between Al and software is the only way forward
 
-11h ago
+12h ago
 
 ---
 
@@ -125,7 +125,7 @@ SysSignal is for people who follow AI + data center infrastructure. It aggregate
 
 Dozens of Instagram and TikTok accounts have used AI avatars to promote explicit content, the BBC finds.
 
-BBC • 13h ago
+BBC • 14h ago
 
 ---
 
@@ -149,13 +149,13 @@ The New York Times • 1h ago
 
 A recent Spotify-ChatGPT deal is one more sign of how AI may be the best defense for a streaming music service in a me-too market for subscribers.
 
-CNBC • 10m ago
+CNBC • 36m ago
 
 ---
 
 **[Elon Musk announces $20B Terafab chip plant for Austin as AI ambitions escalate](https://www.kxan.com/news/local/austin/musk-announces-20b-terafab-chip-plant-for-austin-as-ai-ambitions-escalate/)**
 
-KXAN Austin • 10h ago
+KXAN Austin • 11h ago
 
 ---
 
@@ -163,7 +163,7 @@ KXAN Austin • 10h ago
 
 Grok, how do you make chips?
 
-The Verge • 22m ago
+The Verge • 48m ago
 
 ---
 
@@ -171,7 +171,7 @@ The Verge • 22m ago
 
 Elon Musk’s “Terafab” in Austin aims to secure chip supply for Tesla & SpaceX, powering AI, robotics and space computing amid shortages—read more now.
 
-Seeking Alpha • 23m ago
+Seeking Alpha • 49m ago
 
 ---
 
@@ -191,7 +191,7 @@ WSJ • 23h ago
 
 **[Tencent integrates WeChat with OpenClaw AI agent amid China tech battle](https://www.reuters.com/technology/tencent-integrates-wechat-with-openclaw-ai-agent-amid-china-tech-battle-2026-03-22/)**
 
-Reuters • 6h ago
+Reuters • 7h ago
 
 ---
 
@@ -225,7 +225,7 @@ Imagine a newspaper publisher announcing it will no longer allow libraries to ke
 
 **[Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning](https://news.ycombinator.com/item?id=47467913)**
 
-⬆️ 176 • 💬 101 • 22h ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
+⬆️ 176 • 💬 101 • 23h ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
 
 ---
 
@@ -268,7 +268,7 @@ The daemon has existed for a long time, and has been marked as "experimental" fo
 
 Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of hallucinations’, after investigation by newspaper where he was once editor-in-chief
 
-⬆️ 90 • 💬 76 • 23h ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes)
+⬆️ 90 • 💬 76 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes)
 
 ---
 
@@ -478,7 +478,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 3,311 • ❤️ 176 • 14h ago
+⬇️ 3,311 • ❤️ 176 • 15h ago
 
 ---
 
@@ -569,7 +569,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabilities, multi-turn generation, and instruction-following control through natural-language descriptions, utilizing a multi-stage training approach and production-ready inference engine.
 
-▲ 34 • 💬 2 • ⭐ 28,624 • 12d ago
+▲ 34 • 💬 2 • ⭐ 28,624 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.08823) • [💻 code](https://github.com/fishaudio/fish-speech) • [🔗 project](https://fish.audio/)
 
@@ -701,7 +701,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 10.0k • 🔱 509 • 19m ago
+⭐ 10.0k • 🔱 509 • 45m ago
 
 ---
 
@@ -721,7 +721,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 4.1k • 🔱 353 • 2m ago
+⭐ 4.1k • 🔱 353 • 28m ago
 
 ---
 
