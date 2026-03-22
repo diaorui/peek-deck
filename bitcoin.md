@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-21T23:49:26.149286+00:00'
+updated: '2026-03-22T02:24:50.430674+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 21, 2026 at 23:49 UTC  
+**Last Updated:** March 22, 2026 at 02:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,000.00
+### $68,875.98
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
-**7d:** -4.2%  
-**30d:** +2.4%  
-**90d:** -21.1%  
-**1y:** -16.9%  
+**24h:** -2.3%  
+**7d:** -7.8%  
+**30d:** +1.5%  
+**90d:** -20.9%  
+**1y:** -19.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1403.51B
+**Market Cap:** $1380.33B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--44.4%
+-45.3%
 
 **All-Time Low:** $67.81
-+103342.0%
++101657.9%
 
 ---
 
 ## Fear & Greed Index
 
-### 12
+### 10
 **EXTREME FEAR**
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 An excellent book about all the details, even people who fought the Blocksize war might have missed: https://www.youtube.com/watch?v=6YtS5ZNuuTw And excellent explanation of r/thelightningnetwork: https://www.youtube.com/watch?v=yKdK-7AtAMQ A bonus video. Lyn Alden's Full Broken Money Thesis in under 50min: https://www.youtube.com/watch?v=k3NN_NZOdhY
 
-3h ago
+6h ago
 
 ---
 
@@ -89,13 +89,13 @@ An excellent book about all the details, even people who fought the Blocksize wa
 
 Morgan Stanley allows clients to allocate between 0-4% of their portfolioa to bitcoin. Even a modest 2% could add $160 Billion dollars in capital to the BTC market.
 
-🔗 [Bitcoin Magazine](https://share.google/eNr25Ee6vq1fB2Lv1) • 1h ago
+🔗 [Bitcoin Magazine](https://share.google/eNr25Ee6vq1fB2Lv1) • 4h ago
 
 ---
 
 **[RIP Legend](https://www.reddit.com/r/Bitcoin/comments/1rzh2xj/rip_legend/)**
 
-20h ago
+22h ago
 
 ---
 
@@ -103,13 +103,13 @@ Morgan Stanley allows clients to allocate between 0-4% of their portfolioa to bi
 
 Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perrenod
 
-13h ago
+15h ago
 
 ---
 
 **[Lightning Network might be already moving over $15B/year based on most recent data](https://www.reddit.com/r/Bitcoin/comments/1rztn0r/lightning_network_might_be_already_moving_over/)**
 
-🔗 [X (formerly Twitter)](https://x.com/LightningNewsX/status/2035261125630001359?s=20) • 8h ago
+🔗 [X (formerly Twitter)](https://x.com/LightningNewsX/status/2035261125630001359?s=20) • 11h ago
 
 ---
 
@@ -121,19 +121,19 @@ Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Al
 
 ---
 
-**[Bitcoin holder since 2015. Am I a veteran?](https://www.reddit.com/r/Bitcoin/comments/1rznteg/bitcoin_holder_since_2015_am_i_a_veteran/)**
-
-Holder since 2015. Never soldi. Slowly accumulating. Sometimes daily trading (with alternate results). A lot of "If I did that I wold have earned this much...", and "I should have done that when..." in my mind to keep me busy if I want. Now +50% or -50% in a month has noneffect on me, I simply zoom out. I also convinces two people to buy Bitcoin. Am I officially a veteran? Where Is my badge?😄
-
-13h ago
-
----
-
 **[FAFO Bitcoin investor here](https://www.reddit.com/r/Bitcoin/comments/1rzzwwb/fafo_bitcoin_investor_here/)**
 
 hi, just checking in to say hi I am generally a conservative broad index ETF investor for most of my savings but jn recent years have also been buying bitcoin and and now hold 1,1 BTC. I am torn between contirnuing to buy a bit every month or stopping altogether having achieve wholecoinership. I would be interested to know how other stackers approach this
 
-4h ago
+7h ago
+
+---
+
+**[Bitcoin holder since 2015. Am I a veteran?](https://www.reddit.com/r/Bitcoin/comments/1rznteg/bitcoin_holder_since_2015_am_i_a_veteran/)**
+
+Holder since 2015. Never soldi. Slowly accumulating. Sometimes daily trading (with alternate results). A lot of "If I did that I wold have earned this much...", and "I should have done that when..." in my mind to keep me busy if I want. Now +50% or -50% in a month has noneffect on me, I simply zoom out. I also convinces two people to buy Bitcoin. Am I officially a veteran? Where Is my badge?😄
+
+16h ago
 
 ---
 
@@ -141,15 +141,15 @@ hi, just checking in to say hi I am generally a conservative broad index ETF inv
 
 Bitcoin and cryptocurrency explained in a way that's fun and easy to understand.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=Jk7hYothBZw&t=2s) • 6h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=Jk7hYothBZw&t=2s) • 9h ago
 
 ---
 
-**[Cost to mine](https://www.reddit.com/r/Bitcoin/comments/1rzps0g/cost_to_mine/)**
+**[ckpool-solo Docker image with CPU optimisations for Intel and ARM](https://www.reddit.com/r/Bitcoin/comments/1s07sg8/ckpoolsolo_docker_image_with_cpu_optimisations/)**
 
-any insight on the approximate cost to mine 1 bitcoin? I appreciate it varies by miner but average and bands would be helpful any credible charts out there of bitcoin price relative to cost to mine?
+I have created a Docker version of ckpool. Unlike every other version I can find, this one uses all available assembly optimisations supported by ckpool for Intel and ARM CPUs. https://hub.docker.com/r/pdath/ckpool-solo https://github.com/pdath/ckpool-solo-docker
 
-11h ago
+1h ago
 
 ---
 
@@ -161,7 +161,7 @@ any insight on the approximate cost to mine 1 bitcoin? I appreciate it varies by
 
 Despite stabilizing spot prices, investors remain defensive, with leveraged speculation cooling and realized volatility dropping from 80 to 50, suggesting a cautious market sentiment.
 
-CoinDesk • 4h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -173,17 +173,11 @@ The Block • 1d ago
 
 ---
 
-**[Eric Trump Says 'Up We Go' After American Bitcoin Surpasses Galaxy Digital In Bitcoin Holdings — So Why Is The Stock Lagging?](https://finance.yahoo.com/markets/crypto/articles/eric-trump-says-american-bitcoin-150105170.html)**
+**[Bitcoin Got Its Biggest Regulatory Win In A Decade—And Dropped To $70,000 Anyway](https://finance.yahoo.com/markets/crypto/articles/bitcoin-got-biggest-regulatory-win-003117136.html)**
 
-American Bitcoin Corp. co-founder Eric Trump celebrated on Wednesday after the company surpassed Galaxy Digital Inc. in accumulating Bitcoin. ‘Climbing The Ladder Faster’ Trump took pride in the achievement on X, adding, “No company is climbing the ladder faster. Up,...
+“We’re not the securities and everything commission anymore,” SEC Chair Paul Atkins told a crypto conference on Tuesday, minutes after his agency and the CFTC jointly classified Bitcoin and 15 other tokens as digital commodities, not securities. The crowd cheered....
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin Falls Below $70,000. It’s Not Just the Fed Decision Dragging on the Crypto, XRP.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-fed-powell-oil-033bcaee?gaa_at=eafs&gaa_n=AWEtsqcNWarbJHx7XG1QBqoCOqnKpLfCw6nwiID56dKpZMVyXwPqek6O_90Y&gaa_ts=69bf31f5&gaa_sig=YyXRoAwX4TKztkWFWn-ZivyMVAyUShRyauJXcqJzi7lgRzg0dUQEbRAekQEGTgpY-O1J7RKjOKvYn9bcO2kgNA%3D%3D)**
-
-Barron's • 2d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -195,17 +189,23 @@ Financial Times • 1d ago
 
 ---
 
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1774131900)**
+**[White House Quietly Confirms A ‘Major’ Crypto Milestone As Bitcoin Braces For A Huge Price Earthquake](https://www.forbes.com/sites/digital-assets/2026/03/21/white-house-quietly-confirms-a-major-crypto-milestone-as-bitcoin-braces-for-a-huge-price-earthquake/)**
 
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 1h ago
+Forbes • 14h ago
 
 ---
 
-**[White House Quietly Confirms A ‘Major’ Crypto Milestone As Bitcoin Braces For A Huge Price Earthquake](https://www.forbes.com/sites/digital-assets/2026/03/21/white-house-quietly-confirms-a-major-crypto-milestone-as-bitcoin-braces-for-a-huge-price-earthquake/)**
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1774142700)**
 
-Forbes • 11h ago
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 1d ago
+
+---
+
+**[Bitcoin Falls Below $70,000. It’s Not Just the Fed Decision Dragging on the Crypto, XRP.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-fed-powell-oil-033bcaee?gaa_at=eafs&gaa_n=AWEtsqfIel9qGK5dqg-J6KvvRWqI5092kkb9mq_Gqt0jmALRUTVwUaxMwvfz&gaa_ts=69bf565e&gaa_sig=NDUDmDlxCA6AvSKJt0fwwrBygTsR_psc2pBOg_g5BjONkSAF2aBQoYMLY1FbsGzG8sipzrldmiRk4XoQmj-Sxw%3D%3D)**
+
+Barron's • 2d ago
 
 ---
 
@@ -217,9 +217,11 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Bitcoin Whale Strategy Defies Gravity When It Issues Stock. Is It Just Good Timing?](https://www.investors.com/news/mstr-stock-strategy-defies-gravity-stock-issuance-bitcoin/)**
+**[Bitcoin Price News: Two Early Bitcoin Holders Sold $117M BTC, but Whales Are Buying the Dip at Record Pace](https://247wallst.com/investing/2026/03/21/bitcoin-price-news-two-early-bitcoin-holders-sold-117m-btc-but-whales-are-buying-the-dip-at-record-pace/)**
 
-Investor's Business Daily • 1d ago
+Two Bitcoin OGs sold $117M in BTC after the Fed decision. But Bitcoin whale wallets are buying the dip as exchange reserves hit a 7-year low.
+
+24/7 Wall St. • 9h ago
 
 ---
 
@@ -259,7 +261,7 @@ Seal predictions and decisions with cryptographic proof anchored to Bitcoin. No 
 
 Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 33 chain analysis heuristics. Free, client-side, no tracking.
 
-⬆️ 1 • 💬 0 • 6h ago • [am-i.exposed](https://am-i.exposed/)
+⬆️ 1 • 💬 0 • 9h ago • [am-i.exposed](https://am-i.exposed/)
 
 ---
 
@@ -279,26 +281,6 @@ Contribute to Kristian5013/resonancenet development by creating an account on Gi
 
 ---
 
-**[BioContact assurance and status monitoring using human body communication](https://news.ycombinator.com/item?id=47459528)**
-
-⬆️ 1 • 💬 0 • 1d ago • [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2590123025045001)
-
----
-
-**[TrustAgentAI – Cryptographic receipts for MCP tool calls (non-repudiation layer)](https://news.ycombinator.com/item?id=47421489)**
-
-⬆️ 6 • 💬 0 • 3d ago
-
----
-
-**[Show HN: An event loop for asyncio written in Rust](https://news.ycombinator.com/item?id=47472041)**
-
-An event loop for asyncio written in Rust. Contribute to RustedBytes/rsloop development by creating an account on GitHub.
-
-⬆️ 3 • 💬 0 • 1h ago • [GitHub](https://github.com/RustedBytes/rsloop)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -309,7 +291,17 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 31K • 👍 2K • 💬 38 • ⏱️ 59:39 • 10h ago
+👁️ 36K • 👍 2K • 💬 131 • ⏱️ 59:39 • 13h ago
+
+---
+
+**[BIGGEST BITCOIN ANNOUNCEMENT IN OVER 1 YEAR?!](https://www.youtube.com/watch?v=3bFwFyButjg)**
+
+Bitcoin just scored a massive regulatory win that changes everything for developers and self-custody. The SEC and CFTC finally ...
+
+📺 Simply Bitcoin
+
+👁️ 7K • 👍 740 • 💬 48 • ⏱️ 21:11 • 3h ago
 
 ---
 
@@ -319,27 +311,17 @@ Bitcoin just went live at millions of businesses without anyone opting in. While
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 157 • ⏱️ 12:51 • 1d ago
+👁️ 20K • 👍 1K • 💬 155 • ⏱️ 12:51 • 1d ago
 
 ---
 
-**[NEW REPORT EXPOSES The $71 Trillion Secret Behind Bitcoin’s Next Move | EP 1465](https://www.youtube.com/watch?v=aC9XCqNsHYQ)**
+**[The US-Iran War Ended the $1,300 Bitcoin Secret.](https://www.youtube.com/watch?v=RqKPzOnpOeE)**
 
-New report exposes institutions have only just begun dipping their toes into bitcoin and 2026 is the year they make big moves .
+Bitcoin has been on a downward trajectory since October 2025 and everything that is sell pressure counts. Today we look at Iran's ...
 
-📺 Simply Bitcoin
+📺 Digital Asset News
 
-👁️ 8K • 👍 325 • 💬 75 • ⏱️ 1:30:42 • 1d ago
-
----
-
-**[This Bitcoin Signal Has Never Failed And It Just Signaled This…](https://www.youtube.com/watch?v=H03UCveRgCA)**
-
-Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
-
-📺 CryptosRus Extra
-
-👁️ 7K • 👍 397 • 💬 253 • ⏱️ 8:34 • 1d ago
+👁️ 7K • 👍 551 • 💬 31 • ⏱️ 30:18 • 6h ago
 
 ---
 
@@ -349,47 +331,37 @@ A classic case of the bear market blues for Bitcoin. Into The Cryptoverse Premiu
 
 📺 Benjamin Cowen
 
-👁️ 62K • 👍 4K • 💬 204 • ⏱️ 11:38 • 1d ago
+👁️ 63K • 👍 4K • 💬 204 • ⏱️ 11:38 • 1d ago
 
 ---
 
-**[Bitcoin Just Got Its Biggest Institutional Endorsement](https://www.youtube.com/watch?v=JeIbpLfQ_oI)**
+**[Exactly How Bitcoin Reaches $1.5 Million By 2030 (3 Experts Explain)](https://www.youtube.com/watch?v=gpRhzWFZEmM)**
 
-A central bank buying Bitcoin would change everything. Not because of the amount… But because of what it signals. In this video ...
+Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: ...
 
-📺 Tim Talks Finance
+📺 Altcoin Daily
 
-👁️ 3K • 👍 172 • 💬 38 • ⏱️ 18:40 • 1d ago
-
----
-
-**[“I’m still on record that Bitcoin will be $500,000 by the end of the decade.”](https://www.youtube.com/watch?v=v6PQeqlyT5g)**
-
-Ric Edelman gives Jenn Sanasie his Bitcoin prediction if the CLARITY Act passes. Full episode: https://youtu.be/bv_-UQG3ork.
-
-📺 CoinDesk
-
-👁️ 6K • 👍 21 • 💬 3 • ⏱️ 0:19 • 17h ago
+👁️ 9K • 👍 732 • 💬 91 • ⏱️ 8:36 • 4h ago
 
 ---
 
-**[BITCOIN: Don’t F**K This Up! (it’s coming) - BTC Price Prediction Today](https://www.youtube.com/watch?v=z5IUxATrPvI)**
+**[I bought Bitcoin Cards at Target? #bitcoin](https://www.youtube.com/watch?v=R3_ip5GwMF8)**
 
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
+Coin Deals HERE https://solo.to/couchcollectibles FREE $15 Credit: https://www.whatnot.com/invite/couchcollectibles ...
 
-📺 BitcoinHyper
+📺 Couch Collectibles
 
-👁️ 8K • 👍 464 • 💬 35 • ⏱️ 13:09 • 12h ago
+👁️ 176 • 👍 17 • 💬 1 • ⏱️ 2:52 • 24m ago
 
 ---
 
-**[Why 0.21 Bitcoin Is The Mathematical Tipping Point (5 Year FIRE Blueprint)](https://www.youtube.com/watch?v=SeEvzpP1sQc)**
+**[JUST IN: CNBC Accidentally Reveals Massive Crypto News | Clarity Act](https://www.youtube.com/watch?v=47Rl-dnSMz4)**
 
-Why 0.21 Bitcoin Is The Mathematical Tipping Point (5-Year Blueprint) There will only ever be enough Bitcoin mathematically for ...
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Buy, Sell, Trade Coins ($500 Bonus + $30k ...
 
-📺 Brad Long
+📺 Altcoin Daily
 
-👁️ 2K • 👍 100 • 💬 55 • ⏱️ 12:32 • 1d ago
+👁️ 48K • 👍 3K • 💬 288 • ⏱️ 9:50 • 1d ago
 
 ---
 
@@ -399,7 +371,15 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 My Channel
 
-👁️ 6K • 👍 1K • 10h ago
+👁️ 6K • 👍 1K • 12h ago
+
+---
+
+**[😱XRP ETF IN SERIOUS TROUBLE! ZERO INFLOWS OR OUTFLOW RECORDED #bitcoin #crypto #xrp](https://www.youtube.com/watch?v=ACQ3uWr4Noo)**
+
+📺 CryptoWendyO
+
+👁️ 8K • 👍 493 • 💬 8 • ⏱️ 2:00 • 1d ago
 
 ---
 
