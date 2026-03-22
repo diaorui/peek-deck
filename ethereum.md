@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-22T09:34:38.650910+00:00'
+updated: '2026-03-22T10:28:56.382574+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - social
 - videos
-- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 09:34 UTC  
+**Last Updated:** March 22, 2026 at 10:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi everyone, I'd really appreciate some feedback on something we're building on Ethereum. This is pretty much my first time doing this, but my co-founder is way more experienced, he's been a Web3 engineer for a long time. You probably know there are already some projects putting public stocks on-chain as RWAs. What we're trying to do is a bit different: bring the actual chain of custody on-chain for those shares. The issue with normal shares is they're totally fungible so you have zero clue who owned it before you. We want to track that history to unlock some "cultural premium" value as an RWA. Kind of like NFTs but for real shares. For example imagine proving your TSLA share was once held by Elon Musk. That kind of story probably makes it worth more to some people. To make it work we take verified shares (held in proper custody) and wrap them as provenance-wrapped shares on Ethereum smart contracts, using something like ERC-1155 for semi-fungible units, and record the full ownership chain in metadata or on-chain events. We're still in the middle of building, no live contracts or actual trading yet. Just trying to get real opinions early and figure if we're onto something or is this just dumb as hell. It would mean a lot to hear what Ethereum people think: Does provenance tracking for equities as RWAs actually sound useful/valuable, or is it kind of a gimmick? You can check out the demo to see how we're thinking about it in practice: https://provenantx.com https://preview.redd.it/fru8qps46iqg1.png?width=624&format=png&auto=webp&s=d93019bd8ad4a09695879f36d7c32f6f80436582 Thanks a ton for any thoughts!
 
-7h ago
+8h ago
 
 ---
 
@@ -156,7 +156,7 @@ Seen some past posts that people had lost their wallets and this might help thos
 
 Ethereum, XRP, and Solana prices remained firm as the broader crypto market hovered slightly above the $70,000 level on renewed optimism.   Ethereum price
 
-CoinGape • 22h ago
+CoinGape • 23h ago
 
 ---
 
@@ -172,7 +172,7 @@ Polymarket • 2mo ago
 
 Ethereum’s native token, Ether BITSTAMP:ETHUSD, may rise by around 25% in the coming months as its richest whale group becomes profitable for the first time since early February.Key takeaways:Whale metric signals ETH is bottoming alreadyThe unrealized profit ratio of wallets holding more than 100,0…
 
-TradingView • 17h ago
+TradingView • 18h ago
 
 ---
 
@@ -240,7 +240,7 @@ BlackRock just launched a staking Ethereum ETF—but is it really a win for inve
 
 📺 Coin Bureau
 
-👁️ 14K • 👍 674 • 💬 79 • ⏱️ 18:11 • 19h ago
+👁️ 14K • 👍 674 • 💬 79 • ⏱️ 18:11 • 20h ago
 
 ---
 
@@ -260,7 +260,7 @@ BITCOIN PRICE HISTORY REPEATING (Get Ready)!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 6K • 👍 265 • 💬 126 • ⏱️ 13:52 • 10h ago
+👁️ 6K • 👍 265 • 💬 126 • ⏱️ 13:52 • 11h ago
 
 ---
 
@@ -328,7 +328,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 271 • 👍 8 • 💬 2 • ⏱️ 4:56 • 1d ago
+👁️ 271 • 👍 8 • 💬 2 • ⏱️ 4:56 • 2d ago
 
 ---
 
