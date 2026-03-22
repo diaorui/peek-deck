@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-22T05:54:56.235490+00:00'
+updated: '2026-03-22T06:54:20.075645+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- social
 - videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 22, 2026 at 05:54 UTC  
+**Last Updated:** March 22, 2026 at 06:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I am a painter with work at MoMA and the Met. I just published 50 years of my work as an open AI dataset. Here is what I learned. I have been making figurative art since the 1970s. Oil on canvas, works on paper, drawings, etchings, lithographs, and more recently digital works. My paintings are in the collections of the Metropolitan Museum of Art, MoMA, SFMOMA, and the British Museum. Earlier this month I published my entire catalog raisonne as an open dataset on Hugging Face. Roughly 3,000 to 4,000 documented works with full metadata, CC-BY-NC-4.0 licensed. My total output is about double that and I will keep adding to it. In one week the dataset has had over 2,500 downloads. I am not a developer or a researcher. I am an artist who has spent fifty years painting the human figure. I did this because I want my work to have a future and the future involves AI. I would rather engage with that on my own terms than wait for it to happen to me. What surprised me is how quickly the research community found it and engaged with it. What did not surprise me is that the questions the dataset raises are the same questions my paintings have always asked. What does it mean to look at the human body? What does the machine see that the human does not? What does the human see that the machine cannot? I do not have answers. I have fifty years of looking. If you have downloaded it or are thinking about it I would genuinely like to hear what you are doing with it. Dataset: huggingface.co/datasets/Hafftka/michael-hafftka-catalog-raisonne
 
-1h ago
+2h ago
 
 ---
 
@@ -49,7 +49,7 @@ I am a painter with work at MoMA and the Met. I just published 50 years of my wo
 
 Growth without people.
 
-🔗 [driscollglobe.com](https://www.driscollglobe.com/p/the-intelligence-curse-is-coming) • 10h ago
+🔗 [driscollglobe.com](https://www.driscollglobe.com/p/the-intelligence-curse-is-coming) • 11h ago
 
 ---
 
@@ -57,7 +57,7 @@ Growth without people.
 
 I keep seeing more and more companies say that they're going to reduce hallucination and drift and mistakes made by Al by adding supervisor or manager Al on top of them that will review everything that those Al agents are doing. that seems to be the way. another thing I'm seeing is adding multiple Al judges to evaluate the output and those companies are running around touting their low percentage false positives or mistakes adding additional Al agents on top of Al agents reduce mistakes is like wrapping yourself in a wet blanket and then adding more with blankets to keep you warm when you're freezing. you will freeze, it will just take longer, and it's going to use a lot of blankets. I don't understand. the blind warship of pure Al solutions. we have software that can achieve determinism. we know this. hybrid solutions between Al and software is the only way forward
 
-3h ago
+4h ago
 
 ---
 
@@ -73,7 +73,7 @@ So we built an internal AI tool with a pretty detailed system prompt, includes i
 
 following up on a discussion from earlier a pattern that keeps showing up in real systems: most control happens after execution - retries - state checks - monitoring - idempotency patches but the actual decision to execute is often implicit if the agent can call the tool, the action runs in most other systems we separate: - capability (can call) - authority (allowed to execute) agents usually collapse those into one so the question becomes: where should the actual allow/deny decision live? - inside the agent loop? - inside tool wrappers? - as a centralized policy layer? - somewhere else entirely? or are we all still letting the agent decide and patching things after the fact?
 
-10h ago
+11h ago
 
 ---
 
@@ -81,7 +81,7 @@ following up on a discussion from earlier a pattern that keeps showing up in rea
 
 SysSignal is for people who follow AI + data center infrastructure. It aggregates news across the space and creates a daily summary of the biggest topics, so it’s easier to keep up without bouncing between sites. Mostly built it for myself, but figured others here might get value from it too. If you find feeds that would be useful you can submit them through the website and we can get them added in. Feel free to give any feedback and critiques!
 
-🔗 [syssignal.com](https://syssignal.com/) • 11h ago
+🔗 [syssignal.com](https://syssignal.com/) • 12h ago
 
 ---
 
@@ -121,7 +121,7 @@ Chemists may soon have one less rigorous step to worry about when searching for 
 
 Dozens of Instagram and TikTok accounts have used AI avatars to promote explicit content, the BBC finds.
 
-BBC • 5h ago
+BBC • 6h ago
 
 ---
 
@@ -129,19 +129,19 @@ BBC • 5h ago
 
 At Nvidia's GTC conference this week, CEO Nvidia Jensen Huang dedicated a major part of his keynote to OpenClaw, a technology that didn't exist six months ago.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
 **[Elon Musk announces $20B Terafab chip plant for Austin as AI ambitions escalate](https://www.kxan.com/news/local/austin/musk-announces-20b-terafab-chip-plant-for-austin-as-ai-ambitions-escalate/)**
 
-KXAN Austin • 2h ago
+KXAN Austin • 3h ago
 
 ---
 
 **[How Home Buyers Are Using AI for the Property Hunt](https://www.barrons.com/articles/home-buyers-sellers-use-ai-property-a1d24125?gaa_at=eafs&gaa_n=AWEtsqcUs6Ckt-9atyM9iD4-Yzq974ELk-NqR3LdSNZ8k2PPo9XSMa-iusl1&gaa_ts=69bf8796&gaa_sig=eMVCZ_K-f-3u4gfCC6q9OeIG9qvttI0aMoMqmRTQXs6GLr89QN577m0HLZIME5gSsPg39RQESfStzzyh7EZ5wA%3D%3D)**
 
-Barron's • 54m ago
+Barron's • 1h ago
 
 ---
 
@@ -149,13 +149,13 @@ Barron's • 54m ago
 
 Elon Musk said his Terafab project, a joint Tesla and SpaceX chip manufacturing initiative, will be needed to unlock a terawatt of AI computing power.
 
-Business Insider • 1h ago
+Business Insider • 2h ago
 
 ---
 
 **[Where Is Mojtaba Khamenei? Iran Fills the Gap With AI and Voice-Overs](https://www.wsj.com/world/middle-east/where-is-mojtaba-khamenei-iran-fills-the-gap-with-ai-and-voice-overs-912b3827?gaa_at=eafs&gaa_n=AWEtsqcILvNh3seJz9tERcfh_LtY-VFPU5rzDWmH7gKuwSctqw0JfcIoHlKr&gaa_ts=69bf8796&gaa_sig=_jrQj-91e5mmJiNeQHeXxLRBbDud5I11zmdXIexD5nI1WqZWS20W-SdBzpcZDL03qVRIuOiR4-4nwkWjq5GCHA%3D%3D)**
 
-WSJ • 14h ago
+WSJ • 15h ago
 
 ---
 
@@ -163,7 +163,7 @@ WSJ • 14h ago
 
 Iran war threatens semiconductor supply as key materials like helium and aluminum face disruption. What it means for AI and Big Tech.
 
-Morningstar • 21h ago
+Morningstar • 22h ago
 
 ---
 
@@ -171,7 +171,7 @@ Morningstar • 21h ago
 
 The US-Israeli war with Iran has put AI use in defence systems in the spotlight like never before. AI's exact role in the military, its accuracy and possible repercussions are slowly beginning to emerge…
 
-France 24 • 23h ago
+France 24 • 1d ago
 
 ---
 
@@ -179,7 +179,7 @@ France 24 • 23h ago
 
 “Researchers are interested in solving problems that have their curiosity. It’s not like we start off with the same goal of, what’s the future of humanity going to be?”
 
-Fortune • 16h ago
+Fortune • 17h ago
 
 ---
 
@@ -187,7 +187,7 @@ Fortune • 16h ago
 
 Michael Smith, 52, charged after flooding platforms with thousands of AI songs and boosting them with bots
 
-The Guardian • 10h ago
+The Guardian • 11h ago
 
 ---
 
@@ -215,13 +215,13 @@ As the Charles de Gaulle and its strike group approach the Middle East, Le Monde
 
 Imagine a newspaper publisher announcing it will no longer allow libraries to keep copies of its paper. That’s effectively what’s begun happening online in the last few months. The Internet Archive—the world’s largest digital library—has preserved newspapers since it went online in the mid-1990s....
 
-⬆️ 507 • 💬 140 • 22h ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
+⬆️ 507 • 💬 140 • 23h ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
 
 ---
 
 **[Tinybox – Offline AI device 120B parameters](https://news.ycombinator.com/item?id=47470773)**
 
-⬆️ 412 • 💬 251 • 9h ago • [tinygrad.org](https://tinygrad.org/#tinybox)
+⬆️ 412 • 💬 251 • 10h ago • [tinygrad.org](https://tinygrad.org/#tinybox)
 
 ---
 
@@ -249,7 +249,7 @@ Qwen3.5-9B scores 93.8% on 96 real security AI tests — within 4 points of GPT-
 
 **[Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning](https://news.ycombinator.com/item?id=47467913)**
 
-⬆️ 114 • 💬 64 • 14h ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
+⬆️ 114 • 💬 64 • 15h ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
 
 ---
 
@@ -262,7 +262,7 @@ Much faster and better search with the daemon
 
 The daemon has existed for a long time, and has been marked as "experimental" for
 
-⬆️ 88 • 💬 73 • 19h ago • [The Atuin Blog](https://blog.atuin.sh/atuin-v18-13/)
+⬆️ 88 • 💬 73 • 20h ago • [The Atuin Blog](https://blog.atuin.sh/atuin-v18-13/)
 
 ---
 
@@ -270,7 +270,7 @@ The daemon has existed for a long time, and has been marked as "experimental" fo
 
 Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of hallucinations’, after investigation by newspaper where he was once editor-in-chief
 
-⬆️ 84 • 💬 74 • 15h ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes)
+⬆️ 84 • 💬 74 • 16h ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes)
 
 ---
 
@@ -278,43 +278,23 @@ Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of halluci
 
 ## YouTube Videos: "ai"
 
-**[He Asked AI To Make Money. It Did.](https://www.youtube.com/watch?v=l0Vqm0ZIySc)**
-
-UPDATE! We just put together 2 mega guides for you. Guide #1 shows you exactly how to make money with AI Agents like Robby ...
-
-📺 Chris Koerner on The Koerner Office Podcast
-
-👁️ 108K • 👍 4K • 💬 545 • ⏱️ 30:54 • 1d ago
-
----
-
 **[Bernie vs. Claude](https://www.youtube.com/watch?v=h3AtWdeu_G0)**
 
 I spoke to Anthropic's AI agent Claude about AI collecting massive amounts of personal data and how that information is being ...
 
 📺 Senator Bernie Sanders
 
-👁️ 2.2M • 👍 132K • 💬 14K • ⏱️ 9:18 • 2d ago
+👁️ 2.3M • 👍 133K • 💬 14K • ⏱️ 9:18 • 2d ago
 
 ---
 
-**[🐙 Building AI Apps In 2026](https://www.youtube.com/watch?v=l__xK3lI-8U)**
+**[He Asked AI To Make Money. It Did.](https://www.youtube.com/watch?v=l0Vqm0ZIySc)**
 
-Want to get resources from this livestream? Sign up here so I can email them to you: https://www.lonelyoctopus.com/workshop ...
+UPDATE! We just put together 2 mega guides for you. Guide #1 shows you exactly how to make money with AI Agents like Robby ...
 
-📺 Tina Huang
+📺 Chris Koerner on The Koerner Office Podcast
 
-👁️ 11K • 👍 766 • 💬 41 • ⏱️ 1:26:45 • 14h ago
-
----
-
-**[Google Just Dropped New Antigravity AI and It Puts Heat on OpenAI](https://www.youtube.com/watch?v=zGzg0OnqQrk)**
-
-Google just dropped a major update to AI Studio, built around its new Antigravity coding agent, and it pushes Google much ...
-
-📺 AI Revolution
-
-👁️ 47K • 👍 1K • 💬 67 • ⏱️ 10:14 • 1d ago
+👁️ 118K • 👍 5K • 💬 558 • ⏱️ 30:54 • 1d ago
 
 ---
 
@@ -324,7 +304,27 @@ The AI boom has rocketed the stock prices of Nvidia, Amazon, Apple, Tesla, Micro
 
 📺 New Money
 
-👁️ 43K • 👍 2K • 💬 176 • ⏱️ 15:50 • 17h ago
+👁️ 47K • 👍 2K • 💬 182 • ⏱️ 15:50 • 18h ago
+
+---
+
+**[🐙 Building AI Apps In 2026](https://www.youtube.com/watch?v=l__xK3lI-8U)**
+
+Want to get resources from this livestream? Sign up here so I can email them to you: https://www.lonelyoctopus.com/workshop ...
+
+📺 Tina Huang
+
+👁️ 12K • 👍 788 • 💬 42 • ⏱️ 1:26:45 • 15h ago
+
+---
+
+**[Google Just Dropped New Antigravity AI and It Puts Heat on OpenAI](https://www.youtube.com/watch?v=zGzg0OnqQrk)**
+
+Google just dropped a major update to AI Studio, built around its new Antigravity coding agent, and it pushes Google much ...
+
+📺 AI Revolution
+
+👁️ 48K • 👍 1K • 💬 67 • ⏱️ 10:14 • 1d ago
 
 ---
 
@@ -334,17 +334,17 @@ Since ChatGPT's debut, AI has been framed as everything from a world-changing br
 
 📺 Bloomberg Television
 
-👁️ 27K • 👍 862 • 💬 131 • ⏱️ 12:20 • 15h ago
+👁️ 33K • 👍 999 • 💬 151 • ⏱️ 12:20 • 16h ago
 
 ---
 
-**[3 AI Models Just Predicted A SHOCKING XRP Price For 2026](https://www.youtube.com/watch?v=M-vJMfdR2OI)**
+**[White House roles out new AI BLUEPRINT](https://www.youtube.com/watch?v=5WTnJFd6ZwY)**
 
-Subscribe to my FREE Finance Newsletter now – weekly crypto & market insights delivered to your inbox: ...
+The Trump administration on Friday issued a legislative framework for a single national policy on artificial intelligence. The goal ...
 
-📺 Levi
+📺 The National Desk
 
-👁️ 17K • 👍 929 • 💬 133 • ⏱️ 9:26 • 12h ago
+👁️ 3K • 👍 24 • 💬 6 • ⏱️ 3:50 • 1d ago
 
 ---
 
@@ -354,27 +354,27 @@ Here's the AI News you probably missed this week. Head to http://hostinger.com/m
 
 📺 Matt Wolfe
 
-👁️ 51K • 👍 2K • 💬 188 • ⏱️ 35:30 • 1d ago
+👁️ 52K • 👍 2K • 💬 188 • ⏱️ 35:30 • 1d ago
 
 ---
 
-**[AI Bubble BURSTS - $2.5 Trillion Vanishes, 200-Day Support GONE, Correction WARNING](https://www.youtube.com/watch?v=-y2TrsIpceI)**
+**[AI Companies Are Falling Apart In Real Time...](https://www.youtube.com/watch?v=3b50waf_e8A)**
 
-The market doesn't send warnings in headlines. It sends them in signals. And one of the most important just triggered.
+Take your personal data back with Incogni! Use code FADS at the link below and get 60% off an annual plan: ...
 
-📺 House of El
+📺 Fads
 
-👁️ 86K • 👍 7K • 💬 798 • ⏱️ 8:26 • 15h ago
+👁️ 25K • 👍 2K • 💬 233 • ⏱️ 12:05 • 1d ago
 
 ---
 
-**[How AI is Causing a White Collar Purge](https://www.youtube.com/watch?v=Zcpj-U5lcAc)**
+**[Tesla Is Quietly Taking Control Of AI](https://www.youtube.com/watch?v=aeiEvdAH5Sc)**
 
-A generation was told that degrees meant security. Now those same jobs are disappearing, fast. From finance and law to tech and ...
+Tesla is strengthening control over the entire AI value chain, from compute to data to energy. Buying a Tesla? Use this referral link ...
 
-📺 The Infographics Show
+📺 Brighter with Herbert
 
-👁️ 162K • 👍 4K • 💬 1K • ⏱️ 13:28 • 1d ago
+👁️ 18K • 👍 939 • 💬 48 • ⏱️ 31:43 • 17h ago
 
 ---
 
@@ -390,7 +390,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 249,720 • ❤️ 745 • 11d ago
+⬇️ 249,720 • ❤️ 751 • 11d ago
 
 ---
 
@@ -402,7 +402,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 129,211 • ❤️ 1,001 • 1d ago
+⬇️ 129,211 • ❤️ 1,002 • 1d ago
 
 ---
 
@@ -426,7 +426,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 11,727 • ❤️ 696 • 10d ago
+⬇️ 11,727 • ❤️ 700 • 10d ago
 
 ---
 
@@ -438,7 +438,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 4,324 • ❤️ 273 • 2d ago
+⬇️ 4,324 • ❤️ 275 • 2d ago
 
 ---
 
@@ -448,7 +448,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 Foundation-1 is a structured text-to-sample model for music production, enabling precise control over instrumentation, timbre, FX, and musical structure (tempo, key, bar count) for generating coherent, production-ready audio loops.
 
-⬇️ 0 • ❤️ 217 • 5d ago
+⬇️ 0 • ❤️ 218 • 5d ago
 
 ---
 
@@ -460,19 +460,7 @@ GLM-OCR is a multimodal OCR model for complex document understanding, excelling 
 
 `image-to-text`
 
-⬇️ 3,119,740 • ❤️ 1,407 • 9d ago
-
----
-
-**[OmniCoder-9B](https://huggingface.co/Tesslate/OmniCoder-9B)**
-
-*Tesslate*
-
-OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajectories from frontier models, excelling in complex reasoning, error recovery, and tool use with a 262K native context window.
-
-`text-generation`
-
-⬇️ 17,367 • ❤️ 343 • 9d ago
+⬇️ 3,119,740 • ❤️ 1,407 • 10d ago
 
 ---
 
@@ -484,19 +472,31 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 335,992 • ❤️ 592 • 18d ago
+⬇️ 335,992 • ❤️ 593 • 18d ago
 
 ---
 
-**[Qwen3.5-9B](https://huggingface.co/Qwen/Qwen3.5-9B)**
+**[OmniCoder-9B](https://huggingface.co/Tesslate/OmniCoder-9B)**
 
-*Qwen*
+*Tesslate*
 
-Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient hybrid architecture, excelling in vision-language tasks, coding, and reasoning across 201 languages. It features a unified vision-language foundation and a long context window (262k tokens natively), making it suitable for complex multimodal applications.
+OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajectories from frontier models, excelling in complex reasoning, error recovery, and tool use with a 262K native context window.
 
-`image-text-to-text` `9.7B`
+`text-generation`
 
-⬇️ 3,016,919 • ❤️ 970 • 20d ago
+⬇️ 17,367 • ❤️ 344 • 9d ago
+
+---
+
+**[Nemotron-Cascade-2-30B-A3B](https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B)**
+
+*NVIDIA*
+
+Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling in reasoning and agentic tasks, achieving top performance on math (IMO 2025) and code reasoning (IOI 2025) benchmarks. It supports both 'thinking' and 'instruct' modes for versatile text generation.
+
+`text-generation` `31.6B`
+
+⬇️ 1,557 • ❤️ 158 • 7h ago
 
 ---
 
@@ -525,7 +525,7 @@ A multi-agent framework using large language models for stock trading simulates 
 Residual connections with PreNorm are standard in modern LLMs, yet they accumulate all layer outputs with fixed unit weights. This uniform aggregation causes uncontrolled hidden-state growth with depth, progressively diluting each layer's contribution. We propose Attention Residuals (AttnRes), which replaces this fixed accumulation with softmax attention over preceding layer outputs, allowing each layer to selectively aggregate earlier representations with learned, input-dependent weights. To address the memory and communication overhead of attending over all preceding layer outputs for large-scale model training, we introduce Block AttnRes, which partitions layers into blocks and attends over block-level representations, reducing the memory footprint while preserving most of the gains of full AttnRes. Combined with cache-based pipeline communication and a two-phase computation strategy, Block AttnRes becomes a practical drop-in replacement for standard residual connections with minimal overhead.
   Scaling law experiments confirm that the improvement is consistent across model sizes, and ablations validate the benefit of content-dependent depth-wise selection. We further integrate AttnRes into the Kimi Linear architecture (48B total / 3B activated parameters) and pre-train on 1.4T tokens, where AttnRes mitigates PreNorm dilution, yielding more uniform output magnitudes and gradient distribution across depth, and improves downstream performance across all evaluated tasks.
 
-▲ 132 • 💬 4 • ⭐ 2,419 • 6d ago
+▲ 133 • 💬 4 • ⭐ 2,419 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.15031) • [💻 code](https://github.com/MoonshotAI/Attention-Residuals)
 
@@ -569,20 +569,6 @@ Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabil
 
 ---
 
-**[OpenClaw-RL: Train Any Agent Simply by Talking](https://huggingface.co/papers/2603.10165)**
-
-*Yinjie Wang, Xuyang Chen, Xiaolong Jin et al. (5 authors)*
-
-🏢 Princeton AI Lab
-
-OpenClaw-RL framework enables policy learning from diverse next-state signals across multiple interaction modalities using asynchronous training with PRM judges and hindsight-guided distillation.
-
-▲ 134 • 💬 6 • ⭐ 3,917 • 11d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.10165) • [💻 code](https://github.com/Gen-Verse/OpenClaw-RL) • [🔗 project](https://github.com/Gen-Verse/OpenClaw-RL)
-
----
-
 **[MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild](https://huggingface.co/papers/2603.17187)**
 
 *Peng Xia, Jianwen Chen, Xinyu Yang et al. (13 authors)*
@@ -594,6 +580,20 @@ A continual meta-learning framework for large language model agents that jointly
 ▲ 116 • 💬 3 • ⭐ 2,278 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.17187) • [💻 code](https://github.com/aiming-lab/MetaClaw)
+
+---
+
+**[OpenClaw-RL: Train Any Agent Simply by Talking](https://huggingface.co/papers/2603.10165)**
+
+*Yinjie Wang, Xuyang Chen, Xiaolong Jin et al. (5 authors)*
+
+🏢 Princeton AI Lab
+
+OpenClaw-RL framework enables policy learning from diverse next-state signals across multiple interaction modalities using asynchronous training with PRM judges and hindsight-guided distillation.
+
+▲ 134 • 💬 6 • ⭐ 3,943 • 11d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.10165) • [💻 code](https://github.com/Gen-Verse/OpenClaw-RL) • [🔗 project](https://github.com/Gen-Verse/OpenClaw-RL)
 
 ---
 
@@ -629,7 +629,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 Great scientists have strong judgement and foresight, closely tied to what we call scientific taste. Here, we use the term to refer to the capacity to judge and propose research ideas with high potential impact. However, most relative research focuses on improving an AI scientist's executive capability, while enhancing an AI's scientific taste remains underexplored. In this work, we propose Reinforcement Learning from Community Feedback (RLCF), a training paradigm that uses large-scale community signals as supervision, and formulate scientific taste learning as a preference modeling and alignment problem. For preference modeling, we train Scientific Judge on 700K field- and time-matched pairs of high- vs. low-citation papers to judge ideas. For preference alignment, using Scientific Judge as a reward model, we train a policy model, Scientific Thinker, to propose research ideas with high potential impact. Experiments show Scientific Judge outperforms SOTA LLMs (e.g., GPT-5.2, Gemini 3 Pro) and generalizes to future-year test, unseen fields, and peer-review preference. Furthermore, Scientific Thinker proposes research ideas with higher potential impact than baselines. Our findings show that AI can learn scientific taste, marking a key step toward reaching human-level AI scientists.
 
-▲ 316 • 💬 8 • ⭐ 305 • 6d ago
+▲ 316 • 💬 8 • ⭐ 311 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.14473) • [💻 code](https://github.com/tongjingqi/AI-Can-Learn-Scientific-Taste) • [🔗 project](https://tongjingqi.github.io/AI-Can-Learn-Scientific-Taste/)
 
@@ -645,7 +645,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 48.5k • 🔱 6.7k • 1d ago
+⭐ 48.7k • 🔱 6.8k • 1d ago
 
 ---
 
@@ -655,7 +655,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 21.9k • 🔱 1.0k • 20h ago
+⭐ 22.0k • 🔱 1.0k • 21h ago
 
 ---
 
@@ -685,7 +685,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.2k • 🔱 741 • 23h ago
+⭐ 10.3k • 🔱 741 • 1d ago
 
 ---
 
@@ -695,7 +695,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 9.7k • 🔱 492 • 12h ago
+⭐ 9.7k • 🔱 494 • 2m ago
 
 ---
 
@@ -705,7 +705,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 6.1k • 🔱 917 • 7h ago
+⭐ 6.1k • 🔱 919 • 8h ago
 
 ---
 
@@ -715,7 +715,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 3.8k • 🔱 323 • 1h ago
+⭐ 3.8k • 🔱 327 • 22s ago
 
 ---
 
@@ -725,7 +725,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `Python` `ai-agents` `claude` `claude-code` `cloud-security` `cybersecurity`
 
-⭐ 3.6k • 🔱 355 • 16h ago
+⭐ 3.6k • 🔱 355 • 17h ago
 
 ---
 

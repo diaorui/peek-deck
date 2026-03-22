@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-22T05:54:56.250760+00:00'
+updated: '2026-03-22T06:54:20.093662+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 22, 2026 at 05:54 UTC  
+**Last Updated:** March 22, 2026 at 06:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
-16h ago
+17h ago
 
 ---
 
 **[Ringbot: A monocycle robot developed by the Robotics and Institute (RAI) that uses internal legs for balance and acrobatic maneuvers](https://www.reddit.com/r/robotics/comments/1rztuum/ringbot_a_monocycle_robot_developed_by_the/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -56,7 +56,7 @@ From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
 We’re running a pretty heavy autonomous stack on a single edge computer (ROS 2 Jazzy) — multiple high-res cameras, dense LiDARs, and radars all on one machine. We’re starting to hit serious compute + latency limits, especially with intra-process communication and recording. Right now we’re evaluating: Fast DDS Cyclone DDS Zenoh Iceoryx Also, as soon as we start recording with rosbag2, CPU usage spikes hard and we get frame drops across the system. Two questions for folks who’ve pushed ROS 2 hard on a single machine: For high-bandwidth intra-host comms on Jazzy, which RMW has actually given you the best real-world performance? How are you dealing with the rosbag2 overhead? Composable recorder node? Separate process? Or bypassing ROS entirely and logging raw sensor data? For context: we previously ran Humble + CycloneDDS + MCAP and saw similar bottlenecks. Curious what setups are working well in practice.
 
-9h ago
+10h ago
 
 ---
 
@@ -64,7 +64,7 @@ We’re running a pretty heavy autonomous stack on a single edge computer (ROS 2
 
 I want to make an aim-able phone holder with servos/steppers tucked in the base… and I don’t want to reinvent the wheel. Are there any references of this design? (Like a Simpson 3d printer, but simpler and for robot arms)
 
-9h ago
+10h ago
 
 ---
 
@@ -72,13 +72,13 @@ I want to make an aim-able phone holder with servos/steppers tucked in the base�
 
 It's one of the sample tasks I'm planning to demonstrate to the guests of my upcoming conference. ( 120 characters limit bypass )
 
-16h ago
+17h ago
 
 ---
 
 **[What do robotics engineers actually use day to day?](https://www.reddit.com/r/robotics/comments/1s0cxbu/what_do_robotics_engineers_actually_use_day_to_day/)**
 
-53m ago
+1h ago
 
 ---
 
@@ -86,7 +86,7 @@ It's one of the sample tasks I'm planning to demonstrate to the guests of my upc
 
 Testing the built-in 3D reconstruction algorithm of the Viobot2 — the result looks good. Has anyone used the Viobot2 for other DIY work? Can anyone share with me?
 
-15h ago
+16h ago
 
 ---
 
@@ -94,7 +94,7 @@ Testing the built-in 3D reconstruction algorithm of the Viobot2 — the result l
 
 Hey, I want to build a humanoid robot as a personal project — not necessarily life sized, maybe scaled down a bit. I came across InMoov and it looks amazing but I'm a bit intimidated by the non-printed hardware requirements like springs, metal rods, drilling into parts etc. I'm comfortable with electronics and embedded systems (Arduino/ESP32, servos, sensors) so that side doesn't scare me. It's more the mechanical assembly and sourcing all the non-printed hardware that feels overwhelming. Has anyone: Built InMoov and found ways to simplify the mechanical assembly? Found a good detailed step by step tutorial that makes it less intimidating? Found cheaper alternatives to the hardware components it needs? Built a simplified or scaled down version? Not looking for a perfect robot, just something that works and that I can build on over time. Any advice or experience would really help. Thanks
 
-8h ago
+9h ago
 
 ---
 
@@ -130,7 +130,7 @@ Business Insider • 2d ago
 
 This humanoid robot is learning tennis the same way I did—by playing. Plus a robot horse for the Year of the Fire Horse in this week's robot videos.
 
-IEEE Spectrum • 13h ago
+IEEE Spectrum • 14h ago
 
 ---
 
@@ -144,7 +144,7 @@ Reuters • 1d ago
 
 It took nature millions of years to create intelligent, adaptive species. Researchers at Northwestern University in Illinois are using AI to evolve robots in minutes. The result is a robot that is agile, highly adaptive, and technically indestructible.
 
-New Atlas • 17h ago
+New Atlas • 18h ago
 
 ---
 
@@ -198,7 +198,7 @@ Engadget • 2d ago
 
 📺 MachineWorks Studio
 
-👁️ 2.4M • 👍 2K • 💬 38 • ⏱️ 0:06 • 5d ago
+👁️ 2.5M • 👍 2K • 💬 38 • ⏱️ 0:06 • 5d ago
 
 ---
 
@@ -208,17 +208,7 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 243K • 👍 3K • 💬 2K • ⏱️ 2:07 • 2d ago
-
----
-
-**[Robots Took Revenge On Humans #shorts](https://www.youtube.com/watch?v=9qL50YtAVXo)**
-
-shorts.
-
-📺 Ramyox
-
-👁️ 26K • 💬 5 • ⏱️ 1:05 • 3d ago
+👁️ 247K • 👍 3K • 💬 2K • ⏱️ 2:07 • 2d ago
 
 ---
 
@@ -228,7 +218,17 @@ Video shows restaurant employees struggling to restrain a dancing robot that wen
 
 📺 NBC News
 
-👁️ 181K • 👍 2K • 💬 623 • ⏱️ 3:38 • 3d ago
+👁️ 183K • 👍 2K • 💬 624 • ⏱️ 3:38 • 3d ago
+
+---
+
+**[This wearable robot adds two mechanical legs behind you](https://www.youtube.com/watch?v=y1Jh2BtO-Ow)**
+
+CENTAUR ROBOT - wearable robot adds two legs behind people to help distribute the load ...
+
+📺 Unstoppable Gadgets
+
+👁️ 29K • 👍 342 • 💬 22 • ⏱️ 0:17 • 3d ago
 
 ---
 
@@ -238,17 +238,27 @@ Try the full AI cinematic workflow here: https://higgsfield.ai/s/cinema-studio-2
 
 📺 AI Revolution
 
-👁️ 21K • 👍 503 • 💬 43 • ⏱️ 13:18 • 6d ago
+👁️ 21K • 👍 504 • 💬 43 • ⏱️ 13:18 • 6d ago
 
 ---
 
-**[100+ Transformers Robot Car Transforming 2026 | Bumblebee, Tobot, Carbot Eating Dinosaur Satisfying](https://www.youtube.com/watch?v=_7fdS9GJVGE)**
+**[Elon Musk Just Unveiled &quot;Optima&quot; - The Female Version of the Tesla Robot](https://www.youtube.com/watch?v=445GqPQNm2E)**
 
-Welcome to the ultimate robot showdown of 2026! In this video, we feature over 100+ Transformers, Tobot, and Hello Carbot ...
+Fresh attention is building around a new concept reportedly linked to Elon Musk that explores a more human-like direction for ...
 
-📺 Prime Collects
+📺 Carros Show
 
-👁️ 21K • 👍 57 • ⏱️ 13:46 • 4d ago
+👁️ 2K • 👍 45 • 💬 7 • ⏱️ 8:13 • 4d ago
+
+---
+
+**[Spray-On Robot Skin Feels Strain Like Human Skin 🤖 #robotics #innovation #technology](https://www.youtube.com/watch?v=NGsP7tN0wuQ)**
+
+This Spray-On Electronic Skin Could Make Robots Feel More Like Humans. Researchers at KAIST have developed a new kind of ...
+
+📺 EcoZora
+
+👁️ 10K • 👍 26 • 💬 3 • ⏱️ 0:07 • 2d ago
 
 ---
 
@@ -258,17 +268,7 @@ The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrati
 
 📺 DPCcars
 
-👁️ 196K • 👍 2K • 💬 259 • ⏱️ 2:02 • 5d ago
-
----
-
-**[🎾🤖 INSANE! Researchers Can&#39;t Beat This #TennisRobot Anymore! #LATENT is Pro. #humanoid #robot #ai](https://www.youtube.com/watch?v=yqprFRLeZ48)**
-
-Humanoid tennis athletes are officially here! A team from Tsinghua University and Galbot just dropped LATENT, and it is ...
-
-📺 XRoboHub
-
-👁️ 167K • 👍 2K • 💬 279 • ⏱️ 0:23 • 6d ago
+👁️ 198K • 👍 2K • 💬 263 • ⏱️ 2:02 • 5d ago
 
 ---
 
@@ -278,15 +278,17 @@ War Robots Gameplay: Playing Spear and Atomizer on Ammit - Tier 4 My War Robots 
 
 📺 Manni-Gaming
 
-👁️ 6K • 👍 283 • 💬 43 • ⏱️ 12:20 • 16h ago
+👁️ 6K • 👍 294 • 💬 43 • ⏱️ 12:20 • 17h ago
 
 ---
 
-**[Ishowspeed Just Got Sued By A Robot😳](https://www.youtube.com/watch?v=WNDD0sX5sFQ)**
+**[🎾🤖 INSANE! Researchers Can&#39;t Beat This #TennisRobot Anymore! #LATENT is Pro. #humanoid #robot #ai](https://www.youtube.com/watch?v=yqprFRLeZ48)**
 
-📺 Unknown Matrix
+Humanoid tennis athletes are officially here! A team from Tsinghua University and Galbot just dropped LATENT, and it is ...
 
-👁️ 474K • 👍 3K • 💬 19 • ⏱️ 0:20 • 1d ago
+📺 XRoboHub
+
+👁️ 168K • 👍 2K • 💬 279 • ⏱️ 0:23 • 6d ago
 
 ---
 
