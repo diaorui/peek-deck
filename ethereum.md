@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-22T11:47:19.324660+00:00'
+updated: '2026-03-22T12:54:47.196197+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- social
 - news
 - cryptocurrency
-- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 11:47 UTC  
+**Last Updated:** March 22, 2026 at 12:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.5%  
+**24h:** -3.4%  
 **7d:** -11.4%  
-**30d:** +5.5%  
+**30d:** +5.6%  
 **90d:** -29.7%  
-**1y:** +3.9%  
+**1y:** +4.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi everyone, I'd really appreciate some feedback on something we're building on Ethereum. This is pretty much my first time doing this, but my co-founder is way more experienced, he's been a Web3 engineer for a long time. You probably know there are already some projects putting public stocks on-chain as RWAs. What we're trying to do is a bit different: bring the actual chain of custody on-chain for those shares. The issue with normal shares is they're totally fungible so you have zero clue who owned it before you. We want to track that history to unlock some "cultural premium" value as an RWA. Kind of like NFTs but for real shares. For example imagine proving your TSLA share was once held by Elon Musk. That kind of story probably makes it worth more to some people. To make it work we take verified shares (held in proper custody) and wrap them as provenance-wrapped shares on Ethereum smart contracts, using something like ERC-1155 for semi-fungible units, and record the full ownership chain in metadata or on-chain events. We're still in the middle of building, no live contracts or actual trading yet. Just trying to get real opinions early and figure if we're onto something or is this just dumb as hell. It would mean a lot to hear what Ethereum people think: Does provenance tracking for equities as RWAs actually sound useful/valuable, or is it kind of a gimmick? You can check out the demo to see how we're thinking about it in practice: https://provenantx.com https://preview.redd.it/fru8qps46iqg1.png?width=624&format=png&auto=webp&s=d93019bd8ad4a09695879f36d7c32f6f80436582 Thanks a ton for any thoughts!
 
-9h ago
+11h ago
 
 ---
 
@@ -160,23 +160,23 @@ CoinGape • 1d ago
 
 ---
 
+**[Ethereum flipped in 2026? Predictions & Odds](https://polymarket.com/event/eth-flipped-in-2026)**
+
+View real-time odds for "Ethereum flipped in 2026?" as of March 15, 2026 and trade on The World's Largest Prediction Market™
+
+Polymarket • 2mo ago
+
+---
+
 **[Ethereum eyes 25% rally as richest ETH whales return to 'profitable state'](https://www.tradingview.com/news/cointelegraph:29dd957b6094b:0-ethereum-eyes-25-rally-as-richest-eth-whales-return-to-profitable-state/)**
 
 Ethereum’s native token, Ether BITSTAMP:ETHUSD, may rise by around 25% in the coming months as its richest whale group becomes profitable for the first time since early February.Key takeaways:Whale metric signals ETH is bottoming alreadyThe unrealized profit ratio of wallets holding more than 100,0…
 
-TradingView • 19h ago
+TradingView • 20h ago
 
 ---
 
-**[Current price of Ethereum for March 20, 2026](https://fortune.com/article/price-of-ethereum-03-20-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 1d ago
-
----
-
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqdX4g_sVlMJMYBnsmhmIaKilLb8J2rbR8XF_04h7fStN4SQnH-3hAcQ&gaa_ts=69bfcdc8&gaa_sig=pmF1zEB4BGROIpWMiqk_uX9Zm_zgArG0H0u0alw-Bseu2TFHlijT2FiwTAX-ZxqBN3m_DepEv6VRNOI2DwEqWQ%3D%3D)**
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqeMI1wo_pdlIAeZWftn45p_0HevDGOU4lu__beukQ5Git88La6kvk5m&gaa_ts=69bfea01&gaa_sig=JOBny-5WsmZRgu2n_1yro0dgZS-lcQmvxTpjC421UepNQ7cPIjG3JpvT7MLRueuZW7OFn89ZZdm0A6NH0-Etuw%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -186,7 +186,7 @@ MarketWatch • 1d ago
 
 Ethereum bottom call backed by multiple signals, says Tom Lee. Strong upside narrative remains. Credibility tempered by past miss. Ethereum's price is once again at ...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -198,35 +198,33 @@ New York Post • 2d ago
 
 ---
 
-**[Inside Ethereum network’s efforts to become settlement layer for all AI activities](https://ambcrypto.com/inside-ethereum-networks-efforts-to-become-settlement-layer-for-all-ai-activities/)**
-
-Ethereum’s stablecoin flows remain strong, with BMNR staking ETH. Is this a setup to position Ethereum as the main settlement layer for AI?
-
-AMBCrypto • 8h ago
-
----
-
 **[QBridge: The First Non-Custodial Bridge Between Qubic and Ethereum](https://qubic.org/blog-detail/qbridge-qubic-ethereum-cross-chain-bridge)**
 
 QBridge connects Qubic to Ethereum with a non-custodial, audited cross-chain bridge. Lock QUBIC, mint wQUBIC as an ERC-20 token, and access Ethereum DeFi. IPO live in Epoch 205.
 
-Qubic • 23h ago
+Qubic • 1d ago
 
 ---
 
-**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1774157100)**
+**[Current price of Ethereum for March 20, 2026](https://fortune.com/article/price-of-ethereum-03-20-2026/)**
 
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Polymarket • 1d ago
+Fortune • 1d ago
 
 ---
 
-**[Zenith links Canton and Ethereum through atomic swaps](https://www.theblock.co/post/394288/zenith-links-canton-ethereum-through-atomic-swaps)**
+**[Will Ethereum Ever Hit $5,000?](https://www.fool.com/investing/2026/03/20/will-ethereum-ever-hit-5000/)**
 
-Canton developers said supporting programming languages outside of its native Daml could open the network to a wider pool of developers.
+Ethereum hit a new record high in 2025, but it still fell short of the $5,000 milestone.
 
-The Block • 2d ago
+The Motley Fool • 2d ago
+
+---
+
+**[Ethereum Chill: iShares ETHA ETF Sees $102 Million Exit as Token Slump Deepens](https://www.tipranks.com/news/cryptocurrencies/ethereum-chill-ishares-etha-etf-sees-102-million-exit-as-token-slump-deepens)**
+
+TipRanks • 1d ago
 
 ---
 
@@ -240,7 +238,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 Chad Colby
 
-👁️ 4K • 👍 1K • 1h ago
+👁️ 4K • 👍 1K • 2h ago
 
 ---
 
@@ -250,7 +248,7 @@ BlackRock just launched a staking Ethereum ETF—but is it really a win for inve
 
 📺 Coin Bureau
 
-👁️ 15K • 👍 712 • 💬 89 • ⏱️ 18:11 • 21h ago
+👁️ 15K • 👍 712 • 💬 89 • ⏱️ 18:11 • 22h ago
 
 ---
 
@@ -260,7 +258,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 92 • 👍 12 • 💬 1 • ⏱️ 4:47 • 1h ago
+👁️ 92 • 👍 12 • 💬 1 • ⏱️ 4:47 • 2h ago
 
 ---
 
@@ -270,7 +268,7 @@ In today's video I break down Bitcoin, Ethereum, stocks, oil, gold, and silver, 
 
 📺 James Crypto Guru
 
-👁️ 2K • 👍 115 • 💬 10 • ⏱️ 12:28 • 11h ago
+👁️ 2K • 👍 115 • 💬 10 • ⏱️ 12:28 • 12h ago
 
 ---
 
@@ -300,7 +298,7 @@ BITCOIN PRICE HISTORY REPEATING (Get Ready)!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 7K • 👍 278 • 💬 128 • ⏱️ 13:52 • 12h ago
+👁️ 7K • 👍 278 • 💬 128 • ⏱️ 13:52 • 14h ago
 
 ---
 
@@ -310,7 +308,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 2K • 👍 2K • 1h ago
+👁️ 2K • 👍 2K • 2h ago
 
 ---
 

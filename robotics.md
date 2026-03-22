@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-22T11:47:19.327889+00:00'
+updated: '2026-03-22T12:54:47.199368+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 22, 2026 at 11:47 UTC  
+**Last Updated:** March 22, 2026 at 12:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,27 @@ Robotics research and industry news
 
 From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
-22h ago
+23h ago
+
+---
+
+**[Spotted a Galbot running a coffee shop fully autonomously.](https://www.reddit.com/r/robotics/comments/1s0jhwg/spotted_a_galbot_running_a_coffee_shop_fully/)**
+
+Saw the Galbot in action today at a cafe. What’s impressive is that it’s operating completely autonomously—no human intervention required. Watching its dual-arm coordination handle the espresso machine and serving was a great example of embodied AI moving into real-world commercial applications. This isn't just a demo; it's a functioning business model.
+
+1h ago
 
 ---
 
 **[Ringbot: A monocycle robot developed by the Robotics and Institute (RAI) that uses internal legs for balance and acrobatic maneuvers](https://www.reddit.com/r/robotics/comments/1rztuum/ringbot_a_monocycle_robot_developed_by_the/)**
 
-20h ago
+21h ago
+
+---
+
+**[Real-time IMU VR tracking (ESP32 + ICM45686) streaming to PC — early test](https://www.reddit.com/r/robotics/comments/1s0jy7p/realtime_imu_vr_tracking_esp32_icm45686_streaming/)**
+
+47m ago
 
 ---
 
@@ -52,9 +66,9 @@ From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
 ---
 
-**[OpenMind had 8 robots on the open sidewalks at GTC. They autonomously navigated and can verbally interacted with people.](https://www.reddit.com/r/robotics/comments/1s0icut/openmind_had_8_robots_on_the_open_sidewalks_at/)**
+**[Followed a ROS2 tutorial, but my robot model looks completely different , not sure what I did](https://www.reddit.com/r/robotics/comments/1s0jhn1/followed_a_ros2_tutorial_but_my_robot_model_looks/)**
 
-From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2035439044151382398 OpenMind Robotics webstite: https://www.openmindrobotics.com/
+I’m currently learning ROS2 and working with Gazebo, so I followed a tutorial where the robot looks like this (first image : red/yellow block style) but when I built mine, I ended up with something like the second image (black robot with wheels + lidar). I didn’t intentionally change much, so I’m confused how it ended up so different. What I did: - Followed a ROS2 mobile robot tutorial - Set up the model + simulation in Gazebo - Added lidar and basic movement control What I’m noticing: - My model structure looks completely different - Visual + geometry doesn’t match tutorial - Not sure if I accidentally changed URDF/Xacro or used a different base model Questions: What could cause this kind of difference? Did I accidentally switch model type (like differential vs something else)? Is this normal when building your own model vs tutorial assets? Also — I’m documenting my learning journey (ROS2 + robotics), so any guidance would help a lot. Thanks!
 
 1h ago
 
@@ -64,15 +78,7 @@ From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2035439044151
 
 We’re running a pretty heavy autonomous stack on a single edge computer (ROS 2 Jazzy) — multiple high-res cameras, dense LiDARs, and radars all on one machine. We’re starting to hit serious compute + latency limits, especially with intra-process communication and recording. Right now we’re evaluating: Fast DDS Cyclone DDS Zenoh Iceoryx Also, as soon as we start recording with rosbag2, CPU usage spikes hard and we get frame drops across the system. Two questions for folks who’ve pushed ROS 2 hard on a single machine: For high-bandwidth intra-host comms on Jazzy, which RMW has actually given you the best real-world performance? How are you dealing with the rosbag2 overhead? Composable recorder node? Separate process? Or bypassing ROS entirely and logging raw sensor data? For context: we previously ran Humble + CycloneDDS + MCAP and saw similar bottlenecks. Curious what setups are working well in practice.
 
-15h ago
-
----
-
-**[Are there any cable driven 2 DOF mechanisms like this?](https://www.reddit.com/r/robotics/comments/1s02cv0/are_there_any_cable_driven_2_dof_mechanisms_like/)**
-
-I want to make an aim-able phone holder with servos/steppers tucked in the base… and I don’t want to reinvent the wheel. Are there any references of this design? (Like a Simpson 3d printer, but simpler and for robot arms)
-
-14h ago
+16h ago
 
 ---
 
@@ -80,7 +86,15 @@ I want to make an aim-able phone holder with servos/steppers tucked in the base�
 
 It's one of the sample tasks I'm planning to demonstrate to the guests of my upcoming conference. ( 120 characters limit bypass )
 
-22h ago
+23h ago
+
+---
+
+**[Are there any cable driven 2 DOF mechanisms like this?](https://www.reddit.com/r/robotics/comments/1s02cv0/are_there_any_cable_driven_2_dof_mechanisms_like/)**
+
+I want to make an aim-able phone holder with servos/steppers tucked in the base… and I don’t want to reinvent the wheel. Are there any references of this design? (Like a Simpson 3d printer, but simpler and for robot arms)
+
+16h ago
 
 ---
 
@@ -88,23 +102,7 @@ It's one of the sample tasks I'm planning to demonstrate to the guests of my upc
 
 Testing the built-in 3D reconstruction algorithm of the Viobot2 — the result looks good. Has anyone used the Viobot2 for other DIY work? Can anyone share with me?
 
-20h ago
-
----
-
-**[Want to build a humanoid robot for fun — looked into InMoov but intimidated by the hardware assembly. Any advice?](https://www.reddit.com/r/robotics/comments/1s03nk2/want_to_build_a_humanoid_robot_for_fun_looked/)**
-
-Hey, I want to build a humanoid robot as a personal project — not necessarily life sized, maybe scaled down a bit. I came across InMoov and it looks amazing but I'm a bit intimidated by the non-printed hardware requirements like springs, metal rods, drilling into parts etc. I'm comfortable with electronics and embedded systems (Arduino/ESP32, servos, sensors) so that side doesn't scare me. It's more the mechanical assembly and sourcing all the non-printed hardware that feels overwhelming. Has anyone: Built InMoov and found ways to simplify the mechanical assembly? Found a good detailed step by step tutorial that makes it less intimidating? Found cheaper alternatives to the hardware components it needs? Built a simplified or scaled down version? Not looking for a perfect robot, just something that works and that I can build on over time. Any advice or experience would really help. Thanks
-
-14h ago
-
----
-
-**[Range of motion evaluation test for my homemade robotic hand & wrist](https://www.reddit.com/r/robotics/comments/1ryzwte/range_of_motion_evaluation_test_for_my_homemade/)**
-
-Showcasing the newest version (v20) of my hand & wrist combo! Same as the last version, it's a combination of direct- and tendon-driven actuation, still with 19 joints and 10 active DOFs. It has independent finger flexion, a 3-DOF thumb, linked finger splay, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist which measures joint position (at the motor output), current, and temperature. And all the movements were programmed with custom C#/C++ software. Improved from the last version, the base thumb joints were switched to direct drive and much beefier motors were swapped in for the wrist joints - improving strength and repeatability under heavier loads. Despite these new motors though, the form factor remains nearly identical to v19, spare a few millimeters of thickness and height. Some more minor changes: (1) ASA and carbon fiber filaments replaced basic PLA to improve rigidity and strength, (2) the power input was switched to an XT30 connector to accommodate the more power-hungry motors, and (3) better filtering and chips to reduce current and position signal noise. Still making incremental improvements here and there, but happy to answer any questions and hear your thoughts!
-
-1d ago
+22h ago
 
 ---
 
@@ -132,7 +130,7 @@ Business Insider • 2d ago
 
 This humanoid robot is learning tennis the same way I did—by playing. Plus a robot horse for the Year of the Fire Horse in this week's robot videos.
 
-IEEE Spectrum • 18h ago
+IEEE Spectrum • 20h ago
 
 ---
 
@@ -140,7 +138,7 @@ IEEE Spectrum • 18h ago
 
 It took nature millions of years to create intelligent, adaptive species. Researchers at Northwestern University in Illinois are using AI to evolve robots in minutes. The result is a robot that is agile, highly adaptive, and technically indestructible.
 
-New Atlas • 23h ago
+New Atlas • 1d ago
 
 ---
 
@@ -210,7 +208,7 @@ COGLET KICKSTARTER LAUNCH: ...
 
 📺 Will Cogley
 
-👁️ 15K • 👍 1K • 💬 62 • ⏱️ 10:35 • 1d ago
+👁️ 15K • 👍 1K • 💬 62 • ⏱️ 10:35 • 2d ago
 
 ---
 
