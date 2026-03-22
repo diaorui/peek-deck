@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-22T10:55:59.581712+00:00'
+updated: '2026-03-22T11:25:44.220257+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 22, 2026 at 10:55 UTC  
+**Last Updated:** March 22, 2026 at 11:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
-21h ago
+22h ago
 
 ---
 
 **[Ringbot: A monocycle robot developed by the Robotics and Institute (RAI) that uses internal legs for balance and acrobatic maneuvers](https://www.reddit.com/r/robotics/comments/1rztuum/ringbot_a_monocycle_robot_developed_by_the/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -56,7 +56,7 @@ From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
 From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2035439044151382398 OpenMind Robotics webstite: https://www.openmindrobotics.com/
 
-19m ago
+48m ago
 
 ---
 
@@ -80,7 +80,7 @@ I want to make an aim-able phone holder with servos/steppers tucked in the base�
 
 It's one of the sample tasks I'm planning to demonstrate to the guests of my upcoming conference. ( 120 characters limit bypass )
 
-21h ago
+22h ago
 
 ---
 
@@ -116,7 +116,7 @@ Showcasing the newest version (v20) of my hand & wrist combo! Same as the last v
 
 The long read: How close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find out
 
-The Guardian • 2d ago
+The Guardian • 3d ago
 
 ---
 
@@ -140,13 +140,13 @@ IEEE Spectrum • 18h ago
 
 It took nature millions of years to create intelligent, adaptive species. Researchers at Northwestern University in Illinois are using AI to evolve robots in minutes. The result is a robot that is agile, highly adaptive, and technically indestructible.
 
-New Atlas • 22h ago
+New Atlas • 23h ago
 
 ---
 
 **[Unitree plans Shanghai IPO, testing interest in humanoid robots](https://www.reuters.com/world/asia-pacific/unitree-plans-shanghai-ipo-testing-interest-humanoid-robots-2026-03-20/)**
 
-Reuters • 1d ago
+Reuters • 2d ago
 
 ---
 
@@ -200,7 +200,7 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 251K • 👍 3K • 💬 2K • ⏱️ 2:07 • 2d ago
+👁️ 251K • 👍 3K • 💬 2K • ⏱️ 2:07 • 3d ago
 
 ---
 
