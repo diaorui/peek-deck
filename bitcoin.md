@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-22T14:55:28.041181+00:00'
+updated: '2026-03-22T15:27:57.567909+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 14:55 UTC  
+**Last Updated:** March 22, 2026 at 15:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Link to the Bitcoin history in El Zonte, but I'm sure you can find and share even better articles: https://wildcatsandblacksheep.com/the-salvadoran-beach-town-that-became-a-bitcoin-testbed/
 
-59m ago
+1h ago
 
 ---
 
@@ -89,7 +89,7 @@ Link to the Bitcoin history in El Zonte, but I'm sure you can find and share eve
 
 About 10 years ago, I bought 0.2 Bitcoin out of curiosity, and recently I happened upon the document where I wrote down the information about it. There are a few user names and passwords that I don’t quite know what they are good for, so I installed Bluewallet (iOS) which asked me for a seed. So I entered this “seed“ phrase, which seems to be correct, and now I can see the balance (0.218797) in my BlueWallet wallet. 1) I guess this means that I could sell these 0.21…. Bitcoin if I wanted to (I don’t want to, it’s hypothetical)? Would I need a password? Im pretty sure i have the correct password, but how can I test this without actually selling anything? 2) I don’t understand where my 0.2… Bitcoin is stored. I think it’s not stored on my device, otherwise I wouldn’t need the seed phrase to access it, right? So how can I know where it is stored? 3) (Related to Q 2): If I wanted to buy a little more, how could I add that to my existing balance rather than creating a new wallet? Thanks in advance
 
-2h ago
+3h ago
 
 ---
 
@@ -97,7 +97,7 @@ About 10 years ago, I bought 0.2 Bitcoin out of curiosity, and recently I happen
 
 Morgan Stanley allows clients to allocate between 0-4% of their portfolioa to bitcoin. Even a modest 2% could add $160 Billion dollars in capital to the BTC market.
 
-🔗 [Bitcoin Magazine](https://share.google/eNr25Ee6vq1fB2Lv1) • 16h ago
+🔗 [Bitcoin Magazine](https://share.google/eNr25Ee6vq1fB2Lv1) • 17h ago
 
 ---
 
@@ -105,7 +105,7 @@ Morgan Stanley allows clients to allocate between 0-4% of their portfolioa to bi
 
 Hey all, I have a friend who is definitely not tech-savvy who mentioned that she bought about 20 BTC as a joke in 2013. She says she documented all of the procedures and passwords at the behest of a tech friend she doesn't speak to any longer. She also still has the laptop from 2013 that she apparently did all this with, which doesn't seem to boot up. I did help her find the exchange she used and confirmed through the log that she sent 16.1 BTC to this wallet of hers. I have been researching the common wallets and am not sure if she had a web-based or software-based wallet. I believe (hoping) it was software-based and found the top five from that time. Apparently the web-based wallets suffered a high casualty rate. So it seems like it would be best to get the original laptop working again, even though she said she backed it up, the Bitcoin-related data was apparently on a different partition and I don't think she backed up that partition, as she just did time machine backups. Seems like a good next step? Thanks in advance.
 
-11h ago
+12h ago
 
 ---
 
@@ -113,7 +113,7 @@ Hey all, I have a friend who is definitely not tech-savvy who mentioned that she
 
 An excellent book about all the details, even people who fought the Blocksize war might have missed: https://www.youtube.com/watch?v=6YtS5ZNuuTw And excellent explanation of r/thelightningnetwork: https://www.youtube.com/watch?v=yKdK-7AtAMQ A bonus video. Lyn Alden's Full Broken Money Thesis in under 50min: https://www.youtube.com/watch?v=k3NN_NZOdhY
 
-18h ago
+19h ago
 
 ---
 
@@ -129,7 +129,7 @@ Sometimes it doesn't feel real that we're under $70K right now and have the oppo
 
 Been watching the markets lately and keep wanting to throw more money at these lower prices curious what everyone else is doing with their investment split between crypto and the usual stuff like index funds stocks bonds etc what percentage you running and why did you choose that amount also probably spending too much time refreshing charts instead of studing but whatever
 
-13h ago
+14h ago
 
 ---
 
@@ -149,7 +149,7 @@ Been watching the markets lately and keep wanting to throw more money at these l
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-8h ago
+9h ago
 
 ---
 
@@ -173,7 +173,7 @@ Forbes • 1d ago
 
 **[Bitcoin Drops Below $69,000 as War Fears Weigh on Crypto Markets](https://www.bloomberg.com/news/articles/2026-03-22/bitcoin-drops-below-69-000-as-war-fears-weigh-on-crypto-markets)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -181,7 +181,7 @@ Bloomberg.com • 1h ago
 
 The key to understanding Bitcoin is the four-year cycle.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -197,7 +197,7 @@ Yahoo Finance • 2h ago
 
 With Bitcoin and other cryptocurrency tokens becoming more accepted, retailers are beginning to accept them as forms of payment. Café Triskele in Lee the first restaurant in Berkshire County to
 
-The Berkshire Eagle • 22h ago
+The Berkshire Eagle • 23h ago
 
 ---
 
@@ -271,7 +271,7 @@ Seal predictions and decisions with cryptographic proof anchored to Bitcoin. No 
 
 Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 33 chain analysis heuristics. Free, client-side, no tracking.
 
-⬆️ 1 • 💬 0 • 21h ago • [am-i.exposed](https://am-i.exposed/)
+⬆️ 1 • 💬 0 • 22h ago • [am-i.exposed](https://am-i.exposed/)
 
 ---
 
@@ -299,7 +299,7 @@ Bitcoin just scored a massive regulatory win that changes everything for develop
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 112 • ⏱️ 21:11 • 15h ago
+👁️ 24K • 👍 2K • 💬 112 • ⏱️ 21:11 • 16h ago
 
 ---
 
@@ -309,7 +309,7 @@ Things are heating up Check out Ledn: https://aaronbtc.com/ledn ChangeNOW: https
 
 📺 Aaron Bennett
 
-👁️ 3K • 👍 275 • 💬 42 • ⏱️ 9:35 • 5h ago
+👁️ 3K • 👍 275 • 💬 42 • ⏱️ 9:35 • 6h ago
 
 ---
 
@@ -377,7 +377,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Chad Colby
 
-👁️ 1K • 👍 1K • 2h ago
+👁️ 1K • 👍 1K • 3h ago
 
 ---
 
@@ -387,7 +387,7 @@ Coin Deals HERE https://solo.to/couchcollectibles FREE $15 Credit: https://www.w
 
 📺 Couch Collectibles
 
-👁️ 1K • 👍 41 • 💬 2 • ⏱️ 2:52 • 12h ago
+👁️ 1K • 👍 41 • 💬 2 • ⏱️ 2:52 • 13h ago
 
 ---
 

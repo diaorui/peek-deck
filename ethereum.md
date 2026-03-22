@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-22T14:55:28.047125+00:00'
+updated: '2026-03-22T15:27:57.574004+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 14:55 UTC  
+**Last Updated:** March 22, 2026 at 15:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
 **[Ethereum Cuts Bridge Times by 98%](https://www.reddit.com/r/ethereum/comments/1s0mzw8/ethereum_cuts_bridge_times_by_98/)**
 
-🔗 [financefeeds.com](https://financefeeds.com/crypto-news-ethereum-cuts-bridge-times-by-98-while-pepeto-hands-early-believers-100x-presale-gains/) • 29m ago
+🔗 [financefeeds.com](https://financefeeds.com/crypto-news-ethereum-cuts-bridge-times-by-98-while-pepeto-hands-early-believers-100x-presale-gains/) • 1h ago
 
 ---
 
@@ -170,7 +170,7 @@ Polymarket • 2mo ago
 
 Ethereum’s native token, Ether BITSTAMP:ETHUSD, may rise by around 25% in the coming months as its richest whale group becomes profitable for the first time since early February.Key takeaways:Whale metric signals ETH is bottoming alreadyThe unrealized profit ratio of wallets holding more than 100,0…
 
-TradingView • 22h ago
+TradingView • 23h ago
 
 ---
 
@@ -222,7 +222,7 @@ The Motley Fool • 2d ago
 
 **[Ethereum Price Prediction Hits $10K Target, But The New Crypto Pepeto Built on ETH Is Where Whales Are Putting Their Real Money](https://financefeeds.com/ethereum-price-prediction-hits-10k-target-but-the-new-crypto-pepeto-built-on-eth-is-where-whales-are-putting-their-real-money/)**
 
-FinanceFeeds • 13h ago
+FinanceFeeds • 14h ago
 
 ---
 
@@ -246,7 +246,7 @@ CRYPTO MARKET UPDATE! Crypto Crash Next Week? Join the Premium Signal Group for 
 
 📺 Cilinix Crypto
 
-👁️ 248 • 👍 31 • 💬 6 • ⏱️ 6:47 • 1h ago
+👁️ 248 • 👍 31 • 💬 6 • ⏱️ 6:47 • 2h ago
 
 ---
 
@@ -256,7 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 194 • 👍 12 • 💬 1 • ⏱️ 4:47 • 4h ago
+👁️ 194 • 👍 12 • 💬 1 • ⏱️ 4:47 • 5h ago
 
 ---
 
@@ -296,7 +296,7 @@ In today's video I break down Bitcoin, Ethereum, stocks, oil, gold, and silver, 
 
 📺 James Crypto Guru
 
-👁️ 2K • 👍 119 • 💬 10 • ⏱️ 12:28 • 14h ago
+👁️ 2K • 👍 119 • 💬 10 • ⏱️ 12:28 • 15h ago
 
 ---
 

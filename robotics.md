@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-22T14:55:28.050254+00:00'
+updated: '2026-03-22T15:27:57.577247+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 22, 2026 at 14:55 UTC  
+**Last Updated:** March 22, 2026 at 15:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,13 +50,13 @@ From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
 **[Ringbot: A monocycle robot developed by the Robotics and Institute (RAI) that uses internal legs for balance and acrobatic maneuvers](https://www.reddit.com/r/robotics/comments/1rztuum/ringbot_a_monocycle_robot_developed_by_the/)**
 
-23h ago
+1d ago
 
 ---
 
 **[Real-time IMU VR tracking (ESP32 + ICM45686) streaming to PC — early test](https://www.reddit.com/r/robotics/comments/1s0jy7p/realtime_imu_vr_tracking_esp32_icm45686_streaming/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -64,7 +64,7 @@ From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
 I’m currently learning ROS2 and working with Gazebo, so I followed a tutorial where the robot looks like this (first image : red/yellow block style) but when I built mine, I ended up with something like the second image (black robot with wheels + lidar). I didn’t intentionally change much, so I’m confused how it ended up so different. What I did: - Followed a ROS2 mobile robot tutorial - Set up the model + simulation in Gazebo - Added lidar and basic movement control What I’m noticing: - My model structure looks completely different - Visual + geometry doesn’t match tutorial - Not sure if I accidentally changed URDF/Xacro or used a different base model Questions: What could cause this kind of difference? Did I accidentally switch model type (like differential vs something else)? Is this normal when building your own model vs tutorial assets? Also — I’m documenting my learning journey (ROS2 + robotics), so any guidance would help a lot. Thanks!
 
-48m ago
+1h ago
 
 ---
 
@@ -144,7 +144,7 @@ Reuters • 2d ago
 
 Carbon Robotics names a CFO; Nordstrom gets a VP of AI; and a Microsoft gaming GM goes to Netflix while one of its longtime legal leaders retires.
 
-GeekWire • 1d ago
+GeekWire • 2d ago
 
 ---
 
@@ -196,7 +196,7 @@ Tech Xplore • 2d ago
 
 📺 MachineWorks Studio
 
-👁️ 2.7M • 👍 3K • 💬 41 • ⏱️ 0:06 • 5d ago
+👁️ 2.7M • 👍 3K • 💬 41 • ⏱️ 0:06 • 6d ago
 
 ---
 
@@ -246,7 +246,7 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 📺 CNET
 
-👁️ 1K • 👍 92 • 💬 5 • ⏱️ 5:50 • 2h ago
+👁️ 1K • 👍 92 • 💬 5 • ⏱️ 5:50 • 3h ago
 
 ---
 
