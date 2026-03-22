@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-22T02:24:50.439782+00:00'
+updated: '2026-03-22T04:32:21.563069+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 22, 2026 at 02:24 UTC  
+**Last Updated:** March 22, 2026 at 04:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
-13h ago
+15h ago
 
 ---
 
 **[Ringbot: A monocycle robot developed by the Robotics and Institute (RAI) that uses internal legs for balance and acrobatic maneuvers](https://www.reddit.com/r/robotics/comments/1rztuum/ringbot_a_monocycle_robot_developed_by_the/)**
 
-11h ago
+13h ago
 
 ---
 
 **[You eventually start to realize, no job is safe](https://www.reddit.com/r/robotics/comments/1rzftd8/you_eventually_start_to_realize_no_job_is_safe/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -56,7 +56,7 @@ From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
 We’re running a pretty heavy autonomous stack on a single edge computer (ROS 2 Jazzy) — multiple high-res cameras, dense LiDARs, and radars all on one machine. We’re starting to hit serious compute + latency limits, especially with intra-process communication and recording. Right now we’re evaluating: Fast DDS Cyclone DDS Zenoh Iceoryx Also, as soon as we start recording with rosbag2, CPU usage spikes hard and we get frame drops across the system. Two questions for folks who’ve pushed ROS 2 hard on a single machine: For high-bandwidth intra-host comms on Jazzy, which RMW has actually given you the best real-world performance? How are you dealing with the rosbag2 overhead? Composable recorder node? Separate process? Or bypassing ROS entirely and logging raw sensor data? For context: we previously ran Humble + CycloneDDS + MCAP and saw similar bottlenecks. Curious what setups are working well in practice.
 
-5h ago
+7h ago
 
 ---
 
@@ -64,15 +64,7 @@ We’re running a pretty heavy autonomous stack on a single edge computer (ROS 2
 
 It's one of the sample tasks I'm planning to demonstrate to the guests of my upcoming conference. ( 120 characters limit bypass )
 
-13h ago
-
----
-
-**[Test the Algorithm with RoboBaton viobot2, Has Anyone Used The Viobot2 For Other DIY work?](https://www.reddit.com/r/robotics/comments/1rztcci/test_the_algorithm_with_robobaton_viobot2_has/)**
-
-Testing the built-in 3D reconstruction algorithm of the Viobot2 — the result looks good. Has anyone used the Viobot2 for other DIY work? Can anyone share with me?
-
-11h ago
+15h ago
 
 ---
 
@@ -80,7 +72,15 @@ Testing the built-in 3D reconstruction algorithm of the Viobot2 — the result l
 
 I want to make an aim-able phone holder with servos/steppers tucked in the base… and I don’t want to reinvent the wheel. Are there any references of this design? (Like a Simpson 3d printer, but simpler and for robot arms)
 
-5h ago
+7h ago
+
+---
+
+**[Test the Algorithm with RoboBaton viobot2, Has Anyone Used The Viobot2 For Other DIY work?](https://www.reddit.com/r/robotics/comments/1rztcci/test_the_algorithm_with_robobaton_viobot2_has/)**
+
+Testing the built-in 3D reconstruction algorithm of the Viobot2 — the result looks good. Has anyone used the Viobot2 for other DIY work? Can anyone share with me?
+
+13h ago
 
 ---
 
@@ -88,7 +88,7 @@ I want to make an aim-able phone holder with servos/steppers tucked in the base�
 
 Hey, I want to build a humanoid robot as a personal project — not necessarily life sized, maybe scaled down a bit. I came across InMoov and it looks amazing but I'm a bit intimidated by the non-printed hardware requirements like springs, metal rods, drilling into parts etc. I'm comfortable with electronics and embedded systems (Arduino/ESP32, servos, sensors) so that side doesn't scare me. It's more the mechanical assembly and sourcing all the non-printed hardware that feels overwhelming. Has anyone: Built InMoov and found ways to simplify the mechanical assembly? Found a good detailed step by step tutorial that makes it less intimidating? Found cheaper alternatives to the hardware components it needs? Built a simplified or scaled down version? Not looking for a perfect robot, just something that works and that I can build on over time. Any advice or experience would really help. Thanks
 
-4h ago
+6h ago
 
 ---
 
@@ -132,7 +132,7 @@ The Guardian • 2d ago
 
 This humanoid robot is learning tennis the same way I did—by playing. Plus a robot horse for the Year of the Fire Horse in this week's robot videos.
 
-IEEE Spectrum • 9h ago
+IEEE Spectrum • 11h ago
 
 ---
 
@@ -140,7 +140,7 @@ IEEE Spectrum • 9h ago
 
 It took nature millions of years to create intelligent, adaptive species. Researchers at Northwestern University in Illinois are using AI to evolve robots in minutes. The result is a robot that is agile, highly adaptive, and technically indestructible.
 
-New Atlas • 14h ago
+New Atlas • 16h ago
 
 ---
 
@@ -210,7 +210,17 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 238K • 👍 3K • 💬 2K • ⏱️ 2:07 • 2d ago
+👁️ 243K • 👍 3K • 💬 2K • ⏱️ 2:07 • 2d ago
+
+---
+
+**[Robots Took Revenge On Humans #shorts](https://www.youtube.com/watch?v=9qL50YtAVXo)**
+
+shorts.
+
+📺 Ramyox
+
+👁️ 26K • 💬 5 • ⏱️ 1:05 • 3d ago
 
 ---
 
@@ -220,17 +230,7 @@ Video shows restaurant employees struggling to restrain a dancing robot that wen
 
 📺 NBC News
 
-👁️ 179K • 👍 2K • 💬 619 • ⏱️ 3:38 • 2d ago
-
----
-
-**[Outdated Tier 4 Weapons in War Robots](https://www.youtube.com/watch?v=8zKwEsyhPYE)**
-
-War Robots Gameplay: Playing Spear and Atomizer on Ammit - Tier 4 My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 5K • 👍 269 • 💬 38 • ⏱️ 12:20 • 13h ago
+👁️ 181K • 👍 2K • 💬 623 • ⏱️ 3:38 • 3d ago
 
 ---
 
@@ -240,17 +240,7 @@ Try the full AI cinematic workflow here: https://higgsfield.ai/s/cinema-studio-2
 
 📺 AI Revolution
 
-👁️ 21K • 👍 501 • 💬 43 • ⏱️ 13:18 • 6d ago
-
----
-
-**[Elon Musk Just Unveiled &quot;Optima&quot; - The Female Version of the Tesla Robot](https://www.youtube.com/watch?v=445GqPQNm2E)**
-
-Fresh attention is building around a new concept reportedly linked to Elon Musk that explores a more human-like direction for ...
-
-📺 Carros Show
-
-👁️ 2K • 👍 45 • 💬 6 • ⏱️ 8:13 • 4d ago
+👁️ 21K • 👍 503 • 💬 43 • ⏱️ 13:18 • 6d ago
 
 ---
 
@@ -270,7 +260,7 @@ The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrati
 
 📺 DPCcars
 
-👁️ 196K • 👍 2K • 💬 256 • ⏱️ 2:02 • 5d ago
+👁️ 196K • 👍 2K • 💬 259 • ⏱️ 2:02 • 5d ago
 
 ---
 
@@ -280,17 +270,25 @@ Humanoid tennis athletes are officially here! A team from Tsinghua University an
 
 📺 XRoboHub
 
-👁️ 167K • 👍 2K • 💬 278 • ⏱️ 0:23 • 6d ago
+👁️ 167K • 👍 2K • 💬 279 • ⏱️ 0:23 • 6d ago
 
 ---
 
-**[Watch Robots ASSEMBLE Car Wheels in SECONDS! 🛞](https://www.youtube.com/watch?v=nqfY8o1DiQY)**
+**[Outdated Tier 4 Weapons in War Robots](https://www.youtube.com/watch?v=8zKwEsyhPYE)**
 
-Witness the incredible speed and precision of industrial robots as they revolutionize tire and rim assembly on an automated ...
+War Robots Gameplay: Playing Spear and Atomizer on Ammit - Tier 4 My War Robots Creator Link: https://wr.my.games/manni ...
 
-📺 Peace Working Shorts
+📺 Manni-Gaming
 
-👁️ 384K • 👍 591 • 💬 10 • ⏱️ 0:06 • 6d ago
+👁️ 6K • 👍 283 • 💬 43 • ⏱️ 12:20 • 15h ago
+
+---
+
+**[Ishowspeed Just Got Sued By A Robot😳](https://www.youtube.com/watch?v=WNDD0sX5sFQ)**
+
+📺 Unknown Matrix
+
+👁️ 474K • 👍 3K • 💬 19 • ⏱️ 0:20 • 1d ago
 
 ---
 
