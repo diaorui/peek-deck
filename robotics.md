@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-22T06:54:20.093662+00:00'
+updated: '2026-03-22T07:39:29.809634+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 22, 2026 at 06:54 UTC  
+**Last Updated:** March 22, 2026 at 07:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,27 +36,19 @@ Robotics research and industry news
 
 From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
-17h ago
+18h ago
 
 ---
 
 **[Ringbot: A monocycle robot developed by the Robotics and Institute (RAI) that uses internal legs for balance and acrobatic maneuvers](https://www.reddit.com/r/robotics/comments/1rztuum/ringbot_a_monocycle_robot_developed_by_the/)**
 
-15h ago
+16h ago
 
 ---
 
 **[You eventually start to realize, no job is safe](https://www.reddit.com/r/robotics/comments/1rzftd8/you_eventually_start_to_realize_no_job_is_safe/)**
 
 1d ago
-
----
-
-**[RMW comparison on Jazzy (Fast DDS vs Cyclone DDS vs Zenoh vs Iceoryx) + handling rosbag2 CPU spikes](https://www.reddit.com/r/robotics/comments/1s022nr/rmw_comparison_on_jazzy_fast_dds_vs_cyclone_dds/)**
-
-We’re running a pretty heavy autonomous stack on a single edge computer (ROS 2 Jazzy) — multiple high-res cameras, dense LiDARs, and radars all on one machine. We’re starting to hit serious compute + latency limits, especially with intra-process communication and recording. Right now we’re evaluating: Fast DDS Cyclone DDS Zenoh Iceoryx Also, as soon as we start recording with rosbag2, CPU usage spikes hard and we get frame drops across the system. Two questions for folks who’ve pushed ROS 2 hard on a single machine: For high-bandwidth intra-host comms on Jazzy, which RMW has actually given you the best real-world performance? How are you dealing with the rosbag2 overhead? Composable recorder node? Separate process? Or bypassing ROS entirely and logging raw sensor data? For context: we previously ran Humble + CycloneDDS + MCAP and saw similar bottlenecks. Curious what setups are working well in practice.
-
-10h ago
 
 ---
 
@@ -68,17 +60,19 @@ I want to make an aim-able phone holder with servos/steppers tucked in the base�
 
 ---
 
+**[RMW comparison on Jazzy (Fast DDS vs Cyclone DDS vs Zenoh vs Iceoryx) + handling rosbag2 CPU spikes](https://www.reddit.com/r/robotics/comments/1s022nr/rmw_comparison_on_jazzy_fast_dds_vs_cyclone_dds/)**
+
+We’re running a pretty heavy autonomous stack on a single edge computer (ROS 2 Jazzy) — multiple high-res cameras, dense LiDARs, and radars all on one machine. We’re starting to hit serious compute + latency limits, especially with intra-process communication and recording. Right now we’re evaluating: Fast DDS Cyclone DDS Zenoh Iceoryx Also, as soon as we start recording with rosbag2, CPU usage spikes hard and we get frame drops across the system. Two questions for folks who’ve pushed ROS 2 hard on a single machine: For high-bandwidth intra-host comms on Jazzy, which RMW has actually given you the best real-world performance? How are you dealing with the rosbag2 overhead? Composable recorder node? Separate process? Or bypassing ROS entirely and logging raw sensor data? For context: we previously ran Humble + CycloneDDS + MCAP and saw similar bottlenecks. Curious what setups are working well in practice.
+
+11h ago
+
+---
+
 **[Another demo of my school project running the ACT](https://www.reddit.com/r/robotics/comments/1rzqryd/another_demo_of_my_school_project_running_the_act/)**
 
 It's one of the sample tasks I'm planning to demonstrate to the guests of my upcoming conference. ( 120 characters limit bypass )
 
-17h ago
-
----
-
-**[What do robotics engineers actually use day to day?](https://www.reddit.com/r/robotics/comments/1s0cxbu/what_do_robotics_engineers_actually_use_day_to_day/)**
-
-1h ago
+18h ago
 
 ---
 
@@ -101,6 +95,14 @@ Hey, I want to build a humanoid robot as a personal project — not necessarily 
 **[Range of motion evaluation test for my homemade robotic hand & wrist](https://www.reddit.com/r/robotics/comments/1ryzwte/range_of_motion_evaluation_test_for_my_homemade/)**
 
 Showcasing the newest version (v20) of my hand & wrist combo! Same as the last version, it's a combination of direct- and tendon-driven actuation, still with 19 joints and 10 active DOFs. It has independent finger flexion, a 3-DOF thumb, linked finger splay, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist which measures joint position (at the motor output), current, and temperature. And all the movements were programmed with custom C#/C++ software. Improved from the last version, the base thumb joints were switched to direct drive and much beefier motors were swapped in for the wrist joints - improving strength and repeatability under heavier loads. Despite these new motors though, the form factor remains nearly identical to v19, spare a few millimeters of thickness and height. Some more minor changes: (1) ASA and carbon fiber filaments replaced basic PLA to improve rigidity and strength, (2) the power input was switched to an XT30 connector to accommodate the more power-hungry motors, and (3) better filtering and chips to reduce current and position signal noise. Still making incremental improvements here and there, but happy to answer any questions and hear your thoughts!
+
+1d ago
+
+---
+
+**[Humanoid robots on the streets at midnight training for their half-marathon!](https://www.reddit.com/r/robotics/comments/1rz19uy/humanoid_robots_on_the_streets_at_midnight/)**
+
+Don't be surprised if you meet humanoid robots on the streets of Beijing at midnight. They are training for their half-marathon! Over 20 teams joined the first trial run. The official race will be held on April 19.
 
 1d ago
 
@@ -144,7 +146,7 @@ Reuters • 1d ago
 
 It took nature millions of years to create intelligent, adaptive species. Researchers at Northwestern University in Illinois are using AI to evolve robots in minutes. The result is a robot that is agile, highly adaptive, and technically indestructible.
 
-New Atlas • 18h ago
+New Atlas • 19h ago
 
 ---
 
@@ -278,7 +280,7 @@ War Robots Gameplay: Playing Spear and Atomizer on Ammit - Tier 4 My War Robots 
 
 📺 Manni-Gaming
 
-👁️ 6K • 👍 294 • 💬 43 • ⏱️ 12:20 • 17h ago
+👁️ 6K • 👍 294 • 💬 43 • ⏱️ 12:20 • 18h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-22T06:54:20.090443+00:00'
+updated: '2026-03-22T07:39:29.806359+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 06:54 UTC  
+**Last Updated:** March 22, 2026 at 07:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,116.18
+### $2,111.26
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.7%  
-**7d:** -10.0%  
-**30d:** +7.3%  
-**90d:** -28.6%  
-**1y:** +5.6%  
+**24h:** -2.2%  
+**7d:** -10.5%  
+**30d:** +6.7%  
+**90d:** -29.0%  
+**1y:** +5.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -156,7 +156,7 @@ The top priority is safety and security. The coins to be stored are ETH and USDC
 
 Ethereum, XRP, and Solana prices remained firm as the broader crypto market hovered slightly above the $70,000 level on renewed optimism.   Ethereum price
 
-CoinGape • 19h ago
+CoinGape • 20h ago
 
 ---
 
@@ -168,7 +168,7 @@ Fortune • 1d ago
 
 ---
 
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqfIdcNIXhNKOJJruMf9zHSTlCGZ-pf7R_J1-R5w_FYz5Ozg1-Sn5ZRh&gaa_ts=69bf8797&gaa_sig=kbugcJEc4D_Ss08OwXoe6TmwPLZ0MOt82P6D8uD0ZpzWuO0ZqEoaA03jhmsLFAo_5_HOGk2gQRojNxRCzVu3Rw%3D%3D)**
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqchuJg9ZL9BQeFJBP0tMJORjUujna8reYY3d2dWxWQ_ifrKwz8163rx&gaa_ts=69bfa019&gaa_sig=EmfCQSVoOhFiovCqEfD5wR2R-VKsNya83thMKUGmDZHnJA6C5HtFBngpkc2aMc1wxHZKB5_Yhz1sTVl45zhDgw%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -194,15 +194,7 @@ New York Post • 1d ago
 
 Ethereum’s native token, Ether BITSTAMP:ETHUSD, may rise by around 25% in the coming months as its richest whale group becomes profitable for the first time since early February.Key takeaways:Whale metric signals ETH is bottoming alreadyThe unrealized profit ratio of wallets holding more than 100,0…
 
-TradingView • 14h ago
-
----
-
-**[Inside Ethereum network’s efforts to become settlement layer for all AI activities](https://ambcrypto.com/inside-ethereum-networks-efforts-to-become-settlement-layer-for-all-ai-activities/)**
-
-Ethereum’s stablecoin flows remain strong, with BMNR staking ETH. Is this a setup to position Ethereum as the main settlement layer for AI?
-
-AMBCrypto • 3h ago
+TradingView • 15h ago
 
 ---
 
@@ -210,7 +202,7 @@ AMBCrypto • 3h ago
 
 QBridge connects Qubic to Ethereum with a non-custodial, audited cross-chain bridge. Lock QUBIC, mint wQUBIC as an ERC-20 token, and access Ethereum DeFi. IPO live in Epoch 205.
 
-Qubic • 18h ago
+Qubic • 19h ago
 
 ---
 
@@ -230,6 +222,12 @@ The Motley Fool • 1d ago
 
 ---
 
+**[Ethereum Price Prediction Hits $10K Target, But The New Crypto Pepeto Built on ETH Is Where Whales Are Putting Their Real Money](https://financefeeds.com/ethereum-price-prediction-hits-10k-target-but-the-new-crypto-pepeto-built-on-eth-is-where-whales-are-putting-their-real-money/)**
+
+FinanceFeeds • 6h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -240,7 +238,7 @@ BlackRock just launched a staking Ethereum ETF—but is it really a win for inve
 
 📺 Coin Bureau
 
-👁️ 13K • 👍 637 • 💬 75 • ⏱️ 18:11 • 16h ago
+👁️ 13K • 👍 637 • 💬 75 • ⏱️ 18:11 • 17h ago
 
 ---
 
@@ -318,7 +316,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 99 • 💬 5 • ⏱️ 4:32 • 16h ago
+👁️ 2K • 👍 99 • 💬 5 • ⏱️ 4:32 • 17h ago
 
 ---
 
@@ -328,7 +326,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 My Channel
 
-👁️ 7K • 👍 1K • 17h ago
+👁️ 7K • 👍 1K • 18h ago
 
 ---
 
