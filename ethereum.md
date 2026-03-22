@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-22T20:55:56.313801+00:00'
+updated: '2026-03-22T21:28:11.779467+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
 - videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 20:55 UTC  
+**Last Updated:** March 22, 2026 at 21:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -70,7 +70,7 @@ No max supply
 
 **[Ethereum Cuts Bridge Times by 98%](https://www.reddit.com/r/ethereum/comments/1s0mzw8/ethereum_cuts_bridge_times_by_98/)**
 
-🔗 [financefeeds.com](https://financefeeds.com/crypto-news-ethereum-cuts-bridge-times-by-98-while-pepeto-hands-early-believers-100x-presale-gains/) • 6h ago
+🔗 [financefeeds.com](https://financefeeds.com/crypto-news-ethereum-cuts-bridge-times-by-98-while-pepeto-hands-early-believers-100x-presale-gains/) • 7h ago
 
 ---
 
@@ -78,7 +78,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi there, I made a niche thing, probably useful for a small group of node runners who wanted something like this. It’s basically a lightweight, IPFS-hosted Ethereum explorer — like Etherscan, but it queries your own node directly via JSON-RPC. It’s just a static HTML page, so you open it, enter your RPC, and use it. No backend, no setup — just a page. Access nodex.monkale.eth nodex.monkale.eth.limo Repo github.com/monkale-io/ethereum-node-explorer I built it after I started running my own node and wanted a simple web UI to explore it. I found an old explorer (Alethio ethereum-lite-explorer) — it still works and is actually quite good, but it was abandoned ~6 years ago — so I decided to rewrite it with a modern stack and put it on IPFS, so it can stay just a static page without any backend or services to run. Planning to maintain and evolve it. Feedback and contributions are welcome.
 
-4h ago
+5h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 While upgrades have improved efficiency and lowered costs, the ecosystem faces deeper structural questions around fragmentation, security, and purpose, even as it continues prioritizing base-layer scaling.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -192,7 +192,7 @@ MarketWatch • 2d ago
 
 Cryptocurrency analyst Ali Martinez said on Thursday that Ethereum has entered a generational “Buy Zone,” hinting at major bull runs on the horizon. What History Says In an X post, Martinez pointed out that Ethereum’s Market Value to Realized Value...
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -256,7 +256,7 @@ CRYPTO MARKET UPDATE! Crypto Crash Next Week? Join the Premium Signal Group for 
 
 📺 Cilinix Crypto
 
-👁️ 1K • 👍 74 • 💬 87 • ⏱️ 6:47 • 7h ago
+👁️ 1K • 👍 74 • 💬 87 • ⏱️ 6:47 • 8h ago
 
 ---
 
@@ -316,7 +316,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Fabio Cutrupi PESCA SUB 🇮🇹
 
-👁️ 5K • 👍 1K • 1h ago
+👁️ 5K • 👍 1K • 2h ago
 
 ---
 

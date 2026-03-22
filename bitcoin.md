@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-22T20:55:56.308330+00:00'
+updated: '2026-03-22T21:28:11.773445+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
 - videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 20:55 UTC  
+**Last Updated:** March 22, 2026 at 21:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Link to the Bitcoin history in El Zonte, but I'm sure you can find and share even better articles: https://wildcatsandblacksheep.com/the-salvadoran-beach-town-that-became-a-bitcoin-testbed/
 
-6h ago
+7h ago
 
 ---
 
@@ -97,7 +97,7 @@ Sometimes it doesn't feel real that we're under $70K right now and have the oppo
 
 About 10 years ago, I bought 0.2 Bitcoin out of curiosity, and recently I happened upon the document where I wrote down the information about it. There are a few user names and passwords that I don’t quite know what they are good for, so I installed Bluewallet (iOS) which asked me for a seed. So I entered this “seed“ phrase, which seems to be correct, and now I can see the balance (0.218797) in my BlueWallet wallet. 1) I guess this means that I could sell these 0.21…. Bitcoin if I wanted to (I don’t want to, it’s hypothetical)? Would I need a password? Im pretty sure i have the correct password, but how can I test this without actually selling anything? 2) I don’t understand where my 0.2… Bitcoin is stored. I think it’s not stored on my device, otherwise I wouldn’t need the seed phrase to access it, right? So how can I know where it is stored? 3) (Related to Q 2): If I wanted to buy a little more, how could I add that to my existing balance rather than creating a new wallet? Thanks in advance
 
-8h ago
+9h ago
 
 ---
 
@@ -113,7 +113,7 @@ This is the situation: I had a friend send me btc over the years to Coinbase. Th
 
 Hey all, I have a friend who is definitely not tech-savvy who mentioned that she bought about 20 BTC as a joke in 2013. She says she documented all of the procedures and passwords at the behest of a tech friend she doesn't speak to any longer. She also still has the laptop from 2013 that she apparently did all this with, which doesn't seem to boot up. I did help her find the exchange she used and confirmed through the log that she sent 16.1 BTC to this wallet of hers. I have been researching the common wallets and am not sure if she had a web-based or software-based wallet. I believe (hoping) it was software-based and found the top five from that time. Apparently the web-based wallets suffered a high casualty rate. So it seems like it would be best to get the original laptop working again, even though she said she backed it up, the Bitcoin-related data was apparently on a different partition and I don't think she backed up that partition, as she just did time machine backups. Seems like a good next step? Thanks in advance.
 
-17h ago
+18h ago
 
 ---
 
@@ -121,7 +121,7 @@ Hey all, I have a friend who is definitely not tech-savvy who mentioned that she
 
 Morgan Stanley allows clients to allocate between 0-4% of their portfolioa to bitcoin. Even a modest 2% could add $160 Billion dollars in capital to the BTC market.
 
-🔗 [Bitcoin Magazine](https://share.google/eNr25Ee6vq1fB2Lv1) • 22h ago
+🔗 [Bitcoin Magazine](https://share.google/eNr25Ee6vq1fB2Lv1) • 23h ago
 
 ---
 
@@ -129,7 +129,7 @@ Morgan Stanley allows clients to allocate between 0-4% of their portfolioa to bi
 
 Hey everyone, Just surpassed my first xxx amount of BTC. However im using a Ledger Nano s plus that I got off of Amazon to store it all. I know I shouldn't have done that but you live and you learn. I generated my own passphrase and everything. So it wasnt pre seeded, and I pass all authenticity tests. My question is, should I move my funds off of my Ledger? Or is it safe for now? I know open source is preferred, but is it worth spending ~300-400 CAD on a coldcard mq, jade plus, etc? Or am I better sitting with my Ledger for now? Tbh id rather put extra cash into more BTC, but I know security is the most important. Cheers  [comments]
 
-1h ago
+2h ago
 
 ---
 
@@ -153,7 +153,7 @@ We’ve all seen the headlines that the SEC and CFTC finally put it in writing: 
 
 I’ve been investing for more than a year now but still struggle to find reliable sources to get news from. I’m not one to sit and watch news on the tv all day. Where do you find your financial news?
 
-3h ago
+4h ago
 
 ---
 
@@ -179,7 +179,7 @@ Forbes • 1d ago
 
 These two cryptocurrencies are trading at deep discounts, and could be ready to soar higher.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -201,7 +201,7 @@ The Berkshire Eagle • 1d ago
 
 **[Bitcoin Drops Below $69,000 as War Fears Weigh on Crypto Markets](https://www.bloomberg.com/news/articles/2026-03-22/bitcoin-drops-below-69-000-as-war-fears-weigh-on-crypto-markets)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -297,7 +297,7 @@ Open archive of autonomous scientific discovery experiments.
 
 An event loop for asyncio written in Rust. Contribute to RustedBytes/rsloop development by creating an account on GitHub.
 
-⬆️ 4 • 💬 1 • 22h ago • [GitHub](https://github.com/RustedBytes/rsloop)
+⬆️ 4 • 💬 1 • 23h ago • [GitHub](https://github.com/RustedBytes/rsloop)
 
 ---
 
@@ -311,7 +311,7 @@ Bitcoin just scored a massive regulatory win that changes everything for develop
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 110 • ⏱️ 21:11 • 21h ago
+👁️ 28K • 👍 2K • 💬 110 • ⏱️ 21:11 • 22h ago
 
 ---
 
@@ -321,7 +321,7 @@ Things are heating up Check out Ledn: https://aaronbtc.com/ledn ChangeNOW: https
 
 📺 Aaron Bennett
 
-👁️ 7K • 👍 403 • 💬 59 • ⏱️ 9:35 • 11h ago
+👁️ 7K • 👍 403 • 💬 59 • ⏱️ 9:35 • 12h ago
 
 ---
 
@@ -341,7 +341,7 @@ Bitcoin #Crypto #Finance Anthony Scaramucci says this Bitcoin pullback may be fa
 
 📺 The Wolf Of All Streets
 
-👁️ 16K • 👍 797 • 💬 164 • ⏱️ 30:41 • 7h ago
+👁️ 16K • 👍 797 • 💬 164 • ⏱️ 30:41 • 8h ago
 
 ---
 
@@ -371,7 +371,7 @@ Drew looks at Trump's impact on Bitcoin. What are the 2nd and 3rd order effects?
 
 📺 Discover Crypto
 
-👁️ 719 • 👍 75 • 💬 33 • ⏱️ 10:36 • 1h ago
+👁️ 719 • 👍 75 • 💬 33 • ⏱️ 10:36 • 2h ago
 
 ---
 

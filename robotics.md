@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-22T20:55:56.316658+00:00'
+updated: '2026-03-22T21:28:11.782660+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 22, 2026 at 20:55 UTC  
+**Last Updated:** March 22, 2026 at 21:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,7 +68,7 @@ Hello, I’m currently working on a monkey humanoid robot with several servos. I
 
 The tiny swimmers wreak havoc across the globe, but the robofish shocked them enough to impair their survival and reproduction
 
-🔗 [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/scientists-terrify-invasive-mosquitofish-with-their-worst-nightmare-a-robotic-fish-180979258/) • 2h ago
+🔗 [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/scientists-terrify-invasive-mosquitofish-with-their-worst-nightmare-a-robotic-fish-180979258/) • 3h ago
 
 ---
 
@@ -84,7 +84,7 @@ From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
 I’m currently learning ROS2 and working with Gazebo, so I followed a tutorial where the robot looks like this (first image : red/yellow block style) but when I built mine, I ended up with something like the second image (black robot with wheels + lidar). I didn’t intentionally change much, so I’m confused how it ended up so different. What I did: - Followed a ROS2 mobile robot tutorial - Set up the model + simulation in Gazebo - Added lidar and basic movement control What I’m noticing: - My model structure looks completely different - Visual + geometry doesn’t match tutorial - Not sure if I accidentally changed URDF/Xacro or used a different base model Questions: What could cause this kind of difference? Did I accidentally switch model type (like differential vs something else)? Is this normal when building your own model vs tutorial assets? Also — I’m documenting my learning journey (ROS2 + robotics), so any guidance would help a lot. Thanks!
 
-6h ago
+7h ago
 
 ---
 
@@ -92,7 +92,7 @@ I’m currently learning ROS2 and working with Gazebo, so I followed a tutorial 
 
 https://genesis-embodied-ai.github.io/ It's been about a year since they released their open repo along with an announcement video that seemed a little too good to be true. The video made a lot of publicity but there seemed to be some controversy at the time about the video containing functionality that wasn't actually available, that the devs said would be released later. Since then, I haven't seen any one actually using it. Was it all hype? It looks like the repo is still active. Has anyone used it for anything?
 
-4h ago
+5h ago
 
 ---
 
@@ -104,7 +104,7 @@ https://genesis-embodied-ai.github.io/ It's been about a year since they release
 
 **[Real-time IMU VR tracking (ESP32 + ICM45686) streaming to PC — early test](https://www.reddit.com/r/robotics/comments/1s0jy7p/realtime_imu_vr_tracking_esp32_icm45686_streaming/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -200,7 +200,7 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 📺 CNET
 
-👁️ 4K • 👍 222 • 💬 10 • ⏱️ 5:50 • 8h ago
+👁️ 4K • 👍 222 • 💬 10 • ⏱️ 5:50 • 9h ago
 
 ---
 

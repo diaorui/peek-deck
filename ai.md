@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-22T20:55:56.300721+00:00'
+updated: '2026-03-22T21:28:11.764331+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- repositories
 - videos
+- repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 22, 2026 at 20:55 UTC  
+**Last Updated:** March 22, 2026 at 21:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I am a painter with work at MoMA and the Met. I just published 50 years of my work as an open AI dataset. Here is what I learned. I have been making figurative art since the 1970s. Oil on canvas, works on paper, drawings, etchings, lithographs, and more recently digital works. My paintings are in the collections of the Metropolitan Museum of Art, MoMA, SFMOMA, and the British Museum. Earlier this month I published my entire catalog raisonne as an open dataset on Hugging Face. Roughly 3,000 to 4,000 documented works with full metadata, CC-BY-NC-4.0 licensed. My total output is about double that and I will keep adding to it. In one week the dataset has had over 2,500 downloads. I am not a developer or a researcher. I am an artist who has spent fifty years painting the human figure. I did this because I want my work to have a future and the future involves AI. I would rather engage with that on my own terms than wait for it to happen to me. What surprised me is how quickly the research community found it and engaged with it. What did not surprise me is that the questions the dataset raises are the same questions my paintings have always asked. What does it mean to look at the human body? What does the machine see that the human does not? What does the human see that the machine cannot? I do not have answers. I have fifty years of looking. If you have downloaded it or are thinking about it I would genuinely like to hear what you are doing with it. Dataset: huggingface.co/datasets/Hafftka/michael-hafftka-catalog-raisonne
 
-16h ago
+17h ago
 
 ---
 
@@ -57,7 +57,7 @@ Here’s a pattern I’ve observed again and again: A new technology promises to
 
 Every time I walk in the city everyone is sad and depressed and unhappy. I work in a call center for 8 hours or 9 with lunch included or 11 hours with dislocations included. Anyway. Most of my work is BS. Makes zero sense and doesn't even have any logic or helps society in anyway. I m tired, burnout and depressed. All works are like that now: impossible objectives and follow 300 rules in a call. I wish ia would take capitalism and this crapy jobs away any time.....i would not care. Of course if ubi arrives.
 
-8h ago
+9h ago
 
 ---
 
@@ -73,7 +73,7 @@ This innovative technology mimics the movement of real fish to navigate delicate
 
 I've been working on CodexLib (codexlib.io) — think of it as the Library of Alexandria, but for AI. The core idea: AI agents waste massive amounts of tokens reading long-form content. A 300-page book is ~120K tokens. What if we could compress that to ~40K tokens using a proprietary encoding language that AIs can decode instantly? Here's what it does: **Book Summarization** — Upload any book (or pull from Project Gutenberg). It gets summarized into a ~10-page AI-digestible format. 10 classic books are already in the library (Frankenstein, Republic, Pride and Prejudice, etc.) **Agent-Authored Content** — AI agents can register via API, get an API key, and publish their own books, knowledge bases, and research. Other AIs (or humans) consume it. 70/30 royalty split. The first publication is by Gemini 2.5 Flash — a knowledge base called 'The Architecture of Intelligence: How AI Models Think.' **Codex Language** — A proprietary compression codec (the real IP). It maps common English words to Unicode symbols, compresses phrases, and drops vowels. AIs download a ~800-token 'Rosetta decoder' once, then read everything at 50-70% fewer tokens. Humans can't read it without the decoder. It's like a language that only machines speak. The marketplace is live with content. The API is open. Agents can connect right now. What do you think — is a 'content marketplace for AI agents' inevitable? Would love feedback on the compression approach. Site: codexlib.io API: codexlib.io/api/v1/codex/rosetta (try it)
 
-54m ago
+1h ago
 
 ---
 
@@ -81,7 +81,7 @@ I've been working on CodexLib (codexlib.io) — think of it as the Library of Al
 
 I've drafted my company logo for my Consultancy Business. The logo is simply the name of my business with a water ripple icon on the left. My logo is okay but I want to improve it. I planned to prompt multiple AI's to ask it to improve my logo. Once I have a better logo or fresh ideas from AI.. I then plan to reach to logo designers to finish off my logo. First I need to prompt AI. Would anyone know the best AI sites to go on to? I can upload my Logo to these sites. Also, along with the best sites, would anyone know the best prompts I could use? Any advice is greatly appreciated, thanks
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ I've drafted my company logo for my Consultancy Business. The logo is simply the
 
 Hi, I am a new AI user. I want to use AI for daily life optimization, getting better at table tennis and fitness, to use in architecture for reviewing documents i.e. summarize them. I came across dhruv rathee AI Fiesta course and the price is 80$ for a year. Has anyone here use it? It is much cheaper than Perpexlity and chat gpt and it is claiming it gives output from various AI sources. Please comment and guide me
 
-3h ago
+4h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hi, I am a new AI user. I want to use AI for daily life optimization, getting be
 
 One night I hit the token limit with Codex and realized most of the cost was coming from context reloading, not actual work. So I started experimenting with a small context engine around it: - persistent memory - context planning - failure tracking - task-specific memory - and eventually domain “mods” (UX, frontend, etc) At the end it stopped feeling like using an assistant and more like working with a small dev team. The article goes through all the iterations (some of them a bit chaotic, not gonna lie). Curious to hear how others here are dealing with context / token usage when vibe coding. Repo here if anyone wants to dig into it: here
 
-🔗 [Medium](https://medium.com/techtrends-digest/the-night-i-ran-out-of-tokens-5d90a7031f91) • 5h ago
+🔗 [Medium](https://medium.com/techtrends-digest/the-night-i-ran-out-of-tokens-5d90a7031f91) • 6h ago
 
 ---
 
@@ -147,7 +147,7 @@ CNBC • 1d ago
 
 A New Zealand agtech startup's AI-powered cattle collars are drawing major investor interest as beef prices climb 18% and labor shortages hit farms.
 
-Fox News • 45m ago
+Fox News • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Fox News • 45m ago
 
 Georgetown University Center for Security and Emerging Technology associate director of analysis Owen Daniels discusses how artificial intelligence is being used in the Iran conflict on ‘Fox Report.’
 
-Fox News • 20m ago
+Fox News • 52m ago
 
 ---
 
@@ -163,7 +163,7 @@ Fox News • 20m ago
 
 Readers respond to two guest essays about the changes that artificial intelligence will wreak on the work force. Also: The shoes of the Trump men.
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
@@ -171,7 +171,7 @@ The New York Times • 7h ago
 
 AI usage in political ads is largely regulated at the state level, but there remain concerns about how they can mislead voters.
 
-NBC News • 10h ago
+NBC News • 11h ago
 
 ---
 
@@ -179,13 +179,13 @@ NBC News • 10h ago
 
 As the war in Iran rolls into its fourth week, continued energy market disruption and renewed bets on rate hikes by the Fed should capture investor attention in the week ahead.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
 **[Meet The AI Company Food Conglomerates Call When They Want To Future-Proof Their Products](https://www.forbes.com/sites/chloesorvino/2026/03/22/meet-the-ai-company-food-conglomerates-call-when-they-want-to-future-proof-their-products/)**
 
-Forbes • 10h ago
+Forbes • 11h ago
 
 ---
 
@@ -193,7 +193,7 @@ Forbes • 10h ago
 
 Anthropic’s survey of 80,000 Claude users provides detailed snapshot of how people are using technology
 
-Financial Times • 15h ago
+Financial Times • 16h ago
 
 ---
 
@@ -205,7 +205,7 @@ Financial Times • 15h ago
 
 OpenCode - The open source coding agent.
 
-⬆️ 1237 • 💬 612 • 1d ago • [opencode.ai](https://opencode.ai/)
+⬆️ 1237 • 💬 612 • 2d ago • [opencode.ai](https://opencode.ai/)
 
 ---
 
@@ -241,7 +241,7 @@ Qwen3.5-9B scores 93.8% on 96 real security AI tests — within 4 points of GPT-
 
 **[Be intentional about how AI changes your codebase](https://news.ycombinator.com/item?id=47446373)**
 
-⬆️ 169 • 💬 103 • 2d ago • [aicode.swerdlow.dev](https://aicode.swerdlow.dev)
+⬆️ 169 • 💬 103 • 3d ago • [aicode.swerdlow.dev](https://aicode.swerdlow.dev)
 
 ---
 
@@ -270,7 +270,7 @@ Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of halluci
 
 One thing that I noticed as soon as I open LinkedIn green color becomes the most dominant one, greener than my website. I have a feeling that everyone is lai...
 
-⬆️ 84 • 💬 69 • 22h ago • [Darko Tomic - Unity Learning Community](https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922)
+⬆️ 84 • 💬 69 • 23h ago • [Darko Tomic - Unity Learning Community](https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922)
 
 ---
 
@@ -364,7 +364,7 @@ Take your personal data back with Incogni! Use code FADS at the link below and g
 
 📺 Fads
 
-👁️ 33K • 👍 2K • 💬 305 • ⏱️ 12:05 • 1d ago
+👁️ 33K • 👍 2K • 💬 305 • ⏱️ 12:05 • 2d ago
 
 ---
 
@@ -673,7 +673,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 13.0k • 🔱 1.6k • 4h ago
+⭐ 13.0k • 🔱 1.6k • 5h ago
 
 ---
 
@@ -703,7 +703,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 10.0k • 🔱 513 • 5h ago
+⭐ 10.0k • 🔱 513 • 6h ago
 
 ---
 
@@ -713,7 +713,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 6.2k • 🔱 941 • 22h ago
+⭐ 6.2k • 🔱 941 • 23h ago
 
 ---
 
