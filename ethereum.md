@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-22T16:32:52.598769+00:00'
+updated: '2026-03-22T17:26:55.066467+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
 - social
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 16:32 UTC  
+**Last Updated:** March 22, 2026 at 17:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -3.1%  
-**7d:** -11.5%  
-**30d:** +5.4%  
-**90d:** -29.8%  
-**1y:** +3.8%  
+**7d:** -11.4%  
+**30d:** +5.6%  
+**90d:** -29.7%  
+**1y:** +3.9%  
 
 ---
 
@@ -72,13 +72,29 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
 **[Ethereum Cuts Bridge Times by 98%](https://www.reddit.com/r/ethereum/comments/1s0mzw8/ethereum_cuts_bridge_times_by_98/)**
 
-🔗 [financefeeds.com](https://financefeeds.com/crypto-news-ethereum-cuts-bridge-times-by-98-while-pepeto-hands-early-believers-100x-presale-gains/) • 2h ago
+🔗 [financefeeds.com](https://financefeeds.com/crypto-news-ethereum-cuts-bridge-times-by-98-while-pepeto-hands-early-believers-100x-presale-gains/) • 3h ago
+
+---
+
+**[I built a lite Ethereum explorer for node runners — talks directly to your node, hosted on IPFS, no install needed](https://www.reddit.com/r/ethereum/comments/1s0pck7/i_built_a_lite_ethereum_explorer_for_node_runners/)**
+
+Hi there, I made a niche thing, probably useful for a small group of node runners who wanted something like this. It’s basically a lightweight, IPFS-hosted Ethereum explorer — like Etherscan, but it queries your own node directly via JSON-RPC. It’s just a static HTML page, so you open it, enter your RPC, and use it. No backend, no setup — just a page. Access nodex.monkale.eth nodex.monkale.eth.limo Repo github.com/monkale-io/ethereum-node-explorer I built it after I started running my own node and wanted a simple web UI to explore it. I found an old explorer (Alethio ethereum-lite-explorer) — it still works and is actually quite good, but it was abandoned ~6 years ago — so I decided to rewrite it with a modern stack and put it on IPFS, so it can stay just a static page without any backend or services to run. Planning to maintain and evolve it. Feedback and contributions are welcome.
+
+1h ago
+
+---
+
+**[Good read on recent volatility of Ethereum](https://www.reddit.com/r/ethereum/comments/1s0ps4o/good_read_on_recent_volatility_of_ethereum/)**
+
+https://tradepal.co/blog/eth-ai-trading-analysis-ethereum-is
+
+1h ago
 
 ---
 
@@ -86,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi everyone, I'd really appreciate some feedback on something we're building on Ethereum. This is pretty much my first time doing this, but my co-founder is way more experienced, he's been a Web3 engineer for a long time. You probably know there are already some projects putting public stocks on-chain as RWAs. What we're trying to do is a bit different: bring the actual chain of custody on-chain for those shares. The issue with normal shares is they're totally fungible so you have zero clue who owned it before you. We want to track that history to unlock some "cultural premium" value as an RWA. Kind of like NFTs but for real shares. For example imagine proving your TSLA share was once held by Elon Musk. That kind of story probably makes it worth more to some people. To make it work we take verified shares (held in proper custody) and wrap them as provenance-wrapped shares on Ethereum smart contracts, using something like ERC-1155 for semi-fungible units, and record the full ownership chain in metadata or on-chain events. We're still in the middle of building, no live contracts or actual trading yet. Just trying to get real opinions early and figure if we're onto something or is this just dumb as hell. It would mean a lot to hear what Ethereum people think: Does provenance tracking for equities as RWAs actually sound useful/valuable, or is it kind of a gimmick? You can check out the demo to see how we're thinking about it in practice: https://provenantx.com https://preview.redd.it/fru8qps46iqg1.png?width=624&format=png&auto=webp&s=d93019bd8ad4a09695879f36d7c32f6f80436582 Thanks a ton for any thoughts!
 
-14h ago
+15h ago
 
 ---
 
@@ -130,22 +146,6 @@ Hey everybody, I've been building a no code visual smart contract builder for so
 
 ---
 
-**[Daily General Discussion March 19, 2026](https://www.reddit.com/r/ethereum/comments/1rxrdse/daily_general_discussion_march_19_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
-**[I built an Agent Based modeling tool with deterministic and non-deterministic LLM powered agents for smart contracts to test security and mechanism design](https://www.reddit.com/r/ethereum/comments/1ryhtyy/i_built_an_agent_based_modeling_tool_with/)**
-
-Hey everyone! I just built a new Agent Based Modeling tool for EVM that works directly with Foundry! I would love feedback from anyone. I'll share Github Link as well as one to a twitter thread that I posted. You can run agent based simulations of smart contarcts to test security and mechanism design. You also can use LLM based agents that understand current world state and can make arbitrary smart contract calls. I guess you could say it's like "Ralph for Smart Contracts" too. There's even a Gossip channel that runs in tandem with the blockchain that agents can post to while the simulation is running. I'm looking for any contributors who are interested! https://x.com/wkylegdoteth/status/2030366623819858382 https://github.com/Elata-Biosciences/agentforge
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -170,15 +170,15 @@ Polymarket • 2mo ago
 
 Cryptocurrency analyst Ali Martinez said on Thursday that Ethereum has entered a generational “Buy Zone,” hinting at major bull runs on the horizon. What History Says In an X post, Martinez pointed out that Ethereum’s Market Value to Realized Value...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[QBridge: The First Non-Custodial Bridge Between Qubic and Ethereum](https://qubic.org/blog-detail/qbridge-qubic-ethereum-cross-chain-bridge)**
+**[Ethereum news (ETH): Tensions rise across Ethereum as scaling, security and AI Priorities intensify](https://www.coindesk.com/tech/2026/03/22/ethereum-faces-make-or-break-moment-in-high-stakes-balancing-act-as-scaling-quantum-and-ai-pressures-mount)**
 
-QBridge connects Qubic to Ethereum with a non-custodial, audited cross-chain bridge. Lock QUBIC, mint wQUBIC as an ERC-20 token, and access Ethereum DeFi. IPO live in Epoch 205.
+While upgrades have improved efficiency and lowered costs, the ecosystem faces deeper structural questions around fragmentation, security, and purpose, even as it continues prioritizing base-layer scaling.
 
-Qubic • 1d ago
+CoinDesk • 19m ago
 
 ---
 
@@ -190,7 +190,15 @@ TradingView • 1d ago
 
 ---
 
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqf-0FbvyTw3wiN8A7WAtRxh5Oqfd4NXBqrfLviKJQgKm-4DdtR3X9t8&gaa_ts=69c01365&gaa_sig=4fVO1WBYDak01u6_ZbdQqXKgAsXdNZUTgw37DESj0KhVU6Y_4JSBESHudz7M5t-wl0kjxgdD7Vh_CfUAV9_E_Q%3D%3D)**
+**[QBridge: The First Non-Custodial Bridge Between Qubic and Ethereum](https://qubic.org/blog-detail/qbridge-qubic-ethereum-cross-chain-bridge)**
+
+QBridge connects Qubic to Ethereum with a non-custodial, audited cross-chain bridge. Lock QUBIC, mint wQUBIC as an ERC-20 token, and access Ethereum DeFi. IPO live in Epoch 205.
+
+Qubic • 1d ago
+
+---
+
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqcbdFWz0uluYk9e20c8NNkmOFeLUw2fKfk3x9tE_4T7vuWe-1G59hIu&gaa_ts=69c02967&gaa_sig=XnK3nT4cDu8AIGqfIU9Yaqc9foaQYY_LCRld1Uj9G4hkXNAyrwBgUTn7DQxge3jA-iRJNQJUCDPt3nBLuXF8oA%3D%3D)**
 
 MarketWatch • 2d ago
 
@@ -218,14 +226,6 @@ Fortune • 2d ago
 
 ---
 
-**[Will Ethereum Ever Hit $5,000?](https://www.fool.com/investing/2026/03/20/will-ethereum-ever-hit-5000/)**
-
-Ethereum hit a new record high in 2025, but it still fell short of the $5,000 milestone.
-
-The Motley Fool • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -246,7 +246,7 @@ CRYPTO MARKET UPDATE! Crypto Crash Next Week? Join the Premium Signal Group for 
 
 📺 Cilinix Crypto
 
-👁️ 507 • 👍 53 • 💬 150 • ⏱️ 6:47 • 3h ago
+👁️ 507 • 👍 53 • 💬 150 • ⏱️ 6:47 • 4h ago
 
 ---
 
@@ -256,7 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 211 • 👍 12 • 💬 1 • ⏱️ 4:47 • 6h ago
+👁️ 211 • 👍 12 • 💬 1 • ⏱️ 4:47 • 7h ago
 
 ---
 
@@ -296,7 +296,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 5K • 👍 4K • 1h ago
+👁️ 5K • 👍 4K • 2h ago
 
 ---
 
@@ -306,7 +306,7 @@ BITCOIN PRICE HISTORY REPEATING (Get Ready)!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 9K • 👍 303 • 💬 133 • ⏱️ 13:52 • 17h ago
+👁️ 9K • 👍 303 • 💬 133 • ⏱️ 13:52 • 18h ago
 
 ---
 
@@ -316,7 +316,7 @@ In today's video I break down Bitcoin, Ethereum, stocks, oil, gold, and silver, 
 
 📺 James Crypto Guru
 
-👁️ 2K • 👍 127 • 💬 10 • ⏱️ 12:28 • 16h ago
+👁️ 2K • 👍 127 • 💬 10 • ⏱️ 12:28 • 17h ago
 
 ---
 

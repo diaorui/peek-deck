@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-22T16:32:52.602068+00:00'
+updated: '2026-03-22T17:26:55.069342+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 22, 2026 at 16:32 UTC  
+**Last Updated:** March 22, 2026 at 17:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Warehouse Robotics Are Now Sorting Books in Public Libraries](https://www.reddit.com/r/robotics/comments/1s0qomy/warehouse_robotics_are_now_sorting_books_in/)**
+
+The setup includes two robotic operation platforms, 28 sorting robots, and 4 delivery robots. A returned book goes through the return window → travels via conveyor belt → is picked up by a sorting robot and delivered to the correct shelf based on its category. Technically, this is the same class of autonomous mobile robotics used in e-commerce fulfillment. Robots navigate between shelves, avoid obstacles, and optimize routes in real time. Traditionally, librarians spend significant time collecting returned books, pushing carts, and manually reshelving.
+
+35m ago
+
+---
+
 **[Spotted a Galbot running a coffee shop fully autonomously.](https://www.reddit.com/r/robotics/comments/1s0jhwg/spotted_a_galbot_running_a_coffee_shop_fully/)**
 
 Saw the Galbot in action today at a cafe. What’s impressive is that it’s operating completely autonomously—no human intervention required. Watching its dual-arm coordination handle the espresso machine and serving was a great example of embodied AI moving into real-world commercial applications. This isn't just a demo; it's a functioning business model.
 
-4h ago
+5h ago
 
 ---
 
@@ -54,29 +62,31 @@ From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
 ---
 
+**[Followed a ROS2 tutorial, but my robot model looks completely different , not sure what I did](https://www.reddit.com/r/robotics/comments/1s0mjh3/followed_a_ros2_tutorial_but_my_robot_model_looks/)**
+
+I’m currently learning ROS2 and working with Gazebo, so I followed a tutorial where the robot looks like this (first image : red/yellow block style) but when I built mine, I ended up with something like the second image (black robot with wheels + lidar). I didn’t intentionally change much, so I’m confused how it ended up so different. What I did: - Followed a ROS2 mobile robot tutorial - Set up the model + simulation in Gazebo - Added lidar and basic movement control What I’m noticing: - My model structure looks completely different - Visual + geometry doesn’t match tutorial - Not sure if I accidentally changed URDF/Xacro or used a different base model Questions: What could cause this kind of difference? Did I accidentally switch model type (like differential vs something else)? Is this normal when building your own model vs tutorial assets? Also — I’m documenting my learning journey (ROS2 + robotics), so any guidance would help a lot. Thanks!
+
+3h ago
+
+---
+
+**[What happen with the Genesis simulator?](https://www.reddit.com/r/robotics/comments/1s0p9qy/what_happen_with_the_genesis_simulator/)**
+
+https://genesis-embodied-ai.github.io/ It's been about a year since they released their open repo along with an announcement video that seemed a little too good to be true. The video made a lot of publicity but there seemed to be some controversy at the time about the video containing functionality that wasn't actually available, that the devs said would be released later. Since then, I haven't seen any one actually using it. Was it all hype? It looks like the repo is still active. Has anyone used it for anything?
+
+1h ago
+
+---
+
 **[Real-time IMU VR tracking (ESP32 + ICM45686) streaming to PC — early test](https://www.reddit.com/r/robotics/comments/1s0jy7p/realtime_imu_vr_tracking_esp32_icm45686_streaming/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Those of you running multiple AI models on a single edge GPU (Jetson, etc.) - how do you handle resource allocation?](https://www.reddit.com/r/robotics/comments/1s0olg0/those_of_you_running_multiple_ai_models_on_a/)**
 
 1h ago
-
----
-
-**[“Elon said “come build robots with us” so I did it alone in the dark like a normal person”](https://www.reddit.com/r/robotics/comments/1s0oqr0/elon_said_come_build_robots_with_us_so_i_did_it/)**
-
-56m ago
-
----
-
-**[Followed a ROS2 tutorial, but my robot model looks completely different , not sure what I did](https://www.reddit.com/r/robotics/comments/1s0mjh3/followed_a_ros2_tutorial_but_my_robot_model_looks/)**
-
-I’m currently learning ROS2 and working with Gazebo, so I followed a tutorial where the robot looks like this (first image : red/yellow block style) but when I built mine, I ended up with something like the second image (black robot with wheels + lidar). I didn’t intentionally change much, so I’m confused how it ended up so different. What I did: - Followed a ROS2 mobile robot tutorial - Set up the model + simulation in Gazebo - Added lidar and basic movement control What I’m noticing: - My model structure looks completely different - Visual + geometry doesn’t match tutorial - Not sure if I accidentally changed URDF/Xacro or used a different base model Questions: What could cause this kind of difference? Did I accidentally switch model type (like differential vs something else)? Is this normal when building your own model vs tutorial assets? Also — I’m documenting my learning journey (ROS2 + robotics), so any guidance would help a lot. Thanks!
-
-2h ago
 
 ---
 
@@ -90,15 +100,7 @@ I’m currently learning ROS2 and working with Gazebo, so I followed a tutorial 
 
 We’re running a pretty heavy autonomous stack on a single edge computer (ROS 2 Jazzy) — multiple high-res cameras, dense LiDARs, and radars all on one machine. We’re starting to hit serious compute + latency limits, especially with intra-process communication and recording. Right now we’re evaluating: Fast DDS Cyclone DDS Zenoh Iceoryx Also, as soon as we start recording with rosbag2, CPU usage spikes hard and we get frame drops across the system. Two questions for folks who’ve pushed ROS 2 hard on a single machine: For high-bandwidth intra-host comms on Jazzy, which RMW has actually given you the best real-world performance? How are you dealing with the rosbag2 overhead? Composable recorder node? Separate process? Or bypassing ROS entirely and logging raw sensor data? For context: we previously ran Humble + CycloneDDS + MCAP and saw similar bottlenecks. Curious what setups are working well in practice.
 
-19h ago
-
----
-
-**[Another demo of my school project running the ACT](https://www.reddit.com/r/robotics/comments/1rzqryd/another_demo_of_my_school_project_running_the_act/)**
-
-It's one of the sample tasks I'm planning to demonstrate to the guests of my upcoming conference. ( 120 characters limit bypass )
-
-1d ago
+20h ago
 
 ---
 
@@ -106,11 +108,17 @@ It's one of the sample tasks I'm planning to demonstrate to the guests of my upc
 
 ## Google News: "robotics"
 
-**[Inside China’s robotics revolution](https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution)**
+**[Video Friday: Humanoid Learns Tennis Skills Playing Humans](https://spectrum.ieee.org/tennis-playing-robot)**
 
-The long read: How close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find out
+This humanoid robot is learning tennis the same way I did—by playing. Plus a robot horse for the Year of the Fire Horse in this week's robot videos.
 
-The Guardian • 3d ago
+IEEE Spectrum • 1d ago
+
+---
+
+**[Unitree plans Shanghai IPO, testing interest in humanoid robots](https://www.reuters.com/world/asia-pacific/unitree-plans-shanghai-ipo-testing-interest-humanoid-robots-2026-03-20/)**
+
+Reuters • 2d ago
 
 ---
 
@@ -122,11 +130,11 @@ Business Insider • 2d ago
 
 ---
 
-**[Video Friday: Humanoid Learns Tennis Skills Playing Humans](https://spectrum.ieee.org/tennis-playing-robot)**
+**[Robotics giant plans massive $90M plant in metro Detroit, 225 jobs](https://www.crainsdetroit.com/manufacturing-logistics/cdb-fanuc-robots-investment-michigan-20260319/)**
 
-This humanoid robot is learning tennis the same way I did—by playing. Plus a robot horse for the Year of the Fire Horse in this week's robot videos.
+Japanese manufacturer Fanuc is plotting a large expansion in Michigan in response to demand from automakers and other customers.
 
-IEEE Spectrum • 23h ago
+Crain's Detroit • 2d ago
 
 ---
 
@@ -134,21 +142,7 @@ IEEE Spectrum • 23h ago
 
 A local fundraiser hopes to raise enough money so the BCSC VEX IQ robotics teams who earned a chance to compete on the international stage can make the trip.
 
-The Republic News • 11h ago
-
----
-
-**[Unitree plans Shanghai IPO, testing interest in humanoid robots](https://www.reuters.com/world/asia-pacific/unitree-plans-shanghai-ipo-testing-interest-humanoid-robots-2026-03-20/)**
-
-Reuters • 2d ago
-
----
-
-**[Tech Moves: Carbon Robotics’ new CFO; Microsoft gaming GM goes to Netflix; Nordstrom gets VP of AI](https://www.geekwire.com/2026/tech-moves-carbon-robotics-new-cfo-microsoft-gaming-gm-goes-to-netflix-nordstrom-gets-vp-of-ai/)**
-
-Carbon Robotics names a CFO; Nordstrom gets a VP of AI; and a Microsoft gaming GM goes to Netflix while one of its longtime legal leaders retires.
-
-GeekWire • 2d ago
+The Republic News • 12h ago
 
 ---
 
@@ -160,14 +154,6 @@ CNBC • 2d ago
 
 ---
 
-**[Amazon Acquires Robotics Startup, Boosting Efforts to Streamline Deliveries](https://www.theinformation.com/articles/amazon-acquires-robotics-startup-boosting-efforts-streamline-deliveries)**
-
-Amazon has acquired autonomous robotics startup Rivr, an Amazon spokesperson confirmed, a deal that could help the commerce and logistics giant deliver packages to shoppers’ doors more efficiently. Based in Zurich and formerly known as Swiss-Mile, Rivr was valued at $110 million in an August ...
-
-The Information • 2d ago
-
----
-
 **[Amazon acquires autonomous robotics startup Rivr](https://www.engadget.com/big-tech/amazon-acquires-autonomous-robotics-startup-rivr-212839750.html)**
 
 Amazon has acquired Rivr, a startup focused on autonomous robotics that could further the tech giant's capabilities in package deliveries.
@@ -176,11 +162,25 @@ Engadget • 2d ago
 
 ---
 
-**[Robotics giant plans massive $90M plant in metro Detroit, 225 jobs](https://www.crainsdetroit.com/manufacturing-logistics/cdb-fanuc-robots-investment-michigan-20260319/)**
+**[Amazon acquires robotic doorstep delivery provider RIVR](https://www.therobotreport.com/amazon-acquires-robotic-doorstep-delivery-provider-rivr/)**
 
-Japanese manufacturer Fanuc is plotting a large expansion in Michigan in response to demand from automakers and other customers.
+With last-mile delivery company RIVR now at Amazon, could we soon see quadrupeds delivering our Amazon packages?
 
-Crain's Detroit • 2d ago
+The Robot Report • 2d ago
+
+---
+
+**[Tech Moves: Carbon Robotics’ new CFO; Microsoft gaming GM goes to Netflix; Nordstrom gets VP of AI](https://www.geekwire.com/2026/tech-moves-carbon-robotics-new-cfo-microsoft-gaming-gm-goes-to-netflix-nordstrom-gets-vp-of-ai/)**
+
+Carbon Robotics names a CFO; Nordstrom gets a VP of AI; and a Microsoft gaming GM goes to Netflix while one of its longtime legal leaders retires.
+
+GeekWire • 2d ago
+
+---
+
+**[Smarter, faster, and more human: AI system helps robots outpace their human teachers](https://techxplore.com/news/2026-03-smarter-faster-human-ai-robots.html)**
+
+Tech Xplore • 2d ago
 
 ---
 
@@ -234,7 +234,7 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 📺 CNET
 
-👁️ 2K • 👍 151 • 💬 6 • ⏱️ 5:50 • 4h ago
+👁️ 2K • 👍 151 • 💬 6 • ⏱️ 5:50 • 5h ago
 
 ---
 
