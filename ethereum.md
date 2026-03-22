@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-22T21:28:11.779467+00:00'
+updated: '2026-03-22T21:51:10.003069+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 21:28 UTC  
+**Last Updated:** March 22, 2026 at 21:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -118,7 +118,7 @@ Hey everyone, I’ve been working on a side project called Blockpeek and just sh
 
 I’m looking for a way to swap my Bitcoin to Ethereum without KYC, so obviously i found thorchain, but unfortunately it’s not available here in the U.S, and i heard it’s very expensive as well. Where should I do it you think? sorry if this question was already asked in past but i couldnt find an answer after bit lf time checking.
 
-1d ago
+2d ago
 
 ---
 
@@ -206,7 +206,7 @@ Fortune • 2d ago
 
 **[Ethereum ETF Sees Investors Head for the Exits as Price Slump Bites](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-sees-investors-head-for-the-exits-as-price-slump-bites)**
 
-TipRanks • 7h ago
+TipRanks • 8h ago
 
 ---
 
@@ -246,7 +246,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 My Channel
 
-👁️ 3K • 👍 1K • 5h ago
+👁️ 3K • 👍 1K • 6h ago
 
 ---
 
@@ -276,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 138 • 💬 26 • ⏱️ 4:00 • 6h ago
+👁️ 2K • 👍 138 • 💬 26 • ⏱️ 4:00 • 7h ago
 
 ---
 
@@ -296,7 +296,7 @@ Institutional giants are shifting their strategy, and BlackRock's aggressive ent
 
 📺 katelyn marcello
 
-👁️ 527 • 👍 6 • 💬 1 • ⏱️ 0:36 • 6h ago
+👁️ 527 • 👍 6 • 💬 1 • ⏱️ 0:36 • 7h ago
 
 ---
 
@@ -306,7 +306,7 @@ cryptomonnaies #cryptofrance #Bitcoin #Crypto #dollar #crypto #macroéconomie #s
 
 📺 Cryptolyze | Crypto - Finance - Économie
 
-👁️ 4K • 👍 423 • 💬 46 • ⏱️ 35:47 • 9h ago
+👁️ 4K • 👍 423 • 💬 46 • ⏱️ 35:47 • 10h ago
 
 ---
 
@@ -326,7 +326,7 @@ Kaosun ortasında makroekonomi ve varlıkları teker teker inceledim. Herkes sav
 
 📺 Emir Şahin
 
-👁️ 5K • 👍 718 • 💬 85 • ⏱️ 15:06 • 5h ago
+👁️ 5K • 👍 718 • 💬 85 • ⏱️ 15:06 • 6h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-22T21:28:11.764331+00:00'
+updated: '2026-03-22T21:51:09.988746+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
+- news
 - repositories
 - social
-- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 22, 2026 at 21:28 UTC  
+**Last Updated:** March 22, 2026 at 21:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -125,7 +125,7 @@ Growth without people.
 
 Dozens of Instagram and TikTok accounts have used AI avatars to promote explicit content, the BBC finds.
 
-BBC • 20h ago
+BBC • 21h ago
 
 ---
 
@@ -139,7 +139,7 @@ CNBC • 1d ago
 
 **[A year ago, a mathematician bet AI wouldn’t affect him, now he thinks he lost that bet](https://3dvf.com/en/a-year-ago-a-mathematician-bet-ai-wouldn-t-affect-him-now-he-thinks-he-lost-that-bet/)**
 
-3DVF • 1h ago
+3DVF • 2h ago
 
 ---
 
@@ -155,7 +155,7 @@ Fox News • 1h ago
 
 Georgetown University Center for Security and Emerging Technology associate director of analysis Owen Daniels discusses how artificial intelligence is being used in the Iran conflict on ‘Fox Report.’
 
-Fox News • 52m ago
+Fox News • 1h ago
 
 ---
 
@@ -400,7 +400,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 275,623 • ❤️ 794 • 11d ago
+⬇️ 275,623 • ❤️ 794 • 12d ago
 
 ---
 
@@ -470,7 +470,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 3,311 • ❤️ 190 • 21h ago
+⬇️ 3,311 • ❤️ 190 • 22h ago
 
 ---
 
@@ -723,7 +723,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 4.3k • 🔱 367 • 4h ago
+⭐ 4.3k • 🔱 367 • 5h ago
 
 ---
 
