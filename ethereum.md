@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-22T13:45:10.017077+00:00'
+updated: '2026-03-22T14:29:26.810495+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 13:45 UTC  
+**Last Updated:** March 22, 2026 at 14:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.4%  
-**7d:** -11.4%  
-**30d:** +5.6%  
-**90d:** -29.7%  
-**1y:** +4.0%  
+**24h:** -3.5%  
+**7d:** -11.6%  
+**30d:** +5.4%  
+**90d:** -29.9%  
+**1y:** +3.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $250.15B
+**Market Cap:** $251.05B
 Rank #2
 
 **Circulating Supply:** 120,691,743 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.1%
+-58.0%
 
 **All-Time Low:** $0.43
-+479061.8%
++480135.8%
 
 ---
 
@@ -72,7 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
+
+---
+
+**[Ethereum Cuts Bridge Times by 98%](https://www.reddit.com/r/ethereum/comments/1s0mzw8/ethereum_cuts_bridge_times_by_98/)**
+
+🔗 [financefeeds.com](https://financefeeds.com/crypto-news-ethereum-cuts-bridge-times-by-98-while-pepeto-hands-early-believers-100x-presale-gains/) • 3m ago
 
 ---
 
@@ -80,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi everyone, I'd really appreciate some feedback on something we're building on Ethereum. This is pretty much my first time doing this, but my co-founder is way more experienced, he's been a Web3 engineer for a long time. You probably know there are already some projects putting public stocks on-chain as RWAs. What we're trying to do is a bit different: bring the actual chain of custody on-chain for those shares. The issue with normal shares is they're totally fungible so you have zero clue who owned it before you. We want to track that history to unlock some "cultural premium" value as an RWA. Kind of like NFTs but for real shares. For example imagine proving your TSLA share was once held by Elon Musk. That kind of story probably makes it worth more to some people. To make it work we take verified shares (held in proper custody) and wrap them as provenance-wrapped shares on Ethereum smart contracts, using something like ERC-1155 for semi-fungible units, and record the full ownership chain in metadata or on-chain events. We're still in the middle of building, no live contracts or actual trading yet. Just trying to get real opinions early and figure if we're onto something or is this just dumb as hell. It would mean a lot to hear what Ethereum people think: Does provenance tracking for equities as RWAs actually sound useful/valuable, or is it kind of a gimmick? You can check out the demo to see how we're thinking about it in practice: https://provenantx.com https://preview.redd.it/fru8qps46iqg1.png?width=624&format=png&auto=webp&s=d93019bd8ad4a09695879f36d7c32f6f80436582 Thanks a ton for any thoughts!
 
-11h ago
+12h ago
 
 ---
 
@@ -140,14 +146,6 @@ Hey everyone! I just built a new Agent Based Modeling tool for EVM that works di
 
 ---
 
-**[PSA: CoinSpace/CoinWallet v3.0.7 (2021) has a derivation bug that made it provide the WRONG seed phrase. My recovery script inside.](https://www.reddit.com/r/ethereum/comments/1ry380b/psa_coinspacecoinwallet_v307_2021_has_a/)**
-
-Seen some past posts that people had lost their wallets and this might help those people! If you created a wallet with CoinSpace (now Coin Wallet) around early 2021 and your seed phrase generates a completely different address in MetaMask or any standard tool... you're not crazy. The software had a bug. CoinSpace v3.0.7 (and maybe other versions) incorrectly derived wallet addresses from your seed phrase due to two compounding errors in the code. Your seed phrase can be recovered - but not using it directly. the app just used a broken algorithm to turn it into an address, one that no standard wallet tool replicates. CoinWallet is aware of part of the issue and will point you to a derivation path fix if you report it, but that fix alone doesn't work. The recovery script in the repo handles it correctly. I hit this when I needed to recover 1.55 ETH from a wallet I created in Feb 2021. After weeks of forensics I found the bug and wrote a recovery script. Recovery script: https://github.com/RobMulla/coinspace-eth-recovery Full long writeup about my journey: https://robmulla.substack.com/p/how-my-sons-roblox-mod-helped-me If you're affected, and this works for you please let me know! Or if you knew about this already... I'm curious to know if I'm not the only one.
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -172,13 +170,13 @@ Polymarket • 2mo ago
 
 Ethereum’s native token, Ether BITSTAMP:ETHUSD, may rise by around 25% in the coming months as its richest whale group becomes profitable for the first time since early February.Key takeaways:Whale metric signals ETH is bottoming alreadyThe unrealized profit ratio of wallets holding more than 100,0…
 
-TradingView • 21h ago
+TradingView • 22h ago
 
 ---
 
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqeMI1wo_pdlIAeZWftn45p_0HevDGOU4lu__beukQ5Git88La6kvk5m&gaa_ts=69bfea01&gaa_sig=JOBny-5WsmZRgu2n_1yro0dgZS-lcQmvxTpjC421UepNQ7cPIjG3JpvT7MLRueuZW7OFn89ZZdm0A6NH0-Etuw%3D%3D)**
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqcb7-sWavActR2Y9czDbG0-w2tijWU7YlFKy6hy_q3Kb0XcOiSgupUe&gaa_ts=69c0002f&gaa_sig=34rKtiNONhiAIGVCGL27G88YeCIcPDm5pLFp0-1WXhccoUhHvaLHTQDvFLZLzPwWokA_iD8axYLo-yCQTPcasg%3D%3D)**
 
-MarketWatch • 1d ago
+MarketWatch • 2d ago
 
 ---
 
@@ -210,7 +208,7 @@ Qubic • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 1d ago
+Fortune • 2d ago
 
 ---
 
@@ -222,9 +220,9 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Ethereum Chill: iShares ETHA ETF Sees $102 Million Exit as Token Slump Deepens](https://www.tipranks.com/news/cryptocurrencies/ethereum-chill-ishares-etha-etf-sees-102-million-exit-as-token-slump-deepens)**
+**[Ethereum Price Prediction Hits $10K Target, But The New Crypto Pepeto Built on ETH Is Where Whales Are Putting Their Real Money](https://financefeeds.com/ethereum-price-prediction-hits-10k-target-but-the-new-crypto-pepeto-built-on-eth-is-where-whales-are-putting-their-real-money/)**
 
-TipRanks • 1d ago
+FinanceFeeds • 13h ago
 
 ---
 
@@ -232,23 +230,23 @@ TipRanks • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=GKa-e5iSFRI)**
-
-ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
-
-📺 Chad Colby
-
-👁️ 4K • 👍 1K • 2h ago
-
----
-
 **[Vitalik vs BlackRock: Who Wins?](https://www.youtube.com/watch?v=l77QrTEIgpo)**
 
 BlackRock just launched a staking Ethereum ETF—but is it really a win for investors? This video breaks down ETHB, hidden fees, ...
 
 📺 Coin Bureau
 
-👁️ 15K • 👍 712 • 💬 89 • ⏱️ 18:11 • 23h ago
+👁️ 16K • 👍 734 • 💬 93 • ⏱️ 18:11 • 1d ago
+
+---
+
+**[Will the Crypto Market CRASH Next Week?🚨 (Bitcoin, Ethereum, XRP &amp; Altcoins Update)](https://www.youtube.com/watch?v=Y3cmlLGbauo)**
+
+CRYPTO MARKET UPDATE! Crypto Crash Next Week? Join the Premium Signal Group for trade setups, mentorship & a ...
+
+📺 Cilinix Crypto
+
+👁️ 248 • 👍 31 • 💬 6 • ⏱️ 6:47 • 1h ago
 
 ---
 
@@ -258,17 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 92 • 👍 12 • 💬 1 • ⏱️ 4:47 • 3h ago
-
----
-
-**[BITCOIN &amp; ETH HUGE DROP, JUST AS I REDUCED AND LOWERED MY TRADES](https://www.youtube.com/watch?v=Uyoug29e0J4)**
-
-In today's video I break down Bitcoin, Ethereum, stocks, oil, gold, and silver, including the key levels, setups, and risk management ...
-
-📺 James Crypto Guru
-
-👁️ 2K • 👍 115 • 💬 10 • ⏱️ 12:28 • 13h ago
+👁️ 194 • 👍 12 • 💬 1 • ⏱️ 4:47 • 4h ago
 
 ---
 
@@ -278,7 +266,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 484 • 💬 47 • ⏱️ 19:43 • 1d ago
+👁️ 12K • 👍 487 • 💬 47 • ⏱️ 19:43 • 1d ago
 
 ---
 
@@ -288,7 +276,37 @@ Ethereum is showing strong bullish signals, with analysts predicting a major reb
 
 📺 Crypto Sensei
 
-👁️ 6K • 👍 467 • 💬 56 • ⏱️ 12:42 • 2d ago
+👁️ 6K • 👍 470 • 💬 56 • ⏱️ 12:42 • 2d ago
+
+---
+
+**[Le problème &quot;impossible&quot; d&#39;Ethereum vient d&#39;être résolu](https://www.youtube.com/watch?v=pqyPLJIxgss)**
+
+cryptomonnaies #cryptofrance #Bitcoin #Crypto #dollar #crypto #macroéconomie #stablecoins #investissement GUIDE pour ...
+
+📺 Cryptolyze | Crypto - Finance - Économie
+
+👁️ 1K • 👍 200 • 💬 33 • ⏱️ 35:47 • 2h ago
+
+---
+
+**[BITCOIN &amp; ETH HUGE DROP, JUST AS I REDUCED AND LOWERED MY TRADES](https://www.youtube.com/watch?v=Uyoug29e0J4)**
+
+In today's video I break down Bitcoin, Ethereum, stocks, oil, gold, and silver, including the key levels, setups, and risk management ...
+
+📺 James Crypto Guru
+
+👁️ 2K • 👍 119 • 💬 10 • ⏱️ 12:28 • 14h ago
+
+---
+
+**[BTC &amp; ETH LIVE Trading | Bitcoin Price Action Analysis | Crypto Live Market #crypto #bitcoin #btc](https://www.youtube.com/watch?v=TdumgaA0ngU)**
+
+Bitcoin #Ethereum #Crypto #BTCTrading #CryptoLive Community & Official Process Official Telegram Channel: ...
+
+📺 Live Trading With Yashika
+
+👁️ 461 • 👍 44 • 💬 9 • ⏱️ 15:23 • 39m ago
 
 ---
 
@@ -298,25 +316,7 @@ BITCOIN PRICE HISTORY REPEATING (Get Ready)!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 7K • 👍 278 • 💬 128 • ⏱️ 13:52 • 14h ago
-
----
-
-**[CRYPTO LIVE TRADING || 22 Mar  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=ut_1CXUKnI8)**
-
-join my social platforms for updates and analysis ✓Instagram: ...
-
-📺 Aryan trader Live
-
-👁️ 2K • 👍 2K • 3h ago
-
----
-
-**[Asking AI to Predict Ethereum Price in 2030](https://www.youtube.com/watch?v=nmWDqBAfbkw)**
-
-📺 EllioTrades
-
-👁️ 12K • 👍 254 • 💬 36 • ⏱️ 1:07 • 2d ago
+👁️ 8K • 👍 292 • 💬 132 • ⏱️ 13:52 • 15h ago
 
 ---
 
@@ -326,7 +326,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Buy
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 3K • 💬 240 • ⏱️ 9:50 • 1d ago
+👁️ 52K • 👍 3K • 💬 240 • ⏱️ 9:50 • 1d ago
 
 ---
 

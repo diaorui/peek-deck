@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-22T13:45:10.010992+00:00'
+updated: '2026-03-22T14:29:26.805184+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 13:45 UTC  
+**Last Updated:** March 22, 2026 at 14:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.9%  
-**7d:** -8.3%  
-**30d:** +0.9%  
-**90d:** -21.4%  
-**1y:** -20.2%  
+**24h:** -2.6%  
+**7d:** -8.1%  
+**30d:** +1.2%  
+**90d:** -21.2%  
+**1y:** -20.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1367.58B
+**Market Cap:** $1376.27B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--45.8%
+-45.4%
 
 **All-Time Low:** $67.81
-+100745.0%
++101346.7%
 
 ---
 
@@ -77,27 +77,11 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Morgan Stanley's Bitcoin ETF To Trade As 'MSBT' On NYSE. Likely to funnel more capital into BTC than all other Bitcoin ETF's combined.](https://www.reddit.com/r/Bitcoin/comments/1s04ah4/morgan_stanleys_bitcoin_etf_to_trade_as_msbt_on/)**
+**[A statue of Bitcoin creator Satoshi Nakamoto now stands in El Zonte, where it all started.](https://www.reddit.com/r/Bitcoin/comments/1s0m9xs/a_statue_of_bitcoin_creator_satoshi_nakamoto_now/)**
 
-Morgan Stanley allows clients to allocate between 0-4% of their portfolioa to bitcoin. Even a modest 2% could add $160 Billion dollars in capital to the BTC market.
+Link to the Bitcoin history in El Zonte, but I'm sure you can find and share even better articles: https://wildcatsandblacksheep.com/the-salvadoran-beach-town-that-became-a-bitcoin-testbed/
 
-🔗 [Bitcoin Magazine](https://share.google/eNr25Ee6vq1fB2Lv1) • 15h ago
-
----
-
-**[There won't be a second date but at least she knows about the Blocksize War and how the Lightning Network works](https://www.reddit.com/r/Bitcoin/comments/1s012lr/there_wont_be_a_second_date_but_at_least_she/)**
-
-An excellent book about all the details, even people who fought the Blocksize war might have missed: https://www.youtube.com/watch?v=6YtS5ZNuuTw And excellent explanation of r/thelightningnetwork: https://www.youtube.com/watch?v=yKdK-7AtAMQ A bonus video. Lyn Alden's Full Broken Money Thesis in under 50min: https://www.youtube.com/watch?v=k3NN_NZOdhY
-
-17h ago
-
----
-
-**[Lost BTC wallet from 2013](https://www.reddit.com/r/Bitcoin/comments/1s0at4i/lost_btc_wallet_from_2013/)**
-
-Hey all, I have a friend who is definitely not tech-savvy who mentioned that she bought about 20 BTC as a joke in 2013. She says she documented all of the procedures and passwords at the behest of a tech friend she doesn't speak to any longer. She also still has the laptop from 2013 that she apparently did all this with, which doesn't seem to boot up. I did help her find the exchange she used and confirmed through the log that she sent 16.1 BTC to this wallet of hers. I have been researching the common wallets and am not sure if she had a web-based or software-based wallet. I believe (hoping) it was software-based and found the top five from that time. Apparently the web-based wallets suffered a high casualty rate. So it seems like it would be best to get the original laptop working again, even though she said she backed it up, the Bitcoin-related data was apparently on a different partition and I don't think she backed up that partition, as she just did time machine backups. Seems like a good next step? Thanks in advance.
-
-10h ago
+33m ago
 
 ---
 
@@ -105,7 +89,39 @@ Hey all, I have a friend who is definitely not tech-savvy who mentioned that she
 
 About 10 years ago, I bought 0.2 Bitcoin out of curiosity, and recently I happened upon the document where I wrote down the information about it. There are a few user names and passwords that I don’t quite know what they are good for, so I installed Bluewallet (iOS) which asked me for a seed. So I entered this “seed“ phrase, which seems to be correct, and now I can see the balance (0.218797) in my BlueWallet wallet. 1) I guess this means that I could sell these 0.21…. Bitcoin if I wanted to (I don’t want to, it’s hypothetical)? Would I need a password? Im pretty sure i have the correct password, but how can I test this without actually selling anything? 2) I don’t understand where my 0.2… Bitcoin is stored. I think it’s not stored on my device, otherwise I wouldn’t need the seed phrase to access it, right? So how can I know where it is stored? 3) (Related to Q 2): If I wanted to buy a little more, how could I add that to my existing balance rather than creating a new wallet? Thanks in advance
 
-1h ago
+2h ago
+
+---
+
+**[Morgan Stanley's Bitcoin ETF To Trade As 'MSBT' On NYSE. Likely to funnel more capital into BTC than all other Bitcoin ETF's combined.](https://www.reddit.com/r/Bitcoin/comments/1s04ah4/morgan_stanleys_bitcoin_etf_to_trade_as_msbt_on/)**
+
+Morgan Stanley allows clients to allocate between 0-4% of their portfolioa to bitcoin. Even a modest 2% could add $160 Billion dollars in capital to the BTC market.
+
+🔗 [Bitcoin Magazine](https://share.google/eNr25Ee6vq1fB2Lv1) • 16h ago
+
+---
+
+**[Lost BTC wallet from 2013](https://www.reddit.com/r/Bitcoin/comments/1s0at4i/lost_btc_wallet_from_2013/)**
+
+Hey all, I have a friend who is definitely not tech-savvy who mentioned that she bought about 20 BTC as a joke in 2013. She says she documented all of the procedures and passwords at the behest of a tech friend she doesn't speak to any longer. She also still has the laptop from 2013 that she apparently did all this with, which doesn't seem to boot up. I did help her find the exchange she used and confirmed through the log that she sent 16.1 BTC to this wallet of hers. I have been researching the common wallets and am not sure if she had a web-based or software-based wallet. I believe (hoping) it was software-based and found the top five from that time. Apparently the web-based wallets suffered a high casualty rate. So it seems like it would be best to get the original laptop working again, even though she said she backed it up, the Bitcoin-related data was apparently on a different partition and I don't think she backed up that partition, as she just did time machine backups. Seems like a good next step? Thanks in advance.
+
+11h ago
+
+---
+
+**[There won't be a second date but at least she knows about the Blocksize War and how the Lightning Network works](https://www.reddit.com/r/Bitcoin/comments/1s012lr/there_wont_be_a_second_date_but_at_least_she/)**
+
+An excellent book about all the details, even people who fought the Blocksize war might have missed: https://www.youtube.com/watch?v=6YtS5ZNuuTw And excellent explanation of r/thelightningnetwork: https://www.youtube.com/watch?v=yKdK-7AtAMQ A bonus video. Lyn Alden's Full Broken Money Thesis in under 50min: https://www.youtube.com/watch?v=k3NN_NZOdhY
+
+18h ago
+
+---
+
+**[UNDER $70K IS SUCH AN AMAZING OPPORTUNITY](https://www.reddit.com/r/Bitcoin/comments/1s0m3n9/under_70k_is_such_an_amazing_opportunity/)**
+
+Sometimes it doesn't feel real that we're under $70K right now and have the opportunity to buy at this time. Looking back in a few years and we'll all wish that we had this chance again. I'm trying to get as much as I can right now because once that ship sails... It's gone my friends. Just putting the NOW in perspective. I always look back and regret not buying early, but not this time.
+
+40m ago
 
 ---
 
@@ -113,7 +129,13 @@ About 10 years ago, I bought 0.2 Bitcoin out of curiosity, and recently I happen
 
 Been watching the markets lately and keep wanting to throw more money at these lower prices curious what everyone else is doing with their investment split between crypto and the usual stuff like index funds stocks bonds etc what percentage you running and why did you choose that amount also probably spending too much time refreshing charts instead of studing but whatever
 
-12h ago
+13h ago
+
+---
+
+**[The Code of Liberty: Why Bitcoin is the Only True Constitutional Money.](https://www.reddit.com/r/Bitcoin/comments/1s0hhko/the_code_of_liberty_why_bitcoin_is_the_only_true/)**
+
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-code-of-liberty-why-bitcoin-is) • 4h ago
 
 ---
 
@@ -127,29 +149,7 @@ Been watching the markets lately and keep wanting to throw more money at these l
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-7h ago
-
----
-
-**[The Code of Liberty: Why Bitcoin is the Only True Constitutional Money.](https://www.reddit.com/r/Bitcoin/comments/1s0hhko/the_code_of_liberty_why_bitcoin_is_the_only_true/)**
-
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-code-of-liberty-why-bitcoin-is) • 4h ago
-
----
-
-**[Have you seen it? The scientist said that BTC will reach $350K ~ $700K without FOMO between mid 2027 ~ end 2028.](https://www.reddit.com/r/Bitcoin/comments/1rzo7jq/have_you_seen_it_the_scientist_said_that_btc_will/)**
-
-Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perrenod
-
-1d ago
-
----
-
-**[I'm writing a short story with a passing mention of Bitcoin but I could do with a ELI5 about cold storage wallets. More below...](https://www.reddit.com/r/Bitcoin/comments/1s0i7sz/im_writing_a_short_story_with_a_passing_mention/)**
-
-Can someone store their wallet on an offline laptop or a USB drive? Is that password protected in a simple way? For example, could I have a USB stick with a password of Password1234, no matter how stupid that would be. And finally if someone knew that password and took the USB drive, do they effectively take all your Bitcoin. Sorry if this is disallowed, or seems very simplistic. I've read loads online and it all seems, quite rightly, more complex but they assume nobody could be that stupid.
-
-3h ago
+8h ago
 
 ---
 
@@ -171,25 +171,41 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin Already Rising To Quantum Threat, Says Galaxy — So What Is Most At Risk?](https://www.ccn.com/news/crypto/bitcoin-already-rising-quantum-threat-galaxy-most-risk/)**
+**[Bitcoin Drops Below $69,000 as War Fears Weigh on Crypto Markets](https://www.bloomberg.com/news/articles/2026-03-22/bitcoin-drops-below-69-000-as-war-fears-weigh-on-crypto-markets)**
 
-CCN.com • 1h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Got $1,500? Is It Better to Buy Bitcoin, or Viking Therapeutics?](https://www.fool.com/investing/2026/03/22/got-1500-is-it-better-to-buy-bitcoin-or-viking-the/)**
+**[Is It Too Late to Buy Bitcoin?](https://www.fool.com/investing/2026/03/22/is-it-too-late-to-buy-coin/)**
 
-One of these assets is catalyst-driven; the other isn't.
+The key to understanding Bitcoin is the four-year cycle.
 
 The Motley Fool • 3h ago
 
 ---
 
-**[‘It’s negative for Bitcoin’ – price slides below $70,000 on Iran long war fears](https://finance.yahoo.com/markets/crypto/articles/negative-bitcoin-price-slides-below-111853853.html)**
+**[Bitcoin Already Rising To Quantum Threat, Says Galaxy — So What Is Most At Risk?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-already-rising-quantum-threat-123215286.html)**
 
-Trump: US will hit Iranian power plants unless Strait of Hormuz reopens. Prolonged conflict would be “negative for Bitcoin,” says expert. Bitcoin not yet a proven “safe haven asset,” analyst explains.
+Risk is real but limited today, says Galaxy. Bitcoin is already preparing, the firm found. Debate remains divided. Bitcoin may already be adapting to the ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[This Lee restaurant is now accepting bitcoin to pay for meals. Here's how that works](https://www.berkshireeagle.com/news/southern_berkshires/cafe-triskele-accepts-bitcoin/article_d9c0a6f8-c10e-4773-be63-b7a4b3f3a6a3.html)**
+
+With Bitcoin and other cryptocurrency tokens becoming more accepted, retailers are beginning to accept them as forms of payment. Café Triskele in Lee the first restaurant in Berkshire County to
+
+The Berkshire Eagle • 22h ago
+
+---
+
+**[French bitcoin evangelical Eric Larchevêque wants his right-wing voice to be part of public debate](https://www.lemonde.fr/en/m-le-mag/article/2026/03/21/french-bitcoin-evangelical-eric-larcheveque-wants-his-right-wing-voice-to-be-part-of-public-debate_6751676_117.html)**
+
+Known to the public as a judge on a television show, the French bitcoin pioneer wants to win over the masses to the cryptocurrencies that made him wealthy. With the 2027 presidential election approaching, this libertarian has embraced increasingly radical ideas.
+
+Le Monde.fr • 1d ago
 
 ---
 
@@ -213,23 +229,7 @@ Bitcoin Magazine • 1d ago
 
 Two Bitcoin OGs sold $117M in BTC after the Fed decision. But Bitcoin whale wallets are buying the dip as exchange reserves hit a 7-year low.
 
-24/7 Wall St. • 21h ago
-
----
-
-**[What price will Bitcoin hit on March 21? Trading Odds & Predictions](https://polymarket.com/event/what-price-will-bitcoin-hit-on-march-21)**
-
-View real-time odds for "What price will Bitcoin hit on March 21?" as of March 22, 2026 and trade on The World's Largest Prediction Market™
-
-Polymarket • 9h ago
-
----
-
-**[Retail investors aren’t crazy for Farage and Kwarteng’s bitcoin business](https://www.ft.com/content/f9849a1a-7d8a-4806-babd-b32c4d3105c5)**
-
-Unpopular
-
-Financial Times • 1d ago
+24/7 Wall St. • 22h ago
 
 ---
 
@@ -271,7 +271,7 @@ Seal predictions and decisions with cryptographic proof anchored to Bitcoin. No 
 
 Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 33 chain analysis heuristics. Free, client-side, no tracking.
 
-⬆️ 1 • 💬 0 • 20h ago • [am-i.exposed](https://am-i.exposed/)
+⬆️ 1 • 💬 0 • 21h ago • [am-i.exposed](https://am-i.exposed/)
 
 ---
 
@@ -280,6 +280,12 @@ Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 3
 Open archive of autonomous scientific discovery experiments.
 
 ⬆️ 1 • 💬 2 • 4d ago • [protoscience.ai](https://protoscience.ai)
+
+---
+
+**[TrustAgentAI – Cryptographic receipts for MCP tool calls (non-repudiation layer)](https://news.ycombinator.com/item?id=47421489)**
+
+⬆️ 6 • 💬 0 • 4d ago
 
 ---
 
@@ -293,7 +299,17 @@ Bitcoin just scored a massive regulatory win that changes everything for develop
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 1K • 💬 92 • ⏱️ 21:11 • 14h ago
+👁️ 24K • 👍 2K • 💬 112 • ⏱️ 21:11 • 15h ago
+
+---
+
+**[Bitcoin Holders, I Really Wasn&#39;t Expecting This Outcome](https://www.youtube.com/watch?v=xwff4pYhO9E)**
+
+Things are heating up Check out Ledn: https://aaronbtc.com/ledn ChangeNOW: https://bit.ly/47E6nl9 X ...
+
+📺 Aaron Bennett
+
+👁️ 3K • 👍 275 • 💬 42 • ⏱️ 9:35 • 5h ago
 
 ---
 
@@ -303,17 +319,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 45K • 👍 2K • 💬 129 • ⏱️ 59:39 • 1d ago
-
----
-
-**[This Bitcoin Signal Has Never Failed And It Just Signaled This…](https://www.youtube.com/watch?v=H03UCveRgCA)**
-
-Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
-
-📺 CryptosRus Extra
-
-👁️ 8K • 👍 406 • 💬 151 • ⏱️ 8:34 • 1d ago
+👁️ 47K • 👍 2K • 💬 129 • ⏱️ 59:39 • 1d ago
 
 ---
 
@@ -323,7 +329,7 @@ Bitcoin just went live at millions of businesses without anyone opting in. While
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 135 • ⏱️ 12:51 • 1d ago
+👁️ 22K • 👍 1K • 💬 137 • ⏱️ 12:51 • 1d ago
 
 ---
 
@@ -333,7 +339,7 @@ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 1K • 💬 161 • ⏱️ 8:36 • 16h ago
+👁️ 22K • 👍 1K • 💬 181 • ⏱️ 8:36 • 16h ago
 
 ---
 
@@ -343,7 +349,7 @@ A classic case of the bear market blues for Bitcoin. Into The Cryptoverse Premiu
 
 📺 Benjamin Cowen
 
-👁️ 65K • 👍 4K • 💬 205 • ⏱️ 11:38 • 2d ago
+👁️ 66K • 👍 4K • 💬 207 • ⏱️ 11:38 • 2d ago
 
 ---
 
@@ -353,7 +359,7 @@ Bitcoin Vegas 2026: https://fxo.co/JAmn Welcome to the Crypto Lifer Channel! JOI
 
 📺 Crypto Lifer
 
-👁️ 5K • 👍 329 • 💬 51 • ⏱️ 1:10:20 • 12h ago
+👁️ 5K • 👍 330 • 💬 107 • ⏱️ 1:10:20 • 12h ago
 
 ---
 
@@ -361,17 +367,17 @@ Bitcoin Vegas 2026: https://fxo.co/JAmn Welcome to the Crypto Lifer Channel! JOI
 
 📺 CryptoWendyO
 
-👁️ 9K • 👍 522 • 💬 8 • ⏱️ 2:00 • 1d ago
+👁️ 9K • 👍 526 • 💬 13 • ⏱️ 2:00 • 1d ago
 
 ---
 
-**[🚨 Stop watching Bitcoin price.. watch THIS instead 👀](https://www.youtube.com/watch?v=sl6uc52-XuY)**
+**[LIVE: Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Prediction](https://www.youtube.com/watch?v=wSJapH7tA08)**
 
-0% Fees on Gold And Silver (Earn $300k): https://www.weex.com/events/promo/0fees-gold-silver-300k?vipCode=oz5p ...
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
 
-📺 Altcoin Daily
+📺 Chad Colby
 
-👁️ 10K • 👍 315 • 💬 54 • ⏱️ 1:06 • 1d ago
+👁️ 1K • 👍 1K • 2h ago
 
 ---
 
@@ -381,7 +387,7 @@ Coin Deals HERE https://solo.to/couchcollectibles FREE $15 Credit: https://www.w
 
 📺 Couch Collectibles
 
-👁️ 955 • 👍 36 • 💬 1 • ⏱️ 2:52 • 11h ago
+👁️ 1K • 👍 41 • 💬 2 • ⏱️ 2:52 • 12h ago
 
 ---
 

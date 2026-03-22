@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-22T13:45:10.020353+00:00'
+updated: '2026-03-22T14:29:26.813318+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 22, 2026 at 13:45 UTC  
+**Last Updated:** March 22, 2026 at 14:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,14 +32,6 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Chinese robot hand tighten screws with insane precision (From ORCA Dexterity design)](https://www.reddit.com/r/robotics/comments/1rzr3bk/chinese_robot_hand_tighten_screws_with_insane/)**
-
-From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
-
-1d ago
-
----
-
 **[Spotted a Galbot running a coffee shop fully autonomously.](https://www.reddit.com/r/robotics/comments/1s0jhwg/spotted_a_galbot_running_a_coffee_shop_fully/)**
 
 Saw the Galbot in action today at a cafe. What’s impressive is that it’s operating completely autonomously—no human intervention required. Watching its dual-arm coordination handle the espresso machine and serving was a great example of embodied AI moving into real-world commercial applications. This isn't just a demo; it's a functioning business model.
@@ -48,29 +40,37 @@ Saw the Galbot in action today at a cafe. What’s impressive is that it’s ope
 
 ---
 
+**[Chinese robot hand tighten screws with insane precision (From ORCA Dexterity design)](https://www.reddit.com/r/robotics/comments/1rzr3bk/chinese_robot_hand_tighten_screws_with_insane/)**
+
+From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
+
+1d ago
+
+---
+
 **[Ringbot: A monocycle robot developed by the Robotics and Institute (RAI) that uses internal legs for balance and acrobatic maneuvers](https://www.reddit.com/r/robotics/comments/1rztuum/ringbot_a_monocycle_robot_developed_by_the/)**
 
-22h ago
+23h ago
 
 ---
 
 **[Real-time IMU VR tracking (ESP32 + ICM45686) streaming to PC — early test](https://www.reddit.com/r/robotics/comments/1s0jy7p/realtime_imu_vr_tracking_esp32_icm45686_streaming/)**
 
-1h ago
+2h ago
+
+---
+
+**[Followed a ROS2 tutorial, but my robot model looks completely different , not sure what I did](https://www.reddit.com/r/robotics/comments/1s0mjh3/followed_a_ros2_tutorial_but_my_robot_model_looks/)**
+
+I’m currently learning ROS2 and working with Gazebo, so I followed a tutorial where the robot looks like this (first image : red/yellow block style) but when I built mine, I ended up with something like the second image (black robot with wheels + lidar). I didn’t intentionally change much, so I’m confused how it ended up so different. What I did: - Followed a ROS2 mobile robot tutorial - Set up the model + simulation in Gazebo - Added lidar and basic movement control What I’m noticing: - My model structure looks completely different - Visual + geometry doesn’t match tutorial - Not sure if I accidentally changed URDF/Xacro or used a different base model Questions: What could cause this kind of difference? Did I accidentally switch model type (like differential vs something else)? Is this normal when building your own model vs tutorial assets? Also — I’m documenting my learning journey (ROS2 + robotics), so any guidance would help a lot. Thanks!
+
+22m ago
 
 ---
 
 **[You eventually start to realize, no job is safe](https://www.reddit.com/r/robotics/comments/1rzftd8/you_eventually_start_to_realize_no_job_is_safe/)**
 
 1d ago
-
----
-
-**[Followed a ROS2 tutorial, but my robot model looks completely different , not sure what I did](https://www.reddit.com/r/robotics/comments/1s0jhn1/followed_a_ros2_tutorial_but_my_robot_model_looks/)**
-
-I’m currently learning ROS2 and working with Gazebo, so I followed a tutorial where the robot looks like this (first image : red/yellow block style) but when I built mine, I ended up with something like the second image (black robot with wheels + lidar). I didn’t intentionally change much, so I’m confused how it ended up so different. What I did: - Followed a ROS2 mobile robot tutorial - Set up the model + simulation in Gazebo - Added lidar and basic movement control What I’m noticing: - My model structure looks completely different - Visual + geometry doesn’t match tutorial - Not sure if I accidentally changed URDF/Xacro or used a different base model Questions: What could cause this kind of difference? Did I accidentally switch model type (like differential vs something else)? Is this normal when building your own model vs tutorial assets? Also — I’m documenting my learning journey (ROS2 + robotics), so any guidance would help a lot. Thanks!
-
-2h ago
 
 ---
 
@@ -94,7 +94,7 @@ It's one of the sample tasks I'm planning to demonstrate to the guests of my upc
 
 I want to make an aim-able phone holder with servos/steppers tucked in the base… and I don’t want to reinvent the wheel. Are there any references of this design? (Like a Simpson 3d printer, but simpler and for robot arms)
 
-16h ago
+17h ago
 
 ---
 
@@ -102,7 +102,7 @@ I want to make an aim-able phone holder with servos/steppers tucked in the base�
 
 Testing the built-in 3D reconstruction algorithm of the Viobot2 — the result looks good. Has anyone used the Viobot2 for other DIY work? Can anyone share with me?
 
-22h ago
+23h ago
 
 ---
 
@@ -130,21 +130,21 @@ Business Insider • 2d ago
 
 This humanoid robot is learning tennis the same way I did—by playing. Plus a robot horse for the Year of the Fire Horse in this week's robot videos.
 
-IEEE Spectrum • 20h ago
-
----
-
-**[AI-evolved adaptable robot is almost impossible to destroy](https://newatlas.com/robotics/ai-evolved-indestructible-robot/)**
-
-It took nature millions of years to create intelligent, adaptive species. Researchers at Northwestern University in Illinois are using AI to evolve robots in minutes. The result is a robot that is agile, highly adaptive, and technically indestructible.
-
-New Atlas • 1d ago
+IEEE Spectrum • 21h ago
 
 ---
 
 **[Unitree plans Shanghai IPO, testing interest in humanoid robots](https://www.reuters.com/world/asia-pacific/unitree-plans-shanghai-ipo-testing-interest-humanoid-robots-2026-03-20/)**
 
 Reuters • 2d ago
+
+---
+
+**[Tech Moves: Carbon Robotics’ new CFO; Microsoft gaming GM goes to Netflix; Nordstrom gets VP of AI](https://www.geekwire.com/2026/tech-moves-carbon-robotics-new-cfo-microsoft-gaming-gm-goes-to-netflix-nordstrom-gets-vp-of-ai/)**
+
+Carbon Robotics names a CFO; Nordstrom gets a VP of AI; and a Microsoft gaming GM goes to Netflix while one of its longtime legal leaders retires.
+
+GeekWire • 1d ago
 
 ---
 
@@ -172,19 +172,17 @@ Engadget • 2d ago
 
 ---
 
-**[Tech Moves: Carbon Robotics’ new CFO; Microsoft gaming GM goes to Netflix; Nordstrom gets VP of AI](https://www.geekwire.com/2026/tech-moves-carbon-robotics-new-cfo-microsoft-gaming-gm-goes-to-netflix-nordstrom-gets-vp-of-ai/)**
-
-Carbon Robotics names a CFO; Nordstrom gets a VP of AI; and a Microsoft gaming GM goes to Netflix while one of its longtime legal leaders retires.
-
-GeekWire • 1d ago
-
----
-
 **[Robotics giant plans massive $90M plant in metro Detroit, 225 jobs](https://www.crainsdetroit.com/manufacturing-logistics/cdb-fanuc-robots-investment-michigan-20260319/)**
 
 Japanese manufacturer Fanuc is plotting a large expansion in Michigan in response to demand from automakers and other customers.
 
 Crain's Detroit • 2d ago
+
+---
+
+**[Smarter, faster, and more human: AI system helps robots outpace their human teachers](https://techxplore.com/news/2026-03-smarter-faster-human-ai-robots.html)**
+
+Tech Xplore • 2d ago
 
 ---
 
@@ -198,7 +196,17 @@ Crain's Detroit • 2d ago
 
 📺 MachineWorks Studio
 
-👁️ 2.7M • 👍 2K • 💬 39 • ⏱️ 0:06 • 5d ago
+👁️ 2.7M • 👍 3K • 💬 41 • ⏱️ 0:06 • 5d ago
+
+---
+
+**[Inside the Startup That Powers Humanoid Robots](https://www.youtube.com/watch?v=3xJzmy2gOgQ)**
+
+Do you want to see a humanoid AI lab from the inside? I do – join me and let's visit Flexion: Europe's leading lab building the AI ...
+
+📺 Andreas Klinger @ PROTOTYPE
+
+👁️ 11K • 👍 451 • 💬 35 • ⏱️ 18:52 • 2d ago
 
 ---
 
@@ -208,7 +216,7 @@ COGLET KICKSTARTER LAUNCH: ...
 
 📺 Will Cogley
 
-👁️ 15K • 👍 1K • 💬 62 • ⏱️ 10:35 • 2d ago
+👁️ 15K • 👍 1K • 💬 63 • ⏱️ 10:35 • 2d ago
 
 ---
 
@@ -218,7 +226,7 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 255K • 👍 3K • 💬 2K • ⏱️ 2:07 • 3d ago
+👁️ 259K • 👍 3K • 💬 2K • ⏱️ 2:07 • 3d ago
 
 ---
 
@@ -232,23 +240,23 @@ China just built something that was supposed to be decades away. Engine AI's T80
 
 ---
 
+**[Every Robot I Met at Nvidia GTC SPEEDRUN!](https://www.youtube.com/watch?v=mFr7XfTY5bY)**
+
+The robots at Nvidia GTC were showcasing strength, dexterity and the ability to work together on the same task. Read more about ...
+
+📺 CNET
+
+👁️ 1K • 👍 92 • 💬 5 • ⏱️ 5:50 • 2h ago
+
+---
+
 **[Dancing robot goes rogue in hot pot restaurant](https://www.youtube.com/watch?v=DfnIEWpbMU8)**
 
 Video shows restaurant employees struggling to restrain a dancing robot that went rogue in a hot pot restaurant in California.
 
 📺 NBC News
 
-👁️ 186K • 👍 2K • 💬 625 • ⏱️ 3:38 • 3d ago
-
----
-
-**[AI Robot Snaps And Attacks Woman On Street (Then Gets Arrested)](https://www.youtube.com/watch?v=ZZrR7rIIPmc)**
-
-Try the full AI cinematic workflow here: https://higgsfield.ai/s/cinema-studio-2-0-airevolutionx-pekSSk Researchers in China just ...
-
-📺 AI Revolution
-
-👁️ 22K • 👍 507 • 💬 46 • ⏱️ 13:18 • 6d ago
+👁️ 188K • 👍 2K • 💬 628 • ⏱️ 3:38 • 3d ago
 
 ---
 
@@ -258,7 +266,7 @@ This Spray-On Electronic Skin Could Make Robots Feel More Like Humans. Researche
 
 📺 EcoZora
 
-👁️ 12K • 👍 30 • 💬 3 • ⏱️ 0:07 • 2d ago
+👁️ 12K • 👍 31 • 💬 3 • ⏱️ 0:07 • 3d ago
 
 ---
 
@@ -268,7 +276,7 @@ The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrati
 
 📺 DPCcars
 
-👁️ 204K • 👍 2K • 💬 285 • ⏱️ 2:02 • 5d ago
+👁️ 207K • 👍 2K • 💬 286 • ⏱️ 2:02 • 5d ago
 
 ---
 
@@ -276,17 +284,7 @@ The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrati
 
 📺 Robot Julie 
 
-👁️ 31K • 👍 203 • 💬 3 • ⏱️ 0:28 • 1d ago
-
----
-
-**[Inside a factory run by 3,000 robots](https://www.youtube.com/watch?v=6FZDbwuGsWw)**
-
-China has unveiled its development blueprint for the 15th Five-Year Plan period. It features a strong focus on modernization, ...
-
-📺 CGTN
-
-👁️ 43K • 👍 731 • 💬 76 • ⏱️ 5:04 • 5d ago
+👁️ 32K • 👍 203 • 💬 3 • ⏱️ 0:28 • 1d ago
 
 ---
 
