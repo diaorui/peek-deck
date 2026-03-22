@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-22T19:26:54.307416+00:00'
+updated: '2026-03-22T19:48:06.729303+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
+- social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 19:26 UTC  
+**Last Updated:** March 22, 2026 at 19:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.7%  
-**7d:** -8.5%  
-**30d:** +0.7%  
-**90d:** -21.6%  
-**1y:** -20.4%  
+**24h:** -3.0%  
+**7d:** -8.7%  
+**30d:** +0.5%  
+**90d:** -21.7%  
+**1y:** -20.5%  
 
 ---
 
@@ -101,6 +101,14 @@ About 10 years ago, I bought 0.2 Bitcoin out of curiosity, and recently I happen
 
 ---
 
+**[Can I sue Coinbase?](https://www.reddit.com/r/Bitcoin/comments/1s0oun3/can_i_sue_coinbase/)**
+
+This is the situation: I had a friend send me btc over the years to Coinbase. There was a substantial amount there I sent it further to sell and i received, up until 2019. Then I left the remaining balance on Coinbase and didn't touch it. Well i logged in with same info and it recreated my account. Long story short, they deleted my account claiming there were no transactions in it EVER and it was inactive. Which is entirely untrue. I have email confirmations for every single transaction from Coinbase in my email account. The difference is for the btc i sent the notification is: "you sent x amount of btc to this xyz address". Based on the notification i can see the transaction on the blockchain, clearly indicating there were transactions. Unfortunately, and conveniently for Coinbase, the notification for receiving btc was just: "you received x amount of btc". Not stating from whom or nothing, so I can't find it on the blockchain. Anyway I've been talking to their support the whole day and thy continue claiming they deleted the account due to inactivity and 0 all time transactions, which again I've proven to them to not be the case. What can I do? I'm pretty certain there is a significant amount on there but I have no way of finding out specifically how much or retrieving this amount cause Coinbase support is awful. UPDATE: They magically found my transaction history now, and the balance is 0.
+
+4h ago
+
+---
+
 **[Lost BTC wallet from 2013](https://www.reddit.com/r/Bitcoin/comments/1s0at4i/lost_btc_wallet_from_2013/)**
 
 Hey all, I have a friend who is definitely not tech-savvy who mentioned that she bought about 20 BTC as a joke in 2013. She says she documented all of the procedures and passwords at the behest of a tech friend she doesn't speak to any longer. She also still has the laptop from 2013 that she apparently did all this with, which doesn't seem to boot up. I did help her find the exchange she used and confirmed through the log that she sent 16.1 BTC to this wallet of hers. I have been researching the common wallets and am not sure if she had a web-based or software-based wallet. I believe (hoping) it was software-based and found the top five from that time. Apparently the web-based wallets suffered a high casualty rate. So it seems like it would be best to get the original laptop working again, even though she said she backed it up, the Bitcoin-related data was apparently on a different partition and I don't think she backed up that partition, as she just did time machine backups. Seems like a good next step? Thanks in advance.
@@ -125,19 +133,11 @@ An excellent book about all the details, even people who fought the Blocksize wa
 
 ---
 
-**[Can I sue Coinbase?](https://www.reddit.com/r/Bitcoin/comments/1s0oun3/can_i_sue_coinbase/)**
-
-This is the situation: I had a friend send me btc over the years to Coinbase. There was a substantial amount there I sent it further to sell and i received, up until 2019. Then I left the remaining balance on Coinbase and didn't touch it. Well i logged in with same info and it recreated my account. Long story short, they deleted my account claiming there were no transactions in it EVER and it was inactive. Which is entirely untrue. I have email confirmations for every single transaction from Coinbase in my email account. The difference is for the btc i sent the notification is: "you sent x amount of btc to this xyz address". Based on the notification i can see the transaction on the blockchain, clearly indicating there were transactions. Unfortunately, and conveniently for Coinbase, the notification for receiving btc was just: "you received x amount of btc". Not stating from whom or nothing, so I can't find it on the blockchain. Anyway I've been talking to their support the whole day and thy continue claiming they deleted the account due to inactivity and 0 all time transactions, which again I've proven to them to not be the case. What can I do? I'm pretty certain there is a significant amount on there but I have no way of finding out specifically how much or retrieving this amount cause Coinbase support is awful. UPDATE: They magically found my transaction history now, and the balance is 0.
-
-3h ago
-
----
-
 **[Why the SEC’s "Commodity" classification is actually a massive win for BTC (and what’s next)](https://www.reddit.com/r/Bitcoin/comments/1s0qjmn/why_the_secs_commodity_classification_is_actually/)**
 
 We’ve all seen the headlines that the SEC and CFTC finally put it in writing: BTC is a commodity. But most of the coverage stops there. I spent the last few days digging into the mechanics of the March 17 joint release to figure out what actually changes for the average holder. I broke down: The Howey Test Deathblow: Why this ruling officially moves BTC out of the "unregistered security" danger zone that haunts other projects. The Institutional Unlock: How this simplifies life for ETFs, miners, and custodians who now have a clear regulatory framework. The CLARITY Act: Why this is the "final boss" of legislation that will lock this classification in permanently. I put together a full explainer on the mechanics here:BTC Is a Commodity: SEC Ruling Explained TL;DR: It’s not just a label—it’s the regulatory green light the industry has been waiting for to move past the "security" debate once and for all.
 
-2h ago
+3h ago
 
 ---
 
@@ -149,9 +149,11 @@ I’ve been investing for more than a year now but still struggle to find reliab
 
 ---
 
-**[The Code of Liberty: Why Bitcoin is the Only True Constitutional Money.](https://www.reddit.com/r/Bitcoin/comments/1s0hhko/the_code_of_liberty_why_bitcoin_is_the_only_true/)**
+**[Looking for beta testers](https://www.reddit.com/r/Bitcoin/comments/1s0pwn0/looking_for_beta_testers/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-code-of-liberty-why-bitcoin-is) • 9h ago
+Not promo, looking for some feedback on a Bitcoin market briefing system, anyone and everyone is welcome
+
+3h ago
 
 ---
 
@@ -163,7 +165,7 @@ I’ve been investing for more than a year now but still struggle to find reliab
 
 The average production cost was sitting at $88,000 per bitcoin in mid-March, according to Checkonchain's difficulty regression model.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -181,9 +183,11 @@ The Motley Fool • 1h ago
 
 ---
 
-**[Bitcoin Drops Below $69,000 as War Fears Weigh on Crypto Markets](https://www.bloomberg.com/news/articles/2026-03-22/bitcoin-drops-below-69-000-as-war-fears-weigh-on-crypto-markets)**
+**[Bitcoin Already Rising To Quantum Threat, Says Galaxy — So What Is Most At Risk?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-already-rising-quantum-threat-123215286.html)**
 
-Bloomberg.com • 6h ago
+Risk is real but limited today, says Galaxy. Bitcoin is already preparing, the firm found. Debate remains divided. Bitcoin may already be adapting to the ...
+
+Yahoo Finance • 7h ago
 
 ---
 
@@ -195,19 +199,17 @@ The Berkshire Eagle • 1d ago
 
 ---
 
-**[Bitcoin Already Rising To Quantum Threat, Says Galaxy — So What Is Most At Risk?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-already-rising-quantum-threat-123215286.html)**
-
-Risk is real but limited today, says Galaxy. Bitcoin is already preparing, the firm found. Debate remains divided. Bitcoin may already be adapting to the ...
-
-Yahoo Finance • 6h ago
-
----
-
 **[French bitcoin evangelical Eric Larchevêque wants his right-wing voice to be part of public debate](https://www.lemonde.fr/en/m-le-mag/article/2026/03/21/french-bitcoin-evangelical-eric-larcheveque-wants-his-right-wing-voice-to-be-part-of-public-debate_6751676_117.html)**
 
 Known to the public as a judge on a television show, the French bitcoin pioneer wants to win over the masses to the cryptocurrencies that made him wealthy. With the 2027 presidential election approaching, this libertarian has embraced increasingly radical ideas.
 
 Le Monde.fr • 1d ago
+
+---
+
+**[Bitcoin Drops Below $69,000 as War Fears Weigh on Crypto Markets](https://www.bloomberg.com/news/articles/2026-03-22/bitcoin-drops-below-69-000-as-war-fears-weigh-on-crypto-markets)**
+
+Bloomberg.com • 6h ago
 
 ---
 
@@ -251,7 +253,7 @@ Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in
 
 Difficulty is now nearly 10% below where it started the year, despite a sharp 14.7% rebound in February after weather-related disruptions subsided.
 
-⬆️ 5 • 💬 1 • 13h ago • [The Block](https://www.theblock.co/post/394579/bitcoin-mining-difficulty-drops-7-8-as-miner-exodus-accelerates-amid-ai-pivot)
+⬆️ 5 • 💬 1 • 14h ago • [The Block](https://www.theblock.co/post/394579/bitcoin-mining-difficulty-drops-7-8-as-miner-exodus-accelerates-amid-ai-pivot)
 
 ---
 
@@ -288,6 +290,14 @@ Open archive of autonomous scientific discovery experiments.
 **[TrustAgentAI – Cryptographic receipts for MCP tool calls (non-repudiation layer)](https://news.ycombinator.com/item?id=47421489)**
 
 ⬆️ 6 • 💬 0 • 4d ago
+
+---
+
+**[Show HN: An event loop for asyncio written in Rust](https://news.ycombinator.com/item?id=47472041)**
+
+An event loop for asyncio written in Rust. Contribute to RustedBytes/rsloop development by creating an account on GitHub.
+
+⬆️ 4 • 💬 1 • 21h ago • [GitHub](https://github.com/RustedBytes/rsloop)
 
 ---
 
@@ -351,7 +361,7 @@ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 1K • 💬 172 • ⏱️ 8:36 • 21h ago
+👁️ 24K • 👍 1K • 💬 172 • ⏱️ 8:36 • 22h ago
 
 ---
 
@@ -381,7 +391,7 @@ Bitcoin Vegas 2026: https://fxo.co/JAmn Welcome to the Crypto Lifer Channel! JOI
 
 📺 Crypto Lifer
 
-👁️ 5K • 👍 334 • 💬 79 • ⏱️ 1:10:20 • 17h ago
+👁️ 5K • 👍 334 • 💬 79 • ⏱️ 1:10:20 • 18h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-22T19:26:54.316458+00:00'
+updated: '2026-03-22T19:48:06.738666+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 22, 2026 at 19:26 UTC  
+**Last Updated:** March 22, 2026 at 19:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,23 @@ The setup includes two robotic operation platforms, 28 sorting robots, and 4 del
 
 Saw the Galbot in action today at a cafe. What’s impressive is that it’s operating completely autonomously—no human intervention required. Watching its dual-arm coordination handle the espresso machine and serving was a great example of embodied AI moving into real-world commercial applications. This isn't just a demo; it's a functioning business model.
 
-7h ago
+8h ago
+
+---
+
+**[LiPo batteries in parallel issue on robot](https://www.reddit.com/r/robotics/comments/1s0tso6/lipo_batteries_in_parallel_issue_on_robot/)**
+
+Hello, I’m currently working on a monkey humanoid robot with several servos. I was using two 4S 14.8V 6500mAh LiPo batteries in parallel to increase capacity, with a fuse on each battery. During initial tests with a few motors, everything was working fine. But when I ran a program where multiple motors moved at the same time, I noticed a burning smell and immediately powered everything off. After checking, nothing seemed visibly damaged, but both batteries dropped to around 7.4V. When I measured the cells, I found 2 cells normal (~4V) and 2 cells at 0V on each battery. So both packs are now dead. I believe the issue comes from running LiPo batteries in parallel without proper protection, even with fuses in place. I’m now looking for advice to prevent this in the future: should I avoid parallel setups, use additional protection (BMS, diodes, etc.), or change my power architecture entirely? Thanks in advance for your help.
+
+58m ago
+
+---
+
+**[Robotic Fish Are This Invasive Species' 'Worst Nightmare'](https://www.reddit.com/r/robotics/comments/1s0sff2/robotic_fish_are_this_invasive_species_worst/)**
+
+The tiny swimmers wreak havoc across the globe, but the robofish shocked them enough to impair their survival and reproduction
+
+🔗 [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/scientists-terrify-invasive-mosquitofish-with-their-worst-nightmare-a-robotic-fish-180979258/) • 1h ago
 
 ---
 
@@ -69,14 +85,6 @@ From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 I’m currently learning ROS2 and working with Gazebo, so I followed a tutorial where the robot looks like this (first image : red/yellow block style) but when I built mine, I ended up with something like the second image (black robot with wheels + lidar). I didn’t intentionally change much, so I’m confused how it ended up so different. What I did: - Followed a ROS2 mobile robot tutorial - Set up the model + simulation in Gazebo - Added lidar and basic movement control What I’m noticing: - My model structure looks completely different - Visual + geometry doesn’t match tutorial - Not sure if I accidentally changed URDF/Xacro or used a different base model Questions: What could cause this kind of difference? Did I accidentally switch model type (like differential vs something else)? Is this normal when building your own model vs tutorial assets? Also — I’m documenting my learning journey (ROS2 + robotics), so any guidance would help a lot. Thanks!
 
 5h ago
-
----
-
-**[Robotic Fish Are This Invasive Species' 'Worst Nightmare'](https://www.reddit.com/r/robotics/comments/1s0sff2/robotic_fish_are_this_invasive_species_worst/)**
-
-The tiny swimmers wreak havoc across the globe, but the robofish shocked them enough to impair their survival and reproduction
-
-🔗 [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/scientists-terrify-invasive-mosquitofish-with-their-worst-nightmare-a-robotic-fish-180979258/) • 1h ago
 
 ---
 
@@ -97,12 +105,6 @@ https://genesis-embodied-ai.github.io/ It's been about a year since they release
 **[Real-time IMU VR tracking (ESP32 + ICM45686) streaming to PC — early test](https://www.reddit.com/r/robotics/comments/1s0jy7p/realtime_imu_vr_tracking_esp32_icm45686_streaming/)**
 
 7h ago
-
----
-
-**[Those of you running multiple AI models on a single edge GPU (Jetson, etc.) - how do you handle resource allocation?](https://www.reddit.com/r/robotics/comments/1s0olg0/those_of_you_running_multiple_ai_models_on_a/)**
-
-3h ago
 
 ---
 
@@ -276,7 +278,7 @@ Midea Group, one of the world's largest home appliance manufacturers, just unvei
 
 📺 Kalil 4.0
 
-👁️ 512 • 👍 15 • ⏱️ 0:24 • 1h ago
+👁️ 512 • 👍 15 • ⏱️ 0:24 • 2h ago
 
 ---
 

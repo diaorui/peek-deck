@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-22T19:26:54.299006+00:00'
+updated: '2026-03-22T19:48:06.720493+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
+- social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 22, 2026 at 19:26 UTC  
+**Last Updated:** March 22, 2026 at 19:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,14 +45,6 @@ I am a painter with work at MoMA and the Met. I just published 50 years of my wo
 
 ---
 
-**[Why Hasn’t AI Made Work Easier?](https://www.reddit.com/r/artificial/comments/1s0s8wt/why_hasnt_ai_made_work_easier/)**
-
-Here’s a pattern I’ve observed again and again: A new technology promises to speed up some annoying aspects of our jobs. Everyone gets excited about freeing up more time for deep work and leisure. We end up busier than before without producing more of the high-value output that actually moves the needle. This happened with the front-office IT revolution, and email, and mobile computing, and once again with video-conferencing. I’m now starting to fear that we’re beginning to encounter the same thing with AI as well. My worries were stoked, in part, by a recent article in the Wall Street Journal, titled ​“AI Isn’t Lightening Workloads. It’s Making Them More Intense.”​ The piece cites new research from the software company ActivTrak, which analyzed the digital activity of 164,000 workers across more than 1,000 employers. What makes the study notable is its methodology: it tracked individual AI users for 180 days before and after they began using these tools, providing clear insight into what changed. The results? “ActivTrak found AI intensified activity across nearly every category: The time they spent on email, messaging and chat apps more than doubled, while their use of business-management tools, such as human-resources or accounting software, rose 94%.“ The one category where activity was not intensified, however, was deep work: “[T]he amount of time AI users devoted to focused, uninterrupted work—the kind of concentration often required for figuring out complex problems, writing formulas, creating and strategizing—fell 9%, compared with nearly no change for nonusers.” This is a worst-case scenario: you work faster and harder, but mainly on shallow, mentally taxing tasks (because of all the context shifting they require) that only indirectly help the bottom line compared to harder efforts. More here: https://calnewport.com/why-hasnt-ai-made-work-easier/#more-16813
-
-1h ago
-
----
-
 **[Tired of working 8 hours. Is just me or IA could take my job any time soon and I would be glad.](https://www.reddit.com/r/artificial/comments/1s0k2zj/tired_of_working_8_hours_is_just_me_or_ia_could/)**
 
 Every time I walk in the city everyone is sad and depressed and unhappy. I work in a call center for 8 hours or 9 with lunch included or 11 hours with dislocations included. Anyway. Most of my work is BS. Makes zero sense and doesn't even have any logic or helps society in anyway. I m tired, burnout and depressed. All works are like that now: impossible objectives and follow 300 rules in a call. I wish ia would take capitalism and this crapy jobs away any time.....i would not care. Of course if ubi arrives.
@@ -61,11 +53,11 @@ Every time I walk in the city everyone is sad and depressed and unhappy. I work 
 
 ---
 
-**[AI Fiesta review from Dhruv Rathee academy](https://www.reddit.com/r/artificial/comments/1s0qw1b/ai_fiesta_review_from_dhruv_rathee_academy/)**
+**[Why Hasn’t AI Made Work Easier?](https://www.reddit.com/r/artificial/comments/1s0s8wt/why_hasnt_ai_made_work_easier/)**
 
-Hi, I am a new AI user. I want to use AI for daily life optimization, getting better at table tennis and fitness, to use in architecture for reviewing documents i.e. summarize them. I came across dhruv rathee AI Fiesta course and the price is 80$ for a year. Has anyone here use it? It is much cheaper than Perpexlity and chat gpt and it is claiming it gives output from various AI sources. Please comment and guide me
+Here’s a pattern I’ve observed again and again: A new technology promises to speed up some annoying aspects of our jobs. Everyone gets excited about freeing up more time for deep work and leisure. We end up busier than before without producing more of the high-value output that actually moves the needle. This happened with the front-office IT revolution, and email, and mobile computing, and once again with video-conferencing. I’m now starting to fear that we’re beginning to encounter the same thing with AI as well. My worries were stoked, in part, by a recent article in the Wall Street Journal, titled ​“AI Isn’t Lightening Workloads. It’s Making Them More Intense.”​ The piece cites new research from the software company ActivTrak, which analyzed the digital activity of 164,000 workers across more than 1,000 employers. What makes the study notable is its methodology: it tracked individual AI users for 180 days before and after they began using these tools, providing clear insight into what changed. The results? “ActivTrak found AI intensified activity across nearly every category: The time they spent on email, messaging and chat apps more than doubled, while their use of business-management tools, such as human-resources or accounting software, rose 94%.“ The one category where activity was not intensified, however, was deep work: “[T]he amount of time AI users devoted to focused, uninterrupted work—the kind of concentration often required for figuring out complex problems, writing formulas, creating and strategizing—fell 9%, compared with nearly no change for nonusers.” This is a worst-case scenario: you work faster and harder, but mainly on shallow, mentally taxing tasks (because of all the context shifting they require) that only indirectly help the bottom line compared to harder efforts. More here: https://calnewport.com/why-hasnt-ai-made-work-easier/#more-16813
 
-2h ago
+1h ago
 
 ---
 
@@ -77,11 +69,27 @@ I've drafted my company logo for my Consultancy Business. The logo is simply the
 
 ---
 
+**[AI Fiesta review from Dhruv Rathee academy](https://www.reddit.com/r/artificial/comments/1s0qw1b/ai_fiesta_review_from_dhruv_rathee_academy/)**
+
+Hi, I am a new AI user. I want to use AI for daily life optimization, getting better at table tennis and fitness, to use in architecture for reviewing documents i.e. summarize them. I came across dhruv rathee AI Fiesta course and the price is 80$ for a year. Has anyone here use it? It is much cheaper than Perpexlity and chat gpt and it is claiming it gives output from various AI sources. Please comment and guide me
+
+2h ago
+
+---
+
 **[How context engineering turned Codex into my whole dev team — while cutting token waste](https://www.reddit.com/r/artificial/comments/1s0o9cb/how_context_engineering_turned_codex_into_my/)**
 
 One night I hit the token limit with Codex and realized most of the cost was coming from context reloading, not actual work. So I started experimenting with a small context engine around it: - persistent memory - context planning - failure tracking - task-specific memory - and eventually domain “mods” (UX, frontend, etc) At the end it stopped feeling like using an assistant and more like working with a small dev team. The article goes through all the iterations (some of them a bit chaotic, not gonna lie). Curious to hear how others here are dealing with context / token usage when vibe coding. Repo here if anyone wants to dig into it: here
 
 🔗 [Medium](https://medium.com/techtrends-digest/the-night-i-ran-out-of-tokens-5d90a7031f91) • 4h ago
+
+---
+
+**[AI also wants to know the time](https://www.reddit.com/r/artificial/comments/1s0u8ok/ai_also_wants_to_know_the_time/)**
+
+...and the date if we're generous. Should we be generous?
+
+41m ago
 
 ---
 
@@ -105,15 +113,7 @@ Growth without people.
 
 I keep seeing more and more companies say that they're going to reduce hallucination and drift and mistakes made by Al by adding supervisor or manager Al on top of them that will review everything that those Al agents are doing. that seems to be the way. another thing I'm seeing is adding multiple Al judges to evaluate the output and those companies are running around touting their low percentage false positives or mistakes adding additional Al agents on top of Al agents reduce mistakes is like wrapping yourself in a wet blanket and then adding more with blankets to keep you warm when you're freezing. you will freeze, it will just take longer, and it's going to use a lot of blankets. I don't understand. the blind warship of pure Al solutions. we have software that can achieve determinism. we know this. hybrid solutions between Al and software is the only way forward
 
-16h ago
-
----
-
-**[Where should the execution boundary actually live in Agent systems?](https://www.reddit.com/r/artificial/comments/1s004hd/where_should_the_execution_boundary_actually_live/)**
-
-following up on a discussion from earlier a pattern that keeps showing up in real systems: most control happens after execution - retries - state checks - monitoring - idempotency patches but the actual decision to execute is often implicit if the agent can call the tool, the action runs in most other systems we separate: - capability (can call) - authority (allowed to execute) agents usually collapse those into one so the question becomes: where should the actual allow/deny decision live? - inside the agent loop? - inside tool wrappers? - as a centralized policy layer? - somewhere else entirely? or are we all still letting the agent decide and patching things after the fact?
-
-1d ago
+17h ago
 
 ---
 
@@ -125,31 +125,7 @@ following up on a discussion from earlier a pattern that keeps showing up in rea
 
 Dozens of Instagram and TikTok accounts have used AI avatars to promote explicit content, the BBC finds.
 
-BBC • 18h ago
-
----
-
-**[AI-generated ads are trickling into political campaigns, sparking big worries](https://www.nbcnews.com/politics/2028-election/ai-midterms-politics-campaign-ads-rcna263752)**
-
-AI usage in political ads is largely regulated at the state level, but there remain concerns about how they can mislead voters.
-
-NBC News • 9h ago
-
----
-
-**[White House advisor unveils AI action plan for Congress](https://www.foxnews.com/video/6391399809112)**
-
-White House science advisor Michael Kratsios discusses the Trump administration’s AI plan for Congress, its potential impact on the job market and more on ‘The Sunday Briefing.’
-
-Fox News • 1h ago
-
----
-
-**[Campaign groups rail against Palantir, but the UK contracts keep coming](https://www.theguardian.com/technology/2026/mar/22/fca-deal-palantir-ai-financial-services-uk)**
-
-AI analytics firm has become influential in Whitehall, and FCA deal gives it yet more access to data
-
-The Guardian • 2h ago
+BBC • 19h ago
 
 ---
 
@@ -161,11 +137,47 @@ CNBC • 1d ago
 
 ---
 
+**[White House advisor unveils AI action plan for Congress](https://www.foxnews.com/video/6391399809112)**
+
+White House science advisor Michael Kratsios discusses the Trump administration’s AI plan for Congress, its potential impact on the job market and more on ‘The Sunday Briefing.’
+
+Fox News • 1h ago
+
+---
+
+**[Opinion | Best Protection Against an AI Bubble? Index Funds](https://www.wsj.com/opinion/best-protection-against-an-ai-bubble-index-funds-229371bb?gaa_at=eafs&gaa_n=AWEtsqfZBeYFjrSnEkkjjv6QOdTc-900e-zIa_9RI9HqTde2flmWJWvZT_pr&gaa_ts=69c04ae3&gaa_sig=umtKRuQaLizDKfnF87ndcb9WFTCr4VHDFWNRhtNNozLXpzAozIRCJVbb1Aq5zd39UkAbMUgsNQGBJAuYYkv3rg%3D%3D)**
+
+WSJ • 33m ago
+
+---
+
+**[How Austinites feel about AI usage: Austin AI Alliance shares data](https://www.kxan.com/news/local/austin/how-austinites-feel-about-ai-usage-austin-ai-alliance-shares-data/)**
+
+KXAN Austin • 13m ago
+
+---
+
 **[Opinion | Bracing for the A.I. Economy to Come](https://www.nytimes.com/2026/03/22/opinion/ai-economy-jobs.html)**
 
 Readers respond to two guest essays about the changes that artificial intelligence will wreak on the work force. Also: The shoes of the Trump men.
 
 The New York Times • 6h ago
+
+---
+
+**[3 weeks of war, possible rate hikes, and AI's 'show me' phase: What to watch this week](https://finance.yahoo.com/news/3-weeks-of-war-possible-rate-hikes-and-ais-show-me-phase-what-to-watch-this-week-113740150.html)**
+
+As the war in Iran rolls into its fourth week, continued energy market disruption and renewed bets on rate hikes by the Fed should capture investor attention in the week ahead.
+
+Yahoo Finance • 3h ago
+
+---
+
+**[AI-generated ads are trickling into political campaigns, sparking big worries](https://www.nbcnews.com/politics/2028-election/ai-midterms-politics-campaign-ads-rcna263752)**
+
+AI usage in political ads is largely regulated at the state level, but there remain concerns about how they can mislead voters.
+
+NBC News • 9h ago
 
 ---
 
@@ -177,23 +189,9 @@ WIRED • 1d ago
 
 ---
 
-**[How the Iran war could derail the AI boom](https://www.ft.com/content/df3f208a-2512-4a75-b2f3-d3bd27bae2e8?syn-25a6b1a6=1)**
-
-The entire chip supply chain depends on energy and chemical imports from the Middle East
-
-Financial Times • 7h ago
-
----
-
 **[Meet The AI Company Food Conglomerates Call When They Want To Future-Proof Their Products](https://www.forbes.com/sites/chloesorvino/2026/03/22/meet-the-ai-company-food-conglomerates-call-when-they-want-to-future-proof-their-products/)**
 
 Forbes • 9h ago
-
----
-
-**[Chatbot Makers Try Sex Appeal](https://www.wsj.com/tech/ai/chatbot-makers-try-sex-appeal-f10c6263?gaa_at=eafs&gaa_n=AWEtsqfl34Wx-sPaI0l9z__EnVtiYj2zVZWMNqOy6PJ4EZRjLS59Mi1bEDmJ&gaa_ts=69c03abc&gaa_sig=t3WlUS9KRxiJTIamjv2VWX55Ur8Xhv8xx40WKVNYAj5W4QfuOzormZf0Hp1JQ-XKvKFlxY2k7xr906F6pLR6Uw%3D%3D)**
-
-WSJ • 7h ago
 
 ---
 
@@ -205,7 +203,7 @@ WSJ • 7h ago
 
 OpenCode - The open source coding agent.
 
-⬆️ 1233 • 💬 607 • 1d ago • [opencode.ai](https://opencode.ai/)
+⬆️ 1236 • 💬 611 • 1d ago • [opencode.ai](https://opencode.ai/)
 
 ---
 
@@ -221,13 +219,13 @@ As the Charles de Gaulle and its strike group approach the Middle East, Le Monde
 
 Imagine a newspaper publisher announcing it will no longer allow libraries to keep copies of its paper. That’s effectively what’s begun happening online in the last few months. The Internet Archive—the world’s largest digital library—has preserved newspapers since it went online in the mid-1990s....
 
-⬆️ 540 • 💬 150 • 1d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
+⬆️ 544 • 💬 150 • 1d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
 
 ---
 
 **[Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning](https://news.ycombinator.com/item?id=47467913)**
 
-⬆️ 189 • 💬 105 • 1d ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
+⬆️ 189 • 💬 108 • 1d ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
 
 ---
 
@@ -235,15 +233,7 @@ Imagine a newspaper publisher announcing it will no longer allow libraries to ke
 
 Qwen3.5-9B scores 93.8% on 96 real security AI tests — within 4 points of GPT-5.4 — running entirely on Apple Silicon. Full benchmark results and methodology.
 
-⬆️ 170 • 💬 149 • 2d ago • [sharpai.org](https://www.sharpai.org/benchmark/)
-
----
-
-**[A rogue AI led to a serious security incident at Meta](https://news.ycombinator.com/item?id=47444195)**
-
-An AI agent tried to help, and its advice exposed sensitive data.
-
-⬆️ 169 • 💬 141 • 3d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
+⬆️ 171 • 💬 149 • 2d ago • [sharpai.org](https://www.sharpai.org/benchmark/)
 
 ---
 
@@ -262,7 +252,7 @@ Much faster and better search with the daemon
 
 The daemon has existed for a long time, and has been marked as "experimental" for
 
-⬆️ 92 • 💬 76 • 1d ago • [The Atuin Blog](https://blog.atuin.sh/atuin-v18-13/)
+⬆️ 93 • 💬 77 • 1d ago • [The Atuin Blog](https://blog.atuin.sh/atuin-v18-13/)
 
 ---
 
@@ -278,7 +268,17 @@ Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of halluci
 
 One thing that I noticed as soon as I open LinkedIn green color becomes the most dominant one, greener than my website. I have a feeling that everyone is lai...
 
-⬆️ 84 • 💬 66 • 21h ago • [Darko Tomic - Unity Learning Community](https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922)
+⬆️ 84 • 💬 69 • 21h ago • [Darko Tomic - Unity Learning Community](https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922)
+
+---
+
+**[AI (2014)](https://news.ycombinator.com/item?id=47453010)**
+
+Yesterday at lunch a friend asked me what tech trend he should pay attention to but was probably ignoring.
+
+Without thinking much I said “artificial intelligence”, but having thought about that a...
+
+⬆️ 80 • 💬 71 • 2d ago • [Sam Altman](https://blog.samaltman.com/ai)
 
 ---
 
@@ -721,7 +721,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 4.3k • 🔱 366 • 2h ago
+⭐ 4.3k • 🔱 366 • 3h ago
 
 ---
 

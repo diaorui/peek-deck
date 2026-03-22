@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-22T19:26:54.313281+00:00'
+updated: '2026-03-22T19:48:06.735470+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
+- social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 19:26 UTC  
+**Last Updated:** March 22, 2026 at 19:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.1%  
+**24h:** -4.2%  
 **7d:** -12.2%  
-**30d:** +4.6%  
-**90d:** -30.4%  
-**1y:** +3.0%  
+**30d:** +4.7%  
+**90d:** -30.3%  
+**1y:** +3.1%  
 
 ---
 
@@ -85,14 +85,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 **[I built a lite Ethereum explorer for node runners — talks directly to your node, hosted on IPFS, no install needed](https://www.reddit.com/r/ethereum/comments/1s0pck7/i_built_a_lite_ethereum_explorer_for_node_runners/)**
 
 Hi there, I made a niche thing, probably useful for a small group of node runners who wanted something like this. It’s basically a lightweight, IPFS-hosted Ethereum explorer — like Etherscan, but it queries your own node directly via JSON-RPC. It’s just a static HTML page, so you open it, enter your RPC, and use it. No backend, no setup — just a page. Access nodex.monkale.eth nodex.monkale.eth.limo Repo github.com/monkale-io/ethereum-node-explorer I built it after I started running my own node and wanted a simple web UI to explore it. I found an old explorer (Alethio ethereum-lite-explorer) — it still works and is actually quite good, but it was abandoned ~6 years ago — so I decided to rewrite it with a modern stack and put it on IPFS, so it can stay just a static page without any backend or services to run. Planning to maintain and evolve it. Feedback and contributions are welcome.
-
-3h ago
-
----
-
-**[Good read on recent volatility of Ethereum](https://www.reddit.com/r/ethereum/comments/1s0ps4o/good_read_on_recent_volatility_of_ethereum/)**
-
-https://tradepal.co/blog/eth-ai-trading-analysis-ethereum-is
 
 3h ago
 
@@ -146,6 +138,14 @@ Hey everybody, I've been building a no code visual smart contract builder for so
 
 ---
 
+**[Daily General Discussion March 19, 2026](https://www.reddit.com/r/ethereum/comments/1rxrdse/daily_general_discussion_march_19_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+3d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -174,14 +174,6 @@ CoinDesk • 2h ago
 
 ---
 
-**[Ethereum Entered 'Generational Buy Zone,' Says Analyst: 'Precursor To Massive Structural Bull Rallies'](https://finance.yahoo.com/markets/crypto/articles/ethereum-entered-generational-buy-zone-150120991.html)**
-
-Cryptocurrency analyst Ali Martinez said on Thursday that Ethereum has entered a generational “Buy Zone,” hinting at major bull runs on the horizon. What History Says In an X post, Martinez pointed out that Ethereum’s Market Value to Realized Value...
-
-Yahoo Finance • 4h ago
-
----
-
 **[Ethereum eyes 25% rally as richest ETH whales return to 'profitable state'](https://www.tradingview.com/news/cointelegraph:29dd957b6094b:0-ethereum-eyes-25-rally-as-richest-eth-whales-return-to-profitable-state/)**
 
 Ethereum’s native token, Ether BITSTAMP:ETHUSD, may rise by around 25% in the coming months as its richest whale group becomes profitable for the first time since early February.Key takeaways:Whale metric signals ETH is bottoming alreadyThe unrealized profit ratio of wallets holding more than 100,0…
@@ -198,7 +190,15 @@ Qubic • 1d ago
 
 ---
 
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqcAHiSGuI157_UaoM5_PZw-_YSkr0q6xWqdLdTM2UjmmEch6_5udeiO&gaa_ts=69c03abf&gaa_sig=7l6FDdkYuMCHGX_wumtXiEu6jY1vNBItcmAwB2S_BtTSA2io6-UBjOKdJj4a-VF7YUHTHKyJUCMIpCQgYQXqsg%3D%3D)**
+**[Ethereum Entered 'Generational Buy Zone,' Says Analyst: 'Precursor To Massive Structural Bull Rallies'](https://finance.yahoo.com/markets/crypto/articles/ethereum-entered-generational-buy-zone-150120991.html)**
+
+Cryptocurrency analyst Ali Martinez said on Thursday that Ethereum has entered a generational “Buy Zone,” hinting at major bull runs on the horizon. What History Says In an X post, Martinez pointed out that Ethereum’s Market Value to Realized Value...
+
+Yahoo Finance • 4h ago
+
+---
+
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqeIfUutP4piIAKgzwN_4R1U9NZdMVHP6bfz-hpnRZggKqA4hulXxp-p&gaa_ts=69c04ae6&gaa_sig=R0JXWTpIbKVCf7R-QdpwhiVYY2pKUd9JCX2wTHf8BxpZH6z1memtAdhMGmazjHA5WRYiO5-zPSrsCaT5dqDLjA%3D%3D)**
 
 MarketWatch • 2d ago
 
@@ -206,7 +206,7 @@ MarketWatch • 2d ago
 
 **[Ethereum ETF Sees Investors Head for the Exits as Price Slump Bites](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-sees-investors-head-for-the-exits-as-price-slump-bites)**
 
-TipRanks • 5h ago
+TipRanks • 6h ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 115 • 💬 32 • ⏱️ 4:00 • 4h ago
+👁️ 1K • 👍 115 • 💬 32 • ⏱️ 4:00 • 5h ago
 
 ---
 
@@ -286,7 +286,7 @@ cryptomonnaies #cryptofrance #Bitcoin #Crypto #dollar #crypto #macroéconomie #s
 
 📺 Cryptolyze | Crypto - Finance - Économie
 
-👁️ 3K • 👍 372 • 💬 42 • ⏱️ 35:47 • 7h ago
+👁️ 3K • 👍 372 • 💬 42 • ⏱️ 35:47 • 8h ago
 
 ---
 
@@ -326,7 +326,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 My Channel
 
-👁️ 3K • 👍 1K • 3h ago
+👁️ 3K • 👍 1K • 4h ago
 
 ---
 
