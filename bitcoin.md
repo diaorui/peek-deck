@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-22T07:39:29.800252+00:00'
+updated: '2026-03-22T08:35:55.134266+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- videos
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 07:39 UTC  
+**Last Updated:** March 22, 2026 at 08:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 An excellent book about all the details, even people who fought the Blocksize war might have missed: https://www.youtube.com/watch?v=6YtS5ZNuuTw And excellent explanation of r/thelightningnetwork: https://www.youtube.com/watch?v=yKdK-7AtAMQ A bonus video. Lyn Alden's Full Broken Money Thesis in under 50min: https://www.youtube.com/watch?v=k3NN_NZOdhY
 
-11h ago
+12h ago
 
 ---
 
@@ -89,7 +89,7 @@ An excellent book about all the details, even people who fought the Blocksize wa
 
 Morgan Stanley allows clients to allocate between 0-4% of their portfolioa to bitcoin. Even a modest 2% could add $160 Billion dollars in capital to the BTC market.
 
-🔗 [Bitcoin Magazine](https://share.google/eNr25Ee6vq1fB2Lv1) • 9h ago
+🔗 [Bitcoin Magazine](https://share.google/eNr25Ee6vq1fB2Lv1) • 10h ago
 
 ---
 
@@ -97,7 +97,7 @@ Morgan Stanley allows clients to allocate between 0-4% of their portfolioa to bi
 
 Hey all, I have a friend who is definitely not tech-savvy who mentioned that she bought about 20 BTC as a joke in 2013. She says she documented all of the procedures and passwords at the behest of a tech friend she doesn't speak to any longer. She also still has the laptop from 2013 that she apparently did all this with, which doesn't seem to boot up. I did help her find the exchange she used and confirmed through the log that she sent 16.1 BTC to this wallet of hers. I have been researching the common wallets and am not sure if she had a web-based or software-based wallet. I believe (hoping) it was software-based and found the top five from that time. Apparently the web-based wallets suffered a high casualty rate. So it seems like it would be best to get the original laptop working again, even though she said she backed it up, the Bitcoin-related data was apparently on a different partition and I don't think she backed up that partition, as she just did time machine backups. Seems like a good next step? Thanks in advance.
 
-4h ago
+5h ago
 
 ---
 
@@ -111,7 +111,7 @@ Hey all, I have a friend who is definitely not tech-savvy who mentioned that she
 
 Been watching the markets lately and keep wanting to throw more money at these lower prices curious what everyone else is doing with their investment split between crypto and the usual stuff like index funds stocks bonds etc what percentage you running and why did you choose that amount also probably spending too much time refreshing charts instead of studing but whatever
 
-6h ago
+7h ago
 
 ---
 
@@ -119,7 +119,7 @@ Been watching the markets lately and keep wanting to throw more money at these l
 
 Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perrenod
 
-21h ago
+22h ago
 
 ---
 
@@ -127,13 +127,13 @@ Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perreno
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-1h ago
+2h ago
 
 ---
 
 **[Lightning Network might be already moving over $15B/year based on most recent data](https://www.reddit.com/r/Bitcoin/comments/1rztn0r/lightning_network_might_be_already_moving_over/)**
 
-🔗 [X (formerly Twitter)](https://x.com/LightningNewsX/status/2035261125630001359?s=20) • 16h ago
+🔗 [X (formerly Twitter)](https://x.com/LightningNewsX/status/2035261125630001359?s=20) • 17h ago
 
 ---
 
@@ -141,7 +141,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 hi, just checking in to say hi I am generally a conservative broad index ETF investor for most of my savings but jn recent years have also been buying bitcoin and and now hold 1,1 BTC. I am torn between contirnuing to buy a bit every month or stopping altogether having achieve wholecoinership. I would be interested to know how other stackers approach this
 
-12h ago
+13h ago
 
 ---
 
@@ -149,7 +149,7 @@ hi, just checking in to say hi I am generally a conservative broad index ETF inv
 
 https://www.reddit.com/r/CashApp/s/uqam2M17dd A permissioned vs permissionless system…
 
-6h ago
+7h ago
 
 ---
 
@@ -161,7 +161,7 @@ https://www.reddit.com/r/CashApp/s/uqam2M17dd A permissioned vs permissionless s
 
 Despite stabilizing spot prices, investors remain defensive, with leveraged speculation cooling and realized volatility dropping from 80 to 50, suggesting a cautious market sentiment.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 12h ago
 
 Two Bitcoin OGs sold $117M in BTC after the Fed decision. But Bitcoin whale wallets are buying the dip as exchange reserves hit a 7-year low.
 
-24/7 Wall St. • 15h ago
+24/7 Wall St. • 16h ago
 
 ---
 
@@ -177,13 +177,13 @@ Two Bitcoin OGs sold $117M in BTC after the Fed decision. But Bitcoin whale wall
 
 We live in interesting times, and these assets are built for exactly that.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
 **[Bitcoin Miners Are Losing $19,000 on Every BTC Produced as Difficulty Drops 7.8%](https://www.moomoo.com/news/post/67215786/bitcoin-miners-are-losing-19000-on-every-btc-produced-as)**
 
-Moomoo • 59m ago
+Moomoo • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ Moomoo • 59m ago
 
 We live in interesting times, and these assets are built for exactly that.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -199,7 +199,7 @@ Yahoo Finance • 2h ago
 
 VanEck's latest report noted that the selling pressure among bitcoin miners remained steady despite a decline in profitability.
 
-The Block • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -207,13 +207,13 @@ The Block • 1d ago
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 13m ago
+Polymarket • 1h ago
 
 ---
 
 **[White House Quietly Confirms A ‘Major’ Crypto Milestone As Bitcoin Braces For A Huge Price Earthquake](https://www.forbes.com/sites/digital-assets/2026/03/21/white-house-quietly-confirms-a-major-crypto-milestone-as-bitcoin-braces-for-a-huge-price-earthquake/)**
 
-Forbes • 19h ago
+Forbes • 20h ago
 
 ---
 
@@ -263,7 +263,7 @@ Difficulty is now nearly 10% below where it started the year, despite a sharp 14
 
 Seal predictions and decisions with cryptographic proof anchored to Bitcoin. No third party required. Free and open source.
 
-⬆️ 1 • 💬 1 • 3d ago • [psicommit.com](https://psicommit.com/)
+⬆️ 1 • 💬 1 • 4d ago • [psicommit.com](https://psicommit.com/)
 
 ---
 
@@ -271,7 +271,7 @@ Seal predictions and decisions with cryptographic proof anchored to Bitcoin. No 
 
 Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 33 chain analysis heuristics. Free, client-side, no tracking.
 
-⬆️ 1 • 💬 0 • 14h ago • [am-i.exposed](https://am-i.exposed/)
+⬆️ 1 • 💬 0 • 15h ago • [am-i.exposed](https://am-i.exposed/)
 
 ---
 
@@ -301,7 +301,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 41K • 👍 2K • 💬 129 • ⏱️ 59:39 • 18h ago
+👁️ 41K • 👍 2K • 💬 129 • ⏱️ 59:39 • 19h ago
 
 ---
 
@@ -311,7 +311,7 @@ Bitcoin just scored a massive regulatory win that changes everything for develop
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 68 • ⏱️ 21:11 • 8h ago
+👁️ 16K • 👍 1K • 💬 68 • ⏱️ 21:11 • 9h ago
 
 ---
 
@@ -341,7 +341,7 @@ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 
 
 📺 Altcoin Daily
 
-👁️ 15K • 👍 1K • 💬 98 • ⏱️ 8:36 • 9h ago
+👁️ 15K • 👍 1K • 💬 98 • ⏱️ 8:36 • 10h ago
 
 ---
 
@@ -389,7 +389,7 @@ Coin Deals HERE https://solo.to/couchcollectibles FREE $15 Credit: https://www.w
 
 📺 Couch Collectibles
 
-👁️ 803 • 👍 32 • 💬 1 • ⏱️ 2:52 • 5h ago
+👁️ 803 • 👍 32 • 💬 1 • ⏱️ 2:52 • 6h ago
 
 ---
 
