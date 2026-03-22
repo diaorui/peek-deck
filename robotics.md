@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-22T18:39:15.011045+00:00'
+updated: '2026-03-22T19:26:54.316458+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 22, 2026 at 18:39 UTC  
+**Last Updated:** March 22, 2026 at 19:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Still cant get it to walk forward yet but rotating seems okay. Can definitely be better tho. This is still a work im progress, the hexapod frame is 3d printed from a creator at makerworld. The internals and code are mine. Mine uses a ps2 controller for this hexapod. If any of you guys are working on the same frame, i will share the schematics and code for free once im finally done with this builddd. Its been about a month since i started this hexapod and mannnn its been cracking my head ever since 😂
 
-49m ago
+1h ago
 
 ---
 
@@ -44,7 +44,7 @@ Still cant get it to walk forward yet but rotating seems okay. Can definitely be
 
 The setup includes two robotic operation platforms, 28 sorting robots, and 4 delivery robots. A returned book goes through the return window → travels via conveyor belt → is picked up by a sorting robot and delivered to the correct shelf based on its category. Technically, this is the same class of autonomous mobile robotics used in e-commerce fulfillment. Robots navigate between shelves, avoid obstacles, and optimize routes in real time. Traditionally, librarians spend significant time collecting returned books, pushing carts, and manually reshelving.
 
-1h ago
+2h ago
 
 ---
 
@@ -52,7 +52,7 @@ The setup includes two robotic operation platforms, 28 sorting robots, and 4 del
 
 Saw the Galbot in action today at a cafe. What’s impressive is that it’s operating completely autonomously—no human intervention required. Watching its dual-arm coordination handle the espresso machine and serving was a great example of embodied AI moving into real-world commercial applications. This isn't just a demo; it's a functioning business model.
 
-6h ago
+7h ago
 
 ---
 
@@ -68,7 +68,7 @@ From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
 I’m currently learning ROS2 and working with Gazebo, so I followed a tutorial where the robot looks like this (first image : red/yellow block style) but when I built mine, I ended up with something like the second image (black robot with wheels + lidar). I didn’t intentionally change much, so I’m confused how it ended up so different. What I did: - Followed a ROS2 mobile robot tutorial - Set up the model + simulation in Gazebo - Added lidar and basic movement control What I’m noticing: - My model structure looks completely different - Visual + geometry doesn’t match tutorial - Not sure if I accidentally changed URDF/Xacro or used a different base model Questions: What could cause this kind of difference? Did I accidentally switch model type (like differential vs something else)? Is this normal when building your own model vs tutorial assets? Also — I’m documenting my learning journey (ROS2 + robotics), so any guidance would help a lot. Thanks!
 
-4h ago
+5h ago
 
 ---
 
@@ -76,7 +76,7 @@ I’m currently learning ROS2 and working with Gazebo, so I followed a tutorial 
 
 The tiny swimmers wreak havoc across the globe, but the robofish shocked them enough to impair their survival and reproduction
 
-🔗 [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/scientists-terrify-invasive-mosquitofish-with-their-worst-nightmare-a-robotic-fish-180979258/) • 40m ago
+🔗 [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/scientists-terrify-invasive-mosquitofish-with-their-worst-nightmare-a-robotic-fish-180979258/) • 1h ago
 
 ---
 
@@ -90,13 +90,13 @@ The tiny swimmers wreak havoc across the globe, but the robofish shocked them en
 
 https://genesis-embodied-ai.github.io/ It's been about a year since they released their open repo along with an announcement video that seemed a little too good to be true. The video made a lot of publicity but there seemed to be some controversy at the time about the video containing functionality that wasn't actually available, that the devs said would be released later. Since then, I haven't seen any one actually using it. Was it all hype? It looks like the repo is still active. Has anyone used it for anything?
 
-2h ago
+3h ago
 
 ---
 
 **[Real-time IMU VR tracking (ESP32 + ICM45686) streaming to PC — early test](https://www.reddit.com/r/robotics/comments/1s0jy7p/realtime_imu_vr_tracking_esp32_icm45686_streaming/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -144,7 +144,7 @@ Crain's Detroit • 2d ago
 
 A local fundraiser hopes to raise enough money so the BCSC VEX IQ robotics teams who earned a chance to compete on the international stage can make the trip.
 
-The Republic News • 13h ago
+The Republic News • 14h ago
 
 ---
 
@@ -196,7 +196,7 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 📺 CNET
 
-👁️ 3K • 👍 186 • 💬 6 • ⏱️ 5:50 • 6h ago
+👁️ 3K • 👍 186 • 💬 6 • ⏱️ 5:50 • 7h ago
 
 ---
 
@@ -206,7 +206,7 @@ How do you build a robot with a massive head, no visible legs, and motors that o
 
 📺 ZAUEY (Claire Zau)
 
-👁️ 407 • 👍 11 • ⏱️ 2:09 • 14m ago
+👁️ 407 • 👍 11 • ⏱️ 2:09 • 1h ago
 
 ---
 

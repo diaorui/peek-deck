@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-22T18:39:14.993064+00:00'
+updated: '2026-03-22T19:26:54.299006+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - videos
 - social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 22, 2026 at 18:39 UTC  
+**Last Updated:** March 22, 2026 at 19:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I am a painter with work at MoMA and the Met. I just published 50 years of my work as an open AI dataset. Here is what I learned. I have been making figurative art since the 1970s. Oil on canvas, works on paper, drawings, etchings, lithographs, and more recently digital works. My paintings are in the collections of the Metropolitan Museum of Art, MoMA, SFMOMA, and the British Museum. Earlier this month I published my entire catalog raisonne as an open dataset on Hugging Face. Roughly 3,000 to 4,000 documented works with full metadata, CC-BY-NC-4.0 licensed. My total output is about double that and I will keep adding to it. In one week the dataset has had over 2,500 downloads. I am not a developer or a researcher. I am an artist who has spent fifty years painting the human figure. I did this because I want my work to have a future and the future involves AI. I would rather engage with that on my own terms than wait for it to happen to me. What surprised me is how quickly the research community found it and engaged with it. What did not surprise me is that the questions the dataset raises are the same questions my paintings have always asked. What does it mean to look at the human body? What does the machine see that the human does not? What does the human see that the machine cannot? I do not have answers. I have fifty years of looking. If you have downloaded it or are thinking about it I would genuinely like to hear what you are doing with it. Dataset: huggingface.co/datasets/Hafftka/michael-hafftka-catalog-raisonne
 
-14h ago
+15h ago
 
 ---
 
@@ -49,7 +49,7 @@ I am a painter with work at MoMA and the Met. I just published 50 years of my wo
 
 Here’s a pattern I’ve observed again and again: A new technology promises to speed up some annoying aspects of our jobs. Everyone gets excited about freeing up more time for deep work and leisure. We end up busier than before without producing more of the high-value output that actually moves the needle. This happened with the front-office IT revolution, and email, and mobile computing, and once again with video-conferencing. I’m now starting to fear that we’re beginning to encounter the same thing with AI as well. My worries were stoked, in part, by a recent article in the Wall Street Journal, titled ​“AI Isn’t Lightening Workloads. It’s Making Them More Intense.”​ The piece cites new research from the software company ActivTrak, which analyzed the digital activity of 164,000 workers across more than 1,000 employers. What makes the study notable is its methodology: it tracked individual AI users for 180 days before and after they began using these tools, providing clear insight into what changed. The results? “ActivTrak found AI intensified activity across nearly every category: The time they spent on email, messaging and chat apps more than doubled, while their use of business-management tools, such as human-resources or accounting software, rose 94%.“ The one category where activity was not intensified, however, was deep work: “[T]he amount of time AI users devoted to focused, uninterrupted work—the kind of concentration often required for figuring out complex problems, writing formulas, creating and strategizing—fell 9%, compared with nearly no change for nonusers.” This is a worst-case scenario: you work faster and harder, but mainly on shallow, mentally taxing tasks (because of all the context shifting they require) that only indirectly help the bottom line compared to harder efforts. More here: https://calnewport.com/why-hasnt-ai-made-work-easier/#more-16813
 
-47m ago
+1h ago
 
 ---
 
@@ -57,7 +57,7 @@ Here’s a pattern I’ve observed again and again: A new technology promises to
 
 Every time I walk in the city everyone is sad and depressed and unhappy. I work in a call center for 8 hours or 9 with lunch included or 11 hours with dislocations included. Anyway. Most of my work is BS. Makes zero sense and doesn't even have any logic or helps society in anyway. I m tired, burnout and depressed. All works are like that now: impossible objectives and follow 300 rules in a call. I wish ia would take capitalism and this crapy jobs away any time.....i would not care. Of course if ubi arrives.
 
-6h ago
+7h ago
 
 ---
 
@@ -65,7 +65,7 @@ Every time I walk in the city everyone is sad and depressed and unhappy. I work 
 
 Hi, I am a new AI user. I want to use AI for daily life optimization, getting better at table tennis and fitness, to use in architecture for reviewing documents i.e. summarize them. I came across dhruv rathee AI Fiesta course and the price is 80$ for a year. Has anyone here use it? It is much cheaper than Perpexlity and chat gpt and it is claiming it gives output from various AI sources. Please comment and guide me
 
-1h ago
+2h ago
 
 ---
 
@@ -73,7 +73,7 @@ Hi, I am a new AI user. I want to use AI for daily life optimization, getting be
 
 I've drafted my company logo for my Consultancy Business. The logo is simply the name of my business with a water ripple icon on the left. My logo is okay but I want to improve it. I planned to prompt multiple AI's to ask it to improve my logo. Once I have a better logo or fresh ideas from AI.. I then plan to reach to logo designers to finish off my logo. First I need to prompt AI. Would anyone know the best AI sites to go on to? I can upload my Logo to these sites. Also, along with the best sites, would anyone know the best prompts I could use? Any advice is greatly appreciated, thanks
 
-1h ago
+2h ago
 
 ---
 
@@ -81,7 +81,7 @@ I've drafted my company logo for my Consultancy Business. The logo is simply the
 
 One night I hit the token limit with Codex and realized most of the cost was coming from context reloading, not actual work. So I started experimenting with a small context engine around it: - persistent memory - context planning - failure tracking - task-specific memory - and eventually domain “mods” (UX, frontend, etc) At the end it stopped feeling like using an assistant and more like working with a small dev team. The article goes through all the iterations (some of them a bit chaotic, not gonna lie). Curious to hear how others here are dealing with context / token usage when vibe coding. Repo here if anyone wants to dig into it: here
 
-🔗 [Medium](https://medium.com/techtrends-digest/the-night-i-ran-out-of-tokens-5d90a7031f91) • 3h ago
+🔗 [Medium](https://medium.com/techtrends-digest/the-night-i-ran-out-of-tokens-5d90a7031f91) • 4h ago
 
 ---
 
@@ -89,7 +89,7 @@ One night I hit the token limit with Codex and realized most of the cost was com
 
 Focus Features is offering Reddit users free tickets to a special advanced screening of The AI Doc: Or How I Became an Apocaloptimist, ahead of its regular release. The screenings will take place at 2 different theaters in NYC (AMC Lincoln Square) and LA (AMC The Grove) on Thursday 3/26 at 7 PM. You can bring a guest as well. It's from director Daniel Roher, who won the Best Documentary Oscar for his 2022 film Navalny. If you're in that area and are interested in attending this special event ahead of the regular release, for free, please fill out this form for your free ticket(s): LA: https://forms.gle/FvRZZLbrteYfb8ePA NY: https://forms.gle/L28h4fpWf96ExjKz6 The NY screening is at: AMC Lincoln Square | 1998 Broadway, New York, NY 10023 The LA screening is at : AMC The Grove | 189 The Grove Dr, Los Angeles, CA 90036 Trailer: https://www.youtube.com/watch?v=xkPbV3IRe4Y Synopsis: Hoping to figure out what's happening with artificial intelligence, a father-to-be embarks on an eye-opening journey to learn more about the most powerful technology humanity has ever created -- and what's at stake if we get it wrong. You will get your tickets by email a couple of days before the screening.
 
-5h ago
+6h ago
 
 ---
 
@@ -97,7 +97,7 @@ Focus Features is offering Reddit users free tickets to a special advanced scree
 
 Growth without people.
 
-🔗 [driscollglobe.com](https://www.driscollglobe.com/p/the-intelligence-curse-is-coming) • 23h ago
+🔗 [driscollglobe.com](https://www.driscollglobe.com/p/the-intelligence-curse-is-coming) • 1d ago
 
 ---
 
@@ -113,7 +113,7 @@ I keep seeing more and more companies say that they're going to reduce hallucina
 
 following up on a discussion from earlier a pattern that keeps showing up in real systems: most control happens after execution - retries - state checks - monitoring - idempotency patches but the actual decision to execute is often implicit if the agent can call the tool, the action runs in most other systems we separate: - capability (can call) - authority (allowed to execute) agents usually collapse those into one so the question becomes: where should the actual allow/deny decision live? - inside the agent loop? - inside tool wrappers? - as a centralized policy layer? - somewhere else entirely? or are we all still letting the agent decide and patching things after the fact?
 
-23h ago
+1d ago
 
 ---
 
@@ -125,7 +125,7 @@ following up on a discussion from earlier a pattern that keeps showing up in rea
 
 Dozens of Instagram and TikTok accounts have used AI avatars to promote explicit content, the BBC finds.
 
-BBC • 17h ago
+BBC • 18h ago
 
 ---
 
@@ -133,7 +133,7 @@ BBC • 17h ago
 
 AI usage in political ads is largely regulated at the state level, but there remain concerns about how they can mislead voters.
 
-NBC News • 8h ago
+NBC News • 9h ago
 
 ---
 
@@ -141,7 +141,7 @@ NBC News • 8h ago
 
 White House science advisor Michael Kratsios discusses the Trump administration’s AI plan for Congress, its potential impact on the job market and more on ‘The Sunday Briefing.’
 
-Fox News • 46m ago
+Fox News • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ Fox News • 46m ago
 
 AI analytics firm has become influential in Whitehall, and FCA deal gives it yet more access to data
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -165,7 +165,7 @@ CNBC • 1d ago
 
 Readers respond to two guest essays about the changes that artificial intelligence will wreak on the work force. Also: The shoes of the Trump men.
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
@@ -181,19 +181,19 @@ WIRED • 1d ago
 
 The entire chip supply chain depends on energy and chemical imports from the Middle East
 
-Financial Times • 6h ago
+Financial Times • 7h ago
 
 ---
 
 **[Meet The AI Company Food Conglomerates Call When They Want To Future-Proof Their Products](https://www.forbes.com/sites/chloesorvino/2026/03/22/meet-the-ai-company-food-conglomerates-call-when-they-want-to-future-proof-their-products/)**
 
-Forbes • 8h ago
+Forbes • 9h ago
 
 ---
 
 **[Chatbot Makers Try Sex Appeal](https://www.wsj.com/tech/ai/chatbot-makers-try-sex-appeal-f10c6263?gaa_at=eafs&gaa_n=AWEtsqfl34Wx-sPaI0l9z__EnVtiYj2zVZWMNqOy6PJ4EZRjLS59Mi1bEDmJ&gaa_ts=69c03abc&gaa_sig=t3WlUS9KRxiJTIamjv2VWX55Ur8Xhv8xx40WKVNYAj5W4QfuOzormZf0Hp1JQ-XKvKFlxY2k7xr906F6pLR6Uw%3D%3D)**
 
-WSJ • 6h ago
+WSJ • 7h ago
 
 ---
 
@@ -243,7 +243,7 @@ Qwen3.5-9B scores 93.8% on 96 real security AI tests — within 4 points of GPT-
 
 An AI agent tried to help, and its advice exposed sensitive data.
 
-⬆️ 169 • 💬 141 • 2d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
+⬆️ 169 • 💬 141 • 3d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
 
 ---
 
@@ -278,7 +278,7 @@ Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of halluci
 
 One thing that I noticed as soon as I open LinkedIn green color becomes the most dominant one, greener than my website. I have a feeling that everyone is lai...
 
-⬆️ 84 • 💬 66 • 20h ago • [Darko Tomic - Unity Learning Community](https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922)
+⬆️ 84 • 💬 66 • 21h ago • [Darko Tomic - Unity Learning Community](https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922)
 
 ---
 
@@ -312,7 +312,7 @@ What does inevitability sound like? That's not a thruway line—it's the questio
 
 📺 Mike Rowe
 
-👁️ 35K • 👍 2K • 💬 308 • ⏱️ 24:37 • 20h ago
+👁️ 35K • 👍 2K • 💬 308 • ⏱️ 24:37 • 21h ago
 
 ---
 
@@ -352,7 +352,7 @@ Iran just popped the $8 trillion AI bubble, and Wall Street is running the exact
 
 📺 Nick Bencino Finance
 
-👁️ 9K • 👍 754 • 💬 242 • ⏱️ 18:14 • 5h ago
+👁️ 9K • 👍 754 • 💬 242 • ⏱️ 18:14 • 6h ago
 
 ---
 
@@ -382,7 +382,7 @@ Start & Scale Your Own AAA with Expert Help: https://www.aaaaccelerator.com Soft
 
 📺 Liam Ottley
 
-👁️ 12K • 👍 712 • 💬 37 • ⏱️ 3:05:04 • 10h ago
+👁️ 12K • 👍 712 • 💬 37 • ⏱️ 3:05:04 • 11h ago
 
 ---
 
@@ -456,7 +456,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 Foundation-1 is a structured text-to-sample model for music production, enabling precise control over instrumentation, timbre, FX, and musical structure (tempo, key, bar count) for generating coherent, production-ready audio loops.
 
-⬇️ 0 • ❤️ 223 • 5d ago
+⬇️ 0 • ❤️ 223 • 6d ago
 
 ---
 
@@ -468,7 +468,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 3,311 • ❤️ 185 • 18h ago
+⬇️ 3,311 • ❤️ 185 • 19h ago
 
 ---
 
@@ -671,7 +671,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 13.0k • 🔱 1.6k • 2h ago
+⭐ 13.0k • 🔱 1.6k • 3h ago
 
 ---
 
@@ -701,7 +701,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 10.0k • 🔱 512 • 3h ago
+⭐ 10.0k • 🔱 512 • 4h ago
 
 ---
 
@@ -711,7 +711,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 6.2k • 🔱 938 • 20h ago
+⭐ 6.2k • 🔱 938 • 21h ago
 
 ---
 
