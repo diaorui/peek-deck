@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-22T22:53:55.591655+00:00'
+updated: '2026-03-22T23:30:14.675606+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 22:53 UTC  
+**Last Updated:** March 22, 2026 at 23:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** -8.9%  
-**30d:** +0.3%  
+**24h:** -1.1%  
+**7d:** -9.0%  
+**30d:** +0.2%  
 **90d:** -21.9%  
 **1y:** -20.7%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1366.12B
+**Market Cap:** $1363.47B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--45.9%
+-46.0%
 
 **All-Time Low:** $67.81
-+100408.8%
++100394.0%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Link to the Bitcoin history in El Zonte, but I'm sure you can find and share even better articles: https://wildcatsandblacksheep.com/the-salvadoran-beach-town-that-became-a-bitcoin-testbed/
 
-8h ago
+9h ago
 
 ---
 
@@ -105,7 +105,7 @@ This is the situation: I had a friend send me btc over the years to Coinbase. Th
 
 About 10 years ago, I bought 0.2 Bitcoin out of curiosity, and recently I happened upon the document where I wrote down the information about it. There are a few user names and passwords that I don’t quite know what they are good for, so I installed Bluewallet (iOS) which asked me for a seed. So I entered this “seed“ phrase, which seems to be correct, and now I can see the balance (0.218797) in my BlueWallet wallet. 1) I guess this means that I could sell these 0.21…. Bitcoin if I wanted to (I don’t want to, it’s hypothetical)? Would I need a password? Im pretty sure i have the correct password, but how can I test this without actually selling anything? 2) I don’t understand where my 0.2… Bitcoin is stored. I think it’s not stored on my device, otherwise I wouldn’t need the seed phrase to access it, right? So how can I know where it is stored? 3) (Related to Q 2): If I wanted to buy a little more, how could I add that to my existing balance rather than creating a new wallet? Thanks in advance
 
-10h ago
+11h ago
 
 ---
 
@@ -113,7 +113,7 @@ About 10 years ago, I bought 0.2 Bitcoin out of curiosity, and recently I happen
 
 Hey everyone, Just surpassed my first xxx amount of BTC. However im using a Ledger Nano s plus that I got off of Amazon to store it all. I know I shouldn't have done that but you live and you learn. I generated my own passphrase and everything. So it wasnt pre seeded, and I pass all authenticity tests. My question is, should I move my funds off of my Ledger? Or is it safe for now? I know open source is preferred, but is it worth spending ~300-400 CAD on a coldcard mq, jade plus, etc? Or am I better sitting with my Ledger for now? Tbh id rather put extra cash into more BTC, but I know security is the most important. Cheers  [comments]
 
-3h ago
+4h ago
 
 ---
 
@@ -121,7 +121,7 @@ Hey everyone, Just surpassed my first xxx amount of BTC. However im using a Ledg
 
 Hey all, I have a friend who is definitely not tech-savvy who mentioned that she bought about 20 BTC as a joke in 2013. She says she documented all of the procedures and passwords at the behest of a tech friend she doesn't speak to any longer. She also still has the laptop from 2013 that she apparently did all this with, which doesn't seem to boot up. I did help her find the exchange she used and confirmed through the log that she sent 16.1 BTC to this wallet of hers. I have been researching the common wallets and am not sure if she had a web-based or software-based wallet. I believe (hoping) it was software-based and found the top five from that time. Apparently the web-based wallets suffered a high casualty rate. So it seems like it would be best to get the original laptop working again, even though she said she backed it up, the Bitcoin-related data was apparently on a different partition and I don't think she backed up that partition, as she just did time machine backups. Seems like a good next step? Thanks in advance.
 
-19h ago
+20h ago
 
 ---
 
@@ -145,7 +145,7 @@ Morgan Stanley allows clients to allocate between 0-4% of their portfolioa to bi
 
 I’ve been investing for more than a year now but still struggle to find reliable sources to get news from. I’m not one to sit and watch news on the tv all day. Where do you find your financial news?
 
-5h ago
+6h ago
 
 ---
 
@@ -161,11 +161,11 @@ An excellent book about all the details, even people who fought the Blocksize wa
 
 ## Google News: "bitcoin"
 
-**[Bitcoin miners are losing $19,000 on every BTC produced as difficulty drops 7.8%](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)**
+**[Gold nears bear market as money supply signals divergence with bitcoin](https://www.coindesk.com/markets/2026/03/20/gold-falters-as-macro-pressures-build-bitcoin-holds-liquidity-trend)**
 
-The average production cost was sitting at $88,000 per bitcoin in mid-March, according to Checkonchain's difficulty regression model.
+Rising real rates and inflation risks weigh on gold, while bitcoin continues to consolidate.
 
-CoinDesk • 16h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -175,41 +175,33 @@ Forbes • 1d ago
 
 ---
 
-**[$Bitcoin (BTC.CC)$](https://www.moomoo.com/community/feed/bitcoin-btc-cc-116274818580885)**
+**[New Crypto: Pepeto Reveals Ecosystem Expansion And Bitcoin Price Eyes Recovery While Dogecoin Jumps on Elon Musk X Money News](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-reveals-ecosystem-expansion-and-bitcoin-price-eyes-recovery-while-dogecoin-jumps-on-elon-musk-x-money-news-1035952589)**
 
-@Taking Prophet5385 Views|2 Likes
+Dubai, UAE, March  22, 2026  (GLOBE NEWSWIRE) -- The Pepeto team just revealed a full ecosystem expansion covering the DeFi exchange, multi chain ...
 
-Moomoo • 1h ago
-
----
-
-**[NYSE exchanges complete industry-wide removal of crypto ETF options caps](https://www.theblock.co/post/394593/nyse-exchanges-complete-industry-wide-removal-of-crypto-etf-options-caps)**
-
-The changes mean crypto ETF options are now treated identically to other commodity-based ETF options at every major exchange in the U.S.
-
-The Block • 1h ago
+markets.businessinsider.com • 1h ago
 
 ---
 
-**[$Bitcoin (BTC.CC)$ Rally for nothing, now paying the price](https://www.moomoo.com/community/feed/bitcoin-btc-cc-rally-for-nothing-now-y0u-pay-the-116274927697925)**
+**[$Bitcoin (BTC.CC)$](https://www.moomoo.com/community/feed/bitcoin-btc-cc-116275347783685)**
 
-@Eugh4631 Views|2 Likes
+@Ultra Thinker2000 Views|4 Likes
 
-Moomoo • 1h ago
+Moomoo • 14m ago
+
+---
+
+**[Crypto News: Pepeto Announces $8.28M Raised While Bitcoin Price Prediction Debate Heats Up Between $0 and $150K Levels](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-8-28m-raised-while-bitcoin-price-prediction-debate-heats-up-between-0-and-150k-levels-1035952650)**
+
+Dubai, UAE, March  22, 2026  (GLOBE NEWSWIRE) -- Pepeto just passed the $8.28M mark, and the project is growing faster than anything the meme coin...
+
+markets.businessinsider.com • 36m ago
 
 ---
 
 **[Bitcoin Drops Below $69,000 as War Fears Weigh on Crypto Markets](https://www.bloomberg.com/news/articles/2026-03-22/bitcoin-drops-below-69-000-as-war-fears-weigh-on-crypto-markets)**
 
-Bloomberg.com • 2h ago
-
----
-
-**[Best Cryptocurrencies to Buy Right Now for Long-Term Investors](https://www.fool.com/investing/2026/03/22/best-cryptocurrencies-to-buy-right-now-for-long-te/)**
-
-For buy-and-hold investors, these three cryptocurrencies could be the key to turbocharging portfolio returns.
-
-The Motley Fool • 10h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -221,11 +213,11 @@ Yahoo Finance • 10h ago
 
 ---
 
-**[This Lee restaurant is now accepting bitcoin to pay for meals. Here's how that works](https://www.berkshireeagle.com/news/southern_berkshires/cafe-triskele-accepts-bitcoin/article_d9c0a6f8-c10e-4773-be63-b7a4b3f3a6a3.html)**
+**[Best Cryptocurrencies to Buy Right Now for Long-Term Investors](https://www.fool.com/investing/2026/03/22/best-cryptocurrencies-to-buy-right-now-for-long-te/)**
 
-With Bitcoin and other cryptocurrency tokens becoming more accepted, retailers are beginning to accept them as forms of payment. Café Triskele in Lee the first restaurant in Berkshire County to
+For buy-and-hold investors, these three cryptocurrencies could be the key to turbocharging portfolio returns.
 
-The Berkshire Eagle • 1d ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -234,6 +226,14 @@ The Berkshire Eagle • 1d ago
 Known to the public as a judge on a television show, the French bitcoin pioneer wants to win over the masses to the cryptocurrencies that made him wealthy. With the 2027 presidential election approaching, this libertarian has embraced increasingly radical ideas.
 
 Le Monde.fr • 1d ago
+
+---
+
+**[Bitcoin long-term holder selling slows, signaling 'potentially constructive' trend: VanEck](https://www.theblock.co/post/394467/bitcoin-long-term-holder-activity-slows-vaneck)**
+
+VanEck's latest report noted that the selling pressure among bitcoin miners remained steady despite a decline in profitability.
+
+The Block • 2d ago
 
 ---
 
@@ -305,23 +305,23 @@ An event loop for asyncio written in Rust. Contribute to RustedBytes/rsloop deve
 
 ## YouTube Videos: "bitcoin"
 
-**[BIGGEST BITCOIN ANNOUNCEMENT IN OVER 1 YEAR?!](https://www.youtube.com/watch?v=3bFwFyButjg)**
-
-Bitcoin just scored a massive regulatory win that changes everything for developers and self-custody. The SEC and CFTC finally ...
-
-📺 Simply Bitcoin
-
-👁️ 28K • 👍 2K • 💬 110 • ⏱️ 21:11 • 23h ago
-
----
-
 **[Bitcoin Holders, I Really Wasn&#39;t Expecting This Outcome](https://www.youtube.com/watch?v=xwff4pYhO9E)**
 
 Things are heating up Check out Ledn: https://aaronbtc.com/ledn ChangeNOW: https://bit.ly/47E6nl9 X ...
 
 📺 Aaron Bennett
 
-👁️ 7K • 👍 403 • 💬 59 • ⏱️ 9:35 • 13h ago
+👁️ 8K • 👍 427 • 💬 63 • ⏱️ 9:35 • 14h ago
+
+---
+
+**[BIGGEST BITCOIN ANNOUNCEMENT IN OVER 1 YEAR?!](https://www.youtube.com/watch?v=3bFwFyButjg)**
+
+Bitcoin just scored a massive regulatory win that changes everything for developers and self-custody. The SEC and CFTC finally ...
+
+📺 Simply Bitcoin
+
+👁️ 29K • 👍 2K • 💬 148 • ⏱️ 21:11 • 1d ago
 
 ---
 
@@ -331,7 +331,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 51K • 👍 2K • 💬 129 • ⏱️ 59:39 • 1d ago
+👁️ 53K • 👍 2K • 💬 129 • ⏱️ 59:39 • 1d ago
 
 ---
 
@@ -341,7 +341,7 @@ Bitcoin #Crypto #Finance Anthony Scaramucci says this Bitcoin pullback may be fa
 
 📺 The Wolf Of All Streets
 
-👁️ 16K • 👍 797 • 💬 164 • ⏱️ 30:41 • 9h ago
+👁️ 19K • 👍 887 • 💬 156 • ⏱️ 30:41 • 10h ago
 
 ---
 
@@ -351,7 +351,7 @@ Watch the full episode here: https://youtu.be/7cW2PCPA8kY. Ben Cowen explains th
 
 📺 Market Disruptors Podcast
 
-👁️ 2K • 👍 127 • 💬 8 • ⏱️ 7:18 • 7h ago
+👁️ 3K • 👍 179 • 💬 38 • ⏱️ 7:18 • 7h ago
 
 ---
 
@@ -361,17 +361,17 @@ Bitcoin just went live at millions of businesses without anyone opting in. While
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 147 • ⏱️ 12:51 • 2d ago
+👁️ 23K • 👍 2K • 💬 150 • ⏱️ 12:51 • 2d ago
 
 ---
 
-**[Can Bitcoin Survive Trump (I&#39;m Worried)](https://www.youtube.com/watch?v=CGi4y98Tkkg)**
+**[STRATEGY IS DRIVING BITCOIN TO $1 MILLION - 2026 WILL BE INSANE!](https://www.youtube.com/watch?v=7zCOB3CDTEU)**
 
-Drew looks at Trump's impact on Bitcoin. What are the 2nd and 3rd order effects? Drew looks at Trump's impact on Bitcoin   Join ...
+Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant Home Equity into Bitcoin with Horizon: ...
 
-📺 Discover Crypto
+📺 Adam Livingston
 
-👁️ 719 • 👍 75 • 💬 33 • ⏱️ 10:36 • 3h ago
+👁️ 11K • 👍 1K • 💬 148 • ⏱️ 26:42 • 1d ago
 
 ---
 
@@ -381,7 +381,7 @@ Drew looks at Trump's impact on Bitcoin. What are the 2nd and 3rd order effects?
 
 📺 Altcoin Daily
 
-👁️ 11K • 👍 329 • 💬 54 • ⏱️ 1:06 • 2d ago
+👁️ 11K • 👍 332 • 💬 55 • ⏱️ 1:06 • 2d ago
 
 ---
 
@@ -395,13 +395,13 @@ A classic case of the bear market blues for Bitcoin. Into The Cryptoverse Premiu
 
 ---
 
-**[STRATEGY IS DRIVING BITCOIN TO $1 MILLION - 2026 WILL BE INSANE!](https://www.youtube.com/watch?v=7zCOB3CDTEU)**
+**[Bitcoin Live Trading: This Level Won’t Hold! Breakout or Breakdown?! EP1944](https://www.youtube.com/watch?v=adokQhwvBcI)**
 
-Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant Home Equity into Bitcoin with Horizon: ...
+Bitcoin Vegas 2026: https://fxo.co/JAmn Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ...
 
-📺 Adam Livingston
+📺 Crypto Lifer
 
-👁️ 11K • 👍 1K • 💬 183 • ⏱️ 26:42 • 1d ago
+👁️ 5K • 👍 339 • 💬 37 • ⏱️ 1:10:20 • 21h ago
 
 ---
 

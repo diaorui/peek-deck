@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-22T22:53:55.601167+00:00'
+updated: '2026-03-22T23:30:14.684971+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 22, 2026 at 22:53 UTC  
+**Last Updated:** March 22, 2026 at 23:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,7 +68,7 @@ Saw the Galbot in action today at a cafe. What’s impressive is that it’s ope
 
 The tiny swimmers wreak havoc across the globe, but the robofish shocked them enough to impair their survival and reproduction
 
-🔗 [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/scientists-terrify-invasive-mosquitofish-with-their-worst-nightmare-a-robotic-fish-180979258/) • 4h ago
+🔗 [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/scientists-terrify-invasive-mosquitofish-with-their-worst-nightmare-a-robotic-fish-180979258/) • 5h ago
 
 ---
 
@@ -84,7 +84,7 @@ From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
 https://genesis-embodied-ai.github.io/ It's been about a year since they released their open repo along with an announcement video that seemed a little too good to be true. The video made a lot of publicity but there seemed to be some controversy at the time about the video containing functionality that wasn't actually available, that the devs said would be released later. Since then, I haven't seen any one actually using it. Was it all hype? It looks like the repo is still active. Has anyone used it for anything?
 
-6h ago
+7h ago
 
 ---
 
@@ -92,7 +92,7 @@ https://genesis-embodied-ai.github.io/ It's been about a year since they release
 
 I’m currently learning ROS2 and working with Gazebo, so I followed a tutorial where the robot looks like this (first image : red/yellow block style) but when I built mine, I ended up with something like the second image (black robot with wheels + lidar). I didn’t intentionally change much, so I’m confused how it ended up so different. What I did: - Followed a ROS2 mobile robot tutorial - Set up the model + simulation in Gazebo - Added lidar and basic movement control What I’m noticing: - My model structure looks completely different - Visual + geometry doesn’t match tutorial - Not sure if I accidentally changed URDF/Xacro or used a different base model Questions: What could cause this kind of difference? Did I accidentally switch model type (like differential vs something else)? Is this normal when building your own model vs tutorial assets? Also — I’m documenting my learning journey (ROS2 + robotics), so any guidance would help a lot. Thanks!
 
-8h ago
+9h ago
 
 ---
 
@@ -112,27 +112,11 @@ I’m currently learning ROS2 and working with Gazebo, so I followed a tutorial 
 
 ## Google News: "robotics"
 
-**[Mark Cuban says the future of robotics isn't humanoids, but robots and homes that are co-designed](https://www.businessinsider.com/mark-cuban-humanoid-robotics-will-fail-robots-houses-codesigned-2026-3)**
-
-Mark Cuban said the push for humanoid robots will fail and that instead robots and spaces will be co-designed.
-
-Business Insider • 2d ago
-
----
-
 **[Robotics giant plans massive $90M plant in metro Detroit, 225 jobs](https://www.crainsdetroit.com/manufacturing-logistics/cdb-fanuc-robots-investment-michigan-20260319/)**
 
 Japanese manufacturer Fanuc is plotting a large expansion in Michigan in response to demand from automakers and other customers.
 
 Crain's Detroit • 2d ago
-
----
-
-**[Fundraiser will help sent robotics teams to international competition](https://www.therepublic.com/2026/03/22/fundraiser-will-help-sent-robotics-teams-to-international-competition/)**
-
-A local fundraiser hopes to raise enough money so the BCSC VEX IQ robotics teams who earned a chance to compete on the international stage can make the trip.
-
-The Republic News • 18h ago
 
 ---
 
@@ -144,17 +128,41 @@ IEEE Spectrum • 1d ago
 
 ---
 
+**[Unitree plans Shanghai IPO, testing interest in humanoid robots](https://www.reuters.com/world/asia-pacific/unitree-plans-shanghai-ipo-testing-interest-humanoid-robots-2026-03-20/)**
+
+Reuters • 2d ago
+
+---
+
+**[Mark Cuban says the future of robotics isn't humanoids, but robots and homes that are co-designed](https://www.businessinsider.com/mark-cuban-humanoid-robotics-will-fail-robots-houses-codesigned-2026-3)**
+
+Mark Cuban said the push for humanoid robots will fail and that instead robots and spaces will be co-designed.
+
+Business Insider • 2d ago
+
+---
+
+**[Fundraiser will help sent robotics teams to international competition](https://www.therepublic.com/2026/03/22/fundraiser-will-help-sent-robotics-teams-to-international-competition/)**
+
+A local fundraiser hopes to raise enough money so the BCSC VEX IQ robotics teams who earned a chance to compete on the international stage can make the trip.
+
+The Republic News • 18h ago
+
+---
+
+**[DNA Robots Are Coming: Tiny Machines That Could Transform Medicine and Technology](https://scitechdaily.com/dna-robots-are-coming-tiny-machines-that-could-transform-medicine-and-technology/)**
+
+Scientists are exploring DNA-based robots, tiny molecular machines that could one day navigate the body, deliver targeted therapies, and even build nanoscale technologies.
+
+SciTechDaily • 7h ago
+
+---
+
 **[University of Essex's fruit-picking robot wins national award](https://www.bbc.com/news/articles/c9d41n6gv20o)**
 
 The robots can pick, weigh and harvest strawberries in a matter of seconds.
 
 BBC • 17h ago
-
----
-
-**[Unitree plans Shanghai IPO, testing interest in humanoid robots](https://www.reuters.com/world/asia-pacific/unitree-plans-shanghai-ipo-testing-interest-humanoid-robots-2026-03-20/)**
-
-Reuters • 2d ago
 
 ---
 
@@ -174,19 +182,11 @@ Engadget • 3d ago
 
 ---
 
-**[Amazon acquires Rivr, maker of a stair-climbing delivery robot](https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/)**
+**[Amazon acquires robotic doorstep delivery provider RIVR](https://www.therobotreport.com/amazon-acquires-robotic-doorstep-delivery-provider-rivr/)**
 
-Amazon and Jeff Bezos had previously invested in the startup. The deal signals the e-commerce giant's interest in doorstep delivery.
+With last-mile delivery company RIVR now at Amazon, could we soon see quadrupeds delivering our Amazon packages?
 
-TechCrunch • 2d ago
-
----
-
-**[Tech Moves: Carbon Robotics’ new CFO; Microsoft gaming GM goes to Netflix; Nordstrom gets VP of AI](https://www.geekwire.com/2026/tech-moves-carbon-robotics-new-cfo-microsoft-gaming-gm-goes-to-netflix-nordstrom-gets-vp-of-ai/)**
-
-Carbon Robotics names a CFO; Nordstrom gets a VP of AI; and a Microsoft gaming GM goes to Netflix while one of its longtime legal leaders retires.
-
-GeekWire • 2d ago
+The Robot Report • 2d ago
 
 ---
 
@@ -200,17 +200,17 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 📺 CNET
 
-👁️ 4K • 👍 222 • 💬 10 • ⏱️ 5:50 • 10h ago
+👁️ 5K • 👍 245 • 💬 13 • ⏱️ 5:50 • 11h ago
 
 ---
 
-**[Gecko Robotics Inks $71 Million Deal With US Navy](https://www.youtube.com/watch?v=82_585LieQY)**
+**[Full Width Intake and Dual Shooter | 5813 Morpheus | FRC Pit Stop](https://www.youtube.com/watch?v=g2jIOEZxHgs)**
 
-Gecko Robotics announced a $71 million partnership with the US Navy, deploying its AI-powered robots to assess the condition ...
+Full Width Intake and Dual Shooter | 5813 Morpheus | FRC Pit Stop This video is supported by OSHCut. Get 50% off your first ...
 
-📺 Bloomberg Technology
+📺 FUN Robotics Network
 
-👁️ 5K • 👍 142 • 💬 3 • ⏱️ 4:39 • 5d ago
+👁️ 3K • 👍 98 • 💬 1 • ⏱️ 1:16 • 1d ago
 
 ---
 
@@ -220,47 +220,17 @@ Gecko Robotics announced a $71 million partnership with the US Navy, deploying i
 
 📺 MachineWorks Studio
 
-👁️ 3.0M • 👍 3K • 💬 43 • ⏱️ 0:06 • 6d ago
+👁️ 3.2M • 👍 3K • 💬 45 • ⏱️ 0:06 • 6d ago
 
 ---
 
-**[China’s REAL Terminator Why the T800 Robot is Terrifying the World!](https://www.youtube.com/watch?v=OwpW233uEEM)**
+**[Gecko Robotics Inks $71 Million Deal With US Navy](https://www.youtube.com/watch?v=82_585LieQY)**
 
-China's REAL Terminator Why the T800 Robot is Terrifying the World! Is the AI takeover happening faster than we were told?
+Gecko Robotics announced a $71 million partnership with the US Navy, deploying its AI-powered robots to assess the condition ...
 
-📺 Signal Frontier
+📺 Bloomberg Technology
 
-👁️ 59K • 👍 1K • 💬 357 • ⏱️ 21:33 • 1d ago
-
----
-
-**[What It Took to Make This Robot Work](https://www.youtube.com/watch?v=qzNmMoFnRsY)**
-
-COGLET KICKSTARTER LAUNCH: ...
-
-📺 Will Cogley
-
-👁️ 16K • 👍 1K • 💬 65 • ⏱️ 10:35 • 2d ago
-
----
-
-**[Dancing Robot Breaks Down Mid-Performance Causing CHAOS](https://www.youtube.com/watch?v=qu_BRyeSVPE)**
-
-This funky robot didn't just break it down... it broke down. At a Chinese restaurant in San Jose, CA, the robot was delighting diners ...
-
-📺 New York Post
-
-👁️ 5K • 👍 99 • 💬 85 • ⏱️ 2:15 • 1d ago
-
----
-
-**[Inside the Startup That Powers Humanoid Robots](https://www.youtube.com/watch?v=3xJzmy2gOgQ)**
-
-Do you want to see a humanoid AI lab from the inside? I do – join me and let's visit Flexion: Europe's leading lab building the AI ...
-
-📺 Andreas Klinger @ PROTOTYPE
-
-👁️ 12K • 👍 471 • 💬 36 • ⏱️ 18:52 • 2d ago
+👁️ 5K • 👍 143 • 💬 3 • ⏱️ 4:39 • 5d ago
 
 ---
 
@@ -270,17 +240,37 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 270K • 👍 3K • 💬 2K • ⏱️ 2:07 • 3d ago
+👁️ 274K • 👍 3K • 💬 2K • ⏱️ 2:07 • 3d ago
 
 ---
 
-**[Midea&#39;s 6-Armed Humanoid Robot Gets to Work #humanoidrobot #robotics #futureofwork #robot](https://www.youtube.com/watch?v=2WazFUmIg54)**
+**[What It Took to Make This Robot Work](https://www.youtube.com/watch?v=qzNmMoFnRsY)**
 
-Midea Group, one of the world's largest home appliance manufacturers, just unveiled its new six-armed humanoid robot, Miro U.
+COGLET KICKSTARTER LAUNCH: ...
 
-📺 Kalil 4.0
+📺 Will Cogley
 
-👁️ 872 • 👍 26 • 💬 2 • ⏱️ 0:24 • 5h ago
+👁️ 17K • 👍 1K • 💬 67 • ⏱️ 10:35 • 2d ago
+
+---
+
+**[Inside the Startup That Powers Humanoid Robots](https://www.youtube.com/watch?v=3xJzmy2gOgQ)**
+
+Do you want to see a humanoid AI lab from the inside? I do – join me and let's visit Flexion: Europe's leading lab building the AI ...
+
+📺 Andreas Klinger @ PROTOTYPE
+
+👁️ 12K • 👍 474 • 💬 36 • ⏱️ 18:52 • 2d ago
+
+---
+
+**[Dancing robot goes rogue in hot pot restaurant](https://www.youtube.com/watch?v=DfnIEWpbMU8)**
+
+Video shows restaurant employees struggling to restrain a dancing robot that went rogue in a hot pot restaurant in California.
+
+📺 NBC News
+
+👁️ 194K • 👍 2K • 💬 638 • ⏱️ 3:38 • 3d ago
 
 ---
 
@@ -290,7 +280,17 @@ war #robot #usa Foundation is testing its Phantom MK-1 humanoid soldier and has 
 
 📺 OTOFOOTAGE
 
-👁️ 19K • 👍 80 • 💬 52 • ⏱️ 2:12 • 5d ago
+👁️ 20K • 👍 81 • 💬 52 • ⏱️ 2:12 • 5d ago
+
+---
+
+**[Midea&#39;s 6-Armed Humanoid Robot Gets to Work #humanoidrobot #robotics #futureofwork #robot](https://www.youtube.com/watch?v=2WazFUmIg54)**
+
+Midea Group, one of the world's largest home appliance manufacturers, just unveiled its new six-armed humanoid robot, Miro U.
+
+📺 Kalil 4.0
+
+👁️ 1K • 👍 37 • 💬 4 • ⏱️ 0:24 • 5h ago
 
 ---
 

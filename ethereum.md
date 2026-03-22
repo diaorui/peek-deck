@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-22T22:53:55.597702+00:00'
+updated: '2026-03-22T23:30:14.681756+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - videos
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 22:53 UTC  
+**Last Updated:** March 22, 2026 at 23:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.6%  
-**7d:** -12.8%  
-**30d:** +4.0%  
-**90d:** -30.8%  
-**1y:** +2.4%  
+**24h:** -1.1%  
+**7d:** -12.3%  
+**30d:** +4.4%  
+**90d:** -30.5%  
+**1y:** +2.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $249.06B
+**Market Cap:** $248.98B
 Rank #2
 
 **Circulating Supply:** 120,691,743 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.4%
+-58.3%
 
 **All-Time Low:** $0.43
-+475174.8%
++476315.7%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 An attacker minted $80M in unbacked USR stablecoins using just $200K, crashing the token 62%. The GENIUS Act was supposed to prevent exactly this.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/resolv-usr-stablecoin-80-million-unauthorized-mint-2026/) • 58m ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/resolv-usr-stablecoin-80-million-unauthorized-mint-2026/) • 1h ago
 
 ---
 
 **[Ethereum Cuts Bridge Times by 98%](https://www.reddit.com/r/ethereum/comments/1s0mzw8/ethereum_cuts_bridge_times_by_98/)**
 
-🔗 [financefeeds.com](https://financefeeds.com/crypto-news-ethereum-cuts-bridge-times-by-98-while-pepeto-hands-early-believers-100x-presale-gains/) • 8h ago
+🔗 [financefeeds.com](https://financefeeds.com/crypto-news-ethereum-cuts-bridge-times-by-98-while-pepeto-hands-early-believers-100x-presale-gains/) • 9h ago
 
 ---
 
@@ -86,7 +86,7 @@ An attacker minted $80M in unbacked USR stablecoins using just $200K, crashing t
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -94,7 +94,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi there, I made a niche thing, probably useful for a small group of node runners who wanted something like this. It’s basically a lightweight, IPFS-hosted Ethereum explorer — like Etherscan, but it queries your own node directly via JSON-RPC. It’s just a static HTML page, so you open it, enter your RPC, and use it. No backend, no setup — just a page. Access nodex.monkale.eth nodex.monkale.eth.limo Repo github.com/monkale-io/ethereum-node-explorer I built it after I started running my own node and wanted a simple web UI to explore it. I found an old explorer (Alethio ethereum-lite-explorer) — it still works and is actually quite good, but it was abandoned ~6 years ago — so I decided to rewrite it with a modern stack and put it on IPFS, so it can stay just a static page without any backend or services to run. Planning to maintain and evolve it. Feedback and contributions are welcome.
 
-6h ago
+7h ago
+
+---
+
+**[Is Ethereum L2 fragmentation actually getting worse?](https://www.reddit.com/r/ethereum/comments/1s10epx/is_ethereum_l2_fragmentation_actually_getting/)**
+
+Been using Ethereum for years and I'm happy with the roadmap, but L2s are starting to feel like their own isolated islands. Arbitrum, Base, Optimism, ZkSync , each has its own liquidity, its own bridges, its own quirks. I get that they scale the network, but moving between them still feels clunky. Sometimes I wonder if we're solving one problem (fees on mainnet) while creating another (fragmentation). Curious how others see this. Are we heading toward a unified L2 experience or is this just how it's going to be?
+
+18m ago
 
 ---
 
@@ -124,21 +132,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone, I’ve been working on a side project called Blockpeek and just shipped a new update. It’s a blockchain transaction scanner that tries to explain what actually happened in plain English instead of just showing raw hex data. You paste a transaction hash (or upload a screenshot from your wallet/exchange) and it tells you: ∙ What was sent, to who, from who ∙ The USD value at the time ∙ Gas fees in USD ∙ Which chain it was on (auto-detects Ethereum, BSC, Arbitrum, Polygon, Base, Solana, Bitcoin, Tron and more) It’s free, no login required. Would genuinely love feedback — what’s missing, what’s broken, what would make it actually useful for you. blockpeek.io
 
-1d ago
+2d ago
 
 ---
 
 **[Thorchain Alternative?](https://www.reddit.com/r/ethereum/comments/1rz9an2/thorchain_alternative/)**
 
 I’m looking for a way to swap my Bitcoin to Ethereum without KYC, so obviously i found thorchain, but unfortunately it’s not available here in the U.S, and i heard it’s very expensive as well. Where should I do it you think? sorry if this question was already asked in past but i couldnt find an answer after bit lf time checking.
-
-2d ago
-
----
-
-**[Daily General Discussion March 20, 2026](https://www.reddit.com/r/ethereum/comments/1ryna1i/daily_general_discussion_march_20_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 2d ago
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 While upgrades have improved efficiency and lowered costs, the ecosystem faces deeper structural questions around fragmentation, security, and purpose, even as it continues prioritizing base-layer scaling.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -180,17 +180,11 @@ Qubic • 1d ago
 
 ---
 
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqev99Y5i1h8OCDwUBRxLDfWRMvFzPHwVLY46OhjNpDtxEn-nB373X3M&gaa_ts=69c0703f&gaa_sig=wkOm1EDjzg9czx-T-GnffRATSPVyS58L8jTIUaa6wqUvMr-f7ELl1r8t2f778rcZe4mxAg5pLqNiikq8gIJcRA%3D%3D)**
-
-MarketWatch • 2d ago
-
----
-
 **[Ethereum Entered 'Generational Buy Zone,' Says Analyst: 'Precursor To Massive Structural Bull Rallies'](https://finance.yahoo.com/markets/crypto/articles/ethereum-entered-generational-buy-zone-150120991.html)**
 
 Cryptocurrency analyst Ali Martinez said on Thursday that Ethereum has entered a generational “Buy Zone,” hinting at major bull runs on the horizon. What History Says In an X post, Martinez pointed out that Ethereum’s Market Value to Realized Value...
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -202,6 +196,12 @@ markets.businessinsider.com • 1h ago
 
 ---
 
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqc-b6nXuAY-icoQS3numrXya6F5uMzI2mHYv5Y8P5kASFdOrppK6Ucc&gaa_ts=69c07edf&gaa_sig=vXHNuWUKe85eQoZR_4MIgBnJkzuwBhsK7gfb_IH-KE9fgZkashk0ywzzuAPNThZzWCYiemXtIdWwwBelrmKiyQ%3D%3D)**
+
+MarketWatch • 2d ago
+
+---
+
 **[Current price of Ethereum for March 20, 2026](https://fortune.com/article/price-of-ethereum-03-20-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
@@ -210,17 +210,15 @@ Fortune • 2d ago
 
 ---
 
-**[Ethereum ETF Sees Investors Head for the Exits as Price Slump Bites](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-sees-investors-head-for-the-exits-as-price-slump-bites)**
+**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1774180200)**
 
-TipRanks • 9h ago
+Polymarket • 10h ago
 
 ---
 
-**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1774157100)**
+**[Ethereum ETF Feels the Chill as Investors Pull $102 Million from ETHA](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-feels-the-chill-as-investors-pull-102-million-from-etha)**
 
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 1d ago
+TipRanks • 9h ago
 
 ---
 
@@ -234,7 +232,77 @@ BlackRock just launched a staking Ethereum ETF—but is it really a win for inve
 
 📺 Coin Bureau
 
-👁️ 18K • 👍 792 • 💬 94 • ⏱️ 18:11 • 1d ago
+👁️ 19K • 👍 811 • 💬 95 • ⏱️ 18:11 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=99org2xyUKk)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 148 • 💬 5 • ⏱️ 4:00 • 8h ago
+
+---
+
+**[Will the Crypto Market CRASH Next Week?🚨 (Bitcoin, Ethereum, XRP &amp; Altcoins Update)](https://www.youtube.com/watch?v=Y3cmlLGbauo)**
+
+CRYPTO MARKET UPDATE! Crypto Crash Next Week? Join the Premium Signal Group for trade setups, mentorship & a ...
+
+📺 Cilinix Crypto
+
+👁️ 1K • 👍 79 • 💬 11 • ⏱️ 6:47 • 10h ago
+
+---
+
+**[&quot;ETHEREUM IS ABOUT TO SKYROCKET&quot;?!?! (Major Blackrock Eth ETF News)](https://www.youtube.com/watch?v=ZPGB-z8MNug)**
+
+Ethereum is showing strong bullish signals, with analysts predicting a major rebound after a technical bottom, supported by its ...
+
+📺 Crypto Sensei
+
+👁️ 7K • 👍 479 • 💬 57 • ⏱️ 12:42 • 2d ago
+
+---
+
+**[Tom Lee: &quot;$250K Bitcoin &amp; $12K Ethereum&quot; - His EXACT 2026 Price Targets Revealed](https://www.youtube.com/watch?v=POwKnprttyw)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 13K • 👍 492 • 💬 45 • ⏱️ 19:43 • 2d ago
+
+---
+
+**[ETHEREUM DUMP WARNING!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=33AaudyEK0Q)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 376 • 👍 13 • 💬 1 • ⏱️ 4:47 • 13h ago
+
+---
+
+**[Le problème &quot;impossible&quot; d&#39;Ethereum vient d&#39;être résolu](https://www.youtube.com/watch?v=pqyPLJIxgss)**
+
+cryptomonnaies #cryptofrance #Bitcoin #Crypto #dollar #crypto #macroéconomie #stablecoins #investissement GUIDE pour ...
+
+📺 Cryptolyze | Crypto - Finance - Économie
+
+👁️ 4K • 👍 458 • 💬 70 • ⏱️ 35:47 • 11h ago
+
+---
+
+**[Herkes Savaşa Odaklanmışken Bu Varlıklara Bak (BTC, ETH, Altın...)](https://www.youtube.com/watch?v=AdSI4plGWNc)**
+
+Kaosun ortasında makroekonomi ve varlıkları teker teker inceledim. Herkes savaş uzmanıyken biz seyirci değil, oyuncu olmak için ...
+
+📺 Emir Şahin
+
+👁️ 7K • 👍 849 • 💬 141 • ⏱️ 15:06 • 7h ago
 
 ---
 
@@ -248,83 +316,13 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 ---
 
-**[Will the Crypto Market CRASH Next Week?🚨 (Bitcoin, Ethereum, XRP &amp; Altcoins Update)](https://www.youtube.com/watch?v=Y3cmlLGbauo)**
+**[Crypto Market Crash or Correction | BTC &amp; ETH Price Prediction Today | क्या होगा आगे?](https://www.youtube.com/watch?v=fSDsEfTqdwk)**
 
-CRYPTO MARKET UPDATE! Crypto Crash Next Week? Join the Premium Signal Group for trade setups, mentorship & a ...
+BTC & ETH Price Prediction Today | Will Crypto Market Go Up or Down? | Hindi Analysis Premium on Telegram ...
 
-📺 Cilinix Crypto
+📺 Crypto Gyan
 
-👁️ 1K • 👍 74 • 💬 87 • ⏱️ 6:47 • 9h ago
-
----
-
-**[&quot;ETHEREUM IS ABOUT TO SKYROCKET&quot;?!?! (Major Blackrock Eth ETF News)](https://www.youtube.com/watch?v=ZPGB-z8MNug)**
-
-Ethereum is showing strong bullish signals, with analysts predicting a major rebound after a technical bottom, supported by its ...
-
-📺 Crypto Sensei
-
-👁️ 7K • 👍 476 • 💬 57 • ⏱️ 12:42 • 2d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=99org2xyUKk)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 138 • 💬 26 • ⏱️ 4:00 • 8h ago
-
----
-
-**[Tom Lee: &quot;$250K Bitcoin &amp; $12K Ethereum&quot; - His EXACT 2026 Price Targets Revealed](https://www.youtube.com/watch?v=POwKnprttyw)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 13K • 👍 491 • 💬 47 • ⏱️ 19:43 • 2d ago
-
----
-
-**[BlackRock&#39;s Ethereum Bet: Is a Massive Breakout Imminent?](https://www.youtube.com/watch?v=4D_2aWzAjyo)**
-
-Institutional giants are shifting their strategy, and BlackRock's aggressive entry into Ethereum staking signals a potential turning ...
-
-📺 katelyn marcello
-
-👁️ 527 • 👍 6 • 💬 1 • ⏱️ 0:36 • 8h ago
-
----
-
-**[Le problème &quot;impossible&quot; d&#39;Ethereum vient d&#39;être résolu](https://www.youtube.com/watch?v=pqyPLJIxgss)**
-
-cryptomonnaies #cryptofrance #Bitcoin #Crypto #dollar #crypto #macroéconomie #stablecoins #investissement GUIDE pour ...
-
-📺 Cryptolyze | Crypto - Finance - Économie
-
-👁️ 4K • 👍 423 • 💬 46 • ⏱️ 35:47 • 11h ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=ufH1QleYXCU)**
-
-TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
-
-📺 Fabio Cutrupi PESCA SUB 🇮🇹
-
-👁️ 5K • 👍 1K • 3h ago
-
----
-
-**[Herkes Savaşa Odaklanmışken Bu Varlıklara Bak (BTC, ETH, Altın...)](https://www.youtube.com/watch?v=AdSI4plGWNc)**
-
-Kaosun ortasında makroekonomi ve varlıkları teker teker inceledim. Herkes savaş uzmanıyken biz seyirci değil, oyuncu olmak için ...
-
-📺 Emir Şahin
-
-👁️ 5K • 👍 718 • 💬 85 • ⏱️ 15:06 • 7h ago
+👁️ 815 • 👍 81 • 💬 1 • ⏱️ 6:13 • 8h ago
 
 ---
 
