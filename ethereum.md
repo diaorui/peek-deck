@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-22T21:51:10.003069+00:00'
+updated: '2026-03-22T22:27:28.498648+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 21:51 UTC  
+**Last Updated:** March 22, 2026 at 22:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,076.21
+### $2,058.56
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.4%  
-**7d:** -12.4%  
-**30d:** +4.4%  
-**90d:** -30.5%  
-**1y:** +2.8%  
+**24h:** -1.6%  
+**7d:** -12.8%  
+**30d:** +4.0%  
+**90d:** -30.8%  
+**1y:** +2.4%  
 
 ---
 
@@ -68,9 +68,17 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Someone Minted $80M in Fake Stablecoins and Converted Them to 9,100 ETH. The Contracts Had Been Audited.](https://www.reddit.com/r/ethereum/comments/1s0ykdo/someone_minted_80m_in_fake_stablecoins_and/)**
+
+An attacker minted $80M in unbacked USR stablecoins using just $200K, crashing the token 62%. The GENIUS Act was supposed to prevent exactly this.
+
+🔗 [DailyCoinPost](https://dailycoinpost.com/resolv-usr-stablecoin-80-million-unauthorized-mint-2026/) • 31m ago
+
+---
+
 **[Ethereum Cuts Bridge Times by 98%](https://www.reddit.com/r/ethereum/comments/1s0mzw8/ethereum_cuts_bridge_times_by_98/)**
 
-🔗 [financefeeds.com](https://financefeeds.com/crypto-news-ethereum-cuts-bridge-times-by-98-while-pepeto-hands-early-believers-100x-presale-gains/) • 7h ago
+🔗 [financefeeds.com](https://financefeeds.com/crypto-news-ethereum-cuts-bridge-times-by-98-while-pepeto-hands-early-believers-100x-presale-gains/) • 8h ago
 
 ---
 
@@ -78,7 +86,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -86,7 +94,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi there, I made a niche thing, probably useful for a small group of node runners who wanted something like this. It’s basically a lightweight, IPFS-hosted Ethereum explorer — like Etherscan, but it queries your own node directly via JSON-RPC. It’s just a static HTML page, so you open it, enter your RPC, and use it. No backend, no setup — just a page. Access nodex.monkale.eth nodex.monkale.eth.limo Repo github.com/monkale-io/ethereum-node-explorer I built it after I started running my own node and wanted a simple web UI to explore it. I found an old explorer (Alethio ethereum-lite-explorer) — it still works and is actually quite good, but it was abandoned ~6 years ago — so I decided to rewrite it with a modern stack and put it on IPFS, so it can stay just a static page without any backend or services to run. Planning to maintain and evolve it. Feedback and contributions are welcome.
 
-5h ago
+6h ago
+
+---
+
+**[x402s now has state channels](https://www.reddit.com/r/ethereum/comments/1s0yi3u/x402s_now_has_state_channels/)**
+
+🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2035835465354322316) • 34m ago
 
 ---
 
@@ -94,7 +108,7 @@ Hi there, I made a niche thing, probably useful for a small group of node runner
 
 Hi everyone, I'd really appreciate some feedback on something we're building on Ethereum. This is pretty much my first time doing this, but my co-founder is way more experienced, he's been a Web3 engineer for a long time. You probably know there are already some projects putting public stocks on-chain as RWAs. What we're trying to do is a bit different: bring the actual chain of custody on-chain for those shares. The issue with normal shares is they're totally fungible so you have zero clue who owned it before you. We want to track that history to unlock some "cultural premium" value as an RWA. Kind of like NFTs but for real shares. For example imagine proving your TSLA share was once held by Elon Musk. That kind of story probably makes it worth more to some people. To make it work we take verified shares (held in proper custody) and wrap them as provenance-wrapped shares on Ethereum smart contracts, using something like ERC-1155 for semi-fungible units, and record the full ownership chain in metadata or on-chain events. We're still in the middle of building, no live contracts or actual trading yet. Just trying to get real opinions early and figure if we're onto something or is this just dumb as hell. It would mean a lot to hear what Ethereum people think: Does provenance tracking for equities as RWAs actually sound useful/valuable, or is it kind of a gimmick? You can check out the demo to see how we're thinking about it in practice: https://provenantx.com https://preview.redd.it/fru8qps46iqg1.png?width=624&format=png&auto=webp&s=d93019bd8ad4a09695879f36d7c32f6f80436582 Thanks a ton for any thoughts!
 
-19h ago
+20h ago
 
 ---
 
@@ -130,22 +144,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[A new kind of block explorer](https://www.reddit.com/r/ethereum/comments/1ryey1t/a_new_kind_of_block_explorer/)**
-
-Hey everybody, I've been building a no code visual smart contract builder for solidity to help non-developers realize their ideas without having to learn solidity. While doing that, as a dog food experiment, I created a block explorer which uses the visualizations against verified contracts so I could test better. At some point I realized that would make a pretty cool tool for a lot of people since I'm able to surface things that most block explorers don't: being able to replay a transaction and follow what's happening on the visual graph displaying various attributes about a contract like whether it's pausible, has only owner functions, etc showing debug info about every step that happened in the contract There's probably a lot more that I could do there and I'm looking to source ideas from the community about what should be added. It'd be great if y'all could take a look and see if there's anything obvious that I'm missing https://doodledapp.com/explorer Thanks!
-
-2d ago
-
----
-
-**[Daily General Discussion March 19, 2026](https://www.reddit.com/r/ethereum/comments/1rxrdse/daily_general_discussion_march_19_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 While upgrades have improved efficiency and lowered costs, the ecosystem faces deeper structural questions around fragmentation, security, and purpose, even as it continues prioritizing base-layer scaling.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -182,7 +180,7 @@ Qubic • 1d ago
 
 ---
 
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqdmO5EV7tyGIlLd6c-GpGyNqr7fxGyvRBkx15-E4RrgBh6ps4n4Lrwy&gaa_ts=69c05acb&gaa_sig=HEK8xbNu3PAgeooZcd1v8ZFg_wTJZxBA3MpD1TX6KbAR-MbKmyPfP-P7TUhX5DxaKlNpxYfKDc1fyb7w65Tl8w%3D%3D)**
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqev99Y5i1h8OCDwUBRxLDfWRMvFzPHwVLY46OhjNpDtxEn-nB373X3M&gaa_ts=69c0703f&gaa_sig=wkOm1EDjzg9czx-T-GnffRATSPVyS58L8jTIUaa6wqUvMr-f7ELl1r8t2f778rcZe4mxAg5pLqNiikq8gIJcRA%3D%3D)**
 
 MarketWatch • 2d ago
 
@@ -192,7 +190,15 @@ MarketWatch • 2d ago
 
 Cryptocurrency analyst Ali Martinez said on Thursday that Ethereum has entered a generational “Buy Zone,” hinting at major bull runs on the horizon. What History Says In an X post, Martinez pointed out that Ethereum’s Market Value to Realized Value...
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
+
+---
+
+**[Crypto News: Ethereum Based Crypto Pepeto Approaches Binance Listing While Cardano Price Prediction Eyes Recovery](https://markets.businessinsider.com/news/stocks/crypto-news-ethereum-based-crypto-pepeto-approaches-binance-listing-while-cardano-price-prediction-eyes-recovery-1035952605)**
+
+Dubai, UAE, March  22, 2026  (GLOBE NEWSWIRE) -- Pepeto just moved its Binance listing into the final round, and the presale has gone viral with i...
+
+markets.businessinsider.com • 51m ago
 
 ---
 
@@ -215,14 +221,6 @@ TipRanks • 8h ago
 Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
 Polymarket • 1d ago
-
----
-
-**[This is the latest sign of a quiet crypto revolution](https://nypost.com/2026/03/20/business/blackrock-launches-ethereum-exchange-traded-fund/)**
-
-“Ethereum, to me, is really gonna be where Wall Street meets crypto,” a source told NYNext.
-
-New York Post • 2d ago
 
 ---
 
@@ -256,7 +254,7 @@ CRYPTO MARKET UPDATE! Crypto Crash Next Week? Join the Premium Signal Group for 
 
 📺 Cilinix Crypto
 
-👁️ 1K • 👍 74 • 💬 87 • ⏱️ 6:47 • 8h ago
+👁️ 1K • 👍 74 • 💬 87 • ⏱️ 6:47 • 9h ago
 
 ---
 
@@ -316,7 +314,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Fabio Cutrupi PESCA SUB 🇮🇹
 
-👁️ 5K • 👍 1K • 2h ago
+👁️ 5K • 👍 1K • 3h ago
 
 ---
 

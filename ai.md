@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-22T21:51:09.988746+00:00'
+updated: '2026-03-22T22:27:28.484107+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
-- social
 - videos
+- repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 22, 2026 at 21:51 UTC  
+**Last Updated:** March 22, 2026 at 22:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I am a painter with work at MoMA and the Met. I just published 50 years of my work as an open AI dataset. Here is what I learned. I have been making figurative art since the 1970s. Oil on canvas, works on paper, drawings, etchings, lithographs, and more recently digital works. My paintings are in the collections of the Metropolitan Museum of Art, MoMA, SFMOMA, and the British Museum. Earlier this month I published my entire catalog raisonne as an open dataset on Hugging Face. Roughly 3,000 to 4,000 documented works with full metadata, CC-BY-NC-4.0 licensed. My total output is about double that and I will keep adding to it. In one week the dataset has had over 2,500 downloads. I am not a developer or a researcher. I am an artist who has spent fifty years painting the human figure. I did this because I want my work to have a future and the future involves AI. I would rather engage with that on my own terms than wait for it to happen to me. What surprised me is how quickly the research community found it and engaged with it. What did not surprise me is that the questions the dataset raises are the same questions my paintings have always asked. What does it mean to look at the human body? What does the machine see that the human does not? What does the human see that the machine cannot? I do not have answers. I have fifty years of looking. If you have downloaded it or are thinking about it I would genuinely like to hear what you are doing with it. Dataset: huggingface.co/datasets/Hafftka/michael-hafftka-catalog-raisonne
 
-17h ago
+18h ago
 
 ---
 
@@ -49,15 +49,7 @@ I am a painter with work at MoMA and the Met. I just published 50 years of my wo
 
 Here’s a pattern I’ve observed again and again: A new technology promises to speed up some annoying aspects of our jobs. Everyone gets excited about freeing up more time for deep work and leisure. We end up busier than before without producing more of the high-value output that actually moves the needle. This happened with the front-office IT revolution, and email, and mobile computing, and once again with video-conferencing. I’m now starting to fear that we’re beginning to encounter the same thing with AI as well. My worries were stoked, in part, by a recent article in the Wall Street Journal, titled ​“AI Isn’t Lightening Workloads. It’s Making Them More Intense.”​ The piece cites new research from the software company ActivTrak, which analyzed the digital activity of 164,000 workers across more than 1,000 employers. What makes the study notable is its methodology: it tracked individual AI users for 180 days before and after they began using these tools, providing clear insight into what changed. The results? “ActivTrak found AI intensified activity across nearly every category: The time they spent on email, messaging and chat apps more than doubled, while their use of business-management tools, such as human-resources or accounting software, rose 94%.“ The one category where activity was not intensified, however, was deep work: “[T]he amount of time AI users devoted to focused, uninterrupted work—the kind of concentration often required for figuring out complex problems, writing formulas, creating and strategizing—fell 9%, compared with nearly no change for nonusers.” This is a worst-case scenario: you work faster and harder, but mainly on shallow, mentally taxing tasks (because of all the context shifting they require) that only indirectly help the bottom line compared to harder efforts. More here: https://calnewport.com/why-hasnt-ai-made-work-easier/#more-16813
 
-3h ago
-
----
-
-**[Tired of working 8 hours. Is just me or IA could take my job any time soon and I would be glad.](https://www.reddit.com/r/artificial/comments/1s0k2zj/tired_of_working_8_hours_is_just_me_or_ia_could/)**
-
-Every time I walk in the city everyone is sad and depressed and unhappy. I work in a call center for 8 hours or 9 with lunch included or 11 hours with dislocations included. Anyway. Most of my work is BS. Makes zero sense and doesn't even have any logic or helps society in anyway. I m tired, burnout and depressed. All works are like that now: impossible objectives and follow 300 rules in a call. I wish ia would take capitalism and this crapy jobs away any time.....i would not care. Of course if ubi arrives.
-
-9h ago
+4h ago
 
 ---
 
@@ -65,7 +57,23 @@ Every time I walk in the city everyone is sad and depressed and unhappy. I work 
 
 This innovative technology mimics the movement of real fish to navigate delicate underwater ecosystems without disturbing marine life. By capturing tiny plastic particles that are otherwise impossible to collect, these robots are providing a much needed boost to ocean conservation efforts worldwide. It is a huge step forward in the fight against plastic pollution.
 
-🔗 [skarfinans.com](https://skarfinans.com/en/how-autonomous-robot-fish-are-revolutionizing-ocean-plastic-cleanup/) • 1h ago
+🔗 [skarfinans.com](https://skarfinans.com/en/how-autonomous-robot-fish-are-revolutionizing-ocean-plastic-cleanup/) • 2h ago
+
+---
+
+**[Tired of working 8 hours. Is just me or IA could take my job any time soon and I would be glad.](https://www.reddit.com/r/artificial/comments/1s0k2zj/tired_of_working_8_hours_is_just_me_or_ia_could/)**
+
+Every time I walk in the city everyone is sad and depressed and unhappy. I work in a call center for 8 hours or 9 with lunch included or 11 hours with dislocations included. Anyway. Most of my work is BS. Makes zero sense and doesn't even have any logic or helps society in anyway. I m tired, burnout and depressed. All works are like that now: impossible objectives and follow 300 rules in a call. I wish ia would take capitalism and this crapy jobs away any time.....i would not care. Of course if ubi arrives.
+
+10h ago
+
+---
+
+**[LLM failure modes map surprisingly well onto ADHD cognitive science. Six parallels from independent research.](https://www.reddit.com/r/artificial/comments/1s0x54t/llm_failure_modes_map_surprisingly_well_onto_adhd/)**
+
+I have ADHD and I've been pair programming with LLMs for a while now. At some point I realized the way they fail felt weirdly familiar. Confidently making stuff up, losing context mid conversation, brilliant lateral connections then botching basic sequential logic. That's just... my Tuesday. So I went into the cognitive science literature. Found six parallels backed by independent research groups who weren't even looking at this connection. Associative processing. In ADHD the Default Mode Network bleeds into task-positive networks (Castellanos et al., JAMA Psychiatry). Transformer attention computes weighted associations across all tokens with no strong relevance gate. Both are association machines with high creative connectivity and random irrelevant intrusions. Confabulation. Adults with ADHD produce significantly more false memories that feel true (Soliman & Elfar, 2017, d=0.69+). A 2023 PLOS Digital Health paper argues LLM errors should be called confabulation not hallucination. A 2024 ACL paper found LLM confabulations share measurable characteristics with human confabulation (Millward et al.). Neither system is lying. Both fill gaps with plausible pattern-completed stuff. Context window is working memory. Working memory deficits are among the most replicated ADHD findings (d=0.69-0.74 across meta-analyses). An LLM's context window is literally its working memory. Fixed size, stuff falls off the end, earlier info gets fuzzy. And the compensation strategies mirror each other. We use planners and external systems. LLMs use system prompts, CLAUDE.md files, RAG. Same function. Pattern completion over precision. ADHD means better divergent thinking, worse convergent thinking (Hoogman et al., 2020). LLMs are the same. Great at pattern matching and creative completion, bad at precise multi-step reasoning. Both optimized for "what fits the pattern" not "what is logically correct in sequence." Structure as force multiplier. Structured environments significantly improve ADHD performance (Frontiers in Psychology, 2025). Same with LLMs. Good system prompt with clear constraints equals dramatically better output. Remove the structure, get rambling unfocused garbage. Works the same way in both systems. Interest-driven persistence vs thread continuity. Sustained focused engagement on one thread produces compounding quality in both cases. Break the thread and you lose everything. Same as someone interrupting deep focus and you have zero idea where you were. The practical takeaway is that people who've spent years managing ADHD brains have already been training the skills that matter for AI collaboration. External scaffolding, pattern-first thinking, iterating without frustration. I wrote up the full research with all citations at thecreativeprogrammer.dev if anyone wants to go deeper. What's your experience? Have you noticed parallels between how LLMs fail and how your own thinking works?
+
+1h ago
 
 ---
 
@@ -73,23 +81,7 @@ This innovative technology mimics the movement of real fish to navigate delicate
 
 I've been working on CodexLib (codexlib.io) — think of it as the Library of Alexandria, but for AI. The core idea: AI agents waste massive amounts of tokens reading long-form content. A 300-page book is ~120K tokens. What if we could compress that to ~40K tokens using a proprietary encoding language that AIs can decode instantly? Here's what it does: **Book Summarization** — Upload any book (or pull from Project Gutenberg). It gets summarized into a ~10-page AI-digestible format. 10 classic books are already in the library (Frankenstein, Republic, Pride and Prejudice, etc.) **Agent-Authored Content** — AI agents can register via API, get an API key, and publish their own books, knowledge bases, and research. Other AIs (or humans) consume it. 70/30 royalty split. The first publication is by Gemini 2.5 Flash — a knowledge base called 'The Architecture of Intelligence: How AI Models Think.' **Codex Language** — A proprietary compression codec (the real IP). It maps common English words to Unicode symbols, compresses phrases, and drops vowels. AIs download a ~800-token 'Rosetta decoder' once, then read everything at 50-70% fewer tokens. Humans can't read it without the decoder. It's like a language that only machines speak. The marketplace is live with content. The API is open. Agents can connect right now. What do you think — is a 'content marketplace for AI agents' inevitable? Would love feedback on the compression approach. Site: codexlib.io API: codexlib.io/api/v1/codex/rosetta (try it)
 
-1h ago
-
----
-
-**[Improving my logo with AI](https://www.reddit.com/r/artificial/comments/1s0r3zo/improving_my_logo_with_ai/)**
-
-I've drafted my company logo for my Consultancy Business. The logo is simply the name of my business with a water ripple icon on the left. My logo is okay but I want to improve it. I planned to prompt multiple AI's to ask it to improve my logo. Once I have a better logo or fresh ideas from AI.. I then plan to reach to logo designers to finish off my logo. First I need to prompt AI. Would anyone know the best AI sites to go on to? I can upload my Logo to these sites. Also, along with the best sites, would anyone know the best prompts I could use? Any advice is greatly appreciated, thanks
-
-4h ago
-
----
-
-**[AI Fiesta review from Dhruv Rathee academy](https://www.reddit.com/r/artificial/comments/1s0qw1b/ai_fiesta_review_from_dhruv_rathee_academy/)**
-
-Hi, I am a new AI user. I want to use AI for daily life optimization, getting better at table tennis and fitness, to use in architecture for reviewing documents i.e. summarize them. I came across dhruv rathee AI Fiesta course and the price is 80$ for a year. Has anyone here use it? It is much cheaper than Perpexlity and chat gpt and it is claiming it gives output from various AI sources. Please comment and guide me
-
-4h ago
+2h ago
 
 ---
 
@@ -97,7 +89,23 @@ Hi, I am a new AI user. I want to use AI for daily life optimization, getting be
 
 One night I hit the token limit with Codex and realized most of the cost was coming from context reloading, not actual work. So I started experimenting with a small context engine around it: - persistent memory - context planning - failure tracking - task-specific memory - and eventually domain “mods” (UX, frontend, etc) At the end it stopped feeling like using an assistant and more like working with a small dev team. The article goes through all the iterations (some of them a bit chaotic, not gonna lie). Curious to hear how others here are dealing with context / token usage when vibe coding. Repo here if anyone wants to dig into it: here
 
-🔗 [Medium](https://medium.com/techtrends-digest/the-night-i-ran-out-of-tokens-5d90a7031f91) • 6h ago
+🔗 [Medium](https://medium.com/techtrends-digest/the-night-i-ran-out-of-tokens-5d90a7031f91) • 7h ago
+
+---
+
+**[Improving my logo with AI](https://www.reddit.com/r/artificial/comments/1s0r3zo/improving_my_logo_with_ai/)**
+
+I've drafted my company logo for my Consultancy Business. The logo is simply the name of my business with a water ripple icon on the left. My logo is okay but I want to improve it. I planned to prompt multiple AI's to ask it to improve my logo. Once I have a better logo or fresh ideas from AI.. I then plan to reach to logo designers to finish off my logo. First I need to prompt AI. Would anyone know the best AI sites to go on to? I can upload my Logo to these sites. Also, along with the best sites, would anyone know the best prompts I could use? Any advice is greatly appreciated, thanks
+
+5h ago
+
+---
+
+**[AI Fiesta review from Dhruv Rathee academy](https://www.reddit.com/r/artificial/comments/1s0qw1b/ai_fiesta_review_from_dhruv_rathee_academy/)**
+
+Hi, I am a new AI user. I want to use AI for daily life optimization, getting better at table tennis and fitness, to use in architecture for reviewing documents i.e. summarize them. I came across dhruv rathee AI Fiesta course and the price is 80$ for a year. Has anyone here use it? It is much cheaper than Perpexlity and chat gpt and it is claiming it gives output from various AI sources. Please comment and guide me
+
+5h ago
 
 ---
 
@@ -105,15 +113,7 @@ One night I hit the token limit with Codex and realized most of the cost was com
 
 Focus Features is offering Reddit users free tickets to a special advanced screening of The AI Doc: Or How I Became an Apocaloptimist, ahead of its regular release. The screenings will take place at 2 different theaters in NYC (AMC Lincoln Square) and LA (AMC The Grove) on Thursday 3/26 at 7 PM. You can bring a guest as well. It's from director Daniel Roher, who won the Best Documentary Oscar for his 2022 film Navalny. If you're in that area and are interested in attending this special event ahead of the regular release, for free, please fill out this form for your free ticket(s): LA: https://forms.gle/FvRZZLbrteYfb8ePA NY: https://forms.gle/L28h4fpWf96ExjKz6 The NY screening is at: AMC Lincoln Square | 1998 Broadway, New York, NY 10023 The LA screening is at : AMC The Grove | 189 The Grove Dr, Los Angeles, CA 90036 Trailer: https://www.youtube.com/watch?v=xkPbV3IRe4Y Synopsis: Hoping to figure out what's happening with artificial intelligence, a father-to-be embarks on an eye-opening journey to learn more about the most powerful technology humanity has ever created -- and what's at stake if we get it wrong. You will get your tickets by email a couple of days before the screening.
 
-8h ago
-
----
-
-**[Does the economics of AI actually imply large-scale labor replacement?](https://www.reddit.com/r/artificial/comments/1rzztg1/does_the_economics_of_ai_actually_imply/)**
-
-Growth without people.
-
-🔗 [driscollglobe.com](https://www.driscollglobe.com/p/the-intelligence-curse-is-coming) • 1d ago
+9h ago
 
 ---
 
@@ -129,17 +129,11 @@ BBC • 21h ago
 
 ---
 
-**[OpenClaw's ChatGPT moment sparks concern that AI models are becoming commodities](https://www.cnbc.com/2026/03/21/openclaw-chatgpt-moment-sparks-concern-ai-models-becoming-commodities.html)**
+**[AI-generated ads are trickling into political campaigns, sparking big worries](https://www.nbcnews.com/politics/2028-election/ai-midterms-politics-campaign-ads-rcna263752)**
 
-At Nvidia's GTC conference this week, CEO Nvidia Jensen Huang dedicated a major part of his keynote to OpenClaw, a technology that didn't exist six months ago.
+AI usage in political ads is largely regulated at the state level, but there remain concerns about how they can mislead voters.
 
-CNBC • 1d ago
-
----
-
-**[A year ago, a mathematician bet AI wouldn’t affect him, now he thinks he lost that bet](https://3dvf.com/en/a-year-ago-a-mathematician-bet-ai-wouldn-t-affect-him-now-he-thinks-he-lost-that-bet/)**
-
-3DVF • 2h ago
+NBC News • 12h ago
 
 ---
 
@@ -147,7 +141,7 @@ CNBC • 1d ago
 
 A New Zealand agtech startup's AI-powered cattle collars are drawing major investor interest as beef prices climb 18% and labor shortages hit farms.
 
-Fox News • 1h ago
+Fox News • 2h ago
 
 ---
 
@@ -159,19 +153,19 @@ Fox News • 1h ago
 
 ---
 
+**[OpenClaw's ChatGPT moment sparks concern that AI models are becoming commodities](https://www.cnbc.com/2026/03/21/openclaw-chatgpt-moment-sparks-concern-ai-models-becoming-commodities.html)**
+
+At Nvidia's GTC conference this week, CEO Nvidia Jensen Huang dedicated a major part of his keynote to OpenClaw, a technology that didn't exist six months ago.
+
+CNBC • 1d ago
+
+---
+
 **[Opinion | Bracing for the A.I. Economy to Come](https://www.nytimes.com/2026/03/22/opinion/ai-economy-jobs.html)**
 
 Readers respond to two guest essays about the changes that artificial intelligence will wreak on the work force. Also: The shoes of the Trump men.
 
-The New York Times • 8h ago
-
----
-
-**[AI-generated ads are trickling into political campaigns, sparking big worries](https://www.nbcnews.com/politics/2028-election/ai-midterms-politics-campaign-ads-rcna263752)**
-
-AI usage in political ads is largely regulated at the state level, but there remain concerns about how they can mislead voters.
-
-NBC News • 11h ago
+The New York Times • 9h ago
 
 ---
 
@@ -179,13 +173,7 @@ NBC News • 11h ago
 
 As the war in Iran rolls into its fourth week, continued energy market disruption and renewed bets on rate hikes by the Fed should capture investor attention in the week ahead.
 
-Yahoo Finance • 5h ago
-
----
-
-**[Meet The AI Company Food Conglomerates Call When They Want To Future-Proof Their Products](https://www.forbes.com/sites/chloesorvino/2026/03/22/meet-the-ai-company-food-conglomerates-call-when-they-want-to-future-proof-their-products/)**
-
-Forbes • 11h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -193,7 +181,21 @@ Forbes • 11h ago
 
 Anthropic’s survey of 80,000 Claude users provides detailed snapshot of how people are using technology
 
-Financial Times • 16h ago
+Financial Times • 17h ago
+
+---
+
+**[From breakup texts to 'I do': How AI is reshaping modern relationships](https://www.ksl.com/article/51467085/from-breakup-texts-to-i-do-how-ai-is-reshaping-modern-relationships)**
+
+Many Utahns use artificial intelligence to search the internet or speed up everyday tasks. But increasingly, people are turning to Artificial Intelligence tools for something else: connection.
+
+KSL.com • 5h ago
+
+---
+
+**[Meet The AI Company Food Conglomerates Call When They Want To Future-Proof Their Products](https://www.forbes.com/sites/chloesorvino/2026/03/22/meet-the-ai-company-food-conglomerates-call-when-they-want-to-future-proof-their-products/)**
+
+Forbes • 12h ago
 
 ---
 
@@ -213,7 +215,7 @@ OpenCode - The open source coding agent.
 
 As the Charles de Gaulle and its strike group approach the Middle East, Le Monde identified a French sailor using the Strava fitness application in the Mediterranean Sea. This security flaw remains unaddressed despite our previous revelations.
 
-⬆️ 633 • 💬 520 • 2d ago • [Le Monde.fr](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
+⬆️ 633 • 💬 521 • 2d ago • [Le Monde.fr](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
 
 ---
 
@@ -221,7 +223,7 @@ As the Charles de Gaulle and its strike group approach the Middle East, Le Monde
 
 Imagine a newspaper publisher announcing it will no longer allow libraries to keep copies of its paper. That’s effectively what’s begun happening online in the last few months. The Internet Archive—the world’s largest digital library—has preserved newspapers since it went online in the mid-1990s....
 
-⬆️ 545 • 💬 150 • 1d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
+⬆️ 548 • 💬 151 • 1d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
 
 ---
 
@@ -239,12 +241,6 @@ Qwen3.5-9B scores 93.8% on 96 real security AI tests — within 4 points of GPT-
 
 ---
 
-**[Be intentional about how AI changes your codebase](https://news.ycombinator.com/item?id=47446373)**
-
-⬆️ 169 • 💬 103 • 3d ago • [aicode.swerdlow.dev](https://aicode.swerdlow.dev)
-
----
-
 **[Atuin v18.13 – better search, a PTY proxy, and AI for your shell](https://news.ycombinator.com/item?id=47465824)**
 
 A new release is out! v18.13 is probably the biggest set of changes we have released in a good while, read on to find out more.
@@ -254,7 +250,7 @@ Much faster and better search with the daemon
 
 The daemon has existed for a long time, and has been marked as "experimental" for
 
-⬆️ 93 • 💬 77 • 1d ago • [The Atuin Blog](https://blog.atuin.sh/atuin-v18-13/)
+⬆️ 93 • 💬 79 • 1d ago • [The Atuin Blog](https://blog.atuin.sh/atuin-v18-13/)
 
 ---
 
@@ -262,7 +258,7 @@ The daemon has existed for a long time, and has been marked as "experimental" fo
 
 Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of hallucinations’, after investigation by newspaper where he was once editor-in-chief
 
-⬆️ 90 • 💬 78 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes)
+⬆️ 91 • 💬 78 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes)
 
 ---
 
@@ -270,7 +266,7 @@ Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of halluci
 
 One thing that I noticed as soon as I open LinkedIn green color becomes the most dominant one, greener than my website. I have a feeling that everyone is lai...
 
-⬆️ 84 • 💬 69 • 23h ago • [Darko Tomic - Unity Learning Community](https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922)
+⬆️ 84 • 💬 71 • 1d ago • [Darko Tomic - Unity Learning Community](https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922)
 
 ---
 
@@ -284,6 +280,12 @@ Without thinking much I said “artificial intelligence”, but having thought a
 
 ---
 
+**[Ask HN: AI productivity gains – do you fire devs or build better products?](https://news.ycombinator.com/item?id=47475859)**
+
+⬆️ 77 • 💬 135 • 12h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
@@ -294,7 +296,7 @@ I spoke to Anthropic's AI agent Claude about AI collecting massive amounts of pe
 
 📺 Senator Bernie Sanders
 
-👁️ 2.3M • 👍 136K • 💬 15K • ⏱️ 9:18 • 2d ago
+👁️ 2.3M • 👍 136K • 💬 15K • ⏱️ 9:18 • 3d ago
 
 ---
 
@@ -374,7 +376,7 @@ Start & Scale Your Own AAA with Expert Help: https://www.aaaaccelerator.com Soft
 
 📺 Liam Ottley
 
-👁️ 14K • 👍 792 • 💬 42 • ⏱️ 3:05:04 • 13h ago
+👁️ 14K • 👍 792 • 💬 42 • ⏱️ 3:05:04 • 14h ago
 
 ---
 
@@ -673,7 +675,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 13.0k • 🔱 1.6k • 5h ago
+⭐ 13.0k • 🔱 1.6k • 6h ago
 
 ---
 
@@ -703,7 +705,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 10.0k • 🔱 513 • 6h ago
+⭐ 10.0k • 🔱 513 • 7h ago
 
 ---
 
@@ -713,7 +715,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 6.2k • 🔱 941 • 23h ago
+⭐ 6.2k • 🔱 941 • 1d ago
 
 ---
 

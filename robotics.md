@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-22T21:51:10.006232+00:00'
+updated: '2026-03-22T22:27:28.501822+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 22, 2026 at 21:51 UTC  
+**Last Updated:** March 22, 2026 at 22:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,14 +48,6 @@ The setup includes two robotic operation platforms, 28 sorting robots, and 4 del
 
 ---
 
-**[Spotted a Galbot running a coffee shop fully autonomously.](https://www.reddit.com/r/robotics/comments/1s0jhwg/spotted_a_galbot_running_a_coffee_shop_fully/)**
-
-Saw the Galbot in action today at a cafe. What’s impressive is that it’s operating completely autonomously—no human intervention required. Watching its dual-arm coordination handle the espresso machine and serving was a great example of embodied AI moving into real-world commercial applications. This isn't just a demo; it's a functioning business model.
-
-10h ago
-
----
-
 **[LiPo batteries in parallel issue on robot](https://www.reddit.com/r/robotics/comments/1s0tso6/lipo_batteries_in_parallel_issue_on_robot/)**
 
 Hello, I’m currently working on a monkey humanoid robot with several servos. I was using two 4S 14.8V 6500mAh LiPo batteries in parallel to increase capacity, with a fuse on each battery. During initial tests with a few motors, everything was working fine. But when I ran a program where multiple motors moved at the same time, I noticed a burning smell and immediately powered everything off. After checking, nothing seemed visibly damaged, but both batteries dropped to around 7.4V. When I measured the cells, I found 2 cells normal (~4V) and 2 cells at 0V on each battery. So both packs are now dead. I believe the issue comes from running LiPo batteries in parallel without proper protection, even with fuses in place. I’m now looking for advice to prevent this in the future: should I avoid parallel setups, use additional protection (BMS, diodes, etc.), or change my power architecture entirely? Thanks in advance for your help.
@@ -64,11 +56,19 @@ Hello, I’m currently working on a monkey humanoid robot with several servos. I
 
 ---
 
+**[Spotted a Galbot running a coffee shop fully autonomously.](https://www.reddit.com/r/robotics/comments/1s0jhwg/spotted_a_galbot_running_a_coffee_shop_fully/)**
+
+Saw the Galbot in action today at a cafe. What’s impressive is that it’s operating completely autonomously—no human intervention required. Watching its dual-arm coordination handle the espresso machine and serving was a great example of embodied AI moving into real-world commercial applications. This isn't just a demo; it's a functioning business model.
+
+10h ago
+
+---
+
 **[Robotic Fish Are This Invasive Species' 'Worst Nightmare'](https://www.reddit.com/r/robotics/comments/1s0sff2/robotic_fish_are_this_invasive_species_worst/)**
 
 The tiny swimmers wreak havoc across the globe, but the robofish shocked them enough to impair their survival and reproduction
 
-🔗 [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/scientists-terrify-invasive-mosquitofish-with-their-worst-nightmare-a-robotic-fish-180979258/) • 3h ago
+🔗 [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/scientists-terrify-invasive-mosquitofish-with-their-worst-nightmare-a-robotic-fish-180979258/) • 4h ago
 
 ---
 
@@ -80,19 +80,19 @@ From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
 ---
 
-**[Followed a ROS2 tutorial, but my robot model looks completely different , not sure what I did](https://www.reddit.com/r/robotics/comments/1s0mjh3/followed_a_ros2_tutorial_but_my_robot_model_looks/)**
-
-I’m currently learning ROS2 and working with Gazebo, so I followed a tutorial where the robot looks like this (first image : red/yellow block style) but when I built mine, I ended up with something like the second image (black robot with wheels + lidar). I didn’t intentionally change much, so I’m confused how it ended up so different. What I did: - Followed a ROS2 mobile robot tutorial - Set up the model + simulation in Gazebo - Added lidar and basic movement control What I’m noticing: - My model structure looks completely different - Visual + geometry doesn’t match tutorial - Not sure if I accidentally changed URDF/Xacro or used a different base model Questions: What could cause this kind of difference? Did I accidentally switch model type (like differential vs something else)? Is this normal when building your own model vs tutorial assets? Also — I’m documenting my learning journey (ROS2 + robotics), so any guidance would help a lot. Thanks!
-
-7h ago
-
----
-
 **[What happen with the Genesis simulator?](https://www.reddit.com/r/robotics/comments/1s0p9qy/what_happen_with_the_genesis_simulator/)**
 
 https://genesis-embodied-ai.github.io/ It's been about a year since they released their open repo along with an announcement video that seemed a little too good to be true. The video made a lot of publicity but there seemed to be some controversy at the time about the video containing functionality that wasn't actually available, that the devs said would be released later. Since then, I haven't seen any one actually using it. Was it all hype? It looks like the repo is still active. Has anyone used it for anything?
 
-5h ago
+6h ago
+
+---
+
+**[Followed a ROS2 tutorial, but my robot model looks completely different , not sure what I did](https://www.reddit.com/r/robotics/comments/1s0mjh3/followed_a_ros2_tutorial_but_my_robot_model_looks/)**
+
+I’m currently learning ROS2 and working with Gazebo, so I followed a tutorial where the robot looks like this (first image : red/yellow block style) but when I built mine, I ended up with something like the second image (black robot with wheels + lidar). I didn’t intentionally change much, so I’m confused how it ended up so different. What I did: - Followed a ROS2 mobile robot tutorial - Set up the model + simulation in Gazebo - Added lidar and basic movement control What I’m noticing: - My model structure looks completely different - Visual + geometry doesn’t match tutorial - Not sure if I accidentally changed URDF/Xacro or used a different base model Questions: What could cause this kind of difference? Did I accidentally switch model type (like differential vs something else)? Is this normal when building your own model vs tutorial assets? Also — I’m documenting my learning journey (ROS2 + robotics), so any guidance would help a lot. Thanks!
+
+8h ago
 
 ---
 
@@ -102,29 +102,15 @@ https://genesis-embodied-ai.github.io/ It's been about a year since they release
 
 ---
 
-**[Real-time IMU VR tracking (ESP32 + ICM45686) streaming to PC — early test](https://www.reddit.com/r/robotics/comments/1s0jy7p/realtime_imu_vr_tracking_esp32_icm45686_streaming/)**
+**[Working on an experimental micro‑swarm drone concept — looking for technical feedback](https://www.reddit.com/r/robotics/comments/1s0y1wn/working_on_an_experimental_microswarm_drone/)**
 
-9h ago
+51m ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[Video Friday: Humanoid Learns Tennis Skills Playing Humans](https://spectrum.ieee.org/tennis-playing-robot)**
-
-This humanoid robot is learning tennis the same way I did—by playing. Plus a robot horse for the Year of the Fire Horse in this week's robot videos.
-
-IEEE Spectrum • 1d ago
-
----
-
-**[Unitree plans Shanghai IPO, testing interest in humanoid robots](https://www.reuters.com/world/asia-pacific/unitree-plans-shanghai-ipo-testing-interest-humanoid-robots-2026-03-20/)**
-
-Reuters • 2d ago
-
----
 
 **[Mark Cuban says the future of robotics isn't humanoids, but robots and homes that are co-designed](https://www.businessinsider.com/mark-cuban-humanoid-robotics-will-fail-robots-houses-codesigned-2026-3)**
 
@@ -150,6 +136,14 @@ The Republic News • 17h ago
 
 ---
 
+**[Video Friday: Humanoid Learns Tennis Skills Playing Humans](https://spectrum.ieee.org/tennis-playing-robot)**
+
+This humanoid robot is learning tennis the same way I did—by playing. Plus a robot horse for the Year of the Fire Horse in this week's robot videos.
+
+IEEE Spectrum • 1d ago
+
+---
+
 **[University of Essex's fruit-picking robot wins national award](https://www.bbc.com/news/articles/c9d41n6gv20o)**
 
 The robots can pick, weigh and harvest strawberries in a matter of seconds.
@@ -158,11 +152,17 @@ BBC • 16h ago
 
 ---
 
+**[Unitree plans Shanghai IPO, testing interest in humanoid robots](https://www.reuters.com/world/asia-pacific/unitree-plans-shanghai-ipo-testing-interest-humanoid-robots-2026-03-20/)**
+
+Reuters • 2d ago
+
+---
+
 **[Amazon acquires startup Rivr to test robots for 'doorstep delivery'](https://www.cnbc.com/2026/03/19/amazon-acquires-startup-rivr-to-test-robots-for-doorstep-delivery.html)**
 
 The company expects to test ways it can use Rivr's robots to help with "doorstep delivery" and to "improve safety outcomes" for delivery drivers.
 
-CNBC • 2d ago
+CNBC • 3d ago
 
 ---
 
@@ -174,11 +174,11 @@ Engadget • 3d ago
 
 ---
 
-**[Amazon acquires robotic doorstep delivery provider RIVR](https://www.therobotreport.com/amazon-acquires-robotic-doorstep-delivery-provider-rivr/)**
+**[Amazon acquires Rivr, maker of a stair-climbing delivery robot](https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/)**
 
-With last-mile delivery company RIVR now at Amazon, could we soon see quadrupeds delivering our Amazon packages?
+Amazon and Jeff Bezos had previously invested in the startup. The deal signals the e-commerce giant's interest in doorstep delivery.
 
-The Robot Report • 2d ago
+TechCrunch • 2d ago
 
 ---
 
@@ -200,7 +200,7 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 📺 CNET
 
-👁️ 4K • 👍 222 • 💬 10 • ⏱️ 5:50 • 9h ago
+👁️ 4K • 👍 222 • 💬 10 • ⏱️ 5:50 • 10h ago
 
 ---
 

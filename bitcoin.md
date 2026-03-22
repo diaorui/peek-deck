@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-22T21:51:09.997133+00:00'
+updated: '2026-03-22T22:27:28.492677+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 21:51 UTC  
+**Last Updated:** March 22, 2026 at 22:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,803.23
+### $67,438.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.1%  
+**24h:** -0.8%  
 **7d:** -8.9%  
-**30d:** +0.2%  
+**30d:** +0.3%  
 **90d:** -21.9%  
 **1y:** -20.7%  
 
@@ -81,7 +81,7 @@ Rank #1
 
 Link to the Bitcoin history in El Zonte, but I'm sure you can find and share even better articles: https://wildcatsandblacksheep.com/the-salvadoran-beach-town-that-became-a-bitcoin-testbed/
 
-7h ago
+8h ago
 
 ---
 
@@ -93,14 +93,6 @@ Sometimes it doesn't feel real that we're under $70K right now and have the oppo
 
 ---
 
-**[Found 0.2 Bitcoin that i bought a long time ago, but forgot how it works](https://www.reddit.com/r/Bitcoin/comments/1s0jyog/found_02_bitcoin_that_i_bought_a_long_time_ago/)**
-
-About 10 years ago, I bought 0.2 Bitcoin out of curiosity, and recently I happened upon the document where I wrote down the information about it. There are a few user names and passwords that I don’t quite know what they are good for, so I installed Bluewallet (iOS) which asked me for a seed. So I entered this “seed“ phrase, which seems to be correct, and now I can see the balance (0.218797) in my BlueWallet wallet. 1) I guess this means that I could sell these 0.21…. Bitcoin if I wanted to (I don’t want to, it’s hypothetical)? Would I need a password? Im pretty sure i have the correct password, but how can I test this without actually selling anything? 2) I don’t understand where my 0.2… Bitcoin is stored. I think it’s not stored on my device, otherwise I wouldn’t need the seed phrase to access it, right? So how can I know where it is stored? 3) (Related to Q 2): If I wanted to buy a little more, how could I add that to my existing balance rather than creating a new wallet? Thanks in advance
-
-9h ago
-
----
-
 **[Can I sue Coinbase?](https://www.reddit.com/r/Bitcoin/comments/1s0oun3/can_i_sue_coinbase/)**
 
 This is the situation: I had a friend send me btc over the years to Coinbase. There was a substantial amount there I sent it further to sell and i received, up until 2019. Then I left the remaining balance on Coinbase and didn't touch it. Well i logged in with same info and it recreated my account. Long story short, they deleted my account claiming there were no transactions in it EVER and it was inactive. Which is entirely untrue. I have email confirmations for every single transaction from Coinbase in my email account. The difference is for the btc i sent the notification is: "you sent x amount of btc to this xyz address". Based on the notification i can see the transaction on the blockchain, clearly indicating there were transactions. Unfortunately, and conveniently for Coinbase, the notification for receiving btc was just: "you received x amount of btc". Not stating from whom or nothing, so I can't find it on the blockchain. Anyway I've been talking to their support the whole day and thy continue claiming they deleted the account due to inactivity and 0 all time transactions, which again I've proven to them to not be the case. What can I do? I'm pretty certain there is a significant amount on there but I have no way of finding out specifically how much or retrieving this amount cause Coinbase support is awful. UPDATE: They magically found my transaction history now, and the balance is 0.
@@ -109,19 +101,11 @@ This is the situation: I had a friend send me btc over the years to Coinbase. Th
 
 ---
 
-**[Lost BTC wallet from 2013](https://www.reddit.com/r/Bitcoin/comments/1s0at4i/lost_btc_wallet_from_2013/)**
+**[Found 0.2 Bitcoin that i bought a long time ago, but forgot how it works](https://www.reddit.com/r/Bitcoin/comments/1s0jyog/found_02_bitcoin_that_i_bought_a_long_time_ago/)**
 
-Hey all, I have a friend who is definitely not tech-savvy who mentioned that she bought about 20 BTC as a joke in 2013. She says she documented all of the procedures and passwords at the behest of a tech friend she doesn't speak to any longer. She also still has the laptop from 2013 that she apparently did all this with, which doesn't seem to boot up. I did help her find the exchange she used and confirmed through the log that she sent 16.1 BTC to this wallet of hers. I have been researching the common wallets and am not sure if she had a web-based or software-based wallet. I believe (hoping) it was software-based and found the top five from that time. Apparently the web-based wallets suffered a high casualty rate. So it seems like it would be best to get the original laptop working again, even though she said she backed it up, the Bitcoin-related data was apparently on a different partition and I don't think she backed up that partition, as she just did time machine backups. Seems like a good next step? Thanks in advance.
+About 10 years ago, I bought 0.2 Bitcoin out of curiosity, and recently I happened upon the document where I wrote down the information about it. There are a few user names and passwords that I don’t quite know what they are good for, so I installed Bluewallet (iOS) which asked me for a seed. So I entered this “seed“ phrase, which seems to be correct, and now I can see the balance (0.218797) in my BlueWallet wallet. 1) I guess this means that I could sell these 0.21…. Bitcoin if I wanted to (I don’t want to, it’s hypothetical)? Would I need a password? Im pretty sure i have the correct password, but how can I test this without actually selling anything? 2) I don’t understand where my 0.2… Bitcoin is stored. I think it’s not stored on my device, otherwise I wouldn’t need the seed phrase to access it, right? So how can I know where it is stored? 3) (Related to Q 2): If I wanted to buy a little more, how could I add that to my existing balance rather than creating a new wallet? Thanks in advance
 
-18h ago
-
----
-
-**[Morgan Stanley's Bitcoin ETF To Trade As 'MSBT' On NYSE. Likely to funnel more capital into BTC than all other Bitcoin ETF's combined.](https://www.reddit.com/r/Bitcoin/comments/1s04ah4/morgan_stanleys_bitcoin_etf_to_trade_as_msbt_on/)**
-
-Morgan Stanley allows clients to allocate between 0-4% of their portfolioa to bitcoin. Even a modest 2% could add $160 Billion dollars in capital to the BTC market.
-
-🔗 [Bitcoin Magazine](https://share.google/eNr25Ee6vq1fB2Lv1) • 23h ago
+10h ago
 
 ---
 
@@ -129,15 +113,15 @@ Morgan Stanley allows clients to allocate between 0-4% of their portfolioa to bi
 
 Hey everyone, Just surpassed my first xxx amount of BTC. However im using a Ledger Nano s plus that I got off of Amazon to store it all. I know I shouldn't have done that but you live and you learn. I generated my own passphrase and everything. So it wasnt pre seeded, and I pass all authenticity tests. My question is, should I move my funds off of my Ledger? Or is it safe for now? I know open source is preferred, but is it worth spending ~300-400 CAD on a coldcard mq, jade plus, etc? Or am I better sitting with my Ledger for now? Tbh id rather put extra cash into more BTC, but I know security is the most important. Cheers  [comments]
 
-2h ago
+3h ago
 
 ---
 
-**[There won't be a second date but at least she knows about the Blocksize War and how the Lightning Network works](https://www.reddit.com/r/Bitcoin/comments/1s012lr/there_wont_be_a_second_date_but_at_least_she/)**
+**[Lost BTC wallet from 2013](https://www.reddit.com/r/Bitcoin/comments/1s0at4i/lost_btc_wallet_from_2013/)**
 
-An excellent book about all the details, even people who fought the Blocksize war might have missed: https://www.youtube.com/watch?v=6YtS5ZNuuTw And excellent explanation of r/thelightningnetwork: https://www.youtube.com/watch?v=yKdK-7AtAMQ A bonus video. Lyn Alden's Full Broken Money Thesis in under 50min: https://www.youtube.com/watch?v=k3NN_NZOdhY
+Hey all, I have a friend who is definitely not tech-savvy who mentioned that she bought about 20 BTC as a joke in 2013. She says she documented all of the procedures and passwords at the behest of a tech friend she doesn't speak to any longer. She also still has the laptop from 2013 that she apparently did all this with, which doesn't seem to boot up. I did help her find the exchange she used and confirmed through the log that she sent 16.1 BTC to this wallet of hers. I have been researching the common wallets and am not sure if she had a web-based or software-based wallet. I believe (hoping) it was software-based and found the top five from that time. Apparently the web-based wallets suffered a high casualty rate. So it seems like it would be best to get the original laptop working again, even though she said she backed it up, the Bitcoin-related data was apparently on a different partition and I don't think she backed up that partition, as she just did time machine backups. Seems like a good next step? Thanks in advance.
 
-1d ago
+19h ago
 
 ---
 
@@ -149,11 +133,27 @@ We’ve all seen the headlines that the SEC and CFTC finally put it in writing: 
 
 ---
 
+**[Morgan Stanley's Bitcoin ETF To Trade As 'MSBT' On NYSE. Likely to funnel more capital into BTC than all other Bitcoin ETF's combined.](https://www.reddit.com/r/Bitcoin/comments/1s04ah4/morgan_stanleys_bitcoin_etf_to_trade_as_msbt_on/)**
+
+Morgan Stanley allows clients to allocate between 0-4% of their portfolioa to bitcoin. Even a modest 2% could add $160 Billion dollars in capital to the BTC market.
+
+🔗 [Bitcoin Magazine](https://share.google/eNr25Ee6vq1fB2Lv1) • 1d ago
+
+---
+
 **[Where do you get your financial news?](https://www.reddit.com/r/Bitcoin/comments/1s0r7lu/where_do_you_get_your_financial_news/)**
 
 I’ve been investing for more than a year now but still struggle to find reliable sources to get news from. I’m not one to sit and watch news on the tv all day. Where do you find your financial news?
 
-4h ago
+5h ago
+
+---
+
+**[There won't be a second date but at least she knows about the Blocksize War and how the Lightning Network works](https://www.reddit.com/r/Bitcoin/comments/1s012lr/there_wont_be_a_second_date_but_at_least_she/)**
+
+An excellent book about all the details, even people who fought the Blocksize war might have missed: https://www.youtube.com/watch?v=6YtS5ZNuuTw And excellent explanation of r/thelightningnetwork: https://www.youtube.com/watch?v=yKdK-7AtAMQ A bonus video. Lyn Alden's Full Broken Money Thesis in under 50min: https://www.youtube.com/watch?v=k3NN_NZOdhY
+
+1d ago
 
 ---
 
@@ -175,11 +175,41 @@ Forbes • 1d ago
 
 ---
 
-**[2 Cryptocurrencies That Could Double Over the Next 5 Years](https://www.fool.com/investing/2026/03/22/2-cryptocurrencies-that-could-double-over-the-next/)**
+**[$Bitcoin (BTC.CC)$](https://www.moomoo.com/community/feed/bitcoin-btc-cc-116274818580885)**
 
-These two cryptocurrencies are trading at deep discounts, and could be ready to soar higher.
+@Taking Prophet5385 Views|2 Likes
 
-The Motley Fool • 3h ago
+Moomoo • 1h ago
+
+---
+
+**[NYSE exchanges complete industry-wide removal of crypto ETF options caps](https://www.theblock.co/post/394593/nyse-exchanges-complete-industry-wide-removal-of-crypto-etf-options-caps)**
+
+The changes mean crypto ETF options are now treated identically to other commodity-based ETF options at every major exchange in the U.S.
+
+The Block • 53m ago
+
+---
+
+**[$Bitcoin (BTC.CC)$ Rally for nothing, now paying the price](https://www.moomoo.com/community/feed/bitcoin-btc-cc-rally-for-nothing-now-y0u-pay-the-116274927697925)**
+
+@Eugh4631 Views|2 Likes
+
+Moomoo • 48m ago
+
+---
+
+**[Bitcoin Drops Below $69,000 as War Fears Weigh on Crypto Markets](https://www.bloomberg.com/news/articles/2026-03-22/bitcoin-drops-below-69-000-as-war-fears-weigh-on-crypto-markets)**
+
+Bloomberg.com • 2h ago
+
+---
+
+**[Best Cryptocurrencies to Buy Right Now for Long-Term Investors](https://www.fool.com/investing/2026/03/22/best-cryptocurrencies-to-buy-right-now-for-long-te/)**
+
+For buy-and-hold investors, these three cryptocurrencies could be the key to turbocharging portfolio returns.
+
+The Motley Fool • 10h ago
 
 ---
 
@@ -199,41 +229,11 @@ The Berkshire Eagle • 1d ago
 
 ---
 
-**[Bitcoin Drops Below $69,000 as War Fears Weigh on Crypto Markets](https://www.bloomberg.com/news/articles/2026-03-22/bitcoin-drops-below-69-000-as-war-fears-weigh-on-crypto-markets)**
-
-Bloomberg.com • 8h ago
-
----
-
 **[French bitcoin evangelical Eric Larchevêque wants his right-wing voice to be part of public debate](https://www.lemonde.fr/en/m-le-mag/article/2026/03/21/french-bitcoin-evangelical-eric-larcheveque-wants-his-right-wing-voice-to-be-part-of-public-debate_6751676_117.html)**
 
 Known to the public as a judge on a television show, the French bitcoin pioneer wants to win over the masses to the cryptocurrencies that made him wealthy. With the 2027 presidential election approaching, this libertarian has embraced increasingly radical ideas.
 
 Le Monde.fr • 1d ago
-
----
-
-**[Bitcoin long-term holder selling slows, signaling 'potentially constructive' trend: VanEck](https://www.theblock.co/post/394467/bitcoin-long-term-holder-activity-slows-vaneck)**
-
-VanEck's latest report noted that the selling pressure among bitcoin miners remained steady despite a decline in profitability.
-
-The Block • 2d ago
-
----
-
-**[Phong Le Calls Morgan Stanley’s BTC ETF a “Monster Bitcoin” Bet With $160 Billion Potential](https://bitcoinmagazine.com/news/phong-le-calls-morgan-stanleys-bitcoin)**
-
-The president and CEO of Strategy said Morgan Stanley’s upcoming bitcoin ETF could unlock as much as $160 billion in demand under a modest portfolio allocation scenario.
-
-Bitcoin Magazine • 2d ago
-
----
-
-**[Retail investors aren’t crazy for Farage and Kwarteng’s bitcoin business](https://www.ft.com/content/f9849a1a-7d8a-4806-babd-b32c4d3105c5)**
-
-Unpopular
-
-Financial Times • 2d ago
 
 ---
 
@@ -283,7 +283,7 @@ Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 3
 
 Open archive of autonomous scientific discovery experiments.
 
-⬆️ 1 • 💬 2 • 4d ago • [protoscience.ai](https://protoscience.ai)
+⬆️ 1 • 💬 2 • 5d ago • [protoscience.ai](https://protoscience.ai)
 
 ---
 
@@ -297,7 +297,7 @@ Open archive of autonomous scientific discovery experiments.
 
 An event loop for asyncio written in Rust. Contribute to RustedBytes/rsloop development by creating an account on GitHub.
 
-⬆️ 4 • 💬 1 • 23h ago • [GitHub](https://github.com/RustedBytes/rsloop)
+⬆️ 4 • 💬 1 • 1d ago • [GitHub](https://github.com/RustedBytes/rsloop)
 
 ---
 
@@ -311,7 +311,7 @@ Bitcoin just scored a massive regulatory win that changes everything for develop
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 110 • ⏱️ 21:11 • 22h ago
+👁️ 28K • 👍 2K • 💬 110 • ⏱️ 21:11 • 23h ago
 
 ---
 
@@ -321,7 +321,7 @@ Things are heating up Check out Ledn: https://aaronbtc.com/ledn ChangeNOW: https
 
 📺 Aaron Bennett
 
-👁️ 7K • 👍 403 • 💬 59 • ⏱️ 9:35 • 12h ago
+👁️ 7K • 👍 403 • 💬 59 • ⏱️ 9:35 • 13h ago
 
 ---
 
@@ -341,7 +341,7 @@ Bitcoin #Crypto #Finance Anthony Scaramucci says this Bitcoin pullback may be fa
 
 📺 The Wolf Of All Streets
 
-👁️ 16K • 👍 797 • 💬 164 • ⏱️ 30:41 • 8h ago
+👁️ 16K • 👍 797 • 💬 164 • ⏱️ 30:41 • 9h ago
 
 ---
 
@@ -371,7 +371,7 @@ Drew looks at Trump's impact on Bitcoin. What are the 2nd and 3rd order effects?
 
 📺 Discover Crypto
 
-👁️ 719 • 👍 75 • 💬 33 • ⏱️ 10:36 • 2h ago
+👁️ 719 • 👍 75 • 💬 33 • ⏱️ 10:36 • 3h ago
 
 ---
 
