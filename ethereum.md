@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-22T15:27:57.574004+00:00'
+updated: '2026-03-22T15:51:24.804317+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 15:27 UTC  
+**Last Updated:** March 22, 2026 at 15:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,16 +36,16 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,111.26
+### $2,076.21
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.5%  
-**7d:** -11.6%  
+**24h:** -3.1%  
+**7d:** -11.5%  
 **30d:** +5.4%  
-**90d:** -29.9%  
+**90d:** -29.8%  
 **1y:** +3.8%  
 
 ---
@@ -166,6 +166,22 @@ Polymarket • 2mo ago
 
 ---
 
+**[Ethereum Entered 'Generational Buy Zone,' Says Analyst: 'Precursor To Massive Structural Bull Rallies'](https://finance.yahoo.com/markets/crypto/articles/ethereum-entered-generational-buy-zone-150120991.html)**
+
+Cryptocurrency analyst Ali Martinez said on Thursday that Ethereum has entered a generational “Buy Zone,” hinting at major bull runs on the horizon. What History Says In an X post, Martinez pointed out that Ethereum’s Market Value to Realized Value...
+
+Yahoo Finance • 50m ago
+
+---
+
+**[QBridge: The First Non-Custodial Bridge Between Qubic and Ethereum](https://qubic.org/blog-detail/qbridge-qubic-ethereum-cross-chain-bridge)**
+
+QBridge connects Qubic to Ethereum with a non-custodial, audited cross-chain bridge. Lock QUBIC, mint wQUBIC as an ERC-20 token, and access Ethereum DeFi. IPO live in Epoch 205.
+
+Qubic • 1d ago
+
+---
+
 **[Ethereum eyes 25% rally as richest ETH whales return to 'profitable state'](https://www.tradingview.com/news/cointelegraph:29dd957b6094b:0-ethereum-eyes-25-rally-as-richest-eth-whales-return-to-profitable-state/)**
 
 Ethereum’s native token, Ether BITSTAMP:ETHUSD, may rise by around 25% in the coming months as its richest whale group becomes profitable for the first time since early February.Key takeaways:Whale metric signals ETH is bottoming alreadyThe unrealized profit ratio of wallets holding more than 100,0…
@@ -174,17 +190,9 @@ TradingView • 23h ago
 
 ---
 
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqcb7-sWavActR2Y9czDbG0-w2tijWU7YlFKy6hy_q3Kb0XcOiSgupUe&gaa_ts=69c0002f&gaa_sig=34rKtiNONhiAIGVCGL27G88YeCIcPDm5pLFp0-1WXhccoUhHvaLHTQDvFLZLzPwWokA_iD8axYLo-yCQTPcasg%3D%3D)**
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqf-0FbvyTw3wiN8A7WAtRxh5Oqfd4NXBqrfLviKJQgKm-4DdtR3X9t8&gaa_ts=69c01365&gaa_sig=4fVO1WBYDak01u6_ZbdQqXKgAsXdNZUTgw37DESj0KhVU6Y_4JSBESHudz7M5t-wl0kjxgdD7Vh_CfUAV9_E_Q%3D%3D)**
 
 MarketWatch • 2d ago
-
----
-
-**[Ethereum Price Bottom Has Hit, Tom Lee Claims Again — Three Reasons He Says It's Heading Higher](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-bottom-hit-tom-114323876.html)**
-
-Ethereum bottom call backed by multiple signals, says Tom Lee. Strong upside narrative remains. Credibility tempered by past miss. Ethereum's price is once again at ...
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -196,11 +204,9 @@ New York Post • 2d ago
 
 ---
 
-**[QBridge: The First Non-Custodial Bridge Between Qubic and Ethereum](https://qubic.org/blog-detail/qbridge-qubic-ethereum-cross-chain-bridge)**
+**[Ethereum ETF Sees Investors Head for the Exits as Price Slump Bites](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-sees-investors-head-for-the-exits-as-price-slump-bites)**
 
-QBridge connects Qubic to Ethereum with a non-custodial, audited cross-chain bridge. Lock QUBIC, mint wQUBIC as an ERC-20 token, and access Ethereum DeFi. IPO live in Epoch 205.
-
-Qubic • 1d ago
+TipRanks • 2h ago
 
 ---
 
@@ -217,12 +223,6 @@ Fortune • 2d ago
 Ethereum hit a new record high in 2025, but it still fell short of the $5,000 milestone.
 
 The Motley Fool • 2d ago
-
----
-
-**[Ethereum Price Prediction Hits $10K Target, But The New Crypto Pepeto Built on ETH Is Where Whales Are Putting Their Real Money](https://financefeeds.com/ethereum-price-prediction-hits-10k-target-but-the-new-crypto-pepeto-built-on-eth-is-where-whales-are-putting-their-real-money/)**
-
-FinanceFeeds • 14h ago
 
 ---
 
@@ -266,7 +266,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 487 • 💬 47 • ⏱️ 19:43 • 1d ago
+👁️ 12K • 👍 487 • 💬 47 • ⏱️ 19:43 • 2d ago
 
 ---
 
@@ -286,7 +286,7 @@ cryptomonnaies #cryptofrance #Bitcoin #Crypto #dollar #crypto #macroéconomie #s
 
 📺 Cryptolyze | Crypto - Finance - Économie
 
-👁️ 1K • 👍 200 • 💬 33 • ⏱️ 35:47 • 3h ago
+👁️ 1K • 👍 200 • 💬 33 • ⏱️ 35:47 • 4h ago
 
 ---
 
@@ -306,7 +306,7 @@ Bitcoin #Ethereum #Crypto #BTCTrading #CryptoLive Community & Official Process O
 
 📺 Live Trading With Yashika
 
-👁️ 461 • 👍 44 • 💬 9 • ⏱️ 15:23 • 1h ago
+👁️ 461 • 👍 44 • 💬 9 • ⏱️ 15:23 • 2h ago
 
 ---
 

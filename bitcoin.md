@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-22T15:27:57.567909+00:00'
+updated: '2026-03-22T15:51:24.798962+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 15:27 UTC  
+**Last Updated:** March 22, 2026 at 15:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,819.29
+### $68,855.47
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.6%  
+**24h:** -2.1%  
 **7d:** -8.1%  
-**30d:** +1.2%  
+**30d:** +1.1%  
 **90d:** -21.2%  
 **1y:** -20.0%  
 
@@ -85,19 +85,19 @@ Link to the Bitcoin history in El Zonte, but I'm sure you can find and share eve
 
 ---
 
+**[UNDER $70K IS SUCH AN AMAZING OPPORTUNITY](https://www.reddit.com/r/Bitcoin/comments/1s0m3n9/under_70k_is_such_an_amazing_opportunity/)**
+
+Sometimes it doesn't feel real that we're under $70K right now and have the opportunity to buy at this time. Looking back in a few years and we'll all wish that we had this chance again. I'm trying to get as much as I can right now because once that ship sails... It's gone my friends. Just putting the NOW in perspective. I always look back and regret not buying early, but not this time.
+
+2h ago
+
+---
+
 **[Found 0.2 Bitcoin that i bought a long time ago, but forgot how it works](https://www.reddit.com/r/Bitcoin/comments/1s0jyog/found_02_bitcoin_that_i_bought_a_long_time_ago/)**
 
 About 10 years ago, I bought 0.2 Bitcoin out of curiosity, and recently I happened upon the document where I wrote down the information about it. There are a few user names and passwords that I don’t quite know what they are good for, so I installed Bluewallet (iOS) which asked me for a seed. So I entered this “seed“ phrase, which seems to be correct, and now I can see the balance (0.218797) in my BlueWallet wallet. 1) I guess this means that I could sell these 0.21…. Bitcoin if I wanted to (I don’t want to, it’s hypothetical)? Would I need a password? Im pretty sure i have the correct password, but how can I test this without actually selling anything? 2) I don’t understand where my 0.2… Bitcoin is stored. I think it’s not stored on my device, otherwise I wouldn’t need the seed phrase to access it, right? So how can I know where it is stored? 3) (Related to Q 2): If I wanted to buy a little more, how could I add that to my existing balance rather than creating a new wallet? Thanks in advance
 
 3h ago
-
----
-
-**[Morgan Stanley's Bitcoin ETF To Trade As 'MSBT' On NYSE. Likely to funnel more capital into BTC than all other Bitcoin ETF's combined.](https://www.reddit.com/r/Bitcoin/comments/1s04ah4/morgan_stanleys_bitcoin_etf_to_trade_as_msbt_on/)**
-
-Morgan Stanley allows clients to allocate between 0-4% of their portfolioa to bitcoin. Even a modest 2% could add $160 Billion dollars in capital to the BTC market.
-
-🔗 [Bitcoin Magazine](https://share.google/eNr25Ee6vq1fB2Lv1) • 17h ago
 
 ---
 
@@ -109,6 +109,14 @@ Hey all, I have a friend who is definitely not tech-savvy who mentioned that she
 
 ---
 
+**[Morgan Stanley's Bitcoin ETF To Trade As 'MSBT' On NYSE. Likely to funnel more capital into BTC than all other Bitcoin ETF's combined.](https://www.reddit.com/r/Bitcoin/comments/1s04ah4/morgan_stanleys_bitcoin_etf_to_trade_as_msbt_on/)**
+
+Morgan Stanley allows clients to allocate between 0-4% of their portfolioa to bitcoin. Even a modest 2% could add $160 Billion dollars in capital to the BTC market.
+
+🔗 [Bitcoin Magazine](https://share.google/eNr25Ee6vq1fB2Lv1) • 17h ago
+
+---
+
 **[There won't be a second date but at least she knows about the Blocksize War and how the Lightning Network works](https://www.reddit.com/r/Bitcoin/comments/1s012lr/there_wont_be_a_second_date_but_at_least_she/)**
 
 An excellent book about all the details, even people who fought the Blocksize war might have missed: https://www.youtube.com/watch?v=6YtS5ZNuuTw And excellent explanation of r/thelightningnetwork: https://www.youtube.com/watch?v=yKdK-7AtAMQ A bonus video. Lyn Alden's Full Broken Money Thesis in under 50min: https://www.youtube.com/watch?v=k3NN_NZOdhY
@@ -117,11 +125,9 @@ An excellent book about all the details, even people who fought the Blocksize wa
 
 ---
 
-**[UNDER $70K IS SUCH AN AMAZING OPPORTUNITY](https://www.reddit.com/r/Bitcoin/comments/1s0m3n9/under_70k_is_such_an_amazing_opportunity/)**
+**[The Code of Liberty: Why Bitcoin is the Only True Constitutional Money.](https://www.reddit.com/r/Bitcoin/comments/1s0hhko/the_code_of_liberty_why_bitcoin_is_the_only_true/)**
 
-Sometimes it doesn't feel real that we're under $70K right now and have the opportunity to buy at this time. Looking back in a few years and we'll all wish that we had this chance again. I'm trying to get as much as I can right now because once that ship sails... It's gone my friends. Just putting the NOW in perspective. I always look back and regret not buying early, but not this time.
-
-1h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-code-of-liberty-why-bitcoin-is) • 6h ago
 
 ---
 
@@ -133,23 +139,17 @@ Been watching the markets lately and keep wanting to throw more money at these l
 
 ---
 
-**[The Code of Liberty: Why Bitcoin is the Only True Constitutional Money.](https://www.reddit.com/r/Bitcoin/comments/1s0hhko/the_code_of_liberty_why_bitcoin_is_the_only_true/)**
+**[Daily Discussion, March 22, 2026](https://www.reddit.com/r/Bitcoin/comments/1s0dz13/daily_discussion_march_22_2026/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-code-of-liberty-why-bitcoin-is) • 5h ago
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+9h ago
 
 ---
 
 **[RIP Legend](https://www.reddit.com/r/Bitcoin/comments/1rzh2xj/rip_legend/)**
 
 1d ago
-
----
-
-**[Daily Discussion, March 22, 2026](https://www.reddit.com/r/Bitcoin/comments/1s0dz13/daily_discussion_march_22_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-9h ago
 
 ---
 
@@ -161,7 +161,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 The average production cost was sitting at $88,000 per bitcoin in mid-March, according to Checkonchain's difficulty regression model.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -171,25 +171,25 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin Drops Below $69,000 as War Fears Weigh on Crypto Markets](https://www.bloomberg.com/news/articles/2026-03-22/bitcoin-drops-below-69-000-as-war-fears-weigh-on-crypto-markets)**
+**[Michael Saylor Changed Tactics To Buy More Bitcoin: What It Means For MSTR](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-changed-tactics-buy-153116394.html)**
 
-Bloomberg.com • 2h ago
+Strategy executive chairman Michael Saylor is increasingly turning to alternative funding channels to finance its Bitcoin purchases, signaling a shift away from heavy reliance on equity dilution. Funding Shift Emerges In a Mar.19 post on X, CryptoQuant data showed the...
 
----
-
-**[Is It Too Late to Buy Bitcoin?](https://www.fool.com/investing/2026/03/22/is-it-too-late-to-buy-coin/)**
-
-The key to understanding Bitcoin is the four-year cycle.
-
-The Motley Fool • 4h ago
+Yahoo Finance • 20m ago
 
 ---
 
-**[Bitcoin Already Rising To Quantum Threat, Says Galaxy — So What Is Most At Risk?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-already-rising-quantum-threat-123215286.html)**
+**[Gold Falters as Macro Pressures Build, Bitcoin Holds Liquidity Trend](https://www.moomoo.com/news/post/67218584/gold-falters-as-macro-pressures-build-bitcoin-holds-liquidity-trend)**
 
-Risk is real but limited today, says Galaxy. Bitcoin is already preparing, the firm found. Debate remains divided. Bitcoin may already be adapting to the ...
+Moomoo • 42m ago
 
-Yahoo Finance • 2h ago
+---
+
+**[$Bitcoin (BTC.CC)$ show me where the chart hurt you.](https://www.moomoo.com/community/feed/bitcoin-btc-cc-show-me-where-the-chart-hurt-you-116273275666437)**
+
+@WizardofStocks3635 Views|2 Likes
+
+Moomoo • 1h ago
 
 ---
 
@@ -201,6 +201,12 @@ The Berkshire Eagle • 23h ago
 
 ---
 
+**[Bitcoin Drops Below $69,000 as War Fears Weigh on Crypto Markets](https://www.bloomberg.com/news/articles/2026-03-22/bitcoin-drops-below-69-000-as-war-fears-weigh-on-crypto-markets)**
+
+Bloomberg.com • 2h ago
+
+---
+
 **[French bitcoin evangelical Eric Larchevêque wants his right-wing voice to be part of public debate](https://www.lemonde.fr/en/m-le-mag/article/2026/03/21/french-bitcoin-evangelical-eric-larcheveque-wants-his-right-wing-voice-to-be-part-of-public-debate_6751676_117.html)**
 
 Known to the public as a judge on a television show, the French bitcoin pioneer wants to win over the masses to the cryptocurrencies that made him wealthy. With the 2027 presidential election approaching, this libertarian has embraced increasingly radical ideas.
@@ -209,27 +215,19 @@ Le Monde.fr • 1d ago
 
 ---
 
+**[Best Cryptocurrencies to Buy Right Now for Long-Term Investors](https://www.fool.com/investing/2026/03/22/best-cryptocurrencies-to-buy-right-now-for-long-te/)**
+
+For buy-and-hold investors, these three cryptocurrencies could be the key to turbocharging portfolio returns.
+
+The Motley Fool • 4h ago
+
+---
+
 **[Bitcoin long-term holder selling slows, signaling 'potentially constructive' trend: VanEck](https://www.theblock.co/post/394467/bitcoin-long-term-holder-activity-slows-vaneck)**
 
 VanEck's latest report noted that the selling pressure among bitcoin miners remained steady despite a decline in profitability.
 
 The Block • 2d ago
-
----
-
-**[Phong Le Calls Morgan Stanley’s BTC ETF a “Monster Bitcoin” Bet With $160 Billion Potential](https://bitcoinmagazine.com/news/phong-le-calls-morgan-stanleys-bitcoin)**
-
-The president and CEO of Strategy said Morgan Stanley’s upcoming bitcoin ETF could unlock as much as $160 billion in demand under a modest portfolio allocation scenario.
-
-Bitcoin Magazine • 1d ago
-
----
-
-**[Bitcoin Price News: Two Early Bitcoin Holders Sold $117M BTC, but Whales Are Buying the Dip at Record Pace](https://247wallst.com/investing/2026/03/21/bitcoin-price-news-two-early-bitcoin-holders-sold-117m-btc-but-whales-are-buying-the-dip-at-record-pace/)**
-
-Two Bitcoin OGs sold $117M in BTC after the Fed decision. But Bitcoin whale wallets are buying the dip as exchange reserves hit a 7-year low.
-
-24/7 Wall St. • 22h ago
 
 ---
 
@@ -249,7 +247,7 @@ Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in
 
 Difficulty is now nearly 10% below where it started the year, despite a sharp 14.7% rebound in February after weather-related disruptions subsided.
 
-⬆️ 5 • 💬 1 • 9h ago • [The Block](https://www.theblock.co/post/394579/bitcoin-mining-difficulty-drops-7-8-as-miner-exodus-accelerates-amid-ai-pivot)
+⬆️ 5 • 💬 1 • 10h ago • [The Block](https://www.theblock.co/post/394579/bitcoin-mining-difficulty-drops-7-8-as-miner-exodus-accelerates-amid-ai-pivot)
 
 ---
 
@@ -339,7 +337,7 @@ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 
 
 📺 Altcoin Daily
 
-👁️ 22K • 👍 1K • 💬 181 • ⏱️ 8:36 • 17h ago
+👁️ 22K • 👍 1K • 💬 181 • ⏱️ 8:36 • 18h ago
 
 ---
 
@@ -359,7 +357,7 @@ Bitcoin Vegas 2026: https://fxo.co/JAmn Welcome to the Crypto Lifer Channel! JOI
 
 📺 Crypto Lifer
 
-👁️ 5K • 👍 330 • 💬 107 • ⏱️ 1:10:20 • 13h ago
+👁️ 5K • 👍 330 • 💬 107 • ⏱️ 1:10:20 • 14h ago
 
 ---
 

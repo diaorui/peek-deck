@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-22T15:27:57.559175+00:00'
+updated: '2026-03-22T15:51:24.791266+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- news
 - videos
 - repositories
-- news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 22, 2026 at 15:27 UTC  
+**Last Updated:** March 22, 2026 at 15:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -53,6 +53,14 @@ Every time I walk in the city everyone is sad and depressed and unhappy. I work 
 
 ---
 
+**[How context engineering turned Codex into my whole dev team — while cutting token waste](https://www.reddit.com/r/artificial/comments/1s0o9cb/how_context_engineering_turned_codex_into_my/)**
+
+One night I hit the token limit with Codex and realized most of the cost was coming from context reloading, not actual work. So I started experimenting with a small context engine around it: - persistent memory - context planning - failure tracking - task-specific memory - and eventually domain “mods” (UX, frontend, etc) At the end it stopped feeling like using an assistant and more like working with a small dev team. The article goes through all the iterations (some of them a bit chaotic, not gonna lie). Curious to hear how others here are dealing with context / token usage when vibe coding. Repo here if anyone wants to dig into it: here
+
+🔗 [Medium](https://medium.com/techtrends-digest/the-night-i-ran-out-of-tokens-5d90a7031f91) • 34m ago
+
+---
+
 **[Reddit Giveaway - 200+ Free Tickets to a Special Pre-Screening of 'The AI Doc: Or How I Became an Apocaloptimist' on Thursday 3/26 in NYC & LA from Oscar-Winner Director Daniel Roher ('Navalny')](https://www.reddit.com/r/artificial/comments/1s0kwd5/reddit_giveaway_200_free_tickets_to_a_special/)**
 
 Focus Features is offering Reddit users free tickets to a special advanced screening of The AI Doc: Or How I Became an Apocaloptimist, ahead of its regular release. The screenings will take place at 2 different theaters in NYC (AMC Lincoln Square) and LA (AMC The Grove) on Thursday 3/26 at 7 PM. You can bring a guest as well. It's from director Daniel Roher, who won the Best Documentary Oscar for his 2022 film Navalny. If you're in that area and are interested in attending this special event ahead of the regular release, for free, please fill out this form for your free ticket(s): LA: https://forms.gle/FvRZZLbrteYfb8ePA NY: https://forms.gle/L28h4fpWf96ExjKz6 The NY screening is at: AMC Lincoln Square | 1998 Broadway, New York, NY 10023 The LA screening is at : AMC The Grove | 189 The Grove Dr, Los Angeles, CA 90036 Trailer: https://www.youtube.com/watch?v=xkPbV3IRe4Y Synopsis: Hoping to figure out what's happening with artificial intelligence, a father-to-be embarks on an eye-opening journey to learn more about the most powerful technology humanity has ever created -- and what's at stake if we get it wrong. You will get your tickets by email a couple of days before the screening.
@@ -73,7 +81,7 @@ Growth without people.
 
 I keep seeing more and more companies say that they're going to reduce hallucination and drift and mistakes made by Al by adding supervisor or manager Al on top of them that will review everything that those Al agents are doing. that seems to be the way. another thing I'm seeing is adding multiple Al judges to evaluate the output and those companies are running around touting their low percentage false positives or mistakes adding additional Al agents on top of Al agents reduce mistakes is like wrapping yourself in a wet blanket and then adding more with blankets to keep you warm when you're freezing. you will freeze, it will just take longer, and it's going to use a lot of blankets. I don't understand. the blind warship of pure Al solutions. we have software that can achieve determinism. we know this. hybrid solutions between Al and software is the only way forward
 
-12h ago
+13h ago
 
 ---
 
@@ -109,14 +117,6 @@ With AI becoming more and more of a topic, does anyone here ever thing about wha
 
 ---
 
-**[SystemSignal | Data Center and AI News Aggregator](https://www.reddit.com/r/artificial/comments/1rzyktd/systemsignal_data_center_and_ai_news_aggregator/)**
-
-SysSignal is for people who follow AI + data center infrastructure. It aggregates news across the space and creates a daily summary of the biggest topics, so it’s easier to keep up without bouncing between sites. Mostly built it for myself, but figured others here might get value from it too. If you find feeds that would be useful you can submit them through the website and we can get them added in. Feel free to give any feedback and critiques!
-
-🔗 [syssignal.com](https://syssignal.com/) • 21h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,7 +125,7 @@ SysSignal is for people who follow AI + data center infrastructure. It aggregate
 
 Dozens of Instagram and TikTok accounts have used AI avatars to promote explicit content, the BBC finds.
 
-BBC • 14h ago
+BBC • 15h ago
 
 ---
 
@@ -137,6 +137,30 @@ NBC News • 5h ago
 
 ---
 
+**[State Senate fails to vote on AI data center regulation](https://www.channel3000.com/news/state-senate-fails-to-vote-on-ai-data-center-regulation/article_325a08a7-be5b-449f-bec9-a4362339c353.html)**
+
+MADISON, Wis. — Regulations on artificial intelligence data centers failed to make it across the finish line.
+
+Channel 3000 • 21m ago
+
+---
+
+**[Companies are doing more with less in AI era. Workers can take advantage](https://www.cnbc.com/2026/03/22/companies-ai-work-job-skills.html)**
+
+As companies boost productivity and lower headcount with AI technology, it will be crucial for remaining workers to retrain and upskill.
+
+CNBC • 51m ago
+
+---
+
+**[Letters to the Editor: Want proof that AI doesn’t have human-like intelligence? Tell it to make you laugh](https://www.latimes.com/opinion/letters-to-the-editor/story/2026-03-22/ai-human-intelligence-jokes)**
+
+'I have asked my favorite AI app, Perplexity, to do this multiple times, and the resulting jokes have never been funny,' writes an L.A. Times reader.
+
+Los Angeles Times • 1h ago
+
+---
+
 **[Opinion | Bracing for the A.I. Economy to Come](https://www.nytimes.com/2026/03/22/opinion/ai-economy-jobs.html)**
 
 Readers respond to two guest essays about the changes that artificial intelligence will wreak on the work force. Also: The shoes of the Trump men.
@@ -145,33 +169,15 @@ The New York Times • 2h ago
 
 ---
 
-**[Why Spotify AI more than music will be the secret to keeping subscribers](https://www.cnbc.com/2026/03/22/spotify-apple-amazon-streaming-music-ai.html)**
+**[Where Is Mojtaba Khamenei? Iran Fills the Gap With AI and Voice-Overs](https://www.wsj.com/world/middle-east/where-is-mojtaba-khamenei-iran-fills-the-gap-with-ai-and-voice-overs-912b3827?gaa_at=eafs&gaa_n=AWEtsqdqY9jaX1y42a6_XQ-nPGWcTIjLiXIW-ARr70yQt8ORZeeeXFYIVUey&gaa_ts=69c01362&gaa_sig=OfvBkA0ayrudJB3Yp07jzEVdgE89vU4XXfPLxIfXl836xQjcg7ncLEMMs4CPNGdjXMMAVYILvEWoMVfd14CMYg%3D%3D)**
 
-A recent Spotify-ChatGPT deal is one more sign of how AI may be the best defense for a streaming music service in a me-too market for subscribers.
-
-CNBC • 1h ago
+WSJ • 1d ago
 
 ---
 
-**[Elon Musk announces $20B Terafab chip plant for Austin as AI ambitions escalate](https://www.kxan.com/news/local/austin/musk-announces-20b-terafab-chip-plant-for-austin-as-ai-ambitions-escalate/)**
+**[Tencent integrates WeChat with OpenClaw AI agent amid China tech battle](https://www.reuters.com/technology/tencent-integrates-wechat-with-openclaw-ai-agent-amid-china-tech-battle-2026-03-22/)**
 
-KXAN Austin • 11h ago
-
----
-
-**[Musk says he’s building Terafab chip plant in Austin, Texas](https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant)**
-
-Grok, how do you make chips?
-
-The Verge • 1h ago
-
----
-
-**[Musk plans Austin chip factory for AI push](https://seekingalpha.com/news/4567165-musk-plans-austin-chip-factory-for-ai-push)**
-
-Elon Musk’s “Terafab” in Austin aims to secure chip supply for Tesla & SpaceX, powering AI, robotics and space computing amid shortages—read more now.
-
-Seeking Alpha • 1h ago
+Reuters • 8h ago
 
 ---
 
@@ -183,15 +189,11 @@ The Guardian • 20h ago
 
 ---
 
-**[Where Is Mojtaba Khamenei? Iran Fills the Gap With AI and Voice-Overs](https://www.wsj.com/world/middle-east/where-is-mojtaba-khamenei-iran-fills-the-gap-with-ai-and-voice-overs-912b3827?gaa_at=eafs&gaa_n=AWEtsqec-0fz7mwnIaCzx-pJNvmkRXyihhv1Z6-JcEH_KcI96dNSsidbe61Q&gaa_ts=69c0002b&gaa_sig=nQZXz2wh7sIuPYNe6yxOv72GrUY7ylHTmWEqeEl699-z1yz5TCXK0RVYXgZlMKDUJxWVNjLkkUtFe7WEGp0IJQ%3D%3D)**
+**[Why Spotify AI more than music will be the secret to keeping subscribers](https://www.cnbc.com/2026/03/22/spotify-apple-amazon-streaming-music-ai.html)**
 
-WSJ • 1d ago
+A recent Spotify-ChatGPT deal is one more sign of how AI may be the best defense for a streaming music service in a me-too market for subscribers.
 
----
-
-**[Tencent integrates WeChat with OpenClaw AI agent amid China tech battle](https://www.reuters.com/technology/tencent-integrates-wechat-with-openclaw-ai-agent-amid-china-tech-battle-2026-03-22/)**
-
-Reuters • 7h ago
+CNBC • 1h ago
 
 ---
 
@@ -203,7 +205,7 @@ Reuters • 7h ago
 
 OpenCode - The open source coding agent.
 
-⬆️ 1225 • 💬 602 • 1d ago • [opencode.ai](https://opencode.ai/)
+⬆️ 1228 • 💬 604 • 1d ago • [opencode.ai](https://opencode.ai/)
 
 ---
 
@@ -211,7 +213,7 @@ OpenCode - The open source coding agent.
 
 As the Charles de Gaulle and its strike group approach the Middle East, Le Monde identified a French sailor using the Strava fitness application in the Mediterranean Sea. This security flaw remains unaddressed despite our previous revelations.
 
-⬆️ 630 • 💬 518 • 2d ago • [Le Monde.fr](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
+⬆️ 630 • 💬 519 • 2d ago • [Le Monde.fr](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
 
 ---
 
@@ -225,7 +227,7 @@ Imagine a newspaper publisher announcing it will no longer allow libraries to ke
 
 **[Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning](https://news.ycombinator.com/item?id=47467913)**
 
-⬆️ 176 • 💬 101 • 23h ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
+⬆️ 179 • 💬 103 • 1d ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
 
 ---
 
@@ -268,7 +270,7 @@ The daemon has existed for a long time, and has been marked as "experimental" fo
 
 Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of hallucinations’, after investigation by newspaper where he was once editor-in-chief
 
-⬆️ 90 • 💬 76 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes)
+⬆️ 90 • 💬 77 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes)
 
 ---
 
@@ -276,7 +278,7 @@ Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of halluci
 
 One thing that I noticed as soon as I open LinkedIn green color becomes the most dominant one, greener than my website. I have a feeling that everyone is lai...
 
-⬆️ 82 • 💬 63 • 17h ago • [Darko Tomic - Unity Learning Community](https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922)
+⬆️ 84 • 💬 64 • 17h ago • [Darko Tomic - Unity Learning Community](https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922)
 
 ---
 
@@ -444,7 +446,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 12,337 • ❤️ 702 • 10d ago
+⬇️ 12,337 • ❤️ 702 • 11d ago
 
 ---
 
@@ -478,7 +480,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 3,311 • ❤️ 176 • 15h ago
+⬇️ 3,311 • ❤️ 176 • 16h ago
 
 ---
 
