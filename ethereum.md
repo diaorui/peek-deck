@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-22T17:26:55.066467+00:00'
+updated: '2026-03-22T17:51:45.690160+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- cryptocurrency
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 17:26 UTC  
+**Last Updated:** March 22, 2026 at 17:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -178,7 +178,7 @@ Yahoo Finance • 2h ago
 
 While upgrades have improved efficiency and lowered costs, the ecosystem faces deeper structural questions around fragmentation, security, and purpose, even as it continues prioritizing base-layer scaling.
 
-CoinDesk • 19m ago
+CoinDesk • 44m ago
 
 ---
 
@@ -214,7 +214,7 @@ New York Post • 2d ago
 
 **[Ethereum ETF Sees Investors Head for the Exits as Price Slump Bites](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-sees-investors-head-for-the-exits-as-price-slump-bites)**
 
-TipRanks • 3h ago
+TipRanks • 4h ago
 
 ---
 
@@ -286,7 +286,7 @@ cryptomonnaies #cryptofrance #Bitcoin #Crypto #dollar #crypto #macroéconomie #s
 
 📺 Cryptolyze | Crypto - Finance - Économie
 
-👁️ 2K • 👍 304 • 💬 38 • ⏱️ 35:47 • 5h ago
+👁️ 2K • 👍 304 • 💬 38 • ⏱️ 35:47 • 6h ago
 
 ---
 

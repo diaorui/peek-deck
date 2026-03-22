@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-22T17:26:55.053392+00:00'
+updated: '2026-03-22T17:51:45.675846+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- repositories
 - news
 - social
-- repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 22, 2026 at 17:26 UTC  
+**Last Updated:** March 22, 2026 at 17:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Every time I walk in the city everyone is sad and depressed and unhappy. I work 
 
 I've drafted my company logo for my Consultancy Business. The logo is simply the name of my business with a water ripple icon on the left. My logo is okay but I want to improve it. I planned to prompt multiple AI's to ask it to improve my logo. Once I have a better logo or fresh ideas from AI.. I then plan to reach to logo designers to finish off my logo. First I need to prompt AI. Would anyone know the best AI sites to go on to? I can upload my Logo to these sites. Also, along with the best sites, would anyone know the best prompts I could use? Any advice is greatly appreciated, thanks
 
-19m ago
+44m ago
 
 ---
 
@@ -65,7 +65,7 @@ I've drafted my company logo for my Consultancy Business. The logo is simply the
 
 Hi, I am a new AI user. I want to use AI for daily life optimization, getting better at table tennis and fitness, to use in architecture for reviewing documents i.e. summarize them. I came across dhruv rathee AI Fiesta course and the price is 80$ for a year. Has anyone here use it? It is much cheaper than Perpexlity and chat gpt and it is claiming it gives output from various AI sources. Please comment and guide me
 
-27m ago
+52m ago
 
 ---
 
@@ -97,7 +97,7 @@ Growth without people.
 
 I keep seeing more and more companies say that they're going to reduce hallucination and drift and mistakes made by Al by adding supervisor or manager Al on top of them that will review everything that those Al agents are doing. that seems to be the way. another thing I'm seeing is adding multiple Al judges to evaluate the output and those companies are running around touting their low percentage false positives or mistakes adding additional Al agents on top of Al agents reduce mistakes is like wrapping yourself in a wet blanket and then adding more with blankets to keep you warm when you're freezing. you will freeze, it will just take longer, and it's going to use a lot of blankets. I don't understand. the blind warship of pure Al solutions. we have software that can achieve determinism. we know this. hybrid solutions between Al and software is the only way forward
 
-14h ago
+15h ago
 
 ---
 
@@ -125,7 +125,7 @@ So we built an internal AI tool with a pretty detailed system prompt, includes i
 
 Dozens of Instagram and TikTok accounts have used AI avatars to promote explicit content, the BBC finds.
 
-BBC • 16h ago
+BBC • 17h ago
 
 ---
 
@@ -155,7 +155,7 @@ The New York Times • 4h ago
 
 **[Tencent integrates WeChat with OpenClaw AI agent amid China tech battle](https://www.reuters.com/technology/tencent-integrates-wechat-with-openclaw-ai-agent-amid-china-tech-battle-2026-03-22/)**
 
-Reuters • 9h ago
+Reuters • 10h ago
 
 ---
 
@@ -374,7 +374,7 @@ Handmade Secret Bamboo Gorilla Shelter Amazing Reveal ✨ #ai #shelter #craft #b
 
 📺 ETC BackLol Facts
 
-👁️ 98K • 💬 1 • ⏱️ 0:22 • 3h ago
+👁️ 98K • 💬 1 • ⏱️ 0:22 • 4h ago
 
 ---
 
@@ -470,7 +470,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 3,311 • ❤️ 180 • 17h ago
+⬇️ 3,311 • ❤️ 180 • 18h ago
 
 ---
 
@@ -723,7 +723,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 4.2k • 🔱 358 • 55m ago
+⭐ 4.2k • 🔱 358 • 1h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-22T17:26:55.061023+00:00'
+updated: '2026-03-22T17:51:45.684236+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- cryptocurrency
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 17:26 UTC  
+**Last Updated:** March 22, 2026 at 17:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -89,7 +89,7 @@ Link to the Bitcoin history in El Zonte, but I'm sure you can find and share eve
 
 Sometimes it doesn't feel real that we're under $70K right now and have the opportunity to buy at this time. Looking back in a few years and we'll all wish that we had this chance again. I'm trying to get as much as I can right now because once that ship sails... It's gone my friends. Just putting the NOW in perspective. I always look back and regret not buying early, but not this time.
 
-3h ago
+4h ago
 
 ---
 
@@ -127,7 +127,7 @@ An excellent book about all the details, even people who fought the Blocksize wa
 
 **[The Code of Liberty: Why Bitcoin is the Only True Constitutional Money.](https://www.reddit.com/r/Bitcoin/comments/1s0hhko/the_code_of_liberty_why_bitcoin_is_the_only_true/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-code-of-liberty-why-bitcoin-is) • 7h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-code-of-liberty-why-bitcoin-is) • 8h ago
 
 ---
 
@@ -135,7 +135,7 @@ An excellent book about all the details, even people who fought the Blocksize wa
 
 We’ve all seen the headlines that the SEC and CFTC finally put it in writing: BTC is a commodity. But most of the coverage stops there. I spent the last few days digging into the mechanics of the March 17 joint release to figure out what actually changes for the average holder. I broke down: The Howey Test Deathblow: Why this ruling officially moves BTC out of the "unregistered security" danger zone that haunts other projects. The Institutional Unlock: How this simplifies life for ETFs, miners, and custodians who now have a clear regulatory framework. The CLARITY Act: Why this is the "final boss" of legislation that will lock this classification in permanently. I put together a full explainer on the mechanics here:BTC Is a Commodity: SEC Ruling Explained TL;DR: It’s not just a label—it’s the regulatory green light the industry has been waiting for to move past the "security" debate once and for all.
 
-41m ago
+1h ago
 
 ---
 
@@ -163,7 +163,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 The average production cost was sitting at $88,000 per bitcoin in mid-March, according to Checkonchain's difficulty regression model.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -177,7 +177,7 @@ Forbes • 1d ago
 
 Strategy executive chairman Michael Saylor is increasingly turning to alternative funding channels to finance its Bitcoin purchases, signaling a shift away from heavy reliance on equity dilution. Funding Shift Emerges In a Mar.19 post on X, CryptoQuant data showed the...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -249,7 +249,7 @@ Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in
 
 Difficulty is now nearly 10% below where it started the year, despite a sharp 14.7% rebound in February after weather-related disruptions subsided.
 
-⬆️ 5 • 💬 1 • 11h ago • [The Block](https://www.theblock.co/post/394579/bitcoin-mining-difficulty-drops-7-8-as-miner-exodus-accelerates-amid-ai-pivot)
+⬆️ 5 • 💬 1 • 12h ago • [The Block](https://www.theblock.co/post/394579/bitcoin-mining-difficulty-drops-7-8-as-miner-exodus-accelerates-amid-ai-pivot)
 
 ---
 
@@ -349,7 +349,7 @@ Bitcoin Vegas 2026: https://fxo.co/JAmn Welcome to the Crypto Lifer Channel! JOI
 
 📺 Crypto Lifer
 
-👁️ 5K • 👍 333 • 💬 106 • ⏱️ 1:10:20 • 15h ago
+👁️ 5K • 👍 333 • 💬 106 • ⏱️ 1:10:20 • 16h ago
 
 ---
 

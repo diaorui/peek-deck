@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-22T17:26:55.069342+00:00'
+updated: '2026-03-22T17:51:45.693508+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 22, 2026 at 17:26 UTC  
+**Last Updated:** March 22, 2026 at 17:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 The setup includes two robotic operation platforms, 28 sorting robots, and 4 delivery robots. A returned book goes through the return window → travels via conveyor belt → is picked up by a sorting robot and delivered to the correct shelf based on its category. Technically, this is the same class of autonomous mobile robotics used in e-commerce fulfillment. Robots navigate between shelves, avoid obstacles, and optimize routes in real time. Traditionally, librarians spend significant time collecting returned books, pushing carts, and manually reshelving.
 
-35m ago
+1h ago
 
 ---
 
@@ -44,7 +44,7 @@ The setup includes two robotic operation platforms, 28 sorting robots, and 4 del
 
 Saw the Galbot in action today at a cafe. What’s impressive is that it’s operating completely autonomously—no human intervention required. Watching its dual-arm coordination handle the espresso machine and serving was a great example of embodied AI moving into real-world commercial applications. This isn't just a demo; it's a functioning business model.
 
-5h ago
+6h ago
 
 ---
 
@@ -86,7 +86,7 @@ https://genesis-embodied-ai.github.io/ It's been about a year since they release
 
 **[Those of you running multiple AI models on a single edge GPU (Jetson, etc.) - how do you handle resource allocation?](https://www.reddit.com/r/robotics/comments/1s0olg0/those_of_you_running_multiple_ai_models_on_a/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -100,7 +100,7 @@ https://genesis-embodied-ai.github.io/ It's been about a year since they release
 
 We’re running a pretty heavy autonomous stack on a single edge computer (ROS 2 Jazzy) — multiple high-res cameras, dense LiDARs, and radars all on one machine. We’re starting to hit serious compute + latency limits, especially with intra-process communication and recording. Right now we’re evaluating: Fast DDS Cyclone DDS Zenoh Iceoryx Also, as soon as we start recording with rosbag2, CPU usage spikes hard and we get frame drops across the system. Two questions for folks who’ve pushed ROS 2 hard on a single machine: For high-bandwidth intra-host comms on Jazzy, which RMW has actually given you the best real-world performance? How are you dealing with the rosbag2 overhead? Composable recorder node? Separate process? Or bypassing ROS entirely and logging raw sensor data? For context: we previously ran Humble + CycloneDDS + MCAP and saw similar bottlenecks. Curious what setups are working well in practice.
 
-20h ago
+21h ago
 
 ---
 
@@ -142,7 +142,7 @@ Crain's Detroit • 2d ago
 
 A local fundraiser hopes to raise enough money so the BCSC VEX IQ robotics teams who earned a chance to compete on the international stage can make the trip.
 
-The Republic News • 12h ago
+The Republic News • 13h ago
 
 ---
 
