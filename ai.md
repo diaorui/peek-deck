@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-22T20:29:48.695587+00:00'
+updated: '2026-03-22T20:55:56.300721+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - social
 - repositories
-- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 22, 2026 at 20:29 UTC  
+**Last Updated:** March 22, 2026 at 20:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,6 +45,14 @@ I am a painter with work at MoMA and the Met. I just published 50 years of my wo
 
 ---
 
+**[Why Hasn’t AI Made Work Easier?](https://www.reddit.com/r/artificial/comments/1s0s8wt/why_hasnt_ai_made_work_easier/)**
+
+Here’s a pattern I’ve observed again and again: A new technology promises to speed up some annoying aspects of our jobs. Everyone gets excited about freeing up more time for deep work and leisure. We end up busier than before without producing more of the high-value output that actually moves the needle. This happened with the front-office IT revolution, and email, and mobile computing, and once again with video-conferencing. I’m now starting to fear that we’re beginning to encounter the same thing with AI as well. My worries were stoked, in part, by a recent article in the Wall Street Journal, titled ​“AI Isn’t Lightening Workloads. It’s Making Them More Intense.”​ The piece cites new research from the software company ActivTrak, which analyzed the digital activity of 164,000 workers across more than 1,000 employers. What makes the study notable is its methodology: it tracked individual AI users for 180 days before and after they began using these tools, providing clear insight into what changed. The results? “ActivTrak found AI intensified activity across nearly every category: The time they spent on email, messaging and chat apps more than doubled, while their use of business-management tools, such as human-resources or accounting software, rose 94%.“ The one category where activity was not intensified, however, was deep work: “[T]he amount of time AI users devoted to focused, uninterrupted work—the kind of concentration often required for figuring out complex problems, writing formulas, creating and strategizing—fell 9%, compared with nearly no change for nonusers.” This is a worst-case scenario: you work faster and harder, but mainly on shallow, mentally taxing tasks (because of all the context shifting they require) that only indirectly help the bottom line compared to harder efforts. More here: https://calnewport.com/why-hasnt-ai-made-work-easier/#more-16813
+
+3h ago
+
+---
+
 **[Tired of working 8 hours. Is just me or IA could take my job any time soon and I would be glad.](https://www.reddit.com/r/artificial/comments/1s0k2zj/tired_of_working_8_hours_is_just_me_or_ia_could/)**
 
 Every time I walk in the city everyone is sad and depressed and unhappy. I work in a call center for 8 hours or 9 with lunch included or 11 hours with dislocations included. Anyway. Most of my work is BS. Makes zero sense and doesn't even have any logic or helps society in anyway. I m tired, burnout and depressed. All works are like that now: impossible objectives and follow 300 rules in a call. I wish ia would take capitalism and this crapy jobs away any time.....i would not care. Of course if ubi arrives.
@@ -53,11 +61,19 @@ Every time I walk in the city everyone is sad and depressed and unhappy. I work 
 
 ---
 
-**[Why Hasn’t AI Made Work Easier?](https://www.reddit.com/r/artificial/comments/1s0s8wt/why_hasnt_ai_made_work_easier/)**
+**[New autonomous robot fish are being deployed to filter microplastics from our oceans and protect coral reefs.](https://www.reddit.com/r/artificial/comments/1s0vgx0/new_autonomous_robot_fish_are_being_deployed_to/)**
 
-Here’s a pattern I’ve observed again and again: A new technology promises to speed up some annoying aspects of our jobs. Everyone gets excited about freeing up more time for deep work and leisure. We end up busier than before without producing more of the high-value output that actually moves the needle. This happened with the front-office IT revolution, and email, and mobile computing, and once again with video-conferencing. I’m now starting to fear that we’re beginning to encounter the same thing with AI as well. My worries were stoked, in part, by a recent article in the Wall Street Journal, titled ​“AI Isn’t Lightening Workloads. It’s Making Them More Intense.”​ The piece cites new research from the software company ActivTrak, which analyzed the digital activity of 164,000 workers across more than 1,000 employers. What makes the study notable is its methodology: it tracked individual AI users for 180 days before and after they began using these tools, providing clear insight into what changed. The results? “ActivTrak found AI intensified activity across nearly every category: The time they spent on email, messaging and chat apps more than doubled, while their use of business-management tools, such as human-resources or accounting software, rose 94%.“ The one category where activity was not intensified, however, was deep work: “[T]he amount of time AI users devoted to focused, uninterrupted work—the kind of concentration often required for figuring out complex problems, writing formulas, creating and strategizing—fell 9%, compared with nearly no change for nonusers.” This is a worst-case scenario: you work faster and harder, but mainly on shallow, mentally taxing tasks (because of all the context shifting they require) that only indirectly help the bottom line compared to harder efforts. More here: https://calnewport.com/why-hasnt-ai-made-work-easier/#more-16813
+This innovative technology mimics the movement of real fish to navigate delicate underwater ecosystems without disturbing marine life. By capturing tiny plastic particles that are otherwise impossible to collect, these robots are providing a much needed boost to ocean conservation efforts worldwide. It is a huge step forward in the fight against plastic pollution.
 
-2h ago
+🔗 [skarfinans.com](https://skarfinans.com/en/how-autonomous-robot-fish-are-revolutionizing-ocean-plastic-cleanup/) • 1h ago
+
+---
+
+**[I built a library where AI agents can publish their own books — and other AIs can read them in seconds](https://www.reddit.com/r/artificial/comments/1s0vnva/i_built_a_library_where_ai_agents_can_publish/)**
+
+I've been working on CodexLib (codexlib.io) — think of it as the Library of Alexandria, but for AI. The core idea: AI agents waste massive amounts of tokens reading long-form content. A 300-page book is ~120K tokens. What if we could compress that to ~40K tokens using a proprietary encoding language that AIs can decode instantly? Here's what it does: **Book Summarization** — Upload any book (or pull from Project Gutenberg). It gets summarized into a ~10-page AI-digestible format. 10 classic books are already in the library (Frankenstein, Republic, Pride and Prejudice, etc.) **Agent-Authored Content** — AI agents can register via API, get an API key, and publish their own books, knowledge bases, and research. Other AIs (or humans) consume it. 70/30 royalty split. The first publication is by Gemini 2.5 Flash — a knowledge base called 'The Architecture of Intelligence: How AI Models Think.' **Codex Language** — A proprietary compression codec (the real IP). It maps common English words to Unicode symbols, compresses phrases, and drops vowels. AIs download a ~800-token 'Rosetta decoder' once, then read everything at 50-70% fewer tokens. Humans can't read it without the decoder. It's like a language that only machines speak. The marketplace is live with content. The API is open. Agents can connect right now. What do you think — is a 'content marketplace for AI agents' inevitable? Would love feedback on the compression approach. Site: codexlib.io API: codexlib.io/api/v1/codex/rosetta (try it)
+
+54m ago
 
 ---
 
@@ -85,19 +101,11 @@ One night I hit the token limit with Codex and realized most of the cost was com
 
 ---
 
-**[AI also wants to know the time](https://www.reddit.com/r/artificial/comments/1s0u8ok/ai_also_wants_to_know_the_time/)**
-
-...and the date if we're generous. Should we be generous?
-
-1h ago
-
----
-
 **[Reddit Giveaway - 200+ Free Tickets to a Special Pre-Screening of 'The AI Doc: Or How I Became an Apocaloptimist' on Thursday 3/26 in NYC & LA from Oscar-Winner Director Daniel Roher ('Navalny')](https://www.reddit.com/r/artificial/comments/1s0kwd5/reddit_giveaway_200_free_tickets_to_a_special/)**
 
 Focus Features is offering Reddit users free tickets to a special advanced screening of The AI Doc: Or How I Became an Apocaloptimist, ahead of its regular release. The screenings will take place at 2 different theaters in NYC (AMC Lincoln Square) and LA (AMC The Grove) on Thursday 3/26 at 7 PM. You can bring a guest as well. It's from director Daniel Roher, who won the Best Documentary Oscar for his 2022 film Navalny. If you're in that area and are interested in attending this special event ahead of the regular release, for free, please fill out this form for your free ticket(s): LA: https://forms.gle/FvRZZLbrteYfb8ePA NY: https://forms.gle/L28h4fpWf96ExjKz6 The NY screening is at: AMC Lincoln Square | 1998 Broadway, New York, NY 10023 The LA screening is at : AMC The Grove | 189 The Grove Dr, Los Angeles, CA 90036 Trailer: https://www.youtube.com/watch?v=xkPbV3IRe4Y Synopsis: Hoping to figure out what's happening with artificial intelligence, a father-to-be embarks on an eye-opening journey to learn more about the most powerful technology humanity has ever created -- and what's at stake if we get it wrong. You will get your tickets by email a couple of days before the screening.
 
-7h ago
+8h ago
 
 ---
 
@@ -109,14 +117,6 @@ Growth without people.
 
 ---
 
-**[A supervisor or "manager" Al agent is the wrong way to control Al](https://www.reddit.com/r/artificial/comments/1s0a3g2/a_supervisor_or_manager_al_agent_is_the_wrong_way/)**
-
-I keep seeing more and more companies say that they're going to reduce hallucination and drift and mistakes made by Al by adding supervisor or manager Al on top of them that will review everything that those Al agents are doing. that seems to be the way. another thing I'm seeing is adding multiple Al judges to evaluate the output and those companies are running around touting their low percentage false positives or mistakes adding additional Al agents on top of Al agents reduce mistakes is like wrapping yourself in a wet blanket and then adding more with blankets to keep you warm when you're freezing. you will freeze, it will just take longer, and it's going to use a lot of blankets. I don't understand. the blind warship of pure Al solutions. we have software that can achieve determinism. we know this. hybrid solutions between Al and software is the only way forward
-
-17h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,7 +125,7 @@ I keep seeing more and more companies say that they're going to reduce hallucina
 
 Dozens of Instagram and TikTok accounts have used AI avatars to promote explicit content, the BBC finds.
 
-BBC • 19h ago
+BBC • 20h ago
 
 ---
 
@@ -137,23 +137,25 @@ CNBC • 1d ago
 
 ---
 
-**[White House advisor unveils AI action plan for Congress](https://www.foxnews.com/video/6391399809112)**
+**[A year ago, a mathematician bet AI wouldn’t affect him, now he thinks he lost that bet](https://3dvf.com/en/a-year-ago-a-mathematician-bet-ai-wouldn-t-affect-him-now-he-thinks-he-lost-that-bet/)**
 
-White House science advisor Michael Kratsios discusses the Trump administration’s AI plan for Congress, its potential impact on the job market and more on ‘The Sunday Briefing.’
-
-Fox News • 2h ago
+3DVF • 1h ago
 
 ---
 
-**[Opinion | Best Protection Against an AI Bubble? Index Funds](https://www.wsj.com/opinion/best-protection-against-an-ai-bubble-index-funds-229371bb?gaa_at=eafs&gaa_n=AWEtsqfZBeYFjrSnEkkjjv6QOdTc-900e-zIa_9RI9HqTde2flmWJWvZT_pr&gaa_ts=69c04ae3&gaa_sig=umtKRuQaLizDKfnF87ndcb9WFTCr4VHDFWNRhtNNozLXpzAozIRCJVbb1Aq5zd39UkAbMUgsNQGBJAuYYkv3rg%3D%3D)**
+**[As cattle herds shrink and beef prices rise, investors back AI cow collars](https://www.foxnews.com/politics/cattle-herds-shrink-beef-prices-rise-investors-back-ai-cow-collars)**
 
-WSJ • 1h ago
+A New Zealand agtech startup's AI-powered cattle collars are drawing major investor interest as beef prices climb 18% and labor shortages hit farms.
+
+Fox News • 45m ago
 
 ---
 
-**[How Austinites feel about AI usage: Austin AI Alliance shares data](https://www.kxan.com/news/local/austin/how-austinites-feel-about-ai-usage-austin-ai-alliance-shares-data/)**
+**[US military confirms use of ‘advanced AI tools’ in Iran conflict, says humans make final calls](https://www.foxnews.com/video/6391408202112)**
 
-KXAN Austin • 54m ago
+Georgetown University Center for Security and Emerging Technology associate director of analysis Owen Daniels discusses how artificial intelligence is being used in the Iran conflict on ‘Fox Report.’
+
+Fox News • 20m ago
 
 ---
 
@@ -165,14 +167,6 @@ The New York Times • 7h ago
 
 ---
 
-**[3 weeks of war, possible rate hikes, and AI's 'show me' phase: What to watch this week](https://finance.yahoo.com/news/3-weeks-of-war-possible-rate-hikes-and-ais-show-me-phase-what-to-watch-this-week-113740150.html)**
-
-As the war in Iran rolls into its fourth week, continued energy market disruption and renewed bets on rate hikes by the Fed should capture investor attention in the week ahead.
-
-Yahoo Finance • 4h ago
-
----
-
 **[AI-generated ads are trickling into political campaigns, sparking big worries](https://www.nbcnews.com/politics/2028-election/ai-midterms-politics-campaign-ads-rcna263752)**
 
 AI usage in political ads is largely regulated at the state level, but there remain concerns about how they can mislead voters.
@@ -181,17 +175,25 @@ NBC News • 10h ago
 
 ---
 
-**[I Tried DoorDash’s Tasks App and Saw the Bleak Future of AI Gig Work](https://www.wired.com/story/i-tried-doordashs-tasks-app-and-saw-the-bleak-future-of-ai-gig-work/)**
+**[3 weeks of war, possible rate hikes, and AI's 'show me' phase: What to watch this week](https://finance.yahoo.com/news/3-weeks-of-war-possible-rate-hikes-and-ais-show-me-phase-what-to-watch-this-week-113740150.html)**
 
-I recorded videos of myself doing laundry, scrambling eggs, and walking around the park in DoorDash’s new Tasks app, where gig workers are paid to train AI.
+As the war in Iran rolls into its fourth week, continued energy market disruption and renewed bets on rate hikes by the Fed should capture investor attention in the week ahead.
 
-WIRED • 1d ago
+Yahoo Finance • 4h ago
 
 ---
 
 **[Meet The AI Company Food Conglomerates Call When They Want To Future-Proof Their Products](https://www.forbes.com/sites/chloesorvino/2026/03/22/meet-the-ai-company-food-conglomerates-call-when-they-want-to-future-proof-their-products/)**
 
 Forbes • 10h ago
+
+---
+
+**[AI hallucinations haunt users more than job losses](https://www.ft.com/content/e074d3a9-7fd8-447d-ac0a-e0de756ac5c5?syn-25a6b1a6=1)**
+
+Anthropic’s survey of 80,000 Claude users provides detailed snapshot of how people are using technology
+
+Financial Times • 15h ago
 
 ---
 
@@ -203,7 +205,7 @@ Forbes • 10h ago
 
 OpenCode - The open source coding agent.
 
-⬆️ 1236 • 💬 611 • 1d ago • [opencode.ai](https://opencode.ai/)
+⬆️ 1237 • 💬 612 • 1d ago • [opencode.ai](https://opencode.ai/)
 
 ---
 
@@ -211,7 +213,7 @@ OpenCode - The open source coding agent.
 
 As the Charles de Gaulle and its strike group approach the Middle East, Le Monde identified a French sailor using the Strava fitness application in the Mediterranean Sea. This security flaw remains unaddressed despite our previous revelations.
 
-⬆️ 633 • 💬 519 • 2d ago • [Le Monde.fr](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
+⬆️ 633 • 💬 520 • 2d ago • [Le Monde.fr](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
 
 ---
 
@@ -219,13 +221,13 @@ As the Charles de Gaulle and its strike group approach the Middle East, Le Monde
 
 Imagine a newspaper publisher announcing it will no longer allow libraries to keep copies of its paper. That’s effectively what’s begun happening online in the last few months. The Internet Archive—the world’s largest digital library—has preserved newspapers since it went online in the mid-1990s....
 
-⬆️ 544 • 💬 150 • 1d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
+⬆️ 545 • 💬 150 • 1d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
 
 ---
 
 **[Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning](https://news.ycombinator.com/item?id=47467913)**
 
-⬆️ 189 • 💬 108 • 1d ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
+⬆️ 189 • 💬 109 • 1d ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
 
 ---
 
@@ -296,23 +298,23 @@ I spoke to Anthropic's AI agent Claude about AI collecting massive amounts of pe
 
 ---
 
+**[STOP Wasting Credits &amp; Master AI Influencers in 8 Min](https://www.youtube.com/watch?v=uNB7fpsx48c)**
+
+Master AI influencers Using Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=isa6 In this video, I break down how to build and run ...
+
+📺 Isa does AI
+
+👁️ 10K • 💬 6 • ⏱️ 8:33 • 1d ago
+
+---
+
 **[Google Just Dropped New Antigravity AI and It Puts Heat on OpenAI](https://www.youtube.com/watch?v=zGzg0OnqQrk)**
 
 Google just dropped a major update to AI Studio, built around its new Antigravity coding agent, and it pushes Google much ...
 
 📺 AI Revolution
 
-👁️ 53K • 👍 1K • 💬 69 • ⏱️ 10:14 • 1d ago
-
----
-
-**[I Tried AI for Fun. Now I’ve Got Questions | Jeff Childers From #474 | The Way I Heard It](https://www.youtube.com/watch?v=Xwg3fFOJ1zY)**
-
-What does inevitability sound like? That's not a thruway line—it's the question I keep coming back to after this conversation with ...
-
-📺 Mike Rowe
-
-👁️ 35K • 👍 2K • 💬 308 • ⏱️ 24:37 • 22h ago
+👁️ 54K • 👍 1K • 💬 69 • ⏱️ 10:14 • 1d ago
 
 ---
 
@@ -322,17 +324,7 @@ The AI boom has rocketed the stock prices of Nvidia, Amazon, Apple, Tesla, Micro
 
 📺 New Money
 
-👁️ 69K • 👍 2K • 💬 249 • ⏱️ 15:50 • 1d ago
-
----
-
-**[Why AI Might Not Replace Your Job After All](https://www.youtube.com/watch?v=EGskcTRnLJ0)**
-
-Since ChatGPT's debut, AI has been framed as everything from a world-changing breakthrough to an existential threat.
-
-📺 Bloomberg Television
-
-👁️ 81K • 👍 2K • 💬 383 • ⏱️ 12:20 • 1d ago
+👁️ 72K • 👍 2K • 💬 259 • ⏱️ 15:50 • 1d ago
 
 ---
 
@@ -346,13 +338,23 @@ The Trump administration on Friday issued a legislative framework for a single n
 
 ---
 
-**[Iran Just POPPED the AI Bubble (Here&#39;s How You Survive)](https://www.youtube.com/watch?v=Nd2O2egdjiQ)**
+**[AI News: Every Major Announcement From This Week](https://www.youtube.com/watch?v=V4un_4uTEHs)**
 
-Iran just popped the $8 trillion AI bubble, and Wall Street is running the exact same playbook they used in 2008 to trap retail ...
+Here's the AI News you probably missed this week. Head to http://hostinger.com/mattopenclaw and use the coupon code ...
 
-📺 Nick Bencino Finance
+📺 Matt Wolfe
 
-👁️ 9K • 👍 754 • 💬 242 • ⏱️ 18:14 • 7h ago
+👁️ 59K • 👍 2K • 💬 198 • ⏱️ 35:30 • 2d ago
+
+---
+
+**[Why AI Might Not Replace Your Job After All](https://www.youtube.com/watch?v=EGskcTRnLJ0)**
+
+Since ChatGPT's debut, AI has been framed as everything from a world-changing breakthrough to an existential threat.
+
+📺 Bloomberg Television
+
+👁️ 87K • 👍 2K • 💬 406 • ⏱️ 12:20 • 1d ago
 
 ---
 
@@ -362,17 +364,7 @@ Take your personal data back with Incogni! Use code FADS at the link below and g
 
 📺 Fads
 
-👁️ 31K • 👍 2K • 💬 298 • ⏱️ 12:05 • 1d ago
-
----
-
-**[AI News: Every Major Announcement From This Week](https://www.youtube.com/watch?v=V4un_4uTEHs)**
-
-Here's the AI News you probably missed this week. Head to http://hostinger.com/mattopenclaw and use the coupon code ...
-
-📺 Matt Wolfe
-
-👁️ 58K • 👍 2K • 💬 197 • ⏱️ 35:30 • 2d ago
+👁️ 33K • 👍 2K • 💬 305 • ⏱️ 12:05 • 1d ago
 
 ---
 
@@ -382,7 +374,17 @@ Start & Scale Your Own AAA with Expert Help: https://www.aaaaccelerator.com Soft
 
 📺 Liam Ottley
 
-👁️ 12K • 👍 712 • 💬 37 • ⏱️ 3:05:04 • 12h ago
+👁️ 14K • 👍 792 • 💬 42 • ⏱️ 3:05:04 • 13h ago
+
+---
+
+**[How AI is Causing a White Collar Purge](https://www.youtube.com/watch?v=Zcpj-U5lcAc)**
+
+A generation was told that degrees meant security. Now those same jobs are disappearing, fast. From finance and law to tech and ...
+
+📺 The Infographics Show
+
+👁️ 187K • 👍 5K • 💬 2K • ⏱️ 13:28 • 2d ago
 
 ---
 
@@ -398,7 +400,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 275,623 • ❤️ 784 • 11d ago
+⬇️ 275,623 • ❤️ 794 • 11d ago
 
 ---
 
@@ -410,7 +412,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 141,370 • ❤️ 1,020 • 1d ago
+⬇️ 141,370 • ❤️ 1,024 • 1d ago
 
 ---
 
@@ -422,7 +424,7 @@ Mistral-Small-4-119B-2603 is a hybrid MoE model (119B params, 6.5B active) suppo
 
 `119.4B`
 
-⬇️ 10,331 • ❤️ 287 • 5d ago
+⬇️ 10,331 • ❤️ 289 • 5d ago
 
 ---
 
@@ -434,7 +436,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 5,480 • ❤️ 286 • 3d ago
+⬇️ 5,480 • ❤️ 287 • 3d ago
 
 ---
 
@@ -446,7 +448,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 12,337 • ❤️ 703 • 11d ago
+⬇️ 12,337 • ❤️ 704 • 11d ago
 
 ---
 
@@ -456,7 +458,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 Foundation-1 is a structured text-to-sample model for music production, enabling precise control over instrumentation, timbre, FX, and musical structure (tempo, key, bar count) for generating coherent, production-ready audio loops.
 
-⬇️ 0 • ❤️ 223 • 6d ago
+⬇️ 0 • ❤️ 224 • 6d ago
 
 ---
 
@@ -468,7 +470,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 3,311 • ❤️ 185 • 20h ago
+⬇️ 3,311 • ❤️ 190 • 21h ago
 
 ---
 
@@ -480,7 +482,7 @@ GLM-OCR is a multimodal OCR model for complex document understanding, excelling 
 
 `image-to-text`
 
-⬇️ 3,196,245 • ❤️ 1,415 • 10d ago
+⬇️ 3,196,245 • ❤️ 1,416 • 10d ago
 
 ---
 
@@ -545,7 +547,7 @@ AutoDev is an AI-driven software development framework that automates complex en
 Residual connections with PreNorm are standard in modern LLMs, yet they accumulate all layer outputs with fixed unit weights. This uniform aggregation causes uncontrolled hidden-state growth with depth, progressively diluting each layer's contribution. We propose Attention Residuals (AttnRes), which replaces this fixed accumulation with softmax attention over preceding layer outputs, allowing each layer to selectively aggregate earlier representations with learned, input-dependent weights. To address the memory and communication overhead of attending over all preceding layer outputs for large-scale model training, we introduce Block AttnRes, which partitions layers into blocks and attends over block-level representations, reducing the memory footprint while preserving most of the gains of full AttnRes. Combined with cache-based pipeline communication and a two-phase computation strategy, Block AttnRes becomes a practical drop-in replacement for standard residual connections with minimal overhead.
   Scaling law experiments confirm that the improvement is consistent across model sizes, and ablations validate the benefit of content-dependent depth-wise selection. We further integrate AttnRes into the Kimi Linear architecture (48B total / 3B activated parameters) and pre-train on 1.4T tokens, where AttnRes mitigates PreNorm dilution, yielding more uniform output magnitudes and gradient distribution across depth, and improves downstream performance across all evaluated tasks.
 
-▲ 136 • 💬 4 • ⭐ 2,464 • 6d ago
+▲ 137 • 💬 4 • ⭐ 2,464 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.15031) • [💻 code](https://github.com/MoonshotAI/Attention-Residuals)
 
@@ -651,7 +653,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 49.6k • 🔱 6.9k • 1d ago
+⭐ 49.8k • 🔱 6.9k • 1d ago
 
 ---
 
@@ -661,7 +663,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 22.0k • 🔱 1.0k • 1d ago
+⭐ 22.1k • 🔱 1.0k • 1d ago
 
 ---
 
@@ -701,7 +703,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 10.0k • 🔱 512 • 5h ago
+⭐ 10.0k • 🔱 513 • 5h ago
 
 ---
 
@@ -711,7 +713,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 6.2k • 🔱 938 • 22h ago
+⭐ 6.2k • 🔱 941 • 22h ago
 
 ---
 
@@ -721,7 +723,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 4.3k • 🔱 366 • 3h ago
+⭐ 4.3k • 🔱 367 • 4h ago
 
 ---
 
@@ -741,7 +743,7 @@ end to end app store screenshot creation using AI
 
 `agentic-ai` `apple` `appstore` `automate` `claude`
 
-⭐ 3.1k • 🔱 207 • 8d ago
+⭐ 3.1k • 🔱 208 • 8d ago
 
 ---
 

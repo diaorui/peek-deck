@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-22T20:29:48.713573+00:00'
+updated: '2026-03-22T20:55:56.316658+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 22, 2026 at 20:29 UTC  
+**Last Updated:** March 22, 2026 at 20:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Still cant get it to walk forward yet but rotating seems okay. Can definitely be better tho. This is still a work im progress, the hexapod frame is 3d printed from a creator at makerworld. The internals and code are mine. Mine uses a ps2 controller for this hexapod. If any of you guys are working on the same frame, i will share the schematics and code for free once im finally done with this builddd. Its been about a month since i started this hexapod and mannnn its been cracking my head ever since 😂
 
-2h ago
+3h ago
 
 ---
 
@@ -44,7 +44,7 @@ Still cant get it to walk forward yet but rotating seems okay. Can definitely be
 
 The setup includes two robotic operation platforms, 28 sorting robots, and 4 delivery robots. A returned book goes through the return window → travels via conveyor belt → is picked up by a sorting robot and delivered to the correct shelf based on its category. Technically, this is the same class of autonomous mobile robotics used in e-commerce fulfillment. Robots navigate between shelves, avoid obstacles, and optimize routes in real time. Traditionally, librarians spend significant time collecting returned books, pushing carts, and manually reshelving.
 
-3h ago
+4h ago
 
 ---
 
@@ -52,7 +52,7 @@ The setup includes two robotic operation platforms, 28 sorting robots, and 4 del
 
 Saw the Galbot in action today at a cafe. What’s impressive is that it’s operating completely autonomously—no human intervention required. Watching its dual-arm coordination handle the espresso machine and serving was a great example of embodied AI moving into real-world commercial applications. This isn't just a demo; it's a functioning business model.
 
-8h ago
+9h ago
 
 ---
 
@@ -60,7 +60,7 @@ Saw the Galbot in action today at a cafe. What’s impressive is that it’s ope
 
 Hello, I’m currently working on a monkey humanoid robot with several servos. I was using two 4S 14.8V 6500mAh LiPo batteries in parallel to increase capacity, with a fuse on each battery. During initial tests with a few motors, everything was working fine. But when I ran a program where multiple motors moved at the same time, I noticed a burning smell and immediately powered everything off. After checking, nothing seemed visibly damaged, but both batteries dropped to around 7.4V. When I measured the cells, I found 2 cells normal (~4V) and 2 cells at 0V on each battery. So both packs are now dead. I believe the issue comes from running LiPo batteries in parallel without proper protection, even with fuses in place. I’m now looking for advice to prevent this in the future: should I avoid parallel setups, use additional protection (BMS, diodes, etc.), or change my power architecture entirely? Thanks in advance for your help.
 
-1h ago
+2h ago
 
 ---
 
@@ -88,17 +88,17 @@ I’m currently learning ROS2 and working with Gazebo, so I followed a tutorial 
 
 ---
 
-**[Ringbot: A monocycle robot developed by the Robotics and Institute (RAI) that uses internal legs for balance and acrobatic maneuvers](https://www.reddit.com/r/robotics/comments/1rztuum/ringbot_a_monocycle_robot_developed_by_the/)**
-
-1d ago
-
----
-
 **[What happen with the Genesis simulator?](https://www.reddit.com/r/robotics/comments/1s0p9qy/what_happen_with_the_genesis_simulator/)**
 
 https://genesis-embodied-ai.github.io/ It's been about a year since they released their open repo along with an announcement video that seemed a little too good to be true. The video made a lot of publicity but there seemed to be some controversy at the time about the video containing functionality that wasn't actually available, that the devs said would be released later. Since then, I haven't seen any one actually using it. Was it all hype? It looks like the repo is still active. Has anyone used it for anything?
 
 4h ago
+
+---
+
+**[Ringbot: A monocycle robot developed by the Robotics and Institute (RAI) that uses internal legs for balance and acrobatic maneuvers](https://www.reddit.com/r/robotics/comments/1rztuum/ringbot_a_monocycle_robot_developed_by_the/)**
+
+1d ago
 
 ---
 
@@ -146,7 +146,15 @@ Crain's Detroit • 2d ago
 
 A local fundraiser hopes to raise enough money so the BCSC VEX IQ robotics teams who earned a chance to compete on the international stage can make the trip.
 
-The Republic News • 15h ago
+The Republic News • 16h ago
+
+---
+
+**[University of Essex's fruit-picking robot wins national award](https://www.bbc.com/news/articles/c9d41n6gv20o)**
+
+The robots can pick, weigh and harvest strawberries in a matter of seconds.
+
+BBC • 15h ago
 
 ---
 
@@ -182,12 +190,6 @@ GeekWire • 2d ago
 
 ---
 
-**[Smarter, faster, and more human: AI system helps robots outpace their human teachers](https://techxplore.com/news/2026-03-smarter-faster-human-ai-robots.html)**
-
-Tech Xplore • 3d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -198,17 +200,7 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 📺 CNET
 
-👁️ 3K • 👍 186 • 💬 6 • ⏱️ 5:50 • 8h ago
-
----
-
-**[Engineering Disney’s Olaf Robot](https://www.youtube.com/watch?v=zi0xi_UwvBU)**
-
-How do you build a robot with a massive head, no visible legs, and motors that overheat? ❄️   Explaining the engineering ...
-
-📺 ZAUEY (Claire Zau)
-
-👁️ 407 • 👍 11 • ⏱️ 2:09 • 2h ago
+👁️ 4K • 👍 222 • 💬 10 • ⏱️ 5:50 • 8h ago
 
 ---
 
@@ -228,27 +220,17 @@ Gecko Robotics announced a $71 million partnership with the US Navy, deploying i
 
 📺 MachineWorks Studio
 
-👁️ 2.9M • 👍 3K • 💬 42 • ⏱️ 0:06 • 6d ago
+👁️ 3.0M • 👍 3K • 💬 43 • ⏱️ 0:06 • 6d ago
 
 ---
 
-**[Out of control robot smashes up restaurant as waitress desperately attempts to drag it away](https://www.youtube.com/watch?v=ZyohmMJA5Ao)**
+**[China’s REAL Terminator Why the T800 Robot is Terrifying the World!](https://www.youtube.com/watch?v=OwpW233uEEM)**
 
-THIS is the hilarious moment a boogying robot dances too hard and sends food and cutlery flying in a high end restaurant.
+China's REAL Terminator Why the T800 Robot is Terrifying the World! Is the AI takeover happening faster than we were told?
 
-📺 The Sun
+📺 Signal Frontier
 
-👁️ 266K • 👍 3K • 💬 2K • ⏱️ 2:07 • 3d ago
-
----
-
-**[Inside the Startup That Powers Humanoid Robots](https://www.youtube.com/watch?v=3xJzmy2gOgQ)**
-
-Do you want to see a humanoid AI lab from the inside? I do – join me and let's visit Flexion: Europe's leading lab building the AI ...
-
-📺 Andreas Klinger @ PROTOTYPE
-
-👁️ 11K • 👍 463 • 💬 36 • ⏱️ 18:52 • 2d ago
+👁️ 59K • 👍 1K • 💬 357 • ⏱️ 21:33 • 1d ago
 
 ---
 
@@ -258,17 +240,37 @@ COGLET KICKSTARTER LAUNCH: ...
 
 📺 Will Cogley
 
-👁️ 16K • 👍 1K • 💬 64 • ⏱️ 10:35 • 2d ago
+👁️ 16K • 👍 1K • 💬 65 • ⏱️ 10:35 • 2d ago
 
 ---
 
-**[Dancing robot goes rogue in hot pot restaurant](https://www.youtube.com/watch?v=DfnIEWpbMU8)**
+**[Dancing Robot Breaks Down Mid-Performance Causing CHAOS](https://www.youtube.com/watch?v=qu_BRyeSVPE)**
 
-Video shows restaurant employees struggling to restrain a dancing robot that went rogue in a hot pot restaurant in California.
+This funky robot didn't just break it down... it broke down. At a Chinese restaurant in San Jose, CA, the robot was delighting diners ...
 
-📺 NBC News
+📺 New York Post
 
-👁️ 191K • 👍 2K • 💬 635 • ⏱️ 3:38 • 3d ago
+👁️ 5K • 👍 99 • 💬 85 • ⏱️ 2:15 • 1d ago
+
+---
+
+**[Inside the Startup That Powers Humanoid Robots](https://www.youtube.com/watch?v=3xJzmy2gOgQ)**
+
+Do you want to see a humanoid AI lab from the inside? I do – join me and let's visit Flexion: Europe's leading lab building the AI ...
+
+📺 Andreas Klinger @ PROTOTYPE
+
+👁️ 12K • 👍 471 • 💬 36 • ⏱️ 18:52 • 2d ago
+
+---
+
+**[Out of control robot smashes up restaurant as waitress desperately attempts to drag it away](https://www.youtube.com/watch?v=ZyohmMJA5Ao)**
+
+THIS is the hilarious moment a boogying robot dances too hard and sends food and cutlery flying in a high end restaurant.
+
+📺 The Sun
+
+👁️ 270K • 👍 3K • 💬 2K • ⏱️ 2:07 • 3d ago
 
 ---
 
@@ -278,17 +280,17 @@ Midea Group, one of the world's largest home appliance manufacturers, just unvei
 
 📺 Kalil 4.0
 
-👁️ 512 • 👍 15 • ⏱️ 0:24 • 2h ago
+👁️ 872 • 👍 26 • 💬 2 • ⏱️ 0:24 • 3h ago
 
 ---
 
-**[This Chinese Robot Just Crossed All the Lines — Real Life Terminator T800](https://www.youtube.com/watch?v=0hVT9qcC8Ec)**
+**[The First Robot Soldier is Here: Phantom MK-1 Deployed to Ukraine](https://www.youtube.com/watch?v=L0d6mvpDIYY)**
 
-China just built something that was supposed to be decades away. Engine AI's T800 humanoid robot is already walking live ...
+war #robot #usa Foundation is testing its Phantom MK-1 humanoid soldier and has secured $24 million in research contracts with ...
 
-📺 Core Insights
+📺 OTOFOOTAGE
 
-👁️ 70K • 👍 1K • 💬 134 • ⏱️ 15:19 • 5d ago
+👁️ 19K • 👍 80 • 💬 52 • ⏱️ 2:12 • 5d ago
 
 ---
 
