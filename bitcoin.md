@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-22T22:27:28.492677+00:00'
+updated: '2026-03-22T22:53:55.591655+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 22:27 UTC  
+**Last Updated:** March 22, 2026 at 22:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -89,7 +89,7 @@ Link to the Bitcoin history in El Zonte, but I'm sure you can find and share eve
 
 Sometimes it doesn't feel real that we're under $70K right now and have the opportunity to buy at this time. Looking back in a few years and we'll all wish that we had this chance again. I'm trying to get as much as I can right now because once that ship sails... It's gone my friends. Just putting the NOW in perspective. I always look back and regret not buying early, but not this time.
 
-8h ago
+9h ago
 
 ---
 
@@ -97,7 +97,7 @@ Sometimes it doesn't feel real that we're under $70K right now and have the oppo
 
 This is the situation: I had a friend send me btc over the years to Coinbase. There was a substantial amount there I sent it further to sell and i received, up until 2019. Then I left the remaining balance on Coinbase and didn't touch it. Well i logged in with same info and it recreated my account. Long story short, they deleted my account claiming there were no transactions in it EVER and it was inactive. Which is entirely untrue. I have email confirmations for every single transaction from Coinbase in my email account. The difference is for the btc i sent the notification is: "you sent x amount of btc to this xyz address". Based on the notification i can see the transaction on the blockchain, clearly indicating there were transactions. Unfortunately, and conveniently for Coinbase, the notification for receiving btc was just: "you received x amount of btc". Not stating from whom or nothing, so I can't find it on the blockchain. Anyway I've been talking to their support the whole day and thy continue claiming they deleted the account due to inactivity and 0 all time transactions, which again I've proven to them to not be the case. What can I do? I'm pretty certain there is a significant amount on there but I have no way of finding out specifically how much or retrieving this amount cause Coinbase support is awful. UPDATE: They magically found my transaction history now, and the balance is 0.
 
-6h ago
+7h ago
 
 ---
 
@@ -129,7 +129,7 @@ Hey all, I have a friend who is definitely not tech-savvy who mentioned that she
 
 We’ve all seen the headlines that the SEC and CFTC finally put it in writing: BTC is a commodity. But most of the coverage stops there. I spent the last few days digging into the mechanics of the March 17 joint release to figure out what actually changes for the average holder. I broke down: The Howey Test Deathblow: Why this ruling officially moves BTC out of the "unregistered security" danger zone that haunts other projects. The Institutional Unlock: How this simplifies life for ETFs, miners, and custodians who now have a clear regulatory framework. The CLARITY Act: Why this is the "final boss" of legislation that will lock this classification in permanently. I put together a full explainer on the mechanics here:BTC Is a Commodity: SEC Ruling Explained TL;DR: It’s not just a label—it’s the regulatory green light the industry has been waiting for to move past the "security" debate once and for all.
 
-5h ago
+6h ago
 
 ---
 
@@ -165,7 +165,7 @@ An excellent book about all the details, even people who fought the Blocksize wa
 
 The average production cost was sitting at $88,000 per bitcoin in mid-March, according to Checkonchain's difficulty regression model.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -187,7 +187,7 @@ Moomoo • 1h ago
 
 The changes mean crypto ETF options are now treated identically to other commodity-based ETF options at every major exchange in the U.S.
 
-The Block • 53m ago
+The Block • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ The Block • 53m ago
 
 @Eugh4631 Views|2 Likes
 
-Moomoo • 48m ago
+Moomoo • 1h ago
 
 ---
 
@@ -217,7 +217,7 @@ The Motley Fool • 10h ago
 
 Risk is real but limited today, says Galaxy. Bitcoin is already preparing, the firm found. Debate remains divided. Bitcoin may already be adapting to the ...
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -253,7 +253,7 @@ Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in
 
 Difficulty is now nearly 10% below where it started the year, despite a sharp 14.7% rebound in February after weather-related disruptions subsided.
 
-⬆️ 5 • 💬 1 • 16h ago • [The Block](https://www.theblock.co/post/394579/bitcoin-mining-difficulty-drops-7-8-as-miner-exodus-accelerates-amid-ai-pivot)
+⬆️ 5 • 💬 1 • 17h ago • [The Block](https://www.theblock.co/post/394579/bitcoin-mining-difficulty-drops-7-8-as-miner-exodus-accelerates-amid-ai-pivot)
 
 ---
 
@@ -351,7 +351,7 @@ Watch the full episode here: https://youtu.be/7cW2PCPA8kY. Ben Cowen explains th
 
 📺 Market Disruptors Podcast
 
-👁️ 2K • 👍 127 • 💬 8 • ⏱️ 7:18 • 6h ago
+👁️ 2K • 👍 127 • 💬 8 • ⏱️ 7:18 • 7h ago
 
 ---
 
@@ -361,7 +361,7 @@ Bitcoin just went live at millions of businesses without anyone opting in. While
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 147 • ⏱️ 12:51 • 1d ago
+👁️ 23K • 👍 2K • 💬 147 • ⏱️ 12:51 • 2d ago
 
 ---
 

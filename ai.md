@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-22T22:27:28.484107+00:00'
+updated: '2026-03-22T22:53:55.583105+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
 - social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 22, 2026 at 22:27 UTC  
+**Last Updated:** March 22, 2026 at 22:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ I am a painter with work at MoMA and the Met. I just published 50 years of my wo
 
 Here’s a pattern I’ve observed again and again: A new technology promises to speed up some annoying aspects of our jobs. Everyone gets excited about freeing up more time for deep work and leisure. We end up busier than before without producing more of the high-value output that actually moves the needle. This happened with the front-office IT revolution, and email, and mobile computing, and once again with video-conferencing. I’m now starting to fear that we’re beginning to encounter the same thing with AI as well. My worries were stoked, in part, by a recent article in the Wall Street Journal, titled ​“AI Isn’t Lightening Workloads. It’s Making Them More Intense.”​ The piece cites new research from the software company ActivTrak, which analyzed the digital activity of 164,000 workers across more than 1,000 employers. What makes the study notable is its methodology: it tracked individual AI users for 180 days before and after they began using these tools, providing clear insight into what changed. The results? “ActivTrak found AI intensified activity across nearly every category: The time they spent on email, messaging and chat apps more than doubled, while their use of business-management tools, such as human-resources or accounting software, rose 94%.“ The one category where activity was not intensified, however, was deep work: “[T]he amount of time AI users devoted to focused, uninterrupted work—the kind of concentration often required for figuring out complex problems, writing formulas, creating and strategizing—fell 9%, compared with nearly no change for nonusers.” This is a worst-case scenario: you work faster and harder, but mainly on shallow, mentally taxing tasks (because of all the context shifting they require) that only indirectly help the bottom line compared to harder efforts. More here: https://calnewport.com/why-hasnt-ai-made-work-easier/#more-16813
 
-4h ago
+5h ago
 
 ---
 
@@ -125,7 +125,7 @@ Focus Features is offering Reddit users free tickets to a special advanced scree
 
 Dozens of Instagram and TikTok accounts have used AI avatars to promote explicit content, the BBC finds.
 
-BBC • 21h ago
+BBC • 22h ago
 
 ---
 
@@ -149,7 +149,7 @@ Fox News • 2h ago
 
 Georgetown University Center for Security and Emerging Technology associate director of analysis Owen Daniels discusses how artificial intelligence is being used in the Iran conflict on ‘Fox Report.’
 
-Fox News • 1h ago
+Fox News • 2h ago
 
 ---
 
@@ -189,7 +189,7 @@ Financial Times • 17h ago
 
 Many Utahns use artificial intelligence to search the internet or speed up everyday tasks. But increasingly, people are turning to Artificial Intelligence tools for something else: connection.
 
-KSL.com • 5h ago
+KSL.com • 6h ago
 
 ---
 
@@ -282,7 +282,7 @@ Without thinking much I said “artificial intelligence”, but having thought a
 
 **[Ask HN: AI productivity gains – do you fire devs or build better products?](https://news.ycombinator.com/item?id=47475859)**
 
-⬆️ 77 • 💬 135 • 12h ago
+⬆️ 77 • 💬 135 • 13h ago
 
 ---
 
@@ -472,7 +472,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 3,311 • ❤️ 190 • 22h ago
+⬇️ 3,311 • ❤️ 190 • 23h ago
 
 ---
 
@@ -725,7 +725,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 4.3k • 🔱 367 • 5h ago
+⭐ 4.3k • 🔱 367 • 6h ago
 
 ---
 

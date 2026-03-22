@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-22T22:27:28.498648+00:00'
+updated: '2026-03-22T22:53:55.597702+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 22:27 UTC  
+**Last Updated:** March 22, 2026 at 22:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 An attacker minted $80M in unbacked USR stablecoins using just $200K, crashing the token 62%. The GENIUS Act was supposed to prevent exactly this.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/resolv-usr-stablecoin-80-million-unauthorized-mint-2026/) • 31m ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/resolv-usr-stablecoin-80-million-unauthorized-mint-2026/) • 58m ago
 
 ---
 
@@ -100,7 +100,7 @@ Hi there, I made a niche thing, probably useful for a small group of node runner
 
 **[x402s now has state channels](https://www.reddit.com/r/ethereum/comments/1s0yi3u/x402s_now_has_state_channels/)**
 
-🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2035835465354322316) • 34m ago
+🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2035835465354322316) • 1h ago
 
 ---
 
@@ -108,7 +108,7 @@ Hi there, I made a niche thing, probably useful for a small group of node runner
 
 Hi everyone, I'd really appreciate some feedback on something we're building on Ethereum. This is pretty much my first time doing this, but my co-founder is way more experienced, he's been a Web3 engineer for a long time. You probably know there are already some projects putting public stocks on-chain as RWAs. What we're trying to do is a bit different: bring the actual chain of custody on-chain for those shares. The issue with normal shares is they're totally fungible so you have zero clue who owned it before you. We want to track that history to unlock some "cultural premium" value as an RWA. Kind of like NFTs but for real shares. For example imagine proving your TSLA share was once held by Elon Musk. That kind of story probably makes it worth more to some people. To make it work we take verified shares (held in proper custody) and wrap them as provenance-wrapped shares on Ethereum smart contracts, using something like ERC-1155 for semi-fungible units, and record the full ownership chain in metadata or on-chain events. We're still in the middle of building, no live contracts or actual trading yet. Just trying to get real opinions early and figure if we're onto something or is this just dumb as hell. It would mean a lot to hear what Ethereum people think: Does provenance tracking for equities as RWAs actually sound useful/valuable, or is it kind of a gimmick? You can check out the demo to see how we're thinking about it in practice: https://provenantx.com https://preview.redd.it/fru8qps46iqg1.png?width=624&format=png&auto=webp&s=d93019bd8ad4a09695879f36d7c32f6f80436582 Thanks a ton for any thoughts!
 
-20h ago
+21h ago
 
 ---
 
@@ -198,7 +198,7 @@ Yahoo Finance • 7h ago
 
 Dubai, UAE, March  22, 2026  (GLOBE NEWSWIRE) -- Pepeto just moved its Binance listing into the final round, and the presale has gone viral with i...
 
-markets.businessinsider.com • 51m ago
+markets.businessinsider.com • 1h ago
 
 ---
 
@@ -212,7 +212,7 @@ Fortune • 2d ago
 
 **[Ethereum ETF Sees Investors Head for the Exits as Price Slump Bites](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-sees-investors-head-for-the-exits-as-price-slump-bites)**
 
-TipRanks • 8h ago
+TipRanks • 9h ago
 
 ---
 
@@ -244,7 +244,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 My Channel
 
-👁️ 3K • 👍 1K • 6h ago
+👁️ 3K • 👍 1K • 7h ago
 
 ---
 
@@ -274,7 +274,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 138 • 💬 26 • ⏱️ 4:00 • 7h ago
+👁️ 2K • 👍 138 • 💬 26 • ⏱️ 4:00 • 8h ago
 
 ---
 
@@ -294,7 +294,7 @@ Institutional giants are shifting their strategy, and BlackRock's aggressive ent
 
 📺 katelyn marcello
 
-👁️ 527 • 👍 6 • 💬 1 • ⏱️ 0:36 • 7h ago
+👁️ 527 • 👍 6 • 💬 1 • ⏱️ 0:36 • 8h ago
 
 ---
 
@@ -304,7 +304,7 @@ cryptomonnaies #cryptofrance #Bitcoin #Crypto #dollar #crypto #macroéconomie #s
 
 📺 Cryptolyze | Crypto - Finance - Économie
 
-👁️ 4K • 👍 423 • 💬 46 • ⏱️ 35:47 • 10h ago
+👁️ 4K • 👍 423 • 💬 46 • ⏱️ 35:47 • 11h ago
 
 ---
 
@@ -324,7 +324,7 @@ Kaosun ortasında makroekonomi ve varlıkları teker teker inceledim. Herkes sav
 
 📺 Emir Şahin
 
-👁️ 5K • 👍 718 • 💬 85 • ⏱️ 15:06 • 6h ago
+👁️ 5K • 👍 718 • 💬 85 • ⏱️ 15:06 • 7h ago
 
 ---
 
