@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-22T15:51:24.798962+00:00'
+updated: '2026-03-22T16:32:52.592740+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 15:51 UTC  
+**Last Updated:** March 22, 2026 at 16:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1376.27B
+**Market Cap:** $1374.45B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--45.4%
+-45.5%
 
 **All-Time Low:** $67.81
-+101346.7%
++101193.3%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Link to the Bitcoin history in El Zonte, but I'm sure you can find and share even better articles: https://wildcatsandblacksheep.com/the-salvadoran-beach-town-that-became-a-bitcoin-testbed/
 
-1h ago
+2h ago
 
 ---
 
@@ -97,7 +97,7 @@ Sometimes it doesn't feel real that we're under $70K right now and have the oppo
 
 About 10 years ago, I bought 0.2 Bitcoin out of curiosity, and recently I happened upon the document where I wrote down the information about it. There are a few user names and passwords that I don’t quite know what they are good for, so I installed Bluewallet (iOS) which asked me for a seed. So I entered this “seed“ phrase, which seems to be correct, and now I can see the balance (0.218797) in my BlueWallet wallet. 1) I guess this means that I could sell these 0.21…. Bitcoin if I wanted to (I don’t want to, it’s hypothetical)? Would I need a password? Im pretty sure i have the correct password, but how can I test this without actually selling anything? 2) I don’t understand where my 0.2… Bitcoin is stored. I think it’s not stored on my device, otherwise I wouldn’t need the seed phrase to access it, right? So how can I know where it is stored? 3) (Related to Q 2): If I wanted to buy a little more, how could I add that to my existing balance rather than creating a new wallet? Thanks in advance
 
-3h ago
+4h ago
 
 ---
 
@@ -105,7 +105,7 @@ About 10 years ago, I bought 0.2 Bitcoin out of curiosity, and recently I happen
 
 Hey all, I have a friend who is definitely not tech-savvy who mentioned that she bought about 20 BTC as a joke in 2013. She says she documented all of the procedures and passwords at the behest of a tech friend she doesn't speak to any longer. She also still has the laptop from 2013 that she apparently did all this with, which doesn't seem to boot up. I did help her find the exchange she used and confirmed through the log that she sent 16.1 BTC to this wallet of hers. I have been researching the common wallets and am not sure if she had a web-based or software-based wallet. I believe (hoping) it was software-based and found the top five from that time. Apparently the web-based wallets suffered a high casualty rate. So it seems like it would be best to get the original laptop working again, even though she said she backed it up, the Bitcoin-related data was apparently on a different partition and I don't think she backed up that partition, as she just did time machine backups. Seems like a good next step? Thanks in advance.
 
-12h ago
+13h ago
 
 ---
 
@@ -113,7 +113,7 @@ Hey all, I have a friend who is definitely not tech-savvy who mentioned that she
 
 Morgan Stanley allows clients to allocate between 0-4% of their portfolioa to bitcoin. Even a modest 2% could add $160 Billion dollars in capital to the BTC market.
 
-🔗 [Bitcoin Magazine](https://share.google/eNr25Ee6vq1fB2Lv1) • 17h ago
+🔗 [Bitcoin Magazine](https://share.google/eNr25Ee6vq1fB2Lv1) • 18h ago
 
 ---
 
@@ -121,7 +121,7 @@ Morgan Stanley allows clients to allocate between 0-4% of their portfolioa to bi
 
 An excellent book about all the details, even people who fought the Blocksize war might have missed: https://www.youtube.com/watch?v=6YtS5ZNuuTw And excellent explanation of r/thelightningnetwork: https://www.youtube.com/watch?v=yKdK-7AtAMQ A bonus video. Lyn Alden's Full Broken Money Thesis in under 50min: https://www.youtube.com/watch?v=k3NN_NZOdhY
 
-19h ago
+20h ago
 
 ---
 
@@ -135,7 +135,7 @@ An excellent book about all the details, even people who fought the Blocksize wa
 
 Been watching the markets lately and keep wanting to throw more money at these lower prices curious what everyone else is doing with their investment split between crypto and the usual stuff like index funds stocks bonds etc what percentage you running and why did you choose that amount also probably spending too much time refreshing charts instead of studing but whatever
 
-14h ago
+15h ago
 
 ---
 
@@ -143,7 +143,7 @@ Been watching the markets lately and keep wanting to throw more money at these l
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-9h ago
+10h ago
 
 ---
 
@@ -161,7 +161,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 The average production cost was sitting at $88,000 per bitcoin in mid-March, according to Checkonchain's difficulty regression model.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -175,13 +175,13 @@ Forbes • 1d ago
 
 Strategy executive chairman Michael Saylor is increasingly turning to alternative funding channels to finance its Bitcoin purchases, signaling a shift away from heavy reliance on equity dilution. Funding Shift Emerges In a Mar.19 post on X, CryptoQuant data showed the...
 
-Yahoo Finance • 20m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Gold Falters as Macro Pressures Build, Bitcoin Holds Liquidity Trend](https://www.moomoo.com/news/post/67218584/gold-falters-as-macro-pressures-build-bitcoin-holds-liquidity-trend)**
 
-Moomoo • 42m ago
+Moomoo • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ Moomoo • 42m ago
 
 @WizardofStocks3635 Views|2 Likes
 
-Moomoo • 1h ago
+Moomoo • 2h ago
 
 ---
 
@@ -197,13 +197,13 @@ Moomoo • 1h ago
 
 With Bitcoin and other cryptocurrency tokens becoming more accepted, retailers are beginning to accept them as forms of payment. Café Triskele in Lee the first restaurant in Berkshire County to
 
-The Berkshire Eagle • 23h ago
+The Berkshire Eagle • 1d ago
 
 ---
 
 **[Bitcoin Drops Below $69,000 as War Fears Weigh on Crypto Markets](https://www.bloomberg.com/news/articles/2026-03-22/bitcoin-drops-below-69-000-as-war-fears-weigh-on-crypto-markets)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -219,7 +219,7 @@ Le Monde.fr • 1d ago
 
 For buy-and-hold investors, these three cryptocurrencies could be the key to turbocharging portfolio returns.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -269,7 +269,7 @@ Seal predictions and decisions with cryptographic proof anchored to Bitcoin. No 
 
 Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 33 chain analysis heuristics. Free, client-side, no tracking.
 
-⬆️ 1 • 💬 0 • 22h ago • [am-i.exposed](https://am-i.exposed/)
+⬆️ 1 • 💬 0 • 23h ago • [am-i.exposed](https://am-i.exposed/)
 
 ---
 
@@ -297,7 +297,7 @@ Bitcoin just scored a massive regulatory win that changes everything for develop
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 112 • ⏱️ 21:11 • 16h ago
+👁️ 25K • 👍 2K • 💬 119 • ⏱️ 21:11 • 17h ago
 
 ---
 
@@ -307,7 +307,7 @@ Things are heating up Check out Ledn: https://aaronbtc.com/ledn ChangeNOW: https
 
 📺 Aaron Bennett
 
-👁️ 3K • 👍 275 • 💬 42 • ⏱️ 9:35 • 6h ago
+👁️ 5K • 👍 338 • 💬 46 • ⏱️ 9:35 • 7h ago
 
 ---
 
@@ -317,7 +317,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 47K • 👍 2K • 💬 129 • ⏱️ 59:39 • 1d ago
+👁️ 48K • 👍 2K • 💬 129 • ⏱️ 59:39 • 1d ago
 
 ---
 
@@ -327,17 +327,7 @@ Bitcoin just went live at millions of businesses without anyone opting in. While
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 1K • 💬 137 • ⏱️ 12:51 • 1d ago
-
----
-
-**[Exactly How Bitcoin Reaches $1.5 Million By 2030 (3 Experts Explain)](https://www.youtube.com/watch?v=gpRhzWFZEmM)**
-
-Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: ...
-
-📺 Altcoin Daily
-
-👁️ 22K • 👍 1K • 💬 181 • ⏱️ 8:36 • 18h ago
+👁️ 22K • 👍 1K • 💬 139 • ⏱️ 12:51 • 1d ago
 
 ---
 
@@ -347,7 +337,7 @@ A classic case of the bear market blues for Bitcoin. Into The Cryptoverse Premiu
 
 📺 Benjamin Cowen
 
-👁️ 66K • 👍 4K • 💬 207 • ⏱️ 11:38 • 2d ago
+👁️ 66K • 👍 4K • 💬 208 • ⏱️ 11:38 • 2d ago
 
 ---
 
@@ -357,7 +347,17 @@ Bitcoin Vegas 2026: https://fxo.co/JAmn Welcome to the Crypto Lifer Channel! JOI
 
 📺 Crypto Lifer
 
-👁️ 5K • 👍 330 • 💬 107 • ⏱️ 1:10:20 • 14h ago
+👁️ 5K • 👍 333 • 💬 106 • ⏱️ 1:10:20 • 14h ago
+
+---
+
+**[From Prison to College Funds: The Unexpected Impact of Selling Bitcoin with @Physicsduck](https://www.youtube.com/watch?v=EVdAgtiUsF0)**
+
+Selling Bitcoin led to a 30-month prison sentence. Many customers who bought Bitcoin years ago held onto it, and as its value ...
+
+📺 LiveWire Podcast
+
+👁️ 12K • 👍 802 • 💬 53 • ⏱️ 1:34 • 1d ago
 
 ---
 
@@ -365,17 +365,17 @@ Bitcoin Vegas 2026: https://fxo.co/JAmn Welcome to the Crypto Lifer Channel! JOI
 
 📺 CryptoWendyO
 
-👁️ 9K • 👍 526 • 💬 13 • ⏱️ 2:00 • 1d ago
+👁️ 9K • 👍 532 • 💬 13 • ⏱️ 2:00 • 1d ago
 
 ---
 
-**[LIVE: Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Prediction](https://www.youtube.com/watch?v=wSJapH7tA08)**
+**[THIS IS WHY BITCOIN IS DUMPING...](https://www.youtube.com/watch?v=ZCxCGSBBdoQ)**
 
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $25 ...
 
-📺 Chad Colby
+📺 Crypto Rover
 
-👁️ 1K • 👍 1K • 3h ago
+👁️ 3K • 👍 298 • 💬 186 • ⏱️ 6:27 • 3h ago
 
 ---
 
@@ -385,7 +385,7 @@ Coin Deals HERE https://solo.to/couchcollectibles FREE $15 Credit: https://www.w
 
 📺 Couch Collectibles
 
-👁️ 1K • 👍 41 • 💬 2 • ⏱️ 2:52 • 13h ago
+👁️ 1K • 👍 45 • 💬 2 • ⏱️ 2:52 • 14h ago
 
 ---
 

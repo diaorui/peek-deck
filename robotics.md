@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-22T15:51:24.807402+00:00'
+updated: '2026-03-22T16:32:52.602068+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 22, 2026 at 15:51 UTC  
+**Last Updated:** March 22, 2026 at 16:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,19 +56,19 @@ From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
 **[Real-time IMU VR tracking (ESP32 + ICM45686) streaming to PC — early test](https://www.reddit.com/r/robotics/comments/1s0jy7p/realtime_imu_vr_tracking_esp32_icm45686_streaming/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Those of you running multiple AI models on a single edge GPU (Jetson, etc.) - how do you handle resource allocation?](https://www.reddit.com/r/robotics/comments/1s0olg0/those_of_you_running_multiple_ai_models_on_a/)**
 
-20m ago
+1h ago
 
 ---
 
 **[“Elon said “come build robots with us” so I did it alone in the dark like a normal person”](https://www.reddit.com/r/robotics/comments/1s0oqr0/elon_said_come_build_robots_with_us_so_i_did_it/)**
 
-15m ago
+56m ago
 
 ---
 
@@ -76,7 +76,7 @@ From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
 I’m currently learning ROS2 and working with Gazebo, so I followed a tutorial where the robot looks like this (first image : red/yellow block style) but when I built mine, I ended up with something like the second image (black robot with wheels + lidar). I didn’t intentionally change much, so I’m confused how it ended up so different. What I did: - Followed a ROS2 mobile robot tutorial - Set up the model + simulation in Gazebo - Added lidar and basic movement control What I’m noticing: - My model structure looks completely different - Visual + geometry doesn’t match tutorial - Not sure if I accidentally changed URDF/Xacro or used a different base model Questions: What could cause this kind of difference? Did I accidentally switch model type (like differential vs something else)? Is this normal when building your own model vs tutorial assets? Also — I’m documenting my learning journey (ROS2 + robotics), so any guidance would help a lot. Thanks!
 
-1h ago
+2h ago
 
 ---
 
@@ -126,7 +126,7 @@ Business Insider • 2d ago
 
 This humanoid robot is learning tennis the same way I did—by playing. Plus a robot horse for the Year of the Fire Horse in this week's robot videos.
 
-IEEE Spectrum • 22h ago
+IEEE Spectrum • 23h ago
 
 ---
 
@@ -194,17 +194,7 @@ Crain's Detroit • 2d ago
 
 📺 MachineWorks Studio
 
-👁️ 2.7M • 👍 3K • 💬 41 • ⏱️ 0:06 • 6d ago
-
----
-
-**[Inside the Startup That Powers Humanoid Robots](https://www.youtube.com/watch?v=3xJzmy2gOgQ)**
-
-Do you want to see a humanoid AI lab from the inside? I do – join me and let's visit Flexion: Europe's leading lab building the AI ...
-
-📺 Andreas Klinger @ PROTOTYPE
-
-👁️ 11K • 👍 451 • 💬 35 • ⏱️ 18:52 • 2d ago
+👁️ 2.8M • 👍 3K • 💬 41 • ⏱️ 0:06 • 6d ago
 
 ---
 
@@ -224,7 +214,27 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 259K • 👍 3K • 💬 2K • ⏱️ 2:07 • 3d ago
+👁️ 263K • 👍 3K • 💬 2K • ⏱️ 2:07 • 3d ago
+
+---
+
+**[Inside the Startup That Powers Humanoid Robots](https://www.youtube.com/watch?v=3xJzmy2gOgQ)**
+
+Do you want to see a humanoid AI lab from the inside? I do – join me and let's visit Flexion: Europe's leading lab building the AI ...
+
+📺 Andreas Klinger @ PROTOTYPE
+
+👁️ 11K • 👍 460 • 💬 36 • ⏱️ 18:52 • 2d ago
+
+---
+
+**[Every Robot I Met at Nvidia GTC SPEEDRUN!](https://www.youtube.com/watch?v=mFr7XfTY5bY)**
+
+The robots at Nvidia GTC were showcasing strength, dexterity and the ability to work together on the same task. Read more about ...
+
+📺 CNET
+
+👁️ 2K • 👍 151 • 💬 6 • ⏱️ 5:50 • 4h ago
 
 ---
 
@@ -238,33 +248,21 @@ China just built something that was supposed to be decades away. Engine AI's T80
 
 ---
 
-**[Every Robot I Met at Nvidia GTC SPEEDRUN!](https://www.youtube.com/watch?v=mFr7XfTY5bY)**
-
-The robots at Nvidia GTC were showcasing strength, dexterity and the ability to work together on the same task. Read more about ...
-
-📺 CNET
-
-👁️ 1K • 👍 92 • 💬 5 • ⏱️ 5:50 • 3h ago
-
----
-
 **[Dancing robot goes rogue in hot pot restaurant](https://www.youtube.com/watch?v=DfnIEWpbMU8)**
 
 Video shows restaurant employees struggling to restrain a dancing robot that went rogue in a hot pot restaurant in California.
 
 📺 NBC News
 
-👁️ 188K • 👍 2K • 💬 628 • ⏱️ 3:38 • 3d ago
+👁️ 189K • 👍 2K • 💬 634 • ⏱️ 3:38 • 3d ago
 
 ---
 
-**[Spray-On Robot Skin Feels Strain Like Human Skin 🤖 #robotics #innovation #technology](https://www.youtube.com/watch?v=NGsP7tN0wuQ)**
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=hyus0N9wwM4)**
 
-This Spray-On Electronic Skin Could Make Robots Feel More Like Humans. Researchers at KAIST have developed a new kind of ...
+📺 Robot Julie 
 
-📺 EcoZora
-
-👁️ 12K • 👍 31 • 💬 3 • ⏱️ 0:07 • 3d ago
+👁️ 32K • 👍 206 • 💬 3 • ⏱️ 0:28 • 1d ago
 
 ---
 
@@ -274,15 +272,17 @@ The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrati
 
 📺 DPCcars
 
-👁️ 207K • 👍 2K • 💬 286 • ⏱️ 2:02 • 5d ago
+👁️ 209K • 👍 2K • 💬 288 • ⏱️ 2:02 • 5d ago
 
 ---
 
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=hyus0N9wwM4)**
+**[Outdated Tier 4 Weapons in War Robots](https://www.youtube.com/watch?v=8zKwEsyhPYE)**
 
-📺 Robot Julie 
+War Robots Gameplay: Playing Spear and Atomizer on Ammit - Tier 4 My War Robots Creator Link: https://wr.my.games/manni ...
 
-👁️ 32K • 👍 203 • 💬 3 • ⏱️ 0:28 • 1d ago
+📺 Manni-Gaming
+
+👁️ 8K • 👍 330 • 💬 52 • ⏱️ 12:20 • 1d ago
 
 ---
 

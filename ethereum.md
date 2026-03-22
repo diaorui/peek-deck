@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-22T15:51:24.804317+00:00'
+updated: '2026-03-22T16:32:52.598769+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 15:51 UTC  
+**Last Updated:** March 22, 2026 at 16:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $251.05B
+**Market Cap:** $250.93B
 Rank #2
 
 **Circulating Supply:** 120,691,743 ETH
@@ -62,7 +62,7 @@ No max supply
 -58.0%
 
 **All-Time Low:** $0.43
-+480135.8%
++480041.1%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
 **[Ethereum Cuts Bridge Times by 98%](https://www.reddit.com/r/ethereum/comments/1s0mzw8/ethereum_cuts_bridge_times_by_98/)**
 
-🔗 [financefeeds.com](https://financefeeds.com/crypto-news-ethereum-cuts-bridge-times-by-98-while-pepeto-hands-early-believers-100x-presale-gains/) • 1h ago
+🔗 [financefeeds.com](https://financefeeds.com/crypto-news-ethereum-cuts-bridge-times-by-98-while-pepeto-hands-early-believers-100x-presale-gains/) • 2h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi everyone, I'd really appreciate some feedback on something we're building on Ethereum. This is pretty much my first time doing this, but my co-founder is way more experienced, he's been a Web3 engineer for a long time. You probably know there are already some projects putting public stocks on-chain as RWAs. What we're trying to do is a bit different: bring the actual chain of custody on-chain for those shares. The issue with normal shares is they're totally fungible so you have zero clue who owned it before you. We want to track that history to unlock some "cultural premium" value as an RWA. Kind of like NFTs but for real shares. For example imagine proving your TSLA share was once held by Elon Musk. That kind of story probably makes it worth more to some people. To make it work we take verified shares (held in proper custody) and wrap them as provenance-wrapped shares on Ethereum smart contracts, using something like ERC-1155 for semi-fungible units, and record the full ownership chain in metadata or on-chain events. We're still in the middle of building, no live contracts or actual trading yet. Just trying to get real opinions early and figure if we're onto something or is this just dumb as hell. It would mean a lot to hear what Ethereum people think: Does provenance tracking for equities as RWAs actually sound useful/valuable, or is it kind of a gimmick? You can check out the demo to see how we're thinking about it in practice: https://provenantx.com https://preview.redd.it/fru8qps46iqg1.png?width=624&format=png&auto=webp&s=d93019bd8ad4a09695879f36d7c32f6f80436582 Thanks a ton for any thoughts!
 
-13h ago
+14h ago
 
 ---
 
@@ -170,7 +170,7 @@ Polymarket • 2mo ago
 
 Cryptocurrency analyst Ali Martinez said on Thursday that Ethereum has entered a generational “Buy Zone,” hinting at major bull runs on the horizon. What History Says In an X post, Martinez pointed out that Ethereum’s Market Value to Realized Value...
 
-Yahoo Finance • 50m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -186,7 +186,7 @@ Qubic • 1d ago
 
 Ethereum’s native token, Ether BITSTAMP:ETHUSD, may rise by around 25% in the coming months as its richest whale group becomes profitable for the first time since early February.Key takeaways:Whale metric signals ETH is bottoming alreadyThe unrealized profit ratio of wallets holding more than 100,0…
 
-TradingView • 23h ago
+TradingView • 1d ago
 
 ---
 
@@ -206,7 +206,7 @@ New York Post • 2d ago
 
 **[Ethereum ETF Sees Investors Head for the Exits as Price Slump Bites](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-sees-investors-head-for-the-exits-as-price-slump-bites)**
 
-TipRanks • 2h ago
+TipRanks • 3h ago
 
 ---
 
@@ -236,7 +236,7 @@ BlackRock just launched a staking Ethereum ETF—but is it really a win for inve
 
 📺 Coin Bureau
 
-👁️ 16K • 👍 734 • 💬 93 • ⏱️ 18:11 • 1d ago
+👁️ 17K • 👍 756 • 💬 92 • ⏱️ 18:11 • 1d ago
 
 ---
 
@@ -246,7 +246,7 @@ CRYPTO MARKET UPDATE! Crypto Crash Next Week? Join the Premium Signal Group for 
 
 📺 Cilinix Crypto
 
-👁️ 248 • 👍 31 • 💬 6 • ⏱️ 6:47 • 2h ago
+👁️ 507 • 👍 53 • 💬 150 • ⏱️ 6:47 • 3h ago
 
 ---
 
@@ -256,17 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 194 • 👍 12 • 💬 1 • ⏱️ 4:47 • 5h ago
-
----
-
-**[Tom Lee: &quot;$250K Bitcoin &amp; $12K Ethereum&quot; - His EXACT 2026 Price Targets Revealed](https://www.youtube.com/watch?v=POwKnprttyw)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 12K • 👍 487 • 💬 47 • ⏱️ 19:43 • 2d ago
+👁️ 211 • 👍 12 • 💬 1 • ⏱️ 4:47 • 6h ago
 
 ---
 
@@ -276,7 +266,17 @@ Ethereum is showing strong bullish signals, with analysts predicting a major reb
 
 📺 Crypto Sensei
 
-👁️ 6K • 👍 470 • 💬 56 • ⏱️ 12:42 • 2d ago
+👁️ 7K • 👍 472 • 💬 56 • ⏱️ 12:42 • 2d ago
+
+---
+
+**[Tom Lee: &quot;$250K Bitcoin &amp; $12K Ethereum&quot; - His EXACT 2026 Price Targets Revealed](https://www.youtube.com/watch?v=POwKnprttyw)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 12K • 👍 488 • 💬 47 • ⏱️ 19:43 • 2d ago
 
 ---
 
@@ -286,27 +286,17 @@ cryptomonnaies #cryptofrance #Bitcoin #Crypto #dollar #crypto #macroéconomie #s
 
 📺 Cryptolyze | Crypto - Finance - Économie
 
-👁️ 1K • 👍 200 • 💬 33 • ⏱️ 35:47 • 4h ago
+👁️ 2K • 👍 304 • 💬 38 • ⏱️ 35:47 • 5h ago
 
 ---
 
-**[BITCOIN &amp; ETH HUGE DROP, JUST AS I REDUCED AND LOWERED MY TRADES](https://www.youtube.com/watch?v=Uyoug29e0J4)**
+**[CRYPTO LIVE TRADING || 22 Mar  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=AwuhYEdMpUg)**
 
-In today's video I break down Bitcoin, Ethereum, stocks, oil, gold, and silver, including the key levels, setups, and risk management ...
+join my social platforms for updates and analysis ✓Instagram: ...
 
-📺 James Crypto Guru
+📺 Aryan trader Live
 
-👁️ 2K • 👍 119 • 💬 10 • ⏱️ 12:28 • 15h ago
-
----
-
-**[BTC &amp; ETH LIVE Trading | Bitcoin Price Action Analysis | Crypto Live Market #crypto #bitcoin #btc](https://www.youtube.com/watch?v=TdumgaA0ngU)**
-
-Bitcoin #Ethereum #Crypto #BTCTrading #CryptoLive Community & Official Process Official Telegram Channel: ...
-
-📺 Live Trading With Yashika
-
-👁️ 461 • 👍 44 • 💬 9 • ⏱️ 15:23 • 2h ago
+👁️ 5K • 👍 4K • 1h ago
 
 ---
 
@@ -316,7 +306,17 @@ BITCOIN PRICE HISTORY REPEATING (Get Ready)!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 8K • 👍 292 • 💬 132 • ⏱️ 13:52 • 16h ago
+👁️ 9K • 👍 303 • 💬 133 • ⏱️ 13:52 • 17h ago
+
+---
+
+**[BITCOIN &amp; ETH HUGE DROP, JUST AS I REDUCED AND LOWERED MY TRADES](https://www.youtube.com/watch?v=Uyoug29e0J4)**
+
+In today's video I break down Bitcoin, Ethereum, stocks, oil, gold, and silver, including the key levels, setups, and risk management ...
+
+📺 James Crypto Guru
+
+👁️ 2K • 👍 127 • 💬 10 • ⏱️ 12:28 • 16h ago
 
 ---
 
@@ -326,7 +326,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Buy
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 3K • 💬 240 • ⏱️ 9:50 • 1d ago
+👁️ 53K • 👍 3K • 💬 240 • ⏱️ 9:50 • 1d ago
 
 ---
 
