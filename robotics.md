@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-22T23:30:14.684971+00:00'
+updated: '2026-03-22T23:54:30.050189+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 22, 2026 at 23:30 UTC  
+**Last Updated:** March 22, 2026 at 23:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Still cant get it to walk forward yet but rotating seems okay. Can definitely be better tho. This is still a work im progress, the hexapod frame is 3d printed from a creator at makerworld. The internals and code are mine. Mine uses a ps2 controller for this hexapod. If any of you guys are working on the same frame, i will share the schematics and code for free once im finally done with this builddd. Its been about a month since i started this hexapod and mannnn its been cracking my head ever since 😂
 
-5h ago
+6h ago
 
 ---
 
@@ -44,7 +44,7 @@ Still cant get it to walk forward yet but rotating seems okay. Can definitely be
 
 The setup includes two robotic operation platforms, 28 sorting robots, and 4 delivery robots. A returned book goes through the return window → travels via conveyor belt → is picked up by a sorting robot and delivered to the correct shelf based on its category. Technically, this is the same class of autonomous mobile robotics used in e-commerce fulfillment. Robots navigate between shelves, avoid obstacles, and optimize routes in real time. Traditionally, librarians spend significant time collecting returned books, pushing carts, and manually reshelving.
 
-6h ago
+7h ago
 
 ---
 
@@ -52,7 +52,7 @@ The setup includes two robotic operation platforms, 28 sorting robots, and 4 del
 
 Hello, I’m currently working on a monkey humanoid robot with several servos. I was using two 4S 14.8V 6500mAh LiPo batteries in parallel to increase capacity, with a fuse on each battery. During initial tests with a few motors, everything was working fine. But when I ran a program where multiple motors moved at the same time, I noticed a burning smell and immediately powered everything off. After checking, nothing seemed visibly damaged, but both batteries dropped to around 7.4V. When I measured the cells, I found 2 cells normal (~4V) and 2 cells at 0V on each battery. So both packs are now dead. I believe the issue comes from running LiPo batteries in parallel without proper protection, even with fuses in place. I’m now looking for advice to prevent this in the future: should I avoid parallel setups, use additional protection (BMS, diodes, etc.), or change my power architecture entirely? Thanks in advance for your help.
 
-4h ago
+5h ago
 
 ---
 
@@ -60,7 +60,7 @@ Hello, I’m currently working on a monkey humanoid robot with several servos. I
 
 Saw the Galbot in action today at a cafe. What’s impressive is that it’s operating completely autonomously—no human intervention required. Watching its dual-arm coordination handle the espresso machine and serving was a great example of embodied AI moving into real-world commercial applications. This isn't just a demo; it's a functioning business model.
 
-11h ago
+12h ago
 
 ---
 
@@ -104,7 +104,7 @@ I’m currently learning ROS2 and working with Gazebo, so I followed a tutorial 
 
 **[Working on an experimental micro‑swarm drone concept — looking for technical feedback](https://www.reddit.com/r/robotics/comments/1s0y1wn/working_on_an_experimental_microswarm_drone/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -146,7 +146,7 @@ Business Insider • 2d ago
 
 A local fundraiser hopes to raise enough money so the BCSC VEX IQ robotics teams who earned a chance to compete on the international stage can make the trip.
 
-The Republic News • 18h ago
+The Republic News • 19h ago
 
 ---
 
@@ -154,7 +154,7 @@ The Republic News • 18h ago
 
 Scientists are exploring DNA-based robots, tiny molecular machines that could one day navigate the body, deliver targeted therapies, and even build nanoscale technologies.
 
-SciTechDaily • 7h ago
+SciTechDaily • 8h ago
 
 ---
 
@@ -162,7 +162,7 @@ SciTechDaily • 7h ago
 
 The robots can pick, weigh and harvest strawberries in a matter of seconds.
 
-BBC • 17h ago
+BBC • 18h ago
 
 ---
 
@@ -290,7 +290,7 @@ Midea Group, one of the world's largest home appliance manufacturers, just unvei
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 37 • 💬 4 • ⏱️ 0:24 • 5h ago
+👁️ 1K • 👍 37 • 💬 4 • ⏱️ 0:24 • 6h ago
 
 ---
 

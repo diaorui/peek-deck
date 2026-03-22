@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-22T23:30:14.681756+00:00'
+updated: '2026-03-22T23:54:30.046870+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 23:30 UTC  
+**Last Updated:** March 22, 2026 at 23:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -102,13 +102,13 @@ Hi there, I made a niche thing, probably useful for a small group of node runner
 
 Been using Ethereum for years and I'm happy with the roadmap, but L2s are starting to feel like their own isolated islands. Arbitrum, Base, Optimism, ZkSync , each has its own liquidity, its own bridges, its own quirks. I get that they scale the network, but moving between them still feels clunky. Sometimes I wonder if we're solving one problem (fees on mainnet) while creating another (fragmentation). Curious how others see this. Are we heading toward a unified L2 experience or is this just how it's going to be?
 
-18m ago
+42m ago
 
 ---
 
 **[x402s now has state channels](https://www.reddit.com/r/ethereum/comments/1s0yi3u/x402s_now_has_state_channels/)**
 
-🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2035835465354322316) • 1h ago
+🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2035835465354322316) • 2h ago
 
 ---
 
@@ -116,7 +116,7 @@ Been using Ethereum for years and I'm happy with the roadmap, but L2s are starti
 
 Hi everyone, I'd really appreciate some feedback on something we're building on Ethereum. This is pretty much my first time doing this, but my co-founder is way more experienced, he's been a Web3 engineer for a long time. You probably know there are already some projects putting public stocks on-chain as RWAs. What we're trying to do is a bit different: bring the actual chain of custody on-chain for those shares. The issue with normal shares is they're totally fungible so you have zero clue who owned it before you. We want to track that history to unlock some "cultural premium" value as an RWA. Kind of like NFTs but for real shares. For example imagine proving your TSLA share was once held by Elon Musk. That kind of story probably makes it worth more to some people. To make it work we take verified shares (held in proper custody) and wrap them as provenance-wrapped shares on Ethereum smart contracts, using something like ERC-1155 for semi-fungible units, and record the full ownership chain in metadata or on-chain events. We're still in the middle of building, no live contracts or actual trading yet. Just trying to get real opinions early and figure if we're onto something or is this just dumb as hell. It would mean a lot to hear what Ethereum people think: Does provenance tracking for equities as RWAs actually sound useful/valuable, or is it kind of a gimmick? You can check out the demo to see how we're thinking about it in practice: https://provenantx.com https://preview.redd.it/fru8qps46iqg1.png?width=624&format=png&auto=webp&s=d93019bd8ad4a09695879f36d7c32f6f80436582 Thanks a ton for any thoughts!
 
-21h ago
+22h ago
 
 ---
 
@@ -192,7 +192,7 @@ Yahoo Finance • 8h ago
 
 Dubai, UAE, March  22, 2026  (GLOBE NEWSWIRE) -- Pepeto just moved its Binance listing into the final round, and the presale has gone viral with i...
 
-markets.businessinsider.com • 1h ago
+markets.businessinsider.com • 2h ago
 
 ---
 
@@ -212,13 +212,13 @@ Fortune • 2d ago
 
 **[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1774180200)**
 
-Polymarket • 10h ago
+Polymarket • 11h ago
 
 ---
 
 **[Ethereum ETF Feels the Chill as Investors Pull $102 Million from ETHA](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-feels-the-chill-as-investors-pull-102-million-from-etha)**
 
-TipRanks • 9h ago
+TipRanks • 10h ago
 
 ---
 
@@ -242,7 +242,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 148 • 💬 5 • ⏱️ 4:00 • 8h ago
+👁️ 2K • 👍 148 • 💬 5 • ⏱️ 4:00 • 9h ago
 
 ---
 
@@ -292,7 +292,7 @@ cryptomonnaies #cryptofrance #Bitcoin #Crypto #dollar #crypto #macroéconomie #s
 
 📺 Cryptolyze | Crypto - Finance - Économie
 
-👁️ 4K • 👍 458 • 💬 70 • ⏱️ 35:47 • 11h ago
+👁️ 4K • 👍 458 • 💬 70 • ⏱️ 35:47 • 12h ago
 
 ---
 
@@ -302,7 +302,7 @@ Kaosun ortasında makroekonomi ve varlıkları teker teker inceledim. Herkes sav
 
 📺 Emir Şahin
 
-👁️ 7K • 👍 849 • 💬 141 • ⏱️ 15:06 • 7h ago
+👁️ 7K • 👍 849 • 💬 141 • ⏱️ 15:06 • 8h ago
 
 ---
 
@@ -312,7 +312,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 My Channel
 
-👁️ 3K • 👍 1K • 7h ago
+👁️ 3K • 👍 1K • 8h ago
 
 ---
 
@@ -322,7 +322,7 @@ BTC & ETH Price Prediction Today | Will Crypto Market Go Up or Down? | Hindi Ana
 
 📺 Crypto Gyan
 
-👁️ 815 • 👍 81 • 💬 1 • ⏱️ 6:13 • 8h ago
+👁️ 815 • 👍 81 • 💬 1 • ⏱️ 6:13 • 9h ago
 
 ---
 

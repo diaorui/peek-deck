@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-22T23:30:14.665781+00:00'
+updated: '2026-03-22T23:54:30.031658+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
+- repositories
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 22, 2026 at 23:30 UTC  
+**Last Updated:** March 22, 2026 at 23:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Here’s a pattern I’ve observed again and again: A new technology promises to speed up some annoying aspects of our jobs. Everyone gets excited about freeing up more time for deep work and leisure. We end up busier than before without producing more of the high-value output that actually moves the needle. This happened with the front-office IT revolution, and email, and mobile computing, and once again with video-conferencing. I’m now starting to fear that we’re beginning to encounter the same thing with AI as well. My worries were stoked, in part, by a recent article in the Wall Street Journal, titled ​“AI Isn’t Lightening Workloads. It’s Making Them More Intense.”​ The piece cites new research from the software company ActivTrak, which analyzed the digital activity of 164,000 workers across more than 1,000 employers. What makes the study notable is its methodology: it tracked individual AI users for 180 days before and after they began using these tools, providing clear insight into what changed. The results? “ActivTrak found AI intensified activity across nearly every category: The time they spent on email, messaging and chat apps more than doubled, while their use of business-management tools, such as human-resources or accounting software, rose 94%.“ The one category where activity was not intensified, however, was deep work: “[T]he amount of time AI users devoted to focused, uninterrupted work—the kind of concentration often required for figuring out complex problems, writing formulas, creating and strategizing—fell 9%, compared with nearly no change for nonusers.” This is a worst-case scenario: you work faster and harder, but mainly on shallow, mentally taxing tasks (because of all the context shifting they require) that only indirectly help the bottom line compared to harder efforts. More here: https://calnewport.com/why-hasnt-ai-made-work-easier/#more-16813
 
-5h ago
+6h ago
 
 ---
 
@@ -57,7 +57,7 @@ I am a painter with work at MoMA and the Met. I just published 50 years of my wo
 
 Hosted on a Pi 2, coded with Python, using GROQ for fast computing and limit cost, LCD screen incased a 3d printed 90's pc styled cased with the Pi.
 
-47m ago
+1h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hosted on a Pi 2, coded with Python, using GROQ for fast computing and limit cos
 
 I tested 10 common prompt engineering techniques against a structured JSON format across identical tasks (marketing plans, code debugging, legal review, financial analysis, medical diagnosis, blog writing, product launches, code review, ticket classification, contract analysis). The setup: Each task was sent to Claude Sonnet twice — once with a popular technique (Chain-of-Thought, Few-Shot, System Prompt, Mega Prompt, etc.) and once with a structured 6-band JSON format that decomposes every prompt into PERSONA, CONTEXT, DATA, CONSTRAINTS, FORMAT, and TASK. The metrics (automated, not subjective): Specificity (concrete numbers per 100 words): Structured won 8/10 — avg 12.0 vs 7.1 Hedge-free output (zero "I think", "probably", "might"): Structured won 9/10 — near-zero hedging Structured tables in output: 57 tables vs 4 for opponents across all 10 battles Conciseness: 46% fewer words on average (416 vs 768) Biggest wins: vs Chain-of-Thought on debugging: 21.5 specificity vs 14.5, zero hedges vs 2, 67% fewer words vs Mega Prompt on financial analysis: 17.7 specificity vs 10.1, zero hedges, 9 tables vs 0 vs Template Prompt on blog writing: 6.8 specificity vs 0.1 (55x more concrete numbers) Why it works (the theory): A raw prompt is 1 sample of a 6-dimensional specification signal. By Nyquist-Shannon, you need at least 2 samples per dimension (= 6 bands minimum) to avoid aliasing. In LLM terms, aliasing = the model fills missing dimensions with its priors — producing hedging, generic advice, and hallucination. The format is called sinc-prompt (after the sinc function in signal reconstruction). It has a formal JSON schema, open-source validator, and a peer-reviewed paper with DOI. Spec: https://tokencalc.pro/spec Paper: https://doi.org/10.5281/zenodo.19152668 Code: https://github.com/mdalexandre/sinc-llm The battle data is fully reproducible — same model, same API, same prompts. Happy to share the test script if anyone wants to replicate.
 
-18m ago
+43m ago
 
 ---
 
@@ -73,7 +73,7 @@ I tested 10 common prompt engineering techniques against a structured JSON forma
 
 This innovative technology mimics the movement of real fish to navigate delicate underwater ecosystems without disturbing marine life. By capturing tiny plastic particles that are otherwise impossible to collect, these robots are providing a much needed boost to ocean conservation efforts worldwide. It is a huge step forward in the fight against plastic pollution.
 
-🔗 [skarfinans.com](https://skarfinans.com/en/how-autonomous-robot-fish-are-revolutionizing-ocean-plastic-cleanup/) • 3h ago
+🔗 [skarfinans.com](https://skarfinans.com/en/how-autonomous-robot-fish-are-revolutionizing-ocean-plastic-cleanup/) • 4h ago
 
 ---
 
@@ -125,7 +125,7 @@ Focus Features is offering Reddit users free tickets to a special advanced scree
 
 Dozens of Instagram and TikTok accounts have used AI avatars to promote explicit content, the BBC finds.
 
-BBC • 22h ago
+BBC • 23h ago
 
 ---
 
@@ -139,7 +139,7 @@ NBC News • 13h ago
 
 **[PepsiCo Bets on AI Across China Operations to Boost Efficiency](https://www.bloomberg.com/news/articles/2026-03-22/pepsico-bets-on-ai-across-china-operations-to-boost-efficiency?srnd=homepage-americas)**
 
-Bloomberg.com • 30m ago
+Bloomberg.com • 54m ago
 
 ---
 
@@ -272,7 +272,7 @@ One thing that I noticed as soon as I open LinkedIn green color becomes the most
 
 **[Ask HN: AI productivity gains – do you fire devs or build better products?](https://news.ycombinator.com/item?id=47475859)**
 
-⬆️ 80 • 💬 143 • 13h ago
+⬆️ 80 • 💬 143 • 14h ago
 
 ---
 
@@ -472,7 +472,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 3,311 • ❤️ 198 • 23h ago
+⬇️ 3,311 • ❤️ 198 • 1d ago
 
 ---
 
@@ -725,7 +725,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 4.3k • 🔱 370 • 6h ago
+⭐ 4.3k • 🔱 370 • 7h ago
 
 ---
 
