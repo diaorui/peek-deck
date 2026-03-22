@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-22T10:28:56.385862+00:00'
+updated: '2026-03-22T10:55:59.581712+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 22, 2026 at 10:28 UTC  
+**Last Updated:** March 22, 2026 at 10:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,11 +52,19 @@ From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
 ---
 
+**[OpenMind had 8 robots on the open sidewalks at GTC. They autonomously navigated and can verbally interacted with people.](https://www.reddit.com/r/robotics/comments/1s0icut/openmind_had_8_robots_on_the_open_sidewalks_at/)**
+
+From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2035439044151382398 OpenMind Robotics webstite: https://www.openmindrobotics.com/
+
+19m ago
+
+---
+
 **[RMW comparison on Jazzy (Fast DDS vs Cyclone DDS vs Zenoh vs Iceoryx) + handling rosbag2 CPU spikes](https://www.reddit.com/r/robotics/comments/1s022nr/rmw_comparison_on_jazzy_fast_dds_vs_cyclone_dds/)**
 
 We’re running a pretty heavy autonomous stack on a single edge computer (ROS 2 Jazzy) — multiple high-res cameras, dense LiDARs, and radars all on one machine. We’re starting to hit serious compute + latency limits, especially with intra-process communication and recording. Right now we’re evaluating: Fast DDS Cyclone DDS Zenoh Iceoryx Also, as soon as we start recording with rosbag2, CPU usage spikes hard and we get frame drops across the system. Two questions for folks who’ve pushed ROS 2 hard on a single machine: For high-bandwidth intra-host comms on Jazzy, which RMW has actually given you the best real-world performance? How are you dealing with the rosbag2 overhead? Composable recorder node? Separate process? Or bypassing ROS entirely and logging raw sensor data? For context: we previously ran Humble + CycloneDDS + MCAP and saw similar bottlenecks. Curious what setups are working well in practice.
 
-13h ago
+14h ago
 
 ---
 
@@ -64,7 +72,7 @@ We’re running a pretty heavy autonomous stack on a single edge computer (ROS 2
 
 I want to make an aim-able phone holder with servos/steppers tucked in the base… and I don’t want to reinvent the wheel. Are there any references of this design? (Like a Simpson 3d printer, but simpler and for robot arms)
 
-13h ago
+14h ago
 
 ---
 
@@ -80,7 +88,7 @@ It's one of the sample tasks I'm planning to demonstrate to the guests of my upc
 
 Testing the built-in 3D reconstruction algorithm of the Viobot2 — the result looks good. Has anyone used the Viobot2 for other DIY work? Can anyone share with me?
 
-19h ago
+20h ago
 
 ---
 
@@ -88,21 +96,13 @@ Testing the built-in 3D reconstruction algorithm of the Viobot2 — the result l
 
 Hey, I want to build a humanoid robot as a personal project — not necessarily life sized, maybe scaled down a bit. I came across InMoov and it looks amazing but I'm a bit intimidated by the non-printed hardware requirements like springs, metal rods, drilling into parts etc. I'm comfortable with electronics and embedded systems (Arduino/ESP32, servos, sensors) so that side doesn't scare me. It's more the mechanical assembly and sourcing all the non-printed hardware that feels overwhelming. Has anyone: Built InMoov and found ways to simplify the mechanical assembly? Found a good detailed step by step tutorial that makes it less intimidating? Found cheaper alternatives to the hardware components it needs? Built a simplified or scaled down version? Not looking for a perfect robot, just something that works and that I can build on over time. Any advice or experience would really help. Thanks
 
-12h ago
+13h ago
 
 ---
 
 **[Range of motion evaluation test for my homemade robotic hand & wrist](https://www.reddit.com/r/robotics/comments/1ryzwte/range_of_motion_evaluation_test_for_my_homemade/)**
 
 Showcasing the newest version (v20) of my hand & wrist combo! Same as the last version, it's a combination of direct- and tendon-driven actuation, still with 19 joints and 10 active DOFs. It has independent finger flexion, a 3-DOF thumb, linked finger splay, and a 2-DOF wrist. There's an onboard ESP32-S3 in the wrist which measures joint position (at the motor output), current, and temperature. And all the movements were programmed with custom C#/C++ software. Improved from the last version, the base thumb joints were switched to direct drive and much beefier motors were swapped in for the wrist joints - improving strength and repeatability under heavier loads. Despite these new motors though, the form factor remains nearly identical to v19, spare a few millimeters of thickness and height. Some more minor changes: (1) ASA and carbon fiber filaments replaced basic PLA to improve rigidity and strength, (2) the power input was switched to an XT30 connector to accommodate the more power-hungry motors, and (3) better filtering and chips to reduce current and position signal noise. Still making incremental improvements here and there, but happy to answer any questions and hear your thoughts!
-
-1d ago
-
----
-
-**[Humanoid robots on the streets at midnight training for their half-marathon!](https://www.reddit.com/r/robotics/comments/1rz19uy/humanoid_robots_on_the_streets_at_midnight/)**
-
-Don't be surprised if you meet humanoid robots on the streets of Beijing at midnight. They are training for their half-marathon! Over 20 teams joined the first trial run. The official race will be held on April 19.
 
 1d ago
 
@@ -132,7 +132,7 @@ Business Insider • 2d ago
 
 This humanoid robot is learning tennis the same way I did—by playing. Plus a robot horse for the Year of the Fire Horse in this week's robot videos.
 
-IEEE Spectrum • 17h ago
+IEEE Spectrum • 18h ago
 
 ---
 
@@ -174,19 +174,19 @@ Engadget • 2d ago
 
 ---
 
-**[Robotics giant plans massive $90M plant in metro Detroit, 225 jobs](https://www.crainsdetroit.com/manufacturing-logistics/cdb-fanuc-robots-investment-michigan-20260319/)**
-
-Japanese manufacturer Fanuc is plotting a large expansion in Michigan in response to demand from automakers and other customers.
-
-Crain's Detroit • 2d ago
-
----
-
 **[Tech Moves: Carbon Robotics’ new CFO; Microsoft gaming GM goes to Netflix; Nordstrom gets VP of AI](https://www.geekwire.com/2026/tech-moves-carbon-robotics-new-cfo-microsoft-gaming-gm-goes-to-netflix-nordstrom-gets-vp-of-ai/)**
 
 Carbon Robotics names a CFO; Nordstrom gets a VP of AI; and a Microsoft gaming GM goes to Netflix while one of its longtime legal leaders retires.
 
 GeekWire • 1d ago
+
+---
+
+**[Robotics giant plans massive $90M plant in metro Detroit, 225 jobs](https://www.crainsdetroit.com/manufacturing-logistics/cdb-fanuc-robots-investment-michigan-20260319/)**
+
+Japanese manufacturer Fanuc is plotting a large expansion in Michigan in response to demand from automakers and other customers.
+
+Crain's Detroit • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-22T10:28:56.368226+00:00'
+updated: '2026-03-22T10:55:59.563597+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- repositories
 - videos
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 22, 2026 at 10:28 UTC  
+**Last Updated:** March 22, 2026 at 10:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Growth without people.
 
 I keep seeing more and more companies say that they're going to reduce hallucination and drift and mistakes made by Al by adding supervisor or manager Al on top of them that will review everything that those Al agents are doing. that seems to be the way. another thing I'm seeing is adding multiple Al judges to evaluate the output and those companies are running around touting their low percentage false positives or mistakes adding additional Al agents on top of Al agents reduce mistakes is like wrapping yourself in a wet blanket and then adding more with blankets to keep you warm when you're freezing. you will freeze, it will just take longer, and it's going to use a lot of blankets. I don't understand. the blind warship of pure Al solutions. we have software that can achieve determinism. we know this. hybrid solutions between Al and software is the only way forward
 
-7h ago
+8h ago
 
 ---
 
@@ -123,7 +123,7 @@ Chemists may soon have one less rigorous step to worry about when searching for 
 
 Dozens of Instagram and TikTok accounts have used AI avatars to promote explicit content, the BBC finds.
 
-BBC • 9h ago
+BBC • 10h ago
 
 ---
 
@@ -135,25 +135,25 @@ CNBC • 22h ago
 
 ---
 
-**[Is Taste the One Thing A.I. Can’t Replace?](https://www.nytimes.com/2026/03/22/style/ai-tools-taste.html)**
+**[AI-generated ads are trickling into political campaigns, sparking big worries](https://www.nbcnews.com/politics/2028-election/ai-midterms-politics-campaign-ads-rcna263752)**
 
-The New York Times • 1h ago
+AI usage in political ads is largely regulated at the state level, but there remain concerns about how they can mislead voters.
 
----
-
-**[Reddit CEO Steve Huffman says he plans to 'go heavy' on hiring new grads because they are 'AI native'](https://www.businessinsider.com/reddit-ceo-steve-huffman-new-grads-great-hires-ai-native-2026-3)**
-
-Reddit CEO Steve Huffman said it's crucial to hire the best new grads, or else they'll never be on the job market again.
-
-Business Insider • 1h ago
+NBC News • 55m ago
 
 ---
 
-**[AI may be helping more people start their own businesses, but without many employees](https://fortune.com/2026/03/22/ai-entrepreneurs-startups-layoffs-block-jack-dorsey-american-workers-future-of-work/)**
+**[Meet The AI Company Food Conglomerates Call When They Want To Future-Proof Their Products](https://www.forbes.com/sites/chloesorvino/2026/03/22/meet-the-ai-company-food-conglomerates-call-when-they-want-to-future-proof-their-products/)**
 
-The 21-year-old cofounders of one startup said they are bringing in $1 million per month with 13 employees thanks to AI.
+Forbes • 55m ago
 
-Fortune • 1h ago
+---
+
+**[I'm a 24-year-old with the 'hottest job in AI.' These are the skills you need to get a role like mine.](https://www.businessinsider.com/hottest-job-ai-forward-deployed-engineer-skills-need-2026-3)**
+
+A software engineer landed a role as a forward-deployed engineer. Here's why it's the "hottest job in AI," and how he broke in.
+
+Business Insider • 52m ago
 
 ---
 
@@ -162,6 +162,14 @@ Fortune • 1h ago
 Michael Smith, 52, charged after flooding platforms with thousands of AI songs and boosting them with bots
 
 The Guardian • 15h ago
+
+---
+
+**[‘Godfather of AI’ says tech companies aren’t concerned with the AI endgame. They’re focused on short-term profits instead](https://fortune.com/article/godfather-ai-geoffrey-hinton-big-tech-profits-superintelligence/)**
+
+“Researchers are interested in solving problems that have their curiosity. It’s not like we start off with the same goal of, what’s the future of humanity going to be?”
+
+Fortune • 21h ago
 
 ---
 
@@ -181,17 +189,9 @@ The Washington Post • 15h ago
 
 ---
 
-**[Where Is Mojtaba Khamenei? Iran Fills the Gap With AI and Voice-Overs](https://www.wsj.com/world/middle-east/where-is-mojtaba-khamenei-iran-fills-the-gap-with-ai-and-voice-overs-912b3827?gaa_at=eafs&gaa_n=AWEtsqeulY-qXzu_srZbTd-AJmB0lf_LZYSzMFNFXFsHcUbWHPhVEmTOa-qG&gaa_ts=69bfbb14&gaa_sig=DuJiCH8uLSZcJcJn7L9ptpC-vvT7KceAI-frn85Yumd_I3RvOYO0O_9NyuHTDCLVHV7lHMad4zeTM2f1r0QrwA%3D%3D)**
+**[More! More! More! Tech Workers Max Out Their A.I. Use.](https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html)**
 
-WSJ • 19h ago
-
----
-
-**[AI hallucinations haunt users more than job losses](https://www.ft.com/content/e074d3a9-7fd8-447d-ac0a-e0de756ac5c5?syn-25a6b1a6=1)**
-
-Anthropic’s survey of 80,000 Claude users provides detailed snapshot of how people are using technology
-
-Financial Times • 5h ago
+The New York Times • 1d ago
 
 ---
 
@@ -203,7 +203,7 @@ Financial Times • 5h ago
 
 OpenCode - The open source coding agent.
 
-⬆️ 1210 • 💬 597 • 1d ago • [opencode.ai](https://opencode.ai/)
+⬆️ 1212 • 💬 598 • 1d ago • [opencode.ai](https://opencode.ai/)
 
 ---
 
@@ -211,7 +211,7 @@ OpenCode - The open source coding agent.
 
 As the Charles de Gaulle and its strike group approach the Middle East, Le Monde identified a French sailor using the Strava fitness application in the Mediterranean Sea. This security flaw remains unaddressed despite our previous revelations.
 
-⬆️ 622 • 💬 509 • 1d ago • [Le Monde.fr](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
+⬆️ 624 • 💬 511 • 1d ago • [Le Monde.fr](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
 
 ---
 
@@ -219,7 +219,7 @@ As the Charles de Gaulle and its strike group approach the Middle East, Le Monde
 
 Imagine a newspaper publisher announcing it will no longer allow libraries to keep copies of its paper. That’s effectively what’s begun happening online in the last few months. The Internet Archive—the world’s largest digital library—has preserved newspapers since it went online in the mid-1990s....
 
-⬆️ 524 • 💬 145 • 1d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
+⬆️ 526 • 💬 149 • 1d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
 
 ---
 
@@ -231,6 +231,12 @@ An AI agent tried to help, and its advice exposed sensitive data.
 
 ---
 
+**[Be intentional about how AI changes your codebase](https://news.ycombinator.com/item?id=47446373)**
+
+⬆️ 169 • 💬 103 • 2d ago • [aicode.swerdlow.dev](https://aicode.swerdlow.dev)
+
+---
+
 **[MacBook M5 Pro and Qwen3.5 = Local AI Security System](https://news.ycombinator.com/item?id=47457107)**
 
 Qwen3.5-9B scores 93.8% on 96 real security AI tests — within 4 points of GPT-5.4 — running entirely on Apple Silicon. Full benchmark results and methodology.
@@ -239,15 +245,9 @@ Qwen3.5-9B scores 93.8% on 96 real security AI tests — within 4 points of GPT-
 
 ---
 
-**[Be intentional about how AI changes your codebase](https://news.ycombinator.com/item?id=47446373)**
-
-⬆️ 168 • 💬 103 • 2d ago • [aicode.swerdlow.dev](https://aicode.swerdlow.dev)
-
----
-
 **[Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning](https://news.ycombinator.com/item?id=47467913)**
 
-⬆️ 143 • 💬 77 • 18h ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
+⬆️ 153 • 💬 83 • 19h ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
 
 ---
 
@@ -260,7 +260,7 @@ Much faster and better search with the daemon
 
 The daemon has existed for a long time, and has been marked as "experimental" for
 
-⬆️ 90 • 💬 74 • 23h ago • [The Atuin Blog](https://blog.atuin.sh/atuin-v18-13/)
+⬆️ 90 • 💬 75 • 1d ago • [The Atuin Blog](https://blog.atuin.sh/atuin-v18-13/)
 
 ---
 
@@ -268,7 +268,7 @@ The daemon has existed for a long time, and has been marked as "experimental" fo
 
 Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of hallucinations’, after investigation by newspaper where he was once editor-in-chief
 
-⬆️ 88 • 💬 75 • 19h ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes)
+⬆️ 88 • 💬 75 • 20h ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes)
 
 ---
 
@@ -312,7 +312,7 @@ The AI boom has rocketed the stock prices of Nvidia, Amazon, Apple, Tesla, Micro
 
 📺 New Money
 
-👁️ 52K • 👍 2K • 💬 200 • ⏱️ 15:50 • 21h ago
+👁️ 52K • 👍 2K • 💬 200 • ⏱️ 15:50 • 22h ago
 
 ---
 
@@ -504,7 +504,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 3,311 • ❤️ 165 • 10h ago
+⬇️ 3,311 • ❤️ 165 • 11h ago
 
 ---
 

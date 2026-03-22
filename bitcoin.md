@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-22T10:28:56.376658+00:00'
+updated: '2026-03-22T10:55:59.572392+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 10:28 UTC  
+**Last Updated:** March 22, 2026 at 10:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -127,7 +127,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perrenod
 
-23h ago
+1d ago
 
 ---
 
@@ -137,19 +137,17 @@ Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perreno
 
 ---
 
+**[The Code of Liberty: Why Bitcoin is the Only True Constitutional Money.](https://www.reddit.com/r/Bitcoin/comments/1s0hhko/the_code_of_liberty_why_bitcoin_is_the_only_true/)**
+
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-code-of-liberty-why-bitcoin-is) • 1h ago
+
+---
+
 **[FAFO Bitcoin investor here](https://www.reddit.com/r/Bitcoin/comments/1rzzwwb/fafo_bitcoin_investor_here/)**
 
 hi, just checking in to say hi I am generally a conservative broad index ETF investor for most of my savings but jn recent years have also been buying bitcoin and and now hold 1,1 BTC. I am torn between contirnuing to buy a bit every month or stopping altogether having achieve wholecoinership. I would be interested to know how other stackers approach this
 
 15h ago
-
----
-
-**[This sub currently](https://www.reddit.com/r/Bitcoin/comments/1rza6z8/this_sub_currently/)**
-
-Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Alden's book called Broken Money and read it.
-
-1d ago
 
 ---
 
@@ -171,6 +169,22 @@ Forbes • 22h ago
 
 ---
 
+**[Got $1,500? Is It Better to Buy Bitcoin, or Viking Therapeutics?](https://www.fool.com/investing/2026/03/22/got-1500-is-it-better-to-buy-bitcoin-or-viking-the/)**
+
+One of these assets is catalyst-driven; the other isn't.
+
+The Motley Fool • 24m ago
+
+---
+
+**[$Bitcoin (BTC.CC)$](https://www.moomoo.com/community/feed/bitcoin-btc-cc-116272134356998)**
+
+@1033532633213 Views
+
+Moomoo • 1h ago
+
+---
+
 **[$Bitcoin (BTC.CC)$support line broken, likely to test 2 support lines below, short term down trend](https://www.moomoo.com/community/feed/bitcoin-btc-cc-support-line-broken-likely-to-test-2-116271760605190)**
 
 @106524812 5050 Views
@@ -179,27 +193,11 @@ Moomoo • 2h ago
 
 ---
 
-**[XRP price: Ripple linked token falls 3% as bitcoin weakness caps recovery](https://www.coindesk.com/markets/2026/03/22/xrp-falls-3-as-breakdown-below-usd1-44-and-bitcoin-weakness-caps-recovery)**
-
-Traders are watching support near $1.40 as repeated failures below $1.60 reinforce broader downtrend.
-
-CoinDesk • 3h ago
-
----
-
-**[Bitcoin drops below $69,200 as Trump gives 48-hour ultimatum on Iran power plants](https://www.coindesk.com/markets/2026/03/22/bitcoin-drops-below-usd69-200-as-trump-gives-48-hour-ultimatum-on-iran-power-plants)**
-
-BTC fell 2.2% as $299 million in liquidations hit crypto markets, with long positions accounting for 85% of the damage.
-
-CoinDesk • 4h ago
-
----
-
 **[Bitcoin Got Its Biggest Regulatory Win In A Decade—And Dropped To $70,000 Anyway](https://finance.yahoo.com/markets/crypto/articles/bitcoin-got-biggest-regulatory-win-003117136.html)**
 
 “We’re not the securities and everything commission anymore,” SEC Chair Paul Atkins told a crypto conference on Tuesday, minutes after his agency and the CFTC jointly classified Bitcoin and 15 other tokens as digital commodities, not securities. The crowd cheered....
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -219,19 +217,19 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Built Like Bitcoin, Designed for AI: Is Bittensor (TAO) a Buy After Climbing 40% in 1 Month?](https://www.fool.com/investing/2026/03/21/built-like-bitcoin-designed-for-ai-is-bittensor-ta/)**
-
-This coin offers a very appealing mixture of new in-demand services for AI and a proven supply schedule.
-
-The Motley Fool • 23h ago
-
----
-
 **[Bitcoin Price News: Two Early Bitcoin Holders Sold $117M BTC, but Whales Are Buying the Dip at Record Pace](https://247wallst.com/investing/2026/03/21/bitcoin-price-news-two-early-bitcoin-holders-sold-117m-btc-but-whales-are-buying-the-dip-at-record-pace/)**
 
 Two Bitcoin OGs sold $117M in BTC after the Fed decision. But Bitcoin whale wallets are buying the dip as exchange reserves hit a 7-year low.
 
 24/7 Wall St. • 18h ago
+
+---
+
+**[What price will Bitcoin hit on March 21? Trading Odds & Predictions](https://polymarket.com/event/what-price-will-bitcoin-hit-on-march-21)**
+
+View real-time odds for "What price will Bitcoin hit on March 21?" as of March 22, 2026 and trade on The World's Largest Prediction Market™
+
+Polymarket • 6h ago
 
 ---
 
@@ -251,7 +249,7 @@ Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in
 
 Difficulty is now nearly 10% below where it started the year, despite a sharp 14.7% rebound in February after weather-related disruptions subsided.
 
-⬆️ 5 • 💬 1 • 4h ago • [The Block](https://www.theblock.co/post/394579/bitcoin-mining-difficulty-drops-7-8-as-miner-exodus-accelerates-amid-ai-pivot)
+⬆️ 5 • 💬 1 • 5h ago • [The Block](https://www.theblock.co/post/394579/bitcoin-mining-difficulty-drops-7-8-as-miner-exodus-accelerates-amid-ai-pivot)
 
 ---
 
@@ -343,7 +341,7 @@ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 
 
 📺 Altcoin Daily
 
-👁️ 18K • 👍 1K • 💬 151 • ⏱️ 8:36 • 12h ago
+👁️ 18K • 👍 1K • 💬 151 • ⏱️ 8:36 • 13h ago
 
 ---
 
@@ -363,7 +361,7 @@ Bitcoin Vegas 2026: https://fxo.co/JAmn Welcome to the Crypto Lifer Channel! JOI
 
 📺 Crypto Lifer
 
-👁️ 5K • 👍 327 • 💬 36 • ⏱️ 1:10:20 • 8h ago
+👁️ 5K • 👍 327 • 💬 36 • ⏱️ 1:10:20 • 9h ago
 
 ---
 
