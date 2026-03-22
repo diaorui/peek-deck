@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-22T04:32:21.559900+00:00'
+updated: '2026-03-22T05:54:56.247984+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 04:32 UTC  
+**Last Updated:** March 22, 2026 at 05:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.8%  
-**7d:** -10.1%  
-**30d:** +7.1%  
-**90d:** -28.7%  
-**1y:** +5.5%  
+**24h:** -1.7%  
+**7d:** -10.0%  
+**30d:** +7.3%  
+**90d:** -28.6%  
+**1y:** +5.6%  
 
 ---
 
@@ -68,11 +68,11 @@ No max supply
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion March 21, 2026](https://www.reddit.com/r/ethereum/comments/1rzitba/daily_general_discussion_march_21_2026/)**
+**[Daily General Discussion March 22, 2026](https://www.reddit.com/r/ethereum/comments/1s0cxb3/daily_general_discussion_march_22_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+53m ago
 
 ---
 
@@ -80,7 +80,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi everyone, I'd really appreciate some feedback on something we're building on Ethereum. This is pretty much my first time doing this, but my co-founder is way more experienced, he's been a Web3 engineer for a long time. You probably know there are already some projects putting public stocks on-chain as RWAs. What we're trying to do is a bit different: bring the actual chain of custody on-chain for those shares. The issue with normal shares is they're totally fungible so you have zero clue who owned it before you. We want to track that history to unlock some "cultural premium" value as an RWA. Kind of like NFTs but for real shares. For example imagine proving your TSLA share was once held by Elon Musk. That kind of story probably makes it worth more to some people. To make it work we take verified shares (held in proper custody) and wrap them as provenance-wrapped shares on Ethereum smart contracts, using something like ERC-1155 for semi-fungible units, and record the full ownership chain in metadata or on-chain events. We're still in the middle of building, no live contracts or actual trading yet. Just trying to get real opinions early and figure if we're onto something or is this just dumb as hell. It would mean a lot to hear what Ethereum people think: Does provenance tracking for equities as RWAs actually sound useful/valuable, or is it kind of a gimmick? You can check out the demo to see how we're thinking about it in practice: https://provenantx.com https://preview.redd.it/fru8qps46iqg1.png?width=624&format=png&auto=webp&s=d93019bd8ad4a09695879f36d7c32f6f80436582 Thanks a ton for any thoughts!
 
-2h ago
+4h ago
+
+---
+
+**[Daily General Discussion March 21, 2026](https://www.reddit.com/r/ethereum/comments/1rzitba/daily_general_discussion_march_21_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1d ago
 
 ---
 
@@ -104,7 +112,7 @@ I’m looking for a way to swap my Bitcoin to Ethereum without KYC, so obviously
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -120,7 +128,7 @@ Hey everybody, I've been building a no code visual smart contract builder for so
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -140,14 +148,6 @@ The top priority is safety and security. The coins to be stored are ETH and USDC
 
 ---
 
-**[Best crypto cards for global travel right now?](https://www.reddit.com/r/ethereum/comments/1rxbv42/best_crypto_cards_for_global_travel_right_now/)**
-
-I'm traveling next month across a few different countries and really want to spend some of my gains without off-ramping to fiat and dealing with my bank's absolute BS regarding foreign transaction fees. I used to use the Binance card heavily but, well, you know how that ended for a lot of regions. I saw BitMart has a card out now with their 8th anniversary promotions, and Coinbase obviously has their established one. Has anyone used the BitMart card specifically in Europe or Southeast Asia? I'm mainly looking for decent conversion spreads at the point of sale and no hidden monthly maintenance fees
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ I'm traveling next month across a few different countries and really want to spe
 
 Ethereum, XRP, and Solana prices remained firm as the broader crypto market hovered slightly above the $70,000 level on renewed optimism.   Ethereum price
 
-CoinGape • 17h ago
+CoinGape • 18h ago
 
 ---
 
@@ -168,7 +168,7 @@ Fortune • 1d ago
 
 ---
 
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqdvD7hdXvWhm4gZrrgdB2NrB0jMCwgn0-qW_P4JbRan5ueHD00NcYmi&gaa_ts=69bf743f&gaa_sig=w7oI7sJL4nIGqT5TFWFukZMAV838YZV0PxzE9avznB98k3kOc9lBWOTpEodyI1UXq3QLckjgC8EFxAeTLH-EHg%3D%3D)**
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqfIdcNIXhNKOJJruMf9zHSTlCGZ-pf7R_J1-R5w_FYz5Ozg1-Sn5ZRh&gaa_ts=69bf8797&gaa_sig=kbugcJEc4D_Ss08OwXoe6TmwPLZ0MOt82P6D8uD0ZpzWuO0ZqEoaA03jhmsLFAo_5_HOGk2gQRojNxRCzVu3Rw%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -194,7 +194,7 @@ New York Post • 1d ago
 
 Ethereum’s native token, Ether BITSTAMP:ETHUSD, may rise by around 25% in the coming months as its richest whale group becomes profitable for the first time since early February.Key takeaways:Whale metric signals ETH is bottoming alreadyThe unrealized profit ratio of wallets holding more than 100,0…
 
-TradingView • 12h ago
+TradingView • 13h ago
 
 ---
 
@@ -202,7 +202,7 @@ TradingView • 12h ago
 
 Ethereum’s stablecoin flows remain strong, with BMNR staking ETH. Is this a setup to position Ethereum as the main settlement layer for AI?
 
-AMBCrypto • 1h ago
+AMBCrypto • 2h ago
 
 ---
 
@@ -210,7 +210,7 @@ AMBCrypto • 1h ago
 
 QBridge connects Qubic to Ethereum with a non-custodial, audited cross-chain bridge. Lock QUBIC, mint wQUBIC as an ERC-20 token, and access Ethereum DeFi. IPO live in Epoch 205.
 
-Qubic • 16h ago
+Qubic • 17h ago
 
 ---
 
@@ -222,9 +222,11 @@ The Block • 2d ago
 
 ---
 
-**[Ethereum Price Prediction: Pepeto Raises $8M Fast as ETH Tests $2.1K Support and the S&P 500 Goes Live on Chain](https://financefeeds.com/ethereum-price-prediction-pepeto-raises-8m-fast-as-eth-tests-2-1k-support-and-the-sp-500-goes-live-on-chain/)**
+**[Will Ethereum Ever Hit $5,000?](https://www.fool.com/investing/2026/03/20/will-ethereum-ever-hit-5000/)**
 
-FinanceFeeds • 6h ago
+Ethereum hit a new record high in 2025, but it still fell short of the $5,000 milestone.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -238,7 +240,7 @@ BlackRock just launched a staking Ethereum ETF—but is it really a win for inve
 
 📺 Coin Bureau
 
-👁️ 12K • 👍 610 • 💬 73 • ⏱️ 18:11 • 14h ago
+👁️ 12K • 👍 610 • 💬 73 • ⏱️ 18:11 • 15h ago
 
 ---
 
@@ -248,7 +250,7 @@ BITCOIN PRICE HISTORY REPEATING (Get Ready)!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 4K • 👍 194 • 💬 40 • ⏱️ 13:52 • 5h ago
+👁️ 4K • 👍 194 • 💬 40 • ⏱️ 13:52 • 7h ago
 
 ---
 
@@ -278,7 +280,7 @@ BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Start your trading j
 
 📺 Ashutosh Kumar
 
-👁️ 4K • 👍 478 • 1h ago
+👁️ 4K • 👍 478 • 3h ago
 
 ---
 
@@ -288,7 +290,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 326 • 👍 14 • 💬 1 • ⏱️ 5:16 • 18h ago
+👁️ 326 • 👍 14 • 💬 1 • ⏱️ 5:16 • 19h ago
 
 ---
 
@@ -316,7 +318,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 97 • 💬 5 • ⏱️ 4:32 • 14h ago
+👁️ 1K • 👍 97 • 💬 5 • ⏱️ 4:32 • 15h ago
 
 ---
 
@@ -326,7 +328,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 343 • 👍 91 • 💬 33 • ⏱️ 14:05 • 2h ago
+👁️ 343 • 👍 91 • 💬 33 • ⏱️ 14:05 • 4h ago
 
 ---
 

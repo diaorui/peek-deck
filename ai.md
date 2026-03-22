@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-22T04:32:21.545435+00:00'
+updated: '2026-03-22T05:54:56.235490+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- videos
 - repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 22, 2026 at 04:32 UTC  
+**Last Updated:** March 22, 2026 at 05:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I am a painter with work at MoMA and the Met. I just published 50 years of my work as an open AI dataset. Here is what I learned. I have been making figurative art since the 1970s. Oil on canvas, works on paper, drawings, etchings, lithographs, and more recently digital works. My paintings are in the collections of the Metropolitan Museum of Art, MoMA, SFMOMA, and the British Museum. Earlier this month I published my entire catalog raisonne as an open dataset on Hugging Face. Roughly 3,000 to 4,000 documented works with full metadata, CC-BY-NC-4.0 licensed. My total output is about double that and I will keep adding to it. In one week the dataset has had over 2,500 downloads. I am not a developer or a researcher. I am an artist who has spent fifty years painting the human figure. I did this because I want my work to have a future and the future involves AI. I would rather engage with that on my own terms than wait for it to happen to me. What surprised me is how quickly the research community found it and engaged with it. What did not surprise me is that the questions the dataset raises are the same questions my paintings have always asked. What does it mean to look at the human body? What does the machine see that the human does not? What does the human see that the machine cannot? I do not have answers. I have fifty years of looking. If you have downloaded it or are thinking about it I would genuinely like to hear what you are doing with it. Dataset: huggingface.co/datasets/Hafftka/michael-hafftka-catalog-raisonne
 
-24m ago
+1h ago
 
 ---
 
@@ -49,7 +49,7 @@ I am a painter with work at MoMA and the Met. I just published 50 years of my wo
 
 Growth without people.
 
-🔗 [driscollglobe.com](https://www.driscollglobe.com/p/the-intelligence-curse-is-coming) • 9h ago
+🔗 [driscollglobe.com](https://www.driscollglobe.com/p/the-intelligence-curse-is-coming) • 10h ago
 
 ---
 
@@ -57,7 +57,7 @@ Growth without people.
 
 I keep seeing more and more companies say that they're going to reduce hallucination and drift and mistakes made by Al by adding supervisor or manager Al on top of them that will review everything that those Al agents are doing. that seems to be the way. another thing I'm seeing is adding multiple Al judges to evaluate the output and those companies are running around touting their low percentage false positives or mistakes adding additional Al agents on top of Al agents reduce mistakes is like wrapping yourself in a wet blanket and then adding more with blankets to keep you warm when you're freezing. you will freeze, it will just take longer, and it's going to use a lot of blankets. I don't understand. the blind warship of pure Al solutions. we have software that can achieve determinism. we know this. hybrid solutions between Al and software is the only way forward
 
-1h ago
+3h ago
 
 ---
 
@@ -73,7 +73,7 @@ So we built an internal AI tool with a pretty detailed system prompt, includes i
 
 following up on a discussion from earlier a pattern that keeps showing up in real systems: most control happens after execution - retries - state checks - monitoring - idempotency patches but the actual decision to execute is often implicit if the agent can call the tool, the action runs in most other systems we separate: - capability (can call) - authority (allowed to execute) agents usually collapse those into one so the question becomes: where should the actual allow/deny decision live? - inside the agent loop? - inside tool wrappers? - as a centralized policy layer? - somewhere else entirely? or are we all still letting the agent decide and patching things after the fact?
 
-9h ago
+10h ago
 
 ---
 
@@ -81,7 +81,7 @@ following up on a discussion from earlier a pattern that keeps showing up in rea
 
 SysSignal is for people who follow AI + data center infrastructure. It aggregates news across the space and creates a daily summary of the biggest topics, so it’s easier to keep up without bouncing between sites. Mostly built it for myself, but figured others here might get value from it too. If you find feeds that would be useful you can submit them through the website and we can get them added in. Feel free to give any feedback and critiques!
 
-🔗 [syssignal.com](https://syssignal.com/) • 10h ago
+🔗 [syssignal.com](https://syssignal.com/) • 11h ago
 
 ---
 
@@ -95,7 +95,7 @@ With AI becoming more and more of a topic, does anyone here ever thing about wha
 
 **[Nvidia "confirms" DLSS 5 relies on 2D frame data as testing reveals hallucinations](https://www.reddit.com/r/artificial/comments/1rzjgdh/nvidia_confirms_dlss_5_relies_on_2d_frame_data_as/)**
 
-🔗 [techspot.com](https://www.techspot.com/news/111770-nvidia-confirms-dlss-5-relies-2d-frame-data.html) • 22h ago
+🔗 [techspot.com](https://www.techspot.com/news/111770-nvidia-confirms-dlss-5-relies-2d-frame-data.html) • 1d ago
 
 ---
 
@@ -121,7 +121,7 @@ Chemists may soon have one less rigorous step to worry about when searching for 
 
 Dozens of Instagram and TikTok accounts have used AI avatars to promote explicit content, the BBC finds.
 
-BBC • 3h ago
+BBC • 5h ago
 
 ---
 
@@ -129,13 +129,19 @@ BBC • 3h ago
 
 At Nvidia's GTC conference this week, CEO Nvidia Jensen Huang dedicated a major part of his keynote to OpenClaw, a technology that didn't exist six months ago.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
 **[Elon Musk announces $20B Terafab chip plant for Austin as AI ambitions escalate](https://www.kxan.com/news/local/austin/musk-announces-20b-terafab-chip-plant-for-austin-as-ai-ambitions-escalate/)**
 
-KXAN Austin • 57m ago
+KXAN Austin • 2h ago
+
+---
+
+**[How Home Buyers Are Using AI for the Property Hunt](https://www.barrons.com/articles/home-buyers-sellers-use-ai-property-a1d24125?gaa_at=eafs&gaa_n=AWEtsqcUs6Ckt-9atyM9iD4-Yzq974ELk-NqR3LdSNZ8k2PPo9XSMa-iusl1&gaa_ts=69bf8796&gaa_sig=eMVCZ_K-f-3u4gfCC6q9OeIG9qvttI0aMoMqmRTQXs6GLr89QN577m0HLZIME5gSsPg39RQESfStzzyh7EZ5wA%3D%3D)**
+
+Barron's • 54m ago
 
 ---
 
@@ -143,15 +149,37 @@ KXAN Austin • 57m ago
 
 Elon Musk said his Terafab project, a joint Tesla and SpaceX chip manufacturing initiative, will be needed to unlock a terawatt of AI computing power.
 
-Business Insider • 12m ago
+Business Insider • 1h ago
 
 ---
 
-**[A man let ChatGPT sell his home. It beat every agent's estimate by $100K—and closed in 5 days](https://fortune.com/2026/03/21/florida-man-chatgpt-sells-house-ai-jobs-marketing-pricing/)**
+**[Where Is Mojtaba Khamenei? Iran Fills the Gap With AI and Voice-Overs](https://www.wsj.com/world/middle-east/where-is-mojtaba-khamenei-iran-fills-the-gap-with-ai-and-voice-overs-912b3827?gaa_at=eafs&gaa_n=AWEtsqcILvNh3seJz9tERcfh_LtY-VFPU5rzDWmH7gKuwSctqw0JfcIoHlKr&gaa_ts=69bf8796&gaa_sig=_jrQj-91e5mmJiNeQHeXxLRBbDud5I11zmdXIexD5nI1WqZWS20W-SdBzpcZDL03qVRIuOiR4-4nwkWjq5GCHA%3D%3D)**
 
-The technology assisted with everything from marketing and pricing to suggesting which walls to repaint.
+WSJ • 14h ago
 
-Fortune • 19h ago
+---
+
+**[Iran War Threatens AI Chip Supply as Critical Minerals at Risk](https://www.morningstar.com/stocks/iran-war-threatens-ai-chip-supply-critical-minerals-risk)**
+
+Iran war threatens semiconductor supply as key materials like helium and aluminum face disruption. What it means for AI and Big Tech.
+
+Morningstar • 21h ago
+
+---
+
+**[Streamlining the kill chain: how AI is changing modern warfare](https://www.france24.com/en/middle-east/20260321-streamlining-the-kill-chain-how-ai-is-changing-modern-warfare-iran)**
+
+The US-Israeli war with Iran has put AI use in defence systems in the spotlight like never before. AI's exact role in the military, its accuracy and possible repercussions are slowly beginning to emerge…
+
+France 24 • 23h ago
+
+---
+
+**[‘Godfather of AI’ says tech companies aren’t concerned with the AI endgame. They’re focused on short-term profits instead](https://fortune.com/article/godfather-ai-geoffrey-hinton-big-tech-profits-superintelligence/)**
+
+“Researchers are interested in solving problems that have their curiosity. It’s not like we start off with the same goal of, what’s the future of humanity going to be?”
+
+Fortune • 16h ago
 
 ---
 
@@ -159,37 +187,7 @@ Fortune • 19h ago
 
 Michael Smith, 52, charged after flooding platforms with thousands of AI songs and boosting them with bots
 
-The Guardian • 9h ago
-
----
-
-**[Where Is Mojtaba Khamenei? Iran Fills the Gap With AI and Voice-Overs](https://www.wsj.com/world/middle-east/where-is-mojtaba-khamenei-iran-fills-the-gap-with-ai-and-voice-overs-912b3827?gaa_at=eafs&gaa_n=AWEtsqf9-Xy11AL1YlZ0qkdZ4W_-7XAluA67yscv_nwkVtX1cjy0yQ1fyc1H&gaa_ts=69bf743b&gaa_sig=jrsQeEQpzm-LdlHzG7SZ5Ng35dOPjL4w7bMUnMC-VudmL6PS3IQTYzKQP6GckBwLfsHcSW1Rbg1_qoXBlVdaRg%3D%3D)**
-
-WSJ • 13h ago
-
----
-
-**[I Tried DoorDash’s Tasks App and Saw the Bleak Future of AI Gig Work](https://www.wired.com/story/i-tried-doordashs-tasks-app-and-saw-the-bleak-future-of-ai-gig-work/)**
-
-I recorded videos of myself doing laundry, scrambling eggs, and walking around the park in DoorDash’s new Tasks app, where gig workers are paid to train AI.
-
-WIRED • 17h ago
-
----
-
-**[These people used AI to help find their lost pets](https://www.washingtonpost.com/lifestyle/2026/03/21/ai-lost-pet-petco/)**
-
-“As controversial as AI is right now, this is one of those areas where it’s a real win,” said Julie Castle, chief executive of Best Friends Animal Society.
-
-The Washington Post • 9h ago
-
----
-
-**[How Pokémon Go players helped train AI delivery robots](https://www.cnn.com/2026/03/21/business/video/pokemon-go-players-helped-train-ai-robots-digvid-vrtc)**
-
-Pokémon Go creator Niantic Spatial reportedly used 30 billion images crowdsourced from players to build a map that will train delivery robots in a new AI venture.
-
-CNN • 23h ago
+The Guardian • 10h ago
 
 ---
 
@@ -201,7 +199,7 @@ CNN • 23h ago
 
 OpenCode - The open source coding agent.
 
-⬆️ 1202 • 💬 594 • 1d ago • [opencode.ai](https://opencode.ai/)
+⬆️ 1204 • 💬 594 • 1d ago • [opencode.ai](https://opencode.ai/)
 
 ---
 
@@ -209,7 +207,7 @@ OpenCode - The open source coding agent.
 
 As the Charles de Gaulle and its strike group approach the Middle East, Le Monde identified a French sailor using the Strava fitness application in the Mediterranean Sea. This security flaw remains unaddressed despite our previous revelations.
 
-⬆️ 618 • 💬 507 • 1d ago • [Le Monde.fr](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
+⬆️ 619 • 💬 508 • 1d ago • [Le Monde.fr](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
 
 ---
 
@@ -217,21 +215,13 @@ As the Charles de Gaulle and its strike group approach the Middle East, Le Monde
 
 Imagine a newspaper publisher announcing it will no longer allow libraries to keep copies of its paper. That’s effectively what’s begun happening online in the last few months. The Internet Archive—the world’s largest digital library—has preserved newspapers since it went online in the mid-1990s....
 
-⬆️ 501 • 💬 140 • 21h ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
+⬆️ 507 • 💬 140 • 22h ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
 
 ---
 
 **[Tinybox – Offline AI device 120B parameters](https://news.ycombinator.com/item?id=47470773)**
 
-⬆️ 383 • 💬 232 • 8h ago • [tinygrad.org](https://tinygrad.org/#tinybox)
-
----
-
-**[What 81,000 people want from AI](https://news.ycombinator.com/item?id=47435156)**
-
-Last December, tens of thousands of Claude users around the world had a conversation with our AI interviewer to share how they use AI, what they dream it could make possible, and what they fear it might do.
-
-⬆️ 198 • 💬 188 • 2d ago • [anthropic.com](https://www.anthropic.com/features/81k-interviews)
+⬆️ 412 • 💬 251 • 9h ago • [tinygrad.org](https://tinygrad.org/#tinybox)
 
 ---
 
@@ -259,7 +249,7 @@ Qwen3.5-9B scores 93.8% on 96 real security AI tests — within 4 points of GPT-
 
 **[Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning](https://news.ycombinator.com/item?id=47467913)**
 
-⬆️ 104 • 💬 58 • 13h ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
+⬆️ 114 • 💬 64 • 14h ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
 
 ---
 
@@ -272,7 +262,15 @@ Much faster and better search with the daemon
 
 The daemon has existed for a long time, and has been marked as "experimental" for
 
-⬆️ 86 • 💬 73 • 17h ago • [The Atuin Blog](https://blog.atuin.sh/atuin-v18-13/)
+⬆️ 88 • 💬 73 • 19h ago • [The Atuin Blog](https://blog.atuin.sh/atuin-v18-13/)
+
+---
+
+**[Senior European journalist suspended over AI-generated quotes](https://news.ycombinator.com/item?id=47467566)**
+
+Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of hallucinations’, after investigation by newspaper where he was once editor-in-chief
+
+⬆️ 84 • 💬 74 • 15h ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes)
 
 ---
 
@@ -306,7 +304,7 @@ Want to get resources from this livestream? Sign up here so I can email them to 
 
 📺 Tina Huang
 
-👁️ 11K • 👍 766 • 💬 41 • ⏱️ 1:26:45 • 13h ago
+👁️ 11K • 👍 766 • 💬 41 • ⏱️ 1:26:45 • 14h ago
 
 ---
 
@@ -326,7 +324,7 @@ The AI boom has rocketed the stock prices of Nvidia, Amazon, Apple, Tesla, Micro
 
 📺 New Money
 
-👁️ 43K • 👍 2K • 💬 176 • ⏱️ 15:50 • 15h ago
+👁️ 43K • 👍 2K • 💬 176 • ⏱️ 15:50 • 17h ago
 
 ---
 
@@ -336,7 +334,7 @@ Since ChatGPT's debut, AI has been framed as everything from a world-changing br
 
 📺 Bloomberg Television
 
-👁️ 27K • 👍 862 • 💬 131 • ⏱️ 12:20 • 14h ago
+👁️ 27K • 👍 862 • 💬 131 • ⏱️ 12:20 • 15h ago
 
 ---
 
@@ -346,7 +344,7 @@ Subscribe to my FREE Finance Newsletter now – weekly crypto & market insights 
 
 📺 Levi
 
-👁️ 17K • 👍 929 • 💬 133 • ⏱️ 9:26 • 11h ago
+👁️ 17K • 👍 929 • 💬 133 • ⏱️ 9:26 • 12h ago
 
 ---
 
@@ -366,7 +364,7 @@ The market doesn't send warnings in headlines. It sends them in signals. And one
 
 📺 House of El
 
-👁️ 86K • 👍 7K • 💬 798 • ⏱️ 8:26 • 14h ago
+👁️ 86K • 👍 7K • 💬 798 • ⏱️ 8:26 • 15h ago
 
 ---
 
@@ -527,7 +525,7 @@ A multi-agent framework using large language models for stock trading simulates 
 Residual connections with PreNorm are standard in modern LLMs, yet they accumulate all layer outputs with fixed unit weights. This uniform aggregation causes uncontrolled hidden-state growth with depth, progressively diluting each layer's contribution. We propose Attention Residuals (AttnRes), which replaces this fixed accumulation with softmax attention over preceding layer outputs, allowing each layer to selectively aggregate earlier representations with learned, input-dependent weights. To address the memory and communication overhead of attending over all preceding layer outputs for large-scale model training, we introduce Block AttnRes, which partitions layers into blocks and attends over block-level representations, reducing the memory footprint while preserving most of the gains of full AttnRes. Combined with cache-based pipeline communication and a two-phase computation strategy, Block AttnRes becomes a practical drop-in replacement for standard residual connections with minimal overhead.
   Scaling law experiments confirm that the improvement is consistent across model sizes, and ablations validate the benefit of content-dependent depth-wise selection. We further integrate AttnRes into the Kimi Linear architecture (48B total / 3B activated parameters) and pre-train on 1.4T tokens, where AttnRes mitigates PreNorm dilution, yielding more uniform output magnitudes and gradient distribution across depth, and improves downstream performance across all evaluated tasks.
 
-▲ 132 • 💬 4 • ⭐ 2,419 • 5d ago
+▲ 132 • 💬 4 • ⭐ 2,419 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.15031) • [💻 code](https://github.com/MoonshotAI/Attention-Residuals)
 
@@ -605,7 +603,7 @@ A continual meta-learning framework for large language model agents that jointly
 
 EvoScientist is an adaptive multi-agent framework that enhances scientific discovery by continuously learning from past interactions through persistent memory modules.
 
-▲ 14 • 💬 5 • ⭐ 1,403 • 12d ago
+▲ 14 • 💬 5 • ⭐ 1,403 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.08127) • [💻 code](https://github.com/EvoScientist/EvoScientist)
 
@@ -657,7 +655,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 21.9k • 🔱 1.0k • 18h ago
+⭐ 21.9k • 🔱 1.0k • 20h ago
 
 ---
 
@@ -687,7 +685,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.2k • 🔱 741 • 22h ago
+⭐ 10.2k • 🔱 741 • 23h ago
 
 ---
 
@@ -697,7 +695,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 9.7k • 🔱 492 • 11h ago
+⭐ 9.7k • 🔱 492 • 12h ago
 
 ---
 
@@ -707,7 +705,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 6.1k • 🔱 917 • 6h ago
+⭐ 6.1k • 🔱 917 • 7h ago
 
 ---
 
@@ -717,7 +715,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 3.8k • 🔱 323 • 20m ago
+⭐ 3.8k • 🔱 323 • 1h ago
 
 ---
 
@@ -727,7 +725,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `Python` `ai-agents` `claude` `claude-code` `cloud-security` `cybersecurity`
 
-⭐ 3.6k • 🔱 355 • 15h ago
+⭐ 3.6k • 🔱 355 • 16h ago
 
 ---
 

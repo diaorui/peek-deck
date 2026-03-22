@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-22T04:32:21.553864+00:00'
+updated: '2026-03-22T05:54:56.242812+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 04:32 UTC  
+**Last Updated:** March 22, 2026 at 05:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,875.98
+### $69,252.44
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** -7.2%  
-**30d:** +2.2%  
-**90d:** -20.4%  
-**1y:** -19.2%  
+**24h:** -2.2%  
+**7d:** -7.6%  
+**30d:** +1.7%  
+**90d:** -20.8%  
+**1y:** -19.5%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 An excellent book about all the details, even people who fought the Blocksize war might have missed: https://www.youtube.com/watch?v=6YtS5ZNuuTw And excellent explanation of r/thelightningnetwork: https://www.youtube.com/watch?v=yKdK-7AtAMQ A bonus video. Lyn Alden's Full Broken Money Thesis in under 50min: https://www.youtube.com/watch?v=k3NN_NZOdhY
 
-8h ago
+9h ago
 
 ---
 
@@ -89,7 +89,7 @@ An excellent book about all the details, even people who fought the Blocksize wa
 
 Morgan Stanley allows clients to allocate between 0-4% of their portfolioa to bitcoin. Even a modest 2% could add $160 Billion dollars in capital to the BTC market.
 
-🔗 [Bitcoin Magazine](https://share.google/eNr25Ee6vq1fB2Lv1) • 6h ago
+🔗 [Bitcoin Magazine](https://share.google/eNr25Ee6vq1fB2Lv1) • 7h ago
 
 ---
 
@@ -99,11 +99,11 @@ Morgan Stanley allows clients to allocate between 0-4% of their portfolioa to bi
 
 ---
 
-**[Have you seen it? The scientist said that BTC will reach $350K ~ $700K without FOMO between mid 2027 ~ end 2028.](https://www.reddit.com/r/Bitcoin/comments/1rzo7jq/have_you_seen_it_the_scientist_said_that_btc_will/)**
+**[Lost BTC wallet from 2013](https://www.reddit.com/r/Bitcoin/comments/1s0at4i/lost_btc_wallet_from_2013/)**
 
-Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perrenod
+Hey all, I have a friend who is definitely not tech-savvy who mentioned that she bought about 20 BTC as a joke in 2013. She says she documented all of the procedures and passwords at the behest of a tech friend she doesn't speak to any longer. She also still has the laptop from 2013 that she apparently did all this with, which doesn't seem to boot up. I did help her find the exchange she used and confirmed through the log that she sent 16.1 BTC to this wallet of hers. I have been researching the common wallets and am not sure if she had a web-based or software-based wallet. I believe (hoping) it was software-based and found the top five from that time. Apparently the web-based wallets suffered a high casualty rate. So it seems like it would be best to get the original laptop working again, even though she said she backed it up, the Bitcoin-related data was apparently on a different partition and I don't think she backed up that partition, as she just did time machine backups. Seems like a good next step? Thanks in advance.
 
-17h ago
+2h ago
 
 ---
 
@@ -111,21 +111,21 @@ Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perreno
 
 Been watching the markets lately and keep wanting to throw more money at these lower prices curious what everyone else is doing with their investment split between crypto and the usual stuff like index funds stocks bonds etc what percentage you running and why did you choose that amount also probably spending too much time refreshing charts instead of studing but whatever
 
-3h ago
+4h ago
 
 ---
 
-**[Lost BTC wallet from 2013](https://www.reddit.com/r/Bitcoin/comments/1s0at4i/lost_btc_wallet_from_2013/)**
+**[Have you seen it? The scientist said that BTC will reach $350K ~ $700K without FOMO between mid 2027 ~ end 2028.](https://www.reddit.com/r/Bitcoin/comments/1rzo7jq/have_you_seen_it_the_scientist_said_that_btc_will/)**
 
-Hey all, I have a friend who is definitely not tech-savvy who mentioned that she bought about 20 BTC as a joke in 2013. She says she documented all of the procedures and passwords at the behest of a tech friend she doesn't speak to any longer. She also still has the laptop from 2013 that she apparently did all this with, which doesn't seem to boot up. I did help her find the exchange she used and confirmed through the log that she sent 16.1 BTC to this wallet of hers. I have been researching the common wallets and am not sure if she had a web-based or software-based wallet. I believe (hoping) it was software-based and found the top five from that time. Apparently the web-based wallets suffered a high casualty rate. So it seems like it would be best to get the original laptop working again, even though she said she backed it up, the Bitcoin-related data was apparently on a different partition and I don't think she backed up that partition, as she just did time machine backups. Seems like a good next step? Thanks in advance.
+Astrophysicist: The Best Bitcoin Explanation You've Ever Heard | Stephen Perrenod
 
-1h ago
+19h ago
 
 ---
 
 **[Lightning Network might be already moving over $15B/year based on most recent data](https://www.reddit.com/r/Bitcoin/comments/1rztn0r/lightning_network_might_be_already_moving_over/)**
 
-🔗 [X (formerly Twitter)](https://x.com/LightningNewsX/status/2035261125630001359?s=20) • 13h ago
+🔗 [X (formerly Twitter)](https://x.com/LightningNewsX/status/2035261125630001359?s=20) • 14h ago
 
 ---
 
@@ -133,7 +133,7 @@ Hey all, I have a friend who is definitely not tech-savvy who mentioned that she
 
 hi, just checking in to say hi I am generally a conservative broad index ETF investor for most of my savings but jn recent years have also been buying bitcoin and and now hold 1,1 BTC. I am torn between contirnuing to buy a bit every month or stopping altogether having achieve wholecoinership. I would be interested to know how other stackers approach this
 
-9h ago
+10h ago
 
 ---
 
@@ -149,7 +149,7 @@ Note to the newbies: DCA & HODL is always the name of the game. Also, get Lyn Al
 
 I have created a Docker version of ckpool. Unlike every other version I can find, this one uses all available assembly optimisations supported by ckpool for Intel and ARM CPUs. https://hub.docker.com/r/pdath/ckpool-solo https://github.com/pdath/ckpool-solo-docker
 
-3h ago
+5h ago
 
 ---
 
@@ -161,7 +161,7 @@ I have created a Docker version of ckpool. Unlike every other version I can find
 
 Despite stabilizing spot prices, investors remain defensive, with leveraged speculation cooling and realized volatility dropping from 80 to 50, suggesting a cautious market sentiment.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -169,39 +169,43 @@ CoinDesk • 9h ago
 
 Two Bitcoin OGs sold $117M in BTC after the Fed decision. But Bitcoin whale wallets are buying the dip as exchange reserves hit a 7-year low.
 
-24/7 Wall St. • 12h ago
+24/7 Wall St. • 13h ago
 
 ---
 
-**[Bitcoin Got Its Biggest Regulatory Win In A Decade—And Dropped To $70,000 Anyway](https://finance.yahoo.com/markets/crypto/articles/bitcoin-got-biggest-regulatory-win-003117136.html)**
+**[Better Asset to Buy Now With $500 and Hold for 3 Years: Bitcoin vs. Gold](https://www.fool.com/investing/2026/03/22/better-asset-to-buy-now-with-500-and-hold-for-3-ye/)**
 
-“We’re not the securities and everything commission anymore,” SEC Chair Paul Atkins told a crypto conference on Tuesday, minutes after his agency and the CFTC jointly classified Bitcoin and 15 other tokens as digital commodities, not securities. The crowd cheered....
+We live in interesting times, and these assets are built for exactly that.
 
-Yahoo Finance • 4h ago
+The Motley Fool • 57m ago
 
 ---
 
-**[The chart has been a warning for all traders as the cliff is near the apax and it will happen anytime as a surprise‼️](https://www.moomoo.com/community/feed/bitcoin-btc-cc-the-chart-has-been-a-warning-for-116270402502662)**
-
-@Krazy8 6221 Views|4 Likes
+**[Weekly Snapshot: Crypto Market Holds Steady As Bitcoin and Ethereum Consolidate](https://www.moomoo.com/news/post/67214991/weekly-snapshot-crypto-market-holds-steady-as-bitcoin-and-ethereum)**
 
 Moomoo • 2h ago
 
 ---
 
-**[MicroStrategy Preferred Stock Reshapes Institutional Bitcoin Access And Investor Tradeoffs](https://finance.yahoo.com/markets/crypto/articles/microstrategy-preferred-stock-reshapes-institutional-020411773.html)**
+**[Better Asset to Buy Now With $500 and Hold for 3 Years: Bitcoin vs. Gold](https://finance.yahoo.com/markets/commodities/articles/better-asset-buy-now-500-045000521.html)**
 
-MicroStrategy (NasdaqGS:MSTR) has issued a high yield Perpetual Stretch Preferred Stock tied to its Bitcoin strategy. Anthony Scaramucci of SkyBridge Capital has called this preferred structure an "iPhone moment" for Bitcoin. The product is being framed as a potential catalyst for broader global institutional adoption of Bitcoin exposure. MicroStrategy, best known recently for large scale Bitcoin holdings alongside its enterprise analytics business, is now drawing attention for how it...
+We live in interesting times, and these assets are built for exactly that.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Built Like Bitcoin, Designed for AI: Is Bittensor (TAO) a Buy After Climbing 40% in 1 Month?](https://www.fool.com/investing/2026/03/21/built-like-bitcoin-designed-for-ai-is-bittensor-ta/)**
+**[Bitcoin long-term holder selling slows, signaling 'potentially constructive' trend: VanEck](https://www.theblock.co/post/394467/bitcoin-long-term-holder-activity-slows-vaneck)**
 
-This coin offers a very appealing mixture of new in-demand services for AI and a proven supply schedule.
+VanEck's latest report noted that the selling pressure among bitcoin miners remained steady despite a decline in profitability.
 
-The Motley Fool • 17h ago
+The Block • 1d ago
+
+---
+
+**[White House Quietly Confirms A ‘Major’ Crypto Milestone As Bitcoin Braces For A Huge Price Earthquake](https://www.forbes.com/sites/digital-assets/2026/03/21/white-house-quietly-confirms-a-major-crypto-milestone-as-bitcoin-braces-for-a-huge-price-earthquake/)**
+
+Forbes • 17h ago
 
 ---
 
@@ -213,12 +217,6 @@ Polymarket • 1d ago
 
 ---
 
-**[White House Quietly Confirms A ‘Major’ Crypto Milestone As Bitcoin Braces For A Huge Price Earthquake](https://www.forbes.com/sites/digital-assets/2026/03/21/white-house-quietly-confirms-a-major-crypto-milestone-as-bitcoin-braces-for-a-huge-price-earthquake/)**
-
-Forbes • 16h ago
-
----
-
 **[Retail investors aren’t crazy for Farage and Kwarteng’s bitcoin business](https://www.ft.com/content/f9849a1a-7d8a-4806-babd-b32c4d3105c5)**
 
 Unpopular
@@ -227,9 +225,11 @@ Financial Times • 1d ago
 
 ---
 
-**[Bitcoin Falls Below $70,000. It’s Not Just the Fed Decision Dragging on the Crypto, XRP.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-fed-powell-oil-033bcaee?gaa_at=eafs&gaa_n=AWEtsqe-4fLB-oSrOjzGQ3_v20I4SIyDDqAq2deJzI4ahqKzHeARFoqkqO5E&gaa_ts=69bf743d&gaa_sig=GxoaWdVTkmZ6v4Q1Nxm8vvfAnjVs2TtuXjYr8aPPdqPr6efQ_kkuYI1l33B4jiloHD0lhglw-jqOxQ3d7l_c5w%3D%3D)**
+**[Bitcoin Slips to $68K as Trump Strait of Hormuz Warning Sparks Mass Liquidations](https://news.bitcoin.com/bitcoin-slips-to-68k-as-trump-strait-of-hormuz-warning-sparks-mass-liquidations/)**
 
-Barron's • 2d ago
+Bitcoin slipped Saturday evening after President Trump posted that the U.S. would obliterate Iran’s power plants.
+
+Bitcoin.com News • 5h ago
 
 ---
 
@@ -242,6 +242,14 @@ Barron's • 2d ago
 Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in. Proof that works without us.
 
 ⬆️ 6 • 💬 0 • 2d ago • [Umarise](https://umarise.com/blog/proof-of-existence)
+
+---
+
+**[Bitcoin mining difficulty drops 7.8% as miner exodus accelerates amid AI pivot](https://news.ycombinator.com/item?id=47474784)**
+
+Difficulty is now nearly 10% below where it started the year, despite a sharp 14.7% rebound in February after weather-related disruptions subsided.
+
+⬆️ 2 • 💬 1 • 17m ago • [The Block](https://www.theblock.co/post/394579/bitcoin-mining-difficulty-drops-7-8-as-miner-exodus-accelerates-amid-ai-pivot)
 
 ---
 
@@ -263,7 +271,7 @@ Seal predictions and decisions with cryptographic proof anchored to Bitcoin. No 
 
 Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 33 chain analysis heuristics. Free, client-side, no tracking.
 
-⬆️ 1 • 💬 0 • 11h ago • [am-i.exposed](https://am-i.exposed/)
+⬆️ 1 • 💬 0 • 12h ago • [am-i.exposed](https://am-i.exposed/)
 
 ---
 
@@ -293,7 +301,7 @@ Bitcoin just scored a massive regulatory win that changes everything for develop
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 971 • 💬 59 • ⏱️ 21:11 • 5h ago
+👁️ 12K • 👍 971 • 💬 59 • ⏱️ 21:11 • 6h ago
 
 ---
 
@@ -303,7 +311,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 39K • 👍 2K • 💬 129 • ⏱️ 59:39 • 15h ago
+👁️ 39K • 👍 2K • 💬 129 • ⏱️ 59:39 • 16h ago
 
 ---
 
@@ -323,7 +331,7 @@ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 
 
 📺 Altcoin Daily
 
-👁️ 12K • 👍 890 • 💬 94 • ⏱️ 8:36 • 6h ago
+👁️ 12K • 👍 890 • 💬 94 • ⏱️ 8:36 • 8h ago
 
 ---
 
@@ -351,7 +359,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 My Channel
 
-👁️ 7K • 👍 1K • 14h ago
+👁️ 7K • 👍 1K • 16h ago
 
 ---
 
@@ -371,7 +379,7 @@ Ric Edelman gives Jenn Sanasie his Bitcoin prediction if the CLARITY Act passes.
 
 📺 CoinDesk
 
-👁️ 7K • 👍 24 • 💬 5 • ⏱️ 0:19 • 22h ago
+👁️ 7K • 👍 24 • 💬 5 • ⏱️ 0:19 • 1d ago
 
 ---
 
@@ -381,7 +389,7 @@ Coin Deals HERE https://solo.to/couchcollectibles FREE $15 Credit: https://www.w
 
 📺 Couch Collectibles
 
-👁️ 538 • 👍 31 • 💬 1 • ⏱️ 2:52 • 2h ago
+👁️ 538 • 👍 31 • 💬 1 • ⏱️ 2:52 • 3h ago
 
 ---
 

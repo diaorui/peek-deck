@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-22T04:32:21.563069+00:00'
+updated: '2026-03-22T05:54:56.250760+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 22, 2026 at 04:32 UTC  
+**Last Updated:** March 22, 2026 at 05:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
-15h ago
+16h ago
 
 ---
 
 **[Ringbot: A monocycle robot developed by the Robotics and Institute (RAI) that uses internal legs for balance and acrobatic maneuvers](https://www.reddit.com/r/robotics/comments/1rztuum/ringbot_a_monocycle_robot_developed_by_the/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -56,15 +56,7 @@ From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
 We’re running a pretty heavy autonomous stack on a single edge computer (ROS 2 Jazzy) — multiple high-res cameras, dense LiDARs, and radars all on one machine. We’re starting to hit serious compute + latency limits, especially with intra-process communication and recording. Right now we’re evaluating: Fast DDS Cyclone DDS Zenoh Iceoryx Also, as soon as we start recording with rosbag2, CPU usage spikes hard and we get frame drops across the system. Two questions for folks who’ve pushed ROS 2 hard on a single machine: For high-bandwidth intra-host comms on Jazzy, which RMW has actually given you the best real-world performance? How are you dealing with the rosbag2 overhead? Composable recorder node? Separate process? Or bypassing ROS entirely and logging raw sensor data? For context: we previously ran Humble + CycloneDDS + MCAP and saw similar bottlenecks. Curious what setups are working well in practice.
 
-7h ago
-
----
-
-**[Another demo of my school project running the ACT](https://www.reddit.com/r/robotics/comments/1rzqryd/another_demo_of_my_school_project_running_the_act/)**
-
-It's one of the sample tasks I'm planning to demonstrate to the guests of my upcoming conference. ( 120 characters limit bypass )
-
-15h ago
+9h ago
 
 ---
 
@@ -72,7 +64,21 @@ It's one of the sample tasks I'm planning to demonstrate to the guests of my upc
 
 I want to make an aim-able phone holder with servos/steppers tucked in the base… and I don’t want to reinvent the wheel. Are there any references of this design? (Like a Simpson 3d printer, but simpler and for robot arms)
 
-7h ago
+9h ago
+
+---
+
+**[Another demo of my school project running the ACT](https://www.reddit.com/r/robotics/comments/1rzqryd/another_demo_of_my_school_project_running_the_act/)**
+
+It's one of the sample tasks I'm planning to demonstrate to the guests of my upcoming conference. ( 120 characters limit bypass )
+
+16h ago
+
+---
+
+**[What do robotics engineers actually use day to day?](https://www.reddit.com/r/robotics/comments/1s0cxbu/what_do_robotics_engineers_actually_use_day_to_day/)**
+
+53m ago
 
 ---
 
@@ -80,7 +86,7 @@ I want to make an aim-able phone holder with servos/steppers tucked in the base�
 
 Testing the built-in 3D reconstruction algorithm of the Viobot2 — the result looks good. Has anyone used the Viobot2 for other DIY work? Can anyone share with me?
 
-13h ago
+15h ago
 
 ---
 
@@ -88,7 +94,7 @@ Testing the built-in 3D reconstruction algorithm of the Viobot2 — the result l
 
 Hey, I want to build a humanoid robot as a personal project — not necessarily life sized, maybe scaled down a bit. I came across InMoov and it looks amazing but I'm a bit intimidated by the non-printed hardware requirements like springs, metal rods, drilling into parts etc. I'm comfortable with electronics and embedded systems (Arduino/ESP32, servos, sensors) so that side doesn't scare me. It's more the mechanical assembly and sourcing all the non-printed hardware that feels overwhelming. Has anyone: Built InMoov and found ways to simplify the mechanical assembly? Found a good detailed step by step tutorial that makes it less intimidating? Found cheaper alternatives to the hardware components it needs? Built a simplified or scaled down version? Not looking for a perfect robot, just something that works and that I can build on over time. Any advice or experience would really help. Thanks
 
-6h ago
+8h ago
 
 ---
 
@@ -100,25 +106,9 @@ Showcasing the newest version (v20) of my hand & wrist combo! Same as the last v
 
 ---
 
-**[Humanoid robots on the streets at midnight training for their half-marathon!](https://www.reddit.com/r/robotics/comments/1rz19uy/humanoid_robots_on_the_streets_at_midnight/)**
-
-Don't be surprised if you meet humanoid robots on the streets of Beijing at midnight. They are training for their half-marathon! Over 20 teams joined the first trial run. The official race will be held on April 19.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
-
-**[Mark Cuban says the future of robotics isn't humanoids, but robots and homes that are co-designed](https://www.businessinsider.com/mark-cuban-humanoid-robotics-will-fail-robots-houses-codesigned-2026-3)**
-
-Mark Cuban said the push for humanoid robots will fail and that instead robots and spaces will be co-designed.
-
-Business Insider • 1d ago
-
----
 
 **[Inside China’s robotics revolution](https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution)**
 
@@ -128,11 +118,25 @@ The Guardian • 2d ago
 
 ---
 
+**[Mark Cuban says the future of robotics isn't humanoids, but robots and homes that are co-designed](https://www.businessinsider.com/mark-cuban-humanoid-robotics-will-fail-robots-houses-codesigned-2026-3)**
+
+Mark Cuban said the push for humanoid robots will fail and that instead robots and spaces will be co-designed.
+
+Business Insider • 2d ago
+
+---
+
 **[Video Friday: Humanoid Learns Tennis Skills Playing Humans](https://spectrum.ieee.org/tennis-playing-robot)**
 
 This humanoid robot is learning tennis the same way I did—by playing. Plus a robot horse for the Year of the Fire Horse in this week's robot videos.
 
-IEEE Spectrum • 11h ago
+IEEE Spectrum • 13h ago
+
+---
+
+**[Unitree plans Shanghai IPO, testing interest in humanoid robots](https://www.reuters.com/world/asia-pacific/unitree-plans-shanghai-ipo-testing-interest-humanoid-robots-2026-03-20/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -140,7 +144,23 @@ IEEE Spectrum • 11h ago
 
 It took nature millions of years to create intelligent, adaptive species. Researchers at Northwestern University in Illinois are using AI to evolve robots in minutes. The result is a robot that is agile, highly adaptive, and technically indestructible.
 
-New Atlas • 16h ago
+New Atlas • 17h ago
+
+---
+
+**[Robotics giant plans massive $90M plant in metro Detroit, 225 jobs](https://www.crainsdetroit.com/manufacturing-logistics/cdb-fanuc-robots-investment-michigan-20260319/)**
+
+Japanese manufacturer Fanuc is plotting a large expansion in Michigan in response to demand from automakers and other customers.
+
+Crain's Detroit • 1d ago
+
+---
+
+**[Tech Moves: Carbon Robotics’ new CFO; Microsoft gaming GM goes to Netflix; Nordstrom gets VP of AI](https://www.geekwire.com/2026/tech-moves-carbon-robotics-new-cfo-microsoft-gaming-gm-goes-to-netflix-nordstrom-gets-vp-of-ai/)**
+
+Carbon Robotics names a CFO; Nordstrom gets a VP of AI; and a Microsoft gaming GM goes to Netflix while one of its longtime legal leaders retires.
+
+GeekWire • 1d ago
 
 ---
 
@@ -165,28 +185,6 @@ The Information • 2d ago
 Amazon has acquired Rivr, a startup focused on autonomous robotics that could further the tech giant's capabilities in package deliveries.
 
 Engadget • 2d ago
-
----
-
-**[Chinese Robot Maker Unitree Seeks $610 Million in Shanghai IPO](https://www.bloomberg.com/news/articles/2026-03-20/chinese-robot-maker-unitree-seeks-610-million-in-shanghai-ipo)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[Robotics giant plans massive $90M plant in metro Detroit, 225 jobs](https://www.crainsdetroit.com/manufacturing-logistics/cdb-fanuc-robots-investment-michigan-20260319/)**
-
-Japanese manufacturer Fanuc is plotting a large expansion in Michigan in response to demand from automakers and other customers.
-
-Crain's Detroit • 1d ago
-
----
-
-**[Tech Moves: Carbon Robotics’ new CFO; Microsoft gaming GM goes to Netflix; Nordstrom gets VP of AI](https://www.geekwire.com/2026/tech-moves-carbon-robotics-new-cfo-microsoft-gaming-gm-goes-to-netflix-nordstrom-gets-vp-of-ai/)**
-
-Carbon Robotics names a CFO; Nordstrom gets a VP of AI; and a Microsoft gaming GM goes to Netflix while one of its longtime legal leaders retires.
-
-GeekWire • 1d ago
 
 ---
 
@@ -280,7 +278,7 @@ War Robots Gameplay: Playing Spear and Atomizer on Ammit - Tier 4 My War Robots 
 
 📺 Manni-Gaming
 
-👁️ 6K • 👍 283 • 💬 43 • ⏱️ 12:20 • 15h ago
+👁️ 6K • 👍 283 • 💬 43 • ⏱️ 12:20 • 16h ago
 
 ---
 
