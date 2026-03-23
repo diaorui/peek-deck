@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-23T07:45:09.891671+00:00'
+updated: '2026-03-23T08:58:28.333850+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 23, 2026 at 07:45 UTC  
+**Last Updated:** March 23, 2026 at 08:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,6 +36,14 @@ Robotics research and industry news
 
 Asimov is an open-source humanoid robot we're building at Menlo Research. We've already open-sourced Asimov v0 (the legs) and plan to open-source Asimov v1 (the full body) once we improve its walking. Asimov v0: https://github.com/asimovinc/asimov-v0 Website: https://asimov.inc/
 
+5h ago
+
+---
+
+**[This is Ricket, a robot project I’ve been building for the past year](https://www.reddit.com/r/robotics/comments/1s17nmr/this_is_ricket_a_robot_project_ive_been_building/)**
+
+This is Ricket, a robot project I’ve been building for the past year, programmed mostly using ROS2. My main goals for it are expressive movement, strong body language, and a face/behavior system with a lot of personality. Longer term, I also want to push it toward more dynamic legged motion and eventually jumping. I’ve mostly been documenting progress on Instagram so far (@tomsrocketsandrobots), but I’m getting closer to hardware testing and wanted to see if there was interest in me sharing updates here too. Also I’ve got a new batch of parts arriving tomorrow, and on Wednesday at 6 PM MST I’m planning to livestream the teardown and install. If people are into it, I can keep posting updates here.
+
 4h ago
 
 ---
@@ -44,15 +52,7 @@ Asimov is an open-source humanoid robot we're building at Menlo Research. We've 
 
 Still cant get it to walk forward yet but rotating seems okay. Can definitely be better tho. This is still a work im progress, the hexapod frame is 3d printed from a creator at makerworld. The internals and code are mine. Mine uses a ps2 controller for this hexapod. If any of you guys are working on the same frame, i will share the schematics and code for free once im finally done with this builddd. Its been about a month since i started this hexapod and mannnn its been cracking my head ever since 😂
 
-13h ago
-
----
-
-**[This is Ricket, a robot project I’ve been building for the past year](https://www.reddit.com/r/robotics/comments/1s17nmr/this_is_ricket_a_robot_project_ive_been_building/)**
-
-This is Ricket, a robot project I’ve been building for the past year, programmed mostly using ROS2. My main goals for it are expressive movement, strong body language, and a face/behavior system with a lot of personality. Longer term, I also want to push it toward more dynamic legged motion and eventually jumping. I’ve mostly been documenting progress on Instagram so far (@tomsrocketsandrobots), but I’m getting closer to hardware testing and wanted to see if there was interest in me sharing updates here too. Also I’ve got a new batch of parts arriving tomorrow, and on Wednesday at 6 PM MST I’m planning to livestream the teardown and install. If people are into it, I can keep posting updates here.
-
-2h ago
+15h ago
 
 ---
 
@@ -60,7 +60,7 @@ This is Ricket, a robot project I’ve been building for the past year, programm
 
 The setup includes two robotic operation platforms, 28 sorting robots, and 4 delivery robots. A returned book goes through the return window → travels via conveyor belt → is picked up by a sorting robot and delivered to the correct shelf based on its category. Technically, this is the same class of autonomous mobile robotics used in e-commerce fulfillment. Robots navigate between shelves, avoid obstacles, and optimize routes in real time. Traditionally, librarians spend significant time collecting returned books, pushing carts, and manually reshelving.
 
-14h ago
+16h ago
 
 ---
 
@@ -68,7 +68,7 @@ The setup includes two robotic operation platforms, 28 sorting robots, and 4 del
 
 Hello, I’m currently working on a monkey humanoid robot with several servos. I was using two 4S 14.8V 6500mAh LiPo batteries in parallel to increase capacity, with a fuse on each battery. During initial tests with a few motors, everything was working fine. But when I ran a program where multiple motors moved at the same time, I noticed a burning smell and immediately powered everything off. After checking, nothing seemed visibly damaged, but both batteries dropped to around 7.4V. When I measured the cells, I found 2 cells normal (~4V) and 2 cells at 0V on each battery. So both packs are now dead. I believe the issue comes from running LiPo batteries in parallel without proper protection, even with fuses in place. I’m now looking for advice to prevent this in the future: should I avoid parallel setups, use additional protection (BMS, diodes, etc.), or change my power architecture entirely? Thanks in advance for your help.
 
-12h ago
+14h ago
 
 ---
 
@@ -76,7 +76,7 @@ Hello, I’m currently working on a monkey humanoid robot with several servos. I
 
 Saw the Galbot in action today at a cafe. What’s impressive is that it’s operating completely autonomously—no human intervention required. Watching its dual-arm coordination handle the espresso machine and serving was a great example of embodied AI moving into real-world commercial applications. This isn't just a demo; it's a functioning business model.
 
-20h ago
+21h ago
 
 ---
 
@@ -84,7 +84,7 @@ Saw the Galbot in action today at a cafe. What’s impressive is that it’s ope
 
 I use 4 dc 300 rpm Motor Push button - 4pcs 12V 30A industrial relay - 4 pcs Kindly help me to make this , give me circuit diagram for the controller for the button and relay. Control logic , front two buttons pressed - move forward Back two buttons pressed - move backwards
 
-3h ago
+4h ago
 
 ---
 
@@ -92,7 +92,7 @@ I use 4 dc 300 rpm Motor Push button - 4pcs 12V 30A industrial relay - 4 pcs Kin
 
 The tiny swimmers wreak havoc across the globe, but the robofish shocked them enough to impair their survival and reproduction
 
-🔗 [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/scientists-terrify-invasive-mosquitofish-with-their-worst-nightmare-a-robotic-fish-180979258/) • 13h ago
+🔗 [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/scientists-terrify-invasive-mosquitofish-with-their-worst-nightmare-a-robotic-fish-180979258/) • 15h ago
 
 ---
 
@@ -100,7 +100,7 @@ The tiny swimmers wreak havoc across the globe, but the robofish shocked them en
 
 https://genesis-embodied-ai.github.io/ It's been about a year since they released their open repo along with an announcement video that seemed a little too good to be true. The video made a lot of publicity but there seemed to be some controversy at the time about the video containing functionality that wasn't actually available, that the devs said would be released later. Since then, I haven't seen any one actually using it. Was it all hype? It looks like the repo is still active. Has anyone used it for anything?
 
-15h ago
+17h ago
 
 ---
 
@@ -132,19 +132,19 @@ Business Insider • 3d ago
 
 ---
 
-**[University of Essex's fruit-picking robot wins national award](https://www.bbc.com/news/articles/c9d41n6gv20o)**
-
-The robots can pick, weigh and harvest strawberries in a matter of seconds.
-
-BBC • 1d ago
-
----
-
 **[Video Friday: Humanoid Learns Tennis Skills Playing Humans](https://spectrum.ieee.org/tennis-playing-robot)**
 
 This humanoid robot is learning tennis the same way I did—by playing. Plus a robot horse for the Year of the Fire Horse in this week's robot videos.
 
 IEEE Spectrum • 1d ago
+
+---
+
+**[University of Essex's fruit-picking robot wins national award](https://www.bbc.com/news/articles/c9d41n6gv20o)**
+
+The robots can pick, weigh and harvest strawberries in a matter of seconds.
+
+BBC • 1d ago
 
 ---
 
@@ -164,33 +164,33 @@ Crain's Detroit Business • 2d ago
 
 ---
 
+**[Regional STEM competition brings nearly 40 robotics teams to Appleton East this weekend](https://fox11online.com/good-day-wi/regional-stem-competition-brings-nearly-40-robotics-teams-to-appleton-east-this-weekend)**
+
+APPLETON (WLUK) -- See robots in action at a STEM event at Appleton East High School this weekend.Almost 40 high school robotics teams from across the region ar
+
+WLUK • 22h ago
+
+---
+
+**[Kraken Robotics: Iran War Signals That The Next Arms Race Is Underwater](https://seekingalpha.com/article/4884853-kraken-robotics-iran-war-signals-that-the-next-arms-race-is-underwater)**
+
+Kraken Robotics boasts technological leadership in subsea intelligence and power systems amid rising war threats. See why I rate KRKNF stock a Buy.
+
+Seeking Alpha • 2h ago
+
+---
+
 **[Nebius NVIDIA Alliance Expands AI Cloud Into Full Robotics Lifecycle](https://finance.yahoo.com/markets/stocks/articles/nebius-nvidia-alliance-expands-ai-042325696.html)**
 
 Nebius Group (NasdaqGS:NBIS) and NVIDIA have launched a comprehensive AI robotics cloud platform. The platform offers synthetic data generation, unified orchestration, and managed production inference as a single cloud service. The service is designed to run across Nebius global data centers and targets robotics, autonomous systems, and other physical AI use cases. For Nebius Group, which is known for AI focused cloud infrastructure, this partnership widens its role into the full lifecycle...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
 **[Chinese Robot Maker Unitree Seeks $610 Million in Shanghai IPO](https://www.bloomberg.com/news/articles/2026-03-20/chinese-robot-maker-unitree-seeks-610-million-in-shanghai-ipo)**
 
-Bloomberg • 2d ago
-
----
-
-**[Tech Moves: Carbon Robotics’ new CFO; Microsoft gaming GM goes to Netflix; Nordstrom gets VP of AI](https://www.geekwire.com/2026/tech-moves-carbon-robotics-new-cfo-microsoft-gaming-gm-goes-to-netflix-nordstrom-gets-vp-of-ai/)**
-
-Carbon Robotics names a CFO; Nordstrom gets a VP of AI; and a Microsoft gaming GM goes to Netflix while one of its longtime legal leaders retires.
-
-GeekWire • 2d ago
-
----
-
-**[McDonald’s in Chinese city pilots humanoid robots to serve meals, greet customers](https://nypost.com/2026/03/22/world-news/mcdonalds-in-chinese-city-pilots-humanoid-robots-to-serve-meals-greet-customers/)**
-
-The robots, supplied by Chinese firm Keenon Robotics, were deployed as part of a trial at the McDonald’s location, Digitaltrends reported.
-
-New York Post • 2h ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -204,7 +204,7 @@ This week in robotics got kind of ridiculous. South Korea showed off a humanoid 
 
 📺 AI Revolution
 
-👁️ 24K • 👍 727 • 💬 62 • ⏱️ 14:31 • 7h ago
+👁️ 24K • 👍 727 • 💬 62 • ⏱️ 14:31 • 9h ago
 
 ---
 
@@ -214,7 +214,7 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 📺 CNET
 
-👁️ 7K • 👍 285 • 💬 14 • ⏱️ 5:50 • 19h ago
+👁️ 7K • 👍 285 • 💬 14 • ⏱️ 5:50 • 20h ago
 
 ---
 
@@ -272,7 +272,7 @@ Full Width Intake and Dual Shooter | 5813 Morpheus | FRC Pit Stop This video is 
 
 📺 Robot Julie 
 
-👁️ 7K • 👍 32 • ⏱️ 0:29 • 4h ago
+👁️ 7K • 👍 32 • ⏱️ 0:29 • 5h ago
 
 ---
 

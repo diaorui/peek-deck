@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-23T07:45:09.873953+00:00'
+updated: '2026-03-23T08:58:28.316086+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - videos
 - repositories
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 23, 2026 at 07:45 UTC  
+**Last Updated:** March 23, 2026 at 08:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,21 @@ AI news, discussions, and developments
 
 Palantir’s Maven artificial intelligence system will become an official program of record, Deputy Secretary of Defense Steve Feinberg said in a letter to Pentagon leaders, a move that locks in long-term use of Palantir’s weapons-targeting ‌technology across the U.S. military.  In the March 9 letter to senior Pentagon leaders and U.S. military commanders, Feinberg said embedding Palantir’s Maven ‌Smart System would provide warfighters “with the latest tools necessary to detect, deter, and dominate our adversaries in all domains”.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/exclusive-pentagon-adopt-palantir-ai-232821913.html) • 7h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/exclusive-pentagon-adopt-palantir-ai-232821913.html) • 8h ago
+
+---
+
+**[Andrej Karpathy's autonomous AI research agent ran 700 experiments in 2 days and gave a glimpse of where AI is heading](https://www.reddit.com/r/artificial/comments/1s1b1zm/andrej_karpathys_autonomous_ai_research_agent_ran/)**
+
+The former OpenAI and Tesla AI researcher's 'autoresearch' technique could be used by AI labs to speed up breakthroughs.
+
+🔗 [Fortune](https://fortune.com/2026/03/17/andrej-karpathy-loop-autonomous-ai-agents-future/) • 38m ago
 
 ---
 
 **[Over a dozen chatbot harm & suicide cases in California against OpenAI / ChatGPT have been consolidated into one big litigation](https://www.reddit.com/r/artificial/comments/1s184mb/over_a_dozen_chatbot_harm_suicide_cases_in/)**
 
-🔗 [niceguygeezer.substack.com](https://niceguygeezer.substack.com/p/over-a-dozen-chatbot-harm-and-suicide?r=3woycl) • 2h ago
+🔗 [niceguygeezer.substack.com](https://niceguygeezer.substack.com/p/over-a-dozen-chatbot-harm-and-suicide?r=3woycl) • 3h ago
 
 ---
 
@@ -63,7 +71,7 @@ I am a painter with work at MoMA and the Met. I just published 50 years of my wo
 
 I have ADHD and I've been pair programming with LLMs for a while now. At some point I realized the way they fail felt weirdly familiar. Confidently making stuff up, losing context mid conversation, brilliant lateral connections then botching basic sequential logic. That's just... my Tuesday. So I went into the cognitive science literature. Found six parallels backed by independent research groups who weren't even looking at this connection. Associative processing. In ADHD the Default Mode Network bleeds into task-positive networks (Castellanos et al., JAMA Psychiatry). Transformer attention computes weighted associations across all tokens with no strong relevance gate. Both are association machines with high creative connectivity and random irrelevant intrusions. Confabulation. Adults with ADHD produce significantly more false memories that feel true (Soliman & Elfar, 2017, d=0.69+). A 2023 PLOS Digital Health paper argues LLM errors should be called confabulation not hallucination. A 2024 ACL paper found LLM confabulations share measurable characteristics with human confabulation (Millward et al.). Neither system is lying. Both fill gaps with plausible pattern-completed stuff. Context window is working memory. Working memory deficits are among the most replicated ADHD findings (d=0.69-0.74 across meta-analyses). An LLM's context window is literally its working memory. Fixed size, stuff falls off the end, earlier info gets fuzzy. And the compensation strategies mirror each other. We use planners and external systems. LLMs use system prompts, CLAUDE.md files, RAG. Same function. Pattern completion over precision. ADHD means better divergent thinking, worse convergent thinking (Hoogman et al., 2020). LLMs are the same. Great at pattern matching and creative completion, bad at precise multi-step reasoning. Both optimized for "what fits the pattern" not "what is logically correct in sequence." Structure as force multiplier. Structured environments significantly improve ADHD performance (Frontiers in Psychology, 2025). Same with LLMs. Good system prompt with clear constraints equals dramatically better output. Remove the structure, get rambling unfocused garbage. Works the same way in both systems. Interest-driven persistence vs thread continuity. Sustained focused engagement on one thread produces compounding quality in both cases. Break the thread and you lose everything. Same as someone interrupting deep focus and you have zero idea where you were. The practical takeaway is that people who've spent years managing ADHD brains have already been training the skills that matter for AI collaboration. External scaffolding, pattern-first thinking, iterating without frustration. I wrote up the full research with all citations at thecreativeprogrammer.dev if anyone wants to go deeper. What's your experience? Have you noticed parallels between how LLMs fail and how your own thinking works?
 
-10h ago
+11h ago
 
 ---
 
@@ -71,7 +79,7 @@ I have ADHD and I've been pair programming with LLMs for a while now. At some po
 
 This innovative technology mimics the movement of real fish to navigate delicate underwater ecosystems without disturbing marine life. By capturing tiny plastic particles that are otherwise impossible to collect, these robots are providing a much needed boost to ocean conservation efforts worldwide. It is a huge step forward in the fight against plastic pollution.
 
-🔗 [skarfinans.com](https://skarfinans.com/en/how-autonomous-robot-fish-are-revolutionizing-ocean-plastic-cleanup/) • 11h ago
+🔗 [skarfinans.com](https://skarfinans.com/en/how-autonomous-robot-fish-are-revolutionizing-ocean-plastic-cleanup/) • 13h ago
 
 ---
 
@@ -79,7 +87,7 @@ This innovative technology mimics the movement of real fish to navigate delicate
 
 An Interview With Chad Silverstein
 
-🔗 [Medium](https://medium.com/authority-magazine/alex-chenglin-wu-of-deepwisdom-on-the-future-of-artificial-intelligence-f54b0cd251b0) • 4h ago
+🔗 [Medium](https://medium.com/authority-magazine/alex-chenglin-wu-of-deepwisdom-on-the-future-of-artificial-intelligence-f54b0cd251b0) • 5h ago
 
 ---
 
@@ -87,7 +95,7 @@ An Interview With Chad Silverstein
 
 Every time I walk in the city everyone is sad and depressed and unhappy. I work in a call center for 8 hours or 9 with lunch included or 11 hours with dislocations included. Anyway. Most of my work is BS. Makes zero sense and doesn't even have any logic or helps society in anyway. I m tired, burnout and depressed. All works are like that now: impossible objectives and follow 300 rules in a call. I wish ia would take capitalism and this crapy jobs away any time.....i would not care. Of course if ubi arrives.
 
-19h ago
+20h ago
 
 ---
 
@@ -95,15 +103,7 @@ Every time I walk in the city everyone is sad and depressed and unhappy. I work 
 
 Hosted on a Pi 2, coded with Python, using GROQ for fast computing and limit cost, LCD screen incased a 3d printed 90's pc styled cased with the Pi.
 
-9h ago
-
----
-
-**[Reddit Giveaway - 200+ Free Tickets to a Special Pre-Screening of 'The AI Doc: Or How I Became an Apocaloptimist' on Thursday 3/26 in NYC & LA from Oscar-Winner Director Daniel Roher ('Navalny')](https://www.reddit.com/r/artificial/comments/1s0kwd5/reddit_giveaway_200_free_tickets_to_a_special/)**
-
-Focus Features is offering Reddit users free tickets to a special advanced screening of The AI Doc: Or How I Became an Apocaloptimist, ahead of its regular release. The screenings will take place at 2 different theaters in NYC (AMC Lincoln Square) and LA (AMC The Grove) on Thursday 3/26 at 7 PM. You can bring a guest as well. It's from director Daniel Roher, who won the Best Documentary Oscar for his 2022 film Navalny. If you're in that area and are interested in attending this special event ahead of the regular release, for free, please fill out this form for your free ticket(s): LA: https://forms.gle/FvRZZLbrteYfb8ePA NY: https://forms.gle/L28h4fpWf96ExjKz6 The NY screening is at: AMC Lincoln Square | 1998 Broadway, New York, NY 10023 The LA screening is at : AMC The Grove | 189 The Grove Dr, Los Angeles, CA 90036 Trailer: https://www.youtube.com/watch?v=xkPbV3IRe4Y Synopsis: Hoping to figure out what's happening with artificial intelligence, a father-to-be embarks on an eye-opening journey to learn more about the most powerful technology humanity has ever created -- and what's at stake if we get it wrong. You will get your tickets by email a couple of days before the screening.
-
-18h ago
+10h ago
 
 ---
 
@@ -111,7 +111,7 @@ Focus Features is offering Reddit users free tickets to a special advanced scree
 
 That’s what the they keep saying. I’ll tell you what comes next. If you do not change. If I don’t change. If we don’t change it will continue to consume you, me, us in ever more sophisticated and complete ways. I’ve interviewed more tech job seekers looking for work right now than anyone in the world. People need jobs now. But they need meaning too. Whether we like it or not. We are headed back to the farm. Back to village. Back to our nature and what millions of years of evolution hard coded into us. The question is whether we go soon and joyfully and willingly. Or run back in a panic. They are right. We are not prepared for what comes next. But we can be. That is what I believe we are headed for. What do you think?
 
-7h ago
+8h ago
 
 ---
 
@@ -119,45 +119,23 @@ That’s what the they keep saying. I’ll tell you what comes next. If you do n
 
 ## Google News: "ai"
 
-**[Exclusive | Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO](https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5?gaa_at=eafs&gaa_n=AWEtsqcupT2N4hc8QryIcLBaTClfXCWqYfw4ZYNL1XNEf3Rjc5qBCl-h8Aal&gaa_ts=69c0f2e8&gaa_sig=p-bilmdHALFe4E9D4htlv16IlnaywMRimRX2b8-rDr_QUR7uSCzMkjvMCYaSLOPyUyBo6fUOpMLEVIQ0o4J0Gw%3D%3D)**
+**[Exclusive | Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO](https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5?gaa_at=eafs&gaa_n=AWEtsqe1KbH4X4It9qb1DVuKk3-6SbgKD7R-7-f6g_4CzrUcX-5UZMDp1Hrf&gaa_ts=69c10419&gaa_sig=XiczWeFuv_hDMBp6e2xOAyp8RSlqJZHKpPJHJRa_jBV8yvHyhtZaqDUf6ibZ9sM3y3ptFUIHiJ15VYPMC4xygw%3D%3D)**
 
-WSJ • 9h ago
-
----
-
-**[AI-generated ads are trickling into political campaigns, sparking big worries](https://www.nbcnews.com/politics/2028-election/ai-midterms-politics-campaign-ads-rcna263752)**
-
-AI usage in political ads is largely regulated at the state level, but there remain concerns about how they can mislead voters.
-
-NBC News • 21h ago
+WSJ • 10h ago
 
 ---
 
-**[AI focus shifting towards smaller, use-specific models, not just LLMs: Investor](https://www.cnbc.com/video/2026/03/23/ai-focus-shifting-towards-smaller-models-not-just-llms-investor.html)**
+**[Google CEO Sundar Pichai said that AI could do his job one day; and Meta CEO Mark Zuckerberg is already w](https://timesofindia.indiatimes.com/technology/tech-news/google-ceo-sundar-pichai-says-ai-could-do-his-job-and-meta-ceo-mark-zuckerberg-is-already-working-to-prove-that/articleshow/129746217.cms)**
 
-Lu Zhang, found of the start-up investor Fusion Fund, talks about the key investment themes she's seeing in Silicon Valley. She says US and China are not really competing for the same markets at the moment.
+Tech News News: Meta CEO Mark Zuckerberg is reportedly building an AI agent designed specifically to help him do his own job—and it's already operational, albeit in l.
 
-CNBC • 29m ago
-
----
-
-**[AI Swarm Attacks Are Coming, Is Your Business Ready?](https://www.forbes.com/sites/bernardmarr/2026/03/23/ai-swarm-attacks-are-coming-is-your-business-ready/)**
-
-Forbes • 1h ago
+The Times of India • 1h ago
 
 ---
 
-**[Exclusive: Interloom, a startup capturing ‘tacit knowledge’ to power AI agents, raises $16.5 million in venture funding](https://fortune.com/2026/03/23/interloom-ai-agents-raises-16-million-venture-funding/)**
+**[Meta's Mark Zuckerberg said to be building AI agent to help him do his job](https://seekingalpha.com/news/4567210-meta-mark-zuckerberg-building-ai-agent)**
 
-In large enterprises, up to 70% of processes are not documented, hobbling AI agents, Interloom's CEO says.
-
-Fortune • 7m ago
-
----
-
-**[Tencent integrates WeChat with OpenClaw AI agent amid China tech battle](https://www.reuters.com/technology/tencent-integrates-wechat-with-openclaw-ai-agent-amid-china-tech-battle-2026-03-22/)**
-
-Reuters • 1d ago
+Seeking Alpha • 22m ago
 
 ---
 
@@ -169,23 +147,49 @@ BBC • 1d ago
 
 ---
 
-**[AI Startup Upstage in Talks to Buy 10,000 AMD Chips in Korea](https://www.bloomberg.com/news/articles/2026-03-23/ai-startup-upstage-looking-at-buying-10-000-amd-chips-in-korea)**
+**[The AI push in health care is deepening medicine’s trust crisis](https://www.statnews.com/2026/03/23/ai-use-distrust-american-medicine/)**
 
-Bloomberg • 3h ago
+Health care’s adoption of AI should move at the speed of trust, not investment, writes Oni Blackstock.
 
----
-
-**[South Korean AI Contender Upstage on AMD Talks](https://finance.yahoo.com/video/south-korean-ai-contender-upstage-034507096.html)**
-
-South Korean AI startup Upstage says it's in talks with its investor, AMD, for the potential purchase of 10,000 AI chips. Upstage CEO Sung Kim discusses his recent meeting with AMD chief Lisa Su in Seoul, as well as his company's edge in competing in South Korea's AI 'squid game'. He speaks with Minmin Low at the Milken Institute's "Global Investors' Symposium" in Hong Kong.
-
-Yahoo Finance • 4h ago
+statnews.com • 27m ago
 
 ---
 
-**[AMD in talks to sell 10,000 AI chips to Korea's Upstage (AMD:NASDAQ)](https://seekingalpha.com/news/4567183-amd-in-talks-to-sell-10000-ai-chips-to-koreas-upstage)**
+**[Mixing AI And The Military Can Be Dangerous - This Proposed Bill Might Help](https://www.yahoo.com/news/articles/mixing-ai-military-dangerous-proposed-083000844.html)**
 
-Seeking Alpha • 2h ago
+AI continues to make its way into all sorts of industries and technologies, and that includes the military. Here's how we might see some guardrails go up.
+
+Yahoo • 28m ago
+
+---
+
+**[Return to Office and AI Are Pulling More Women Out of Work](https://www.businessinsider.com/return-to-office-ai-women-out-of-work-moms-2026-3)**
+
+America's moms are losing their jobs. An AI-driven rise in freelance work creates new opportunities, with tradeoffs.
+
+Business Insider • 12m ago
+
+---
+
+**[OpenClaw's ChatGPT moment sparks concern that AI models are becoming commodities](https://www.cnbc.com/2026/03/21/openclaw-chatgpt-moment-sparks-concern-ai-models-becoming-commodities.html)**
+
+At Nvidia's GTC conference this week, CEO Nvidia Jensen Huang dedicated a major part of his keynote to OpenClaw, a technology that didn't exist six months ago.
+
+CNBC • 1d ago
+
+---
+
+**[More! More! More! Tech Workers Max Out Their A.I. Use.](https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html)**
+
+The New York Times • 2d ago
+
+---
+
+**[AI-generated ads are trickling into political campaigns, sparking big worries](https://www.nbcnews.com/politics/2028-election/ai-midterms-politics-campaign-ads-rcna263752)**
+
+AI usage in political ads is largely regulated at the state level, but there remain concerns about how they can mislead voters.
+
+NBC News • 22h ago
 
 ---
 
@@ -197,7 +201,7 @@ Seeking Alpha • 2h ago
 
 OpenCode - The open source coding agent.
 
-⬆️ 1243 • 💬 615 • 2d ago • [opencode.ai](https://opencode.ai/)
+⬆️ 1246 • 💬 615 • 2d ago • [opencode.ai](https://opencode.ai/)
 
 ---
 
@@ -213,7 +217,7 @@ As the Charles de Gaulle and its strike group approach the Middle East, Le Monde
 
 Imagine a newspaper publisher announcing it will no longer allow libraries to keep copies of its paper. That’s effectively what’s begun happening online in the last few months. The Internet Archive—the world’s largest digital library—has preserved newspapers since it went online in the mid-1990s....
 
-⬆️ 556 • 💬 151 • 2d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
+⬆️ 558 • 💬 151 • 2d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
 
 ---
 
@@ -233,21 +237,21 @@ Qwen3.5-9B scores 93.8% on 96 real security AI tests — within 4 points of GPT-
 
 **[Diverse perspectives on AI from Rust contributors and maintainers](https://news.ycombinator.com/item?id=47482825)**
 
-⬆️ 132 • 💬 72 • 9h ago • [nikomatsakis.github.io](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
+⬆️ 133 • 💬 76 • 10h ago • [nikomatsakis.github.io](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
 
 ---
 
-**[What Young Workers Are Doing to AI-Proof Themselves](https://news.ycombinator.com/item?id=47480447)**
+**[What young workers are doing to AI-proof themselves](https://news.ycombinator.com/item?id=47480447)**
 
-⬆️ 122 • 💬 196 • 13h ago • [wsj.com](https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284)
+⬆️ 132 • 💬 213 • 14h ago • [wsj.com](https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284)
 
 ---
 
-**[How to Attract AI Bots to Your Open Source Project](https://news.ycombinator.com/item?id=47471271)**
+**[How to attract AI bots to your open source project](https://news.ycombinator.com/item?id=47471271)**
 
 A practical guide to getting the engagement your project deserves.
 
-⬆️ 121 • 💬 18 • 1d ago • [Andrew Nesbitt](https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html)
+⬆️ 130 • 💬 21 • 1d ago • [Andrew Nesbitt](https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html)
 
 ---
 
@@ -268,7 +272,7 @@ The daemon has existed for a long time, and has been marked as "experimental" fo
 
 Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of hallucinations’, after investigation by newspaper where he was once editor-in-chief
 
-⬆️ 92 • 💬 78 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes)
+⬆️ 92 • 💬 79 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes)
 
 ---
 
@@ -282,7 +286,7 @@ Grok AI stopped working for free? In this video I found 7 Secret FREE AI Video G
 
 📺 zapiwala ai
 
-👁️ 2K • 👍 144 • 💬 19 • ⏱️ 3:57 • 6h ago
+👁️ 2K • 👍 144 • 💬 19 • ⏱️ 3:57 • 8h ago
 
 ---
 
@@ -372,7 +376,7 @@ As AI agents take over more tasks at work, the question isn't whether or not hum
 
 📺 TED
 
-👁️ 20K • 👍 657 • 💬 54 • ⏱️ 12:18 • 16h ago
+👁️ 20K • 👍 657 • 💬 54 • ⏱️ 12:18 • 17h ago
 
 ---
 
@@ -458,7 +462,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 5,346 • ❤️ 208 • 2h ago
+⬇️ 5,346 • ❤️ 208 • 3h ago
 
 ---
 
@@ -508,7 +512,7 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 26 • 💬 2 • ⭐ 37,700 • 14mo ago
+▲ 26 • 💬 2 • ⭐ 37,700 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -661,7 +665,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 13.0k • 🔱 1.6k • 5m ago
+⭐ 13.0k • 🔱 1.6k • 1h ago
 
 ---
 
@@ -691,7 +695,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 10.3k • 🔱 530 • 16h ago
+⭐ 10.3k • 🔱 530 • 17h ago
 
 ---
 
@@ -711,7 +715,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 4.8k • 🔱 389 • 1m ago
+⭐ 4.8k • 🔱 389 • 1h ago
 
 ---
 
@@ -731,7 +735,7 @@ OpenShell is the safe, private runtime for autonomous AI agents.
 
 `Rust`
 
-⭐ 3.2k • 🔱 323 • 2h ago
+⭐ 3.2k • 🔱 323 • 4h ago
 
 ---
 
