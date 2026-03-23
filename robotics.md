@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-23T04:41:17.758031+00:00'
+updated: '2026-03-23T06:11:12.353413+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 23, 2026 at 04:41 UTC  
+**Last Updated:** March 23, 2026 at 06:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,25 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Building Asimov, an open-source humanoid robot (Day 179) - It's walking better](https://www.reddit.com/r/robotics/comments/1s168ya/building_asimov_an_opensource_humanoid_robot_day/)**
+
+Asimov is an open-source humanoid robot we're building at Menlo Research. We've already open-sourced Asimov v0 (the legs) and plan to open-source Asimov v1 (the full body) once we improve its walking. Asimov v0: https://github.com/asimovinc/asimov-v0 Website: https://asimov.inc/
+
+2h ago
+
+---
+
 **[HEXAPOD PROGRESSSSS](https://www.reddit.com/r/robotics/comments/1s0s75e/hexapod_progresssss/)**
 
 Still cant get it to walk forward yet but rotating seems okay. Can definitely be better tho. This is still a work im progress, the hexapod frame is 3d printed from a creator at makerworld. The internals and code are mine. Mine uses a ps2 controller for this hexapod. If any of you guys are working on the same frame, i will share the schematics and code for free once im finally done with this builddd. Its been about a month since i started this hexapod and mannnn its been cracking my head ever since 😂
 
-10h ago
+12h ago
 
 ---
 
-**[Building Asimov, an open-source humanoid robot (Day 179) - It's walking better](https://www.reddit.com/r/robotics/comments/1s168ya/building_asimov_an_opensource_humanoid_robot_day/)**
+**[This is Ricket, a robot project I’ve been building for the past year](https://www.reddit.com/r/robotics/comments/1s17nmr/this_is_ricket_a_robot_project_ive_been_building/)**
 
-Asimov is an open-source humanoid robot we're building at Menlo Research. We've already open-sourced Asimov v0 (the legs) and plan to open-source Asimov v1 (the full body) once we improve its walking. Asimov v0: https://github.com/asimovinc/asimov-v0 Website: https://asimov.inc/
+This is Ricket, a robot project I’ve been building for the past year, programmed mostly using ROS2. My main goals for it are expressive movement, strong body language, and a face/behavior system with a lot of personality. Longer term, I also want to push it toward more dynamic legged motion and eventually jumping. I’ve mostly been documenting progress on Instagram so far (@tomsrocketsandrobots), but I’m getting closer to hardware testing and wanted to see if there was interest in me sharing updates here too. Also I’ve got a new batch of parts arriving tomorrow, and on Wednesday at 6 PM MST I’m planning to livestream the teardown and install. If people are into it, I can keep posting updates here.
 
 1h ago
 
@@ -52,7 +60,7 @@ Asimov is an open-source humanoid robot we're building at Menlo Research. We've 
 
 The setup includes two robotic operation platforms, 28 sorting robots, and 4 delivery robots. A returned book goes through the return window → travels via conveyor belt → is picked up by a sorting robot and delivered to the correct shelf based on its category. Technically, this is the same class of autonomous mobile robotics used in e-commerce fulfillment. Robots navigate between shelves, avoid obstacles, and optimize routes in real time. Traditionally, librarians spend significant time collecting returned books, pushing carts, and manually reshelving.
 
-11h ago
+13h ago
 
 ---
 
@@ -60,7 +68,7 @@ The setup includes two robotic operation platforms, 28 sorting robots, and 4 del
 
 Hello, I’m currently working on a monkey humanoid robot with several servos. I was using two 4S 14.8V 6500mAh LiPo batteries in parallel to increase capacity, with a fuse on each battery. During initial tests with a few motors, everything was working fine. But when I ran a program where multiple motors moved at the same time, I noticed a burning smell and immediately powered everything off. After checking, nothing seemed visibly damaged, but both batteries dropped to around 7.4V. When I measured the cells, I found 2 cells normal (~4V) and 2 cells at 0V on each battery. So both packs are now dead. I believe the issue comes from running LiPo batteries in parallel without proper protection, even with fuses in place. I’m now looking for advice to prevent this in the future: should I avoid parallel setups, use additional protection (BMS, diodes, etc.), or change my power architecture entirely? Thanks in advance for your help.
 
-9h ago
+11h ago
 
 ---
 
@@ -68,7 +76,7 @@ Hello, I’m currently working on a monkey humanoid robot with several servos. I
 
 Saw the Galbot in action today at a cafe. What’s impressive is that it’s operating completely autonomously—no human intervention required. Watching its dual-arm coordination handle the espresso machine and serving was a great example of embodied AI moving into real-world commercial applications. This isn't just a demo; it's a functioning business model.
 
-16h ago
+18h ago
 
 ---
 
@@ -76,7 +84,7 @@ Saw the Galbot in action today at a cafe. What’s impressive is that it’s ope
 
 I use 4 dc 300 rpm Motor Push button - 4pcs 12V 30A industrial relay - 4 pcs Kindly help me to make this , give me circuit diagram for the controller for the button and relay. Control logic , front two buttons pressed - move forward Back two buttons pressed - move backwards
 
-26m ago
+1h ago
 
 ---
 
@@ -84,7 +92,7 @@ I use 4 dc 300 rpm Motor Push button - 4pcs 12V 30A industrial relay - 4 pcs Kin
 
 The tiny swimmers wreak havoc across the globe, but the robofish shocked them enough to impair their survival and reproduction
 
-🔗 [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/scientists-terrify-invasive-mosquitofish-with-their-worst-nightmare-a-robotic-fish-180979258/) • 10h ago
+🔗 [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/scientists-terrify-invasive-mosquitofish-with-their-worst-nightmare-a-robotic-fish-180979258/) • 12h ago
 
 ---
 
@@ -92,7 +100,7 @@ The tiny swimmers wreak havoc across the globe, but the robofish shocked them en
 
 https://genesis-embodied-ai.github.io/ It's been about a year since they released their open repo along with an announcement video that seemed a little too good to be true. The video made a lot of publicity but there seemed to be some controversy at the time about the video containing functionality that wasn't actually available, that the devs said would be released later. Since then, I haven't seen any one actually using it. Was it all hype? It looks like the repo is still active. Has anyone used it for anything?
 
-12h ago
+14h ago
 
 ---
 
@@ -104,31 +112,23 @@ From China Xinhua News on 𝕏: https://x.com/XHNews/status/2035265529137832055
 
 ---
 
-**[Followed a ROS2 tutorial, but my robot model looks completely different , not sure what I did](https://www.reddit.com/r/robotics/comments/1s0mjh3/followed_a_ros2_tutorial_but_my_robot_model_looks/)**
-
-I’m currently learning ROS2 and working with Gazebo, so I followed a tutorial where the robot looks like this (first image : red/yellow block style) but when I built mine, I ended up with something like the second image (black robot with wheels + lidar). I didn’t intentionally change much, so I’m confused how it ended up so different. What I did: - Followed a ROS2 mobile robot tutorial - Set up the model + simulation in Gazebo - Added lidar and basic movement control What I’m noticing: - My model structure looks completely different - Visual + geometry doesn’t match tutorial - Not sure if I accidentally changed URDF/Xacro or used a different base model Questions: What could cause this kind of difference? Did I accidentally switch model type (like differential vs something else)? Is this normal when building your own model vs tutorial assets? Also — I’m documenting my learning journey (ROS2 + robotics), so any guidance would help a lot. Thanks!
-
-14h ago
-
----
-
 ---
 
 ## Google News: "robotics"
+
+**[Amazon acquires startup Rivr to test robots for 'doorstep delivery'](https://www.cnbc.com/2026/03/19/amazon-acquires-startup-rivr-to-test-robots-for-doorstep-delivery.html)**
+
+The company expects to test ways it can use Rivr's robots to help with "doorstep delivery" and to "improve safety outcomes" for delivery drivers.
+
+CNBC • 3d ago
+
+---
 
 **[Mark Cuban says the future of robotics isn't humanoids, but robots and homes that are co-designed](https://www.businessinsider.com/mark-cuban-humanoid-robotics-will-fail-robots-houses-codesigned-2026-3)**
 
 Mark Cuban said the push for humanoid robots will fail and that instead robots and spaces will be co-designed.
 
-Business Insider • 2d ago
-
----
-
-**[50 startups transforming industries with physical AI](https://www.bvp.com/atlas/50-startups-transforming-industries-with-physical-ai)**
-
-After decades of promise, autonomous systems and robotics are moving from labs to factory floors and households — powered by breakthroughs in AI and hardware.
-
-Bessemer Venture Partners • 3d ago
+Business Insider • 3d ago
 
 ---
 
@@ -136,7 +136,7 @@ Bessemer Venture Partners • 3d ago
 
 The robots can pick, weigh and harvest strawberries in a matter of seconds.
 
-BBC • 22h ago
+BBC • 1d ago
 
 ---
 
@@ -152,7 +152,15 @@ IEEE Spectrum • 1d ago
 
 A local fundraiser hopes to raise enough money so the BCSC VEX IQ robotics teams who earned a chance to compete on the international stage can make the trip.
 
-The Republic News • 23h ago
+The Republic News • 1d ago
+
+---
+
+**[Nebius NVIDIA Alliance Expands AI Cloud Into Full Robotics Lifecycle](https://finance.yahoo.com/markets/stocks/articles/nebius-nvidia-alliance-expands-ai-042325696.html)**
+
+Nebius Group (NasdaqGS:NBIS) and NVIDIA have launched a comprehensive AI robotics cloud platform. The platform offers synthetic data generation, unified orchestration, and managed production inference as a single cloud service. The service is designed to run across Nebius global data centers and targets robotics, autonomous systems, and other physical AI use cases. For Nebius Group, which is known for AI focused cloud infrastructure, this partnership widens its role into the full lifecycle...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -164,19 +172,11 @@ Crain's Detroit Business • 2d ago
 
 ---
 
-**[Amazon acquires startup Rivr to test robots for 'doorstep delivery'](https://www.cnbc.com/2026/03/19/amazon-acquires-startup-rivr-to-test-robots-for-doorstep-delivery.html)**
-
-The company expects to test ways it can use Rivr's robots to help with "doorstep delivery" and to "improve safety outcomes" for delivery drivers.
-
-CNBC • 3d ago
-
----
-
 **[Regional STEM competition brings nearly 40 robotics teams to Appleton East this weekend](https://fox11online.com/good-day-wi/regional-stem-competition-brings-nearly-40-robotics-teams-to-appleton-east-this-weekend)**
 
 APPLETON (WLUK) -- See robots in action at a STEM event at Appleton East High School this weekend.Almost 40 high school robotics teams from across the region ar
 
-WLUK • 18h ago
+WLUK • 20h ago
 
 ---
 
@@ -204,7 +204,7 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 📺 CNET
 
-👁️ 7K • 👍 275 • 💬 14 • ⏱️ 5:50 • 16h ago
+👁️ 7K • 👍 275 • 💬 14 • ⏱️ 5:50 • 18h ago
 
 ---
 

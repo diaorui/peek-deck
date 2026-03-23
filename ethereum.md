@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-23T04:41:17.754839+00:00'
+updated: '2026-03-23T06:11:12.350188+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 23, 2026 at 04:41 UTC  
+**Last Updated:** March 23, 2026 at 06:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.7%  
-**7d:** -11.2%  
-**30d:** +5.2%  
-**90d:** -30.1%  
-**1y:** -1.1%  
+**24h:** -1.4%  
+**7d:** -11.0%  
+**30d:** +5.4%  
+**90d:** -29.9%  
+**1y:** -0.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 An attacker minted $80M in unbacked USR stablecoins using just $200K, crashing the token 62%. The GENIUS Act was supposed to prevent exactly this.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/resolv-usr-stablecoin-80-million-unauthorized-mint-2026/) • 6h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/resolv-usr-stablecoin-80-million-unauthorized-mint-2026/) • 8h ago
 
 ---
 
@@ -80,13 +80,15 @@ An attacker minted $80M in unbacked USR stablecoins using just $200K, crashing t
 
 Been using Ethereum for years and I'm happy with the roadmap, but L2s are starting to feel like their own isolated islands. Arbitrum, Base, Optimism, ZkSync , each has its own liquidity, its own bridges, its own quirks. I get that they scale the network, but moving between them still feels clunky. Sometimes I wonder if we're solving one problem (fees on mainnet) while creating another (fragmentation). Curious how others see this. Are we heading toward a unified L2 experience or is this just how it's going to be?
 
-5h ago
+6h ago
 
 ---
 
-**[Ethereum Cuts Bridge Times by 98%](https://www.reddit.com/r/ethereum/comments/1s0mzw8/ethereum_cuts_bridge_times_by_98/)**
+**[Daily General Discussion March 23, 2026](https://www.reddit.com/r/ethereum/comments/1s17tez/daily_general_discussion_march_23_2026/)**
 
-🔗 [financefeeds.com](https://financefeeds.com/crypto-news-ethereum-cuts-bridge-times-by-98-while-pepeto-hands-early-believers-100x-presale-gains/) • 14h ago
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1h ago
 
 ---
 
@@ -94,13 +96,19 @@ Been using Ethereum for years and I'm happy with the roadmap, but L2s are starti
 
 US SEC securities laws application to crypto, fast confirmation rule, EF mandate
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-16/) • 5h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-16/) • 6h ago
+
+---
+
+**[Ethereum Cuts Bridge Times by 98%](https://www.reddit.com/r/ethereum/comments/1s0mzw8/ethereum_cuts_bridge_times_by_98/)**
+
+🔗 [financefeeds.com](https://financefeeds.com/crypto-news-ethereum-cuts-bridge-times-by-98-while-pepeto-hands-early-believers-100x-presale-gains/) • 15h ago
 
 ---
 
 **[x402s now has state channels](https://www.reddit.com/r/ethereum/comments/1s0yi3u/x402s_now_has_state_channels/)**
 
-🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2035835465354322316) • 6h ago
+🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2035835465354322316) • 8h ago
 
 ---
 
@@ -108,7 +116,7 @@ US SEC securities laws application to crypto, fast confirmation rule, EF mandate
 
 Just finished the first version of Aegisa. It’s basically a "Control Tower" for testnets. The goal was to have one place to check balances across Sepolia, Base, IOTA, etc., and dispense gas via a dedicated API for automated tasks. It's meant to be hosted on your own infra so you aren't at the mercy of public endpoints. Landing page:https://mwveliz.github.io/aegisa/ Source:https://github.com/mwveliz/aegisa/
 
-4h ago
+5h ago
 
 ---
 
@@ -116,7 +124,7 @@ Just finished the first version of Aegisa. It’s basically a "Control Tower" fo
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -124,7 +132,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi there, I made a niche thing, probably useful for a small group of node runners who wanted something like this. It’s basically a lightweight, IPFS-hosted Ethereum explorer — like Etherscan, but it queries your own node directly via JSON-RPC. It’s just a static HTML page, so you open it, enter your RPC, and use it. No backend, no setup — just a page. Access nodex.monkale.eth nodex.monkale.eth.limo Repo github.com/monkale-io/ethereum-node-explorer I built it after I started running my own node and wanted a simple web UI to explore it. I found an old explorer (Alethio ethereum-lite-explorer) — it still works and is actually quite good, but it was abandoned ~6 years ago — so I decided to rewrite it with a modern stack and put it on IPFS, so it can stay just a static page without any backend or services to run. Planning to maintain and evolve it. Feedback and contributions are welcome.
 
-12h ago
+14h ago
 
 ---
 
@@ -132,15 +140,7 @@ Hi there, I made a niche thing, probably useful for a small group of node runner
 
 Hi, Long story short 45sec after funding my trust wallet a transfer occurred that I do not recall making. Mar-23-2026 01:10:59 AM From funding wallet to trust wallet Erc20 0xd88cec26651601789e86cedbefc2af5e3d282249badc150f9caeb4fea509be30 The unknown transaction Mar-23-2026 01:11:47 AM 0xa72208defce57ad563bc406f8a5bfd6fa8dc4e17f2b2045e11741eb88067cf1b Is there something i am missing? Or is my wallet compromised. Thanks in advance.
 
-1h ago
-
----
-
-**[Appreciate feedback on provenance tracking for shares as RWAs on Ethereum](https://www.reddit.com/r/ethereum/comments/1s09919/appreciate_feedback_on_provenance_tracking_for/)**
-
-Hi everyone, I'd really appreciate some feedback on something we're building on Ethereum. This is pretty much my first time doing this, but my co-founder is way more experienced, he's been a Web3 engineer for a long time. You probably know there are already some projects putting public stocks on-chain as RWAs. What we're trying to do is a bit different: bring the actual chain of custody on-chain for those shares. The issue with normal shares is they're totally fungible so you have zero clue who owned it before you. We want to track that history to unlock some "cultural premium" value as an RWA. Kind of like NFTs but for real shares. For example imagine proving your TSLA share was once held by Elon Musk. That kind of story probably makes it worth more to some people. To make it work we take verified shares (held in proper custody) and wrap them as provenance-wrapped shares on Ethereum smart contracts, using something like ERC-1155 for semi-fungible units, and record the full ownership chain in metadata or on-chain events. We're still in the middle of building, no live contracts or actual trading yet. Just trying to get real opinions early and figure if we're onto something or is this just dumb as hell. It would mean a lot to hear what Ethereum people think: Does provenance tracking for equities as RWAs actually sound useful/valuable, or is it kind of a gimmick? You can check out the demo to see how we're thinking about it in practice: https://provenantx.com https://preview.redd.it/fru8qps46iqg1.png?width=624&format=png&auto=webp&s=d93019bd8ad4a09695879f36d7c32f6f80436582 Thanks a ton for any thoughts!
-
-1d ago
+3h ago
 
 ---
 
@@ -152,7 +152,7 @@ Hi everyone, I'd really appreciate some feedback on something we're building on 
 
 While upgrades have improved efficiency and lowered costs, the ecosystem faces deeper structural questions around fragmentation, security, and purpose, even as it continues prioritizing base-layer scaling.
 
-CoinDesk • 11h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -168,7 +168,7 @@ Polymarket • 2mo ago
 
 Cryptocurrency analyst Ali Martinez said on Thursday that Ethereum has entered a generational “Buy Zone,” hinting at major bull runs on the horizon. What History Says In an X post, Martinez pointed out that Ethereum’s Market Value to Realized Value...
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -180,31 +180,31 @@ TradingView • 1d ago
 
 ---
 
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqckJER1O41KVCjboDOpKYvCgQy3GqT52dLdNmWIVxpm8TJeTzYLfmz5&gaa_ts=69c0c7d9&gaa_sig=QXq4z2RcUKdvo3FD8uz6CQ94DXIfECDKNI65kDfM64X1zOEby4AtB8X4WOdglopTVV4hMG-loMZc4aFZgesIew%3D%3D)**
-
-MarketWatch • 2d ago
-
----
-
 **[Crypto News: Ethereum Based Crypto Pepeto Approaches Binance Listing While Cardano Price Prediction Eyes Recovery](https://markets.businessinsider.com/news/stocks/crypto-news-ethereum-based-crypto-pepeto-approaches-binance-listing-while-cardano-price-prediction-eyes-recovery-1035952605)**
 
 Dubai, UAE, March  22, 2026  (GLOBE NEWSWIRE) -- Pepeto just moved its Binance listing into the final round, and the presale has gone viral with i...
 
-markets.businessinsider.com • 7h ago
+markets.businessinsider.com • 8h ago
 
 ---
 
-**[Current price of Ethereum for March 20, 2026](https://fortune.com/article/price-of-ethereum-03-20-2026/)**
+**[Why are Bitcoin, Ethereum and XRP Prices Crashing Today: Iran, Trump and the Strait of Hormuz Explained](https://coinpedia.org/news/why-are-bitcoin-ethereum-and-xrp-prices-crashing-today-iran-trump-and-the-strait-of-hormuz-explained/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Bitcoin, Ethereum and XRP tumbled sharply on Sunday after Iran responded to President Trump's 48-hour ultimatum not with concessions but with an
 
-Fortune • 2d ago
+Coinpedia Fintech News • 14h ago
 
 ---
 
 **[Ethereum ETF Feels the Chill as Investors Pull $102 Million from ETHA](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-feels-the-chill-as-investors-pull-102-million-from-etha)**
 
-TipRanks • 15h ago
+TipRanks • 16h ago
+
+---
+
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqfpVyZ7RATRrA_6T0oi3X0F3rBS0LnzC0O1EV9jlSAPl7XA0xlKt6dB&gaa_ts=69c0dceb&gaa_sig=5D04U1B7HqIlTMeXBsoa_wwDPJuhyvRKKhAuuZJWfCEq5Fjt-fu36mvQ22EcYxllkOJFW99gC0qsXJJdBCsCMQ%3D%3D)**
+
+MarketWatch • 2d ago
 
 ---
 
@@ -216,11 +216,11 @@ CoinGape • 1d ago
 
 ---
 
-**[Why are Bitcoin, Ethereum and XRP Prices Crashing Today: Iran, Trump and the Strait of Hormuz Explained](https://coinpedia.org/news/why-are-bitcoin-ethereum-and-xrp-prices-crashing-today-iran-trump-and-the-strait-of-hormuz-explained/)**
+**[This is the latest sign of a quiet crypto revolution](https://nypost.com/2026/03/20/business/blackrock-launches-ethereum-exchange-traded-fund/)**
 
-Bitcoin, Ethereum and XRP tumbled sharply on Sunday after Iran responded to President Trump's 48-hour ultimatum not with concessions but with an
+“Ethereum, to me, is really gonna be where Wall Street meets crypto,” a source told NYNext.
 
-Coinpedia Fintech News • 12h ago
+New York Post • 2d ago
 
 ---
 
@@ -234,7 +234,7 @@ BITCOIN DUMP EXPLAINED (Price Target Hit)!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 3K • 👍 210 • 💬 61 • ⏱️ 17:12 • 3h ago
+👁️ 3K • 👍 210 • 💬 61 • ⏱️ 17:12 • 5h ago
 
 ---
 
@@ -254,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 903 • 👍 59 • 💬 1 • ⏱️ 4:11 • 6h ago
+👁️ 903 • 👍 59 • 💬 1 • ⏱️ 4:11 • 7h ago
 
 ---
 
@@ -274,7 +274,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 282 • 👍 53 • ⏱️ 7:35 • 1h ago
+👁️ 282 • 👍 53 • ⏱️ 7:35 • 3h ago
 
 ---
 
@@ -294,7 +294,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 149 • 💬 6 • ⏱️ 4:00 • 14h ago
+👁️ 2K • 👍 149 • 💬 6 • ⏱️ 4:00 • 15h ago
 
 ---
 
@@ -304,7 +304,7 @@ CRYPTO MARKET UPDATE! Crypto Crash Next Week? Join the Premium Signal Group for 
 
 📺 Cilinix Crypto
 
-👁️ 2K • 👍 84 • 💬 12 • ⏱️ 6:47 • 15h ago
+👁️ 2K • 👍 84 • 💬 12 • ⏱️ 6:47 • 17h ago
 
 ---
 
@@ -314,7 +314,7 @@ cryptomonnaies #cryptofrance #Bitcoin #Crypto #dollar #crypto #macroéconomie #s
 
 📺 Cryptolyze | Crypto - Finance - Économie
 
-👁️ 5K • 👍 478 • 💬 70 • ⏱️ 35:47 • 17h ago
+👁️ 5K • 👍 478 • 💬 70 • ⏱️ 35:47 • 18h ago
 
 ---
 
@@ -324,7 +324,7 @@ Kaosun ortasında makroekonomi ve varlıkları teker teker inceledim. Herkes sav
 
 📺 Emir Şahin
 
-👁️ 9K • 👍 900 • 💬 139 • ⏱️ 15:06 • 12h ago
+👁️ 9K • 👍 900 • 💬 139 • ⏱️ 15:06 • 14h ago
 
 ---
 
