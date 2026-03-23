@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-23T06:11:12.353413+00:00'
+updated: '2026-03-23T07:45:09.891671+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 23, 2026 at 06:11 UTC  
+**Last Updated:** March 23, 2026 at 07:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Asimov is an open-source humanoid robot we're building at Menlo Research. We've already open-sourced Asimov v0 (the legs) and plan to open-source Asimov v1 (the full body) once we improve its walking. Asimov v0: https://github.com/asimovinc/asimov-v0 Website: https://asimov.inc/
 
-2h ago
+4h ago
 
 ---
 
@@ -44,7 +44,7 @@ Asimov is an open-source humanoid robot we're building at Menlo Research. We've 
 
 Still cant get it to walk forward yet but rotating seems okay. Can definitely be better tho. This is still a work im progress, the hexapod frame is 3d printed from a creator at makerworld. The internals and code are mine. Mine uses a ps2 controller for this hexapod. If any of you guys are working on the same frame, i will share the schematics and code for free once im finally done with this builddd. Its been about a month since i started this hexapod and mannnn its been cracking my head ever since 😂
 
-12h ago
+13h ago
 
 ---
 
@@ -52,7 +52,7 @@ Still cant get it to walk forward yet but rotating seems okay. Can definitely be
 
 This is Ricket, a robot project I’ve been building for the past year, programmed mostly using ROS2. My main goals for it are expressive movement, strong body language, and a face/behavior system with a lot of personality. Longer term, I also want to push it toward more dynamic legged motion and eventually jumping. I’ve mostly been documenting progress on Instagram so far (@tomsrocketsandrobots), but I’m getting closer to hardware testing and wanted to see if there was interest in me sharing updates here too. Also I’ve got a new batch of parts arriving tomorrow, and on Wednesday at 6 PM MST I’m planning to livestream the teardown and install. If people are into it, I can keep posting updates here.
 
-1h ago
+2h ago
 
 ---
 
@@ -60,7 +60,7 @@ This is Ricket, a robot project I’ve been building for the past year, programm
 
 The setup includes two robotic operation platforms, 28 sorting robots, and 4 delivery robots. A returned book goes through the return window → travels via conveyor belt → is picked up by a sorting robot and delivered to the correct shelf based on its category. Technically, this is the same class of autonomous mobile robotics used in e-commerce fulfillment. Robots navigate between shelves, avoid obstacles, and optimize routes in real time. Traditionally, librarians spend significant time collecting returned books, pushing carts, and manually reshelving.
 
-13h ago
+14h ago
 
 ---
 
@@ -68,7 +68,7 @@ The setup includes two robotic operation platforms, 28 sorting robots, and 4 del
 
 Hello, I’m currently working on a monkey humanoid robot with several servos. I was using two 4S 14.8V 6500mAh LiPo batteries in parallel to increase capacity, with a fuse on each battery. During initial tests with a few motors, everything was working fine. But when I ran a program where multiple motors moved at the same time, I noticed a burning smell and immediately powered everything off. After checking, nothing seemed visibly damaged, but both batteries dropped to around 7.4V. When I measured the cells, I found 2 cells normal (~4V) and 2 cells at 0V on each battery. So both packs are now dead. I believe the issue comes from running LiPo batteries in parallel without proper protection, even with fuses in place. I’m now looking for advice to prevent this in the future: should I avoid parallel setups, use additional protection (BMS, diodes, etc.), or change my power architecture entirely? Thanks in advance for your help.
 
-11h ago
+12h ago
 
 ---
 
@@ -76,7 +76,7 @@ Hello, I’m currently working on a monkey humanoid robot with several servos. I
 
 Saw the Galbot in action today at a cafe. What’s impressive is that it’s operating completely autonomously—no human intervention required. Watching its dual-arm coordination handle the espresso machine and serving was a great example of embodied AI moving into real-world commercial applications. This isn't just a demo; it's a functioning business model.
 
-18h ago
+20h ago
 
 ---
 
@@ -84,7 +84,7 @@ Saw the Galbot in action today at a cafe. What’s impressive is that it’s ope
 
 I use 4 dc 300 rpm Motor Push button - 4pcs 12V 30A industrial relay - 4 pcs Kindly help me to make this , give me circuit diagram for the controller for the button and relay. Control logic , front two buttons pressed - move forward Back two buttons pressed - move backwards
 
-1h ago
+3h ago
 
 ---
 
@@ -92,7 +92,7 @@ I use 4 dc 300 rpm Motor Push button - 4pcs 12V 30A industrial relay - 4 pcs Kin
 
 The tiny swimmers wreak havoc across the globe, but the robofish shocked them enough to impair their survival and reproduction
 
-🔗 [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/scientists-terrify-invasive-mosquitofish-with-their-worst-nightmare-a-robotic-fish-180979258/) • 12h ago
+🔗 [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/scientists-terrify-invasive-mosquitofish-with-their-worst-nightmare-a-robotic-fish-180979258/) • 13h ago
 
 ---
 
@@ -100,7 +100,7 @@ The tiny swimmers wreak havoc across the globe, but the robofish shocked them en
 
 https://genesis-embodied-ai.github.io/ It's been about a year since they released their open repo along with an announcement video that seemed a little too good to be true. The video made a lot of publicity but there seemed to be some controversy at the time about the video containing functionality that wasn't actually available, that the devs said would be released later. Since then, I haven't seen any one actually using it. Was it all hype? It looks like the repo is still active. Has anyone used it for anything?
 
-14h ago
+15h ago
 
 ---
 
@@ -156,14 +156,6 @@ The Republic News • 1d ago
 
 ---
 
-**[Nebius NVIDIA Alliance Expands AI Cloud Into Full Robotics Lifecycle](https://finance.yahoo.com/markets/stocks/articles/nebius-nvidia-alliance-expands-ai-042325696.html)**
-
-Nebius Group (NasdaqGS:NBIS) and NVIDIA have launched a comprehensive AI robotics cloud platform. The platform offers synthetic data generation, unified orchestration, and managed production inference as a single cloud service. The service is designed to run across Nebius global data centers and targets robotics, autonomous systems, and other physical AI use cases. For Nebius Group, which is known for AI focused cloud infrastructure, this partnership widens its role into the full lifecycle...
-
-Yahoo Finance • 1h ago
-
----
-
 **[Robotics giant plans massive $90M plant in metro Detroit, 225 jobs](https://www.crainsdetroit.com/manufacturing-logistics/cdb-fanuc-robots-investment-michigan-20260319/)**
 
 Japanese manufacturer Fanuc is plotting a large expansion in Michigan in response to demand from automakers and other customers.
@@ -172,17 +164,17 @@ Crain's Detroit Business • 2d ago
 
 ---
 
-**[Regional STEM competition brings nearly 40 robotics teams to Appleton East this weekend](https://fox11online.com/good-day-wi/regional-stem-competition-brings-nearly-40-robotics-teams-to-appleton-east-this-weekend)**
+**[Nebius NVIDIA Alliance Expands AI Cloud Into Full Robotics Lifecycle](https://finance.yahoo.com/markets/stocks/articles/nebius-nvidia-alliance-expands-ai-042325696.html)**
 
-APPLETON (WLUK) -- See robots in action at a STEM event at Appleton East High School this weekend.Almost 40 high school robotics teams from across the region ar
+Nebius Group (NasdaqGS:NBIS) and NVIDIA have launched a comprehensive AI robotics cloud platform. The platform offers synthetic data generation, unified orchestration, and managed production inference as a single cloud service. The service is designed to run across Nebius global data centers and targets robotics, autonomous systems, and other physical AI use cases. For Nebius Group, which is known for AI focused cloud infrastructure, this partnership widens its role into the full lifecycle...
 
-WLUK • 20h ago
+Yahoo Finance • 3h ago
 
 ---
 
 **[Chinese Robot Maker Unitree Seeks $610 Million in Shanghai IPO](https://www.bloomberg.com/news/articles/2026-03-20/chinese-robot-maker-unitree-seeks-610-million-in-shanghai-ipo)**
 
-Bloomberg.com • 2d ago
+Bloomberg • 2d ago
 
 ---
 
@@ -194,9 +186,27 @@ GeekWire • 2d ago
 
 ---
 
+**[McDonald’s in Chinese city pilots humanoid robots to serve meals, greet customers](https://nypost.com/2026/03/22/world-news/mcdonalds-in-chinese-city-pilots-humanoid-robots-to-serve-meals-greet-customers/)**
+
+The robots, supplied by Chinese firm Keenon Robotics, were deployed as part of a trial at the McDonald’s location, Digitaltrends reported.
+
+New York Post • 2h ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
+
+**[China’s New AI Robots Just Broke The Human Skill Barrier](https://www.youtube.com/watch?v=QDRzgF-8-50)**
+
+This week in robotics got kind of ridiculous. South Korea showed off a humanoid that can run, jump, play soccer, and moonwalk, ...
+
+📺 AI Revolution
+
+👁️ 24K • 👍 727 • 💬 62 • ⏱️ 14:31 • 7h ago
+
+---
 
 **[Every Robot I Met at Nvidia GTC SPEEDRUN!](https://www.youtube.com/watch?v=mFr7XfTY5bY)**
 
@@ -204,7 +214,7 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 📺 CNET
 
-👁️ 7K • 👍 275 • 💬 14 • ⏱️ 5:50 • 18h ago
+👁️ 7K • 👍 285 • 💬 14 • ⏱️ 5:50 • 19h ago
 
 ---
 
@@ -214,7 +224,7 @@ Gecko Robotics announced a $71 million partnership with the US Navy, deploying i
 
 📺 Bloomberg Technology
 
-👁️ 5K • 👍 144 • 💬 3 • ⏱️ 4:39 • 5d ago
+👁️ 5K • 👍 146 • 💬 3 • ⏱️ 4:39 • 5d ago
 
 ---
 
@@ -224,7 +234,7 @@ Gecko Robotics announced a $71 million partnership with the US Navy, deploying i
 
 📺 MachineWorks Studio
 
-👁️ 3.3M • 👍 3K • 💬 46 • ⏱️ 0:06 • 6d ago
+👁️ 3.4M • 👍 3K • 💬 46 • ⏱️ 0:06 • 6d ago
 
 ---
 
@@ -234,17 +244,7 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 283K • 👍 3K • 💬 2K • ⏱️ 2:07 • 3d ago
-
----
-
-**[Full Width Intake and Dual Shooter | 5813 Morpheus | FRC Pit Stop](https://www.youtube.com/watch?v=g2jIOEZxHgs)**
-
-Full Width Intake and Dual Shooter | 5813 Morpheus | FRC Pit Stop This video is supported by OSHCut. Get 50% off your first ...
-
-📺 FUN Robotics Network
-
-👁️ 4K • 👍 115 • 💬 1 • ⏱️ 1:16 • 1d ago
+👁️ 288K • 👍 4K • 💬 2K • ⏱️ 2:07 • 3d ago
 
 ---
 
@@ -258,13 +258,21 @@ COGLET KICKSTARTER LAUNCH: ...
 
 ---
 
-**[The First Robot Soldier is Here: Phantom MK-1 Deployed to Ukraine](https://www.youtube.com/watch?v=L0d6mvpDIYY)**
+**[Full Width Intake and Dual Shooter | 5813 Morpheus | FRC Pit Stop](https://www.youtube.com/watch?v=g2jIOEZxHgs)**
 
-war #robot #usa Foundation is testing its Phantom MK-1 humanoid soldier and has secured $24 million in research contracts with ...
+Full Width Intake and Dual Shooter | 5813 Morpheus | FRC Pit Stop This video is supported by OSHCut. Get 50% off your first ...
 
-📺 OTOFOOTAGE
+📺 FUN Robotics Network
 
-👁️ 20K • 👍 82 • 💬 53 • ⏱️ 2:12 • 5d ago
+👁️ 4K • 👍 120 • 💬 1 • ⏱️ 1:16 • 1d ago
+
+---
+
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=Vu26G3owuHM)**
+
+📺 Robot Julie 
+
+👁️ 7K • 👍 32 • ⏱️ 0:29 • 4h ago
 
 ---
 
@@ -274,27 +282,17 @@ Do you want to see a humanoid AI lab from the inside? I do – join me and let's
 
 📺 Andreas Klinger @ PROTOTYPE
 
-👁️ 12K • 👍 477 • 💬 37 • ⏱️ 18:52 • 2d ago
+👁️ 12K • 👍 481 • 💬 37 • ⏱️ 18:52 • 2d ago
 
 ---
 
-**[Dancing robot goes rogue in hot pot restaurant](https://www.youtube.com/watch?v=DfnIEWpbMU8)**
+**[The First Robot Soldier is Here: Phantom MK-1 Deployed to Ukraine](https://www.youtube.com/watch?v=L0d6mvpDIYY)**
 
-Video shows restaurant employees struggling to restrain a dancing robot that went rogue in a hot pot restaurant in California.
+war #robot #usa Foundation is testing its Phantom MK-1 humanoid soldier and has secured $24 million in research contracts with ...
 
-📺 NBC News
+📺 OTOFOOTAGE
 
-👁️ 197K • 👍 2K • 💬 646 • ⏱️ 3:38 • 4d ago
-
----
-
-**[China’s New 6 Armed Robot Is Here… The World Is NOT Ready](https://www.youtube.com/watch?v=jpTxgk6K8ho)**
-
-Orchestrated YouTube description crafting from provided content   A six-armed humanoid robot just hit a real factory floor — and ...
-
-📺 The AI Nexus
-
-👁️ 6K • 👍 155 • 💬 7 • ⏱️ 21:04 • 3d ago
+👁️ 20K • 👍 82 • 💬 53 • ⏱️ 2:12 • 5d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-23T06:11:12.350188+00:00'
+updated: '2026-03-23T07:45:09.888468+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
 - cryptocurrency
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 23, 2026 at 06:11 UTC  
+**Last Updated:** March 23, 2026 at 07:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.4%  
-**7d:** -11.0%  
-**30d:** +5.4%  
-**90d:** -29.9%  
-**1y:** -0.9%  
+**24h:** -2.0%  
+**7d:** -11.7%  
+**30d:** +4.5%  
+**90d:** -30.5%  
+**1y:** -1.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $248.56B
+**Market Cap:** $246.86B
 Rank #2
 
 **Circulating Supply:** 120,691,597 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.4%
+-58.6%
 
 **All-Time Low:** $0.43
-+475491.2%
++472315.5%
 
 ---
 
@@ -72,15 +72,7 @@ No max supply
 
 An attacker minted $80M in unbacked USR stablecoins using just $200K, crashing the token 62%. The GENIUS Act was supposed to prevent exactly this.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/resolv-usr-stablecoin-80-million-unauthorized-mint-2026/) • 8h ago
-
----
-
-**[Is Ethereum L2 fragmentation actually getting worse?](https://www.reddit.com/r/ethereum/comments/1s10epx/is_ethereum_l2_fragmentation_actually_getting/)**
-
-Been using Ethereum for years and I'm happy with the roadmap, but L2s are starting to feel like their own isolated islands. Arbitrum, Base, Optimism, ZkSync , each has its own liquidity, its own bridges, its own quirks. I get that they scale the network, but moving between them still feels clunky. Sometimes I wonder if we're solving one problem (fees on mainnet) while creating another (fragmentation). Curious how others see this. Are we heading toward a unified L2 experience or is this just how it's going to be?
-
-6h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/resolv-usr-stablecoin-80-million-unauthorized-mint-2026/) • 9h ago
 
 ---
 
@@ -88,7 +80,15 @@ Been using Ethereum for years and I'm happy with the roadmap, but L2s are starti
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
+
+---
+
+**[Is Ethereum L2 fragmentation actually getting worse?](https://www.reddit.com/r/ethereum/comments/1s10epx/is_ethereum_l2_fragmentation_actually_getting/)**
+
+Been using Ethereum for years and I'm happy with the roadmap, but L2s are starting to feel like their own isolated islands. Arbitrum, Base, Optimism, ZkSync , each has its own liquidity, its own bridges, its own quirks. I get that they scale the network, but moving between them still feels clunky. Sometimes I wonder if we're solving one problem (fees on mainnet) while creating another (fragmentation). Curious how others see this. Are we heading toward a unified L2 experience or is this just how it's going to be?
+
+8h ago
 
 ---
 
@@ -96,19 +96,27 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 US SEC securities laws application to crypto, fast confirmation rule, EF mandate
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-16/) • 6h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-16/) • 8h ago
 
 ---
 
 **[Ethereum Cuts Bridge Times by 98%](https://www.reddit.com/r/ethereum/comments/1s0mzw8/ethereum_cuts_bridge_times_by_98/)**
 
-🔗 [financefeeds.com](https://financefeeds.com/crypto-news-ethereum-cuts-bridge-times-by-98-while-pepeto-hands-early-believers-100x-presale-gains/) • 15h ago
+🔗 [financefeeds.com](https://financefeeds.com/crypto-news-ethereum-cuts-bridge-times-by-98-while-pepeto-hands-early-believers-100x-presale-gains/) • 17h ago
+
+---
+
+**[Kindly assistance required - Unknown Txn](https://www.reddit.com/r/ethereum/comments/1s15ob8/kindly_assistance_required_unknown_txn/)**
+
+Hi, Long story short 45sec after funding my trust wallet a transfer occurred that I do not recall making. Mar-23-2026 01:10:59 AM From funding wallet to trust wallet Erc20 0xd88cec26651601789e86cedbefc2af5e3d282249badc150f9caeb4fea509be30 The unknown transaction Mar-23-2026 01:11:47 AM 0xa72208defce57ad563bc406f8a5bfd6fa8dc4e17f2b2045e11741eb88067cf1b Is there something i am missing? Or is my wallet compromised. Thanks in advance.
+
+4h ago
 
 ---
 
 **[x402s now has state channels](https://www.reddit.com/r/ethereum/comments/1s0yi3u/x402s_now_has_state_channels/)**
 
-🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2035835465354322316) • 8h ago
+🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2035835465354322316) • 9h ago
 
 ---
 
@@ -116,7 +124,7 @@ US SEC securities laws application to crypto, fast confirmation rule, EF mandate
 
 Just finished the first version of Aegisa. It’s basically a "Control Tower" for testnets. The goal was to have one place to check balances across Sepolia, Base, IOTA, etc., and dispense gas via a dedicated API for automated tasks. It's meant to be hosted on your own infra so you aren't at the mercy of public endpoints. Landing page:https://mwveliz.github.io/aegisa/ Source:https://github.com/mwveliz/aegisa/
 
-5h ago
+7h ago
 
 ---
 
@@ -132,15 +140,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi there, I made a niche thing, probably useful for a small group of node runners who wanted something like this. It’s basically a lightweight, IPFS-hosted Ethereum explorer — like Etherscan, but it queries your own node directly via JSON-RPC. It’s just a static HTML page, so you open it, enter your RPC, and use it. No backend, no setup — just a page. Access nodex.monkale.eth nodex.monkale.eth.limo Repo github.com/monkale-io/ethereum-node-explorer I built it after I started running my own node and wanted a simple web UI to explore it. I found an old explorer (Alethio ethereum-lite-explorer) — it still works and is actually quite good, but it was abandoned ~6 years ago — so I decided to rewrite it with a modern stack and put it on IPFS, so it can stay just a static page without any backend or services to run. Planning to maintain and evolve it. Feedback and contributions are welcome.
 
-14h ago
-
----
-
-**[Kindly assistance required - Unknown Txn](https://www.reddit.com/r/ethereum/comments/1s15ob8/kindly_assistance_required_unknown_txn/)**
-
-Hi, Long story short 45sec after funding my trust wallet a transfer occurred that I do not recall making. Mar-23-2026 01:10:59 AM From funding wallet to trust wallet Erc20 0xd88cec26651601789e86cedbefc2af5e3d282249badc150f9caeb4fea509be30 The unknown transaction Mar-23-2026 01:11:47 AM 0xa72208defce57ad563bc406f8a5bfd6fa8dc4e17f2b2045e11741eb88067cf1b Is there something i am missing? Or is my wallet compromised. Thanks in advance.
-
-3h ago
+15h ago
 
 ---
 
@@ -152,15 +152,15 @@ Hi, Long story short 45sec after funding my trust wallet a transfer occurred tha
 
 While upgrades have improved efficiency and lowered costs, the ecosystem faces deeper structural questions around fragmentation, security, and purpose, even as it continues prioritizing base-layer scaling.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
-**[Ethereum flipped in 2026? Predictions & Odds](https://polymarket.com/event/eth-flipped-in-2026)**
+**[Ethereum, XRP, and Solana Price Prediction As CLARITY Act Advances After Senate–White House Deal](https://coingape.com/markets/ethereum-xrp-and-solana-price-prediction-as-clarity-act-advances-after-senate-white-house-deal/)**
 
-View real-time odds for "Ethereum flipped in 2026?" as of March 15, 2026 and trade on The World's Largest Prediction Market™
+Ethereum, XRP, and Solana prices remained firm as the broader crypto market hovered slightly above the $70,000 level on renewed optimism.   Ethereum price
 
-Polymarket • 2mo ago
+CoinGape • 1d ago
 
 ---
 
@@ -168,7 +168,7 @@ Polymarket • 2mo ago
 
 Cryptocurrency analyst Ali Martinez said on Thursday that Ethereum has entered a generational “Buy Zone,” hinting at major bull runs on the horizon. What History Says In an X post, Martinez pointed out that Ethereum’s Market Value to Realized Value...
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -184,7 +184,7 @@ TradingView • 1d ago
 
 Dubai, UAE, March  22, 2026  (GLOBE NEWSWIRE) -- Pepeto just moved its Binance listing into the final round, and the presale has gone viral with i...
 
-markets.businessinsider.com • 8h ago
+markets.businessinsider.com • 10h ago
 
 ---
 
@@ -192,27 +192,27 @@ markets.businessinsider.com • 8h ago
 
 Bitcoin, Ethereum and XRP tumbled sharply on Sunday after Iran responded to President Trump's 48-hour ultimatum not with concessions but with an
 
-Coinpedia Fintech News • 14h ago
+Coinpedia Fintech News • 15h ago
 
 ---
 
 **[Ethereum ETF Feels the Chill as Investors Pull $102 Million from ETHA](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-feels-the-chill-as-investors-pull-102-million-from-etha)**
 
-TipRanks • 16h ago
+TipRanks • 18h ago
 
 ---
 
-**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqfpVyZ7RATRrA_6T0oi3X0F3rBS0LnzC0O1EV9jlSAPl7XA0xlKt6dB&gaa_ts=69c0dceb&gaa_sig=5D04U1B7HqIlTMeXBsoa_wwDPJuhyvRKKhAuuZJWfCEq5Fjt-fu36mvQ22EcYxllkOJFW99gC0qsXJJdBCsCMQ%3D%3D)**
+**[Most large cryptocurrencies fall on Ethereum, Bitcoin drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-ethereum-bitcoin-drops-df073882-801760a6a802?gaa_at=eafs&gaa_n=AWEtsqdiOMmBkzA2UZNs7M9AkL_vwmVYZHEv7j7r117x2XtHp7EsNAx6hHpG&gaa_ts=69c0f2ec&gaa_sig=kz4rEtWCA-9tLT6rC794MVJcQLzskCqFgACsZXsUe_SmrgAA4_vG6ww2LB_jEtv6Cj7DS7a8x8aSPA5haFcUuw%3D%3D)**
 
 MarketWatch • 2d ago
 
 ---
 
-**[Ethereum, XRP, and Solana Price Prediction As CLARITY Act Advances After Senate–White House Deal](https://coingape.com/markets/ethereum-xrp-and-solana-price-prediction-as-clarity-act-advances-after-senate-white-house-deal/)**
+**[Current price of Ethereum for March 20, 2026](https://fortune.com/article/price-of-ethereum-03-20-2026/)**
 
-Ethereum, XRP, and Solana prices remained firm as the broader crypto market hovered slightly above the $70,000 level on renewed optimism.   Ethereum price
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-CoinGape • 1d ago
+Fortune • 2d ago
 
 ---
 
@@ -228,23 +228,23 @@ New York Post • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[BITCOIN DUMP EXPLAINED (Price Target Hit)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=JjEpOZnEEdE)**
-
-BITCOIN DUMP EXPLAINED (Price Target Hit)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
-
-📺 Crypto World
-
-👁️ 3K • 👍 210 • 💬 61 • ⏱️ 17:12 • 5h ago
-
----
-
 **[Vitalik vs BlackRock: Who Wins?](https://www.youtube.com/watch?v=l77QrTEIgpo)**
 
 BlackRock just launched a staking Ethereum ETF—but is it really a win for investors? This video breaks down ETHB, hidden fees, ...
 
 📺 Coin Bureau
 
-👁️ 20K • 👍 845 • 💬 96 • ⏱️ 18:11 • 1d ago
+👁️ 20K • 👍 856 • 💬 98 • ⏱️ 18:11 • 1d ago
+
+---
+
+**[BITCOIN DUMP EXPLAINED (Price Target Hit)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=JjEpOZnEEdE)**
+
+BITCOIN DUMP EXPLAINED (Price Target Hit)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 259 • 💬 154 • ⏱️ 17:12 • 7h ago
 
 ---
 
@@ -254,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 903 • 👍 59 • 💬 1 • ⏱️ 4:11 • 7h ago
+👁️ 1K • 👍 76 • 💬 4 • ⏱️ 4:11 • 9h ago
 
 ---
 
@@ -264,17 +264,17 @@ Ethereum is showing strong bullish signals, with analysts predicting a major reb
 
 📺 Crypto Sensei
 
-👁️ 7K • 👍 483 • 💬 58 • ⏱️ 12:42 • 2d ago
+👁️ 7K • 👍 485 • 💬 58 • ⏱️ 12:42 • 2d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=KnXx-aBVU8U)**
+**[Bitcoin &amp; Ethereum. DARAUF würde ich jetzt achten um den Trade nicht zu verpassen!](https://www.youtube.com/watch?v=w1URFR1Bljc)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
 
-📺 Crypto Gyan
+📺 Krypto Trading & Investing
 
-👁️ 282 • 👍 53 • ⏱️ 7:35 • 3h ago
+👁️ 2K • 👍 495 • 💬 82 • ⏱️ 7:21 • 3h ago
 
 ---
 
@@ -284,7 +284,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 494 • 💬 45 • ⏱️ 19:43 • 2d ago
+👁️ 13K • 👍 495 • 💬 45 • ⏱️ 19:43 • 2d ago
 
 ---
 
@@ -294,17 +294,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 149 • 💬 6 • ⏱️ 4:00 • 15h ago
+👁️ 2K • 👍 150 • 💬 7 • ⏱️ 4:00 • 17h ago
 
 ---
 
-**[Will the Crypto Market CRASH Next Week?🚨 (Bitcoin, Ethereum, XRP &amp; Altcoins Update)](https://www.youtube.com/watch?v=Y3cmlLGbauo)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=KnXx-aBVU8U)**
 
-CRYPTO MARKET UPDATE! Crypto Crash Next Week? Join the Premium Signal Group for trade setups, mentorship & a ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 Cilinix Crypto
+📺 Crypto Gyan
 
-👁️ 2K • 👍 84 • 💬 12 • ⏱️ 6:47 • 17h ago
+👁️ 614 • 👍 89 • ⏱️ 7:35 • 4h ago
 
 ---
 
@@ -314,17 +314,17 @@ cryptomonnaies #cryptofrance #Bitcoin #Crypto #dollar #crypto #macroéconomie #s
 
 📺 Cryptolyze | Crypto - Finance - Économie
 
-👁️ 5K • 👍 478 • 💬 70 • ⏱️ 35:47 • 18h ago
+👁️ 5K • 👍 516 • 💬 70 • ⏱️ 35:47 • 20h ago
 
 ---
 
-**[Herkes Savaşa Odaklanmışken Bu Varlıklara Bak (BTC, ETH, Altın...)](https://www.youtube.com/watch?v=AdSI4plGWNc)**
+**[JUST IN: CNBC Accidentally Reveals Massive Crypto News | Clarity Act](https://www.youtube.com/watch?v=47Rl-dnSMz4)**
 
-Kaosun ortasında makroekonomi ve varlıkları teker teker inceledim. Herkes savaş uzmanıyken biz seyirci değil, oyuncu olmak için ...
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Buy, Sell, Trade Coins ($500 Bonus + $30k ...
 
-📺 Emir Şahin
+📺 Altcoin Daily
 
-👁️ 9K • 👍 900 • 💬 139 • ⏱️ 15:06 • 14h ago
+👁️ 56K • 👍 3K • 💬 186 • ⏱️ 9:50 • 2d ago
 
 ---
 
