@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-23T02:25:47.205966+00:00'
+updated: '2026-03-23T04:41:17.740090+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
+- social
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 23, 2026 at 02:25 UTC  
+**Last Updated:** March 23, 2026 at 04:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Palantir’s Maven artificial intelligence system will become an official program of record, Deputy Secretary of Defense Steve Feinberg said in a letter to Pentagon leaders, a move that locks in long-term use of Palantir’s weapons-targeting ‌technology across the U.S. military.  In the March 9 letter to senior Pentagon leaders and U.S. military commanders, Feinberg said embedding Palantir’s Maven ‌Smart System would provide warfighters “with the latest tools necessary to detect, deter, and dominate our adversaries in all domains”.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/exclusive-pentagon-adopt-palantir-ai-232821913.html) • 2h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/exclusive-pentagon-adopt-palantir-ai-232821913.html) • 4h ago
 
 ---
 
@@ -49,15 +49,13 @@ Palantir’s Maven artificial intelligence system will become an official progra
 
 I am a painter with work at MoMA and the Met. I just published 50 years of my work as an open AI dataset. Here is what I learned. I have been making figurative art since the 1970s. Oil on canvas, works on paper, drawings, etchings, lithographs, and more recently digital works. My paintings are in the collections of the Metropolitan Museum of Art, MoMA, SFMOMA, and the British Museum. Earlier this month I published my entire catalog raisonne as an open dataset on Hugging Face. Roughly 3,000 to 4,000 documented works with full metadata, CC-BY-NC-4.0 licensed. My total output is about double that and I will keep adding to it. In one week the dataset has had over 2,500 downloads. I am not a developer or a researcher. I am an artist who has spent fifty years painting the human figure. I did this because I want my work to have a future and the future involves AI. I would rather engage with that on my own terms than wait for it to happen to me. What surprised me is how quickly the research community found it and engaged with it. What did not surprise me is that the questions the dataset raises are the same questions my paintings have always asked. What does it mean to look at the human body? What does the machine see that the human does not? What does the human see that the machine cannot? I do not have answers. I have fifty years of looking. If you have downloaded it or are thinking about it I would genuinely like to hear what you are doing with it. Dataset: huggingface.co/datasets/Hafftka/michael-hafftka-catalog-raisonne
 
-22h ago
+1d ago
 
 ---
 
-**[You are not prepared for what comes next… Thoughts on our AI future](https://www.reddit.com/r/artificial/comments/1s128lu/you_are_not_prepared_for_what_comes_next_thoughts/)**
+**[This was created entirely by AI I genuinely thought it was something off of Star Wars at first](https://www.reddit.com/r/artificial/comments/1s16spl/this_was_created_entirely_by_ai_i_genuinely/)**
 
-That’s what the they keep saying. I’ll tell you what comes next. If you do not change. If I don’t change. If we don’t change it will continue to consume you, me, us in ever more sophisticated and complete ways. I’ve interviewed more tech job seekers looking for work right now than anyone in the world. People need jobs now. But they need meaning too. Whether we like it or not. We are headed back to the farm. Back to village. Back to our nature and what millions of years of evolution hard coded into us. The question is whether we go soon and joyfully and willingly. Or run back in a panic. They are right. We are not prepared for what comes next. But we can be. That is what I believe we are headed for. What do you think?
-
-1h ago
+35m ago
 
 ---
 
@@ -65,7 +63,15 @@ That’s what the they keep saying. I’ll tell you what comes next. If you do n
 
 I have ADHD and I've been pair programming with LLMs for a while now. At some point I realized the way they fail felt weirdly familiar. Confidently making stuff up, losing context mid conversation, brilliant lateral connections then botching basic sequential logic. That's just... my Tuesday. So I went into the cognitive science literature. Found six parallels backed by independent research groups who weren't even looking at this connection. Associative processing. In ADHD the Default Mode Network bleeds into task-positive networks (Castellanos et al., JAMA Psychiatry). Transformer attention computes weighted associations across all tokens with no strong relevance gate. Both are association machines with high creative connectivity and random irrelevant intrusions. Confabulation. Adults with ADHD produce significantly more false memories that feel true (Soliman & Elfar, 2017, d=0.69+). A 2023 PLOS Digital Health paper argues LLM errors should be called confabulation not hallucination. A 2024 ACL paper found LLM confabulations share measurable characteristics with human confabulation (Millward et al.). Neither system is lying. Both fill gaps with plausible pattern-completed stuff. Context window is working memory. Working memory deficits are among the most replicated ADHD findings (d=0.69-0.74 across meta-analyses). An LLM's context window is literally its working memory. Fixed size, stuff falls off the end, earlier info gets fuzzy. And the compensation strategies mirror each other. We use planners and external systems. LLMs use system prompts, CLAUDE.md files, RAG. Same function. Pattern completion over precision. ADHD means better divergent thinking, worse convergent thinking (Hoogman et al., 2020). LLMs are the same. Great at pattern matching and creative completion, bad at precise multi-step reasoning. Both optimized for "what fits the pattern" not "what is logically correct in sequence." Structure as force multiplier. Structured environments significantly improve ADHD performance (Frontiers in Psychology, 2025). Same with LLMs. Good system prompt with clear constraints equals dramatically better output. Remove the structure, get rambling unfocused garbage. Works the same way in both systems. Interest-driven persistence vs thread continuity. Sustained focused engagement on one thread produces compounding quality in both cases. Break the thread and you lose everything. Same as someone interrupting deep focus and you have zero idea where you were. The practical takeaway is that people who've spent years managing ADHD brains have already been training the skills that matter for AI collaboration. External scaffolding, pattern-first thinking, iterating without frustration. I wrote up the full research with all citations at thecreativeprogrammer.dev if anyone wants to go deeper. What's your experience? Have you noticed parallels between how LLMs fail and how your own thinking works?
 
-5h ago
+7h ago
+
+---
+
+**[You are not prepared for what comes next… Thoughts on our AI future](https://www.reddit.com/r/artificial/comments/1s128lu/you_are_not_prepared_for_what_comes_next_thoughts/)**
+
+That’s what the they keep saying. I’ll tell you what comes next. If you do not change. If I don’t change. If we don’t change it will continue to consume you, me, us in ever more sophisticated and complete ways. I’ve interviewed more tech job seekers looking for work right now than anyone in the world. People need jobs now. But they need meaning too. Whether we like it or not. We are headed back to the farm. Back to village. Back to our nature and what millions of years of evolution hard coded into us. The question is whether we go soon and joyfully and willingly. Or run back in a panic. They are right. We are not prepared for what comes next. But we can be. That is what I believe we are headed for. What do you think?
+
+4h ago
 
 ---
 
@@ -73,7 +79,15 @@ I have ADHD and I've been pair programming with LLMs for a while now. At some po
 
 This innovative technology mimics the movement of real fish to navigate delicate underwater ecosystems without disturbing marine life. By capturing tiny plastic particles that are otherwise impossible to collect, these robots are providing a much needed boost to ocean conservation efforts worldwide. It is a huge step forward in the fight against plastic pollution.
 
-🔗 [skarfinans.com](https://skarfinans.com/en/how-autonomous-robot-fish-are-revolutionizing-ocean-plastic-cleanup/) • 6h ago
+🔗 [skarfinans.com](https://skarfinans.com/en/how-autonomous-robot-fish-are-revolutionizing-ocean-plastic-cleanup/) • 8h ago
+
+---
+
+**[Alex Chenglin Wu of DeepWisdom On The Future Of Artificial Intelligence | by Chad Silverstein | Authority Magazine | Mar, 2026](https://www.reddit.com/r/artificial/comments/1s15wc9/alex_chenglin_wu_of_deepwisdom_on_the_future_of/)**
+
+An Interview With Chad Silverstein
+
+🔗 [Medium](https://medium.com/authority-magazine/alex-chenglin-wu-of-deepwisdom-on-the-future-of-artificial-intelligence-f54b0cd251b0) • 1h ago
 
 ---
 
@@ -81,7 +95,7 @@ This innovative technology mimics the movement of real fish to navigate delicate
 
 Hosted on a Pi 2, coded with Python, using GROQ for fast computing and limit cost, LCD screen incased a 3d printed 90's pc styled cased with the Pi.
 
-3h ago
+5h ago
 
 ---
 
@@ -89,7 +103,7 @@ Hosted on a Pi 2, coded with Python, using GROQ for fast computing and limit cos
 
 Every time I walk in the city everyone is sad and depressed and unhappy. I work in a call center for 8 hours or 9 with lunch included or 11 hours with dislocations included. Anyway. Most of my work is BS. Makes zero sense and doesn't even have any logic or helps society in anyway. I m tired, burnout and depressed. All works are like that now: impossible objectives and follow 300 rules in a call. I wish ia would take capitalism and this crapy jobs away any time.....i would not care. Of course if ubi arrives.
 
-14h ago
+16h ago
 
 ---
 
@@ -97,23 +111,7 @@ Every time I walk in the city everyone is sad and depressed and unhappy. I work 
 
 Focus Features is offering Reddit users free tickets to a special advanced screening of The AI Doc: Or How I Became an Apocaloptimist, ahead of its regular release. The screenings will take place at 2 different theaters in NYC (AMC Lincoln Square) and LA (AMC The Grove) on Thursday 3/26 at 7 PM. You can bring a guest as well. It's from director Daniel Roher, who won the Best Documentary Oscar for his 2022 film Navalny. If you're in that area and are interested in attending this special event ahead of the regular release, for free, please fill out this form for your free ticket(s): LA: https://forms.gle/FvRZZLbrteYfb8ePA NY: https://forms.gle/L28h4fpWf96ExjKz6 The NY screening is at: AMC Lincoln Square | 1998 Broadway, New York, NY 10023 The LA screening is at : AMC The Grove | 189 The Grove Dr, Los Angeles, CA 90036 Trailer: https://www.youtube.com/watch?v=xkPbV3IRe4Y Synopsis: Hoping to figure out what's happening with artificial intelligence, a father-to-be embarks on an eye-opening journey to learn more about the most powerful technology humanity has ever created -- and what's at stake if we get it wrong. You will get your tickets by email a couple of days before the screening.
 
-13h ago
-
----
-
-**[How context engineering turned Codex into my whole dev team — while cutting token waste](https://www.reddit.com/r/artificial/comments/1s0o9cb/how_context_engineering_turned_codex_into_my/)**
-
-One night I hit the token limit with Codex and realized most of the cost was coming from context reloading, not actual work. So I started experimenting with a small context engine around it: - persistent memory - context planning - failure tracking - task-specific memory - and eventually domain “mods” (UX, frontend, etc) At the end it stopped feeling like using an assistant and more like working with a small dev team. The article goes through all the iterations (some of them a bit chaotic, not gonna lie). Curious to hear how others here are dealing with context / token usage when vibe coding. Repo here if anyone wants to dig into it: here
-
-🔗 [Medium](https://medium.com/techtrends-digest/the-night-i-ran-out-of-tokens-5d90a7031f91) • 11h ago
-
----
-
-**[Does the economics of AI actually imply large-scale labor replacement?](https://www.reddit.com/r/artificial/comments/1rzztg1/does_the_economics_of_ai_actually_imply/)**
-
-Growth without people.
-
-🔗 [driscollglobe.com](https://www.driscollglobe.com/p/the-intelligence-curse-is-coming) • 1d ago
+15h ago
 
 ---
 
@@ -121,9 +119,39 @@ Growth without people.
 
 ## Google News: "ai"
 
-**[Exclusive | Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO](https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5?gaa_at=eafs&gaa_n=AWEtsqflHMtKu8G52PfuRKRtwyLTNsdUXhRVJcI3eUd2oamCfVLzzvVsFLZ6&gaa_ts=69c0a813&gaa_sig=hNBlSrM8BDll_jbtaFYvFAQYGZEmqkIvdxjcH_dP5mZJs9z_7xwHRZmeJJQOlF35ItOt_MnBv1C3fmMATW2qCA%3D%3D)**
+**[Exclusive | Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO](https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5?gaa_at=eafs&gaa_n=AWEtsqcZHfs9XfyyBgojMnFX6VxRt5iAepBYcS6DBFIoVaFvTfVc1C0oJ6qw&gaa_ts=69c0c7d4&gaa_sig=990rHrMIubmeja4OfMrAJa8sv4EBYlJWbljMfUpyuAoei3ykeIfk_fDqLd8FkVCTIKR35hTkKFg72M0JuImuKQ%3D%3D)**
 
-WSJ • 3h ago
+WSJ • 6h ago
+
+---
+
+**[AI-generated ads are trickling into political campaigns, sparking big worries](https://www.nbcnews.com/politics/2028-election/ai-midterms-politics-campaign-ads-rcna263752)**
+
+AI usage in political ads is largely regulated at the state level, but there remain concerns about how they can mislead voters.
+
+NBC News • 18h ago
+
+---
+
+**[Radnor Township, Pennsylvania, uses AI-powered traffic signals](https://www.cbsnews.com/philadelphia/video/radnor-township-pennsylvania-uses-ai-powered-traffic-signals/)**
+
+Radnor Township, Pennsylvania, is using AI-powered traffic signals along Lancaster Avenue in an effort to make streets safer and improve traffic flow.
+
+CBS News • 27m ago
+
+---
+
+**[AI Startup Upstage Looking at Buying 10,000 AMD Chips in Korea](https://www.bloomberg.com/news/articles/2026-03-23/ai-startup-upstage-looking-at-buying-10-000-amd-chips-in-korea)**
+
+Bloomberg.com • 55m ago
+
+---
+
+**[News/Media Alliance signs AI licensing deal to unlock recurring RAG revenue for small and mid-sized publishers](https://digiday.com/media/news-media-alliance-signs-ai-licensing-deal-to-unlock-recurring-rag-revenue-for-small-and-mid-sized-publishers/)**
+
+The News/Media Alliance has signed an AI licensing deal that lets its publisher members opt in to monetizing RAG-driven enterprise demand.
+
+Digiday • 38m ago
 
 ---
 
@@ -135,19 +163,17 @@ BBC • 1d ago
 
 ---
 
-**[OpenClaw's ChatGPT moment sparks concern that AI models are becoming commodities](https://www.cnbc.com/2026/03/21/openclaw-chatgpt-moment-sparks-concern-ai-models-becoming-commodities.html)**
+**[Tencent integrates WeChat with OpenClaw AI agent amid China tech battle](https://www.reuters.com/technology/tencent-integrates-wechat-with-openclaw-ai-agent-amid-china-tech-battle-2026-03-22/)**
 
-At Nvidia's GTC conference this week, CEO Nvidia Jensen Huang dedicated a major part of his keynote to OpenClaw, a technology that didn't exist six months ago.
-
-CNBC • 1d ago
+Reuters • 21h ago
 
 ---
 
-**[Opinion | Bracing for the A.I. Economy to Come](https://www.nytimes.com/2026/03/22/opinion/ai-economy-jobs.html)**
+**[Why Spotify AI more than music will be the secret to keeping subscribers](https://www.cnbc.com/2026/03/22/spotify-apple-amazon-streaming-music-ai.html)**
 
-Readers respond to two guest essays about the changes that artificial intelligence will wreak on the work force. Also: The shoes of the Trump men.
+A recent Spotify-ChatGPT deal is one more sign of how AI may be the best defense for a streaming music service in a me-too market for subscribers.
 
-The New York Times • 13h ago
+CNBC • 14h ago
 
 ---
 
@@ -155,45 +181,15 @@ The New York Times • 13h ago
 
 As the war in Iran rolls into its fourth week, continued energy market disruption and renewed bets on rate hikes by the Fed should capture investor attention in the week ahead.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 12h ago
 
 ---
 
-**[AI may be helping more people start their own businesses, but without many employees](https://fortune.com/2026/03/22/ai-entrepreneurs-startups-layoffs-block-jack-dorsey-american-workers-future-of-work/)**
+**[Opinion | Bracing for the A.I. Economy to Come](https://www.nytimes.com/2026/03/22/opinion/ai-economy-jobs.html)**
 
-The 21-year-old cofounders of one startup said they are bringing in $1 million per month with 13 employees thanks to AI.
+Readers respond to two guest essays about the changes that artificial intelligence will wreak on the work force. Also: The shoes of the Trump men.
 
-Fortune • 16h ago
-
----
-
-**[As cattle herds shrink and beef prices rise, investors back AI cow collars](https://www.foxnews.com/politics/cattle-herds-shrink-beef-prices-rise-investors-back-ai-cow-collars)**
-
-A New Zealand agtech startup's AI-powered cattle collars are drawing major investor interest as beef prices climb 18% and labor shortages hit farms.
-
-Fox News • 6h ago
-
----
-
-**[AI-generated ads are trickling into political campaigns, sparking big worries](https://www.nbcnews.com/politics/2028-election/ai-midterms-politics-campaign-ads-rcna263752)**
-
-AI usage in political ads is largely regulated at the state level, but there remain concerns about how they can mislead voters.
-
-NBC News • 16h ago
-
----
-
-**[How the Iran war could derail the AI boom](https://www.ft.com/content/df3f208a-2512-4a75-b2f3-d3bd27bae2e8?syn-25a6b1a6=1)**
-
-The entire chip supply chain depends on energy and chemical imports from the Middle East
-
-Financial Times • 14h ago
-
----
-
-**[Tencent integrates WeChat with OpenClaw AI agent amid China tech battle](https://www.reuters.com/technology/tencent-integrates-wechat-with-openclaw-ai-agent-amid-china-tech-battle-2026-03-22/)**
-
-Reuters • 18h ago
+The New York Times • 15h ago
 
 ---
 
@@ -205,7 +201,7 @@ Reuters • 18h ago
 
 OpenCode - The open source coding agent.
 
-⬆️ 1239 • 💬 613 • 2d ago • [opencode.ai](https://opencode.ai/)
+⬆️ 1241 • 💬 614 • 2d ago • [opencode.ai](https://opencode.ai/)
 
 ---
 
@@ -221,13 +217,13 @@ As the Charles de Gaulle and its strike group approach the Middle East, Le Monde
 
 Imagine a newspaper publisher announcing it will no longer allow libraries to keep copies of its paper. That’s effectively what’s begun happening online in the last few months. The Internet Archive—the world’s largest digital library—has preserved newspapers since it went online in the mid-1990s....
 
-⬆️ 554 • 💬 151 • 1d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
+⬆️ 555 • 💬 151 • 1d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
 
 ---
 
 **[Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning](https://news.ycombinator.com/item?id=47467913)**
 
-⬆️ 189 • 💬 114 • 1d ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
+⬆️ 190 • 💬 115 • 1d ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
 
 ---
 
@@ -241,7 +237,21 @@ Qwen3.5-9B scores 93.8% on 96 real security AI tests — within 4 points of GPT-
 
 **[Diverse perspectives on AI from Rust contributors and maintainers](https://news.ycombinator.com/item?id=47482825)**
 
-⬆️ 120 • 💬 66 • 4h ago • [nikomatsakis.github.io](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
+⬆️ 129 • 💬 71 • 6h ago • [nikomatsakis.github.io](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
+
+---
+
+**[How to Attract AI Bots to Your Open Source Project](https://news.ycombinator.com/item?id=47471271)**
+
+A practical guide to getting the engagement your project deserves.
+
+⬆️ 99 • 💬 13 • 1d ago • [Andrew Nesbitt](https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html)
+
+---
+
+**[What Young Workers Are Doing to AI-Proof Themselves](https://news.ycombinator.com/item?id=47480447)**
+
+⬆️ 97 • 💬 130 • 10h ago • [wsj.com](https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284)
 
 ---
 
@@ -266,20 +276,6 @@ Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of halluci
 
 ---
 
-**[Ask HN: AI productivity gains – do you fire devs or build better products?](https://news.ycombinator.com/item?id=47475859)**
-
-⬆️ 84 • 💬 152 • 16h ago
-
----
-
-**[The Impact of AI on Game Dev Jobs. Open to Work Crisis](https://news.ycombinator.com/item?id=47471943)**
-
-One thing that I noticed as soon as I open LinkedIn green color becomes the most dominant one, greener than my website. I have a feeling that everyone is lai...
-
-⬆️ 84 • 💬 70 • 1d ago • [Darko Tomic - Unity Learning Community](https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
@@ -290,17 +286,17 @@ What does inevitability sound like? That's not a thruway line—it's the questio
 
 📺 Mike Rowe
 
-👁️ 47K • 👍 3K • 💬 382 • ⏱️ 24:37 • 1d ago
+👁️ 52K • 👍 3K • 💬 424 • ⏱️ 24:37 • 1d ago
 
 ---
 
-**[Forget ChatGPT — This $57 Billion AI Trend Will Make Investors Rich](https://www.youtube.com/watch?v=Z-zypKm_Qjg)**
+**[The Biggest Crack in the AI Narrative Has Finally Arrived.](https://www.youtube.com/watch?v=cXtosfAukLs)**
 
-Get the FREE 10 Stock Report from Keith here: https://www.marketbeat.com/y/keith The AI boom isn't slowing down — it's just ...
+The AI boom has rocketed the stock prices of Nvidia, Amazon, Apple, Tesla, Microsoft, Google and Meta. But now the AI boom ...
 
-📺 MarketBeat
+📺 New Money
 
-👁️ 12K • 👍 551 • 💬 34 • ⏱️ 20:14 • 5h ago
+👁️ 85K • 👍 3K • 💬 287 • ⏱️ 15:50 • 1d ago
 
 ---
 
@@ -314,23 +310,43 @@ Google just dropped a major update to AI Studio, built around its new Antigravit
 
 ---
 
-**[The Biggest Crack in the AI Narrative Has Finally Arrived.](https://www.youtube.com/watch?v=cXtosfAukLs)**
-
-The AI boom has rocketed the stock prices of Nvidia, Amazon, Apple, Tesla, Microsoft, Google and Meta. But now the AI boom ...
-
-📺 New Money
-
-👁️ 81K • 👍 3K • 💬 276 • ⏱️ 15:50 • 1d ago
-
----
-
 **[Why AI Might Not Replace Your Job After All](https://www.youtube.com/watch?v=EGskcTRnLJ0)**
 
 Since ChatGPT's debut, AI has been framed as everything from a world-changing breakthrough to an existential threat.
 
 📺 Bloomberg Television
 
-👁️ 101K • 👍 3K • 💬 443 • ⏱️ 12:20 • 1d ago
+👁️ 106K • 👍 3K • 💬 442 • ⏱️ 12:20 • 1d ago
+
+---
+
+**[How To Use Super GROK AI for Free – (New Method For Beginners)](https://www.youtube.com/watch?v=0D05Lwo4o18)**
+
+Grok AI is one of the most powerful AI tools right now, but many people are struggling to use it because of the high cost.
+
+📺 Creative Jane
+
+👁️ 9K • 👍 176 • 💬 33 • ⏱️ 5:30 • 1d ago
+
+---
+
+**[McKinsey Says $1 Trillion In Sales Will Go Through AI Agents. Most Businesses Are Invisible.](https://www.youtube.com/watch?v=BE4RclIGDmY)**
+
+My site: https://natebjones.com Full Story w/ Prompts: ...
+
+📺 AI News & Strategy Daily | Nate B Jones
+
+👁️ 13K • 👍 491 • 💬 70 • ⏱️ 27:47 • 10h ago
+
+---
+
+**[AI Companies Are Falling Apart In Real Time...](https://www.youtube.com/watch?v=3b50waf_e8A)**
+
+Take your personal data back with Incogni! Use code FADS at the link below and get 60% off an annual plan: ...
+
+📺 Fads
+
+👁️ 36K • 👍 2K • 💬 318 • ⏱️ 12:05 • 2d ago
 
 ---
 
@@ -344,43 +360,23 @@ The Trump administration on Friday issued a legislative framework for a single n
 
 ---
 
-**[AI Companies Are Falling Apart In Real Time...](https://www.youtube.com/watch?v=3b50waf_e8A)**
-
-Take your personal data back with Incogni! Use code FADS at the link below and get 60% off an annual plan: ...
-
-📺 Fads
-
-👁️ 35K • 👍 2K • 💬 316 • ⏱️ 12:05 • 2d ago
-
----
-
 **[Claude&#39;s FREE Update Just Made OpenClaw Obsolete? (+ 12 AI Updates)](https://www.youtube.com/watch?v=_Vccl1Iulws)**
 
 Join our WhatsApp Community Get the latest AI updates, tips, and insights straight to your inbox: https://link.stayingahead.ai/YT8 ...
 
 📺 Vaibhav Sisinty
 
-👁️ 26K • 👍 1K • 💬 34 • ⏱️ 19:16 • 11h ago
+👁️ 30K • 👍 1K • 💬 46 • ⏱️ 19:16 • 13h ago
 
 ---
 
-**[McKinsey Says $1 Trillion In Sales Will Go Through AI Agents. Most Businesses Are Invisible.](https://www.youtube.com/watch?v=BE4RclIGDmY)**
+**[How AI is Causing a White Collar Purge](https://www.youtube.com/watch?v=Zcpj-U5lcAc)**
 
-My site: https://natebjones.com Full Story w/ Prompts: ...
+A generation was told that degrees meant security. Now those same jobs are disappearing, fast. From finance and law to tech and ...
 
-📺 AI News & Strategy Daily | Nate B Jones
+📺 The Infographics Show
 
-👁️ 11K • 👍 440 • 💬 62 • ⏱️ 27:47 • 8h ago
-
----
-
-**[AI Bubble BURSTS - $2.5 Trillion Vanishes, 200-Day Support GONE, Correction WARNING](https://www.youtube.com/watch?v=-y2TrsIpceI)**
-
-The market doesn't send warnings in headlines. It sends them in signals. And one of the most important just triggered.
-
-📺 House of El
-
-👁️ 124K • 👍 8K • 💬 980 • ⏱️ 8:26 • 1d ago
+👁️ 196K • 👍 5K • 💬 2K • ⏱️ 13:28 • 2d ago
 
 ---
 
@@ -396,7 +392,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 275,623 • ❤️ 803 • 12d ago
+⬇️ 275,623 • ❤️ 809 • 12d ago
 
 ---
 
@@ -408,7 +404,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 141,370 • ❤️ 1,032 • 2d ago
+⬇️ 141,370 • ❤️ 1,040 • 2d ago
 
 ---
 
@@ -420,7 +416,7 @@ Mistral-Small-4-119B-2603 is a hybrid MoE model (119B params, 6.5B active) suppo
 
 `119.4B`
 
-⬇️ 10,331 • ❤️ 295 • 5d ago
+⬇️ 10,331 • ❤️ 297 • 5d ago
 
 ---
 
@@ -432,7 +428,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 5,480 • ❤️ 293 • 3d ago
+⬇️ 5,480 • ❤️ 297 • 3d ago
 
 ---
 
@@ -444,7 +440,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 12,337 • ❤️ 708 • 11d ago
+⬇️ 12,337 • ❤️ 710 • 11d ago
 
 ---
 
@@ -454,7 +450,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 Foundation-1 is a structured text-to-sample model for music production, enabling precise control over instrumentation, timbre, FX, and musical structure (tempo, key, bar count) for generating coherent, production-ready audio loops.
 
-⬇️ 0 • ❤️ 226 • 6d ago
+⬇️ 0 • ❤️ 228 • 6d ago
 
 ---
 
@@ -466,7 +462,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 3,311 • ❤️ 202 • 1d ago
+⬇️ 3,311 • ❤️ 205 • 1d ago
 
 ---
 
@@ -478,7 +474,7 @@ GLM-OCR is a multimodal OCR model for complex document understanding, excelling 
 
 `image-to-text`
 
-⬇️ 3,196,245 • ❤️ 1,419 • 10d ago
+⬇️ 3,196,245 • ❤️ 1,421 • 10d ago
 
 ---
 
@@ -490,7 +486,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 350,452 • ❤️ 607 • 19d ago
+⬇️ 350,452 • ❤️ 610 • 19d ago
 
 ---
 
@@ -502,7 +498,7 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 `text-generation`
 
-⬇️ 18,392 • ❤️ 357 • 9d ago
+⬇️ 18,392 • ❤️ 357 • 10d ago
 
 ---
 
@@ -516,7 +512,7 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 26 • 💬 2 • ⭐ 36,656 • 14mo ago
+▲ 26 • 💬 2 • ⭐ 37,700 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -528,7 +524,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
 
-▲ 12 • 💬 1 • ⭐ 11,701 • 24mo ago
+▲ 12 • 💬 1 • ⭐ 12,233 • 24mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
@@ -543,7 +539,7 @@ AutoDev is an AI-driven software development framework that automates complex en
 Residual connections with PreNorm are standard in modern LLMs, yet they accumulate all layer outputs with fixed unit weights. This uniform aggregation causes uncontrolled hidden-state growth with depth, progressively diluting each layer's contribution. We propose Attention Residuals (AttnRes), which replaces this fixed accumulation with softmax attention over preceding layer outputs, allowing each layer to selectively aggregate earlier representations with learned, input-dependent weights. To address the memory and communication overhead of attending over all preceding layer outputs for large-scale model training, we introduce Block AttnRes, which partitions layers into blocks and attends over block-level representations, reducing the memory footprint while preserving most of the gains of full AttnRes. Combined with cache-based pipeline communication and a two-phase computation strategy, Block AttnRes becomes a practical drop-in replacement for standard residual connections with minimal overhead.
   Scaling law experiments confirm that the improvement is consistent across model sizes, and ablations validate the benefit of content-dependent depth-wise selection. We further integrate AttnRes into the Kimi Linear architecture (48B total / 3B activated parameters) and pre-train on 1.4T tokens, where AttnRes mitigates PreNorm dilution, yielding more uniform output magnitudes and gradient distribution across depth, and improves downstream performance across all evaluated tasks.
 
-▲ 138 • 💬 4 • ⭐ 2,496 • 6d ago
+▲ 140 • 💬 4 • ⭐ 2,496 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.15031) • [💻 code](https://github.com/MoonshotAI/Attention-Residuals)
 
@@ -581,7 +577,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 A continual meta-learning framework for large language model agents that jointly evolves policies and reusable behavioral skills while minimizing downtime through opportunistic updates and skill-driven adaptation.
 
-▲ 117 • 💬 3 • ⭐ 2,427 • 5d ago
+▲ 118 • 💬 3 • ⭐ 2,427 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.17187) • [💻 code](https://github.com/aiming-lab/MetaClaw)
 
@@ -598,20 +594,6 @@ Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabil
 ▲ 34 • 💬 2 • ⭐ 28,652 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.08823) • [💻 code](https://github.com/fishaudio/fish-speech) • [🔗 project](https://fish.audio/)
-
----
-
-**[OpenClaw-RL: Train Any Agent Simply by Talking](https://huggingface.co/papers/2603.10165)**
-
-*Yinjie Wang, Xuyang Chen, Xiaolong Jin et al. (5 authors)*
-
-🏢 Princeton AI Lab
-
-OpenClaw-RL framework enables policy learning from diverse next-state signals across multiple interaction modalities using asynchronous training with PRM judges and hindsight-guided distillation.
-
-▲ 135 • 💬 6 • ⭐ 3,973 • 12d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.10165) • [💻 code](https://github.com/Gen-Verse/OpenClaw-RL) • [🔗 project](https://github.com/Gen-Verse/OpenClaw-RL)
 
 ---
 
@@ -639,6 +621,20 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 ---
 
+**[OpenClaw-RL: Train Any Agent Simply by Talking](https://huggingface.co/papers/2603.10165)**
+
+*Yinjie Wang, Xuyang Chen, Xiaolong Jin et al. (5 authors)*
+
+🏢 Princeton AI Lab
+
+OpenClaw-RL framework enables policy learning from diverse next-state signals across multiple interaction modalities using asynchronous training with PRM judges and hindsight-guided distillation.
+
+▲ 136 • 💬 6 • ⭐ 3,999 • 12d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.10165) • [💻 code](https://github.com/Gen-Verse/OpenClaw-RL) • [🔗 project](https://github.com/Gen-Verse/OpenClaw-RL)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -649,7 +645,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 50.2k • 🔱 7.0k • 2d ago
+⭐ 50.5k • 🔱 7.0k • 2d ago
 
 ---
 
@@ -689,7 +685,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.3k • 🔱 751 • 1d ago
+⭐ 10.4k • 🔱 752 • 1d ago
 
 ---
 
@@ -699,7 +695,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 10.1k • 🔱 518 • 11h ago
+⭐ 10.2k • 🔱 523 • 13h ago
 
 ---
 
@@ -709,7 +705,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 6.2k • 🔱 947 • 1d ago
+⭐ 6.3k • 🔱 947 • 1d ago
 
 ---
 
@@ -719,7 +715,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 4.5k • 🔱 373 • 9h ago
+⭐ 4.6k • 🔱 381 • 2m ago
 
 ---
 
@@ -739,7 +735,7 @@ OpenShell is the safe, private runtime for autonomous AI agents.
 
 `Rust`
 
-⭐ 3.2k • 🔱 310 • 9h ago
+⭐ 3.2k • 🔱 317 • 41s ago
 
 ---
 
