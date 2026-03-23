@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-23T18:09:17.552328+00:00'
+updated: '2026-03-23T19:27:42.556545+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 23, 2026 at 18:09 UTC  
+**Last Updated:** March 23, 2026 at 19:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,6 +34,12 @@ Robotics research and industry news
 
 **[Roadrunner, the latest robot from the Robotics and AI Institute, is a bipedal, wheeled robot for multi-modal locomotion](https://www.reddit.com/r/robotics/comments/1s1jo4q/roadrunner_the_latest_robot_from_the_robotics_and/)**
 
+4h ago
+
+---
+
+**[Autonomous transport vehicles handling cargo operations at a modern port](https://www.reddit.com/r/robotics/comments/1s1m49a/autonomous_transport_vehicles_handling_cargo/)**
+
 2h ago
 
 ---
@@ -42,13 +48,7 @@ Robotics research and industry news
 
 I built this robot to perform with acrobats in new and interesting ways. See Acrobot.nl for more info, and as always I'm happy to answer questions! This video was taken in Krystallpalast in Germany where the Acrobot plays for the next 3 months.
 
-5h ago
-
----
-
-**[Autonomous transport vehicles handling cargo operations at a modern port](https://www.reddit.com/r/robotics/comments/1s1m49a/autonomous_transport_vehicles_handling_cargo/)**
-
-1h ago
+7h ago
 
 ---
 
@@ -56,7 +56,7 @@ I built this robot to perform with acrobats in new and interesting ways. See Acr
 
 Asimov is an open-source humanoid robot we're building at Menlo Research. We've already open-sourced Asimov v0 (the legs) and plan to open-source Asimov v1 (the full body) once we improve its walking. Asimov v0: https://github.com/asimovinc/asimov-v0 Website: https://asimov.inc/
 
-14h ago
+15h ago
 
 ---
 
@@ -64,7 +64,7 @@ Asimov is an open-source humanoid robot we're building at Menlo Research. We've 
 
 This is Ricket, a robot project I’ve been building for the past year, programmed mostly using ROS2. My main goals for it are expressive movement, strong body language, and a face/behavior system with a lot of personality. Longer term, I also want to push it toward more dynamic legged motion and eventually jumping. I’ve mostly been documenting progress on Instagram so far (@tomsrocketsandrobots), but I’m getting closer to hardware testing and wanted to see if there was interest in me sharing updates here too. Also I’ve got a new batch of parts arriving tomorrow, and on Wednesday at 6 PM MST I’m planning to livestream the teardown and install. If people are into it, I can keep posting updates here.
 
-13h ago
+14h ago
 
 ---
 
@@ -80,13 +80,21 @@ Still cant get it to walk forward yet but rotating seems okay. Can definitely be
 
 Happy Monday everyone! Thank you to everyone who has already signed up for our AR26 hackathon – the response has been awesome. One final reminder for those in the Greater London area: our kick-off event is this Friday in London! This is your chance to: Learn more about the hackathon Meet fellow AI/robotics enthusiasts Hear talks from academics and industry leaders Enjoy free pizza and beer 🍕🍺 Event Details: 📅 Friday, 27 March 🕕 16:00–20:00 GMT 📍 Plexal, London NVIDIA Hardware Raffle: We're running a raffle for NVIDIA hardware! To be eligible, you need to attend in person, join the platform, and create or join a project. Haven't signed up yet? We'd love to see you there! Sign up: https://luma.com/o1m21gi8
 
-1h ago
+2h ago
 
 ---
 
-**[Need Guidance for Robotics](https://www.reddit.com/r/robotics/comments/1s1mekh/need_guidance_for_robotics/)**
+**[Release RealSense SDK 2.0 beta (v2.57.7) · realsenseai/librealsense](https://www.reddit.com/r/robotics/comments/1s1pzli/release_realsense_sdk_20_beta_v2577/)**
 
-1h ago
+SDK Updates: D401 GMSL support Python 3.14 support D555 Global timestamp support (single camera for now) D555 Large messages support Debugging capability - accept partial device (No IMU, No color sensor...) D555 FW SafeDDS Enhancements (enable more services, security enhancements) Enhance support for ROS2 native DFU & System Stability improvements Buffer Overwrite Fix Dynamic Calibration Fixes MIPI Driver: Comprehensive HW-reset recovery for GMSL cameras D401 GMSL support JetPack 6.2.1 support Fangzhu FG12-16ch support
+
+🔗 [GitHub](https://github.com/realsenseai/librealsense/releases/tag/v2.57.7) • 29m ago
+
+---
+
+**[UMich Rob vs CMU ME vs TU Delft Rob](https://www.reddit.com/r/robotics/comments/1s1qdc2/umich_rob_vs_cmu_me_vs_tu_delft_rob/)**
+
+16m ago
 
 ---
 
@@ -95,12 +103,6 @@ Happy Monday everyone! Thank you to everyone who has already signed up for our A
 The setup includes two robotic operation platforms, 28 sorting robots, and 4 delivery robots. A returned book goes through the return window → travels via conveyor belt → is picked up by a sorting robot and delivered to the correct shelf based on its category. Technically, this is the same class of autonomous mobile robotics used in e-commerce fulfillment. Robots navigate between shelves, avoid obstacles, and optimize routes in real time. Traditionally, librarians spend significant time collecting returned books, pushing carts, and manually reshelving.
 
 1d ago
-
----
-
-**[Update: ROS 2 Claude Code skill — Skills 2.0, 5 new docs, 94% test coverage](https://www.reddit.com/r/robotics/comments/1s1j3lk/update_ros_2_claude_code_skill_skills_20_5_new/)**
-
-3h ago
 
 ---
 
@@ -113,6 +115,14 @@ The setup includes two robotic operation platforms, 28 sorting robots, and 4 del
 It took nature millions of years to create intelligent, adaptive species. Researchers at Northwestern University in Illinois are using AI to evolve robots in minutes. The result is a robot that is agile, highly adaptive, and technically indestructible.
 
 New Atlas • 2d ago
+
+---
+
+**[Local student robotics team set to compete at world competition](https://www.yahoo.com/news/articles/local-student-robotics-team-set-185003607.html)**
+
+The Tierra Del Sol Middle School robotics team in Lakeside has qualified to compete in the VEX VRC World Finals Competition in St. Louis next month, and is fundraising to cover the expenses of the tri...
+
+Yahoo • 1d ago
 
 ---
 
@@ -136,21 +146,21 @@ BBC • 1d ago
 
 Kraken Robotics boasts technological leadership in subsea intelligence and power systems amid rising war threats. See why I rate KRKNF stock a Buy.
 
-Seeking Alpha • 11h ago
+Seeking Alpha • 12h ago
 
 ---
 
-**[ProRL At Work On Robotics As Robot Athletes Perform Modern Marathons](https://www.forbes.com/sites/johnwerner/2026/03/23/prorl-at-work-on-robotics-as-robot-athletes-perform-modern-marathons/)**
+**[Eastern Iowa students take Eagle Bots robotics team to international competition](https://cbs2iowa.com/news/local/eastern-iowa-students-take-eagle-bots-robotics-team-to-international-competition)**
 
-Forbes • 2h ago
+A small team of students from across eastern Iowa is preparing to take its robotics work to an international stage, aiming to bring both a competition robot and
+
+KGAN • 5m ago
 
 ---
 
-**[The Rise of AI-Driven Robotics](https://www.inc.com/matthew-chang/the-rise-of-ai-driven-robotics/91320625)**
+**[Bird‑like robots promise greater flexibility and control than drones](https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html)**
 
-Dilemmas, needs, and game-changing trends for 2026 and beyond.
-
-inc.com • 4h ago
+Tech Xplore • 2h ago
 
 ---
 
@@ -162,25 +172,15 @@ Crain's Detroit • 3d ago
 
 ---
 
+**[ProRL At Work On Robotics As Robot Athletes Perform Modern Marathons](https://www.forbes.com/sites/johnwerner/2026/03/23/prorl-at-work-on-robotics-as-robot-athletes-perform-modern-marathons/)**
+
+Forbes • 3h ago
+
+---
+
 **[Chinese Robot Maker Unitree Seeks $610 Million in Shanghai IPO](https://www.bloomberg.com/news/articles/2026-03-20/chinese-robot-maker-unitree-seeks-610-million-in-shanghai-ipo)**
 
 Bloomberg.com • 3d ago
-
----
-
-**[Fundraiser will help sent robotics teams to international competition](https://www.therepublic.com/2026/03/22/fundraiser-will-help-sent-robotics-teams-to-international-competition/)**
-
-A local fundraiser hopes to raise enough money so the BCSC VEX IQ robotics teams who earned a chance to compete on the international stage can make the trip.
-
-The Republic News • 1d ago
-
----
-
-**[McDonald's experimenting with robot employees that look like humans — and even dress in uniform](https://nypost.com/2026/03/22/world-news/mcdonalds-in-chinese-city-pilots-humanoid-robots-to-serve-meals-greet-customers/)**
-
-The robots, supplied by Chinese firm Keenon Robotics, were deployed as part of a trial at the McDonald’s location, Digitaltrends reported.
-
-New York Post • 14h ago
 
 ---
 
@@ -204,7 +204,7 @@ This week in robotics got kind of ridiculous. South Korea showed off a humanoid 
 
 📺 AI Revolution
 
-👁️ 45K • 👍 1K • 💬 81 • ⏱️ 14:31 • 18h ago
+👁️ 45K • 👍 1K • 💬 81 • ⏱️ 14:31 • 19h ago
 
 ---
 
@@ -214,7 +214,7 @@ Gecko Robotics announced a $71 million partnership with the US Navy, deploying i
 
 📺 Bloomberg Technology
 
-👁️ 5K • 👍 148 • 💬 3 • ⏱️ 4:39 • 5d ago
+👁️ 5K • 👍 148 • 💬 3 • ⏱️ 4:39 • 6d ago
 
 ---
 
