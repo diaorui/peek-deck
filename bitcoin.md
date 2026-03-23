@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-23T17:25:47.988866+00:00'
+updated: '2026-03-23T18:09:17.543174+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 23, 2026 at 17:25 UTC  
+**Last Updated:** March 23, 2026 at 18:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1403.70B
+**Market Cap:** $1421.67B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--44.4%
+-43.6%
 
 **All-Time Low:** $67.81
-+103339.0%
++104695.8%
 
 ---
 
@@ -89,7 +89,7 @@ I am new to crypto, what would have caused this?
 
 I was scrolling through the top posts of all time on this subreddit, and something really caught my attention. Two of the biggest posts ever are basically milestones: Bitcoin hitting $10,000 (around 8 years ago) Bitcoin hitting $100,000 (about a year ago) It made me pause for a second… because at those moments, both probably felt insane. Like a “we finally made it” kind of milestone. Now I’m wondering: When do you guys think we’ll see the same kind of post for $1,000,000? Also curious, what do you think would need to happen for that to become reality? Institutional adoption, inflation, global financial shifts…? It’s crazy how each milestone once felt impossible… until it wasn’t.
 
-3h ago
+4h ago
 
 ---
 
@@ -111,7 +111,7 @@ Link to the Bitcoin history in El Zonte, but I'm sure you can find and share eve
 
 **[🦏 CFTC Chairman Michael Selig just signaled a major shift in how the US will regulate Bitcoin and crypto.](https://www.reddit.com/r/Bitcoin/comments/1s1jyoi/cftc_chairman_michael_selig_just_signaled_a_major/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -125,7 +125,7 @@ I found a hidden mathematical relationship in Bitcoin's fundamental constants th
 
 **[ICYMI the Broadcast last week - why bitcoin is a savings technology and not an investment, why DCA strategies are so powerful, keeping it boring and simple is the winning move in bitcoin ie produce value, save in bitcoin, hold in cold storage](https://www.reddit.com/r/Bitcoin/comments/1s1imy7/icymi_the_broadcast_last_week_why_bitcoin_is_a/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -133,7 +133,7 @@ I found a hidden mathematical relationship in Bitcoin's fundamental constants th
 
 Looking at the timeline today, it's wild to see the level of panic setting in. The Fear & Greed Index just tanked to 11 ("Extreme Fear"), and altcoins are getting absolutely decimated across the board. But if you look past the noise, Bitcoin is showing incredible relative strength. We just experienced a perfect storm of macroeconomic headwinds: The Fed’s Hawkish Hold: On Wednesday, the FOMC held rates steady at 3.50% - 3.75%, with Powell signaling that sticky inflation will likely delay cuts. The Geopolitical Oil Shock: With the escalating conflict in the Middle East, Brent crude oil just spiked well over $100 a barrel, sparking stagflation fears in traditional equities. The "Sell the News" Algorithm: We are battling the historical post-FOMC dump that has hit Bitcoin and the wider crypto market in 7 of the last 8 Fed meetings. Despite all of this, Bitcoin is defending the $70,000–$71,000 zone like a fortress. While the rest of the crypto market bleeds out, Bitcoin's dominance has surged back up above 56.5%. At Xapo Bank, we sit at the exact intersection of traditional finance and Bitcoin, and this price action is exactly what the institutionalization of an asset looks like. The smart money isn't panic-selling into a macro shock; they are treating Bitcoin as a foundational reserve asset. They are holding the line while retail gets shaken out. However, surviving this kind of volatility requires mature infrastructure. The days of leaving capital idle as a speculative chip, or taking catastrophic counterparty risks just to earn yield, are over. True institutionalization means treating Bitcoin with the same rigorous, regulated banking standards as major fiat currencies. Are you guys viewing this $70k defense as a temporary pause before a macro-driven drop, or is this the ultimate confirmation that Bitcoin has finally decoupled to act as a true digital safe haven?
 
-5h ago
+6h ago
 
 ---
 
@@ -141,7 +141,7 @@ Looking at the timeline today, it's wild to see the level of panic setting in. T
 
 I've traded insignificant amounts of BTC on Robinhood and noticed when I sold this morning, the price on the chart showed around $70,700. But when I go to sell, I can only sell for 70,050, while I can only buy for 71,200. That's like a 1% difference from what I expect from what i see on the price, and a 2% loss if I bought and sold at the same time.
 
-1h ago
+2h ago
 
 ---
 
@@ -149,7 +149,7 @@ I've traded insignificant amounts of BTC on Robinhood and noticed when I sold th
 
 March 23, 2026
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-1031-btc-and-now-holds-762099-btc_03-23-2026) • 1h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-1031-btc-and-now-holds-762099-btc_03-23-2026) • 2h ago
 
 ---
 
@@ -161,7 +161,7 @@ March 23, 2026
 
 Stocks look to be catching with BTC's earlier crash to nearly $60,000.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 11h ago
 
 Earlier deleveraging and continued institutional participation have helped keep Bitcoin more stable than other risk assets during the recent macro-driven selloff.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
 
 ---
 
@@ -177,7 +177,7 @@ Decrypt • 16h ago
 
 Geoffrey Kendrick of Standard Chartered thinks Bitcoin is poised for an epic rally.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Motley Fool • 1h ago
 
 The Swedish Bitcoin treasury firm signed a letter of intent to acquire Moonshot and Never Say Die in an all-stock deal.
 
-Yahoo Finance • 53m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 53m ago
 
 Geoffrey Kendrick of Standard Chartered thinks Bitcoin is poised for an epic rally.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -201,25 +201,25 @@ Yahoo Finance • 1h ago
 
 Trump said that the two countries held "very good and productive conversations regarding a complete and total resolution of our hostilities in the Middle East."
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
 **[Bitcoin Rises After Trump Says to Postpone Iran Strikes](https://www.bloomberg.com/news/articles/2026-03-23/bitcoin-rises-after-trump-says-to-postpone-iran-strikes)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
 **[Bitcoin Price Tops $70,000. XRP, Cryptos Lifted as Trump Delays Iran Strikes.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-cryto-trump-iran-f66315a0?gaa_at=eafs&gaa_n=AWEtsqebHjW3XK3oJYXW7MzIEB7FY5GunpzlwCigXCQ8b_a-EUNCKfTmipIT&gaa_ts=69c17b07&gaa_sig=w0SvcHgWz0o8bke2lmrG9Fv81S3bAv8gMqpB8C-iynUTKj00ocgwX2f-ApfOJl6XUYEPOzLIQUho_6U_0B_yOQ%3D%3D)**
 
-Barron's • 4h ago
+Barron's • 5h ago
 
 ---
 
 **[Saylor’s Strategy Returns to Common Stock for Latest Bitcoin Buy](https://www.bloomberg.com/news/articles/2026-03-23/saylor-s-strategy-returns-to-common-stock-for-latest-bitcoin-buy)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -227,7 +227,7 @@ Bloomberg.com • 3h ago
 
 Led by Executive Chairman Michael Saylor, Strategy acquired 1,031 bitcoin, bringing holdings to 762,099 coins.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -305,27 +305,7 @@ Bitcoin #Crypto #Finance Bitcoin is experiencing extreme volatility as prices sw
 
 📺 The Wolf Of All Streets
 
-👁️ 7K • 👍 641 • 💬 201 • ⏱️ 1:00:24 • 3h ago
-
----
-
-**[🚨 BTC &amp; ETH: TERRIBLE NEWS!!!](https://www.youtube.com/watch?v=OWhm79nmI4c)**
-
-The situation just got 10 times worse for bitcoin, ethereum and the rest of crypto! Markets are about to tank! Here is why and how to ...
-
-📺 Thomas Kralow
-
-👁️ 6K • 👍 2K • 💬 73 • ⏱️ 11:52 • 5h ago
-
----
-
-**[Bitcoin Breakdown: What Happens If Support Fails?](https://www.youtube.com/watch?v=Zd58SCfjU7M)**
-
-Bitcoin is pulling back but is this just a healthy correction or the start of something bigger? In this video, Sheldon breaks down the ...
-
-📺 Crypto Banter
-
-👁️ 6K • 👍 462 • 💬 18 • ⏱️ 23:31 • 7h ago
+👁️ 11K • 👍 805 • 💬 211 • ⏱️ 1:00:24 • 3h ago
 
 ---
 
@@ -335,7 +315,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Fol
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 215 • ⏱️ 36:30 • 22h ago
+👁️ 32K • 👍 2K • 💬 218 • ⏱️ 36:30 • 23h ago
 
 ---
 
@@ -345,37 +325,27 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 8K • 👍 656 • 💬 217 • ⏱️ 47:58 • 2h ago
+👁️ 11K • 👍 785 • 💬 153 • ⏱️ 47:58 • 3h ago
 
 ---
 
-**[&quot;Bitcoin Is Following A Pattern Nobody Wants To Admit&quot; | Anthony Scaramucci](https://www.youtube.com/watch?v=KXaqFMV4jKM)**
+**[Bitcoin Breakdown: What Happens If Support Fails?](https://www.youtube.com/watch?v=Zd58SCfjU7M)**
 
-Bitcoin #Crypto #Finance Anthony Scaramucci says this Bitcoin pullback may be far more normal than it feels — and he still sees ...
+Bitcoin is pulling back but is this just a healthy correction or the start of something bigger? In this video, Sheldon breaks down the ...
 
-📺 The Wolf Of All Streets
+📺 Crypto Banter
 
-👁️ 30K • 👍 1K • 💬 225 • ⏱️ 30:41 • 1d ago
-
----
-
-**[Ben Cowen Explains How to Know the Bitcoin Bottom Is In](https://www.youtube.com/watch?v=gW9BEhCfYzs)**
-
-Watch the full episode here: https://youtu.be/7cW2PCPA8kY. Ben Cowen explains the key signals he's watching to determine ...
-
-📺 Market Disruptors Podcast
-
-👁️ 8K • 👍 346 • 💬 100 • ⏱️ 7:18 • 1d ago
+👁️ 6K • 👍 481 • 💬 21 • ⏱️ 23:31 • 8h ago
 
 ---
 
-**[BIGGEST BITCOIN ANNOUNCEMENT IN OVER 1 YEAR?!](https://www.youtube.com/watch?v=3bFwFyButjg)**
+**[Bitcoin&#39;s Most Reliable CRASH Signal Triggers AGAIN!](https://www.youtube.com/watch?v=TLGEQU46wDI)**
 
-Bitcoin just scored a massive regulatory win that changes everything for developers and self-custody. The SEC and CFTC finally ...
+In today's video, we're breaking down why this specific "Crash Signal" has a high historical accuracy rate and what it means for ...
 
-📺 Simply Bitcoin
+📺 Discover Crypto
 
-👁️ 32K • 👍 2K • 💬 115 • ⏱️ 21:11 • 1d ago
+👁️ 4K • 👍 350 • 💬 10 • ⏱️ 1:10:53 • 2h ago
 
 ---
 
@@ -385,17 +355,47 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 58K • 👍 2K • 💬 153 • ⏱️ 59:39 • 2d ago
+👁️ 59K • 👍 2K • 💬 153 • ⏱️ 59:39 • 2d ago
 
 ---
 
-**[LIVE: Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Prediction](https://www.youtube.com/watch?v=N1bfPPhvgpo)**
+**[BIGGEST BITCOIN ANNOUNCEMENT IN OVER 1 YEAR?!](https://www.youtube.com/watch?v=3bFwFyButjg)**
 
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+Bitcoin just scored a massive regulatory win that changes everything for developers and self-custody. The SEC and CFTC finally ...
 
-📺 The Friel Family
+📺 Simply Bitcoin
 
-👁️ 2K • 👍 1K • 1h ago
+👁️ 33K • 👍 2K • 💬 115 • ⏱️ 21:11 • 1d ago
+
+---
+
+**[Ben Cowen Explains How to Know the Bitcoin Bottom Is In](https://www.youtube.com/watch?v=gW9BEhCfYzs)**
+
+Watch the full episode here: https://youtu.be/7cW2PCPA8kY. Ben Cowen explains the key signals he's watching to determine ...
+
+📺 Market Disruptors Podcast
+
+👁️ 8K • 👍 353 • 💬 100 • ⏱️ 7:18 • 1d ago
+
+---
+
+**[🚨 BTC &amp; ETH: TERRIBLE NEWS!!!](https://www.youtube.com/watch?v=OWhm79nmI4c)**
+
+The situation just got 10 times worse for bitcoin, ethereum and the rest of crypto! Markets are about to tank! Here is why and how to ...
+
+📺 Thomas Kralow
+
+👁️ 9K • 👍 2K • 💬 67 • ⏱️ 11:52 • 6h ago
+
+---
+
+**[&quot;Bitcoin Is Following A Pattern Nobody Wants To Admit&quot; | Anthony Scaramucci](https://www.youtube.com/watch?v=KXaqFMV4jKM)**
+
+Bitcoin #Crypto #Finance Anthony Scaramucci says this Bitcoin pullback may be far more normal than it feels — and he still sees ...
+
+📺 The Wolf Of All Streets
+
+👁️ 31K • 👍 1K • 💬 232 • ⏱️ 30:41 • 1d ago
 
 ---
 

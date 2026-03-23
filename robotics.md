@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-23T17:25:47.998012+00:00'
+updated: '2026-03-23T18:09:17.552328+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 23, 2026 at 17:25 UTC  
+**Last Updated:** March 23, 2026 at 18:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,7 +48,7 @@ I built this robot to perform with acrobats in new and interesting ways. See Acr
 
 **[Autonomous transport vehicles handling cargo operations at a modern port](https://www.reddit.com/r/robotics/comments/1s1m49a/autonomous_transport_vehicles_handling_cargo/)**
 
-42m ago
+1h ago
 
 ---
 
@@ -56,7 +56,7 @@ I built this robot to perform with acrobats in new and interesting ways. See Acr
 
 Asimov is an open-source humanoid robot we're building at Menlo Research. We've already open-sourced Asimov v0 (the legs) and plan to open-source Asimov v1 (the full body) once we improve its walking. Asimov v0: https://github.com/asimovinc/asimov-v0 Website: https://asimov.inc/
 
-13h ago
+14h ago
 
 ---
 
@@ -64,7 +64,7 @@ Asimov is an open-source humanoid robot we're building at Menlo Research. We've 
 
 This is Ricket, a robot project I’ve been building for the past year, programmed mostly using ROS2. My main goals for it are expressive movement, strong body language, and a face/behavior system with a lot of personality. Longer term, I also want to push it toward more dynamic legged motion and eventually jumping. I’ve mostly been documenting progress on Instagram so far (@tomsrocketsandrobots), but I’m getting closer to hardware testing and wanted to see if there was interest in me sharing updates here too. Also I’ve got a new batch of parts arriving tomorrow, and on Wednesday at 6 PM MST I’m planning to livestream the teardown and install. If people are into it, I can keep posting updates here.
 
-12h ago
+13h ago
 
 ---
 
@@ -72,7 +72,7 @@ This is Ricket, a robot project I’ve been building for the past year, programm
 
 Still cant get it to walk forward yet but rotating seems okay. Can definitely be better tho. This is still a work im progress, the hexapod frame is 3d printed from a creator at makerworld. The internals and code are mine. Mine uses a ps2 controller for this hexapod. If any of you guys are working on the same frame, i will share the schematics and code for free once im finally done with this builddd. Its been about a month since i started this hexapod and mannnn its been cracking my head ever since 😂
 
-23h ago
+1d ago
 
 ---
 
@@ -80,13 +80,13 @@ Still cant get it to walk forward yet but rotating seems okay. Can definitely be
 
 Happy Monday everyone! Thank you to everyone who has already signed up for our AR26 hackathon – the response has been awesome. One final reminder for those in the Greater London area: our kick-off event is this Friday in London! This is your chance to: Learn more about the hackathon Meet fellow AI/robotics enthusiasts Hear talks from academics and industry leaders Enjoy free pizza and beer 🍕🍺 Event Details: 📅 Friday, 27 March 🕕 16:00–20:00 GMT 📍 Plexal, London NVIDIA Hardware Raffle: We're running a raffle for NVIDIA hardware! To be eligible, you need to attend in person, join the platform, and create or join a project. Haven't signed up yet? We'd love to see you there! Sign up: https://luma.com/o1m21gi8
 
-21m ago
+1h ago
 
 ---
 
 **[Need Guidance for Robotics](https://www.reddit.com/r/robotics/comments/1s1mekh/need_guidance_for_robotics/)**
 
-32m ago
+1h ago
 
 ---
 
@@ -100,7 +100,7 @@ The setup includes two robotic operation platforms, 28 sorting robots, and 4 del
 
 **[Update: ROS 2 Claude Code skill — Skills 2.0, 5 new docs, 94% test coverage](https://www.reddit.com/r/robotics/comments/1s1j3lk/update_ros_2_claude_code_skill_skills_20_5_new/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -136,13 +136,13 @@ BBC • 1d ago
 
 Kraken Robotics boasts technological leadership in subsea intelligence and power systems amid rising war threats. See why I rate KRKNF stock a Buy.
 
-Seeking Alpha • 10h ago
+Seeking Alpha • 11h ago
 
 ---
 
 **[ProRL At Work On Robotics As Robot Athletes Perform Modern Marathons](https://www.forbes.com/sites/johnwerner/2026/03/23/prorl-at-work-on-robotics-as-robot-athletes-perform-modern-marathons/)**
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
@@ -150,7 +150,7 @@ Forbes • 1h ago
 
 Dilemmas, needs, and game-changing trends for 2026 and beyond.
 
-inc.com • 3h ago
+inc.com • 4h ago
 
 ---
 
@@ -180,7 +180,7 @@ The Republic News • 1d ago
 
 The robots, supplied by Chinese firm Keenon Robotics, were deployed as part of a trial at the McDonald’s location, Digitaltrends reported.
 
-New York Post • 13h ago
+New York Post • 14h ago
 
 ---
 
@@ -194,7 +194,7 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 📺 CNET
 
-👁️ 9K • 👍 330 • 💬 17 • ⏱️ 5:50 • 1d ago
+👁️ 10K • 👍 348 • 💬 17 • ⏱️ 5:50 • 1d ago
 
 ---
 
@@ -204,17 +204,7 @@ This week in robotics got kind of ridiculous. South Korea showed off a humanoid 
 
 📺 AI Revolution
 
-👁️ 40K • 👍 1K • 💬 75 • ⏱️ 14:31 • 17h ago
-
----
-
-**[China’s New Tennis Robot Reveals the Next Step for Humanoid Robots](https://www.youtube.com/watch?v=pT1BBg-Sehg)**
-
-Subscribe To My Newsletter - https://aigrid.beehiiv.com/subscribe Get your Free AGI Preparedness Guide ...
-
-📺 TheAIGRID
-
-👁️ 13K • 👍 248 • 💬 44 • ⏱️ 10:30 • 4d ago
+👁️ 45K • 👍 1K • 💬 81 • ⏱️ 14:31 • 18h ago
 
 ---
 
@@ -228,33 +218,23 @@ Gecko Robotics announced a $71 million partnership with the US Navy, deploying i
 
 ---
 
+**[China’s New Tennis Robot Reveals the Next Step for Humanoid Robots](https://www.youtube.com/watch?v=pT1BBg-Sehg)**
+
+Subscribe To My Newsletter - https://aigrid.beehiiv.com/subscribe Get your Free AGI Preparedness Guide ...
+
+📺 TheAIGRID
+
+👁️ 13K • 👍 249 • 💬 45 • ⏱️ 10:30 • 4d ago
+
+---
+
 **[Out of control robot smashes up restaurant as waitress desperately attempts to drag it away](https://www.youtube.com/watch?v=ZyohmMJA5Ao)**
 
 THIS is the hilarious moment a boogying robot dances too hard and sends food and cutlery flying in a high end restaurant.
 
 📺 The Sun
 
-👁️ 294K • 👍 4K • 💬 2K • ⏱️ 2:07 • 4d ago
-
----
-
-**[Inside the Startup That Powers Humanoid Robots](https://www.youtube.com/watch?v=3xJzmy2gOgQ)**
-
-Do you want to see a humanoid AI lab from the inside? I do – join me and let's visit Flexion: Europe's leading lab building the AI ...
-
-📺 Andreas Klinger @ PROTOTYPE
-
-👁️ 12K • 👍 495 • 💬 37 • ⏱️ 18:52 • 3d ago
-
----
-
-**[Dancing robot goes rogue in hot pot restaurant](https://www.youtube.com/watch?v=DfnIEWpbMU8)**
-
-Video shows restaurant employees struggling to restrain a dancing robot that went rogue in a hot pot restaurant in California.
-
-📺 NBC News
-
-👁️ 200K • 👍 2K • 💬 658 • ⏱️ 3:38 • 4d ago
+👁️ 295K • 👍 4K • 💬 2K • ⏱️ 2:07 • 4d ago
 
 ---
 
@@ -264,17 +244,17 @@ COGLET KICKSTARTER LAUNCH: ...
 
 📺 Will Cogley
 
-👁️ 18K • 👍 1K • 💬 68 • ⏱️ 10:35 • 3d ago
+👁️ 18K • 👍 1K • 💬 69 • ⏱️ 10:35 • 3d ago
 
 ---
 
-**[NVIDIA GTC Demo Stuns Audience With Real Olaf Robot Next To Jensen Huang](https://www.youtube.com/watch?v=pPnVsRPFWV8)**
+**[Dancing robot goes rogue in hot pot restaurant](https://www.youtube.com/watch?v=DfnIEWpbMU8)**
 
-The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrations when Jensen Huang introduced a real ...
+Video shows restaurant employees struggling to restrain a dancing robot that went rogue in a hot pot restaurant in California.
 
-📺 DPCcars
+📺 NBC News
 
-👁️ 226K • 👍 2K • 💬 315 • ⏱️ 2:02 • 6d ago
+👁️ 201K • 👍 2K • 💬 660 • ⏱️ 3:38 • 4d ago
 
 ---
 
@@ -284,7 +264,27 @@ war #robot #usa Foundation is testing its Phantom MK-1 humanoid soldier and has 
 
 📺 OTOFOOTAGE
 
-👁️ 20K • 👍 83 • 💬 53 • ⏱️ 2:12 • 6d ago
+👁️ 21K • 👍 83 • 💬 53 • ⏱️ 2:12 • 6d ago
+
+---
+
+**[Inside the Startup That Powers Humanoid Robots](https://www.youtube.com/watch?v=3xJzmy2gOgQ)**
+
+Do you want to see a humanoid AI lab from the inside? I do – join me and let's visit Flexion: Europe's leading lab building the AI ...
+
+📺 Andreas Klinger @ PROTOTYPE
+
+👁️ 13K • 👍 499 • 💬 38 • ⏱️ 18:52 • 3d ago
+
+---
+
+**[NVIDIA GTC Demo Stuns Audience With Real Olaf Robot Next To Jensen Huang](https://www.youtube.com/watch?v=pPnVsRPFWV8)**
+
+The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrations when Jensen Huang introduced a real ...
+
+📺 DPCcars
+
+👁️ 227K • 👍 2K • 💬 317 • ⏱️ 2:02 • 6d ago
 
 ---
 

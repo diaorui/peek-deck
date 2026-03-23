@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-23T17:25:47.980061+00:00'
+updated: '2026-03-23T18:09:17.534813+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- videos
 - repositories
 - news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 23, 2026 at 17:25 UTC  
+**Last Updated:** March 23, 2026 at 18:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The former OpenAI and Tesla AI researcher's 'autoresearch' technique could be us
 
 MiMo-V2-Flash is open source, scores 73.4% on SWE-Bench (#1 among open source models), and costs $0.10 per million input tokens. That's comparable to Claude Sonnet at 3.5% of the price. MiMo-V2-Pro ranks #3 globally on agent benchmarks behind Claude Opus 4.6, with a 1M token context window, at $1/$3 per million tokens. Opus charges $5/$25 for similar performance. The lead researcher came from DeepSeek. The Pro model spent a week on OpenRouter anonymously and the entire community thought it was DeepSeek V4. At what point do Western AI companies have to respond on pricing? Or is the argument that reliability, safety, and enterprise support justify the 10x premium?
 
-7h ago
+8h ago
 
 ---
 
@@ -57,7 +57,7 @@ MiMo-V2-Flash is open source, scores 73.4% on SWE-Bench (#1 among open source mo
 
 Palantir’s Maven artificial intelligence system will become an official program of record, Deputy Secretary of Defense Steve Feinberg said in a letter to Pentagon leaders, a move that locks in long-term use of Palantir’s weapons-targeting ‌technology across the U.S. military.  In the March 9 letter to senior Pentagon leaders and U.S. military commanders, Feinberg said embedding Palantir’s Maven ‌Smart System would provide warfighters “with the latest tools necessary to detect, deter, and dominate our adversaries in all domains”.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/exclusive-pentagon-adopt-palantir-ai-232821913.html) • 17h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/exclusive-pentagon-adopt-palantir-ai-232821913.html) • 18h ago
 
 ---
 
@@ -65,7 +65,7 @@ Palantir’s Maven artificial intelligence system will become an official progra
 
 I work as a freelance content creator and videographer and I've been integrating various AI tools into my workflow since late last year, not because I'm an AI enthusiast but because my clients keep asking about them and I figured I should actually understand what these tools can and can't do before I have opinions about them here's my honest assessment after 6 months of daily use across real client projects: where AI tools are genuinely useful right now: style transfer and visual experimentation, this is the clearest win, tools like magic hour and runway let me show clients 5 different visual approaches to their content in 20 minutes instead of spending 3 hours manually grading reference versions, even if the final product is still done traditionally the speed of previsualization has changed how I work background removal and basic compositing, what used to take careful rotoscoping can now be done in seconds for most use cases, not perfect for complex edges but for 80% of social media content it's more than good enough audio cleanup, tools like adobe's AI audio enhancement have saved me on multiple projects where the production audio was rough, this one doesn't get enough attention but it's probably the most practically useful AI application in my workflow where it's still overhyped: full video generation from text prompts, I've tried sora and veo and kling and honestly the outputs are impressive as tech demos but unusable for real client work 90% of the time, the uncanny valley is real and audiences can tell AI editing and automatic cuts, every tool that promises to "edit your video automatically" produces output that feels like it was edited by someone who's never watched a movie, the pacing is always wrong face and body generation for any sustained use, consistency across multiple generations is still a massive problem, anyone telling you they can run a "virtual influencer" without significant manual intervention is leaving out the hours of regeneration and cherry-picking the honest summary: AI is extremely useful as a productivity tool that speeds up specific parts of my existing workflow, it is not useful as a replacement for creative decision-making and it's nowhere close to replacing human editors, cinematographers, or content strategists anyone else working professionally with these tools want to share their honest assessment because I think the conversation is too polarized between "AI will replace everything" and "AI is worthless" when the reality is way more nuanced
 
-6h ago
+7h ago
 
 ---
 
@@ -73,13 +73,13 @@ I work as a freelance content creator and videographer and I've been integrating
 
 Nvidia CEO Jensen Huang says he'd be "deeply alarmed" if engineers weren't using AI tokens worth at least half of their annual salary.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/jensen-huang-compares-not-using-ai-to-using-paper-and-pencil-to-design-chips-as-he-explains-nvidias-massive-token-budget/) • 2h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/jensen-huang-compares-not-using-ai-to-using-paper-and-pencil-to-design-chips-as-he-explains-nvidias-massive-token-budget/) • 3h ago
 
 ---
 
 **[Exclusive: Pentagon to adopt Palantir AI as core US military system, memo says](https://www.reddit.com/r/artificial/comments/1s1ewoh/exclusive_pentagon_to_adopt_palantir_ai_as_core/)**
 
-🔗 [reuters.com](https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/?_bhlid=294306ad5838cf1ff8af0cbdcbbf239c469a06d9) • 5h ago
+🔗 [reuters.com](https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/?_bhlid=294306ad5838cf1ff8af0cbdcbbf239c469a06d9) • 6h ago
 
 ---
 
@@ -87,7 +87,7 @@ Nvidia CEO Jensen Huang says he'd be "deeply alarmed" if engineers weren't using
 
 Everyone’s building chatbots and voice agents. But where the hell are the clients? I’ve been in the AI automation space for a while now, building lead qualifier bots and voice agents for niches like real estate. But I want to hear from people who’ve actually closed deals — not just “post on LinkedIn and pray” advice. So tell me: ∙ Which industries are actually paying for chatbots/voice agents right now? ∙ Where did you find your first client — cold DM, Upwork, referral, Reddit, local biz? ∙ What’s the easiest sell — customer support bots, lead gen bots, or appointment booking? ∙ Are there industries that are surprisingly hungry for this that nobody talks about? It will truly helpful for me brothers😊
 
-4h ago
+5h ago
 
 ---
 
@@ -103,7 +103,7 @@ At BlackRock’s U.S. Infrastructure Summit, Sam Altman issued a major warning: 
 
 what i think is an underrated perspective is that is doesn't have to be so extreme, black or white. like it's either humans or AI. I think the truth and future is way more nuanced and i think that notion is way scarier for people. because what if we don't have to choose ai art or human art? what if the truth lies somewhere in the middle. electronic music is fully made digitally and is awesome, rock music is played by real life musicians and is awesome. hip hop might combine electronic drums with live played guitar. i think it's way more about what fullfiills you and gets you to the art you want to make or gives you the most enjoyable process of creation. And i think that's different for everyone, there's not one truth we can put on everyone. Like people preferring handwritten journals, others prefer writing digitally. AT the same time there's also still a lot of unanswered questions about this whole topic for me; for example what if i really like rapping but don't wanna produce beats, do i just use an ai generated beat? idkkkkkk. but what i do know is that the truth will be somewhere in the middle. and some people & artists will move closer to AI and other closer to human creation. The same way that some people still wanna learn guitar, while the other samples a guitar loop in their DAW. People LOVE polarisation: look at politics, cancel culture etcc. Something is either a 100% good or 100% bad. But the middle and i think the truth is way more nuanced. Curious to hear your thoughts!
 
-1h ago
+2h ago
 
 ---
 
@@ -121,7 +121,7 @@ I work with AI agents daily and try really hard to minimise context switching an
 
 **[Exclusive | Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO](https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5?gaa_at=eafs&gaa_n=AWEtsqcu_ODyvm_lEKZhY2IFUHKtDNGlNLkCycRNu75YzZlxTRdVM9lZLtS8&gaa_ts=69c17b05&gaa_sig=DP5B9emNJiSwOlgaQONCHFyW1UUPKEnI0dt_mzfSka3zjVlYka-No5lcyhDlQVJGhznpOuSivHNwUxvTbLLWsQ%3D%3D)**
 
-WSJ • 18h ago
+WSJ • 19h ago
 
 ---
 
@@ -137,7 +137,7 @@ CNBC • 2d ago
 
 Artificial intelligence could widen the problem of income inequality, said BlackRock CEO Larry Fink in his annual letter to shareholders.
 
-CNN • 2h ago
+CNN • 3h ago
 
 ---
 
@@ -145,7 +145,7 @@ CNN • 2h ago
 
 CEO of asset manager says only a few firms and investors may reap rewards from growth in the technology
 
-The Guardian • 13m ago
+The Guardian • 57m ago
 
 ---
 
@@ -153,7 +153,7 @@ The Guardian • 13m ago
 
 The rapid rise of AI has sparked debate over whether ‌its gains will be broadly shared across sectors or increase the divide between big tech firms and smaller companies that may ‌struggle to compete.  Since the launch of ChatGPT in November 2022, much of Wall Street's AI-driven market gains have been led by companies at the center of the boom, pointing ​to a more narrow set of winners.  "The massive wealth created over the past several generations flowed mostly to people who already owned financial assets," Fink said in his annual letter to shareholders.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -193,7 +193,7 @@ NBC News • 1d ago
 
 Building on top of a Chinese model feels particularly fraught right now.
 
-TechCrunch • 22h ago
+TechCrunch • 23h ago
 
 ---
 
@@ -272,7 +272,7 @@ Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of halluci
 
 **[Tom Homan confirms ICE to be at airports starting Monday](https://news.ycombinator.com/item?id=47480685)**
 
-⬆️ 86 • 💬 89 • 22h ago • [politico.com](https://www.politico.com/news/2026/03/22/homan-confirms-ice-airports-monday-00839426)
+⬆️ 86 • 💬 89 • 23h ago • [politico.com](https://www.politico.com/news/2026/03/22/homan-confirms-ice-airports-monday-00839426)
 
 ---
 
@@ -280,33 +280,23 @@ Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of halluci
 
 ## YouTube Videos: "ai"
 
+**[I Found 3 Questions That Expose What Every AI Agent Is Really Betting On.](https://www.youtube.com/watch?v=b7IS4C9QALc)**
+
+My site: https://natebjones.com Full Story w/ Prompts: ...
+
+📺 AI News & Strategy Daily | Nate B Jones
+
+👁️ 7K • 👍 371 • 💬 49 • ⏱️ 25:12 • 4h ago
+
+---
+
 **[NEW: Trump official reveals AI action plan](https://www.youtube.com/watch?v=rT1Q3_7kQDY)**
 
 White House science advisor Michael Kratsios discusses the Trump administration's AI plan for Congress, its potential impact on ...
 
 📺 Fox News Clips
 
-👁️ 34K • 👍 662 • 💬 214 • ⏱️ 4:08 • 15h ago
-
----
-
-**[AI Agent Full Tutorial for Beginners 2026: How to Build AI Agents in Minutes](https://www.youtube.com/watch?v=C05XDMGaAn8)**
-
-Best AI Agent Tool is Base44 https://base44.pxf.io/c/6440076/2049275/25619?trafcat=base&sharedid=video112 ✓ FREE ...
-
-📺 Mikey No Code
-
-👁️ 3K • 💬 6 • ⏱️ 31:38 • 2h ago
-
----
-
-**[Higgsfield AI + Elevenlabs Creates Perfectly Lip Synced AI Videos](https://www.youtube.com/watch?v=UMwcZ0Kzb1o)**
-
-Access Eleven v3 inside Higgsfield https://roboverse-ai.com/Higgsfield-7 In this video, I break down how Higgsfield's new audio ...
-
-📺 Roboverse
-
-👁️ 4K • 💬 1 • ⏱️ 8:12 • 2h ago
+👁️ 35K • 👍 670 • 💬 220 • ⏱️ 4:08 • 16h ago
 
 ---
 
@@ -316,17 +306,27 @@ What does inevitability sound like? That's not a thruway line—it's the questio
 
 📺 Mike Rowe
 
-👁️ 68K • 👍 4K • 💬 579 • ⏱️ 24:37 • 1d ago
+👁️ 75K • 👍 4K • 💬 617 • ⏱️ 24:37 • 1d ago
 
 ---
 
-**[He Asked AI To Make Money. It Did.](https://www.youtube.com/watch?v=l0Vqm0ZIySc)**
+**[AI Agent Full Tutorial for Beginners 2026: How to Build AI Agents in Minutes](https://www.youtube.com/watch?v=C05XDMGaAn8)**
 
-UPDATE! We just put together 2 mega guides for you. Guide #1 shows you exactly how to make money with AI Agents like Robby ...
+Best AI Agent Tool is Base44 https://base44.pxf.io/c/6440076/2049275/25619?trafcat=base&sharedid=video112 ✓ FREE ...
 
-📺 Chris Koerner on The Koerner Office Podcast
+📺 Mikey No Code
 
-👁️ 223K • 👍 7K • 💬 618 • ⏱️ 30:54 • 2d ago
+👁️ 7K • 💬 6 • ⏱️ 31:38 • 3h ago
+
+---
+
+**[How to Make AI Videos Look So Real, It’s Scary](https://www.youtube.com/watch?v=htooei3Ed10)**
+
+Create Insanely Real UGC Ads with Arcads https://youricreates.com/ArcAds In this video, I break down a simple workflow for ...
+
+📺 Youri van Hofwegen
+
+👁️ 5K • 💬 7 • ⏱️ 8:56 • 2h ago
 
 ---
 
@@ -336,7 +336,37 @@ The AI boom has rocketed the stock prices of Nvidia, Amazon, Apple, Tesla, Micro
 
 📺 New Money
 
-👁️ 111K • 👍 3K • 💬 379 • ⏱️ 15:50 • 2d ago
+👁️ 115K • 👍 3K • 💬 392 • ⏱️ 15:50 • 2d ago
+
+---
+
+**[He Asked AI To Make Money. It Did.](https://www.youtube.com/watch?v=l0Vqm0ZIySc)**
+
+UPDATE! We just put together 2 mega guides for you. Guide #1 shows you exactly how to make money with AI Agents like Robby ...
+
+📺 Chris Koerner on The Koerner Office Podcast
+
+👁️ 226K • 👍 8K • 💬 654 • ⏱️ 30:54 • 2d ago
+
+---
+
+**[It&#39;s Really Happening...](https://www.youtube.com/watch?v=u_HpS1m87YQ)**
+
+The tides regarding artificial intelligence seem to be turning a bit. How so, any why? What can we expect to happen, realistically?
+
+📺 Shameless Nerd
+
+👁️ 3K • 👍 396 • 💬 94 • ⏱️ 17:21 • 5h ago
+
+---
+
+**[CA protesters call for AI pause at Anthropic, OpenAI, xAI as White House pushes national framework](https://www.youtube.com/watch?v=_XSf0vZ1f2o)**
+
+Dozens of protesters gathered outside Anthropic's headquarters in San Francisco on Saturday, calling on major artificial ...
+
+📺 ABC7 News Bay Area
+
+👁️ 2K • 👍 21 • 💬 40 • ⏱️ 2:19 • 17h ago
 
 ---
 
@@ -347,36 +377,6 @@ Google just dropped a major update to AI Studio, built around its new Antigravit
 📺 AI Revolution
 
 👁️ 58K • 👍 1K • 💬 71 • ⏱️ 10:14 • 2d ago
-
----
-
-**[Why AI Might Not Replace Your Job After All](https://www.youtube.com/watch?v=EGskcTRnLJ0)**
-
-Since ChatGPT's debut, AI has been framed as everything from a world-changing breakthrough to an existential threat.
-
-📺 Bloomberg Television
-
-👁️ 142K • 👍 4K • 💬 601 • ⏱️ 12:20 • 2d ago
-
----
-
-**[The AI Accelerator Made My Raspberry Pi Slower](https://www.youtube.com/watch?v=Q6_ONYlB6a8)**
-
-I tested running a local LLM on a Raspberry Pi 5 to see how practical it really is. I tested it on its own, with the Hailo AI HAT+ 2 ...
-
-📺 Michael Klements
-
-👁️ 1K • 👍 87 • 💬 5 • ⏱️ 12:48 • 6h ago
-
----
-
-**[How To Use Super GROK AI for Free – (New Method For Beginners)](https://www.youtube.com/watch?v=0D05Lwo4o18)**
-
-Grok AI is one of the most powerful AI tools right now, but many people are struggling to use it because of the high cost.
-
-📺 Creative Jane
-
-👁️ 11K • 👍 198 • 💬 38 • ⏱️ 5:30 • 2d ago
 
 ---
 
@@ -392,7 +392,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 299,865 • ❤️ 832 • 12d ago
+⬇️ 299,865 • ❤️ 839 • 12d ago
 
 ---
 
@@ -404,7 +404,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 151,482 • ❤️ 1,074 • 2d ago
+⬇️ 151,482 • ❤️ 1,076 • 2d ago
 
 ---
 
@@ -416,7 +416,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 6,238 • ❤️ 313 • 4d ago
+⬇️ 6,238 • ❤️ 316 • 4d ago
 
 ---
 
@@ -428,7 +428,7 @@ Mistral-Small-4-119B-2603 is a hybrid MoE model (119B params, 6.5B active) suppo
 
 `119.4B`
 
-⬇️ 10,591 • ❤️ 303 • 6d ago
+⬇️ 10,591 • ❤️ 307 • 55m ago
 
 ---
 
@@ -438,7 +438,7 @@ Mistral-Small-4-119B-2603 is a hybrid MoE model (119B params, 6.5B active) suppo
 
 Foundation-1 is a structured text-to-sample model for music production, enabling precise control over instrumentation, timbre, FX, and musical structure (tempo, key, bar count) for generating coherent, production-ready audio loops.
 
-⬇️ 0 • ❤️ 232 • 6d ago
+⬇️ 0 • ❤️ 233 • 6d ago
 
 ---
 
@@ -450,7 +450,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 5,346 • ❤️ 217 • 12h ago
+⬇️ 5,346 • ❤️ 220 • 12h ago
 
 ---
 
@@ -462,7 +462,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 12,813 • ❤️ 715 • 12d ago
+⬇️ 12,813 • ❤️ 716 • 12d ago
 
 ---
 
@@ -474,7 +474,7 @@ GLM-OCR is a multimodal OCR model for complex document understanding, excelling 
 
 `image-to-text`
 
-⬇️ 3,289,742 • ❤️ 1,431 • 11d ago
+⬇️ 3,289,742 • ❤️ 1,432 • 11d ago
 
 ---
 
@@ -496,7 +496,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 Leanstral 119B A6B is an open-source, multimodal code agent for Lean 4 proof assistant, featuring a 256k context window and MoE architecture. It excels at proof engineering, tool calling, and vision tasks, offering speed-optimized, multilingual support under an Apache 2.0 license.
 
-⬇️ 192 • ❤️ 127 • 6d ago
+⬇️ 192 • ❤️ 128 • 6d ago
 
 ---
 
@@ -537,7 +537,7 @@ AutoDev is an AI-driven software development framework that automates complex en
 Residual connections with PreNorm are standard in modern LLMs, yet they accumulate all layer outputs with fixed unit weights. This uniform aggregation causes uncontrolled hidden-state growth with depth, progressively diluting each layer's contribution. We propose Attention Residuals (AttnRes), which replaces this fixed accumulation with softmax attention over preceding layer outputs, allowing each layer to selectively aggregate earlier representations with learned, input-dependent weights. To address the memory and communication overhead of attending over all preceding layer outputs for large-scale model training, we introduce Block AttnRes, which partitions layers into blocks and attends over block-level representations, reducing the memory footprint while preserving most of the gains of full AttnRes. Combined with cache-based pipeline communication and a two-phase computation strategy, Block AttnRes becomes a practical drop-in replacement for standard residual connections with minimal overhead.
   Scaling law experiments confirm that the improvement is consistent across model sizes, and ablations validate the benefit of content-dependent depth-wise selection. We further integrate AttnRes into the Kimi Linear architecture (48B total / 3B activated parameters) and pre-train on 1.4T tokens, where AttnRes mitigates PreNorm dilution, yielding more uniform output magnitudes and gradient distribution across depth, and improves downstream performance across all evaluated tasks.
 
-▲ 146 • 💬 4 • ⭐ 2,560 • 7d ago
+▲ 148 • 💬 4 • ⭐ 2,560 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.15031) • [💻 code](https://github.com/MoonshotAI/Attention-Residuals)
 
@@ -549,7 +549,7 @@ Residual connections with PreNorm are standard in modern LLMs, yet they accumula
 
 Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
 
-▲ 17 • 💬 0 • ⭐ 36,379 • 13mo ago
+▲ 17 • 💬 0 • ⭐ 36,418 • 13mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet)
 
@@ -593,6 +593,19 @@ A continual meta-learning framework for large language model agents that jointly
 
 ---
 
+**[AgentScope 1.0: A Developer-Centric Framework for Building Agentic
+  Applications](https://huggingface.co/papers/2508.16279)**
+
+*Dawei Gao, Zitao Li, Yuexiang Xie et al. (23 authors)*
+
+AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
+
+▲ 58 • 💬 4 • ⭐ 18,785 • 7mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
+
+---
+
 **[Very Large-Scale Multi-Agent Simulation in AgentScope](https://huggingface.co/papers/2407.17789)**
 
 *Xuchen Pan, Dawei Gao, Yuexiang Xie et al. (8 authors)*
@@ -617,20 +630,6 @@ EvoScientist is an adaptive multi-agent framework that enhances scientific disco
 
 ---
 
-**[Fish Audio S2 Technical Report](https://huggingface.co/papers/2603.08823)**
-
-*Shijia Liao, Yuxuan Wang, Songting Liu et al. (14 authors)*
-
-🏢 Fish Audio
-
-Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabilities, multi-turn generation, and instruction-following control through natural-language descriptions, utilizing a multi-stage training approach and production-ready inference engine.
-
-▲ 35 • 💬 2 • ⭐ 28,674 • 14d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.08823) • [💻 code](https://github.com/fishaudio/fish-speech) • [🔗 project](https://fish.audio/)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -641,7 +640,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 51.5k • 🔱 7.2k • 2d ago
+⭐ 51.7k • 🔱 7.2k • 2d ago
 
 ---
 
@@ -651,7 +650,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 22.2k • 🔱 1.1k • 2d ago
+⭐ 22.2k • 🔱 1.1k • 22s ago
 
 ---
 
@@ -681,7 +680,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 10.5k • 🔱 542 • 4h ago
+⭐ 10.6k • 🔱 543 • 7m ago
 
 ---
 
@@ -691,7 +690,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.5k • 🔱 763 • 5h ago
+⭐ 10.5k • 🔱 764 • 6h ago
 
 ---
 
@@ -701,7 +700,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 6.4k • 🔱 969 • 1d ago
+⭐ 6.4k • 🔱 972 • 1d ago
 
 ---
 
@@ -711,7 +710,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 5.1k • 🔱 421 • 2h ago
+⭐ 5.1k • 🔱 423 • 23m ago
 
 ---
 
@@ -731,7 +730,7 @@ OpenShell is the safe, private runtime for autonomous AI agents.
 
 `Rust`
 
-⭐ 3.4k • 🔱 337 • 2h ago
+⭐ 3.4k • 🔱 340 • 1h ago
 
 ---
 
