@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-23T22:38:04.491663+00:00'
+updated: '2026-03-23T23:33:51.177124+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
+- news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 23, 2026 at 22:38 UTC  
+**Last Updated:** March 23, 2026 at 23:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1418.12B
+**Market Cap:** $1413.30B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--43.8%
+-43.9%
 
 **All-Time Low:** $67.81
-+104464.2%
++104120.6%
 
 ---
 
@@ -81,19 +81,19 @@ Rank #1
 
 I am new to crypto, what would have caused this?
 
-11h ago
+12h ago
 
 ---
 
 **[They don't know what's coming](https://www.reddit.com/r/Bitcoin/comments/1s1oscn/they_dont_know_whats_coming/)**
 
-4h ago
+5h ago
 
 ---
 
 **[🦏 CFTC Chairman Michael Selig just signaled a major shift in how the US will regulate Bitcoin and crypto.](https://www.reddit.com/r/Bitcoin/comments/1s1jyoi/cftc_chairman_michael_selig_just_signaled_a_major/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -101,7 +101,7 @@ I am new to crypto, what would have caused this?
 
 I was scrolling through the top posts of all time on this subreddit, and something really caught my attention. Two of the biggest posts ever are basically milestones: Bitcoin hitting $10,000 (around 8 years ago) Bitcoin hitting $100,000 (about a year ago) It made me pause for a second… because at those moments, both probably felt insane. Like a “we finally made it” kind of milestone. Now I’m wondering: When do you guys think we’ll see the same kind of post for $1,000,000? Also curious, what do you think would need to happen for that to become reality? Institutional adoption, inflation, global financial shifts…? It’s crazy how each milestone once felt impossible… until it wasn’t.
 
-9h ago
+10h ago
 
 ---
 
@@ -109,7 +109,7 @@ I was scrolling through the top posts of all time on this subreddit, and somethi
 
 0.991 BTC a bit moreeeee
 
-7h ago
+8h ago
 
 ---
 
@@ -117,7 +117,7 @@ I was scrolling through the top posts of all time on this subreddit, and somethi
 
 March 23, 2026
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-1031-btc-and-now-holds-762099-btc_03-23-2026) • 6h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-1031-btc-and-now-holds-762099-btc_03-23-2026) • 7h ago
 
 ---
 
@@ -125,7 +125,7 @@ March 23, 2026
 
 I've traded insignificant amounts of BTC on Robinhood and noticed when I sold this morning, the price on the chart showed around $70,700. But when I go to sell, I can only sell for 70,050, while I can only buy for 71,200. That's like a 1% difference from what I expect from what i see on the price, and a 2% loss if I bought and sold at the same time.
 
-7h ago
+8h ago
 
 ---
 
@@ -133,7 +133,7 @@ I've traded insignificant amounts of BTC on Robinhood and noticed when I sold th
 
 Just wondering what others think about this?
 
-2h ago
+3h ago
 
 ---
 
@@ -141,7 +141,7 @@ Just wondering what others think about this?
 
 https://foldapp.com/credit-card Fine print is below and looks to be 1.5% unlimited. However, the 0.5% boost would be a taxable event and the remainder 2% is capped at first $2,000 a month. No word on if Fold+ members still receive a a metal card of it there is a foreign transaction fee included. 1 1.5% back on all qualifying purchases. No cap on base rewards earned. Cardholders may earn an additional 0.5% back by paying their credit card balance with Bitcoin and up to 2% in additional bonus rewards (4% total) on the first $2,000 of monthly card spend based on qualifying Auto-Stack! and/or Direct to Bitcoin activity during the calendar month. Rewards Account balances are subject to a $10,000 limit; balances approaching this limit must be withdrawn to continue earning. Bitcoin is volatile and may lose value. Rewards are not FDIC- or SIPC-insured.
 
-1h ago
+2h ago
 
 ---
 
@@ -149,7 +149,7 @@ https://foldapp.com/credit-card Fine print is below and looks to be 1.5% unlimit
 
 TLDR: If you invested $10,000 in Bitcoin back on March 23, 2020, your investment today would be in six figures, at just over $100,000. By comparison, if you invested the same amount in the S&P 500 via index funds, then you'd be up to around $29,000. While both investments would have been highly profitable for you, there's no question that going with Bitcoin has proven to be much better.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/heres-much-bitcoin-surged-past-182000674.html?guccou) • 35m ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/heres-much-bitcoin-surged-past-182000674.html?guccou) • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 17h ago
 
 Earlier deleveraging and continued institutional participation have helped keep Bitcoin more stable than other risk assets during the recent macro-driven selloff.
 
-Decrypt • 21h ago
+Decrypt • 22h ago
 
 ---
 
@@ -177,7 +177,7 @@ Decrypt • 21h ago
 
 Expanded share issuance plans and new Wall Street partners boost capital raising firepower.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 1d ago
 
 **[MSTR Stock: Strategy Eyes $58 Billion Bitcoin War Chest. Be Skeptical.](https://www.investors.com/news/mstr-stock-strategy-58-billion-bitcoin-war-chest/)**
 
-Investor's Business Daily • 54m ago
+Investor's Business Daily • 1h ago
 
 ---
 
@@ -199,7 +199,7 @@ Investor's Business Daily • 54m ago
 
 (Bloomberg) -- Bitcoin rose alongside equities while oil prices fell after US President Donald Trump said the US had begun talks with Iran, raising hopes for a deal to ease the conflict.The original cryptocurrency advanced more than 5% to trade as high as $71,794 in New York before paring some of the gain. Smaller tokens including Ether and Solana also rose. Bitcoin had earlier on Monday been fluctuating around a two-week low, sliding as far as $67,371 — its lowest level since March 9. The token
 
-Yahoo! Finance Canada • 8h ago
+Yahoo! Finance Canada • 9h ago
 
 ---
 
@@ -229,7 +229,7 @@ The Motley Fool • 2d ago
 
 Two New York Stock Exchange-affiliated exchanges have removed the 25,000 contract position limit on options tied to 11 crypto exchange-traded funds.NYSE Arca and NYSE American each filed three rule changes in the Federal Register on March 10 to remove contract position limits and price discovery re…
 
-TradingView • 21h ago
+TradingView • 22h ago
 
 ---
 
@@ -301,13 +301,23 @@ An event loop for asyncio written in Rust. Contribute to RustedBytes/rsloop deve
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Volatility Explodes! Is Trump Manipulating The Market?](https://www.youtube.com/watch?v=S_OzpGE6NVQ)**
+**[Bitcoin Recovers Following Rumors of Iran Deal](https://www.youtube.com/watch?v=p2onQxybcK8)**
 
-Bitcoin #Crypto #Finance Bitcoin is experiencing extreme volatility as prices swing rapidly on conflicting war headlines and ...
+Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
 
-📺 The Wolf Of All Streets
+📺 CryptosRUs
 
-👁️ 15K • 👍 960 • 💬 173 • ⏱️ 1:00:24 • 8h ago
+👁️ 15K • 👍 909 • 💬 91 • ⏱️ 47:58 • 9h ago
+
+---
+
+**[Bitcoin Will Hit THIS LEVEL! Bitcoin BULL MARKET If It BREAKS! Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=2G-0DU2lLP4)**
+
+Every reason why a test of the 20 WEMA is coming, and if it breaks we will enter into a bull market. Top-Tier Crypto Trading ...
+
+📺 Crypto Jebb
+
+👁️ 3K • 👍 241 • 💬 78 • ⏱️ 12:00 • 5h ago
 
 ---
 
@@ -317,17 +327,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Fol
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 166 • ⏱️ 36:30 • 1d ago
-
----
-
-**[Gold Just Had Its Worst Week Since 1982. Here&#39;s Why That&#39;s Bullish For Bitcoin](https://www.youtube.com/watch?v=3XqcQop9QDk)**
-
-Gold just had its worst week since 1982 while global tensions explode and markets crack. That should not be happening.
-
-📺 Simply Bitcoin
-
-👁️ 20K • 👍 1K • 💬 76 • ⏱️ 15:34 • 23h ago
+👁️ 35K • 👍 2K • 💬 169 • ⏱️ 36:30 • 1d ago
 
 ---
 
@@ -347,27 +347,7 @@ Bitcoin just scored a massive regulatory win that changes everything for develop
 
 📺 Simply Bitcoin
 
-👁️ 33K • 👍 2K • 💬 114 • ⏱️ 21:11 • 1d ago
-
----
-
-**[Ben Cowen Explains How to Know the Bitcoin Bottom Is In](https://www.youtube.com/watch?v=gW9BEhCfYzs)**
-
-Watch the full episode here: https://youtu.be/7cW2PCPA8kY. Ben Cowen explains the key signals he's watching to determine ...
-
-📺 Market Disruptors Podcast
-
-👁️ 9K • 👍 356 • 💬 87 • ⏱️ 7:18 • 1d ago
-
----
-
-**[Bitcoin Recovers Following Rumors of Iran Deal](https://www.youtube.com/watch?v=p2onQxybcK8)**
-
-Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
-
-📺 CryptosRUs
-
-👁️ 14K • 👍 866 • 💬 89 • ⏱️ 47:58 • 8h ago
+👁️ 33K • 👍 2K • 💬 117 • ⏱️ 21:11 • 2d ago
 
 ---
 
@@ -377,17 +357,37 @@ Bitcoin #Crypto #Finance Anthony Scaramucci says this Bitcoin pullback may be fa
 
 📺 The Wolf Of All Streets
 
-👁️ 32K • 👍 1K • 💬 221 • ⏱️ 30:41 • 1d ago
+👁️ 33K • 👍 1K • 💬 249 • ⏱️ 30:41 • 1d ago
 
 ---
 
-**[🚨 BTC &amp; ETH: TERRIBLE NEWS!!!](https://www.youtube.com/watch?v=OWhm79nmI4c)**
+**[Bitcoin Breakdown: What Happens If Support Fails?](https://www.youtube.com/watch?v=Zd58SCfjU7M)**
 
-The situation just got 10 times worse for bitcoin, ethereum and the rest of crypto! Markets are about to tank! Here is why and how to ...
+Bitcoin is pulling back but is this just a healthy correction or the start of something bigger? In this video, Sheldon breaks down the ...
 
-📺 Thomas Kralow
+📺 Crypto Banter
 
-👁️ 10K • 👍 2K • 💬 28 • ⏱️ 11:52 • 11h ago
+👁️ 7K • 👍 498 • 💬 21 • ⏱️ 23:31 • 13h ago
+
+---
+
+**[Ben Cowen Explains How to Know the Bitcoin Bottom Is In](https://www.youtube.com/watch?v=gW9BEhCfYzs)**
+
+Watch the full episode here: https://youtu.be/7cW2PCPA8kY. Ben Cowen explains the key signals he's watching to determine ...
+
+📺 Market Disruptors Podcast
+
+👁️ 9K • 👍 363 • 💬 91 • ⏱️ 7:18 • 1d ago
+
+---
+
+**[Bitcoin&#39;s Most Reliable CRASH Signal Triggers AGAIN!](https://www.youtube.com/watch?v=TLGEQU46wDI)**
+
+In today's video, we're breaking down why this specific "Crash Signal" has a high historical accuracy rate and what it means for ...
+
+📺 Discover Crypto
+
+👁️ 6K • 👍 415 • 💬 9 • ⏱️ 1:10:53 • 7h ago
 
 ---
 
@@ -397,7 +397,7 @@ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 163 • ⏱️ 8:36 • 2d ago
+👁️ 31K • 👍 2K • 💬 163 • ⏱️ 8:36 • 2d ago
 
 ---
 

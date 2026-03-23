@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-23T22:38:04.500866+00:00'
+updated: '2026-03-23T23:33:51.186134+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 23, 2026 at 22:38 UTC  
+**Last Updated:** March 23, 2026 at 23:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Roadrunner, the latest robot from the Robotics and AI Institute, is a bipedal, wheeled robot for multi-modal locomotion](https://www.reddit.com/r/robotics/comments/1s1jo4q/roadrunner_the_latest_robot_from_the_robotics_and/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Autonomous transport vehicles handling cargo operations at a modern port](https://www.reddit.com/r/robotics/comments/1s1m49a/autonomous_transport_vehicles_handling_cargo/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 I built this robot to perform with acrobats in new and interesting ways. See Acrobot.nl for more info, and as always I'm happy to answer questions! This video was taken in Krystallpalast in Germany where the Acrobot plays for the next 3 months.
 
-10h ago
+11h ago
 
 ---
 
@@ -64,13 +64,13 @@ Asimov is an open-source humanoid robot we're building at Menlo Research. We've 
 
 This is Ricket, a robot project I’ve been building for the past year, programmed mostly using ROS2. My main goals for it are expressive movement, strong body language, and a face/behavior system with a lot of personality. Longer term, I also want to push it toward more dynamic legged motion and eventually jumping. I’ve mostly been documenting progress on Instagram so far (@tomsrocketsandrobots), but I’m getting closer to hardware testing and wanted to see if there was interest in me sharing updates here too. Also I’ve got a new batch of parts arriving tomorrow, and on Wednesday at 6 PM MST I’m planning to livestream the teardown and install. If people are into it, I can keep posting updates here.
 
-17h ago
+18h ago
 
 ---
 
 **[IEEE RAS / Czech Technical University in Multi-Robot Systems Summer Camp in Prague -- learn ROS, earn course credits, and visit Prague](https://www.reddit.com/r/robotics/comments/1s1uy0i/ieee_ras_czech_technical_university_in_multirobot/)**
 
-🔗 [mrs.fel.cvut.cz](https://mrs.fel.cvut.cz/summer-school-2026/) • 42m ago
+🔗 [mrs.fel.cvut.cz](https://mrs.fel.cvut.cz/summer-school-2026/) • 1h ago
 
 ---
 
@@ -86,7 +86,7 @@ Still cant get it to walk forward yet but rotating seems okay. Can definitely be
 
 Genuine question, I spent some time playing with microcontrollers, encoders, and accelerometers. I will say my weak point was PID, but at the same time I keep seeing all these videos about robotics moving perfectly down a street or in a line or going to a specific location. Can someone point me in the right direction with how they do that? I heard about GPS chips but.. is there any reliable MCU’s or what types of chips, parts, do you use that make it easier to program a robot to move in these very accurate movements? Would appreciate any microcontroller suggestions, or reliable accelerometers. I know accelerometers tend to have the error over time that can be hard to fix but how does one erase that or minimize it if a robot keeps moving? Thank you
 
-1h ago
+2h ago
 
 ---
 
@@ -94,7 +94,7 @@ Genuine question, I spent some time playing with microcontrollers, encoders, and
 
 Happy Monday everyone! Thank you to everyone who has already signed up for our AR26 hackathon – the response has been awesome. One final reminder for those in the Greater London area: our kick-off event is this Friday in London! This is your chance to: Learn more about the hackathon Meet fellow AI/robotics enthusiasts Hear talks from academics and industry leaders Enjoy free pizza and beer 🍕🍺 Event Details: 📅 Friday, 27 March 🕕 16:00–20:00 GMT 📍 Plexal, London NVIDIA Hardware Raffle: We're running a raffle for NVIDIA hardware! To be eligible, you need to attend in person, join the platform, and create or join a project. Haven't signed up yet? We'd love to see you there! Sign up: https://luma.com/o1m21gi8
 
-5h ago
+6h ago
 
 ---
 
@@ -102,7 +102,7 @@ Happy Monday everyone! Thank you to everyone who has already signed up for our A
 
 SDK Updates: D401 GMSL support Python 3.14 support D555 Global timestamp support (single camera for now) D555 Large messages support Debugging capability - accept partial device (No IMU, No color sensor...) D555 FW SafeDDS Enhancements (enable more services, security enhancements) Enhance support for ROS2 native DFU & System Stability improvements Buffer Overwrite Fix Dynamic Calibration Fixes MIPI Driver: Comprehensive HW-reset recovery for GMSL cameras D401 GMSL support JetPack 6.2.1 support Fangzhu FG12-16ch support
 
-🔗 [GitHub](https://github.com/realsenseai/librealsense/releases/tag/v2.57.7) • 3h ago
+🔗 [GitHub](https://github.com/realsenseai/librealsense/releases/tag/v2.57.7) • 4h ago
 
 ---
 
@@ -130,7 +130,7 @@ WLUK • 1d ago
 
 SYDNEY, Australia, March 23, 2026 (GLOBE NEWSWIRE) -- GMEX Robotics Corporation (NASDAQ: GMEX) (“GMEX Robotics” or the “Company”), a developer of AI-powered robotic technologies, announces that it has entered into a purchase agreement with a leading Australian food and beverage group (“FBG”) for the deployment of the Company’s intelligent culinary robotics systems, including its recently announced personal robotic chef - 2Fculinary AI, and the purchase order from this FBG. The AU$4.2 million agr
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -138,7 +138,7 @@ Yahoo Finance • 9h ago
 
 Hyundai partners Persona AI to develop humanoid welding robots, advancing automation across global shipyard operations
 
-Interesting Engineering • 9h ago
+Interesting Engineering • 10h ago
 
 ---
 
@@ -154,7 +154,7 @@ BBC • 1d ago
 
 Kraken Robotics boasts technological leadership in subsea intelligence and power systems amid rising war threats. See why I rate KRKNF stock a Buy.
 
-Seeking Alpha • 15h ago
+Seeking Alpha • 16h ago
 
 ---
 
@@ -166,7 +166,7 @@ Bloomberg.com • 3d ago
 
 **[Five-level model rates humanoid robots across mobility, manipulation and cognition](https://techxplore.com/news/2026-03-humanoid-robots-mobility-cognition.html)**
 
-Tech Xplore • 1h ago
+Tech Xplore • 2h ago
 
 ---
 
@@ -174,7 +174,7 @@ Tech Xplore • 1h ago
 
 A small team of students from across eastern Iowa is preparing to take its robotics work to an international stage, aiming to bring both a competition robot and
 
-KGAN • 3h ago
+KGAN • 4h ago
 
 ---
 
@@ -182,7 +182,7 @@ KGAN • 3h ago
 
 Dilemmas, needs, and game-changing trends for 2026 and beyond.
 
-inc.com • 8h ago
+inc.com • 9h ago
 
 ---
 
@@ -196,17 +196,17 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 📺 CNET
 
-👁️ 11K • 👍 363 • 💬 19 • ⏱️ 5:50 • 1d ago
+👁️ 11K • 👍 373 • 💬 19 • ⏱️ 5:50 • 1d ago
 
 ---
 
-**[China’s New AI Robots Just Broke The Human Skill Barrier](https://www.youtube.com/watch?v=QDRzgF-8-50)**
+**[Unique Motion Chaining | 197E Ethereus | Robot Rundown](https://www.youtube.com/watch?v=2hLXM46Pk64)**
 
-This week in robotics got kind of ridiculous. South Korea showed off a humanoid that can run, jump, play soccer, and moonwalk, ...
+Unique Motion Chaining | 197E Ethereus | Robot Rundown 197E Ethereus shows off their mid-goal de-score, front stage ...
 
-📺 AI Revolution
+📺 FUN Robotics Network
 
-👁️ 53K • 👍 1K • 💬 90 • ⏱️ 14:31 • 22h ago
+👁️ 456 • 👍 26 • 💬 3 • ⏱️ 2:42 • 1h ago
 
 ---
 
@@ -216,17 +216,7 @@ Gecko Robotics announced a $71 million partnership with the US Navy, deploying i
 
 📺 Bloomberg Technology
 
-👁️ 5K • 👍 148 • 💬 3 • ⏱️ 4:39 • 6d ago
-
----
-
-**[Instantly Change Gear Ratios with Clip In Gearboxes! #robotics #dcmotor #electronics](https://www.youtube.com/watch?v=8u4dpd1zONc)**
-
-Join the community & access CAD files, Code snippets, & more robotics resources ⤵️ https://shop.broganpratt.com/ Want to ...
-
-📺 Brogan M. Pratt
-
-👁️ 714 • 👍 10 • ⏱️ 0:30 • 6h ago
+👁️ 5K • 👍 149 • 💬 3 • ⏱️ 4:39 • 6d ago
 
 ---
 
@@ -240,13 +230,33 @@ Subscribe To My Newsletter - https://aigrid.beehiiv.com/subscribe Get your Free 
 
 ---
 
+**[China’s New AI Robots Just Broke The Human Skill Barrier](https://www.youtube.com/watch?v=QDRzgF-8-50)**
+
+This week in robotics got kind of ridiculous. South Korea showed off a humanoid that can run, jump, play soccer, and moonwalk, ...
+
+📺 AI Revolution
+
+👁️ 62K • 👍 1K • 💬 92 • ⏱️ 14:31 • 23h ago
+
+---
+
+**[Instantly Change Gear Ratios with Clip In Gearboxes! #robotics #dcmotor #electronics](https://www.youtube.com/watch?v=8u4dpd1zONc)**
+
+Join the community & access CAD files, Code snippets, & more robotics resources ⤵️ https://shop.broganpratt.com/ Want to ...
+
+📺 Brogan M. Pratt
+
+👁️ 1K • 👍 14 • ⏱️ 0:30 • 7h ago
+
+---
+
 **[Out of control robot smashes up restaurant as waitress desperately attempts to drag it away](https://www.youtube.com/watch?v=ZyohmMJA5Ao)**
 
 THIS is the hilarious moment a boogying robot dances too hard and sends food and cutlery flying in a high end restaurant.
 
 📺 The Sun
 
-👁️ 297K • 👍 4K • 💬 2K • ⏱️ 2:07 • 4d ago
+👁️ 299K • 👍 4K • 💬 2K • ⏱️ 2:07 • 4d ago
 
 ---
 
@@ -256,7 +266,7 @@ COGLET KICKSTARTER LAUNCH: ...
 
 📺 Will Cogley
 
-👁️ 18K • 👍 1K • 💬 69 • ⏱️ 10:35 • 3d ago
+👁️ 19K • 👍 1K • 💬 69 • ⏱️ 10:35 • 3d ago
 
 ---
 
@@ -266,7 +276,7 @@ Video shows restaurant employees struggling to restrain a dancing robot that wen
 
 📺 NBC News
 
-👁️ 202K • 👍 2K • 💬 661 • ⏱️ 3:38 • 4d ago
+👁️ 203K • 👍 2K • 💬 661 • ⏱️ 3:38 • 4d ago
 
 ---
 
@@ -276,17 +286,7 @@ Do you want to see a humanoid AI lab from the inside? I do – join me and let's
 
 📺 Andreas Klinger @ PROTOTYPE
 
-👁️ 13K • 👍 502 • 💬 38 • ⏱️ 18:52 • 3d ago
-
----
-
-**[We Forgot These Existed... Kisten NUKING Meta Bots | Best Kisten Build Ever | War Robots](https://www.youtube.com/watch?v=TgGhsxgKql8)**
-
-I forgot the Kisten existed. Kisten projectiles equipped onto the Ue Nodens. These are 500m range lock on weapons, and they fire ...
-
-📺 PREDATOR WR
-
-👁️ 6K • 👍 320 • 💬 35 • ⏱️ 16:37 • 10h ago
+👁️ 13K • 👍 504 • 💬 39 • ⏱️ 18:52 • 3d ago
 
 ---
 

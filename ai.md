@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-23T22:38:04.483182+00:00'
+updated: '2026-03-23T23:33:51.168736+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- news
 - repositories
 - videos
-- news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 23, 2026 at 22:38 UTC  
+**Last Updated:** March 23, 2026 at 23:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The former OpenAI and Tesla AI researcher's 'autoresearch' technique could be used by AI labs to speed up breakthroughs.
 
-🔗 [Fortune](https://fortune.com/2026/03/17/andrej-karpathy-loop-autonomous-ai-agents-future/) • 14h ago
+🔗 [Fortune](https://fortune.com/2026/03/17/andrej-karpathy-loop-autonomous-ai-agents-future/) • 15h ago
 
 ---
 
@@ -49,7 +49,7 @@ The former OpenAI and Tesla AI researcher's 'autoresearch' technique could be us
 
 Tech giant’s tools include ‘Second Brain’ and an internal messaging board for AI bots
 
-🔗 [The Independent](https://www.the-independent.com/tech/mark-zuckerberg-ai-ceo-bot-b2943792.html) • 3h ago
+🔗 [The Independent](https://www.the-independent.com/tech/mark-zuckerberg-ai-ceo-bot-b2943792.html) • 4h ago
 
 ---
 
@@ -57,7 +57,7 @@ Tech giant’s tools include ‘Second Brain’ and an internal messaging board 
 
 MiMo-V2-Flash is open source, scores 73.4% on SWE-Bench (#1 among open source models), and costs $0.10 per million input tokens. That's comparable to Claude Sonnet at 3.5% of the price. MiMo-V2-Pro ranks #3 globally on agent benchmarks behind Claude Opus 4.6, with a 1M token context window, at $1/$3 per million tokens. Opus charges $5/$25 for similar performance. The lead researcher came from DeepSeek. The Pro model spent a week on OpenRouter anonymously and the entire community thought it was DeepSeek V4. At what point do Western AI companies have to respond on pricing? Or is the argument that reliability, safety, and enterprise support justify the 10x premium?
 
-12h ago
+13h ago
 
 ---
 
@@ -65,7 +65,7 @@ MiMo-V2-Flash is open source, scores 73.4% on SWE-Bench (#1 among open source mo
 
 Palantir’s Maven artificial intelligence system will become an official program of record, Deputy Secretary of Defense Steve Feinberg said in a letter to Pentagon leaders, a move that locks in long-term use of Palantir’s weapons-targeting ‌technology across the U.S. military.  In the March 9 letter to senior Pentagon leaders and U.S. military commanders, Feinberg said embedding Palantir’s Maven ‌Smart System would provide warfighters “with the latest tools necessary to detect, deter, and dominate our adversaries in all domains”.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/exclusive-pentagon-adopt-palantir-ai-232821913.html) • 22h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/exclusive-pentagon-adopt-palantir-ai-232821913.html) • 23h ago
 
 ---
 
@@ -81,7 +81,7 @@ Nvidia CEO Jensen Huang says he'd be "deeply alarmed" if engineers weren't using
 
 I work as a freelance content creator and videographer and I've been integrating various AI tools into my workflow since late last year, not because I'm an AI enthusiast but because my clients keep asking about them and I figured I should actually understand what these tools can and can't do before I have opinions about them here's my honest assessment after 6 months of daily use across real client projects: where AI tools are genuinely useful right now: style transfer and visual experimentation, this is the clearest win, tools like magic hour and runway let me show clients 5 different visual approaches to their content in 20 minutes instead of spending 3 hours manually grading reference versions, even if the final product is still done traditionally the speed of previsualization has changed how I work background removal and basic compositing, what used to take careful rotoscoping can now be done in seconds for most use cases, not perfect for complex edges but for 80% of social media content it's more than good enough audio cleanup, tools like adobe's AI audio enhancement have saved me on multiple projects where the production audio was rough, this one doesn't get enough attention but it's probably the most practically useful AI application in my workflow where it's still overhyped: full video generation from text prompts, I've tried sora and veo and kling and honestly the outputs are impressive as tech demos but unusable for real client work 90% of the time, the uncanny valley is real and audiences can tell AI editing and automatic cuts, every tool that promises to "edit your video automatically" produces output that feels like it was edited by someone who's never watched a movie, the pacing is always wrong face and body generation for any sustained use, consistency across multiple generations is still a massive problem, anyone telling you they can run a "virtual influencer" without significant manual intervention is leaving out the hours of regeneration and cherry-picking the honest summary: AI is extremely useful as a productivity tool that speeds up specific parts of my existing workflow, it is not useful as a replacement for creative decision-making and it's nowhere close to replacing human editors, cinematographers, or content strategists anyone else working professionally with these tools want to share their honest assessment because I think the conversation is too polarized between "AI will replace everything" and "AI is worthless" when the reality is way more nuanced
 
-12h ago
+13h ago
 
 ---
 
@@ -89,7 +89,7 @@ I work as a freelance content creator and videographer and I've been integrating
 
 There's an old joke among pilots. Automation has made flying so safe and so boring that the biggest risk is now the pilot forgetting how to fly. The joke stopped being funny a while ago. In 2009, the crew of Air France Flight 447 faced a situation the autopilot couldn't handle — iced-over speed sensors, contradictory readings, the Atlantic Ocean at night. The system handed control back to the humans. The humans, who had spent years monitoring a machine that did their job for them, didn't know what to do. Everyone on board died. This is not an AI problem. It's an automation complacency problem. And in a hundred years, it will be the most dangerous dynamic in civilization. Here's the pattern. A machine does something well. Then better. Then so much better that the humans overseeing it stop paying attention because vigilance without variation is something the human brain was never designed to sustain. You can't stare at a dashboard for eight hours and stay sharp. You can't review an AI's diagnostic output for the hundredth time and bring the same scrutiny you brought to the first. The better the machine gets, the less the human matters, until the one time the human matters enormously and they've already checked out. We know this. We've known it for decades. And our response, overwhelmingly, has been to make the machine even better so the human matters even less. To engineer the human out of the loop entirely. Which works — right up until it doesn't. A century from now, AI will be unimaginably capable. It will diagnose illness with a precision no doctor could approach. It will evaluate legal cases by processing more precedent in a second than a judge reads in a career. It will make battlefield decisions faster than any human chain of command. And in each of these domains, there will be people whose job it is to oversee the machine. To be the check. The failsafe. The last pair of human eyes before something irreversible happens. Those people will be bored out of their minds. This is where artificial stupidity comes in as a design philosophy. The deliberate introduction of imperfection, hesitation, and uncertainty into AI systems because making them too good makes the humans around them worse. An AI that occasionally flags a case it could have resolved on its own. That asks a doctor to weigh in on a diagnosis it's already 99.8% confident about. That pauses before a military decision and says, essentially, are you sure? — not because it needs confirmation, but because the human needs to stay in the habit of thinking. Published here : https://aiweekly.co/issues/475#start This sounds wasteful. And it is. That's the point. Because the alternative is a world where humans are technically in charge but functionally asleep. Where oversight exists on paper and nowhere else. Where the surgeon reviews the AI's plan the way you review the terms and conditions — scrolling to the bottom and clicking accept. The hard part is that artificial stupidity has no constituency. No one gets promoted for making a system slower. No company wins market share by advertising that its AI second-guesses itself. The incentives all point toward faster, smarter, more autonomous. Toward removing the friction. But friction is what keeps human judgment alive. The pause before a decision. The discomfort of not being sure. The cognitive effort of actually weighing alternatives instead of rubber-stamping a machine's recommendation. Take that away and you don't have oversight. You have a rubber stamp with a heartbeat. A hundred years from now, the AI systems that matter most won't be the smartest ones. They'll be the ones designed with enough deliberate imperfection to keep the humans around them awake, engaged, and capable of the one thing no machine can do on its own: deciding that the machine is wrong. The best AI of the future won't be the one that never needs us. It'll be the one that never lets us forget that it might. PS. this seems even more important to think about as this new research shows the human's apparent fundamental inability to challenge or verify AI's output. With the scale of AI's output coming, it seems humanity might not be able to vet this output at all... As always, looking forward to reading your thoughts! Alexis
 
-2h ago
+3h ago
 
 ---
 
@@ -97,13 +97,13 @@ There's an old joke among pilots. Automation has made flying so safe and so bori
 
 Jewelry is one of the, if not the, hardest categories for AI image generation. Reflective metals, facet edges, prong geometry, and gemstone refraction all get destroyed by standard VAE compression in latent diffusion models. No benchmark exists to measure this systematically. I put together a curated Awesome List covering the full landscape: 20+ datasets available on Huggingface including jewelry segmentation, hand pose with jewelry, Flux fine-tuning sets, and VITON-style jewelry data Foundational papers on identity preservation, VAE detail loss, and reflective surface rendering Open-source models: ControlNet configs, IP-Adapter variants, SAM adaptations for jewelry segmentation Evaluation metrics recommended for jewelry fidelity Commercial tools comparison Tutorials and communities Gaps I know exist: no jewelry-specific fidelity benchmark, limited public LoRAs, no systematic failure mode studies for DALL-E/Midjourney on jewelry. Contributions welcome via PR.
 
-🔗 [GitHub](https://github.com/formanova-ai/awesome-jewelry-ai) • 1h ago
+🔗 [GitHub](https://github.com/formanova-ai/awesome-jewelry-ai) • 2h ago
 
 ---
 
 **[Exclusive: Pentagon to adopt Palantir AI as core US military system, memo says](https://www.reddit.com/r/artificial/comments/1s1ewoh/exclusive_pentagon_to_adopt_palantir_ai_as_core/)**
 
-🔗 [reuters.com](https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/?_bhlid=294306ad5838cf1ff8af0cbdcbbf239c469a06d9) • 10h ago
+🔗 [reuters.com](https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/?_bhlid=294306ad5838cf1ff8af0cbdcbbf239c469a06d9) • 11h ago
 
 ---
 
@@ -111,7 +111,7 @@ Jewelry is one of the, if not the, hardest categories for AI image generation. R
 
 Hey everyone, I built an AI assistant with no content restrictions. It's free to try (5 tokens to start). Link: https://fraudgptt.lovable.app/ Would love your feedback. AMA in the comments
 
-1h ago
+2h ago
 
 ---
 
@@ -135,7 +135,7 @@ WSJ • 1d ago
 
 Under Pichai, the company that invented modern AI is finally winning the race to deploy it, making "AI everywhere" a business reality.
 
-Fast Company • 11h ago
+Fast Company • 12h ago
 
 ---
 
@@ -143,7 +143,7 @@ Fast Company • 11h ago
 
 This case highlights how AI tools, while powerful, are not foolproof.
 
-Yahoo • 38m ago
+Yahoo • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ Yahoo • 38m ago
 
 MADISON, Wis. — The University of Wisconsin System announced the launch of a new educational initiative designed to help Wisconsin residents better understand artificial intelligence and its growing role in
 
-Channel 3000 • 27m ago
+Channel 3000 • 1h ago
 
 ---
 
@@ -159,13 +159,13 @@ Channel 3000 • 27m ago
 
 After the metaverse fiasco, maybe it would be for the best.
 
-Gizmodo • 37m ago
+Gizmodo • 1h ago
 
 ---
 
 **[Opinion | Welcome to Money in Politics in the Age of A.I.](https://www.nytimes.com/2026/03/23/opinion/crypto-ai-politics.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
@@ -173,7 +173,7 @@ The New York Times • 2h ago
 
 A new set of precepts is meant to make the chatbot Claude wise, decent, and safe. It also marks a striking transfer of public responsibility from constitutional government to private tech firms.
 
-The New Yorker • 12h ago
+The New Yorker • 13h ago
 
 ---
 
@@ -181,7 +181,7 @@ The New Yorker • 12h ago
 
 NVIDIA OpenShell provides tools for controlling autonomous agents in a trusted infrastructure policy layer.
 
-NVIDIA Blog • 7h ago
+NVIDIA Blog • 8h ago
 
 ---
 
@@ -189,7 +189,7 @@ NVIDIA Blog • 7h ago
 
 Artificial intelligence could widen the problem of income inequality, said BlackRock CEO Larry Fink in his annual letter to shareholders.
 
-CNN • 7h ago
+CNN • 8h ago
 
 ---
 
@@ -221,7 +221,7 @@ Imagine a newspaper publisher announcing it will no longer allow libraries to ke
 
 Learn how I built an ai receptionist for my brother's mechanic shop
 
-⬆️ 183 • 💬 203 • 12h ago • [itsthatlady.dev](https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/)
+⬆️ 183 • 💬 203 • 13h ago • [itsthatlady.dev](https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/)
 
 ---
 
@@ -276,53 +276,13 @@ Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of halluci
 
 ## YouTube Videos: "ai"
 
-**[How to Make AI Videos Look So Real, It’s Scary](https://www.youtube.com/watch?v=htooei3Ed10)**
-
-Create Insanely Real UGC Ads with Arcads https://youricreates.com/ArcAds In this video, I break down a simple workflow for ...
-
-📺 Youri van Hofwegen
-
-👁️ 8K • 💬 7 • ⏱️ 8:56 • 6h ago
-
----
-
 **[THE AI COLD WAR JUST WENT HOT: What Nobody&#39;s Connecting](https://www.youtube.com/watch?v=o3u6XCCOTYw)**
 
 GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *The ...
 
 📺 Julia McCoy
 
-👁️ 9K • 👍 613 • 💬 66 • ⏱️ 11:44 • 1d ago
-
----
-
-**[NEW: Trump official reveals AI action plan](https://www.youtube.com/watch?v=rT1Q3_7kQDY)**
-
-White House science advisor Michael Kratsios discusses the Trump administration's AI plan for Congress, its potential impact on ...
-
-📺 Fox News Clips
-
-👁️ 36K • 👍 683 • 💬 216 • ⏱️ 4:08 • 20h ago
-
----
-
-**[I Tried AI for Fun. Now I’ve Got Questions | Jeff Childers From #474 | The Way I Heard It](https://www.youtube.com/watch?v=Xwg3fFOJ1zY)**
-
-What does inevitability sound like? That's not a thruway line—it's the question I keep coming back to after this conversation with ...
-
-📺 Mike Rowe
-
-👁️ 82K • 👍 4K • 💬 664 • ⏱️ 24:37 • 2d ago
-
----
-
-**[The Biggest Crack in the AI Narrative Has Finally Arrived.](https://www.youtube.com/watch?v=cXtosfAukLs)**
-
-The AI boom has rocketed the stock prices of Nvidia, Amazon, Apple, Tesla, Microsoft, Google and Meta. But now the AI boom ...
-
-📺 New Money
-
-👁️ 119K • 👍 3K • 💬 402 • ⏱️ 15:50 • 2d ago
+👁️ 10K • 👍 622 • 💬 66 • ⏱️ 11:44 • 1d ago
 
 ---
 
@@ -332,7 +292,7 @@ Jensen Huang is the co-founder and CEO of NVIDIA, the world's most valuable comp
 
 📺 Lex Fridman
 
-👁️ 70K • 👍 4K • 💬 478 • ⏱️ 2:25:59 • 6h ago
+👁️ 114K • 👍 6K • 💬 593 • ⏱️ 2:25:59 • 7h ago
 
 ---
 
@@ -342,17 +302,47 @@ The tides regarding artificial intelligence seem to be turning a bit. How so, an
 
 📺 Shameless Nerd
 
-👁️ 4K • 👍 547 • 💬 125 • ⏱️ 17:21 • 9h ago
+👁️ 5K • 👍 623 • 💬 139 • ⏱️ 17:21 • 10h ago
 
 ---
 
-**[Google Just Dropped New Antigravity AI and It Puts Heat on OpenAI](https://www.youtube.com/watch?v=zGzg0OnqQrk)**
+**[The Biggest Crack in the AI Narrative Has Finally Arrived.](https://www.youtube.com/watch?v=cXtosfAukLs)**
 
-Google just dropped a major update to AI Studio, built around its new Antigravity coding agent, and it pushes Google much ...
+The AI boom has rocketed the stock prices of Nvidia, Amazon, Apple, Tesla, Microsoft, Google and Meta. But now the AI boom ...
 
-📺 AI Revolution
+📺 New Money
 
-👁️ 59K • 👍 1K • 💬 71 • ⏱️ 10:14 • 2d ago
+👁️ 121K • 👍 4K • 💬 403 • ⏱️ 15:50 • 2d ago
+
+---
+
+**[NEW: Trump official reveals AI action plan](https://www.youtube.com/watch?v=rT1Q3_7kQDY)**
+
+White House science advisor Michael Kratsios discusses the Trump administration's AI plan for Congress, its potential impact on ...
+
+📺 Fox News Clips
+
+👁️ 37K • 👍 692 • 💬 218 • ⏱️ 4:08 • 21h ago
+
+---
+
+**[Why AI Might Not Replace Your Job After All](https://www.youtube.com/watch?v=EGskcTRnLJ0)**
+
+Since ChatGPT's debut, AI has been framed as everything from a world-changing breakthrough to an existential threat.
+
+📺 Bloomberg Television
+
+👁️ 165K • 👍 4K • 💬 652 • ⏱️ 12:20 • 2d ago
+
+---
+
+**[How to Make AI Videos Look So Real, It’s Scary](https://www.youtube.com/watch?v=htooei3Ed10)**
+
+Create Insanely Real UGC Ads with Arcads https://youricreates.com/ArcAds In this video, I break down a simple workflow for ...
+
+📺 Youri van Hofwegen
+
+👁️ 9K • 💬 7 • ⏱️ 8:56 • 7h ago
 
 ---
 
@@ -362,17 +352,27 @@ Try Abacus Claw:* https://claw.abacus.ai/fmj OpenClaw Cloud changes how an AI ag
 
 📺 Julia McCoy
 
-👁️ 3K • 👍 247 • 💬 24 • ⏱️ 10:17 • 7h ago
+👁️ 4K • 👍 285 • 💬 28 • ⏱️ 10:17 • 8h ago
 
 ---
 
-**[CA protesters call for AI pause at Anthropic, OpenAI, xAI as White House pushes national framework](https://www.youtube.com/watch?v=_XSf0vZ1f2o)**
+**[China’s New AI Robots Just Broke The Human Skill Barrier](https://www.youtube.com/watch?v=QDRzgF-8-50)**
 
-Dozens of protesters gathered outside Anthropic's headquarters in San Francisco on Saturday, calling on major artificial ...
+This week in robotics got kind of ridiculous. South Korea showed off a humanoid that can run, jump, play soccer, and moonwalk, ...
 
-📺 ABC7 News Bay Area
+📺 AI Revolution
 
-👁️ 3K • 👍 23 • 💬 42 • ⏱️ 2:19 • 22h ago
+👁️ 62K • 👍 1K • 💬 92 • ⏱️ 14:31 • 23h ago
+
+---
+
+**[A $0.001 Cloud AI Model Beats My Raspberry Pi Setup](https://www.youtube.com/watch?v=Q6_ONYlB6a8)**
+
+I tested running a local LLM on a Raspberry Pi 5 to see how practical it really is. I tested it on its own, with the Hailo AI HAT+ 2 ...
+
+📺 Michael Klements
+
+👁️ 3K • 👍 145 • 💬 10 • ⏱️ 12:48 • 12h ago
 
 ---
 
@@ -388,7 +388,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 299,865 • ❤️ 846 • 13d ago
+⬇️ 299,865 • ❤️ 849 • 13d ago
 
 ---
 
@@ -400,7 +400,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `text-generation` `27.8B`
 
-⬇️ 151,482 • ❤️ 1,083 • 2d ago
+⬇️ 151,482 • ❤️ 1,085 • 2d ago
 
 ---
 
@@ -424,7 +424,7 @@ Mistral-Small-4-119B-2603 is a hybrid MoE model (119B params, 6.5B active) suppo
 
 `119.4B`
 
-⬇️ 10,591 • ❤️ 309 • 5h ago
+⬇️ 10,591 • ❤️ 311 • 6h ago
 
 ---
 
@@ -434,7 +434,7 @@ Mistral-Small-4-119B-2603 is a hybrid MoE model (119B params, 6.5B active) suppo
 
 Foundation-1 is a structured text-to-sample model for music production, enabling precise control over instrumentation, timbre, FX, and musical structure (tempo, key, bar count) for generating coherent, production-ready audio loops.
 
-⬇️ 0 • ❤️ 234 • 7d ago
+⬇️ 0 • ❤️ 235 • 7d ago
 
 ---
 
@@ -446,7 +446,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 5,346 • ❤️ 226 • 3h ago
+⬇️ 5,346 • ❤️ 226 • 4h ago
 
 ---
 
@@ -458,7 +458,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 12,813 • ❤️ 717 • 12d ago
+⬇️ 12,813 • ❤️ 718 • 12d ago
 
 ---
 
@@ -470,7 +470,7 @@ GLM-OCR is a multimodal OCR model for complex document understanding, excelling 
 
 `image-to-text`
 
-⬇️ 3,289,742 • ❤️ 1,432 • 11d ago
+⬇️ 3,289,742 • ❤️ 1,433 • 11d ago
 
 ---
 
@@ -535,7 +535,7 @@ AutoDev is an AI-driven software development framework that automates complex en
 Residual connections with PreNorm are standard in modern LLMs, yet they accumulate all layer outputs with fixed unit weights. This uniform aggregation causes uncontrolled hidden-state growth with depth, progressively diluting each layer's contribution. We propose Attention Residuals (AttnRes), which replaces this fixed accumulation with softmax attention over preceding layer outputs, allowing each layer to selectively aggregate earlier representations with learned, input-dependent weights. To address the memory and communication overhead of attending over all preceding layer outputs for large-scale model training, we introduce Block AttnRes, which partitions layers into blocks and attends over block-level representations, reducing the memory footprint while preserving most of the gains of full AttnRes. Combined with cache-based pipeline communication and a two-phase computation strategy, Block AttnRes becomes a practical drop-in replacement for standard residual connections with minimal overhead.
   Scaling law experiments confirm that the improvement is consistent across model sizes, and ablations validate the benefit of content-dependent depth-wise selection. We further integrate AttnRes into the Kimi Linear architecture (48B total / 3B activated parameters) and pre-train on 1.4T tokens, where AttnRes mitigates PreNorm dilution, yielding more uniform output magnitudes and gradient distribution across depth, and improves downstream performance across all evaluated tasks.
 
-▲ 149 • 💬 4 • ⭐ 2,591 • 7d ago
+▲ 150 • 💬 4 • ⭐ 2,591 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.15031) • [💻 code](https://github.com/MoonshotAI/Attention-Residuals)
 
@@ -559,7 +559,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
 
-▲ 32 • 💬 2 • ⭐ 30,246 • 17mo ago
+▲ 32 • 💬 2 • ⭐ 30,310 • 17mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
@@ -571,7 +571,7 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
 
-▲ 194 • 💬 5 • ⭐ 7,862 • 4mo ago
+▲ 194 • 💬 5 • ⭐ 7,936 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
 
@@ -598,7 +598,7 @@ AgentScope enhances agentic applications by providing flexible tool-based intera
 
 A continual meta-learning framework for large language model agents that jointly evolves policies and reusable behavioral skills while minimizing downtime through opportunistic updates and skill-driven adaptation.
 
-▲ 122 • 💬 3 • ⭐ 2,512 • 6d ago
+▲ 123 • 💬 3 • ⭐ 2,512 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.17187) • [💻 code](https://github.com/aiming-lab/MetaClaw)
 
@@ -638,7 +638,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 51.9k • 🔱 7.2k • 2d ago
+⭐ 52.1k • 🔱 7.3k • 2d ago
 
 ---
 
@@ -648,7 +648,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 22.2k • 🔱 1.1k • 1h ago
+⭐ 22.2k • 🔱 1.1k • 2h ago
 
 ---
 
@@ -658,7 +658,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 13.1k • 🔱 1.6k • 8h ago
+⭐ 13.1k • 🔱 1.6k • 9h ago
 
 ---
 
@@ -668,7 +668,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 12.2k • 🔱 1.2k • 5d ago
+⭐ 12.2k • 🔱 1.2k • 6d ago
 
 ---
 
@@ -678,7 +678,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 10.6k • 🔱 544 • 2h ago
+⭐ 10.6k • 🔱 544 • 3h ago
 
 ---
 
@@ -688,7 +688,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.5k • 🔱 765 • 10h ago
+⭐ 10.5k • 🔱 765 • 11h ago
 
 ---
 
@@ -698,7 +698,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 6.4k • 🔱 974 • 2d ago
+⭐ 6.4k • 🔱 978 • 2d ago
 
 ---
 
@@ -708,7 +708,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 5.2k • 🔱 426 • 4h ago
+⭐ 5.2k • 🔱 430 • 5h ago
 
 ---
 
@@ -718,7 +718,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `Python` `ai-agents` `claude` `claude-code` `cloud-security` `cybersecurity`
 
-⭐ 3.6k • 🔱 364 • 4h ago
+⭐ 3.6k • 🔱 364 • 5h ago
 
 ---
 
@@ -728,7 +728,7 @@ OpenShell is the safe, private runtime for autonomous AI agents.
 
 `Rust`
 
-⭐ 3.4k • 🔱 343 • 2h ago
+⭐ 3.4k • 🔱 345 • 14m ago
 
 ---
 
