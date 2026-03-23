@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-23T21:03:08.976483+00:00'
+updated: '2026-03-23T21:56:30.949584+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 23, 2026 at 21:03 UTC  
+**Last Updated:** March 23, 2026 at 21:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BitMine just added another 65,341 ETH and now holds 4.66M ETH total A huge chunk is also staked, which makes this feel bigger than a normal treasury headline Curious how people here see it — bullish signal for Ethereum’s institutional case, or too much concentration in one corporate balance sheet? https://btcusa.com/bitmine-adds-65341-eth/
 
-5h ago
+6h ago
 
 ---
 
@@ -88,7 +88,7 @@ BitMine just added another 65,341 ETH and now holds 4.66M ETH total A huge chunk
 
 An attacker minted $80M in unbacked USR stablecoins using just $200K, crashing the token 62%. The GENIUS Act was supposed to prevent exactly this.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/resolv-usr-stablecoin-80-million-unauthorized-mint-2026/) • 23h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/resolv-usr-stablecoin-80-million-unauthorized-mint-2026/) • 1d ago
 
 ---
 
@@ -104,7 +104,7 @@ Most conversations around ETH are about trading, staking yields, or long-term po
 
 Been using Ethereum for years and I'm happy with the roadmap, but L2s are starting to feel like their own isolated islands. Arbitrum, Base, Optimism, ZkSync , each has its own liquidity, its own bridges, its own quirks. I get that they scale the network, but moving between them still feels clunky. Sometimes I wonder if we're solving one problem (fees on mainnet) while creating another (fragmentation). Curious how others see this. Are we heading toward a unified L2 experience or is this just how it's going to be?
 
-21h ago
+22h ago
 
 ---
 
@@ -112,7 +112,7 @@ Been using Ethereum for years and I'm happy with the roadmap, but L2s are starti
 
 US SEC securities laws application to crypto, fast confirmation rule, EF mandate
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-16/) • 21h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-16/) • 22h ago
 
 ---
 
@@ -120,13 +120,13 @@ US SEC securities laws application to crypto, fast confirmation rule, EF mandate
 
 Hi, Long story short 45sec after funding my trust wallet a transfer occurred that I do not recall making. Mar-23-2026 01:10:59 AM From funding wallet to trust wallet Erc20 0xd88cec26651601789e86cedbefc2af5e3d282249badc150f9caeb4fea509be30 The unknown transaction Mar-23-2026 01:11:47 AM 0xa72208defce57ad563bc406f8a5bfd6fa8dc4e17f2b2045e11741eb88067cf1b Is there something i am missing? Or is my wallet compromised. Thanks in advance.
 
-17h ago
+18h ago
 
 ---
 
 **[x402s now has state channels](https://www.reddit.com/r/ethereum/comments/1s0yi3u/x402s_now_has_state_channels/)**
 
-🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2035835465354322316) • 23h ago
+🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2035835465354322316) • 1d ago
 
 ---
 
@@ -140,7 +140,7 @@ Hi, Long story short 45sec after funding my trust wallet a transfer occurred tha
 
 Just finished the first version of Aegisa. It’s basically a "Control Tower" for testnets. The goal was to have one place to check balances across Sepolia, Base, IOTA, etc., and dispense gas via a dedicated API for automated tasks. It's meant to be hosted on your own infra so you aren't at the mercy of public endpoints. Landing page:https://mwveliz.github.io/aegisa/ Source:https://github.com/mwveliz/aegisa/
 
-20h ago
+21h ago
 
 ---
 
@@ -168,7 +168,7 @@ New York Post • 3d ago
 
 BitMine Immersion Technologies now holds more than $10 billion worth of Ethereum, leading the ETH treasury pack as the asset rebounds.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 5h ago
 
 Three cryptocurrencies look like good candidates to rebound this year.
 
-The Motley Fool • 22h ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -192,7 +192,7 @@ TradingView • 16h ago
 
 Crypto prices, including for Bitcoin and XRP, are getting a much-needed boost Monday. Here's what digital asset investors need to know.
 
-Fast Company • 1h ago
+Fast Company • 2h ago
 
 ---
 
@@ -200,7 +200,7 @@ Fast Company • 1h ago
 
 Bitmine's total crypto and cash holdings currently stand at $11 billion, and the company owns around 3.9% of Ethereum's circulating supply.
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -208,7 +208,7 @@ The Block • 7h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
+Fortune • 7h ago
 
 ---
 
@@ -222,7 +222,7 @@ MarketWatch • 7h ago
 
 Dubai, UAE, March  22, 2026  (GLOBE NEWSWIRE) -- Pepeto just moved its Binance listing into the final round, and the presale has gone viral with i...
 
-markets.businessinsider.com • 23h ago
+markets.businessinsider.com • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 809 • 👍 111 • 💬 4 • ⏱️ 4:00 • 2h ago
+👁️ 809 • 👍 111 • 💬 4 • ⏱️ 4:00 • 3h ago
 
 ---
 
@@ -246,7 +246,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 1K • 👍 94 • 💬 14 • ⏱️ 9:47 • 9h ago
+👁️ 1K • 👍 94 • 💬 14 • ⏱️ 9:47 • 10h ago
 
 ---
 
@@ -256,7 +256,7 @@ The situation just got 10 times worse for bitcoin, ethereum and the rest of cryp
 
 📺 Thomas Kralow
 
-👁️ 10K • 👍 2K • 💬 28 • ⏱️ 11:52 • 9h ago
+👁️ 10K • 👍 2K • 💬 28 • ⏱️ 11:52 • 10h ago
 
 ---
 
@@ -276,7 +276,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 2K • 👍 140 • 💬 14 • ⏱️ 1:44:01 • 10h ago
+👁️ 2K • 👍 140 • 💬 14 • ⏱️ 1:44:01 • 11h ago
 
 ---
 
@@ -296,7 +296,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 430 • 👍 15 • 💬 3 • ⏱️ 4:30 • 10h ago
+👁️ 430 • 👍 15 • 💬 3 • ⏱️ 4:30 • 11h ago
 
 ---
 
@@ -306,7 +306,7 @@ Monad combines speed, low fees, and EVM compatibility. Watch this breakdown of i
 
 📺 CoinGecko
 
-👁️ 1K • 👍 109 • 💬 92 • ⏱️ 9:10 • 10h ago
+👁️ 1K • 👍 109 • 💬 92 • ⏱️ 9:10 • 11h ago
 
 ---
 
@@ -316,7 +316,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 862 • 👍 77 • ⏱️ 7:02 • 6h ago
+👁️ 862 • 👍 77 • ⏱️ 7:02 • 7h ago
 
 ---
 
@@ -326,7 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 97 • 💬 1 • ⏱️ 4:11 • 22h ago
+👁️ 2K • 👍 97 • 💬 1 • ⏱️ 4:11 • 23h ago
 
 ---
 

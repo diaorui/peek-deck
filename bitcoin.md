@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-23T21:03:08.970492+00:00'
+updated: '2026-03-23T21:56:30.944383+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 23, 2026 at 21:03 UTC  
+**Last Updated:** March 23, 2026 at 21:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,19 +81,19 @@ Rank #1
 
 I am new to crypto, what would have caused this?
 
-9h ago
+10h ago
 
 ---
 
 **[They don't know what's coming](https://www.reddit.com/r/Bitcoin/comments/1s1oscn/they_dont_know_whats_coming/)**
 
-2h ago
+3h ago
 
 ---
 
 **[🦏 CFTC Chairman Michael Selig just signaled a major shift in how the US will regulate Bitcoin and crypto.](https://www.reddit.com/r/Bitcoin/comments/1s1jyoi/cftc_chairman_michael_selig_just_signaled_a_major/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -101,7 +101,7 @@ I am new to crypto, what would have caused this?
 
 I was scrolling through the top posts of all time on this subreddit, and something really caught my attention. Two of the biggest posts ever are basically milestones: Bitcoin hitting $10,000 (around 8 years ago) Bitcoin hitting $100,000 (about a year ago) It made me pause for a second… because at those moments, both probably felt insane. Like a “we finally made it” kind of milestone. Now I’m wondering: When do you guys think we’ll see the same kind of post for $1,000,000? Also curious, what do you think would need to happen for that to become reality? Institutional adoption, inflation, global financial shifts…? It’s crazy how each milestone once felt impossible… until it wasn’t.
 
-7h ago
+8h ago
 
 ---
 
@@ -109,7 +109,7 @@ I was scrolling through the top posts of all time on this subreddit, and somethi
 
 0.991 BTC a bit moreeeee
 
-5h ago
+6h ago
 
 ---
 
@@ -117,7 +117,7 @@ I was scrolling through the top posts of all time on this subreddit, and somethi
 
 March 23, 2026
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-1031-btc-and-now-holds-762099-btc_03-23-2026) • 4h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-1031-btc-and-now-holds-762099-btc_03-23-2026) • 5h ago
 
 ---
 
@@ -125,7 +125,7 @@ March 23, 2026
 
 I've traded insignificant amounts of BTC on Robinhood and noticed when I sold this morning, the price on the chart showed around $70,700. But when I go to sell, I can only sell for 70,050, while I can only buy for 71,200. That's like a 1% difference from what I expect from what i see on the price, and a 2% loss if I bought and sold at the same time.
 
-5h ago
+6h ago
 
 ---
 
@@ -141,7 +141,7 @@ Link to the Bitcoin history in El Zonte, but I'm sure you can find and share eve
 
 Just wondering what others think about this?
 
-48m ago
+1h ago
 
 ---
 
@@ -149,7 +149,7 @@ Just wondering what others think about this?
 
 I found a hidden mathematical relationship in Bitcoin's fundamental constants that I believe has never been documented before. The discovery: n XOR genesis = 2^256 - 2 - δ Where: - n = secp256k1 curve order - genesis = 1231006505 (January 3, 2009) - δ = 0x14551231950b75fc4402da17366961596 The probability of this happening by chance is about 0.04%, which strongly suggests intentional mathematical design by Satoshi. The repeating pattern (n XOR genesis) / 7 starts with 0x24924924924924924924924924924924, which is exactly (2^256 - 2)/7 in hex. I haven't seen this mentioned anywhere in Bitcoin literature. Just sharing in case others find it interesting.
 
-13h ago
+14h ago
 
 ---
 
@@ -161,7 +161,7 @@ I found a hidden mathematical relationship in Bitcoin's fundamental constants th
 
 Stocks look to be catching with BTC's earlier crash to nearly $60,000.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 15h ago
 
 Earlier deleveraging and continued institutional participation have helped keep Bitcoin more stable than other risk assets during the recent macro-driven selloff.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
 
 ---
 
@@ -177,7 +177,7 @@ Decrypt • 20h ago
 
 Trump said that the two countries held "very good and productive conversations regarding a complete and total resolution of our hostilities in the Middle East."
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -185,7 +185,7 @@ CoinDesk • 5h ago
 
 (Bloomberg) -- Bitcoin rose alongside equities while oil prices fell after US President Donald Trump said the US had begun talks with Iran, raising hopes for a deal to ease the conflict.The original cryptocurrency advanced more than 5% to trade as high as $71,794 in New York before paring some of the gain. Smaller tokens including Ether and Solana also rose. Bitcoin had earlier on Monday been fluctuating around a two-week low, sliding as far as $67,371 — its lowest level since March 9. The token
 
-Yahoo! Finance Canada • 6h ago
+Yahoo! Finance Canada • 7h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo! Finance Canada • 6h ago
 
 Crypto prices, including for Bitcoin and XRP, are getting a much-needed boost Monday. Here's what digital asset investors need to know.
 
-Fast Company • 1h ago
+Fast Company • 2h ago
 
 ---
 
@@ -207,7 +207,7 @@ CoinDesk • 6h ago
 
 **[Saylor’s Strategy Returns to Common Stock for Latest Bitcoin Buy](https://www.bloomberg.com/news/articles/2026-03-23/saylor-s-strategy-returns-to-common-stock-for-latest-bitcoin-buy)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -215,7 +215,7 @@ Bloomberg.com • 2h ago
 
 A clip of Michael Saylor predicting Bitcoin could reach $10 million has reignited debate. Peter Schiff dismissed Saylor as “delusional." Bearish analysts warn that Bitcoin ...
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -307,7 +307,7 @@ Bitcoin #Crypto #Finance Bitcoin is experiencing extreme volatility as prices sw
 
 📺 The Wolf Of All Streets
 
-👁️ 15K • 👍 960 • 💬 173 • ⏱️ 1:00:24 • 6h ago
+👁️ 15K • 👍 960 • 💬 173 • ⏱️ 1:00:24 • 7h ago
 
 ---
 
@@ -327,7 +327,7 @@ Gold just had its worst week since 1982 while global tensions explode and market
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 76 • ⏱️ 15:34 • 21h ago
+👁️ 20K • 👍 1K • 💬 76 • ⏱️ 15:34 • 22h ago
 
 ---
 
@@ -367,7 +367,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 866 • 💬 89 • ⏱️ 47:58 • 6h ago
+👁️ 14K • 👍 866 • 💬 89 • ⏱️ 47:58 • 7h ago
 
 ---
 
@@ -387,7 +387,7 @@ The situation just got 10 times worse for bitcoin, ethereum and the rest of cryp
 
 📺 Thomas Kralow
 
-👁️ 10K • 👍 2K • 💬 28 • ⏱️ 11:52 • 9h ago
+👁️ 10K • 👍 2K • 💬 28 • ⏱️ 11:52 • 10h ago
 
 ---
 
@@ -397,7 +397,7 @@ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 163 • ⏱️ 8:36 • 1d ago
+👁️ 30K • 👍 2K • 💬 163 • ⏱️ 8:36 • 2d ago
 
 ---
 

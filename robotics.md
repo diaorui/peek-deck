@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-23T21:03:08.979767+00:00'
+updated: '2026-03-23T21:56:30.952325+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 23, 2026 at 21:03 UTC  
+**Last Updated:** March 23, 2026 at 21:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Roadrunner, the latest robot from the Robotics and AI Institute, is a bipedal, wheeled robot for multi-modal locomotion](https://www.reddit.com/r/robotics/comments/1s1jo4q/roadrunner_the_latest_robot_from_the_robotics_and/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Autonomous transport vehicles handling cargo operations at a modern port](https://www.reddit.com/r/robotics/comments/1s1m49a/autonomous_transport_vehicles_handling_cargo/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 I built this robot to perform with acrobats in new and interesting ways. See Acrobot.nl for more info, and as always I'm happy to answer questions! This video was taken in Krystallpalast in Germany where the Acrobot plays for the next 3 months.
 
-8h ago
+9h ago
 
 ---
 
@@ -56,7 +56,7 @@ I built this robot to perform with acrobats in new and interesting ways. See Acr
 
 Asimov is an open-source humanoid robot we're building at Menlo Research. We've already open-sourced Asimov v0 (the legs) and plan to open-source Asimov v1 (the full body) once we improve its walking. Asimov v0: https://github.com/asimovinc/asimov-v0 Website: https://asimov.inc/
 
-17h ago
+18h ago
 
 ---
 
@@ -64,7 +64,7 @@ Asimov is an open-source humanoid robot we're building at Menlo Research. We've 
 
 This is Ricket, a robot project I’ve been building for the past year, programmed mostly using ROS2. My main goals for it are expressive movement, strong body language, and a face/behavior system with a lot of personality. Longer term, I also want to push it toward more dynamic legged motion and eventually jumping. I’ve mostly been documenting progress on Instagram so far (@tomsrocketsandrobots), but I’m getting closer to hardware testing and wanted to see if there was interest in me sharing updates here too. Also I’ve got a new batch of parts arriving tomorrow, and on Wednesday at 6 PM MST I’m planning to livestream the teardown and install. If people are into it, I can keep posting updates here.
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Still cant get it to walk forward yet but rotating seems okay. Can definitely be
 
 Happy Monday everyone! Thank you to everyone who has already signed up for our AR26 hackathon – the response has been awesome. One final reminder for those in the Greater London area: our kick-off event is this Friday in London! This is your chance to: Learn more about the hackathon Meet fellow AI/robotics enthusiasts Hear talks from academics and industry leaders Enjoy free pizza and beer 🍕🍺 Event Details: 📅 Friday, 27 March 🕕 16:00–20:00 GMT 📍 Plexal, London NVIDIA Hardware Raffle: We're running a raffle for NVIDIA hardware! To be eligible, you need to attend in person, join the platform, and create or join a project. Haven't signed up yet? We'd love to see you there! Sign up: https://luma.com/o1m21gi8
 
-3h ago
+4h ago
 
 ---
 
@@ -96,13 +96,13 @@ SDK Updates: D401 GMSL support Python 3.14 support D555 Global timestamp support
 
 Genuine question, I spent some time playing with microcontrollers, encoders, and accelerometers. I will say my weak point was PID, but at the same time I keep seeing all these videos about robotics moving perfectly down a street or in a line or going to a specific location. Can someone point me in the right direction with how they do that? I heard about GPS chips but.. is there any reliable MCU’s or what types of chips, parts, do you use that make it easier to program a robot to move in these very accurate movements? Would appreciate any microcontroller suggestions, or reliable accelerometers. I know accelerometers tend to have the error over time that can be hard to fix but how does one erase that or minimize it if a robot keeps moving? Thank you
 
-7m ago
+1h ago
 
 ---
 
 **[UMich Rob vs CMU ME vs TU Delft Rob](https://www.reddit.com/r/robotics/comments/1s1qdc2/umich_rob_vs_cmu_me_vs_tu_delft_rob/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -130,7 +130,7 @@ WLUK • 1d ago
 
 SYDNEY, Australia, March 23, 2026 (GLOBE NEWSWIRE) -- GMEX Robotics Corporation (NASDAQ: GMEX) (“GMEX Robotics” or the “Company”), a developer of AI-powered robotic technologies, announces that it has entered into a purchase agreement with a leading Australian food and beverage group (“FBG”) for the deployment of the Company’s intelligent culinary robotics systems, including its recently announced personal robotic chef - 2Fculinary AI, and the purchase order from this FBG. The AU$4.2 million agr
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -146,7 +146,7 @@ BBC • 1d ago
 
 Kraken Robotics boasts technological leadership in subsea intelligence and power systems amid rising war threats. See why I rate KRKNF stock a Buy.
 
-Seeking Alpha • 14h ago
+Seeking Alpha • 15h ago
 
 ---
 
@@ -154,7 +154,7 @@ Seeking Alpha • 14h ago
 
 A small team of students from across eastern Iowa is preparing to take its robotics work to an international stage, aiming to bring both a competition robot and
 
-KGAN • 1h ago
+KGAN • 2h ago
 
 ---
 
@@ -166,7 +166,7 @@ Bloomberg.com • 3d ago
 
 **[Bird‑like robots promise greater flexibility and control than drones](https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html)**
 
-Tech Xplore • 3h ago
+Tech Xplore • 4h ago
 
 ---
 
@@ -182,7 +182,7 @@ The Republic News • 1d ago
 
 Dilemmas, needs, and game-changing trends for 2026 and beyond.
 
-inc.com • 7h ago
+inc.com • 8h ago
 
 ---
 
@@ -206,7 +206,7 @@ This week in robotics got kind of ridiculous. South Korea showed off a humanoid 
 
 📺 AI Revolution
 
-👁️ 53K • 👍 1K • 💬 90 • ⏱️ 14:31 • 21h ago
+👁️ 53K • 👍 1K • 💬 90 • ⏱️ 14:31 • 22h ago
 
 ---
 
@@ -226,7 +226,7 @@ Join the community & access CAD files, Code snippets, & more robotics resources 
 
 📺 Brogan M. Pratt
 
-👁️ 714 • 👍 10 • ⏱️ 0:30 • 4h ago
+👁️ 714 • 👍 10 • ⏱️ 0:30 • 5h ago
 
 ---
 
