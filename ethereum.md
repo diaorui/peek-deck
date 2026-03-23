@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-23T14:56:41.289459+00:00'
+updated: '2026-03-23T16:02:50.120945+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - videos
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 23, 2026 at 14:56 UTC  
+**Last Updated:** March 23, 2026 at 16:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +4.5%  
-**7d:** -6.1%  
-**30d:** +11.1%  
-**90d:** -26.1%  
-**1y:** +4.4%  
+**24h:** +2.5%  
+**7d:** -7.9%  
+**30d:** +9.0%  
+**90d:** -27.6%  
+**1y:** +2.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $263.22B
+**Market Cap:** $256.91B
 Rank #2
 
 **Circulating Supply:** 120,691,597 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.0%
+-56.9%
 
 **All-Time Low:** $0.43
-+503090.7%
++491829.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 An attacker minted $80M in unbacked USR stablecoins using just $200K, crashing the token 62%. The GENIUS Act was supposed to prevent exactly this.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/resolv-usr-stablecoin-80-million-unauthorized-mint-2026/) • 17h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/resolv-usr-stablecoin-80-million-unauthorized-mint-2026/) • 18h ago
 
 ---
 
@@ -88,7 +88,15 @@ An attacker minted $80M in unbacked USR stablecoins using just $200K, crashing t
 
 Most conversations around ETH are about trading, staking yields, or long-term positioning. That’s fine, but I’m more interested in actual usage. Where does ETH realistically make sense outside of speculation? From what I’ve seen, it shows up most in DeFi, NFTs, and certain online services; but even then, gas fees can make smaller transactions feel inefficient. It’s not always obvious where ETH fits as something you use rather than just hold or lock up. I’ve experimented a bit with different use cases, mostly around digital services and entertainment. Some platforms are clearly designed with ETH in mind, while others just support it as an extra option without really optimizing the experience. A few setups, like Metaspins, seem to lean more into direct crypto usage, but even there it depends on fees, timing, and how smooth the process actually is. So I want to know. What are you using ETH for right now that feels practical, not just theoretical?
 
-6h ago
+8h ago
+
+---
+
+**[BitMine just added another 65,341 ETH and now holds 4.66M ETH total](https://www.reddit.com/r/ethereum/comments/1s1ks6b/bitmine_just_added_another_65341_eth_and_now/)**
+
+BitMine just added another 65,341 ETH and now holds 4.66M ETH total A huge chunk is also staked, which makes this feel bigger than a normal treasury headline Curious how people here see it — bullish signal for Ethereum’s institutional case, or too much concentration in one corporate balance sheet? https://btcusa.com/bitmine-adds-65341-eth/
+
+6m ago
 
 ---
 
@@ -96,15 +104,7 @@ Most conversations around ETH are about trading, staking yields, or long-term po
 
 Been using Ethereum for years and I'm happy with the roadmap, but L2s are starting to feel like their own isolated islands. Arbitrum, Base, Optimism, ZkSync , each has its own liquidity, its own bridges, its own quirks. I get that they scale the network, but moving between them still feels clunky. Sometimes I wonder if we're solving one problem (fees on mainnet) while creating another (fragmentation). Curious how others see this. Are we heading toward a unified L2 experience or is this just how it's going to be?
 
-15h ago
-
----
-
-**[Ethereal news weekly #16 | US SEC securities laws application to crypto, fast confirmation rule, EF mandate](https://www.reddit.com/r/ethereum/comments/1s10xuy/ethereal_news_weekly_16_us_sec_securities_laws/)**
-
-US SEC securities laws application to crypto, fast confirmation rule, EF mandate
-
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-16/) • 15h ago
+16h ago
 
 ---
 
@@ -112,7 +112,21 @@ US SEC securities laws application to crypto, fast confirmation rule, EF mandate
 
 Hi, Long story short 45sec after funding my trust wallet a transfer occurred that I do not recall making. Mar-23-2026 01:10:59 AM From funding wallet to trust wallet Erc20 0xd88cec26651601789e86cedbefc2af5e3d282249badc150f9caeb4fea509be30 The unknown transaction Mar-23-2026 01:11:47 AM 0xa72208defce57ad563bc406f8a5bfd6fa8dc4e17f2b2045e11741eb88067cf1b Is there something i am missing? Or is my wallet compromised. Thanks in advance.
 
-11h ago
+12h ago
+
+---
+
+**[Ethereal news weekly #16 | US SEC securities laws application to crypto, fast confirmation rule, EF mandate](https://www.reddit.com/r/ethereum/comments/1s10xuy/ethereal_news_weekly_16_us_sec_securities_laws/)**
+
+US SEC securities laws application to crypto, fast confirmation rule, EF mandate
+
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-16/) • 16h ago
+
+---
+
+**[x402s now has state channels](https://www.reddit.com/r/ethereum/comments/1s0yi3u/x402s_now_has_state_channels/)**
+
+🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2035835465354322316) • 18h ago
 
 ---
 
@@ -122,25 +136,11 @@ Hi, Long story short 45sec after funding my trust wallet a transfer occurred tha
 
 ---
 
-**[x402s now has state channels](https://www.reddit.com/r/ethereum/comments/1s0yi3u/x402s_now_has_state_channels/)**
-
-🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2035835465354322316) • 17h ago
-
----
-
 **[Open-source dashboard for managing testnet gas across chains](https://www.reddit.com/r/ethereum/comments/1s121bj/opensource_dashboard_for_managing_testnet_gas/)**
 
 Just finished the first version of Aegisa. It’s basically a "Control Tower" for testnets. The goal was to have one place to check balances across Sepolia, Base, IOTA, etc., and dispense gas via a dedicated API for automated tasks. It's meant to be hosted on your own infra so you aren't at the mercy of public endpoints. Landing page:https://mwveliz.github.io/aegisa/ Source:https://github.com/mwveliz/aegisa/
 
-14h ago
-
----
-
-**[Daily General Discussion March 22, 2026](https://www.reddit.com/r/ethereum/comments/1s0cxb3/daily_general_discussion_march_22_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-1d ago
+15h ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 While upgrades have improved efficiency and lowered costs, the ecosystem faces deeper structural questions around fragmentation, security, and purpose, even as it continues prioritizing base-layer scaling.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -168,7 +168,7 @@ New York Post • 3d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
@@ -176,7 +176,7 @@ Fortune • 1h ago
 
 Ethereum’s price is largely driven by Bitcoin’s moves, according to Bitwise. Bitcoin’s moves explain 65% of Ethereum’s weekly price movements, Bitwise Senior Research Associate Max Shanon said in a March 17 report based on a modeling of Ethereum’s price action...
 
-Yahoo Finance • 27m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -184,13 +184,7 @@ Yahoo Finance • 27m ago
 
 Bitmine's total crypto and cash holdings currently stand at $11 billion, and the company owns around 3.9% of Ethereum's circulating supply.
 
-The Block • 1h ago
-
----
-
-**[Most large cryptocurrencies climb on Avalanche, Ethereum increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-climb-on-avalanche-ethereum-increases-460e6938-c25d4eb6a817?gaa_at=eafs&gaa_n=AWEtsqeaYLF2dFyPPqlhCq6JtEd2lXfk6sl-NNFOdMLyRAP36AWThEv4rUxs&gaa_ts=69c157ec&gaa_sig=j0zRoSF0cF0O9w-KQTYBLqFAMWtZav3DuRd9_AaEQ79LO_NaPTC7uy16Ta2DLprME676Q7n12HIh18d2CpYdeQ%3D%3D)**
-
-MarketWatch • 56m ago
+The Block • 2h ago
 
 ---
 
@@ -198,13 +192,19 @@ MarketWatch • 56m ago
 
 According to the Institutional Ethereum Forum NYC announcement, the Ethereum Foundation is convening 150+ executives representing about $250 trillion in assets to discuss Ethereum’s role as a settlement layer for global finance, with zkSync’s Alex Gluchowski presenting privacy-focused “Prividiums”…
 
-TradingView • 9h ago
+TradingView • 11h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Fall After Trump Iran Ultimatum. Why Crypto’s Tied to the War.](https://www.barrons.com/livecoverage/stock-market-news-today-032326/card/bitcoin-ethereum-xrp-fall-after-trump-iran-ultimatum-why-crypto-s-tied-to-the-war--eDwIzcRlKGCVCgohbA7p?gaa_at=eafs&gaa_n=AWEtsqfTu2RsKYm44YUkbVfhpJX5nfH0Ha7uwk9W86NOANPoYi7SPndzv20t&gaa_ts=69c157ec&gaa_sig=oxvddk5W1Oua9SvN1WkyKFnspVAFRQFvngkTq4HbrvOt45uKy229pBGAFyKqIFnFU6dYfcDNRg9Gpktg1CmX8w%3D%3D)**
+**[Most large cryptocurrencies climb on Avalanche, Ethereum increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-climb-on-avalanche-ethereum-increases-460e6938-c25d4eb6a817?gaa_at=eafs&gaa_n=AWEtsqcb_xiSmIHwM28_UJlhe9hs1YOSSegKKyISF0LtAAIWH0StOJyxJbgc&gaa_ts=69c1678f&gaa_sig=AmH3YDYcvXxUU6zAhm4V1yzKIR7Tox4d4eJ7dfrTytAOGACHFTy7s1XoLgOJnCuS_CaxtgVZlZAVvzRTLqH5lg%3D%3D)**
 
-Barron's • 6h ago
+MarketWatch • 2h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Fall After Trump Iran Ultimatum. Why Crypto’s Tied to the War.](https://www.barrons.com/livecoverage/stock-market-news-today-032326/card/bitcoin-ethereum-xrp-fall-after-trump-iran-ultimatum-why-crypto-s-tied-to-the-war--eDwIzcRlKGCVCgohbA7p?gaa_at=eafs&gaa_n=AWEtsqe6WTOjvnxD_80DQLg6bUFxxy8CP4dJ3yZKOAb1Ih9EuMUeeJNVqoDQ&gaa_ts=69c1678f&gaa_sig=UN4zpRtvxqEGFRxulNbUusjufgsZLlLVsMSm0q3nOCbl4j-JkGoF_Yy4KMPLkevvre9avYKojNZem3Rwh0nMIg%3D%3D)**
+
+Barron's • 7h ago
 
 ---
 
@@ -212,15 +212,13 @@ Barron's • 6h ago
 
 Ethereum Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 4h ago
+Polymarket • 5h ago
 
 ---
 
-**[Crypto News: Ethereum Based Crypto Pepeto Approaches Binance Listing While Cardano Price Prediction Eyes Recovery](https://markets.businessinsider.com/news/stocks/crypto-news-ethereum-based-crypto-pepeto-approaches-binance-listing-while-cardano-price-prediction-eyes-recovery-1035952605)**
+**[Ethereum Slides Toward $2,000 as Bears Tighten Grip but Bottom May Form](https://www.ccn.com/analysis/crypto/ethereum-eth-bears-closing-bottom-could-stop-slide/)**
 
-Dubai, UAE, March  22, 2026  (GLOBE NEWSWIRE) -- Pepeto just moved its Binance listing into the final round, and the presale has gone viral with i...
-
-markets.businessinsider.com • 17h ago
+CCN.com • 6h ago
 
 ---
 
@@ -234,7 +232,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 429 • 👍 46 • 💬 10 • ⏱️ 9:47 • 3h ago
+👁️ 677 • 👍 70 • 💬 26 • ⏱️ 9:47 • 4h ago
 
 ---
 
@@ -244,27 +242,7 @@ The situation just got 10 times worse for bitcoin, ethereum and the rest of cryp
 
 📺 Thomas Kralow
 
-👁️ 3K • 👍 2K • 💬 17 • ⏱️ 11:52 • 3h ago
-
----
-
-**[LAST CHANCE FOR ETHEREUM NOW🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=Kc3aGhUeDAo)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 191 • 👍 11 • 💬 2 • ⏱️ 4:30 • 4h ago
-
----
-
-**[Vitalik vs BlackRock: Who Wins?](https://www.youtube.com/watch?v=l77QrTEIgpo)**
-
-BlackRock just launched a staking Ethereum ETF—but is it really a win for investors? This video breaks down ETHB, hidden fees, ...
-
-📺 Coin Bureau
-
-👁️ 21K • 👍 872 • 💬 98 • ⏱️ 18:11 • 2d ago
+👁️ 6K • 👍 2K • 💬 73 • ⏱️ 11:52 • 4h ago
 
 ---
 
@@ -274,7 +252,27 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 690 • 👍 71 • 💬 168 • ⏱️ 1:44:01 • 4h ago
+👁️ 1K • 👍 98 • 💬 31 • ⏱️ 1:44:01 • 5h ago
+
+---
+
+**[Vitalik vs BlackRock: Who Wins?](https://www.youtube.com/watch?v=l77QrTEIgpo)**
+
+BlackRock just launched a staking Ethereum ETF—but is it really a win for investors? This video breaks down ETHB, hidden fees, ...
+
+📺 Coin Bureau
+
+👁️ 21K • 👍 882 • 💬 98 • ⏱️ 18:11 • 2d ago
+
+---
+
+**[LAST CHANCE FOR ETHEREUM NOW🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=Kc3aGhUeDAo)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 276 • 👍 13 • 💬 3 • ⏱️ 4:30 • 5h ago
 
 ---
 
@@ -284,27 +282,27 @@ BITCOIN DUMP EXPLAINED (Price Target Hit)!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 7K • 👍 300 • 💬 91 • ⏱️ 17:12 • 14h ago
+👁️ 7K • 👍 302 • 💬 120 • ⏱️ 17:12 • 15h ago
 
 ---
 
-**[Tom Lee: &quot;$250K Bitcoin &amp; $12K Ethereum&quot; - His EXACT 2026 Price Targets Revealed](https://www.youtube.com/watch?v=POwKnprttyw)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=XgUZAwdOmqw)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 Crypto Nutshell
+📺 Crypto Gyan
 
-👁️ 13K • 👍 498 • 💬 45 • ⏱️ 19:43 • 2d ago
+👁️ 309 • 👍 49 • ⏱️ 7:02 • 1h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=5lMMWAgjCSU)**
+**[CRYPTO LIVE TRADING || 23 Mar  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=9JmNWrMo20c)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+join my social platforms for updates and analysis ✓Instagram: ...
 
-📺 More Crypto Online
+📺 Aryan trader Live
 
-👁️ 1K • 👍 92 • 💬 1 • ⏱️ 4:11 • 16h ago
+👁️ 3K • 👍 4K • 46m ago
 
 ---
 
@@ -318,13 +316,13 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 ---
 
-**[Crypto Market Weekly Update: Bitcoin, Ethereum Key Levels &amp; Next Move Analysis](https://www.youtube.com/watch?v=M6rBBcXgj4c)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=5lMMWAgjCSU)**
 
-Welcome to Episode 20 of Crypto Technical Weekly Update — your #1 weekly deep dive into Bitcoin, Ethereum, Solana, and ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Delta Exchange
+📺 More Crypto Online
 
-👁️ 665 • 👍 42 • 💬 1 • ⏱️ 7:17 • 6h ago
+👁️ 2K • 👍 96 • 💬 1 • ⏱️ 4:11 • 17h ago
 
 ---
 
