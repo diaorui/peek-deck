@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-23T20:03:04.375943+00:00'
+updated: '2026-03-23T21:03:08.970492+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- news
 - videos
 - social
-- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 23, 2026 at 20:03 UTC  
+**Last Updated:** March 23, 2026 at 21:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,078.02
+### $70,782.20
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.0%  
+**24h:** +4.2%  
 **7d:** -4.0%  
-**30d:** +4.9%  
+**30d:** +5.0%  
 **90d:** -19.2%  
 **1y:** -18.7%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1421.67B
+**Market Cap:** $1418.12B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--43.6%
+-43.8%
 
 **All-Time Low:** $67.81
-+104695.8%
++104464.2%
 
 ---
 
@@ -81,13 +81,19 @@ Rank #1
 
 I am new to crypto, what would have caused this?
 
-8h ago
+9h ago
 
 ---
 
 **[They don't know what's coming](https://www.reddit.com/r/Bitcoin/comments/1s1oscn/they_dont_know_whats_coming/)**
 
-1h ago
+2h ago
+
+---
+
+**[🦏 CFTC Chairman Michael Selig just signaled a major shift in how the US will regulate Bitcoin and crypto.](https://www.reddit.com/r/Bitcoin/comments/1s1jyoi/cftc_chairman_michael_selig_just_signaled_a_major/)**
+
+5h ago
 
 ---
 
@@ -95,13 +101,7 @@ I am new to crypto, what would have caused this?
 
 I was scrolling through the top posts of all time on this subreddit, and something really caught my attention. Two of the biggest posts ever are basically milestones: Bitcoin hitting $10,000 (around 8 years ago) Bitcoin hitting $100,000 (about a year ago) It made me pause for a second… because at those moments, both probably felt insane. Like a “we finally made it” kind of milestone. Now I’m wondering: When do you guys think we’ll see the same kind of post for $1,000,000? Also curious, what do you think would need to happen for that to become reality? Institutional adoption, inflation, global financial shifts…? It’s crazy how each milestone once felt impossible… until it wasn’t.
 
-6h ago
-
----
-
-**[🦏 CFTC Chairman Michael Selig just signaled a major shift in how the US will regulate Bitcoin and crypto.](https://www.reddit.com/r/Bitcoin/comments/1s1jyoi/cftc_chairman_michael_selig_just_signaled_a_major/)**
-
-4h ago
+7h ago
 
 ---
 
@@ -109,7 +109,7 @@ I was scrolling through the top posts of all time on this subreddit, and somethi
 
 0.991 BTC a bit moreeeee
 
-4h ago
+5h ago
 
 ---
 
@@ -117,7 +117,15 @@ I was scrolling through the top posts of all time on this subreddit, and somethi
 
 March 23, 2026
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-1031-btc-and-now-holds-762099-btc_03-23-2026) • 3h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-1031-btc-and-now-holds-762099-btc_03-23-2026) • 4h ago
+
+---
+
+**[Help me understand why Robinhood shows $70,700, buys at 70,050, and sells at 71,200?](https://www.reddit.com/r/Bitcoin/comments/1s1k26j/help_me_understand_why_robinhood_shows_70700_buys/)**
+
+I've traded insignificant amounts of BTC on Robinhood and noticed when I sold this morning, the price on the chart showed around $70,700. But when I go to sell, I can only sell for 70,050, while I can only buy for 71,200. That's like a 1% difference from what I expect from what i see on the price, and a 2% loss if I bought and sold at the same time.
+
+5h ago
 
 ---
 
@@ -129,11 +137,11 @@ Link to the Bitcoin history in El Zonte, but I'm sure you can find and share eve
 
 ---
 
-**[Help me understand why Robinhood shows $70,700, buys at 70,050, and sells at 71,200?](https://www.reddit.com/r/Bitcoin/comments/1s1k26j/help_me_understand_why_robinhood_shows_70700_buys/)**
+**[Thoughts on Roth IRA being 100% FBTC?](https://www.reddit.com/r/Bitcoin/comments/1s1s69d/thoughts_on_roth_ira_being_100_fbtc/)**
 
-I've traded insignificant amounts of BTC on Robinhood and noticed when I sold this morning, the price on the chart showed around $70,700. But when I go to sell, I can only sell for 70,050, while I can only buy for 71,200. That's like a 1% difference from what I expect from what i see on the price, and a 2% loss if I bought and sold at the same time.
+Just wondering what others think about this?
 
-4h ago
+48m ago
 
 ---
 
@@ -141,13 +149,7 @@ I've traded insignificant amounts of BTC on Robinhood and noticed when I sold th
 
 I found a hidden mathematical relationship in Bitcoin's fundamental constants that I believe has never been documented before. The discovery: n XOR genesis = 2^256 - 2 - δ Where: - n = secp256k1 curve order - genesis = 1231006505 (January 3, 2009) - δ = 0x14551231950b75fc4402da17366961596 The probability of this happening by chance is about 0.04%, which strongly suggests intentional mathematical design by Satoshi. The repeating pattern (n XOR genesis) / 7 starts with 0x24924924924924924924924924924924, which is exactly (2^256 - 2)/7 in hex. I haven't seen this mentioned anywhere in Bitcoin literature. Just sharing in case others find it interesting.
 
-12h ago
-
----
-
-**[ICYMI the Broadcast last week - why bitcoin is a savings technology and not an investment, why DCA strategies are so powerful, keeping it boring and simple is the winning move in bitcoin ie produce value, save in bitcoin, hold in cold storage](https://www.reddit.com/r/Bitcoin/comments/1s1imy7/icymi_the_broadcast_last_week_why_bitcoin_is_a/)**
-
-5h ago
+13h ago
 
 ---
 
@@ -159,7 +161,7 @@ I found a hidden mathematical relationship in Bitcoin's fundamental constants th
 
 Stocks look to be catching with BTC's earlier crash to nearly $60,000.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -167,21 +169,7 @@ CoinDesk • 14h ago
 
 Earlier deleveraging and continued institutional participation have helped keep Bitcoin more stable than other risk assets during the recent macro-driven selloff.
 
-Decrypt • 19h ago
-
----
-
-**[Here's How Much Bitcoin Has Surged Past the S&P 500 Since the 2020 Covid Crash](https://www.fool.com/investing/2026/03/23/heres-how-much-bitcoin-has-surged-past-the-sp-500/)**
-
-Bitcoin has taken off in value in the past couple of years due to expectations of widespread crypto reform.
-
-The Motley Fool • 1h ago
-
----
-
-**[Bitcoin Rises After Trump Says to Postpone Iran Strikes](https://www.bloomberg.com/news/articles/2026-03-23/bitcoin-rises-after-trump-says-to-postpone-iran-strikes)**
-
-Bloomberg.com • 5h ago
+Decrypt • 20h ago
 
 ---
 
@@ -189,13 +177,23 @@ Bloomberg.com • 5h ago
 
 Trump said that the two countries held "very good and productive conversations regarding a complete and total resolution of our hostilities in the Middle East."
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
-**[Bitcoin Price Tops $70,000. XRP, Cryptos Lifted as Trump Delays Iran Strikes.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-cryto-trump-iran-f66315a0?gaa_at=eafs&gaa_n=AWEtsqd4Xy6nG6P29vd0DGmURz2rF4nuYqqSyTjSXLEBdAeQVS4odbflBkmy&gaa_ts=69c19796&gaa_sig=5Q8bjfk8lXYNvDCy_1AZLvtfLZwLs6kq-X6k0sIgoDMZSUbnpDw5yAMDpCBAYIGdMjAItKEOiphlDVSoJenXdA%3D%3D)**
+**[Bitcoin Rises After Trump Points to Delay in Iran Strikes](https://ca.finance.yahoo.com/news/bitcoin-rises-trump-points-delay-125029760.html)**
 
-Barron's • 7h ago
+(Bloomberg) -- Bitcoin rose alongside equities while oil prices fell after US President Donald Trump said the US had begun talks with Iran, raising hopes for a deal to ease the conflict.The original cryptocurrency advanced more than 5% to trade as high as $71,794 in New York before paring some of the gain. Smaller tokens including Ether and Solana also rose. Bitcoin had earlier on Monday been fluctuating around a two-week low, sliding as far as $67,371 — its lowest level since March 9. The token
+
+Yahoo! Finance Canada • 6h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP price today: Crypto market rises on latest Trump move—how long will it last?](https://www.fastcompany.com/91513909/bitcoin-btc-xrp-price-today-ethereum-eth-crypto-market-rises-on-trump-iran-war-comments-how-long-will-it-last)**
+
+Crypto prices, including for Bitcoin and XRP, are getting a much-needed boost Monday. Here's what digital asset investors need to know.
+
+Fast Company • 1h ago
 
 ---
 
@@ -203,13 +201,13 @@ Barron's • 7h ago
 
 Expanded share issuance plans and new Wall Street partners boost capital raising firepower.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
 **[Saylor’s Strategy Returns to Common Stock for Latest Bitcoin Buy](https://www.bloomberg.com/news/articles/2026-03-23/saylor-s-strategy-returns-to-common-stock-for-latest-bitcoin-buy)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -217,7 +215,15 @@ Bloomberg.com • 6h ago
 
 A clip of Michael Saylor predicting Bitcoin could reach $10 million has reignited debate. Peter Schiff dismissed Saylor as “delusional." Bearish analysts warn that Bitcoin ...
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
+
+---
+
+**[Bitcoin Is Headed to $500,000 According to This Wall Street Analyst and the Reasoning Is Hard to Dismiss](https://finance.yahoo.com/markets/crypto/articles/bitcoin-headed-500-000-according-160000919.html)**
+
+Geoffrey Kendrick of Standard Chartered thinks Bitcoin is poised for an epic rally.
+
+Yahoo Finance • 5h ago
 
 ---
 
@@ -301,7 +307,7 @@ Bitcoin #Crypto #Finance Bitcoin is experiencing extreme volatility as prices sw
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 805 • 💬 211 • ⏱️ 1:00:24 • 5h ago
+👁️ 15K • 👍 960 • 💬 173 • ⏱️ 1:00:24 • 6h ago
 
 ---
 
@@ -311,37 +317,17 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Fol
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 218 • ⏱️ 36:30 • 1d ago
+👁️ 34K • 👍 2K • 💬 166 • ⏱️ 36:30 • 1d ago
 
 ---
 
-**[Bitcoin Recovers Following Rumors of Iran Deal](https://www.youtube.com/watch?v=p2onQxybcK8)**
+**[Gold Just Had Its Worst Week Since 1982. Here&#39;s Why That&#39;s Bullish For Bitcoin](https://www.youtube.com/watch?v=3XqcQop9QDk)**
 
-Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
+Gold just had its worst week since 1982 while global tensions explode and markets crack. That should not be happening.
 
-📺 CryptosRUs
+📺 Simply Bitcoin
 
-👁️ 11K • 👍 785 • 💬 153 • ⏱️ 47:58 • 5h ago
-
----
-
-**[Bitcoin Breakdown: What Happens If Support Fails?](https://www.youtube.com/watch?v=Zd58SCfjU7M)**
-
-Bitcoin is pulling back but is this just a healthy correction or the start of something bigger? In this video, Sheldon breaks down the ...
-
-📺 Crypto Banter
-
-👁️ 6K • 👍 481 • 💬 21 • ⏱️ 23:31 • 10h ago
-
----
-
-**[Bitcoin&#39;s Most Reliable CRASH Signal Triggers AGAIN!](https://www.youtube.com/watch?v=TLGEQU46wDI)**
-
-In today's video, we're breaking down why this specific "Crash Signal" has a high historical accuracy rate and what it means for ...
-
-📺 Discover Crypto
-
-👁️ 4K • 👍 350 • 💬 10 • ⏱️ 1:10:53 • 4h ago
+👁️ 20K • 👍 1K • 💬 76 • ⏱️ 15:34 • 21h ago
 
 ---
 
@@ -351,7 +337,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 59K • 👍 2K • 💬 153 • ⏱️ 59:39 • 2d ago
+👁️ 60K • 👍 2K • 💬 153 • ⏱️ 59:39 • 2d ago
 
 ---
 
@@ -361,7 +347,7 @@ Bitcoin just scored a massive regulatory win that changes everything for develop
 
 📺 Simply Bitcoin
 
-👁️ 33K • 👍 2K • 💬 115 • ⏱️ 21:11 • 1d ago
+👁️ 33K • 👍 2K • 💬 114 • ⏱️ 21:11 • 1d ago
 
 ---
 
@@ -371,17 +357,17 @@ Watch the full episode here: https://youtu.be/7cW2PCPA8kY. Ben Cowen explains th
 
 📺 Market Disruptors Podcast
 
-👁️ 8K • 👍 353 • 💬 100 • ⏱️ 7:18 • 1d ago
+👁️ 9K • 👍 356 • 💬 87 • ⏱️ 7:18 • 1d ago
 
 ---
 
-**[🚨 BTC &amp; ETH: TERRIBLE NEWS!!!](https://www.youtube.com/watch?v=OWhm79nmI4c)**
+**[Bitcoin Recovers Following Rumors of Iran Deal](https://www.youtube.com/watch?v=p2onQxybcK8)**
 
-The situation just got 10 times worse for bitcoin, ethereum and the rest of crypto! Markets are about to tank! Here is why and how to ...
+Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
 
-📺 Thomas Kralow
+📺 CryptosRUs
 
-👁️ 9K • 👍 2K • 💬 67 • ⏱️ 11:52 • 8h ago
+👁️ 14K • 👍 866 • 💬 89 • ⏱️ 47:58 • 6h ago
 
 ---
 
@@ -391,7 +377,27 @@ Bitcoin #Crypto #Finance Anthony Scaramucci says this Bitcoin pullback may be fa
 
 📺 The Wolf Of All Streets
 
-👁️ 31K • 👍 1K • 💬 232 • ⏱️ 30:41 • 1d ago
+👁️ 32K • 👍 1K • 💬 221 • ⏱️ 30:41 • 1d ago
+
+---
+
+**[🚨 BTC &amp; ETH: TERRIBLE NEWS!!!](https://www.youtube.com/watch?v=OWhm79nmI4c)**
+
+The situation just got 10 times worse for bitcoin, ethereum and the rest of crypto! Markets are about to tank! Here is why and how to ...
+
+📺 Thomas Kralow
+
+👁️ 10K • 👍 2K • 💬 28 • ⏱️ 11:52 • 9h ago
+
+---
+
+**[Exactly How Bitcoin Reaches $1.5 Million By 2030 (3 Experts Explain)](https://www.youtube.com/watch?v=gpRhzWFZEmM)**
+
+Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: ...
+
+📺 Altcoin Daily
+
+👁️ 30K • 👍 2K • 💬 163 • ⏱️ 8:36 • 1d ago
 
 ---
 

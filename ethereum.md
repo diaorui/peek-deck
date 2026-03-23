@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-23T20:03:04.381943+00:00'
+updated: '2026-03-23T21:03:08.976483+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- news
 - videos
 - social
-- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 23, 2026 at 20:03 UTC  
+**Last Updated:** March 23, 2026 at 21:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +5.1%  
-**7d:** -6.5%  
-**30d:** +10.6%  
-**90d:** -26.5%  
-**1y:** +4.0%  
+**24h:** +4.8%  
+**7d:** -6.7%  
+**30d:** +10.4%  
+**90d:** -26.6%  
+**1y:** +3.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $259.79B
+**Market Cap:** $260.93B
 Rank #2
 
 **Circulating Supply:** 120,691,597 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.5%
+-56.3%
 
 **All-Time Low:** $0.43
-+497021.1%
++499226.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BitMine just added another 65,341 ETH and now holds 4.66M ETH total A huge chunk is also staked, which makes this feel bigger than a normal treasury headline Curious how people here see it — bullish signal for Ethereum’s institutional case, or too much concentration in one corporate balance sheet? https://btcusa.com/bitmine-adds-65341-eth/
 
-4h ago
+5h ago
 
 ---
 
@@ -88,7 +88,7 @@ BitMine just added another 65,341 ETH and now holds 4.66M ETH total A huge chunk
 
 An attacker minted $80M in unbacked USR stablecoins using just $200K, crashing the token 62%. The GENIUS Act was supposed to prevent exactly this.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/resolv-usr-stablecoin-80-million-unauthorized-mint-2026/) • 22h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/resolv-usr-stablecoin-80-million-unauthorized-mint-2026/) • 23h ago
 
 ---
 
@@ -96,7 +96,7 @@ An attacker minted $80M in unbacked USR stablecoins using just $200K, crashing t
 
 Most conversations around ETH are about trading, staking yields, or long-term positioning. That’s fine, but I’m more interested in actual usage. Where does ETH realistically make sense outside of speculation? From what I’ve seen, it shows up most in DeFi, NFTs, and certain online services; but even then, gas fees can make smaller transactions feel inefficient. It’s not always obvious where ETH fits as something you use rather than just hold or lock up. I’ve experimented a bit with different use cases, mostly around digital services and entertainment. Some platforms are clearly designed with ETH in mind, while others just support it as an extra option without really optimizing the experience. A few setups, like Metaspins, seem to lean more into direct crypto usage, but even there it depends on fees, timing, and how smooth the process actually is. So I want to know. What are you using ETH for right now that feels practical, not just theoretical?
 
-12h ago
+13h ago
 
 ---
 
@@ -104,7 +104,7 @@ Most conversations around ETH are about trading, staking yields, or long-term po
 
 Been using Ethereum for years and I'm happy with the roadmap, but L2s are starting to feel like their own isolated islands. Arbitrum, Base, Optimism, ZkSync , each has its own liquidity, its own bridges, its own quirks. I get that they scale the network, but moving between them still feels clunky. Sometimes I wonder if we're solving one problem (fees on mainnet) while creating another (fragmentation). Curious how others see this. Are we heading toward a unified L2 experience or is this just how it's going to be?
 
-20h ago
+21h ago
 
 ---
 
@@ -112,7 +112,7 @@ Been using Ethereum for years and I'm happy with the roadmap, but L2s are starti
 
 US SEC securities laws application to crypto, fast confirmation rule, EF mandate
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-16/) • 20h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-16/) • 21h ago
 
 ---
 
@@ -120,13 +120,13 @@ US SEC securities laws application to crypto, fast confirmation rule, EF mandate
 
 Hi, Long story short 45sec after funding my trust wallet a transfer occurred that I do not recall making. Mar-23-2026 01:10:59 AM From funding wallet to trust wallet Erc20 0xd88cec26651601789e86cedbefc2af5e3d282249badc150f9caeb4fea509be30 The unknown transaction Mar-23-2026 01:11:47 AM 0xa72208defce57ad563bc406f8a5bfd6fa8dc4e17f2b2045e11741eb88067cf1b Is there something i am missing? Or is my wallet compromised. Thanks in advance.
 
-16h ago
+17h ago
 
 ---
 
 **[x402s now has state channels](https://www.reddit.com/r/ethereum/comments/1s0yi3u/x402s_now_has_state_channels/)**
 
-🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2035835465354322316) • 22h ago
+🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2035835465354322316) • 23h ago
 
 ---
 
@@ -140,7 +140,7 @@ Hi, Long story short 45sec after funding my trust wallet a transfer occurred tha
 
 Just finished the first version of Aegisa. It’s basically a "Control Tower" for testnets. The goal was to have one place to check balances across Sepolia, Base, IOTA, etc., and dispense gas via a dedicated API for automated tasks. It's meant to be hosted on your own infra so you aren't at the mercy of public endpoints. Landing page:https://mwveliz.github.io/aegisa/ Source:https://github.com/mwveliz/aegisa/
 
-19h ago
+20h ago
 
 ---
 
@@ -164,11 +164,11 @@ New York Post • 3d ago
 
 ---
 
-**[Tom Lee's BitMine Purchases Another $138 million Of Ethereum](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-purchases-another-134200000.html)**
+**[Ethereum Price Jumps on Iran Optimism as Tom Lee's BitMine Adds to $10 Billion Stash](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-jumps-iran-optimism-151958490.html)**
 
-BitMine Immersion Technologies (NYSE: $BMNR) has purchased another 65,341 Ethereum (CRYPTO: $ETH) as it bets that c...
+BitMine Immersion Technologies now holds more than $10 billion worth of Ethereum, leading the ETH treasury pack as the asset rebounds.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 6h ago
 
 Three cryptocurrencies look like good candidates to rebound this year.
 
-The Motley Fool • 21h ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -184,7 +184,7 @@ The Motley Fool • 21h ago
 
 According to the Institutional Ethereum Forum NYC announcement, the Ethereum Foundation is convening 150+ executives representing about $250 trillion in assets to discuss Ethereum’s role as a settlement layer for global finance, with zkSync’s Alex Gluchowski presenting privacy-focused “Prividiums”…
 
-TradingView • 15h ago
+TradingView • 16h ago
 
 ---
 
@@ -192,7 +192,15 @@ TradingView • 15h ago
 
 Crypto prices, including for Bitcoin and XRP, are getting a much-needed boost Monday. Here's what digital asset investors need to know.
 
-Fast Company • 55m ago
+Fast Company • 1h ago
+
+---
+
+**['Ethereum is in the final stages of mini-crypto winter,' Tom Lee says as Bitmine adds another 65,341 ETH](https://www.theblock.co/post/394662/ethereum-is-in-the-final-stages-of-mini-crypto-winter-tom-lee-says-as-bitmine-adds-another-65341-eth)**
+
+Bitmine's total crypto and cash holdings currently stand at $11 billion, and the company owns around 3.9% of Ethereum's circulating supply.
+
+The Block • 7h ago
 
 ---
 
@@ -200,21 +208,13 @@ Fast Company • 55m ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 5h ago
+Fortune • 6h ago
 
 ---
 
-**[Most large cryptocurrencies climb on Avalanche, Ethereum increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-climb-on-avalanche-ethereum-increases-460e6938-c25d4eb6a817?gaa_at=eafs&gaa_n=AWEtsqdKAKvvQdztRCrhkIpf3CX3XnVlaCRqQhJZt1Bw6Wo35WEXZNMGtv45&gaa_ts=69c19797&gaa_sig=YeEGnhjm-SRSp76csWcfA4EfetFLp5XzWcOPDyV-2DlldBLUT9ZjCAAOA8fGdlJcvUD3ryG2vjHqUFt5pNAWdg%3D%3D)**
+**[Most large cryptocurrencies climb on Avalanche, Ethereum increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-climb-on-avalanche-ethereum-increases-460e6938-c25d4eb6a817?gaa_at=eafs&gaa_n=AWEtsqeMCnWt45C6aeMU5VmK_BzRKycWIbR8V0Y3W1FTDyVQZ8ZPlxe06BX7&gaa_ts=69c1adfa&gaa_sig=F062hbfvEZYBsA6GmdGPWkRHWNrXOEhiNkrLI_6lbWxYjLT-mQgBmdfDIPvmwMCxMctK-4U9DwB7o5VOy33mzw%3D%3D)**
 
-MarketWatch • 6h ago
-
----
-
-**[Ethereum Up or Down - 15 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-15m-1774258200)**
-
-Ethereum Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 9h ago
+MarketWatch • 7h ago
 
 ---
 
@@ -222,7 +222,7 @@ Polymarket • 9h ago
 
 Dubai, UAE, March  22, 2026  (GLOBE NEWSWIRE) -- Pepeto just moved its Binance listing into the final round, and the presale has gone viral with i...
 
-markets.businessinsider.com • 22h ago
+markets.businessinsider.com • 23h ago
 
 ---
 
@@ -230,13 +230,23 @@ markets.businessinsider.com • 22h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=fA1Q9_Ztq4s)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 809 • 👍 111 • 💬 4 • ⏱️ 4:00 • 2h ago
+
+---
+
 **[Ethereum 💀 Dead or Cheap?](https://www.youtube.com/watch?v=Q6Dnkq98Tb8)**
 
 Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 898 • 👍 85 • 💬 22 • ⏱️ 9:47 • 8h ago
+👁️ 1K • 👍 94 • 💬 14 • ⏱️ 9:47 • 9h ago
 
 ---
 
@@ -246,7 +256,7 @@ The situation just got 10 times worse for bitcoin, ethereum and the rest of cryp
 
 📺 Thomas Kralow
 
-👁️ 9K • 👍 2K • 💬 67 • ⏱️ 11:52 • 8h ago
+👁️ 10K • 👍 2K • 💬 28 • ⏱️ 11:52 • 9h ago
 
 ---
 
@@ -256,7 +266,7 @@ BlackRock just launched a staking Ethereum ETF—but is it really a win for inve
 
 📺 Coin Bureau
 
-👁️ 22K • 👍 891 • 💬 99 • ⏱️ 18:11 • 2d ago
+👁️ 22K • 👍 900 • 💬 98 • ⏱️ 18:11 • 2d ago
 
 ---
 
@@ -266,7 +276,17 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 2K • 👍 119 • 💬 39 • ⏱️ 1:44:01 • 9h ago
+👁️ 2K • 👍 140 • 💬 14 • ⏱️ 1:44:01 • 10h ago
+
+---
+
+**[ETHEREUM IS BULLISH 📈 MARCH 23](https://www.youtube.com/watch?v=6ZSPl-ptA1k)**
+
+ETHEREUM IS BULLISH MARCH 23.
+
+📺 Overkill Trading
+
+👁️ 241 • 👍 20 • 💬 26 • ⏱️ 2:21 • 2h ago
 
 ---
 
@@ -276,7 +296,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 360 • 👍 14 • 💬 5 • ⏱️ 4:30 • 9h ago
+👁️ 430 • 👍 15 • 💬 3 • ⏱️ 4:30 • 10h ago
+
+---
+
+**[Could Monad Be the Future of Ethereum Scaling?](https://www.youtube.com/watch?v=gMoBQfVf0Q0)**
+
+Monad combines speed, low fees, and EVM compatibility. Watch this breakdown of its mainnet launch, technical design, and what ...
+
+📺 CoinGecko
+
+👁️ 1K • 👍 109 • 💬 92 • ⏱️ 9:10 • 10h ago
 
 ---
 
@@ -286,7 +316,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 552 • 👍 73 • ⏱️ 7:02 • 5h ago
+👁️ 862 • 👍 77 • ⏱️ 7:02 • 6h ago
 
 ---
 
@@ -296,37 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 97 • 💬 1 • ⏱️ 4:11 • 21h ago
-
----
-
-**[BITCOIN DUMP EXPLAINED (Price Target Hit)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=JjEpOZnEEdE)**
-
-BITCOIN DUMP EXPLAINED (Price Target Hit)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 307 • 💬 115 • ⏱️ 17:12 • 19h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=99org2xyUKk)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 146 • 💬 6 • ⏱️ 4:00 • 1d ago
-
----
-
-**[MOONGANG #208: $1,000 Ethereum (ETH)](https://www.youtube.com/watch?v=S_xhRAyRIEE)**
-
-Today we discuss whether Ethereum (ETH) can reach $1000 USD or below in the 2026 bear market, how its timing could be ...
-
-📺 Cultivate Crypto
-
-👁️ 1K • 👍 126 • 💬 9 • ⏱️ 2:04:05 • 13h ago
+👁️ 2K • 👍 97 • 💬 1 • ⏱️ 4:11 • 22h ago
 
 ---
 

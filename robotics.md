@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-23T20:03:04.385138+00:00'
+updated: '2026-03-23T21:03:08.979767+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 23, 2026 at 20:03 UTC  
+**Last Updated:** March 23, 2026 at 21:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Roadrunner, the latest robot from the Robotics and AI Institute, is a bipedal, wheeled robot for multi-modal locomotion](https://www.reddit.com/r/robotics/comments/1s1jo4q/roadrunner_the_latest_robot_from_the_robotics_and/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Autonomous transport vehicles handling cargo operations at a modern port](https://www.reddit.com/r/robotics/comments/1s1m49a/autonomous_transport_vehicles_handling_cargo/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 I built this robot to perform with acrobats in new and interesting ways. See Acrobot.nl for more info, and as always I'm happy to answer questions! This video was taken in Krystallpalast in Germany where the Acrobot plays for the next 3 months.
 
-7h ago
+8h ago
 
 ---
 
@@ -56,7 +56,7 @@ I built this robot to perform with acrobats in new and interesting ways. See Acr
 
 Asimov is an open-source humanoid robot we're building at Menlo Research. We've already open-sourced Asimov v0 (the legs) and plan to open-source Asimov v1 (the full body) once we improve its walking. Asimov v0: https://github.com/asimovinc/asimov-v0 Website: https://asimov.inc/
 
-16h ago
+17h ago
 
 ---
 
@@ -64,7 +64,7 @@ Asimov is an open-source humanoid robot we're building at Menlo Research. We've 
 
 This is Ricket, a robot project I’ve been building for the past year, programmed mostly using ROS2. My main goals for it are expressive movement, strong body language, and a face/behavior system with a lot of personality. Longer term, I also want to push it toward more dynamic legged motion and eventually jumping. I’ve mostly been documenting progress on Instagram so far (@tomsrocketsandrobots), but I’m getting closer to hardware testing and wanted to see if there was interest in me sharing updates here too. Also I’ve got a new batch of parts arriving tomorrow, and on Wednesday at 6 PM MST I’m planning to livestream the teardown and install. If people are into it, I can keep posting updates here.
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Still cant get it to walk forward yet but rotating seems okay. Can definitely be
 
 Happy Monday everyone! Thank you to everyone who has already signed up for our AR26 hackathon – the response has been awesome. One final reminder for those in the Greater London area: our kick-off event is this Friday in London! This is your chance to: Learn more about the hackathon Meet fellow AI/robotics enthusiasts Hear talks from academics and industry leaders Enjoy free pizza and beer 🍕🍺 Event Details: 📅 Friday, 27 March 🕕 16:00–20:00 GMT 📍 Plexal, London NVIDIA Hardware Raffle: We're running a raffle for NVIDIA hardware! To be eligible, you need to attend in person, join the platform, and create or join a project. Haven't signed up yet? We'd love to see you there! Sign up: https://luma.com/o1m21gi8
 
-2h ago
+3h ago
 
 ---
 
@@ -88,21 +88,21 @@ Happy Monday everyone! Thank you to everyone who has already signed up for our A
 
 SDK Updates: D401 GMSL support Python 3.14 support D555 Global timestamp support (single camera for now) D555 Large messages support Debugging capability - accept partial device (No IMU, No color sensor...) D555 FW SafeDDS Enhancements (enable more services, security enhancements) Enhance support for ROS2 native DFU & System Stability improvements Buffer Overwrite Fix Dynamic Calibration Fixes MIPI Driver: Comprehensive HW-reset recovery for GMSL cameras D401 GMSL support JetPack 6.2.1 support Fangzhu FG12-16ch support
 
-🔗 [GitHub](https://github.com/realsenseai/librealsense/releases/tag/v2.57.7) • 1h ago
+🔗 [GitHub](https://github.com/realsenseai/librealsense/releases/tag/v2.57.7) • 2h ago
+
+---
+
+**[How are all these robots moving in perfectly straight lines and having GPS?](https://www.reddit.com/r/robotics/comments/1s1tbaw/how_are_all_these_robots_moving_in_perfectly/)**
+
+Genuine question, I spent some time playing with microcontrollers, encoders, and accelerometers. I will say my weak point was PID, but at the same time I keep seeing all these videos about robotics moving perfectly down a street or in a line or going to a specific location. Can someone point me in the right direction with how they do that? I heard about GPS chips but.. is there any reliable MCU’s or what types of chips, parts, do you use that make it easier to program a robot to move in these very accurate movements? Would appreciate any microcontroller suggestions, or reliable accelerometers. I know accelerometers tend to have the error over time that can be hard to fix but how does one erase that or minimize it if a robot keeps moving? Thank you
+
+7m ago
 
 ---
 
 **[UMich Rob vs CMU ME vs TU Delft Rob](https://www.reddit.com/r/robotics/comments/1s1qdc2/umich_rob_vs_cmu_me_vs_tu_delft_rob/)**
 
-51m ago
-
----
-
-**[Warehouse Robotics Are Now Sorting Books in Public Libraries](https://www.reddit.com/r/robotics/comments/1s0qomy/warehouse_robotics_are_now_sorting_books_in/)**
-
-The setup includes two robotic operation platforms, 28 sorting robots, and 4 delivery robots. A returned book goes through the return window → travels via conveyor belt → is picked up by a sorting robot and delivered to the correct shelf based on its category. Technically, this is the same class of autonomous mobile robotics used in e-commerce fulfillment. Robots navigate between shelves, avoid obstacles, and optimize routes in real time. Traditionally, librarians spend significant time collecting returned books, pushing carts, and manually reshelving.
-
-1d ago
+1h ago
 
 ---
 
@@ -118,19 +118,19 @@ New Atlas • 2d ago
 
 ---
 
-**[Local student robotics team set to compete at world competition](https://www.yahoo.com/news/articles/local-student-robotics-team-set-185003607.html)**
+**[Regional STEM competition brings nearly 40 robotics teams to Appleton East this weekend](https://fox11online.com/good-day-wi/regional-stem-competition-brings-nearly-40-robotics-teams-to-appleton-east-this-weekend)**
 
-The Tierra Del Sol Middle School robotics team in Lakeside has qualified to compete in the VEX VRC World Finals Competition in St. Louis next month, and is fundraising to cover the expenses of the tri...
+APPLETON (WLUK) -- See robots in action at a STEM event at Appleton East High School this weekend.Almost 40 high school robotics teams from across the region ar
 
-Yahoo • 1d ago
+WLUK • 1d ago
 
 ---
 
-**[Regional STEM competition brings nearly 40 robotics teams to Appleton East this weekend](https://fox11online.com/good-day-wi/gallery/regional-stem-competition-brings-nearly-40-robotics-teams-to-appleton-east-this-weekend?photo=3)**
+**[GMEX Robotics Receives AU$4.2 Million First Commercial Order from Leading Australian Food & Beverage Group](https://finance.yahoo.com/sectors/technology/articles/gmex-robotics-receives-au-4-124500890.html)**
 
-WLUK FOX 11 is your source for Balanced News and Severe Weather Coverage for Appleton, Shawano, Sturgeon Bay, Kewaunee, Two Rivers, New London, Bonduel, Pulaski, Suamico, Menasha, Neenah, Shiocton, Ashwaubenon, Algoma, Mishicot and Wrightstown.
+SYDNEY, Australia, March 23, 2026 (GLOBE NEWSWIRE) -- GMEX Robotics Corporation (NASDAQ: GMEX) (“GMEX Robotics” or the “Company”), a developer of AI-powered robotic technologies, announces that it has entered into a purchase agreement with a leading Australian food and beverage group (“FBG”) for the deployment of the Company’s intelligent culinary robotics systems, including its recently announced personal robotic chef - 2Fculinary AI, and the purchase order from this FBG. The AU$4.2 million agr
 
-WLUK • 1d ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -146,7 +146,7 @@ BBC • 1d ago
 
 Kraken Robotics boasts technological leadership in subsea intelligence and power systems amid rising war threats. See why I rate KRKNF stock a Buy.
 
-Seeking Alpha • 13h ago
+Seeking Alpha • 14h ago
 
 ---
 
@@ -154,33 +154,35 @@ Seeking Alpha • 13h ago
 
 A small team of students from across eastern Iowa is preparing to take its robotics work to an international stage, aiming to bring both a competition robot and
 
-KGAN • 40m ago
-
----
-
-**[Bird‑like robots promise greater flexibility and control than drones](https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html)**
-
-Tech Xplore • 2h ago
-
----
-
-**[Robotics giant plans massive $90M plant in metro Detroit, 225 jobs](https://www.crainsdetroit.com/manufacturing-logistics/cdb-fanuc-robots-investment-michigan-20260319/)**
-
-Japanese manufacturer Fanuc is plotting a large expansion in Michigan in response to demand from automakers and other customers.
-
-Crain's Detroit • 3d ago
-
----
-
-**[ProRL At Work On Robotics As Robot Athletes Perform Modern Marathons](https://www.forbes.com/sites/johnwerner/2026/03/23/prorl-at-work-on-robotics-as-robot-athletes-perform-modern-marathons/)**
-
-Forbes • 4h ago
+KGAN • 1h ago
 
 ---
 
 **[Chinese Robot Maker Unitree Seeks $610 Million in Shanghai IPO](https://www.bloomberg.com/news/articles/2026-03-20/chinese-robot-maker-unitree-seeks-610-million-in-shanghai-ipo)**
 
 Bloomberg.com • 3d ago
+
+---
+
+**[Bird‑like robots promise greater flexibility and control than drones](https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html)**
+
+Tech Xplore • 3h ago
+
+---
+
+**[Fundraiser will help sent robotics teams to international competition](https://www.therepublic.com/2026/03/22/fundraiser-will-help-sent-robotics-teams-to-international-competition/)**
+
+A local fundraiser hopes to raise enough money so the BCSC VEX IQ robotics teams who earned a chance to compete on the international stage can make the trip.
+
+The Republic News • 1d ago
+
+---
+
+**[The Rise of AI-Driven Robotics](https://www.inc.com/matthew-chang/the-rise-of-ai-driven-robotics/91320625)**
+
+Dilemmas, needs, and game-changing trends for 2026 and beyond.
+
+inc.com • 7h ago
 
 ---
 
@@ -194,7 +196,7 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 📺 CNET
 
-👁️ 10K • 👍 348 • 💬 17 • ⏱️ 5:50 • 1d ago
+👁️ 11K • 👍 363 • 💬 19 • ⏱️ 5:50 • 1d ago
 
 ---
 
@@ -204,7 +206,7 @@ This week in robotics got kind of ridiculous. South Korea showed off a humanoid 
 
 📺 AI Revolution
 
-👁️ 45K • 👍 1K • 💬 81 • ⏱️ 14:31 • 20h ago
+👁️ 53K • 👍 1K • 💬 90 • ⏱️ 14:31 • 21h ago
 
 ---
 
@@ -215,6 +217,16 @@ Gecko Robotics announced a $71 million partnership with the US Navy, deploying i
 📺 Bloomberg Technology
 
 👁️ 5K • 👍 148 • 💬 3 • ⏱️ 4:39 • 6d ago
+
+---
+
+**[Instantly Change Gear Ratios with Clip In Gearboxes! #robotics #dcmotor #electronics](https://www.youtube.com/watch?v=8u4dpd1zONc)**
+
+Join the community & access CAD files, Code snippets, & more robotics resources ⤵️ https://shop.broganpratt.com/ Want to ...
+
+📺 Brogan M. Pratt
+
+👁️ 714 • 👍 10 • ⏱️ 0:30 • 4h ago
 
 ---
 
@@ -234,7 +246,7 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 295K • 👍 4K • 💬 2K • ⏱️ 2:07 • 4d ago
+👁️ 297K • 👍 4K • 💬 2K • ⏱️ 2:07 • 4d ago
 
 ---
 
@@ -254,17 +266,7 @@ Video shows restaurant employees struggling to restrain a dancing robot that wen
 
 📺 NBC News
 
-👁️ 201K • 👍 2K • 💬 660 • ⏱️ 3:38 • 4d ago
-
----
-
-**[The First Robot Soldier is Here: Phantom MK-1 Deployed to Ukraine](https://www.youtube.com/watch?v=L0d6mvpDIYY)**
-
-war #robot #usa Foundation is testing its Phantom MK-1 humanoid soldier and has secured $24 million in research contracts with ...
-
-📺 OTOFOOTAGE
-
-👁️ 21K • 👍 83 • 💬 53 • ⏱️ 2:12 • 6d ago
+👁️ 202K • 👍 2K • 💬 661 • ⏱️ 3:38 • 4d ago
 
 ---
 
@@ -274,17 +276,17 @@ Do you want to see a humanoid AI lab from the inside? I do – join me and let's
 
 📺 Andreas Klinger @ PROTOTYPE
 
-👁️ 13K • 👍 499 • 💬 38 • ⏱️ 18:52 • 3d ago
+👁️ 13K • 👍 502 • 💬 38 • ⏱️ 18:52 • 3d ago
 
 ---
 
-**[NVIDIA GTC Demo Stuns Audience With Real Olaf Robot Next To Jensen Huang](https://www.youtube.com/watch?v=pPnVsRPFWV8)**
+**[We Forgot These Existed... Kisten NUKING Meta Bots | Best Kisten Build Ever | War Robots](https://www.youtube.com/watch?v=TgGhsxgKql8)**
 
-The NVIDIA GTC keynote delivered one of the most unexpected robotics demonstrations when Jensen Huang introduced a real ...
+I forgot the Kisten existed. Kisten projectiles equipped onto the Ue Nodens. These are 500m range lock on weapons, and they fire ...
 
-📺 DPCcars
+📺 PREDATOR WR
 
-👁️ 227K • 👍 2K • 💬 317 • ⏱️ 2:02 • 6d ago
+👁️ 6K • 👍 320 • 💬 35 • ⏱️ 16:37 • 9h ago
 
 ---
 
