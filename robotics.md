@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-23T19:27:42.556545+00:00'
+updated: '2026-03-23T20:03:04.385138+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 23, 2026 at 19:27 UTC  
+**Last Updated:** March 23, 2026 at 20:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,7 +40,7 @@ Robotics research and industry news
 
 **[Autonomous transport vehicles handling cargo operations at a modern port](https://www.reddit.com/r/robotics/comments/1s1m49a/autonomous_transport_vehicles_handling_cargo/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -56,7 +56,7 @@ I built this robot to perform with acrobats in new and interesting ways. See Acr
 
 Asimov is an open-source humanoid robot we're building at Menlo Research. We've already open-sourced Asimov v0 (the legs) and plan to open-source Asimov v1 (the full body) once we improve its walking. Asimov v0: https://github.com/asimovinc/asimov-v0 Website: https://asimov.inc/
 
-15h ago
+16h ago
 
 ---
 
@@ -64,7 +64,7 @@ Asimov is an open-source humanoid robot we're building at Menlo Research. We've 
 
 This is Ricket, a robot project I’ve been building for the past year, programmed mostly using ROS2. My main goals for it are expressive movement, strong body language, and a face/behavior system with a lot of personality. Longer term, I also want to push it toward more dynamic legged motion and eventually jumping. I’ve mostly been documenting progress on Instagram so far (@tomsrocketsandrobots), but I’m getting closer to hardware testing and wanted to see if there was interest in me sharing updates here too. Also I’ve got a new batch of parts arriving tomorrow, and on Wednesday at 6 PM MST I’m planning to livestream the teardown and install. If people are into it, I can keep posting updates here.
 
-14h ago
+15h ago
 
 ---
 
@@ -88,13 +88,13 @@ Happy Monday everyone! Thank you to everyone who has already signed up for our A
 
 SDK Updates: D401 GMSL support Python 3.14 support D555 Global timestamp support (single camera for now) D555 Large messages support Debugging capability - accept partial device (No IMU, No color sensor...) D555 FW SafeDDS Enhancements (enable more services, security enhancements) Enhance support for ROS2 native DFU & System Stability improvements Buffer Overwrite Fix Dynamic Calibration Fixes MIPI Driver: Comprehensive HW-reset recovery for GMSL cameras D401 GMSL support JetPack 6.2.1 support Fangzhu FG12-16ch support
 
-🔗 [GitHub](https://github.com/realsenseai/librealsense/releases/tag/v2.57.7) • 29m ago
+🔗 [GitHub](https://github.com/realsenseai/librealsense/releases/tag/v2.57.7) • 1h ago
 
 ---
 
 **[UMich Rob vs CMU ME vs TU Delft Rob](https://www.reddit.com/r/robotics/comments/1s1qdc2/umich_rob_vs_cmu_me_vs_tu_delft_rob/)**
 
-16m ago
+51m ago
 
 ---
 
@@ -146,7 +146,7 @@ BBC • 1d ago
 
 Kraken Robotics boasts technological leadership in subsea intelligence and power systems amid rising war threats. See why I rate KRKNF stock a Buy.
 
-Seeking Alpha • 12h ago
+Seeking Alpha • 13h ago
 
 ---
 
@@ -154,7 +154,7 @@ Seeking Alpha • 12h ago
 
 A small team of students from across eastern Iowa is preparing to take its robotics work to an international stage, aiming to bring both a competition robot and
 
-KGAN • 5m ago
+KGAN • 40m ago
 
 ---
 
@@ -174,7 +174,7 @@ Crain's Detroit • 3d ago
 
 **[ProRL At Work On Robotics As Robot Athletes Perform Modern Marathons](https://www.forbes.com/sites/johnwerner/2026/03/23/prorl-at-work-on-robotics-as-robot-athletes-perform-modern-marathons/)**
 
-Forbes • 3h ago
+Forbes • 4h ago
 
 ---
 
@@ -204,7 +204,7 @@ This week in robotics got kind of ridiculous. South Korea showed off a humanoid 
 
 📺 AI Revolution
 
-👁️ 45K • 👍 1K • 💬 81 • ⏱️ 14:31 • 19h ago
+👁️ 45K • 👍 1K • 💬 81 • ⏱️ 14:31 • 20h ago
 
 ---
 

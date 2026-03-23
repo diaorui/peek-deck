@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-23T19:27:42.537510+00:00'
+updated: '2026-03-23T20:03:04.367463+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- news
 - videos
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 23, 2026 at 19:27 UTC  
+**Last Updated:** March 23, 2026 at 20:03 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ Palantir’s Maven artificial intelligence system will become an official progra
 
 I work as a freelance content creator and videographer and I've been integrating various AI tools into my workflow since late last year, not because I'm an AI enthusiast but because my clients keep asking about them and I figured I should actually understand what these tools can and can't do before I have opinions about them here's my honest assessment after 6 months of daily use across real client projects: where AI tools are genuinely useful right now: style transfer and visual experimentation, this is the clearest win, tools like magic hour and runway let me show clients 5 different visual approaches to their content in 20 minutes instead of spending 3 hours manually grading reference versions, even if the final product is still done traditionally the speed of previsualization has changed how I work background removal and basic compositing, what used to take careful rotoscoping can now be done in seconds for most use cases, not perfect for complex edges but for 80% of social media content it's more than good enough audio cleanup, tools like adobe's AI audio enhancement have saved me on multiple projects where the production audio was rough, this one doesn't get enough attention but it's probably the most practically useful AI application in my workflow where it's still overhyped: full video generation from text prompts, I've tried sora and veo and kling and honestly the outputs are impressive as tech demos but unusable for real client work 90% of the time, the uncanny valley is real and audiences can tell AI editing and automatic cuts, every tool that promises to "edit your video automatically" produces output that feels like it was edited by someone who's never watched a movie, the pacing is always wrong face and body generation for any sustained use, consistency across multiple generations is still a massive problem, anyone telling you they can run a "virtual influencer" without significant manual intervention is leaving out the hours of regeneration and cherry-picking the honest summary: AI is extremely useful as a productivity tool that speeds up specific parts of my existing workflow, it is not useful as a replacement for creative decision-making and it's nowhere close to replacing human editors, cinematographers, or content strategists anyone else working professionally with these tools want to share their honest assessment because I think the conversation is too polarized between "AI will replace everything" and "AI is worthless" when the reality is way more nuanced
 
-8h ago
+9h ago
 
 ---
 
@@ -73,7 +73,7 @@ I work as a freelance content creator and videographer and I've been integrating
 
 Tech giant’s tools include ‘Second Brain’ and an internal messaging board for AI bots
 
-🔗 [The Independent](https://www.the-independent.com/tech/mark-zuckerberg-ai-ceo-bot-b2943792.html) • 10m ago
+🔗 [The Independent](https://www.the-independent.com/tech/mark-zuckerberg-ai-ceo-bot-b2943792.html) • 45m ago
 
 ---
 
@@ -81,13 +81,13 @@ Tech giant’s tools include ‘Second Brain’ and an internal messaging board 
 
 Nvidia CEO Jensen Huang says he'd be "deeply alarmed" if engineers weren't using AI tokens worth at least half of their annual salary.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/jensen-huang-compares-not-using-ai-to-using-paper-and-pencil-to-design-chips-as-he-explains-nvidias-massive-token-budget/) • 4h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/jensen-huang-compares-not-using-ai-to-using-paper-and-pencil-to-design-chips-as-he-explains-nvidias-massive-token-budget/) • 5h ago
 
 ---
 
 **[Exclusive: Pentagon to adopt Palantir AI as core US military system, memo says](https://www.reddit.com/r/artificial/comments/1s1ewoh/exclusive_pentagon_to_adopt_palantir_ai_as_core/)**
 
-🔗 [reuters.com](https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/?_bhlid=294306ad5838cf1ff8af0cbdcbbf239c469a06d9) • 7h ago
+🔗 [reuters.com](https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/?_bhlid=294306ad5838cf1ff8af0cbdcbbf239c469a06d9) • 8h ago
 
 ---
 
@@ -103,13 +103,13 @@ At BlackRock’s U.S. Infrastructure Summit, Sam Altman issued a major warning: 
 
 Everyone’s building chatbots and voice agents. But where the hell are the clients? I’ve been in the AI automation space for a while now, building lead qualifier bots and voice agents for niches like real estate. But I want to hear from people who’ve actually closed deals — not just “post on LinkedIn and pray” advice. So tell me: ∙ Which industries are actually paying for chatbots/voice agents right now? ∙ Where did you find your first client — cold DM, Upwork, referral, Reddit, local biz? ∙ What’s the easiest sell — customer support bots, lead gen bots, or appointment booking? ∙ Are there industries that are surprisingly hungry for this that nobody talks about? It will truly helpful for me brothers😊
 
-6h ago
+7h ago
 
 ---
 
 **[UK cops suspend live facial recog as study finds racial bias](https://www.reddit.com/r/artificial/comments/1s1d6tz/uk_cops_suspend_live_facial_recog_as_study_finds/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -125,7 +125,7 @@ WSJ • 1d ago
 
 **[Exclusive | Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO](https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5?gaa_at=eafs&gaa_n=AWEtsqdmhmZ8ogYDyoE31PtIN3zTLAmMtR2Zb7dVfhvD-LCYR3syruTpLDxt&gaa_ts=69c19794&gaa_sig=fijAdaAm4oUwNFfcm-SD9bZLVXi-4QnS45k_lv6qGVL9MIJlFprDVJuIXb_GuUwzIwX_6ROon0izYFvZhnD-_Q%3D%3D)**
 
-WSJ • 20h ago
+WSJ • 21h ago
 
 ---
 
@@ -133,7 +133,7 @@ WSJ • 20h ago
 
 In its early days, the AI initiative known as Project Maven had its fair share of skeptics at the Pentagon. Today, many of them are true believers.
 
-WIRED • 9h ago
+WIRED • 10h ago
 
 ---
 
@@ -149,13 +149,13 @@ Boston.com • 1h ago
 
 KOMO 4 TV provides news, sports, weather and local event coverage in the Seattle, Washington area including Bellevue, Redmond, Renton, Kent, Tacoma, Bremerton, SeaTac, Auburn, Mercer Island, Bothell, Shoreline, Lynnwood, Mill Creek and Everett.
 
-KOMO • 25m ago
+KOMO • 1h ago
 
 ---
 
 **[Apple Is Well Positioned For What Follows AI’s Commoditization](https://www.forbes.com/sites/johntamny/2026/03/23/apple-is-well-positioned-for-what-follows-ais-commoditization/)**
 
-Forbes • 27m ago
+Forbes • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ Forbes • 27m ago
 
 Artificial intelligence could widen the problem of income inequality, said BlackRock CEO Larry Fink in his annual letter to shareholders.
 
-CNN • 4h ago
+CNN • 5h ago
 
 ---
 
@@ -171,7 +171,7 @@ CNN • 4h ago
 
 The rapid rise of AI has sparked debate over whether ‌its gains will be broadly shared across sectors or increase the divide between big tech firms and smaller companies that may ‌struggle to compete.  Since the launch of ChatGPT in November 2022, much of Wall Street's AI-driven market gains have been led by companies at the center of the boom, pointing ​to a more narrow set of winners.  "The massive wealth created over the past several generations flowed mostly to people who already owned financial assets," Fink said in his annual letter to shareholders.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 6h ago
 
 CEO of world’s biggest asset manager says rich backers of artificial intelligence could reap most of the rewards
 
-Financial Times • 9h ago
+Financial Times • 10h ago
 
 ---
 
@@ -187,7 +187,7 @@ Financial Times • 9h ago
 
 A new set of precepts is meant to make the chatbot Claude wise, decent, and safe. It also marks a striking transfer of public responsibility from constitutional government to private tech firms.
 
-The New Yorker • 9h ago
+The New Yorker • 10h ago
 
 ---
 
@@ -241,7 +241,7 @@ A practical guide to getting the engagement your project deserves.
 
 Learn how I built an ai receptionist for my brother's mechanic shop
 
-⬆️ 131 • 💬 141 • 8h ago • [itsthatlady.dev](https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/)
+⬆️ 131 • 💬 141 • 9h ago • [itsthatlady.dev](https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/)
 
 ---
 
@@ -282,7 +282,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 7K • 👍 371 • 💬 49 • ⏱️ 25:12 • 5h ago
+👁️ 7K • 👍 371 • 💬 49 • ⏱️ 25:12 • 6h ago
 
 ---
 
@@ -292,7 +292,7 @@ White House science advisor Michael Kratsios discusses the Trump administration'
 
 📺 Fox News Clips
 
-👁️ 35K • 👍 670 • 💬 220 • ⏱️ 4:08 • 17h ago
+👁️ 35K • 👍 670 • 💬 220 • ⏱️ 4:08 • 18h ago
 
 ---
 
@@ -312,7 +312,7 @@ Best AI Agent Tool is Base44 https://base44.pxf.io/c/6440076/2049275/25619?trafc
 
 📺 Mikey No Code
 
-👁️ 7K • 💬 6 • ⏱️ 31:38 • 4h ago
+👁️ 7K • 💬 6 • ⏱️ 31:38 • 5h ago
 
 ---
 
@@ -322,7 +322,7 @@ Create Insanely Real UGC Ads with Arcads https://youricreates.com/ArcAds In this
 
 📺 Youri van Hofwegen
 
-👁️ 5K • 💬 7 • ⏱️ 8:56 • 3h ago
+👁️ 5K • 💬 7 • ⏱️ 8:56 • 4h ago
 
 ---
 
@@ -352,7 +352,7 @@ The tides regarding artificial intelligence seem to be turning a bit. How so, an
 
 📺 Shameless Nerd
 
-👁️ 3K • 👍 396 • 💬 94 • ⏱️ 17:21 • 6h ago
+👁️ 3K • 👍 396 • 💬 94 • ⏱️ 17:21 • 7h ago
 
 ---
 
@@ -362,7 +362,7 @@ Dozens of protesters gathered outside Anthropic's headquarters in San Francisco 
 
 📺 ABC7 News Bay Area
 
-👁️ 2K • 👍 21 • 💬 40 • ⏱️ 2:19 • 18h ago
+👁️ 2K • 👍 21 • 💬 40 • ⏱️ 2:19 • 19h ago
 
 ---
 
@@ -492,7 +492,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 Leanstral 119B A6B is an open-source, multimodal code agent for Lean 4 proof assistant, featuring a 256k context window and MoE architecture. It excels at proof engineering, tool calling, and vision tasks, offering speed-optimized, multilingual support under an Apache 2.0 license.
 
-⬇️ 192 • ❤️ 128 • 6d ago
+⬇️ 192 • ❤️ 128 • 7d ago
 
 ---
 
@@ -676,7 +676,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 10.6k • 🔱 543 • 1h ago
+⭐ 10.6k • 🔱 543 • 2h ago
 
 ---
 
@@ -686,7 +686,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.5k • 🔱 764 • 7h ago
+⭐ 10.5k • 🔱 764 • 8h ago
 
 ---
 
@@ -706,7 +706,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 5.1k • 🔱 423 • 1h ago
+⭐ 5.1k • 🔱 423 • 2h ago
 
 ---
 

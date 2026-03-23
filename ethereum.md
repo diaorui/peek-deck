@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-23T19:27:42.553310+00:00'
+updated: '2026-03-23T20:03:04.381943+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - videos
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 23, 2026 at 19:27 UTC  
+**Last Updated:** March 23, 2026 at 20:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BitMine just added another 65,341 ETH and now holds 4.66M ETH total A huge chunk is also staked, which makes this feel bigger than a normal treasury headline Curious how people here see it — bullish signal for Ethereum’s institutional case, or too much concentration in one corporate balance sheet? https://btcusa.com/bitmine-adds-65341-eth/
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ BitMine just added another 65,341 ETH and now holds 4.66M ETH total A huge chunk
 
 An attacker minted $80M in unbacked USR stablecoins using just $200K, crashing the token 62%. The GENIUS Act was supposed to prevent exactly this.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/resolv-usr-stablecoin-80-million-unauthorized-mint-2026/) • 21h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/resolv-usr-stablecoin-80-million-unauthorized-mint-2026/) • 22h ago
 
 ---
 
@@ -96,7 +96,7 @@ An attacker minted $80M in unbacked USR stablecoins using just $200K, crashing t
 
 Most conversations around ETH are about trading, staking yields, or long-term positioning. That’s fine, but I’m more interested in actual usage. Where does ETH realistically make sense outside of speculation? From what I’ve seen, it shows up most in DeFi, NFTs, and certain online services; but even then, gas fees can make smaller transactions feel inefficient. It’s not always obvious where ETH fits as something you use rather than just hold or lock up. I’ve experimented a bit with different use cases, mostly around digital services and entertainment. Some platforms are clearly designed with ETH in mind, while others just support it as an extra option without really optimizing the experience. A few setups, like Metaspins, seem to lean more into direct crypto usage, but even there it depends on fees, timing, and how smooth the process actually is. So I want to know. What are you using ETH for right now that feels practical, not just theoretical?
 
-11h ago
+12h ago
 
 ---
 
@@ -112,7 +112,7 @@ Been using Ethereum for years and I'm happy with the roadmap, but L2s are starti
 
 US SEC securities laws application to crypto, fast confirmation rule, EF mandate
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-16/) • 19h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-16/) • 20h ago
 
 ---
 
@@ -126,7 +126,7 @@ Hi, Long story short 45sec after funding my trust wallet a transfer occurred tha
 
 **[x402s now has state channels](https://www.reddit.com/r/ethereum/comments/1s0yi3u/x402s_now_has_state_channels/)**
 
-🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2035835465354322316) • 21h ago
+🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2035835465354322316) • 22h ago
 
 ---
 
@@ -168,7 +168,7 @@ New York Post • 3d ago
 
 BitMine Immersion Technologies (NYSE: $BMNR) has purchased another 65,341 Ethereum (CRYPTO: $ETH) as it bets that c...
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 5h ago
 
 Three cryptocurrencies look like good candidates to rebound this year.
 
-The Motley Fool • 20h ago
+The Motley Fool • 21h ago
 
 ---
 
@@ -184,7 +184,7 @@ The Motley Fool • 20h ago
 
 According to the Institutional Ethereum Forum NYC announcement, the Ethereum Foundation is convening 150+ executives representing about $250 trillion in assets to discuss Ethereum’s role as a settlement layer for global finance, with zkSync’s Alex Gluchowski presenting privacy-focused “Prividiums”…
 
-TradingView • 14h ago
+TradingView • 15h ago
 
 ---
 
@@ -192,7 +192,7 @@ TradingView • 14h ago
 
 Crypto prices, including for Bitcoin and XRP, are getting a much-needed boost Monday. Here's what digital asset investors need to know.
 
-Fast Company • 20m ago
+Fast Company • 55m ago
 
 ---
 
@@ -206,7 +206,7 @@ Fortune • 5h ago
 
 **[Most large cryptocurrencies climb on Avalanche, Ethereum increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-climb-on-avalanche-ethereum-increases-460e6938-c25d4eb6a817?gaa_at=eafs&gaa_n=AWEtsqdKAKvvQdztRCrhkIpf3CX3XnVlaCRqQhJZt1Bw6Wo35WEXZNMGtv45&gaa_ts=69c19797&gaa_sig=YeEGnhjm-SRSp76csWcfA4EfetFLp5XzWcOPDyV-2DlldBLUT9ZjCAAOA8fGdlJcvUD3ryG2vjHqUFt5pNAWdg%3D%3D)**
 
-MarketWatch • 5h ago
+MarketWatch • 6h ago
 
 ---
 
@@ -214,7 +214,7 @@ MarketWatch • 5h ago
 
 Ethereum Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 8h ago
+Polymarket • 9h ago
 
 ---
 
@@ -222,7 +222,7 @@ Polymarket • 8h ago
 
 Dubai, UAE, March  22, 2026  (GLOBE NEWSWIRE) -- Pepeto just moved its Binance listing into the final round, and the presale has gone viral with i...
 
-markets.businessinsider.com • 21h ago
+markets.businessinsider.com • 22h ago
 
 ---
 
@@ -246,7 +246,7 @@ The situation just got 10 times worse for bitcoin, ethereum and the rest of cryp
 
 📺 Thomas Kralow
 
-👁️ 9K • 👍 2K • 💬 67 • ⏱️ 11:52 • 7h ago
+👁️ 9K • 👍 2K • 💬 67 • ⏱️ 11:52 • 8h ago
 
 ---
 
@@ -266,7 +266,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 2K • 👍 119 • 💬 39 • ⏱️ 1:44:01 • 8h ago
+👁️ 2K • 👍 119 • 💬 39 • ⏱️ 1:44:01 • 9h ago
 
 ---
 
@@ -276,7 +276,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 360 • 👍 14 • 💬 5 • ⏱️ 4:30 • 8h ago
+👁️ 360 • 👍 14 • 💬 5 • ⏱️ 4:30 • 9h ago
 
 ---
 
@@ -286,7 +286,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 552 • 👍 73 • ⏱️ 7:02 • 4h ago
+👁️ 552 • 👍 73 • ⏱️ 7:02 • 5h ago
 
 ---
 
@@ -306,7 +306,7 @@ BITCOIN DUMP EXPLAINED (Price Target Hit)!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 7K • 👍 307 • 💬 115 • ⏱️ 17:12 • 18h ago
+👁️ 7K • 👍 307 • 💬 115 • ⏱️ 17:12 • 19h ago
 
 ---
 

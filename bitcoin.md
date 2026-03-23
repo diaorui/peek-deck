@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-23T19:27:42.546711+00:00'
+updated: '2026-03-23T20:03:04.375943+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 23, 2026 at 19:27 UTC  
+**Last Updated:** March 23, 2026 at 20:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -95,7 +95,7 @@ I am new to crypto, what would have caused this?
 
 I was scrolling through the top posts of all time on this subreddit, and something really caught my attention. Two of the biggest posts ever are basically milestones: Bitcoin hitting $10,000 (around 8 years ago) Bitcoin hitting $100,000 (about a year ago) It made me pause for a second… because at those moments, both probably felt insane. Like a “we finally made it” kind of milestone. Now I’m wondering: When do you guys think we’ll see the same kind of post for $1,000,000? Also curious, what do you think would need to happen for that to become reality? Institutional adoption, inflation, global financial shifts…? It’s crazy how each milestone once felt impossible… until it wasn’t.
 
-5h ago
+6h ago
 
 ---
 
@@ -133,7 +133,7 @@ Link to the Bitcoin history in El Zonte, but I'm sure you can find and share eve
 
 I've traded insignificant amounts of BTC on Robinhood and noticed when I sold this morning, the price on the chart showed around $70,700. But when I go to sell, I can only sell for 70,050, while I can only buy for 71,200. That's like a 1% difference from what I expect from what i see on the price, and a 2% loss if I bought and sold at the same time.
 
-3h ago
+4h ago
 
 ---
 
@@ -147,7 +147,7 @@ I found a hidden mathematical relationship in Bitcoin's fundamental constants th
 
 **[ICYMI the Broadcast last week - why bitcoin is a savings technology and not an investment, why DCA strategies are so powerful, keeping it boring and simple is the winning move in bitcoin ie produce value, save in bitcoin, hold in cold storage](https://www.reddit.com/r/Bitcoin/comments/1s1imy7/icymi_the_broadcast_last_week_why_bitcoin_is_a/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -159,7 +159,7 @@ I found a hidden mathematical relationship in Bitcoin's fundamental constants th
 
 Stocks look to be catching with BTC's earlier crash to nearly $60,000.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 13h ago
 
 Earlier deleveraging and continued institutional participation have helped keep Bitcoin more stable than other risk assets during the recent macro-driven selloff.
 
-Decrypt • 18h ago
+Decrypt • 19h ago
 
 ---
 
@@ -175,7 +175,7 @@ Decrypt • 18h ago
 
 Bitcoin has taken off in value in the past couple of years due to expectations of widespread crypto reform.
 
-The Motley Fool • 59m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -189,13 +189,13 @@ Bloomberg.com • 5h ago
 
 Trump said that the two countries held "very good and productive conversations regarding a complete and total resolution of our hostilities in the Middle East."
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
 **[Bitcoin Price Tops $70,000. XRP, Cryptos Lifted as Trump Delays Iran Strikes.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-cryto-trump-iran-f66315a0?gaa_at=eafs&gaa_n=AWEtsqd4Xy6nG6P29vd0DGmURz2rF4nuYqqSyTjSXLEBdAeQVS4odbflBkmy&gaa_ts=69c19796&gaa_sig=5Q8bjfk8lXYNvDCy_1AZLvtfLZwLs6kq-X6k0sIgoDMZSUbnpDw5yAMDpCBAYIGdMjAItKEOiphlDVSoJenXdA%3D%3D)**
 
-Barron's • 6h ago
+Barron's • 7h ago
 
 ---
 
@@ -203,13 +203,13 @@ Barron's • 6h ago
 
 Expanded share issuance plans and new Wall Street partners boost capital raising firepower.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
 **[Saylor’s Strategy Returns to Common Stock for Latest Bitcoin Buy](https://www.bloomberg.com/news/articles/2026-03-23/saylor-s-strategy-returns-to-common-stock-for-latest-bitcoin-buy)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -217,7 +217,7 @@ Bloomberg.com • 5h ago
 
 A clip of Michael Saylor predicting Bitcoin could reach $10 million has reignited debate. Peter Schiff dismissed Saylor as “delusional." Bearish analysts warn that Bitcoin ...
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -321,7 +321,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 785 • 💬 153 • ⏱️ 47:58 • 4h ago
+👁️ 11K • 👍 785 • 💬 153 • ⏱️ 47:58 • 5h ago
 
 ---
 
@@ -331,7 +331,7 @@ Bitcoin is pulling back but is this just a healthy correction or the start of so
 
 📺 Crypto Banter
 
-👁️ 6K • 👍 481 • 💬 21 • ⏱️ 23:31 • 9h ago
+👁️ 6K • 👍 481 • 💬 21 • ⏱️ 23:31 • 10h ago
 
 ---
 
@@ -341,7 +341,7 @@ In today's video, we're breaking down why this specific "Crash Signal" has a hig
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 350 • 💬 10 • ⏱️ 1:10:53 • 3h ago
+👁️ 4K • 👍 350 • 💬 10 • ⏱️ 1:10:53 • 4h ago
 
 ---
 
@@ -381,7 +381,7 @@ The situation just got 10 times worse for bitcoin, ethereum and the rest of cryp
 
 📺 Thomas Kralow
 
-👁️ 9K • 👍 2K • 💬 67 • ⏱️ 11:52 • 7h ago
+👁️ 9K • 👍 2K • 💬 67 • ⏱️ 11:52 • 8h ago
 
 ---
 
