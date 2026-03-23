@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-23T21:56:30.952325+00:00'
+updated: '2026-03-23T22:38:04.500866+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 23, 2026 at 21:56 UTC  
+**Last Updated:** March 23, 2026 at 22:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Roadrunner, the latest robot from the Robotics and AI Institute, is a bipedal, wheeled robot for multi-modal locomotion](https://www.reddit.com/r/robotics/comments/1s1jo4q/roadrunner_the_latest_robot_from_the_robotics_and/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 I built this robot to perform with acrobats in new and interesting ways. See Acrobot.nl for more info, and as always I'm happy to answer questions! This video was taken in Krystallpalast in Germany where the Acrobot plays for the next 3 months.
 
-9h ago
+10h ago
 
 ---
 
@@ -56,7 +56,7 @@ I built this robot to perform with acrobats in new and interesting ways. See Acr
 
 Asimov is an open-source humanoid robot we're building at Menlo Research. We've already open-sourced Asimov v0 (the legs) and plan to open-source Asimov v1 (the full body) once we improve its walking. Asimov v0: https://github.com/asimovinc/asimov-v0 Website: https://asimov.inc/
 
-18h ago
+19h ago
 
 ---
 
@@ -68,27 +68,17 @@ This is Ricket, a robot project I’ve been building for the past year, programm
 
 ---
 
+**[IEEE RAS / Czech Technical University in Multi-Robot Systems Summer Camp in Prague -- learn ROS, earn course credits, and visit Prague](https://www.reddit.com/r/robotics/comments/1s1uy0i/ieee_ras_czech_technical_university_in_multirobot/)**
+
+🔗 [mrs.fel.cvut.cz](https://mrs.fel.cvut.cz/summer-school-2026/) • 42m ago
+
+---
+
 **[HEXAPOD PROGRESSSSS](https://www.reddit.com/r/robotics/comments/1s0s75e/hexapod_progresssss/)**
 
 Still cant get it to walk forward yet but rotating seems okay. Can definitely be better tho. This is still a work im progress, the hexapod frame is 3d printed from a creator at makerworld. The internals and code are mine. Mine uses a ps2 controller for this hexapod. If any of you guys are working on the same frame, i will share the schematics and code for free once im finally done with this builddd. Its been about a month since i started this hexapod and mannnn its been cracking my head ever since 😂
 
 1d ago
-
----
-
-**[AR26 Kick-off This Friday + NVIDIA Hardware Raffle](https://www.reddit.com/r/robotics/comments/1s1mplh/ar26_kickoff_this_friday_nvidia_hardware_raffle/)**
-
-Happy Monday everyone! Thank you to everyone who has already signed up for our AR26 hackathon – the response has been awesome. One final reminder for those in the Greater London area: our kick-off event is this Friday in London! This is your chance to: Learn more about the hackathon Meet fellow AI/robotics enthusiasts Hear talks from academics and industry leaders Enjoy free pizza and beer 🍕🍺 Event Details: 📅 Friday, 27 March 🕕 16:00–20:00 GMT 📍 Plexal, London NVIDIA Hardware Raffle: We're running a raffle for NVIDIA hardware! To be eligible, you need to attend in person, join the platform, and create or join a project. Haven't signed up yet? We'd love to see you there! Sign up: https://luma.com/o1m21gi8
-
-4h ago
-
----
-
-**[Release RealSense SDK 2.0 beta (v2.57.7) · realsenseai/librealsense](https://www.reddit.com/r/robotics/comments/1s1pzli/release_realsense_sdk_20_beta_v2577/)**
-
-SDK Updates: D401 GMSL support Python 3.14 support D555 Global timestamp support (single camera for now) D555 Large messages support Debugging capability - accept partial device (No IMU, No color sensor...) D555 FW SafeDDS Enhancements (enable more services, security enhancements) Enhance support for ROS2 native DFU & System Stability improvements Buffer Overwrite Fix Dynamic Calibration Fixes MIPI Driver: Comprehensive HW-reset recovery for GMSL cameras D401 GMSL support JetPack 6.2.1 support Fangzhu FG12-16ch support
-
-🔗 [GitHub](https://github.com/realsenseai/librealsense/releases/tag/v2.57.7) • 2h ago
 
 ---
 
@@ -100,9 +90,19 @@ Genuine question, I spent some time playing with microcontrollers, encoders, and
 
 ---
 
-**[UMich Rob vs CMU ME vs TU Delft Rob](https://www.reddit.com/r/robotics/comments/1s1qdc2/umich_rob_vs_cmu_me_vs_tu_delft_rob/)**
+**[AR26 Kick-off This Friday + NVIDIA Hardware Raffle](https://www.reddit.com/r/robotics/comments/1s1mplh/ar26_kickoff_this_friday_nvidia_hardware_raffle/)**
 
-2h ago
+Happy Monday everyone! Thank you to everyone who has already signed up for our AR26 hackathon – the response has been awesome. One final reminder for those in the Greater London area: our kick-off event is this Friday in London! This is your chance to: Learn more about the hackathon Meet fellow AI/robotics enthusiasts Hear talks from academics and industry leaders Enjoy free pizza and beer 🍕🍺 Event Details: 📅 Friday, 27 March 🕕 16:00–20:00 GMT 📍 Plexal, London NVIDIA Hardware Raffle: We're running a raffle for NVIDIA hardware! To be eligible, you need to attend in person, join the platform, and create or join a project. Haven't signed up yet? We'd love to see you there! Sign up: https://luma.com/o1m21gi8
+
+5h ago
+
+---
+
+**[Release RealSense SDK 2.0 beta (v2.57.7) · realsenseai/librealsense](https://www.reddit.com/r/robotics/comments/1s1pzli/release_realsense_sdk_20_beta_v2577/)**
+
+SDK Updates: D401 GMSL support Python 3.14 support D555 Global timestamp support (single camera for now) D555 Large messages support Debugging capability - accept partial device (No IMU, No color sensor...) D555 FW SafeDDS Enhancements (enable more services, security enhancements) Enhance support for ROS2 native DFU & System Stability improvements Buffer Overwrite Fix Dynamic Calibration Fixes MIPI Driver: Comprehensive HW-reset recovery for GMSL cameras D401 GMSL support JetPack 6.2.1 support Fangzhu FG12-16ch support
+
+🔗 [GitHub](https://github.com/realsenseai/librealsense/releases/tag/v2.57.7) • 3h ago
 
 ---
 
@@ -134,6 +134,14 @@ Yahoo Finance • 9h ago
 
 ---
 
+**[Hyundai-backed humanoid robots to transform welding in shipyards](https://interestingengineering.com/ai-robotics/hyundai-persona-humanoid-robot-welding-shipyard)**
+
+Hyundai partners Persona AI to develop humanoid welding robots, advancing automation across global shipyard operations
+
+Interesting Engineering • 9h ago
+
+---
+
 **[University of Essex's fruit-picking robot wins national award](https://www.bbc.com/news/articles/c9d41n6gv20o)**
 
 The robots can pick, weigh and harvest strawberries in a matter of seconds.
@@ -150,31 +158,23 @@ Seeking Alpha • 15h ago
 
 ---
 
-**[Eastern Iowa students take Eagle Bots robotics team to international competition](https://cbs2iowa.com/news/local/eastern-iowa-students-take-eagle-bots-robotics-team-to-international-competition)**
-
-A small team of students from across eastern Iowa is preparing to take its robotics work to an international stage, aiming to bring both a competition robot and
-
-KGAN • 2h ago
-
----
-
 **[Chinese Robot Maker Unitree Seeks $610 Million in Shanghai IPO](https://www.bloomberg.com/news/articles/2026-03-20/chinese-robot-maker-unitree-seeks-610-million-in-shanghai-ipo)**
 
 Bloomberg.com • 3d ago
 
 ---
 
-**[Bird‑like robots promise greater flexibility and control than drones](https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html)**
+**[Five-level model rates humanoid robots across mobility, manipulation and cognition](https://techxplore.com/news/2026-03-humanoid-robots-mobility-cognition.html)**
 
-Tech Xplore • 4h ago
+Tech Xplore • 1h ago
 
 ---
 
-**[Fundraiser will help sent robotics teams to international competition](https://www.therepublic.com/2026/03/22/fundraiser-will-help-sent-robotics-teams-to-international-competition/)**
+**[Eastern Iowa students take Eagle Bots robotics team to international competition](https://cbs2iowa.com/news/local/eastern-iowa-students-take-eagle-bots-robotics-team-to-international-competition)**
 
-A local fundraiser hopes to raise enough money so the BCSC VEX IQ robotics teams who earned a chance to compete on the international stage can make the trip.
+A small team of students from across eastern Iowa is preparing to take its robotics work to an international stage, aiming to bring both a competition robot and
 
-The Republic News • 1d ago
+KGAN • 3h ago
 
 ---
 
@@ -226,7 +226,7 @@ Join the community & access CAD files, Code snippets, & more robotics resources 
 
 📺 Brogan M. Pratt
 
-👁️ 714 • 👍 10 • ⏱️ 0:30 • 5h ago
+👁️ 714 • 👍 10 • ⏱️ 0:30 • 6h ago
 
 ---
 
@@ -286,7 +286,7 @@ I forgot the Kisten existed. Kisten projectiles equipped onto the Ue Nodens. The
 
 📺 PREDATOR WR
 
-👁️ 6K • 👍 320 • 💬 35 • ⏱️ 16:37 • 9h ago
+👁️ 6K • 👍 320 • 💬 35 • ⏱️ 16:37 • 10h ago
 
 ---
 

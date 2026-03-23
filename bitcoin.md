@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-23T21:56:30.944383+00:00'
+updated: '2026-03-23T22:38:04.491663+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
 - news
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 23, 2026 at 21:56 UTC  
+**Last Updated:** March 23, 2026 at 22:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +4.2%  
-**7d:** -4.0%  
-**30d:** +5.0%  
-**90d:** -19.2%  
-**1y:** -18.7%  
+**24h:** +4.1%  
+**7d:** -4.4%  
+**30d:** +4.4%  
+**90d:** -19.6%  
+**1y:** -19.1%  
 
 ---
 
@@ -81,19 +81,19 @@ Rank #1
 
 I am new to crypto, what would have caused this?
 
-10h ago
+11h ago
 
 ---
 
 **[They don't know what's coming](https://www.reddit.com/r/Bitcoin/comments/1s1oscn/they_dont_know_whats_coming/)**
 
-3h ago
+4h ago
 
 ---
 
 **[🦏 CFTC Chairman Michael Selig just signaled a major shift in how the US will regulate Bitcoin and crypto.](https://www.reddit.com/r/Bitcoin/comments/1s1jyoi/cftc_chairman_michael_selig_just_signaled_a_major/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -101,7 +101,7 @@ I am new to crypto, what would have caused this?
 
 I was scrolling through the top posts of all time on this subreddit, and something really caught my attention. Two of the biggest posts ever are basically milestones: Bitcoin hitting $10,000 (around 8 years ago) Bitcoin hitting $100,000 (about a year ago) It made me pause for a second… because at those moments, both probably felt insane. Like a “we finally made it” kind of milestone. Now I’m wondering: When do you guys think we’ll see the same kind of post for $1,000,000? Also curious, what do you think would need to happen for that to become reality? Institutional adoption, inflation, global financial shifts…? It’s crazy how each milestone once felt impossible… until it wasn’t.
 
-8h ago
+9h ago
 
 ---
 
@@ -109,7 +109,7 @@ I was scrolling through the top posts of all time on this subreddit, and somethi
 
 0.991 BTC a bit moreeeee
 
-6h ago
+7h ago
 
 ---
 
@@ -117,7 +117,7 @@ I was scrolling through the top posts of all time on this subreddit, and somethi
 
 March 23, 2026
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-1031-btc-and-now-holds-762099-btc_03-23-2026) • 5h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-1031-btc-and-now-holds-762099-btc_03-23-2026) • 6h ago
 
 ---
 
@@ -125,15 +125,7 @@ March 23, 2026
 
 I've traded insignificant amounts of BTC on Robinhood and noticed when I sold this morning, the price on the chart showed around $70,700. But when I go to sell, I can only sell for 70,050, while I can only buy for 71,200. That's like a 1% difference from what I expect from what i see on the price, and a 2% loss if I bought and sold at the same time.
 
-6h ago
-
----
-
-**[A statue of Bitcoin creator Satoshi Nakamoto now stands in El Zonte, where it all started.](https://www.reddit.com/r/Bitcoin/comments/1s0m9xs/a_statue_of_bitcoin_creator_satoshi_nakamoto_now/)**
-
-Link to the Bitcoin history in El Zonte, but I'm sure you can find and share even better articles: https://wildcatsandblacksheep.com/the-salvadoran-beach-town-that-became-a-bitcoin-testbed/
-
-1d ago
+7h ago
 
 ---
 
@@ -141,15 +133,23 @@ Link to the Bitcoin history in El Zonte, but I'm sure you can find and share eve
 
 Just wondering what others think about this?
 
+2h ago
+
+---
+
+**[Fold is finally launching their Bitcoin credit card](https://www.reddit.com/r/Bitcoin/comments/1s1tahi/fold_is_finally_launching_their_bitcoin_credit/)**
+
+https://foldapp.com/credit-card Fine print is below and looks to be 1.5% unlimited. However, the 0.5% boost would be a taxable event and the remainder 2% is capped at first $2,000 a month. No word on if Fold+ members still receive a a metal card of it there is a foreign transaction fee included. 1 1.5% back on all qualifying purchases. No cap on base rewards earned. Cardholders may earn an additional 0.5% back by paying their credit card balance with Bitcoin and up to 2% in additional bonus rewards (4% total) on the first $2,000 of monthly card spend based on qualifying Auto-Stack! and/or Direct to Bitcoin activity during the calendar month. Rewards Account balances are subject to a $10,000 limit; balances approaching this limit must be withdrawn to continue earning. Bitcoin is volatile and may lose value. Rewards are not FDIC- or SIPC-insured.
+
 1h ago
 
 ---
 
-**[Hidden Mathematical Pattern in Bitcoin's Genesis Block (Never Before Documented)](https://www.reddit.com/r/Bitcoin/comments/1s1a5jm/hidden_mathematical_pattern_in_bitcoins_genesis/)**
+**[Here's How Much Bitcoin Has Surged Past the S&P 500 Since the 2020 Covid Crash](https://www.reddit.com/r/Bitcoin/comments/1s1v49f/heres_how_much_bitcoin_has_surged_past_the_sp_500/)**
 
-I found a hidden mathematical relationship in Bitcoin's fundamental constants that I believe has never been documented before. The discovery: n XOR genesis = 2^256 - 2 - δ Where: - n = secp256k1 curve order - genesis = 1231006505 (January 3, 2009) - δ = 0x14551231950b75fc4402da17366961596 The probability of this happening by chance is about 0.04%, which strongly suggests intentional mathematical design by Satoshi. The repeating pattern (n XOR genesis) / 7 starts with 0x24924924924924924924924924924924, which is exactly (2^256 - 2)/7 in hex. I haven't seen this mentioned anywhere in Bitcoin literature. Just sharing in case others find it interesting.
+TLDR: If you invested $10,000 in Bitcoin back on March 23, 2020, your investment today would be in six figures, at just over $100,000. By comparison, if you invested the same amount in the S&P 500 via index funds, then you'd be up to around $29,000. While both investments would have been highly profitable for you, there's no question that going with Bitcoin has proven to be much better.
 
-14h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/heres-much-bitcoin-surged-past-182000674.html?guccou) • 35m ago
 
 ---
 
@@ -161,7 +161,7 @@ I found a hidden mathematical relationship in Bitcoin's fundamental constants th
 
 Stocks look to be catching with BTC's earlier crash to nearly $60,000.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -173,11 +173,25 @@ Decrypt • 21h ago
 
 ---
 
-**[Bitcoin price news: BTC surges 5% to $71,000 as Trump postpones Iran escalation](https://www.coindesk.com/markets/2026/03/23/bitcoin-surges-above-usd71-000-as-trump-postpones-iran-strikes-for-five-days)**
+**[Michael Saylor's Strategy (MSTR) renews $42 billion BTC buying plans](https://www.coindesk.com/markets/2026/03/23/strategy-tops-up-capital-raising-plans-bringing-potential-bitcoin-buying-power-back-to-usd42-billion)**
 
-Trump said that the two countries held "very good and productive conversations regarding a complete and total resolution of our hostilities in the Middle East."
+Expanded share issuance plans and new Wall Street partners boost capital raising firepower.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
+
+---
+
+**[Michael Saylor Changed Tactics To Buy More Bitcoin: What It Means For MSTR](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-changed-tactics-buy-153116394.html)**
+
+Strategy executive chairman Michael Saylor is increasingly turning to alternative funding channels to finance its Bitcoin purchases, signaling a shift away from heavy reliance on equity dilution. Funding Shift Emerges In a Mar.19 post on X, CryptoQuant data showed the...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[MSTR Stock: Strategy Eyes $58 Billion Bitcoin War Chest. Be Skeptical.](https://www.investors.com/news/mstr-stock-strategy-58-billion-bitcoin-war-chest/)**
+
+Investor's Business Daily • 54m ago
 
 ---
 
@@ -185,51 +199,37 @@ CoinDesk • 6h ago
 
 (Bloomberg) -- Bitcoin rose alongside equities while oil prices fell after US President Donald Trump said the US had begun talks with Iran, raising hopes for a deal to ease the conflict.The original cryptocurrency advanced more than 5% to trade as high as $71,794 in New York before paring some of the gain. Smaller tokens including Ether and Solana also rose. Bitcoin had earlier on Monday been fluctuating around a two-week low, sliding as far as $67,371 — its lowest level since March 9. The token
 
-Yahoo! Finance Canada • 7h ago
+Yahoo! Finance Canada • 8h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP price today: Crypto market rises on latest Trump move—how long will it last?](https://www.fastcompany.com/91513909/bitcoin-btc-xrp-price-today-ethereum-eth-crypto-market-rises-on-trump-iran-war-comments-how-long-will-it-last)**
+**[Crypto Miners Are Losing Nearly $20,000 On Each Bitcoin Produced](https://finance.yahoo.com/markets/crypto/articles/crypto-miners-losing-nearly-20-133800793.html)**
 
-Crypto prices, including for Bitcoin and XRP, are getting a much-needed boost Monday. Here's what digital asset investors need to know.
+Cryptocurrency miners are losing a growing amount of money on the Bitcoin (CRYPTO: $BTC) they produce. ...
 
-Fast Company • 2h ago
-
----
-
-**[Michael Saylor's Strategy (MSTR) renews $42 billion BTC buying plans](https://www.coindesk.com/markets/2026/03/23/strategy-tops-up-capital-raising-plans-bringing-potential-bitcoin-buying-power-back-to-usd42-billion)**
-
-Expanded share issuance plans and new Wall Street partners boost capital raising firepower.
-
-CoinDesk • 6h ago
-
----
-
-**[Saylor’s Strategy Returns to Common Stock for Latest Bitcoin Buy](https://www.bloomberg.com/news/articles/2026-03-23/saylor-s-strategy-returns-to-common-stock-for-latest-bitcoin-buy)**
-
-Bloomberg.com • 3h ago
-
----
-
-**[Michael Saylor's Resurfaced Claims Bitcoin Will Rise to $10M Spark Backlash, Peter Schiff Slams Founder as ‘Delusional'](https://finance.yahoo.com/markets/crypto/articles/michael-saylors-resurfaced-claims-bitcoin-113339204.html)**
-
-A clip of Michael Saylor predicting Bitcoin could reach $10 million has reignited debate. Peter Schiff dismissed Saylor as “delusional." Bearish analysts warn that Bitcoin ...
-
-Yahoo Finance • 10h ago
-
----
-
-**[Bitcoin Is Headed to $500,000 According to This Wall Street Analyst and the Reasoning Is Hard to Dismiss](https://finance.yahoo.com/markets/crypto/articles/bitcoin-headed-500-000-according-160000919.html)**
-
-Geoffrey Kendrick of Standard Chartered thinks Bitcoin is poised for an epic rally.
-
-Yahoo Finance • 5h ago
+Yahoo Finance • 9h ago
 
 ---
 
 **[White House Quietly Confirms A ‘Major’ Crypto Milestone As Bitcoin Braces For A Huge Price Earthquake](https://www.forbes.com/sites/digital-assets/2026/03/21/white-house-quietly-confirms-a-major-crypto-milestone-as-bitcoin-braces-for-a-huge-price-earthquake/)**
 
 Forbes • 2d ago
+
+---
+
+**[Bitcoin Just Had Its Worst Start to a Year Ever. History Says April Could Change Everything.](https://www.fool.com/investing/2026/03/21/bitcoin-just-had-its-worst-start-to-a-year-ever-hi/)**
+
+This coin is known for being difficult to hold for a reason.
+
+The Motley Fool • 2d ago
+
+---
+
+**[NYSE exchanges remove options limits on 11 Bitcoin, Ether ETFs](https://www.tradingview.com/news/cointelegraph:d486cb180094b:0-nyse-exchanges-remove-options-limits-on-11-bitcoin-ether-etfs/)**
+
+Two New York Stock Exchange-affiliated exchanges have removed the 25,000 contract position limit on options tied to 11 crypto exchange-traded funds.NYSE Arca and NYSE American each filed three rule changes in the Federal Register on March 10 to remove contract position limits and price discovery re…
+
+TradingView • 21h ago
 
 ---
 
@@ -279,7 +279,7 @@ Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 3
 
 Open archive of autonomous scientific discovery experiments.
 
-⬆️ 1 • 💬 2 • 5d ago • [protoscience.ai](https://protoscience.ai)
+⬆️ 1 • 💬 2 • 6d ago • [protoscience.ai](https://protoscience.ai)
 
 ---
 
@@ -293,7 +293,7 @@ Open archive of autonomous scientific discovery experiments.
 
 An event loop for asyncio written in Rust. Contribute to RustedBytes/rsloop development by creating an account on GitHub.
 
-⬆️ 5 • 💬 2 • 1d ago • [GitHub](https://github.com/RustedBytes/rsloop)
+⬆️ 5 • 💬 2 • 2d ago • [GitHub](https://github.com/RustedBytes/rsloop)
 
 ---
 
@@ -307,7 +307,7 @@ Bitcoin #Crypto #Finance Bitcoin is experiencing extreme volatility as prices sw
 
 📺 The Wolf Of All Streets
 
-👁️ 15K • 👍 960 • 💬 173 • ⏱️ 1:00:24 • 7h ago
+👁️ 15K • 👍 960 • 💬 173 • ⏱️ 1:00:24 • 8h ago
 
 ---
 
@@ -327,7 +327,7 @@ Gold just had its worst week since 1982 while global tensions explode and market
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 76 • ⏱️ 15:34 • 22h ago
+👁️ 20K • 👍 1K • 💬 76 • ⏱️ 15:34 • 23h ago
 
 ---
 
@@ -367,7 +367,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 866 • 💬 89 • ⏱️ 47:58 • 7h ago
+👁️ 14K • 👍 866 • 💬 89 • ⏱️ 47:58 • 8h ago
 
 ---
 
@@ -387,7 +387,7 @@ The situation just got 10 times worse for bitcoin, ethereum and the rest of cryp
 
 📺 Thomas Kralow
 
-👁️ 10K • 👍 2K • 💬 28 • ⏱️ 11:52 • 10h ago
+👁️ 10K • 👍 2K • 💬 28 • ⏱️ 11:52 • 11h ago
 
 ---
 

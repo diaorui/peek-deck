@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-23T21:56:30.936586+00:00'
+updated: '2026-03-23T22:38:04.483182+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
+- repositories
 - videos
 - news
-- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 23, 2026 at 21:56 UTC  
+**Last Updated:** March 23, 2026 at 22:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The former OpenAI and Tesla AI researcher's 'autoresearch' technique could be used by AI labs to speed up breakthroughs.
 
-🔗 [Fortune](https://fortune.com/2026/03/17/andrej-karpathy-loop-autonomous-ai-agents-future/) • 13h ago
+🔗 [Fortune](https://fortune.com/2026/03/17/andrej-karpathy-loop-autonomous-ai-agents-future/) • 14h ago
 
 ---
 
@@ -49,7 +49,7 @@ The former OpenAI and Tesla AI researcher's 'autoresearch' technique could be us
 
 Tech giant’s tools include ‘Second Brain’ and an internal messaging board for AI bots
 
-🔗 [The Independent](https://www.the-independent.com/tech/mark-zuckerberg-ai-ceo-bot-b2943792.html) • 2h ago
+🔗 [The Independent](https://www.the-independent.com/tech/mark-zuckerberg-ai-ceo-bot-b2943792.html) • 3h ago
 
 ---
 
@@ -57,7 +57,7 @@ Tech giant’s tools include ‘Second Brain’ and an internal messaging board 
 
 MiMo-V2-Flash is open source, scores 73.4% on SWE-Bench (#1 among open source models), and costs $0.10 per million input tokens. That's comparable to Claude Sonnet at 3.5% of the price. MiMo-V2-Pro ranks #3 globally on agent benchmarks behind Claude Opus 4.6, with a 1M token context window, at $1/$3 per million tokens. Opus charges $5/$25 for similar performance. The lead researcher came from DeepSeek. The Pro model spent a week on OpenRouter anonymously and the entire community thought it was DeepSeek V4. At what point do Western AI companies have to respond on pricing? Or is the argument that reliability, safety, and enterprise support justify the 10x premium?
 
-11h ago
+12h ago
 
 ---
 
@@ -65,15 +65,7 @@ MiMo-V2-Flash is open source, scores 73.4% on SWE-Bench (#1 among open source mo
 
 Palantir’s Maven artificial intelligence system will become an official program of record, Deputy Secretary of Defense Steve Feinberg said in a letter to Pentagon leaders, a move that locks in long-term use of Palantir’s weapons-targeting ‌technology across the U.S. military.  In the March 9 letter to senior Pentagon leaders and U.S. military commanders, Feinberg said embedding Palantir’s Maven ‌Smart System would provide warfighters “with the latest tools necessary to detect, deter, and dominate our adversaries in all domains”.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/exclusive-pentagon-adopt-palantir-ai-232821913.html) • 21h ago
-
----
-
-**[I've been using AI video tools in my creative workflow for about 6 months and I want to give an honest assessment of where they're actually useful vs where they're still overhyped](https://www.reddit.com/r/artificial/comments/1s1d4zc/ive_been_using_ai_video_tools_in_my_creative/)**
-
-I work as a freelance content creator and videographer and I've been integrating various AI tools into my workflow since late last year, not because I'm an AI enthusiast but because my clients keep asking about them and I figured I should actually understand what these tools can and can't do before I have opinions about them here's my honest assessment after 6 months of daily use across real client projects: where AI tools are genuinely useful right now: style transfer and visual experimentation, this is the clearest win, tools like magic hour and runway let me show clients 5 different visual approaches to their content in 20 minutes instead of spending 3 hours manually grading reference versions, even if the final product is still done traditionally the speed of previsualization has changed how I work background removal and basic compositing, what used to take careful rotoscoping can now be done in seconds for most use cases, not perfect for complex edges but for 80% of social media content it's more than good enough audio cleanup, tools like adobe's AI audio enhancement have saved me on multiple projects where the production audio was rough, this one doesn't get enough attention but it's probably the most practically useful AI application in my workflow where it's still overhyped: full video generation from text prompts, I've tried sora and veo and kling and honestly the outputs are impressive as tech demos but unusable for real client work 90% of the time, the uncanny valley is real and audiences can tell AI editing and automatic cuts, every tool that promises to "edit your video automatically" produces output that feels like it was edited by someone who's never watched a movie, the pacing is always wrong face and body generation for any sustained use, consistency across multiple generations is still a massive problem, anyone telling you they can run a "virtual influencer" without significant manual intervention is leaving out the hours of regeneration and cherry-picking the honest summary: AI is extremely useful as a productivity tool that speeds up specific parts of my existing workflow, it is not useful as a replacement for creative decision-making and it's nowhere close to replacing human editors, cinematographers, or content strategists anyone else working professionally with these tools want to share their honest assessment because I think the conversation is too polarized between "AI will replace everything" and "AI is worthless" when the reality is way more nuanced
-
-11h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/exclusive-pentagon-adopt-palantir-ai-232821913.html) • 22h ago
 
 ---
 
@@ -81,13 +73,15 @@ I work as a freelance content creator and videographer and I've been integrating
 
 Nvidia CEO Jensen Huang says he'd be "deeply alarmed" if engineers weren't using AI tokens worth at least half of their annual salary.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/jensen-huang-compares-not-using-ai-to-using-paper-and-pencil-to-design-chips-as-he-explains-nvidias-massive-token-budget/) • 7h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/jensen-huang-compares-not-using-ai-to-using-paper-and-pencil-to-design-chips-as-he-explains-nvidias-massive-token-budget/) • 8h ago
 
 ---
 
-**[Exclusive: Pentagon to adopt Palantir AI as core US military system, memo says](https://www.reddit.com/r/artificial/comments/1s1ewoh/exclusive_pentagon_to_adopt_palantir_ai_as_core/)**
+**[I've been using AI video tools in my creative workflow for about 6 months and I want to give an honest assessment of where they're actually useful vs where they're still overhyped](https://www.reddit.com/r/artificial/comments/1s1d4zc/ive_been_using_ai_video_tools_in_my_creative/)**
 
-🔗 [reuters.com](https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/?_bhlid=294306ad5838cf1ff8af0cbdcbbf239c469a06d9) • 9h ago
+I work as a freelance content creator and videographer and I've been integrating various AI tools into my workflow since late last year, not because I'm an AI enthusiast but because my clients keep asking about them and I figured I should actually understand what these tools can and can't do before I have opinions about them here's my honest assessment after 6 months of daily use across real client projects: where AI tools are genuinely useful right now: style transfer and visual experimentation, this is the clearest win, tools like magic hour and runway let me show clients 5 different visual approaches to their content in 20 minutes instead of spending 3 hours manually grading reference versions, even if the final product is still done traditionally the speed of previsualization has changed how I work background removal and basic compositing, what used to take careful rotoscoping can now be done in seconds for most use cases, not perfect for complex edges but for 80% of social media content it's more than good enough audio cleanup, tools like adobe's AI audio enhancement have saved me on multiple projects where the production audio was rough, this one doesn't get enough attention but it's probably the most practically useful AI application in my workflow where it's still overhyped: full video generation from text prompts, I've tried sora and veo and kling and honestly the outputs are impressive as tech demos but unusable for real client work 90% of the time, the uncanny valley is real and audiences can tell AI editing and automatic cuts, every tool that promises to "edit your video automatically" produces output that feels like it was edited by someone who's never watched a movie, the pacing is always wrong face and body generation for any sustained use, consistency across multiple generations is still a massive problem, anyone telling you they can run a "virtual influencer" without significant manual intervention is leaving out the hours of regeneration and cherry-picking the honest summary: AI is extremely useful as a productivity tool that speeds up specific parts of my existing workflow, it is not useful as a replacement for creative decision-making and it's nowhere close to replacing human editors, cinematographers, or content strategists anyone else working professionally with these tools want to share their honest assessment because I think the conversation is too polarized between "AI will replace everything" and "AI is worthless" when the reality is way more nuanced
+
+12h ago
 
 ---
 
@@ -99,19 +93,25 @@ There's an old joke among pilots. Automation has made flying so safe and so bori
 
 ---
 
-**[How to build CLI tool + skill to work longer without compacting](https://www.reddit.com/r/artificial/comments/1s1jpxt/how_to_build_cli_tool_skill_to_work_longer/)**
+**[I curated an 'Awesome List' for Generative AI in Jewelry- papers, datasets, open-source models and tools included!](https://www.reddit.com/r/artificial/comments/1s1tr6d/i_curated_an_awesome_list_for_generative_ai_in/)**
 
-I work with AI agents daily and try really hard to minimise context switching and enable agent to use all the tools I'd normally use during development, which goes really well nowadays as agents are good into finding those tools themselves. But as my work requires ClickUp, I got tired of alt-tabbing to it for every status update, comment, or task description I just wanted to feed that into context, so I prompted a CLI for it, along with a skill, so agent would pick it up automatically. The whole project was built with Claude Opus 4, set to High mode via OpenCode (😉) Not a single line written by hand. I want to share the build process, as I think the pattern is reusable for anyone who wants to vibe-code their own CLI tools, which I'd recommend as massive AI productivity boost The philosophy: CLI + SKILL.md My biggest takeaway from working with agents is that CLI tools paired with a skill file use way fewer tokens than MCP servers or browser-based workflows. The agent runs a shell command, gets structured output, pipes it if needed, then moves on - no protocol overhead, no server process, no massive context dumps, just straight data This matters because it means less compacting. I can work through longer sessions without the agent losing track of what it's doing. The skill file is small (a few hundred lines of markdown), the CLI output is compact (markdown when piped, JSON as alternative), and the agent doesn't need to hold much state. I think this pattern - build a CLI, write a SKILL.md, hand it to your agent - could work for pretty much any service that has an API but no good agent integration. Your company's internal tools, your CRM, your deployment pipeline. If you can write a REST client and a markdown file describing how to use it, an agent can learn it. The build process I use obra superpowers for my agent workflow. It's a set of skills that teach Claude how to plan, implement, review, and ship code in a structured way. I'd say it's a nice sweet spot between writing simple prompts and running full looping frameworks like Ralph. You get structured planning and parallel execution without the complexity of a whole orchestration system. After the initial setup (repo, npm, Homebrew, CI, tag-based releases, also done by agent), every new feature uses more or less the same prompt, relying heavy on superpowers skillset: ``` Use brainstorming skill to prepare for implementing <task>, // 1 ask as many questions as needed Let's go with Approach <A/B/C> // 2 Use writing-plan skill to prepare complete plan as .md file for <task> Use subagent-driven-development and executing-plans skills to implement complete plan and confirm it with tests Do not make development yourself, act as orchestrator for subagents, by using dispatching-parallel-agents. If you have further questions, make decisions on your own and document them in DECISIONS.md Keep PROGRESS.md to track progress and carry on this to your next agents. Point subagents to those files and link to them in compacting summary. ``` I sometimes omit // 1 or // 1 + 2, depending whether I already cleared up with agent what to build What this does in practice: the agent brainstorms approaches, picks one, writes a detailed plan, then spawns sub-agents to implement each part of the plan in parallel. It tracks progress in markdown files so when context gets long, the summary links back to the plan and decisions. Each sub-agent writes tests, the orchestrator reviews. I mostly just approve or redirect. I hardly ever need to answer some questions after brainstorming, mostly when I just sloped request ("let's add comments functionality") The AGENTS.md in the repo instructs the agent to handle the release at the end of new features too - version bump, tag, push. So the whole cycle from "I want feature X" to "it's published on npm" requires almost no oversight from me. I trust the tests, and tests are honestly the only code I look at sometimes. But not really even that. One feature (time tracking - 6 commands, fully tested, documented) took about ~10-15 minutes of my time. Most of that was reviewing the plan and confirming the approach, agent did everything else. But frankly at this point I trust it enough to not review smaller features What the tool actually does cup is a ClickUp CLI. Three output modes: In your terminal: interactive tables with a task picker, colored output Piped (what agents see): clean Markdown, sized for context windows --json: structured data for scripts ```bash Morning standup cup summary Agent reads a task, does the work, updates it cup task PROJ-123 cup update PROJ-123 -s "in progress" ...does the work... cup comment PROJ-123 -m "Fixed in commit abc1234" cup update PROJ-123 -s "in review" ``` 40+ commands covering tasks, comments, sprints, checklists, time tracking, custom fields, tags, dependencies, attachments. Each feature is fully tested. The repo includes a ready-to-use skill file for Claude Code, OpenCode, Codex (these are some of the few things I actually needed to review and test) GitHub: https://github.com/krodak/clickup-cli npm: https://www.npmjs.com/package/@krodak/clickup-cli If you're thinking about building CLI tools for your own workflow, let me know. The CLI + skill file pattern has been the biggest productivity unlock for me recently
+Jewelry is one of the, if not the, hardest categories for AI image generation. Reflective metals, facet edges, prong geometry, and gemstone refraction all get destroyed by standard VAE compression in latent diffusion models. No benchmark exists to measure this systematically. I put together a curated Awesome List covering the full landscape: 20+ datasets available on Huggingface including jewelry segmentation, hand pose with jewelry, Flux fine-tuning sets, and VITON-style jewelry data Foundational papers on identity preservation, VAE detail loss, and reflective surface rendering Open-source models: ControlNet configs, IP-Adapter variants, SAM adaptations for jewelry segmentation Evaluation metrics recommended for jewelry fidelity Commercial tools comparison Tutorials and communities Gaps I know exist: no jewelry-specific fidelity benchmark, limited public LoRAs, no systematic failure mode studies for DALL-E/Midjourney on jewelry. Contributions welcome via PR.
 
-6h ago
+🔗 [GitHub](https://github.com/formanova-ai/awesome-jewelry-ai) • 1h ago
 
 ---
 
-**[Everyone is looking for friend here, just curious do you guys talk you chatgpt or claude like they are your friend or it's just me ?](https://www.reddit.com/r/artificial/comments/1s1d7hp/everyone_is_looking_for_friend_here_just_curious/)**
+**[Exclusive: Pentagon to adopt Palantir AI as core US military system, memo says](https://www.reddit.com/r/artificial/comments/1s1ewoh/exclusive_pentagon_to_adopt_palantir_ai_as_core/)**
 
-Im 24 m,and I really can't carry the conversation in real, so I find myself talking to chatgpt or claude I even tried to make myself ai companion but it's not that great ,just curious do you guys do like what I did ?
+🔗 [reuters.com](https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/?_bhlid=294306ad5838cf1ff8af0cbdcbbf239c469a06d9) • 10h ago
 
-11h ago
+---
+
+**[I built an AI that has zero content filters — ask it literally anything](https://www.reddit.com/r/artificial/comments/1s1u1d4/i_built_an_ai_that_has_zero_content_filters_ask/)**
+
+Hey everyone, I built an AI assistant with no content restrictions. It's free to try (5 tokens to start). Link: https://fraudgptt.lovable.app/ Would love your feedback. AMA in the comments
+
+1h ago
 
 ---
 
@@ -119,31 +119,53 @@ Im 24 m,and I really can't carry the conversation in real, so I find myself talk
 
 ## Google News: "ai"
 
-**[What Young Workers Are Doing to AI-Proof Themselves](https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284?gaa_at=eafs&gaa_n=AWEtsqdF2VGSwURO1rT-_gdHM-pFqWmKvUgFjsYEzrSOdMGIEeshgDLXnBJo&gaa_ts=69c1adf6&gaa_sig=loePv6eYSxOGQYc6FJJerCCQrFw9tUqfGa_SLATVNgLrA-HQtZWqz8XCJu8gfpDykxdOgjTyKjbY0nvxfIPpFQ%3D%3D)**
+**[What Young Workers Are Doing to AI-Proof Themselves](https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284?gaa_at=eafs&gaa_n=AWEtsqdmnXC32AcXNwFZO7Fs4IlASfYU5UViYfZt1KoZKPfnz0DmGwDfmhtI&gaa_ts=69c1c42e&gaa_sig=5eJ11bExhAlFaPVcfWhjJg145jORgrg5ea822GO-OiFXDjuEeJd93keC4MSrOU8Svm_U4iDRj0uaIPSbIF_IIA%3D%3D)**
 
 WSJ • 1d ago
 
 ---
 
-**[Exclusive | Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO](https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5?gaa_at=eafs&gaa_n=AWEtsqdTLdcCrQtdZiONBKytMw14gubm2ovUyaj0DcKrxcMvwJxd_LtNgMsw&gaa_ts=69c1adf6&gaa_sig=tiJ6UV145dN24DwnTdGQgecVaPMKKjL-wyEMcGzqZGAoTcikhmVBzo4pnszKDGBOyBRkMisa7bds8D0Lu87_eQ%3D%3D)**
+**[Exclusive | Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO](https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5?gaa_at=eafs&gaa_n=AWEtsqdZyIsm5FOOPVqGY9K2R8bxpdO2Dzv4ebnOvJkxpn1hxRhtOsCFCmux&gaa_ts=69c1c42e&gaa_sig=lkUJzZp6MGwjNTl8eRoIdKJdHD9yP1dR71hB2UmCBQqSaVFH04fO4L_wWL2iHcBkv1fQiqPuqPn62wcLlWQVUQ%3D%3D)**
 
-WSJ • 23h ago
-
----
-
-**[Omniscience, Omnipresence, and Omnipotence: Meet the Gods of AI Warfare](https://www.wired.com/story/project-maven-katrina-manson-book-excerpt/)**
-
-In its early days, the AI initiative known as Project Maven had its fair share of skeptics at the Pentagon. Today, many of them are true believers.
-
-WIRED • 11h ago
+WSJ • 1d ago
 
 ---
 
-**[Geopolitics, private credit and AI spending drive ‘rotation of fear’ in markets](https://www.foxbusiness.com/video/6391477472112)**
+**[Google CEO Sundar Pichai’s plan to make Gemini the only AI that matters](https://www.fastcompany.com/91502632/google-most-innovative-companies-2026)**
 
-Slatestone chief equity strategist Erin Gibbs discusses the market’s rotation of fear, highlighting geopolitical risks, private credit and artificial intelligence spending on ‘Making Money.’
+Under Pichai, the company that invented modern AI is finally winning the race to deploy it, making "AI everywhere" a business reality.
 
-Fox Business • 1h ago
+Fast Company • 11h ago
+
+---
+
+**[Grandmother arrested at gunpoint after AI facial recognition system mistakes identity](https://www.yahoo.com/news/articles/grandmother-arrested-gunpoint-ai-facial-220000294.html)**
+
+This case highlights how AI tools, while powerful, are not foolproof.
+
+Yahoo • 38m ago
+
+---
+
+**[University of Wisconsin System launches free AI education program](https://www.channel3000.com/news/university-of-wisconsin-system-launches-free-ai-education-program/article_82965be2-5730-4c97-ad17-c70f04c0e2ce.html)**
+
+MADISON, Wis. — The University of Wisconsin System announced the launch of a new educational initiative designed to help Wisconsin residents better understand artificial intelligence and its growing role in
+
+Channel 3000 • 27m ago
+
+---
+
+**[Mark Zuckerberg Is Building an AI CEO. Will He Lay Himself Off?](https://gizmodo.com/mark-zuckerberg-is-building-an-ai-ceo-will-he-lay-himself-off-2000737065)**
+
+After the metaverse fiasco, maybe it would be for the best.
+
+Gizmodo • 37m ago
+
+---
+
+**[Opinion | Welcome to Money in Politics in the Age of A.I.](https://www.nytimes.com/2026/03/23/opinion/crypto-ai-politics.html)**
+
+The New York Times • 2h ago
 
 ---
 
@@ -151,7 +173,15 @@ Fox Business • 1h ago
 
 A new set of precepts is meant to make the chatbot Claude wise, decent, and safe. It also marks a striking transfer of public responsibility from constitutional government to private tech firms.
 
-The New Yorker • 11h ago
+The New Yorker • 12h ago
+
+---
+
+**[How Autonomous AI Agents Become Secure by Design With NVIDIA OpenShell](https://blogs.nvidia.com/blog/secure-autonomous-ai-agents-openshell/)**
+
+NVIDIA OpenShell provides tools for controlling autonomous agents in a trusted infrastructure policy layer.
+
+NVIDIA Blog • 7h ago
 
 ---
 
@@ -163,59 +193,21 @@ CNN • 7h ago
 
 ---
 
-**[BlackRock’s Larry Fink warns AI may intensify wealth inequality](https://www.ft.com/content/58602814-8138-4a14-a32e-d82dec2d472c?syn-25a6b1a6=1)**
-
-CEO of world’s biggest asset manager says rich backers of artificial intelligence could reap most of the rewards
-
-Financial Times • 11h ago
-
----
-
-**[BlackRock CEO Fink backs staying invested amid volatility, flags AI shift](https://finance.yahoo.com/sectors/technology/articles/blackrock-ceo-fink-backs-staying-115903674.html)**
-
-The rapid rise of AI has sparked debate over whether ‌its gains will be broadly shared across sectors or increase the divide between big tech firms and smaller companies that may ‌struggle to compete.  Since the launch of ChatGPT in November 2022, much of Wall Street's AI-driven market gains have been led by companies at the center of the boom, pointing ​to a more narrow set of winners.  "The massive wealth created over the past several generations flowed mostly to people who already owned financial assets," Fink said in his annual letter to shareholders.
-
-Yahoo Finance • 9h ago
-
----
-
-**[More! More! More! Tech Workers Max Out Their A.I. Use.](https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html)**
-
-The New York Times • 3d ago
-
----
-
-**[This quant billionaire uses AI but turns to Hasidic thought for meaning](https://www.jpost.com/podcast/jpost-sits-down-with/article-890961)**
-
-In The Jerusalem Post studio, billionaire WorldQuant founder Igor Tulchinsky spoke with unusual candor about October 7, Chabad, AI, and why he thinks Israel can become a “quant nation.”
-
-The Jerusalem Post • 3h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
-
-**[OpenCode – Open source AI coding agent](https://news.ycombinator.com/item?id=47460525)**
-
-OpenCode - The open source coding agent.
-
-⬆️ 1252 • 💬 618 • 3d ago • [opencode.ai](https://opencode.ai/)
-
----
 
 **[Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record](https://news.ycombinator.com/item?id=47464818)**
 
 Imagine a newspaper publisher announcing it will no longer allow libraries to keep copies of its paper. That’s effectively what’s begun happening online in the last few months. The Internet Archive—the world’s largest digital library—has preserved newspapers since it went online in the mid-1990s....
 
-⬆️ 563 • 💬 158 • 2d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
+⬆️ 563 • 💬 159 • 2d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
 
 ---
 
 **[What young workers are doing to AI-proof themselves](https://news.ycombinator.com/item?id=47480447)**
 
-⬆️ 215 • 💬 357 • 1d ago • [wsj.com](https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284)
+⬆️ 217 • 💬 359 • 1d ago • [wsj.com](https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284)
 
 ---
 
@@ -225,31 +217,31 @@ Imagine a newspaper publisher announcing it will no longer allow libraries to ke
 
 ---
 
-**[How to attract AI bots to your open source project](https://news.ycombinator.com/item?id=47471271)**
-
-A practical guide to getting the engagement your project deserves.
-
-⬆️ 165 • 💬 28 • 2d ago • [Andrew Nesbitt](https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html)
-
----
-
 **[I built an AI receptionist for a mechanic shop](https://news.ycombinator.com/item?id=47487536)**
 
 Learn how I built an ai receptionist for my brother's mechanic shop
 
-⬆️ 160 • 💬 176 • 11h ago • [itsthatlady.dev](https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/)
+⬆️ 183 • 💬 203 • 12h ago • [itsthatlady.dev](https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/)
+
+---
+
+**[How to attract AI bots to your open source project](https://news.ycombinator.com/item?id=47471271)**
+
+A practical guide to getting the engagement your project deserves.
+
+⬆️ 166 • 💬 28 • 2d ago • [Andrew Nesbitt](https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html)
 
 ---
 
 **[Diverse perspectives on AI from Rust contributors and maintainers](https://news.ycombinator.com/item?id=47482825)**
 
-⬆️ 146 • 💬 80 • 23h ago • [nikomatsakis.github.io](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
+⬆️ 149 • 💬 81 • 1d ago • [nikomatsakis.github.io](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
 
 ---
 
 **[Ask HN: AI productivity gains – do you fire devs or build better products?](https://news.ycombinator.com/item?id=47475859)**
 
-⬆️ 98 • 💬 180 • 1d ago
+⬆️ 98 • 💬 190 • 1d ago
 
 ---
 
@@ -274,6 +266,12 @@ Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of halluci
 
 ---
 
+**[Tom Homan confirms ICE to be at airports starting Monday](https://news.ycombinator.com/item?id=47480685)**
+
+⬆️ 88 • 💬 93 • 1d ago • [politico.com](https://www.politico.com/news/2026/03/22/homan-confirms-ice-airports-monday-00839426)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
@@ -284,7 +282,7 @@ Create Insanely Real UGC Ads with Arcads https://youricreates.com/ArcAds In this
 
 📺 Youri van Hofwegen
 
-👁️ 8K • 💬 7 • ⏱️ 8:56 • 5h ago
+👁️ 8K • 💬 7 • ⏱️ 8:56 • 6h ago
 
 ---
 
@@ -304,7 +302,7 @@ White House science advisor Michael Kratsios discusses the Trump administration'
 
 📺 Fox News Clips
 
-👁️ 36K • 👍 683 • 💬 216 • ⏱️ 4:08 • 19h ago
+👁️ 36K • 👍 683 • 💬 216 • ⏱️ 4:08 • 20h ago
 
 ---
 
@@ -314,7 +312,7 @@ What does inevitability sound like? That's not a thruway line—it's the questio
 
 📺 Mike Rowe
 
-👁️ 82K • 👍 4K • 💬 664 • ⏱️ 24:37 • 1d ago
+👁️ 82K • 👍 4K • 💬 664 • ⏱️ 24:37 • 2d ago
 
 ---
 
@@ -334,7 +332,7 @@ Jensen Huang is the co-founder and CEO of NVIDIA, the world's most valuable comp
 
 📺 Lex Fridman
 
-👁️ 70K • 👍 4K • 💬 478 • ⏱️ 2:25:59 • 5h ago
+👁️ 70K • 👍 4K • 💬 478 • ⏱️ 2:25:59 • 6h ago
 
 ---
 
@@ -344,7 +342,7 @@ The tides regarding artificial intelligence seem to be turning a bit. How so, an
 
 📺 Shameless Nerd
 
-👁️ 4K • 👍 547 • 💬 125 • ⏱️ 17:21 • 8h ago
+👁️ 4K • 👍 547 • 💬 125 • ⏱️ 17:21 • 9h ago
 
 ---
 
@@ -364,7 +362,7 @@ Try Abacus Claw:* https://claw.abacus.ai/fmj OpenClaw Cloud changes how an AI ag
 
 📺 Julia McCoy
 
-👁️ 3K • 👍 247 • 💬 24 • ⏱️ 10:17 • 6h ago
+👁️ 3K • 👍 247 • 💬 24 • ⏱️ 10:17 • 7h ago
 
 ---
 
@@ -374,7 +372,7 @@ Dozens of protesters gathered outside Anthropic's headquarters in San Francisco 
 
 📺 ABC7 News Bay Area
 
-👁️ 3K • 👍 23 • 💬 42 • ⏱️ 2:19 • 21h ago
+👁️ 3K • 👍 23 • 💬 42 • ⏱️ 2:19 • 22h ago
 
 ---
 
@@ -426,7 +424,7 @@ Mistral-Small-4-119B-2603 is a hybrid MoE model (119B params, 6.5B active) suppo
 
 `119.4B`
 
-⬇️ 10,591 • ❤️ 309 • 4h ago
+⬇️ 10,591 • ❤️ 309 • 5h ago
 
 ---
 
@@ -448,7 +446,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 5,346 • ❤️ 226 • 2h ago
+⬇️ 5,346 • ❤️ 226 • 3h ago
 
 ---
 
@@ -650,7 +648,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 22.2k • 🔱 1.1k • 59m ago
+⭐ 22.2k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -660,7 +658,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 13.1k • 🔱 1.6k • 7h ago
+⭐ 13.1k • 🔱 1.6k • 8h ago
 
 ---
 
@@ -680,7 +678,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 10.6k • 🔱 544 • 1h ago
+⭐ 10.6k • 🔱 544 • 2h ago
 
 ---
 
@@ -700,7 +698,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 6.4k • 🔱 974 • 1d ago
+⭐ 6.4k • 🔱 974 • 2d ago
 
 ---
 
@@ -710,7 +708,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 5.2k • 🔱 426 • 3h ago
+⭐ 5.2k • 🔱 426 • 4h ago
 
 ---
 
@@ -720,7 +718,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `Python` `ai-agents` `claude` `claude-code` `cloud-security` `cybersecurity`
 
-⭐ 3.6k • 🔱 364 • 3h ago
+⭐ 3.6k • 🔱 364 • 4h ago
 
 ---
 
