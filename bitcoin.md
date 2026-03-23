@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-23T16:02:50.115058+00:00'
+updated: '2026-03-23T17:25:47.988866+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 23, 2026 at 16:02 UTC  
+**Last Updated:** March 23, 2026 at 17:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.2%  
-**7d:** -5.0%  
-**30d:** +3.9%  
-**90d:** -20.0%  
-**1y:** -19.6%  
+**24h:** +2.7%  
+**7d:** -4.7%  
+**30d:** +4.2%  
+**90d:** -19.8%  
+**1y:** -19.3%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I am new to crypto, what would have caused this?
 
-4h ago
+6h ago
 
 ---
 
@@ -89,7 +89,7 @@ I am new to crypto, what would have caused this?
 
 I was scrolling through the top posts of all time on this subreddit, and something really caught my attention. Two of the biggest posts ever are basically milestones: Bitcoin hitting $10,000 (around 8 years ago) Bitcoin hitting $100,000 (about a year ago) It made me pause for a second… because at those moments, both probably felt insane. Like a “we finally made it” kind of milestone. Now I’m wondering: When do you guys think we’ll see the same kind of post for $1,000,000? Also curious, what do you think would need to happen for that to become reality? Institutional adoption, inflation, global financial shifts…? It’s crazy how each milestone once felt impossible… until it wasn’t.
 
-2h ago
+3h ago
 
 ---
 
@@ -101,11 +101,31 @@ Link to the Bitcoin history in El Zonte, but I'm sure you can find and share eve
 
 ---
 
+**[So close!!!](https://www.reddit.com/r/Bitcoin/comments/1s1jo90/so_close/)**
+
+0.991 BTC a bit moreeeee
+
+2h ago
+
+---
+
+**[🦏 CFTC Chairman Michael Selig just signaled a major shift in how the US will regulate Bitcoin and crypto.](https://www.reddit.com/r/Bitcoin/comments/1s1jyoi/cftc_chairman_michael_selig_just_signaled_a_major/)**
+
+1h ago
+
+---
+
 **[Hidden Mathematical Pattern in Bitcoin's Genesis Block (Never Before Documented)](https://www.reddit.com/r/Bitcoin/comments/1s1a5jm/hidden_mathematical_pattern_in_bitcoins_genesis/)**
 
 I found a hidden mathematical relationship in Bitcoin's fundamental constants that I believe has never been documented before. The discovery: n XOR genesis = 2^256 - 2 - δ Where: - n = secp256k1 curve order - genesis = 1231006505 (January 3, 2009) - δ = 0x14551231950b75fc4402da17366961596 The probability of this happening by chance is about 0.04%, which strongly suggests intentional mathematical design by Satoshi. The repeating pattern (n XOR genesis) / 7 starts with 0x24924924924924924924924924924924, which is exactly (2^256 - 2)/7 in hex. I haven't seen this mentioned anywhere in Bitcoin literature. Just sharing in case others find it interesting.
 
-8h ago
+10h ago
+
+---
+
+**[ICYMI the Broadcast last week - why bitcoin is a savings technology and not an investment, why DCA strategies are so powerful, keeping it boring and simple is the winning move in bitcoin ie produce value, save in bitcoin, hold in cold storage](https://www.reddit.com/r/Bitcoin/comments/1s1imy7/icymi_the_broadcast_last_week_why_bitcoin_is_a/)**
+
+2h ago
 
 ---
 
@@ -113,41 +133,23 @@ I found a hidden mathematical relationship in Bitcoin's fundamental constants th
 
 Looking at the timeline today, it's wild to see the level of panic setting in. The Fear & Greed Index just tanked to 11 ("Extreme Fear"), and altcoins are getting absolutely decimated across the board. But if you look past the noise, Bitcoin is showing incredible relative strength. We just experienced a perfect storm of macroeconomic headwinds: The Fed’s Hawkish Hold: On Wednesday, the FOMC held rates steady at 3.50% - 3.75%, with Powell signaling that sticky inflation will likely delay cuts. The Geopolitical Oil Shock: With the escalating conflict in the Middle East, Brent crude oil just spiked well over $100 a barrel, sparking stagflation fears in traditional equities. The "Sell the News" Algorithm: We are battling the historical post-FOMC dump that has hit Bitcoin and the wider crypto market in 7 of the last 8 Fed meetings. Despite all of this, Bitcoin is defending the $70,000–$71,000 zone like a fortress. While the rest of the crypto market bleeds out, Bitcoin's dominance has surged back up above 56.5%. At Xapo Bank, we sit at the exact intersection of traditional finance and Bitcoin, and this price action is exactly what the institutionalization of an asset looks like. The smart money isn't panic-selling into a macro shock; they are treating Bitcoin as a foundational reserve asset. They are holding the line while retail gets shaken out. However, surviving this kind of volatility requires mature infrastructure. The days of leaving capital idle as a speculative chip, or taking catastrophic counterparty risks just to earn yield, are over. True institutionalization means treating Bitcoin with the same rigorous, regulated banking standards as major fiat currencies. Are you guys viewing this $70k defense as a temporary pause before a macro-driven drop, or is this the ultimate confirmation that Bitcoin has finally decoupled to act as a true digital safe haven?
 
-4h ago
+5h ago
 
 ---
 
-**[So close!!!](https://www.reddit.com/r/Bitcoin/comments/1s1jo90/so_close/)**
+**[Help me understand why Robinhood shows $70,700, buys at 70,050, and sells at 71,200?](https://www.reddit.com/r/Bitcoin/comments/1s1k26j/help_me_understand_why_robinhood_shows_70700_buys/)**
 
-0.991 BTC a bit moreeeee
-
-47m ago
-
----
-
-**[ICYMI the Broadcast last week - why bitcoin is a savings technology and not an investment, why DCA strategies are so powerful, keeping it boring and simple is the winning move in bitcoin ie produce value, save in bitcoin, hold in cold storage](https://www.reddit.com/r/Bitcoin/comments/1s1imy7/icymi_the_broadcast_last_week_why_bitcoin_is_a/)**
+I've traded insignificant amounts of BTC on Robinhood and noticed when I sold this morning, the price on the chart showed around $70,700. But when I go to sell, I can only sell for 70,050, while I can only buy for 71,200. That's like a 1% difference from what I expect from what i see on the price, and a 2% loss if I bought and sold at the same time.
 
 1h ago
 
 ---
 
-**[Bitcoin is not for emotionally unstable people](https://www.reddit.com/r/Bitcoin/comments/1s111e7/bitcoin_is_not_for_emotionally_unstable_people/)**
+**[Strategy Acquires 1,031 BTC and Now Holds 762,099 BTC](https://www.reddit.com/r/Bitcoin/comments/1s1kzqq/strategy_acquires_1031_btc_and_now_holds_762099/)**
 
-Tough time in the market never lasts, only tough people last!!!! auauauauau
+March 23, 2026
 
-16h ago
-
----
-
-**[🦏 CFTC Chairman Michael Selig just signaled a major shift in how the US will regulate Bitcoin and crypto.](https://www.reddit.com/r/Bitcoin/comments/1s1jyoi/cftc_chairman_michael_selig_just_signaled_a_major/)**
-
-36m ago
-
----
-
-**[Not the first... And not the last time either 🤣](https://www.reddit.com/r/Bitcoin/comments/1s10nrn/not_the_first_and_not_the_last_time_either/)**
-
-16h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-1031-btc-and-now-holds-762099-btc_03-23-2026) • 1h ago
 
 ---
 
@@ -159,7 +161,7 @@ Tough time in the market never lasts, only tough people last!!!! auauauauau
 
 Stocks look to be catching with BTC's earlier crash to nearly $60,000.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -167,7 +169,7 @@ CoinDesk • 10h ago
 
 Earlier deleveraging and continued institutional participation have helped keep Bitcoin more stable than other risk assets during the recent macro-driven selloff.
 
-Decrypt • 15h ago
+Decrypt • 16h ago
 
 ---
 
@@ -175,29 +177,23 @@ Decrypt • 15h ago
 
 Geoffrey Kendrick of Standard Chartered thinks Bitcoin is poised for an epic rally.
 
-The Motley Fool • 17m ago
+The Motley Fool • 1h ago
 
 ---
 
-**[Why bitcoin miners are losing $19,000 per coin](https://sg.finance.yahoo.com/video/why-bitcoin-miners-losing-19-150825365.html)**
+**[European Bitcoin Treasury H100 Aims to Triple BTC Stash by Acquiring Two Firms](https://finance.yahoo.com/markets/crypto/articles/european-bitcoin-treasury-h100-aims-163227414.html)**
 
-Bitcoin's average production costs hit $88,000 but the price of BTC has dipped under $69,000. This means that the average miner is losing a staggering $19,000 on every block. The energy crisis stemming from the conflict in the Middle East is forcing miners to sell their Bitcoin just to keep the lights on. Plus, retail capital rotates out of crypto in Korea and Hyperliquid sees a shift in trading behavior. CoinDesk's Jennifer Sanasie hosts CoinDesk Daily.
+The Swedish Bitcoin treasury firm signed a letter of intent to acquire Moonshot and Never Say Die in an all-stock deal.
 
-Yahoo Finance Singapore • 54m ago
-
----
-
-**[Strategy Tops up Capital-raising Plans, Bringing Potential Bitcoin Buying Power Back to $42 Billion](https://www.moomoo.com/news/post/67274388/strategy-tops-up-capital-raising-plans-bringing-potential-bitcoin-buying)**
-
-Moomoo • 56m ago
+Yahoo Finance • 53m ago
 
 ---
 
-**[Bitcoin rebounds above $70K as Trump cites 'productive' Iran talks, easing immediate escalation fears](https://www.theblock.co/post/394637/bitcoin-rebounds-above-70k-as-trump-cites-productive-iran-talks)**
+**[Bitcoin Is Headed to $500,000 According to This Wall Street Analyst and the Reasoning Is Hard to Dismiss](https://finance.yahoo.com/markets/crypto/articles/bitcoin-headed-500-000-according-160000919.html)**
 
-Markets remain sensitive to Middle East developments, with macro volatility and rate expectations shaping crypto price action.
+Geoffrey Kendrick of Standard Chartered thinks Bitcoin is poised for an epic rally.
 
-The Block • 4h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -205,19 +201,25 @@ The Block • 4h ago
 
 Trump said that the two countries held "very good and productive conversations regarding a complete and total resolution of our hostilities in the Middle East."
 
-CoinDesk • 29m ago
+CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin Drops Below $69,000 as War Fears Weigh on Crypto Markets](https://www.bloomberg.com/news/articles/2026-03-22/bitcoin-drops-below-69-000-as-war-fears-weigh-on-crypto-markets)**
+**[Bitcoin Rises After Trump Says to Postpone Iran Strikes](https://www.bloomberg.com/news/articles/2026-03-23/bitcoin-rises-after-trump-says-to-postpone-iran-strikes)**
 
-Bloomberg.com • 19h ago
+Bloomberg.com • 3h ago
+
+---
+
+**[Bitcoin Price Tops $70,000. XRP, Cryptos Lifted as Trump Delays Iran Strikes.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-cryto-trump-iran-f66315a0?gaa_at=eafs&gaa_n=AWEtsqebHjW3XK3oJYXW7MzIEB7FY5GunpzlwCigXCQ8b_a-EUNCKfTmipIT&gaa_ts=69c17b07&gaa_sig=w0SvcHgWz0o8bke2lmrG9Fv81S3bAv8gMqpB8C-iynUTKj00ocgwX2f-ApfOJl6XUYEPOzLIQUho_6U_0B_yOQ%3D%3D)**
+
+Barron's • 4h ago
 
 ---
 
 **[Saylor’s Strategy Returns to Common Stock for Latest Bitcoin Buy](https://www.bloomberg.com/news/articles/2026-03-23/saylor-s-strategy-returns-to-common-stock-for-latest-bitcoin-buy)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -225,7 +227,7 @@ Bloomberg.com • 2h ago
 
 Led by Executive Chairman Michael Saylor, Strategy acquired 1,031 bitcoin, bringing holdings to 762,099 coins.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -237,7 +239,7 @@ CoinDesk • 3h ago
 
 Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in. Proof that works without us.
 
-⬆️ 6 • 💬 0 • 3d ago • [Umarise](https://umarise.com/blog/proof-of-existence)
+⬆️ 6 • 💬 0 • 4d ago • [Umarise](https://umarise.com/blog/proof-of-existence)
 
 ---
 
@@ -267,7 +269,7 @@ Seal predictions and decisions with cryptographic proof anchored to Bitcoin. No 
 
 Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 33 chain analysis heuristics. Free, client-side, no tracking.
 
-⬆️ 1 • 💬 0 • 1d ago • [am-i.exposed](https://am-i.exposed/)
+⬆️ 1 • 💬 0 • 2d ago • [am-i.exposed](https://am-i.exposed/)
 
 ---
 
@@ -303,7 +305,7 @@ Bitcoin #Crypto #Finance Bitcoin is experiencing extreme volatility as prices sw
 
 📺 The Wolf Of All Streets
 
-👁️ 7K • 👍 641 • 💬 201 • ⏱️ 1:00:24 • 1h ago
+👁️ 7K • 👍 641 • 💬 201 • ⏱️ 1:00:24 • 3h ago
 
 ---
 
@@ -313,7 +315,7 @@ The situation just got 10 times worse for bitcoin, ethereum and the rest of cryp
 
 📺 Thomas Kralow
 
-👁️ 6K • 👍 2K • 💬 73 • ⏱️ 11:52 • 4h ago
+👁️ 6K • 👍 2K • 💬 73 • ⏱️ 11:52 • 5h ago
 
 ---
 
@@ -323,7 +325,7 @@ Bitcoin is pulling back but is this just a healthy correction or the start of so
 
 📺 Crypto Banter
 
-👁️ 6K • 👍 462 • 💬 18 • ⏱️ 23:31 • 6h ago
+👁️ 6K • 👍 462 • 💬 18 • ⏱️ 23:31 • 7h ago
 
 ---
 
@@ -333,7 +335,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Fol
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 215 • ⏱️ 36:30 • 21h ago
+👁️ 31K • 👍 2K • 💬 215 • ⏱️ 36:30 • 22h ago
 
 ---
 
@@ -343,7 +345,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRUs
 
-👁️ 8K • 👍 656 • 💬 217 • ⏱️ 47:58 • 1h ago
+👁️ 8K • 👍 656 • 💬 217 • ⏱️ 47:58 • 2h ago
 
 ---
 
@@ -393,7 +395,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 The Friel Family
 
-👁️ 2K • 👍 1K • 14m ago
+👁️ 2K • 👍 1K • 1h ago
 
 ---
 
