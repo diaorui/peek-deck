@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-22T23:54:30.040694+00:00'
+updated: '2026-03-23T02:25:47.214397+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 22, 2026 at 23:54 UTC  
+**Last Updated:** March 23, 2026 at 02:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,438.00
+### $67,886.50
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
-**7d:** -9.0%  
-**30d:** +0.2%  
-**90d:** -21.9%  
-**1y:** -20.7%  
+**24h:** -2.0%  
+**7d:** -8.0%  
+**30d:** +0.5%  
+**90d:** -22.6%  
+**1y:** -22.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1363.47B
+**Market Cap:** $1359.79B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--46.0%
+-46.1%
 
 **All-Time Low:** $67.81
-+100394.0%
++100165.4%
 
 ---
 
@@ -81,7 +81,15 @@ Rank #1
 
 Link to the Bitcoin history in El Zonte, but I'm sure you can find and share even better articles: https://wildcatsandblacksheep.com/the-salvadoran-beach-town-that-became-a-bitcoin-testbed/
 
-9h ago
+12h ago
+
+---
+
+**[Bitcoin is not for emotionally unstable people](https://www.reddit.com/r/Bitcoin/comments/1s111e7/bitcoin_is_not_for_emotionally_unstable_people/)**
+
+Tough time in the market never lasts, only tough people last!!!! auauauauau
+
+2h ago
 
 ---
 
@@ -89,7 +97,7 @@ Link to the Bitcoin history in El Zonte, but I'm sure you can find and share eve
 
 Sometimes it doesn't feel real that we're under $70K right now and have the opportunity to buy at this time. Looking back in a few years and we'll all wish that we had this chance again. I'm trying to get as much as I can right now because once that ship sails... It's gone my friends. Just putting the NOW in perspective. I always look back and regret not buying early, but not this time.
 
-10h ago
+12h ago
 
 ---
 
@@ -97,7 +105,15 @@ Sometimes it doesn't feel real that we're under $70K right now and have the oppo
 
 This is the situation: I had a friend send me btc over the years to Coinbase. There was a substantial amount there I sent it further to sell and i received, up until 2019. Then I left the remaining balance on Coinbase and didn't touch it. Well i logged in with same info and it recreated my account. Long story short, they deleted my account claiming there were no transactions in it EVER and it was inactive. Which is entirely untrue. I have email confirmations for every single transaction from Coinbase in my email account. The difference is for the btc i sent the notification is: "you sent x amount of btc to this xyz address". Based on the notification i can see the transaction on the blockchain, clearly indicating there were transactions. Unfortunately, and conveniently for Coinbase, the notification for receiving btc was just: "you received x amount of btc". Not stating from whom or nothing, so I can't find it on the blockchain. Anyway I've been talking to their support the whole day and thy continue claiming they deleted the account due to inactivity and 0 all time transactions, which again I've proven to them to not be the case. What can I do? I'm pretty certain there is a significant amount on there but I have no way of finding out specifically how much or retrieving this amount cause Coinbase support is awful. UPDATE: They magically found my transaction history now, and the balance is 0.
 
-8h ago
+10h ago
+
+---
+
+**[stop panicking and think about this logically](https://www.reddit.com/r/Bitcoin/comments/1s0zqvp/stop_panicking_and_think_about_this_logically/)**
+
+we're still getting over 1,100 sats per dollar right now. anyone freaking out needs to chill and remember to keep some cash on hand for times like this. always maintain a cash buffer so you never have to touch your bitcoin stack. everything's gonna work out fine. volatility is our friend here. if you thought 95k was a decent buy-in point, why are you stressed about this dip? going from 95k to 180k would be solid, but catching this 75-85k range for a ride to 180k is even sweeter. picking up anything from 25-55k for a potential 180k run would be incredible. been doing deliveries all week and every time i check the price i just see opportunity. as someone who spends half my time driving around the city looking for cool spots and birds, patience is everything. same logic applies here - you wait for teh right moment and then you act.
+
+3h ago
 
 ---
 
@@ -105,7 +121,23 @@ This is the situation: I had a friend send me btc over the years to Coinbase. Th
 
 About 10 years ago, I bought 0.2 Bitcoin out of curiosity, and recently I happened upon the document where I wrote down the information about it. There are a few user names and passwords that I don’t quite know what they are good for, so I installed Bluewallet (iOS) which asked me for a seed. So I entered this “seed“ phrase, which seems to be correct, and now I can see the balance (0.218797) in my BlueWallet wallet. 1) I guess this means that I could sell these 0.21…. Bitcoin if I wanted to (I don’t want to, it’s hypothetical)? Would I need a password? Im pretty sure i have the correct password, but how can I test this without actually selling anything? 2) I don’t understand where my 0.2… Bitcoin is stored. I think it’s not stored on my device, otherwise I wouldn’t need the seed phrase to access it, right? So how can I know where it is stored? 3) (Related to Q 2): If I wanted to buy a little more, how could I add that to my existing balance rather than creating a new wallet? Thanks in advance
 
-11h ago
+14h ago
+
+---
+
+**[State of Play: The Bitcoin De Minimis Tax Exemption | Bitcoin Policy Institute](https://www.reddit.com/r/Bitcoin/comments/1s0yfqg/state_of_play_the_bitcoin_de_minimis_tax/)**
+
+The Bitcoin Policy Institute breaks down the state of play on the bitcoin de minimis tax exemption, including the Lummis standalone bill, the stablecoin-only pivot in the Miller/Horsford PARITY Act, and BPI's coalition effort to ensure Congress extends relief to bitcoin users before the legislative window closes.
+
+🔗 [btcpolicy.org](https://www.btcpolicy.org/articles/the-bitcoin-de-minimis-tax-exemption) • 4h ago
+
+---
+
+**[What's everyone's opinions about using online wallets like Electrum or Exodus? Are they safe?](https://www.reddit.com/r/Bitcoin/comments/1s0yxnl/whats_everyones_opinions_about_using_online/)**
+
+I understand that keeping coins on an exchange is bad but what about online wallets? Can these be a good option?
+
+4h ago
 
 ---
 
@@ -113,47 +145,15 @@ About 10 years ago, I bought 0.2 Bitcoin out of curiosity, and recently I happen
 
 Hey everyone, Just surpassed my first xxx amount of BTC. However im using a Ledger Nano s plus that I got off of Amazon to store it all. I know I shouldn't have done that but you live and you learn. I generated my own passphrase and everything. So it wasnt pre seeded, and I pass all authenticity tests. My question is, should I move my funds off of my Ledger? Or is it safe for now? I know open source is preferred, but is it worth spending ~300-400 CAD on a coldcard mq, jade plus, etc? Or am I better sitting with my Ledger for now? Tbh id rather put extra cash into more BTC, but I know security is the most important. Cheers  [comments]
 
-4h ago
-
----
-
-**[Lost BTC wallet from 2013](https://www.reddit.com/r/Bitcoin/comments/1s0at4i/lost_btc_wallet_from_2013/)**
-
-Hey all, I have a friend who is definitely not tech-savvy who mentioned that she bought about 20 BTC as a joke in 2013. She says she documented all of the procedures and passwords at the behest of a tech friend she doesn't speak to any longer. She also still has the laptop from 2013 that she apparently did all this with, which doesn't seem to boot up. I did help her find the exchange she used and confirmed through the log that she sent 16.1 BTC to this wallet of hers. I have been researching the common wallets and am not sure if she had a web-based or software-based wallet. I believe (hoping) it was software-based and found the top five from that time. Apparently the web-based wallets suffered a high casualty rate. So it seems like it would be best to get the original laptop working again, even though she said she backed it up, the Bitcoin-related data was apparently on a different partition and I don't think she backed up that partition, as she just did time machine backups. Seems like a good next step? Thanks in advance.
-
-20h ago
-
----
-
-**[Why the SEC’s "Commodity" classification is actually a massive win for BTC (and what’s next)](https://www.reddit.com/r/Bitcoin/comments/1s0qjmn/why_the_secs_commodity_classification_is_actually/)**
-
-We’ve all seen the headlines that the SEC and CFTC finally put it in writing: BTC is a commodity. But most of the coverage stops there. I spent the last few days digging into the mechanics of the March 17 joint release to figure out what actually changes for the average holder. I broke down: The Howey Test Deathblow: Why this ruling officially moves BTC out of the "unregistered security" danger zone that haunts other projects. The Institutional Unlock: How this simplifies life for ETFs, miners, and custodians who now have a clear regulatory framework. The CLARITY Act: Why this is the "final boss" of legislation that will lock this classification in permanently. I put together a full explainer on the mechanics here:BTC Is a Commodity: SEC Ruling Explained TL;DR: It’s not just a label—it’s the regulatory green light the industry has been waiting for to move past the "security" debate once and for all.
-
 7h ago
 
 ---
 
-**[Morgan Stanley's Bitcoin ETF To Trade As 'MSBT' On NYSE. Likely to funnel more capital into BTC than all other Bitcoin ETF's combined.](https://www.reddit.com/r/Bitcoin/comments/1s04ah4/morgan_stanleys_bitcoin_etf_to_trade_as_msbt_on/)**
+**[Bitcoin today: a time of 'extreme fear'.](https://www.reddit.com/r/Bitcoin/comments/1s13mvu/bitcoin_today_a_time_of_extreme_fear/)**
 
-Morgan Stanley allows clients to allocate between 0-4% of their portfolioa to bitcoin. Even a modest 2% could add $160 Billion dollars in capital to the BTC market.
+Bitcoin today... it’s exactly what the old saying describes: a time of 'extreme fear'.
 
-🔗 [Bitcoin Magazine](https://share.google/eNr25Ee6vq1fB2Lv1) • 1d ago
-
----
-
-**[Where do you get your financial news?](https://www.reddit.com/r/Bitcoin/comments/1s0r7lu/where_do_you_get_your_financial_news/)**
-
-I’ve been investing for more than a year now but still struggle to find reliable sources to get news from. I’m not one to sit and watch news on the tv all day. Where do you find your financial news?
-
-6h ago
-
----
-
-**[There won't be a second date but at least she knows about the Blocksize War and how the Lightning Network works](https://www.reddit.com/r/Bitcoin/comments/1s012lr/there_wont_be_a_second_date_but_at_least_she/)**
-
-An excellent book about all the details, even people who fought the Blocksize war might have missed: https://www.youtube.com/watch?v=6YtS5ZNuuTw And excellent explanation of r/thelightningnetwork: https://www.youtube.com/watch?v=yKdK-7AtAMQ A bonus video. Lyn Alden's Full Broken Money Thesis in under 50min: https://www.youtube.com/watch?v=k3NN_NZOdhY
-
-1d ago
+52m ago
 
 ---
 
@@ -165,7 +165,7 @@ An excellent book about all the details, even people who fought the Blocksize wa
 
 Rising real rates and inflation risks weigh on gold, while bitcoin continues to consolidate.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -175,19 +175,11 @@ Forbes • 1d ago
 
 ---
 
-**[New Crypto: Pepeto Reveals Ecosystem Expansion And Bitcoin Price Eyes Recovery While Dogecoin Jumps on Elon Musk X Money News](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-reveals-ecosystem-expansion-and-bitcoin-price-eyes-recovery-while-dogecoin-jumps-on-elon-musk-x-money-news-1035952589)**
+**[Bitcoin Price Slides but Holds Up Better Than Stocks as Oil Shock Continues](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-slides-holds-better-004136269.html)**
 
-Dubai, UAE, March  22, 2026  (GLOBE NEWSWIRE) -- The Pepeto team just revealed a full ecosystem expansion covering the DeFi exchange, multi chain ...
+Earlier deleveraging and continued institutional participation have helped keep Bitcoin more stable than other risk assets during the recent macro-driven selloff.
 
-markets.businessinsider.com • 2h ago
-
----
-
-**[$Bitcoin (BTC.CC)$](https://www.moomoo.com/community/feed/bitcoin-btc-cc-116275347783685)**
-
-@Ultra Thinker2000 Views|4 Likes
-
-Moomoo • 38m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -195,21 +187,21 @@ Moomoo • 38m ago
 
 Dubai, UAE, March  22, 2026  (GLOBE NEWSWIRE) -- Pepeto just passed the $8.28M mark, and the project is growing faster than anything the meme coin...
 
-markets.businessinsider.com • 1h ago
+markets.businessinsider.com • 3h ago
+
+---
+
+**[$Bitcoin (BTC.CC)$](https://www.moomoo.com/community/feed/bitcoin-btc-cc-116275571589929)**
+
+@Taking Prophet7461 Views|1 Like
+
+Moomoo • 2h ago
 
 ---
 
 **[Bitcoin Drops Below $69,000 as War Fears Weigh on Crypto Markets](https://www.bloomberg.com/news/articles/2026-03-22/bitcoin-drops-below-69-000-as-war-fears-weigh-on-crypto-markets)**
 
-Bloomberg.com • 3h ago
-
----
-
-**[Bitcoin Already Rising To Quantum Threat, Says Galaxy — So What Is Most At Risk?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-already-rising-quantum-threat-123215286.html)**
-
-Risk is real but limited today, says Galaxy. Bitcoin is already preparing, the firm found. Debate remains divided. Bitcoin may already be adapting to the ...
-
-Yahoo Finance • 11h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -217,7 +209,15 @@ Yahoo Finance • 11h ago
 
 For buy-and-hold investors, these three cryptocurrencies could be the key to turbocharging portfolio returns.
 
-The Motley Fool • 11h ago
+The Motley Fool • 14h ago
+
+---
+
+**[This Lee restaurant is now accepting bitcoin to pay for meals. Here's how that works](https://www.berkshireeagle.com/news/southern_berkshires/cafe-triskele-accepts-bitcoin/article_d9c0a6f8-c10e-4773-be63-b7a4b3f3a6a3.html)**
+
+With Bitcoin and other cryptocurrency tokens becoming more accepted, retailers are beginning to accept them as forms of payment. Café Triskele in Lee the first restaurant in Berkshire County to
+
+The Berkshire Eagle • 1d ago
 
 ---
 
@@ -229,11 +229,11 @@ Le Monde.fr • 1d ago
 
 ---
 
-**[Bitcoin long-term holder selling slows, signaling 'potentially constructive' trend: VanEck](https://www.theblock.co/post/394467/bitcoin-long-term-holder-activity-slows-vaneck)**
+**[Phong Le Calls Morgan Stanley’s BTC ETF a “Monster Bitcoin” Bet With $160 Billion Potential](https://bitcoinmagazine.com/news/phong-le-calls-morgan-stanleys-bitcoin)**
 
-VanEck's latest report noted that the selling pressure among bitcoin miners remained steady despite a decline in profitability.
+The president and CEO of Strategy said Morgan Stanley’s upcoming bitcoin ETF could unlock as much as $160 billion in demand under a modest portfolio allocation scenario.
 
-The Block • 2d ago
+Bitcoin Magazine • 2d ago
 
 ---
 
@@ -253,7 +253,7 @@ Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in
 
 Difficulty is now nearly 10% below where it started the year, despite a sharp 14.7% rebound in February after weather-related disruptions subsided.
 
-⬆️ 5 • 💬 1 • 18h ago • [The Block](https://www.theblock.co/post/394579/bitcoin-mining-difficulty-drops-7-8-as-miner-exodus-accelerates-amid-ai-pivot)
+⬆️ 5 • 💬 1 • 20h ago • [The Block](https://www.theblock.co/post/394579/bitcoin-mining-difficulty-drops-7-8-as-miner-exodus-accelerates-amid-ai-pivot)
 
 ---
 
@@ -311,7 +311,7 @@ Things are heating up Check out Ledn: https://aaronbtc.com/ledn ChangeNOW: https
 
 📺 Aaron Bennett
 
-👁️ 8K • 👍 427 • 💬 63 • ⏱️ 9:35 • 14h ago
+👁️ 8K • 👍 450 • 💬 89 • ⏱️ 9:35 • 17h ago
 
 ---
 
@@ -321,27 +321,7 @@ Bitcoin just scored a massive regulatory win that changes everything for develop
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 148 • ⏱️ 21:11 • 1d ago
-
----
-
-**[Why Bitcoin Could Explode As Global Markets Crack](https://www.youtube.com/watch?v=yFa1iAAk7Bg)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 53K • 👍 2K • 💬 129 • ⏱️ 59:39 • 1d ago
-
----
-
-**[&quot;Bitcoin Is Following A Pattern Nobody Wants To Admit&quot; | Anthony Scaramucci](https://www.youtube.com/watch?v=KXaqFMV4jKM)**
-
-Bitcoin #Crypto #Finance Anthony Scaramucci says this Bitcoin pullback may be far more normal than it feels — and he still sees ...
-
-📺 The Wolf Of All Streets
-
-👁️ 19K • 👍 887 • 💬 156 • ⏱️ 30:41 • 10h ago
+👁️ 30K • 👍 2K • 💬 117 • ⏱️ 21:11 • 1d ago
 
 ---
 
@@ -351,7 +331,37 @@ Watch the full episode here: https://youtu.be/7cW2PCPA8kY. Ben Cowen explains th
 
 📺 Market Disruptors Podcast
 
-👁️ 3K • 👍 179 • 💬 38 • ⏱️ 7:18 • 8h ago
+👁️ 5K • 👍 221 • 💬 61 • ⏱️ 7:18 • 10h ago
+
+---
+
+**[Why Bitcoin Could Explode As Global Markets Crack](https://www.youtube.com/watch?v=yFa1iAAk7Bg)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 54K • 👍 2K • 💬 129 • ⏱️ 59:39 • 1d ago
+
+---
+
+**[&quot;Bitcoin Is Following A Pattern Nobody Wants To Admit&quot; | Anthony Scaramucci](https://www.youtube.com/watch?v=KXaqFMV4jKM)**
+
+Bitcoin #Crypto #Finance Anthony Scaramucci says this Bitcoin pullback may be far more normal than it feels — and he still sees ...
+
+📺 The Wolf Of All Streets
+
+👁️ 22K • 👍 964 • 💬 185 • ⏱️ 30:41 • 13h ago
+
+---
+
+**[Owning Just .01 Bitcoin Will Be Life-Changing In 10 Years](https://www.youtube.com/watch?v=3SNvCekym4Q)**
+
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Follow Brandon: https://x.com/BranBTC Buy, ...
+
+📺 Altcoin Daily
+
+👁️ 16K • 👍 1K • 💬 127 • ⏱️ 36:30 • 7h ago
 
 ---
 
@@ -361,17 +371,7 @@ Bitcoin just went live at millions of businesses without anyone opting in. While
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 150 • ⏱️ 12:51 • 2d ago
-
----
-
-**[STRATEGY IS DRIVING BITCOIN TO $1 MILLION - 2026 WILL BE INSANE!](https://www.youtube.com/watch?v=7zCOB3CDTEU)**
-
-Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant Home Equity into Bitcoin with Horizon: ...
-
-📺 Adam Livingston
-
-👁️ 11K • 👍 1K • 💬 148 • ⏱️ 26:42 • 1d ago
+👁️ 24K • 👍 2K • 💬 151 • ⏱️ 12:51 • 2d ago
 
 ---
 
@@ -381,7 +381,7 @@ Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant 
 
 📺 Altcoin Daily
 
-👁️ 11K • 👍 332 • 💬 55 • ⏱️ 1:06 • 2d ago
+👁️ 12K • 👍 335 • 💬 57 • ⏱️ 1:06 • 2d ago
 
 ---
 
@@ -391,17 +391,15 @@ A classic case of the bear market blues for Bitcoin. Into The Cryptoverse Premiu
 
 📺 Benjamin Cowen
 
-👁️ 67K • 👍 4K • 💬 208 • ⏱️ 11:38 • 2d ago
+👁️ 68K • 👍 4K • 💬 208 • ⏱️ 11:38 • 2d ago
 
 ---
 
-**[Bitcoin Live Trading: This Level Won’t Hold! Breakout or Breakdown?! EP1944](https://www.youtube.com/watch?v=adokQhwvBcI)**
+**[😱XRP ETF IN SERIOUS TROUBLE! ZERO INFLOWS OR OUTFLOW RECORDED #bitcoin #crypto #xrp](https://www.youtube.com/watch?v=ACQ3uWr4Noo)**
 
-Bitcoin Vegas 2026: https://fxo.co/JAmn Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ...
+📺 CryptoWendyO
 
-📺 Crypto Lifer
-
-👁️ 5K • 👍 339 • 💬 37 • ⏱️ 1:10:20 • 22h ago
+👁️ 10K • 👍 546 • 💬 21 • ⏱️ 2:00 • 2d ago
 
 ---
 
