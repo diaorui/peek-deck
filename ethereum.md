@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-23T11:24:00.786095+00:00'
+updated: '2026-03-23T12:02:29.995453+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - social
-- news
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 23, 2026 at 11:24 UTC  
+**Last Updated:** March 23, 2026 at 12:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 An attacker minted $80M in unbacked USR stablecoins using just $200K, crashing the token 62%. The GENIUS Act was supposed to prevent exactly this.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/resolv-usr-stablecoin-80-million-unauthorized-mint-2026/) • 13h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/resolv-usr-stablecoin-80-million-unauthorized-mint-2026/) • 14h ago
 
 ---
 
@@ -88,7 +88,7 @@ An attacker minted $80M in unbacked USR stablecoins using just $200K, crashing t
 
 Most conversations around ETH are about trading, staking yields, or long-term positioning. That’s fine, but I’m more interested in actual usage. Where does ETH realistically make sense outside of speculation? From what I’ve seen, it shows up most in DeFi, NFTs, and certain online services; but even then, gas fees can make smaller transactions feel inefficient. It’s not always obvious where ETH fits as something you use rather than just hold or lock up. I’ve experimented a bit with different use cases, mostly around digital services and entertainment. Some platforms are clearly designed with ETH in mind, while others just support it as an extra option without really optimizing the experience. A few setups, like Metaspins, seem to lean more into direct crypto usage, but even there it depends on fees, timing, and how smooth the process actually is. So I want to know. What are you using ETH for right now that feels practical, not just theoretical?
 
-3h ago
+4h ago
 
 ---
 
@@ -104,19 +104,19 @@ Been using Ethereum for years and I'm happy with the roadmap, but L2s are starti
 
 US SEC securities laws application to crypto, fast confirmation rule, EF mandate
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-16/) • 11h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-16/) • 12h ago
 
 ---
 
 **[Ethereum Cuts Bridge Times by 98%](https://www.reddit.com/r/ethereum/comments/1s0mzw8/ethereum_cuts_bridge_times_by_98/)**
 
-🔗 [financefeeds.com](https://financefeeds.com/crypto-news-ethereum-cuts-bridge-times-by-98-while-pepeto-hands-early-believers-100x-presale-gains/) • 20h ago
+🔗 [financefeeds.com](https://financefeeds.com/crypto-news-ethereum-cuts-bridge-times-by-98-while-pepeto-hands-early-believers-100x-presale-gains/) • 21h ago
 
 ---
 
 **[x402s now has state channels](https://www.reddit.com/r/ethereum/comments/1s0yi3u/x402s_now_has_state_channels/)**
 
-🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2035835465354322316) • 13h ago
+🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2035835465354322316) • 14h ago
 
 ---
 
@@ -164,7 +164,7 @@ Barron's • 3h ago
 
 **[Bitcoin, Ethereum, XRP Fall After Trump Iran Ultimatum. Why Crypto’s Tied to the War.](https://www.barrons.com/livecoverage/stock-market-news-today-032326/card/bitcoin-ethereum-xrp-fall-after-trump-iran-ultimatum-why-crypto-s-tied-to-the-war--eDwIzcRlKGCVCgohbA7p?gaa_at=eafs&gaa_n=AWEtsqe6I2Zk2oJJSqEfCBEh7v5IIV71VLXmFXpMldGhwL_HsO2CtzvyKfAo&gaa_ts=69c1263b&gaa_sig=yfVeJO7uXriNqeDuorBAcwGBhhgTYLiN811nPjwYHdZvl3Lae3-KYjmYftX7GE4G_UJqQS6rlgacQndcGOe0dQ%3D%3D)**
 
-Barron's • 2h ago
+Barron's • 3h ago
 
 ---
 
@@ -172,7 +172,7 @@ Barron's • 2h ago
 
 Cryptocurrency analyst Ali Martinez said on Thursday that Ethereum has entered a generational “Buy Zone,” hinting at major bull runs on the horizon. What History Says In an X post, Martinez pointed out that Ethereum’s Market Value to Realized Value...
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -188,7 +188,7 @@ TradingView • 1d ago
 
 Dubai, UAE, March  22, 2026  (GLOBE NEWSWIRE) -- Pepeto just moved its Binance listing into the final round, and the presale has gone viral with i...
 
-markets.businessinsider.com • 13h ago
+markets.businessinsider.com • 14h ago
 
 ---
 
@@ -204,7 +204,7 @@ Fortune • 2d ago
 
 Ethereum Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 22h ago
+Polymarket • 23h ago
 
 ---
 
@@ -240,7 +240,7 @@ BITCOIN DUMP EXPLAINED (Price Target Hit)!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 6K • 👍 287 • 💬 126 • ⏱️ 17:12 • 10h ago
+👁️ 6K • 👍 287 • 💬 126 • ⏱️ 17:12 • 11h ago
 
 ---
 
@@ -260,7 +260,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 82 • 💬 2 • ⏱️ 4:11 • 12h ago
+👁️ 1K • 👍 82 • 💬 2 • ⏱️ 4:11 • 13h ago
 
 ---
 
@@ -280,7 +280,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 150 • 💬 6 • ⏱️ 4:00 • 20h ago
+👁️ 2K • 👍 150 • 💬 6 • ⏱️ 4:00 • 21h ago
 
 ---
 
@@ -290,7 +290,7 @@ Welcome to Episode 20 of Crypto Technical Weekly Update — your #1 weekly deep 
 
 📺 Delta Exchange
 
-👁️ 301 • 👍 35 • 💬 1 • ⏱️ 7:17 • 2h ago
+👁️ 301 • 👍 35 • 💬 1 • ⏱️ 7:17 • 3h ago
 
 ---
 
@@ -300,7 +300,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 595 • 💬 77 • ⏱️ 7:21 • 6h ago
+👁️ 3K • 👍 595 • 💬 77 • ⏱️ 7:21 • 7h ago
 
 ---
 

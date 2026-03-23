@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-23T11:24:00.771738+00:00'
+updated: '2026-03-23T12:02:29.980340+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- repositories
 - social
 - news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 23, 2026 at 11:24 UTC  
+**Last Updated:** March 23, 2026 at 12:02 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ MiMo-V2-Flash is open source, scores 73.4% on SWE-Bench (#1 among open source mo
 
 I work as a freelance content creator and videographer and I've been integrating various AI tools into my workflow since late last year, not because I'm an AI enthusiast but because my clients keep asking about them and I figured I should actually understand what these tools can and can't do before I have opinions about them here's my honest assessment after 6 months of daily use across real client projects: where AI tools are genuinely useful right now: style transfer and visual experimentation, this is the clearest win, tools like magic hour and runway let me show clients 5 different visual approaches to their content in 20 minutes instead of spending 3 hours manually grading reference versions, even if the final product is still done traditionally the speed of previsualization has changed how I work background removal and basic compositing, what used to take careful rotoscoping can now be done in seconds for most use cases, not perfect for complex edges but for 80% of social media content it's more than good enough audio cleanup, tools like adobe's AI audio enhancement have saved me on multiple projects where the production audio was rough, this one doesn't get enough attention but it's probably the most practically useful AI application in my workflow where it's still overhyped: full video generation from text prompts, I've tried sora and veo and kling and honestly the outputs are impressive as tech demos but unusable for real client work 90% of the time, the uncanny valley is real and audiences can tell AI editing and automatic cuts, every tool that promises to "edit your video automatically" produces output that feels like it was edited by someone who's never watched a movie, the pacing is always wrong face and body generation for any sustained use, consistency across multiple generations is still a massive problem, anyone telling you they can run a "virtual influencer" without significant manual intervention is leaving out the hours of regeneration and cherry-picking the honest summary: AI is extremely useful as a productivity tool that speeds up specific parts of my existing workflow, it is not useful as a replacement for creative decision-making and it's nowhere close to replacing human editors, cinematographers, or content strategists anyone else working professionally with these tools want to share their honest assessment because I think the conversation is too polarized between "AI will replace everything" and "AI is worthless" when the reality is way more nuanced
 
-54m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ I work as a freelance content creator and videographer and I've been integrating
 
 Lately, I’ve had a strong feeling that AI is being inflated more and more like a bubble. What especially stands out is that right now a huge amount of investor attention and capital seems to be flowing into AI above almost everything else. For many startups, it feels like simply adding the word “AI” to a pitch is enough to get far more interest than companies in other sectors. That’s what makes me think about the dot-com era. Back then, the internet was also a real technological shift. It changed the world. But at the same time, it attracted massive speculation, irrational expectations, weak business models, and money chasing hype faster than fundamentals. And that’s exactly why I’m wondering whether we may be watching a similar pattern again. I’m not saying AI is fake. It clearly isn’t. AI already has real use cases in engineering, research, automation, design, customer support, and a lot more. But real technology can still be surrounded by a financial bubble. What concerns me is the scale of enthusiasm, pricing, and investor concentration. It increasingly feels like many investors are treating AI as the only place worth putting money right now, and historically that kind of one-directional excitement does not always end well. So my question is: Are we in an AI bubble that could eventually correct the way the dot-com bubble did? Or is this different because AI already has stronger real-world adoption and monetization than most dot-com companies ever had? I’d be interested to hear views from people coming from tech, venture, public markets, or economic history.
 
-2h ago
+3h ago
 
 ---
 
@@ -81,13 +81,13 @@ Lately, I’ve had a strong feeling that AI is being inflated more and more like
 
 Im 24 m,and I really can't carry the conversation in real, so I find myself talking to chatgpt or claude I even tried to make myself ai companion but it's not that great ,just curious do you guys do like what I did ?
 
-50m ago
+1h ago
 
 ---
 
 **[UK cops suspend live facial recog as study finds racial bias](https://www.reddit.com/r/artificial/comments/1s1d6tz/uk_cops_suspend_live_facial_recog_as_study_finds/)**
 
-51m ago
+1h ago
 
 ---
 
@@ -101,7 +101,7 @@ Im 24 m,and I really can't carry the conversation in real, so I find myself talk
 
 How to Make Claude, Codex, and Gemini Collaborate on Your Codebase | AiFeed24 https://share.google/oxBVZtWgMSgdg6uQX
 
-18m ago
+57m ago
 
 ---
 
@@ -119,7 +119,7 @@ I am a painter with work at MoMA and the Met. I just published 50 years of my wo
 
 **[Exclusive | Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO](https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5?gaa_at=eafs&gaa_n=AWEtsqeL66LRB0PcoOq-ULdYvS5tMphV1kJ2YIV4f7xteaawSR-CRH97_Yz1&gaa_ts=69c12639&gaa_sig=jmPjtSe-P2SMDc03xys4P3zPQnZjGX5_bvCyHOPThcxRqJCXxeVxELHEZA-l-U2oH6nAyGrhmC5qKX5SbjfXlQ%3D%3D)**
 
-WSJ • 12h ago
+WSJ • 13h ago
 
 ---
 
@@ -127,13 +127,13 @@ WSJ • 12h ago
 
 At Nvidia's GTC conference this week, CEO Nvidia Jensen Huang dedicated a major part of his keynote to OpenClaw, a technology that didn't exist six months ago.
 
-CNBC • 1d ago
+CNBC • 2d ago
 
 ---
 
 **[Nvidia, Emerald AI team with energy companies on "flexible" data centers](https://www.axios.com/2026/03/23/utilities-nvidia-emerald-ai-data-centers)**
 
-Axios • 20m ago
+Axios • 59m ago
 
 ---
 
@@ -141,7 +141,7 @@ Axios • 20m ago
 
 As data center developers queue up to connect to power grids across Europe, network operators are experimenting with novel ways of clearing room for them.
 
-WIRED • 2h ago
+WIRED • 3h ago
 
 ---
 
@@ -149,7 +149,7 @@ WIRED • 2h ago
 
 Public utilities aren’t equipped to deal with the massive increase in energy demands from AI.
 
-The Washington Post • 58m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -157,7 +157,7 @@ The Washington Post • 58m ago
 
 AI agents can now handle procurement, compliance, and cross-border logistics for a single founder. The "execution wall" is collapsing.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
@@ -165,7 +165,7 @@ Fortune • 1h ago
 
 More than 20% of Berkshire Hathaway's $313 billion of invested assets can be traced back to a trio of market-leading artificial intelligence (AI) stocks.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -173,7 +173,7 @@ The Motley Fool • 1h ago
 
 Vibe coding and what it means for the future of programming, explained.
 
-Vox • 24m ago
+Vox • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ BBC • 1d ago
 
 Readers respond to two guest essays about the changes that artificial intelligence will wreak on the work force. Also: The shoes of the Trump men.
 
-The New York Times • 22h ago
+The New York Times • 23h ago
 
 ---
 
@@ -286,7 +286,7 @@ White House science advisor Michael Kratsios discusses the Trump administration'
 
 📺 Fox News Clips
 
-👁️ 29K • 👍 609 • 💬 165 • ⏱️ 4:08 • 9h ago
+👁️ 29K • 👍 609 • 💬 165 • ⏱️ 4:08 • 10h ago
 
 ---
 
@@ -346,7 +346,7 @@ Grok AI stopped working for free? In this video I found 7 Secret FREE AI Video G
 
 📺 zapiwala ai
 
-👁️ 4K • 👍 216 • 💬 26 • ⏱️ 3:57 • 10h ago
+👁️ 4K • 👍 216 • 💬 26 • ⏱️ 3:57 • 11h ago
 
 ---
 
@@ -665,7 +665,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 13.0k • 🔱 1.6k • 1h ago
+⭐ 13.0k • 🔱 1.6k • 2h ago
 
 ---
 
@@ -695,7 +695,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 10.4k • 🔱 534 • 1h ago
+⭐ 10.4k • 🔱 534 • 2h ago
 
 ---
 
@@ -715,7 +715,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 4.9k • 🔱 401 • 1h ago
+⭐ 4.9k • 🔱 401 • 2h ago
 
 ---
 
@@ -735,7 +735,7 @@ OpenShell is the safe, private runtime for autonomous AI agents.
 
 `Rust`
 
-⭐ 3.3k • 🔱 327 • 6h ago
+⭐ 3.3k • 🔱 327 • 7h ago
 
 ---
 

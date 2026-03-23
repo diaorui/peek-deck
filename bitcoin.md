@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-23T11:24:00.780203+00:00'
+updated: '2026-03-23T12:02:29.988903+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - social
-- news
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 23, 2026 at 11:24 UTC  
+**Last Updated:** March 23, 2026 at 12:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Link to the Bitcoin history in El Zonte, but I'm sure you can find and share even better articles: https://wildcatsandblacksheep.com/the-salvadoran-beach-town-that-became-a-bitcoin-testbed/
 
-21h ago
+22h ago
 
 ---
 
@@ -97,7 +97,7 @@ I found a hidden mathematical relationship in Bitcoin's fundamental constants th
 
 I am new to crypto, what would have caused this?
 
-11m ago
+49m ago
 
 ---
 
@@ -105,7 +105,7 @@ I am new to crypto, what would have caused this?
 
 Tough time in the market never lasts, only tough people last!!!! auauauauau
 
-11h ago
+12h ago
 
 ---
 
@@ -113,7 +113,7 @@ Tough time in the market never lasts, only tough people last!!!! auauauauau
 
 Bitcoin today... it’s exactly what the old saying describes: a time of 'extreme fear'.
 
-9h ago
+10h ago
 
 ---
 
@@ -127,7 +127,7 @@ Bitcoin today... it’s exactly what the old saying describes: a time of 'extrem
 
 Sometimes it doesn't feel real that we're under $70K right now and have the opportunity to buy at this time. Looking back in a few years and we'll all wish that we had this chance again. I'm trying to get as much as I can right now because once that ship sails... It's gone my friends. Just putting the NOW in perspective. I always look back and regret not buying early, but not this time.
 
-21h ago
+22h ago
 
 ---
 
@@ -143,7 +143,7 @@ Here's a video breakdown of a bunch of private credit loans that went from AAA-r
 
 This is the situation: I had a friend send me btc over the years to Coinbase. There was a substantial amount there I sent it further to sell and i received, up until 2019. Then I left the remaining balance on Coinbase and didn't touch it. Well i logged in with same info and it recreated my account. Long story short, they deleted my account claiming there were no transactions in it EVER and it was inactive. Which is entirely untrue. I have email confirmations for every single transaction from Coinbase in my email account. The difference is for the btc i sent the notification is: "you sent x amount of btc to this xyz address". Based on the notification i can see the transaction on the blockchain, clearly indicating there were transactions. Unfortunately, and conveniently for Coinbase, the notification for receiving btc was just: "you received x amount of btc". Not stating from whom or nothing, so I can't find it on the blockchain. Anyway I've been talking to their support the whole day and thy continue claiming they deleted the account due to inactivity and 0 all time transactions, which again I've proven to them to not be the case. What can I do? I'm pretty certain there is a significant amount on there but I have no way of finding out specifically how much or retrieving this amount cause Coinbase support is awful. UPDATE: They magically found my transaction history now, and the balance is 0.
 
-19h ago
+20h ago
 
 ---
 
@@ -151,7 +151,7 @@ This is the situation: I had a friend send me btc over the years to Coinbase. Th
 
 IT WENT UP PEOPLE! IT WENT UP!!!
 
-4m ago
+43m ago
 
 ---
 
@@ -163,7 +163,7 @@ IT WENT UP PEOPLE! IT WENT UP!!!
 
 Stocks look to be catching with BTC's earlier crash to nearly $60,000.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -183,13 +183,13 @@ Moomoo • 1h ago
 
 Bitcoin shows early signs of outperformance against gold, with the BTC gold ratio rebounding toward 16 ounces after a steep cycle drawdown.
 
-CoinDesk • 34m ago
+CoinDesk • 1h ago
 
 ---
 
 **[White House Quietly Confirms A ‘Major’ Crypto Milestone As Bitcoin Braces For A Huge Price Earthquake](https://www.forbes.com/sites/digital-assets/2026/03/21/white-house-quietly-confirms-a-major-crypto-milestone-as-bitcoin-braces-for-a-huge-price-earthquake/)**
 
-Forbes • 1d ago
+Forbes • 2d ago
 
 ---
 
@@ -211,7 +211,7 @@ Le Monde.fr • 2d ago
 
 **[Gold and Silver Wipe Out $2 Trillion on Monday Market Opening, Will Bitcoin and Crypto Follow?](https://www.ccn.com/news/crypto/gold-silver-wipe-out-2t-monday-will-bitcoin-follow/)**
 
-CCN.com • 16m ago
+CCN.com • 55m ago
 
 ---
 
@@ -305,7 +305,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Fol
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 1K • 💬 147 • ⏱️ 36:30 • 16h ago
+👁️ 26K • 👍 1K • 💬 147 • ⏱️ 36:30 • 17h ago
 
 ---
 
@@ -325,7 +325,7 @@ Bitcoin #Crypto #Finance Anthony Scaramucci says this Bitcoin pullback may be fa
 
 📺 The Wolf Of All Streets
 
-👁️ 27K • 👍 1K • 💬 204 • ⏱️ 30:41 • 22h ago
+👁️ 27K • 👍 1K • 💬 204 • ⏱️ 30:41 • 23h ago
 
 ---
 
@@ -355,7 +355,7 @@ Watch the full episode here: https://youtu.be/7cW2PCPA8kY. Ben Cowen explains th
 
 📺 Market Disruptors Podcast
 
-👁️ 7K • 👍 298 • 💬 94 • ⏱️ 7:18 • 19h ago
+👁️ 7K • 👍 298 • 💬 94 • ⏱️ 7:18 • 20h ago
 
 ---
 
@@ -365,7 +365,7 @@ Bitcoin is pulling back but is this just a healthy correction or the start of so
 
 📺 Crypto Banter
 
-👁️ 1K • 👍 139 • ⏱️ 23:31 • 1h ago
+👁️ 1K • 👍 139 • ⏱️ 23:31 • 2h ago
 
 ---
 
@@ -385,7 +385,7 @@ Full uncensored livestream daily on Rumble: https://rumble.com/c/BitcoinNewsAler
 
 📺 Bitcoin News Alerts
 
-👁️ 1K • 👍 93 • 💬 96 • ⏱️ 22:30 • 12h ago
+👁️ 1K • 👍 93 • 💬 96 • ⏱️ 22:30 • 13h ago
 
 ---
 

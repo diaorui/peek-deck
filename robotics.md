@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-23T11:24:00.789342+00:00'
+updated: '2026-03-23T12:02:29.998764+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 23, 2026 at 11:24 UTC  
+**Last Updated:** March 23, 2026 at 12:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Asimov is an open-source humanoid robot we're building at Menlo Research. We've already open-sourced Asimov v0 (the legs) and plan to open-source Asimov v1 (the full body) once we improve its walking. Asimov v0: https://github.com/asimovinc/asimov-v0 Website: https://asimov.inc/
 
-7h ago
+8h ago
 
 ---
 
@@ -44,7 +44,7 @@ Asimov is an open-source humanoid robot we're building at Menlo Research. We've 
 
 This is Ricket, a robot project I’ve been building for the past year, programmed mostly using ROS2. My main goals for it are expressive movement, strong body language, and a face/behavior system with a lot of personality. Longer term, I also want to push it toward more dynamic legged motion and eventually jumping. I’ve mostly been documenting progress on Instagram so far (@tomsrocketsandrobots), but I’m getting closer to hardware testing and wanted to see if there was interest in me sharing updates here too. Also I’ve got a new batch of parts arriving tomorrow, and on Wednesday at 6 PM MST I’m planning to livestream the teardown and install. If people are into it, I can keep posting updates here.
 
-6h ago
+7h ago
 
 ---
 
@@ -52,7 +52,7 @@ This is Ricket, a robot project I’ve been building for the past year, programm
 
 Still cant get it to walk forward yet but rotating seems okay. Can definitely be better tho. This is still a work im progress, the hexapod frame is 3d printed from a creator at makerworld. The internals and code are mine. Mine uses a ps2 controller for this hexapod. If any of you guys are working on the same frame, i will share the schematics and code for free once im finally done with this builddd. Its been about a month since i started this hexapod and mannnn its been cracking my head ever since 😂
 
-17h ago
+18h ago
 
 ---
 
@@ -60,7 +60,7 @@ Still cant get it to walk forward yet but rotating seems okay. Can definitely be
 
 The setup includes two robotic operation platforms, 28 sorting robots, and 4 delivery robots. A returned book goes through the return window → travels via conveyor belt → is picked up by a sorting robot and delivered to the correct shelf based on its category. Technically, this is the same class of autonomous mobile robotics used in e-commerce fulfillment. Robots navigate between shelves, avoid obstacles, and optimize routes in real time. Traditionally, librarians spend significant time collecting returned books, pushing carts, and manually reshelving.
 
-18h ago
+19h ago
 
 ---
 
@@ -68,7 +68,7 @@ The setup includes two robotic operation platforms, 28 sorting robots, and 4 del
 
 Hello, I’m currently working on a monkey humanoid robot with several servos. I was using two 4S 14.8V 6500mAh LiPo batteries in parallel to increase capacity, with a fuse on each battery. During initial tests with a few motors, everything was working fine. But when I ran a program where multiple motors moved at the same time, I noticed a burning smell and immediately powered everything off. After checking, nothing seemed visibly damaged, but both batteries dropped to around 7.4V. When I measured the cells, I found 2 cells normal (~4V) and 2 cells at 0V on each battery. So both packs are now dead. I believe the issue comes from running LiPo batteries in parallel without proper protection, even with fuses in place. I’m now looking for advice to prevent this in the future: should I avoid parallel setups, use additional protection (BMS, diodes, etc.), or change my power architecture entirely? Thanks in advance for your help.
 
-16h ago
+17h ago
 
 ---
 
@@ -76,7 +76,7 @@ Hello, I’m currently working on a monkey humanoid robot with several servos. I
 
 Hey everyone, I’m working on a weird e-yantra robotic arm and I’m stuck on getting a correct inverse kinematics solution that actually matches my forward kinematics. I’d really appreciate any help from people experienced with non-standard manipulators. This is for a final year project and i've kind of hit a rut so anything that would get me going would be GREATLY appreciated! 🔧 Robot Description 5 DOF serial manipulator Joint structure: Z – X – X – X – Z J2, J3, J4 are all parallel → effectively a planar 3R arm in the r–z plane There is a fixed tool offset (no 6th joint) 📏 Link Lengths (mm) L1 = 82 L2 = 22 L3 = 86 L4 = 77 L5 = 85 L6 = 110 (end-effector offset) 📐 DH Parameters (Standard DH) i a(i-1) α(i-1) d(i) θ(i) 1 0 0 L1 θ1 2 0 +90° 0 θ2 + 90° 3 L3 0 0 θ3 4 L4 0 0 θ4 − 90° 5 0 -90° L5 θ5 EE 0 0 L6 — Maybe everything that i've done up until now is wrong but i'm not sure since this is my first time working with a robotic arm. I referred to Craig to get me through till here and learn everything from scratch these past two months. Thanks in advance — this has been driving me insane 😅
 
-55m ago
+1h ago
 
 ---
 
@@ -84,7 +84,7 @@ Hey everyone, I’m working on a weird e-yantra robotic arm and I’m stuck on g
 
 Joined up late at the robotics workshop in my university and the Inmoov was the coordinators pet project that didn’t really took off because he couldn’t find suckers students interested in taking it on, after a while he 3d printed all the parts but since parts sourcing was done through contract bidding, we couldn’t really just buy everything we needed at once from ali express so the build stalled for the 3 years I’ve been around Recently we actually secured some investment from a third party and finally got some of the much needed parts, but not soon enough for me to realize what kinda hole i dug myself in The documentation on how to connect, configure and use MyRobotLab is nonexistent, the links to the images provided in the BIY are either entirely unhelpful or 404, the 3D printed pieces have zero tolerance between each other or to non standard parts and the instructions are to basically pry open the 50$ servo motors and destroy some retainers and pray that you didnt muck up The showcase is set to happen on the first week of November, by then we’d need a fully built and moving android (torso up only) probably with a big sticker of the company investing across the chest TLDR: need detailed steps on how to build the whole thing and operate it from someone who built one to have something to show for a 1000$ investment
 
-58m ago
+1h ago
 
 ---
 
@@ -92,7 +92,7 @@ Joined up late at the robotics workshop in my university and the Inmoov was the 
 
 Saw the Galbot in action today at a cafe. What’s impressive is that it’s operating completely autonomously—no human intervention required. Watching its dual-arm coordination handle the espresso machine and serving was a great example of embodied AI moving into real-world commercial applications. This isn't just a demo; it's a functioning business model.
 
-23h ago
+1d ago
 
 ---
 
@@ -108,7 +108,7 @@ I use 4 dc 300 rpm Motor Push button - 4pcs 12V 30A industrial relay - 4 pcs Kin
 
 https://genesis-embodied-ai.github.io/ It's been about a year since they released their open repo along with an announcement video that seemed a little too good to be true. The video made a lot of publicity but there seemed to be some controversy at the time about the video containing functionality that wasn't actually available, that the devs said would be released later. Since then, I haven't seen any one actually using it. Was it all hype? It looks like the repo is still active. Has anyone used it for anything?
 
-19h ago
+20h ago
 
 ---
 
@@ -160,7 +160,7 @@ Crain's Detroit • 3d ago
 
 The robots, supplied by Chinese firm Keenon Robotics, were deployed as part of a trial at the McDonald’s location, Digitaltrends reported.
 
-New York Post • 6h ago
+New York Post • 7h ago
 
 ---
 
@@ -204,7 +204,7 @@ This week in robotics got kind of ridiculous. South Korea showed off a humanoid 
 
 📺 AI Revolution
 
-👁️ 29K • 👍 821 • 💬 60 • ⏱️ 14:31 • 11h ago
+👁️ 29K • 👍 821 • 💬 60 • ⏱️ 14:31 • 12h ago
 
 ---
 
@@ -214,7 +214,7 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 📺 CNET
 
-👁️ 8K • 👍 297 • 💬 15 • ⏱️ 5:50 • 23h ago
+👁️ 8K • 👍 297 • 💬 15 • ⏱️ 5:50 • 1d ago
 
 ---
 
@@ -254,7 +254,7 @@ COGLET KICKSTARTER LAUNCH: ...
 
 📺 Will Cogley
 
-👁️ 17K • 👍 1K • 💬 68 • ⏱️ 10:35 • 2d ago
+👁️ 17K • 👍 1K • 💬 68 • ⏱️ 10:35 • 3d ago
 
 ---
 
