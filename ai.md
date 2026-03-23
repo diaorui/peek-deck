@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-23T13:55:26.064289+00:00'
+updated: '2026-03-23T14:56:41.276731+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- social
+- repositories
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 23, 2026 at 13:55 UTC  
+**Last Updated:** March 23, 2026 at 14:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The former OpenAI and Tesla AI researcher's 'autoresearch' technique could be used by AI labs to speed up breakthroughs.
 
-🔗 [Fortune](https://fortune.com/2026/03/17/andrej-karpathy-loop-autonomous-ai-agents-future/) • 5h ago
+🔗 [Fortune](https://fortune.com/2026/03/17/andrej-karpathy-loop-autonomous-ai-agents-future/) • 6h ago
 
 ---
 
@@ -49,7 +49,7 @@ The former OpenAI and Tesla AI researcher's 'autoresearch' technique could be us
 
 MiMo-V2-Flash is open source, scores 73.4% on SWE-Bench (#1 among open source models), and costs $0.10 per million input tokens. That's comparable to Claude Sonnet at 3.5% of the price. MiMo-V2-Pro ranks #3 globally on agent benchmarks behind Claude Opus 4.6, with a 1M token context window, at $1/$3 per million tokens. Opus charges $5/$25 for similar performance. The lead researcher came from DeepSeek. The Pro model spent a week on OpenRouter anonymously and the entire community thought it was DeepSeek V4. At what point do Western AI companies have to respond on pricing? Or is the argument that reliability, safety, and enterprise support justify the 10x premium?
 
-3h ago
+4h ago
 
 ---
 
@@ -57,7 +57,7 @@ MiMo-V2-Flash is open source, scores 73.4% on SWE-Bench (#1 among open source mo
 
 Palantir’s Maven artificial intelligence system will become an official program of record, Deputy Secretary of Defense Steve Feinberg said in a letter to Pentagon leaders, a move that locks in long-term use of Palantir’s weapons-targeting ‌technology across the U.S. military.  In the March 9 letter to senior Pentagon leaders and U.S. military commanders, Feinberg said embedding Palantir’s Maven ‌Smart System would provide warfighters “with the latest tools necessary to detect, deter, and dominate our adversaries in all domains”.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/exclusive-pentagon-adopt-palantir-ai-232821913.html) • 13h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/exclusive-pentagon-adopt-palantir-ai-232821913.html) • 14h ago
 
 ---
 
@@ -65,7 +65,15 @@ Palantir’s Maven artificial intelligence system will become an official progra
 
 I work as a freelance content creator and videographer and I've been integrating various AI tools into my workflow since late last year, not because I'm an AI enthusiast but because my clients keep asking about them and I figured I should actually understand what these tools can and can't do before I have opinions about them here's my honest assessment after 6 months of daily use across real client projects: where AI tools are genuinely useful right now: style transfer and visual experimentation, this is the clearest win, tools like magic hour and runway let me show clients 5 different visual approaches to their content in 20 minutes instead of spending 3 hours manually grading reference versions, even if the final product is still done traditionally the speed of previsualization has changed how I work background removal and basic compositing, what used to take careful rotoscoping can now be done in seconds for most use cases, not perfect for complex edges but for 80% of social media content it's more than good enough audio cleanup, tools like adobe's AI audio enhancement have saved me on multiple projects where the production audio was rough, this one doesn't get enough attention but it's probably the most practically useful AI application in my workflow where it's still overhyped: full video generation from text prompts, I've tried sora and veo and kling and honestly the outputs are impressive as tech demos but unusable for real client work 90% of the time, the uncanny valley is real and audiences can tell AI editing and automatic cuts, every tool that promises to "edit your video automatically" produces output that feels like it was edited by someone who's never watched a movie, the pacing is always wrong face and body generation for any sustained use, consistency across multiple generations is still a massive problem, anyone telling you they can run a "virtual influencer" without significant manual intervention is leaving out the hours of regeneration and cherry-picking the honest summary: AI is extremely useful as a productivity tool that speeds up specific parts of my existing workflow, it is not useful as a replacement for creative decision-making and it's nowhere close to replacing human editors, cinematographers, or content strategists anyone else working professionally with these tools want to share their honest assessment because I think the conversation is too polarized between "AI will replace everything" and "AI is worthless" when the reality is way more nuanced
 
-3h ago
+4h ago
+
+---
+
+**[Jensen Huang compares not using AI to using "paper and pencil" to design chips, as he explains Nvidia's massive token budget](https://www.reddit.com/r/artificial/comments/1s1iks2/jensen_huang_compares_not_using_ai_to_using_paper/)**
+
+Nvidia CEO Jensen Huang says he'd be "deeply alarmed" if engineers weren't using AI tokens worth at least half of their annual salary.
+
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/jensen-huang-compares-not-using-ai-to-using-paper-and-pencil-to-design-chips-as-he-explains-nvidias-massive-token-budget/) • 21m ago
 
 ---
 
@@ -73,7 +81,7 @@ I work as a freelance content creator and videographer and I've been integrating
 
 Everyone’s building chatbots and voice agents. But where the hell are the clients? I’ve been in the AI automation space for a while now, building lead qualifier bots and voice agents for niches like real estate. But I want to hear from people who’ve actually closed deals — not just “post on LinkedIn and pray” advice. So tell me: ∙ Which industries are actually paying for chatbots/voice agents right now? ∙ Where did you find your first client — cold DM, Upwork, referral, Reddit, local biz? ∙ What’s the easiest sell — customer support bots, lead gen bots, or appointment booking? ∙ Are there industries that are surprisingly hungry for this that nobody talks about? It will truly helpful for me brothers😊
 
-1h ago
+2h ago
 
 ---
 
@@ -81,33 +89,25 @@ Everyone’s building chatbots and voice agents. But where the hell are the clie
 
 Im 24 m,and I really can't carry the conversation in real, so I find myself talking to chatgpt or claude I even tried to make myself ai companion but it's not that great ,just curious do you guys do like what I did ?
 
-3h ago
+4h ago
 
 ---
 
 **[Exclusive: Pentagon to adopt Palantir AI as core US military system, memo says](https://www.reddit.com/r/artificial/comments/1s1ewoh/exclusive_pentagon_to_adopt_palantir_ai_as_core/)**
 
-🔗 [reuters.com](https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/?_bhlid=294306ad5838cf1ff8af0cbdcbbf239c469a06d9) • 1h ago
+🔗 [reuters.com](https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/?_bhlid=294306ad5838cf1ff8af0cbdcbbf239c469a06d9) • 2h ago
 
 ---
 
 **[UK cops suspend live facial recog as study finds racial bias](https://www.reddit.com/r/artificial/comments/1s1d6tz/uk_cops_suspend_live_facial_recog_as_study_finds/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Over a dozen chatbot harm & suicide cases in California against OpenAI / ChatGPT have been consolidated into one big litigation](https://www.reddit.com/r/artificial/comments/1s184mb/over_a_dozen_chatbot_harm_suicide_cases_in/)**
 
-🔗 [niceguygeezer.substack.com](https://niceguygeezer.substack.com/p/over-a-dozen-chatbot-harm-and-suicide?r=3woycl) • 8h ago
-
----
-
-**[Sam Altman scales back OpenAI's data center ambitions as Wall Street pressures IPO spending.](https://www.reddit.com/r/artificial/comments/1s1c1f0/sam_altman_scales_back_openais_data_center/)**
-
-At BlackRock’s U.S. Infrastructure Summit, Sam Altman issued a major warning: OpenAI’s massive data center projects are hitting serious obstacles. The company is now pulling back from its own costly construction plans and will instead lean more heavily on cloud partners to keep its upcoming IPO on track. The setbacks highlight the extreme difficulty of scaling AI infrastructure: Infrastructure Failures: Altman revealed that a severe weather event recently knocked out the flagship campus in Abilene, Texas, a site shared with Oracle and SoftBank’s Stargate project. Supply Chain Bottlenecks: Tight deadlines and global supply chain issues have repeatedly delayed progress, proving that building at this scale is fraught with unexpected failures. Financial Pressure: With an IPO on the horizon, Wall Street is pressuring OpenAI to control its massive capital expenditure and focus on sustainable spending. Is the era of "unlimited" AI infrastructure spending coming to an end? As OpenAI shifts its strategy, the industry is watching to see if cloud partnerships can truly handle the next generation of AI models.
-
-🔗 [skarfinans.com](https://skarfinans.com/en/openais-data-center-pivot-underscores-wall-street-spending-concerns-ahead-of-ipo/) • 4h ago
+🔗 [niceguygeezer.substack.com](https://niceguygeezer.substack.com/p/over-a-dozen-chatbot-harm-and-suicide?r=3woycl) • 9h ago
 
 ---
 
@@ -115,9 +115,9 @@ At BlackRock’s U.S. Infrastructure Summit, Sam Altman issued a major warning: 
 
 ## Google News: "ai"
 
-**[Exclusive | Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO](https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5?gaa_at=eafs&gaa_n=AWEtsqd0sVsa-IwW60jwJ0K-LAHoGDTppJz0MxafjyHYTq8kjSi1YNxGFvC9&gaa_ts=69c149ae&gaa_sig=w9kDshNEsYyXhxXJYj1qdFUDKbUINijAKPSY6q4d5m01AZqIU_F7sMTZFHk9yWzj8FoYPYEIHJ3KbzjWOEHSuA%3D%3D)**
+**[Exclusive | Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO](https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5?gaa_at=eafs&gaa_n=AWEtsqdML6xVQMYp7EULa1BK0zE3XYfivxUAYQtsbm9D0mCt-A9t-meVFDTI&gaa_ts=69c15811&gaa_sig=6z5tZw_ZgcnZ0XGw-GMs9IPibamjXhqgRlGFgxb9a5fty5CvAPFdYdUajbj2b_E2genFAufQoAbyOJ-meUrarg%3D%3D)**
 
-WSJ • 15h ago
+WSJ • 16h ago
 
 ---
 
@@ -129,27 +129,49 @@ CNBC • 2d ago
 
 ---
 
-**[Do we have to keep talking about AI? The machines are always one step ahead](https://www.theguardian.com/commentisfree/2026/mar/23/do-we-have-to-keep-talking-about-ai-the-machines-are-always-one-step-ahead)**
+**[Want to protect yourself from AI? Invest, says BlackRock’s Larry Fink](https://www.cnn.com/2026/03/23/business/ai-blackrock-larry-fink-shareholder-letter)**
+
+Artificial intelligence could widen the problem of income inequality, said BlackRock CEO Larry Fink in his annual letter to shareholders.
+
+CNN • 13m ago
+
+---
+
+**[BlackRock CEO Fink backs staying invested amid volatility, flags AI shift](https://finance.yahoo.com/sectors/technology/articles/blackrock-ceo-fink-backs-staying-115903674.html)**
+
+The rapid rise of AI has sparked debate over whether ‌its gains will be broadly shared across sectors or increase the divide between big tech firms and smaller companies that may ‌struggle to compete.  Since the launch of ChatGPT in November 2022, much of Wall Street's AI-driven market gains have been led by companies at the center of the boom, pointing ​to a more narrow set of winners.  "The massive wealth created over the past several generations flowed mostly to people who already owned financial assets," Fink said in his annual letter to shareholders.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[BlackRock’s Larry Fink warns AI may intensify wealth inequality](https://www.ft.com/content/58602814-8138-4a14-a32e-d82dec2d472c?syn-25a6b1a6=1)**
+
+CEO of world’s biggest asset manager says rich backers of artificial intelligence could reap most of the rewards
+
+Financial Times • 4h ago
+
+---
+
+**[Do we have to keep talking about AI? The machines are always one step ahead | Zoe Williams](https://www.theguardian.com/commentisfree/2026/mar/23/do-we-have-to-keep-talking-about-ai-the-machines-are-always-one-step-ahead)**
 
 Whether you want to free it or regulate it into submission, one thing is clear: this new technology is moving so fast that we can’t fully grasp it, says Zoe Williams
 
-The Guardian • 3m ago
+The Guardian • 1h ago
 
 ---
 
-**[Trump's AI push targets China as tech rivalry enters new phase](https://www.foxbusiness.com/video/6391449853112)**
+**[Google’s Shift From 1,000 Flowers To AI-Curated Bouquets](https://www.forbes.com/sites/keithferrazzi/2026/03/23/googles-shift-from-1000-flowers-to-ai-curated-bouquets/)**
 
-'Code Red' author and Breitbart social media director Wynton Hall discusses America's AI race against China on 'Mornings with Maria.'
-
-Fox Business • 15m ago
+Forbes • 1h ago
 
 ---
 
-**[Confronting the CEO of the AI company that impersonated me](https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation)**
+**[Omniscience, Omnipresence, and Omnipotence: Meet the Gods of AI Warfare](https://www.wired.com/story/project-maven-katrina-manson-book-excerpt/)**
 
-Superhuman CEO Shishir Mehrotra responds to the Grammarly “expert review” controversy, and whether AI is extracting more value than it creates.
+In its early days, the AI initiative known as Project Maven had its fair share of skeptics at the Pentagon. Today, many of them are true believers.
 
-The Verge • 25m ago
+WIRED • 4h ago
 
 ---
 
@@ -161,31 +183,11 @@ BBC • 1d ago
 
 ---
 
-**[Omniscience, Omnipresence, and Omnipotence: Meet the Gods of AI Warfare](https://www.wired.com/story/project-maven-katrina-manson-book-excerpt/)**
-
-In its early days, the AI initiative known as Project Maven had its fair share of skeptics at the Pentagon. Today, many of them are true believers.
-
-WIRED • 3h ago
-
----
-
-**[New conservative group launches push for tougher AI rules](https://www.axios.com/2026/03/23/conservative-group-tougher-ai-rules)**
-
-Axios • 4h ago
-
----
-
 **[Cursor admits its new coding model was built on top of Moonshot AI’s Kimi](https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/)**
 
 Building on top of a Chinese model feels particularly fraught right now.
 
-TechCrunch • 19h ago
-
----
-
-**[More! More! More! Tech Workers Max Out Their A.I. Use.](https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html)**
-
-The New York Times • 2d ago
+TechCrunch • 20h ago
 
 ---
 
@@ -205,7 +207,7 @@ OpenCode - The open source coding agent.
 
 Imagine a newspaper publisher announcing it will no longer allow libraries to keep copies of its paper. That’s effectively what’s begun happening online in the last few months. The Internet Archive—the world’s largest digital library—has preserved newspapers since it went online in the mid-1990s....
 
-⬆️ 559 • 💬 152 • 2d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
+⬆️ 559 • 💬 155 • 2d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
 
 ---
 
@@ -217,7 +219,7 @@ Imagine a newspaper publisher announcing it will no longer allow libraries to ke
 
 **[What young workers are doing to AI-proof themselves](https://news.ycombinator.com/item?id=47480447)**
 
-⬆️ 176 • 💬 270 • 19h ago • [wsj.com](https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284)
+⬆️ 185 • 💬 286 • 20h ago • [wsj.com](https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284)
 
 ---
 
@@ -233,13 +235,13 @@ Qwen3.5-9B scores 93.8% on 96 real security AI tests — within 4 points of GPT-
 
 A practical guide to getting the engagement your project deserves.
 
-⬆️ 148 • 💬 25 • 1d ago • [Andrew Nesbitt](https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html)
+⬆️ 151 • 💬 25 • 1d ago • [Andrew Nesbitt](https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html)
 
 ---
 
 **[Diverse perspectives on AI from Rust contributors and maintainers](https://news.ycombinator.com/item?id=47482825)**
 
-⬆️ 140 • 💬 77 • 15h ago • [nikomatsakis.github.io](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
+⬆️ 141 • 💬 77 • 16h ago • [nikomatsakis.github.io](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
 
 ---
 
@@ -266,7 +268,7 @@ The daemon has existed for a long time, and has been marked as "experimental" fo
 
 Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of hallucinations’, after investigation by newspaper where he was once editor-in-chief
 
-⬆️ 92 • 💬 79 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes)
+⬆️ 92 • 💬 79 • 2d ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes)
 
 ---
 
@@ -280,7 +282,7 @@ White House science advisor Michael Kratsios discusses the Trump administration'
 
 📺 Fox News Clips
 
-👁️ 33K • 👍 647 • 💬 200 • ⏱️ 4:08 • 11h ago
+👁️ 33K • 👍 647 • 💬 200 • ⏱️ 4:08 • 12h ago
 
 ---
 
@@ -310,7 +312,7 @@ I tested running a local LLM on a Raspberry Pi 5 to see how practical it really 
 
 📺 Michael Klements
 
-👁️ 620 • 👍 58 • 💬 3 • ⏱️ 12:48 • 2h ago
+👁️ 620 • 👍 58 • 💬 3 • ⏱️ 12:48 • 3h ago
 
 ---
 
@@ -320,7 +322,7 @@ Since ChatGPT's debut, AI has been framed as everything from a world-changing br
 
 📺 Bloomberg Television
 
-👁️ 132K • 👍 3K • 💬 572 • ⏱️ 12:20 • 1d ago
+👁️ 132K • 👍 3K • 💬 572 • ⏱️ 12:20 • 2d ago
 
 ---
 
@@ -330,7 +332,7 @@ Grok AI stopped working for free? In this video I found 7 Secret FREE AI Video G
 
 📺 zapiwala ai
 
-👁️ 6K • 👍 294 • 💬 38 • ⏱️ 3:57 • 13h ago
+👁️ 6K • 👍 294 • 💬 38 • ⏱️ 3:57 • 14h ago
 
 ---
 
@@ -350,7 +352,7 @@ Dozens of protesters gathered outside Anthropic's headquarters in San Francisco 
 
 📺 ABC7 News Bay Area
 
-👁️ 2K • 👍 20 • 💬 12 • ⏱️ 2:19 • 13h ago
+👁️ 2K • 👍 20 • 💬 12 • ⏱️ 2:19 • 14h ago
 
 ---
 
@@ -444,7 +446,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 5,346 • ❤️ 216 • 8h ago
+⬇️ 5,346 • ❤️ 216 • 9h ago
 
 ---
 
@@ -609,7 +611,7 @@ EvoScientist is an adaptive multi-agent framework that enhances scientific disco
 
 Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabilities, multi-turn generation, and instruction-following control through natural-language descriptions, utilizing a multi-stage training approach and production-ready inference engine.
 
-▲ 35 • 💬 2 • ⭐ 28,674 • 13d ago
+▲ 35 • 💬 2 • ⭐ 28,674 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.08823) • [💻 code](https://github.com/fishaudio/fish-speech) • [🔗 project](https://fish.audio/)
 
@@ -659,7 +661,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 13.0k • 🔱 1.6k • 30m ago
+⭐ 13.0k • 🔱 1.6k • 1h ago
 
 ---
 
@@ -679,7 +681,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 10.5k • 🔱 539 • 32m ago
+⭐ 10.5k • 🔱 539 • 1h ago
 
 ---
 
@@ -689,7 +691,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.5k • 🔱 763 • 2h ago
+⭐ 10.5k • 🔱 763 • 3h ago
 
 ---
 
@@ -709,7 +711,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 5.0k • 🔱 410 • 2h ago
+⭐ 5.0k • 🔱 410 • 3h ago
 
 ---
 
@@ -729,7 +731,7 @@ OpenShell is the safe, private runtime for autonomous AI agents.
 
 `Rust`
 
-⭐ 3.3k • 🔱 333 • 9h ago
+⭐ 3.3k • 🔱 333 • 10h ago
 
 ---
 

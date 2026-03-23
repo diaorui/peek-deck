@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-23T13:55:26.072705+00:00'
+updated: '2026-03-23T14:56:41.284234+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - news
-- social
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 23, 2026 at 13:55 UTC  
+**Last Updated:** March 23, 2026 at 14:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,931.44
+### $71,327.35
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.9%  
-**7d:** -3.4%  
-**30d:** +5.5%  
-**90d:** -18.7%  
-**1y:** -18.3%  
+**24h:** +3.5%  
+**7d:** -3.6%  
+**30d:** +5.4%  
+**90d:** -18.9%  
+**1y:** -18.4%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I am new to crypto, what would have caused this?
 
-2h ago
+3h ago
 
 ---
 
@@ -89,7 +89,15 @@ I am new to crypto, what would have caused this?
 
 Link to the Bitcoin history in El Zonte, but I'm sure you can find and share even better articles: https://wildcatsandblacksheep.com/the-salvadoran-beach-town-that-became-a-bitcoin-testbed/
 
-23h ago
+1d ago
+
+---
+
+**[When do you think we’ll celebrate the $1M Bitcoin post?](https://www.reddit.com/r/Bitcoin/comments/1s1gz13/when_do_you_think_well_celebrate_the_1m_bitcoin/)**
+
+I was scrolling through the top posts of all time on this subreddit, and something really caught my attention. Two of the biggest posts ever are basically milestones: Bitcoin hitting $10,000 (around 8 years ago) Bitcoin hitting $100,000 (about a year ago) It made me pause for a second… because at those moments, both probably felt insane. Like a “we finally made it” kind of milestone. Now I’m wondering: When do you guys think we’ll see the same kind of post for $1,000,000? Also curious, what do you think would need to happen for that to become reality? Institutional adoption, inflation, global financial shifts…? It’s crazy how each milestone once felt impossible… until it wasn’t.
+
+1h ago
 
 ---
 
@@ -97,7 +105,7 @@ Link to the Bitcoin history in El Zonte, but I'm sure you can find and share eve
 
 I found a hidden mathematical relationship in Bitcoin's fundamental constants that I believe has never been documented before. The discovery: n XOR genesis = 2^256 - 2 - δ Where: - n = secp256k1 curve order - genesis = 1231006505 (January 3, 2009) - δ = 0x14551231950b75fc4402da17366961596 The probability of this happening by chance is about 0.04%, which strongly suggests intentional mathematical design by Satoshi. The repeating pattern (n XOR genesis) / 7 starts with 0x24924924924924924924924924924924, which is exactly (2^256 - 2)/7 in hex. I haven't seen this mentioned anywhere in Bitcoin literature. Just sharing in case others find it interesting.
 
-6h ago
+7h ago
 
 ---
 
@@ -105,7 +113,7 @@ I found a hidden mathematical relationship in Bitcoin's fundamental constants th
 
 Looking at the timeline today, it's wild to see the level of panic setting in. The Fear & Greed Index just tanked to 11 ("Extreme Fear"), and altcoins are getting absolutely decimated across the board. But if you look past the noise, Bitcoin is showing incredible relative strength. We just experienced a perfect storm of macroeconomic headwinds: The Fed’s Hawkish Hold: On Wednesday, the FOMC held rates steady at 3.50% - 3.75%, with Powell signaling that sticky inflation will likely delay cuts. The Geopolitical Oil Shock: With the escalating conflict in the Middle East, Brent crude oil just spiked well over $100 a barrel, sparking stagflation fears in traditional equities. The "Sell the News" Algorithm: We are battling the historical post-FOMC dump that has hit Bitcoin and the wider crypto market in 7 of the last 8 Fed meetings. Despite all of this, Bitcoin is defending the $70,000–$71,000 zone like a fortress. While the rest of the crypto market bleeds out, Bitcoin's dominance has surged back up above 56.5%. At Xapo Bank, we sit at the exact intersection of traditional finance and Bitcoin, and this price action is exactly what the institutionalization of an asset looks like. The smart money isn't panic-selling into a macro shock; they are treating Bitcoin as a foundational reserve asset. They are holding the line while retail gets shaken out. However, surviving this kind of volatility requires mature infrastructure. The days of leaving capital idle as a speculative chip, or taking catastrophic counterparty risks just to earn yield, are over. True institutionalization means treating Bitcoin with the same rigorous, regulated banking standards as major fiat currencies. Are you guys viewing this $70k defense as a temporary pause before a macro-driven drop, or is this the ultimate confirmation that Bitcoin has finally decoupled to act as a true digital safe haven?
 
-2h ago
+3h ago
 
 ---
 
@@ -113,7 +121,7 @@ Looking at the timeline today, it's wild to see the level of panic setting in. T
 
 Tough time in the market never lasts, only tough people last!!!! auauauauau
 
-14h ago
+15h ago
 
 ---
 
@@ -121,13 +129,13 @@ Tough time in the market never lasts, only tough people last!!!! auauauauau
 
 Bitcoin today... it’s exactly what the old saying describes: a time of 'extreme fear'.
 
-12h ago
+13h ago
 
 ---
 
 **[Not the first... And not the last time either 🤣](https://www.reddit.com/r/Bitcoin/comments/1s10nrn/not_the_first_and_not_the_last_time_either/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -135,15 +143,7 @@ Bitcoin today... it’s exactly what the old saying describes: a time of 'extrem
 
 Here's a video breakdown of a bunch of private credit loans that went from AAA-rated to worth zero in less than 6 months, despite passing supposed audits. https://www.youtube.com/watch?v=UB9k89XwqWU Tell it to anyone who leads with the usual dumb argument of "Bitcoin's isn't backed by anything," "no intrinsic value," or "it doesn't produce or get earnings." Yeah, what sounds bad to you sounds GREAT to me. There's VALUE in a system that is 100% transparent, fully decentralized, immutable, and limited in supply. Of course there should still be investment in things that produce, but EVERYONE has a reason to diversify some part of their wealth into the world's most unique and transparent asset.
 
-7h ago
-
----
-
-**[UNDER $70K IS SUCH AN AMAZING OPPORTUNITY](https://www.reddit.com/r/Bitcoin/comments/1s0m3n9/under_70k_is_such_an_amazing_opportunity/)**
-
-Sometimes it doesn't feel real that we're under $70K right now and have the opportunity to buy at this time. Looking back in a few years and we'll all wish that we had this chance again. I'm trying to get as much as I can right now because once that ship sails... It's gone my friends. Just putting the NOW in perspective. I always look back and regret not buying early, but not this time.
-
-1d ago
+8h ago
 
 ---
 
@@ -151,7 +151,7 @@ Sometimes it doesn't feel real that we're under $70K right now and have the oppo
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-7h ago
+8h ago
 
 ---
 
@@ -163,15 +163,15 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Stocks look to be catching with BTC's earlier crash to nearly $60,000.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
-**[Bitcoin miners are losing $19,000 on every BTC produced as difficulty drops 7.8%](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)**
+**[Bitcoin Price Slides but Holds Up Better Than Stocks as Oil Shock Continues](https://decrypt.co/361973/bitcoin-price-holds-up-better-stocks-oil-shock-continues)**
 
-The average production cost was sitting at $88,000 per bitcoin in mid-March, according to Checkonchain's difficulty regression model.
+Earlier deleveraging and continued institutional participation have helped keep Bitcoin more stable than other risk assets during the recent macro-driven selloff.
 
-CoinDesk • 1d ago
+Decrypt • 14h ago
 
 ---
 
@@ -179,13 +179,13 @@ CoinDesk • 1d ago
 
 Strategy executive chairman Michael Saylor is increasingly turning to alternative funding channels to finance its Bitcoin purchases, signaling a shift away from heavy reliance on equity dilution. Funding Shift Emerges In a Mar.19 post on X, CryptoQuant data showed the...
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
 **[Saylor’s Strategy Returns to Common Stock for Latest Bitcoin Buy](https://www.bloomberg.com/news/articles/2026-03-23/saylor-s-strategy-returns-to-common-stock-for-latest-bitcoin-buy)**
 
-Bloomberg.com • 26m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -193,35 +193,23 @@ Bloomberg.com • 26m ago
 
 First-quarter purchases have reached 89,618 BTC so far, the most since fourth-quarter 2024, and the quarter is not yet over.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin Rises After Trump Says to Postpone Iran Strikes](https://www.bloomberg.com/news/articles/2026-03-23/bitcoin-rises-after-trump-says-to-postpone-iran-strikes)**
+**[Crypto Miners Are Losing Nearly $20,000 On Each Bitcoin Produced](https://finance.yahoo.com/markets/crypto/articles/crypto-miners-losing-nearly-20-133800793.html)**
 
-Bloomberg.com • 1h ago
-
----
-
-**[Bitcoin price news: BTC surges 5% to $71,000 as Trump postpones Iran escalation](https://www.coindesk.com/markets/2026/03/23/bitcoin-surges-above-usd71-000-as-trump-postpones-iran-strikes-for-five-days)**
-
-Trump said that the two countries held "very good and productive conversations regarding a complete and total resolution of our hostilities in the Middle East."
-
-CoinDesk • 1h ago
-
----
-
-**[Bitcoin Tops $71,000 as Trump Postpones Iran Power Plant Strike Plans](https://finance.yahoo.com/markets/crypto/articles/bitcoin-tops-71-000-trump-121115129.html)**
-
-The price move came after Donald Trump touted "productive conversations" regarding a cessation of hostilities in the Middle East.
+Cryptocurrency miners are losing a growing amount of money on the Bitcoin (CRYPTO: $BTC) they produce. ...
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Strategy Returns to 'Small' Bitcoin Purchases, Adding $76.6 Million in BTC Last Week](https://www.moomoo.com/news/post/67265061/strategy-returns-to-small-bitcoin-purchases-adding-76-6-million)**
+**[CoinDesk 20 performance update: Bitcoin Cash (BCH) gains 2.3%, leading index higher](https://www.coindesk.com/coindesk-indices/2026/03/23/coindesk-20-performance-update-bitcoin-cash-bch-gains-2-3-leading-index-higher)**
 
-Moomoo • 1h ago
+Solana (SOL), up 1% from Friday, was also a top performer.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -229,7 +217,21 @@ Moomoo • 1h ago
 
 These two cryptocurrencies are trading at deep discounts, and could be ready to soar higher.
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
+
+---
+
+**[White House Quietly Confirms A ‘Major’ Crypto Milestone As Bitcoin Braces For A Huge Price Earthquake](https://www.forbes.com/sites/digital-assets/2026/03/21/white-house-quietly-confirms-a-major-crypto-milestone-as-bitcoin-braces-for-a-huge-price-earthquake/)**
+
+Forbes • 2d ago
+
+---
+
+**[NYSE exchanges remove options limits on 11 Bitcoin, Ether ETFs](https://www.tradingview.com/news/cointelegraph:d486cb180094b:0-nyse-exchanges-remove-options-limits-on-11-bitcoin-ether-etfs/)**
+
+Two New York Stock Exchange-affiliated exchanges have removed the 25,000 contract position limit on options tied to 11 crypto exchange-traded funds.NYSE Arca and NYSE American each filed three rule changes in the Federal Register on March 10 to remove contract position limits and price discovery re…
+
+TradingView • 14h ago
 
 ---
 
@@ -307,7 +309,7 @@ Bitcoin #Crypto #Finance Bitcoin is experiencing extreme volatility as prices sw
 
 📺 The Wolf Of All Streets
 
-👁️ 3K • 👍 268 • 1h ago
+👁️ 3K • 👍 268 • 2h ago
 
 ---
 
@@ -317,7 +319,7 @@ Bitcoin is pulling back but is this just a healthy correction or the start of so
 
 📺 Crypto Banter
 
-👁️ 4K • 👍 423 • 💬 14 • ⏱️ 23:31 • 4h ago
+👁️ 4K • 👍 423 • 💬 14 • ⏱️ 23:31 • 5h ago
 
 ---
 
@@ -327,7 +329,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Fol
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 2K • 💬 166 • ⏱️ 36:30 • 19h ago
+👁️ 29K • 👍 2K • 💬 166 • ⏱️ 36:30 • 20h ago
 
 ---
 
@@ -377,7 +379,7 @@ Watch the full episode here: https://youtu.be/7cW2PCPA8kY. Ben Cowen explains th
 
 📺 Market Disruptors Podcast
 
-👁️ 8K • 👍 336 • 💬 97 • ⏱️ 7:18 • 22h ago
+👁️ 8K • 👍 336 • 💬 97 • ⏱️ 7:18 • 23h ago
 
 ---
 
@@ -387,7 +389,7 @@ Bitcoin just ripped higher while gold sold off after headlines that Trump has he
 
 📺 Crypto Banter
 
-👁️ 3K • 👍 253 • 1h ago
+👁️ 3K • 👍 253 • 2h ago
 
 ---
 
