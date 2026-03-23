@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-23T10:10:22.751159+00:00'
+updated: '2026-03-23T11:24:00.780203+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- cryptocurrency
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 23, 2026 at 10:10 UTC  
+**Last Updated:** March 23, 2026 at 11:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,362.61
+### $70,605.32
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -7.2%  
-**30d:** +1.4%  
-**90d:** -21.9%  
-**1y:** -21.4%  
+**24h:** +2.9%  
+**7d:** -4.4%  
+**30d:** +4.4%  
+**90d:** -19.6%  
+**1y:** -19.1%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Link to the Bitcoin history in El Zonte, but I'm sure you can find and share even better articles: https://wildcatsandblacksheep.com/the-salvadoran-beach-town-that-became-a-bitcoin-testbed/
 
-20h ago
+21h ago
 
 ---
 
@@ -89,7 +89,15 @@ Link to the Bitcoin history in El Zonte, but I'm sure you can find and share eve
 
 I found a hidden mathematical relationship in Bitcoin's fundamental constants that I believe has never been documented before. The discovery: n XOR genesis = 2^256 - 2 - δ Where: - n = secp256k1 curve order - genesis = 1231006505 (January 3, 2009) - δ = 0x14551231950b75fc4402da17366961596 The probability of this happening by chance is about 0.04%, which strongly suggests intentional mathematical design by Satoshi. The repeating pattern (n XOR genesis) / 7 starts with 0x24924924924924924924924924924924, which is exactly (2^256 - 2)/7 in hex. I haven't seen this mentioned anywhere in Bitcoin literature. Just sharing in case others find it interesting.
 
-2h ago
+4h ago
+
+---
+
+**[Bitcoin Just jumped 3k in a couple minutes..](https://www.reddit.com/r/Bitcoin/comments/1s1dxww/bitcoin_just_jumped_3k_in_a_couple_minutes/)**
+
+I am new to crypto, what would have caused this?
+
+11m ago
 
 ---
 
@@ -97,7 +105,7 @@ I found a hidden mathematical relationship in Bitcoin's fundamental constants th
 
 Tough time in the market never lasts, only tough people last!!!! auauauauau
 
-10h ago
+11h ago
 
 ---
 
@@ -105,7 +113,13 @@ Tough time in the market never lasts, only tough people last!!!! auauauauau
 
 Bitcoin today... it’s exactly what the old saying describes: a time of 'extreme fear'.
 
-8h ago
+9h ago
+
+---
+
+**[Not the first... And not the last time either 🤣](https://www.reddit.com/r/Bitcoin/comments/1s10nrn/not_the_first_and_not_the_last_time_either/)**
+
+12h ago
 
 ---
 
@@ -113,37 +127,7 @@ Bitcoin today... it’s exactly what the old saying describes: a time of 'extrem
 
 Sometimes it doesn't feel real that we're under $70K right now and have the opportunity to buy at this time. Looking back in a few years and we'll all wish that we had this chance again. I'm trying to get as much as I can right now because once that ship sails... It's gone my friends. Just putting the NOW in perspective. I always look back and regret not buying early, but not this time.
 
-20h ago
-
----
-
-**[Not the first... And not the last time either 🤣](https://www.reddit.com/r/Bitcoin/comments/1s10nrn/not_the_first_and_not_the_last_time_either/)**
-
-10h ago
-
----
-
-**[Can I sue Coinbase?](https://www.reddit.com/r/Bitcoin/comments/1s0oun3/can_i_sue_coinbase/)**
-
-This is the situation: I had a friend send me btc over the years to Coinbase. There was a substantial amount there I sent it further to sell and i received, up until 2019. Then I left the remaining balance on Coinbase and didn't touch it. Well i logged in with same info and it recreated my account. Long story short, they deleted my account claiming there were no transactions in it EVER and it was inactive. Which is entirely untrue. I have email confirmations for every single transaction from Coinbase in my email account. The difference is for the btc i sent the notification is: "you sent x amount of btc to this xyz address". Based on the notification i can see the transaction on the blockchain, clearly indicating there were transactions. Unfortunately, and conveniently for Coinbase, the notification for receiving btc was just: "you received x amount of btc". Not stating from whom or nothing, so I can't find it on the blockchain. Anyway I've been talking to their support the whole day and thy continue claiming they deleted the account due to inactivity and 0 all time transactions, which again I've proven to them to not be the case. What can I do? I'm pretty certain there is a significant amount on there but I have no way of finding out specifically how much or retrieving this amount cause Coinbase support is awful. UPDATE: They magically found my transaction history now, and the balance is 0.
-
-18h ago
-
----
-
-**[stop panicking and think about this logically](https://www.reddit.com/r/Bitcoin/comments/1s0zqvp/stop_panicking_and_think_about_this_logically/)**
-
-we're still getting over 1,100 sats per dollar right now. anyone freaking out needs to chill and remember to keep some cash on hand for times like this. always maintain a cash buffer so you never have to touch your bitcoin stack. everything's gonna work out fine. volatility is our friend here. if you thought 95k was a decent buy-in point, why are you stressed about this dip? going from 95k to 180k would be solid, but catching this 75-85k range for a ride to 180k is even sweeter. picking up anything from 25-55k for a potential 180k run would be incredible. been doing deliveries all week and every time i check the price i just see opportunity. as someone who spends half my time driving around the city looking for cool spots and birds, patience is everything. same logic applies here - you wait for teh right moment and then you act.
-
-11h ago
-
----
-
-**[Fiat currency is dumb. Gov should support Bitcoin more.](https://www.reddit.com/r/Bitcoin/comments/1s199ej/fiat_currency_is_dumb_gov_should_support_bitcoin/)**
-
-People say Bitcoin is used by criminals. I say Fiat currency as well. Criminals can reward others using physical Fiat currency for misdeed. Criminals can counterfeit the currency, smuggle to another country and flood the market with it. Make it big enough and it can crash the economy. Criminals can get paid with Fiat and not get caught too. Criminals can wash money with Fiat currency. Now Bitcoin has less cons compared to all the above as all can be traced via blockchain.
-
-3h ago
+21h ago
 
 ---
 
@@ -151,7 +135,23 @@ People say Bitcoin is used by criminals. I say Fiat currency as well. Criminals 
 
 Here's a video breakdown of a bunch of private credit loans that went from AAA-rated to worth zero in less than 6 months, despite passing supposed audits. https://www.youtube.com/watch?v=UB9k89XwqWU Tell it to anyone who leads with the usual dumb argument of "Bitcoin's isn't backed by anything," "no intrinsic value," or "it doesn't produce or get earnings." Yeah, what sounds bad to you sounds GREAT to me. There's VALUE in a system that is 100% transparent, fully decentralized, immutable, and limited in supply. Of course there should still be investment in things that produce, but EVERYONE has a reason to diversify some part of their wealth into the world's most unique and transparent asset.
 
-3h ago
+5h ago
+
+---
+
+**[Can I sue Coinbase?](https://www.reddit.com/r/Bitcoin/comments/1s0oun3/can_i_sue_coinbase/)**
+
+This is the situation: I had a friend send me btc over the years to Coinbase. There was a substantial amount there I sent it further to sell and i received, up until 2019. Then I left the remaining balance on Coinbase and didn't touch it. Well i logged in with same info and it recreated my account. Long story short, they deleted my account claiming there were no transactions in it EVER and it was inactive. Which is entirely untrue. I have email confirmations for every single transaction from Coinbase in my email account. The difference is for the btc i sent the notification is: "you sent x amount of btc to this xyz address". Based on the notification i can see the transaction on the blockchain, clearly indicating there were transactions. Unfortunately, and conveniently for Coinbase, the notification for receiving btc was just: "you received x amount of btc". Not stating from whom or nothing, so I can't find it on the blockchain. Anyway I've been talking to their support the whole day and thy continue claiming they deleted the account due to inactivity and 0 all time transactions, which again I've proven to them to not be the case. What can I do? I'm pretty certain there is a significant amount on there but I have no way of finding out specifically how much or retrieving this amount cause Coinbase support is awful. UPDATE: They magically found my transaction history now, and the balance is 0.
+
+19h ago
+
+---
+
+**[IT WENT UP F ING AGAIN!](https://www.reddit.com/r/Bitcoin/comments/1s1e24c/it_went_up_f_ing_again/)**
+
+IT WENT UP PEOPLE! IT WENT UP!!!
+
+4m ago
 
 ---
 
@@ -163,47 +163,27 @@ Here's a video breakdown of a bunch of private credit loans that went from AAA-r
 
 Stocks look to be catching with BTC's earlier crash to nearly $60,000.
 
-CoinDesk • 4h ago
-
----
-
-**[Bitcoin Price Slides but Holds Up Better Than Stocks as Oil Shock Continues](https://decrypt.co/361973/bitcoin-price-holds-up-better-stocks-oil-shock-continues)**
-
-Earlier deleveraging and continued institutional participation have helped keep Bitcoin more stable than other risk assets during the recent macro-driven selloff.
-
-Decrypt • 9h ago
-
----
-
-**[Stock Futures Are Falling as Iran Tensions Heat Up](https://www.barrons.com/articles/bitcoin-ethereum-xrp-cryto-trump-iran-f66315a0?gaa_at=eafs&gaa_n=AWEtsqf7WbIXg9xVAJgmQ3HzvhczFPN7TvBKZcMPPjufiW0nAGFwPN0h7OBg&gaa_ts=69c114ed&gaa_sig=cs_dtajH5Vp-ZUdMAJW97Ka7sJezfOTP3pa_E4j7bbdZnh6cLiL38CyelHbj2NB9g5qr8OxoPeGsu43ajy3OBA%3D%3D)**
-
-Barron's • 1h ago
-
----
-
-**[Capital B Buys Bitcoin, Raises EUR3 Million From Capital Boost](https://www.moomoo.com/news/post/67251477/capital-b-buys-bitcoin-raises-eur3-million-from-capital-boost)**
-
-Moomoo • 1h ago
-
----
-
-**[Bitcoin, Ethereum, XRP Fall After Trump Iran Ultimatum. Why Crypto's Tied to the War. -- Barrons.com](https://www.moomoo.com/news/post/67247175/bitcoin-ethereum-xrp-fall-after-trump-iran-ultimatum-why-crypto)**
-
-Moomoo • 1h ago
-
----
-
-**[Michael Saylor Changed Tactics To Buy More Bitcoin: What It Means For MSTR](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-changed-tactics-buy-153116394.html)**
-
-Strategy executive chairman Michael Saylor is increasingly turning to alternative funding channels to finance its Bitcoin purchases, signaling a shift away from heavy reliance on equity dilution. Funding Shift Emerges In a Mar.19 post on X, CryptoQuant data showed the...
-
-Yahoo Finance • 18h ago
+CoinDesk • 5h ago
 
 ---
 
 **[Bitcoin Drops Below $69,000 as War Fears Weigh on Crypto Markets](https://www.bloomberg.com/news/articles/2026-03-22/bitcoin-drops-below-69-000-as-war-fears-weigh-on-crypto-markets)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 15h ago
+
+---
+
+**[Bitcoin's Momentum Indicator Is Flashing a Signal That Should Worry Bulls](https://www.moomoo.com/news/post/67257410/bitcoin-s-momentum-indicator-is-flashing-a-signal-that-should)**
+
+Moomoo • 1h ago
+
+---
+
+**[Bitcoin clings to monthly gains, historic losing streak still in play](https://www.coindesk.com/markets/2026/03/23/bitcoin-clings-to-monthly-gains-historic-losing-streak-still-in-play)**
+
+Bitcoin shows early signs of outperformance against gold, with the BTC gold ratio rebounding toward 16 ounces after a steep cycle drawdown.
+
+CoinDesk • 34m ago
 
 ---
 
@@ -217,15 +197,37 @@ Forbes • 1d ago
 
 These two cryptocurrencies are trading at deep discounts, and could be ready to soar higher.
 
-The Motley Fool • 14h ago
+The Motley Fool • 16h ago
 
 ---
 
-**[This Lee restaurant is now accepting bitcoin to pay for meals. Here's how that works](https://www.berkshireeagle.com/news/southern_berkshires/cafe-triskele-accepts-bitcoin/article_d9c0a6f8-c10e-4773-be63-b7a4b3f3a6a3.html)**
+**[French bitcoin evangelical Eric Larchevêque wants his right-wing voice to be part of public debate](https://www.lemonde.fr/en/m-le-mag/article/2026/03/21/french-bitcoin-evangelical-eric-larcheveque-wants-his-right-wing-voice-to-be-part-of-public-debate_6751676_117.html)**
 
-With Bitcoin and other cryptocurrency tokens becoming more accepted, retailers are beginning to accept them as forms of payment. Café Triskele in Lee the first restaurant in Berkshire County to
+Known to the public as a judge on a television show, the French bitcoin pioneer wants to win over the masses to the cryptocurrencies that made him wealthy. With the 2027 presidential election approaching, this libertarian has embraced increasingly radical ideas.
 
-The Berkshire Eagle • 1d ago
+Le Monde.fr • 2d ago
+
+---
+
+**[Gold and Silver Wipe Out $2 Trillion on Monday Market Opening, Will Bitcoin and Crypto Follow?](https://www.ccn.com/news/crypto/gold-silver-wipe-out-2t-monday-will-bitcoin-follow/)**
+
+CCN.com • 16m ago
+
+---
+
+**[What price will Bitcoin hit on March 23? Trading Odds & Predictions](https://polymarket.com/event/what-price-will-bitcoin-hit-on-march-23)**
+
+View real-time odds for "What price will Bitcoin hit on March 23?" as of March 23, 2026 and trade on The World's Largest Prediction Market™
+
+Polymarket • 7h ago
+
+---
+
+**[Phong Le Calls Morgan Stanley’s BTC ETF a “Monster Bitcoin” Bet With $160 Billion Potential](https://bitcoinmagazine.com/news/phong-le-calls-morgan-stanleys-bitcoin)**
+
+The president and CEO of Strategy said Morgan Stanley’s upcoming bitcoin ETF could unlock as much as $160 billion in demand under a modest portfolio allocation scenario.
+
+Bitcoin Magazine • 2d ago
 
 ---
 
@@ -303,7 +305,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Fol
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 1K • 💬 147 • ⏱️ 36:30 • 15h ago
+👁️ 26K • 👍 1K • 💬 147 • ⏱️ 36:30 • 16h ago
 
 ---
 
@@ -323,7 +325,7 @@ Bitcoin #Crypto #Finance Anthony Scaramucci says this Bitcoin pullback may be fa
 
 📺 The Wolf Of All Streets
 
-👁️ 27K • 👍 1K • 💬 204 • ⏱️ 30:41 • 21h ago
+👁️ 27K • 👍 1K • 💬 204 • ⏱️ 30:41 • 22h ago
 
 ---
 
@@ -353,7 +355,7 @@ Watch the full episode here: https://youtu.be/7cW2PCPA8kY. Ben Cowen explains th
 
 📺 Market Disruptors Podcast
 
-👁️ 7K • 👍 298 • 💬 94 • ⏱️ 7:18 • 18h ago
+👁️ 7K • 👍 298 • 💬 94 • ⏱️ 7:18 • 19h ago
 
 ---
 
@@ -363,7 +365,7 @@ Bitcoin is pulling back but is this just a healthy correction or the start of so
 
 📺 Crypto Banter
 
-👁️ 1K • 👍 139 • ⏱️ 23:31 • 16m ago
+👁️ 1K • 👍 139 • ⏱️ 23:31 • 1h ago
 
 ---
 
@@ -383,7 +385,7 @@ Full uncensored livestream daily on Rumble: https://rumble.com/c/BitcoinNewsAler
 
 📺 Bitcoin News Alerts
 
-👁️ 1K • 👍 93 • 💬 96 • ⏱️ 22:30 • 11h ago
+👁️ 1K • 👍 93 • 💬 96 • ⏱️ 22:30 • 12h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-23T10:10:22.742583+00:00'
+updated: '2026-03-23T11:24:00.771738+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- social
 - news
 - repositories
-- social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 23, 2026 at 10:10 UTC  
+**Last Updated:** March 23, 2026 at 11:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,33 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Pentagon to adopt Palantir AI as core US military system, memo says](https://www.reddit.com/r/artificial/comments/1s11nu4/pentagon_to_adopt_palantir_ai_as_core_us_military/)**
-
-Palantir’s Maven artificial intelligence system will become an official program of record, Deputy Secretary of Defense Steve Feinberg said in a letter to Pentagon leaders, a move that locks in long-term use of Palantir’s weapons-targeting ‌technology across the U.S. military.  In the March 9 letter to senior Pentagon leaders and U.S. military commanders, Feinberg said embedding Palantir’s Maven ‌Smart System would provide warfighters “with the latest tools necessary to detect, deter, and dominate our adversaries in all domains”.
-
-🔗 [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/exclusive-pentagon-adopt-palantir-ai-232821913.html) • 10h ago
-
----
-
 **[Andrej Karpathy's autonomous AI research agent ran 700 experiments in 2 days and gave a glimpse of where AI is heading](https://www.reddit.com/r/artificial/comments/1s1b1zm/andrej_karpathys_autonomous_ai_research_agent_ran/)**
 
 The former OpenAI and Tesla AI researcher's 'autoresearch' technique could be used by AI labs to speed up breakthroughs.
 
-🔗 [Fortune](https://fortune.com/2026/03/17/andrej-karpathy-loop-autonomous-ai-agents-future/) • 1h ago
+🔗 [Fortune](https://fortune.com/2026/03/17/andrej-karpathy-loop-autonomous-ai-agents-future/) • 3h ago
 
 ---
 
-**[Is AI becoming a bubble, and could it end like the dot-com crash?](https://www.reddit.com/r/artificial/comments/1s1bnj0/is_ai_becoming_a_bubble_and_could_it_end_like_the/)**
+**[Pentagon to adopt Palantir AI as core US military system, memo says](https://www.reddit.com/r/artificial/comments/1s11nu4/pentagon_to_adopt_palantir_ai_as_core_us_military/)**
 
-Lately, I’ve had a strong feeling that AI is being inflated more and more like a bubble. What especially stands out is that right now a huge amount of investor attention and capital seems to be flowing into AI above almost everything else. For many startups, it feels like simply adding the word “AI” to a pitch is enough to get far more interest than companies in other sectors. That’s what makes me think about the dot-com era. Back then, the internet was also a real technological shift. It changed the world. But at the same time, it attracted massive speculation, irrational expectations, weak business models, and money chasing hype faster than fundamentals. And that’s exactly why I’m wondering whether we may be watching a similar pattern again. I’m not saying AI is fake. It clearly isn’t. AI already has real use cases in engineering, research, automation, design, customer support, and a lot more. But real technology can still be surrounded by a financial bubble. What concerns me is the scale of enthusiasm, pricing, and investor concentration. It increasingly feels like many investors are treating AI as the only place worth putting money right now, and historically that kind of one-directional excitement does not always end well. So my question is: Are we in an AI bubble that could eventually correct the way the dot-com bubble did? Or is this different because AI already has stronger real-world adoption and monetization than most dot-com companies ever had? I’d be interested to hear views from people coming from tech, venture, public markets, or economic history.
+Palantir’s Maven artificial intelligence system will become an official program of record, Deputy Secretary of Defense Steve Feinberg said in a letter to Pentagon leaders, a move that locks in long-term use of Palantir’s weapons-targeting ‌technology across the U.S. military.  In the March 9 letter to senior Pentagon leaders and U.S. military commanders, Feinberg said embedding Palantir’s Maven ‌Smart System would provide warfighters “with the latest tools necessary to detect, deter, and dominate our adversaries in all domains”.
 
-1h ago
-
----
-
-**[Over a dozen chatbot harm & suicide cases in California against OpenAI / ChatGPT have been consolidated into one big litigation](https://www.reddit.com/r/artificial/comments/1s184mb/over_a_dozen_chatbot_harm_suicide_cases_in/)**
-
-🔗 [niceguygeezer.substack.com](https://niceguygeezer.substack.com/p/over-a-dozen-chatbot-harm-and-suicide?r=3woycl) • 4h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/exclusive-pentagon-adopt-palantir-ai-232821913.html) • 11h ago
 
 ---
 
@@ -71,7 +57,51 @@ Lately, I’ve had a strong feeling that AI is being inflated more and more like
 
 MiMo-V2-Flash is open source, scores 73.4% on SWE-Bench (#1 among open source models), and costs $0.10 per million input tokens. That's comparable to Claude Sonnet at 3.5% of the price. MiMo-V2-Pro ranks #3 globally on agent benchmarks behind Claude Opus 4.6, with a 1M token context window, at $1/$3 per million tokens. Opus charges $5/$25 for similar performance. The lead researcher came from DeepSeek. The Pro model spent a week on OpenRouter anonymously and the entire community thought it was DeepSeek V4. At what point do Western AI companies have to respond on pricing? Or is the argument that reliability, safety, and enterprise support justify the 10x premium?
 
-6m ago
+1h ago
+
+---
+
+**[I've been using AI video tools in my creative workflow for about 6 months and I want to give an honest assessment of where they're actually useful vs where they're still overhyped](https://www.reddit.com/r/artificial/comments/1s1d4zc/ive_been_using_ai_video_tools_in_my_creative/)**
+
+I work as a freelance content creator and videographer and I've been integrating various AI tools into my workflow since late last year, not because I'm an AI enthusiast but because my clients keep asking about them and I figured I should actually understand what these tools can and can't do before I have opinions about them here's my honest assessment after 6 months of daily use across real client projects: where AI tools are genuinely useful right now: style transfer and visual experimentation, this is the clearest win, tools like magic hour and runway let me show clients 5 different visual approaches to their content in 20 minutes instead of spending 3 hours manually grading reference versions, even if the final product is still done traditionally the speed of previsualization has changed how I work background removal and basic compositing, what used to take careful rotoscoping can now be done in seconds for most use cases, not perfect for complex edges but for 80% of social media content it's more than good enough audio cleanup, tools like adobe's AI audio enhancement have saved me on multiple projects where the production audio was rough, this one doesn't get enough attention but it's probably the most practically useful AI application in my workflow where it's still overhyped: full video generation from text prompts, I've tried sora and veo and kling and honestly the outputs are impressive as tech demos but unusable for real client work 90% of the time, the uncanny valley is real and audiences can tell AI editing and automatic cuts, every tool that promises to "edit your video automatically" produces output that feels like it was edited by someone who's never watched a movie, the pacing is always wrong face and body generation for any sustained use, consistency across multiple generations is still a massive problem, anyone telling you they can run a "virtual influencer" without significant manual intervention is leaving out the hours of regeneration and cherry-picking the honest summary: AI is extremely useful as a productivity tool that speeds up specific parts of my existing workflow, it is not useful as a replacement for creative decision-making and it's nowhere close to replacing human editors, cinematographers, or content strategists anyone else working professionally with these tools want to share their honest assessment because I think the conversation is too polarized between "AI will replace everything" and "AI is worthless" when the reality is way more nuanced
+
+54m ago
+
+---
+
+**[Is AI becoming a bubble, and could it end like the dot-com crash?](https://www.reddit.com/r/artificial/comments/1s1bnj0/is_ai_becoming_a_bubble_and_could_it_end_like_the/)**
+
+Lately, I’ve had a strong feeling that AI is being inflated more and more like a bubble. What especially stands out is that right now a huge amount of investor attention and capital seems to be flowing into AI above almost everything else. For many startups, it feels like simply adding the word “AI” to a pitch is enough to get far more interest than companies in other sectors. That’s what makes me think about the dot-com era. Back then, the internet was also a real technological shift. It changed the world. But at the same time, it attracted massive speculation, irrational expectations, weak business models, and money chasing hype faster than fundamentals. And that’s exactly why I’m wondering whether we may be watching a similar pattern again. I’m not saying AI is fake. It clearly isn’t. AI already has real use cases in engineering, research, automation, design, customer support, and a lot more. But real technology can still be surrounded by a financial bubble. What concerns me is the scale of enthusiasm, pricing, and investor concentration. It increasingly feels like many investors are treating AI as the only place worth putting money right now, and historically that kind of one-directional excitement does not always end well. So my question is: Are we in an AI bubble that could eventually correct the way the dot-com bubble did? Or is this different because AI already has stronger real-world adoption and monetization than most dot-com companies ever had? I’d be interested to hear views from people coming from tech, venture, public markets, or economic history.
+
+2h ago
+
+---
+
+**[Everyone is looking for friend here, just curious do you guys talk you chatgpt or claude like they are your friend or it's just me ?](https://www.reddit.com/r/artificial/comments/1s1d7hp/everyone_is_looking_for_friend_here_just_curious/)**
+
+Im 24 m,and I really can't carry the conversation in real, so I find myself talking to chatgpt or claude I even tried to make myself ai companion but it's not that great ,just curious do you guys do like what I did ?
+
+50m ago
+
+---
+
+**[UK cops suspend live facial recog as study finds racial bias](https://www.reddit.com/r/artificial/comments/1s1d6tz/uk_cops_suspend_live_facial_recog_as_study_finds/)**
+
+51m ago
+
+---
+
+**[Over a dozen chatbot harm & suicide cases in California against OpenAI / ChatGPT have been consolidated into one big litigation](https://www.reddit.com/r/artificial/comments/1s184mb/over_a_dozen_chatbot_harm_suicide_cases_in/)**
+
+🔗 [niceguygeezer.substack.com](https://niceguygeezer.substack.com/p/over-a-dozen-chatbot-harm-and-suicide?r=3woycl) • 6h ago
+
+---
+
+**[How to Make Claude, Codex, and Gemini Collaborate on Your Codebase](https://www.reddit.com/r/artificial/comments/1s1dsig/how_to_make_claude_codex_and_gemini_collaborate/)**
+
+How to Make Claude, Codex, and Gemini Collaborate on Your Codebase | AiFeed24 https://share.google/oxBVZtWgMSgdg6uQX
+
+18m ago
 
 ---
 
@@ -83,45 +113,13 @@ I am a painter with work at MoMA and the Met. I just published 50 years of my wo
 
 ---
 
-**[Sam Altman scales back OpenAI's data center ambitions as Wall Street pressures IPO spending.](https://www.reddit.com/r/artificial/comments/1s1c1f0/sam_altman_scales_back_openais_data_center/)**
-
-At BlackRock’s U.S. Infrastructure Summit, Sam Altman issued a major warning: OpenAI’s massive data center projects are hitting serious obstacles. The company is now pulling back from its own costly construction plans and will instead lean more heavily on cloud partners to keep its upcoming IPO on track. The setbacks highlight the extreme difficulty of scaling AI infrastructure: Infrastructure Failures: Altman revealed that a severe weather event recently knocked out the flagship campus in Abilene, Texas, a site shared with Oracle and SoftBank’s Stargate project. Supply Chain Bottlenecks: Tight deadlines and global supply chain issues have repeatedly delayed progress, proving that building at this scale is fraught with unexpected failures. Financial Pressure: With an IPO on the horizon, Wall Street is pressuring OpenAI to control its massive capital expenditure and focus on sustainable spending. Is the era of "unlimited" AI infrastructure spending coming to an end? As OpenAI shifts its strategy, the industry is watching to see if cloud partnerships can truly handle the next generation of AI models.
-
-🔗 [skarfinans.com](https://skarfinans.com/en/openais-data-center-pivot-underscores-wall-street-spending-concerns-ahead-of-ipo/) • 45m ago
-
----
-
-**[LLM failure modes map surprisingly well onto ADHD cognitive science. Six parallels from independent research.](https://www.reddit.com/r/artificial/comments/1s0x54t/llm_failure_modes_map_surprisingly_well_onto_adhd/)**
-
-I have ADHD and I've been pair programming with LLMs for a while now. At some point I realized the way they fail felt weirdly familiar. Confidently making stuff up, losing context mid conversation, brilliant lateral connections then botching basic sequential logic. That's just... my Tuesday. So I went into the cognitive science literature. Found six parallels backed by independent research groups who weren't even looking at this connection. Associative processing. In ADHD the Default Mode Network bleeds into task-positive networks (Castellanos et al., JAMA Psychiatry). Transformer attention computes weighted associations across all tokens with no strong relevance gate. Both are association machines with high creative connectivity and random irrelevant intrusions. Confabulation. Adults with ADHD produce significantly more false memories that feel true (Soliman & Elfar, 2017, d=0.69+). A 2023 PLOS Digital Health paper argues LLM errors should be called confabulation not hallucination. A 2024 ACL paper found LLM confabulations share measurable characteristics with human confabulation (Millward et al.). Neither system is lying. Both fill gaps with plausible pattern-completed stuff. Context window is working memory. Working memory deficits are among the most replicated ADHD findings (d=0.69-0.74 across meta-analyses). An LLM's context window is literally its working memory. Fixed size, stuff falls off the end, earlier info gets fuzzy. And the compensation strategies mirror each other. We use planners and external systems. LLMs use system prompts, CLAUDE.md files, RAG. Same function. Pattern completion over precision. ADHD means better divergent thinking, worse convergent thinking (Hoogman et al., 2020). LLMs are the same. Great at pattern matching and creative completion, bad at precise multi-step reasoning. Both optimized for "what fits the pattern" not "what is logically correct in sequence." Structure as force multiplier. Structured environments significantly improve ADHD performance (Frontiers in Psychology, 2025). Same with LLMs. Good system prompt with clear constraints equals dramatically better output. Remove the structure, get rambling unfocused garbage. Works the same way in both systems. Interest-driven persistence vs thread continuity. Sustained focused engagement on one thread produces compounding quality in both cases. Break the thread and you lose everything. Same as someone interrupting deep focus and you have zero idea where you were. The practical takeaway is that people who've spent years managing ADHD brains have already been training the skills that matter for AI collaboration. External scaffolding, pattern-first thinking, iterating without frustration. I wrote up the full research with all citations at thecreativeprogrammer.dev if anyone wants to go deeper. What's your experience? Have you noticed parallels between how LLMs fail and how your own thinking works?
-
-13h ago
-
----
-
-**[New autonomous robot fish are being deployed to filter microplastics from our oceans and protect coral reefs.](https://www.reddit.com/r/artificial/comments/1s0vgx0/new_autonomous_robot_fish_are_being_deployed_to/)**
-
-This innovative technology mimics the movement of real fish to navigate delicate underwater ecosystems without disturbing marine life. By capturing tiny plastic particles that are otherwise impossible to collect, these robots are providing a much needed boost to ocean conservation efforts worldwide. It is a huge step forward in the fight against plastic pollution.
-
-🔗 [skarfinans.com](https://skarfinans.com/en/how-autonomous-robot-fish-are-revolutionizing-ocean-plastic-cleanup/) • 14h ago
-
----
-
-**[Alex Chenglin Wu of DeepWisdom On The Future Of Artificial Intelligence | by Chad Silverstein | Authority Magazine | Mar, 2026](https://www.reddit.com/r/artificial/comments/1s15wc9/alex_chenglin_wu_of_deepwisdom_on_the_future_of/)**
-
-An Interview With Chad Silverstein
-
-🔗 [Medium](https://medium.com/authority-magazine/alex-chenglin-wu-of-deepwisdom-on-the-future-of-artificial-intelligence-f54b0cd251b0) • 6h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Exclusive | Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO](https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5?gaa_at=eafs&gaa_n=AWEtsqehghGGCRffGftXOG2FT07bqWK7wNQTA1BtMiTCsmJORqPpcT-u0VYW&gaa_ts=69c114eb&gaa_sig=TJSXAeHpNgM62HVu_xQJY82xctlbRaWazirZRVhvONWLH0S0W-Ud4hGg61j1zflglK59ZIDMaUxQOynNtQFgwg%3D%3D)**
+**[Exclusive | Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO](https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5?gaa_at=eafs&gaa_n=AWEtsqeL66LRB0PcoOq-ULdYvS5tMphV1kJ2YIV4f7xteaawSR-CRH97_Yz1&gaa_ts=69c12639&gaa_sig=jmPjtSe-P2SMDc03xys4P3zPQnZjGX5_bvCyHOPThcxRqJCXxeVxELHEZA-l-U2oH6nAyGrhmC5qKX5SbjfXlQ%3D%3D)**
 
-WSJ • 11h ago
+WSJ • 12h ago
 
 ---
 
@@ -133,9 +131,9 @@ CNBC • 1d ago
 
 ---
 
-**[How AI therapies are changing health care](https://www.axios.com/2026/03/23/ai-therapy-apps-drugs-health-care)**
+**[Nvidia, Emerald AI team with energy companies on "flexible" data centers](https://www.axios.com/2026/03/23/utilities-nvidia-emerald-ai-data-centers)**
 
-Axios • 37m ago
+Axios • 20m ago
 
 ---
 
@@ -143,23 +141,39 @@ Axios • 37m ago
 
 As data center developers queue up to connect to power grids across Europe, network operators are experimenting with novel ways of clearing room for them.
 
-WIRED • 1h ago
+WIRED • 2h ago
 
 ---
 
-**[Samsung Bespoke AI Refrigerator Wants to Take the Stress Out of the Kitchen](https://gizmodo.com/samsung-bespoke-ai-refrigerator-wants-to-take-the-stress-out-of-the-kitchen-2000735929)**
+**[Opinion | The AI boom doesn’t have to send electricity bills soaring](https://www.washingtonpost.com/opinions/2026/03/23/data-center-electricity-costs-ai/)**
 
-You’ll never have to wrack your brain trying to remember what you have in the fridge again.
+Public utilities aren’t equipped to deal with the massive increase in energy demands from AI.
 
-Gizmodo • 7m ago
+The Washington Post • 58m ago
 
 ---
 
-**[AI could reverse social media’s worst consequence](https://www.vox.com/technology/483455/ai-social-media-misinformation)**
+**[Alibaba.com President: The one-person unicorn is coming. AI is making it possible](https://fortune.com/2026/03/23/one-person-unicorn-agentic-ai-kuo-zhang/)**
 
-The internet fractured reality. Chatbots might put it back together.
+AI agents can now handle procurement, compliance, and cross-border logistics for a single founder. The "execution wall" is collapsing.
 
-Vox • 10m ago
+Fortune • 1h ago
+
+---
+
+**[Warren Buffett's Successor, Greg Abel, Has $64 Billion of Berkshire Hathaway's Assets Invested in 3 Unstoppable AI Stocks](https://www.fool.com/investing/2026/03/23/warren-buffett-abel-64-billion-brka-3-ai-stocks/)**
+
+More than 20% of Berkshire Hathaway's $313 billion of invested assets can be traced back to a trio of market-leading artificial intelligence (AI) stocks.
+
+The Motley Fool • 1h ago
+
+---
+
+**[These coders want AI to take their jobs](https://www.vox.com/podcasts/483368/vibe-coding-ai-software-claude-codex-gemini-explained)**
+
+Vibe coding and what it means for the future of programming, explained.
+
+Vox • 24m ago
 
 ---
 
@@ -171,27 +185,11 @@ BBC • 1d ago
 
 ---
 
-**[The latest AI-integrated Windows OS is only $13 for a bit longer](https://mashable.com/article/march-22-microsoft-windows-11-pro)**
+**[Opinion | Bracing for the A.I. Economy to Come](https://www.nytimes.com/2026/03/22/opinion/ai-economy-jobs.html)**
 
-That old OS had a good run.
+Readers respond to two guest essays about the changes that artificial intelligence will wreak on the work force. Also: The shoes of the Trump men.
 
-Mashable • 11h ago
-
----
-
-**[AI-generated ads are trickling into political campaigns, sparking big worries](https://www.nbcnews.com/politics/2028-election/ai-midterms-politics-campaign-ads-rcna263752)**
-
-AI usage in political ads is largely regulated at the state level, but there remain concerns about how they can mislead voters.
-
-NBC News • 1d ago
-
----
-
-**[Cursor admits its new coding model was built on top of Moonshot AI’s Kimi](https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/)**
-
-Building on top of a Chinese model feels particularly fraught right now.
-
-TechCrunch • 15h ago
+The New York Times • 22h ago
 
 ---
 
@@ -239,13 +237,7 @@ Qwen3.5-9B scores 93.8% on 96 real security AI tests — within 4 points of GPT-
 
 **[What young workers are doing to AI-proof themselves](https://news.ycombinator.com/item?id=47480447)**
 
-⬆️ 136 • 💬 225 • 15h ago • [wsj.com](https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284)
-
----
-
-**[Diverse perspectives on AI from Rust contributors and maintainers](https://news.ycombinator.com/item?id=47482825)**
-
-⬆️ 136 • 💬 75 • 11h ago • [nikomatsakis.github.io](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
+⬆️ 145 • 💬 244 • 17h ago • [wsj.com](https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284)
 
 ---
 
@@ -253,7 +245,13 @@ Qwen3.5-9B scores 93.8% on 96 real security AI tests — within 4 points of GPT-
 
 A practical guide to getting the engagement your project deserves.
 
-⬆️ 136 • 💬 22 • 1d ago • [Andrew Nesbitt](https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html)
+⬆️ 140 • 💬 23 • 1d ago • [Andrew Nesbitt](https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html)
+
+---
+
+**[Diverse perspectives on AI from Rust contributors and maintainers](https://news.ycombinator.com/item?id=47482825)**
+
+⬆️ 137 • 💬 76 • 13h ago • [nikomatsakis.github.io](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
 
 ---
 
@@ -266,7 +264,7 @@ Much faster and better search with the daemon
 
 The daemon has existed for a long time, and has been marked as "experimental" for
 
-⬆️ 93 • 💬 80 • 1d ago • [The Atuin Blog](https://blog.atuin.sh/atuin-v18-13/)
+⬆️ 93 • 💬 80 • 2d ago • [The Atuin Blog](https://blog.atuin.sh/atuin-v18-13/)
 
 ---
 
@@ -288,7 +286,7 @@ White House science advisor Michael Kratsios discusses the Trump administration'
 
 📺 Fox News Clips
 
-👁️ 29K • 👍 609 • 💬 165 • ⏱️ 4:08 • 8h ago
+👁️ 29K • 👍 609 • 💬 165 • ⏱️ 4:08 • 9h ago
 
 ---
 
@@ -348,7 +346,7 @@ Grok AI stopped working for free? In this video I found 7 Secret FREE AI Video G
 
 📺 zapiwala ai
 
-👁️ 4K • 👍 216 • 💬 26 • ⏱️ 3:57 • 9h ago
+👁️ 4K • 👍 216 • 💬 26 • ⏱️ 3:57 • 10h ago
 
 ---
 
@@ -464,7 +462,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 5,346 • ❤️ 212 • 4h ago
+⬇️ 5,346 • ❤️ 212 • 6h ago
 
 ---
 
@@ -667,7 +665,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 13.0k • 🔱 1.6k • 15m ago
+⭐ 13.0k • 🔱 1.6k • 1h ago
 
 ---
 
@@ -687,7 +685,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.4k • 🔱 757 • 53m ago
+⭐ 10.4k • 🔱 757 • 2h ago
 
 ---
 
@@ -697,7 +695,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 10.4k • 🔱 534 • 27m ago
+⭐ 10.4k • 🔱 534 • 1h ago
 
 ---
 
@@ -717,7 +715,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 4.9k • 🔱 401 • 10m ago
+⭐ 4.9k • 🔱 401 • 1h ago
 
 ---
 
@@ -737,7 +735,7 @@ OpenShell is the safe, private runtime for autonomous AI agents.
 
 `Rust`
 
-⭐ 3.3k • 🔱 327 • 5h ago
+⭐ 3.3k • 🔱 327 • 6h ago
 
 ---
 
