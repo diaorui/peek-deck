@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-24T08:55:03.104262+00:00'
+updated: '2026-03-24T09:57:23.727779+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - news
-- social
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 24, 2026 at 08:55 UTC  
+**Last Updated:** March 24, 2026 at 09:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,26 +45,26 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +4.1%  
-**7d:** -0.4%  
-**30d:** +9.8%  
-**90d:** -18.8%  
-**1y:** -18.7%  
+**7d:** +0.1%  
+**30d:** +10.3%  
+**90d:** -18.4%  
+**1y:** -18.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1417.98B
+**Market Cap:** $1423.70B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--43.8%
+-43.4%
 
 **All-Time Low:** $67.81
-+104417.0%
++105064.4%
 
 ---
 
@@ -77,15 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[They don't know what's coming](https://www.reddit.com/r/Bitcoin/comments/1s1oscn/they_dont_know_whats_coming/)**
+**[Don't you just love and vague mysterious guys! lol](https://www.reddit.com/r/Bitcoin/comments/1s26awy/dont_you_just_love_and_vague_mysterious_guys_lol/)**
 
-14h ago
+3h ago
 
 ---
 
-**[Don't you just love and vague mysterious guys! lol](https://www.reddit.com/r/Bitcoin/comments/1s26awy/dont_you_just_love_and_vague_mysterious_guys_lol/)**
+**[They don't know what's coming](https://www.reddit.com/r/Bitcoin/comments/1s1oscn/they_dont_know_whats_coming/)**
 
-2h ago
+15h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 March 23, 2026
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-1031-btc-and-now-holds-762099-btc_03-23-2026) • 16h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-1031-btc-and-now-holds-762099-btc_03-23-2026) • 17h ago
 
 ---
 
@@ -101,15 +101,7 @@ March 23, 2026
 
 I am new to crypto, what would have caused this?
 
-21h ago
-
----
-
-**[Bitcoin is the future](https://www.reddit.com/r/Bitcoin/comments/1s257pm/bitcoin_is_the_future/)**
-
-BTC is for the world, all it takes is to believe and act.
-
-🔗 [X (formerly Twitter)](https://x.com/0xpicklecati/status/1917528745906430274?s=46) • 3h ago
+22h ago
 
 ---
 
@@ -117,7 +109,7 @@ BTC is for the world, all it takes is to believe and act.
 
 I have about 2k to start with. I just need to know how this works? Do I let it sit or do I need to learn how to trade? Help 😭 I’m so scared to buy these courses from these “traders”..
 
-2h ago
+3h ago
 
 ---
 
@@ -125,15 +117,23 @@ I have about 2k to start with. I just need to know how this works? Do I let it s
 
 TLDR: If you invested $10,000 in Bitcoin back on March 23, 2020, your investment today would be in six figures, at just over $100,000. By comparison, if you invested the same amount in the S&P 500 via index funds, then you'd be up to around $29,000. While both investments would have been highly profitable for you, there's no question that going with Bitcoin has proven to be much better.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/heres-much-bitcoin-surged-past-182000674.html?guccou) • 10h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/heres-much-bitcoin-surged-past-182000674.html?guccou) • 11h ago
 
 ---
 
-**[When do you think we’ll celebrate the $1M Bitcoin post?](https://www.reddit.com/r/Bitcoin/comments/1s1gz13/when_do_you_think_well_celebrate_the_1m_bitcoin/)**
+**[Bitcoin is the future](https://www.reddit.com/r/Bitcoin/comments/1s257pm/bitcoin_is_the_future/)**
 
-I was scrolling through the top posts of all time on this subreddit, and something really caught my attention. Two of the biggest posts ever are basically milestones: Bitcoin hitting $10,000 (around 8 years ago) Bitcoin hitting $100,000 (about a year ago) It made me pause for a second… because at those moments, both probably felt insane. Like a “we finally made it” kind of milestone. Now I’m wondering: When do you guys think we’ll see the same kind of post for $1,000,000? Also curious, what do you think would need to happen for that to become reality? Institutional adoption, inflation, global financial shifts…? It’s crazy how each milestone once felt impossible… until it wasn’t.
+BTC is for the world, all it takes is to believe and act.
 
-19h ago
+🔗 [X (formerly Twitter)](https://x.com/0xpicklecati/status/1917528745906430274?s=46) • 4h ago
+
+---
+
+**[Bitcoin Reorg: Rare Two-Block Reorganization at Height 941880](https://www.reddit.com/r/Bitcoin/comments/1s28es4/bitcoin_reorg_rare_twoblock_reorganization_at/)**
+
+Bitcoin sees rare two-block reorg at height 941880 as Foundry USA outpaces AntPool and ViaBTC in a mining race.
+
+🔗 [Cryip.co](https://cryip.co/bitcoin-reorg-rare-two-block-reorganization-at-height-941880/) • 1h ago
 
 ---
 
@@ -141,13 +141,15 @@ I was scrolling through the top posts of all time on this subreddit, and somethi
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-2h ago
+3h ago
 
 ---
 
-**[🦏 CFTC Chairman Michael Selig just signaled a major shift in how the US will regulate Bitcoin and crypto.](https://www.reddit.com/r/Bitcoin/comments/1s1jyoi/cftc_chairman_michael_selig_just_signaled_a_major/)**
+**[When do you think we’ll celebrate the $1M Bitcoin post?](https://www.reddit.com/r/Bitcoin/comments/1s1gz13/when_do_you_think_well_celebrate_the_1m_bitcoin/)**
 
-17h ago
+I was scrolling through the top posts of all time on this subreddit, and something really caught my attention. Two of the biggest posts ever are basically milestones: Bitcoin hitting $10,000 (around 8 years ago) Bitcoin hitting $100,000 (about a year ago) It made me pause for a second… because at those moments, both probably felt insane. Like a “we finally made it” kind of milestone. Now I’m wondering: When do you guys think we’ll see the same kind of post for $1,000,000? Also curious, what do you think would need to happen for that to become reality? Institutional adoption, inflation, global financial shifts…? It’s crazy how each milestone once felt impossible… until it wasn’t.
+
+20h ago
 
 ---
 
@@ -159,7 +161,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Crypto recovered on Tuesday morning even as Monday's relief rally unraveled across traditional markets, with oil jumping 4% on reports that Saudi Arabia and the UAE are moving to join the conflict.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -167,7 +169,27 @@ CoinDesk • 3h ago
 
 The original cryptocurrency advanced more than 5% to trade as high as $71,794 in New York before paring some of the gain.
 
-Fortune • 11h ago
+Fortune • 12h ago
+
+---
+
+**[Bitcoin Price Spikes As Trump Delays Strikes Against Iran](https://www.investors.com/news/bitcoin-price-trump-iran-delay-cryptocurrency-stocks-oil-price-futures-gold/)**
+
+Investor's Business Daily • 12h ago
+
+---
+
+**[Bitcoin Tops $71,000 as Trump Postpones Iran Power Plant Strike Plans](https://finance.yahoo.com/markets/crypto/articles/bitcoin-tops-71-000-trump-121115129.html)**
+
+The price move came after Donald Trump touted "productive conversations" regarding a cessation of hostilities in the Middle East.
+
+Yahoo Finance • 21h ago
+
+---
+
+**[Bitcoin Price, Ethereum, XRP Rise. Calling Crypto Price Moves is Getting Harder.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqeiQSk1a0LuWTquZGGOR8EqoJTKJpYnVSgVqrm4F7DDiMLXMjCFnBfp&gaa_ts=69c2636d&gaa_sig=3VzYiF1seLtJRXGrc4Jq1P_JdO1CatSpPe0fBvQYHa15cLldfXEz2XFgNSMft-42QItDstpQ87ZSFMng0gL6VQ%3D%3D)**
+
+Barron's • 46m ago
 
 ---
 
@@ -175,7 +197,7 @@ Fortune • 11h ago
 
 Geoffrey Kendrick of Standard Chartered thinks Bitcoin is poised for an epic rally.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -187,7 +209,7 @@ Bloomberg.com • 1d ago
 
 **[Saylor’s Strategy Returns to Common Stock for Latest Bitcoin Buy](https://www.bloomberg.com/news/articles/2026-03-23/saylor-s-strategy-returns-to-common-stock-for-latest-bitcoin-buy)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -195,37 +217,13 @@ Bloomberg.com • 14h ago
 
 Led by Executive Chairman Michael Saylor, Strategy acquired 1,031 bitcoin, bringing holdings to 762,099 coins.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
 **[Strategy Eyes $78 Bil Bitcoin War Chest. Be Skeptical.](https://www.investors.com/news/mstr-stock-strategy-58-billion-bitcoin-war-chest/)**
 
-Investor's Business Daily • 11h ago
-
----
-
-**[JPMorgan, Morgan Stanley provide $1B credit to Bitcoin miner](https://www.thestreet.com/crypto/business/jpmorgan-morgan-stanley-provide-1b-credit-to-bitcoin-miner)**
-
-Wall Street backs Bitcoin miner pivot into AI and data centers.
-
-thestreet.com • 11h ago
-
----
-
-**[Bitcoin Price Recovery Paints Familiar Pattern—And That’s the Problem: Analysis](https://decrypt.co/362087/bitcoin-price-pattern-market-crash-analysis)**
-
-Bitcoin bulls are feeling it right now. But the price chart is quietly drawing the same pattern it drew before two major crashes in a row.
-
-Decrypt • 12h ago
-
----
-
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1774321200)**
-
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 2h ago
+Investor's Business Daily • 12h ago
 
 ---
 
@@ -289,17 +287,7 @@ Nobody knows how screwed everyone actually is right now. Not Iran. Not the Gulf.
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 281 • ⏱️ 15:05 • 9h ago
-
----
-
-**[Bitcoin Will Hit THIS LEVEL! Bitcoin BULL MARKET If It BREAKS! Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=2G-0DU2lLP4)**
-
-Every reason why a test of the 20 WEMA is coming, and if it breaks we will enter into a bull market. Top-Tier Crypto Trading ...
-
-📺 Crypto Jebb
-
-👁️ 6K • 👍 327 • 💬 215 • ⏱️ 12:00 • 14h ago
+👁️ 14K • 👍 1K • 💬 224 • ⏱️ 15:05 • 10h ago
 
 ---
 
@@ -319,7 +307,7 @@ million in crypto liquidations. In four hours. Today. Bitcoin whipsawed from $67
 
 📺 Money Talks
 
-👁️ 2K • 👍 77 • 💬 126 • ⏱️ 13:33 • 11h ago
+👁️ 2K • 👍 81 • 💬 10 • ⏱️ 13:33 • 12h ago
 
 ---
 
@@ -329,7 +317,7 @@ In today's video, we're breaking down why this specific "Crash Signal" has a hig
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 432 • 💬 13 • ⏱️ 1:10:53 • 17h ago
+👁️ 7K • 👍 434 • 💬 13 • ⏱️ 1:10:53 • 18h ago
 
 ---
 
@@ -339,7 +327,7 @@ Bitcoin #Crypto #Finance Anthony Scaramucci says this Bitcoin pullback may be fa
 
 📺 The Wolf Of All Streets
 
-👁️ 35K • 👍 1K • 💬 278 • ⏱️ 30:41 • 1d ago
+👁️ 35K • 👍 1K • 💬 282 • ⏱️ 30:41 • 1d ago
 
 ---
 
@@ -349,17 +337,17 @@ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 164 • ⏱️ 8:36 • 2d ago
+👁️ 32K • 👍 2K • 💬 165 • ⏱️ 8:36 • 2d ago
 
 ---
 
-**[BITCOIN *MAX PAIN* HAS JUST BEGUN....](https://www.youtube.com/watch?v=w62ASlA9TKY)**
+**[🚨 BTC &amp; ETH: TERRIBLE NEWS!!!](https://www.youtube.com/watch?v=OWhm79nmI4c)**
 
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
+The situation just got 10 times worse for bitcoin, ethereum and the rest of crypto! Markets are about to tank! Here is why and how to ...
 
-📺 Tyler S
+📺 Thomas Kralow
 
-👁️ 13K • 👍 796 • 💬 263 • ⏱️ 13:54 • 15h ago
+👁️ 14K • 👍 2K • 💬 35 • ⏱️ 11:52 • 22h ago
 
 ---
 
@@ -373,13 +361,23 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 ---
 
-**[🚨 BTC &amp; ETH: TERRIBLE NEWS!!!](https://www.youtube.com/watch?v=OWhm79nmI4c)**
+**[BITCOIN: NO ONE IS SEEING THIS...](https://www.youtube.com/watch?v=GXSlFRntyCI)**
 
-The situation just got 10 times worse for bitcoin, ethereum and the rest of crypto! Markets are about to tank! Here is why and how to ...
+WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $25 ...
 
-📺 Thomas Kralow
+📺 Crypto Rover
 
-👁️ 13K • 👍 2K • 💬 33 • ⏱️ 11:52 • 21h ago
+👁️ 4K • 👍 374 • 💬 84 • ⏱️ 7:57 • 5h ago
+
+---
+
+**[BITCOIN *MAX PAIN* HAS JUST BEGUN....](https://www.youtube.com/watch?v=w62ASlA9TKY)**
+
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
+
+📺 Tyler S
+
+👁️ 14K • 👍 806 • 💬 137 • ⏱️ 13:54 • 16h ago
 
 ---
 

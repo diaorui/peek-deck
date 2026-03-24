@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-24T08:55:03.110286+00:00'
+updated: '2026-03-24T09:57:23.734798+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - news
-- social
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 24, 2026 at 08:55 UTC  
+**Last Updated:** March 24, 2026 at 09:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +5.6%  
-**7d:** -2.2%  
-**30d:** +16.2%  
-**90d:** -25.7%  
-**1y:** +4.5%  
+**24h:** +5.8%  
+**7d:** -1.8%  
+**30d:** +16.7%  
+**90d:** -25.4%  
+**1y:** +4.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $260.67B
+**Market Cap:** $260.72B
 Rank #2
 
 **Circulating Supply:** 120,691,566 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.4%
+-56.2%
 
 **All-Time Low:** $0.43
-+498335.3%
++499935.8%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
 **[EthStaker: Ethereum Staking Survey | Any type of staker or even non-stakers are called to respond](https://www.reddit.com/r/ethereum/comments/1s2419r/ethstaker_ethereum_staking_survey_any_type_of/)**
 
-🔗 [ethstaker.org](https://ethstaker.org/forms/staking-landscape-survey-2026) • 4h ago
+🔗 [ethstaker.org](https://ethstaker.org/forms/staking-landscape-survey-2026) • 5h ago
 
 ---
 
@@ -148,7 +148,7 @@ US SEC securities laws application to crypto, fast confirmation rule, EF mandate
 
 **[How L1 and L2s can build the strongest possible Ethereum](https://blog.ethereum.org/2026/03/23/l1-l2-ethereum)**
 
-Ethereum Foundation Blog • 15h ago
+Ethereum Foundation Blog • 16h ago
 
 ---
 
@@ -156,7 +156,21 @@ Ethereum Foundation Blog • 15h ago
 
 BitMine Immersion Technologies now holds more than $10 billion worth of Ethereum, leading the ETH treasury pack as the asset rebounds.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
+
+---
+
+**[Bitcoin Price, Ethereum, XRP Rise. Calling Crypto Price Moves is Getting Harder.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqeEC8TicQ4aDgkYvESOejMmMTM7naw5W9L1OKp4mH9esT2YdUvk35kL&gaa_ts=69c26370&gaa_sig=hJIFACgndBsWktWJeS4Sx94BGBVvQ6iBEQHlt4Oxt0WZyzqYHQ9r2l8eJMpNuae3sJRsZeXssuhPxpL_IXpWbw%3D%3D)**
+
+Barron's • 46m ago
+
+---
+
+**[The SEC Just Classified 16 Cryptocurrencies as Digital Commodities. 3 of Them Could Double From Here.](https://www.fool.com/investing/2026/03/23/the-sec-just-classified-16-cryptocurrencies-as-dig/)**
+
+Regulators just created the conditions which will help the entire crypto market to flourish.
+
+The Motley Fool • 20h ago
 
 ---
 
@@ -164,7 +178,7 @@ Yahoo Finance • 17h ago
 
 The Ethereum treasury firm led by Thomas Lee now has increased its buying pace for three consecutive weeks even as unrealized losses mount.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -172,15 +186,7 @@ CoinDesk • 19h ago
 
 An Ethereum OG transferred 15,002 ETH, worth about $31 million, to Coinbase and still holds 14,814 ETH, according to Lookonchain.
 
-The Block • 22h ago
-
----
-
-**[Stock Market Crash: The Best Cryptocurrencies to Buy Right Now](https://www.fool.com/investing/2026/03/22/stock-market-crash-best-cryptocurrencies-to-buy/)**
-
-Three cryptocurrencies look like good candidates to rebound this year.
-
-The Motley Fool • 1d ago
+The Block • 23h ago
 
 ---
 
@@ -192,17 +198,11 @@ TradingView • 1d ago
 
 ---
 
-**[Most large cryptocurrencies climb on Avalanche, Ethereum increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-climb-on-avalanche-ethereum-increases-460e6938-c25d4eb6a817?gaa_at=eafs&gaa_n=AWEtsqfwGFy_iJavuwSfCQ5UcDzZLWC1V1nh2csah6JZ1AFyTIDRoYECw6iS&gaa_ts=69c254c2&gaa_sig=RxizsJh0A_EfDdjx02E-AJxXwL5REDfqk9ba3idacRAWALzBf4lUoyC8Kb1McMsLevlNAqkScIXaEetnWRTHfw%3D%3D)**
-
-MarketWatch • 18h ago
-
----
-
 **[MoonPay opensources wallet standard for AI agents with help from PayPal, Ethereum +](https://www.ledgerinsights.com/moonpay-opensources-wallet-standard-for-ai-agents-with-help-from-paypal-ethereum/)**
 
 MoonPay has launched the Open Wallet Standard (OWS), an open source framework designed to give AI agents a consistent way to hold funds and sign
 
-ledgerinsights.com • 17h ago
+ledgerinsights.com • 18h ago
 
 ---
 
@@ -210,7 +210,7 @@ ledgerinsights.com • 17h ago
 
 Dubai, UAE, March  23, 2026  (GLOBE NEWSWIRE) -- The Ethereum based crypto Pepeto just entered its last exchange testing phase after a senior Bina...
 
-markets.businessinsider.com • 11h ago
+markets.businessinsider.com • 12h ago
 
 ---
 
@@ -218,7 +218,7 @@ markets.businessinsider.com • 11h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 13h ago
+Fortune • 14h ago
 
 ---
 
@@ -226,33 +226,13 @@ Fortune • 13h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum 💀 Dead or Cheap?](https://www.youtube.com/watch?v=Q6Dnkq98Tb8)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 2K • 👍 104 • 💬 21 • ⏱️ 9:47 • 21h ago
-
----
-
 **[Vitalik vs BlackRock: Who Wins?](https://www.youtube.com/watch?v=l77QrTEIgpo)**
 
 BlackRock just launched a staking Ethereum ETF—but is it really a win for investors? This video breaks down ETHB, hidden fees, ...
 
 📺 Coin Bureau
 
-👁️ 23K • 👍 916 • 💬 97 • ⏱️ 18:11 • 2d ago
-
----
-
-**[BITCOIN: This Could Change EVERYTHING (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=vEYWTg0YWL4)**
-
-BITCOIN: This Could Change EVERYTHING (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 3K • 👍 173 • 💬 16 • ⏱️ 16:35 • 7h ago
+👁️ 23K • 👍 920 • 💬 97 • ⏱️ 18:11 • 2d ago
 
 ---
 
@@ -262,7 +242,17 @@ The situation just got 10 times worse for bitcoin, ethereum and the rest of cryp
 
 📺 Thomas Kralow
 
-👁️ 13K • 👍 2K • 💬 33 • ⏱️ 11:52 • 21h ago
+👁️ 14K • 👍 2K • 💬 35 • ⏱️ 11:52 • 22h ago
+
+---
+
+**[Ethereum 💀 Dead or Cheap?](https://www.youtube.com/watch?v=Q6Dnkq98Tb8)**
+
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 2K • 👍 112 • 💬 20 • ⏱️ 9:47 • 22h ago
 
 ---
 
@@ -272,7 +262,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 159 • 💬 4 • ⏱️ 4:00 • 14h ago
+👁️ 2K • 👍 168 • 💬 4 • ⏱️ 4:00 • 15h ago
+
+---
+
+**[BITCOIN: This Could Change EVERYTHING (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=vEYWTg0YWL4)**
+
+BITCOIN: This Could Change EVERYTHING (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 4K • 👍 196 • 💬 17 • ⏱️ 16:35 • 8h ago
 
 ---
 
@@ -282,47 +282,47 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 3K • 👍 169 • 💬 46 • ⏱️ 1:44:01 • 22h ago
+👁️ 3K • 👍 177 • 💬 17 • ⏱️ 1:44:01 • 23h ago
 
 ---
 
-**[Monad VS Ethereum...Is This the Better Layer 1?](https://www.youtube.com/watch?v=gMoBQfVf0Q0)**
+**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=dyFR9n8hna0)**
 
-Monad combines speed, low fees, and EVM compatibility. Watch this breakdown of its mainnet launch, technical design, and what ...
+BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Start your trading journey with XM — a trusted and ...
 
-📺 CoinGecko
+📺 Ashutosh Kumar
 
-👁️ 1K • 👍 122 • 💬 54 • ⏱️ 9:10 • 22h ago
-
----
-
-**[LAST CHANCE FOR ETHEREUM NOW🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=Kc3aGhUeDAo)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 555 • 👍 15 • 💬 4 • ⏱️ 4:30 • 22h ago
+👁️ 5K • 👍 542 • 2h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=5lMMWAgjCSU)**
+**[Ethereum To Hit $1 Trillion Market Cap SOON! #shorts](https://www.youtube.com/watch?v=pgJL9QCTc-A)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Ethereum is on track to reach a trillion-dollar market cap. With its current growth, a 4X increase could cement its status as a global ...
 
-📺 More Crypto Online
+📺 CoinBros
 
-👁️ 2K • 👍 98 • 💬 1 • ⏱️ 4:11 • 1d ago
+👁️ 34 • ⏱️ 0:55 • 7h ago
 
 ---
 
-**[MOONGANG #208: $1,000 Ethereum (ETH)](https://www.youtube.com/watch?v=S_xhRAyRIEE)**
+**[Ethereum Foundation Sells ETH: What It Means! #shorts](https://www.youtube.com/watch?v=Fsficj1g1MA)**
 
-Today we discuss whether Ethereum (ETH) can reach $1000 USD or below in the 2026 bear market, how its timing could be ...
+The Ethereum Foundation has finalized terms for a 5000 ETH sale at an average price of $2042 via OTC. BMNR purchased the ...
 
-📺 Cultivate Crypto
+📺 MONEY GAME
 
-👁️ 1K • 👍 137 • 💬 10 • ⏱️ 2:04:05 • 1d ago
+👁️ 157 • 👍 1 • ⏱️ 0:45 • 6h ago
+
+---
+
+**[Ethereum Price vs. Activity: A Huge Divergence Explained #shorts](https://www.youtube.com/watch?v=j_pHM-ggefE)**
+
+Ethereum's network activity, including active addresses and smart contract calls, has hit record highs. Yet, its price is down 30%.
+
+📺 CoinBros
+
+👁️ 22 • 👍 1 • ⏱️ 1:57 • 7h ago
 
 ---
 

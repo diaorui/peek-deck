@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-24T08:55:03.113479+00:00'
+updated: '2026-03-24T09:57:23.738014+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 24, 2026 at 08:55 UTC  
+**Last Updated:** March 24, 2026 at 09:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,27 @@ Robotics research and industry news
 
 From Marc Benioff on 𝕏: https://x.com/Benioff/status/2036252519308075219
 
-5h ago
+6h ago
 
 ---
 
 **[Autonomous transport vehicles handling cargo operations at a modern port](https://www.reddit.com/r/robotics/comments/1s1m49a/autonomous_transport_vehicles_handling_cargo/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Roadrunner, the latest robot from the Robotics and AI Institute, is a bipedal, wheeled robot for multi-modal locomotion](https://www.reddit.com/r/robotics/comments/1s1jo4q/roadrunner_the_latest_robot_from_the_robotics_and/)**
 
-17h ago
+18h ago
+
+---
+
+**[New demo by Kyber Labs showing a system doing real lab tasks (one single take, no cuts, and no teleoperation just accelerated and some parts in 1x)](https://www.reddit.com/r/robotics/comments/1s299ix/new_demo_by_kyber_labs_showing_a_system_doing/)**
+
+From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/2036127368088080867 On Youtube: Kyber Labs - Wet Lab Demo: https://www.youtube.com/watch?v=iM7WjQYlFvM Kyber Labs Demos: https://kyberlabs.ai/demos
+
+11m ago
 
 ---
 
@@ -56,7 +64,7 @@ From Marc Benioff on 𝕏: https://x.com/Benioff/status/2036252519308075219
 
 I built this robot to perform with acrobats in new and interesting ways. See Acrobot.nl for more info, and as always I'm happy to answer questions! This video was taken in Krystallpalast in Germany where the Acrobot plays for the next 3 months.
 
-20h ago
+21h ago
 
 ---
 
@@ -78,7 +86,7 @@ This is Ricket, a robot project I’ve been building for the past year, programm
 
 **[IEEE RAS / Czech Technical University in Multi-Robot Systems Summer Camp in Prague -- learn ROS, earn course credits, and visit Prague](https://www.reddit.com/r/robotics/comments/1s1uy0i/ieee_ras_czech_technical_university_in_multirobot/)**
 
-🔗 [mrs.fel.cvut.cz](https://mrs.fel.cvut.cz/summer-school-2026/) • 10h ago
+🔗 [mrs.fel.cvut.cz](https://mrs.fel.cvut.cz/summer-school-2026/) • 12h ago
 
 ---
 
@@ -86,15 +94,7 @@ This is Ricket, a robot project I’ve been building for the past year, programm
 
 Hi guys, In my recent experience with deploying AgroSense, a LoRaWAN-based device, I've found that Timestamping and Data Retransmission are not just nice-to-haves but essential for ensuring data reliability and traceability in LoRaWAN product field applications. In remote and rural environments, where network connectivity can be intermittent, these features prove invaluable. Timestamps ensure we know exactly when the data was collected, while retransmission guarantees that any data lost due to temporary connection failures is automatically retrieved and uploaded. What is Timestamp & Why Timestamps Matter in LoRaWAN Devices A timestamp indicates a specific point in time associated with an event. In my experience of using AgroSense, it represents the time at which the data was collected. I’ve learned firsthand that timestamps are key for providing historical context to the data. Without them, data from LoRaWAN devices is typically identified by a sequence number, making it challenging to pinpoint when exactly the data was collected. Timestamps offer clear data tracking: With a precise time reference, users can easily track when each data point was recorded, improving data traceability. Better for long-term analysis: As the volume of data grows, timestamps make it much easier to query and analyze historical data with accuracy, especially in long-term deployments. The timestamp implementation in my device follows the process below: After a successful LoRaWAN network join, the device sends a request to the server to obtain current time information. Once the time information is received, it is synchronized to the system clock. The device periodically re-synchronizes the time with the server every 10 days to calibrate clock. My field Application Test Result As Above Timestamp Synchronization Test When the timestamp is not obtained during the first power-on, the default upload time is January 1, 1970. After obtaining the correct time, the second upload will automatically upload the real-time time. What Is a Data Retransmission & Why Is It Important for LoRaWAN Devices ? In practice, we’ve encountered network interruptions in the field due to factors like poor signal conditions, temporary gateway outages, and network congestion. Without a data retransmission mechanism, any lost packets would be permanently missed, affecting the integrity of data collection. In my experience of using AgroSense, the retransmission mechanism works as follows: The device stores data packets locally when they fail to be delivered to the cloud. (But NOT if succeed) When the cloud successfully receives a new uplink message from the device, the device checks whether there are historical packets that were not successfully uploaded. If such packets exist, the device will automatically retransmit them. Each retransmission cycle can resend up to three historical data packets, until all historical data reported. My field Application Test Result As Above pic I try to turn off the gateway power supply to simulate an abnormal situation. (Note: “Num” is the packet ID). As gateway recovery, the data re-uploaded and displayed on the correct coordinate axes.
 
-4h ago
-
----
-
-**[HEXAPOD PROGRESSSSS](https://www.reddit.com/r/robotics/comments/1s0s75e/hexapod_progresssss/)**
-
-Still cant get it to walk forward yet but rotating seems okay. Can definitely be better tho. This is still a work im progress, the hexapod frame is 3d printed from a creator at makerworld. The internals and code are mine. Mine uses a ps2 controller for this hexapod. If any of you guys are working on the same frame, i will share the schematics and code for free once im finally done with this builddd. Its been about a month since i started this hexapod and mannnn its been cracking my head ever since 😂
-
-1d ago
+5h ago
 
 ---
 
@@ -102,7 +102,7 @@ Still cant get it to walk forward yet but rotating seems okay. Can definitely be
 
 Genuine question, I spent some time playing with microcontrollers, encoders, and accelerometers. I will say my weak point was PID, but at the same time I keep seeing all these videos about robotics moving perfectly down a street or in a line or going to a specific location. Can someone point me in the right direction with how they do that? I heard about GPS chips but.. is there any reliable MCU’s or what types of chips, parts, do you use that make it easier to program a robot to move in these very accurate movements? Would appreciate any microcontroller suggestions, or reliable accelerometers. I know accelerometers tend to have the error over time that can be hard to fix but how does one erase that or minimize it if a robot keeps moving? Thank you
 
-11h ago
+13h ago
 
 ---
 
@@ -112,7 +112,31 @@ Genuine question, I spent some time playing with microcontrollers, encoders, and
 
 **[Bird‑like robots promise greater flexibility and control than drones](https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html)**
 
-Tech Xplore • 15h ago
+Tech Xplore • 16h ago
+
+---
+
+**[Self-powered triboelectric wireless sensor for robotic arm control via enhanced electromagnetic induction](https://www.nature.com/articles/s44460-026-00039-x)**
+
+A fully self-powered wireless arm interface converts human motion into electrical signals and wireless commands using a compact triboelectric nanogenerator, enabling battery-free, real-time robotic arm control for industrial and human–machine applications.
+
+Nature • 22h ago
+
+---
+
+**[Hyundai-backed humanoid robots to transform welding in shipyards](https://interestingengineering.com/ai-robotics/hyundai-persona-humanoid-robot-welding-shipyard)**
+
+Hyundai partners Persona AI to develop humanoid welding robots, advancing automation across global shipyard operations
+
+Interesting Engineering • 21h ago
+
+---
+
+**[GMEX Robotics Receives AU$4.2 Million First Commercial Order from Leading Australian Food & Beverage Group](https://finance.yahoo.com/sectors/technology/articles/gmex-robotics-receives-au-4-124500890.html)**
+
+SYDNEY, Australia, March 23, 2026 (GLOBE NEWSWIRE) -- GMEX Robotics Corporation (NASDAQ: GMEX) (“GMEX Robotics” or the “Company”), a developer of AI-powered robotic technologies, announces that it has entered into a purchase agreement with a leading Australian food and beverage group (“FBG”) for the deployment of the Company’s intelligent culinary robotics systems, including its recently announced personal robotic chef - 2Fculinary AI, and the purchase order from this FBG. The AU$4.2 million agr
+
+Yahoo Finance • 21h ago
 
 ---
 
@@ -121,30 +145,6 @@ Tech Xplore • 15h ago
 APPLETON (WLUK) -- See robots in action at a STEM event at Appleton East High School this weekend.Almost 40 high school robotics teams from across the region ar
 
 WLUK • 1d ago
-
----
-
-**[Hyundai-backed humanoid robots to transform welding in shipyards](https://interestingengineering.com/ai-robotics/hyundai-persona-humanoid-robot-welding-shipyard)**
-
-Hyundai partners Persona AI to develop humanoid welding robots, advancing automation across global shipyard operations
-
-Interesting Engineering • 20h ago
-
----
-
-**[Ferndale middle school robotics team to head to World Championship after back-to-back state titles](https://www.clickondetroit.com/news/local/2026/03/23/ferndale-middle-school-robotics-team-to-head-to-world-championship-after-back-to-back-state-titles/)**
-
-The Giggle Pickles, a robotics team from Ferndale Middle School, secured their second consecutive Michigan State Championship and earned an invitation to the 2026 FIRST Tech Challenge World Championship in Houston.
-
-ClickOnDetroit | WDIV Local 4 • 17h ago
-
----
-
-**[GMEX Robotics Receives AU$4.2 Million First Commercial Order from Leading Australian Food & Beverage Group](https://finance.yahoo.com/sectors/technology/articles/gmex-robotics-receives-au-4-124500890.html)**
-
-SYDNEY, Australia, March 23, 2026 (GLOBE NEWSWIRE) -- GMEX Robotics Corporation (NASDAQ: GMEX) (“GMEX Robotics” or the “Company”), a developer of AI-powered robotic technologies, announces that it has entered into a purchase agreement with a leading Australian food and beverage group (“FBG”) for the deployment of the Company’s intelligent culinary robotics systems, including its recently announced personal robotic chef - 2Fculinary AI, and the purchase order from this FBG. The AU$4.2 million agr
-
-Yahoo Finance • 20h ago
 
 ---
 
@@ -164,27 +164,25 @@ Hackster.io • 2d ago
 
 ---
 
+**[Video | Here’s what it takes to get a robot ready for the world](https://www.scmp.com/news/china/article/3347715/inside-beijing-lab-humanoid-robots-are-put-test)**
+
+South China Morning Post • 19m ago
+
+---
+
 **[The Rise of AI-Driven Robotics](https://www.inc.com/matthew-chang/the-rise-of-ai-driven-robotics/91320625)**
 
 Dilemmas, needs, and game-changing trends for 2026 and beyond.
 
-inc.com • 19h ago
+inc.com • 20h ago
 
 ---
 
-**[Barrington-Area Robotics Team advances to world championship](https://www.dailyherald.com/20260323/submitted-content/barrington-area-robotics-team-advances-to-world-championship/)**
+**[Ferndale middle school robotics team to head to World Championship after back-to-back state titles](https://www.clickondetroit.com/news/local/2026/03/23/ferndale-middle-school-robotics-team-to-head-to-world-championship-after-back-to-back-state-titles/)**
 
-A student robotics team from the Barrington area is headed to the international stage after earning the top honor at the Illinois FIRST Tech Challenge competition. Stealth Robotics, based in South Bar...
+The Giggle Pickles, a robotics team from Ferndale Middle School, secured their second consecutive Michigan State Championship and earned an invitation to the 2026 FIRST Tech Challenge World Championship in Houston.
 
-Daily Herald • 14h ago
-
----
-
-**[Allen East robotics team to hold open house](https://www.limaohio.com/news/2026/03/23/allen-east-robotics-team-to-hold-open-house/)**
-
-HARROD — The Allen East Robotics Team will hold an open house from 5:30 to 6:30 p.m. Monday, April 13 in the STEM lab at the school, 9105 Harding Highway, Harrod.
-
-LimaOhio.com • 11h ago
+ClickOnDetroit | WDIV Local 4 • 18h ago
 
 ---
 
@@ -198,7 +196,7 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 📺 CNET
 
-👁️ 13K • 👍 401 • 💬 23 • ⏱️ 5:50 • 1d ago
+👁️ 13K • 👍 406 • 💬 23 • ⏱️ 5:50 • 1d ago
 
 ---
 
@@ -208,7 +206,7 @@ This week in robotics got kind of ridiculous. South Korea showed off a humanoid 
 
 📺 AI Revolution
 
-👁️ 94K • 👍 2K • 💬 108 • ⏱️ 14:31 • 1d ago
+👁️ 100K • 👍 2K • 💬 108 • ⏱️ 14:31 • 1d ago
 
 ---
 
@@ -222,13 +220,13 @@ Gecko Robotics announced a $71 million partnership with the US Navy, deploying i
 
 ---
 
-**[China’s New Tennis Robot Reveals the Next Step for Humanoid Robots](https://www.youtube.com/watch?v=pT1BBg-Sehg)**
+**[What It Took to Make This Robot Work](https://www.youtube.com/watch?v=qzNmMoFnRsY)**
 
-Subscribe To My Newsletter - https://aigrid.beehiiv.com/subscribe Get your Free AGI Preparedness Guide ...
+COGLET KICKSTARTER LAUNCH: ...
 
-📺 TheAIGRID
+📺 Will Cogley
 
-👁️ 13K • 👍 250 • 💬 45 • ⏱️ 10:30 • 4d ago
+👁️ 19K • 👍 1K • 💬 72 • ⏱️ 10:35 • 3d ago
 
 ---
 
@@ -238,7 +236,17 @@ Unique Motion Chaining | 197E Ethereus | Robot Rundown 197E Ethereus shows off t
 
 📺 FUN Robotics Network
 
-👁️ 3K • 👍 84 • 💬 7 • ⏱️ 2:42 • 10h ago
+👁️ 3K • 👍 90 • 💬 7 • ⏱️ 2:42 • 11h ago
+
+---
+
+**[China’s New Tennis Robot Reveals the Next Step for Humanoid Robots](https://www.youtube.com/watch?v=pT1BBg-Sehg)**
+
+Subscribe To My Newsletter - https://aigrid.beehiiv.com/subscribe Get your Free AGI Preparedness Guide ...
+
+📺 TheAIGRID
+
+👁️ 13K • 👍 250 • 💬 45 • ⏱️ 10:30 • 5d ago
 
 ---
 
@@ -248,27 +256,27 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 304K • 👍 4K • 💬 2K • ⏱️ 2:07 • 4d ago
+👁️ 306K • 👍 4K • 💬 2K • ⏱️ 2:07 • 4d ago
 
 ---
 
-**[Instantly Change Gear Ratios with Clip In Gearboxes! #robotics #dcmotor #electronics](https://www.youtube.com/watch?v=8u4dpd1zONc)**
+**[Bezos is raising $100 billion to replace workers with robots](https://www.youtube.com/watch?v=bnWp0HVneRU)**
 
-Join the community & access CAD files, Code snippets, & more robotics resources ⤵️ https://shop.broganpratt.com/ Want to ...
+Jeff Bezos, one of the richest men on earth, is raising $100 billion to replace workers with robots around the world. The oligarchs ...
 
-📺 Brogan M. Pratt
+📺 Senator Bernie Sanders
 
-👁️ 2K • 👍 15 • 💬 2 • ⏱️ 0:30 • 16h ago
+👁️ 114K • 👍 11K • 💬 1K • ⏱️ 0:49 • 3d ago
 
 ---
 
-**[What It Took to Make This Robot Work](https://www.youtube.com/watch?v=qzNmMoFnRsY)**
+**[Engineering Disney’s Olaf Robot](https://www.youtube.com/watch?v=zi0xi_UwvBU)**
 
-COGLET KICKSTARTER LAUNCH: ...
+How do you build a robot with a massive head, no visible legs, and motors that overheat? ❄️   Explaining the engineering ...
 
-📺 Will Cogley
+📺 ZAUEY (Claire Zau)
 
-👁️ 19K • 👍 1K • 💬 71 • ⏱️ 10:35 • 3d ago
+👁️ 11K • 👍 2K • 💬 46 • ⏱️ 2:09 • 1d ago
 
 ---
 
@@ -278,17 +286,7 @@ Do you want to see a humanoid AI lab from the inside? I do – join me and let's
 
 📺 Andreas Klinger @ PROTOTYPE
 
-👁️ 13K • 👍 514 • 💬 39 • ⏱️ 18:52 • 3d ago
-
----
-
-**[Dancing robot goes rogue in hot pot restaurant](https://www.youtube.com/watch?v=DfnIEWpbMU8)**
-
-Video shows restaurant employees struggling to restrain a dancing robot that went rogue in a hot pot restaurant in California.
-
-📺 NBC News
-
-👁️ 204K • 👍 2K • 💬 662 • ⏱️ 3:38 • 5d ago
+👁️ 13K • 👍 516 • 💬 38 • ⏱️ 18:52 • 3d ago
 
 ---
 
