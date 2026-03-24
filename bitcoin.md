@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-24T10:56:10.199269+00:00'
+updated: '2026-03-24T11:48:09.648583+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - cryptocurrency
 - news
 - social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 24, 2026 at 10:56 UTC  
+**Last Updated:** March 24, 2026 at 11:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,084.11
+### $71,189.46
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.1%  
+**24h:** +1.0%  
 **7d:** +0.1%  
 **30d:** +10.3%  
-**90d:** -18.4%  
-**1y:** -18.3%  
+**90d:** -18.5%  
+**1y:** -18.4%  
 
 ---
 
@@ -79,13 +79,21 @@ Rank #1
 
 **[Don't you just love and vague mysterious guys! lol](https://www.reddit.com/r/Bitcoin/comments/1s26awy/dont_you_just_love_and_vague_mysterious_guys_lol/)**
 
-4h ago
+5h ago
+
+---
+
+**[One hell of a life](https://www.reddit.com/r/Bitcoin/comments/1s29600/one_hell_of_a_life/)**
+
+6 figs Bitcoin guys : BMW, ig model girlfriend 7 figs Bitcoin guys : Lambo, Dubai penthouse 8 figs Bitcoin guys:
+
+2h ago
 
 ---
 
 **[They don't know what's coming](https://www.reddit.com/r/Bitcoin/comments/1s1oscn/they_dont_know_whats_coming/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -93,15 +101,7 @@ Rank #1
 
 March 23, 2026
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-1031-btc-and-now-holds-762099-btc_03-23-2026) • 18h ago
-
----
-
-**[Bitcoin Just jumped 3k in a couple minutes..](https://www.reddit.com/r/Bitcoin/comments/1s1dxww/bitcoin_just_jumped_3k_in_a_couple_minutes/)**
-
-I am new to crypto, what would have caused this?
-
-23h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-1031-btc-and-now-holds-762099-btc_03-23-2026) • 19h ago
 
 ---
 
@@ -109,15 +109,15 @@ I am new to crypto, what would have caused this?
 
 I have about 2k to start with. I just need to know how this works? Do I let it sit or do I need to learn how to trade? Help 😭 I’m so scared to buy these courses from these “traders”..
 
-4h ago
+5h ago
 
 ---
 
-**[Here's How Much Bitcoin Has Surged Past the S&P 500 Since the 2020 Covid Crash](https://www.reddit.com/r/Bitcoin/comments/1s1v49f/heres_how_much_bitcoin_has_surged_past_the_sp_500/)**
+**[Bitcoin Just jumped 3k in a couple minutes..](https://www.reddit.com/r/Bitcoin/comments/1s1dxww/bitcoin_just_jumped_3k_in_a_couple_minutes/)**
 
-TLDR: If you invested $10,000 in Bitcoin back on March 23, 2020, your investment today would be in six figures, at just over $100,000. By comparison, if you invested the same amount in the S&P 500 via index funds, then you'd be up to around $29,000. While both investments would have been highly profitable for you, there's no question that going with Bitcoin has proven to be much better.
+I am new to crypto, what would have caused this?
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/heres-much-bitcoin-surged-past-182000674.html?guccou) • 12h ago
+1d ago
 
 ---
 
@@ -125,15 +125,15 @@ TLDR: If you invested $10,000 in Bitcoin back on March 23, 2020, your investment
 
 BTC is for the world, all it takes is to believe and act.
 
-🔗 [X (formerly Twitter)](https://x.com/0xpicklecati/status/1917528745906430274?s=46) • 5h ago
+🔗 [X (formerly Twitter)](https://x.com/0xpicklecati/status/1917528745906430274?s=46) • 6h ago
 
 ---
 
-**[Bitcoin Reorg: Rare Two-Block Reorganization at Height 941880](https://www.reddit.com/r/Bitcoin/comments/1s28es4/bitcoin_reorg_rare_twoblock_reorganization_at/)**
+**[Here's How Much Bitcoin Has Surged Past the S&P 500 Since the 2020 Covid Crash](https://www.reddit.com/r/Bitcoin/comments/1s1v49f/heres_how_much_bitcoin_has_surged_past_the_sp_500/)**
 
-Bitcoin sees rare two-block reorg at height 941880 as Foundry USA outpaces AntPool and ViaBTC in a mining race.
+TLDR: If you invested $10,000 in Bitcoin back on March 23, 2020, your investment today would be in six figures, at just over $100,000. By comparison, if you invested the same amount in the S&P 500 via index funds, then you'd be up to around $29,000. While both investments would have been highly profitable for you, there's no question that going with Bitcoin has proven to be much better.
 
-🔗 [Cryip.co](https://cryip.co/bitcoin-reorg-rare-two-block-reorganization-at-height-941880/) • 2h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/heres-much-bitcoin-surged-past-182000674.html?guccou) • 13h ago
 
 ---
 
@@ -141,15 +141,15 @@ Bitcoin sees rare two-block reorg at height 941880 as Foundry USA outpaces AntPo
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
 
 ---
 
-**[When do you think we’ll celebrate the $1M Bitcoin post?](https://www.reddit.com/r/Bitcoin/comments/1s1gz13/when_do_you_think_well_celebrate_the_1m_bitcoin/)**
+**[Unstoppable Bitcoin Mining Is The Way](https://www.reddit.com/r/Bitcoin/comments/1s2awa5/unstoppable_bitcoin_mining_is_the_way/)**
 
-I was scrolling through the top posts of all time on this subreddit, and something really caught my attention. Two of the biggest posts ever are basically milestones: Bitcoin hitting $10,000 (around 8 years ago) Bitcoin hitting $100,000 (about a year ago) It made me pause for a second… because at those moments, both probably felt insane. Like a “we finally made it” kind of milestone. Now I’m wondering: When do you guys think we’ll see the same kind of post for $1,000,000? Also curious, what do you think would need to happen for that to become reality? Institutional adoption, inflation, global financial shifts…? It’s crazy how each milestone once felt impossible… until it wasn’t.
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-21h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=mBMndNOJZrY) • 31m ago
 
 ---
 
@@ -157,73 +157,75 @@ I was scrolling through the top posts of all time on this subreddit, and somethi
 
 ## Google News: "bitcoin"
 
-**[Bitcoin, ether, solana prices move higher as Gulf allies inch toward joining Iran war](https://www.coindesk.com/markets/2026/03/24/bitcoin-ether-solana-prices-move-higher-as-gulf-allies-inch-toward-joining-iran-war)**
+**[Here's how U.S. Treasury notes could shape Trump's Iran war and bitcoin](https://www.coindesk.com/markets/2026/03/24/here-s-where-treasuries-could-shape-trump-s-iran-war-and-bitcoin-moves)**
 
-Crypto recovered on Tuesday morning even as Monday's relief rally unraveled across traditional markets, with oil jumping 4% on reports that Saudi Arabia and the UAE are moving to join the conflict.
+Treasury yields and swap spreads could eventually pressure the Trump administration to moderate the conflict, analysts argue.
 
-CoinDesk • 5h ago
-
----
-
-**[Bitcoin climbs as Trump grants five days for Iran negotiations](https://fortune.com/2026/03/23/bitcoin-climbs-as-trump-grants-five-days-for-iran-negotiations/)**
-
-The original cryptocurrency advanced more than 5% to trade as high as $71,794 in New York before paring some of the gain.
-
-Fortune • 13h ago
+CoinDesk • 4h ago
 
 ---
 
-**[Bitcoin Price Spikes As Trump Delays Strikes Against Iran](https://www.investors.com/news/bitcoin-price-trump-iran-delay-cryptocurrency-stocks-oil-price-futures-gold/)**
+**[US’s Mysterious $15 Billion Crypto Haul Faces Questions in Court](https://www.bloomberg.com/news/articles/2026-03-24/us-s-mysterious-15-billion-crypto-haul-faces-questions-in-court)**
 
-Investor's Business Daily • 13h ago
-
----
-
-**[Bitcoin Tops $71,000 as Trump Postpones Iran Power Plant Strike Plans](https://finance.yahoo.com/markets/crypto/articles/bitcoin-tops-71-000-trump-121115129.html)**
-
-The price move came after Donald Trump touted "productive conversations" regarding a cessation of hostilities in the Middle East.
-
-Yahoo Finance • 22h ago
+Bloomberg.com • 48m ago
 
 ---
 
-**[Bitcoin Price, Ethereum, XRP Rise. Calling Crypto Price Moves is Getting Harder.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqeiQSk1a0LuWTquZGGOR8EqoJTKJpYnVSgVqrm4F7DDiMLXMjCFnBfp&gaa_ts=69c2636d&gaa_sig=3VzYiF1seLtJRXGrc4Jq1P_JdO1CatSpPe0fBvQYHa15cLldfXEz2XFgNSMft-42QItDstpQ87ZSFMng0gL6VQ%3D%3D)**
+**[Eric Trump-Linked American Bitcoin Says It's Turning Into A BTC 'Accumulation Machine,' But ABTC Stock Still Can't Shake Off The Woes](https://finance.yahoo.com/markets/crypto/articles/eric-trump-linked-american-bitcoin-094614482.html)**
 
-Barron's • 1h ago
+American Bitcoin Corp. positioned itself as “the absolute accumulation machine” for Bitcoin on Sunday, while crediting its majority owner and key infrastructure partner, Hut 8 Corp.. American Bitcoin Hails Its ‘Growth’ American Bitcoin posted a video montage on X, showing...
 
----
-
-**[Bitcoin Is Headed to $500,000 According to This Wall Street Analyst and the Reasoning Is Hard to Dismiss](https://finance.yahoo.com/markets/crypto/articles/bitcoin-headed-500-000-according-160000919.html)**
-
-Geoffrey Kendrick of Standard Chartered thinks Bitcoin is poised for an epic rally.
-
-Yahoo Finance • 18h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Bitcoin Drops Below $69,000 as War Fears Weigh on Crypto Markets](https://www.bloomberg.com/news/articles/2026-03-22/bitcoin-drops-below-69-000-as-war-fears-weigh-on-crypto-markets)**
+**[Bitcoin advances to $71,000 while derivatives signal cautious bullishness: Crypto Markets Today](https://www.coindesk.com/markets/2026/03/24/bitcoin-leads-crypto-rebound-to-usd71-000-as-usd550-million-in-shorts-liquidated)**
 
-Bloomberg.com • 1d ago
+BTC climbs despite escalating Middle East tensions, outperforming gold as altcoins rally and derivatives data signals cautious but improving market sentiment.
 
----
-
-**[Saylor’s Strategy Returns to Common Stock for Latest Bitcoin Buy](https://www.bloomberg.com/news/articles/2026-03-23/saylor-s-strategy-returns-to-common-stock-for-latest-bitcoin-buy)**
-
-Bloomberg.com • 16h ago
-
----
-
-**[Strategy news: MSTR acquired 1,031 bitcoin last week at average price of $74,326 each.](https://www.coindesk.com/markets/2026/03/23/strategy-returns-to-small-bitcoin-purchases-adding-usd76-6-million-in-btc-last-week)**
-
-Led by Executive Chairman Michael Saylor, Strategy acquired 1,031 bitcoin, bringing holdings to 762,099 coins.
-
-CoinDesk • 22h ago
+CoinDesk • 1h ago
 
 ---
 
 **[Strategy Eyes $78 Bil Bitcoin War Chest. Be Skeptical.](https://www.investors.com/news/mstr-stock-strategy-58-billion-bitcoin-war-chest/)**
 
-Investor's Business Daily • 13h ago
+Investor's Business Daily • 14h ago
+
+---
+
+**[Saylor’s Strategy Returns to Common Stock for Latest Bitcoin Buy](https://www.bloomberg.com/news/articles/2026-03-23/saylor-s-strategy-returns-to-common-stock-for-latest-bitcoin-buy)**
+
+Bloomberg.com • 17h ago
+
+---
+
+**[Michael Saylor's Resurfaced Claims Bitcoin Will Rise to $10M Spark Backlash, Peter Schiff Slams Founder as ‘Delusional'](https://finance.yahoo.com/markets/crypto/articles/michael-saylors-resurfaced-claims-bitcoin-113339204.html)**
+
+A clip of Michael Saylor predicting Bitcoin could reach $10 million has reignited debate. Peter Schiff dismissed Saylor as “delusional." Bearish analysts warn that Bitcoin ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[JPMorgan, Morgan Stanley provide $1B credit to Bitcoin miner](https://www.thestreet.com/crypto/business/jpmorgan-morgan-stanley-provide-1b-credit-to-bitcoin-miner)**
+
+Wall Street backs Bitcoin miner pivot into AI and data centers.
+
+thestreet.com • 14h ago
+
+---
+
+**[Bitcoin Price, Ethereum, XRP Rise. Calling Crypto Price Moves is Getting Harder.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqc_NA0m8gP0erTnrqm3PiWzwPBqfuY-jcNCE5JvTYMhRJPTkm9Tj7ax&gaa_ts=69c27d5e&gaa_sig=Uy7-yTnzgi9B6UTnVCohNvatPIzjkZsvXsHQyOkVfKScu6ECKC5RBXGRXJt7JlXPT5OuMtFTVX1IScyis37HAA%3D%3D)**
+
+Barron's • 2h ago
+
+---
+
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1774345200)**
+
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 4h ago
 
 ---
 
@@ -287,7 +289,7 @@ Nobody knows how screwed everyone actually is right now. Not Iran. Not the Gulf.
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 224 • ⏱️ 15:05 • 11h ago
+👁️ 14K • 👍 1K • 💬 224 • ⏱️ 15:05 • 12h ago
 
 ---
 
@@ -307,7 +309,7 @@ million in crypto liquidations. In four hours. Today. Bitcoin whipsawed from $67
 
 📺 Money Talks
 
-👁️ 2K • 👍 81 • 💬 10 • ⏱️ 13:33 • 13h ago
+👁️ 2K • 👍 81 • 💬 10 • ⏱️ 13:33 • 14h ago
 
 ---
 
@@ -317,7 +319,7 @@ In today's video, we're breaking down why this specific "Crash Signal" has a hig
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 434 • 💬 13 • ⏱️ 1:10:53 • 19h ago
+👁️ 7K • 👍 434 • 💬 13 • ⏱️ 1:10:53 • 20h ago
 
 ---
 
@@ -347,7 +349,7 @@ The situation just got 10 times worse for bitcoin, ethereum and the rest of cryp
 
 📺 Thomas Kralow
 
-👁️ 14K • 👍 2K • 💬 35 • ⏱️ 11:52 • 23h ago
+👁️ 14K • 👍 2K • 💬 35 • ⏱️ 11:52 • 1d ago
 
 ---
 
@@ -377,7 +379,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 14K • 👍 806 • 💬 137 • ⏱️ 13:54 • 17h ago
+👁️ 14K • 👍 806 • 💬 137 • ⏱️ 13:54 • 18h ago
 
 ---
 

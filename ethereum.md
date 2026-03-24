@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-24T10:56:10.205289+00:00'
+updated: '2026-03-24T11:48:09.654725+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - cryptocurrency
 - news
 - social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 24, 2026 at 10:56 UTC  
+**Last Updated:** March 24, 2026 at 11:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,169.00
+### $2,160.75
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +5.8%  
-**7d:** -1.8%  
-**30d:** +16.7%  
-**90d:** -25.4%  
-**1y:** +4.9%  
+**24h:** +1.4%  
+**7d:** -1.5%  
+**30d:** +17.0%  
+**90d:** -25.2%  
+**1y:** +5.2%  
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
 **[EthStaker: Ethereum Staking Survey | Any type of staker or even non-stakers are called to respond](https://www.reddit.com/r/ethereum/comments/1s2419r/ethstaker_ethereum_staking_survey_any_type_of/)**
 
-🔗 [ethstaker.org](https://ethstaker.org/forms/staking-landscape-survey-2026) • 6h ago
+🔗 [ethstaker.org](https://ethstaker.org/forms/staking-landscape-survey-2026) • 7h ago
 
 ---
 
@@ -148,7 +148,7 @@ US SEC securities laws application to crypto, fast confirmation rule, EF mandate
 
 **[How L1 and L2s can build the strongest possible Ethereum](https://blog.ethereum.org/2026/03/23/l1-l2-ethereum)**
 
-Ethereum Foundation Blog • 17h ago
+Ethereum Foundation Blog • 18h ago
 
 ---
 
@@ -156,13 +156,7 @@ Ethereum Foundation Blog • 17h ago
 
 BitMine Immersion Technologies now holds more than $10 billion worth of Ethereum, leading the ETH treasury pack as the asset rebounds.
 
-Yahoo Finance • 19h ago
-
----
-
-**[Bitcoin Price, Ethereum, XRP Rise. Calling Crypto Price Moves is Getting Harder.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqeEC8TicQ4aDgkYvESOejMmMTM7naw5W9L1OKp4mH9esT2YdUvk35kL&gaa_ts=69c26370&gaa_sig=hJIFACgndBsWktWJeS4Sx94BGBVvQ6iBEQHlt4Oxt0WZyzqYHQ9r2l8eJMpNuae3sJRsZeXssuhPxpL_IXpWbw%3D%3D)**
-
-Barron's • 1h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -170,7 +164,7 @@ Barron's • 1h ago
 
 Regulators just created the conditions which will help the entire crypto market to flourish.
 
-The Motley Fool • 21h ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -178,7 +172,13 @@ The Motley Fool • 21h ago
 
 The Ethereum treasury firm led by Thomas Lee now has increased its buying pace for three consecutive weeks even as unrealized losses mount.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
+
+---
+
+**[Bitcoin Price, Ethereum, XRP Rise. Calling Crypto Price Moves is Getting Harder.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqcQlcIzQb6te0SD64nfBN4QfCCJWfNwBI41ODfDCs4NiyjqYLyi0huT&gaa_ts=69c27d5f&gaa_sig=I86t3H0OpGIXx6_P2s80SxYkMc8ve1kDuXrH3TmEIqvZZaKwQCon-gBnbS0zjcOtUlpYZOXdkLKIvqIXoCQIRw%3D%3D)**
+
+Barron's • 2h ago
 
 ---
 
@@ -202,7 +202,7 @@ TradingView • 1d ago
 
 MoonPay has launched the Open Wallet Standard (OWS), an open source framework designed to give AI agents a consistent way to hold funds and sign
 
-ledgerinsights.com • 19h ago
+ledgerinsights.com • 20h ago
 
 ---
 
@@ -210,7 +210,7 @@ ledgerinsights.com • 19h ago
 
 Dubai, UAE, March  23, 2026  (GLOBE NEWSWIRE) -- The Ethereum based crypto Pepeto just entered its last exchange testing phase after a senior Bina...
 
-markets.businessinsider.com • 13h ago
+markets.businessinsider.com • 14h ago
 
 ---
 
@@ -218,7 +218,7 @@ markets.businessinsider.com • 13h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 15h ago
+Fortune • 16h ago
 
 ---
 
@@ -242,7 +242,7 @@ The situation just got 10 times worse for bitcoin, ethereum and the rest of cryp
 
 📺 Thomas Kralow
 
-👁️ 14K • 👍 2K • 💬 35 • ⏱️ 11:52 • 23h ago
+👁️ 14K • 👍 2K • 💬 35 • ⏱️ 11:52 • 1d ago
 
 ---
 
@@ -252,7 +252,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 112 • 💬 20 • ⏱️ 9:47 • 23h ago
+👁️ 2K • 👍 112 • 💬 20 • ⏱️ 9:47 • 1d ago
 
 ---
 
@@ -262,7 +262,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 168 • 💬 4 • ⏱️ 4:00 • 16h ago
+👁️ 2K • 👍 168 • 💬 4 • ⏱️ 4:00 • 17h ago
 
 ---
 
@@ -272,7 +272,7 @@ BITCOIN: This Could Change EVERYTHING (for now)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 4K • 👍 196 • 💬 17 • ⏱️ 16:35 • 9h ago
+👁️ 4K • 👍 196 • 💬 17 • ⏱️ 16:35 • 10h ago
 
 ---
 
@@ -292,7 +292,7 @@ BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Start your trading j
 
 📺 Ashutosh Kumar
 
-👁️ 5K • 👍 542 • 3h ago
+👁️ 5K • 👍 542 • 4h ago
 
 ---
 
@@ -302,7 +302,7 @@ Ethereum is on track to reach a trillion-dollar market cap. With its current gro
 
 📺 CoinBros
 
-👁️ 34 • ⏱️ 0:55 • 8h ago
+👁️ 34 • ⏱️ 0:55 • 9h ago
 
 ---
 
@@ -312,7 +312,7 @@ The Ethereum Foundation has finalized terms for a 5000 ETH sale at an average pr
 
 📺 MONEY GAME
 
-👁️ 157 • 👍 1 • ⏱️ 0:45 • 7h ago
+👁️ 157 • 👍 1 • ⏱️ 0:45 • 8h ago
 
 ---
 
@@ -322,7 +322,7 @@ Ethereum's network activity, including active addresses and smart contract calls
 
 📺 CoinBros
 
-👁️ 22 • 👍 1 • ⏱️ 1:57 • 8h ago
+👁️ 22 • 👍 1 • ⏱️ 1:57 • 9h ago
 
 ---
 
