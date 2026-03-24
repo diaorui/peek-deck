@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-24T14:41:03.829396+00:00'
+updated: '2026-03-24T16:07:38.937925+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 24, 2026 at 14:41 UTC  
+**Last Updated:** March 24, 2026 at 16:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Marc Benioff on 𝕏: https://x.com/Benioff/status/2036252519308075219
 
-11h ago
+12h ago
 
 ---
 
@@ -44,17 +44,11 @@ From Marc Benioff on 𝕏: https://x.com/Benioff/status/2036252519308075219
 
 From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/2036127368088080867 On Youtube: Kyber Labs - Wet Lab Demo: https://www.youtube.com/watch?v=iM7WjQYlFvM Kyber Labs Demos: https://kyberlabs.ai/demos
 
-4h ago
+6h ago
 
 ---
 
 **[Autonomous transport vehicles handling cargo operations at a modern port](https://www.reddit.com/r/robotics/comments/1s1m49a/autonomous_transport_vehicles_handling_cargo/)**
-
-21h ago
-
----
-
-**[Roadrunner, the latest robot from the Robotics and AI Institute, is a bipedal, wheeled robot for multi-modal locomotion](https://www.reddit.com/r/robotics/comments/1s1jo4q/roadrunner_the_latest_robot_from_the_robotics_and/)**
 
 23h ago
 
@@ -64,7 +58,29 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/203612736808808086
 
 I have a 6DOF toy robot arm and i want to be able to control the joints with a microcontroller. How can i do this since it uses a dc motor with and can only move forwards and backwards so far
 
-1h ago
+2h ago
+
+---
+
+**[Roadrunner, the latest robot from the Robotics and AI Institute, is a bipedal, wheeled robot for multi-modal locomotion](https://www.reddit.com/r/robotics/comments/1s1jo4q/roadrunner_the_latest_robot_from_the_robotics_and/)**
+
+1d ago
+
+---
+
+**[Vacuum cleaner Lidar](https://www.reddit.com/r/robotics/comments/1s2hk1g/vacuum_cleaner_lidar/)**
+
+I have this lidar from one of my robo vacuum cleaner DEEBOT Y1 PRO. I want to use this lidar for my project. I want to connect it to rpi zero 2w can someone explain me how to identify the connections as I have already searched the web and not getting any proper results.
+
+18m ago
+
+---
+
+**[Do StepperOnline Harmonic Reducers come with adapter plates ?](https://www.reddit.com/r/robotics/comments/1s2h88t/do_stepperonline_harmonic_reducers_come_with/)**
+
+Hey everyone, i’m working on integrating a StepperOnline HHT-25-50-I-D14 harmonic drive reducer (50:1) with a NEMA 34 stepper motor, and I had a quick question before moving fIorward. Does anyone know if this reducer comes with any mounting accessories? Specifically: Motor mounting flange / adapter plate (for NEMA 34?) Shaft coupling or connection parts . Or is it just the standalone reducer? From what I can see, it looks like a shaft-input type, so I’m assuming I’ll need to design a custom adapter plate, but I’d like to confirm before ordering. If anyone has used this exact model or a similar one, I’d really appreciate your feedback 🙏 Thanks!
+
+30m ago
 
 ---
 
@@ -80,7 +96,7 @@ I built this robot to perform with acrobats in new and interesting ways. See Acr
 
 Not gonna lie, tech shows can be dry. But seeing a phone with a tiny arm dance alongside a robot at the Honor booth was kind of delightful. It was a reminder that tech can be playful. I don't know if I'd ever need a dancing phone, but I appreciate brands showing personality.
 
-2h ago
+3h ago
 
 ---
 
@@ -88,23 +104,7 @@ Not gonna lie, tech shows can be dry. But seeing a phone with a tiny arm dance a
 
 I'd like to see them tackle this one... You might not like to hear this or even understand it just yet but, "I'm sorry sir, our milkshake machine isn't working..." If robots are to be implemented in the future then it would seem if they can tackle this one above then they might have a leg to stand on instead of just easy monotonous tasks only... (As a side note, we're trying to get an auto(robot) mower in the family but even this still lag behind too. It's interesting since they've had many years already to learn off of household robot vacuums. Why the delay?)
 
-3h ago
-
----
-
-**[Building Asimov, an open-source humanoid robot (Day 179) - It's walking better](https://www.reddit.com/r/robotics/comments/1s168ya/building_asimov_an_opensource_humanoid_robot_day/)**
-
-Asimov is an open-source humanoid robot we're building at Menlo Research. We've already open-sourced Asimov v0 (the legs) and plan to open-source Asimov v1 (the full body) once we improve its walking. Asimov v0: https://github.com/asimovinc/asimov-v0 Website: https://asimov.inc/
-
-1d ago
-
----
-
-**[This is Ricket, a robot project I’ve been building for the past year](https://www.reddit.com/r/robotics/comments/1s17nmr/this_is_ricket_a_robot_project_ive_been_building/)**
-
-This is Ricket, a robot project I’ve been building for the past year, programmed mostly using ROS2. My main goals for it are expressive movement, strong body language, and a face/behavior system with a lot of personality. Longer term, I also want to push it toward more dynamic legged motion and eventually jumping. I’ve mostly been documenting progress on Instagram so far (@tomsrocketsandrobots), but I’m getting closer to hardware testing and wanted to see if there was interest in me sharing updates here too. Also I’ve got a new batch of parts arriving tomorrow, and on Wednesday at 6 PM MST I’m planning to livestream the teardown and install. If people are into it, I can keep posting updates here.
-
-1d ago
+4h ago
 
 ---
 
@@ -112,9 +112,17 @@ This is Ricket, a robot project I’ve been building for the past year, programm
 
 ## Google News: "robotics"
 
+**[Father makes donation to NL-S robotics in memory of his son](https://www.willmarradio.com/news/father-makes-donation-to-nl-s-robotics-in-memory-of-his-son/article_ca7f6a4c-b7de-454b-89c5-7c9597374ecc.html)**
+
+(New London MN-) The father of a former New London-Spicer Robotics Team member who passed away has donated $2000 to the program. Guy Chetrit says the money is in the
+
+Willmar Radio • 3h ago
+
+---
+
 **[Bird‑like robots promise greater flexibility and control than drones](https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html)**
 
-Tech Xplore • 21h ago
+Tech Xplore • 22h ago
 
 ---
 
@@ -130,15 +138,15 @@ Nature • 1d ago
 
 Agile Robots will incorporate Google DeepMind's robotics foundation models into its bots while collecting data for the AI research lab.
 
-TechCrunch • 2h ago
+TechCrunch • 4h ago
 
 ---
 
-**[McDonald's trials humanoid robots in Shanghai for customer service](https://interestingengineering.com/ai-robotics/mcdonalds-humanoid-robots-deliver-food)**
+**[AI compressed billions of years of evolution into seconds to create 'Lego-like robots' that can recover even when they lose limbs](https://www.livescience.com/technology/robotics/ai-compressed-billions-of-years-of-evolution-into-seconds-to-create-lego-like-robots-that-can-recover-even-when-they-lose-limbs)**
 
-A McDonald's restaurant in Shanghai has recently piloted humanoid robots to deliver food and interact with diners.
+Modular robots are easily expandable, know when they're upside down or stuck, and can march forward across all kinds of terrain.
 
-Interesting Engineering • 1d ago
+Live Science • 37m ago
 
 ---
 
@@ -147,6 +155,14 @@ Interesting Engineering • 1d ago
 SYDNEY, Australia, March 23, 2026 (GLOBE NEWSWIRE) -- GMEX Robotics Corporation (NASDAQ: GMEX) (“GMEX Robotics” or the “Company”), a developer of AI-powered robotic technologies, announces that it has entered into a purchase agreement with a leading Australian food and beverage group (“FBG”) for the deployment of the Company’s intelligent culinary robotics systems, including its recently announced personal robotic chef - 2Fculinary AI, and the purchase order from this FBG. The AU$4.2 million agr
 
 Yahoo Finance • 1d ago
+
+---
+
+**[McDonald's trials humanoid robots in Shanghai for customer service](https://interestingengineering.com/ai-robotics/mcdonalds-humanoid-robots-deliver-food)**
+
+A McDonald's restaurant in Shanghai has recently piloted humanoid robots to deliver food and interact with diners.
+
+Interesting Engineering • 1d ago
 
 ---
 
@@ -166,27 +182,11 @@ BBC • 2d ago
 
 ---
 
-**[The most innovative robotics and engineering companies of 2026](https://www.fastcompany.com/91497289/robotics-engineering-most-innovative-companies-2026)**
+**[Ferndale middle school robotics team to head to World Championship after back-to-back state titles](https://www.clickondetroit.com/news/local/2026/03/23/ferndale-middle-school-robotics-team-to-head-to-world-championship-after-back-to-back-state-titles/)**
 
-Why Boston Dynamics, Terabase Energy, Lucid Bots, and Symbotic are among Fast Company's Most Innovative Companies in robotics and engineering for 2026.
+The Giggle Pickles, a robotics team from Ferndale Middle School, secured their second consecutive Michigan State Championship and earned an invitation to the 2026 FIRST Tech Challenge World Championship in Houston.
 
-Fast Company • 3h ago
-
----
-
-**[Sesame Micro Pushes the Limits of Pocket-Sized DIY Robotics](https://www.hackster.io/news/sesame-micro-pushes-the-limits-of-pocket-sized-diy-robotics-9a0d7a0e6af6)**
-
-Sesame Micro is an affordable, 3D-printed walking robot — and it's one of the smallest quadrupeds around.
-
-Hackster.io • 2d ago
-
----
-
-**[Denham Springs High Robotics Team wins Pike Peak Regional, earns spot at FIRST World Championship](https://www.theadvocate.com/baton_rouge/news/communities/livingston_tangipahoa/denham-springs-high-robotics-team-wins-pike-peak-regional-earns-spot-at-first-world-championship/article_88822344-467d-4651-ac55-b83d4fb90bf1.html)**
-
-The Denham Venom Robotics Team recently returned from Colorado Springs, Colorado, with a victory at the FIRST Robotics Pikes Peak Regional Competition and a secured berth to the 2026 FIRST
-
-The Advocate • 2h ago
+ClickOnDetroit | WDIV Local 4 • 1d ago
 
 ---
 
@@ -200,7 +200,7 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 📺 CNET
 
-👁️ 14K • 👍 419 • 💬 23 • ⏱️ 5:50 • 2d ago
+👁️ 14K • 👍 424 • 💬 25 • ⏱️ 5:50 • 2d ago
 
 ---
 
@@ -210,7 +210,7 @@ This week in robotics got kind of ridiculous. South Korea showed off a humanoid 
 
 📺 AI Revolution
 
-👁️ 107K • 👍 2K • 💬 111 • ⏱️ 14:31 • 1d ago
+👁️ 113K • 👍 2K • 💬 115 • ⏱️ 14:31 • 1d ago
 
 ---
 
@@ -230,7 +230,17 @@ COGLET KICKSTARTER LAUNCH: ...
 
 📺 Will Cogley
 
-👁️ 19K • 👍 1K • 💬 72 • ⏱️ 10:35 • 4d ago
+👁️ 20K • 👍 1K • 💬 73 • ⏱️ 10:35 • 4d ago
+
+---
+
+**[Meet “Roadrunner&quot;: a bipedal, wheeled robot for multi-modal locomotion](https://www.youtube.com/watch?v=9kae-UAME1U)**
+
+"Roadrunner” is a new bipedal wheeled robot prototype designed for multi-modal locomotion. It weighs around 15kg (33 lb.)
+
+📺 RAI Institute
+
+👁️ 25K • 👍 2K • 💬 119 • ⏱️ 1:34 • 1d ago
 
 ---
 
@@ -240,7 +250,7 @@ Subscribe To My Newsletter - https://aigrid.beehiiv.com/subscribe Get your Free 
 
 📺 TheAIGRID
 
-👁️ 13K • 👍 251 • 💬 45 • ⏱️ 10:30 • 5d ago
+👁️ 13K • 👍 253 • 💬 45 • ⏱️ 10:30 • 5d ago
 
 ---
 
@@ -250,7 +260,7 @@ Do you want to see a humanoid AI lab from the inside? I do – join me and let's
 
 📺 Andreas Klinger @ PROTOTYPE
 
-👁️ 13K • 👍 525 • 💬 38 • ⏱️ 18:52 • 4d ago
+👁️ 13K • 👍 530 • 💬 39 • ⏱️ 18:52 • 4d ago
 
 ---
 
@@ -260,7 +270,17 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 308K • 👍 4K • 💬 2K • ⏱️ 2:07 • 5d ago
+👁️ 310K • 👍 4K • 💬 2K • ⏱️ 2:07 • 5d ago
+
+---
+
+**[UMV&#39;s Latest Tricks: Kip Jump, Flip, and an Ultra Smooth Landing](https://www.youtube.com/watch?v=pcZSNNWXviA)**
+
+It was great to see our name amongst the other “AI Native” companies during the NVIDIA #GTC keynote. NVIDIA Isaac™ Lab ...
+
+📺 RAI Institute
+
+👁️ 21K • 👍 1K • 💬 45 • ⏱️ 1:06 • 5d ago
 
 ---
 
@@ -270,27 +290,7 @@ Unique Motion Chaining | 197E Ethereus | Robot Rundown 197E Ethereus shows off t
 
 📺 FUN Robotics Network
 
-👁️ 3K • 👍 97 • 💬 7 • ⏱️ 2:42 • 16h ago
-
----
-
-**[Engineering Disney’s Olaf Robot](https://www.youtube.com/watch?v=zi0xi_UwvBU)**
-
-How do you build a robot with a massive head, no visible legs, and motors that overheat? ❄️   Explaining the engineering ...
-
-📺 ZAUEY (Claire Zau)
-
-👁️ 14K • 👍 2K • 💬 56 • ⏱️ 2:09 • 1d ago
-
----
-
-**[Dancing robot goes rogue in hot pot restaurant](https://www.youtube.com/watch?v=DfnIEWpbMU8)**
-
-Video shows restaurant employees struggling to restrain a dancing robot that went rogue in a hot pot restaurant in California.
-
-📺 NBC News
-
-👁️ 205K • 👍 2K • 💬 663 • ⏱️ 3:38 • 5d ago
+👁️ 4K • 👍 101 • 💬 7 • ⏱️ 2:42 • 17h ago
 
 ---
 

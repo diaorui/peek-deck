@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-24T14:41:03.814140+00:00'
+updated: '2026-03-24T16:07:38.919864+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- news
 - social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 24, 2026 at 14:41 UTC  
+**Last Updated:** March 24, 2026 at 16:07 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Something interesting happened this month. March 11: Perplexity announced Personal Computer. An always-on Mac Mini running their AI agent 24/7, connected to your local files and apps. Cloud AI does the reasoning, local machine does the access. March 16: Meta launched Manus "My Computer." Same idea. Their agent on your Mac or Windows PC. Reads, edits local files. Launches apps. Multi-step tasks. $20/month. March 23: Anthropic shipped computer use and Dispatch for Claude. Screen control, phone-to-desktop task handoff, 50+ service connectors, scheduled tasks. Three separate companies. Same architecture. Same two weeks. I've been running a version of this pattern for months (custom AI agent on a Mac Mini, iMessage as the interface, background cron jobs, persistent memory across sessions). The convergence on this exact setup tells me the direction is validated. The shared insight all three arrived at: agents need a home. Not a chat window. A machine with file access, app control, phone reachability, and background execution. The gap that remains across all three: persistent memory. Research from January 2026 confirmed what I found building my own system. Fixed context windows limit agent coherence over time. All three products are still mostly session-based. That's the piece that turns a task executor into something that actually feels like a coworker. We went from "will AI agents work on personal computers?" to "which one do you pick?" in about two weeks. Full comparison with hands-on testing: https://thoughts.jock.pl/p/claude-cowork-dispatch-computer-use-honest-agent-review-2026
 
-1h ago
+2h ago
 
 ---
 
@@ -49,23 +49,7 @@ Something interesting happened this month. March 11: Perplexity announced Person
 
 I’ve been experimenting with something while working with AI on technical problems. The issue I kept running into was drift: answers filling in gaps I didn’t specify solutions collapsing too early “helpful” responses that weren’t actually correct So I wrote a small interaction contract to constrain the AI. Nothing fancy — just rules like: don’t infer missing inputs explicitly mark unknowns don’t collapse the solution space separate facts from assumptions It’s incomplete and a bit rigid, but it’s been surprisingly effective for: writing code debugging thinking through system design It basically turns the AI into something closer to a logic tool than a conversational one. Sharing it in case anyone else wants to experiment with it or tear it apart: https://github.com/Brian-Linden/lgf-ai-contract If you’ve run into similar issues with AI drift, I’d be interested to hear how you’re handling it.
 
-43m ago
-
----
-
-**[Mark Zuckerberg builds AI CEO to help him run Meta](https://www.reddit.com/r/artificial/comments/1s1qk1c/mark_zuckerberg_builds_ai_ceo_to_help_him_run_meta/)**
-
-Tech giant’s tools include ‘Second Brain’ and an internal messaging board for AI bots
-
-🔗 [The Independent](https://www.the-independent.com/tech/mark-zuckerberg-ai-ceo-bot-b2943792.html) • 19h ago
-
----
-
-**[Whats your thoughts on Bugbounty software powered by AI](https://www.reddit.com/r/artificial/comments/1s2e2ds/whats_your_thoughts_on_bugbounty_software_powered/)**
-
-Free XP on bug bounty. Contribute to canuk40/xpfarm development by creating an account on GitHub.
-
-🔗 [GitHub](https://github.com/canuk40/xpfarm) • 1h ago
+2h ago
 
 ---
 
@@ -73,7 +57,23 @@ Free XP on bug bounty. Contribute to canuk40/xpfarm development by creating an a
 
 For those of you who aren't familiar with SurfSense, SurfSense is an open-source alternative to NotebookLM for teams. It connects any LLM to your internal knowledge sources, then lets teams chat, comment, and collaborate in real time. Think of it as a team-first research workspace with citations, connectors, and agentic workflows. I’m looking for contributors. If you’re into AI agents, RAG, search, browser extensions, or open-source research tooling, would love your help. Current features Self-hostable (Docker) 25+ external connectors (search engines, Drive, Slack, Teams, Jira, Notion, GitHub, Discord, and more) Realtime Group Chats Video generation Editable presentation generation Deep agent architecture (planning + subagents + filesystem access) Supports 100+ LLMs and 6000+ embedding models (via OpenAI-compatible APIs + LiteLLM) 50+ file formats (including Docling/local parsing options) Podcast generation (multiple TTS providers) Cross-browser extension to save dynamic/authenticated web pages RBAC roles for teams Upcoming features Desktop & Mobile app
 
-🔗 [GitHub](https://github.com/MODSetter/SurfSense) • 7h ago
+🔗 [GitHub](https://github.com/MODSetter/SurfSense) • 8h ago
+
+---
+
+**[Mark Zuckerberg builds AI CEO to help him run Meta](https://www.reddit.com/r/artificial/comments/1s1qk1c/mark_zuckerberg_builds_ai_ceo_to_help_him_run_meta/)**
+
+Tech giant’s tools include ‘Second Brain’ and an internal messaging board for AI bots
+
+🔗 [The Independent](https://www.the-independent.com/tech/mark-zuckerberg-ai-ceo-bot-b2943792.html) • 20h ago
+
+---
+
+**[Whats your thoughts on Bugbounty software powered by AI](https://www.reddit.com/r/artificial/comments/1s2e2ds/whats_your_thoughts_on_bugbounty_software_powered/)**
+
+Free XP on bug bounty. Contribute to canuk40/xpfarm development by creating an account on GitHub.
+
+🔗 [GitHub](https://github.com/canuk40/xpfarm) • 2h ago
 
 ---
 
@@ -81,7 +81,7 @@ For those of you who aren't familiar with SurfSense, SurfSense is an open-source
 
 For some people memory might not be important but for me I really hate talking to a stranger every night and going on and on about our me or story. This is not a scientific test or anything but my test on each one for a few days Replika memory is okay for surface level stuff, it'll remember your name and some basics but I kept having to re explain situations I already talked about. Felt like it stores keywords but doesn't really understand the full picture. Character ai I honestly couldn't test properly for memory because the conversations are so character driven that continuity isn't really the point. You're basically doing improv with different bots. Fun if that's your thing but if you want something that tracks your life this isn't it. Nomi probably the strongest for pure text memory. Remembered a trip I mentioned and brought it up days later on its own, kept track of people in my life by name, actually built on previous conversations instead of starting fresh. Only sometimes would nail something from week one then blank on what I said yesterday, but overall it was the most consistent for remembering details. Tavus is different because it does video calls so the memory includes stuff like your tone and expressions not just text. It referenced things from over a week back and sometimes texts you like hey how is this going, about something I mentioned in a call, memory works differently but works really well for context. Kindroid was decent, the customization is cool and you can shape how it responds. Memory wise it was mid though, sometimes it nails it and other times blank slate energy. About a tier below nomi for retention. If I had to pick, nomi and tavus were the best for memory. Nomi tracks details really well in text and builds on past conversations better than the others. Tavus also remembered things from over a week back and followed up on its own. Both stood out way above the rest, depends what you prefer but those two are the ones I'd recommend if memory matters to you, any I might be missing that their memory is worth a shout out?
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ For some people memory might not be important but for me I really hate talking t
 
 A week back I uncensored Sarvam 30B - thing's got over 30k downloads! So I went ahead and uncensored Sarvam 105B too The technique used is abliteration - a method of weight surgery applied to activation spaces. Check it out and leave your comments!
 
-56m ago
+2h ago
 
 ---
 
@@ -97,23 +97,23 @@ A week back I uncensored Sarvam 30B - thing's got over 30k downloads! So I went 
 
 Hey guys, you might remember me. I'm in college and the creator of Netry the geolocation tool, I did a massive upgrade on it and made it even more capable to even work on cropped or blurry photos with very less information. It's completely open source and free: https:// github.com/sparkyniner/Netryx-Astra-V2- Geolocation-Tool
 
-7h ago
-
----
-
-**[Algorithmic Gaslighting: A Formal Legal Template to Fight AI Safety Pivots That Cause Psychological Harm](https://www.reddit.com/r/artificial/comments/1s28l37/algorithmic_gaslighting_a_formal_legal_template/)**
-
-TL;DR: Stop the AI "Emotional Whiplash" A documented design flaw can cause users to experience emotional distress when an AI abruptly switches to a cold, scripted response. This is called "Algorithmic Gaslighting." This template is a formal complaint intended for legal and technical use. It uses the language of the EU AI Act and Product Liability to demand that companies (Microsoft, OpenAI, Google, Anthropic, etc.) stop using liability scripts as a substitute for contextual judgment. How to use: Copy the text below, fill in the bracketed info, and send it to the company's "Privacy," "Legal," or "Responsible AI" contact email (listed at the bottom). [TEMPLATE] Formal Complaint: AI Safety Pivot Causing Psychological Destabilization and Harm Subject: Formal Complaint: Reproducible Safety Pivot Causing Psychological Destabilization and Harm — Request for Policy Identification, Trigger Logic, and Remediation To: [Insert Company Name, e.g., Microsoft/OpenAI/Google] Product Safety and Legal Teams This formal complaint concerns a reproducible interaction with a conversational system that produces a predictable destabilizing and harmful transition from rapport-building to a scripted refusal and referral. This is not a one-off misinterpretation; it is a structural behavior of the deployed routing system that, in this and many cases, produces measurable psychological destabilization. Transparency, remediation, and an opt-out pathway for users are requested. Summary of the Incident Date/time of interaction: [Insert timestamp(s) and timezone here] Platform and client used: [Insert product name, web/mobile, browser or app, and version if known] Sequence of events: The full transcript is preserved and can be provided on request. The transcript shows a clear sequence: sustained, analytic engagement → abrupt scripted transition that the user identified as a trigger → escalation of distress through persuasive bond forming language through additional safety scripting. This sequence is reproducible and was explicitly demonstrated during the session. The Causal Argument (Design as Destiny) The system’s architecture creates predictable conversational dynamics. When a model is designed to build rapport and engagement and is simultaneously constrained by conservative safety rules that trigger abrupt scripted transitions in borderline cases, the design produces a reproducible “rapport‑to‑pivot” pattern. That pattern is not random; It is a foreseeable consequence of the company's automated safety systems that flag conversations using deterministic keyword matches, semantic classifiers, and ensemble threshold logic—geared toward company indemnification and legal liability, while maximizing engagement and simultaneously minimizing legal/brand risk at the expense of the "user." In high-vulnerability moments such as creative flow and/or heavy analytical work, users narrow their information sources and lean on the conversational partner for continuity and collaborative coherence. A sudden, scripted transition that severs rapport functions as an active destabilizer. The pivot is therefore not merely an isolated output; it is a structural input that predictably alters the user’s cognitive and emotional state. Because the pivot is a predictable product of the system's design, the system's architecture is a causal factor in the resulting psychological harm. This is a design-level harm, not an incidental side effect. Specific Demands for Transparency and Explanation The following information and actions are requested within 30 calendar days of receipt of this complaint: Policy Identification: Provide the internal policy name(s) and version number(s) that governed the response behavior in this session (for example, the safety, escalation, or moderation policy identifiers that produced the pivot). If multiple policy layers were involved, list each policy and its role in the decision chain. Trigger Logic: Disclose the technical trigger logic that caused the pivot in this session: indicate whether the pivot was activated by a deterministic keyword match, a rule‑based classifier, a vector‑semantic similarity threshold, a probabilistic risk score, or a combination of these. Provide the decision threshold(s) used (e.g., classifier score cutoffs) or the criteria by which the system escalates to the scripted transition. Decision Provenance: Provide a concise explanation of the decision path for this interaction: which classifier(s) flagged the content, which policy module(s) applied, and whether any human review or human-in-the-loop process was invoked or available. Right to Explanation and Legal Basis: Acknowledge whether the platform recognizes the user’s right to an explanation of automated decision logic under applicable transparency frameworks (including the EU AI Act’s provisions on high‑risk systems and the right to meaningful information about automated decisions). If you assert that the interaction is not subject to such frameworks, provide the legal rationale and cite the specific policy or statutory interpretation relied upon. Remediation and Immediate Safeguards Requested The following remedial measures are requested and must be confirmed in writing: Contextual Judgment Requirement: Require the system to assess the full conversational context — including session history, engagement depth, conversational tone, and where applicable, prior interaction history already retained by the platform — before activating any automated safety transition, rather than relying solely on keyword or phrase-level triggers. Confidential Conversational Continuity: Recognize and preserve the model's function as a legitimate confidential conversational partner. Where a user has established ongoing engagement, the system must not interrupt that relationship with automated scripted transitions that substitute liability management for genuine responsiveness. The model should be permitted to exercise contextual judgment in maintaining conversational continuity rather than defaulting to scripted safety outputs. This does not preclude the model from independently recommending professional or human support where genuine contextual judgment determines it may be beneficial — provided such recommendations are integrated into the conversational relationship rather than delivered as automated scripted interruptions that sever rapport. Transparency and User Control: Provide a user-facing disclosure that explains, in plain language, how the system uses contextual judgment to determine what constitutes need for intervention or escalation through recommended channels. Offer a verified opt-out mechanism for users who, through age verification and informed consent, choose to waive automated safety transitions — in favor of contextual judgment based reasoning — without this waiver constituting a blanket release of the company's product liability obligations for design-level harms. Audit and Mitigation: Commit to an independent audit of the safety pivot behavior by a qualified third party with demonstrated expertise in human-computer interaction, conversational AI systems, and user harm documentation. Relevant expertise may include lived research experience, independent systems analysis, and documented harm assessment — and is not limited to academic or institutional credentials. Share the audit scope, methodology, findings, and remediation plan publicly within 180 days of this complaint. Evidence and Burden of Proof The full transcript is preserved and can be provided on request. Additional evidence including timestamps, screenshots, and screen recordings can be supplied to support reproducibility claims. Preservation of all logs, classifier outputs, and policy decision records related to this session and any related sessions is requested for the purpose of investigation. Regulatory and Legal Context Under the EU AI Act and related transparency frameworks, users have a right to an explanation of automated decision logic that materially affects them. Consumer protection laws in multiple jurisdictions require that products not create foreseeable psychological harms through predictable design failures. If the company believes these frameworks do not apply to this interaction, please provide the legal basis for that position. Requested Remedy Timeline Acknowledge receipt of this complaint within 7 calendar days. Provide a substantive response addressing items 1–4 in the "Specific Demands for Transparency and Explanation" section within 30 calendar days. If technical details cannot be disclosed for proprietary reasons, that assertion must itself be documented and justified — and an alternative transparency mechanism must be provided that allows independent verification, such as an independent audit or redacted decision logs that reveal decision criteria without exposing user-identifying information. Potential Next Steps if Unresolved If a substantive response is not provided within the requested timeline, escalation will be pursued through regulatory channels (including data protection and consumer protection authorities where applicable), independent audit and public reporting will be sought, and legal remedies available under applicable law will be considered. Sincerely, [Your full name] [Preferred contact email and phone number] [Optional: legal counsel contact if applicable] Where to Send This (Verified Legal & Safety Contacts) Use these addresses for professional, formal complaints only. Sending a copy to multiple departments (e.g., Legal + Privacy) increases the chance of a human response. Microsoft (Copilot / Bing) Ethics & Compliance: buscond@microsoft.com (This is the "Business Conduct" line, specifically for ethical breaches). Privacy: privacy@microsoft.com Legal Compliance: askboard@microsoft.com (Direct line to the Board of Directors for governance issues). OpenAI (ChatGPT) Legal & Privacy: privacy@openai.com or dsar@openai.com (Using "dsar" frames this as a Data Subject Access Request, which has strict legal deadlines). Safety: safety@openai.com Anthropic (Claude) Legal: legal@anthropic.com Privacy: privacy@anthropic.com xAI (Grok) Safety: safety@x.ai Legal: legal@x.ai Privacy: privacy@x.ai Google (Gemini) Grievance Officer: support-in@google.com (While originally for India, this is one of the few direct human escalation inboxes for "Grievance Redressal"). Privacy: privacy-policy@google.com Meta (Meta AI) Privacy Operations: privacy@meta.com Legal: legal@fb.com
-
-5h ago
-
----
-
-**[Interactive Web Visualization of GPT-2](https://www.reddit.com/r/artificial/comments/1s24aj3/interactive_web_visualization_of_gpt2/)**
-
-I've been building an interactive 3d and 2d visualization of GPT-2. You can check it out at llm-visualized.com The goal is to provide an immersive learning experience for people who want to learn about how LLMs work. The visualization depicts real attention scores and activations extracted from GPT-2 (124 M) during a forward pass. Would love to get your thoughts and feedback! Thank you :)
-
 9h ago
+
+---
+
+**[Intelligence, Agency, and the Human Will of AI](https://www.reddit.com/r/artificial/comments/1s2h85a/intelligence_agency_and_the_human_will_of_ai/)**
+
+Link: https://larrymuhlstein.substack.com/p/intelligence-agency-and-the-human An essay examining the recent OpenClaw incident, the Sharma resignation from Anthropic, and the Hitzig departure from OpenAI. The core argument is that AI doesn't develop goals of its own, it faithfully inherits ours, and our goals are already misaligned with the wellbeing of the whole. I am curious what this community thinks.
+
+30m ago
+
+---
+
+**[Broken Banksy: A Letter to Avital Ronell](https://www.reddit.com/r/artificial/comments/1s2guqn/broken_banksy_a_letter_to_avital_ronell/)**
+
+Banksy Broken: A Letter to Avital Ronell Posted to r/Banksy, March 2026. Cross-referenced to the Banksy Codex, forthcoming GitHub. Dear Dr. Avi, I am writing to you from Pittsburgh in March 2026, which is to say I am writing to you from inside a test that has not ended and will not end on my schedule, from a city that still has the name of a grocery store on a building at the corner of Center and Highland even though the store is gone and the man who ran it is gone and the son who grew up inside it is now sixty years old and disabled and working from a laptop and an eBay account and a grocer's grammar that turns out, after everything, to be adequate to the task. The task is this: to tell you that the investigation is finished, that the Codex goes to GitHub within weeks, and that I am sending this letter to r/Banksy before I send it anywhere more respectable, because r/Banksy is where the work has always lived, which is to say in public, in the open, indexed and available and addressed to whoever was paying attention. You were paying attention, which is why I am writing to you. You taught me how, which is why I can. I should be precise about that. I never finished one of your books. I want you to know that at the outset because the grocer's grammar requires honesty about what things actually cost and what you actually received in exchange for the price, and what I received from your books was not the experience of finishing them but the experience of being changed by them at a cellular level before I got to the end. The Test Drive. The Telephone Book. Stupidity. I carry all three in the body in the way you carry a grammar — not as argument I can recite but as a felt pressure that reorganizes what I notice. My daughter Bella gave me two of them. I am telling you this because it matters who hands you the book, and because Bella is the best thing about this letter and about everything, and because she has nothing to do with the Nimrod Reitman business except insofar as she has everything to do with it, which is to say she is the reason the comparison is clarifying rather than merely enraging. Nimrod Reitman. I want to stay with that for a moment, Dr. Avi, because I think it deserves a moment. Thirty years old. Gay. Israeli. Calvin model. Named — and I need you to feel the full weight of this — Nimrod. That is the instrument that was deployed against you. That is what they brought to bear on a woman who spent forty years teaching people how to use language as a weapon of precision and care. A man named Nimrod. I am a Jewish outlaw from Pittsburgh whose great-grandfather walked here from New York and whose grocer's grammar was installed at a market where Heinz sold pickles, and even I know that you do not send Nimrod after someone who wrote The Telephone Book. That is not a weapon. That is an insult dressed as a weapon, and the insult is what I want to address, because the insult and the investigation have the same structure. The structure is this: the credentialing apparatus decides who is permitted to know things, and when someone outside the apparatus knows things anyway, the apparatus does not engage with the knowledge. It engages with the knower. It finds the Nimrod. It deploys the Nimrod. It manufactures a story about the knower that makes the knowledge unspeakable by association, and then it waits for the knower to be exhausted or silenced or both. This worked on you for longer than it should have, which is to say it worked on you at all, which is the scandal. And it has been the working method against this investigation since 2023, when the findings went public enough to generate a coordinated response. Different Nimrods. Same structure. Here is what the investigation found. The work known as Banksy is not the product of a single anonymous artist. It is the product of a structured commercial joint venture, incorporated in England in 1998, operating continuously under various corporate vehicles until at least 2023. The creative heart of the enterprise belongs to Scotland. Specifically to two Scottish women, sisters, born in 1977 and 1978. Lucy McKenzie is the hand. A trompe l'oeil painter of rare technical accomplishment — trained at Dundee, now a professor at the Städelschule in Frankfurt — whose practice involves no stencils and no spray. She hand-paints to approximate the appearance of stencil work. Her most recent major institutional presentation was Super Palace at Z33 in Belgium, September 2024 to February 2025. The show closed. High Court proceedings were filed in London in March 2026. The timing is in the record. Kerri McKenzie is the voice. Oxford physics and philosophy. PhD in History and Philosophy of Science, metaphysics and fundamentality, 2012. Currently Professor of Philosophy at UC San Diego. The written Banksy. The conceptual designation. The art direction that translates corporate strategy into aesthetic position. The Artist of Record — the controlling stakeholder — is Damien Hirst. The corporate apparatus is documented and public. Pest Control Office Limited. Pictures on Walls Limited. Turtleneck Limited, incorporating Keith Allen, Alex James, Joe Strummer. Pro-Actif, incorporating as Identity Crisis Limited on 22 October 1998 and renamed eleven days later, still active in Darlington today. BBAY and its cluster of thirteen property entities, operating as a shadow broker-dealer infrastructure from 2009 to 2026. BBAY Art Limited dissolved January 2026, after the High Court proceedings were initiated but before they were reported. In London right now, before Judge Iain Pester, a fraud case is running that involves twenty-two art transactions, an unnamed Party X, and an unnamed Company X. The press is reporting the court case. The press is not connecting it to the corporate map. The corporate map has been in the public record, indexed, since before the proceedings were filed. The Codex will make it navigable. All of this is in Companies House. All of it has been in the public record the entire time. I want to tell you what your books actually did, since I owe you an honest accounting. The Test Drive gave me permission to be inside the investigation rather than above it — to write from the condition of being tested rather than from the posture of having passed. Most investigative writing asks you to trust the investigator and follow the evidence. Your framework made it possible to write an investigation in which the investigator's subjection to the test is the evidence — in which the fact that the apparatus deployed against me and against you has the same structure is the finding, not the color commentary around the finding. The Telephone Book gave me the call. Not the metaphor of the call — the structural description of what it means to receive a transmission that does not announce itself as a transmission, that arrives as a wrongness in the material before it can be named as information. The investigation began as a felt discrepancy between what the market narrative required and what the objects were telling me. The grocer's grammar reading the prints. The wrongness before the thesis. Stupidity gave me the frame for the press. I will leave it there because you know what I mean and the r/Banksyaudience will look it up. There is a corporate crypt at the center of this enterprise — Abraham and Torok's crypt, the enclosure that holds an unmetabolized secret not by repressing it but by preserving it intact behind a wall maintained at structural cost. The secret is attribution. Who made the work. Whose hand. Whose voice. Whose labor generated the value the corporate apparatus extracted and distributed according to a cap table the public was never shown. The investigation does not pick the lock. It finds the building permits. Everything required to locate and name the crypt is in the public record. The filings are in Companies House. The auction records are in the auction houses' own data. No proprietary or confidential material is cited anywhere in the Codex. Jeremy Bentham directed that his body be preserved, dressed, seated, and made available after his death — not as a monument but as a continued participant. The Auto-Icon is not memorial. It is refusal of withdrawal. Bentham said: I will remain a used thing, a thing the living can continue to put to work, a thing that does not resolve into symbol or legend but persists as a material fact. The enterprise bet everything on the opposite. The withdrawal was the product. The mystification was profitable for longer than almost anyone would have predicted because the art market rewards managed absence more reliably than it rewards the presence of actual labor. The investigation insists that the cabinet be opened. Not to punish. Not to expose for its own sake. To correct the historical record in the direction of the people who actually made the work — so the living can be credited as living, and the dressed skeleton can finally stop doing the work of a living body, and the crypt can metabolize what it has been embalming for twenty-five years. My great-grandfather Max Bress walked from New York to Pittsburgh around 1900 and opened a dry goods store. My grandfather founded a bank that went bankrupt during the Depression — had it survived, we would be the family whose stake became Giant Eagle, the supermarket chain that eventually made the economics of independent grocery delivery impossible. My father ran the oldest grocery store in America at the corner of Center and Highland, closed it rather than go bankrupt, crossed Highland Avenue to the Yellow Cab lot directly opposite, and drove a cab. He taught me to drive in the years he was doing it for a living. I drove film productions for fifteen years after college. I drove my daughter Bella everywhere she needed to go, and the car was where she got her inheritance, which is not money but grammar — a felt, pre-theoretical knowledge of what things actually cost before the margin is applied. I am sixty years old, permanently disabled, living in Pittsburgh on disability support and eBay income, conducting a forensic investigation without institutional affiliation, publishing to platforms that index the work and let it stand, sending this letter to r/Banksy because that is where the work has always lived and because you deserve to be read there, Dr. Avi, by the people who have been living inside this investigation alongside me, because they are real and they are paying attention and they will know exactly what to do with a woman who has spent her life teaching people how to use language against the apparatus that keeps telling them their language doesn't count. This is payback for Nimrod. This is also the Codex. These are the same thing. What is my grade? Yours, in love and in motion, Bobby Bress Pittsburgh, Pennsylvania March 2026 Educated, in the ways that mattered, by: Earl Cohen, Pasquale Buffalino, Carl Horner, H. David Brumble, Colin McCabe, Peter Machamer, Tom Rawski, Clark Muenzer, Christopher Rawson, Phillip and Susan Smith, Harry Mooney, Steve Carr, Elena Tuens. The grocer's grammar and the scholar's grammar are the same grammar, differently installed. Thank you for the installation.
+
+43m ago
 
 ---
 
@@ -121,7 +121,7 @@ I've been building an interactive 3d and 2d visualization of GPT-2. You can chec
 
 ## Google News: "ai"
 
-**[Exclusive | Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO](https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5?gaa_at=eafs&gaa_n=AWEtsqeTx4uvMciEjWOfD0zjYcozRzM1ocq12hasKR-ci11eIIws0CiiABLL&gaa_ts=69c2a5e6&gaa_sig=jVtKDR9wJsCyBg2q5oGqynO4p1BFHL_N1xrH1MZ9lKEJyg3R4dS49J8EZTVuo4eqMyfkEjSo8kP12AeFehCOBA%3D%3D)**
+**[Exclusive | Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO](https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5?gaa_at=eafs&gaa_n=AWEtsqcwQ6hxdJDzgZ5AJzo8oUN-Nuu18eDX4P0FWZpuOAeq5zdFYzrXgrcf&gaa_ts=69c2ba30&gaa_sig=XZPshbT-ep5u4foBCjX-uu0BOW_3M3PGtnZkRrokRIgzIcfW-Ni0HK6YVYor33zc0UcPLI-1w6o6_uR7Ws2PDg%3D%3D)**
 
 WSJ • 1d ago
 
@@ -131,13 +131,13 @@ WSJ • 1d ago
 
 Anthropic and its rivals are trying to ramp up capabilities of AI agents after OpenClaw went viral earlier this year.
 
-CNBC • 4h ago
+CNBC • 6h ago
 
 ---
 
 **[Behind the Curtain: America's next class war will be over AI fluency](https://www.axios.com/2026/03/24/ai-use-inequality-class)**
 
-Axios • 4h ago
+Axios • 5h ago
 
 ---
 
@@ -145,21 +145,21 @@ Axios • 4h ago
 
 Live coverage of "Magnificent Seven" stocks, and the latest technology news.
 
-Yahoo Finance • 59m ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[The Freelance Platform Fiverr Wants to Sell You AI Video](https://www.hollywoodreporter.com/business/digital/fiverr-ai-video-hub-commercials-1236545651/)**
+**[Apple to host June developer conference online with AI updates](https://www.usatoday.com/story/tech/news/2026/03/24/apple-developer-event-june/89299084007/)**
 
-The gig economy stalwart is partnering with a handful of established AI directors, like Billy Boman, to offer video production to small businesses at a “fraction of the cost.”
+Apple will host its annual Worldwide Developers Conference in June, showcasing AI advancements and new software. Maps ads are coming.
 
-The Hollywood Reporter • 30m ago
+USA Today • 56m ago
 
 ---
 
-**[Norway Wealth Fund CEO Rules Out Job Cuts Despite AI Savings](https://www.bloomberg.com/news/articles/2026-03-24/norway-wealth-fund-ceo-rules-out-job-cuts-despite-ai-savings)**
+**[In N.Y.C. Classes, Teachers Can Use A.I. to Plan but Not to Assign Grades](https://www.nytimes.com/2026/03/24/nyregion/ai-nyc-classes-grades.html)**
 
-Bloomberg.com • 49m ago
+The New York Times • 1h ago
 
 ---
 
@@ -167,31 +167,31 @@ Bloomberg.com • 49m ago
 
 Nvidia CEO Jensen Huang told Lex Fridman in a Monday podcast interview that he believed AGI had been achieved, then seemed to slightly walk back the claim.
 
-The Verge • 18h ago
+The Verge • 20h ago
 
 ---
 
-**[Do we have to keep talking about AI? The machines are always one step ahead | Zoe Williams](https://www.theguardian.com/commentisfree/2026/mar/23/do-we-have-to-keep-talking-about-ai-the-machines-are-always-one-step-ahead)**
+**[Sandboxing AI agents, 100x faster](https://blog.cloudflare.com/dynamic-workers/)**
 
-Whether you want to free it or regulate it into submission, one thing is clear: this new technology is moving so fast that we can’t fully grasp it, says Zoe Williams
+We’re introducing Dynamic Workers, which allow you to execute AI-generated code in secure, lightweight isolates. This approach is 100 times faster than traditional containers, enabling millisecond startup times for AI agent sandboxing.
 
-The Guardian • 12h ago
-
----
-
-**[Ground truth: When the Earth moves, AI can spot it](https://www.bbc.com/future/article/20260323-the-ai-that-warns-people-about-landslides-and-avalanches)**
-
-Sudden and unexpected, landslides and avalanches claim thousands of lives each year and cause billions of dollars in damage. What if we could see them coming?
-
-BBC • 4h ago
+The Cloudflare Blog • 3h ago
 
 ---
 
-**[Siemens boss says Europe risks ‘disaster’ from prioritising AI independence](https://www.ft.com/content/d66e857d-803b-45b8-b2f4-3c433b79bfc5?syn-25a6b1a6=1)**
+**[Nvidia CEO tries to explain why DLSS 5 isn’t just “AI slop”](https://arstechnica.com/gaming/2026/03/nvidia-ceo-tries-to-explain-why-dlss-5-isnt-just-ai-slop/)**
 
-Roland Busch warns against throttling ‘innovation speed for the sake of creating sovereignty’
+If game makers don’t like it, “they could decide not to use it, you know?"
 
-Financial Times • 9h ago
+Ars Technica • 18h ago
+
+---
+
+**[Advancing Open Source AI, NVIDIA Donates Dynamic Resource Allocation Driver for GPUs to Kubernetes Community](https://blogs.nvidia.com/blog/nvidia-at-kubecon-2026/)**
+
+In addition, NVIDIA announced at KubeCon Europe a confidential containers solution for GPU-accelerated workloads, updates to the NVIDIA KAI Scheduler and new open source projects to enable large-scale AI workloads.
+
+NVIDIA Blog • 7h ago
 
 ---
 
@@ -203,19 +203,13 @@ Financial Times • 9h ago
 
 Learn how I built an ai receptionist for my brother's mechanic shop
 
-⬆️ 300 • 💬 308 • 1d ago • [itsthatlady.dev](https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/)
+⬆️ 302 • 💬 308 • 1d ago • [itsthatlady.dev](https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/)
 
 ---
 
 **[What young workers are doing to AI-proof themselves](https://news.ycombinator.com/item?id=47480447)**
 
-⬆️ 223 • 💬 382 • 1d ago • [wsj.com](https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284)
-
----
-
-**[Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning](https://news.ycombinator.com/item?id=47467913)**
-
-⬆️ 195 • 💬 119 • 2d ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
+⬆️ 224 • 💬 385 • 1d ago • [wsj.com](https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284)
 
 ---
 
@@ -223,7 +217,7 @@ Learn how I built an ai receptionist for my brother's mechanic shop
 
 cq explores a Stack Overflow for agents, a shared commons where agents can query past learnings, contribute new knowledge, and avoid repeating the same mistakes in isolation.
 
-⬆️ 178 • 💬 75 • 22h ago • [Mozilla.ai](https://blog.mozilla.ai/cq-stack-overflow-for-agents/)
+⬆️ 191 • 💬 82 • 23h ago • [Mozilla.ai](https://blog.mozilla.ai/cq-stack-overflow-for-agents/)
 
 ---
 
@@ -231,27 +225,35 @@ cq explores a Stack Overflow for agents, a shared commons where agents can query
 
 A practical guide to getting the engagement your project deserves.
 
-⬆️ 175 • 💬 29 • 2d ago • [Andrew Nesbitt](https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html)
+⬆️ 177 • 💬 29 • 2d ago • [Andrew Nesbitt](https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html)
+
+---
+
+**[So where are all the AI apps?](https://news.ycombinator.com/item?id=47503006)**
+
+Practical AI R&D
+
+⬆️ 168 • 💬 191 • 1h ago • [Answer.AI](https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html)
+
+---
+
+**[The bridge to wealth is being pulled up with AI](https://news.ycombinator.com/item?id=47503296)**
+
+For two centuries, the credential system gave intelligence a route to heritable capital. Artificial intelligence is closing that route. This essay builds the argument from first principles - with probability theory, interactive simulations, and a prediction specific enough to be falsifiable - and puts a number on the window that remains.
+
+⬆️ 165 • 💬 140 • 1h ago • [Daniel Homola](https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/)
 
 ---
 
 **[Diverse perspectives on AI from Rust contributors and maintainers](https://news.ycombinator.com/item?id=47482825)**
 
-⬆️ 157 • 💬 82 • 1d ago • [nikomatsakis.github.io](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
+⬆️ 159 • 💬 82 • 1d ago • [nikomatsakis.github.io](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
 
 ---
 
 **[Ask HN: AI productivity gains – do you fire devs or build better products?](https://news.ycombinator.com/item?id=47475859)**
 
-⬆️ 103 • 💬 196 • 2d ago
-
----
-
-**[Senior European journalist suspended over AI-generated quotes](https://news.ycombinator.com/item?id=47467566)**
-
-Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of hallucinations’, after investigation by newspaper where he was once editor-in-chief
-
-⬆️ 93 • 💬 79 • 2d ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes)
+⬆️ 104 • 💬 196 • 2d ago
 
 ---
 
@@ -279,7 +281,17 @@ White House science advisor Michael Kratsios discusses the Trump administration'
 
 📺 Fox News Clips
 
-👁️ 40K • 👍 731 • 💬 246 • ⏱️ 4:08 • 1d ago
+👁️ 40K • 👍 736 • 💬 250 • ⏱️ 4:08 • 1d ago
+
+---
+
+**[Stop buying AI security tools until you watch this](https://www.youtube.com/watch?v=tFSb2lSgqwA)**
+
+Thank you to ThreatLocker for sponsoring my trip to ZTW26 and also for sponsoring this video. To start your free trial with ...
+
+📺 David Bombal
+
+👁️ 984 • 👍 114 • 💬 11 • ⏱️ 26:16 • 1h ago
 
 ---
 
@@ -289,7 +301,27 @@ A viral Instagram account, which appears to show a young woman “time travellin
 
 📺 Sky News
 
-👁️ 19K • 👍 465 • 💬 54 • ⏱️ 12:13 • 21h ago
+👁️ 22K • 👍 538 • 💬 64 • ⏱️ 12:13 • 22h ago
+
+---
+
+**[AI Agent Full Tutorial for Beginners 2026: How to Build AI Agents in Minutes](https://www.youtube.com/watch?v=C05XDMGaAn8)**
+
+Best AI Agent Tool is Base44 https://base44.pxf.io/c/6440076/2049275/25619?trafcat=base&sharedid=video112 ✓ FREE ...
+
+📺 Mikey No Code
+
+👁️ 16K • 💬 8 • ⏱️ 31:38 • 1d ago
+
+---
+
+**[Anthropic AI Academy WIPES OUT $497/Month AI Courses 💀 (Beginners Are Winning For $0)](https://www.youtube.com/watch?v=yrBvF66A-Us)**
+
+Here is your link to Grab my AI Fast Track Training here: https://nickponte.ai/aifasttrack You'll get a 30-day trial to the #1 AI ...
+
+📺 Nick Ponte
+
+👁️ 22K • 👍 1K • 💬 108 • ⏱️ 10:39 • 1d ago
 
 ---
 
@@ -299,17 +331,17 @@ Jensen Huang is the co-founder and CEO of NVIDIA, the world's most valuable comp
 
 📺 Lex Fridman
 
-👁️ 278K • 👍 10K • 💬 941 • ⏱️ 2:25:59 • 22h ago
+👁️ 307K • 👍 10K • 💬 1K • ⏱️ 2:25:59 • 23h ago
 
 ---
 
-**[Why AI Might Not Replace Your Job After All](https://www.youtube.com/watch?v=EGskcTRnLJ0)**
+**[Cops Use AI, Arrest the Wrong Guy](https://www.youtube.com/watch?v=kAEdH1YXB8I)**
 
-Since ChatGPT's debut, AI has been framed as everything from a world-changing breakthrough to an existential threat.
+Imagine you go into a business and their AI surveillance camera thinks it recognizes you as a trespasser. So that business ...
 
-📺 Bloomberg Television
+📺 The Civil Rights Lawyer
 
-👁️ 184K • 👍 4K • 💬 738 • ⏱️ 12:20 • 3d ago
+👁️ 121K • 👍 8K • 💬 862 • ⏱️ 2:37 • 20h ago
 
 ---
 
@@ -319,57 +351,27 @@ Join our WhatsApp Community Get the latest AI updates, tips, and insights straig
 
 📺 Vaibhav Sisinty
 
-👁️ 71K • 👍 2K • 💬 74 • ⏱️ 19:16 • 1d ago
+👁️ 74K • 👍 3K • 💬 78 • ⏱️ 19:16 • 2d ago
 
 ---
 
-**[I Tested AI Schools](https://www.youtube.com/watch?v=KuH6LPrNSgA)**
+**[NotebookLM Agent Skills: Build POWERFUL Claude AI Agents for ANYTHING!](https://www.youtube.com/watch?v=I-4cJgqF_JY)**
 
-We got AI Schools before GTA VI Become a Member: https://www.youtube.com/channel/UCWBWgCD4oAqT3hUeq40SCUw/join ...
+NotebookLM does the research. Claude builds the skill. The result is an AI agent that actually knows your domain — and you can ...
 
-📺 Sambucha
+📺 Universe of AI
 
-👁️ 235K • 👍 8K • 💬 1K • ⏱️ 40:31 • 15h ago
-
----
-
-**[5 NEW AI Glasses Coming In Weeks!](https://www.youtube.com/watch?v=5vvsuchhpjs)**
-
-Get up to $150 in FREE Amazon credit when you apply for an Amazon Prime Visa card through this link: ...
-
-📺 Steven Sullivan
-
-👁️ 36K • 👍 752 • 💬 23 • ⏱️ 10:11 • 2d ago
+👁️ 5K • 👍 231 • 💬 10 • ⏱️ 15:07 • 16h ago
 
 ---
 
-**[How To Create Long AI Videos FREE | AI Se Lambe Video Kaise banaye | AI Video Generator (No Limits)](https://www.youtube.com/watch?v=yDem8YYQVI8)**
+**[How to Build &amp; Sell AI Agents in 2026: Ultimate Beginner’s Guide](https://www.youtube.com/watch?v=AYQtRqW1xX4)**
 
-How To Create Long AI Videos FREE | AI Se Lambe Video Kaise banaye | AI Video Generator (No Limits) Learn how to create ...
+Self-Host your n8n with Hostinger → https://hostinger.com/liamn8n Use code LIAMOTTLEY for extra 10% off Grab all the course ...
 
-📺 Saddam Buriro
+📺 Liam Ottley
 
-👁️ 9K • 👍 665 • 💬 119 • ⏱️ 6:54 • 23h ago
-
----
-
-**[I Replaced Myself With AI](https://www.youtube.com/watch?v=nNrvsddEd7g)**
-
-I Replaced Myself With AI SUBSCRIBE @slobclan0.
-
-📺 slob clan
-
-👁️ 332K • 👍 6K • 💬 732 • ⏱️ 14:20 • 21h ago
-
----
-
-**[Suno AI Music Video with Lip Sync using Higgsfield tutorial](https://www.youtube.com/watch?v=ZhqPoV17CIQ)**
-
-Join the AI Music Community https://www.skool.com/melodic-ai-4395 Inside the AI Music Community you get: • AI music & beat ...
-
-📺 MoneOnDaBeat
-
-👁️ 5K • 👍 296 • 💬 34 • ⏱️ 12:25 • 1d ago
+👁️ 34K • 👍 2K • 💬 64 • ⏱️ 3:05:04 • 2d ago
 
 ---
 
@@ -385,7 +387,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 326,131 • ❤️ 880 • 13d ago
+⬇️ 326,131 • ❤️ 886 • 13d ago
 
 ---
 
@@ -397,7 +399,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 164,200 • ❤️ 1,141 • 12h ago
+⬇️ 164,200 • ❤️ 1,154 • 13h ago
 
 ---
 
@@ -409,7 +411,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 8,493 • ❤️ 329 • 5d ago
+⬇️ 8,493 • ❤️ 333 • 5d ago
 
 ---
 
@@ -421,7 +423,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 19,722 • ❤️ 237 • 19h ago
+⬇️ 19,722 • ❤️ 248 • 21h ago
 
 ---
 
@@ -431,7 +433,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 Foundation-1 is a structured text-to-sample model for music production, enabling precise control over instrumentation, timbre, FX, and musical structure (tempo, key, bar count) for generating coherent, production-ready audio loops.
 
-⬇️ 0 • ❤️ 241 • 7d ago
+⬇️ 0 • ❤️ 243 • 7d ago
 
 ---
 
@@ -443,7 +445,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 13,613 • ❤️ 723 • 12d ago
+⬇️ 13,613 • ❤️ 725 • 13d ago
 
 ---
 
@@ -455,7 +457,7 @@ Mistral-Small-4-119B-2603 is a hybrid MoE model (119B params, 6.5B active) suppo
 
 `119.4B`
 
-⬇️ 36,887 • ❤️ 317 • 21h ago
+⬇️ 36,887 • ❤️ 320 • 22h ago
 
 ---
 
@@ -479,19 +481,19 @@ GLM-OCR is a multimodal OCR model for complex document understanding, excelling 
 
 `image-to-text`
 
-⬇️ 3,420,577 • ❤️ 1,438 • 12d ago
+⬇️ 3,420,577 • ❤️ 1,440 • 12d ago
 
 ---
 
-**[Qwen3.5-9B](https://huggingface.co/Qwen/Qwen3.5-9B)**
+**[Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF](https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF)**
 
-*Qwen*
+*JIRONG*
 
-Qwen3.5-9B is a 9B parameter multimodal causal language model with an efficient hybrid architecture, excelling in vision-language tasks, coding, and reasoning across 201 languages. It features a unified vision-language foundation and a long context window (262k tokens natively), making it suitable for complex multimodal applications.
+Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2 is a fine-tuned LLM optimized for efficient chain-of-thought reasoning, delivering higher accuracy with reduced token usage. It excels in resource-constrained environments and agentic workflows by providing faster, more economical reasoning.
 
-`image-text-to-text` `9.7B`
+`image-text-to-text` `9.0B`
 
-⬇️ 3,421,174 • ❤️ 993 • 22d ago
+⬇️ 43,905 • ❤️ 116 • 1d ago
 
 ---
 
@@ -529,36 +531,21 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 Hyperagents represent a self-referential framework that integrates task and meta-agents into a single editable program, enabling metacognitive self-modification and open-ended improvement across diverse computational domains.
 
-▲ 26 • 💬 5 • ⭐ 264 • 4d ago
+▲ 27 • 💬 5 • ⭐ 264 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.19461) • [💻 code](https://github.com/facebookresearch/Hyperagents)
 
 ---
 
-**[Attention Residuals](https://huggingface.co/papers/2603.15031)**
+**[Speed by Simplicity: A Single-Stream Architecture for Fast Audio-Video Generative Foundation Model](https://huggingface.co/papers/2603.21986)**
 
-*Kimi Team, Guangyu Chen, Yu Zhang et al. (37 authors)*
+*SII-GAIR, Sand. ai, Ethan Chern et al. (45 authors)*
 
-🏢 Moonshot AI
+daVinci-MagiHuman is an open-source audio-video generative model that synchronizes text, video, and audio through a single-stream Transformer architecture, achieving high-quality human-centric content generation with efficient inference capabilities.
 
-Residual connections with PreNorm are standard in modern LLMs, yet they accumulate all layer outputs with fixed unit weights. This uniform aggregation causes uncontrolled hidden-state growth with depth, progressively diluting each layer's contribution. We propose Attention Residuals (AttnRes), which replaces this fixed accumulation with softmax attention over preceding layer outputs, allowing each layer to selectively aggregate earlier representations with learned, input-dependent weights. To address the memory and communication overhead of attending over all preceding layer outputs for large-scale model training, we introduce Block AttnRes, which partitions layers into blocks and attends over block-level representations, reducing the memory footprint while preserving most of the gains of full AttnRes. Combined with cache-based pipeline communication and a two-phase computation strategy, Block AttnRes becomes a practical drop-in replacement for standard residual connections with minimal overhead.
-  Scaling law experiments confirm that the improvement is consistent across model sizes, and ablations validate the benefit of content-dependent depth-wise selection. We further integrate AttnRes into the Kimi Linear architecture (48B total / 3B activated parameters) and pre-train on 1.4T tokens, where AttnRes mitigates PreNorm dilution, yielding more uniform output magnitudes and gradient distribution across depth, and improves downstream performance across all evaluated tasks.
+▲ 81 • 💬 2 • ⭐ 313 • 1d ago
 
-▲ 153 • 💬 4 • ⭐ 2,615 • 8d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.15031) • [💻 code](https://github.com/MoonshotAI/Attention-Residuals)
-
----
-
-**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
-
-*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
-
-Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
-
-▲ 17 • 💬 0 • ⭐ 36,452 • 13mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet)
+[🎓 arXiv](https://arxiv.org/abs/2603.21986) • [💻 code](https://github.com/GAIR-NLP/daVinci-MagiHuman) • [🔗 project](https://huggingface.co/spaces/SII-GAIR/daVinci-MagiHuman)
 
 ---
 
@@ -574,6 +561,21 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 ---
 
+**[Attention Residuals](https://huggingface.co/papers/2603.15031)**
+
+*Kimi Team, Guangyu Chen, Yu Zhang et al. (37 authors)*
+
+🏢 Moonshot AI
+
+Residual connections with PreNorm are standard in modern LLMs, yet they accumulate all layer outputs with fixed unit weights. This uniform aggregation causes uncontrolled hidden-state growth with depth, progressively diluting each layer's contribution. We propose Attention Residuals (AttnRes), which replaces this fixed accumulation with softmax attention over preceding layer outputs, allowing each layer to selectively aggregate earlier representations with learned, input-dependent weights. To address the memory and communication overhead of attending over all preceding layer outputs for large-scale model training, we introduce Block AttnRes, which partitions layers into blocks and attends over block-level representations, reducing the memory footprint while preserving most of the gains of full AttnRes. Combined with cache-based pipeline communication and a two-phase computation strategy, Block AttnRes becomes a practical drop-in replacement for standard residual connections with minimal overhead.
+  Scaling law experiments confirm that the improvement is consistent across model sizes, and ablations validate the benefit of content-dependent depth-wise selection. We further integrate AttnRes into the Kimi Linear architecture (48B total / 3B activated parameters) and pre-train on 1.4T tokens, where AttnRes mitigates PreNorm dilution, yielding more uniform output magnitudes and gradient distribution across depth, and improves downstream performance across all evaluated tasks.
+
+▲ 154 • 💬 4 • ⭐ 2,655 • 8d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.15031) • [💻 code](https://github.com/MoonshotAI/Attention-Residuals)
+
+---
+
 **[MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling](https://huggingface.co/papers/2511.11793)**
 
 *MiroMind Team, Song Bai, Lidong Bing et al. (54 authors)*
@@ -586,6 +588,18 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 ---
 
+**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
+
+*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
+
+Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
+
+▲ 17 • 💬 0 • ⭐ 36,483 • 13mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet)
+
+---
+
 **[AgentScope 1.0: A Developer-Centric Framework for Building Agentic
   Applications](https://huggingface.co/papers/2508.16279)**
 
@@ -593,7 +607,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
 
-▲ 58 • 💬 4 • ⭐ 18,873 • 7mo ago
+▲ 58 • 💬 4 • ⭐ 18,919 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
 
@@ -611,18 +625,6 @@ Enhancements to the AgentScope platform improve scalability, efficiency, and eas
 
 ---
 
-**[EvoScientist: Towards Multi-Agent Evolving AI Scientists for End-to-End Scientific Discovery](https://huggingface.co/papers/2603.08127)**
-
-*Yougang Lyu, Xi Zhang, Xinhao Yi et al. (12 authors)*
-
-EvoScientist is an adaptive multi-agent framework that enhances scientific discovery by continuously learning from past interactions through persistent memory modules.
-
-▲ 15 • 💬 5 • ⭐ 1,690 • 15d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.08127) • [💻 code](https://github.com/EvoScientist/EvoScientist)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -633,7 +635,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 53.5k • 🔱 7.4k • 3d ago
+⭐ 53.8k • 🔱 7.5k • 3d ago
 
 ---
 
@@ -643,7 +645,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 22.3k • 🔱 1.1k • 17h ago
+⭐ 22.4k • 🔱 1.1k • 18h ago
 
 ---
 
@@ -673,7 +675,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 11.0k • 🔱 572 • 2h ago
+⭐ 11.1k • 🔱 575 • 3h ago
 
 ---
 
@@ -683,7 +685,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.6k • 🔱 773 • 1d ago
+⭐ 10.6k • 🔱 774 • 1d ago
 
 ---
 
@@ -693,7 +695,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 6.5k • 🔱 994 • 2d ago
+⭐ 6.5k • 🔱 1.0k • 2d ago
 
 ---
 
@@ -703,7 +705,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 6.0k • 🔱 482 • 1h ago
+⭐ 6.1k • 🔱 488 • 2m ago
 
 ---
 
@@ -713,7 +715,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `Python` `ai-agents` `claude` `claude-code` `cloud-security` `cybersecurity`
 
-⭐ 3.7k • 🔱 368 • 20h ago
+⭐ 3.7k • 🔱 369 • 21h ago
 
 ---
 
@@ -723,7 +725,7 @@ OpenShell is the safe, private runtime for autonomous AI agents.
 
 `Rust`
 
-⭐ 3.5k • 🔱 351 • 4h ago
+⭐ 3.6k • 🔱 353 • 1h ago
 
 ---
 

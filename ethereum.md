@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-24T14:41:03.826653+00:00'
+updated: '2026-03-24T16:07:38.934642+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- cryptocurrency
 - social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 24, 2026 at 14:41 UTC  
+**Last Updated:** March 24, 2026 at 16:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** -3.3%  
-**30d:** +14.9%  
-**90d:** -26.6%  
-**1y:** +3.3%  
+**24h:** -0.8%  
+**7d:** -3.1%  
+**30d:** +15.1%  
+**90d:** -26.4%  
+**1y:** +3.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $260.90B
+**Market Cap:** $257.61B
 Rank #2
 
 **Circulating Supply:** 120,691,566 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.4%
+-56.9%
 
 **All-Time Low:** $0.43
-+498014.2%
++492773.8%
 
 ---
 
@@ -72,13 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
-
----
-
-**[EthStaker: Ethereum Staking Survey | Any type of staker or even non-stakers are called to respond](https://www.reddit.com/r/ethereum/comments/1s2419r/ethstaker_ethereum_staking_survey_any_type_of/)**
-
-🔗 [ethstaker.org](https://ethstaker.org/forms/staking-landscape-survey-2026) • 10h ago
+11h ago
 
 ---
 
@@ -86,7 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Trying to get a realistic picture of where rollup deployment is right now, not the hype version. I've been reading through documentation for most of the major platforms and the gap between what they promise and what teams actually experience seems pretty significant based on forum posts and Discord convos. Specifically curious about a few things. How much does your framework choice actually constrain you after deployment? If you start on OP Stack and realize Arbitrum Orbit would've been better for your use case, how painful is that migration realistically? Also the maintenance burden question. Every platform promises "one-click deployment" but what does post-launch actually look like for the infra team? Are you constantly babysitting the thing or does it run without much intervention? Asking because I keep seeing projects underestimate this and then burn significant engineering time on infra that should be going to product. What's been everyone's experience?
 
-3m ago
+1h ago
+
+---
+
+**[EthStaker: Ethereum Staking Survey | Any type of staker or even non-stakers are called to respond](https://www.reddit.com/r/ethereum/comments/1s2419r/ethstaker_ethereum_staking_survey_any_type_of/)**
+
+🔗 [ethstaker.org](https://ethstaker.org/forms/staking-landscape-survey-2026) • 11h ago
 
 ---
 
@@ -150,15 +150,15 @@ US SEC securities laws application to crypto, fast confirmation rule, EF mandate
 
 **[How L1 and L2s can build the strongest possible Ethereum](https://blog.ethereum.org/2026/03/23/l1-l2-ethereum)**
 
-Ethereum Foundation Blog • 21h ago
+Ethereum Foundation Blog • 22h ago
 
 ---
 
-**[Ethereum Entered 'Generational Buy Zone,' Says Analyst: 'Precursor To Massive Structural Bull Rallies'](https://finance.yahoo.com/markets/crypto/articles/ethereum-entered-generational-buy-zone-150120991.html)**
+**[Current price of Ethereum for March 24, 2026](https://fortune.com/article/price-of-ethereum-03-24-2026/)**
 
-Cryptocurrency analyst Ali Martinez said on Thursday that Ethereum has entered a generational “Buy Zone,” hinting at major bull runs on the horizon. What History Says In an X post, Martinez pointed out that Ethereum’s Market Value to Realized Value...
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Yahoo Finance • 1d ago
+Fortune • 2h ago
 
 ---
 
@@ -166,15 +166,7 @@ Yahoo Finance • 1d ago
 
 BitMine Immersion Technologies now holds more than $10 billion worth of Ethereum, leading the ETH treasury pack as the asset rebounds.
 
-Yahoo Finance • 23h ago
-
----
-
-**[Ethereum news (ETH): Tensions rise across Ethereum as scaling, security and AI Priorities intensify](https://www.coindesk.com/tech/2026/03/22/ethereum-faces-make-or-break-moment-in-high-stakes-balancing-act-as-scaling-quantum-and-ai-pressures-mount)**
-
-While upgrades have improved efficiency and lowered costs, the ecosystem faces deeper structural questions around fragmentation, security, and purpose, even as it continues prioritizing base-layer scaling.
-
-CoinDesk • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -186,9 +178,19 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Rise. How the Iran War Has Made Crypto Calls Tougher.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqeee1hMQbqDg048OaB_BbBhoZbvgGIIJPbFihCex5bei9t9MtqUViTx&gaa_ts=69c2a5e9&gaa_sig=nh7HPa2ILa4KTI2cIkYqUkQ7ySesd3IY1d20PdliMwg2oa6LRa9F2Eau17Yx1fIQnbj9cofDghUZXJzdvtZ6fQ%3D%3D)**
+**[Ethereum news: Bitmine (BMNR) buys 65,341 ETH worth $138 million betting on crypto slump ending](https://www.coindesk.com/business/2026/03/23/tom-lee-s-bitmine-extends-buying-streak-with-usd138-million-eth-purchase-betting-on-crypto-slump-ending)**
 
-Barron's • 3h ago
+The Ethereum treasury firm led by Thomas Lee now has increased its buying pace for three consecutive weeks even as unrealized losses mount.
+
+CoinDesk • 1d ago
+
+---
+
+**[Ethereum news (ETH): Tensions rise across Ethereum as scaling, security and AI Priorities intensify](https://www.coindesk.com/tech/2026/03/22/ethereum-faces-make-or-break-moment-in-high-stakes-balancing-act-as-scaling-quantum-and-ai-pressures-mount)**
+
+While upgrades have improved efficiency and lowered costs, the ecosystem faces deeper structural questions around fragmentation, security, and purpose, even as it continues prioritizing base-layer scaling.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -197,14 +199,6 @@ Barron's • 3h ago
 Three cryptocurrencies look like good candidates to rebound this year.
 
 The Motley Fool • 1d ago
-
----
-
-**[BlackRock's ETHB: A Potential Contender To Grayscale's ETH (NASDAQ:ETHB)](https://seekingalpha.com/article/4885251-blackrocks-ethb-a-potential-contender-to-grayscales-eth?source=feed_all_articles)**
-
-BlackRock’s iShares Staked Ethereum ETF adds ETH exposure plus staking yield, with low fees and a high staking ratio. Click to read my latest analysis of ETHB.
-
-Seeking Alpha • 1h ago
 
 ---
 
@@ -220,7 +214,13 @@ TradingView • 1d ago
 
 MoonPay has launched the Open Wallet Standard (OWS), an open source framework designed to give AI agents a consistent way to hold funds and sign
 
-ledgerinsights.com • 23h ago
+ledgerinsights.com • 1d ago
+
+---
+
+**[Most large cryptocurrencies climb on Avalanche, Ethereum increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-climb-on-avalanche-ethereum-increases-460e6938-c25d4eb6a817?gaa_at=eafs&gaa_n=AWEtsqeRN_zcMPa_dxQt29buAfnXRcyqV2z9hJXGb-o7Ws0EALrij5OChXFN&gaa_ts=69c2ba34&gaa_sig=imM1oqwCuc7CsYtAEoLhgwPk7eAhkil0sZM6TZTNiJxAoG6jlVFZv3rdrrvYfsSAhnUdGVL_vuGBoEg-Pa05IA%3D%3D)**
+
+MarketWatch • 1d ago
 
 ---
 
@@ -228,23 +228,43 @@ ledgerinsights.com • 23h ago
 
 ## YouTube Videos: "ethereum"
 
+**[🚨 BTC &amp; ETH: YOU CANT MISS THIS!!! HUGE OPPORTUNITY NOW!!!!!](https://www.youtube.com/watch?v=A6k1U0SFu-g)**
+
+This video is not for everyone. If your income is below $10000/month — close it. I've been in business for 15 years, and my capital ...
+
+📺 Thomas Kralow
+
+👁️ 5K • 👍 2K • 💬 33 • ⏱️ 6:06 • 4h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=AIF83_V1BLQ)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 496 • 👍 63 • 💬 3 • ⏱️ 3:30 • 1h ago
+
+---
+
+**[BULLISH NEWS UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=-iBmqxEL-0Q)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 212 • 👍 11 • 💬 2 • ⏱️ 4:34 • 6h ago
+
+---
+
 **[🚨 BTC &amp; ETH: TERRIBLE NEWS!!!](https://www.youtube.com/watch?v=OWhm79nmI4c)**
 
 The situation just got 10 times worse for bitcoin, ethereum and the rest of crypto! Markets are about to tank! Here is why and how to ...
 
 📺 Thomas Kralow
 
-👁️ 14K • 👍 2K • 💬 35 • ⏱️ 11:52 • 1d ago
-
----
-
-**[Vitalik vs BlackRock: Who Wins?](https://www.youtube.com/watch?v=l77QrTEIgpo)**
-
-BlackRock just launched a staking Ethereum ETF—but is it really a win for investors? This video breaks down ETHB, hidden fees, ...
-
-📺 Coin Bureau
-
-👁️ 23K • 👍 930 • 💬 97 • ⏱️ 18:11 • 3d ago
+👁️ 14K • 👍 2K • 💬 36 • ⏱️ 11:52 • 1d ago
 
 ---
 
@@ -254,7 +274,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 113 • 💬 20 • ⏱️ 9:47 • 1d ago
+👁️ 2K • 👍 116 • 💬 20 • ⏱️ 9:47 • 1d ago
 
 ---
 
@@ -264,7 +284,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 170 • 💬 5 • ⏱️ 4:00 • 20h ago
+👁️ 3K • 👍 172 • 💬 5 • ⏱️ 4:00 • 21h ago
+
+---
+
+**[Crypto Presale 2026: Why BFX is Better Than Standard ETH Staking ?](https://www.youtube.com/watch?v=8o4joQj9CmY)**
+
+Join the best crypto presale 2026 and master eth staking in 2026! ✓ BlockchainFX Official: https://linktr.ee/BlockChain_FX Use ...
+
+📺 Crypto Freedom
+
+👁️ 2K • 👍 568 • 💬 39 • ⏱️ 6:51 • 2h ago
 
 ---
 
@@ -274,27 +304,7 @@ Free Ethereum in 2026 — myth or real opportunity? In this video, I run a real 
 
 📺 Leo Collins
 
-👁️ 116 • 👍 499 • 💬 4 • ⏱️ 4:16 • 1h ago
-
----
-
-**[Ethereum’s Quantum Plan Before Q-Day with Justin Drake](https://www.youtube.com/watch?v=wURmzLKhJco)**
-
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Quantum used to be crypto's ...
-
-📺 Bankless
-
-👁️ 4K • 👍 186 • 💬 18 • ⏱️ 1:44:01 • 1d ago
-
----
-
-**[ETH Under $1,000?! The 2026 Crash No One Sees Coming](https://www.youtube.com/watch?v=eziVC5jj93U)**
-
-Trade Crypto Futures on Blofin exchange and get up to 9400USDT cashback on trading volume every month + iPhone giveaways.
-
-📺 Intelligent Cryptocurrency - Dirk Crypto Diggy
-
-👁️ 97 • 👍 11 • 💬 1 • ⏱️ 5:56 • 6h ago
+👁️ 2K • 👍 482 • 💬 316 • ⏱️ 4:16 • 3h ago
 
 ---
 
@@ -304,27 +314,17 @@ BITCOIN: This Could Change EVERYTHING (for now)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 5K • 👍 219 • 💬 39 • ⏱️ 16:35 • 13h ago
+👁️ 6K • 👍 230 • 💬 79 • ⏱️ 16:35 • 14h ago
 
 ---
 
-**[CRYPTO LIVE TRADING || 24 Mar  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=xGJdHDS1VMA)**
+**[Ethereum’s Quantum Plan Before Q-Day with Justin Drake](https://www.youtube.com/watch?v=wURmzLKhJco)**
 
-join my social platforms for updates and analysis ✓Instagram: ...
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Quantum used to be crypto's ...
 
-📺 Aryan trader Live
+📺 Bankless
 
-👁️ 5K • 👍 4K • 4h ago
-
----
-
-**[Ethereum To Hit $1 Trillion Market Cap SOON! #shorts](https://www.youtube.com/watch?v=pgJL9QCTc-A)**
-
-Ethereum is on track to reach a trillion-dollar market cap. With its current growth, a 4X increase could cement its status as a global ...
-
-📺 CoinBros
-
-👁️ 50 • ⏱️ 0:55 • 11h ago
+👁️ 4K • 👍 188 • 💬 19 • ⏱️ 1:44:01 • 1d ago
 
 ---
 
