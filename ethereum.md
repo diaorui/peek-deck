@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-24T19:05:12.224190+00:00'
+updated: '2026-03-24T20:02:14.144740+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 24, 2026 at 19:05 UTC  
+**Last Updated:** March 24, 2026 at 20:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Trying to get a realistic picture of where rollup deployment is right now, not the hype version. I've been reading through documentation for most of the major platforms and the gap between what they promise and what teams actually experience seems pretty significant based on forum posts and Discord convos. Specifically curious about a few things. How much does your framework choice actually constrain you after deployment? If you start on OP Stack and realize Arbitrum Orbit would've been better for your use case, how painful is that migration realistically? Also the maintenance burden question. Every platform promises "one-click deployment" but what does post-launch actually look like for the infra team? Are you constantly babysitting the thing or does it run without much intervention? Asking because I keep seeing projects underestimate this and then burn significant engineering time on infra that should be going to product. What's been everyone's experience?
 
-4h ago
+5h ago
 
 ---
 
 **[EthStaker: Ethereum Staking Survey | Any type of staker or even non-stakers are called to respond](https://www.reddit.com/r/ethereum/comments/1s2419r/ethstaker_ethereum_staking_survey_any_type_of/)**
 
-🔗 [ethstaker.org](https://ethstaker.org/forms/staking-landscape-survey-2026) • 14h ago
+🔗 [ethstaker.org](https://ethstaker.org/forms/staking-landscape-survey-2026) • 15h ago
 
 ---
 
@@ -158,7 +158,7 @@ Ethereum Foundation Blog • 1d ago
 
 Regulated insurance and standardized benchmarks are pivoting staked ETH from a crypto experiment to a legitimate institutional yield asset.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -166,7 +166,7 @@ CoinDesk • 3h ago
 
 Until recently, crypto users mostly traded tokens or borrowed against them, often chasing high but unpredictable yields. But new tools are making it possible to lock in returns, even in a market known for big swings.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -190,7 +190,7 @@ The Block • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 5h ago
+Fortune • 6h ago
 
 ---
 
@@ -206,7 +206,7 @@ The Motley Fool • 1d ago
 
 Ethereum price started a recovery wave from the $2,025 zone. ETH is now consolidating above $2,120 and might struggle to clear the $2,200 resistance.Ethereum Price Faces ResistanceEthereum price managed to stay above $2,000 and started a recovery wave, like Bitcoin. ETH price was able to climb abov…
 
-TradingView • 15h ago
+TradingView • 16h ago
 
 ---
 
@@ -214,7 +214,7 @@ TradingView • 15h ago
 
 Dubai, UAE, March  23, 2026  (GLOBE NEWSWIRE) -- The Ethereum based crypto Pepeto just entered its last exchange testing phase after a senior Bina...
 
-markets.businessinsider.com • 21h ago
+markets.businessinsider.com • 22h ago
 
 ---
 
@@ -222,7 +222,7 @@ markets.businessinsider.com • 21h ago
 
 Crypto prices, including for Bitcoin and XRP, are getting a much-needed boost Monday. Here's what digital asset investors need to know.
 
-Fast Company • 23h ago
+Fast Company • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ This video is not for everyone. If your income is below $10000/month — close i
 
 📺 Thomas Kralow
 
-👁️ 8K • 👍 2K • 💬 33 • ⏱️ 6:06 • 7h ago
+👁️ 8K • 👍 2K • 💬 33 • ⏱️ 6:06 • 8h ago
 
 ---
 
@@ -246,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 90 • 💬 5 • ⏱️ 3:30 • 4h ago
+👁️ 1K • 👍 90 • 💬 5 • ⏱️ 3:30 • 5h ago
 
 ---
 
@@ -266,7 +266,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 262 • 👍 13 • 💬 2 • ⏱️ 4:34 • 9h ago
+👁️ 262 • 👍 13 • 💬 2 • ⏱️ 4:34 • 10h ago
 
 ---
 
@@ -276,7 +276,7 @@ Free Ethereum in 2026 — myth or real opportunity? In this video, I run a real 
 
 📺 Leo Collins
 
-👁️ 3K • 👍 481 • 💬 491 • ⏱️ 4:16 • 6h ago
+👁️ 3K • 👍 481 • 💬 491 • ⏱️ 4:16 • 7h ago
 
 ---
 
@@ -286,7 +286,7 @@ Werde Teil unserer Community & bring dein Trading auf das nächste Level!* Koste
 
 📺 TradingKompass
 
-👁️ 552 • 👍 172 • 💬 26 • ⏱️ 8:05 • 1h ago
+👁️ 552 • 👍 172 • 💬 26 • ⏱️ 8:05 • 2h ago
 
 ---
 
@@ -316,7 +316,7 @@ BITCOIN: This Could Change EVERYTHING (for now)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 237 • 💬 143 • ⏱️ 16:35 • 17h ago
+👁️ 6K • 👍 237 • 💬 143 • ⏱️ 16:35 • 18h ago
 
 ---
 
@@ -326,7 +326,7 @@ Trade Crypto Futures on Blofin exchange and get up to 9400USDT cashback on tradi
 
 📺 Intelligent Cryptocurrency - Dirk Crypto Diggy
 
-👁️ 195 • 👍 21 • 💬 19 • ⏱️ 5:56 • 11h ago
+👁️ 195 • 👍 21 • 💬 19 • ⏱️ 5:56 • 12h ago
 
 ---
 

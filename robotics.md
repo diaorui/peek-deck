@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-24T19:05:12.226921+00:00'
+updated: '2026-03-24T20:02:14.147853+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 24, 2026 at 19:05 UTC  
+**Last Updated:** March 24, 2026 at 20:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/2036127368088080867 On Youtube: Kyber Labs - Wet Lab Demo: https://www.youtube.com/watch?v=iM7WjQYlFvM Kyber Labs Demos: https://kyberlabs.ai/demos
 
-9h ago
+10h ago
 
 ---
 
@@ -44,7 +44,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/203612736808808086
 
 From Marc Benioff on 𝕏: https://x.com/Benioff/status/2036252519308075219
 
-15h ago
+16h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Marc Benioff on 𝕏: https://x.com/Benioff/status/2036252519308075219
 
 KOU-III is a two-legged robot from Shandong University that combines walking with drone-like rotors for extra balance and power. Inspired by how ostriches use their wings while running, the rotors help it jump higher, land softly, and stay stable on tough terrain.
 
-2h ago
+3h ago
 
 ---
 
@@ -60,7 +60,7 @@ KOU-III is a two-legged robot from Shandong University that combines walking wit
 
 I have this lidar from one of my robo vacuum cleaner DEEBOT Y1 PRO. I want to use this lidar for my project. I want to connect it to rpi zero 2w can someone explain me how to identify the connections as I have already searched the web and not getting any proper results.
 
-3h ago
+4h ago
 
 ---
 
@@ -74,7 +74,7 @@ I have this lidar from one of my robo vacuum cleaner DEEBOT Y1 PRO. I want to us
 
 Hey everyone, i’m working on integrating a StepperOnline HHT-25-50-I-D14 harmonic drive reducer (50:1) with a NEMA 34 stepper motor, and I had a quick question before moving fIorward. Does anyone know if this reducer comes with any mounting accessories? Specifically: Motor mounting flange / adapter plate (for NEMA 34?) Shaft coupling or connection parts . Or is it just the standalone reducer? From what I can see, it looks like a shaft-input type, so I’m assuming I’ll need to design a custom adapter plate, but I’d like to confirm before ordering. If anyone has used this exact model or a similar one, I’d really appreciate your feedback 🙏 Thanks!
 
-3h ago
+4h ago
 
 ---
 
@@ -82,7 +82,7 @@ Hey everyone, i’m working on integrating a StepperOnline HHT-25-50-I-D14 harmo
 
 I have a 6DOF toy robot arm and i want to be able to control the joints with a microcontroller. How can i do this since it uses a dc motor with and can only move forwards and backwards so far
 
-5h ago
+6h ago
 
 ---
 
@@ -104,7 +104,7 @@ I built this robot to perform with acrobats in new and interesting ways. See Acr
 
 Not gonna lie, tech shows can be dry. But seeing a phone with a tiny arm dance alongside a robot at the Honor booth was kind of delightful. It was a reminder that tech can be playful. I don't know if I'd ever need a dancing phone, but I appreciate brands showing personality.
 
-6h ago
+7h ago
 
 ---
 
@@ -114,7 +114,7 @@ Not gonna lie, tech shows can be dry. But seeing a phone with a tiny arm dance a
 
 **[Billionaire Qatari Sheikh, Amazon Back Robotics Startup Neura](https://www.bloomberg.com/news/articles/2026-03-24/billionaire-qatari-sheikh-amazon-back-robotics-startup-neura?srnd=phx-technology)**
 
-Bloomberg.com • 9m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -122,13 +122,13 @@ Bloomberg.com • 9m ago
 
 The company said the new plant will help with "potential expansion" of robot manufacturing in the United States.
 
-The Detroit News • 1h ago
+The Detroit News • 2h ago
 
 ---
 
 **[Teradyne Drives Robotics With AI: Is the Growth Thesis Strengthening?](https://uk.finance.yahoo.com/news/teradyne-drives-robotics-ai-growth-150100604.html)**
 
-Yahoo Finance UK • 4h ago
+Yahoo Finance UK • 5h ago
 
 ---
 
@@ -166,7 +166,7 @@ Interesting Engineering • 1d ago
 
 Modular robots are easily expandable, know when they're upside down or stuck, and can march forward across all kinds of terrain.
 
-Live Science • 3h ago
+Live Science • 4h ago
 
 ---
 
@@ -174,7 +174,7 @@ Live Science • 3h ago
 
 STMicroelectronics stock is upgraded to a "Buy." Learn more about STM's data center & robotics growth, AWS partnership, and easing inventories.
 
-Seeking Alpha • 31m ago
+Seeking Alpha • 1h ago
 
 ---
 
@@ -216,7 +216,7 @@ Robots are becoming ubiquitous in China, whether for industrial manufacturing, t
 
 📺 ShanghaiEye魔都眼
 
-👁️ 6K • 👍 148 • 💬 39 • ⏱️ 1:29 • 9h ago
+👁️ 6K • 👍 148 • 💬 39 • ⏱️ 1:29 • 10h ago
 
 ---
 

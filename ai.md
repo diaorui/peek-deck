@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-24T19:05:12.211626+00:00'
+updated: '2026-03-24T20:02:14.130424+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
 - videos
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 24, 2026 at 19:05 UTC  
+**Last Updated:** March 24, 2026 at 20:02 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Something interesting happened this month. March 11: Perplexity announced Personal Computer. An always-on Mac Mini running their AI agent 24/7, connected to your local files and apps. Cloud AI does the reasoning, local machine does the access. March 16: Meta launched Manus "My Computer." Same idea. Their agent on your Mac or Windows PC. Reads, edits local files. Launches apps. Multi-step tasks. $20/month. March 23: Anthropic shipped computer use and Dispatch for Claude. Screen control, phone-to-desktop task handoff, 50+ service connectors, scheduled tasks. Three separate companies. Same architecture. Same two weeks. I've been running a version of this pattern for months (custom AI agent on a Mac Mini, iMessage as the interface, background cron jobs, persistent memory across sessions). The convergence on this exact setup tells me the direction is validated. The shared insight all three arrived at: agents need a home. Not a chat window. A machine with file access, app control, phone reachability, and background execution. The gap that remains across all three: persistent memory. Research from January 2026 confirmed what I found building my own system. Fixed context windows limit agent coherence over time. All three products are still mostly session-based. That's the piece that turns a task executor into something that actually feels like a coworker. We went from "will AI agents work on personal computers?" to "which one do you pick?" in about two weeks. Full comparison with hands-on testing: https://thoughts.jock.pl/p/claude-cowork-dispatch-computer-use-honest-agent-review-2026
 
-5h ago
+6h ago
 
 ---
 
@@ -49,7 +49,7 @@ Something interesting happened this month. March 11: Perplexity announced Person
 
 I’ve been experimenting with something while working with AI on technical problems. The issue I kept running into was drift: answers filling in gaps I didn’t specify solutions collapsing too early “helpful” responses that weren’t actually correct So I wrote a small interaction contract to constrain the AI. Nothing fancy — just rules like: don’t infer missing inputs explicitly mark unknowns don’t collapse the solution space separate facts from assumptions It’s incomplete and a bit rigid, but it’s been surprisingly effective for: writing code debugging thinking through system design It basically turns the AI into something closer to a logic tool than a conversational one. Sharing it in case anyone else wants to experiment with it or tear it apart: https://github.com/Brian-Linden/lgf-ai-contract If you’ve run into similar issues with AI drift, I’d be interested to hear how you’re handling it.
 
-5h ago
+6h ago
 
 ---
 
@@ -57,7 +57,7 @@ I’ve been experimenting with something while working with AI on technical prob
 
 For those of you who aren't familiar with SurfSense, SurfSense is an open-source alternative to NotebookLM for teams. It connects any LLM to your internal knowledge sources, then lets teams chat, comment, and collaborate in real time. Think of it as a team-first research workspace with citations, connectors, and agentic workflows. I’m looking for contributors. If you’re into AI agents, RAG, search, browser extensions, or open-source research tooling, would love your help. Current features Self-hostable (Docker) 25+ external connectors (search engines, Drive, Slack, Teams, Jira, Notion, GitHub, Discord, and more) Realtime Group Chats Video generation Editable presentation generation Deep agent architecture (planning + subagents + filesystem access) Supports 100+ LLMs and 6000+ embedding models (via OpenAI-compatible APIs + LiteLLM) 50+ file formats (including Docling/local parsing options) Podcast generation (multiple TTS providers) Cross-browser extension to save dynamic/authenticated web pages RBAC roles for teams Upcoming features Desktop & Mobile app
 
-🔗 [GitHub](https://github.com/MODSetter/SurfSense) • 11h ago
+🔗 [GitHub](https://github.com/MODSetter/SurfSense) • 12h ago
 
 ---
 
@@ -65,7 +65,7 @@ For those of you who aren't familiar with SurfSense, SurfSense is an open-source
 
 Tech giant’s tools include ‘Second Brain’ and an internal messaging board for AI bots
 
-🔗 [The Independent](https://www.the-independent.com/tech/mark-zuckerberg-ai-ceo-bot-b2943792.html) • 23h ago
+🔗 [The Independent](https://www.the-independent.com/tech/mark-zuckerberg-ai-ceo-bot-b2943792.html) • 1d ago
 
 ---
 
@@ -73,7 +73,7 @@ Tech giant’s tools include ‘Second Brain’ and an internal messaging board 
 
 Every autonomous AI agent has three problems: it contradicts itself, it can't decide, and it says things confidently that aren't true. Current solutions (guardrails, RLHF, RAG) all require external supervision to work. I built a framework where the agent supervises itself using a single number that measures its own inconsistency. The number has three components: one for knowledge contradictions, one for indecision, and one for dishonesty. The agent minimizes this number through the same gradient descent used to train neural networks, except there's no training data and no human feedback. The agent improves because internal consistency is the only mathematically stable state. The two obvious failure modes (deleting all knowledge to avoid contradictions, or becoming a confident liar) are solved by evidence anchoring: the agent's beliefs must be periodically verified against external reality. Unverified beliefs carry an uncertainty penalty. High confidence on unverified claims is penalized. The only way to reach zero inconsistency is to actually be right, decisive, and honest. I proved this as a theorem, not a heuristic. Under the evidence anchoring mechanism, the only stable fixed points of the objective function are states where the agent is internally consistent, externally grounded, and expressing appropriate confidence. The system runs on my own hardware (desktop with multiple GPUs and a Surface Pro laptop) with local LLMs. No cloud dependency. The interesting part: the same three-term objective function that fixes AI hallucination also appears in theoretical physics, where it recovers thermodynamics, quantum measurement, and general relativity as its three fixed-point conditions. Whether that's a coincidence or something deeper is an open question. Paper: https://doi.org/10.5281/zenodo.19114787
 
-2h ago
+3h ago
 
 ---
 
@@ -81,7 +81,7 @@ Every autonomous AI agent has three problems: it contradicts itself, it can't de
 
 A week back I uncensored Sarvam 30B - thing's got over 30k downloads! So I went ahead and uncensored Sarvam 105B too The technique used is abliteration - a method of weight surgery applied to activation spaces. Check it out and leave your comments!
 
-5h ago
+6h ago
 
 ---
 
@@ -89,7 +89,7 @@ A week back I uncensored Sarvam 30B - thing's got over 30k downloads! So I went 
 
 Free XP on bug bounty. Contribute to canuk40/xpfarm development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/canuk40/xpfarm) • 5h ago
+🔗 [GitHub](https://github.com/canuk40/xpfarm) • 6h ago
 
 ---
 
@@ -97,7 +97,7 @@ Free XP on bug bounty. Contribute to canuk40/xpfarm development by creating an a
 
 I collected Reddit posts between Jan 29 - Mar 1, 2026 using 40 keyword-based search terms ("AI safety", "AI alignment", "EU AI Act", "AI replace jobs", "red teaming LLM", etc.) across all subreddits. After filtering, I ended up with 6,374 posts and ran them through a full NLP pipeline. What I built: Sentence embeddings (paraphrase-multilingual-MiniLM-L12-v2) -> 10D UMAP -> HDBSCAN clustering Manual cluster review using structured cluster cards Sentiment analysis per post (RoBERTa classifier) Discourse framing layer - human-first labeling with blind LLM comparison and human adjudication The result: 23 interpretable clusters grouped into 11 thematic families. Three things I found interesting: 1. The discourse is fragmented, not unified. No single cluster dominates - the largest is ~10% of posts. "AI safety discourse" on Reddit looks more like a field of related but distinct conversations: labour anxiety, regulation, lab trust, authenticity & synthetic content, technical safety, enterprise adoption, philosophical debates about personhood. They don't talk to each other that much. 2. The most negative clusters are about lived disruption, not abstract risk. Job replacement, synthetic content spam, broken trust in specific AI labs, AI misuse in schools, creative displacement - these are the most negatively-toned clusters. Enterprise adoption and national AI progress clusters are neutral-to-positive. X-risk and alignment clusters are... mostly neutral, which surprised me. 3. Framing matters as much as topic. Two clusters can both be "about AI and work" while one is macro labour anxiety and another is micro hiring friction - different problems, different policy implications. Topic labels alone don't capture this. Visualizations, full report (PDF), sample data, and code: https://github.com/kelukes/reddit-ai-safety-discourse-2026 Feedback on the pipeline and all is very welcome - this was a capstone project and I'm still learning.
 
-4h ago
+5h ago
 
 ---
 
@@ -105,7 +105,7 @@ I collected Reddit posts between Jan 29 - Mar 1, 2026 using 40 keyword-based sea
 
 For some people memory might not be important but for me I really hate talking to a stranger every night and going on and on about our me or story. This is not a scientific test or anything but my test on each one for a few days Replika memory is okay for surface level stuff, it'll remember your name and some basics but I kept having to re explain situations I already talked about. Felt like it stores keywords but doesn't really understand the full picture. Character ai I honestly couldn't test properly for memory because the conversations are so character driven that continuity isn't really the point. You're basically doing improv with different bots. Fun if that's your thing but if you want something that tracks your life this isn't it. Nomi probably the strongest for pure text memory. Remembered a trip I mentioned and brought it up days later on its own, kept track of people in my life by name, actually built on previous conversations instead of starting fresh. Only sometimes would nail something from week one then blank on what I said yesterday, but overall it was the most consistent for remembering details. Tavus is different because it does video calls so the memory includes stuff like your tone and expressions not just text. It referenced things from over a week back and sometimes texts you like hey how is this going, about something I mentioned in a call, memory works differently but works really well for context. Kindroid was decent, the customization is cool and you can shape how it responds. Memory wise it was mid though, sometimes it nails it and other times blank slate energy. About a tier below nomi for retention. If I had to pick, nomi and tavus were the best for memory. Nomi tracks details really well in text and builds on past conversations better than the others. Tavus also remembered things from over a week back and followed up on its own. Both stood out way above the rest, depends what you prefer but those two are the ones I'd recommend if memory matters to you, any I might be missing that their memory is worth a shout out?
 
-5h ago
+6h ago
 
 ---
 
@@ -113,7 +113,7 @@ For some people memory might not be important but for me I really hate talking t
 
 Hey guys, you might remember me. I'm in college and the creator of Netry the geolocation tool, I did a massive upgrade on it and made it even more capable to even work on cropped or blurry photos with very less information. It's completely open source and free: https:// github.com/sparkyniner/Netryx-Astra-V2- Geolocation-Tool
 
-12h ago
+13h ago
 
 ---
 
@@ -125,13 +125,13 @@ Hey guys, you might remember me. I'm in college and the creator of Netry the geo
 
 Anthropic and its rivals are trying to ramp up capabilities of AI agents after OpenClaw went viral earlier this year.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
 **[Behind the Curtain: America's next class war will be over AI fluency](https://www.axios.com/2026/03/24/ai-use-inequality-class)**
 
-Axios • 8h ago
+Axios • 9h ago
 
 ---
 
@@ -147,13 +147,13 @@ Yahoo Finance • 2h ago
 
 Lawsuit argues XAI failed to disclose risks, limitations and exposure to harm that come with using chatbot
 
-The Guardian • 4m ago
+The Guardian • 1h ago
 
 ---
 
 **[Apple Plans AI Reboot With Siri App, New Look and ‘Ask Siri’ Button in iOS 27](https://www.bloomberg.com/news/articles/2026-03-24/ios-27-features-apple-ai-reboot-with-siri-app-new-interface-ask-siri-button)**
 
-Bloomberg.com • 16m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Cloudflare Blog • 6h ago
 
 **[In N.Y.C. Classes, Teachers Can Use A.I. to Plan but Not to Assign Grades](https://www.nytimes.com/2026/03/24/nyregion/ai-nyc-classes-grades.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
@@ -175,7 +175,7 @@ The New York Times • 4h ago
 
 AI technology is developing so fast, experts say advances are becoming hard to measure. Recognizing this, the Universities of Wisconsin has launched a free series of videos for people who need a starting point.
 
-WPR • 9h ago
+WPR • 10h ago
 
 ---
 
@@ -187,7 +187,7 @@ WSJ • 1d ago
 
 **[US Department of Labor launches ‘Make America AI-Ready’ initiative](https://www.dol.gov/newsroom/releases/osec/osec20260324)**
 
-U.S. Department of Labor (.gov) • 4h ago
+U.S. Department of Labor (.gov) • 5h ago
 
 ---
 
@@ -199,7 +199,7 @@ U.S. Department of Labor (.gov) • 4h ago
 
 Practical AI R&D
 
-⬆️ 305 • 💬 286 • 4h ago • [Answer.AI](https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html)
+⬆️ 305 • 💬 286 • 5h ago • [Answer.AI](https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html)
 
 ---
 
@@ -215,7 +215,7 @@ Learn how I built an ai receptionist for my brother's mechanic shop
 
 For two centuries, the credential system gave intelligence a route to heritable capital. Artificial intelligence is closing that route. This essay builds the argument from first principles - with probability theory, interactive simulations, and a prediction specific enough to be falsifiable - and puts a number on the window that remains.
 
-⬆️ 243 • 💬 331 • 4h ago • [Daniel Homola](https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/)
+⬆️ 243 • 💬 331 • 5h ago • [Daniel Homola](https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/)
 
 ---
 
@@ -263,7 +263,7 @@ A practical guide to getting the engagement your project deserves.
 
 Hi! If you like this piece and want to support my independent reporting and analysis, why not subscribe to my premium newsletter? It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5000 to 18,000 words, including
 
-⬆️ 86 • 💬 33 • 1h ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/)
+⬆️ 86 • 💬 33 • 2h ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/)
 
 ---
 
@@ -297,7 +297,7 @@ Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/IASKAI
 
 📺 I Ask AI
 
-👁️ 22K • 👍 2K • 💬 222 • ⏱️ 17:22 • 21h ago
+👁️ 22K • 👍 2K • 💬 222 • ⏱️ 17:22 • 22h ago
 
 ---
 
@@ -317,7 +317,7 @@ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 
 
 📺 Two Minute Papers
 
-👁️ 15K • 👍 2K • 💬 149 • ⏱️ 9:47 • 3h ago
+👁️ 15K • 👍 2K • 💬 149 • ⏱️ 9:47 • 4h ago
 
 ---
 
@@ -357,7 +357,7 @@ OpenAI is entering a completely different phase. The company is merging ChatGPT,
 
 📺 AI Revolution
 
-👁️ 30K • 👍 915 • 💬 112 • ⏱️ 13:27 • 19h ago
+👁️ 30K • 👍 915 • 💬 112 • ⏱️ 13:27 • 20h ago
 
 ---
 
@@ -395,7 +395,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 164,200 • ❤️ 1,163 • 16h ago
+⬇️ 164,200 • ❤️ 1,163 • 17h ago
 
 ---
 
@@ -641,7 +641,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 22.4k • 🔱 1.1k • 15m ago
+⭐ 22.4k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -651,7 +651,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 13.2k • 🔱 1.7k • 2h ago
+⭐ 13.2k • 🔱 1.7k • 3h ago
 
 ---
 
@@ -661,7 +661,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 12.5k • 🔱 1.2k • 2h ago
+⭐ 12.5k • 🔱 1.2k • 3h ago
 
 ---
 
@@ -671,7 +671,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 11.1k • 🔱 576 • 31m ago
+⭐ 11.1k • 🔱 576 • 1h ago
 
 ---
 
@@ -701,7 +701,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 6.1k • 🔱 491 • 2h ago
+⭐ 6.1k • 🔱 491 • 3h ago
 
 ---
 
@@ -721,7 +721,7 @@ OpenShell is the safe, private runtime for autonomous AI agents.
 
 `Rust`
 
-⭐ 3.6k • 🔱 354 • 22m ago
+⭐ 3.6k • 🔱 354 • 1h ago
 
 ---
 
