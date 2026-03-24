@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-24T07:35:26.149029+00:00'
+updated: '2026-03-24T08:55:03.104262+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
+- news
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 24, 2026 at 07:35 UTC  
+**Last Updated:** March 24, 2026 at 08:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,387.77
+### $71,084.11
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.6%  
-**7d:** -0.5%  
-**30d:** +9.7%  
-**90d:** -18.9%  
-**1y:** -18.8%  
+**24h:** +4.1%  
+**7d:** -0.4%  
+**30d:** +9.8%  
+**90d:** -18.8%  
+**1y:** -18.7%  
 
 ---
 
@@ -79,15 +79,13 @@ Rank #1
 
 **[They don't know what's coming](https://www.reddit.com/r/Bitcoin/comments/1s1oscn/they_dont_know_whats_coming/)**
 
-13h ago
+14h ago
 
 ---
 
-**[Bitcoin Just jumped 3k in a couple minutes..](https://www.reddit.com/r/Bitcoin/comments/1s1dxww/bitcoin_just_jumped_3k_in_a_couple_minutes/)**
+**[Don't you just love and vague mysterious guys! lol](https://www.reddit.com/r/Bitcoin/comments/1s26awy/dont_you_just_love_and_vague_mysterious_guys_lol/)**
 
-I am new to crypto, what would have caused this?
-
-20h ago
+2h ago
 
 ---
 
@@ -95,15 +93,15 @@ I am new to crypto, what would have caused this?
 
 March 23, 2026
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-1031-btc-and-now-holds-762099-btc_03-23-2026) • 15h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-1031-btc-and-now-holds-762099-btc_03-23-2026) • 16h ago
 
 ---
 
-**[Advice for a beginner?](https://www.reddit.com/r/Bitcoin/comments/1s25tf2/advice_for_a_beginner/)**
+**[Bitcoin Just jumped 3k in a couple minutes..](https://www.reddit.com/r/Bitcoin/comments/1s1dxww/bitcoin_just_jumped_3k_in_a_couple_minutes/)**
 
-I have about 2k to start with. I just need to know how this works? Do I let it sit or do I need to learn how to trade? Help 😭 I’m so scared to buy these courses from these “traders”..
+I am new to crypto, what would have caused this?
 
-1h ago
+21h ago
 
 ---
 
@@ -111,7 +109,15 @@ I have about 2k to start with. I just need to know how this works? Do I let it s
 
 BTC is for the world, all it takes is to believe and act.
 
-🔗 [X (formerly Twitter)](https://x.com/0xpicklecati/status/1917528745906430274?s=46) • 2h ago
+🔗 [X (formerly Twitter)](https://x.com/0xpicklecati/status/1917528745906430274?s=46) • 3h ago
+
+---
+
+**[Advice for a beginner?](https://www.reddit.com/r/Bitcoin/comments/1s25tf2/advice_for_a_beginner/)**
+
+I have about 2k to start with. I just need to know how this works? Do I let it sit or do I need to learn how to trade? Help 😭 I’m so scared to buy these courses from these “traders”..
+
+2h ago
 
 ---
 
@@ -119,7 +125,7 @@ BTC is for the world, all it takes is to believe and act.
 
 TLDR: If you invested $10,000 in Bitcoin back on March 23, 2020, your investment today would be in six figures, at just over $100,000. By comparison, if you invested the same amount in the S&P 500 via index funds, then you'd be up to around $29,000. While both investments would have been highly profitable for you, there's no question that going with Bitcoin has proven to be much better.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/heres-much-bitcoin-surged-past-182000674.html?guccou) • 9h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/heres-much-bitcoin-surged-past-182000674.html?guccou) • 10h ago
 
 ---
 
@@ -127,29 +133,21 @@ TLDR: If you invested $10,000 in Bitcoin back on March 23, 2020, your investment
 
 I was scrolling through the top posts of all time on this subreddit, and something really caught my attention. Two of the biggest posts ever are basically milestones: Bitcoin hitting $10,000 (around 8 years ago) Bitcoin hitting $100,000 (about a year ago) It made me pause for a second… because at those moments, both probably felt insane. Like a “we finally made it” kind of milestone. Now I’m wondering: When do you guys think we’ll see the same kind of post for $1,000,000? Also curious, what do you think would need to happen for that to become reality? Institutional adoption, inflation, global financial shifts…? It’s crazy how each milestone once felt impossible… until it wasn’t.
 
-18h ago
+19h ago
+
+---
+
+**[Daily Discussion, March 24, 2026](https://www.reddit.com/r/Bitcoin/comments/1s25tfl/daily_discussion_march_24_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+2h ago
 
 ---
 
 **[🦏 CFTC Chairman Michael Selig just signaled a major shift in how the US will regulate Bitcoin and crypto.](https://www.reddit.com/r/Bitcoin/comments/1s1jyoi/cftc_chairman_michael_selig_just_signaled_a_major/)**
 
-16h ago
-
----
-
-**[Fold is finally launching their Bitcoin credit card](https://www.reddit.com/r/Bitcoin/comments/1s1tahi/fold_is_finally_launching_their_bitcoin_credit/)**
-
-https://foldapp.com/credit-card Fine print is below and looks to be 1.5% unlimited. However, the 0.5% boost would be a taxable event and the remainder 2% is capped at first $2,000 a month. No word on if Fold+ members still receive a a metal card of it there is a foreign transaction fee included. 1 1.5% back on all qualifying purchases. No cap on base rewards earned. Cardholders may earn an additional 0.5% back by paying their credit card balance with Bitcoin and up to 2% in additional bonus rewards (4% total) on the first $2,000 of monthly card spend based on qualifying Auto-Stack! and/or Direct to Bitcoin activity during the calendar month. Rewards Account balances are subject to a $10,000 limit; balances approaching this limit must be withdrawn to continue earning. Bitcoin is volatile and may lose value. Rewards are not FDIC- or SIPC-insured.
-
-10h ago
-
----
-
-**[So close!!!](https://www.reddit.com/r/Bitcoin/comments/1s1jo90/so_close/)**
-
-0.991 BTC a bit moreeeee
-
-16h ago
+17h ago
 
 ---
 
@@ -157,27 +155,19 @@ https://foldapp.com/credit-card Fine print is below and looks to be 1.5% unlimit
 
 ## Google News: "bitcoin"
 
-**[Bitcoin climbs as Trump grants five days for Iran negotiations](https://fortune.com/2026/03/23/bitcoin-climbs-as-trump-grants-five-days-for-iran-negotiations/)**
-
-The original cryptocurrency advanced more than 5% to trade as high as $71,794 in New York before paring some of the gain.
-
-Fortune • 10h ago
-
----
-
 **[Bitcoin, ether, solana prices move higher as Gulf allies inch toward joining Iran war](https://www.coindesk.com/markets/2026/03/24/bitcoin-ether-solana-prices-move-higher-as-gulf-allies-inch-toward-joining-iran-war)**
 
 Crypto recovered on Tuesday morning even as Monday's relief rally unraveled across traditional markets, with oil jumping 4% on reports that Saudi Arabia and the UAE are moving to join the conflict.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
-**[Bitcoin's mining concentration just showed up in a rare 2-block reorg](https://www.coindesk.com/tech/2026/03/24/bitcoin-s-mining-concentration-just-showed-up-in-a-rare-2-block-reorg)**
+**[Bitcoin climbs as Trump grants five days for Iran negotiations](https://fortune.com/2026/03/23/bitcoin-climbs-as-trump-grants-five-days-for-iran-negotiations/)**
 
-A 2-block reorg at height 941,881 saw Foundry's chain overwrite blocks from AntPool and ViaBTC, coming days after mining difficulty dropped nearly 8%.
+The original cryptocurrency advanced more than 5% to trade as high as $71,794 in New York before paring some of the gain.
 
-CoinDesk • 1h ago
+Fortune • 11h ago
 
 ---
 
@@ -185,7 +175,7 @@ CoinDesk • 1h ago
 
 Geoffrey Kendrick of Standard Chartered thinks Bitcoin is poised for an epic rally.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -197,7 +187,7 @@ Bloomberg.com • 1d ago
 
 **[Saylor’s Strategy Returns to Common Stock for Latest Bitcoin Buy](https://www.bloomberg.com/news/articles/2026-03-23/saylor-s-strategy-returns-to-common-stock-for-latest-bitcoin-buy)**
 
-Bloomberg.com • 13h ago
+Bloomberg.com • 14h ago
 
 ---
 
@@ -205,13 +195,13 @@ Bloomberg.com • 13h ago
 
 Led by Executive Chairman Michael Saylor, Strategy acquired 1,031 bitcoin, bringing holdings to 762,099 coins.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
 **[Strategy Eyes $78 Bil Bitcoin War Chest. Be Skeptical.](https://www.investors.com/news/mstr-stock-strategy-58-billion-bitcoin-war-chest/)**
 
-Investor's Business Daily • 9h ago
+Investor's Business Daily • 11h ago
 
 ---
 
@@ -219,15 +209,23 @@ Investor's Business Daily • 9h ago
 
 Wall Street backs Bitcoin miner pivot into AI and data centers.
 
-thestreet.com • 9h ago
+thestreet.com • 11h ago
 
 ---
 
-**[Bitcoin Price Slides but Holds Up Better Than Stocks as Oil Shock Continues](https://decrypt.co/361973/bitcoin-price-holds-up-better-stocks-oil-shock-continues)**
+**[Bitcoin Price Recovery Paints Familiar Pattern—And That’s the Problem: Analysis](https://decrypt.co/362087/bitcoin-price-pattern-market-crash-analysis)**
 
-Earlier deleveraging and continued institutional participation have helped keep Bitcoin more stable than other risk assets during the recent macro-driven selloff.
+Bitcoin bulls are feeling it right now. But the price chart is quietly drawing the same pattern it drew before two major crashes in a row.
 
-Decrypt • 1d ago
+Decrypt • 12h ago
+
+---
+
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1774321200)**
+
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 2h ago
 
 ---
 
@@ -261,7 +259,7 @@ Difficulty is now nearly 10% below where it started the year, despite a sharp 14
 
 Seal predictions and decisions with cryptographic proof anchored to Bitcoin. No third party required. Free and open source.
 
-⬆️ 1 • 💬 1 • 5d ago • [psicommit.com](https://psicommit.com/)
+⬆️ 1 • 💬 1 • 6d ago • [psicommit.com](https://psicommit.com/)
 
 ---
 
@@ -291,7 +289,7 @@ Nobody knows how screwed everyone actually is right now. Not Iran. Not the Gulf.
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 281 • ⏱️ 15:05 • 8h ago
+👁️ 12K • 👍 1K • 💬 281 • ⏱️ 15:05 • 9h ago
 
 ---
 
@@ -301,7 +299,7 @@ Every reason why a test of the 20 WEMA is coming, and if it breaks we will enter
 
 📺 Crypto Jebb
 
-👁️ 6K • 👍 327 • 💬 215 • ⏱️ 12:00 • 13h ago
+👁️ 6K • 👍 327 • 💬 215 • ⏱️ 12:00 • 14h ago
 
 ---
 
@@ -321,7 +319,7 @@ million in crypto liquidations. In four hours. Today. Bitcoin whipsawed from $67
 
 📺 Money Talks
 
-👁️ 2K • 👍 77 • 💬 126 • ⏱️ 13:33 • 9h ago
+👁️ 2K • 👍 77 • 💬 126 • ⏱️ 13:33 • 11h ago
 
 ---
 
@@ -331,7 +329,7 @@ In today's video, we're breaking down why this specific "Crash Signal" has a hig
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 432 • 💬 13 • ⏱️ 1:10:53 • 15h ago
+👁️ 7K • 👍 432 • 💬 13 • ⏱️ 1:10:53 • 17h ago
 
 ---
 
@@ -361,7 +359,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 13K • 👍 796 • 💬 263 • ⏱️ 13:54 • 14h ago
+👁️ 13K • 👍 796 • 💬 263 • ⏱️ 13:54 • 15h ago
 
 ---
 
@@ -381,7 +379,7 @@ The situation just got 10 times worse for bitcoin, ethereum and the rest of cryp
 
 📺 Thomas Kralow
 
-👁️ 13K • 👍 2K • 💬 33 • ⏱️ 11:52 • 20h ago
+👁️ 13K • 👍 2K • 💬 33 • ⏱️ 11:52 • 21h ago
 
 ---
 
