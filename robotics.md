@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-24T20:02:14.147853+00:00'
+updated: '2026-03-24T21:04:48.502958+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 24, 2026 at 20:02 UTC  
+**Last Updated:** March 24, 2026 at 21:04 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/2036127368088080867 On Youtube: Kyber Labs - Wet Lab Demo: https://www.youtube.com/watch?v=iM7WjQYlFvM Kyber Labs Demos: https://kyberlabs.ai/demos
 
-10h ago
+11h ago
 
 ---
 
@@ -44,7 +44,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/203612736808808086
 
 From Marc Benioff on 𝕏: https://x.com/Benioff/status/2036252519308075219
 
-16h ago
+17h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Marc Benioff on 𝕏: https://x.com/Benioff/status/2036252519308075219
 
 KOU-III is a two-legged robot from Shandong University that combines walking with drone-like rotors for extra balance and power. Inspired by how ostriches use their wings while running, the rotors help it jump higher, land softly, and stay stable on tough terrain.
 
-3h ago
+4h ago
 
 ---
 
@@ -60,7 +60,7 @@ KOU-III is a two-legged robot from Shandong University that combines walking wit
 
 I have this lidar from one of my robo vacuum cleaner DEEBOT Y1 PRO. I want to use this lidar for my project. I want to connect it to rpi zero 2w can someone explain me how to identify the connections as I have already searched the web and not getting any proper results.
 
-4h ago
+5h ago
 
 ---
 
@@ -74,7 +74,7 @@ I have this lidar from one of my robo vacuum cleaner DEEBOT Y1 PRO. I want to us
 
 Hey everyone, i’m working on integrating a StepperOnline HHT-25-50-I-D14 harmonic drive reducer (50:1) with a NEMA 34 stepper motor, and I had a quick question before moving fIorward. Does anyone know if this reducer comes with any mounting accessories? Specifically: Motor mounting flange / adapter plate (for NEMA 34?) Shaft coupling or connection parts . Or is it just the standalone reducer? From what I can see, it looks like a shaft-input type, so I’m assuming I’ll need to design a custom adapter plate, but I’d like to confirm before ordering. If anyone has used this exact model or a similar one, I’d really appreciate your feedback 🙏 Thanks!
 
-4h ago
+5h ago
 
 ---
 
@@ -82,13 +82,21 @@ Hey everyone, i’m working on integrating a StepperOnline HHT-25-50-I-D14 harmo
 
 I have a 6DOF toy robot arm and i want to be able to control the joints with a microcontroller. How can i do this since it uses a dc motor with and can only move forwards and backwards so far
 
-6h ago
+7h ago
 
 ---
 
 **[Roadrunner, the latest robot from the Robotics and AI Institute, is a bipedal, wheeled robot for multi-modal locomotion](https://www.reddit.com/r/robotics/comments/1s1jo4q/roadrunner_the_latest_robot_from_the_robotics_and/)**
 
 1d ago
+
+---
+
+**[Make Kobuki robot w Roomba](https://www.reddit.com/r/robotics/comments/1s2p57j/make_kobuki_robot_w_roomba/)**
+
+Hi! I was given a Roomba, and I'd like to install ROS 2 on it, along with a LiDAR sensor, camera, etc. I'm just starting to study robotics and don't have much experience yet. I'd like to know if there's any documentation or information available on how to modify the Roomba's drivers and set up ROS 2. Thank you very much! This is the model I have
+
+46m ago
 
 ---
 
@@ -100,35 +108,37 @@ I built this robot to perform with acrobats in new and interesting ways. See Acr
 
 ---
 
-**[The robot phone dancing at MWC actually surprised me](https://www.reddit.com/r/robotics/comments/1s2c0ao/the_robot_phone_dancing_at_mwc_actually_surprised/)**
-
-Not gonna lie, tech shows can be dry. But seeing a phone with a tiny arm dance alongside a robot at the Honor booth was kind of delightful. It was a reminder that tech can be playful. I don't know if I'd ever need a dancing phone, but I appreciate brands showing personality.
-
-7h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[Billionaire Qatari Sheikh, Amazon Back Robotics Startup Neura](https://www.bloomberg.com/news/articles/2026-03-24/billionaire-qatari-sheikh-amazon-back-robotics-startup-neura?srnd=phx-technology)**
+**[The most innovative robotics and engineering companies of 2026](https://www.fastcompany.com/91497289/robotics-engineering-most-innovative-companies-2026)**
+
+Why Boston Dynamics, Terabase Energy, Lucid Bots, and Symbotic are among Fast Company's Most Innovative Companies in robotics and engineering for 2026.
+
+Fast Company • 10h ago
+
+---
+
+**[Google partners with Agile Robots, growing its AI robotics footprint](https://www.cnbc.com/2026/03/24/google-agile-robots-ai-robotics.html)**
+
+Google's DeepMind division has been partnering with more robotics companies in recent months.
+
+CNBC • 1h ago
+
+---
+
+**[Amazon Acquires Fauna Robotics, Entering Consumer Humanoid Market](https://www.bloomberg.com/news/articles/2026-03-24/amazon-acquires-fauna-robotics-entering-consumer-humanoid-market)**
 
 Bloomberg.com • 1h ago
 
 ---
 
-**[Robot maker Fanuc plans $90 million Michigan facility employing 225](https://www.detroitnews.com/story/business/autos/2026/03/24/robot-maker-fanuc-plans-90-million-michigan-facility-employing-225/89250669007/)**
+**[NVIDIA Ties Grid Aware AI Factories To Edge Robotics And Cloud](https://ca.finance.yahoo.com/news/nvidia-ties-grid-aware-ai-170843473.html)**
 
-The company said the new plant will help with "potential expansion" of robot manufacturing in the United States.
+NVIDIA (NasdaqGS:NVDA) is launching new Vera Rubin powered AI factories that connect directly with US utilities to support grid aware AI infrastructure. The company is introducing a Vera Rubin DSX reference architecture developed with major energy utilities and infrastructure partners. NVIDIA is expanding into physical AI through robotics, security, and simulation partnerships, including work with Asylon. The company is also rolling out open models and composable AI cloud blueprints with...
 
-The Detroit News • 2h ago
-
----
-
-**[Teradyne Drives Robotics With AI: Is the Growth Thesis Strengthening?](https://uk.finance.yahoo.com/news/teradyne-drives-robotics-ai-growth-150100604.html)**
-
-Yahoo Finance UK • 5h ago
+Yahoo! Finance Canada • 3h ago
 
 ---
 
@@ -138,11 +148,19 @@ Tech Xplore • 1d ago
 
 ---
 
-**[Agile Robots becomes the latest robotics company to partner with Google DeepMind](https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/)**
+**[Regional STEM competition brings nearly 40 robotics teams to Appleton East this weekend](https://fox11online.com/good-day-wi/regional-stem-competition-brings-nearly-40-robotics-teams-to-appleton-east-this-weekend)**
 
-Agile Robots will incorporate Google DeepMind's robotics foundation models into its bots while collecting data for the AI research lab.
+APPLETON (WLUK) -- See robots in action at a STEM event at Appleton East High School this weekend.Almost 40 high school robotics teams from across the region ar
 
-TechCrunch • 7h ago
+WLUK • 2d ago
+
+---
+
+**[AI compressed billions of years of evolution into seconds to create 'Lego-like robots' that can recover even when they lose limbs](https://www.livescience.com/technology/robotics/ai-compressed-billions-of-years-of-evolution-into-seconds-to-create-lego-like-robots-that-can-recover-even-when-they-lose-limbs)**
+
+Modular robots are easily expandable, know when they're upside down or stuck, and can march forward across all kinds of terrain.
+
+Live Science • 5h ago
 
 ---
 
@@ -158,31 +176,15 @@ Nature • 1d ago
 
 Hyundai partners Persona AI to develop humanoid welding robots, advancing automation across global shipyard operations
 
-Interesting Engineering • 1d ago
+Interesting Engineering • 2h ago
 
 ---
 
-**[AI compressed billions of years of evolution into seconds to create 'Lego-like robots' that can recover even when they lose limbs](https://www.livescience.com/technology/robotics/ai-compressed-billions-of-years-of-evolution-into-seconds-to-create-lego-like-robots-that-can-recover-even-when-they-lose-limbs)**
+**[Delivery Robot Drives Through Bus Stop Shelter, Shattering Glass Everywhere](https://www.404media.co/delivery-robot-drives-through-bus-stop-sh-shattering-glass-everywhere/)**
 
-Modular robots are easily expandable, know when they're upside down or stuck, and can march forward across all kinds of terrain.
+A Serve Robotics robot crashed through a Chicago bus shelter.
 
-Live Science • 4h ago
-
----
-
-**[STMicroelectronics: DC And Robotics Opportunities Re-Ignited Enthusiasm (Upgrade) (STM)](https://seekingalpha.com/article/4885450-stmicroelectronics-dc-and-robotics-opportunities-re-ignited-enthusiasm-upgrade?source=generic_rss)**
-
-STMicroelectronics stock is upgraded to a "Buy." Learn more about STM's data center & robotics growth, AWS partnership, and easing inventories.
-
-Seeking Alpha • 1h ago
-
----
-
-**[University of Essex's fruit-picking robot wins national award](https://www.bbc.com/news/articles/c9d41n6gv20o)**
-
-The robots can pick, weigh and harvest strawberries in a matter of seconds.
-
-BBC • 2d ago
+404 Media • 3h ago
 
 ---
 
@@ -216,7 +218,7 @@ Robots are becoming ubiquitous in China, whether for industrial manufacturing, t
 
 📺 ShanghaiEye魔都眼
 
-👁️ 6K • 👍 148 • 💬 39 • ⏱️ 1:29 • 10h ago
+👁️ 6K • 👍 148 • 💬 39 • ⏱️ 1:29 • 11h ago
 
 ---
 

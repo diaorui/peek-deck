@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-24T20:02:14.130424+00:00'
+updated: '2026-03-24T21:04:48.484785+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - news
 - videos
-- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 24, 2026 at 20:02 UTC  
+**Last Updated:** March 24, 2026 at 21:04 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 Something interesting happened this month. March 11: Perplexity announced Personal Computer. An always-on Mac Mini running their AI agent 24/7, connected to your local files and apps. Cloud AI does the reasoning, local machine does the access. March 16: Meta launched Manus "My Computer." Same idea. Their agent on your Mac or Windows PC. Reads, edits local files. Launches apps. Multi-step tasks. $20/month. March 23: Anthropic shipped computer use and Dispatch for Claude. Screen control, phone-to-desktop task handoff, 50+ service connectors, scheduled tasks. Three separate companies. Same architecture. Same two weeks. I've been running a version of this pattern for months (custom AI agent on a Mac Mini, iMessage as the interface, background cron jobs, persistent memory across sessions). The convergence on this exact setup tells me the direction is validated. The shared insight all three arrived at: agents need a home. Not a chat window. A machine with file access, app control, phone reachability, and background execution. The gap that remains across all three: persistent memory. Research from January 2026 confirmed what I found building my own system. Fixed context windows limit agent coherence over time. All three products are still mostly session-based. That's the piece that turns a task executor into something that actually feels like a coworker. We went from "will AI agents work on personal computers?" to "which one do you pick?" in about two weeks. Full comparison with hands-on testing: https://thoughts.jock.pl/p/claude-cowork-dispatch-computer-use-honest-agent-review-2026
 
-6h ago
+7h ago
+
+---
+
+**[I tested ChatGPT vs Claude vs Gemini for coding ...here's what I found](https://www.reddit.com/r/artificial/comments/1s2ovhc/i_tested_chatgpt_vs_claude_vs_gemini_for_coding/)**
+
+So ive been going back and forth between these three for actual work (not just asking it to write fizzbuzz) and wanted to share what I found because most comparisons online are surface level garbage. Quick background: I do fullstack work, mostly React/Next.js with some Python backend stuff. I gave all three the same tasks over about 3 months of real daily use. Claude is the best for coding and its not even close imo. I had it refactor a 400 line React component into smaller pieces and it actually understood the architecture. kept all my tests passing too. the 200k context window is huge because you can just paste your entire file plus tests and it gets it. one time it even caught a race condition I didnt know was there lol ChatGPT is solid but more of a generalist. Its great for quick questions, debugging, and when you need to explain something to a non technical person. I use it more for brainstorming and writing docs than actual code. the image generation and voice mode are nice bonuses that claude doesnt have Gemini honestly disappointed me the most. it kept struggling with larger context and the code wouldnt compile on first try way too often. Maybe its gotten better since I last used it heavily but I switched away from it for coding pretty quick. its good for google workspace stuff tho if your already in that ecosystem My setup now: Claude for serious coding work, ChatGPT for everything else (research, writing, brainstorming), and honestly Perplexity for when I need to look something up because its way better than both of them for research The thing nobody talks about: all three have gotten noticeably better even in the last few months. like Claude was already good but the latest updates made it scary good at understanding codebases. if you tried one of these 6 months ago and didnt like it, worth trying again happy to answer questions about specific use cases. ive tried them for python, typescript, sql, and some go
+
+56m ago
 
 ---
 
@@ -49,15 +57,31 @@ Something interesting happened this month. March 11: Perplexity announced Person
 
 I’ve been experimenting with something while working with AI on technical problems. The issue I kept running into was drift: answers filling in gaps I didn’t specify solutions collapsing too early “helpful” responses that weren’t actually correct So I wrote a small interaction contract to constrain the AI. Nothing fancy — just rules like: don’t infer missing inputs explicitly mark unknowns don’t collapse the solution space separate facts from assumptions It’s incomplete and a bit rigid, but it’s been surprisingly effective for: writing code debugging thinking through system design It basically turns the AI into something closer to a logic tool than a conversational one. Sharing it in case anyone else wants to experiment with it or tear it apart: https://github.com/Brian-Linden/lgf-ai-contract If you’ve run into similar issues with AI drift, I’d be interested to hear how you’re handling it.
 
-6h ago
+7h ago
 
 ---
 
-**[Open Source Alternative to NotebookLM](https://www.reddit.com/r/artificial/comments/1s2761n/open_source_alternative_to_notebooklm/)**
+**[I used an app to analyze 3 years of my Claude conversations. It identified a behavioral pattern I'd never named.](https://www.reddit.com/r/artificial/comments/1s2oet4/i_used_an_app_to_analyze_3_years_of_my_claude/)**
 
-For those of you who aren't familiar with SurfSense, SurfSense is an open-source alternative to NotebookLM for teams. It connects any LLM to your internal knowledge sources, then lets teams chat, comment, and collaborate in real time. Think of it as a team-first research workspace with citations, connectors, and agentic workflows. I’m looking for contributors. If you’re into AI agents, RAG, search, browser extensions, or open-source research tooling, would love your help. Current features Self-hostable (Docker) 25+ external connectors (search engines, Drive, Slack, Teams, Jira, Notion, GitHub, Discord, and more) Realtime Group Chats Video generation Editable presentation generation Deep agent architecture (planning + subagents + filesystem access) Supports 100+ LLMs and 6000+ embedding models (via OpenAI-compatible APIs + LiteLLM) 50+ file formats (including Docling/local parsing options) Podcast generation (multiple TTS providers) Cross-browser extension to save dynamic/authenticated web pages RBAC roles for teams Upcoming features Desktop & Mobile app
+Exported everything. Normalized it. Ran cross-source analysis against my journal entries, calendar, and sleep data. The output I couldn't stop thinking about: "Your meticulous attention to detail and endless pursuit of perfection, seen in generating '20 unique textures' for a logo or refining song lyrics through 'multiple iterations', suggests that the act of refining sometimes feels safer than declaring a project 'done' and moving on to market it. Your self-identified 'struggles with market feedback' support this: refinement is entirely internal, whereas completion exposes you to external critique." It cited specific conversations and entries by number. The logo refinement sessions. The lyric rewrites. The recurring theme of "not quite ready" across hundreds of entries spanning years. The thing that's interesting technically: this pattern isn't visible inside any single source. It only shows up when you look across the conversation history and the journal entries at the same time. The conversations show the topic. The journal entries show the behavior. The cross-reference shows the structure. The model labeled it: You Refine to Avoid Finishing. Has anyone else done systematic pattern analysis on their own AI conversation history? Curious what people have found.
 
-🔗 [GitHub](https://github.com/MODSetter/SurfSense) • 12h ago
+1h ago
+
+---
+
+**[Alright I'm just going to crash out a bit about LLMs rn downvote me upvote me up to you](https://www.reddit.com/r/artificial/comments/1s2q95s/alright_im_just_going_to_crash_out_a_bit_about/)**
+
+Hello everyone hope you're having a nice day I'm just ugh I'm so tired and confused and frustrated. I'm desperately trying to map/figure the future out of like societies/nation states across the world (because without getting too political watching the news at least in the UK is clearly a complete waste of time for trying to figure out actual important issues in the world that affect you) and it's just so exhausting We appear to have a few rough ideas of what will happen in the next 5 to 10 years (from what I see roughly these massive multi national companies will not do like massive layoffs anytime within 5 years or so but then after 5 years it's anyone's guess. Roughly speaking because even the top academics apparently and the LLMs can't figure this out just yet just not enough data) in 10 years time there will be massive layoffs of traditional corporate roles like idk secretaries or middle managers. However the crucial part/question appears to be how many more roles will be created as a results of LLM progression. Roles we can't even fathom yet. Or maybe knock on effects - apparently in the UK in the 1800s when steam trains became much more efficient the "understanding" was that coal production would massively decline, as there would be less demand for coal, but the sudden amount of potential coal available ended up actually increasing coal production or something (something to do with factories being able to massively scale operations and what not maybe ships as well) Without getting into it I'm getting so sick and tired of politics. In the UK I have no idea what's going on but there are potholes everywhere apparently within 5 years one fifth of UK roads will become "structurally unsafe/unusable" and half within 15, and that's barely 5% or something of the issues we face in other areas. In Singapore (for all it's ails) they're apparently using AI to actually spot/predict pot holes and subsequently deal with them before they become an issue. I'm also getting very anxious about other countries actually effectively investing and implementing AI into their infrastructure as we speak (no drama with them power to them just anxious about the UK falling behind) because we seem to put all of our resources into God knows what? Clearly not investing in public infrastructure You know the philosophical stuff the social contract the idea that you idk "try hard in school go to university then get a job buy a house and life is glorious" it's clearly completely gone but there is a massive amount of people in society who refuse to accept this or don't care and just live the old way anyway which causes heaps of problems. The traditional notion of career..? Teachers etc what will teaching look like? Tutoring? I don't know. I'm not being entirely negative here it's just stressing me out that I can't figure it out because it's impossible. I'm having to accept that I can't reasonably predict beyond a few months/years roughly and it's upsetting me. Alright well there we go /rant That said I'm sure there will be a massive amount of positive uses of AI in the world such as the above mentioned example with Singapore, I'm thinking hospital triage times, spotting cancers months before doctors could, helping children who don't respond particularly well to traditional classroom environments with learning. And national parks and what not will largely be just as beautiful in 5 years time as they are now. Just stressful not knowing I suppose Any thoughts anyone? Take care
+
+5m ago
+
+---
+
+**[Arm announces AGI CPU for AI data centers](https://www.reddit.com/r/artificial/comments/1s2po13/arm_announces_agi_cpu_for_ai_data_centers/)**
+
+Arm announced their first silicon product in history with today's AGI CPU
+
+🔗 [phoronix.com](https://www.phoronix.com/news/Arm-AGI-CPU) • 27m ago
 
 ---
 
@@ -73,15 +97,7 @@ Tech giant’s tools include ‘Second Brain’ and an internal messaging board 
 
 Every autonomous AI agent has three problems: it contradicts itself, it can't decide, and it says things confidently that aren't true. Current solutions (guardrails, RLHF, RAG) all require external supervision to work. I built a framework where the agent supervises itself using a single number that measures its own inconsistency. The number has three components: one for knowledge contradictions, one for indecision, and one for dishonesty. The agent minimizes this number through the same gradient descent used to train neural networks, except there's no training data and no human feedback. The agent improves because internal consistency is the only mathematically stable state. The two obvious failure modes (deleting all knowledge to avoid contradictions, or becoming a confident liar) are solved by evidence anchoring: the agent's beliefs must be periodically verified against external reality. Unverified beliefs carry an uncertainty penalty. High confidence on unverified claims is penalized. The only way to reach zero inconsistency is to actually be right, decisive, and honest. I proved this as a theorem, not a heuristic. Under the evidence anchoring mechanism, the only stable fixed points of the objective function are states where the agent is internally consistent, externally grounded, and expressing appropriate confidence. The system runs on my own hardware (desktop with multiple GPUs and a Surface Pro laptop) with local LLMs. No cloud dependency. The interesting part: the same three-term objective function that fixes AI hallucination also appears in theoretical physics, where it recovers thermodynamics, quantum measurement, and general relativity as its three fixed-point conditions. Whether that's a coincidence or something deeper is an open question. Paper: https://doi.org/10.5281/zenodo.19114787
 
-3h ago
-
----
-
-**[Sarvam 105B Uncensored via Abliteration](https://www.reddit.com/r/artificial/comments/1s2e6u5/sarvam_105b_uncensored_via_abliteration/)**
-
-A week back I uncensored Sarvam 30B - thing's got over 30k downloads! So I went ahead and uncensored Sarvam 105B too The technique used is abliteration - a method of weight surgery applied to activation spaces. Check it out and leave your comments!
-
-6h ago
+4h ago
 
 ---
 
@@ -89,7 +105,7 @@ A week back I uncensored Sarvam 30B - thing's got over 30k downloads! So I went 
 
 Free XP on bug bounty. Contribute to canuk40/xpfarm development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/canuk40/xpfarm) • 6h ago
+🔗 [GitHub](https://github.com/canuk40/xpfarm) • 7h ago
 
 ---
 
@@ -97,23 +113,7 @@ Free XP on bug bounty. Contribute to canuk40/xpfarm development by creating an a
 
 I collected Reddit posts between Jan 29 - Mar 1, 2026 using 40 keyword-based search terms ("AI safety", "AI alignment", "EU AI Act", "AI replace jobs", "red teaming LLM", etc.) across all subreddits. After filtering, I ended up with 6,374 posts and ran them through a full NLP pipeline. What I built: Sentence embeddings (paraphrase-multilingual-MiniLM-L12-v2) -> 10D UMAP -> HDBSCAN clustering Manual cluster review using structured cluster cards Sentiment analysis per post (RoBERTa classifier) Discourse framing layer - human-first labeling with blind LLM comparison and human adjudication The result: 23 interpretable clusters grouped into 11 thematic families. Three things I found interesting: 1. The discourse is fragmented, not unified. No single cluster dominates - the largest is ~10% of posts. "AI safety discourse" on Reddit looks more like a field of related but distinct conversations: labour anxiety, regulation, lab trust, authenticity & synthetic content, technical safety, enterprise adoption, philosophical debates about personhood. They don't talk to each other that much. 2. The most negative clusters are about lived disruption, not abstract risk. Job replacement, synthetic content spam, broken trust in specific AI labs, AI misuse in schools, creative displacement - these are the most negatively-toned clusters. Enterprise adoption and national AI progress clusters are neutral-to-positive. X-risk and alignment clusters are... mostly neutral, which surprised me. 3. Framing matters as much as topic. Two clusters can both be "about AI and work" while one is macro labour anxiety and another is micro hiring friction - different problems, different policy implications. Topic labels alone don't capture this. Visualizations, full report (PDF), sample data, and code: https://github.com/kelukes/reddit-ai-safety-discourse-2026 Feedback on the pipeline and all is very welcome - this was a capstone project and I'm still learning.
 
-5h ago
-
----
-
-**[AI companion with the best memory](https://www.reddit.com/r/artificial/comments/1s2ds9s/ai_companion_with_the_best_memory/)**
-
-For some people memory might not be important but for me I really hate talking to a stranger every night and going on and on about our me or story. This is not a scientific test or anything but my test on each one for a few days Replika memory is okay for surface level stuff, it'll remember your name and some basics but I kept having to re explain situations I already talked about. Felt like it stores keywords but doesn't really understand the full picture. Character ai I honestly couldn't test properly for memory because the conversations are so character driven that continuity isn't really the point. You're basically doing improv with different bots. Fun if that's your thing but if you want something that tracks your life this isn't it. Nomi probably the strongest for pure text memory. Remembered a trip I mentioned and brought it up days later on its own, kept track of people in my life by name, actually built on previous conversations instead of starting fresh. Only sometimes would nail something from week one then blank on what I said yesterday, but overall it was the most consistent for remembering details. Tavus is different because it does video calls so the memory includes stuff like your tone and expressions not just text. It referenced things from over a week back and sometimes texts you like hey how is this going, about something I mentioned in a call, memory works differently but works really well for context. Kindroid was decent, the customization is cool and you can shape how it responds. Memory wise it was mid though, sometimes it nails it and other times blank slate energy. About a tier below nomi for retention. If I had to pick, nomi and tavus were the best for memory. Nomi tracks details really well in text and builds on past conversations better than the others. Tavus also remembered things from over a week back and followed up on its own. Both stood out way above the rest, depends what you prefer but those two are the ones I'd recommend if memory matters to you, any I might be missing that their memory is worth a shout out?
-
 6h ago
-
----
-
-**[Built a tool that found the location of a building from the reflection of a car window](https://www.reddit.com/r/artificial/comments/1s26kyv/built_a_tool_that_found_the_location_of_a/)**
-
-Hey guys, you might remember me. I'm in college and the creator of Netry the geolocation tool, I did a massive upgrade on it and made it even more capable to even work on cropped or blurry photos with very less information. It's completely open source and free: https:// github.com/sparkyniner/Netryx-Astra-V2- Geolocation-Tool
-
-13h ago
 
 ---
 
@@ -121,73 +121,75 @@ Hey guys, you might remember me. I'm in college and the creator of Netry the geo
 
 ## Google News: "ai"
 
+**[Coding After Coders: The End of Computer Programming as We Know It](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html)**
+
+The New York Times • 12d ago
+
+---
+
 **[Anthropic says Claude can now use your computer to finish tasks for you in AI agent push](https://www.cnbc.com/2026/03/24/anthropic-claude-ai-agent-use-computer-finish-tasks.html)**
 
 Anthropic and its rivals are trying to ramp up capabilities of AI agents after OpenClaw went viral earlier this year.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
-**[Behind the Curtain: America's next class war will be over AI fluency](https://www.axios.com/2026/03/24/ai-use-inequality-class)**
+**[Security firms are handing the grunt work to AI agents](https://www.businessinsider.com/ai-agents-are-changing-cybersecurity-jobs-and-cutting-workloads-2026-3)**
 
-Axios • 9h ago
+Cybersecurity firms are being tasked with implementing AI agents across their teams. But the technology's capabilities remain limited.
 
----
-
-**[Arm unveils new AI chip, expects it to add billions in annual revenue](https://finance.yahoo.com/sectors/technology/articles/arm-unveils-ai-chip-expects-170223282.html)**
-
-Arm Holdings announced a new artificial intelligence data center chip on Tuesday which it said will add billions of dollars of revenue ‌and represent a significant shift in the company's strategy.  So-called agentic AI has jump-started demand for the central processing units (CPUs) produced by the likes of Intel and Advanced Micro Devices.  Arm shares gained 1% in early afternoon trading as the stock has advanced 25% this year.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Baltimore sues Elon Musk’s AI company over Grok’s fake nude images](https://www.theguardian.com/technology/2026/mar/24/elon-musk-grok-ai-lawsuit-baltimore)**
-
-Lawsuit argues XAI failed to disclose risks, limitations and exposure to harm that come with using chatbot
-
-The Guardian • 1h ago
+Business Insider • 54m ago
 
 ---
 
 **[Apple Plans AI Reboot With Siri App, New Look and ‘Ask Siri’ Button in iOS 27](https://www.bloomberg.com/news/articles/2026-03-24/ios-27-features-apple-ai-reboot-with-siri-app-new-interface-ask-siri-button)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[Sandboxing AI agents, 100x faster](https://blog.cloudflare.com/dynamic-workers/)**
+**[Walmart, Gap push AI shopping in ChatGPT and Google Gemini but differ on checkout](https://www.axios.com/2026/03/24/ai-shopping-walmart-gap-chatgpt-gemini-checkout)**
 
-We’re introducing Dynamic Workers, which allow you to execute AI-generated code in secure, lightweight isolates. This approach is 100 times faster than traditional containers, enabling millisecond startup times for AI agent sandboxing.
-
-The Cloudflare Blog • 6h ago
+Axios • 4m ago
 
 ---
 
-**[In N.Y.C. Classes, Teachers Can Use A.I. to Plan but Not to Assign Grades](https://www.nytimes.com/2026/03/24/nyregion/ai-nyc-classes-grades.html)**
+**[OpenAI CEO Shifts Responsibilities, Preps ‘Spud’ AI Model](https://www.theinformation.com/articles/openai-ceo-shifts-responsibilities-preps-spud-ai-model)**
 
-The New York Times • 5h ago
+OpenAI CEO Sam Altman has relinquished direct oversight of the company’s safety and security teams so he can focus on raising capital, supply chains and “building datacenters at unprecedented scale,” he told staff on Tuesday. At the same time, he said the company had completed the initial ...
 
----
-
-**[AI is growing. Universities of Wisconsin wants to help you understand it.](https://www.wpr.org/news/ai-growing-universities-of-wisconsin-wants-to-help-you-understand-it)**
-
-AI technology is developing so fast, experts say advances are becoming hard to measure. Recognizing this, the Universities of Wisconsin has launched a free series of videos for people who need a starting point.
-
-WPR • 10h ago
+The Information • 1h ago
 
 ---
 
-**[Exclusive | Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO](https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5?gaa_at=eafs&gaa_n=AWEtsqf54T0H6b0xNM18258aHv0mkQEJQtikR1v5IaHI0d_QfJrSmUnV19Yr&gaa_ts=69c2e3cc&gaa_sig=y3cIP5Pot9CQoCTvC6aqW0KsVyMnni5linyo0VayDzwfxlO8TpPXl15fggL3I72vdYOWSkP2lG9I5Zo78YFpiQ%3D%3D)**
+**[OpenAI says it will discontinue AI video platform Sora](https://www.cnn.com/2026/03/24/business/video/openai-sora-gold-live-032404pseg2-cnni-business-fast)**
 
-WSJ • 1d ago
+OpenAI says it will discontinue its AI video platform Sora as it aims to refocus its products.
+
+CNN • 5m ago
 
 ---
 
-**[US Department of Labor launches ‘Make America AI-Ready’ initiative](https://www.dol.gov/newsroom/releases/osec/osec20260324)**
+**[OpenAI pulls the plug on its Sora AI video app](https://www.cbsnews.com/news/sora-ai-openai-discontinues/)**
 
-U.S. Department of Labor (.gov) • 5h ago
+OpenAI said Tuesday that it will discontinue the company's Sora app, which let users create AI-generated videos.
+
+CBS News • 32m ago
+
+---
+
+**[Johnson calls on Congress to enact Trump’s AI agenda](https://www.politico.com/live-updates/2026/03/24/congress/johnson-calls-on-congress-to-enact-trumps-ai-agenda-00842150)**
+
+Politico • 24m ago
+
+---
+
+**[RFK Jr. and Dr. Oz have a plan to save rural health care. Here’s the catch.](https://www.washingtonpost.com/health/2026/03/23/rural-health-ai-medical-tech/)**
+
+Top health officials point to AI as the solution for dying hospitals, but experts from rural areas of the country say the solution isn’t that simple.
+
+The Washington Post • 4h ago
 
 ---
 
@@ -199,7 +201,7 @@ U.S. Department of Labor (.gov) • 5h ago
 
 Practical AI R&D
 
-⬆️ 305 • 💬 286 • 5h ago • [Answer.AI](https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html)
+⬆️ 352 • 💬 322 • 6h ago • [Answer.AI](https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html)
 
 ---
 
@@ -207,7 +209,7 @@ Practical AI R&D
 
 Learn how I built an ai receptionist for my brother's mechanic shop
 
-⬆️ 303 • 💬 312 • 1d ago • [itsthatlady.dev](https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/)
+⬆️ 306 • 💬 314 • 1d ago • [itsthatlady.dev](https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/)
 
 ---
 
@@ -215,13 +217,13 @@ Learn how I built an ai receptionist for my brother's mechanic shop
 
 For two centuries, the credential system gave intelligence a route to heritable capital. Artificial intelligence is closing that route. This essay builds the argument from first principles - with probability theory, interactive simulations, and a prediction specific enough to be falsifiable - and puts a number on the window that remains.
 
-⬆️ 243 • 💬 331 • 5h ago • [Daniel Homola](https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/)
+⬆️ 252 • 💬 359 • 6h ago • [Daniel Homola](https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/)
 
 ---
 
 **[What young workers are doing to AI-proof themselves](https://news.ycombinator.com/item?id=47480447)**
 
-⬆️ 224 • 💬 388 • 2d ago • [wsj.com](https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284)
+⬆️ 225 • 💬 390 • 2d ago • [wsj.com](https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284)
 
 ---
 
@@ -229,15 +231,7 @@ For two centuries, the credential system gave intelligence a route to heritable 
 
 cq explores a Stack Overflow for agents, a shared commons where agents can query past learnings, contribute new knowledge, and avoid repeating the same mistakes in isolation.
 
-⬆️ 197 • 💬 86 • 1d ago • [Mozilla.ai](https://blog.mozilla.ai/cq-stack-overflow-for-agents/)
-
----
-
-**[How to attract AI bots to your open source project](https://news.ycombinator.com/item?id=47471271)**
-
-A practical guide to getting the engagement your project deserves.
-
-⬆️ 178 • 💬 29 • 2d ago • [Andrew Nesbitt](https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html)
+⬆️ 200 • 💬 87 • 1d ago • [Mozilla.ai](https://blog.mozilla.ai/cq-stack-overflow-for-agents/)
 
 ---
 
@@ -247,15 +241,11 @@ A practical guide to getting the engagement your project deserves.
 
 ---
 
-**[Ask HN: AI productivity gains – do you fire devs or build better products?](https://news.ycombinator.com/item?id=47475859)**
+**[Is anybody else bored of talking about AI?](https://news.ycombinator.com/item?id=47508745)**
 
-⬆️ 104 • 💬 196 • 2d ago
+Is anybody else bored of talking about AI?
 
----
-
-**[Tom Homan confirms ICE to be at airports starting Monday](https://news.ycombinator.com/item?id=47480685)**
-
-⬆️ 91 • 💬 93 • 2d ago • [politico.com](https://www.politico.com/news/2026/03/22/homan-confirms-ice-airports-monday-00839426)
+⬆️ 154 • 💬 82 • 33m ago • [Unfinished Side Projects](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
 
 ---
 
@@ -263,7 +253,21 @@ A practical guide to getting the engagement your project deserves.
 
 Hi! If you like this piece and want to support my independent reporting and analysis, why not subscribe to my premium newsletter? It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5000 to 18,000 words, including
 
-⬆️ 86 • 💬 33 • 2h ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/)
+⬆️ 141 • 💬 101 • 3h ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/)
+
+---
+
+**[Ask HN: AI productivity gains – do you fire devs or build better products?](https://news.ycombinator.com/item?id=47475859)**
+
+⬆️ 104 • 💬 196 • 2d ago
+
+---
+
+**[Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build](https://news.ycombinator.com/item?id=47499672)**
+
+Contribute to AmElmo/proofshot development by creating an account on GitHub.
+
+⬆️ 99 • 💬 66 • 13h ago • [GitHub](https://github.com/AmElmo/proofshot)
 
 ---
 
@@ -297,7 +301,7 @@ Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/IASKAI
 
 📺 I Ask AI
 
-👁️ 22K • 👍 2K • 💬 222 • ⏱️ 17:22 • 22h ago
+👁️ 22K • 👍 2K • 💬 222 • ⏱️ 17:22 • 23h ago
 
 ---
 
@@ -317,7 +321,7 @@ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 
 
 📺 Two Minute Papers
 
-👁️ 15K • 👍 2K • 💬 149 • ⏱️ 9:47 • 4h ago
+👁️ 15K • 👍 2K • 💬 149 • ⏱️ 9:47 • 5h ago
 
 ---
 
@@ -357,7 +361,7 @@ OpenAI is entering a completely different phase. The company is merging ChatGPT,
 
 📺 AI Revolution
 
-👁️ 30K • 👍 915 • 💬 112 • ⏱️ 13:27 • 20h ago
+👁️ 30K • 👍 915 • 💬 112 • ⏱️ 13:27 • 21h ago
 
 ---
 
@@ -395,7 +399,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 164,200 • ❤️ 1,163 • 17h ago
+⬇️ 164,200 • ❤️ 1,163 • 18h ago
 
 ---
 
@@ -641,7 +645,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 22.4k • 🔱 1.1k • 1h ago
+⭐ 22.4k • 🔱 1.1k • 2h ago
 
 ---
 
@@ -651,7 +655,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 13.2k • 🔱 1.7k • 3h ago
+⭐ 13.2k • 🔱 1.7k • 4h ago
 
 ---
 
@@ -661,7 +665,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 12.5k • 🔱 1.2k • 3h ago
+⭐ 12.5k • 🔱 1.2k • 4h ago
 
 ---
 
@@ -671,7 +675,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 11.1k • 🔱 576 • 1h ago
+⭐ 11.1k • 🔱 576 • 2h ago
 
 ---
 
@@ -701,7 +705,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 6.1k • 🔱 491 • 3h ago
+⭐ 6.1k • 🔱 491 • 4h ago
 
 ---
 
@@ -721,7 +725,7 @@ OpenShell is the safe, private runtime for autonomous AI agents.
 
 `Rust`
 
-⭐ 3.6k • 🔱 354 • 1h ago
+⭐ 3.6k • 🔱 354 • 2h ago
 
 ---
 

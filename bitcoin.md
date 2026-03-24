@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-24T20:02:14.138807+00:00'
+updated: '2026-03-24T21:04:48.493383+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 24, 2026 at 20:02 UTC  
+**Last Updated:** March 24, 2026 at 21:04 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,817.55
+### $69,429.09
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
-**7d:** -2.4%  
-**30d:** +7.6%  
-**90d:** -20.5%  
-**1y:** -20.4%  
+**24h:** -0.9%  
+**7d:** -1.6%  
+**30d:** +8.5%  
+**90d:** -19.7%  
+**1y:** -19.7%  
 
 ---
 
@@ -77,17 +77,11 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Anyone Else Just Not Really Bothered By The 45% Drop?](https://www.reddit.com/r/Bitcoin/comments/1s2gt6m/anyone_else_just_not_really_bothered_by_the_45/)**
+**[our generation has been priced out of homes. It's the biggest wealth transfer from the working class to the elites and it's because of all the money we've printed. Opt out, buy bitcoin, hold and save and it can help millennials and Gen Z to buy a house](https://www.reddit.com/r/Bitcoin/comments/1s2i36x/our_generation_has_been_priced_out_of_homes_its/)**
 
-In 2022 I really was glued to events in Bitcoin's huge drawdown. I do look at the price every day (okay, maybe twice a day) but this time I really have hardly been bothered. Minus 45% down is a LOT but for some reason it has not really felt like a lot. Maybe I am just so sure of its value now that I am less concerned. At bottom, Bitcoin was down by more than half from its $126k high. If my mutual funds were -45% right now I would be far more worried. Is anyone else just less worried now than in previous years?
+In the US over the last 55 years, the number of homes doubled from 70 million to 150 million. The money supply grew 30 times in the same period. So you have twice the homes and 30 times the cash chasing them. Housing is now 15x more expensive. Bitcoin is money that nobody can print, and can be a tool to help us afford the things that otherwise we are priced out of.
 
 4h ago
-
----
-
-**[Don't you just love and vague mysterious guys! lol](https://www.reddit.com/r/Bitcoin/comments/1s26awy/dont_you_just_love_and_vague_mysterious_guys_lol/)**
-
-13h ago
 
 ---
 
@@ -95,7 +89,21 @@ In 2022 I really was glued to events in Bitcoin's huge drawdown. I do look at th
 
 6 figs Bitcoin guys : BMW, ig model girlfriend 7 figs Bitcoin guys : Lambo, Dubai penthouse 8 figs Bitcoin guys:
 
-10h ago
+11h ago
+
+---
+
+**[Anyone Else Just Not Really Bothered By The 45% Drop?](https://www.reddit.com/r/Bitcoin/comments/1s2gt6m/anyone_else_just_not_really_bothered_by_the_45/)**
+
+In 2022 I really was glued to events in Bitcoin's huge drawdown. I do look at the price every day (okay, maybe twice a day) but this time I really have hardly been bothered. Minus 45% down is a LOT but for some reason it has not really felt like a lot. Maybe I am just so sure of its value now that I am less concerned. At bottom, Bitcoin was down by more than half from its $126k high. If my mutual funds were -45% right now I would be far more worried. Is anyone else just less worried now than in previous years?
+
+5h ago
+
+---
+
+**[Don't you just love and vague mysterious guys! lol](https://www.reddit.com/r/Bitcoin/comments/1s26awy/dont_you_just_love_and_vague_mysterious_guys_lol/)**
+
+14h ago
 
 ---
 
@@ -103,21 +111,13 @@ In 2022 I really was glued to events in Bitcoin's huge drawdown. I do look at th
 
 Hi, my name is Elias and I've built this bitcoin-rails solution to buy, sell, send Bitcoin via common messenger apps. So now you can get a bitcoin wallet via any messenger service you want like WhatsApp, Telegram, Signal, Email etc and don't need to download an app, create a wallet, understand Bitcoin or anything like that anymore. I've just broken it down to only needing to write a text message so my parents, friends, relatives etc. can get their hands on Bitcoin as easily as technically possible. I'm a Bitcoin Maximalist by heart and I think this is finally a solution where they will buy Bitcoin and don't stumble upon all the different barriers. Please ask me anything or tell me what you would like to have implemented / answered. Is there anything stopping you from using it? Do you find it useful? I highly depend on any constructive user feedback from fellow Bitcoiners (jokes off). -Elias PS: right now it's a custodial solution but if requested / if I see the user traction I can also build a non-custodial solution as well, where I don't have constant access to the users funds (would love to have that as a user as well but takes some more programming time).
 
-5h ago
+6h ago
 
 ---
 
 **[Cathie Wood on Bitcoin and the current geopolitical situation](https://www.reddit.com/r/Bitcoin/comments/1s2e6l1/cathie_wood_on_bitcoin_and_the_current/)**
 
-6h ago
-
----
-
-**[our generation has been priced out of homes. It's the biggest wealth transfer from the working class to the elites and it's because of all the money we've printed. Opt out, buy bitcoin, hold and save and it can help millennials and Gen Z to buy a house](https://www.reddit.com/r/Bitcoin/comments/1s2i36x/our_generation_has_been_priced_out_of_homes_its/)**
-
-In the US over the last 55 years, the number of homes doubled from 70 million to 150 million. The money supply grew 30 times in the same period. So you have twice the homes and 30 times the cash chasing them. Housing is now 15x more expensive. Bitcoin is money that nobody can print, and can be a tool to help us afford the things that otherwise we are priced out of.
-
-3h ago
+7h ago
 
 ---
 
@@ -125,7 +125,15 @@ In the US over the last 55 years, the number of homes doubled from 70 million to
 
 At this moment buying bitcoin regularly is the only thing I’m truly confident in long term. The Stock market even during these extreme red days are still trading at high valuations and are not too far off from their all time highs. Additional contributions at this point seem like feeding a fire. Bitcoin goes up. Bitcoin goes down. Bitcoin from where it stands right now will always be there. Stack sats and ignore the noise.
 
-5h ago
+6h ago
+
+---
+
+**[Present from my aunt](https://www.reddit.com/r/Bitcoin/comments/1s2ms5q/present_from_my_aunt/)**
+
+https://preview.redd.it/66g89vjsh1rg1.jpg?width=4080&format=pjpg&auto=webp&s=2f2220ee9a91f32aa63fceeb0e0b29923546b7f6 I asked bitcoins for my birthday. Well, I guess that will do.
+
+2h ago
 
 ---
 
@@ -139,14 +147,6 @@ At this moment buying bitcoin regularly is the only thing I’m truly confident 
 
 everyone who says theyre "over bitcoin" just proves they never really got what it was about to begin with like i get it the price swings can mess with your head especially when youre trying to stay focused on other stuff in life but if you actually understand the technology and what its trying to solve you dont just walk away because of some volatility been thinking about this a lot lately while driving around for work and it just seems obvious that the people bailing out were never in it for the right reasons anyway
 
-12h ago
-
----
-
-**[Advice for a beginner?](https://www.reddit.com/r/Bitcoin/comments/1s25tf2/advice_for_a_beginner/)**
-
-I have about 2k to start with. I just need to know how this works? Do I let it sit or do I need to learn how to trade? Help 😭 I’m so scared to buy these courses from these “traders”..
-
 13h ago
 
 ---
@@ -155,11 +155,27 @@ I have about 2k to start with. I just need to know how this works? Do I let it s
 
 ## Google News: "bitcoin"
 
-**[Here’s how Treasuries could shape Trump’s Iran war and bitcoin moves](https://www.coindesk.com/markets/2026/03/24/here-s-where-treasuries-could-shape-trump-s-iran-war-and-bitcoin-moves)**
+**[Bitcoin price news: BTC reclaims $70,000 on ceasefire report](https://www.coindesk.com/markets/2026/03/24/bitcoin-jolted-modestly-higher-on-iran-ceasefire-report-oil-tumbles-4)**
 
-Treasury yields and swap spreads could eventually pressure the Trump administration to moderate the conflict, analysts argue.
+An Israeli TV report said a one-month ceasefire could be announced soon.
 
-CoinDesk • 12h ago
+CoinDesk • 14m ago
+
+---
+
+**[Bitcoin Tops $71,000 as Trump Postpones Iran Power Plant Strike Plans](https://finance.yahoo.com/markets/crypto/articles/bitcoin-tops-71-000-trump-121115129.html)**
+
+The price move came after Donald Trump touted "productive conversations" regarding a cessation of hostilities in the Middle East.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin hints at 'regime shift' as BTC price dips to $69.5K on Iran nerves](https://www.tradingview.com/news/cointelegraph:9175875e9094b:0-bitcoin-hints-at-regime-shift-as-btc-price-dips-to-69-5k-on-iran-nerves/)**
+
+Bitcoin BITSTAMP:BTCUSD fell below $70,000 at Tuesday’s Wall Street open as macro assets fell over Iran war tensions.Key points:Bitcoin comeback could be in “early stages”Data from TradingView showed 1.5% daily BTC price losses, with BITSTAMP:BTCUSD giving back some of its early-week sprint to $71…
+
+TradingView • 5h ago
 
 ---
 
@@ -167,29 +183,23 @@ CoinDesk • 12h ago
 
 Bernstein said Strategy could see 226% upside if bitcoin has bottomed, with STRC central to its capital model.
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
-**[Bitcoin’s Institutional Shift Drives Bernstein’s $150,000 Call](https://www.bloomberg.com/news/articles/2026-03-24/bitcoin-s-institutional-shift-drives-bernstein-s-150-000-call)**
+**[Banks Took $434 Billion From Americans Last Year — Is it Time for Bitcoin?](https://bitcoinmagazine.com/featured/banks-took-434b-from-america-bitcoin)**
 
-Bloomberg.com • 3h ago
+Banks generated $434 billion in 2025 from deposit spreads, while savers lost purchasing power to inflation. Bitcoin shows another way.
 
----
-
-**[Why Bernstein says bitcoin has bottomed & is moving higher](https://finance.yahoo.com/video/why-bernstein-says-bitcoin-bottomed-161605741.html)**
-
-Yahoo Finance Senior Business Reporter Ines Ferre chats with Yahoo Finance Executive Editor Brian Sozzi to discuss Bernstein's recent call that bitcoin (BTC-USD) has bottomed, taking a closer look at bitcoin's recent market action.
-
-Yahoo Finance • 3h ago
+Bitcoin Magazine • 2h ago
 
 ---
 
-**[The Daily: Balancer Labs to wind down, Bernstein calls bitcoin bottom with $150K target for 2026, and more](https://www.theblock.co/post/394940/the-daily-balancer-labs-to-wind-down-bernstein-calls-bitcoin-bottom-with-150k-target-for-2026-and-more?utm_source=markets.xml&utm_medium=rss)**
+**[BlackRock flags AI as crypto’s next big use case, not token boom](https://www.coindesk.com/business/2026/03/24/blackrock-flags-ai-as-crypto-s-next-big-use-case-not-token-boom)**
 
-The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.
+The asset management giant's Robbie Mitchnic said clients are focused on bitcoin, ether and only a few other tokens, and aren't looking for broad exposure. Rather, they see opportunity for crypto in artificial intelligence.
 
-The Block • 1h ago
+CoinDesk • 45m ago
 
 ---
 
@@ -203,7 +213,13 @@ Yahoo Finance • 1d ago
 
 **[US’s Mysterious $15 Billion Crypto Haul Faces Questions in Court](https://www.bloomberg.com/news/articles/2026-03-24/us-s-mysterious-15-billion-crypto-haul-faces-questions-in-court)**
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 10h ago
+
+---
+
+**[GameStop Sales Fall Amid Continued Retail Troubles, Bitcoin Value Decline](https://www.wsj.com/business/earnings/gamestop-sales-fall-amid-continued-retail-troubles-bitcoin-value-decline-24a5c8de?gaa_at=eafs&gaa_n=AWEtsqdU9A0yAML6TuqRw7ALugRrBTdFmpy0RsdNgE89YX9iIxhHlPX66jFg&gaa_ts=69c2ffd8&gaa_sig=dtubz4f4YemxnvtYKqGWIFg17y2LSwl9mBTlMOqED-TnN9pmJCqSh1ycSTp7IMWGOAm_8ohB06UjcU__phqgtw%3D%3D)**
+
+WSJ • 32m ago
 
 ---
 
@@ -212,20 +228,6 @@ Bloomberg.com • 9h ago
 Strategy shared plans to issue $44 billion in equity, a move aimed at providing its Bitcoin-buying machine with fuel for future purchases.
 
 Yahoo Finance • 1d ago
-
----
-
-**[Strategy Eyes $78 Bil Bitcoin War Chest. Be Skeptical.](https://www.investors.com/news/mstr-stock-strategy-58-billion-bitcoin-war-chest/)**
-
-Investor's Business Daily • 7h ago
-
----
-
-**[Strategy purchases another $76 million worth of Bitcoin, all through sales of common stock](https://fortune.com/2026/03/23/strategy-purchases-another-76-million-worth-of-bitcoin/)**
-
-Michael Saylor’s company now holds about $58 billion of the original cryptocurrency.
-
-Fortune • 1d ago
 
 ---
 
@@ -289,7 +291,7 @@ An event loop for asyncio written in Rust. Contribute to RustedBytes/rsloop deve
 
 **[Show HN: Castor – a secure execution layer for LLM agents](https://news.ycombinator.com/item?id=47504101)**
 
-⬆️ 1 • 💬 0 • 4h ago
+⬆️ 1 • 💬 0 • 5h ago
 
 ---
 
@@ -297,7 +299,7 @@ An event loop for asyncio written in Rust. Contribute to RustedBytes/rsloop deve
 
 Seeking power for data centers, Meta and other companies plan to use equipment that is expensive and polluting.
 
-⬆️ 3 • 💬 2 • 4h ago • [nytimes.com](https://www.nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html)
+⬆️ 3 • 💬 2 • 5h ago • [nytimes.com](https://www.nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html)
 
 ---
 
@@ -305,7 +307,7 @@ Seeking power for data centers, Meta and other companies plan to use equipment t
 
 Facebook really hopes your kids will play Grow A Garden via its terrible phone-based metaverse
 
-⬆️ 2 • 💬 0 • 3h ago • [Kotaku](https://kotaku.com/metas-virtual-reality-app-ditching-vr-to-make-a-roblox-clone-2000671434)
+⬆️ 2 • 💬 0 • 4h ago • [Kotaku](https://kotaku.com/metas-virtual-reality-app-ditching-vr-to-make-a-roblox-clone-2000671434)
 
 ---
 
@@ -319,7 +321,7 @@ Stop Guessing - Ask Clash (beta) ▻ https://www.askclash.ai/ Make FREE Crypto P
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 840 • 💬 209 • ⏱️ 39:00 • 5h ago
+👁️ 13K • 👍 840 • 💬 209 • ⏱️ 39:00 • 6h ago
 
 ---
 
@@ -329,7 +331,7 @@ Gold just entered a bear market during geopolitical chaos while Bitcoin held ste
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 641 • 💬 113 • ⏱️ 13:19 • 7h ago
+👁️ 6K • 👍 641 • 💬 113 • ⏱️ 13:19 • 8h ago
 
 ---
 
@@ -339,7 +341,7 @@ Nobody knows how screwed everyone actually is right now. Not Iran. Not the Gulf.
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 2K • 💬 242 • ⏱️ 15:05 • 20h ago
+👁️ 20K • 👍 2K • 💬 242 • ⏱️ 15:05 • 21h ago
 
 ---
 
@@ -349,7 +351,7 @@ Everyone thinks they understand Bitcoin... but they don't. Because if Bitcoin is
 
 📺 Casual Finance
 
-👁️ 6K • 👍 855 • 💬 211 • ⏱️ 9:55 • 5h ago
+👁️ 6K • 👍 855 • 💬 211 • ⏱️ 9:55 • 6h ago
 
 ---
 
@@ -359,7 +361,7 @@ million in crypto liquidations. In four hours. Today. Bitcoin whipsawed from $67
 
 📺 Money Talks
 
-👁️ 3K • 👍 92 • 💬 166 • ⏱️ 13:33 • 22h ago
+👁️ 3K • 👍 92 • 💬 166 • ⏱️ 13:33 • 23h ago
 
 ---
 
