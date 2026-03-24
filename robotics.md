@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-24T17:31:10.679472+00:00'
+updated: '2026-03-24T19:05:12.226921+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 24, 2026 at 17:31 UTC  
+**Last Updated:** March 24, 2026 at 19:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,27 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[New video of Figure 03 autonomously sorting deformable packages and placing them labels-down for the scanner](https://www.reddit.com/r/robotics/comments/1s22tt5/new_video_of_figure_03_autonomously_sorting/)**
-
-From Marc Benioff on 𝕏: https://x.com/Benioff/status/2036252519308075219
-
-14h ago
-
----
-
 **[New demo by Kyber Labs showing a system doing real lab tasks (one single take, no cuts, and no teleoperation just accelerated and some parts in 1x)](https://www.reddit.com/r/robotics/comments/1s299ix/new_demo_by_kyber_labs_showing_a_system_doing/)**
 
 From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/2036127368088080867 On Youtube: Kyber Labs - Wet Lab Demo: https://www.youtube.com/watch?v=iM7WjQYlFvM Kyber Labs Demos: https://kyberlabs.ai/demos
 
-7h ago
+9h ago
 
 ---
 
-**[Vacuum cleaner Lidar](https://www.reddit.com/r/robotics/comments/1s2hk1g/vacuum_cleaner_lidar/)**
+**[New video of Figure 03 autonomously sorting deformable packages and placing them labels-down for the scanner](https://www.reddit.com/r/robotics/comments/1s22tt5/new_video_of_figure_03_autonomously_sorting/)**
 
-I have this lidar from one of my robo vacuum cleaner DEEBOT Y1 PRO. I want to use this lidar for my project. I want to connect it to rpi zero 2w can someone explain me how to identify the connections as I have already searched the web and not getting any proper results.
+From Marc Benioff on 𝕏: https://x.com/Benioff/status/2036252519308075219
 
-1h ago
+15h ago
 
 ---
 
@@ -60,7 +52,15 @@ I have this lidar from one of my robo vacuum cleaner DEEBOT Y1 PRO. I want to us
 
 KOU-III is a two-legged robot from Shandong University that combines walking with drone-like rotors for extra balance and power. Inspired by how ostriches use their wings while running, the rotors help it jump higher, land softly, and stay stable on tough terrain.
 
-52m ago
+2h ago
+
+---
+
+**[Vacuum cleaner Lidar](https://www.reddit.com/r/robotics/comments/1s2hk1g/vacuum_cleaner_lidar/)**
+
+I have this lidar from one of my robo vacuum cleaner DEEBOT Y1 PRO. I want to use this lidar for my project. I want to connect it to rpi zero 2w can someone explain me how to identify the connections as I have already searched the web and not getting any proper results.
+
+3h ago
 
 ---
 
@@ -70,19 +70,19 @@ KOU-III is a two-legged robot from Shandong University that combines walking wit
 
 ---
 
-**[How can i control the angle of this arm with a simple microcontroller like a raspber](https://www.reddit.com/r/robotics/comments/1s2dxkk/how_can_i_control_the_angle_of_this_arm_with_a/)**
+**[Do StepperOnline Harmonic Reducers come with adapter plates ?](https://www.reddit.com/r/robotics/comments/1s2h88t/do_stepperonline_harmonic_reducers_come_with/)**
 
-I have a 6DOF toy robot arm and i want to be able to control the joints with a microcontroller. How can i do this since it uses a dc motor with and can only move forwards and backwards so far
+Hey everyone, i’m working on integrating a StepperOnline HHT-25-50-I-D14 harmonic drive reducer (50:1) with a NEMA 34 stepper motor, and I had a quick question before moving fIorward. Does anyone know if this reducer comes with any mounting accessories? Specifically: Motor mounting flange / adapter plate (for NEMA 34?) Shaft coupling or connection parts . Or is it just the standalone reducer? From what I can see, it looks like a shaft-input type, so I’m assuming I’ll need to design a custom adapter plate, but I’d like to confirm before ordering. If anyone has used this exact model or a similar one, I’d really appreciate your feedback 🙏 Thanks!
 
 3h ago
 
 ---
 
-**[Do StepperOnline Harmonic Reducers come with adapter plates ?](https://www.reddit.com/r/robotics/comments/1s2h88t/do_stepperonline_harmonic_reducers_come_with/)**
+**[How can i control the angle of this arm with a simple microcontroller like a raspber](https://www.reddit.com/r/robotics/comments/1s2dxkk/how_can_i_control_the_angle_of_this_arm_with_a/)**
 
-Hey everyone, i’m working on integrating a StepperOnline HHT-25-50-I-D14 harmonic drive reducer (50:1) with a NEMA 34 stepper motor, and I had a quick question before moving fIorward. Does anyone know if this reducer comes with any mounting accessories? Specifically: Motor mounting flange / adapter plate (for NEMA 34?) Shaft coupling or connection parts . Or is it just the standalone reducer? From what I can see, it looks like a shaft-input type, so I’m assuming I’ll need to design a custom adapter plate, but I’d like to confirm before ordering. If anyone has used this exact model or a similar one, I’d really appreciate your feedback 🙏 Thanks!
+I have a 6DOF toy robot arm and i want to be able to control the joints with a microcontroller. How can i do this since it uses a dc motor with and can only move forwards and backwards so far
 
-1h ago
+5h ago
 
 ---
 
@@ -104,7 +104,7 @@ I built this robot to perform with acrobats in new and interesting ways. See Acr
 
 Not gonna lie, tech shows can be dry. But seeing a phone with a tiny arm dance alongside a robot at the Honor booth was kind of delightful. It was a reminder that tech can be playful. I don't know if I'd ever need a dancing phone, but I appreciate brands showing personality.
 
-5h ago
+6h ago
 
 ---
 
@@ -112,11 +112,23 @@ Not gonna lie, tech shows can be dry. But seeing a phone with a tiny arm dance a
 
 ## Google News: "robotics"
 
+**[Billionaire Qatari Sheikh, Amazon Back Robotics Startup Neura](https://www.bloomberg.com/news/articles/2026-03-24/billionaire-qatari-sheikh-amazon-back-robotics-startup-neura?srnd=phx-technology)**
+
+Bloomberg.com • 9m ago
+
+---
+
 **[Robot maker Fanuc plans $90 million Michigan facility employing 225](https://www.detroitnews.com/story/business/autos/2026/03/24/robot-maker-fanuc-plans-90-million-michigan-facility-employing-225/89250669007/)**
 
 The company said the new plant will help with "potential expansion" of robot manufacturing in the United States.
 
-The Detroit News • 8m ago
+The Detroit News • 1h ago
+
+---
+
+**[Teradyne Drives Robotics With AI: Is the Growth Thesis Strengthening?](https://uk.finance.yahoo.com/news/teradyne-drives-robotics-ai-growth-150100604.html)**
+
+Yahoo Finance UK • 4h ago
 
 ---
 
@@ -130,7 +142,7 @@ Tech Xplore • 1d ago
 
 Agile Robots will incorporate Google DeepMind's robotics foundation models into its bots while collecting data for the AI research lab.
 
-TechCrunch • 5h ago
+TechCrunch • 7h ago
 
 ---
 
@@ -154,29 +166,15 @@ Interesting Engineering • 1d ago
 
 Modular robots are easily expandable, know when they're upside down or stuck, and can march forward across all kinds of terrain.
 
-Live Science • 2h ago
+Live Science • 3h ago
 
 ---
 
-**[GMEX Robotics Receives AU$4.2 Million First Commercial Order from Leading Australian Food & Beverage Group](https://finance.yahoo.com/sectors/technology/articles/gmex-robotics-receives-au-4-124500890.html)**
+**[STMicroelectronics: DC And Robotics Opportunities Re-Ignited Enthusiasm (Upgrade) (STM)](https://seekingalpha.com/article/4885450-stmicroelectronics-dc-and-robotics-opportunities-re-ignited-enthusiasm-upgrade?source=generic_rss)**
 
-SYDNEY, Australia, March 23, 2026 (GLOBE NEWSWIRE) -- GMEX Robotics Corporation (NASDAQ: GMEX) (“GMEX Robotics” or the “Company”), a developer of AI-powered robotic technologies, announces that it has entered into a purchase agreement with a leading Australian food and beverage group (“FBG”) for the deployment of the Company’s intelligent culinary robotics systems, including its recently announced personal robotic chef - 2Fculinary AI, and the purchase order from this FBG. The AU$4.2 million agr
+STMicroelectronics stock is upgraded to a "Buy." Learn more about STM's data center & robotics growth, AWS partnership, and easing inventories.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Regional STEM competition brings nearly 40 robotics teams to Appleton East this weekend](https://fox11online.com/good-day-wi/regional-stem-competition-brings-nearly-40-robotics-teams-to-appleton-east-this-weekend)**
-
-APPLETON (WLUK) -- See robots in action at a STEM event at Appleton East High School this weekend.Almost 40 high school robotics teams from across the region ar
-
-WLUK • 2d ago
-
----
-
-**[West Michigan robotics company appoints new tech officer amid expansion](https://www.mlive.com/news/grand-rapids/2026/03/west-michigan-robotics-company-appoints-new-tech-officer-amid-expansion.html)**
-
-MLive.com • 39m ago
+Seeking Alpha • 31m ago
 
 ---
 
@@ -192,33 +190,33 @@ BBC • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[Racing to Find the Best Robots at Nvidia GTC](https://www.youtube.com/watch?v=mFr7XfTY5bY)**
-
-The robots at Nvidia GTC were showcasing strength, dexterity and the ability to work together on the same task. You can find the ...
-
-📺 CNET
-
-👁️ 14K • 👍 424 • 💬 25 • ⏱️ 5:50 • 2d ago
-
----
-
 **[China’s New AI Robots Just Broke The Human Skill Barrier](https://www.youtube.com/watch?v=QDRzgF-8-50)**
 
 This week in robotics got kind of ridiculous. South Korea showed off a humanoid that can run, jump, play soccer, and moonwalk, ...
 
 📺 AI Revolution
 
-👁️ 113K • 👍 2K • 💬 115 • ⏱️ 14:31 • 1d ago
+👁️ 120K • 👍 2K • 💬 116 • ⏱️ 14:31 • 1d ago
 
 ---
 
-**[Gecko Robotics Inks $71 Million Deal With US Navy](https://www.youtube.com/watch?v=82_585LieQY)**
+**[Racing to Find the Best Robots at Nvidia GTC](https://www.youtube.com/watch?v=mFr7XfTY5bY)**
 
-Gecko Robotics announced a $71 million partnership with the US Navy, deploying its AI-powered robots to assess the condition ...
+The robots at Nvidia GTC were showcasing strength, dexterity and the ability to work together on the same task. You can find the ...
 
-📺 Bloomberg Technology
+📺 CNET
 
-👁️ 5K • 👍 150 • 💬 4 • ⏱️ 4:39 • 6d ago
+👁️ 15K • 👍 430 • 💬 25 • ⏱️ 5:50 • 2d ago
+
+---
+
+**[China&#39;s humanoid robots move toward practical use](https://www.youtube.com/watch?v=-g7H28HvZQM)**
+
+Robots are becoming ubiquitous in China, whether for industrial manufacturing, to man a store counter, or direct traffic. According ...
+
+📺 ShanghaiEye魔都眼
+
+👁️ 6K • 👍 148 • 💬 39 • ⏱️ 1:29 • 9h ago
 
 ---
 
@@ -238,7 +236,7 @@ COGLET KICKSTARTER LAUNCH: ...
 
 📺 RAI Institute
 
-👁️ 25K • 👍 2K • 💬 119 • ⏱️ 1:34 • 1d ago
+👁️ 30K • 👍 2K • 💬 148 • ⏱️ 1:34 • 1d ago
 
 ---
 
@@ -248,17 +246,17 @@ Subscribe To My Newsletter - https://aigrid.beehiiv.com/subscribe Get your Free 
 
 📺 TheAIGRID
 
-👁️ 13K • 👍 253 • 💬 45 • ⏱️ 10:30 • 5d ago
+👁️ 14K • 👍 253 • 💬 45 • ⏱️ 10:30 • 5d ago
 
 ---
 
-**[Inside the Startup That Powers Humanoid Robots](https://www.youtube.com/watch?v=3xJzmy2gOgQ)**
+**[The Most Human-Like Robots of 2026 Are Finally Here — And It Changes Everything](https://www.youtube.com/watch?v=BtE4otcAfVc)**
 
-Do you want to see a humanoid AI lab from the inside? I do – join me and let's visit Flexion: Europe's leading lab building the AI ...
+The most advanced humanoid robots of 2026 just dropped — and you are NOT ready for what they can do. This year changes ...
 
-📺 Andreas Klinger @ PROTOTYPE
+📺 The AI Nexus
 
-👁️ 13K • 👍 530 • 💬 39 • ⏱️ 18:52 • 4d ago
+👁️ 3K • 👍 127 • 💬 11 • ⏱️ 16:29 • 1d ago
 
 ---
 
@@ -268,27 +266,27 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 310K • 👍 4K • 💬 2K • ⏱️ 2:07 • 5d ago
+👁️ 311K • 👍 4K • 💬 2K • ⏱️ 2:07 • 5d ago
 
 ---
 
-**[UMV&#39;s Latest Tricks: Kip Jump, Flip, and an Ultra Smooth Landing](https://www.youtube.com/watch?v=pcZSNNWXviA)**
+**[Inside the Startup That Powers Humanoid Robots](https://www.youtube.com/watch?v=3xJzmy2gOgQ)**
 
-It was great to see our name amongst the other “AI Native” companies during the NVIDIA #GTC keynote. NVIDIA Isaac™ Lab ...
+Do you want to see a humanoid AI lab from the inside? I do – join me and let's visit Flexion: Europe's leading lab building the AI ...
 
-📺 RAI Institute
+📺 Andreas Klinger @ PROTOTYPE
 
-👁️ 21K • 👍 1K • 💬 45 • ⏱️ 1:06 • 5d ago
+👁️ 14K • 👍 534 • 💬 57 • ⏱️ 18:52 • 4d ago
 
 ---
 
-**[Unique Motion Chaining | 197E Ethereus | Robot Rundown](https://www.youtube.com/watch?v=2hLXM46Pk64)**
+**[How I Built The World&#39;s Smallest Quadruped Robot Dog](https://www.youtube.com/watch?v=nmmopQ1EEs0)**
 
-Unique Motion Chaining | 197E Ethereus | Robot Rundown 197E Ethereus shows off their mid-goal de-score, front stage ...
+Sesame Micro is a tangent project to the Sesame Robot Project, an open-source mini quadruped robot. This video is an insight ...
 
-📺 FUN Robotics Network
+📺 Dorian Todd
 
-👁️ 4K • 👍 101 • 💬 7 • ⏱️ 2:42 • 19h ago
+👁️ 45K • 👍 2K • 💬 150 • ⏱️ 11:03 • 5d ago
 
 ---
 
