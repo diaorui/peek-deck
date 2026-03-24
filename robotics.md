@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-24T22:00:42.908754+00:00'
+updated: '2026-03-24T22:58:19.361138+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 24, 2026 at 22:00 UTC  
+**Last Updated:** March 24, 2026 at 22:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/2036127368088080867 On Youtube: Kyber Labs - Wet Lab Demo: https://www.youtube.com/watch?v=iM7WjQYlFvM Kyber Labs Demos: https://kyberlabs.ai/demos
 
-12h ago
+13h ago
 
 ---
 
@@ -44,7 +44,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/203612736808808086
 
 From Marc Benioff on 𝕏: https://x.com/Benioff/status/2036252519308075219
 
-18h ago
+19h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Marc Benioff on 𝕏: https://x.com/Benioff/status/2036252519308075219
 
 KOU-III is a two-legged robot from Shandong University that combines walking with drone-like rotors for extra balance and power. Inspired by how ostriches use their wings while running, the rotors help it jump higher, land softly, and stay stable on tough terrain.
 
-5h ago
+6h ago
 
 ---
 
@@ -60,7 +60,7 @@ KOU-III is a two-legged robot from Shandong University that combines walking wit
 
 I have this lidar from one of my robo vacuum cleaner DEEBOT Y1 PRO. I want to use this lidar for my project. I want to connect it to rpi zero 2w can someone explain me how to identify the connections as I have already searched the web and not getting any proper results.
 
-6h ago
+7h ago
 
 ---
 
@@ -70,19 +70,19 @@ I have this lidar from one of my robo vacuum cleaner DEEBOT Y1 PRO. I want to us
 
 ---
 
-**[Do StepperOnline Harmonic Reducers come with adapter plates ?](https://www.reddit.com/r/robotics/comments/1s2h88t/do_stepperonline_harmonic_reducers_come_with/)**
-
-Hey everyone, i’m working on integrating a StepperOnline HHT-25-50-I-D14 harmonic drive reducer (50:1) with a NEMA 34 stepper motor, and I had a quick question before moving fIorward. Does anyone know if this reducer comes with any mounting accessories? Specifically: Motor mounting flange / adapter plate (for NEMA 34?) Shaft coupling or connection parts . Or is it just the standalone reducer? From what I can see, it looks like a shaft-input type, so I’m assuming I’ll need to design a custom adapter plate, but I’d like to confirm before ordering. If anyone has used this exact model or a similar one, I’d really appreciate your feedback 🙏 Thanks!
-
-6h ago
-
----
-
 **[How can i control the angle of this arm with a simple microcontroller like a raspber](https://www.reddit.com/r/robotics/comments/1s2dxkk/how_can_i_control_the_angle_of_this_arm_with_a/)**
 
 I have a 6DOF toy robot arm and i want to be able to control the joints with a microcontroller. How can i do this since it uses a dc motor with and can only move forwards and backwards so far
 
-8h ago
+9h ago
+
+---
+
+**[Do StepperOnline Harmonic Reducers come with adapter plates ?](https://www.reddit.com/r/robotics/comments/1s2h88t/do_stepperonline_harmonic_reducers_come_with/)**
+
+Hey everyone, i’m working on integrating a StepperOnline HHT-25-50-I-D14 harmonic drive reducer (50:1) with a NEMA 34 stepper motor, and I had a quick question before moving fIorward. Does anyone know if this reducer comes with any mounting accessories? Specifically: Motor mounting flange / adapter plate (for NEMA 34?) Shaft coupling or connection parts . Or is it just the standalone reducer? From what I can see, it looks like a shaft-input type, so I’m assuming I’ll need to design a custom adapter plate, but I’d like to confirm before ordering. If anyone has used this exact model or a similar one, I’d really appreciate your feedback 🙏 Thanks!
+
+7h ago
 
 ---
 
@@ -92,19 +92,19 @@ I have a 6DOF toy robot arm and i want to be able to control the joints with a m
 
 ---
 
+**[Dynamic modeling](https://www.reddit.com/r/robotics/comments/1s2sded/dynamic_modeling/)**
+
+I’m new to robotics and i need to do a dynamic modeling for a robotic arm at school and i don’t know how to get started. Dm if you wanna help
+
+40m ago
+
+---
+
 **[Make Kobuki robot w Roomba](https://www.reddit.com/r/robotics/comments/1s2p57j/make_kobuki_robot_w_roomba/)**
 
 Hi! I was given a Roomba, and I'd like to install ROS 2 on it, along with a LiDAR sensor, camera, etc. I'm just starting to study robotics and don't have much experience yet. I'd like to know if there's any documentation or information available on how to modify the Roomba's drivers and set up ROS 2. Thank you very much! This is the model I have
 
-1h ago
-
----
-
-**[Acrobot still learns new tricks](https://www.reddit.com/r/robotics/comments/1s1fces/acrobot_still_learns_new_tricks/)**
-
-I built this robot to perform with acrobats in new and interesting ways. See Acrobot.nl for more info, and as always I'm happy to answer questions! This video was taken in Krystallpalast in Germany where the Acrobot plays for the next 3 months.
-
-1d ago
+2h ago
 
 ---
 
@@ -112,11 +112,33 @@ I built this robot to perform with acrobats in new and interesting ways. See Acr
 
 ## Google News: "robotics"
 
+**[Amazon acquires 'approachable' humanoid maker Fauna Robotics](https://www.cnbc.com/2026/03/24/amazon-humanoid-maker-fauna-robotics-sprout.html)**
+
+Fauna's first product, called Sprout, is a $50,000 bipedal robot that's 3 feet, 6 inches tall and designed to be "approachable and human-friendly."
+
+CNBC • 1h ago
+
+---
+
+**[Amazon Acquires Fauna Robotics, Entering Consumer Humanoid Market](https://www.bloomberg.com/news/articles/2026-03-24/amazon-acquires-fauna-robotics-entering-consumer-humanoid-market)**
+
+Bloomberg.com • 3h ago
+
+---
+
+**[Amazon enters humanoid race with Fauna Robotics deal (AMZN:NASDAQ)](https://seekingalpha.com/news/4568179-amazon-enters-humanoid-race-with-fauna-robotics-deal)**
+
+Amazon (AMZN) acquires Fauna Robotics to build Sprout, a $50K humanoid home robot powered by NVIDIA Jetson Orin.
+
+Seeking Alpha • 2h ago
+
+---
+
 **[The most innovative robotics and engineering companies of 2026](https://www.fastcompany.com/91497289/robotics-engineering-most-innovative-companies-2026)**
 
 Why Boston Dynamics, Terabase Energy, Lucid Bots, and Symbotic are among Fast Company's Most Innovative Companies in robotics and engineering for 2026.
 
-Fast Company • 10h ago
+Fast Company • 11h ago
 
 ---
 
@@ -124,21 +146,15 @@ Fast Company • 10h ago
 
 Google's DeepMind division has been partnering with more robotics companies in recent months.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
-**[Amazon Acquires Fauna Robotics, Entering Consumer Humanoid Market](https://www.bloomberg.com/news/articles/2026-03-24/amazon-acquires-fauna-robotics-entering-consumer-humanoid-market)**
+**[Amazon buys Fauna Robotics, maker of the Sprout humanoid robot](https://ca.finance.yahoo.com/news/amazon-buys-fauna-robotics-maker-213530698.html)**
 
-Bloomberg.com • 2h ago
+NEW YORK (AP) — Amazon has acquired Fauna Robotics, just under two months after the startup introduced a humanoid robot called Sprout designed to be a friendly addition to social spaces like homes and schools.
 
----
-
-**[NVIDIA Ties Grid Aware AI Factories To Edge Robotics And Cloud](https://ca.finance.yahoo.com/news/nvidia-ties-grid-aware-ai-170843473.html)**
-
-NVIDIA (NasdaqGS:NVDA) is launching new Vera Rubin powered AI factories that connect directly with US utilities to support grid aware AI infrastructure. The company is introducing a Vera Rubin DSX reference architecture developed with major energy utilities and infrastructure partners. NVIDIA is expanding into physical AI through robotics, security, and simulation partnerships, including work with Asylon. The company is also rolling out open models and composable AI cloud blueprints with...
-
-Yahoo! Finance Canada • 4h ago
+Yahoo! Finance Canada • 1h ago
 
 ---
 
@@ -148,35 +164,19 @@ Tech Xplore • 1d ago
 
 ---
 
-**[Regional STEM competition brings nearly 40 robotics teams to Appleton East this weekend](https://fox11online.com/good-day-wi/regional-stem-competition-brings-nearly-40-robotics-teams-to-appleton-east-this-weekend)**
-
-APPLETON (WLUK) -- See robots in action at a STEM event at Appleton East High School this weekend.Almost 40 high school robotics teams from across the region ar
-
-WLUK • 2d ago
-
----
-
 **[AI compressed billions of years of evolution into seconds to create 'Lego-like robots' that can recover even when they lose limbs](https://www.livescience.com/technology/robotics/ai-compressed-billions-of-years-of-evolution-into-seconds-to-create-lego-like-robots-that-can-recover-even-when-they-lose-limbs)**
 
 Modular robots are easily expandable, know when they're upside down or stuck, and can march forward across all kinds of terrain.
 
-Live Science • 6h ago
+Live Science • 7h ago
 
 ---
 
-**[Self-powered triboelectric wireless sensor for robotic arm control via enhanced electromagnetic induction](https://www.nature.com/articles/s44460-026-00039-x)**
+**[OpenAI is scrapping the Sora app to chase bigger AI goals](https://www.businessinsider.com/openai-discontinues-sora-video-app-amid-robotics-shift-compute-limitations-2026-3)**
 
-A fully self-powered wireless arm interface converts human motion into electrical signals and wireless commands using a compact triboelectric nanogenerator, enabling battery-free, real-time robotic arm control for industrial and human–machine applications.
+A spokesperson for OpenAI said the discontinuation of Sora comes as the company plans to focus on robotics rather than generative imagery.
 
-Nature • 1d ago
-
----
-
-**[Hyundai-backed humanoid robots to transform welding in shipyards](https://interestingengineering.com/ai-robotics/hyundai-persona-humanoid-robot-welding-shipyard)**
-
-Hyundai partners Persona AI to develop humanoid welding robots, advancing automation across global shipyard operations
-
-Interesting Engineering • 3h ago
+Business Insider • 1h ago
 
 ---
 
@@ -184,7 +184,7 @@ Interesting Engineering • 3h ago
 
 A Serve Robotics robot crashed through a Chicago bus shelter.
 
-404 Media • 4h ago
+404 Media • 5h ago
 
 ---
 
@@ -278,7 +278,7 @@ This Robot Moves Like A Real Scorpion. The Scorpion Hexapod Robot is a bio-inspi
 
 📺 EcoZora
 
-👁️ 6K • 👍 45 • 💬 5 • ⏱️ 0:07 • 12h ago
+👁️ 6K • 👍 45 • 💬 5 • ⏱️ 0:07 • 13h ago
 
 ---
 

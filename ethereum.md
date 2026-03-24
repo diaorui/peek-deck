@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-24T22:00:42.905855+00:00'
+updated: '2026-03-24T22:58:19.357933+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 24, 2026 at 22:00 UTC  
+**Last Updated:** March 24, 2026 at 22:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** -2.5%  
-**30d:** +15.8%  
-**90d:** -26.0%  
-**1y:** +4.1%  
+**24h:** -0.2%  
+**7d:** -2.7%  
+**30d:** +15.7%  
+**90d:** -26.1%  
+**1y:** +4.0%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
+
+---
+
+**[Thoughts on earning yield with ETH ?](https://www.reddit.com/r/ethereum/comments/1s2skh3/thoughts_on_earning_yield_with_eth/)**
+
+Been holding ETH for a while and looking into options for earning yield. Running a node seems cool but managing hardware and extra tokens feels like a lot. Liquid options are easier but then you're holding derivative tokens and trusting the protocol. Curious what path people are actually taking these days. Is the extra effort worth it or do you just hold?
+
+32m ago
 
 ---
 
@@ -80,13 +88,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Trying to get a realistic picture of where rollup deployment is right now, not the hype version. I've been reading through documentation for most of the major platforms and the gap between what they promise and what teams actually experience seems pretty significant based on forum posts and Discord convos. Specifically curious about a few things. How much does your framework choice actually constrain you after deployment? If you start on OP Stack and realize Arbitrum Orbit would've been better for your use case, how painful is that migration realistically? Also the maintenance burden question. Every platform promises "one-click deployment" but what does post-launch actually look like for the infra team? Are you constantly babysitting the thing or does it run without much intervention? Asking because I keep seeing projects underestimate this and then burn significant engineering time on infra that should be going to product. What's been everyone's experience?
 
-7h ago
+8h ago
 
 ---
 
 **[EthStaker: Ethereum Staking Survey | Any type of staker or even non-stakers are called to respond](https://www.reddit.com/r/ethereum/comments/1s2419r/ethstaker_ethereum_staking_survey_any_type_of/)**
 
-🔗 [ethstaker.org](https://ethstaker.org/forms/staking-landscape-survey-2026) • 17h ago
+🔗 [ethstaker.org](https://ethstaker.org/forms/staking-landscape-survey-2026) • 18h ago
 
 ---
 
@@ -138,19 +146,15 @@ US SEC securities laws application to crypto, fast confirmation rule, EF mandate
 
 ---
 
-**[x402s now has state channels](https://www.reddit.com/r/ethereum/comments/1s0yi3u/x402s_now_has_state_channels/)**
-
-🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2035835465354322316) • 2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[How L1 and L2s can build the strongest possible Ethereum](https://blog.ethereum.org/2026/03/23/l1-l2-ethereum)**
+**[Ethereum news (ETH): Tensions rise across Ethereum as scaling, security and AI Priorities intensify](https://www.coindesk.com/tech/2026/03/22/ethereum-faces-make-or-break-moment-in-high-stakes-balancing-act-as-scaling-quantum-and-ai-pressures-mount)**
 
-Ethereum Foundation Blog • 1d ago
+While upgrades have improved efficiency and lowered costs, the ecosystem faces deeper structural questions around fragmentation, security, and purpose, even as it continues prioritizing base-layer scaling.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -162,22 +166,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[The SEC Just Classified 16 Cryptocurrencies as Digital Commodities. 3 of Them Could Double From Here.](https://www.fool.com/investing/2026/03/23/the-sec-just-classified-16-cryptocurrencies-as-dig/)**
-
-Regulators just created the conditions which will help the entire crypto market to flourish.
-
-The Motley Fool • 1d ago
-
----
-
-**[Ethereum news (ETH): Tensions rise across Ethereum as scaling, security and AI Priorities intensify](https://www.coindesk.com/tech/2026/03/22/ethereum-faces-make-or-break-moment-in-high-stakes-balancing-act-as-scaling-quantum-and-ai-pressures-mount)**
-
-While upgrades have improved efficiency and lowered costs, the ecosystem faces deeper structural questions around fragmentation, security, and purpose, even as it continues prioritizing base-layer scaling.
-
-CoinDesk • 2d ago
-
----
-
 **['Ethereum is in the final stages of mini-crypto winter,' Tom Lee says as Bitmine adds another 65,341 ETH](https://www.theblock.co/post/394662/ethereum-is-in-the-final-stages-of-mini-crypto-winter-tom-lee-says-as-bitmine-adds-another-65341-eth)**
 
 Bitmine's total crypto and cash holdings currently stand at $11 billion, and the company owns around 3.9% of Ethereum's circulating supply.
@@ -186,11 +174,27 @@ The Block • 1d ago
 
 ---
 
+**[Ethereum news: Bitmine (BMNR) buys 65,341 ETH worth $138 million betting on crypto slump ending](https://www.coindesk.com/business/2026/03/23/tom-lee-s-bitmine-extends-buying-streak-with-usd138-million-eth-purchase-betting-on-crypto-slump-ending)**
+
+The Ethereum treasury firm led by Thomas Lee now has increased its buying pace for three consecutive weeks even as unrealized losses mount.
+
+CoinDesk • 1d ago
+
+---
+
 **[Current price of Ethereum for March 24, 2026](https://fortune.com/article/price-of-ethereum-03-24-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 9h ago
+
+---
+
+**[Stock Market Crash: The Best Cryptocurrencies to Buy Right Now](https://www.fool.com/investing/2026/03/22/stock-market-crash-best-cryptocurrencies-to-buy/)**
+
+Three cryptocurrencies look like good candidates to rebound this year.
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -214,13 +218,13 @@ markets.businessinsider.com • 1d ago
 
 Ethereum Up or Down on March 24? (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 22h ago
+Polymarket • 23h ago
 
 ---
 
 **[Ethereum ETF Outflows Deepen as iShares’ ETHA Tracks Sliding Ether Prices](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-outflows-deepen-as-ishares-etha-tracks-sliding-ether-prices)**
 
-TipRanks • 7h ago
+TipRanks • 8h ago
 
 ---
 
@@ -234,7 +238,7 @@ You're not going to want to miss this INCREDIBLE Ether, technical analysis and i
 
 📺 Crypto Jebb
 
-👁️ 1K • 👍 117 • 💬 11 • ⏱️ 18:00 • 3h ago
+👁️ 1K • 👍 117 • 💬 11 • ⏱️ 18:00 • 4h ago
 
 ---
 
@@ -244,7 +248,7 @@ This video is not for everyone. If your income is below $10000/month — close i
 
 📺 Thomas Kralow
 
-👁️ 10K • 👍 2K • 💬 37 • ⏱️ 6:06 • 9h ago
+👁️ 10K • 👍 2K • 💬 37 • ⏱️ 6:06 • 10h ago
 
 ---
 
@@ -254,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 92 • 💬 6 • ⏱️ 3:30 • 7h ago
+👁️ 1K • 👍 92 • 💬 6 • ⏱️ 3:30 • 8h ago
 
 ---
 
@@ -324,7 +328,7 @@ Werde Teil unserer Community & bring dein Trading auf das nächste Level!* Koste
 
 📺 TradingKompass
 
-👁️ 1K • 👍 317 • 💬 45 • ⏱️ 8:05 • 4h ago
+👁️ 1K • 👍 317 • 💬 45 • ⏱️ 8:05 • 5h ago
 
 ---
 
