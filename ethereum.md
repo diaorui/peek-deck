@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-24T22:58:19.357933+00:00'
+updated: '2026-03-24T23:39:24.328827+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 24, 2026 at 22:58 UTC  
+**Last Updated:** March 24, 2026 at 23:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Been holding ETH for a while and looking into options for earning yield. Running a node seems cool but managing hardware and extra tokens feels like a lot. Liquid options are easier but then you're holding derivative tokens and trusting the protocol. Curious what path people are actually taking these days. Is the extra effort worth it or do you just hold?
 
-32m ago
+1h ago
 
 ---
 
@@ -88,13 +88,13 @@ Been holding ETH for a while and looking into options for earning yield. Running
 
 Trying to get a realistic picture of where rollup deployment is right now, not the hype version. I've been reading through documentation for most of the major platforms and the gap between what they promise and what teams actually experience seems pretty significant based on forum posts and Discord convos. Specifically curious about a few things. How much does your framework choice actually constrain you after deployment? If you start on OP Stack and realize Arbitrum Orbit would've been better for your use case, how painful is that migration realistically? Also the maintenance burden question. Every platform promises "one-click deployment" but what does post-launch actually look like for the infra team? Are you constantly babysitting the thing or does it run without much intervention? Asking because I keep seeing projects underestimate this and then burn significant engineering time on infra that should be going to product. What's been everyone's experience?
 
-8h ago
+9h ago
 
 ---
 
 **[EthStaker: Ethereum Staking Survey | Any type of staker or even non-stakers are called to respond](https://www.reddit.com/r/ethereum/comments/1s2419r/ethstaker_ethereum_staking_survey_any_type_of/)**
 
-🔗 [ethstaker.org](https://ethstaker.org/forms/staking-landscape-survey-2026) • 18h ago
+🔗 [ethstaker.org](https://ethstaker.org/forms/staking-landscape-survey-2026) • 19h ago
 
 ---
 
@@ -126,7 +126,7 @@ Most conversations around ETH are about trading, staking yields, or long-term po
 
 Been using Ethereum for years and I'm happy with the roadmap, but L2s are starting to feel like their own isolated islands. Arbitrum, Base, Optimism, ZkSync , each has its own liquidity, its own bridges, its own quirks. I get that they scale the network, but moving between them still feels clunky. Sometimes I wonder if we're solving one problem (fees on mainnet) while creating another (fragmentation). Curious how others see this. Are we heading toward a unified L2 experience or is this just how it's going to be?
 
-1d ago
+2d ago
 
 ---
 
@@ -142,7 +142,7 @@ Hi, Long story short 45sec after funding my trust wallet a transfer occurred tha
 
 US SEC securities laws application to crypto, fast confirmation rule, EF mandate
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-16/) • 1d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-16/) • 2d ago
 
 ---
 
@@ -186,7 +186,7 @@ CoinDesk • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 9h ago
+Fortune • 10h ago
 
 ---
 
@@ -202,7 +202,7 @@ The Motley Fool • 2d ago
 
 Ethereum is attempting to reclaim the $2,200 level as market participants react to recent moves by US President Donald Trump in the Middle East, developments that have introduced renewed volatility across global risk assets. The reaction reflects a broader sensitivity to geopolitical uncertainty, w…
 
-TradingView • 7h ago
+TradingView • 8h ago
 
 ---
 
@@ -218,7 +218,7 @@ markets.businessinsider.com • 1d ago
 
 Ethereum Up or Down on March 24? (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 23h ago
+Polymarket • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ You're not going to want to miss this INCREDIBLE Ether, technical analysis and i
 
 📺 Crypto Jebb
 
-👁️ 1K • 👍 117 • 💬 11 • ⏱️ 18:00 • 4h ago
+👁️ 1K • 👍 117 • 💬 11 • ⏱️ 18:00 • 5h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video is not for everyone. If your income is below $10000/month — close i
 
 📺 Thomas Kralow
 
-👁️ 10K • 👍 2K • 💬 37 • ⏱️ 6:06 • 10h ago
+👁️ 10K • 👍 2K • 💬 37 • ⏱️ 6:06 • 11h ago
 
 ---
 
@@ -258,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 92 • 💬 6 • ⏱️ 3:30 • 8h ago
+👁️ 1K • 👍 92 • 💬 6 • ⏱️ 3:30 • 9h ago
 
 ---
 
@@ -278,7 +278,7 @@ Free Ethereum in 2026 — myth or real opportunity? In this video, I run a real 
 
 📺 Leo Collins
 
-👁️ 7K • 👍 481 • 💬 491 • ⏱️ 4:16 • 9h ago
+👁️ 7K • 👍 481 • 💬 491 • ⏱️ 4:16 • 10h ago
 
 ---
 
@@ -328,7 +328,7 @@ Werde Teil unserer Community & bring dein Trading auf das nächste Level!* Koste
 
 📺 TradingKompass
 
-👁️ 1K • 👍 317 • 💬 45 • ⏱️ 8:05 • 5h ago
+👁️ 1K • 👍 317 • 💬 45 • ⏱️ 8:05 • 6h ago
 
 ---
 

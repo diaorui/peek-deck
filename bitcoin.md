@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-24T22:58:19.351952+00:00'
+updated: '2026-03-24T23:39:24.322855+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 24, 2026 at 22:58 UTC  
+**Last Updated:** March 24, 2026 at 23:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 In the US over the last 55 years, the number of homes doubled from 70 million to 150 million. The money supply grew 30 times in the same period. So you have twice the homes and 30 times the cash chasing them. Housing is now 15x more expensive. Bitcoin is money that nobody can print, and can be a tool to help us afford the things that otherwise we are priced out of.
 
-6h ago
+7h ago
 
 ---
 
@@ -89,7 +89,7 @@ In the US over the last 55 years, the number of homes doubled from 70 million to
 
 In 2022 I really was glued to events in Bitcoin's huge drawdown. I do look at the price every day (okay, maybe twice a day) but this time I really have hardly been bothered. Minus 45% down is a LOT but for some reason it has not really felt like a lot. Maybe I am just so sure of its value now that I am less concerned. At bottom, Bitcoin was down by more than half from its $126k high. If my mutual funds were -45% right now I would be far more worried. Is anyone else just less worried now than in previous years?
 
-7h ago
+8h ago
 
 ---
 
@@ -103,7 +103,7 @@ In 2022 I really was glued to events in Bitcoin's huge drawdown. I do look at th
 
 **[Don't you just love and vague mysterious guys! lol](https://www.reddit.com/r/Bitcoin/comments/1s26awy/dont_you_just_love_and_vague_mysterious_guys_lol/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -111,7 +111,7 @@ In 2022 I really was glued to events in Bitcoin's huge drawdown. I do look at th
 
 Hi, my name is Elias and I've built this bitcoin-rails solution to buy, sell, send Bitcoin via common messenger apps. So now you can get a bitcoin wallet via any messenger service you want like WhatsApp, Telegram, Signal, Email etc and don't need to download an app, create a wallet, understand Bitcoin or anything like that anymore. I've just broken it down to only needing to write a text message so my parents, friends, relatives etc. can get their hands on Bitcoin as easily as technically possible. I'm a Bitcoin Maximalist by heart and I think this is finally a solution where they will buy Bitcoin and don't stumble upon all the different barriers. Please ask me anything or tell me what you would like to have implemented / answered. Is there anything stopping you from using it? Do you find it useful? I highly depend on any constructive user feedback from fellow Bitcoiners (jokes off). -Elias PS: right now it's a custodial solution but if requested / if I see the user traction I can also build a non-custodial solution as well, where I don't have constant access to the users funds (would love to have that as a user as well but takes some more programming time).
 
-8h ago
+9h ago
 
 ---
 
@@ -133,7 +133,7 @@ https://preview.redd.it/66g89vjsh1rg1.jpg?width=4080&format=pjpg&auto=webp&s=2f2
 
 At this moment buying bitcoin regularly is the only thing I’m truly confident in long term. The Stock market even during these extreme red days are still trading at high valuations and are not too far off from their all time highs. Additional contributions at this point seem like feeding a fire. Bitcoin goes up. Bitcoin goes down. Bitcoin from where it stands right now will always be there. Stack sats and ignore the noise.
 
-8h ago
+9h ago
 
 ---
 
@@ -141,7 +141,7 @@ At this moment buying bitcoin regularly is the only thing I’m truly confident 
 
 Today I noticed a discrepancy involving my crypto wallets. When I opened my Trust Wallet, it showed a total balance of 0.4 BTC, even though I had approximately 0.5 BTC in my Coinbase Wallet. Shortly after, I received a notification from Trust Wallet indicating that 0.05 BTC had been transferred, which I did not authorize or initiate. Concerned, I proceeded to transfer my funds from Coinbase Wallet to my Wealthsimple account in three transactions: • 0.002 BTC • 0.2 BTC • 0.3 BTC This totaled 0.5 BTC, which was successfully received by Wealthsimple. However, when I checked Trust Wallet again, it showed three outgoing transactions totaling 0.4 BTC: • 0.05 BTC • 0.12 BTC • 0.22 BTC These transactions match the 0.4 BTC balance that was initially displayed in Trust Wallet. To verify, I checked both wallet addresses using a blockchain explorer. The results showed: • Trust Wallet address: total of 0.4 BTC sent • Wealthsimple address: total of 0.5 BTC received This creates a discrepancy between what Trust Wallet reports and what was actually received in Wealthsimple.
 
-16m ago
+57m ago
 
 ---
 
@@ -159,7 +159,7 @@ Matt Corallo, Gregory Sanders, and Sebastian van Staa joined Optech to discuss N
 
 **[Bitcoin’s Institutional Shift Drives Bernstein’s $150,000 Call](https://www.bloomberg.com/news/articles/2026-03-24/bitcoin-s-institutional-shift-drives-bernstein-s-150-000-call)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 1d ago
 
 It's a decision that could have a huge impact on your overall returns.
 
-The Motley Fool • 10m ago
+The Motley Fool • 51m ago
 
 ---
 
@@ -199,7 +199,7 @@ The Motley Fool • 10m ago
 
 U.S. Senator Cynthia Lummis has been officially confirmed as a speaker at Bitcoin 2026. A Republican senator from Wyoming, Lummis currently serves as Chair of
 
-Bitcoin Magazine • 1h ago
+Bitcoin Magazine • 2h ago
 
 ---
 
@@ -213,7 +213,7 @@ Yahoo Finance • 1d ago
 
 **[GameStop Sales Fall Amid Continued Retail Troubles, Bitcoin Value Decline](https://www.wsj.com/business/earnings/gamestop-sales-fall-amid-continued-retail-troubles-bitcoin-value-decline-24a5c8de?gaa_at=eafs&gaa_n=AWEtsqfIEqK4JNSwnafMdS9pUZxEpDptaz1_p45RhDyOIHoWs9gvgi2ITJyG&gaa_ts=69c31a74&gaa_sig=P3FoUFWbn8zFPbSYxVae4bVSpsHM3olVdH0PwENz-dkHE2v5VGQMRAgZPR55Muzj4-Rp1BhL7zvwTCwaJXNnHg%3D%3D)**
 
-WSJ • 2h ago
+WSJ • 3h ago
 
 ---
 
@@ -227,7 +227,7 @@ Yahoo Finance • 1d ago
 
 **[Strategy Eyes $78 Bil Bitcoin War Chest. Be Skeptical.](https://www.investors.com/news/mstr-stock-strategy-58-billion-bitcoin-war-chest/)**
 
-Investor's Business Daily • 10h ago
+Investor's Business Daily • 11h ago
 
 ---
 
@@ -277,7 +277,7 @@ Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 3
 
 Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes were hidden in lost fishing rod case
 
-⬆️ 1 • 💬 2 • 4m ago • [The Irish Times](https://www.irishtimes.com/crime-law/2026/03/24/gardai-seize-bitcoin-valued-at-30m-in-cab-operation-supported-by-europol/)
+⬆️ 1 • 💬 2 • 45m ago • [The Irish Times](https://www.irishtimes.com/crime-law/2026/03/24/gardai-seize-bitcoin-valued-at-30m-in-cab-operation-supported-by-europol/)
 
 ---
 
@@ -291,7 +291,7 @@ An event loop for asyncio written in Rust. Contribute to RustedBytes/rsloop deve
 
 **[Show HN: Castor – a secure execution layer for LLM agents](https://news.ycombinator.com/item?id=47504101)**
 
-⬆️ 1 • 💬 0 • 7h ago
+⬆️ 1 • 💬 0 • 8h ago
 
 ---
 
@@ -321,7 +321,7 @@ Stop Guessing - Ask Clash (beta) ▻ https://www.askclash.ai/ Make FREE Crypto P
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 919 • 💬 60 • ⏱️ 39:00 • 8h ago
+👁️ 16K • 👍 919 • 💬 60 • ⏱️ 39:00 • 9h ago
 
 ---
 
@@ -331,7 +331,7 @@ Gold just entered a bear market during geopolitical chaos while Bitcoin held ste
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 789 • 💬 54 • ⏱️ 13:19 • 9h ago
+👁️ 8K • 👍 789 • 💬 54 • ⏱️ 13:19 • 10h ago
 
 ---
 
@@ -341,7 +341,7 @@ Everyone thinks they understand Bitcoin... but they don't. Because if Bitcoin is
 
 📺 Casual Finance
 
-👁️ 14K • 👍 2K • 💬 410 • ⏱️ 9:55 • 7h ago
+👁️ 14K • 👍 2K • 💬 410 • ⏱️ 9:55 • 8h ago
 
 ---
 
@@ -351,7 +351,7 @@ Saylor buying a ton more, Trump chaos & two probable outcomes Into The Cryptover
 
 📺 Aaron Bennett
 
-👁️ 5K • 👍 328 • 💬 61 • ⏱️ 7:50 • 13h ago
+👁️ 5K • 👍 328 • 💬 61 • ⏱️ 7:50 • 14h ago
 
 ---
 
@@ -361,7 +361,7 @@ Nobody knows how screwed everyone actually is right now. Not Iran. Not the Gulf.
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 189 • ⏱️ 15:05 • 23h ago
+👁️ 21K • 👍 2K • 💬 189 • ⏱️ 15:05 • 1d ago
 
 ---
 
@@ -381,7 +381,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 10K • 👍 1K • 💬 63 • ⏱️ 24:02 • 3h ago
+👁️ 10K • 👍 1K • 💬 63 • ⏱️ 24:02 • 4h ago
 
 ---
 

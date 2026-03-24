@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-24T22:58:19.361138+00:00'
+updated: '2026-03-24T23:39:24.332007+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 24, 2026 at 22:58 UTC  
+**Last Updated:** March 24, 2026 at 23:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/203612736808808086
 
 From Marc Benioff on 𝕏: https://x.com/Benioff/status/2036252519308075219
 
-19h ago
+20h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Marc Benioff on 𝕏: https://x.com/Benioff/status/2036252519308075219
 
 KOU-III is a two-legged robot from Shandong University that combines walking with drone-like rotors for extra balance and power. Inspired by how ostriches use their wings while running, the rotors help it jump higher, land softly, and stay stable on tough terrain.
 
-6h ago
+7h ago
 
 ---
 
@@ -74,7 +74,7 @@ I have this lidar from one of my robo vacuum cleaner DEEBOT Y1 PRO. I want to us
 
 I have a 6DOF toy robot arm and i want to be able to control the joints with a microcontroller. How can i do this since it uses a dc motor with and can only move forwards and backwards so far
 
-9h ago
+10h ago
 
 ---
 
@@ -82,7 +82,7 @@ I have a 6DOF toy robot arm and i want to be able to control the joints with a m
 
 Hey everyone, i’m working on integrating a StepperOnline HHT-25-50-I-D14 harmonic drive reducer (50:1) with a NEMA 34 stepper motor, and I had a quick question before moving fIorward. Does anyone know if this reducer comes with any mounting accessories? Specifically: Motor mounting flange / adapter plate (for NEMA 34?) Shaft coupling or connection parts . Or is it just the standalone reducer? From what I can see, it looks like a shaft-input type, so I’m assuming I’ll need to design a custom adapter plate, but I’d like to confirm before ordering. If anyone has used this exact model or a similar one, I’d really appreciate your feedback 🙏 Thanks!
 
-7h ago
+8h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hey everyone, i’m working on integrating a StepperOnline HHT-25-50-I-D14 harmo
 
 I’m new to robotics and i need to do a dynamic modeling for a robotic arm at school and i don’t know how to get started. Dm if you wanna help
 
-40m ago
+1h ago
 
 ---
 
@@ -104,7 +104,7 @@ I’m new to robotics and i need to do a dynamic modeling for a robotic arm at s
 
 Hi! I was given a Roomba, and I'd like to install ROS 2 on it, along with a LiDAR sensor, camera, etc. I'm just starting to study robotics and don't have much experience yet. I'd like to know if there's any documentation or information available on how to modify the Roomba's drivers and set up ROS 2. Thank you very much! This is the model I have
 
-2h ago
+3h ago
 
 ---
 
@@ -116,13 +116,13 @@ Hi! I was given a Roomba, and I'd like to install ROS 2 on it, along with a LiDA
 
 Fauna's first product, called Sprout, is a $50,000 bipedal robot that's 3 feet, 6 inches tall and designed to be "approachable and human-friendly."
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
 **[Amazon Acquires Fauna Robotics, Entering Consumer Humanoid Market](https://www.bloomberg.com/news/articles/2026-03-24/amazon-acquires-fauna-robotics-entering-consumer-humanoid-market)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -130,7 +130,7 @@ Bloomberg.com • 3h ago
 
 Amazon (AMZN) acquires Fauna Robotics to build Sprout, a $50K humanoid home robot powered by NVIDIA Jetson Orin.
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 3h ago
 
 ---
 
@@ -138,7 +138,7 @@ Seeking Alpha • 2h ago
 
 Why Boston Dynamics, Terabase Energy, Lucid Bots, and Symbotic are among Fast Company's Most Innovative Companies in robotics and engineering for 2026.
 
-Fast Company • 11h ago
+Fast Company • 12h ago
 
 ---
 
@@ -154,7 +154,7 @@ CNBC • 3h ago
 
 NEW YORK (AP) — Amazon has acquired Fauna Robotics, just under two months after the startup introduced a humanoid robot called Sprout designed to be a friendly addition to social spaces like homes and schools.
 
-Yahoo! Finance Canada • 1h ago
+Yahoo! Finance Canada • 2h ago
 
 ---
 
@@ -168,7 +168,7 @@ Tech Xplore • 1d ago
 
 Modular robots are easily expandable, know when they're upside down or stuck, and can march forward across all kinds of terrain.
 
-Live Science • 7h ago
+Live Science • 8h ago
 
 ---
 
@@ -176,7 +176,7 @@ Live Science • 7h ago
 
 A spokesperson for OpenAI said the discontinuation of Sora comes as the company plans to focus on robotics rather than generative imagery.
 
-Business Insider • 1h ago
+Business Insider • 2h ago
 
 ---
 
@@ -184,7 +184,7 @@ Business Insider • 1h ago
 
 A Serve Robotics robot crashed through a Chicago bus shelter.
 
-404 Media • 5h ago
+404 Media • 6h ago
 
 ---
 
@@ -278,7 +278,7 @@ This Robot Moves Like A Real Scorpion. The Scorpion Hexapod Robot is a bio-inspi
 
 📺 EcoZora
 
-👁️ 6K • 👍 45 • 💬 5 • ⏱️ 0:07 • 13h ago
+👁️ 6K • 👍 45 • 💬 5 • ⏱️ 0:07 • 14h ago
 
 ---
 

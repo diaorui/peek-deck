@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-24T22:58:19.343542+00:00'
+updated: '2026-03-24T23:39:24.314396+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - news
 - repositories
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 24, 2026 at 22:58 UTC  
+**Last Updated:** March 24, 2026 at 23:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Something interesting happened this month. March 11: Perplexity announced Personal Computer. An always-on Mac Mini running their AI agent 24/7, connected to your local files and apps. Cloud AI does the reasoning, local machine does the access. March 16: Meta launched Manus "My Computer." Same idea. Their agent on your Mac or Windows PC. Reads, edits local files. Launches apps. Multi-step tasks. $20/month. March 23: Anthropic shipped computer use and Dispatch for Claude. Screen control, phone-to-desktop task handoff, 50+ service connectors, scheduled tasks. Three separate companies. Same architecture. Same two weeks. I've been running a version of this pattern for months (custom AI agent on a Mac Mini, iMessage as the interface, background cron jobs, persistent memory across sessions). The convergence on this exact setup tells me the direction is validated. The shared insight all three arrived at: agents need a home. Not a chat window. A machine with file access, app control, phone reachability, and background execution. The gap that remains across all three: persistent memory. Research from January 2026 confirmed what I found building my own system. Fixed context windows limit agent coherence over time. All three products are still mostly session-based. That's the piece that turns a task executor into something that actually feels like a coworker. We went from "will AI agents work on personal computers?" to "which one do you pick?" in about two weeks. Full comparison with hands-on testing: https://thoughts.jock.pl/p/claude-cowork-dispatch-computer-use-honest-agent-review-2026
 
-9h ago
+10h ago
 
 ---
 
@@ -49,7 +49,7 @@ Something interesting happened this month. March 11: Perplexity announced Person
 
 So ive been going back and forth between these three for actual work (not just asking it to write fizzbuzz) and wanted to share what I found because most comparisons online are surface level garbage. Quick background: I do fullstack work, mostly React/Next.js with some Python backend stuff. I gave all three the same tasks over about 3 months of real daily use. Claude is the best for coding and its not even close imo. I had it refactor a 400 line React component into smaller pieces and it actually understood the architecture. kept all my tests passing too. the 200k context window is huge because you can just paste your entire file plus tests and it gets it. one time it even caught a race condition I didnt know was there lol ChatGPT is solid but more of a generalist. Its great for quick questions, debugging, and when you need to explain something to a non technical person. I use it more for brainstorming and writing docs than actual code. the image generation and voice mode are nice bonuses that claude doesnt have Gemini honestly disappointed me the most. it kept struggling with larger context and the code wouldnt compile on first try way too often. Maybe its gotten better since I last used it heavily but I switched away from it for coding pretty quick. its good for google workspace stuff tho if your already in that ecosystem My setup now: Claude for serious coding work, ChatGPT for everything else (research, writing, brainstorming), and honestly Perplexity for when I need to look something up because its way better than both of them for research The thing nobody talks about: all three have gotten noticeably better even in the last few months. like Claude was already good but the latest updates made it scary good at understanding codebases. if you tried one of these 6 months ago and didnt like it, worth trying again happy to answer questions about specific use cases. ive tried them for python, typescript, sql, and some go
 
-2h ago
+3h ago
 
 ---
 
@@ -57,7 +57,7 @@ So ive been going back and forth between these three for actual work (not just a
 
 That was quick.
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt) • 49m ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt) • 1h ago
 
 ---
 
@@ -73,7 +73,7 @@ I’ve been experimenting with something while working with AI on technical prob
 
 Hello everyone hope you're having a nice day I'm just ugh I'm so tired and confused and frustrated. I'm desperately trying to map/figure the future out of like societies/nation states across the world (because without getting too political watching the news at least in the UK is clearly a complete waste of time for trying to figure out actual important issues in the world that affect you) and it's just so exhausting We appear to have a few rough ideas of what will happen in the next 5 to 10 years (from what I see roughly these massive multi national companies will not do like massive layoffs anytime within 5 years or so but then after 5 years it's anyone's guess. Roughly speaking because even the top academics apparently and the LLMs can't figure this out just yet just not enough data) in 10 years time there will be massive layoffs of traditional corporate roles like idk secretaries or middle managers. However the crucial part/question appears to be how many more roles will be created as a results of LLM progression. Roles we can't even fathom yet. Or maybe knock on effects - apparently in the UK in the 1800s when steam trains became much more efficient the "understanding" was that coal production would massively decline, as there would be less demand for coal, but the sudden amount of potential coal available ended up actually increasing coal production or something (something to do with factories being able to massively scale operations and what not maybe ships as well) Without getting into it I'm getting so sick and tired of politics. In the UK I have no idea what's going on but there are potholes everywhere apparently within 5 years one fifth of UK roads will become "structurally unsafe/unusable" and half within 15, and that's barely 5% or something of the issues we face in other areas. In Singapore (for all it's ails) they're apparently using AI to actually spot/predict pot holes and subsequently deal with them before they become an issue. I'm also getting very anxious about other countries actually effectively investing and implementing AI into their infrastructure as we speak (no drama with them power to them just anxious about the UK falling behind) because we seem to put all of our resources into God knows what? Clearly not investing in public infrastructure You know the philosophical stuff the social contract the idea that you idk "try hard in school go to university then get a job buy a house and life is glorious" it's clearly completely gone but there is a massive amount of people in society who refuse to accept this or don't care and just live the old way anyway which causes heaps of problems. The traditional notion of career..? Teachers etc what will teaching look like? Tutoring? I don't know. I'm not being entirely negative here it's just stressing me out that I can't figure it out because it's impossible. I'm having to accept that I can't reasonably predict beyond a few months/years roughly and it's upsetting me. Alright well there we go /rant That said I'm sure there will be a massive amount of positive uses of AI in the world such as the above mentioned example with Singapore, I'm thinking hospital triage times, spotting cancers months before doctors could, helping children who don't respond particularly well to traditional classroom environments with learning. And national parks and what not will largely be just as beautiful in 5 years time as they are now. Just stressful not knowing I suppose Any thoughts anyone? Take care
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ Tech giant’s tools include ‘Second Brain’ and an internal messaging board 
 
 Arm announced their first silicon product in history with today's AGI CPU
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Arm-AGI-CPU) • 2h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Arm-AGI-CPU) • 3h ago
 
 ---
 
@@ -97,7 +97,7 @@ Arm announced their first silicon product in history with today's AGI CPU
 
 Every autonomous AI agent has three problems: it contradicts itself, it can't decide, and it says things confidently that aren't true. Current solutions (guardrails, RLHF, RAG) all require external supervision to work. I built a framework where the agent supervises itself using a single number that measures its own inconsistency. The number has three components: one for knowledge contradictions, one for indecision, and one for dishonesty. The agent minimizes this number through the same gradient descent used to train neural networks, except there's no training data and no human feedback. The agent improves because internal consistency is the only mathematically stable state. The two obvious failure modes (deleting all knowledge to avoid contradictions, or becoming a confident liar) are solved by evidence anchoring: the agent's beliefs must be periodically verified against external reality. Unverified beliefs carry an uncertainty penalty. High confidence on unverified claims is penalized. The only way to reach zero inconsistency is to actually be right, decisive, and honest. I proved this as a theorem, not a heuristic. Under the evidence anchoring mechanism, the only stable fixed points of the objective function are states where the agent is internally consistent, externally grounded, and expressing appropriate confidence. The system runs on my own hardware (desktop with multiple GPUs and a Surface Pro laptop) with local LLMs. No cloud dependency. The interesting part: the same three-term objective function that fixes AI hallucination also appears in theoretical physics, where it recovers thermodynamics, quantum measurement, and general relativity as its three fixed-point conditions. Whether that's a coincidence or something deeper is an open question. Paper: https://doi.org/10.5281/zenodo.19114787
 
-6h ago
+7h ago
 
 ---
 
@@ -133,7 +133,7 @@ The Hollywood Reporter • 2h ago
 
 OpenAI said Tuesday that it will discontinue the company's Sora app, which let users create AI-generated videos.
 
-CBS News • 2h ago
+CBS News • 3h ago
 
 ---
 
@@ -141,7 +141,7 @@ CBS News • 2h ago
 
 App that allowed people to make and share AI videos was popular but received criticism for racist and violent content
 
-The Guardian • 22m ago
+The Guardian • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Guardian • 2h ago
 
 **[Block CFO Says Deep Job Cuts From AI Are an Inevitability for Companies](https://www.wsj.com/cfo-journal/block-cfo-says-deep-job-cuts-from-ai-are-an-inevitability-for-companies-672a7dc3?gaa_at=eafs&gaa_n=AWEtsqc3G8_KPXdvsEeiy3Fvo4vQANCBY04sjUP1B3TQ9OjYccF7qkFBRtbr&gaa_ts=69c31a76&gaa_sig=ZUCBFw_Eczsp8QQTfEabS7urfa2dSvL-O4wCutDeXuJzUX2HpF_ACKumpPYK44BsyrQI4Z1OSBlQ5humZ4AaBA%3D%3D)**
 
-WSJ • 7m ago
+WSJ • 48m ago
 
 ---
 
@@ -179,7 +179,7 @@ WSJ • 7m ago
 
 Anthropic and its rivals are trying to ramp up capabilities of AI agents after OpenClaw went viral earlier this year.
 
-CNBC • 12h ago
+CNBC • 13h ago
 
 ---
 
@@ -195,7 +195,7 @@ Arm Newsroom • 6h ago
 
 Arm Holdings announced a new artificial intelligence data center chip on Tuesday which it said will add billions of dollars of revenue ‌and represent a significant shift in the company's strategy.  So-called agentic AI has jump-started demand for the central processing units (CPUs) produced by the likes of Intel and Advanced Micro Devices.  Arm shares gained 1% in early afternoon trading as the stock has advanced 25% this year.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -207,7 +207,7 @@ Yahoo Finance • 5h ago
 
 Is anybody else bored of talking about AI?
 
-⬆️ 369 • 💬 284 • 2h ago • [Unfinished Side Projects](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
+⬆️ 369 • 💬 284 • 3h ago • [Unfinished Side Projects](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
 
 ---
 
@@ -215,7 +215,7 @@ Is anybody else bored of talking about AI?
 
 Practical AI R&D
 
-⬆️ 367 • 💬 332 • 8h ago • [Answer.AI](https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html)
+⬆️ 367 • 💬 332 • 9h ago • [Answer.AI](https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html)
 
 ---
 
@@ -231,7 +231,7 @@ Learn how I built an ai receptionist for my brother's mechanic shop
 
 For two centuries, the credential system gave intelligence a route to heritable capital. Artificial intelligence is closing that route. This essay builds the argument from first principles - with probability theory, interactive simulations, and a prediction specific enough to be falsifiable - and puts a number on the window that remains.
 
-⬆️ 254 • 💬 375 • 8h ago • [Daniel Homola](https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/)
+⬆️ 254 • 💬 375 • 9h ago • [Daniel Homola](https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/)
 
 ---
 
@@ -259,7 +259,7 @@ cq explores a Stack Overflow for agents, a shared commons where agents can query
 
 Hi! If you like this piece and want to support my independent reporting and analysis, why not subscribe to my premium newsletter? It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5000 to 18,000 words, including
 
-⬆️ 146 • 💬 116 • 5h ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/)
+⬆️ 146 • 💬 116 • 6h ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/)
 
 ---
 
@@ -267,7 +267,7 @@ Hi! If you like this piece and want to support my independent reporting and anal
 
 The studio giant will no longer move forward with its OpenAI investment, as the AI company exits the video generation business.
 
-⬆️ 141 • 💬 50 • 1h ago • [The Hollywood Reporter](https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/)
+⬆️ 141 • 💬 50 • 2h ago • [The Hollywood Reporter](https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/)
 
 ---
 
@@ -287,7 +287,7 @@ In this vlog, I make a bold case that AI is destroying the economic moat of the 
 
 📺 Asian Dad Energy
 
-👁️ 20K • 👍 1K • 💬 489 • ⏱️ 9:25 • 9h ago
+👁️ 20K • 👍 1K • 💬 489 • ⏱️ 9:25 • 10h ago
 
 ---
 
@@ -327,7 +327,7 @@ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 
 
 📺 Two Minute Papers
 
-👁️ 31K • 👍 3K • 💬 214 • ⏱️ 9:47 • 7h ago
+👁️ 31K • 👍 3K • 💬 214 • ⏱️ 9:47 • 8h ago
 
 ---
 
@@ -405,7 +405,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 164,200 • ❤️ 1,168 • 20h ago
+⬇️ 164,200 • ❤️ 1,168 • 21h ago
 
 ---
 
@@ -661,7 +661,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 13.2k • 🔱 1.7k • 6h ago
+⭐ 13.2k • 🔱 1.7k • 7h ago
 
 ---
 
@@ -671,7 +671,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python` `ai-agents` `ai-orchestration` `autonomous-agents` `claude` `dashboard`
 
-⭐ 12.5k • 🔱 1.2k • 6h ago
+⭐ 12.5k • 🔱 1.2k • 7h ago
 
 ---
 
@@ -681,7 +681,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 11.1k • 🔱 578 • 4h ago
+⭐ 11.1k • 🔱 578 • 5h ago
 
 ---
 
@@ -711,7 +711,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 6.1k • 🔱 493 • 6h ago
+⭐ 6.1k • 🔱 493 • 7h ago
 
 ---
 
@@ -731,7 +731,7 @@ OpenShell is the safe, private runtime for autonomous AI agents.
 
 `Rust`
 
-⭐ 3.6k • 🔱 356 • 1h ago
+⭐ 3.6k • 🔱 356 • 2h ago
 
 ---
 
