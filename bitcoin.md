@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-24T09:57:23.727779+00:00'
+updated: '2026-03-24T10:56:10.199269+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - news
-- videos
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 24, 2026 at 09:57 UTC  
+**Last Updated:** March 24, 2026 at 10:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Don't you just love and vague mysterious guys! lol](https://www.reddit.com/r/Bitcoin/comments/1s26awy/dont_you_just_love_and_vague_mysterious_guys_lol/)**
 
-3h ago
+4h ago
 
 ---
 
 **[They don't know what's coming](https://www.reddit.com/r/Bitcoin/comments/1s1oscn/they_dont_know_whats_coming/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 March 23, 2026
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-1031-btc-and-now-holds-762099-btc_03-23-2026) • 17h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-1031-btc-and-now-holds-762099-btc_03-23-2026) • 18h ago
 
 ---
 
@@ -101,7 +101,7 @@ March 23, 2026
 
 I am new to crypto, what would have caused this?
 
-22h ago
+23h ago
 
 ---
 
@@ -109,7 +109,7 @@ I am new to crypto, what would have caused this?
 
 I have about 2k to start with. I just need to know how this works? Do I let it sit or do I need to learn how to trade? Help 😭 I’m so scared to buy these courses from these “traders”..
 
-3h ago
+4h ago
 
 ---
 
@@ -117,7 +117,7 @@ I have about 2k to start with. I just need to know how this works? Do I let it s
 
 TLDR: If you invested $10,000 in Bitcoin back on March 23, 2020, your investment today would be in six figures, at just over $100,000. By comparison, if you invested the same amount in the S&P 500 via index funds, then you'd be up to around $29,000. While both investments would have been highly profitable for you, there's no question that going with Bitcoin has proven to be much better.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/heres-much-bitcoin-surged-past-182000674.html?guccou) • 11h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/heres-much-bitcoin-surged-past-182000674.html?guccou) • 12h ago
 
 ---
 
@@ -125,7 +125,7 @@ TLDR: If you invested $10,000 in Bitcoin back on March 23, 2020, your investment
 
 BTC is for the world, all it takes is to believe and act.
 
-🔗 [X (formerly Twitter)](https://x.com/0xpicklecati/status/1917528745906430274?s=46) • 4h ago
+🔗 [X (formerly Twitter)](https://x.com/0xpicklecati/status/1917528745906430274?s=46) • 5h ago
 
 ---
 
@@ -133,7 +133,7 @@ BTC is for the world, all it takes is to believe and act.
 
 Bitcoin sees rare two-block reorg at height 941880 as Foundry USA outpaces AntPool and ViaBTC in a mining race.
 
-🔗 [Cryip.co](https://cryip.co/bitcoin-reorg-rare-two-block-reorganization-at-height-941880/) • 1h ago
+🔗 [Cryip.co](https://cryip.co/bitcoin-reorg-rare-two-block-reorganization-at-height-941880/) • 2h ago
 
 ---
 
@@ -141,7 +141,7 @@ Bitcoin sees rare two-block reorg at height 941880 as Foundry USA outpaces AntPo
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
 
 ---
 
@@ -149,7 +149,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I was scrolling through the top posts of all time on this subreddit, and something really caught my attention. Two of the biggest posts ever are basically milestones: Bitcoin hitting $10,000 (around 8 years ago) Bitcoin hitting $100,000 (about a year ago) It made me pause for a second… because at those moments, both probably felt insane. Like a “we finally made it” kind of milestone. Now I’m wondering: When do you guys think we’ll see the same kind of post for $1,000,000? Also curious, what do you think would need to happen for that to become reality? Institutional adoption, inflation, global financial shifts…? It’s crazy how each milestone once felt impossible… until it wasn’t.
 
-20h ago
+21h ago
 
 ---
 
@@ -161,7 +161,7 @@ I was scrolling through the top posts of all time on this subreddit, and somethi
 
 Crypto recovered on Tuesday morning even as Monday's relief rally unraveled across traditional markets, with oil jumping 4% on reports that Saudi Arabia and the UAE are moving to join the conflict.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -169,13 +169,13 @@ CoinDesk • 4h ago
 
 The original cryptocurrency advanced more than 5% to trade as high as $71,794 in New York before paring some of the gain.
 
-Fortune • 12h ago
+Fortune • 13h ago
 
 ---
 
 **[Bitcoin Price Spikes As Trump Delays Strikes Against Iran](https://www.investors.com/news/bitcoin-price-trump-iran-delay-cryptocurrency-stocks-oil-price-futures-gold/)**
 
-Investor's Business Daily • 12h ago
+Investor's Business Daily • 13h ago
 
 ---
 
@@ -183,13 +183,13 @@ Investor's Business Daily • 12h ago
 
 The price move came after Donald Trump touted "productive conversations" regarding a cessation of hostilities in the Middle East.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
 **[Bitcoin Price, Ethereum, XRP Rise. Calling Crypto Price Moves is Getting Harder.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqeiQSk1a0LuWTquZGGOR8EqoJTKJpYnVSgVqrm4F7DDiMLXMjCFnBfp&gaa_ts=69c2636d&gaa_sig=3VzYiF1seLtJRXGrc4Jq1P_JdO1CatSpPe0fBvQYHa15cLldfXEz2XFgNSMft-42QItDstpQ87ZSFMng0gL6VQ%3D%3D)**
 
-Barron's • 46m ago
+Barron's • 1h ago
 
 ---
 
@@ -197,7 +197,7 @@ Barron's • 46m ago
 
 Geoffrey Kendrick of Standard Chartered thinks Bitcoin is poised for an epic rally.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -209,7 +209,7 @@ Bloomberg.com • 1d ago
 
 **[Saylor’s Strategy Returns to Common Stock for Latest Bitcoin Buy](https://www.bloomberg.com/news/articles/2026-03-23/saylor-s-strategy-returns-to-common-stock-for-latest-bitcoin-buy)**
 
-Bloomberg.com • 15h ago
+Bloomberg.com • 16h ago
 
 ---
 
@@ -217,13 +217,13 @@ Bloomberg.com • 15h ago
 
 Led by Executive Chairman Michael Saylor, Strategy acquired 1,031 bitcoin, bringing holdings to 762,099 coins.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
 **[Strategy Eyes $78 Bil Bitcoin War Chest. Be Skeptical.](https://www.investors.com/news/mstr-stock-strategy-58-billion-bitcoin-war-chest/)**
 
-Investor's Business Daily • 12h ago
+Investor's Business Daily • 13h ago
 
 ---
 
@@ -287,7 +287,7 @@ Nobody knows how screwed everyone actually is right now. Not Iran. Not the Gulf.
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 224 • ⏱️ 15:05 • 10h ago
+👁️ 14K • 👍 1K • 💬 224 • ⏱️ 15:05 • 11h ago
 
 ---
 
@@ -307,7 +307,7 @@ million in crypto liquidations. In four hours. Today. Bitcoin whipsawed from $67
 
 📺 Money Talks
 
-👁️ 2K • 👍 81 • 💬 10 • ⏱️ 13:33 • 12h ago
+👁️ 2K • 👍 81 • 💬 10 • ⏱️ 13:33 • 13h ago
 
 ---
 
@@ -317,7 +317,7 @@ In today's video, we're breaking down why this specific "Crash Signal" has a hig
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 434 • 💬 13 • ⏱️ 1:10:53 • 18h ago
+👁️ 7K • 👍 434 • 💬 13 • ⏱️ 1:10:53 • 19h ago
 
 ---
 
@@ -347,7 +347,7 @@ The situation just got 10 times worse for bitcoin, ethereum and the rest of cryp
 
 📺 Thomas Kralow
 
-👁️ 14K • 👍 2K • 💬 35 • ⏱️ 11:52 • 22h ago
+👁️ 14K • 👍 2K • 💬 35 • ⏱️ 11:52 • 23h ago
 
 ---
 
@@ -367,7 +367,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 4K • 👍 374 • 💬 84 • ⏱️ 7:57 • 5h ago
+👁️ 4K • 👍 374 • 💬 84 • ⏱️ 7:57 • 6h ago
 
 ---
 
@@ -377,7 +377,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 14K • 👍 806 • 💬 137 • ⏱️ 13:54 • 16h ago
+👁️ 14K • 👍 806 • 💬 137 • ⏱️ 13:54 • 17h ago
 
 ---
 

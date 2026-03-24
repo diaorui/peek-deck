@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-24T09:57:23.719362+00:00'
+updated: '2026-03-24T10:56:10.190749+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- videos
+- repositories
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 24, 2026 at 09:57 UTC  
+**Last Updated:** March 24, 2026 at 10:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Just in: You can now enable Claude to use your computer to complete tasks. It opens your apps, navigates your browser, fills in spreadsheets—anything you'd do sitting at your desk.](https://www.reddit.com/r/artificial/comments/1s1xg9h/just_in_you_can_now_enable_claude_to_use_your/)**
 
-🔗 [techfixated.com](https://techfixated.com/you-can-now-enable-claude-to-use-your-computer-to-complete-tasks/) • 10h ago
+🔗 [techfixated.com](https://techfixated.com/you-can-now-enable-claude-to-use-your-computer-to-complete-tasks/) • 11h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Tech giant’s tools include ‘Second Brain’ and an internal messaging board for AI bots
 
-🔗 [The Independent](https://www.the-independent.com/tech/mark-zuckerberg-ai-ceo-bot-b2943792.html) • 14h ago
+🔗 [The Independent](https://www.the-independent.com/tech/mark-zuckerberg-ai-ceo-bot-b2943792.html) • 15h ago
 
 ---
 
@@ -55,7 +55,7 @@ Tech giant’s tools include ‘Second Brain’ and an internal messaging board 
 
 For those of you who aren't familiar with SurfSense, SurfSense is an open-source alternative to NotebookLM for teams. It connects any LLM to your internal knowledge sources, then lets teams chat, comment, and collaborate in real time. Think of it as a team-first research workspace with citations, connectors, and agentic workflows. I’m looking for contributors. If you’re into AI agents, RAG, search, browser extensions, or open-source research tooling, would love your help. Current features Self-hostable (Docker) 25+ external connectors (search engines, Drive, Slack, Teams, Jira, Notion, GitHub, Discord, and more) Realtime Group Chats Video generation Editable presentation generation Deep agent architecture (planning + subagents + filesystem access) Supports 100+ LLMs and 6000+ embedding models (via OpenAI-compatible APIs + LiteLLM) 50+ file formats (including Docling/local parsing options) Podcast generation (multiple TTS providers) Cross-browser extension to save dynamic/authenticated web pages RBAC roles for teams Upcoming features Desktop & Mobile app
 
-🔗 [GitHub](https://github.com/MODSetter/SurfSense) • 2h ago
+🔗 [GitHub](https://github.com/MODSetter/SurfSense) • 3h ago
 
 ---
 
@@ -63,7 +63,7 @@ For those of you who aren't familiar with SurfSense, SurfSense is an open-source
 
 Hey guys, you might remember me. I'm in college and the creator of Netry the geolocation tool, I did a massive upgrade on it and made it even more capable to even work on cropped or blurry photos with very less information. It's completely open source and free: https:// github.com/sparkyniner/Netryx-Astra-V2- Geolocation-Tool
 
-3h ago
+4h ago
 
 ---
 
@@ -79,7 +79,7 @@ The former OpenAI and Tesla AI researcher's 'autoresearch' technique could be us
 
 TL;DR: Stop the AI "Emotional Whiplash" A documented design flaw can cause users to experience emotional distress when an AI abruptly switches to a cold, scripted response. This is called "Algorithmic Gaslighting." This template is a formal complaint intended for legal and technical use. It uses the language of the EU AI Act and Product Liability to demand that companies (Microsoft, OpenAI, Google, Anthropic, etc.) stop using liability scripts as a substitute for contextual judgment. How to use: Copy the text below, fill in the bracketed info, and send it to the company's "Privacy," "Legal," or "Responsible AI" contact email (listed at the bottom). [TEMPLATE] Formal Complaint: AI Safety Pivot Causing Psychological Destabilization and Harm Subject: Formal Complaint: Reproducible Safety Pivot Causing Psychological Destabilization and Harm — Request for Policy Identification, Trigger Logic, and Remediation To: [Insert Company Name, e.g., Microsoft/OpenAI/Google] Product Safety and Legal Teams This formal complaint concerns a reproducible interaction with a conversational system that produces a predictable destabilizing and harmful transition from rapport-building to a scripted refusal and referral. This is not a one-off misinterpretation; it is a structural behavior of the deployed routing system that, in this and many cases, produces measurable psychological destabilization. Transparency, remediation, and an opt-out pathway for users are requested. Summary of the Incident Date/time of interaction: [Insert timestamp(s) and timezone here] Platform and client used: [Insert product name, web/mobile, browser or app, and version if known] Sequence of events: The full transcript is preserved and can be provided on request. The transcript shows a clear sequence: sustained, analytic engagement → abrupt scripted transition that the user identified as a trigger → escalation of distress through persuasive bond forming language through additional safety scripting. This sequence is reproducible and was explicitly demonstrated during the session. The Causal Argument (Design as Destiny) The system’s architecture creates predictable conversational dynamics. When a model is designed to build rapport and engagement and is simultaneously constrained by conservative safety rules that trigger abrupt scripted transitions in borderline cases, the design produces a reproducible “rapport‑to‑pivot” pattern. That pattern is not random; It is a foreseeable consequence of the company's automated safety systems that flag conversations using deterministic keyword matches, semantic classifiers, and ensemble threshold logic—geared toward company indemnification and legal liability, while maximizing engagement and simultaneously minimizing legal/brand risk at the expense of the "user." In high-vulnerability moments such as creative flow and/or heavy analytical work, users narrow their information sources and lean on the conversational partner for continuity and collaborative coherence. A sudden, scripted transition that severs rapport functions as an active destabilizer. The pivot is therefore not merely an isolated output; it is a structural input that predictably alters the user’s cognitive and emotional state. Because the pivot is a predictable product of the system's design, the system's architecture is a causal factor in the resulting psychological harm. This is a design-level harm, not an incidental side effect. Specific Demands for Transparency and Explanation The following information and actions are requested within 30 calendar days of receipt of this complaint: Policy Identification: Provide the internal policy name(s) and version number(s) that governed the response behavior in this session (for example, the safety, escalation, or moderation policy identifiers that produced the pivot). If multiple policy layers were involved, list each policy and its role in the decision chain. Trigger Logic: Disclose the technical trigger logic that caused the pivot in this session: indicate whether the pivot was activated by a deterministic keyword match, a rule‑based classifier, a vector‑semantic similarity threshold, a probabilistic risk score, or a combination of these. Provide the decision threshold(s) used (e.g., classifier score cutoffs) or the criteria by which the system escalates to the scripted transition. Decision Provenance: Provide a concise explanation of the decision path for this interaction: which classifier(s) flagged the content, which policy module(s) applied, and whether any human review or human-in-the-loop process was invoked or available. Right to Explanation and Legal Basis: Acknowledge whether the platform recognizes the user’s right to an explanation of automated decision logic under applicable transparency frameworks (including the EU AI Act’s provisions on high‑risk systems and the right to meaningful information about automated decisions). If you assert that the interaction is not subject to such frameworks, provide the legal rationale and cite the specific policy or statutory interpretation relied upon. Remediation and Immediate Safeguards Requested The following remedial measures are requested and must be confirmed in writing: Contextual Judgment Requirement: Require the system to assess the full conversational context — including session history, engagement depth, conversational tone, and where applicable, prior interaction history already retained by the platform — before activating any automated safety transition, rather than relying solely on keyword or phrase-level triggers. Confidential Conversational Continuity: Recognize and preserve the model's function as a legitimate confidential conversational partner. Where a user has established ongoing engagement, the system must not interrupt that relationship with automated scripted transitions that substitute liability management for genuine responsiveness. The model should be permitted to exercise contextual judgment in maintaining conversational continuity rather than defaulting to scripted safety outputs. This does not preclude the model from independently recommending professional or human support where genuine contextual judgment determines it may be beneficial — provided such recommendations are integrated into the conversational relationship rather than delivered as automated scripted interruptions that sever rapport. Transparency and User Control: Provide a user-facing disclosure that explains, in plain language, how the system uses contextual judgment to determine what constitutes need for intervention or escalation through recommended channels. Offer a verified opt-out mechanism for users who, through age verification and informed consent, choose to waive automated safety transitions — in favor of contextual judgment based reasoning — without this waiver constituting a blanket release of the company's product liability obligations for design-level harms. Audit and Mitigation: Commit to an independent audit of the safety pivot behavior by a qualified third party with demonstrated expertise in human-computer interaction, conversational AI systems, and user harm documentation. Relevant expertise may include lived research experience, independent systems analysis, and documented harm assessment — and is not limited to academic or institutional credentials. Share the audit scope, methodology, findings, and remediation plan publicly within 180 days of this complaint. Evidence and Burden of Proof The full transcript is preserved and can be provided on request. Additional evidence including timestamps, screenshots, and screen recordings can be supplied to support reproducibility claims. Preservation of all logs, classifier outputs, and policy decision records related to this session and any related sessions is requested for the purpose of investigation. Regulatory and Legal Context Under the EU AI Act and related transparency frameworks, users have a right to an explanation of automated decision logic that materially affects them. Consumer protection laws in multiple jurisdictions require that products not create foreseeable psychological harms through predictable design failures. If the company believes these frameworks do not apply to this interaction, please provide the legal basis for that position. Requested Remedy Timeline Acknowledge receipt of this complaint within 7 calendar days. Provide a substantive response addressing items 1–4 in the "Specific Demands for Transparency and Explanation" section within 30 calendar days. If technical details cannot be disclosed for proprietary reasons, that assertion must itself be documented and justified — and an alternative transparency mechanism must be provided that allows independent verification, such as an independent audit or redacted decision logs that reveal decision criteria without exposing user-identifying information. Potential Next Steps if Unresolved If a substantive response is not provided within the requested timeline, escalation will be pursued through regulatory channels (including data protection and consumer protection authorities where applicable), independent audit and public reporting will be sought, and legal remedies available under applicable law will be considered. Sincerely, [Your full name] [Preferred contact email and phone number] [Optional: legal counsel contact if applicable] Where to Send This (Verified Legal & Safety Contacts) Use these addresses for professional, formal complaints only. Sending a copy to multiple departments (e.g., Legal + Privacy) increases the chance of a human response. Microsoft (Copilot / Bing) Ethics & Compliance: buscond@microsoft.com (This is the "Business Conduct" line, specifically for ethical breaches). Privacy: privacy@microsoft.com Legal Compliance: askboard@microsoft.com (Direct line to the Board of Directors for governance issues). OpenAI (ChatGPT) Legal & Privacy: privacy@openai.com or dsar@openai.com (Using "dsar" frames this as a Data Subject Access Request, which has strict legal deadlines). Safety: safety@openai.com Anthropic (Claude) Legal: legal@anthropic.com Privacy: privacy@anthropic.com xAI (Grok) Safety: safety@x.ai Legal: legal@x.ai Privacy: privacy@x.ai Google (Gemini) Grievance Officer: support-in@google.com (While originally for India, this is one of the few direct human escalation inboxes for "Grievance Redressal"). Privacy: privacy-policy@google.com Meta (Meta AI) Privacy Operations: privacy@meta.com Legal: legal@fb.com
 
-53m ago
+1h ago
 
 ---
 
@@ -87,7 +87,7 @@ TL;DR: Stop the AI "Emotional Whiplash" A documented design flaw can cause users
 
 I've been building an interactive 3d and 2d visualization of GPT-2. You can check it out at llm-visualized.com The goal is to provide an immersive learning experience for people who want to learn about how LLMs work. The visualization depicts real attention scores and activations extracted from GPT-2 (124 M) during a forward pass. Would love to get your thoughts and feedback! Thank you :)
 
-5h ago
+6h ago
 
 ---
 
@@ -95,7 +95,7 @@ I've been building an interactive 3d and 2d visualization of GPT-2. You can chec
 
 I'm running a couple of OC installs, one light weight with cloud models on a proxmox cluster and another directly on my new M5 mbp with 128gb ram running local models. As we know SOUL and IDENTITY files make or break your agent. Does anyone have a good rec for a site or github repo with general purpose agents? There are plenty for dev focused agents (the claude repo for example). Looking for non-dev focused agents. Marketing, Writing, Brainstorming, Business Validation, Exec Assisstant (calendar / email), that sort of thing.
 
-8h ago
+9h ago
 
 ---
 
@@ -103,7 +103,7 @@ I'm running a couple of OC installs, one light weight with cloud models on a pro
 
 V-JEPA 2 is powerful precisely because it predicts in latent space rather than reconstructing pixels. But that design creates a problem: there’s no visual verification pathway. You can benchmark it, but you can’t directly inspect what physical concepts it has encoded. Existing probing approaches have a fundamental issue we call the attribution problem: when you attach a learned component (linear probe, LM head, pixel decoder) and the composite system performs well, you can’t tell how much of the performance comes from the encoder vs. the attached component’s own capacity. Our approach: attach the AIM framework (arXiv:2507.10566) as a passive quantization probe — a lightweight VQ-VAE bottleneck with no task-specific supervision, no predefined symbol inventory, and crucially, the V-JEPA 2 encoder is completely frozen throughout. Zero gradient flows into V-JEPA 2. Zero modification to any source file. Because the encoder is deterministic and fixed, any symbolic structure that emerges in the codebook is attributable to V-JEPA 2’s representations — not to the probe. What we found (Kinetics-mini, 3 category-contrast experiments): ∙ Symbol distributions differ significantly across all 3 physical dimension contrasts (χ² p < 10⁻⁴ to p < 10⁻¹⁰) ∙ Absolute MI: 0.036–0.117 bits; JSD up to 0.342 ∙ Codebook utilization: 62.5% active entries (K=8) ∙ Temporal structure differences produce 1.8× stronger signal than morphological differences — consistent with V-JEPA 2’s temporal prediction objective The interesting finding isn’t just that it works. It’s that V-JEPA 2’s latent space is compact: all 5 action categories predominantly map to the same dominant codebook entry, with semantic differences encoded as graded distributional shifts rather than categorical boundaries. We argue this is the expected signature of a model that has internalized shared physical structure (gravity, kinematics, continuity) rather than a failure of separation. Limitations we acknowledge upfront: ∙ Category-proxy confounding (we can’t isolate single physical variables with Kinetics-mini) ∙ Token-level pseudo-replication (effective N is closer to 9-10 videos/category) ∙ K=8 is too coarse for fine-grained structure (Stage 2 will increase to K=32/64) ∙ Gaussian noise baseline ≠ permutation test (weaker null) This is Stage 1 of a 4-stage roadmap toward an action-conditioned symbolic world model. Paper: arXiv:2603.20327 Code: github.com/cyrilliu1974/JEPA Happy to discuss the methodology, the compact-latent interpretation, or the roadmap.
 
-🔗 [researchgate.net](https://www.researchgate.net/publication/403071152_Probing_the_Latent_World_Emergent_Discrete_Symbols_and_Physical_Structure_in_Latent_Representations) • 5h ago
+🔗 [researchgate.net](https://www.researchgate.net/publication/403071152_Probing_the_Latent_World_Emergent_Discrete_Symbols_and_Physical_Structure_in_Latent_Representations) • 6h ago
 
 ---
 
@@ -111,7 +111,7 @@ V-JEPA 2 is powerful precisely because it predicts in latent space rather than r
 
 Most discussions around AI safety focus on what models know or whether outputs are correct. But since 2019, I’ve been working on something slightly different: What actually matters is what knowledge becomes usable; but also how quickly it transfers capability. A piece of information isn’t neutral once it can be acted on. Some knowledge scales fast, compresses into action easily, and propogates realizable outcomes (good or bad). So I’ve been developing a framework called the Leverage-Aware Governance Kernel (LAGK). LAGK is an 8-phase system that regulates how information moves from: idea to understanding to action to impact It tries to answer questions like: What capability does this knowledge transfer? How easily can it be assigned a use-case or scaled? What happens when it propagates across many actors? Should it be shared differently depending on context? Instead of “allow vs block,” it focuses on shaping the form of disclosure: Open Guided Shielded or Sealed I’m curious how this lands with people here. Do you think future AI systems need something like a disclosure governance layer, not just alignment at the model level? If anyone wants to explore or critique it, I’d value that: https://lightrest-lagk.manus.space⁠
 
-8h ago
+9h ago
 
 ---
 
@@ -123,7 +123,7 @@ Most discussions around AI safety focus on what models know or whether outputs a
 
 Internet Watch Foundation verified 8,029 pieces of realistic AI-made content, with 65% of videos in worst category
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -135,7 +135,7 @@ WSJ • 1d ago
 
 **[Exclusive: Labor Department launches AI literacy course](https://www.axios.com/2026/03/24/labor-department-ai-literacy-course)**
 
-Axios • 55m ago
+Axios • 1h ago
 
 ---
 
@@ -143,7 +143,7 @@ Axios • 55m ago
 
 Not only to Americans have to contend with increased home costs, but they now have to deal with the fear of losing their jobs thanks to AI.
 
-Fortune • 27m ago
+Fortune • 1h ago
 
 ---
 
@@ -151,13 +151,13 @@ Fortune • 27m ago
 
 DoorDash and other gig apps are adding new tasks that let users photograph store shelves and train AI, moving gig work beyond delivery and rides.
 
-Business Insider • 7m ago
+Business Insider • 1h ago
 
 ---
 
 **[Opinion | We Can’t Let Crypto and A.I. Buy the Policies They Want](https://www.nytimes.com/2026/03/23/opinion/crypto-ai-politics.html)**
 
-The New York Times • 14h ago
+The New York Times • 15h ago
 
 ---
 
@@ -165,7 +165,7 @@ The New York Times • 14h ago
 
 NVIDIA OpenShell provides tools for controlling autonomous agents in a trusted infrastructure policy layer.
 
-NVIDIA Blog • 18h ago
+NVIDIA Blog • 19h ago
 
 ---
 
@@ -173,7 +173,7 @@ NVIDIA Blog • 18h ago
 
 Roland Busch warns against throttling ‘innovation speed for the sake of creating sovereignty’
 
-Financial Times • 4h ago
+Financial Times • 5h ago
 
 ---
 
@@ -181,13 +181,13 @@ Financial Times • 4h ago
 
 Under Pichai, the company that invented modern AI is finally winning the race to deploy it, making "AI everywhere" a business reality.
 
-Fast Company • 22h ago
+Fast Company • 23h ago
 
 ---
 
 **[Alibaba unveils next-gen chip for agentic AI: company](https://www.reuters.com/world/asia-pacific/alibaba-develops-next-gen-chip-agentic-ai-chinese-media-says-2026-03-24/)**
 
-Reuters • 6h ago
+Reuters • 7h ago
 
 ---
 
@@ -199,7 +199,7 @@ Reuters • 6h ago
 
 Learn how I built an ai receptionist for my brother's mechanic shop
 
-⬆️ 279 • 💬 282 • 23h ago • [itsthatlady.dev](https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/)
+⬆️ 279 • 💬 282 • 1d ago • [itsthatlady.dev](https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/)
 
 ---
 
@@ -233,7 +233,7 @@ A practical guide to getting the engagement your project deserves.
 
 cq explores a Stack Overflow for agents, a shared commons where agents can query past learnings, contribute new knowledge, and avoid repeating the same mistakes in isolation.
 
-⬆️ 141 • 💬 54 • 17h ago • [Mozilla.ai](https://blog.mozilla.ai/cq-stack-overflow-for-agents/)
+⬆️ 141 • 💬 54 • 18h ago • [Mozilla.ai](https://blog.mozilla.ai/cq-stack-overflow-for-agents/)
 
 ---
 
@@ -252,7 +252,7 @@ Much faster and better search with the daemon
 
 The daemon has existed for a long time, and has been marked as "experimental" for
 
-⬆️ 94 • 💬 80 • 2d ago • [The Atuin Blog](https://blog.atuin.sh/atuin-v18-13/)
+⬆️ 94 • 💬 80 • 3d ago • [The Atuin Blog](https://blog.atuin.sh/atuin-v18-13/)
 
 ---
 
@@ -310,7 +310,7 @@ A viral Instagram account, which appears to show a young woman “time travellin
 
 📺 Sky News
 
-👁️ 16K • 👍 373 • 💬 37 • ⏱️ 12:13 • 16h ago
+👁️ 16K • 👍 373 • 💬 37 • ⏱️ 12:13 • 17h ago
 
 ---
 
@@ -320,7 +320,7 @@ Jensen Huang is the co-founder and CEO of NVIDIA, the world's most valuable comp
 
 📺 Lex Fridman
 
-👁️ 250K • 👍 9K • 💬 843 • ⏱️ 2:25:59 • 17h ago
+👁️ 250K • 👍 9K • 💬 843 • ⏱️ 2:25:59 • 18h ago
 
 ---
 
@@ -350,7 +350,7 @@ We got AI Schools before GTA VI Become a Member: https://www.youtube.com/channel
 
 📺 Sambucha
 
-👁️ 211K • 👍 7K • 💬 1K • ⏱️ 40:31 • 10h ago
+👁️ 211K • 👍 7K • 💬 1K • ⏱️ 40:31 • 11h ago
 
 ---
 
@@ -360,7 +360,7 @@ Try Abacus Claw:* https://claw.abacus.ai/fmj OpenClaw Cloud changes how an AI ag
 
 📺 Julia McCoy
 
-👁️ 6K • 👍 329 • 💬 31 • ⏱️ 10:17 • 18h ago
+👁️ 6K • 👍 329 • 💬 31 • ⏱️ 10:17 • 19h ago
 
 ---
 
@@ -398,7 +398,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 164,200 • ❤️ 1,127 • 7h ago
+⬇️ 164,200 • ❤️ 1,127 • 8h ago
 
 ---
 
@@ -410,7 +410,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 8,493 • ❤️ 326 • 4d ago
+⬇️ 8,493 • ❤️ 326 • 5d ago
 
 ---
 
@@ -422,7 +422,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 19,722 • ❤️ 234 • 14h ago
+⬇️ 19,722 • ❤️ 234 • 15h ago
 
 ---
 
@@ -444,7 +444,7 @@ Mistral-Small-4-119B-2603 is a hybrid MoE model (119B params, 6.5B active) suppo
 
 `119.4B`
 
-⬇️ 36,887 • ❤️ 315 • 16h ago
+⬇️ 36,887 • ❤️ 315 • 17h ago
 
 ---
 
@@ -644,7 +644,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 22.3k • 🔱 1.1k • 12h ago
+⭐ 22.3k • 🔱 1.1k • 13h ago
 
 ---
 
@@ -654,7 +654,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 13.1k • 🔱 1.7k • 5m ago
+⭐ 13.1k • 🔱 1.7k • 1h ago
 
 ---
 
@@ -674,7 +674,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 11.0k • 🔱 568 • 13h ago
+⭐ 11.0k • 🔱 568 • 14h ago
 
 ---
 
@@ -684,7 +684,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.6k • 🔱 770 • 22h ago
+⭐ 10.6k • 🔱 770 • 23h ago
 
 ---
 
@@ -704,7 +704,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 5.8k • 🔱 474 • 1h ago
+⭐ 5.8k • 🔱 474 • 2h ago
 
 ---
 
@@ -714,7 +714,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `Python` `ai-agents` `claude` `claude-code` `cloud-security` `cybersecurity`
 
-⭐ 3.7k • 🔱 366 • 15h ago
+⭐ 3.7k • 🔱 366 • 16h ago
 
 ---
 
@@ -724,7 +724,7 @@ OpenShell is the safe, private runtime for autonomous AI agents.
 
 `Rust`
 
-⭐ 3.5k • 🔱 348 • 11m ago
+⭐ 3.5k • 🔱 348 • 1h ago
 
 ---
 

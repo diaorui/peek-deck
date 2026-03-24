@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-24T09:57:23.738014+00:00'
+updated: '2026-03-24T10:56:10.208534+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 24, 2026 at 09:57 UTC  
+**Last Updated:** March 24, 2026 at 10:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 From Marc Benioff on 𝕏: https://x.com/Benioff/status/2036252519308075219
 
-6h ago
+7h ago
 
 ---
 
 **[Autonomous transport vehicles handling cargo operations at a modern port](https://www.reddit.com/r/robotics/comments/1s1m49a/autonomous_transport_vehicles_handling_cargo/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Roadrunner, the latest robot from the Robotics and AI Institute, is a bipedal, wheeled robot for multi-modal locomotion](https://www.reddit.com/r/robotics/comments/1s1jo4q/roadrunner_the_latest_robot_from_the_robotics_and/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -56,7 +56,7 @@ From Marc Benioff on 𝕏: https://x.com/Benioff/status/2036252519308075219
 
 From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/2036127368088080867 On Youtube: Kyber Labs - Wet Lab Demo: https://www.youtube.com/watch?v=iM7WjQYlFvM Kyber Labs Demos: https://kyberlabs.ai/demos
 
-11m ago
+1h ago
 
 ---
 
@@ -64,7 +64,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/203612736808808086
 
 I built this robot to perform with acrobats in new and interesting ways. See Acrobot.nl for more info, and as always I'm happy to answer questions! This video was taken in Krystallpalast in Germany where the Acrobot plays for the next 3 months.
 
-21h ago
+22h ago
 
 ---
 
@@ -86,7 +86,7 @@ This is Ricket, a robot project I’ve been building for the past year, programm
 
 **[IEEE RAS / Czech Technical University in Multi-Robot Systems Summer Camp in Prague -- learn ROS, earn course credits, and visit Prague](https://www.reddit.com/r/robotics/comments/1s1uy0i/ieee_ras_czech_technical_university_in_multirobot/)**
 
-🔗 [mrs.fel.cvut.cz](https://mrs.fel.cvut.cz/summer-school-2026/) • 12h ago
+🔗 [mrs.fel.cvut.cz](https://mrs.fel.cvut.cz/summer-school-2026/) • 13h ago
 
 ---
 
@@ -94,7 +94,7 @@ This is Ricket, a robot project I’ve been building for the past year, programm
 
 Hi guys, In my recent experience with deploying AgroSense, a LoRaWAN-based device, I've found that Timestamping and Data Retransmission are not just nice-to-haves but essential for ensuring data reliability and traceability in LoRaWAN product field applications. In remote and rural environments, where network connectivity can be intermittent, these features prove invaluable. Timestamps ensure we know exactly when the data was collected, while retransmission guarantees that any data lost due to temporary connection failures is automatically retrieved and uploaded. What is Timestamp & Why Timestamps Matter in LoRaWAN Devices A timestamp indicates a specific point in time associated with an event. In my experience of using AgroSense, it represents the time at which the data was collected. I’ve learned firsthand that timestamps are key for providing historical context to the data. Without them, data from LoRaWAN devices is typically identified by a sequence number, making it challenging to pinpoint when exactly the data was collected. Timestamps offer clear data tracking: With a precise time reference, users can easily track when each data point was recorded, improving data traceability. Better for long-term analysis: As the volume of data grows, timestamps make it much easier to query and analyze historical data with accuracy, especially in long-term deployments. The timestamp implementation in my device follows the process below: After a successful LoRaWAN network join, the device sends a request to the server to obtain current time information. Once the time information is received, it is synchronized to the system clock. The device periodically re-synchronizes the time with the server every 10 days to calibrate clock. My field Application Test Result As Above Timestamp Synchronization Test When the timestamp is not obtained during the first power-on, the default upload time is January 1, 1970. After obtaining the correct time, the second upload will automatically upload the real-time time. What Is a Data Retransmission & Why Is It Important for LoRaWAN Devices ? In practice, we’ve encountered network interruptions in the field due to factors like poor signal conditions, temporary gateway outages, and network congestion. Without a data retransmission mechanism, any lost packets would be permanently missed, affecting the integrity of data collection. In my experience of using AgroSense, the retransmission mechanism works as follows: The device stores data packets locally when they fail to be delivered to the cloud. (But NOT if succeed) When the cloud successfully receives a new uplink message from the device, the device checks whether there are historical packets that were not successfully uploaded. If such packets exist, the device will automatically retransmit them. Each retransmission cycle can resend up to three historical data packets, until all historical data reported. My field Application Test Result As Above pic I try to turn off the gateway power supply to simulate an abnormal situation. (Note: “Num” is the packet ID). As gateway recovery, the data re-uploaded and displayed on the correct coordinate axes.
 
-5h ago
+6h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hi guys, In my recent experience with deploying AgroSense, a LoRaWAN-based devic
 
 Genuine question, I spent some time playing with microcontrollers, encoders, and accelerometers. I will say my weak point was PID, but at the same time I keep seeing all these videos about robotics moving perfectly down a street or in a line or going to a specific location. Can someone point me in the right direction with how they do that? I heard about GPS chips but.. is there any reliable MCU’s or what types of chips, parts, do you use that make it easier to program a robot to move in these very accurate movements? Would appreciate any microcontroller suggestions, or reliable accelerometers. I know accelerometers tend to have the error over time that can be hard to fix but how does one erase that or minimize it if a robot keeps moving? Thank you
 
-13h ago
+14h ago
 
 ---
 
@@ -112,7 +112,7 @@ Genuine question, I spent some time playing with microcontrollers, encoders, and
 
 **[Bird‑like robots promise greater flexibility and control than drones](https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html)**
 
-Tech Xplore • 16h ago
+Tech Xplore • 17h ago
 
 ---
 
@@ -120,7 +120,7 @@ Tech Xplore • 16h ago
 
 A fully self-powered wireless arm interface converts human motion into electrical signals and wireless commands using a compact triboelectric nanogenerator, enabling battery-free, real-time robotic arm control for industrial and human–machine applications.
 
-Nature • 22h ago
+Nature • 23h ago
 
 ---
 
@@ -128,7 +128,7 @@ Nature • 22h ago
 
 Hyundai partners Persona AI to develop humanoid welding robots, advancing automation across global shipyard operations
 
-Interesting Engineering • 21h ago
+Interesting Engineering • 22h ago
 
 ---
 
@@ -136,7 +136,7 @@ Interesting Engineering • 21h ago
 
 SYDNEY, Australia, March 23, 2026 (GLOBE NEWSWIRE) -- GMEX Robotics Corporation (NASDAQ: GMEX) (“GMEX Robotics” or the “Company”), a developer of AI-powered robotic technologies, announces that it has entered into a purchase agreement with a leading Australian food and beverage group (“FBG”) for the deployment of the Company’s intelligent culinary robotics systems, including its recently announced personal robotic chef - 2Fculinary AI, and the purchase order from this FBG. The AU$4.2 million agr
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -144,7 +144,7 @@ Yahoo Finance • 21h ago
 
 APPLETON (WLUK) -- See robots in action at a STEM event at Appleton East High School this weekend.Almost 40 high school robotics teams from across the region ar
 
-WLUK • 1d ago
+WLUK • 2d ago
 
 ---
 
@@ -166,7 +166,7 @@ Hackster.io • 2d ago
 
 **[Video | Here’s what it takes to get a robot ready for the world](https://www.scmp.com/news/china/article/3347715/inside-beijing-lab-humanoid-robots-are-put-test)**
 
-South China Morning Post • 19m ago
+South China Morning Post • 1h ago
 
 ---
 
@@ -174,7 +174,7 @@ South China Morning Post • 19m ago
 
 Dilemmas, needs, and game-changing trends for 2026 and beyond.
 
-inc.com • 20h ago
+inc.com • 21h ago
 
 ---
 
@@ -182,7 +182,7 @@ inc.com • 20h ago
 
 The Giggle Pickles, a robotics team from Ferndale Middle School, secured their second consecutive Michigan State Championship and earned an invitation to the 2026 FIRST Tech Challenge World Championship in Houston.
 
-ClickOnDetroit | WDIV Local 4 • 18h ago
+ClickOnDetroit | WDIV Local 4 • 19h ago
 
 ---
 
@@ -236,7 +236,7 @@ Unique Motion Chaining | 197E Ethereus | Robot Rundown 197E Ethereus shows off t
 
 📺 FUN Robotics Network
 
-👁️ 3K • 👍 90 • 💬 7 • ⏱️ 2:42 • 11h ago
+👁️ 3K • 👍 90 • 💬 7 • ⏱️ 2:42 • 12h ago
 
 ---
 
