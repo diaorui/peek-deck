@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-24T02:10:35.432778+00:00'
+updated: '2026-03-24T04:31:01.967303+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 24, 2026 at 02:10 UTC  
+**Last Updated:** March 24, 2026 at 04:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,13 @@ AI news, discussions, and developments
 
 Tech giant’s tools include ‘Second Brain’ and an internal messaging board for AI bots
 
-🔗 [The Independent](https://www.the-independent.com/tech/mark-zuckerberg-ai-ceo-bot-b2943792.html) • 6h ago
+🔗 [The Independent](https://www.the-independent.com/tech/mark-zuckerberg-ai-ceo-bot-b2943792.html) • 9h ago
+
+---
+
+**[Just in: You can now enable Claude to use your computer to complete tasks. It opens your apps, navigates your browser, fills in spreadsheets—anything you'd do sitting at your desk.](https://www.reddit.com/r/artificial/comments/1s1xg9h/just_in_you_can_now_enable_claude_to_use_your/)**
+
+🔗 [techfixated.com](https://techfixated.com/you-can-now-enable-claude-to-use-your-computer-to-complete-tasks/) • 4h ago
 
 ---
 
@@ -49,13 +55,7 @@ Tech giant’s tools include ‘Second Brain’ and an internal messaging board 
 
 The former OpenAI and Tesla AI researcher's 'autoresearch' technique could be used by AI labs to speed up breakthroughs.
 
-🔗 [Fortune](https://fortune.com/2026/03/17/andrej-karpathy-loop-autonomous-ai-agents-future/) • 17h ago
-
----
-
-**[Just in: You can now enable Claude to use your computer to complete tasks. It opens your apps, navigates your browser, fills in spreadsheets—anything you'd do sitting at your desk.](https://www.reddit.com/r/artificial/comments/1s1xg9h/just_in_you_can_now_enable_claude_to_use_your/)**
-
-🔗 [techfixated.com](https://techfixated.com/you-can-now-enable-claude-to-use-your-computer-to-complete-tasks/) • 2h ago
+🔗 [Fortune](https://fortune.com/2026/03/17/andrej-karpathy-loop-autonomous-ai-agents-future/) • 20h ago
 
 ---
 
@@ -63,7 +63,23 @@ The former OpenAI and Tesla AI researcher's 'autoresearch' technique could be us
 
 MiMo-V2-Flash is open source, scores 73.4% on SWE-Bench (#1 among open source models), and costs $0.10 per million input tokens. That's comparable to Claude Sonnet at 3.5% of the price. MiMo-V2-Pro ranks #3 globally on agent benchmarks behind Claude Opus 4.6, with a 1M token context window, at $1/$3 per million tokens. Opus charges $5/$25 for similar performance. The lead researcher came from DeepSeek. The Pro model spent a week on OpenRouter anonymously and the entire community thought it was DeepSeek V4. At what point do Western AI companies have to respond on pricing? Or is the argument that reliability, safety, and enterprise support justify the 10x premium?
 
-16h ago
+18h ago
+
+---
+
+**[LightRest Ltd's 'LAGK' Initiative - Leverage-Aware Governance Kernal](https://www.reddit.com/r/artificial/comments/1s206d4/lightrest_ltds_lagk_initiative_leverageaware/)**
+
+Most discussions around AI safety focus on what models know or whether outputs are correct. But since 2019, I’ve been working on something slightly different: What actually matters is what knowledge becomes usable; but also how quickly it transfers capability. A piece of information isn’t neutral once it can be acted on. Some knowledge scales fast, compresses into action easily, and propogates realizable outcomes (good or bad). So I’ve been developing a framework called the Leverage-Aware Governance Kernel (LAGK). LAGK is an 8-phase system that regulates how information moves from: idea to understanding to action to impact It tries to answer questions like: What capability does this knowledge transfer? How easily can it be assigned a use-case or scaled? What happens when it propagates across many actors? Should it be shared differently depending on context? Instead of “allow vs block,” it focuses on shaping the form of disclosure: Open Guided Shielded or Sealed I’m curious how this lands with people here. Do you think future AI systems need something like a disclosure governance layer, not just alignment at the model level? If anyone wants to explore or critique it, I’d value that: https://lightrest-lagk.manus.space⁠
+
+3h ago
+
+---
+
+**[Best agent configurator? Soul + ID files etc](https://www.reddit.com/r/artificial/comments/1s1zlhu/best_agent_configurator_soul_id_files_etc/)**
+
+I'm running a couple of OC installs, one light weight with cloud models on a proxmox cluster and another directly on my new M5 mbp with 128gb ram running local models. As we know SOUL and IDENTITY files make or break your agent. Does anyone have a good rec for a site or github repo with general purpose agents? There are plenty for dev focused agents (the claude repo for example). Looking for non-dev focused agents. Marketing, Writing, Brainstorming, Business Validation, Exec Assisstant (calendar / email), that sort of thing.
+
+3h ago
 
 ---
 
@@ -71,7 +87,7 @@ MiMo-V2-Flash is open source, scores 73.4% on SWE-Bench (#1 among open source mo
 
 Nvidia CEO Jensen Huang says he'd be "deeply alarmed" if engineers weren't using AI tokens worth at least half of their annual salary.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/jensen-huang-compares-not-using-ai-to-using-paper-and-pencil-to-design-chips-as-he-explains-nvidias-massive-token-budget/) • 11h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/jensen-huang-compares-not-using-ai-to-using-paper-and-pencil-to-design-chips-as-he-explains-nvidias-massive-token-budget/) • 13h ago
 
 ---
 
@@ -79,7 +95,7 @@ Nvidia CEO Jensen Huang says he'd be "deeply alarmed" if engineers weren't using
 
 Jewelry is one of the, if not the, hardest categories for AI image generation. Reflective metals, facet edges, prong geometry, and gemstone refraction all get destroyed by standard VAE compression in latent diffusion models. No benchmark exists to measure this systematically. I put together a curated Awesome List covering the full landscape: 20+ datasets available on Huggingface including jewelry segmentation, hand pose with jewelry, Flux fine-tuning sets, and VITON-style jewelry data Foundational papers on identity preservation, VAE detail loss, and reflective surface rendering Open-source models: ControlNet configs, IP-Adapter variants, SAM adaptations for jewelry segmentation Evaluation metrics recommended for jewelry fidelity Commercial tools comparison Tutorials and communities Gaps I know exist: no jewelry-specific fidelity benchmark, limited public LoRAs, no systematic failure mode studies for DALL-E/Midjourney on jewelry. Contributions welcome via PR.
 
-🔗 [GitHub](https://github.com/formanova-ai/awesome-jewelry-ai) • 4h ago
+🔗 [GitHub](https://github.com/formanova-ai/awesome-jewelry-ai) • 7h ago
 
 ---
 
@@ -91,27 +107,11 @@ Palantir’s Maven artificial intelligence system will become an official progra
 
 ---
 
-**[I've been using AI video tools in my creative workflow for about 6 months and I want to give an honest assessment of where they're actually useful vs where they're still overhyped](https://www.reddit.com/r/artificial/comments/1s1d4zc/ive_been_using_ai_video_tools_in_my_creative/)**
+**[[R] V-JEPA 2 has no pixel decoder, so how do you inspect what it learned? We attached a VQ probe to the frozen encoder and found statistically significant physical structure](https://www.reddit.com/r/artificial/comments/1s23uj4/r_vjepa_2_has_no_pixel_decoder_so_how_do_you/)**
 
-I work as a freelance content creator and videographer and I've been integrating various AI tools into my workflow since late last year, not because I'm an AI enthusiast but because my clients keep asking about them and I figured I should actually understand what these tools can and can't do before I have opinions about them here's my honest assessment after 6 months of daily use across real client projects: where AI tools are genuinely useful right now: style transfer and visual experimentation, this is the clearest win, tools like magic hour and runway let me show clients 5 different visual approaches to their content in 20 minutes instead of spending 3 hours manually grading reference versions, even if the final product is still done traditionally the speed of previsualization has changed how I work background removal and basic compositing, what used to take careful rotoscoping can now be done in seconds for most use cases, not perfect for complex edges but for 80% of social media content it's more than good enough audio cleanup, tools like adobe's AI audio enhancement have saved me on multiple projects where the production audio was rough, this one doesn't get enough attention but it's probably the most practically useful AI application in my workflow where it's still overhyped: full video generation from text prompts, I've tried sora and veo and kling and honestly the outputs are impressive as tech demos but unusable for real client work 90% of the time, the uncanny valley is real and audiences can tell AI editing and automatic cuts, every tool that promises to "edit your video automatically" produces output that feels like it was edited by someone who's never watched a movie, the pacing is always wrong face and body generation for any sustained use, consistency across multiple generations is still a massive problem, anyone telling you they can run a "virtual influencer" without significant manual intervention is leaving out the hours of regeneration and cherry-picking the honest summary: AI is extremely useful as a productivity tool that speeds up specific parts of my existing workflow, it is not useful as a replacement for creative decision-making and it's nowhere close to replacing human editors, cinematographers, or content strategists anyone else working professionally with these tools want to share their honest assessment because I think the conversation is too polarized between "AI will replace everything" and "AI is worthless" when the reality is way more nuanced
+V-JEPA 2 is powerful precisely because it predicts in latent space rather than reconstructing pixels. But that design creates a problem: there’s no visual verification pathway. You can benchmark it, but you can’t directly inspect what physical concepts it has encoded. Existing probing approaches have a fundamental issue we call the attribution problem: when you attach a learned component (linear probe, LM head, pixel decoder) and the composite system performs well, you can’t tell how much of the performance comes from the encoder vs. the attached component’s own capacity. Our approach: attach the AIM framework (arXiv:2507.10566) as a passive quantization probe — a lightweight VQ-VAE bottleneck with no task-specific supervision, no predefined symbol inventory, and crucially, the V-JEPA 2 encoder is completely frozen throughout. Zero gradient flows into V-JEPA 2. Zero modification to any source file. Because the encoder is deterministic and fixed, any symbolic structure that emerges in the codebook is attributable to V-JEPA 2’s representations — not to the probe. What we found (Kinetics-mini, 3 category-contrast experiments): ∙ Symbol distributions differ significantly across all 3 physical dimension contrasts (χ² p < 10⁻⁴ to p < 10⁻¹⁰) ∙ Absolute MI: 0.036–0.117 bits; JSD up to 0.342 ∙ Codebook utilization: 62.5% active entries (K=8) ∙ Temporal structure differences produce 1.8× stronger signal than morphological differences — consistent with V-JEPA 2’s temporal prediction objective The interesting finding isn’t just that it works. It’s that V-JEPA 2’s latent space is compact: all 5 action categories predominantly map to the same dominant codebook entry, with semantic differences encoded as graded distributional shifts rather than categorical boundaries. We argue this is the expected signature of a model that has internalized shared physical structure (gravity, kinematics, continuity) rather than a failure of separation. Limitations we acknowledge upfront: ∙ Category-proxy confounding (we can’t isolate single physical variables with Kinetics-mini) ∙ Token-level pseudo-replication (effective N is closer to 9-10 videos/category) ∙ K=8 is too coarse for fine-grained structure (Stage 2 will increase to K=32/64) ∙ Gaussian noise baseline ≠ permutation test (weaker null) This is Stage 1 of a 4-stage roadmap toward an action-conditioned symbolic world model. Paper: arXiv:2603.20327 Code: github.com/cyrilliu1974/JEPA Happy to discuss the methodology, the compact-latent interpretation, or the roadmap.
 
-15h ago
-
----
-
-**[LightRest Ltd's 'LAGK' Initiative - Leverage-Aware Governance Kernal](https://www.reddit.com/r/artificial/comments/1s206d4/lightrest_ltds_lagk_initiative_leverageaware/)**
-
-Most discussions around AI safety focus on what models know or whether outputs are correct. But since 2019, I’ve been working on something slightly different: What actually matters is what knowledge becomes usable; but also how quickly it transfers capability. A piece of information isn’t neutral once it can be acted on. Some knowledge scales fast, compresses into action easily, and propogates realizable outcomes (good or bad). So I’ve been developing a framework called the Leverage-Aware Governance Kernel (LAGK). LAGK is an 8-phase system that regulates how information moves from: idea to understanding to action to impact It tries to answer questions like: What capability does this knowledge transfer? How easily can it be assigned a use-case or scaled? What happens when it propagates across many actors? Should it be shared differently depending on context? Instead of “allow vs block,” it focuses on shaping the form of disclosure: Open Guided Shielded or Sealed I’m curious how this lands with people here. Do you think future AI systems need something like a disclosure governance layer, not just alignment at the model level? If anyone wants to explore or critique it, I’d value that: https://lightrest-lagk.manus.space⁠
-
-43m ago
-
----
-
-**[I spent 14 months having honest conversations with an AI. Here’s what it taught me about why humans matter.](https://www.reddit.com/r/artificial/comments/1s1zyat/i_spent_14_months_having_honest_conversations/)**
-
-Not a technical piece. Not an AI hype post. Just something I’ve been thinking about for a long time that I finally wrote down. Honest feedback welcome.
-
-🔗 [Medium](https://medium.com/@ColinRemille/what-we-owe-them-b2ba5f65bd25) • 53m ago
+🔗 [researchgate.net](https://www.researchgate.net/publication/403071152_Probing_the_Latent_World_Emergent_Discrete_Symbols_and_Physical_Structure_in_Latent_Representations) • 13m ago
 
 ---
 
@@ -119,25 +119,9 @@ Not a technical piece. Not an AI hype post. Just something I’ve been thinking 
 
 ## Google News: "ai"
 
-**[Exclusive | Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO](https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5?gaa_at=eafs&gaa_n=AWEtsqchPLWi0g_rGWN9XvkZPrP-0sZJmC06Z-_Rz93CFk0T3czdool_Tvn_&gaa_ts=69c1f5ff&gaa_sig=J9OoiyUN5y1cMYms6BC-0EMOpIVDG1JdM4ed8ts18Fmjms3aVq_fefWaFk77QI5ppDD-CdjdjgPGYBqFDf_O0w%3D%3D)**
+**[Exclusive | Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO](https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5?gaa_at=eafs&gaa_n=AWEtsqcXyL_e2C9CYWffDRyyMEmodkLKGbwgPCFhioacjd5YC-uLZO43Anyx&gaa_ts=69c216ea&gaa_sig=KzkFuyObo2XmRapgIMBCw0JypOPH8sM8CieJpoXvaHbRCmGVeGr7B4y6hwMa-IXcWNepZxZ5AJEPD0fLUA19Kg%3D%3D)**
 
 WSJ • 1d ago
-
----
-
-**[Cisco launches security services to protect the world from AI agents and each other](https://finance.yahoo.com/news/cisco-launches-security-services-to-protect-the-world-from-ai-agents-and-each-other-200523498.html)**
-
-Cisco is launching new security tools to control AI agents.
-
-Yahoo Finance • 6h ago
-
----
-
-**[To Scale AI Agents Successfully, Think of Them Like Team Members](https://hbr.org/2026/03/to-scale-ai-agents-successfully-think-of-them-like-team-members)**
-
-Generative AI agents can reason, plan, and take actions across enterprise systems, which means deploying them is not just a software installation but a change to how work gets done. When agents gain the ability to execute tasks—updating records, issuing refunds, routing approvals—they introduce operational risks that traditional software tools do not, including unpredictable behavior and unclear responsibility when things go wrong. To use them safely and effectively, organizations must treat them like digital employees, giving each one a defined identity, limited authority, trusted sources of information, clear controls over what it can execute, and audit trails that make its decisions explainable. Companies that adopt this mindset and introduce autonomy gradually will be far more likely to capture the benefits of agentic AI without exposing themselves to costly mistakes.
-
-Harvard Business Review • 6h ago
 
 ---
 
@@ -145,7 +129,7 @@ Harvard Business Review • 6h ago
 
 Nvidia CEO Jensen Huang told Lex Fridman in a Monday podcast interview that he believed AGI had been achieved, then seemed to slightly walk back the claim.
 
-The Verge • 6h ago
+The Verge • 8h ago
 
 ---
 
@@ -153,43 +137,59 @@ The Verge • 6h ago
 
 You're not productive if you don't use a lot of AI.
 
-Tom's Hardware • 15h ago
+Tom's Hardware • 17h ago
 
 ---
 
-**[How Nvidia Keeps Its Iron Grip on the AI Boom](https://www.wsj.com/tech/nvidia-ai-market-competition-9db60e4c?gaa_at=eafs&gaa_n=AWEtsqdQqytmAMSMRbmAPXWNpUi1WEi_Gq7tvhQfPKKa0vdLXEmogRXIyHk-&gaa_ts=69c1f5ff&gaa_sig=DbmYFieDkYAZs_Ga3BkT_cAsBojgbK4LYcJFNEvSZNByyrcw-09DNQ5GiAcaZxR5QPnH0ho0r0qQ8PuErSbNsQ%3D%3D)**
+**[US must suspend Nvidia AI chip exports to China, senators say](https://www.ft.com/content/556e534d-bbc5-46e0-8965-ec3a13a8871a)**
 
-WSJ • 1h ago
+Lawmakers call for commerce department to suspend licences that let company send advanced semiconductors to south-east Asia
+
+Financial Times • 29m ago
+
+---
+
+**[Crowd packs Don Haskins Rec Center at El Paso’s first AI data center policy meeting](https://kfoxtv.com/news/local/crowd-packs-don-haskins-rec-center-at-el-pasos-first-data-center-policy-meeting-accountability-ai-data-center-city-council-spokesperson-meta-facebook-instagram-community-meeting-people-el-paso-city-mayor)**
+
+The initiative follows direction from the El Paso City Council to establish a comprehensive framework addressing the growing interest in data center projects.C
+
+KFOX • 41m ago
+
+---
+
+**[How Autonomous AI Agents Become Secure by Design With NVIDIA OpenShell](https://blogs.nvidia.com/blog/secure-autonomous-ai-agents-openshell/)**
+
+NVIDIA OpenShell provides tools for controlling autonomous agents in a trusted infrastructure policy layer.
+
+NVIDIA Blog • 13h ago
+
+---
+
+**[Cisco launches security services to protect the world from AI agents and each other](https://finance.yahoo.com/news/cisco-launches-security-services-to-protect-the-world-from-ai-agents-and-each-other-200523498.html)**
+
+Cisco is launching new security tools to control AI agents.
+
+Yahoo Finance • 8h ago
+
+---
+
+**[Ad Tech Briefing: IAB Tech Lab accelerates push to make agentic AI more practical](https://digiday.com/media-buying/ad-tech-briefing-iab-tech-lab-accelerates-push-to-make-agentic-ai-more-practical/)**
+
+IAB Tech Lab and Kochava have struck a deal to make the vendor's StationOne available to the standard body's members.
+
+Digiday • 29m ago
 
 ---
 
 **[Opinion | We Can’t Let Crypto and A.I. Buy the Policies They Want](https://www.nytimes.com/2026/03/23/opinion/crypto-ai-politics.html)**
 
-The New York Times • 6h ago
+The New York Times • 8h ago
 
 ---
 
-**[Want to protect yourself from AI? Invest, says BlackRock’s Larry Fink](https://www.cnn.com/2026/03/23/business/ai-blackrock-larry-fink-shareholder-letter)**
+**[Alibaba Unveils New Chip Design to Meet Surging Demand for AI](https://www.bloomberg.com/news/articles/2026-03-24/alibaba-unveils-new-chip-design-to-meet-surging-demand-for-ai)**
 
-Artificial intelligence could widen the problem of income inequality, said BlackRock CEO Larry Fink in his annual letter to shareholders.
-
-CNN • 11h ago
-
----
-
-**[AI boom risks widening wealth divide, says BlackRock’s Larry Fink](https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink)**
-
-CEO of asset manager says only a few firms and investors may reap rewards from growth in the technology
-
-The Guardian • 7h ago
-
----
-
-**['AI threatens to repeat that pattern': BlackRock CEO warns of wider wealth inequality without broader access](https://finance.yahoo.com/news/ai-threatens-to-repeat-that-pattern-blackrock-ceo-warns-of-wider-wealth-inequality-without-broader-access-163226483.html)**
-
-BlackRock's Larry Fink says AI could deepen wealth inequality in the United States.
-
-Yahoo Finance • 9h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -201,13 +201,7 @@ Yahoo Finance • 9h ago
 
 Imagine a newspaper publisher announcing it will no longer allow libraries to keep copies of its paper. That’s effectively what’s begun happening online in the last few months. The Internet Archive—the world’s largest digital library—has preserved newspapers since it went online in the mid-1990s....
 
-⬆️ 564 • 💬 159 • 2d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
-
----
-
-**[What young workers are doing to AI-proof themselves](https://news.ycombinator.com/item?id=47480447)**
-
-⬆️ 220 • 💬 367 • 1d ago • [wsj.com](https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284)
+⬆️ 565 • 💬 159 • 2d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record)
 
 ---
 
@@ -215,13 +209,19 @@ Imagine a newspaper publisher announcing it will no longer allow libraries to ke
 
 Learn how I built an ai receptionist for my brother's mechanic shop
 
-⬆️ 217 • 💬 243 • 15h ago • [itsthatlady.dev](https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/)
+⬆️ 237 • 💬 258 • 17h ago • [itsthatlady.dev](https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/)
+
+---
+
+**[What young workers are doing to AI-proof themselves](https://news.ycombinator.com/item?id=47480447)**
+
+⬆️ 220 • 💬 372 • 1d ago • [wsj.com](https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284)
 
 ---
 
 **[Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning](https://news.ycombinator.com/item?id=47467913)**
 
-⬆️ 193 • 💬 116 • 2d ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
+⬆️ 193 • 💬 117 • 2d ago • [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
 
 ---
 
@@ -229,19 +229,27 @@ Learn how I built an ai receptionist for my brother's mechanic shop
 
 A practical guide to getting the engagement your project deserves.
 
-⬆️ 168 • 💬 29 • 2d ago • [Andrew Nesbitt](https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html)
+⬆️ 171 • 💬 29 • 2d ago • [Andrew Nesbitt](https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html)
 
 ---
 
 **[Diverse perspectives on AI from Rust contributors and maintainers](https://news.ycombinator.com/item?id=47482825)**
 
-⬆️ 152 • 💬 81 • 1d ago • [nikomatsakis.github.io](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
+⬆️ 154 • 💬 81 • 1d ago • [nikomatsakis.github.io](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
 
 ---
 
 **[Ask HN: AI productivity gains – do you fire devs or build better products?](https://news.ycombinator.com/item?id=47475859)**
 
 ⬆️ 102 • 💬 194 • 1d ago
+
+---
+
+**[Show HN: Cq – Stack Overflow for AI coding agents](https://news.ycombinator.com/item?id=47491466)**
+
+cq explores a Stack Overflow for agents, a shared commons where agents can query past learnings, contribute new knowledge, and avoid repeating the same mistakes in isolation.
+
+⬆️ 96 • 💬 29 • 12h ago • [Mozilla.ai](https://blog.mozilla.ai/cq-stack-overflow-for-agents/)
 
 ---
 
@@ -262,13 +270,7 @@ The daemon has existed for a long time, and has been marked as "experimental" fo
 
 Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of hallucinations’, after investigation by newspaper where he was once editor-in-chief
 
-⬆️ 92 • 💬 79 • 2d ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes)
-
----
-
-**[Tom Homan confirms ICE to be at airports starting Monday](https://news.ycombinator.com/item?id=47480685)**
-
-⬆️ 89 • 💬 93 • 1d ago • [politico.com](https://www.politico.com/news/2026/03/22/homan-confirms-ice-airports-monday-00839426)
+⬆️ 93 • 💬 79 • 2d ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes)
 
 ---
 
@@ -276,13 +278,13 @@ Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of halluci
 
 ## YouTube Videos: "ai"
 
-**[It&#39;s Really Happening...](https://www.youtube.com/watch?v=u_HpS1m87YQ)**
+**[Why new AI model is alarming Hollywood](https://www.youtube.com/watch?v=X9ZAas973aQ)**
 
-The tides regarding artificial intelligence seem to be turning a bit. How so, any why? What can we expect to happen, realistically?
+A viral Instagram account, which appears to show a young woman “time travelling” through history, has racked up millions of ...
 
-📺 Shameless Nerd
+📺 Sky News
 
-👁️ 6K • 👍 680 • 💬 146 • ⏱️ 17:21 • 13h ago
+👁️ 13K • 👍 304 • 💬 27 • ⏱️ 12:13 • 10h ago
 
 ---
 
@@ -292,17 +294,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 10K • 👍 636 • 💬 68 • ⏱️ 11:44 • 1d ago
-
----
-
-**[Why new AI model is alarming Hollywood](https://www.youtube.com/watch?v=X9ZAas973aQ)**
-
-A viral Instagram account, which appears to show a young woman “time travelling” through history, has racked up millions of ...
-
-📺 Sky News
-
-👁️ 12K • 👍 293 • 💬 26 • ⏱️ 12:13 • 8h ago
+👁️ 10K • 👍 651 • 💬 68 • ⏱️ 11:44 • 1d ago
 
 ---
 
@@ -312,7 +304,7 @@ The AI boom has rocketed the stock prices of Nvidia, Amazon, Apple, Tesla, Micro
 
 📺 New Money
 
-👁️ 124K • 👍 4K • 💬 409 • ⏱️ 15:50 • 2d ago
+👁️ 125K • 👍 4K • 💬 414 • ⏱️ 15:50 • 2d ago
 
 ---
 
@@ -322,7 +314,7 @@ White House science advisor Michael Kratsios discusses the Trump administration'
 
 📺 Fox News Clips
 
-👁️ 37K • 👍 701 • 💬 226 • ⏱️ 4:08 • 1d ago
+👁️ 38K • 👍 714 • 💬 235 • ⏱️ 4:08 • 1d ago
 
 ---
 
@@ -332,17 +324,17 @@ Jensen Huang is the co-founder and CEO of NVIDIA, the world's most valuable comp
 
 📺 Lex Fridman
 
-👁️ 159K • 👍 7K • 💬 659 • ⏱️ 2:25:59 • 9h ago
+👁️ 190K • 👍 8K • 💬 719 • ⏱️ 2:25:59 • 12h ago
 
 ---
 
-**[China&#39;s AI Bet Is Starting to Look Like a Problem](https://www.youtube.com/watch?v=YiHm0-NtWzk)**
+**[How To Create Long AI Videos FREE | AI Se Lambe Video Kaise banaye | AI Video Generator (No Limits)](https://www.youtube.com/watch?v=yDem8YYQVI8)**
 
-China's biggest tech stocks just lost $66 billion in a single day. The reason tells you something important about the global AI race.
+How To Create Long AI Videos FREE | AI Se Lambe Video Kaise banaye | AI Video Generator (No Limits) Learn how to create ...
 
-📺 The Insight Play
+📺 Saddam Buriro
 
-👁️ 2K • 👍 99 • 💬 4 • ⏱️ 0:49 • 11h ago
+👁️ 5K • 👍 485 • 💬 96 • ⏱️ 6:54 • 13h ago
 
 ---
 
@@ -352,7 +344,27 @@ Since ChatGPT's debut, AI has been framed as everything from a world-changing br
 
 📺 Bloomberg Television
 
-👁️ 170K • 👍 4K • 💬 672 • ⏱️ 12:20 • 2d ago
+👁️ 174K • 👍 4K • 💬 693 • ⏱️ 12:20 • 2d ago
+
+---
+
+**[A $0.001 Cloud AI Model Beats My Raspberry Pi Setup](https://www.youtube.com/watch?v=Q6_ONYlB6a8)**
+
+I tested running a local LLM on a Raspberry Pi 5 to see how practical it really is. I tested it on its own, with the Hailo AI HAT+ 2 ...
+
+📺 Michael Klements
+
+👁️ 4K • 👍 168 • 💬 16 • ⏱️ 12:48 • 17h ago
+
+---
+
+**[The World&#39;s First OpenClaw Cloud: Your AI That Never Sleeps](https://www.youtube.com/watch?v=0D4-_yLuQn0)**
+
+Try Abacus Claw:* https://claw.abacus.ai/fmj OpenClaw Cloud changes how an AI agent runs—always on, across apps, without ...
+
+📺 Julia McCoy
+
+👁️ 6K • 👍 319 • 💬 31 • ⏱️ 10:17 • 13h ago
 
 ---
 
@@ -362,17 +374,7 @@ Trying to recreate more music videos with AI... I think we're done here *facepal
 
 📺 Steve Terreberry
 
-👁️ 142K • 👍 9K • 💬 1K • ⏱️ 14:54 • 2d ago
-
----
-
-**[AI classrooms, self-evolving AI, Nvidia GTC, AI for polymarket, Google app builder: AI NEWS](https://www.youtube.com/watch?v=HCVkBC1Vhcw)**
-
-HUGE AI NEWS: MiniMax M2.7, MiMo V2 Pro, MiroThinker, NemoClaw, Google Stitch, & more #ai #ainews #aitools #aivideo #agi ...
-
-📺 AI Search
-
-👁️ 66K • 👍 3K • 💬 357 • ⏱️ 48:33 • 1d ago
+👁️ 145K • 👍 9K • 💬 1K • ⏱️ 14:54 • 2d ago
 
 ---
 
@@ -388,7 +390,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 299,865 • ❤️ 851 • 13d ago
+⬇️ 299,865 • ❤️ 859 • 13d ago
 
 ---
 
@@ -398,9 +400,9 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-tuned for enhanced reasoning capabilities using Chain-of-Thought distillation from Claude-4.6 Opus. It excels at structured, step-by-step problem-solving within `<think>` tags, offering improved autonomy and stability for coding agents.
 
-`text-generation` `27.8B`
+`image-text-to-text` `27.8B`
 
-⬇️ 151,482 • ❤️ 1,089 • 3d ago
+⬇️ 151,482 • ❤️ 1,102 • 2h ago
 
 ---
 
@@ -412,7 +414,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 6,238 • ❤️ 318 • 4d ago
+⬇️ 6,238 • ❤️ 322 • 4d ago
 
 ---
 
@@ -424,7 +426,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 5,346 • ❤️ 230 • 7h ago
+⬇️ 5,346 • ❤️ 231 • 9h ago
 
 ---
 
@@ -446,7 +448,7 @@ Mistral-Small-4-119B-2603 is a hybrid MoE model (119B params, 6.5B active) suppo
 
 `119.4B`
 
-⬇️ 10,591 • ❤️ 311 • 8h ago
+⬇️ 10,591 • ❤️ 313 • 11h ago
 
 ---
 
@@ -462,6 +464,18 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 ---
 
+**[Qwen3.5-9B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive)**
+
+*HauHau*
+
+This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring aggressive refusal removal and native support for text, image, and video inputs up to 262K context. It's designed for lossless generation across 201 languages, suitable for advanced creative and analytical tasks where content restrictions are undesirable.
+
+`9.0B`
+
+⬇️ 366,607 • ❤️ 629 • 20d ago
+
+---
+
 **[GLM-OCR](https://huggingface.co/zai-org/GLM-OCR)**
 
 *Z.ai*
@@ -474,18 +488,6 @@ GLM-OCR is a multimodal OCR model for complex document understanding, excelling 
 
 ---
 
-**[Qwen3.5-9B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive)**
-
-*HauHau*
-
-This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring aggressive refusal removal and native support for text, image, and video inputs up to 262K context. It's designed for lossless generation across 201 languages, suitable for advanced creative and analytical tasks where content restrictions are undesirable.
-
-`9.0B`
-
-⬇️ 366,607 • ❤️ 628 • 20d ago
-
----
-
 **[OmniCoder-9B](https://huggingface.co/Tesslate/OmniCoder-9B)**
 
 *Tesslate*
@@ -494,7 +496,7 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 `text-generation`
 
-⬇️ 19,168 • ❤️ 366 • 10d ago
+⬇️ 19,168 • ❤️ 367 • 11d ago
 
 ---
 
@@ -508,7 +510,7 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 27 • 💬 2 • ⭐ 39,266 • 15mo ago
+▲ 28 • 💬 2 • ⭐ 39,266 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -535,7 +537,7 @@ AutoDev is an AI-driven software development framework that automates complex en
 Residual connections with PreNorm are standard in modern LLMs, yet they accumulate all layer outputs with fixed unit weights. This uniform aggregation causes uncontrolled hidden-state growth with depth, progressively diluting each layer's contribution. We propose Attention Residuals (AttnRes), which replaces this fixed accumulation with softmax attention over preceding layer outputs, allowing each layer to selectively aggregate earlier representations with learned, input-dependent weights. To address the memory and communication overhead of attending over all preceding layer outputs for large-scale model training, we introduce Block AttnRes, which partitions layers into blocks and attends over block-level representations, reducing the memory footprint while preserving most of the gains of full AttnRes. Combined with cache-based pipeline communication and a two-phase computation strategy, Block AttnRes becomes a practical drop-in replacement for standard residual connections with minimal overhead.
   Scaling law experiments confirm that the improvement is consistent across model sizes, and ablations validate the benefit of content-dependent depth-wise selection. We further integrate AttnRes into the Kimi Linear architecture (48B total / 3B activated parameters) and pre-train on 1.4T tokens, where AttnRes mitigates PreNorm dilution, yielding more uniform output magnitudes and gradient distribution across depth, and improves downstream performance across all evaluated tasks.
 
-▲ 150 • 💬 4 • ⭐ 2,591 • 7d ago
+▲ 151 • 💬 4 • ⭐ 2,615 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.15031) • [💻 code](https://github.com/MoonshotAI/Attention-Residuals)
 
@@ -547,7 +549,7 @@ Residual connections with PreNorm are standard in modern LLMs, yet they accumula
 
 Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
 
-▲ 17 • 💬 0 • ⭐ 36,418 • 13mo ago
+▲ 17 • 💬 0 • ⭐ 36,452 • 13mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet)
 
@@ -577,6 +579,19 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 ---
 
+**[AgentScope 1.0: A Developer-Centric Framework for Building Agentic
+  Applications](https://huggingface.co/papers/2508.16279)**
+
+*Dawei Gao, Zitao Li, Yuexiang Xie et al. (23 authors)*
+
+AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
+
+▲ 58 • 💬 4 • ⭐ 18,873 • 7mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
+
+---
+
 **[Very Large-Scale Multi-Agent Simulation in AgentScope](https://huggingface.co/papers/2407.17789)**
 
 *Xuchen Pan, Dawei Gao, Yuexiang Xie et al. (8 authors)*
@@ -586,19 +601,6 @@ Enhancements to the AgentScope platform improve scalability, efficiency, and eas
 ▲ 39 • 💬 2 • ⭐ 18,860 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.17789) • [💻 code](https://github.com/modelscope/agentscope)
-
----
-
-**[AgentScope 1.0: A Developer-Centric Framework for Building Agentic
-  Applications](https://huggingface.co/papers/2508.16279)**
-
-*Dawei Gao, Zitao Li, Yuexiang Xie et al. (23 authors)*
-
-AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
-
-▲ 58 • 💬 4 • ⭐ 18,785 • 7mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
 
 ---
 
@@ -638,7 +640,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 52.3k • 🔱 7.3k • 2d ago
+⭐ 52.6k • 🔱 7.3k • 3d ago
 
 ---
 
@@ -648,7 +650,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 22.3k • 🔱 1.1k • 4h ago
+⭐ 22.3k • 🔱 1.1k • 7h ago
 
 ---
 
@@ -658,7 +660,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 13.1k • 🔱 1.6k • 11h ago
+⭐ 13.1k • 🔱 1.7k • 2h ago
 
 ---
 
@@ -678,7 +680,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 10.6k • 🔱 549 • 5h ago
+⭐ 10.7k • 🔱 552 • 8h ago
 
 ---
 
@@ -688,7 +690,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.5k • 🔱 766 • 14h ago
+⭐ 10.5k • 🔱 767 • 16h ago
 
 ---
 
@@ -698,7 +700,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 6.4k • 🔱 983 • 2d ago
+⭐ 6.4k • 🔱 982 • 2d ago
 
 ---
 
@@ -708,7 +710,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 5.4k • 🔱 440 • 7h ago
+⭐ 5.5k • 🔱 446 • 20m ago
 
 ---
 
@@ -718,7 +720,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `Python` `ai-agents` `claude` `claude-code` `cloud-security` `cybersecurity`
 
-⭐ 3.6k • 🔱 364 • 7h ago
+⭐ 3.7k • 🔱 364 • 10h ago
 
 ---
 
@@ -728,7 +730,7 @@ OpenShell is the safe, private runtime for autonomous AI agents.
 
 `Rust`
 
-⭐ 3.5k • 🔱 345 • 13m ago
+⭐ 3.5k • 🔱 346 • 2h ago
 
 ---
 
