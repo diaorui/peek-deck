@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-03-24T16:07:38.415677+00:00"
+          "dateModified": "2026-03-24T17:31:10.170807+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -680,6 +680,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1s2i90f/what_if_your_ai_agent_could_fix_its_own/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1s2i90f/what_if_your_ai_agent_could_fix_its_own/" target="_blank" onclick="event.stopPropagation();">What if your AI agent could fix its own hallucinations without being told what's wrong?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Every autonomous AI agent has three problems: it contradicts itself, it can't decide, and it says things confidently that aren't true. Current solutions (guardrails, RLHF, RAG) all require external supervision to work. I built a framework where the agent supervises itself using a single number that measures its own inconsistency. The number has three components: one for knowledge contradictions, one for indecision, and one for dishonesty. The agent minimizes this number through the same gradient descent used to train neural networks, except there's no training data and no human feedback. The agent improves because internal consistency is the only mathematically stable state. The two obvious failure modes (deleting all knowledge to avoid contradictions, or becoming a confident liar) are solved by evidence anchoring: the agent's beliefs must be periodically verified against external reality. Unverified beliefs carry an uncertainty penalty. High confidence on unverified claims is penalized. The only way to reach zero inconsistency is to actually be right, decisive, and honest. I proved this as a theorem, not a heuristic. Under the evidence anchoring mechanism, the only stable fixed points of the objective function are states where the agent is internally consistent, externally grounded, and expressing appropriate confidence. The system runs on my own hardware (desktop with multiple GPUs and a Surface Pro laptop) with local LLMs. No cloud dependency. The interesting part: the same three-term objective function that fixes AI hallucination also appears in theoretical physics, where it recovers thermodynamics, quantum measurement, and general relativity as its three fixed-point conditions. Whether that's a coincidence or something deeper is an open question. Paper: https://doi.org/10.5281/zenodo.19114787
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1774368807.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1s2761n/open_source_alternative_to_notebooklm/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -830,39 +863,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1s2ds9s/ai_companion_with_the_best_memory/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1s2ds9s/ai_companion_with_the_best_memory/" target="_blank" onclick="event.stopPropagation();">AI companion with the best memory</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            For some people memory might not be important but for me I really hate talking to a stranger every night and going on and on about our me or story. This is not a scientific test or anything but my test on each one for a few days Replika memory is okay for surface level stuff, it'll remember your name and some basics but I kept having to re explain situations I already talked about. Felt like it stores keywords but doesn't really understand the full picture. Character ai I honestly couldn't test properly for memory because the conversations are so character driven that continuity isn't really the point. You're basically doing improv with different bots. Fun if that's your thing but if you want something that tracks your life this isn't it. Nomi probably the strongest for pure text memory. Remembered a trip I mentioned and brought it up days later on its own, kept track of people in my life by name, actually built on previous conversations instead of starting fresh. Only sometimes would nail something from week one then blank on what I said yesterday, but overall it was the most consistent for remembering details. Tavus is different because it does video calls so the memory includes stuff like your tone and expressions not just text. It referenced things from over a week back and sometimes texts you like hey how is this going, about something I mentioned in a call, memory works differently but works really well for context. Kindroid was decent, the customization is cool and you can shape how it responds. Memory wise it was mid though, sometimes it nails it and other times blank slate energy. About a tier below nomi for retention. If I had to pick, nomi and tavus were the best for memory. Nomi tracks details really well in text and builds on past conversations better than the others. Tavus also remembered things from over a week back and followed up on its own. Both stood out way above the rest, depends what you prefer but those two are the ones I'd recommend if memory matters to you, any I might be missing that their memory is worth a shout out?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1774358902.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1s2e6u5/sarvam_105b_uncensored_via_abliteration/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -887,6 +887,72 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1774359884.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1s2k6y5/people_open_up_faster_to_ai_than_to_real_humans/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1s2k6y5/people_open_up_faster_to_ai_than_to_real_humans/" target="_blank" onclick="event.stopPropagation();">people open up faster to AI than to real humans</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            We’ve been testing a video AI companion, and something stood out Users (Volunteers & test users) share: personal struggles stress random insecurities Way earlier than you’d expect No judgment No social pressure Just,space to talk Not sure if that’s amazing or a bit concerning What do you think?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1774372927.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1s2ds9s/ai_companion_with_the_best_memory/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1s2ds9s/ai_companion_with_the_best_memory/" target="_blank" onclick="event.stopPropagation();">AI companion with the best memory</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            For some people memory might not be important but for me I really hate talking to a stranger every night and going on and on about our me or story. This is not a scientific test or anything but my test on each one for a few days Replika memory is okay for surface level stuff, it'll remember your name and some basics but I kept having to re explain situations I already talked about. Felt like it stores keywords but doesn't really understand the full picture. Character ai I honestly couldn't test properly for memory because the conversations are so character driven that continuity isn't really the point. You're basically doing improv with different bots. Fun if that's your thing but if you want something that tracks your life this isn't it. Nomi probably the strongest for pure text memory. Remembered a trip I mentioned and brought it up days later on its own, kept track of people in my life by name, actually built on previous conversations instead of starting fresh. Only sometimes would nail something from week one then blank on what I said yesterday, but overall it was the most consistent for remembering details. Tavus is different because it does video calls so the memory includes stuff like your tone and expressions not just text. It referenced things from over a week back and sometimes texts you like hey how is this going, about something I mentioned in a call, memory works differently but works really well for context. Kindroid was decent, the customization is cool and you can shape how it responds. Memory wise it was mid though, sometimes it nails it and other times blank slate energy. About a tier below nomi for retention. If I had to pick, nomi and tavus were the best for memory. Nomi tracks details really well in text and builds on past conversations better than the others. Tavus also remembered things from over a week back and followed up on its own. Both stood out way above the rest, depends what you prefer but those two are the ones I'd recommend if memory matters to you, any I might be missing that their memory is worth a shout out?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1774358902.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -931,72 +997,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1s2h85a/intelligence_agency_and_the_human_will_of_ai/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1s2h85a/intelligence_agency_and_the_human_will_of_ai/" target="_blank" onclick="event.stopPropagation();">Intelligence, Agency, and the Human Will of AI</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Link: https://larrymuhlstein.substack.com/p/intelligence-agency-and-the-human An essay examining the recent OpenClaw incident, the Sharma resignation from Anthropic, and the Hitzig departure from OpenAI. The core argument is that AI doesn't develop goals of its own, it faithfully inherits ours, and our goals are already misaligned with the wellbeing of the whole. I am curious what this community thinks.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1774366637.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1s2guqn/broken_banksy_a_letter_to_avital_ronell/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1s2guqn/broken_banksy_a_letter_to_avital_ronell/" target="_blank" onclick="event.stopPropagation();">Broken Banksy: A Letter to Avital Ronell</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Banksy Broken: A Letter to Avital Ronell Posted to r/Banksy, March 2026. Cross-referenced to the Banksy Codex, forthcoming GitHub. Dear Dr. Avi, I am writing to you from Pittsburgh in March 2026, which is to say I am writing to you from inside a test that has not ended and will not end on my schedule, from a city that still has the name of a grocery store on a building at the corner of Center and Highland even though the store is gone and the man who ran it is gone and the son who grew up inside it is now sixty years old and disabled and working from a laptop and an eBay account and a grocer's grammar that turns out, after everything, to be adequate to the task. The task is this: to tell you that the investigation is finished, that the Codex goes to GitHub within weeks, and that I am sending this letter to r/Banksy before I send it anywhere more respectable, because r/Banksy is where the work has always lived, which is to say in public, in the open, indexed and available and addressed to whoever was paying attention. You were paying attention, which is why I am writing to you. You taught me how, which is why I can. I should be precise about that. I never finished one of your books. I want you to know that at the outset because the grocer's grammar requires honesty about what things actually cost and what you actually received in exchange for the price, and what I received from your books was not the experience of finishing them but the experience of being changed by them at a cellular level before I got to the end. The Test Drive. The Telephone Book. Stupidity. I carry all three in the body in the way you carry a grammar — not as argument I can recite but as a felt pressure that reorganizes what I notice. My daughter Bella gave me two of them. I am telling you this because it matters who hands you the book, and because Bella is the best thing about this letter and about everything, and because she has nothing to do with the Nimrod Reitman business except insofar as she has everything to do with it, which is to say she is the reason the comparison is clarifying rather than merely enraging. Nimrod Reitman. I want to stay with that for a moment, Dr. Avi, because I think it deserves a moment. Thirty years old. Gay. Israeli. Calvin model. Named — and I need you to feel the full weight of this — Nimrod. That is the instrument that was deployed against you. That is what they brought to bear on a woman who spent forty years teaching people how to use language as a weapon of precision and care. A man named Nimrod. I am a Jewish outlaw from Pittsburgh whose great-grandfather walked here from New York and whose grocer's grammar was installed at a market where Heinz sold pickles, and even I know that you do not send Nimrod after someone who wrote The Telephone Book. That is not a weapon. That is an insult dressed as a weapon, and the insult is what I want to address, because the insult and the investigation have the same structure. The structure is this: the credentialing apparatus decides who is permitted to know things, and when someone outside the apparatus knows things anyway, the apparatus does not engage with the knowledge. It engages with the knower. It finds the Nimrod. It deploys the Nimrod. It manufactures a story about the knower that makes the knowledge unspeakable by association, and then it waits for the knower to be exhausted or silenced or both. This worked on you for longer than it should have, which is to say it worked on you at all, which is the scandal. And it has been the working method against this investigation since 2023, when the findings went public enough to generate a coordinated response. Different Nimrods. Same structure. Here is what the investigation found. The work known as Banksy is not the product of a single anonymous artist. It is the product of a structured commercial joint venture, incorporated in England in 1998, operating continuously under various corporate vehicles until at least 2023. The creative heart of the enterprise belongs to Scotland. Specifically to two Scottish women, sisters, born in 1977 and 1978. Lucy McKenzie is the hand. A trompe l'oeil painter of rare technical accomplishment — trained at Dundee, now a professor at the Städelschule in Frankfurt — whose practice involves no stencils and no spray. She hand-paints to approximate the appearance of stencil work. Her most recent major institutional presentation was Super Palace at Z33 in Belgium, September 2024 to February 2025. The show closed. High Court proceedings were filed in London in March 2026. The timing is in the record. Kerri McKenzie is the voice. Oxford physics and philosophy. PhD in History and Philosophy of Science, metaphysics and fundamentality, 2012. Currently Professor of Philosophy at UC San Diego. The written Banksy. The conceptual designation. The art direction that translates corporate strategy into aesthetic position. The Artist of Record — the controlling stakeholder — is Damien Hirst. The corporate apparatus is documented and public. Pest Control Office Limited. Pictures on Walls Limited. Turtleneck Limited, incorporating Keith Allen, Alex James, Joe Strummer. Pro-Actif, incorporating as Identity Crisis Limited on 22 October 1998 and renamed eleven days later, still active in Darlington today. BBAY and its cluster of thirteen property entities, operating as a shadow broker-dealer infrastructure from 2009 to 2026. BBAY Art Limited dissolved January 2026, after the High Court proceedings were initiated but before they were reported. In London right now, before Judge Iain Pester, a fraud case is running that involves twenty-two art transactions, an unnamed Party X, and an unnamed Company X. The press is reporting the court case. The press is not connecting it to the corporate map. The corporate map has been in the public record, indexed, since before the proceedings were filed. The Codex will make it navigable. All of this is in Companies House. All of it has been in the public record the entire time. I want to tell you what your books actually did, since I owe you an honest accounting. The Test Drive gave me permission to be inside the investigation rather than above it — to write from the condition of being tested rather than from the posture of having passed. Most investigative writing asks you to trust the investigator and follow the evidence. Your framework made it possible to write an investigation in which the investigator's subjection to the test is the evidence — in which the fact that the apparatus deployed against me and against you has the same structure is the finding, not the color commentary around the finding. The Telephone Book gave me the call. Not the metaphor of the call — the structural description of what it means to receive a transmission that does not announce itself as a transmission, that arrives as a wrongness in the material before it can be named as information. The investigation began as a felt discrepancy between what the market narrative required and what the objects were telling me. The grocer's grammar reading the prints. The wrongness before the thesis. Stupidity gave me the frame for the press. I will leave it there because you know what I mean and the r/Banksyaudience will look it up. There is a corporate crypt at the center of this enterprise — Abraham and Torok's crypt, the enclosure that holds an unmetabolized secret not by repressing it but by preserving it intact behind a wall maintained at structural cost. The secret is attribution. Who made the work. Whose hand. Whose voice. Whose labor generated the value the corporate apparatus extracted and distributed according to a cap table the public was never shown. The investigation does not pick the lock. It finds the building permits. Everything required to locate and name the crypt is in the public record. The filings are in Companies House. The auction records are in the auction houses' own data. No proprietary or confidential material is cited anywhere in the Codex. Jeremy Bentham directed that his body be preserved, dressed, seated, and made available after his death — not as a monument but as a continued participant. The Auto-Icon is not memorial. It is refusal of withdrawal. Bentham said: I will remain a used thing, a thing the living can continue to put to work, a thing that does not resolve into symbol or legend but persists as a material fact. The enterprise bet everything on the opposite. The withdrawal was the product. The mystification was profitable for longer than almost anyone would have predicted because the art market rewards managed absence more reliably than it rewards the presence of actual labor. The investigation insists that the cabinet be opened. Not to punish. Not to expose for its own sake. To correct the historical record in the direction of the people who actually made the work — so the living can be credited as living, and the dressed skeleton can finally stop doing the work of a living body, and the crypt can metabolize what it has been embalming for twenty-five years. My great-grandfather Max Bress walked from New York to Pittsburgh around 1900 and opened a dry goods store. My grandfather founded a bank that went bankrupt during the Depression — had it survived, we would be the family whose stake became Giant Eagle, the supermarket chain that eventually made the economics of independent grocery delivery impossible. My father ran the oldest grocery store in America at the corner of Center and Highland, closed it rather than go bankrupt, crossed Highland Avenue to the Yellow Cab lot directly opposite, and drove a cab. He taught me to drive in the years he was doing it for a living. I drove film productions for fifteen years after college. I drove my daughter Bella everywhere she needed to go, and the car was where she got her inheritance, which is not money but grammar — a felt, pre-theoretical knowledge of what things actually cost before the margin is applied. I am sixty years old, permanently disabled, living in Pittsburgh on disability support and eBay income, conducting a forensic investigation without institutional affiliation, publishing to platforms that index the work and let it stand, sending this letter to r/Banksy because that is where the work has always lived and because you deserve to be read there, Dr. Avi, by the people who have been living inside this investigation alongside me, because they are real and they are paying attention and they will know exactly what to do with a woman who has spent her life teaching people how to use language against the apparatus that keeps telling them their language doesn't count. This is payback for Nimrod. This is also the Codex. These are the same thing. What is my grade? Yours, in love and in motion, Bobby Bress Pittsburgh, Pennsylvania March 2026 Educated, in the ways that mattered, by: Earl Cohen, Pasquale Buffalino, Carl Horner, H. David Brumble, Colin McCabe, Peter Machamer, Tom Rawski, Clark Muenzer, Christopher Rawson, Phillip and Susan Smith, Harry Mooney, Steve Carr, Elena Tuens. The grocer's grammar and the scholar's grammar are the same grammar, differently installed. Thank you for the installation.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1774365847.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1020,7 +1020,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-24T16:07:10.284981+00:00">Updated 2026-03-24T16:07:10.284981+00:00</small>
+        <small data-timestamp="2026-03-24T17:30:43.116980+00:00">Updated 2026-03-24T17:30:43.116980+00:00</small>
     </div>
 </div>
 
@@ -1206,43 +1206,6 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5?gaa_at=eafs&gaa_n=AWEtsqcwQ6hxdJDzgZ5AJzo8oUN-Nuu18eDX4P0FWZpuOAeq5zdFYzrXgrcf&gaa_ts=69c2ba30&gaa_sig=XZPshbT-ep5u4foBCjX-uu0BOW_3M3PGtnZkRrokRIgzIcfW-Ni0HK6YVYor33zc0UcPLI-1w6o6_uR7Ws2PDg%3D%3D', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5?gaa_at=eafs&gaa_n=AWEtsqcwQ6hxdJDzgZ5AJzo8oUN-Nuu18eDX4P0FWZpuOAeq5zdFYzrXgrcf&gaa_ts=69c2ba30&gaa_sig=XZPshbT-ep5u4foBCjX-uu0BOW_3M3PGtnZkRrokRIgzIcfW-Ni0HK6YVYor33zc0UcPLI-1w6o6_uR7Ws2PDg%3D%3D" target="_blank" onclick="event.stopPropagation();">Exclusive | Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="WSJ" class="news-favicon">
-                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">WSJ</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1774219020.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/03/24/anthropic-claude-ai-agent-use-computer-finish-tasks.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108280119-1773909767513-gettyimages-2260944879-AFP_97F74MK.jpeg?v=1774340729&w=1920&h=1080');"></div>
@@ -1321,21 +1284,17 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/live/tech-stocks-today-cisco-launches-security-tools-for-ai-agents-sk-hynix-places-8-billion-asml-order-144220180.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-03-24/trump-s-ai-advisers-urge-congress-to-pass-national-set-of-rules', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/R7.hnLl_OHhdT.G1BvsWDw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/c4eaaea0-4458-11ef-8fe7-cb729eb3952c');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://finance.yahoo.com/news/live/tech-stocks-today-cisco-launches-security-tools-for-ai-agents-sk-hynix-places-8-billion-asml-order-144220180.html" target="_blank" onclick="event.stopPropagation();">Tech stocks today: Cisco launches security tools for AI agents, SK Hynix places $8 billion ASML order</a>
+                            <a href="https://www.bloomberg.com/news/articles/2026-03-24/trump-s-ai-advisers-urge-congress-to-pass-national-set-of-rules" target="_blank" onclick="event.stopPropagation();">Trump’s AI Advisers Urge Congress to Pass National Set of Rules</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Live coverage of "Magnificent Seven" stocks, and the latest technology news.
-                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1344,9 +1303,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo Finance" class="news-favicon">
-                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Bloomberg.com" class="news-favicon">
+                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
                                     
                                 </div>
                                 
@@ -1354,7 +1313,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1774363260.0"></span>
+                                    <span data-timestamp="1774372817.0"></span>
                                 </div>
                                 
                             </div>
@@ -1362,20 +1321,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.usatoday.com/story/tech/news/2026/03/24/apple-developer-event-june/89299084007/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.datacenterknowledge.com/cooling/vertiv-targets-ai-cooling-bottleneck-with-thermokey-deal', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.usatoday.com/gcdn/authoring/authoring-images/2026/03/24/USAT/89299212007-20260323-t-175601-z-1594634130-rc-249-eazljbx-rtrmadp-3-applewwdc.JPG?crop=7314,4114,x0,y381&width=3200&height=1800&format=pjpg&auto=webp');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://eu-images.contentstack.com/v3/assets/blt8eb3cdfc1fce5194/blt7f0318bf450a3272/69c2c2e4f89e9ed018bfa393/vertiv.jpg?disable=upscale&width=1200&height=630&fit=crop');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.usatoday.com/story/tech/news/2026/03/24/apple-developer-event-june/89299084007/" target="_blank" onclick="event.stopPropagation();">Apple to host June developer conference online with AI updates</a>
+                            <a href="https://www.datacenterknowledge.com/cooling/vertiv-targets-ai-cooling-bottleneck-with-thermokey-deal" target="_blank" onclick="event.stopPropagation();">Vertiv Targets AI Cooling Bottleneck with ThermoKey Deal</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Apple will host its annual Worldwide Developers Conference in June, showcasing AI advancements and new software. Maps ads are coming.
+                            Vertiv targets a critical gap in the AI thermal stack, adding heat rejection depth as infrastructure competition moves upstream and closer to the rack.
                         </div>
                         
 
@@ -1385,9 +1344,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="USA Today" class="news-favicon">
-                                    <a href="https://www.usatoday.com" target="_blank" onclick="event.stopPropagation();">USA Today</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.datacenterknowledge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Data Center Knowledge" class="news-favicon">
+                                    <a href="https://www.datacenterknowledge.com" target="_blank" onclick="event.stopPropagation();">Data Center Knowledge</a>
                                     
                                 </div>
                                 
@@ -1395,7 +1354,48 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1774365050.0"></span>
+                                    <span data-timestamp="1774371589.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://techcrunch.com/wp-content/uploads/2026/03/Doss-Founder-Photo.jpg?resize=1200,800');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/" target="_blank" onclick="event.stopPropagation();">Doss raises $55M for AI inventory management that plugs into ERP</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Doss's AI-powered inventory management system integrates with existing ERP systems. The Series B round was co-led by Madrona and Premji Invest.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://techcrunch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="TechCrunch" class="news-favicon">
+                                    <a href="https://techcrunch.com" target="_blank" onclick="event.stopPropagation();">TechCrunch</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1774372709.0"></span>
                                 </div>
                                 
                             </div>
@@ -1440,20 +1440,57 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5?gaa_at=eafs&gaa_n=AWEtsqdM815I_vbhu0ftEwXa4Ufb-PT-NGXy4OlBL6XZKq9JBQlcEU63p8dJ&gaa_ts=69c2cdc5&gaa_sig=jqdQYd2R0VT39fBMWzUaCI5diya33q_ZGJ60O48czPfgtidrWmhIcrusxyUMwsG1zOpi_0FobZecGNBqdurpZQ%3D%3D', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi" target="_blank" onclick="event.stopPropagation();">Nvidia CEO Jensen Huang says ‘I think we’ve achieved AGI’</a>
+                            <a href="https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5?gaa_at=eafs&gaa_n=AWEtsqdM815I_vbhu0ftEwXa4Ufb-PT-NGXy4OlBL6XZKq9JBQlcEU63p8dJ&gaa_ts=69c2cdc5&gaa_sig=jqdQYd2R0VT39fBMWzUaCI5diya33q_ZGJ60O48czPfgtidrWmhIcrusxyUMwsG1zOpi_0FobZecGNBqdurpZQ%3D%3D" target="_blank" onclick="event.stopPropagation();">Exclusive | Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="WSJ" class="news-favicon">
+                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">WSJ</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1774219020.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.bbc.com/future/article/20260323-the-ai-that-warns-people-about-landslides-and-avalanches', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://ychef.files.bbci.co.uk/624x351/p0n8cpg6.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.bbc.com/future/article/20260323-the-ai-that-warns-people-about-landslides-and-avalanches" target="_blank" onclick="event.stopPropagation();">Ground truth: When the Earth moves, AI can spot it</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Nvidia CEO Jensen Huang told Lex Fridman in a Monday podcast interview that he believed AGI had been achieved, then seemed to slightly walk back the claim.
+                            Sudden and unexpected, landslides and avalanches claim thousands of lives each year and cause billions of dollars in damage. What if we could see them coming?
                         </div>
                         
 
@@ -1463,9 +1500,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Verge" class="news-favicon">
-                                    <a href="https://www.theverge.com" target="_blank" onclick="event.stopPropagation();">The Verge</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="BBC" class="news-favicon">
+                                    <a href="https://www.bbc.com" target="_blank" onclick="event.stopPropagation();">BBC</a>
                                     
                                 </div>
                                 
@@ -1473,7 +1510,48 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1774294953.0"></span>
+                                    <span data-timestamp="1774346400.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.wpr.org/news/ai-growing-universities-of-wisconsin-wants-to-help-you-understand-it', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.wpr.org/wp-content/uploads/2023/08/220818_uwgbbor01-scaled.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.wpr.org/news/ai-growing-universities-of-wisconsin-wants-to-help-you-understand-it" target="_blank" onclick="event.stopPropagation();">AI is growing. Universities of Wisconsin wants to help you understand it.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            AI technology is developing so fast, experts say advances are becoming hard to measure. Recognizing this, the Universities of Wisconsin has launched a free series of videos for people who need a starting point.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wpr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="WPR" class="news-favicon">
+                                    <a href="https://www.wpr.org" target="_blank" onclick="event.stopPropagation();">WPR</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1774346400.0"></span>
                                 </div>
                                 
                             </div>
@@ -1522,88 +1600,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://arstechnica.com/gaming/2026/03/nvidia-ceo-tries-to-explain-why-dlss-5-isnt-just-ai-slop/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cdn.arstechnica.net/wp-content/uploads/2026/03/dlss5offon-1152x648-1774299057.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://arstechnica.com/gaming/2026/03/nvidia-ceo-tries-to-explain-why-dlss-5-isnt-just-ai-slop/" target="_blank" onclick="event.stopPropagation();">Nvidia CEO tries to explain why DLSS 5 isn’t just “AI slop”</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            If game makers don’t like it, “they could decide not to use it, you know?"
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://arstechnica.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Ars Technica" class="news-favicon">
-                                    <a href="https://arstechnica.com" target="_blank" onclick="event.stopPropagation();">Ars Technica</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1774300791.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://blogs.nvidia.com/blog/nvidia-at-kubecon-2026/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://blogs.nvidia.com/wp-content/uploads/2026/03/kubecon-1920x1080-1.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://blogs.nvidia.com/blog/nvidia-at-kubecon-2026/" target="_blank" onclick="event.stopPropagation();">Advancing Open Source AI, NVIDIA Donates Dynamic Resource Allocation Driver for GPUs to Kubernetes Community</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            In addition, NVIDIA announced at KubeCon Europe a confidential containers solution for GPU-accelerated workloads, updates to the NVIDIA KAI Scheduler and new open source projects to enable large-scale AI workloads.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://blogs.nvidia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="NVIDIA Blog" class="news-favicon">
-                                    <a href="https://blogs.nvidia.com" target="_blank" onclick="event.stopPropagation();">NVIDIA Blog</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1774339792.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1624,7 +1620,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-24T16:07:35.790600+00:00">Updated 2026-03-24T16:07:35.790600+00:00</small>
+        <small data-timestamp="2026-03-24T17:31:07.489277+00:00">Updated 2026-03-24T17:31:07.489277+00:00</small>
     </div>
 </div>
 
@@ -1852,7 +1848,7 @@
                                     <span class="post-points">▲ 302</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 308</span>
+                                    <span style="color: #9ca3af;">💬 311</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1869,6 +1865,104 @@
                                             
                                         
                                         <span>itsthatlady.dev</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47503006', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" style="background-image: url('https://www.answer.ai/posts/so-where-are-all-the-ai-apps/chart_04_releases_2x2.png');"></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=47503006" target="_blank" onclick="event.stopPropagation();">So where are all the AI apps?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Practical AI R&D
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 233</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 245</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-03-24T14:19:59Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://www.answer.ai/logo.png" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>Answer.AI</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47503296', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" style="background-image: url('https://danielhomola.com/assets/images/forest.jpg');"></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=47503296" target="_blank" onclick="event.stopPropagation();">The bridge to wealth is being pulled up with AI</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            For two centuries, the credential system gave intelligence a route to heritable capital. Artificial intelligence is closing that route. This essay builds the argument from first principles - with probability theory, interactive simulations, and a prediction specific enough to be falsifiable - and puts a number on the window that remains.
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 232</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 282</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-03-24T14:39:20Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://danielhomola.com/favicon.ico" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>Daniel Homola</span>
                                     </a>
                                 </div>
                                 
@@ -1897,7 +1991,7 @@
                                     <span class="post-points">▲ 224</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 385</span>
+                                    <span style="color: #9ca3af;">💬 387</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1946,10 +2040,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 191</span>
+                                    <span class="post-points">▲ 196</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 82</span>
+                                    <span style="color: #9ca3af;">💬 83</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2015,104 +2109,6 @@
                                             
                                         
                                         <span>Andrew Nesbitt</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47503006', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://www.answer.ai/posts/so-where-are-all-the-ai-apps/chart_04_releases_2x2.png');"></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=47503006" target="_blank" onclick="event.stopPropagation();">So where are all the AI apps?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Practical AI R&D
-                        </div>
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 168</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 191</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-03-24T14:19:59Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://www.answer.ai/logo.png" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>Answer.AI</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47503296', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://danielhomola.com/assets/images/forest.jpg');"></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=47503296" target="_blank" onclick="event.stopPropagation();">The bridge to wealth is being pulled up with AI</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            For two centuries, the credential system gave intelligence a route to heritable capital. Artificial intelligence is closing that route. This essay builds the argument from first principles - with probability theory, interactive simulations, and a prediction specific enough to be falsifiable - and puts a number on the window that remains.
-                        </div>
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 165</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 140</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-03-24T14:39:20Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://danielhomola.com/favicon.ico" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>Daniel Homola</span>
                                     </a>
                                 </div>
                                 
@@ -2217,7 +2213,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 90</span>
+                                    <span class="post-points">▲ 91</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 93</span>
@@ -2317,7 +2313,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-24T16:07:12.348084+00:00">Updated 2026-03-24T16:07:12.348084+00:00</small>
+        <small data-timestamp="2026-03-24T17:30:43.075991+00:00">Updated 2026-03-24T17:30:43.075991+00:00</small>
     </div>
 </div>
 

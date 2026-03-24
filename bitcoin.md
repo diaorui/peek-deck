@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-24T16:07:38.928570+00:00'
+updated: '2026-03-24T17:31:10.670372+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- videos
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 24, 2026 at 16:07 UTC  
+**Last Updated:** March 24, 2026 at 17:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,813.28
+### $69,223.75
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** -2.0%  
-**30d:** +8.0%  
-**90d:** -20.1%  
-**1y:** -20.0%  
+**24h:** -2.7%  
+**7d:** -2.9%  
+**30d:** +6.9%  
+**90d:** -20.9%  
+**1y:** -20.8%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Don't you just love and vague mysterious guys! lol](https://www.reddit.com/r/Bitcoin/comments/1s26awy/dont_you_just_love_and_vague_mysterious_guys_lol/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 In 2022 I really was glued to events in Bitcoin's huge drawdown. I do look at the price every day (okay, maybe twice a day) but this time I really have hardly been bothered. Minus 45% down is a LOT but for some reason it has not really felt like a lot. Maybe I am just so sure of its value now that I am less concerned. At bottom, Bitcoin was down by more than half from its $126k high. If my mutual funds were -45% right now I would be far more worried. Is anyone else just less worried now than in previous years?
 
-45m ago
+2h ago
 
 ---
 
@@ -95,13 +95,13 @@ In 2022 I really was glued to events in Bitcoin's huge drawdown. I do look at th
 
 Hi, my name is Elias and I've built this bitcoin-rails solution to buy, sell, send Bitcoin via common messenger apps. So now you can get a bitcoin wallet via any messenger service you want like WhatsApp, Telegram, Signal, Email etc and don't need to download an app, create a wallet, understand Bitcoin or anything like that anymore. I've just broken it down to only needing to write a text message so my parents, friends, relatives etc. can get their hands on Bitcoin as easily as technically possible. I'm a Bitcoin Maximalist by heart and I think this is finally a solution where they will buy Bitcoin and don't stumble upon all the different barriers. Please ask me anything or tell me what you would like to have implemented / answered. Is there anything stopping you from using it? Do you find it useful? I highly depend on any constructive user feedback from fellow Bitcoiners (jokes off). -Elias PS: right now it's a custodial solution but if requested / if I see the user traction I can also build a non-custodial solution as well, where I don't have constant access to the users funds (would love to have that as a user as well but takes some more programming time).
 
-1h ago
+2h ago
 
 ---
 
 **[Cathie Wood on Bitcoin and the current geopolitical situation](https://www.reddit.com/r/Bitcoin/comments/1s2e6l1/cathie_wood_on_bitcoin_and_the_current/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -109,13 +109,13 @@ Hi, my name is Elias and I've built this bitcoin-rails solution to buy, sell, se
 
 At this moment buying bitcoin regularly is the only thing I’m truly confident in long term. The Stock market even during these extreme red days are still trading at high valuations and are not too far off from their all time highs. Additional contributions at this point seem like feeding a fire. Bitcoin goes up. Bitcoin goes down. Bitcoin from where it stands right now will always be there. Stack sats and ignore the noise.
 
-1h ago
+3h ago
 
 ---
 
 **[They don't know what's coming](https://www.reddit.com/r/Bitcoin/comments/1s1oscn/they_dont_know_whats_coming/)**
 
-21h ago
+23h ago
 
 ---
 
@@ -123,15 +123,7 @@ At this moment buying bitcoin regularly is the only thing I’m truly confident 
 
 everyone who says theyre "over bitcoin" just proves they never really got what it was about to begin with like i get it the price swings can mess with your head especially when youre trying to stay focused on other stuff in life but if you actually understand the technology and what its trying to solve you dont just walk away because of some volatility been thinking about this a lot lately while driving around for work and it just seems obvious that the people bailing out were never in it for the right reasons anyway
 
-8h ago
-
----
-
-**[Advice for a beginner?](https://www.reddit.com/r/Bitcoin/comments/1s25tf2/advice_for_a_beginner/)**
-
-I have about 2k to start with. I just need to know how this works? Do I let it sit or do I need to learn how to trade? Help 😭 I’m so scared to buy these courses from these “traders”..
-
-9h ago
+10h ago
 
 ---
 
@@ -139,15 +131,23 @@ I have about 2k to start with. I just need to know how this works? Do I let it s
 
 Good morning! I’m thinking about getting a gift for my partner. He already has a Coldcard Q and has invested some money (not a lot) in Bitcoin. For his birthday, I’m torn between the well-known Blockclock or a NerdQaxe++. He’s never mined before, but it seems like a cool and original gift. Something the Blockclock doesn’t offer. I’ve also considered a less powerful option, the Nerdaxe Gamma, since it uses less energy and, in the end, it would just be for fun. What do you think? Is it silly to buy something for mining just for fun? Would it be better to gift him that money in Bitcoin? Or go for the Blockclock? I truly appreciate any opinions.
 
-3h ago
+4h ago
 
 ---
 
-**[Strategy Acquires 1,031 BTC and Now Holds 762,099 BTC](https://www.reddit.com/r/Bitcoin/comments/1s1kzqq/strategy_acquires_1031_btc_and_now_holds_762099/)**
+**[Advice for a beginner?](https://www.reddit.com/r/Bitcoin/comments/1s25tf2/advice_for_a_beginner/)**
 
-March 23, 2026
+I have about 2k to start with. I just need to know how this works? Do I let it sit or do I need to learn how to trade? Help 😭 I’m so scared to buy these courses from these “traders”..
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-1031-btc-and-now-holds-762099-btc_03-23-2026) • 1d ago
+11h ago
+
+---
+
+**[Daily Discussion, March 24, 2026](https://www.reddit.com/r/Bitcoin/comments/1s25tfl/daily_discussion_march_24_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+11h ago
 
 ---
 
@@ -155,49 +155,31 @@ March 23, 2026
 
 ## Google News: "bitcoin"
 
-**[Here’s how Treasuries could shape Trump’s Iran war and bitcoin moves](https://www.coindesk.com/markets/2026/03/24/here-s-where-treasuries-could-shape-trump-s-iran-war-and-bitcoin-moves)**
+**[Bitcoin Rises After Trump Says to Postpone Iran Strikes](https://www.bloomberg.com/news/articles/2026-03-23/bitcoin-rises-after-trump-says-to-postpone-iran-strikes)**
 
-Treasury yields and swap spreads could eventually pressure the Trump administration to moderate the conflict, analysts argue.
-
-CoinDesk • 8h ago
+Bloomberg.com • 21h ago
 
 ---
 
-**[What happens to Bitcoin if US bond yields soar above 5%?](https://www.tradingview.com/news/cointelegraph:c2bede573094b:0-what-happens-to-bitcoin-if-us-bond-yields-soar-above-5/)**
+**[Strategy Unveils $44 Billion Plan to Buy More Bitcoin, Driven By MSTR and STRC Shares](https://finance.yahoo.com/markets/crypto/articles/strategy-unveils-44-billion-plan-145603224.html)**
 
-Bitcoin BITSTAMP:BTCUSD has been among the best-performing assets amid the US–Iran war, but signs of upside exhaustion are emerging due to an “out-of-control” bond market.Key takeaways:Oil shock may send US yields soaring over 5%Since Feb. 28, when the US and Israel attacked Iran, the benchmark 10…
+Strategy shared plans to issue $44 billion in equity, a move aimed at providing its Bitcoin-buying machine with fuel for future purchases.
 
-TradingView • 5h ago
-
----
-
-**[Is Bitcoin in Trouble? 10-Year Yield Nears Danger Zone as War Risks Spill Into Markets Despite Price Gains](https://finance.yahoo.com/markets/crypto/articles/bitcoin-trouble-10-yield-nears-123920652.html)**
-
-The U.S. 10-year Treasury yield is climbing towards what analysts describe as the "danger zone." Rising yields strengthen the dollar and create structural pressure on ...
-
-Yahoo Finance • 3h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Rises After Trump Points to Delay in Iran Strikes](https://ca.finance.yahoo.com/news/bitcoin-rises-trump-points-delay-125029760.html)**
+**[Strategy Eyes $78 Bil Bitcoin War Chest. Be Skeptical.](https://www.investors.com/news/mstr-stock-strategy-58-billion-bitcoin-war-chest/)**
 
-(Bloomberg) -- Bitcoin rose alongside equities while oil prices fell after US President Donald Trump said the US had begun talks with Iran, raising hopes for a deal to ease the conflict.The original cryptocurrency advanced more than 5% to trade as high as $71,794 in New York before paring some of the gain. Smaller tokens including Ether and Solana also rose. Bitcoin had earlier on Monday been fluctuating around a two-week low, sliding as far as $67,371 — its lowest level since March 9. The token
-
-Yahoo! Finance Canada • 1d ago
+Investor's Business Daily • 5h ago
 
 ---
 
-**[Bitcoin Price Spikes As Trump Delays Strikes Against Iran](https://www.investors.com/news/bitcoin-price-trump-iran-delay-cryptocurrency-stocks-oil-price-futures-gold/)**
+**[Bernstein says bitcoin looks bottomed, sees 226% upside for Strategy](https://www.theblock.co/post/394878/bernstein-says-bitcoin-looks-bottomed-sees-226-upside-for-strategy)**
 
-Investor's Business Daily • 18h ago
+Bernstein said Strategy could see 226% upside if bitcoin has bottomed, with STRC central to its capital model.
 
----
-
-**[Bitcoin, ether, solana prices move higher as Gulf allies inch toward joining Iran war](https://www.coindesk.com/markets/2026/03/24/bitcoin-ether-solana-prices-move-higher-as-gulf-allies-inch-toward-joining-iran-war)**
-
-Crypto recovered on Tuesday morning even as Monday's relief rally unraveled across traditional markets, with oil jumping 4% on reports that Saudi Arabia and the UAE are moving to join the conflict.
-
-CoinDesk • 10h ago
+The Block • 3h ago
 
 ---
 
@@ -205,15 +187,13 @@ CoinDesk • 10h ago
 
 Robinhood SVP and GM of Crypto Johann Kerbat reveals the platforms top-traded crypto asset and discusses key trends emerging from the Digital Asset Summit on 'Varney & Co.'
 
-Fox Business • 17m ago
+Fox Business • 1h ago
 
 ---
 
-**[Bitcoin sinks below $70,000 as Bernstein analysts say token 'looks bottomed'](https://finance.yahoo.com/news/bitcoin-sinks-below-70000-as-bernstein-analysts-say-token-looks-bottomed-155220732.html)**
+**[Bitcoin’s Institutional Shift Drives Bernstein’s $150,000 Call](https://www.bloomberg.com/news/articles/2026-03-24/bitcoin-s-institutional-shift-drives-bernstein-s-150-000-call)**
 
-The token has outperformed gold and equities during the Middle East conflict and was trading below $70,000 on Tuesday.
-
-Yahoo Finance • 15m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -221,13 +201,29 @@ Yahoo Finance • 15m ago
 
 Extreme volatility makes Bitcoin difficult to hold, but disciplined investors have been rewarded.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
-**[Strategy Eyes $78 Bil Bitcoin War Chest. Be Skeptical.](https://www.investors.com/news/mstr-stock-strategy-58-billion-bitcoin-war-chest/)**
+**[Here's How Much Bitcoin Has Surged Past the S&P 500 Since the 2020 Covid Crash](https://finance.yahoo.com/markets/crypto/articles/heres-much-bitcoin-surged-past-182000674.html)**
 
-Investor's Business Daily • 18h ago
+Bitcoin has taken off in value in the past couple of years due to expectations of widespread crypto reform.
+
+Yahoo Finance • 23h ago
+
+---
+
+**[Bitcoin Price To $500,000? We Fact-Checked Standard Chartered’s Bold ATH Prediction](https://www.ccn.com/news/crypto/bitcoin-price-prediction-fact-checked-standard-chartereds-ath-prediction/)**
+
+CCN.com • 23m ago
+
+---
+
+**[STRK: The Most Undervalued And Versatile Bitcoin Security Today (NASDAQ:STRK)](https://seekingalpha.com/article/4885379-strk-the-most-undervalued-and-versatile-bitcoin-security-today)**
+
+Strategy Inc 8.00% Series A Perpetual Strike Preferred offers a unique blend of fixed income and MSTR equity upside. Learn more about STRK stock here.
+
+Seeking Alpha • 1h ago
 
 ---
 
@@ -239,7 +235,7 @@ Investor's Business Daily • 18h ago
 
 Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in. Proof that works without us.
 
-⬆️ 8 • 💬 1 • 4d ago • [Umarise](https://umarise.com/blog/proof-of-existence)
+⬆️ 8 • 💬 1 • 5d ago • [Umarise](https://umarise.com/blog/proof-of-existence)
 
 ---
 
@@ -269,7 +265,7 @@ Seal predictions and decisions with cryptographic proof anchored to Bitcoin. No 
 
 Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 33 chain analysis heuristics. Free, client-side, no tracking.
 
-⬆️ 1 • 💬 0 • 2d ago • [am-i.exposed](https://am-i.exposed/)
+⬆️ 1 • 💬 0 • 3d ago • [am-i.exposed](https://am-i.exposed/)
 
 ---
 
@@ -291,7 +287,7 @@ An event loop for asyncio written in Rust. Contribute to RustedBytes/rsloop deve
 
 **[Show HN: Castor – a secure execution layer for LLM agents](https://news.ycombinator.com/item?id=47504101)**
 
-⬆️ 1 • 💬 0 • 38m ago
+⬆️ 1 • 💬 0 • 2h ago
 
 ---
 
@@ -299,7 +295,15 @@ An event loop for asyncio written in Rust. Contribute to RustedBytes/rsloop deve
 
 Seeking power for data centers, Meta and other companies plan to use equipment that is expensive and polluting.
 
-⬆️ 2 • 💬 1 • 19m ago • [nytimes.com](https://www.nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html)
+⬆️ 2 • 💬 2 • 1h ago • [nytimes.com](https://www.nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html)
+
+---
+
+**[Meta's Virtual Reality App Ditching VR to Make a Roblox Clone](https://news.ycombinator.com/item?id=47505628)**
+
+Facebook really hopes your kids will play Grow A Garden via its terrible phone-based metaverse
+
+⬆️ 2 • 💬 0 • 39m ago • [Kotaku](https://kotaku.com/metas-virtual-reality-app-ditching-vr-to-make-a-roblox-clone-2000671434)
 
 ---
 
@@ -313,7 +317,7 @@ Stop Guessing - Ask Clash (beta) ▻ https://www.askclash.ai/ Make FREE Crypto P
 
 📺 CryptosRUs
 
-👁️ 8K • 👍 653 • 💬 105 • ⏱️ 39:00 • 1h ago
+👁️ 8K • 👍 653 • 💬 105 • ⏱️ 39:00 • 3h ago
 
 ---
 
@@ -323,7 +327,7 @@ Nobody knows how screwed everyone actually is right now. Not Iran. Not the Gulf.
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 2K • 💬 235 • ⏱️ 15:05 • 16h ago
+👁️ 19K • 👍 2K • 💬 235 • ⏱️ 15:05 • 17h ago
 
 ---
 
@@ -333,7 +337,7 @@ Gold just entered a bear market during geopolitical chaos while Bitcoin held ste
 
 📺 Simply Bitcoin
 
-👁️ 3K • 👍 453 • 💬 49 • ⏱️ 13:19 • 3h ago
+👁️ 3K • 👍 453 • 💬 49 • ⏱️ 13:19 • 4h ago
 
 ---
 
@@ -343,7 +347,7 @@ million in crypto liquidations. In four hours. Today. Bitcoin whipsawed from $67
 
 📺 Money Talks
 
-👁️ 3K • 👍 91 • 💬 87 • ⏱️ 13:33 • 18h ago
+👁️ 3K • 👍 91 • 💬 87 • ⏱️ 13:33 • 19h ago
 
 ---
 
@@ -383,7 +387,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 14K • 👍 1K • 💬 100 • ⏱️ 48:48 • 5h ago
+👁️ 14K • 👍 1K • 💬 100 • ⏱️ 48:48 • 7h ago
 
 ---
 
@@ -393,7 +397,7 @@ This video provides a professional Elliott Wave and technical analysis of Bitcoi
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 323 • 💬 11 • ⏱️ 5:14 • 4h ago
+👁️ 3K • 👍 323 • 💬 11 • ⏱️ 5:14 • 5h ago
 
 ---
 
@@ -403,7 +407,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 5K • 👍 361 • 💬 96 • ⏱️ 13:09 • 5h ago
+👁️ 5K • 👍 361 • 💬 96 • ⏱️ 13:09 • 7h ago
 
 ---
 
