@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-24T13:15:04.334807+00:00'
+updated: '2026-03-24T14:41:03.829396+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 24, 2026 at 13:15 UTC  
+**Last Updated:** March 24, 2026 at 14:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Marc Benioff on 𝕏: https://x.com/Benioff/status/2036252519308075219
 
-9h ago
+11h ago
 
 ---
 
@@ -44,19 +44,27 @@ From Marc Benioff on 𝕏: https://x.com/Benioff/status/2036252519308075219
 
 From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/2036127368088080867 On Youtube: Kyber Labs - Wet Lab Demo: https://www.youtube.com/watch?v=iM7WjQYlFvM Kyber Labs Demos: https://kyberlabs.ai/demos
 
-3h ago
+4h ago
 
 ---
 
 **[Autonomous transport vehicles handling cargo operations at a modern port](https://www.reddit.com/r/robotics/comments/1s1m49a/autonomous_transport_vehicles_handling_cargo/)**
 
-20h ago
+21h ago
 
 ---
 
 **[Roadrunner, the latest robot from the Robotics and AI Institute, is a bipedal, wheeled robot for multi-modal locomotion](https://www.reddit.com/r/robotics/comments/1s1jo4q/roadrunner_the_latest_robot_from_the_robotics_and/)**
 
-21h ago
+23h ago
+
+---
+
+**[How can i control the angle of this arm with a simple microcontroller like a raspber](https://www.reddit.com/r/robotics/comments/1s2dxkk/how_can_i_control_the_angle_of_this_arm_with_a/)**
+
+I have a 6DOF toy robot arm and i want to be able to control the joints with a microcontroller. How can i do this since it uses a dc motor with and can only move forwards and backwards so far
+
+1h ago
 
 ---
 
@@ -68,19 +76,19 @@ I built this robot to perform with acrobats in new and interesting ways. See Acr
 
 ---
 
-**[Foresight into robots...???? The milkshake machine...](https://www.reddit.com/r/robotics/comments/1s2avkf/foresight_into_robots_the_milkshake_machine/)**
-
-I'd like to see them tackle this one... You might not like to hear this or even understand it just yet but, "I'm sorry sir, our milkshake machine isn't working..." If robots are to be implemented in the future then it would seem if they can tackle this one above then they might have a leg to stand on instead of just easy monotonous tasks only... (As a side note, we're trying to get an auto(robot) mower in the family but even this still lag behind too. It's interesting since they've had many years already to learn off of household robot vacuums. Why the delay?)
-
-1h ago
-
----
-
 **[The robot phone dancing at MWC actually surprised me](https://www.reddit.com/r/robotics/comments/1s2c0ao/the_robot_phone_dancing_at_mwc_actually_surprised/)**
 
 Not gonna lie, tech shows can be dry. But seeing a phone with a tiny arm dance alongside a robot at the Honor booth was kind of delightful. It was a reminder that tech can be playful. I don't know if I'd ever need a dancing phone, but I appreciate brands showing personality.
 
-1h ago
+2h ago
+
+---
+
+**[Foresight into robots...???? The milkshake machine...](https://www.reddit.com/r/robotics/comments/1s2avkf/foresight_into_robots_the_milkshake_machine/)**
+
+I'd like to see them tackle this one... You might not like to hear this or even understand it just yet but, "I'm sorry sir, our milkshake machine isn't working..." If robots are to be implemented in the future then it would seem if they can tackle this one above then they might have a leg to stand on instead of just easy monotonous tasks only... (As a side note, we're trying to get an auto(robot) mower in the family but even this still lag behind too. It's interesting since they've had many years already to learn off of household robot vacuums. Why the delay?)
+
+3h ago
 
 ---
 
@@ -100,33 +108,13 @@ This is Ricket, a robot project I’ve been building for the past year, programm
 
 ---
 
-**[IEEE RAS / Czech Technical University in Multi-Robot Systems Summer Camp in Prague -- learn ROS, earn course credits, and visit Prague](https://www.reddit.com/r/robotics/comments/1s1uy0i/ieee_ras_czech_technical_university_in_multirobot/)**
-
-🔗 [mrs.fel.cvut.cz](https://mrs.fel.cvut.cz/summer-school-2026/) • 15h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[UT researchers develop sensitive robot hands](https://www.axios.com/local/austin/2026/03/24/texas-researchers-robot-hands)**
-
-Axios • 1h ago
-
----
-
 **[Bird‑like robots promise greater flexibility and control than drones](https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html)**
 
-Tech Xplore • 19h ago
-
----
-
-**[Agile Robots becomes the latest robotics company to partner with Google DeepMind](https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/)**
-
-Agile Robots will incorporate Google DeepMind's robotics foundation models into its bots while collecting data for the AI research lab.
-
-TechCrunch • 1h ago
+Tech Xplore • 21h ago
 
 ---
 
@@ -138,11 +126,19 @@ Nature • 1d ago
 
 ---
 
+**[Agile Robots becomes the latest robotics company to partner with Google DeepMind](https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/)**
+
+Agile Robots will incorporate Google DeepMind's robotics foundation models into its bots while collecting data for the AI research lab.
+
+TechCrunch • 2h ago
+
+---
+
 **[McDonald's trials humanoid robots in Shanghai for customer service](https://interestingengineering.com/ai-robotics/mcdonalds-humanoid-robots-deliver-food)**
 
 A McDonald's restaurant in Shanghai has recently piloted humanoid robots to deliver food and interact with diners.
 
-Interesting Engineering • 23h ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -151,14 +147,6 @@ Interesting Engineering • 23h ago
 SYDNEY, Australia, March 23, 2026 (GLOBE NEWSWIRE) -- GMEX Robotics Corporation (NASDAQ: GMEX) (“GMEX Robotics” or the “Company”), a developer of AI-powered robotic technologies, announces that it has entered into a purchase agreement with a leading Australian food and beverage group (“FBG”) for the deployment of the Company’s intelligent culinary robotics systems, including its recently announced personal robotic chef - 2Fculinary AI, and the purchase order from this FBG. The AU$4.2 million agr
 
 Yahoo Finance • 1d ago
-
----
-
-**[The most innovative robotics and engineering companies of 2026](https://www.fastcompany.com/91497289/robotics-engineering-most-innovative-companies-2026)**
-
-Why Boston Dynamics, Terabase Energy, Lucid Bots, and Symbotic are among Fast Company's Most Innovative Companies in robotics and engineering for 2026.
-
-Fast Company • 2h ago
 
 ---
 
@@ -178,11 +166,27 @@ BBC • 2d ago
 
 ---
 
+**[The most innovative robotics and engineering companies of 2026](https://www.fastcompany.com/91497289/robotics-engineering-most-innovative-companies-2026)**
+
+Why Boston Dynamics, Terabase Energy, Lucid Bots, and Symbotic are among Fast Company's Most Innovative Companies in robotics and engineering for 2026.
+
+Fast Company • 3h ago
+
+---
+
 **[Sesame Micro Pushes the Limits of Pocket-Sized DIY Robotics](https://www.hackster.io/news/sesame-micro-pushes-the-limits-of-pocket-sized-diy-robotics-9a0d7a0e6af6)**
 
 Sesame Micro is an affordable, 3D-printed walking robot — and it's one of the smallest quadrupeds around.
 
 Hackster.io • 2d ago
+
+---
+
+**[Denham Springs High Robotics Team wins Pike Peak Regional, earns spot at FIRST World Championship](https://www.theadvocate.com/baton_rouge/news/communities/livingston_tangipahoa/denham-springs-high-robotics-team-wins-pike-peak-regional-earns-spot-at-first-world-championship/article_88822344-467d-4651-ac55-b83d4fb90bf1.html)**
+
+The Denham Venom Robotics Team recently returned from Colorado Springs, Colorado, with a victory at the FIRST Robotics Pikes Peak Regional Competition and a secured berth to the 2026 FIRST
+
+The Advocate • 2h ago
 
 ---
 
@@ -266,7 +270,7 @@ Unique Motion Chaining | 197E Ethereus | Robot Rundown 197E Ethereus shows off t
 
 📺 FUN Robotics Network
 
-👁️ 3K • 👍 97 • 💬 7 • ⏱️ 2:42 • 14h ago
+👁️ 3K • 👍 97 • 💬 7 • ⏱️ 2:42 • 16h ago
 
 ---
 

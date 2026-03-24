@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-24T13:15:04.325446+00:00'
+updated: '2026-03-24T14:41:03.821509+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
+- news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 24, 2026 at 13:15 UTC  
+**Last Updated:** March 24, 2026 at 14:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,189.46
+### $70,208.54
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** -0.5%  
-**30d:** +9.6%  
-**90d:** -19.0%  
-**1y:** -18.9%  
+**24h:** -0.3%  
+**7d:** -1.9%  
+**30d:** +8.1%  
+**90d:** -20.1%  
+**1y:** -20.0%  
 
 ---
 
@@ -77,31 +77,21 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[One hell of a life](https://www.reddit.com/r/Bitcoin/comments/1s29600/one_hell_of_a_life/)**
+**[Don't you just love and vague mysterious guys! lol](https://www.reddit.com/r/Bitcoin/comments/1s26awy/dont_you_just_love_and_vague_mysterious_guys_lol/)**
 
-6 figs Bitcoin guys : BMW, ig model girlfriend 7 figs Bitcoin guys : Lambo, Dubai penthouse 8 figs Bitcoin guys:
-
-3h ago
+8h ago
 
 ---
 
-**[Don't you just love and vague mysterious guys! lol](https://www.reddit.com/r/Bitcoin/comments/1s26awy/dont_you_just_love_and_vague_mysterious_guys_lol/)**
+**[Cathie Wood on Bitcoin and the current geopolitical situation](https://www.reddit.com/r/Bitcoin/comments/1s2e6l1/cathie_wood_on_bitcoin_and_the_current/)**
 
-6h ago
+56m ago
 
 ---
 
 **[They don't know what's coming](https://www.reddit.com/r/Bitcoin/comments/1s1oscn/they_dont_know_whats_coming/)**
 
-18h ago
-
----
-
-**[Advice for a beginner?](https://www.reddit.com/r/Bitcoin/comments/1s25tf2/advice_for_a_beginner/)**
-
-I have about 2k to start with. I just need to know how this works? Do I let it sit or do I need to learn how to trade? Help 😭 I’m so scared to buy these courses from these “traders”..
-
-7h ago
+20h ago
 
 ---
 
@@ -109,7 +99,15 @@ I have about 2k to start with. I just need to know how this works? Do I let it s
 
 everyone who says theyre "over bitcoin" just proves they never really got what it was about to begin with like i get it the price swings can mess with your head especially when youre trying to stay focused on other stuff in life but if you actually understand the technology and what its trying to solve you dont just walk away because of some volatility been thinking about this a lot lately while driving around for work and it just seems obvious that the people bailing out were never in it for the right reasons anyway
 
-5h ago
+7h ago
+
+---
+
+**[Advice for a beginner?](https://www.reddit.com/r/Bitcoin/comments/1s25tf2/advice_for_a_beginner/)**
+
+I have about 2k to start with. I just need to know how this works? Do I let it sit or do I need to learn how to trade? Help 😭 I’m so scared to buy these courses from these “traders”..
+
+8h ago
 
 ---
 
@@ -117,7 +115,23 @@ everyone who says theyre "over bitcoin" just proves they never really got what i
 
 March 23, 2026
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-1031-btc-and-now-holds-762099-btc_03-23-2026) • 21h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-1031-btc-and-now-holds-762099-btc_03-23-2026) • 22h ago
+
+---
+
+**[Advice for Beginners](https://www.reddit.com/r/Bitcoin/comments/1s2cgph/advice_for_beginners/)**
+
+Good morning! I’m thinking about getting a gift for my partner. He already has a Coldcard Q and has invested some money (not a lot) in Bitcoin. For his birthday, I’m torn between the well-known Blockclock or a NerdQaxe++. He’s never mined before, but it seems like a cool and original gift. Something the Blockclock doesn’t offer. I’ve also considered a less powerful option, the Nerdaxe Gamma, since it uses less energy and, in the end, it would just be for fun. What do you think? Is it silly to buy something for mining just for fun? Would it be better to gift him that money in Bitcoin? Or go for the Blockclock? I truly appreciate any opinions.
+
+2h ago
+
+---
+
+**[Bitcoin is the future](https://www.reddit.com/r/Bitcoin/comments/1s257pm/bitcoin_is_the_future/)**
+
+BTC is for the world, all it takes is to believe and act.
+
+🔗 [X (formerly Twitter)](https://x.com/0xpicklecati/status/1917528745906430274?s=46) • 9h ago
 
 ---
 
@@ -125,7 +139,7 @@ March 23, 2026
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-7h ago
+8h ago
 
 ---
 
@@ -137,39 +151,15 @@ I am new to crypto, what would have caused this?
 
 ---
 
-**[Bitcoin is the future](https://www.reddit.com/r/Bitcoin/comments/1s257pm/bitcoin_is_the_future/)**
-
-BTC is for the world, all it takes is to believe and act.
-
-🔗 [X (formerly Twitter)](https://x.com/0xpicklecati/status/1917528745906430274?s=46) • 7h ago
-
----
-
-**[Advice for Beginners](https://www.reddit.com/r/Bitcoin/comments/1s2cgph/advice_for_beginners/)**
-
-Good morning! I’m thinking about getting a gift for my partner. He already has a Coldcard Q and has invested some money (not a lot) in Bitcoin. For his birthday, I’m torn between the well-known Blockclock or a NerdQaxe++. He’s never mined before, but it seems like a cool and original gift. Something the Blockclock doesn’t offer. I’ve also considered a less powerful option, the Nerdaxe Gamma, since it uses less energy and, in the end, it would just be for fun. What do you think? Is it silly to buy something for mining just for fun? Would it be better to gift him that money in Bitcoin? Or go for the Blockclock? I truly appreciate any opinions.
-
-42m ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
-
-**[Is Bitcoin in Trouble? 10-Year Yield Nears Danger Zone as War Risks Spill Into Markets Despite Price Gains](https://finance.yahoo.com/markets/crypto/articles/bitcoin-trouble-10-yield-nears-123920652.html)**
-
-The U.S. 10-year Treasury yield is climbing towards what analysts describe as the "danger zone." Rising yields strengthen the dollar and create structural pressure on ...
-
-Yahoo Finance • 35m ago
-
----
 
 **[Bitcoin analysis: Here's how U.S. Treasury notes could shape Trump's Iran war and BTC](https://www.coindesk.com/markets/2026/03/24/here-s-where-treasuries-could-shape-trump-s-iran-war-and-bitcoin-moves)**
 
 Treasury yields and swap spreads could eventually pressure the Trump administration to moderate the conflict, analysts argue.
 
-CoinDesk • 5h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -177,21 +167,37 @@ CoinDesk • 5h ago
 
 Bitcoin BITSTAMP:BTCUSD has been among the best-performing assets amid the US–Iran war, but signs of upside exhaustion are emerging due to an “out-of-control” bond market.Key takeaways:Oil shock may send US yields soaring over 5%Since Feb. 28, when the US and Israel attacked Iran, the benchmark 10…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
-**[Bitcoin Rises After Trump Points to Delay in Iran Strikes](https://ca.finance.yahoo.com/news/bitcoin-rises-trump-points-delay-125029760.html)**
+**[Is Bitcoin in Trouble? 10-Year Yield Nears Danger Zone as War Risks Spill Into Markets Despite Price Gains](https://finance.yahoo.com/markets/crypto/articles/bitcoin-trouble-10-yield-nears-123920652.html)**
 
-(Bloomberg) -- Bitcoin rose alongside equities while oil prices fell after US President Donald Trump said the US had begun talks with Iran, raising hopes for a deal to ease the conflict.The original cryptocurrency advanced more than 5% to trade as high as $71,794 in New York before paring some of the gain. Smaller tokens including Ether and Solana also rose. Bitcoin had earlier on Monday been fluctuating around a two-week low, sliding as far as $67,371 — its lowest level since March 9. The token
+The U.S. 10-year Treasury yield is climbing towards what analysts describe as the "danger zone." Rising yields strengthen the dollar and create structural pressure on ...
 
-Yahoo! Finance Canada • 23h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[US’s Mysterious $15 Billion Crypto Haul Faces Questions in Court](https://www.bloomberg.com/news/articles/2026-03-24/us-s-mysterious-15-billion-crypto-haul-faces-questions-in-court)**
+**[Bitcoin Price Spikes As Trump Delays Strikes Against Iran](https://www.investors.com/news/bitcoin-price-trump-iran-delay-cryptocurrency-stocks-oil-price-futures-gold/)**
 
-Bloomberg.com • 2h ago
+Investor's Business Daily • 17h ago
+
+---
+
+**[Bitcoin Tops $71,000 as Trump Postpones Iran Power Plant Strike Plans](https://finance.yahoo.com/markets/crypto/articles/bitcoin-tops-71-000-trump-121115129.html)**
+
+The price move came after Donald Trump touted "productive conversations" regarding a cessation of hostilities in the Middle East.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin, ether, solana prices move higher as Gulf allies inch toward joining Iran war](https://www.coindesk.com/markets/2026/03/24/bitcoin-ether-solana-prices-move-higher-as-gulf-allies-inch-toward-joining-iran-war)**
+
+Crypto recovered on Tuesday morning even as Monday's relief rally unraveled across traditional markets, with oil jumping 4% on reports that Saudi Arabia and the UAE are moving to join the conflict.
+
+CoinDesk • 9h ago
 
 ---
 
@@ -199,35 +205,29 @@ Bloomberg.com • 2h ago
 
 Quantum computers are powerful, but not powerful enough to break Bitcoin.
 
-The Motley Fool • 53m ago
+The Motley Fool • 2h ago
 
 ---
 
-**[Strategy news: MSTR acquired 1,031 bitcoin last week at average price of $74,326 each.](https://www.coindesk.com/markets/2026/03/23/strategy-returns-to-small-bitcoin-purchases-adding-usd76-6-million-in-btc-last-week)**
+**[Australia’s $105 Billion Hostplus Eyes Bitcoin Investments for Nearly Two Million Pension Members](https://bitcoinmagazine.com/news/australias-105-billion-hostplus-bitcoin)**
 
-Led by Executive Chairman Michael Saylor, Strategy acquired 1,031 bitcoin, bringing holdings to 762,099 coins.
+Australia’s massive Hostplus pension fund is exploring offering Bitcoin and other digital assets to its nearly two million members.
 
-CoinDesk • 1d ago
+Bitcoin Magazine • 1h ago
 
 ---
 
-**[Saylor’s Strategy Returns to Common Stock for Latest Bitcoin Buy](https://www.bloomberg.com/news/articles/2026-03-23/saylor-s-strategy-returns-to-common-stock-for-latest-bitcoin-buy)**
+**[MicroStrategy Is Down 56.9% YTD, Yet Still Buying Bitcoin by the Billions](https://finance.yahoo.com/markets/crypto/articles/microstrategy-down-56-9-ytd-135804850.html)**
 
-Bloomberg.com • 18h ago
+A popular Reddit investment, Strategy (NASDAQ:MSTR) has lost 56.9% of its value, recently trading near $138, yet continues to buy bitcoin at a pace that has made it the largest U.S. equity issuer for two consecutive years. Reddit’s composite sentiment score sits at 28 out of 100, firmly bearish, with debate concentrated in derivatives communities. ... MicroStrategy Is Down 56.9% YTD, Yet Still Buying Bitcoin by the Billions
+
+Yahoo Finance • 42m ago
 
 ---
 
 **[Strategy Eyes $78 Bil Bitcoin War Chest. Be Skeptical.](https://www.investors.com/news/mstr-stock-strategy-58-billion-bitcoin-war-chest/)**
 
-Investor's Business Daily • 15h ago
-
----
-
-**[Bitcoin: What's Really Happening Despite The Bear Market (Cryptocurrency:BTC-USD)](https://seekingalpha.com/article/4885212-bitcoin-whats-really-happening-despite-the-bear-market)**
-
-The Bitcoin rice has reset far more than its adoption, with institutional and corporate demand broadening meaningfully.
-
-Seeking Alpha • 15m ago
+Investor's Business Daily • 16h ago
 
 ---
 
@@ -299,7 +299,7 @@ million in crypto liquidations. In four hours. Today. Bitcoin whipsawed from $67
 
 📺 Money Talks
 
-👁️ 3K • 👍 86 • 💬 10 • ⏱️ 13:33 • 15h ago
+👁️ 3K • 👍 86 • 💬 10 • ⏱️ 13:33 • 16h ago
 
 ---
 
@@ -319,7 +319,7 @@ Nobody knows how screwed everyone actually is right now. Not Iran. Not the Gulf.
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 2K • 💬 220 • ⏱️ 15:05 • 13h ago
+👁️ 17K • 👍 2K • 💬 220 • ⏱️ 15:05 • 15h ago
 
 ---
 
@@ -329,7 +329,7 @@ Bitcoin #Crypto #Finance Guests Andrew Parish: https://x.com/AP_Abacus Tillman H
 
 📺 The Wolf Of All Streets
 
-👁️ 659 • 👍 70 • 33m ago
+👁️ 659 • 👍 70 • 1h ago
 
 ---
 
@@ -359,7 +359,7 @@ This is the second iOS-specific attack targeting crypto wallets. If you're still
 
 📺 Cyber Scrilla
 
-👁️ 7K • 👍 301 • 💬 53 • ⏱️ 1:09 • 20h ago
+👁️ 7K • 👍 301 • 💬 53 • ⏱️ 1:09 • 22h ago
 
 ---
 
@@ -379,7 +379,7 @@ In today's video, we're breaking down why this specific "Crash Signal" has a hig
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 435 • 💬 13 • ⏱️ 1:10:53 • 21h ago
+👁️ 7K • 👍 435 • 💬 13 • ⏱️ 1:10:53 • 22h ago
 
 ---
 
@@ -389,7 +389,7 @@ Every reason why a test of the 20 WEMA is coming, and if it breaks we will enter
 
 📺 Crypto Jebb
 
-👁️ 7K • 👍 347 • 💬 105 • ⏱️ 12:00 • 19h ago
+👁️ 7K • 👍 347 • 💬 105 • ⏱️ 12:00 • 20h ago
 
 ---
 

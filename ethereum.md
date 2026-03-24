@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-24T13:15:04.331572+00:00'
+updated: '2026-03-24T14:41:03.826653+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
+- news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 24, 2026 at 13:15 UTC  
+**Last Updated:** March 24, 2026 at 14:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.1%  
-**7d:** -2.3%  
-**30d:** +16.1%  
-**90d:** -25.8%  
-**1y:** +4.4%  
+**24h:** +0.3%  
+**7d:** -3.3%  
+**30d:** +14.9%  
+**90d:** -26.6%  
+**1y:** +3.3%  
 
 ---
 
@@ -72,13 +72,21 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
 **[EthStaker: Ethereum Staking Survey | Any type of staker or even non-stakers are called to respond](https://www.reddit.com/r/ethereum/comments/1s2419r/ethstaker_ethereum_staking_survey_any_type_of/)**
 
-🔗 [ethstaker.org](https://ethstaker.org/forms/staking-landscape-survey-2026) • 8h ago
+🔗 [ethstaker.org](https://ethstaker.org/forms/staking-landscape-survey-2026) • 10h ago
+
+---
+
+**[Ethereum rollups deployment platforms in 2026](https://www.reddit.com/r/ethereum/comments/1s2fkp7/ethereum_rollups_deployment_platforms_in_2026/)**
+
+Trying to get a realistic picture of where rollup deployment is right now, not the hype version. I've been reading through documentation for most of the major platforms and the gap between what they promise and what teams actually experience seems pretty significant based on forum posts and Discord convos. Specifically curious about a few things. How much does your framework choice actually constrain you after deployment? If you start on OP Stack and realize Arbitrum Orbit would've been better for your use case, how painful is that migration realistically? Also the maintenance burden question. Every platform promises "one-click deployment" but what does post-launch actually look like for the infra team? Are you constantly babysitting the thing or does it run without much intervention? Asking because I keep seeing projects underestimate this and then burn significant engineering time on infra that should be going to product. What's been everyone's experience?
+
+3m ago
 
 ---
 
@@ -136,27 +144,21 @@ US SEC securities laws application to crypto, fast confirmation rule, EF mandate
 
 ---
 
-**[Ethereum Cuts Bridge Times by 98%](https://www.reddit.com/r/ethereum/comments/1s0mzw8/ethereum_cuts_bridge_times_by_98/)**
-
-🔗 [financefeeds.com](https://financefeeds.com/crypto-news-ethereum-cuts-bridge-times-by-98-while-pepeto-hands-early-believers-100x-presale-gains/) • 1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
 **[How L1 and L2s can build the strongest possible Ethereum](https://blog.ethereum.org/2026/03/23/l1-l2-ethereum)**
 
-Ethereum Foundation Blog • 19h ago
+Ethereum Foundation Blog • 21h ago
 
 ---
 
-**[Current price of Ethereum for March 24, 2026](https://fortune.com/article/price-of-ethereum-03-24-2026/)**
+**[Ethereum Entered 'Generational Buy Zone,' Says Analyst: 'Precursor To Massive Structural Bull Rallies'](https://finance.yahoo.com/markets/crypto/articles/ethereum-entered-generational-buy-zone-150120991.html)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Cryptocurrency analyst Ali Martinez said on Thursday that Ethereum has entered a generational “Buy Zone,” hinting at major bull runs on the horizon. What History Says In an X post, Martinez pointed out that Ethereum’s Market Value to Realized Value...
 
-Fortune • 7m ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -164,7 +166,7 @@ Fortune • 7m ago
 
 BitMine Immersion Technologies now holds more than $10 billion worth of Ethereum, leading the ETH treasury pack as the asset rebounds.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -180,13 +182,13 @@ CoinDesk • 1d ago
 
 Bitmine's total crypto and cash holdings currently stand at $11 billion, and the company owns around 3.9% of Ethereum's circulating supply.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Rise. How the Iran War Has Made Crypto Calls Tougher.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqdMPuyuEQ97LMSjoAYyx8OhG7mC8lvgNjTkXOHNYtZhl8OfaOfKWKPn&gaa_ts=69c291c4&gaa_sig=s3o7LSxS83XJ2QROj0GUbByYHL538ysKHT_Wh7IgpjzRq5WaTXuDGUTRVWtRpbLZ1gQZUtFvaeFmbZzRYhzmPA%3D%3D)**
+**[Bitcoin, Ethereum, XRP Rise. How the Iran War Has Made Crypto Calls Tougher.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqeee1hMQbqDg048OaB_BbBhoZbvgGIIJPbFihCex5bei9t9MtqUViTx&gaa_ts=69c2a5e9&gaa_sig=nh7HPa2ILa4KTI2cIkYqUkQ7ySesd3IY1d20PdliMwg2oa6LRa9F2Eau17Yx1fIQnbj9cofDghUZXJzdvtZ6fQ%3D%3D)**
 
-Barron's • 1h ago
+Barron's • 3h ago
 
 ---
 
@@ -195,6 +197,14 @@ Barron's • 1h ago
 Three cryptocurrencies look like good candidates to rebound this year.
 
 The Motley Fool • 1d ago
+
+---
+
+**[BlackRock's ETHB: A Potential Contender To Grayscale's ETH (NASDAQ:ETHB)](https://seekingalpha.com/article/4885251-blackrocks-ethb-a-potential-contender-to-grayscales-eth?source=feed_all_articles)**
+
+BlackRock’s iShares Staked Ethereum ETF adds ETH exposure plus staking yield, with low fees and a high staking ratio. Click to read my latest analysis of ETHB.
+
+Seeking Alpha • 1h ago
 
 ---
 
@@ -210,15 +220,7 @@ TradingView • 1d ago
 
 MoonPay has launched the Open Wallet Standard (OWS), an open source framework designed to give AI agents a consistent way to hold funds and sign
 
-ledgerinsights.com • 21h ago
-
----
-
-**[Crypto News: Pepeto Binance Executive Updates And Ethereum Price Prediction Got A Lift While Shiba Inu Pattern Returns](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-binance-executive-updates-and-ethereum-price-prediction-got-a-lift-while-shiba-inu-pattern-returns-1035955765)**
-
-Dubai, UAE, March  23, 2026  (GLOBE NEWSWIRE) -- The Ethereum based crypto Pepeto just entered its last exchange testing phase after a senior Bina...
-
-markets.businessinsider.com • 15h ago
+ledgerinsights.com • 23h ago
 
 ---
 
@@ -242,7 +244,7 @@ BlackRock just launched a staking Ethereum ETF—but is it really a win for inve
 
 📺 Coin Bureau
 
-👁️ 23K • 👍 930 • 💬 97 • ⏱️ 18:11 • 2d ago
+👁️ 23K • 👍 930 • 💬 97 • ⏱️ 18:11 • 3d ago
 
 ---
 
@@ -262,7 +264,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 170 • 💬 5 • ⏱️ 4:00 • 18h ago
+👁️ 2K • 👍 170 • 💬 5 • ⏱️ 4:00 • 20h ago
 
 ---
 
@@ -272,7 +274,7 @@ Free Ethereum in 2026 — myth or real opportunity? In this video, I run a real 
 
 📺 Leo Collins
 
-👁️ 116 • 👍 499 • 💬 4 • ⏱️ 4:16 • 15m ago
+👁️ 116 • 👍 499 • 💬 4 • ⏱️ 4:16 • 1h ago
 
 ---
 
@@ -292,7 +294,7 @@ Trade Crypto Futures on Blofin exchange and get up to 9400USDT cashback on tradi
 
 📺 Intelligent Cryptocurrency - Dirk Crypto Diggy
 
-👁️ 97 • 👍 11 • 💬 1 • ⏱️ 5:56 • 5h ago
+👁️ 97 • 👍 11 • 💬 1 • ⏱️ 5:56 • 6h ago
 
 ---
 
@@ -302,7 +304,7 @@ BITCOIN: This Could Change EVERYTHING (for now)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 5K • 👍 219 • 💬 39 • ⏱️ 16:35 • 12h ago
+👁️ 5K • 👍 219 • 💬 39 • ⏱️ 16:35 • 13h ago
 
 ---
 
@@ -312,7 +314,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 5K • 👍 4K • 2h ago
+👁️ 5K • 👍 4K • 4h ago
 
 ---
 
@@ -322,7 +324,7 @@ Ethereum is on track to reach a trillion-dollar market cap. With its current gro
 
 📺 CoinBros
 
-👁️ 50 • ⏱️ 0:55 • 10h ago
+👁️ 50 • ⏱️ 0:55 • 11h ago
 
 ---
 
