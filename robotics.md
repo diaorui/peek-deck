@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-24T11:48:09.657985+00:00'
+updated: '2026-03-24T13:15:04.334807+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 24, 2026 at 11:48 UTC  
+**Last Updated:** March 24, 2026 at 13:15 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Marc Benioff on 𝕏: https://x.com/Benioff/status/2036252519308075219
 
-8h ago
+9h ago
 
 ---
 
@@ -44,19 +44,19 @@ From Marc Benioff on 𝕏: https://x.com/Benioff/status/2036252519308075219
 
 From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/2036127368088080867 On Youtube: Kyber Labs - Wet Lab Demo: https://www.youtube.com/watch?v=iM7WjQYlFvM Kyber Labs Demos: https://kyberlabs.ai/demos
 
-2h ago
+3h ago
 
 ---
 
 **[Autonomous transport vehicles handling cargo operations at a modern port](https://www.reddit.com/r/robotics/comments/1s1m49a/autonomous_transport_vehicles_handling_cargo/)**
 
-19h ago
+20h ago
 
 ---
 
 **[Roadrunner, the latest robot from the Robotics and AI Institute, is a bipedal, wheeled robot for multi-modal locomotion](https://www.reddit.com/r/robotics/comments/1s1jo4q/roadrunner_the_latest_robot_from_the_robotics_and/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -64,7 +64,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/203612736808808086
 
 I built this robot to perform with acrobats in new and interesting ways. See Acrobot.nl for more info, and as always I'm happy to answer questions! This video was taken in Krystallpalast in Germany where the Acrobot plays for the next 3 months.
 
-23h ago
+1d ago
 
 ---
 
@@ -72,7 +72,15 @@ I built this robot to perform with acrobats in new and interesting ways. See Acr
 
 I'd like to see them tackle this one... You might not like to hear this or even understand it just yet but, "I'm sorry sir, our milkshake machine isn't working..." If robots are to be implemented in the future then it would seem if they can tackle this one above then they might have a leg to stand on instead of just easy monotonous tasks only... (As a side note, we're trying to get an auto(robot) mower in the family but even this still lag behind too. It's interesting since they've had many years already to learn off of household robot vacuums. Why the delay?)
 
-32m ago
+1h ago
+
+---
+
+**[The robot phone dancing at MWC actually surprised me](https://www.reddit.com/r/robotics/comments/1s2c0ao/the_robot_phone_dancing_at_mwc_actually_surprised/)**
+
+Not gonna lie, tech shows can be dry. But seeing a phone with a tiny arm dance alongside a robot at the Honor booth was kind of delightful. It was a reminder that tech can be playful. I don't know if I'd ever need a dancing phone, but I appreciate brands showing personality.
+
+1h ago
 
 ---
 
@@ -94,15 +102,7 @@ This is Ricket, a robot project I’ve been building for the past year, programm
 
 **[IEEE RAS / Czech Technical University in Multi-Robot Systems Summer Camp in Prague -- learn ROS, earn course credits, and visit Prague](https://www.reddit.com/r/robotics/comments/1s1uy0i/ieee_ras_czech_technical_university_in_multirobot/)**
 
-🔗 [mrs.fel.cvut.cz](https://mrs.fel.cvut.cz/summer-school-2026/) • 13h ago
-
----
-
-**[How are all these robots moving in perfectly straight lines and having GPS?](https://www.reddit.com/r/robotics/comments/1s1tbaw/how_are_all_these_robots_moving_in_perfectly/)**
-
-Genuine question, I spent some time playing with microcontrollers, encoders, and accelerometers. I will say my weak point was PID, but at the same time I keep seeing all these videos about robotics moving perfectly down a street or in a line or going to a specific location. Can someone point me in the right direction with how they do that? I heard about GPS chips but.. is there any reliable MCU’s or what types of chips, parts, do you use that make it easier to program a robot to move in these very accurate movements? Would appreciate any microcontroller suggestions, or reliable accelerometers. I know accelerometers tend to have the error over time that can be hard to fix but how does one erase that or minimize it if a robot keeps moving? Thank you
-
-14h ago
+🔗 [mrs.fel.cvut.cz](https://mrs.fel.cvut.cz/summer-school-2026/) • 15h ago
 
 ---
 
@@ -112,21 +112,21 @@ Genuine question, I spent some time playing with microcontrollers, encoders, and
 
 **[UT researchers develop sensitive robot hands](https://www.axios.com/local/austin/2026/03/24/texas-researchers-robot-hands)**
 
-Axios • 27m ago
+Axios • 1h ago
 
 ---
 
 **[Bird‑like robots promise greater flexibility and control than drones](https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html)**
 
-Tech Xplore • 18h ago
+Tech Xplore • 19h ago
 
 ---
 
-**[Regional STEM competition brings nearly 40 robotics teams to Appleton East this weekend](https://fox11online.com/good-day-wi/regional-stem-competition-brings-nearly-40-robotics-teams-to-appleton-east-this-weekend)**
+**[Agile Robots becomes the latest robotics company to partner with Google DeepMind](https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/)**
 
-APPLETON (WLUK) -- See robots in action at a STEM event at Appleton East High School this weekend.Almost 40 high school robotics teams from across the region ar
+Agile Robots will incorporate Google DeepMind's robotics foundation models into its bots while collecting data for the AI research lab.
 
-WLUK • 2d ago
+TechCrunch • 1h ago
 
 ---
 
@@ -138,19 +138,19 @@ Nature • 1d ago
 
 ---
 
+**[McDonald's trials humanoid robots in Shanghai for customer service](https://interestingengineering.com/ai-robotics/mcdonalds-humanoid-robots-deliver-food)**
+
+A McDonald's restaurant in Shanghai has recently piloted humanoid robots to deliver food and interact with diners.
+
+Interesting Engineering • 23h ago
+
+---
+
 **[GMEX Robotics Receives AU$4.2 Million First Commercial Order from Leading Australian Food & Beverage Group](https://finance.yahoo.com/sectors/technology/articles/gmex-robotics-receives-au-4-124500890.html)**
 
 SYDNEY, Australia, March 23, 2026 (GLOBE NEWSWIRE) -- GMEX Robotics Corporation (NASDAQ: GMEX) (“GMEX Robotics” or the “Company”), a developer of AI-powered robotic technologies, announces that it has entered into a purchase agreement with a leading Australian food and beverage group (“FBG”) for the deployment of the Company’s intelligent culinary robotics systems, including its recently announced personal robotic chef - 2Fculinary AI, and the purchase order from this FBG. The AU$4.2 million agr
 
-Yahoo Finance • 23h ago
-
----
-
-**[Hyundai-backed humanoid robots to transform welding in shipyards](https://interestingengineering.com/ai-robotics/hyundai-persona-humanoid-robot-welding-shipyard)**
-
-Hyundai partners Persona AI to develop humanoid welding robots, advancing automation across global shipyard operations
-
-Interesting Engineering • 22h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -158,15 +158,15 @@ Interesting Engineering • 22h ago
 
 Why Boston Dynamics, Terabase Energy, Lucid Bots, and Symbotic are among Fast Company's Most Innovative Companies in robotics and engineering for 2026.
 
-Fast Company • 44m ago
+Fast Company • 2h ago
 
 ---
 
-**[Ferndale middle school robotics team to head to World Championship after back-to-back state titles](https://www.clickondetroit.com/news/local/2026/03/23/ferndale-middle-school-robotics-team-to-head-to-world-championship-after-back-to-back-state-titles/)**
+**[Regional STEM competition brings nearly 40 robotics teams to Appleton East this weekend](https://fox11online.com/good-day-wi/regional-stem-competition-brings-nearly-40-robotics-teams-to-appleton-east-this-weekend)**
 
-The Giggle Pickles, a robotics team from Ferndale Middle School, secured their second consecutive Michigan State Championship and earned an invitation to the 2026 FIRST Tech Challenge World Championship in Houston.
+APPLETON (WLUK) -- See robots in action at a STEM event at Appleton East High School this weekend.Almost 40 high school robotics teams from across the region ar
 
-ClickOnDetroit | WDIV Local 4 • 20h ago
+WLUK • 2d ago
 
 ---
 
@@ -196,7 +196,7 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 📺 CNET
 
-👁️ 13K • 👍 406 • 💬 23 • ⏱️ 5:50 • 1d ago
+👁️ 14K • 👍 419 • 💬 23 • ⏱️ 5:50 • 2d ago
 
 ---
 
@@ -206,7 +206,7 @@ This week in robotics got kind of ridiculous. South Korea showed off a humanoid 
 
 📺 AI Revolution
 
-👁️ 100K • 👍 2K • 💬 108 • ⏱️ 14:31 • 1d ago
+👁️ 107K • 👍 2K • 💬 111 • ⏱️ 14:31 • 1d ago
 
 ---
 
@@ -226,17 +226,7 @@ COGLET KICKSTARTER LAUNCH: ...
 
 📺 Will Cogley
 
-👁️ 19K • 👍 1K • 💬 72 • ⏱️ 10:35 • 3d ago
-
----
-
-**[Unique Motion Chaining | 197E Ethereus | Robot Rundown](https://www.youtube.com/watch?v=2hLXM46Pk64)**
-
-Unique Motion Chaining | 197E Ethereus | Robot Rundown 197E Ethereus shows off their mid-goal de-score, front stage ...
-
-📺 FUN Robotics Network
-
-👁️ 3K • 👍 90 • 💬 7 • ⏱️ 2:42 • 13h ago
+👁️ 19K • 👍 1K • 💬 72 • ⏱️ 10:35 • 4d ago
 
 ---
 
@@ -246,37 +236,7 @@ Subscribe To My Newsletter - https://aigrid.beehiiv.com/subscribe Get your Free 
 
 📺 TheAIGRID
 
-👁️ 13K • 👍 250 • 💬 45 • ⏱️ 10:30 • 5d ago
-
----
-
-**[Out of control robot smashes up restaurant as waitress desperately attempts to drag it away](https://www.youtube.com/watch?v=ZyohmMJA5Ao)**
-
-THIS is the hilarious moment a boogying robot dances too hard and sends food and cutlery flying in a high end restaurant.
-
-📺 The Sun
-
-👁️ 306K • 👍 4K • 💬 2K • ⏱️ 2:07 • 5d ago
-
----
-
-**[Bezos is raising $100 billion to replace workers with robots](https://www.youtube.com/watch?v=bnWp0HVneRU)**
-
-Jeff Bezos, one of the richest men on earth, is raising $100 billion to replace workers with robots around the world. The oligarchs ...
-
-📺 Senator Bernie Sanders
-
-👁️ 114K • 👍 11K • 💬 1K • ⏱️ 0:49 • 3d ago
-
----
-
-**[Engineering Disney’s Olaf Robot](https://www.youtube.com/watch?v=zi0xi_UwvBU)**
-
-How do you build a robot with a massive head, no visible legs, and motors that overheat? ❄️   Explaining the engineering ...
-
-📺 ZAUEY (Claire Zau)
-
-👁️ 11K • 👍 2K • 💬 46 • ⏱️ 2:09 • 1d ago
+👁️ 13K • 👍 251 • 💬 45 • ⏱️ 10:30 • 5d ago
 
 ---
 
@@ -286,7 +246,47 @@ Do you want to see a humanoid AI lab from the inside? I do – join me and let's
 
 📺 Andreas Klinger @ PROTOTYPE
 
-👁️ 13K • 👍 516 • 💬 38 • ⏱️ 18:52 • 3d ago
+👁️ 13K • 👍 525 • 💬 38 • ⏱️ 18:52 • 4d ago
+
+---
+
+**[Out of control robot smashes up restaurant as waitress desperately attempts to drag it away](https://www.youtube.com/watch?v=ZyohmMJA5Ao)**
+
+THIS is the hilarious moment a boogying robot dances too hard and sends food and cutlery flying in a high end restaurant.
+
+📺 The Sun
+
+👁️ 308K • 👍 4K • 💬 2K • ⏱️ 2:07 • 5d ago
+
+---
+
+**[Unique Motion Chaining | 197E Ethereus | Robot Rundown](https://www.youtube.com/watch?v=2hLXM46Pk64)**
+
+Unique Motion Chaining | 197E Ethereus | Robot Rundown 197E Ethereus shows off their mid-goal de-score, front stage ...
+
+📺 FUN Robotics Network
+
+👁️ 3K • 👍 97 • 💬 7 • ⏱️ 2:42 • 14h ago
+
+---
+
+**[Engineering Disney’s Olaf Robot](https://www.youtube.com/watch?v=zi0xi_UwvBU)**
+
+How do you build a robot with a massive head, no visible legs, and motors that overheat? ❄️   Explaining the engineering ...
+
+📺 ZAUEY (Claire Zau)
+
+👁️ 14K • 👍 2K • 💬 56 • ⏱️ 2:09 • 1d ago
+
+---
+
+**[Dancing robot goes rogue in hot pot restaurant](https://www.youtube.com/watch?v=DfnIEWpbMU8)**
+
+Video shows restaurant employees struggling to restrain a dancing robot that went rogue in a hot pot restaurant in California.
+
+📺 NBC News
+
+👁️ 205K • 👍 2K • 💬 663 • ⏱️ 3:38 • 5d ago
 
 ---
 

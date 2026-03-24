@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-24T11:48:09.648583+00:00'
+updated: '2026-03-24T13:15:04.325446+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- news
 - videos
 - cryptocurrency
-- news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 24, 2026 at 11:48 UTC  
+**Last Updated:** March 24, 2026 at 13:15 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** +0.1%  
-**30d:** +10.3%  
-**90d:** -18.5%  
-**1y:** -18.4%  
+**24h:** -0.8%  
+**7d:** -0.5%  
+**30d:** +9.6%  
+**90d:** -19.0%  
+**1y:** -18.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1423.70B
+**Market Cap:** $1419.96B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--43.4%
+-43.8%
 
 **All-Time Low:** $67.81
-+105064.4%
++104315.3%
 
 ---
 
@@ -77,31 +77,23 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Don't you just love and vague mysterious guys! lol](https://www.reddit.com/r/Bitcoin/comments/1s26awy/dont_you_just_love_and_vague_mysterious_guys_lol/)**
-
-5h ago
-
----
-
 **[One hell of a life](https://www.reddit.com/r/Bitcoin/comments/1s29600/one_hell_of_a_life/)**
 
 6 figs Bitcoin guys : BMW, ig model girlfriend 7 figs Bitcoin guys : Lambo, Dubai penthouse 8 figs Bitcoin guys:
 
-2h ago
+3h ago
+
+---
+
+**[Don't you just love and vague mysterious guys! lol](https://www.reddit.com/r/Bitcoin/comments/1s26awy/dont_you_just_love_and_vague_mysterious_guys_lol/)**
+
+6h ago
 
 ---
 
 **[They don't know what's coming](https://www.reddit.com/r/Bitcoin/comments/1s1oscn/they_dont_know_whats_coming/)**
 
-17h ago
-
----
-
-**[Strategy Acquires 1,031 BTC and Now Holds 762,099 BTC](https://www.reddit.com/r/Bitcoin/comments/1s1kzqq/strategy_acquires_1031_btc_and_now_holds_762099/)**
-
-March 23, 2026
-
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-1031-btc-and-now-holds-762099-btc_03-23-2026) • 19h ago
+18h ago
 
 ---
 
@@ -109,7 +101,31 @@ March 23, 2026
 
 I have about 2k to start with. I just need to know how this works? Do I let it sit or do I need to learn how to trade? Help 😭 I’m so scared to buy these courses from these “traders”..
 
+7h ago
+
+---
+
+**[Real Talk About People Who Give Up](https://www.reddit.com/r/Bitcoin/comments/1s27412/real_talk_about_people_who_give_up/)**
+
+everyone who says theyre "over bitcoin" just proves they never really got what it was about to begin with like i get it the price swings can mess with your head especially when youre trying to stay focused on other stuff in life but if you actually understand the technology and what its trying to solve you dont just walk away because of some volatility been thinking about this a lot lately while driving around for work and it just seems obvious that the people bailing out were never in it for the right reasons anyway
+
 5h ago
+
+---
+
+**[Strategy Acquires 1,031 BTC and Now Holds 762,099 BTC](https://www.reddit.com/r/Bitcoin/comments/1s1kzqq/strategy_acquires_1031_btc_and_now_holds_762099/)**
+
+March 23, 2026
+
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-1031-btc-and-now-holds-762099-btc_03-23-2026) • 21h ago
+
+---
+
+**[Daily Discussion, March 24, 2026](https://www.reddit.com/r/Bitcoin/comments/1s25tfl/daily_discussion_march_24_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+7h ago
 
 ---
 
@@ -125,31 +141,15 @@ I am new to crypto, what would have caused this?
 
 BTC is for the world, all it takes is to believe and act.
 
-🔗 [X (formerly Twitter)](https://x.com/0xpicklecati/status/1917528745906430274?s=46) • 6h ago
+🔗 [X (formerly Twitter)](https://x.com/0xpicklecati/status/1917528745906430274?s=46) • 7h ago
 
 ---
 
-**[Here's How Much Bitcoin Has Surged Past the S&P 500 Since the 2020 Covid Crash](https://www.reddit.com/r/Bitcoin/comments/1s1v49f/heres_how_much_bitcoin_has_surged_past_the_sp_500/)**
+**[Advice for Beginners](https://www.reddit.com/r/Bitcoin/comments/1s2cgph/advice_for_beginners/)**
 
-TLDR: If you invested $10,000 in Bitcoin back on March 23, 2020, your investment today would be in six figures, at just over $100,000. By comparison, if you invested the same amount in the S&P 500 via index funds, then you'd be up to around $29,000. While both investments would have been highly profitable for you, there's no question that going with Bitcoin has proven to be much better.
+Good morning! I’m thinking about getting a gift for my partner. He already has a Coldcard Q and has invested some money (not a lot) in Bitcoin. For his birthday, I’m torn between the well-known Blockclock or a NerdQaxe++. He’s never mined before, but it seems like a cool and original gift. Something the Blockclock doesn’t offer. I’ve also considered a less powerful option, the Nerdaxe Gamma, since it uses less energy and, in the end, it would just be for fun. What do you think? Is it silly to buy something for mining just for fun? Would it be better to gift him that money in Bitcoin? Or go for the Blockclock? I truly appreciate any opinions.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/heres-much-bitcoin-surged-past-182000674.html?guccou) • 13h ago
-
----
-
-**[Daily Discussion, March 24, 2026](https://www.reddit.com/r/Bitcoin/comments/1s25tfl/daily_discussion_march_24_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-5h ago
-
----
-
-**[Unstoppable Bitcoin Mining Is The Way](https://www.reddit.com/r/Bitcoin/comments/1s2awa5/unstoppable_bitcoin_mining_is_the_way/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=mBMndNOJZrY) • 31m ago
+42m ago
 
 ---
 
@@ -157,75 +157,77 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "bitcoin"
 
-**[Here's how U.S. Treasury notes could shape Trump's Iran war and bitcoin](https://www.coindesk.com/markets/2026/03/24/here-s-where-treasuries-could-shape-trump-s-iran-war-and-bitcoin-moves)**
+**[Is Bitcoin in Trouble? 10-Year Yield Nears Danger Zone as War Risks Spill Into Markets Despite Price Gains](https://finance.yahoo.com/markets/crypto/articles/bitcoin-trouble-10-yield-nears-123920652.html)**
+
+The U.S. 10-year Treasury yield is climbing towards what analysts describe as the "danger zone." Rising yields strengthen the dollar and create structural pressure on ...
+
+Yahoo Finance • 35m ago
+
+---
+
+**[Bitcoin analysis: Here's how U.S. Treasury notes could shape Trump's Iran war and BTC](https://www.coindesk.com/markets/2026/03/24/here-s-where-treasuries-could-shape-trump-s-iran-war-and-bitcoin-moves)**
 
 Treasury yields and swap spreads could eventually pressure the Trump administration to moderate the conflict, analysts argue.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
+
+---
+
+**[What happens to Bitcoin if US bond yields soar above 5%?](https://www.tradingview.com/news/cointelegraph:c2bede573094b:0-what-happens-to-bitcoin-if-us-bond-yields-soar-above-5/)**
+
+Bitcoin BITSTAMP:BTCUSD has been among the best-performing assets amid the US–Iran war, but signs of upside exhaustion are emerging due to an “out-of-control” bond market.Key takeaways:Oil shock may send US yields soaring over 5%Since Feb. 28, when the US and Israel attacked Iran, the benchmark 10…
+
+TradingView • 2h ago
+
+---
+
+**[Bitcoin Rises After Trump Points to Delay in Iran Strikes](https://ca.finance.yahoo.com/news/bitcoin-rises-trump-points-delay-125029760.html)**
+
+(Bloomberg) -- Bitcoin rose alongside equities while oil prices fell after US President Donald Trump said the US had begun talks with Iran, raising hopes for a deal to ease the conflict.The original cryptocurrency advanced more than 5% to trade as high as $71,794 in New York before paring some of the gain. Smaller tokens including Ether and Solana also rose. Bitcoin had earlier on Monday been fluctuating around a two-week low, sliding as far as $67,371 — its lowest level since March 9. The token
+
+Yahoo! Finance Canada • 23h ago
 
 ---
 
 **[US’s Mysterious $15 Billion Crypto Haul Faces Questions in Court](https://www.bloomberg.com/news/articles/2026-03-24/us-s-mysterious-15-billion-crypto-haul-faces-questions-in-court)**
 
-Bloomberg.com • 48m ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[Eric Trump-Linked American Bitcoin Says It's Turning Into A BTC 'Accumulation Machine,' But ABTC Stock Still Can't Shake Off The Woes](https://finance.yahoo.com/markets/crypto/articles/eric-trump-linked-american-bitcoin-094614482.html)**
+**[Cathie Wood of Ark Invest Just Delivered Fantastic News to Bitcoin Investors Everywhere](https://www.fool.com/investing/2026/03/24/cathie-wood-ark-invest-delivered-news-bitcoin/)**
 
-American Bitcoin Corp. positioned itself as “the absolute accumulation machine” for Bitcoin on Sunday, while crediting its majority owner and key infrastructure partner, Hut 8 Corp.. American Bitcoin Hails Its ‘Growth’ American Bitcoin posted a video montage on X, showing...
+Quantum computers are powerful, but not powerful enough to break Bitcoin.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin advances to $71,000 while derivatives signal cautious bullishness: Crypto Markets Today](https://www.coindesk.com/markets/2026/03/24/bitcoin-leads-crypto-rebound-to-usd71-000-as-usd550-million-in-shorts-liquidated)**
-
-BTC climbs despite escalating Middle East tensions, outperforming gold as altcoins rally and derivatives data signals cautious but improving market sentiment.
-
-CoinDesk • 1h ago
+The Motley Fool • 53m ago
 
 ---
 
-**[Strategy Eyes $78 Bil Bitcoin War Chest. Be Skeptical.](https://www.investors.com/news/mstr-stock-strategy-58-billion-bitcoin-war-chest/)**
+**[Strategy news: MSTR acquired 1,031 bitcoin last week at average price of $74,326 each.](https://www.coindesk.com/markets/2026/03/23/strategy-returns-to-small-bitcoin-purchases-adding-usd76-6-million-in-btc-last-week)**
 
-Investor's Business Daily • 14h ago
+Led by Executive Chairman Michael Saylor, Strategy acquired 1,031 bitcoin, bringing holdings to 762,099 coins.
+
+CoinDesk • 1d ago
 
 ---
 
 **[Saylor’s Strategy Returns to Common Stock for Latest Bitcoin Buy](https://www.bloomberg.com/news/articles/2026-03-23/saylor-s-strategy-returns-to-common-stock-for-latest-bitcoin-buy)**
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
-**[Michael Saylor's Resurfaced Claims Bitcoin Will Rise to $10M Spark Backlash, Peter Schiff Slams Founder as ‘Delusional'](https://finance.yahoo.com/markets/crypto/articles/michael-saylors-resurfaced-claims-bitcoin-113339204.html)**
+**[Strategy Eyes $78 Bil Bitcoin War Chest. Be Skeptical.](https://www.investors.com/news/mstr-stock-strategy-58-billion-bitcoin-war-chest/)**
 
-A clip of Michael Saylor predicting Bitcoin could reach $10 million has reignited debate. Peter Schiff dismissed Saylor as “delusional." Bearish analysts warn that Bitcoin ...
-
-Yahoo Finance • 1d ago
+Investor's Business Daily • 15h ago
 
 ---
 
-**[JPMorgan, Morgan Stanley provide $1B credit to Bitcoin miner](https://www.thestreet.com/crypto/business/jpmorgan-morgan-stanley-provide-1b-credit-to-bitcoin-miner)**
+**[Bitcoin: What's Really Happening Despite The Bear Market (Cryptocurrency:BTC-USD)](https://seekingalpha.com/article/4885212-bitcoin-whats-really-happening-despite-the-bear-market)**
 
-Wall Street backs Bitcoin miner pivot into AI and data centers.
+The Bitcoin rice has reset far more than its adoption, with institutional and corporate demand broadening meaningfully.
 
-thestreet.com • 14h ago
-
----
-
-**[Bitcoin Price, Ethereum, XRP Rise. Calling Crypto Price Moves is Getting Harder.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqc_NA0m8gP0erTnrqm3PiWzwPBqfuY-jcNCE5JvTYMhRJPTkm9Tj7ax&gaa_ts=69c27d5e&gaa_sig=Uy7-yTnzgi9B6UTnVCohNvatPIzjkZsvXsHQyOkVfKScu6ECKC5RBXGRXJt7JlXPT5OuMtFTVX1IScyis37HAA%3D%3D)**
-
-Barron's • 2h ago
-
----
-
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1774345200)**
-
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 4h ago
+Seeking Alpha • 15m ago
 
 ---
 
@@ -251,7 +253,7 @@ Difficulty is now nearly 10% below where it started the year, despite a sharp 14
 
 **[Bitcoin, XRP Fall in a Bad Week for Cryptos](https://news.ycombinator.com/item?id=47453548)**
 
-⬆️ 2 • 💬 0 • 3d ago • [barrons.com](https://www.barrons.com/articles/bitcoin-price-xrp-etheruem-crypto-sec-nasdaq-2e2f8254)
+⬆️ 2 • 💬 0 • 4d ago • [barrons.com](https://www.barrons.com/articles/bitcoin-price-xrp-etheruem-crypto-sec-nasdaq-2e2f8254)
 
 ---
 
@@ -279,17 +281,25 @@ Open archive of autonomous scientific discovery experiments.
 
 ---
 
+**[Show HN: An event loop for asyncio written in Rust](https://news.ycombinator.com/item?id=47472041)**
+
+An event loop for asyncio written in Rust. Contribute to RustedBytes/rsloop development by creating an account on GitHub.
+
+⬆️ 5 • 💬 3 • 2d ago • [GitHub](https://github.com/RustedBytes/rsloop)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
 
-**[5 Days Until Global Collapse and Bitcoin Just Flipped Green!](https://www.youtube.com/watch?v=I7OlEZPKO-s)**
+**[Gareth Soloway&#39;s Urgent Warning To All Bitcoin Investors — What&#39;s Coming Next Will Shock Everyone](https://www.youtube.com/watch?v=o08TJkJc_6w)**
 
-Nobody knows how screwed everyone actually is right now. Not Iran. Not the Gulf. Everyone. The IEA chief just said this crisis is ...
+million in crypto liquidations. In four hours. Today. Bitcoin whipsawed from $67500 to $71200 and back — all because of a single ...
 
-📺 Simply Bitcoin
+📺 Money Talks
 
-👁️ 14K • 👍 1K • 💬 224 • ⏱️ 15:05 • 12h ago
+👁️ 3K • 👍 86 • 💬 10 • ⏱️ 13:33 • 15h ago
 
 ---
 
@@ -299,27 +309,27 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Fol
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 183 • ⏱️ 36:30 • 1d ago
+👁️ 37K • 👍 2K • 💬 184 • ⏱️ 36:30 • 1d ago
 
 ---
 
-**[Gareth Soloway&#39;s Urgent Warning To All Bitcoin Investors — What&#39;s Coming Next Will Shock Everyone](https://www.youtube.com/watch?v=o08TJkJc_6w)**
+**[5 Days Until Global Collapse and Bitcoin Just Flipped Green!](https://www.youtube.com/watch?v=I7OlEZPKO-s)**
 
-million in crypto liquidations. In four hours. Today. Bitcoin whipsawed from $67500 to $71200 and back — all because of a single ...
+Nobody knows how screwed everyone actually is right now. Not Iran. Not the Gulf. Everyone. The IEA chief just said this crisis is ...
 
-📺 Money Talks
+📺 Simply Bitcoin
 
-👁️ 2K • 👍 81 • 💬 10 • ⏱️ 13:33 • 14h ago
+👁️ 17K • 👍 2K • 💬 220 • ⏱️ 15:05 • 13h ago
 
 ---
 
-**[Bitcoin&#39;s Most Reliable CRASH Signal Triggers AGAIN!](https://www.youtube.com/watch?v=TLGEQU46wDI)**
+**[Bitcoin On The Brink As Banks Ban Stablecoin Yield](https://www.youtube.com/watch?v=s6SxKdVer4Q)**
 
-In today's video, we're breaking down why this specific "Crash Signal" has a high historical accuracy rate and what it means for ...
+Bitcoin #Crypto #Finance Guests Andrew Parish: https://x.com/AP_Abacus Tillman Holloway: https://x.com/texasol61 Discover ...
 
-📺 Discover Crypto
+📺 The Wolf Of All Streets
 
-👁️ 7K • 👍 434 • 💬 13 • ⏱️ 1:10:53 • 20h ago
+👁️ 659 • 👍 70 • 33m ago
 
 ---
 
@@ -329,17 +339,7 @@ Bitcoin #Crypto #Finance Anthony Scaramucci says this Bitcoin pullback may be fa
 
 📺 The Wolf Of All Streets
 
-👁️ 35K • 👍 1K • 💬 282 • ⏱️ 30:41 • 1d ago
-
----
-
-**[Exactly How Bitcoin Reaches $1.5 Million By 2030 (3 Experts Explain)](https://www.youtube.com/watch?v=gpRhzWFZEmM)**
-
-Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: ...
-
-📺 Altcoin Daily
-
-👁️ 32K • 👍 2K • 💬 165 • ⏱️ 8:36 • 2d ago
+👁️ 36K • 👍 1K • 💬 271 • ⏱️ 30:41 • 2d ago
 
 ---
 
@@ -353,33 +353,43 @@ The situation just got 10 times worse for bitcoin, ethereum and the rest of cryp
 
 ---
 
-**[Why Bitcoin Could Explode As Global Markets Crack](https://www.youtube.com/watch?v=yFa1iAAk7Bg)**
+**[NEW iPhone Attack Targets Crypto Wallets!](https://www.youtube.com/watch?v=nOSmEzw9rRg)**
 
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+This is the second iOS-specific attack targeting crypto wallets. If you're still storing crypto in a hot wallet app, it's time to get a cold ...
 
-📺 Anthony Pompliano
+📺 Cyber Scrilla
 
-👁️ 61K • 👍 2K • 💬 177 • ⏱️ 59:39 • 2d ago
-
----
-
-**[BITCOIN: NO ONE IS SEEING THIS...](https://www.youtube.com/watch?v=GXSlFRntyCI)**
-
-WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $25 ...
-
-📺 Crypto Rover
-
-👁️ 4K • 👍 374 • 💬 84 • ⏱️ 7:57 • 6h ago
+👁️ 7K • 👍 301 • 💬 53 • ⏱️ 1:09 • 20h ago
 
 ---
 
-**[BITCOIN *MAX PAIN* HAS JUST BEGUN....](https://www.youtube.com/watch?v=w62ASlA9TKY)**
+**[Bitcoin Breakdown: What Happens If Support Fails?](https://www.youtube.com/watch?v=Zd58SCfjU7M)**
 
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
+Bitcoin is pulling back but is this just a healthy correction or the start of something bigger? In this video, Sheldon breaks down the ...
 
-📺 Tyler S
+📺 Crypto Banter
 
-👁️ 14K • 👍 806 • 💬 137 • ⏱️ 13:54 • 18h ago
+👁️ 7K • 👍 511 • 💬 22 • ⏱️ 23:31 • 1d ago
+
+---
+
+**[Bitcoin&#39;s Most Reliable CRASH Signal Triggers AGAIN!](https://www.youtube.com/watch?v=TLGEQU46wDI)**
+
+In today's video, we're breaking down why this specific "Crash Signal" has a high historical accuracy rate and what it means for ...
+
+📺 Discover Crypto
+
+👁️ 7K • 👍 435 • 💬 13 • ⏱️ 1:10:53 • 21h ago
+
+---
+
+**[Bitcoin Will Hit THIS LEVEL! Bitcoin BULL MARKET If It BREAKS! Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=2G-0DU2lLP4)**
+
+Every reason why a test of the 20 WEMA is coming, and if it breaks we will enter into a bull market. Top-Tier Crypto Trading ...
+
+📺 Crypto Jebb
+
+👁️ 7K • 👍 347 • 💬 105 • ⏱️ 12:00 • 19h ago
 
 ---
 

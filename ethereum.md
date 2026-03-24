@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-24T11:48:09.654725+00:00'
+updated: '2026-03-24T13:15:04.331572+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- news
 - videos
 - cryptocurrency
-- news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 24, 2026 at 11:48 UTC  
+**Last Updated:** March 24, 2026 at 13:15 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
-**7d:** -1.5%  
-**30d:** +17.0%  
-**90d:** -25.2%  
-**1y:** +5.2%  
+**24h:** -1.1%  
+**7d:** -2.3%  
+**30d:** +16.1%  
+**90d:** -25.8%  
+**1y:** +4.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $260.72B
+**Market Cap:** $260.90B
 Rank #2
 
 **Circulating Supply:** 120,691,566 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.2%
+-56.4%
 
 **All-Time Low:** $0.43
-+499935.8%
++498014.2%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+8h ago
 
 ---
 
 **[EthStaker: Ethereum Staking Survey | Any type of staker or even non-stakers are called to respond](https://www.reddit.com/r/ethereum/comments/1s2419r/ethstaker_ethereum_staking_survey_any_type_of/)**
 
-🔗 [ethstaker.org](https://ethstaker.org/forms/staking-landscape-survey-2026) • 7h ago
+🔗 [ethstaker.org](https://ethstaker.org/forms/staking-landscape-survey-2026) • 8h ago
 
 ---
 
@@ -148,7 +148,15 @@ US SEC securities laws application to crypto, fast confirmation rule, EF mandate
 
 **[How L1 and L2s can build the strongest possible Ethereum](https://blog.ethereum.org/2026/03/23/l1-l2-ethereum)**
 
-Ethereum Foundation Blog • 18h ago
+Ethereum Foundation Blog • 19h ago
+
+---
+
+**[Current price of Ethereum for March 24, 2026](https://fortune.com/article/price-of-ethereum-03-24-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 7m ago
 
 ---
 
@@ -156,37 +164,37 @@ Ethereum Foundation Blog • 18h ago
 
 BitMine Immersion Technologies now holds more than $10 billion worth of Ethereum, leading the ETH treasury pack as the asset rebounds.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
-**[The SEC Just Classified 16 Cryptocurrencies as Digital Commodities. 3 of Them Could Double From Here.](https://www.fool.com/investing/2026/03/23/the-sec-just-classified-16-cryptocurrencies-as-dig/)**
+**[Ethereum news (ETH): Tensions rise across Ethereum as scaling, security and AI Priorities intensify](https://www.coindesk.com/tech/2026/03/22/ethereum-faces-make-or-break-moment-in-high-stakes-balancing-act-as-scaling-quantum-and-ai-pressures-mount)**
 
-Regulators just created the conditions which will help the entire crypto market to flourish.
+While upgrades have improved efficiency and lowered costs, the ecosystem faces deeper structural questions around fragmentation, security, and purpose, even as it continues prioritizing base-layer scaling.
 
-The Motley Fool • 22h ago
-
----
-
-**[Ethereum news: Bitmine (BMNR) buys 65,341 ETH worth $138 million betting on crypto slump ending](https://www.coindesk.com/business/2026/03/23/tom-lee-s-bitmine-extends-buying-streak-with-usd138-million-eth-purchase-betting-on-crypto-slump-ending)**
-
-The Ethereum treasury firm led by Thomas Lee now has increased its buying pace for three consecutive weeks even as unrealized losses mount.
-
-CoinDesk • 22h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin Price, Ethereum, XRP Rise. Calling Crypto Price Moves is Getting Harder.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqcQlcIzQb6te0SD64nfBN4QfCCJWfNwBI41ODfDCs4NiyjqYLyi0huT&gaa_ts=69c27d5f&gaa_sig=I86t3H0OpGIXx6_P2s80SxYkMc8ve1kDuXrH3TmEIqvZZaKwQCon-gBnbS0zjcOtUlpYZOXdkLKIvqIXoCQIRw%3D%3D)**
+**['Ethereum is in the final stages of mini-crypto winter,' Tom Lee says as Bitmine adds another 65,341 ETH](https://www.theblock.co/post/394662/ethereum-is-in-the-final-stages-of-mini-crypto-winter-tom-lee-says-as-bitmine-adds-another-65341-eth)**
 
-Barron's • 2h ago
+Bitmine's total crypto and cash holdings currently stand at $11 billion, and the company owns around 3.9% of Ethereum's circulating supply.
+
+The Block • 23h ago
 
 ---
 
-**[Ethereum OG sells $31 million worth of ETH after decade-long hold: onchain analysts](https://www.theblock.co/post/394614/ethereum-og-sells-31-million-worth-eth)**
+**[Bitcoin, Ethereum, XRP Rise. How the Iran War Has Made Crypto Calls Tougher.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqdMPuyuEQ97LMSjoAYyx8OhG7mC8lvgNjTkXOHNYtZhl8OfaOfKWKPn&gaa_ts=69c291c4&gaa_sig=s3o7LSxS83XJ2QROj0GUbByYHL538ysKHT_Wh7IgpjzRq5WaTXuDGUTRVWtRpbLZ1gQZUtFvaeFmbZzRYhzmPA%3D%3D)**
 
-An Ethereum OG transferred 15,002 ETH, worth about $31 million, to Coinbase and still holds 14,814 ETH, according to Lookonchain.
+Barron's • 1h ago
 
-The Block • 1d ago
+---
+
+**[Stock Market Crash: The Best Cryptocurrencies to Buy Right Now](https://www.fool.com/investing/2026/03/22/stock-market-crash-best-cryptocurrencies-to-buy/)**
+
+Three cryptocurrencies look like good candidates to rebound this year.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -202,7 +210,7 @@ TradingView • 1d ago
 
 MoonPay has launched the Open Wallet Standard (OWS), an open source framework designed to give AI agents a consistent way to hold funds and sign
 
-ledgerinsights.com • 20h ago
+ledgerinsights.com • 21h ago
 
 ---
 
@@ -210,31 +218,13 @@ ledgerinsights.com • 20h ago
 
 Dubai, UAE, March  23, 2026  (GLOBE NEWSWIRE) -- The Ethereum based crypto Pepeto just entered its last exchange testing phase after a senior Bina...
 
-markets.businessinsider.com • 14h ago
-
----
-
-**[Current price of Ethereum for March 23, 2026](https://fortune.com/article/price-of-ethereum-03-23-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 16h ago
+markets.businessinsider.com • 15h ago
 
 ---
 
 ---
 
 ## YouTube Videos: "ethereum"
-
-**[Vitalik vs BlackRock: Who Wins?](https://www.youtube.com/watch?v=l77QrTEIgpo)**
-
-BlackRock just launched a staking Ethereum ETF—but is it really a win for investors? This video breaks down ETHB, hidden fees, ...
-
-📺 Coin Bureau
-
-👁️ 23K • 👍 920 • 💬 97 • ⏱️ 18:11 • 2d ago
-
----
 
 **[🚨 BTC &amp; ETH: TERRIBLE NEWS!!!](https://www.youtube.com/watch?v=OWhm79nmI4c)**
 
@@ -246,13 +236,23 @@ The situation just got 10 times worse for bitcoin, ethereum and the rest of cryp
 
 ---
 
+**[Vitalik vs BlackRock: Who Wins?](https://www.youtube.com/watch?v=l77QrTEIgpo)**
+
+BlackRock just launched a staking Ethereum ETF—but is it really a win for investors? This video breaks down ETHB, hidden fees, ...
+
+📺 Coin Bureau
+
+👁️ 23K • 👍 930 • 💬 97 • ⏱️ 18:11 • 2d ago
+
+---
+
 **[Ethereum 💀 Dead or Cheap?](https://www.youtube.com/watch?v=Q6Dnkq98Tb8)**
 
 Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 112 • 💬 20 • ⏱️ 9:47 • 1d ago
+👁️ 2K • 👍 113 • 💬 20 • ⏱️ 9:47 • 1d ago
 
 ---
 
@@ -262,17 +262,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 168 • 💬 4 • ⏱️ 4:00 • 17h ago
+👁️ 2K • 👍 170 • 💬 5 • ⏱️ 4:00 • 18h ago
 
 ---
 
-**[BITCOIN: This Could Change EVERYTHING (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=vEYWTg0YWL4)**
+**[I Tried to Get FREE Ethereum in 2026… Here’s What Actually Happened 😳](https://www.youtube.com/watch?v=u_4-mNDN_YM)**
 
-BITCOIN: This Could Change EVERYTHING (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+Free Ethereum in 2026 — myth or real opportunity? In this video, I run a real experiment to find out if you can actually earn free ...
 
-📺 Crypto World
+📺 Leo Collins
 
-👁️ 4K • 👍 196 • 💬 17 • ⏱️ 16:35 • 10h ago
+👁️ 116 • 👍 499 • 💬 4 • ⏱️ 4:16 • 15m ago
 
 ---
 
@@ -282,17 +282,37 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 3K • 👍 177 • 💬 17 • ⏱️ 1:44:01 • 1d ago
+👁️ 4K • 👍 186 • 💬 18 • ⏱️ 1:44:01 • 1d ago
 
 ---
 
-**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=dyFR9n8hna0)**
+**[ETH Under $1,000?! The 2026 Crash No One Sees Coming](https://www.youtube.com/watch?v=eziVC5jj93U)**
 
-BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Start your trading journey with XM — a trusted and ...
+Trade Crypto Futures on Blofin exchange and get up to 9400USDT cashback on trading volume every month + iPhone giveaways.
 
-📺 Ashutosh Kumar
+📺 Intelligent Cryptocurrency - Dirk Crypto Diggy
 
-👁️ 5K • 👍 542 • 4h ago
+👁️ 97 • 👍 11 • 💬 1 • ⏱️ 5:56 • 5h ago
+
+---
+
+**[BITCOIN: This Could Change EVERYTHING (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=vEYWTg0YWL4)**
+
+BITCOIN: This Could Change EVERYTHING (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 219 • 💬 39 • ⏱️ 16:35 • 12h ago
+
+---
+
+**[CRYPTO LIVE TRADING || 24 Mar  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=xGJdHDS1VMA)**
+
+join my social platforms for updates and analysis ✓Instagram: ...
+
+📺 Aryan trader Live
+
+👁️ 5K • 👍 4K • 2h ago
 
 ---
 
@@ -302,27 +322,7 @@ Ethereum is on track to reach a trillion-dollar market cap. With its current gro
 
 📺 CoinBros
 
-👁️ 34 • ⏱️ 0:55 • 9h ago
-
----
-
-**[Ethereum Foundation Sells ETH: What It Means! #shorts](https://www.youtube.com/watch?v=Fsficj1g1MA)**
-
-The Ethereum Foundation has finalized terms for a 5000 ETH sale at an average price of $2042 via OTC. BMNR purchased the ...
-
-📺 MONEY GAME
-
-👁️ 157 • 👍 1 • ⏱️ 0:45 • 8h ago
-
----
-
-**[Ethereum Price vs. Activity: A Huge Divergence Explained #shorts](https://www.youtube.com/watch?v=j_pHM-ggefE)**
-
-Ethereum's network activity, including active addresses and smart contract calls, has hit record highs. Yet, its price is down 30%.
-
-📺 CoinBros
-
-👁️ 22 • 👍 1 • ⏱️ 1:57 • 9h ago
+👁️ 50 • ⏱️ 0:55 • 10h ago
 
 ---
 
