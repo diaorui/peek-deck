@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-24T21:04:48.499696+00:00'
+updated: '2026-03-24T22:00:42.905855+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 24, 2026 at 21:04 UTC  
+**Last Updated:** March 24, 2026 at 22:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $255.93B
+**Market Cap:** $258.84B
 Rank #2
 
 **Circulating Supply:** 120,691,566 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.1%
+-56.6%
 
 **All-Time Low:** $0.43
-+489658.2%
++495577.6%
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Trying to get a realistic picture of where rollup deployment is right now, not the hype version. I've been reading through documentation for most of the major platforms and the gap between what they promise and what teams actually experience seems pretty significant based on forum posts and Discord convos. Specifically curious about a few things. How much does your framework choice actually constrain you after deployment? If you start on OP Stack and realize Arbitrum Orbit would've been better for your use case, how painful is that migration realistically? Also the maintenance burden question. Every platform promises "one-click deployment" but what does post-launch actually look like for the infra team? Are you constantly babysitting the thing or does it run without much intervention? Asking because I keep seeing projects underestimate this and then burn significant engineering time on infra that should be going to product. What's been everyone's experience?
 
-6h ago
+7h ago
 
 ---
 
 **[EthStaker: Ethereum Staking Survey | Any type of staker or even non-stakers are called to respond](https://www.reddit.com/r/ethereum/comments/1s2419r/ethstaker_ethereum_staking_survey_any_type_of/)**
 
-🔗 [ethstaker.org](https://ethstaker.org/forms/staking-landscape-survey-2026) • 16h ago
+🔗 [ethstaker.org](https://ethstaker.org/forms/staking-landscape-survey-2026) • 17h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 An attacker minted $80M in unbacked USR stablecoins using just $200K, crashing the token 62%. The GENIUS Act was supposed to prevent exactly this.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/resolv-usr-stablecoin-80-million-unauthorized-mint-2026/) • 1d ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/resolv-usr-stablecoin-80-million-unauthorized-mint-2026/) • 2d ago
 
 ---
 
@@ -140,7 +140,7 @@ US SEC securities laws application to crypto, fast confirmation rule, EF mandate
 
 **[x402s now has state channels](https://www.reddit.com/r/ethereum/comments/1s0yi3u/x402s_now_has_state_channels/)**
 
-🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2035835465354322316) • 1d ago
+🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2035835465354322316) • 2d ago
 
 ---
 
@@ -190,7 +190,7 @@ The Block • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 7h ago
+Fortune • 8h ago
 
 ---
 
@@ -198,7 +198,7 @@ Fortune • 7h ago
 
 Ethereum is attempting to reclaim the $2,200 level as market participants react to recent moves by US President Donald Trump in the Middle East, developments that have introduced renewed volatility across global risk assets. The reaction reflects a broader sensitivity to geopolitical uncertainty, w…
 
-TradingView • 6h ago
+TradingView • 7h ago
 
 ---
 
@@ -206,7 +206,7 @@ TradingView • 6h ago
 
 Dubai, UAE, March  23, 2026  (GLOBE NEWSWIRE) -- The Ethereum based crypto Pepeto just entered its last exchange testing phase after a senior Bina...
 
-markets.businessinsider.com • 23h ago
+markets.businessinsider.com • 1d ago
 
 ---
 
@@ -214,13 +214,13 @@ markets.businessinsider.com • 23h ago
 
 Ethereum Up or Down on March 24? (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 21h ago
+Polymarket • 22h ago
 
 ---
 
 **[Ethereum ETF Outflows Deepen as iShares’ ETHA Tracks Sliding Ether Prices](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-outflows-deepen-as-ishares-etha-tracks-sliding-ether-prices)**
 
-TipRanks • 6h ago
+TipRanks • 7h ago
 
 ---
 
@@ -228,13 +228,23 @@ TipRanks • 6h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Why Ethereum Will EXPLODE To $7,500-$10,000! Why And HOW To Invest TODAY! Ethereum Price Prediction!](https://www.youtube.com/watch?v=Je04vxAWfMg)**
+
+You're not going to want to miss this INCREDIBLE Ether, technical analysis and investment strategy. CRYPTO RETIREMENT ...
+
+📺 Crypto Jebb
+
+👁️ 1K • 👍 117 • 💬 11 • ⏱️ 18:00 • 3h ago
+
+---
+
 **[🚨 BTC &amp; ETH: YOU CANT MISS THIS!!! HUGE OPPORTUNITY NOW!!!!!](https://www.youtube.com/watch?v=A6k1U0SFu-g)**
 
 This video is not for everyone. If your income is below $10000/month — close it. I've been in business for 15 years, and my capital ...
 
 📺 Thomas Kralow
 
-👁️ 8K • 👍 2K • 💬 33 • ⏱️ 6:06 • 9h ago
+👁️ 10K • 👍 2K • 💬 37 • ⏱️ 6:06 • 9h ago
 
 ---
 
@@ -244,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 90 • 💬 5 • ⏱️ 3:30 • 6h ago
+👁️ 1K • 👍 92 • 💬 6 • ⏱️ 3:30 • 7h ago
 
 ---
 
@@ -258,33 +268,23 @@ The situation just got 10 times worse for bitcoin, ethereum and the rest of cryp
 
 ---
 
-**[BULLISH NEWS UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=-iBmqxEL-0Q)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 262 • 👍 13 • 💬 2 • ⏱️ 4:34 • 11h ago
-
----
-
 **[I Tried to Get FREE Ethereum in 2026… Here’s What Actually Happened 😳](https://www.youtube.com/watch?v=u_4-mNDN_YM)**
 
 Free Ethereum in 2026 — myth or real opportunity? In this video, I run a real experiment to find out if you can actually earn free ...
 
 📺 Leo Collins
 
-👁️ 3K • 👍 481 • 💬 491 • ⏱️ 4:16 • 8h ago
+👁️ 7K • 👍 481 • 💬 491 • ⏱️ 4:16 • 9h ago
 
 ---
 
-**[JETZT nicht die Nerven verlieren! 😱 Bitcoin, Ethereum | BTC &amp; ETH Analyse &amp; Kursziele](https://www.youtube.com/watch?v=O4SjzDCXMgY)**
+**[Monad VS Ethereum...Is This the Better Layer 1?](https://www.youtube.com/watch?v=gMoBQfVf0Q0)**
 
-Werde Teil unserer Community & bring dein Trading auf das nächste Level!* Kostenlos Discord beitreten: ...
+Monad combines speed, low fees, and EVM compatibility. Watch this breakdown of its mainnet launch, technical design, and what ...
 
-📺 TradingKompass
+📺 CoinGecko
 
-👁️ 552 • 👍 172 • 💬 26 • ⏱️ 8:05 • 3h ago
+👁️ 2K • 👍 143 • 💬 42 • ⏱️ 9:10 • 1d ago
 
 ---
 
@@ -294,7 +294,17 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 4K • 👍 194 • 💬 22 • ⏱️ 1:44:01 • 1d ago
+👁️ 4K • 👍 199 • 💬 22 • ⏱️ 1:44:01 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=fA1Q9_Ztq4s)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 172 • 💬 5 • ⏱️ 4:00 • 1d ago
 
 ---
 
@@ -308,23 +318,13 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 ---
 
-**[BITCOIN: This Could Change EVERYTHING (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=vEYWTg0YWL4)**
+**[JETZT nicht die Nerven verlieren! 😱 Bitcoin, Ethereum | BTC &amp; ETH Analyse &amp; Kursziele](https://www.youtube.com/watch?v=O4SjzDCXMgY)**
 
-BITCOIN: This Could Change EVERYTHING (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+Werde Teil unserer Community & bring dein Trading auf das nächste Level!* Kostenlos Discord beitreten: ...
 
-📺 Crypto World
+📺 TradingKompass
 
-👁️ 6K • 👍 237 • 💬 143 • ⏱️ 16:35 • 19h ago
-
----
-
-**[ETH Under $1,000?! The 2026 Crash No One Sees Coming](https://www.youtube.com/watch?v=eziVC5jj93U)**
-
-Trade Crypto Futures on Blofin exchange and get up to 9400USDT cashback on trading volume every month + iPhone giveaways.
-
-📺 Intelligent Cryptocurrency - Dirk Crypto Diggy
-
-👁️ 195 • 👍 21 • 💬 19 • ⏱️ 5:56 • 13h ago
+👁️ 1K • 👍 317 • 💬 45 • ⏱️ 8:05 • 4h ago
 
 ---
 

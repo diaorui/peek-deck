@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-24T21:04:48.493383+00:00'
+updated: '2026-03-24T22:00:42.900497+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 24, 2026 at 21:04 UTC  
+**Last Updated:** March 24, 2026 at 22:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1389.27B
+**Market Cap:** $1404.13B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--44.9%
+-44.3%
 
 **All-Time Low:** $67.81
-+102324.4%
++103502.7%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 In the US over the last 55 years, the number of homes doubled from 70 million to 150 million. The money supply grew 30 times in the same period. So you have twice the homes and 30 times the cash chasing them. Housing is now 15x more expensive. Bitcoin is money that nobody can print, and can be a tool to help us afford the things that otherwise we are priced out of.
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ In the US over the last 55 years, the number of homes doubled from 70 million to
 
 6 figs Bitcoin guys : BMW, ig model girlfriend 7 figs Bitcoin guys : Lambo, Dubai penthouse 8 figs Bitcoin guys:
 
-11h ago
+12h ago
 
 ---
 
@@ -97,13 +97,13 @@ In the US over the last 55 years, the number of homes doubled from 70 million to
 
 In 2022 I really was glued to events in Bitcoin's huge drawdown. I do look at the price every day (okay, maybe twice a day) but this time I really have hardly been bothered. Minus 45% down is a LOT but for some reason it has not really felt like a lot. Maybe I am just so sure of its value now that I am less concerned. At bottom, Bitcoin was down by more than half from its $126k high. If my mutual funds were -45% right now I would be far more worried. Is anyone else just less worried now than in previous years?
 
-5h ago
+6h ago
 
 ---
 
 **[Don't you just love and vague mysterious guys! lol](https://www.reddit.com/r/Bitcoin/comments/1s26awy/dont_you_just_love_and_vague_mysterious_guys_lol/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -111,13 +111,13 @@ In 2022 I really was glued to events in Bitcoin's huge drawdown. I do look at th
 
 Hi, my name is Elias and I've built this bitcoin-rails solution to buy, sell, send Bitcoin via common messenger apps. So now you can get a bitcoin wallet via any messenger service you want like WhatsApp, Telegram, Signal, Email etc and don't need to download an app, create a wallet, understand Bitcoin or anything like that anymore. I've just broken it down to only needing to write a text message so my parents, friends, relatives etc. can get their hands on Bitcoin as easily as technically possible. I'm a Bitcoin Maximalist by heart and I think this is finally a solution where they will buy Bitcoin and don't stumble upon all the different barriers. Please ask me anything or tell me what you would like to have implemented / answered. Is there anything stopping you from using it? Do you find it useful? I highly depend on any constructive user feedback from fellow Bitcoiners (jokes off). -Elias PS: right now it's a custodial solution but if requested / if I see the user traction I can also build a non-custodial solution as well, where I don't have constant access to the users funds (would love to have that as a user as well but takes some more programming time).
 
-6h ago
+7h ago
 
 ---
 
 **[Cathie Wood on Bitcoin and the current geopolitical situation](https://www.reddit.com/r/Bitcoin/comments/1s2e6l1/cathie_wood_on_bitcoin_and_the_current/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -125,7 +125,7 @@ Hi, my name is Elias and I've built this bitcoin-rails solution to buy, sell, se
 
 At this moment buying bitcoin regularly is the only thing I’m truly confident in long term. The Stock market even during these extreme red days are still trading at high valuations and are not too far off from their all time highs. Additional contributions at this point seem like feeding a fire. Bitcoin goes up. Bitcoin goes down. Bitcoin from where it stands right now will always be there. Stack sats and ignore the noise.
 
-6h ago
+7h ago
 
 ---
 
@@ -133,7 +133,7 @@ At this moment buying bitcoin regularly is the only thing I’m truly confident 
 
 https://preview.redd.it/66g89vjsh1rg1.jpg?width=4080&format=pjpg&auto=webp&s=2f2220ee9a91f32aa63fceeb0e0b29923546b7f6 I asked bitcoins for my birthday. Well, I guess that will do.
 
-2h ago
+3h ago
 
 ---
 
@@ -147,7 +147,7 @@ https://preview.redd.it/66g89vjsh1rg1.jpg?width=4080&format=pjpg&auto=webp&s=2f2
 
 everyone who says theyre "over bitcoin" just proves they never really got what it was about to begin with like i get it the price swings can mess with your head especially when youre trying to stay focused on other stuff in life but if you actually understand the technology and what its trying to solve you dont just walk away because of some volatility been thinking about this a lot lately while driving around for work and it just seems obvious that the people bailing out were never in it for the right reasons anyway
 
-13h ago
+14h ago
 
 ---
 
@@ -159,7 +159,7 @@ everyone who says theyre "over bitcoin" just proves they never really got what i
 
 An Israeli TV report said a one-month ceasefire could be announced soon.
 
-CoinDesk • 14m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin BITSTAMP:BTCUSD fell below $70,000 at Tuesday’s Wall Street open as macro assets fell over Iran war tensions.Key points:Bitcoin comeback could be in “early stages”Data from TradingView showed 1.5% daily BTC price losses, with BITSTAMP:BTCUSD giving back some of its early-week sprint to $71…
 
-TradingView • 5h ago
+TradingView • 6h ago
 
 ---
 
@@ -183,7 +183,7 @@ TradingView • 5h ago
 
 Bernstein said Strategy could see 226% upside if bitcoin has bottomed, with STRC central to its capital model.
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -199,7 +199,7 @@ Bitcoin Magazine • 2h ago
 
 The asset management giant's Robbie Mitchnic said clients are focused on bitcoin, ether and only a few other tokens, and aren't looking for broad exposure. Rather, they see opportunity for crypto in artificial intelligence.
 
-CoinDesk • 45m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -213,13 +213,13 @@ Yahoo Finance • 1d ago
 
 **[US’s Mysterious $15 Billion Crypto Haul Faces Questions in Court](https://www.bloomberg.com/news/articles/2026-03-24/us-s-mysterious-15-billion-crypto-haul-faces-questions-in-court)**
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 11h ago
 
 ---
 
 **[GameStop Sales Fall Amid Continued Retail Troubles, Bitcoin Value Decline](https://www.wsj.com/business/earnings/gamestop-sales-fall-amid-continued-retail-troubles-bitcoin-value-decline-24a5c8de?gaa_at=eafs&gaa_n=AWEtsqdU9A0yAML6TuqRw7ALugRrBTdFmpy0RsdNgE89YX9iIxhHlPX66jFg&gaa_ts=69c2ffd8&gaa_sig=dtubz4f4YemxnvtYKqGWIFg17y2LSwl9mBTlMOqED-TnN9pmJCqSh1ycSTp7IMWGOAm_8ohB06UjcU__phqgtw%3D%3D)**
 
-WSJ • 32m ago
+WSJ • 1h ago
 
 ---
 
@@ -291,7 +291,7 @@ An event loop for asyncio written in Rust. Contribute to RustedBytes/rsloop deve
 
 **[Show HN: Castor – a secure execution layer for LLM agents](https://news.ycombinator.com/item?id=47504101)**
 
-⬆️ 1 • 💬 0 • 5h ago
+⬆️ 1 • 💬 0 • 6h ago
 
 ---
 
@@ -299,7 +299,7 @@ An event loop for asyncio written in Rust. Contribute to RustedBytes/rsloop deve
 
 Seeking power for data centers, Meta and other companies plan to use equipment that is expensive and polluting.
 
-⬆️ 3 • 💬 2 • 5h ago • [nytimes.com](https://www.nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html)
+⬆️ 3 • 💬 2 • 6h ago • [nytimes.com](https://www.nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html)
 
 ---
 
@@ -307,7 +307,7 @@ Seeking power for data centers, Meta and other companies plan to use equipment t
 
 Facebook really hopes your kids will play Grow A Garden via its terrible phone-based metaverse
 
-⬆️ 2 • 💬 0 • 4h ago • [Kotaku](https://kotaku.com/metas-virtual-reality-app-ditching-vr-to-make-a-roblox-clone-2000671434)
+⬆️ 2 • 💬 0 • 5h ago • [Kotaku](https://kotaku.com/metas-virtual-reality-app-ditching-vr-to-make-a-roblox-clone-2000671434)
 
 ---
 
@@ -321,7 +321,7 @@ Stop Guessing - Ask Clash (beta) ▻ https://www.askclash.ai/ Make FREE Crypto P
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 840 • 💬 209 • ⏱️ 39:00 • 6h ago
+👁️ 16K • 👍 919 • 💬 60 • ⏱️ 39:00 • 7h ago
 
 ---
 
@@ -331,17 +331,7 @@ Gold just entered a bear market during geopolitical chaos while Bitcoin held ste
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 641 • 💬 113 • ⏱️ 13:19 • 8h ago
-
----
-
-**[5 Days Until Global Collapse and Bitcoin Just Flipped Green!](https://www.youtube.com/watch?v=I7OlEZPKO-s)**
-
-Nobody knows how screwed everyone actually is right now. Not Iran. Not the Gulf. Everyone. The IEA chief just said this crisis is ...
-
-📺 Simply Bitcoin
-
-👁️ 20K • 👍 2K • 💬 242 • ⏱️ 15:05 • 21h ago
+👁️ 8K • 👍 789 • 💬 54 • ⏱️ 13:19 • 9h ago
 
 ---
 
@@ -351,17 +341,27 @@ Everyone thinks they understand Bitcoin... but they don't. Because if Bitcoin is
 
 📺 Casual Finance
 
-👁️ 6K • 👍 855 • 💬 211 • ⏱️ 9:55 • 6h ago
+👁️ 14K • 👍 2K • 💬 410 • ⏱️ 9:55 • 7h ago
 
 ---
 
-**[Gareth Soloway&#39;s Urgent Warning To All Bitcoin Investors — What&#39;s Coming Next Will Shock Everyone](https://www.youtube.com/watch?v=o08TJkJc_6w)**
+**[Bitcoin Holders, I’m Seeing Two Potential Outcomes Right Now](https://www.youtube.com/watch?v=fAdzGD-9sbU)**
 
-million in crypto liquidations. In four hours. Today. Bitcoin whipsawed from $67500 to $71200 and back — all because of a single ...
+Saylor buying a ton more, Trump chaos & two probable outcomes Into The Cryptoverse Charts – 10% Off ...
 
-📺 Money Talks
+📺 Aaron Bennett
 
-👁️ 3K • 👍 92 • 💬 166 • ⏱️ 13:33 • 23h ago
+👁️ 5K • 👍 328 • 💬 61 • ⏱️ 7:50 • 13h ago
+
+---
+
+**[5 Days Until Global Collapse and Bitcoin Just Flipped Green!](https://www.youtube.com/watch?v=I7OlEZPKO-s)**
+
+Nobody knows how screwed everyone actually is right now. Not Iran. Not the Gulf. Everyone. The IEA chief just said this crisis is ...
+
+📺 Simply Bitcoin
+
+👁️ 21K • 👍 2K • 💬 189 • ⏱️ 15:05 • 22h ago
 
 ---
 
@@ -371,47 +371,47 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Fol
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 189 • ⏱️ 36:30 • 2d ago
+👁️ 39K • 👍 2K • 💬 178 • ⏱️ 36:30 • 2d ago
 
 ---
 
-**[&quot;Bitcoin Is Following A Pattern Nobody Wants To Admit&quot; | Anthony Scaramucci](https://www.youtube.com/watch?v=KXaqFMV4jKM)**
+**[The Ugly, Bad &amp; BULLISH Truth About Bitcoin Right Now ⚠️🚀](https://www.youtube.com/watch?v=cg3SruPsl-Q)**
 
-Bitcoin #Crypto #Finance Anthony Scaramucci says this Bitcoin pullback may be far more normal than it feels — and he still sees ...
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA RETIRE ON: ...
 
-📺 The Wolf Of All Streets
+📺 InvestAnswers
 
-👁️ 37K • 👍 1K • 💬 270 • ⏱️ 30:41 • 2d ago
-
----
-
-**[The Many Dangers Of Bitcoin Loans](https://www.youtube.com/watch?v=g8Kn3f1kRpk)**
-
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss the many dangers of Bitcoin loans, ...
-
-📺 Bitcoin University
-
-👁️ 7K • 👍 1K • 💬 267 • ⏱️ 12:16 • 1d ago
+👁️ 10K • 👍 1K • 💬 63 • ⏱️ 24:02 • 2h ago
 
 ---
 
-**[BITCOIN *MAX PAIN* HAS JUST BEGUN....](https://www.youtube.com/watch?v=w62ASlA9TKY)**
+**[Gareth Soloway&#39;s Urgent Warning To All Bitcoin Investors — What&#39;s Coming Next Will Shock Everyone](https://www.youtube.com/watch?v=o08TJkJc_6w)**
 
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
+million in crypto liquidations. In four hours. Today. Bitcoin whipsawed from $67500 to $71200 and back — all because of a single ...
 
-📺 Tyler S
+📺 Money Talks
 
-👁️ 15K • 👍 849 • 💬 222 • ⏱️ 13:54 • 1d ago
+👁️ 3K • 👍 92 • 💬 29 • ⏱️ 13:33 • 1d ago
 
 ---
 
-**[🚨 BTC &amp; ETH: TERRIBLE NEWS!!!](https://www.youtube.com/watch?v=OWhm79nmI4c)**
+**[ANOTHER BITCOIN TRAP!](https://www.youtube.com/watch?v=tyGuE_PrQok)**
 
-The situation just got 10 times worse for bitcoin, ethereum and the rest of crypto! Markets are about to tank! Here is why and how to ...
+DM me the word “CBM” on Telegram to join my private group: https://t.me/CryptoByMathieu BloFin: ...
 
-📺 Thomas Kralow
+📺 Mathieu - C₿M
 
-👁️ 15K • 👍 2K • 💬 38 • ⏱️ 11:52 • 1d ago
+👁️ 4K • 👍 421 • 💬 43 • ⏱️ 11:20 • 1d ago
+
+---
+
+**[Bitcoin Crashing! --Joby Weeks Under House Arrest Explains the CIA Bitcoin Conspiracy](https://www.youtube.com/watch?v=WTPlypkSy3Y)**
+
+For the past 6 years, Joby has lived under a house arrest. He spent 11 months in jail without any conviction. He and the lawyers ...
+
+📺 Redacted
+
+👁️ 43K • 👍 3K • 💬 392 • ⏱️ 47:35 • 1d ago
 
 ---
 
