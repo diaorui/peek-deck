@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-25T07:35:18.806081+00:00'
+updated: '2026-03-25T08:53:44.468643+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- videos
 - social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 25, 2026 at 07:35 UTC  
+**Last Updated:** March 25, 2026 at 08:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,103.00
+### $71,310.16
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +1.7%  
-**30d:** +11.1%  
-**90d:** -18.5%  
-**1y:** -18.1%  
+**24h:** -0.0%  
+**7d:** +1.9%  
+**30d:** +11.4%  
+**90d:** -18.4%  
+**1y:** -18.0%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I will wait but it still sucks
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ I will wait but it still sucks
 
 In the US over the last 55 years, the number of homes doubled from 70 million to 150 million. The money supply grew 30 times in the same period. So you have twice the homes and 30 times the cash chasing them. Housing is now 15x more expensive. Bitcoin is money that nobody can print, and can be a tool to help us afford the things that otherwise we are priced out of.
 
-15h ago
+16h ago
 
 ---
 
@@ -97,15 +97,7 @@ In the US over the last 55 years, the number of homes doubled from 70 million to
 
 In 2022 I really was glued to events in Bitcoin's huge drawdown. I do look at the price every day (okay, maybe twice a day) but this time I really have hardly been bothered. Minus 45% down is a LOT but for some reason it has not really felt like a lot. Maybe I am just so sure of its value now that I am less concerned. At bottom, Bitcoin was down by more than half from its $126k high. If my mutual funds were -45% right now I would be far more worried. Is anyone else just less worried now than in previous years?
 
-16h ago
-
----
-
-**[Zero emotions during this dip](https://www.reddit.com/r/Bitcoin/comments/1s2tgzx/zero_emotions_during_this_dip/)**
-
-Been stacking for ages now and these drops just dont phase me anymore. While everyone else is having meltdowns im over here wondering what all teh fuss is about. My strategy stays simple - accumulate when i can because fiat keeps losing value while Bitcoin supply stays fixed at 21 million. To all you panic sellers out there, appreciate you making my next purchase that much more affordable. Keep dumping if you want, ill gladly scoop up what youre getting rid of
-
-8h ago
+17h ago
 
 ---
 
@@ -113,7 +105,15 @@ Been stacking for ages now and these drops just dont phase me anymore. While eve
 
 I have been trying to figure this out lately. What do you do in real life when you want to spend money that you mostly keep in self-custody? Do you usually move it to an exchange first and change it to fiat, or do you use a card or some other way? I get why people want to keep their money in their own hands for control, but it seems like there are always extra steps when it comes to using the money. I'm interested in how people do this in real life without making things too hard or losing too much ease.
 
-2h ago
+3h ago
+
+---
+
+**[Zero emotions during this dip](https://www.reddit.com/r/Bitcoin/comments/1s2tgzx/zero_emotions_during_this_dip/)**
+
+Been stacking for ages now and these drops just dont phase me anymore. While everyone else is having meltdowns im over here wondering what all teh fuss is about. My strategy stays simple - accumulate when i can because fiat keeps losing value while Bitcoin supply stays fixed at 21 million. To all you panic sellers out there, appreciate you making my next purchase that much more affordable. Keep dumping if you want, ill gladly scoop up what youre getting rid of
+
+9h ago
 
 ---
 
@@ -121,7 +121,7 @@ I have been trying to figure this out lately. What do you do in real life when y
 
 6 figs Bitcoin guys : BMW, ig model girlfriend 7 figs Bitcoin guys : Lambo, Dubai penthouse 8 figs Bitcoin guys:
 
-21h ago
+23h ago
 
 ---
 
@@ -131,25 +131,25 @@ I have been trying to figure this out lately. What do you do in real life when y
 
 ---
 
+**[Daily Discussion, March 25, 2026](https://www.reddit.com/r/Bitcoin/comments/1s32ogj/daily_discussion_march_25_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+2h ago
+
+---
+
 **[I've built this. Please ask me anything.](https://www.reddit.com/r/Bitcoin/comments/1s2fmlg/ive_built_this_please_ask_me_anything/)**
 
 Hi, my name is Elias and I've built this bitcoin-rails solution to buy, sell, send Bitcoin via common messenger apps. So now you can get a bitcoin wallet via any messenger service you want like WhatsApp, Telegram, Signal, Email etc and don't need to download an app, create a wallet, understand Bitcoin or anything like that anymore. I've just broken it down to only needing to write a text message so my parents, friends, relatives etc. can get their hands on Bitcoin as easily as technically possible. I'm a Bitcoin Maximalist by heart and I think this is finally a solution where they will buy Bitcoin and don't stumble upon all the different barriers. Please ask me anything or tell me what you would like to have implemented / answered. Is there anything stopping you from using it? Do you find it useful? I highly depend on any constructive user feedback from fellow Bitcoiners (jokes off). -Elias PS: right now it's a custodial solution but if requested / if I see the user traction I can also build a non-custodial solution as well, where I don't have constant access to the users funds (would love to have that as a user as well but takes some more programming time).
 
-16h ago
-
----
-
-**[Best crypto portfolio tracker that supports DeFi perps?](https://www.reddit.com/r/Bitcoin/comments/1s33o8t/best_crypto_portfolio_tracker_that_supports_defi/)**
-
-I’ve been using CoinStats for my spot portfolio and it works pretty well, but it doesn’t track my perp positions on DEXs. I’m specifically looking for something that can show open positions on platforms like GMX and Exolane along with my spot holdings in one place. I’ve tried Zapper too—it covers some DeFi activity, but support for newer protocols seems inconsistent. Does anyone here use a tracker that reliably supports DeFi perps and newer platforms? Would love to hear what’s working for you guys.
-
-31m ago
+18h ago
 
 ---
 
 **[Cathie Wood on Bitcoin and the current geopolitical situation](https://www.reddit.com/r/Bitcoin/comments/1s2e6l1/cathie_wood_on_bitcoin_and_the_current/)**
 
-17h ago
+19h ago
 
 ---
 
@@ -159,7 +159,7 @@ I’ve been using CoinStats for my spot portfolio and it works pretty well, but 
 
 **[Bitcoin’s Institutional Shift Drives Bernstein’s $150,000 Call](https://www.bloomberg.com/news/articles/2026-03-24/bitcoin-s-institutional-shift-drives-bernstein-s-150-000-call)**
 
-Bloomberg.com • 15h ago
+Bloomberg.com • 16h ago
 
 ---
 
@@ -167,7 +167,15 @@ Bloomberg.com • 15h ago
 
 Brent crude fell 4.7% and Asian equities rallied 1.9% as Washington delivered a ceasefire proposal to Tehran via Pakistan, fueling the most sustained optimism since the conflict began a month ago.
 
-CoinDesk • 1h ago
+CoinDesk • 3h ago
+
+---
+
+**[Irish Drug Dealer’s 'Lost' Bitcoin Wakes Up — $35M on the Move](https://www.yahoo.com/news/articles/irish-drug-dealer-lost-bitcoin-081314917.html)**
+
+Irish police cracked a seized drug dealer's Bitcoin wallet that had been dormant for nearly a decade. 500 BTC worth $35 million suddenly moved on ...
+
+Yahoo • 40m ago
 
 ---
 
@@ -175,15 +183,7 @@ CoinDesk • 1h ago
 
 Bhutan transferred 519.7 BTC, worth $36.75 million, to two wallets on Wednesday, according to Arkham data.
 
-The Block • 1h ago
-
----
-
-**[Why these three ‘narrative barriers’ pose clear risks to the Strategy Bitcoin scheme, says analyst](https://finance.yahoo.com/markets/crypto/articles/why-three-narrative-barriers-pose-040104132.html)**
-
-Strategy is on track to becoming the world’s biggest corporate Bitcoin holder. But institutions still see risk, says Bloomberg ETF expert James Seyffart. If Bitcoin continues to rise in price, most concerns will be rendered moot, he said.
-
-Yahoo Finance • 3h ago
+The Block • 2h ago
 
 ---
 
@@ -191,7 +191,15 @@ Yahoo Finance • 3h ago
 
 A bitcoin mining company plans to install servers in Dubuque County, a move backed by the local economic development corporation.
 
-KCRG • 8h ago
+KCRG • 9h ago
+
+---
+
+**[Current price of Bitcoin for March 24, 2026](https://fortune.com/article/price-of-bitcoin-03-24-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 19h ago
 
 ---
 
@@ -203,19 +211,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Current price of Bitcoin for March 24, 2026](https://fortune.com/article/price-of-bitcoin-03-24-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 17h ago
-
----
-
 **[Bitcoin Depot CEO Departs Amid Broader Crypto ATM Crackdown](https://decrypt.co/362262/bitcoin-depot-ceo-departs-broader-crypto-atm-crackdown)**
 
 A swift reset in the crypto ATM operator’s leadership comes as regulatory oversight has hurt its core kiosk business.
 
-Decrypt • 3h ago
+Decrypt • 4h ago
 
 ---
 
@@ -259,21 +259,13 @@ Difficulty is now nearly 10% below where it started the year, despite a sharp 14
 
 Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes were hidden in lost fishing rod case
 
-⬆️ 2 • 💬 1 • 8h ago • [The Irish Times](https://www.irishtimes.com/crime-law/2026/03/24/gardai-seize-bitcoin-valued-at-30m-in-cab-operation-supported-by-europol/)
+⬆️ 2 • 💬 1 • 10h ago • [The Irish Times](https://www.irishtimes.com/crime-law/2026/03/24/gardai-seize-bitcoin-valued-at-30m-in-cab-operation-supported-by-europol/)
 
 ---
 
 **[Bitcoin, XRP Fall in a Bad Week for Cryptos](https://news.ycombinator.com/item?id=47453548)**
 
 ⬆️ 2 • 💬 0 • 4d ago • [barrons.com](https://www.barrons.com/articles/bitcoin-price-xrp-etheruem-crypto-sec-nasdaq-2e2f8254)
-
----
-
-**[Psi-Commit – Cryptographic Commitments Anchored to Bitcoin via OpenTimestamps](https://news.ycombinator.com/item?id=47423102)**
-
-Seal predictions and decisions with cryptographic proof anchored to Bitcoin. No third party required. Free and open source.
-
-⬆️ 1 • 💬 1 • 6d ago • [psicommit.com](https://psicommit.com/)
 
 ---
 
@@ -295,7 +287,7 @@ An event loop for asyncio written in Rust. Contribute to RustedBytes/rsloop deve
 
 **[Show HN: Castor – a secure execution layer for LLM agents](https://news.ycombinator.com/item?id=47504101)**
 
-⬆️ 1 • 💬 0 • 16h ago
+⬆️ 1 • 💬 0 • 17h ago
 
 ---
 
@@ -303,7 +295,7 @@ An event loop for asyncio written in Rust. Contribute to RustedBytes/rsloop deve
 
 Seeking power for data centers, Meta and other companies plan to use equipment that is expensive and polluting.
 
-⬆️ 3 • 💬 2 • 15h ago • [nytimes.com](https://www.nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html)
+⬆️ 3 • 💬 2 • 17h ago • [nytimes.com](https://www.nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html)
 
 ---
 
@@ -311,7 +303,7 @@ Seeking power for data centers, Meta and other companies plan to use equipment t
 
 Facebook really hopes your kids will play Grow A Garden via its terrible phone-based metaverse
 
-⬆️ 2 • 💬 0 • 14h ago • [Kotaku](https://kotaku.com/metas-virtual-reality-app-ditching-vr-to-make-a-roblox-clone-2000671434)
+⬆️ 2 • 💬 0 • 16h ago • [Kotaku](https://kotaku.com/metas-virtual-reality-app-ditching-vr-to-make-a-roblox-clone-2000671434)
 
 ---
 
@@ -325,7 +317,7 @@ Markets are unstable, but Bitcoin may be quietly setting up for its next major m
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 79 • ⏱️ 12:39 • 9h ago
+👁️ 15K • 👍 1K • 💬 79 • ⏱️ 12:39 • 10h ago
 
 ---
 
@@ -335,7 +327,7 @@ Stop Guessing - Ask Clash (beta) ▻ https://www.askclash.ai/ Make FREE Crypto P
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 977 • 💬 140 • ⏱️ 39:00 • 17h ago
+👁️ 19K • 👍 977 • 💬 140 • ⏱️ 39:00 • 18h ago
 
 ---
 
@@ -345,7 +337,7 @@ In this video, we take a data-driven look at Bitcoin as it shows signs of prepar
 
 📺 Benjamin Cowen
 
-👁️ 18K • 👍 2K • 💬 128 • ⏱️ 17:16 • 4h ago
+👁️ 18K • 👍 2K • 💬 128 • ⏱️ 17:16 • 5h ago
 
 ---
 
@@ -355,7 +347,7 @@ Everyone thinks they understand Bitcoin... but they don't. Because if Bitcoin is
 
 📺 Casual Finance
 
-👁️ 38K • 👍 3K • 💬 824 • ⏱️ 9:55 • 16h ago
+👁️ 38K • 👍 3K • 💬 824 • ⏱️ 9:55 • 17h ago
 
 ---
 
@@ -365,7 +357,7 @@ Stop waiting for Bitcoin to break out. Because by the time it does… it's alrea
 
 📺 Tim Talks Finance
 
-👁️ 3K • 👍 225 • 💬 28 • ⏱️ 13:57 • 13h ago
+👁️ 3K • 👍 225 • 💬 28 • ⏱️ 13:57 • 14h ago
 
 ---
 
@@ -375,7 +367,7 @@ Stop Guessing - Ask Clash (beta) ▻ https://www.askclash.ai/ Make FREE Crypto P
 
 📺 CryptosRUs
 
-👁️ 12K • 👍 767 • 💬 273 • ⏱️ 8:27 • 6h ago
+👁️ 12K • 👍 767 • 💬 273 • ⏱️ 8:27 • 7h ago
 
 ---
 
@@ -385,7 +377,7 @@ Gold just entered a bear market during geopolitical chaos while Bitcoin held ste
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 944 • 💬 68 • ⏱️ 13:19 • 18h ago
+👁️ 12K • 👍 944 • 💬 68 • ⏱️ 13:19 • 19h ago
 
 ---
 
@@ -405,7 +397,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 27K • 👍 3K • 💬 123 • ⏱️ 24:02 • 12h ago
+👁️ 27K • 👍 3K • 💬 123 • ⏱️ 24:02 • 13h ago
 
 ---
 

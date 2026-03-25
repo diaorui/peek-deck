@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-25T07:35:18.815757+00:00'
+updated: '2026-03-25T08:53:44.478098+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 25, 2026 at 07:35 UTC  
+**Last Updated:** March 25, 2026 at 08:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Earlier this month, Seoul's COEX hosted an event whose name said it all: the China Humanoid Conference, "First Journey to Korea." Unitree, Fourier, Leju and Hua
 
-🔗 [The Korea Herald](https://www.koreaherald.com/article/10698201) • 1h ago
+🔗 [The Korea Herald](https://www.koreaherald.com/article/10698201) • 3h ago
 
 ---
 
@@ -44,7 +44,7 @@ Earlier this month, Seoul's COEX hosted an event whose name said it all: the Chi
 
 KOU-III is a two-legged robot from Shandong University that combines walking with drone-like rotors for extra balance and power. Inspired by how ostriches use their wings while running, the rotors help it jump higher, land softly, and stay stable on tough terrain.
 
-14h ago
+16h ago
 
 ---
 
@@ -52,7 +52,7 @@ KOU-III is a two-legged robot from Shandong University that combines walking wit
 
 From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/2036127368088080867 On Youtube: Kyber Labs - Wet Lab Demo: https://www.youtube.com/watch?v=iM7WjQYlFvM Kyber Labs Demos: https://kyberlabs.ai/demos
 
-21h ago
+23h ago
 
 ---
 
@@ -68,7 +68,15 @@ From Marc Benioff on 𝕏: https://x.com/Benioff/status/2036252519308075219
 
 I have this lidar from one of my robo vacuum cleaner DEEBOT Y1 PRO. I want to use this lidar for my project. I want to connect it to rpi zero 2w can someone explain me how to identify the connections as I have already searched the web and not getting any proper results.
 
-15h ago
+17h ago
+
+---
+
+**[What is the difference b/w Human and Humanoid?](https://www.reddit.com/r/robotics/comments/1s347n0/what_is_the_difference_bw_human_and_humanoid/)**
+
+It is easy to observe that human are generally predictable in terms of their actions and uncertainty, whereas humanoid robots are more unpredictable. This raises an important question for long-video understanding: what kinds of challenges arise when using humanoid-robot videos. For example, when we generate questions from such videos, VLMs may struggle to identify the correct answers because humanoid robot actions are unpredictable. I mean where foundational models will fail to predict the answer when provide humanoid robot video?
+
+1h ago
 
 ---
 
@@ -76,7 +84,7 @@ I have this lidar from one of my robo vacuum cleaner DEEBOT Y1 PRO. I want to us
 
 I heard some people talking about how wheel-legs are superior for robots who operate off-road. But does it holds true to wetlands? like swamps, marshlands, bogs, mangrooves, etc. Capabilities that a robot would need at minimun to operate in wetlands (in my opinion): Have low ground pressure, preferably below 6 psi; able to move on soft mud; be amphibious; have good grip in soft wet ground. Can a wheel-legged robot have those capabilities? My biggest problem with wheel-legs is that I don't see them being able to have a very low ground pressure. Traditional legs can just have duck-like feet. Grip in soft wet grounds is a problem too. But I don't know, I'm a biologist who likes wetlands, not a engineer, so that is why I'm asking.
 
-1h ago
+3h ago
 
 ---
 
@@ -84,7 +92,7 @@ I heard some people talking about how wheel-legs are superior for robots who ope
 
 I have a 6DOF toy robot arm and i want to be able to control the joints with a microcontroller. How can i do this since it uses a dc motor with and can only move forwards and backwards so far
 
-18h ago
+19h ago
 
 ---
 
@@ -98,13 +106,7 @@ I have a 6DOF toy robot arm and i want to be able to control the joints with a m
 
 Hey everyone, i’m working on integrating a StepperOnline HHT-25-50-I-D14 harmonic drive reducer (50:1) with a NEMA 34 stepper motor, and I had a quick question before moving fIorward. Does anyone know if this reducer comes with any mounting accessories? Specifically: Motor mounting flange / adapter plate (for NEMA 34?) Shaft coupling or connection parts . Or is it just the standalone reducer? From what I can see, it looks like a shaft-input type, so I’m assuming I’ll need to design a custom adapter plate, but I’d like to confirm before ordering. If anyone has used this exact model or a similar one, I’d really appreciate your feedback 🙏 Thanks!
 
-15h ago
-
----
-
-**[Roadrunner, the latest robot from the Robotics and AI Institute, is a bipedal, wheeled robot for multi-modal locomotion](https://www.reddit.com/r/robotics/comments/1s1jo4q/roadrunner_the_latest_robot_from_the_robotics_and/)**
-
-1d ago
+17h ago
 
 ---
 
@@ -114,39 +116,15 @@ Hey everyone, i’m working on integrating a StepperOnline HHT-25-50-I-D14 harmo
 
 **[Amazon Acquires Fauna Robotics, Entering Consumer Humanoid Market](https://www.bloomberg.com/news/articles/2026-03-24/amazon-acquires-fauna-robotics-entering-consumer-humanoid-market)**
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 13h ago
 
 ---
 
-**[Amazon acquires 'approachable' humanoid maker Fauna Robotics](https://www.cnbc.com/2026/03/24/amazon-humanoid-maker-fauna-robotics-sprout.html)**
-
-Fauna's first product, called Sprout, is a $50,000 bipedal robot that's 3 feet, 6 inches tall and designed to be "approachable and human-friendly."
-
-CNBC • 10h ago
-
----
-
-**[Amazon buys Fauna Robotics, maker of the Sprout humanoid robot](https://abcnews.com/Technology/wireStory/amazon-buys-fauna-robotics-maker-sprout-humanoid-robot-131377681)**
-
-Amazon has acquired Fauna Robotics, just under two months after the startup introduced a humanoid robot called Sprout designed for social spaces like homes and schools
-
-abcnews.com • 3h ago
-
----
-
-**[The most innovative robotics and engineering companies of 2026](https://www.fastcompany.com/91497289/robotics-engineering-most-innovative-companies-2026)**
-
-Why Boston Dynamics, Terabase Energy, Lucid Bots, and Symbotic are among Fast Company's Most Innovative Companies in robotics and engineering for 2026.
-
-Fast Company • 20h ago
-
----
-
-**[Video shows Serve Robotics delivery robot crash into CTA bus shelter on Racine outside Centre Construction Group in West Town](https://abc7chicago.com/post/video-shows-serve-robotics-delivery-robot-crash-cta-bus-shelter-racine-outside-centre-construction-group-west-town/18763333/)**
+**[2 food delivery robots with Serve Robotics, Coco Robotics crash into CTA bus shelters days apart; 1 incident caught on camera](https://abc7chicago.com/post/video-shows-serve-robotics-delivery-robot-crash-cta-bus-shelter-racine-outside-centre-construction-group-west-town/18763333/)**
 
 Surveillance footage captured one of at least two food delivery robot crashes into CTA bus shelters.
 
-ABC7 Chicago • 11h ago
+ABC7 Chicago • 4h ago
 
 ---
 
@@ -154,13 +132,21 @@ ABC7 Chicago • 11h ago
 
 Modular robots are easily expandable, know when they're upside down or stuck, and can march forward across all kinds of terrain.
 
-Live Science • 16h ago
+Live Science • 17h ago
 
 ---
 
-**[Billionaire Qatari Sheikh, Amazon Back Robotics Startup Neura](https://www.bloomberg.com/news/articles/2026-03-24/billionaire-qatari-sheikh-amazon-back-robotics-startup-neura)**
+**[Billionaire Qatar Sheikh, Amazon Back Robotics Startup Neura](https://www.bloomberg.com/news/articles/2026-03-24/billionaire-qatari-sheikh-amazon-back-robotics-startup-neura)**
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 1h ago
+
+---
+
+**[The most innovative robotics and engineering companies of 2026](https://www.fastcompany.com/91497289/robotics-engineering-most-innovative-companies-2026)**
+
+Why Boston Dynamics, Terabase Energy, Lucid Bots, and Symbotic are among Fast Company's Most Innovative Companies in robotics and engineering for 2026.
+
+Fast Company • 21h ago
 
 ---
 
@@ -170,11 +156,11 @@ Tech Xplore • 1d ago
 
 ---
 
-**[Second delivery robot crashes into bus shelter, this time in Old Town](https://www.cbsnews.com/chicago/news/second-delivery-robot-crashes-into-bus-shelter-this-time-in-old-town/)**
+**[Toyota Deploys 7 Humanoid Robots In A Canadian Factory — But Mark Cuban Says The Current Humanoid Robot Push Could Fail Within 5-10 Years](https://finance.yahoo.com/sectors/technology/articles/toyota-deploys-7-humanoid-robots-141613877.html)**
 
-The robot belonging to Coco Robotics was spotted by a CBS News Chicago viewer near North Avenue and Halsted Street in Old Town on Tuesday afternoon.
+Toyota Motor (NYSE:TM) is moving humanoid robots onto a factory floor in Canada. At the same time, billionaire entrepreneur Mark Cuban is openly questioning whether the entire idea has staying power. The contrast is hard to ignore. One of the world's largest automakers is scaling up real-world use, while a longtime tech investor is warning the trend could burn out within a decade. Toyota puts humanoid robots to work after a successful trial Last month, Agility Robotics said in a statement that T
 
-CBS News • 8h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -182,7 +168,23 @@ CBS News • 8h ago
 
 A spokesperson for OpenAI said the discontinuation of Sora comes as the company plans to focus on robotics rather than generative imagery.
 
-Business Insider • 9h ago
+Business Insider • 10h ago
+
+---
+
+**[Second delivery robot crashes into bus shelter, this time in Old Town](https://www.cbsnews.com/chicago/news/second-delivery-robot-crashes-into-bus-shelter-this-time-in-old-town/)**
+
+The robot belonging to Coco Robotics was spotted by a CBS News Chicago viewer near North Avenue and Halsted Street in Old Town on Tuesday afternoon.
+
+CBS News • 9h ago
+
+---
+
+**[Father makes donation to NL-S robotics in memory of his son](https://www.willmarradio.com/news/father-makes-donation-to-nl-s-robotics-in-memory-of-his-son/article_ca7f6a4c-b7de-454b-89c5-7c9597374ecc.html)**
+
+(New London MN-) The father of a former New London-Spicer Robotics Team member who passed away has donated $2000 to the program. Guy Chetrit says the money is in the
+
+Willmar Radio • 20h ago
 
 ---
 
@@ -226,7 +228,7 @@ Amazon bought the New York-based startup Fauna Robotics. The deal closed last we
 
 📺 Bloomberg Television
 
-👁️ 2K • 👍 22 • 💬 2 • ⏱️ 1:22 • 11h ago
+👁️ 2K • 👍 22 • 💬 2 • ⏱️ 1:22 • 12h ago
 
 ---
 
@@ -236,7 +238,7 @@ Thanks to Delete Me for sponsoring this video. To keep your private info private
 
 📺 Kim Java
 
-👁️ 40K • 👍 2K • 💬 117 • ⏱️ 20:00 • 18h ago
+👁️ 40K • 👍 2K • 💬 117 • ⏱️ 20:00 • 19h ago
 
 ---
 
@@ -246,7 +248,7 @@ Robots are becoming ubiquitous in China, whether for industrial manufacturing, t
 
 📺 ShanghaiEye魔都眼
 
-👁️ 16K • 👍 223 • 💬 63 • ⏱️ 1:29 • 21h ago
+👁️ 16K • 👍 223 • 💬 63 • ⏱️ 1:29 • 22h ago
 
 ---
 
@@ -266,7 +268,7 @@ War Robots Gameplay: Machaira on Ultimate Typhon is Overpowered Damage My War Ro
 
 📺 Manni-Gaming
 
-👁️ 8K • 👍 473 • 💬 83 • ⏱️ 20:26 • 16h ago
+👁️ 8K • 👍 473 • 💬 83 • ⏱️ 20:26 • 17h ago
 
 ---
 
