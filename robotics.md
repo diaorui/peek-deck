@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-25T19:48:43.072588+00:00'
+updated: '2026-03-25T20:40:14.601523+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 25, 2026 at 19:48 UTC  
+**Last Updated:** March 25, 2026 at 20:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/2034708938269036686
 
-6h ago
+7h ago
 
 ---
 
 **[Figure 03 becomes the first humanoid robot to visit the White House](https://www.reddit.com/r/robotics/comments/1s3epc8/figure_03_becomes_the_first_humanoid_robot_to/)**
 
-3h ago
+4h ago
 
 ---
 
 **[“They are coming for our jobs..”](https://www.reddit.com/r/robotics/comments/1s3aomh/they_are_coming_for_our_jobs/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -80,15 +80,7 @@ KOU-III is a two-legged robot from Shandong University that combines walking wit
 
 We&rsquo;re announcing our March Meeting where we&rsquo;ll talk plugins!  &ldquo;An introduction to a beginner-friendly tutorial series that teaches how to create&hellip;
 
-🔗 [Vimeo](https://vimeo.com/1177012951?share=copy&fl=sv&fe=ci) • 2h ago
-
----
-
-**[give me 3d model ideas to help the community](https://www.reddit.com/r/robotics/comments/1s36tr0/give_me_3d_model_ideas_to_help_the_community/)**
-
-hi guys, so i started 3d modeling this to help the robotics and electronics communities and im posting them no maker world, i design things for Arduino, Raspberry pi, components and my own projects. i wanted to ask what things you would like to see designed and posted so i can do that please dont downvote im just trying to get ideas for things to post to help the community, here is my page if you would like to check it out: https://makerworld.com/en/@andrewgr1234 thank you!
-
-9h ago
+🔗 [Vimeo](https://vimeo.com/1177012951?share=copy&fl=sv&fe=ci) • 3h ago
 
 ---
 
@@ -104,7 +96,15 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/203612736808808086
 
 Starting a new 90 days mission.... will update daily progress GitHub projects later some stramlit apps fir computer vision some research paper implementation advanced projects ..and new research paper also
 
-4h ago
+5h ago
+
+---
+
+**[Dynamixel Y series](https://www.reddit.com/r/robotics/comments/1s35kvh/dynamixel_y_series/)**
+
+Hello people! does anyone know of anywhere with dynamixel Y series in stock? looking for some larger ones for a project, or anyone have some (slightly) loved ones they might be looking to sell. apologies if this is inappropriate to post here!
+
+11h ago
 
 ---
 
@@ -116,21 +116,7 @@ Starting a new 90 days mission.... will update daily progress GitHub projects la
 
 Amazon has acquired Fauna Robotics, just under two months after the startup introduced a humanoid robot called Sprout designed for social spaces like homes and schools
 
-abcnews.com • 21h ago
-
----
-
-**[Amazon acquires 'approachable' humanoid maker Fauna Robotics](https://www.cnbc.com/2026/03/24/amazon-humanoid-maker-fauna-robotics-sprout.html)**
-
-Fauna's first product, called Sprout, is a $50,000 bipedal robot that's 3 feet, 6 inches tall and designed to be "approachable and human-friendly."
-
-CNBC • 22h ago
-
----
-
-**[Amazon Acquires Fauna Robotics, Entering Consumer Humanoid Market](https://www.bloomberg.com/news/articles/2026-03-24/amazon-acquires-fauna-robotics-entering-consumer-humanoid-market)**
-
-Bloomberg.com • 1d ago
+abcnews.com • 22h ago
 
 ---
 
@@ -142,11 +128,27 @@ Live Science • 1d ago
 
 ---
 
+**[3 robotics trends from NVIDIA GTC 2026](https://www.therobotreport.com/3-robotics-trends-from-nvidia-gtc-2026/)**
+
+Our reporter shares major AI and robotics takeaways from speakers and exhibitors at NVIDIA's GTC event in San Jose last week.
+
+The Robot Report • 9m ago
+
+---
+
+**[Melania Trump brings an AI-powered robot to the White House — and says there could be more of them soon](https://www.cnn.com/2026/03/25/politics/melania-trump-ai-robot)**
+
+The storied White House East Room has welcomed politicians, foreign dignitaries, war heroes, celebrities and elite athletes, but on Wednesday, it was the setting for an extremely robotic speech introducing first lady Melania Trump.
+
+CNN • 3h ago
+
+---
+
 **[Wristband enables wearers to control a robotic hand with their own movements](https://news.mit.edu/2026/wristband-enables-wearers-control-robotic-hand-with-own-movements-0325)**
 
 MIT engineers designed an ultrasound wristband that precisely tracks a wearer’s hand movements in real time and communicates the information to a robot or a virtual environment.
 
-MIT News • 9h ago
+MIT News • 10h ago
 
 ---
 
@@ -154,7 +156,15 @@ MIT News • 9h ago
 
 A spokesperson for OpenAI said the discontinuation of Sora comes as the company plans to focus on robotics rather than generative imagery.
 
-Business Insider • 21h ago
+Business Insider • 22h ago
+
+---
+
+**[Second delivery robot crashes into bus shelter, this time in Old Town](https://www.cbsnews.com/chicago/news/second-delivery-robot-crashes-into-bus-shelter-this-time-in-old-town/)**
+
+The robot belonging to Coco Robotics was spotted by a CBS News Chicago viewer near North Avenue and Halsted Street in Old Town on Tuesday afternoon.
+
+CBS News • 21h ago
 
 ---
 
@@ -166,25 +176,17 @@ Fast Company • 1d ago
 
 ---
 
-**[Second delivery robot crashes into bus shelter, this time in Old Town](https://www.cbsnews.com/chicago/news/second-delivery-robot-crashes-into-bus-shelter-this-time-in-old-town/)**
-
-The robot belonging to Coco Robotics was spotted by a CBS News Chicago viewer near North Avenue and Halsted Street in Old Town on Tuesday afternoon.
-
-CBS News • 20h ago
-
----
-
 **[Billionaire Qatari Sheikh, Amazon Back Robotics Startup Neura](https://www.bloomberg.com/news/articles/2026-03-24/billionaire-qatari-sheikh-amazon-back-robotics-startup-neura)**
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 13h ago
 
 ---
 
-**[30 Years Ago, Robots Learned to Walk Without Falling](https://spectrum.ieee.org/honda-p2-robot-ieee-milestone)**
+**[Lucid Bots raises $20M to keep up with demand for its window-washing drones](https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/)**
 
-How did Honda's P2 robot change the future of humanoid robotics?
+Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots.
 
-IEEE Spectrum • 1d ago
+TechCrunch • 9h ago
 
 ---
 
@@ -218,7 +220,7 @@ Amazon just made a surprising move into humanoid robotics by acquiring Fauna Rob
 
 📺 DPCcars
 
-👁️ 268 • 👍 27 • 💬 3 • ⏱️ 3:18 • 4h ago
+👁️ 268 • 👍 27 • 💬 3 • ⏱️ 3:18 • 5h ago
 
 ---
 
