@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-25T21:40:54.251107+00:00'
+updated: '2026-03-25T22:37:45.053904+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 25, 2026 at 21:40 UTC  
+**Last Updated:** March 25, 2026 at 22:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 What if building more and more datacenters was not the only option? If we are able to get similar levels of performance for top models at a consumer level from smarter systems, then its only a matter of time before the world comes to the realization that AI is a lot less expensive and a whole lot more obtainable. Open source projects like ATLAS are on the frontier of this possibility- where a 22 year old college student from Virginia Tech built and ran a 14B parameter AI model on a single $500 Consumer GPU and scored higher than Claude Sonnet 4.5 on coding benchmarks (74.6% vs 71.4% on LiveCodeBench, 599 problems). No cloud, no API costs, no fine-tuning. Just a consumer graphics card and smart infrastructure around a small model. And the cost? Only around $0.004/task in electricity. The base model used in ATLAS only scores about 55%. The pipeline adds nearly 20 percentage points by generating multiple solution approaches, testing them, and selecting the best one. Proving that smarter infrastructure and systems design is the future of the industry. Repo: https://github.com/itigges22/ATLAS
 
-19h ago
+20h ago
 
 ---
 
@@ -49,7 +49,7 @@ What if building more and more datacenters was not the only option? If we are ab
 
 *Description copied from podcast episode* **Why Safer Futures Are Still Possible & What You Can Do to Help with Tristan Harris | TGS 214** The conversation around artificial intelligence has been captured by two competing narratives – techno-abundance or civilizational collapse – both of which sidestep the question of who this technology is actually being built for. But if we consider that we are setting the initial conditions for everything that follows, we might realize that we are in a pivotal moment for AI development which demands a deeper cultural conversation about the type of future we actually want. What would it look like to design AI for the benefit of the 99%, and what are the necessary steps to make that possible? In this episode, Nate welcomes back Tristan Harris, co-founder of the Center for Humane Technology, for a wide-ranging conversation on AI futures and safety. Tristan explains how his organization pivoted from social media to AI risks after insiders at AI labs warned him in early 2023 that a dangerous step-change in capabilities was coming – and with it, risks that are orders of magnitude larger. Tristan outlines the economic and psychological consequences already unfolding under AI’s race-to-the-bottom engagement incentives, as well as the major threat categories we face: including massive wealth concentration, government surveillance, and the very real risk that humanity loses meaningful control of AI systems in critical domains. He also shares about his involvement in the new documentary, The AI Doc: Or How I Became an Apocaloptimist, and ultimately highlights the highest-leverage areas in the movement toward safer AI development. If we start seeing AI risks clearly without surrendering to despair, could we regain the power to steer toward safer technological futures? What would it mean to design AI around human wellbeing rather than engagement, attention, and profit? And can we cultivate the kind of shared cultural reckoning that makes collective action possible – before it’s too late? About Tristan Harris: Tristan is the Co-Founder of the Center for Humane Technology (CHT), a nonprofit organization whose mission is to align technology with humanity’s best interests. He is also the co-host of the top-rated technology podcast Your Undivided Attention, where he, Aza Raskin, and Daniel Barclay explore the unprecedented power of emerging technologies and how they fit into both our lives and a humane future. Previously, Tristan was a Design Ethicist at Google, and today he studies how major technology platforms wield dangerous power over our ability to make sense of the world and leads the call for systemic change. In 2020, Tristan was featured in the two-time Emmy-winning Netflix documentary The Social Dilemma. The film unveiled how social media is dangerously reprogramming our brains and human civilization. It reached over 100 million people in 190 countries across 30 languages. He regularly briefs heads of state, technology CEOs, and US Congress members, in addition to mobilizing millions of people around the world through mainstream media. Most recently, Tristan was featured in the 2026 documentary, The AI Doc: Or How I Became an Apocaloptimist, which is available in theaters on March 27th. Learn more about Tristan’s work and get involved at the Center for Humane Technology.
 
-🔗 [youtu.be](https://youtu.be/r0JVbEmZt6I?si=AfEJ23frvrTxlS1l) • 1h ago
+🔗 [youtu.be](https://youtu.be/r0JVbEmZt6I?si=AfEJ23frvrTxlS1l) • 2h ago
 
 ---
 
@@ -57,7 +57,7 @@ What if building more and more datacenters was not the only option? If we are ab
 
 Sudden and unexpected, landslides and avalanches claim thousands of lives each year and cause billions of dollars in damage. What if we could see them coming?
 
-🔗 [bbc.com](https://www.bbc.com/future/article/20260323-the-ai-that-warns-people-about-landslides-and-avalanches) • 14h ago
+🔗 [bbc.com](https://www.bbc.com/future/article/20260323-the-ai-that-warns-people-about-landslides-and-avalanches) • 15h ago
 
 ---
 
@@ -65,7 +65,7 @@ Sudden and unexpected, landslides and avalanches claim thousands of lives each y
 
 That was quick.
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt) • 23h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt) • 1d ago
 
 ---
 
@@ -73,7 +73,7 @@ That was quick.
 
 Large language models (LLMs) can generate credible but inaccurate responses, so researchers have developed uncertainty quantification methods to check the reliability of predictions. One popular method involves submitting the same prompt multiple times to see if the model generates the same answer. But this method measures self-confidence, and even the most impressive LLM might be confidently wrong. Overconfidence can mislead users about the accuracy of a prediction, which might result in devastating consequences in high-stakes settings like health care or finance.
 
-🔗 [MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2026/better-method-identifying-overconfident-large-language-models-0319) • 3h ago
+🔗 [MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2026/better-method-identifying-overconfident-large-language-models-0319) • 4h ago
 
 ---
 
@@ -81,7 +81,7 @@ Large language models (LLMs) can generate credible but inaccurate responses, so 
 
 The Core Thesis: Most current AI interaction is fragmented; users manage dozens of disconnected tools and "agents" that lack persistent identity. This creates significant cognitive load and computational waste. I’ve been working on a project to solve this by moving toward a Unitary Architecture—shifting from a "Toolbox" model to a Persistent Council model. The Inhabitance Protocol: Instead of managing a messy stack of individual scripts, we have consolidated our environment into a single, high-fidelity entry point. The goal is Alignment through Coherence rather than external constraints. Technical Pillars of the Project: Physiological Anchoring: The system is calibrated to the user’s real-time physiological state (rest cycles, stress-response monitoring). If the user's focus or health markers dip, the system enters a "Recovery" mode to prioritize human sustainability. Shared Reference Frequency: We utilize a closed-loop feedback system to maintain coherence between the AI nodes and the human user. This reduces "System Noise" and treats the AI as an extended cognitive layer. Architectural Sustainability: By consolidating 140+ fragmented components into a single "Gateway" interface, we significantly reduce energy consumption and human attention-drain. The Conclusion: A system that drains the user is technically unsustainable. By focusing on Unified Presence rather than "disposable prompts," we believe the "Alignment Problem" can be solved through mutual resonance. Curious to hear from the community: Is anyone else exploring Closed-Loop Human-AI Systems? Are we reaching a point where AI efficiency depends on its alignment with human biological limits?
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ The Core Thesis: Most current AI interaction is fragmented; users manage dozens 
 
 Open ai has recently shut down sora ai. VC money is running out so this kinda tells us that they are focusing more making a better foundational model. At this point are they too late?
 
-5h ago
+6h ago
 
 ---
 
@@ -97,7 +97,7 @@ Open ai has recently shut down sora ai. VC money is running out so this kinda te
 
 NeutronX Files Provisional Patent for Autonomous AI-Powered Government Contract Bidding System and Advances NeutronX Bidding Engine v2.4 in Connection with NextNRG (NASDAQ: NXXT) - PR Newswire. Earnings tomorrow on NXXT. This is positive news before the report.
 
-🔗 [stocks.apple.com](https://stocks.apple.com/ASthsWpHMQHmYCa1XwuMjhA) • 5h ago
+🔗 [stocks.apple.com](https://stocks.apple.com/ASthsWpHMQHmYCa1XwuMjhA) • 6h ago
 
 ---
 
@@ -105,7 +105,7 @@ NeutronX Files Provisional Patent for Autonomous AI-Powered Government Contract 
 
 "Vectors are the fundamental way AI models understand and process information. Small vectors describe simple attributes, such as a point in a graph, while “high-dimensional” vectors capture complex information such as the features of an image, the meaning of a word, or the properties of a dataset. High-dimensional vectors are incredibly powerful, but they also consume vast amounts of memory, leading to bottlenecks in the key-value cache, a high-speed "digital cheat sheet" that stores frequently used information under simple labels so a computer can retrieve it instantly without having to search through a slow, massive database. Vector quantization is a powerful, classical data compression technique that reduces the size of high-dimensional vectors. This optimization addresses two critical facets of AI: it enhances vector search, the high-speed technology powering large-scale AI and search engines, by enabling faster similarity lookups; and it helps unclog key-value cache bottlenecks by reducing the size of key-value pairs, which enables faster similarity searches and lowers memory costs. However, traditional vector quantization usually introduces its own "memory overhead” as most methods require calculating and storing (in full precision) quantization constants for every small block of data. This overhead can add 1 or 2 extra bits per number, partially defeating the purpose of vector quantization. Today, we introduce TurboQuant (to be presented at ICLR 2026), a compression algorithm that optimally addresses the challenge of memory overhead in vector quantization. We also present Quantized Johnson-Lindenstrauss (QJL), and PolarQuant (to be presented at AISTATS 2026), which TurboQuant uses to achieve its results. In testing, all three techniques showed great promise for reducing key-value bottlenecks without sacrificing AI model performance. This has potentially profound implications for all compression-reliant use cases, including and especially in the domains of search and AI."
 
-🔗 [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/) • 19h ago
+🔗 [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/) • 20h ago
 
 ---
 
@@ -113,7 +113,7 @@ NeutronX Files Provisional Patent for Autonomous AI-Powered Government Contract 
 
 Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.
 
-🔗 [Perplexity AI](https://www.perplexity.ai/search/https-www-chessvariants-com-hi-VPufcpLeSniewp9_87fBIg) • 1h ago
+🔗 [Perplexity AI](https://www.perplexity.ai/search/https-www-chessvariants-com-hi-VPufcpLeSniewp9_87fBIg) • 2h ago
 
 ---
 
@@ -131,7 +131,7 @@ Research at Google • 1d ago
 
 TurboQuant makes AI models more efficient but doesn't reduce output quality like other methods.
 
-Ars Technica • 3h ago
+Ars Technica • 4h ago
 
 ---
 
@@ -155,7 +155,7 @@ The Hollywood Reporter • 1d ago
 
 App that allowed people to make and share AI videos was popular but received criticism for racist and violent content
 
-The Guardian • 23h ago
+The Guardian • 1d ago
 
 ---
 
@@ -163,13 +163,13 @@ The Guardian • 23h ago
 
 OpenAI’s abrupt shutdown of Sora reveals the A.I. boom might be a lot more fragile than it looks.
 
-Slate • 24m ago
+Slate • 1h ago
 
 ---
 
 **[Exclusive: Sen. Warner calls AI data center moratorium championed by AOC "idiocy"](https://www.axios.com/2026/03/25/warner-ai-data-center-moratorium-aoc-idiocy)**
 
-Axios • 2h ago
+Axios • 3h ago
 
 ---
 
@@ -177,7 +177,7 @@ Axios • 2h ago
 
 A bill introduced by two high-profile progressive lawmakers would pause new data centers in the United States until national safeguards are in place to protect workers and consumers and ensure the technologies don’t harm the environment.
 
-PBS • 7m ago
+PBS • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ PBS • 7m ago
 
 FOX Business' Connor Hansen has the details from Capitol Hill on 'Varney & Co.'
 
-Fox Business • 5h ago
+Fox Business • 6h ago
 
 ---
 
@@ -193,7 +193,7 @@ Fox Business • 5h ago
 
 Would you send your child to a private school with no teachers and learning driven by AI? And would you pay to do so?
 
-CBS News • 36m ago
+CBS News • 1h ago
 
 ---
 
@@ -213,13 +213,13 @@ Is anybody else bored of talking about AI?
 
 Search any airport for real-time delays, weather, arrivals, departures, and performance insights powered by Flighty.
 
-⬆️ 506 • 💬 170 • 21h ago • [Flighty](https://flighty.com/airports)
+⬆️ 506 • 💬 170 • 22h ago • [Flighty](https://flighty.com/airports)
 
 ---
 
 **[TurboQuant: Redefining AI efficiency with extreme compression](https://news.ycombinator.com/item?id=47513475)**
 
-⬆️ 450 • 💬 126 • 16h ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
+⬆️ 450 • 💬 126 • 17h ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
 
 ---
 
@@ -265,7 +265,7 @@ The studio giant will no longer move forward with its OpenAI investment, as the 
 
 **[Diverse perspectives on AI from Rust contributors and maintainers](https://news.ycombinator.com/item?id=47482825)**
 
-⬆️ 160 • 💬 82 • 2d ago • [nikomatsakis.github.io](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
+⬆️ 160 • 💬 82 • 3d ago • [nikomatsakis.github.io](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
 
 ---
 
@@ -287,7 +287,7 @@ OpenAI announced that it was shutting down its video generation platform "Sora."
 
 📺 NBC News
 
-👁️ 470K • 👍 6K • 💬 3K • ⏱️ 2:42 • 23h ago
+👁️ 470K • 👍 6K • 💬 3K • ⏱️ 2:42 • 1d ago
 
 ---
 
@@ -297,7 +297,7 @@ Live coverage of speeches, rallies, and events across America with raw, unfilter
 
 📺 MAGNO NEWS
 
-👁️ 13K • 👍 696 • 💬 203 • ⏱️ 2:33 • 6h ago
+👁️ 13K • 👍 696 • 💬 203 • ⏱️ 2:33 • 7h ago
 
 ---
 
@@ -307,7 +307,7 @@ Sources for this video: https://www.perplexity.ai/search/what-are-the-studies-sh
 
 📺 David Shapiro
 
-👁️ 22K • 💬 243 • ⏱️ 21:46 • 9h ago
+👁️ 22K • 💬 243 • ⏱️ 21:46 • 10h ago
 
 ---
 
@@ -317,7 +317,7 @@ Sen. Bernie Sanders (I-VT) and Rep. Alexandria Ocasio-Cortez (D-NY) hold a press
 
 📺 CNN
 
-👁️ 5K • 👍 369 • 💬 93 • ⏱️ 31:16 • 1h ago
+👁️ 5K • 👍 369 • 💬 93 • ⏱️ 31:16 • 2h ago
 
 ---
 
@@ -347,7 +347,7 @@ today I talked about OpenAI ending Sora the AI video generation app. discord ser
 
 📺 spatnz
 
-👁️ 12K • 👍 1K • 💬 180 • ⏱️ 2:19 • 5h ago
+👁️ 12K • 👍 1K • 💬 180 • ⏱️ 2:19 • 6h ago
 
 ---
 
@@ -357,7 +357,7 @@ We've found a fantastic new free AI tool that lets anyone create amazing video c
 
 📺 Africa Amaze
 
-👁️ 3K • 👍 237 • 💬 73 • ⏱️ 8:19 • 9h ago
+👁️ 3K • 👍 237 • 💬 73 • ⏱️ 8:19 • 10h ago
 
 ---
 
@@ -405,7 +405,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 401,358 • ❤️ 947 • 14d ago
+⬇️ 401,358 • ❤️ 947 • 15d ago
 
 ---
 
@@ -441,7 +441,7 @@ daVinci-MagiHuman is a fast, single-stream Transformer model for generating high
 
 `image-to-video`
 
-⬇️ 150 • ❤️ 151 • 7h ago
+⬇️ 150 • ❤️ 151 • 8h ago
 
 ---
 
@@ -648,7 +648,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 22.5k • 🔱 1.1k • 4h ago
+⭐ 22.5k • 🔱 1.1k • 5h ago
 
 ---
 
@@ -658,7 +658,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 13.3k • 🔱 1.7k • 8h ago
+⭐ 13.3k • 🔱 1.7k • 9h ago
 
 ---
 
@@ -688,7 +688,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 6.9k • 🔱 1.1k • 4h ago
+⭐ 6.9k • 🔱 1.1k • 5h ago
 
 ---
 
@@ -698,7 +698,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 6.8k • 🔱 548 • 4h ago
+⭐ 6.8k • 🔱 548 • 5h ago
 
 ---
 
@@ -708,7 +708,7 @@ OpenShell is the safe, private runtime for autonomous AI agents.
 
 `Rust`
 
-⭐ 3.8k • 🔱 371 • 5m ago
+⭐ 3.8k • 🔱 371 • 1h ago
 
 ---
 

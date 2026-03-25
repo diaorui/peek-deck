@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-25T21:40:54.269124+00:00'
+updated: '2026-03-25T22:37:45.069414+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 25, 2026 at 21:40 UTC  
+**Last Updated:** March 25, 2026 at 22:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/2034708938269036686
 
-8h ago
+9h ago
 
 ---
 
 **[Figure 03 becomes the first humanoid robot to visit the White House](https://www.reddit.com/r/robotics/comments/1s3epc8/figure_03_becomes_the_first_humanoid_robot_to/)**
 
-5h ago
+6h ago
 
 ---
 
 **[“They are coming for our jobs..”](https://www.reddit.com/r/robotics/comments/1s3aomh/they_are_coming_for_our_jobs/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -56,7 +56,7 @@ From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/20347089382690366
 
 AI-driven robotic hand with 21+ DoF and sub-millimeter precision, capable of delicate tasks like threading and micro-assembly. Uses tendon-driven actuation and real-time feedback for high consistency in controlled environments.
 
-4h ago
+5h ago
 
 ---
 
@@ -64,7 +64,7 @@ AI-driven robotic hand with 21+ DoF and sub-millimeter precision, capable of del
 
 Earlier this month, Seoul's COEX hosted an event whose name said it all: the China Humanoid Conference, "First Journey to Korea." Unitree, Fourier, Leju and Hua
 
-🔗 [The Korea Herald](https://www.koreaherald.com/article/10698201) • 15h ago
+🔗 [The Korea Herald](https://www.koreaherald.com/article/10698201) • 16h ago
 
 ---
 
@@ -72,7 +72,7 @@ Earlier this month, Seoul's COEX hosted an event whose name said it all: the Chi
 
 Hi a hobby idea came to me randomly about making a robot arm i can control with a camera like the classic 2 prong type however i can control via a camera looking at my arm but didn't know how to do it and what i need. I already have a 3d printer so thought it wouldn't be too difficult however its hard to find a similar scenario.
 
-10m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ KOU-III is a two-legged robot from Shandong University that combines walking wit
 
 We&rsquo;re announcing our March Meeting where we&rsquo;ll talk plugins!  &ldquo;An introduction to a beginner-friendly tutorial series that teaches how to create&hellip;
 
-🔗 [Vimeo](https://vimeo.com/1177012951?share=copy&fl=sv&fe=ci) • 4h ago
+🔗 [Vimeo](https://vimeo.com/1177012951?share=copy&fl=sv&fe=ci) • 5h ago
 
 ---
 
@@ -104,7 +104,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/203612736808808086
 
 Hello people! does anyone know of anywhere with dynamixel Y series in stock? looking for some larger ones for a project, or anyone have some (slightly) loved ones they might be looking to sell. apologies if this is inappropriate to post here!
 
-12h ago
+13h ago
 
 ---
 
@@ -116,7 +116,7 @@ Hello people! does anyone know of anywhere with dynamixel Y series in stock? loo
 
 Amazon has acquired Fauna Robotics, just under two months after the startup introduced a humanoid robot called Sprout designed for social spaces like homes and schools
 
-abcnews.com • 23h ago
+abcnews.com • 1d ago
 
 ---
 
@@ -146,7 +146,7 @@ Live Science • 1d ago
 
 MIT engineers designed an ultrasound wristband that precisely tracks a wearer’s hand movements in real time and communicates the information to a robot or a virtual environment.
 
-MIT News • 11h ago
+MIT News • 12h ago
 
 ---
 
@@ -154,7 +154,7 @@ MIT News • 11h ago
 
 The robot belonging to Coco Robotics was spotted by a CBS News Chicago viewer near North Avenue and Halsted Street in Old Town on Tuesday afternoon.
 
-CBS News • 22h ago
+CBS News • 23h ago
 
 ---
 
@@ -162,7 +162,7 @@ CBS News • 22h ago
 
 A spokesperson for OpenAI said the discontinuation of Sora comes as the company plans to focus on robotics rather than generative imagery.
 
-Business Insider • 23h ago
+Business Insider • 1d ago
 
 ---
 
@@ -170,7 +170,7 @@ Business Insider • 23h ago
 
 Amazon.com (NasdaqGS:AMZN) agreed to acquire Fauna Robotics, signaling an entry into consumer humanoid robotics alongside its existing automation efforts. AWS experienced repeated and severe service disruptions in its Bahrain region, with outages linked to drone strikes connected to ongoing Middle East conflict. The disruptions triggered customer migrations and operational changes, raising fresh questions about cloud resiliency in higher risk geographies. For a company already active in...
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -184,7 +184,7 @@ Fast Company • 1d ago
 
 **[Billionaire Qatari Sheikh, Amazon Back Robotics Startup Neura](https://www.bloomberg.com/news/articles/2026-03-24/billionaire-qatari-sheikh-amazon-back-robotics-startup-neura)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -228,7 +228,7 @@ The Figure 03 recently visited the White House, becoming the first AI-powered hu
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 80 • 💬 14 • ⏱️ 0:44 • 4h ago
+👁️ 2K • 👍 80 • 💬 14 • ⏱️ 0:44 • 5h ago
 
 ---
 
@@ -288,7 +288,7 @@ A wave of attention is building around a new concept from Apple that suggests th
 
 📺 Carros Show
 
-👁️ 4K • 👍 93 • 💬 9 • ⏱️ 8:19 • 5d ago
+👁️ 4K • 👍 93 • 💬 9 • ⏱️ 8:19 • 6d ago
 
 ---
 
