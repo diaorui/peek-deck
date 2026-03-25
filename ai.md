@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-25T14:41:16.856736+00:00'
+updated: '2026-03-25T16:11:41.442404+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
-- repositories
 - videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 25, 2026 at 14:41 UTC  
+**Last Updated:** March 25, 2026 at 16:11 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 What if building more and more datacenters was not the only option? If we are able to get similar levels of performance for top models at a consumer level from smarter systems, then its only a matter of time before the world comes to the realization that AI is a lot less expensive and a whole lot more obtainable. Open source projects like ATLAS are on the frontier of this possibility- where a 22 year old college student from Virginia Tech built and ran a 14B parameter AI model on a single $500 Consumer GPU and scored higher than Claude Sonnet 4.5 on coding benchmarks (74.6% vs 71.4% on LiveCodeBench, 599 problems). No cloud, no API costs, no fine-tuning. Just a consumer graphics card and smart infrastructure around a small model. And the cost? Only around $0.004/task in electricity. The base model used in ATLAS only scores about 55%. The pipeline adds nearly 20 percentage points by generating multiple solution approaches, testing them, and selecting the best one. Proving that smarter infrastructure and systems design is the future of the industry. Repo: https://github.com/itigges22/ATLAS
 
-12h ago
+13h ago
 
 ---
 
@@ -49,7 +49,7 @@ What if building more and more datacenters was not the only option? If we are ab
 
 Sudden and unexpected, landslides and avalanches claim thousands of lives each year and cause billions of dollars in damage. What if we could see them coming?
 
-🔗 [bbc.com](https://www.bbc.com/future/article/20260323-the-ai-that-warns-people-about-landslides-and-avalanches) • 7h ago
+🔗 [bbc.com](https://www.bbc.com/future/article/20260323-the-ai-that-warns-people-about-landslides-and-avalanches) • 9h ago
 
 ---
 
@@ -57,7 +57,7 @@ Sudden and unexpected, landslides and avalanches claim thousands of lives each y
 
 That was quick.
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt) • 16h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt) • 18h ago
 
 ---
 
@@ -65,13 +65,15 @@ That was quick.
 
 "Vectors are the fundamental way AI models understand and process information. Small vectors describe simple attributes, such as a point in a graph, while “high-dimensional” vectors capture complex information such as the features of an image, the meaning of a word, or the properties of a dataset. High-dimensional vectors are incredibly powerful, but they also consume vast amounts of memory, leading to bottlenecks in the key-value cache, a high-speed "digital cheat sheet" that stores frequently used information under simple labels so a computer can retrieve it instantly without having to search through a slow, massive database. Vector quantization is a powerful, classical data compression technique that reduces the size of high-dimensional vectors. This optimization addresses two critical facets of AI: it enhances vector search, the high-speed technology powering large-scale AI and search engines, by enabling faster similarity lookups; and it helps unclog key-value cache bottlenecks by reducing the size of key-value pairs, which enables faster similarity searches and lowers memory costs. However, traditional vector quantization usually introduces its own "memory overhead” as most methods require calculating and storing (in full precision) quantization constants for every small block of data. This overhead can add 1 or 2 extra bits per number, partially defeating the purpose of vector quantization. Today, we introduce TurboQuant (to be presented at ICLR 2026), a compression algorithm that optimally addresses the challenge of memory overhead in vector quantization. We also present Quantized Johnson-Lindenstrauss (QJL), and PolarQuant (to be presented at AISTATS 2026), which TurboQuant uses to achieve its results. In testing, all three techniques showed great promise for reducing key-value bottlenecks without sacrificing AI model performance. This has potentially profound implications for all compression-reliant use cases, including and especially in the domains of search and AI."
 
-🔗 [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/) • 12h ago
+🔗 [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/) • 14h ago
 
 ---
 
-**[Zanita Kraklëin - Mélange au Maroc.](https://www.reddit.com/r/artificial/comments/1s3cfar/zanita_kraklëin_mélange_au_maroc/)**
+**[New AI tech designed to end video game leaks for good uses watermarks hidden "in plain sight"](https://www.reddit.com/r/artificial/comments/1s3evrw/new_ai_tech_designed_to_end_video_game_leaks_for/)**
 
-9m ago
+EchoMark CEO Troy Batterberry showed off AI-powered technology at this year's GDC that uses a technique known as steganography.
+
+🔗 [PC Guide](https://www.pcguide.com/news/ai-tech-designed-to-end-video-game-leaks-for-good-uses-watermarks-hidden-in-plain-sight/) • 9m ago
 
 ---
 
@@ -79,7 +81,7 @@ That was quick.
 
 I trained a small model for a very narrow Bento feature, got it working, and then ran into the much less fun problem of where it was actually supposed to live.
 
-🔗 [Field Notes](https://blog.humidresearch.link/posts/small-models-are-getting-easy-serving-them-still-isnt/) • 21m ago
+🔗 [Field Notes](https://blog.humidresearch.link/posts/small-models-are-getting-easy-serving-them-still-isnt/) • 1h ago
 
 ---
 
@@ -87,7 +89,7 @@ I trained a small model for a very narrow Bento feature, got it working, and the
 
 Earlier this month with the release of the Lemonade SDK 10.0 and FastFlowLM 0.9.35, using AMD Ryzen AI NPUs for running LLMs on Linux finally became feasible
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Lemonade-10.0.1) • 1h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Lemonade-10.0.1) • 2h ago
 
 ---
 
@@ -95,7 +97,7 @@ Earlier this month with the release of the Lemonade SDK 10.0 and FastFlowLM 0.9.
 
 After getting dogpiled on Reddit (intentionally, for research), I formalized what I observed into a framework called IDDS — Identity-Driven Discourse Systems. The core insight: escalation is not random. It follows predictable state transitions driven by identity layer activation. The key innovation in 2.1 is the D_flag modifier — Identity Activation only accelerates escalation when disagreement is already present. This means someone sharing their identity in a friendly thread (D_flag=0) behaves completely differently from the same disclosure in an adversarial thread (D_flag=1). States: Neutral → Disagreement → Identity Activation → Personalization → Ad Hominem → Dogpile New in 2.1: MPF (Moral Protective Framing): "protecting children" as ethical cover for escalation — invisible to sentiment analysis, requires contextual state awareness Adversarial Seeding: threads born escalated at T=0 before the first reply Silence Bypass: block/mute only terminates the local thread, not the conflict Transient Dogpile Groups: the group never fully resets D_flag between targets Validated across Reddit, Threads, WhatsApp in English and Portuguese. Building a Playwright scraper + ML classifier next. Paper:https://github.com/JohannaWeb/Monarch/releases/tag/2.1.paper
 
-11h ago
+13h ago
 
 ---
 
@@ -111,7 +113,7 @@ Something interesting happened this month. March 11: Perplexity announced Person
 
 I need SOTA ai at like 2k TPS with tiny latency so that I can get time to first answer token under 3 seconds for real time replies with full COT for maximum intelligence. I don't need this consistently, only maybe for an hour at a time for real-time conversations for a family member with medical issues. There will be a 30 to 60K token prompt and then the context will slowly fill from a full back-and-forth conversation for about an hour that the model will have to keep up for. My budget is fairly limited, but at the same time I need maximum speed and maximum intelligence. I greatly prefer to not have to invest in any physical hardware to host it myself and would like to keep everything virtual if possible. Especially because I don't want to invest a lot of money all at once, I'd rather pay a temporary fee rather than thousands of dollars for the hardware to do this if possible. Here are the options of open source models I've come up with for possibly trying to run quants or full versions of these: Qwen3.5 27B Qwen3.5 397BA17B Kimi K2.5 GLM-5 Cerebras currently does great stuff with GLM-4.7 1K+ TPS; however, it's a dumber older model at this point and they might end api for it at any moment. OpenAI also has a "Spark" model on the pro tier in Codex, which hypothetically could be good, and it's very fast; however, I haven't seen any decent non coding benchmarks for it so I'm assuming it's not great and I am not excited to spend $200 just to test. I could also try to make do with a non-reasoning model like Opus 4.6 for quick time to first answer token, but it's really a shame to not have reasoning because there's obviously a massive gap between models that actually think. The fast Claude API is cool, but not nearly fast enough for time to >3 first answer token with COT because the latency itself for Opus is about three seconds. What do you guys think about this? Any advice?
 
-5h ago
+6h ago
 
 ---
 
@@ -121,13 +123,13 @@ I need SOTA ai at like 2k TPS with tiny latency so that I can get time to first 
 
 **[TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)**
 
-Research at Google • 18h ago
+Research at Google • 20h ago
 
 ---
 
 **[OpenAI Is Shutting Down Sora, Its A.I. Video Generator](https://www.nytimes.com/2026/03/24/technology/openai-shutting-down-sora.html)**
 
-The New York Times • 15h ago
+The New York Times • 17h ago
 
 ---
 
@@ -135,19 +137,21 @@ The New York Times • 15h ago
 
 The studio giant will no longer move forward with its OpenAI investment, as the AI company exits the video generation business.
 
-The Hollywood Reporter • 17h ago
+The Hollywood Reporter • 19h ago
 
 ---
 
-**[OpenAI drops AI video tool Sora, startling Disney, sources say](https://www.reuters.com/technology/openai-set-discontinue-sora-video-platform-app-wsj-reports-2026-03-24/)**
+**[OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns](https://www.npr.org/2026/03/25/g-s1-115055/openai-pulls-the-plug-on-sora-the-viral-ai-video-app-that-sparked-deepfake-concerns)**
 
-Reuters • 18h ago
+OpenAI said Tuesday that it was "saying goodbye to the Sora app" and that it would share more soon about how to preserve what users already created on the app.
+
+NPR • 10h ago
 
 ---
 
-**[NOAA Official Says AI Will Overhaul Future of Weather Forecasting](https://www.wsj.com/articles/noaa-official-says-ai-will-overhaul-future-of-weather-forecasting-76baca60?gaa_at=eafs&gaa_n=AWEtsqdcUn-ERi2Mx7yJJzR-_s7_XWlRxKXTZlY5IiBmVv6lOw-WUGS8kIDT&gaa_ts=69c3f76f&gaa_sig=CSEVZD-CVuZkj5am7Fw_sEjwUf46n8GOC7mRSH1_0wVjmvmZyAQP3saokQu4iTl8hSYpqP9PCHvqi2SF-QvnHg%3D%3D)**
+**[Economists, investors pitch Washington on AI-driven job loss safety net](https://www.axios.com/2026/03/25/ai-job-loss-wealth-gap)**
 
-WSJ • 41m ago
+Axios • 15m ago
 
 ---
 
@@ -155,21 +159,21 @@ WSJ • 41m ago
 
 Braze rallied as much as 25% before the bell on Wednesday, making it the top gainer in premarket trading.
 
-CNBC • 11m ago
+CNBC • 1h ago
 
 ---
 
-**[Warner 'AI optimistic' despite economic disruption concerns](https://www.politico.com/video/2026/03/25/warner-ai-optimistic-despite-economic-disruption-concerns-1975705)**
+**[Experts warn of increased use of AI to create deep fakes, commit identity theft](https://www.cbsnews.com/losangeles/video/experts-warn-of-increased-use-of-ai-to-create-deep-fakes-commit-identity-theft/)**
 
-Politico • 32m ago
+CBS News • 57m ago
 
 ---
 
-**[Bernie Sanders and AOC introduce bill to pause building of new datacenters](https://www.theguardian.com/us-news/2026/mar/25/datacenters-bernie-sanders-aoc)**
+**[Palantir’s billionaire CEO says only two kinds of people will succeed in the AI era: trade workers — ‘or you’re neurodivergent’](https://fortune.com/2026/03/24/palantir-ceo-alex-karp-two-people-successful-in-ai-era-vocational-skills-neurodivergence-gen-z-career-advice/)**
 
-Lawmakers say moratorium on construction would give buy time to create strong, federal guardrails for AI
+Billionaire Alex Karp tells Gen Z to skip elite college degrees, as one-fifth of Fortune 500 companies recruit more neurodivergent talent by 2027.
 
-The Guardian • 3h ago
+Fortune • 23h ago
 
 ---
 
@@ -177,15 +181,15 @@ The Guardian • 3h ago
 
 I asked experts if I'm real. Bad news. Even my aunt wasn't sure if I was a deepfake. AI is so convincing that a sitting prime minister struggled to prove he's alive. You might be next.
 
-BBC • 4h ago
+BBC • 6h ago
 
 ---
 
-**[Announcing Arm AGI CPU: The silicon foundation for the agentic AI cloud era](https://newsroom.arm.com/blog/introducing-arm-agi-cpu)**
+**[Perfect homework, blank stares: Why colleges are turning to oral exams to combat AI](https://apnews.com/article/college-oral-exam-ai-chatgpt-77954a19f5304bfc6e76dc92d4bef3ad)**
 
-Arm introduces the Arm AGI CPU to power agentic AI infrastructure with rack-scale performance, efficiency and scalable compute for next-generation data centers.
+A growing number of U.S. college instructors are turning to oral exams to help combat an AI crisis in higher education.
 
-Arm Newsroom • 21h ago
+AP News • 12h ago
 
 ---
 
@@ -197,15 +201,7 @@ Arm Newsroom • 21h ago
 
 Is anybody else bored of talking about AI?
 
-⬆️ 677 • 💬 464 • 18h ago • [Unfinished Side Projects](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
-
----
-
-**[So where are all the AI apps?](https://news.ycombinator.com/item?id=47503006)**
-
-Practical AI R&D
-
-⬆️ 420 • 💬 388 • 1d ago • [Answer.AI](https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html)
+⬆️ 687 • 💬 480 • 19h ago • [Unfinished Side Projects](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
 
 ---
 
@@ -213,7 +209,21 @@ Practical AI R&D
 
 Search any airport for real-time delays, weather, arrivals, departures, and performance insights powered by Flighty.
 
-⬆️ 398 • 💬 148 • 14h ago • [Flighty](https://flighty.com/airports)
+⬆️ 440 • 💬 155 • 15h ago • [Flighty](https://flighty.com/airports)
+
+---
+
+**[So where are all the AI apps?](https://news.ycombinator.com/item?id=47503006)**
+
+Practical AI R&D
+
+⬆️ 424 • 💬 393 • 1d ago • [Answer.AI](https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html)
+
+---
+
+**[TurboQuant: Redefining AI efficiency with extreme compression](https://news.ycombinator.com/item?id=47513475)**
+
+⬆️ 354 • 💬 99 • 11h ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
 
 ---
 
@@ -221,13 +231,7 @@ Search any airport for real-time delays, weather, arrivals, departures, and perf
 
 Learn how I built an ai receptionist for my brother's mechanic shop
 
-⬆️ 314 • 💬 319 • 2d ago • [itsthatlady.dev](https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/)
-
----
-
-**[TurboQuant: Redefining AI efficiency with extreme compression](https://news.ycombinator.com/item?id=47513475)**
-
-⬆️ 304 • 💬 89 • 9h ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
+⬆️ 314 • 💬 320 • 2d ago • [itsthatlady.dev](https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/)
 
 ---
 
@@ -235,7 +239,7 @@ Learn how I built an ai receptionist for my brother's mechanic shop
 
 For two centuries, the credential system gave intelligence a route to heritable capital. Artificial intelligence is closing that route. This essay builds the argument from first principles - with probability theory, interactive simulations, and a prediction specific enough to be falsifiable - and puts a number on the window that remains.
 
-⬆️ 263 • 💬 391 • 1d ago • [Daniel Homola](https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/)
+⬆️ 264 • 💬 394 • 1d ago • [Daniel Homola](https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/)
 
 ---
 
@@ -249,7 +253,7 @@ For two centuries, the credential system gave intelligence a route to heritable 
 
 cq explores a Stack Overflow for agents, a shared commons where agents can query past learnings, contribute new knowledge, and avoid repeating the same mistakes in isolation.
 
-⬆️ 209 • 💬 93 • 1d ago • [Mozilla.ai](https://blog.mozilla.ai/cq-stack-overflow-for-agents/)
+⬆️ 209 • 💬 93 • 2d ago • [Mozilla.ai](https://blog.mozilla.ai/cq-stack-overflow-for-agents/)
 
 ---
 
@@ -257,7 +261,7 @@ cq explores a Stack Overflow for agents, a shared commons where agents can query
 
 The studio giant will no longer move forward with its OpenAI investment, as the AI company exits the video generation business.
 
-⬆️ 204 • 💬 3 • 17h ago • [The Hollywood Reporter](https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/)
+⬆️ 204 • 💬 3 • 19h ago • [The Hollywood Reporter](https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/)
 
 ---
 
@@ -277,7 +281,7 @@ In this vlog, I make a bold case that AI is destroying the economic moat of the 
 
 📺 Asian Dad Energy
 
-👁️ 37K • 👍 2K • 💬 731 • ⏱️ 9:25 • 1d ago
+👁️ 40K • 👍 2K • 💬 793 • ⏱️ 9:25 • 1d ago
 
 ---
 
@@ -287,37 +291,17 @@ This week in robotics got kind of ridiculous. South Korea showed off a humanoid 
 
 📺 AI Revolution
 
-👁️ 160K • 👍 2K • 💬 126 • ⏱️ 14:31 • 2d ago
+👁️ 164K • 👍 2K • 💬 126 • ⏱️ 14:31 • 2d ago
 
 ---
 
-**[I Asked AI To Predict The 2028 Election... JAW-DROPPING Results!](https://www.youtube.com/watch?v=zo7Nr9jtDds)**
+**[OpenAI announces it is shutting down video platform Sora ](https://www.youtube.com/watch?v=MIISc5gNRto)**
 
-Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/ELECTIONTIMEMAR4 100% Discount for the first 1000 ...
+OpenAI announced that it was shutting down its video generation platform "Sora." A deal that Disney struck with the company in ...
 
-📺 Election Time
+📺 NBC News
 
-👁️ 104K • 👍 2K • 💬 644 • ⏱️ 16:50 • 1d ago
-
----
-
-**[INDUSTRY ALERT: Apple co-founder drops BLUNT warning on the future of AI](https://www.youtube.com/watch?v=2EOl4cU_BR4)**
-
-Apple co-founder Steve Wozniak joins 'The Claman Countdown' to reflect on Apple's 50th anniversary, weigh in on the rise of AI ...
-
-📺 Fox Business
-
-👁️ 253K • 👍 4K • 💬 530 • ⏱️ 12:29 • 1d ago
-
----
-
-**[Perplexity&#39;s NEW Computer Just DESTROYED Every AI Tool You&#39;re Paying For](https://www.youtube.com/watch?v=H3ITnJhb8bA)**
-
-Join our WhatsApp Community Get the latest AI updates, tips, and insights straight to your inbox: https://link.stayingahead.ai/YT9 I ...
-
-📺 Vaibhav Sisinty
-
-👁️ 36K • 👍 1K • 💬 57 • ⏱️ 10:52 • 23h ago
+👁️ 426K • 👍 6K • 💬 2K • ⏱️ 2:42 • 17h ago
 
 ---
 
@@ -327,17 +311,27 @@ Get Started with Manus today: https://manus.im/redeem?c=JWH1G26A Prompts I used 
 
 📺 Journey With The Hintons
 
-👁️ 30K • 👍 3K • 💬 391 • ⏱️ 12:49 • 2d ago
+👁️ 31K • 👍 3K • 💬 402 • ⏱️ 12:49 • 2d ago
 
 ---
 
-**[Why this new AI model is alarming Hollywood](https://www.youtube.com/watch?v=X9ZAas973aQ)**
+**[OpenAI’s New SuperApp Could Break The Industry](https://www.youtube.com/watch?v=Zb4UsQoejFo)**
 
-A viral Instagram account, which appears to show a young woman “time travelling” through history, has racked up millions of ...
+OpenAI is entering a completely different phase. The company is merging ChatGPT, Codex, and its Atlas browser into one ...
 
-📺 Sky News
+📺 AI Revolution
 
-👁️ 40K • 👍 1K • 💬 140 • ⏱️ 12:13 • 1d ago
+👁️ 40K • 👍 1K • 💬 129 • ⏱️ 13:27 • 1d ago
+
+---
+
+**[INDUSTRY ALERT: Apple co-founder drops BLUNT warning on the future of AI](https://www.youtube.com/watch?v=2EOl4cU_BR4)**
+
+Apple co-founder Steve Wozniak joins 'The Claman Countdown' to reflect on Apple's 50th anniversary, weigh in on the rise of AI ...
+
+📺 Fox Business
+
+👁️ 275K • 👍 4K • 💬 581 • ⏱️ 12:29 • 1d ago
 
 ---
 
@@ -347,17 +341,27 @@ Jensen Huang is the co-founder and CEO of NVIDIA, the world's most valuable comp
 
 📺 Lex Fridman
 
-👁️ 458K • 👍 13K • 💬 1K • ⏱️ 2:25:59 • 1d ago
+👁️ 476K • 👍 14K • 💬 1K • ⏱️ 2:25:59 • 1d ago
 
 ---
 
-**[Cops Use AI, Arrest the Wrong Guy](https://www.youtube.com/watch?v=kAEdH1YXB8I)**
+**[I Asked AI To Predict The 2028 Election... JAW-DROPPING Results!](https://www.youtube.com/watch?v=zo7Nr9jtDds)**
 
-Imagine you go into a business and their AI surveillance camera thinks it recognizes you as a trespasser. So that business ...
+Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/ELECTIONTIMEMAR4 100% Discount for the first 1000 ...
 
-📺 The Civil Rights Lawyer
+📺 Election Time
 
-👁️ 341K • 👍 18K • 💬 2K • ⏱️ 2:37 • 1d ago
+👁️ 106K • 👍 2K • 💬 660 • ⏱️ 16:50 • 1d ago
+
+---
+
+**[Handmade Secret Wood Spider Shelter Amazing Reveal 🔥🕷️✨ #ai #shelter #craft](https://www.youtube.com/watch?v=pZp6NLHx-uw)**
+
+Handmade Secret Wood Spider Shelter Amazing Reveal 🕷️✨ #ai #shelter #craft #wood #spider #handmade #trendingshorts ...
+
+📺 ETC BackLol Facts
+
+👁️ 51K • ⏱️ 0:23 • 2h ago
 
 ---
 
@@ -367,7 +371,7 @@ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 
 
 📺 Two Minute Papers
 
-👁️ 84K • 👍 5K • 💬 356 • ⏱️ 9:47 • 23h ago
+👁️ 92K • 👍 5K • 💬 381 • ⏱️ 9:47 • 1d ago
 
 ---
 
@@ -383,7 +387,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 401,358 • ❤️ 931 • 14d ago
+⬇️ 401,358 • ❤️ 942 • 14d ago
 
 ---
 
@@ -395,7 +399,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 173,865 • ❤️ 1,242 • 1d ago
+⬇️ 173,865 • ❤️ 1,255 • 1d ago
 
 ---
 
@@ -407,7 +411,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 38,586 • ❤️ 274 • 16h ago
+⬇️ 38,586 • ❤️ 285 • 17h ago
 
 ---
 
@@ -419,7 +423,31 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 10,499 • ❤️ 355 • 6d ago
+⬇️ 10,499 • ❤️ 358 • 6d ago
+
+---
+
+**[daVinci-MagiHuman](https://huggingface.co/GAIR/daVinci-MagiHuman)**
+
+*SII - GAIR*
+
+daVinci-MagiHuman is a fast, single-stream Transformer model for generating high-quality, human-centric audio-video from text or images. It excels at expressive facial performance, natural speech-expression coordination, and accurate audio-video synchronization across multiple languages, with inference speeds of 2 seconds for 256p and 38 seconds for 1080p.
+
+`image-to-video`
+
+⬇️ 150 • ❤️ 138 • 2h ago
+
+---
+
+**[Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF](https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF)**
+
+*JIRONG*
+
+Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2 is a fine-tuned LLM optimized for efficient chain-of-thought reasoning, delivering higher accuracy with reduced token usage. It excels in resource-constrained environments and agentic workflows by providing faster, more economical reasoning.
+
+`image-text-to-text` `9.0B`
+
+⬇️ 55,120 • ❤️ 141 • 2d ago
 
 ---
 
@@ -433,30 +461,6 @@ Foundation-1 is a structured text-to-sample model for music production, enabling
 
 ---
 
-**[Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF](https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF)**
-
-*JIRONG*
-
-Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2 is a fine-tuned LLM optimized for efficient chain-of-thought reasoning, delivering higher accuracy with reduced token usage. It excels in resource-constrained environments and agentic workflows by providing faster, more economical reasoning.
-
-`image-text-to-text` `9.0B`
-
-⬇️ 55,120 • ❤️ 139 • 2d ago
-
----
-
-**[daVinci-MagiHuman](https://huggingface.co/GAIR/daVinci-MagiHuman)**
-
-*SII - GAIR*
-
-daVinci-MagiHuman is a fast, single-stream Transformer model for generating high-quality, human-centric audio-video from text or images. It excels at expressive facial performance, natural speech-expression coordination, and accurate audio-video synchronization across multiple languages, with inference speeds of 2 seconds for 256p and 38 seconds for 1080p.
-
-`image-to-video`
-
-⬇️ 150 • ❤️ 135 • 9h ago
-
----
-
 **[Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF)**
 
 *JIRONG*
@@ -465,7 +469,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `26.9B`
 
-⬇️ 480,176 • ❤️ 391 • 1d ago
+⬇️ 480,176 • ❤️ 393 • 1d ago
 
 ---
 
@@ -477,7 +481,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 41,277 • ❤️ 122 • 13h ago
+⬇️ 41,277 • ❤️ 128 • 14h ago
 
 ---
 
@@ -489,7 +493,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 418,903 • ❤️ 646 • 21d ago
+⬇️ 418,903 • ❤️ 649 • 21d ago
 
 ---
 
@@ -527,7 +531,7 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 Hyperagents represent a self-referential framework that integrates task and meta-agents into a single editable program, enabling metacognitive self-modification and open-ended improvement across diverse computational domains.
 
-▲ 30 • 💬 5 • ⭐ 673 • 5d ago
+▲ 32 • 💬 5 • ⭐ 804 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.19461) • [💻 code](https://github.com/facebookresearch/Hyperagents)
 
@@ -539,7 +543,7 @@ Hyperagents represent a self-referential framework that integrates task and meta
 
 LeWorldModel presents a stable end-to-end JEPA framework that trains efficiently from raw pixels using minimal loss terms while maintaining competitive performance in control tasks and encoding meaningful physical structures.
 
-▲ 3 • 💬 0 • ⭐ 620 • 11d ago
+▲ 3 • 💬 0 • ⭐ 739 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.19312) • [💻 code](https://github.com/lucas-maes/le-wm) • [🔗 project](https://le-wm.github.io/)
 
@@ -564,7 +568,7 @@ AgentScope enhances agentic applications by providing flexible tool-based intera
 
 daVinci-MagiHuman is an open-source audio-video generative model that synchronizes text, video, and audio through a single-stream Transformer architecture, achieving high-quality human-centric content generation with efficient inference capabilities.
 
-▲ 97 • 💬 5 • ⭐ 629 • 2d ago
+▲ 98 • 💬 5 • ⭐ 629 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.21986) • [💻 code](https://github.com/GAIR-NLP/daVinci-MagiHuman) • [🔗 project](https://huggingface.co/spaces/SII-GAIR/daVinci-MagiHuman)
 
@@ -588,7 +592,7 @@ Enhancements to the AgentScope platform improve scalability, efficiency, and eas
 
 We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
 
-▲ 194 • 💬 5 • ⭐ 8,154 • 4mo ago
+▲ 194 • 💬 5 • ⭐ 8,206 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
 
@@ -600,7 +604,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
 
-▲ 32 • 💬 2 • ⭐ 30,472 • 17mo ago
+▲ 32 • 💬 2 • ⭐ 30,516 • 17mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
@@ -631,7 +635,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 55.3k • 🔱 7.7k • 4d ago
+⭐ 55.6k • 🔱 7.7k • 4d ago
 
 ---
 
@@ -641,7 +645,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 22.5k • 🔱 1.1k • 9h ago
+⭐ 22.5k • 🔱 1.1k • 24m ago
 
 ---
 
@@ -651,7 +655,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 13.3k • 🔱 1.7k • 1h ago
+⭐ 13.3k • 🔱 1.7k • 3h ago
 
 ---
 
@@ -661,7 +665,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 11.8k • 🔱 615 • 3h ago
+⭐ 11.9k • 🔱 620 • 4h ago
 
 ---
 
@@ -671,7 +675,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.7k • 🔱 782 • 2d ago
+⭐ 10.7k • 🔱 783 • 2d ago
 
 ---
 
@@ -681,7 +685,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 6.8k • 🔱 1.0k • 3d ago
+⭐ 6.8k • 🔱 1.1k • 3d ago
 
 ---
 
@@ -691,7 +695,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 6.6k • 🔱 533 • 4h ago
+⭐ 6.7k • 🔱 541 • 10m ago
 
 ---
 
@@ -701,7 +705,7 @@ OpenShell is the safe, private runtime for autonomous AI agents.
 
 `Rust`
 
-⭐ 3.7k • 🔱 363 • 3h ago
+⭐ 3.7k • 🔱 366 • 40m ago
 
 ---
 
@@ -711,7 +715,7 @@ OpenShell is the safe, private runtime for autonomous AI agents.
 
 `Python` `ai-agents` `claude` `claude-code` `cloud-security` `cybersecurity`
 
-⭐ 3.7k • 🔱 377 • 1d ago
+⭐ 3.7k • 🔱 378 • 1d ago
 
 ---
 

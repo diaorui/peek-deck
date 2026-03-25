@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-25T14:41:16.870018+00:00'
+updated: '2026-03-25T16:11:41.456930+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - news
 - videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 25, 2026 at 14:41 UTC  
+**Last Updated:** March 25, 2026 at 16:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,174.21
+### $2,156.29
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.1%  
-**7d:** +1.9%  
-**30d:** +17.7%  
-**90d:** -25.7%  
-**1y:** +8.5%  
+**24h:** +2.5%  
+**7d:** +1.1%  
+**30d:** +16.7%  
+**90d:** -26.3%  
+**1y:** +7.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $263.58B
+**Market Cap:** $260.62B
 Rank #2
 
 **Circulating Supply:** 120,691,549 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--55.9%
+-56.3%
 
 **All-Time Low:** $0.43
-+503873.6%
++499212.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 V4 passed near-unanimously with their main shift from being a monolithic pool to modular vaults. Like Morpho's isolation but with Aave's liquidity depth. sUSDe and RWA yields get cleaner APY profiles because risk vectors aren't correlated anymore. This is DeFi infrastructure graduating from 'move fast break things' to 'TradFi complexity with better costs and could be a comeback for Aave against other lending market if implemented properly
 
-12h ago
+13h ago
 
 ---
 
@@ -88,7 +88,7 @@ V4 passed near-unanimously with their main shift from being a monolithic pool to
 
 I’ve been trying to understand where tokenized real-world assets (RWA) actually fit. On paper, it sounds useful. You can take things like gold, real estate, or commodities and put them on blockchain. That should make them easier to trade, more accessible, and available 24/7. No banks, fewer middlemen. But I keep wondering how much of this is real improvement vs just packaging old assets in a new way. If I already have ETFs or REITs, do I really gain anything from tokenization? Or is it just more risk added through crypto infrastructure? I recently found Steamex.com, a platform which is focused on tokenized gold. The idea is simple: you buy digital tokens backed by real gold instead of holding physical metal. It sounds convenient, but it also depends a lot on trust in the company and how the backing actually works. Another question is liquidity. Projects say assets are tradable anytime, but that only works if there are enough buyers and sellers. Curious what others think. Is this actually the future of finance, or are we still early and overestimating the impact?
 
-4h ago
+6h ago
 
 ---
 
@@ -96,7 +96,7 @@ I’ve been trying to understand where tokenized real-world assets (RWA) actuall
 
 I've always wanted to know more about the world of the unsung heroes in blockchain. Those, being the validators and miners. How do validators of various blockchains communicate? Is there a place where I can peek into their world, (if any exist) where I can submerge myself in how they think, what they find valuable, and generally ask a tonne of questions? I understand the answer will vary from ecosystem to ecosystem. But yes, please assist. Where can I find validator groups and communication channels, any common I can communicate with them. Thanks,
 
-14h ago
+16h ago
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[A new type of block explorer](https://www.reddit.com/r/ethereum/comments/1s2xqy2/a_new_type_of_block_explorer/)**
 
-12h ago
+14h ago
 
 ---
 
@@ -126,7 +126,7 @@ Trying to get a realistic picture of where rollup deployment is right now, not t
 
 Been holding ETH for a while and thinking about staking. With 32 ETH still being the solo requirement, I'm looking at options like Rocket Pool or Lido, but I keep going back and forth. Running a node seems cool but hardware + 4 ETH + RPL feels like a lot to manage. Liquid staking is easier but then you're holding a derivative token and trusting the protocol. For people staking right now , what path did you take and how's it been? Is the hassle worth the yield or do you just stick to holding?
 
-16h ago
+17h ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum block builder Eureka Labs is introducing "programmable blocks," which add logic during block construction.
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Block • 21h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 34m ago
+Fortune • 2h ago
 
 ---
 
@@ -168,37 +168,37 @@ Fortune • 34m ago
 
 Bitmine Immersion Technologies (NYSE: $BMNR) has launched what it claims is the world’s largest Ethereum (CRY...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Tom Lee's Bitmine debuts MAVAN Ethereum staking platform, plans to shift its ETH activity](https://www.theblock.co/post/395080/tom-lees-bitmine-debuts-mavan-ethereum-staking-platform-plans-to-shift-its-eth-activity)**
+**[Ethereum Foundation launches post-quantum security hub with more than 10 client teams](https://www.coindesk.com/tech/2026/03/25/ethereum-foundation-prepares-for-quantum-threat-with-new-cryptography-roadmap)**
 
-Bitmine officially launched the MAVAN Ethereum staking platform, targeting roughly $300 million in annual rewards.
+The effort to protect Ethereum from quantum computing threats has been underway for eight years and is now producing working code, with a multi-layer migration roadmap integrated into the protocol's next four hard forks.
 
-The Block • 27m ago
+CoinDesk • 36m ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Rise. How the Iran War Has Made Crypto Calls Tougher.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqcye-FM-gJNuai3VJdvhO8dS0FQBLuxfIE0zjbHsZULMNoupg3vEKJe&gaa_ts=69c3f773&gaa_sig=npvhmlQI378WrIB-Of01tHp7X0AZTXJYUTS4WZXPluCr3giuU04ErZpiw6zKYQYKykoiRfSikDb2HvPJ2-Et3A%3D%3D)**
+**[Bitcoin, Ethereum, XRP Rise. How the Iran War Has Made Crypto Calls Tougher.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqeyQi3G0jyhis4yePbtTeFORaJz30HiiSHeuXNVbciabtiLldC00rrP&gaa_ts=69c40ca4&gaa_sig=TEZmsnj_VyPtsI14ae5jFGOFKXsMBLQRVhAQMJl4_KjBXlQ268V-vFslxNdyFfHODhbxvjr8HbZ0J1bi4ibiVA%3D%3D)**
 
 Barron's • 1d ago
 
 ---
 
-**[Ethereum news (ETH): Aave, Ethena leaders outline push to build onchain fixed income markets in DeFi](https://www.coindesk.com/business/2026/03/24/crypto-finance-is-beginning-to-look-at-lot-more-traditional-aave-and-ethena-founders-say)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP send mixed cues, leaning slightly bearish](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-send-mixed-cues-leaning-slightly-bearish-202603250333)**
 
-Until recently, crypto users mostly traded tokens or borrowed against them, often chasing high but unpredictable yields. But new tools are making it possible to lock in returns, even in a market known for big swings.
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are showing mixed signals on Wednesday as market momentum shows signs of fatigue. BTC holds its recent recovery, now nearing its key resistance, while ETH struggles below a critical level, and XRP’s momentum indicators tilt slightly bearish.
 
-CoinDesk • 22h ago
+FXStreet • 12h ago
 
 ---
 
-**[Ethereum Price Divergence Signals Weak US Buying Pressure: Coinbase Premium Stays Negative](https://www.tradingview.com/news/newsbtc:9edc66877094b:0-ethereum-price-divergence-signals-weak-us-buying-pressure-coinbase-premium-stays-negative/)**
+**[Ethereum Price Trends Higher, Bulls Look to Extend Gains Further](https://www.tradingview.com/news/newsbtc:103fc3529094b:0-ethereum-price-trends-higher-bulls-look-to-extend-gains-further/)**
 
-Ethereum is attempting to reclaim the $2,200 level as market participants react to recent moves by US President Donald Trump in the Middle East, developments that have introduced renewed volatility across global risk assets. The reaction reflects a broader sensitivity to geopolitical uncertainty, w…
+Ethereum price started a recovery wave above the $2,065 zone. ETH is now consolidating above $2,120 and might aim for more gains if it clears the $2,200 resistance.Ethereum Price Eyes Steady GainsEthereum price managed to stay above $2,020 and started a recovery wave, like Bitcoin. ETH price was ab…
 
-TradingView • 23h ago
+TradingView • 12h ago
 
 ---
 
@@ -210,9 +210,9 @@ Polymarket • 9d ago
 
 ---
 
-**[Tom Lee's BitMine Purchases Another $138 million Of Ethereum](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-purchases-another-134200000.html)**
+**[Ethereum Price Jumps on Iran Optimism as Tom Lee's BitMine Adds to $10 Billion Stash](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-jumps-iran-optimism-151958490.html)**
 
-BitMine Immersion Technologies (NYSE: $BMNR) has purchased another 65,341 Ethereum (CRYPTO: $ETH) as it bets that c...
+BitMine Immersion Technologies now holds more than $10 billion worth of Ethereum, leading the ETH treasury pack as the asset rebounds.
 
 Yahoo Finance • 2d ago
 
@@ -220,7 +220,7 @@ Yahoo Finance • 2d ago
 
 **[How to Deploy an Autonomous AI Agent on the Ethereum Interoperability Layer](https://financefeeds.com/how-to-deploy-an-autonomous-ai-agent-on-the-ethereum-interoperability-layer/)**
 
-FinanceFeeds • 3h ago
+FinanceFeeds • 5h ago
 
 ---
 
@@ -234,7 +234,7 @@ You're not going to want to miss this INCREDIBLE Ether, technical analysis and i
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 216 • 💬 9 • ⏱️ 18:00 • 20h ago
+👁️ 5K • 👍 222 • 💬 8 • ⏱️ 18:00 • 21h ago
 
 ---
 
@@ -244,7 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 509 • 👍 62 • 💬 3 • ⏱️ 3:56 • 3h ago
+👁️ 1K • 👍 113 • 💬 4 • ⏱️ 3:56 • 4h ago
 
 ---
 
@@ -254,17 +254,17 @@ This video is not for everyone. If your income is below $10000/month — close i
 
 📺 Thomas Kralow
 
-👁️ 13K • 👍 2K • 💬 39 • ⏱️ 6:06 • 1d ago
+👁️ 13K • 👍 2K • 💬 40 • ⏱️ 6:06 • 1d ago
 
 ---
 
-**[ETHEREUM ABOUT TO PUMP?🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=4XAbSfbBHDA)**
+**[The CRAZIEST Crypto News You Will Ever Hear Bitcoin &amp; Ethereum Are Setting Up For A MAJOR Price Move](https://www.youtube.com/watch?v=rUKbNx7-zNE)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+The crypto market is heating up, things look like they could become a lot more serious in the coming days as companies and ...
 
-📺 Cilinix Crypto
+📺 The Modern Investor
 
-👁️ 99 • 👍 4 • ⏱️ 4:35 • 4h ago
+👁️ 4K • 👍 640 • 💬 112 • ⏱️ 25:01 • 5h ago
 
 ---
 
@@ -274,17 +274,17 @@ BMNR is quietly building one of the largest Ethereum treasuries in the world now
 
 📺 The Value Thinker
 
-👁️ 6K • 👍 455 • 💬 117 • ⏱️ 24:16 • 14h ago
+👁️ 7K • 👍 508 • 💬 81 • ⏱️ 24:16 • 15h ago
 
 ---
 
-**[CRYPTO LIVE TRADING || 25 Mar  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=MToItX3gc78)**
+**[Why Everyone Is Talking About the $10 Billion Ethereum Treasury Changing BMNR Right Now](https://www.youtube.com/watch?v=17gM5zD8vi4)**
 
-join my social platforms for updates and analysis ✓Instagram: ...
+Get My New Book Money Game and My Daily Trading Strategy for Free https://go.tedmcgrathbrands.com/optin-money-game-yt ...
 
-📺 Aryan trader Live
+📺 MONEY GAME
 
-👁️ 5K • 👍 2K • 4h ago
+👁️ 3K • 👍 120 • 💬 43 • ⏱️ 25:15 • 4h ago
 
 ---
 
@@ -298,33 +298,33 @@ The situation just got 10 times worse for bitcoin, ethereum and the rest of cryp
 
 ---
 
+**[ETHEREUM ABOUT TO PUMP?🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=4XAbSfbBHDA)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 143 • 👍 4 • ⏱️ 4:35 • 5h ago
+
+---
+
 **[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=uip0pf6RoT8)**
 
 Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
 📺 Crypto Gyan
 
-👁️ 250 • 👍 40 • ⏱️ 5:31 • 3h ago
+👁️ 511 • 👍 67 • ⏱️ 5:31 • 4h ago
 
 ---
 
-**[BITCOIN PRICE TRAP: New Targets Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=g9wPHez5SV4)**
+**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=vQEEOxs9gQ0)**
 
-BITCOIN PRICE TRAP: New Targets Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
+BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Start your trading journey with XM — a trusted and ...
 
-📺 Crypto World
+📺 Ashutosh Kumar
 
-👁️ 5K • 👍 216 • 💬 208 • ⏱️ 16:04 • 17h ago
-
----
-
-**[Ethereum 💀 Dead or Cheap?](https://www.youtube.com/watch?v=Q6Dnkq98Tb8)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 2K • 👍 121 • 💬 34 • ⏱️ 9:47 • 2d ago
+👁️ 8K • 👍 835 • 3h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-25T14:41:16.873134+00:00'
+updated: '2026-03-25T16:11:41.460178+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 25, 2026 at 14:41 UTC  
+**Last Updated:** March 25, 2026 at 16:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/2034708938269036686
 
-1h ago
+3h ago
 
 ---
 
 **[“They are coming for our jobs..”](https://www.reddit.com/r/robotics/comments/1s3aomh/they_are_coming_for_our_jobs/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -50,7 +50,15 @@ From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/20347089382690366
 
 Earlier this month, Seoul's COEX hosted an event whose name said it all: the China Humanoid Conference, "First Journey to Korea." Unitree, Fourier, Leju and Hua
 
-🔗 [The Korea Herald](https://www.koreaherald.com/article/10698201) • 8h ago
+🔗 [The Korea Herald](https://www.koreaherald.com/article/10698201) • 10h ago
+
+---
+
+**[Day-1/90 of Computer vision -](https://www.reddit.com/r/robotics/comments/1s3dbd5/day190_of_computer_vision/)**
+
+Starting a new 90 days mission.... will update daily progress GitHub projects later some stramlit apps fir computer vision some research paper implementation advanced projects ..and new research paper also
+
+1h ago
 
 ---
 
@@ -58,7 +66,15 @@ Earlier this month, Seoul's COEX hosted an event whose name said it all: the Chi
 
 KOU-III is a two-legged robot from Shandong University that combines walking with drone-like rotors for extra balance and power. Inspired by how ostriches use their wings while running, the rotors help it jump higher, land softly, and stay stable on tough terrain.
 
-22h ago
+23h ago
+
+---
+
+**[I work in robotics — and I think people are misunderstanding mobile charging robots](https://www.reddit.com/r/robotics/comments/1s3b235/i_work_in_robotics_and_i_think_people_are/)**
+
+I’m both a small investor and someone working in the robotics space, I got some new perspective after reading the MAAS white paper on mobile charging robots. (https://zenodo.org/records/19220627). I don’t think this is a “robotics product” story at all. From an engineering perspective, nothing here is that crazy: ● Autonomous navigation → already solved in many indoor/outdoor scenarios ● Battery systems → mature supply chain ● Dispatching → basically a logistics problem So if you’re bullish purely because “robots are cool,” I’d actually be cautious. What’s more interesting (and easy to miss) is the energy layer. These things are essentially: ● Mobile batteries ● That can charge when electricity is cheap ● And discharge when electricity is expensive So instead of thinking: “This is a robot that charges cars” It’s more like: “This is a battery that moves to where price/demand is highest” As an investor, that changes the whole framework: ● This starts to look like energy arbitrage + grid services, not hardware sales ● Margins probably won’t come from the robot itself ● The real upside depends on: ○ electricity pricing spreads ○ grid participation (demand response / VPP) ○ software dispatch efficiency I’m not investing in a “robot company” here. I’m trying to figure out if MAAS is becoming an energy infrastructure layer. Curious how others are thinking about this — especially anyone from utilities / EV infra side.
+
+2h ago
 
 ---
 
@@ -66,7 +82,7 @@ KOU-III is a two-legged robot from Shandong University that combines walking wit
 
 hi guys, so i started 3d modeling this to help the robotics and electronics communities and im posting them no maker world, i design things for Arduino, Raspberry pi, components and my own projects. i wanted to ask what things you would like to see designed and posted so i can do that please dont downvote im just trying to get ideas for things to post to help the community, here is my page if you would like to check it out: https://makerworld.com/en/@andrewgr1234 thank you!
 
-4h ago
+5h ago
 
 ---
 
@@ -78,35 +94,17 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/203612736808808086
 
 ---
 
+**[Figure 03 becomes the first humanoid robot to visit the White House](https://www.reddit.com/r/robotics/comments/1s3epc8/figure_03_becomes_the_first_humanoid_robot_to/)**
+
+15m ago
+
+---
+
 **[Dynamixel Y series](https://www.reddit.com/r/robotics/comments/1s35kvh/dynamixel_y_series/)**
 
 Hello people! does anyone know of anywhere with dynamixel Y series in stock? looking for some larger ones for a project, or anyone have some (slightly) loved ones they might be looking to sell. apologies if this is inappropriate to post here!
 
-5h ago
-
----
-
-**[New video of Figure 03 autonomously sorting deformable packages and placing them labels-down for the scanner](https://www.reddit.com/r/robotics/comments/1s22tt5/new_video_of_figure_03_autonomously_sorting/)**
-
-From Marc Benioff on 𝕏: https://x.com/Benioff/status/2036252519308075219
-
-1d ago
-
----
-
-**[I work in robotics — and I think people are misunderstanding mobile charging robots](https://www.reddit.com/r/robotics/comments/1s3b235/i_work_in_robotics_and_i_think_people_are/)**
-
-I’m both a small investor and someone working in the robotics space, I got some new perspective after reading the MAAS white paper on mobile charging robots. (https://zenodo.org/records/19220627). I don’t think this is a “robotics product” story at all. From an engineering perspective, nothing here is that crazy: ● Autonomous navigation → already solved in many indoor/outdoor scenarios ● Battery systems → mature supply chain ● Dispatching → basically a logistics problem So if you’re bullish purely because “robots are cool,” I’d actually be cautious. What’s more interesting (and easy to miss) is the energy layer. These things are essentially: ● Mobile batteries ● That can charge when electricity is cheap ● And discharge when electricity is expensive So instead of thinking: “This is a robot that charges cars” It’s more like: “This is a battery that moves to where price/demand is highest” As an investor, that changes the whole framework: ● This starts to look like energy arbitrage + grid services, not hardware sales ● Margins probably won’t come from the robot itself ● The real upside depends on: ○ electricity pricing spreads ○ grid participation (demand response / VPP) ○ software dispatch efficiency I’m not investing in a “robot company” here. I’m trying to figure out if MAAS is becoming an energy infrastructure layer. Curious how others are thinking about this — especially anyone from utilities / EV infra side.
-
-1h ago
-
----
-
-**[Vacuum cleaner Lidar](https://www.reddit.com/r/robotics/comments/1s2hk1g/vacuum_cleaner_lidar/)**
-
-I have this lidar from one of my robo vacuum cleaner DEEBOT Y1 PRO. I want to use this lidar for my project. I want to connect it to rpi zero 2w can someone explain me how to identify the connections as I have already searched the web and not getting any proper results.
-
-22h ago
+7h ago
 
 ---
 
@@ -114,41 +112,11 @@ I have this lidar from one of my robo vacuum cleaner DEEBOT Y1 PRO. I want to us
 
 ## Google News: "robotics"
 
-**[Amazon Acquires Fauna Robotics, Entering Consumer Humanoid Market](https://www.bloomberg.com/news/articles/2026-03-24/amazon-acquires-fauna-robotics-entering-consumer-humanoid-market)**
-
-Bloomberg.com • 19h ago
-
----
-
 **[Amazon buys Fauna Robotics, maker of the Sprout humanoid robot](https://abcnews.com/Business/wireStory/amazon-buys-fauna-robotics-maker-sprout-humanoid-robot-131377676)**
 
 Amazon has acquired Fauna Robotics, just under two months after the startup introduced a humanoid robot called Sprout designed for social spaces like homes and schools
 
-abcnews.com • 16h ago
-
----
-
-**[Amazon acquires 'approachable' humanoid maker Fauna Robotics](https://www.cnbc.com/2026/03/24/amazon-humanoid-maker-fauna-robotics-sprout.html)**
-
-Fauna's first product, called Sprout, is a $50,000 bipedal robot that's 3 feet, 6 inches tall and designed to be "approachable and human-friendly."
-
-CNBC • 17h ago
-
----
-
-**[Agile Robots becomes the latest robotics company to partner with Google DeepMind](https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/)**
-
-Agile Robots will incorporate Google DeepMind's robotics foundation models into its bots while collecting data for the AI research lab.
-
-TechCrunch • 1d ago
-
----
-
-**[Basler and Orbbec partner for 3D vision systems for mobile robots](https://www.therobotreport.com/basler-orbbec-partner-3d-vision-systems-mobile-robots/)**
-
-Orbbec and Basler unveiled at LogiMAT the Stereo mini, which combines 3D cameras and computer vision for logistics and other applications.
-
-The Robot Report • 44m ago
+abcnews.com • 17h ago
 
 ---
 
@@ -156,7 +124,15 @@ The Robot Report • 44m ago
 
 Modular robots are easily expandable, know when they're upside down or stuck, and can march forward across all kinds of terrain.
 
-Live Science • 23h ago
+Live Science • 1d ago
+
+---
+
+**[Wristband enables wearers to control a robotic hand with their own movements](https://news.mit.edu/2026/wristband-enables-wearers-control-robotic-hand-with-own-movements-0325)**
+
+MIT engineers designed an ultrasound wristband that precisely tracks a wearer’s hand movements in real time and communicates the information to a robot or a virtual environment.
+
+MIT News • 6h ago
 
 ---
 
@@ -164,7 +140,7 @@ Live Science • 23h ago
 
 A spokesperson for OpenAI said the discontinuation of Sora comes as the company plans to focus on robotics rather than generative imagery.
 
-Business Insider • 16h ago
+Business Insider • 18h ago
 
 ---
 
@@ -176,9 +152,11 @@ Fast Company • 1d ago
 
 ---
 
-**[Billionaire Qatar Sheikh, Amazon Back Robotics Startup Neura](https://www.bloomberg.com/news/articles/2026-03-24/billionaire-qatari-sheikh-amazon-back-robotics-startup-neura)**
+**[Lucid Bots raises $20M to keep up with demand for its window-washing drones](https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/)**
 
-Bloomberg.com • 7h ago
+Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots.
+
+TechCrunch • 5h ago
 
 ---
 
@@ -186,7 +164,27 @@ Bloomberg.com • 7h ago
 
 The robot belonging to Coco Robotics was spotted by a CBS News Chicago viewer near North Avenue and Halsted Street in Old Town on Tuesday afternoon.
 
-CBS News • 15h ago
+CBS News • 17h ago
+
+---
+
+**[Billionaire Qatar Sheikh, Amazon Back Robotics Startup Neura](https://www.bloomberg.com/news/articles/2026-03-24/billionaire-qatari-sheikh-amazon-back-robotics-startup-neura)**
+
+Bloomberg.com • 8h ago
+
+---
+
+**[Open XR Brings Humans and Robots Closer on the Factory Floor](https://www.eetimes.com/xr-brings-humans-and-robots-closer-on-the-factory-floor/)**
+
+European Union Horizon project MASTER is exploiting the latest extended-reality tech to develop an Open XR platform.
+
+EE Times • 1d ago
+
+---
+
+**[Bird‑like robots promise greater flexibility and control than drones](https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html)**
+
+Tech Xplore • 1d ago
 
 ---
 
@@ -200,7 +198,7 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 📺 CNET
 
-👁️ 16K • 👍 447 • 💬 27 • ⏱️ 5:50 • 3d ago
+👁️ 16K • 👍 449 • 💬 27 • ⏱️ 5:50 • 3d ago
 
 ---
 
@@ -210,7 +208,7 @@ This week in robotics got kind of ridiculous. South Korea showed off a humanoid 
 
 📺 AI Revolution
 
-👁️ 160K • 👍 2K • 💬 126 • ⏱️ 14:31 • 2d ago
+👁️ 164K • 👍 2K • 💬 126 • ⏱️ 14:31 • 2d ago
 
 ---
 
@@ -220,7 +218,17 @@ This week in robotics got kind of ridiculous. South Korea showed off a humanoid 
 
 📺 RAI Institute
 
-👁️ 132K • 👍 5K • 💬 450 • ⏱️ 1:34 • 2d ago
+👁️ 159K • 👍 6K • 💬 512 • ⏱️ 1:34 • 2d ago
+
+---
+
+**[NVIDIA Just Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=eIAF4CbbUWI)**
+
+Thanks to Delete Me for sponsoring this video. To keep your private info private check out https://www.JoinDeleteMe.com/Kimjava ...
+
+📺 Kim Java
+
+👁️ 49K • 👍 3K • 💬 138 • ⏱️ 20:00 • 1d ago
 
 ---
 
@@ -230,7 +238,17 @@ Coglet's Kickstarter Launch! https://www.kickstarter.com/projects/willcogley/cog
 
 📺 Will Cogley
 
-👁️ 29K • 👍 2K • 💬 104 • ⏱️ 1:52 • 4d ago
+👁️ 30K • 👍 2K • 💬 107 • ⏱️ 1:52 • 4d ago
+
+---
+
+**[China&#39;s humanoid robots move toward practical use](https://www.youtube.com/watch?v=-g7H28HvZQM)**
+
+Robots are becoming ubiquitous in China, whether for industrial manufacturing, to man a store counter, or direct traffic. According ...
+
+📺 ShanghaiEye魔都眼
+
+👁️ 27K • 👍 310 • 💬 92 • ⏱️ 1:29 • 1d ago
 
 ---
 
@@ -240,25 +258,7 @@ A wave of attention is building around a new concept from Apple that suggests th
 
 📺 Carros Show
 
-👁️ 4K • 👍 90 • 💬 9 • ⏱️ 8:19 • 5d ago
-
----
-
-**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=-Kf7x28Y9_o)**
-
-📺 zhulongfeng 6
-
-👁️ 8K • 👍 75 • 💬 1 • ⏱️ 0:23 • 13h ago
-
----
-
-**[Engineering Disney’s Olaf Robot](https://www.youtube.com/watch?v=zi0xi_UwvBU)**
-
-How do you build a robot with a massive head, no visible legs, and motors that overheat? ❄️   Explaining the engineering ...
-
-📺 ZAUEY (Claire Zau)
-
-👁️ 84K • 👍 8K • 💬 192 • ⏱️ 2:09 • 2d ago
+👁️ 4K • 👍 91 • 💬 9 • ⏱️ 8:19 • 5d ago
 
 ---
 
@@ -268,7 +268,17 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 318K • 👍 4K • 💬 3K • ⏱️ 2:07 • 6d ago
+👁️ 319K • 👍 4K • 💬 3K • ⏱️ 2:07 • 6d ago
+
+---
+
+**[THIS damage is certainly OVERPOWERED – War Robots MACHAIRA](https://www.youtube.com/watch?v=yuf_yR75k7M)**
+
+War Robots Gameplay: Machaira on Ultimate Typhon is Overpowered Damage My War Robots Creator Link: ...
+
+📺 Manni-Gaming
+
+👁️ 10K • 👍 523 • 💬 95 • ⏱️ 20:26 • 1d ago
 
 ---
 
@@ -279,16 +289,6 @@ Sesame Micro is a tangent project to the Sesame Robot Project, an open-source mi
 📺 Dorian Todd
 
 👁️ 47K • 👍 2K • 💬 151 • ⏱️ 11:03 • 6d ago
-
----
-
-**[THIS damage is certainly OVERPOWERED – War Robots MACHAIRA](https://www.youtube.com/watch?v=yuf_yR75k7M)**
-
-War Robots Gameplay: Machaira on Ultimate Typhon is Overpowered Damage My War Robots Creator Link: ...
-
-📺 Manni-Gaming
-
-👁️ 10K • 👍 506 • 💬 91 • ⏱️ 20:26 • 23h ago
 
 ---
 
