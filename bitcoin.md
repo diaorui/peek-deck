@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-25T18:57:07.485986+00:00'
+updated: '2026-03-25T19:48:43.062743+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 25, 2026 at 18:57 UTC  
+**Last Updated:** March 25, 2026 at 19:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 France has often framed crypto as a form of “unproductive wealth” basically something speculative, not especially useful to the real economy and that’s even more striking when you consider that crypto gains for individuals in France are generally taxed at a 30% flat rate And yet Macron is now attending Paris Blockchain Week this April At first glance, that sounds inconsistent. But I think both positions can coexist My read is that France may still be skeptical of crypto as a speculative asset, while recognizing that blockchain infrastructure, tokenization, stablecoins, digital identity and onchain finance are becoming too important to ignore I feel like this is less about France suddenly being pro-crypto, and more about France not wanting to be late on a sector that could become strategic What do you think? A real turning point, or just a PR move?
 
-6h ago
+7h ago
 
 ---
 
@@ -89,7 +89,7 @@ France has often framed crypto as a form of “unproductive wealth” basically 
 
 I'm looking for a cold wallet there are so many out there but not sure which one to get i plan to store bitcoin, some alt coins and memecoins. Any suggestions on which is a good one
 
-7h ago
+8h ago
 
 ---
 
@@ -113,7 +113,7 @@ Bitcoin does not escape material reality. It is secured by it. If the energy cri
 
 https://youtube.com/shorts/J5ESZr3_pE8
 
-4h ago
+5h ago
 
 ---
 
@@ -129,7 +129,7 @@ i have no idea of what i’m doing.. i just felt like it.. is it a good time to 
 
 thing about bitcoin is, that it already is, and almost instantly had, a global reaching market, a currency bought with all kinds of different currencies or assets, on markets which, in comparison, almost seem outdatet, in need of resourcement.
 
-6h ago
+7h ago
 
 ---
 
@@ -137,7 +137,7 @@ thing about bitcoin is, that it already is, and almost instantly had, a global r
 
 Going through files on a forgotten machine at work. Former admin kept a personal diary in txt files dated 2011-2019. This is from June 2011.
 
-20h ago
+21h ago
 
 ---
 
@@ -145,7 +145,7 @@ Going through files on a forgotten machine at work. Former admin kept a personal
 
 Most people think HODL is just “buy and wait,” but that’s the surface level. The reality is most fail because they don’t understand what they’re holding, no fundamentals, no conviction, just hype. When volatility hits, that lack of understanding turns into panic selling. Real HODLing requires clarity on the asset, belief backed by research, and the discipline to sit through drawdowns without reacting emotionally.
 
-7h ago
+8h ago
 
 ---
 
@@ -153,7 +153,7 @@ Most people think HODL is just “buy and wait,” but that’s the surface leve
 
 Hey everyone, I’d like to introduce you to the project I’m currently building in the DACH region—with a clear goal: to make Bitcoin adoption practical and easy for small and medium-sized enterprises (SMEs). Many of you are familiar with the situation: Entrepreneurs find Bitcoin exciting—but often get stuck on the same hurdles. Legal uncertainty. Tax issues. Technical hurdles. This is exactly where I come in: I’ve been working for months on a viable implementation model for SMEs that rests on several pillars: – in-depth legal and tax research, – technical testing with various tools, – documentation of real-world pilot projects, – a framework for ongoing updates in response to regulatory and technical changes, – building a stable information and networking space. This work has resulted in a practical handbook, the “BITCOIN ONBOARDING GUIDE for SMEs,” which provides guidance to entrepreneurs—not a white paper, but real-world implementation. An example that shows what’s possible: Mario, a canyoning guide from Austria, already accepts Bitcoin payments for his tours (👉 erlebenplus.at). He is one of the pioneers demonstrating that acceptance is often easier than one thinks—and that early adopters not only secure financial sovereignty but also unlock new target groups and marketing opportunities. - The ongoing work on this project is a long-term endeavor and is initially funded through supporting memberships and crowdfunding. This lays the foundation for independent, continuous development, exchange, and sharing of expertise. The website will launch shortly—featuring information about the handbook, the network, and opportunities to become a pilot partner yourself. We’d like to have an open discussion on this topic: What might genuine Bitcoin adoption look like in everyday business—beyond ideology, but with a forward-looking approach? Feedback, ideas, critical questions, or real-world experience reports are absolutely welcome. Stay sovereign ⚡ (Website link to follow upon launch.) https://preview.redd.it/c591uwc2z5rg1.jpg?width=768&format=pjpg&auto=webp&s=9a4f589c7b76b2a93632dcd0c37d6e5d7e708cc9
 
-8h ago
+9h ago
 
 ---
 
@@ -165,7 +165,7 @@ Hey everyone, I’d like to introduce you to the project I’m currently buildin
 
 Which beaten-down crypto is the better buy right now? Two Motley Fool contributors make their cases for Bitcoin and XRP.
 
-The Motley Fool • 6h ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -173,7 +173,7 @@ The Motley Fool • 6h ago
 
 Bitcoin options worth billions of dollars will expire this Friday at 8:00 UTC.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -181,7 +181,7 @@ CoinDesk • 10h ago
 
 Bitcoin provides good competition for the U.S. dollar as the country’s national debt sets a new record, Coinbase (NASDAQ:COIN) CEO Brian Armstrong has said. "Bitcoin is a check and balance on inflation," Armstrong said on March 20 on X, reacting...
 
-Yahoo Finance • 22m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ Yahoo Finance • 22m ago
 
 A bitcoin mining company plans to install servers in Dubuque County, a move backed by the local economic development corporation.
 
-KCRG • 19h ago
+KCRG • 20h ago
 
 ---
 
@@ -197,7 +197,7 @@ KCRG • 19h ago
 
 Most people assume mining means loud machines, high power bills, and a setup that takes an entire room, but this sits quietly on your desk.
 
-Popular Science • 5h ago
+Popular Science • 6h ago
 
 ---
 
@@ -205,7 +205,7 @@ Popular Science • 5h ago
 
 Cipher Digital revealed a 15-year lease deal and a $200 million revolving credit facility, continuing its shift away from Bitcoin mining.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -213,7 +213,7 @@ Yahoo Finance • 3h ago
 
 Bhutan transferred 519.7 BTC, worth $36.75 million, to two wallets on Wednesday, according to Arkham data.
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -319,7 +319,7 @@ Markets are unstable, but Bitcoin may be quietly setting up for its next major m
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 88 • ⏱️ 12:39 • 20h ago
+👁️ 21K • 👍 1K • 💬 88 • ⏱️ 12:39 • 21h ago
 
 ---
 
@@ -329,7 +329,7 @@ In this video, we take a data-driven look at Bitcoin as it shows signs of prepar
 
 📺 Benjamin Cowen
 
-👁️ 74K • 👍 5K • 💬 335 • ⏱️ 17:16 • 15h ago
+👁️ 74K • 👍 5K • 💬 335 • ⏱️ 17:16 • 16h ago
 
 ---
 
@@ -359,7 +359,7 @@ Stop Guessing - Ask Clash (beta) ▻ https://www.askclash.ai/ Make FREE Crypto P
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 958 • 💬 222 • ⏱️ 8:27 • 17h ago
+👁️ 17K • 👍 958 • 💬 222 • ⏱️ 8:27 • 18h ago
 
 ---
 
@@ -389,7 +389,7 @@ Nick Valdez has a warning,,, don't let the 10-Year Treasury FOOL you! What are t
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 168 • 💬 17 • ⏱️ 7:18 • 17h ago
+👁️ 3K • 👍 168 • 💬 17 • ⏱️ 7:18 • 18h ago
 
 ---
 
@@ -399,7 +399,7 @@ TOOBIT — DEPOSIT & UNLOCK UP TO 30,000 USDT DEPOSIT BONUS! Limited spots ...
 
 📺 100XClub
 
-👁️ 7K • 👍 848 • 💬 236 • ⏱️ 10:56 • 8h ago
+👁️ 7K • 👍 848 • 💬 236 • ⏱️ 10:56 • 9h ago
 
 ---
 
@@ -409,7 +409,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 13K • 👍 985 • 💬 223 • ⏱️ 11:36 • 23h ago
+👁️ 13K • 👍 985 • 💬 223 • ⏱️ 11:36 • 1d ago
 
 ---
 

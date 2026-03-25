@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-25T18:57:07.477637+00:00'
+updated: '2026-03-25T19:48:43.053917+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- videos
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 25, 2026 at 18:57 UTC  
+**Last Updated:** March 25, 2026 at 19:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 What if building more and more datacenters was not the only option? If we are able to get similar levels of performance for top models at a consumer level from smarter systems, then its only a matter of time before the world comes to the realization that AI is a lot less expensive and a whole lot more obtainable. Open source projects like ATLAS are on the frontier of this possibility- where a 22 year old college student from Virginia Tech built and ran a 14B parameter AI model on a single $500 Consumer GPU and scored higher than Claude Sonnet 4.5 on coding benchmarks (74.6% vs 71.4% on LiveCodeBench, 599 problems). No cloud, no API costs, no fine-tuning. Just a consumer graphics card and smart infrastructure around a small model. And the cost? Only around $0.004/task in electricity. The base model used in ATLAS only scores about 55%. The pipeline adds nearly 20 percentage points by generating multiple solution approaches, testing them, and selecting the best one. Proving that smarter infrastructure and systems design is the future of the industry. Repo: https://github.com/itigges22/ATLAS
 
-16h ago
+17h ago
 
 ---
 
@@ -49,7 +49,7 @@ What if building more and more datacenters was not the only option? If we are ab
 
 Billionaire Alex Karp tells Gen Z to skip elite college degrees, as one-fifth of Fortune 500 companies recruit more neurodivergent talent by 2027.
 
-🔗 [Fortune](https://fortune.com/2026/03/24/palantir-ceo-alex-karp-two-people-successful-in-ai-era-vocational-skills-neurodivergence-gen-z-career-advice/) • 3h ago
+🔗 [Fortune](https://fortune.com/2026/03/24/palantir-ceo-alex-karp-two-people-successful-in-ai-era-vocational-skills-neurodivergence-gen-z-career-advice/) • 4h ago
 
 ---
 
@@ -57,7 +57,7 @@ Billionaire Alex Karp tells Gen Z to skip elite college degrees, as one-fifth of
 
 Sudden and unexpected, landslides and avalanches claim thousands of lives each year and cause billions of dollars in damage. What if we could see them coming?
 
-🔗 [bbc.com](https://www.bbc.com/future/article/20260323-the-ai-that-warns-people-about-landslides-and-avalanches) • 11h ago
+🔗 [bbc.com](https://www.bbc.com/future/article/20260323-the-ai-that-warns-people-about-landslides-and-avalanches) • 12h ago
 
 ---
 
@@ -65,7 +65,7 @@ Sudden and unexpected, landslides and avalanches claim thousands of lives each y
 
 That was quick.
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt) • 20h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt) • 21h ago
 
 ---
 
@@ -73,7 +73,7 @@ That was quick.
 
 Large language models (LLMs) can generate credible but inaccurate responses, so researchers have developed uncertainty quantification methods to check the reliability of predictions. One popular method involves submitting the same prompt multiple times to see if the model generates the same answer. But this method measures self-confidence, and even the most impressive LLM might be confidently wrong. Overconfidence can mislead users about the accuracy of a prediction, which might result in devastating consequences in high-stakes settings like health care or finance.
 
-🔗 [MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2026/better-method-identifying-overconfident-large-language-models-0319) • 50m ago
+🔗 [MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2026/better-method-identifying-overconfident-large-language-models-0319) • 1h ago
 
 ---
 
@@ -81,7 +81,7 @@ Large language models (LLMs) can generate credible but inaccurate responses, so 
 
 Is this why Microsoft keeps falling in stock price? Are there agents building a new and better operating system? They built a c compiler in a few days. Why not an operating system in a few weeks?
 
-1h ago
+2h ago
 
 ---
 
@@ -97,7 +97,7 @@ The Core Thesis: Most current AI interaction is fragmented; users manage dozens 
 
 Open ai has recently shut down sora ai. VC money is running out so this kinda tells us that they are focusing more making a better foundational model. At this point are they too late?
 
-2h ago
+3h ago
 
 ---
 
@@ -105,7 +105,7 @@ Open ai has recently shut down sora ai. VC money is running out so this kinda te
 
 NeutronX Files Provisional Patent for Autonomous AI-Powered Government Contract Bidding System and Advances NeutronX Bidding Engine v2.4 in Connection with NextNRG (NASDAQ: NXXT) - PR Newswire. Earnings tomorrow on NXXT. This is positive news before the report.
 
-🔗 [stocks.apple.com](https://stocks.apple.com/ASthsWpHMQHmYCa1XwuMjhA) • 2h ago
+🔗 [stocks.apple.com](https://stocks.apple.com/ASthsWpHMQHmYCa1XwuMjhA) • 3h ago
 
 ---
 
@@ -113,7 +113,7 @@ NeutronX Files Provisional Patent for Autonomous AI-Powered Government Contract 
 
 "Vectors are the fundamental way AI models understand and process information. Small vectors describe simple attributes, such as a point in a graph, while “high-dimensional” vectors capture complex information such as the features of an image, the meaning of a word, or the properties of a dataset. High-dimensional vectors are incredibly powerful, but they also consume vast amounts of memory, leading to bottlenecks in the key-value cache, a high-speed "digital cheat sheet" that stores frequently used information under simple labels so a computer can retrieve it instantly without having to search through a slow, massive database. Vector quantization is a powerful, classical data compression technique that reduces the size of high-dimensional vectors. This optimization addresses two critical facets of AI: it enhances vector search, the high-speed technology powering large-scale AI and search engines, by enabling faster similarity lookups; and it helps unclog key-value cache bottlenecks by reducing the size of key-value pairs, which enables faster similarity searches and lowers memory costs. However, traditional vector quantization usually introduces its own "memory overhead” as most methods require calculating and storing (in full precision) quantization constants for every small block of data. This overhead can add 1 or 2 extra bits per number, partially defeating the purpose of vector quantization. Today, we introduce TurboQuant (to be presented at ICLR 2026), a compression algorithm that optimally addresses the challenge of memory overhead in vector quantization. We also present Quantized Johnson-Lindenstrauss (QJL), and PolarQuant (to be presented at AISTATS 2026), which TurboQuant uses to achieve its results. In testing, all three techniques showed great promise for reducing key-value bottlenecks without sacrificing AI model performance. This has potentially profound implications for all compression-reliant use cases, including and especially in the domains of search and AI."
 
-🔗 [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/) • 16h ago
+🔗 [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/) • 17h ago
 
 ---
 
@@ -133,7 +133,7 @@ The Hollywood Reporter • 22h ago
 
 App that allowed people to make and share AI videos was popular but received criticism for racist and violent content
 
-The Guardian • 20h ago
+The Guardian • 21h ago
 
 ---
 
@@ -141,7 +141,7 @@ The Guardian • 20h ago
 
 Alex Kantrowitz, Big Technology founder, and Laura Martin, Needham senior analyst, join 'The Exchange' to discuss OpenAI's recent pivot away from Sora, how to consider the business decision and much more.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -153,7 +153,7 @@ Research at Google • 23h ago
 
 **[Exclusive: Meta president says AI is "the transformation of humanity"](https://www.axios.com/2026/03/25/meta-president-ai-transformation-humanity)**
 
-Axios • 10m ago
+Axios • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ Yahoo • 1h ago
 
 **[Opinion | The ‘Shy Girl’ Fiasco Shows Why Trust in Writers Is Plummeting](https://www.nytimes.com/2026/03/25/opinion/shy-girl-ai-publishing.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
@@ -183,13 +183,13 @@ CNBC • 1d ago
 
 Larry Fink also warns if oil prices stay high for a sustained period it will have "profound implications" for the world economy.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
 **[Leaders of AI Firm Bought by Meta Are Restricted From Leaving China](https://www.wsj.com/tech/leaders-of-ai-firm-bought-by-meta-are-restricted-from-leaving-china-6b79da34?gaa_at=eafs&gaa_n=AWEtsqe_PD7gRCKWgmJu7XDY-Tfw6U0iEzVW8Xa6QMR19cmxy8_SRm276N6O&gaa_ts=69c43365&gaa_sig=5s3ziqwlRE5HlM-G9fi2mVw0yyxxqLsSS6r4_bawWzFTuSSVKoZyLk-JKvNPa3LMhD12El-Kk5Z5Z9SgEoTVWw%3D%3D)**
 
-WSJ • 7h ago
+WSJ • 8h ago
 
 ---
 
@@ -201,7 +201,7 @@ WSJ • 7h ago
 
 Is anybody else bored of talking about AI?
 
-⬆️ 697 • 💬 500 • 22h ago • [Unfinished Side Projects](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
+⬆️ 697 • 💬 500 • 23h ago • [Unfinished Side Projects](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
 
 ---
 
@@ -209,7 +209,7 @@ Is anybody else bored of talking about AI?
 
 Search any airport for real-time delays, weather, arrivals, departures, and performance insights powered by Flighty.
 
-⬆️ 479 • 💬 165 • 18h ago • [Flighty](https://flighty.com/airports)
+⬆️ 479 • 💬 165 • 19h ago • [Flighty](https://flighty.com/airports)
 
 ---
 
@@ -223,7 +223,7 @@ Practical AI R&D
 
 **[TurboQuant: Redefining AI efficiency with extreme compression](https://news.ycombinator.com/item?id=47513475)**
 
-⬆️ 416 • 💬 118 • 13h ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
+⬆️ 416 • 💬 118 • 14h ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
 
 ---
 
@@ -255,7 +255,7 @@ cq explores a Stack Overflow for agents, a shared commons where agents can query
 
 The studio giant will no longer move forward with its OpenAI investment, as the AI company exits the video generation business.
 
-⬆️ 205 • 💬 3 • 21h ago • [The Hollywood Reporter](https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/)
+⬆️ 205 • 💬 3 • 22h ago • [The Hollywood Reporter](https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/)
 
 ---
 
@@ -283,7 +283,7 @@ Claude Code + Nano Banana is Great for AI Website Animations Try Higgsfield toda
 
 📺 Mira AI
 
-👁️ 2K • 💬 2 • ⏱️ 10:39 • 1h ago
+👁️ 2K • 💬 2 • ⏱️ 10:39 • 2h ago
 
 ---
 
@@ -293,7 +293,7 @@ OpenAI announced that it was shutting down its video generation platform "Sora."
 
 📺 NBC News
 
-👁️ 455K • 👍 6K • 💬 3K • ⏱️ 2:42 • 20h ago
+👁️ 455K • 👍 6K • 💬 3K • ⏱️ 2:42 • 21h ago
 
 ---
 
@@ -323,7 +323,7 @@ Get Started with Manus today: https://manus.im/redeem?c=JWH1G26A Prompts I used 
 
 📺 Journey With The Hintons
 
-👁️ 31K • 👍 3K • 💬 406 • ⏱️ 12:49 • 2d ago
+👁️ 31K • 👍 3K • 💬 406 • ⏱️ 12:49 • 3d ago
 
 ---
 
@@ -333,7 +333,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 12K • 👍 722 • 💬 72 • ⏱️ 11:44 • 2d ago
+👁️ 12K • 👍 722 • 💬 72 • ⏱️ 11:44 • 3d ago
 
 ---
 
@@ -373,7 +373,7 @@ We've found a fantastic new free AI tool that lets anyone create amazing video c
 
 📺 Africa Amaze
 
-👁️ 2K • 👍 197 • 💬 46 • ⏱️ 8:19 • 6h ago
+👁️ 2K • 👍 197 • 💬 46 • ⏱️ 8:19 • 7h ago
 
 ---
 
@@ -413,7 +413,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 38,586 • ❤️ 288 • 20h ago
+⬇️ 38,586 • ❤️ 288 • 21h ago
 
 ---
 
@@ -437,7 +437,7 @@ daVinci-MagiHuman is a fast, single-stream Transformer model for generating high
 
 `image-to-video`
 
-⬇️ 150 • ❤️ 146 • 4h ago
+⬇️ 150 • ❤️ 146 • 5h ago
 
 ---
 
@@ -461,7 +461,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 41,277 • ❤️ 133 • 17h ago
+⬇️ 41,277 • ❤️ 133 • 18h ago
 
 ---
 
@@ -647,7 +647,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 22.5k • 🔱 1.1k • 1h ago
+⭐ 22.5k • 🔱 1.1k • 2h ago
 
 ---
 
@@ -657,7 +657,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 13.3k • 🔱 1.7k • 5h ago
+⭐ 13.3k • 🔱 1.7k • 6h ago
 
 ---
 
@@ -667,7 +667,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 11.9k • 🔱 621 • 7h ago
+⭐ 11.9k • 🔱 621 • 8h ago
 
 ---
 
@@ -687,7 +687,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 6.8k • 🔱 1.1k • 1h ago
+⭐ 6.8k • 🔱 1.1k • 2h ago
 
 ---
 
@@ -697,7 +697,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 6.8k • 🔱 545 • 2h ago
+⭐ 6.8k • 🔱 545 • 3h ago
 
 ---
 
@@ -707,7 +707,7 @@ OpenShell is the safe, private runtime for autonomous AI agents.
 
 `Rust`
 
-⭐ 3.7k • 🔱 370 • 7m ago
+⭐ 3.7k • 🔱 370 • 59m ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-25T18:57:07.495031+00:00'
+updated: '2026-03-25T19:48:43.072588+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 25, 2026 at 18:57 UTC  
+**Last Updated:** March 25, 2026 at 19:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,7 +48,7 @@ From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/20347089382690366
 
 **[“They are coming for our jobs..”](https://www.reddit.com/r/robotics/comments/1s3aomh/they_are_coming_for_our_jobs/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -56,7 +56,7 @@ From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/20347089382690366
 
 AI-driven robotic hand with 21+ DoF and sub-millimeter precision, capable of delicate tasks like threading and micro-assembly. Uses tendon-driven actuation and real-time feedback for high consistency in controlled environments.
 
-2h ago
+3h ago
 
 ---
 
@@ -64,7 +64,7 @@ AI-driven robotic hand with 21+ DoF and sub-millimeter precision, capable of del
 
 Earlier this month, Seoul's COEX hosted an event whose name said it all: the China Humanoid Conference, "First Journey to Korea." Unitree, Fourier, Leju and Hua
 
-🔗 [The Korea Herald](https://www.koreaherald.com/article/10698201) • 13h ago
+🔗 [The Korea Herald](https://www.koreaherald.com/article/10698201) • 14h ago
 
 ---
 
@@ -80,7 +80,7 @@ KOU-III is a two-legged robot from Shandong University that combines walking wit
 
 We&rsquo;re announcing our March Meeting where we&rsquo;ll talk plugins!  &ldquo;An introduction to a beginner-friendly tutorial series that teaches how to create&hellip;
 
-🔗 [Vimeo](https://vimeo.com/1177012951?share=copy&fl=sv&fe=ci) • 1h ago
+🔗 [Vimeo](https://vimeo.com/1177012951?share=copy&fl=sv&fe=ci) • 2h ago
 
 ---
 
@@ -88,7 +88,7 @@ We&rsquo;re announcing our March Meeting where we&rsquo;ll talk plugins!  &ldquo
 
 hi guys, so i started 3d modeling this to help the robotics and electronics communities and im posting them no maker world, i design things for Arduino, Raspberry pi, components and my own projects. i wanted to ask what things you would like to see designed and posted so i can do that please dont downvote im just trying to get ideas for things to post to help the community, here is my page if you would like to check it out: https://makerworld.com/en/@andrewgr1234 thank you!
 
-8h ago
+9h ago
 
 ---
 
@@ -104,7 +104,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/203612736808808086
 
 Starting a new 90 days mission.... will update daily progress GitHub projects later some stramlit apps fir computer vision some research paper implementation advanced projects ..and new research paper also
 
-3h ago
+4h ago
 
 ---
 
@@ -116,7 +116,7 @@ Starting a new 90 days mission.... will update daily progress GitHub projects la
 
 Amazon has acquired Fauna Robotics, just under two months after the startup introduced a humanoid robot called Sprout designed for social spaces like homes and schools
 
-abcnews.com • 20h ago
+abcnews.com • 21h ago
 
 ---
 
@@ -124,13 +124,13 @@ abcnews.com • 20h ago
 
 Fauna's first product, called Sprout, is a $50,000 bipedal robot that's 3 feet, 6 inches tall and designed to be "approachable and human-friendly."
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
 **[Amazon Acquires Fauna Robotics, Entering Consumer Humanoid Market](https://www.bloomberg.com/news/articles/2026-03-24/amazon-acquires-fauna-robotics-entering-consumer-humanoid-market)**
 
-Bloomberg.com • 23h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -146,7 +146,7 @@ Live Science • 1d ago
 
 MIT engineers designed an ultrasound wristband that precisely tracks a wearer’s hand movements in real time and communicates the information to a robot or a virtual environment.
 
-MIT News • 8h ago
+MIT News • 9h ago
 
 ---
 
@@ -154,7 +154,7 @@ MIT News • 8h ago
 
 A spokesperson for OpenAI said the discontinuation of Sora comes as the company plans to focus on robotics rather than generative imagery.
 
-Business Insider • 20h ago
+Business Insider • 21h ago
 
 ---
 
@@ -170,13 +170,13 @@ Fast Company • 1d ago
 
 The robot belonging to Coco Robotics was spotted by a CBS News Chicago viewer near North Avenue and Halsted Street in Old Town on Tuesday afternoon.
 
-CBS News • 19h ago
+CBS News • 20h ago
 
 ---
 
 **[Billionaire Qatari Sheikh, Amazon Back Robotics Startup Neura](https://www.bloomberg.com/news/articles/2026-03-24/billionaire-qatari-sheikh-amazon-back-robotics-startup-neura)**
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -198,7 +198,7 @@ The Figure 03 recently visited the White House, becoming the first AI-powered hu
 
 📺 Kalil 4.0
 
-👁️ 597 • 👍 29 • 💬 6 • ⏱️ 0:44 • 2h ago
+👁️ 597 • 👍 29 • 💬 6 • ⏱️ 0:44 • 3h ago
 
 ---
 
@@ -218,7 +218,7 @@ Amazon just made a surprising move into humanoid robotics by acquiring Fauna Rob
 
 📺 DPCcars
 
-👁️ 268 • 👍 27 • 💬 3 • ⏱️ 3:18 • 3h ago
+👁️ 268 • 👍 27 • 💬 3 • ⏱️ 3:18 • 4h ago
 
 ---
 
@@ -248,7 +248,7 @@ Researchers from Tsinghua University and Chinese robotics company Galbot have tr
 
 📺 Rowan Cheung
 
-👁️ 52K • 👍 2K • 💬 54 • ⏱️ 1:10 • 4d ago
+👁️ 52K • 👍 2K • 💬 54 • ⏱️ 1:10 • 5d ago
 
 ---
 
@@ -258,7 +258,7 @@ This robotic hand costs less than $2000 and can be 3D printed in a single day. I
 
 📺 Rowan Cheung
 
-👁️ 873K • 👍 40K • 💬 515 • ⏱️ 1:20 • 6d ago
+👁️ 873K • 👍 40K • 💬 515 • ⏱️ 1:20 • 7d ago
 
 ---
 

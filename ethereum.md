@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-25T18:57:07.491884+00:00'
+updated: '2026-03-25T19:48:43.069220+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 25, 2026 at 18:57 UTC  
+**Last Updated:** March 25, 2026 at 19:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 V4 passed near-unanimously with their main shift from being a monolithic pool to modular vaults. Like Morpho's isolation but with Aave's liquidity depth. sUSDe and RWA yields get cleaner APY profiles because risk vectors aren't correlated anymore. This is DeFi infrastructure graduating from 'move fast break things' to 'TradFi complexity with better costs and could be a comeback for Aave against other lending market if implemented properly
 
-16h ago
+17h ago
 
 ---
 
@@ -88,7 +88,7 @@ V4 passed near-unanimously with their main shift from being a monolithic pool to
 
 I’ve been trying to understand where tokenized real-world assets (RWA) actually fit. On paper, it sounds useful. You can take things like gold, real estate, or commodities and put them on blockchain. That should make them easier to trade, more accessible, and available 24/7. No banks, fewer middlemen. But I keep wondering how much of this is real improvement vs just packaging old assets in a new way. If I already have ETFs or REITs, do I really gain anything from tokenization? Or is it just more risk added through crypto infrastructure? I recently found Steamex.com, a platform which is focused on tokenized gold. The idea is simple: you buy digital tokens backed by real gold instead of holding physical metal. It sounds convenient, but it also depends a lot on trust in the company and how the backing actually works. Another question is liquidity. Projects say assets are tradable anytime, but that only works if there are enough buyers and sellers. Curious what others think. Is this actually the future of finance, or are we still early and overestimating the impact?
 
-8h ago
+9h ago
 
 ---
 
@@ -96,7 +96,7 @@ I’ve been trying to understand where tokenized real-world assets (RWA) actuall
 
 I've always wanted to know more about the world of the unsung heroes in blockchain. Those, being the validators and miners. How do validators of various blockchains communicate? Is there a place where I can peek into their world, (if any exist) where I can submerge myself in how they think, what they find valuable, and generally ask a tonne of questions? I understand the answer will vary from ecosystem to ecosystem. But yes, please assist. Where can I find validator groups and communication channels, any common I can communicate with them. Thanks,
 
-19h ago
+20h ago
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[A new type of block explorer](https://www.reddit.com/r/ethereum/comments/1s2xqy2/a_new_type_of_block_explorer/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -126,7 +126,7 @@ Trying to get a realistic picture of where rollup deployment is right now, not t
 
 Been holding ETH for a while and thinking about staking. With 32 ETH still being the solo requirement, I'm looking at options like Rocket Pool or Lido, but I keep going back and forth. Running a node seems cool but hardware + 4 ETH + RPL feels like a lot to manage. Liquid staking is easier but then you're holding a derivative token and trusting the protocol. For people staking right now , what path did you take and how's it been? Is the hassle worth the yield or do you just stick to holding?
 
-20h ago
+21h ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum is a blockchain powerhouse, but it can't compete with Solana on speed or cost.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -166,7 +166,7 @@ The Block • 1d ago
 
 **[Ethereum Foundation Prepares for Quantum Threat With New Cryptography Roadmap](https://www.moomoo.com/news/post/67411285/ethereum-foundation-prepares-for-quantum-threat-with-new-cryptography-roadmap)**
 
-Moomoo • 3h ago
+Moomoo • 4h ago
 
 ---
 
@@ -182,7 +182,7 @@ CoinDesk • 3h ago
 
 Bitmine officially launched the MAVAN Ethereum staking platform, targeting roughly $300 million in annual rewards.
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
@@ -196,7 +196,7 @@ Barron's • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 4h ago
+Fortune • 5h ago
 
 ---
 
@@ -204,7 +204,7 @@ Fortune • 4h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are showing mixed signals on Wednesday as market momentum shows signs of fatigue. BTC holds its recent recovery, now nearing its key resistance, while ETH struggles below a critical level, and XRP’s momentum indicators tilt slightly bearish.
 
-FXStreet • 15h ago
+FXStreet • 16h ago
 
 ---
 
@@ -212,7 +212,7 @@ FXStreet • 15h ago
 
 Ethereum price started a recovery wave above the $2,065 zone. ETH is now consolidating above $2,120 and might aim for more gains if it clears the $2,200 resistance.Ethereum Price Eyes Steady GainsEthereum price managed to stay above $2,020 and started a recovery wave, like Bitcoin. ETH price was ab…
 
-TradingView • 15h ago
+TradingView • 16h ago
 
 ---
 
@@ -242,7 +242,7 @@ BIG PROBLEM Altcoin Season is CANCELED BlackRock Larry Fink “Bitcoin and Ether
 
 📺 CryptoWendyO
 
-👁️ 2K • 👍 186 • 💬 11 • ⏱️ 26:18 • 41m ago
+👁️ 2K • 👍 186 • 💬 11 • ⏱️ 26:18 • 1h ago
 
 ---
 
@@ -252,7 +252,7 @@ The crypto market is heating up, things look like they could become a lot more s
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 702 • 💬 144 • ⏱️ 25:01 • 8h ago
+👁️ 5K • 👍 702 • 💬 144 • ⏱️ 25:01 • 9h ago
 
 ---
 
@@ -262,7 +262,7 @@ BMNR is quietly building one of the largest Ethereum treasuries in the world now
 
 📺 The Value Thinker
 
-👁️ 8K • 👍 561 • 💬 90 • ⏱️ 24:16 • 18h ago
+👁️ 8K • 👍 561 • 💬 90 • ⏱️ 24:16 • 19h ago
 
 ---
 
@@ -282,7 +282,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 123 • 💬 4 • ⏱️ 3:56 • 7h ago
+👁️ 2K • 👍 123 • 💬 4 • ⏱️ 3:56 • 8h ago
 
 ---
 
@@ -292,7 +292,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free https://go.ted
 
 📺 MONEY GAME
 
-👁️ 3K • 👍 128 • 💬 4 • ⏱️ 25:15 • 7h ago
+👁️ 3K • 👍 128 • 💬 4 • ⏱️ 25:15 • 8h ago
 
 ---
 
@@ -302,7 +302,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 173 • 👍 5 • ⏱️ 4:35 • 8h ago
+👁️ 173 • 👍 5 • ⏱️ 4:35 • 9h ago
 
 ---
 
