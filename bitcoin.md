@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-25T02:23:08.314619+00:00'
+updated: '2026-03-25T04:32:39.411107+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- social
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 25, 2026 at 02:23 UTC  
+**Last Updated:** March 25, 2026 at 04:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,627.87
+### $70,862.11
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +0.9%  
-**30d:** +10.3%  
-**90d:** -19.2%  
-**1y:** -18.8%  
+**24h:** +0.9%  
+**7d:** +1.4%  
+**30d:** +10.8%  
+**90d:** -18.8%  
+**1y:** -18.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1411.62B
+**Market Cap:** $1416.41B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--44.0%
+-43.8%
 
 **All-Time Low:** $67.81
-+103952.5%
++104371.3%
 
 ---
 
@@ -81,7 +81,15 @@ Rank #1
 
 In the US over the last 55 years, the number of homes doubled from 70 million to 150 million. The money supply grew 30 times in the same period. So you have twice the homes and 30 times the cash chasing them. Housing is now 15x more expensive. Bitcoin is money that nobody can print, and can be a tool to help us afford the things that otherwise we are priced out of.
 
-10h ago
+12h ago
+
+---
+
+**[I bought most of my bitcoin at $90000](https://www.reddit.com/r/Bitcoin/comments/1s2zc7e/i_bought_most_of_my_bitcoin_at_90000/)**
+
+I will wait but it still sucks
+
+1h ago
 
 ---
 
@@ -89,43 +97,7 @@ In the US over the last 55 years, the number of homes doubled from 70 million to
 
 In 2022 I really was glued to events in Bitcoin's huge drawdown. I do look at the price every day (okay, maybe twice a day) but this time I really have hardly been bothered. Minus 45% down is a LOT but for some reason it has not really felt like a lot. Maybe I am just so sure of its value now that I am less concerned. At bottom, Bitcoin was down by more than half from its $126k high. If my mutual funds were -45% right now I would be far more worried. Is anyone else just less worried now than in previous years?
 
-11h ago
-
----
-
-**[Zero emotions during this dip](https://www.reddit.com/r/Bitcoin/comments/1s2tgzx/zero_emotions_during_this_dip/)**
-
-Been stacking for ages now and these drops just dont phase me anymore. While everyone else is having meltdowns im over here wondering what all teh fuss is about. My strategy stays simple - accumulate when i can because fiat keeps losing value while Bitcoin supply stays fixed at 21 million. To all you panic sellers out there, appreciate you making my next purchase that much more affordable. Keep dumping if you want, ill gladly scoop up what youre getting rid of
-
-3h ago
-
----
-
-**[One hell of a life](https://www.reddit.com/r/Bitcoin/comments/1s29600/one_hell_of_a_life/)**
-
-6 figs Bitcoin guys : BMW, ig model girlfriend 7 figs Bitcoin guys : Lambo, Dubai penthouse 8 figs Bitcoin guys:
-
-16h ago
-
----
-
-**[Don't you just love and vague mysterious guys! lol](https://www.reddit.com/r/Bitcoin/comments/1s26awy/dont_you_just_love_and_vague_mysterious_guys_lol/)**
-
-19h ago
-
----
-
-**[I've built this. Please ask me anything.](https://www.reddit.com/r/Bitcoin/comments/1s2fmlg/ive_built_this_please_ask_me_anything/)**
-
-Hi, my name is Elias and I've built this bitcoin-rails solution to buy, sell, send Bitcoin via common messenger apps. So now you can get a bitcoin wallet via any messenger service you want like WhatsApp, Telegram, Signal, Email etc and don't need to download an app, create a wallet, understand Bitcoin or anything like that anymore. I've just broken it down to only needing to write a text message so my parents, friends, relatives etc. can get their hands on Bitcoin as easily as technically possible. I'm a Bitcoin Maximalist by heart and I think this is finally a solution where they will buy Bitcoin and don't stumble upon all the different barriers. Please ask me anything or tell me what you would like to have implemented / answered. Is there anything stopping you from using it? Do you find it useful? I highly depend on any constructive user feedback from fellow Bitcoiners (jokes off). -Elias PS: right now it's a custodial solution but if requested / if I see the user traction I can also build a non-custodial solution as well, where I don't have constant access to the users funds (would love to have that as a user as well but takes some more programming time).
-
-11h ago
-
----
-
-**[Cathie Wood on Bitcoin and the current geopolitical situation](https://www.reddit.com/r/Bitcoin/comments/1s2e6l1/cathie_wood_on_bitcoin_and_the_current/)**
-
-12h ago
+13h ago
 
 ---
 
@@ -133,7 +105,43 @@ Hi, my name is Elias and I've built this bitcoin-rails solution to buy, sell, se
 
 ​ Every cycle, the same pattern plays out. Bitcoin runs. People who bought at the top last time finally break even and sell. New people FOMO in at the top. It pulls back. "Crypto is dead" headlines come out. The people who actually understand what they're holding just... wait. Here's the thing nobody talks about: Bitcoin has never failed to make a new all-time high. Every single cycle. Without exception. The only variable is how long it takes and how much patience you need. The people who lost money on Bitcoin didn't lose it because Bitcoin failed. They lost it because they bought on emotion and sold on emotion. They let a 30% dip convince them that a 15-year trend was broken. Meanwhile, the people who treat Bitcoin like what it actually is — a long-term store of value in a world where every government on earth is printing money — those people are doing just fine. The math is simple. There will only ever be 21 million Bitcoin. There are 8 billion people on the planet. Central banks printed more money in the last 5 years than in the previous 50 combined. You don't need to be a genius to see where this goes. The mistake people make is treating Bitcoin like a get-rich-quick play. It's not. It's a get-rich-slowly play for people who can hold through the noise. Institutional adoption isn't slowing down. ETFs brought in billions. Countries are adding it to reserves. Companies are putting it on balance sheets. This isn't speculation anymore — it's a global financial migration happening in real time. The best time to buy Bitcoin was 10 years ago. The second best time is whenever you stop overthinking it. ─── Pure value post, no shilling, builds credibility. Good for r/Bitcoin, r/cryptocurrency, or r/investing. Which sub are you targeting?
 
-40m ago
+2h ago
+
+---
+
+**[Zero emotions during this dip](https://www.reddit.com/r/Bitcoin/comments/1s2tgzx/zero_emotions_during_this_dip/)**
+
+Been stacking for ages now and these drops just dont phase me anymore. While everyone else is having meltdowns im over here wondering what all teh fuss is about. My strategy stays simple - accumulate when i can because fiat keeps losing value while Bitcoin supply stays fixed at 21 million. To all you panic sellers out there, appreciate you making my next purchase that much more affordable. Keep dumping if you want, ill gladly scoop up what youre getting rid of
+
+5h ago
+
+---
+
+**[One hell of a life](https://www.reddit.com/r/Bitcoin/comments/1s29600/one_hell_of_a_life/)**
+
+6 figs Bitcoin guys : BMW, ig model girlfriend 7 figs Bitcoin guys : Lambo, Dubai penthouse 8 figs Bitcoin guys:
+
+18h ago
+
+---
+
+**[Don't you just love and vague mysterious guys! lol](https://www.reddit.com/r/Bitcoin/comments/1s26awy/dont_you_just_love_and_vague_mysterious_guys_lol/)**
+
+21h ago
+
+---
+
+**[I've built this. Please ask me anything.](https://www.reddit.com/r/Bitcoin/comments/1s2fmlg/ive_built_this_please_ask_me_anything/)**
+
+Hi, my name is Elias and I've built this bitcoin-rails solution to buy, sell, send Bitcoin via common messenger apps. So now you can get a bitcoin wallet via any messenger service you want like WhatsApp, Telegram, Signal, Email etc and don't need to download an app, create a wallet, understand Bitcoin or anything like that anymore. I've just broken it down to only needing to write a text message so my parents, friends, relatives etc. can get their hands on Bitcoin as easily as technically possible. I'm a Bitcoin Maximalist by heart and I think this is finally a solution where they will buy Bitcoin and don't stumble upon all the different barriers. Please ask me anything or tell me what you would like to have implemented / answered. Is there anything stopping you from using it? Do you find it useful? I highly depend on any constructive user feedback from fellow Bitcoiners (jokes off). -Elias PS: right now it's a custodial solution but if requested / if I see the user traction I can also build a non-custodial solution as well, where I don't have constant access to the users funds (would love to have that as a user as well but takes some more programming time).
+
+13h ago
+
+---
+
+**[Cathie Wood on Bitcoin and the current geopolitical situation](https://www.reddit.com/r/Bitcoin/comments/1s2e6l1/cathie_wood_on_bitcoin_and_the_current/)**
+
+14h ago
 
 ---
 
@@ -141,15 +149,7 @@ Hi, my name is Elias and I've built this bitcoin-rails solution to buy, sell, se
 
 https://preview.redd.it/66g89vjsh1rg1.jpg?width=4080&format=pjpg&auto=webp&s=2f2220ee9a91f32aa63fceeb0e0b29923546b7f6 I asked bitcoins for my birthday. Well, I guess that will do.
 
-7h ago
-
----
-
-**[Showing wrong balance on blockchains](https://www.reddit.com/r/Bitcoin/comments/1s2szrn/showing_wrong_balance_on_blockchains/)**
-
-Today I noticed a discrepancy involving my crypto wallets. When I opened my Trust Wallet, it showed a total balance of 0.4 BTC, even though I had approximately 0.5 BTC in my Coinbase Wallet. Shortly after, I received a notification from Trust Wallet indicating that 0.05 BTC had been transferred, which I did not authorize or initiate. Concerned, I proceeded to transfer my funds from Coinbase Wallet to my Wealthsimple account in three transactions: • 0.002 BTC • 0.2 BTC • 0.3 BTC This totaled 0.5 BTC, which was successfully received by Wealthsimple. However, when I checked Trust Wallet again, it showed three outgoing transactions totaling 0.4 BTC: • 0.05 BTC • 0.12 BTC • 0.22 BTC These transactions match the 0.4 BTC balance that was initially displayed in Trust Wallet. To verify, I checked both wallet addresses using a blockchain explorer. The results showed: • Trust Wallet address: total of 0.4 BTC sent • Wealthsimple address: total of 0.5 BTC received This creates a discrepancy between what Trust Wallet reports and what was actually received in Wealthsimple.
-
-3h ago
+9h ago
 
 ---
 
@@ -157,25 +157,45 @@ Today I noticed a discrepancy involving my crypto wallets. When I opened my Trus
 
 ## Google News: "bitcoin"
 
+**[Bitcoin’s Institutional Shift Drives Bernstein’s $150,000 Call](https://www.bloomberg.com/news/articles/2026-03-24/bitcoin-s-institutional-shift-drives-bernstein-s-150-000-call)**
+
+Bloomberg.com • 12h ago
+
+---
+
+**[Bitcoin Rises After Trump Says to Postpone Iran Strikes](https://www.bloomberg.com/news/articles/2026-03-23/bitcoin-rises-after-trump-says-to-postpone-iran-strikes)**
+
+Bloomberg.com • 1d ago
+
+---
+
 **[Bitcoin price news: BTC reclaims $70,000 on Iran ceasefire report](https://www.coindesk.com/markets/2026/03/24/bitcoin-jolted-modestly-higher-on-iran-ceasefire-report-oil-tumbles-4)**
 
 An Israeli TV report said a one-month ceasefire could be announced soon.
 
-CoinDesk • 5h ago
+CoinDesk • 7h ago
 
 ---
 
-**[Bitcoin’s Institutional Shift Drives Bernstein’s $150,000 Call](https://www.bloomberg.com/news/articles/2026-03-24/bitcoin-s-institutional-shift-drives-bernstein-s-150-000-call)**
+**[Bitcoin, Ethereum, XRP Rise. How the Iran War Has Made Crypto Calls Tougher.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqdFZPere7rhyO6txFJmsUv1HrxoIO8eV4te_qHTVMcGtNDcH0_rgUOJ&gaa_ts=69c368d1&gaa_sig=dVtn8813ttidT9xGX9JxJiiBkcYexpID3buqaKPhK8gVSaYQaQVaiT8_hGhMBlSWvDDY5AJ2CXBq_Rvmk2CNFA%3D%3D)**
 
-Bloomberg.com • 10h ago
+Barron's • 16h ago
 
 ---
 
-**[Analyst flags quiet shift as Bitcoin and gold reverse roles](https://sg.finance.yahoo.com/news/analyst-flags-quiet-shift-bitcoin-004500916.html)**
+**[Bitcoin mining company plans to expand cryptocurrency operations to Dubuque County](https://www.kcrg.com/2026/03/24/bitcoin-mining-company-plans-expand-cryptocurrency-operations-dubuque-county/)**
 
-Bitcoin advocates call it "gold 2.0" due to its scarcity feature.But gold traditionalists have rejected such claims.However, recent trends suggest a role reversal. While gold has been hailed as a store of value for decades, Bitcoin (BTC) believers argue even the cryptocurrency is one similar asset ...
+A bitcoin mining company plans to install servers in Dubuque County, a move backed by the local economic development corporation.
 
-Yahoo Finance Singapore • 1h ago
+KCRG • 5h ago
+
+---
+
+**[Why Bernstein says bitcoin has bottomed & is moving higher](https://finance.yahoo.com/video/why-bernstein-says-bitcoin-bottomed-161605741.html)**
+
+Yahoo Finance Senior Business Reporter Ines Ferre chats with Yahoo Finance Executive Editor Brian Sozzi to discuss Bernstein's recent call that bitcoin (BTC-USD) has bottomed, taking a closer look at bitcoin's recent market action.
+
+Yahoo Finance • 12h ago
 
 ---
 
@@ -187,6 +207,14 @@ The Motley Fool • 1d ago
 
 ---
 
+**[Bernstein says bitcoin looks bottomed, sees 226% upside for Strategy](https://www.theblock.co/post/394878/bernstein-says-bitcoin-looks-bottomed-sees-226-upside-for-strategy)**
+
+Bernstein said Strategy could see 226% upside if bitcoin has bottomed, with STRC central to its capital model.
+
+The Block • 14h ago
+
+---
+
 **[Strategy Unveils $44 Billion Plan to Buy More Bitcoin, Driven By MSTR and STRC Shares](https://finance.yahoo.com/markets/crypto/articles/strategy-unveils-44-billion-plan-145603224.html)**
 
 Strategy shared plans to issue $44 billion in equity, a move aimed at providing its Bitcoin-buying machine with fuel for future purchases.
@@ -195,37 +223,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Strategy Eyes $78 Bil Bitcoin War Chest. Be Skeptical.](https://www.investors.com/news/mstr-stock-strategy-58-billion-bitcoin-war-chest/)**
+**[Saylor’s Strategy Returns to Common Stock for Latest Bitcoin Buy](https://www.bloomberg.com/news/articles/2026-03-23/saylor-s-strategy-returns-to-common-stock-for-latest-bitcoin-buy)**
 
-Investor's Business Daily • 13h ago
-
----
-
-**[Strategy purchases another $76 million worth of Bitcoin, all through sales of common stock](https://fortune.com/2026/03/23/strategy-purchases-another-76-million-worth-of-bitcoin/)**
-
-Michael Saylor’s company now holds about $58 billion of the original cryptocurrency.
-
-Fortune • 1d ago
-
----
-
-**[Hut 8 leans into modular ‘LEGO block’ model to switch between AI and bitcoin mining](https://www.theblock.co/post/394897/hut-8-modular-lego-block-model-switch-between-ai-bitcoin-mining)**
-
-Hut 8 is trying to position itself less as a miner and more as an energy infrastructure player, with power allocation driving returns.
-
-The Block • 11h ago
-
----
-
-**[Bitcoin subdued amid fresh Middle East strikes; analyst calls BTC bottom](https://www.investing.com/news/cryptocurrency-news/bitcoin-upbeat-at-70k-with-iran-deescalation-strategy-buying-in-focus-4576597)**
-
-Investing.com • 8h ago
-
----
-
-**[GameStop Sales Fall Amid Continued Retail Troubles, Bitcoin Value Decline](https://www.wsj.com/business/earnings/gamestop-sales-fall-amid-continued-retail-troubles-bitcoin-value-decline-24a5c8de?gaa_at=eafs&gaa_n=AWEtsqe8UT3SEOMzAtAj9FYAts9RQGoH1X1Kh1x_Qjfr8IPkTeDjTGj4ll-R&gaa_ts=69c34a75&gaa_sig=LaXxSQ3g5DAAPOAGZDeR4bUxn-SKPjItfHthNeqFbtqrPWb4hXcqA9yj65o2jMGg1duN2hp7MDB1GIZ92BrHkg%3D%3D)**
-
-WSJ • 5h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -253,7 +253,7 @@ Difficulty is now nearly 10% below where it started the year, despite a sharp 14
 
 Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes were hidden in lost fishing rod case
 
-⬆️ 2 • 💬 1 • 3h ago • [The Irish Times](https://www.irishtimes.com/crime-law/2026/03/24/gardai-seize-bitcoin-valued-at-30m-in-cab-operation-supported-by-europol/)
+⬆️ 2 • 💬 1 • 5h ago • [The Irish Times](https://www.irishtimes.com/crime-law/2026/03/24/gardai-seize-bitcoin-valued-at-30m-in-cab-operation-supported-by-europol/)
 
 ---
 
@@ -289,7 +289,7 @@ An event loop for asyncio written in Rust. Contribute to RustedBytes/rsloop deve
 
 **[Show HN: Castor – a secure execution layer for LLM agents](https://news.ycombinator.com/item?id=47504101)**
 
-⬆️ 1 • 💬 0 • 10h ago
+⬆️ 1 • 💬 0 • 13h ago
 
 ---
 
@@ -297,7 +297,7 @@ An event loop for asyncio written in Rust. Contribute to RustedBytes/rsloop deve
 
 Seeking power for data centers, Meta and other companies plan to use equipment that is expensive and polluting.
 
-⬆️ 3 • 💬 2 • 10h ago • [nytimes.com](https://www.nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html)
+⬆️ 3 • 💬 2 • 12h ago • [nytimes.com](https://www.nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html)
 
 ---
 
@@ -305,7 +305,7 @@ Seeking power for data centers, Meta and other companies plan to use equipment t
 
 Facebook really hopes your kids will play Grow A Garden via its terrible phone-based metaverse
 
-⬆️ 2 • 💬 0 • 9h ago • [Kotaku](https://kotaku.com/metas-virtual-reality-app-ditching-vr-to-make-a-roblox-clone-2000671434)
+⬆️ 2 • 💬 0 • 11h ago • [Kotaku](https://kotaku.com/metas-virtual-reality-app-ditching-vr-to-make-a-roblox-clone-2000671434)
 
 ---
 
@@ -313,33 +313,23 @@ Facebook really hopes your kids will play Grow A Garden via its terrible phone-b
 
 ## YouTube Videos: "bitcoin"
 
-**[The Turning Point for Bitcoin Is Here](https://www.youtube.com/watch?v=ew4nk3VJKq0)**
-
-Stop Guessing - Ask Clash (beta) ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ...
-
-📺 CryptosRUs
-
-👁️ 18K • 👍 958 • 💬 97 • ⏱️ 39:00 • 12h ago
-
----
-
 **[This Signal Says Bitcoin&#39;s Bottom Is In](https://www.youtube.com/watch?v=bJM_2AIU3kY)**
 
 Markets are unstable, but Bitcoin may be quietly setting up for its next major move. As defaults rise and traditional collateral ...
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 795 • 💬 56 • ⏱️ 12:39 • 4h ago
+👁️ 12K • 👍 946 • 💬 104 • ⏱️ 12:39 • 6h ago
 
 ---
 
-**[Bitcoin Is a Brilliant Scam and I Can Prove It (Again)](https://www.youtube.com/watch?v=dPoDyl9Ys38)**
+**[The Turning Point for Bitcoin Is Here](https://www.youtube.com/watch?v=ew4nk3VJKq0)**
 
-Everyone thinks they understand Bitcoin... but they don't. Because if Bitcoin is the future of money, why does it fail the most basic ...
+Stop Guessing - Ask Clash (beta) ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ...
 
-📺 Casual Finance
+📺 CryptosRUs
 
-👁️ 28K • 👍 2K • 💬 679 • ⏱️ 9:55 • 11h ago
+👁️ 18K • 👍 969 • 💬 131 • ⏱️ 39:00 • 14h ago
 
 ---
 
@@ -349,7 +339,7 @@ Stop waiting for Bitcoin to break out. Because by the time it does… it's alrea
 
 📺 Tim Talks Finance
 
-👁️ 2K • 👍 198 • 💬 26 • ⏱️ 13:57 • 8h ago
+👁️ 2K • 👍 223 • 💬 27 • ⏱️ 13:57 • 10h ago
 
 ---
 
@@ -359,7 +349,17 @@ Gold just entered a bear market during geopolitical chaos while Bitcoin held ste
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 897 • 💬 70 • ⏱️ 13:19 • 13h ago
+👁️ 11K • 👍 934 • 💬 71 • ⏱️ 13:19 • 15h ago
+
+---
+
+**[Bitcoin Is a Brilliant Scam and I Can Prove It (Again)](https://www.youtube.com/watch?v=dPoDyl9Ys38)**
+
+Everyone thinks they understand Bitcoin... but they don't. Because if Bitcoin is the future of money, why does it fail the most basic ...
+
+📺 Casual Finance
+
+👁️ 33K • 👍 3K • 💬 735 • ⏱️ 9:55 • 13h ago
 
 ---
 
@@ -369,17 +369,7 @@ Nobody knows how screwed everyone actually is right now. Not Iran. Not the Gulf.
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 196 • ⏱️ 15:05 • 1d ago
-
----
-
-**[Bitcoin Will Go To $0 The $1 Trillion Distraction For XRP](https://www.youtube.com/watch?v=A1rpQQelZ4k)**
-
-Book A Passive Income Strategy Call Here: → https://accelerator.altcoinpro.com Enter code 777 on checkout to get the ...
-
-📺 BULLRUNNERS
-
-👁️ 8K • 👍 371 • 💬 27 • ⏱️ 1:01 • 1d ago
+👁️ 23K • 👍 2K • 💬 196 • ⏱️ 15:05 • 1d ago
 
 ---
 
@@ -389,17 +379,17 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 21K • 👍 2K • 💬 101 • ⏱️ 24:02 • 6h ago
+👁️ 24K • 👍 2K • 💬 113 • ⏱️ 24:02 • 9h ago
 
 ---
 
-**[Is Economy Crashing GOOD For Bitcoin? (10 Year Bond Predicts Next Move)](https://www.youtube.com/watch?v=qYrJK20v78A)**
+**[Bitcoin Will Go To $0 The $1 Trillion Distraction For XRP](https://www.youtube.com/watch?v=A1rpQQelZ4k)**
 
-Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Zoomex - https://partner.zoomex.com/aff/ZX904299 Toobit ...
+Book A Passive Income Strategy Call Here: → https://accelerator.altcoinpro.com Enter code 777 on checkout to get the ...
 
-📺 Discover Crypto
+📺 BULLRUNNERS
 
-👁️ 584 • 👍 69 • 💬 22 • ⏱️ 7:18 • 1h ago
+👁️ 8K • 👍 376 • 💬 27 • ⏱️ 1:01 • 1d ago
 
 ---
 
@@ -409,7 +399,17 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Fol
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 178 • ⏱️ 36:30 • 2d ago
+👁️ 39K • 👍 2K • 💬 185 • ⏱️ 36:30 • 2d ago
+
+---
+
+**[BITCOIN: IT&#39;S HAPPENING AGAIN](https://www.youtube.com/watch?v=EGnq19_ft6w)**
+
+DM me the word “CBM” on Telegram to join my private group: https://t.me/CryptoByMathieu BloFin: ...
+
+📺 Mathieu - C₿M
+
+👁️ 4K • 👍 356 • 💬 50 • ⏱️ 10:40 • 9h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-25T02:23:08.323787+00:00'
+updated: '2026-03-25T04:32:39.419139+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 25, 2026 at 02:23 UTC  
+**Last Updated:** March 25, 2026 at 04:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,19 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[New demo by Kyber Labs showing a system doing real lab tasks (one single take, no cuts, and no teleoperation just accelerated and some parts in 1x)](https://www.reddit.com/r/robotics/comments/1s299ix/new_demo_by_kyber_labs_showing_a_system_doing/)**
-
-From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/2036127368088080867 On Youtube: Kyber Labs - Wet Lab Demo: https://www.youtube.com/watch?v=iM7WjQYlFvM Kyber Labs Demos: https://kyberlabs.ai/demos
-
-16h ago
-
----
-
 **[Meet KOU-III: a two-legged robot that uses drone rotors to jump higher and land softly](https://www.reddit.com/r/robotics/comments/1s2iyfw/meet_kouiii_a_twolegged_robot_that_uses_drone/)**
 
 KOU-III is a two-legged robot from Shandong University that combines walking with drone-like rotors for extra balance and power. Inspired by how ostriches use their wings while running, the rotors help it jump higher, land softly, and stay stable on tough terrain.
 
-9h ago
+11h ago
+
+---
+
+**[New demo by Kyber Labs showing a system doing real lab tasks (one single take, no cuts, and no teleoperation just accelerated and some parts in 1x)](https://www.reddit.com/r/robotics/comments/1s299ix/new_demo_by_kyber_labs_showing_a_system_doing/)**
+
+From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/2036127368088080867 On Youtube: Kyber Labs - Wet Lab Demo: https://www.youtube.com/watch?v=iM7WjQYlFvM Kyber Labs Demos: https://kyberlabs.ai/demos
+
+18h ago
 
 ---
 
@@ -52,7 +52,7 @@ KOU-III is a two-legged robot from Shandong University that combines walking wit
 
 From Marc Benioff on 𝕏: https://x.com/Benioff/status/2036252519308075219
 
-22h ago
+1d ago
 
 ---
 
@@ -60,7 +60,7 @@ From Marc Benioff on 𝕏: https://x.com/Benioff/status/2036252519308075219
 
 I have this lidar from one of my robo vacuum cleaner DEEBOT Y1 PRO. I want to use this lidar for my project. I want to connect it to rpi zero 2w can someone explain me how to identify the connections as I have already searched the web and not getting any proper results.
 
-10h ago
+12h ago
 
 ---
 
@@ -74,7 +74,7 @@ I have this lidar from one of my robo vacuum cleaner DEEBOT Y1 PRO. I want to us
 
 I have a 6DOF toy robot arm and i want to be able to control the joints with a microcontroller. How can i do this since it uses a dc motor with and can only move forwards and backwards so far
 
-12h ago
+14h ago
 
 ---
 
@@ -82,7 +82,7 @@ I have a 6DOF toy robot arm and i want to be able to control the joints with a m
 
 Hey everyone, i’m working on integrating a StepperOnline HHT-25-50-I-D14 harmonic drive reducer (50:1) with a NEMA 34 stepper motor, and I had a quick question before moving fIorward. Does anyone know if this reducer comes with any mounting accessories? Specifically: Motor mounting flange / adapter plate (for NEMA 34?) Shaft coupling or connection parts . Or is it just the standalone reducer? From what I can see, it looks like a shaft-input type, so I’m assuming I’ll need to design a custom adapter plate, but I’d like to confirm before ordering. If anyone has used this exact model or a similar one, I’d really appreciate your feedback 🙏 Thanks!
 
-10h ago
+12h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hey everyone, i’m working on integrating a StepperOnline HHT-25-50-I-D14 harmo
 
 I’m new to robotics and i need to do a dynamic modeling for a robotic arm at school and i don’t know how to get started. Dm if you wanna help
 
-4h ago
+6h ago
 
 ---
 
@@ -104,7 +104,7 @@ I’m new to robotics and i need to do a dynamic modeling for a robotic arm at s
 
 Hi! I was given a Roomba, and I'd like to install ROS 2 on it, along with a LiDAR sensor, camera, etc. I'm just starting to study robotics and don't have much experience yet. I'd like to know if there's any documentation or information available on how to modify the Roomba's drivers and set up ROS 2. Thank you very much! This is the model I have
 
-6h ago
+8h ago
 
 ---
 
@@ -116,7 +116,7 @@ Hi! I was given a Roomba, and I'd like to install ROS 2 on it, along with a LiDA
 
 Fauna's first product, called Sprout, is a $50,000 bipedal robot that's 3 feet, 6 inches tall and designed to be "approachable and human-friendly."
 
-CNBC • 5h ago
+CNBC • 7h ago
 
 ---
 
@@ -124,15 +124,15 @@ CNBC • 5h ago
 
 Why Boston Dynamics, Terabase Energy, Lucid Bots, and Symbotic are among Fast Company's Most Innovative Companies in robotics and engineering for 2026.
 
-Fast Company • 15h ago
+Fast Company • 17h ago
 
 ---
 
-**[Second delivery robot crashes into bus shelter, this time in Old Town](https://www.cbsnews.com/chicago/news/second-delivery-robot-crashes-into-bus-shelter-this-time-in-old-town/)**
+**[Video shows Serve Robotics delivery robot crash into CTA bus shelter on Racine outside Centre Construction Group in West Town](https://abc7chicago.com/post/video-shows-serve-robotics-delivery-robot-crash-cta-bus-shelter-racine-outside-centre-construction-group-west-town/18763333/)**
 
-The robot belonging to Coco Robotics was spotted by a CBS News Chicago viewer near North Avenue and Halsted Street in Old Town on Tuesday afternoon.
+Surveillance footage captured one of at least two food delivery robot crashes into CTA bus shelters.
 
-CBS News • 3h ago
+ABC7 Chicago • 8h ago
 
 ---
 
@@ -140,7 +140,21 @@ CBS News • 3h ago
 
 Modular robots are easily expandable, know when they're upside down or stuck, and can march forward across all kinds of terrain.
 
-Live Science • 10h ago
+Live Science • 13h ago
+
+---
+
+**[Billionaire Qatari Sheikh, Amazon Back Robotics Startup Neura](https://www.bloomberg.com/news/articles/2026-03-24/billionaire-qatari-sheikh-amazon-back-robotics-startup-neura)**
+
+Bloomberg.com • 9h ago
+
+---
+
+**[Second delivery robot crashes into bus shelter, this time in Old Town](https://www.cbsnews.com/chicago/news/second-delivery-robot-crashes-into-bus-shelter-this-time-in-old-town/)**
+
+The robot belonging to Coco Robotics was spotted by a CBS News Chicago viewer near North Avenue and Halsted Street in Old Town on Tuesday afternoon.
+
+CBS News • 5h ago
 
 ---
 
@@ -150,11 +164,19 @@ Tech Xplore • 1d ago
 
 ---
 
-**[Hyundai-backed humanoid robots to transform welding in shipyards](https://interestingengineering.com/ai-robotics/hyundai-persona-humanoid-robot-welding-shipyard)**
+**[Father makes donation to NL-S robotics in memory of his son](https://www.willmarradio.com/news/father-makes-donation-to-nl-s-robotics-in-memory-of-his-son/article_ca7f6a4c-b7de-454b-89c5-7c9597374ecc.html)**
 
-Hyundai partners Persona AI to develop humanoid welding robots, advancing automation across global shipyard operations
+(New London MN-) The father of a former New London-Spicer Robotics Team member who passed away has donated $2000 to the program. Guy Chetrit says the money is in the
 
-Interesting Engineering • 7h ago
+Willmar Radio • 15h ago
+
+---
+
+**[Agile Robots becomes the latest robotics company to partner with Google DeepMind](https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/)**
+
+Agile Robots will incorporate Google DeepMind's robotics foundation models into its bots while collecting data for the AI research lab.
+
+TechCrunch • 16h ago
 
 ---
 
@@ -163,28 +185,6 @@ Interesting Engineering • 7h ago
 A fully self-powered wireless arm interface converts human motion into electrical signals and wireless commands using a compact triboelectric nanogenerator, enabling battery-free, real-time robotic arm control for industrial and human–machine applications.
 
 Nature • 1d ago
-
----
-
-**[Delivery Robot Drives Through Bus Stop Shelter, Shattering Glass Everywhere](https://www.404media.co/delivery-robot-drives-through-bus-stop-sh-shattering-glass-everywhere/)**
-
-A Serve Robotics robot crashed through a Chicago bus shelter.
-
-404 Media • 9h ago
-
----
-
-**[GMEX Robotics Receives AU$4.2 Million First Commercial Order from Leading Australian Food & Beverage Group](https://finance.yahoo.com/sectors/technology/articles/gmex-robotics-receives-au-4-124500890.html)**
-
-SYDNEY, Australia, March 23, 2026 (GLOBE NEWSWIRE) -- GMEX Robotics Corporation (NASDAQ: GMEX) (“GMEX Robotics” or the “Company”), a developer of AI-powered robotic technologies, announces that it has entered into a purchase agreement with a leading Australian food and beverage group (“FBG”) for the deployment of the Company’s intelligent culinary robotics systems, including its recently announced personal robotic chef - 2Fculinary AI, and the purchase order from this FBG. The AU$4.2 million agr
-
-Yahoo Finance • 1d ago
-
----
-
-**[Billionaire Qatari Sheikh, Amazon Back Robotics Startup Neura](https://www.bloomberg.com/news/articles/2026-03-24/billionaire-qatari-sheikh-amazon-back-robotics-startup-neura)**
-
-Bloomberg.com • 7h ago
 
 ---
 
@@ -198,7 +198,7 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 📺 CNET
 
-👁️ 15K • 👍 442 • 💬 26 • ⏱️ 5:50 • 2d ago
+👁️ 15K • 👍 443 • 💬 26 • ⏱️ 5:50 • 2d ago
 
 ---
 
@@ -208,27 +208,7 @@ This week in robotics got kind of ridiculous. South Korea showed off a humanoid 
 
 📺 AI Revolution
 
-👁️ 140K • 👍 2K • 💬 121 • ⏱️ 14:31 • 2d ago
-
----
-
-**[What It Took to Make This Robot Work](https://www.youtube.com/watch?v=qzNmMoFnRsY)**
-
-COGLET KICKSTARTER LAUNCH: ...
-
-📺 Will Cogley
-
-👁️ 20K • 👍 1K • 💬 74 • ⏱️ 10:35 • 4d ago
-
----
-
-**[THIS damage is certainly OVERPOWERED – War Robots MACHAIRA](https://www.youtube.com/watch?v=yuf_yR75k7M)**
-
-War Robots Gameplay: Machaira on Ultimate Typhon is Overpowered Damage My War Robots Creator Link: ...
-
-📺 Manni-Gaming
-
-👁️ 7K • 👍 421 • 💬 79 • ⏱️ 20:26 • 11h ago
+👁️ 146K • 👍 2K • 💬 121 • ⏱️ 14:31 • 2d ago
 
 ---
 
@@ -238,17 +218,35 @@ War Robots Gameplay: Machaira on Ultimate Typhon is Overpowered Damage My War Ro
 
 📺 RAI Institute
 
-👁️ 56K • 👍 3K • 💬 229 • ⏱️ 1:34 • 1d ago
+👁️ 62K • 👍 3K • 💬 261 • ⏱️ 1:34 • 1d ago
 
 ---
 
-**[China’s New Tennis Robot Reveals the Next Step for Humanoid Robots](https://www.youtube.com/watch?v=pT1BBg-Sehg)**
+**[China&#39;s humanoid robots move toward practical use](https://www.youtube.com/watch?v=-g7H28HvZQM)**
 
-Subscribe To My Newsletter - https://aigrid.beehiiv.com/subscribe Get your Free AGI Preparedness Guide ...
+Robots are becoming ubiquitous in China, whether for industrial manufacturing, to man a store counter, or direct traffic. According ...
 
-📺 TheAIGRID
+📺 ShanghaiEye魔都眼
 
-👁️ 14K • 👍 257 • 💬 45 • ⏱️ 10:30 • 5d ago
+👁️ 13K • 👍 196 • 💬 59 • ⏱️ 1:29 • 18h ago
+
+---
+
+**[THIS damage is certainly OVERPOWERED – War Robots MACHAIRA](https://www.youtube.com/watch?v=yuf_yR75k7M)**
+
+War Robots Gameplay: Machaira on Ultimate Typhon is Overpowered Damage My War Robots Creator Link: ...
+
+📺 Manni-Gaming
+
+👁️ 7K • 👍 451 • 💬 81 • ⏱️ 20:26 • 13h ago
+
+---
+
+**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=-Kf7x28Y9_o)**
+
+📺 zhulongfeng 6
+
+👁️ 965 • 👍 17 • ⏱️ 0:23 • 3h ago
 
 ---
 
@@ -262,23 +260,23 @@ A wave of attention is building around a new concept from Apple that suggests th
 
 ---
 
-**[Out of control robot smashes up restaurant as waitress desperately attempts to drag it away](https://www.youtube.com/watch?v=ZyohmMJA5Ao)**
-
-THIS is the hilarious moment a boogying robot dances too hard and sends food and cutlery flying in a high end restaurant.
-
-📺 The Sun
-
-👁️ 314K • 👍 4K • 💬 2K • ⏱️ 2:07 • 5d ago
-
----
-
 **[Introducing Coglet](https://www.youtube.com/watch?v=k_1Paexlc_A)**
 
 Coglet's Kickstarter Launch! https://www.kickstarter.com/projects/willcogley/coglet-open-source-3d-printable-robot-companion-kit.
 
 📺 Will Cogley
 
-👁️ 26K • 👍 1K • 💬 95 • ⏱️ 1:52 • 3d ago
+👁️ 27K • 👍 2K • 💬 97 • ⏱️ 1:52 • 3d ago
+
+---
+
+**[Out of control robot smashes up restaurant as waitress desperately attempts to drag it away](https://www.youtube.com/watch?v=ZyohmMJA5Ao)**
+
+THIS is the hilarious moment a boogying robot dances too hard and sends food and cutlery flying in a high end restaurant.
+
+📺 The Sun
+
+👁️ 315K • 👍 4K • 💬 2K • ⏱️ 2:07 • 5d ago
 
 ---
 
@@ -288,7 +286,7 @@ Sesame Micro is a tangent project to the Sesame Robot Project, an open-source mi
 
 📺 Dorian Todd
 
-👁️ 46K • 👍 2K • 💬 150 • ⏱️ 11:03 • 5d ago
+👁️ 46K • 👍 2K • 💬 151 • ⏱️ 11:03 • 5d ago
 
 ---
 
