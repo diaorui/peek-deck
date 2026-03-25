@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-25T16:11:41.456930+00:00'
+updated: '2026-03-25T17:35:27.548344+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 25, 2026 at 16:11 UTC  
+**Last Updated:** March 25, 2026 at 17:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,156.29
+### $2,178.63
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.5%  
-**7d:** +1.1%  
-**30d:** +16.7%  
-**90d:** -26.3%  
-**1y:** +7.6%  
+**24h:** +2.2%  
+**7d:** +1.4%  
+**30d:** +17.0%  
+**90d:** -26.1%  
+**1y:** +7.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 V4 passed near-unanimously with their main shift from being a monolithic pool to modular vaults. Like Morpho's isolation but with Aave's liquidity depth. sUSDe and RWA yields get cleaner APY profiles because risk vectors aren't correlated anymore. This is DeFi infrastructure graduating from 'move fast break things' to 'TradFi complexity with better costs and could be a comeback for Aave against other lending market if implemented properly
 
-13h ago
+15h ago
 
 ---
 
@@ -88,7 +88,7 @@ V4 passed near-unanimously with their main shift from being a monolithic pool to
 
 I’ve been trying to understand where tokenized real-world assets (RWA) actually fit. On paper, it sounds useful. You can take things like gold, real estate, or commodities and put them on blockchain. That should make them easier to trade, more accessible, and available 24/7. No banks, fewer middlemen. But I keep wondering how much of this is real improvement vs just packaging old assets in a new way. If I already have ETFs or REITs, do I really gain anything from tokenization? Or is it just more risk added through crypto infrastructure? I recently found Steamex.com, a platform which is focused on tokenized gold. The idea is simple: you buy digital tokens backed by real gold instead of holding physical metal. It sounds convenient, but it also depends a lot on trust in the company and how the backing actually works. Another question is liquidity. Projects say assets are tradable anytime, but that only works if there are enough buyers and sellers. Curious what others think. Is this actually the future of finance, or are we still early and overestimating the impact?
 
-6h ago
+7h ago
 
 ---
 
@@ -96,7 +96,7 @@ I’ve been trying to understand where tokenized real-world assets (RWA) actuall
 
 I've always wanted to know more about the world of the unsung heroes in blockchain. Those, being the validators and miners. How do validators of various blockchains communicate? Is there a place where I can peek into their world, (if any exist) where I can submerge myself in how they think, what they find valuable, and generally ask a tonne of questions? I understand the answer will vary from ecosystem to ecosystem. But yes, please assist. Where can I find validator groups and communication channels, any common I can communicate with them. Thanks,
 
-16h ago
+17h ago
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[A new type of block explorer](https://www.reddit.com/r/ethereum/comments/1s2xqy2/a_new_type_of_block_explorer/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -126,7 +126,7 @@ Trying to get a realistic picture of where rollup deployment is right now, not t
 
 Been holding ETH for a while and thinking about staking. With 32 ETH still being the solo requirement, I'm looking at options like Rocket Pool or Lido, but I keep going back and forth. Running a node seems cool but hardware + 4 ETH + RPL feels like a lot to manage. Liquid staking is easier but then you're holding a derivative token and trusting the protocol. For people staking right now , what path did you take and how's it been? Is the hassle worth the yield or do you just stick to holding?
 
-17h ago
+19h ago
 
 ---
 
@@ -148,11 +148,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Got $2,000? Which Crypto Is the Better Buy Right Now: Ethereum (ETH) vs. Solana (SOL)?](https://www.fool.com/investing/2026/03/25/got-2000-which-crypto-is-the-better-buy-right-now/)**
+
+Ethereum is a blockchain powerhouse, but it can't compete with Solana on speed or cost.
+
+The Motley Fool • 6h ago
+
+---
+
 **[Ethereum block builder Eureka Labs raises $6.7 million, introduces 'programmable blocks'](https://www.theblock.co/post/394923/ethereum-block-builder-eureka-labs-funding-programmable-blocks)**
 
 Ethereum block builder Eureka Labs is introducing "programmable blocks," which add logic during block construction.
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -160,7 +168,7 @@ The Block • 22h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 2h ago
+Fortune • 3h ago
 
 ---
 
@@ -168,29 +176,27 @@ Fortune • 2h ago
 
 Bitmine Immersion Technologies (NYSE: $BMNR) has launched what it claims is the world’s largest Ethereum (CRY...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 4h ago
 
 ---
 
-**[Ethereum Foundation launches post-quantum security hub with more than 10 client teams](https://www.coindesk.com/tech/2026/03/25/ethereum-foundation-prepares-for-quantum-threat-with-new-cryptography-roadmap)**
+**[Ethereum Foundation Prepares for Quantum Threat With New Cryptography Roadmap](https://www.moomoo.com/news/post/67411285/ethereum-foundation-prepares-for-quantum-threat-with-new-cryptography-roadmap)**
 
-The effort to protect Ethereum from quantum computing threats has been underway for eight years and is now producing working code, with a multi-layer migration roadmap integrated into the protocol's next four hard forks.
-
-CoinDesk • 36m ago
+Moomoo • 1h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Rise. How the Iran War Has Made Crypto Calls Tougher.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqeyQi3G0jyhis4yePbtTeFORaJz30HiiSHeuXNVbciabtiLldC00rrP&gaa_ts=69c40ca4&gaa_sig=TEZmsnj_VyPtsI14ae5jFGOFKXsMBLQRVhAQMJl4_KjBXlQ268V-vFslxNdyFfHODhbxvjr8HbZ0J1bi4ibiVA%3D%3D)**
+**[Ethereum news (ETH): Aave, Ethena leaders outline push to build onchain fixed income markets in DeFi](https://www.coindesk.com/business/2026/03/24/crypto-finance-is-beginning-to-look-at-lot-more-traditional-aave-and-ethena-founders-say)**
+
+Until recently, crypto users mostly traded tokens or borrowed against them, often chasing high but unpredictable yields. But new tools are making it possible to lock in returns, even in a market known for big swings.
+
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Rise. How the Iran War Has Made Crypto Calls Tougher.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqd03IS71HHxVQZAOvxczlndummCs4Fa3UlePHxURiPsY42qotm65s5r&gaa_ts=69c42048&gaa_sig=VnFVw6w3RhqW1HB2nbIrsxuY8iMQHooT8rFofME0XgGRWSgXvj81tOOccktooUkZVEQx1hlJyLhzwDtktahR5g%3D%3D)**
 
 Barron's • 1d ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP send mixed cues, leaning slightly bearish](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-send-mixed-cues-leaning-slightly-bearish-202603250333)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are showing mixed signals on Wednesday as market momentum shows signs of fatigue. BTC holds its recent recovery, now nearing its key resistance, while ETH struggles below a critical level, and XRP’s momentum indicators tilt slightly bearish.
-
-FXStreet • 12h ago
 
 ---
 
@@ -198,29 +204,21 @@ FXStreet • 12h ago
 
 Ethereum price started a recovery wave above the $2,065 zone. ETH is now consolidating above $2,120 and might aim for more gains if it clears the $2,200 resistance.Ethereum Price Eyes Steady GainsEthereum price managed to stay above $2,020 and started a recovery wave, like Bitcoin. ETH price was ab…
 
-TradingView • 12h ago
+TradingView • 14h ago
 
 ---
 
-**[What price will Ethereum hit on March 24? Trading Odds & Predictions](https://polymarket.com/event/what-price-will-ethereum-hit-on-march-24)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP send mixed cues, leaning slightly bearish](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-send-mixed-cues-leaning-slightly-bearish-202603250333)**
 
-$166,037 has traded on "What price will Ethereum hit on March 24?" as of March 25, 2026. View real-time odds or trade on The World's Largest Prediction Marke...
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are showing mixed signals on Wednesday as market momentum shows signs of fatigue. BTC holds its recent recovery, now nearing its key resistance, while ETH struggles below a critical level, and XRP’s momentum indicators tilt slightly bearish.
 
-Polymarket • 9d ago
-
----
-
-**[Ethereum Price Jumps on Iran Optimism as Tom Lee's BitMine Adds to $10 Billion Stash](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-jumps-iran-optimism-151958490.html)**
-
-BitMine Immersion Technologies now holds more than $10 billion worth of Ethereum, leading the ETH treasury pack as the asset rebounds.
-
-Yahoo Finance • 2d ago
+FXStreet • 14h ago
 
 ---
 
 **[How to Deploy an Autonomous AI Agent on the Ethereum Interoperability Layer](https://financefeeds.com/how-to-deploy-an-autonomous-ai-agent-on-the-ethereum-interoperability-layer/)**
 
-FinanceFeeds • 5h ago
+FinanceFeeds • 6h ago
 
 ---
 
@@ -234,7 +232,7 @@ You're not going to want to miss this INCREDIBLE Ether, technical analysis and i
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 222 • 💬 8 • ⏱️ 18:00 • 21h ago
+👁️ 5K • 👍 222 • 💬 8 • ⏱️ 18:00 • 23h ago
 
 ---
 
@@ -244,7 +242,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 113 • 💬 4 • ⏱️ 3:56 • 4h ago
+👁️ 1K • 👍 113 • 💬 4 • ⏱️ 3:56 • 6h ago
 
 ---
 
@@ -264,7 +262,7 @@ The crypto market is heating up, things look like they could become a lot more s
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 640 • 💬 112 • ⏱️ 25:01 • 5h ago
+👁️ 4K • 👍 640 • 💬 112 • ⏱️ 25:01 • 7h ago
 
 ---
 
@@ -274,7 +272,7 @@ BMNR is quietly building one of the largest Ethereum treasuries in the world now
 
 📺 The Value Thinker
 
-👁️ 7K • 👍 508 • 💬 81 • ⏱️ 24:16 • 15h ago
+👁️ 7K • 👍 508 • 💬 81 • ⏱️ 24:16 • 17h ago
 
 ---
 
@@ -284,7 +282,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free https://go.ted
 
 📺 MONEY GAME
 
-👁️ 3K • 👍 120 • 💬 43 • ⏱️ 25:15 • 4h ago
+👁️ 3K • 👍 120 • 💬 43 • ⏱️ 25:15 • 5h ago
 
 ---
 
@@ -304,7 +302,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 143 • 👍 4 • ⏱️ 4:35 • 5h ago
+👁️ 143 • 👍 4 • ⏱️ 4:35 • 7h ago
 
 ---
 
@@ -314,7 +312,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 511 • 👍 67 • ⏱️ 5:31 • 4h ago
+👁️ 511 • 👍 67 • ⏱️ 5:31 • 6h ago
 
 ---
 
@@ -324,7 +322,7 @@ BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Start your trading j
 
 📺 Ashutosh Kumar
 
-👁️ 8K • 👍 835 • 3h ago
+👁️ 8K • 👍 835 • 4h ago
 
 ---
 

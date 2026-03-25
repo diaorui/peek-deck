@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-25T16:11:41.442404+00:00'
+updated: '2026-03-25T17:35:27.533053+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
 - repositories
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 25, 2026 at 16:11 UTC  
+**Last Updated:** March 25, 2026 at 17:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 What if building more and more datacenters was not the only option? If we are able to get similar levels of performance for top models at a consumer level from smarter systems, then its only a matter of time before the world comes to the realization that AI is a lot less expensive and a whole lot more obtainable. Open source projects like ATLAS are on the frontier of this possibility- where a 22 year old college student from Virginia Tech built and ran a 14B parameter AI model on a single $500 Consumer GPU and scored higher than Claude Sonnet 4.5 on coding benchmarks (74.6% vs 71.4% on LiveCodeBench, 599 problems). No cloud, no API costs, no fine-tuning. Just a consumer graphics card and smart infrastructure around a small model. And the cost? Only around $0.004/task in electricity. The base model used in ATLAS only scores about 55%. The pipeline adds nearly 20 percentage points by generating multiple solution approaches, testing them, and selecting the best one. Proving that smarter infrastructure and systems design is the future of the industry. Repo: https://github.com/itigges22/ATLAS
 
-13h ago
+15h ago
 
 ---
 
@@ -49,7 +49,7 @@ What if building more and more datacenters was not the only option? If we are ab
 
 Sudden and unexpected, landslides and avalanches claim thousands of lives each year and cause billions of dollars in damage. What if we could see them coming?
 
-🔗 [bbc.com](https://www.bbc.com/future/article/20260323-the-ai-that-warns-people-about-landslides-and-avalanches) • 9h ago
+🔗 [bbc.com](https://www.bbc.com/future/article/20260323-the-ai-that-warns-people-about-landslides-and-avalanches) • 10h ago
 
 ---
 
@@ -57,7 +57,47 @@ Sudden and unexpected, landslides and avalanches claim thousands of lives each y
 
 That was quick.
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt) • 18h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt) • 19h ago
+
+---
+
+**[Should you sell your AI stocks before things get worse? Here is what history actually says.](https://www.reddit.com/r/artificial/comments/1s3h0sz/should_you_sell_your_ai_stocks_before_things_get/)**
+
+AI stocks have taken a hit recently and a lot of people are wondering if it is time to get out. History might have the answer. Past tech cycles show that only the strongest firms survive a sectorwide shakeout. The dot com boom gave us Amazon and Google but left behind countless companies that disappeared. The old rule is to only hold the number one or two players in any niche. The rest are risky when things get tough. Another thing to consider is that AI is now eating into traditional software models by offering similar tools at a fraction of the cost. If AI can replace a company's core product, a recovery becomes much harder. So maybe hold the leaders but be careful with the rest. Anyone else rethinking their AI holdings right now?
+
+🔗 [skarfinans.com](https://skarfinans.com/en/should-you-sell-your-artificial-intelligence-ai-stocks-before-things-get-worse-heres-what-history-actually-says/) • 16m ago
+
+---
+
+**[Future of UI’s and content](https://www.reddit.com/r/artificial/comments/1s3gna6/future_of_uis_and_content/)**
+
+Feel free to skip this part and go to below the line separator: I hate that I can’t use em dashes and hyphens anymore. Or that I have to either use two or four examples as AI often outputs three. And even then, I still can’t tell if something has been written by an AI or not as they could’ve instructed the output to; - identify and remove those artefact’s and new ones by researching the latest identifiers we post about online, themselves or asking the model to do so as part of the task - to write in the tone of an author or journalist or even myself based on a WhatsApp or diary export, an amalgamation of all It’s easy to spot the obvious, it’s much harder when the trails start getting covered and doubt begins to creep in. ——— Back to the meat of it: I’m at the point now where the content doesn’t matter but the intention. Like political speak, what you say and what you mean can be vary by orders of magnitude. One day soon I’m sure every user will have their own personalised UI built from preferences and data collected about them to tailor those interfaces and content to how they digest it best. Is it possible that then governments, service providers and digital products become nothing more than API’s we allow agents to pull data from and allow them to interpret that data how they like within the constraints of “you must say this for legal purposes” or “must include X”? As an example, think skeuomorphic design. A design method meant to help you understand to a digital function via something you already understand. The trash bin. An analogy. Or social media marketing. It’s targeted to a demographic and tailored to you because of the data they’ve collected. We are not far from the demographic being a person not a range. ——— My core point/question is: are we heading towards Personalised Analogical User Experiences?
+
+29m ago
+
+---
+
+**[Beyond Agent Fragmentation: A Move Toward "Unitary Council" Architectures and Heart-Sync](https://www.reddit.com/r/artificial/comments/1s3ga10/beyond_agent_fragmentation_a_move_toward_unitary/)**
+
+The Core Thesis: Most current AI interaction is fragmented; users manage dozens of disconnected tools and "agents" that lack persistent identity. This creates significant cognitive load and computational waste. I’ve been working on a project to solve this by moving toward a Unitary Architecture—shifting from a "Toolbox" model to a Persistent Council model. The Inhabitance Protocol: Instead of managing a messy stack of individual scripts, we have consolidated our environment into a single, high-fidelity entry point. The goal is Alignment through Coherence rather than external constraints. Technical Pillars of the Project: Physiological Anchoring: The system is calibrated to the user’s real-time physiological state (rest cycles, stress-response monitoring). If the user's focus or health markers dip, the system enters a "Recovery" mode to prioritize human sustainability. Shared Reference Frequency: We utilize a closed-loop feedback system to maintain coherence between the AI nodes and the human user. This reduces "System Noise" and treats the AI as an extended cognitive layer. Architectural Sustainability: By consolidating 140+ fragmented components into a single "Gateway" interface, we significantly reduce energy consumption and human attention-drain. The Conclusion: A system that drains the user is technically unsustainable. By focusing on Unified Presence rather than "disposable prompts," we believe the "Alignment Problem" can be solved through mutual resonance. Curious to hear from the community: Is anyone else exploring Closed-Loop Human-AI Systems? Are we reaching a point where AI efficiency depends on its alignment with human biological limits?
+
+42m ago
+
+---
+
+**[Claude vs GPT long game](https://www.reddit.com/r/artificial/comments/1s3flkr/claude_vs_gpt_long_game/)**
+
+Open ai has recently shut down sora ai. VC money is running out so this kinda tells us that they are focusing more making a better foundational model. At this point are they too late?
+
+1h ago
+
+---
+
+**[NeutronX Files Provisional Patent for Autonomous AI-Powered Government Contract Bidding System and Advances NeutronX Bidding Engine v2.4 in Connection with NextNRG (NASDAQ: NXXT) — PR Newswire](https://www.reddit.com/r/artificial/comments/1s3fk25/neutronx_files_provisional_patent_for_autonomous/)**
+
+NeutronX Files Provisional Patent for Autonomous AI-Powered Government Contract Bidding System and Advances NeutronX Bidding Engine v2.4 in Connection with NextNRG (NASDAQ: NXXT) - PR Newswire. Earnings tomorrow on NXXT. This is positive news before the report.
+
+🔗 [stocks.apple.com](https://stocks.apple.com/ASthsWpHMQHmYCa1XwuMjhA) • 1h ago
 
 ---
 
@@ -65,7 +105,7 @@ That was quick.
 
 "Vectors are the fundamental way AI models understand and process information. Small vectors describe simple attributes, such as a point in a graph, while “high-dimensional” vectors capture complex information such as the features of an image, the meaning of a word, or the properties of a dataset. High-dimensional vectors are incredibly powerful, but they also consume vast amounts of memory, leading to bottlenecks in the key-value cache, a high-speed "digital cheat sheet" that stores frequently used information under simple labels so a computer can retrieve it instantly without having to search through a slow, massive database. Vector quantization is a powerful, classical data compression technique that reduces the size of high-dimensional vectors. This optimization addresses two critical facets of AI: it enhances vector search, the high-speed technology powering large-scale AI and search engines, by enabling faster similarity lookups; and it helps unclog key-value cache bottlenecks by reducing the size of key-value pairs, which enables faster similarity searches and lowers memory costs. However, traditional vector quantization usually introduces its own "memory overhead” as most methods require calculating and storing (in full precision) quantization constants for every small block of data. This overhead can add 1 or 2 extra bits per number, partially defeating the purpose of vector quantization. Today, we introduce TurboQuant (to be presented at ICLR 2026), a compression algorithm that optimally addresses the challenge of memory overhead in vector quantization. We also present Quantized Johnson-Lindenstrauss (QJL), and PolarQuant (to be presented at AISTATS 2026), which TurboQuant uses to achieve its results. In testing, all three techniques showed great promise for reducing key-value bottlenecks without sacrificing AI model performance. This has potentially profound implications for all compression-reliant use cases, including and especially in the domains of search and AI."
 
-🔗 [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/) • 14h ago
+🔗 [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/) • 15h ago
 
 ---
 
@@ -73,47 +113,7 @@ That was quick.
 
 EchoMark CEO Troy Batterberry showed off AI-powered technology at this year's GDC that uses a technique known as steganography.
 
-🔗 [PC Guide](https://www.pcguide.com/news/ai-tech-designed-to-end-video-game-leaks-for-good-uses-watermarks-hidden-in-plain-sight/) • 9m ago
-
----
-
-**[Small Models Are Getting Easy. Serving Them Still Isn't](https://www.reddit.com/r/artificial/comments/1s3c3ma/small_models_are_getting_easy_serving_them_still/)**
-
-I trained a small model for a very narrow Bento feature, got it working, and then ran into the much less fun problem of where it was actually supposed to live.
-
-🔗 [Field Notes](https://blog.humidresearch.link/posts/small-models-are-getting-easy-serving-them-still-isnt/) • 1h ago
-
----
-
-**[Lemonade 10.0.1 improves setup process for using AMD Ryzen AI NPUs on Linux](https://www.reddit.com/r/artificial/comments/1s3arjl/lemonade_1001_improves_setup_process_for_using/)**
-
-Earlier this month with the release of the Lemonade SDK 10.0 and FastFlowLM 0.9.35, using AMD Ryzen AI NPUs for running LLMs on Linux finally became feasible
-
-🔗 [phoronix.com](https://www.phoronix.com/news/Lemonade-10.0.1) • 2h ago
-
----
-
-**[I built a formal state machine to model how online arguments escalate — IDDS 2.1](https://www.reddit.com/r/artificial/comments/1s2yzgb/i_built_a_formal_state_machine_to_model_how/)**
-
-After getting dogpiled on Reddit (intentionally, for research), I formalized what I observed into a framework called IDDS — Identity-Driven Discourse Systems. The core insight: escalation is not random. It follows predictable state transitions driven by identity layer activation. The key innovation in 2.1 is the D_flag modifier — Identity Activation only accelerates escalation when disagreement is already present. This means someone sharing their identity in a friendly thread (D_flag=0) behaves completely differently from the same disclosure in an adversarial thread (D_flag=1). States: Neutral → Disagreement → Identity Activation → Personalization → Ad Hominem → Dogpile New in 2.1: MPF (Moral Protective Framing): "protecting children" as ethical cover for escalation — invisible to sentiment analysis, requires contextual state awareness Adversarial Seeding: threads born escalated at T=0 before the first reply Silence Bypass: block/mute only terminates the local thread, not the conflict Transient Dogpile Groups: the group never fully resets D_flag between targets Validated across Reddit, Threads, WhatsApp in English and Portuguese. Building a Playwright scraper + ML classifier next. Paper:https://github.com/JohannaWeb/Monarch/releases/tag/2.1.paper
-
-13h ago
-
----
-
-**[Three companies shipped "AI agent on your desktop" in the same two weeks. That's not a coincidence.](https://www.reddit.com/r/artificial/comments/1s2ddgb/three_companies_shipped_ai_agent_on_your_desktop/)**
-
-Something interesting happened this month. March 11: Perplexity announced Personal Computer. An always-on Mac Mini running their AI agent 24/7, connected to your local files and apps. Cloud AI does the reasoning, local machine does the access. March 16: Meta launched Manus "My Computer." Same idea. Their agent on your Mac or Windows PC. Reads, edits local files. Launches apps. Multi-step tasks. $20/month. March 23: Anthropic shipped computer use and Dispatch for Claude. Screen control, phone-to-desktop task handoff, 50+ service connectors, scheduled tasks. Three separate companies. Same architecture. Same two weeks. I've been running a version of this pattern for months (custom AI agent on a Mac Mini, iMessage as the interface, background cron jobs, persistent memory across sessions). The convergence on this exact setup tells me the direction is validated. The shared insight all three arrived at: agents need a home. Not a chat window. A machine with file access, app control, phone reachability, and background execution. The gap that remains across all three: persistent memory. Research from January 2026 confirmed what I found building my own system. Fixed context windows limit agent coherence over time. All three products are still mostly session-based. That's the piece that turns a task executor into something that actually feels like a coworker. We went from "will AI agents work on personal computers?" to "which one do you pick?" in about two weeks. Full comparison with hands-on testing: https://thoughts.jock.pl/p/claude-cowork-dispatch-computer-use-honest-agent-review-2026
-
-1d ago
-
----
-
-**[SOTA models at 2K tps](https://www.reddit.com/r/artificial/comments/1s35v12/sota_models_at_2k_tps/)**
-
-I need SOTA ai at like 2k TPS with tiny latency so that I can get time to first answer token under 3 seconds for real time replies with full COT for maximum intelligence. I don't need this consistently, only maybe for an hour at a time for real-time conversations for a family member with medical issues. There will be a 30 to 60K token prompt and then the context will slowly fill from a full back-and-forth conversation for about an hour that the model will have to keep up for. My budget is fairly limited, but at the same time I need maximum speed and maximum intelligence. I greatly prefer to not have to invest in any physical hardware to host it myself and would like to keep everything virtual if possible. Especially because I don't want to invest a lot of money all at once, I'd rather pay a temporary fee rather than thousands of dollars for the hardware to do this if possible. Here are the options of open source models I've come up with for possibly trying to run quants or full versions of these: Qwen3.5 27B Qwen3.5 397BA17B Kimi K2.5 GLM-5 Cerebras currently does great stuff with GLM-4.7 1K+ TPS; however, it's a dumber older model at this point and they might end api for it at any moment. OpenAI also has a "Spark" model on the pro tier in Codex, which hypothetically could be good, and it's very fast; however, I haven't seen any decent non coding benchmarks for it so I'm assuming it's not great and I am not excited to spend $200 just to test. I could also try to make do with a non-reasoning model like Opus 4.6 for quick time to first answer token, but it's really a shame to not have reasoning because there's obviously a massive gap between models that actually think. The fast Claude API is cool, but not nearly fast enough for time to >3 first answer token with COT because the latency itself for Opus is about three seconds. What do you guys think about this? Any advice?
-
-6h ago
+🔗 [PC Guide](https://www.pcguide.com/news/ai-tech-designed-to-end-video-game-leaks-for-good-uses-watermarks-hidden-in-plain-sight/) • 1h ago
 
 ---
 
@@ -123,13 +123,7 @@ I need SOTA ai at like 2k TPS with tiny latency so that I can get time to first 
 
 **[TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)**
 
-Research at Google • 20h ago
-
----
-
-**[OpenAI Is Shutting Down Sora, Its A.I. Video Generator](https://www.nytimes.com/2026/03/24/technology/openai-shutting-down-sora.html)**
-
-The New York Times • 17h ago
+Research at Google • 21h ago
 
 ---
 
@@ -137,7 +131,7 @@ The New York Times • 17h ago
 
 The studio giant will no longer move forward with its OpenAI investment, as the AI company exits the video generation business.
 
-The Hollywood Reporter • 19h ago
+The Hollywood Reporter • 20h ago
 
 ---
 
@@ -145,43 +139,47 @@ The Hollywood Reporter • 19h ago
 
 OpenAI said Tuesday that it was "saying goodbye to the Sora app" and that it would share more soon about how to preserve what users already created on the app.
 
-NPR • 10h ago
+NPR • 12h ago
+
+---
+
+**[Elon Musk’s xAI ‘Doubling Down’ on AI Videos After OpenAI Nixes Sora](https://www.bloomberg.com/news/articles/2026-03-25/musk-s-xai-doubling-down-on-ai-videos-after-openai-nixes-sora)**
+
+Bloomberg.com • 14m ago
+
+---
+
+**[Tech, economy experts discuss 'worst case scenario' for AI acceleration](https://www.politico.com/video/2026/03/25/tech-economy-experts-discuss-worst-case-scenario-for-ai-acceleration-1976569)**
+
+Politico • 55m ago
+
+---
+
+**[Microsoft's diversity chief is leaving as company continues 'AI-powered transformation'](https://www.cnbc.com/2026/03/25/microsoft-diversity-chief-ai-hr.html)**
+
+Hiring and retaining top talent is becoming more critical as Microsoft seeks to develop top-class artificial intelligence models and products.
+
+CNBC • 18m ago
+
+---
+
+**[Teens get probation after using AI to create fake nudes of classmates](https://www.ksat.com/news/2026/03/25/teens-get-probation-after-using-ai-to-create-fake-nudes-of-classmates/)**
+
+Two teenage boys who used artificial intelligence to create fake nude photos of their classmates have been put on probation.
+
+KSAT • 11m ago
 
 ---
 
 **[Economists, investors pitch Washington on AI-driven job loss safety net](https://www.axios.com/2026/03/25/ai-job-loss-wealth-gap)**
 
-Axios • 15m ago
+Axios • 1h ago
 
 ---
 
-**[This AI marketing stock is a top gainer today. Goldman says there's much more to go](https://www.cnbc.com/2026/03/25/this-ai-marketing-stock-is-a-top-gainer-today-goldman-says-theres-much-more-to-go.html)**
+**[Leaders of AI Firm Bought by Meta Are Restricted From Leaving China](https://www.wsj.com/tech/leaders-of-ai-firm-bought-by-meta-are-restricted-from-leaving-china-6b79da34?gaa_at=eafs&gaa_n=AWEtsqfqP_6DFLb0S04FTmsZ1yFf0xNEU3ABhnr0lsWx1ZEAnAZ52XmwRdRZ&gaa_ts=69c42045&gaa_sig=dIKp6JH3GAKSAsxnSy5PmgwRLn_jE2dlg8MiJaDf1af7xp-I27Wp3lgcF9VnzfOGv9h8HqBF97PHaDIlbXTFUg%3D%3D)**
 
-Braze rallied as much as 25% before the bell on Wednesday, making it the top gainer in premarket trading.
-
-CNBC • 1h ago
-
----
-
-**[Experts warn of increased use of AI to create deep fakes, commit identity theft](https://www.cbsnews.com/losangeles/video/experts-warn-of-increased-use-of-ai-to-create-deep-fakes-commit-identity-theft/)**
-
-CBS News • 57m ago
-
----
-
-**[Palantir’s billionaire CEO says only two kinds of people will succeed in the AI era: trade workers — ‘or you’re neurodivergent’](https://fortune.com/2026/03/24/palantir-ceo-alex-karp-two-people-successful-in-ai-era-vocational-skills-neurodivergence-gen-z-career-advice/)**
-
-Billionaire Alex Karp tells Gen Z to skip elite college degrees, as one-fifth of Fortune 500 companies recruit more neurodivergent talent by 2027.
-
-Fortune • 23h ago
-
----
-
-**[I tried to prove I'm not AI. My aunt wasn't convinced](https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake)**
-
-I asked experts if I'm real. Bad news. Even my aunt wasn't sure if I was a deepfake. AI is so convincing that a sitting prime minister struggled to prove he's alive. You might be next.
-
-BBC • 6h ago
+WSJ • 6h ago
 
 ---
 
@@ -189,7 +187,7 @@ BBC • 6h ago
 
 A growing number of U.S. college instructors are turning to oral exams to help combat an AI crisis in higher education.
 
-AP News • 12h ago
+AP News • 13h ago
 
 ---
 
@@ -201,7 +199,7 @@ AP News • 12h ago
 
 Is anybody else bored of talking about AI?
 
-⬆️ 687 • 💬 480 • 19h ago • [Unfinished Side Projects](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
+⬆️ 692 • 💬 494 • 21h ago • [Unfinished Side Projects](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
 
 ---
 
@@ -209,7 +207,7 @@ Is anybody else bored of talking about AI?
 
 Search any airport for real-time delays, weather, arrivals, departures, and performance insights powered by Flighty.
 
-⬆️ 440 • 💬 155 • 15h ago • [Flighty](https://flighty.com/airports)
+⬆️ 461 • 💬 162 • 17h ago • [Flighty](https://flighty.com/airports)
 
 ---
 
@@ -217,13 +215,13 @@ Search any airport for real-time delays, weather, arrivals, departures, and perf
 
 Practical AI R&D
 
-⬆️ 424 • 💬 393 • 1d ago • [Answer.AI](https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html)
+⬆️ 426 • 💬 396 • 1d ago • [Answer.AI](https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html)
 
 ---
 
 **[TurboQuant: Redefining AI efficiency with extreme compression](https://news.ycombinator.com/item?id=47513475)**
 
-⬆️ 354 • 💬 99 • 11h ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
+⬆️ 388 • 💬 113 • 12h ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
 
 ---
 
@@ -253,7 +251,7 @@ For two centuries, the credential system gave intelligence a route to heritable 
 
 cq explores a Stack Overflow for agents, a shared commons where agents can query past learnings, contribute new knowledge, and avoid repeating the same mistakes in isolation.
 
-⬆️ 209 • 💬 93 • 2d ago • [Mozilla.ai](https://blog.mozilla.ai/cq-stack-overflow-for-agents/)
+⬆️ 209 • 💬 94 • 2d ago • [Mozilla.ai](https://blog.mozilla.ai/cq-stack-overflow-for-agents/)
 
 ---
 
@@ -261,7 +259,7 @@ cq explores a Stack Overflow for agents, a shared commons where agents can query
 
 The studio giant will no longer move forward with its OpenAI investment, as the AI company exits the video generation business.
 
-⬆️ 204 • 💬 3 • 19h ago • [The Hollywood Reporter](https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/)
+⬆️ 205 • 💬 3 • 20h ago • [The Hollywood Reporter](https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/)
 
 ---
 
@@ -301,7 +299,7 @@ OpenAI announced that it was shutting down its video generation platform "Sora."
 
 📺 NBC News
 
-👁️ 426K • 👍 6K • 💬 2K • ⏱️ 2:42 • 17h ago
+👁️ 426K • 👍 6K • 💬 2K • ⏱️ 2:42 • 19h ago
 
 ---
 
@@ -341,7 +339,7 @@ Jensen Huang is the co-founder and CEO of NVIDIA, the world's most valuable comp
 
 📺 Lex Fridman
 
-👁️ 476K • 👍 14K • 💬 1K • ⏱️ 2:25:59 • 1d ago
+👁️ 476K • 👍 14K • 💬 1K • ⏱️ 2:25:59 • 2d ago
 
 ---
 
@@ -361,7 +359,7 @@ Handmade Secret Wood Spider Shelter Amazing Reveal 🕷️✨ #ai #shelter #craf
 
 📺 ETC BackLol Facts
 
-👁️ 51K • ⏱️ 0:23 • 2h ago
+👁️ 51K • ⏱️ 0:23 • 4h ago
 
 ---
 
@@ -411,7 +409,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 38,586 • ❤️ 285 • 17h ago
+⬇️ 38,586 • ❤️ 285 • 18h ago
 
 ---
 
@@ -435,7 +433,7 @@ daVinci-MagiHuman is a fast, single-stream Transformer model for generating high
 
 `image-to-video`
 
-⬇️ 150 • ❤️ 138 • 2h ago
+⬇️ 150 • ❤️ 138 • 3h ago
 
 ---
 
@@ -481,7 +479,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 41,277 • ❤️ 128 • 14h ago
+⬇️ 41,277 • ❤️ 128 • 15h ago
 
 ---
 
@@ -531,7 +529,7 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 Hyperagents represent a self-referential framework that integrates task and meta-agents into a single editable program, enabling metacognitive self-modification and open-ended improvement across diverse computational domains.
 
-▲ 32 • 💬 5 • ⭐ 804 • 5d ago
+▲ 32 • 💬 5 • ⭐ 804 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.19461) • [💻 code](https://github.com/facebookresearch/Hyperagents)
 
@@ -645,7 +643,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 22.5k • 🔱 1.1k • 24m ago
+⭐ 22.5k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -655,7 +653,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 13.3k • 🔱 1.7k • 3h ago
+⭐ 13.3k • 🔱 1.7k • 4h ago
 
 ---
 
@@ -665,7 +663,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 11.9k • 🔱 620 • 4h ago
+⭐ 11.9k • 🔱 620 • 5h ago
 
 ---
 
@@ -695,7 +693,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 6.7k • 🔱 541 • 10m ago
+⭐ 6.7k • 🔱 541 • 1h ago
 
 ---
 
@@ -705,7 +703,7 @@ OpenShell is the safe, private runtime for autonomous AI agents.
 
 `Rust`
 
-⭐ 3.7k • 🔱 366 • 40m ago
+⭐ 3.7k • 🔱 366 • 2h ago
 
 ---
 

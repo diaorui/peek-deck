@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-25T16:11:41.460178+00:00'
+updated: '2026-03-25T17:35:27.551655+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 25, 2026 at 16:11 UTC  
+**Last Updated:** March 25, 2026 at 17:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,27 @@ Robotics research and industry news
 
 From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/2034708938269036686
 
-3h ago
+4h ago
 
 ---
 
 **[“They are coming for our jobs..”](https://www.reddit.com/r/robotics/comments/1s3aomh/they_are_coming_for_our_jobs/)**
 
-2h ago
+4h ago
+
+---
+
+**[Figure 03 becomes the first humanoid robot to visit the White House](https://www.reddit.com/r/robotics/comments/1s3epc8/figure_03_becomes_the_first_humanoid_robot_to/)**
+
+1h ago
+
+---
+
+**[LinkerBot L30: AI-driven robotic hand with 21+ DoF and sub-millimeter precision](https://www.reddit.com/r/robotics/comments/1s3g3ok/linkerbot_l30_aidriven_robotic_hand_with_21_dof/)**
+
+AI-driven robotic hand with 21+ DoF and sub-millimeter precision, capable of delicate tasks like threading and micro-assembly. Uses tendon-driven actuation and real-time feedback for high consistency in controlled environments.
+
+48m ago
 
 ---
 
@@ -50,15 +64,7 @@ From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/20347089382690366
 
 Earlier this month, Seoul's COEX hosted an event whose name said it all: the China Humanoid Conference, "First Journey to Korea." Unitree, Fourier, Leju and Hua
 
-🔗 [The Korea Herald](https://www.koreaherald.com/article/10698201) • 10h ago
-
----
-
-**[Day-1/90 of Computer vision -](https://www.reddit.com/r/robotics/comments/1s3dbd5/day190_of_computer_vision/)**
-
-Starting a new 90 days mission.... will update daily progress GitHub projects later some stramlit apps fir computer vision some research paper implementation advanced projects ..and new research paper also
-
-1h ago
+🔗 [The Korea Herald](https://www.koreaherald.com/article/10698201) • 11h ago
 
 ---
 
@@ -66,15 +72,15 @@ Starting a new 90 days mission.... will update daily progress GitHub projects la
 
 KOU-III is a two-legged robot from Shandong University that combines walking with drone-like rotors for extra balance and power. Inspired by how ostriches use their wings while running, the rotors help it jump higher, land softly, and stay stable on tough terrain.
 
-23h ago
+1d ago
 
 ---
 
-**[I work in robotics — and I think people are misunderstanding mobile charging robots](https://www.reddit.com/r/robotics/comments/1s3b235/i_work_in_robotics_and_i_think_people_are/)**
+**[March Gazebo Community Meeting: Gazebo Sim Plugins Made Easy](https://www.reddit.com/r/robotics/comments/1s3h6jz/march_gazebo_community_meeting_gazebo_sim_plugins/)**
 
-I’m both a small investor and someone working in the robotics space, I got some new perspective after reading the MAAS white paper on mobile charging robots. (https://zenodo.org/records/19220627). I don’t think this is a “robotics product” story at all. From an engineering perspective, nothing here is that crazy: ● Autonomous navigation → already solved in many indoor/outdoor scenarios ● Battery systems → mature supply chain ● Dispatching → basically a logistics problem So if you’re bullish purely because “robots are cool,” I’d actually be cautious. What’s more interesting (and easy to miss) is the energy layer. These things are essentially: ● Mobile batteries ● That can charge when electricity is cheap ● And discharge when electricity is expensive So instead of thinking: “This is a robot that charges cars” It’s more like: “This is a battery that moves to where price/demand is highest” As an investor, that changes the whole framework: ● This starts to look like energy arbitrage + grid services, not hardware sales ● Margins probably won’t come from the robot itself ● The real upside depends on: ○ electricity pricing spreads ○ grid participation (demand response / VPP) ○ software dispatch efficiency I’m not investing in a “robot company” here. I’m trying to figure out if MAAS is becoming an energy infrastructure layer. Curious how others are thinking about this — especially anyone from utilities / EV infra side.
+We&rsquo;re announcing our March Meeting where we&rsquo;ll talk plugins!  &ldquo;An introduction to a beginner-friendly tutorial series that teaches how to create&hellip;
 
-2h ago
+🔗 [Vimeo](https://vimeo.com/1177012951?share=copy&fl=sv&fe=ci) • 10m ago
 
 ---
 
@@ -82,7 +88,7 @@ I’m both a small investor and someone working in the robotics space, I got som
 
 hi guys, so i started 3d modeling this to help the robotics and electronics communities and im posting them no maker world, i design things for Arduino, Raspberry pi, components and my own projects. i wanted to ask what things you would like to see designed and posted so i can do that please dont downvote im just trying to get ideas for things to post to help the community, here is my page if you would like to check it out: https://makerworld.com/en/@andrewgr1234 thank you!
 
-5h ago
+7h ago
 
 ---
 
@@ -94,17 +100,11 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/203612736808808086
 
 ---
 
-**[Figure 03 becomes the first humanoid robot to visit the White House](https://www.reddit.com/r/robotics/comments/1s3epc8/figure_03_becomes_the_first_humanoid_robot_to/)**
+**[Day-1/90 of Computer vision -](https://www.reddit.com/r/robotics/comments/1s3dbd5/day190_of_computer_vision/)**
 
-15m ago
+Starting a new 90 days mission.... will update daily progress GitHub projects later some stramlit apps fir computer vision some research paper implementation advanced projects ..and new research paper also
 
----
-
-**[Dynamixel Y series](https://www.reddit.com/r/robotics/comments/1s35kvh/dynamixel_y_series/)**
-
-Hello people! does anyone know of anywhere with dynamixel Y series in stock? looking for some larger ones for a project, or anyone have some (slightly) loved ones they might be looking to sell. apologies if this is inappropriate to post here!
-
-7h ago
+2h ago
 
 ---
 
@@ -116,7 +116,21 @@ Hello people! does anyone know of anywhere with dynamixel Y series in stock? loo
 
 Amazon has acquired Fauna Robotics, just under two months after the startup introduced a humanoid robot called Sprout designed for social spaces like homes and schools
 
-abcnews.com • 17h ago
+abcnews.com • 18h ago
+
+---
+
+**[Amazon acquires 'approachable' humanoid maker Fauna Robotics](https://www.cnbc.com/2026/03/24/amazon-humanoid-maker-fauna-robotics-sprout.html)**
+
+Fauna's first product, called Sprout, is a $50,000 bipedal robot that's 3 feet, 6 inches tall and designed to be "approachable and human-friendly."
+
+CNBC • 20h ago
+
+---
+
+**[Amazon Acquires Fauna Robotics, Entering Consumer Humanoid Market](https://www.bloomberg.com/news/articles/2026-03-24/amazon-acquires-fauna-robotics-entering-consumer-humanoid-market)**
+
+Bloomberg.com • 22h ago
 
 ---
 
@@ -128,11 +142,19 @@ Live Science • 1d ago
 
 ---
 
+**[Basler and Orbbec partner for 3D vision systems for mobile robots](https://www.therobotreport.com/basler-orbbec-partner-3d-vision-systems-mobile-robots/)**
+
+Orbbec and Basler unveiled at LogiMAT the Stereo mini, which combines 3D cameras and computer vision for logistics and other applications.
+
+The Robot Report • 3h ago
+
+---
+
 **[Wristband enables wearers to control a robotic hand with their own movements](https://news.mit.edu/2026/wristband-enables-wearers-control-robotic-hand-with-own-movements-0325)**
 
 MIT engineers designed an ultrasound wristband that precisely tracks a wearer’s hand movements in real time and communicates the information to a robot or a virtual environment.
 
-MIT News • 6h ago
+MIT News • 7h ago
 
 ---
 
@@ -140,7 +162,15 @@ MIT News • 6h ago
 
 A spokesperson for OpenAI said the discontinuation of Sora comes as the company plans to focus on robotics rather than generative imagery.
 
-Business Insider • 18h ago
+Business Insider • 19h ago
+
+---
+
+**[Second delivery robot crashes into bus shelter, this time in Old Town](https://www.cbsnews.com/chicago/news/second-delivery-robot-crashes-into-bus-shelter-this-time-in-old-town/)**
+
+The robot belonging to Coco Robotics was spotted by a CBS News Chicago viewer near North Avenue and Halsted Street in Old Town on Tuesday afternoon.
+
+CBS News • 18h ago
 
 ---
 
@@ -152,39 +182,9 @@ Fast Company • 1d ago
 
 ---
 
-**[Lucid Bots raises $20M to keep up with demand for its window-washing drones](https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/)**
-
-Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots.
-
-TechCrunch • 5h ago
-
----
-
-**[Second delivery robot crashes into bus shelter, this time in Old Town](https://www.cbsnews.com/chicago/news/second-delivery-robot-crashes-into-bus-shelter-this-time-in-old-town/)**
-
-The robot belonging to Coco Robotics was spotted by a CBS News Chicago viewer near North Avenue and Halsted Street in Old Town on Tuesday afternoon.
-
-CBS News • 17h ago
-
----
-
 **[Billionaire Qatar Sheikh, Amazon Back Robotics Startup Neura](https://www.bloomberg.com/news/articles/2026-03-24/billionaire-qatari-sheikh-amazon-back-robotics-startup-neura)**
 
-Bloomberg.com • 8h ago
-
----
-
-**[Open XR Brings Humans and Robots Closer on the Factory Floor](https://www.eetimes.com/xr-brings-humans-and-robots-closer-on-the-factory-floor/)**
-
-European Union Horizon project MASTER is exploiting the latest extended-reality tech to develop an Open XR platform.
-
-EE Times • 1d ago
-
----
-
-**[Bird‑like robots promise greater flexibility and control than drones](https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html)**
-
-Tech Xplore • 1d ago
+Bloomberg.com • 10h ago
 
 ---
 
