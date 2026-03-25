@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-25T13:13:42.116125+00:00'
+updated: '2026-03-25T14:41:16.864346+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 25, 2026 at 13:13 UTC  
+**Last Updated:** March 25, 2026 at 14:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,323.91
+### $71,352.40
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.8%  
-**7d:** +2.4%  
-**30d:** +12.0%  
-**90d:** -17.9%  
-**1y:** -17.5%  
+**24h:** +2.1%  
+**7d:** +2.0%  
+**30d:** +11.5%  
+**90d:** -18.3%  
+**1y:** -17.9%  
 
 ---
 
@@ -81,13 +81,21 @@ Rank #1
 
 In the US over the last 55 years, the number of homes doubled from 70 million to 150 million. The money supply grew 30 times in the same period. So you have twice the homes and 30 times the cash chasing them. Housing is now 15x more expensive. Bitcoin is money that nobody can print, and can be a tool to help us afford the things that otherwise we are priced out of.
 
-21h ago
+22h ago
 
 ---
 
 **[Cold wallet ideas](https://www.reddit.com/r/Bitcoin/comments/1s37ky1/cold_wallet_ideas/)**
 
 I'm looking for a cold wallet there are so many out there but not sure which one to get i plan to store bitcoin, some alt coins and memecoins. Any suggestions on which is a good one
+
+3h ago
+
+---
+
+**[Weird how France went from calling crypto “unproductive wealth” to Macron speaking at a blockchain event in Paris…](https://www.reddit.com/r/Bitcoin/comments/1s39hzc/weird_how_france_went_from_calling_crypto/)**
+
+France has often framed crypto as a form of “unproductive wealth” basically something speculative, not especially useful to the real economy and that’s even more striking when you consider that crypto gains for individuals in France are generally taxed at a 30% flat rate And yet Macron is now attending Paris Blockchain Week this April At first glance, that sounds inconsistent. But I think both positions can coexist My read is that France may still be skeptical of crypto as a speculative asset, while recognizing that blockchain infrastructure, tokenization, stablecoins, digital identity and onchain finance are becoming too important to ignore I feel like this is less about France suddenly being pro-crypto, and more about France not wanting to be late on a sector that could become strategic What do you think? A real turning point, or just a PR move?
 
 2h ago
 
@@ -97,7 +105,7 @@ I'm looking for a cold wallet there are so many out there but not sure which one
 
 thing about bitcoin is, that it already is, and almost instantly had, a global reaching market, a currency bought with all kinds of different currencies or assets, on markets which, in comparison, almost seem outdatet, in need of resourcement.
 
-1h ago
+2h ago
 
 ---
 
@@ -105,7 +113,15 @@ thing about bitcoin is, that it already is, and almost instantly had, a global r
 
 In 2022 I really was glued to events in Bitcoin's huge drawdown. I do look at the price every day (okay, maybe twice a day) but this time I really have hardly been bothered. Minus 45% down is a LOT but for some reason it has not really felt like a lot. Maybe I am just so sure of its value now that I am less concerned. At bottom, Bitcoin was down by more than half from its $126k high. If my mutual funds were -45% right now I would be far more worried. Is anyone else just less worried now than in previous years?
 
-21h ago
+23h ago
+
+---
+
+**[When the Energy Crisis Reaches Electricity & Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1s39ugm/when_the_energy_crisis_reaches_electricity_bitcoin/)**
+
+Bitcoin does not escape material reality. It is secured by it. If the energy crisis moves beyond oil and gas and reaches electricity itself, the real question is no longer whether Bitcoin is bullish or bearish, but whether it remains structurally credible under pressure. What follows is not a market call, but a systems analysis of where the pressure would land first, what would actually weaken, and what might become more relevant precisely because the surrounding system is becoming more constrained.
+
+🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/when-the-energy-crisis-reaches-electricity) • 1h ago
 
 ---
 
@@ -113,7 +129,7 @@ In 2022 I really was glued to events in Bitcoin's huge drawdown. I do look at th
 
 Hey everyone, I’d like to introduce you to the project I’m currently building in the DACH region—with a clear goal: to make Bitcoin adoption practical and easy for small and medium-sized enterprises (SMEs). Many of you are familiar with the situation: Entrepreneurs find Bitcoin exciting—but often get stuck on the same hurdles. Legal uncertainty. Tax issues. Technical hurdles. This is exactly where I come in: I’ve been working for months on a viable implementation model for SMEs that rests on several pillars: – in-depth legal and tax research, – technical testing with various tools, – documentation of real-world pilot projects, – a framework for ongoing updates in response to regulatory and technical changes, – building a stable information and networking space. This work has resulted in a practical handbook, the “BITCOIN ONBOARDING GUIDE for SMEs,” which provides guidance to entrepreneurs—not a white paper, but real-world implementation. An example that shows what’s possible: Mario, a canyoning guide from Austria, already accepts Bitcoin payments for his tours (👉 erlebenplus.at). He is one of the pioneers demonstrating that acceptance is often easier than one thinks—and that early adopters not only secure financial sovereignty but also unlock new target groups and marketing opportunities. - The ongoing work on this project is a long-term endeavor and is initially funded through supporting memberships and crowdfunding. This lays the foundation for independent, continuous development, exchange, and sharing of expertise. The website will launch shortly—featuring information about the handbook, the network, and opportunities to become a pilot partner yourself. We’d like to have an open discussion on this topic: What might genuine Bitcoin adoption look like in everyday business—beyond ideology, but with a forward-looking approach? Feedback, ideas, critical questions, or real-world experience reports are absolutely welcome. Stay sovereign ⚡ (Website link to follow upon launch.) https://preview.redd.it/c591uwc2z5rg1.jpg?width=768&format=pjpg&auto=webp&s=9a4f589c7b76b2a93632dcd0c37d6e5d7e708cc9
 
-3h ago
+4h ago
 
 ---
 
@@ -121,23 +137,15 @@ Hey everyone, I’d like to introduce you to the project I’m currently buildin
 
 I have been trying to figure this out lately. What do you do in real life when you want to spend money that you mostly keep in self-custody? Do you usually move it to an exchange first and change it to fiat, or do you use a card or some other way? I get why people want to keep their money in their own hands for control, but it seems like there are always extra steps when it comes to using the money. I'm interested in how people do this in real life without making things too hard or losing too much ease.
 
-8h ago
+9h ago
 
 ---
 
-**[Zero emotions during this dip](https://www.reddit.com/r/Bitcoin/comments/1s2tgzx/zero_emotions_during_this_dip/)**
+**[Most People Can’t HODL. Not Because It’s Hard, But Because They Don’t Understand It](https://www.reddit.com/r/Bitcoin/comments/1s389lc/most_people_cant_hodl_not_because_its_hard_but/)**
 
-Been stacking for ages now and these drops just dont phase me anymore. While everyone else is having meltdowns im over here wondering what all teh fuss is about. My strategy stays simple - accumulate when i can because fiat keeps losing value while Bitcoin supply stays fixed at 21 million. To all you panic sellers out there, appreciate you making my next purchase that much more affordable. Keep dumping if you want, ill gladly scoop up what youre getting rid of
+Most people think HODL is just “buy and wait,” but that’s the surface level. The reality is most fail because they don’t understand what they’re holding, no fundamentals, no conviction, just hype. When volatility hits, that lack of understanding turns into panic selling. Real HODLing requires clarity on the asset, belief backed by research, and the discipline to sit through drawdowns without reacting emotionally.
 
-14h ago
-
----
-
-**[Weird how France went from calling crypto “unproductive wealth” to Macron speaking at a blockchain event in Paris…](https://www.reddit.com/r/Bitcoin/comments/1s39hzc/weird_how_france_went_from_calling_crypto/)**
-
-France has often framed crypto as a form of “unproductive wealth” basically something speculative, not especially useful to the real economy and that’s even more striking when you consider that crypto gains for individuals in France are generally taxed at a 30% flat rate And yet Macron is now attending Paris Blockchain Week this April At first glance, that sounds inconsistent. But I think both positions can coexist My read is that France may still be skeptical of crypto as a speculative asset, while recognizing that blockchain infrastructure, tokenization, stablecoins, digital identity and onchain finance are becoming too important to ignore I feel like this is less about France suddenly being pro-crypto, and more about France not wanting to be late on a sector that could become strategic What do you think? A real turning point, or just a PR move?
-
-37m ago
+3h ago
 
 ---
 
@@ -145,15 +153,7 @@ France has often framed crypto as a form of “unproductive wealth” basically 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-7h ago
-
----
-
-**[One hell of a life](https://www.reddit.com/r/Bitcoin/comments/1s29600/one_hell_of_a_life/)**
-
-6 figs Bitcoin guys : BMW, ig model girlfriend 7 figs Bitcoin guys : Lambo, Dubai penthouse 8 figs Bitcoin guys:
-
-1d ago
+8h ago
 
 ---
 
@@ -161,41 +161,47 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
-**[Bitcoin’s Institutional Shift Drives Bernstein’s $150,000 Call](https://www.bloomberg.com/news/articles/2026-03-24/bitcoin-s-institutional-shift-drives-bernstein-s-150-000-call)**
-
-Bloomberg • 21h ago
-
----
-
-**[Bitcoin Depot CEO Departs Amid Broader Crypto ATM Crackdown](https://decrypt.co/362262/bitcoin-depot-ceo-departs-broader-crypto-atm-crackdown)**
-
-A swift reset in the crypto ATM operator’s leadership comes as regulatory oversight has hurt its core kiosk business.
-
-Decrypt • 8h ago
-
----
-
-**[Irish Police Crack First of 12 Bitcoin Wallets in $418M Drug Seizure](https://www.yahoo.com/news/articles/irish-police-crack-first-12-112048624.html)**
-
-Ireland’s Criminal Assets Bureau accessed 500 BTC worth $34 million with the help of Europol, breaking into wallets seized in 2019.
-
-Yahoo • 1h ago
-
----
-
-**[Gold hits worst losing streak in 100 years as bitcoin outperforms as middle east conflict continues](https://www.coindesk.com/markets/2026/03/25/gold-s-longest-losing-streak-in-a-century-meets-bitcoin-s-resurgence)**
-
-As gold posts its worst run since 1920, bitcoin gains ground and outperforms, pushing the BTC to gold ratio 30% higher, since the Middle East conflict started.
-
-CoinDesk • 2h ago
-
----
-
 **[Best Cryptocurrencies to Buy Before the Next Bitcoin Halving](https://www.fool.com/investing/2026/03/25/best-cryptocurrencies-to-buy-before-the-next-bitco/)**
 
 If history is any guide, it's time to start buying these bargain-priced cryptocurrencies before the Bitcoin halving in 2028.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
+
+---
+
+**[There's a huge $14 billion bitcoin options expiry this Friday and it points to $75,000 as price magnet](https://www.coindesk.com/markets/2026/03/25/there-s-a-huge-usd14-billion-bitcoin-options-expiry-this-friday-and-it-points-to-usd75-000-as-price-magnet)**
+
+Bitcoin options worth billions of dollars will expire this Friday at 8:00 UTC.
+
+CoinDesk • 6h ago
+
+---
+
+**[Bitcoin, XRP Take Strain in Crypto Tug Of War. 2 Things Pulling Them Apart.](https://www.barrons.com/articles/bitcoin-xrp-crypto-clarity-act-iran-7668c2df?gaa_at=eafs&gaa_n=AWEtsqeJQRE632M2xwdWu6RQJ6R8VHv39AOb6Fj-30epQqPTDCz3S2tnd2kw&gaa_ts=69c3f771&gaa_sig=GmuzCJbgjIcTyvHj3gsyyWQtfDhFYfafgfRJHK1W-1yTdEMAQQ7BHQhyrjBBL0jm5da8AKqop30Mu7a2WgstFQ%3D%3D)**
+
+Barron's • 16m ago
+
+---
+
+**[This $60 Bitcoin miner is like having a slot machine on your desk](https://www.popsci.com/sponsored-content/this-bitcoin-miner-is-like-having-a-slot-machine-on-your-desk-sponsored-deal/)**
+
+Most people assume mining means loud machines, high power bills, and a setup that takes an entire room, but this sits quietly on your desk.
+
+Popular Science • 1h ago
+
+---
+
+**[Gold To $35,000, Bitcoin To $750,000, Robert Kiyosaki Warns 'Biggest Bubble' Is About To Burst](https://finance.yahoo.com/markets/commodities/articles/gold-35-000-bitcoin-750-135044652.html)**
+
+The "biggest [financial] bubble" is about to burst, "Rich Dad Poor Dad" author Robert Kiyosaki says. "I do not know what pin, what event will pop the biggest bubbles in [history]," Kiyosaki said on March 16 on X. "[Whatever] the...
+
+Yahoo Finance • 50m ago
+
+---
+
+**[Bitcoin’s Institutional Shift Drives Bernstein’s $150,000 Call](https://www.bloomberg.com/news/articles/2026-03-24/bitcoin-s-institutional-shift-drives-bernstein-s-150-000-call)**
+
+Bloomberg.com • 22h ago
 
 ---
 
@@ -203,27 +209,7 @@ The Motley Fool • 2h ago
 
 A bitcoin mining company plans to install servers in Dubuque County, a move backed by the local economic development corporation.
 
-KCRG • 13h ago
-
----
-
-**[Bitcoin Rises After Trump Says to Postpone Iran Strikes](https://www.bloomberg.com/news/articles/2026-03-23/bitcoin-rises-after-trump-says-to-postpone-iran-strikes)**
-
-Bloomberg • 1d ago
-
----
-
-**[Bitcoin steadies above $71,000 as oil falls below $100 after U.S. drafts 15‑point Iran peace plan](https://www.coindesk.com/markets/2026/03/25/bitcoin-steadies-above-usd71-000-as-oil-drops-below-usd100-on-u-s-15-point-plan-to-end-iran-war)**
-
-Brent crude fell 4.7% and Asian equities rallied 1.9% as Washington delivered a ceasefire proposal to Tehran via Pakistan, fueling the most sustained optimism since the conflict began a month ago.
-
-CoinDesk • 7h ago
-
----
-
-**[Bitcoin, Ethereum, XRP Rise. How the Iran War Has Made Crypto Calls Tougher.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqdanUiGAcbH_-53nKPGOaXWdjgBuzLL3xaOXOL0g7oSEO7QheL9QPPs&gaa_ts=69c3e2e9&gaa_sig=yRqUFCmRlz_3Nlak3nbsJe740MfW9xiuMbWn26Jd4d_nzv53C2wPHezGcZeTQruLSOuoi1lCIbWOX3pKhNI4Tg%3D%3D)**
-
-Barron's • 1d ago
+KCRG • 15h ago
 
 ---
 
@@ -231,7 +217,23 @@ Barron's • 1d ago
 
 Bhutan transferred 519.7 BTC, worth $36.75 million, to two wallets on Wednesday, according to Arkham data.
 
-The Block • 6h ago
+The Block • 8h ago
+
+---
+
+**[Current price of Bitcoin for March 24, 2026](https://fortune.com/article/price-of-bitcoin-03-24-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 1d ago
+
+---
+
+**[Bitcoin bounces from 50-day trend line with $72K BTC price now key focus](https://www.tradingview.com/news/cointelegraph:7214f1928094b:0-bitcoin-bounces-from-50-day-trend-line-with-72k-btc-price-now-key-focus/)**
+
+Bitcoin BITSTAMP:BTCUSD returned to $72,000 on Wednesday as gold continued its rebound from four-month lows.Key points:Bitcoin traders: BTC price needs to clear $72,000Data from TradingView showed BTC price gains of around 2% on the day, following a retest of its 50-day simple moving average (SMA…
+
+TradingView • 1h ago
 
 ---
 
@@ -259,7 +261,7 @@ Difficulty is now nearly 10% below where it started the year, despite a sharp 14
 
 Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes were hidden in lost fishing rod case
 
-⬆️ 2 • 💬 1 • 14h ago • [The Irish Times](https://www.irishtimes.com/crime-law/2026/03/24/gardai-seize-bitcoin-valued-at-30m-in-cab-operation-supported-by-europol/)
+⬆️ 2 • 💬 1 • 15h ago • [The Irish Times](https://www.irishtimes.com/crime-law/2026/03/24/gardai-seize-bitcoin-valued-at-30m-in-cab-operation-supported-by-europol/)
 
 ---
 
@@ -287,7 +289,7 @@ An event loop for asyncio written in Rust. Contribute to RustedBytes/rsloop deve
 
 **[Show HN: Castor – a secure execution layer for LLM agents](https://news.ycombinator.com/item?id=47504101)**
 
-⬆️ 1 • 💬 0 • 21h ago
+⬆️ 1 • 💬 0 • 23h ago
 
 ---
 
@@ -295,7 +297,7 @@ An event loop for asyncio written in Rust. Contribute to RustedBytes/rsloop deve
 
 Seeking power for data centers, Meta and other companies plan to use equipment that is expensive and polluting.
 
-⬆️ 3 • 💬 2 • 21h ago • [nytimes.com](https://www.nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html)
+⬆️ 3 • 💬 2 • 22h ago • [nytimes.com](https://www.nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html)
 
 ---
 
@@ -303,7 +305,7 @@ Seeking power for data centers, Meta and other companies plan to use equipment t
 
 Facebook really hopes your kids will play Grow A Garden via its terrible phone-based metaverse
 
-⬆️ 2 • 💬 0 • 20h ago • [Kotaku](https://kotaku.com/metas-virtual-reality-app-ditching-vr-to-make-a-roblox-clone-2000671434)
+⬆️ 2 • 💬 0 • 21h ago • [Kotaku](https://kotaku.com/metas-virtual-reality-app-ditching-vr-to-make-a-roblox-clone-2000671434)
 
 ---
 
@@ -317,7 +319,7 @@ Markets are unstable, but Bitcoin may be quietly setting up for its next major m
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 86 • ⏱️ 12:39 • 15h ago
+👁️ 19K • 👍 1K • 💬 86 • ⏱️ 12:39 • 16h ago
 
 ---
 
@@ -327,7 +329,7 @@ In this video, we take a data-driven look at Bitcoin as it shows signs of prepar
 
 📺 Benjamin Cowen
 
-👁️ 49K • 👍 4K • 💬 261 • ⏱️ 17:16 • 9h ago
+👁️ 49K • 👍 4K • 💬 261 • ⏱️ 17:16 • 11h ago
 
 ---
 
@@ -337,7 +339,7 @@ Stop Guessing - Ask Clash (beta) ▻ https://www.askclash.ai/ Make FREE Crypto P
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 936 • 💬 227 • ⏱️ 8:27 • 12h ago
+👁️ 16K • 👍 936 • 💬 227 • ⏱️ 8:27 • 13h ago
 
 ---
 
@@ -347,7 +349,7 @@ Everyone thinks they understand Bitcoin... but they don't. Because if Bitcoin is
 
 📺 Casual Finance
 
-👁️ 45K • 👍 3K • 💬 962 • ⏱️ 9:55 • 22h ago
+👁️ 45K • 👍 3K • 💬 962 • ⏱️ 9:55 • 23h ago
 
 ---
 
@@ -357,7 +359,7 @@ Stop waiting for Bitcoin to break out. Because by the time it does… it's alrea
 
 📺 Tim Talks Finance
 
-👁️ 3K • 👍 248 • 💬 32 • ⏱️ 13:57 • 19h ago
+👁️ 3K • 👍 248 • 💬 32 • ⏱️ 13:57 • 20h ago
 
 ---
 
@@ -367,7 +369,7 @@ TOOBIT — DEPOSIT & UNLOCK UP TO 30,000 USDT DEPOSIT BONUS! Limited spots ...
 
 📺 100XClub
 
-👁️ 3K • 👍 631 • 💬 146 • ⏱️ 10:56 • 2h ago
+👁️ 3K • 👍 631 • 💬 146 • ⏱️ 10:56 • 4h ago
 
 ---
 
@@ -387,7 +389,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Buy
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 1K • 💬 102 • ⏱️ 9:19 • 14h ago
+👁️ 31K • 👍 1K • 💬 102 • ⏱️ 9:19 • 15h ago
 
 ---
 
@@ -397,7 +399,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 32K • 👍 3K • 💬 123 • ⏱️ 24:02 • 17h ago
+👁️ 32K • 👍 3K • 💬 123 • ⏱️ 24:02 • 19h ago
 
 ---
 
@@ -407,7 +409,7 @@ Nick Valdez has a warning,,, don't let the 10-Year Treasury FOOL you! What are t
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 148 • 💬 16 • ⏱️ 7:18 • 12h ago
+👁️ 3K • 👍 148 • 💬 16 • ⏱️ 7:18 • 13h ago
 
 ---
 
