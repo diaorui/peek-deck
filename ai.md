@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-25T06:02:33.932085+00:00'
+updated: '2026-03-25T07:35:18.797669+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - news
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 25, 2026 at 06:02 UTC  
+**Last Updated:** March 25, 2026 at 07:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 What if building more and more datacenters was not the only option? If we are able to get similar levels of performance for top models at a consumer level from smarter systems, then its only a matter of time before the world comes to the realization that AI is a lot less expensive and a whole lot more obtainable. Open source projects like ATLAS are on the frontier of this possibility- where a 22 year old college student from Virginia Tech built and ran a 14B parameter AI model on a single $500 Consumer GPU and scored higher than Claude Sonnet 4.5 on coding benchmarks (74.6% vs 71.4% on LiveCodeBench, 599 problems). No cloud, no API costs, no fine-tuning. Just a consumer graphics card and smart infrastructure around a small model. And the cost? Only around $0.004/task in electricity. The base model used in ATLAS only scores about 55%. The pipeline adds nearly 20 percentage points by generating multiple solution approaches, testing them, and selecting the best one. Proving that smarter infrastructure and systems design is the future of the industry. Repo: https://github.com/itigges22/ATLAS
 
-3h ago
+5h ago
 
 ---
 
@@ -49,7 +49,7 @@ What if building more and more datacenters was not the only option? If we are ab
 
 That was quick.
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt) • 7h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt) • 9h ago
 
 ---
 
@@ -57,7 +57,7 @@ That was quick.
 
 "Vectors are the fundamental way AI models understand and process information. Small vectors describe simple attributes, such as a point in a graph, while “high-dimensional” vectors capture complex information such as the features of an image, the meaning of a word, or the properties of a dataset. High-dimensional vectors are incredibly powerful, but they also consume vast amounts of memory, leading to bottlenecks in the key-value cache, a high-speed "digital cheat sheet" that stores frequently used information under simple labels so a computer can retrieve it instantly without having to search through a slow, massive database. Vector quantization is a powerful, classical data compression technique that reduces the size of high-dimensional vectors. This optimization addresses two critical facets of AI: it enhances vector search, the high-speed technology powering large-scale AI and search engines, by enabling faster similarity lookups; and it helps unclog key-value cache bottlenecks by reducing the size of key-value pairs, which enables faster similarity searches and lowers memory costs. However, traditional vector quantization usually introduces its own "memory overhead” as most methods require calculating and storing (in full precision) quantization constants for every small block of data. This overhead can add 1 or 2 extra bits per number, partially defeating the purpose of vector quantization. Today, we introduce TurboQuant (to be presented at ICLR 2026), a compression algorithm that optimally addresses the challenge of memory overhead in vector quantization. We also present Quantized Johnson-Lindenstrauss (QJL), and PolarQuant (to be presented at AISTATS 2026), which TurboQuant uses to achieve its results. In testing, all three techniques showed great promise for reducing key-value bottlenecks without sacrificing AI model performance. This has potentially profound implications for all compression-reliant use cases, including and especially in the domains of search and AI."
 
-🔗 [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/) • 3h ago
+🔗 [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/) • 5h ago
 
 ---
 
@@ -65,15 +65,7 @@ That was quick.
 
 Something interesting happened this month. March 11: Perplexity announced Personal Computer. An always-on Mac Mini running their AI agent 24/7, connected to your local files and apps. Cloud AI does the reasoning, local machine does the access. March 16: Meta launched Manus "My Computer." Same idea. Their agent on your Mac or Windows PC. Reads, edits local files. Launches apps. Multi-step tasks. $20/month. March 23: Anthropic shipped computer use and Dispatch for Claude. Screen control, phone-to-desktop task handoff, 50+ service connectors, scheduled tasks. Three separate companies. Same architecture. Same two weeks. I've been running a version of this pattern for months (custom AI agent on a Mac Mini, iMessage as the interface, background cron jobs, persistent memory across sessions). The convergence on this exact setup tells me the direction is validated. The shared insight all three arrived at: agents need a home. Not a chat window. A machine with file access, app control, phone reachability, and background execution. The gap that remains across all three: persistent memory. Research from January 2026 confirmed what I found building my own system. Fixed context windows limit agent coherence over time. All three products are still mostly session-based. That's the piece that turns a task executor into something that actually feels like a coworker. We went from "will AI agents work on personal computers?" to "which one do you pick?" in about two weeks. Full comparison with hands-on testing: https://thoughts.jock.pl/p/claude-cowork-dispatch-computer-use-honest-agent-review-2026
 
-16h ago
-
----
-
-**[I tested ChatGPT vs Claude vs Gemini for coding ...here's what I found](https://www.reddit.com/r/artificial/comments/1s2ovhc/i_tested_chatgpt_vs_claude_vs_gemini_for_coding/)**
-
-So ive been going back and forth between these three for actual work (not just asking it to write fizzbuzz) and wanted to share what I found because most comparisons online are surface level garbage. Quick background: I do fullstack work, mostly React/Next.js with some Python backend stuff. I gave all three the same tasks over about 3 months of real daily use. Claude is the best for coding and its not even close imo. I had it refactor a 400 line React component into smaller pieces and it actually understood the architecture. kept all my tests passing too. the 200k context window is huge because you can just paste your entire file plus tests and it gets it. one time it even caught a race condition I didnt know was there lol ChatGPT is solid but more of a generalist. Its great for quick questions, debugging, and when you need to explain something to a non technical person. I use it more for brainstorming and writing docs than actual code. the image generation and voice mode are nice bonuses that claude doesnt have Gemini honestly disappointed me the most. it kept struggling with larger context and the code wouldnt compile on first try way too often. Maybe its gotten better since I last used it heavily but I switched away from it for coding pretty quick. its good for google workspace stuff tho if your already in that ecosystem My setup now: Claude for serious coding work, ChatGPT for everything else (research, writing, brainstorming), and honestly Perplexity for when I need to look something up because its way better than both of them for research The thing nobody talks about: all three have gotten noticeably better even in the last few months. like Claude was already good but the latest updates made it scary good at understanding codebases. if you tried one of these 6 months ago and didnt like it, worth trying again happy to answer questions about specific use cases. ive tried them for python, typescript, sql, and some go
-
-9h ago
+18h ago
 
 ---
 
@@ -81,7 +73,23 @@ So ive been going back and forth between these three for actual work (not just a
 
 After getting dogpiled on Reddit (intentionally, for research), I formalized what I observed into a framework called IDDS — Identity-Driven Discourse Systems. The core insight: escalation is not random. It follows predictable state transitions driven by identity layer activation. The key innovation in 2.1 is the D_flag modifier — Identity Activation only accelerates escalation when disagreement is already present. This means someone sharing their identity in a friendly thread (D_flag=0) behaves completely differently from the same disclosure in an adversarial thread (D_flag=1). States: Neutral → Disagreement → Identity Activation → Personalization → Ad Hominem → Dogpile New in 2.1: MPF (Moral Protective Framing): "protecting children" as ethical cover for escalation — invisible to sentiment analysis, requires contextual state awareness Adversarial Seeding: threads born escalated at T=0 before the first reply Silence Bypass: block/mute only terminates the local thread, not the conflict Transient Dogpile Groups: the group never fully resets D_flag between targets Validated across Reddit, Threads, WhatsApp in English and Portuguese. Building a Playwright scraper + ML classifier next. Paper:https://github.com/JohannaWeb/Monarch/releases/tag/2.1.paper
 
-3h ago
+4h ago
+
+---
+
+**[How AI is helping geologists identify thousands of slopes at high risk of slipping](https://www.reddit.com/r/artificial/comments/1s33jxs/how_ai_is_helping_geologists_identify_thousands/)**
+
+Sudden and unexpected, landslides and avalanches claim thousands of lives each year and cause billions of dollars in damage. What if we could see them coming?
+
+🔗 [bbc.com](https://www.bbc.com/future/article/20260323-the-ai-that-warns-people-about-landslides-and-avalanches) • 38m ago
+
+---
+
+**[I tested ChatGPT vs Claude vs Gemini for coding ...here's what I found](https://www.reddit.com/r/artificial/comments/1s2ovhc/i_tested_chatgpt_vs_claude_vs_gemini_for_coding/)**
+
+So ive been going back and forth between these three for actual work (not just asking it to write fizzbuzz) and wanted to share what I found because most comparisons online are surface level garbage. Quick background: I do fullstack work, mostly React/Next.js with some Python backend stuff. I gave all three the same tasks over about 3 months of real daily use. Claude is the best for coding and its not even close imo. I had it refactor a 400 line React component into smaller pieces and it actually understood the architecture. kept all my tests passing too. the 200k context window is huge because you can just paste your entire file plus tests and it gets it. one time it even caught a race condition I didnt know was there lol ChatGPT is solid but more of a generalist. Its great for quick questions, debugging, and when you need to explain something to a non technical person. I use it more for brainstorming and writing docs than actual code. the image generation and voice mode are nice bonuses that claude doesnt have Gemini honestly disappointed me the most. it kept struggling with larger context and the code wouldnt compile on first try way too often. Maybe its gotten better since I last used it heavily but I switched away from it for coding pretty quick. its good for google workspace stuff tho if your already in that ecosystem My setup now: Claude for serious coding work, ChatGPT for everything else (research, writing, brainstorming), and honestly Perplexity for when I need to look something up because its way better than both of them for research The thing nobody talks about: all three have gotten noticeably better even in the last few months. like Claude was already good but the latest updates made it scary good at understanding codebases. if you tried one of these 6 months ago and didnt like it, worth trying again happy to answer questions about specific use cases. ive tried them for python, typescript, sql, and some go
+
+11h ago
 
 ---
 
@@ -89,7 +97,7 @@ After getting dogpiled on Reddit (intentionally, for research), I formalized wha
 
 I’ve been experimenting with something while working with AI on technical problems. The issue I kept running into was drift: answers filling in gaps I didn’t specify solutions collapsing too early “helpful” responses that weren’t actually correct So I wrote a small interaction contract to constrain the AI. Nothing fancy — just rules like: don’t infer missing inputs explicitly mark unknowns don’t collapse the solution space separate facts from assumptions It’s incomplete and a bit rigid, but it’s been surprisingly effective for: writing code debugging thinking through system design It basically turns the AI into something closer to a logic tool than a conversational one. Sharing it in case anyone else wants to experiment with it or tear it apart: https://github.com/Brian-Linden/lgf-ai-contract If you’ve run into similar issues with AI drift, I’d be interested to hear how you’re handling it.
 
-16h ago
+17h ago
 
 ---
 
@@ -97,15 +105,7 @@ I’ve been experimenting with something while working with AI on technical prob
 
 Arm announced their first silicon product in history with today's AGI CPU
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Arm-AGI-CPU) • 9h ago
-
----
-
-**[Is AI actually bad for the environment or are we overreacting?](https://www.reddit.com/r/artificial/comments/1s2a52u/is_ai_actually_bad_for_the_environment_or_are_we/)**
-
-I’ve been reading a lot about AI lately, and one thing that keeps coming up is its environmental impact. On one hand, AI models (especially large ones) need massive data centers. These consume a lot of electricity, require cooling systems, and in some regions even depend on non-renewable energy. Training a single large model can use as much energy as thousands of households over time. But on the other hand, AI is also being used to reduce environmental impact. So it feels like a bit of a paradox. AI increases energy consumption, but it can also help industries become more efficient and sustainable.
-
-19h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Arm-AGI-CPU) • 10h ago
 
 ---
 
@@ -113,7 +113,7 @@ I’ve been reading a lot about AI lately, and one thing that keeps coming up is
 
 I collected Reddit posts between Jan 29 - Mar 1, 2026 using 40 keyword-based search terms ("AI safety", "AI alignment", "EU AI Act", "AI replace jobs", "red teaming LLM", etc.) across all subreddits. After filtering, I ended up with 6,374 posts and ran them through a full NLP pipeline. What I built: Sentence embeddings (paraphrase-multilingual-MiniLM-L12-v2) -> 10D UMAP -> HDBSCAN clustering Manual cluster review using structured cluster cards Sentiment analysis per post (RoBERTa classifier) Discourse framing layer - human-first labeling with blind LLM comparison and human adjudication The result: 23 interpretable clusters grouped into 11 thematic families. Three things I found interesting: 1. The discourse is fragmented, not unified. No single cluster dominates - the largest is ~10% of posts. "AI safety discourse" on Reddit looks more like a field of related but distinct conversations: labour anxiety, regulation, lab trust, authenticity & synthetic content, technical safety, enterprise adoption, philosophical debates about personhood. They don't talk to each other that much. 2. The most negative clusters are about lived disruption, not abstract risk. Job replacement, synthetic content spam, broken trust in specific AI labs, AI misuse in schools, creative displacement - these are the most negatively-toned clusters. Enterprise adoption and national AI progress clusters are neutral-to-positive. X-risk and alignment clusters are... mostly neutral, which surprised me. 3. Framing matters as much as topic. Two clusters can both be "about AI and work" while one is macro labour anxiety and another is micro hiring friction - different problems, different policy implications. Topic labels alone don't capture this. Visualizations, full report (PDF), sample data, and code: https://github.com/kelukes/reddit-ai-safety-discourse-2026 Feedback on the pipeline and all is very welcome - this was a capstone project and I'm still learning.
 
-15h ago
+16h ago
 
 ---
 
@@ -121,25 +121,41 @@ I collected Reddit posts between Jan 29 - Mar 1, 2026 using 40 keyword-based sea
 
 ## Google News: "ai"
 
-**[Exclusive | OpenAI Scraps Sora Video Platform Months After Launch](https://www.wsj.com/tech/ai/openai-set-to-discontinue-sora-video-platform-app-a82a9e4e?gaa_at=eafs&gaa_n=AWEtsqcz6-HmfqBs5YlMsBwlIddLMn-WHpe9kRBq80gd3vlwWn-bPoFeyDpU&gaa_ts=69c37de0&gaa_sig=jRdIXIWUs6b9MeYaJkM1Fs3ZG7_Ar8DhPQ6g0e0DJeUeMPB9KDVk8iw2easKkkT02woZP3p1FFIJGAZs5R-Z5Q%3D%3D)**
+**[TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)**
 
-WSJ • 8h ago
-
----
-
-**[Disney Exits OpenAI Deal After AI Giant Shutters Sora](https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/)**
-
-The studio giant will no longer move forward with its OpenAI investment, as the AI company exits the video generation business.
-
-The Hollywood Reporter • 9h ago
+Research at Google • 11h ago
 
 ---
 
-**[OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns](https://www.npr.org/2026/03/25/g-s1-115055/openai-pulls-the-plug-on-sora-the-viral-ai-video-app-that-sparked-deepfake-concerns)**
+**[OpenAI shutters AI video generator Sora in abrupt announcement](https://www.theguardian.com/technology/2026/mar/24/openai-ai-video-sora)**
 
-OpenAI said Tuesday that it was "saying goodbye to the Sora app" and that it would share more soon about how to preserve what users already created on the app.
+App that allowed people to make and share AI videos was popular but received criticism for racist and violent content
 
-NPR • 28m ago
+The Guardian • 7h ago
+
+---
+
+**[China could be the ‘big winner’ in the AI race](https://fortune.com/2026/03/25/china-vs-us-ai-power-open-source-openclaw/)**
+
+Mohit Kumar, Jefferies's global macro strategist, cites valuations, cheap power, and "wider adoption of AI" for his bullishness on China's tech sector.
+
+Fortune • 34m ago
+
+---
+
+**[Exclusive: AI-powered benefits management platform Origin raises $30 million in new funding](https://fortune.com/2026/03/25/exclusive-ai-powered-benefits-platform-origin-raises-30-million-in-fresh-funding-to-bring-chros-visibility-into-benefits-usage-and-spend/)**
+
+Notion Capital is leading the round into the startup that gives CHROs insights into benefits usage and spending
+
+Fortune • 34m ago
+
+---
+
+**[The AI era has a message for every CEO: Adapt or die](https://fortune.com/2026/03/25/ai-integration-fiverr-ceo-micha-kaufman-layoffs-meta/)**
+
+With 55,000 AI-attributed layoffs in 2025, the pressure on business leaders to get this right—fast—has never been greater.
+
+Fortune • 34m ago
 
 ---
 
@@ -147,19 +163,7 @@ NPR • 28m ago
 
 Anthropic and its rivals are trying to ramp up capabilities of AI agents after OpenClaw went viral earlier this year.
 
-CNBC • 20h ago
-
----
-
-**[AI Demand Is Shielding China’s Booming Trade From Iran War Shock](https://www.bloomberg.com/news/articles/2026-03-25/ai-demand-is-shielding-china-s-booming-trade-from-iran-war-shock)**
-
-Bloomberg.com • 59m ago
-
----
-
-**[TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)**
-
-Research at Google • 10h ago
+CNBC • 21h ago
 
 ---
 
@@ -167,7 +171,7 @@ Research at Google • 10h ago
 
 Arm introduces the Arm AGI CPU to power agentic AI infrastructure with rack-scale performance, efficiency and scalable compute for next-generation data centers.
 
-Arm Newsroom • 13h ago
+Arm Newsroom • 14h ago
 
 ---
 
@@ -175,7 +179,7 @@ Arm Newsroom • 13h ago
 
 SoftBank-owned tech group projects fivefold revenue increase in five years
 
-Financial Times • 13h ago
+Financial Times • 14h ago
 
 ---
 
@@ -183,13 +187,15 @@ Financial Times • 13h ago
 
 Arm Holdings announced a new artificial intelligence data center chip on Tuesday which it said will add billions of dollars of revenue ‌and represent a significant shift in the company's strategy.  So-called agentic AI has jump-started demand for the central processing units (CPUs) produced by the likes of Intel and Advanced Micro Devices.  Arm shares gained 1% in early afternoon trading as the stock has advanced 25% this year.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
-**[Exclusive | Meta Executive Will Spearhead Push to Get Employees Using More AI](https://www.wsj.com/tech/ai/meta-names-new-leader-of-companys-efforts-to-become-ai-native-8d7fe912?gaa_at=eafs&gaa_n=AWEtsqchaIFCnTLpViJQrmIxE54m3qnFk40Rrbqm7BkP67ONTEgKgUIjArDg&gaa_ts=69c37de0&gaa_sig=Gze43OIQNPsxNG_JYhU_XhMOJ0TTKph96JZF3Za1Pm-h-EmIdS0n7UsJtVAiM0V5ObnFOAnYh63E1JWotQ4j3A%3D%3D)**
+**[Sandboxing AI agents, 100x faster](https://blog.cloudflare.com/dynamic-workers/)**
 
-WSJ • 12h ago
+We’re introducing Dynamic Workers, which allow you to execute AI-generated code in secure, lightweight isolates. This approach is 100 times faster than traditional containers, enabling millisecond startup times for AI agent sandboxing.
+
+The Cloudflare Blog • 18h ago
 
 ---
 
@@ -201,7 +207,7 @@ WSJ • 12h ago
 
 Is anybody else bored of talking about AI?
 
-⬆️ 614 • 💬 414 • 9h ago • [Unfinished Side Projects](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
+⬆️ 628 • 💬 424 • 11h ago • [Unfinished Side Projects](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
 
 ---
 
@@ -209,7 +215,7 @@ Is anybody else bored of talking about AI?
 
 Practical AI R&D
 
-⬆️ 387 • 💬 358 • 15h ago • [Answer.AI](https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html)
+⬆️ 392 • 💬 363 • 17h ago • [Answer.AI](https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html)
 
 ---
 
@@ -217,21 +223,7 @@ Practical AI R&D
 
 Learn how I built an ai receptionist for my brother's mechanic shop
 
-⬆️ 308 • 💬 319 • 1d ago • [itsthatlady.dev](https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/)
-
----
-
-**[The bridge to wealth is being pulled up with AI](https://news.ycombinator.com/item?id=47503296)**
-
-For two centuries, the credential system gave intelligence a route to heritable capital. Artificial intelligence is closing that route. This essay builds the argument from first principles - with probability theory, interactive simulations, and a prediction specific enough to be falsifiable - and puts a number on the window that remains.
-
-⬆️ 259 • 💬 379 • 15h ago • [Daniel Homola](https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/)
-
----
-
-**[What young workers are doing to AI-proof themselves](https://news.ycombinator.com/item?id=47480447)**
-
-⬆️ 225 • 💬 393 • 2d ago • [wsj.com](https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284)
+⬆️ 309 • 💬 319 • 1d ago • [itsthatlady.dev](https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/)
 
 ---
 
@@ -239,7 +231,21 @@ For two centuries, the credential system gave intelligence a route to heritable 
 
 Search any airport for real-time delays, weather, arrivals, departures, and performance insights powered by Flighty.
 
-⬆️ 221 • 💬 80 • 5h ago • [Flighty](https://flighty.com/airports)
+⬆️ 273 • 💬 84 • 7h ago • [Flighty](https://flighty.com/airports)
+
+---
+
+**[The bridge to wealth is being pulled up with AI](https://news.ycombinator.com/item?id=47503296)**
+
+For two centuries, the credential system gave intelligence a route to heritable capital. Artificial intelligence is closing that route. This essay builds the argument from first principles - with probability theory, interactive simulations, and a prediction specific enough to be falsifiable - and puts a number on the window that remains.
+
+⬆️ 260 • 💬 380 • 16h ago • [Daniel Homola](https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/)
+
+---
+
+**[What young workers are doing to AI-proof themselves](https://news.ycombinator.com/item?id=47480447)**
+
+⬆️ 225 • 💬 394 • 2d ago • [wsj.com](https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284)
 
 ---
 
@@ -247,7 +253,7 @@ Search any airport for real-time delays, weather, arrivals, departures, and perf
 
 cq explores a Stack Overflow for agents, a shared commons where agents can query past learnings, contribute new knowledge, and avoid repeating the same mistakes in isolation.
 
-⬆️ 206 • 💬 91 • 1d ago • [Mozilla.ai](https://blog.mozilla.ai/cq-stack-overflow-for-agents/)
+⬆️ 208 • 💬 91 • 1d ago • [Mozilla.ai](https://blog.mozilla.ai/cq-stack-overflow-for-agents/)
 
 ---
 
@@ -255,7 +261,7 @@ cq explores a Stack Overflow for agents, a shared commons where agents can query
 
 The studio giant will no longer move forward with its OpenAI investment, as the AI company exits the video generation business.
 
-⬆️ 201 • 💬 2 • 9h ago • [The Hollywood Reporter](https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/)
+⬆️ 201 • 💬 2 • 10h ago • [The Hollywood Reporter](https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/)
 
 ---
 
@@ -269,7 +275,7 @@ The studio giant will no longer move forward with its OpenAI investment, as the 
 
 Hi! If you like this piece and want to support my independent reporting and analysis, why not subscribe to my premium newsletter? It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5000 to 18,000 words, including
 
-⬆️ 150 • 💬 121 • 12h ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/)
+⬆️ 153 • 💬 121 • 14h ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/)
 
 ---
 
@@ -277,33 +283,23 @@ Hi! If you like this piece and want to support my independent reporting and anal
 
 ## YouTube Videos: "ai"
 
+**[I Asked 4 AIs to PREDICT the 2026 Midterms. Trump&#39;s AI Was INSANE](https://www.youtube.com/watch?v=_MeZ1Kz6cVI)**
+
+Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/IASKAIMAR4 100% Discount for the first 1000 people ...
+
+📺 I Ask AI
+
+👁️ 30K • 👍 3K • 💬 251 • ⏱️ 17:22 • 1d ago
+
+---
+
 **[AI Is Making Software Worthless Faster Than Anyone Realizes](https://www.youtube.com/watch?v=wrMrtmfn0MA)**
 
 In this vlog, I make a bold case that AI is destroying the economic moat of the software industry and shifting value away from SaaS, ...
 
 📺 Asian Dad Energy
 
-👁️ 29K • 👍 1K • 💬 614 • ⏱️ 9:25 • 16h ago
-
----
-
-**[I tracked down a viral creator - and she wasn&#39;t real](https://www.youtube.com/watch?v=X9ZAas973aQ)**
-
-A viral Instagram account, which appears to show a young woman “time travelling” through history, has racked up millions of ...
-
-📺 Sky News
-
-👁️ 31K • 👍 804 • 💬 90 • ⏱️ 12:13 • 1d ago
-
----
-
-**[98% of People Will Miss This New AI Opportunity](https://www.youtube.com/watch?v=YNnCSJ3Fc_Q)**
-
-Get Started with Manus today: https://manus.im/redeem?c=JWH1G26A Prompts I used in this video: PROMPT #1 I want to create ...
-
-📺 Journey With The Hintons
-
-👁️ 29K • 👍 3K • 💬 378 • ⏱️ 12:49 • 2d ago
+👁️ 33K • 👍 2K • 💬 638 • ⏱️ 9:25 • 18h ago
 
 ---
 
@@ -313,27 +309,37 @@ This week in robotics got kind of ridiculous. South Korea showed off a humanoid 
 
 📺 AI Revolution
 
-👁️ 146K • 👍 2K • 💬 121 • ⏱️ 14:31 • 2d ago
+👁️ 152K • 👍 2K • 💬 122 • ⏱️ 14:31 • 2d ago
 
 ---
 
-**[AI Agent Full Tutorial for Beginners 2026: How to Build AI Agents in Minutes](https://www.youtube.com/watch?v=C05XDMGaAn8)**
+**[This Shouldn’t Be Able to Run 120B Locally](https://www.youtube.com/watch?v=RkzCAaIV_cQ)**
 
-Best AI Agent Tool is Base44 https://base44.pxf.io/c/6440076/2049275/25619?trafcat=base&sharedid=video112 ✓ FREE ...
+I paired a tiny AI box with the MacBook Neo—and it seriously changed what I thought was possible with local AI. Tiiny box: ...
 
-📺 Mikey No Code
+📺 Alex Ziskind
 
-👁️ 20K • 💬 19 • ⏱️ 31:38 • 1d ago
+👁️ 198K • 👍 6K • 💬 647 • ⏱️ 12:13 • 1d ago
 
 ---
 
-**[Legit $75/hr Remote AI Work? I Found This! (Handshake AI Review)](https://www.youtube.com/watch?v=WVf6wJqOjd8)**
+**[98% of People Will Miss This New AI Opportunity](https://www.youtube.com/watch?v=YNnCSJ3Fc_Q)**
 
-This Handshake AI review will give you an inside look and show if you can really get paid up to $75 per hour to train AI. Or is it a ...
+Get Started with Manus today: https://manus.im/redeem?c=JWH1G26A Prompts I used in this video: PROMPT #1 I want to create ...
 
-📺 PaidFromSurveys
+📺 Journey With The Hintons
 
-👁️ 3K • 👍 155 • 💬 34 • ⏱️ 9:42 • 16h ago
+👁️ 30K • 👍 3K • 💬 384 • ⏱️ 12:49 • 2d ago
+
+---
+
+**[I Asked AI To Predict The 2028 Election... JAW-DROPPING Results!](https://www.youtube.com/watch?v=zo7Nr9jtDds)**
+
+Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/ELECTIONTIMEMAR4 100% Discount for the first 1000 ...
+
+📺 Election Time
+
+👁️ 100K • 👍 2K • 💬 630 • ⏱️ 16:50 • 1d ago
 
 ---
 
@@ -343,7 +349,7 @@ Join our WhatsApp Community Get the latest AI updates, tips, and insights straig
 
 📺 Vaibhav Sisinty
 
-👁️ 25K • 👍 846 • 💬 43 • ⏱️ 10:52 • 14h ago
+👁️ 31K • 👍 960 • 💬 48 • ⏱️ 10:52 • 16h ago
 
 ---
 
@@ -353,7 +359,7 @@ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 
 
 📺 Two Minute Papers
 
-👁️ 58K • 👍 4K • 💬 275 • ⏱️ 9:47 • 14h ago
+👁️ 67K • 👍 4K • 💬 304 • ⏱️ 9:47 • 16h ago
 
 ---
 
@@ -363,17 +369,17 @@ Imagine you go into a business and their AI surveillance camera thinks it recogn
 
 📺 The Civil Rights Lawyer
 
-👁️ 271K • 👍 15K • 💬 2K • ⏱️ 2:37 • 1d ago
+👁️ 298K • 👍 15K • 💬 2K • ⏱️ 2:37 • 1d ago
 
 ---
 
-**[Jensen Huang: NVIDIA - The $4 Trillion Company &amp; the AI Revolution | Lex Fridman Podcast #494](https://www.youtube.com/watch?v=vif8NQcjVf0)**
+**[Legit $75/hr Remote AI Work? I Found This! (Handshake AI Review)](https://www.youtube.com/watch?v=WVf6wJqOjd8)**
 
-Jensen Huang is the co-founder and CEO of NVIDIA, the world's most valuable company and the engine powering the AI ...
+This Handshake AI review will give you an inside look and show if you can really get paid up to $75 per hour to train AI. Or is it a ...
 
-📺 Lex Fridman
+📺 PaidFromSurveys
 
-👁️ 411K • 👍 12K • 💬 1K • ⏱️ 2:25:59 • 1d ago
+👁️ 3K • 👍 158 • 💬 34 • ⏱️ 9:42 • 17h ago
 
 ---
 
@@ -389,7 +395,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 326,131 • ❤️ 910 • 14d ago
+⬇️ 401,358 • ❤️ 913 • 14d ago
 
 ---
 
@@ -401,7 +407,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 164,200 • ❤️ 1,206 • 1d ago
+⬇️ 173,865 • ❤️ 1,219 • 1d ago
 
 ---
 
@@ -413,7 +419,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 8,493 • ❤️ 340 • 5d ago
+⬇️ 10,499 • ❤️ 342 • 5d ago
 
 ---
 
@@ -425,7 +431,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 19,722 • ❤️ 263 • 7h ago
+⬇️ 38,586 • ❤️ 269 • 8h ago
 
 ---
 
@@ -435,7 +441,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 Foundation-1 is a structured text-to-sample model for music production, enabling precise control over instrumentation, timbre, FX, and musical structure (tempo, key, bar count) for generating coherent, production-ready audio loops.
 
-⬇️ 0 • ❤️ 251 • 8d ago
+⬇️ 0 • ❤️ 256 • 8d ago
 
 ---
 
@@ -447,7 +453,7 @@ Fish Audio S2 Pro is a multi-lingual text-to-speech model (80+ languages) offeri
 
 `text-to-speech` `4.6B`
 
-⬇️ 13,613 • ❤️ 730 • 13d ago
+⬇️ 14,617 • ❤️ 731 • 13d ago
 
 ---
 
@@ -459,19 +465,19 @@ Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2 is a fine-tuned LLM optimized 
 
 `image-text-to-text` `9.0B`
 
-⬇️ 43,905 • ❤️ 125 • 1d ago
+⬇️ 55,120 • ❤️ 131 • 1d ago
 
 ---
 
-**[Mistral-Small-4-119B-2603](https://huggingface.co/mistralai/Mistral-Small-4-119B-2603)**
+**[daVinci-MagiHuman](https://huggingface.co/GAIR/daVinci-MagiHuman)**
 
-*Mistral AI_*
+*SII - GAIR*
 
-Mistral-Small-4-119B-2603 is a hybrid MoE model (119B params, 6.5B active) supporting 256k context and multimodal input (text/image). It excels at instruction following, reasoning (configurable effort), and agentic tasks with native function calling, offering significant speed and throughput improvements for use cases like coding, document analysis, and general assistants.
+daVinci-MagiHuman is a fast, single-stream Transformer model for generating high-quality, human-centric audio-video from text or images. It excels at expressive facial performance, natural speech-expression coordination, and accurate audio-video synchronization across multiple languages, with inference speeds of 2 seconds for 256p and 38 seconds for 1080p.
 
-`119.4B`
+`image-to-video`
 
-⬇️ 36,887 • ❤️ 324 • 1d ago
+⬇️ 150 • ❤️ 121 • 1h ago
 
 ---
 
@@ -483,19 +489,19 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 385,054 • ❤️ 642 • 21d ago
+⬇️ 418,903 • ❤️ 644 • 21d ago
 
 ---
 
-**[GLM-OCR](https://huggingface.co/zai-org/GLM-OCR)**
+**[Mistral-Small-4-119B-2603](https://huggingface.co/mistralai/Mistral-Small-4-119B-2603)**
 
-*Z.ai*
+*Mistral AI_*
 
-GLM-OCR is a multimodal OCR model for complex document understanding, excelling in state-of-the-art performance on benchmarks and real-world scenarios like tables and code-heavy documents. It offers efficient inference with a 0.9B parameter model, supporting deployment via vLLM, SGLang, and Ollama for high-concurrency services and edge deployments.
+Mistral-Small-4-119B-2603 is a hybrid MoE model (119B params, 6.5B active) supporting 256k context and multimodal input (text/image). It excels at instruction following, reasoning (configurable effort), and agentic tasks with native function calling, offering significant speed and throughput improvements for use cases like coding, document analysis, and general assistants.
 
-`image-to-text`
+`119.4B`
 
-⬇️ 3,420,577 • ❤️ 1,449 • 12d ago
+⬇️ 38,985 • ❤️ 324 • 1d ago
 
 ---
 
@@ -509,7 +515,7 @@ GLM-OCR is a multimodal OCR model for complex document understanding, excelling 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 28 • 💬 2 • ⭐ 40,693 • 15mo ago
+▲ 29 • 💬 2 • ⭐ 41,256 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -527,18 +533,6 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 ---
 
-**[LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels](https://huggingface.co/papers/2603.19312)**
-
-*Lucas Maes, Quentin Le Lidec, Damien Scieur et al. (5 authors)*
-
-LeWorldModel presents a stable end-to-end JEPA framework that trains efficiently from raw pixels using minimal loss terms while maintaining competitive performance in control tasks and encoding meaningful physical structures.
-
-▲ 3 • 💬 0 • ⭐ 519 • 11d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.19312) • [💻 code](https://github.com/lucas-maes/le-wm) • [🔗 project](https://le-wm.github.io/)
-
----
-
 **[Hyperagents](https://huggingface.co/papers/2603.19461)**
 
 *Jenny Zhang, Bingchen Zhao, Wannan Yang et al. (8 authors)*
@@ -551,13 +545,25 @@ Hyperagents represent a self-referential framework that integrates task and meta
 
 ---
 
+**[LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels](https://huggingface.co/papers/2603.19312)**
+
+*Lucas Maes, Quentin Le Lidec, Damien Scieur et al. (5 authors)*
+
+LeWorldModel presents a stable end-to-end JEPA framework that trains efficiently from raw pixels using minimal loss terms while maintaining competitive performance in control tasks and encoding meaningful physical structures.
+
+▲ 3 • 💬 0 • ⭐ 620 • 11d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.19312) • [💻 code](https://github.com/lucas-maes/le-wm) • [🔗 project](https://le-wm.github.io/)
+
+---
+
 **[Speed by Simplicity: A Single-Stream Architecture for Fast Audio-Video Generative Foundation Model](https://huggingface.co/papers/2603.21986)**
 
 *SII-GAIR, Sand. ai, Ethan Chern et al. (45 authors)*
 
 daVinci-MagiHuman is an open-source audio-video generative model that synchronizes text, video, and audio through a single-stream Transformer architecture, achieving high-quality human-centric content generation with efficient inference capabilities.
 
-▲ 90 • 💬 4 • ⭐ 391 • 1d ago
+▲ 92 • 💬 4 • ⭐ 391 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.21986) • [💻 code](https://github.com/GAIR-NLP/daVinci-MagiHuman) • [🔗 project](https://huggingface.co/spaces/SII-GAIR/daVinci-MagiHuman)
 
@@ -637,7 +643,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 54.6k • 🔱 7.6k • 4d ago
+⭐ 54.9k • 🔱 7.6k • 4d ago
 
 ---
 
@@ -647,7 +653,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 22.4k • 🔱 1.1k • 6h ago
+⭐ 22.4k • 🔱 1.1k • 2h ago
 
 ---
 
@@ -657,7 +663,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 13.2k • 🔱 1.7k • 2h ago
+⭐ 13.2k • 🔱 1.7k • 1h ago
 
 ---
 
@@ -667,7 +673,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 11.4k • 🔱 590 • 11h ago
+⭐ 11.6k • 🔱 599 • 13h ago
 
 ---
 
@@ -677,7 +683,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.7k • 🔱 778 • 1d ago
+⭐ 10.7k • 🔱 779 • 1d ago
 
 ---
 
@@ -697,7 +703,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 6.3k • 🔱 507 • 3h ago
+⭐ 6.4k • 🔱 518 • 11m ago
 
 ---
 
@@ -707,7 +713,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `Python` `ai-agents` `claude` `claude-code` `cloud-security` `cybersecurity`
 
-⭐ 3.7k • 🔱 371 • 1d ago
+⭐ 3.7k • 🔱 372 • 1d ago
 
 ---
 
@@ -717,7 +723,7 @@ OpenShell is the safe, private runtime for autonomous AI agents.
 
 `Rust`
 
-⭐ 3.6k • 🔱 360 • 6h ago
+⭐ 3.7k • 🔱 361 • 52m ago
 
 ---
 
@@ -727,7 +733,7 @@ end to end app store screenshot creation using AI
 
 `agentic-ai` `apple` `appstore` `automate` `claude`
 
-⭐ 3.2k • 🔱 213 • 10d ago
+⭐ 3.2k • 🔱 213 • 11d ago
 
 ---
 

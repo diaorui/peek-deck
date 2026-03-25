@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-25T06:02:33.946391+00:00'
+updated: '2026-03-25T07:35:18.812573+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 25, 2026 at 06:02 UTC  
+**Last Updated:** March 25, 2026 at 07:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
+**24h:** +0.5%  
 **7d:** +1.5%  
-**30d:** +17.2%  
+**30d:** +17.1%  
 **90d:** -26.0%  
-**1y:** +8.1%  
+**1y:** +8.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $261.03B
+**Market Cap:** $261.83B
 Rank #2
 
 **Circulating Supply:** 120,691,549 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.3%
+-56.1%
 
 **All-Time Low:** $0.43
-+499480.8%
++501088.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 V4 passed near-unanimously with their main shift from being a monolithic pool to modular vaults. Like Morpho's isolation but with Aave's liquidity depth. sUSDe and RWA yields get cleaner APY profiles because risk vectors aren't correlated anymore. This is DeFi infrastructure graduating from 'move fast break things' to 'TradFi complexity with better costs and could be a comeback for Aave against other lending market if implemented properly
 
-3h ago
+5h ago
 
 ---
 
@@ -88,7 +88,7 @@ V4 passed near-unanimously with their main shift from being a monolithic pool to
 
 I've always wanted to know more about the world of the unsung heroes in blockchain. Those, being the validators and miners. How do validators of various blockchains communicate? Is there a place where I can peek into their world, (if any exist) where I can submerge myself in how they think, what they find valuable, and generally ask a tonne of questions? I understand the answer will vary from ecosystem to ecosystem. But yes, please assist. Where can I find validator groups and communication channels, any common I can communicate with them. Thanks,
 
-6h ago
+7h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[A new type of block explorer](https://www.reddit.com/r/ethereum/comments/1s2xqy2/a_new_type_of_block_explorer/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Trying to get a realistic picture of where rollup deployment is right now, not the hype version. I've been reading through documentation for most of the major platforms and the gap between what they promise and what teams actually experience seems pretty significant based on forum posts and Discord convos. Specifically curious about a few things. How much does your framework choice actually constrain you after deployment? If you start on OP Stack and realize Arbitrum Orbit would've been better for your use case, how painful is that migration realistically? Also the maintenance burden question. Every platform promises "one-click deployment" but what does post-launch actually look like for the infra team? Are you constantly babysitting the thing or does it run without much intervention? Asking because I keep seeing projects underestimate this and then burn significant engineering time on infra that should be going to product. What's been everyone's experience?
 
-15h ago
+16h ago
 
 ---
 
@@ -152,21 +152,21 @@ Most conversations around ETH are about trading, staking yields, or long-term po
 
 Ethereum block builder Eureka Labs is introducing "programmable blocks," which add logic during block construction.
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Rise. How the Iran War Has Made Crypto Calls Tougher.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqcPryn0bcFx6sGAzOb8MLtkRhJfQ4p5lmoWNq2ReSpOcukWZXASvxgS&gaa_ts=69c37de3&gaa_sig=ejrAacVG6ZZxIJC1Utdz-P78F8-MqMR-L_rlOualIKHDjc_r2YRRBEUYu38zsPQNnzcCozv1Z2Si_5n2KdQROw%3D%3D)**
+**[Bitcoin, Ethereum, XRP Rise. How the Iran War Has Made Crypto Calls Tougher.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqc9U5P6kWAWeKVkoALJ-dJjC5VBMe_lgytvb9CLfywxvPxjxQGCy86T&gaa_ts=69c393a5&gaa_sig=wHKsM2zquoufw27flDWRpG1F30klhSpfZFC2PJ-L8lnceuCNFZ-B1CaE-WfoVWmiXYfxA-ncG56AM5x5_5lLXA%3D%3D)**
 
-Barron's • 18h ago
+Barron's • 20h ago
 
 ---
 
-**[Ethereum news (ETH): Tensions rise across Ethereum as scaling, security and AI Priorities intensify](https://www.coindesk.com/tech/2026/03/22/ethereum-faces-make-or-break-moment-in-high-stakes-balancing-act-as-scaling-quantum-and-ai-pressures-mount)**
+**[Ethereum news (ETH): Aave, Ethena leaders outline push to build onchain fixed income markets in DeFi](https://www.coindesk.com/business/2026/03/24/crypto-finance-is-beginning-to-look-at-lot-more-traditional-aave-and-ethena-founders-say)**
 
-While upgrades have improved efficiency and lowered costs, the ecosystem faces deeper structural questions around fragmentation, security, and purpose, even as it continues prioritizing base-layer scaling.
+Until recently, crypto users mostly traded tokens or borrowed against them, often chasing high but unpredictable yields. But new tools are making it possible to lock in returns, even in a market known for big swings.
 
-CoinDesk • 2d ago
+CoinDesk • 15h ago
 
 ---
 
@@ -198,7 +198,7 @@ CoinDesk • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 16h ago
+Fortune • 17h ago
 
 ---
 
@@ -206,7 +206,7 @@ Fortune • 16h ago
 
 Ethereum is attempting to reclaim the $2,200 level as market participants react to recent moves by US President Donald Trump in the Middle East, developments that have introduced renewed volatility across global risk assets. The reaction reflects a broader sensitivity to geopolitical uncertainty, w…
 
-TradingView • 15h ago
+TradingView • 16h ago
 
 ---
 
@@ -222,7 +222,7 @@ The Motley Fool • 2d ago
 
 Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 9h ago
+Polymarket • 10h ago
 
 ---
 
@@ -236,17 +236,7 @@ You're not going to want to miss this INCREDIBLE Ether, technical analysis and i
 
 📺 Crypto Jebb
 
-👁️ 3K • 👍 195 • 💬 52 • ⏱️ 18:00 • 11h ago
-
----
-
-**[Tokenization Is Coming | BMNR &amp; Ethereum Are Positioning Early](https://www.youtube.com/watch?v=t-XrG8OuxlU)**
-
-BMNR is quietly building one of the largest Ethereum treasuries in the world now holding over 4.6 million ETH and $11B treasury.
-
-📺 The Value Thinker
-
-👁️ 3K • 👍 280 • 💬 52 • ⏱️ 24:16 • 5h ago
+👁️ 4K • 👍 200 • 💬 69 • ⏱️ 18:00 • 13h ago
 
 ---
 
@@ -256,17 +246,17 @@ This video is not for everyone. If your income is below $10000/month — close i
 
 📺 Thomas Kralow
 
-👁️ 12K • 👍 2K • 💬 35 • ⏱️ 6:06 • 18h ago
+👁️ 12K • 👍 2K • 💬 36 • ⏱️ 6:06 • 19h ago
 
 ---
 
-**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=9sX7obFOKBM)**
+**[Tokenization Is Coming | BMNR &amp; Ethereum Are Positioning Early](https://www.youtube.com/watch?v=t-XrG8OuxlU)**
 
-ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
+BMNR is quietly building one of the largest Ethereum treasuries in the world now holding over 4.6 million ETH and $11B treasury.
 
-📺 Education 4u
+📺 The Value Thinker
 
-👁️ 2K • 👍 1 • ⏱️ 2:10 • 4h ago
+👁️ 4K • 👍 346 • 💬 77 • ⏱️ 24:16 • 7h ago
 
 ---
 
@@ -280,13 +270,33 @@ The situation just got 10 times worse for bitcoin, ethereum and the rest of cryp
 
 ---
 
+**[Bitcoin &amp; Ethereum. Houston, haben wir ein Problem?? Das sollte jetzt NICHT passieren!](https://www.youtube.com/watch?v=hMvLGZktJ7w)**
+
+Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
+
+📺 Krypto Trading & Investing
+
+👁️ 2K • 👍 590 • 💬 134 • ⏱️ 8:45 • 3h ago
+
+---
+
 **[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=AIF83_V1BLQ)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 94 • 💬 6 • ⏱️ 3:30 • 15h ago
+👁️ 2K • 👍 95 • 💬 6 • ⏱️ 3:30 • 17h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=gapfZvc7cPA)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 524 • 👍 81 • ⏱️ 6:29 • 4h ago
 
 ---
 
@@ -296,27 +306,17 @@ BITCOIN PRICE TRAP: New Targets Revealed!!! - Bitcoin News Today, Ethereum & Alt
 
 📺 Crypto World
 
-👁️ 3K • 👍 204 • 💬 205 • ⏱️ 16:04 • 8h ago
+👁️ 4K • 👍 203 • 💬 266 • ⏱️ 16:04 • 10h ago
 
 ---
 
-**[I Tried to Get FREE Ethereum in 2026… Here’s What Actually Happened 😳](https://www.youtube.com/watch?v=u_4-mNDN_YM)**
+**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=9sX7obFOKBM)**
 
-Free Ethereum in 2026 — myth or real opportunity? In this video, I run a real experiment to find out if you can actually earn free ...
+ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
 
-📺 Leo Collins
+📺 Education 4u
 
-👁️ 7K • 👍 483 • 💬 491 • ⏱️ 4:16 • 17h ago
-
----
-
-**[Monad VS Ethereum...Is This the Better Layer 1?](https://www.youtube.com/watch?v=gMoBQfVf0Q0)**
-
-Monad combines speed, low fees, and EVM compatibility. Watch this breakdown of its mainnet launch, technical design, and what ...
-
-📺 CoinGecko
-
-👁️ 2K • 👍 152 • 💬 46 • ⏱️ 9:10 • 1d ago
+👁️ 2K • 👍 1 • ⏱️ 2:10 • 6h ago
 
 ---
 
