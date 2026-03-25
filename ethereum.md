@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-25T22:37:45.066668+00:00'
+updated: '2026-03-25T23:36:31.743972+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
 - cryptocurrency
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 25, 2026 at 22:37 UTC  
+**Last Updated:** March 25, 2026 at 23:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** +1.2%  
-**30d:** +16.9%  
-**90d:** -26.2%  
-**1y:** +7.8%  
+**24h:** +0.4%  
+**7d:** +1.6%  
+**30d:** +17.3%  
+**90d:** -25.9%  
+**1y:** +8.2%  
 
 ---
 
@@ -72,27 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
 **[Sent ETH to Abstract Global Wallet on wrong network — any chance of recovery?](https://www.reddit.com/r/ethereum/comments/1s3mdo6/sent_eth_to_abstract_global_wallet_on_wrong/)**
 
-2h ago
-
----
-
-**[✨ How do you connect? Let's find out together!](https://www.reddit.com/r/ethereum/comments/1s3m0nk/how_do_you_connect_lets_find_out_together/)**
-
-2h ago
-
----
-
-**[Aave V4 just got greenlit in their latest proposal. Here's what is changing](https://www.reddit.com/r/ethereum/comments/1s2ydj1/aave_v4_just_got_greenlit_in_their_latest/)**
-
-V4 passed near-unanimously with their main shift from being a monolithic pool to modular vaults. Like Morpho's isolation but with Aave's liquidity depth. sUSDe and RWA yields get cleaner APY profiles because risk vectors aren't correlated anymore. This is DeFi infrastructure graduating from 'move fast break things' to 'TradFi complexity with better costs and could be a comeback for Aave against other lending market if implemented properly
-
-20h ago
+3h ago
 
 ---
 
@@ -100,7 +86,15 @@ V4 passed near-unanimously with their main shift from being a monolithic pool to
 
 I’ve been trying to understand where tokenized real-world assets (RWA) actually fit. On paper, it sounds useful. You can take things like gold, real estate, or commodities and put them on blockchain. That should make them easier to trade, more accessible, and available 24/7. No banks, fewer middlemen. But I keep wondering how much of this is real improvement vs just packaging old assets in a new way. If I already have ETFs or REITs, do I really gain anything from tokenization? Or is it just more risk added through crypto infrastructure? I recently found Steamex.com, a platform which is focused on tokenized gold. The idea is simple: you buy digital tokens backed by real gold instead of holding physical metal. It sounds convenient, but it also depends a lot on trust in the company and how the backing actually works. Another question is liquidity. Projects say assets are tradable anytime, but that only works if there are enough buyers and sellers. Curious what others think. Is this actually the future of finance, or are we still early and overestimating the impact?
 
-12h ago
+13h ago
+
+---
+
+**[Aave V4 just got greenlit in their latest proposal. Here's what is changing](https://www.reddit.com/r/ethereum/comments/1s2ydj1/aave_v4_just_got_greenlit_in_their_latest/)**
+
+V4 passed near-unanimously with their main shift from being a monolithic pool to modular vaults. Like Morpho's isolation but with Aave's liquidity depth. sUSDe and RWA yields get cleaner APY profiles because risk vectors aren't correlated anymore. This is DeFi infrastructure graduating from 'move fast break things' to 'TradFi complexity with better costs and could be a comeback for Aave against other lending market if implemented properly
+
+21h ago
 
 ---
 
@@ -108,7 +102,7 @@ I’ve been trying to understand where tokenized real-world assets (RWA) actuall
 
 I've always wanted to know more about the world of the unsung heroes in blockchain. Those, being the validators and miners. How do validators of various blockchains communicate? Is there a place where I can peek into their world, (if any exist) where I can submerge myself in how they think, what they find valuable, and generally ask a tonne of questions? I understand the answer will vary from ecosystem to ecosystem. But yes, please assist. Where can I find validator groups and communication channels, any common I can communicate with them. Thanks,
 
-22h ago
+23h ago
 
 ---
 
@@ -122,7 +116,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[A new type of block explorer](https://www.reddit.com/r/ethereum/comments/1s2xqy2/a_new_type_of_block_explorer/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -142,6 +136,12 @@ Been holding ETH for a while and thinking about staking. With 32 ETH still being
 
 ---
 
+**[EthStaker: Ethereum Staking Survey | Any type of staker or even non-stakers are called to respond](https://www.reddit.com/r/ethereum/comments/1s2419r/ethstaker_ethereum_staking_survey_any_type_of/)**
+
+🔗 [ethstaker.org](https://ethstaker.org/forms/staking-landscape-survey-2026) • 1d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -154,19 +154,11 @@ The Block • 1d ago
 
 ---
 
-**[Got $2,000? Which Crypto Is the Better Buy Right Now: Ethereum (ETH) vs. Solana (SOL)?](https://www.fool.com/investing/2026/03/25/got-2000-which-crypto-is-the-better-buy-right-now/)**
-
-Ethereum is a blockchain powerhouse, but it can't compete with Solana on speed or cost.
-
-The Motley Fool • 11h ago
-
----
-
 **[Ethereum ‘Mini Crypto Winter’ Nears End as Bitmine Adds 65,341 ETH, Tom Lee Says](https://finance.yahoo.com/markets/crypto/articles/ethereum-mini-crypto-winter-nears-100552914.html)**
 
 Bitmine just bought the Ethereum dip. Good enough. 65,341 ETH acquired since March 16. Around $140 million at current prices. Total crypto and cash holdings now sit at $11 billion, making Bitmine the largest Ethereum treasury holder on the planet.ETH is trading near $2,150, down more than 30% from its ...
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -178,9 +170,17 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Rise. How the Iran War Has Made Crypto Calls Tougher.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqe_hPsMC4Nr-MBUTbSVGda9Qz-p7_JmG2gyGCynCVsExnO7TGww19iE&gaa_ts=69c459cb&gaa_sig=cN-IDhGDRL0E9vVmwtnvgTB3ow2GB5YeA9sI2tLbkQ-LoEKE2bxuLhyFxn6izhyPoMPj4unIR5M4w68VVfz3UA%3D%3D)**
+**[Bitcoin, Ethereum, XRP Rise. How the Iran War Has Made Crypto Calls Tougher.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqdkpAEM56Tm1EflFAaBlUya-kFZgDOD10Fd1tCauuXtcY4BaSVagC-x&gaa_ts=69c474ed&gaa_sig=80CvHvUS2C_Zm8rmJpuPGiXUeoxajgvocM9tQXnyBENlYXKL8C11z0xv0Ai1DsJrLLsEDU59lzCLYwpRnyGS5g%3D%3D)**
 
 Barron's • 1d ago
+
+---
+
+**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1774472100)**
+
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 8h ago
 
 ---
 
@@ -188,7 +188,23 @@ Barron's • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 9h ago
+
+---
+
+**[Got $2,000? Which Crypto Is the Better Buy Right Now: Ethereum (ETH) vs. Solana (SOL)?](https://www.fool.com/investing/2026/03/25/got-2000-which-crypto-is-the-better-buy-right-now/)**
+
+Ethereum is a blockchain powerhouse, but it can't compete with Solana on speed or cost.
+
+The Motley Fool • 12h ago
+
+---
+
+**[Soter Insure Issues World's First Ethereum-Denominated Slashing Insurance Policy](https://investingnews.com/soter-insure-issues-world-s-first-ethereum-denominated-slashing-insurance-policy/)**
+
+Soter advances digital asset risk management through a novel ETH-denominated slashing product, providing stakers with native-asset indemnity and eliminating FX gaps in legacy insurance policies.- Soter Insure, a provider of institutional-grade insurance for the digital asset economy, today announc...
+
+Investing News Network • 7h ago
 
 ---
 
@@ -196,7 +212,7 @@ Fortune • 8h ago
 
 Ethereum price started a recovery wave above the $2,065 zone. ETH is now consolidating above $2,120 and might aim for more gains if it clears the $2,200 resistance.Ethereum Price Eyes Steady GainsEthereum price managed to stay above $2,020 and started a recovery wave, like Bitcoin. ETH price was ab…
 
-TradingView • 19h ago
+TradingView • 20h ago
 
 ---
 
@@ -204,21 +220,7 @@ TradingView • 19h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are showing mixed signals on Wednesday as market momentum shows signs of fatigue. BTC holds its recent recovery, now nearing its key resistance, while ETH struggles below a critical level, and XRP’s momentum indicators tilt slightly bearish.
 
-FXStreet • 19h ago
-
----
-
-**[How to Deploy an Autonomous AI Agent on the Ethereum Interoperability Layer](https://financefeeds.com/how-to-deploy-an-autonomous-ai-agent-on-the-ethereum-interoperability-layer/)**
-
-FinanceFeeds • 11h ago
-
----
-
-**[What price will Ethereum hit on March 24? Trading Odds & Predictions](https://polymarket.com/event/what-price-will-ethereum-hit-on-march-24)**
-
-$166,037 has traded on "What price will Ethereum hit on March 24?" as of March 25, 2026. View real-time odds or trade on The World's Largest Prediction Marke...
-
-Polymarket • 9d ago
+FXStreet • 20h ago
 
 ---
 
@@ -232,7 +234,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free https://go.ted
 
 📺 MONEY GAME
 
-👁️ 938 • 👍 87 • 💬 3 • ⏱️ 12:42 • 3h ago
+👁️ 938 • 👍 87 • 💬 3 • ⏱️ 12:42 • 4h ago
 
 ---
 
@@ -252,7 +254,7 @@ BIG PROBLEM Altcoin Season is CANCELED BlackRock Larry Fink “Bitcoin and Ether
 
 📺 CryptoWendyO
 
-👁️ 4K • 👍 320 • 💬 33 • ⏱️ 26:18 • 4h ago
+👁️ 4K • 👍 320 • 💬 33 • ⏱️ 26:18 • 5h ago
 
 ---
 
@@ -262,7 +264,7 @@ The crypto market is heating up, things look like they could become a lot more s
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 740 • 💬 146 • ⏱️ 25:01 • 12h ago
+👁️ 6K • 👍 740 • 💬 146 • ⏱️ 25:01 • 13h ago
 
 ---
 
@@ -282,7 +284,7 @@ BMNR is quietly building one of the largest Ethereum treasuries in the world now
 
 📺 The Value Thinker
 
-👁️ 8K • 👍 575 • 💬 116 • ⏱️ 24:16 • 22h ago
+👁️ 8K • 👍 575 • 💬 116 • ⏱️ 24:16 • 23h ago
 
 ---
 
@@ -292,7 +294,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 130 • 💬 4 • ⏱️ 3:56 • 11h ago
+👁️ 2K • 👍 130 • 💬 4 • ⏱️ 3:56 • 12h ago
 
 ---
 
@@ -312,7 +314,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 198 • 👍 5 • ⏱️ 4:35 • 12h ago
+👁️ 198 • 👍 5 • ⏱️ 4:35 • 13h ago
 
 ---
 

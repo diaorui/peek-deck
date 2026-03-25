@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-25T22:37:45.061380+00:00'
+updated: '2026-03-25T23:36:31.737653+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
 - cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 25, 2026 at 22:37 UTC  
+**Last Updated:** March 25, 2026 at 23:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,843.46
+### $71,128.89
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** +1.4%  
-**30d:** +10.9%  
-**90d:** -18.7%  
-**1y:** -18.3%  
+**24h:** +0.7%  
+**7d:** +2.0%  
+**30d:** +11.4%  
+**90d:** -18.3%  
+**1y:** -17.9%  
 
 ---
 
@@ -77,11 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Be careful out there, Morgan Stanley wants your bitcoin](https://www.reddit.com/r/Bitcoin/comments/1s3pa4v/be_careful_out_there_morgan_stanley_wants_your/)**
+
+1h ago
+
+---
+
 **[just bought my first 20$ worth of Bitcoin.. and scheduled a weekly 10$ to be bought.](https://www.reddit.com/r/Bitcoin/comments/1s38jbs/just_bought_my_first_20_worth_of_bitcoin_and/)**
 
 i have no idea of what i’m doing.. i just felt like it.. is it a good time to start this?
 
-10h ago
+11h ago
 
 ---
 
@@ -89,23 +95,15 @@ i have no idea of what i’m doing.. i just felt like it.. is it a good time to 
 
 France has often framed crypto as a form of “unproductive wealth” basically something speculative, not especially useful to the real economy and that’s even more striking when you consider that crypto gains for individuals in France are generally taxed at a 30% flat rate And yet Macron is now attending Paris Blockchain Week this April At first glance, that sounds inconsistent. But I think both positions can coexist My read is that France may still be skeptical of crypto as a speculative asset, while recognizing that blockchain infrastructure, tokenization, stablecoins, digital identity and onchain finance are becoming too important to ignore I feel like this is less about France suddenly being pro-crypto, and more about France not wanting to be late on a sector that could become strategic What do you think? A real turning point, or just a PR move?
 
-10h ago
-
----
-
-**[Cold wallet ideas](https://www.reddit.com/r/Bitcoin/comments/1s37ky1/cold_wallet_ideas/)**
-
-I'm looking for a cold wallet there are so many out there but not sure which one to get i plan to store bitcoin, some alt coins and memecoins. Any suggestions on which is a good one
-
 11h ago
 
 ---
 
-**[When the Energy Crisis Reaches Electricity & Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1s39ugm/when_the_energy_crisis_reaches_electricity_bitcoin/)**
+**[Found Hal Finney old account - he tipped entire Bitcoin in his final post here](https://www.reddit.com/r/Bitcoin/comments/1s3pyf7/found_hal_finney_old_account_he_tipped_entire/)**
 
-Bitcoin does not escape material reality. It is secured by it. If the energy crisis moves beyond oil and gas and reaches electricity itself, the real question is no longer whether Bitcoin is bullish or bearish, but whether it remains structurally credible under pressure. What follows is not a market call, but a systems analysis of where the pressure would land first, what would actually weaken, and what might become more relevant precisely because the surrounding system is becoming more constrained.
+Was digging through some ancient threads couple days back and stumbled across Hal Finney reddit profile. Guy's final comment was from 13 years ago where he basically gave away full Bitcoin to someone. Going through those old conversations and checking profiles of people he interacted with is pretty wild experience. Maybe veteran users know about this already but figured I share anyway. Got me thinking - what's biggest Bitcoin tip you ever witnessed in this subreddit? Those early days must have been crazy different when people just threw around whole coins like nothing. Also found this quote from him that stuck with me: "One piece of advice. Research has shown that happiness obtained by buying things is fleeting, because you get used to them. Better to invest in experiences and memories, because they'll be with you always." Pretty deep stuff from one of the pioneers
 
-🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/when-the-energy-crisis-reaches-electricity) • 9h ago
+51m ago
 
 ---
 
@@ -113,7 +111,23 @@ Bitcoin does not escape material reality. It is secured by it. If the energy cri
 
 Art inspired by the best asset. Art by Shipwreck Sean
 
-8h ago
+9h ago
+
+---
+
+**[Cold wallet ideas](https://www.reddit.com/r/Bitcoin/comments/1s37ky1/cold_wallet_ideas/)**
+
+I'm looking for a cold wallet there are so many out there but not sure which one to get i plan to store bitcoin, some alt coins and memecoins. Any suggestions on which is a good one
+
+12h ago
+
+---
+
+**[When the Energy Crisis Reaches Electricity & Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1s39ugm/when_the_energy_crisis_reaches_electricity_bitcoin/)**
+
+Bitcoin does not escape material reality. It is secured by it. If the energy crisis moves beyond oil and gas and reaches electricity itself, the real question is no longer whether Bitcoin is bullish or bearish, but whether it remains structurally credible under pressure. What follows is not a market call, but a systems analysis of where the pressure would land first, what would actually weaken, and what might become more relevant precisely because the surrounding system is becoming more constrained.
+
+🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/when-the-energy-crisis-reaches-electricity) • 10h ago
 
 ---
 
@@ -121,7 +135,7 @@ Art inspired by the best asset. Art by Shipwreck Sean
 
 https://youtube.com/shorts/J5ESZr3_pE8
 
-8h ago
+9h ago
 
 ---
 
@@ -133,27 +147,11 @@ In the US over the last 55 years, the number of homes doubled from 70 million to
 
 ---
 
-**[Help cold wallet users?🏂](https://www.reddit.com/r/Bitcoin/comments/1s3lgkr/help_cold_wallet_users/)**
+**[Physical Proof Of Work](https://www.reddit.com/r/Bitcoin/comments/1s3m9tm/physical_proof_of_work/)**
 
-for those who use cold wallets to store their crypto I was just wondering how do you exactly keep track of your cost average as well as knowing your DCA position. say you’ve transferred a bulk of coins to your cold wallet at £5 a coin but your average buy was £8 a coin, how would you know your new DCA If you keep accumulating on the exchange and then send them over to your cold wallet.
+What are the challenges in building a ‘proof of work’ system that is based on physical activity? For example using gps to track how many steps a miner made so it will be considered as ‘work’ in that sense. Even more crazy idea is to build a gym machines that measure the energy that people spend on it so it will be considered as POW for them. Am I missing something? Because I think it will be pretty cool way to train! It’s a POW system that actually motivates people to make positive meaningful work rather then just wasting electricity. This idea actually takes makes a win win situation for two different issues - gym work, and POW, because going to gym feels psychological like energy wasting while POW actually needs sort of resource wasting. What do you think? What are the main challenges to make such a real POW system?
 
-2h ago
-
----
-
-**[Found a sysadmin's diary from 2011 on an old workstation. His take on Bitcoin at $26.](https://www.reddit.com/r/Bitcoin/comments/1s2sjvh/found_a_sysadmins_diary_from_2011_on_an_old/)**
-
-Going through files on a forgotten machine at work. Former admin kept a personal diary in txt files dated 2011-2019. This is from June 2011.
-
-1d ago
-
----
-
-**[BTC's global market](https://www.reddit.com/r/Bitcoin/comments/1s38tar/btcs_global_market/)**
-
-thing about bitcoin is, that it already is, and almost instantly had, a global reaching market, a currency bought with all kinds of different currencies or assets, on markets which, in comparison, almost seem outdatet, in need of resourcement.
-
-10h ago
+3h ago
 
 ---
 
@@ -161,11 +159,27 @@ thing about bitcoin is, that it already is, and almost instantly had, a global r
 
 ## Google News: "bitcoin"
 
-**[There's a huge $14 billion bitcoin options expiry this Friday and it points to $75,000 as price magnet](https://www.coindesk.com/markets/2026/03/25/there-s-a-huge-usd14-billion-bitcoin-options-expiry-this-friday-and-it-points-to-usd75-000-as-price-magnet)**
+**[$15 Billion in Bitcoin Options Expire Friday as Trump's Iran Deadline Looms](https://decrypt.co/362352/15-billion-bitcoin-options-expire-friday-trump-iran-deadline)**
 
-Bitcoin options worth billions of dollars will expire this Friday at 8:00 UTC.
+Nearly $15 billion in Bitcoin options expire on Deribit Friday, coinciding with a geopolitical deadline that could spark weekend volatility.
 
-CoinDesk • 14h ago
+Decrypt • 3h ago
+
+---
+
+**[Bitcoin steadies above $71,000 as oil falls below $100 after U.S. drafts 15‑point Iran peace plan](https://www.coindesk.com/markets/2026/03/25/bitcoin-steadies-above-usd71-000-as-oil-drops-below-usd100-on-u-s-15-point-plan-to-end-iran-war)**
+
+Brent crude fell 4.7% and Asian equities rallied 1.9% as Washington delivered a ceasefire proposal to Tehran via Pakistan, fueling the most sustained optimism since the conflict began a month ago.
+
+CoinDesk • 17h ago
+
+---
+
+**[Bitcoin inches toward $71,000 as hopes for U.S.-Iran talks push oil prices lower: CNBC Crypto World](https://www.cnbc.com/video/2026/03/25/bitcoin-inches-toward-71000-as-hopes-for-us-iran-talks-push-oil-prices-lower-cnbc-crypto-world.html)**
+
+On today's episode of CNBC Crypto World, bitcoin moves towards $71,000 after Iran counters a U.S. ceasefire plan. Also, Senators reportedly reached an agreement on crypto market structure legislation language to settle a dispute between the banking and crypto sectors. Franklin Templeton's Max Gokhman also discusses how bitcoin is performing as the Iran war continues.
+
+CNBC • 4h ago
 
 ---
 
@@ -173,29 +187,21 @@ CoinDesk • 14h ago
 
 If history is any guide, it's time to start buying these bargain-priced cryptocurrencies before the Bitcoin halving in 2028.
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
 
 ---
 
-**[What’s the Best Crypto to Buy With $1,000: XRP or Bitcoin for Huge Returns in 2026?](https://finance.yahoo.com/markets/crypto/articles/best-crypto-buy-1-000-200134837.html)**
+**[Gold To $35,000, Bitcoin To $750,000, Robert Kiyosaki Warns 'Biggest Bubble' Is About To Burst](https://finance.yahoo.com/markets/commodities/articles/gold-35-000-bitcoin-750-135044652.html)**
 
-Investing in cryptocurrencies doesn’t go far beyond Bitcoin (CRYPTO: BTC) and XRP (CRYPTO: XRP). When it comes to proven assets with real track records, Bitcoin and XRP get the most shouts. Bitcoin started trading for less than a penny in 2010 and is now valued around $71,000. XRP also launched at fractions of a cent ... What’s the Best Crypto to Buy With $1,000: XRP or Bitcoin for Huge Returns in 2026?
+The "biggest [financial] bubble" is about to burst, "Rich Dad Poor Dad" author Robert Kiyosaki says. "I do not know what pin, what event will pop the biggest bubbles in [history]," Kiyosaki said on March 16 on X. "[Whatever] the...
 
-Yahoo Finance • 2h ago
-
----
-
-**[$15 Billion in Bitcoin Options Expire Friday as Trump's Iran Deadline Looms](https://finance.yahoo.com/markets/crypto/articles/15-billion-bitcoin-options-expire-201902682.html)**
-
-Bitcoin options worth $15 billion expire Friday—just as a Trump-Iran diplomatic deadline runs out. Should traders expect greater volatility?
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 9h ago
 
 ---
 
-**[GameStop’s move to add bitcoin as a treasury asset turns 1. It hasn’t paid off yet.](https://www.marketwatch.com/story/gamestops-move-to-add-bitcoin-as-a-treasury-asset-turns-1-it-hasnt-paid-off-yet-ccb668e3?gaa_at=eafs&gaa_n=AWEtsqeMGe-iak2BEwLSGZ5nJziP9aMh1nYzh0KXjBGX8oFotXuevikWIt3D&gaa_ts=69c459c9&gaa_sig=Rh_hq62WR0f6_XJ_BJ-PjQVzQM2GRqpp5eIkyXzRS2B-4ccLs5hnhDELKW3o5jGVI--eID4pKoQm9zs3Rv2ejQ%3D%3D)**
+**[GameStop’s move to add bitcoin as a treasury asset turns 1. It hasn’t paid off yet.](https://www.marketwatch.com/story/gamestops-move-to-add-bitcoin-as-a-treasury-asset-turns-1-it-hasnt-paid-off-yet-ccb668e3?gaa_at=eafs&gaa_n=AWEtsqclEfmrfsEFAqD5C7b8sYW2o6wRanMkvoEKSqYD9qkCSZB0PQR2u3y-&gaa_ts=69c474eb&gaa_sig=D-a5wcWFruoPmyxTh1wk87fRVdwxzws5jSQtyV-v5tGSODN1OXizoMUe09pCCMmo0-KUxgsYoa96YmQeOJe1SA%3D%3D)**
 
-MarketWatch • 6h ago
+MarketWatch • 7h ago
 
 ---
 
@@ -203,23 +209,7 @@ MarketWatch • 6h ago
 
 A bitcoin mining company plans to install servers in Dubuque County, a move backed by the local economic development corporation.
 
-KCRG • 23h ago
-
----
-
-**[Eric Trump-Linked American Bitcoin Says It's Turning Into A BTC 'Accumulation Machine,' But ABTC Stock Still Can't Shake Off The Woes](https://finance.yahoo.com/markets/crypto/articles/eric-trump-linked-american-bitcoin-094614482.html)**
-
-American Bitcoin Corp. positioned itself as “the absolute accumulation machine” for Bitcoin on Sunday, while crediting its majority owner and key infrastructure partner, Hut 8 Corp.. American Bitcoin Hails Its ‘Growth’ American Bitcoin posted a video montage on X, showing...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Fund services giant Apex to tokenize Bitcoin mining note on Coinbase’s Base platform](https://www.coindesk.com/business/2026/03/24/fund-services-giant-apex-to-tokenize-bitcoin-mining-note-on-coinbase-s-base-platform)**
-
-Apex will tokenize the Omnes Mining Note “OMN,” an institutional-grade structured note backed by Bitcoin hashrate.
-
-CoinDesk • 1d ago
+KCRG • 1d ago
 
 ---
 
@@ -233,7 +223,15 @@ Bloomberg.com • 1d ago
 
 Bhutan transferred 519.7 BTC, worth $36.75 million, to two wallets on Wednesday, according to Arkham data.
 
-The Block • 16h ago
+The Block • 17h ago
+
+---
+
+**[Current price of Bitcoin for March 24, 2026](https://fortune.com/article/price-of-bitcoin-03-24-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 1d ago
 
 ---
 
@@ -261,7 +259,7 @@ Difficulty is now nearly 10% below where it started the year, despite a sharp 14
 
 Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes were hidden in lost fishing rod case
 
-⬆️ 2 • 💬 1 • 23h ago • [The Irish Times](https://www.irishtimes.com/crime-law/2026/03/24/gardai-seize-bitcoin-valued-at-30m-in-cab-operation-supported-by-europol/)
+⬆️ 2 • 💬 1 • 1d ago • [The Irish Times](https://www.irishtimes.com/crime-law/2026/03/24/gardai-seize-bitcoin-valued-at-30m-in-cab-operation-supported-by-europol/)
 
 ---
 
@@ -319,7 +317,7 @@ In this video, we take a data-driven look at Bitcoin as it shows signs of prepar
 
 📺 Benjamin Cowen
 
-👁️ 83K • 👍 6K • 💬 352 • ⏱️ 17:16 • 19h ago
+👁️ 83K • 👍 6K • 💬 352 • ⏱️ 17:16 • 20h ago
 
 ---
 
@@ -329,7 +327,7 @@ You're not going to want to miss this INCREDIBLE Ether, technical analysis and i
 
 📺 Crypto Jebb
 
-👁️ 2K • 👍 134 • 💬 50 • ⏱️ 13:34 • 4h ago
+👁️ 2K • 👍 134 • 💬 50 • ⏱️ 13:34 • 5h ago
 
 ---
 
@@ -359,7 +357,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Buy
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 111 • ⏱️ 9:19 • 23h ago
+👁️ 38K • 👍 2K • 💬 111 • ⏱️ 9:19 • 1d ago
 
 ---
 
@@ -389,7 +387,7 @@ Stop Guessing - Ask Clash (beta) ▻ https://www.askclash.ai/ Make FREE Crypto P
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 961 • 💬 250 • ⏱️ 8:27 • 21h ago
+👁️ 17K • 👍 961 • 💬 250 • ⏱️ 8:27 • 22h ago
 
 ---
 
@@ -399,7 +397,7 @@ TOOBIT — DEPOSIT & UNLOCK UP TO 30,000 USDT DEPOSIT BONUS! Limited spots ...
 
 📺 100XClub
 
-👁️ 8K • 👍 874 • 💬 239 • ⏱️ 10:56 • 12h ago
+👁️ 8K • 👍 874 • 💬 239 • ⏱️ 10:56 • 13h ago
 
 ---
 
@@ -409,7 +407,7 @@ Nobody knows how screwed everyone actually is right now. Not Iran. Not the Gulf.
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 202 • ⏱️ 15:05 • 1d ago
+👁️ 25K • 👍 2K • 💬 202 • ⏱️ 15:05 • 2d ago
 
 ---
 

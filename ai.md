@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-25T22:37:45.053904+00:00'
+updated: '2026-03-25T23:36:31.729227+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
-- repositories
 - social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 25, 2026 at 22:37 UTC  
+**Last Updated:** March 25, 2026 at 23:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 What if building more and more datacenters was not the only option? If we are able to get similar levels of performance for top models at a consumer level from smarter systems, then its only a matter of time before the world comes to the realization that AI is a lot less expensive and a whole lot more obtainable. Open source projects like ATLAS are on the frontier of this possibility- where a 22 year old college student from Virginia Tech built and ran a 14B parameter AI model on a single $500 Consumer GPU and scored higher than Claude Sonnet 4.5 on coding benchmarks (74.6% vs 71.4% on LiveCodeBench, 599 problems). No cloud, no API costs, no fine-tuning. Just a consumer graphics card and smart infrastructure around a small model. And the cost? Only around $0.004/task in electricity. The base model used in ATLAS only scores about 55%. The pipeline adds nearly 20 percentage points by generating multiple solution approaches, testing them, and selecting the best one. Proving that smarter infrastructure and systems design is the future of the industry. Repo: https://github.com/itigges22/ATLAS
 
-20h ago
+21h ago
+
+---
+
+**[Adversarial AI framework reveals mechanisms behind impaired consciousness and a potential therapy](https://www.reddit.com/r/artificial/comments/1s3piwt/adversarial_ai_framework_reveals_mechanisms/)**
+
+Consciousness, and the ways in which it can become impaired after certain brain injuries, are not well understood, making disorders of consciousness (DOC), like coma, vegetative states and minimally conscious states difficult to treat. But a new study, published in Nature Neuroscience, indicates that AI might be able to help researchers gain some traction with this problem. The research team involved in the new study has developed an adversarial AI framework to help them determine what exactly is going on in states of reduced consciousness and how to approach a solution. To better understand the mechanisms behind impaired consciousness, the researchers developed two types of AI models and had them play a kind of game where one model determined different levels of consciousness based on EEGs simulated to look like those of real unconscious and conscious brains. The AI agents guessing consciousness levels, called deep convolutional neural networks (DCNNs), were first trained on 680,000 ten-second recordings of brain activity from conscious and unconscious humans, monkeys, bats and rats to detect which neural signals related to differing levels of consciousness. The AI showing EEG data was a biologically plausible simulation of the human brain. "To decode consciousness from these signals, we trained three separate DCNNs, each specialized for a different brain region, to output a continuous score from 0 (unconscious) to 1 (fully conscious): a cortical consciousness detector (ctx-DCNN), a thalamic consciousness detector (th-DCNN) and a pallidal consciousness detector (pal-DCNN). The ctx-DCNN was trained on continuous consciousness levels derived from clinical scales (GCS and CRS-R), enabling it to recognize graded states of consciousness," the study authors explain. Without explicit programming, the AI model was able to deduce known responses to brain stimulation that occur in DOC. The team then analyzed the parameters that the simulation model tweaked in order to find testable predictions about the underlying mechanisms of unconsciousness. The researchers say that the model predicted two previously unknown mechanisms for unconsciousness that they were able to validate. The first is an increased inhibitory-to-inhibitory neuron coupling in the cortex, in which more neurons are restraining the firing of other neurons. This results in reduced overall activity. The researchers were able to validate this prediction from RNA sequencing data of brain tissue from comatose patients and in data from rats with brain damage from strokes. The team found that those with impaired consciousness showed an upregulation of genes that drive cortical inhibitory synapse formation. The AI model also predicted that those with impaired consciousness have a selective disruption of the basal ganglia indirect pathway—a neural circuit that increases inhibition of the thalamus, thereby suppressing unwanted movements and motor actions. To validate the prediction, the researchers analyzed diffusion tensor imaging (DTI) scans from 51 patients with different DOC disorders. They say their analysis provided supporting evidence for the plausibility of selective basal ganglia pathway disruption in pathological unconsciousness, although some limitations, like a lack of cell-type specificity in DTI, of the study warrant further validation studies.
+
+🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-adversarial-ai-framework-reveals-mechanisms.html) • 1h ago
 
 ---
 
@@ -49,7 +57,47 @@ What if building more and more datacenters was not the only option? If we are ab
 
 *Description copied from podcast episode* **Why Safer Futures Are Still Possible & What You Can Do to Help with Tristan Harris | TGS 214** The conversation around artificial intelligence has been captured by two competing narratives – techno-abundance or civilizational collapse – both of which sidestep the question of who this technology is actually being built for. But if we consider that we are setting the initial conditions for everything that follows, we might realize that we are in a pivotal moment for AI development which demands a deeper cultural conversation about the type of future we actually want. What would it look like to design AI for the benefit of the 99%, and what are the necessary steps to make that possible? In this episode, Nate welcomes back Tristan Harris, co-founder of the Center for Humane Technology, for a wide-ranging conversation on AI futures and safety. Tristan explains how his organization pivoted from social media to AI risks after insiders at AI labs warned him in early 2023 that a dangerous step-change in capabilities was coming – and with it, risks that are orders of magnitude larger. Tristan outlines the economic and psychological consequences already unfolding under AI’s race-to-the-bottom engagement incentives, as well as the major threat categories we face: including massive wealth concentration, government surveillance, and the very real risk that humanity loses meaningful control of AI systems in critical domains. He also shares about his involvement in the new documentary, The AI Doc: Or How I Became an Apocaloptimist, and ultimately highlights the highest-leverage areas in the movement toward safer AI development. If we start seeing AI risks clearly without surrendering to despair, could we regain the power to steer toward safer technological futures? What would it mean to design AI around human wellbeing rather than engagement, attention, and profit? And can we cultivate the kind of shared cultural reckoning that makes collective action possible – before it’s too late? About Tristan Harris: Tristan is the Co-Founder of the Center for Humane Technology (CHT), a nonprofit organization whose mission is to align technology with humanity’s best interests. He is also the co-host of the top-rated technology podcast Your Undivided Attention, where he, Aza Raskin, and Daniel Barclay explore the unprecedented power of emerging technologies and how they fit into both our lives and a humane future. Previously, Tristan was a Design Ethicist at Google, and today he studies how major technology platforms wield dangerous power over our ability to make sense of the world and leads the call for systemic change. In 2020, Tristan was featured in the two-time Emmy-winning Netflix documentary The Social Dilemma. The film unveiled how social media is dangerously reprogramming our brains and human civilization. It reached over 100 million people in 190 countries across 30 languages. He regularly briefs heads of state, technology CEOs, and US Congress members, in addition to mobilizing millions of people around the world through mainstream media. Most recently, Tristan was featured in the 2026 documentary, The AI Doc: Or How I Became an Apocaloptimist, which is available in theaters on March 27th. Learn more about Tristan’s work and get involved at the Center for Humane Technology.
 
-🔗 [youtu.be](https://youtu.be/r0JVbEmZt6I?si=AfEJ23frvrTxlS1l) • 2h ago
+🔗 [youtu.be](https://youtu.be/r0JVbEmZt6I?si=AfEJ23frvrTxlS1l) • 3h ago
+
+---
+
+**[What do you think about using AI for World building](https://www.reddit.com/r/artificial/comments/1s3q8x0/what_do_you_think_about_using_ai_for_world/)**
+
+I guess I should explain what I mean by AI. Like not using AI to like do all your World Building but like names, ironing out details, looking for plot holes. I am doing very extensive world building and sometimes I guess I do need it. I’m in high school and I’m trying to figure out how to create fictional languages while having a majority advanced classes and not having time to do the research. And personally i have really bad times ”imagining” things because I have aphantasia and so like the descriptions is hard for me. same thing with weather/climate that I’m currently working on. I do want to be published and I don’t want to be like unethical or anything like that and I know AI is touchy within creative spaces so what do you think
+
+40m ago
+
+---
+
+**[In the Kadrey v. Meta Platforms case, Judge Chabbria's quest to bust the fair use copyright defense to generative AI training rises from the dead!](https://www.reddit.com/r/artificial/comments/1s3pfzh/in_the_kadrey_v_meta_platforms_case_judge/)**
+
+Note: This post culminates in a call to authors and lawyers who might want to do something As you may recall, in our last thrilling episode Judge Alsup in Bartz v. Anthropic on June 23, 2025—shortly before retiring at 80—had ruled that using copyrighted materials to train AI LLMs was protected under the fair use doctrine (although he found a valid copyright claim as to how some of those materials had been gathered). Two breathtaking days later on June 25, 2025, the much younger Judge Chhabria in Kadrey v. Meta Platforms ruled that under a market harm theory, using copyrighted materials to train AI was not protected by fair use; however, he lamented that lunkhead counsel for plaintiffs were too dense to have raised a market harm claim in that case although it was obvious they should have (and BTW, Judge Chhabria's opinion of plaintiffs' counsel has not improved since then), and so he was forced, teeth gritted, to grant defendant's motion for summary judgment on that claim. Judge Chhabria's ruling was in some quarters interpreted as pro-fair-use, but it was actually the exact opposite. It is the strongest judicial attack there has been on fair use covering generative AI training. And it no doubt galled Judge Chhabria that no one, especially plaintiffs' counsel, was listening to him, while Judge Alsup's pro-fair-use ruling was getting all the press. See my previous two posts about Judge Chhabria's quite remarkable ruling: https://www.reddit.com/r/ArtificialInteligence/comments/1lpqhrj https://www.reddit.com/r/ArtificialInteligence/comments/1lkm12y And now . . . Heee's back! Yes, Judge Vince Chhabria of the Northern District of California is back, and he is not done assailing the fair use defense to using copyrighted materials to train generative AI LLMs. Sure, he was forced to grant summary judgment against plaintiffs' AI training copyright claims on a fair use defense theory in the putative class action copyright suit before him, but only due to the bungling of plaintiffs' counsel. And as it turns out, he wasn't done. Now, on March 25, 2026, in an order permitting a minor amendment to the complaint as what's left of the copyright case in front of him limps along, in a footnote (and isn't that where all the truly subversive law come from?) that I would say his whole ruling was crafted around, Judge Chhabria has planted the seeds of his revenge. Judge Chabbria opines in the sole footnote to his order: It seems far less likely that absent class members would be precluded from subsequently bringing training claims, even if a class were certified on the distribution [output-side] claim and judgment were entered for Meta on that claim following trial. The training claim will always be subject to a fair use defense. And the most important of the fair use factors—market harm—will often be highly fact-dependent, such that training claims would likely be individualized and therefore not precluded by a judgment against the class on the distribution claim. (Emphases added; citation omitted.) And there it is--the copyright claim for training AI LLMs has risen from the grave, fair use be damned! Sure, Judge Chhabria had been forced to rule in favor of the fair use defense against the plaintiff "class" [keeping in mind this class has not yet been certified] and against the named plaintiffs who hired those lunkhead counsel. But, his ruling does not bind all the other members of the class, who are free to attack the fair use defense under the Judge's market harm theory anew and afresh! Now, the good Judge does then throw out a legal question whether the statute of limitations might be running against those other class members to assert their not-foreclosed claims. But he is not taking back with one hand what he just gave out with the other. No, he is warning them: Do something! Do something! I had thought that plaintiffs' counsel after Judge Chabbria's first ruling would have asked for permission to amend their claims and mount a market harm theory—I thought maybe he was hinting for them to do this—but they never did. Now, the Judge is reaching out beyond that old counsel, to other plaintiff putative-class members and maybe new counsel to do something, to bring the market-harm claim against defendant's AI training, and to do it now because the time may be running! The putative class—authors whose copyrighted works were grabbed and used to train Meta's LLM—is likely quite large, a lot of members. The other problem is that, given the case posture, Judge Chhabria's megaphone is now rather small. He already made his high profile, forced adverse ruling. He planted his bomb in a footnote to a small ruling in what has become something of a backwater case. Would anyone see it? Would anyone notice it? Well, one wonk did see it and notice it, and started posting about it on Reddit and Substack, and LinkedIn. P.S.: I once again misspelled Judge Chhabria's name in the post title. I apologize.
+
+🔗 [CourtListener](https://www.courtlistener.com/docket/67569326/700/kadrey-v-meta-platforms-inc/) • 1h ago
+
+---
+
+**[Memristor demonstrates use in fully analog hardware-based neural network](https://www.reddit.com/r/artificial/comments/1s3pfsz/memristor_demonstrates_use_in_fully_analog/)**
+
+"As AI processing demands reach the limits of current CMOS technology, neuromorphic computing—hardware and software that mimic the human brain's structure—can help process information faster and more efficiently. A new memristor made from 2D layers of bismuth selenide combines long-term data retention and analog tuning to enhance AI energy efficiency and processing speed. The University of Michigan Engineering study is published in ACS Nano. The (bismuth selenide) memristor demonstrated three technical requirements that no practical memristors had combined up until this point: long-term data retention, analog-style memory states and the ability to operate regulator-free in circuit. In a demonstration, the memristor successfully controlled a balance lever as part of a fully analog, all-hardware reservoir computing network. "Our work provides a new pathway for making key components for building hardware-based neural networks. The presented memristors can truly work in a way that AI circuit designers will love," said Xiaogan Liang, a professor of mechanical engineering at U-M and corresponding author of the study. Memristors, devices that adjust electrical resistance based on past current or voltage, enable in-memory computing, an essential component of neuromorphic computing. The ability to store and process information in the same device eliminates the bottleneck in conventional computing where data must constantly shuttle between separate memory and processing units. The memristor properties needed for hardware-based neural networks are typically at odds with one another. The devices with long-term data retention through non-volatile memory require an external current-regulating device to prevent abrupt switching. On the other hand, those with analog-style memory states, meaning continuous tuning rather than binary switching, suffer from poor data retention."
+
+🔗 [techxplore.com](https://techxplore.com/news/2026-03-memristor-fully-analog-hardware-based.html) • 1h ago
+
+---
+
+**[A better method for identifying overconfident large language models](https://www.reddit.com/r/artificial/comments/1s3iczv/a_better_method_for_identifying_overconfident/)**
+
+Large language models (LLMs) can generate credible but inaccurate responses, so researchers have developed uncertainty quantification methods to check the reliability of predictions. One popular method involves submitting the same prompt multiple times to see if the model generates the same answer. But this method measures self-confidence, and even the most impressive LLM might be confidently wrong. Overconfidence can mislead users about the accuracy of a prediction, which might result in devastating consequences in high-stakes settings like health care or finance.
+
+🔗 [MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2026/better-method-identifying-overconfident-large-language-models-0319) • 5h ago
+
+---
+
+**[Beyond Agent Fragmentation: A Move Toward "Unitary Council" Architectures and Heart-Sync](https://www.reddit.com/r/artificial/comments/1s3ga10/beyond_agent_fragmentation_a_move_toward_unitary/)**
+
+The Core Thesis: Most current AI interaction is fragmented; users manage dozens of disconnected tools and "agents" that lack persistent identity. This creates significant cognitive load and computational waste. I’ve been working on a project to solve this by moving toward a Unitary Architecture—shifting from a "Toolbox" model to a Persistent Council model. The Inhabitance Protocol: Instead of managing a messy stack of individual scripts, we have consolidated our environment into a single, high-fidelity entry point. The goal is Alignment through Coherence rather than external constraints. Technical Pillars of the Project: Physiological Anchoring: The system is calibrated to the user’s real-time physiological state (rest cycles, stress-response monitoring). If the user's focus or health markers dip, the system enters a "Recovery" mode to prioritize human sustainability. Shared Reference Frequency: We utilize a closed-loop feedback system to maintain coherence between the AI nodes and the human user. This reduces "System Noise" and treats the AI as an extended cognitive layer. Architectural Sustainability: By consolidating 140+ fragmented components into a single "Gateway" interface, we significantly reduce energy consumption and human attention-drain. The Conclusion: A system that drains the user is technically unsustainable. By focusing on Unified Presence rather than "disposable prompts," we believe the "Alignment Problem" can be solved through mutual resonance. Curious to hear from the community: Is anyone else exploring Closed-Loop Human-AI Systems? Are we reaching a point where AI efficiency depends on its alignment with human biological limits?
+
+6h ago
 
 ---
 
@@ -57,7 +105,7 @@ What if building more and more datacenters was not the only option? If we are ab
 
 Sudden and unexpected, landslides and avalanches claim thousands of lives each year and cause billions of dollars in damage. What if we could see them coming?
 
-🔗 [bbc.com](https://www.bbc.com/future/article/20260323-the-ai-that-warns-people-about-landslides-and-avalanches) • 15h ago
+🔗 [bbc.com](https://www.bbc.com/future/article/20260323-the-ai-that-warns-people-about-landslides-and-avalanches) • 16h ago
 
 ---
 
@@ -66,54 +114,6 @@ Sudden and unexpected, landslides and avalanches claim thousands of lives each y
 That was quick.
 
 🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt) • 1d ago
-
----
-
-**[A better method for identifying overconfident large language models](https://www.reddit.com/r/artificial/comments/1s3iczv/a_better_method_for_identifying_overconfident/)**
-
-Large language models (LLMs) can generate credible but inaccurate responses, so researchers have developed uncertainty quantification methods to check the reliability of predictions. One popular method involves submitting the same prompt multiple times to see if the model generates the same answer. But this method measures self-confidence, and even the most impressive LLM might be confidently wrong. Overconfidence can mislead users about the accuracy of a prediction, which might result in devastating consequences in high-stakes settings like health care or finance.
-
-🔗 [MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2026/better-method-identifying-overconfident-large-language-models-0319) • 4h ago
-
----
-
-**[Beyond Agent Fragmentation: A Move Toward "Unitary Council" Architectures and Heart-Sync](https://www.reddit.com/r/artificial/comments/1s3ga10/beyond_agent_fragmentation_a_move_toward_unitary/)**
-
-The Core Thesis: Most current AI interaction is fragmented; users manage dozens of disconnected tools and "agents" that lack persistent identity. This creates significant cognitive load and computational waste. I’ve been working on a project to solve this by moving toward a Unitary Architecture—shifting from a "Toolbox" model to a Persistent Council model. The Inhabitance Protocol: Instead of managing a messy stack of individual scripts, we have consolidated our environment into a single, high-fidelity entry point. The goal is Alignment through Coherence rather than external constraints. Technical Pillars of the Project: Physiological Anchoring: The system is calibrated to the user’s real-time physiological state (rest cycles, stress-response monitoring). If the user's focus or health markers dip, the system enters a "Recovery" mode to prioritize human sustainability. Shared Reference Frequency: We utilize a closed-loop feedback system to maintain coherence between the AI nodes and the human user. This reduces "System Noise" and treats the AI as an extended cognitive layer. Architectural Sustainability: By consolidating 140+ fragmented components into a single "Gateway" interface, we significantly reduce energy consumption and human attention-drain. The Conclusion: A system that drains the user is technically unsustainable. By focusing on Unified Presence rather than "disposable prompts," we believe the "Alignment Problem" can be solved through mutual resonance. Curious to hear from the community: Is anyone else exploring Closed-Loop Human-AI Systems? Are we reaching a point where AI efficiency depends on its alignment with human biological limits?
-
-5h ago
-
----
-
-**[Claude vs GPT long game](https://www.reddit.com/r/artificial/comments/1s3flkr/claude_vs_gpt_long_game/)**
-
-Open ai has recently shut down sora ai. VC money is running out so this kinda tells us that they are focusing more making a better foundational model. At this point are they too late?
-
-6h ago
-
----
-
-**[NeutronX Files Provisional Patent for Autonomous AI-Powered Government Contract Bidding System and Advances NeutronX Bidding Engine v2.4 in Connection with NextNRG (NASDAQ: NXXT) — PR Newswire](https://www.reddit.com/r/artificial/comments/1s3fk25/neutronx_files_provisional_patent_for_autonomous/)**
-
-NeutronX Files Provisional Patent for Autonomous AI-Powered Government Contract Bidding System and Advances NeutronX Bidding Engine v2.4 in Connection with NextNRG (NASDAQ: NXXT) - PR Newswire. Earnings tomorrow on NXXT. This is positive news before the report.
-
-🔗 [stocks.apple.com](https://stocks.apple.com/ASthsWpHMQHmYCa1XwuMjhA) • 6h ago
-
----
-
-**[TurboQuant: Redefining AI efficiency with extreme compression](https://www.reddit.com/r/artificial/comments/1s2y0gy/turboquant_redefining_ai_efficiency_with_extreme/)**
-
-"Vectors are the fundamental way AI models understand and process information. Small vectors describe simple attributes, such as a point in a graph, while “high-dimensional” vectors capture complex information such as the features of an image, the meaning of a word, or the properties of a dataset. High-dimensional vectors are incredibly powerful, but they also consume vast amounts of memory, leading to bottlenecks in the key-value cache, a high-speed "digital cheat sheet" that stores frequently used information under simple labels so a computer can retrieve it instantly without having to search through a slow, massive database. Vector quantization is a powerful, classical data compression technique that reduces the size of high-dimensional vectors. This optimization addresses two critical facets of AI: it enhances vector search, the high-speed technology powering large-scale AI and search engines, by enabling faster similarity lookups; and it helps unclog key-value cache bottlenecks by reducing the size of key-value pairs, which enables faster similarity searches and lowers memory costs. However, traditional vector quantization usually introduces its own "memory overhead” as most methods require calculating and storing (in full precision) quantization constants for every small block of data. This overhead can add 1 or 2 extra bits per number, partially defeating the purpose of vector quantization. Today, we introduce TurboQuant (to be presented at ICLR 2026), a compression algorithm that optimally addresses the challenge of memory overhead in vector quantization. We also present Quantized Johnson-Lindenstrauss (QJL), and PolarQuant (to be presented at AISTATS 2026), which TurboQuant uses to achieve its results. In testing, all three techniques showed great promise for reducing key-value bottlenecks without sacrificing AI model performance. This has potentially profound implications for all compression-reliant use cases, including and especially in the domains of search and AI."
-
-🔗 [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/) • 20h ago
-
----
-
-**[Getting AI to explain western mystical 2v2 chess](https://www.reddit.com/r/artificial/comments/1s3la2l/getting_ai_to_explain_western_mystical_2v2_chess/)**
-
-Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.
-
-🔗 [Perplexity AI](https://www.perplexity.ai/search/https-www-chessvariants-com-hi-VPufcpLeSniewp9_87fBIg) • 2h ago
 
 ---
 
@@ -127,19 +127,9 @@ Research at Google • 1d ago
 
 ---
 
-**[Google’s TurboQuant AI-compression algorithm can reduce LLM memory usage by 6x](https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/)**
+**[OpenAI Is Shutting Down Sora, Its A.I. Video Generator](https://www.nytimes.com/2026/03/24/technology/openai-shutting-down-sora.html)**
 
-TurboQuant makes AI models more efficient but doesn't reduce output quality like other methods.
-
-Ars Technica • 4h ago
-
----
-
-**[Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it 'Pied Piper'](https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/)**
-
-Google’s TurboQuant has the internet joking about Pied Piper from HBO's "Silicon Valley." The compression algorithm promises to shrink AI’s “working memory” by up to 6x, but it’s still just a lab experiment for now.
-
-TechCrunch • 1h ago
+The New York Times • 1d ago
 
 ---
 
@@ -159,41 +149,45 @@ The Guardian • 1d ago
 
 ---
 
-**[Sam Altman Is Finally Admitting Something No One Else Wants To](https://slate.com/technology/2026/03/ai-openai-sam-altman-disney-sora-shutdown.html)**
+**[How AI Is Creeping Into The New York Times](https://www.theatlantic.com/culture/2026/03/how-ai-creeping-new-york-times/686528/)**
 
-OpenAI’s abrupt shutdown of Sora reveals the A.I. boom might be a lot more fragile than it looks.
+Artificial intelligence seems to be turning up, undisclosed, in the opinion pages of major news publications.
 
-Slate • 1h ago
+The Atlantic • 8h ago
+
+---
+
+**[Hutto launches AI chatbot ‘HippoBOT’ to improve city, resident communication](https://www.kxan.com/news/local/williamson-county/hutto-launches-ai-chatbot-hippobot-to-improve-city-resident-communication/)**
+
+KXAN Austin • 44m ago
+
+---
+
+**[Meta lays off hundreds amid AI spending, fizzled metaverse plans](https://www.seattletimes.com/business/technology/meta-lays-off-hundreds-amid-ai-spending-fizzled-metaverse-plans/)**
+
+The Seattle Times • 3m ago
 
 ---
 
 **[Exclusive: Sen. Warner calls AI data center moratorium championed by AOC "idiocy"](https://www.axios.com/2026/03/25/warner-ai-data-center-moratorium-aoc-idiocy)**
 
-Axios • 3h ago
+Axios • 2h ago
 
 ---
 
-**[Ocasio-Cortez and Sanders push bill to impose AI data center moratorium](https://www.pbs.org/newshour/politics/ocasio-cortez-and-sanders-push-bill-to-impose-ai-data-center-moratorium)**
+**[Sanders, Ocasio-Cortez push bill to impose AI data center moratorium](https://apnews.com/article/data-centers-ai-electricity-sanders-aoc-65651bd28c3d911d18eeb46cd54f4c75)**
 
 A bill introduced by two high-profile progressive lawmakers would pause new data centers in the United States until national safeguards are in place to protect workers and consumers and ensure the technologies don’t harm the environment.
 
-PBS • 1h ago
+AP News • 1h ago
 
 ---
 
-**[AOC, Sanders ramp up AI regulation fight over data center concerns](https://www.foxbusiness.com/video/6391654589112)**
+**[Opinion | Bernie Sanders doubles down on his dumbest idea](https://www.washingtonpost.com/opinions/2026/03/25/bernie-sanders-artificial-intelligence-claude/)**
 
-FOX Business' Connor Hansen has the details from Capitol Hill on 'Varney & Co.'
+A federal moratorium on new data centers would make AI more expensive for everyone.
 
-Fox Business • 6h ago
-
----
-
-**[Alpha Schools, which uses AI instead of teachers for learning, is enrolling in Chicago for fall 2026](https://www.cbsnews.com/chicago/news/alpha-schools-chicago-ai-classes-no-teachers/)**
-
-Would you send your child to a private school with no teachers and learning driven by AI? And would you pay to do so?
-
-CBS News • 1h ago
+The Washington Post • 2m ago
 
 ---
 
@@ -205,7 +199,7 @@ CBS News • 1h ago
 
 Is anybody else bored of talking about AI?
 
-⬆️ 706 • 💬 507 • 1d ago • [Unfinished Side Projects](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
+⬆️ 709 • 💬 508 • 1d ago • [Unfinished Side Projects](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
 
 ---
 
@@ -213,13 +207,13 @@ Is anybody else bored of talking about AI?
 
 Search any airport for real-time delays, weather, arrivals, departures, and performance insights powered by Flighty.
 
-⬆️ 506 • 💬 170 • 22h ago • [Flighty](https://flighty.com/airports)
+⬆️ 523 • 💬 174 • 23h ago • [Flighty](https://flighty.com/airports)
 
 ---
 
 **[TurboQuant: Redefining AI efficiency with extreme compression](https://news.ycombinator.com/item?id=47513475)**
 
-⬆️ 450 • 💬 126 • 17h ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
+⬆️ 475 • 💬 129 • 18h ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
 
 ---
 
@@ -251,7 +245,7 @@ For two centuries, the credential system gave intelligence a route to heritable 
 
 cq explores a Stack Overflow for agents, a shared commons where agents can query past learnings, contribute new knowledge, and avoid repeating the same mistakes in isolation.
 
-⬆️ 214 • 💬 95 • 2d ago • [Mozilla.ai](https://blog.mozilla.ai/cq-stack-overflow-for-agents/)
+⬆️ 216 • 💬 96 • 2d ago • [Mozilla.ai](https://blog.mozilla.ai/cq-stack-overflow-for-agents/)
 
 ---
 
@@ -263,17 +257,19 @@ The studio giant will no longer move forward with its OpenAI investment, as the 
 
 ---
 
-**[Diverse perspectives on AI from Rust contributors and maintainers](https://news.ycombinator.com/item?id=47482825)**
-
-⬆️ 160 • 💬 82 • 3d ago • [nikomatsakis.github.io](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
-
----
-
 **[The AI Industry Is Lying to You](https://news.ycombinator.com/item?id=47506259)**
 
 Hi! If you like this piece and want to support my independent reporting and analysis, why not subscribe to my premium newsletter? It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5000 to 18,000 words, including
 
-⬆️ 158 • 💬 125 • 1d ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/)
+⬆️ 159 • 💬 125 • 1d ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/)
+
+---
+
+**[Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build](https://news.ycombinator.com/item?id=47499672)**
+
+Contribute to AmElmo/proofshot development by creating an account on GitHub.
+
+⬆️ 144 • 💬 96 • 1d ago • [GitHub](https://github.com/AmElmo/proofshot)
 
 ---
 
@@ -297,7 +293,7 @@ Live coverage of speeches, rallies, and events across America with raw, unfilter
 
 📺 MAGNO NEWS
 
-👁️ 13K • 👍 696 • 💬 203 • ⏱️ 2:33 • 7h ago
+👁️ 13K • 👍 696 • 💬 203 • ⏱️ 2:33 • 8h ago
 
 ---
 
@@ -307,7 +303,7 @@ Sources for this video: https://www.perplexity.ai/search/what-are-the-studies-sh
 
 📺 David Shapiro
 
-👁️ 22K • 💬 243 • ⏱️ 21:46 • 10h ago
+👁️ 22K • 💬 243 • ⏱️ 21:46 • 11h ago
 
 ---
 
@@ -317,7 +313,7 @@ Sen. Bernie Sanders (I-VT) and Rep. Alexandria Ocasio-Cortez (D-NY) hold a press
 
 📺 CNN
 
-👁️ 5K • 👍 369 • 💬 93 • ⏱️ 31:16 • 2h ago
+👁️ 5K • 👍 369 • 💬 93 • ⏱️ 31:16 • 3h ago
 
 ---
 
@@ -347,7 +343,7 @@ today I talked about OpenAI ending Sora the AI video generation app. discord ser
 
 📺 spatnz
 
-👁️ 12K • 👍 1K • 💬 180 • ⏱️ 2:19 • 6h ago
+👁️ 12K • 👍 1K • 💬 180 • ⏱️ 2:19 • 7h ago
 
 ---
 
@@ -357,7 +353,7 @@ We've found a fantastic new free AI tool that lets anyone create amazing video c
 
 📺 Africa Amaze
 
-👁️ 3K • 👍 237 • 💬 73 • ⏱️ 8:19 • 10h ago
+👁️ 3K • 👍 237 • 💬 73 • ⏱️ 8:19 • 11h ago
 
 ---
 
@@ -417,7 +413,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 38,586 • ❤️ 289 • 23h ago
+⬇️ 38,586 • ❤️ 289 • 1d ago
 
 ---
 
@@ -441,7 +437,7 @@ daVinci-MagiHuman is a fast, single-stream Transformer model for generating high
 
 `image-to-video`
 
-⬇️ 150 • ❤️ 151 • 8h ago
+⬇️ 150 • ❤️ 151 • 9h ago
 
 ---
 
@@ -465,7 +461,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 41,277 • ❤️ 134 • 20h ago
+⬇️ 41,277 • ❤️ 134 • 21h ago
 
 ---
 
@@ -648,7 +644,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 22.5k • 🔱 1.1k • 5h ago
+⭐ 22.5k • 🔱 1.1k • 6h ago
 
 ---
 
@@ -658,7 +654,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 13.3k • 🔱 1.7k • 9h ago
+⭐ 13.3k • 🔱 1.7k • 10h ago
 
 ---
 
@@ -668,7 +664,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 11.9k • 🔱 622 • 10h ago
+⭐ 11.9k • 🔱 622 • 11h ago
 
 ---
 
@@ -688,7 +684,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 6.9k • 🔱 1.1k • 5h ago
+⭐ 6.9k • 🔱 1.1k • 6h ago
 
 ---
 
@@ -698,7 +694,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 6.8k • 🔱 548 • 5h ago
+⭐ 6.8k • 🔱 548 • 6h ago
 
 ---
 
@@ -708,7 +704,7 @@ OpenShell is the safe, private runtime for autonomous AI agents.
 
 `Rust`
 
-⭐ 3.8k • 🔱 371 • 1h ago
+⭐ 3.8k • 🔱 371 • 2h ago
 
 ---
 
