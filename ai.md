@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-25T10:50:55.919219+00:00'
+updated: '2026-03-25T11:42:43.862357+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
 - news
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 25, 2026 at 10:50 UTC  
+**Last Updated:** March 25, 2026 at 11:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 What if building more and more datacenters was not the only option? If we are able to get similar levels of performance for top models at a consumer level from smarter systems, then its only a matter of time before the world comes to the realization that AI is a lot less expensive and a whole lot more obtainable. Open source projects like ATLAS are on the frontier of this possibility- where a 22 year old college student from Virginia Tech built and ran a 14B parameter AI model on a single $500 Consumer GPU and scored higher than Claude Sonnet 4.5 on coding benchmarks (74.6% vs 71.4% on LiveCodeBench, 599 problems). No cloud, no API costs, no fine-tuning. Just a consumer graphics card and smart infrastructure around a small model. And the cost? Only around $0.004/task in electricity. The base model used in ATLAS only scores about 55%. The pipeline adds nearly 20 percentage points by generating multiple solution approaches, testing them, and selecting the best one. Proving that smarter infrastructure and systems design is the future of the industry. Repo: https://github.com/itigges22/ATLAS
 
-8h ago
+9h ago
 
 ---
 
@@ -49,15 +49,7 @@ What if building more and more datacenters was not the only option? If we are ab
 
 That was quick.
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt) • 12h ago
-
----
-
-**[TurboQuant: Redefining AI efficiency with extreme compression](https://www.reddit.com/r/artificial/comments/1s2y0gy/turboquant_redefining_ai_efficiency_with_extreme/)**
-
-"Vectors are the fundamental way AI models understand and process information. Small vectors describe simple attributes, such as a point in a graph, while “high-dimensional” vectors capture complex information such as the features of an image, the meaning of a word, or the properties of a dataset. High-dimensional vectors are incredibly powerful, but they also consume vast amounts of memory, leading to bottlenecks in the key-value cache, a high-speed "digital cheat sheet" that stores frequently used information under simple labels so a computer can retrieve it instantly without having to search through a slow, massive database. Vector quantization is a powerful, classical data compression technique that reduces the size of high-dimensional vectors. This optimization addresses two critical facets of AI: it enhances vector search, the high-speed technology powering large-scale AI and search engines, by enabling faster similarity lookups; and it helps unclog key-value cache bottlenecks by reducing the size of key-value pairs, which enables faster similarity searches and lowers memory costs. However, traditional vector quantization usually introduces its own "memory overhead” as most methods require calculating and storing (in full precision) quantization constants for every small block of data. This overhead can add 1 or 2 extra bits per number, partially defeating the purpose of vector quantization. Today, we introduce TurboQuant (to be presented at ICLR 2026), a compression algorithm that optimally addresses the challenge of memory overhead in vector quantization. We also present Quantized Johnson-Lindenstrauss (QJL), and PolarQuant (to be presented at AISTATS 2026), which TurboQuant uses to achieve its results. In testing, all three techniques showed great promise for reducing key-value bottlenecks without sacrificing AI model performance. This has potentially profound implications for all compression-reliant use cases, including and especially in the domains of search and AI."
-
-🔗 [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/) • 8h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt) • 13h ago
 
 ---
 
@@ -65,23 +57,15 @@ That was quick.
 
 Sudden and unexpected, landslides and avalanches claim thousands of lives each year and cause billions of dollars in damage. What if we could see them coming?
 
-🔗 [bbc.com](https://www.bbc.com/future/article/20260323-the-ai-that-warns-people-about-landslides-and-avalanches) • 3h ago
+🔗 [bbc.com](https://www.bbc.com/future/article/20260323-the-ai-that-warns-people-about-landslides-and-avalanches) • 4h ago
 
 ---
 
-**[SOTA models at 2K tps](https://www.reddit.com/r/artificial/comments/1s35v12/sota_models_at_2k_tps/)**
+**[TurboQuant: Redefining AI efficiency with extreme compression](https://www.reddit.com/r/artificial/comments/1s2y0gy/turboquant_redefining_ai_efficiency_with_extreme/)**
 
-I need SOTA ai at like 2k TPS with tiny latency so that I can get time to first answer token under 3 seconds for real time replies with full COT for maximum intelligence. I don't need this consistently, only maybe for an hour at a time for real-time conversations for a family member with medical issues. There will be a 30 to 60K token prompt and then the context will slowly fill from a full back-and-forth conversation for about an hour that the model will have to keep up for. My budget is fairly limited, but at the same time I need maximum speed and maximum intelligence. I greatly prefer to not have to invest in any physical hardware to host it myself and would like to keep everything virtual if possible. Especially because I don't want to invest a lot of money all at once, I'd rather pay a temporary fee rather than thousands of dollars for the hardware to do this if possible. Here are the options of open source models I've come up with for possibly trying to run quants or full versions of these: Qwen3.5 27B Qwen3.5 397BA17B Kimi K2.5 GLM-5 Cerebras currently does great stuff with GLM-4.7 1K+ TPS; however, it's a dumber older model at this point and they might end api for it at any moment. OpenAI also has a "Spark" model on the pro tier in Codex, which hypothetically could be good, and it's very fast; however, I haven't seen any decent non coding benchmarks for it so I'm assuming it's not great and I am not excited to spend $200 just to test. I could also try to make do with a non-reasoning model like Opus 4.6 for quick time to first answer token, but it's really a shame to not have reasoning because there's obviously a massive gap between models that actually think. The fast Claude API is cool, but not nearly fast enough for time to >3 first answer token with COT because the latency itself for Opus is about three seconds. What do you guys think about this? Any advice?
+"Vectors are the fundamental way AI models understand and process information. Small vectors describe simple attributes, such as a point in a graph, while “high-dimensional” vectors capture complex information such as the features of an image, the meaning of a word, or the properties of a dataset. High-dimensional vectors are incredibly powerful, but they also consume vast amounts of memory, leading to bottlenecks in the key-value cache, a high-speed "digital cheat sheet" that stores frequently used information under simple labels so a computer can retrieve it instantly without having to search through a slow, massive database. Vector quantization is a powerful, classical data compression technique that reduces the size of high-dimensional vectors. This optimization addresses two critical facets of AI: it enhances vector search, the high-speed technology powering large-scale AI and search engines, by enabling faster similarity lookups; and it helps unclog key-value cache bottlenecks by reducing the size of key-value pairs, which enables faster similarity searches and lowers memory costs. However, traditional vector quantization usually introduces its own "memory overhead” as most methods require calculating and storing (in full precision) quantization constants for every small block of data. This overhead can add 1 or 2 extra bits per number, partially defeating the purpose of vector quantization. Today, we introduce TurboQuant (to be presented at ICLR 2026), a compression algorithm that optimally addresses the challenge of memory overhead in vector quantization. We also present Quantized Johnson-Lindenstrauss (QJL), and PolarQuant (to be presented at AISTATS 2026), which TurboQuant uses to achieve its results. In testing, all three techniques showed great promise for reducing key-value bottlenecks without sacrificing AI model performance. This has potentially profound implications for all compression-reliant use cases, including and especially in the domains of search and AI."
 
-1h ago
-
----
-
-**[Three companies shipped "AI agent on your desktop" in the same two weeks. That's not a coincidence.](https://www.reddit.com/r/artificial/comments/1s2ddgb/three_companies_shipped_ai_agent_on_your_desktop/)**
-
-Something interesting happened this month. March 11: Perplexity announced Personal Computer. An always-on Mac Mini running their AI agent 24/7, connected to your local files and apps. Cloud AI does the reasoning, local machine does the access. March 16: Meta launched Manus "My Computer." Same idea. Their agent on your Mac or Windows PC. Reads, edits local files. Launches apps. Multi-step tasks. $20/month. March 23: Anthropic shipped computer use and Dispatch for Claude. Screen control, phone-to-desktop task handoff, 50+ service connectors, scheduled tasks. Three separate companies. Same architecture. Same two weeks. I've been running a version of this pattern for months (custom AI agent on a Mac Mini, iMessage as the interface, background cron jobs, persistent memory across sessions). The convergence on this exact setup tells me the direction is validated. The shared insight all three arrived at: agents need a home. Not a chat window. A machine with file access, app control, phone reachability, and background execution. The gap that remains across all three: persistent memory. Research from January 2026 confirmed what I found building my own system. Fixed context windows limit agent coherence over time. All three products are still mostly session-based. That's the piece that turns a task executor into something that actually feels like a coworker. We went from "will AI agents work on personal computers?" to "which one do you pick?" in about two weeks. Full comparison with hands-on testing: https://thoughts.jock.pl/p/claude-cowork-dispatch-computer-use-honest-agent-review-2026
-
-21h ago
+🔗 [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/) • 9h ago
 
 ---
 
@@ -89,7 +73,39 @@ Something interesting happened this month. March 11: Perplexity announced Person
 
 After getting dogpiled on Reddit (intentionally, for research), I formalized what I observed into a framework called IDDS — Identity-Driven Discourse Systems. The core insight: escalation is not random. It follows predictable state transitions driven by identity layer activation. The key innovation in 2.1 is the D_flag modifier — Identity Activation only accelerates escalation when disagreement is already present. This means someone sharing their identity in a friendly thread (D_flag=0) behaves completely differently from the same disclosure in an adversarial thread (D_flag=1). States: Neutral → Disagreement → Identity Activation → Personalization → Ad Hominem → Dogpile New in 2.1: MPF (Moral Protective Framing): "protecting children" as ethical cover for escalation — invisible to sentiment analysis, requires contextual state awareness Adversarial Seeding: threads born escalated at T=0 before the first reply Silence Bypass: block/mute only terminates the local thread, not the conflict Transient Dogpile Groups: the group never fully resets D_flag between targets Validated across Reddit, Threads, WhatsApp in English and Portuguese. Building a Playwright scraper + ML classifier next. Paper:https://github.com/JohannaWeb/Monarch/releases/tag/2.1.paper
 
-7h ago
+8h ago
+
+---
+
+**[Three companies shipped "AI agent on your desktop" in the same two weeks. That's not a coincidence.](https://www.reddit.com/r/artificial/comments/1s2ddgb/three_companies_shipped_ai_agent_on_your_desktop/)**
+
+Something interesting happened this month. March 11: Perplexity announced Personal Computer. An always-on Mac Mini running their AI agent 24/7, connected to your local files and apps. Cloud AI does the reasoning, local machine does the access. March 16: Meta launched Manus "My Computer." Same idea. Their agent on your Mac or Windows PC. Reads, edits local files. Launches apps. Multi-step tasks. $20/month. March 23: Anthropic shipped computer use and Dispatch for Claude. Screen control, phone-to-desktop task handoff, 50+ service connectors, scheduled tasks. Three separate companies. Same architecture. Same two weeks. I've been running a version of this pattern for months (custom AI agent on a Mac Mini, iMessage as the interface, background cron jobs, persistent memory across sessions). The convergence on this exact setup tells me the direction is validated. The shared insight all three arrived at: agents need a home. Not a chat window. A machine with file access, app control, phone reachability, and background execution. The gap that remains across all three: persistent memory. Research from January 2026 confirmed what I found building my own system. Fixed context windows limit agent coherence over time. All three products are still mostly session-based. That's the piece that turns a task executor into something that actually feels like a coworker. We went from "will AI agents work on personal computers?" to "which one do you pick?" in about two weeks. Full comparison with hands-on testing: https://thoughts.jock.pl/p/claude-cowork-dispatch-computer-use-honest-agent-review-2026
+
+22h ago
+
+---
+
+**[SOTA models at 2K tps](https://www.reddit.com/r/artificial/comments/1s35v12/sota_models_at_2k_tps/)**
+
+I need SOTA ai at like 2k TPS with tiny latency so that I can get time to first answer token under 3 seconds for real time replies with full COT for maximum intelligence. I don't need this consistently, only maybe for an hour at a time for real-time conversations for a family member with medical issues. There will be a 30 to 60K token prompt and then the context will slowly fill from a full back-and-forth conversation for about an hour that the model will have to keep up for. My budget is fairly limited, but at the same time I need maximum speed and maximum intelligence. I greatly prefer to not have to invest in any physical hardware to host it myself and would like to keep everything virtual if possible. Especially because I don't want to invest a lot of money all at once, I'd rather pay a temporary fee rather than thousands of dollars for the hardware to do this if possible. Here are the options of open source models I've come up with for possibly trying to run quants or full versions of these: Qwen3.5 27B Qwen3.5 397BA17B Kimi K2.5 GLM-5 Cerebras currently does great stuff with GLM-4.7 1K+ TPS; however, it's a dumber older model at this point and they might end api for it at any moment. OpenAI also has a "Spark" model on the pro tier in Codex, which hypothetically could be good, and it's very fast; however, I haven't seen any decent non coding benchmarks for it so I'm assuming it's not great and I am not excited to spend $200 just to test. I could also try to make do with a non-reasoning model like Opus 4.6 for quick time to first answer token, but it's really a shame to not have reasoning because there's obviously a massive gap between models that actually think. The fast Claude API is cool, but not nearly fast enough for time to >3 first answer token with COT because the latency itself for Opus is about three seconds. What do you guys think about this? Any advice?
+
+2h ago
+
+---
+
+**[Put Claude to work on your computer](https://www.reddit.com/r/artificial/comments/1s389sx/put_claude_to_work_on_your_computer/)**
+
+Claude now opens your apps, navigates your browser, and runs your dev tools to complete tasks. Assign from your phone with Dispatch. Research preview on macOS.
+
+🔗 [Claude](https://claude.com/blog/dispatch-and-computer-use?_bhlid=9e9ec3f11e37a134c536728af8e76e081ad0f011) • 3m ago
+
+---
+
+**[The AI Race According to Prediction Markets](https://www.reddit.com/r/artificial/comments/1s37wmo/the_ai_race_according_to_prediction_markets/)**
+
+Claude at 97% today, 48% by December. GPT-6 more likely before GTA VI than after. The full scoreboard from Polymarket & Kalshi.
+
+🔗 [predictmarketcap.com](https://predictmarketcap.com/analysis/ai-race-prediction-markets) • 22m ago
 
 ---
 
@@ -97,23 +113,7 @@ After getting dogpiled on Reddit (intentionally, for research), I formalized wha
 
 So ive been going back and forth between these three for actual work (not just asking it to write fizzbuzz) and wanted to share what I found because most comparisons online are surface level garbage. Quick background: I do fullstack work, mostly React/Next.js with some Python backend stuff. I gave all three the same tasks over about 3 months of real daily use. Claude is the best for coding and its not even close imo. I had it refactor a 400 line React component into smaller pieces and it actually understood the architecture. kept all my tests passing too. the 200k context window is huge because you can just paste your entire file plus tests and it gets it. one time it even caught a race condition I didnt know was there lol ChatGPT is solid but more of a generalist. Its great for quick questions, debugging, and when you need to explain something to a non technical person. I use it more for brainstorming and writing docs than actual code. the image generation and voice mode are nice bonuses that claude doesnt have Gemini honestly disappointed me the most. it kept struggling with larger context and the code wouldnt compile on first try way too often. Maybe its gotten better since I last used it heavily but I switched away from it for coding pretty quick. its good for google workspace stuff tho if your already in that ecosystem My setup now: Claude for serious coding work, ChatGPT for everything else (research, writing, brainstorming), and honestly Perplexity for when I need to look something up because its way better than both of them for research The thing nobody talks about: all three have gotten noticeably better even in the last few months. like Claude was already good but the latest updates made it scary good at understanding codebases. if you tried one of these 6 months ago and didnt like it, worth trying again happy to answer questions about specific use cases. ive tried them for python, typescript, sql, and some go
 
-14h ago
-
----
-
-**[“AI” is a description, not the thing itself. Are we missing a word?](https://www.reddit.com/r/artificial/comments/1s362g2/ai_is_a_description_not_the_thing_itself_are_we/)**
-
-We keep talking about “AI” as if it were the name of an entity. But artificial intelligence is not the entity. It is a description. Intelligence is a property, a capacity, a quality. It is not itself a thing. So when we say “AI,” what are we actually referring to? the field? the capability? the model? the system? the outputs? the supposed “being” behind it? It seems like one loose term is being forced to do the work of several different concepts at once. That is why AI discussions get muddy so fast. People argue past each other because they are using the same word for different layers of the stack. So here’s the proposal: Noet = the bearer of artificial intelligence Not intelligence itself, but the thing that instantiates it. That would let us separate: AI = the capability Noet = the bearer Agent = a noet that acts toward goals Person = a different category entirely I’m not claiming this word is perfect. I’m claiming the current vocabulary is sloppy enough that it’s distorting the discussion. Does this distinction feel useful, or is this unnecessary word inflation?
-
-1h ago
-
----
-
-**[Claude's computer use changes how I think about AI tooling](https://www.reddit.com/r/artificial/comments/1s3554f/claudes_computer_use_changes_how_i_think_about_ai/)**
-
-I've been watching Claude's computer use announcement settle in, and something clicked for me. This isn't just a feature—it's a shift in how we should be thinking about what AI can do in real workflows. The moment it can navigate your browser, fill spreadsheets, open apps, is the moment you stop thinking about AI as a writing or coding assistant and start thinking about it as something that completes actual work. Not just helps you think through work. Actually does it. What struck me most is how quiet this capability is compared to the hype cycle. No massive marketing push. Just: here's what it does. And people are genuinely shocked when they see it in action—not because it's flashy, but because it actually works on the kinds of tasks that waste time. I think we're at an inflection point where the gap between what people assume AI can do and what it actually does is finally closing. The demos that are circulating aren't polished—they're real. That's the part that matters.
-
-2h ago
+15h ago
 
 ---
 
@@ -123,15 +123,7 @@ I've been watching Claude's computer use announcement settle in, and something c
 
 **[TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)**
 
-Research at Google • 14h ago
-
----
-
-**[OpenAI shutters AI video generator Sora in abrupt announcement](https://www.theguardian.com/technology/2026/mar/24/openai-ai-video-sora)**
-
-App that allowed people to make and share AI videos was popular but received criticism for racist and violent content
-
-The Guardian • 12h ago
+Research at Google • 15h ago
 
 ---
 
@@ -139,31 +131,43 @@ The Guardian • 12h ago
 
 The studio giant will no longer move forward with its OpenAI investment, as the AI company exits the video generation business.
 
-The Hollywood Reporter • 13h ago
+The Hollywood Reporter • 14h ago
 
 ---
 
-**[Exclusive | OpenAI Scraps Sora Video Platform Months After Launch](https://www.wsj.com/tech/ai/openai-set-to-discontinue-sora-video-platform-app-a82a9e4e?gaa_at=eafs&gaa_n=AWEtsqftSY4oKGfl3t4L3AIk1kJ9BiaPoInA8xx6mJz5x_Lsu6wxJQBAfQOX&gaa_ts=69c3b47f&gaa_sig=rm4wL_EfnMEV8K2NXGQJa9oD7VADexTMnjbKJmYI9_vUr0Hu_5me0trZdT0m2nL6v6ueX3pxDgbd3w99dC_0PA%3D%3D)**
+**[OpenAI ends Disney partnership as it closes Sora video-making app](https://www.bbc.com/news/articles/c3w3e467ewqo)**
 
-WSJ • 12h ago
+The move comes less two years after the launch of the AI video app sent shockwaves through the media industry.
 
----
-
-**[AI boom catapults batteries into the mainstream](https://www.axios.com/2026/03/25/ai-battery-storage-ceraweek-houston)**
-
-Axios • 1h ago
+BBC • 6h ago
 
 ---
 
-**[Takeda Revamp to Cut Costs, Use AI to Incur ¥150 Billion Charge](https://www.bloomberg.com/news/articles/2026-03-25/takeda-revamp-to-cut-costs-use-ai-to-incur-150-billion-charge)**
+**[What Sora’s Rise And Sudden Fall Means For OpenAI, Disney And AI Video](https://www.forbes.com/sites/moinroberts-islam/2026/03/25/what-soras-rise-and-sudden-fall-means-for-openai-disney-and-ai-video/)**
 
-Bloomberg.com • 1h ago
+Forbes • 19m ago
 
 ---
 
-**[The Anomaly of Humanity as A.I. Grows Inevitable](https://www.nytimes.com/2026/03/25/arts/marathon-ai-artificial-intelligence.html)**
+**[Exclusive: Rocketlane raises $60M to expand AI for services teams](https://www.axios.com/pro/enterprise-software-deals/2026/03/25/rocketlane-60-million-professional-services-ai)**
 
-The New York Times • 1h ago
+Axios • 36m ago
+
+---
+
+**[Philadelphia courts ban all smart/AI eyeglasses, violators could face arrest](https://www.nbcphiladelphia.com/news/local/philadelphia-courts-ban-all-smart-ai-eyeglasses-violators-could-face-arrest/4374128/)**
+
+Starting Monday, March 30, 2026, those who bring eyeglasses equipped with video/audio recording capability to court could face arrest, officials say.
+
+NBC10 Philadelphia • 19m ago
+
+---
+
+**[Why experts are torn about whether AI is changing math forever—or just helping out](https://www.scientificamerican.com/podcast/episode/can-ai-actually-solve-real-math-proofs-researchers-put-it-to-the-test/)**
+
+A new challenge reveals how well AI can tackle true math problems
+
+Scientific American • 1h ago
 
 ---
 
@@ -175,19 +179,19 @@ CNBC • 1d ago
 
 ---
 
-**[Harness design for long-running application development](https://www.anthropic.com/engineering/harness-design-long-running-apps)**
+**[Announcing Arm AGI CPU: The silicon foundation for the agentic AI cloud era](https://newsroom.arm.com/blog/introducing-arm-agi-cpu)**
 
-Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+Arm introduces the Arm AGI CPU to power agentic AI infrastructure with rack-scale performance, efficiency and scalable compute for next-generation data centers.
 
-Anthropic • 18h ago
+Arm Newsroom • 18h ago
 
 ---
 
-**[Palantir’s billionaire CEO says only two kinds of people will succeed in the AI era: trade workers — ‘or you’re neurodivergent’](https://fortune.com/2026/03/24/palantir-ceo-alex-karp-two-people-successful-in-ai-era-vocational-skills-neurodivergence-gen-z-career-advice/)**
+**[Sandboxing AI agents, 100x faster](https://blog.cloudflare.com/dynamic-workers/)**
 
-Billionaire Alex Karp tells Gen Z to skip elite college degrees, as one-fifth of Fortune 500 companies recruit more neurodivergent talent by 2027.
+We’re introducing Dynamic Workers, which allow you to execute AI-generated code in secure, lightweight isolates. This approach is 100 times faster than traditional containers, enabling millisecond startup times for AI agent sandboxing.
 
-Fortune • 18h ago
+The Cloudflare Blog • 22h ago
 
 ---
 
@@ -199,7 +203,7 @@ Fortune • 18h ago
 
 Is anybody else bored of talking about AI?
 
-⬆️ 644 • 💬 441 • 14h ago • [Unfinished Side Projects](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
+⬆️ 654 • 💬 446 • 15h ago • [Unfinished Side Projects](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
 
 ---
 
@@ -207,7 +211,7 @@ Is anybody else bored of talking about AI?
 
 Practical AI R&D
 
-⬆️ 396 • 💬 371 • 20h ago • [Answer.AI](https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html)
+⬆️ 407 • 💬 378 • 21h ago • [Answer.AI](https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html)
 
 ---
 
@@ -215,7 +219,7 @@ Practical AI R&D
 
 Search any airport for real-time delays, weather, arrivals, departures, and performance insights powered by Flighty.
 
-⬆️ 320 • 💬 103 • 10h ago • [Flighty](https://flighty.com/airports)
+⬆️ 346 • 💬 113 • 11h ago • [Flighty](https://flighty.com/airports)
 
 ---
 
@@ -223,7 +227,7 @@ Search any airport for real-time delays, weather, arrivals, departures, and perf
 
 Learn how I built an ai receptionist for my brother's mechanic shop
 
-⬆️ 311 • 💬 319 • 2d ago • [itsthatlady.dev](https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/)
+⬆️ 312 • 💬 319 • 2d ago • [itsthatlady.dev](https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/)
 
 ---
 
@@ -231,13 +235,13 @@ Learn how I built an ai receptionist for my brother's mechanic shop
 
 For two centuries, the credential system gave intelligence a route to heritable capital. Artificial intelligence is closing that route. This essay builds the argument from first principles - with probability theory, interactive simulations, and a prediction specific enough to be falsifiable - and puts a number on the window that remains.
 
-⬆️ 261 • 💬 381 • 20h ago • [Daniel Homola](https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/)
+⬆️ 262 • 💬 382 • 21h ago • [Daniel Homola](https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/)
 
 ---
 
 **[What young workers are doing to AI-proof themselves](https://news.ycombinator.com/item?id=47480447)**
 
-⬆️ 225 • 💬 395 • 2d ago • [wsj.com](https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284)
+⬆️ 225 • 💬 396 • 2d ago • [wsj.com](https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284)
 
 ---
 
@@ -245,7 +249,7 @@ For two centuries, the credential system gave intelligence a route to heritable 
 
 cq explores a Stack Overflow for agents, a shared commons where agents can query past learnings, contribute new knowledge, and avoid repeating the same mistakes in isolation.
 
-⬆️ 208 • 💬 92 • 1d ago • [Mozilla.ai](https://blog.mozilla.ai/cq-stack-overflow-for-agents/)
+⬆️ 209 • 💬 93 • 1d ago • [Mozilla.ai](https://blog.mozilla.ai/cq-stack-overflow-for-agents/)
 
 ---
 
@@ -253,21 +257,19 @@ cq explores a Stack Overflow for agents, a shared commons where agents can query
 
 The studio giant will no longer move forward with its OpenAI investment, as the AI company exits the video generation business.
 
-⬆️ 202 • 💬 3 • 13h ago • [The Hollywood Reporter](https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/)
+⬆️ 204 • 💬 3 • 14h ago • [The Hollywood Reporter](https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/)
+
+---
+
+**[TurboQuant: Redefining AI efficiency with extreme compression](https://news.ycombinator.com/item?id=47513475)**
+
+⬆️ 196 • 💬 42 • 6h ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
 
 ---
 
 **[Diverse perspectives on AI from Rust contributors and maintainers](https://news.ycombinator.com/item?id=47482825)**
 
 ⬆️ 160 • 💬 82 • 2d ago • [nikomatsakis.github.io](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
-
----
-
-**[The AI Industry Is Lying to You](https://news.ycombinator.com/item?id=47506259)**
-
-Hi! If you like this piece and want to support my independent reporting and analysis, why not subscribe to my premium newsletter? It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5000 to 18,000 words, including
-
-⬆️ 154 • 💬 123 • 17h ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/)
 
 ---
 
@@ -281,7 +283,7 @@ In this vlog, I make a bold case that AI is destroying the economic moat of the 
 
 📺 Asian Dad Energy
 
-👁️ 35K • 👍 2K • 💬 653 • ⏱️ 9:25 • 21h ago
+👁️ 35K • 👍 2K • 💬 653 • ⏱️ 9:25 • 22h ago
 
 ---
 
@@ -311,7 +313,7 @@ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 
 
 📺 Two Minute Papers
 
-👁️ 75K • 👍 5K • 💬 320 • ⏱️ 9:47 • 19h ago
+👁️ 75K • 👍 5K • 💬 320 • ⏱️ 9:47 • 20h ago
 
 ---
 
@@ -423,7 +425,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 38,586 • ❤️ 270 • 12h ago
+⬇️ 38,586 • ❤️ 270 • 13h ago
 
 ---
 
@@ -457,7 +459,7 @@ daVinci-MagiHuman is a fast, single-stream Transformer model for generating high
 
 `image-to-video`
 
-⬇️ 150 • ❤️ 128 • 5h ago
+⬇️ 150 • ❤️ 128 • 6h ago
 
 ---
 
@@ -645,7 +647,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 22.5k • 🔱 1.1k • 5h ago
+⭐ 22.5k • 🔱 1.1k • 6h ago
 
 ---
 
@@ -655,7 +657,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 13.2k • 🔱 1.7k • 1h ago
+⭐ 13.2k • 🔱 1.7k • 2h ago
 
 ---
 
@@ -665,7 +667,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 11.7k • 🔱 608 • 16h ago
+⭐ 11.7k • 🔱 608 • 17h ago
 
 ---
 
@@ -675,7 +677,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 10.7k • 🔱 781 • 1d ago
+⭐ 10.7k • 🔱 781 • 2d ago
 
 ---
 
@@ -695,7 +697,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 6.5k • 🔱 528 • 2h ago
+⭐ 6.5k • 🔱 528 • 3h ago
 
 ---
 
@@ -715,7 +717,7 @@ OpenShell is the safe, private runtime for autonomous AI agents.
 
 `Rust`
 
-⭐ 3.7k • 🔱 360 • 4h ago
+⭐ 3.7k • 🔱 360 • 5h ago
 
 ---
 

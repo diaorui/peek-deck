@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-25T10:50:55.936684+00:00'
+updated: '2026-03-25T11:42:43.880067+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 25, 2026 at 10:50 UTC  
+**Last Updated:** March 25, 2026 at 11:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Earlier this month, Seoul's COEX hosted an event whose name said it all: the China Humanoid Conference, "First Journey to Korea." Unitree, Fourier, Leju and Hua
 
-🔗 [The Korea Herald](https://www.koreaherald.com/article/10698201) • 5h ago
+🔗 [The Korea Herald](https://www.koreaherald.com/article/10698201) • 6h ago
 
 ---
 
@@ -44,7 +44,7 @@ Earlier this month, Seoul's COEX hosted an event whose name said it all: the Chi
 
 KOU-III is a two-legged robot from Shandong University that combines walking with drone-like rotors for extra balance and power. Inspired by how ostriches use their wings while running, the rotors help it jump higher, land softly, and stay stable on tough terrain.
 
-18h ago
+19h ago
 
 ---
 
@@ -64,9 +64,9 @@ From Marc Benioff on 𝕏: https://x.com/Benioff/status/2036252519308075219
 
 ---
 
-**[Dynamixel Y series](https://www.reddit.com/r/robotics/comments/1s35kvh/dynamixel_y_series/)**
+**[give me 3d model ideas to help the community](https://www.reddit.com/r/robotics/comments/1s36tr0/give_me_3d_model_ideas_to_help_the_community/)**
 
-Hello people! does anyone know of anywhere with dynamixel Y series in stock? looking for some larger ones for a project, or anyone have some (slightly) loved ones they might be looking to sell. apologies if this is inappropriate to post here!
+hi guys, so i started 3d modeling this to help the robotics and electronics communities and im posting them no maker world, i design things for Arduino, Raspberry pi, components and my own projects. i wanted to ask what things you would like to see designed and posted so i can do that please dont downvote im just trying to get ideas for things to post to help the community, here is my page if you would like to check it out: https://makerworld.com/en/@andrewgr1234 thank you!
 
 1h ago
 
@@ -80,11 +80,27 @@ I have this lidar from one of my robo vacuum cleaner DEEBOT Y1 PRO. I want to us
 
 ---
 
-**[What is the difference b/w Human and Humanoid?](https://www.reddit.com/r/robotics/comments/1s347n0/what_is_the_difference_bw_human_and_humanoid/)**
+**[Dynamixel Y series](https://www.reddit.com/r/robotics/comments/1s35kvh/dynamixel_y_series/)**
 
-It is easy to observe that human are generally predictable in terms of their actions and uncertainty, whereas humanoid robots are more unpredictable. This raises an important question for long-video understanding: what kinds of challenges arise when using humanoid-robot videos. For example, when we generate questions from such videos, VLMs may struggle to identify the correct answers because humanoid robot actions are unpredictable. I mean where foundational models will fail to predict the answer when provide humanoid robot video?
+Hello people! does anyone know of anywhere with dynamixel Y series in stock? looking for some larger ones for a project, or anyone have some (slightly) loved ones they might be looking to sell. apologies if this is inappropriate to post here!
 
-3h ago
+2h ago
+
+---
+
+**[The AI For Industry Challenge is open!](https://www.reddit.com/r/robotics/comments/1s386x9/the_ai_for_industry_challenge_is_open/)**
+
+Intrinsic is hosting the AI For Industry challenge, where registration is open. You can sign up and compete to build the best robot arm software for inserting cables into electronic assemblies. ROS is required, and the provided toolkit uses Gazebo, but any simulator can be used. I've published a video (sponsored by Intrinsic) that gives some more detail, shows an interview with the tech lead of the challenge, and shows the open-source toolkit provided by Intrinsic: https://youtu.be/WgTpmSSu1O4 I'm excited to see what gets built!
+
+7m ago
+
+---
+
+**[Human task data collection from selective regions?](https://www.reddit.com/r/robotics/comments/1s36qjo/human_task_data_collection_from_selective_regions/)**
+
+In the past week, doordash launched dasher tasks, egoverse launched its platform, and Kled has been there for a while. All of them mainly for collecting human task data for robotics companies. However, all of the data seems to be collected from gig work in the US or Europe. Considering that there are cheaper and larger number of people in places like India, why isnt there any setup to get data from there? My understanding was that the quality of data might be more relevant for many tasks if collected in the US, but arent there also tasks which are common in other countries like India which could help with the training?
+
+1h ago
 
 ---
 
@@ -96,20 +112,6 @@ I heard some people talking about how wheel-legs are superior for robots who ope
 
 ---
 
-**[How can i control the angle of this arm with a simple microcontroller like a raspber](https://www.reddit.com/r/robotics/comments/1s2dxkk/how_can_i_control_the_angle_of_this_arm_with_a/)**
-
-I have a 6DOF toy robot arm and i want to be able to control the joints with a microcontroller. How can i do this since it uses a dc motor with and can only move forwards and backwards so far
-
-21h ago
-
----
-
-**[Autonomous transport vehicles handling cargo operations at a modern port](https://www.reddit.com/r/robotics/comments/1s1m49a/autonomous_transport_vehicles_handling_cargo/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -118,15 +120,7 @@ I have a 6DOF toy robot arm and i want to be able to control the joints with a m
 
 Fauna's first product, called Sprout, is a $50,000 bipedal robot that's 3 feet, 6 inches tall and designed to be "approachable and human-friendly."
 
-CNBC • 13h ago
-
----
-
-**[The most innovative robotics and engineering companies of 2026](https://www.fastcompany.com/91497289/robotics-engineering-most-innovative-companies-2026)**
-
-Why Boston Dynamics, Terabase Energy, Lucid Bots, and Symbotic are among Fast Company's Most Innovative Companies in robotics and engineering for 2026.
-
-Fast Company • 23h ago
+CNBC • 14h ago
 
 ---
 
@@ -134,13 +128,21 @@ Fast Company • 23h ago
 
 Modular robots are easily expandable, know when they're upside down or stuck, and can march forward across all kinds of terrain.
 
-Live Science • 19h ago
+Live Science • 20h ago
 
 ---
 
 **[Billionaire Qatar Sheikh, Amazon Back Robotics Startup Neura](https://www.bloomberg.com/news/articles/2026-03-24/billionaire-qatari-sheikh-amazon-back-robotics-startup-neura)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
+
+---
+
+**[The most innovative robotics and engineering companies of 2026](https://www.fastcompany.com/91497289/robotics-engineering-most-innovative-companies-2026)**
+
+Why Boston Dynamics, Terabase Energy, Lucid Bots, and Symbotic are among Fast Company's Most Innovative Companies in robotics and engineering for 2026.
+
+Fast Company • 1d ago
 
 ---
 
@@ -148,7 +150,7 @@ Bloomberg.com • 3h ago
 
 A spokesperson for OpenAI said the discontinuation of Sora comes as the company plans to focus on robotics rather than generative imagery.
 
-Business Insider • 12h ago
+Business Insider • 13h ago
 
 ---
 
@@ -156,7 +158,15 @@ Business Insider • 12h ago
 
 The robot belonging to Coco Robotics was spotted by a CBS News Chicago viewer near North Avenue and Halsted Street in Old Town on Tuesday afternoon.
 
-CBS News • 11h ago
+CBS News • 12h ago
+
+---
+
+**[Toyota Deploys 7 Humanoid Robots In A Canadian Factory — But Mark Cuban Says The Current Humanoid Robot Push Could Fail Within 5-10 Years](https://finance.yahoo.com/sectors/technology/articles/toyota-deploys-7-humanoid-robots-141613877.html)**
+
+Toyota Motor (NYSE:TM) is moving humanoid robots onto a factory floor in Canada. At the same time, billionaire entrepreneur Mark Cuban is openly questioning whether the entire idea has staying power. The contrast is hard to ignore. One of the world's largest automakers is scaling up real-world use, while a longtime tech investor is warning the trend could burn out within a decade. Toyota puts humanoid robots to work after a successful trial Last month, Agility Robotics said in a statement that T
+
+Yahoo Finance • 21h ago
 
 ---
 
@@ -166,27 +176,19 @@ Tech Xplore • 1d ago
 
 ---
 
-**[Toyota Deploys 7 Humanoid Robots In A Canadian Factory — But Mark Cuban Says The Current Humanoid Robot Push Could Fail Within 5-10 Years](https://finance.yahoo.com/sectors/technology/articles/toyota-deploys-7-humanoid-robots-141613877.html)**
+**[Wristband enables wearers to control a robotic hand with their own movements](https://news.mit.edu/2026/wristband-enables-wearers-control-robotic-hand-with-own-movements-0325)**
 
-Toyota Motor (NYSE:TM) is moving humanoid robots onto a factory floor in Canada. At the same time, billionaire entrepreneur Mark Cuban is openly questioning whether the entire idea has staying power. The contrast is hard to ignore. One of the world's largest automakers is scaling up real-world use, while a longtime tech investor is warning the trend could burn out within a decade. Toyota puts humanoid robots to work after a successful trial Last month, Agility Robotics said in a statement that T
+MIT engineers designed an ultrasound wristband that precisely tracks a wearer’s hand movements in real time and communicates the information to a robot or a virtual environment.
 
-Yahoo Finance • 20h ago
-
----
-
-**[Agile Robots becomes the latest robotics company to partner with Google DeepMind](https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/)**
-
-Agile Robots will incorporate Google DeepMind's robotics foundation models into its bots while collecting data for the AI research lab.
-
-TechCrunch • 22h ago
+MIT News • 1h ago
 
 ---
 
-**[Delivery Robot Drives Through Bus Stop Shelter, Shattering Glass Everywhere](https://www.404media.co/delivery-robot-drives-through-bus-stop-sh-shattering-glass-everywhere/)**
+**[Hyundai-backed humanoid robots to transform welding in shipyards](https://interestingengineering.com/ai-robotics/hyundai-persona-humanoid-robot-welding-shipyard)**
 
-A Serve Robotics robot crashed through a Chicago bus shelter.
+Hyundai partners Persona AI to develop humanoid welding robots, advancing automation across global shipyard operations
 
-404 Media • 17h ago
+Interesting Engineering • 17h ago
 
 ---
 
@@ -238,7 +240,7 @@ Robots are becoming ubiquitous in China, whether for industrial manufacturing, t
 
 📺 zhulongfeng 6
 
-👁️ 3K • 👍 31 • ⏱️ 0:23 • 9h ago
+👁️ 3K • 👍 31 • ⏱️ 0:23 • 10h ago
 
 ---
 
@@ -258,7 +260,7 @@ War Robots Gameplay: Machaira on Ultimate Typhon is Overpowered Damage My War Ro
 
 📺 Manni-Gaming
 
-👁️ 9K • 👍 487 • 💬 85 • ⏱️ 20:26 • 19h ago
+👁️ 9K • 👍 487 • 💬 85 • ⏱️ 20:26 • 20h ago
 
 ---
 
@@ -268,7 +270,7 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 317K • 👍 4K • 💬 3K • ⏱️ 2:07 • 5d ago
+👁️ 317K • 👍 4K • 💬 3K • ⏱️ 2:07 • 6d ago
 
 ---
 
@@ -288,7 +290,7 @@ THANK YOU SO MUCH for watching S3dV's Pacman!!! Music & Sound: Epidemic Sound I 
 
 📺 S3dV
 
-👁️ 6K • 👍 22 • 4h ago
+👁️ 6K • 👍 22 • 5h ago
 
 ---
 
