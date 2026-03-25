@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-25T04:32:39.416361+00:00'
+updated: '2026-03-25T06:02:33.946391+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - cryptocurrency
 - news
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 25, 2026 at 04:32 UTC  
+**Last Updated:** March 25, 2026 at 06:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** +1.2%  
-**30d:** +16.9%  
-**90d:** -26.2%  
-**1y:** +7.8%  
+**24h:** +0.2%  
+**7d:** +1.5%  
+**30d:** +17.2%  
+**90d:** -26.0%  
+**1y:** +8.1%  
 
 ---
 
@@ -68,11 +68,11 @@ No max supply
 
 ## Reddit: r/ethereum
 
-**[Thoughts on earning yield with ETH ?](https://www.reddit.com/r/ethereum/comments/1s2skh3/thoughts_on_earning_yield_with_eth/)**
+**[Daily General Discussion March 25, 2026](https://www.reddit.com/r/ethereum/comments/1s31irr/daily_general_discussion_march_25_2026/)**
 
-Been holding ETH for a while and looking into options for earning yield. Running a node seems cool but managing hardware and extra tokens feels like a lot. Liquid options are easier but then you're holding derivative tokens and trusting the protocol. Curious what path people are actually taking these days. Is the extra effort worth it or do you just hold?
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+1h ago
 
 ---
 
@@ -80,7 +80,7 @@ Been holding ETH for a while and looking into options for earning yield. Running
 
 V4 passed near-unanimously with their main shift from being a monolithic pool to modular vaults. Like Morpho's isolation but with Aave's liquidity depth. sUSDe and RWA yields get cleaner APY profiles because risk vectors aren't correlated anymore. This is DeFi infrastructure graduating from 'move fast break things' to 'TradFi complexity with better costs and could be a comeback for Aave against other lending market if implemented properly
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ V4 passed near-unanimously with their main shift from being a monolithic pool to
 
 I've always wanted to know more about the world of the unsung heroes in blockchain. Those, being the validators and miners. How do validators of various blockchains communicate? Is there a place where I can peek into their world, (if any exist) where I can submerge myself in how they think, what they find valuable, and generally ask a tonne of questions? I understand the answer will vary from ecosystem to ecosystem. But yes, please assist. Where can I find validator groups and communication channels, any common I can communicate with them. Thanks,
 
-4h ago
+6h ago
 
 ---
 
@@ -96,21 +96,13 @@ I've always wanted to know more about the world of the unsung heroes in blockcha
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
-
----
-
-**[Free 3 cents](https://www.reddit.com/r/ethereum/comments/1s30t9m/free_3_cents/)**
-
-Figured maybe someone could get a penny of this USDC after gas fees - there's only 3 cents of USDC on it. series speed shiver more expand sense wing torch human sketch pact forest 🤷‍♂️ deleting it from Trust Wallet now
-
-9m ago
+1d ago
 
 ---
 
 **[A new type of block explorer](https://www.reddit.com/r/ethereum/comments/1s2xqy2/a_new_type_of_block_explorer/)**
 
-2h ago
+4h ago
 
 ---
 
@@ -118,7 +110,7 @@ Figured maybe someone could get a penny of this USDC after gas fees - there's on
 
 Trying to get a realistic picture of where rollup deployment is right now, not the hype version. I've been reading through documentation for most of the major platforms and the gap between what they promise and what teams actually experience seems pretty significant based on forum posts and Discord convos. Specifically curious about a few things. How much does your framework choice actually constrain you after deployment? If you start on OP Stack and realize Arbitrum Orbit would've been better for your use case, how painful is that migration realistically? Also the maintenance burden question. Every platform promises "one-click deployment" but what does post-launch actually look like for the infra team? Are you constantly babysitting the thing or does it run without much intervention? Asking because I keep seeing projects underestimate this and then burn significant engineering time on infra that should be going to product. What's been everyone's experience?
 
-13h ago
+15h ago
 
 ---
 
@@ -132,7 +124,7 @@ Trying to get a realistic picture of where rollup deployment is right now, not t
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -144,6 +136,14 @@ An attacker minted $80M in unbacked USR stablecoins using just $200K, crashing t
 
 ---
 
+**[What do you actually use your ETH for besides trading/staking?](https://www.reddit.com/r/ethereum/comments/1s1aqfq/what_do_you_actually_use_your_eth_for_besides/)**
+
+Most conversations around ETH are about trading, staking yields, or long-term positioning. That’s fine, but I’m more interested in actual usage. Where does ETH realistically make sense outside of speculation? From what I’ve seen, it shows up most in DeFi, NFTs, and certain online services; but even then, gas fees can make smaller transactions feel inefficient. It’s not always obvious where ETH fits as something you use rather than just hold or lock up. I’ve experimented a bit with different use cases, mostly around digital services and entertainment. Some platforms are clearly designed with ETH in mind, while others just support it as an extra option without really optimizing the experience. A few setups, like Metaspins, seem to lean more into direct crypto usage, but even there it depends on fees, timing, and how smooth the process actually is. So I want to know. What are you using ETH for right now that feels practical, not just theoretical?
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -152,13 +152,13 @@ An attacker minted $80M in unbacked USR stablecoins using just $200K, crashing t
 
 Ethereum block builder Eureka Labs is introducing "programmable blocks," which add logic during block construction.
 
-The Block • 10h ago
+The Block • 12h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Rise. How the Iran War Has Made Crypto Calls Tougher.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqf_KHcAp7ChH8Aw1gc7w8gNXS4Ofp6AjFNJy6t1JmyfnyJdRNl5KzAi&gaa_ts=69c368d3&gaa_sig=EEjIGVdxW7P_W7N3hBmfDsSLDUdmLOAeTCWw79_48nJf9wS_Mdl_jDXbJCoH6WDqxJL4d2DieSVMpqxwFfJX6w%3D%3D)**
+**[Bitcoin, Ethereum, XRP Rise. How the Iran War Has Made Crypto Calls Tougher.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqcPryn0bcFx6sGAzOb8MLtkRhJfQ4p5lmoWNq2ReSpOcukWZXASvxgS&gaa_ts=69c37de3&gaa_sig=ejrAacVG6ZZxIJC1Utdz-P78F8-MqMR-L_rlOualIKHDjc_r2YRRBEUYu38zsPQNnzcCozv1Z2Si_5n2KdQROw%3D%3D)**
 
-Barron's • 16h ago
+Barron's • 18h ago
 
 ---
 
@@ -198,7 +198,7 @@ CoinDesk • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 14h ago
+Fortune • 16h ago
 
 ---
 
@@ -206,7 +206,7 @@ Fortune • 14h ago
 
 Ethereum is attempting to reclaim the $2,200 level as market participants react to recent moves by US President Donald Trump in the Middle East, developments that have introduced renewed volatility across global risk assets. The reaction reflects a broader sensitivity to geopolitical uncertainty, w…
 
-TradingView • 13h ago
+TradingView • 15h ago
 
 ---
 
@@ -222,7 +222,7 @@ The Motley Fool • 2d ago
 
 Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 7h ago
+Polymarket • 9h ago
 
 ---
 
@@ -236,7 +236,7 @@ You're not going to want to miss this INCREDIBLE Ether, technical analysis and i
 
 📺 Crypto Jebb
 
-👁️ 3K • 👍 195 • 💬 52 • ⏱️ 18:00 • 10h ago
+👁️ 3K • 👍 195 • 💬 52 • ⏱️ 18:00 • 11h ago
 
 ---
 
@@ -246,7 +246,7 @@ BMNR is quietly building one of the largest Ethereum treasuries in the world now
 
 📺 The Value Thinker
 
-👁️ 3K • 👍 280 • 💬 52 • ⏱️ 24:16 • 3h ago
+👁️ 3K • 👍 280 • 💬 52 • ⏱️ 24:16 • 5h ago
 
 ---
 
@@ -256,7 +256,7 @@ This video is not for everyone. If your income is below $10000/month — close i
 
 📺 Thomas Kralow
 
-👁️ 12K • 👍 2K • 💬 35 • ⏱️ 6:06 • 16h ago
+👁️ 12K • 👍 2K • 💬 35 • ⏱️ 6:06 • 18h ago
 
 ---
 
@@ -266,7 +266,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 Education 4u
 
-👁️ 2K • 👍 1 • ⏱️ 2:10 • 3h ago
+👁️ 2K • 👍 1 • ⏱️ 2:10 • 4h ago
 
 ---
 
@@ -286,7 +286,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 94 • 💬 6 • ⏱️ 3:30 • 14h ago
+👁️ 2K • 👍 94 • 💬 6 • ⏱️ 3:30 • 15h ago
 
 ---
 
@@ -296,7 +296,7 @@ BITCOIN PRICE TRAP: New Targets Revealed!!! - Bitcoin News Today, Ethereum & Alt
 
 📺 Crypto World
 
-👁️ 3K • 👍 204 • 💬 205 • ⏱️ 16:04 • 7h ago
+👁️ 3K • 👍 204 • 💬 205 • ⏱️ 16:04 • 8h ago
 
 ---
 
@@ -306,7 +306,7 @@ Free Ethereum in 2026 — myth or real opportunity? In this video, I run a real 
 
 📺 Leo Collins
 
-👁️ 7K • 👍 483 • 💬 491 • ⏱️ 4:16 • 15h ago
+👁️ 7K • 👍 483 • 💬 491 • ⏱️ 4:16 • 17h ago
 
 ---
 
