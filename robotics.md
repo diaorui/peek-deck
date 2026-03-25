@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-25T20:40:14.601523+00:00'
+updated: '2026-03-25T21:40:54.269124+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 25, 2026 at 20:40 UTC  
+**Last Updated:** March 25, 2026 at 21:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/2034708938269036686
 
-7h ago
+8h ago
 
 ---
 
 **[Figure 03 becomes the first humanoid robot to visit the White House](https://www.reddit.com/r/robotics/comments/1s3epc8/figure_03_becomes_the_first_humanoid_robot_to/)**
 
-4h ago
+5h ago
 
 ---
 
 **[“They are coming for our jobs..”](https://www.reddit.com/r/robotics/comments/1s3aomh/they_are_coming_for_our_jobs/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -56,7 +56,7 @@ From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/20347089382690366
 
 AI-driven robotic hand with 21+ DoF and sub-millimeter precision, capable of delicate tasks like threading and micro-assembly. Uses tendon-driven actuation and real-time feedback for high consistency in controlled environments.
 
-3h ago
+4h ago
 
 ---
 
@@ -64,7 +64,15 @@ AI-driven robotic hand with 21+ DoF and sub-millimeter precision, capable of del
 
 Earlier this month, Seoul's COEX hosted an event whose name said it all: the China Humanoid Conference, "First Journey to Korea." Unitree, Fourier, Leju and Hua
 
-🔗 [The Korea Herald](https://www.koreaherald.com/article/10698201) • 14h ago
+🔗 [The Korea Herald](https://www.koreaherald.com/article/10698201) • 15h ago
+
+---
+
+**[hobby robot](https://www.reddit.com/r/robotics/comments/1s3nzup/hobby_robot/)**
+
+Hi a hobby idea came to me randomly about making a robot arm i can control with a camera like the classic 2 prong type however i can control via a camera looking at my arm but didn't know how to do it and what i need. I already have a 3d printer so thought it wouldn't be too difficult however its hard to find a similar scenario.
+
+10m ago
 
 ---
 
@@ -80,7 +88,7 @@ KOU-III is a two-legged robot from Shandong University that combines walking wit
 
 We&rsquo;re announcing our March Meeting where we&rsquo;ll talk plugins!  &ldquo;An introduction to a beginner-friendly tutorial series that teaches how to create&hellip;
 
-🔗 [Vimeo](https://vimeo.com/1177012951?share=copy&fl=sv&fe=ci) • 3h ago
+🔗 [Vimeo](https://vimeo.com/1177012951?share=copy&fl=sv&fe=ci) • 4h ago
 
 ---
 
@@ -92,19 +100,11 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/203612736808808086
 
 ---
 
-**[Day-1/90 of Computer vision -](https://www.reddit.com/r/robotics/comments/1s3dbd5/day190_of_computer_vision/)**
-
-Starting a new 90 days mission.... will update daily progress GitHub projects later some stramlit apps fir computer vision some research paper implementation advanced projects ..and new research paper also
-
-5h ago
-
----
-
 **[Dynamixel Y series](https://www.reddit.com/r/robotics/comments/1s35kvh/dynamixel_y_series/)**
 
 Hello people! does anyone know of anywhere with dynamixel Y series in stock? looking for some larger ones for a project, or anyone have some (slightly) loved ones they might be looking to sell. apologies if this is inappropriate to post here!
 
-11h ago
+12h ago
 
 ---
 
@@ -116,7 +116,21 @@ Hello people! does anyone know of anywhere with dynamixel Y series in stock? loo
 
 Amazon has acquired Fauna Robotics, just under two months after the startup introduced a humanoid robot called Sprout designed for social spaces like homes and schools
 
-abcnews.com • 22h ago
+abcnews.com • 23h ago
+
+---
+
+**[Amazon acquires 'approachable' humanoid maker Fauna Robotics](https://www.cnbc.com/2026/03/24/amazon-humanoid-maker-fauna-robotics-sprout.html)**
+
+Fauna's first product, called Sprout, is a $50,000 bipedal robot that's 3 feet, 6 inches tall and designed to be "approachable and human-friendly."
+
+CNBC • 1d ago
+
+---
+
+**[Amazon Acquires Fauna Robotics, Entering Consumer Humanoid Market](https://www.bloomberg.com/news/articles/2026-03-24/amazon-acquires-fauna-robotics-entering-consumer-humanoid-market)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -128,35 +142,11 @@ Live Science • 1d ago
 
 ---
 
-**[3 robotics trends from NVIDIA GTC 2026](https://www.therobotreport.com/3-robotics-trends-from-nvidia-gtc-2026/)**
-
-Our reporter shares major AI and robotics takeaways from speakers and exhibitors at NVIDIA's GTC event in San Jose last week.
-
-The Robot Report • 9m ago
-
----
-
-**[Melania Trump brings an AI-powered robot to the White House — and says there could be more of them soon](https://www.cnn.com/2026/03/25/politics/melania-trump-ai-robot)**
-
-The storied White House East Room has welcomed politicians, foreign dignitaries, war heroes, celebrities and elite athletes, but on Wednesday, it was the setting for an extremely robotic speech introducing first lady Melania Trump.
-
-CNN • 3h ago
-
----
-
 **[Wristband enables wearers to control a robotic hand with their own movements](https://news.mit.edu/2026/wristband-enables-wearers-control-robotic-hand-with-own-movements-0325)**
 
 MIT engineers designed an ultrasound wristband that precisely tracks a wearer’s hand movements in real time and communicates the information to a robot or a virtual environment.
 
-MIT News • 10h ago
-
----
-
-**[OpenAI is scrapping the Sora app to chase bigger AI goals](https://www.businessinsider.com/openai-discontinues-sora-video-app-amid-robotics-shift-compute-limitations-2026-3)**
-
-A spokesperson for OpenAI said the discontinuation of Sora comes as the company plans to focus on robotics rather than generative imagery.
-
-Business Insider • 22h ago
+MIT News • 11h ago
 
 ---
 
@@ -164,7 +154,23 @@ Business Insider • 22h ago
 
 The robot belonging to Coco Robotics was spotted by a CBS News Chicago viewer near North Avenue and Halsted Street in Old Town on Tuesday afternoon.
 
-CBS News • 21h ago
+CBS News • 22h ago
+
+---
+
+**[OpenAI is scrapping the Sora app to chase bigger AI goals](https://www.businessinsider.com/openai-discontinues-sora-video-app-amid-robotics-shift-compute-limitations-2026-3)**
+
+A spokesperson for OpenAI said the discontinuation of Sora comes as the company plans to focus on robotics rather than generative imagery.
+
+Business Insider • 23h ago
+
+---
+
+**[Amazon Balances Home Robotics Ambition With AWS Conflict Zone Risks](https://finance.yahoo.com/markets/stocks/articles/amazon-balances-home-robotics-ambition-010607708.html)**
+
+Amazon.com (NasdaqGS:AMZN) agreed to acquire Fauna Robotics, signaling an entry into consumer humanoid robotics alongside its existing automation efforts. AWS experienced repeated and severe service disruptions in its Bahrain region, with outages linked to drone strikes connected to ongoing Middle East conflict. The disruptions triggered customer migrations and operational changes, raising fresh questions about cloud resiliency in higher risk geographies. For a company already active in...
+
+Yahoo Finance • 20h ago
 
 ---
 
@@ -178,15 +184,7 @@ Fast Company • 1d ago
 
 **[Billionaire Qatari Sheikh, Amazon Back Robotics Startup Neura](https://www.bloomberg.com/news/articles/2026-03-24/billionaire-qatari-sheikh-amazon-back-robotics-startup-neura)**
 
-Bloomberg.com • 13h ago
-
----
-
-**[Lucid Bots raises $20M to keep up with demand for its window-washing drones](https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/)**
-
-Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots.
-
-TechCrunch • 9h ago
+Bloomberg.com • 14h ago
 
 ---
 
@@ -194,73 +192,13 @@ TechCrunch • 9h ago
 
 ## YouTube Videos: "robotics"
 
-**[Figure 03 Humanoid Robot Speaks at the White House #robot #humanoidrobot  #robotics](https://www.youtube.com/watch?v=6z4q9yYHDVw)**
+**[First Lady Melania Trump walks with robot to White House event on children&#39;s technology](https://www.youtube.com/watch?v=7sHSBgU5p4Y)**
 
-The Figure 03 recently visited the White House, becoming the first AI-powered humanoid robot to do so. The bipedal AI robot ...
+A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White House summit on empowering children with ...
 
-📺 Kalil 4.0
+📺 C-SPAN
 
-👁️ 597 • 👍 29 • 💬 6 • ⏱️ 0:44 • 3h ago
-
----
-
-**[6 Robots You Can Build in 2026](https://www.youtube.com/watch?v=8smjYAsxAts)**
-
-Learn for free on Brilliant for a full 30 days: https://brilliant.org/NikodemBartnik/ . You'll also get 20% off an annual Premium ...
-
-📺 Nikodem Bartnik
-
-👁️ 14K • 👍 876 • 💬 27 • ⏱️ 9:55 • 1d ago
-
----
-
-**[Amazon Just Bought a Humanoid Robot Company… This Changes Everything](https://www.youtube.com/watch?v=jdoYFz7M90I)**
-
-Amazon just made a surprising move into humanoid robotics by acquiring Fauna Robotics, the company behind the Sprout robot.
-
-📺 DPCcars
-
-👁️ 268 • 👍 27 • 💬 3 • ⏱️ 3:18 • 5h ago
-
----
-
-**[China’s New AI Robots Just Broke The Human Skill Barrier](https://www.youtube.com/watch?v=QDRzgF-8-50)**
-
-This week in robotics got kind of ridiculous. South Korea showed off a humanoid that can run, jump, play soccer, and moonwalk, ...
-
-📺 AI Revolution
-
-👁️ 168K • 👍 2K • 💬 126 • ⏱️ 14:31 • 2d ago
-
----
-
-**[Apple Just Shocked Everyone with Its First Humanoid Robot iBot](https://www.youtube.com/watch?v=6UK0O6Gh0V8)**
-
-A wave of attention is building around a new concept from Apple that suggests the company may be exploring humanoid robotics ...
-
-📺 Carros Show
-
-👁️ 4K • 👍 91 • 💬 9 • ⏱️ 8:19 • 5d ago
-
----
-
-**[Why did this robot learn to play tennis? 🎾🤔 #trendingshorts #ai #robot #technology #research](https://www.youtube.com/watch?v=soLIijSEIKk)**
-
-Researchers from Tsinghua University and Chinese robotics company Galbot have trained humanoid robots to play tennis against ...
-
-📺 Rowan Cheung
-
-👁️ 52K • 👍 2K • 💬 54 • ⏱️ 1:10 • 5d ago
-
----
-
-**[Anyone can build one of these robot hands… 👀 #trendingshorts #robot #opensource #tech](https://www.youtube.com/watch?v=0qJwuyDf8rc)**
-
-This robotic hand costs less than $2000 and can be 3D printed in a single day. It also just ran autonomously for seven hours ...
-
-📺 Rowan Cheung
-
-👁️ 873K • 👍 40K • 💬 515 • ⏱️ 1:20 • 7d ago
+👁️ 16K • 👍 214 • 💬 314 • ⏱️ 2:59 • 6h ago
 
 ---
 
@@ -270,17 +208,67 @@ This robotic hand costs less than $2000 and can be 3D printed in a single day. I
 
 📺 RAI Institute
 
-👁️ 182K • 👍 6K • 💬 578 • ⏱️ 1:34 • 2d ago
+👁️ 207K • 👍 7K • 💬 629 • ⏱️ 1:34 • 2d ago
 
 ---
 
-**[NVIDIA Just Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=eIAF4CbbUWI)**
+**[Racing to Find the Best Robots at Nvidia GTC](https://www.youtube.com/watch?v=mFr7XfTY5bY)**
 
-Thanks to Delete Me for sponsoring this video. To keep your private info private check out https://www.JoinDeleteMe.com/Kimjava ...
+The robots at Nvidia GTC were showcasing strength, dexterity and the ability to work together on the same task. You can find the ...
 
-📺 Kim Java
+📺 CNET
 
-👁️ 53K • 👍 3K • 💬 147 • ⏱️ 20:00 • 1d ago
+👁️ 16K • 👍 453 • 💬 27 • ⏱️ 5:50 • 3d ago
+
+---
+
+**[Figure 03 Humanoid Robot Speaks at the White House #robot #humanoidrobot  #robotics](https://www.youtube.com/watch?v=6z4q9yYHDVw)**
+
+The Figure 03 recently visited the White House, becoming the first AI-powered humanoid robot to do so. The bipedal AI robot ...
+
+📺 Kalil 4.0
+
+👁️ 2K • 👍 80 • 💬 14 • ⏱️ 0:44 • 4h ago
+
+---
+
+**[China’s New AI Robots Just Broke The Human Skill Barrier](https://www.youtube.com/watch?v=QDRzgF-8-50)**
+
+This week in robotics got kind of ridiculous. South Korea showed off a humanoid that can run, jump, play soccer, and moonwalk, ...
+
+📺 AI Revolution
+
+👁️ 172K • 👍 2K • 💬 128 • ⏱️ 14:31 • 2d ago
+
+---
+
+**[6 Robots You Can Build in 2026](https://www.youtube.com/watch?v=8smjYAsxAts)**
+
+Learn for free on Brilliant for a full 30 days: https://brilliant.org/NikodemBartnik/ . You'll also get 20% off an annual Premium ...
+
+📺 Nikodem Bartnik
+
+👁️ 16K • 👍 957 • 💬 29 • ⏱️ 9:55 • 1d ago
+
+---
+
+**[China&#39;s humanoid robots move toward practical use](https://www.youtube.com/watch?v=-g7H28HvZQM)**
+
+Robots are becoming ubiquitous in China, whether for industrial manufacturing, to man a store counter, or direct traffic. According ...
+
+📺 ShanghaiEye魔都眼
+
+👁️ 33K • 👍 346 • 💬 112 • ⏱️ 1:29 • 1d ago
+
+---
+
+**[Engineering Disney’s Olaf Robot](https://www.youtube.com/watch?v=zi0xi_UwvBU)**
+
+How do you build a robot with a massive head, no visible legs, and motors that overheat? ❄️   Explaining the engineering ...
+
+📺 ZAUEY (Claire Zau)
+
+👁️ 184K • 👍 11K • 💬 270 • ⏱️ 2:09 • 3d ago
 
 ---
 
@@ -290,7 +278,17 @@ THIS is the hilarious moment a boogying robot dances too hard and sends food and
 
 📺 The Sun
 
-👁️ 320K • 👍 4K • 💬 3K • ⏱️ 2:07 • 6d ago
+👁️ 321K • 👍 4K • 💬 3K • ⏱️ 2:07 • 6d ago
+
+---
+
+**[Apple Just Shocked Everyone with Its First Humanoid Robot iBot](https://www.youtube.com/watch?v=6UK0O6Gh0V8)**
+
+A wave of attention is building around a new concept from Apple that suggests the company may be exploring humanoid robotics ...
+
+📺 Carros Show
+
+👁️ 4K • 👍 93 • 💬 9 • ⏱️ 8:19 • 5d ago
 
 ---
 
