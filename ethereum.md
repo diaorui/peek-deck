@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-25T09:55:46.450459+00:00'
+updated: '2026-03-25T10:50:55.933527+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
+- videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 25, 2026 at 09:55 UTC  
+**Last Updated:** March 25, 2026 at 10:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 V4 passed near-unanimously with their main shift from being a monolithic pool to modular vaults. Like Morpho's isolation but with Aave's liquidity depth. sUSDe and RWA yields get cleaner APY profiles because risk vectors aren't correlated anymore. This is DeFi infrastructure graduating from 'move fast break things' to 'TradFi complexity with better costs and could be a comeback for Aave against other lending market if implemented properly
 
-7h ago
+8h ago
 
 ---
 
@@ -88,7 +88,7 @@ V4 passed near-unanimously with their main shift from being a monolithic pool to
 
 I've always wanted to know more about the world of the unsung heroes in blockchain. Those, being the validators and miners. How do validators of various blockchains communicate? Is there a place where I can peek into their world, (if any exist) where I can submerge myself in how they think, what they find valuable, and generally ask a tonne of questions? I understand the answer will vary from ecosystem to ecosystem. But yes, please assist. Where can I find validator groups and communication channels, any common I can communicate with them. Thanks,
 
-10h ago
+11h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[A new type of block explorer](https://www.reddit.com/r/ethereum/comments/1s2xqy2/a_new_type_of_block_explorer/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Trying to get a realistic picture of where rollup deployment is right now, not the hype version. I've been reading through documentation for most of the major platforms and the gap between what they promise and what teams actually experience seems pretty significant based on forum posts and Discord convos. Specifically curious about a few things. How much does your framework choice actually constrain you after deployment? If you start on OP Stack and realize Arbitrum Orbit would've been better for your use case, how painful is that migration realistically? Also the maintenance burden question. Every platform promises "one-click deployment" but what does post-launch actually look like for the infra team? Are you constantly babysitting the thing or does it run without much intervention? Asking because I keep seeing projects underestimate this and then burn significant engineering time on infra that should be going to product. What's been everyone's experience?
 
-19h ago
+20h ago
 
 ---
 
@@ -118,7 +118,7 @@ Trying to get a realistic picture of where rollup deployment is right now, not t
 
 Been holding ETH for a while and thinking about staking. With 32 ETH still being the solo requirement, I'm looking at options like Rocket Pool or Lido, but I keep going back and forth. Running a node seems cool but hardware + 4 ETH + RPL feels like a lot to manage. Liquid staking is easier but then you're holding a derivative token and trusting the protocol. For people staking right now , what path did you take and how's it been? Is the hassle worth the yield or do you just stick to holding?
 
-11h ago
+12h ago
 
 ---
 
@@ -152,13 +152,13 @@ An attacker minted $80M in unbacked USR stablecoins using just $200K, crashing t
 
 Ethereum block builder Eureka Labs is introducing "programmable blocks," which add logic during block construction.
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
 **[Bitcoin, Ethereum, XRP Rise. How the Iran War Has Made Crypto Calls Tougher.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqcmeUv_fsBBx8Z3IqQMM3aEbeJ59JVjC8bwfjMeIXXYvJ_3OpFXxfMC&gaa_ts=69c3b483&gaa_sig=WgKOuYndwLh4PvbFZjIDEOgG8ORidYCdLggRr4i11HIoADnAAntA1VUoX8jRpNZwL3y1t4iPLcLz_OFV4I2q6Q%3D%3D)**
 
-Barron's • 22h ago
+Barron's • 23h ago
 
 ---
 
@@ -182,7 +182,7 @@ CoinDesk • 1d ago
 
 The company continued accumulating ether and remains the largest ETH treasury holder, followed by SharpLink and The Ether Machine.
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
@@ -190,7 +190,7 @@ The Block • 6h ago
 
 Until recently, crypto users mostly traded tokens or borrowed against them, often chasing high but unpredictable yields. But new tools are making it possible to lock in returns, even in a market known for big swings.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -198,7 +198,7 @@ CoinDesk • 17h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 20h ago
+Fortune • 21h ago
 
 ---
 
@@ -206,7 +206,7 @@ Fortune • 20h ago
 
 Ethereum is attempting to reclaim the $2,200 level as market participants react to recent moves by US President Donald Trump in the Middle East, developments that have introduced renewed volatility across global risk assets. The reaction reflects a broader sensitivity to geopolitical uncertainty, w…
 
-TradingView • 18h ago
+TradingView • 19h ago
 
 ---
 
@@ -236,7 +236,7 @@ You're not going to want to miss this INCREDIBLE Ether, technical analysis and i
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 206 • 💬 7 • ⏱️ 18:00 • 15h ago
+👁️ 4K • 👍 206 • 💬 7 • ⏱️ 18:00 • 16h ago
 
 ---
 
@@ -246,7 +246,7 @@ This video is not for everyone. If your income is below $10000/month — close i
 
 📺 Thomas Kralow
 
-👁️ 12K • 👍 2K • 💬 39 • ⏱️ 6:06 • 21h ago
+👁️ 12K • 👍 2K • 💬 39 • ⏱️ 6:06 • 22h ago
 
 ---
 
@@ -256,7 +256,7 @@ BMNR is quietly building one of the largest Ethereum treasuries in the world now
 
 📺 The Value Thinker
 
-👁️ 5K • 👍 386 • 💬 100 • ⏱️ 24:16 • 9h ago
+👁️ 5K • 👍 386 • 💬 100 • ⏱️ 24:16 • 10h ago
 
 ---
 
@@ -276,7 +276,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 685 • 💬 102 • ⏱️ 8:45 • 6h ago
+👁️ 3K • 👍 685 • 💬 102 • ⏱️ 8:45 • 7h ago
 
 ---
 
@@ -296,7 +296,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 96 • 💬 6 • ⏱️ 3:30 • 19h ago
+👁️ 2K • 👍 96 • 💬 6 • ⏱️ 3:30 • 20h ago
 
 ---
 
@@ -306,7 +306,7 @@ BITCOIN PRICE TRAP: New Targets Revealed!!! - Bitcoin News Today, Ethereum & Alt
 
 📺 Crypto World
 
-👁️ 4K • 👍 209 • 💬 171 • ⏱️ 16:04 • 12h ago
+👁️ 4K • 👍 209 • 💬 171 • ⏱️ 16:04 • 13h ago
 
 ---
 
@@ -326,7 +326,7 @@ Free Ethereum in 2026 — myth or real opportunity? In this video, I run a real 
 
 📺 Leo Collins
 
-👁️ 7K • 👍 483 • 💬 491 • ⏱️ 4:16 • 20h ago
+👁️ 7K • 👍 483 • 💬 491 • ⏱️ 4:16 • 21h ago
 
 ---
 

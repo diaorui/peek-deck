@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-25T09:55:46.453258+00:00'
+updated: '2026-03-25T10:50:55.936684+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 25, 2026 at 09:55 UTC  
+**Last Updated:** March 25, 2026 at 10:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Earlier this month, Seoul's COEX hosted an event whose name said it all: the China Humanoid Conference, "First Journey to Korea." Unitree, Fourier, Leju and Hua
 
-🔗 [The Korea Herald](https://www.koreaherald.com/article/10698201) • 4h ago
+🔗 [The Korea Herald](https://www.koreaherald.com/article/10698201) • 5h ago
 
 ---
 
@@ -44,7 +44,7 @@ Earlier this month, Seoul's COEX hosted an event whose name said it all: the Chi
 
 KOU-III is a two-legged robot from Shandong University that combines walking with drone-like rotors for extra balance and power. Inspired by how ostriches use their wings while running, the rotors help it jump higher, land softly, and stay stable on tough terrain.
 
-17h ago
+18h ago
 
 ---
 
@@ -68,7 +68,7 @@ From Marc Benioff on 𝕏: https://x.com/Benioff/status/2036252519308075219
 
 Hello people! does anyone know of anywhere with dynamixel Y series in stock? looking for some larger ones for a project, or anyone have some (slightly) loved ones they might be looking to sell. apologies if this is inappropriate to post here!
 
-50m ago
+1h ago
 
 ---
 
@@ -76,7 +76,7 @@ Hello people! does anyone know of anywhere with dynamixel Y series in stock? loo
 
 I have this lidar from one of my robo vacuum cleaner DEEBOT Y1 PRO. I want to use this lidar for my project. I want to connect it to rpi zero 2w can someone explain me how to identify the connections as I have already searched the web and not getting any proper results.
 
-18h ago
+19h ago
 
 ---
 
@@ -84,7 +84,7 @@ I have this lidar from one of my robo vacuum cleaner DEEBOT Y1 PRO. I want to us
 
 It is easy to observe that human are generally predictable in terms of their actions and uncertainty, whereas humanoid robots are more unpredictable. This raises an important question for long-video understanding: what kinds of challenges arise when using humanoid-robot videos. For example, when we generate questions from such videos, VLMs may struggle to identify the correct answers because humanoid robot actions are unpredictable. I mean where foundational models will fail to predict the answer when provide humanoid robot video?
 
-2h ago
+3h ago
 
 ---
 
@@ -92,7 +92,7 @@ It is easy to observe that human are generally predictable in terms of their act
 
 I heard some people talking about how wheel-legs are superior for robots who operate off-road. But does it holds true to wetlands? like swamps, marshlands, bogs, mangrooves, etc. Capabilities that a robot would need at minimun to operate in wetlands (in my opinion): Have low ground pressure, preferably below 6 psi; able to move on soft mud; be amphibious; have good grip in soft wet ground. Can a wheel-legged robot have those capabilities? My biggest problem with wheel-legs is that I don't see them being able to have a very low ground pressure. Traditional legs can just have duck-like feet. Grip in soft wet grounds is a problem too. But I don't know, I'm a biologist who likes wetlands, not a engineer, so that is why I'm asking.
 
-4h ago
+5h ago
 
 ---
 
@@ -100,7 +100,7 @@ I heard some people talking about how wheel-legs are superior for robots who ope
 
 I have a 6DOF toy robot arm and i want to be able to control the joints with a microcontroller. How can i do this since it uses a dc motor with and can only move forwards and backwards so far
 
-20h ago
+21h ago
 
 ---
 
@@ -118,7 +118,7 @@ I have a 6DOF toy robot arm and i want to be able to control the joints with a m
 
 Fauna's first product, called Sprout, is a $50,000 bipedal robot that's 3 feet, 6 inches tall and designed to be "approachable and human-friendly."
 
-CNBC • 12h ago
+CNBC • 13h ago
 
 ---
 
@@ -126,7 +126,7 @@ CNBC • 12h ago
 
 Why Boston Dynamics, Terabase Energy, Lucid Bots, and Symbotic are among Fast Company's Most Innovative Companies in robotics and engineering for 2026.
 
-Fast Company • 22h ago
+Fast Company • 23h ago
 
 ---
 
@@ -134,13 +134,13 @@ Fast Company • 22h ago
 
 Modular robots are easily expandable, know when they're upside down or stuck, and can march forward across all kinds of terrain.
 
-Live Science • 18h ago
+Live Science • 19h ago
 
 ---
 
 **[Billionaire Qatar Sheikh, Amazon Back Robotics Startup Neura](https://www.bloomberg.com/news/articles/2026-03-24/billionaire-qatari-sheikh-amazon-back-robotics-startup-neura)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -148,7 +148,7 @@ Bloomberg.com • 2h ago
 
 A spokesperson for OpenAI said the discontinuation of Sora comes as the company plans to focus on robotics rather than generative imagery.
 
-Business Insider • 11h ago
+Business Insider • 12h ago
 
 ---
 
@@ -156,7 +156,7 @@ Business Insider • 11h ago
 
 The robot belonging to Coco Robotics was spotted by a CBS News Chicago viewer near North Avenue and Halsted Street in Old Town on Tuesday afternoon.
 
-CBS News • 10h ago
+CBS News • 11h ago
 
 ---
 
@@ -170,7 +170,7 @@ Tech Xplore • 1d ago
 
 Toyota Motor (NYSE:TM) is moving humanoid robots onto a factory floor in Canada. At the same time, billionaire entrepreneur Mark Cuban is openly questioning whether the entire idea has staying power. The contrast is hard to ignore. One of the world's largest automakers is scaling up real-world use, while a longtime tech investor is warning the trend could burn out within a decade. Toyota puts humanoid robots to work after a successful trial Last month, Agility Robotics said in a statement that T
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 19h ago
 
 Agile Robots will incorporate Google DeepMind's robotics foundation models into its bots while collecting data for the AI research lab.
 
-TechCrunch • 21h ago
+TechCrunch • 22h ago
 
 ---
 
@@ -186,7 +186,7 @@ TechCrunch • 21h ago
 
 A Serve Robotics robot crashed through a Chicago bus shelter.
 
-404 Media • 16h ago
+404 Media • 17h ago
 
 ---
 
@@ -230,7 +230,7 @@ Robots are becoming ubiquitous in China, whether for industrial manufacturing, t
 
 📺 ShanghaiEye魔都眼
 
-👁️ 18K • 👍 246 • 💬 67 • ⏱️ 1:29 • 23h ago
+👁️ 18K • 👍 246 • 💬 67 • ⏱️ 1:29 • 1d ago
 
 ---
 
@@ -258,7 +258,7 @@ War Robots Gameplay: Machaira on Ultimate Typhon is Overpowered Damage My War Ro
 
 📺 Manni-Gaming
 
-👁️ 9K • 👍 487 • 💬 85 • ⏱️ 20:26 • 18h ago
+👁️ 9K • 👍 487 • 💬 85 • ⏱️ 20:26 • 19h ago
 
 ---
 
@@ -288,7 +288,7 @@ THANK YOU SO MUCH for watching S3dV's Pacman!!! Music & Sound: Epidemic Sound I 
 
 📺 S3dV
 
-👁️ 6K • 👍 22 • 3h ago
+👁️ 6K • 👍 22 • 4h ago
 
 ---
 
