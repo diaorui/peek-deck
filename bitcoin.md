@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-25T17:35:27.542119+00:00'
+updated: '2026-03-25T18:57:07.485986+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 25, 2026 at 17:35 UTC  
+**Last Updated:** March 25, 2026 at 18:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,132.00
+### $70,843.46
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.1%  
-**7d:** +1.4%  
-**30d:** +10.9%  
-**90d:** -18.7%  
-**1y:** -18.3%  
+**24h:** +2.0%  
+**7d:** +1.1%  
+**30d:** +10.5%  
+**90d:** -19.0%  
+**1y:** -18.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1416.71B
+**Market Cap:** $1418.54B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
@@ -64,7 +64,7 @@ Rank #1
 -43.8%
 
 **All-Time Low:** $67.81
-+104473.1%
++104477.5%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 France has often framed crypto as a form of “unproductive wealth” basically something speculative, not especially useful to the real economy and that’s even more striking when you consider that crypto gains for individuals in France are generally taxed at a 30% flat rate And yet Macron is now attending Paris Blockchain Week this April At first glance, that sounds inconsistent. But I think both positions can coexist My read is that France may still be skeptical of crypto as a speculative asset, while recognizing that blockchain infrastructure, tokenization, stablecoins, digital identity and onchain finance are becoming too important to ignore I feel like this is less about France suddenly being pro-crypto, and more about France not wanting to be late on a sector that could become strategic What do you think? A real turning point, or just a PR move?
 
-4h ago
+6h ago
 
 ---
 
@@ -89,7 +89,7 @@ France has often framed crypto as a form of “unproductive wealth” basically 
 
 I'm looking for a cold wallet there are so many out there but not sure which one to get i plan to store bitcoin, some alt coins and memecoins. Any suggestions on which is a good one
 
-6h ago
+7h ago
 
 ---
 
@@ -105,7 +105,7 @@ In the US over the last 55 years, the number of homes doubled from 70 million to
 
 Bitcoin does not escape material reality. It is secured by it. If the energy crisis moves beyond oil and gas and reaches electricity itself, the real question is no longer whether Bitcoin is bullish or bearish, but whether it remains structurally credible under pressure. What follows is not a market call, but a systems analysis of where the pressure would land first, what would actually weaken, and what might become more relevant precisely because the surrounding system is becoming more constrained.
 
-🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/when-the-energy-crisis-reaches-electricity) • 4h ago
+🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/when-the-energy-crisis-reaches-electricity) • 6h ago
 
 ---
 
@@ -113,7 +113,15 @@ Bitcoin does not escape material reality. It is secured by it. If the energy cri
 
 https://youtube.com/shorts/J5ESZr3_pE8
 
-3h ago
+4h ago
+
+---
+
+**[just bought my first 20$ worth of Bitcoin.. and scheduled a weekly 10$ to be bought.](https://www.reddit.com/r/Bitcoin/comments/1s38jbs/just_bought_my_first_20_worth_of_bitcoin_and/)**
+
+i have no idea of what i’m doing.. i just felt like it.. is it a good time to start this?
+
+7h ago
 
 ---
 
@@ -121,15 +129,7 @@ https://youtube.com/shorts/J5ESZr3_pE8
 
 thing about bitcoin is, that it already is, and almost instantly had, a global reaching market, a currency bought with all kinds of different currencies or assets, on markets which, in comparison, almost seem outdatet, in need of resourcement.
 
-5h ago
-
----
-
-**[Most People Can’t HODL. Not Because It’s Hard, But Because They Don’t Understand It](https://www.reddit.com/r/Bitcoin/comments/1s389lc/most_people_cant_hodl_not_because_its_hard_but/)**
-
-Most people think HODL is just “buy and wait,” but that’s the surface level. The reality is most fail because they don’t understand what they’re holding, no fundamentals, no conviction, just hype. When volatility hits, that lack of understanding turns into panic selling. Real HODLing requires clarity on the asset, belief backed by research, and the discipline to sit through drawdowns without reacting emotionally.
-
-5h ago
+6h ago
 
 ---
 
@@ -137,15 +137,15 @@ Most people think HODL is just “buy and wait,” but that’s the surface leve
 
 Going through files on a forgotten machine at work. Former admin kept a personal diary in txt files dated 2011-2019. This is from June 2011.
 
-19h ago
+20h ago
 
 ---
 
-**[For people using self custody, how do you actually spend crypto in real life?](https://www.reddit.com/r/Bitcoin/comments/1s31qag/for_people_using_self_custody_how_do_you_actually/)**
+**[Most People Can’t HODL. Not Because It’s Hard, But Because They Don’t Understand It](https://www.reddit.com/r/Bitcoin/comments/1s389lc/most_people_cant_hodl_not_because_its_hard_but/)**
 
-I have been trying to figure this out lately. What do you do in real life when you want to spend money that you mostly keep in self-custody? Do you usually move it to an exchange first and change it to fiat, or do you use a card or some other way? I get why people want to keep their money in their own hands for control, but it seems like there are always extra steps when it comes to using the money. I'm interested in how people do this in real life without making things too hard or losing too much ease.
+Most people think HODL is just “buy and wait,” but that’s the surface level. The reality is most fail because they don’t understand what they’re holding, no fundamentals, no conviction, just hype. When volatility hits, that lack of understanding turns into panic selling. Real HODLing requires clarity on the asset, belief backed by research, and the discipline to sit through drawdowns without reacting emotionally.
 
-12h ago
+7h ago
 
 ---
 
@@ -153,7 +153,7 @@ I have been trying to figure this out lately. What do you do in real life when y
 
 Hey everyone, I’d like to introduce you to the project I’m currently building in the DACH region—with a clear goal: to make Bitcoin adoption practical and easy for small and medium-sized enterprises (SMEs). Many of you are familiar with the situation: Entrepreneurs find Bitcoin exciting—but often get stuck on the same hurdles. Legal uncertainty. Tax issues. Technical hurdles. This is exactly where I come in: I’ve been working for months on a viable implementation model for SMEs that rests on several pillars: – in-depth legal and tax research, – technical testing with various tools, – documentation of real-world pilot projects, – a framework for ongoing updates in response to regulatory and technical changes, – building a stable information and networking space. This work has resulted in a practical handbook, the “BITCOIN ONBOARDING GUIDE for SMEs,” which provides guidance to entrepreneurs—not a white paper, but real-world implementation. An example that shows what’s possible: Mario, a canyoning guide from Austria, already accepts Bitcoin payments for his tours (👉 erlebenplus.at). He is one of the pioneers demonstrating that acceptance is often easier than one thinks—and that early adopters not only secure financial sovereignty but also unlock new target groups and marketing opportunities. - The ongoing work on this project is a long-term endeavor and is initially funded through supporting memberships and crowdfunding. This lays the foundation for independent, continuous development, exchange, and sharing of expertise. The website will launch shortly—featuring information about the handbook, the network, and opportunities to become a pilot partner yourself. We’d like to have an open discussion on this topic: What might genuine Bitcoin adoption look like in everyday business—beyond ideology, but with a forward-looking approach? Feedback, ideas, critical questions, or real-world experience reports are absolutely welcome. Stay sovereign ⚡ (Website link to follow upon launch.) https://preview.redd.it/c591uwc2z5rg1.jpg?width=768&format=pjpg&auto=webp&s=9a4f589c7b76b2a93632dcd0c37d6e5d7e708cc9
 
-7h ago
+8h ago
 
 ---
 
@@ -161,11 +161,11 @@ Hey everyone, I’d like to introduce you to the project I’m currently buildin
 
 ## Google News: "bitcoin"
 
-**[Best Cryptocurrencies to Buy Before the Next Bitcoin Halving](https://www.fool.com/investing/2026/03/25/best-cryptocurrencies-to-buy-before-the-next-bitco/)**
+**[Better Buy: Bitcoin vs. XRP](https://www.fool.com/investing/2026/03/25/better-buy-bitcoin-vs-xrp/)**
 
-If history is any guide, it's time to start buying these bargain-priced cryptocurrencies before the Bitcoin halving in 2028.
+Which beaten-down crypto is the better buy right now? Two Motley Fool contributors make their cases for Bitcoin and XRP.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -173,31 +173,15 @@ The Motley Fool • 5h ago
 
 Bitcoin options worth billions of dollars will expire this Friday at 8:00 UTC.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
-**[Bitcoin's 'Final Discount' Window Approaching, Says Analyst, Flags Buy Zone Between These Levels](https://finance.yahoo.com/markets/crypto/articles/bitcoins-final-discount-window-approaching-153108904.html)**
+**['Bitcoin Will Help Preserve Dollar Dominance,' Coinbase CEO Brian Armstrong Says As U.S. Debt Reaches Record $39T](https://finance.yahoo.com/markets/crypto/articles/bitcoin-help-preserve-dollar-dominance-183408119.html)**
 
-An influential cryptocurrency analyst spotted on Monday a “golden entry window” for Bitcoin, serving as a launchpad for a new 4-year cycle. ‘Countdown To The Next Bitcoin Vertical Move’ In an X post, Ali Martinez stated that Bitcoin is nearing...
+Bitcoin provides good competition for the U.S. dollar as the country’s national debt sets a new record, Coinbase (NASDAQ:COIN) CEO Brian Armstrong has said. "Bitcoin is a check and balance on inflation," Armstrong said on March 20 on X, reacting...
 
-Yahoo Finance • 2h ago
-
----
-
-**[Morgan Stanley Moves Closer to Bitcoin ETF Launch With NYSE Listing Announcement](https://bitcoinmagazine.com/news/morgan-stanley-moves-closer-to-bitcoin)**
-
-Morgan Stanley’s spot Bitcoin ETF, MSBT, nears launch with an NYSE listing, offering direct bitcoin exposure through brokerage accounts.
-
-Bitcoin Magazine • 47m ago
-
----
-
-**[Bitcoin Is Down Around 20% in 2026. Here's Why Things Could Still Get Worse for the Cryptocurrency](https://www.fool.com/investing/2026/03/25/bitcoin-is-down-20-in-2026-heres-why-things-could/)**
-
-Without favorable crypto reform and lower interest rates, Bitcoin's value could plummet even further this year.
-
-The Motley Fool • 21m ago
+Yahoo Finance • 22m ago
 
 ---
 
@@ -205,13 +189,23 @@ The Motley Fool • 21m ago
 
 A bitcoin mining company plans to install servers in Dubuque County, a move backed by the local economic development corporation.
 
-KCRG • 18h ago
+KCRG • 19h ago
 
 ---
 
-**[Bitcoin’s Institutional Shift Drives Bernstein’s $150,000 Call](https://www.bloomberg.com/news/articles/2026-03-24/bitcoin-s-institutional-shift-drives-bernstein-s-150-000-call)**
+**[This $60 Bitcoin miner is like having a slot machine on your desk](https://www.popsci.com/sponsored-content/this-bitcoin-miner-is-like-having-a-slot-machine-on-your-desk-sponsored-deal/)**
 
-Bloomberg.com • 1d ago
+Most people assume mining means loud machines, high power bills, and a setup that takes an entire room, but this sits quietly on your desk.
+
+Popular Science • 5h ago
+
+---
+
+**[Cipher Digital Stock Pops as Firm Bolsters Shift From Bitcoin Mining With 15-Year Data Center Deal](https://finance.yahoo.com/markets/stocks/articles/cipher-digital-stock-pops-firm-145903517.html)**
+
+Cipher Digital revealed a 15-year lease deal and a $200 million revolving credit facility, continuing its shift away from Bitcoin mining.
+
+Yahoo Finance • 3h ago
 
 ---
 
@@ -219,21 +213,27 @@ Bloomberg.com • 1d ago
 
 Bhutan transferred 519.7 BTC, worth $36.75 million, to two wallets on Wednesday, according to Arkham data.
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
-**[Bitcoin steadies above $71,000 as oil falls below $100 after U.S. drafts 15‑point Iran peace plan](https://www.coindesk.com/markets/2026/03/25/bitcoin-steadies-above-usd71-000-as-oil-drops-below-usd100-on-u-s-15-point-plan-to-end-iran-war)**
+**[Current price of Bitcoin for March 24, 2026](https://fortune.com/article/price-of-bitcoin-03-24-2026/)**
 
-Brent crude fell 4.7% and Asian equities rallied 1.9% as Washington delivered a ceasefire proposal to Tehran via Pakistan, fueling the most sustained optimism since the conflict began a month ago.
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-CoinDesk • 11h ago
+Fortune • 1d ago
 
 ---
 
-**[Bitcoin price today: edges up above $71k amid conflicting Iran war signals](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-edges-up-above-71k-amid-conflicting-iran-war-signals-4579031)**
+**[US’s Mysterious $15 Billion Crypto Haul Faces Questions in Court](https://www.bloomberg.com/news/articles/2026-03-24/us-s-mysterious-15-billion-crypto-haul-faces-questions-in-court)**
 
-Investing.com • 10h ago
+Bloomberg.com • 1d ago
+
+---
+
+**[MSTR Stock: Strategy Eyes $58 Billion Bitcoin War Chest. Be Skeptical.](https://www.investors.com/news/mstr-stock-strategy-58-billion-bitcoin-war-chest/)**
+
+Investor's Business Daily • 1d ago
 
 ---
 
@@ -245,7 +245,7 @@ Investing.com • 10h ago
 
 Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in. Proof that works without us.
 
-⬆️ 8 • 💬 1 • 6d ago • [Umarise](https://umarise.com/blog/proof-of-existence)
+⬆️ 8 • 💬 0 • 6d ago • [Umarise](https://umarise.com/blog/proof-of-existence)
 
 ---
 
@@ -261,7 +261,7 @@ Difficulty is now nearly 10% below where it started the year, despite a sharp 14
 
 Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes were hidden in lost fishing rod case
 
-⬆️ 2 • 💬 1 • 18h ago • [The Irish Times](https://www.irishtimes.com/crime-law/2026/03/24/gardai-seize-bitcoin-valued-at-30m-in-cab-operation-supported-by-europol/)
+⬆️ 2 • 💬 1 • 20h ago • [The Irish Times](https://www.irishtimes.com/crime-law/2026/03/24/gardai-seize-bitcoin-valued-at-30m-in-cab-operation-supported-by-europol/)
 
 ---
 
@@ -313,23 +313,23 @@ Facebook really hopes your kids will play Grow A Garden via its terrible phone-b
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin: Preparing for the Next Leg Down](https://www.youtube.com/watch?v=yBJDk4a0e24)**
-
-In this video, we take a data-driven look at Bitcoin as it shows signs of preparing for another leg lower. Rather than relying on ...
-
-📺 Benjamin Cowen
-
-👁️ 64K • 👍 5K • 💬 309 • ⏱️ 17:16 • 14h ago
-
----
-
 **[This Signal Says Bitcoin&#39;s Bottom Is In](https://www.youtube.com/watch?v=bJM_2AIU3kY)**
 
 Markets are unstable, but Bitcoin may be quietly setting up for its next major move. As defaults rise and traditional collateral ...
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 83 • ⏱️ 12:39 • 19h ago
+👁️ 21K • 👍 1K • 💬 88 • ⏱️ 12:39 • 20h ago
+
+---
+
+**[Bitcoin: Preparing for the Next Leg Down](https://www.youtube.com/watch?v=yBJDk4a0e24)**
+
+In this video, we take a data-driven look at Bitcoin as it shows signs of preparing for another leg lower. Rather than relying on ...
+
+📺 Benjamin Cowen
+
+👁️ 74K • 👍 5K • 💬 335 • ⏱️ 17:16 • 15h ago
 
 ---
 
@@ -339,17 +339,17 @@ Everyone thinks they understand Bitcoin... but they don't. Because if Bitcoin is
 
 📺 Casual Finance
 
-👁️ 50K • 👍 3K • 💬 994 • ⏱️ 9:55 • 1d ago
+👁️ 53K • 👍 4K • 💬 1K • ⏱️ 9:55 • 1d ago
 
 ---
 
-**[The Turning Point for Bitcoin Is Here](https://www.youtube.com/watch?v=ew4nk3VJKq0)**
+**[$7 TRILLION Is Leaving Gold (Bitcoin Is The Only Exit)](https://www.youtube.com/watch?v=EasqxUjVu3A)**
 
-Stop Guessing - Ask Clash (beta) ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ...
+Gold just entered a bear market during geopolitical chaos while Bitcoin held steady. That should make you rethink everything you ...
 
-📺 CryptosRUs
+📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 168 • ⏱️ 39:00 • 1d ago
+👁️ 13K • 👍 1K • 💬 68 • ⏱️ 13:19 • 1d ago
 
 ---
 
@@ -359,27 +359,17 @@ Stop Guessing - Ask Clash (beta) ▻ https://www.askclash.ai/ Make FREE Crypto P
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 954 • 💬 222 • ⏱️ 8:27 • 16h ago
+👁️ 17K • 👍 958 • 💬 222 • ⏱️ 8:27 • 17h ago
 
 ---
 
-**[Crypto Hodlers - There is a PROBLEM here](https://www.youtube.com/watch?v=168U_HgSago)**
+**[5 Days Until Global Collapse and Bitcoin Just Flipped Green!](https://www.youtube.com/watch?v=I7OlEZPKO-s)**
 
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Buy, Sell, Trade on Weex ($500 Bonus): ...
+Nobody knows how screwed everyone actually is right now. Not Iran. Not the Gulf. Everyone. The IEA chief just said this crisis is ...
 
-📺 Altcoin Daily
+📺 Simply Bitcoin
 
-👁️ 35K • 👍 2K • 💬 104 • ⏱️ 9:19 • 18h ago
-
----
-
-**[Crypto Chart Shocker! Watch This BEFORE You Buy BTC, SOL, or XRP! Institutional Analysis](https://www.youtube.com/watch?v=HJtVftVOiyU)**
-
-Are we rocketing to $85000, or is a massive crypto market rollover looming on the horizon? In this highly anticipated market ...
-
-📺 Gareth Soloway
-
-👁️ 81K • 👍 5K • 💬 338 • ⏱️ 12:29 • 1d ago
+👁️ 24K • 👍 2K • 💬 202 • ⏱️ 15:05 • 1d ago
 
 ---
 
@@ -389,17 +379,7 @@ Stop waiting for Bitcoin to break out. Because by the time it does… it's alrea
 
 📺 Tim Talks Finance
 
-👁️ 4K • 👍 256 • 💬 33 • ⏱️ 13:57 • 23h ago
-
----
-
-**[DO NOT BELIEVE HEADLINES — BITCOIN IS GOING LOWER...](https://www.youtube.com/watch?v=H7b6cFuIxBY)**
-
-TOOBIT — DEPOSIT & UNLOCK UP TO 30,000 USDT DEPOSIT BONUS! Limited spots ...
-
-📺 100XClub
-
-👁️ 6K • 👍 781 • 💬 200 • ⏱️ 10:56 • 7h ago
+👁️ 4K • 👍 264 • 💬 35 • ⏱️ 13:57 • 1d ago
 
 ---
 
@@ -409,7 +389,27 @@ Nick Valdez has a warning,,, don't let the 10-Year Treasury FOOL you! What are t
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 163 • 💬 17 • ⏱️ 7:18 • 16h ago
+👁️ 3K • 👍 168 • 💬 17 • ⏱️ 7:18 • 17h ago
+
+---
+
+**[DO NOT BELIEVE HEADLINES — BITCOIN IS GOING LOWER...](https://www.youtube.com/watch?v=H7b6cFuIxBY)**
+
+TOOBIT — DEPOSIT & UNLOCK UP TO 30,000 USDT DEPOSIT BONUS! Limited spots ...
+
+📺 100XClub
+
+👁️ 7K • 👍 848 • 💬 236 • ⏱️ 10:56 • 8h ago
+
+---
+
+**[🚨 SELL BITCOIN BUY $STRC RIGHT NOW?!?!?!?! 🚀](https://www.youtube.com/watch?v=8FUQ_cGK0BU)**
+
+Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
+
+📺 BRITISH HODL
+
+👁️ 13K • 👍 985 • 💬 223 • ⏱️ 11:36 • 23h ago
 
 ---
 

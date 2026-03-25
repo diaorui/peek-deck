@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-25T17:35:27.551655+00:00'
+updated: '2026-03-25T18:57:07.495031+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 25, 2026 at 17:35 UTC  
+**Last Updated:** March 25, 2026 at 18:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/2034708938269036686
 
-4h ago
-
----
-
-**[“They are coming for our jobs..”](https://www.reddit.com/r/robotics/comments/1s3aomh/they_are_coming_for_our_jobs/)**
-
-4h ago
+6h ago
 
 ---
 
 **[Figure 03 becomes the first humanoid robot to visit the White House](https://www.reddit.com/r/robotics/comments/1s3epc8/figure_03_becomes_the_first_humanoid_robot_to/)**
 
-1h ago
+3h ago
+
+---
+
+**[“They are coming for our jobs..”](https://www.reddit.com/r/robotics/comments/1s3aomh/they_are_coming_for_our_jobs/)**
+
+5h ago
 
 ---
 
@@ -56,7 +56,7 @@ From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/20347089382690366
 
 AI-driven robotic hand with 21+ DoF and sub-millimeter precision, capable of delicate tasks like threading and micro-assembly. Uses tendon-driven actuation and real-time feedback for high consistency in controlled environments.
 
-48m ago
+2h ago
 
 ---
 
@@ -64,7 +64,7 @@ AI-driven robotic hand with 21+ DoF and sub-millimeter precision, capable of del
 
 Earlier this month, Seoul's COEX hosted an event whose name said it all: the China Humanoid Conference, "First Journey to Korea." Unitree, Fourier, Leju and Hua
 
-🔗 [The Korea Herald](https://www.koreaherald.com/article/10698201) • 11h ago
+🔗 [The Korea Herald](https://www.koreaherald.com/article/10698201) • 13h ago
 
 ---
 
@@ -80,7 +80,7 @@ KOU-III is a two-legged robot from Shandong University that combines walking wit
 
 We&rsquo;re announcing our March Meeting where we&rsquo;ll talk plugins!  &ldquo;An introduction to a beginner-friendly tutorial series that teaches how to create&hellip;
 
-🔗 [Vimeo](https://vimeo.com/1177012951?share=copy&fl=sv&fe=ci) • 10m ago
+🔗 [Vimeo](https://vimeo.com/1177012951?share=copy&fl=sv&fe=ci) • 1h ago
 
 ---
 
@@ -88,7 +88,7 @@ We&rsquo;re announcing our March Meeting where we&rsquo;ll talk plugins!  &ldquo
 
 hi guys, so i started 3d modeling this to help the robotics and electronics communities and im posting them no maker world, i design things for Arduino, Raspberry pi, components and my own projects. i wanted to ask what things you would like to see designed and posted so i can do that please dont downvote im just trying to get ideas for things to post to help the community, here is my page if you would like to check it out: https://makerworld.com/en/@andrewgr1234 thank you!
 
-7h ago
+8h ago
 
 ---
 
@@ -104,7 +104,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/203612736808808086
 
 Starting a new 90 days mission.... will update daily progress GitHub projects later some stramlit apps fir computer vision some research paper implementation advanced projects ..and new research paper also
 
-2h ago
+3h ago
 
 ---
 
@@ -116,7 +116,7 @@ Starting a new 90 days mission.... will update daily progress GitHub projects la
 
 Amazon has acquired Fauna Robotics, just under two months after the startup introduced a humanoid robot called Sprout designed for social spaces like homes and schools
 
-abcnews.com • 18h ago
+abcnews.com • 20h ago
 
 ---
 
@@ -124,13 +124,13 @@ abcnews.com • 18h ago
 
 Fauna's first product, called Sprout, is a $50,000 bipedal robot that's 3 feet, 6 inches tall and designed to be "approachable and human-friendly."
 
-CNBC • 20h ago
+CNBC • 21h ago
 
 ---
 
 **[Amazon Acquires Fauna Robotics, Entering Consumer Humanoid Market](https://www.bloomberg.com/news/articles/2026-03-24/amazon-acquires-fauna-robotics-entering-consumer-humanoid-market)**
 
-Bloomberg.com • 22h ago
+Bloomberg.com • 23h ago
 
 ---
 
@@ -142,19 +142,11 @@ Live Science • 1d ago
 
 ---
 
-**[Basler and Orbbec partner for 3D vision systems for mobile robots](https://www.therobotreport.com/basler-orbbec-partner-3d-vision-systems-mobile-robots/)**
-
-Orbbec and Basler unveiled at LogiMAT the Stereo mini, which combines 3D cameras and computer vision for logistics and other applications.
-
-The Robot Report • 3h ago
-
----
-
 **[Wristband enables wearers to control a robotic hand with their own movements](https://news.mit.edu/2026/wristband-enables-wearers-control-robotic-hand-with-own-movements-0325)**
 
 MIT engineers designed an ultrasound wristband that precisely tracks a wearer’s hand movements in real time and communicates the information to a robot or a virtual environment.
 
-MIT News • 7h ago
+MIT News • 8h ago
 
 ---
 
@@ -162,15 +154,7 @@ MIT News • 7h ago
 
 A spokesperson for OpenAI said the discontinuation of Sora comes as the company plans to focus on robotics rather than generative imagery.
 
-Business Insider • 19h ago
-
----
-
-**[Second delivery robot crashes into bus shelter, this time in Old Town](https://www.cbsnews.com/chicago/news/second-delivery-robot-crashes-into-bus-shelter-this-time-in-old-town/)**
-
-The robot belonging to Coco Robotics was spotted by a CBS News Chicago viewer near North Avenue and Halsted Street in Old Town on Tuesday afternoon.
-
-CBS News • 18h ago
+Business Insider • 20h ago
 
 ---
 
@@ -182,9 +166,25 @@ Fast Company • 1d ago
 
 ---
 
-**[Billionaire Qatar Sheikh, Amazon Back Robotics Startup Neura](https://www.bloomberg.com/news/articles/2026-03-24/billionaire-qatari-sheikh-amazon-back-robotics-startup-neura)**
+**[Second delivery robot crashes into bus shelter, this time in Old Town](https://www.cbsnews.com/chicago/news/second-delivery-robot-crashes-into-bus-shelter-this-time-in-old-town/)**
 
-Bloomberg.com • 10h ago
+The robot belonging to Coco Robotics was spotted by a CBS News Chicago viewer near North Avenue and Halsted Street in Old Town on Tuesday afternoon.
+
+CBS News • 19h ago
+
+---
+
+**[Billionaire Qatari Sheikh, Amazon Back Robotics Startup Neura](https://www.bloomberg.com/news/articles/2026-03-24/billionaire-qatari-sheikh-amazon-back-robotics-startup-neura)**
+
+Bloomberg.com • 11h ago
+
+---
+
+**[30 Years Ago, Robots Learned to Walk Without Falling](https://spectrum.ieee.org/honda-p2-robot-ieee-milestone)**
+
+How did Honda's P2 robot change the future of humanoid robotics?
+
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -192,13 +192,33 @@ Bloomberg.com • 10h ago
 
 ## YouTube Videos: "robotics"
 
-**[Racing to Find the Best Robots at Nvidia GTC](https://www.youtube.com/watch?v=mFr7XfTY5bY)**
+**[Figure 03 Humanoid Robot Speaks at the White House #robot #humanoidrobot  #robotics](https://www.youtube.com/watch?v=6z4q9yYHDVw)**
 
-The robots at Nvidia GTC were showcasing strength, dexterity and the ability to work together on the same task. You can find the ...
+The Figure 03 recently visited the White House, becoming the first AI-powered humanoid robot to do so. The bipedal AI robot ...
 
-📺 CNET
+📺 Kalil 4.0
 
-👁️ 16K • 👍 449 • 💬 27 • ⏱️ 5:50 • 3d ago
+👁️ 597 • 👍 29 • 💬 6 • ⏱️ 0:44 • 2h ago
+
+---
+
+**[6 Robots You Can Build in 2026](https://www.youtube.com/watch?v=8smjYAsxAts)**
+
+Learn for free on Brilliant for a full 30 days: https://brilliant.org/NikodemBartnik/ . You'll also get 20% off an annual Premium ...
+
+📺 Nikodem Bartnik
+
+👁️ 14K • 👍 876 • 💬 27 • ⏱️ 9:55 • 1d ago
+
+---
+
+**[Amazon Just Bought a Humanoid Robot Company… This Changes Everything](https://www.youtube.com/watch?v=jdoYFz7M90I)**
+
+Amazon just made a surprising move into humanoid robotics by acquiring Fauna Robotics, the company behind the Sprout robot.
+
+📺 DPCcars
+
+👁️ 268 • 👍 27 • 💬 3 • ⏱️ 3:18 • 3h ago
 
 ---
 
@@ -208,47 +228,7 @@ This week in robotics got kind of ridiculous. South Korea showed off a humanoid 
 
 📺 AI Revolution
 
-👁️ 164K • 👍 2K • 💬 126 • ⏱️ 14:31 • 2d ago
-
----
-
-**[Meet “Roadrunner&quot;: a bipedal, wheeled robot for multi-modal locomotion](https://www.youtube.com/watch?v=9kae-UAME1U)**
-
-"Roadrunner” is a new bipedal wheeled robot prototype designed for multi-modal locomotion. It weighs around 15kg (33 lb.)
-
-📺 RAI Institute
-
-👁️ 159K • 👍 6K • 💬 512 • ⏱️ 1:34 • 2d ago
-
----
-
-**[NVIDIA Just Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=eIAF4CbbUWI)**
-
-Thanks to Delete Me for sponsoring this video. To keep your private info private check out https://www.JoinDeleteMe.com/Kimjava ...
-
-📺 Kim Java
-
-👁️ 49K • 👍 3K • 💬 138 • ⏱️ 20:00 • 1d ago
-
----
-
-**[Introducing Coglet](https://www.youtube.com/watch?v=k_1Paexlc_A)**
-
-Coglet's Kickstarter Launch! https://www.kickstarter.com/projects/willcogley/coglet-open-source-3d-printable-robot-companion-kit.
-
-📺 Will Cogley
-
-👁️ 30K • 👍 2K • 💬 107 • ⏱️ 1:52 • 4d ago
-
----
-
-**[China&#39;s humanoid robots move toward practical use](https://www.youtube.com/watch?v=-g7H28HvZQM)**
-
-Robots are becoming ubiquitous in China, whether for industrial manufacturing, to man a store counter, or direct traffic. According ...
-
-📺 ShanghaiEye魔都眼
-
-👁️ 27K • 👍 310 • 💬 92 • ⏱️ 1:29 • 1d ago
+👁️ 168K • 👍 2K • 💬 126 • ⏱️ 14:31 • 2d ago
 
 ---
 
@@ -262,33 +242,53 @@ A wave of attention is building around a new concept from Apple that suggests th
 
 ---
 
+**[Why did this robot learn to play tennis? 🎾🤔 #trendingshorts #ai #robot #technology #research](https://www.youtube.com/watch?v=soLIijSEIKk)**
+
+Researchers from Tsinghua University and Chinese robotics company Galbot have trained humanoid robots to play tennis against ...
+
+📺 Rowan Cheung
+
+👁️ 52K • 👍 2K • 💬 54 • ⏱️ 1:10 • 4d ago
+
+---
+
+**[Anyone can build one of these robot hands… 👀 #trendingshorts #robot #opensource #tech](https://www.youtube.com/watch?v=0qJwuyDf8rc)**
+
+This robotic hand costs less than $2000 and can be 3D printed in a single day. It also just ran autonomously for seven hours ...
+
+📺 Rowan Cheung
+
+👁️ 873K • 👍 40K • 💬 515 • ⏱️ 1:20 • 6d ago
+
+---
+
+**[Meet “Roadrunner&quot;: a bipedal, wheeled robot for multi-modal locomotion](https://www.youtube.com/watch?v=9kae-UAME1U)**
+
+"Roadrunner” is a new bipedal wheeled robot prototype designed for multi-modal locomotion. It weighs around 15kg (33 lb.)
+
+📺 RAI Institute
+
+👁️ 182K • 👍 6K • 💬 578 • ⏱️ 1:34 • 2d ago
+
+---
+
+**[NVIDIA Just Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=eIAF4CbbUWI)**
+
+Thanks to Delete Me for sponsoring this video. To keep your private info private check out https://www.JoinDeleteMe.com/Kimjava ...
+
+📺 Kim Java
+
+👁️ 53K • 👍 3K • 💬 147 • ⏱️ 20:00 • 1d ago
+
+---
+
 **[Out of control robot smashes up restaurant as waitress desperately attempts to drag it away](https://www.youtube.com/watch?v=ZyohmMJA5Ao)**
 
 THIS is the hilarious moment a boogying robot dances too hard and sends food and cutlery flying in a high end restaurant.
 
 📺 The Sun
 
-👁️ 319K • 👍 4K • 💬 3K • ⏱️ 2:07 • 6d ago
-
----
-
-**[THIS damage is certainly OVERPOWERED – War Robots MACHAIRA](https://www.youtube.com/watch?v=yuf_yR75k7M)**
-
-War Robots Gameplay: Machaira on Ultimate Typhon is Overpowered Damage My War Robots Creator Link: ...
-
-📺 Manni-Gaming
-
-👁️ 10K • 👍 523 • 💬 95 • ⏱️ 20:26 • 1d ago
-
----
-
-**[How I Built The World&#39;s Smallest Quadruped Robot Dog](https://www.youtube.com/watch?v=nmmopQ1EEs0)**
-
-Sesame Micro is a tangent project to the Sesame Robot Project, an open-source mini quadruped robot. This video is an insight ...
-
-📺 Dorian Todd
-
-👁️ 47K • 👍 2K • 💬 151 • ⏱️ 11:03 • 6d ago
+👁️ 320K • 👍 4K • 💬 3K • ⏱️ 2:07 • 6d ago
 
 ---
 
