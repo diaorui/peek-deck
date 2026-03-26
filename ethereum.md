@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-26T10:07:38.925513+00:00'
+updated: '2026-03-26T11:28:04.575719+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 26, 2026 at 10:07 UTC  
+**Last Updated:** March 26, 2026 at 11:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,112.28
+### $2,077.59
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.9%  
-**7d:** -3.2%  
-**30d:** +1.0%  
-**90d:** -29.5%  
-**1y:** +3.9%  
+**24h:** -5.4%  
+**7d:** -3.7%  
+**30d:** +0.4%  
+**90d:** -30.0%  
+**1y:** +3.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Been building an x402 gate way for my local business site builder. I want to experiment with x402 more for deliverables outside of the "typical" things (e.g.: simple api calls etc.) as I believe the potential is actually a lot bigger than that. I think it can be used for "bigger" agentic deliverables, e.g.: with this you get a full pipeline (llm research, google places search, image analysis, brand guidemap etc. which than gets molded into a one pager). Changes the game from "cheap api calls" to bigger deliverables. Feel free to play around with it and let me know what you think! Anyone else doing stuff sort of out of the most comon use cases with x402?
 
-25m ago
+1h ago
 
 ---
 
 **[Pay.eth for sale](https://www.reddit.com/r/ethereum/comments/1s42qh3/payeth_for_sale/)**
 
-🔗 [X (formerly Twitter)](https://x.com/not_pr0) • 36m ago
+🔗 [X (formerly Twitter)](https://x.com/not_pr0) • 1h ago
 
 ---
 
@@ -100,7 +100,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Sent ETH to Abstract Global Wallet on wrong network — any chance of recovery?](https://www.reddit.com/r/ethereum/comments/1s3mdo6/sent_eth_to_abstract_global_wallet_on_wrong/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -108,7 +108,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve been trying to understand where tokenized real-world assets (RWA) actually fit. On paper, it sounds useful. You can take things like gold, real estate, or commodities and put them on blockchain. That should make them easier to trade, more accessible, and available 24/7. No banks, fewer middlemen. But I keep wondering how much of this is real improvement vs just packaging old assets in a new way. If I already have ETFs or REITs, do I really gain anything from tokenization? Or is it just more risk added through crypto infrastructure? I recently found Steamex.com, a platform which is focused on tokenized gold. The idea is simple: you buy digital tokens backed by real gold instead of holding physical metal. It sounds convenient, but it also depends a lot on trust in the company and how the backing actually works. Another question is liquidity. Projects say assets are tradable anytime, but that only works if there are enough buyers and sellers. Curious what others think. Is this actually the future of finance, or are we still early and overestimating the impact?
 
-23h ago
+1d ago
 
 ---
 
@@ -164,17 +164,23 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Google is accelerating its timeline for quantum reckoning. Here’s when Bitcoin, Ethereum need to be ready](https://www.dlnews.com/articles/markets/google-new-date-quantum-reckoning-bitcoin-ethereum-dev-prepare/)**
+**[Bitcoin, XRP, Ethereum Drop as Iran Rejects Trump Peace Plan. Why War Is Hitting Cryptos. -- Barrons.com](https://www.moomoo.com/news/post/67452705/bitcoin-xrp-ethereum-drop-as-iran-rejects-trump-peace-plan)**
 
-Google has set a timeline for post-quantum migration by 2029.  Quantum computing could theoretically undermine most cryptocurrencies' encryption models.  Ethereum Foundation has announced a four-pronged roadmap to address the quantum computing threat by 2029.
-
-dlnews.com • 3h ago
+Moomoo • 2h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Drop as Iran Rejects Trump Peace Plan. Why War Is Hitting Cryptos. -- Barrons.com](https://www.moomoo.com/news/post/67452705/bitcoin-xrp-ethereum-drop-as-iran-rejects-trump-peace-plan)**
+**[First BlackRock, now Bitmine. Will Tom Lee’s Ethereum staking play save share price?](https://finance.yahoo.com/markets/crypto/articles/first-blackrock-now-bitmine-tom-100422887.html)**
 
-Moomoo • 1h ago
+The Made In America VAlidator Network, Bitmine’s Ethereum staking product, is now live. Over 30% of Ethereum’s total circulating supply is now staked. Bitmine's shares are down 66% since October.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Ethereum’s Glamsterdam Upgrade Explained: Key Changes, Timeline and Why It Matters](https://www.ccn.com/education/crypto/ethereum-glamsterdam-upgrade-key-changes-timeline-impact/)**
+
+CCN.com • 58m ago
 
 ---
 
@@ -182,13 +188,7 @@ Moomoo • 1h ago
 
 Crypto entrepreneur Nic Carter has urged Bitcoin developers to catch up on quantum resistance or risk losing out to Ethereum, which already has a post-quantum roadmap. Elliptic curve cryptography (ECC) is the math that keeps Bitcoin (BTC) secure. Users pick a secret number (private key) and, using…
 
-TradingView • 4h ago
-
----
-
-**[Bitcoin, Ethereum, XRP Rise. How the Iran War Has Made Crypto Calls Tougher.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqf1UKmXER8mjlYvNEEsTuY24qu6PjKSNRQ5EHC71fTx8gd_AMkkmluQ&gaa_ts=69c508d9&gaa_sig=LzM62gszjGWAEAGEaM2DE86qGCwJjRpuFJUWGSS-OQbNaCoRk_P40mtz-4V8g-hIP-gd7biHfg3nKuPSs_H2OQ%3D%3D)**
-
-Barron's • 1d ago
+TradingView • 6h ago
 
 ---
 
@@ -200,11 +200,17 @@ CoinDesk • 1d ago
 
 ---
 
+**[Bitcoin, Ethereum, XRP Rise. How the Iran War Has Made Crypto Calls Tougher.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqcJIGTrfjuzFomAd-7b1eyVw-SnUPDdOnph_jKKEqcqfI_19AaSEmsm&gaa_ts=69c51b5a&gaa_sig=nBZoJvEtI0rW9DqqI77IwtNMXzLh2ksw9dQks6o2OsQC9ZB-U4ofRWvW_MYAKOJRSLGVf5SRHX18EeZCznUJOA%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
 **[Current price of Ethereum for March 25, 2026](https://fortune.com/article/price-of-ethereum-03-25-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 20h ago
+Fortune • 21h ago
 
 ---
 
@@ -212,15 +218,7 @@ Fortune • 20h ago
 
 Ethereum is a blockchain powerhouse, but it can't compete with Solana on speed or cost.
 
-The Motley Fool • 23h ago
-
----
-
-**[$164B stablecoin pool vs. Ethereum staking: Decoding CLARITY Act impact](https://ambcrypto.com/164b-stablecoin-pool-vs-ethereum-staking-decoding-clarity-act-impact/)**
-
-Ethereum bulls see opportunity despite Circle’s recent 20% drop. Their logic: Lower stablecoin yields could drive more activity into staking.
-
-AMBCrypto • 11h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -234,7 +232,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free https://go.ted
 
 📺 MONEY GAME
 
-👁️ 5K • 👍 204 • 💬 24 • ⏱️ 12:42 • 15h ago
+👁️ 5K • 👍 204 • 💬 24 • ⏱️ 12:42 • 16h ago
 
 ---
 
@@ -254,7 +252,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 104 • 💬 4 • ⏱️ 5:07 • 7h ago
+👁️ 1K • 👍 104 • 💬 4 • ⏱️ 5:07 • 8h ago
 
 ---
 
@@ -264,7 +262,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 711 • 💬 55 • ⏱️ 8:48 • 5h ago
+👁️ 3K • 👍 711 • 💬 55 • ⏱️ 8:48 • 7h ago
 
 ---
 
@@ -284,7 +282,7 @@ BITCOIN & CRYPTO: Another Squeeze Starts Soon!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 5K • 👍 242 • 💬 177 • ⏱️ 16:33 • 10h ago
+👁️ 5K • 👍 242 • 💬 177 • ⏱️ 16:33 • 12h ago
 
 ---
 
@@ -294,7 +292,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 KhamitHEthics
 
-👁️ 5K • 👍 30 • 💬 14 • ⏱️ 18:01 • 9h ago
+👁️ 5K • 👍 30 • 💬 14 • ⏱️ 18:01 • 10h ago
 
 ---
 
@@ -304,7 +302,7 @@ The crypto market is heating up, things look like they could become a lot more s
 
 📺 The Modern Investor
 
-👁️ 7K • 👍 813 • 💬 162 • ⏱️ 25:01 • 23h ago
+👁️ 7K • 👍 813 • 💬 162 • ⏱️ 25:01 • 1d ago
 
 ---
 

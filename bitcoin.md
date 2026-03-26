@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-26T10:07:38.919536+00:00'
+updated: '2026-03-26T11:28:04.570322+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 26, 2026 at 10:07 UTC  
+**Last Updated:** March 26, 2026 at 11:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,243.66
+### $69,264.98
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.9%  
-**7d:** -1.3%  
-**30d:** +2.4%  
-**90d:** -20.9%  
-**1y:** -20.1%  
+**24h:** -3.5%  
+**7d:** -1.8%  
+**30d:** +1.9%  
+**90d:** -21.3%  
+**1y:** -20.6%  
 
 ---
 
@@ -79,19 +79,43 @@ Rank #1
 
 **[My favourite video 😅](https://www.reddit.com/r/Bitcoin/comments/1s3usw5/my_favourite_video/)**
 
-7h ago
+9h ago
 
 ---
 
 **[Be careful out there, Morgan Stanley wants your bitcoin](https://www.reddit.com/r/Bitcoin/comments/1s3pa4v/be_careful_out_there_morgan_stanley_wants_your/)**
 
-11h ago
+13h ago
+
+---
+
+**[stepping away from bitcoin stuff for now](https://www.reddit.com/r/Bitcoin/comments/1s43w7s/stepping_away_from_bitcoin_stuff_for_now/)**
+
+been thinking about this for few days now and decided to take break from all bitcoin related content. getting overwhelmed by constant noise online these days. every platform has someone screaming about what i should believe or do with my coins joined this space because i believed in technology but now feels like everyone just wants to push their agenda. most of these influencers probably just making content for views anyway going to unfollow most crypto accounts and focus in other things for while. started learning digital art recently and already spent like 12 hours working on single project. much more relaxing than checking charts every hour need to get back to basics and remember why i got interested on bitcoin in first place. maybe after few weeks away from all this drama i can come back with clearer head anyone else taking breaks like this?
+
+49m ago
+
+---
+
+**[I got my mnemonic phrashe from before 2016 from blockchain.info but cant access my acc](https://www.reddit.com/r/Bitcoin/comments/1s40jhh/i_got_my_mnemonic_phrashe_from_before_2016_from/)**
+
+What can i do i have the login link but forgot my email it always asks for mail verification and the support is not helping i opend 3 tickets and they keep ignoring me after they send me an automatic answer. When i click the login link it shows me Internal error
+
+4h ago
 
 ---
 
 **[Daily Discussion, March 26, 2026](https://www.reddit.com/r/Bitcoin/comments/1s3zewp/daily_discussion_march_26_2026/)**
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+5h ago
+
+---
+
+**[Ranking the top CEXs by customer support.](https://www.reddit.com/r/Bitcoin/comments/1s400vj/ranking_the_top_cexs_by_customer_support/)**
+
+​ Kraken (always incredible) BitMart (actually had a human respond to my ticket in 10 mins) Coinbase (hit or miss) Binance (good luck). Customer service is severely underrated until you actually need it to unlock a deposit. Then you know who to trust.
 
 4h ago
 
@@ -101,23 +125,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 The 70K before the 70K before the 68K before the 70K before the 72K before the 70K! GAHDAM! AMERICA!!! 🦅🦅🦅
 
-11h ago
-
----
-
-**[Ranking the top CEXs by customer support.](https://www.reddit.com/r/Bitcoin/comments/1s400vj/ranking_the_top_cexs_by_customer_support/)**
-
-​ Kraken (always incredible) BitMart (actually had a human respond to my ticket in 10 mins) Coinbase (hit or miss) Binance (good luck). Customer service is severely underrated until you actually need it to unlock a deposit. Then you know who to trust.
-
-3h ago
-
----
-
-**[just bought my first 20$ worth of Bitcoin.. and scheduled a weekly 10$ to be bought.](https://www.reddit.com/r/Bitcoin/comments/1s38jbs/just_bought_my_first_20_worth_of_bitcoin_and/)**
-
-i have no idea of what i’m doing.. i just felt like it.. is it a good time to start this?
-
-22h ago
+13h ago
 
 ---
 
@@ -125,15 +133,15 @@ i have no idea of what i’m doing.. i just felt like it.. is it a good time to 
 
 I’m a UK-based user of Gemini and I’ve been trying to withdraw my Bitcoin for weeks with no success. Every time I attempt a withdrawal, I get stuck in a broken authentication loop: I swipe to confirm the withdrawal It then asks me to approve via Authy But Gemini has removed Authy/SMS support And there is nowhere to enter the code So the withdrawal just… can’t complete. My account was recently recovered, and since then withdrawals appear to be restricted. I’ve contacted support multiple times and only get generic responses like “we’re working on it.” Now the really concerning part: Gemini is shutting down operations in the UK soon, and I still cannot access my funds. At this point, it feels like my assets are effectively locked due to a system failure on their side. Has anyone else experienced: The Authy/passkey issue? Withdrawal blocks after account recovery? Any success actually getting funds out recently? I’ve now escalated this to the Financial Conduct Authority and the Financial Ombudsman Service. Would really appreciate hearing if others are dealing with this or if anyone found a workaround.
 
-5h ago
+7h ago
 
 ---
 
-**[I got my mnemonic phrashe from before 2016 from blockchain.info but cant access my acc](https://www.reddit.com/r/Bitcoin/comments/1s40jhh/i_got_my_mnemonic_phrashe_from_before_2016_from/)**
+**[just bought my first 20$ worth of Bitcoin.. and scheduled a weekly 10$ to be bought.](https://www.reddit.com/r/Bitcoin/comments/1s38jbs/just_bought_my_first_20_worth_of_bitcoin_and/)**
 
-What can i do i have the login link but forgot my email it always asks for mail verification and the support is not helping i opend 3 tickets and they keep ignoring me after they send me an automatic answer. When i click the login link it shows me Internal error
+i have no idea of what i’m doing.. i just felt like it.. is it a good time to start this?
 
-2h ago
+23h ago
 
 ---
 
@@ -141,15 +149,7 @@ What can i do i have the login link but forgot my email it always asks for mail 
 
 France has often framed crypto as a form of “unproductive wealth” basically something speculative, not especially useful to the real economy and that’s even more striking when you consider that crypto gains for individuals in France are generally taxed at a 30% flat rate And yet Macron is now attending Paris Blockchain Week this April At first glance, that sounds inconsistent. But I think both positions can coexist My read is that France may still be skeptical of crypto as a speculative asset, while recognizing that blockchain infrastructure, tokenization, stablecoins, digital identity and onchain finance are becoming too important to ignore I feel like this is less about France suddenly being pro-crypto, and more about France not wanting to be late on a sector that could become strategic What do you think? A real turning point, or just a PR move?
 
-21h ago
-
----
-
-**[⚡ Lightning Thursday! March 26, 2026: Explore the Lightning Network!⚡](https://www.reddit.com/r/Bitcoin/comments/1s40hkz/lightning_thursday_march_26_2026_explore_the/)**
-
-The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments. Here is the place to discuss and learn more about lightning! Ask your questions about lightning Provide reviews, feedback, comparisons of LN apps, services, websites etc Learn about new LN features, development, apps Link to good quality resources (articles, wikis etc) Resources: Here is an awesome list of resources compiled by Jameson Lopp: https://bitcoinfo.org/lightning.html Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/ Previous threads: Search Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY Lightning stores: https://www.lightningnetworkstores.com/ Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners and r/thelightningnetwork
-
-3h ago
+22h ago
 
 ---
 
@@ -161,7 +161,7 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 Bhutan moves another 500 bitcoin to exchanges as 2026 outflows top $150 million
 
-CoinDesk • 4h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -169,23 +169,23 @@ CoinDesk • 4h ago
 
 Which beaten-down crypto is the better buy right now? Two Motley Fool contributors make their cases for Bitcoin and XRP.
 
-The Motley Fool • 21h ago
+The Motley Fool • 23h ago
 
 ---
 
-**[Connecting Excellence Group eyes further Bitcoin treasury growth after record monthly revenues](https://uk.finance.yahoo.com/news/connecting-excellence-group-eyes-further-073200770.html)**
+**[Bitcoin price struggles near $70K as peace talk hopes falter](https://uk.finance.yahoo.com/news/bitcoin-price-peace-talk-us-iran-093238865.html)**
 
-Connecting Excellence Group Plc (AQSE:XCE, OTCQB:XCELF), the executive recruitment firm with a Bitcoin treasury strategy, has reported record monthly net fee income of £250,000 in January 2026, following its debut on London's Aquis Stock Exchange in December. The company has continued to...
+Bitcoin is trading just below the $70,000 psychological threshold, slipping approximately 1.6% over the last 24 hours.
 
-Yahoo Finance UK • 2h ago
+Yahoo Finance UK • 1h ago
 
 ---
 
-**[The SEC Just Made a Huge Change in Its Cryptocurrency Regulations. Does That Make Bitcoin a Buy With $1,000?](https://www.fool.com/investing/2026/03/26/the-sec-just-massively-updated-its-cryptocurrency/)**
+**[Fenbushi Capital founder offers up lucrative bounty to track down his stolen Bitcoin](https://www.dlnews.com/articles/people-culture/fenbushi-capital-founder-bounty-to-track-down-stolen-bitcoin/)**
 
-The big picture just got a lot sunnier for most of the leading cryptocurrencies.
+The founder of Fenbush Capital was robbed of $42 million in 2022.  Shen lost most of the stablecoin USDC, as well as Bitcoin, USDT, and Ethereum. Now, he’s offering a bounty of up to 20% for any key information surrounding the theft.
 
-The Motley Fool • 2m ago
+dlnews.com • 49m ago
 
 ---
 
@@ -193,7 +193,7 @@ The Motley Fool • 2m ago
 
 Strategy accounted for nearly all recent bitcoin digital-asset treasury purchases, with other firms’ share dropping from 95% to about 2%, CryptoQuant data show.
 
-CoinDesk • 46m ago
+CoinDesk • 2h ago
 
 ---
 
@@ -205,25 +205,23 @@ KCRG • 1d ago
 
 ---
 
-**[Bitcoin falls below $70k amid uncertainty over Iran war, US regulation](https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-70k-amid-uncertainty-over-iran-war-us-regulation-4581487)**
-
-Investing.com • 2h ago
-
----
-
-**[$15 Billion in Bitcoin Options Expire Friday as Trump's Iran Deadline Looms](https://decrypt.co/362352/15-billion-bitcoin-options-expire-friday-trump-iran-deadline)**
-
-Nearly $15 billion in Bitcoin options expire on Deribit Friday, coinciding with a geopolitical deadline that could spark weekend volatility.
-
-Decrypt • 13h ago
-
----
-
 **[Bitcoin inches toward $71,000 as hopes for U.S.-Iran talks push oil prices lower: CNBC Crypto World](https://www.cnbc.com/video/2026/03/25/bitcoin-inches-toward-71000-as-hopes-for-us-iran-talks-push-oil-prices-lower-cnbc-crypto-world.html)**
 
 On today's episode of CNBC Crypto World, bitcoin moves towards $71,000 after Iran counters a U.S. ceasefire plan. Also, Senators reportedly reached an agreement on crypto market structure legislation language to settle a dispute between the banking and crypto sectors. Franklin Templeton's Max Gokhman also discusses how bitcoin is performing as the Iran war continues.
 
-CNBC • 14h ago
+CNBC • 16h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Drop as Iran Rejects Trump Peace Plan. Why War Is Hitting Cryptos.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqcsO0UbsPi5hFYFPgy5aJ1VDNiwOeAMHTwcDbSM1s4MRWbqgvElwkJY&gaa_ts=69c51b58&gaa_sig=DOTI8QxCMr2Hn1YMKub2-G1zdV6wqD_E1ANlgZeKIssh795Oeely9RC6OQtShGG97BM6LHgh4UlymrxbC9ER6w%3D%3D)**
+
+Barron's • 2h ago
+
+---
+
+**[Bitcoin falls below $70k amid uncertainty over Iran war, US regulation](https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-70k-amid-uncertainty-over-iran-war-us-regulation-4581487)**
+
+Investing.com • 4h ago
 
 ---
 
@@ -285,7 +283,7 @@ The links below may include affiliate links, which means I may receive a commiss
 
 📺 Digital Asset News
 
-👁️ 6K • 👍 493 • 💬 42 • ⏱️ 24:59 • 15h ago
+👁️ 6K • 👍 493 • 💬 42 • ⏱️ 24:59 • 16h ago
 
 ---
 
@@ -295,7 +293,7 @@ NEW REPORTS HOT OFF THE PRESS TAKING A CONTRARIAN VIEW OF WHERE BITCOIN CURRENTL
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 339 • 💬 75 • ⏱️ 1:25:26 • 15h ago
+👁️ 7K • 👍 339 • 💬 75 • ⏱️ 1:25:26 • 16h ago
 
 ---
 
@@ -305,7 +303,7 @@ The U.S. just revealed a $47 trillion liability problem and almost nobody is tal
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 2K • 💬 104 • ⏱️ 20:42 • 10h ago
+👁️ 17K • 👍 2K • 💬 104 • ⏱️ 20:42 • 11h ago
 
 ---
 
@@ -315,7 +313,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Fol
 
 📺 Altcoin Daily
 
-👁️ 8K • 👍 266 • 💬 44 • ⏱️ 1:06 • 12h ago
+👁️ 8K • 👍 266 • 💬 44 • ⏱️ 1:06 • 14h ago
 
 ---
 
@@ -335,7 +333,7 @@ DM me the word “CBM” on Telegram to join my private group: https://t.me/Cryp
 
 📺 Mathieu - C₿M
 
-👁️ 3K • 👍 313 • 💬 31 • ⏱️ 12:34 • 12h ago
+👁️ 3K • 👍 313 • 💬 31 • ⏱️ 12:34 • 13h ago
 
 ---
 
@@ -355,7 +353,7 @@ You're not going to want to miss this INCREDIBLE Ether, technical analysis and i
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 250 • 💬 101 • ⏱️ 13:34 • 15h ago
+👁️ 5K • 👍 250 • 💬 101 • ⏱️ 13:34 • 17h ago
 
 ---
 
@@ -365,7 +363,7 @@ The 20 millionth Bitcoin was mined this month. 95% of all Bitcoin that will EVER
 
 📺 Money Talks
 
-👁️ 1K • 👍 38 • 💬 84 • ⏱️ 14:25 • 14h ago
+👁️ 1K • 👍 38 • 💬 84 • ⏱️ 14:25 • 15h ago
 
 ---
 
@@ -375,7 +373,7 @@ Stop Guessing - Ask Clash (beta) ▻ https://www.askclash.ai/ Make FREE Crypto P
 
 📺 CryptosRUs
 
-👁️ 9K • 👍 653 • 💬 179 • ⏱️ 7:15 • 9h ago
+👁️ 9K • 👍 653 • 💬 179 • ⏱️ 7:15 • 10h ago
 
 ---
 
