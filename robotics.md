@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-26T02:29:24.855167+00:00'
+updated: '2026-03-26T04:56:35.381320+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 26, 2026 at 02:29 UTC  
+**Last Updated:** March 26, 2026 at 04:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/2034708938269036686
 
-13h ago
+16h ago
 
 ---
 
 **[Figure 03 becomes the first humanoid robot to visit the White House](https://www.reddit.com/r/robotics/comments/1s3epc8/figure_03_becomes_the_first_humanoid_robot_to/)**
 
-10h ago
+13h ago
 
 ---
 
 **[“They are coming for our jobs..”](https://www.reddit.com/r/robotics/comments/1s3aomh/they_are_coming_for_our_jobs/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -56,7 +56,15 @@ From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/20347089382690366
 
 AI-driven robotic hand with 21+ DoF and sub-millimeter precision, capable of delicate tasks like threading and micro-assembly. Uses tendon-driven actuation and real-time feedback for high consistency in controlled environments.
 
-9h ago
+12h ago
+
+---
+
+**[Boost VC + Samsung Next just mapped the entire Robotics Data Infrastructure landscape (March 2026) and the gaps are obvious](https://www.reddit.com/r/robotics/comments/1s3x7an/boost_vc_samsung_next_just_mapped_the_entire/)**
+
+Emily Yu (Boost VC), Aurora Feng (Neural Motion), and Albert Kim (Samsung Next) just dropped a market map for robotics data infrastructure and it's worth studying carefully. Five categories: Simulations & Evaluation, Curation & Labeling, Ingestion & Sync, Storage & Indexing, Deployment & Operations. A few things jump out: The simulation layer is overcrowded. NVIDIA, Scale, Applied Intuition, Parallel Domain, Bifrost, Duality, Parallax Worlds, ReSim, ZeroMatter — that's 15+ companies fighting for the same synthetic data dollar. Everyone's betting the sim-to-real gap closes. Not everyone will be right. Curation & Labeling is consolidating around a few names. Scale appears in both simulation and labeling. Encord just raised $60M. The annotation layer is clearly where enterprise dollars are flowing right now. The biggest gap nobody on this map addresses: where does the raw real-world data actually come from? Collection isn't on this map at all. Build AI, Cortex AI, Mecka AI , Robotics Data AI(India) - none of them appear. The entire "get humans to physically collect diverse real-world data" layer is absent. That's either an oversight or a signal that the market hasn't figured out who wins collection yet. Second gap: geography. Every company on this map is North American or European. The most environmentally diverse places on Earth for robot training that is India, Southeast Asia, Africa have zero representation. Curious what others think! is collection a separate market entirely, or does it eventually get absorbed by the simulation/labeling layer?
+
+53m ago
 
 ---
 
@@ -64,7 +72,7 @@ AI-driven robotic hand with 21+ DoF and sub-millimeter precision, capable of del
 
 Hi a hobby idea came to me randomly about making a robot arm i can control with a camera like the classic 2 prong type however i can control via a camera looking at my arm but didn't know how to do it and what i need. I already have a 3d printer so thought it wouldn't be too difficult however its hard to find a similar scenario. Can anyone please help?
 
-4h ago
+7h ago
 
 ---
 
@@ -72,7 +80,7 @@ Hi a hobby idea came to me randomly about making a robot arm i can control with 
 
 Earlier this month, Seoul's COEX hosted an event whose name said it all: the China Humanoid Conference, "First Journey to Korea." Unitree, Fourier, Leju and Hua
 
-🔗 [The Korea Herald](https://www.koreaherald.com/article/10698201) • 20h ago
+🔗 [The Korea Herald](https://www.koreaherald.com/article/10698201) • 23h ago
 
 ---
 
@@ -88,7 +96,7 @@ KOU-III is a two-legged robot from Shandong University that combines walking wit
 
 We&rsquo;re announcing our March Meeting where we&rsquo;ll talk plugins!  &ldquo;An introduction to a beginner-friendly tutorial series that teaches how to create&hellip;
 
-🔗 [Vimeo](https://vimeo.com/1177012951?share=copy&fl=sv&fe=ci) • 9h ago
+🔗 [Vimeo](https://vimeo.com/1177012951?share=copy&fl=sv&fe=ci) • 11h ago
 
 ---
 
@@ -97,14 +105,6 @@ We&rsquo;re announcing our March Meeting where we&rsquo;ll talk plugins!  &ldquo
 From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/2036127368088080867 On Youtube: Kyber Labs - Wet Lab Demo: https://www.youtube.com/watch?v=iM7WjQYlFvM Kyber Labs Demos: https://kyberlabs.ai/demos
 
 1d ago
-
----
-
-**[Dynamixel Y series](https://www.reddit.com/r/robotics/comments/1s35kvh/dynamixel_y_series/)**
-
-Hello people! does anyone know of anywhere with dynamixel Y series in stock? looking for some larger ones for a project, or anyone have some (slightly) loved ones they might be looking to sell. apologies if this is inappropriate to post here!
-
-17h ago
 
 ---
 
@@ -120,6 +120,20 @@ CNBC • 1d ago
 
 ---
 
+**[Amazon buys Fauna Robotics, maker of the Sprout humanoid robot](https://abcnews.com/Business/wireStory/amazon-buys-fauna-robotics-maker-sprout-humanoid-robot-131377676)**
+
+Amazon has acquired Fauna Robotics, just under two months after the startup introduced a humanoid robot called Sprout designed for social spaces like homes and schools
+
+abcnews.com • 1d ago
+
+---
+
+**[Amazon Acquires Fauna Robotics, Entering Consumer Humanoid Market](https://www.bloomberg.com/news/articles/2026-03-24/amazon-acquires-fauna-robotics-entering-consumer-humanoid-market)**
+
+Bloomberg.com • 1d ago
+
+---
+
 **[AI compressed billions of years of evolution into seconds to create 'Lego-like robots' that can recover even when they lose limbs](https://www.livescience.com/technology/robotics/ai-compressed-billions-of-years-of-evolution-into-seconds-to-create-lego-like-robots-that-can-recover-even-when-they-lose-limbs)**
 
 Modular robots are easily expandable, know when they're upside down or stuck, and can march forward across all kinds of terrain.
@@ -128,42 +142,9 @@ Live Science • 1d ago
 
 ---
 
-**[This Kenyan-built robotic arm is opening new possibilities for teaching deaf students. Paired with a sensor-fitted suit, the device converts spoken words into gestures. 𝑉𝑖𝑑𝑒𝑜 𝐶𝑟𝑒𝑑𝑖𝑡𝑠: 𝑅𝑒𝑢𝑡𝑒𝑟𝑠](https://www.linkedin.com/posts/fintech-association-of-kenya_this-kenyan-built-robotic-arm-is-opening-activity-7442753099573747714-24ju)**
-
-This Kenyan-built robotic arm is opening new possibilities for teaching deaf students. Paired with a sensor-fitted suit, the device converts spoken words into gestures.
-𝑉𝑖𝑑𝑒𝑜 𝐶𝑟𝑒𝑑𝑖𝑡𝑠: 𝑅𝑒𝑢𝑡𝑒𝑟𝑠
-
-LinkedIn • 25m ago
-
----
-
 **[Melania Trump Appears With a Robot, Saying More Children Should Be Educated by Them](https://www.nytimes.com/2026/03/25/us/politics/melania-trump-robot.html)**
 
-The New York Times • 3h ago
-
----
-
-**[Chicago leaders speak out after food delivery robots with Serve Robotics, Coco Robotics cause damage at CTA bus shelters](https://abc7chicago.com/post/chicago-leaders-speak-food-delivery-robots-serve-robotics-coco-cause-damage-cta-bus-shelters/18772726/)**
-
-Two recent incidents of food delivery robots smashing into CTA bus shelters days apart happened as Chicagoans continue to debate whether the robots are a public benefit or a nuisance.
-
-ABC7 Chicago • 3h ago
-
----
-
-**[Rogue delivery robots are plowing into Chicago bus shelters, ‘bumping’ into pedestrians](https://nypost.com/2026/03/25/us-news/rogue-delivery-robots-plowed-into-two-chicago-bus-shelters-bumping-into-pedestrians-hazard-to-peoples-safety/)**
-
-“This is a hazard to people’s safety.”
-
-New York Post • 3h ago
-
----
-
-**[Delivery robot smashes into Old Town bus shelter in second crash of the week](https://www.nbcchicago.com/news/local/delivery-robot-smashes-into-old-town-bus-shelter-in-second-crash-of-the-week/3913833/)**
-
-A delivery robot shattered the glass of an Chicago bus shelter Tuesday in the second such incident of its kind.
-
-NBC 5 Chicago • 1h ago
+The New York Times • 7h ago
 
 ---
 
@@ -171,7 +152,7 @@ NBC 5 Chicago • 1h ago
 
 MIT engineers designed an ultrasound wristband that precisely tracks a wearer’s hand movements in real time and communicates the information to a robot or a virtual environment.
 
-MIT News • 16h ago
+MIT News • 18h ago
 
 ---
 
@@ -183,11 +164,27 @@ Business Insider • 1d ago
 
 ---
 
-**[The most innovative robotics and engineering companies of 2026](https://www.fastcompany.com/91497289/robotics-engineering-most-innovative-companies-2026)**
+**[Worst-performing AI-linked large-cap stocks across cloud, chips, and robotics so far in 2026 (SMH:NASDAQ)](https://seekingalpha.com/news/4568315-worst-performing-ai-linked-stocks-across-cloud-chips-and-robotics-so-far-in-2026)**
 
-Why Boston Dynamics, Terabase Energy, Lucid Bots, and Symbotic are among Fast Company's Most Innovative Companies in robotics and engineering for 2026.
+AI-linked software and IT services laggards in 2026: biggest YTD decliners from Atlassian to Snowflake, plus key ETFs.
 
-Fast Company • 1d ago
+Seeking Alpha • 18h ago
+
+---
+
+**[Amazon Balances Home Robotics Ambition With AWS Conflict Zone Risks](https://finance.yahoo.com/markets/stocks/articles/amazon-balances-home-robotics-ambition-010607708.html)**
+
+Amazon.com (NasdaqGS:AMZN) agreed to acquire Fauna Robotics, signaling an entry into consumer humanoid robotics alongside its existing automation efforts. AWS experienced repeated and severe service disruptions in its Bahrain region, with outages linked to drone strikes connected to ongoing Middle East conflict. The disruptions triggered customer migrations and operational changes, raising fresh questions about cloud resiliency in higher risk geographies. For a company already active in...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Chicago leaders speak out after food delivery robots with Serve Robotics, Coco Robotics cause damage at CTA bus shelters](https://abc7chicago.com/post/chicago-leaders-speak-food-delivery-robots-serve-robotics-coco-cause-damage-cta-bus-shelters/18772726/)**
+
+Two recent incidents of food delivery robots smashing into CTA bus shelters days apart happened as Chicagoans continue to debate whether the robots are a public benefit or a nuisance.
+
+ABC7 Chicago • 6h ago
 
 ---
 
@@ -195,13 +192,13 @@ Fast Company • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Floating Intake &amp; Double Chain | 242W Wombo Combo | Robot Rundown](https://www.youtube.com/watch?v=EsFkSMew-w8)**
+**[China’s New AI Robots Just Broke The Human Skill Barrier](https://www.youtube.com/watch?v=QDRzgF-8-50)**
 
-Floating Intake & Double Chain | 242W Wombo Combo | Robot Rundown This video is supported by Kettering University: ...
+This week in robotics got kind of ridiculous. South Korea showed off a humanoid that can run, jump, play soccer, and moonwalk, ...
 
-📺 FUN Robotics Network
+📺 AI Revolution
 
-👁️ 850 • 👍 34 • ⏱️ 2:10 • 3h ago
+👁️ 185K • 👍 2K • 💬 132 • ⏱️ 14:31 • 3d ago
 
 ---
 
@@ -211,7 +208,7 @@ Floating Intake & Double Chain | 242W Wombo Combo | Robot Rundown This video is 
 
 📺 RAI Institute
 
-👁️ 251K • 👍 7K • 💬 704 • ⏱️ 1:34 • 2d ago
+👁️ 266K • 👍 8K • 💬 755 • ⏱️ 1:34 • 2d ago
 
 ---
 
@@ -221,7 +218,17 @@ A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White H
 
 📺 C-SPAN
 
-👁️ 44K • 👍 338 • 💬 554 • ⏱️ 2:59 • 10h ago
+👁️ 56K • 👍 386 • 💬 613 • ⏱️ 2:59 • 13h ago
+
+---
+
+**[Floating Intake &amp; Double Chain | 242W Wombo Combo | Robot Rundown](https://www.youtube.com/watch?v=EsFkSMew-w8)**
+
+Floating Intake & Double Chain | 242W Wombo Combo | Robot Rundown This video is supported by Kettering University: ...
+
+📺 FUN Robotics Network
+
+👁️ 1K • 👍 40 • 💬 1 • ⏱️ 2:10 • 6h ago
 
 ---
 
@@ -231,37 +238,7 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 📺 CNET
 
-👁️ 16K • 👍 455 • 💬 27 • ⏱️ 5:50 • 3d ago
-
----
-
-**[China’s New AI Robots Just Broke The Human Skill Barrier](https://www.youtube.com/watch?v=QDRzgF-8-50)**
-
-This week in robotics got kind of ridiculous. South Korea showed off a humanoid that can run, jump, play soccer, and moonwalk, ...
-
-📺 AI Revolution
-
-👁️ 181K • 👍 2K • 💬 132 • ⏱️ 14:31 • 3d ago
-
----
-
-**[China in Tears! Superpower Falls as TSMC CEO Exposes China’s Robot Lies—95% of Brain Made by TSMC](https://www.youtube.com/watch?v=mCUayp_OjTs)**
-
-On March 8, at the "Tomorrow's Walker" exhibit in Shanghai Science and Technology Museum, a robot performing unexpectedly ...
-
-📺 China Observer
-
-👁️ 19K • 👍 1K • 💬 158 • ⏱️ 15:22 • 5h ago
-
----
-
-**[Figure 03 Humanoid Robot Speaks at the White House #robot #humanoidrobot  #robotics](https://www.youtube.com/watch?v=6z4q9yYHDVw)**
-
-The Figure 03 recently visited the White House, becoming the first AI-powered humanoid robot to do so. The bipedal AI robot ...
-
-📺 Kalil 4.0
-
-👁️ 3K • 👍 117 • 💬 20 • ⏱️ 0:44 • 9h ago
+👁️ 16K • 👍 457 • 💬 27 • ⏱️ 5:50 • 3d ago
 
 ---
 
@@ -271,7 +248,7 @@ Melania Trump Makes a Triumphant Entrance and Suggests Humanoid Robots for Educa
 
 📺 Right Side Broadcasting Network
 
-👁️ 27K • 👍 2K • 💬 757 • ⏱️ 10:02 • 10h ago
+👁️ 29K • 👍 2K • 💬 780 • ⏱️ 10:02 • 13h ago
 
 ---
 
@@ -281,7 +258,17 @@ Thanks to Delete Me for sponsoring this video. To keep your private info private
 
 📺 Kim Java
 
-👁️ 65K • 👍 3K • 💬 167 • ⏱️ 20:00 • 1d ago
+👁️ 70K • 👍 4K • 💬 175 • ⏱️ 20:00 • 1d ago
+
+---
+
+**[Figure 03 Humanoid Robot Speaks at the White House #robot #humanoidrobot  #robotics](https://www.youtube.com/watch?v=6z4q9yYHDVw)**
+
+The Figure 03 recently visited the White House, becoming the first AI-powered humanoid robot to do so. The bipedal AI robot ...
+
+📺 Kalil 4.0
+
+👁️ 4K • 👍 128 • 💬 20 • ⏱️ 0:44 • 12h ago
 
 ---
 
@@ -292,6 +279,16 @@ A wave of attention is building around a new concept from Apple that suggests th
 📺 Carros Show
 
 👁️ 4K • 👍 93 • 💬 9 • ⏱️ 8:19 • 6d ago
+
+---
+
+**[Amazon Buys Maker of Human-Like Robot Called Sprout](https://www.youtube.com/watch?v=lNtHEFuQvsc)**
+
+Amazon bought the New York-based startup Fauna Robotics. The deal closed last week. Fauna is developing a robot that can ...
+
+📺 Bloomberg Television
+
+👁️ 4K • 👍 29 • 💬 4 • ⏱️ 1:22 • 1d ago
 
 ---
 

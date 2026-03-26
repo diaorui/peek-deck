@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-26T02:29:24.847044+00:00'
+updated: '2026-03-26T04:56:35.365385+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 26, 2026 at 02:29 UTC  
+**Last Updated:** March 26, 2026 at 04:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,48 +44,48 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +0.6%  
-**30d:** +4.4%  
-**90d:** -19.3%  
-**1y:** -18.6%  
+**24h:** -0.4%  
+**7d:** +0.5%  
+**30d:** +4.2%  
+**90d:** -19.5%  
+**1y:** -18.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1418.90B
+**Market Cap:** $1416.31B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--43.7%
+-43.9%
 
 **All-Time Low:** $67.81
-+104501.1%
++104297.6%
 
 ---
 
 ## Fear & Greed Index
 
-### 14
+### 10
 **EXTREME FEAR**
 
 ---
 
 ## Reddit: r/Bitcoin
 
-**[Be careful out there, Morgan Stanley wants your bitcoin](https://www.reddit.com/r/Bitcoin/comments/1s3pa4v/be_careful_out_there_morgan_stanley_wants_your/)**
+**[My favourite video 😅](https://www.reddit.com/r/Bitcoin/comments/1s3usw5/my_favourite_video/)**
 
-4h ago
+2h ago
 
 ---
 
-**[My favourite video 😅](https://www.reddit.com/r/Bitcoin/comments/1s3usw5/my_favourite_video/)**
+**[Be careful out there, Morgan Stanley wants your bitcoin](https://www.reddit.com/r/Bitcoin/comments/1s3pa4v/be_careful_out_there_morgan_stanley_wants_your/)**
 
-19m ago
+6h ago
 
 ---
 
@@ -93,15 +93,7 @@ Rank #1
 
 i have no idea of what i’m doing.. i just felt like it.. is it a good time to start this?
 
-14h ago
-
----
-
-**[Weird how France went from calling crypto “unproductive wealth” to Macron speaking at a blockchain event in Paris…](https://www.reddit.com/r/Bitcoin/comments/1s39hzc/weird_how_france_went_from_calling_crypto/)**
-
-France has often framed crypto as a form of “unproductive wealth” basically something speculative, not especially useful to the real economy and that’s even more striking when you consider that crypto gains for individuals in France are generally taxed at a 30% flat rate And yet Macron is now attending Paris Blockchain Week this April At first glance, that sounds inconsistent. But I think both positions can coexist My read is that France may still be skeptical of crypto as a speculative asset, while recognizing that blockchain infrastructure, tokenization, stablecoins, digital identity and onchain finance are becoming too important to ignore I feel like this is less about France suddenly being pro-crypto, and more about France not wanting to be late on a sector that could become strategic What do you think? A real turning point, or just a PR move?
-
-13h ago
+17h ago
 
 ---
 
@@ -109,7 +101,15 @@ France has often framed crypto as a form of “unproductive wealth” basically 
 
 The 70K before the 70K before the 68K before the 70K before the 72K before the 70K! GAHDAM! AMERICA!!! 🦅🦅🦅
 
-4h ago
+6h ago
+
+---
+
+**[Weird how France went from calling crypto “unproductive wealth” to Macron speaking at a blockchain event in Paris…](https://www.reddit.com/r/Bitcoin/comments/1s39hzc/weird_how_france_went_from_calling_crypto/)**
+
+France has often framed crypto as a form of “unproductive wealth” basically something speculative, not especially useful to the real economy and that’s even more striking when you consider that crypto gains for individuals in France are generally taxed at a 30% flat rate And yet Macron is now attending Paris Blockchain Week this April At first glance, that sounds inconsistent. But I think both positions can coexist My read is that France may still be skeptical of crypto as a speculative asset, while recognizing that blockchain infrastructure, tokenization, stablecoins, digital identity and onchain finance are becoming too important to ignore I feel like this is less about France suddenly being pro-crypto, and more about France not wanting to be late on a sector that could become strategic What do you think? A real turning point, or just a PR move?
+
+16h ago
 
 ---
 
@@ -117,7 +117,7 @@ The 70K before the 70K before the 68K before the 70K before the 72K before the 7
 
 Art inspired by the best asset. Art by Shipwreck Sean
 
-12h ago
+14h ago
 
 ---
 
@@ -125,7 +125,7 @@ Art inspired by the best asset. Art by Shipwreck Sean
 
 Bitcoin does not escape material reality. It is secured by it. If the energy crisis moves beyond oil and gas and reaches electricity itself, the real question is no longer whether Bitcoin is bullish or bearish, but whether it remains structurally credible under pressure. What follows is not a market call, but a systems analysis of where the pressure would land first, what would actually weaken, and what might become more relevant precisely because the surrounding system is becoming more constrained.
 
-🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/when-the-energy-crisis-reaches-electricity) • 13h ago
+🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/when-the-energy-crisis-reaches-electricity) • 16h ago
 
 ---
 
@@ -133,15 +133,7 @@ Bitcoin does not escape material reality. It is secured by it. If the energy cri
 
 I'm looking for a cold wallet there are so many out there but not sure which one to get i plan to store bitcoin, some alt coins and memecoins. Any suggestions on which is a good one
 
-15h ago
-
----
-
-**[As The Weather Warms Up, Beware The Bitcoin Groupies](https://www.reddit.com/r/Bitcoin/comments/1s3chz9/as_the_weather_warms_up_beware_the_bitcoin/)**
-
-https://youtube.com/shorts/J5ESZr3_pE8
-
-11h ago
+17h ago
 
 ---
 
@@ -149,7 +141,15 @@ https://youtube.com/shorts/J5ESZr3_pE8
 
 I first heard it from my computer science teacher at school in 2013. He taught us about what Blockchain is and how Bitcoin works but I was playing LOL and COD games until 2019 😂
 
-4h ago
+7h ago
+
+---
+
+**[As The Weather Warms Up, Beware The Bitcoin Groupies](https://www.reddit.com/r/Bitcoin/comments/1s3chz9/as_the_weather_warms_up_beware_the_bitcoin/)**
+
+https://youtube.com/shorts/J5ESZr3_pE8
+
+14h ago
 
 ---
 
@@ -161,7 +161,7 @@ I first heard it from my computer science teacher at school in 2013. He taught u
 
 On today's episode of CNBC Crypto World, bitcoin moves towards $71,000 after Iran counters a U.S. ceasefire plan. Also, Senators reportedly reached an agreement on crypto market structure legislation language to settle a dispute between the banking and crypto sectors. Franklin Templeton's Max Gokhman also discusses how bitcoin is performing as the Iran war continues.
 
-CNBC • 7h ago
+CNBC • 9h ago
 
 ---
 
@@ -169,7 +169,7 @@ CNBC • 7h ago
 
 Nearly $15 billion in Bitcoin options expire on Deribit Friday, coinciding with a geopolitical deadline that could spark weekend volatility.
 
-Decrypt • 6h ago
+Decrypt • 8h ago
 
 ---
 
@@ -185,23 +185,7 @@ Yahoo Finance • 2d ago
 
 Bhutan transferred 519.7 BTC, worth $36.75 million, to two wallets on Wednesday, according to Arkham data.
 
-The Block • 20h ago
-
----
-
-**[Morgan Stanley Bitcoin ETF ready for ‘imminent’ launch. Here’s why that’s a big deal](https://www.dlnews.com/articles/markets/morgan-stanley-imminent-bitcoin-etf-launch-big-boy/)**
-
-This is the first Bitcoin fund from a major US bank. Morgan Stanley has 16,000 financial advisors managing around $6.2 trillion.  Bitcoin ETFs already hold upwards of $83 billion in assets.
-
-dlnews.com • 7m ago
-
----
-
-**[Over $17bn in crypto options to expire this week — here’s what that means for the Bitcoin price](https://www.dlnews.com/articles/markets/billions-in-bitcoin-options-to-expire-this-friday/)**
-
-A huge amount of crypto options are set to expire this week.  When a large number of crypto options expire, volatility can rise.  Iran’s deadline to make a deal with President Trump falls on the same day.
-
-dlnews.com • 1h ago
+The Block • 22h ago
 
 ---
 
@@ -217,21 +201,35 @@ KCRG • 1d ago
 
 The "biggest [financial] bubble" is about to burst, "Rich Dad Poor Dad" author Robert Kiyosaki says. "I do not know what pin, what event will pop the biggest bubbles in [history]," Kiyosaki said on March 16 on X. "[Whatever] the...
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 15h ago
 
 ---
 
-**[GameStop’s move to add bitcoin as a treasury asset turns 1. It hasn’t paid off yet.](https://www.marketwatch.com/story/gamestops-move-to-add-bitcoin-as-a-treasury-asset-turns-1-it-hasnt-paid-off-yet-ccb668e3?gaa_at=eafs&gaa_n=AWEtsqeZ3QVwqUxdb4jCMFdQ8_4koIjokagJC0g0TUZh7NLPGkcyTv4_rOKa&gaa_ts=69c49d67&gaa_sig=5Gb-B20FPaomvpfdFa8r1ohhO70UkYnI6YlozEi-zwQFnlso7HC3tWEz_kq4FPMhnR_ql_z4Oe5gVEYe0tAHTA%3D%3D)**
+**[GameStop’s move to add bitcoin as a treasury asset turns 1. It hasn’t paid off yet.](https://www.marketwatch.com/story/gamestops-move-to-add-bitcoin-as-a-treasury-asset-turns-1-it-hasnt-paid-off-yet-ccb668e3?gaa_at=eafs&gaa_n=AWEtsqfZqI9_djo2-QEwhqbG0849gfh8yEiBQy5P3UpS2ZJqu8QyzekwoVh8&gaa_ts=69c4bfef&gaa_sig=GJZzFmTr8ISZCWVkDstKcmgf0jXwDD8Szc0M6sXScR0sniZZnT5f3cjAjYywkXi3PmhAQgajIVqSwoiDCLzYkw%3D%3D)**
 
-MarketWatch • 10h ago
+MarketWatch • 13h ago
 
 ---
 
-**[Best Cryptocurrencies to Buy Before the Next Bitcoin Halving](https://www.fool.com/investing/2026/03/25/best-cryptocurrencies-to-buy-before-the-next-bitco/)**
+**[Better Buy: Bitcoin vs. XRP](https://www.fool.com/investing/2026/03/25/better-buy-bitcoin-vs-xrp/)**
 
-If history is any guide, it's time to start buying these bargain-priced cryptocurrencies before the Bitcoin halving in 2028.
+Which beaten-down crypto is the better buy right now? Two Motley Fool contributors make their cases for Bitcoin and XRP.
 
-The Motley Fool • 14h ago
+The Motley Fool • 16h ago
+
+---
+
+**[US’s Mysterious $15 Billion Crypto Haul Faces Questions in Court](https://www.bloomberg.com/news/articles/2026-03-24/us-s-mysterious-15-billion-crypto-haul-faces-questions-in-court)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Current price of Bitcoin for March 24, 2026](https://fortune.com/article/price-of-bitcoin-03-24-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 1d ago
 
 ---
 
@@ -281,13 +279,13 @@ Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 3
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin inches toward $71,000 as hopes for U.S.-Iran talks push oil prices lower: CNBC Crypto World](https://www.youtube.com/watch?v=zt5AeGbHVxI)**
+**[They&#39;re HIDING $47 TRILLION in Debt (Bitcoin Already Knows)](https://www.youtube.com/watch?v=5I-5UjZ4lqk)**
 
-On today's episode of CNBC Crypto World, bitcoin moves towards $71000 after Iran counters a U.S. ceasefire plan. Also, Senators ...
+The U.S. just revealed a $47 trillion liability problem and almost nobody is talking about it. Add rising interest costs, war tensions, ...
 
-📺 CNBC Television
+📺 Simply Bitcoin
 
-👁️ 5K • 👍 76 • 💬 177 • ⏱️ 8:47 • 6h ago
+👁️ 11K • 👍 1K • 💬 84 • ⏱️ 20:42 • 5h ago
 
 ---
 
@@ -297,7 +295,7 @@ In this video, we take a data-driven look at Bitcoin as it shows signs of prepar
 
 📺 Benjamin Cowen
 
-👁️ 92K • 👍 6K • 💬 388 • ⏱️ 17:16 • 22h ago
+👁️ 95K • 👍 6K • 💬 406 • ⏱️ 17:16 • 1d ago
 
 ---
 
@@ -311,13 +309,23 @@ Markets are unstable, but Bitcoin may be quietly setting up for its next major m
 
 ---
 
+**[Bitcoin inches toward $71,000 as hopes for U.S.-Iran talks push oil prices lower: CNBC Crypto World](https://www.youtube.com/watch?v=zt5AeGbHVxI)**
+
+On today's episode of CNBC Crypto World, bitcoin moves towards $71000 after Iran counters a U.S. ceasefire plan. Also, Senators ...
+
+📺 CNBC Television
+
+👁️ 7K • 👍 92 • 💬 140 • ⏱️ 8:47 • 9h ago
+
+---
+
 **[Bitcoin Is a Brilliant Scam and I Can Prove It (Again)](https://www.youtube.com/watch?v=dPoDyl9Ys38)**
 
 Everyone thinks they understand Bitcoin... but they don't. Because if Bitcoin is the future of money, why does it fail the most basic ...
 
 📺 Casual Finance
 
-👁️ 65K • 👍 4K • 💬 1K • ⏱️ 9:55 • 1d ago
+👁️ 68K • 👍 4K • 💬 1K • ⏱️ 9:55 • 1d ago
 
 ---
 
@@ -327,27 +335,7 @@ You're not going to want to miss this INCREDIBLE Ether, technical analysis and i
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 227 • 💬 148 • ⏱️ 13:34 • 8h ago
-
----
-
-**[Gareth Soloway&#39;s Urgent Warning To All Bitcoin Investors — Gold Is Crashing, This Changes Everything](https://www.youtube.com/watch?v=UZhVCWeM6J4)**
-
-The 20 millionth Bitcoin was mined this month. 95% of all Bitcoin that will EVER exist is now in circulation. Gold just had its worst ...
-
-📺 Money Talks
-
-👁️ 656 • 👍 29 • 💬 148 • ⏱️ 14:25 • 6h ago
-
----
-
-**[Crypto Hodlers - There is a PROBLEM here](https://www.youtube.com/watch?v=168U_HgSago)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Buy, Sell, Trade on Weex ($500 Bonus): ...
-
-📺 Altcoin Daily
-
-👁️ 40K • 👍 2K • 💬 99 • ⏱️ 9:19 • 1d ago
+👁️ 4K • 👍 241 • 💬 100 • ⏱️ 13:34 • 10h ago
 
 ---
 
@@ -357,7 +345,27 @@ Gold just entered a bear market during geopolitical chaos while Bitcoin held ste
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 102 • ⏱️ 13:19 • 1d ago
+👁️ 14K • 👍 1K • 💬 90 • ⏱️ 13:19 • 1d ago
+
+---
+
+**[Crypto Hodlers - There is a PROBLEM here](https://www.youtube.com/watch?v=168U_HgSago)**
+
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Buy, Sell, Trade on Weex ($500 Bonus): ...
+
+📺 Altcoin Daily
+
+👁️ 40K • 👍 2K • 💬 71 • ⏱️ 9:19 • 1d ago
+
+---
+
+**[Bitcoin BTC - You Can&#39;t Even Imagine What&#39;s About to Happen - I was Right About the Top &amp; CRASH](https://www.youtube.com/watch?v=9lYLuZotRII)**
+
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
+
+📺 Doctor of Pump & Dump
+
+👁️ 6K • 👍 448 • 💬 67 • ⏱️ 9:14 • 12h ago
 
 ---
 
@@ -367,17 +375,7 @@ Stop Guessing - Ask Clash (beta) ▻ https://www.askclash.ai/ Make FREE Crypto P
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 964 • 💬 173 • ⏱️ 8:27 • 1d ago
-
----
-
-**[Something Strange Is Happening to Bitcoin Right Now](https://www.youtube.com/watch?v=4sMoXnqXH7Y)**
-
-Stop waiting for Bitcoin to break out. Because by the time it does… it's already too late. Right now, something strange is ...
-
-📺 Tim Talks Finance
-
-👁️ 4K • 👍 271 • 💬 38 • ⏱️ 13:57 • 1d ago
+👁️ 18K • 👍 964 • 💬 124 • ⏱️ 8:27 • 1d ago
 
 ---
 
