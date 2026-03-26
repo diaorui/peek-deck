@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-26T17:03:33.961696+00:00'
+updated: '2026-03-26T18:34:50.707097+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- cryptocurrency
+- social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 26, 2026 at 17:03 UTC  
+**Last Updated:** March 26, 2026 at 18:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,061.43
+### $2,047.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.5%  
-**7d:** -3.8%  
-**30d:** +0.3%  
-**90d:** -30.0%  
-**1y:** +3.1%  
+**24h:** -5.9%  
+**7d:** -4.9%  
+**30d:** -0.8%  
+**90d:** -30.9%  
+**1y:** +1.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $248.96B
+**Market Cap:** $245.82B
 Rank #2
 
 **Circulating Supply:** 120,691,533 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.2%
+-58.8%
 
 **All-Time Low:** $0.43
-+477225.7%
++470895.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Accept crypto payments in seconds, across Bitcoin, stablecoins, and more with Bitcoin.com Checkout.
 
-🔗 [Bitcoin.com Checkout](https://checkout.bitcoin.com/) • 5h ago
+🔗 [Bitcoin.com Checkout](https://checkout.bitcoin.com/) • 6h ago
 
 ---
 
@@ -88,7 +88,7 @@ Accept crypto payments in seconds, across Bitcoin, stablecoins, and more with Bi
 
 As I write this in the first week of January 2026, the new year is just beginning. If 2025 was the Year of the Snake — a time associated…
 
-🔗 [Medium](https://medium.com/@james_allan/the-state-of-the-blockchain-industry-and-where-kaspa-fits-c75371725255) • 4h ago
+🔗 [Medium](https://medium.com/@james_allan/the-state-of-the-blockchain-industry-and-where-kaspa-fits-c75371725255) • 5h ago
 
 ---
 
@@ -96,7 +96,7 @@ As I write this in the first week of January 2026, the new year is just beginnin
 
 Been building an x402 gate way for my local business site builder. I want to experiment with x402 more for deliverables outside of the "typical" things (e.g.: simple api calls etc.) as I believe the potential is actually a lot bigger than that. I think it can be used for "bigger" agentic deliverables, e.g.: with this you get a full pipeline (llm research, google places search, image analysis, brand guidemap etc. which than gets molded into a one pager). Changes the game from "cheap api calls" to bigger deliverables. Feel free to play around with it and let me know what you think! Anyone else doing stuff sort of out of the most comon use cases with x402?
 
-7h ago
+8h ago
 
 ---
 
@@ -104,7 +104,7 @@ Been building an x402 gate way for my local business site builder. I want to exp
 
 I am newbie in crypto trading. And I learned that ETH tokens pose a huge risk even if token seems to be authentic. Tried to swap my eth funds for Tether Gold XAUT, but got zero balanced fake tokens. Lesson learned as I checked later for second time to find out Tether Gold legit contract. Contract was fake and did not match with the legit one. I will never trust any tokens but it is very sad that those tokens were listed at coinbase web wallet to swap. Should not be. Thus I paid for that lesson ca €10 I think that these risks are discrediting ethereum as safe network. Because if user has no other option than believing that contract is genuine then any fake blockchain checking site may serve it as legit. Fortunally I transfered fake tokens to my cold wallet, so I just created new ethereum account in it to change address as previous is now a little compromised as scammers can scan and track my ethereum account balance. Will leave compromised as it is and will not touch it anymore.
 
-2h ago
+3h ago
 
 ---
 
@@ -118,7 +118,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Sent ETH to Abstract Global Wallet on wrong network — any chance of recovery?](https://www.reddit.com/r/ethereum/comments/1s3mdo6/sent_eth_to_abstract_global_wallet_on_wrong/)**
 
-20h ago
+22h ago
 
 ---
 
@@ -154,7 +154,7 @@ Been holding ETH for a while and thinking about staking. With 32 ETH still being
 
 Ethereum block builder Eureka Labs is introducing "programmable blocks," which add logic during block construction.
 
-The Block • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -170,15 +170,7 @@ The Block • 1d ago
 
 EtherRAT hides C2 in Ethereum smart contracts via EtherHiding, steals wallets and credentials
 
-Infosecurity Magazine • 2h ago
-
----
-
-**[Dogecoin, Ethereum, Gold Trades On Your Mind? Here's What This Top Analyst Has Projected For The Coming Few Days](https://finance.yahoo.com/markets/crypto/articles/dogecoin-ethereum-gold-trades-mind-133108468.html)**
-
-A leading cryptocurrency analyst on Tuesday projected significant volatility for Dogecoin in the days ahead, while outlining a rosy outlook for gold. Which Way Is DOGE Headed? Ali Martinez took to X, highlighting a descending triangle formation on Dogecoin's 4-hour...
-
-Yahoo Finance • 3h ago
+Infosecurity Magazine • 3h ago
 
 ---
 
@@ -186,11 +178,11 @@ Yahoo Finance • 3h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 2h ago
+Fortune • 4h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Rise. How the Iran War Has Made Crypto Calls Tougher.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqfdy5aRq9TDJ74vUpga2suYdpfvdIuGmZBWhf9VnW-0Bc5AFikHudL2&gaa_ts=69c56a53&gaa_sig=uIbfB90tQsNFjqd4ZoEI0g1ONwPc1PzPzQa2ULEFygzLV8PnGphQ_Zk5eHorqBBlDcQIG5qhLvPELpv0-5i-jw%3D%3D)**
+**[Bitcoin, Ethereum, XRP Rise. How the Iran War Has Made Crypto Calls Tougher.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqeO_CHGazMrzU8Xu8y-hyrPPhEj5Zt2Lf-2nCp35Tx7pinuI5Jz5kUK&gaa_ts=69c57fb4&gaa_sig=bFpJ7UbxWXPI3bu0xoyrBWgea_4S7-8YpzdaZRLkMgfDPhdEg6DilsZu6brm4UxXPmYbmFFZA53D0xr7PKLW_Q%3D%3D)**
 
 Barron's • 2d ago
 
@@ -200,13 +192,13 @@ Barron's • 2d ago
 
 Crypto entrepreneur Nic Carter has urged Bitcoin developers to catch up on quantum resistance or risk losing out to Ethereum, which already has a post-quantum roadmap. Elliptic curve cryptography (ECC) is the math that keeps Bitcoin (BTC) secure. Users pick a secret number (private key) and, using…
 
-TradingView • 11h ago
+TradingView • 13h ago
 
 ---
 
 **[Ethereum’s Glamsterdam Upgrade Explained: Key Changes, Timeline and Why It Matters](https://www.ccn.com/education/crypto/ethereum-glamsterdam-upgrade-key-changes-timeline-impact/)**
 
-CCN.com • 6h ago
+CCN.com • 8h ago
 
 ---
 
@@ -222,7 +214,15 @@ The Motley Fool • 1d ago
 
 Ethereum bulls see opportunity despite Circle’s recent 20% drop. Their logic: Lower stablecoin yields could drive more activity into staking.
 
-AMBCrypto • 18h ago
+AMBCrypto • 19h ago
+
+---
+
+**[Soter Insure Issues World's First Ethereum-Denominated Slashing Insurance Policy](https://investingnews.com/soter-insure-issues-world-s-first-ethereum-denominated-slashing-insurance-policy/)**
+
+Soter advances digital asset risk management through a novel ETH-denominated slashing product, providing stakers with native-asset indemnity and eliminating FX gaps in legacy insurance policies.- Soter Insure, a provider of institutional-grade insurance for the digital asset economy, today announc...
+
+Investing News Network • 1d ago
 
 ---
 
@@ -236,7 +236,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 515 • 👍 58 • 💬 1 • ⏱️ 4:12 • 3h ago
+👁️ 970 • 👍 82 • 💬 2 • ⏱️ 4:12 • 4h ago
+
+---
+
+**[A FLURRY of GOOD NEWS for Bitmine / ETH (BMNR Stock)!](https://www.youtube.com/watch?v=EzcfsBVn7Zo)**
+
+Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade data with my link: https://fiscal.ai/?via=roy ...
+
+📺 Crossroads
+
+👁️ 1K • 👍 127 • 💬 17 • ⏱️ 15:03 • 4h ago
 
 ---
 
@@ -246,37 +256,7 @@ You're not going to want to miss this INCREDIBLE Ether, technical analysis and i
 
 📺 Crypto Jebb
 
-👁️ 6K • 👍 242 • 💬 3 • ⏱️ 18:00 • 1d ago
-
----
-
-**[BEARISH SIGNAL FLASHING!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=o7kdVHuXHBs)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 132 • 👍 6 • 💬 3 • ⏱️ 4:33 • 7h ago
-
----
-
-**[🚨 Tom Lee Launches MAVAN — BMNR Builds $300M Ethereum Yield Machine](https://www.youtube.com/watch?v=bGPC_M3b2Sg)**
-
-Get My New Book Money Game and My Daily Trading Strategy for Free https://go.tedmcgrathbrands.com/optin-money-game-yt ...
-
-📺 MONEY GAME
-
-👁️ 5K • 👍 218 • 💬 29 • ⏱️ 12:42 • 21h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=QfLqECfa9mc)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 112 • 💬 4 • ⏱️ 5:07 • 14h ago
+👁️ 6K • 👍 245 • 💬 3 • ⏱️ 18:00 • 2d ago
 
 ---
 
@@ -286,7 +266,47 @@ What happens if ETH recovers to the 200 Day moving average with both technicals 
 
 📺 Elijah Cheng
 
-👁️ 116 • 👍 20 • 💬 1 • ⏱️ 27:19 • 2h ago
+👁️ 564 • 👍 54 • 💬 9 • ⏱️ 27:19 • 3h ago
+
+---
+
+**[BEARISH SIGNAL FLASHING!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=o7kdVHuXHBs)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 170 • 👍 8 • 💬 3 • ⏱️ 4:33 • 8h ago
+
+---
+
+**[Why Ethereum Is About to Skyrocket in Value!](https://www.youtube.com/watch?v=Q1LWGj38inI)**
+
+VIP Access & Programs: https://highaltitudecrypto.com Free Crypto Ebook (Learn How to Profit): https://shorturl.at/qCW46 ...
+
+📺 High Altitude Investing
+
+👁️ 65 • 👍 16 • 💬 3 • ⏱️ 10:43 • 44m ago
+
+---
+
+**[🚨 Tom Lee Launches MAVAN — BMNR Builds $300M Ethereum Yield Machine](https://www.youtube.com/watch?v=bGPC_M3b2Sg)**
+
+Get My New Book Money Game and My Daily Trading Strategy for Free https://go.tedmcgrathbrands.com/optin-money-game-yt ...
+
+📺 MONEY GAME
+
+👁️ 5K • 👍 221 • 💬 31 • ⏱️ 12:42 • 23h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=QfLqECfa9mc)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 113 • 💬 4 • ⏱️ 5:07 • 16h ago
 
 ---
 
@@ -296,37 +316,17 @@ BMNR is quietly building one of the largest Ethereum treasuries in the world now
 
 📺 The Value Thinker
 
-👁️ 10K • 👍 647 • 💬 107 • ⏱️ 24:16 • 1d ago
+👁️ 10K • 👍 652 • 💬 107 • ⏱️ 24:16 • 1d ago
 
 ---
 
-**[If This Repeats… BTC &amp; ETH Could Shock Ehe Entire Market 😳](https://www.youtube.com/watch?v=HEXcJsPqwyQ)**
+**[🚨 BTC &amp; ETH: YOU CANT MISS THIS!!! HUGE OPPORTUNITY NOW!!!!!](https://www.youtube.com/watch?v=A6k1U0SFu-g)**
 
-Agar aap abhi crypto market me bullish feel kar rahe hain… toh ek baar ye video zaroor dekhiye. Because jo pattern abhi Bitcoin ...
+This video is not for everyone. If your income is below $10000/month — close it. I've been in business for 15 years, and my capital ...
 
-📺 Earn With Sapna
+📺 Thomas Kralow
 
-👁️ 2K • 👍 175 • 💬 13 • ⏱️ 8:10 • 7h ago
-
----
-
-**[BITCOIN &amp; CRYPTO: Another Squeeze Starts Soon!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=YafCiuuABr4)**
-
-BITCOIN & CRYPTO: Another Squeeze Starts Soon!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 266 • 💬 176 • ⏱️ 16:33 • 17h ago
-
----
-
-**[Bitcoin &amp; Ethereum Analysis: Both Prices Ready For A Pump!](https://www.youtube.com/watch?v=g_brU44MMa0)**
-
-Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 Wick fill video: https://www.youtube.com/watch?v=3deyD4U69tg I am ...
-
-📺 Trading Jip
-
-👁️ 186 • 👍 11 • 💬 22 • ⏱️ 8:41 • 7h ago
+👁️ 14K • 👍 2K • 💬 50 • ⏱️ 6:06 • 2d ago
 
 ---
 
