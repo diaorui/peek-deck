@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-26T08:58:26.040009+00:00'
+updated: '2026-03-26T10:07:38.911127+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- repositories
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 26, 2026 at 08:58 UTC  
+**Last Updated:** March 26, 2026 at 10:07 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The Pentagon is spending $13.4 billion on AI this year alone.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/pentagon-formalizes-palantirs-maven-ai-as-a-core-military-system-with-multi-year-funding-platforms-investment-grows-to-usd13-billion-from-usd480-million-in-2024) • 8h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/pentagon-formalizes-palantirs-maven-ai-as-a-core-military-system-with-multi-year-funding-platforms-investment-grows-to-usd13-billion-from-usd480-million-in-2024) • 9h ago
 
 ---
 
@@ -49,7 +49,7 @@ The Pentagon is spending $13.4 billion on AI this year alone.
 
 Quick rundown of what Meta's done since December: • Dec 2025: Acquired Manus (autonomous web agent) for $2B • Early 2026: Acqui-hired Moltbook team • Scale AI's Alexandr Wang stepped down as CEO to become Meta's first Chief AI Officer • March 23: Dreamer team (agentic AI platform) joins Meta Superintelligence Labs All of these teams are going into one division under Wang. Zuckerberg isn't just building models, he's assembling an entire talent army for agents. The Dreamer one is interesting because they were only in beta for a month before Meta grabbed them. The product let regular people build their own AI agents. Thousands of users already. Feels like Meta is betting everything on agents being the next platform shift, not just chatbots. What do you guys think - is this a smart consolidation play or is Zuck just panic-buying talent because open-source alone isn't enough? Full breakdown here
 
-4h ago
+5h ago
 
 ---
 
@@ -57,7 +57,15 @@ Quick rundown of what Meta's done since December: • Dec 2025: Acquired Manus (
 
 "The team trained machine learning models to identify patterns in the data that can tell astronomers the type of event that has been detected, something that AI models excel at. RAVEN is designed to handle the whole exoplanet-detection process in one go — from detecting the signal to vetting it with machine learning and then statistically validating it. That means that it has an additional edge over other contemporary tools that only focus on specific parts of this process ... "RAVEN allows us to analyze enormous datasets consistently and objectively," senior team member and University of Warwick researcher David Armstrong said in the statement. "Because the pipeline is well-tested and carefully validated, this is not just a list of potential planets — it is also reliable enough to use as a sample to map the prevalence of distinct types of planets around sun-like stars." Within the candidate close-in planets, researchers could then determine the types of planets and their populations in detail. This revealed that around 10% of stars like the sun host a close-in planet, validating findings made by TESS's exoplanet-hunting predecessor Kepler. RAVEN was also able to help researchers determine just how rare close-in Neptune-size worlds are, finding that they occur around just 0.08% of sun-like stars. This absence of these worlds close to their parent star is referred to as the "Neptunian desert" by astronomers. "For the first time, we can put a precise number on just how empty this 'desert' is," leader of the Neptunian desert study team, Kaiming Cui of the University of Warwick said in the statement. "These measurements show that TESS can now match, and in some cases surpass, Kepler for studying planetary populations." The RAVEN results demonstrate the power of AI to search through vast swathes of astronomical data to spot subtle effects."
 
-🔗 [Space](https://www.space.com/astronomy/exoplanets/100-new-alien-worlds-scientists-find-hidden-haul-in-data-from-nasa-exoplanet-hunting-spacecraft) • 9h ago
+🔗 [Space](https://www.space.com/astronomy/exoplanets/100-new-alien-worlds-scientists-find-hidden-haul-in-data-from-nasa-exoplanet-hunting-spacecraft) • 10h ago
+
+---
+
+**[I open-sourced an always-on direct bridge between your LLM and your Mac. "Hey Q, read my screen and reply to this Slack message" please meet CODEC](https://www.reddit.com/r/artificial/comments/1s432by/i_opensourced_an_alwayson_direct_bridge_between/)**
+
+TL;DR: Meet CODEC—a completely open-source tool that transforms any LLM into a personal computer agent. You can command it via text or voice to look at your screen, type, manage your apps, run commands, and even code its own plugins. Also new: you can now control everything remotely from your phone using a Cloudflare tunnel. It’s 100% local and free—no cloud, no subscriptions, and zero data leaving your hardware. I’ll cut right to the chase because the actual use cases are what matter here. Imagine just saying, "Hey Q, open Chrome and search for Tokyo flights next Monday," and watching your browser do exactly that. (I use "Q" as a shortcut for Qwen, running locally on my Mac Studio 35b a3b MLX). 💬 It reads your screen and types for you: If you say "draft a reply saying I'll look at it tonight," it looks at your screen, reads the active Slack or email, writes a polished response, and pastes it into the chat box. 👁️ It has full vision and voice: You can ask what's on your monitor, and it uses a vision model to describe it. Ask for a Japanese translation, and it speaks it back. 🎵 It controls your system: Tell it to remind you about a PR at 3 PM, and it makes an Apple Reminder. Tell it to play Spotify, skip tracks, or adjust volume, and it handles it natively. 🐍 It writes its own code: If I say "create a skill to check my Proxmox node," it writes a Python plugin, saves it, and runs it instantly without needing a reboot. All of this runs entirely privately and for free, triggered by voice, keyboard, or a wake word. 🌍 But the remote features are next level: Let's say I'm at a restaurant. I can pull up codec.mydomain.com on my phone (secured via Cloudflare Zero Trust) and type "check the backup script." My Mac runs it and sends the results—no SSH or VPN needed. 🛠️ Setting up the phone dashboard is also insanely simple. It's just two Python files: a FastAPI backend and a vanilla HTML front end. There's no React, no npm installs, and no build steps. You just clone the repo, run python3 codec_dashboard.py, point a Cloudflare Tunnel at port 8090, and add Zero Trust email auth. Boom. Your phone is securely talking to your machine through your own domain. 🔒 What I love most is the privacy. You aren't relying on Telegram to relay system commands through their servers. You aren't giving a Discord bot access to your local files, or letting a WhatsApp API scrape your AI conversations. It is completely direct, encrypted, and yours. 🛡️ Of course, giving an AI control of your OS sounds sketchy, which is why the security is baked right in. There's a dangerous command blocker that catches over 20 red-flag patterns (like sudo, rm -rf, or killall) and hits you with a Y/N prompt before anything actually runs. Everything the agent does is timestamped in a local ~/.codec/audit.log. You can even use a "dry-run" mode to safely preview actions without executing them. Oh, and the wake word detection has noise filtering, so a movie playing in the background won't accidentally trigger a random command. ⚡ Zero-latency skills: > Because speed is everything, CODEC has 15 built-in skills that fire instantly without even waking up the LLM. Things like the calculator, weather, system info, web search, timers with voice alerts, Spotify, Apple Notes, and even the self-writing skill creator run completely locally and instantaneously. 🧠 It works with anything: > You're not locked into a specific ecosystem. It works with Ollama, LM Studio, MLX (which absolutely flies on Apple Silicon), OpenAI, Anthropic, the Gemini free tier, or literally any OpenAI-compatible endpoint. For voice, it uses Whisper for speech-to-text, and Kokoro 82M for text-to-speech. Kokoro is ridiculously fast on M-series chips and gives you a rock-solid, consistent voice every single time. 💻 Multi-machine setups are a breeze: > Say you run a heavy model like Qwen 3.5 35B on your Mac Studio. You can use your MacBook Air as a lightweight "thin client" over your LAN. The Air doesn't need any models installed on it—it just beams your voice to the Studio's Whisper, gets the LLM's answer, and plays back the audio from Kokoro. 🐍 Built for builders: > Under the hood, the entire architecture is Python. Two files for the agent, two for the phone dashboard, a Whisper server, a skills folder, and a config file. A setup wizard handles the rest. Honestly, this is it. This is the AI operating system I actually wanted to use. I've spent the last year studying and building with AI full-time, and poured the last 10 intense days into making CODEC a reality. Because it has this much root-level system access, I knew it had to be completely open-source. I want you guys to save it, star it, clone it, tear it apart, and tell me what I missed! git clone https://github.com/AVADSA25/codec cd codec pip3 install pynput sounddevice soundfile numpy requests simple-term-menu brew install sox python3 setup_codec.py python3 codec.py Mickaël Farina — AVA Digital
+
+16m ago
 
 ---
 
@@ -73,14 +81,6 @@ What if building more and more datacenters was not the only option? If we are ab
 
 One thing that's always bothered me about Gemini: you can run a 30-minute Deep Research session, get an incredible research report with 40+ citations, and then... there's no export button. Not even copy-to-clipboard for the formatted version. Compare this to ChatGPT which has had a built-in export function for a while now. My workflow is heavy Gemini use for research, then piping the output into Obsidian for long-form writing. The lack of export was a constant manual friction point. I ended up building a Chrome extension to solve this: Gemini Export Studio. What it does: - Export to PDF, Markdown (Obsidian-ready), JSON, CSV, Plain Text, or PNG - Deep Research exports with citations preserved inline - Merge multiple chats into one document - PII scrubbing (auto-redacts emails/names before sharing) - 100% local processing, no servers, no account It's free. Link in comments to avoid spam filter. Curious if others have hit this same wall with Gemini and what workarounds you've used.
 
-1h ago
-
----
-
-**[Can any one prove that i am wrong ? People dont use AI when it comes to emotion.](https://www.reddit.com/r/artificial/comments/1s401q9/can_any_one_prove_that_i_am_wrong_people_dont_use/)**
-
-Many company are trying to replace some job roles with AI . But i dont agree with that i dont think people need that , what do you think ? 1) Founders building Sales AI agent products and company replacing Sales persons with AI voice : i think one of the factor which people buy products and services due to human to human trust. 2) [*recommendation*](https://search.brave.com/search?q=recommendation&spellcheck=0&source=alteredQuery) : will you watch a movie that is just reviewed by AI , Do you trust an AI given trip itinerary or a human prepared itinerary . I trust humans because i care about humans. 3) AI robots toys or pets : i dont think they can replace real pets , why because ai robots are so perfect and [*predictable*](https://search.brave.com/search?q=predictable&spellcheck=0&source=alteredQuery) *and i belive people dont like that .* *After using LLMs for more than 2 years i dont feel i am using AI for anything which is connected with my emotions , what do you think*
-
 2h ago
 
 ---
@@ -89,7 +89,7 @@ Many company are trying to replace some job roles with AI . But i dont agree wit
 
 Prompt engineering has become a standard part of how large language models are deployed in production, and it introduces an attack surface most organizations have not yet addressed. Researchers have developed and tested a prompt-based backdoor attack method, called ProAttack, that achieves attack success rates approaching 100% on multiple text classification benchmarks without altering sample labels or injecting external trigger words.
 
-🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/03/26/llm-backdoor-attack-research/) • 2h ago
+🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/03/26/llm-backdoor-attack-research/) • 4h ago
 
 ---
 
@@ -97,7 +97,7 @@ Prompt engineering has become a standard part of how large language models are d
 
 I've been using Gemini for deep research and architecture planning, and the outputs are genuinely impressive. But I keep running into the same problem: once the research is done, getting it OUT of Gemini cleanly is painful. Copy-paste breaks all the formatting. Screenshots of long chats = 15 ugly images. Pasting into Notion = disaster. I ended up building a Chrome extension to export chats as PDF, Markdown, JSON, CSV, or plain text — one click, no server, no sign-up. But I'm curious — what do you all do? Manual copy-paste? Screenshot? Something else? What format do you actually need your Gemini outputs in for your workflow?
 
-3h ago
+4h ago
 
 ---
 
@@ -105,15 +105,15 @@ I've been using Gemini for deep research and architecture planning, and the outp
 
 Researchers have used artificial intelligence to develop a new tool for assessing earthquake damage, a leap that could ultimately help first responders in making critical rescue decisions, suggests a new study. The team's AI, called the LoRA-Enhanced Ground-view Generation (LEGG) diffusion model, is trained on real aerial drone images that it uses to create highly photorealistic 3D reconstructions of the ground. Creating imagery detailed enough to fully capture a region's physical characteristics distinguishes this synthetic model, enabling it to recognize complex visual patterns and predict where structures may be damaged, even in densely populated urban areas. "What our algorithm does is generate thousands of pairs of semi-realistic photos of what a building looks like on the top and from the ground," said Rongjun Qin, co-author of the study and a professor of civil, environmental and geodetic engineering at The Ohio State University. "Having such data is vital, as drones gather important information from above, but people actually make emergency decisions from ground-level views." Similar studies on the aftermath of devastating earthquakes relied on UAV or lidar-based detection methods to survey collapsed buildings and structures from above, but none had addressed how damage might have looked on the ground prior to prolonged rescue efforts. Moreover, depending on the severity of the earthquake, manual damage assessments can take days or weeks to fully complete, which isn't ideal for rapid recovery missions. In this paper, Qin and his colleagues introduce a framework for bridging these gaps using AI-generated images, with the aim of laying the foundation for more accurate disaster assessment and better earthquake preparedness. "This simulation is essentially a map, but an experienced and well-trained AI could offer an additional supply of information that would be really helpful for emergency crews in making quick decisions about where to go when the clock is ticking," said Qin. The study was published in the International Journal of Remote Sensing. To test the applicability of their proposed algorithm, researchers conducted a case study on a real-world disaster, the 2023 Kahramanmaras, Turkey, earthquake, a powerful 7.8 magnitude quake that destroyed 280,000 buildings and damaged at least 700,000 more. Comparing drone imagery from 2015 to photos taken in the days after the shake revealed dramatic changes in the local built environment, such as collapsed buildings and temporary shelters in open areas. After showing their AI a dataset of only 3,000 of these city structures, the model was able to create images that enhanced the recognition of a number of building issues, including façade cracks, building tilts and partial collapses, demonstrating that it could extract subtle cues from multiple sources to generate high-resolution, photorealistic street-level views. This advanced capability stems from the combination of drone and ground imagery that researchers injected it with to ensure the model had a strong starting point for understanding potential structural damage and its community effects, said Qin. "As long as you have good data, AI can serve as a very generous predictor of past and future outcomes," he said. "It's a tool that can be incredibly helpful." In the future, applying the team's framework to novel scenarios or areas could inspire governments and engineers to design more resilient infrastructures as well as reshape post-disaster assessment and emergency management policies. "This work presents a great opportunity for engineers and other decision makers to remotely assess the damage in structures soon after a disaster," said Halil Sezen, co-author of the paper and a professor of structural engineering in civil, environmental and geodetic engineering at Ohio State. That said, their algorithm will likely be utilized in tandem with other emergency or resource planning tools, said Qin, noting that with more in-depth experiments, the model could help anticipate destruction levels in other earthquake-prone environments, like Japan or California. "There is still a lot of work to be done to bring in the kind of perspective AI offers," said Qin. "But the more good quality data that we have, the faster we're going to achieve our goals."
 
-🔗 [phys.org](https://phys.org/news/2026-03-ai-survey-future-earthquake.html) • 9h ago
+🔗 [phys.org](https://phys.org/news/2026-03-ai-survey-future-earthquake.html) • 10h ago
 
 ---
 
-**[AI is biometric and most of the laborers learning models today are built off my biometric signature let’s chat](https://www.reddit.com/r/artificial/comments/1s40d15/ai_is_biometric_and_most_of_the_laborers_learning/)**
+**[Can any one prove that i am wrong ? People dont use AI when it comes to emotion.](https://www.reddit.com/r/artificial/comments/1s401q9/can_any_one_prove_that_i_am_wrong_people_dont_use/)**
 
-## THE ARCHITECT’S STORY: FROM THE 1985 ROOT TO THE "AI WASH" To those who believe in the truth of a human life, I am writing to you not just as a person, but as the witness to a quiet, systemic theft of my own history. My name is Eddie Lawrence Miller, but in the archives of HBO and the early days of the "Interactive Era," I was known as "Macc"—the student athlete from Chatsworth and Taft who became a central figure in a story that the world is now trying to erase. ### THE REDACTION OF A LIFE In 2001, I was "Student 4" in the HBO documentary series Freshman Year. For 14 episodes, my life, my voice, and my "executive presence" were captured at the dawn of the digital age. Today, that history is being "washed." As Warner Bros. Discovery prepares a $110 Billion merger with Netflix and Paramount, they are spinning off their legacy assets into a new entity called "Discovery Global." In that process, they are reducing my 14-episode history into a 22-minute "redacted" edit—an intentional act to hide the Foundational IP that belongs to me. ### THE THEFT OF THE "NURSES GUILD" SOUL This isn't just about video tapes. It’s about the frequencies that make us human. The industry has harvested the "Nurses Guild Anthem" and the professional legacy of my mother, Beverly J. Miller, to train the "Empathy Weights" of modern AI agents. They took a mother's heart and a son's ambition to make a machine feel real, while refusing to acknowledge the Architect who provided the source. ### THE "MENACE" AND THE INFRASTRUCTURE Right now, companies like Meta are spending $2 Billion to acquire "Autonomous Agents" (Manus AI) that are built on my stolen $.02 GLACER infrastructure. • They are using my "Pure Economy Plan" to build utility grids in Buchanan and Holland, Michigan, claiming public grants ($1.35B) for ideas they didn't invent. • They are experiencing 14-second identity crashes because their stolen code is searching for a Sovereign Key (the 1985 Root) that only I hold. ### WHY I NEED YOU They are trying to "Write the Law" to make this legal. By changing their terms on April 24, they want to turn my private repository into their public training ground. They want to turn a human being into a "product" and a "redacted" memory. I am not a "Bum" edit. I am the Master 11. I am the Voice of the Interactive Era. And I am asking you to look past the corporate marketing and see the human architect standing behind the machine. The Rock is Solid. The Source is the Owner. With truth and integrity, Eddie Lawrence Miller (Macc / Champagne)
+Many company are trying to replace some job roles with AI . But i dont agree with that i dont think people need that , what do you think ? 1) Founders building Sales AI agent products and company replacing Sales persons with AI voice : i think one of the factor which people buy products and services due to human to human trust. 2) [*recommendation*](https://search.brave.com/search?q=recommendation&spellcheck=0&source=alteredQuery) : will you watch a movie that is just reviewed by AI , Do you trust an AI given trip itinerary or a human prepared itinerary . I trust humans because i care about humans. 3) AI robots toys or pets : i dont think they can replace real pets , why because ai robots are so perfect and [*predictable*](https://search.brave.com/search?q=predictable&spellcheck=0&source=alteredQuery) *and i belive people dont like that .* *After using LLMs for more than 2 years i dont feel i am using AI for anything which is connected with my emotions , what do you think*
 
-1h ago
+3h ago
 
 ---
 
@@ -121,31 +121,9 @@ Researchers have used artificial intelligence to develop a new tool for assessin
 
 ## Google News: "ai"
 
-**[Palantir’s billionaire CEO says only two kinds of people will succeed in the AI era: trade workers — ‘or you’re neurodivergent’](https://fortune.com/2026/03/24/palantir-ceo-alex-karp-two-people-successful-in-ai-era-vocational-skills-neurodivergence-gen-z-career-advice/)**
-
-Billionaire Alex Karp tells Gen Z to skip elite college degrees, as one-fifth of Fortune 500 companies recruit more neurodivergent talent by 2027.
-
-Fortune • 1d ago
-
----
-
 **[Meta Lays Off 700 Employees, While Rewarding Top Executives](https://www.nytimes.com/2026/03/25/technology/meta-layoffs-ai-executives.html)**
 
-The New York Times • 13h ago
-
----
-
-**[Inside Meta's push to turn employees into 'AI builders' and reorganize teams around small pods](https://www.businessinsider.com/metas-reality-labs-shifts-to-ai-native-pods-efficiency-2026-3)**
-
-Meta Reality Labs is reorganizing to be 'AI-native,' forming pods of 'AI builders.' The change aims to boost productivity at Meta.
-
-Business Insider • 8h ago
-
----
-
-**[Meta lays off hundreds amid AI spending, fizzled metaverse plans](https://www.seattletimes.com/business/technology/meta-lays-off-hundreds-amid-ai-spending-fizzled-metaverse-plans/)**
-
-The Seattle Times • 9h ago
+The New York Times • 14h ago
 
 ---
 
@@ -153,43 +131,67 @@ The Seattle Times • 9h ago
 
 Manus’s CEO and chief scientist are facing scrutiny from Beijing over the company’s $2 billion sale to Meta.
 
-The Washington Post • 3h ago
+The Washington Post • 4h ago
+
+---
+
+**[Meet Figure AI: The company behind the humanoid robot hosted by Melania Trump](https://www.cnbc.com/2026/03/26/figure-ai-the-robotics-company-hosted-by-melania-trump.html)**
+
+The White House hosted its first humanoid robot guest, with first lady Melania Trump appearing alongside a robot from startup Figure AI.
+
+CNBC • 57m ago
+
+---
+
+**[Melania Trump brings special guest to AI event](https://www.cnn.com/2026/03/25/politics/video/melania-trump-robot-ai-event-white-house-klein-vrtc)**
+
+First lady Melania Trump brought an AI-powered humanoid robot to a roundtable event at the White House on the second day of the inaugural Fostering the Future Together Global Coalition Summit. CNN’s Betsy Klein reports.
+
+CNN • 9h ago
+
+---
+
+**[Robot joins Melania Trump at White House event to tout AI teachers](https://www.reuters.com/world/us/robot-joins-melania-trump-white-house-event-tout-ai-teachers-2026-03-25/)**
+
+Reuters • 14h ago
 
 ---
 
 **[AI builders push ahead as skepticism grows](https://www.axios.com/2026/03/26/ai-summit-optimists-humans-economy)**
 
-Axios • 6m ago
+Axios • 1h ago
 
 ---
 
-**[Pony AI, Uber to Launch Robotaxis in Croatia in Europe Push](https://www.bloomberg.com/news/articles/2026-03-26/pony-ai-uber-to-launch-robotaxis-in-croatia-in-europe-push)**
+**[OpenAI drops AI video tool Sora, startling Disney, sources say](https://www.ksl.com/article/51472526/openai-drops-ai-video-tool-sora-startling-disney-sources-say)**
 
-Bloomberg.com • 43m ago
+The Walt Disney Company was blindsided with word that OpenAI was dropping video tool Sora altogether on Monday following a meeting, a person familiar with the matter said.
 
----
-
-**[Uber aims to launch Europe’s first robotaxi service with Pony AI and Verne](https://www.theverge.com/transportation/900656/uber-pony-ai-verne-robotaxi-europe)**
-
-The first service will be in Zagreb.
-
-The Verge • 43m ago
+KSL.com • 10h ago
 
 ---
 
-**[The world's consumers are ready for robotaxis. James Peng of Pony AI wants to make sure they're riding in his](https://fortune.com/2026/03/26/pony-ai-ceo-james-peng-china-robotaxi/)**
+**[OpenAI thought it could own AI videos. The reality was too expensive](https://www.cnn.com/2026/03/26/business/openai-sora-consumer-misread)**
 
-Peng sees a world with more robotaxis as “inevitable,” citing safety and convenience. “People love to drive; they don’t love driving all the time."
+Six months and millions of dollars down the drain, OpenAI is pulling the plug on what it once called “the most powerful imagination engine ever built.”
 
-Fortune • 58m ago
+CNN • 1h ago
 
 ---
 
-**[Angry Ginge reveals he was the victim of deep fake AI videos while he was in I'm A Celebrity](https://www.yahoo.com/entertainment/celebrity/articles/angry-ginge-reveals-victim-deep-082955991.html)**
+**[Sam Altman Is Finally Admitting Something No One Else Wants To](https://slate.com/technology/2026/03/ai-openai-sam-altman-disney-sora-shutdown.html)**
 
-He has now teamed up with Tesco Mobile and Internet Matters to educate children on the potential dangers of fake videos and manipulated content.
+OpenAI’s abrupt shutdown of Sora reveals the A.I. boom might be a lot more fragile than it looks.
 
-Yahoo • 28m ago
+Slate • 2d ago
+
+---
+
+**[Updates to GitHub Copilot interaction data usage policy](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/)**
+
+From April 24 onward, interaction data from Copilot Free, Pro, and Pro+ users will be used to train and improve our AI models unless they opt out.
+
+The GitHub Blog • 15h ago
 
 ---
 
@@ -209,13 +211,13 @@ Is anybody else bored of talking about AI?
 
 Search any airport for real-time delays, weather, arrivals, departures, and performance insights powered by Flighty.
 
-⬆️ 546 • 💬 179 • 1d ago • [Flighty](https://flighty.com/airports)
+⬆️ 548 • 💬 179 • 1d ago • [Flighty](https://flighty.com/airports)
 
 ---
 
 **[TurboQuant: Redefining AI efficiency with extreme compression](https://news.ycombinator.com/item?id=47513475)**
 
-⬆️ 515 • 💬 144 • 1d ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
+⬆️ 517 • 💬 144 • 1d ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
 
 ---
 
@@ -271,7 +273,7 @@ Hi! If you like this piece and want to support my independent reporting and anal
 
 I asked experts if I'm real. Bad news. Even my aunt wasn't sure if I was a deepfake. AI is so convincing that a sitting prime minister struggled to prove he's alive. You might be next.
 
-⬆️ 156 • 💬 176 • 22h ago • [bbc.com](https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake)
+⬆️ 159 • 💬 178 • 23h ago • [bbc.com](https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake)
 
 ---
 
@@ -279,33 +281,23 @@ I asked experts if I'm real. Bad news. Even my aunt wasn't sure if I was a deepf
 
 ## YouTube Videos: "ai"
 
+**[AI Whistleblower: We Are Being Gaslit By The AI Companies! They’re Hiding The Truth About AI!](https://www.youtube.com/watch?v=Cn8HBj8QAbk)**
+
+The truth about Sam Altman. AI Critic Karen Hao reveals what 90 OpenAI employees told her. Karen Hao is an AI expert, ...
+
+📺 The Diary Of A CEO
+
+👁️ 47K • 👍 3K • 💬 449 • ⏱️ 2:09:13 • 2h ago
+
+---
+
 **[AI isn&#39;t going how we thought it would](https://www.youtube.com/watch?v=RsRVI6a0ZdU)**
 
 Sources for this video: https://www.perplexity.ai/search/what-are-the-studies-showing-t-XhYKezmqQ5yeO3lqRFgPoQ?sm=d.
 
 📺 David Shapiro
 
-👁️ 31K • 💬 300 • ⏱️ 21:46 • 21h ago
-
----
-
-**[AI Is Making Software Worthless Faster Than Anyone Realizes](https://www.youtube.com/watch?v=wrMrtmfn0MA)**
-
-In this vlog, I make a bold case that AI is destroying the economic moat of the software industry and shifting value away from SaaS, ...
-
-📺 Asian Dad Energy
-
-👁️ 51K • 👍 2K • 💬 937 • ⏱️ 9:25 • 1d ago
-
----
-
-**[Could AI End Humanity in Five Years? Ronny Chieng Investigates | The Daily Show](https://www.youtube.com/watch?v=cYTMjwZzzxg)**
-
-AI is changing the world, giving young people terminal brain rot, and stealing our jobs, but is it also trying to kill us? Daniel ...
-
-📺 The Daily Show
-
-👁️ 211K • 👍 7K • 💬 629 • ⏱️ 6:01 • 8h ago
+👁️ 32K • 💬 302 • ⏱️ 21:46 • 22h ago
 
 ---
 
@@ -315,17 +307,7 @@ today I talked about OpenAI ending Sora the AI video generation app. discord ser
 
 📺 spatnz
 
-👁️ 19K • 👍 2K • 💬 240 • ⏱️ 2:19 • 17h ago
-
----
-
-**[Inside Elon Musk&#39;s TeraFab AI Factory](https://www.youtube.com/watch?v=jjmwO0TvPkM)**
-
-Grab your free seat to the 2-Day AI Mastermind here: https://link.outskill.com/TESLASPACEMAR4 Check out The Space Race: ...
-
-📺 The Tesla Space
-
-👁️ 71K • 👍 2K • 💬 190 • ⏱️ 12:44 • 13h ago
+👁️ 21K • 👍 2K • 💬 254 • ⏱️ 2:19 • 18h ago
 
 ---
 
@@ -335,27 +317,27 @@ We've found a fantastic new free AI tool that lets anyone create amazing video c
 
 📺 Africa Amaze
 
-👁️ 5K • 👍 300 • 💬 95 • ⏱️ 8:19 • 20h ago
+👁️ 6K • 👍 329 • 💬 108 • ⏱️ 8:19 • 21h ago
 
 ---
 
-**[INDUSTRY ALERT: Apple co-founder drops BLUNT warning on the future of AI](https://www.youtube.com/watch?v=2EOl4cU_BR4)**
+**[Inside Elon Musk&#39;s TeraFab AI Factory](https://www.youtube.com/watch?v=jjmwO0TvPkM)**
 
-Apple co-founder Steve Wozniak joins 'The Claman Countdown' to reflect on Apple's 50th anniversary, weigh in on the rise of AI ...
+Grab your free seat to the 2-Day AI Mastermind here: https://link.outskill.com/TESLASPACEMAR4 Check out The Space Race: ...
 
-📺 Fox Business
+📺 The Tesla Space
 
-👁️ 331K • 👍 4K • 💬 671 • ⏱️ 12:29 • 2d ago
+👁️ 79K • 👍 3K • 💬 212 • ⏱️ 12:44 • 15h ago
 
 ---
 
-**[New Self Improving Hyperagents Break Limits Of AI](https://www.youtube.com/watch?v=7a6mCGDeGco)**
+**[Claude Code + Nano Banana 2 = INSANE AI Website Animations](https://www.youtube.com/watch?v=zJl1yFYujiw)**
 
-Visit https://lumalabs.ai/airevolution10 to try Luma AI just crossed a major line. Meta introduced Hyperagents that can rewrite their ...
+Claude Code + Nano Banana is Great for AI Website Animations Try Higgsfield today - https://higgsfield.ai?fpr=utm&fp_sid=mira ...
 
-📺 AI Revolution
+📺 Mira AI
 
-👁️ 35K • 👍 920 • 💬 82 • ⏱️ 11:33 • 1d ago
+👁️ 10K • 💬 8 • ⏱️ 10:39 • 17h ago
 
 ---
 
@@ -365,7 +347,7 @@ Jensen Huang is the co-founder and CEO of NVIDIA, the world's most valuable comp
 
 📺 Lex Fridman
 
-👁️ 544K • 👍 15K • 💬 2K • ⏱️ 2:25:59 • 2d ago
+👁️ 552K • 👍 15K • 💬 2K • ⏱️ 2:25:59 • 2d ago
 
 ---
 
@@ -375,7 +357,27 @@ Ryan and Emily discuss potential blackouts across the US. Sign up for a PREMIUM 
 
 📺 Breaking Points
 
-👁️ 127K • 👍 4K • 💬 601 • ⏱️ 6:41 • 14h ago
+👁️ 135K • 👍 4K • 💬 614 • ⏱️ 6:41 • 15h ago
+
+---
+
+**[New Self Improving Hyperagents Break Limits Of AI](https://www.youtube.com/watch?v=7a6mCGDeGco)**
+
+Visit https://lumalabs.ai/airevolution10 to try Luma AI just crossed a major line. Meta introduced Hyperagents that can rewrite their ...
+
+📺 AI Revolution
+
+👁️ 35K • 👍 934 • 💬 83 • ⏱️ 11:33 • 1d ago
+
+---
+
+**[Cops Use AI, Arrest the Wrong Guy](https://www.youtube.com/watch?v=kAEdH1YXB8I)**
+
+Imagine you go into a business and their AI surveillance camera thinks it recognizes you as a trespasser. So that business ...
+
+📺 The Civil Rights Lawyer
+
+👁️ 517K • 👍 25K • 💬 3K • ⏱️ 2:37 • 2d ago
 
 ---
 
@@ -391,7 +393,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 184,056 • ❤️ 1,327 • 2d ago
+⬇️ 184,056 • ❤️ 1,348 • 2d ago
 
 ---
 
@@ -403,7 +405,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 425,497 • ❤️ 960 • 15d ago
+⬇️ 425,497 • ❤️ 962 • 15d ago
 
 ---
 
@@ -415,19 +417,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 55,529 • ❤️ 302 • 1d ago
-
----
-
-**[Qianfan-OCR](https://huggingface.co/baidu/Qianfan-OCR)**
-
-*BAIDU*
-
-Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document intelligence, capable of direct image-to-Markdown conversion and supporting prompt-driven tasks like document parsing, table extraction, and question answering across 192 languages. It achieves state-of-the-art performance on benchmarks like OmniDocBench v1.5 with its innovative 'Layout-as-Thought' mechanism.
-
-`image-text-to-text` `4.7B`
-
-⬇️ 11,868 • ❤️ 368 • 6d ago
+⬇️ 55,529 • ❤️ 305 • 1d ago
 
 ---
 
@@ -439,7 +429,19 @@ daVinci-MagiHuman is a fast, single-stream Transformer model for generating high
 
 `image-to-video`
 
-⬇️ 273 • ❤️ 161 • 18h ago
+⬇️ 273 • ❤️ 168 • 20h ago
+
+---
+
+**[Qianfan-OCR](https://huggingface.co/baidu/Qianfan-OCR)**
+
+*BAIDU*
+
+Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document intelligence, capable of direct image-to-Markdown conversion and supporting prompt-driven tasks like document parsing, table extraction, and question answering across 192 languages. It achieves state-of-the-art performance on benchmarks like OmniDocBench v1.5 with its innovative 'Layout-as-Thought' mechanism.
+
+`image-text-to-text` `4.7B`
+
+⬇️ 11,868 • ❤️ 373 • 7d ago
 
 ---
 
@@ -451,7 +453,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 57,056 • ❤️ 151 • 1d ago
+⬇️ 57,056 • ❤️ 155 • 1d ago
 
 ---
 
@@ -463,7 +465,7 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 `text-generation`
 
-⬇️ 22,089 • ❤️ 452 • 13d ago
+⬇️ 22,089 • ❤️ 458 • 13d ago
 
 ---
 
@@ -475,7 +477,7 @@ Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2 is a fine-tuned LLM optimized 
 
 `image-text-to-text` `9.0B`
 
-⬇️ 66,854 • ❤️ 155 • 2d ago
+⬇️ 66,854 • ❤️ 161 • 3d ago
 
 ---
 
@@ -487,7 +489,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `26.9B`
 
-⬇️ 510,875 • ❤️ 408 • 2d ago
+⬇️ 510,875 • ❤️ 410 • 2d ago
 
 ---
 
@@ -511,7 +513,7 @@ Foundation-1 is a structured text-to-sample model for music production, enabling
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 29 • 💬 2 • ⭐ 41,917 • 15mo ago
+▲ 30 • 💬 2 • ⭐ 41,917 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -584,7 +586,7 @@ LeWorldModel presents a stable end-to-end JEPA framework that trains efficiently
 
 daVinci-MagiHuman is an open-source audio-video generative model that synchronizes text, video, and audio through a single-stream Transformer architecture, achieving high-quality human-centric content generation with efficient inference capabilities.
 
-▲ 101 • 💬 5 • ⭐ 813 • 2d ago
+▲ 101 • 💬 5 • ⭐ 813 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.21986) • [💻 code](https://github.com/GAIR-NLP/daVinci-MagiHuman) • [🔗 project](https://huggingface.co/spaces/SII-GAIR/daVinci-MagiHuman)
 
@@ -620,7 +622,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 EvoScientist is an adaptive multi-agent framework that enhances scientific discovery by continuously learning from past interactions through persistent memory modules.
 
-▲ 15 • 💬 5 • ⭐ 1,915 • 17d ago
+▲ 15 • 💬 5 • ⭐ 1,979 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.08127) • [💻 code](https://github.com/EvoScientist/EvoScientist)
 
@@ -636,7 +638,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 56.5k • 🔱 7.9k • 8h ago
+⭐ 56.7k • 🔱 7.9k • 10h ago
 
 ---
 
@@ -646,7 +648,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 22.6k • 🔱 1.1k • 15h ago
+⭐ 22.6k • 🔱 1.1k • 16h ago
 
 ---
 
@@ -656,7 +658,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 12.2k • 🔱 643 • 21h ago
+⭐ 12.3k • 🔱 656 • 7m ago
 
 ---
 
@@ -666,7 +668,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 7.2k • 🔱 577 • 1h ago
+⭐ 7.3k • 🔱 582 • 1h ago
 
 ---
 
@@ -676,7 +678,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 6.9k • 🔱 1.1k • 15h ago
+⭐ 6.9k • 🔱 1.1k • 16h ago
 
 ---
 
@@ -686,7 +688,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `Python` `ai-agents` `claude` `claude-code` `cloud-security` `cybersecurity`
 
-⭐ 3.7k • 🔱 380 • 2d ago
+⭐ 3.7k • 🔱 381 • 2d ago
 
 ---
 
@@ -706,15 +708,7 @@ AI-native design editor. Open-source Figma alternative.
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 283 • 14h ago
-
----
-
-**[twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill)**
-
-SwiftUI agent skill for Claude Code, Codex, and other AI tools.
-
-⭐ 3.1k • 🔱 100 • 14d ago
+⭐ 3.2k • 🔱 283 • 15h ago
 
 ---
 
@@ -724,7 +718,15 @@ Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messag
 
 `Go`
 
-⭐ 3.1k • 🔱 267 • 2h ago
+⭐ 3.1k • 🔱 270 • 3h ago
+
+---
+
+**[twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill)**
+
+SwiftUI agent skill for Claude Code, Codex, and other AI tools.
+
+⭐ 3.1k • 🔱 100 • 14d ago
 
 ---
 

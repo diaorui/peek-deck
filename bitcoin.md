@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-26T08:58:26.048306+00:00'
+updated: '2026-03-26T10:07:38.919536+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
 - social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 26, 2026 at 08:58 UTC  
+**Last Updated:** March 26, 2026 at 10:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
-**7d:** -0.7%  
-**30d:** +3.0%  
-**90d:** -20.4%  
-**1y:** -19.7%  
+**24h:** -2.9%  
+**7d:** -1.3%  
+**30d:** +2.4%  
+**90d:** -20.9%  
+**1y:** -20.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1400.43B
+**Market Cap:** $1390.30B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--44.5%
+-44.9%
 
 **All-Time Low:** $67.81
-+103170.9%
++102411.4%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[My favourite video 😅](https://www.reddit.com/r/Bitcoin/comments/1s3usw5/my_favourite_video/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Be careful out there, Morgan Stanley wants your bitcoin](https://www.reddit.com/r/Bitcoin/comments/1s3pa4v/be_careful_out_there_morgan_stanley_wants_your/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -93,15 +93,7 @@ Rank #1
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-2h ago
-
----
-
-**[Ranking the top CEXs by customer support.](https://www.reddit.com/r/Bitcoin/comments/1s400vj/ranking_the_top_cexs_by_customer_support/)**
-
-​ Kraken (always incredible) BitMart (actually had a human respond to my ticket in 10 mins) Coinbase (hit or miss) Binance (good luck). Customer service is severely underrated until you actually need it to unlock a deposit. Then you know who to trust.
-
-2h ago
+4h ago
 
 ---
 
@@ -109,7 +101,15 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 The 70K before the 70K before the 68K before the 70K before the 72K before the 70K! GAHDAM! AMERICA!!! 🦅🦅🦅
 
-10h ago
+11h ago
+
+---
+
+**[Ranking the top CEXs by customer support.](https://www.reddit.com/r/Bitcoin/comments/1s400vj/ranking_the_top_cexs_by_customer_support/)**
+
+​ Kraken (always incredible) BitMart (actually had a human respond to my ticket in 10 mins) Coinbase (hit or miss) Binance (good luck). Customer service is severely underrated until you actually need it to unlock a deposit. Then you know who to trust.
+
+3h ago
 
 ---
 
@@ -117,23 +117,7 @@ The 70K before the 70K before the 68K before the 70K before the 72K before the 7
 
 i have no idea of what i’m doing.. i just felt like it.. is it a good time to start this?
 
-21h ago
-
----
-
-**[Weird how France went from calling crypto “unproductive wealth” to Macron speaking at a blockchain event in Paris…](https://www.reddit.com/r/Bitcoin/comments/1s39hzc/weird_how_france_went_from_calling_crypto/)**
-
-France has often framed crypto as a form of “unproductive wealth” basically something speculative, not especially useful to the real economy and that’s even more striking when you consider that crypto gains for individuals in France are generally taxed at a 30% flat rate And yet Macron is now attending Paris Blockchain Week this April At first glance, that sounds inconsistent. But I think both positions can coexist My read is that France may still be skeptical of crypto as a speculative asset, while recognizing that blockchain infrastructure, tokenization, stablecoins, digital identity and onchain finance are becoming too important to ignore I feel like this is less about France suddenly being pro-crypto, and more about France not wanting to be late on a sector that could become strategic What do you think? A real turning point, or just a PR move?
-
-20h ago
-
----
-
-**[I got my mnemonic phrashe from before 2016 from blockchain.info but cant access my acc](https://www.reddit.com/r/Bitcoin/comments/1s40jhh/i_got_my_mnemonic_phrashe_from_before_2016_from/)**
-
-What can i do i have the login link but forgot my email it always asks for mail verification and the support is not helping i opend 3 tickets and they keep ignoring me after they send me an automatic answer. When i click the login link it shows me Internal error
-
-1h ago
+22h ago
 
 ---
 
@@ -141,15 +125,31 @@ What can i do i have the login link but forgot my email it always asks for mail 
 
 I’m a UK-based user of Gemini and I’ve been trying to withdraw my Bitcoin for weeks with no success. Every time I attempt a withdrawal, I get stuck in a broken authentication loop: I swipe to confirm the withdrawal It then asks me to approve via Authy But Gemini has removed Authy/SMS support And there is nowhere to enter the code So the withdrawal just… can’t complete. My account was recently recovered, and since then withdrawals appear to be restricted. I’ve contacted support multiple times and only get generic responses like “we’re working on it.” Now the really concerning part: Gemini is shutting down operations in the UK soon, and I still cannot access my funds. At this point, it feels like my assets are effectively locked due to a system failure on their side. Has anyone else experienced: The Authy/passkey issue? Withdrawal blocks after account recovery? Any success actually getting funds out recently? I’ve now escalated this to the Financial Conduct Authority and the Financial Ombudsman Service. Would really appreciate hearing if others are dealing with this or if anyone found a workaround.
 
-4h ago
+5h ago
 
 ---
 
-**[Pen & Ink](https://www.reddit.com/r/Bitcoin/comments/1s3br1v/pen_ink/)**
+**[I got my mnemonic phrashe from before 2016 from blockchain.info but cant access my acc](https://www.reddit.com/r/Bitcoin/comments/1s40jhh/i_got_my_mnemonic_phrashe_from_before_2016_from/)**
 
-Art inspired by the best asset. Art by Shipwreck Sean
+What can i do i have the login link but forgot my email it always asks for mail verification and the support is not helping i opend 3 tickets and they keep ignoring me after they send me an automatic answer. When i click the login link it shows me Internal error
 
-18h ago
+2h ago
+
+---
+
+**[Weird how France went from calling crypto “unproductive wealth” to Macron speaking at a blockchain event in Paris…](https://www.reddit.com/r/Bitcoin/comments/1s39hzc/weird_how_france_went_from_calling_crypto/)**
+
+France has often framed crypto as a form of “unproductive wealth” basically something speculative, not especially useful to the real economy and that’s even more striking when you consider that crypto gains for individuals in France are generally taxed at a 30% flat rate And yet Macron is now attending Paris Blockchain Week this April At first glance, that sounds inconsistent. But I think both positions can coexist My read is that France may still be skeptical of crypto as a speculative asset, while recognizing that blockchain infrastructure, tokenization, stablecoins, digital identity and onchain finance are becoming too important to ignore I feel like this is less about France suddenly being pro-crypto, and more about France not wanting to be late on a sector that could become strategic What do you think? A real turning point, or just a PR move?
+
+21h ago
+
+---
+
+**[⚡ Lightning Thursday! March 26, 2026: Explore the Lightning Network!⚡](https://www.reddit.com/r/Bitcoin/comments/1s40hkz/lightning_thursday_march_26_2026_explore_the/)**
+
+The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments. Here is the place to discuss and learn more about lightning! Ask your questions about lightning Provide reviews, feedback, comparisons of LN apps, services, websites etc Learn about new LN features, development, apps Link to good quality resources (articles, wikis etc) Resources: Here is an awesome list of resources compiled by Jameson Lopp: https://bitcoinfo.org/lightning.html Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/ Previous threads: Search Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY Lightning stores: https://www.lightningnetworkstores.com/ Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners and r/thelightningnetwork
+
+3h ago
 
 ---
 
@@ -161,7 +161,7 @@ Art inspired by the best asset. Art by Shipwreck Sean
 
 Bhutan moves another 500 bitcoin to exchanges as 2026 outflows top $150 million
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -169,31 +169,31 @@ CoinDesk • 3h ago
 
 Which beaten-down crypto is the better buy right now? Two Motley Fool contributors make their cases for Bitcoin and XRP.
 
-The Motley Fool • 20h ago
+The Motley Fool • 21h ago
 
 ---
 
-**[Google is accelerating its timeline for quantum reckoning. Here’s when Bitcoin, Ethereum need to be ready](https://www.dlnews.com/articles/markets/google-new-date-quantum-reckoning-bitcoin-ethereum-dev-prepare/)**
-
-Google has set a timeline for post-quantum migration by 2029.  Quantum computing could theoretically undermine most cryptocurrencies' encryption models.  Ethereum Foundation has announced a four-pronged roadmap to address the quantum computing threat by 2029.
-
-dlnews.com • 2h ago
-
----
-
-**[Connecting Excellence Group eyes further Bitcoin treasury growth after record monthly revenues](https://ca.finance.yahoo.com/news/connecting-excellence-group-eyes-further-073200274.html)**
+**[Connecting Excellence Group eyes further Bitcoin treasury growth after record monthly revenues](https://uk.finance.yahoo.com/news/connecting-excellence-group-eyes-further-073200770.html)**
 
 Connecting Excellence Group Plc (AQSE:XCE, OTCQB:XCELF), the executive recruitment firm with a Bitcoin treasury strategy, has reported record monthly net fee income of £250,000 in January 2026, following its debut on London's Aquis Stock Exchange in December. The company has continued to...
 
-Yahoo! Finance Canada • 1h ago
+Yahoo Finance UK • 2h ago
 
 ---
 
-**[Some bitcoin indicators are still going the wrong way, challenging the bullish $70,000 holdout story](https://www.coindesk.com/markets/2026/03/26/some-bitcoin-indicators-are-still-going-the-wrong-way-challenging-the-bullish-usd70-000-holdout-story)**
+**[The SEC Just Made a Huge Change in Its Cryptocurrency Regulations. Does That Make Bitcoin a Buy With $1,000?](https://www.fool.com/investing/2026/03/26/the-sec-just-massively-updated-its-cryptocurrency/)**
 
-Key indicators cloud the bullish $70,000 holdout story.
+The big picture just got a lot sunnier for most of the leading cryptocurrencies.
 
-CoinDesk • 2h ago
+The Motley Fool • 2m ago
+
+---
+
+**[Michael Saylor’s Strategy dominates DAT bitcoin buying as treasury demand collapses](https://www.coindesk.com/markets/2026/03/26/michael-saylor-s-strategy-dominates-dat-bitcoin-buying-as-treasury-demand-collapses)**
+
+Strategy accounted for nearly all recent bitcoin digital-asset treasury purchases, with other firms’ share dropping from 95% to about 2%, CryptoQuant data show.
+
+CoinDesk • 46m ago
 
 ---
 
@@ -205,11 +205,9 @@ KCRG • 1d ago
 
 ---
 
-**[Bitcoin steadies above $71,000 as oil falls below $100 after U.S. drafts 15‑point Iran peace plan](https://www.coindesk.com/markets/2026/03/25/bitcoin-steadies-above-usd71-000-as-oil-drops-below-usd100-on-u-s-15-point-plan-to-end-iran-war)**
+**[Bitcoin falls below $70k amid uncertainty over Iran war, US regulation](https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-70k-amid-uncertainty-over-iran-war-us-regulation-4581487)**
 
-Brent crude fell 4.7% and Asian equities rallied 1.9% as Washington delivered a ceasefire proposal to Tehran via Pakistan, fueling the most sustained optimism since the conflict began a month ago.
-
-CoinDesk • 1d ago
+Investing.com • 2h ago
 
 ---
 
@@ -217,7 +215,7 @@ CoinDesk • 1d ago
 
 Nearly $15 billion in Bitcoin options expire on Deribit Friday, coinciding with a geopolitical deadline that could spark weekend volatility.
 
-Decrypt • 12h ago
+Decrypt • 13h ago
 
 ---
 
@@ -225,7 +223,7 @@ Decrypt • 12h ago
 
 On today's episode of CNBC Crypto World, bitcoin moves towards $71,000 after Iran counters a U.S. ceasefire plan. Also, Senators reportedly reached an agreement on crypto market structure legislation language to settle a dispute between the banking and crypto sectors. Franklin Templeton's Max Gokhman also discusses how bitcoin is performing as the Iran war continues.
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
@@ -281,33 +279,43 @@ Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 3
 
 ## YouTube Videos: "bitcoin"
 
+**[The $10 Trillion &quot;Trojan Horse&quot;: Morgan Stanley’s Bitcoin Plan](https://www.youtube.com/watch?v=N_neCIi4zFA)**
+
+The links below may include affiliate links, which means I may receive a commission at no cost to you if you make a purchase ...
+
+📺 Digital Asset News
+
+👁️ 6K • 👍 493 • 💬 42 • ⏱️ 24:59 • 15h ago
+
+---
+
+**[$867B GIANT Sends A HUGE Bitcoin WARNING (YOU HAVE 9 MONTHS) | EP 1468](https://www.youtube.com/watch?v=iE87IDjTwK4)**
+
+NEW REPORTS HOT OFF THE PRESS TAKING A CONTRARIAN VIEW OF WHERE BITCOIN CURRENTLY SITS IN PRICE ...
+
+📺 Simply Bitcoin
+
+👁️ 7K • 👍 339 • 💬 75 • ⏱️ 1:25:26 • 15h ago
+
+---
+
 **[They&#39;re HIDING $47 TRILLION in Debt (Bitcoin Already Knows)](https://www.youtube.com/watch?v=5I-5UjZ4lqk)**
 
 The U.S. just revealed a $47 trillion liability problem and almost nobody is talking about it. Add rising interest costs, war tensions, ...
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 2K • 💬 94 • ⏱️ 20:42 • 9h ago
+👁️ 17K • 👍 2K • 💬 104 • ⏱️ 20:42 • 10h ago
 
 ---
 
-**[Bitcoin inches toward $71,000 as hopes for U.S.-Iran talks push oil prices lower: CNBC Crypto World](https://www.youtube.com/watch?v=zt5AeGbHVxI)**
+**[Bitcoin - A Realistic Prediction by End of Year 🎯](https://www.youtube.com/watch?v=6h5l5GNbHXo)**
 
-On today's episode of CNBC Crypto World, bitcoin moves towards $71000 after Iran counters a U.S. ceasefire plan. Also, Senators ...
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Follow Brandon: https://x.com/BranBTC Buy, ...
 
-📺 CNBC Television
+📺 Altcoin Daily
 
-👁️ 8K • 👍 97 • 💬 141 • ⏱️ 8:47 • 13h ago
-
----
-
-**[This Signal Says Bitcoin&#39;s Bottom Is In](https://www.youtube.com/watch?v=bJM_2AIU3kY)**
-
-Markets are unstable, but Bitcoin may be quietly setting up for its next major move. As defaults rise and traditional collateral ...
-
-📺 Simply Bitcoin
-
-👁️ 23K • 👍 1K • 💬 63 • ⏱️ 12:39 • 1d ago
+👁️ 8K • 👍 266 • 💬 44 • ⏱️ 1:06 • 12h ago
 
 ---
 
@@ -317,17 +325,17 @@ In this video, we take a data-driven look at Bitcoin as it shows signs of prepar
 
 📺 Benjamin Cowen
 
-👁️ 98K • 👍 6K • 💬 407 • ⏱️ 17:16 • 1d ago
+👁️ 100K • 👍 6K • 💬 411 • ⏱️ 17:16 • 1d ago
 
 ---
 
-**[Michael Saylor Spent $55B On Bitcoin](https://www.youtube.com/watch?v=UZqfkmHsbnU)**
+**[BITCOIN: YOU ARE BEING TESTED](https://www.youtube.com/watch?v=aJyfNYz8r8Y)**
 
-CONNECT WITH US* IG: https://www.instagram.com/icedcoffeehour JACK: https://www.instagram.com/jlsselby ...
+DM me the word “CBM” on Telegram to join my private group: https://t.me/CryptoByMathieu BloFin: ...
 
-📺 The Iced Coffee Hour
+📺 Mathieu - C₿M
 
-👁️ 18K • 👍 157 • 💬 22 • ⏱️ 0:25 • 10h ago
+👁️ 3K • 👍 313 • 💬 31 • ⏱️ 12:34 • 12h ago
 
 ---
 
@@ -337,7 +345,7 @@ Everyone thinks they understand Bitcoin... but they don't. Because if Bitcoin is
 
 📺 Casual Finance
 
-👁️ 70K • 👍 4K • 💬 1K • ⏱️ 9:55 • 1d ago
+👁️ 72K • 👍 5K • 💬 1K • ⏱️ 9:55 • 1d ago
 
 ---
 
@@ -347,7 +355,17 @@ You're not going to want to miss this INCREDIBLE Ether, technical analysis and i
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 246 • 💬 100 • ⏱️ 13:34 • 14h ago
+👁️ 5K • 👍 250 • 💬 101 • ⏱️ 13:34 • 15h ago
+
+---
+
+**[Gareth Soloway&#39;s Urgent Warning To All Bitcoin Investors — Gold Is Crashing, This Changes Everything](https://www.youtube.com/watch?v=UZhVCWeM6J4)**
+
+The 20 millionth Bitcoin was mined this month. 95% of all Bitcoin that will EVER exist is now in circulation. Gold just had its worst ...
+
+📺 Money Talks
+
+👁️ 1K • 👍 38 • 💬 84 • ⏱️ 14:25 • 14h ago
 
 ---
 
@@ -357,27 +375,7 @@ Stop Guessing - Ask Clash (beta) ▻ https://www.askclash.ai/ Make FREE Crypto P
 
 📺 CryptosRUs
 
-👁️ 8K • 👍 610 • 💬 183 • ⏱️ 7:15 • 8h ago
-
----
-
-**[THE GREAT ROTATION FROM GOLD TO BITCOIN HAS BEGUN](https://www.youtube.com/watch?v=eCPsutO1Nvw)**
-
-Gold just experienced one of the most violent drawdowns in modern history… and almost nobody is asking the right question: ...
-
-📺 Swan Bitcoin
-
-👁️ 11K • 👍 659 • 💬 41 • ⏱️ 14:07 • 15h ago
-
----
-
-**[🚨 Bitcoin Reclaims $70K — Gold&#39;s Massive Bounce — SPX Fighting for a Higher Low](https://www.youtube.com/watch?v=Fg4-SdEKdlw)**
-
-Bitcoin reclaims $70K as gold puts in a massive bounce and SPX fights to establish a higher low — live breakdown of whether this ...
-
-📺 Krown
-
-👁️ 6K • 👍 417 • 💬 136 • ⏱️ 1:57:20 • 14h ago
+👁️ 9K • 👍 653 • 💬 179 • ⏱️ 7:15 • 9h ago
 
 ---
 
