@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-26T21:32:44.627547+00:00'
+updated: '2026-03-26T22:31:18.508251+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 26, 2026 at 21:32 UTC  
+**Last Updated:** March 26, 2026 at 22:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Yeah, front flips. I know, I've seen a lot of "who cares," "useless flex," "why 
 
 **[This Is How You Beat the Biggest Big Wheeled Bot](https://www.reddit.com/r/robotics/comments/1s4demt/this_is_how_you_beat_the_biggest_big_wheeled_bot/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -58,7 +58,7 @@ From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/20347089382690366
 
 moze neka usporedba/ i iskustva da bi mi pomoglo odabrat maturantica sam opce gimnazije otp mi je prosjek 4.6 najvise voljm matematiku i to je mozda bilo nesto sto mi je jako dobro islo kroz srednju( i gradivo i natjecanja)
 
-57m ago
+1h ago
 
 ---
 
@@ -66,13 +66,13 @@ moze neka usporedba/ i iskustva da bi mi pomoglo odabrat maturantica sam opce gi
 
 curious what people think about the Livox Avia in today’s stack for mapping / slam in 2026. I used these in a project around 2022/2023, but haven't used them since. It always seemed like a strong middle ground between lower-cost Livox units and more expensive survey-grade systems, especially for UAV mapping and longer-range perception. My team used it for a mapping / slam project perviously, but I noticed they are sold out on DJI site. Are these in crazy demand or just not manufactured anymore? I ask because I have two brand new Avia units (never used, still sealed — from a startup project that pivoted), are they of any value in selling or should I try to find a way to make money with them from a mapping / service business? If anyone happens to be looking for one, feel free to reach out — but mostly just trying to understand the current landscape.
 
-1h ago
+2h ago
 
 ---
 
 **[Gotta Start Somewhere! ALMA.GeoffreyAment](https://www.reddit.com/r/robotics/comments/1s4hpay/gotta_start_somewhere_almageoffreyament/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -80,13 +80,13 @@ curious what people think about the Livox Avia in today’s stack for mapping / 
 
 Hi everyone! I just open-sourced a small project called CasMuMPC: https://github.com/ChenDavidTimothy/casmu-mpc It uses CasADi for the MPC side and MuJoCo for the plant simulation side, with the boundary between the two kept explicit. This is not meant to be a full MPC framework. The idea is much simpler: a readable reference repo for building and testing MPC controllers against an external physics engine, especially in cases where the controller model and the simulated plant should stay clearly separated. I’m keeping the focus on mathematical clarity, straightforward implementation, and transparent controller-plant interfacing. I plan to keep expanding the examples over time, including more advanced use cases. Contributions are welcome, and the repo is MIT licensed. Hope it is useful to you!
 
-2h ago
+3h ago
 
 ---
 
 **[Mechatronics, what's it like?](https://www.reddit.com/r/robotics/comments/1s4eaa2/mechatronics_whats_it_like/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -94,7 +94,7 @@ Hi everyone! I just open-sourced a small project called CasMuMPC: https://github
 
 I recently started working with the TurtleBot3 simulation in Gazebo using ROS2. So far, I’ve: - Cloned and launched the TB3 simulation - Explored basic movement and sensor data (LiDAR) - Started looking into the code/configs for SLAM and Nav2 While going through the stack, I realized things get complex pretty quickly — especially understanding how SLAM, localization, and navigation all connect. Right now, I’m a bit confused about where to focus. For example: - In SLAM, should I focus more on the algorithm concepts (like mapping/localization) or on the ROS2 implementation (packages like slam_toolbox)? - In Nav2, there are many components (costmaps, planners, controllers) — what’s the most important part to understand first? - Is it better to treat Nav2 as a “black box” initially and then break it down, or understand each module deeply from the start? My goal is to eventually build and control my own robot (starting in simulation). Would really appreciate advice on: 👉 What concepts/components I should prioritize 👉 A good learning path for SLAM + Nav2 in ROS2 Thanks!
 
-16h ago
+17h ago
 
 ---
 
@@ -118,7 +118,7 @@ abcnews.com • 1d ago
 
 **[US lawmakers to introduce bill to ban government use of Chinese robots](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/)**
 
-Reuters • 4h ago
+Reuters • 5h ago
 
 ---
 
@@ -134,7 +134,7 @@ CNN • 1d ago
 
 “This is a hazard to people’s safety.”
 
-New York Post • 22h ago
+New York Post • 23h ago
 
 ---
 
@@ -142,7 +142,7 @@ New York Post • 22h ago
 
 Two recent incidents of food delivery robots smashing into CTA bus shelters days apart happened as Chicagoans continue to debate whether the robots are a public benefit or a nuisance.
 
-ABC7 Chicago • 22h ago
+ABC7 Chicago • 23h ago
 
 ---
 
@@ -150,7 +150,7 @@ ABC7 Chicago • 22h ago
 
 It's been a bad week for burritos on wheels.
 
-Popular Science • 2h ago
+Popular Science • 3h ago
 
 ---
 
@@ -158,7 +158,7 @@ Popular Science • 2h ago
 
 A spokesperson for OpenAI said the discontinuation of Sora comes as the company plans to focus on robotics rather than generative imagery.
 
-Business Insider • 1d ago
+Business Insider • 2d ago
 
 ---
 
@@ -166,7 +166,7 @@ Business Insider • 1d ago
 
 A new system increases throughput in automated warehouses by adaptively determining which robots should go first to avoid congestion and collisions. The work was led by researchers from MIT and Symbotic.
 
-MIT News • 17h ago
+MIT News • 18h ago
 
 ---
 
@@ -194,7 +194,7 @@ Humanoid robots have been making appearances through social media, tv segments, 
 
 📺 NBC News
 
-👁️ 65K • 👍 453 • 💬 307 • ⏱️ 3:05 • 18h ago
+👁️ 65K • 👍 453 • 💬 307 • ⏱️ 3:05 • 19h ago
 
 ---
 
@@ -244,7 +244,7 @@ A wave of attention is building around a new concept from Apple that suggests th
 
 📺 Carros Show
 
-👁️ 4K • 👍 94 • 💬 9 • ⏱️ 8:19 • 6d ago
+👁️ 4K • 👍 94 • 💬 9 • ⏱️ 8:19 • 7d ago
 
 ---
 

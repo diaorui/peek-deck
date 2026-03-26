@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-26T21:32:44.618021+00:00'
+updated: '2026-03-26T22:31:18.499073+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- videos
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 26, 2026 at 21:32 UTC  
+**Last Updated:** March 26, 2026 at 22:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 The government-sponsored mortgage giant will accept Bitcoin and USDC as collateral through a new program with Better Home and Coinbase.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/coinbase-fannie-mae-enable-crypto-120846995.html) • 8h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/coinbase-fannie-mae-enable-crypto-120846995.html) • 9h ago
 
 ---
 
@@ -89,13 +89,13 @@ The government-sponsored mortgage giant will accept Bitcoin and USDC as collater
 
 The other day we posted about how our current monetary system prices out many from home ownership, and how bitcoin is part of the solution and that is becoming more true every day. Starting today, homebuyers can pledge Bitcoin as downpayment collateral through a new Coinbase + Better Home & Finance program backed by Fannie Mae, which underwrites roughly half of all U.S. mortgages. Here are the key elements: --Homebuyers don't sell their bitcoin so there's no taxable event --No margin calls, so if Bitcoin drops 30%, the mortgage terms don't change
 
-6h ago
+7h ago
 
 ---
 
 **[My favourite video 😅](https://www.reddit.com/r/Bitcoin/comments/1s3usw5/my_favourite_video/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -103,7 +103,7 @@ The other day we posted about how our current monetary system prices out many fr
 
 It was baddd. It was about bitcoins scarcity and how the fed prints and prints and never stops. Even the professor was laughing. So embarrassing, luckily it was only in front of some of the class, not the whole class.
 
-3h ago
+4h ago
 
 ---
 
@@ -111,7 +111,7 @@ It was baddd. It was about bitcoins scarcity and how the fed prints and prints a
 
 Been waiting for better entry point and decided 65k is where I'll make big move. Planning to liquidate significant portion from my equity investments and go heavy on Bitcoin at that level. For now just doing regular purchases whenever these smaller drops happen. Yeah 25k would be amazing opportunity but doesn't seem realistic anymore. 65k feels like more achievable target where I can really load up the bags. Anyone else waiting for specific price levels to make larger buys?
 
-7h ago
+8h ago
 
 ---
 
@@ -119,7 +119,7 @@ Been waiting for better entry point and decided 65k is where I'll make big move.
 
 been thinking about this for few days now and decided to take break from all bitcoin related content. getting overwhelmed by constant noise online these days. every platform has someone screaming about what i should believe or do with my coins joined this space because i believed in technology but now feels like everyone just wants to push their agenda. most of these influencers probably just making content for views anyway going to unfollow most crypto accounts and focus in other things for while. started learning digital art recently and already spent like 12 hours working on single project. much more relaxing than checking charts every hour need to get back to basics and remember why i got interested on bitcoin in first place. maybe after few weeks away from all this drama i can come back with clearer head anyone else taking breaks like this?
 
-10h ago
+11h ago
 
 ---
 
@@ -127,13 +127,13 @@ been thinking about this for few days now and decided to take break from all bit
 
 Company warns entire industry to move off RSA and EC more quickly.
 
-🔗 [Ars Technica](https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/) • 8h ago
+🔗 [Ars Technica](https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/) • 9h ago
 
 ---
 
 **[TD Bankers Are Now Wearing Bitcoin Ties...](https://www.reddit.com/r/Bitcoin/comments/1s4fpaz/td_bankers_are_now_wearing_bitcoin_ties/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -141,7 +141,7 @@ Company warns entire industry to move off RSA and EC more quickly.
 
 So I finally pulled the trigger and snagged 0.01 BTC while prices are down. Pretty stoked about it. Now I'm wondering what's a solid target amount for long-term holding? Thinking 0.21 might be my next milestone but curious what others are aiming for. Anyone have thoughts on where we're headed price-wise? I know nobody has a crystal ball but always interested in hearing different perspectives on potential recovery timelines.
 
-2h ago
+3h ago
 
 ---
 
@@ -149,7 +149,7 @@ So I finally pulled the trigger and snagged 0.01 BTC while prices are down. Pret
 
 Hey all — I’m buying an apartment in Portugal and weighing two options: Option 1: Sell ~1 BTC for the down payment Option 2: Borrow €80k against 2.2 BTC at ~1.24% APY (Morpho) On paper, borrowing feels like the obvious choice — low interest, keep exposure to BTC. That said, I’ve never used BTC as collateral before, so I want to sanity check the risks. Current LTV would be ~60% Liquidation threshold is higher (so some buffer, but not huge) Main concern: downside volatility in BTC (e.g. another leg down) I’m long-term bullish, but I don’t want to get wiped out by short-term moves or forced liquidation. For those who’ve done this before: How do you think about “safe” LTV levels? At what point does this become reckless vs. smart leverage? Any rules of thumb (e.g. target LTV, when to top up, etc.)? Appreciate any real-world experience — especially from people who’ve actually gone through a drawdown while leveraged. https://preview.redd.it/8pd84k1ukdrg1.png?width=754&format=png&auto=webp&s=e0c7c5f46a775ee75f273af5131d393447f4bc2a
 
-9h ago
+10h ago
 
 ---
 
@@ -169,7 +169,7 @@ CNBC • 1d ago
 
 Bitcoin has held up better than gold and silver during the Iran war, with signs of inflows and rising activity, JPMorgan analysts said.
 
-The Block • 3h ago
+The Block • 4h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Block • 3h ago
 
 It was an ugly day all around in markets as the Iran war has sent oil prices and bond yields surging higher.
 
-CoinDesk • 27m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ KCRG • 1d ago
 
 **[Bitcoin Miners, Now AI Compute Leaders, Face Profitability Concerns](https://www.investors.com/news/bitcoin-miner-profitability-hash-price-q1-2026-ai-pivot-wulf-corz-cifr-hut/)**
 
-Investor's Business Daily • 6h ago
+Investor's Business Daily • 7h ago
 
 ---
 
@@ -207,7 +207,7 @@ Yahoo Finance • 2d ago
 
 The video retailer sparked speculations of selling bitcoin after it transferred nearly all its coins to Coinbase Prime in January.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -215,7 +215,7 @@ CoinDesk • 1h ago
 
 Goldman Sachs believes bitcoin and crypto prices may have hit their floor after months of declines.
 
-Bitcoin Magazine • 3h ago
+Bitcoin Magazine • 4h ago
 
 ---
 
@@ -223,7 +223,7 @@ Bitcoin Magazine • 3h ago
 
 Michael Saylor, Strategy co-founder, joins 'Power Lunch' to discuss the company's new product launch, the stated dividend and much more.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -231,7 +231,7 @@ CNBC • 2h ago
 
 The company is chasing opportunities with AI alongside a growing number of its peers as Bitcoin mining margins remain stretched.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -271,7 +271,7 @@ Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 3
 
 **[Show HN: Lexe – Self-Custodial Lightning Nodes in TEEs, Python and Rust SDKs](https://news.ycombinator.com/item?id=47532761)**
 
-⬆️ 3 • 💬 1 • 4h ago • [blog.lexe.app](https://blog.lexe.app/public-launch/)
+⬆️ 3 • 💬 1 • 5h ago • [blog.lexe.app](https://blog.lexe.app/public-launch/)
 
 ---
 
@@ -285,7 +285,7 @@ Bitcoin #Crypto #Finance Bitcoin is pulling back as negotiations around the Clar
 
 📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 405 • 💬 142 • ⏱️ 28:58 • 7h ago
+👁️ 8K • 👍 405 • 💬 142 • ⏱️ 28:58 • 8h ago
 
 ---
 
@@ -295,7 +295,7 @@ Coinbase and Fannie Mae just partnered up to do NO MARGIN CALL LOANS for Bitcoin
 
 📺 Digital Asset News
 
-👁️ 3K • 👍 383 • 💬 29 • ⏱️ 18:26 • 3h ago
+👁️ 3K • 👍 383 • 💬 29 • ⏱️ 18:26 • 4h ago
 
 ---
 
@@ -315,7 +315,7 @@ The U.S. just revealed a $47 trillion liability problem and almost nobody is tal
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 125 • ⏱️ 20:42 • 21h ago
+👁️ 24K • 👍 2K • 💬 125 • ⏱️ 20:42 • 22h ago
 
 ---
 
@@ -325,7 +325,7 @@ Fannie Mae announced they are accepting Bitcoin and USDC as downpayment for home
 
 📺 Cyber Scrilla
 
-👁️ 2K • 👍 181 • 💬 21 • ⏱️ 1:07 • 5h ago
+👁️ 2K • 👍 181 • 💬 21 • ⏱️ 1:07 • 6h ago
 
 ---
 
@@ -345,7 +345,7 @@ In this video, we take a data-driven look at Bitcoin as it shows signs of prepar
 
 📺 Jason Pizzino
 
-👁️ 17K • 👍 1K • 💬 476 • ⏱️ 28:23 • 15h ago
+👁️ 17K • 👍 1K • 💬 476 • ⏱️ 28:23 • 16h ago
 
 ---
 
@@ -355,7 +355,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptovers
 
 📺 Benjamin Cowen
 
-👁️ 3K • 👍 145 • 💬 3 • ⏱️ 0:46 • 4h ago
+👁️ 3K • 👍 145 • 💬 3 • ⏱️ 0:46 • 5h ago
 
 ---
 
@@ -365,7 +365,7 @@ Smarter calls start with better data - Ask Clash ▻ https://www.askclash.ai/ Ma
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 790 • 💬 77 • ⏱️ 48:00 • 6h ago
+👁️ 14K • 👍 790 • 💬 77 • ⏱️ 48:00 • 7h ago
 
 ---
 
