@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-26T07:42:38.441937+00:00'
+updated: '2026-03-26T08:58:26.057407+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 26, 2026 at 07:42 UTC  
+**Last Updated:** March 26, 2026 at 08:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,13 @@ Robotics research and industry news
 
 From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/2034708938269036686
 
-18h ago
+20h ago
 
 ---
 
 **[Figure 03 becomes the first humanoid robot to visit the White House](https://www.reddit.com/r/robotics/comments/1s3epc8/figure_03_becomes_the_first_humanoid_robot_to/)**
 
-15h ago
-
----
-
-**[“They are coming for our jobs..”](https://www.reddit.com/r/robotics/comments/1s3aomh/they_are_coming_for_our_jobs/)**
-
-18h ago
+17h ago
 
 ---
 
@@ -56,7 +50,13 @@ From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/20347089382690366
 
 AI-driven robotic hand with 21+ DoF and sub-millimeter precision, capable of delicate tasks like threading and micro-assembly. Uses tendon-driven actuation and real-time feedback for high consistency in controlled environments.
 
-14h ago
+16h ago
+
+---
+
+**[“They are coming for our jobs..”](https://www.reddit.com/r/robotics/comments/1s3aomh/they_are_coming_for_our_jobs/)**
+
+19h ago
 
 ---
 
@@ -64,7 +64,7 @@ AI-driven robotic hand with 21+ DoF and sub-millimeter precision, capable of del
 
 I recently started working with the TurtleBot3 simulation in Gazebo using ROS2. So far, I’ve: - Cloned and launched the TB3 simulation - Explored basic movement and sensor data (LiDAR) - Started looking into the code/configs for SLAM and Nav2 While going through the stack, I realized things get complex pretty quickly — especially understanding how SLAM, localization, and navigation all connect. Right now, I’m a bit confused about where to focus. For example: - In SLAM, should I focus more on the algorithm concepts (like mapping/localization) or on the ROS2 implementation (packages like slam_toolbox)? - In Nav2, there are many components (costmaps, planners, controllers) — what’s the most important part to understand first? - Is it better to treat Nav2 as a “black box” initially and then break it down, or understand each module deeply from the start? My goal is to eventually build and control my own robot (starting in simulation). Would really appreciate advice on: 👉 What concepts/components I should prioritize 👉 A good learning path for SLAM + Nav2 in ROS2 Thanks!
 
-2h ago
+3h ago
 
 ---
 
@@ -72,7 +72,7 @@ I recently started working with the TurtleBot3 simulation in Gazebo using ROS2. 
 
 Hi a hobby idea came to me randomly about making a robot arm i can control with a camera like the classic 2 prong type however i can control via a camera looking at my arm but didn't know how to do it and what i need. I already have a 3d printer so thought it wouldn't be too difficult however its hard to find a similar scenario. Can anyone please help?
 
-10h ago
+11h ago
 
 ---
 
@@ -96,7 +96,7 @@ KOU-III is a two-legged robot from Shandong University that combines walking wit
 
 We&rsquo;re announcing our March Meeting where we&rsquo;ll talk plugins!  &ldquo;An introduction to a beginner-friendly tutorial series that teaches how to create&hellip;
 
-🔗 [Vimeo](https://vimeo.com/1177012951?share=copy&fl=sv&fe=ci) • 14h ago
+🔗 [Vimeo](https://vimeo.com/1177012951?share=copy&fl=sv&fe=ci) • 15h ago
 
 ---
 
@@ -142,33 +142,17 @@ Live Science • 1d ago
 
 ---
 
-**[Chicago leaders speak out after food delivery robots with Serve Robotics, Coco Robotics cause damage at CTA bus shelters](https://abc7chicago.com/post/chicago-leaders-speak-food-delivery-robots-serve-robotics-coco-cause-damage-cta-bus-shelters/18772726/)**
-
-Two recent incidents of food delivery robots smashing into CTA bus shelters days apart happened as Chicagoans continue to debate whether the robots are a public benefit or a nuisance.
-
-ABC7 Chicago • 9h ago
-
----
-
-**[Delivery robot smashes into Old Town bus shelter in second crash of the week](https://www.nbcchicago.com/news/local/delivery-robot-smashes-into-old-town-bus-shelter-in-second-crash-of-the-week/3913833/)**
-
-A delivery robot shattered the glass of an Chicago bus shelter Tuesday in the second such incident of its kind.
-
-NBC 5 Chicago • 6h ago
-
----
-
 **[Melania Trump Appears With a Robot, Saying More Children Should Be Educated by Them](https://www.nytimes.com/2026/03/25/us/politics/melania-trump-robot.html)**
 
-The New York Times • 8h ago
+The New York Times • 11h ago
 
 ---
 
-**[OpenAI is scrapping the Sora app to chase bigger AI goals](https://www.businessinsider.com/openai-discontinues-sora-video-app-amid-robotics-shift-compute-limitations-2026-3)**
+**[30 Years Ago, Robots Learned to Walk Without Falling](https://spectrum.ieee.org/honda-p2-robot-ieee-milestone)**
 
-A spokesperson for OpenAI said the discontinuation of Sora comes as the company plans to focus on robotics rather than generative imagery.
+How did Honda's P2 robot change the future of humanoid robotics?
 
-Business Insider • 1d ago
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -176,7 +160,15 @@ Business Insider • 1d ago
 
 MIT engineers designed an ultrasound wristband that precisely tracks a wearer’s hand movements in real time and communicates the information to a robot or a virtual environment.
 
-MIT News • 21h ago
+MIT News • 22h ago
+
+---
+
+**[Chicago leaders speak out after food delivery robots with Serve Robotics, Coco Robotics cause damage at CTA bus shelters](https://abc7chicago.com/post/chicago-leaders-speak-food-delivery-robots-serve-robotics-coco-cause-damage-cta-bus-shelters/18772726/)**
+
+Two recent incidents of food delivery robots smashing into CTA bus shelters days apart happened as Chicagoans continue to debate whether the robots are a public benefit or a nuisance.
+
+ABC7 Chicago • 10h ago
 
 ---
 
@@ -185,6 +177,14 @@ MIT News • 21h ago
 Amazon.com (NasdaqGS:AMZN) agreed to acquire Fauna Robotics, signaling an entry into consumer humanoid robotics alongside its existing automation efforts. AWS experienced repeated and severe service disruptions in its Bahrain region, with outages linked to drone strikes connected to ongoing Middle East conflict. The disruptions triggered customer migrations and operational changes, raising fresh questions about cloud resiliency in higher risk geographies. For a company already active in...
 
 Yahoo Finance • 1d ago
+
+---
+
+**[OpenAI is scrapping the Sora app to chase bigger AI goals](https://www.businessinsider.com/openai-discontinues-sora-video-app-amid-robotics-shift-compute-limitations-2026-3)**
+
+A spokesperson for OpenAI said the discontinuation of Sora comes as the company plans to focus on robotics rather than generative imagery.
+
+Business Insider • 1d ago
 
 ---
 
@@ -218,7 +218,7 @@ Floating Intake & Double Chain | 242W Wombo Combo | Robot Rundown This video is 
 
 📺 FUN Robotics Network
 
-👁️ 2K • 👍 43 • 💬 2 • ⏱️ 2:10 • 9h ago
+👁️ 2K • 👍 43 • 💬 2 • ⏱️ 2:10 • 10h ago
 
 ---
 
@@ -228,7 +228,7 @@ A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White H
 
 📺 C-SPAN
 
-👁️ 69K • 👍 427 • 💬 660 • ⏱️ 2:59 • 16h ago
+👁️ 69K • 👍 427 • 💬 660 • ⏱️ 2:59 • 17h ago
 
 ---
 
@@ -258,7 +258,7 @@ The Figure 03 recently visited the White House, becoming the first AI-powered hu
 
 📺 Kalil 4.0
 
-👁️ 4K • 👍 134 • 💬 22 • ⏱️ 0:44 • 14h ago
+👁️ 4K • 👍 134 • 💬 22 • ⏱️ 0:44 • 16h ago
 
 ---
 

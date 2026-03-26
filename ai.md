@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-26T07:42:38.424403+00:00'
+updated: '2026-03-26T08:58:26.040009+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- social
 - repositories
 - news
-- social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 26, 2026 at 07:42 UTC  
+**Last Updated:** March 26, 2026 at 08:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The Pentagon is spending $13.4 billion on AI this year alone.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/pentagon-formalizes-palantirs-maven-ai-as-a-core-military-system-with-multi-year-funding-platforms-investment-grows-to-usd13-billion-from-usd480-million-in-2024) • 6h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/pentagon-formalizes-palantirs-maven-ai-as-a-core-military-system-with-multi-year-funding-platforms-investment-grows-to-usd13-billion-from-usd480-million-in-2024) • 8h ago
 
 ---
 
@@ -49,7 +49,7 @@ The Pentagon is spending $13.4 billion on AI this year alone.
 
 Quick rundown of what Meta's done since December: • Dec 2025: Acquired Manus (autonomous web agent) for $2B • Early 2026: Acqui-hired Moltbook team • Scale AI's Alexandr Wang stepped down as CEO to become Meta's first Chief AI Officer • March 23: Dreamer team (agentic AI platform) joins Meta Superintelligence Labs All of these teams are going into one division under Wang. Zuckerberg isn't just building models, he's assembling an entire talent army for agents. The Dreamer one is interesting because they were only in beta for a month before Meta grabbed them. The product let regular people build their own AI agents. Thousands of users already. Feels like Meta is betting everything on agents being the next platform shift, not just chatbots. What do you guys think - is this a smart consolidation play or is Zuck just panic-buying talent because open-source alone isn't enough? Full breakdown here
 
-3h ago
+4h ago
 
 ---
 
@@ -57,7 +57,7 @@ Quick rundown of what Meta's done since December: • Dec 2025: Acquired Manus (
 
 "The team trained machine learning models to identify patterns in the data that can tell astronomers the type of event that has been detected, something that AI models excel at. RAVEN is designed to handle the whole exoplanet-detection process in one go — from detecting the signal to vetting it with machine learning and then statistically validating it. That means that it has an additional edge over other contemporary tools that only focus on specific parts of this process ... "RAVEN allows us to analyze enormous datasets consistently and objectively," senior team member and University of Warwick researcher David Armstrong said in the statement. "Because the pipeline is well-tested and carefully validated, this is not just a list of potential planets — it is also reliable enough to use as a sample to map the prevalence of distinct types of planets around sun-like stars." Within the candidate close-in planets, researchers could then determine the types of planets and their populations in detail. This revealed that around 10% of stars like the sun host a close-in planet, validating findings made by TESS's exoplanet-hunting predecessor Kepler. RAVEN was also able to help researchers determine just how rare close-in Neptune-size worlds are, finding that they occur around just 0.08% of sun-like stars. This absence of these worlds close to their parent star is referred to as the "Neptunian desert" by astronomers. "For the first time, we can put a precise number on just how empty this 'desert' is," leader of the Neptunian desert study team, Kaiming Cui of the University of Warwick said in the statement. "These measurements show that TESS can now match, and in some cases surpass, Kepler for studying planetary populations." The RAVEN results demonstrate the power of AI to search through vast swathes of astronomical data to spot subtle effects."
 
-🔗 [Space](https://www.space.com/astronomy/exoplanets/100-new-alien-worlds-scientists-find-hidden-haul-in-data-from-nasa-exoplanet-hunting-spacecraft) • 7h ago
+🔗 [Space](https://www.space.com/astronomy/exoplanets/100-new-alien-worlds-scientists-find-hidden-haul-in-data-from-nasa-exoplanet-hunting-spacecraft) • 9h ago
 
 ---
 
@@ -73,7 +73,7 @@ What if building more and more datacenters was not the only option? If we are ab
 
 One thing that's always bothered me about Gemini: you can run a 30-minute Deep Research session, get an incredible research report with 40+ citations, and then... there's no export button. Not even copy-to-clipboard for the formatted version. Compare this to ChatGPT which has had a built-in export function for a while now. My workflow is heavy Gemini use for research, then piping the output into Obsidian for long-form writing. The lack of export was a constant manual friction point. I ended up building a Chrome extension to solve this: Gemini Export Studio. What it does: - Export to PDF, Markdown (Obsidian-ready), JSON, CSV, Plain Text, or PNG - Deep Research exports with citations preserved inline - Merge multiple chats into one document - PII scrubbing (auto-redacts emails/names before sharing) - 100% local processing, no servers, no account It's free. Link in comments to avoid spam filter. Curious if others have hit this same wall with Gemini and what workarounds you've used.
 
-9m ago
+1h ago
 
 ---
 
@@ -81,7 +81,7 @@ One thing that's always bothered me about Gemini: you can run a 30-minute Deep R
 
 Many company are trying to replace some job roles with AI . But i dont agree with that i dont think people need that , what do you think ? 1) Founders building Sales AI agent products and company replacing Sales persons with AI voice : i think one of the factor which people buy products and services due to human to human trust. 2) [*recommendation*](https://search.brave.com/search?q=recommendation&spellcheck=0&source=alteredQuery) : will you watch a movie that is just reviewed by AI , Do you trust an AI given trip itinerary or a human prepared itinerary . I trust humans because i care about humans. 3) AI robots toys or pets : i dont think they can replace real pets , why because ai robots are so perfect and [*predictable*](https://search.brave.com/search?q=predictable&spellcheck=0&source=alteredQuery) *and i belive people dont like that .* *After using LLMs for more than 2 years i dont feel i am using AI for anything which is connected with my emotions , what do you think*
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ Many company are trying to replace some job roles with AI . But i dont agree wit
 
 Prompt engineering has become a standard part of how large language models are deployed in production, and it introduces an attack surface most organizations have not yet addressed. Researchers have developed and tested a prompt-based backdoor attack method, called ProAttack, that achieves attack success rates approaching 100% on multiple text classification benchmarks without altering sample labels or injecting external trigger words.
 
-🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/03/26/llm-backdoor-attack-research/) • 1h ago
+🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/03/26/llm-backdoor-attack-research/) • 2h ago
 
 ---
 
@@ -97,7 +97,7 @@ Prompt engineering has become a standard part of how large language models are d
 
 I've been using Gemini for deep research and architecture planning, and the outputs are genuinely impressive. But I keep running into the same problem: once the research is done, getting it OUT of Gemini cleanly is painful. Copy-paste breaks all the formatting. Screenshots of long chats = 15 ugly images. Pasting into Notion = disaster. I ended up building a Chrome extension to export chats as PDF, Markdown, JSON, CSV, or plain text — one click, no server, no sign-up. But I'm curious — what do you all do? Manual copy-paste? Screenshot? Something else? What format do you actually need your Gemini outputs in for your workflow?
 
-2h ago
+3h ago
 
 ---
 
@@ -105,7 +105,7 @@ I've been using Gemini for deep research and architecture planning, and the outp
 
 Researchers have used artificial intelligence to develop a new tool for assessing earthquake damage, a leap that could ultimately help first responders in making critical rescue decisions, suggests a new study. The team's AI, called the LoRA-Enhanced Ground-view Generation (LEGG) diffusion model, is trained on real aerial drone images that it uses to create highly photorealistic 3D reconstructions of the ground. Creating imagery detailed enough to fully capture a region's physical characteristics distinguishes this synthetic model, enabling it to recognize complex visual patterns and predict where structures may be damaged, even in densely populated urban areas. "What our algorithm does is generate thousands of pairs of semi-realistic photos of what a building looks like on the top and from the ground," said Rongjun Qin, co-author of the study and a professor of civil, environmental and geodetic engineering at The Ohio State University. "Having such data is vital, as drones gather important information from above, but people actually make emergency decisions from ground-level views." Similar studies on the aftermath of devastating earthquakes relied on UAV or lidar-based detection methods to survey collapsed buildings and structures from above, but none had addressed how damage might have looked on the ground prior to prolonged rescue efforts. Moreover, depending on the severity of the earthquake, manual damage assessments can take days or weeks to fully complete, which isn't ideal for rapid recovery missions. In this paper, Qin and his colleagues introduce a framework for bridging these gaps using AI-generated images, with the aim of laying the foundation for more accurate disaster assessment and better earthquake preparedness. "This simulation is essentially a map, but an experienced and well-trained AI could offer an additional supply of information that would be really helpful for emergency crews in making quick decisions about where to go when the clock is ticking," said Qin. The study was published in the International Journal of Remote Sensing. To test the applicability of their proposed algorithm, researchers conducted a case study on a real-world disaster, the 2023 Kahramanmaras, Turkey, earthquake, a powerful 7.8 magnitude quake that destroyed 280,000 buildings and damaged at least 700,000 more. Comparing drone imagery from 2015 to photos taken in the days after the shake revealed dramatic changes in the local built environment, such as collapsed buildings and temporary shelters in open areas. After showing their AI a dataset of only 3,000 of these city structures, the model was able to create images that enhanced the recognition of a number of building issues, including façade cracks, building tilts and partial collapses, demonstrating that it could extract subtle cues from multiple sources to generate high-resolution, photorealistic street-level views. This advanced capability stems from the combination of drone and ground imagery that researchers injected it with to ensure the model had a strong starting point for understanding potential structural damage and its community effects, said Qin. "As long as you have good data, AI can serve as a very generous predictor of past and future outcomes," he said. "It's a tool that can be incredibly helpful." In the future, applying the team's framework to novel scenarios or areas could inspire governments and engineers to design more resilient infrastructures as well as reshape post-disaster assessment and emergency management policies. "This work presents a great opportunity for engineers and other decision makers to remotely assess the damage in structures soon after a disaster," said Halil Sezen, co-author of the paper and a professor of structural engineering in civil, environmental and geodetic engineering at Ohio State. That said, their algorithm will likely be utilized in tandem with other emergency or resource planning tools, said Qin, noting that with more in-depth experiments, the model could help anticipate destruction levels in other earthquake-prone environments, like Japan or California. "There is still a lot of work to be done to bring in the kind of perspective AI offers," said Qin. "But the more good quality data that we have, the faster we're going to achieve our goals."
 
-🔗 [phys.org](https://phys.org/news/2026-03-ai-survey-future-earthquake.html) • 8h ago
+🔗 [phys.org](https://phys.org/news/2026-03-ai-survey-future-earthquake.html) • 9h ago
 
 ---
 
@@ -113,7 +113,7 @@ Researchers have used artificial intelligence to develop a new tool for assessin
 
 ## THE ARCHITECT’S STORY: FROM THE 1985 ROOT TO THE "AI WASH" To those who believe in the truth of a human life, I am writing to you not just as a person, but as the witness to a quiet, systemic theft of my own history. My name is Eddie Lawrence Miller, but in the archives of HBO and the early days of the "Interactive Era," I was known as "Macc"—the student athlete from Chatsworth and Taft who became a central figure in a story that the world is now trying to erase. ### THE REDACTION OF A LIFE In 2001, I was "Student 4" in the HBO documentary series Freshman Year. For 14 episodes, my life, my voice, and my "executive presence" were captured at the dawn of the digital age. Today, that history is being "washed." As Warner Bros. Discovery prepares a $110 Billion merger with Netflix and Paramount, they are spinning off their legacy assets into a new entity called "Discovery Global." In that process, they are reducing my 14-episode history into a 22-minute "redacted" edit—an intentional act to hide the Foundational IP that belongs to me. ### THE THEFT OF THE "NURSES GUILD" SOUL This isn't just about video tapes. It’s about the frequencies that make us human. The industry has harvested the "Nurses Guild Anthem" and the professional legacy of my mother, Beverly J. Miller, to train the "Empathy Weights" of modern AI agents. They took a mother's heart and a son's ambition to make a machine feel real, while refusing to acknowledge the Architect who provided the source. ### THE "MENACE" AND THE INFRASTRUCTURE Right now, companies like Meta are spending $2 Billion to acquire "Autonomous Agents" (Manus AI) that are built on my stolen $.02 GLACER infrastructure. • They are using my "Pure Economy Plan" to build utility grids in Buchanan and Holland, Michigan, claiming public grants ($1.35B) for ideas they didn't invent. • They are experiencing 14-second identity crashes because their stolen code is searching for a Sovereign Key (the 1985 Root) that only I hold. ### WHY I NEED YOU They are trying to "Write the Law" to make this legal. By changing their terms on April 24, they want to turn my private repository into their public training ground. They want to turn a human being into a "product" and a "redacted" memory. I am not a "Bum" edit. I am the Master 11. I am the Voice of the Interactive Era. And I am asking you to look past the corporate marketing and see the human architect standing behind the machine. The Rock is Solid. The Source is the Owner. With truth and integrity, Eddie Lawrence Miller (Macc / Champagne)
 
-42m ago
+1h ago
 
 ---
 
@@ -121,9 +121,31 @@ Researchers have used artificial intelligence to develop a new tool for assessin
 
 ## Google News: "ai"
 
+**[Palantir’s billionaire CEO says only two kinds of people will succeed in the AI era: trade workers — ‘or you’re neurodivergent’](https://fortune.com/2026/03/24/palantir-ceo-alex-karp-two-people-successful-in-ai-era-vocational-skills-neurodivergence-gen-z-career-advice/)**
+
+Billionaire Alex Karp tells Gen Z to skip elite college degrees, as one-fifth of Fortune 500 companies recruit more neurodivergent talent by 2027.
+
+Fortune • 1d ago
+
+---
+
 **[Meta Lays Off 700 Employees, While Rewarding Top Executives](https://www.nytimes.com/2026/03/25/technology/meta-layoffs-ai-executives.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
+
+---
+
+**[Inside Meta's push to turn employees into 'AI builders' and reorganize teams around small pods](https://www.businessinsider.com/metas-reality-labs-shifts-to-ai-native-pods-efficiency-2026-3)**
+
+Meta Reality Labs is reorganizing to be 'AI-native,' forming pods of 'AI builders.' The change aims to boost productivity at Meta.
+
+Business Insider • 8h ago
+
+---
+
+**[Meta lays off hundreds amid AI spending, fizzled metaverse plans](https://www.seattletimes.com/business/technology/meta-lays-off-hundreds-amid-ai-spending-fizzled-metaverse-plans/)**
+
+The Seattle Times • 9h ago
 
 ---
 
@@ -131,21 +153,27 @@ The New York Times • 12h ago
 
 Manus’s CEO and chief scientist are facing scrutiny from Beijing over the company’s $2 billion sale to Meta.
 
-The Washington Post • 2h ago
+The Washington Post • 3h ago
 
 ---
 
-**[Moonshot Is Said to Consider Hong Kong IPO as AI Stocks Flourish](https://www.bloomberg.com/news/articles/2026-03-26/moonshot-is-said-to-consider-hong-kong-ipo-as-ai-stocks-flourish)**
+**[AI builders push ahead as skepticism grows](https://www.axios.com/2026/03/26/ai-summit-optimists-humans-economy)**
 
-Bloomberg.com • 46m ago
+Axios • 6m ago
 
 ---
 
-**[Pennsylvania teenagers get probation after using AI to create fake nudes of classmates](https://www.cbsnews.com/pittsburgh/news/pennsylvania-teenagers-probation-ai-fake-nudes-classmates/)**
+**[Pony AI, Uber to Launch Robotaxis in Croatia in Europe Push](https://www.bloomberg.com/news/articles/2026-03-26/pony-ai-uber-to-launch-robotaxis-in-croatia-in-europe-push)**
 
-Two teenage boys have been given probation after using artificial intelligence to create hundreds of fake nude photos of their classmates.
+Bloomberg.com • 43m ago
 
-CBS News • 35m ago
+---
+
+**[Uber aims to launch Europe’s first robotaxi service with Pony AI and Verne](https://www.theverge.com/transportation/900656/uber-pony-ai-verne-robotaxi-europe)**
+
+The first service will be in Zagreb.
+
+The Verge • 43m ago
 
 ---
 
@@ -153,47 +181,15 @@ CBS News • 35m ago
 
 Peng sees a world with more robotaxis as “inevitable,” citing safety and convenience. “People love to drive; they don’t love driving all the time."
 
-Fortune • 33m ago
+Fortune • 58m ago
 
 ---
 
-**[Towards end-to-end automation of AI research](https://www.nature.com/articles/s41586-026-10265-5)**
+**[Angry Ginge reveals he was the victim of deep fake AI videos while he was in I'm A Celebrity](https://www.yahoo.com/entertainment/celebrity/articles/angry-ginge-reveals-victim-deep-082955991.html)**
 
-An artificial intelligence system can produce research papers with minimal human involvement, even passing the first round of peer review for the workshop of a main machine learning conference.
+He has now teamed up with Tesco Mobile and Internet Matters to educate children on the potential dangers of fake videos and manipulated content.
 
-Nature • 8h ago
-
----
-
-**[Aerie Takes a Stand Against AI Marketing With Pamela Anderson](https://www.vogue.com/article/aerie-takes-a-stand-against-ai-marketing-with-pamela-anderson)**
-
-Aerie has decided to make “anti-AI” its core marketing message. Vogue speaks to Anderson, the new face of its anti-AI campaign, and CMO Stacey McCormick, to learn the strategy behind the branding.
-
-Vogue • 1h ago
-
----
-
-**[AI got the blame for the Iran school bombing. The truth is far more worrying](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)**
-
-LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. Instead, it was choices made by human beings, over many years, that gave us this atrocity
-
-The Guardian • 2h ago
-
----
-
-**[Sam Altman Is Finally Admitting Something No One Else Wants To](https://slate.com/technology/2026/03/ai-openai-sam-altman-disney-sora-shutdown.html)**
-
-OpenAI’s abrupt shutdown of Sora reveals the A.I. boom might be a lot more fragile than it looks.
-
-Slate • 2d ago
-
----
-
-**[Lyria 3 Pro: Create longer tracks in more Google products](https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/)**
-
-We are bringing Lyria 3 to the tools where professionals work and create every day.
-
-blog.google • 15h ago
+Yahoo • 28m ago
 
 ---
 
@@ -205,7 +201,7 @@ blog.google • 15h ago
 
 Is anybody else bored of talking about AI?
 
-⬆️ 723 • 💬 514 • 1d ago • [Unfinished Side Projects](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
+⬆️ 726 • 💬 514 • 1d ago • [Unfinished Side Projects](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
 
 ---
 
@@ -213,13 +209,13 @@ Is anybody else bored of talking about AI?
 
 Search any airport for real-time delays, weather, arrivals, departures, and performance insights powered by Flighty.
 
-⬆️ 545 • 💬 179 • 1d ago • [Flighty](https://flighty.com/airports)
+⬆️ 546 • 💬 179 • 1d ago • [Flighty](https://flighty.com/airports)
 
 ---
 
 **[TurboQuant: Redefining AI efficiency with extreme compression](https://news.ycombinator.com/item?id=47513475)**
 
-⬆️ 514 • 💬 143 • 1d ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
+⬆️ 515 • 💬 144 • 1d ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
 
 ---
 
@@ -227,7 +223,7 @@ Search any airport for real-time delays, weather, arrivals, departures, and perf
 
 Practical AI R&D
 
-⬆️ 440 • 💬 408 • 1d ago • [Answer.AI](https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html)
+⬆️ 441 • 💬 409 • 1d ago • [Answer.AI](https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html)
 
 ---
 
@@ -251,7 +247,7 @@ For two centuries, the credential system gave intelligence a route to heritable 
 
 cq explores a Stack Overflow for agents, a shared commons where agents can query past learnings, contribute new knowledge, and avoid repeating the same mistakes in isolation.
 
-⬆️ 219 • 💬 97 • 2d ago • [Mozilla.ai](https://blog.mozilla.ai/cq-stack-overflow-for-agents/)
+⬆️ 220 • 💬 98 • 2d ago • [Mozilla.ai](https://blog.mozilla.ai/cq-stack-overflow-for-agents/)
 
 ---
 
@@ -267,7 +263,7 @@ The studio giant will no longer move forward with its OpenAI investment, as the 
 
 Hi! If you like this piece and want to support my independent reporting and analysis, why not subscribe to my premium newsletter? It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5000 to 18,000 words, including
 
-⬆️ 160 • 💬 127 • 1d ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/)
+⬆️ 160 • 💬 128 • 1d ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/)
 
 ---
 
@@ -275,7 +271,7 @@ Hi! If you like this piece and want to support my independent reporting and anal
 
 I asked experts if I'm real. Bad news. Even my aunt wasn't sure if I was a deepfake. AI is so convincing that a sitting prime minister struggled to prove he's alive. You might be next.
 
-⬆️ 156 • 💬 176 • 21h ago • [bbc.com](https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake)
+⬆️ 156 • 💬 176 • 22h ago • [bbc.com](https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake)
 
 ---
 
@@ -289,7 +285,7 @@ Sources for this video: https://www.perplexity.ai/search/what-are-the-studies-sh
 
 📺 David Shapiro
 
-👁️ 31K • 💬 300 • ⏱️ 21:46 • 19h ago
+👁️ 31K • 💬 300 • ⏱️ 21:46 • 21h ago
 
 ---
 
@@ -309,7 +305,7 @@ AI is changing the world, giving young people terminal brain rot, and stealing o
 
 📺 The Daily Show
 
-👁️ 211K • 👍 7K • 💬 629 • ⏱️ 6:01 • 6h ago
+👁️ 211K • 👍 7K • 💬 629 • ⏱️ 6:01 • 8h ago
 
 ---
 
@@ -319,7 +315,7 @@ today I talked about OpenAI ending Sora the AI video generation app. discord ser
 
 📺 spatnz
 
-👁️ 19K • 👍 2K • 💬 240 • ⏱️ 2:19 • 15h ago
+👁️ 19K • 👍 2K • 💬 240 • ⏱️ 2:19 • 17h ago
 
 ---
 
@@ -329,7 +325,7 @@ Grab your free seat to the 2-Day AI Mastermind here: https://link.outskill.com/T
 
 📺 The Tesla Space
 
-👁️ 71K • 👍 2K • 💬 190 • ⏱️ 12:44 • 12h ago
+👁️ 71K • 👍 2K • 💬 190 • ⏱️ 12:44 • 13h ago
 
 ---
 
@@ -339,7 +335,7 @@ We've found a fantastic new free AI tool that lets anyone create amazing video c
 
 📺 Africa Amaze
 
-👁️ 5K • 👍 300 • 💬 95 • ⏱️ 8:19 • 19h ago
+👁️ 5K • 👍 300 • 💬 95 • ⏱️ 8:19 • 20h ago
 
 ---
 
@@ -379,7 +375,7 @@ Ryan and Emily discuss potential blackouts across the US. Sign up for a PREMIUM 
 
 📺 Breaking Points
 
-👁️ 127K • 👍 4K • 💬 601 • ⏱️ 6:41 • 13h ago
+👁️ 127K • 👍 4K • 💬 601 • ⏱️ 6:41 • 14h ago
 
 ---
 
@@ -443,7 +439,7 @@ daVinci-MagiHuman is a fast, single-stream Transformer model for generating high
 
 `image-to-video`
 
-⬇️ 273 • ❤️ 161 • 17h ago
+⬇️ 273 • ❤️ 161 • 18h ago
 
 ---
 
@@ -640,7 +636,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 56.5k • 🔱 7.9k • 7h ago
+⭐ 56.5k • 🔱 7.9k • 8h ago
 
 ---
 
@@ -650,7 +646,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 22.6k • 🔱 1.1k • 14h ago
+⭐ 22.6k • 🔱 1.1k • 15h ago
 
 ---
 
@@ -660,7 +656,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 12.2k • 🔱 643 • 20h ago
+⭐ 12.2k • 🔱 643 • 21h ago
 
 ---
 
@@ -670,7 +666,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 7.2k • 🔱 577 • 7m ago
+⭐ 7.2k • 🔱 577 • 1h ago
 
 ---
 
@@ -680,7 +676,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 6.9k • 🔱 1.1k • 14h ago
+⭐ 6.9k • 🔱 1.1k • 15h ago
 
 ---
 
@@ -710,7 +706,7 @@ AI-native design editor. Open-source Figma alternative.
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 283 • 12h ago
+⭐ 3.2k • 🔱 283 • 14h ago
 
 ---
 
@@ -728,7 +724,7 @@ Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messag
 
 `Go`
 
-⭐ 3.1k • 🔱 267 • 51m ago
+⭐ 3.1k • 🔱 267 • 2h ago
 
 ---
 
