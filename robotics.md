@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-26T11:28:04.578589+00:00'
+updated: '2026-03-26T12:09:09.756837+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 26, 2026 at 11:28 UTC  
+**Last Updated:** March 26, 2026 at 12:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/2034708938269036686
 
-22h ago
+23h ago
 
 ---
 
 **[Figure 03 becomes the first humanoid robot to visit the White House](https://www.reddit.com/r/robotics/comments/1s3epc8/figure_03_becomes_the_first_humanoid_robot_to/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/20347089382690366
 
 AI-driven robotic hand with 21+ DoF and sub-millimeter precision, capable of delicate tasks like threading and micro-assembly. Uses tendon-driven actuation and real-time feedback for high consistency in controlled environments.
 
-18h ago
+19h ago
 
 ---
 
@@ -70,13 +70,13 @@ I recently started working with the TurtleBot3 simulation in Gazebo using ROS2. 
 
 **[Need a help in moving this robot in thecursor.ai . Can anyone please tell me the code to run this properly](https://www.reddit.com/r/robotics/comments/1s44gn6/need_a_help_in_moving_this_robot_in_thecursorai/)**
 
-19m ago
+1h ago
 
 ---
 
 **[[Part 1] IMU Orientation Tracking – Madgwick Filter, Calibration & Streaming (ESP32 + ICM45686)](https://www.reddit.com/r/robotics/comments/1s439l9/part_1_imu_orientation_tracking_madgwick_filter/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -84,7 +84,7 @@ I recently started working with the TurtleBot3 simulation in Gazebo using ROS2. 
 
 Hi a hobby idea came to me randomly about making a robot arm i can control with a camera like the classic 2 prong type however i can control via a camera looking at my arm but didn't know how to do it and what i need. I already have a 3d printer so thought it wouldn't be too difficult however its hard to find a similar scenario. Can anyone please help?
 
-13h ago
+14h ago
 
 ---
 
@@ -142,7 +142,7 @@ Live Science • 1d ago
 
 AI and robotics' threat to capitalism is coming fast and requires an immediate response, Citi's Jay Collins told BI.
 
-Business Insider • 2h ago
+Business Insider • 3h ago
 
 ---
 
@@ -158,7 +158,7 @@ CNBC • 2h ago
 
 Two recent incidents of food delivery robots smashing into CTA bus shelters days apart happened as Chicagoans continue to debate whether the robots are a public benefit or a nuisance.
 
-ABC7 Chicago • 12h ago
+ABC7 Chicago • 13h ago
 
 ---
 
@@ -194,7 +194,7 @@ This week in robotics got kind of ridiculous. South Korea showed off a humanoid 
 
 📺 AI Revolution
 
-👁️ 190K • 👍 2K • 💬 133 • ⏱️ 14:31 • 3d ago
+👁️ 191K • 👍 2K • 💬 133 • ⏱️ 14:31 • 3d ago
 
 ---
 
@@ -204,7 +204,7 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 📺 CNET
 
-👁️ 16K • 👍 460 • 💬 28 • ⏱️ 5:50 • 3d ago
+👁️ 16K • 👍 461 • 💬 28 • ⏱️ 5:50 • 4d ago
 
 ---
 
@@ -214,7 +214,17 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 📺 RAI Institute
 
-👁️ 302K • 👍 9K • 💬 868 • ⏱️ 1:34 • 2d ago
+👁️ 313K • 👍 9K • 💬 915 • ⏱️ 1:34 • 2d ago
+
+---
+
+**[First lady Melania Trump walks with robot during White House technology summit](https://www.youtube.com/watch?v=iFAWleMvbDY)**
+
+A walking, talking humanoid robot strolled side-by-side first lady Melania Trump into the East Room at the White House for the ...
+
+📺 ABC News
+
+👁️ 26K • 👍 134 • 💬 153 • ⏱️ 1:30 • 19h ago
 
 ---
 
@@ -224,17 +234,7 @@ Melania Trump Makes a Triumphant Entrance and Suggests Humanoid Robots for Educa
 
 📺 Right Side Broadcasting Network
 
-👁️ 32K • 👍 2K • 💬 831 • ⏱️ 10:02 • 19h ago
-
----
-
-**[First Lady Melania Trump walks with robot to White House event on children&#39;s technology](https://www.youtube.com/watch?v=7sHSBgU5p4Y)**
-
-A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White House summit on empowering children with ...
-
-📺 C-SPAN
-
-👁️ 76K • 👍 455 • 💬 701 • ⏱️ 2:59 • 19h ago
+👁️ 32K • 👍 2K • 💬 842 • ⏱️ 10:02 • 20h ago
 
 ---
 
@@ -244,7 +244,7 @@ Thanks to Delete Me for sponsoring this video. To keep your private info private
 
 📺 Kim Java
 
-👁️ 75K • 👍 4K • 💬 190 • ⏱️ 20:00 • 1d ago
+👁️ 76K • 👍 4K • 💬 198 • ⏱️ 20:00 • 1d ago
 
 ---
 
@@ -258,13 +258,23 @@ A wave of attention is building around a new concept from Apple that suggests th
 
 ---
 
+**[First Lady Melania Trump walks with robot to White House event on children&#39;s technology](https://www.youtube.com/watch?v=7sHSBgU5p4Y)**
+
+A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White House summit on empowering children with ...
+
+📺 C-SPAN
+
+👁️ 83K • 👍 474 • 💬 729 • ⏱️ 2:59 • 20h ago
+
+---
+
 **[Amazon Just Bought a Humanoid Robot Company… This Changes Everything](https://www.youtube.com/watch?v=jdoYFz7M90I)**
 
 Amazon just made a surprising move into humanoid robotics by acquiring Fauna Robotics, the company behind the Sprout robot.
 
 📺 DPCcars
 
-👁️ 833 • 👍 31 • 💬 5 • ⏱️ 3:18 • 20h ago
+👁️ 875 • 👍 32 • 💬 5 • ⏱️ 3:18 • 20h ago
 
 ---
 
@@ -274,17 +284,7 @@ Amazon bought the New York-based startup Fauna Robotics. The deal closed last we
 
 📺 Bloomberg Television
 
-👁️ 4K • 👍 31 • 💬 4 • ⏱️ 1:22 • 1d ago
-
----
-
-**[6 Robots You Can Build in 2026](https://www.youtube.com/watch?v=8smjYAsxAts)**
-
-Learn for free on Brilliant for a full 30 days: https://brilliant.org/NikodemBartnik/ . You'll also get 20% off an annual Premium ...
-
-📺 Nikodem Bartnik
-
-👁️ 22K • 👍 1K • 💬 29 • ⏱️ 9:55 • 1d ago
+👁️ 4K • 👍 32 • 💬 4 • ⏱️ 1:22 • 1d ago
 
 ---
 

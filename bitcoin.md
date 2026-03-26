@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-26T11:28:04.570322+00:00'
+updated: '2026-03-26T12:09:09.748227+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 26, 2026 at 11:28 UTC  
+**Last Updated:** March 26, 2026 at 12:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1390.30B
+**Market Cap:** $1385.00B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--44.9%
+-45.1%
 
 **All-Time Low:** $67.81
-+102411.4%
++102057.5%
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 been thinking about this for few days now and decided to take break from all bitcoin related content. getting overwhelmed by constant noise online these days. every platform has someone screaming about what i should believe or do with my coins joined this space because i believed in technology but now feels like everyone just wants to push their agenda. most of these influencers probably just making content for views anyway going to unfollow most crypto accounts and focus in other things for while. started learning digital art recently and already spent like 12 hours working on single project. much more relaxing than checking charts every hour need to get back to basics and remember why i got interested on bitcoin in first place. maybe after few weeks away from all this drama i can come back with clearer head anyone else taking breaks like this?
 
-49m ago
+1h ago
 
 ---
 
@@ -109,7 +109,7 @@ What can i do i have the login link but forgot my email it always asks for mail 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-5h ago
+6h ago
 
 ---
 
@@ -117,7 +117,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ​ Kraken (always incredible) BitMart (actually had a human respond to my ticket in 10 mins) Coinbase (hit or miss) Binance (good luck). Customer service is severely underrated until you actually need it to unlock a deposit. Then you know who to trust.
 
-4h ago
+5h ago
 
 ---
 
@@ -141,7 +141,7 @@ I’m a UK-based user of Gemini and I’ve been trying to withdraw my Bitcoin fo
 
 i have no idea of what i’m doing.. i just felt like it.. is it a good time to start this?
 
-23h ago
+1d ago
 
 ---
 
@@ -149,7 +149,7 @@ i have no idea of what i’m doing.. i just felt like it.. is it a good time to 
 
 France has often framed crypto as a form of “unproductive wealth” basically something speculative, not especially useful to the real economy and that’s even more striking when you consider that crypto gains for individuals in France are generally taxed at a 30% flat rate And yet Macron is now attending Paris Blockchain Week this April At first glance, that sounds inconsistent. But I think both positions can coexist My read is that France may still be skeptical of crypto as a speculative asset, while recognizing that blockchain infrastructure, tokenization, stablecoins, digital identity and onchain finance are becoming too important to ignore I feel like this is less about France suddenly being pro-crypto, and more about France not wanting to be late on a sector that could become strategic What do you think? A real turning point, or just a PR move?
 
-22h ago
+23h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Motley Fool • 23h ago
 
 Bitcoin is trading just below the $70,000 psychological threshold, slipping approximately 1.6% over the last 24 hours.
 
-Yahoo Finance UK • 1h ago
+Yahoo Finance UK • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance UK • 1h ago
 
 The founder of Fenbush Capital was robbed of $42 million in 2022.  Shen lost most of the stablecoin USDC, as well as Bitcoin, USDT, and Ethereum. Now, he’s offering a bounty of up to 20% for any key information surrounding the theft.
 
-dlnews.com • 49m ago
+dlnews.com • 1h ago
 
 ---
 
@@ -215,7 +215,7 @@ CNBC • 16h ago
 
 **[Bitcoin, XRP, Ethereum Drop as Iran Rejects Trump Peace Plan. Why War Is Hitting Cryptos.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqcsO0UbsPi5hFYFPgy5aJ1VDNiwOeAMHTwcDbSM1s4MRWbqgvElwkJY&gaa_ts=69c51b58&gaa_sig=DOTI8QxCMr2Hn1YMKub2-G1zdV6wqD_E1ANlgZeKIssh795Oeely9RC6OQtShGG97BM6LHgh4UlymrxbC9ER6w%3D%3D)**
 
-Barron's • 2h ago
+Barron's • 3h ago
 
 ---
 
@@ -277,13 +277,13 @@ Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 3
 
 ## YouTube Videos: "bitcoin"
 
-**[The $10 Trillion &quot;Trojan Horse&quot;: Morgan Stanley’s Bitcoin Plan](https://www.youtube.com/watch?v=N_neCIi4zFA)**
+**[Bitcoin - A Realistic Prediction by End of Year 🎯](https://www.youtube.com/watch?v=6h5l5GNbHXo)**
 
-The links below may include affiliate links, which means I may receive a commission at no cost to you if you make a purchase ...
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Follow Brandon: https://x.com/BranBTC Buy, ...
 
-📺 Digital Asset News
+📺 Altcoin Daily
 
-👁️ 6K • 👍 493 • 💬 42 • ⏱️ 24:59 • 16h ago
+👁️ 9K • 👍 287 • 💬 45 • ⏱️ 1:06 • 14h ago
 
 ---
 
@@ -293,7 +293,7 @@ NEW REPORTS HOT OFF THE PRESS TAKING A CONTRARIAN VIEW OF WHERE BITCOIN CURRENTL
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 339 • 💬 75 • ⏱️ 1:25:26 • 16h ago
+👁️ 7K • 👍 344 • 💬 74 • ⏱️ 1:25:26 • 17h ago
 
 ---
 
@@ -303,17 +303,7 @@ The U.S. just revealed a $47 trillion liability problem and almost nobody is tal
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 2K • 💬 104 • ⏱️ 20:42 • 11h ago
-
----
-
-**[Bitcoin - A Realistic Prediction by End of Year 🎯](https://www.youtube.com/watch?v=6h5l5GNbHXo)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Follow Brandon: https://x.com/BranBTC Buy, ...
-
-📺 Altcoin Daily
-
-👁️ 8K • 👍 266 • 💬 44 • ⏱️ 1:06 • 14h ago
+👁️ 19K • 👍 2K • 💬 105 • ⏱️ 20:42 • 12h ago
 
 ---
 
@@ -323,17 +313,17 @@ In this video, we take a data-driven look at Bitcoin as it shows signs of prepar
 
 📺 Benjamin Cowen
 
-👁️ 100K • 👍 6K • 💬 411 • ⏱️ 17:16 • 1d ago
+👁️ 101K • 👍 7K • 💬 417 • ⏱️ 17:16 • 1d ago
 
 ---
 
-**[BITCOIN: YOU ARE BEING TESTED](https://www.youtube.com/watch?v=aJyfNYz8r8Y)**
+**[Bitcoin inches toward $71,000 as hopes for U.S.-Iran talks push oil prices lower: CNBC Crypto World](https://www.youtube.com/watch?v=zt5AeGbHVxI)**
 
-DM me the word “CBM” on Telegram to join my private group: https://t.me/CryptoByMathieu BloFin: ...
+On today's episode of CNBC Crypto World, bitcoin moves towards $71000 after Iran counters a U.S. ceasefire plan. Also, Senators ...
 
-📺 Mathieu - C₿M
+📺 CNBC Television
 
-👁️ 3K • 👍 313 • 💬 31 • ⏱️ 12:34 • 13h ago
+👁️ 9K • 👍 111 • 💬 150 • ⏱️ 8:47 • 16h ago
 
 ---
 
@@ -343,7 +333,7 @@ Everyone thinks they understand Bitcoin... but they don't. Because if Bitcoin is
 
 📺 Casual Finance
 
-👁️ 72K • 👍 5K • 💬 1K • ⏱️ 9:55 • 1d ago
+👁️ 74K • 👍 5K • 💬 1K • ⏱️ 9:55 • 1d ago
 
 ---
 
@@ -353,7 +343,7 @@ You're not going to want to miss this INCREDIBLE Ether, technical analysis and i
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 250 • 💬 101 • ⏱️ 13:34 • 17h ago
+👁️ 5K • 👍 250 • 💬 99 • ⏱️ 13:34 • 17h ago
 
 ---
 
@@ -363,17 +353,27 @@ The 20 millionth Bitcoin was mined this month. 95% of all Bitcoin that will EVER
 
 📺 Money Talks
 
-👁️ 1K • 👍 38 • 💬 84 • ⏱️ 14:25 • 15h ago
+👁️ 1K • 👍 40 • 💬 84 • ⏱️ 14:25 • 16h ago
 
 ---
 
-**[Iran Rejects Peace - What It Means for Bitcoin](https://www.youtube.com/watch?v=Z18WI8SbAS4)**
+**[After 12 Years, I&#39;m Leaving Crypto. [Not Clickbait]](https://www.youtube.com/watch?v=qKp5HaeY48M)**
 
-Stop Guessing - Ask Clash (beta) ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ...
+Leverage is murdered. Retail is wiped. I'm really losing hope, even billionaires are saying crypto is dead. After 12 years in the ...
 
-📺 CryptosRUs
+📺 Crypto Insider
 
-👁️ 9K • 👍 653 • 💬 179 • ⏱️ 7:15 • 10h ago
+👁️ 32K • 👍 3K • 💬 284 • ⏱️ 19:45 • 1d ago
+
+---
+
+**[THIS IS NEXT FOR BITCOIN...](https://www.youtube.com/watch?v=RNlcXHl6uBI)**
+
+WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $25 ...
+
+📺 Crypto Rover
+
+👁️ 7K • 👍 500 • 💬 36 • ⏱️ 9:28 • 7h ago
 
 ---
 
