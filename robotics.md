@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-26T04:56:35.381320+00:00'
+updated: '2026-03-26T06:13:59.612725+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 26, 2026 at 04:56 UTC  
+**Last Updated:** March 26, 2026 at 06:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/2034708938269036686
 
-16h ago
+17h ago
 
 ---
 
 **[Figure 03 becomes the first humanoid robot to visit the White House](https://www.reddit.com/r/robotics/comments/1s3epc8/figure_03_becomes_the_first_humanoid_robot_to/)**
 
-13h ago
+14h ago
 
 ---
 
 **[“They are coming for our jobs..”](https://www.reddit.com/r/robotics/comments/1s3aomh/they_are_coming_for_our_jobs/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -56,7 +56,7 @@ From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/20347089382690366
 
 AI-driven robotic hand with 21+ DoF and sub-millimeter precision, capable of delicate tasks like threading and micro-assembly. Uses tendon-driven actuation and real-time feedback for high consistency in controlled environments.
 
-12h ago
+13h ago
 
 ---
 
@@ -64,7 +64,15 @@ AI-driven robotic hand with 21+ DoF and sub-millimeter precision, capable of del
 
 Emily Yu (Boost VC), Aurora Feng (Neural Motion), and Albert Kim (Samsung Next) just dropped a market map for robotics data infrastructure and it's worth studying carefully. Five categories: Simulations & Evaluation, Curation & Labeling, Ingestion & Sync, Storage & Indexing, Deployment & Operations. A few things jump out: The simulation layer is overcrowded. NVIDIA, Scale, Applied Intuition, Parallel Domain, Bifrost, Duality, Parallax Worlds, ReSim, ZeroMatter — that's 15+ companies fighting for the same synthetic data dollar. Everyone's betting the sim-to-real gap closes. Not everyone will be right. Curation & Labeling is consolidating around a few names. Scale appears in both simulation and labeling. Encord just raised $60M. The annotation layer is clearly where enterprise dollars are flowing right now. The biggest gap nobody on this map addresses: where does the raw real-world data actually come from? Collection isn't on this map at all. Build AI, Cortex AI, Mecka AI , Robotics Data AI(India) - none of them appear. The entire "get humans to physically collect diverse real-world data" layer is absent. That's either an oversight or a signal that the market hasn't figured out who wins collection yet. Second gap: geography. Every company on this map is North American or European. The most environmentally diverse places on Earth for robot training that is India, Southeast Asia, Africa have zero representation. Curious what others think! is collection a separate market entirely, or does it eventually get absorbed by the simulation/labeling layer?
 
-53m ago
+2h ago
+
+---
+
+**[Started exploring TurtleBot3 + Nav2 + SLAM. I am feeling a bit overwhelmed, what should I focus on first?](https://www.reddit.com/r/robotics/comments/1s3yjdw/started_exploring_turtlebot3_nav2_slam_i_am/)**
+
+I recently started working with the TurtleBot3 simulation in Gazebo using ROS2. So far, I’ve: - Cloned and launched the TB3 simulation - Explored basic movement and sensor data (LiDAR) - Started looking into the code/configs for SLAM and Nav2 While going through the stack, I realized things get complex pretty quickly — especially understanding how SLAM, localization, and navigation all connect. Right now, I’m a bit confused about where to focus. For example: - In SLAM, should I focus more on the algorithm concepts (like mapping/localization) or on the ROS2 implementation (packages like slam_toolbox)? - In Nav2, there are many components (costmaps, planners, controllers) — what’s the most important part to understand first? - Is it better to treat Nav2 as a “black box” initially and then break it down, or understand each module deeply from the start? My goal is to eventually build and control my own robot (starting in simulation). Would really appreciate advice on: 👉 What concepts/components I should prioritize 👉 A good learning path for SLAM + Nav2 in ROS2 Thanks!
+
+1h ago
 
 ---
 
@@ -72,7 +80,7 @@ Emily Yu (Boost VC), Aurora Feng (Neural Motion), and Albert Kim (Samsung Next) 
 
 Hi a hobby idea came to me randomly about making a robot arm i can control with a camera like the classic 2 prong type however i can control via a camera looking at my arm but didn't know how to do it and what i need. I already have a 3d printer so thought it wouldn't be too difficult however its hard to find a similar scenario. Can anyone please help?
 
-7h ago
+8h ago
 
 ---
 
@@ -80,7 +88,7 @@ Hi a hobby idea came to me randomly about making a robot arm i can control with 
 
 Earlier this month, Seoul's COEX hosted an event whose name said it all: the China Humanoid Conference, "First Journey to Korea." Unitree, Fourier, Leju and Hua
 
-🔗 [The Korea Herald](https://www.koreaherald.com/article/10698201) • 23h ago
+🔗 [The Korea Herald](https://www.koreaherald.com/article/10698201) • 1d ago
 
 ---
 
@@ -96,15 +104,7 @@ KOU-III is a two-legged robot from Shandong University that combines walking wit
 
 We&rsquo;re announcing our March Meeting where we&rsquo;ll talk plugins!  &ldquo;An introduction to a beginner-friendly tutorial series that teaches how to create&hellip;
 
-🔗 [Vimeo](https://vimeo.com/1177012951?share=copy&fl=sv&fe=ci) • 11h ago
-
----
-
-**[New demo by Kyber Labs showing a system doing real lab tasks (one single take, no cuts, and no teleoperation just accelerated and some parts in 1x)](https://www.reddit.com/r/robotics/comments/1s299ix/new_demo_by_kyber_labs_showing_a_system_doing/)**
-
-From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/2036127368088080867 On Youtube: Kyber Labs - Wet Lab Demo: https://www.youtube.com/watch?v=iM7WjQYlFvM Kyber Labs Demos: https://kyberlabs.ai/demos
-
-1d ago
+🔗 [Vimeo](https://vimeo.com/1177012951?share=copy&fl=sv&fe=ci) • 12h ago
 
 ---
 
@@ -144,15 +144,23 @@ Live Science • 1d ago
 
 **[Melania Trump Appears With a Robot, Saying More Children Should Be Educated by Them](https://www.nytimes.com/2026/03/25/us/politics/melania-trump-robot.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
-**[Wristband enables wearers to control a robotic hand with their own movements](https://news.mit.edu/2026/wristband-enables-wearers-control-robotic-hand-with-own-movements-0325)**
+**[30 Years Ago, Robots Learned to Walk Without Falling](https://spectrum.ieee.org/honda-p2-robot-ieee-milestone)**
 
-MIT engineers designed an ultrasound wristband that precisely tracks a wearer’s hand movements in real time and communicates the information to a robot or a virtual environment.
+How did Honda's P2 robot change the future of humanoid robotics?
 
-MIT News • 18h ago
+IEEE Spectrum • 1d ago
+
+---
+
+**[Chicago leaders speak out after food delivery robots with Serve Robotics, Coco Robotics cause damage at CTA bus shelters](https://abc7chicago.com/post/chicago-leaders-speak-food-delivery-robots-serve-robotics-coco-cause-damage-cta-bus-shelters/18772726/)**
+
+Two recent incidents of food delivery robots smashing into CTA bus shelters days apart happened as Chicagoans continue to debate whether the robots are a public benefit or a nuisance.
+
+ABC7 Chicago • 7h ago
 
 ---
 
@@ -164,11 +172,11 @@ Business Insider • 1d ago
 
 ---
 
-**[Worst-performing AI-linked large-cap stocks across cloud, chips, and robotics so far in 2026 (SMH:NASDAQ)](https://seekingalpha.com/news/4568315-worst-performing-ai-linked-stocks-across-cloud-chips-and-robotics-so-far-in-2026)**
+**[Wristband enables wearers to control a robotic hand with their own movements](https://news.mit.edu/2026/wristband-enables-wearers-control-robotic-hand-with-own-movements-0325)**
 
-AI-linked software and IT services laggards in 2026: biggest YTD decliners from Atlassian to Snowflake, plus key ETFs.
+MIT engineers designed an ultrasound wristband that precisely tracks a wearer’s hand movements in real time and communicates the information to a robot or a virtual environment.
 
-Seeking Alpha • 18h ago
+MIT News • 20h ago
 
 ---
 
@@ -177,14 +185,6 @@ Seeking Alpha • 18h ago
 Amazon.com (NasdaqGS:AMZN) agreed to acquire Fauna Robotics, signaling an entry into consumer humanoid robotics alongside its existing automation efforts. AWS experienced repeated and severe service disruptions in its Bahrain region, with outages linked to drone strikes connected to ongoing Middle East conflict. The disruptions triggered customer migrations and operational changes, raising fresh questions about cloud resiliency in higher risk geographies. For a company already active in...
 
 Yahoo Finance • 1d ago
-
----
-
-**[Chicago leaders speak out after food delivery robots with Serve Robotics, Coco Robotics cause damage at CTA bus shelters](https://abc7chicago.com/post/chicago-leaders-speak-food-delivery-robots-serve-robotics-coco-cause-damage-cta-bus-shelters/18772726/)**
-
-Two recent incidents of food delivery robots smashing into CTA bus shelters days apart happened as Chicagoans continue to debate whether the robots are a public benefit or a nuisance.
-
-ABC7 Chicago • 6h ago
 
 ---
 
@@ -218,7 +218,7 @@ A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White H
 
 📺 C-SPAN
 
-👁️ 56K • 👍 386 • 💬 613 • ⏱️ 2:59 • 13h ago
+👁️ 56K • 👍 386 • 💬 613 • ⏱️ 2:59 • 14h ago
 
 ---
 
@@ -228,7 +228,7 @@ Floating Intake & Double Chain | 242W Wombo Combo | Robot Rundown This video is 
 
 📺 FUN Robotics Network
 
-👁️ 1K • 👍 40 • 💬 1 • ⏱️ 2:10 • 6h ago
+👁️ 1K • 👍 40 • 💬 1 • ⏱️ 2:10 • 7h ago
 
 ---
 
@@ -248,7 +248,7 @@ Melania Trump Makes a Triumphant Entrance and Suggests Humanoid Robots for Educa
 
 📺 Right Side Broadcasting Network
 
-👁️ 29K • 👍 2K • 💬 780 • ⏱️ 10:02 • 13h ago
+👁️ 29K • 👍 2K • 💬 780 • ⏱️ 10:02 • 14h ago
 
 ---
 
@@ -268,7 +268,7 @@ The Figure 03 recently visited the White House, becoming the first AI-powered hu
 
 📺 Kalil 4.0
 
-👁️ 4K • 👍 128 • 💬 20 • ⏱️ 0:44 • 12h ago
+👁️ 4K • 👍 128 • 💬 20 • ⏱️ 0:44 • 13h ago
 
 ---
 

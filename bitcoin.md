@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-26T04:56:35.365385+00:00'
+updated: '2026-03-26T06:13:59.603614+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 26, 2026 at 04:56 UTC  
+**Last Updated:** March 26, 2026 at 06:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** +0.5%  
-**30d:** +4.2%  
-**90d:** -19.5%  
-**1y:** -18.7%  
+**24h:** -1.3%  
+**7d:** -0.7%  
+**30d:** +3.1%  
+**90d:** -20.4%  
+**1y:** -19.6%  
 
 ---
 
@@ -79,21 +79,13 @@ Rank #1
 
 **[My favourite video 😅](https://www.reddit.com/r/Bitcoin/comments/1s3usw5/my_favourite_video/)**
 
-2h ago
+4h ago
 
 ---
 
 **[Be careful out there, Morgan Stanley wants your bitcoin](https://www.reddit.com/r/Bitcoin/comments/1s3pa4v/be_careful_out_there_morgan_stanley_wants_your/)**
 
-6h ago
-
----
-
-**[just bought my first 20$ worth of Bitcoin.. and scheduled a weekly 10$ to be bought.](https://www.reddit.com/r/Bitcoin/comments/1s38jbs/just_bought_my_first_20_worth_of_bitcoin_and/)**
-
-i have no idea of what i’m doing.. i just felt like it.. is it a good time to start this?
-
-17h ago
+7h ago
 
 ---
 
@@ -101,7 +93,15 @@ i have no idea of what i’m doing.. i just felt like it.. is it a good time to 
 
 The 70K before the 70K before the 68K before the 70K before the 72K before the 70K! GAHDAM! AMERICA!!! 🦅🦅🦅
 
-6h ago
+7h ago
+
+---
+
+**[just bought my first 20$ worth of Bitcoin.. and scheduled a weekly 10$ to be bought.](https://www.reddit.com/r/Bitcoin/comments/1s38jbs/just_bought_my_first_20_worth_of_bitcoin_and/)**
+
+i have no idea of what i’m doing.. i just felt like it.. is it a good time to start this?
+
+18h ago
 
 ---
 
@@ -109,7 +109,7 @@ The 70K before the 70K before the 68K before the 70K before the 72K before the 7
 
 France has often framed crypto as a form of “unproductive wealth” basically something speculative, not especially useful to the real economy and that’s even more striking when you consider that crypto gains for individuals in France are generally taxed at a 30% flat rate And yet Macron is now attending Paris Blockchain Week this April At first glance, that sounds inconsistent. But I think both positions can coexist My read is that France may still be skeptical of crypto as a speculative asset, while recognizing that blockchain infrastructure, tokenization, stablecoins, digital identity and onchain finance are becoming too important to ignore I feel like this is less about France suddenly being pro-crypto, and more about France not wanting to be late on a sector that could become strategic What do you think? A real turning point, or just a PR move?
 
-16h ago
+17h ago
 
 ---
 
@@ -117,7 +117,7 @@ France has often framed crypto as a form of “unproductive wealth” basically 
 
 Art inspired by the best asset. Art by Shipwreck Sean
 
-14h ago
+16h ago
 
 ---
 
@@ -125,15 +125,7 @@ Art inspired by the best asset. Art by Shipwreck Sean
 
 Bitcoin does not escape material reality. It is secured by it. If the energy crisis moves beyond oil and gas and reaches electricity itself, the real question is no longer whether Bitcoin is bullish or bearish, but whether it remains structurally credible under pressure. What follows is not a market call, but a systems analysis of where the pressure would land first, what would actually weaken, and what might become more relevant precisely because the surrounding system is becoming more constrained.
 
-🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/when-the-energy-crisis-reaches-electricity) • 16h ago
-
----
-
-**[Cold wallet ideas](https://www.reddit.com/r/Bitcoin/comments/1s37ky1/cold_wallet_ideas/)**
-
-I'm looking for a cold wallet there are so many out there but not sure which one to get i plan to store bitcoin, some alt coins and memecoins. Any suggestions on which is a good one
-
-17h ago
+🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/when-the-energy-crisis-reaches-electricity) • 17h ago
 
 ---
 
@@ -141,15 +133,23 @@ I'm looking for a cold wallet there are so many out there but not sure which one
 
 I first heard it from my computer science teacher at school in 2013. He taught us about what Blockchain is and how Bitcoin works but I was playing LOL and COD games until 2019 😂
 
-7h ago
+8h ago
 
 ---
 
-**[As The Weather Warms Up, Beware The Bitcoin Groupies](https://www.reddit.com/r/Bitcoin/comments/1s3chz9/as_the_weather_warms_up_beware_the_bitcoin/)**
+**[Cold wallet ideas](https://www.reddit.com/r/Bitcoin/comments/1s37ky1/cold_wallet_ideas/)**
 
-https://youtube.com/shorts/J5ESZr3_pE8
+I'm looking for a cold wallet there are so many out there but not sure which one to get i plan to store bitcoin, some alt coins and memecoins. Any suggestions on which is a good one
 
-14h ago
+19h ago
+
+---
+
+**[Gemini blocking withdrawals while shutting down UK operations – anyone else stuck?](https://www.reddit.com/r/Bitcoin/comments/1s3xm6y/gemini_blocking_withdrawals_while_shutting_down/)**
+
+I’m a UK-based user of Gemini and I’ve been trying to withdraw my Bitcoin for weeks with no success. Every time I attempt a withdrawal, I get stuck in a broken authentication loop: I swipe to confirm the withdrawal It then asks me to approve via Authy But Gemini has removed Authy/SMS support And there is nowhere to enter the code So the withdrawal just… can’t complete. My account was recently recovered, and since then withdrawals appear to be restricted. I’ve contacted support multiple times and only get generic responses like “we’re working on it.” Now the really concerning part: Gemini is shutting down operations in the UK soon, and I still cannot access my funds. At this point, it feels like my assets are effectively locked due to a system failure on their side. Has anyone else experienced: The Authy/passkey issue? Withdrawal blocks after account recovery? Any success actually getting funds out recently? I’ve now escalated this to the Financial Conduct Authority and the Financial Ombudsman Service. Would really appreciate hearing if others are dealing with this or if anyone found a workaround.
+
+1h ago
 
 ---
 
@@ -157,11 +157,33 @@ https://youtube.com/shorts/J5ESZr3_pE8
 
 ## Google News: "bitcoin"
 
+**[Bhutan offloads $37 million worth of bitcoin as selling accelerates: onchain data](https://www.theblock.co/post/394986/bhutan-moves-37-million-worth-bitcoin)**
+
+Bhutan transferred 519.7 BTC, worth $36.75 million, to two wallets on Wednesday, according to Arkham data.
+
+The Block • 23h ago
+
+---
+
+**[BlackRock Issues $1 Trillion ‘Nonsense’ Crypto Market Price Warning Alongside Huge Bitcoin Prediction](https://www.forbes.com/sites/digital-assets/2026/03/25/500-million-in-the-next-five-years-blackrock-ceo-issues-huge-crypto-prediction-as-the-bitcoin-price-surges/)**
+
+Forbes • 18h ago
+
+---
+
+**[One of the biggest bitcoin (BTC) sellers this year is a tiny Asian country](https://www.coindesk.com/markets/2026/03/26/bhutan-moves-another-500-bitcoin-to-exchanges-as-2026-outflows-top-usd150-million)**
+
+Bhutan moves another 500 bitcoin to exchanges as 2026 outflows top $150 million
+
+CoinDesk • 1h ago
+
+---
+
 **[Bitcoin inches toward $71,000 as hopes for U.S.-Iran talks push oil prices lower: CNBC Crypto World](https://www.cnbc.com/video/2026/03/25/bitcoin-inches-toward-71000-as-hopes-for-us-iran-talks-push-oil-prices-lower-cnbc-crypto-world.html)**
 
 On today's episode of CNBC Crypto World, bitcoin moves towards $71,000 after Iran counters a U.S. ceasefire plan. Also, Senators reportedly reached an agreement on crypto market structure legislation language to settle a dispute between the banking and crypto sectors. Franklin Templeton's Max Gokhman also discusses how bitcoin is performing as the Iran war continues.
 
-CNBC • 9h ago
+CNBC • 11h ago
 
 ---
 
@@ -169,7 +191,7 @@ CNBC • 9h ago
 
 Nearly $15 billion in Bitcoin options expire on Deribit Friday, coinciding with a geopolitical deadline that could spark weekend volatility.
 
-Decrypt • 8h ago
+Decrypt • 9h ago
 
 ---
 
@@ -181,14 +203,6 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Bhutan offloads $37 million worth of bitcoin as selling accelerates: onchain data](https://www.theblock.co/post/394986/bhutan-moves-37-million-worth-bitcoin)**
-
-Bhutan transferred 519.7 BTC, worth $36.75 million, to two wallets on Wednesday, according to Arkham data.
-
-The Block • 22h ago
-
----
-
 **[Bitcoin mining company plans to expand cryptocurrency operations to Dubuque County](https://www.kcrg.com/2026/03/24/bitcoin-mining-company-plans-expand-cryptocurrency-operations-dubuque-county/)**
 
 A bitcoin mining company plans to install servers in Dubuque County, a move backed by the local economic development corporation.
@@ -197,17 +211,17 @@ KCRG • 1d ago
 
 ---
 
-**[Gold To $35,000, Bitcoin To $750,000, Robert Kiyosaki Warns 'Biggest Bubble' Is About To Burst](https://finance.yahoo.com/markets/commodities/articles/gold-35-000-bitcoin-750-135044652.html)**
+**[Bitcoin sinks below $70,000 as Bernstein analysts say token 'looks bottomed'](https://finance.yahoo.com/news/bitcoin-sinks-below-70000-as-bernstein-analysts-say-token-looks-bottomed-155220732.html)**
 
-The "biggest [financial] bubble" is about to burst, "Rich Dad Poor Dad" author Robert Kiyosaki says. "I do not know what pin, what event will pop the biggest bubbles in [history]," Kiyosaki said on March 16 on X. "[Whatever] the...
+The token has outperformed gold and equities during the Middle East conflict and was trading below $70,000 on Tuesday.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[GameStop’s move to add bitcoin as a treasury asset turns 1. It hasn’t paid off yet.](https://www.marketwatch.com/story/gamestops-move-to-add-bitcoin-as-a-treasury-asset-turns-1-it-hasnt-paid-off-yet-ccb668e3?gaa_at=eafs&gaa_n=AWEtsqfZqI9_djo2-QEwhqbG0849gfh8yEiBQy5P3UpS2ZJqu8QyzekwoVh8&gaa_ts=69c4bfef&gaa_sig=GJZzFmTr8ISZCWVkDstKcmgf0jXwDD8Szc0M6sXScR0sniZZnT5f3cjAjYywkXi3PmhAQgajIVqSwoiDCLzYkw%3D%3D)**
+**[GameStop’s move to add bitcoin as a treasury asset turns 1. It hasn’t paid off yet.](https://www.marketwatch.com/story/gamestops-move-to-add-bitcoin-as-a-treasury-asset-turns-1-it-hasnt-paid-off-yet-ccb668e3?gaa_at=eafs&gaa_n=AWEtsqcFQ6GRGuPWntIPs7YzhPLX_rCE8buOMW1Woqu-CnEiBD1Uim5a-N1W&gaa_ts=69c4d213&gaa_sig=5sfeNevhttg_G86oe1wjduaw9z3wfrag2nXHsmtBvVDSvsltvjLETVOt_yd72VkYxd6MDCwSrNUGXaDn3pstHw%3D%3D)**
 
-MarketWatch • 13h ago
+MarketWatch • 14h ago
 
 ---
 
@@ -215,21 +229,7 @@ MarketWatch • 13h ago
 
 Which beaten-down crypto is the better buy right now? Two Motley Fool contributors make their cases for Bitcoin and XRP.
 
-The Motley Fool • 16h ago
-
----
-
-**[US’s Mysterious $15 Billion Crypto Haul Faces Questions in Court](https://www.bloomberg.com/news/articles/2026-03-24/us-s-mysterious-15-billion-crypto-haul-faces-questions-in-court)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[Current price of Bitcoin for March 24, 2026](https://fortune.com/article/price-of-bitcoin-03-24-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 1d ago
+The Motley Fool • 18h ago
 
 ---
 
@@ -249,7 +249,7 @@ Anchor any file to Bitcoin with one API call. Open protocol, zero vendor lock-in
 
 Difficulty is now nearly 10% below where it started the year, despite a sharp 14.7% rebound in February after weather-related disruptions subsided.
 
-⬆️ 5 • 💬 1 • 3d ago • [The Block](https://www.theblock.co/post/394579/bitcoin-mining-difficulty-drops-7-8-as-miner-exodus-accelerates-amid-ai-pivot)
+⬆️ 5 • 💬 1 • 4d ago • [The Block](https://www.theblock.co/post/394579/bitcoin-mining-difficulty-drops-7-8-as-miner-exodus-accelerates-amid-ai-pivot)
 
 ---
 
@@ -285,7 +285,7 @@ The U.S. just revealed a $47 trillion liability problem and almost nobody is tal
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 1K • 💬 84 • ⏱️ 20:42 • 5h ago
+👁️ 11K • 👍 1K • 💬 84 • ⏱️ 20:42 • 6h ago
 
 ---
 
@@ -315,7 +315,7 @@ On today's episode of CNBC Crypto World, bitcoin moves towards $71000 after Iran
 
 📺 CNBC Television
 
-👁️ 7K • 👍 92 • 💬 140 • ⏱️ 8:47 • 9h ago
+👁️ 7K • 👍 92 • 💬 140 • ⏱️ 8:47 • 10h ago
 
 ---
 
@@ -335,7 +335,7 @@ You're not going to want to miss this INCREDIBLE Ether, technical analysis and i
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 241 • 💬 100 • ⏱️ 13:34 • 10h ago
+👁️ 4K • 👍 241 • 💬 100 • ⏱️ 13:34 • 12h ago
 
 ---
 
@@ -365,7 +365,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 6K • 👍 448 • 💬 67 • ⏱️ 9:14 • 12h ago
+👁️ 6K • 👍 448 • 💬 67 • ⏱️ 9:14 • 13h ago
 
 ---
 

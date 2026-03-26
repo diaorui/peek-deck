@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-26T04:56:35.375778+00:00'
+updated: '2026-03-26T06:13:59.609557+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 26, 2026 at 04:56 UTC  
+**Last Updated:** March 26, 2026 at 06:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,166.84
+### $2,113.87
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
-**7d:** +0.3%  
-**30d:** +4.6%  
-**90d:** -27.1%  
-**1y:** +7.5%  
+**24h:** -2.1%  
+**7d:** -1.3%  
+**30d:** +3.0%  
+**90d:** -28.2%  
+**1y:** +5.8%  
 
 ---
 
@@ -68,17 +68,25 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion March 26, 2026](https://www.reddit.com/r/ethereum/comments/1s3yazd/daily_general_discussion_march_26_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1h ago
+
+---
+
 **[Daily General Discussion March 25, 2026](https://www.reddit.com/r/ethereum/comments/1s31irr/daily_general_discussion_march_25_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
 **[Sent ETH to Abstract Global Wallet on wrong network — any chance of recovery?](https://www.reddit.com/r/ethereum/comments/1s3mdo6/sent_eth_to_abstract_global_wallet_on_wrong/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -86,21 +94,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve been trying to understand where tokenized real-world assets (RWA) actually fit. On paper, it sounds useful. You can take things like gold, real estate, or commodities and put them on blockchain. That should make them easier to trade, more accessible, and available 24/7. No banks, fewer middlemen. But I keep wondering how much of this is real improvement vs just packaging old assets in a new way. If I already have ETFs or REITs, do I really gain anything from tokenization? Or is it just more risk added through crypto infrastructure? I recently found Steamex.com, a platform which is focused on tokenized gold. The idea is simple: you buy digital tokens backed by real gold instead of holding physical metal. It sounds convenient, but it also depends a lot on trust in the company and how the backing actually works. Another question is liquidity. Projects say assets are tradable anytime, but that only works if there are enough buyers and sellers. Curious what others think. Is this actually the future of finance, or are we still early and overestimating the impact?
 
-18h ago
+20h ago
 
 ---
 
 **[Aave V4 just got greenlit in their latest proposal. Here's what is changing](https://www.reddit.com/r/ethereum/comments/1s2ydj1/aave_v4_just_got_greenlit_in_their_latest/)**
 
 V4 passed near-unanimously with their main shift from being a monolithic pool to modular vaults. Like Morpho's isolation but with Aave's liquidity depth. sUSDe and RWA yields get cleaner APY profiles because risk vectors aren't correlated anymore. This is DeFi infrastructure graduating from 'move fast break things' to 'TradFi complexity with better costs and could be a comeback for Aave against other lending market if implemented properly
-
-1d ago
-
----
-
-**[Where do validators and miners of various blockchains communicate?](https://www.reddit.com/r/ethereum/comments/1s2una3/where_do_validators_and_miners_of_various/)**
-
-I've always wanted to know more about the world of the unsung heroes in blockchain. Those, being the validators and miners. How do validators of various blockchains communicate? Is there a place where I can peek into their world, (if any exist) where I can submerge myself in how they think, what they find valuable, and generally ask a tonne of questions? I understand the answer will vary from ecosystem to ecosystem. But yes, please assist. Where can I find validator groups and communication channels, any common I can communicate with them. Thanks,
 
 1d ago
 
@@ -114,11 +114,19 @@ Been holding ETH for a while and thinking about staking. With 32 ETH still being
 
 ---
 
+**[Where do validators and miners of various blockchains communicate?](https://www.reddit.com/r/ethereum/comments/1s2una3/where_do_validators_and_miners_of_various/)**
+
+I've always wanted to know more about the world of the unsung heroes in blockchain. Those, being the validators and miners. How do validators of various blockchains communicate? Is there a place where I can peek into their world, (if any exist) where I can submerge myself in how they think, what they find valuable, and generally ask a tonne of questions? I understand the answer will vary from ecosystem to ecosystem. But yes, please assist. Where can I find validator groups and communication channels, any common I can communicate with them. Thanks,
+
+1d ago
+
+---
+
 **[Daily General Discussion March 24, 2026](https://www.reddit.com/r/ethereum/comments/1s24nay/daily_general_discussion_march_24_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -133,12 +141,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 Trying to get a realistic picture of where rollup deployment is right now, not the hype version. I've been reading through documentation for most of the major platforms and the gap between what they promise and what teams actually experience seems pretty significant based on forum posts and Discord convos. Specifically curious about a few things. How much does your framework choice actually constrain you after deployment? If you start on OP Stack and realize Arbitrum Orbit would've been better for your use case, how painful is that migration realistically? Also the maintenance burden question. Every platform promises "one-click deployment" but what does post-launch actually look like for the infra team? Are you constantly babysitting the thing or does it run without much intervention? Asking because I keep seeing projects underestimate this and then burn significant engineering time on infra that should be going to product. What's been everyone's experience?
 
 1d ago
-
----
-
-**[EthStaker: Ethereum Staking Survey | Any type of staker or even non-stakers are called to respond](https://www.reddit.com/r/ethereum/comments/1s2419r/ethstaker_ethereum_staking_survey_any_type_of/)**
-
-🔗 [ethstaker.org](https://ethstaker.org/forms/staking-landscape-survey-2026) • 2d ago
 
 ---
 
@@ -158,11 +160,11 @@ The Block • 1d ago
 
 Bitmine officially launched the MAVAN Ethereum staking platform, targeting roughly $300 million in annual rewards.
 
-The Block • 14h ago
+The Block • 16h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Rise. How the Iran War Has Made Crypto Calls Tougher.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqdfIzXLY9zASS0OhtnxQDO3Sv10rBestW2MXHbow9K5NiUYJkkIykhs&gaa_ts=69c4bff1&gaa_sig=KJeureNCjBE6wSinBiZQXAIBuW93gMYlYpNPKbtnt-TUZyNGUYjWoSPWvxcKRw4LrD__gTQ2sjysksK30U1e5w%3D%3D)**
+**[Bitcoin, Ethereum, XRP Rise. How the Iran War Has Made Crypto Calls Tougher.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqevyght27KQim1MnRKPx_askUtn8XemPlQCC6yMe6O_4jFEK0wwqxRS&gaa_ts=69c4d214&gaa_sig=1KuGsaq-eyhIZLl9JBEV0fcUxlfvQE9iJsnacxpN37gaLS2IHHW5F1CyD1wGOsb10VOCarhaQI9FASMzHb8M1g%3D%3D)**
 
 Barron's • 1d ago
 
@@ -172,7 +174,7 @@ Barron's • 1d ago
 
 Ethereum is trading below $2,200. The market is volatile. And yet, quietly, the structural case for ETH has never looked more constrained on the supply side.A new CryptoQuant report reveals that 38.31 million ETH — roughly 31.4% of the total supply — is now locked in staking, an all-time high. That…
 
-TradingView • 13h ago
+TradingView • 15h ago
 
 ---
 
@@ -188,7 +190,7 @@ CoinDesk • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 14h ago
+Fortune • 16h ago
 
 ---
 
@@ -196,7 +198,7 @@ Fortune • 14h ago
 
 Ethereum is a blockchain powerhouse, but it can't compete with Solana on speed or cost.
 
-The Motley Fool • 17h ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -204,7 +206,7 @@ The Motley Fool • 17h ago
 
 Soter advances digital asset risk management through a novel ETH-denominated slashing product, providing stakers with native-asset indemnity and eliminating FX gaps in legacy insurance policies.- Soter Insure, a provider of institutional-grade insurance for the digital asset economy, today announc...
 
-Investing News Network • 12h ago
+Investing News Network • 13h ago
 
 ---
 
@@ -212,7 +214,7 @@ Investing News Network • 12h ago
 
 Ethereum bulls see opportunity despite Circle’s recent 20% drop. Their logic: Lower stablecoin yields could drive more activity into staking.
 
-AMBCrypto • 5h ago
+AMBCrypto • 7h ago
 
 ---
 
@@ -234,7 +236,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free https://go.ted
 
 📺 MONEY GAME
 
-👁️ 4K • 👍 190 • 💬 23 • ⏱️ 12:42 • 9h ago
+👁️ 4K • 👍 190 • 💬 23 • ⏱️ 12:42 • 11h ago
 
 ---
 
@@ -254,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 350 • 👍 40 • 💬 1 • ⏱️ 5:07 • 2h ago
+👁️ 350 • 👍 40 • 💬 1 • ⏱️ 5:07 • 3h ago
 
 ---
 
@@ -264,7 +266,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 KhamitHEthics
 
-👁️ 5K • 👍 32 • ⏱️ 18:01 • 4h ago
+👁️ 5K • 👍 32 • ⏱️ 18:01 • 5h ago
 
 ---
 
@@ -274,7 +276,7 @@ BITCOIN & CRYPTO: Another Squeeze Starts Soon!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 3K • 👍 215 • 💬 126 • ⏱️ 16:33 • 5h ago
+👁️ 3K • 👍 215 • 💬 126 • ⏱️ 16:33 • 7h ago
 
 ---
 
@@ -294,7 +296,7 @@ The crypto market is heating up, things look like they could become a lot more s
 
 📺 The Modern Investor
 
-👁️ 7K • 👍 788 • 💬 141 • ⏱️ 25:01 • 18h ago
+👁️ 7K • 👍 788 • 💬 141 • ⏱️ 25:01 • 20h ago
 
 ---
 
@@ -314,7 +316,7 @@ BIG PROBLEM Altcoin Season is CANCELED BlackRock Larry Fink “Bitcoin and Ether
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 409 • 💬 35 • ⏱️ 26:18 • 10h ago
+👁️ 6K • 👍 409 • 💬 35 • ⏱️ 26:18 • 11h ago
 
 ---
 
