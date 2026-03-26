@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-25T23:36:31.747191+00:00'
+updated: '2026-03-26T02:29:24.855167+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 25, 2026 at 23:36 UTC  
+**Last Updated:** March 26, 2026 at 02:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/2034708938269036686
 
-10h ago
+13h ago
 
 ---
 
 **[Figure 03 becomes the first humanoid robot to visit the White House](https://www.reddit.com/r/robotics/comments/1s3epc8/figure_03_becomes_the_first_humanoid_robot_to/)**
 
-7h ago
+10h ago
 
 ---
 
 **[“They are coming for our jobs..”](https://www.reddit.com/r/robotics/comments/1s3aomh/they_are_coming_for_our_jobs/)**
 
-10h ago
+13h ago
 
 ---
 
@@ -56,15 +56,7 @@ From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/20347089382690366
 
 AI-driven robotic hand with 21+ DoF and sub-millimeter precision, capable of delicate tasks like threading and micro-assembly. Uses tendon-driven actuation and real-time feedback for high consistency in controlled environments.
 
-6h ago
-
----
-
-**[Humanoid race with China may be won by the hand, not on foot](https://www.reddit.com/r/robotics/comments/1s329ox/humanoid_race_with_china_may_be_won_by_the_hand/)**
-
-Earlier this month, Seoul's COEX hosted an event whose name said it all: the China Humanoid Conference, "First Journey to Korea." Unitree, Fourier, Leju and Hua
-
-🔗 [The Korea Herald](https://www.koreaherald.com/article/10698201) • 17h ago
+9h ago
 
 ---
 
@@ -72,7 +64,15 @@ Earlier this month, Seoul's COEX hosted an event whose name said it all: the Chi
 
 Hi a hobby idea came to me randomly about making a robot arm i can control with a camera like the classic 2 prong type however i can control via a camera looking at my arm but didn't know how to do it and what i need. I already have a 3d printer so thought it wouldn't be too difficult however its hard to find a similar scenario. Can anyone please help?
 
-2h ago
+4h ago
+
+---
+
+**[Humanoid race with China may be won by the hand, not on foot](https://www.reddit.com/r/robotics/comments/1s329ox/humanoid_race_with_china_may_be_won_by_the_hand/)**
+
+Earlier this month, Seoul's COEX hosted an event whose name said it all: the China Humanoid Conference, "First Journey to Korea." Unitree, Fourier, Leju and Hua
+
+🔗 [The Korea Herald](https://www.koreaherald.com/article/10698201) • 20h ago
 
 ---
 
@@ -88,7 +88,7 @@ KOU-III is a two-legged robot from Shandong University that combines walking wit
 
 We&rsquo;re announcing our March Meeting where we&rsquo;ll talk plugins!  &ldquo;An introduction to a beginner-friendly tutorial series that teaches how to create&hellip;
 
-🔗 [Vimeo](https://vimeo.com/1177012951?share=copy&fl=sv&fe=ci) • 6h ago
+🔗 [Vimeo](https://vimeo.com/1177012951?share=copy&fl=sv&fe=ci) • 9h ago
 
 ---
 
@@ -104,7 +104,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/203612736808808086
 
 Hello people! does anyone know of anywhere with dynamixel Y series in stock? looking for some larger ones for a project, or anyone have some (slightly) loved ones they might be looking to sell. apologies if this is inappropriate to post here!
 
-14h ago
+17h ago
 
 ---
 
@@ -112,11 +112,11 @@ Hello people! does anyone know of anywhere with dynamixel Y series in stock? loo
 
 ## Google News: "robotics"
 
-**[Amazon buys Fauna Robotics, maker of the Sprout humanoid robot](https://abcnews.com/Business/wireStory/amazon-buys-fauna-robotics-maker-sprout-humanoid-robot-131377676)**
+**[Amazon acquires 'approachable' humanoid maker Fauna Robotics](https://www.cnbc.com/2026/03/24/amazon-humanoid-maker-fauna-robotics-sprout.html)**
 
-Amazon has acquired Fauna Robotics, just under two months after the startup introduced a humanoid robot called Sprout designed for social spaces like homes and schools
+Fauna's first product, called Sprout, is a $50,000 bipedal robot that's 3 feet, 6 inches tall and designed to be "approachable and human-friendly."
 
-abcnews.com • 1d ago
+CNBC • 1d ago
 
 ---
 
@@ -128,35 +128,50 @@ Live Science • 1d ago
 
 ---
 
+**[This Kenyan-built robotic arm is opening new possibilities for teaching deaf students. Paired with a sensor-fitted suit, the device converts spoken words into gestures. 𝑉𝑖𝑑𝑒𝑜 𝐶𝑟𝑒𝑑𝑖𝑡𝑠: 𝑅𝑒𝑢𝑡𝑒𝑟𝑠](https://www.linkedin.com/posts/fintech-association-of-kenya_this-kenyan-built-robotic-arm-is-opening-activity-7442753099573747714-24ju)**
+
+This Kenyan-built robotic arm is opening new possibilities for teaching deaf students. Paired with a sensor-fitted suit, the device converts spoken words into gestures.
+𝑉𝑖𝑑𝑒𝑜 𝐶𝑟𝑒𝑑𝑖𝑡𝑠: 𝑅𝑒𝑢𝑡𝑒𝑟𝑠
+
+LinkedIn • 25m ago
+
+---
+
+**[Melania Trump Appears With a Robot, Saying More Children Should Be Educated by Them](https://www.nytimes.com/2026/03/25/us/politics/melania-trump-robot.html)**
+
+The New York Times • 3h ago
+
+---
+
+**[Chicago leaders speak out after food delivery robots with Serve Robotics, Coco Robotics cause damage at CTA bus shelters](https://abc7chicago.com/post/chicago-leaders-speak-food-delivery-robots-serve-robotics-coco-cause-damage-cta-bus-shelters/18772726/)**
+
+Two recent incidents of food delivery robots smashing into CTA bus shelters days apart happened as Chicagoans continue to debate whether the robots are a public benefit or a nuisance.
+
+ABC7 Chicago • 3h ago
+
+---
+
+**[Rogue delivery robots are plowing into Chicago bus shelters, ‘bumping’ into pedestrians](https://nypost.com/2026/03/25/us-news/rogue-delivery-robots-plowed-into-two-chicago-bus-shelters-bumping-into-pedestrians-hazard-to-peoples-safety/)**
+
+“This is a hazard to people’s safety.”
+
+New York Post • 3h ago
+
+---
+
+**[Delivery robot smashes into Old Town bus shelter in second crash of the week](https://www.nbcchicago.com/news/local/delivery-robot-smashes-into-old-town-bus-shelter-in-second-crash-of-the-week/3913833/)**
+
+A delivery robot shattered the glass of an Chicago bus shelter Tuesday in the second such incident of its kind.
+
+NBC 5 Chicago • 1h ago
+
+---
+
 **[Wristband enables wearers to control a robotic hand with their own movements](https://news.mit.edu/2026/wristband-enables-wearers-control-robotic-hand-with-own-movements-0325)**
 
 MIT engineers designed an ultrasound wristband that precisely tracks a wearer’s hand movements in real time and communicates the information to a robot or a virtual environment.
 
-MIT News • 13h ago
-
----
-
-**[2 food delivery robots with Serve Robotics, Coco Robotics crash into CTA bus shelters days apart; 1 incident caught on camera](https://abc7chicago.com/post/video-shows-serve-robotics-delivery-robot-crash-cta-bus-shelter-racine-outside-centre-construction-group-west-town/18763333/)**
-
-Surveillance footage captured one of at least two food delivery robot crashes into CTA bus shelters.
-
-ABC7 Chicago • 19h ago
-
----
-
-**[Chicago leaders speak out after delivery robots cause damage at CTA bus shelters](https://www.yahoo.com/news/articles/chicago-leaders-speak-delivery-robots-222729660.html)**
-
-Two recent Incidents of food delivery robots smashing into CTA bus shelters days apart happened as Chicagoans continue to debate whether the robots are a public benefit or a nuisance.
-
-Yahoo • 1h ago
-
----
-
-**[Second delivery robot crashes into bus shelter, this time in Old Town](https://www.cbsnews.com/chicago/news/second-delivery-robot-crashes-into-bus-shelter-this-time-in-old-town/)**
-
-The robot belonging to Coco Robotics was spotted by a CBS News Chicago viewer near North Avenue and Halsted Street in Old Town on Tuesday afternoon.
-
-CBS News • 1d ago
+MIT News • 16h ago
 
 ---
 
@@ -168,12 +183,6 @@ Business Insider • 1d ago
 
 ---
 
-**[Melania and the Robot](https://www.nytimes.com/2026/03/25/us/politics/melania-trump-robot.html)**
-
-The New York Times • 2h ago
-
----
-
 **[The most innovative robotics and engineering companies of 2026](https://www.fastcompany.com/91497289/robotics-engineering-most-innovative-companies-2026)**
 
 Why Boston Dynamics, Terabase Energy, Lucid Bots, and Symbotic are among Fast Company's Most Innovative Companies in robotics and engineering for 2026.
@@ -182,25 +191,17 @@ Fast Company • 1d ago
 
 ---
 
-**[Lucid Bots raises $20M to keep up with demand for its window-washing drones](https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/)**
-
-Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots.
-
-TechCrunch • 12h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
 
-**[First Lady Melania Trump walks with robot to White House event on children&#39;s technology](https://www.youtube.com/watch?v=7sHSBgU5p4Y)**
+**[Floating Intake &amp; Double Chain | 242W Wombo Combo | Robot Rundown](https://www.youtube.com/watch?v=EsFkSMew-w8)**
 
-A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White House summit on empowering children with ...
+Floating Intake & Double Chain | 242W Wombo Combo | Robot Rundown This video is supported by Kettering University: ...
 
-📺 C-SPAN
+📺 FUN Robotics Network
 
-👁️ 16K • 👍 214 • 💬 314 • ⏱️ 2:59 • 7h ago
+👁️ 850 • 👍 34 • ⏱️ 2:10 • 3h ago
 
 ---
 
@@ -210,7 +211,17 @@ A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White H
 
 📺 RAI Institute
 
-👁️ 207K • 👍 7K • 💬 629 • ⏱️ 1:34 • 2d ago
+👁️ 251K • 👍 7K • 💬 704 • ⏱️ 1:34 • 2d ago
+
+---
+
+**[First Lady Melania Trump walks with robot to White House event on children&#39;s technology](https://www.youtube.com/watch?v=7sHSBgU5p4Y)**
+
+A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White House summit on empowering children with ...
+
+📺 C-SPAN
+
+👁️ 44K • 👍 338 • 💬 554 • ⏱️ 2:59 • 10h ago
 
 ---
 
@@ -220,17 +231,7 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 📺 CNET
 
-👁️ 16K • 👍 453 • 💬 27 • ⏱️ 5:50 • 3d ago
-
----
-
-**[Figure 03 Humanoid Robot Speaks at the White House #robot #humanoidrobot  #robotics](https://www.youtube.com/watch?v=6z4q9yYHDVw)**
-
-The Figure 03 recently visited the White House, becoming the first AI-powered humanoid robot to do so. The bipedal AI robot ...
-
-📺 Kalil 4.0
-
-👁️ 2K • 👍 80 • 💬 14 • ⏱️ 0:44 • 6h ago
+👁️ 16K • 👍 455 • 💬 27 • ⏱️ 5:50 • 3d ago
 
 ---
 
@@ -240,47 +241,47 @@ This week in robotics got kind of ridiculous. South Korea showed off a humanoid 
 
 📺 AI Revolution
 
-👁️ 172K • 👍 2K • 💬 128 • ⏱️ 14:31 • 2d ago
+👁️ 181K • 👍 2K • 💬 132 • ⏱️ 14:31 • 3d ago
 
 ---
 
-**[6 Robots You Can Build in 2026](https://www.youtube.com/watch?v=8smjYAsxAts)**
+**[China in Tears! Superpower Falls as TSMC CEO Exposes China’s Robot Lies—95% of Brain Made by TSMC](https://www.youtube.com/watch?v=mCUayp_OjTs)**
 
-Learn for free on Brilliant for a full 30 days: https://brilliant.org/NikodemBartnik/ . You'll also get 20% off an annual Premium ...
+On March 8, at the "Tomorrow's Walker" exhibit in Shanghai Science and Technology Museum, a robot performing unexpectedly ...
 
-📺 Nikodem Bartnik
+📺 China Observer
 
-👁️ 16K • 👍 957 • 💬 29 • ⏱️ 9:55 • 1d ago
-
----
-
-**[China&#39;s humanoid robots move toward practical use](https://www.youtube.com/watch?v=-g7H28HvZQM)**
-
-Robots are becoming ubiquitous in China, whether for industrial manufacturing, to man a store counter, or direct traffic. According ...
-
-📺 ShanghaiEye魔都眼
-
-👁️ 33K • 👍 346 • 💬 112 • ⏱️ 1:29 • 1d ago
+👁️ 19K • 👍 1K • 💬 158 • ⏱️ 15:22 • 5h ago
 
 ---
 
-**[Engineering Disney’s Olaf Robot](https://www.youtube.com/watch?v=zi0xi_UwvBU)**
+**[Figure 03 Humanoid Robot Speaks at the White House #robot #humanoidrobot  #robotics](https://www.youtube.com/watch?v=6z4q9yYHDVw)**
 
-How do you build a robot with a massive head, no visible legs, and motors that overheat? ❄️   Explaining the engineering ...
+The Figure 03 recently visited the White House, becoming the first AI-powered humanoid robot to do so. The bipedal AI robot ...
 
-📺 ZAUEY (Claire Zau)
+📺 Kalil 4.0
 
-👁️ 184K • 👍 11K • 💬 270 • ⏱️ 2:09 • 3d ago
+👁️ 3K • 👍 117 • 💬 20 • ⏱️ 0:44 • 9h ago
 
 ---
 
-**[Out of control robot smashes up restaurant as waitress desperately attempts to drag it away](https://www.youtube.com/watch?v=ZyohmMJA5Ao)**
+**[WATCH: Melania Trump Makes a Triumphant Entrance and Suggests Humanoid Robots for Teaching - 3/25/26](https://www.youtube.com/watch?v=ImYeN2fcUJw)**
 
-THIS is the hilarious moment a boogying robot dances too hard and sends food and cutlery flying in a high end restaurant.
+Melania Trump Makes a Triumphant Entrance and Suggests Humanoid Robots for Education. March 25, 2026 Join this channel to ...
 
-📺 The Sun
+📺 Right Side Broadcasting Network
 
-👁️ 321K • 👍 4K • 💬 3K • ⏱️ 2:07 • 6d ago
+👁️ 27K • 👍 2K • 💬 757 • ⏱️ 10:02 • 10h ago
+
+---
+
+**[NVIDIA Just Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=eIAF4CbbUWI)**
+
+Thanks to Delete Me for sponsoring this video. To keep your private info private check out https://www.JoinDeleteMe.com/Kimjava ...
+
+📺 Kim Java
+
+👁️ 65K • 👍 3K • 💬 167 • ⏱️ 20:00 • 1d ago
 
 ---
 

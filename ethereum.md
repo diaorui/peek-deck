@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-25T23:36:31.743972+00:00'
+updated: '2026-03-26T02:29:24.852329+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- news
 - cryptocurrency
 - social
-- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 25, 2026 at 23:36 UTC  
+**Last Updated:** March 26, 2026 at 02:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,163.00
+### $2,166.84
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** +1.6%  
-**30d:** +17.3%  
-**90d:** -25.9%  
-**1y:** +8.2%  
+**24h:** -0.3%  
+**7d:** +0.4%  
+**30d:** +4.7%  
+**90d:** -27.0%  
+**1y:** +7.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $261.12B
+**Market Cap:** $259.99B
 Rank #2
 
-**Circulating Supply:** 120,691,549 ETH
+**Circulating Supply:** 120,691,533 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.3%
+-56.4%
 
 **All-Time Low:** $0.43
-+499612.5%
++497406.8%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+21h ago
 
 ---
 
 **[Sent ETH to Abstract Global Wallet on wrong network — any chance of recovery?](https://www.reddit.com/r/ethereum/comments/1s3mdo6/sent_eth_to_abstract_global_wallet_on_wrong/)**
 
-3h ago
+5h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve been trying to understand where tokenized real-world assets (RWA) actually fit. On paper, it sounds useful. You can take things like gold, real estate, or commodities and put them on blockchain. That should make them easier to trade, more accessible, and available 24/7. No banks, fewer middlemen. But I keep wondering how much of this is real improvement vs just packaging old assets in a new way. If I already have ETFs or REITs, do I really gain anything from tokenization? Or is it just more risk added through crypto infrastructure? I recently found Steamex.com, a platform which is focused on tokenized gold. The idea is simple: you buy digital tokens backed by real gold instead of holding physical metal. It sounds convenient, but it also depends a lot on trust in the company and how the backing actually works. Another question is liquidity. Projects say assets are tradable anytime, but that only works if there are enough buyers and sellers. Curious what others think. Is this actually the future of finance, or are we still early and overestimating the impact?
 
-13h ago
+16h ago
 
 ---
 
@@ -94,7 +94,7 @@ I’ve been trying to understand where tokenized real-world assets (RWA) actuall
 
 V4 passed near-unanimously with their main shift from being a monolithic pool to modular vaults. Like Morpho's isolation but with Aave's liquidity depth. sUSDe and RWA yields get cleaner APY profiles because risk vectors aren't correlated anymore. This is DeFi infrastructure graduating from 'move fast break things' to 'TradFi complexity with better costs and could be a comeback for Aave against other lending market if implemented properly
 
-21h ago
+1d ago
 
 ---
 
@@ -102,7 +102,15 @@ V4 passed near-unanimously with their main shift from being a monolithic pool to
 
 I've always wanted to know more about the world of the unsung heroes in blockchain. Those, being the validators and miners. How do validators of various blockchains communicate? Is there a place where I can peek into their world, (if any exist) where I can submerge myself in how they think, what they find valuable, and generally ask a tonne of questions? I understand the answer will vary from ecosystem to ecosystem. But yes, please assist. Where can I find validator groups and communication channels, any common I can communicate with them. Thanks,
 
-23h ago
+1d ago
+
+---
+
+**[Does Ethereum staking still make sense for smaller holders ?](https://www.reddit.com/r/ethereum/comments/1s2sh3n/does_ethereum_staking_still_make_sense_for/)**
+
+Been holding ETH for a while and thinking about staking. With 32 ETH still being the solo requirement, I'm looking at options like Rocket Pool or Lido, but I keep going back and forth. Running a node seems cool but hardware + 4 ETH + RPL feels like a lot to manage. Liquid staking is easier but then you're holding a derivative token and trusting the protocol. For people staking right now , what path did you take and how's it been? Is the hassle worth the yield or do you just stick to holding?
+
+1d ago
 
 ---
 
@@ -116,21 +124,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[A new type of block explorer](https://www.reddit.com/r/ethereum/comments/1s2xqy2/a_new_type_of_block_explorer/)**
 
-21h ago
+1d ago
 
 ---
 
 **[Ethereum rollups deployment platforms in 2026](https://www.reddit.com/r/ethereum/comments/1s2fkp7/ethereum_rollups_deployment_platforms_in_2026/)**
 
 Trying to get a realistic picture of where rollup deployment is right now, not the hype version. I've been reading through documentation for most of the major platforms and the gap between what they promise and what teams actually experience seems pretty significant based on forum posts and Discord convos. Specifically curious about a few things. How much does your framework choice actually constrain you after deployment? If you start on OP Stack and realize Arbitrum Orbit would've been better for your use case, how painful is that migration realistically? Also the maintenance burden question. Every platform promises "one-click deployment" but what does post-launch actually look like for the infra team? Are you constantly babysitting the thing or does it run without much intervention? Asking because I keep seeing projects underestimate this and then burn significant engineering time on infra that should be going to product. What's been everyone's experience?
-
-1d ago
-
----
-
-**[Does Ethereum staking still make sense for smaller holders ?](https://www.reddit.com/r/ethereum/comments/1s2sh3n/does_ethereum_staking_still_make_sense_for/)**
-
-Been holding ETH for a while and thinking about staking. With 32 ETH still being the solo requirement, I'm looking at options like Rocket Pool or Lido, but I keep going back and forth. Running a node seems cool but hardware + 4 ETH + RPL feels like a lot to manage. Liquid staking is easier but then you're holding a derivative token and trusting the protocol. For people staking right now , what path did you take and how's it been? Is the hassle worth the yield or do you just stick to holding?
 
 1d ago
 
@@ -154,11 +154,11 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum ‘Mini Crypto Winter’ Nears End as Bitmine Adds 65,341 ETH, Tom Lee Says](https://finance.yahoo.com/markets/crypto/articles/ethereum-mini-crypto-winter-nears-100552914.html)**
+**[Largest Ethereum holder launches ‘Made in America’ staking platform](https://finance.yahoo.com/markets/crypto/articles/largest-ethereum-holder-launches-made-233000586.html)**
 
-Bitmine just bought the Ethereum dip. Good enough. 65,341 ETH acquired since March 16. Around $140 million at current prices. Total crypto and cash holdings now sit at $11 billion, making Bitmine the largest Ethereum treasury holder on the planet.ETH is trading near $2,150, down more than 30% from its ...
+Bitmine holds over 4.6 million ETH, valued at $10 billion.MAVAN aims to become the largest Ethereum staking platform globallyStaking strategy could generate $300M annual rewards Tom Lee's Bitmine Immersion Technologies (NYSE: BMNR) is making a bold move to cement its position in the ...
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -170,17 +170,17 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Rise. How the Iran War Has Made Crypto Calls Tougher.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqdkpAEM56Tm1EflFAaBlUya-kFZgDOD10Fd1tCauuXtcY4BaSVagC-x&gaa_ts=69c474ed&gaa_sig=80CvHvUS2C_Zm8rmJpuPGiXUeoxajgvocM9tQXnyBENlYXKL8C11z0xv0Ai1DsJrLLsEDU59lzCLYwpRnyGS5g%3D%3D)**
+**[Tom Lee's Bitmine debuts MAVAN Ethereum staking platform, plans to shift its ETH activity](https://www.theblock.co/post/395080/tom-lees-bitmine-debuts-mavan-ethereum-staking-platform-plans-to-shift-its-eth-activity)**
 
-Barron's • 1d ago
+Bitmine officially launched the MAVAN Ethereum staking platform, targeting roughly $300 million in annual rewards.
+
+The Block • 12h ago
 
 ---
 
-**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1774472100)**
+**[Bitcoin, Ethereum, XRP Rise. How the Iran War Has Made Crypto Calls Tougher.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqe74ik-fexLnbue8_qX76zLqZBQbv6fckbztQC8Vk0FXN4aUIdSOkZR&gaa_ts=69c49d6a&gaa_sig=ViNTPinnbmGn0-xj8kRJhEvg3lWkPIotQZkocCfe54o15Z4eIpWFQ4RyzuNCSX9vBBb6rqEckg8L2v2Avg57hw%3D%3D)**
 
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 8h ago
+Barron's • 1d ago
 
 ---
 
@@ -188,7 +188,7 @@ Polymarket • 8h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 9h ago
+Fortune • 12h ago
 
 ---
 
@@ -196,7 +196,15 @@ Fortune • 9h ago
 
 Ethereum is a blockchain powerhouse, but it can't compete with Solana on speed or cost.
 
-The Motley Fool • 12h ago
+The Motley Fool • 15h ago
+
+---
+
+**[$164B stablecoin pool vs. Ethereum staking: Decoding CLARITY Act impact](https://ambcrypto.com/164b-stablecoin-pool-vs-ethereum-staking-decoding-clarity-act-impact/)**
+
+Ethereum bulls see opportunity despite Circle’s recent 20% drop. Their logic: Lower stablecoin yields could drive more activity into staking.
+
+AMBCrypto • 3h ago
 
 ---
 
@@ -204,7 +212,7 @@ The Motley Fool • 12h ago
 
 Soter advances digital asset risk management through a novel ETH-denominated slashing product, providing stakers with native-asset indemnity and eliminating FX gaps in legacy insurance policies.- Soter Insure, a provider of institutional-grade insurance for the digital asset economy, today announc...
 
-Investing News Network • 7h ago
+Investing News Network • 10h ago
 
 ---
 
@@ -212,15 +220,7 @@ Investing News Network • 7h ago
 
 Ethereum price started a recovery wave above the $2,065 zone. ETH is now consolidating above $2,120 and might aim for more gains if it clears the $2,200 resistance.Ethereum Price Eyes Steady GainsEthereum price managed to stay above $2,020 and started a recovery wave, like Bitcoin. ETH price was ab…
 
-TradingView • 20h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP send mixed cues, leaning slightly bearish](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-send-mixed-cues-leaning-slightly-bearish-202603250333)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are showing mixed signals on Wednesday as market momentum shows signs of fatigue. BTC holds its recent recovery, now nearing its key resistance, while ETH struggles below a critical level, and XRP’s momentum indicators tilt slightly bearish.
-
-FXStreet • 20h ago
+TradingView • 23h ago
 
 ---
 
@@ -234,7 +234,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free https://go.ted
 
 📺 MONEY GAME
 
-👁️ 938 • 👍 87 • 💬 3 • ⏱️ 12:42 • 4h ago
+👁️ 3K • 👍 173 • 💬 8 • ⏱️ 12:42 • 7h ago
 
 ---
 
@@ -244,37 +244,27 @@ You're not going to want to miss this INCREDIBLE Ether, technical analysis and i
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 230 • 💬 57 • ⏱️ 18:00 • 1d ago
+👁️ 5K • 👍 236 • 💬 51 • ⏱️ 18:00 • 1d ago
 
 ---
 
-**[BIG PROBLEM Altcoin Season is CANCELED BlackRock Larry Fink “Bitcoin and Ethereum” ONLY!](https://www.youtube.com/watch?v=6IvpHf6I6Fk)**
+**[BITCOIN &amp; CRYPTO: Another Squeeze Starts Soon!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=YafCiuuABr4)**
 
-BIG PROBLEM Altcoin Season is CANCELED BlackRock Larry Fink “Bitcoin and Ethereum” ONLY! SUMM (partner) ...
+BITCOIN & CRYPTO: Another Squeeze Starts Soon!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 CryptoWendyO
+📺 Crypto World
 
-👁️ 4K • 👍 320 • 💬 33 • ⏱️ 26:18 • 5h ago
-
----
-
-**[The CRAZIEST Crypto News You Will Ever Hear Bitcoin &amp; Ethereum Are Setting Up For A MAJOR Price Move](https://www.youtube.com/watch?v=rUKbNx7-zNE)**
-
-The crypto market is heating up, things look like they could become a lot more serious in the coming days as companies and ...
-
-📺 The Modern Investor
-
-👁️ 6K • 👍 740 • 💬 146 • ⏱️ 25:01 • 13h ago
+👁️ 2K • 👍 169 • 💬 212 • ⏱️ 16:33 • 3h ago
 
 ---
 
-**[🚨 BTC &amp; ETH: YOU CANT MISS THIS!!! HUGE OPPORTUNITY NOW!!!!!](https://www.youtube.com/watch?v=A6k1U0SFu-g)**
+**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=fKZy_OezIXs)**
 
-This video is not for everyone. If your income is below $10000/month — close it. I've been in business for 15 years, and my capital ...
+ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
 
-📺 Thomas Kralow
+📺 KhamitHEthics
 
-👁️ 13K • 👍 2K • 💬 61 • ⏱️ 6:06 • 1d ago
+👁️ 5K • 👍 55 • ⏱️ 18:01 • 1h ago
 
 ---
 
@@ -284,7 +274,27 @@ BMNR is quietly building one of the largest Ethereum treasuries in the world now
 
 📺 The Value Thinker
 
-👁️ 8K • 👍 575 • 💬 116 • ⏱️ 24:16 • 23h ago
+👁️ 9K • 👍 601 • 💬 112 • ⏱️ 24:16 • 1d ago
+
+---
+
+**[BIG PROBLEM Altcoin Season is CANCELED BlackRock Larry Fink “Bitcoin and Ethereum” ONLY!](https://www.youtube.com/watch?v=6IvpHf6I6Fk)**
+
+BIG PROBLEM Altcoin Season is CANCELED BlackRock Larry Fink “Bitcoin and Ethereum” ONLY! SUMM (partner) ...
+
+📺 CryptoWendyO
+
+👁️ 6K • 👍 396 • 💬 35 • ⏱️ 26:18 • 8h ago
+
+---
+
+**[The CRAZIEST Crypto News You Will Ever Hear Bitcoin &amp; Ethereum Are Setting Up For A MAJOR Price Move](https://www.youtube.com/watch?v=rUKbNx7-zNE)**
+
+The crypto market is heating up, things look like they could become a lot more serious in the coming days as companies and ...
+
+📺 The Modern Investor
+
+👁️ 7K • 👍 776 • 💬 161 • ⏱️ 25:01 • 16h ago
 
 ---
 
@@ -294,27 +304,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 130 • 💬 4 • ⏱️ 3:56 • 12h ago
+👁️ 2K • 👍 135 • 💬 4 • ⏱️ 3:56 • 14h ago
 
 ---
 
-**[🚨 BTC &amp; ETH: TERRIBLE NEWS!!!](https://www.youtube.com/watch?v=OWhm79nmI4c)**
+**[🚨 BTC &amp; ETH: YOU CANT MISS THIS!!! HUGE OPPORTUNITY NOW!!!!!](https://www.youtube.com/watch?v=A6k1U0SFu-g)**
 
-The situation just got 10 times worse for bitcoin, ethereum and the rest of crypto! Markets are about to tank! Here is why and how to ...
+This video is not for everyone. If your income is below $10000/month — close it. I've been in business for 15 years, and my capital ...
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 2K • 💬 38 • ⏱️ 11:52 • 2d ago
-
----
-
-**[ETHEREUM ABOUT TO PUMP?🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=4XAbSfbBHDA)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 198 • 👍 5 • ⏱️ 4:35 • 13h ago
+👁️ 14K • 👍 2K • 💬 60 • ⏱️ 6:06 • 1d ago
 
 ---
 
@@ -324,7 +324,7 @@ Free Ethereum in 2026 — myth or real opportunity? In this video, I run a real 
 
 📺 Leo Collins
 
-👁️ 8K • 👍 483 • 💬 491 • ⏱️ 4:16 • 1d ago
+👁️ 8K • 👍 482 • 💬 491 • ⏱️ 4:16 • 1d ago
 
 ---
 
