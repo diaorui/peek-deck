@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-26T19:55:23.225574+00:00'
+updated: '2026-03-26T20:37:41.614015+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
+- videos
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 26, 2026 at 19:55 UTC  
+**Last Updated:** March 26, 2026 at 20:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1363.46B
+**Market Cap:** $1383.85B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--45.9%
+-45.1%
 
 **All-Time Low:** $67.81
-+100534.1%
++101883.5%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 The government-sponsored mortgage giant will accept Bitcoin and USDC as collateral through a new program with Better Home and Coinbase.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/coinbase-fannie-mae-enable-crypto-120846995.html) • 6h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/coinbase-fannie-mae-enable-crypto-120846995.html) • 7h ago
 
 ---
 
 **[My favourite video 😅](https://www.reddit.com/r/Bitcoin/comments/1s3usw5/my_favourite_video/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -95,7 +95,7 @@ The government-sponsored mortgage giant will accept Bitcoin and USDC as collater
 
 The other day we posted about how our current monetary system prices out many from home ownership, and how bitcoin is part of the solution and that is becoming more true every day. Starting today, homebuyers can pledge Bitcoin as downpayment collateral through a new Coinbase + Better Home & Finance program backed by Fannie Mae, which underwrites roughly half of all U.S. mortgages. Here are the key elements: --Homebuyers don't sell their bitcoin so there's no taxable event --No margin calls, so if Bitcoin drops 30%, the mortgage terms don't change
 
-4h ago
+5h ago
 
 ---
 
@@ -103,7 +103,7 @@ The other day we posted about how our current monetary system prices out many fr
 
 It was baddd. It was about bitcoins scarcity and how the fed prints and prints and never stops. Even the professor was laughing. So embarrassing, luckily it was only in front of some of the class, not the whole class.
 
-1h ago
+2h ago
 
 ---
 
@@ -127,7 +127,7 @@ been thinking about this for few days now and decided to take break from all bit
 
 Company warns entire industry to move off RSA and EC more quickly.
 
-🔗 [Ars Technica](https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/) • 6h ago
+🔗 [Ars Technica](https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/) • 7h ago
 
 ---
 
@@ -135,19 +135,19 @@ Company warns entire industry to move off RSA and EC more quickly.
 
 Hey all — I’m buying an apartment in Portugal and weighing two options: Option 1: Sell ~1 BTC for the down payment Option 2: Borrow €80k against 2.2 BTC at ~1.24% APY (Morpho) On paper, borrowing feels like the obvious choice — low interest, keep exposure to BTC. That said, I’ve never used BTC as collateral before, so I want to sanity check the risks. Current LTV would be ~60% Liquidation threshold is higher (so some buffer, but not huge) Main concern: downside volatility in BTC (e.g. another leg down) I’m long-term bullish, but I don’t want to get wiped out by short-term moves or forced liquidation. For those who’ve done this before: How do you think about “safe” LTV levels? At what point does this become reckless vs. smart leverage? Any rules of thumb (e.g. target LTV, when to top up, etc.)? Appreciate any real-world experience — especially from people who’ve actually gone through a drawdown while leveraged. https://preview.redd.it/8pd84k1ukdrg1.png?width=754&format=png&auto=webp&s=e0c7c5f46a775ee75f273af5131d393447f4bc2a
 
-8h ago
+9h ago
 
 ---
 
 **[Be careful out there, Morgan Stanley wants your bitcoin](https://www.reddit.com/r/Bitcoin/comments/1s3pa4v/be_careful_out_there_morgan_stanley_wants_your/)**
 
-21h ago
+22h ago
 
 ---
 
 **[TD Bankers Are Now Wearing Bitcoin Ties...](https://www.reddit.com/r/Bitcoin/comments/1s4fpaz/td_bankers_are_now_wearing_bitcoin_ties/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -181,13 +181,13 @@ Yahoo Finance • 2d ago
 
 Bhutan moves another 500 bitcoin to exchanges as 2026 outflows top $150 million
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
 **[Bitcoin Faces $14 Billion Options Expiry While Middle East Turmoil Mounts](https://www.bloomberg.com/news/articles/2026-03-26/bitcoin-faces-14-billion-options-expiry-while-middle-east-turmoil-mounts)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -195,7 +195,7 @@ Bloomberg.com • 2h ago
 
 Michael Saylor, Strategy co-founder, joins 'Power Lunch' to discuss the company's new product launch, the stated dividend and much more.
 
-CNBC • 50m ago
+CNBC • 1h ago
 
 ---
 
@@ -203,7 +203,7 @@ CNBC • 50m ago
 
 Goldman Sachs believes bitcoin and crypto prices may have hit their floor after months of declines.
 
-Bitcoin Magazine • 1h ago
+Bitcoin Magazine • 2h ago
 
 ---
 
@@ -219,7 +219,7 @@ CNBC • 1d ago
 
 Bitcoin's support level is vulnerable as Trump's five-day pause of strikes on Iran's energy infrastructure is set to expire, analysts said.
 
-Decrypt • 8h ago
+Decrypt • 9h ago
 
 ---
 
@@ -279,87 +279,7 @@ Bitcoin #Crypto #Finance Bitcoin is pulling back as negotiations around the Clar
 
 📺 The Wolf Of All Streets
 
-👁️ 6K • 👍 367 • 💬 138 • ⏱️ 28:58 • 6h ago
-
----
-
-**[The $10 Trillion &quot;Trojan Horse&quot;: Morgan Stanley’s Bitcoin Plan](https://www.youtube.com/watch?v=N_neCIi4zFA)**
-
-The links below may include affiliate links, which means I may receive a commission at no cost to you if you make a purchase ...
-
-📺 Digital Asset News
-
-👁️ 7K • 👍 534 • 💬 37 • ⏱️ 24:59 • 1d ago
-
----
-
-**[Bitcoin - A Realistic Prediction by End of Year 🎯](https://www.youtube.com/watch?v=6h5l5GNbHXo)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Follow Brandon: https://x.com/BranBTC Buy, ...
-
-📺 Altcoin Daily
-
-👁️ 12K • 👍 322 • 💬 50 • ⏱️ 1:06 • 22h ago
-
----
-
-**[Bitcoin: Preparing for the Next Leg Down](https://www.youtube.com/watch?v=yBJDk4a0e24)**
-
-In this video, we take a data-driven look at Bitcoin as it shows signs of preparing for another leg lower. Rather than relying on ...
-
-📺 Benjamin Cowen
-
-👁️ 106K • 👍 7K • 💬 433 • ⏱️ 17:16 • 1d ago
-
----
-
-**[Bitcoin Bear Market ALMOST OVER: Bottom Level REVEALED](https://www.youtube.com/watch?v=8QEvQ0zsIZI)**
-
-The bear market has been brutal, but the data is screaming that the end is near. In today's video, we are diving deep into the ...
-
-📺 Discover Crypto
-
-👁️ 4K • 👍 287 • 💬 46 • ⏱️ 1:11:42 • 4h ago
-
----
-
-**[They&#39;re HIDING $47 TRILLION in Debt (Bitcoin Already Knows)](https://www.youtube.com/watch?v=5I-5UjZ4lqk)**
-
-The U.S. just revealed a $47 trillion liability problem and almost nobody is talking about it. Add rising interest costs, war tensions, ...
-
-📺 Simply Bitcoin
-
-👁️ 23K • 👍 2K • 💬 123 • ⏱️ 20:42 • 20h ago
-
----
-
-**[🚨You Can Now Buy A House with Crypto](https://www.youtube.com/watch?v=deKYxJfwVs0)**
-
-Fannie Mae announced they are accepting Bitcoin and USDC as downpayment for homes through a partnership with Coinbase ...
-
-📺 Cyber Scrilla
-
-👁️ 1K • 👍 110 • 💬 16 • ⏱️ 1:07 • 4h ago
-
----
-
-**[Bitcoin Warning: This Has The Potential To End BTC](https://www.youtube.com/watch?v=Tq4LGDGr3FY)**
-
-18-YEAR CYCLE MINI-COURSE, WEEKLY REPORTS, GET ACCESS HERE* → https://tiainvestor.com/subscribe/ *TIA PRO ...
-
-📺 Jason Pizzino
-
-👁️ 16K • 👍 1K • 💬 465 • ⏱️ 28:23 • 14h ago
-
----
-
-**[$867B GIANT Sends A HUGE Bitcoin WARNING (YOU HAVE 9 MONTHS) | EP 1468](https://www.youtube.com/watch?v=iE87IDjTwK4)**
-
-NEW REPORTS HOT OFF THE PRESS TAKING A CONTRARIAN VIEW OF WHERE BITCOIN CURRENTLY SITS IN PRICE ...
-
-📺 Simply Bitcoin
-
-👁️ 7K • 👍 356 • 💬 73 • ⏱️ 1:25:26 • 1d ago
+👁️ 8K • 👍 405 • 💬 142 • ⏱️ 28:58 • 6h ago
 
 ---
 
@@ -369,7 +289,87 @@ Coinbase and Fannie Mae just partnered up to do NO MARGIN CALL LOANS for Bitcoin
 
 📺 Digital Asset News
 
-👁️ 928 • 👍 109 • 💬 1 • ⏱️ 18:26 • 1h ago
+👁️ 3K • 👍 383 • 💬 29 • ⏱️ 18:26 • 2h ago
+
+---
+
+**[Bitcoin - A Realistic Prediction by End of Year 🎯](https://www.youtube.com/watch?v=6h5l5GNbHXo)**
+
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Follow Brandon: https://x.com/BranBTC Buy, ...
+
+📺 Altcoin Daily
+
+👁️ 12K • 👍 326 • 💬 52 • ⏱️ 1:06 • 23h ago
+
+---
+
+**[They&#39;re HIDING $47 TRILLION in Debt (Bitcoin Already Knows)](https://www.youtube.com/watch?v=5I-5UjZ4lqk)**
+
+The U.S. just revealed a $47 trillion liability problem and almost nobody is talking about it. Add rising interest costs, war tensions, ...
+
+📺 Simply Bitcoin
+
+👁️ 24K • 👍 2K • 💬 125 • ⏱️ 20:42 • 20h ago
+
+---
+
+**[🚨You Can Now Buy A House with Crypto](https://www.youtube.com/watch?v=deKYxJfwVs0)**
+
+Fannie Mae announced they are accepting Bitcoin and USDC as downpayment for homes through a partnership with Coinbase ...
+
+📺 Cyber Scrilla
+
+👁️ 2K • 👍 181 • 💬 21 • ⏱️ 1:07 • 4h ago
+
+---
+
+**[Bitcoin: Preparing for the Next Leg Down](https://www.youtube.com/watch?v=yBJDk4a0e24)**
+
+In this video, we take a data-driven look at Bitcoin as it shows signs of preparing for another leg lower. Rather than relying on ...
+
+📺 Benjamin Cowen
+
+👁️ 108K • 👍 7K • 💬 435 • ⏱️ 17:16 • 1d ago
+
+---
+
+**[Bitcoin Warning: This Has The Potential To End BTC](https://www.youtube.com/watch?v=Tq4LGDGr3FY)**
+
+18-YEAR CYCLE MINI-COURSE, WEEKLY REPORTS, GET ACCESS HERE* → https://tiainvestor.com/subscribe/ *TIA PRO ...
+
+📺 Jason Pizzino
+
+👁️ 17K • 👍 1K • 💬 476 • ⏱️ 28:23 • 14h ago
+
+---
+
+**[The Problem Is That This Is When Bitcoin Has Always Topped (Chart shown: BTC/USD)](https://www.youtube.com/watch?v=xkluh3EwOmk)**
+
+Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse Newsletter: ...
+
+📺 Benjamin Cowen
+
+👁️ 3K • 👍 145 • 💬 3 • ⏱️ 0:46 • 3h ago
+
+---
+
+**[Bitcoin Drops as War Escalates — What’s Next?](https://www.youtube.com/watch?v=yfDd9mHh6bI)**
+
+Smarter calls start with better data - Ask Clash ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly ...
+
+📺 CryptosRUs
+
+👁️ 14K • 👍 790 • 💬 77 • ⏱️ 48:00 • 5h ago
+
+---
+
+**[Bitcoin Is a Brilliant Scam and I Can Prove It (Again)](https://www.youtube.com/watch?v=dPoDyl9Ys38)**
+
+Everyone thinks they understand Bitcoin... but they don't. Because if Bitcoin is the future of money, why does it fail the most basic ...
+
+📺 Casual Finance
+
+👁️ 81K • 👍 5K • 💬 2K • ⏱️ 9:55 • 2d ago
 
 ---
 

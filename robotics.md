@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-26T19:55:23.234630+00:00'
+updated: '2026-03-26T20:37:41.623097+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 26, 2026 at 19:55 UTC  
+**Last Updated:** March 26, 2026 at 20:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Yeah, front flips. I know, I've seen a lot of "who cares," "useless flex," "why don't you do something useful," "seen it a hundred times." Fair. But when it actually works on a real robot, you still feel it. Still a lot to fix, but this was a good day :D
 
-5h ago
+6h ago
 
 ---
 
 **[This Is How You Beat the Biggest Big Wheeled Bot](https://www.reddit.com/r/robotics/comments/1s4demt/this_is_how_you_beat_the_biggest_big_wheeled_bot/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -64,13 +64,13 @@ From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/20347089382690366
 
 I'm a highschooler and I've been learning Arduino for a few months now and I really enjoy doing both coding and hardware. I was wondering what field would be the best for me. If these facts help- I do like cars and I would like to make stuff that actually moves around and I'd like to make animatronics (especially ones that can sing, move and respond like the ones in five nights at Freddy's lol) and I do like art and music (idk if that helps but just listed that down)
 
-2h ago
+3h ago
 
 ---
 
 **[Gotta Start Somewhere! ALMA.GeoffreyAment](https://www.reddit.com/r/robotics/comments/1s4hpay/gotta_start_somewhere_almageoffreyament/)**
 
-11m ago
+53m ago
 
 ---
 
@@ -78,7 +78,7 @@ I'm a highschooler and I've been learning Arduino for a few months now and I rea
 
 Hi everyone! I just open-sourced a small project called CasMuMPC: https://github.com/ChenDavidTimothy/casmu-mpc It uses CasADi for the MPC side and MuJoCo for the plant simulation side, with the boundary between the two kept explicit. This is not meant to be a full MPC framework. The idea is much simpler: a readable reference repo for building and testing MPC controllers against an external physics engine, especially in cases where the controller model and the simulated plant should stay clearly separated. I’m keeping the focus on mathematical clarity, straightforward implementation, and transparent controller-plant interfacing. I plan to keep expanding the examples over time, including more advanced use cases. Contributions are welcome, and the repo is MIT licensed. Hope it is useful to you!
 
-38m ago
+1h ago
 
 ---
 
@@ -86,7 +86,7 @@ Hi everyone! I just open-sourced a small project called CasMuMPC: https://github
 
 I recently started working with the TurtleBot3 simulation in Gazebo using ROS2. So far, I’ve: - Cloned and launched the TB3 simulation - Explored basic movement and sensor data (LiDAR) - Started looking into the code/configs for SLAM and Nav2 While going through the stack, I realized things get complex pretty quickly — especially understanding how SLAM, localization, and navigation all connect. Right now, I’m a bit confused about where to focus. For example: - In SLAM, should I focus more on the algorithm concepts (like mapping/localization) or on the ROS2 implementation (packages like slam_toolbox)? - In Nav2, there are many components (costmaps, planners, controllers) — what’s the most important part to understand first? - Is it better to treat Nav2 as a “black box” initially and then break it down, or understand each module deeply from the start? My goal is to eventually build and control my own robot (starting in simulation). Would really appreciate advice on: 👉 What concepts/components I should prioritize 👉 A good learning path for SLAM + Nav2 in ROS2 Thanks!
 
-14h ago
+15h ago
 
 ---
 
@@ -112,7 +112,7 @@ AI-driven robotic hand with 21+ DoF and sub-millimeter precision, capable of del
 
 The White House hosted its first humanoid robot guest, with first lady Melania Trump appearing alongside a robot from startup Figure AI.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -126,7 +126,7 @@ CNN • 1d ago
 
 **[Melania Trump Appears With a Robot, Saying More Children Should Be Educated by Them](https://www.nytimes.com/2026/03/25/us/politics/melania-trump-robot.html)**
 
-The New York Times • 22h ago
+The New York Times • 23h ago
 
 ---
 
@@ -142,7 +142,7 @@ AP News • 1d ago
 
 Agile Robots said the partnership will focus on high-value industrial use cases in sectors with acute and growing demand for automation.
 
-The Robot Report • 2h ago
+The Robot Report • 3h ago
 
 ---
 
@@ -150,7 +150,7 @@ The Robot Report • 2h ago
 
 “This is a hazard to people’s safety.”
 
-New York Post • 20h ago
+New York Post • 21h ago
 
 ---
 
@@ -158,7 +158,7 @@ New York Post • 20h ago
 
 It's been a bad week for burritos on wheels.
 
-Popular Science • 1h ago
+Popular Science • 2h ago
 
 ---
 
@@ -166,7 +166,7 @@ Popular Science • 1h ago
 
 Two recent incidents of food delivery robots smashing into CTA bus shelters days apart happened as Chicagoans continue to debate whether the robots are a public benefit or a nuisance.
 
-ABC7 Chicago • 21h ago
+ABC7 Chicago • 22h ago
 
 ---
 
@@ -174,7 +174,7 @@ ABC7 Chicago • 21h ago
 
 A new system increases throughput in automated warehouses by adaptively determining which robots should go first to avoid congestion and collisions. The work was led by researchers from MIT and Symbotic.
 
-MIT News • 15h ago
+MIT News • 16h ago
 
 ---
 
@@ -196,7 +196,7 @@ Humanoid robots have been making appearances through social media, tv segments, 
 
 📺 NBC News
 
-👁️ 62K • 👍 447 • 💬 297 • ⏱️ 3:05 • 17h ago
+👁️ 65K • 👍 453 • 💬 307 • ⏱️ 3:05 • 17h ago
 
 ---
 
@@ -206,27 +206,7 @@ This week in robotics got kind of ridiculous. South Korea showed off a humanoid 
 
 📺 AI Revolution
 
-👁️ 196K • 👍 2K • 💬 135 • ⏱️ 14:31 • 3d ago
-
----
-
-**[Racing to Find the Best Robots at Nvidia GTC](https://www.youtube.com/watch?v=mFr7XfTY5bY)**
-
-The robots at Nvidia GTC were showcasing strength, dexterity and the ability to work together on the same task. You can find the ...
-
-📺 CNET
-
-👁️ 16K • 👍 463 • 💬 29 • ⏱️ 5:50 • 4d ago
-
----
-
-**[Meet “Roadrunner&quot;: a bipedal, wheeled robot for multi-modal locomotion](https://www.youtube.com/watch?v=9kae-UAME1U)**
-
-"Roadrunner” is a new bipedal wheeled robot prototype designed for multi-modal locomotion. It weighs around 15kg (33 lb.)
-
-📺 RAI Institute
-
-👁️ 360K • 👍 9K • 💬 1K • ⏱️ 1:34 • 3d ago
+👁️ 198K • 👍 2K • 💬 135 • ⏱️ 14:31 • 3d ago
 
 ---
 
@@ -236,27 +216,27 @@ A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White H
 
 📺 C-SPAN
 
-👁️ 117K • 👍 590 • 💬 960 • ⏱️ 2:59 • 1d ago
+👁️ 127K • 👍 617 • 💬 997 • ⏱️ 2:59 • 1d ago
 
 ---
 
-**[WATCH: Melania Trump Makes a Triumphant Entrance and Suggests Humanoid Robots for Teaching - 3/25/26](https://www.youtube.com/watch?v=ImYeN2fcUJw)**
+**[Meet “Roadrunner&quot;: a bipedal, wheeled robot for multi-modal locomotion](https://www.youtube.com/watch?v=9kae-UAME1U)**
 
-Melania Trump Makes a Triumphant Entrance and Suggests Humanoid Robots for Education. March 25, 2026 Join this channel to ...
+"Roadrunner” is a new bipedal wheeled robot prototype designed for multi-modal locomotion. It weighs around 15kg (33 lb.)
 
-📺 Right Side Broadcasting Network
+📺 RAI Institute
 
-👁️ 34K • 👍 2K • 💬 915 • ⏱️ 10:02 • 1d ago
+👁️ 373K • 👍 10K • 💬 1K • ⏱️ 1:34 • 3d ago
 
 ---
 
-**[China in Tears! Superpower Falls as TSMC CEO Exposes China’s Robot Lies—95% of Brain Made by TSMC](https://www.youtube.com/watch?v=mCUayp_OjTs)**
+**[Every Robot I Met at Nvidia GTC in Under 6 Minutes (Speedrun)](https://www.youtube.com/watch?v=mFr7XfTY5bY)**
 
-On March 8, at the "Tomorrow's Walker" exhibit in Shanghai Science and Technology Museum, a robot performing unexpectedly ...
+The robots at Nvidia GTC were showcasing strength, dexterity and the ability to work together on the same task. You can find the ...
 
-📺 China Observer
+📺 CNET
 
-👁️ 48K • 👍 2K • 💬 323 • ⏱️ 15:22 • 22h ago
+👁️ 17K • 👍 464 • 💬 29 • ⏱️ 5:50 • 4d ago
 
 ---
 
@@ -270,13 +250,33 @@ A wave of attention is building around a new concept from Apple that suggests th
 
 ---
 
+**[WATCH: Melania Trump Makes a Triumphant Entrance and Suggests Humanoid Robots for Teaching - 3/25/26](https://www.youtube.com/watch?v=ImYeN2fcUJw)**
+
+Melania Trump Makes a Triumphant Entrance and Suggests Humanoid Robots for Education. March 25, 2026 Join this channel to ...
+
+📺 Right Side Broadcasting Network
+
+👁️ 35K • 👍 2K • 💬 936 • ⏱️ 10:02 • 1d ago
+
+---
+
+**[China in Tears! Superpower Falls as TSMC CEO Exposes China’s Robot Lies—95% of Brain Made by TSMC](https://www.youtube.com/watch?v=mCUayp_OjTs)**
+
+On March 8, at the "Tomorrow's Walker" exhibit in Shanghai Science and Technology Museum, a robot performing unexpectedly ...
+
+📺 China Observer
+
+👁️ 50K • 👍 2K • 💬 336 • ⏱️ 15:22 • 23h ago
+
+---
+
 **[NVIDIA Just Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=eIAF4CbbUWI)**
 
 Thanks to Delete Me for sponsoring this video. To keep your private info private check out https://www.JoinDeleteMe.com/Kimjava ...
 
 📺 Kim Java
 
-👁️ 86K • 👍 4K • 💬 217 • ⏱️ 20:00 • 2d ago
+👁️ 88K • 👍 4K • 💬 228 • ⏱️ 20:00 • 2d ago
 
 ---
 
@@ -286,7 +286,7 @@ Live coverage of speeches, rallies, and events across America with raw, unfilter
 
 📺 MAGNO NEWS
 
-👁️ 30K • 👍 974 • 💬 301 • ⏱️ 2:33 • 1d ago
+👁️ 30K • 👍 1K • 💬 314 • ⏱️ 2:33 • 1d ago
 
 ---
 

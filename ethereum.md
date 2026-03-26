@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-26T19:55:23.231473+00:00'
+updated: '2026-03-26T20:37:41.619930+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - news
+- videos
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 26, 2026 at 19:55 UTC  
+**Last Updated:** March 26, 2026 at 20:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $245.82B
+**Market Cap:** $249.76B
 Rank #2
 
 **Circulating Supply:** 120,691,533 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.8%
+-58.2%
 
 **All-Time Low:** $0.43
-+470895.1%
++477731.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Accept crypto payments in seconds, across Bitcoin, stablecoins, and more with Bitcoin.com Checkout.
 
-🔗 [Bitcoin.com Checkout](https://checkout.bitcoin.com/) • 8h ago
+🔗 [Bitcoin.com Checkout](https://checkout.bitcoin.com/) • 9h ago
 
 ---
 
@@ -104,7 +104,7 @@ Been building an x402 gate way for my local business site builder. I want to exp
 
 I am newbie in crypto trading. And I learned that ETH tokens pose a huge risk even if token seems to be authentic. Tried to swap my eth funds for Tether Gold XAUT, but got zero balanced fake tokens. Lesson learned as I checked later for second time to find out Tether Gold legit contract. Contract was fake and did not match with the legit one. I will never trust any tokens but it is very sad that those tokens were listed at coinbase web wallet to swap. Should not be. Thus I paid for that lesson ca €10 I think that these risks are discrediting ethereum as safe network. Because if user has no other option than believing that contract is genuine then any fake blockchain checking site may serve it as legit. Fortunally I transfered fake tokens to my cold wallet, so I just created new ethereum account in it to change address as previous is now a little compromised as scammers can scan and track my ethereum account balance. Will leave compromised as it is and will not touch it anymore.
 
-4h ago
+5h ago
 
 ---
 
@@ -118,7 +118,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Sent ETH to Abstract Global Wallet on wrong network — any chance of recovery?](https://www.reddit.com/r/ethereum/comments/1s3mdo6/sent_eth_to_abstract_global_wallet_on_wrong/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -170,7 +170,7 @@ The Block • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 5h ago
+Fortune • 6h ago
 
 ---
 
@@ -178,7 +178,7 @@ Fortune • 5h ago
 
 EtherRAT hides C2 in Ethereum smart contracts via EtherHiding, steals wallets and credentials
 
-Infosecurity Magazine • 4h ago
+Infosecurity Magazine • 5h ago
 
 ---
 
@@ -192,7 +192,7 @@ Barron's • 2d ago
 
 Crypto entrepreneur Nic Carter has urged Bitcoin developers to catch up on quantum resistance or risk losing out to Ethereum, which already has a post-quantum roadmap. Elliptic curve cryptography (ECC) is the math that keeps Bitcoin (BTC) secure. Users pick a secret number (private key) and, using…
 
-TradingView • 14h ago
+TradingView • 15h ago
 
 ---
 
@@ -214,7 +214,7 @@ Investing News Network • 1d ago
 
 **[Ethereum Price Prediction Meets 1000x Pepeto as Hostplus $96B Pension Explores Bitcoin While ETH and Hyperliquid Hold](https://financefeeds.com/ethereum-price-prediction-meets-1000x-pepeto-as-hostplus-96b-pension-explores-bitcoin-while-eth-and-hyperliquid-hold/)**
 
-FinanceFeeds • 19h ago
+FinanceFeeds • 20h ago
 
 ---
 
@@ -222,7 +222,7 @@ FinanceFeeds • 19h ago
 
 Ethereum bulls see opportunity despite Circle’s recent 20% drop. Their logic: Lower stablecoin yields could drive more activity into staking.
 
-AMBCrypto • 20h ago
+AMBCrypto • 21h ago
 
 ---
 
@@ -236,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 970 • 👍 82 • 💬 2 • ⏱️ 4:12 • 6h ago
+👁️ 1K • 👍 87 • 💬 4 • ⏱️ 4:12 • 7h ago
 
 ---
 
@@ -246,7 +246,7 @@ Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade
 
 📺 Crossroads
 
-👁️ 1K • 👍 127 • 💬 17 • ⏱️ 15:03 • 6h ago
+👁️ 2K • 👍 160 • 💬 20 • ⏱️ 15:03 • 6h ago
 
 ---
 
@@ -256,37 +256,7 @@ You're not going to want to miss this INCREDIBLE Ether, technical analysis and i
 
 📺 Crypto Jebb
 
-👁️ 6K • 👍 245 • 💬 3 • ⏱️ 18:00 • 2d ago
-
----
-
-**[BMNR Stock can get to $42.25? if Ethereum DOES THIS!](https://www.youtube.com/watch?v=Jh75_BuKBw0)**
-
-What happens if ETH recovers to the 200 Day moving average with both technicals and fundamentals support this move?
-
-📺 Elijah Cheng
-
-👁️ 564 • 👍 54 • 💬 9 • ⏱️ 27:19 • 4h ago
-
----
-
-**[BEARISH SIGNAL FLASHING!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=o7kdVHuXHBs)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 170 • 👍 8 • 💬 3 • ⏱️ 4:33 • 10h ago
-
----
-
-**[Why Ethereum Is About to Skyrocket in Value!](https://www.youtube.com/watch?v=Q1LWGj38inI)**
-
-VIP Access & Programs: https://highaltitudecrypto.com Free Crypto Ebook (Learn How to Profit): https://shorturl.at/qCW46 ...
-
-📺 High Altitude Investing
-
-👁️ 65 • 👍 16 • 💬 3 • ⏱️ 10:43 • 2h ago
+👁️ 6K • 👍 247 • 💬 50 • ⏱️ 18:00 • 2d ago
 
 ---
 
@@ -296,17 +266,27 @@ Get My New Book Money Game and My Daily Trading Strategy for Free https://go.ted
 
 📺 MONEY GAME
 
-👁️ 5K • 👍 221 • 💬 31 • ⏱️ 12:42 • 1d ago
+👁️ 5K • 👍 222 • 💬 31 • ⏱️ 12:42 • 1d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=QfLqECfa9mc)**
+**[BMNR Stock can get to $42.25? if Ethereum DOES THIS!](https://www.youtube.com/watch?v=Jh75_BuKBw0)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+What happens if ETH recovers to the 200 Day moving average with both technicals and fundamentals support this move?
 
-📺 More Crypto Online
+📺 Elijah Cheng
 
-👁️ 2K • 👍 113 • 💬 4 • ⏱️ 5:07 • 17h ago
+👁️ 939 • 👍 66 • 💬 11 • ⏱️ 27:19 • 5h ago
+
+---
+
+**[Why Ethereum Is About to Skyrocket in Value!](https://www.youtube.com/watch?v=Q1LWGj38inI)**
+
+VIP Access & Programs: https://highaltitudecrypto.com Free Crypto Ebook (Learn How to Profit): https://shorturl.at/qCW46 ...
+
+📺 High Altitude Investing
+
+👁️ 171 • 👍 33 • 💬 6 • ⏱️ 10:43 • 2h ago
 
 ---
 
@@ -316,7 +296,27 @@ BMNR is quietly building one of the largest Ethereum treasuries in the world now
 
 📺 The Value Thinker
 
-👁️ 10K • 👍 652 • 💬 107 • ⏱️ 24:16 • 1d ago
+👁️ 10K • 👍 658 • 💬 108 • ⏱️ 24:16 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=QfLqECfa9mc)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 114 • 💬 5 • ⏱️ 5:07 • 18h ago
+
+---
+
+**[BITCOIN &amp; CRYPTO: Another Squeeze Starts Soon!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=YafCiuuABr4)**
+
+BITCOIN & CRYPTO: Another Squeeze Starts Soon!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 269 • 💬 177 • ⏱️ 16:33 • 21h ago
 
 ---
 
