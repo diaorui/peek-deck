@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-26T18:34:50.707097+00:00'
+updated: '2026-03-26T19:55:23.231473+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
 - videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 26, 2026 at 18:34 UTC  
+**Last Updated:** March 26, 2026 at 19:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,047.00
+### $2,039.10
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -5.9%  
-**7d:** -4.9%  
-**30d:** -0.8%  
-**90d:** -30.9%  
-**1y:** +1.9%  
+**24h:** -5.5%  
+**7d:** -4.5%  
+**30d:** -0.4%  
+**90d:** -30.6%  
+**1y:** +2.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Accept crypto payments in seconds, across Bitcoin, stablecoins, and more with Bitcoin.com Checkout.
 
-🔗 [Bitcoin.com Checkout](https://checkout.bitcoin.com/) • 6h ago
+🔗 [Bitcoin.com Checkout](https://checkout.bitcoin.com/) • 8h ago
 
 ---
 
@@ -88,7 +88,7 @@ Accept crypto payments in seconds, across Bitcoin, stablecoins, and more with Bi
 
 As I write this in the first week of January 2026, the new year is just beginning. If 2025 was the Year of the Snake — a time associated…
 
-🔗 [Medium](https://medium.com/@james_allan/the-state-of-the-blockchain-industry-and-where-kaspa-fits-c75371725255) • 5h ago
+🔗 [Medium](https://medium.com/@james_allan/the-state-of-the-blockchain-industry-and-where-kaspa-fits-c75371725255) • 7h ago
 
 ---
 
@@ -96,7 +96,7 @@ As I write this in the first week of January 2026, the new year is just beginnin
 
 Been building an x402 gate way for my local business site builder. I want to experiment with x402 more for deliverables outside of the "typical" things (e.g.: simple api calls etc.) as I believe the potential is actually a lot bigger than that. I think it can be used for "bigger" agentic deliverables, e.g.: with this you get a full pipeline (llm research, google places search, image analysis, brand guidemap etc. which than gets molded into a one pager). Changes the game from "cheap api calls" to bigger deliverables. Feel free to play around with it and let me know what you think! Anyone else doing stuff sort of out of the most comon use cases with x402?
 
-8h ago
+10h ago
 
 ---
 
@@ -104,7 +104,7 @@ Been building an x402 gate way for my local business site builder. I want to exp
 
 I am newbie in crypto trading. And I learned that ETH tokens pose a huge risk even if token seems to be authentic. Tried to swap my eth funds for Tether Gold XAUT, but got zero balanced fake tokens. Lesson learned as I checked later for second time to find out Tether Gold legit contract. Contract was fake and did not match with the legit one. I will never trust any tokens but it is very sad that those tokens were listed at coinbase web wallet to swap. Should not be. Thus I paid for that lesson ca €10 I think that these risks are discrediting ethereum as safe network. Because if user has no other option than believing that contract is genuine then any fake blockchain checking site may serve it as legit. Fortunally I transfered fake tokens to my cold wallet, so I just created new ethereum account in it to change address as previous is now a little compromised as scammers can scan and track my ethereum account balance. Will leave compromised as it is and will not touch it anymore.
 
-3h ago
+4h ago
 
 ---
 
@@ -118,7 +118,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Sent ETH to Abstract Global Wallet on wrong network — any chance of recovery?](https://www.reddit.com/r/ethereum/comments/1s3mdo6/sent_eth_to_abstract_global_wallet_on_wrong/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -166,23 +166,23 @@ The Block • 1d ago
 
 ---
 
-**[EtherRAT Techniques Bypass Security Via Ethereum Smart Contracts](https://www.infosecurity-magazine.com/news/etherrat-bypass-security-ethereum/)**
-
-EtherRAT hides C2 in Ethereum smart contracts via EtherHiding, steals wallets and credentials
-
-Infosecurity Magazine • 3h ago
-
----
-
 **[Current price of Ethereum for March 26, 2026](https://fortune.com/article/price-of-ethereum-03-26-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 4h ago
+Fortune • 5h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Rise. How the Iran War Has Made Crypto Calls Tougher.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqeO_CHGazMrzU8Xu8y-hyrPPhEj5Zt2Lf-2nCp35Tx7pinuI5Jz5kUK&gaa_ts=69c57fb4&gaa_sig=bFpJ7UbxWXPI3bu0xoyrBWgea_4S7-8YpzdaZRLkMgfDPhdEg6DilsZu6brm4UxXPmYbmFFZA53D0xr7PKLW_Q%3D%3D)**
+**[EtherRAT Techniques Bypass Security Via Ethereum Smart Contracts](https://www.infosecurity-magazine.com/news/etherrat-bypass-security-ethereum/)**
+
+EtherRAT hides C2 in Ethereum smart contracts via EtherHiding, steals wallets and credentials
+
+Infosecurity Magazine • 4h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Rise. How the Iran War Has Made Crypto Calls Tougher.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqeWIyf8FxsKAt1gsMXZ936kY3dmM9mhORaSLJSb5T6XgeIWXt7_yZ47&gaa_ts=69c59295&gaa_sig=d9WmYCDdY-v94qLq9rbXaQHJooEEH1F-G6iifR45I4qLWiCDhwsvNRDKx28Cq6xzX35ofRkMUpTXq2_sC4lKCw%3D%3D)**
 
 Barron's • 2d ago
 
@@ -192,13 +192,7 @@ Barron's • 2d ago
 
 Crypto entrepreneur Nic Carter has urged Bitcoin developers to catch up on quantum resistance or risk losing out to Ethereum, which already has a post-quantum roadmap. Elliptic curve cryptography (ECC) is the math that keeps Bitcoin (BTC) secure. Users pick a secret number (private key) and, using…
 
-TradingView • 13h ago
-
----
-
-**[Ethereum’s Glamsterdam Upgrade Explained: Key Changes, Timeline and Why It Matters](https://www.ccn.com/education/crypto/ethereum-glamsterdam-upgrade-key-changes-timeline-impact/)**
-
-CCN.com • 8h ago
+TradingView • 14h ago
 
 ---
 
@@ -210,19 +204,25 @@ The Motley Fool • 1d ago
 
 ---
 
-**[$164B stablecoin pool vs. Ethereum staking: Decoding CLARITY Act impact](https://ambcrypto.com/164b-stablecoin-pool-vs-ethereum-staking-decoding-clarity-act-impact/)**
-
-Ethereum bulls see opportunity despite Circle’s recent 20% drop. Their logic: Lower stablecoin yields could drive more activity into staking.
-
-AMBCrypto • 19h ago
-
----
-
 **[Soter Insure Issues World's First Ethereum-Denominated Slashing Insurance Policy](https://investingnews.com/soter-insure-issues-world-s-first-ethereum-denominated-slashing-insurance-policy/)**
 
 Soter advances digital asset risk management through a novel ETH-denominated slashing product, providing stakers with native-asset indemnity and eliminating FX gaps in legacy insurance policies.- Soter Insure, a provider of institutional-grade insurance for the digital asset economy, today announc...
 
 Investing News Network • 1d ago
+
+---
+
+**[Ethereum Price Prediction Meets 1000x Pepeto as Hostplus $96B Pension Explores Bitcoin While ETH and Hyperliquid Hold](https://financefeeds.com/ethereum-price-prediction-meets-1000x-pepeto-as-hostplus-96b-pension-explores-bitcoin-while-eth-and-hyperliquid-hold/)**
+
+FinanceFeeds • 19h ago
+
+---
+
+**[$164B stablecoin pool vs. Ethereum staking: Decoding CLARITY Act impact](https://ambcrypto.com/164b-stablecoin-pool-vs-ethereum-staking-decoding-clarity-act-impact/)**
+
+Ethereum bulls see opportunity despite Circle’s recent 20% drop. Their logic: Lower stablecoin yields could drive more activity into staking.
+
+AMBCrypto • 20h ago
 
 ---
 
@@ -236,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 970 • 👍 82 • 💬 2 • ⏱️ 4:12 • 4h ago
+👁️ 970 • 👍 82 • 💬 2 • ⏱️ 4:12 • 6h ago
 
 ---
 
@@ -246,7 +246,7 @@ Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade
 
 📺 Crossroads
 
-👁️ 1K • 👍 127 • 💬 17 • ⏱️ 15:03 • 4h ago
+👁️ 1K • 👍 127 • 💬 17 • ⏱️ 15:03 • 6h ago
 
 ---
 
@@ -266,7 +266,7 @@ What happens if ETH recovers to the 200 Day moving average with both technicals 
 
 📺 Elijah Cheng
 
-👁️ 564 • 👍 54 • 💬 9 • ⏱️ 27:19 • 3h ago
+👁️ 564 • 👍 54 • 💬 9 • ⏱️ 27:19 • 4h ago
 
 ---
 
@@ -276,7 +276,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 170 • 👍 8 • 💬 3 • ⏱️ 4:33 • 8h ago
+👁️ 170 • 👍 8 • 💬 3 • ⏱️ 4:33 • 10h ago
 
 ---
 
@@ -286,7 +286,7 @@ VIP Access & Programs: https://highaltitudecrypto.com Free Crypto Ebook (Learn H
 
 📺 High Altitude Investing
 
-👁️ 65 • 👍 16 • 💬 3 • ⏱️ 10:43 • 44m ago
+👁️ 65 • 👍 16 • 💬 3 • ⏱️ 10:43 • 2h ago
 
 ---
 
@@ -296,7 +296,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free https://go.ted
 
 📺 MONEY GAME
 
-👁️ 5K • 👍 221 • 💬 31 • ⏱️ 12:42 • 23h ago
+👁️ 5K • 👍 221 • 💬 31 • ⏱️ 12:42 • 1d ago
 
 ---
 
@@ -306,7 +306,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 113 • 💬 4 • ⏱️ 5:07 • 16h ago
+👁️ 2K • 👍 113 • 💬 4 • ⏱️ 5:07 • 17h ago
 
 ---
 

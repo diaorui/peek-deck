@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-26T18:34:50.692956+00:00'
+updated: '2026-03-26T19:55:23.217232+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
-- repositories
 - videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 26, 2026 at 18:34 UTC  
+**Last Updated:** March 26, 2026 at 19:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced his sentient friend would make him a fortune. He’s just one of many people who lost control after an AI encounter
 
-🔗 [the Guardian](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion) • 7h ago
+🔗 [the Guardian](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion) • 8h ago
 
 ---
 
@@ -49,7 +49,7 @@ One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced
 
 OpenAI will discontinue Sora, its AI video platform, as Disney exits a $1B deal and industry backlash over copyright intensifies.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-sora-shutdown-disney-exit) • 3h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-sora-shutdown-disney-exit) • 5h ago
 
 ---
 
@@ -57,15 +57,7 @@ OpenAI will discontinue Sora, its AI video platform, as Disney exits a $1B deal 
 
 The Pentagon is spending $13.4 billion on AI this year alone.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/pentagon-formalizes-palantirs-maven-ai-as-a-core-military-system-with-multi-year-funding-platforms-investment-grows-to-usd13-billion-from-usd480-million-in-2024) • 17h ago
-
----
-
-**[Meta just acqui-hired its 4th AI startup in 4 months. Dreamer, Manus, Moltbook, and Scale AI's founder. Is anyone else watching this pattern?](https://www.reddit.com/r/artificial/comments/1s3xr4l/meta_just_acquihired_its_4th_ai_startup_in_4/)**
-
-Quick rundown of what Meta's done since December: • Dec 2025: Acquired Manus (autonomous web agent) for $2B • Early 2026: Acqui-hired Moltbook team • Scale AI's Alexandr Wang stepped down as CEO to become Meta's first Chief AI Officer • March 23: Dreamer team (agentic AI platform) joins Meta Superintelligence Labs All of these teams are going into one division under Wang. Zuckerberg isn't just building models, he's assembling an entire talent army for agents. The Dreamer one is interesting because they were only in beta for a month before Meta grabbed them. The product let regular people build their own AI agents. Thousands of users already. Feels like Meta is betting everything on agents being the next platform shift, not just chatbots. What do you guys think - is this a smart consolidation play or is Zuck just panic-buying talent because open-source alone isn't enough? Full breakdown here
-
-14h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/pentagon-formalizes-palantirs-maven-ai-as-a-core-military-system-with-multi-year-funding-platforms-investment-grows-to-usd13-billion-from-usd480-million-in-2024) • 19h ago
 
 ---
 
@@ -73,7 +65,15 @@ Quick rundown of what Meta's done since December: • Dec 2025: Acquired Manus (
 
 hi, been thinking about this a lot lately. i’m currently learning 3 foreign languages and my experience has been… interesting, to say the least. been working on my skills with tutors, books, some apps, even went to a language exchange abroad in france. but honestly, considering the cost + availability, it kinda feels like AI tutors are slowly gonna start pushing native speakers/tutors out of the space like you can literally design your own tailor-made tutor and train it exactly how you want… which is kinda wild. but at the same time, isn’t the human interaction + spontaneity kinda the whole point of learning a language?? has anyone here actually built their own AI-powered tutor using AI agents, vibe coding with claude or anything like that?
 
-2h ago
+3h ago
+
+---
+
+**[Meta just acqui-hired its 4th AI startup in 4 months. Dreamer, Manus, Moltbook, and Scale AI's founder. Is anyone else watching this pattern?](https://www.reddit.com/r/artificial/comments/1s3xr4l/meta_just_acquihired_its_4th_ai_startup_in_4/)**
+
+Quick rundown of what Meta's done since December: • Dec 2025: Acquired Manus (autonomous web agent) for $2B • Early 2026: Acqui-hired Moltbook team • Scale AI's Alexandr Wang stepped down as CEO to become Meta's first Chief AI Officer • March 23: Dreamer team (agentic AI platform) joins Meta Superintelligence Labs All of these teams are going into one division under Wang. Zuckerberg isn't just building models, he's assembling an entire talent army for agents. The Dreamer one is interesting because they were only in beta for a month before Meta grabbed them. The product let regular people build their own AI agents. Thousands of users already. Feels like Meta is betting everything on agents being the next platform shift, not just chatbots. What do you guys think - is this a smart consolidation play or is Zuck just panic-buying talent because open-source alone isn't enough? Full breakdown here
+
+15h ago
 
 ---
 
@@ -81,7 +81,7 @@ hi, been thinking about this a lot lately. i’m currently learning 3 foreign la
 
 Hello Agenters, I need a few folks who have their AI agent running with some users to test my build. I've build an observability + monitoring + security tool that tracks Hallucinations, Prompt Injection, Bias, Toxicity, PII leak and stuff through different Detectors. It has a bunch of features like Prompt blocking, trace tree with token and cost calculation. I have 2 integration mentions for it: 1) Proxy API (2 line change. Best for no code and quick integration) 2) SDK (Full agent trace and observability) Why we built this We were building AI agents ourselves and kept hitting the same wall:Debugging LLM behavior is painful and messy. Logs weren’t enough, and existing tools felt either too heavy or too limited. So we decided to build something simple, fast, and actually useful for devs. How to try it? Comment below or DM me and I’ll share access + quick setup (takes ~5 mins) Its a free testing. Anyone who loves and wants to continue with us will be upgraded to Pro plan for lifetime.
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ Hello Agenters, I need a few folks who have their AI agent running with some use
 
 can you share some examples? I just started to look on youtube and the first bunch of results were not what i was looking for yet. I don't necessarily want to copy the project , i want see the workflow, the timing and rhythm of the succession of tasks, and be inspired to "port" their method to projects of my own, or come up with new ideas i haven't thougth yet.
 
-2m ago
+1h ago
 
 ---
 
@@ -97,7 +97,7 @@ can you share some examples? I just started to look on youtube and the first bun
 
 "The team trained machine learning models to identify patterns in the data that can tell astronomers the type of event that has been detected, something that AI models excel at. RAVEN is designed to handle the whole exoplanet-detection process in one go — from detecting the signal to vetting it with machine learning and then statistically validating it. That means that it has an additional edge over other contemporary tools that only focus on specific parts of this process ... "RAVEN allows us to analyze enormous datasets consistently and objectively," senior team member and University of Warwick researcher David Armstrong said in the statement. "Because the pipeline is well-tested and carefully validated, this is not just a list of potential planets — it is also reliable enough to use as a sample to map the prevalence of distinct types of planets around sun-like stars." Within the candidate close-in planets, researchers could then determine the types of planets and their populations in detail. This revealed that around 10% of stars like the sun host a close-in planet, validating findings made by TESS's exoplanet-hunting predecessor Kepler. RAVEN was also able to help researchers determine just how rare close-in Neptune-size worlds are, finding that they occur around just 0.08% of sun-like stars. This absence of these worlds close to their parent star is referred to as the "Neptunian desert" by astronomers. "For the first time, we can put a precise number on just how empty this 'desert' is," leader of the Neptunian desert study team, Kaiming Cui of the University of Warwick said in the statement. "These measurements show that TESS can now match, and in some cases surpass, Kepler for studying planetary populations." The RAVEN results demonstrate the power of AI to search through vast swathes of astronomical data to spot subtle effects."
 
-🔗 [Space](https://www.space.com/astronomy/exoplanets/100-new-alien-worlds-scientists-find-hidden-haul-in-data-from-nasa-exoplanet-hunting-spacecraft) • 18h ago
+🔗 [Space](https://www.space.com/astronomy/exoplanets/100-new-alien-worlds-scientists-find-hidden-haul-in-data-from-nasa-exoplanet-hunting-spacecraft) • 20h ago
 
 ---
 
@@ -105,7 +105,7 @@ can you share some examples? I just started to look on youtube and the first bun
 
 Google TurboQuant This is a new compression algorithm. Every time a model answers a question, it stores a massive amount of intermediate data. The longer the conversation - the more expensive it gets. Result: compresses that data 6x+ with no quality loss, giving an 8x speed boost on H100s. No retraining required - it just plugs into an existing model Moonshot AI (Kimi) Attention Residuals The old way: each layer takes its own output and simply adds whatever came from the layer below. The new way: instead of mechanically grabbing just the neighboring layer, the AI itself decides which layer matters right now and how much to take from it. It's the same attention mechanism already used for processing words in text, except now it works not horizontally (between words) but vertically (between layers) Result: +25% training efficiency with under 2% latency overhead, bc the model stops dragging around unnecessary baggage. It routes the right information to the right place more precisely and needs fewer training iterations to get to a good result Andrej Karpathy (one of the top AI researchers on the planet) publicly praised the work. One of the paper's authors is a 17 year old who came up with the idea during an exam What does this mean for business? TurboQuant = less hardware for the same workload, and long context at an affordable price Attention Residuals = cheaper model training
 
-7h ago
+8h ago
 
 ---
 
@@ -113,7 +113,7 @@ Google TurboQuant This is a new compression algorithm. Every time a model answer
 
 Wondering for secure enterprise wide AI usages, what all controls have you implemented? Beyond traditional firewall rules; are there any kill switches that could be implanted?
 
-6h ago
+8h ago
 
 ---
 
@@ -127,73 +127,75 @@ Research at Google • 1d ago
 
 ---
 
-**[A Google AI breakthrough is pressuring memory chip stocks from Samsung to Micron](https://www.cnbc.com/2026/03/26/google-ai-turboquant-memory-chip-stocks-samsung-micron.html)**
-
-SK Hynix, Samsung and Micron shares fell as investors fear fewer memory chips may be required in the future.
-
-CNBC • 7h ago
-
----
-
-**[Google TurboQuant Puts Western Digital AI Storage Growth In Focus](https://finance.yahoo.com/markets/stocks/articles/google-turboquant-puts-western-digital-070447234.html)**
-
-Google has introduced TurboQuant, a new algorithm designed to cut AI memory requirements, prompting questions about future demand for storage and memory. The announcement has drawn attention to major suppliers such as Western Digital (NasdaqGS:WDC), as investors reassess assumptions about AI driven hardware needs. The news has triggered an immediate market reaction, suggesting that investors view the development as material for memory and storage providers. Western Digital, a key provider...
-
-Yahoo Finance • 11h ago
-
----
-
 **[Marriage over, €100,000 down the drain: the AI users whose lives were wrecked by delusion](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion)**
 
 One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced his sentient friend would make him a fortune. He’s just one of many people who lost control after an AI encounter
 
-The Guardian • 6h ago
+The Guardian • 8h ago
 
 ---
 
-**[AI Is Giving Bad Advice to Flatter Its Users, Says New Study on Dangers of Overly Agreeable Chatbots](https://www.usnews.com/news/business/articles/2026-03-26/ai-is-giving-bad-advice-to-flatter-its-users-says-new-study-on-dangers-of-overly-agreeable-chatbots)**
+**[Confused about ChatGPT or deepfakes? Here's a crash course on all things AI.](https://www.detroitnews.com/videos/news/2026/03/26/what-is-generative-ai/89336302007/)**
 
-Artificial intelligence chatbots are so prone to flattering and validating their human users that they are giving bad advice that can damage relationships and reinforce harmful behaviors, according to a new study that explores the dangers of AI telling people what they want to hear
+Artificial intelligence seems to be here to stay. Here are some things you may want to need to know before downloading a chatbot.
 
-U.S. News & World Report • 32m ago
-
----
-
-**[AITA? AI won’t tell you, and it’s affecting behavior and relationships](https://www.scientificamerican.com/article/ai-chatbots-are-sucking-up-to-you-with-consequences-for-your-relationships/)**
-
-A new study of AI sycophancy shows how asking agreeable chatbots for advice can change your behavior
-
-Scientific American • 34m ago
+The Detroit News • 5m ago
 
 ---
 
-**[America's first AI-fueled war is unfolding. How'd we get here? : Fresh Air](https://www.npr.org/2026/03/26/nx-s1-5762255/americas-first-ai-fueled-war-is-unfolding-howd-we-get-here)**
+**[AI and bots have officially taken over the internet, report finds](https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html)**
 
-‘Project Maven’ is the story of how the U.S. spent a decade building an AI warfare system that's now being used in the war in Iran. Author and Bloomberg journalist Katrina Manson reveals the people behind that mission, and their belief that AI could make war more precise and save lives. She spoke with Tonya Mosley about the ethics of this technology. A troubling research study found AI models placed in simulated nuclear crisis scenarios chose the nuclear option 95% of the time. Also, Carolina Miranda reviews a Los Angeles art installation that harkens to the old days of cinema.Also, Carolina Miranda reviews a Los Angeles art installation that harkens to the old days of cinema.
+HUMAN Security's State of AI Traffic report found that bots have eclipsed human users, with automated traffic growing eight times faster than human activity.
 
-NPR • 52m ago
-
----
-
-**[Fetterman slams AI data center moratorium proposal as 'China First'](https://www.foxnews.com/politics/fetterman-slams-ai-data-center-moratorium-proposal-china-first)**
-
-Sen. John Fetterman blasted the idea of an AI data center moratorium as "China First," as Sen. Bernie Sanders and Rep. Alexandria Ocasio-Cortez push such a proposal.
-
-Fox News • 31m ago
+CNBC • 6h ago
 
 ---
 
-**[BlackRock's Larry Fink says expanding market participation is needed to address wealth gap amid AI boom](https://www.foxbusiness.com/economy/blackrocks-larry-fink-says-expanding-market-participation-needed-address-wealth-gap-amid-ai-boom)**
+**[A Google AI breakthrough is pressuring memory chip stocks from Samsung to Micron](https://www.cnbc.com/2026/03/26/google-ai-turboquant-memory-chip-stocks-samsung-micron.html)**
 
-BlackRock CEO Larry Fink warns AI could concentrate wealth among few investors, deepening inequality unless more Americans participate in financial markets.
+SK Hynix, Samsung and Micron shares fell as investors fear fewer memory chips may be required in the future.
 
-Fox Business • 36m ago
+CNBC • 8h ago
 
 ---
 
-**[As AI threatens jobs, Charlotte is investing in tech hub anyway](https://www.axios.com/local/charlotte/2026/03/26/north-tryon-tech-hub-ai-jobs)**
+**[Major outgoing CEOs are citing AI as a factor in their decisions to step down](https://www.cnbc.com/2026/03/26/coca-cola-james-quincey-walmart-doug-mcmillon-artificial-intelligence-step-down.html)**
 
-Axios • 1h ago
+Coca-Cola CEO James Quincey and former Walmart CEO Doug McMillon have told CNBC that the next wave of artificial intelligence is a reason for their departures.
+
+CNBC • 5h ago
+
+---
+
+**[AI Just One-Shotted Another CEO](https://gizmodo.com/ai-just-one-shotted-another-ceo-2000738610)**
+
+The old guard is out.
+
+Gizmodo • 45m ago
+
+---
+
+**[Coca-Cola CEO says AI contributed to his decision to step down](https://seekingalpha.com/news/4569511-coca-cola-ceo-says-ai-contributed-to-his-decision-to-step-down)**
+
+Coca-Cola CEO James Quincey said that the proliferation of AI was a key factor in his decision to step down as CEO. Read more here.
+
+Seeking Alpha • 1h ago
+
+---
+
+**[Today’s Atlantic Trivia: Painters](https://www.theatlantic.com/trivia/2026/03/26-ai-airport-codes-painting/686554/)**
+
+What painter who shares his first name with a popular AI chatbot is known for his monumental depictions of water lilies?
+
+The Atlantic • 1h ago
+
+---
+
+**[Google’s ‘live’ AI search assistant can handle conversations in dozens more languages](https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion)**
+
+Google Translate’s real-time translation tool is coming to iOS, too.
+
+The Verge • 1h ago
 
 ---
 
@@ -205,7 +207,7 @@ Axios • 1h ago
 
 Is anybody else bored of talking about AI?
 
-⬆️ 733 • 💬 514 • 1d ago • [Unfinished Side Projects](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
+⬆️ 736 • 💬 515 • 1d ago • [Unfinished Side Projects](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
 
 ---
 
@@ -219,7 +221,7 @@ Search any airport for real-time delays, weather, arrivals, departures, and perf
 
 **[TurboQuant: Redefining AI efficiency with extreme compression](https://news.ycombinator.com/item?id=47513475)**
 
-⬆️ 529 • 💬 151 • 1d ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
+⬆️ 533 • 💬 153 • 1d ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
 
 ---
 
@@ -251,7 +253,15 @@ The studio giant will no longer move forward with its OpenAI investment, as the 
 
 I asked experts if I'm real. Bad news. Even my aunt wasn't sure if I was a deepfake. AI is so convincing that a sitting prime minister struggled to prove he's alive. You might be next.
 
-⬆️ 168 • 💬 188 • 1d ago • [bbc.com](https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake)
+⬆️ 168 • 💬 190 • 1d ago • [bbc.com](https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake)
+
+---
+
+**[AI users whose lives were wrecked by delusion](https://news.ycombinator.com/item?id=47530264)**
+
+One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced his sentient friend would make him a fortune. He’s just one of many people who lost control after an AI encounter
+
+⬆️ 164 • 💬 181 • 6h ago • [the Guardian](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion)
 
 ---
 
@@ -271,14 +281,6 @@ Contribute to AmElmo/proofshot development by creating an account on GitHub.
 
 ---
 
-**[AI users whose lives were wrecked by delusion](https://news.ycombinator.com/item?id=47530264)**
-
-One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced his sentient friend would make him a fortune. He’s just one of many people who lost control after an AI encounter
-
-⬆️ 126 • 💬 132 • 5h ago • [the Guardian](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
@@ -289,7 +291,7 @@ Grab the Action Guide https://parker-prompts.com/5-like-5 In this video, I break
 
 📺 Parker Prompts
 
-👁️ 8K • 💬 8 • ⏱️ 12:30 • 5h ago
+👁️ 8K • 💬 8 • ⏱️ 12:30 • 6h ago
 
 ---
 
@@ -299,7 +301,7 @@ The truth about Sam Altman. AI Critic Karen Hao reveals what 90 OpenAI employees
 
 📺 The Diary Of A CEO
 
-👁️ 484K • 👍 18K • 💬 3K • ⏱️ 2:09:13 • 10h ago
+👁️ 484K • 👍 18K • 💬 3K • ⏱️ 2:09:13 • 11h ago
 
 ---
 
@@ -309,7 +311,7 @@ The truth about Sam Altman. AI Critic Karen Hao reveals what 90 OpenAI employees
 
 📺 Theoretically Media
 
-👁️ 20K • 👍 2K • 💬 539 • ⏱️ 3:34 • 21h ago
+👁️ 20K • 👍 2K • 💬 539 • ⏱️ 3:34 • 22h ago
 
 ---
 
@@ -319,7 +321,7 @@ A viral AI-generated video falsely showing an attack on the Statue of Liberty ha
 
 📺 Firstpost
 
-👁️ 5K • 👍 98 • 💬 45 • ⏱️ 3:38 • 3h ago
+👁️ 5K • 👍 98 • 💬 45 • ⏱️ 3:38 • 4h ago
 
 ---
 
@@ -329,7 +331,7 @@ Patreon: https://patreon.com/FlashbackHistory WANT MORE? - Check out our sister 
 
 📺 Flashback History
 
-👁️ 30K • 👍 5K • 💬 2K • ⏱️ 22:05 • 19h ago
+👁️ 30K • 👍 5K • 💬 2K • ⏱️ 22:05 • 21h ago
 
 ---
 
@@ -359,7 +361,7 @@ The people building AI say it could destroy humanity… so why are they still ra
 
 📺 The Diary Of A CEO
 
-👁️ 33K • 👍 2K • 💬 116 • ⏱️ 1:50 • 3h ago
+👁️ 33K • 👍 2K • 💬 116 • ⏱️ 1:50 • 4h ago
 
 ---
 
@@ -369,7 +371,7 @@ Generate AI Videos of Yourself using Higgsfield https://higgsfield.ai?fpr=ai&fp_
 
 📺 Isa does AI
 
-👁️ 7K • 💬 3 • ⏱️ 8:10 • 4h ago
+👁️ 7K • 💬 3 • ⏱️ 8:10 • 5h ago
 
 ---
 
@@ -467,7 +469,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 11,868 • ❤️ 378 • 5h ago
+⬇️ 11,868 • ❤️ 378 • 6h ago
 
 ---
 
@@ -501,7 +503,7 @@ Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2 is a fine-tuned LLM optimized 
 
 Foundation-1 is a structured text-to-sample model for music production, enabling precise control over instrumentation, timbre, FX, and musical structure (tempo, key, bar count) for generating coherent, production-ready audio loops.
 
-⬇️ 0 • ❤️ 267 • 9d ago
+⬇️ 0 • ❤️ 267 • 10d ago
 
 ---
 
@@ -642,7 +644,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 57.1k • 🔱 7.9k • 18h ago
+⭐ 57.1k • 🔱 7.9k • 19h ago
 
 ---
 
@@ -652,7 +654,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 22.6k • 🔱 1.1k • 6m ago
+⭐ 22.6k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -662,7 +664,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 12.5k • 🔱 669 • 8h ago
+⭐ 12.5k • 🔱 669 • 9h ago
 
 ---
 
@@ -672,7 +674,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 7.5k • 🔱 600 • 20m ago
+⭐ 7.5k • 🔱 600 • 1h ago
 
 ---
 
@@ -712,7 +714,7 @@ AI-native design editor. Open-source Figma alternative.
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 284 • 23h ago
+⭐ 3.2k • 🔱 284 • 1d ago
 
 ---
 
@@ -722,7 +724,7 @@ Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messag
 
 `Go`
 
-⭐ 3.1k • 🔱 275 • 11h ago
+⭐ 3.1k • 🔱 275 • 13h ago
 
 ---
 
