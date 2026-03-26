@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-26T20:37:41.614015+00:00'
+updated: '2026-03-26T21:32:44.618021+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- social
 - videos
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 26, 2026 at 20:37 UTC  
+**Last Updated:** March 26, 2026 at 21:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,353.76
+### $69,265.48
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -3.3%  
-**7d:** -2.6%  
-**30d:** +1.0%  
-**90d:** -21.9%  
-**1y:** -21.2%  
+**7d:** -2.0%  
+**30d:** +1.6%  
+**90d:** -21.5%  
+**1y:** -20.8%  
 
 ---
 
@@ -81,13 +81,7 @@ Rank #1
 
 The government-sponsored mortgage giant will accept Bitcoin and USDC as collateral through a new program with Better Home and Coinbase.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/coinbase-fannie-mae-enable-crypto-120846995.html) • 7h ago
-
----
-
-**[My favourite video 😅](https://www.reddit.com/r/Bitcoin/comments/1s3usw5/my_favourite_video/)**
-
-18h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/coinbase-fannie-mae-enable-crypto-120846995.html) • 8h ago
 
 ---
 
@@ -95,7 +89,13 @@ The government-sponsored mortgage giant will accept Bitcoin and USDC as collater
 
 The other day we posted about how our current monetary system prices out many from home ownership, and how bitcoin is part of the solution and that is becoming more true every day. Starting today, homebuyers can pledge Bitcoin as downpayment collateral through a new Coinbase + Better Home & Finance program backed by Fannie Mae, which underwrites roughly half of all U.S. mortgages. Here are the key elements: --Homebuyers don't sell their bitcoin so there's no taxable event --No margin calls, so if Bitcoin drops 30%, the mortgage terms don't change
 
-5h ago
+6h ago
+
+---
+
+**[My favourite video 😅](https://www.reddit.com/r/Bitcoin/comments/1s3usw5/my_favourite_video/)**
+
+19h ago
 
 ---
 
@@ -103,7 +103,7 @@ The other day we posted about how our current monetary system prices out many fr
 
 It was baddd. It was about bitcoins scarcity and how the fed prints and prints and never stops. Even the professor was laughing. So embarrassing, luckily it was only in front of some of the class, not the whole class.
 
-2h ago
+3h ago
 
 ---
 
@@ -111,7 +111,7 @@ It was baddd. It was about bitcoins scarcity and how the fed prints and prints a
 
 Been waiting for better entry point and decided 65k is where I'll make big move. Planning to liquidate significant portion from my equity investments and go heavy on Bitcoin at that level. For now just doing regular purchases whenever these smaller drops happen. Yeah 25k would be amazing opportunity but doesn't seem realistic anymore. 65k feels like more achievable target where I can really load up the bags. Anyone else waiting for specific price levels to make larger buys?
 
-6h ago
+7h ago
 
 ---
 
@@ -119,7 +119,7 @@ Been waiting for better entry point and decided 65k is where I'll make big move.
 
 been thinking about this for few days now and decided to take break from all bitcoin related content. getting overwhelmed by constant noise online these days. every platform has someone screaming about what i should believe or do with my coins joined this space because i believed in technology but now feels like everyone just wants to push their agenda. most of these influencers probably just making content for views anyway going to unfollow most crypto accounts and focus in other things for while. started learning digital art recently and already spent like 12 hours working on single project. much more relaxing than checking charts every hour need to get back to basics and remember why i got interested on bitcoin in first place. maybe after few weeks away from all this drama i can come back with clearer head anyone else taking breaks like this?
 
-9h ago
+10h ago
 
 ---
 
@@ -127,7 +127,21 @@ been thinking about this for few days now and decided to take break from all bit
 
 Company warns entire industry to move off RSA and EC more quickly.
 
-🔗 [Ars Technica](https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/) • 7h ago
+🔗 [Ars Technica](https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/) • 8h ago
+
+---
+
+**[TD Bankers Are Now Wearing Bitcoin Ties...](https://www.reddit.com/r/Bitcoin/comments/1s4fpaz/td_bankers_are_now_wearing_bitcoin_ties/)**
+
+3h ago
+
+---
+
+**[Just grabbed 0.01 BTC during this dip. Targeting 0.21 next](https://www.reddit.com/r/Bitcoin/comments/1s4g0uv/just_grabbed_001_btc_during_this_dip_targeting/)**
+
+So I finally pulled the trigger and snagged 0.01 BTC while prices are down. Pretty stoked about it. Now I'm wondering what's a solid target amount for long-term holding? Thinking 0.21 might be my next milestone but curious what others are aiming for. Anyone have thoughts on where we're headed price-wise? I know nobody has a crystal ball but always interested in hearing different perspectives on potential recovery timelines.
+
+2h ago
 
 ---
 
@@ -139,21 +153,33 @@ Hey all — I’m buying an apartment in Portugal and weighing two options: Opti
 
 ---
 
-**[Be careful out there, Morgan Stanley wants your bitcoin](https://www.reddit.com/r/Bitcoin/comments/1s3pa4v/be_careful_out_there_morgan_stanley_wants_your/)**
-
-22h ago
-
----
-
-**[TD Bankers Are Now Wearing Bitcoin Ties...](https://www.reddit.com/r/Bitcoin/comments/1s4fpaz/td_bankers_are_now_wearing_bitcoin_ties/)**
-
-2h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
+
+**[Bitcoin inches toward $71,000 as hopes for U.S.-Iran talks push oil prices lower: CNBC Crypto World](https://www.cnbc.com/video/2026/03/25/bitcoin-inches-toward-71000-as-hopes-for-us-iran-talks-push-oil-prices-lower-cnbc-crypto-world.html)**
+
+On today's episode of CNBC Crypto World, bitcoin moves towards $71,000 after Iran counters a U.S. ceasefire plan. Also, Senators reportedly reached an agreement on crypto market structure legislation language to settle a dispute between the banking and crypto sectors. Franklin Templeton's Max Gokhman also discusses how bitcoin is performing as the Iran war continues.
+
+CNBC • 1d ago
+
+---
+
+**[JPMorgan says bitcoin shows safe-haven-like demand during Iran war as gold and silver weaken](https://www.theblock.co/post/395369/jpmorgan-bitcoin-crypto-iran-war-gold-silver)**
+
+Bitcoin has held up better than gold and silver during the Iran war, with signs of inflows and rising activity, JPMorgan analysts said.
+
+The Block • 3h ago
+
+---
+
+**[Bitcoin (BTC) price news: Trump extends Iran strike pause, trimming price decline](https://www.coindesk.com/markets/2026/03/26/crypto-edges-off-of-worst-levels-after-trump-extends-iran-strike-pause)**
+
+It was an ugly day all around in markets as the Iran war has sent oil prices and bond yields surging higher.
+
+CoinDesk • 27m ago
+
+---
 
 **[Bitcoin mining company plans to expand cryptocurrency operations to Dubuque County](https://www.kcrg.com/2026/03/24/bitcoin-mining-company-plans-expand-cryptocurrency-operations-dubuque-county/)**
 
@@ -165,7 +191,7 @@ KCRG • 1d ago
 
 **[Bitcoin Miners, Now AI Compute Leaders, Face Profitability Concerns](https://www.investors.com/news/bitcoin-miner-profitability-hash-price-q1-2026-ai-pivot-wulf-corz-cifr-hut/)**
 
-Investor's Business Daily • 5h ago
+Investor's Business Daily • 6h ago
 
 ---
 
@@ -177,25 +203,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[One of the biggest bitcoin (BTC) sellers this year is a tiny Asian country](https://www.coindesk.com/markets/2026/03/26/bhutan-moves-another-500-bitcoin-to-exchanges-as-2026-outflows-top-usd150-million)**
+**[GameStop (GME) news: Bitcoin (BTC) covered call strategy used to generate income](https://www.coindesk.com/business/2026/03/26/gamestop-turned-its-usd368-million-bitcoin-stash-into-an-options-income-play)**
 
-Bhutan moves another 500 bitcoin to exchanges as 2026 outflows top $150 million
+The video retailer sparked speculations of selling bitcoin after it transferred nearly all its coins to Coinbase Prime in January.
 
-CoinDesk • 15h ago
-
----
-
-**[Bitcoin Faces $14 Billion Options Expiry While Middle East Turmoil Mounts](https://www.bloomberg.com/news/articles/2026-03-26/bitcoin-faces-14-billion-options-expiry-while-middle-east-turmoil-mounts)**
-
-Bloomberg.com • 3h ago
-
----
-
-**[Michael Saylor on new STRC stock: Creates an on-ramp for bitcoin believers without the volatility](https://www.cnbc.com/video/2026/03/26/michael-saylor-on-new-strc-stock-creates-an-on-ramp-for-bitcoin-believers-without-the-volatility.html)**
-
-Michael Saylor, Strategy co-founder, joins 'Power Lunch' to discuss the company's new product launch, the stated dividend and much more.
-
-CNBC • 1h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -203,29 +215,23 @@ CNBC • 1h ago
 
 Goldman Sachs believes bitcoin and crypto prices may have hit their floor after months of declines.
 
-Bitcoin Magazine • 2h ago
+Bitcoin Magazine • 3h ago
 
 ---
 
-**[Bitcoin inches toward $71,000 as hopes for U.S.-Iran talks push oil prices lower: CNBC Crypto World](https://www.cnbc.com/video/2026/03/25/bitcoin-inches-toward-71000-as-hopes-for-us-iran-talks-push-oil-prices-lower-cnbc-crypto-world.html)**
+**[Michael Saylor on new STRC stock: Creates an on-ramp for bitcoin believers without the volatility](https://www.cnbc.com/video/2026/03/26/michael-saylor-on-new-strc-stock-creates-an-on-ramp-for-bitcoin-believers-without-the-volatility.html)**
 
-On today's episode of CNBC Crypto World, bitcoin moves towards $71,000 after Iran counters a U.S. ceasefire plan. Also, Senators reportedly reached an agreement on crypto market structure legislation language to settle a dispute between the banking and crypto sectors. Franklin Templeton's Max Gokhman also discusses how bitcoin is performing as the Iran war continues.
+Michael Saylor, Strategy co-founder, joins 'Power Lunch' to discuss the company's new product launch, the stated dividend and much more.
 
-CNBC • 1d ago
-
----
-
-**[Bitcoin Slips Under $70K as Pentagon Prepares ‘Final Blow’ in Iran](https://decrypt.co/362417/bitcoin-slips-under-70k-as-pentagon-prepares-final-blow-in-iran)**
-
-Bitcoin's support level is vulnerable as Trump's five-day pause of strikes on Iran's energy infrastructure is set to expire, analysts said.
-
-Decrypt • 9h ago
+CNBC • 2h ago
 
 ---
 
-**[Bitcoin, XRP Take Strain in Crypto Tug Of War. 2 Things Pulling Them Apart.](https://www.barrons.com/articles/bitcoin-xrp-crypto-clarity-act-iran-7668c2df?gaa_at=eafs&gaa_n=AWEtsqfr-xl6DyWxgY8Xj83Ws_3eKCzT9_Ke7x5V355TnfQCNpsGkGU6CAu5&gaa_ts=69c59293&gaa_sig=SWNwJplcLr97Wlm46uEW0JKVgc1rAdJcxC0NgIWJrT25QQb-0k4OUbvFUqp6YkJWGjh2-E_cBtG6zf5-k4xyrQ%3D%3D)**
+**[MARA Stock Pops on $1.1 Billion Bitcoin Sale as BTC Miner Buys Back Convertible Debt](https://finance.yahoo.com/markets/crypto/articles/mara-stock-pops-1-1-144313571.html)**
 
-Barron's • 1d ago
+The company is chasing opportunities with AI alongside a growing number of its peers as Bitcoin mining margins remain stretched.
+
+Yahoo Finance • 6h ago
 
 ---
 
@@ -265,7 +271,7 @@ Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 3
 
 **[Show HN: Lexe – Self-Custodial Lightning Nodes in TEEs, Python and Rust SDKs](https://news.ycombinator.com/item?id=47532761)**
 
-⬆️ 3 • 💬 1 • 3h ago • [blog.lexe.app](https://blog.lexe.app/public-launch/)
+⬆️ 3 • 💬 1 • 4h ago • [blog.lexe.app](https://blog.lexe.app/public-launch/)
 
 ---
 
@@ -279,7 +285,7 @@ Bitcoin #Crypto #Finance Bitcoin is pulling back as negotiations around the Clar
 
 📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 405 • 💬 142 • ⏱️ 28:58 • 6h ago
+👁️ 8K • 👍 405 • 💬 142 • ⏱️ 28:58 • 7h ago
 
 ---
 
@@ -289,7 +295,7 @@ Coinbase and Fannie Mae just partnered up to do NO MARGIN CALL LOANS for Bitcoin
 
 📺 Digital Asset News
 
-👁️ 3K • 👍 383 • 💬 29 • ⏱️ 18:26 • 2h ago
+👁️ 3K • 👍 383 • 💬 29 • ⏱️ 18:26 • 3h ago
 
 ---
 
@@ -299,7 +305,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Fol
 
 📺 Altcoin Daily
 
-👁️ 12K • 👍 326 • 💬 52 • ⏱️ 1:06 • 23h ago
+👁️ 12K • 👍 326 • 💬 52 • ⏱️ 1:06 • 1d ago
 
 ---
 
@@ -309,7 +315,7 @@ The U.S. just revealed a $47 trillion liability problem and almost nobody is tal
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 125 • ⏱️ 20:42 • 20h ago
+👁️ 24K • 👍 2K • 💬 125 • ⏱️ 20:42 • 21h ago
 
 ---
 
@@ -319,7 +325,7 @@ Fannie Mae announced they are accepting Bitcoin and USDC as downpayment for home
 
 📺 Cyber Scrilla
 
-👁️ 2K • 👍 181 • 💬 21 • ⏱️ 1:07 • 4h ago
+👁️ 2K • 👍 181 • 💬 21 • ⏱️ 1:07 • 5h ago
 
 ---
 
@@ -339,7 +345,7 @@ In this video, we take a data-driven look at Bitcoin as it shows signs of prepar
 
 📺 Jason Pizzino
 
-👁️ 17K • 👍 1K • 💬 476 • ⏱️ 28:23 • 14h ago
+👁️ 17K • 👍 1K • 💬 476 • ⏱️ 28:23 • 15h ago
 
 ---
 
@@ -349,7 +355,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptovers
 
 📺 Benjamin Cowen
 
-👁️ 3K • 👍 145 • 💬 3 • ⏱️ 0:46 • 3h ago
+👁️ 3K • 👍 145 • 💬 3 • ⏱️ 0:46 • 4h ago
 
 ---
 
@@ -359,7 +365,7 @@ Smarter calls start with better data - Ask Clash ▻ https://www.askclash.ai/ Ma
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 790 • 💬 77 • ⏱️ 48:00 • 5h ago
+👁️ 14K • 👍 790 • 💬 77 • ⏱️ 48:00 • 6h ago
 
 ---
 

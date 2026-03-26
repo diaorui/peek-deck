@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-26T20:37:41.619930+00:00'
+updated: '2026-03-26T21:32:44.624263+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- social
 - videos
 - cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 26, 2026 at 20:37 UTC  
+**Last Updated:** March 26, 2026 at 21:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,039.10
+### $2,068.66
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -5.5%  
-**7d:** -4.5%  
-**30d:** -0.4%  
-**90d:** -30.6%  
-**1y:** +2.3%  
+**24h:** -4.7%  
+**7d:** -3.4%  
+**30d:** +0.7%  
+**90d:** -29.8%  
+**1y:** +3.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -88,7 +88,7 @@ Accept crypto payments in seconds, across Bitcoin, stablecoins, and more with Bi
 
 As I write this in the first week of January 2026, the new year is just beginning. If 2025 was the Year of the Snake — a time associated…
 
-🔗 [Medium](https://medium.com/@james_allan/the-state-of-the-blockchain-industry-and-where-kaspa-fits-c75371725255) • 7h ago
+🔗 [Medium](https://medium.com/@james_allan/the-state-of-the-blockchain-industry-and-where-kaspa-fits-c75371725255) • 8h ago
 
 ---
 
@@ -96,7 +96,7 @@ As I write this in the first week of January 2026, the new year is just beginnin
 
 Been building an x402 gate way for my local business site builder. I want to experiment with x402 more for deliverables outside of the "typical" things (e.g.: simple api calls etc.) as I believe the potential is actually a lot bigger than that. I think it can be used for "bigger" agentic deliverables, e.g.: with this you get a full pipeline (llm research, google places search, image analysis, brand guidemap etc. which than gets molded into a one pager). Changes the game from "cheap api calls" to bigger deliverables. Feel free to play around with it and let me know what you think! Anyone else doing stuff sort of out of the most comon use cases with x402?
 
-10h ago
+11h ago
 
 ---
 
@@ -104,7 +104,7 @@ Been building an x402 gate way for my local business site builder. I want to exp
 
 I am newbie in crypto trading. And I learned that ETH tokens pose a huge risk even if token seems to be authentic. Tried to swap my eth funds for Tether Gold XAUT, but got zero balanced fake tokens. Lesson learned as I checked later for second time to find out Tether Gold legit contract. Contract was fake and did not match with the legit one. I will never trust any tokens but it is very sad that those tokens were listed at coinbase web wallet to swap. Should not be. Thus I paid for that lesson ca €10 I think that these risks are discrediting ethereum as safe network. Because if user has no other option than believing that contract is genuine then any fake blockchain checking site may serve it as legit. Fortunally I transfered fake tokens to my cold wallet, so I just created new ethereum account in it to change address as previous is now a little compromised as scammers can scan and track my ethereum account balance. Will leave compromised as it is and will not touch it anymore.
 
-5h ago
+6h ago
 
 ---
 
@@ -166,11 +166,17 @@ The Block • 1d ago
 
 ---
 
-**[Current price of Ethereum for March 26, 2026](https://fortune.com/article/price-of-ethereum-03-26-2026/)**
+**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqeU7cjJZ3_W7kD7XGjH1xQKnvl0Et45W4NM-8whKY7nL9H8DPMhrl5S&gaa_ts=69c5a96a&gaa_sig=WwvwfsvRZqIH53L23a7EMkB8u0ljXAq59BBAvj8JlCdkUYO4Xua44_CBmpvmIjRRQsz1rMRtF3rx0t_EwobzmQ%3D%3D)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Barron's • 5h ago
 
-Fortune • 6h ago
+---
+
+**[Are Any of These Ethereum Competitors Buys in 2026?](https://www.fool.com/investing/2026/03/26/are-any-of-these-ethereum-competitors-buys-in-2026/)**
+
+There's only one Ethereum rival worth buying right now, and it's trading at a 70% discount.
+
+The Motley Fool • 15m ago
 
 ---
 
@@ -178,13 +184,7 @@ Fortune • 6h ago
 
 EtherRAT hides C2 in Ethereum smart contracts via EtherHiding, steals wallets and credentials
 
-Infosecurity Magazine • 5h ago
-
----
-
-**[Bitcoin, Ethereum, XRP Rise. How the Iran War Has Made Crypto Calls Tougher.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqeWIyf8FxsKAt1gsMXZ936kY3dmM9mhORaSLJSb5T6XgeIWXt7_yZ47&gaa_ts=69c59295&gaa_sig=d9WmYCDdY-v94qLq9rbXaQHJooEEH1F-G6iifR45I4qLWiCDhwsvNRDKx28Cq6xzX35ofRkMUpTXq2_sC4lKCw%3D%3D)**
-
-Barron's • 2d ago
+Infosecurity Magazine • 6h ago
 
 ---
 
@@ -192,29 +192,21 @@ Barron's • 2d ago
 
 Crypto entrepreneur Nic Carter has urged Bitcoin developers to catch up on quantum resistance or risk losing out to Ethereum, which already has a post-quantum roadmap. Elliptic curve cryptography (ECC) is the math that keeps Bitcoin (BTC) secure. Users pick a secret number (private key) and, using…
 
-TradingView • 15h ago
+TradingView • 16h ago
 
 ---
 
-**[Got $2,000? Which Crypto Is the Better Buy Right Now: Ethereum (ETH) vs. Solana (SOL)?](https://www.fool.com/investing/2026/03/25/got-2000-which-crypto-is-the-better-buy-right-now/)**
+**[Current price of Ethereum for March 26, 2026](https://fortune.com/article/price-of-ethereum-03-26-2026/)**
 
-Ethereum is a blockchain powerhouse, but it can't compete with Solana on speed or cost.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-The Motley Fool • 1d ago
-
----
-
-**[Soter Insure Issues World's First Ethereum-Denominated Slashing Insurance Policy](https://investingnews.com/soter-insure-issues-world-s-first-ethereum-denominated-slashing-insurance-policy/)**
-
-Soter advances digital asset risk management through a novel ETH-denominated slashing product, providing stakers with native-asset indemnity and eliminating FX gaps in legacy insurance policies.- Soter Insure, a provider of institutional-grade insurance for the digital asset economy, today announc...
-
-Investing News Network • 1d ago
+Fortune • 7h ago
 
 ---
 
 **[Ethereum Price Prediction Meets 1000x Pepeto as Hostplus $96B Pension Explores Bitcoin While ETH and Hyperliquid Hold](https://financefeeds.com/ethereum-price-prediction-meets-1000x-pepeto-as-hostplus-96b-pension-explores-bitcoin-while-eth-and-hyperliquid-hold/)**
 
-FinanceFeeds • 20h ago
+FinanceFeeds • 21h ago
 
 ---
 
@@ -222,7 +214,15 @@ FinanceFeeds • 20h ago
 
 Ethereum bulls see opportunity despite Circle’s recent 20% drop. Their logic: Lower stablecoin yields could drive more activity into staking.
 
-AMBCrypto • 21h ago
+AMBCrypto • 22h ago
+
+---
+
+**[As quantum 'Q-Day' jumps to 2029, Ethereum faces a new fight over what to do with coins left in old wallets](https://cryptoslate.com/as-quantum-q-day-jumps-to-2029-ethereum-faces-a-new-fight-over-what-to-do-with-coins-left-in-old-wallets/)**
+
+The Ethereum Foundation’s post-quantum roadmap argues that the real danger is a years-long struggle over how to move user wallets, protect bridges and custodians, and decide what to do with vulnerable coins that never upgrade.
+
+CryptoSlate • 6h ago
 
 ---
 
@@ -246,7 +246,7 @@ Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade
 
 📺 Crossroads
 
-👁️ 2K • 👍 160 • 💬 20 • ⏱️ 15:03 • 6h ago
+👁️ 2K • 👍 160 • 💬 20 • ⏱️ 15:03 • 7h ago
 
 ---
 
@@ -276,7 +276,7 @@ What happens if ETH recovers to the 200 Day moving average with both technicals 
 
 📺 Elijah Cheng
 
-👁️ 939 • 👍 66 • 💬 11 • ⏱️ 27:19 • 5h ago
+👁️ 939 • 👍 66 • 💬 11 • ⏱️ 27:19 • 6h ago
 
 ---
 
@@ -286,7 +286,7 @@ VIP Access & Programs: https://highaltitudecrypto.com Free Crypto Ebook (Learn H
 
 📺 High Altitude Investing
 
-👁️ 171 • 👍 33 • 💬 6 • ⏱️ 10:43 • 2h ago
+👁️ 171 • 👍 33 • 💬 6 • ⏱️ 10:43 • 3h ago
 
 ---
 
@@ -306,7 +306,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 114 • 💬 5 • ⏱️ 5:07 • 18h ago
+👁️ 2K • 👍 114 • 💬 5 • ⏱️ 5:07 • 19h ago
 
 ---
 
@@ -316,7 +316,7 @@ BITCOIN & CRYPTO: Another Squeeze Starts Soon!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 7K • 👍 269 • 💬 177 • ⏱️ 16:33 • 21h ago
+👁️ 7K • 👍 269 • 💬 177 • ⏱️ 16:33 • 22h ago
 
 ---
 

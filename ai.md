@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-26T20:37:41.605644+00:00'
+updated: '2026-03-26T21:32:44.609418+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- repositories
 - videos
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 26, 2026 at 20:37 UTC  
+**Last Updated:** March 26, 2026 at 21:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced his sentient friend would make him a fortune. He’s just one of many people who lost control after an AI encounter
 
-🔗 [the Guardian](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion) • 9h ago
+🔗 [the Guardian](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion) • 10h ago
 
 ---
 
@@ -49,7 +49,7 @@ One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced
 
 OpenAI will discontinue Sora, its AI video platform, as Disney exits a $1B deal and industry backlash over copyright intensifies.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-sora-shutdown-disney-exit) • 5h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-sora-shutdown-disney-exit) • 6h ago
 
 ---
 
@@ -57,7 +57,7 @@ OpenAI will discontinue Sora, its AI video platform, as Disney exits a $1B deal 
 
 The Pentagon is spending $13.4 billion on AI this year alone.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/pentagon-formalizes-palantirs-maven-ai-as-a-core-military-system-with-multi-year-funding-platforms-investment-grows-to-usd13-billion-from-usd480-million-in-2024) • 19h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/pentagon-formalizes-palantirs-maven-ai-as-a-core-military-system-with-multi-year-funding-platforms-investment-grows-to-usd13-billion-from-usd480-million-in-2024) • 20h ago
 
 ---
 
@@ -65,7 +65,7 @@ The Pentagon is spending $13.4 billion on AI this year alone.
 
 hi, been thinking about this a lot lately. i’m currently learning 3 foreign languages and my experience has been… interesting, to say the least. been working on my skills with tutors, books, some apps, even went to a language exchange abroad in france. but honestly, considering the cost + availability, it kinda feels like AI tutors are slowly gonna start pushing native speakers/tutors out of the space like you can literally design your own tailor-made tutor and train it exactly how you want… which is kinda wild. but at the same time, isn’t the human interaction + spontaneity kinda the whole point of learning a language?? has anyone here actually built their own AI-powered tutor using AI agents, vibe coding with claude or anything like that?
 
-4h ago
+5h ago
 
 ---
 
@@ -73,7 +73,7 @@ hi, been thinking about this a lot lately. i’m currently learning 3 foreign la
 
 Quick rundown of what Meta's done since December: • Dec 2025: Acquired Manus (autonomous web agent) for $2B • Early 2026: Acqui-hired Moltbook team • Scale AI's Alexandr Wang stepped down as CEO to become Meta's first Chief AI Officer • March 23: Dreamer team (agentic AI platform) joins Meta Superintelligence Labs All of these teams are going into one division under Wang. Zuckerberg isn't just building models, he's assembling an entire talent army for agents. The Dreamer one is interesting because they were only in beta for a month before Meta grabbed them. The product let regular people build their own AI agents. Thousands of users already. Feels like Meta is betting everything on agents being the next platform shift, not just chatbots. What do you guys think - is this a smart consolidation play or is Zuck just panic-buying talent because open-source alone isn't enough? Full breakdown here
 
-16h ago
+17h ago
 
 ---
 
@@ -81,7 +81,7 @@ Quick rundown of what Meta's done since December: • Dec 2025: Acquired Manus (
 
 Hello Agenters, I need a few folks who have their AI agent running with some users to test my build. I've build an observability + monitoring + security tool that tracks Hallucinations, Prompt Injection, Bias, Toxicity, PII leak and stuff through different Detectors. It has a bunch of features like Prompt blocking, trace tree with token and cost calculation. I have 2 integration mentions for it: 1) Proxy API (2 line change. Best for no code and quick integration) 2) SDK (Full agent trace and observability) Why we built this We were building AI agents ourselves and kept hitting the same wall:Debugging LLM behavior is painful and messy. Logs weren’t enough, and existing tools felt either too heavy or too limited. So we decided to build something simple, fast, and actually useful for devs. How to try it? Comment below or DM me and I’ll share access + quick setup (takes ~5 mins) Its a free testing. Anyone who loves and wants to continue with us will be upgraded to Pro plan for lifetime.
 
-5h ago
+6h ago
 
 ---
 
@@ -89,7 +89,7 @@ Hello Agenters, I need a few folks who have their AI agent running with some use
 
 can you share some examples? I just started to look on youtube and the first bunch of results were not what i was looking for yet. I don't necessarily want to copy the project , i want see the workflow, the timing and rhythm of the succession of tasks, and be inspired to "port" their method to projects of my own, or come up with new ideas i haven't thougth yet.
 
-2h ago
+3h ago
 
 ---
 
@@ -97,7 +97,7 @@ can you share some examples? I just started to look on youtube and the first bun
 
 "The team trained machine learning models to identify patterns in the data that can tell astronomers the type of event that has been detected, something that AI models excel at. RAVEN is designed to handle the whole exoplanet-detection process in one go — from detecting the signal to vetting it with machine learning and then statistically validating it. That means that it has an additional edge over other contemporary tools that only focus on specific parts of this process ... "RAVEN allows us to analyze enormous datasets consistently and objectively," senior team member and University of Warwick researcher David Armstrong said in the statement. "Because the pipeline is well-tested and carefully validated, this is not just a list of potential planets — it is also reliable enough to use as a sample to map the prevalence of distinct types of planets around sun-like stars." Within the candidate close-in planets, researchers could then determine the types of planets and their populations in detail. This revealed that around 10% of stars like the sun host a close-in planet, validating findings made by TESS's exoplanet-hunting predecessor Kepler. RAVEN was also able to help researchers determine just how rare close-in Neptune-size worlds are, finding that they occur around just 0.08% of sun-like stars. This absence of these worlds close to their parent star is referred to as the "Neptunian desert" by astronomers. "For the first time, we can put a precise number on just how empty this 'desert' is," leader of the Neptunian desert study team, Kaiming Cui of the University of Warwick said in the statement. "These measurements show that TESS can now match, and in some cases surpass, Kepler for studying planetary populations." The RAVEN results demonstrate the power of AI to search through vast swathes of astronomical data to spot subtle effects."
 
-🔗 [Space](https://www.space.com/astronomy/exoplanets/100-new-alien-worlds-scientists-find-hidden-haul-in-data-from-nasa-exoplanet-hunting-spacecraft) • 20h ago
+🔗 [Space](https://www.space.com/astronomy/exoplanets/100-new-alien-worlds-scientists-find-hidden-haul-in-data-from-nasa-exoplanet-hunting-spacecraft) • 21h ago
 
 ---
 
@@ -105,7 +105,7 @@ can you share some examples? I just started to look on youtube and the first bun
 
 Google TurboQuant This is a new compression algorithm. Every time a model answers a question, it stores a massive amount of intermediate data. The longer the conversation - the more expensive it gets. Result: compresses that data 6x+ with no quality loss, giving an 8x speed boost on H100s. No retraining required - it just plugs into an existing model Moonshot AI (Kimi) Attention Residuals The old way: each layer takes its own output and simply adds whatever came from the layer below. The new way: instead of mechanically grabbing just the neighboring layer, the AI itself decides which layer matters right now and how much to take from it. It's the same attention mechanism already used for processing words in text, except now it works not horizontally (between words) but vertically (between layers) Result: +25% training efficiency with under 2% latency overhead, bc the model stops dragging around unnecessary baggage. It routes the right information to the right place more precisely and needs fewer training iterations to get to a good result Andrej Karpathy (one of the top AI researchers on the planet) publicly praised the work. One of the paper's authors is a 17 year old who came up with the idea during an exam What does this mean for business? TurboQuant = less hardware for the same workload, and long context at an affordable price Attention Residuals = cheaper model training
 
-9h ago
+10h ago
 
 ---
 
@@ -113,7 +113,7 @@ Google TurboQuant This is a new compression algorithm. Every time a model answer
 
 Wondering for secure enterprise wide AI usages, what all controls have you implemented? Beyond traditional firewall rules; are there any kill switches that could be implanted?
 
-8h ago
+9h ago
 
 ---
 
@@ -121,9 +121,27 @@ Wondering for secure enterprise wide AI usages, what all controls have you imple
 
 ## Google News: "ai"
 
-**[TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)**
+**[Major outgoing CEOs are citing AI as a factor in their decisions to step down](https://www.cnbc.com/2026/03/26/coca-cola-james-quincey-walmart-doug-mcmillon-artificial-intelligence-step-down.html)**
 
-Research at Google • 2d ago
+Coca-Cola CEO James Quincey and former Walmart CEO Doug McMillon have told CNBC that the next wave of artificial intelligence is a reason for their departures.
+
+CNBC • 6h ago
+
+---
+
+**[AI Just One-Shotted Another CEO](https://gizmodo.com/ai-just-one-shotted-another-ceo-2000738610)**
+
+The old guard is out.
+
+Gizmodo • 2h ago
+
+---
+
+**[Coca-Cola CEO Says He Stepped Down Due to Demands of AI Transformation](https://www.pymnts.com/personnel/2026/coca-cola-ceo-says-he-stepped-down-due-to-demands-of-ai-transformation/)**
+
+The upcoming changes driven by artificial intelligence (AI) played a role in the decision of Coca-Cola CEO James Quincey to step down from his role,
+
+PYMNTS.com • 50m ago
 
 ---
 
@@ -135,67 +153,47 @@ The Guardian • 9h ago
 
 ---
 
-**[Confused about ChatGPT or deepfakes? Here's a crash course on all things AI.](https://www.detroitnews.com/videos/news/2026/03/26/what-is-generative-ai/89336302007/)**
+**[Test AI health care tools with humans who use them, experts say](https://www.axios.com/pro/health-tech-deals/2026/03/26/health-care-ai-tools-assessment)**
 
-Artificial intelligence seems to be here to stay. Here are some things you may want to need to know before downloading a chatbot.
-
-The Detroit News • 47m ago
+Axios • 56m ago
 
 ---
 
-**[AI and bots have officially taken over the internet, report finds](https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html)**
+**[CBS News poll analysis on what things AI, rather than people, should do](https://www.cbsnews.com/news/what-ai-artificial-intelligence-should-do-poll-analysis/)**
 
-HUMAN Security's State of AI Traffic report found that bots have eclipsed human users, with automated traffic growing eight times faster than human activity.
+As AI use rises, many see it decreasing the number of jobs available.
 
-CNBC • 7h ago
-
----
-
-**[A Google AI breakthrough is pressuring memory chip stocks from Samsung to Micron](https://www.cnbc.com/2026/03/26/google-ai-turboquant-memory-chip-stocks-samsung-micron.html)**
-
-SK Hynix, Samsung and Micron shares fell as investors fear fewer memory chips may be required in the future.
-
-CNBC • 9h ago
+CBS News • 24m ago
 
 ---
 
-**[Major outgoing CEOs are citing AI as a factor in their decisions to step down](https://www.cnbc.com/2026/03/26/coca-cola-james-quincey-walmart-doug-mcmillon-artificial-intelligence-step-down.html)**
+**[Attorney Hit With Historic Fine for Citing AI-Generated Cases](https://gizmodo.com/attorney-hit-with-historic-fine-for-citing-ai-generated-cases-2000738651)**
 
-Coca-Cola CEO James Quincey and former Walmart CEO Doug McMillon have told CNBC that the next wave of artificial intelligence is a reason for their departures.
-
-CNBC • 5h ago
-
----
-
-**[AI Just One-Shotted Another CEO](https://gizmodo.com/ai-just-one-shotted-another-ceo-2000738610)**
-
-The old guard is out.
+Don't bother asking AI if the cases are real.
 
 Gizmodo • 1h ago
 
 ---
 
-**[Coca-Cola CEO says AI contributed to his decision to step down](https://seekingalpha.com/news/4569511-coca-cola-ceo-says-ai-contributed-to-his-decision-to-step-down)**
+**[Meta boosts investment in West Texas AI data center by over sixfold to $10 billion](https://www.cnbc.com/2026/03/26/meta-to-spend-10-billion-on-ai-data-center-in-el-paso-1gw-by-2028.html)**
 
-Coca-Cola CEO James Quincey said that the proliferation of AI was a key factor in his decision to step down as CEO. Read more here.
+Meta is increasing investment at a data center in El Paso, Texas, to $10 billion from $1.5 billion, as the company ramps up spending on AI infrastructure.
 
-Seeking Alpha • 2h ago
-
----
-
-**[Today’s Atlantic Trivia: Painters](https://www.theatlantic.com/trivia/2026/03/26-ai-airport-codes-painting/686554/)**
-
-What painter who shares his first name with a popular AI chatbot is known for his monumental depictions of water lilies?
-
-The Atlantic • 1h ago
+CNBC • 2h ago
 
 ---
 
-**[Google’s ‘live’ AI search assistant can handle conversations in dozens more languages](https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion)**
+**[Local Opposition Is Slowing A.I. Data Centers. Wall Street Has Noticed.](https://www.nytimes.com/2026/03/26/business/economy/ai-data-centers-construction-local-opposition.html)**
 
-Google Translate’s real-time translation tool is coming to iOS, too.
+The New York Times • 6h ago
 
-The Verge • 1h ago
+---
+
+**[Meta’s $27 billion AI data center is causing chaos in small town Louisiana](https://fortune.com/2026/03/26/meta-ai-data-center-hyperion-louisiana/)**
+
+In an era of globalization and corporate consolidation, the “pick-and-shovel” ripple spreads very differently. It’s testing assumptions about who actually benefits when a mega-project arrives in town.
+
+Fortune • 13h ago
 
 ---
 
@@ -207,7 +205,7 @@ The Verge • 1h ago
 
 Is anybody else bored of talking about AI?
 
-⬆️ 736 • 💬 515 • 2d ago • [Unfinished Side Projects](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
+⬆️ 737 • 💬 516 • 2d ago • [Unfinished Side Projects](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
 
 ---
 
@@ -221,7 +219,7 @@ Search any airport for real-time delays, weather, arrivals, departures, and perf
 
 **[TurboQuant: Redefining AI efficiency with extreme compression](https://news.ycombinator.com/item?id=47513475)**
 
-⬆️ 533 • 💬 153 • 1d ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
+⬆️ 534 • 💬 153 • 1d ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
 
 ---
 
@@ -245,7 +243,15 @@ For two centuries, the credential system gave intelligence a route to heritable 
 
 The studio giant will no longer move forward with its OpenAI investment, as the AI company exits the video generation business.
 
-⬆️ 206 • 💬 3 • 1d ago • [The Hollywood Reporter](https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/)
+⬆️ 206 • 💬 3 • 2d ago • [The Hollywood Reporter](https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/)
+
+---
+
+**[AI users whose lives were wrecked by delusion](https://news.ycombinator.com/item?id=47530264)**
+
+One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced his sentient friend would make him a fortune. He’s just one of many people who lost control after an AI encounter
+
+⬆️ 173 • 💬 211 • 8h ago • [the Guardian](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion)
 
 ---
 
@@ -257,19 +263,11 @@ I asked experts if I'm real. Bad news. Even my aunt wasn't sure if I was a deepf
 
 ---
 
-**[AI users whose lives were wrecked by delusion](https://news.ycombinator.com/item?id=47530264)**
-
-One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced his sentient friend would make him a fortune. He’s just one of many people who lost control after an AI encounter
-
-⬆️ 164 • 💬 181 • 7h ago • [the Guardian](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion)
-
----
-
 **[The AI Industry Is Lying to You](https://news.ycombinator.com/item?id=47506259)**
 
 Hi! If you like this piece and want to support my independent reporting and analysis, why not subscribe to my premium newsletter? It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5000 to 18,000 words, including
 
-⬆️ 163 • 💬 129 • 2d ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/)
+⬆️ 163 • 💬 130 • 2d ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/)
 
 ---
 
@@ -291,7 +289,7 @@ The truth about Sam Altman. AI Critic Karen Hao reveals what 90 OpenAI employees
 
 📺 The Diary Of A CEO
 
-👁️ 576K • 👍 20K • 💬 4K • ⏱️ 2:09:13 • 12h ago
+👁️ 576K • 👍 20K • 💬 4K • ⏱️ 2:09:13 • 13h ago
 
 ---
 
@@ -301,7 +299,7 @@ Grab the Action Guide https://parker-prompts.com/5-like-5 In this video, I break
 
 📺 Parker Prompts
 
-👁️ 10K • 💬 8 • ⏱️ 12:30 • 7h ago
+👁️ 10K • 💬 8 • ⏱️ 12:30 • 8h ago
 
 ---
 
@@ -311,7 +309,7 @@ Grab the Action Guide https://parker-prompts.com/5-like-5 In this video, I break
 
 📺 Theoretically Media
 
-👁️ 21K • 👍 2K • 💬 545 • ⏱️ 3:34 • 23h ago
+👁️ 21K • 👍 2K • 💬 545 • ⏱️ 3:34 • 1d ago
 
 ---
 
@@ -321,7 +319,7 @@ Iranians are creating high quality videos with AI to mock Trump. Download Rumble
 
 📺 Kim Iversen
 
-👁️ 49K • 👍 5K • 💬 951 • ⏱️ 19:01 • 22h ago
+👁️ 49K • 👍 5K • 💬 951 • ⏱️ 19:01 • 23h ago
 
 ---
 
@@ -341,7 +339,7 @@ AI is changing the world, giving young people terminal brain rot, and stealing o
 
 📺 The Daily Show
 
-👁️ 407K • 👍 12K • 💬 1K • ⏱️ 6:01 • 19h ago
+👁️ 407K • 👍 12K • 💬 1K • ⏱️ 6:01 • 20h ago
 
 ---
 
@@ -361,7 +359,7 @@ Patrick Bet-David and the panel break down how AI agents like Claude are changin
 
 📺 Valuetainment
 
-👁️ 49K • 👍 1K • 💬 183 • ⏱️ 13:13 • 7h ago
+👁️ 49K • 👍 1K • 💬 183 • ⏱️ 13:13 • 8h ago
 
 ---
 
@@ -371,7 +369,7 @@ Patreon: https://patreon.com/FlashbackHistory WANT MORE? - Check out our sister 
 
 📺 Flashback History
 
-👁️ 32K • 👍 6K • 💬 2K • ⏱️ 22:05 • 21h ago
+👁️ 32K • 👍 6K • 💬 2K • ⏱️ 22:05 • 22h ago
 
 ---
 
@@ -381,7 +379,7 @@ Iranian state-linked media (IRIB) and the Islamic Revolutionary Guard Corps (IRG
 
 📺 MIRROR NOW
 
-👁️ 21K • 👍 493 • 💬 213 • ⏱️ 3:06 • 8h ago
+👁️ 21K • 👍 493 • 💬 213 • ⏱️ 3:06 • 9h ago
 
 ---
 
@@ -648,7 +646,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 57.2k • 🔱 8.0k • 20h ago
+⭐ 57.2k • 🔱 8.0k • 21h ago
 
 ---
 
@@ -658,7 +656,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 22.6k • 🔱 1.1k • 1h ago
+⭐ 22.6k • 🔱 1.1k • 2h ago
 
 ---
 
@@ -668,7 +666,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 12.5k • 🔱 669 • 10h ago
+⭐ 12.5k • 🔱 669 • 11h ago
 
 ---
 
@@ -678,7 +676,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 7.5k • 🔱 601 • 39m ago
+⭐ 7.5k • 🔱 601 • 1h ago
 
 ---
 
@@ -728,7 +726,7 @@ Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messag
 
 `Go`
 
-⭐ 3.1k • 🔱 275 • 13h ago
+⭐ 3.1k • 🔱 275 • 14h ago
 
 ---
 
