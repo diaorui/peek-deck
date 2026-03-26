@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-26T12:09:09.740709+00:00'
+updated: '2026-03-26T14:05:42.001663+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - videos
 - news
 - repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 26, 2026 at 12:09 UTC  
+**Last Updated:** March 26, 2026 at 14:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Marriage over, €100,000 down the drain: the AI users whose lives were wrecked by delusion](https://www.reddit.com/r/artificial/comments/1s44cgl/marriage_over_100000_down_the_drain_the_ai_users/)**
+
+One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced his sentient friend would make him a fortune. He’s just one of many people who lost control after an AI encounter
+
+🔗 [the Guardian](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion) • 3h ago
+
+---
+
 **[Pentagon formalizes Palantir's Maven AI as a core military system with multi-year funding — platform's investment grows to $13 billion from $480 million in 2024. The Pentagon is spending $13.4 billion on AI this year alone.](https://www.reddit.com/r/artificial/comments/1s3t064/pentagon_formalizes_palantirs_maven_ai_as_a_core/)**
 
 The Pentagon is spending $13.4 billion on AI this year alone.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/pentagon-formalizes-palantirs-maven-ai-as-a-core-military-system-with-multi-year-funding-platforms-investment-grows-to-usd13-billion-from-usd480-million-in-2024) • 11h ago
-
----
-
-**[Meta just acqui-hired its 4th AI startup in 4 months. Dreamer, Manus, Moltbook, and Scale AI's founder. Is anyone else watching this pattern?](https://www.reddit.com/r/artificial/comments/1s3xr4l/meta_just_acquihired_its_4th_ai_startup_in_4/)**
-
-Quick rundown of what Meta's done since December: • Dec 2025: Acquired Manus (autonomous web agent) for $2B • Early 2026: Acqui-hired Moltbook team • Scale AI's Alexandr Wang stepped down as CEO to become Meta's first Chief AI Officer • March 23: Dreamer team (agentic AI platform) joins Meta Superintelligence Labs All of these teams are going into one division under Wang. Zuckerberg isn't just building models, he's assembling an entire talent army for agents. The Dreamer one is interesting because they were only in beta for a month before Meta grabbed them. The product let regular people build their own AI agents. Thousands of users already. Feels like Meta is betting everything on agents being the next platform shift, not just chatbots. What do you guys think - is this a smart consolidation play or is Zuck just panic-buying talent because open-source alone isn't enough? Full breakdown here
-
-7h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/pentagon-formalizes-palantirs-maven-ai-as-a-core-military-system-with-multi-year-funding-platforms-investment-grows-to-usd13-billion-from-usd480-million-in-2024) • 13h ago
 
 ---
 
@@ -57,7 +57,15 @@ Quick rundown of what Meta's done since December: • Dec 2025: Acquired Manus (
 
 Anthropic dropped three features for Claude Code on Monday, but the interesting one is auto mode. Until now you had two choices: approve every single file write and bash command manually, or use the skip permissions flag which lets the AI do whatever it wants. Auto mode sits in the middle. An AI safety classifier evaluates every tool call in real time. Routine stuff like writing files and running tests gets auto approved. Destructive operations like mass deletion or data exfiltration get blocked. The catch is that Anthropic hasn't published what the classifier allows or blocks. It's a black box ML model making security decisions about your file system. They acknowledged it "may still allow some risky actions" when intent is ambiguous. For side projects that's probably fine but for production codebases I'd want to see the actual rules. They also launched Channels which lets you control Claude Code through Discord and Telegram. This is basically their answer to OpenClaw, the open source project that blew up to 100K+ GitHub stars. Anthropic sent the creator a cease and desist over the original name, he ended up joining OpenAI, and now Anthropic is building the managed alternative themselves. Meanwhile Cursor launched Composer 2 this week but got caught hiding that it's built on Moonshot AI's Kimi K2.5, a Chinese open source model. A developer found out by intercepting API traffic and spotting the model identifier. Cursor's co founder called the omission "an error." And GitHub announced they'll train on Copilot user data by default starting April 24. Curious what people think about the auto mode approach. Would you trust a black box classifier to decide what's safe to execute on your machine, or would you rather just keep approving things manually? This and 2 other interesting AI Trust Issues are written at ai-dev-weekly
 
-1h ago
+3h ago
+
+---
+
+**[Meta just acqui-hired its 4th AI startup in 4 months. Dreamer, Manus, Moltbook, and Scale AI's founder. Is anyone else watching this pattern?](https://www.reddit.com/r/artificial/comments/1s3xr4l/meta_just_acquihired_its_4th_ai_startup_in_4/)**
+
+Quick rundown of what Meta's done since December: • Dec 2025: Acquired Manus (autonomous web agent) for $2B • Early 2026: Acqui-hired Moltbook team • Scale AI's Alexandr Wang stepped down as CEO to become Meta's first Chief AI Officer • March 23: Dreamer team (agentic AI platform) joins Meta Superintelligence Labs All of these teams are going into one division under Wang. Zuckerberg isn't just building models, he's assembling an entire talent army for agents. The Dreamer one is interesting because they were only in beta for a month before Meta grabbed them. The product let regular people build their own AI agents. Thousands of users already. Feels like Meta is betting everything on agents being the next platform shift, not just chatbots. What do you guys think - is this a smart consolidation play or is Zuck just panic-buying talent because open-source alone isn't enough? Full breakdown here
+
+9h ago
 
 ---
 
@@ -65,15 +73,15 @@ Anthropic dropped three features for Claude Code on Monday, but the interesting 
 
 "The team trained machine learning models to identify patterns in the data that can tell astronomers the type of event that has been detected, something that AI models excel at. RAVEN is designed to handle the whole exoplanet-detection process in one go — from detecting the signal to vetting it with machine learning and then statistically validating it. That means that it has an additional edge over other contemporary tools that only focus on specific parts of this process ... "RAVEN allows us to analyze enormous datasets consistently and objectively," senior team member and University of Warwick researcher David Armstrong said in the statement. "Because the pipeline is well-tested and carefully validated, this is not just a list of potential planets — it is also reliable enough to use as a sample to map the prevalence of distinct types of planets around sun-like stars." Within the candidate close-in planets, researchers could then determine the types of planets and their populations in detail. This revealed that around 10% of stars like the sun host a close-in planet, validating findings made by TESS's exoplanet-hunting predecessor Kepler. RAVEN was also able to help researchers determine just how rare close-in Neptune-size worlds are, finding that they occur around just 0.08% of sun-like stars. This absence of these worlds close to their parent star is referred to as the "Neptunian desert" by astronomers. "For the first time, we can put a precise number on just how empty this 'desert' is," leader of the Neptunian desert study team, Kaiming Cui of the University of Warwick said in the statement. "These measurements show that TESS can now match, and in some cases surpass, Kepler for studying planetary populations." The RAVEN results demonstrate the power of AI to search through vast swathes of astronomical data to spot subtle effects."
 
-🔗 [Space](https://www.space.com/astronomy/exoplanets/100-new-alien-worlds-scientists-find-hidden-haul-in-data-from-nasa-exoplanet-hunting-spacecraft) • 12h ago
+🔗 [Space](https://www.space.com/astronomy/exoplanets/100-new-alien-worlds-scientists-find-hidden-haul-in-data-from-nasa-exoplanet-hunting-spacecraft) • 14h ago
 
 ---
 
-**[Marriage over, €100,000 down the drain: the AI users whose lives were wrecked by delusion](https://www.reddit.com/r/artificial/comments/1s44cgl/marriage_over_100000_down_the_drain_the_ai_users/)**
+**[The AI Productivity Paradox: the bottleneck moved from production to consumption, and we have no frameworks for it](https://www.reddit.com/r/artificial/comments/1s47kb0/the_ai_productivity_paradox_the_bottleneck_moved/)**
 
-One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced his sentient friend would make him a fortune. He’s just one of many people who lost control after an AI encounter
+We can produce unlimited output now. We are not ready to receive it.
 
-🔗 [the Guardian](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion) • 1h ago
+🔗 [thoughts.jock.pl](https://thoughts.jock.pl/p/ai-productivity-paradox-wellbeing-agent-age-2026) • 34m ago
 
 ---
 
@@ -81,23 +89,15 @@ One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced
 
 Google TurboQuant This is a new compression algorithm. Every time a model answers a question, it stores a massive amount of intermediate data. The longer the conversation - the more expensive it gets. Result: compresses that data 6x+ with no quality loss, giving an 8x speed boost on H100s. No retraining required - it just plugs into an existing model Moonshot AI (Kimi) Attention Residuals The old way: each layer takes its own output and simply adds whatever came from the layer below. The new way: instead of mechanically grabbing just the neighboring layer, the AI itself decides which layer matters right now and how much to take from it. It's the same attention mechanism already used for processing words in text, except now it works not horizontally (between words) but vertically (between layers) Result: +25% training efficiency with under 2% latency overhead, bc the model stops dragging around unnecessary baggage. It routes the right information to the right place more precisely and needs fewer training iterations to get to a good result Andrej Karpathy (one of the top AI researchers on the planet) publicly praised the work. One of the paper's authors is a 17 year old who came up with the idea during an exam What does this mean for business? TurboQuant = less hardware for the same workload, and long context at an affordable price Attention Residuals = cheaper model training
 
-1h ago
+3h ago
 
 ---
 
 **[we made a community repo of AI agent setups and configs, just hit 100 stars with 90 PRs](https://www.reddit.com/r/artificial/comments/1s44czb/we_made_a_community_repo_of_ai_agent_setups_and/)**
 
-quick share for folks who build stuff with AI agents we started this repo because setting up AI agent workflows from scratch every single time is genuinely annoying. cursor rules, claude code configs, agent pipelines all that stuff. so we just open sourced the whole library and made it community maintained people can grab ready made setups or contribute their own. this week we crossed 100 stars and 90 merged PRs which means the community is actually vibing with the idea, not just window shopping also 20 open issues so its an active project if u want to jump in link: https://github.com/pieces-app/ai-agent-setups also have an AI builders discord here: https://discord.gg/AeykCFHvDz
+quick share for folks who build stuff with AI agents we started this repo because setting up AI agent workflows from scratch every single time is genuinely annoying. cursor rules, claude code configs, agent pipelines all that stuff. so we just open sourced the whole library and made it community maintained people can grab ready made setups or contribute their own. this week we crossed 100 stars and 90 merged PRs which means the community is actually vibing with the idea, not just window shopping also 20 open issues so its an active project if u want to jump in link: https://github.com/caliber-ai-org/ai-setup also have an AI builders discord here: https://discord.gg/u3dBECnHYs
 
-1h ago
-
----
-
-**[I open-sourced an always-on direct bridge between your LLM and your Mac. "Hey Q, read my screen and reply to this Slack message" please meet CODEC](https://www.reddit.com/r/artificial/comments/1s432by/i_opensourced_an_alwayson_direct_bridge_between/)**
-
-TL;DR: Meet CODEC—a completely open-source tool that transforms any LLM into a personal computer agent. You can command it via text or voice to look at your screen, type, manage your apps, run commands, and even code its own plugins. Also new: you can now control everything remotely from your phone using a Cloudflare tunnel. It’s 100% local and free—no cloud, no subscriptions, and zero data leaving your hardware. I’ll cut right to the chase because the actual use cases are what matter here. Imagine just saying, "Hey Q, open Chrome and search for Tokyo flights next Monday," and watching your browser do exactly that. (I use "Q" as a shortcut for Qwen, running locally on my Mac Studio 35b a3b MLX). 💬 It reads your screen and types for you: If you say "draft a reply saying I'll look at it tonight," it looks at your screen, reads the active Slack or email, writes a polished response, and pastes it into the chat box. 👁️ It has full vision and voice: You can ask what's on your monitor, and it uses a vision model to describe it. Ask for a Japanese translation, and it speaks it back. 🎵 It controls your system: Tell it to remind you about a PR at 3 PM, and it makes an Apple Reminder. Tell it to play Spotify, skip tracks, or adjust volume, and it handles it natively. 🐍 It writes its own code: If I say "create a skill to check my Proxmox node," it writes a Python plugin, saves it, and runs it instantly without needing a reboot. All of this runs entirely privately and for free, triggered by voice, keyboard, or a wake word. 🌍 But the remote features are next level: Let's say I'm at a restaurant. I can pull up codec.mydomain.com on my phone (secured via Cloudflare Zero Trust) and type "check the backup script." My Mac runs it and sends the results—no SSH or VPN needed. 🛠️ Setting up the phone dashboard is also insanely simple. It's just two Python files: a FastAPI backend and a vanilla HTML front end. There's no React, no npm installs, and no build steps. You just clone the repo, run python3 codec_dashboard.py, point a Cloudflare Tunnel at port 8090, and add Zero Trust email auth. Boom. Your phone is securely talking to your machine through your own domain. 🔒 What I love most is the privacy. You aren't relying on Telegram to relay system commands through their servers. You aren't giving a Discord bot access to your local files, or letting a WhatsApp API scrape your AI conversations. It is completely direct, encrypted, and yours. 🛡️ Of course, giving an AI control of your OS sounds sketchy, which is why the security is baked right in. There's a dangerous command blocker that catches over 20 red-flag patterns (like sudo, rm -rf, or killall) and hits you with a Y/N prompt before anything actually runs. Everything the agent does is timestamped in a local ~/.codec/audit.log. You can even use a "dry-run" mode to safely preview actions without executing them. Oh, and the wake word detection has noise filtering, so a movie playing in the background won't accidentally trigger a random command. ⚡ Zero-latency skills: > Because speed is everything, CODEC has 15 built-in skills that fire instantly without even waking up the LLM. Things like the calculator, weather, system info, web search, timers with voice alerts, Spotify, Apple Notes, and even the self-writing skill creator run completely locally and instantaneously. 🧠 It works with anything: > You're not locked into a specific ecosystem. It works with Ollama, LM Studio, MLX (which absolutely flies on Apple Silicon), OpenAI, Anthropic, the Gemini free tier, or literally any OpenAI-compatible endpoint. For voice, it uses Whisper for speech-to-text, and Kokoro 82M for text-to-speech. Kokoro is ridiculously fast on M-series chips and gives you a rock-solid, consistent voice every single time. 💻 Multi-machine setups are a breeze: > Say you run a heavy model like Qwen 3.5 35B on your Mac Studio. You can use your MacBook Air as a lightweight "thin client" over your LAN. The Air doesn't need any models installed on it—it just beams your voice to the Studio's Whisper, gets the LLM's answer, and plays back the audio from Kokoro. 🐍 Built for builders: > Under the hood, the entire architecture is Python. Two files for the agent, two for the phone dashboard, a Whisper server, a skills folder, and a config file. A setup wizard handles the rest. Honestly, this is it. This is the AI operating system I actually wanted to use. I've spent the last year studying and building with AI full-time, and poured the last 10 intense days into making CODEC a reality. Because it has this much root-level system access, I knew it had to be completely open-source. I want you guys to save it, star it, clone it, tear it apart, and tell me what I missed! git clone https://github.com/AVADSA25/codec cd codec pip3 install pynput sounddevice soundfile numpy requests simple-term-menu brew install sox python3 setup_codec.py python3 codec.py Mickaël Farina — AVA Digital
-
-2h ago
+3h ago
 
 ---
 
@@ -109,11 +109,11 @@ What if building more and more datacenters was not the only option? If we are ab
 
 ---
 
-**[Google Gemini still has no native chat export in 2025. Here's how I solved it for my research workflow.](https://www.reddit.com/r/artificial/comments/1s40w44/google_gemini_still_has_no_native_chat_export_in/)**
+**[we built an open source library of AI agent prompts and configs, just hit 100 stars](https://www.reddit.com/r/artificial/comments/1s4549n/we_built_an_open_source_library_of_ai_agent/)**
 
-One thing that's always bothered me about Gemini: you can run a 30-minute Deep Research session, get an incredible research report with 40+ citations, and then... there's no export button. Not even copy-to-clipboard for the formatted version. Compare this to ChatGPT which has had a built-in export function for a while now. My workflow is heavy Gemini use for research, then piping the output into Obsidian for long-form writing. The lack of export was a constant manual friction point. I ended up building a Chrome extension to solve this: Gemini Export Studio. What it does: - Export to PDF, Markdown (Obsidian-ready), JSON, CSV, Plain Text, or PNG - Deep Research exports with citations preserved inline - Merge multiple chats into one document - PII scrubbing (auto-redacts emails/names before sharing) - 100% local processing, no servers, no account It's free. Link in comments to avoid spam filter. Curious if others have hit this same wall with Gemini and what workarounds you've used.
+yo so i been grinding on AI agents for a while now and honestly the biggest pain is everyone reinventing the wheel with system prompts and configs so we went ahead and built a community repo where ppl can share whats actually working. agent prompts, cursor rules, claude configs, workflow setups etc. 100% free and open source just hit 100 stars and 90 merged PRs which lowkey surprised us. the community is genuinely contributing good stuff if ur building agents or just wanna steal some solid prompts drop by: https://github.com/caliber-ai-org/ai-setup also got a discord for the AI SETUPS community if u wanna jam with others building this stuff: https://discord.gg/u3dBECnHYs would love more people contributing their setups
 
-4h ago
+2h ago
 
 ---
 
@@ -121,33 +121,57 @@ One thing that's always bothered me about Gemini: you can run a 30-minute Deep R
 
 ## Google News: "ai"
 
-**[Meta Lays Off 700 Employees, While Rewarding Top Executives](https://www.nytimes.com/2026/03/25/technology/meta-layoffs-ai-executives.html)**
+**[Marriage over, €100,000 down the drain: the AI users whose lives were wrecked by delusion](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion)**
 
-The New York Times • 16h ago
+One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced his sentient friend would make him a fortune. He’s just one of many people who lost control after an AI encounter
 
----
-
-**[China bars executives at Meta-owned AI company from leaving country](https://www.washingtonpost.com/national-security/2026/03/25/meta-manus-china-executives-banned/)**
-
-Manus’s CEO and chief scientist are facing scrutiny from Beijing over the company’s $2 billion sale to Meta.
-
-The Washington Post • 6h ago
+The Guardian • 2h ago
 
 ---
 
-**[Worker productivity is on the rise. How much is because of AI is hard to say.](https://finance.yahoo.com/news/worker-productivity-is-on-the-rise-how-much-is-because-of-ai-is-hard-to-say-100050996.html)**
+**[Melania Trump brings an AI-powered robot to the White House — and says there could be more of them soon](https://www.cnn.com/2026/03/25/politics/melania-trump-ai-robot)**
 
-Rising worker productivity numbers are often revised away. It's important to keep that in mind as we begin to judge the initial impact of AI.
+The storied White House East Room has welcomed politicians, foreign dignitaries, war heroes, celebrities and elite athletes, but on Wednesday, it was the setting for an extremely robotic speech introducing first lady Melania Trump.
 
-Yahoo Finance • 2h ago
+CNN • 20h ago
 
 ---
 
-**[Lyria 3 Pro: Create longer tracks in more Google products](https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/)**
+**[Meet Figure AI: The company behind the humanoid robot hosted by Melania Trump](https://www.cnbc.com/2026/03/26/figure-ai-the-robotics-company-hosted-by-melania-trump.html)**
 
-We are bringing Lyria 3 to the tools where professionals work and create every day.
+The White House hosted its first humanoid robot guest, with first lady Melania Trump appearing alongside a robot from startup Figure AI.
 
-blog.google • 20h ago
+CNBC • 4h ago
+
+---
+
+**[Tom Brady helped bring robot massages to Indiana. What to know about them](https://www.indystar.com/story/life/2026/03/26/ai-robot-massages-tom-brady-indiana-purdue-university-union-club-hotel/89329134007/)**
+
+An Indiana spa is offering full AI-powered robot massages.
+
+IndyStar • 8m ago
+
+---
+
+**[Axios AI+DC Summit: The U.S. Constitution should protect state-level AI regulation, Rep. Ross says](https://www.axios.com/2026/03/26/axios-aidc-summit-the-us-constitution-should-protect-state-level-ai-regulation-rep-ross-says)**
+
+Axios • 2m ago
+
+---
+
+**[From ashes to AI, Oregon’s high-tech push to battle wildfires](https://katu.com/news/local/from-ashes-to-ai-oregons-high-tech-push-to-battle-wildfires-oregon-department-forestry-columbia-river-gorge-rowena-fire-cameras-cole-lindsay)**
+
+There’s a new artificial intelligence tool that could help crews battle wildfires.READ MORE |PCC, classified employees union reach tentative deal that could en
+
+KATU • 14m ago
+
+---
+
+**[AI may be covertly guiding your gardening, but it has benefits](https://www.adn.com/alaska-life/gardening/2026/03/26/ai-may-be-covertly-guiding-your-gardening-but-it-has-positive-uses/)**
+
+While they may be pushing you toward specific purchases, a number of AI-driven apps are helpful in identifications.
+
+Anchorage Daily News • 10m ago
 
 ---
 
@@ -155,45 +179,21 @@ blog.google • 20h ago
 
 SK Hynix, Samsung and Micron shares fell as investors fear fewer memory chips may be required in the future.
 
-CNBC • 1h ago
+CNBC • 3h ago
 
 ---
 
-**[Google TurboQuant Puts Western Digital AI Storage Growth In Focus](https://finance.yahoo.com/markets/stocks/articles/google-turboquant-puts-western-digital-070447234.html)**
+**[Lyria 3 Pro: Create longer tracks in more Google products](https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/)**
 
-Google has introduced TurboQuant, a new algorithm designed to cut AI memory requirements, prompting questions about future demand for storage and memory. The announcement has drawn attention to major suppliers such as Western Digital (NasdaqGS:WDC), as investors reassess assumptions about AI driven hardware needs. The news has triggered an immediate market reaction, suggesting that investors view the development as material for memory and storage providers. Western Digital, a key provider...
+We are bringing Lyria 3 to the tools where professionals work and create every day.
 
-Yahoo Finance • 5h ago
-
----
-
-**[Behind the Curtain: How Anthropic's Pentagon deal could get revived](https://www.axios.com/2026/03/26/anthropic-pentagon-ai-deal)**
-
-Axios • 2h ago
+blog.google • 21h ago
 
 ---
 
-**[Updates to GitHub Copilot interaction data usage policy](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/)**
+**[Google’s TurboQuant Compression Could Increase Demand For AI Memory](https://www.forbes.com/sites/tomcoughlin/2026/03/26/googles-turboquant-compression-could-increase-demand-for-ai-memory/)**
 
-From April 24 onward, interaction data from Copilot Free, Pro, and Pro+ users will be used to train and improve our AI models unless they opt out.
-
-The GitHub Blog • 17h ago
-
----
-
-**[Palantir’s billionaire CEO says only two kinds of people will succeed in the AI era: trade workers — ‘or you’re neurodivergent’](https://fortune.com/2026/03/24/palantir-ceo-alex-karp-two-people-successful-in-ai-era-vocational-skills-neurodivergence-gen-z-career-advice/)**
-
-Billionaire Alex Karp tells Gen Z to skip elite college degrees, as one-fifth of Fortune 500 companies recruit more neurodivergent talent by 2027.
-
-Fortune • 1d ago
-
----
-
-**[AI got the blame for the Iran school bombing. The truth is far more worrying](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)**
-
-LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. Instead, it was choices made by human beings, over many years, that gave us this atrocity
-
-The Guardian • 6h ago
+Forbes • 49m ago
 
 ---
 
@@ -205,7 +205,7 @@ The Guardian • 6h ago
 
 Is anybody else bored of talking about AI?
 
-⬆️ 726 • 💬 514 • 1d ago • [Unfinished Side Projects](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
+⬆️ 730 • 💬 514 • 1d ago • [Unfinished Side Projects](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
 
 ---
 
@@ -213,13 +213,13 @@ Is anybody else bored of talking about AI?
 
 Search any airport for real-time delays, weather, arrivals, departures, and performance insights powered by Flighty.
 
-⬆️ 548 • 💬 180 • 1d ago • [Flighty](https://flighty.com/airports)
+⬆️ 551 • 💬 182 • 1d ago • [Flighty](https://flighty.com/airports)
 
 ---
 
 **[TurboQuant: Redefining AI efficiency with extreme compression](https://news.ycombinator.com/item?id=47513475)**
 
-⬆️ 518 • 💬 144 • 1d ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
+⬆️ 522 • 💬 145 • 1d ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
 
 ---
 
@@ -227,7 +227,7 @@ Search any airport for real-time delays, weather, arrivals, departures, and perf
 
 Practical AI R&D
 
-⬆️ 443 • 💬 410 • 1d ago • [Answer.AI](https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html)
+⬆️ 444 • 💬 410 • 1d ago • [Answer.AI](https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html)
 
 ---
 
@@ -235,7 +235,7 @@ Practical AI R&D
 
 For two centuries, the credential system gave intelligence a route to heritable capital. Artificial intelligence is closing that route. This essay builds the argument from first principles - with probability theory, interactive simulations, and a prediction specific enough to be falsifiable - and puts a number on the window that remains.
 
-⬆️ 267 • 💬 395 • 1d ago • [Daniel Homola](https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/)
+⬆️ 267 • 💬 402 • 1d ago • [Daniel Homola](https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/)
 
 ---
 
@@ -243,7 +243,7 @@ For two centuries, the credential system gave intelligence a route to heritable 
 
 cq explores a Stack Overflow for agents, a shared commons where agents can query past learnings, contribute new knowledge, and avoid repeating the same mistakes in isolation.
 
-⬆️ 220 • 💬 98 • 2d ago • [Mozilla.ai](https://blog.mozilla.ai/cq-stack-overflow-for-agents/)
+⬆️ 221 • 💬 98 • 2d ago • [Mozilla.ai](https://blog.mozilla.ai/cq-stack-overflow-for-agents/)
 
 ---
 
@@ -259,7 +259,7 @@ The studio giant will no longer move forward with its OpenAI investment, as the 
 
 I asked experts if I'm real. Bad news. Even my aunt wasn't sure if I was a deepfake. AI is so convincing that a sitting prime minister struggled to prove he's alive. You might be next.
 
-⬆️ 161 • 💬 179 • 1d ago • [bbc.com](https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake)
+⬆️ 165 • 💬 185 • 1d ago • [bbc.com](https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake)
 
 ---
 
@@ -275,7 +275,7 @@ Hi! If you like this piece and want to support my independent reporting and anal
 
 Contribute to AmElmo/proofshot development by creating an account on GitHub.
 
-⬆️ 151 • 💬 96 • 2d ago • [GitHub](https://github.com/AmElmo/proofshot)
+⬆️ 152 • 💬 96 • 2d ago • [GitHub](https://github.com/AmElmo/proofshot)
 
 ---
 
@@ -289,7 +289,7 @@ The truth about Sam Altman. AI Critic Karen Hao reveals what 90 OpenAI employees
 
 📺 The Diary Of A CEO
 
-👁️ 124K • 👍 7K • 💬 1K • ⏱️ 2:09:13 • 4h ago
+👁️ 124K • 👍 7K • 💬 1K • ⏱️ 2:09:13 • 6h ago
 
 ---
 
@@ -299,7 +299,7 @@ The truth about Sam Altman. AI Critic Karen Hao reveals what 90 OpenAI employees
 
 📺 Theoretically Media
 
-👁️ 16K • 👍 2K • 💬 485 • ⏱️ 3:34 • 15h ago
+👁️ 16K • 👍 2K • 💬 485 • ⏱️ 3:34 • 17h ago
 
 ---
 
@@ -319,7 +319,7 @@ We've found a fantastic new free AI tool that lets anyone create amazing video c
 
 📺 Africa Amaze
 
-👁️ 6K • 👍 365 • 💬 115 • ⏱️ 8:19 • 23h ago
+👁️ 6K • 👍 365 • 💬 115 • ⏱️ 8:19 • 1d ago
 
 ---
 
@@ -329,7 +329,7 @@ AI is changing the world, giving young people terminal brain rot, and stealing o
 
 📺 The Daily Show
 
-👁️ 284K • 👍 9K • 💬 823 • ⏱️ 6:01 • 11h ago
+👁️ 284K • 👍 9K • 💬 823 • ⏱️ 6:01 • 13h ago
 
 ---
 
@@ -339,7 +339,7 @@ Grab your free seat to the 2-Day AI Mastermind here: https://link.outskill.com/T
 
 📺 The Tesla Space
 
-👁️ 81K • 👍 3K • 💬 221 • ⏱️ 12:44 • 17h ago
+👁️ 81K • 👍 3K • 💬 221 • ⏱️ 12:44 • 19h ago
 
 ---
 
@@ -359,7 +359,7 @@ Subscribe: https://www.youtube.com/@Oprah?sub_confirmation=1 Artificial Intellig
 
 📺 Oprah
 
-👁️ 404K • 👍 181 • ⏱️ 1:09:56 • 14h ago
+👁️ 404K • 👍 181 • ⏱️ 1:09:56 • 16h ago
 
 ---
 
@@ -431,7 +431,7 @@ daVinci-MagiHuman is a fast, single-stream Transformer model for generating high
 
 `image-to-video`
 
-⬇️ 273 • ❤️ 174 • 22h ago
+⬇️ 273 • ❤️ 174 • 1d ago
 
 ---
 
@@ -640,7 +640,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 56.8k • 🔱 7.9k • 12h ago
+⭐ 56.8k • 🔱 7.9k • 13h ago
 
 ---
 
@@ -650,7 +650,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 22.6k • 🔱 1.1k • 18h ago
+⭐ 22.6k • 🔱 1.1k • 20h ago
 
 ---
 
@@ -660,7 +660,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 12.4k • 🔱 661 • 1h ago
+⭐ 12.4k • 🔱 661 • 3h ago
 
 ---
 
@@ -670,7 +670,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 7.4k • 🔱 587 • 58m ago
+⭐ 7.4k • 🔱 587 • 2h ago
 
 ---
 
@@ -680,7 +680,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 7.0k • 🔱 1.1k • 18h ago
+⭐ 7.0k • 🔱 1.1k • 20h ago
 
 ---
 
@@ -710,7 +710,7 @@ AI-native design editor. Open-source Figma alternative.
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 283 • 17h ago
+⭐ 3.2k • 🔱 283 • 19h ago
 
 ---
 
@@ -720,7 +720,7 @@ Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messag
 
 `Go`
 
-⭐ 3.1k • 🔱 273 • 5h ago
+⭐ 3.1k • 🔱 273 • 7h ago
 
 ---
 

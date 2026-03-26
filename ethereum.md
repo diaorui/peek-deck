@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-26T12:09:09.753477+00:00'
+updated: '2026-03-26T14:05:42.015120+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - videos
 - cryptocurrency
 - news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 26, 2026 at 12:09 UTC  
+**Last Updated:** March 26, 2026 at 14:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,077.59
+### $2,068.56
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -5.4%  
-**7d:** -3.7%  
-**30d:** +0.4%  
-**90d:** -30.0%  
-**1y:** +3.2%  
+**24h:** -3.9%  
+**7d:** -3.0%  
+**30d:** +1.2%  
+**90d:** -29.5%  
+**1y:** +4.0%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+9h ago
+
+---
+
+**[Bitcoin.com Checkout has added support for ETH, and ERC-20 tokens in their app! Now any merchant can accept ETH, USDT, USDC, and more with NO KYC and available anywhere in the world!](https://www.reddit.com/r/ethereum/comments/1s450e6/bitcoincom_checkout_has_added_support_for_eth_and/)**
+
+Accept crypto payments in seconds, across Bitcoin, stablecoins, and more with Bitcoin.com Checkout.
+
+🔗 [Bitcoin.com Checkout](https://checkout.bitcoin.com/) • 2h ago
 
 ---
 
@@ -80,13 +88,21 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Been building an x402 gate way for my local business site builder. I want to experiment with x402 more for deliverables outside of the "typical" things (e.g.: simple api calls etc.) as I believe the potential is actually a lot bigger than that. I think it can be used for "bigger" agentic deliverables, e.g.: with this you get a full pipeline (llm research, google places search, image analysis, brand guidemap etc. which than gets molded into a one pager). Changes the game from "cheap api calls" to bigger deliverables. Feel free to play around with it and let me know what you think! Anyone else doing stuff sort of out of the most comon use cases with x402?
 
-2h ago
+4h ago
+
+---
+
+**[The State of the Blockchain Industry, and Where Ethereum Fits](https://www.reddit.com/r/ethereum/comments/1s46kge/the_state_of_the_blockchain_industry_and_where/)**
+
+As I write this in the first week of January 2026, the new year is just beginning. If 2025 was the Year of the Snake — a time associated…
+
+🔗 [Medium](https://medium.com/@james_allan/the-state-of-the-blockchain-industry-and-where-kaspa-fits-c75371725255) • 1h ago
 
 ---
 
 **[Pay.eth for sale](https://www.reddit.com/r/ethereum/comments/1s42qh3/payeth_for_sale/)**
 
-🔗 [X (formerly Twitter)](https://x.com/not_pr0) • 2h ago
+🔗 [X (formerly Twitter)](https://x.com/not_pr0) • 4h ago
 
 ---
 
@@ -100,7 +116,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Sent ETH to Abstract Global Wallet on wrong network — any chance of recovery?](https://www.reddit.com/r/ethereum/comments/1s3mdo6/sent_eth_to_abstract_global_wallet_on_wrong/)**
 
-15h ago
+17h ago
 
 ---
 
@@ -128,22 +144,6 @@ Been holding ETH for a while and thinking about staking. With 32 ETH still being
 
 ---
 
-**[Where do validators and miners of various blockchains communicate?](https://www.reddit.com/r/ethereum/comments/1s2una3/where_do_validators_and_miners_of_various/)**
-
-I've always wanted to know more about the world of the unsung heroes in blockchain. Those, being the validators and miners. How do validators of various blockchains communicate? Is there a place where I can peek into their world, (if any exist) where I can submerge myself in how they think, what they find valuable, and generally ask a tonne of questions? I understand the answer will vary from ecosystem to ecosystem. But yes, please assist. Where can I find validator groups and communication channels, any common I can communicate with them. Thanks,
-
-1d ago
-
----
-
-**[Daily General Discussion March 24, 2026](https://www.reddit.com/r/ethereum/comments/1s24nay/daily_general_discussion_march_24_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,31 +156,49 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum ‘Mini Crypto Winter’ Nears End as Bitmine Adds 65,341 ETH, Tom Lee Says](https://finance.yahoo.com/markets/crypto/articles/ethereum-mini-crypto-winter-nears-100552914.html)**
+**[Tom Lee's Bitmine debuts MAVAN Ethereum staking platform, plans to shift its ETH activity](https://www.theblock.co/post/395080/tom-lees-bitmine-debuts-mavan-ethereum-staking-platform-plans-to-shift-its-eth-activity)**
 
-Bitmine just bought the Ethereum dip. Good enough. 65,341 ETH acquired since March 16. Around $140 million at current prices. Total crypto and cash holdings now sit at $11 billion, making Bitmine the largest Ethereum treasury holder on the planet.ETH is trading near $2,150, down more than 30% from its ...
+Bitmine officially launched the MAVAN Ethereum staking platform, targeting roughly $300 million in annual rewards.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin, XRP, Ethereum Drop as Iran Rejects Trump Peace Plan. Why War Is Hitting Cryptos. -- Barrons.com](https://www.moomoo.com/news/post/67452705/bitcoin-xrp-ethereum-drop-as-iran-rejects-trump-peace-plan)**
-
-Moomoo • 3h ago
+The Block • 23h ago
 
 ---
 
-**[First BlackRock, now Bitmine. Will Tom Lee’s Ethereum staking play save share price?](https://finance.yahoo.com/markets/crypto/articles/first-blackrock-now-bitmine-tom-100422887.html)**
+**[Current price of Ethereum for March 26, 2026](https://fortune.com/article/price-of-ethereum-03-26-2026/)**
 
-The Made In America VAlidator Network, Bitmine’s Ethereum staking product, is now live. Over 30% of Ethereum’s total circulating supply is now staked. Bitmine's shares are down 66% since October.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Yahoo Finance • 2h ago
+Fortune • 55m ago
 
 ---
 
-**[Ethereum’s Glamsterdam Upgrade Explained: Key Changes, Timeline and Why It Matters](https://www.ccn.com/education/crypto/ethereum-glamsterdam-upgrade-key-changes-timeline-impact/)**
+**[Bitcoin, XRP, Ethereum Drop as Iran Rejects Trump Peace Plan. Why War Is Hitting Cryptos.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqcefV7QqnHabOpSswty3Pakw2RUCQ9f82nqJQu2z0qXXfMYOwiQDDQJ&gaa_ts=69c540a0&gaa_sig=HNlUFrf2l3EFiVmfKydgmj957KwnQYy_DNZp-n4Tvbh80tdTFQVnEqt6ni14K08BRJdhys46iV9k8c1e-fr95Q%3D%3D)**
 
-CCN.com • 1h ago
+Barron's • 5h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP send mixed cues, leaning slightly bearish](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-send-mixed-cues-leaning-slightly-bearish-202603250333)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are showing mixed signals on Wednesday as market momentum shows signs of fatigue. BTC holds its recent recovery, now nearing its key resistance, while ETH struggles below a critical level, and XRP’s momentum indicators tilt slightly bearish.
+
+FXStreet • 1d ago
+
+---
+
+**[Dogecoin, Ethereum, Gold Trades On Your Mind? Here's What This Top Analyst Has Projected For The Coming Few Days](https://finance.yahoo.com/markets/crypto/articles/dogecoin-ethereum-gold-trades-mind-133108468.html)**
+
+A leading cryptocurrency analyst on Tuesday projected significant volatility for Dogecoin in the days ahead, while outlining a rosy outlook for gold. Which Way Is DOGE Headed? Ali Martinez took to X, highlighting a descending triangle formation on Dogecoin's 4-hour...
+
+Yahoo Finance • 34m ago
+
+---
+
+**[First BlackRock, now Bitmine. Will Tom Lee’s Ethereum staking play save share price?](https://www.dlnews.com/articles/markets/bitmine-and-tom-lee-make-ethereum-staking-play-as-share-price-dips/)**
+
+The Made In America VAlidator Network, Bitmine’s Ethereum staking product, is now live.  Over 30% of Ethereum’s total circulating supply is now staked. Bitmine's shares are down 66% since October.
+
+dlnews.com • 3h ago
 
 ---
 
@@ -188,29 +206,13 @@ CCN.com • 1h ago
 
 Crypto entrepreneur Nic Carter has urged Bitcoin developers to catch up on quantum resistance or risk losing out to Ethereum, which already has a post-quantum roadmap. Elliptic curve cryptography (ECC) is the math that keeps Bitcoin (BTC) secure. Users pick a secret number (private key) and, using…
 
-TradingView • 6h ago
+TradingView • 8h ago
 
 ---
 
-**[Ethereum news (ETH): Aave, Ethena leaders outline push to build onchain fixed income markets in DeFi](https://www.coindesk.com/business/2026/03/24/crypto-finance-is-beginning-to-look-at-lot-more-traditional-aave-and-ethena-founders-say)**
+**[Ethereum’s Glamsterdam Upgrade Explained: Key Changes, Timeline and Why It Matters](https://www.ccn.com/education/crypto/ethereum-glamsterdam-upgrade-key-changes-timeline-impact/)**
 
-Until recently, crypto users mostly traded tokens or borrowed against them, often chasing high but unpredictable yields. But new tools are making it possible to lock in returns, even in a market known for big swings.
-
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin, Ethereum, XRP Rise. How the Iran War Has Made Crypto Calls Tougher.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqcJIGTrfjuzFomAd-7b1eyVw-SnUPDdOnph_jKKEqcqfI_19AaSEmsm&gaa_ts=69c51b5a&gaa_sig=nBZoJvEtI0rW9DqqI77IwtNMXzLh2ksw9dQks6o2OsQC9ZB-U4ofRWvW_MYAKOJRSLGVf5SRHX18EeZCznUJOA%3D%3D)**
-
-Barron's • 2d ago
-
----
-
-**[Current price of Ethereum for March 25, 2026](https://fortune.com/article/price-of-ethereum-03-25-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 22h ago
+CCN.com • 3h ago
 
 ---
 
@@ -232,7 +234,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free https://go.ted
 
 📺 MONEY GAME
 
-👁️ 5K • 👍 207 • 💬 24 • ⏱️ 12:42 • 17h ago
+👁️ 5K • 👍 207 • 💬 24 • ⏱️ 12:42 • 19h ago
 
 ---
 
@@ -252,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 106 • 💬 4 • ⏱️ 5:07 • 9h ago
+👁️ 1K • 👍 106 • 💬 4 • ⏱️ 5:07 • 11h ago
 
 ---
 
@@ -262,7 +264,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 64 • 👍 4 • 💬 2 • ⏱️ 4:33 • 2h ago
+👁️ 64 • 👍 4 • 💬 2 • ⏱️ 4:33 • 4h ago
 
 ---
 
@@ -282,7 +284,7 @@ Agar aap abhi crypto market me bullish feel kar rahe hain… toh ek baar ye vide
 
 📺 Earn With Sapna
 
-👁️ 864 • 👍 103 • 💬 7 • ⏱️ 8:10 • 2h ago
+👁️ 864 • 👍 103 • 💬 7 • ⏱️ 8:10 • 4h ago
 
 ---
 
@@ -292,7 +294,7 @@ BITCOIN & CRYPTO: Another Squeeze Starts Soon!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 6K • 👍 254 • 💬 171 • ⏱️ 16:33 • 12h ago
+👁️ 6K • 👍 254 • 💬 171 • ⏱️ 16:33 • 14h ago
 
 ---
 
@@ -302,7 +304,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 4K • 👍 742 • 💬 62 • ⏱️ 8:48 • 7h ago
+👁️ 4K • 👍 742 • 💬 62 • ⏱️ 8:48 • 9h ago
 
 ---
 
@@ -312,7 +314,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 KhamitHEthics
 
-👁️ 5K • 👍 27 • 💬 14 • ⏱️ 18:01 • 11h ago
+👁️ 5K • 👍 27 • 💬 14 • ⏱️ 18:01 • 13h ago
 
 ---
 
@@ -322,7 +324,7 @@ BIG PROBLEM Altcoin Season is CANCELED BlackRock Larry Fink “Bitcoin and Ether
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 431 • 💬 35 • ⏱️ 26:18 • 17h ago
+👁️ 6K • 👍 431 • 💬 35 • ⏱️ 26:18 • 19h ago
 
 ---
 

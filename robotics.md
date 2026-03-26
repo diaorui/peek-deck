@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-26T12:09:09.756837+00:00'
+updated: '2026-03-26T14:05:42.017960+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 26, 2026 at 12:09 UTC  
+**Last Updated:** March 26, 2026 at 14:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/2034708938269036686
 
-23h ago
+1d ago
 
 ---
 
 **[Figure 03 becomes the first humanoid robot to visit the White House](https://www.reddit.com/r/robotics/comments/1s3epc8/figure_03_becomes_the_first_humanoid_robot_to/)**
 
-20h ago
+22h ago
 
 ---
 
@@ -50,13 +50,7 @@ From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/20347089382690366
 
 AI-driven robotic hand with 21+ DoF and sub-millimeter precision, capable of delicate tasks like threading and micro-assembly. Uses tendon-driven actuation and real-time feedback for high consistency in controlled environments.
 
-19h ago
-
----
-
-**[“They are coming for our jobs..”](https://www.reddit.com/r/robotics/comments/1s3aomh/they_are_coming_for_our_jobs/)**
-
-22h ago
+21h ago
 
 ---
 
@@ -64,19 +58,31 @@ AI-driven robotic hand with 21+ DoF and sub-millimeter precision, capable of del
 
 I recently started working with the TurtleBot3 simulation in Gazebo using ROS2. So far, I’ve: - Cloned and launched the TB3 simulation - Explored basic movement and sensor data (LiDAR) - Started looking into the code/configs for SLAM and Nav2 While going through the stack, I realized things get complex pretty quickly — especially understanding how SLAM, localization, and navigation all connect. Right now, I’m a bit confused about where to focus. For example: - In SLAM, should I focus more on the algorithm concepts (like mapping/localization) or on the ROS2 implementation (packages like slam_toolbox)? - In Nav2, there are many components (costmaps, planners, controllers) — what’s the most important part to understand first? - Is it better to treat Nav2 as a “black box” initially and then break it down, or understand each module deeply from the start? My goal is to eventually build and control my own robot (starting in simulation). Would really appreciate advice on: 👉 What concepts/components I should prioritize 👉 A good learning path for SLAM + Nav2 in ROS2 Thanks!
 
-6h ago
+8h ago
+
+---
+
+**[“They are coming for our jobs..”](https://www.reddit.com/r/robotics/comments/1s3aomh/they_are_coming_for_our_jobs/)**
+
+1d ago
+
+---
+
+**[[Part 1] IMU Orientation Tracking – Madgwick Filter, Calibration & Streaming (ESP32 + ICM45686)](https://www.reddit.com/r/robotics/comments/1s452yb/part_1_imu_orientation_tracking_madgwick_filter/)**
+
+2h ago
 
 ---
 
 **[Need a help in moving this robot in thecursor.ai . Can anyone please tell me the code to run this properly](https://www.reddit.com/r/robotics/comments/1s44gn6/need_a_help_in_moving_this_robot_in_thecursorai/)**
 
-1h ago
+2h ago
 
 ---
 
 **[[Part 1] IMU Orientation Tracking – Madgwick Filter, Calibration & Streaming (ESP32 + ICM45686)](https://www.reddit.com/r/robotics/comments/1s439l9/part_1_imu_orientation_tracking_madgwick_filter/)**
 
-2h ago
+4h ago
 
 ---
 
@@ -84,7 +90,7 @@ I recently started working with the TurtleBot3 simulation in Gazebo using ROS2. 
 
 Hi a hobby idea came to me randomly about making a robot arm i can control with a camera like the classic 2 prong type however i can control via a camera looking at my arm but didn't know how to do it and what i need. I already have a 3d printer so thought it wouldn't be too difficult however its hard to find a similar scenario. Can anyone please help?
 
-14h ago
+16h ago
 
 ---
 
@@ -96,25 +102,9 @@ Earlier this month, Seoul's COEX hosted an event whose name said it all: the Chi
 
 ---
 
-**[Meet KOU-III: a two-legged robot that uses drone rotors to jump higher and land softly](https://www.reddit.com/r/robotics/comments/1s2iyfw/meet_kouiii_a_twolegged_robot_that_uses_drone/)**
-
-KOU-III is a two-legged robot from Shandong University that combines walking with drone-like rotors for extra balance and power. Inspired by how ostriches use their wings while running, the rotors help it jump higher, land softly, and stay stable on tough terrain.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
-
-**[Amazon buys Fauna Robotics, maker of the Sprout humanoid robot](https://abcnews.com/Technology/wireStory/amazon-buys-fauna-robotics-maker-sprout-humanoid-robot-131377681)**
-
-Amazon has acquired Fauna Robotics, just under two months after the startup introduced a humanoid robot called Sprout designed for social spaces like homes and schools
-
-abcnews.com • 1d ago
-
----
 
 **[Amazon acquires 'approachable' humanoid maker Fauna Robotics](https://www.cnbc.com/2026/03/24/amazon-humanoid-maker-fauna-robotics-sprout.html)**
 
@@ -130,6 +120,14 @@ Bloomberg.com • 1d ago
 
 ---
 
+**[Amazon Is Entering the Humanoid Robot Market. 3 Important Things to Know About the Fauna Robotics Acquisition.](https://www.fool.com/investing/2026/03/25/amazon-is-entering-the-humanoid-robot-market-3-imp/)**
+
+Amazon is gearing up to become a much bigger player in robotics.
+
+The Motley Fool • 12h ago
+
+---
+
 **[AI compressed billions of years of evolution into seconds to create 'Lego-like robots' that can recover even when they lose limbs](https://www.livescience.com/technology/robotics/ai-compressed-billions-of-years-of-evolution-into-seconds-to-create-lego-like-robots-that-can-recover-even-when-they-lose-limbs)**
 
 Modular robots are easily expandable, know when they're upside down or stuck, and can march forward across all kinds of terrain.
@@ -138,19 +136,33 @@ Live Science • 1d ago
 
 ---
 
-**[A top Citi banker warns AI could mean a 'tragic end' for capitalism if we don't act now](https://www.businessinsider.com/ai-impact-on-capitalism-future-response-citi-banker-jay-collins-2026-3)**
+**[China’s Dominance in Humanoid Robots Opens Avenue for Deals](https://www.bloomberg.com/news/newsletters/2026-03-26/china-s-humanoid-robot-dominance-on-display-at-spring-festival-gala)**
 
-AI and robotics' threat to capitalism is coming fast and requires an immediate response, Citi's Jay Collins told BI.
-
-Business Insider • 3h ago
+Bloomberg.com • 10m ago
 
 ---
 
-**[Meet Figure AI: The company behind the humanoid robot hosted by Melania Trump](https://www.cnbc.com/2026/03/26/figure-ai-the-robotics-company-hosted-by-melania-trump.html)**
+**[How is #AI transforming the physical world of #manufacturing and energy? From predictive maintenance and #sustainability targets to smart factories, drones and #robotics, AI is moving beyond digital dashboards into real-world operations. At Deloitte’s #AIFor](https://www.linkedin.com/posts/cnbc-tv18_ai-manufacturing-sustainability-activity-7442893201075630080-JsMB)**
 
-The White House hosted its first humanoid robot guest, with first lady Melania Trump appearing alongside a robot from startup Figure AI.
+How is #AI transforming the physical world of #manufacturing and energy?
+From predictive maintenance and #sustainability targets to smart factories, drones and #robotics, AI is moving beyond digital dashboards into real-world operations.
 
-CNBC • 2h ago
+At Deloitte’s #AIForum2026, Vijay Purohit, CIO- APAC & Head - Global Digital Hub – Holcim; Sanghamitra Pati, Applied AI Strategic Growth Market Leader, Deloitte USI and Rewati Deshpande, Chief Financial Officer, Vibrant Energy, explored how AI is driving operational excellence, unlocking new business models and enabling real-time decision-making across industrial and energy ecosystems.
+
+Deloitte’s “AI Forum” — AI that means business. ROI that counts.
+Digital Broadcaster: CNBC-TV18
+
+#DeloitteAIForum #AIThatMeansBusiness Dr. Vijay Purohit Sanghamitra Pati Rewati Deshpande Koshy Eapen Varun Rastogi Easwaran Subramanian Aditya Sudhindranath Jayant Saran S. Anjani Kumar Moumita Sarker
+
+LinkedIn • 2h ago
+
+---
+
+**[AMRs in Rreal-World Warehouse Environments](https://www.roboticstomorrow.com/article/2026/02/amrs-in-rreal-world-warehouse-environments/26190/)**
+
+Performance does not increase linearly as additional robots are deployed. Beyond a certain threshold, traffic conflicts, task contention, and route overlap can degrade system efficiency if orchestration logic is not sufficiently advanced.
+
+Robotics Tomorrow • 1h ago
 
 ---
 
@@ -158,7 +170,13 @@ CNBC • 2h ago
 
 Two recent incidents of food delivery robots smashing into CTA bus shelters days apart happened as Chicagoans continue to debate whether the robots are a public benefit or a nuisance.
 
-ABC7 Chicago • 13h ago
+ABC7 Chicago • 15h ago
+
+---
+
+**[Melania Trump Appears With a Robot, Saying More Children Should Be Educated by Them](https://www.nytimes.com/2026/03/25/us/politics/melania-trump-robot.html)**
+
+The New York Times • 16h ago
 
 ---
 
@@ -167,20 +185,6 @@ ABC7 Chicago • 13h ago
 MIT engineers designed an ultrasound wristband that precisely tracks a wearer’s hand movements in real time and communicates the information to a robot or a virtual environment.
 
 MIT News • 1d ago
-
----
-
-**[Melania Trump Appears With a Robot, Saying More Children Should Be Educated by Them](https://www.nytimes.com/2026/03/25/us/politics/melania-trump-robot.html)**
-
-The New York Times • 14h ago
-
----
-
-**[Amazon Balances Home Robotics Ambition With AWS Conflict Zone Risks](https://finance.yahoo.com/markets/stocks/articles/amazon-balances-home-robotics-ambition-010607708.html)**
-
-Amazon.com (NasdaqGS:AMZN) agreed to acquire Fauna Robotics, signaling an entry into consumer humanoid robotics alongside its existing automation efforts. AWS experienced repeated and severe service disruptions in its Bahrain region, with outages linked to drone strikes connected to ongoing Middle East conflict. The disruptions triggered customer migrations and operational changes, raising fresh questions about cloud resiliency in higher risk geographies. For a company already active in...
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -214,7 +218,7 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 📺 RAI Institute
 
-👁️ 313K • 👍 9K • 💬 915 • ⏱️ 1:34 • 2d ago
+👁️ 313K • 👍 9K • 💬 915 • ⏱️ 1:34 • 3d ago
 
 ---
 
@@ -224,7 +228,7 @@ A walking, talking humanoid robot strolled side-by-side first lady Melania Trump
 
 📺 ABC News
 
-👁️ 26K • 👍 134 • 💬 153 • ⏱️ 1:30 • 19h ago
+👁️ 26K • 👍 134 • 💬 153 • ⏱️ 1:30 • 20h ago
 
 ---
 
@@ -234,7 +238,7 @@ Melania Trump Makes a Triumphant Entrance and Suggests Humanoid Robots for Educa
 
 📺 Right Side Broadcasting Network
 
-👁️ 32K • 👍 2K • 💬 842 • ⏱️ 10:02 • 20h ago
+👁️ 32K • 👍 2K • 💬 842 • ⏱️ 10:02 • 22h ago
 
 ---
 
@@ -244,7 +248,7 @@ Thanks to Delete Me for sponsoring this video. To keep your private info private
 
 📺 Kim Java
 
-👁️ 76K • 👍 4K • 💬 198 • ⏱️ 20:00 • 1d ago
+👁️ 76K • 👍 4K • 💬 198 • ⏱️ 20:00 • 2d ago
 
 ---
 
@@ -264,7 +268,7 @@ A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White H
 
 📺 C-SPAN
 
-👁️ 83K • 👍 474 • 💬 729 • ⏱️ 2:59 • 20h ago
+👁️ 83K • 👍 474 • 💬 729 • ⏱️ 2:59 • 22h ago
 
 ---
 
@@ -274,7 +278,7 @@ Amazon just made a surprising move into humanoid robotics by acquiring Fauna Rob
 
 📺 DPCcars
 
-👁️ 875 • 👍 32 • 💬 5 • ⏱️ 3:18 • 20h ago
+👁️ 875 • 👍 32 • 💬 5 • ⏱️ 3:18 • 22h ago
 
 ---
 
