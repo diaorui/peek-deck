@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-26T14:05:42.009125+00:00'
+updated: '2026-03-26T15:51:24.660638+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
 - cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 26, 2026 at 14:05 UTC  
+**Last Updated:** March 26, 2026 at 15:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,253.43
+### $68,901.99
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
-**7d:** -1.1%  
-**30d:** +2.6%  
-**90d:** -20.7%  
-**1y:** -20.0%  
+**24h:** -3.3%  
+**7d:** -2.0%  
+**30d:** +1.6%  
+**90d:** -21.5%  
+**1y:** -20.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1385.00B
+**Market Cap:** $1381.24B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--45.1%
+-45.2%
 
 **All-Time Low:** $67.81
-+102057.5%
++101733.1%
 
 ---
 
@@ -79,15 +79,7 @@ Rank #1
 
 **[My favourite video 😅](https://www.reddit.com/r/Bitcoin/comments/1s3usw5/my_favourite_video/)**
 
-11h ago
-
----
-
-**[stepping away from bitcoin stuff for now](https://www.reddit.com/r/Bitcoin/comments/1s43w7s/stepping_away_from_bitcoin_stuff_for_now/)**
-
-been thinking about this for few days now and decided to take break from all bitcoin related content. getting overwhelmed by constant noise online these days. every platform has someone screaming about what i should believe or do with my coins joined this space because i believed in technology but now feels like everyone just wants to push their agenda. most of these influencers probably just making content for views anyway going to unfollow most crypto accounts and focus in other things for while. started learning digital art recently and already spent like 12 hours working on single project. much more relaxing than checking charts every hour need to get back to basics and remember why i got interested on bitcoin in first place. maybe after few weeks away from all this drama i can come back with clearer head anyone else taking breaks like this?
-
-3h ago
+13h ago
 
 ---
 
@@ -95,13 +87,23 @@ been thinking about this for few days now and decided to take break from all bit
 
 The government-sponsored mortgage giant will accept Bitcoin and USDC as collateral through a new program with Better Home and Coinbase.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/coinbase-fannie-mae-enable-crypto-120846995.html) • 50m ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/coinbase-fannie-mae-enable-crypto-120846995.html) • 2h ago
 
 ---
 
-**[Be careful out there, Morgan Stanley wants your bitcoin](https://www.reddit.com/r/Bitcoin/comments/1s3pa4v/be_careful_out_there_morgan_stanley_wants_your/)**
+**[stepping away from bitcoin stuff for now](https://www.reddit.com/r/Bitcoin/comments/1s43w7s/stepping_away_from_bitcoin_stuff_for_now/)**
 
-15h ago
+been thinking about this for few days now and decided to take break from all bitcoin related content. getting overwhelmed by constant noise online these days. every platform has someone screaming about what i should believe or do with my coins joined this space because i believed in technology but now feels like everyone just wants to push their agenda. most of these influencers probably just making content for views anyway going to unfollow most crypto accounts and focus in other things for while. started learning digital art recently and already spent like 12 hours working on single project. much more relaxing than checking charts every hour need to get back to basics and remember why i got interested on bitcoin in first place. maybe after few weeks away from all this drama i can come back with clearer head anyone else taking breaks like this?
+
+5h ago
+
+---
+
+**[this is massive! Fannie Mae just opened the door to Bitcoin backed mortgages](https://www.reddit.com/r/Bitcoin/comments/1s4a4gs/this_is_massive_fannie_mae_just_opened_the_door/)**
+
+The other day we posted about how our current monetary system prices out many from home ownership, and how bitcoin is part of the solution and that is becoming more true every day. Starting today, homebuyers can pledge Bitcoin as downpayment collateral through a new Coinbase + Better Home & Finance program backed by Fannie Mae, which underwrites roughly half of all U.S. mortgages. Here are the key elements: --Homebuyers don't sell their bitcoin so there's no taxable event --No margin calls, so if Bitcoin drops 30%, the mortgage terms don't change
+
+42m ago
 
 ---
 
@@ -109,7 +111,13 @@ The government-sponsored mortgage giant will accept Bitcoin and USDC as collater
 
 Hey all — I’m buying an apartment in Portugal and weighing two options: Option 1: Sell ~1 BTC for the down payment Option 2: Borrow €80k against 2.2 BTC at ~1.24% APY (Morpho) On paper, borrowing feels like the obvious choice — low interest, keep exposure to BTC. That said, I’ve never used BTC as collateral before, so I want to sanity check the risks. Current LTV would be ~60% Liquidation threshold is higher (so some buffer, but not huge) Main concern: downside volatility in BTC (e.g. another leg down) I’m long-term bullish, but I don’t want to get wiped out by short-term moves or forced liquidation. For those who’ve done this before: How do you think about “safe” LTV levels? At what point does this become reckless vs. smart leverage? Any rules of thumb (e.g. target LTV, when to top up, etc.)? Appreciate any real-world experience — especially from people who’ve actually gone through a drawdown while leveraged. https://preview.redd.it/8pd84k1ukdrg1.png?width=754&format=png&auto=webp&s=e0c7c5f46a775ee75f273af5131d393447f4bc2a
 
-2h ago
+4h ago
+
+---
+
+**[Be careful out there, Morgan Stanley wants your bitcoin](https://www.reddit.com/r/Bitcoin/comments/1s3pa4v/be_careful_out_there_morgan_stanley_wants_your/)**
+
+17h ago
 
 ---
 
@@ -117,7 +125,15 @@ Hey all — I’m buying an apartment in Portugal and weighing two options: Opti
 
 Been waiting for better entry point and decided 65k is where I'll make big move. Planning to liquidate significant portion from my equity investments and go heavy on Bitcoin at that level. For now just doing regular purchases whenever these smaller drops happen. Yeah 25k would be amazing opportunity but doesn't seem realistic anymore. 65k feels like more achievable target where I can really load up the bags. Anyone else waiting for specific price levels to make larger buys?
 
-23m ago
+2h ago
+
+---
+
+**[Google bumps up Q Day deadline to 2029, far sooner than previously thought](https://www.reddit.com/r/Bitcoin/comments/1s47e5o/google_bumps_up_q_day_deadline_to_2029_far_sooner/)**
+
+Company warns entire industry to move off RSA and EC more quickly.
+
+🔗 [Ars Technica](https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/) • 2h ago
 
 ---
 
@@ -125,31 +141,15 @@ Been waiting for better entry point and decided 65k is where I'll make big move.
 
 What can i do i have the login link but forgot my email it always asks for mail verification and the support is not helping i opend 3 tickets and they keep ignoring me after they send me an automatic answer. When i click the login link it shows me Internal error
 
-6h ago
-
----
-
-**[Daily Discussion, March 26, 2026](https://www.reddit.com/r/Bitcoin/comments/1s3zewp/daily_discussion_march_26_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
 8h ago
 
 ---
 
-**[Is XTB a good place to invest into BTC?](https://www.reddit.com/r/Bitcoin/comments/1s44nmd/is_xtb_a_good_place_to_invest_into_btc/)**
+**[Stopping my DCA during the drop was probably my dumbest move](https://www.reddit.com/r/Bitcoin/comments/1s490go/stopping_my_dca_during_the_drop_was_probably_my/)**
 
-Im thinking about investing into BTC. Is it a good idea to invest into the BITCOIN CFD through XTB? Or is investing into Bitcoin CFD not a good idea and worse than Bitcoin itself? Thanks
+I just want to share something for people who are new. A few years ago when I first started buying, the market was already dropping from its highs. At the beginning, I actually stuck to my plan and kept buying slowly. As the price went down, I saw it as a chance to get more BTC at lower prices. But things changed later. As the price kept falling, I started to feel uneasy. Every drop made me wonder if it would go even lower. At some point I just stopped my DCA and decided to wait and see. I told myself I would come back in when things looked clearer. Looking back now, that was exactly the period I should have kept buying. I have also seen a lot of similar stories. Some people kept buying from around 40k all the way down to 18k, which was the right direction. But either they did not buy enough, or they got distracted and put some money into altcoins. Some of those went up for a while, but many did not last. If that money had just stayed in BTC, the outcome would likely have been very different. When the market started to recover, I realized the problem was not the market, it was me. I thought I was managing risk, but I was really just reacting to emotions. It is easy to make a plan, but the hard part is sticking to it when things look the worst. Now I keep things simple. I do not try to time the market anymore. I just follow a fixed schedule and keep buying. I set up my DCA so I do not have to make decisions in the moment. Since I have been in BTC for a while, I sometimes do a bit of spot trading on BYDFi, but most of my position is still just long term holding. This market cycle actually feels similar to back then, so I am sticking to my plan and buying every week. In the long run, I still believe adoption will keep growing.
 
-2h ago
-
----
-
-**[Gemini blocking withdrawals while shutting down UK operations – anyone else stuck?](https://www.reddit.com/r/Bitcoin/comments/1s3xm6y/gemini_blocking_withdrawals_while_shutting_down/)**
-
-I’m a UK-based user of Gemini and I’ve been trying to withdraw my Bitcoin for weeks with no success. Every time I attempt a withdrawal, I get stuck in a broken authentication loop: I swipe to confirm the withdrawal It then asks me to approve via Authy But Gemini has removed Authy/SMS support And there is nowhere to enter the code So the withdrawal just… can’t complete. My account was recently recovered, and since then withdrawals appear to be restricted. I’ve contacted support multiple times and only get generic responses like “we’re working on it.” Now the really concerning part: Gemini is shutting down operations in the UK soon, and I still cannot access my funds. At this point, it feels like my assets are effectively locked due to a system failure on their side. Has anyone else experienced: The Authy/passkey issue? Withdrawal blocks after account recovery? Any success actually getting funds out recently? I’ve now escalated this to the Financial Conduct Authority and the Financial Ombudsman Service. Would really appreciate hearing if others are dealing with this or if anyone found a workaround.
-
-9h ago
+1h ago
 
 ---
 
@@ -157,11 +157,51 @@ I’m a UK-based user of Gemini and I’ve been trying to withdraw my Bitcoin fo
 
 ## Google News: "bitcoin"
 
+**[One of the biggest bitcoin (BTC) sellers this year is a tiny Asian country](https://www.coindesk.com/markets/2026/03/26/bhutan-moves-another-500-bitcoin-to-exchanges-as-2026-outflows-top-usd150-million)**
+
+Bhutan moves another 500 bitcoin to exchanges as 2026 outflows top $150 million
+
+CoinDesk • 10h ago
+
+---
+
+**[Best Cryptocurrencies to Buy Before the Next Bitcoin Halving](https://www.fool.com/investing/2026/03/25/best-cryptocurrencies-to-buy-before-the-next-bitco/)**
+
+If history is any guide, it's time to start buying these bargain-priced cryptocurrencies before the Bitcoin halving in 2028.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Connecting Excellence CEO Scott Ellam on H1 growth, hiring & Bitcoin strategy](https://finance.yahoo.com/video/connecting-excellence-ceo-scott-ellam-151108173.html)**
+
+Connecting Excellence Group Plc (AQSE:XCE, OTCQB:XCELF) CEO Scott Ellam talked with Proactive's Stephen Gunnionabout the company’s strong financial performance, growth strategy, and its evolving Bitcoin treasury approach. Ellam discussed the company’s reported 20% net fee income growth for the first half of the financial year, emphasising that this performance was not driven by its December IPO. Instead, he explained it reflects sustained momentum built since 2021, noting that “there’s no cause and effect between the net fee income increase and the IPO.” A key focus for the business is scaling through talent acquisition. The company is targeting experienced, high-performing executive recruiters who can bring established client relationships and generate significant revenue. Ellam highlighted the scalability of this model, stating: “We have the opportunity to expand the business, and we have a scalable platform for growth.” He also addressed rising average fees, which have increased due to higher salaries and demand for senior talent, reinforcing the company’s shift toward higher-value placements. On the balance sheet side, Ellam outlined the firm’s Bitcoin treasury strategy, with over 50 Bitcoin held. He described this as a long-term decision, acknowledging short-term volatility but expressing confidence in long-term performance trends. Looking ahead, XCE is balancing investment across hiring, potential acquisitions, and Bitcoin accumulation, aiming to compound growth across both its operational and capital markets strategies. For more insights like this, visit Proactive's YouTube channel, like this video, subscribe, and enable notifications so you never miss an update. #ConnectingExcellence #ScottEllam #ExecutiveRecruitment #GrowthStrategy #BitcoinTreasury #IPO #RecruitmentIndustry #BusinessGrowth #HiringStrategy #CapitalMarkets #CryptoStrategy #UKStocks #InvestorInsights #ScalableBusiness #TalentAcquisition
+
+Yahoo Finance • 25m ago
+
+---
+
+**[Ordinals Meaning in Crypto: Bitcoin Ordinals Explained](https://westafricatradehub.com/crypto/ordinals-meaning-in-crypto/)**
+
+Discover Bitcoin Ordinals: NFT-like inscriptions on satoshis. See how Ordinal NFTs work, plus Taproot and SegWit upgrades that made them possible.
+
+West Africa Trade Hub • 1h ago
+
+---
+
+**[Belgium Crypto Wallet Guide: Best Exchanges to Buy Bitcoin (2026)](https://westafricatradehub.com/crypto/belgium-crypto-wallet-buy-bitcoin-in-belgium/)**
+
+Compare trusted ways to buy Bitcoin in Belgium: Bitpanda, Kraken, Coinbase, SEPA and cards, plus Bitcoin ATM map, fees, FSMA rules, wallet tips, and scam alerts.
+
+West Africa Trade Hub • 51m ago
+
+---
+
 **[Bitcoin inches toward $71,000 as hopes for U.S.-Iran talks push oil prices lower: CNBC Crypto World](https://www.cnbc.com/video/2026/03/25/bitcoin-inches-toward-71000-as-hopes-for-us-iran-talks-push-oil-prices-lower-cnbc-crypto-world.html)**
 
 On today's episode of CNBC Crypto World, bitcoin moves towards $71,000 after Iran counters a U.S. ceasefire plan. Also, Senators reportedly reached an agreement on crypto market structure legislation language to settle a dispute between the banking and crypto sectors. Franklin Templeton's Max Gokhman also discusses how bitcoin is performing as the Iran war continues.
 
-CNBC • 18h ago
+CNBC • 20h ago
 
 ---
 
@@ -169,43 +209,13 @@ CNBC • 18h ago
 
 Bitcoin's support level is vulnerable as Trump's five-day pause of strikes on Iran's energy infrastructure is set to expire, analysts said.
 
-Decrypt • 2h ago
+Decrypt • 4h ago
 
 ---
 
 **[Bitcoin ticks up above $71k as de-escalation hopes lift risk assets](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-edges-up-above-71k-amid-conflicting-iran-war-signals-4579031)**
 
-Investing.com • 12h ago
-
----
-
-**[BlackRock Issues $1 Trillion ‘Nonsense’ Crypto Market Price Warning Alongside Huge Bitcoin Prediction](https://www.forbes.com/sites/digital-assets/2026/03/25/500-million-in-the-next-five-years-blackrock-ceo-issues-huge-crypto-prediction-as-the-bitcoin-price-surges/)**
-
-Forbes • 1d ago
-
----
-
-**[Blockspace: Tether's Big Four Audit, Blue Owl's Private Credit Risk, and a New Bitcoin Client?](https://finance.yahoo.com/video/blockspace-tethers-big-four-audit-130428489.html)**
-
-Tether is finally conducting an audit, and the CLARITY Act is shaping up to be a dud for stablecoins.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin (BTC) sales by MARA Holdings (MARA) fuels rise in stock price](https://www.coindesk.com/markets/2026/03/26/mara-holdings-higher-by-10-after-selling-usd1-1-billion-in-bitcoin-to-fund-debt-buyback)**
-
-The strategic move cuts debt, reduces dilution risk, and strengthens the balance sheet for expansion into AI and energy infrastructure, said the company.
-
-CoinDesk • 1h ago
-
----
-
-**[Buy a Home With Bitcoin: Coinbase, Fannie Mae Bring Crypto Mortgages to Mainstream Buyers](https://bitcoinmagazine.com/featured/buy-a-home-bitcoin-coinbase-fannie-mae)**
-
-Coinbase is partnering with Better Home & Finance to roll out bitcoin-backed mortgages backed by Fannie Mae.
-
-Bitcoin Magazine • 47m ago
+Investing.com • 14h ago
 
 ---
 
@@ -217,17 +227,11 @@ KCRG • 1d ago
 
 ---
 
-**[Bitcoin Miners, Now AI Compute Leaders, Face Profitability Concerns](https://www.investors.com/news/bitcoin-miner-profitability-hash-price-q1-2026-ai-pivot-wulf-corz-cifr-hut/)**
+**[Bernstein says bitcoin looks bottomed, sees 226% upside for Strategy](https://www.theblock.co/post/394878/bernstein-says-bitcoin-looks-bottomed-sees-226-upside-for-strategy)**
 
-Investor's Business Daily • 7m ago
+Bernstein said Strategy could see 226% upside if bitcoin has bottomed, with STRC central to its capital model.
 
----
-
-**[Bhutan offloads $37 million worth of bitcoin as selling accelerates: onchain data](https://www.theblock.co/post/394986/bhutan-moves-37-million-worth-bitcoin)**
-
-Bhutan transferred 519.7 BTC, worth $36.75 million, to two wallets on Wednesday, according to Arkham data.
-
-The Block • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -283,17 +287,17 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Fol
 
 📺 Altcoin Daily
 
-👁️ 9K • 👍 287 • 💬 45 • ⏱️ 1:06 • 16h ago
+👁️ 11K • 👍 310 • 💬 48 • ⏱️ 1:06 • 18h ago
 
 ---
 
-**[$867B GIANT Sends A HUGE Bitcoin WARNING (YOU HAVE 9 MONTHS) | EP 1468](https://www.youtube.com/watch?v=iE87IDjTwK4)**
+**[The $10 Trillion &quot;Trojan Horse&quot;: Morgan Stanley’s Bitcoin Plan](https://www.youtube.com/watch?v=N_neCIi4zFA)**
 
-NEW REPORTS HOT OFF THE PRESS TAKING A CONTRARIAN VIEW OF WHERE BITCOIN CURRENTLY SITS IN PRICE ...
+The links below may include affiliate links, which means I may receive a commission at no cost to you if you make a purchase ...
 
-📺 Simply Bitcoin
+📺 Digital Asset News
 
-👁️ 7K • 👍 344 • 💬 74 • ⏱️ 1:25:26 • 19h ago
+👁️ 7K • 👍 521 • 💬 37 • ⏱️ 24:59 • 21h ago
 
 ---
 
@@ -303,7 +307,7 @@ The U.S. just revealed a $47 trillion liability problem and almost nobody is tal
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 2K • 💬 105 • ⏱️ 20:42 • 14h ago
+👁️ 22K • 👍 2K • 💬 118 • ⏱️ 20:42 • 16h ago
 
 ---
 
@@ -313,47 +317,47 @@ In this video, we take a data-driven look at Bitcoin as it shows signs of prepar
 
 📺 Benjamin Cowen
 
-👁️ 101K • 👍 7K • 💬 417 • ⏱️ 17:16 • 1d ago
+👁️ 104K • 👍 7K • 💬 425 • ⏱️ 17:16 • 1d ago
 
 ---
 
-**[Bitcoin inches toward $71,000 as hopes for U.S.-Iran talks push oil prices lower: CNBC Crypto World](https://www.youtube.com/watch?v=zt5AeGbHVxI)**
+**[Bitcoin Drops as War Escalates — What’s Next?](https://www.youtube.com/watch?v=yfDd9mHh6bI)**
 
-On today's episode of CNBC Crypto World, bitcoin moves towards $71000 after Iran counters a U.S. ceasefire plan. Also, Senators ...
+Smarter calls start with better data - Ask Clash ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly ...
 
-📺 CNBC Television
+📺 CryptosRUs
 
-👁️ 9K • 👍 111 • 💬 150 • ⏱️ 8:47 • 18h ago
-
----
-
-**[Bitcoin Is a Brilliant Scam and I Can Prove It (Again)](https://www.youtube.com/watch?v=dPoDyl9Ys38)**
-
-Everyone thinks they understand Bitcoin... but they don't. Because if Bitcoin is the future of money, why does it fail the most basic ...
-
-📺 Casual Finance
-
-👁️ 74K • 👍 5K • 💬 1K • ⏱️ 9:55 • 1d ago
+👁️ 8K • 👍 552 • 💬 19 • ⏱️ 48:00 • 1h ago
 
 ---
 
-**[Bitcoin Will Enter BULL MARKET If THIS Level Breaks! Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=8dDj-zifTys)**
+**[$867B GIANT Sends A HUGE Bitcoin WARNING (YOU HAVE 9 MONTHS) | EP 1468](https://www.youtube.com/watch?v=iE87IDjTwK4)**
 
-You're not going to want to miss this INCREDIBLE Ether, technical analysis and investment strategy. Top-Tier Crypto Trading ...
+NEW REPORTS HOT OFF THE PRESS TAKING A CONTRARIAN VIEW OF WHERE BITCOIN CURRENTLY SITS IN PRICE ...
 
-📺 Crypto Jebb
+📺 Simply Bitcoin
 
-👁️ 5K • 👍 250 • 💬 99 • ⏱️ 13:34 • 19h ago
+👁️ 7K • 👍 354 • 💬 72 • ⏱️ 1:25:26 • 20h ago
 
 ---
 
-**[Gareth Soloway&#39;s Urgent Warning To All Bitcoin Investors — Gold Is Crashing, This Changes Everything](https://www.youtube.com/watch?v=UZhVCWeM6J4)**
+**[Bitcoin Live Trading: Coiling Tight! Are We Finally Getting The Move?! EP1949](https://www.youtube.com/watch?v=87s2LWXHb7M)**
 
-The 20 millionth Bitcoin was mined this month. 95% of all Bitcoin that will EVER exist is now in circulation. Gold just had its worst ...
+Bitcoin Vegas 2026: https://fxo.co/JAmn Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ...
 
-📺 Money Talks
+📺 Crypto Lifer
 
-👁️ 1K • 👍 40 • 💬 84 • ⏱️ 14:25 • 18h ago
+👁️ 3K • 👍 413 • 3h ago
+
+---
+
+**[Bitcoin Bear Market ALMOST OVER: Bottom Level REVEALED](https://www.youtube.com/watch?v=8QEvQ0zsIZI)**
+
+The bear market has been brutal, but the data is screaming that the end is near. In today's video, we are diving deep into the ...
+
+📺 Discover Crypto
+
+👁️ 2K • 👍 188 • ⏱️ 1:11:42 • 2m ago
 
 ---
 
@@ -363,17 +367,17 @@ Leverage is murdered. Retail is wiped. I'm really losing hope, even billionaires
 
 📺 Crypto Insider
 
-👁️ 32K • 👍 3K • 💬 284 • ⏱️ 19:45 • 2d ago
+👁️ 33K • 👍 3K • 💬 292 • ⏱️ 19:45 • 2d ago
 
 ---
 
-**[THIS IS NEXT FOR BITCOIN...](https://www.youtube.com/watch?v=RNlcXHl6uBI)**
+**[This Signal Says Bitcoin&#39;s Bottom Is In](https://www.youtube.com/watch?v=bJM_2AIU3kY)**
 
-WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $25 ...
+Markets are unstable, but Bitcoin may be quietly setting up for its next major move. As defaults rise and traditional collateral ...
 
-📺 Crypto Rover
+📺 Simply Bitcoin
 
-👁️ 7K • 👍 500 • 💬 36 • ⏱️ 9:28 • 9h ago
+👁️ 24K • 👍 1K • 💬 69 • ⏱️ 12:39 • 1d ago
 
 ---
 

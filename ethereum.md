@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-26T14:05:42.015120+00:00'
+updated: '2026-03-26T15:51:24.666774+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 26, 2026 at 14:05 UTC  
+**Last Updated:** March 26, 2026 at 15:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,068.56
+### $2,073.56
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.9%  
-**7d:** -3.0%  
-**30d:** +1.2%  
-**90d:** -29.5%  
-**1y:** +4.0%  
+**24h:** -5.0%  
+**7d:** -3.6%  
+**30d:** +0.5%  
+**90d:** -29.9%  
+**1y:** +3.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $249.51B
+**Market Cap:** $248.96B
 Rank #2
 
 **Circulating Supply:** 120,691,533 ETH
@@ -62,7 +62,7 @@ No max supply
 -58.2%
 
 **All-Time Low:** $0.43
-+477299.6%
++477225.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,15 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Accept crypto payments in seconds, across Bitcoin, stablecoins, and more with Bitcoin.com Checkout.
 
-🔗 [Bitcoin.com Checkout](https://checkout.bitcoin.com/) • 2h ago
-
----
-
-**[Thinking out of the box: an x402 gateway for buying a finished local business website](https://www.reddit.com/r/ethereum/comments/1s42wve/thinking_out_of_the_box_an_x402_gateway_for/)**
-
-Been building an x402 gate way for my local business site builder. I want to experiment with x402 more for deliverables outside of the "typical" things (e.g.: simple api calls etc.) as I believe the potential is actually a lot bigger than that. I think it can be used for "bigger" agentic deliverables, e.g.: with this you get a full pipeline (llm research, google places search, image analysis, brand guidemap etc. which than gets molded into a one pager). Changes the game from "cheap api calls" to bigger deliverables. Feel free to play around with it and let me know what you think! Anyone else doing stuff sort of out of the most comon use cases with x402?
-
-4h ago
+🔗 [Bitcoin.com Checkout](https://checkout.bitcoin.com/) • 4h ago
 
 ---
 
@@ -96,13 +88,23 @@ Been building an x402 gate way for my local business site builder. I want to exp
 
 As I write this in the first week of January 2026, the new year is just beginning. If 2025 was the Year of the Snake — a time associated…
 
-🔗 [Medium](https://medium.com/@james_allan/the-state-of-the-blockchain-industry-and-where-kaspa-fits-c75371725255) • 1h ago
+🔗 [Medium](https://medium.com/@james_allan/the-state-of-the-blockchain-industry-and-where-kaspa-fits-c75371725255) • 3h ago
 
 ---
 
-**[Pay.eth for sale](https://www.reddit.com/r/ethereum/comments/1s42qh3/payeth_for_sale/)**
+**[Thinking out of the box: an x402 gateway for buying a finished local business website](https://www.reddit.com/r/ethereum/comments/1s42wve/thinking_out_of_the_box_an_x402_gateway_for/)**
 
-🔗 [X (formerly Twitter)](https://x.com/not_pr0) • 4h ago
+Been building an x402 gate way for my local business site builder. I want to experiment with x402 more for deliverables outside of the "typical" things (e.g.: simple api calls etc.) as I believe the potential is actually a lot bigger than that. I think it can be used for "bigger" agentic deliverables, e.g.: with this you get a full pipeline (llm research, google places search, image analysis, brand guidemap etc. which than gets molded into a one pager). Changes the game from "cheap api calls" to bigger deliverables. Feel free to play around with it and let me know what you think! Anyone else doing stuff sort of out of the most comon use cases with x402?
+
+6h ago
+
+---
+
+**[Lesson learned-Never trust any token unless contract is legit and official](https://www.reddit.com/r/ethereum/comments/1s49rkq/lesson_learnednever_trust_any_token_unless/)**
+
+I am newbie in crypto trading. And I learned that ETH tokens pose a huge risk even if token seems to be authentic. Tried to swap my eth funds for Tether Gold XAUT, but got zero balanced fake tokens. Lesson learned as I checked later for second time to find out Tether Gold legit contract. Contract was fake and did not match with the legit one. I will never trust any tokens but it is very sad that those tokens were listed at coinbase web wallet to swap. Should not be. Thus I paid for that lesson ca €10 I think that these risks are discrediting ethereum as safe network. Because if user has no other option than believing that contract is genuine then any fake blockchain checking site may serve it as legit. Fortunally I transfered fake tokens to my cold wallet, so I just created new ethereum account in it to change address as previous is now a little compromised as scammers can scan and track my ethereum account balance. Will leave compromised as it is and will not touch it anymore.
+
+54m ago
 
 ---
 
@@ -116,7 +118,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Sent ETH to Abstract Global Wallet on wrong network — any chance of recovery?](https://www.reddit.com/r/ethereum/comments/1s3mdo6/sent_eth_to_abstract_global_wallet_on_wrong/)**
 
-17h ago
+19h ago
 
 ---
 
@@ -160,29 +162,7 @@ The Block • 1d ago
 
 Bitmine officially launched the MAVAN Ethereum staking platform, targeting roughly $300 million in annual rewards.
 
-The Block • 23h ago
-
----
-
-**[Current price of Ethereum for March 26, 2026](https://fortune.com/article/price-of-ethereum-03-26-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 55m ago
-
----
-
-**[Bitcoin, XRP, Ethereum Drop as Iran Rejects Trump Peace Plan. Why War Is Hitting Cryptos.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqcefV7QqnHabOpSswty3Pakw2RUCQ9f82nqJQu2z0qXXfMYOwiQDDQJ&gaa_ts=69c540a0&gaa_sig=HNlUFrf2l3EFiVmfKydgmj957KwnQYy_DNZp-n4Tvbh80tdTFQVnEqt6ni14K08BRJdhys46iV9k8c1e-fr95Q%3D%3D)**
-
-Barron's • 5h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP send mixed cues, leaning slightly bearish](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-send-mixed-cues-leaning-slightly-bearish-202603250333)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are showing mixed signals on Wednesday as market momentum shows signs of fatigue. BTC holds its recent recovery, now nearing its key resistance, while ETH struggles below a critical level, and XRP’s momentum indicators tilt slightly bearish.
-
-FXStreet • 1d ago
+The Block • 1d ago
 
 ---
 
@@ -190,15 +170,29 @@ FXStreet • 1d ago
 
 A leading cryptocurrency analyst on Tuesday projected significant volatility for Dogecoin in the days ahead, while outlining a rosy outlook for gold. Which Way Is DOGE Headed? Ali Martinez took to X, highlighting a descending triangle formation on Dogecoin's 4-hour...
 
-Yahoo Finance • 34m ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[First BlackRock, now Bitmine. Will Tom Lee’s Ethereum staking play save share price?](https://www.dlnews.com/articles/markets/bitmine-and-tom-lee-make-ethereum-staking-play-as-share-price-dips/)**
+**[EtherRAT Techniques Bypass Security Via Ethereum Smart Contracts](https://www.infosecurity-magazine.com/news/etherrat-bypass-security-ethereum/)**
 
-The Made In America VAlidator Network, Bitmine’s Ethereum staking product, is now live.  Over 30% of Ethereum’s total circulating supply is now staked. Bitmine's shares are down 66% since October.
+EtherRAT hides C2 in Ethereum smart contracts via EtherHiding, steals wallets and credentials
 
-dlnews.com • 3h ago
+Infosecurity Magazine • 51m ago
+
+---
+
+**[Current price of Ethereum for March 26, 2026](https://fortune.com/article/price-of-ethereum-03-26-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Rise. How the Iran War Has Made Crypto Calls Tougher.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-12c9599e?gaa_at=eafs&gaa_n=AWEtsqcMmHWkjtz0l0wV2bUeo-YXbPQX7Vl_l2EYPUUFDJU1N8782BcPRt-T&gaa_ts=69c5595e&gaa_sig=JXnZ62aHyn16xMY6sXEFkUsJyGuOHVmGPL7ydcmswmtG8TmVWC5HDQlr3ie-KWlXmBcEKHSqDM1s7Sma_iu-pA%3D%3D)**
+
+Barron's • 2d ago
 
 ---
 
@@ -206,13 +200,13 @@ dlnews.com • 3h ago
 
 Crypto entrepreneur Nic Carter has urged Bitcoin developers to catch up on quantum resistance or risk losing out to Ethereum, which already has a post-quantum roadmap. Elliptic curve cryptography (ECC) is the math that keeps Bitcoin (BTC) secure. Users pick a secret number (private key) and, using…
 
-TradingView • 8h ago
+TradingView • 10h ago
 
 ---
 
 **[Ethereum’s Glamsterdam Upgrade Explained: Key Changes, Timeline and Why It Matters](https://www.ccn.com/education/crypto/ethereum-glamsterdam-upgrade-key-changes-timeline-impact/)**
 
-CCN.com • 3h ago
+CCN.com • 5h ago
 
 ---
 
@@ -224,17 +218,25 @@ The Motley Fool • 1d ago
 
 ---
 
+**[$164B stablecoin pool vs. Ethereum staking: Decoding CLARITY Act impact](https://ambcrypto.com/164b-stablecoin-pool-vs-ethereum-staking-decoding-clarity-act-impact/)**
+
+Ethereum bulls see opportunity despite Circle’s recent 20% drop. Their logic: Lower stablecoin yields could drive more activity into staking.
+
+AMBCrypto • 16h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[🚨 Tom Lee Launches MAVAN — BMNR Builds $300M Ethereum Yield Machine](https://www.youtube.com/watch?v=bGPC_M3b2Sg)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=5mULk-yNqKM)**
 
-Get My New Book Money Game and My Daily Trading Strategy for Free https://go.tedmcgrathbrands.com/optin-money-game-yt ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 MONEY GAME
+📺 More Crypto Online
 
-👁️ 5K • 👍 207 • 💬 24 • ⏱️ 12:42 • 19h ago
+👁️ 515 • 👍 58 • 💬 1 • ⏱️ 4:12 • 2h ago
 
 ---
 
@@ -244,17 +246,7 @@ You're not going to want to miss this INCREDIBLE Ether, technical analysis and i
 
 📺 Crypto Jebb
 
-👁️ 6K • 👍 239 • 💬 3 • ⏱️ 18:00 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=QfLqECfa9mc)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 106 • 💬 4 • ⏱️ 5:07 • 11h ago
+👁️ 6K • 👍 242 • 💬 3 • ⏱️ 18:00 • 1d ago
 
 ---
 
@@ -264,7 +256,37 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 64 • 👍 4 • 💬 2 • ⏱️ 4:33 • 4h ago
+👁️ 132 • 👍 6 • 💬 3 • ⏱️ 4:33 • 5h ago
+
+---
+
+**[🚨 Tom Lee Launches MAVAN — BMNR Builds $300M Ethereum Yield Machine](https://www.youtube.com/watch?v=bGPC_M3b2Sg)**
+
+Get My New Book Money Game and My Daily Trading Strategy for Free https://go.tedmcgrathbrands.com/optin-money-game-yt ...
+
+📺 MONEY GAME
+
+👁️ 5K • 👍 218 • 💬 29 • ⏱️ 12:42 • 20h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=QfLqECfa9mc)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 112 • 💬 4 • ⏱️ 5:07 • 13h ago
+
+---
+
+**[BMNR Stock can get to $42.25? if Ethereum DOES THIS!](https://www.youtube.com/watch?v=Jh75_BuKBw0)**
+
+What happens if ETH recovers to the 200 Day moving average with both technicals and fundamentals support this move?
+
+📺 Elijah Cheng
+
+👁️ 116 • 👍 20 • 💬 1 • ⏱️ 27:19 • 50m ago
 
 ---
 
@@ -274,7 +296,7 @@ BMNR is quietly building one of the largest Ethereum treasuries in the world now
 
 📺 The Value Thinker
 
-👁️ 9K • 👍 627 • 💬 98 • ⏱️ 24:16 • 1d ago
+👁️ 10K • 👍 647 • 💬 107 • ⏱️ 24:16 • 1d ago
 
 ---
 
@@ -284,7 +306,7 @@ Agar aap abhi crypto market me bullish feel kar rahe hain… toh ek baar ye vide
 
 📺 Earn With Sapna
 
-👁️ 864 • 👍 103 • 💬 7 • ⏱️ 8:10 • 4h ago
+👁️ 2K • 👍 175 • 💬 13 • ⏱️ 8:10 • 6h ago
 
 ---
 
@@ -294,37 +316,17 @@ BITCOIN & CRYPTO: Another Squeeze Starts Soon!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 6K • 👍 254 • 💬 171 • ⏱️ 16:33 • 14h ago
+👁️ 6K • 👍 266 • 💬 176 • ⏱️ 16:33 • 16h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum. Hat das Problem Probleme???Heute Massiver Drop incoming?](https://www.youtube.com/watch?v=bHK_CQdMegs)**
+**[Bitcoin &amp; Ethereum Analysis: Both Prices Ready For A Pump!](https://www.youtube.com/watch?v=g_brU44MMa0)**
 
-Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
+Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 Wick fill video: https://www.youtube.com/watch?v=3deyD4U69tg I am ...
 
-📺 Krypto Trading & Investing
+📺 Trading Jip
 
-👁️ 4K • 👍 742 • 💬 62 • ⏱️ 8:48 • 9h ago
-
----
-
-**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=fKZy_OezIXs)**
-
-ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
-
-📺 KhamitHEthics
-
-👁️ 5K • 👍 27 • 💬 14 • ⏱️ 18:01 • 13h ago
-
----
-
-**[BIG PROBLEM Altcoin Season is CANCELED BlackRock Larry Fink “Bitcoin and Ethereum” ONLY!](https://www.youtube.com/watch?v=6IvpHf6I6Fk)**
-
-BIG PROBLEM Altcoin Season is CANCELED BlackRock Larry Fink “Bitcoin and Ethereum” ONLY! SUMM (partner) ...
-
-📺 CryptoWendyO
-
-👁️ 6K • 👍 431 • 💬 35 • ⏱️ 26:18 • 19h ago
+👁️ 186 • 👍 11 • 💬 22 • ⏱️ 8:41 • 5h ago
 
 ---
 
