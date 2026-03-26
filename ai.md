@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-26T22:31:18.490626+00:00'
+updated: '2026-03-26T23:34:08.829428+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - news
+- social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 26, 2026 at 22:31 UTC  
+**Last Updated:** March 26, 2026 at 23:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced his sentient friend would make him a fortune. He’s just one of many people who lost control after an AI encounter
 
-🔗 [the Guardian](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion) • 11h ago
+🔗 [the Guardian](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion) • 12h ago
 
 ---
 
@@ -49,7 +49,7 @@ One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced
 
 OpenAI will discontinue Sora, its AI video platform, as Disney exits a $1B deal and industry backlash over copyright intensifies.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-sora-shutdown-disney-exit) • 7h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-sora-shutdown-disney-exit) • 8h ago
 
 ---
 
@@ -57,7 +57,7 @@ OpenAI will discontinue Sora, its AI video platform, as Disney exits a $1B deal 
 
 The Pentagon is spending $13.4 billion on AI this year alone.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/pentagon-formalizes-palantirs-maven-ai-as-a-core-military-system-with-multi-year-funding-platforms-investment-grows-to-usd13-billion-from-usd480-million-in-2024) • 21h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/pentagon-formalizes-palantirs-maven-ai-as-a-core-military-system-with-multi-year-funding-platforms-investment-grows-to-usd13-billion-from-usd480-million-in-2024) • 22h ago
 
 ---
 
@@ -65,7 +65,7 @@ The Pentagon is spending $13.4 billion on AI this year alone.
 
 hi, been thinking about this a lot lately. i’m currently learning 3 foreign languages and my experience has been… interesting, to say the least. been working on my skills with tutors, books, some apps, even went to a language exchange abroad in france. but honestly, considering the cost + availability, it kinda feels like AI tutors are slowly gonna start pushing native speakers/tutors out of the space like you can literally design your own tailor-made tutor and train it exactly how you want… which is kinda wild. but at the same time, isn’t the human interaction + spontaneity kinda the whole point of learning a language?? has anyone here actually built their own AI-powered tutor using AI agents, vibe coding with claude or anything like that?
 
-6h ago
+7h ago
 
 ---
 
@@ -73,7 +73,7 @@ hi, been thinking about this a lot lately. i’m currently learning 3 foreign la
 
 Quick rundown of what Meta's done since December: • Dec 2025: Acquired Manus (autonomous web agent) for $2B • Early 2026: Acqui-hired Moltbook team • Scale AI's Alexandr Wang stepped down as CEO to become Meta's first Chief AI Officer • March 23: Dreamer team (agentic AI platform) joins Meta Superintelligence Labs All of these teams are going into one division under Wang. Zuckerberg isn't just building models, he's assembling an entire talent army for agents. The Dreamer one is interesting because they were only in beta for a month before Meta grabbed them. The product let regular people build their own AI agents. Thousands of users already. Feels like Meta is betting everything on agents being the next platform shift, not just chatbots. What do you guys think - is this a smart consolidation play or is Zuck just panic-buying talent because open-source alone isn't enough? Full breakdown here
 
-17h ago
+19h ago
 
 ---
 
@@ -81,7 +81,7 @@ Quick rundown of what Meta's done since December: • Dec 2025: Acquired Manus (
 
 Hello Agenters, I need a few folks who have their AI agent running with some users to test my build. I've build an observability + monitoring + security tool that tracks Hallucinations, Prompt Injection, Bias, Toxicity, PII leak and stuff through different Detectors. It has a bunch of features like Prompt blocking, trace tree with token and cost calculation. I have 2 integration mentions for it: 1) Proxy API (2 line change. Best for no code and quick integration) 2) SDK (Full agent trace and observability) Why we built this We were building AI agents ourselves and kept hitting the same wall:Debugging LLM behavior is painful and messy. Logs weren’t enough, and existing tools felt either too heavy or too limited. So we decided to build something simple, fast, and actually useful for devs. How to try it? Comment below or DM me and I’ll share access + quick setup (takes ~5 mins) Its a free testing. Anyone who loves and wants to continue with us will be upgraded to Pro plan for lifetime.
 
-7h ago
+8h ago
 
 ---
 
@@ -89,7 +89,7 @@ Hello Agenters, I need a few folks who have their AI agent running with some use
 
 can you share some examples? I just started to look on youtube and the first bunch of results were not what i was looking for yet. I don't necessarily want to copy the project , i want see the workflow, the timing and rhythm of the succession of tasks, and be inspired to "port" their method to projects of my own, or come up with new ideas i haven't thougth yet.
 
-3h ago
+5h ago
 
 ---
 
@@ -97,7 +97,7 @@ can you share some examples? I just started to look on youtube and the first bun
 
 "The team trained machine learning models to identify patterns in the data that can tell astronomers the type of event that has been detected, something that AI models excel at. RAVEN is designed to handle the whole exoplanet-detection process in one go — from detecting the signal to vetting it with machine learning and then statistically validating it. That means that it has an additional edge over other contemporary tools that only focus on specific parts of this process ... "RAVEN allows us to analyze enormous datasets consistently and objectively," senior team member and University of Warwick researcher David Armstrong said in the statement. "Because the pipeline is well-tested and carefully validated, this is not just a list of potential planets — it is also reliable enough to use as a sample to map the prevalence of distinct types of planets around sun-like stars." Within the candidate close-in planets, researchers could then determine the types of planets and their populations in detail. This revealed that around 10% of stars like the sun host a close-in planet, validating findings made by TESS's exoplanet-hunting predecessor Kepler. RAVEN was also able to help researchers determine just how rare close-in Neptune-size worlds are, finding that they occur around just 0.08% of sun-like stars. This absence of these worlds close to their parent star is referred to as the "Neptunian desert" by astronomers. "For the first time, we can put a precise number on just how empty this 'desert' is," leader of the Neptunian desert study team, Kaiming Cui of the University of Warwick said in the statement. "These measurements show that TESS can now match, and in some cases surpass, Kepler for studying planetary populations." The RAVEN results demonstrate the power of AI to search through vast swathes of astronomical data to spot subtle effects."
 
-🔗 [Space](https://www.space.com/astronomy/exoplanets/100-new-alien-worlds-scientists-find-hidden-haul-in-data-from-nasa-exoplanet-hunting-spacecraft) • 22h ago
+🔗 [Space](https://www.space.com/astronomy/exoplanets/100-new-alien-worlds-scientists-find-hidden-haul-in-data-from-nasa-exoplanet-hunting-spacecraft) • 23h ago
 
 ---
 
@@ -105,7 +105,7 @@ can you share some examples? I just started to look on youtube and the first bun
 
 Google TurboQuant This is a new compression algorithm. Every time a model answers a question, it stores a massive amount of intermediate data. The longer the conversation - the more expensive it gets. Result: compresses that data 6x+ with no quality loss, giving an 8x speed boost on H100s. No retraining required - it just plugs into an existing model Moonshot AI (Kimi) Attention Residuals The old way: each layer takes its own output and simply adds whatever came from the layer below. The new way: instead of mechanically grabbing just the neighboring layer, the AI itself decides which layer matters right now and how much to take from it. It's the same attention mechanism already used for processing words in text, except now it works not horizontally (between words) but vertically (between layers) Result: +25% training efficiency with under 2% latency overhead, bc the model stops dragging around unnecessary baggage. It routes the right information to the right place more precisely and needs fewer training iterations to get to a good result Andrej Karpathy (one of the top AI researchers on the planet) publicly praised the work. One of the paper's authors is a 17 year old who came up with the idea during an exam What does this mean for business? TurboQuant = less hardware for the same workload, and long context at an affordable price Attention Residuals = cheaper model training
 
-11h ago
+12h ago
 
 ---
 
@@ -113,7 +113,7 @@ Google TurboQuant This is a new compression algorithm. Every time a model answer
 
 Wondering for secure enterprise wide AI usages, what all controls have you implemented? Beyond traditional firewall rules; are there any kill switches that could be implanted?
 
-10h ago
+11h ago
 
 ---
 
@@ -125,23 +125,7 @@ Wondering for secure enterprise wide AI usages, what all controls have you imple
 
 Coca-Cola CEO James Quincey and former Walmart CEO Doug McMillon have told CNBC that the next wave of artificial intelligence is a reason for their departures.
 
-CNBC • 7h ago
-
----
-
-**[AI Just One-Shotted Another CEO](https://gizmodo.com/ai-just-one-shotted-another-ceo-2000738610)**
-
-The old guard is out.
-
-Gizmodo • 3h ago
-
----
-
-**[Coca-Cola CEO Says He Stepped Down Due to Demands of AI Transformation](https://www.pymnts.com/personnel/2026/coca-cola-ceo-says-he-stepped-down-due-to-demands-of-ai-transformation/)**
-
-The upcoming changes driven by artificial intelligence (AI) played a role in the decision of Coca-Cola CEO James Quincey to step down from his role,
-
-PYMNTS.com • 1h ago
+CNBC • 8h ago
 
 ---
 
@@ -149,43 +133,59 @@ PYMNTS.com • 1h ago
 
 One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced his sentient friend would make him a fortune. He’s just one of many people who lost control after an AI encounter
 
-The Guardian • 10h ago
+The Guardian • 11h ago
 
 ---
 
-**[Test AI health care tools with humans who use them, experts say](https://www.axios.com/pro/health-tech-deals/2026/03/26/health-care-ai-tools-assessment)**
+**[AI is giving bad advice to flatter its users, says new study on dangers of overly agreeable chatbots](https://apnews.com/article/ai-sycophancy-chatbots-science-study-8dc61e69278b661cab1e53d38b4173b6)**
 
-Axios • 1h ago
+Artificial intelligence chatbots are so prone to flattering and validating their human users that they are giving bad advice that can damage relationships and reinforce harmful behaviors, according to a new study that explores the dangers of AI telling people what they want to hear.
 
----
-
-**[CBS News poll analysis on what things AI, rather than people, should do](https://www.cbsnews.com/news/what-ai-artificial-intelligence-should-do-poll-analysis/)**
-
-As AI use rises, many see it decreasing the number of jobs available.
-
-CBS News • 1h ago
+AP News • 1h ago
 
 ---
 
-**[Attorney Hit With Historic Fine for Citing AI-Generated Cases](https://gizmodo.com/attorney-hit-with-historic-fine-for-citing-ai-generated-cases-2000738651)**
+**[AITA? AI won’t tell you, and it’s affecting behavior and relationships](https://www.scientificamerican.com/article/ai-chatbots-are-sucking-up-to-you-with-consequences-for-your-relationships/)**
 
-Don't bother asking AI if the cases are real.
+A new study of AI sycophancy shows how asking agreeable chatbots for advice can change your behavior
 
-Gizmodo • 2h ago
+Scientific American • 5h ago
 
 ---
 
-**[Meta boosts investment in West Texas AI data center by over sixfold to $10 billion](https://www.cnbc.com/2026/03/26/meta-to-spend-10-billion-on-ai-data-center-in-el-paso-1gw-by-2028.html)**
+**[Forget GPUs: Custom AI Chips Are the Next Trillion-Dollar Opportunity. Here Are 2 Stocks to Buy Now.](https://finance.yahoo.com/sectors/technology/articles/forget-gpus-custom-ai-chips-222500492.html)**
 
-Meta is increasing investment at a data center in El Paso, Texas, to $10 billion from $1.5 billion, as the company ramps up spending on AI infrastructure.
+Many companies are moving away from general-purpose AI hardware like GPUs and toward their own custom chips. This is how to play it.
 
-CNBC • 3h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Anthropic Wins Court Order Pausing US Ban on AI Tool (Correct)](https://www.bloomberg.com/news/articles/2026-03-26/anthropic-wins-court-order-blocking-trump-ban-on-use-of-ai-tool)**
+
+Bloomberg.com • 25m ago
+
+---
+
+**[SAG-AFTRA ‘Strongly Supports’ Trump’s AI Policy Framework, Says Members ‘Deserve Protection’](https://www.yahoo.com/entertainment/celebrity/articles/sag-aftra-strongly-supports-trump-223406421.html)**
+
+SAG-AFTRA applauded the Trump administration’s new artificial intelligence policy framework, declaring Thursday that it “strongly supports” the initiative as they believe members "deserve protection."
+
+Yahoo • 1h ago
 
 ---
 
 **[Local Opposition Is Slowing A.I. Data Centers. Wall Street Has Noticed.](https://www.nytimes.com/2026/03/26/business/economy/ai-data-centers-construction-local-opposition.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
+
+---
+
+**[Welcome to a Multidimensional Economic Disaster](https://www.theatlantic.com/technology/2026/03/ai-boom-polycrisis/686559/)**
+
+The AI boom wasn’t built for the polycrisis.
+
+The Atlantic • 2h ago
 
 ---
 
@@ -193,7 +193,7 @@ The New York Times • 7h ago
 
 In an era of globalization and corporate consolidation, the “pick-and-shovel” ripple spreads very differently. It’s testing assumptions about who actually benefits when a mega-project arrives in town.
 
-Fortune • 14h ago
+Fortune • 15h ago
 
 ---
 
@@ -205,7 +205,7 @@ Fortune • 14h ago
 
 Is anybody else bored of talking about AI?
 
-⬆️ 737 • 💬 516 • 2d ago • [Unfinished Side Projects](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
+⬆️ 738 • 💬 517 • 2d ago • [Unfinished Side Projects](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
 
 ---
 
@@ -219,7 +219,7 @@ Search any airport for real-time delays, weather, arrivals, departures, and perf
 
 **[TurboQuant: Redefining AI efficiency with extreme compression](https://news.ycombinator.com/item?id=47513475)**
 
-⬆️ 534 • 💬 153 • 1d ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
+⬆️ 536 • 💬 154 • 1d ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
 
 ---
 
@@ -239,6 +239,14 @@ For two centuries, the credential system gave intelligence a route to heritable 
 
 ---
 
+**[New York City hospitals drop Palantir as controversial AI firm expands in UK](https://news.ycombinator.com/item?id=47535371)**
+
+The decision follows activist pressure as Palantir faces growing scrutiny over NHS and UK government deals
+
+⬆️ 210 • 💬 75 • 2h ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai)
+
+---
+
 **[Disney Exits OpenAI Deal After AI Giant Shutters Sora](https://news.ycombinator.com/item?id=47509234)**
 
 The studio giant will no longer move forward with its OpenAI investment, as the AI company exits the video generation business.
@@ -251,7 +259,7 @@ The studio giant will no longer move forward with its OpenAI investment, as the 
 
 One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced his sentient friend would make him a fortune. He’s just one of many people who lost control after an AI encounter
 
-⬆️ 173 • 💬 211 • 8h ago • [the Guardian](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion)
+⬆️ 179 • 💬 230 • 10h ago • [the Guardian](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion)
 
 ---
 
@@ -259,7 +267,7 @@ One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced
 
 I asked experts if I'm real. Bad news. Even my aunt wasn't sure if I was a deepfake. AI is so convincing that a sitting prime minister struggled to prove he's alive. You might be next.
 
-⬆️ 168 • 💬 190 • 1d ago • [bbc.com](https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake)
+⬆️ 171 • 💬 192 • 1d ago • [bbc.com](https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake)
 
 ---
 
@@ -271,25 +279,17 @@ Hi! If you like this piece and want to support my independent reporting and anal
 
 ---
 
-**[Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build](https://news.ycombinator.com/item?id=47499672)**
-
-Contribute to AmElmo/proofshot development by creating an account on GitHub.
-
-⬆️ 154 • 💬 96 • 2d ago • [GitHub](https://github.com/AmElmo/proofshot)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
 
-**[AI Whistleblower: We Are Being Gaslit By The AI Companies! They’re Hiding The Truth About AI!](https://www.youtube.com/watch?v=Cn8HBj8QAbk)**
+**[The Wildest AI Film You&#39;ll See Today! (Seedance 2.0)](https://www.youtube.com/watch?v=dRjN6Cr2Z00)**
 
-The truth about Sam Altman. AI Critic Karen Hao reveals what 90 OpenAI employees told her. Karen Hao is an AI expert, ...
+"Dragon Blue" is a hyper-stylized action thriller about vengeance and katanas, what more could you ask for? Every shot was ...
 
-📺 The Diary Of A CEO
+📺 Theoretically Media
 
-👁️ 576K • 👍 20K • 💬 4K • ⏱️ 2:09:13 • 14h ago
+👁️ 23K • 👍 2K • 💬 559 • ⏱️ 3:34 • 1d ago
 
 ---
 
@@ -299,57 +299,17 @@ Grab the Action Guide https://parker-prompts.com/5-like-5 In this video, I break
 
 📺 Parker Prompts
 
-👁️ 10K • 💬 8 • ⏱️ 12:30 • 9h ago
+👁️ 11K • 💬 8 • ⏱️ 12:30 • 10h ago
 
 ---
 
-**[The Wildest AI Film You&#39;ll See Today! (Seedance 2.0)](https://www.youtube.com/watch?v=dRjN6Cr2Z00)**
+**[AI Whistleblower: We Are Being Gaslit By The AI Companies! They’re Hiding The Truth About AI!](https://www.youtube.com/watch?v=Cn8HBj8QAbk)**
 
-"Dragon Blue" is a hyper-stylized action thriller about vengeance and katanas, what more could you ask for? Every shot was ...
+The truth about Sam Altman. AI Critic Karen Hao reveals what 90 OpenAI employees told her. Karen Hao is an AI expert, ...
 
-📺 Theoretically Media
+📺 The Diary Of A CEO
 
-👁️ 21K • 👍 2K • 💬 545 • ⏱️ 3:34 • 1d ago
-
----
-
-**[Iran Trolls Trump With AI Videos Mocking Epic Fury](https://www.youtube.com/watch?v=T0Dqx6oG_a0)**
-
-Iranians are creating high quality videos with AI to mock Trump. Download Rumble Wallet and step away from the big banks --- for ...
-
-📺 Kim Iversen
-
-👁️ 49K • 👍 5K • 💬 951 • ⏱️ 19:01 • 1d ago
-
----
-
-**[AI isn&#39;t going how we thought it would](https://www.youtube.com/watch?v=RsRVI6a0ZdU)**
-
-Sources for this video: https://www.perplexity.ai/search/what-are-the-studies-showing-t-XhYKezmqQ5yeO3lqRFgPoQ?sm=d.
-
-📺 David Shapiro
-
-👁️ 35K • 💬 320 • ⏱️ 21:46 • 1d ago
-
----
-
-**[Could AI End Humanity in Five Years? Ronny Chieng Investigates | The Daily Show](https://www.youtube.com/watch?v=cYTMjwZzzxg)**
-
-AI is changing the world, giving young people terminal brain rot, and stealing our jobs, but is it also trying to kill us? Daniel ...
-
-📺 The Daily Show
-
-👁️ 407K • 👍 12K • 💬 1K • ⏱️ 6:01 • 21h ago
-
----
-
-**[🇺🇸 First Lady Melania Trump Showcases Figure 03 Humanoid AI Robot at White House Fostering Summit](https://www.youtube.com/watch?v=raQ1pAtisqA)**
-
-Live coverage of speeches, rallies, and events across America with raw, unfiltered, authentic reporting. MAGNO NEWS is ...
-
-📺 MAGNO NEWS
-
-👁️ 30K • 👍 1K • 💬 314 • ⏱️ 2:33 • 1d ago
+👁️ 686K • 👍 22K • 💬 4K • ⏱️ 2:09:13 • 15h ago
 
 ---
 
@@ -359,7 +319,47 @@ Patrick Bet-David and the panel break down how AI agents like Claude are changin
 
 📺 Valuetainment
 
-👁️ 49K • 👍 1K • 💬 183 • ⏱️ 13:13 • 9h ago
+👁️ 65K • 👍 2K • 💬 211 • ⏱️ 13:13 • 10h ago
+
+---
+
+**[Iran Trolls Trump With AI Videos Mocking Epic Fury](https://www.youtube.com/watch?v=T0Dqx6oG_a0)**
+
+Iranians are creating high quality videos with AI to mock Trump. Download Rumble Wallet and step away from the big banks --- for ...
+
+📺 Kim Iversen
+
+👁️ 52K • 👍 5K • 💬 980 • ⏱️ 19:01 • 1d ago
+
+---
+
+**[Two AI Models Set to “stir government urgency”, But Will This Challenge Undo Them?](https://www.youtube.com/watch?v=s4tptozUJ8Y)**
+
+First look at exclusive reports about OpenAI's new Spud model, and the model Anthropic think will stir governments to urgency, ...
+
+📺 AI Explained
+
+👁️ 12K • 👍 831 • 💬 147 • ⏱️ 16:27 • 3h ago
+
+---
+
+**[How I Generate 1,000 AI Videos of myself from ONE Single Image!](https://www.youtube.com/watch?v=ogC7cSPB5Lw)**
+
+Generate AI Videos of Yourself using Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=isa7 In this video, I break down how to turn a ...
+
+📺 Isa does AI
+
+👁️ 10K • 💬 3 • ⏱️ 8:10 • 9h ago
+
+---
+
+**[OPENAI HAS SHUT DOWN SORA AI #shorts](https://www.youtube.com/watch?v=0DKiV3uoYfQ)**
+
+HUGE W FOR GAMING #steam #chatgpt #xbox #playstation #nintendo #gaming #skit #fyp #funny #shorts.
+
+📺 jacobweeby
+
+👁️ 81K • 👍 12K • 💬 472 • ⏱️ 1:00 • 31m ago
 
 ---
 
@@ -369,17 +369,17 @@ Patreon: https://patreon.com/FlashbackHistory WANT MORE? - Check out our sister 
 
 📺 Flashback History
 
-👁️ 32K • 👍 6K • 💬 2K • ⏱️ 22:05 • 23h ago
+👁️ 35K • 👍 6K • 💬 2K • ⏱️ 22:05 • 1d ago
 
 ---
 
-**[US Iran War Alert: Iran’s AI Video Shows Nuclear Warning To America—Chilling Message Revealed](https://www.youtube.com/watch?v=x6ZFNdMuMn8)**
+**[OpenAI just killed SORA](https://www.youtube.com/watch?v=osSTRP4_o18)**
 
-Iranian state-linked media (IRIB) and the Islamic Revolutionary Guard Corps (IRGC) have released a viral AI-generated ...
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
 
-📺 MIRROR NOW
+📺 Wes Roth
 
-👁️ 21K • 👍 493 • 💬 213 • ⏱️ 3:06 • 10h ago
+👁️ 12K • 👍 379 • 💬 122 • ⏱️ 6:59 • 1d ago
 
 ---
 
@@ -395,7 +395,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 184,056 • ❤️ 1,386 • 2d ago
+⬇️ 184,056 • ❤️ 1,390 • 2d ago
 
 ---
 
@@ -407,7 +407,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 425,497 • ❤️ 972 • 16d ago
+⬇️ 425,497 • ❤️ 973 • 16d ago
 
 ---
 
@@ -419,7 +419,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 55,529 • ❤️ 316 • 1d ago
+⬇️ 55,529 • ❤️ 319 • 2d ago
 
 ---
 
@@ -431,67 +431,7 @@ daVinci-MagiHuman is a fast, single-stream Transformer model for generating high
 
 `image-to-video`
 
-⬇️ 273 • ❤️ 189 • 1d ago
-
----
-
-**[Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF)**
-
-*JIRONG*
-
-Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text model fine-tuned for efficient chain-of-thought reasoning, achieving higher accuracy per token with reduced reasoning length. It excels in general reasoning tasks like math and logic, with strong cross-task generalization demonstrated by its HumanEval performance.
-
-`image-text-to-text` `26.9B`
-
-⬇️ 57,056 • ❤️ 164 • 1d ago
-
----
-
-**[OmniCoder-9B](https://huggingface.co/Tesslate/OmniCoder-9B)**
-
-*Tesslate*
-
-OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajectories from frontier models, excelling in complex reasoning, error recovery, and tool use with a 262K native context window.
-
-`text-generation`
-
-⬇️ 22,089 • ❤️ 473 • 13d ago
-
----
-
-**[Qianfan-OCR](https://huggingface.co/baidu/Qianfan-OCR)**
-
-*BAIDU*
-
-Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document intelligence, capable of direct image-to-Markdown conversion and supporting prompt-driven tasks like document parsing, table extraction, and question answering across 192 languages. It achieves state-of-the-art performance on benchmarks like OmniDocBench v1.5 with its innovative 'Layout-as-Thought' mechanism.
-
-`image-text-to-text` `4.7B`
-
-⬇️ 11,868 • ❤️ 379 • 8h ago
-
----
-
-**[Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF)**
-
-*JIRONG*
-
-Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-tuned for enhanced reasoning capabilities using Claude 4.6 Opus Chain-of-Thought distillation. It excels at structured, step-by-step problem-solving within `<think>` tags, making it ideal for coding agents and complex task execution with improved autonomy and stability.
-
-`image-text-to-text` `26.9B`
-
-⬇️ 510,875 • ❤️ 424 • 2d ago
-
----
-
-**[Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF](https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF)**
-
-*JIRONG*
-
-Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2 is a fine-tuned LLM optimized for efficient chain-of-thought reasoning, delivering higher accuracy with reduced token usage. It excels in resource-constrained environments and agentic workflows by providing faster, more economical reasoning.
-
-`image-text-to-text` `9.0B`
-
-⬇️ 66,854 • ❤️ 168 • 3d ago
+⬇️ 273 • ❤️ 193 • 1d ago
 
 ---
 
@@ -503,7 +443,67 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 `text-to-speech`
 
-⬇️ 108 • ❤️ 134 • 6h ago
+⬇️ 108 • ❤️ 179 • 8h ago
+
+---
+
+**[Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF)**
+
+*JIRONG*
+
+Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text model fine-tuned for efficient chain-of-thought reasoning, achieving higher accuracy per token with reduced reasoning length. It excels in general reasoning tasks like math and logic, with strong cross-task generalization demonstrated by its HumanEval performance.
+
+`image-text-to-text` `26.9B`
+
+⬇️ 57,056 • ❤️ 167 • 1d ago
+
+---
+
+**[OmniCoder-9B](https://huggingface.co/Tesslate/OmniCoder-9B)**
+
+*Tesslate*
+
+OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajectories from frontier models, excelling in complex reasoning, error recovery, and tool use with a 262K native context window.
+
+`text-generation`
+
+⬇️ 22,089 • ❤️ 475 • 13d ago
+
+---
+
+**[Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF)**
+
+*JIRONG*
+
+Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-tuned for enhanced reasoning capabilities using Claude 4.6 Opus Chain-of-Thought distillation. It excels at structured, step-by-step problem-solving within `<think>` tags, making it ideal for coding agents and complex task execution with improved autonomy and stability.
+
+`image-text-to-text` `26.9B`
+
+⬇️ 510,875 • ❤️ 426 • 2d ago
+
+---
+
+**[Qianfan-OCR](https://huggingface.co/baidu/Qianfan-OCR)**
+
+*BAIDU*
+
+Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document intelligence, capable of direct image-to-Markdown conversion and supporting prompt-driven tasks like document parsing, table extraction, and question answering across 192 languages. It achieves state-of-the-art performance on benchmarks like OmniDocBench v1.5 with its innovative 'Layout-as-Thought' mechanism.
+
+`image-text-to-text` `4.7B`
+
+⬇️ 11,868 • ❤️ 379 • 10h ago
+
+---
+
+**[Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF](https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF)**
+
+*JIRONG*
+
+Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2 is a fine-tuned LLM optimized for efficient chain-of-thought reasoning, delivering higher accuracy with reduced token usage. It excels in resource-constrained environments and agentic workflows by providing faster, more economical reasoning.
+
+`image-text-to-text` `9.0B`
+
+⬇️ 66,854 • ❤️ 169 • 3d ago
 
 ---
 
@@ -566,7 +566,7 @@ Enhancements to the AgentScope platform improve scalability, efficiency, and eas
 
 Hyperagents represent a self-referential framework that integrates task and meta-agents into a single editable program, enabling metacognitive self-modification and open-ended improvement across diverse computational domains.
 
-▲ 33 • 💬 5 • ⭐ 1,003 • 7d ago
+▲ 33 • 💬 5 • ⭐ 1,198 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.19461) • [💻 code](https://github.com/facebookresearch/Hyperagents)
 
@@ -580,7 +580,7 @@ Hyperagents represent a self-referential framework that integrates task and meta
 
 LeWorldModel presents a stable end-to-end JEPA framework that trains efficiently from raw pixels using minimal loss terms while maintaining competitive performance in control tasks and encoding meaningful physical structures.
 
-▲ 5 • 💬 1 • ⭐ 957 • 13d ago
+▲ 6 • 💬 1 • ⭐ 1,022 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.19312) • [💻 code](https://github.com/lucas-maes/le-wm) • [🔗 project](https://le-wm.github.io/)
 
@@ -598,18 +598,6 @@ daVinci-MagiHuman is an open-source audio-video generative model that synchroniz
 
 ---
 
-**[MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling](https://huggingface.co/papers/2511.11793)**
-
-*MiroMind Team, Song Bai, Lidong Bing et al. (54 authors)*
-
-We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
-
-▲ 194 • 💬 5 • ⭐ 8,326 • 4mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
-
----
-
 **[Memento-Skills: Let Agents Design Agents](https://huggingface.co/papers/2603.18743)**
 
 *Huichi Zhou, Siyuan Guo, Anjie Liu et al. (17 authors)*
@@ -618,9 +606,21 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 A generalist language model agent system autonomously designs and improves task-specific agents through memory-based reinforcement learning with stateful prompts and skill libraries.
 
-▲ 50 • 💬 2 • ⭐ 603 • 7d ago
+▲ 50 • 💬 2 • ⭐ 702 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.18743) • [💻 code](https://github.com/Memento-Teams/Memento-Skills) • [🔗 project](https://memento.run/)
+
+---
+
+**[MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling](https://huggingface.co/papers/2511.11793)**
+
+*MiroMind Team, Song Bai, Lidong Bing et al. (54 authors)*
+
+We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
+
+▲ 194 • 💬 5 • ⭐ 8,366 • 4mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
 
 ---
 
@@ -646,7 +646,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 57.2k • 🔱 8.0k • 22h ago
+⭐ 57.3k • 🔱 8.0k • 23h ago
 
 ---
 
@@ -656,7 +656,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 22.6k • 🔱 1.1k • 3h ago
+⭐ 22.7k • 🔱 1.1k • 4h ago
 
 ---
 
@@ -666,7 +666,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 12.5k • 🔱 669 • 12h ago
+⭐ 12.5k • 🔱 670 • 13h ago
 
 ---
 
@@ -676,7 +676,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 7.5k • 🔱 601 • 2h ago
+⭐ 7.6k • 🔱 602 • 3h ago
 
 ---
 
@@ -726,7 +726,7 @@ Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messag
 
 `Go`
 
-⭐ 3.1k • 🔱 275 • 15h ago
+⭐ 3.1k • 🔱 276 • 16h ago
 
 ---
 
