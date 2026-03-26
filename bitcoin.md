@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-26T06:13:59.603614+00:00'
+updated: '2026-03-26T07:42:38.432826+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 26, 2026 at 06:13 UTC  
+**Last Updated:** March 26, 2026 at 07:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** -0.7%  
+**24h:** -1.7%  
+**7d:** -0.6%  
 **30d:** +3.1%  
-**90d:** -20.4%  
+**90d:** -20.3%  
 **1y:** -19.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1416.31B
+**Market Cap:** $1400.43B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--43.9%
+-44.5%
 
 **All-Time Low:** $67.81
-+104297.6%
++103170.9%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[My favourite video 😅](https://www.reddit.com/r/Bitcoin/comments/1s3usw5/my_favourite_video/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Be careful out there, Morgan Stanley wants your bitcoin](https://www.reddit.com/r/Bitcoin/comments/1s3pa4v/be_careful_out_there_morgan_stanley_wants_your/)**
 
-7h ago
+9h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 The 70K before the 70K before the 68K before the 70K before the 72K before the 70K! GAHDAM! AMERICA!!! 🦅🦅🦅
 
-7h ago
+9h ago
 
 ---
 
@@ -101,7 +101,23 @@ The 70K before the 70K before the 68K before the 70K before the 72K before the 7
 
 i have no idea of what i’m doing.. i just felt like it.. is it a good time to start this?
 
-18h ago
+19h ago
+
+---
+
+**[Daily Discussion, March 26, 2026](https://www.reddit.com/r/Bitcoin/comments/1s3zewp/daily_discussion_march_26_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+1h ago
+
+---
+
+**[Ranking the top CEXs by customer support.](https://www.reddit.com/r/Bitcoin/comments/1s400vj/ranking_the_top_cexs_by_customer_support/)**
+
+​ Kraken (always incredible) BitMart (actually had a human respond to my ticket in 10 mins) Coinbase (hit or miss) Binance (good luck). Customer service is severely underrated until you actually need it to unlock a deposit. Then you know who to trust.
+
+1h ago
 
 ---
 
@@ -109,39 +125,15 @@ i have no idea of what i’m doing.. i just felt like it.. is it a good time to 
 
 France has often framed crypto as a form of “unproductive wealth” basically something speculative, not especially useful to the real economy and that’s even more striking when you consider that crypto gains for individuals in France are generally taxed at a 30% flat rate And yet Macron is now attending Paris Blockchain Week this April At first glance, that sounds inconsistent. But I think both positions can coexist My read is that France may still be skeptical of crypto as a speculative asset, while recognizing that blockchain infrastructure, tokenization, stablecoins, digital identity and onchain finance are becoming too important to ignore I feel like this is less about France suddenly being pro-crypto, and more about France not wanting to be late on a sector that could become strategic What do you think? A real turning point, or just a PR move?
 
-17h ago
-
----
-
-**[Pen & Ink](https://www.reddit.com/r/Bitcoin/comments/1s3br1v/pen_ink/)**
-
-Art inspired by the best asset. Art by Shipwreck Sean
-
-16h ago
-
----
-
-**[When the Energy Crisis Reaches Electricity & Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1s39ugm/when_the_energy_crisis_reaches_electricity_bitcoin/)**
-
-Bitcoin does not escape material reality. It is secured by it. If the energy crisis moves beyond oil and gas and reaches electricity itself, the real question is no longer whether Bitcoin is bullish or bearish, but whether it remains structurally credible under pressure. What follows is not a market call, but a systems analysis of where the pressure would land first, what would actually weaken, and what might become more relevant precisely because the surrounding system is becoming more constrained.
-
-🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/when-the-energy-crisis-reaches-electricity) • 17h ago
-
----
-
-**[When was the first time you heard about Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1s3od86/when_was_the_first_time_you_heard_about_bitcoin/)**
-
-I first heard it from my computer science teacher at school in 2013. He taught us about what Blockchain is and how Bitcoin works but I was playing LOL and COD games until 2019 😂
-
-8h ago
-
----
-
-**[Cold wallet ideas](https://www.reddit.com/r/Bitcoin/comments/1s37ky1/cold_wallet_ideas/)**
-
-I'm looking for a cold wallet there are so many out there but not sure which one to get i plan to store bitcoin, some alt coins and memecoins. Any suggestions on which is a good one
-
 19h ago
+
+---
+
+**[My Take on Current Market Situation](https://www.reddit.com/r/Bitcoin/comments/1s405sg/my_take_on_current_market_situation/)**
+
+Looking at charts right now and thinking we might see Bitcoin testing around 94K area soon. If momentum stays strong could push for new highs On flip side, if we drop below 48K support level then we're probably looking at some serious discounts coming our way Been doing this since 2016 and learned hard lesson - trying to time perfect entries and exits is basically impossible unless you're some kind of trading genius. Just keep buying regularly and don't stress about temporary dips Had rough patch in 2017 where I lost quite a bit. Then 2021 was much better, made good returns but didn't cash out completely. Still doing same approach of buying consistently no matter what price does Best thing is tune out all the noise from both bulls and bears. Focus in your own plan and don't let emotions drive decisions. No FOMO buying at tops, no panic selling at bottoms Not giving financial advice here or trying to predict exact prices. Just sharing what worked for me as someone who's been through few cycles already. Everyone needs make their own choices but thought this might help people who feeling anxious about current situation
+
+54m ago
 
 ---
 
@@ -149,7 +141,15 @@ I'm looking for a cold wallet there are so many out there but not sure which one
 
 I’m a UK-based user of Gemini and I’ve been trying to withdraw my Bitcoin for weeks with no success. Every time I attempt a withdrawal, I get stuck in a broken authentication loop: I swipe to confirm the withdrawal It then asks me to approve via Authy But Gemini has removed Authy/SMS support And there is nowhere to enter the code So the withdrawal just… can’t complete. My account was recently recovered, and since then withdrawals appear to be restricted. I’ve contacted support multiple times and only get generic responses like “we’re working on it.” Now the really concerning part: Gemini is shutting down operations in the UK soon, and I still cannot access my funds. At this point, it feels like my assets are effectively locked due to a system failure on their side. Has anyone else experienced: The Authy/passkey issue? Withdrawal blocks after account recovery? Any success actually getting funds out recently? I’ve now escalated this to the Financial Conduct Authority and the Financial Ombudsman Service. Would really appreciate hearing if others are dealing with this or if anyone found a workaround.
 
-1h ago
+3h ago
+
+---
+
+**[Pen & Ink](https://www.reddit.com/r/Bitcoin/comments/1s3br1v/pen_ink/)**
+
+Art inspired by the best asset. Art by Shipwreck Sean
+
+17h ago
 
 ---
 
@@ -161,45 +161,37 @@ I’m a UK-based user of Gemini and I’ve been trying to withdraw my Bitcoin fo
 
 Bhutan transferred 519.7 BTC, worth $36.75 million, to two wallets on Wednesday, according to Arkham data.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
 **[BlackRock Issues $1 Trillion ‘Nonsense’ Crypto Market Price Warning Alongside Huge Bitcoin Prediction](https://www.forbes.com/sites/digital-assets/2026/03/25/500-million-in-the-next-five-years-blackrock-ceo-issues-huge-crypto-prediction-as-the-bitcoin-price-surges/)**
 
-Forbes • 18h ago
+Forbes • 19h ago
 
 ---
 
-**[One of the biggest bitcoin (BTC) sellers this year is a tiny Asian country](https://www.coindesk.com/markets/2026/03/26/bhutan-moves-another-500-bitcoin-to-exchanges-as-2026-outflows-top-usd150-million)**
+**[Some bitcoin indicators are still going the wrong way, challenging the bullish $70,000 holdout story](https://www.coindesk.com/markets/2026/03/26/some-bitcoin-indicators-are-still-going-the-wrong-way-challenging-the-bullish-usd70-000-holdout-story)**
 
-Bhutan moves another 500 bitcoin to exchanges as 2026 outflows top $150 million
+Key indicators cloud the bullish $70,000 holdout story.
 
 CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin inches toward $71,000 as hopes for U.S.-Iran talks push oil prices lower: CNBC Crypto World](https://www.cnbc.com/video/2026/03/25/bitcoin-inches-toward-71000-as-hopes-for-us-iran-talks-push-oil-prices-lower-cnbc-crypto-world.html)**
+**[Connecting Excellence Group eyes further Bitcoin treasury growth after record monthly revenues](https://uk.finance.yahoo.com/news/connecting-excellence-group-eyes-further-073200770.html)**
 
-On today's episode of CNBC Crypto World, bitcoin moves towards $71,000 after Iran counters a U.S. ceasefire plan. Also, Senators reportedly reached an agreement on crypto market structure legislation language to settle a dispute between the banking and crypto sectors. Franklin Templeton's Max Gokhman also discusses how bitcoin is performing as the Iran war continues.
+Connecting Excellence Group Plc (AQSE:XCE, OTCQB:XCELF), the executive recruitment firm with a Bitcoin treasury strategy, has reported record monthly net fee income of £250,000 in January 2026, following its debut on London's Aquis Stock Exchange in December. The company has continued to...
 
-CNBC • 11h ago
-
----
-
-**[$15 Billion in Bitcoin Options Expire Friday as Trump's Iran Deadline Looms](https://decrypt.co/362352/15-billion-bitcoin-options-expire-friday-trump-iran-deadline)**
-
-Nearly $15 billion in Bitcoin options expire on Deribit Friday, coinciding with a geopolitical deadline that could spark weekend volatility.
-
-Decrypt • 9h ago
+Yahoo Finance UK • 10m ago
 
 ---
 
-**[Bitcoin Tops $71,000 as Trump Postpones Iran Power Plant Strike Plans](https://finance.yahoo.com/markets/crypto/articles/bitcoin-tops-71-000-trump-121115129.html)**
+**[Google is accelerating its timeline for quantum reckoning. Here’s when Bitcoin, Ethereum need to be ready](https://www.dlnews.com/articles/markets/google-new-date-quantum-reckoning-bitcoin-ethereum-dev-prepare/)**
 
-The price move came after Donald Trump touted "productive conversations" regarding a cessation of hostilities in the Middle East.
+Google has set a timeline for post-quantum migration by 2029.  Quantum computing could theoretically undermine most cryptocurrencies' encryption models.  Ethereum Foundation has announced a four-pronged roadmap to address the quantum computing threat by 2029.
 
-Yahoo Finance • 2d ago
+dlnews.com • 1h ago
 
 ---
 
@@ -211,25 +203,33 @@ KCRG • 1d ago
 
 ---
 
-**[Bitcoin sinks below $70,000 as Bernstein analysts say token 'looks bottomed'](https://finance.yahoo.com/news/bitcoin-sinks-below-70000-as-bernstein-analysts-say-token-looks-bottomed-155220732.html)**
+**[Bitcoin inches toward $71,000 as hopes for U.S.-Iran talks push oil prices lower: CNBC Crypto World](https://www.cnbc.com/video/2026/03/25/bitcoin-inches-toward-71000-as-hopes-for-us-iran-talks-push-oil-prices-lower-cnbc-crypto-world.html)**
 
-The token has outperformed gold and equities during the Middle East conflict and was trading below $70,000 on Tuesday.
+On today's episode of CNBC Crypto World, bitcoin moves towards $71,000 after Iran counters a U.S. ceasefire plan. Also, Senators reportedly reached an agreement on crypto market structure legislation language to settle a dispute between the banking and crypto sectors. Franklin Templeton's Max Gokhman also discusses how bitcoin is performing as the Iran war continues.
 
-Yahoo Finance • 1d ago
-
----
-
-**[GameStop’s move to add bitcoin as a treasury asset turns 1. It hasn’t paid off yet.](https://www.marketwatch.com/story/gamestops-move-to-add-bitcoin-as-a-treasury-asset-turns-1-it-hasnt-paid-off-yet-ccb668e3?gaa_at=eafs&gaa_n=AWEtsqcFQ6GRGuPWntIPs7YzhPLX_rCE8buOMW1Woqu-CnEiBD1Uim5a-N1W&gaa_ts=69c4d213&gaa_sig=5sfeNevhttg_G86oe1wjduaw9z3wfrag2nXHsmtBvVDSvsltvjLETVOt_yd72VkYxd6MDCwSrNUGXaDn3pstHw%3D%3D)**
-
-MarketWatch • 14h ago
+CNBC • 12h ago
 
 ---
 
-**[Better Buy: Bitcoin vs. XRP](https://www.fool.com/investing/2026/03/25/better-buy-bitcoin-vs-xrp/)**
+**[$15 Billion in Bitcoin Options Expire Friday as Trump's Iran Deadline Looms](https://decrypt.co/362352/15-billion-bitcoin-options-expire-friday-trump-iran-deadline)**
 
-Which beaten-down crypto is the better buy right now? Two Motley Fool contributors make their cases for Bitcoin and XRP.
+Nearly $15 billion in Bitcoin options expire on Deribit Friday, coinciding with a geopolitical deadline that could spark weekend volatility.
 
-The Motley Fool • 18h ago
+Decrypt • 11h ago
+
+---
+
+**[Bitcoin Tops $71,000 as Trump Postpones Iran Power Plant Strike Plans](https://finance.yahoo.com/markets/crypto/articles/bitcoin-tops-71-000-trump-121115129.html)**
+
+The price move came after Donald Trump touted "productive conversations" regarding a cessation of hostilities in the Middle East.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Bitcoin’s Institutional Shift Drives Bernstein’s $150,000 Call](https://www.bloomberg.com/news/articles/2026-03-24/bitcoin-s-institutional-shift-drives-bernstein-s-150-000-call)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -285,17 +285,17 @@ The U.S. just revealed a $47 trillion liability problem and almost nobody is tal
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 1K • 💬 84 • ⏱️ 20:42 • 6h ago
+👁️ 15K • 👍 2K • 💬 94 • ⏱️ 20:42 • 7h ago
 
 ---
 
-**[Bitcoin: Preparing for the Next Leg Down](https://www.youtube.com/watch?v=yBJDk4a0e24)**
+**[Bitcoin inches toward $71,000 as hopes for U.S.-Iran talks push oil prices lower: CNBC Crypto World](https://www.youtube.com/watch?v=zt5AeGbHVxI)**
 
-In this video, we take a data-driven look at Bitcoin as it shows signs of preparing for another leg lower. Rather than relying on ...
+On today's episode of CNBC Crypto World, bitcoin moves towards $71000 after Iran counters a U.S. ceasefire plan. Also, Senators ...
 
-📺 Benjamin Cowen
+📺 CNBC Television
 
-👁️ 95K • 👍 6K • 💬 406 • ⏱️ 17:16 • 1d ago
+👁️ 8K • 👍 97 • 💬 141 • ⏱️ 8:47 • 11h ago
 
 ---
 
@@ -309,13 +309,23 @@ Markets are unstable, but Bitcoin may be quietly setting up for its next major m
 
 ---
 
-**[Bitcoin inches toward $71,000 as hopes for U.S.-Iran talks push oil prices lower: CNBC Crypto World](https://www.youtube.com/watch?v=zt5AeGbHVxI)**
+**[Bitcoin: Preparing for the Next Leg Down](https://www.youtube.com/watch?v=yBJDk4a0e24)**
 
-On today's episode of CNBC Crypto World, bitcoin moves towards $71000 after Iran counters a U.S. ceasefire plan. Also, Senators ...
+In this video, we take a data-driven look at Bitcoin as it shows signs of preparing for another leg lower. Rather than relying on ...
 
-📺 CNBC Television
+📺 Benjamin Cowen
 
-👁️ 7K • 👍 92 • 💬 140 • ⏱️ 8:47 • 10h ago
+👁️ 98K • 👍 6K • 💬 407 • ⏱️ 17:16 • 1d ago
+
+---
+
+**[Michael Saylor Spent $55B On Bitcoin](https://www.youtube.com/watch?v=UZqfkmHsbnU)**
+
+CONNECT WITH US* IG: https://www.instagram.com/icedcoffeehour JACK: https://www.instagram.com/jlsselby ...
+
+📺 The Iced Coffee Hour
+
+👁️ 18K • 👍 157 • 💬 22 • ⏱️ 0:25 • 9h ago
 
 ---
 
@@ -325,7 +335,7 @@ Everyone thinks they understand Bitcoin... but they don't. Because if Bitcoin is
 
 📺 Casual Finance
 
-👁️ 68K • 👍 4K • 💬 1K • ⏱️ 9:55 • 1d ago
+👁️ 70K • 👍 4K • 💬 1K • ⏱️ 9:55 • 1d ago
 
 ---
 
@@ -335,47 +345,37 @@ You're not going to want to miss this INCREDIBLE Ether, technical analysis and i
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 241 • 💬 100 • ⏱️ 13:34 • 12h ago
+👁️ 5K • 👍 246 • 💬 100 • ⏱️ 13:34 • 13h ago
 
 ---
 
-**[$7 TRILLION Is Leaving Gold (Bitcoin Is The Only Exit)](https://www.youtube.com/watch?v=EasqxUjVu3A)**
-
-Gold just entered a bear market during geopolitical chaos while Bitcoin held steady. That should make you rethink everything you ...
-
-📺 Simply Bitcoin
-
-👁️ 14K • 👍 1K • 💬 90 • ⏱️ 13:19 • 1d ago
-
----
-
-**[Crypto Hodlers - There is a PROBLEM here](https://www.youtube.com/watch?v=168U_HgSago)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Buy, Sell, Trade on Weex ($500 Bonus): ...
-
-📺 Altcoin Daily
-
-👁️ 40K • 👍 2K • 💬 71 • ⏱️ 9:19 • 1d ago
-
----
-
-**[Bitcoin BTC - You Can&#39;t Even Imagine What&#39;s About to Happen - I was Right About the Top &amp; CRASH](https://www.youtube.com/watch?v=9lYLuZotRII)**
-
-Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
-
-📺 Doctor of Pump & Dump
-
-👁️ 6K • 👍 448 • 💬 67 • ⏱️ 9:14 • 13h ago
-
----
-
-**[THIS CHANGES EVERYTHING FOR BITCOIN AND CRYPTO](https://www.youtube.com/watch?v=GJucRIG-Qhg)**
+**[Iran Rejects Peace - What It Means for Bitcoin](https://www.youtube.com/watch?v=Z18WI8SbAS4)**
 
 Stop Guessing - Ask Clash (beta) ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ...
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 964 • 💬 124 • ⏱️ 8:27 • 1d ago
+👁️ 8K • 👍 610 • 💬 183 • ⏱️ 7:15 • 6h ago
+
+---
+
+**[THE GREAT ROTATION FROM GOLD TO BITCOIN HAS BEGUN](https://www.youtube.com/watch?v=eCPsutO1Nvw)**
+
+Gold just experienced one of the most violent drawdowns in modern history… and almost nobody is asking the right question: ...
+
+📺 Swan Bitcoin
+
+👁️ 11K • 👍 659 • 💬 41 • ⏱️ 14:07 • 14h ago
+
+---
+
+**[🚨 Bitcoin Reclaims $70K — Gold&#39;s Massive Bounce — SPX Fighting for a Higher Low](https://www.youtube.com/watch?v=Fg4-SdEKdlw)**
+
+Bitcoin reclaims $70K as gold puts in a massive bounce and SPX fights to establish a higher low — live breakdown of whether this ...
+
+📺 Krown
+
+👁️ 6K • 👍 417 • 💬 136 • ⏱️ 1:57:20 • 13h ago
 
 ---
 

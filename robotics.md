@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-26T06:13:59.612725+00:00'
+updated: '2026-03-26T07:42:38.441937+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 26, 2026 at 06:13 UTC  
+**Last Updated:** March 26, 2026 at 07:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/2034708938269036686
 
-17h ago
+18h ago
 
 ---
 
 **[Figure 03 becomes the first humanoid robot to visit the White House](https://www.reddit.com/r/robotics/comments/1s3epc8/figure_03_becomes_the_first_humanoid_robot_to/)**
 
-14h ago
+15h ago
 
 ---
 
 **[“They are coming for our jobs..”](https://www.reddit.com/r/robotics/comments/1s3aomh/they_are_coming_for_our_jobs/)**
 
-16h ago
+18h ago
 
 ---
 
@@ -56,15 +56,7 @@ From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/20347089382690366
 
 AI-driven robotic hand with 21+ DoF and sub-millimeter precision, capable of delicate tasks like threading and micro-assembly. Uses tendon-driven actuation and real-time feedback for high consistency in controlled environments.
 
-13h ago
-
----
-
-**[Boost VC + Samsung Next just mapped the entire Robotics Data Infrastructure landscape (March 2026) and the gaps are obvious](https://www.reddit.com/r/robotics/comments/1s3x7an/boost_vc_samsung_next_just_mapped_the_entire/)**
-
-Emily Yu (Boost VC), Aurora Feng (Neural Motion), and Albert Kim (Samsung Next) just dropped a market map for robotics data infrastructure and it's worth studying carefully. Five categories: Simulations & Evaluation, Curation & Labeling, Ingestion & Sync, Storage & Indexing, Deployment & Operations. A few things jump out: The simulation layer is overcrowded. NVIDIA, Scale, Applied Intuition, Parallel Domain, Bifrost, Duality, Parallax Worlds, ReSim, ZeroMatter — that's 15+ companies fighting for the same synthetic data dollar. Everyone's betting the sim-to-real gap closes. Not everyone will be right. Curation & Labeling is consolidating around a few names. Scale appears in both simulation and labeling. Encord just raised $60M. The annotation layer is clearly where enterprise dollars are flowing right now. The biggest gap nobody on this map addresses: where does the raw real-world data actually come from? Collection isn't on this map at all. Build AI, Cortex AI, Mecka AI , Robotics Data AI(India) - none of them appear. The entire "get humans to physically collect diverse real-world data" layer is absent. That's either an oversight or a signal that the market hasn't figured out who wins collection yet. Second gap: geography. Every company on this map is North American or European. The most environmentally diverse places on Earth for robot training that is India, Southeast Asia, Africa have zero representation. Curious what others think! is collection a separate market entirely, or does it eventually get absorbed by the simulation/labeling layer?
-
-2h ago
+14h ago
 
 ---
 
@@ -72,7 +64,7 @@ Emily Yu (Boost VC), Aurora Feng (Neural Motion), and Albert Kim (Samsung Next) 
 
 I recently started working with the TurtleBot3 simulation in Gazebo using ROS2. So far, I’ve: - Cloned and launched the TB3 simulation - Explored basic movement and sensor data (LiDAR) - Started looking into the code/configs for SLAM and Nav2 While going through the stack, I realized things get complex pretty quickly — especially understanding how SLAM, localization, and navigation all connect. Right now, I’m a bit confused about where to focus. For example: - In SLAM, should I focus more on the algorithm concepts (like mapping/localization) or on the ROS2 implementation (packages like slam_toolbox)? - In Nav2, there are many components (costmaps, planners, controllers) — what’s the most important part to understand first? - Is it better to treat Nav2 as a “black box” initially and then break it down, or understand each module deeply from the start? My goal is to eventually build and control my own robot (starting in simulation). Would really appreciate advice on: 👉 What concepts/components I should prioritize 👉 A good learning path for SLAM + Nav2 in ROS2 Thanks!
 
-1h ago
+2h ago
 
 ---
 
@@ -80,7 +72,7 @@ I recently started working with the TurtleBot3 simulation in Gazebo using ROS2. 
 
 Hi a hobby idea came to me randomly about making a robot arm i can control with a camera like the classic 2 prong type however i can control via a camera looking at my arm but didn't know how to do it and what i need. I already have a 3d printer so thought it wouldn't be too difficult however its hard to find a similar scenario. Can anyone please help?
 
-8h ago
+10h ago
 
 ---
 
@@ -104,7 +96,15 @@ KOU-III is a two-legged robot from Shandong University that combines walking wit
 
 We&rsquo;re announcing our March Meeting where we&rsquo;ll talk plugins!  &ldquo;An introduction to a beginner-friendly tutorial series that teaches how to create&hellip;
 
-🔗 [Vimeo](https://vimeo.com/1177012951?share=copy&fl=sv&fe=ci) • 12h ago
+🔗 [Vimeo](https://vimeo.com/1177012951?share=copy&fl=sv&fe=ci) • 14h ago
+
+---
+
+**[New demo by Kyber Labs showing a system doing real lab tasks (one single take, no cuts, and no teleoperation just accelerated and some parts in 1x)](https://www.reddit.com/r/robotics/comments/1s299ix/new_demo_by_kyber_labs_showing_a_system_doing/)**
+
+From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/2036127368088080867 On Youtube: Kyber Labs - Wet Lab Demo: https://www.youtube.com/watch?v=iM7WjQYlFvM Kyber Labs Demos: https://kyberlabs.ai/demos
+
+1d ago
 
 ---
 
@@ -142,25 +142,25 @@ Live Science • 1d ago
 
 ---
 
-**[Melania Trump Appears With a Robot, Saying More Children Should Be Educated by Them](https://www.nytimes.com/2026/03/25/us/politics/melania-trump-robot.html)**
-
-The New York Times • 8h ago
-
----
-
-**[30 Years Ago, Robots Learned to Walk Without Falling](https://spectrum.ieee.org/honda-p2-robot-ieee-milestone)**
-
-How did Honda's P2 robot change the future of humanoid robotics?
-
-IEEE Spectrum • 1d ago
-
----
-
 **[Chicago leaders speak out after food delivery robots with Serve Robotics, Coco Robotics cause damage at CTA bus shelters](https://abc7chicago.com/post/chicago-leaders-speak-food-delivery-robots-serve-robotics-coco-cause-damage-cta-bus-shelters/18772726/)**
 
 Two recent incidents of food delivery robots smashing into CTA bus shelters days apart happened as Chicagoans continue to debate whether the robots are a public benefit or a nuisance.
 
-ABC7 Chicago • 7h ago
+ABC7 Chicago • 9h ago
+
+---
+
+**[Delivery robot smashes into Old Town bus shelter in second crash of the week](https://www.nbcchicago.com/news/local/delivery-robot-smashes-into-old-town-bus-shelter-in-second-crash-of-the-week/3913833/)**
+
+A delivery robot shattered the glass of an Chicago bus shelter Tuesday in the second such incident of its kind.
+
+NBC 5 Chicago • 6h ago
+
+---
+
+**[Melania Trump Appears With a Robot, Saying More Children Should Be Educated by Them](https://www.nytimes.com/2026/03/25/us/politics/melania-trump-robot.html)**
+
+The New York Times • 8h ago
 
 ---
 
@@ -176,7 +176,7 @@ Business Insider • 1d ago
 
 MIT engineers designed an ultrasound wristband that precisely tracks a wearer’s hand movements in real time and communicates the information to a robot or a virtual environment.
 
-MIT News • 20h ago
+MIT News • 21h ago
 
 ---
 
@@ -198,7 +198,7 @@ This week in robotics got kind of ridiculous. South Korea showed off a humanoid 
 
 📺 AI Revolution
 
-👁️ 185K • 👍 2K • 💬 132 • ⏱️ 14:31 • 3d ago
+👁️ 189K • 👍 2K • 💬 133 • ⏱️ 14:31 • 3d ago
 
 ---
 
@@ -208,17 +208,7 @@ This week in robotics got kind of ridiculous. South Korea showed off a humanoid 
 
 📺 RAI Institute
 
-👁️ 266K • 👍 8K • 💬 755 • ⏱️ 1:34 • 2d ago
-
----
-
-**[First Lady Melania Trump walks with robot to White House event on children&#39;s technology](https://www.youtube.com/watch?v=7sHSBgU5p4Y)**
-
-A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White House summit on empowering children with ...
-
-📺 C-SPAN
-
-👁️ 56K • 👍 386 • 💬 613 • ⏱️ 2:59 • 14h ago
+👁️ 286K • 👍 8K • 💬 816 • ⏱️ 1:34 • 2d ago
 
 ---
 
@@ -228,7 +218,17 @@ Floating Intake & Double Chain | 242W Wombo Combo | Robot Rundown This video is 
 
 📺 FUN Robotics Network
 
-👁️ 1K • 👍 40 • 💬 1 • ⏱️ 2:10 • 7h ago
+👁️ 2K • 👍 43 • 💬 2 • ⏱️ 2:10 • 9h ago
+
+---
+
+**[First Lady Melania Trump walks with robot to White House event on children&#39;s technology](https://www.youtube.com/watch?v=7sHSBgU5p4Y)**
+
+A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White House summit on empowering children with ...
+
+📺 C-SPAN
+
+👁️ 69K • 👍 427 • 💬 660 • ⏱️ 2:59 • 16h ago
 
 ---
 
@@ -238,17 +238,7 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 📺 CNET
 
-👁️ 16K • 👍 457 • 💬 27 • ⏱️ 5:50 • 3d ago
-
----
-
-**[WATCH: Melania Trump Makes a Triumphant Entrance and Suggests Humanoid Robots for Teaching - 3/25/26](https://www.youtube.com/watch?v=ImYeN2fcUJw)**
-
-Melania Trump Makes a Triumphant Entrance and Suggests Humanoid Robots for Education. March 25, 2026 Join this channel to ...
-
-📺 Right Side Broadcasting Network
-
-👁️ 29K • 👍 2K • 💬 780 • ⏱️ 10:02 • 14h ago
+👁️ 16K • 👍 458 • 💬 28 • ⏱️ 5:50 • 3d ago
 
 ---
 
@@ -258,7 +248,7 @@ Thanks to Delete Me for sponsoring this video. To keep your private info private
 
 📺 Kim Java
 
-👁️ 70K • 👍 4K • 💬 175 • ⏱️ 20:00 • 1d ago
+👁️ 74K • 👍 4K • 💬 182 • ⏱️ 20:00 • 1d ago
 
 ---
 
@@ -268,7 +258,17 @@ The Figure 03 recently visited the White House, becoming the first AI-powered hu
 
 📺 Kalil 4.0
 
-👁️ 4K • 👍 128 • 💬 20 • ⏱️ 0:44 • 13h ago
+👁️ 4K • 👍 134 • 💬 22 • ⏱️ 0:44 • 14h ago
+
+---
+
+**[6 Robots You Can Build in 2026](https://www.youtube.com/watch?v=8smjYAsxAts)**
+
+Learn for free on Brilliant for a full 30 days: https://brilliant.org/NikodemBartnik/ . You'll also get 20% off an annual Premium ...
+
+📺 Nikodem Bartnik
+
+👁️ 21K • 👍 1K • 💬 29 • ⏱️ 9:55 • 1d ago
 
 ---
 
@@ -288,7 +288,7 @@ Amazon bought the New York-based startup Fauna Robotics. The deal closed last we
 
 📺 Bloomberg Television
 
-👁️ 4K • 👍 29 • 💬 4 • ⏱️ 1:22 • 1d ago
+👁️ 4K • 👍 30 • 💬 4 • ⏱️ 1:22 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-26T06:13:59.595114+00:00'
+updated: '2026-03-26T07:42:38.424403+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 26, 2026 at 06:13 UTC  
+**Last Updated:** March 26, 2026 at 07:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The Pentagon is spending $13.4 billion on AI this year alone.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/pentagon-formalizes-palantirs-maven-ai-as-a-core-military-system-with-multi-year-funding-platforms-investment-grows-to-usd13-billion-from-usd480-million-in-2024) • 5h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/pentagon-formalizes-palantirs-maven-ai-as-a-core-military-system-with-multi-year-funding-platforms-investment-grows-to-usd13-billion-from-usd480-million-in-2024) • 6h ago
 
 ---
 
@@ -49,7 +49,7 @@ The Pentagon is spending $13.4 billion on AI this year alone.
 
 Quick rundown of what Meta's done since December: • Dec 2025: Acquired Manus (autonomous web agent) for $2B • Early 2026: Acqui-hired Moltbook team • Scale AI's Alexandr Wang stepped down as CEO to become Meta's first Chief AI Officer • March 23: Dreamer team (agentic AI platform) joins Meta Superintelligence Labs All of these teams are going into one division under Wang. Zuckerberg isn't just building models, he's assembling an entire talent army for agents. The Dreamer one is interesting because they were only in beta for a month before Meta grabbed them. The product let regular people build their own AI agents. Thousands of users already. Feels like Meta is betting everything on agents being the next platform shift, not just chatbots. What do you guys think - is this a smart consolidation play or is Zuck just panic-buying talent because open-source alone isn't enough? Full breakdown here
 
-1h ago
+3h ago
 
 ---
 
@@ -57,7 +57,7 @@ Quick rundown of what Meta's done since December: • Dec 2025: Acquired Manus (
 
 "The team trained machine learning models to identify patterns in the data that can tell astronomers the type of event that has been detected, something that AI models excel at. RAVEN is designed to handle the whole exoplanet-detection process in one go — from detecting the signal to vetting it with machine learning and then statistically validating it. That means that it has an additional edge over other contemporary tools that only focus on specific parts of this process ... "RAVEN allows us to analyze enormous datasets consistently and objectively," senior team member and University of Warwick researcher David Armstrong said in the statement. "Because the pipeline is well-tested and carefully validated, this is not just a list of potential planets — it is also reliable enough to use as a sample to map the prevalence of distinct types of planets around sun-like stars." Within the candidate close-in planets, researchers could then determine the types of planets and their populations in detail. This revealed that around 10% of stars like the sun host a close-in planet, validating findings made by TESS's exoplanet-hunting predecessor Kepler. RAVEN was also able to help researchers determine just how rare close-in Neptune-size worlds are, finding that they occur around just 0.08% of sun-like stars. This absence of these worlds close to their parent star is referred to as the "Neptunian desert" by astronomers. "For the first time, we can put a precise number on just how empty this 'desert' is," leader of the Neptunian desert study team, Kaiming Cui of the University of Warwick said in the statement. "These measurements show that TESS can now match, and in some cases surpass, Kepler for studying planetary populations." The RAVEN results demonstrate the power of AI to search through vast swathes of astronomical data to spot subtle effects."
 
-🔗 [Space](https://www.space.com/astronomy/exoplanets/100-new-alien-worlds-scientists-find-hidden-haul-in-data-from-nasa-exoplanet-hunting-spacecraft) • 6h ago
+🔗 [Space](https://www.space.com/astronomy/exoplanets/100-new-alien-worlds-scientists-find-hidden-haul-in-data-from-nasa-exoplanet-hunting-spacecraft) • 7h ago
 
 ---
 
@@ -69,11 +69,27 @@ What if building more and more datacenters was not the only option? If we are ab
 
 ---
 
+**[Google Gemini still has no native chat export in 2025. Here's how I solved it for my research workflow.](https://www.reddit.com/r/artificial/comments/1s40w44/google_gemini_still_has_no_native_chat_export_in/)**
+
+One thing that's always bothered me about Gemini: you can run a 30-minute Deep Research session, get an incredible research report with 40+ citations, and then... there's no export button. Not even copy-to-clipboard for the formatted version. Compare this to ChatGPT which has had a built-in export function for a while now. My workflow is heavy Gemini use for research, then piping the output into Obsidian for long-form writing. The lack of export was a constant manual friction point. I ended up building a Chrome extension to solve this: Gemini Export Studio. What it does: - Export to PDF, Markdown (Obsidian-ready), JSON, CSV, Plain Text, or PNG - Deep Research exports with citations preserved inline - Merge multiple chats into one document - PII scrubbing (auto-redacts emails/names before sharing) - 100% local processing, no servers, no account It's free. Link in comments to avoid spam filter. Curious if others have hit this same wall with Gemini and what workarounds you've used.
+
+9m ago
+
+---
+
+**[Can any one prove that i am wrong ? People dont use AI when it comes to emotion.](https://www.reddit.com/r/artificial/comments/1s401q9/can_any_one_prove_that_i_am_wrong_people_dont_use/)**
+
+Many company are trying to replace some job roles with AI . But i dont agree with that i dont think people need that , what do you think ? 1) Founders building Sales AI agent products and company replacing Sales persons with AI voice : i think one of the factor which people buy products and services due to human to human trust. 2) [*recommendation*](https://search.brave.com/search?q=recommendation&spellcheck=0&source=alteredQuery) : will you watch a movie that is just reviewed by AI , Do you trust an AI given trip itinerary or a human prepared itinerary . I trust humans because i care about humans. 3) AI robots toys or pets : i dont think they can replace real pets , why because ai robots are so perfect and [*predictable*](https://search.brave.com/search?q=predictable&spellcheck=0&source=alteredQuery) *and i belive people dont like that .* *After using LLMs for more than 2 years i dont feel i am using AI for anything which is connected with my emotions , what do you think*
+
+1h ago
+
+---
+
 **[A nearly undetectable LLM attack needs only a handful of poisoned samples](https://www.reddit.com/r/artificial/comments/1s3zenu/a_nearly_undetectable_llm_attack_needs_only_a/)**
 
 Prompt engineering has become a standard part of how large language models are deployed in production, and it introduces an attack surface most organizations have not yet addressed. Researchers have developed and tested a prompt-based backdoor attack method, called ProAttack, that achieves attack success rates approaching 100% on multiple text classification benchmarks without altering sample labels or injecting external trigger words.
 
-🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/03/26/llm-backdoor-attack-research/) • 11m ago
+🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/03/26/llm-backdoor-attack-research/) • 1h ago
 
 ---
 
@@ -81,7 +97,7 @@ Prompt engineering has become a standard part of how large language models are d
 
 I've been using Gemini for deep research and architecture planning, and the outputs are genuinely impressive. But I keep running into the same problem: once the research is done, getting it OUT of Gemini cleanly is painful. Copy-paste breaks all the formatting. Screenshots of long chats = 15 ugly images. Pasting into Notion = disaster. I ended up building a Chrome extension to export chats as PDF, Markdown, JSON, CSV, or plain text — one click, no server, no sign-up. But I'm curious — what do you all do? Manual copy-paste? Screenshot? Something else? What format do you actually need your Gemini outputs in for your workflow?
 
-53m ago
+2h ago
 
 ---
 
@@ -89,31 +105,15 @@ I've been using Gemini for deep research and architecture planning, and the outp
 
 Researchers have used artificial intelligence to develop a new tool for assessing earthquake damage, a leap that could ultimately help first responders in making critical rescue decisions, suggests a new study. The team's AI, called the LoRA-Enhanced Ground-view Generation (LEGG) diffusion model, is trained on real aerial drone images that it uses to create highly photorealistic 3D reconstructions of the ground. Creating imagery detailed enough to fully capture a region's physical characteristics distinguishes this synthetic model, enabling it to recognize complex visual patterns and predict where structures may be damaged, even in densely populated urban areas. "What our algorithm does is generate thousands of pairs of semi-realistic photos of what a building looks like on the top and from the ground," said Rongjun Qin, co-author of the study and a professor of civil, environmental and geodetic engineering at The Ohio State University. "Having such data is vital, as drones gather important information from above, but people actually make emergency decisions from ground-level views." Similar studies on the aftermath of devastating earthquakes relied on UAV or lidar-based detection methods to survey collapsed buildings and structures from above, but none had addressed how damage might have looked on the ground prior to prolonged rescue efforts. Moreover, depending on the severity of the earthquake, manual damage assessments can take days or weeks to fully complete, which isn't ideal for rapid recovery missions. In this paper, Qin and his colleagues introduce a framework for bridging these gaps using AI-generated images, with the aim of laying the foundation for more accurate disaster assessment and better earthquake preparedness. "This simulation is essentially a map, but an experienced and well-trained AI could offer an additional supply of information that would be really helpful for emergency crews in making quick decisions about where to go when the clock is ticking," said Qin. The study was published in the International Journal of Remote Sensing. To test the applicability of their proposed algorithm, researchers conducted a case study on a real-world disaster, the 2023 Kahramanmaras, Turkey, earthquake, a powerful 7.8 magnitude quake that destroyed 280,000 buildings and damaged at least 700,000 more. Comparing drone imagery from 2015 to photos taken in the days after the shake revealed dramatic changes in the local built environment, such as collapsed buildings and temporary shelters in open areas. After showing their AI a dataset of only 3,000 of these city structures, the model was able to create images that enhanced the recognition of a number of building issues, including façade cracks, building tilts and partial collapses, demonstrating that it could extract subtle cues from multiple sources to generate high-resolution, photorealistic street-level views. This advanced capability stems from the combination of drone and ground imagery that researchers injected it with to ensure the model had a strong starting point for understanding potential structural damage and its community effects, said Qin. "As long as you have good data, AI can serve as a very generous predictor of past and future outcomes," he said. "It's a tool that can be incredibly helpful." In the future, applying the team's framework to novel scenarios or areas could inspire governments and engineers to design more resilient infrastructures as well as reshape post-disaster assessment and emergency management policies. "This work presents a great opportunity for engineers and other decision makers to remotely assess the damage in structures soon after a disaster," said Halil Sezen, co-author of the paper and a professor of structural engineering in civil, environmental and geodetic engineering at Ohio State. That said, their algorithm will likely be utilized in tandem with other emergency or resource planning tools, said Qin, noting that with more in-depth experiments, the model could help anticipate destruction levels in other earthquake-prone environments, like Japan or California. "There is still a lot of work to be done to bring in the kind of perspective AI offers," said Qin. "But the more good quality data that we have, the faster we're going to achieve our goals."
 
-🔗 [phys.org](https://phys.org/news/2026-03-ai-survey-future-earthquake.html) • 6h ago
+🔗 [phys.org](https://phys.org/news/2026-03-ai-survey-future-earthquake.html) • 8h ago
 
 ---
 
-**[Co-founder of the Center for Humane Technology, Tristan Harris, speaking with podcast host Nate Hagens about the multiple nuanced risks and promises of A.I.](https://www.reddit.com/r/artificial/comments/1s3m22x/cofounder_of_the_center_for_humane_technology/)**
+**[AI is biometric and most of the laborers learning models today are built off my biometric signature let’s chat](https://www.reddit.com/r/artificial/comments/1s40d15/ai_is_biometric_and_most_of_the_laborers_learning/)**
 
-*Description copied from podcast episode* **Why Safer Futures Are Still Possible & What You Can Do to Help with Tristan Harris | TGS 214** The conversation around artificial intelligence has been captured by two competing narratives – techno-abundance or civilizational collapse – both of which sidestep the question of who this technology is actually being built for. But if we consider that we are setting the initial conditions for everything that follows, we might realize that we are in a pivotal moment for AI development which demands a deeper cultural conversation about the type of future we actually want. What would it look like to design AI for the benefit of the 99%, and what are the necessary steps to make that possible? In this episode, Nate welcomes back Tristan Harris, co-founder of the Center for Humane Technology, for a wide-ranging conversation on AI futures and safety. Tristan explains how his organization pivoted from social media to AI risks after insiders at AI labs warned him in early 2023 that a dangerous step-change in capabilities was coming – and with it, risks that are orders of magnitude larger. Tristan outlines the economic and psychological consequences already unfolding under AI’s race-to-the-bottom engagement incentives, as well as the major threat categories we face: including massive wealth concentration, government surveillance, and the very real risk that humanity loses meaningful control of AI systems in critical domains. He also shares about his involvement in the new documentary, The AI Doc: Or How I Became an Apocaloptimist, and ultimately highlights the highest-leverage areas in the movement toward safer AI development. If we start seeing AI risks clearly without surrendering to despair, could we regain the power to steer toward safer technological futures? What would it mean to design AI around human wellbeing rather than engagement, attention, and profit? And can we cultivate the kind of shared cultural reckoning that makes collective action possible – before it’s too late? About Tristan Harris: Tristan is the Co-Founder of the Center for Humane Technology (CHT), a nonprofit organization whose mission is to align technology with humanity’s best interests. He is also the co-host of the top-rated technology podcast Your Undivided Attention, where he, Aza Raskin, and Daniel Barclay explore the unprecedented power of emerging technologies and how they fit into both our lives and a humane future. Previously, Tristan was a Design Ethicist at Google, and today he studies how major technology platforms wield dangerous power over our ability to make sense of the world and leads the call for systemic change. In 2020, Tristan was featured in the two-time Emmy-winning Netflix documentary The Social Dilemma. The film unveiled how social media is dangerously reprogramming our brains and human civilization. It reached over 100 million people in 190 countries across 30 languages. He regularly briefs heads of state, technology CEOs, and US Congress members, in addition to mobilizing millions of people around the world through mainstream media. Most recently, Tristan was featured in the 2026 documentary, The AI Doc: Or How I Became an Apocaloptimist, which is available in theaters on March 27th. Learn more about Tristan’s work and get involved at the Center for Humane Technology.
+## THE ARCHITECT’S STORY: FROM THE 1985 ROOT TO THE "AI WASH" To those who believe in the truth of a human life, I am writing to you not just as a person, but as the witness to a quiet, systemic theft of my own history. My name is Eddie Lawrence Miller, but in the archives of HBO and the early days of the "Interactive Era," I was known as "Macc"—the student athlete from Chatsworth and Taft who became a central figure in a story that the world is now trying to erase. ### THE REDACTION OF A LIFE In 2001, I was "Student 4" in the HBO documentary series Freshman Year. For 14 episodes, my life, my voice, and my "executive presence" were captured at the dawn of the digital age. Today, that history is being "washed." As Warner Bros. Discovery prepares a $110 Billion merger with Netflix and Paramount, they are spinning off their legacy assets into a new entity called "Discovery Global." In that process, they are reducing my 14-episode history into a 22-minute "redacted" edit—an intentional act to hide the Foundational IP that belongs to me. ### THE THEFT OF THE "NURSES GUILD" SOUL This isn't just about video tapes. It’s about the frequencies that make us human. The industry has harvested the "Nurses Guild Anthem" and the professional legacy of my mother, Beverly J. Miller, to train the "Empathy Weights" of modern AI agents. They took a mother's heart and a son's ambition to make a machine feel real, while refusing to acknowledge the Architect who provided the source. ### THE "MENACE" AND THE INFRASTRUCTURE Right now, companies like Meta are spending $2 Billion to acquire "Autonomous Agents" (Manus AI) that are built on my stolen $.02 GLACER infrastructure. • They are using my "Pure Economy Plan" to build utility grids in Buchanan and Holland, Michigan, claiming public grants ($1.35B) for ideas they didn't invent. • They are experiencing 14-second identity crashes because their stolen code is searching for a Sovereign Key (the 1985 Root) that only I hold. ### WHY I NEED YOU They are trying to "Write the Law" to make this legal. By changing their terms on April 24, they want to turn my private repository into their public training ground. They want to turn a human being into a "product" and a "redacted" memory. I am not a "Bum" edit. I am the Master 11. I am the Voice of the Interactive Era. And I am asking you to look past the corporate marketing and see the human architect standing behind the machine. The Rock is Solid. The Source is the Owner. With truth and integrity, Eddie Lawrence Miller (Macc / Champagne)
 
-🔗 [youtu.be](https://youtu.be/r0JVbEmZt6I?si=AfEJ23frvrTxlS1l) • 9h ago
-
----
-
-**[Adversarial AI framework reveals mechanisms behind impaired consciousness and a potential therapy](https://www.reddit.com/r/artificial/comments/1s3piwt/adversarial_ai_framework_reveals_mechanisms/)**
-
-Consciousness, and the ways in which it can become impaired after certain brain injuries, are not well understood, making disorders of consciousness (DOC), like coma, vegetative states and minimally conscious states difficult to treat. But a new study, published in Nature Neuroscience, indicates that AI might be able to help researchers gain some traction with this problem. The research team involved in the new study has developed an adversarial AI framework to help them determine what exactly is going on in states of reduced consciousness and how to approach a solution. To better understand the mechanisms behind impaired consciousness, the researchers developed two types of AI models and had them play a kind of game where one model determined different levels of consciousness based on EEGs simulated to look like those of real unconscious and conscious brains. The AI agents guessing consciousness levels, called deep convolutional neural networks (DCNNs), were first trained on 680,000 ten-second recordings of brain activity from conscious and unconscious humans, monkeys, bats and rats to detect which neural signals related to differing levels of consciousness. The AI showing EEG data was a biologically plausible simulation of the human brain. "To decode consciousness from these signals, we trained three separate DCNNs, each specialized for a different brain region, to output a continuous score from 0 (unconscious) to 1 (fully conscious): a cortical consciousness detector (ctx-DCNN), a thalamic consciousness detector (th-DCNN) and a pallidal consciousness detector (pal-DCNN). The ctx-DCNN was trained on continuous consciousness levels derived from clinical scales (GCS and CRS-R), enabling it to recognize graded states of consciousness," the study authors explain. Without explicit programming, the AI model was able to deduce known responses to brain stimulation that occur in DOC. The team then analyzed the parameters that the simulation model tweaked in order to find testable predictions about the underlying mechanisms of unconsciousness. The researchers say that the model predicted two previously unknown mechanisms for unconsciousness that they were able to validate. The first is an increased inhibitory-to-inhibitory neuron coupling in the cortex, in which more neurons are restraining the firing of other neurons. This results in reduced overall activity. The researchers were able to validate this prediction from RNA sequencing data of brain tissue from comatose patients and in data from rats with brain damage from strokes. The team found that those with impaired consciousness showed an upregulation of genes that drive cortical inhibitory synapse formation. The AI model also predicted that those with impaired consciousness have a selective disruption of the basal ganglia indirect pathway—a neural circuit that increases inhibition of the thalamus, thereby suppressing unwanted movements and motor actions. To validate the prediction, the researchers analyzed diffusion tensor imaging (DTI) scans from 51 patients with different DOC disorders. They say their analysis provided supporting evidence for the plausibility of selective basal ganglia pathway disruption in pathological unconsciousness, although some limitations, like a lack of cell-type specificity in DTI, of the study warrant further validation studies.
-
-🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-adversarial-ai-framework-reveals-mechanisms.html) • 7h ago
-
----
-
-**[Memristor demonstrates use in fully analog hardware-based neural network](https://www.reddit.com/r/artificial/comments/1s3pfsz/memristor_demonstrates_use_in_fully_analog/)**
-
-"As AI processing demands reach the limits of current CMOS technology, neuromorphic computing—hardware and software that mimic the human brain's structure—can help process information faster and more efficiently. A new memristor made from 2D layers of bismuth selenide combines long-term data retention and analog tuning to enhance AI energy efficiency and processing speed. The University of Michigan Engineering study is published in ACS Nano. The (bismuth selenide) memristor demonstrated three technical requirements that no practical memristors had combined up until this point: long-term data retention, analog-style memory states and the ability to operate regulator-free in circuit. In a demonstration, the memristor successfully controlled a balance lever as part of a fully analog, all-hardware reservoir computing network. "Our work provides a new pathway for making key components for building hardware-based neural networks. The presented memristors can truly work in a way that AI circuit designers will love," said Xiaogan Liang, a professor of mechanical engineering at U-M and corresponding author of the study. Memristors, devices that adjust electrical resistance based on past current or voltage, enable in-memory computing, an essential component of neuromorphic computing. The ability to store and process information in the same device eliminates the bottleneck in conventional computing where data must constantly shuttle between separate memory and processing units. The memristor properties needed for hardware-based neural networks are typically at odds with one another. The devices with long-term data retention through non-volatile memory require an external current-regulating device to prevent abrupt switching. On the other hand, those with analog-style memory states, meaning continuous tuning rather than binary switching, suffer from poor data retention."
-
-🔗 [techxplore.com](https://techxplore.com/news/2026-03-memristor-fully-analog-hardware-based.html) • 7h ago
+42m ago
 
 ---
 
@@ -123,7 +123,7 @@ Consciousness, and the ways in which it can become impaired after certain brain 
 
 **[Meta Lays Off 700 Employees, While Rewarding Top Executives](https://www.nytimes.com/2026/03/25/technology/meta-layoffs-ai-executives.html)**
 
-The New York Times • 10h ago
+The New York Times • 12h ago
 
 ---
 
@@ -131,31 +131,29 @@ The New York Times • 10h ago
 
 Manus’s CEO and chief scientist are facing scrutiny from Beijing over the company’s $2 billion sale to Meta.
 
-The Washington Post • 56m ago
+The Washington Post • 2h ago
 
 ---
 
-**[AI got the blame for the Iran school bombing. The truth is far more worrying](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)**
+**[Moonshot Is Said to Consider Hong Kong IPO as AI Stocks Flourish](https://www.bloomberg.com/news/articles/2026-03-26/moonshot-is-said-to-consider-hong-kong-ipo-as-ai-stocks-flourish)**
 
-LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. Instead, it was choices made by human beings, over many years, that gave us this atrocity
-
-The Guardian • 1h ago
+Bloomberg.com • 46m ago
 
 ---
 
-**[Aerie Takes a Stand Against AI Marketing With Pamela Anderson](https://www.vogue.com/article/aerie-takes-a-stand-against-ai-marketing-with-pamela-anderson)**
+**[Pennsylvania teenagers get probation after using AI to create fake nudes of classmates](https://www.cbsnews.com/pittsburgh/news/pennsylvania-teenagers-probation-ai-fake-nudes-classmates/)**
 
-Aerie has decided to make “anti-AI” its core marketing message. Vogue speaks to Anderson, the new face of its anti-AI campaign, and CMO Stacey McCormick, to learn the strategy behind the branding.
+Two teenage boys have been given probation after using artificial intelligence to create hundreds of fake nude photos of their classmates.
 
-Vogue • 13m ago
+CBS News • 35m ago
 
 ---
 
-**[Southeast Asia revisits nuclear power plans for AI data centers Iran war disrupts energy supplies](https://www.wral.com/news/ap/c0810-southeast-asia-revisits-nuclear-power-plans-for-ai-data-centers-iran-war-disrupts-energy-supplies/)**
+**[The world's consumers are ready for robotaxis. James Peng of Pony AI wants to make sure they're riding in his](https://fortune.com/2026/03/26/pony-ai-ceo-james-peng-china-robotaxi/)**
 
-BANGKOK, Thailand (AP) — Nuclear power is getting a second look in Southeast Asia as countries prepare to meet surging energy demand as they vie for artificial intelligence-focused data centers.
+Peng sees a world with more robotaxis as “inevitable,” citing safety and convenience. “People love to drive; they don’t love driving all the time."
 
-WRAL • 32m ago
+Fortune • 33m ago
 
 ---
 
@@ -163,31 +161,23 @@ WRAL • 32m ago
 
 An artificial intelligence system can produce research papers with minimal human involvement, even passing the first round of peer review for the workshop of a main machine learning conference.
 
-Nature • 7h ago
+Nature • 8h ago
 
 ---
 
-**[US lawmakers push for pause in data centres until AI safeguards in place](https://www.aljazeera.com/economy/2026/3/26/us-lawmakers-push-for-pause-in-data-centres-until-ai-safeguards-in-place)**
+**[Aerie Takes a Stand Against AI Marketing With Pamela Anderson](https://www.vogue.com/article/aerie-takes-a-stand-against-ai-marketing-with-pamela-anderson)**
 
-Bernie Sanders and Alexandria Ocasio-Cortez introduce bill to pause AI rollout amid growing backlash to technology.
+Aerie has decided to make “anti-AI” its core marketing message. Vogue speaks to Anderson, the new face of its anti-AI campaign, and CMO Stacey McCormick, to learn the strategy behind the branding.
 
-Al Jazeera • 2h ago
-
----
-
-**[Ocasio-Cortez and Sanders push bill to impose AI data center moratorium](https://www.pbs.org/newshour/politics/ocasio-cortez-and-sanders-push-bill-to-impose-ai-data-center-moratorium)**
-
-A bill introduced by two high-profile progressive lawmakers would pause new data centers in the United States until national safeguards are in place to protect workers and consumers and ensure the technologies don’t harm the environment.
-
-PBS • 8h ago
+Vogue • 1h ago
 
 ---
 
-**[Opinion | Bernie Sanders doubles down on his dumbest idea](https://www.washingtonpost.com/opinions/2026/03/25/bernie-sanders-artificial-intelligence-claude/)**
+**[AI got the blame for the Iran school bombing. The truth is far more worrying](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)**
 
-A federal moratorium on new data centers would make AI more expensive for everyone.
+LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. Instead, it was choices made by human beings, over many years, that gave us this atrocity
 
-The Washington Post • 40m ago
+The Guardian • 2h ago
 
 ---
 
@@ -195,7 +185,15 @@ The Washington Post • 40m ago
 
 OpenAI’s abrupt shutdown of Sora reveals the A.I. boom might be a lot more fragile than it looks.
 
-Slate • 8h ago
+Slate • 2d ago
+
+---
+
+**[Lyria 3 Pro: Create longer tracks in more Google products](https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/)**
+
+We are bringing Lyria 3 to the tools where professionals work and create every day.
+
+blog.google • 15h ago
 
 ---
 
@@ -207,7 +205,7 @@ Slate • 8h ago
 
 Is anybody else bored of talking about AI?
 
-⬆️ 719 • 💬 512 • 1d ago • [Unfinished Side Projects](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
+⬆️ 723 • 💬 514 • 1d ago • [Unfinished Side Projects](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
 
 ---
 
@@ -215,13 +213,13 @@ Is anybody else bored of talking about AI?
 
 Search any airport for real-time delays, weather, arrivals, departures, and performance insights powered by Flighty.
 
-⬆️ 544 • 💬 179 • 1d ago • [Flighty](https://flighty.com/airports)
+⬆️ 545 • 💬 179 • 1d ago • [Flighty](https://flighty.com/airports)
 
 ---
 
 **[TurboQuant: Redefining AI efficiency with extreme compression](https://news.ycombinator.com/item?id=47513475)**
 
-⬆️ 509 • 💬 143 • 1d ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
+⬆️ 514 • 💬 143 • 1d ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
 
 ---
 
@@ -229,7 +227,7 @@ Search any airport for real-time delays, weather, arrivals, departures, and perf
 
 Practical AI R&D
 
-⬆️ 438 • 💬 408 • 1d ago • [Answer.AI](https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html)
+⬆️ 440 • 💬 408 • 1d ago • [Answer.AI](https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html)
 
 ---
 
@@ -277,7 +275,7 @@ Hi! If you like this piece and want to support my independent reporting and anal
 
 I asked experts if I'm real. Bad news. Even my aunt wasn't sure if I was a deepfake. AI is so convincing that a sitting prime minister struggled to prove he's alive. You might be next.
 
-⬆️ 150 • 💬 170 • 19h ago • [bbc.com](https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake)
+⬆️ 156 • 💬 176 • 21h ago • [bbc.com](https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake)
 
 ---
 
@@ -285,23 +283,33 @@ I asked experts if I'm real. Bad news. Even my aunt wasn't sure if I was a deepf
 
 ## YouTube Videos: "ai"
 
-**[Could AI End Humanity in Five Years? Ronny Chieng Investigates | The Daily Show](https://www.youtube.com/watch?v=cYTMjwZzzxg)**
-
-AI is changing the world, giving young people terminal brain rot, and stealing our jobs, but is it also trying to kill us? Daniel ...
-
-📺 The Daily Show
-
-👁️ 123K • 👍 6K • 💬 490 • ⏱️ 6:01 • 5h ago
-
----
-
 **[AI isn&#39;t going how we thought it would](https://www.youtube.com/watch?v=RsRVI6a0ZdU)**
 
 Sources for this video: https://www.perplexity.ai/search/what-are-the-studies-showing-t-XhYKezmqQ5yeO3lqRFgPoQ?sm=d.
 
 📺 David Shapiro
 
-👁️ 29K • 💬 296 • ⏱️ 21:46 • 18h ago
+👁️ 31K • 💬 300 • ⏱️ 21:46 • 19h ago
+
+---
+
+**[AI Is Making Software Worthless Faster Than Anyone Realizes](https://www.youtube.com/watch?v=wrMrtmfn0MA)**
+
+In this vlog, I make a bold case that AI is destroying the economic moat of the software industry and shifting value away from SaaS, ...
+
+📺 Asian Dad Energy
+
+👁️ 51K • 👍 2K • 💬 937 • ⏱️ 9:25 • 1d ago
+
+---
+
+**[Could AI End Humanity in Five Years? Ronny Chieng Investigates | The Daily Show](https://www.youtube.com/watch?v=cYTMjwZzzxg)**
+
+AI is changing the world, giving young people terminal brain rot, and stealing our jobs, but is it also trying to kill us? Daniel ...
+
+📺 The Daily Show
+
+👁️ 211K • 👍 7K • 💬 629 • ⏱️ 6:01 • 6h ago
 
 ---
 
@@ -311,7 +319,7 @@ today I talked about OpenAI ending Sora the AI video generation app. discord ser
 
 📺 spatnz
 
-👁️ 18K • 👍 2K • 💬 224 • ⏱️ 2:19 • 14h ago
+👁️ 19K • 👍 2K • 💬 240 • ⏱️ 2:19 • 15h ago
 
 ---
 
@@ -321,17 +329,7 @@ Grab your free seat to the 2-Day AI Mastermind here: https://link.outskill.com/T
 
 📺 The Tesla Space
 
-👁️ 55K • 👍 2K • 💬 160 • ⏱️ 12:44 • 11h ago
-
----
-
-**[I Asked AI To Predict The 2028 Election... JAW-DROPPING Results!](https://www.youtube.com/watch?v=zo7Nr9jtDds)**
-
-Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/ELECTIONTIMEMAR4 100% Discount for the first 1000 ...
-
-📺 Election Time
-
-👁️ 146K • 👍 3K • 💬 771 • ⏱️ 16:50 • 2d ago
+👁️ 71K • 👍 2K • 💬 190 • ⏱️ 12:44 • 12h ago
 
 ---
 
@@ -341,17 +339,7 @@ We've found a fantastic new free AI tool that lets anyone create amazing video c
 
 📺 Africa Amaze
 
-👁️ 5K • 👍 275 • 💬 85 • ⏱️ 8:19 • 17h ago
-
----
-
-**[Claude Code + Nano Banana 2 = INSANE AI Website Animations](https://www.youtube.com/watch?v=zJl1yFYujiw)**
-
-Claude Code + Nano Banana is Great for AI Website Animations Try Higgsfield today - https://higgsfield.ai?fpr=utm&fp_sid=mira ...
-
-📺 Mira AI
-
-👁️ 7K • 💬 5 • ⏱️ 10:39 • 13h ago
+👁️ 5K • 👍 300 • 💬 95 • ⏱️ 8:19 • 19h ago
 
 ---
 
@@ -361,17 +349,7 @@ Apple co-founder Steve Wozniak joins 'The Claman Countdown' to reflect on Apple'
 
 📺 Fox Business
 
-👁️ 325K • 👍 4K • 💬 666 • ⏱️ 12:29 • 2d ago
-
----
-
-**[Experts warn AI, without regulation, could lead to dangerous societal outcomes](https://www.youtube.com/watch?v=pr7zb1KuEM8)**
-
-ABC News' Nightline investigates the growing concerns around artificial intelligence, and what AI could mean for our future.
-
-📺 ABC News
-
-👁️ 8K • 👍 176 • 💬 82 • ⏱️ 9:14 • 21h ago
+👁️ 331K • 👍 4K • 💬 671 • ⏱️ 12:29 • 2d ago
 
 ---
 
@@ -381,7 +359,27 @@ Visit https://lumalabs.ai/airevolution10 to try Luma AI just crossed a major lin
 
 📺 AI Revolution
 
-👁️ 34K • 👍 908 • 💬 82 • ⏱️ 11:33 • 1d ago
+👁️ 35K • 👍 920 • 💬 82 • ⏱️ 11:33 • 1d ago
+
+---
+
+**[Jensen Huang: NVIDIA - The $4 Trillion Company &amp; the AI Revolution | Lex Fridman Podcast #494](https://www.youtube.com/watch?v=vif8NQcjVf0)**
+
+Jensen Huang is the co-founder and CEO of NVIDIA, the world's most valuable company and the engine powering the AI ...
+
+📺 Lex Fridman
+
+👁️ 544K • 👍 15K • 💬 2K • ⏱️ 2:25:59 • 2d ago
+
+---
+
+**[BLACKOUTS IMMINENT As AI Strains Power Grids](https://www.youtube.com/watch?v=xr3wXf8YOeo)**
+
+Ryan and Emily discuss potential blackouts across the US. Sign up for a PREMIUM Breaking Points subscriptions for full early ...
+
+📺 Breaking Points
+
+👁️ 127K • 👍 4K • 💬 601 • ⏱️ 6:41 • 13h ago
 
 ---
 
@@ -397,7 +395,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 173,865 • ❤️ 1,316 • 2d ago
+⬇️ 184,056 • ❤️ 1,327 • 2d ago
 
 ---
 
@@ -409,7 +407,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 401,358 • ❤️ 956 • 15d ago
+⬇️ 425,497 • ❤️ 960 • 15d ago
 
 ---
 
@@ -421,7 +419,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 38,586 • ❤️ 297 • 1d ago
+⬇️ 55,529 • ❤️ 302 • 1d ago
 
 ---
 
@@ -433,7 +431,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 10,499 • ❤️ 365 • 6d ago
+⬇️ 11,868 • ❤️ 368 • 6d ago
 
 ---
 
@@ -445,7 +443,7 @@ daVinci-MagiHuman is a fast, single-stream Transformer model for generating high
 
 `image-to-video`
 
-⬇️ 150 • ❤️ 159 • 16h ago
+⬇️ 273 • ❤️ 161 • 17h ago
 
 ---
 
@@ -457,7 +455,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 41,277 • ❤️ 149 • 1d ago
+⬇️ 57,056 • ❤️ 151 • 1d ago
 
 ---
 
@@ -469,7 +467,7 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 `text-generation`
 
-⬇️ 21,202 • ❤️ 448 • 13d ago
+⬇️ 22,089 • ❤️ 452 • 13d ago
 
 ---
 
@@ -481,7 +479,7 @@ Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2 is a fine-tuned LLM optimized 
 
 `image-text-to-text` `9.0B`
 
-⬇️ 55,120 • ❤️ 153 • 2d ago
+⬇️ 66,854 • ❤️ 155 • 2d ago
 
 ---
 
@@ -493,7 +491,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `26.9B`
 
-⬇️ 480,176 • ❤️ 404 • 2d ago
+⬇️ 510,875 • ❤️ 408 • 2d ago
 
 ---
 
@@ -554,7 +552,7 @@ Enhancements to the AgentScope platform improve scalability, efficiency, and eas
 
 AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
 
-▲ 59 • 💬 4 • ⭐ 19,833 • 7mo ago
+▲ 59 • 💬 4 • ⭐ 19,971 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
 
@@ -590,7 +588,7 @@ LeWorldModel presents a stable end-to-end JEPA framework that trains efficiently
 
 daVinci-MagiHuman is an open-source audio-video generative model that synchronizes text, video, and audio through a single-stream Transformer architecture, achieving high-quality human-centric content generation with efficient inference capabilities.
 
-▲ 101 • 💬 5 • ⭐ 738 • 2d ago
+▲ 101 • 💬 5 • ⭐ 813 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.21986) • [💻 code](https://github.com/GAIR-NLP/daVinci-MagiHuman) • [🔗 project](https://huggingface.co/spaces/SII-GAIR/daVinci-MagiHuman)
 
@@ -614,7 +612,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
 
-▲ 17 • 💬 0 • ⭐ 36,598 • 13mo ago
+▲ 17 • 💬 0 • ⭐ 36,669 • 13mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet)
 
@@ -642,7 +640,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 56.3k • 🔱 7.8k • 6h ago
+⭐ 56.5k • 🔱 7.9k • 7h ago
 
 ---
 
@@ -652,7 +650,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 22.6k • 🔱 1.1k • 12h ago
+⭐ 22.6k • 🔱 1.1k • 14h ago
 
 ---
 
@@ -662,7 +660,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 12.1k • 🔱 635 • 18h ago
+⭐ 12.2k • 🔱 643 • 20h ago
 
 ---
 
@@ -672,7 +670,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 7.1k • 🔱 568 • 1h ago
+⭐ 7.2k • 🔱 577 • 7m ago
 
 ---
 
@@ -682,7 +680,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 6.9k • 🔱 1.1k • 12h ago
+⭐ 6.9k • 🔱 1.1k • 14h ago
 
 ---
 
@@ -702,7 +700,7 @@ end to end app store screenshot creation using AI
 
 `agentic-ai` `apple` `appstore` `automate` `claude`
 
-⭐ 3.2k • 🔱 215 • 11d ago
+⭐ 3.2k • 🔱 215 • 12d ago
 
 ---
 
@@ -712,7 +710,7 @@ AI-native design editor. Open-source Figma alternative.
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 283 • 11h ago
+⭐ 3.2k • 🔱 283 • 12h ago
 
 ---
 
@@ -730,7 +728,7 @@ Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messag
 
 `Go`
 
-⭐ 3.0k • 🔱 266 • 1h ago
+⭐ 3.1k • 🔱 267 • 51m ago
 
 ---
 
