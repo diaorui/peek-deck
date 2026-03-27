@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-27T09:04:24.867919+00:00'
+updated: '2026-03-27T10:11:45.693155+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 27, 2026 at 09:04 UTC  
+**Last Updated:** March 27, 2026 at 10:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Demo of Agibot’s wheeled A2 depalleting](https://www.reddit.com/r/robotics/comments/1s4spdj/demo_of_agibots_wheeled_a2_depalleting/)**
+
+6h ago
+
+---
+
 **[flip~ flip~ flip~](https://www.reddit.com/r/robotics/comments/1s49487/flip_flip_flip/)**
 
 Yeah, front flips. I know, I've seen a lot of "who cares," "useless flex," "why don't you do something useful," "seen it a hundred times." Fair. But when it actually works on a real robot, you still feel it. Still a lot to fix, but this was a good day :D
 
-18h ago
-
----
-
-**[Demo of Agibot’s wheeled A2 depalleting](https://www.reddit.com/r/robotics/comments/1s4spdj/demo_of_agibots_wheeled_a2_depalleting/)**
-
-5h ago
+19h ago
 
 ---
 
@@ -50,19 +50,25 @@ Yeah, front flips. I know, I've seen a lot of "who cares," "useless flex," "why 
 
 This is the new and improved state of the driver board for my work in progress 6 axis 3D printed robot arm. ESP32 I2C Multiplexing - For encoder wiring 6 x DRV8825
 
-4h ago
+6h ago
 
 ---
 
 **[Shared my firs model to Printables](https://www.reddit.com/r/robotics/comments/1s4oaut/shared_my_firs_model_to_printables/)**
 
-9h ago
+10h ago
 
 ---
 
 **[This Is How You Beat the Biggest Big Wheeled Bot](https://www.reddit.com/r/robotics/comments/1s4demt/this_is_how_you_beat_the_biggest_big_wheeled_bot/)**
 
-15h ago
+17h ago
+
+---
+
+**[Meta is hosting an AI Hackathon (OpenEnv) - direct interview opportunity + $30k prizes](https://www.reddit.com/r/robotics/comments/1s4zz0q/meta_is_hosting_an_ai_hackathon_openenv_direct/)**
+
+1m ago
 
 ---
 
@@ -70,7 +76,7 @@ This is the new and improved state of the driver board for my work in progress 6
 
 Wanted to share something we've been working on: using electro-permanent magnets (EPMs) as grippers for robotics and drone applications. The basic idea is that the magnet can be switched on/off electrically (like an electromagnet), but holds its state without power like a regular magnet. Key specs: 70g mass, 25+ kgf holding force, zero power in steady state, controlled via CAN, RC PWM, or simple discrete voltage level. No moving parts & works anywhere (dust-/waterproof, vibration-resistant). We've shipped these to university labs, defense contractors, and drone companies for payload attachment. Use cases range from drone delivery to cobot arms to ground vehicle trailer attachment. They can be used with non-ferromagnetic payloads as well as covered in the docs. We are trying to raise awareness and are providing free samples to universities and hobbyists, conditional on mentions in papers or media. Please DM me or leave a comment below for details!
 
-8h ago
+10h ago
 
 ---
 
@@ -78,7 +84,7 @@ Wanted to share something we've been working on: using electro-permanent magnets
 
 For longevity, durability testing. I imagine versatile robotic arms and hands that could test hardware like keyboards, mice, touchscreens or any user inputs. I mean one robot for all testing purposes.
 
-2h ago
+3h ago
 
 ---
 
@@ -86,7 +92,7 @@ For longevity, durability testing. I imagine versatile robotic arms and hands th
 
 curious what people think about the Livox Avia in today’s stack for mapping / slam in 2026. I used these in a project around 2022/2023, but haven't used them since. It always seemed like a strong middle ground between lower-cost Livox units and more expensive survey-grade systems, especially for UAV mapping and longer-range perception. My team used it for a mapping / slam project perviously, but I noticed they are sold out on DJI site. Are these in crazy demand or just not manufactured anymore? I ask because I have two brand new Avia units (never used, still sealed — from a startup project that pivoted), are they of any value in selling or should I try to find a way to make money with them from a mapping / service business? If anyone happens to be looking for one, feel free to reach out — but mostly just trying to understand the current landscape.
 
-12h ago
+13h ago
 
 ---
 
@@ -95,12 +101,6 @@ curious what people think about the Livox Avia in today’s stack for mapping / 
 From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/2034708938269036686
 
 1d ago
-
----
-
-**[Gotta Start Somewhere! ALMA.GeoffreyAment](https://www.reddit.com/r/robotics/comments/1s4hpay/gotta_start_somewhere_almageoffreyament/)**
-
-13h ago
 
 ---
 
@@ -116,11 +116,11 @@ CNBC • 2d ago
 
 ---
 
-**[Amazon buys Fauna Robotics, maker of the Sprout humanoid robot](https://abcnews.com/Business/wireStory/amazon-buys-fauna-robotics-maker-sprout-humanoid-robot-131377676)**
+**[China’s humanoid robot with lifelike expressions can smile, emote during interactions](https://interestingengineering.com/ai-robotics/lifelike-humanoid-robot-sparks-debate)**
 
-Amazon has acquired Fauna Robotics, just under two months after the startup introduced a humanoid robot called Sprout designed for social spaces like homes and schools
+China’s robotics industry is shifting toward hyperrealistic humanoid faces, focusing on emotional interaction and social acceptance.
 
-abcnews.com • 2d ago
+Interesting Engineering • 21h ago
 
 ---
 
@@ -129,14 +129,6 @@ abcnews.com • 2d ago
 Toyota Motor (NYSE:TM) is moving humanoid robots onto a factory floor in Canada. At the same time, billionaire entrepreneur Mark Cuban is openly questioning whether the entire idea has staying power. The contrast is hard to ignore. One of the world's largest automakers is scaling up real-world use, while a longtime tech investor is warning the trend could burn out within a decade. Toyota puts humanoid robots to work after a successful trial Last month, Agility Robotics said in a statement that T
 
 Yahoo Finance • 2d ago
-
----
-
-**[Raleigh students win state robotics title, advance to world championship](https://abc11.com/post/raleigh-students-win-state-robotics-title-advance-world-championship/18778624/)**
-
-Four Raleigh middle schoolers are headed to the world stage after winning the top honor at this month's VEX IQ Robotics State Championship in Concord.
-
-ABC11 Raleigh-Durham • 20h ago
 
 ---
 
@@ -150,13 +142,21 @@ MIT Media Lab • 1d ago
 
 **[US lawmakers to introduce bill to ban government use of Chinese robots](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/)**
 
-Reuters • 16h ago
+Reuters • 17h ago
 
 ---
 
 **[OpenAI inks 202,000-square-foot East Bay lease in Richmond](https://www.bizjournals.com/sanfrancisco/news/2026/03/26/openai-robotics-richmond-ford-point.html)**
 
-The Business Journals • 12h ago
+The Business Journals • 14h ago
+
+---
+
+**[2 food delivery robots with Serve Robotics, Coco Robotics crash into CTA bus shelters days apart; 1 incident caught on camera](https://abc7chicago.com/post/video-shows-serve-robotics-delivery-robot-crash-cta-bus-shelter-racine-outside-centre-construction-group-west-town/18763333/)**
+
+Surveillance footage captured one of at least two food delivery robot crashes into CTA bus shelters.
+
+ABC7 Chicago • 2d ago
 
 ---
 
@@ -164,7 +164,7 @@ The Business Journals • 12h ago
 
 Amazon has spent more than a decade automating its logistics network. The company has already deployed more than 1 million robots across its operations,
 
-PYMNTS.com • 11h ago
+PYMNTS.com • 12h ago
 
 ---
 
@@ -172,15 +172,15 @@ PYMNTS.com • 11h ago
 
 Two delivery robots crashed into two bus shelters in Chicago within a matter of days -- and one of the incidents was caught on camera.
 
-upi.com • 17h ago
+upi.com • 18h ago
 
 ---
 
-**[Chicago leaders speak out after food delivery robots with Serve Robotics, Coco Robotics cause damage at CTA bus shelters](https://abc7chicago.com/post/chicago-leaders-speak-food-delivery-robots-serve-robotics-coco-cause-damage-cta-bus-shelters/18772726/)**
+**[30 Years Ago, Robots Learned to Walk Without Falling](https://spectrum.ieee.org/honda-p2-robot-ieee-milestone)**
 
-Two recent incidents of food delivery robots smashing into CTA bus shelters days apart happened as Chicagoans continue to debate whether the robots are a public benefit or a nuisance.
+How did Honda's P2 robot change the future of humanoid robotics?
 
-ABC7 Chicago • 1d ago
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -194,7 +194,7 @@ This week in robotics got kind of ridiculous. South Korea showed off a humanoid 
 
 📺 AI Revolution
 
-👁️ 208K • 👍 2K • 💬 137 • ⏱️ 14:31 • 4d ago
+👁️ 209K • 👍 2K • 💬 136 • ⏱️ 14:31 • 4d ago
 
 ---
 
@@ -204,7 +204,7 @@ Humanoid robots have been making appearances through social media, tv segments, 
 
 📺 NBC News
 
-👁️ 80K • 👍 490 • 💬 336 • ⏱️ 3:05 • 1d ago
+👁️ 81K • 👍 496 • 💬 337 • ⏱️ 3:05 • 1d ago
 
 ---
 
@@ -214,7 +214,7 @@ A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White H
 
 📺 C-SPAN
 
-👁️ 170K • 👍 718 • 💬 1K • ⏱️ 2:59 • 1d ago
+👁️ 173K • 👍 728 • 💬 1K • ⏱️ 2:59 • 1d ago
 
 ---
 
@@ -224,37 +224,7 @@ On March 8, at the "Tomorrow's Walker" exhibit in Shanghai Science and Technolog
 
 📺 China Observer
 
-👁️ 59K • 👍 2K • 💬 370 • ⏱️ 15:22 • 1d ago
-
----
-
-**[Watch: Humanoid robot walks alongside first lady Melania Trump at White House](https://www.youtube.com/watch?v=X-NjEku-zE4)**
-
-Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
-
-📺 CBS News
-
-👁️ 30K • 👍 211 • 💬 249 • ⏱️ 9:54 • 1d ago
-
----
-
-**[Meet “Roadrunner&quot;: a bipedal, wheeled robot for multi-modal locomotion](https://www.youtube.com/watch?v=9kae-UAME1U)**
-
-"Roadrunner” is a new bipedal wheeled robot prototype designed for multi-modal locomotion. It weighs around 15kg (33 lb.)
-
-📺 RAI Institute
-
-👁️ 409K • 👍 10K • 💬 1K • ⏱️ 1:34 • 3d ago
-
----
-
-**[China&#39;s New Feminine Humanoid Robot Built for the Runway #humanoidrobot #robotics #robot](https://www.youtube.com/watch?v=dJb6Gtm1d4U)**
-
-The fast-rising Chinese robotics startup LimX Dynamics just unveiled Luna, a humanoid robot built for the runway.
-
-📺 Kalil 4.0
-
-👁️ 2K • 👍 78 • 💬 5 • ⏱️ 0:40 • 12h ago
+👁️ 60K • 👍 2K • 💬 377 • ⏱️ 15:22 • 1d ago
 
 ---
 
@@ -264,7 +234,7 @@ Thanks to Delete Me for sponsoring this video. To keep your private info private
 
 📺 Kim Java
 
-👁️ 107K • 👍 5K • 💬 247 • ⏱️ 20:00 • 2d ago
+👁️ 110K • 👍 5K • 💬 252 • ⏱️ 20:00 • 2d ago
 
 ---
 
@@ -278,13 +248,43 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 ---
 
+**[Watch: Humanoid robot walks alongside first lady Melania Trump at White House](https://www.youtube.com/watch?v=X-NjEku-zE4)**
+
+Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
+
+📺 CBS News
+
+👁️ 30K • 👍 214 • 💬 252 • ⏱️ 9:54 • 1d ago
+
+---
+
+**[Meet “Roadrunner&quot;: a bipedal, wheeled robot for multi-modal locomotion](https://www.youtube.com/watch?v=9kae-UAME1U)**
+
+"Roadrunner” is a new bipedal wheeled robot prototype designed for multi-modal locomotion. It weighs around 15kg (33 lb.)
+
+📺 RAI Institute
+
+👁️ 412K • 👍 10K • 💬 1K • ⏱️ 1:34 • 3d ago
+
+---
+
 **[When your circuit boards start roasting each other&#39;s specs! 🤖🤣 #Robotics #CodingMemes#viral](https://www.youtube.com/watch?v=HenS1Q4blFU)**
 
 The Ultimate Microcontroller Battle is HERE! Who is the real KING of your tech workbench? Arduino Uno is crying with no ...
 
 📺 M.R. Hacking Robot
 
-👁️ 2K • 👍 52 • 💬 2 • ⏱️ 0:21 • 20h ago
+👁️ 3K • 👍 65 • 💬 2 • ⏱️ 0:21 • 21h ago
+
+---
+
+**[The Most Human-Like Robots of 2026 Are Finally Here — And It Changes Everything](https://www.youtube.com/watch?v=BtE4otcAfVc)**
+
+The most advanced humanoid robots of 2026 just dropped — and you are NOT ready for what they can do. This year changes ...
+
+📺 The AI Nexus
+
+👁️ 6K • 👍 180 • 💬 14 • ⏱️ 16:29 • 3d ago
 
 ---
 
