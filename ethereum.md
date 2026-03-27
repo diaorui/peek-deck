@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-27T10:11:45.689968+00:00'
+updated: '2026-03-27T11:13:13.719517+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
 - social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 27, 2026 at 10:11 UTC  
+**Last Updated:** March 27, 2026 at 11:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,068.70
+### $1,989.07
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.2%  
-**7d:** -2.0%  
-**30d:** +0.8%  
-**90d:** -30.8%  
-**1y:** +7.7%  
+**24h:** -3.9%  
+**7d:** -4.4%  
+**30d:** -1.7%  
+**90d:** -32.5%  
+**1y:** +5.1%  
 
 ---
 
@@ -72,15 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
-
----
-
-**[When gas hits 0.032 Gwei, physics speaks.](https://www.reddit.com/r/ethereum/comments/1s4vslg/when_gas_hits_0032_gwei_physics_speaks/)**
-
-Gas: 0.032 Gwei. Third percentile. Since network inception. Active addresses: +120% year-on-year. Price: -45% from the October 2025 ATH. This divergence has a name in thermodynamics. It's called positive free energy. I built a 3-layer valuation model: L1 — Physics (40%) Network temperature. Monetary entropy. Gibbs free energy. L2 — Usage (35%) Real adoption. L2 velocity. RWA tokenisation. DeFi activity. L3 — Finance (25%) ETF flows. Exchange reserves. Open interest structure. Current readings: T_eth = 0.03 S_eth = 0.85 H_eth = 0.65 EFEI = H − T×S = +0.625 Layer Value Signal T_eth — 30d median gas 0.032 Gwei ❄️ 3rd percentile S_eth — Monetary entropy +0.23%/yr ⚠️ Inflationary EFEI — Free energy +0.625 ✅ Positive Active addresses +120% YoY ✅ Real adoption L2 TVL growth +40% YoY ✅ ETH = settlement RWA on Ethereum $18.6B (65% market) ✅ Structural Price vs 200d MA -3% (below average) ❌ Bearish structure Fear & Greed Index 15 — Extreme Fear ✅ Contrarian ETF cumulative AUM $11.9B (ETHA) ⚠️ Mixed flows ESM composite score: +0.487 Regime: undervalued. Liquid → Solid transition phase. In thermodynamics, when free energy is positive, the system spontaneously converges toward higher value. That's not an opinion. It's a property of the system. What's suppressing the signal? Layer 3. Macro. Elevated VIX, mixed ETF flows. Weighted at 25%. Intentionally. One upcoming catalyst flips the entropy term negative. I won't name it. You already know what it is. Ether State Model v1.0 — u/GabFromMars
-
-4h ago
+6h ago
 
 ---
 
@@ -88,7 +80,15 @@ Gas: 0.032 Gwei. Third percentile. Since network inception. Active addresses: +1
 
 Ethereum pushes Glamsterdam testing forward as Hegotá headliner debates remain unresolved.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-233/) • 7h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-233/) • 8h ago
+
+---
+
+**[When gas hits 0.032 Gwei, physics speaks.](https://www.reddit.com/r/ethereum/comments/1s4vslg/when_gas_hits_0032_gwei_physics_speaks/)**
+
+Gas: 0.032 Gwei. Third percentile. Since network inception. Active addresses: +120% year-on-year. Price: -45% from the October 2025 ATH. This divergence has a name in thermodynamics. It's called positive free energy. I built a 3-layer valuation model: L1 — Physics (40%) Network temperature. Monetary entropy. Gibbs free energy. L2 — Usage (35%) Real adoption. L2 velocity. RWA tokenisation. DeFi activity. L3 — Finance (25%) ETF flows. Exchange reserves. Open interest structure. Current readings: T_eth = 0.03 S_eth = 0.85 H_eth = 0.65 EFEI = H − T×S = +0.625 Layer Value Signal T_eth — 30d median gas 0.032 Gwei ❄️ 3rd percentile S_eth — Monetary entropy +0.23%/yr ⚠️ Inflationary EFEI — Free energy +0.625 ✅ Positive Active addresses +120% YoY ✅ Real adoption L2 TVL growth +40% YoY ✅ ETH = settlement RWA on Ethereum $18.6B (65% market) ✅ Structural Price vs 200d MA -3% (below average) ❌ Bearish structure Fear & Greed Index 15 — Extreme Fear ✅ Contrarian ETF cumulative AUM $11.9B (ETHA) ⚠️ Mixed flows ESM composite score: +0.487 Regime: undervalued. Liquid → Solid transition phase. In thermodynamics, when free energy is positive, the system spontaneously converges toward higher value. That's not an opinion. It's a property of the system. What's suppressing the signal? Layer 3. Macro. Elevated VIX, mixed ETF flows. Weighted at 25%. Intentionally. One upcoming catalyst flips the entropy term negative. I won't name it. You already know what it is. Ether State Model v1.0 — u/GabFromMars
+
+5h ago
 
 ---
 
@@ -96,7 +96,7 @@ Ethereum pushes Glamsterdam testing forward as Hegotá headliner debates remain 
 
 Working on a little side project that turns etherscan data into readable risk. If you analyzed a wallet recently I’d love to compare your assessment to my engine’s output and see where it’s wrong and right, thanks
 
-10h ago
+11h ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Accept crypto payments in seconds, across Bitcoin, stablecoins, and more with Bitcoin.com Checkout.
 
-🔗 [Bitcoin.com Checkout](https://checkout.bitcoin.com/) • 22h ago
+🔗 [Bitcoin.com Checkout](https://checkout.bitcoin.com/) • 23h ago
 
 ---
 
@@ -128,7 +128,7 @@ Been building an x402 gate way for my local business site builder. I want to exp
 
 I am newbie in crypto trading. And I learned that ETH tokens pose a huge risk even if token seems to be authentic. Tried to swap my eth funds for Tether Gold XAUT, but got zero balanced fake tokens. Lesson learned as I checked later for second time to find out Tether Gold legit contract. Contract was fake and did not match with the legit one. I will never trust any tokens but it is very sad that those tokens were listed at coinbase web wallet to swap. Should not be. Thus I paid for that lesson ca €10 I think that these risks are discrediting ethereum as safe network. Because if user has no other option than believing that contract is genuine then any fake blockchain checking site may serve it as legit. Fortunally I transfered fake tokens to my cold wallet, so I just created new ethereum account in it to change address as previous is now a little compromised as scammers can scan and track my ethereum account balance. Will leave compromised as it is and will not touch it anymore.
 
-19h ago
+20h ago
 
 ---
 
@@ -150,19 +150,33 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Ethereum ICO participant offloads $23 million in ETH: onchain analyst](https://www.theblock.co/post/395419/ethereum-ico-wallet-offloads-23-million-worth-eth)**
+
+The address traces back to Ethereum's initial token sale, where the investor purchased ether at about $0.31 per token, said Lookonchain.
+
+The Block • 4h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqdCJ326e53GV1zFvJdREGcQtWMveur2zjiXOZLDozRH2WOZMVxg22pd&gaa_ts=69c669b4&gaa_sig=U8iqjNzcnSxq4u7-MErSQ_qMAPwBaqeGaOyw8IgSK6h9_oc04H1TVUxzZ4qnVAGRt8snXzKj_ZpJQwY8PXiimA%3D%3D)**
+
+Barron's • 19h ago
+
+---
+
 **[Bitcoin, Ethereum Slip as Trump Says He's 'Not Desperate' to End Iran War](https://decrypt.co/362516/bitcoin-ethereum-slip-as-trump-says-hes-not-desperate-to-end-iran-war)**
 
 Bitcoin fell alongside stocks as investors weighed conflicting accounts regarding Iran’s willingness to end conflict in the Middle East.
 
-Decrypt • 13h ago
+Decrypt • 14h ago
 
 ---
 
-**[Ethereum block builder Eureka Labs raises $6.7 million, introduces 'programmable blocks'](https://www.theblock.co/post/394923/ethereum-block-builder-eureka-labs-funding-programmable-blocks)**
+**[Crypto Crash Alert: Bitcoin, Ethereum Drop as Iran War Sparks Market Panic](https://coinpedia.org/price-analysis/crypto-crash-alert-bitcoin-ethereum-drop-as-iran-war-sparks-market-panic/)**
 
-Ethereum block builder Eureka Labs is introducing "programmable blocks," which add logic during block construction.
+The crypto market is flashing a clear warning, and this time, it’s not just technicals driving the move. Bitcoin price has slipped to $68,670, Ethereum
 
-The Block • 2d ago
+Coinpedia Fintech News • 4h ago
 
 ---
 
@@ -170,13 +184,7 @@ The Block • 2d ago
 
 There's a lot going on with this chain, and it's mostly positive.
 
-The Motley Fool • 7m ago
-
----
-
-**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqe778KmTsmALSWWqq1v2O4Ufrkjj_YMVKYOABgoYaMogEvoas1PTUea&gaa_ts=69c65b48&gaa_sig=ukpKVRUNHCqa2DkJ-1p8zNEzfhW9qGOvOCNOhqBqkht43kDYBb4_mR_t2fTlqDfKb66091covpoXJMNXpHg_OA%3D%3D)**
-
-Barron's • 18h ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -200,15 +208,15 @@ TradingView • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 20h ago
+Fortune • 21h ago
 
 ---
 
-**[Ethereum Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1774585200)**
+**[Bitcoin and Ethereum Face Downside Risk Ahead of $15.58B Options Expiry Today](https://coinpedia.org/news/bitcoin-and-ethereum-face-downside-risk-ahead-of-15-58b-options-expiry-today/)**
 
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+A large batch of Bitcoin and Ethereum options is set to expire this Friday, with total value crossing $15.58B billion as per Deribit insights. This marks
 
-Polymarket • 5h ago
+Coinpedia Fintech News • 4h ago
 
 ---
 
@@ -216,13 +224,7 @@ Polymarket • 5h ago
 
 The Ethereum Foundation’s post-quantum roadmap argues that the real danger is a years-long struggle over how to move user wallets, protect bridges and custodians, and decide what to do with vulnerable coins that never upgrade.
 
-CryptoSlate • 19h ago
-
----
-
-**[Ethereum Price Prediction: ETH Price Analysis And Pepeto Stage Fills Fast Before the Binance Listing Deadline](https://financefeeds.com/ethereum-price-prediction-eth-price-analysis-and-pepeto-stage-fills-fast-before-the-binance-listing-deadline/)**
-
-FinanceFeeds • 9h ago
+CryptoSlate • 20h ago
 
 ---
 
@@ -236,7 +238,7 @@ VIP Access & Programs: https://highaltitudecrypto.com Free Crypto Ebook (Learn H
 
 📺 High Altitude Investing
 
-👁️ 627 • 👍 61 • 💬 14 • ⏱️ 10:43 • 16h ago
+👁️ 627 • 👍 61 • 💬 14 • ⏱️ 10:43 • 17h ago
 
 ---
 
@@ -256,7 +258,7 @@ Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade
 
 📺 Crossroads
 
-👁️ 5K • 👍 272 • 💬 44 • ⏱️ 15:03 • 20h ago
+👁️ 5K • 👍 272 • 💬 44 • ⏱️ 15:03 • 21h ago
 
 ---
 
@@ -286,7 +288,7 @@ What happens if ETH recovers to the 200 Day moving average with both technicals 
 
 📺 Elijah Cheng
 
-👁️ 3K • 👍 115 • 💬 43 • ⏱️ 27:19 • 19h ago
+👁️ 3K • 👍 115 • 💬 43 • ⏱️ 27:19 • 20h ago
 
 ---
 
@@ -296,7 +298,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 94 • 💬 6 • ⏱️ 4:26 • 13h ago
+👁️ 1K • 👍 94 • 💬 6 • ⏱️ 4:26 • 14h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-27T10:11:45.693155+00:00'
+updated: '2026-03-27T11:13:13.722676+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 27, 2026 at 10:11 UTC  
+**Last Updated:** March 27, 2026 at 11:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Demo of Agibot’s wheeled A2 depalleting](https://www.reddit.com/r/robotics/comments/1s4spdj/demo_of_agibots_wheeled_a2_depalleting/)**
 
-6h ago
+8h ago
 
 ---
 
@@ -42,7 +42,15 @@ Robotics research and industry news
 
 Yeah, front flips. I know, I've seen a lot of "who cares," "useless flex," "why don't you do something useful," "seen it a hundred times." Fair. But when it actually works on a real robot, you still feel it. Still a lot to fix, but this was a good day :D
 
-19h ago
+20h ago
+
+---
+
+**[Unitree just announced an open source whole-body teleoperation (WBT) dataset: UnifoLM-WBT-Dataset. Available on Hugging Face.](https://www.reddit.com/r/robotics/comments/1s50zq4/unitree_just_announced_an_open_source_wholebody/)**
+
+Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dataset From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2037440578275946551
+
+7m ago
 
 ---
 
@@ -50,25 +58,25 @@ Yeah, front flips. I know, I've seen a lot of "who cares," "useless flex," "why 
 
 This is the new and improved state of the driver board for my work in progress 6 axis 3D printed robot arm. ESP32 I2C Multiplexing - For encoder wiring 6 x DRV8825
 
-6h ago
+7h ago
 
 ---
 
 **[Shared my firs model to Printables](https://www.reddit.com/r/robotics/comments/1s4oaut/shared_my_firs_model_to_printables/)**
 
-10h ago
-
----
-
-**[This Is How You Beat the Biggest Big Wheeled Bot](https://www.reddit.com/r/robotics/comments/1s4demt/this_is_how_you_beat_the_biggest_big_wheeled_bot/)**
-
-17h ago
+11h ago
 
 ---
 
 **[Meta is hosting an AI Hackathon (OpenEnv) - direct interview opportunity + $30k prizes](https://www.reddit.com/r/robotics/comments/1s4zz0q/meta_is_hosting_an_ai_hackathon_openenv_direct/)**
 
-1m ago
+1h ago
+
+---
+
+**[This Is How You Beat the Biggest Big Wheeled Bot](https://www.reddit.com/r/robotics/comments/1s4demt/this_is_how_you_beat_the_biggest_big_wheeled_bot/)**
+
+18h ago
 
 ---
 
@@ -76,7 +84,7 @@ This is the new and improved state of the driver board for my work in progress 6
 
 Wanted to share something we've been working on: using electro-permanent magnets (EPMs) as grippers for robotics and drone applications. The basic idea is that the magnet can be switched on/off electrically (like an electromagnet), but holds its state without power like a regular magnet. Key specs: 70g mass, 25+ kgf holding force, zero power in steady state, controlled via CAN, RC PWM, or simple discrete voltage level. No moving parts & works anywhere (dust-/waterproof, vibration-resistant). We've shipped these to university labs, defense contractors, and drone companies for payload attachment. Use cases range from drone delivery to cobot arms to ground vehicle trailer attachment. They can be used with non-ferromagnetic payloads as well as covered in the docs. We are trying to raise awareness and are providing free samples to universities and hobbyists, conditional on mentions in papers or media. Please DM me or leave a comment below for details!
 
-10h ago
+11h ago
 
 ---
 
@@ -84,7 +92,7 @@ Wanted to share something we've been working on: using electro-permanent magnets
 
 For longevity, durability testing. I imagine versatile robotic arms and hands that could test hardware like keyboards, mice, touchscreens or any user inputs. I mean one robot for all testing purposes.
 
-3h ago
+4h ago
 
 ---
 
@@ -92,21 +100,21 @@ For longevity, durability testing. I imagine versatile robotic arms and hands th
 
 curious what people think about the Livox Avia in today’s stack for mapping / slam in 2026. I used these in a project around 2022/2023, but haven't used them since. It always seemed like a strong middle ground between lower-cost Livox units and more expensive survey-grade systems, especially for UAV mapping and longer-range perception. My team used it for a mapping / slam project perviously, but I noticed they are sold out on DJI site. Are these in crazy demand or just not manufactured anymore? I ask because I have two brand new Avia units (never used, still sealed — from a startup project that pivoted), are they of any value in selling or should I try to find a way to make money with them from a mapping / service business? If anyone happens to be looking for one, feel free to reach out — but mostly just trying to understand the current landscape.
 
-13h ago
-
----
-
-**[Reflex Robotics wheeled humanoid robot handling packages (Wheels + Elevator + Suction)](https://www.reddit.com/r/robotics/comments/1s39w21/reflex_robotics_wheeled_humanoid_robot_handling/)**
-
-From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/2034708938269036686
-
-1d ago
+14h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[Meet Figure AI: The company behind the humanoid robot hosted by Melania Trump](https://www.cnbc.com/2026/03/26/figure-ai-the-robotics-company-hosted-by-melania-trump.html)**
+
+The White House hosted its first humanoid robot guest, with first lady Melania Trump appearing alongside a robot from startup Figure AI.
+
+CNBC • 1d ago
+
+---
 
 **[Amazon acquires 'approachable' humanoid maker Fauna Robotics](https://www.cnbc.com/2026/03/24/amazon-humanoid-maker-fauna-robotics-sprout.html)**
 
@@ -120,35 +128,7 @@ CNBC • 2d ago
 
 China’s robotics industry is shifting toward hyperrealistic humanoid faces, focusing on emotional interaction and social acceptance.
 
-Interesting Engineering • 21h ago
-
----
-
-**[Toyota Deploys 7 Humanoid Robots In A Canadian Factory — But Mark Cuban Says The Current Humanoid Robot Push Could Fail Within 5-10 Years](https://finance.yahoo.com/sectors/technology/articles/toyota-deploys-7-humanoid-robots-141613877.html)**
-
-Toyota Motor (NYSE:TM) is moving humanoid robots onto a factory floor in Canada. At the same time, billionaire entrepreneur Mark Cuban is openly questioning whether the entire idea has staying power. The contrast is hard to ignore. One of the world's largest automakers is scaling up real-world use, while a longtime tech investor is warning the trend could burn out within a decade. Toyota puts humanoid robots to work after a successful trial Last month, Agility Robotics said in a statement that T
-
-Yahoo Finance • 2d ago
-
----
-
-**[Project Overview ‹ Electrofluidic Fiber Muscles (Science Robotics)](https://www.media.mit.edu/projects/electrofluidicmuscle/overview/)**
-
-Electrofluidic Fiber Muscles are a new class of artificial muscle fibers for robots and wearables. By integrating charge-injection electrohydrodynamic (EHD) fi…
-
-MIT Media Lab • 1d ago
-
----
-
-**[US lawmakers to introduce bill to ban government use of Chinese robots](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/)**
-
-Reuters • 17h ago
-
----
-
-**[OpenAI inks 202,000-square-foot East Bay lease in Richmond](https://www.bizjournals.com/sanfrancisco/news/2026/03/26/openai-robotics-richmond-ford-point.html)**
-
-The Business Journals • 14h ago
+Interesting Engineering • 22h ago
 
 ---
 
@@ -160,19 +140,39 @@ ABC7 Chicago • 2d ago
 
 ---
 
-**[Amazon Eyes Delivery Robots as MIT Tackles Warehouse Bottlenecks](https://www.pymnts.com/amazon/2026/amazon-eyes-delivery-robots-as-mit-tackles-warehouse-bottlenecks/)**
-
-Amazon has spent more than a decade automating its logistics network. The company has already deployed more than 1 million robots across its operations,
-
-PYMNTS.com • 12h ago
-
----
-
 **[Delivery robots smash Chicago bus shelters in two separate incidents](https://www.upi.com/Odd_News/2026/03/26/Chicago-delivery-robots-bus-shelters/4041774539291/)**
 
 Two delivery robots crashed into two bus shelters in Chicago within a matter of days -- and one of the incidents was caught on camera.
 
-upi.com • 18h ago
+upi.com • 19h ago
+
+---
+
+**[Amazon Eyes Delivery Robots as MIT Tackles Warehouse Bottlenecks](https://www.pymnts.com/amazon/2026/amazon-eyes-delivery-robots-as-mit-tackles-warehouse-bottlenecks/)**
+
+Amazon has spent more than a decade automating its logistics network. The company has already deployed more than 1 million robots across its operations,
+
+PYMNTS.com • 13h ago
+
+---
+
+**[US lawmakers to introduce bill to ban government use of Chinese robots](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/)**
+
+Reuters • 18h ago
+
+---
+
+**[Project Overview ‹ Electrofluidic Fiber Muscles (Science Robotics)](https://www.media.mit.edu/projects/electrofluidicmuscle/overview/)**
+
+Electrofluidic Fiber Muscles are a new class of artificial muscle fibers for robots and wearables. By integrating charge-injection electrohydrodynamic (EHD) fi…
+
+MIT Media Lab • 1d ago
+
+---
+
+**[OpenAI inks 202,000-square-foot East Bay lease in Richmond](https://www.bizjournals.com/sanfrancisco/news/2026/03/26/openai-robotics-richmond-ford-point.html)**
+
+The Business Journals • 15h ago
 
 ---
 
@@ -274,7 +274,7 @@ The Ultimate Microcontroller Battle is HERE! Who is the real KING of your tech w
 
 📺 M.R. Hacking Robot
 
-👁️ 3K • 👍 65 • 💬 2 • ⏱️ 0:21 • 21h ago
+👁️ 3K • 👍 65 • 💬 2 • ⏱️ 0:21 • 22h ago
 
 ---
 
