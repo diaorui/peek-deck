@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-27T22:34:13.660160+00:00'
+updated: '2026-03-27T23:34:10.052716+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 27, 2026 at 22:34 UTC  
+**Last Updated:** March 27, 2026 at 23:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hello everyone, I wanted to share my project that I've been working on for months. I've recycled two old 3D printers Anet A8 into a robotic arm. My main goal is to make a coffee with it. The motors and the electronic cards are from the printers. I've flashed them with Marlin and control them with python with a custom interface. I need to use 2 boards because I can only control independently 4 motors with one board. All the joints design are homemade, and 3d printed. The endeffector is a design from Makerworld u/user_2700759104 (I will build my own in the next days). There is a lot of backlash because of the planetary gears that I use. I plan to change them in the future. If anyone knows a reduction gear for Nema17 with minimum backlash I am all ears ! Thanks to the gear ratio, I've measured 2.9kg of force with the J2. List of components : Motors (J1->J6) : Nema17 Endeffector : Servo SG90 Boards : 2 Anet A8 + 1 Arduino Uno Reduction : J1 - 19:1 J2 - 51:1 J3 - 19:1 J4 - 19:1 J5 - 19:1 (90° 1:1) J6 - 1:1
 
-11h ago
+12h ago
 
 ---
 
@@ -44,13 +44,13 @@ Hello everyone, I wanted to share my project that I've been working on for month
 
 Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dataset From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2037440578275946551
 
-11h ago
+12h ago
 
 ---
 
 **[WANDER-Bot, a wind-powered robot designed for long-term exploration of hostile environments.](https://www.reddit.com/r/robotics/comments/1s59h0n/wanderbot_a_windpowered_robot_designed_for/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -58,21 +58,19 @@ Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dat
 
 I didn't use the T265; instead, I chose the RoboBaton mini to control the car's forward movement.I found the RoboBaton mini works well.Look the video !
 
-8h ago
+9h ago
+
+---
+
+**[AI on distributed architectures](https://www.reddit.com/r/robotics/comments/1s5jkp1/ai_on_distributed_architectures/)**
+
+33m ago
 
 ---
 
 **[Demo of Agibot’s wheeled A2 depalleting](https://www.reddit.com/r/robotics/comments/1s4spdj/demo_of_agibots_wheeled_a2_depalleting/)**
 
-19h ago
-
----
-
-**[Robotics Vision interview](https://www.reddit.com/r/robotics/comments/1s5gzn7/robotics_vision_interview/)**
-
-Already asked in the proper forums, to no avail. Hopefully someone can reply before I'm deleted lol. I have an interview at a well known company that uses assembly lines, to assemble components. The position is related to "Robotics Vision", cameras and sensors and such. I have a background in material handling equipment, with minor knowledge on cameras and sensors unrelated to automous robotics on this scale. My question is, what are some key items for me to be aware of in the space of Robotics Vision in order to land this job and more specifically the tech interview? I'm not looking for an entire study guide, just some relevant information related to the interview that I may be asked. I appreciate any and all help, if any!
-
-1h ago
+20h ago
 
 ---
 
@@ -84,11 +82,19 @@ Yeah, front flips. I know, I've seen a lot of "who cares," "useless flex," "why 
 
 ---
 
+**[Robotics Vision interview](https://www.reddit.com/r/robotics/comments/1s5gzn7/robotics_vision_interview/)**
+
+Already asked in the proper forums, to no avail. Hopefully someone can reply before I'm deleted lol. I have an interview at a well known company that uses assembly lines, to assemble components. The position is related to "Robotics Vision", cameras and sensors and such. I have a background in material handling equipment, with minor knowledge on cameras and sensors unrelated to automous robotics on this scale. My question is, what are some key items for me to be aware of in the space of Robotics Vision in order to land this job and more specifically the tech interview? I'm not looking for an entire study guide, just some relevant information related to the interview that I may be asked. I appreciate any and all help, if any!
+
+2h ago
+
+---
+
 **[Driver board for my 6 Axis Robot (WIP)](https://www.reddit.com/r/robotics/comments/1s4tvj6/driver_board_for_my_6_axis_robot_wip/)**
 
 This is the new and improved state of the driver board for my work in progress 6 axis 3D printed robot arm. ESP32 I2C Multiplexing - For encoder wiring 6 x DRV8825
 
-18h ago
+19h ago
 
 ---
 
@@ -96,13 +102,7 @@ This is the new and improved state of the driver board for my work in progress 6
 
 ROS News for the Week of March 23rd, 2026      The ROSCon Global 2026 call for sponsors is out. We also updated the website with additional venue information. 📣 If you are planning to submit a ROSCon work shop proposal the deadline is coming up quick, April 5th, to be exact!                On the event front ROSCon Croatia is scheduled for Monday and from what I hear is sold out! Over the weekend we have another Nigerian ROS meetup on deck, along with meetups in the Netherlands, German...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-march-23rd-2026/53588) • 3h ago
-
----
-
-**[Shared my firs model to Printables](https://www.reddit.com/r/robotics/comments/1s4oaut/shared_my_firs_model_to_printables/)**
-
-22h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-march-23rd-2026/53588) • 4h ago
 
 ---
 
@@ -144,7 +144,7 @@ CNBC • 3d ago
 
 **[AI Robotics Lab in Talks to Raise $1 Billion at $11 Billion Valuation](https://www.bloomberg.com/news/articles/2026-03-27/ex-deepmind-staffers-robotics-startup-in-talks-for-11-billion-valuation)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -182,7 +182,7 @@ MIT News • 2d ago
 
 How did Honda's P2 robot change the future of humanoid robotics?
 
-IEEE Spectrum • 6h ago
+IEEE Spectrum • 7h ago
 
 ---
 
@@ -206,7 +206,7 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCkouj
 
 📺 Shawn Ryan Show
 
-👁️ 12K • 👍 796 • 💬 267 • ⏱️ 6:32 • 5h ago
+👁️ 12K • 👍 796 • 💬 267 • ⏱️ 6:32 • 6h ago
 
 ---
 
@@ -236,7 +236,7 @@ Robotic Fingers Beat Human Hands! This clip shows a highly advanced robotic hand
 
 📺 Nerb Films
 
-👁️ 7K • 💬 10 • ⏱️ 0:12 • 8h ago
+👁️ 7K • 💬 10 • ⏱️ 0:12 • 9h ago
 
 ---
 

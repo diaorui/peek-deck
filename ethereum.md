@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-27T22:34:13.656853+00:00'
+updated: '2026-03-27T23:34:10.049496+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- social
+- cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 27, 2026 at 22:34 UTC  
+**Last Updated:** March 27, 2026 at 23:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.5%  
+**24h:** -3.7%  
 **7d:** -4.6%  
 **30d:** -1.9%  
 **90d:** -32.7%  
-**1y:** +4.8%  
+**1y:** +4.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I Built a Privacy-Preserving Bitcoin transaction Receipt Verifier (No KYC, No Screenshots, No wallet). https://github.com/Teycir/Ghostreceipt Would like to have feedback.
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ I Built a Privacy-Preserving Bitcoin transaction Receipt Verifier (No KYC, No Sc
 
 Frame transaction Considered for Inclusion for Hegotá, EthStaker staking survey, EF post-quantum website
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-17/) • 9h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-17/) • 10h ago
 
 ---
 
@@ -96,13 +96,13 @@ Frame transaction Considered for Inclusion for Hegotá, EthStaker staking survey
 
 Ethereum pushes Glamsterdam testing forward as Hegotá headliner debates remain unresolved.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-233/) • 19h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-233/) • 20h ago
 
 ---
 
 **[Paperwallet.ca launch](https://www.reddit.com/r/ethereum/comments/1s543mf/paperwalletca_launch/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -110,7 +110,7 @@ Ethereum pushes Glamsterdam testing forward as Hegotá headliner debates remain 
 
 Working on a little side project that turns etherscan data into readable risk. If you analyzed a wallet recently I’d love to compare your assessment to my engine’s output and see where it’s wrong and right, thanks
 
-22h ago
+23h ago
 
 ---
 
@@ -118,7 +118,7 @@ Working on a little side project that turns etherscan data into readable risk. I
 
 Source: https://www.coingecko.com/learn/real-world-assets-rwa-buy-on-chain RWAs were one of the fastest-growing sectors in crypto last year. DeFi yields from token emissions dried up, the GENIUS Act provided regulatory clarity for institutions, and BlackRock and Franklin Templeton launched their own tokenized products. This isn't speculative DeFi. These are tokens tied to government debt, physical commodities, and real loan portfolios.
 
-19h ago
+20h ago
 
 ---
 
@@ -142,7 +142,7 @@ Accept crypto payments in seconds, across Bitcoin, stablecoins, and more with Bi
 
 Gas: 0.032 Gwei. Third percentile. Since network inception. Active addresses: +120% year-on-year. Price: -45% from the October 2025 ATH. This divergence has a name in thermodynamics. It's called positive free energy. I built a 3-layer valuation model: L1 — Physics (40%) Network temperature. Monetary entropy. Gibbs free energy. L2 — Usage (35%) Real adoption. L2 velocity. RWA tokenisation. DeFi activity. L3 — Finance (25%) ETF flows. Exchange reserves. Open interest structure. Current readings: T_eth = 0.03 S_eth = 0.85 H_eth = 0.65 EFEI = H − T×S = +0.625 Layer Value Signal T_eth — 30d median gas 0.032 Gwei ❄️ 3rd percentile S_eth — Monetary entropy +0.23%/yr ⚠️ Inflationary EFEI — Free energy +0.625 ✅ Positive Active addresses +120% YoY ✅ Real adoption L2 TVL growth +40% YoY ✅ ETH = settlement RWA on Ethereum $18.6B (65% market) ✅ Structural Price vs 200d MA -3% (below average) ❌ Bearish structure Fear & Greed Index 15 — Extreme Fear ✅ Contrarian ETF cumulative AUM $11.9B (ETHA) ⚠️ Mixed flows ESM composite score: +0.487 Regime: undervalued. Liquid → Solid transition phase. In thermodynamics, when free energy is positive, the system spontaneously converges toward higher value. That's not an opinion. It's a property of the system. What's suppressing the signal? Layer 3. Macro. Elevated VIX, mixed ETF flows. Weighted at 25%. Intentionally. One upcoming catalyst flips the entropy term negative. I won't name it. You already know what it is. Ether State Model v1.0 — u/GabFromMars
 
-16h ago
+17h ago
 
 ---
 
@@ -154,7 +154,7 @@ Gas: 0.032 Gwei. Third percentile. Since network inception. Active addresses: +1
 
 The address traces back to Ethereum's initial token sale, where the investor purchased ether at about $0.31 per token, said Lookonchain.
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
@@ -168,7 +168,7 @@ Barron's • 1d ago
 
 The top altcoin still has a bright future.
 
-The Motley Fool • 6h ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -184,7 +184,7 @@ Decrypt • 1d ago
 
 ​Ethereum pulled lower on March 27, with ETH-USD trading near $1983 after swinging between ~$1972 and $2075. The market slipped back below $2000, leaving nearby support under fresh pressure.
 
-Seeking Alpha • 3h ago
+Seeking Alpha • 4h ago
 
 ---
 
@@ -192,7 +192,7 @@ Seeking Alpha • 3h ago
 
 "The issue is whether or not people support CROPS and going in that direction, the issue is how the EF is going about it,” Optimism's Mark Tyneway said.
 
-The Block • 1h ago
+The Block • 2h ago
 
 ---
 
@@ -208,7 +208,7 @@ The Block • 2d ago
 
 The Fidelity Wise Origin Bitcoin Fund (FBTC) and the iShares Ethereum Trust ETF (ETHA) both provide direct crypto exposure through a brokerage account, but they reflect very different investment theses. One tracks bitcoin, the asset most closely tied to institutional adoption and broader market sentiment, while the other follows Ethereum, whose value is more closely linked to network usage and ecosystem growth.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -216,7 +216,7 @@ The Motley Fool • 5h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 9h ago
 
 ---
 
@@ -238,7 +238,7 @@ Join Tom Lee for his groundbreaking keynote at the Ethereum Conference. Tom Lee,
 
 📺 askmediy
 
-👁️ 5K • 👍 2K • 2h ago
+👁️ 5K • 👍 2K • 3h ago
 
 ---
 
@@ -248,7 +248,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 504 • 👍 96 • 💬 13 • ⏱️ 14:22 • 5h ago
+👁️ 504 • 👍 96 • 💬 13 • ⏱️ 14:22 • 6h ago
 
 ---
 
@@ -258,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 588 • 👍 57 • 💬 4 • ⏱️ 3:57 • 3h ago
+👁️ 588 • 👍 57 • 💬 4 • ⏱️ 3:57 • 4h ago
 
 ---
 
@@ -288,7 +288,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 445 • 👍 39 • 💬 20 • ⏱️ 38:10 • 3h ago
+👁️ 445 • 👍 39 • 💬 20 • ⏱️ 38:10 • 4h ago
 
 ---
 
@@ -298,7 +298,7 @@ Live crypto market analysis with Severin. Join the stream as we break down Bitco
 
 📺 Chart Champions
 
-👁️ 6K • 👍 470 • ⏱️ 1:56:56 • 3h ago
+👁️ 6K • 👍 470 • ⏱️ 1:56:56 • 4h ago
 
 ---
 

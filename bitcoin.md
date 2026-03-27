@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-27T22:34:13.650886+00:00'
+updated: '2026-03-27T23:34:10.042956+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- social
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 27, 2026 at 22:34 UTC  
+**Last Updated:** March 27, 2026 at 23:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -4.1%  
-**7d:** -4.0%  
-**30d:** -2.2%  
-**90d:** -24.7%  
-**1y:** -21.8%  
+**24h:** -3.7%  
+**7d:** -3.7%  
+**30d:** -1.9%  
+**90d:** -24.6%  
+**1y:** -21.6%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I honestly never thought I'd get this chance again, this is so awesome. Pulling more and more savings over to grab more. I should be a half-coiner soon. Yes!
 
-10h ago
+11h ago
 
 ---
 
@@ -89,7 +89,7 @@ I honestly never thought I'd get this chance again, this is so awesome. Pulling 
 
 Bitcoin’s largest options expiry of the year is colliding with geopolitical volatility that shows no sign of letting up with make or break peace talks uncertain. Roughly $14 billion of Bitcoin options are set to expire Friday, as measured by the number for outstanding contracts, known as open interest. The quarterly rollover—which wipes out close to 40% of open positions on the dominant Deribit exchange—comes amid conflicting signals on the prospect of a halt to the nearly month-long war in the Middle East. The overlap is sharpening a key question for traders: whether the expiry has been artificially muting Bitcoin’s price swings and if its removal will expose the token to a sharper move driven by geopolitics. Bitcoin has been stuck between roughly $60,000 and $75,000 in recent weeks, drifting well below its October 2025 peak of around $126,000 after a market-wide crash on Oct. 10. The lack of direction has persisted despite geopolitical tensions and intermittent inflows into U.S. exchange-traded funds. Bitcoin fell as much as 4% to $68,122 on Thursday. Read more: https://fortune.com/2026/03/26/bitcoin-faces-14-billion-options-expiry-while-middle-east-turmoil-mounts/
 
-🔗 [Fortune](https://fortune.com/2026/03/26/bitcoin-faces-14-billion-options-expiry-while-middle-east-turmoil-mounts/) • 5h ago
+🔗 [Fortune](https://fortune.com/2026/03/26/bitcoin-faces-14-billion-options-expiry-while-middle-east-turmoil-mounts/) • 6h ago
 
 ---
 
@@ -97,39 +97,7 @@ Bitcoin’s largest options expiry of the year is colliding with geopolitical vo
 
 Onramp's Brian Cubellis also point out the difference between the latent demand for IBIT vs what he expects will be active solicitation from Morgan Stanley to their clients.
 
-7h ago
-
----
-
-**[randomly discovered some btc in an old account](https://www.reddit.com/r/Bitcoin/comments/1s56bsh/randomly_discovered_some_btc_in_an_old_account/)**
-
-so i've been getting these random coinbase notifications for months and finally decided to check what was going on. remembered i had maybe like 7 bucks sitting there from way back when i bought something online that required bitcoin logged into my account expecting to see basically nothing and there's over 2400 sitting there. took me a minute to process what i was looking at did some digging and apparently that leftover change was from late 2015 when i made some random purchase. crazy how that small amount just sat there growing now i'm kicking myself thinking about what would've happened if i had been putting even 10 bucks aside every couple weeks since then. the math is pretty wild when you run those numbers probably gonna leave it alone and see where it goes from here. not really planning to touch it anytime soon
-
-7h ago
-
----
-
-**[2014 hodler's thoughts](https://www.reddit.com/r/Bitcoin/comments/1s5674g/2014_hodlers_thoughts/)**
-
-Each paycheck is now worth ~0.19% of my total sats. I have been in the space a bit. I am a little dead inside due to "same shit different day" mentality in this space. The price is getting smaller. I see the typical calls for people to hodl on or jump in or increase DCA. Quality memes are nowhere to be found. It reminds me of past bear cycles. What helps me during times like this is to remember the fundamentals. Nothing has changed. Blocks are still being solved about every 10 minutes. Code is still being written. Proposals are still being discussed/modified/dropped/fought over. Bitcoin is still based on real-world resources. People are still saying that bitcoin is dead/dying/ponzi scheme. People I know that make 3-5x my salary still think it is only used to wash dirty money. I have no grand secret or huge life lesson for you, simply because bitcoin is boring (also its most important feature). The messaging is always the same. Adopt a low time preference. I hope it helps some of the newer hodlers here who are planning to stay. The panic and self-doubt you feel will pass. And you will do it again, and it will pass again and so on. P.S. Do not leverage trade to try and catch up.
-
-7h ago
-
----
-
-**[Can an EFT investor ever be a wholecoiner?](https://www.reddit.com/r/Bitcoin/comments/1s5ft0r/can_an_eft_investor_ever_be_a_wholecoiner/)**
-
-Finally purchased the equivalent of 1 coin via ETF. Reason for using ETF include being able to invest an employer sponsored plan, for security purposes, and ease of tax filing. What are your thoughts? Not your wallet not your coin?
-
-2h ago
-
----
-
-**[The Central Question](https://www.reddit.com/r/Bitcoin/comments/1s5exau/the_central_question/)**
-
-Why does the majority of the market treat crypto, or Bitcoin in particular, like high risk stocks which promise returns which they can't deliver, instead of just buying Bitcoin which goes up through scarcity? It should be a no-brainer to put capital there, instead of keeping it invested in companies which are over their head in debt and won't make any profits.
-
-2h ago
+8h ago
 
 ---
 
@@ -137,7 +105,31 @@ Why does the majority of the market treat crypto, or Bitcoin in particular, like
 
 I have a feeling that UPril will be even better. Get your moon boots ready.
 
-35m ago
+1h ago
+
+---
+
+**[randomly discovered some btc in an old account](https://www.reddit.com/r/Bitcoin/comments/1s56bsh/randomly_discovered_some_btc_in_an_old_account/)**
+
+so i've been getting these random coinbase notifications for months and finally decided to check what was going on. remembered i had maybe like 7 bucks sitting there from way back when i bought something online that required bitcoin logged into my account expecting to see basically nothing and there's over 2400 sitting there. took me a minute to process what i was looking at did some digging and apparently that leftover change was from late 2015 when i made some random purchase. crazy how that small amount just sat there growing now i'm kicking myself thinking about what would've happened if i had been putting even 10 bucks aside every couple weeks since then. the math is pretty wild when you run those numbers probably gonna leave it alone and see where it goes from here. not really planning to touch it anytime soon
+
+8h ago
+
+---
+
+**[2014 hodler's thoughts](https://www.reddit.com/r/Bitcoin/comments/1s5674g/2014_hodlers_thoughts/)**
+
+Each paycheck is now worth ~0.19% of my total sats. I have been in the space a bit. I am a little dead inside due to "same shit different day" mentality in this space. The price is getting smaller. I see the typical calls for people to hodl on or jump in or increase DCA. Quality memes are nowhere to be found. It reminds me of past bear cycles. What helps me during times like this is to remember the fundamentals. Nothing has changed. Blocks are still being solved about every 10 minutes. Code is still being written. Proposals are still being discussed/modified/dropped/fought over. Bitcoin is still based on real-world resources. People are still saying that bitcoin is dead/dying/ponzi scheme. People I know that make 3-5x my salary still think it is only used to wash dirty money. I have no grand secret or huge life lesson for you, simply because bitcoin is boring (also its most important feature). The messaging is always the same. Adopt a low time preference. I hope it helps some of the newer hodlers here who are planning to stay. The panic and self-doubt you feel will pass. And you will do it again, and it will pass again and so on. P.S. Do not leverage trade to try and catch up.
+
+8h ago
+
+---
+
+**[The Central Question](https://www.reddit.com/r/Bitcoin/comments/1s5exau/the_central_question/)**
+
+Why does the majority of the market treat crypto, or Bitcoin in particular, like high risk stocks which promise returns which they can't deliver, instead of just buying Bitcoin which goes up through scarcity? It should be a no-brainer to put capital there, instead of keeping it invested in companies which are over their head in debt and won't make any profits.
+
+3h ago
 
 ---
 
@@ -145,7 +137,15 @@ I have a feeling that UPril will be even better. Get your moon boots ready.
 
 Recently, Bitcoin’s price has dropped, and many people are selling out of fear. But for long-term investors, this is actually a great opportunity to buy more. Market volatility is normal, panic often leads to short-term losses, while staying calm and observing can bring long-term gains. Grab your popcorn and wait!
 
-6h ago
+7h ago
+
+---
+
+**[Just used bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1s58far/just_used_bitcoin/)**
+
+When all my money is already in sats, it’s just easier to spend it directly instead of converting it to usd and spending that 🤷‍♂️
+
+7h ago
 
 ---
 
@@ -153,7 +153,7 @@ Recently, Bitcoin’s price has dropped, and many people are selling out of fear
 
 been diving deep into old reddit threads lately and stumbled across some wild stuff from way back when bitcoin was just getting started. found this account from one of the original developers and their final post was literally giving away an entire bitcoin like it was pocket change scrolling through those ancient conversations is mind blowing. most of these usernames probably dont even remember their passwords anymore. makes me wonder what the biggest single tip anyone here has actually witnessed on reddit was anyway found this quote buried in there that stuck with me about how buying stuff just gives you temporary happiness but experiences stick with you forever. pretty solid wisdom from someone who was building the future we're living in now
 
-13h ago
+14h ago
 
 ---
 
@@ -163,7 +163,7 @@ been diving deep into old reddit threads lately and stumbled across some wild st
 
 **[Bitcoin dips to $65k as Iran uncertainty persists ahead of $14 bln options expiry](https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-68k-as-iran-uncertainty-persists-ahead-of-14-bln-options-expiry-4584128)**
 
-Investing.com • 14h ago
+Investing.com • 15h ago
 
 ---
 
@@ -177,13 +177,13 @@ CoinDesk • 1d ago
 
 **[Bitcoin Slumps With Options Showing Traders Turning Defensive](https://www.bloomberg.com/news/articles/2026-03-27/bitcoin-slumps-with-options-showing-traders-turning-defensive)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
 **[Bitcoin Skids, $14 Bil. In Options Due; Cathie Wood Raises Cash](https://www.investors.com/news/bitcoin-price-options-expire-14-billion-liquidations-cathie-wood-ark-invest/)**
 
-Investor's Business Daily • 1h ago
+Investor's Business Daily • 2h ago
 
 ---
 
@@ -191,7 +191,7 @@ Investor's Business Daily • 1h ago
 
 Morgan Stanley is set to disrupt the spot bitcoin ETF market, with its upcoming Bitcoin Trust (MSBT) charging a market-leading 0.14% annual fee.
 
-Bitcoin Magazine • 41m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -199,7 +199,7 @@ Bitcoin Magazine • 41m ago
 
 Demand for bitcoin as a corporate treasury asset is once again concentrated in Michael Saylor's Strategy as the company steps up its bitcoin buying pace.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -207,7 +207,7 @@ CNBC • 5h ago
 
 (Bloomberg) -- Bitcoin fell to its lowest level in more than three weeks as traders turned defensive following the year’s largest options expiry, while investors continued pulling money from crypto exchange-traded funds.The original cryptocurrency fell as much as 5% to $65,547, the lowest since March 2. The token has been stuck between roughly $60,000 and $75,000 in recent weeks, drifting well below its October 2025 peak of around $126,000. Roughly $14 billion of Bitcoin options expired Friday,
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -215,19 +215,19 @@ Yahoo Finance • 3h ago
 
 Bitcoin is no longer driven by scarcity-based models; its price now tracks demand dynamics and correlates with high-beta tech indices. Learn more about BTC-USD here.
 
-Seeking Alpha • 10h ago
+Seeking Alpha • 11h ago
 
 ---
 
 **[Bitcoin Faces $14 Billion Options Expiry While Middle East Turmoil Mounts](https://www.bloomberg.com/news/articles/2026-03-26/bitcoin-faces-14-billion-options-expiry-while-middle-east-turmoil-mounts)**
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 13h ago
 
 ---
 
 **[5 long, loud years: Neighbor, county leader ready for Bitcoin mine shutdown](https://www.wjhl.com/news/local/5-long-loud-years-neighbor-county-leader-ready-for-bitcoin-mine-shutdown/)**
 
-WJHL • 23h ago
+WJHL • 1d ago
 
 ---
 
@@ -247,13 +247,13 @@ Difficulty is now nearly 10% below where it started the year, despite a sharp 14
 
 Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes were hidden in lost fishing rod case
 
-⬆️ 2 • 💬 1 • 2d ago • [The Irish Times](https://www.irishtimes.com/crime-law/2026/03/24/gardai-seize-bitcoin-valued-at-30m-in-cab-operation-supported-by-europol/)
+⬆️ 2 • 💬 1 • 3d ago • [The Irish Times](https://www.irishtimes.com/crime-law/2026/03/24/gardai-seize-bitcoin-valued-at-30m-in-cab-operation-supported-by-europol/)
 
 ---
 
 **[MineGuard – Autonomous Bitcoin mining fleet manager, Karpathy-loop optimization](https://news.ycombinator.com/item?id=47538096)**
 
-⬆️ 1 • 💬 0 • 20h ago • [github.com](https://github.com/enriquevazquezusa/mineguard)
+⬆️ 1 • 💬 0 • 21h ago • [github.com](https://github.com/enriquevazquezusa/mineguard)
 
 ---
 
@@ -275,7 +275,7 @@ Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 3
 
 A collection of reasons to hate on AI
 
-⬆️ 5 • 💬 0 • 23h ago • [lonami.dev](https://lonami.dev/blog/ditching-github/)
+⬆️ 5 • 💬 0 • 1d ago • [lonami.dev](https://lonami.dev/blog/ditching-github/)
 
 ---
 
@@ -289,7 +289,7 @@ Bitcoin #Crypto #Finance Bitcoin has dropped sharply toward the $66K level as ma
 
 📺 The Wolf Of All Streets
 
-👁️ 16K • 👍 1K • 💬 307 • ⏱️ 34:13 • 8h ago
+👁️ 16K • 👍 1K • 💬 307 • ⏱️ 34:13 • 9h ago
 
 ---
 
@@ -299,7 +299,7 @@ all my life is bitcoin, literally. I had moments where I thought I was ruining m
 
 📺 BTC Isla
 
-👁️ 4K • 👍 640 • 💬 221 • ⏱️ 10:32 • 7h ago
+👁️ 4K • 👍 640 • 💬 221 • ⏱️ 10:32 • 8h ago
 
 ---
 
@@ -309,7 +309,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 796 • 💬 144 • ⏱️ 1:13:31 • 7h ago
+👁️ 13K • 👍 796 • 💬 144 • ⏱️ 1:13:31 • 8h ago
 
 ---
 
@@ -319,7 +319,7 @@ Are Bitcoin and the S&P 500 on the verge of a massive breakdown? In this urgent 
 
 📺 Gareth Soloway
 
-👁️ 54K • 👍 4K • 💬 566 • ⏱️ 9:48 • 10h ago
+👁️ 54K • 👍 4K • 💬 566 • ⏱️ 9:48 • 11h ago
 
 ---
 
@@ -329,7 +329,7 @@ Something is changing in the Bitcoin market—and most people are completely mis
 
 📺 Tim Talks Finance
 
-👁️ 1K • 👍 107 • 💬 29 • ⏱️ 12:25 • 4h ago
+👁️ 1K • 👍 107 • 💬 29 • ⏱️ 12:25 • 5h ago
 
 ---
 
@@ -339,7 +339,7 @@ Join The Community: https://bit.ly/FefeCommunity PASS THE BITFUNDED CHALLENGE ..
 
 📺 100XClub
 
-👁️ 8K • 👍 1K • 💬 219 • ⏱️ 9:55 • 12h ago
+👁️ 8K • 👍 1K • 💬 219 • ⏱️ 9:55 • 13h ago
 
 ---
 
@@ -369,7 +369,7 @@ Channel Sponsors (Affiliate Links)   Phemex https://phemex.com/a/k/FrankieCandle
 
 📺 Frankie Candles 
 
-👁️ 2K • 👍 155 • 2h ago
+👁️ 2K • 👍 155 • 3h ago
 
 ---
 
@@ -379,7 +379,7 @@ The U.S. just released a security update warning citizens that Honk Kong now has
 
 📺 Cyber Scrilla
 
-👁️ 5K • 👍 335 • 💬 40 • ⏱️ 1:08 • 7h ago
+👁️ 5K • 👍 335 • 💬 40 • ⏱️ 1:08 • 8h ago
 
 ---
 
