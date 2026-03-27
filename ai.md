@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-27T05:08:32.902177+00:00'
+updated: '2026-03-27T06:45:33.277026+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- repositories
 - news
 - social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 27, 2026 at 05:08 UTC  
+**Last Updated:** March 27, 2026 at 06:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Judge rejects Pentagon's attempt to 'cripple' Anthropic](https://www.reddit.com/r/artificial/comments/1s4vsib/judge_rejects_pentagons_attempt_to_cripple/)**
+
+A federal judge told the government it could not immediately enforce a ban on Anthropic’s tools.
+
+🔗 [bbc.com](https://www.bbc.com/news/articles/cvg4p02lvd0o) • 53m ago
+
+---
+
 **[OpenAI shuts down Sora AI video app as Disney exits $1B partnership](https://www.reddit.com/r/artificial/comments/1s49l99/openai_shuts_down_sora_ai_video_app_as_disney/)**
 
 OpenAI will discontinue Sora, its AI video platform, as Disney exits a $1B deal and industry backlash over copyright intensifies.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-sora-shutdown-disney-exit) • 14h ago
-
----
-
-**[Marriage over, €100,000 down the drain: the AI users whose lives were wrecked by delusion](https://www.reddit.com/r/artificial/comments/1s44cgl/marriage_over_100000_down_the_drain_the_ai_users/)**
-
-One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced his sentient friend would make him a fortune. He’s just one of many people who lost control after an AI encounter
-
-🔗 [the Guardian](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion) • 18h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-sora-shutdown-disney-exit) • 15h ago
 
 ---
 
@@ -57,7 +57,15 @@ One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced
 
 I built CodexLib (https://codexlib.io) — a curated repository of 100+ deep knowledge bases in compressed, AI-optimized format. The idea: instead of pasting long documents into your context window, you use a pre-compressed knowledge pack with a Rosetta decoder header. The AI decompresses it on the fly, and you get the same depth at ~15% fewer tokens. Each pack covers a specific domain (quantum computing, cardiology, cybersecurity, etc.) with abbreviations like ML=Machine Learning, NN=Neural Network decoded via the Rosetta header. There's a REST API for programmatic access — so you can feed domain expertise directly into your agents and pipelines. Currently 100+ packs across 50 domains, all generated using TokenShrink compression. Free tier available. Curious what domains people would find most useful — and whether the compression approach resonates with anyone building AI workflows.
 
-4h ago
+5h ago
+
+---
+
+**[Marriage over, €100,000 down the drain: the AI users whose lives were wrecked by delusion](https://www.reddit.com/r/artificial/comments/1s44cgl/marriage_over_100000_down_the_drain_the_ai_users/)**
+
+One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced his sentient friend would make him a fortune. He’s just one of many people who lost control after an AI encounter
+
+🔗 [the Guardian](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion) • 19h ago
 
 ---
 
@@ -65,15 +73,7 @@ I built CodexLib (https://codexlib.io) — a curated repository of 100+ deep kno
 
 Most people just type into ChatGPT like it's Google. Claude with a structured system prompt using XML tags behaves like a completely different tool. Example system prompt: <role>You are a senior equity analyst</role> <task>Analyse this earnings transcript and extract: 1) forward guidance tone 2) margin surprises 3) management deflections</task> <output>Return as structured JSON</output> Then paste the entire earnings call transcript. You get institutional-grade analysis in 4 seconds that would take an analyst 2 hours. Works on any 10-K, annual report, VC pitch deck. Game over for basic research.
 
-5h ago
-
----
-
-**[Ridiculous. Anthropic is behaving exactly like OpenAI.](https://www.reddit.com/r/artificial/comments/1s4okij/ridiculous_anthropic_is_behaving_exactly_like/)**
-
-Claude was fantastic when I paid monthly, right up until I chose to commit to a yearly Pro subscription. Now, a mere thirty-four text prompts—mostly two or three sentences long—burn through 94% of my five-hour limit. To make matters worse, six of those prompts were wasted because I had to repeat what I had just stated. Claude kept pulling web calls for information already established one or two prompts earlier. This is machinery designed to eat your usage. This is the exact same bait-and-switch garbage OpenAI pulled with GPT 5.0, dropping nuance for heuristics, practically guaranteeing through hubris OpenAI’s eventual Lycos trajectory. Seeing Dario Amodei actively hustle to work out a deal with the Pentagon proves their entire ethical safety stance was nothing more than PR BS designed to manufacture a moral high ground.
-
-4h ago
+6h ago
 
 ---
 
@@ -81,7 +81,7 @@ Claude was fantastic when I paid monthly, right up until I chose to commit to a 
 
 Here is a piece I’ve been working on that ties into my experiential grooves theory.
 
-🔗 [Medium](https://medium.com/@ColinRemille/the-silver-alien-head-91675a042fbe) • 2h ago
+🔗 [Medium](https://medium.com/@ColinRemille/the-silver-alien-head-91675a042fbe) • 4h ago
 
 ---
 
@@ -89,7 +89,7 @@ Here is a piece I’ve been working on that ties into my experiential grooves th
 
 can you share some examples? I just started to look on youtube and the first bunch of results were not what i was looking for yet. I don't necessarily want to copy the project , i want see the workflow, the timing and rhythm of the succession of tasks, and be inspired to "port" their method to projects of my own, or come up with new ideas i haven't thougth yet.
 
-10h ago
+12h ago
 
 ---
 
@@ -105,15 +105,15 @@ The Pentagon is spending $13.4 billion on AI this year alone.
 
 I made 3 repos public and in a week I have a total of 16 stars and 5 forks. I realize that the platforms are extremely complex and definitely not for casual coders. But I think even they could find something useful. Sadly, I have no idea how to build a community. Any advice would be appreciated.
 
-4h ago
+5h ago
 
 ---
 
-**[do you think AI can replace human tutors in language learning?](https://www.reddit.com/r/artificial/comments/1s4by8l/do_you_think_ai_can_replace_human_tutors_in/)**
+**[Ridiculous. Anthropic is behaving exactly like OpenAI.](https://www.reddit.com/r/artificial/comments/1s4okij/ridiculous_anthropic_is_behaving_exactly_like/)**
 
-hi, been thinking about this a lot lately. i’m currently learning 3 foreign languages and my experience has been… interesting, to say the least. been working on my skills with tutors, books, some apps, even went to a language exchange abroad in france. but honestly, considering the cost + availability, it kinda feels like AI tutors are slowly gonna start pushing native speakers/tutors out of the space like you can literally design your own tailor-made tutor and train it exactly how you want… which is kinda wild. but at the same time, isn’t the human interaction + spontaneity kinda the whole point of learning a language?? has anyone here actually built their own AI-powered tutor using AI agents, vibe coding with claude or anything like that?
+Claude was fantastic when I paid monthly, right up until I chose to commit to a yearly Pro subscription. Now, a mere thirty-four text prompts—mostly two or three sentences long—burn through 94% of my five-hour limit. To make matters worse, six of those prompts were wasted because I had to repeat what I had just stated. Claude kept pulling web calls for information already established one or two prompts earlier. This is machinery designed to eat your usage. This is the exact same bait-and-switch garbage OpenAI pulled with GPT 5.0, dropping nuance for heuristics, practically guaranteeing through hubris OpenAI’s eventual Lycos trajectory. Seeing Dario Amodei actively hustle to work out a deal with the Pentagon proves their entire ethical safety stance was nothing more than PR BS designed to manufacture a moral high ground.
 
-12h ago
+6h ago
 
 ---
 
@@ -121,11 +121,71 @@ hi, been thinking about this a lot lately. i’m currently learning 3 foreign la
 
 ## Google News: "ai"
 
+**[Judge temporarily blocks Trump administration's Anthropic ban](https://www.npr.org/2026/03/26/nx-s1-5762971/judge-temporarily-blocks-anthropic-ban)**
+
+The order briefly stops the government from labeling tech company Anthropic a "supply chain risk," calling that "classic First Amendment retaliation."
+
+NPR • 6h ago
+
+---
+
+**[Federal judge sides with Anthropic in first round of standoff with Pentagon](https://www.theguardian.com/us-news/2026/mar/26/anthropic-ai-pentagon)**
+
+Face-off is over company’s refusal to let defense department use its AI model in autonomous weapons systems
+
+The Guardian • 7h ago
+
+---
+
 **[Exclusive: Anthropic is testing 'Mythos' its 'most powerful AI model ever developed'](https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/)**
 
 Anthropic said it was testing the new model, which it called a 'step change' in performance, after accidental data leak reveals its existence
 
-Fortune • 1h ago
+Fortune • 3h ago
+
+---
+
+**[Marriage over, €100,000 down the drain: the AI users whose lives were wrecked by delusion](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion)**
+
+One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced his sentient friend would make him a fortune. He’s just one of many people who lost control after an AI encounter
+
+The Guardian • 19h ago
+
+---
+
+**[AITA? AI won’t tell you, and it’s affecting behavior and relationships](https://www.scientificamerican.com/article/ai-chatbots-are-sucking-up-to-you-with-consequences-for-your-relationships/)**
+
+A new study of AI sycophancy shows how asking agreeable chatbots for advice can change your behavior
+
+Scientific American • 12h ago
+
+---
+
+**[AI and bots have officially taken over the internet, report finds](https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html)**
+
+HUMAN Security's State of AI Traffic report found that bots have eclipsed human users, with automated traffic growing eight times faster than human activity.
+
+CNBC • 17h ago
+
+---
+
+**[Wakefield councillor calls out AI image before local election](https://www.bbc.com/news/articles/cly7v7ng9nno)**
+
+A Wakefield councillor warns of the dangers of fake images in the run-up to local elections.
+
+BBC • 33m ago
+
+---
+
+**[The AI Boom Is Missing the Secret Sauce of the 1990s](https://www.bloomberg.com/news/articles/2026-03-27/why-today-s-ai-boom-won-t-repeat-the-1990s-economy)**
+
+Bloomberg.com • 43m ago
+
+---
+
+**[China’s Moonshot AI Seeks Listing in Hong Kong Under Heightened Scrutiny](https://www.wsj.com/tech/ai/chinas-moonshot-ai-seeks-listing-in-hong-kong-under-heightened-scrutiny-7a0a71ef?gaa_at=eafs&gaa_n=AWEtsqdHXOVIh84szP6GDPDqS2GyKzG9y1MvszkjYBDmk4EHM45kQojRy3Cd&gaa_ts=69c62af7&gaa_sig=pVDLoeUIg7Rd-FA38DXQVL8xJmLubaSSL3uQjPCHNMAsHUB8u7yzVkGuk2UatyXLaENdQDv7HhaV34xCThe4gw%3D%3D)**
+
+WSJ • 1h ago
 
 ---
 
@@ -133,63 +193,7 @@ Fortune • 1h ago
 
 The AI boom wasn’t built for the polycrisis.
 
-The Atlantic • 8h ago
-
----
-
-**[On-demand-college counseling, courtesy of AI](https://hechingerreport.org/ai-educators-college-counselors/)**
-
-The Hechinger Report • 8m ago
-
----
-
-**[Tech Investing Seems Broken. Our Roundtable Pros Share 15 Stock Picks to Fix Your Portfolio.](https://www.barrons.com/articles/ai-technology-stocks-roundtable-5842c9ef?gaa_at=eafs&gaa_n=AWEtsqcMXyV6ZEsiy25OZ2MrOPvt05hUoauaXStjFnMNfP-LmveoI_TrphKb&gaa_ts=69c6142f&gaa_sig=GWevxZ9rir1kK59dwlioFuMUNyHfHZdWHbBtNmEmqKydgrCwFLjt_lQuPumeMwDCLR2MvTLA6EHf2ewNt3tWDw%3D%3D)**
-
-Barron's • 8m ago
-
----
-
-**[AI mentions on resumes have tripled, but colleges aren’t keeping up](https://www.fastcompany.com/91516697/ai-mentions-on-resumes-have-tripled-but-colleges-arent-keeping-up)**
-
-Research shows AI mentions on resumes have tripled in two years, but many universities continue to treat AI use as misconduct.
-
-Fast Company • 2m ago
-
----
-
-**[David Sacks says his time as Trump's crypto and AI czar has ended](https://www.cnbc.com/2026/03/26/david-sacks-trump-crypto-ai-czar.html)**
-
-The venture capitalist said he will still be a part of the White House's Technology committee and will help push Trump's AI plan forward.
-
-CNBC • 7h ago
-
----
-
-**[Trump names David Sacks co-chair of tech advisory council, expanding AI, crypto role](https://www.foxbusiness.com/politics/trump-names-david-sacks-co-chair-tech-advisory-council-expanding-ai-crypto-role)**
-
-Trump names David Sacks as PCAST co-chair, expanding his AI and crypto czar role, with Nvidia's Jensen Huang, Meta's Mark Zuckerberg and Oracle's Larry Ellison also joining.
-
-Fox Business • 2h ago
-
----
-
-**[White House AI czar Sacks to step down, moves to advisory role](https://www.reuters.com/world/us/white-house-ai-czar-sacks-step-down-moves-advisory-role-2026-03-27/)**
-
-Reuters • 4h ago
-
----
-
-**[Local Opposition Is Slowing A.I. Data Centers. Wall Street Has Noticed.](https://www.nytimes.com/2026/03/26/business/economy/ai-data-centers-construction-local-opposition.html)**
-
-The New York Times • 13h ago
-
----
-
-**[Judge temporarily blocks Trump administration's Anthropic ban](https://www.npr.org/2026/03/26/nx-s1-5762971/judge-temporarily-blocks-anthropic-ban)**
-
-The order briefly stops the government from labeling tech company Anthropic a "supply chain risk," calling that "classic First Amendment retaliation."
-
-NPR • 4h ago
+The Atlantic • 10h ago
 
 ---
 
@@ -201,7 +205,7 @@ NPR • 4h ago
 
 Is anybody else bored of talking about AI?
 
-⬆️ 738 • 💬 520 • 2d ago • [Unfinished Side Projects](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
+⬆️ 738 • 💬 521 • 2d ago • [Unfinished Side Projects](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
 
 ---
 
@@ -209,13 +213,13 @@ Is anybody else bored of talking about AI?
 
 Search any airport for real-time delays, weather, arrivals, departures, and performance insights powered by Flighty.
 
-⬆️ 556 • 💬 183 • 2d ago • [Flighty](https://flighty.com/airports)
+⬆️ 556 • 💬 184 • 2d ago • [Flighty](https://flighty.com/airports)
 
 ---
 
 **[TurboQuant: Redefining AI efficiency with extreme compression](https://news.ycombinator.com/item?id=47513475)**
 
-⬆️ 541 • 💬 154 • 2d ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
+⬆️ 544 • 💬 154 • 2d ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
 
 ---
 
@@ -231,7 +235,7 @@ Practical AI R&D
 
 The decision follows activist pressure as Palantir faces growing scrutiny over NHS and UK government deals
 
-⬆️ 282 • 💬 135 • 8h ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai)
+⬆️ 284 • 💬 138 • 10h ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai)
 
 ---
 
@@ -255,7 +259,13 @@ The studio giant will no longer move forward with its OpenAI investment, as the 
 
 One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced his sentient friend would make him a fortune. He’s just one of many people who lost control after an AI encounter
 
-⬆️ 193 • 💬 245 • 15h ago • [the Guardian](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion)
+⬆️ 198 • 💬 248 • 17h ago • [the Guardian](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion)
+
+---
+
+**[Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://news.ycombinator.com/item?id=47536761)**
+
+⬆️ 192 • 💬 63 • 8h ago • [georgelarson.me](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
 
 ---
 
@@ -263,15 +273,7 @@ One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced
 
 I asked experts if I'm real. Bad news. Even my aunt wasn't sure if I was a deepfake. AI is so convincing that a sitting prime minister struggled to prove he's alive. You might be next.
 
-⬆️ 173 • 💬 194 • 1d ago • [bbc.com](https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake)
-
----
-
-**[The AI Industry Is Lying to You](https://news.ycombinator.com/item?id=47506259)**
-
-Hi! If you like this piece and want to support my independent reporting and analysis, why not subscribe to my premium newsletter? It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5000 to 18,000 words, including
-
-⬆️ 163 • 💬 130 • 2d ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/)
+⬆️ 173 • 💬 195 • 1d ago • [bbc.com](https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake)
 
 ---
 
@@ -295,7 +297,7 @@ Grab the Action Guide https://parker-prompts.com/5-like-5 In this video, I break
 
 📺 Parker Prompts
 
-👁️ 11K • 💬 8 • ⏱️ 12:30 • 15h ago
+👁️ 11K • 💬 8 • ⏱️ 12:30 • 17h ago
 
 ---
 
@@ -305,7 +307,7 @@ The truth about Sam Altman. AI Critic Karen Hao reveals what 90 OpenAI employees
 
 📺 The Diary Of A CEO
 
-👁️ 857K • 👍 26K • 💬 5K • ⏱️ 2:09:13 • 21h ago
+👁️ 857K • 👍 26K • 💬 5K • ⏱️ 2:09:13 • 22h ago
 
 ---
 
@@ -315,7 +317,7 @@ The people building AI say it could destroy humanity… so why are they still ra
 
 📺 The Diary Of A CEO
 
-👁️ 141K • 👍 5K • 💬 176 • ⏱️ 1:50 • 13h ago
+👁️ 141K • 👍 5K • 💬 176 • ⏱️ 1:50 • 15h ago
 
 ---
 
@@ -325,7 +327,7 @@ Iranian state-linked media (IRIB) and the Islamic Revolutionary Guard Corps (IRG
 
 📺 MIRROR NOW
 
-👁️ 72K • 👍 1K • 💬 547 • ⏱️ 3:06 • 17h ago
+👁️ 72K • 👍 1K • 💬 547 • ⏱️ 3:06 • 19h ago
 
 ---
 
@@ -345,7 +347,7 @@ Patrick Bet-David and the panel break down how AI agents like Claude are changin
 
 📺 Valuetainment
 
-👁️ 88K • 👍 2K • 💬 246 • ⏱️ 13:13 • 16h ago
+👁️ 88K • 👍 2K • 💬 246 • ⏱️ 13:13 • 17h ago
 
 ---
 
@@ -375,7 +377,7 @@ PATREON: https://www.patreon.com/cw/marcinsco Marc takes a closer look at the la
 
 📺 marc insco
 
-👁️ 49K • 👍 4K • 💬 450 • ⏱️ 32:33 • 12h ago
+👁️ 49K • 👍 4K • 💬 450 • ⏱️ 32:33 • 13h ago
 
 ---
 
@@ -427,7 +429,7 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 `text-to-speech`
 
-⬇️ 108 • ❤️ 219 • 13h ago
+⬇️ 108 • ❤️ 219 • 15h ago
 
 ---
 
@@ -451,7 +453,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 13 • ❤️ 168 • 15h ago
+⬇️ 13 • ❤️ 168 • 16h ago
 
 ---
 
@@ -614,7 +616,7 @@ daVinci-MagiHuman is an open-source audio-video generative model that synchroniz
 
 A generalist language model agent system autonomously designs and improves task-specific agents through memory-based reinforcement learning with stateful prompts and skill libraries.
 
-▲ 51 • 💬 2 • ⭐ 702 • 7d ago
+▲ 51 • 💬 2 • ⭐ 702 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.18743) • [💻 code](https://github.com/Memento-Teams/Memento-Skills) • [🔗 project](https://memento.run/)
 
@@ -652,7 +654,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 22.7k • 🔱 1.1k • 10h ago
+⭐ 22.7k • 🔱 1.1k • 11h ago
 
 ---
 
@@ -662,7 +664,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 12.6k • 🔱 679 • 18h ago
+⭐ 12.6k • 🔱 679 • 20h ago
 
 ---
 
@@ -672,7 +674,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 7.7k • 🔱 623 • 9h ago
+⭐ 7.7k • 🔱 623 • 10h ago
 
 ---
 
@@ -712,7 +714,7 @@ Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messag
 
 `Go`
 
-⭐ 3.2k • 🔱 281 • 3h ago
+⭐ 3.2k • 🔱 281 • 5h ago
 
 ---
 
@@ -730,7 +732,7 @@ SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 
 `Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
 
-⭐ 2.7k • 🔱 453 • 14h ago
+⭐ 2.7k • 🔱 453 • 16h ago
 
 ---
 

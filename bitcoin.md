@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-27T05:08:32.909977+00:00'
+updated: '2026-03-27T06:45:33.285458+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - news
-- social
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 27, 2026 at 05:08 UTC  
+**Last Updated:** March 27, 2026 at 06:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** -0.2%  
-**30d:** +1.6%  
-**90d:** -21.8%  
-**1y:** -18.8%  
+**24h:** -1.9%  
+**7d:** +0.0%  
+**30d:** +1.9%  
+**90d:** -21.6%  
+**1y:** -18.6%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 The government-sponsored mortgage giant will accept Bitcoin and USDC as collateral through a new program with Better Home and Coinbase.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/coinbase-fannie-mae-enable-crypto-120846995.html) • 15h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/coinbase-fannie-mae-enable-crypto-120846995.html) • 17h ago
 
 ---
 
@@ -89,7 +89,7 @@ The government-sponsored mortgage giant will accept Bitcoin and USDC as collater
 
 The other day we posted about how our current monetary system prices out many from home ownership, and how bitcoin is part of the solution and that is becoming more true every day. Starting today, homebuyers can pledge Bitcoin as downpayment collateral through a new Coinbase + Better Home & Finance program backed by Fannie Mae, which underwrites roughly half of all U.S. mortgages. Here are the key elements: --Homebuyers don't sell their bitcoin so there's no taxable event --No margin calls, so if Bitcoin drops 30%, the mortgage terms don't change
 
-13h ago
+15h ago
 
 ---
 
@@ -97,7 +97,7 @@ The other day we posted about how our current monetary system prices out many fr
 
 So I finally pulled the trigger and snagged 0.01 BTC while prices are down. Pretty stoked about it. Now I'm wondering what's a solid target amount for long-term holding? Thinking 0.21 might be my next milestone but curious what others are aiming for. Anyone have thoughts on where we're headed price-wise? I know nobody has a crystal ball but always interested in hearing different perspectives on potential recovery timelines.
 
-10h ago
+12h ago
 
 ---
 
@@ -107,17 +107,17 @@ So I finally pulled the trigger and snagged 0.01 BTC while prices are down. Pret
 
 ---
 
-**[TD Bankers Are Now Wearing Bitcoin Ties...](https://www.reddit.com/r/Bitcoin/comments/1s4fpaz/td_bankers_are_now_wearing_bitcoin_ties/)**
-
-10h ago
-
----
-
 **[Some real talk for everyone freaking out](https://www.reddit.com/r/Bitcoin/comments/1s4rlcr/some_real_talk_for_everyone_freaking_out/)**
 
 Hey everyone, just wanted to share some thoughts as someone whos been watching this space for a while First off - if youre not planning to hold for at least 3-4 years, maybe reconsider your strategy. This isnt a get rich quick thing Second - stop refreshing coinbase every hour lol. I used to do this and it was driving me insane. Now I check maybe twice a week and my mental health is way better Third - dont let every twitter thread or news article send you into panic mode. Most of it is just noise anyway Look, as long as you only put in what you can actually afford to lose and youre thinking long term, youll probably be fine. If you went too hard and used money you needed for bills or whatever, that sucks but try to learn from it Everything feels chaotic right now but thats just how markets work sometimes. Stay calm and dont make emotional decisions when youre stressed
 
-2h ago
+4h ago
+
+---
+
+**[TD Bankers Are Now Wearing Bitcoin Ties...](https://www.reddit.com/r/Bitcoin/comments/1s4fpaz/td_bankers_are_now_wearing_bitcoin_ties/)**
+
+12h ago
 
 ---
 
@@ -125,7 +125,7 @@ Hey everyone, just wanted to share some thoughts as someone whos been watching t
 
 Been waiting for better entry point and decided 65k is where I'll make big move. Planning to liquidate significant portion from my equity investments and go heavy on Bitcoin at that level. For now just doing regular purchases whenever these smaller drops happen. Yeah 25k would be amazing opportunity but doesn't seem realistic anymore. 65k feels like more achievable target where I can really load up the bags. Anyone else waiting for specific price levels to make larger buys?
 
-15h ago
+17h ago
 
 ---
 
@@ -133,7 +133,7 @@ Been waiting for better entry point and decided 65k is where I'll make big move.
 
 Company warns entire industry to move off RSA and EC more quickly.
 
-🔗 [Ars Technica](https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/) • 15h ago
+🔗 [Ars Technica](https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/) • 17h ago
 
 ---
 
@@ -141,15 +141,15 @@ Company warns entire industry to move off RSA and EC more quickly.
 
 I’m starting to rethink my strategy. At the beginning, I was investing $800 per month into Bitcoin. Do you think it makes more sense to buy $200 worth of Bitcoin every week now, or should I keep investing $800 once a month? What would make more sense in your opinion?
 
-7h ago
+8h ago
 
 ---
 
-**[stepping away from bitcoin stuff for now](https://www.reddit.com/r/Bitcoin/comments/1s43w7s/stepping_away_from_bitcoin_stuff_for_now/)**
+**[Daily Discussion, March 27, 2026](https://www.reddit.com/r/Bitcoin/comments/1s4w1i3/daily_discussion_march_27_2026/)**
 
-been thinking about this for few days now and decided to take break from all bitcoin related content. getting overwhelmed by constant noise online these days. every platform has someone screaming about what i should believe or do with my coins joined this space because i believed in technology but now feels like everyone just wants to push their agenda. most of these influencers probably just making content for views anyway going to unfollow most crypto accounts and focus in other things for while. started learning digital art recently and already spent like 12 hours working on single project. much more relaxing than checking charts every hour need to get back to basics and remember why i got interested on bitcoin in first place. maybe after few weeks away from all this drama i can come back with clearer head anyone else taking breaks like this?
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-18h ago
+39m ago
 
 ---
 
@@ -161,7 +161,7 @@ been thinking about this for few days now and decided to take break from all bit
 
 The video retailer sparked speculations of selling bitcoin after it transferred nearly all its coins to Coinbase Prime in January.
 
-CoinDesk • 8h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -169,31 +169,23 @@ CoinDesk • 8h ago
 
 Goldman Sachs believes bitcoin and crypto prices may have hit their floor after months of declines.
 
-Bitcoin Magazine • 10h ago
+Bitcoin Magazine • 12h ago
 
 ---
 
-**[Here’s how memestock maven GameStop is tapping Coinbase and Bitcoin to boost revenue](https://finance.yahoo.com/markets/crypto/articles/memestock-maven-gamestop-tapping-coinbase-025344525.html)**
+**[What Rising US Bond Yields Mean for Bitcoin](https://finance.yahoo.com/markets/crypto/articles/rising-us-bond-yields-mean-050727125.html)**
 
-GameStop pledged 4,709 Bitcoin of its 4,710 stack to Coinbase as part of an options trading strategy. The deal lets GameStop earn money now, but limits gains if Bitcoin surges past $105,000. Notably, Coinbase can use the Bitcoin however it wants.
+Oil-driven inflation fears and rising bond yields are tightening financial conditions and steering equities and cryptocurrencies.
 
-Yahoo Finance • 2h ago
-
----
-
-**[GameStop didn't sell $324 million worth of bitcoin in January, filing shows](https://www.theblock.co/post/395406/gamestop-didnt-sell-bitcoin)**
-
-GameStop's latest 10-K filing shows that it did not sell 4,709 BTC it acquired last year, but pledged it as collateral with Coinbase Credit.
-
-The Block • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin inches toward $71,000 as hopes for U.S.-Iran talks push oil prices lower: CNBC Crypto World](https://www.cnbc.com/video/2026/03/25/bitcoin-inches-toward-71000-as-hopes-for-us-iran-talks-push-oil-prices-lower-cnbc-crypto-world.html)**
+**[Bitcoin (BTC) price news: Trump extends Iran strike pause, trimming price decline](https://www.coindesk.com/markets/2026/03/26/crypto-edges-off-of-worst-levels-after-trump-extends-iran-strike-pause)**
 
-On today's episode of CNBC Crypto World, bitcoin moves towards $71,000 after Iran counters a U.S. ceasefire plan. Also, Senators reportedly reached an agreement on crypto market structure legislation language to settle a dispute between the banking and crypto sectors. Franklin Templeton's Max Gokhman also discusses how bitcoin is performing as the Iran war continues.
+It was an ugly day all around in markets as the Iran war has sent oil prices and bond yields surging higher.
 
-CNBC • 1d ago
+CoinDesk • 9h ago
 
 ---
 
@@ -201,37 +193,45 @@ CNBC • 1d ago
 
 Bitcoin fell alongside stocks as investors weighed conflicting accounts regarding Iran’s willingness to end conflict in the Middle East.
 
-Decrypt • 8h ago
+Decrypt • 10h ago
 
 ---
 
-**[BTC, ETH, SOL, ADA slide as Trump extends Iran deadline but war risks persist](https://www.coindesk.com/markets/2026/03/27/bitcoin-slides-below-usd68-500-as-trump-extends-iran-deadline-but-war-risks-persist)**
+**[Bitcoin slides below $68,500 as Trump extends Iran deadline but war risks persist](https://www.coindesk.com/markets/2026/03/27/bitcoin-slides-below-usd68-500-as-trump-extends-iran-deadline-but-war-risks-persist)**
 
 Every major is red on the day as the war enters its fifth week with no resolution, though ETF inflows of $2.5 billion over the past month and net exchange outflows suggest institutional accumulation beneath the surface.
 
-CoinDesk • 35m ago
+CoinDesk • 2h ago
 
 ---
 
-**[Why Is the DOJ Hoarding a Boatload of Bitcoin?](https://www.esquire.com/news-politics/politics/a70859394/doj-pam-bondi-bitcoin-scam/)**
+**[Bitcoin (BTC) news: Macro risks mount as Ukraine adds to oil market uncertainty](https://www.coindesk.com/markets/2026/03/27/bitcoin-macro-risks-spike-as-ukraine-throws-a-spanner-in-trump-s-plan-to-stabilize-oil-markets)**
 
-Something tells me that Pam Bondi and her cronies will find a way to do something weird with the money they seized from a crypto scam.
+Ukraine’s disruption of Russian oil flows has added fresh uncertainty to already strained energy markets, complicating inflation outlooks and keeping pressure on risk assets including bitcoin.
 
-Esquire • 7h ago
-
----
-
-**[Bitcoin faces $14 billion options expiry while Middle East turmoil mounts](https://fortune.com/2026/03/26/bitcoin-faces-14-billion-options-expiry-while-middle-east-turmoil-mounts/)**
-
-The quarterly rollover—which wipes out close to 40% of open positions on the dominant Deribit exchange—comes while U.S. President Donald Trump is threatening Iran with intensified military action.
-
-Fortune • 6h ago
+CoinDesk • 33m ago
 
 ---
 
-**[MARA Holdings Stock Jumps. It’s Selling Bitcoin to Fund Its AI Ambitions.](https://www.barrons.com/articles/mara-stock-price-bitcoin-ai-1feed581?gaa_at=eafs&gaa_n=AWEtsqepHIJQ69avBVWDIICQxHSpdwpLBkPFiXaBfPesb53hTlOEVa8jtHpY&gaa_ts=69c61430&gaa_sig=luDvoOTV-pFQT0YTO9REVGsr5vwMyO-AirRdkvb1tpldziQRSAF_xH2N9c4OrAtRZvYAm_-y3p80TOeUROooRw%3D%3D)**
+**[MARA Holdings Stock Jumps. It’s Selling Bitcoin to Fund Its AI Ambitions.](https://www.barrons.com/articles/mara-stock-price-bitcoin-ai-1feed581?gaa_at=eafs&gaa_n=AWEtsqdPbZ28OcjAysKRMT4lWulY79_ut3BCTcRtkDxA3oXyKzKpfWvgamYM&gaa_ts=69c62af8&gaa_sig=yptsw8ZVbYc7qRgw5lwmb9pAOtruPUyHOopI7egVwb3J4uhQTqER7gGRM14yBFI8ZrBjP_B8K0lXNTiTkk-Aug%3D%3D)**
 
-Barron's • 9h ago
+Barron's • 11h ago
+
+---
+
+**[MARA Is Up 5% While Bitcoin Falls: What’s Driving the Divergence?](https://finance.yahoo.com/markets/stocks/articles/mara-5-while-bitcoin-falls-130100207.html)**
+
+Marathon Digital Holdings (NASDAQ:MARA) stock is up 6% in Thursday morning trading even though Bitcoin (CRYPTO:BTC) declined 2.83% over the past 24 hours to less than $69,400. Since MARA is a high-beta stock that has historically moved in near-lockstep with cryptocurrency prices, this divergence deserves a closer look. No single confirmed company-specific catalyst has been identified ... MARA Is Up 5% While Bitcoin Falls: What’s Driving the Divergence?
+
+Yahoo Finance • 17h ago
+
+---
+
+**[MARA Dumps $1.1 Billion in Bitcoin to Repurchase Convertible Notes, Cuts Debt by 30%](https://bitcoinmagazine.com/news/mara-dumps-1-1-billion-in-bitcoin)**
+
+MARA Holdings said they sold 15,133 Bitcoin for approximately $1.1 billion between March 4 and March 25 to fund the repurchase of its 0.00% convertible senior notes.
+
+Bitcoin Magazine • 17h ago
 
 ---
 
@@ -243,7 +243,7 @@ Barron's • 9h ago
 
 Difficulty is now nearly 10% below where it started the year, despite a sharp 14.7% rebound in February after weather-related disruptions subsided.
 
-⬆️ 5 • 💬 1 • 4d ago • [The Block](https://www.theblock.co/post/394579/bitcoin-mining-difficulty-drops-7-8-as-miner-exodus-accelerates-amid-ai-pivot)
+⬆️ 5 • 💬 1 • 5d ago • [The Block](https://www.theblock.co/post/394579/bitcoin-mining-difficulty-drops-7-8-as-miner-exodus-accelerates-amid-ai-pivot)
 
 ---
 
@@ -263,7 +263,7 @@ Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes
 
 **[MineGuard – Autonomous Bitcoin mining fleet manager, Karpathy-loop optimization](https://news.ycombinator.com/item?id=47538096)**
 
-⬆️ 1 • 💬 0 • 3h ago • [github.com](https://github.com/enriquevazquezusa/mineguard)
+⬆️ 1 • 💬 0 • 5h ago • [github.com](https://github.com/enriquevazquezusa/mineguard)
 
 ---
 
@@ -277,7 +277,7 @@ Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 3
 
 **[Show HN: Lexe – Self-Custodial Lightning Nodes in TEEs, Python and Rust SDKs](https://news.ycombinator.com/item?id=47532761)**
 
-⬆️ 4 • 💬 1 • 12h ago • [blog.lexe.app](https://blog.lexe.app/public-launch/)
+⬆️ 4 • 💬 1 • 13h ago • [blog.lexe.app](https://blog.lexe.app/public-launch/)
 
 ---
 
@@ -285,7 +285,7 @@ Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 3
 
 A collection of reasons to hate on AI
 
-⬆️ 5 • 💬 0 • 6h ago • [lonami.dev](https://lonami.dev/blog/ditching-github/)
+⬆️ 5 • 💬 0 • 7h ago • [lonami.dev](https://lonami.dev/blog/ditching-github/)
 
 ---
 
@@ -299,7 +299,7 @@ Coinbase and Fannie Mae just partnered up to do NO MARGIN CALL LOANS for Bitcoin
 
 📺 Digital Asset News
 
-👁️ 10K • 👍 821 • 💬 66 • ⏱️ 18:26 • 10h ago
+👁️ 10K • 👍 821 • 💬 66 • ⏱️ 18:26 • 12h ago
 
 ---
 
@@ -309,7 +309,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 6K • 👍 551 • 💬 133 • ⏱️ 10:44 • 4h ago
+👁️ 6K • 👍 551 • 💬 133 • ⏱️ 10:44 • 5h ago
 
 ---
 
@@ -319,7 +319,7 @@ Continued reports on bitcoin suppression happening but one person is buying all 
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 309 • 💬 26 • ⏱️ 1:06:38 • 10h ago
+👁️ 6K • 👍 309 • 💬 26 • ⏱️ 1:06:38 • 12h ago
 
 ---
 
@@ -329,7 +329,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptovers
 
 📺 Benjamin Cowen
 
-👁️ 10K • 👍 256 • 💬 5 • ⏱️ 0:46 • 11h ago
+👁️ 10K • 👍 256 • 💬 5 • ⏱️ 0:46 • 13h ago
 
 ---
 
@@ -339,7 +339,7 @@ Bitcoin #Crypto #Finance Bitcoin is pulling back as negotiations around the Clar
 
 📺 The Wolf Of All Streets
 
-👁️ 12K • 👍 513 • 💬 220 • ⏱️ 28:58 • 15h ago
+👁️ 12K • 👍 513 • 💬 220 • ⏱️ 28:58 • 17h ago
 
 ---
 
@@ -379,7 +379,7 @@ Michael Saylor, Strategy co-founder, joins 'Power Lunch' to discuss the company'
 
 📺 CNBC Television
 
-👁️ 14K • 👍 207 • 💬 143 • ⏱️ 4:05 • 9h ago
+👁️ 14K • 👍 207 • 💬 143 • ⏱️ 4:05 • 11h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-27T05:08:32.918325+00:00'
+updated: '2026-03-27T06:45:33.294633+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 27, 2026 at 05:08 UTC  
+**Last Updated:** March 27, 2026 at 06:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Yeah, front flips. I know, I've seen a lot of "who cares," "useless flex," "why don't you do something useful," "seen it a hundred times." Fair. But when it actually works on a real robot, you still feel it. Still a lot to fix, but this was a good day :D
 
-14h ago
+16h ago
 
 ---
 
 **[Demo of Agibot’s wheeled A2 depalleting](https://www.reddit.com/r/robotics/comments/1s4spdj/demo_of_agibots_wheeled_a2_depalleting/)**
 
-1h ago
+3h ago
 
 ---
 
@@ -50,19 +50,19 @@ Yeah, front flips. I know, I've seen a lot of "who cares," "useless flex," "why 
 
 This is the new and improved state of the driver board for my work in progress 6 axis 3D printed robot arm. ESP32 I2C Multiplexing - For encoder wiring 6 x DRV8825
 
-59m ago
+2h ago
 
 ---
 
 **[This Is How You Beat the Biggest Big Wheeled Bot](https://www.reddit.com/r/robotics/comments/1s4demt/this_is_how_you_beat_the_biggest_big_wheeled_bot/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Shared my firs model to Printables](https://www.reddit.com/r/robotics/comments/1s4oaut/shared_my_firs_model_to_printables/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -70,7 +70,15 @@ This is the new and improved state of the driver board for my work in progress 6
 
 Wanted to share something we've been working on: using electro-permanent magnets (EPMs) as grippers for robotics and drone applications. The basic idea is that the magnet can be switched on/off electrically (like an electromagnet), but holds its state without power like a regular magnet. Key specs: 70g mass, 25+ kgf holding force, zero power in steady state, controlled via CAN, RC PWM, or simple discrete voltage level. No moving parts & works anywhere (dust-/waterproof, vibration-resistant). We've shipped these to university labs, defense contractors, and drone companies for payload attachment. Use cases range from drone delivery to cobot arms to ground vehicle trailer attachment. They can be used with non-ferromagnetic payloads as well as covered in the docs. We are trying to raise awareness and are providing free samples to universities and hobbyists, conditional on mentions in papers or media. Please DM me or leave a comment below for details!
 
-4h ago
+6h ago
+
+---
+
+**[Can someone build robotic arms to test input devices?](https://www.reddit.com/r/robotics/comments/1s4wijv/can_someone_build_robotic_arms_to_test_input/)**
+
+For longevity, durability testing. I imagine versatile robotic arms and hands that could test hardware like keyboards, mice, touchscreens or any user inputs.
+
+11m ago
 
 ---
 
@@ -78,7 +86,7 @@ Wanted to share something we've been working on: using electro-permanent magnets
 
 curious what people think about the Livox Avia in today’s stack for mapping / slam in 2026. I used these in a project around 2022/2023, but haven't used them since. It always seemed like a strong middle ground between lower-cost Livox units and more expensive survey-grade systems, especially for UAV mapping and longer-range perception. My team used it for a mapping / slam project perviously, but I noticed they are sold out on DJI site. Are these in crazy demand or just not manufactured anymore? I ask because I have two brand new Avia units (never used, still sealed — from a startup project that pivoted), are they of any value in selling or should I try to find a way to make money with them from a mapping / service business? If anyone happens to be looking for one, feel free to reach out — but mostly just trying to understand the current landscape.
 
-8h ago
+10h ago
 
 ---
 
@@ -92,15 +100,7 @@ From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/20347089382690366
 
 **[Gotta Start Somewhere! ALMA.GeoffreyAment](https://www.reddit.com/r/robotics/comments/1s4hpay/gotta_start_somewhere_almageoffreyament/)**
 
-9h ago
-
----
-
-**[CasMuMPC, Open-Source CasADi MPC + MuJoCo reference repo](https://www.reddit.com/r/robotics/comments/1s4h049/casmumpc_opensource_casadi_mpc_mujoco_reference/)**
-
-Hi everyone! I just open-sourced a small project called CasMuMPC: https://github.com/ChenDavidTimothy/casmu-mpc It uses CasADi for the MPC side and MuJoCo for the plant simulation side, with the boundary between the two kept explicit. This is not meant to be a full MPC framework. The idea is much simpler: a readable reference repo for building and testing MPC controllers against an external physics engine, especially in cases where the controller model and the simulated plant should stay clearly separated. I’m keeping the focus on mathematical clarity, straightforward implementation, and transparent controller-plant interfacing. I plan to keep expanding the examples over time, including more advanced use cases. Contributions are welcome, and the repo is MIT licensed. Hope it is useful to you!
-
-9h ago
+11h ago
 
 ---
 
@@ -116,19 +116,41 @@ CNBC • 2d ago
 
 ---
 
-**[Amazon buys Fauna Robotics, maker of the Sprout humanoid robot](https://abcnews.com/Business/wireStory/amazon-buys-fauna-robotics-maker-sprout-humanoid-robot-131377676)**
+**[Amazon buys Fauna Robotics, maker of the Sprout humanoid robot](https://apnews.com/article/amazon-humanoid-robot-fauna-sprout-f51ced4a097b1af56b0b2561cdca8fef)**
 
-Amazon has acquired Fauna Robotics, just under two months after the startup introduced a humanoid robot called Sprout designed for social spaces like homes and schools
+Amazon has acquired Fauna Robotics, just under two months after the startup introduced a humanoid robot called Sprout designed for social spaces like homes and schools.
 
-abcnews.com • 2d ago
+AP News • 2d ago
 
 ---
 
-**[Amazon Is Entering the Humanoid Robot Market. 3 Important Things to Know About the Fauna Robotics Acquisition.](https://www.fool.com/investing/2026/03/25/amazon-is-entering-the-humanoid-robot-market-3-imp/)**
+**[Amazon Acquires Fauna Robotics, Entering Consumer Humanoid Market](https://www.bloomberg.com/news/articles/2026-03-24/amazon-acquires-fauna-robotics-entering-consumer-humanoid-market)**
 
-Amazon is gearing up to become a much bigger player in robotics.
+Bloomberg.com • 2d ago
 
-The Motley Fool • 1d ago
+---
+
+**[Chicago leaders speak out after food delivery robots with Serve Robotics, Coco Robotics cause damage at CTA bus shelters](https://abc7chicago.com/post/chicago-leaders-speak-food-delivery-robots-serve-robotics-coco-cause-damage-cta-bus-shelters/18772726/)**
+
+Two recent incidents of food delivery robots smashing into CTA bus shelters days apart happened as Chicagoans continue to debate whether the robots are a public benefit or a nuisance.
+
+ABC7 Chicago • 1d ago
+
+---
+
+**[Amazon Eyes Delivery Robots as MIT Tackles Warehouse Bottlenecks](https://www.pymnts.com/amazon/2026/amazon-eyes-delivery-robots-as-mit-tackles-warehouse-bottlenecks/)**
+
+Amazon has spent more than a decade automating its logistics network. The company has already deployed more than 1 million robots across its operations,
+
+PYMNTS.com • 8h ago
+
+---
+
+**[Food delivery robots shatter two Chicago bus shelters. ‘Two in seven days is not great,’ alderman says.](https://www.chicagotribune.com/2026/03/26/food-delivery-robots-bus-shelters-chicago/)**
+
+Food delivery robots have shattered two city bus shelters within the last week, fueling heated discussion amongst Chicago humans who say they shouldn’t have to share the public way with the apparently freewheeling automatons.
+
+Chicago Tribune • 19h ago
 
 ---
 
@@ -142,13 +164,13 @@ MIT Media Lab • 1d ago
 
 **[US lawmakers to introduce bill to ban government use of Chinese robots](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/)**
 
-Reuters • 12h ago
+Reuters • 13h ago
 
 ---
 
 **[OpenAI inks 202,000-square-foot East Bay lease in Richmond](https://www.bizjournals.com/sanfrancisco/news/2026/03/26/openai-robotics-richmond-ford-point.html)**
 
-The Business Journals • 9h ago
+The Business Journals • 10h ago
 
 ---
 
@@ -157,30 +179,6 @@ The Business Journals • 9h ago
 How did Honda's P2 robot change the future of humanoid robotics?
 
 IEEE Spectrum • 1d ago
-
----
-
-**[Delivery robots smash Chicago bus shelters in two separate incidents](https://www.upi.com/Odd_News/2026/03/26/Chicago-delivery-robots-bus-shelters/4041774539291/)**
-
-Two delivery robots crashed into two bus shelters in Chicago within a matter of days -- and one of the incidents was caught on camera.
-
-upi.com • 13h ago
-
----
-
-**[Amazon Eyes Delivery Robots as MIT Tackles Warehouse Bottlenecks](https://www.pymnts.com/amazon/2026/amazon-eyes-delivery-robots-as-mit-tackles-warehouse-bottlenecks/)**
-
-Amazon has spent more than a decade automating its logistics network. The company has already deployed more than 1 million robots across its operations,
-
-PYMNTS.com • 7h ago
-
----
-
-**[Rogue delivery robots are plowing into Chicago bus shelters, ‘bumping’ into pedestrians](https://nypost.com/2026/03/25/us-news/rogue-delivery-robots-plowed-into-two-chicago-bus-shelters-bumping-into-pedestrians-hazard-to-peoples-safety/)**
-
-“This is a hazard to people’s safety.”
-
-New York Post • 1d ago
 
 ---
 
@@ -204,7 +202,7 @@ Melania Trump suggested using humanoid AI robots like a “Plato” educator to 
 
 📺 Farron Balanced
 
-👁️ 28K • 👍 2K • 💬 683 • ⏱️ 5:10 • 10h ago
+👁️ 28K • 👍 2K • 💬 683 • ⏱️ 5:10 • 11h ago
 
 ---
 
@@ -264,7 +262,7 @@ The fast-rising Chinese robotics startup LimX Dynamics just unveiled Luna, a hum
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 65 • 💬 4 • ⏱️ 0:40 • 8h ago
+👁️ 2K • 👍 65 • 💬 4 • ⏱️ 0:40 • 9h ago
 
 ---
 
