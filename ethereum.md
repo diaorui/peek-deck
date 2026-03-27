@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-27T14:51:30.647447+00:00'
+updated: '2026-03-27T15:54:55.187049+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 27, 2026 at 14:51 UTC  
+**Last Updated:** March 27, 2026 at 15:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,985.23
+### $1,999.89
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.1%  
-**7d:** -4.7%  
-**30d:** -2.1%  
-**90d:** -32.8%  
-**1y:** +4.8%  
+**24h:** -3.4%  
+**7d:** -4.4%  
+**30d:** -1.7%  
+**90d:** -32.6%  
+**1y:** +5.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $239.86B
+**Market Cap:** $240.89B
 Rank #2
 
 **Circulating Supply:** 120,691,514 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.8%
+-59.7%
 
 **All-Time Low:** $0.43
-+459028.5%
++460303.4%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
 **[Paperwallet.ca launch](https://www.reddit.com/r/ethereum/comments/1s543mf/paperwalletca_launch/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum pushes Glamsterdam testing forward as Hegotá headliner debates remain unresolved.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-233/) • 12h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-233/) • 13h ago
 
 ---
 
@@ -94,7 +94,7 @@ Ethereum pushes Glamsterdam testing forward as Hegotá headliner debates remain 
 
 Frame transaction Considered for Inclusion for Hegotá, EthStaker staking survey, EF post-quantum website
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-17/) • 1h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-17/) • 2h ago
 
 ---
 
@@ -102,7 +102,7 @@ Frame transaction Considered for Inclusion for Hegotá, EthStaker staking survey
 
 Working on a little side project that turns etherscan data into readable risk. If you analyzed a wallet recently I’d love to compare your assessment to my engine’s output and see where it’s wrong and right, thanks
 
-15h ago
+16h ago
 
 ---
 
@@ -126,7 +126,7 @@ Accept crypto payments in seconds, across Bitcoin, stablecoins, and more with Bi
 
 Source: https://www.coingecko.com/learn/real-world-assets-rwa-buy-on-chain RWAs were one of the fastest-growing sectors in crypto last year. DeFi yields from token emissions dried up, the GENIUS Act provided regulatory clarity for institutions, and BlackRock and Franklin Templeton launched their own tokenized products. This isn't speculative DeFi. These are tokens tied to government debt, physical commodities, and real loan portfolios.
 
-12h ago
+13h ago
 
 ---
 
@@ -134,7 +134,7 @@ Source: https://www.coingecko.com/learn/real-world-assets-rwa-buy-on-chain RWAs 
 
 Gas: 0.032 Gwei. Third percentile. Since network inception. Active addresses: +120% year-on-year. Price: -45% from the October 2025 ATH. This divergence has a name in thermodynamics. It's called positive free energy. I built a 3-layer valuation model: L1 — Physics (40%) Network temperature. Monetary entropy. Gibbs free energy. L2 — Usage (35%) Real adoption. L2 velocity. RWA tokenisation. DeFi activity. L3 — Finance (25%) ETF flows. Exchange reserves. Open interest structure. Current readings: T_eth = 0.03 S_eth = 0.85 H_eth = 0.65 EFEI = H − T×S = +0.625 Layer Value Signal T_eth — 30d median gas 0.032 Gwei ❄️ 3rd percentile S_eth — Monetary entropy +0.23%/yr ⚠️ Inflationary EFEI — Free energy +0.625 ✅ Positive Active addresses +120% YoY ✅ Real adoption L2 TVL growth +40% YoY ✅ ETH = settlement RWA on Ethereum $18.6B (65% market) ✅ Structural Price vs 200d MA -3% (below average) ❌ Bearish structure Fear & Greed Index 15 — Extreme Fear ✅ Contrarian ETF cumulative AUM $11.9B (ETHA) ⚠️ Mixed flows ESM composite score: +0.487 Regime: undervalued. Liquid → Solid transition phase. In thermodynamics, when free energy is positive, the system spontaneously converges toward higher value. That's not an opinion. It's a property of the system. What's suppressing the signal? Layer 3. Macro. Elevated VIX, mixed ETF flows. Weighted at 25%. Intentionally. One upcoming catalyst flips the entropy term negative. I won't name it. You already know what it is. Ether State Model v1.0 — u/GabFromMars
 
-8h ago
+10h ago
 
 ---
 
@@ -150,9 +150,9 @@ Been building an x402 gate way for my local business site builder. I want to exp
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqenKu5_SFsRQyatrGaNa9EcVG0YsJ5bMKUJbNwVKITlaiLyP15cMfvF&gaa_ts=69c69cd9&gaa_sig=PuJIureoIkz06dS8cPpd5rRGDuEkvcguuZwTefRCi8y-nU7XLZhaZncZXM8OtPK8V8hvWaCNXHhDNetKzWMsdw%3D%3D)**
+**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqdenlssnlDZGGW4d5y0GEgNVKGSf7COwo1IDO2-wqvk1PxG7p1u4f7h&gaa_ts=69c6abbb&gaa_sig=XLixbaAm6U2iVVMpF1XgvMBjOWMH-GmdSnpnpOi0qu5jQLlc-LTE2RSvIvlfkU2OPxIeufBlJh3_wgRRuT_1UA%3D%3D)**
 
-Barron's • 23h ago
+Barron's • 1d ago
 
 ---
 
@@ -160,7 +160,7 @@ Barron's • 23h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 39m ago
+Fortune • 1h ago
 
 ---
 
@@ -172,11 +172,11 @@ The Block • 2d ago
 
 ---
 
-**[3 Reasons Ethereum Could Double By 2027 -- and 1 Reason It Might Not](https://www.fool.com/investing/2026/03/27/3-reasons-ethereum-could-double-by-2027-and-1-reas/)**
+**[Prediction: Ethereum Will Outperform Bitcoin Over the Next 3 Years](https://www.fool.com/investing/2026/03/27/prediction-ethereum-will-outperform-bitcoin-over-t/)**
 
-There's a lot going on with this chain, and it's mostly positive.
+The top altcoin still has a bright future.
 
-The Motley Fool • 4h ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -184,7 +184,7 @@ The Motley Fool • 4h ago
 
 The effort to protect Ethereum from quantum computing threats has been underway for eight years and is now producing working code, with a multi-layer migration roadmap integrated into the protocol's next four hard forks.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -192,29 +192,21 @@ CoinDesk • 1d ago
 
 Ethereum price failed to clear the $2,200 zone and declined. ETH is now consolidating above $2,020 and might struggle to start a recovery wave.Ethereum Price Dips FurtherEthereum price failed to stay above $2,150 and started a fresh decline, like Bitcoin. ETH price dipped below $2,120 and $2,080 to…
 
-TradingView • 11h ago
+TradingView • 12h ago
 
 ---
 
-**[Bitcoin and Ethereum Face Downside Risk Ahead of $15.58B Options Expiry Today](https://coinpedia.org/news/bitcoin-and-ethereum-face-downside-risk-ahead-of-15-58b-options-expiry-today/)**
-
-A large batch of Bitcoin and Ethereum options is set to expire this Friday, with total value crossing $15.58B billion as per Deribit insights. This marks
-
-Coinpedia Fintech News • 7h ago
-
----
-
-**[Ethereum Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1774600500)**
+**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1774598400)**
 
 Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 6h ago
+Polymarket • 1d ago
 
 ---
 
 **[Ethereum Price Prediction: ETH Price Analysis And Pepeto Stage Fills Fast Before the Binance Listing Deadline](https://financefeeds.com/ethereum-price-prediction-eth-price-analysis-and-pepeto-stage-fills-fast-before-the-binance-listing-deadline/)**
 
-FinanceFeeds • 14h ago
+FinanceFeeds • 15h ago
 
 ---
 
@@ -222,7 +214,15 @@ FinanceFeeds • 14h ago
 
 Leading cryptocurrencies edged lower alongside stocks on Thursday as President Donald Trump&#8217;s warning cast a shadow on Iran negotiations.
 
-Benzinga • 13h ago
+Benzinga • 14h ago
+
+---
+
+**[First BlackRock, now Bitmine. Will Tom Lee’s Ethereum staking play save share price?](https://finance.yahoo.com/markets/crypto/articles/first-blackrock-now-bitmine-tom-100422887.html)**
+
+The Made In America VAlidator Network, Bitmine’s Ethereum staking product, is now live. Over 30% of Ethereum’s total circulating supply is now staked. Bitmine's shares are down 66% since October.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 143 • 👍 12 • ⏱️ 4:49 • 4h ago
+👁️ 227 • 👍 13 • ⏱️ 4:49 • 5h ago
 
 ---
 
@@ -246,17 +246,7 @@ You're not going to want to miss this INCREDIBLE Ether, technical analysis and i
 
 📺 Crypto Jebb
 
-👁️ 6K • 👍 256 • 💬 50 • ⏱️ 18:00 • 2d ago
-
----
-
-**[A FLURRY of GOOD NEWS for Bitmine / ETH (BMNR Stock)!](https://www.youtube.com/watch?v=EzcfsBVn7Zo)**
-
-Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade data with my link: https://fiscal.ai/?via=roy ...
-
-📺 Crossroads
-
-👁️ 6K • 👍 276 • 💬 44 • ⏱️ 15:03 • 1d ago
+👁️ 6K • 👍 257 • 💬 50 • ⏱️ 18:00 • 2d ago
 
 ---
 
@@ -266,7 +256,17 @@ Get My New Book Money Game and My Daily Trading Strategy for Free https://go.ted
 
 📺 MONEY GAME
 
-👁️ 6K • 👍 233 • 💬 35 • ⏱️ 12:42 • 1d ago
+👁️ 6K • 👍 236 • 💬 35 • ⏱️ 12:42 • 1d ago
+
+---
+
+**[A FLURRY of GOOD NEWS for Bitmine / ETH (BMNR Stock)!](https://www.youtube.com/watch?v=EzcfsBVn7Zo)**
+
+Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade data with my link: https://fiscal.ai/?via=roy ...
+
+📺 Crossroads
+
+👁️ 6K • 👍 278 • 💬 48 • ⏱️ 15:03 • 1d ago
 
 ---
 
@@ -276,7 +276,17 @@ VIP Access & Programs: https://highaltitudecrypto.com Free Crypto Ebook (Learn H
 
 📺 High Altitude Investing
 
-👁️ 700 • 👍 63 • 💬 16 • ⏱️ 10:43 • 21h ago
+👁️ 787 • 👍 64 • 💬 17 • ⏱️ 10:43 • 22h ago
+
+---
+
+**[Ethereum Whales Buy $1.6B in 48 Hours: Small Investors Sell? #shorts](https://www.youtube.com/watch?v=CAIk_RYIIKc)**
+
+Massive Ethereum accumulation! Whales just bought $1.6 billion worth of ETH in 48 hours, while smaller investors sell. The big ...
+
+📺 CoinBros
+
+👁️ 585 • 👍 2 • ⏱️ 0:43 • 1d ago
 
 ---
 
@@ -286,7 +296,7 @@ BMNR is quietly building one of the largest Ethereum treasuries in the world now
 
 📺 The Value Thinker
 
-👁️ 11K • 👍 698 • 💬 109 • ⏱️ 24:16 • 2d ago
+👁️ 11K • 👍 701 • 💬 110 • ⏱️ 24:16 • 2d ago
 
 ---
 
@@ -300,16 +310,6 @@ Gold faces its worst run since 1920. BlackRock champions AI over new crypto coin
 
 ---
 
-**[URGENTE!!! ESTAMOS VALIDANDO A BANDEIRA DE BAIXA - ANALISE BITCOIN E ETHEREUM E SEUS PROXIMOS ALVOS](https://www.youtube.com/watch?v=uU5msEW0QLY)**
-
-CARTÃO PARA PAGAR CONTAS COM CRIPTO - redotpay SOLICITE O SEU AGORA https://url.hk/i/en/qr67n GANHE GRÁTIS ...
-
-📺 Sandro Cabrales
-
-👁️ 1K • 👍 308 • 💬 25 • ⏱️ 25:06 • 5h ago
-
----
-
 **[BIG PROBLEM Altcoin Season is CANCELED BlackRock Larry Fink “Bitcoin and Ethereum” ONLY!](https://www.youtube.com/watch?v=6IvpHf6I6Fk)**
 
 BIG PROBLEM Altcoin Season is CANCELED BlackRock Larry Fink “Bitcoin and Ethereum” ONLY! SUMM (partner) ...
@@ -320,13 +320,13 @@ BIG PROBLEM Altcoin Season is CANCELED BlackRock Larry Fink “Bitcoin and Ether
 
 ---
 
-**[BMNR Stock can get to $42.25? if Ethereum DOES THIS!](https://www.youtube.com/watch?v=Jh75_BuKBw0)**
+**[URGENTE!!! ESTAMOS VALIDANDO A BANDEIRA DE BAIXA - ANALISE BITCOIN E ETHEREUM E SEUS PROXIMOS ALVOS](https://www.youtube.com/watch?v=uU5msEW0QLY)**
 
-What happens if ETH recovers to the 200 Day moving average with both technicals and fundamentals support this move?
+CARTÃO PARA PAGAR CONTAS COM CRIPTO - redotpay SOLICITE O SEU AGORA https://url.hk/i/en/qr67n GANHE GRÁTIS ...
 
-📺 Elijah Cheng
+📺 Sandro Cabrales
 
-👁️ 3K • 👍 120 • 💬 63 • ⏱️ 27:19 • 23h ago
+👁️ 2K • 👍 384 • 💬 30 • ⏱️ 25:06 • 6h ago
 
 ---
 

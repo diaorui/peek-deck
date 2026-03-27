@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-27T14:51:30.650348+00:00'
+updated: '2026-03-27T15:54:55.190280+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 27, 2026 at 14:51 UTC  
+**Last Updated:** March 27, 2026 at 15:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,25 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Unitree just announced an open source whole-body teleoperation (WBT) dataset: UnifoLM-WBT-Dataset. Available on Hugging Face.](https://www.reddit.com/r/robotics/comments/1s50zq4/unitree_just_announced_an_open_source_wholebody/)**
-
-Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dataset From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2037440578275946551
-
-3h ago
-
----
-
 **[Homemade 6 axis arm with old 3d printers](https://www.reddit.com/r/robotics/comments/1s517i9/homemade_6_axis_arm_with_old_3d_printers/)**
 
 Hello everyone, I wanted to share my project that I've been working on for months. I've recycled two old 3D printers Anet A8 into a robotic arm. My main goal is to make a coffee with it. The motors and the electronic cards are from the printers. I've flashed them with Marlin and control them with python with a custom interface. I need to use 2 boards because I can only control independently 4 motors with one board. All the joints design are homemade, and 3d printed. The endeffector is a design from Makerworld u/user_2700759104 (I will build my own in the next days). There is a lot of backlash because of the planetary gears that I use. I plan to change them in the future. If anyone knows a reduction gear for Nema17 with minimum backlash I am all ears ! Thanks to the gear ratio, I've measured 2.9kg of force with the J2. List of components : Motors (J1->J6) : Nema17 Endeffector : Servo SG90 Boards : 2 Anet A8 + 1 Arduino Uno Reduction : J1 - 19:1 J2 - 51:1 J3 - 19:1 J4 - 19:1 J5 - 19:1 (90° 1:1) J6 - 1:1
 
-3h ago
+4h ago
 
 ---
 
-**[Demo of Agibot’s wheeled A2 depalleting](https://www.reddit.com/r/robotics/comments/1s4spdj/demo_of_agibots_wheeled_a2_depalleting/)**
+**[Unitree just announced an open source whole-body teleoperation (WBT) dataset: UnifoLM-WBT-Dataset. Available on Hugging Face.](https://www.reddit.com/r/robotics/comments/1s50zq4/unitree_just_announced_an_open_source_wholebody/)**
 
-11h ago
+Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dataset From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2037440578275946551
+
+4h ago
 
 ---
 
@@ -58,7 +52,13 @@ Hello everyone, I wanted to share my project that I've been working on for month
 
 I didn't use the T265; instead, I chose the RoboBaton mini to control the car's forward movement.I found the RoboBaton mini works well.Look the video !
 
-46m ago
+1h ago
+
+---
+
+**[Demo of Agibot’s wheeled A2 depalleting](https://www.reddit.com/r/robotics/comments/1s4spdj/demo_of_agibots_wheeled_a2_depalleting/)**
+
+12h ago
 
 ---
 
@@ -70,37 +70,37 @@ Yeah, front flips. I know, I've seen a lot of "who cares," "useless flex," "why 
 
 ---
 
+**[Robotics Competitions](https://www.reddit.com/r/robotics/comments/1s549vv/robotics_competitions/)**
+
+Hi everyone, I'm a master's student in India currently studying Robotics. I came across ICRA 2026, and there were some competitions mentioned there. I'm interested in taking part in such competitions, but obviously they are at a world stage and require a lot of preparation and studying. Maybe I'll participate in one next year. What are some of the smaller competitions that are held in regional levels too.
+
+2h ago
+
+---
+
 **[Driver board for my 6 Axis Robot (WIP)](https://www.reddit.com/r/robotics/comments/1s4tvj6/driver_board_for_my_6_axis_robot_wip/)**
 
 This is the new and improved state of the driver board for my work in progress 6 axis 3D printed robot arm. ESP32 I2C Multiplexing - For encoder wiring 6 x DRV8825
 
-10h ago
+11h ago
 
 ---
 
 **[Shared my firs model to Printables](https://www.reddit.com/r/robotics/comments/1s4oaut/shared_my_firs_model_to_printables/)**
 
-14h ago
-
----
-
-**[Robotics Competitions](https://www.reddit.com/r/robotics/comments/1s549vv/robotics_competitions/)**
-
-Hi everyone, I'm a master's student in India currently studying Robotics. I came across ICRA 2026, and there were some competitions mentioned there. I'm interested in taking part in such competitions, but obviously they are at a world stage and require a lot of preparation and studying. Maybe I'll participate in one next year. What are some of the smaller competitions that are held in regional levels too.
-
-1h ago
+15h ago
 
 ---
 
 **[Meta is hosting an AI Hackathon (OpenEnv) - direct interview opportunity + $30k prizes](https://www.reddit.com/r/robotics/comments/1s4zz0q/meta_is_hosting_an_ai_hackathon_openenv_direct/)**
 
-4h ago
+5h ago
 
 ---
 
 **[This Is How You Beat the Biggest Big Wheeled Bot](https://www.reddit.com/r/robotics/comments/1s4demt/this_is_how_you_beat_the_biggest_big_wheeled_bot/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -120,7 +120,7 @@ CNBC • 2d ago
 
 A robotics collaboration will combine AI models with industrial robots to improve automation through real-world deployment and training.
 
-Interesting Engineering • 3h ago
+Interesting Engineering • 4h ago
 
 ---
 
@@ -132,9 +132,17 @@ Yahoo Finance • 3d ago
 
 ---
 
+**[This Robotics Stock Could Be the Next 10-Bagger on Wall Street](https://finance.yahoo.com/markets/stocks/articles/robotics-stock-could-next-10-194659067.html)**
+
+Serve Robotics could generate massive gains for its patient investors.
+
+Yahoo Finance • 20h ago
+
+---
+
 **[US lawmakers to introduce bill to ban government use of Chinese robots](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/)**
 
-Reuters • 22h ago
+Reuters • 23h ago
 
 ---
 
@@ -142,7 +150,7 @@ Reuters • 22h ago
 
 Two delivery robots crashed into two bus shelters in Chicago within a matter of days -- and one of the incidents was caught on camera.
 
-upi.com • 23h ago
+upi.com • 1d ago
 
 ---
 
@@ -158,7 +166,7 @@ ABC7 Chicago • 2d ago
 
 Amazon has spent more than a decade automating its logistics network. The company has already deployed more than 1 million robots across its operations,
 
-PYMNTS.com • 16h ago
+PYMNTS.com • 18h ago
 
 ---
 
@@ -172,15 +180,7 @@ MIT Media Lab • 1d ago
 
 **[OpenAI inks 202,000-square-foot East Bay lease in Richmond - San Francisco Business Times](https://www.bizjournals.com/sanfrancisco/news/2026/03/26/openai-robotics-richmond-ford-point.html)**
 
-The Business Journals • 18h ago
-
----
-
-**[30 Years Ago, Robots Learned to Walk Without Falling](https://spectrum.ieee.org/honda-p2-robot-ieee-milestone)**
-
-How did Honda's P2 robot change the future of humanoid robotics?
-
-IEEE Spectrum • 1d ago
+The Business Journals • 19h ago
 
 ---
 
@@ -194,7 +194,7 @@ Humanoid robots have been making appearances through social media, tv segments, 
 
 📺 NBC News
 
-👁️ 84K • 👍 502 • 💬 338 • ⏱️ 3:05 • 1d ago
+👁️ 85K • 👍 506 • 💬 341 • ⏱️ 3:05 • 1d ago
 
 ---
 
@@ -204,7 +204,7 @@ Melania Trump suggested using humanoid AI robots like a “Plato” educator to 
 
 📺 Farron Balanced
 
-👁️ 31K • 👍 3K • 💬 733 • ⏱️ 5:10 • 19h ago
+👁️ 31K • 👍 3K • 💬 746 • ⏱️ 5:10 • 20h ago
 
 ---
 
@@ -214,27 +214,7 @@ This week in robotics got kind of ridiculous. South Korea showed off a humanoid 
 
 📺 AI Revolution
 
-👁️ 210K • 👍 2K • 💬 137 • ⏱️ 14:31 • 4d ago
-
----
-
-**[First Lady Melania Trump walks with robot to White House event on children&#39;s technology](https://www.youtube.com/watch?v=7sHSBgU5p4Y)**
-
-A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White House summit on empowering children with ...
-
-📺 C-SPAN
-
-👁️ 177K • 👍 753 • 💬 1K • ⏱️ 2:59 • 1d ago
-
----
-
-**[China in Tears! Superpower Falls as TSMC CEO Exposes China’s Robot Lies—95% of Brain Made by TSMC](https://www.youtube.com/watch?v=mCUayp_OjTs)**
-
-On March 8, at the "Tomorrow's Walker" exhibit in Shanghai Science and Technology Museum, a robot performing unexpectedly ...
-
-📺 China Observer
-
-👁️ 62K • 👍 2K • 💬 379 • ⏱️ 15:22 • 1d ago
+👁️ 211K • 👍 2K • 💬 138 • ⏱️ 14:31 • 4d ago
 
 ---
 
@@ -244,7 +224,17 @@ Thanks to Delete Me for sponsoring this video. To keep your private info private
 
 📺 Kim Java
 
-👁️ 116K • 👍 6K • 💬 265 • ⏱️ 20:00 • 3d ago
+👁️ 120K • 👍 6K • 💬 277 • ⏱️ 20:00 • 3d ago
+
+---
+
+**[First Lady Melania Trump walks with robot to White House event on children&#39;s technology](https://www.youtube.com/watch?v=7sHSBgU5p4Y)**
+
+A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White House summit on empowering children with ...
+
+📺 C-SPAN
+
+👁️ 181K • 👍 772 • 💬 1K • ⏱️ 2:59 • 2d ago
 
 ---
 
@@ -258,13 +248,23 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 ---
 
-**[Watch: Humanoid robot walks alongside first lady Melania Trump at White House](https://www.youtube.com/watch?v=X-NjEku-zE4)**
+**[China in Tears! Superpower Falls as TSMC CEO Exposes China’s Robot Lies—95% of Brain Made by TSMC](https://www.youtube.com/watch?v=mCUayp_OjTs)**
 
-Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
+On March 8, at the "Tomorrow's Walker" exhibit in Shanghai Science and Technology Museum, a robot performing unexpectedly ...
 
-📺 CBS News
+📺 China Observer
 
-👁️ 31K • 👍 219 • 💬 257 • ⏱️ 9:54 • 1d ago
+👁️ 62K • 👍 2K • 💬 383 • ⏱️ 15:22 • 1d ago
+
+---
+
+**[Melania Trump Goes OFF THE RAILS With Alarming Robot Teacher Announcement](https://www.youtube.com/watch?v=JsTKgM8fYUk)**
+
+Melania Trump sparks alarm over a White House event where she walked in with a robot and made an announcement about ...
+
+📺 The Damage Report
+
+👁️ 15K • 👍 804 • 💬 358 • ⏱️ 8:42 • 19h ago
 
 ---
 
@@ -274,17 +274,17 @@ Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesda
 
 📺 RAI Institute
 
-👁️ 422K • 👍 11K • 💬 1K • ⏱️ 1:34 • 4d ago
+👁️ 430K • 👍 11K • 💬 1K • ⏱️ 1:34 • 4d ago
 
 ---
 
-**[When your circuit boards start roasting each other&#39;s specs! 🤖🤣 #Robotics #CodingMemes#viral](https://www.youtube.com/watch?v=HenS1Q4blFU)**
+**[Watch: Humanoid robot walks alongside first lady Melania Trump at White House](https://www.youtube.com/watch?v=X-NjEku-zE4)**
 
-The Ultimate Microcontroller Battle is HERE! Who is the real KING of your tech workbench? Arduino Uno is crying with no ...
+Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
 
-📺 M.R. Hacking Robot
+📺 CBS News
 
-👁️ 5K • 👍 116 • 💬 3 • ⏱️ 0:21 • 1d ago
+👁️ 32K • 👍 220 • 💬 260 • ⏱️ 9:54 • 1d ago
 
 ---
 

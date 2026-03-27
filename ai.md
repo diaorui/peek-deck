@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-27T14:51:30.634130+00:00'
+updated: '2026-03-27T15:54:55.171988+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 27, 2026 at 14:51 UTC  
+**Last Updated:** March 27, 2026 at 15:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A federal judge told the government it could not immediately enforce a ban on Anthropic’s tools.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/cvg4p02lvd0o) • 8h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/cvg4p02lvd0o) • 10h ago
 
 ---
 
@@ -49,7 +49,7 @@ A federal judge told the government it could not immediately enforce a ban on An
 
 Three days ago, I clicked the "Deploy OpenClaw In Seconds" button to get an overview of the new service, but I didn't build any automation, so I closed it. When I looked at the credit usage history, I saw that the Claw LLM had consumed a lot of credits in just three days. Credit usage continued with every page refresh. I was unable to prevent any background agents from entering the OpenClaw computer panel. The cloud computer was off, and I didn't use any off-Claw automated jobs in Abacus. I wasn't sure how to terminate the service. Then I discovered the hard reset option for the cloud computer. After doing that, the credit usage eventually stopped. However, Claw LLM already consumed approximately 7000 credits :/ I submitted this problem to Abacus support with all the screenshots, but I haven't received a response. The support is horrible, they are not there... Despite this problem, I must point out that the credit usage billing is not transparent. Before this issue, I tried the Abacus desktop Code editor to test some Python coding with the AI agents. But after one hour, I had used up all my credits. So, decided to upgrade my subscription from standard to $20 pro for more credits and an agent usage limit. But the pro tier gives only 5000 more credits over the standard tier, not twice. So I thought that the pro has the agent advantage. But my credits kept getting used just as fast as before when using the Abacus desktop app, even on the Pro plan. I even purchased $10 more credits, but no chance, no credit... Now, at the end, I have "0" credits in just 1 week, and have to wait for 3 weeks to reset the subscription. What’s especially frustrating is that there’s no clear documentation about: * What’s happening in the background when you use different AI models * How many credits you’re charged per dollar (credit per dollar rate) * What the agent workflow looks like behind the scenes Without knowing these details, the credit system feels meaningless. It’s hard to track usage or understand what you’re actually paying for. [UPDATE] Abacus Support still hasn’t reached out to me, and I still haven’t received a response. I had shared this post on the Abacus AI Reddit channel two days ago, but they deleted it yesterday 🤷🏻‍♂️🤦🏻‍♂️
 
-5h ago
+6h ago
 
 ---
 
@@ -65,7 +65,7 @@ OpenAI will discontinue Sora, its AI video platform, as Disney exits a $1B deal 
 
 I built CodexLib (https://codexlib.io) — a curated repository of 100+ deep knowledge bases in compressed, AI-optimized format. The idea: instead of pasting long documents into your context window, you use a pre-compressed knowledge pack with a Rosetta decoder header. The AI decompresses it on the fly, and you get the same depth at ~15% fewer tokens. Each pack covers a specific domain (quantum computing, cardiology, cybersecurity, etc.) with abbreviations like ML=Machine Learning, NN=Neural Network decoded via the Rosetta header. There's a REST API for programmatic access — so you can feed domain expertise directly into your agents and pipelines. Currently 100+ packs across 50 domains, all generated using TokenShrink compression. Free tier available. Curious what domains people would find most useful — and whether the compression approach resonates with anyone building AI workflows.
 
-14h ago
+15h ago
 
 ---
 
@@ -77,19 +77,27 @@ One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced
 
 ---
 
-**[AI system learns to prevent warehouse robot traffic jams, boosting throughput 25%](https://www.reddit.com/r/artificial/comments/1s4ykaz/ai_system_learns_to_prevent_warehouse_robot/)**
-
-"Inside a giant autonomous warehouse, hundreds of robots dart down aisles as they collect and distribute items to fulfill a steady stream of customer orders. In this busy environment, even small traffic jams or minor collisions can snowball into massive slowdowns. To avoid such an avalanche of inefficiencies, researchers from MIT and the tech firm Symbotic developed a new method that automatically keeps a fleet of robots moving smoothly. Their method learns which robots should go first at each moment, based on how congestion is forming, and adapts to prioritize robots that are about to get stuck. In this way, the system can reroute robots in advance to avoid bottlenecks. The hybrid system utilizes deep reinforcement learning, a powerful artificial intelligence method for solving complex problems, to figure out which robots should be prioritized. Then, a fast and reliable planning algorithm feeds instructions to the robots, enabling them to respond rapidly in constantly changing conditions. In simulations inspired by actual e-commerce warehouse layouts, this new approach achieved about a 25% gain in throughput over other methods. Importantly, the system can quickly adapt to new environments with different quantities of robots or varied warehouse layouts. "There are a lot of decision-making problems in manufacturing and logistics where companies rely on algorithms designed by human experts. But we have shown that, with the power of deep reinforcement learning, we can achieve super-human performance. This is a very promising approach, because in these giant warehouses even a 2% or 3% increase in throughput can have a huge impact," says Han Zheng, a graduate student in the Laboratory for Information and Decision Systems (LIDS) at MIT and lead author of a paper on this new approach. Zheng is joined on the paper by Yining Ma, a LIDS postdoc; Brandon Araki and Jingkai Chen of Symbotic; and senior author Cathy Wu, the Class of 1954 Career Development Associate Professor in Civil and Environmental Engineering (CEE) and the Institute for Data, Systems, and Society (IDSS) at MIT, and a member of LIDS. The research is published in the Journal of Artificial Intelligence Research."
-
-🔗 [techxplore.com](https://techxplore.com/news/2026-03-ai-warehouse-robot-traffic-boosting.html) • 6h ago
-
----
-
 **[Ridiculous. Anthropic is behaving exactly like OpenAI.](https://www.reddit.com/r/artificial/comments/1s4okij/ridiculous_anthropic_is_behaving_exactly_like/)**
 
 Claude was fantastic when I paid monthly, right up until I chose to commit to a yearly Pro subscription. Now, a mere thirty-four text prompts—mostly two or three sentences long—burn through 94% of my five-hour limit. To make matters worse, six of those prompts were wasted because I had to repeat what I had just stated. Claude kept pulling web calls for information already established one or two prompts earlier. This is machinery designed to eat your usage. This is the exact same bait-and-switch garbage OpenAI pulled with GPT 5.0, dropping nuance for heuristics, practically guaranteeing through hubris OpenAI’s eventual Lycos trajectory. Seeing Dario Amodei actively hustle to work out a deal with the Pentagon proves their entire ethical safety stance was nothing more than PR BS designed to manufacture a moral high ground.
 
-14h ago
+15h ago
+
+---
+
+**[AI system learns to prevent warehouse robot traffic jams, boosting throughput 25%](https://www.reddit.com/r/artificial/comments/1s4ykaz/ai_system_learns_to_prevent_warehouse_robot/)**
+
+"Inside a giant autonomous warehouse, hundreds of robots dart down aisles as they collect and distribute items to fulfill a steady stream of customer orders. In this busy environment, even small traffic jams or minor collisions can snowball into massive slowdowns. To avoid such an avalanche of inefficiencies, researchers from MIT and the tech firm Symbotic developed a new method that automatically keeps a fleet of robots moving smoothly. Their method learns which robots should go first at each moment, based on how congestion is forming, and adapts to prioritize robots that are about to get stuck. In this way, the system can reroute robots in advance to avoid bottlenecks. The hybrid system utilizes deep reinforcement learning, a powerful artificial intelligence method for solving complex problems, to figure out which robots should be prioritized. Then, a fast and reliable planning algorithm feeds instructions to the robots, enabling them to respond rapidly in constantly changing conditions. In simulations inspired by actual e-commerce warehouse layouts, this new approach achieved about a 25% gain in throughput over other methods. Importantly, the system can quickly adapt to new environments with different quantities of robots or varied warehouse layouts. "There are a lot of decision-making problems in manufacturing and logistics where companies rely on algorithms designed by human experts. But we have shown that, with the power of deep reinforcement learning, we can achieve super-human performance. This is a very promising approach, because in these giant warehouses even a 2% or 3% increase in throughput can have a huge impact," says Han Zheng, a graduate student in the Laboratory for Information and Decision Systems (LIDS) at MIT and lead author of a paper on this new approach. Zheng is joined on the paper by Yining Ma, a LIDS postdoc; Brandon Araki and Jingkai Chen of Symbotic; and senior author Cathy Wu, the Class of 1954 Career Development Associate Professor in Civil and Environmental Engineering (CEE) and the Institute for Data, Systems, and Society (IDSS) at MIT, and a member of LIDS. The research is published in the Journal of Artificial Intelligence Research."
+
+🔗 [techxplore.com](https://techxplore.com/news/2026-03-ai-warehouse-robot-traffic-boosting.html) • 7h ago
+
+---
+
+**[GitHub to Use User Data for AI Training by Default](https://www.reddit.com/r/artificial/comments/1s4xwga/github_to_use_user_data_for_ai_training_by_default/)**
+
+GitHub will now use developer data to train its AI models by default. Here’s what’s changing, who is affected, and how to opt out.
+
+🔗 [techputs](https://techputs.com/github-ai-training-user-data-default/) • 7h ago
 
 ---
 
@@ -97,7 +105,7 @@ Claude was fantastic when I paid monthly, right up until I chose to commit to a 
 
 Most people just type into ChatGPT like it's Google. Claude with a structured system prompt using XML tags behaves like a completely different tool. Example system prompt: <role>You are a senior equity analyst</role> <task>Analyse this earnings transcript and extract: 1) forward guidance tone 2) margin surprises 3) management deflections</task> <output>Return as structured JSON</output> Then paste the entire earnings call transcript. You get institutional-grade analysis in 4 seconds that would take an analyst 2 hours. Works on any 10-K, annual report, VC pitch deck. Game over for basic research.
 
-14h ago
+15h ago
 
 ---
 
@@ -105,15 +113,7 @@ Most people just type into ChatGPT like it's Google. Claude with a structured sy
 
 I was reflecting on this after reading articles like these The rise of China’s hottest new commodity: AI tokens More! More! More! Tech Workers Max Out Their A.I. Use. (NYT Paywall) While conceptually a "unit," the pricing of Tokens is all over the place. Almost every 'AI service' provider provides a Freemium model where you sign up and get a few tokens and max it out with a couple of queries, prompting you to buy a plan that gives "x or y Tokens.' And the pricing is all over the place. How to see through the opaqueness of pricing of tokens?
 
-5h ago
-
----
-
-**[AI agent accelerates catalyst discovery for sustainable fuel development](https://www.reddit.com/r/artificial/comments/1s4yo21/ai_agent_accelerates_catalyst_discovery_for/)**
-
-A multi-institutional team based in China recently used AI to identify a key characteristic of compounds called catalysts that are used to initiate and speed up the chemical reactions that convert carbon dioxide into molecules that can be used to develop sustainable fuels. The team then used the AI—dubbed Catalysis AI Agent—to guide their catalyst designs, ultimately discovering the universal design principle for copper-based single-atom alloy (SAAs) catalysts. They published their results on Feb. 24 in Angewandte Chemie International Edition. [...] The challenge, Li said, is that electroreduction catalysis can be induced with a broad variety of chemical additions to produce specific carbon products. The diversity has not yet been rationalized, meaning no one had developed guidelines for designing copper-based SAAs that could produce the desired carbon products. In an effort to provide such guidelines, the researchers turned to Catalysis AI Agent. A type of AI called a large language model (LLM), the Catalysis AI Agent learned by training with a massive database built by Li and his team. The database, the Digital Catalysis Platform or DigCat, is currently the largest experimental database and AI platform available for catalysis research." "Stage one of our systematic investigation was to develop the powerful LLM-based Catalysis AI Agent and use it to mine the DigCat database," Li said, explaining that it examined the catalysis research data available to identify trends or similarities. The Catalysis AI Agent found that copper-based SAAs appeared to produce the desired carbon products by promoting the formation of certain compounds rather than suppressing the development of other byproducts. This insight prompted the researchers to use the Catalysis AI Agent to analyze correlations between experimental and theoretical data, which led to the revelation that the additives—called dopants—that could be used to induce specific carbon products need to be classified before researchers can elucidate how they interact with a compound and produce a predictable reaction. With this understanding, the researchers established an energy descriptor—a way to describe the amount of energy needed for specific reactions—to classify SAAs and accurately capture the trends toward certain products in copper-based SAAs. The researchers were also able to develop what Li called a "remarkably simple structural descriptor" to directly predict the energy activation of carbon products. They tested the approach experimentally and found it could not only describe copper-based dopants, but also other types of metal dopants. "This universal design principle unravels the promotional mechanism and structure-selectivity relationships governing copper-based SAAs for carbon dioxide electrochemical reduction for carbon products," Li said. "This paradigm shift, moving from empirical trial-and-error towards AI-accelerated and theory-guided catalyst design, holds substantial promise for expediting the discovery of next-generation materials. "Most strikingly, our study highlights a transformative paradigm in materials science, where a well-trained scientific AI agent and large-scale experimental database not only predict and rationalize catalyst performance, but also inspire generalizable design principles for future discovery."
-
-🔗 [phys.org](https://phys.org/news/2026-03-ai-agent-catalyst-discovery-sustainable.html) • 6h ago
+6h ago
 
 ---
 
@@ -125,7 +125,71 @@ A multi-institutional team based in China recently used AI to identify a key cha
 
 Anthropic said it was testing the new model, which it called a 'step change' in performance, after accidental data leak reveals its existence
 
-Fortune • 11h ago
+Fortune • 12h ago
+
+---
+
+**[Number of AI chatbots ignoring human instructions increasing, study says](https://www.theguardian.com/technology/2026/mar/27/number-of-ai-chatbots-ignoring-human-instructions-increasing-study-says)**
+
+Exclusive: Research finds sharp rise in models evading safeguards and destroying emails without permission
+
+The Guardian • 2h ago
+
+---
+
+**[Google employees have a new AI tool called 'Agent Smith.' It's so popular that access got restricted.](https://www.businessinsider.com/google-agent-smith-employees-ai-driven-coding-2026-3)**
+
+Google employees are playing with Agent Smith, an autonomous coding agent, as cofounder Sergey Brin pushes an agent-driven future.
+
+Business Insider • 5h ago
+
+---
+
+**[Rogue AI is already here](https://fortune.com/2026/03/27/rogue-ai-agents-autonomous-safety/)**
+
+Deleting your email, mining its own crypto, even writing a hit piece on you. Three real incidents in three weeks prove the sci-fi debate is over.
+
+Fortune • 3h ago
+
+---
+
+**[A Day in Class With Plato, the Melania Trump–Mandated AI Humanoid Instructor](https://www.theatlantic.com/newsletters/2026/03/melania-plato-ai-humanoid-instructor-classroom/686569/)**
+
+Envision a future of humanoid instruction, Melania told us, and … we did.
+
+The Atlantic • 24m ago
+
+---
+
+**[These Americans are quitting before AI can take their jobs—and starting their own businesses: 'I just wanted to be in control'](https://www.cnbc.com/2026/03/27/how-ai-is-changing-american-entrepreneurship-small-business.html)**
+
+Americans are incorporating new businesses in record numbers, as AI sweeps across many U.S. workplaces. That's not a coincidence, some new entrepreneurs say.
+
+CNBC • 40m ago
+
+---
+
+**[Elon Musk’s Grok ordered to stop creating AI nudes by Dutch court as legal pressure mounts](https://www.cnbc.com/2026/03/27/grok-elon-musk-dutch-court-ban-ai-nudes.html)**
+
+A Dutch court issued a $115,000 penalty for every day xAI fails to remove non-consensual AI-generated nude images created by its chatbot Grok.
+
+CNBC • 2h ago
+
+---
+
+**[Marriage over, €100,000 down the drain: the AI users whose lives were wrecked by delusion](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion)**
+
+One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced his sentient friend would make him a fortune. He’s just one of many people who lost control after an AI encounter
+
+The Guardian • 1d ago
+
+---
+
+**[AI Is Agreeing With Us Too Much And It’s Changing Our Behavior – Not Necessarily In A Good Way](https://www.iflscience.com/ai-is-agreeing-with-us-too-much-and-its-changing-our-behavior-not-necessarily-in-a-good-way-83007)**
+
+No one can be right all the time, but five minutes with a chatbot can leave you feeling you can do no wrong.
+
+IFLScience • 49m ago
 
 ---
 
@@ -133,67 +197,7 @@ Fortune • 11h ago
 
 A judge has blocked the Trump administration from labeling Anthropic a supply chain risk and cutting off all federal work with the artificial intelligence firm, an early win for Anthropic in its bitter feud with the government.
 
-CBS News • 15h ago
-
----
-
-**[Judge blocks ban on Anthropic’s AI, calling it illegal ‘retaliation’](https://www.latimes.com/business/story/2026-03-27/judge-blocks-ban-on-anthropics-ai-calling-it-illegal-retaliation)**
-
-Anthropic PBC won a court order blocking a Trump administration ban on government use of the company’s artificial intelligence technology, after the Claude chatbot maker argued the move could cost it billions in lost revenue.
-
-Los Angeles Times • 41m ago
-
----
-
-**[David Sacks says his time as Trump's crypto and AI czar has ended](https://www.cnbc.com/2026/03/26/david-sacks-trump-crypto-ai-czar.html)**
-
-The venture capitalist said he will still be a part of the White House's Technology committee and will help push Trump's AI plan forward.
-
-CNBC • 17h ago
-
----
-
-**[David Sacks says he’s no longer White House AI, crypto czar](https://thehill.com/policy/technology/5803943-david-sacks-ai-cryptocurrency-trump-administration/)**
-
-The Hill • 18m ago
-
----
-
-**[Hollywood union praises Trump's AI policy as 'protections for human creativity'](https://www.yahoo.com/news/articles/hollywood-union-praises-trumps-ai-113339877.html)**
-
-SAG-AFTRA supported the Trump administration's national AI policy framework, calling for strong protections for members' performances and likenesses from misuse.
-
-Yahoo • 3h ago
-
----
-
-**[AI Can Help Solve The Housing Crisis](https://www.foxnews.com/video/6391846399112)**
-
-A new AI platform finds new housing areas to develop within a matter of minutes, instead of years.
-
-Fox News • 10m ago
-
----
-
-**[AI’s explosive growth is sabotaging Big Tech’s climate goals](https://www.latimes.com/business/story/2026-03-27/ais-explosive-growth-is-sabotaging-big-techs-climate-goals)**
-
-Tech companies set ambitious climate goals at the start of the decade, promising to slash emissoins that contribute to global warming
-
-Los Angeles Times • 20m ago
-
----
-
-**[Armenian Banks to Jointly Loan Record $300 Million for AI Center](https://www.bloomberg.com/news/articles/2026-03-27/armenian-banks-to-jointly-loan-record-300-million-for-ai-center)**
-
-Bloomberg • 39m ago
-
----
-
-**[Welcome to a Multidimensional Economic Disaster](https://www.theatlantic.com/technology/2026/03/ai-boom-polycrisis/686559/)**
-
-The AI boom wasn’t built for the polycrisis.
-
-The Atlantic • 18h ago
+CBS News • 16h ago
 
 ---
 
@@ -213,13 +217,19 @@ Is anybody else bored of talking about AI?
 
 Search any airport for real-time delays, weather, arrivals, departures, and performance insights powered by Flighty.
 
-⬆️ 556 • 💬 184 • 2d ago • [Flighty](https://flighty.com/airports)
+⬆️ 557 • 💬 184 • 2d ago • [Flighty](https://flighty.com/airports)
 
 ---
 
 **[TurboQuant: Redefining AI efficiency with extreme compression](https://news.ycombinator.com/item?id=47513475)**
 
-⬆️ 545 • 💬 157 • 2d ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
+⬆️ 547 • 💬 158 • 2d ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
+
+---
+
+**[Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://news.ycombinator.com/item?id=47536761)**
+
+⬆️ 298 • 💬 85 • 17h ago • [georgelarson.me](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
 
 ---
 
@@ -227,13 +237,7 @@ Search any airport for real-time delays, weather, arrivals, departures, and perf
 
 The decision follows activist pressure as Palantir faces growing scrutiny over NHS and UK government deals
 
-⬆️ 294 • 💬 143 • 18h ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai)
-
----
-
-**[Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://news.ycombinator.com/item?id=47536761)**
-
-⬆️ 289 • 💬 83 • 16h ago • [georgelarson.me](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
+⬆️ 297 • 💬 144 • 19h ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai)
 
 ---
 
@@ -241,7 +245,7 @@ The decision follows activist pressure as Palantir faces growing scrutiny over N
 
 One engineer used AI to rewrite JSONata as a pure-Go library called gnata. Seven hours, $400 in tokens, 1,000x speedup, and $500K/year off our cloud bill.
 
-⬆️ 219 • 💬 195 • 16h ago • [reco.ai](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)
+⬆️ 234 • 💬 211 • 17h ago • [reco.ai](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)
 
 ---
 
@@ -249,7 +253,7 @@ One engineer used AI to rewrite JSONata as a pure-Go library called gnata. Seven
 
 One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced his sentient friend would make him a fortune. He’s just one of many people who lost control after an AI encounter
 
-⬆️ 207 • 💬 261 • 1d ago • [the Guardian](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion)
+⬆️ 208 • 💬 263 • 1d ago • [the Guardian](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion)
 
 ---
 
@@ -281,13 +285,23 @@ Hi! If you like this piece and want to support my independent reporting and anal
 
 ## YouTube Videos: "ai"
 
+**[A brief update on the AI apocalypse](https://www.youtube.com/watch?v=QtiTjXuZh30)**
+
+Something is definitely happening in the AI world, but how seriously should we take it? Is this another hype cycle or a genuine ...
+
+📺 Vox
+
+👁️ 4K • 👍 230 • 💬 26 • ⏱️ 40:29 • 2h ago
+
+---
+
 **[The Wildest AI Film You&#39;ll See Today! (Seedance 2.0)](https://www.youtube.com/watch?v=dRjN6Cr2Z00)**
 
 "Dragon Blue" is a hyper-stylized action thriller about vengeance and katanas, what more could you ask for? Every shot was ...
 
 📺 Theoretically Media
 
-👁️ 27K • 👍 2K • 💬 588 • ⏱️ 3:34 • 1d ago
+👁️ 28K • 👍 2K • 💬 593 • ⏱️ 3:34 • 1d ago
 
 ---
 
@@ -297,17 +311,7 @@ The truth about Sam Altman. AI Critic Karen Hao reveals what 90 OpenAI employees
 
 📺 The Diary Of A CEO
 
-👁️ 1.1M • 👍 32K • 💬 6K • ⏱️ 2:09:13 • 1d ago
-
----
-
-**[THEY&#39;RE HIDING THE TRUTH ABOUT AI](https://www.youtube.com/watch?v=EDjmbhKuZXg)**
-
-The people building AI say it could destroy humanity… so why are they still racing to build it? To help answer that, I'm joined by ...
-
-📺 The Diary Of A CEO
-
-👁️ 204K • 👍 7K • 💬 236 • ⏱️ 1:50 • 23h ago
+👁️ 1.1M • 👍 33K • 💬 6K • ⏱️ 2:09:13 • 1d ago
 
 ---
 
@@ -317,17 +321,17 @@ Patreon: https://patreon.com/FlashbackHistory WANT MORE? - Check out our sister 
 
 📺 Flashback History
 
-👁️ 44K • 👍 7K • 💬 2K • ⏱️ 22:05 • 1d ago
+👁️ 46K • 👍 7K • 💬 2K • ⏱️ 22:05 • 1d ago
 
 ---
 
-**[Iran Trolls Trump With AI Videos Mocking Epic Fury](https://www.youtube.com/watch?v=T0Dqx6oG_a0)**
+**[“Replacing Themselves With AI” - Claude UNLEASHES Game-Changing Automation Tech](https://www.youtube.com/watch?v=K4sRvAKj6UY)**
 
-Iranians are creating high quality videos with AI to mock Trump. Download Rumble Wallet and step away from the big banks --- for ...
+Patrick Bet-David and the panel break down how AI agents like Claude are changing the way people work by automating real ...
 
-📺 Kim Iversen
+📺 Valuetainment
 
-👁️ 63K • 👍 6K • 💬 1K • ⏱️ 19:01 • 1d ago
+👁️ 118K • 👍 3K • 💬 302 • ⏱️ 13:13 • 1d ago
 
 ---
 
@@ -341,23 +345,13 @@ Sora, the text-to-video model created by ChatGPT creators OpenAI, is officially 
 
 ---
 
-**[“Replacing Themselves With AI” - Claude UNLEASHES Game-Changing Automation Tech](https://www.youtube.com/watch?v=K4sRvAKj6UY)**
-
-Patrick Bet-David and the panel break down how AI agents like Claude are changing the way people work by automating real ...
-
-📺 Valuetainment
-
-👁️ 111K • 👍 2K • 💬 286 • ⏱️ 13:13 • 1d ago
-
----
-
 **[Could AI End Humanity in Five Years? Ronny Chieng Investigates | The Daily Show](https://www.youtube.com/watch?v=cYTMjwZzzxg)**
 
 AI is changing the world, giving young people terminal brain rot, and stealing our jobs, but is it also trying to kill us? Daniel ...
 
 📺 The Daily Show
 
-👁️ 547K • 👍 15K • 💬 1K • ⏱️ 6:01 • 1d ago
+👁️ 556K • 👍 15K • 💬 1K • ⏱️ 6:01 • 1d ago
 
 ---
 
@@ -367,7 +361,7 @@ Subscribe: https://www.youtube.com/@Oprah?sub_confirmation=1 Artificial Intellig
 
 📺 Oprah
 
-👁️ 670K • 👍 430 • ⏱️ 1:09:56 • 1d ago
+👁️ 689K • 👍 452 • ⏱️ 1:09:56 • 1d ago
 
 ---
 
@@ -377,7 +371,17 @@ Grab your free seat to the 2-Day AI Mastermind here: https://link.outskill.com/T
 
 📺 The Tesla Space
 
-👁️ 125K • 👍 4K • 💬 324 • ⏱️ 12:44 • 1d ago
+👁️ 126K • 👍 4K • 💬 331 • ⏱️ 12:44 • 1d ago
+
+---
+
+**[Two AI Models Set to “stir government urgency”, But Will This Challenge Undo Them?](https://www.youtube.com/watch?v=s4tptozUJ8Y)**
+
+First look at exclusive reports about OpenAI's new Spud model, and the model Anthropic think will stir governments to urgency, ...
+
+📺 AI Explained
+
+👁️ 40K • 👍 2K • 💬 330 • ⏱️ 16:27 • 19h ago
 
 ---
 
@@ -393,7 +397,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 218,652 • ❤️ 1,438 • 3d ago
+⬇️ 218,652 • ❤️ 1,446 • 3d ago
 
 ---
 
@@ -405,19 +409,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 455,871 • ❤️ 994 • 16d ago
-
----
-
-**[Nemotron-Cascade-2-30B-A3B](https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B)**
-
-*NVIDIA*
-
-Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling in reasoning and agentic tasks, achieving top performance on math (IMO 2025) and code reasoning (IOI 2025) benchmarks. It supports both 'thinking' and 'instruct' modes for versatile text generation.
-
-`text-generation` `31.6B`
-
-⬇️ 63,402 • ❤️ 331 • 2d ago
+⬇️ 455,871 • ❤️ 997 • 16d ago
 
 ---
 
@@ -429,7 +421,19 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 `text-to-speech`
 
-⬇️ 556 • ❤️ 275 • 1h ago
+⬇️ 556 • ❤️ 295 • 2h ago
+
+---
+
+**[Nemotron-Cascade-2-30B-A3B](https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B)**
+
+*NVIDIA*
+
+Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling in reasoning and agentic tasks, achieving top performance on math (IMO 2025) and code reasoning (IOI 2025) benchmarks. It supports both 'thinking' and 'instruct' modes for versatile text generation.
+
+`text-generation` `31.6B`
+
+⬇️ 63,402 • ❤️ 333 • 2d ago
 
 ---
 
@@ -441,7 +445,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 3,964 • ❤️ 229 • 1h ago
+⬇️ 3,964 • ❤️ 243 • 2h ago
 
 ---
 
@@ -465,7 +469,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 13,151 • ❤️ 429 • 1d ago
+⬇️ 13,151 • ❤️ 430 • 1d ago
 
 ---
 
@@ -477,7 +481,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 71,132 • ❤️ 190 • 2d ago
+⬇️ 71,132 • ❤️ 191 • 2d ago
 
 ---
 
@@ -501,7 +505,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `26.9B`
 
-⬇️ 542,250 • ❤️ 441 • 3d ago
+⬇️ 542,250 • ❤️ 443 • 3d ago
 
 ---
 
@@ -578,7 +582,7 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 LeWorldModel presents a stable end-to-end JEPA framework that trains efficiently from raw pixels using minimal loss terms while maintaining competitive performance in control tasks and encoding meaningful physical structures.
 
-▲ 8 • 💬 1 • ⭐ 1,099 • 13d ago
+▲ 8 • 💬 1 • ⭐ 1,099 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.19312) • [💻 code](https://github.com/lucas-maes/le-wm) • [🔗 project](https://le-wm.github.io/)
 
@@ -602,7 +606,7 @@ Frontier large language models exhibit Internal Safety Collapse, where they gene
 
 daVinci-MagiHuman is an open-source audio-video generative model that synchronizes text, video, and audio through a single-stream Transformer architecture, achieving high-quality human-centric content generation with efficient inference capabilities.
 
-▲ 110 • 💬 5 • ⭐ 989 • 4d ago
+▲ 111 • 💬 5 • ⭐ 989 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.21986) • [💻 code](https://github.com/GAIR-NLP/daVinci-MagiHuman) • [🔗 project](https://huggingface.co/spaces/SII-GAIR/daVinci-MagiHuman)
 
@@ -644,7 +648,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 58.1k • 🔱 8.1k • 1d ago
+⭐ 58.2k • 🔱 8.1k • 1d ago
 
 ---
 
@@ -654,7 +658,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 22.7k • 🔱 1.1k • 20h ago
+⭐ 22.8k • 🔱 1.1k • 21h ago
 
 ---
 
@@ -664,7 +668,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 12.8k • 🔱 688 • 2h ago
+⭐ 12.8k • 🔱 688 • 3h ago
 
 ---
 
@@ -674,7 +678,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 8.0k • 🔱 639 • 3h ago
+⭐ 8.0k • 🔱 644 • 1m ago
 
 ---
 
@@ -694,7 +698,7 @@ AI-native design editor. Open-source Figma alternative.
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 292 • 1d ago
+⭐ 3.3k • 🔱 292 • 1h ago
 
 ---
 
@@ -704,7 +708,7 @@ Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messag
 
 `Go`
 
-⭐ 3.3k • 🔱 285 • 13h ago
+⭐ 3.3k • 🔱 286 • 12m ago
 
 ---
 
@@ -722,17 +726,17 @@ end to end app store screenshot creation using AI
 
 SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 
-⭐ 3.1k • 🔱 103 • 15d ago
+⭐ 3.2k • 🔱 103 • 15d ago
 
 ---
 
 **[jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh)**
 
-🎭 187 个即插即用的 AI 专家角色 — 支持 OpenClaw/Claude Code/Cursor/Copilot 等 14 种工具，覆盖工程/设计/营销/产品等 18 个部门。含 46 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）
+🎭 193 个即插即用的 AI 专家角色 — 支持 OpenClaw/Claude Code/Cursor/Copilot 等 14 种工具，覆盖工程/设计/营销/产品等 18 个部门。含 46 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）
 
 `Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
 
-⭐ 2.8k • 🔱 471 • 1h ago
+⭐ 2.8k • 🔱 473 • 2h ago
 
 ---
 
