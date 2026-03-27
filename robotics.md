@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-27T11:13:13.722676+00:00'
+updated: '2026-03-27T12:02:42.806923+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 27, 2026 at 11:13 UTC  
+**Last Updated:** March 27, 2026 at 12:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Yeah, front flips. I know, I've seen a lot of "who cares," "useless flex," "why don't you do something useful," "seen it a hundred times." Fair. But when it actually works on a real robot, you still feel it. Still a lot to fix, but this was a good day :D
 
-20h ago
+21h ago
 
 ---
 
@@ -50,7 +50,7 @@ Yeah, front flips. I know, I've seen a lot of "who cares," "useless flex," "why 
 
 Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dataset From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2037440578275946551
 
-7m ago
+56m ago
 
 ---
 
@@ -64,7 +64,7 @@ This is the new and improved state of the driver board for my work in progress 6
 
 **[Shared my firs model to Printables](https://www.reddit.com/r/robotics/comments/1s4oaut/shared_my_firs_model_to_printables/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -92,7 +92,7 @@ Wanted to share something we've been working on: using electro-permanent magnets
 
 For longevity, durability testing. I imagine versatile robotic arms and hands that could test hardware like keyboards, mice, touchscreens or any user inputs. I mean one robot for all testing purposes.
 
-4h ago
+5h ago
 
 ---
 
@@ -100,7 +100,7 @@ For longevity, durability testing. I imagine versatile robotic arms and hands th
 
 curious what people think about the Livox Avia in today’s stack for mapping / slam in 2026. I used these in a project around 2022/2023, but haven't used them since. It always seemed like a strong middle ground between lower-cost Livox units and more expensive survey-grade systems, especially for UAV mapping and longer-range perception. My team used it for a mapping / slam project perviously, but I noticed they are sold out on DJI site. Are these in crazy demand or just not manufactured anymore? I ask because I have two brand new Avia units (never used, still sealed — from a startup project that pivoted), are they of any value in selling or should I try to find a way to make money with them from a mapping / service business? If anyone happens to be looking for one, feel free to reach out — but mostly just trying to understand the current landscape.
 
-14h ago
+15h ago
 
 ---
 
@@ -144,7 +144,7 @@ ABC7 Chicago • 2d ago
 
 Two delivery robots crashed into two bus shelters in Chicago within a matter of days -- and one of the incidents was caught on camera.
 
-upi.com • 19h ago
+upi.com • 20h ago
 
 ---
 
@@ -152,13 +152,13 @@ upi.com • 19h ago
 
 Amazon has spent more than a decade automating its logistics network. The company has already deployed more than 1 million robots across its operations,
 
-PYMNTS.com • 13h ago
+PYMNTS.com • 14h ago
 
 ---
 
 **[US lawmakers to introduce bill to ban government use of Chinese robots](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/)**
 
-Reuters • 18h ago
+Reuters • 19h ago
 
 ---
 
@@ -244,7 +244,7 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 📺 CNET
 
-👁️ 17K • 👍 469 • 💬 29 • ⏱️ 5:50 • 4d ago
+👁️ 17K • 👍 469 • 💬 29 • ⏱️ 5:50 • 5d ago
 
 ---
 
@@ -274,7 +274,7 @@ The Ultimate Microcontroller Battle is HERE! Who is the real KING of your tech w
 
 📺 M.R. Hacking Robot
 
-👁️ 3K • 👍 65 • 💬 2 • ⏱️ 0:21 • 22h ago
+👁️ 3K • 👍 65 • 💬 2 • ⏱️ 0:21 • 23h ago
 
 ---
 
