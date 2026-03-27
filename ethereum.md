@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-27T18:58:10.359352+00:00'
+updated: '2026-03-27T19:42:20.592691+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- news
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 27, 2026 at 18:58 UTC  
+**Last Updated:** March 27, 2026 at 19:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -86,7 +86,7 @@ Ethereum pushes Glamsterdam testing forward as Hegotá headliner debates remain 
 
 **[Paperwallet.ca launch](https://www.reddit.com/r/ethereum/comments/1s543mf/paperwalletca_launch/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -94,7 +94,7 @@ Ethereum pushes Glamsterdam testing forward as Hegotá headliner debates remain 
 
 Frame transaction Considered for Inclusion for Hegotá, EthStaker staking survey, EF post-quantum website
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-17/) • 5h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-17/) • 6h ago
 
 ---
 
@@ -102,7 +102,7 @@ Frame transaction Considered for Inclusion for Hegotá, EthStaker staking survey
 
 Working on a little side project that turns etherscan data into readable risk. If you analyzed a wallet recently I’d love to compare your assessment to my engine’s output and see where it’s wrong and right, thanks
 
-19h ago
+20h ago
 
 ---
 
@@ -154,7 +154,7 @@ Been building an x402 gate way for my local business site builder. I want to exp
 
 The address traces back to Ethereum's initial token sale, where the investor purchased ether at about $0.31 per token, said Lookonchain.
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -168,7 +168,7 @@ Barron's • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 4h ago
+Fortune • 5h ago
 
 ---
 
@@ -192,7 +192,7 @@ Yahoo Finance • 1d ago
 
 Ethereum price failed to clear the $2,200 zone and declined. ETH is now consolidating above $2,020 and might struggle to start a recovery wave.Ethereum Price Dips FurtherEthereum price failed to stay above $2,150 and started a fresh decline, like Bitcoin. ETH price dipped below $2,120 and $2,080 to…
 
-TradingView • 15h ago
+TradingView • 16h ago
 
 ---
 
@@ -214,7 +214,7 @@ polymarket.com • 1d ago
 
 **[Ethereum Price Prediction: ETH Price Analysis And Pepeto Stage Fills Fast Before the Binance Listing Deadline](https://financefeeds.com/ethereum-price-prediction-eth-price-analysis-and-pepeto-stage-fills-fast-before-the-binance-listing-deadline/)**
 
-financefeeds.com • 18h ago
+financefeeds.com • 19h ago
 
 ---
 
@@ -236,7 +236,7 @@ Live crypto market analysis with Severin. Join the stream as we break down Bitco
 
 📺 Chart Champions
 
-👁️ 3K • 👍 401 • 4h ago
+👁️ 3K • 👍 401 • 5h ago
 
 ---
 
@@ -246,7 +246,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 338 • 👍 14 • 💬 20 • ⏱️ 4:49 • 8h ago
+👁️ 338 • 👍 14 • 💬 20 • ⏱️ 4:49 • 9h ago
 
 ---
 
@@ -266,7 +266,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free https://go.ted
 
 📺 MONEY GAME
 
-👁️ 6K • 👍 237 • 💬 35 • ⏱️ 12:42 • 1d ago
+👁️ 6K • 👍 237 • 💬 35 • ⏱️ 12:42 • 2d ago
 
 ---
 
@@ -286,7 +286,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 243 • 👍 53 • 💬 10 • ⏱️ 14:22 • 1h ago
+👁️ 243 • 👍 53 • 💬 10 • ⏱️ 14:22 • 2h ago
 
 ---
 
@@ -326,7 +326,7 @@ CARTÃO PARA PAGAR CONTAS COM CRIPTO - redotpay SOLICITE O SEU AGORA https://url
 
 📺 Sandro Cabrales
 
-👁️ 3K • 👍 440 • 💬 37 • ⏱️ 25:06 • 9h ago
+👁️ 3K • 👍 440 • 💬 37 • ⏱️ 25:06 • 10h ago
 
 ---
 

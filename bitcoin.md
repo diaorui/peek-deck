@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-27T18:58:10.353351+00:00'
+updated: '2026-03-27T19:42:20.586628+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- news
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 27, 2026 at 18:58 UTC  
+**Last Updated:** March 27, 2026 at 19:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 I honestly never thought I'd get this chance again, this is so awesome. Pulling more and more savings over to grab more. I should be a half-coiner soon. Yes!
 
-6h ago
+7h ago
 
 ---
 
@@ -89,7 +89,7 @@ I honestly never thought I'd get this chance again, this is so awesome. Pulling 
 
 Onramp's Brian Cubellis also point out the difference between the latent demand for IBIT vs what he expects will be active solicitation from Morgan Stanley to their clients.
 
-3h ago
+4h ago
 
 ---
 
@@ -105,7 +105,7 @@ Each paycheck is now worth ~0.19% of my total sats. I have been in the space a b
 
 Bitcoin’s largest options expiry of the year is colliding with geopolitical volatility that shows no sign of letting up with make or break peace talks uncertain. Roughly $14 billion of Bitcoin options are set to expire Friday, as measured by the number for outstanding contracts, known as open interest. The quarterly rollover—which wipes out close to 40% of open positions on the dominant Deribit exchange—comes amid conflicting signals on the prospect of a halt to the nearly month-long war in the Middle East. The overlap is sharpening a key question for traders: whether the expiry has been artificially muting Bitcoin’s price swings and if its removal will expose the token to a sharper move driven by geopolitics. Bitcoin has been stuck between roughly $60,000 and $75,000 in recent weeks, drifting well below its October 2025 peak of around $126,000 after a market-wide crash on Oct. 10. The lack of direction has persisted despite geopolitical tensions and intermittent inflows into U.S. exchange-traded funds. Bitcoin fell as much as 4% to $68,122 on Thursday. Read more: https://fortune.com/2026/03/26/bitcoin-faces-14-billion-options-expiry-while-middle-east-turmoil-mounts/
 
-🔗 [Fortune](https://fortune.com/2026/03/26/bitcoin-faces-14-billion-options-expiry-while-middle-east-turmoil-mounts/) • 1h ago
+🔗 [Fortune](https://fortune.com/2026/03/26/bitcoin-faces-14-billion-options-expiry-while-middle-east-turmoil-mounts/) • 2h ago
 
 ---
 
@@ -129,7 +129,7 @@ been diving deep into old reddit threads lately and stumbled across some wild st
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/3H5KnK8PZM0) • 4h ago
+🔗 [youtu.be](https://youtu.be/3H5KnK8PZM0) • 5h ago
 
 ---
 
@@ -137,7 +137,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 back in september i got absolutely wrecked playing with margin trading like an idiot and lost way more than i should have but crying about it wont bring my money back so whatever my strategy now is just plain old dollar cost averaging and holding for the long haul bitcoin crashing means i can stack more sats so ive bumped up my weekly buys from 30 to 75 bucks these lower prices are basically a gift if you think about it long term
 
-12h ago
+13h ago
 
 ---
 
@@ -153,7 +153,7 @@ Recently, Bitcoin’s price has dropped, and many people are selling out of fear
 
 Hey everyone, just wanted to share some thoughts as someone whos been watching this space for a while First off - if youre not planning to hold for at least 3-4 years, maybe reconsider your strategy. This isnt a get rich quick thing Second - stop refreshing coinbase every hour lol. I used to do this and it was driving me insane. Now I check maybe twice a week and my mental health is way better Third - dont let every twitter thread or news article send you into panic mode. Most of it is just noise anyway Look, as long as you only put in what you can actually afford to lose and youre thinking long term, youll probably be fine. If you went too hard and used money you needed for bills or whatever, that sucks but try to learn from it Everything feels chaotic right now but thats just how markets work sometimes. Stay calm and dont make emotional decisions when youre stressed
 
-16h ago
+17h ago
 
 ---
 
@@ -165,7 +165,7 @@ Hey everyone, just wanted to share some thoughts as someone whos been watching t
 
 Ukraine’s disruption of Russian oil flows has added fresh uncertainty to already strained energy markets, complicating inflation outlooks and keeping pressure on risk assets including bitcoin.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -173,7 +173,7 @@ CoinDesk • 12h ago
 
 (Bloomberg) -- Bitcoin’s largest options expiry of the year is colliding with geopolitical volatility that shows no sign of letting up with make or break peace talks uncertain. Roughly $14 billion of Bitcoin options are set to expire Friday, as measured by the number for outstanding contracts, known as open interest. The quarterly rollover — which wipes out close to 40% of open positions on the dominant Deribit exchange — comes amid conflicting signals on the prospect of a halt to the nearly mon
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -181,13 +181,13 @@ Yahoo Finance • 8h ago
 
 (Bloomberg) -- Bitcoin fell to its lowest level in more than three weeks as traders turned defensive following the year’s largest options expiry, while investors continued pulling money from crypto exchange-traded funds.The original cryptocurrency fell as much as 5% to $65,547, the lowest since March 2. The token has been stuck between roughly $60,000 and $75,000 in recent weeks, drifting well below its October 2025 peak of around $126,000. Roughly $14 billion of Bitcoin options expired Friday,
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
 **[Bitcoin Skids, $14 Bil. In Options Due; Cathie Wood Raises Cash](https://www.investors.com/news/bitcoin-price-options-expire-14-billion-liquidations-cathie-wood-ark-invest/)**
 
-Investor's Business Daily • 2h ago
+Investor's Business Daily • 3h ago
 
 ---
 
@@ -211,7 +211,7 @@ Seeking Alpha • 1h ago
 
 New York City, NY, March 27, 2026 (GLOBE NEWSWIRE) -- Bitcoin casinos continue to expand their bonus offerings, but very few provide working no deposit bonus offers that users can try without risk. BitStarz crypto casino is often mentioned for delivering 50 free spins for real money with no deposit required, along with quicker withdrawals. >>Learn How the 50 Free Spins No Deposit Bonus Is Structured on BitStarz<< While several online casino no deposit bonuses still rely on complex conditions, Bi
 
-Yahoo Finance Singapore • 55m ago
+Yahoo Finance Singapore • 1h ago
 
 ---
 
@@ -225,7 +225,7 @@ Esquire • 21h ago
 
 **[5 long, loud years: Neighbor, county leader ready for Bitcoin mine shutdown](https://www.wjhl.com/news/local/5-long-loud-years-neighbor-county-leader-ready-for-bitcoin-mine-shutdown/)**
 
-wjhl.com • 19h ago
+wjhl.com • 20h ago
 
 ---
 
@@ -259,7 +259,7 @@ Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes
 
 **[MineGuard – Autonomous Bitcoin mining fleet manager, Karpathy-loop optimization](https://news.ycombinator.com/item?id=47538096)**
 
-⬆️ 1 • 💬 0 • 17h ago • [github.com](https://github.com/enriquevazquezusa/mineguard)
+⬆️ 1 • 💬 0 • 18h ago • [github.com](https://github.com/enriquevazquezusa/mineguard)
 
 ---
 
@@ -305,7 +305,7 @@ all my life is bitcoin, literally. I had moments where I thought I was ruining m
 
 📺 BTC Isla
 
-👁️ 3K • 👍 467 • 💬 167 • ⏱️ 10:32 • 3h ago
+👁️ 3K • 👍 467 • 💬 167 • ⏱️ 10:32 • 4h ago
 
 ---
 
@@ -315,7 +315,7 @@ Are Bitcoin and the S&P 500 on the verge of a massive breakdown? In this urgent 
 
 📺 Gareth Soloway
 
-👁️ 45K • 👍 3K • 💬 516 • ⏱️ 9:48 • 6h ago
+👁️ 45K • 👍 3K • 💬 516 • ⏱️ 9:48 • 7h ago
 
 ---
 
@@ -335,7 +335,7 @@ Join The Community: https://bit.ly/FefeCommunity PASS THE BITFUNDED CHALLENGE ..
 
 📺 100XClub
 
-👁️ 8K • 👍 1K • 💬 188 • ⏱️ 9:55 • 9h ago
+👁️ 8K • 👍 1K • 💬 188 • ⏱️ 9:55 • 10h ago
 
 ---
 
@@ -375,7 +375,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 3K • 👍 511 • 💬 88 • ⏱️ 5:20 • 5h ago
+👁️ 3K • 👍 511 • 💬 88 • ⏱️ 5:20 • 6h ago
 
 ---
 

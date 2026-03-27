@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-27T18:58:10.345106+00:00'
+updated: '2026-03-27T19:42:20.578258+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
-- news
 - repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 27, 2026 at 18:58 UTC  
+**Last Updated:** March 27, 2026 at 19:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ A federal judge told the government it could not immediately enforce a ban on An
 
 Genuinely curious where people stand on this. Not talking about sci-fi scenarios. Talking about real production systems today. Have you seen an AI system ignore its own instructions? Misread what the user was actually asking for? Take an action that wasn't supposed to? Give a completely different answer to the same question just because you worded it differently? And when something went wrong, was there any trace of why it happened? No right or wrong here. Just trying to understand whether this is widespread or if I'm reading too much into it.
 
-2h ago
+3h ago
 
 ---
 
@@ -57,7 +57,7 @@ Genuinely curious where people stand on this. Not talking about sci-fi scenarios
 
 Three days ago, I clicked the "Deploy OpenClaw In Seconds" button to get an overview of the new service, but I didn't build any automation, so I closed it. When I looked at the credit usage history, I saw that the Claw LLM had consumed a lot of credits in just three days. Credit usage continued with every page refresh. I was unable to prevent any background agents from entering the OpenClaw computer panel. The cloud computer was off, and I didn't use any off-Claw automated jobs in Abacus. I wasn't sure how to terminate the service. Then I discovered the hard reset option for the cloud computer. After doing that, the credit usage eventually stopped. However, Claw LLM already consumed approximately 7000 credits :/ I submitted this problem to Abacus support with all the screenshots, but I haven't received a response. The support is horrible, they are not there... Despite this problem, I must point out that the credit usage billing is not transparent. Before this issue, I tried the Abacus desktop Code editor to test some Python coding with the AI agents. But after one hour, I had used up all my credits. So, decided to upgrade my subscription from standard to $20 pro for more credits and an agent usage limit. But the pro tier gives only 5000 more credits over the standard tier, not twice. So I thought that the pro has the agent advantage. But my credits kept getting used just as fast as before when using the Abacus desktop app, even on the Pro plan. I even purchased $10 more credits, but no chance, no credit... Now, at the end, I have "0" credits in just 1 week, and have to wait for 3 weeks to reset the subscription. What’s especially frustrating is that there’s no clear documentation about: * What’s happening in the background when you use different AI models * How many credits you’re charged per dollar (credit per dollar rate) * What the agent workflow looks like behind the scenes Without knowing these details, the credit system feels meaningless. It’s hard to track usage or understand what you’re actually paying for. [UPDATE] Abacus Support still hasn’t reached out to me, and I still haven’t received a response. I had shared this post on the Abacus AI Reddit channel two days ago, but they deleted it yesterday 🤷🏻‍♂️🤦🏻‍♂️
 
-9h ago
+10h ago
 
 ---
 
@@ -65,7 +65,7 @@ Three days ago, I clicked the "Deploy OpenClaw In Seconds" button to get an over
 
 The arrival of AI-generated research papers marks a turning point that could radically accelerate discovery—or drown it in automated mediocrity
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/ai-wrote-a-scientific-paper-that-passed-peer-review/) • 5h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/ai-wrote-a-scientific-paper-that-passed-peer-review/) • 6h ago
 
 ---
 
@@ -73,7 +73,7 @@ The arrival of AI-generated research papers marks a turning point that could rad
 
 Or are we stuck with works of 8 hours per day forever?
 
-22m ago
+1h ago
 
 ---
 
@@ -81,7 +81,7 @@ Or are we stuck with works of 8 hours per day forever?
 
 Claude was fantastic when I paid monthly, right up until I chose to commit to a yearly Pro subscription. Now, a mere thirty-four text prompts—mostly two or three sentences long—burn through 94% of my five-hour limit. To make matters worse, six of those prompts were wasted because I had to repeat what I had just stated. Claude kept pulling web calls for information already established one or two prompts earlier. This is machinery designed to eat your usage. This is the exact same bait-and-switch garbage OpenAI pulled with GPT 5.0, dropping nuance for heuristics, practically guaranteeing through hubris OpenAI’s eventual Lycos trajectory. Seeing Dario Amodei actively hustle to work out a deal with the Pentagon proves their entire ethical safety stance was nothing more than PR BS designed to manufacture a moral high ground.
 
-18h ago
+19h ago
 
 ---
 
@@ -89,7 +89,7 @@ Claude was fantastic when I paid monthly, right up until I chose to commit to a 
 
 A big update is on the way for Grok, and it's supposedly going to be the most important change ever made to X, says the head of product.
 
-🔗 [PC Guide](https://www.pcguide.com/news/groks-next-update-will-be-the-most-important-change-to-x-ever-and-elon-musk-says-xai-is-doubling-down-on-imagine/) • 1h ago
+🔗 [PC Guide](https://www.pcguide.com/news/groks-next-update-will-be-the-most-important-change-to-x-ever-and-elon-musk-says-xai-is-doubling-down-on-imagine/) • 2h ago
 
 ---
 
@@ -97,7 +97,7 @@ A big update is on the way for Grok, and it's supposedly going to be the most im
 
 The future of urban innovation cannot continue to be a standoff between Silicon Valley and City Hall, writes Laura Kavanagh.
 
-🔗 [TIME](https://time.com/article/2026/03/27/what-cities-need-to-consider-before-allowing-self-driving-cars/?utm_source=reddit&utm_medium=social&utm_campaign=editorial) • 1h ago
+🔗 [TIME](https://time.com/article/2026/03/27/what-cities-need-to-consider-before-allowing-self-driving-cars/?utm_source=reddit&utm_medium=social&utm_campaign=editorial) • 2h ago
 
 ---
 
@@ -149,13 +149,13 @@ CNBC • 5h ago
 
 The cybersecurity sector has slumped this year on fears that new AI will massively disrupt their business models.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
 **[Oracle’s Credit Risk Measure Nears Record High on AI-Debt Fears](https://www.bloomberg.com/news/articles/2026-03-27/oracle-s-credit-risk-measure-nears-record-high-on-ai-debt-fears)**
 
-Bloomberg.com • 40m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ Bloomberg.com • 40m ago
 
 The biggest news and controversies surrounding data centers.
 
-The Verge • 21m ago
+The Verge • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Verge • 21m ago
 
 Nuvemshop CEO Santiago Sosa: 'We're putting AI at the center of everything'
 
-qz.com • 44m ago
+qz.com • 1h ago
 
 ---
 
@@ -187,7 +187,7 @@ theatlantic.com • 22h ago
 
 In a significant security lapse, the not-yet-public information was made accessible via the company’s content management system
 
-Fortune • 15h ago
+Fortune • 16h ago
 
 ---
 
@@ -195,7 +195,7 @@ Fortune • 15h ago
 
 Matt Garman helps make your online life – your Starbucks order, your Netflix binge, your Pinterest browsing– possible.
 
-CNN • 9h ago
+CNN • 10h ago
 
 ---
 
@@ -227,7 +227,7 @@ Search any airport for real-time delays, weather, arrivals, departures, and perf
 
 **[Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://news.ycombinator.com/item?id=47536761)**
 
-⬆️ 317 • 💬 91 • 20h ago • [georgelarson.me](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
+⬆️ 317 • 💬 91 • 21h ago • [georgelarson.me](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
 
 ---
 
@@ -235,7 +235,7 @@ Search any airport for real-time delays, weather, arrivals, departures, and perf
 
 The decision follows activist pressure as Palantir faces growing scrutiny over NHS and UK government deals
 
-⬆️ 305 • 💬 145 • 22h ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai)
+⬆️ 305 • 💬 145 • 23h ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai)
 
 ---
 
@@ -243,7 +243,7 @@ The decision follows activist pressure as Palantir faces growing scrutiny over N
 
 One engineer used AI to rewrite JSONata as a pure-Go library called gnata. Seven hours, $400 in tokens, 1,000x speedup, and $500K/year off our cloud bill.
 
-⬆️ 247 • 💬 228 • 20h ago • [reco.ai](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)
+⬆️ 247 • 💬 228 • 21h ago • [reco.ai](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)
 
 ---
 
@@ -275,7 +275,7 @@ I asked experts if I'm real. Bad news. Even my aunt wasn't sure if I was a deepf
 
 LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. Instead, it was choices made by human beings, over many years, that gave us this atrocity
 
-⬆️ 159 • 💬 102 • 2h ago • [the Guardian](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)
+⬆️ 159 • 💬 102 • 3h ago • [the Guardian](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)
 
 ---
 
@@ -289,7 +289,7 @@ Here's the AI News you probably missed this week! Check out Genspark here: ...
 
 📺 Matt Wolfe
 
-👁️ 13K • 👍 972 • 💬 89 • ⏱️ 31:53 • 3h ago
+👁️ 13K • 👍 972 • 💬 89 • ⏱️ 31:53 • 4h ago
 
 ---
 
@@ -299,7 +299,7 @@ Something is definitely happening in the AI world, but how seriously should we t
 
 📺 Vox
 
-👁️ 8K • 👍 359 • 💬 35 • ⏱️ 40:29 • 5h ago
+👁️ 8K • 👍 359 • 💬 35 • ⏱️ 40:29 • 6h ago
 
 ---
 
@@ -443,7 +443,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 3,964 • ❤️ 251 • 5h ago
+⬇️ 3,964 • ❤️ 251 • 6h ago
 
 ---
 
@@ -668,7 +668,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 12.8k • 🔱 688 • 6h ago
+⭐ 12.8k • 🔱 688 • 7h ago
 
 ---
 
@@ -678,7 +678,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 8.0k • 🔱 647 • 38m ago
+⭐ 8.0k • 🔱 647 • 1h ago
 
 ---
 
@@ -698,7 +698,7 @@ AI-native design editor. Open-source Figma alternative.
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 294 • 10m ago
+⭐ 3.3k • 🔱 294 • 55m ago
 
 ---
 
@@ -708,7 +708,7 @@ Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messag
 
 `Go`
 
-⭐ 3.3k • 🔱 287 • 2h ago
+⭐ 3.3k • 🔱 287 • 3h ago
 
 ---
 
