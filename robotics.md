@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-27T16:57:13.518289+00:00'
+updated: '2026-03-27T17:52:20.788809+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 27, 2026 at 16:57 UTC  
+**Last Updated:** March 27, 2026 at 17:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hello everyone, I wanted to share my project that I've been working on for months. I've recycled two old 3D printers Anet A8 into a robotic arm. My main goal is to make a coffee with it. The motors and the electronic cards are from the printers. I've flashed them with Marlin and control them with python with a custom interface. I need to use 2 boards because I can only control independently 4 motors with one board. All the joints design are homemade, and 3d printed. The endeffector is a design from Makerworld u/user_2700759104 (I will build my own in the next days). There is a lot of backlash because of the planetary gears that I use. I plan to change them in the future. If anyone knows a reduction gear for Nema17 with minimum backlash I am all ears ! Thanks to the gear ratio, I've measured 2.9kg of force with the J2. List of components : Motors (J1->J6) : Nema17 Endeffector : Servo SG90 Boards : 2 Anet A8 + 1 Arduino Uno Reduction : J1 - 19:1 J2 - 51:1 J3 - 19:1 J4 - 19:1 J5 - 19:1 (90° 1:1) J6 - 1:1
 
-5h ago
+6h ago
 
 ---
 
@@ -44,7 +44,7 @@ Hello everyone, I wanted to share my project that I've been working on for month
 
 Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dataset From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2037440578275946551
 
-5h ago
+6h ago
 
 ---
 
@@ -52,13 +52,13 @@ Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dat
 
 I didn't use the T265; instead, I chose the RoboBaton mini to control the car's forward movement.I found the RoboBaton mini works well.Look the video !
 
-2h ago
+3h ago
 
 ---
 
 **[Demo of Agibot’s wheeled A2 depalleting](https://www.reddit.com/r/robotics/comments/1s4spdj/demo_of_agibots_wheeled_a2_depalleting/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -66,7 +66,7 @@ I didn't use the T265; instead, I chose the RoboBaton mini to control the car's 
 
 Hi everyone, I'm a master's student in India currently studying Robotics. I came across ICRA 2026, and there were some competitions mentioned there. I'm interested in taking part in such competitions, but obviously they are at a world stage and require a lot of preparation and studying. Maybe I'll participate in one next year. What are some of the smaller competitions that are held in regional levels too.
 
-3h ago
+4h ago
 
 ---
 
@@ -82,19 +82,19 @@ Yeah, front flips. I know, I've seen a lot of "who cares," "useless flex," "why 
 
 This is the new and improved state of the driver board for my work in progress 6 axis 3D printed robot arm. ESP32 I2C Multiplexing - For encoder wiring 6 x DRV8825
 
-12h ago
+13h ago
 
 ---
 
 **[Shared my firs model to Printables](https://www.reddit.com/r/robotics/comments/1s4oaut/shared_my_firs_model_to_printables/)**
 
-16h ago
+17h ago
 
 ---
 
 **[WANDER-Bot, a wind-powered robot designed for long-term exploration of hostile environments.](https://www.reddit.com/r/robotics/comments/1s59h0n/wanderbot_a_windpowered_robot_designed_for/)**
 
-13m ago
+1h ago
 
 ---
 
@@ -102,7 +102,7 @@ This is the new and improved state of the driver board for my work in progress 6
 
 I've been working on a ROS2 framework that treats a robot's state as a continuous probability field instead of a point estimate. It uses: Ensemble Kalman Filter (EnKF) maintains uncertainty online, 100+ particles on GPU Vectorized CEM – action selection by optimizing expected Q‑value over the belief, fully batched Probabilistic latent dynamics – learns to predict next state with uncertainty CBF safety – joint limits + obstacle avoidance, analytic Jacobians (Pinocchio), warm‑started OSQP LiDAR fusion – neural point cloud encoder feeds directly into the belief All inside lifecycle‑managed ROS2 nodes – ready for real robots The stack fuses perception uncertainty into planning, keeps multiple hypotheses alive, and uses them to make robust decisions. It's meant to bridge the gap between research‑grade belief‑space planning and deployable robot software. Why I think this is interesting: Most open‑source robot controllers assume a known state or strip uncertainty for performance. Here the uncertainty is first‑class and everything runs on GPU to keep up with real‑time rates (100–200 Hz on a laptop with 20‑DOF arm). The whole system is modular Would love to hear thoughts,
 
-26m ago
+1h ago
 
 ---
 
@@ -122,7 +122,7 @@ CNBC • 2d ago
 
 Serve Robotics could generate massive gains for its patient investors.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -130,13 +130,13 @@ Yahoo Finance • 21h ago
 
 Serve Robotics stock is trading down more than 45% from its 52-week high.
 
-The Motley Fool • 16m ago
+The Motley Fool • 1h ago
 
 ---
 
 **[Jim Cramer’s hottest robotics and physical AI stock picks](https://www.msn.com/en-us/money/markets/jim-cramer-s-hottest-robotics-and-physical-ai-stock-picks/ar-AA1ZxWxQ?ocid=finance-verthp-feeds)**
 
-MSN • 54m ago
+MSN • 1h ago
 
 ---
 
@@ -166,7 +166,7 @@ ABC7 Chicago • 2d ago
 
 Amazon has spent more than a decade automating its logistics network. The company has already deployed more than 1 million robots across its operations,
 
-PYMNTS.com • 19h ago
+PYMNTS.com • 20h ago
 
 ---
 
@@ -206,7 +206,7 @@ Melania Trump suggested using humanoid AI robots like a “Plato” educator to 
 
 📺 Farron Balanced
 
-👁️ 31K • 👍 3K • 💬 746 • ⏱️ 5:10 • 21h ago
+👁️ 31K • 👍 3K • 💬 746 • ⏱️ 5:10 • 22h ago
 
 ---
 
@@ -266,7 +266,7 @@ Melania Trump sparks alarm over a White House event where she walked in with a r
 
 📺 The Damage Report
 
-👁️ 15K • 👍 804 • 💬 358 • ⏱️ 8:42 • 20h ago
+👁️ 15K • 👍 804 • 💬 358 • ⏱️ 8:42 • 21h ago
 
 ---
 

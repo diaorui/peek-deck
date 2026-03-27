@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-27T16:57:13.508888+00:00'
+updated: '2026-03-27T17:52:20.779637+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 27, 2026 at 16:57 UTC  
+**Last Updated:** March 27, 2026 at 17:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 I honestly never thought I'd get this chance again, this is so awesome. Pulling more and more savings over to grab more. I should be a half-coiner soon. Yes!
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ I honestly never thought I'd get this chance again, this is so awesome. Pulling 
 
 Onramp's Brian Cubellis also point out the difference between the latent demand for IBIT vs what he expects will be active solicitation from Morgan Stanley to their clients.
 
-1h ago
+2h ago
 
 ---
 
@@ -97,7 +97,7 @@ Onramp's Brian Cubellis also point out the difference between the latent demand 
 
 Each paycheck is now worth ~0.19% of my total sats. I have been in the space a bit. I am a little dead inside due to "same shit different day" mentality in this space. The price is getting smaller. I see the typical calls for people to hodl on or jump in or increase DCA. Quality memes are nowhere to be found. It reminds me of past bear cycles. What helps me during times like this is to remember the fundamentals. Nothing has changed. Blocks are still being solved about every 10 minutes. Code is still being written. Proposals are still being discussed/modified/dropped/fought over. Bitcoin is still based on real-world resources. People are still saying that bitcoin is dead/dying/ponzi scheme. People I know that make 3-5x my salary still think it is only used to wash dirty money. I have no grand secret or huge life lesson for you, simply because bitcoin is boring (also its most important feature). The messaging is always the same. Adopt a low time preference. I hope it helps some of the newer hodlers here who are planning to stay. The panic and self-doubt you feel will pass. And you will do it again, and it will pass again and so on. P.S. Do not leverage trade to try and catch up.
 
-2h ago
+3h ago
 
 ---
 
@@ -113,7 +113,7 @@ been diving deep into old reddit threads lately and stumbled across some wild st
 
 back in september i got absolutely wrecked playing with margin trading like an idiot and lost way more than i should have but crying about it wont bring my money back so whatever my strategy now is just plain old dollar cost averaging and holding for the long haul bitcoin crashing means i can stack more sats so ive bumped up my weekly buys from 30 to 75 bucks these lower prices are basically a gift if you think about it long term
 
-10h ago
+11h ago
 
 ---
 
@@ -121,7 +121,7 @@ back in september i got absolutely wrecked playing with margin trading like an i
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/3H5KnK8PZM0) • 2h ago
+🔗 [youtu.be](https://youtu.be/3H5KnK8PZM0) • 3h ago
 
 ---
 
@@ -129,7 +129,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 so i've been getting these random coinbase notifications for months and finally decided to check what was going on. remembered i had maybe like 7 bucks sitting there from way back when i bought something online that required bitcoin logged into my account expecting to see basically nothing and there's over 2400 sitting there. took me a minute to process what i was looking at did some digging and apparently that leftover change was from late 2015 when i made some random purchase. crazy how that small amount just sat there growing now i'm kicking myself thinking about what would've happened if i had been putting even 10 bucks aside every couple weeks since then. the math is pretty wild when you run those numbers probably gonna leave it alone and see where it goes from here. not really planning to touch it anytime soon
 
-2h ago
+3h ago
 
 ---
 
@@ -137,7 +137,7 @@ so i've been getting these random coinbase notifications for months and finally 
 
 Hey everyone, just wanted to share some thoughts as someone whos been watching this space for a while First off - if youre not planning to hold for at least 3-4 years, maybe reconsider your strategy. This isnt a get rich quick thing Second - stop refreshing coinbase every hour lol. I used to do this and it was driving me insane. Now I check maybe twice a week and my mental health is way better Third - dont let every twitter thread or news article send you into panic mode. Most of it is just noise anyway Look, as long as you only put in what you can actually afford to lose and youre thinking long term, youll probably be fine. If you went too hard and used money you needed for bills or whatever, that sucks but try to learn from it Everything feels chaotic right now but thats just how markets work sometimes. Stay calm and dont make emotional decisions when youre stressed
 
-14h ago
+15h ago
 
 ---
 
@@ -145,7 +145,7 @@ Hey everyone, just wanted to share some thoughts as someone whos been watching t
 
 so its become pretty clear that the banks have too much politcal power, and the new legislation is not going to allow stable coins to issue rewards. while i get that this slows the crypto industry as a whole... its kind of a nothing burger for bitcoin right? maybe even a positive.
 
-6h ago
+7h ago
 
 ---
 
@@ -153,7 +153,7 @@ so its become pretty clear that the banks have too much politcal power, and the 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-10h ago
+11h ago
 
 ---
 
@@ -165,13 +165,13 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Ukraine’s disruption of Russian oil flows has added fresh uncertainty to already strained energy markets, complicating inflation outlooks and keeping pressure on risk assets including bitcoin.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
 **[Bitcoin Skids, $14 Bil. In Options Due; Cathie Wood Raises Cash](https://www.investors.com/news/bitcoin-price-options-expire-14-billion-liquidations-cathie-wood-ark-invest/)**
 
-Investor's Business Daily • 53m ago
+Investor's Business Daily • 1h ago
 
 ---
 
@@ -179,7 +179,7 @@ Investor's Business Daily • 53m ago
 
 Cathie Wood's Ark Invest sold big chunks of its positions in American tech stocks and its own Bitcoin ETF as stocks and crypto slide.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 1h ago
 
 Solana could generate bigger near-term gains than the top cryptocurrency.
 
-The Motley Fool • 16m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -201,13 +201,13 @@ The Block • 2h ago
 
 **[Bitcoin Faces $14 Billion Options Expiry While Middle East Turmoil Mounts](https://www.bloomberg.com/news/articles/2026-03-26/bitcoin-faces-14-billion-options-expiry-while-middle-east-turmoil-mounts)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
 **[5 long, loud years: Neighbor, county leader ready for Bitcoin mine shutdown](https://www.wjhl.com/news/local/5-long-loud-years-neighbor-county-leader-ready-for-bitcoin-mine-shutdown/)**
 
-WJHL • 17h ago
+WJHL • 18h ago
 
 ---
 
@@ -223,7 +223,7 @@ Seeking Alpha • 5h ago
 
 It was an ugly day all around in markets as the Iran war has sent oil prices and bond yields surging higher.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -231,7 +231,7 @@ CoinDesk • 19h ago
 
 Bitcoin fell alongside stocks as investors weighed conflicting accounts regarding Iran’s willingness to end conflict in the Middle East.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
 
 ---
 
@@ -257,7 +257,7 @@ Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes
 
 **[MineGuard – Autonomous Bitcoin mining fleet manager, Karpathy-loop optimization](https://news.ycombinator.com/item?id=47538096)**
 
-⬆️ 1 • 💬 0 • 15h ago • [github.com](https://github.com/enriquevazquezusa/mineguard)
+⬆️ 1 • 💬 0 • 16h ago • [github.com](https://github.com/enriquevazquezusa/mineguard)
 
 ---
 
@@ -265,7 +265,7 @@ Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes
 
 Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 33 chain analysis heuristics. Free, client-side, no tracking.
 
-⬆️ 1 • 💬 0 • 5d ago • [am-i.exposed](https://am-i.exposed/)
+⬆️ 1 • 💬 0 • 6d ago • [am-i.exposed](https://am-i.exposed/)
 
 ---
 
@@ -279,7 +279,7 @@ Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 3
 
 A collection of reasons to hate on AI
 
-⬆️ 5 • 💬 0 • 18h ago • [lonami.dev](https://lonami.dev/blog/ditching-github/)
+⬆️ 5 • 💬 0 • 19h ago • [lonami.dev](https://lonami.dev/blog/ditching-github/)
 
 ---
 
@@ -293,7 +293,7 @@ Bitcoin #Crypto #Finance Bitcoin has dropped sharply toward the $66K level as ma
 
 📺 The Wolf Of All Streets
 
-👁️ 7K • 👍 716 • 💬 168 • ⏱️ 34:13 • 3h ago
+👁️ 7K • 👍 716 • 💬 168 • ⏱️ 34:13 • 4h ago
 
 ---
 
@@ -303,7 +303,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 783 • 💬 291 • ⏱️ 10:44 • 16h ago
+👁️ 13K • 👍 783 • 💬 291 • ⏱️ 10:44 • 17h ago
 
 ---
 
@@ -313,7 +313,7 @@ Join The Community: https://bit.ly/FefeCommunity PASS THE BITFUNDED CHALLENGE ..
 
 📺 100XClub
 
-👁️ 6K • 👍 927 • 💬 147 • ⏱️ 9:55 • 7h ago
+👁️ 6K • 👍 927 • 💬 147 • ⏱️ 9:55 • 8h ago
 
 ---
 
@@ -323,7 +323,7 @@ Coinbase and Fannie Mae just partnered up to do NO MARGIN CALL LOANS for Bitcoin
 
 📺 Digital Asset News
 
-👁️ 13K • 👍 930 • 💬 79 • ⏱️ 18:26 • 22h ago
+👁️ 13K • 👍 930 • 💬 79 • ⏱️ 18:26 • 23h ago
 
 ---
 
@@ -333,7 +333,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Buy
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 157 • ⏱️ 10:46 • 17h ago
+👁️ 32K • 👍 2K • 💬 157 • ⏱️ 10:46 • 18h ago
 
 ---
 
@@ -343,7 +343,7 @@ Bitcoin Vegas 2026: https://fxo.co/JAmn Welcome to the Crypto Lifer Channel! JOI
 
 📺 Crypto Lifer
 
-👁️ 3K • 👍 538 • 4h ago
+👁️ 3K • 👍 538 • 5h ago
 
 ---
 
@@ -363,7 +363,7 @@ The U.S. just released a security update warning citizens that Honk Kong now has
 
 📺 Cyber Scrilla
 
-👁️ 986 • 👍 76 • 💬 10 • ⏱️ 1:08 • 1h ago
+👁️ 986 • 👍 76 • 💬 10 • ⏱️ 1:08 • 2h ago
 
 ---
 
@@ -373,7 +373,7 @@ Continued reports on bitcoin suppression happening but one person is buying all 
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 328 • 💬 124 • ⏱️ 1:06:38 • 22h ago
+👁️ 7K • 👍 328 • 💬 124 • ⏱️ 1:06:38 • 23h ago
 
 ---
 
@@ -383,7 +383,7 @@ Michael Saylor, Strategy co-founder, joins 'Power Lunch' to discuss the company'
 
 📺 CNBC Television
 
-👁️ 19K • 👍 247 • 💬 183 • ⏱️ 4:05 • 21h ago
+👁️ 19K • 👍 247 • 💬 183 • ⏱️ 4:05 • 22h ago
 
 ---
 
