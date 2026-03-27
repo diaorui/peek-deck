@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-27T17:52:20.788809+00:00'
+updated: '2026-03-27T18:58:10.362504+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 27, 2026 at 17:52 UTC  
+**Last Updated:** March 27, 2026 at 18:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hello everyone, I wanted to share my project that I've been working on for months. I've recycled two old 3D printers Anet A8 into a robotic arm. My main goal is to make a coffee with it. The motors and the electronic cards are from the printers. I've flashed them with Marlin and control them with python with a custom interface. I need to use 2 boards because I can only control independently 4 motors with one board. All the joints design are homemade, and 3d printed. The endeffector is a design from Makerworld u/user_2700759104 (I will build my own in the next days). There is a lot of backlash because of the planetary gears that I use. I plan to change them in the future. If anyone knows a reduction gear for Nema17 with minimum backlash I am all ears ! Thanks to the gear ratio, I've measured 2.9kg of force with the J2. List of components : Motors (J1->J6) : Nema17 Endeffector : Servo SG90 Boards : 2 Anet A8 + 1 Arduino Uno Reduction : J1 - 19:1 J2 - 51:1 J3 - 19:1 J4 - 19:1 J5 - 19:1 (90° 1:1) J6 - 1:1
 
-6h ago
+7h ago
 
 ---
 
@@ -44,7 +44,13 @@ Hello everyone, I wanted to share my project that I've been working on for month
 
 Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dataset From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2037440578275946551
 
-6h ago
+7h ago
+
+---
+
+**[WANDER-Bot, a wind-powered robot designed for long-term exploration of hostile environments.](https://www.reddit.com/r/robotics/comments/1s59h0n/wanderbot_a_windpowered_robot_designed_for/)**
+
+2h ago
 
 ---
 
@@ -52,13 +58,13 @@ Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dat
 
 I didn't use the T265; instead, I chose the RoboBaton mini to control the car's forward movement.I found the RoboBaton mini works well.Look the video !
 
-3h ago
+4h ago
 
 ---
 
 **[Demo of Agibot’s wheeled A2 depalleting](https://www.reddit.com/r/robotics/comments/1s4spdj/demo_of_agibots_wheeled_a2_depalleting/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -66,7 +72,7 @@ I didn't use the T265; instead, I chose the RoboBaton mini to control the car's 
 
 Hi everyone, I'm a master's student in India currently studying Robotics. I came across ICRA 2026, and there were some competitions mentioned there. I'm interested in taking part in such competitions, but obviously they are at a world stage and require a lot of preparation and studying. Maybe I'll participate in one next year. What are some of the smaller competitions that are held in regional levels too.
 
-4h ago
+5h ago
 
 ---
 
@@ -82,27 +88,19 @@ Yeah, front flips. I know, I've seen a lot of "who cares," "useless flex," "why 
 
 This is the new and improved state of the driver board for my work in progress 6 axis 3D printed robot arm. ESP32 I2C Multiplexing - For encoder wiring 6 x DRV8825
 
-13h ago
+14h ago
+
+---
+
+**[How do I get started??(live sign interpreter glove)](https://www.reddit.com/r/robotics/comments/1s5cn34/how_do_i_get_startedlive_sign_interpreter_glove/)**
+
+21m ago
 
 ---
 
 **[Shared my firs model to Printables](https://www.reddit.com/r/robotics/comments/1s4oaut/shared_my_firs_model_to_printables/)**
 
-17h ago
-
----
-
-**[WANDER-Bot, a wind-powered robot designed for long-term exploration of hostile environments.](https://www.reddit.com/r/robotics/comments/1s59h0n/wanderbot_a_windpowered_robot_designed_for/)**
-
-1h ago
-
----
-
-**[Built a ROS2 GPU‑accelerated robot brain that never collapses uncertainty continuous belief fields + safety.](https://www.reddit.com/r/robotics/comments/1s593wo/built_a_ros2_gpuaccelerated_robot_brain_that/)**
-
-I've been working on a ROS2 framework that treats a robot's state as a continuous probability field instead of a point estimate. It uses: Ensemble Kalman Filter (EnKF) maintains uncertainty online, 100+ particles on GPU Vectorized CEM – action selection by optimizing expected Q‑value over the belief, fully batched Probabilistic latent dynamics – learns to predict next state with uncertainty CBF safety – joint limits + obstacle avoidance, analytic Jacobians (Pinocchio), warm‑started OSQP LiDAR fusion – neural point cloud encoder feeds directly into the belief All inside lifecycle‑managed ROS2 nodes – ready for real robots The stack fuses perception uncertainty into planning, keeps multiple hypotheses alive, and uses them to make robust decisions. It's meant to bridge the gap between research‑grade belief‑space planning and deployable robot software. Why I think this is interesting: Most open‑source robot controllers assume a known state or strip uncertainty for performance. Here the uncertainty is first‑class and everything runs on GPU to keep up with real‑time rates (100–200 Hz on a laptop with 20‑DOF arm). The whole system is modular Would love to hear thoughts,
-
-1h ago
+18h ago
 
 ---
 
@@ -118,25 +116,27 @@ CNBC • 2d ago
 
 ---
 
+**[Amazon just bought a startup making kid-size humanoid robots](https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/)**
+
+The acquisition of Fauna Robotics is the second robotics startup Amazon has purchased this month.
+
+TechCrunch • 2d ago
+
+---
+
+**[Video Friday: Beep! Beep! Roadrunner Bipedal Bot Breaks the Mold](https://spectrum.ieee.org/roadrunner-bipedal-robot)**
+
+Roadrunner moves in-line, on one wheel, or two to stay nimble and on the go. Plus NASA's SkyFall Mars helicopters and MoonFall mission are gearing up.
+
+IEEE Spectrum • 1d ago
+
+---
+
 **[This Robotics Stock Could Be the Next 10-Bagger on Wall Street](https://finance.yahoo.com/markets/stocks/articles/robotics-stock-could-next-10-194659067.html)**
 
 Serve Robotics could generate massive gains for its patient investors.
 
-Yahoo Finance • 22h ago
-
----
-
-**[Serve Robotics Has Pulled Back Hard -- Is Now the Time to Buy Before the Next Catalyst?](https://www.fool.com/investing/2026/03/27/serve-robotics-stock-pull-back-hard-time-buy/)**
-
-Serve Robotics stock is trading down more than 45% from its 52-week high.
-
-The Motley Fool • 1h ago
-
----
-
-**[Jim Cramer’s hottest robotics and physical AI stock picks](https://www.msn.com/en-us/money/markets/jim-cramer-s-hottest-robotics-and-physical-ai-stock-picks/ar-AA1ZxWxQ?ocid=finance-verthp-feeds)**
-
-MSN • 1h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -166,7 +166,7 @@ ABC7 Chicago • 2d ago
 
 Amazon has spent more than a decade automating its logistics network. The company has already deployed more than 1 million robots across its operations,
 
-PYMNTS.com • 20h ago
+PYMNTS.com • 21h ago
 
 ---
 
@@ -174,15 +174,15 @@ PYMNTS.com • 20h ago
 
 Electrofluidic Fiber Muscles are a new class of artificial muscle fibers for robots and wearables. By integrating charge-injection electrohydrodynamic (EHD) fi…
 
-MIT Media Lab • 1d ago
+media.mit.edu • 1d ago
 
 ---
 
-**[Raleigh students win state robotics title, advance to world championship](https://abc11.com/post/raleigh-students-win-state-robotics-title-advance-world-championship/18778624/)**
+**[30 Years Ago, Robots Learned to Walk Without Falling](https://spectrum.ieee.org/honda-p2-robot-ieee-milestone)**
 
-Four Raleigh middle schoolers are headed to the world stage after winning the top honor at this month's VEX IQ Robotics State Championship in Concord.
+How did Honda's P2 robot change the future of humanoid robotics?
 
-ABC11 Raleigh-Durham • 1d ago
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -196,17 +196,7 @@ Humanoid robots have been making appearances through social media, tv segments, 
 
 📺 NBC News
 
-👁️ 85K • 👍 506 • 💬 341 • ⏱️ 3:05 • 1d ago
-
----
-
-**[Maniac Melania Trump Suggests Replacing Teachers With Robots](https://www.youtube.com/watch?v=mpQYocsUpdg)**
-
-Melania Trump suggested using humanoid AI robots like a “Plato” educator to teach children, proposing a future where ...
-
-📺 Farron Balanced
-
-👁️ 31K • 👍 3K • 💬 746 • ⏱️ 5:10 • 22h ago
+👁️ 87K • 👍 509 • 💬 348 • ⏱️ 3:05 • 1d ago
 
 ---
 
@@ -216,7 +206,17 @@ This week in robotics got kind of ridiculous. South Korea showed off a humanoid 
 
 📺 AI Revolution
 
-👁️ 211K • 👍 2K • 💬 138 • ⏱️ 14:31 • 4d ago
+👁️ 213K • 👍 2K • 💬 136 • ⏱️ 14:31 • 4d ago
+
+---
+
+**[Maniac Melania Trump Suggests Replacing Teachers With Robots](https://www.youtube.com/watch?v=mpQYocsUpdg)**
+
+Melania Trump suggested using humanoid AI robots like a “Plato” educator to teach children, proposing a future where ...
+
+📺 Farron Balanced
+
+👁️ 32K • 👍 3K • 💬 757 • ⏱️ 5:10 • 23h ago
 
 ---
 
@@ -226,7 +226,7 @@ Thanks to Delete Me for sponsoring this video. To keep your private info private
 
 📺 Kim Java
 
-👁️ 120K • 👍 6K • 💬 277 • ⏱️ 20:00 • 3d ago
+👁️ 127K • 👍 6K • 💬 288 • ⏱️ 20:00 • 3d ago
 
 ---
 
@@ -236,7 +236,17 @@ A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White H
 
 📺 C-SPAN
 
-👁️ 181K • 👍 772 • 💬 1K • ⏱️ 2:59 • 2d ago
+👁️ 185K • 👍 790 • 💬 1K • ⏱️ 2:59 • 2d ago
+
+---
+
+**[China in Tears! Superpower Falls as TSMC CEO Exposes China’s Robot Lies—95% of Brain Made by TSMC](https://www.youtube.com/watch?v=mCUayp_OjTs)**
+
+On March 8, at the "Tomorrow's Walker" exhibit in Shanghai Science and Technology Museum, a robot performing unexpectedly ...
+
+📺 China Observer
+
+👁️ 63K • 👍 2K • 💬 387 • ⏱️ 15:22 • 1d ago
 
 ---
 
@@ -250,23 +260,13 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 ---
 
-**[China in Tears! Superpower Falls as TSMC CEO Exposes China’s Robot Lies—95% of Brain Made by TSMC](https://www.youtube.com/watch?v=mCUayp_OjTs)**
+**[Watch: Humanoid robot walks alongside first lady Melania Trump at White House](https://www.youtube.com/watch?v=X-NjEku-zE4)**
 
-On March 8, at the "Tomorrow's Walker" exhibit in Shanghai Science and Technology Museum, a robot performing unexpectedly ...
+Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
 
-📺 China Observer
+📺 CBS News
 
-👁️ 62K • 👍 2K • 💬 383 • ⏱️ 15:22 • 1d ago
-
----
-
-**[Melania Trump Goes OFF THE RAILS With Alarming Robot Teacher Announcement](https://www.youtube.com/watch?v=JsTKgM8fYUk)**
-
-Melania Trump sparks alarm over a White House event where she walked in with a robot and made an announcement about ...
-
-📺 The Damage Report
-
-👁️ 15K • 👍 804 • 💬 358 • ⏱️ 8:42 • 21h ago
+👁️ 33K • 👍 235 • 💬 263 • ⏱️ 9:54 • 1d ago
 
 ---
 
@@ -276,17 +276,17 @@ Melania Trump sparks alarm over a White House event where she walked in with a r
 
 📺 RAI Institute
 
-👁️ 430K • 👍 11K • 💬 1K • ⏱️ 1:34 • 4d ago
+👁️ 441K • 👍 11K • 💬 1K • ⏱️ 1:34 • 4d ago
 
 ---
 
-**[Watch: Humanoid robot walks alongside first lady Melania Trump at White House](https://www.youtube.com/watch?v=X-NjEku-zE4)**
+**[Melania Trump Goes OFF THE RAILS With Alarming Robot Teacher Announcement](https://www.youtube.com/watch?v=JsTKgM8fYUk)**
 
-Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
+Melania Trump sparks alarm over a White House event where she walked in with a robot and made an announcement about ...
 
-📺 CBS News
+📺 The Damage Report
 
-👁️ 32K • 👍 220 • 💬 260 • ⏱️ 9:54 • 1d ago
+👁️ 15K • 👍 825 • 💬 377 • ⏱️ 8:42 • 22h ago
 
 ---
 
