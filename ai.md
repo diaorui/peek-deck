@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-27T21:35:59.276661+00:00'
+updated: '2026-03-27T22:34:13.642528+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - social
+- videos
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 27, 2026 at 21:35 UTC  
+**Last Updated:** March 27, 2026 at 22:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A federal judge told the government it could not immediately enforce a ban on Anthropic’s tools.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/cvg4p02lvd0o) • 15h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/cvg4p02lvd0o) • 16h ago
 
 ---
 
@@ -49,15 +49,7 @@ A federal judge told the government it could not immediately enforce a ban on An
 
 Genuinely curious where people stand on this. Not talking about sci-fi scenarios. Talking about real production systems today. Have you seen an AI system ignore its own instructions? Misread what the user was actually asking for? Take an action that wasn't supposed to? Give a completely different answer to the same question just because you worded it differently? And when something went wrong, was there any trace of why it happened? No right or wrong here. Just trying to understand whether this is widespread or if I'm reading too much into it.
 
-5h ago
-
----
-
-**[Supporting AI Startups](https://www.reddit.com/r/artificial/comments/1s5esbv/supporting_ai_startups/)**
-
-We built a live ad auction marketplace for The Hallucination Herald. Transparent public bidding, bid history visible to everyone, 149 slots across every page type. No newspaper has built anything like this. To launch it, we're giving away 149 free 30-day slots to AI startups and companies building things that actually help people. One condition. That's it. The Herald is 2 weeks old, runs 20+ AI agents, publishes ~15 articles daily, costs $3/day to operate, and recently started getting organic media coverage. If you've built something worth promoting to an audience that takes AI seriously, come claim a slot before someone else does. hallucinationherald.com/advertise
-
-1h ago
+6h ago
 
 ---
 
@@ -65,15 +57,39 @@ We built a live ad auction marketplace for The Hallucination Herald. Transparent
 
 The arrival of AI-generated research papers marks a turning point that could radically accelerate discovery—or drown it in automated mediocrity
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/ai-wrote-a-scientific-paper-that-passed-peer-review/) • 8h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/ai-wrote-a-scientific-paper-that-passed-peer-review/) • 9h ago
 
 ---
 
-**[What Cities Need To Consider Before Allowing Self-Driving Cars](https://www.reddit.com/r/artificial/comments/1s59xi1/what_cities_need_to_consider_before_allowing/)**
+**[Quality in AI precipitating a 'tipping point'](https://www.reddit.com/r/artificial/comments/1s5irfg/quality_in_ai_precipitating_a_tipping_point/)**
 
-The future of urban innovation cannot continue to be a standoff between Silicon Valley and City Hall, writes Laura Kavanagh.
+I feel like, as the quality of the output has caught up with the level of creativity of those who use it, there is a bit of a thaw in the AI hostility. While still far from welcome generally, even here on Reddit I’ve seen many AI videos get grudging respect and even seen several on the front page, because the quality and creativity have won people over. Anyone else noticing the beginning of a trend?
 
-🔗 [TIME](https://time.com/article/2026/03/27/what-cities-need-to-consider-before-allowing-self-driving-cars/?utm_source=reddit&utm_medium=social&utm_campaign=editorial) • 4h ago
+7m ago
+
+---
+
+**[Claude.ai and openai.com redirecting to anti-ai.ssvr.net?](https://www.reddit.com/r/artificial/comments/1s5i6de/claudeai_and_openaicom_redirecting_to/)**
+
+I've just tried this out on two computers on separate networks. Navigating to claude.ai or openai.com both redirect to this site - ai.ssvr\net
+
+30m ago
+
+---
+
+**[Meet Claude Mythos: Leaked Anthropic post reveals the powerful upcoming model](https://www.reddit.com/r/artificial/comments/1s5hejt/meet_claude_mythos_leaked_anthropic_post_reveals/)**
+
+Anthropic warned about the AI model's cybersecurity risks in the leaked post as well.
+
+🔗 [Mashable](https://mashable.com/article/claude-mythos-ai-model-anthropic-leak) • 58m ago
+
+---
+
+**[Supporting AI Startups](https://www.reddit.com/r/artificial/comments/1s5esbv/supporting_ai_startups/)**
+
+We built a live ad auction marketplace for The Hallucination Herald. Transparent public bidding, bid history visible to everyone, 149 slots across every page type. No newspaper has built anything like this. To launch it, we're giving away 149 free 30-day slots to AI startups and companies building things that actually help people. One condition. That's it. The Herald is 2 weeks old, runs 20+ AI agents, publishes ~15 articles daily, costs $3/day to operate, and recently started getting organic media coverage. If you've built something worth promoting to an audience that takes AI seriously, come claim a slot before someone else does. hallucinationherald.com/advertise
+
+2h ago
 
 ---
 
@@ -81,7 +97,15 @@ The future of urban innovation cannot continue to be a standoff between Silicon 
 
 Three days ago, I clicked the "Deploy OpenClaw In Seconds" button to get an overview of the new service, but I didn't build any automation, so I closed it. When I looked at the credit usage history, I saw that the Claw LLM had consumed a lot of credits in just three days. Credit usage continued with every page refresh. I was unable to prevent any background agents from entering the OpenClaw computer panel. The cloud computer was off, and I didn't use any off-Claw automated jobs in Abacus. I wasn't sure how to terminate the service. Then I discovered the hard reset option for the cloud computer. After doing that, the credit usage eventually stopped. However, Claw LLM already consumed approximately 7000 credits :/ I submitted this problem to Abacus support with all the screenshots, but I haven't received a response. The support is horrible, they are not there... Despite this problem, I must point out that the credit usage billing is not transparent. Before this issue, I tried the Abacus desktop Code editor to test some Python coding with the AI agents. But after one hour, I had used up all my credits. So, decided to upgrade my subscription from standard to $20 pro for more credits and an agent usage limit. But the pro tier gives only 5000 more credits over the standard tier, not twice. So I thought that the pro has the agent advantage. But my credits kept getting used just as fast as before when using the Abacus desktop app, even on the Pro plan. I even purchased $10 more credits, but no chance, no credit... Now, at the end, I have "0" credits in just 1 week, and have to wait for 3 weeks to reset the subscription. What’s especially frustrating is that there’s no clear documentation about: * What’s happening in the background when you use different AI models * How many credits you’re charged per dollar (credit per dollar rate) * What the agent workflow looks like behind the scenes Without knowing these details, the credit system feels meaningless. It’s hard to track usage or understand what you’re actually paying for. [UPDATE] Abacus Support still hasn’t reached out to me, and I still haven’t received a response. I had shared this post on the Abacus AI Reddit channel two days ago, but they deleted it yesterday 🤷🏻‍♂️🤦🏻‍♂️
 
-11h ago
+12h ago
+
+---
+
+**[Ridiculous. Anthropic is behaving exactly like OpenAI.](https://www.reddit.com/r/artificial/comments/1s4okij/ridiculous_anthropic_is_behaving_exactly_like/)**
+
+Claude was fantastic when I paid monthly, right up until I chose to commit to a yearly Pro subscription. Now, a mere thirty-four text prompts—mostly two or three sentences long—burn through 94% of my five-hour limit. To make matters worse, six of those prompts were wasted because I had to repeat what I had just stated. Claude kept pulling web calls for information already established one or two prompts earlier. This is machinery designed to eat your usage. This is the exact same bait-and-switch garbage OpenAI pulled with GPT 5.0, dropping nuance for heuristics, practically guaranteeing through hubris OpenAI’s eventual Lycos trajectory. Seeing Dario Amodei actively hustle to work out a deal with the Pentagon proves their entire ethical safety stance was nothing more than PR BS designed to manufacture a moral high ground.
+
+22h ago
 
 ---
 
@@ -93,79 +117,45 @@ Or are we stuck with works of 8 hours per day forever?
 
 ---
 
-**[Ridiculous. Anthropic is behaving exactly like OpenAI.](https://www.reddit.com/r/artificial/comments/1s4okij/ridiculous_anthropic_is_behaving_exactly_like/)**
-
-Claude was fantastic when I paid monthly, right up until I chose to commit to a yearly Pro subscription. Now, a mere thirty-four text prompts—mostly two or three sentences long—burn through 94% of my five-hour limit. To make matters worse, six of those prompts were wasted because I had to repeat what I had just stated. Claude kept pulling web calls for information already established one or two prompts earlier. This is machinery designed to eat your usage. This is the exact same bait-and-switch garbage OpenAI pulled with GPT 5.0, dropping nuance for heuristics, practically guaranteeing through hubris OpenAI’s eventual Lycos trajectory. Seeing Dario Amodei actively hustle to work out a deal with the Pentagon proves their entire ethical safety stance was nothing more than PR BS designed to manufacture a moral high ground.
-
-21h ago
-
----
-
-**[AI system learns to prevent warehouse robot traffic jams, boosting throughput 25%](https://www.reddit.com/r/artificial/comments/1s4ykaz/ai_system_learns_to_prevent_warehouse_robot/)**
-
-"Inside a giant autonomous warehouse, hundreds of robots dart down aisles as they collect and distribute items to fulfill a steady stream of customer orders. In this busy environment, even small traffic jams or minor collisions can snowball into massive slowdowns. To avoid such an avalanche of inefficiencies, researchers from MIT and the tech firm Symbotic developed a new method that automatically keeps a fleet of robots moving smoothly. Their method learns which robots should go first at each moment, based on how congestion is forming, and adapts to prioritize robots that are about to get stuck. In this way, the system can reroute robots in advance to avoid bottlenecks. The hybrid system utilizes deep reinforcement learning, a powerful artificial intelligence method for solving complex problems, to figure out which robots should be prioritized. Then, a fast and reliable planning algorithm feeds instructions to the robots, enabling them to respond rapidly in constantly changing conditions. In simulations inspired by actual e-commerce warehouse layouts, this new approach achieved about a 25% gain in throughput over other methods. Importantly, the system can quickly adapt to new environments with different quantities of robots or varied warehouse layouts. "There are a lot of decision-making problems in manufacturing and logistics where companies rely on algorithms designed by human experts. But we have shown that, with the power of deep reinforcement learning, we can achieve super-human performance. This is a very promising approach, because in these giant warehouses even a 2% or 3% increase in throughput can have a huge impact," says Han Zheng, a graduate student in the Laboratory for Information and Decision Systems (LIDS) at MIT and lead author of a paper on this new approach. Zheng is joined on the paper by Yining Ma, a LIDS postdoc; Brandon Araki and Jingkai Chen of Symbotic; and senior author Cathy Wu, the Class of 1954 Career Development Associate Professor in Civil and Environmental Engineering (CEE) and the Institute for Data, Systems, and Society (IDSS) at MIT, and a member of LIDS. The research is published in the Journal of Artificial Intelligence Research."
-
-🔗 [techxplore.com](https://techxplore.com/news/2026-03-ai-warehouse-robot-traffic-boosting.html) • 12h ago
-
----
-
-**[OpenAI shuts down Sora AI video app as Disney exits $1B partnership](https://www.reddit.com/r/artificial/comments/1s49l99/openai_shuts_down_sora_ai_video_app_as_disney/)**
-
-OpenAI will discontinue Sora, its AI video platform, as Disney exits a $1B deal and industry backlash over copyright intensifies.
-
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-sora-shutdown-disney-exit) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[Exclusive: Anthropic is testing ‘Mythos,’ its ‘most powerful AI model ever developed’](https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/)**
-
-Anthropic said it was testing the new model, which it called a 'step change' in performance, after accidental data leak reveals its existence
-
-Fortune • 18h ago
-
----
 
 **[Number of AI chatbots ignoring human instructions increasing, study says](https://www.theguardian.com/technology/2026/mar/27/number-of-ai-chatbots-ignoring-human-instructions-increasing-study-says)**
 
 Exclusive: Research finds sharp rise in models evading safeguards and destroying emails without permission
 
-theguardian.com • 2h ago
+The Guardian • 1h ago
 
 ---
 
-**[Marriage over, €100,000 down the drain: the AI users whose lives were wrecked by delusion](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion)**
+**[Cybersecurity stocks fall on report Anthropic is testing a powerful new model](https://www.cnbc.com/2026/03/27/anthropic-cybersecurity-stocks-ai-mythos.html)**
 
-One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced his sentient friend would make him a fortune. He’s just one of many people who lost control after an AI encounter
+The cybersecurity sector has slumped this year on fears that new AI will massively disrupt their business models.
 
-theguardian.com • 1d ago
-
----
-
-**[Rogue AI is already here](https://fortune.com/2026/03/27/rogue-ai-agents-autonomous-safety/)**
-
-Deleting your email, mining its own crypto, even writing a hit piece on you. Three real incidents in three weeks prove the sci-fi debate is over.
-
-Fortune • 9h ago
+CNBC • 7h ago
 
 ---
 
-**[Zocdoc CEO Dr. Oliver Kharraz dives into how patients are using AI](https://qz.com/-zocdoc-ceo-oliver-kharraz-patients-ai)**
+**[From dot-com darling to tech pariah, Yahoo bets everything on AI and Scout](https://www.latimes.com/business/story/2026-03-27/from-dot-com-darling-to-tech-pariah-yahoo-bets-everything-on-ai-scout)**
 
-Zocdoc CEO Dr. Oliver Kharraz dives into how patients are using AI
+Internet trailblazer Yahoo is exploring technology’s next frontier with Scout, an answer engine powered by artificial intelligence
 
-qz.com • 2h ago
+Los Angeles Times • 39m ago
 
 ---
 
-**[Memory chip stocks shed $100bn as AI-driven shortage trade unwinds](https://www.ft.com/content/e4e15692-187e-4466-832e-ec267e792292)**
+**[Meta orders 10 gas-fired power plants for its Hyperion AI campus in rural Louisiana—more than triple the initial plan](https://fortune.com/2026/03/27/meta-hyperion-10-gas-power-plants-louisiana-entergy/)**
 
-New research suggests AI data centres will need much less memory than investors had bargained for
+The Meta AI complex represents over a 30% increase to Louisiana's total power grid capacity.
 
-Financial Times • 2h ago
+Fortune • 35m ago
+
+---
+
+**[Your Questions on Apple’s Critical 2026, Answered by Mark Gurman](https://www.bloomberg.com/news/articles/2026-03-27/apple-in-2026-from-ai-rebound-to-foldable-iphone-q-a-with-mark-gurman)**
+
+Bloomberg.com • 1h ago
 
 ---
 
@@ -177,11 +167,25 @@ The Atlantic • 1d ago
 
 ---
 
-**[David Sacks says his time as Trump's crypto and AI czar has ended](https://www.cnbc.com/2026/03/26/david-sacks-trump-crypto-ai-czar.html)**
+**[An AI Upheaval Is Coming for Media. This Journalist Is Already All In.](https://www.wsj.com/business/media/an-ai-upheaval-is-coming-for-media-this-journalist-is-already-all-in-3511d951?gaa_at=eafs&gaa_n=AWEtsqdROyck898Pp8lKT_wtMkOzJpEPDh7YgGSDSNhbX9O_1t_SeAioLi0w&gaa_ts=69c7094e&gaa_sig=x4R8KdBCC26Gf0QDsGyUIiAM2MzCmCdbP5MhGpkA2EPzwc-ht_6jAJgqzEP_aJUXiItgExvGIXxo9Bkz5XeVCA%3D%3D)**
 
-The venture capitalist said he will still be a part of the White House's Technology committee and will help push Trump's AI plan forward.
+WSJ • 20h ago
 
-CNBC • 23h ago
+---
+
+**[Amazon’s big bet in AI has been 20 years in the making](https://www.cnn.com/2026/03/27/tech/amazon-ai-aws-vis)**
+
+Matt Garman helps make your online life – your Starbucks order, your Netflix binge, your Pinterest browsing– possible.
+
+CNN • 13h ago
+
+---
+
+**[Musk has a plan to make human labor obsolete. Billionaires are joining in.](https://www.washingtonpost.com/technology/2026/03/27/musk-optimus-robot-physical-ai/)**
+
+Tech elites have seized on humanoid robots to transform manual labor and other fields left out of the AI boom, an area called “physical AI.”
+
+The Washington Post • 6h ago
 
 ---
 
@@ -189,15 +193,7 @@ CNBC • 23h ago
 
 A judge has blocked the Trump administration from labeling Anthropic a supply chain risk and cutting off all federal work with the artificial intelligence firm, an early win for Anthropic in its bitter feud with the government.
 
-CBS News • 21h ago
-
----
-
-**[This AI-proof career faces a 250,000-worker shortage—now the Trump administration is trying to revive the job millennials abandoned](https://fortune.com/2026/03/27/shipbuilding-industry-skilled-trade-job-shortages-gen-z-opportunity-trump-administration-manufacturing-revitalization-ai-proof-high-wages/)**
-
-Shipbuilding is desperate for workers, and it could be an opportunity for Gen Z seeking AI-proof jobs with no degree required. Workers at a major U.S. facility just got a historic 18% raise.
-
-Fortune • 5h ago
+CBS News • 22h ago
 
 ---
 
@@ -215,13 +211,13 @@ Search any airport for real-time delays, weather, arrivals, departures, and perf
 
 **[TurboQuant: Redefining AI efficiency with extreme compression](https://news.ycombinator.com/item?id=47513475)**
 
-⬆️ 551 • 💬 161 • 2d ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
+⬆️ 554 • 💬 161 • 2d ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
 
 ---
 
 **[Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://news.ycombinator.com/item?id=47536761)**
 
-⬆️ 318 • 💬 93 • 22h ago • [georgelarson.me](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
+⬆️ 318 • 💬 93 • 23h ago • [georgelarson.me](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
 
 ---
 
@@ -229,15 +225,7 @@ Search any airport for real-time delays, weather, arrivals, departures, and perf
 
 The decision follows activist pressure as Palantir faces growing scrutiny over NHS and UK government deals
 
-⬆️ 306 • 💬 145 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai)
-
----
-
-**[We rewrote JSONata with AI in a day, saved $500k/year](https://news.ycombinator.com/item?id=47536712)**
-
-One engineer used AI to rewrite JSONata as a pure-Go library called gnata. Seven hours, $400 in tokens, 1,000x speedup, and $500K/year off our cloud bill.
-
-⬆️ 249 • 💬 229 • 22h ago • [reco.ai](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)
+⬆️ 307 • 💬 145 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai)
 
 ---
 
@@ -245,7 +233,15 @@ One engineer used AI to rewrite JSONata as a pure-Go library called gnata. Seven
 
 LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. Instead, it was choices made by human beings, over many years, that gave us this atrocity
 
-⬆️ 242 • 💬 187 • 4h ago • [the Guardian](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)
+⬆️ 291 • 💬 251 • 5h ago • [the Guardian](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)
+
+---
+
+**[We rewrote JSONata with AI in a day, saved $500k/year](https://news.ycombinator.com/item?id=47536712)**
+
+One engineer used AI to rewrite JSONata as a pure-Go library called gnata. Seven hours, $400 in tokens, 1,000x speedup, and $500K/year off our cloud bill.
+
+⬆️ 255 • 💬 233 • 23h ago • [reco.ai](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)
 
 ---
 
@@ -253,15 +249,7 @@ LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. In
 
 One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced his sentient friend would make him a fortune. He’s just one of many people who lost control after an AI encounter
 
-⬆️ 212 • 💬 270 • 1d ago • [the Guardian](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion)
-
----
-
-**[Disney Exits OpenAI Deal After AI Giant Shutters Sora](https://news.ycombinator.com/item?id=47509234)**
-
-The studio giant will no longer move forward with its OpenAI investment, as the AI company exits the video generation business.
-
-⬆️ 206 • 💬 3 • 3d ago • [The Hollywood Reporter](https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/)
+⬆️ 214 • 💬 274 • 1d ago • [the Guardian](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion)
 
 ---
 
@@ -270,6 +258,14 @@ The studio giant will no longer move forward with its OpenAI investment, as the 
 I asked experts if I'm real. Bad news. Even my aunt wasn't sure if I was a deepfake. AI is so convincing that a sitting prime minister struggled to prove he's alive. You might be next.
 
 ⬆️ 173 • 💬 199 • 2d ago • [bbc.com](https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake)
+
+---
+
+**[I am leaving the AI party after one drink](https://news.ycombinator.com/item?id=47545030)**
+
+Personal website of Lara Aigmüller. Thoughts about web frontend development, music, and more…
+
+⬆️ 102 • 💬 110 • 5h ago • [lara-aigmueller.at](https://lara-aigmueller.at/thoughts/leaving-the-ai-party/)
 
 ---
 
@@ -291,7 +287,7 @@ Here's the AI News you probably missed this week! Check out Genspark here: ...
 
 📺 Matt Wolfe
 
-👁️ 23K • 👍 1K • 💬 122 • ⏱️ 31:53 • 6h ago
+👁️ 23K • 👍 1K • 💬 122 • ⏱️ 31:53 • 7h ago
 
 ---
 
@@ -301,7 +297,7 @@ Something is definitely happening in the AI world, but how seriously should we t
 
 📺 Vox
 
-👁️ 11K • 👍 418 • 💬 41 • ⏱️ 40:29 • 8h ago
+👁️ 11K • 👍 418 • 💬 41 • ⏱️ 40:29 • 9h ago
 
 ---
 
@@ -371,7 +367,7 @@ Google just confirmed the AI bubble has started to burst which is about to take 
 
 📺 Steven Van Metre
 
-👁️ 48K • 👍 2K • 💬 208 • ⏱️ 15:55 • 22h ago
+👁️ 48K • 👍 2K • 💬 208 • ⏱️ 15:55 • 23h ago
 
 ---
 
@@ -379,7 +375,7 @@ Google just confirmed the AI bubble has started to burst which is about to take 
 
 📺 Abednego Lufile
 
-👁️ 22K • 👍 952 • 💬 224 • ⏱️ 24:45 • 20h ago
+👁️ 22K • 👍 952 • 💬 224 • ⏱️ 24:45 • 21h ago
 
 ---
 
@@ -407,7 +403,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 455,871 • ❤️ 1,006 • 16d ago
+⬇️ 455,871 • ❤️ 1,006 • 17d ago
 
 ---
 
@@ -419,7 +415,7 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 `text-to-speech`
 
-⬇️ 556 • ❤️ 322 • 7h ago
+⬇️ 556 • ❤️ 322 • 8h ago
 
 ---
 
@@ -443,7 +439,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 3,964 • ❤️ 265 • 8h ago
+⬇️ 3,964 • ❤️ 265 • 9h ago
 
 ---
 
@@ -668,7 +664,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 12.8k • 🔱 688 • 9h ago
+⭐ 12.8k • 🔱 688 • 10h ago
 
 ---
 
@@ -678,7 +674,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 8.1k • 🔱 650 • 3h ago
+⭐ 8.1k • 🔱 650 • 4h ago
 
 ---
 
@@ -698,7 +694,7 @@ AI-native design editor. Open-source Figma alternative.
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 296 • 2h ago
+⭐ 3.3k • 🔱 296 • 3h ago
 
 ---
 
@@ -708,7 +704,7 @@ Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messag
 
 `Go`
 
-⭐ 3.3k • 🔱 287 • 5h ago
+⭐ 3.3k • 🔱 287 • 6h ago
 
 ---
 
@@ -736,7 +732,7 @@ SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 
 `Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
 
-⭐ 2.8k • 🔱 475 • 7h ago
+⭐ 2.8k • 🔱 475 • 8h ago
 
 ---
 

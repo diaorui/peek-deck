@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-27T21:35:59.294631+00:00'
+updated: '2026-03-27T22:34:13.660160+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 27, 2026 at 21:35 UTC  
+**Last Updated:** March 27, 2026 at 22:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hello everyone, I wanted to share my project that I've been working on for months. I've recycled two old 3D printers Anet A8 into a robotic arm. My main goal is to make a coffee with it. The motors and the electronic cards are from the printers. I've flashed them with Marlin and control them with python with a custom interface. I need to use 2 boards because I can only control independently 4 motors with one board. All the joints design are homemade, and 3d printed. The endeffector is a design from Makerworld u/user_2700759104 (I will build my own in the next days). There is a lot of backlash because of the planetary gears that I use. I plan to change them in the future. If anyone knows a reduction gear for Nema17 with minimum backlash I am all ears ! Thanks to the gear ratio, I've measured 2.9kg of force with the J2. List of components : Motors (J1->J6) : Nema17 Endeffector : Servo SG90 Boards : 2 Anet A8 + 1 Arduino Uno Reduction : J1 - 19:1 J2 - 51:1 J3 - 19:1 J4 - 19:1 J5 - 19:1 (90° 1:1) J6 - 1:1
 
-10h ago
+11h ago
 
 ---
 
@@ -44,13 +44,13 @@ Hello everyone, I wanted to share my project that I've been working on for month
 
 Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dataset From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2037440578275946551
 
-10h ago
+11h ago
 
 ---
 
 **[WANDER-Bot, a wind-powered robot designed for long-term exploration of hostile environments.](https://www.reddit.com/r/robotics/comments/1s59h0n/wanderbot_a_windpowered_robot_designed_for/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -58,21 +58,21 @@ Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dat
 
 I didn't use the T265; instead, I chose the RoboBaton mini to control the car's forward movement.I found the RoboBaton mini works well.Look the video !
 
-7h ago
+8h ago
 
 ---
 
 **[Demo of Agibot’s wheeled A2 depalleting](https://www.reddit.com/r/robotics/comments/1s4spdj/demo_of_agibots_wheeled_a2_depalleting/)**
 
-18h ago
+19h ago
 
 ---
 
-**[Robotics Competitions](https://www.reddit.com/r/robotics/comments/1s549vv/robotics_competitions/)**
+**[Robotics Vision interview](https://www.reddit.com/r/robotics/comments/1s5gzn7/robotics_vision_interview/)**
 
-Hi everyone, I'm a master's student in India currently studying Robotics. I came across ICRA 2026, and there were some competitions mentioned there. I'm interested in taking part in such competitions, but obviously they are at a world stage and require a lot of preparation and studying. Maybe I'll participate in one next year. What are some of the smaller competitions that are held in regional levels too.
+Already asked in the proper forums, to no avail. Hopefully someone can reply before I'm deleted lol. I have an interview at a well known company that uses assembly lines, to assemble components. The position is related to "Robotics Vision", cameras and sensors and such. I have a background in material handling equipment, with minor knowledge on cameras and sensors unrelated to automous robotics on this scale. My question is, what are some key items for me to be aware of in the space of Robotics Vision in order to land this job and more specifically the tech interview? I'm not looking for an entire study guide, just some relevant information related to the interview that I may be asked. I appreciate any and all help, if any!
 
-8h ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ Yeah, front flips. I know, I've seen a lot of "who cares," "useless flex," "why 
 
 This is the new and improved state of the driver board for my work in progress 6 axis 3D printed robot arm. ESP32 I2C Multiplexing - For encoder wiring 6 x DRV8825
 
-17h ago
+18h ago
 
 ---
 
@@ -96,13 +96,13 @@ This is the new and improved state of the driver board for my work in progress 6
 
 ROS News for the Week of March 23rd, 2026      The ROSCon Global 2026 call for sponsors is out. We also updated the website with additional venue information. 📣 If you are planning to submit a ROSCon work shop proposal the deadline is coming up quick, April 5th, to be exact!                On the event front ROSCon Croatia is scheduled for Monday and from what I hear is sold out! Over the weekend we have another Nigerian ROS meetup on deck, along with meetups in the Netherlands, German...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-march-23rd-2026/53588) • 2h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-march-23rd-2026/53588) • 3h ago
 
 ---
 
 **[Shared my firs model to Printables](https://www.reddit.com/r/robotics/comments/1s4oaut/shared_my_firs_model_to_printables/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -110,11 +110,11 @@ ROS News for the Week of March 23rd, 2026      The ROSCon Global 2026 call for s
 
 ## Google News: "robotics"
 
-**[Amazon acquires 'approachable' humanoid maker Fauna Robotics](https://www.cnbc.com/2026/03/24/amazon-humanoid-maker-fauna-robotics-sprout.html)**
+**[Meet Figure AI: The company behind the humanoid robot hosted by Melania Trump](https://www.cnbc.com/2026/03/26/figure-ai-the-robotics-company-hosted-by-melania-trump.html)**
 
-Fauna's first product, called Sprout, is a $50,000 bipedal robot that's 3 feet, 6 inches tall and designed to be "approachable and human-friendly."
+The White House hosted its first humanoid robot guest, with first lady Melania Trump appearing alongside a robot from startup Figure AI.
 
-CNBC • 3d ago
+CNBC • 1d ago
 
 ---
 
@@ -126,11 +126,25 @@ TechCrunch • 2d ago
 
 ---
 
-**[China's humanoid robot blinks and emotes during conversations](https://interestingengineering.com/ai-robotics/lifelike-humanoid-robot-sparks-debate)**
+**[Amazon Is Entering the Humanoid Robot Market. 3 Important Things to Know About the Fauna Robotics Acquisition.](https://www.fool.com/investing/2026/03/25/amazon-is-entering-the-humanoid-robot-market-3-imp/)**
 
-China’s robotics industry is shifting toward hyperrealistic humanoid faces, focusing on emotional interaction and social acceptance.
+Amazon is gearing up to become a much bigger player in robotics.
 
-Interesting Engineering • 1d ago
+The Motley Fool • 1d ago
+
+---
+
+**[Amazon acquires 'approachable' humanoid maker Fauna Robotics](https://www.cnbc.com/2026/03/24/amazon-humanoid-maker-fauna-robotics-sprout.html)**
+
+Fauna's first product, called Sprout, is a $50,000 bipedal robot that's 3 feet, 6 inches tall and designed to be "approachable and human-friendly."
+
+CNBC • 3d ago
+
+---
+
+**[AI Robotics Lab in Talks to Raise $1 Billion at $11 Billion Valuation](https://www.bloomberg.com/news/articles/2026-03-27/ex-deepmind-staffers-robotics-startup-in-talks-for-11-billion-valuation)**
+
+Bloomberg.com • 1h ago
 
 ---
 
@@ -142,12 +156,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[US lawmakers to introduce bill to ban government use of Chinese robots](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/)**
-
-Reuters • 1d ago
-
----
-
 **[Delivery robots smash Chicago bus shelters in two separate incidents](https://www.upi.com/Odd_News/2026/03/26/Chicago-delivery-robots-bus-shelters/4041774539291/)**
 
 Two delivery robots crashed into two bus shelters in Chicago within a matter of days -- and one of the incidents was caught on camera.
@@ -156,27 +164,17 @@ upi.com • 1d ago
 
 ---
 
-**[2 food delivery robots with Serve Robotics, Coco Robotics crash into CTA bus shelters days apart; 1 incident caught on camera](https://abc7chicago.com/post/video-shows-serve-robotics-delivery-robot-crash-cta-bus-shelter-racine-outside-centre-construction-group-west-town/18763333/)**
+**[US lawmakers to introduce bill to ban government use of Chinese robots](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/)**
 
-Surveillance footage captured one of at least two food delivery robot crashes into CTA bus shelters.
-
-ABC7 Chicago • 2d ago
+Reuters • 1d ago
 
 ---
 
-**[Amazon Eyes Delivery Robots as MIT Tackles Warehouse Bottlenecks](https://www.pymnts.com/amazon/2026/amazon-eyes-delivery-robots-as-mit-tackles-warehouse-bottlenecks/)**
+**[Wristband enables wearers to control a robotic hand with their own movements](https://news.mit.edu/2026/wristband-enables-wearers-control-robotic-hand-with-own-movements-0325)**
 
-Amazon has spent more than a decade automating its logistics network. The company has already deployed more than 1 million robots across its operations,
+MIT engineers designed an ultrasound wristband that precisely tracks a wearer’s hand movements in real time and communicates the information to a robot or a virtual environment.
 
-PYMNTS.com • 23h ago
-
----
-
-**[Project Overview ‹ Electrofluidic Fiber Muscles (Science Robotics)](https://www.media.mit.edu/projects/electrofluidicmuscle/overview/)**
-
-Electrofluidic Fiber Muscles are a new class of artificial muscle fibers for robots and wearables. By integrating charge-injection electrohydrodynamic (EHD) fi…
-
-MIT Media Lab • 2d ago
+MIT News • 2d ago
 
 ---
 
@@ -184,7 +182,7 @@ MIT Media Lab • 2d ago
 
 How did Honda's P2 robot change the future of humanoid robotics?
 
-IEEE Spectrum • 2d ago
+IEEE Spectrum • 6h ago
 
 ---
 
@@ -208,7 +206,7 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCkouj
 
 📺 Shawn Ryan Show
 
-👁️ 12K • 👍 796 • 💬 267 • ⏱️ 6:32 • 4h ago
+👁️ 12K • 👍 796 • 💬 267 • ⏱️ 6:32 • 5h ago
 
 ---
 
@@ -238,7 +236,7 @@ Robotic Fingers Beat Human Hands! This clip shows a highly advanced robotic hand
 
 📺 Nerb Films
 
-👁️ 7K • 💬 10 • ⏱️ 0:12 • 7h ago
+👁️ 7K • 💬 10 • ⏱️ 0:12 • 8h ago
 
 ---
 
