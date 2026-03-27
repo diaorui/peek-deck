@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-27T15:54:55.190280+00:00'
+updated: '2026-03-27T16:57:13.518289+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 27, 2026 at 15:54 UTC  
+**Last Updated:** March 27, 2026 at 16:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hello everyone, I wanted to share my project that I've been working on for months. I've recycled two old 3D printers Anet A8 into a robotic arm. My main goal is to make a coffee with it. The motors and the electronic cards are from the printers. I've flashed them with Marlin and control them with python with a custom interface. I need to use 2 boards because I can only control independently 4 motors with one board. All the joints design are homemade, and 3d printed. The endeffector is a design from Makerworld u/user_2700759104 (I will build my own in the next days). There is a lot of backlash because of the planetary gears that I use. I plan to change them in the future. If anyone knows a reduction gear for Nema17 with minimum backlash I am all ears ! Thanks to the gear ratio, I've measured 2.9kg of force with the J2. List of components : Motors (J1->J6) : Nema17 Endeffector : Servo SG90 Boards : 2 Anet A8 + 1 Arduino Uno Reduction : J1 - 19:1 J2 - 51:1 J3 - 19:1 J4 - 19:1 J5 - 19:1 (90° 1:1) J6 - 1:1
 
-4h ago
+5h ago
 
 ---
 
@@ -44,7 +44,7 @@ Hello everyone, I wanted to share my project that I've been working on for month
 
 Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dataset From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2037440578275946551
 
-4h ago
+5h ago
 
 ---
 
@@ -52,13 +52,21 @@ Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dat
 
 I didn't use the T265; instead, I chose the RoboBaton mini to control the car's forward movement.I found the RoboBaton mini works well.Look the video !
 
-1h ago
+2h ago
 
 ---
 
 **[Demo of Agibot’s wheeled A2 depalleting](https://www.reddit.com/r/robotics/comments/1s4spdj/demo_of_agibots_wheeled_a2_depalleting/)**
 
-12h ago
+13h ago
+
+---
+
+**[Robotics Competitions](https://www.reddit.com/r/robotics/comments/1s549vv/robotics_competitions/)**
+
+Hi everyone, I'm a master's student in India currently studying Robotics. I came across ICRA 2026, and there were some competitions mentioned there. I'm interested in taking part in such competitions, but obviously they are at a world stage and require a lot of preparation and studying. Maybe I'll participate in one next year. What are some of the smaller competitions that are held in regional levels too.
+
+3h ago
 
 ---
 
@@ -70,37 +78,31 @@ Yeah, front flips. I know, I've seen a lot of "who cares," "useless flex," "why 
 
 ---
 
-**[Robotics Competitions](https://www.reddit.com/r/robotics/comments/1s549vv/robotics_competitions/)**
-
-Hi everyone, I'm a master's student in India currently studying Robotics. I came across ICRA 2026, and there were some competitions mentioned there. I'm interested in taking part in such competitions, but obviously they are at a world stage and require a lot of preparation and studying. Maybe I'll participate in one next year. What are some of the smaller competitions that are held in regional levels too.
-
-2h ago
-
----
-
 **[Driver board for my 6 Axis Robot (WIP)](https://www.reddit.com/r/robotics/comments/1s4tvj6/driver_board_for_my_6_axis_robot_wip/)**
 
 This is the new and improved state of the driver board for my work in progress 6 axis 3D printed robot arm. ESP32 I2C Multiplexing - For encoder wiring 6 x DRV8825
 
-11h ago
+12h ago
 
 ---
 
 **[Shared my firs model to Printables](https://www.reddit.com/r/robotics/comments/1s4oaut/shared_my_firs_model_to_printables/)**
 
-15h ago
+16h ago
 
 ---
 
-**[Meta is hosting an AI Hackathon (OpenEnv) - direct interview opportunity + $30k prizes](https://www.reddit.com/r/robotics/comments/1s4zz0q/meta_is_hosting_an_ai_hackathon_openenv_direct/)**
+**[WANDER-Bot, a wind-powered robot designed for long-term exploration of hostile environments.](https://www.reddit.com/r/robotics/comments/1s59h0n/wanderbot_a_windpowered_robot_designed_for/)**
 
-5h ago
+13m ago
 
 ---
 
-**[This Is How You Beat the Biggest Big Wheeled Bot](https://www.reddit.com/r/robotics/comments/1s4demt/this_is_how_you_beat_the_biggest_big_wheeled_bot/)**
+**[Built a ROS2 GPU‑accelerated robot brain that never collapses uncertainty continuous belief fields + safety.](https://www.reddit.com/r/robotics/comments/1s593wo/built_a_ros2_gpuaccelerated_robot_brain_that/)**
 
-22h ago
+I've been working on a ROS2 framework that treats a robot's state as a continuous probability field instead of a point estimate. It uses: Ensemble Kalman Filter (EnKF) maintains uncertainty online, 100+ particles on GPU Vectorized CEM – action selection by optimizing expected Q‑value over the belief, fully batched Probabilistic latent dynamics – learns to predict next state with uncertainty CBF safety – joint limits + obstacle avoidance, analytic Jacobians (Pinocchio), warm‑started OSQP LiDAR fusion – neural point cloud encoder feeds directly into the belief All inside lifecycle‑managed ROS2 nodes – ready for real robots The stack fuses perception uncertainty into planning, keeps multiple hypotheses alive, and uses them to make robust decisions. It's meant to bridge the gap between research‑grade belief‑space planning and deployable robot software. Why I think this is interesting: Most open‑source robot controllers assume a known state or strip uncertainty for performance. Here the uncertainty is first‑class and everything runs on GPU to keep up with real‑time rates (100–200 Hz on a laptop with 20‑DOF arm). The whole system is modular Would love to hear thoughts,
+
+26m ago
 
 ---
 
@@ -116,33 +118,31 @@ CNBC • 2d ago
 
 ---
 
-**[Agile humanoid robots with Google brain to undergo industrial testing](https://interestingengineering.com/ai-robotics/agile-deepmind-industrial-humanoid-robots)**
-
-A robotics collaboration will combine AI models with industrial robots to improve automation through real-world deployment and training.
-
-Interesting Engineering • 4h ago
-
----
-
-**[Toyota Deploys 7 Humanoid Robots In A Canadian Factory — But Mark Cuban Says The Current Humanoid Robot Push Could Fail Within 5-10 Years](https://finance.yahoo.com/sectors/technology/articles/toyota-deploys-7-humanoid-robots-141613877.html)**
-
-Toyota Motor (NYSE:TM) is moving humanoid robots onto a factory floor in Canada. At the same time, billionaire entrepreneur Mark Cuban is openly questioning whether the entire idea has staying power. The contrast is hard to ignore. One of the world's largest automakers is scaling up real-world use, while a longtime tech investor is warning the trend could burn out within a decade. Toyota puts humanoid robots to work after a successful trial Last month, Agility Robotics said in a statement that T
-
-Yahoo Finance • 3d ago
-
----
-
 **[This Robotics Stock Could Be the Next 10-Bagger on Wall Street](https://finance.yahoo.com/markets/stocks/articles/robotics-stock-could-next-10-194659067.html)**
 
 Serve Robotics could generate massive gains for its patient investors.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
+
+---
+
+**[Serve Robotics Has Pulled Back Hard -- Is Now the Time to Buy Before the Next Catalyst?](https://www.fool.com/investing/2026/03/27/serve-robotics-stock-pull-back-hard-time-buy/)**
+
+Serve Robotics stock is trading down more than 45% from its 52-week high.
+
+The Motley Fool • 16m ago
+
+---
+
+**[Jim Cramer’s hottest robotics and physical AI stock picks](https://www.msn.com/en-us/money/markets/jim-cramer-s-hottest-robotics-and-physical-ai-stock-picks/ar-AA1ZxWxQ?ocid=finance-verthp-feeds)**
+
+MSN • 54m ago
 
 ---
 
 **[US lawmakers to introduce bill to ban government use of Chinese robots](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/)**
 
-Reuters • 23h ago
+Reuters • 1d ago
 
 ---
 
@@ -166,7 +166,7 @@ ABC7 Chicago • 2d ago
 
 Amazon has spent more than a decade automating its logistics network. The company has already deployed more than 1 million robots across its operations,
 
-PYMNTS.com • 18h ago
+PYMNTS.com • 19h ago
 
 ---
 
@@ -178,9 +178,11 @@ MIT Media Lab • 1d ago
 
 ---
 
-**[OpenAI inks 202,000-square-foot East Bay lease in Richmond - San Francisco Business Times](https://www.bizjournals.com/sanfrancisco/news/2026/03/26/openai-robotics-richmond-ford-point.html)**
+**[Raleigh students win state robotics title, advance to world championship](https://abc11.com/post/raleigh-students-win-state-robotics-title-advance-world-championship/18778624/)**
 
-The Business Journals • 19h ago
+Four Raleigh middle schoolers are headed to the world stage after winning the top honor at this month's VEX IQ Robotics State Championship in Concord.
+
+ABC11 Raleigh-Durham • 1d ago
 
 ---
 
@@ -204,7 +206,7 @@ Melania Trump suggested using humanoid AI robots like a “Plato” educator to 
 
 📺 Farron Balanced
 
-👁️ 31K • 👍 3K • 💬 746 • ⏱️ 5:10 • 20h ago
+👁️ 31K • 👍 3K • 💬 746 • ⏱️ 5:10 • 21h ago
 
 ---
 
@@ -264,7 +266,7 @@ Melania Trump sparks alarm over a White House event where she walked in with a r
 
 📺 The Damage Report
 
-👁️ 15K • 👍 804 • 💬 358 • ⏱️ 8:42 • 19h ago
+👁️ 15K • 👍 804 • 💬 358 • ⏱️ 8:42 • 20h ago
 
 ---
 

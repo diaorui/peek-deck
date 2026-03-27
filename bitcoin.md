@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-27T15:54:55.180375+00:00'
+updated: '2026-03-27T16:57:13.508888+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 27, 2026 at 15:54 UTC  
+**Last Updated:** March 27, 2026 at 16:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,214.97
+### $65,972.25
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.9%  
-**7d:** -3.6%  
-**30d:** -1.8%  
-**90d:** -24.5%  
-**1y:** -21.5%  
+**24h:** -3.8%  
+**7d:** -4.1%  
+**30d:** -2.3%  
+**90d:** -24.8%  
+**1y:** -21.9%  
 
 ---
 
@@ -81,23 +81,7 @@ Rank #1
 
 I honestly never thought I'd get this chance again, this is so awesome. Pulling more and more savings over to grab more. I should be a half-coiner soon. Yes!
 
-3h ago
-
----
-
-**[2014 hodler's thoughts](https://www.reddit.com/r/Bitcoin/comments/1s5674g/2014_hodlers_thoughts/)**
-
-Each paycheck is now worth ~0.19% of my total sats. I have been in the space a bit. I am a little dead inside due to "same shit different day" mentality in this space. The price is getting smaller. I see the typical calls for people to hodl on or jump in or increase DCA. Quality memes are nowhere to be found. It reminds me of past bear cycles. What helps me during times like this is to remember the fundamentals. Nothing has changed. Blocks are still being solved about every 10 minutes. Code is still being written. Proposals are still being discussed/modified/dropped/fought over. Bitcoin is still based on real-world resources. People are still saying that bitcoin is dead/dying/ponzi scheme. People I know that make 3-5x my salary still think it is only used to wash dirty money. I have no grand secret or huge life lesson for you, simply because bitcoin is boring (also its most important feature). The messaging is always the same. Adopt a low time preference. I hope it helps some of the newer hodlers here who are planning to stay. The panic and self-doubt you feel will pass. And you will do it again, and it will pass again and so on. P.S. Do not leverage trade to try and catch up.
-
-1h ago
-
----
-
-**[crazy to think about those early bitcoin tips from the pioneers](https://www.reddit.com/r/Bitcoin/comments/1s4yqx5/crazy_to_think_about_those_early_bitcoin_tips/)**
-
-been diving deep into old reddit threads lately and stumbled across some wild stuff from way back when bitcoin was just getting started. found this account from one of the original developers and their final post was literally giving away an entire bitcoin like it was pocket change scrolling through those ancient conversations is mind blowing. most of these usernames probably dont even remember their passwords anymore. makes me wonder what the biggest single tip anyone here has actually witnessed on reddit was anyway found this quote buried in there that stuck with me about how buying stuff just gives you temporary happiness but experiences stick with you forever. pretty solid wisdom from someone who was building the future we're living in now
-
-6h ago
+4h ago
 
 ---
 
@@ -105,7 +89,23 @@ been diving deep into old reddit threads lately and stumbled across some wild st
 
 Onramp's Brian Cubellis also point out the difference between the latent demand for IBIT vs what he expects will be active solicitation from Morgan Stanley to their clients.
 
-25m ago
+1h ago
+
+---
+
+**[2014 hodler's thoughts](https://www.reddit.com/r/Bitcoin/comments/1s5674g/2014_hodlers_thoughts/)**
+
+Each paycheck is now worth ~0.19% of my total sats. I have been in the space a bit. I am a little dead inside due to "same shit different day" mentality in this space. The price is getting smaller. I see the typical calls for people to hodl on or jump in or increase DCA. Quality memes are nowhere to be found. It reminds me of past bear cycles. What helps me during times like this is to remember the fundamentals. Nothing has changed. Blocks are still being solved about every 10 minutes. Code is still being written. Proposals are still being discussed/modified/dropped/fought over. Bitcoin is still based on real-world resources. People are still saying that bitcoin is dead/dying/ponzi scheme. People I know that make 3-5x my salary still think it is only used to wash dirty money. I have no grand secret or huge life lesson for you, simply because bitcoin is boring (also its most important feature). The messaging is always the same. Adopt a low time preference. I hope it helps some of the newer hodlers here who are planning to stay. The panic and self-doubt you feel will pass. And you will do it again, and it will pass again and so on. P.S. Do not leverage trade to try and catch up.
+
+2h ago
+
+---
+
+**[crazy to think about those early bitcoin tips from the pioneers](https://www.reddit.com/r/Bitcoin/comments/1s4yqx5/crazy_to_think_about_those_early_bitcoin_tips/)**
+
+been diving deep into old reddit threads lately and stumbled across some wild stuff from way back when bitcoin was just getting started. found this account from one of the original developers and their final post was literally giving away an entire bitcoin like it was pocket change scrolling through those ancient conversations is mind blowing. most of these usernames probably dont even remember their passwords anymore. makes me wonder what the biggest single tip anyone here has actually witnessed on reddit was anyway found this quote buried in there that stuck with me about how buying stuff just gives you temporary happiness but experiences stick with you forever. pretty solid wisdom from someone who was building the future we're living in now
+
+8h ago
 
 ---
 
@@ -113,7 +113,7 @@ Onramp's Brian Cubellis also point out the difference between the latent demand 
 
 back in september i got absolutely wrecked playing with margin trading like an idiot and lost way more than i should have but crying about it wont bring my money back so whatever my strategy now is just plain old dollar cost averaging and holding for the long haul bitcoin crashing means i can stack more sats so ive bumped up my weekly buys from 30 to 75 bucks these lower prices are basically a gift if you think about it long term
 
-9h ago
+10h ago
 
 ---
 
@@ -121,7 +121,7 @@ back in september i got absolutely wrecked playing with margin trading like an i
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/3H5KnK8PZM0) • 1h ago
+🔗 [youtu.be](https://youtu.be/3H5KnK8PZM0) • 2h ago
 
 ---
 
@@ -129,7 +129,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 so i've been getting these random coinbase notifications for months and finally decided to check what was going on. remembered i had maybe like 7 bucks sitting there from way back when i bought something online that required bitcoin logged into my account expecting to see basically nothing and there's over 2400 sitting there. took me a minute to process what i was looking at did some digging and apparently that leftover change was from late 2015 when i made some random purchase. crazy how that small amount just sat there growing now i'm kicking myself thinking about what would've happened if i had been putting even 10 bucks aside every couple weeks since then. the math is pretty wild when you run those numbers probably gonna leave it alone and see where it goes from here. not really planning to touch it anytime soon
 
-1h ago
+2h ago
 
 ---
 
@@ -137,7 +137,7 @@ so i've been getting these random coinbase notifications for months and finally 
 
 Hey everyone, just wanted to share some thoughts as someone whos been watching this space for a while First off - if youre not planning to hold for at least 3-4 years, maybe reconsider your strategy. This isnt a get rich quick thing Second - stop refreshing coinbase every hour lol. I used to do this and it was driving me insane. Now I check maybe twice a week and my mental health is way better Third - dont let every twitter thread or news article send you into panic mode. Most of it is just noise anyway Look, as long as you only put in what you can actually afford to lose and youre thinking long term, youll probably be fine. If you went too hard and used money you needed for bills or whatever, that sucks but try to learn from it Everything feels chaotic right now but thats just how markets work sometimes. Stay calm and dont make emotional decisions when youre stressed
 
-13h ago
+14h ago
 
 ---
 
@@ -145,7 +145,7 @@ Hey everyone, just wanted to share some thoughts as someone whos been watching t
 
 so its become pretty clear that the banks have too much politcal power, and the new legislation is not going to allow stable coins to issue rewards. while i get that this slows the crypto industry as a whole... its kind of a nothing burger for bitcoin right? maybe even a positive.
 
-5h ago
+6h ago
 
 ---
 
@@ -153,7 +153,7 @@ so its become pretty clear that the banks have too much politcal power, and the 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-9h ago
+10h ago
 
 ---
 
@@ -165,71 +165,73 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Ukraine’s disruption of Russian oil flows has added fresh uncertainty to already strained energy markets, complicating inflation outlooks and keeping pressure on risk assets including bitcoin.
 
-CoinDesk • 9h ago
-
----
-
-**[MARA Holdings Stock Jumps. It’s Selling Bitcoin to Fund Its AI Ambitions.](https://www.barrons.com/articles/mara-stock-price-bitcoin-ai-1feed581?gaa_at=eafs&gaa_n=AWEtsqdmAcH8I2Vn9bBo9tsH9ZjKtAJ06m7rIcWLTRFCcSnAslu2XmE5UFHL&gaa_ts=69c6abba&gaa_sig=-KQufnvxU2bmbFWQS5PTIDoa82AqpnXSiz9qSZcHYOR0SGnmPE7bUab4fTesvcUvhP_xmhxBVo1RaYGjDBsPgw%3D%3D)**
-
-Barron's • 20h ago
-
----
-
-**[MARA Is Up 5% While Bitcoin Falls: What’s Driving the Divergence?](https://finance.yahoo.com/markets/stocks/articles/mara-5-while-bitcoin-falls-130100207.html)**
-
-Marathon Digital Holdings (NASDAQ:MARA) stock is up 6% in Thursday morning trading even though Bitcoin (CRYPTO:BTC) declined 2.83% over the past 24 hours to less than $69,400. Since MARA is a high-beta stock that has historically moved in near-lockstep with cryptocurrency prices, this divergence deserves a closer look. No single confirmed company-specific catalyst has been identified ... MARA Is Up 5% While Bitcoin Falls: What’s Driving the Divergence?
-
-Yahoo Finance • 1d ago
-
----
-
-**[MARA sells 15,133 bitcoin for $1.1 billion to fund convertible note repurchase](https://www.theblock.co/post/395276/mara-sells-15133-bitcoin-for-1-1-billion-to-fund-convertible-note-repurchase)**
-
-MARA sold 15,133 bitcoin for $1.1 billion to repurchase $1 billion in convertible notes, cutting debt 30%.
-
-The Block • 1d ago
-
----
-
-**[Prediction: Ethereum Will Outperform Bitcoin Over the Next 3 Years](https://www.fool.com/investing/2026/03/27/prediction-ethereum-will-outperform-bitcoin-over-t/)**
-
-The top altcoin still has a bright future.
-
-The Motley Fool • 1h ago
+CoinDesk • 10h ago
 
 ---
 
 **[Bitcoin Skids, $14 Bil. In Options Due; Cathie Wood Raises Cash](https://www.investors.com/news/bitcoin-price-options-expire-14-billion-liquidations-cathie-wood-ark-invest/)**
 
-Investor's Business Daily • 1h ago
+Investor's Business Daily • 53m ago
 
 ---
 
-**[$171M pulled from bitcoin ETFs: is institutional demand cooling?](https://finance.yahoo.com/video/171m-pulled-bitcoin-etfs-institutional-141548385.html)**
+**[Cathie Wood's Ark Invest Dumps Meta, Nvidia and Bitcoin ETF Shares in Major Tech Sell-Off](https://finance.yahoo.com/markets/stocks/articles/cathie-woods-ark-invest-dumps-151848814.html)**
 
-U.S. spot bitcoin ETFs recorded $171 million in outflows on Thursday, the biggest single-day withdrawal since early March. Is this a sign that institutional demand is cooling amid ongoing macro pressure? CoinDesk's Jennifer Sanasie reports on CoinDesk Daily.
+Cathie Wood's Ark Invest sold big chunks of its positions in American tech stocks and its own Bitcoin ETF as stocks and crypto slide.
 
 Yahoo Finance • 1h ago
 
 ---
 
+**[Forget Bitcoin: This Crypto Is the Smarter Buy Right Now](https://www.fool.com/investing/2026/03/27/forget-bitcoin-this-crypto-is-the-smarter-buy-righ/)**
+
+Solana could generate bigger near-term gains than the top cryptocurrency.
+
+The Motley Fool • 16m ago
+
+---
+
+**[Early bitcoin whale sends another $33 million to Binance, extending long-running exchange deposits](https://www.theblock.co/post/395490/early-bitcoin-whale-sends-33-million-binance-extending-long-running-exchange-deposits)**
+
+An OG bitcoin whale has sent another $33 million worth of BTC to Binance as a possible selling spree continues amid market pressure.
+
+The Block • 2h ago
+
+---
+
 **[Bitcoin Faces $14 Billion Options Expiry While Middle East Turmoil Mounts](https://www.bloomberg.com/news/articles/2026-03-26/bitcoin-faces-14-billion-options-expiry-while-middle-east-turmoil-mounts)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
 **[5 long, loud years: Neighbor, county leader ready for Bitcoin mine shutdown](https://www.wjhl.com/news/local/5-long-loud-years-neighbor-county-leader-ready-for-bitcoin-mine-shutdown/)**
 
-WJHL • 16h ago
+WJHL • 17h ago
 
 ---
 
-**[GameStop didn't sell $324 million worth of bitcoin in January, filing shows](https://www.theblock.co/post/395406/gamestop-didnt-sell-bitcoin)**
+**[The End Of Bitcoin Will Be Its New Beginning (Cryptocurrency: BTC-USD)](https://seekingalpha.com/article/4886535-the-end-of-bitcoin-will-be-its-new-beginning)**
 
-GameStop's latest 10-K filing shows that it did not sell 4,709 BTC it acquired last year, but pledged it as collateral with Coinbase Credit.
+Bitcoin is no longer driven by scarcity-based models; its price now tracks demand dynamics and correlates with high-beta tech indices. Learn more about BTC-USD here.
 
-The Block • 13h ago
+Seeking Alpha • 5h ago
+
+---
+
+**[Bitcoin (BTC) price news: Trump extends Iran strike pause, trimming price decline](https://www.coindesk.com/markets/2026/03/26/crypto-edges-off-of-worst-levels-after-trump-extends-iran-strike-pause)**
+
+It was an ugly day all around in markets as the Iran war has sent oil prices and bond yields surging higher.
+
+CoinDesk • 19h ago
+
+---
+
+**[Bitcoin, Ethereum Slip as Trump Says He's 'Not Desperate' to End Iran War](https://decrypt.co/362516/bitcoin-ethereum-slip-as-trump-says-hes-not-desperate-to-end-iran-war)**
+
+Bitcoin fell alongside stocks as investors weighed conflicting accounts regarding Iran’s willingness to end conflict in the Middle East.
+
+Decrypt • 20h ago
 
 ---
 
@@ -255,7 +257,7 @@ Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes
 
 **[MineGuard – Autonomous Bitcoin mining fleet manager, Karpathy-loop optimization](https://news.ycombinator.com/item?id=47538096)**
 
-⬆️ 1 • 💬 0 • 14h ago • [github.com](https://github.com/enriquevazquezusa/mineguard)
+⬆️ 1 • 💬 0 • 15h ago • [github.com](https://github.com/enriquevazquezusa/mineguard)
 
 ---
 
@@ -269,7 +271,7 @@ Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 3
 
 **[Show HN: Lexe – Self-Custodial Lightning Nodes in TEEs, Python and Rust SDKs](https://news.ycombinator.com/item?id=47532761)**
 
-⬆️ 4 • 💬 1 • 23h ago • [blog.lexe.app](https://blog.lexe.app/public-launch/)
+⬆️ 4 • 💬 1 • 1d ago • [blog.lexe.app](https://blog.lexe.app/public-launch/)
 
 ---
 
@@ -277,7 +279,7 @@ Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 3
 
 A collection of reasons to hate on AI
 
-⬆️ 5 • 💬 0 • 17h ago • [lonami.dev](https://lonami.dev/blog/ditching-github/)
+⬆️ 5 • 💬 0 • 18h ago • [lonami.dev](https://lonami.dev/blog/ditching-github/)
 
 ---
 
@@ -291,7 +293,7 @@ Bitcoin #Crypto #Finance Bitcoin has dropped sharply toward the $66K level as ma
 
 📺 The Wolf Of All Streets
 
-👁️ 7K • 👍 716 • 💬 168 • ⏱️ 34:13 • 2h ago
+👁️ 7K • 👍 716 • 💬 168 • ⏱️ 34:13 • 3h ago
 
 ---
 
@@ -301,7 +303,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 783 • 💬 291 • ⏱️ 10:44 • 15h ago
+👁️ 13K • 👍 783 • 💬 291 • ⏱️ 10:44 • 16h ago
 
 ---
 
@@ -311,7 +313,7 @@ Join The Community: https://bit.ly/FefeCommunity PASS THE BITFUNDED CHALLENGE ..
 
 📺 100XClub
 
-👁️ 6K • 👍 927 • 💬 147 • ⏱️ 9:55 • 6h ago
+👁️ 6K • 👍 927 • 💬 147 • ⏱️ 9:55 • 7h ago
 
 ---
 
@@ -321,7 +323,7 @@ Coinbase and Fannie Mae just partnered up to do NO MARGIN CALL LOANS for Bitcoin
 
 📺 Digital Asset News
 
-👁️ 13K • 👍 930 • 💬 79 • ⏱️ 18:26 • 21h ago
+👁️ 13K • 👍 930 • 💬 79 • ⏱️ 18:26 • 22h ago
 
 ---
 
@@ -331,7 +333,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Buy
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 157 • ⏱️ 10:46 • 16h ago
+👁️ 32K • 👍 2K • 💬 157 • ⏱️ 10:46 • 17h ago
 
 ---
 
@@ -341,7 +343,7 @@ Bitcoin Vegas 2026: https://fxo.co/JAmn Welcome to the Crypto Lifer Channel! JOI
 
 📺 Crypto Lifer
 
-👁️ 3K • 👍 538 • 3h ago
+👁️ 3K • 👍 538 • 4h ago
 
 ---
 
@@ -361,7 +363,7 @@ The U.S. just released a security update warning citizens that Honk Kong now has
 
 📺 Cyber Scrilla
 
-👁️ 986 • 👍 76 • 💬 10 • ⏱️ 1:08 • 56m ago
+👁️ 986 • 👍 76 • 💬 10 • ⏱️ 1:08 • 1h ago
 
 ---
 
@@ -371,7 +373,7 @@ Continued reports on bitcoin suppression happening but one person is buying all 
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 328 • 💬 124 • ⏱️ 1:06:38 • 21h ago
+👁️ 7K • 👍 328 • 💬 124 • ⏱️ 1:06:38 • 22h ago
 
 ---
 
@@ -381,7 +383,7 @@ Michael Saylor, Strategy co-founder, joins 'Power Lunch' to discuss the company'
 
 📺 CNBC Television
 
-👁️ 19K • 👍 247 • 💬 183 • ⏱️ 4:05 • 20h ago
+👁️ 19K • 👍 247 • 💬 183 • ⏱️ 4:05 • 21h ago
 
 ---
 
