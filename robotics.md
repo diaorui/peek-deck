@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-27T19:42:20.595861+00:00'
+updated: '2026-03-27T20:40:41.243276+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 27, 2026 at 19:42 UTC  
+**Last Updated:** March 27, 2026 at 20:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hello everyone, I wanted to share my project that I've been working on for months. I've recycled two old 3D printers Anet A8 into a robotic arm. My main goal is to make a coffee with it. The motors and the electronic cards are from the printers. I've flashed them with Marlin and control them with python with a custom interface. I need to use 2 boards because I can only control independently 4 motors with one board. All the joints design are homemade, and 3d printed. The endeffector is a design from Makerworld u/user_2700759104 (I will build my own in the next days). There is a lot of backlash because of the planetary gears that I use. I plan to change them in the future. If anyone knows a reduction gear for Nema17 with minimum backlash I am all ears ! Thanks to the gear ratio, I've measured 2.9kg of force with the J2. List of components : Motors (J1->J6) : Nema17 Endeffector : Servo SG90 Boards : 2 Anet A8 + 1 Arduino Uno Reduction : J1 - 19:1 J2 - 51:1 J3 - 19:1 J4 - 19:1 J5 - 19:1 (90° 1:1) J6 - 1:1
 
-8h ago
+9h ago
 
 ---
 
@@ -44,13 +44,13 @@ Hello everyone, I wanted to share my project that I've been working on for month
 
 Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dataset From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2037440578275946551
 
-8h ago
+9h ago
 
 ---
 
 **[WANDER-Bot, a wind-powered robot designed for long-term exploration of hostile environments.](https://www.reddit.com/r/robotics/comments/1s59h0n/wanderbot_a_windpowered_robot_designed_for/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -58,13 +58,13 @@ Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dat
 
 I didn't use the T265; instead, I chose the RoboBaton mini to control the car's forward movement.I found the RoboBaton mini works well.Look the video !
 
-5h ago
+6h ago
 
 ---
 
 **[Demo of Agibot’s wheeled A2 depalleting](https://www.reddit.com/r/robotics/comments/1s4spdj/demo_of_agibots_wheeled_a2_depalleting/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -72,7 +72,7 @@ I didn't use the T265; instead, I chose the RoboBaton mini to control the car's 
 
 Hi everyone, I'm a master's student in India currently studying Robotics. I came across ICRA 2026, and there were some competitions mentioned there. I'm interested in taking part in such competitions, but obviously they are at a world stage and require a lot of preparation and studying. Maybe I'll participate in one next year. What are some of the smaller competitions that are held in regional levels too.
 
-6h ago
+7h ago
 
 ---
 
@@ -88,19 +88,21 @@ Yeah, front flips. I know, I've seen a lot of "who cares," "useless flex," "why 
 
 This is the new and improved state of the driver board for my work in progress 6 axis 3D printed robot arm. ESP32 I2C Multiplexing - For encoder wiring 6 x DRV8825
 
-15h ago
+16h ago
 
 ---
 
-**[How do I get started??(live sign interpreter glove)](https://www.reddit.com/r/robotics/comments/1s5cn34/how_do_i_get_startedlive_sign_interpreter_glove/)**
+**[ROS News for the Week of March 23rd, 2026 - Community News](https://www.reddit.com/r/robotics/comments/1s5djcz/ros_news_for_the_week_of_march_23rd_2026/)**
 
-1h ago
+ROS News for the Week of March 23rd, 2026      The ROSCon Global 2026 call for sponsors is out. We also updated the website with additional venue information. 📣 If you are planning to submit a ROSCon work shop proposal the deadline is coming up quick, April 5th, to be exact!                On the event front ROSCon Croatia is scheduled for Monday and from what I hear is sold out! Over the weekend we have another Nigerian ROS meetup on deck, along with meetups in the Netherlands, German...
+
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-march-23rd-2026/53588) • 1h ago
 
 ---
 
 **[Shared my firs model to Printables](https://www.reddit.com/r/robotics/comments/1s4oaut/shared_my_firs_model_to_printables/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -124,11 +126,11 @@ TechCrunch • 2d ago
 
 ---
 
-**[Video Friday: Beep! Beep! Roadrunner Bipedal Bot Breaks the Mold](https://spectrum.ieee.org/roadrunner-bipedal-robot)**
+**[China's humanoid robot blinks and emotes during conversations](https://interestingengineering.com/ai-robotics/lifelike-humanoid-robot-sparks-debate)**
 
-Roadrunner moves in-line, on one wheel, or two to stay nimble and on the go. Plus NASA's SkyFall Mars helicopters and MoonFall mission are gearing up.
+China’s robotics industry is shifting toward hyperrealistic humanoid faces, focusing on emotional interaction and social acceptance.
 
-IEEE Spectrum • 1d ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -136,7 +138,7 @@ IEEE Spectrum • 1d ago
 
 Serve Robotics could generate massive gains for its patient investors.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -166,7 +168,7 @@ ABC7 Chicago • 2d ago
 
 Amazon has spent more than a decade automating its logistics network. The company has already deployed more than 1 million robots across its operations,
 
-PYMNTS.com • 21h ago
+PYMNTS.com • 22h ago
 
 ---
 
@@ -174,7 +176,7 @@ PYMNTS.com • 21h ago
 
 Electrofluidic Fiber Muscles are a new class of artificial muscle fibers for robots and wearables. By integrating charge-injection electrohydrodynamic (EHD) fi…
 
-media.mit.edu • 1d ago
+MIT Media Lab • 2d ago
 
 ---
 
@@ -286,7 +288,7 @@ Melania Trump sparks alarm over a White House event where she walked in with a r
 
 📺 The Damage Report
 
-👁️ 15K • 👍 825 • 💬 377 • ⏱️ 8:42 • 23h ago
+👁️ 15K • 👍 825 • 💬 377 • ⏱️ 8:42 • 1d ago
 
 ---
 
