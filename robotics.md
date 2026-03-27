@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-27T08:00:18.635965+00:00'
+updated: '2026-03-27T09:04:24.867919+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 27, 2026 at 08:00 UTC  
+**Last Updated:** March 27, 2026 at 09:04 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Yeah, front flips. I know, I've seen a lot of "who cares," "useless flex," "why don't you do something useful," "seen it a hundred times." Fair. But when it actually works on a real robot, you still feel it. Still a lot to fix, but this was a good day :D
 
-17h ago
+18h ago
 
 ---
 
 **[Demo of Agibot’s wheeled A2 depalleting](https://www.reddit.com/r/robotics/comments/1s4spdj/demo_of_agibots_wheeled_a2_depalleting/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -50,19 +50,19 @@ Yeah, front flips. I know, I've seen a lot of "who cares," "useless flex," "why 
 
 This is the new and improved state of the driver board for my work in progress 6 axis 3D printed robot arm. ESP32 I2C Multiplexing - For encoder wiring 6 x DRV8825
 
-3h ago
-
----
-
-**[This Is How You Beat the Biggest Big Wheeled Bot](https://www.reddit.com/r/robotics/comments/1s4demt/this_is_how_you_beat_the_biggest_big_wheeled_bot/)**
-
-14h ago
+4h ago
 
 ---
 
 **[Shared my firs model to Printables](https://www.reddit.com/r/robotics/comments/1s4oaut/shared_my_firs_model_to_printables/)**
 
-8h ago
+9h ago
+
+---
+
+**[This Is How You Beat the Biggest Big Wheeled Bot](https://www.reddit.com/r/robotics/comments/1s4demt/this_is_how_you_beat_the_biggest_big_wheeled_bot/)**
+
+15h ago
 
 ---
 
@@ -70,7 +70,7 @@ This is the new and improved state of the driver board for my work in progress 6
 
 Wanted to share something we've been working on: using electro-permanent magnets (EPMs) as grippers for robotics and drone applications. The basic idea is that the magnet can be switched on/off electrically (like an electromagnet), but holds its state without power like a regular magnet. Key specs: 70g mass, 25+ kgf holding force, zero power in steady state, controlled via CAN, RC PWM, or simple discrete voltage level. No moving parts & works anywhere (dust-/waterproof, vibration-resistant). We've shipped these to university labs, defense contractors, and drone companies for payload attachment. Use cases range from drone delivery to cobot arms to ground vehicle trailer attachment. They can be used with non-ferromagnetic payloads as well as covered in the docs. We are trying to raise awareness and are providing free samples to universities and hobbyists, conditional on mentions in papers or media. Please DM me or leave a comment below for details!
 
-7h ago
+8h ago
 
 ---
 
@@ -78,7 +78,7 @@ Wanted to share something we've been working on: using electro-permanent magnets
 
 For longevity, durability testing. I imagine versatile robotic arms and hands that could test hardware like keyboards, mice, touchscreens or any user inputs. I mean one robot for all testing purposes.
 
-1h ago
+2h ago
 
 ---
 
@@ -86,7 +86,7 @@ For longevity, durability testing. I imagine versatile robotic arms and hands th
 
 curious what people think about the Livox Avia in today’s stack for mapping / slam in 2026. I used these in a project around 2022/2023, but haven't used them since. It always seemed like a strong middle ground between lower-cost Livox units and more expensive survey-grade systems, especially for UAV mapping and longer-range perception. My team used it for a mapping / slam project perviously, but I noticed they are sold out on DJI site. Are these in crazy demand or just not manufactured anymore? I ask because I have two brand new Avia units (never used, still sealed — from a startup project that pivoted), are they of any value in selling or should I try to find a way to make money with them from a mapping / service business? If anyone happens to be looking for one, feel free to reach out — but mostly just trying to understand the current landscape.
 
-11h ago
+12h ago
 
 ---
 
@@ -100,7 +100,7 @@ From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/20347089382690366
 
 **[Gotta Start Somewhere! ALMA.GeoffreyAment](https://www.reddit.com/r/robotics/comments/1s4hpay/gotta_start_somewhere_almageoffreyament/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -116,17 +116,27 @@ CNBC • 2d ago
 
 ---
 
-**[Amazon Acquires Fauna Robotics, Entering Consumer Humanoid Market](https://www.bloomberg.com/news/articles/2026-03-24/amazon-acquires-fauna-robotics-entering-consumer-humanoid-market)**
+**[Amazon buys Fauna Robotics, maker of the Sprout humanoid robot](https://abcnews.com/Business/wireStory/amazon-buys-fauna-robotics-maker-sprout-humanoid-robot-131377676)**
 
-Bloomberg • 2d ago
+Amazon has acquired Fauna Robotics, just under two months after the startup introduced a humanoid robot called Sprout designed for social spaces like homes and schools
+
+abcnews.com • 2d ago
 
 ---
 
-**[Amazon buys Fauna Robotics, maker of the Sprout humanoid robot](https://apnews.com/article/amazon-humanoid-robot-fauna-sprout-f51ced4a097b1af56b0b2561cdca8fef)**
+**[Toyota Deploys 7 Humanoid Robots In A Canadian Factory — But Mark Cuban Says The Current Humanoid Robot Push Could Fail Within 5-10 Years](https://finance.yahoo.com/sectors/technology/articles/toyota-deploys-7-humanoid-robots-141613877.html)**
 
-Amazon has acquired Fauna Robotics, just under two months after the startup introduced a humanoid robot called Sprout designed for social spaces like homes and schools.
+Toyota Motor (NYSE:TM) is moving humanoid robots onto a factory floor in Canada. At the same time, billionaire entrepreneur Mark Cuban is openly questioning whether the entire idea has staying power. The contrast is hard to ignore. One of the world's largest automakers is scaling up real-world use, while a longtime tech investor is warning the trend could burn out within a decade. Toyota puts humanoid robots to work after a successful trial Last month, Agility Robotics said in a statement that T
 
-AP News • 2d ago
+Yahoo Finance • 2d ago
+
+---
+
+**[Raleigh students win state robotics title, advance to world championship](https://abc11.com/post/raleigh-students-win-state-robotics-title-advance-world-championship/18778624/)**
+
+Four Raleigh middle schoolers are headed to the world stage after winning the top honor at this month's VEX IQ Robotics State Championship in Concord.
+
+ABC11 Raleigh-Durham • 20h ago
 
 ---
 
@@ -140,29 +150,13 @@ MIT Media Lab • 1d ago
 
 **[US lawmakers to introduce bill to ban government use of Chinese robots](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/)**
 
-Reuters • 15h ago
+Reuters • 16h ago
 
 ---
 
 **[OpenAI inks 202,000-square-foot East Bay lease in Richmond](https://www.bizjournals.com/sanfrancisco/news/2026/03/26/openai-robotics-richmond-ford-point.html)**
 
-The Business Journals • 11h ago
-
----
-
-**[Ondas Inc. (ONDS) Wins Bullish Backing on Mistral Deal and Robotics Reach](https://finance.yahoo.com/markets/stocks/articles/ondas-inc-onds-wins-bullish-194109804.html)**
-
-Ondas Inc. (NASDAQ:ONDS) is one of the best pure-play robotics stocks to buy now. Ondas Inc. (NASDAQ:ONDS) is among the best pure-play robotics stocks to buy now. On March 10, Needham analyst Austin Bohlig reaffirmed his Buy rating on the stock with a $17.0 price target. The analyst’s bullish stance was supported by its $175 […]
-
-Yahoo Finance • 12h ago
-
----
-
-**[2 food delivery robots with Serve Robotics, Coco Robotics crash into CTA bus shelters days apart; 1 incident caught on camera](https://abc7chicago.com/post/video-shows-serve-robotics-delivery-robot-crash-cta-bus-shelter-racine-outside-centre-construction-group-west-town/18763333/)**
-
-Surveillance footage captured one of at least two food delivery robot crashes into CTA bus shelters.
-
-ABC7 Chicago • 2d ago
+The Business Journals • 12h ago
 
 ---
 
@@ -170,7 +164,7 @@ ABC7 Chicago • 2d ago
 
 Amazon has spent more than a decade automating its logistics network. The company has already deployed more than 1 million robots across its operations,
 
-PYMNTS.com • 10h ago
+PYMNTS.com • 11h ago
 
 ---
 
@@ -178,7 +172,15 @@ PYMNTS.com • 10h ago
 
 Two delivery robots crashed into two bus shelters in Chicago within a matter of days -- and one of the incidents was caught on camera.
 
-upi.com • 16h ago
+upi.com • 17h ago
+
+---
+
+**[Chicago leaders speak out after food delivery robots with Serve Robotics, Coco Robotics cause damage at CTA bus shelters](https://abc7chicago.com/post/chicago-leaders-speak-food-delivery-robots-serve-robotics-coco-cause-damage-cta-bus-shelters/18772726/)**
+
+Two recent incidents of food delivery robots smashing into CTA bus shelters days apart happened as Chicagoans continue to debate whether the robots are a public benefit or a nuisance.
+
+ABC7 Chicago • 1d ago
 
 ---
 
@@ -252,7 +254,7 @@ The fast-rising Chinese robotics startup LimX Dynamics just unveiled Luna, a hum
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 78 • 💬 5 • ⏱️ 0:40 • 11h ago
+👁️ 2K • 👍 78 • 💬 5 • ⏱️ 0:40 • 12h ago
 
 ---
 
@@ -282,7 +284,7 @@ The Ultimate Microcontroller Battle is HERE! Who is the real KING of your tech w
 
 📺 M.R. Hacking Robot
 
-👁️ 2K • 👍 52 • 💬 2 • ⏱️ 0:21 • 19h ago
+👁️ 2K • 👍 52 • 💬 2 • ⏱️ 0:21 • 20h ago
 
 ---
 
