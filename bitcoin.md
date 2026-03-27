@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-27T20:40:41.234159+00:00'
+updated: '2026-03-27T21:35:59.285132+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- news
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 27, 2026 at 20:40 UTC  
+**Last Updated:** March 27, 2026 at 21:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1316.25B
+**Market Cap:** $1322.73B
 Rank #1
 
 **Circulating Supply:** 20,004,281 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--47.8%
+-47.6%
 
 **All-Time Low:** $67.81
-+96913.7%
++97395.9%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I honestly never thought I'd get this chance again, this is so awesome. Pulling more and more savings over to grab more. I should be a half-coiner soon. Yes!
 
-8h ago
+9h ago
 
 ---
 
@@ -89,7 +89,7 @@ I honestly never thought I'd get this chance again, this is so awesome. Pulling 
 
 Onramp's Brian Cubellis also point out the difference between the latent demand for IBIT vs what he expects will be active solicitation from Morgan Stanley to their clients.
 
-5h ago
+6h ago
 
 ---
 
@@ -97,7 +97,7 @@ Onramp's Brian Cubellis also point out the difference between the latent demand 
 
 Bitcoin’s largest options expiry of the year is colliding with geopolitical volatility that shows no sign of letting up with make or break peace talks uncertain. Roughly $14 billion of Bitcoin options are set to expire Friday, as measured by the number for outstanding contracts, known as open interest. The quarterly rollover—which wipes out close to 40% of open positions on the dominant Deribit exchange—comes amid conflicting signals on the prospect of a halt to the nearly month-long war in the Middle East. The overlap is sharpening a key question for traders: whether the expiry has been artificially muting Bitcoin’s price swings and if its removal will expose the token to a sharper move driven by geopolitics. Bitcoin has been stuck between roughly $60,000 and $75,000 in recent weeks, drifting well below its October 2025 peak of around $126,000 after a market-wide crash on Oct. 10. The lack of direction has persisted despite geopolitical tensions and intermittent inflows into U.S. exchange-traded funds. Bitcoin fell as much as 4% to $68,122 on Thursday. Read more: https://fortune.com/2026/03/26/bitcoin-faces-14-billion-options-expiry-while-middle-east-turmoil-mounts/
 
-🔗 [Fortune](https://fortune.com/2026/03/26/bitcoin-faces-14-billion-options-expiry-while-middle-east-turmoil-mounts/) • 3h ago
+🔗 [Fortune](https://fortune.com/2026/03/26/bitcoin-faces-14-billion-options-expiry-while-middle-east-turmoil-mounts/) • 4h ago
 
 ---
 
@@ -105,7 +105,7 @@ Bitcoin’s largest options expiry of the year is colliding with geopolitical vo
 
 Each paycheck is now worth ~0.19% of my total sats. I have been in the space a bit. I am a little dead inside due to "same shit different day" mentality in this space. The price is getting smaller. I see the typical calls for people to hodl on or jump in or increase DCA. Quality memes are nowhere to be found. It reminds me of past bear cycles. What helps me during times like this is to remember the fundamentals. Nothing has changed. Blocks are still being solved about every 10 minutes. Code is still being written. Proposals are still being discussed/modified/dropped/fought over. Bitcoin is still based on real-world resources. People are still saying that bitcoin is dead/dying/ponzi scheme. People I know that make 3-5x my salary still think it is only used to wash dirty money. I have no grand secret or huge life lesson for you, simply because bitcoin is boring (also its most important feature). The messaging is always the same. Adopt a low time preference. I hope it helps some of the newer hodlers here who are planning to stay. The panic and self-doubt you feel will pass. And you will do it again, and it will pass again and so on. P.S. Do not leverage trade to try and catch up.
 
-5h ago
+6h ago
 
 ---
 
@@ -113,7 +113,7 @@ Each paycheck is now worth ~0.19% of my total sats. I have been in the space a b
 
 so i've been getting these random coinbase notifications for months and finally decided to check what was going on. remembered i had maybe like 7 bucks sitting there from way back when i bought something online that required bitcoin logged into my account expecting to see basically nothing and there's over 2400 sitting there. took me a minute to process what i was looking at did some digging and apparently that leftover change was from late 2015 when i made some random purchase. crazy how that small amount just sat there growing now i'm kicking myself thinking about what would've happened if i had been putting even 10 bucks aside every couple weeks since then. the math is pretty wild when you run those numbers probably gonna leave it alone and see where it goes from here. not really planning to touch it anytime soon
 
-5h ago
+6h ago
 
 ---
 
@@ -121,7 +121,7 @@ so i've been getting these random coinbase notifications for months and finally 
 
 Why does the majority of the market treat crypto, or Bitcoin in particular, like high risk stocks which promise returns which they can't deliver, instead of just buying Bitcoin which goes up through scarcity? It should be a no-brainer to put capital there, instead of keeping it invested in companies which are over their head in debt and won't make any profits.
 
-39m ago
+1h ago
 
 ---
 
@@ -129,7 +129,7 @@ Why does the majority of the market treat crypto, or Bitcoin in particular, like
 
 Recently, Bitcoin’s price has dropped, and many people are selling out of fear. But for long-term investors, this is actually a great opportunity to buy more. Market volatility is normal, panic often leads to short-term losses, while staying calm and observing can bring long-term gains. Grab your popcorn and wait!
 
-4h ago
+5h ago
 
 ---
 
@@ -137,7 +137,7 @@ Recently, Bitcoin’s price has dropped, and many people are selling out of fear
 
 been diving deep into old reddit threads lately and stumbled across some wild stuff from way back when bitcoin was just getting started. found this account from one of the original developers and their final post was literally giving away an entire bitcoin like it was pocket change scrolling through those ancient conversations is mind blowing. most of these usernames probably dont even remember their passwords anymore. makes me wonder what the biggest single tip anyone here has actually witnessed on reddit was anyway found this quote buried in there that stuck with me about how buying stuff just gives you temporary happiness but experiences stick with you forever. pretty solid wisdom from someone who was building the future we're living in now
 
-11h ago
+12h ago
 
 ---
 
@@ -145,7 +145,7 @@ been diving deep into old reddit threads lately and stumbled across some wild st
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/3H5KnK8PZM0) • 6h ago
+🔗 [youtu.be](https://youtu.be/3H5KnK8PZM0) • 7h ago
 
 ---
 
@@ -165,13 +165,13 @@ back in september i got absolutely wrecked playing with margin trading like an i
 
 Bitcoin fell below $67,000 and ether dropped toward $2,000 as equities weakened, oil topped $100 and leveraged longs unwound, signaling fragile sentiment.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
 **[Bitcoin Skids, $14 Bil. In Options Due; Cathie Wood Raises Cash](https://www.investors.com/news/bitcoin-price-options-expire-14-billion-liquidations-cathie-wood-ark-invest/)**
 
-Investor's Business Daily • 4h ago
+Investor's Business Daily • 5h ago
 
 ---
 
@@ -179,7 +179,7 @@ Investor's Business Daily • 4h ago
 
 The bank priced its proposed spot bitcoin fund at 14 basis points, making it the lowest fund on the market, if approved.
 
-CoinDesk • 17m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -187,7 +187,7 @@ CoinDesk • 17m ago
 
 Demand for bitcoin as a corporate treasury asset is once again concentrated in Michael Saylor's Strategy as the company steps up its bitcoin buying pace.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -195,7 +195,7 @@ CNBC • 3h ago
 
 (Bloomberg) -- Bitcoin’s largest options expiry of the year is colliding with geopolitical volatility that shows no sign of letting up with make or break peace talks uncertain. Roughly $14 billion of Bitcoin options are set to expire Friday, as measured by the number for outstanding contracts, known as open interest. The quarterly rollover — which wipes out close to 40% of open positions on the dominant Deribit exchange — comes amid conflicting signals on the prospect of a halt to the nearly mon
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 10h ago
 
 Bitcoin is no longer driven by scarcity-based models; its price now tracks demand dynamics and correlates with high-beta tech indices. Learn more about BTC-USD here.
 
-Seeking Alpha • 8h ago
+Seeking Alpha • 9h ago
 
 ---
 
@@ -211,13 +211,13 @@ Seeking Alpha • 8h ago
 
 Something tells me that Pam Bondi and her cronies will find a way to do something weird with the money they seized from a crypto scam.
 
-Esquire • 22h ago
+Esquire • 23h ago
 
 ---
 
 **[5 long, loud years: Neighbor, county leader ready for Bitcoin mine shutdown](https://www.wjhl.com/news/local/5-long-loud-years-neighbor-county-leader-ready-for-bitcoin-mine-shutdown/)**
 
-wjhl.com • 21h ago
+wjhl.com • 22h ago
 
 ---
 
@@ -225,13 +225,13 @@ wjhl.com • 21h ago
 
 GameStop's latest 10-K filing shows that it did not sell 4,709 BTC it acquired last year, but pledged it as collateral with Coinbase Credit.
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
 **[Bitcoin Slumps With Options Showing Traders Turning Defensive](https://www.bloomberg.com/news/articles/2026-03-27/bitcoin-slumps-with-options-showing-traders-turning-defensive)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -257,7 +257,7 @@ Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes
 
 **[MineGuard – Autonomous Bitcoin mining fleet manager, Karpathy-loop optimization](https://news.ycombinator.com/item?id=47538096)**
 
-⬆️ 1 • 💬 0 • 19h ago • [github.com](https://github.com/enriquevazquezusa/mineguard)
+⬆️ 1 • 💬 0 • 20h ago • [github.com](https://github.com/enriquevazquezusa/mineguard)
 
 ---
 
@@ -279,7 +279,7 @@ Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 3
 
 A collection of reasons to hate on AI
 
-⬆️ 5 • 💬 0 • 21h ago • [lonami.dev](https://lonami.dev/blog/ditching-github/)
+⬆️ 5 • 💬 0 • 22h ago • [lonami.dev](https://lonami.dev/blog/ditching-github/)
 
 ---
 
@@ -293,7 +293,7 @@ Bitcoin #Crypto #Finance Bitcoin has dropped sharply toward the $66K level as ma
 
 📺 The Wolf Of All Streets
 
-👁️ 12K • 👍 1K • 💬 236 • ⏱️ 34:13 • 6h ago
+👁️ 16K • 👍 1K • 💬 307 • ⏱️ 34:13 • 7h ago
 
 ---
 
@@ -303,17 +303,7 @@ all my life is bitcoin, literally. I had moments where I thought I was ruining m
 
 📺 BTC Isla
 
-👁️ 3K • 👍 467 • 💬 167 • ⏱️ 10:32 • 5h ago
-
----
-
-**[BITCOIN TO $50K?! Oil Surges as the S&amp;P 500 Hits Make-Or-Break Support](https://www.youtube.com/watch?v=PXEYd4JtXsw)**
-
-Are Bitcoin and the S&P 500 on the verge of a massive breakdown? In this urgent Friday market update, Chief Market Strategist ...
-
-📺 Gareth Soloway
-
-👁️ 45K • 👍 3K • 💬 516 • ⏱️ 9:48 • 8h ago
+👁️ 4K • 👍 640 • 💬 221 • ⏱️ 10:32 • 6h ago
 
 ---
 
@@ -323,7 +313,27 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 733 • 💬 128 • ⏱️ 1:13:31 • 5h ago
+👁️ 13K • 👍 796 • 💬 144 • ⏱️ 1:13:31 • 6h ago
+
+---
+
+**[BITCOIN TO $50K?! Oil Surges as the S&amp;P 500 Hits Make-Or-Break Support](https://www.youtube.com/watch?v=PXEYd4JtXsw)**
+
+Are Bitcoin and the S&P 500 on the verge of a massive breakdown? In this urgent Friday market update, Chief Market Strategist ...
+
+📺 Gareth Soloway
+
+👁️ 54K • 👍 4K • 💬 566 • ⏱️ 9:48 • 9h ago
+
+---
+
+**[Why You Won’t Be Able To Buy Bitcoin When This Happens](https://www.youtube.com/watch?v=TxzWwexKk54)**
+
+Something is changing in the Bitcoin market—and most people are completely missing it. The biggest risk right now isn't that ...
+
+📺 Tim Talks Finance
+
+👁️ 1K • 👍 107 • 💬 29 • ⏱️ 12:25 • 3h ago
 
 ---
 
@@ -333,7 +343,7 @@ Join The Community: https://bit.ly/FefeCommunity PASS THE BITFUNDED CHALLENGE ..
 
 📺 100XClub
 
-👁️ 8K • 👍 1K • 💬 188 • ⏱️ 9:55 • 11h ago
+👁️ 8K • 👍 1K • 💬 219 • ⏱️ 9:55 • 11h ago
 
 ---
 
@@ -343,17 +353,7 @@ Coinbase and Fannie Mae just partnered up to do NO MARGIN CALL LOANS for Bitcoin
 
 📺 Digital Asset News
 
-👁️ 13K • 👍 954 • 💬 107 • ⏱️ 18:26 • 1d ago
-
----
-
-**[Bitcoin - A Realistic Prediction by End of Year 🎯](https://www.youtube.com/watch?v=6h5l5GNbHXo)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Follow Brandon: https://x.com/BranBTC Buy, ...
-
-📺 Altcoin Daily
-
-👁️ 15K • 👍 359 • 💬 62 • ⏱️ 1:06 • 1d ago
+👁️ 13K • 👍 976 • 💬 107 • ⏱️ 18:26 • 1d ago
 
 ---
 
@@ -363,27 +363,27 @@ Michael Saylor, Strategy co-founder, joins 'Power Lunch' to discuss the company'
 
 📺 CNBC Television
 
-👁️ 20K • 👍 255 • 💬 196 • ⏱️ 4:05 • 1d ago
+👁️ 21K • 👍 262 • 💬 201 • ⏱️ 4:05 • 1d ago
 
 ---
 
-**[Bitcoin Core On The Brink](https://www.youtube.com/watch?v=gLzScA0W2wA)**
+**[Bitcoin Make or Break Level Hit... Traders Are Watching This!](https://www.youtube.com/watch?v=Q0ynFAkqcFY)**
 
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss how a single Brink-funded Bitcoin ...
+Channel Sponsors (Affiliate Links)   Phemex https://phemex.com/a/k/FrankieCandles ...
 
-📺 Bitcoin University
+📺 Frankie Candles 
 
-👁️ 3K • 👍 511 • 💬 88 • ⏱️ 5:20 • 7h ago
+👁️ 2K • 👍 155 • 1h ago
 
 ---
 
-**[Bitcoin: Preparing for the Next Leg Down](https://www.youtube.com/watch?v=yBJDk4a0e24)**
+**[🚨WARNING: Don’t Travel with Crypto Wallets!](https://www.youtube.com/watch?v=Jw5cOU8zrjU)**
 
-In this video, we take a data-driven look at Bitcoin as it shows signs of preparing for another leg lower. Rather than relying on ...
+The U.S. just released a security update warning citizens that Honk Kong now has the power to demand access to your crypto ...
 
-📺 Benjamin Cowen
+📺 Cyber Scrilla
 
-👁️ 116K • 👍 7K • 💬 451 • ⏱️ 17:16 • 2d ago
+👁️ 5K • 👍 335 • 💬 40 • ⏱️ 1:08 • 6h ago
 
 ---
 

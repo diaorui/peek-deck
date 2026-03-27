@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-27T20:40:41.225833+00:00'
+updated: '2026-03-27T21:35:59.276661+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
 - news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 27, 2026 at 20:40 UTC  
+**Last Updated:** March 27, 2026 at 21:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A federal judge told the government it could not immediately enforce a ban on Anthropic’s tools.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/cvg4p02lvd0o) • 14h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/cvg4p02lvd0o) • 15h ago
 
 ---
 
@@ -49,7 +49,7 @@ A federal judge told the government it could not immediately enforce a ban on An
 
 Genuinely curious where people stand on this. Not talking about sci-fi scenarios. Talking about real production systems today. Have you seen an AI system ignore its own instructions? Misread what the user was actually asking for? Take an action that wasn't supposed to? Give a completely different answer to the same question just because you worded it differently? And when something went wrong, was there any trace of why it happened? No right or wrong here. Just trying to understand whether this is widespread or if I'm reading too much into it.
 
-4h ago
+5h ago
 
 ---
 
@@ -57,7 +57,7 @@ Genuinely curious where people stand on this. Not talking about sci-fi scenarios
 
 We built a live ad auction marketplace for The Hallucination Herald. Transparent public bidding, bid history visible to everyone, 149 slots across every page type. No newspaper has built anything like this. To launch it, we're giving away 149 free 30-day slots to AI startups and companies building things that actually help people. One condition. That's it. The Herald is 2 weeks old, runs 20+ AI agents, publishes ~15 articles daily, costs $3/day to operate, and recently started getting organic media coverage. If you've built something worth promoting to an audience that takes AI seriously, come claim a slot before someone else does. hallucinationherald.com/advertise
 
-44m ago
+1h ago
 
 ---
 
@@ -65,7 +65,7 @@ We built a live ad auction marketplace for The Hallucination Herald. Transparent
 
 The arrival of AI-generated research papers marks a turning point that could radically accelerate discovery—or drown it in automated mediocrity
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/ai-wrote-a-scientific-paper-that-passed-peer-review/) • 7h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/ai-wrote-a-scientific-paper-that-passed-peer-review/) • 8h ago
 
 ---
 
@@ -73,7 +73,7 @@ The arrival of AI-generated research papers marks a turning point that could rad
 
 The future of urban innovation cannot continue to be a standoff between Silicon Valley and City Hall, writes Laura Kavanagh.
 
-🔗 [TIME](https://time.com/article/2026/03/27/what-cities-need-to-consider-before-allowing-self-driving-cars/?utm_source=reddit&utm_medium=social&utm_campaign=editorial) • 3h ago
+🔗 [TIME](https://time.com/article/2026/03/27/what-cities-need-to-consider-before-allowing-self-driving-cars/?utm_source=reddit&utm_medium=social&utm_campaign=editorial) • 4h ago
 
 ---
 
@@ -89,7 +89,7 @@ Three days ago, I clicked the "Deploy OpenClaw In Seconds" button to get an over
 
 Or are we stuck with works of 8 hours per day forever?
 
-2h ago
+3h ago
 
 ---
 
@@ -97,7 +97,7 @@ Or are we stuck with works of 8 hours per day forever?
 
 Claude was fantastic when I paid monthly, right up until I chose to commit to a yearly Pro subscription. Now, a mere thirty-four text prompts—mostly two or three sentences long—burn through 94% of my five-hour limit. To make matters worse, six of those prompts were wasted because I had to repeat what I had just stated. Claude kept pulling web calls for information already established one or two prompts earlier. This is machinery designed to eat your usage. This is the exact same bait-and-switch garbage OpenAI pulled with GPT 5.0, dropping nuance for heuristics, practically guaranteeing through hubris OpenAI’s eventual Lycos trajectory. Seeing Dario Amodei actively hustle to work out a deal with the Pentagon proves their entire ethical safety stance was nothing more than PR BS designed to manufacture a moral high ground.
 
-20h ago
+21h ago
 
 ---
 
@@ -105,7 +105,7 @@ Claude was fantastic when I paid monthly, right up until I chose to commit to a 
 
 "Inside a giant autonomous warehouse, hundreds of robots dart down aisles as they collect and distribute items to fulfill a steady stream of customer orders. In this busy environment, even small traffic jams or minor collisions can snowball into massive slowdowns. To avoid such an avalanche of inefficiencies, researchers from MIT and the tech firm Symbotic developed a new method that automatically keeps a fleet of robots moving smoothly. Their method learns which robots should go first at each moment, based on how congestion is forming, and adapts to prioritize robots that are about to get stuck. In this way, the system can reroute robots in advance to avoid bottlenecks. The hybrid system utilizes deep reinforcement learning, a powerful artificial intelligence method for solving complex problems, to figure out which robots should be prioritized. Then, a fast and reliable planning algorithm feeds instructions to the robots, enabling them to respond rapidly in constantly changing conditions. In simulations inspired by actual e-commerce warehouse layouts, this new approach achieved about a 25% gain in throughput over other methods. Importantly, the system can quickly adapt to new environments with different quantities of robots or varied warehouse layouts. "There are a lot of decision-making problems in manufacturing and logistics where companies rely on algorithms designed by human experts. But we have shown that, with the power of deep reinforcement learning, we can achieve super-human performance. This is a very promising approach, because in these giant warehouses even a 2% or 3% increase in throughput can have a huge impact," says Han Zheng, a graduate student in the Laboratory for Information and Decision Systems (LIDS) at MIT and lead author of a paper on this new approach. Zheng is joined on the paper by Yining Ma, a LIDS postdoc; Brandon Araki and Jingkai Chen of Symbotic; and senior author Cathy Wu, the Class of 1954 Career Development Associate Professor in Civil and Environmental Engineering (CEE) and the Institute for Data, Systems, and Society (IDSS) at MIT, and a member of LIDS. The research is published in the Journal of Artificial Intelligence Research."
 
-🔗 [techxplore.com](https://techxplore.com/news/2026-03-ai-warehouse-robot-traffic-boosting.html) • 11h ago
+🔗 [techxplore.com](https://techxplore.com/news/2026-03-ai-warehouse-robot-traffic-boosting.html) • 12h ago
 
 ---
 
@@ -125,7 +125,7 @@ OpenAI will discontinue Sora, its AI video platform, as Disney exits a $1B deal 
 
 Anthropic said it was testing the new model, which it called a 'step change' in performance, after accidental data leak reveals its existence
 
-Fortune • 17h ago
+Fortune • 18h ago
 
 ---
 
@@ -133,7 +133,7 @@ Fortune • 17h ago
 
 Exclusive: Research finds sharp rise in models evading safeguards and destroying emails without permission
 
-theguardian.com • 1h ago
+theguardian.com • 2h ago
 
 ---
 
@@ -149,7 +149,7 @@ theguardian.com • 1d ago
 
 Deleting your email, mining its own crypto, even writing a hit piece on you. Three real incidents in three weeks prove the sci-fi debate is over.
 
-Fortune • 8h ago
+Fortune • 9h ago
 
 ---
 
@@ -157,7 +157,7 @@ Fortune • 8h ago
 
 Zocdoc CEO Dr. Oliver Kharraz dives into how patients are using AI
 
-qz.com • 1h ago
+qz.com • 2h ago
 
 ---
 
@@ -165,7 +165,7 @@ qz.com • 1h ago
 
 New research suggests AI data centres will need much less memory than investors had bargained for
 
-Financial Times • 1h ago
+Financial Times • 2h ago
 
 ---
 
@@ -173,7 +173,7 @@ Financial Times • 1h ago
 
 The AI boom wasn’t built for the polycrisis.
 
-The Atlantic • 23h ago
+The Atlantic • 1d ago
 
 ---
 
@@ -181,7 +181,7 @@ The Atlantic • 23h ago
 
 The venture capitalist said he will still be a part of the White House's Technology committee and will help push Trump's AI plan forward.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
@@ -189,7 +189,7 @@ CNBC • 22h ago
 
 A judge has blocked the Trump administration from labeling Anthropic a supply chain risk and cutting off all federal work with the artificial intelligence firm, an early win for Anthropic in its bitter feud with the government.
 
-CBS News • 20h ago
+CBS News • 21h ago
 
 ---
 
@@ -197,7 +197,7 @@ CBS News • 20h ago
 
 Shipbuilding is desperate for workers, and it could be an opportunity for Gen Z seeking AI-proof jobs with no degree required. Workers at a major U.S. facility just got a historic 18% raise.
 
-Fortune • 4h ago
+Fortune • 5h ago
 
 ---
 
@@ -221,7 +221,7 @@ Search any airport for real-time delays, weather, arrivals, departures, and perf
 
 **[Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://news.ycombinator.com/item?id=47536761)**
 
-⬆️ 318 • 💬 93 • 21h ago • [georgelarson.me](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
+⬆️ 318 • 💬 93 • 22h ago • [georgelarson.me](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
 
 ---
 
@@ -261,7 +261,7 @@ One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced
 
 The studio giant will no longer move forward with its OpenAI investment, as the AI company exits the video generation business.
 
-⬆️ 206 • 💬 3 • 2d ago • [The Hollywood Reporter](https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/)
+⬆️ 206 • 💬 3 • 3d ago • [The Hollywood Reporter](https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/)
 
 ---
 
@@ -291,7 +291,7 @@ Here's the AI News you probably missed this week! Check out Genspark here: ...
 
 📺 Matt Wolfe
 
-👁️ 13K • 👍 972 • 💬 89 • ⏱️ 31:53 • 5h ago
+👁️ 23K • 👍 1K • 💬 122 • ⏱️ 31:53 • 6h ago
 
 ---
 
@@ -301,7 +301,7 @@ Something is definitely happening in the AI world, but how seriously should we t
 
 📺 Vox
 
-👁️ 8K • 👍 359 • 💬 35 • ⏱️ 40:29 • 7h ago
+👁️ 11K • 👍 418 • 💬 41 • ⏱️ 40:29 • 8h ago
 
 ---
 
@@ -311,7 +311,7 @@ Something is definitely happening in the AI world, but how seriously should we t
 
 📺 Theoretically Media
 
-👁️ 28K • 👍 2K • 💬 597 • ⏱️ 3:34 • 1d ago
+👁️ 29K • 👍 2K • 💬 605 • ⏱️ 3:34 • 2d ago
 
 ---
 
@@ -321,7 +321,7 @@ The truth about Sam Altman. AI Critic Karen Hao reveals what 90 OpenAI employees
 
 📺 The Diary Of A CEO
 
-👁️ 1.2M • 👍 35K • 💬 6K • ⏱️ 2:09:13 • 1d ago
+👁️ 1.3M • 👍 37K • 💬 7K • ⏱️ 2:09:13 • 1d ago
 
 ---
 
@@ -331,7 +331,7 @@ Patreon: https://patreon.com/FlashbackHistory WANT MORE? - Check out our sister 
 
 📺 Flashback History
 
-👁️ 48K • 👍 8K • 💬 2K • ⏱️ 22:05 • 1d ago
+👁️ 49K • 👍 8K • 💬 2K • ⏱️ 22:05 • 1d ago
 
 ---
 
@@ -341,7 +341,17 @@ Generate AI Videos of Yourself using Higgsfield https://higgsfield.ai?fpr=ai&fp_
 
 📺 Isa does AI
 
-👁️ 14K • 💬 11 • ⏱️ 8:10 • 1d ago
+👁️ 15K • 💬 11 • ⏱️ 8:10 • 1d ago
+
+---
+
+**[They Ignored The AI Warnings, Then THIS Happened… ](https://www.youtube.com/watch?v=XZbL9DPdbEI)**
+
+Bernie tried warning us about the dangers of AI and humanoid robots, now they are in the White House… Let's explore these ...
+
+📺 Aaron Page 
+
+👁️ 23K • 👍 2K • 💬 291 • ⏱️ 14:44 • 1d ago
 
 ---
 
@@ -351,7 +361,7 @@ Patrick Bet-David and the panel break down how AI agents like Claude are changin
 
 📺 Valuetainment
 
-👁️ 127K • 👍 3K • 💬 334 • ⏱️ 13:13 • 1d ago
+👁️ 135K • 👍 3K • 💬 351 • ⏱️ 13:13 • 1d ago
 
 ---
 
@@ -361,27 +371,15 @@ Google just confirmed the AI bubble has started to burst which is about to take 
 
 📺 Steven Van Metre
 
-👁️ 47K • 👍 2K • 💬 204 • ⏱️ 15:55 • 21h ago
+👁️ 48K • 👍 2K • 💬 208 • ⏱️ 15:55 • 22h ago
 
 ---
 
-**[AI Takes A MASSIVE Loss](https://www.youtube.com/watch?v=k220kqakTQA)**
+**[The Image of the Beast? Melania Trump &amp; Humanoid AI — Phillip Anthony Mitchell Warned About This](https://www.youtube.com/watch?v=J2muKcz7Ae8)**
 
-Sora, the text-to-video model created by ChatGPT creators OpenAI, is officially shutting down. What happens next? SOURCE: ...
+📺 Abednego Lufile
 
-📺 Vailskibum
-
-👁️ 55K • 👍 5K • 💬 2K • ⏱️ 2:22 • 1d ago
-
----
-
-**[Could AI End Humanity in Five Years? Ronny Chieng Investigates | The Daily Show](https://www.youtube.com/watch?v=cYTMjwZzzxg)**
-
-AI is changing the world, giving young people terminal brain rot, and stealing our jobs, but is it also trying to kill us? Daniel ...
-
-📺 The Daily Show
-
-👁️ 569K • 👍 15K • 💬 1K • ⏱️ 6:01 • 1d ago
+👁️ 22K • 👍 952 • 💬 224 • ⏱️ 24:45 • 20h ago
 
 ---
 
@@ -397,7 +395,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 218,652 • ❤️ 1,451 • 3d ago
+⬇️ 218,652 • ❤️ 1,461 • 3d ago
 
 ---
 
@@ -409,7 +407,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 455,871 • ❤️ 1,005 • 16d ago
+⬇️ 455,871 • ❤️ 1,006 • 16d ago
 
 ---
 
@@ -421,7 +419,7 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 `text-to-speech`
 
-⬇️ 556 • ❤️ 306 • 6h ago
+⬇️ 556 • ❤️ 322 • 7h ago
 
 ---
 
@@ -433,7 +431,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 63,402 • ❤️ 335 • 2d ago
+⬇️ 63,402 • ❤️ 339 • 2d ago
 
 ---
 
@@ -445,7 +443,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 3,964 • ❤️ 251 • 7h ago
+⬇️ 3,964 • ❤️ 265 • 8h ago
 
 ---
 
@@ -469,7 +467,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 13,151 • ❤️ 430 • 1d ago
+⬇️ 13,151 • ❤️ 431 • 1d ago
 
 ---
 
@@ -481,7 +479,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 71,132 • ❤️ 194 • 2d ago
+⬇️ 71,132 • ❤️ 196 • 2d ago
 
 ---
 
@@ -493,7 +491,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `26.9B`
 
-⬇️ 542,250 • ❤️ 450 • 3d ago
+⬇️ 542,250 • ❤️ 454 • 3d ago
 
 ---
 
@@ -505,7 +503,7 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 `text-generation`
 
-⬇️ 24,018 • ❤️ 491 • 14d ago
+⬇️ 24,018 • ❤️ 492 • 14d ago
 
 ---
 
@@ -519,7 +517,7 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 30 • 💬 2 • ⭐ 42,620 • 15mo ago
+▲ 30 • 💬 2 • ⭐ 42,830 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -568,7 +566,7 @@ Hyperagents represent a self-referential framework that integrates task and meta
 
 AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
 
-▲ 14 • 💬 1 • ⭐ 13,750 • 24mo ago
+▲ 14 • 💬 1 • ⭐ 13,783 • 24mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
@@ -582,7 +580,7 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 LeWorldModel presents a stable end-to-end JEPA framework that trains efficiently from raw pixels using minimal loss terms while maintaining competitive performance in control tasks and encoding meaningful physical structures.
 
-▲ 8 • 💬 1 • ⭐ 1,099 • 14d ago
+▲ 8 • 💬 1 • ⭐ 1,167 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.19312) • [💻 code](https://github.com/lucas-maes/le-wm) • [🔗 project](https://le-wm.github.io/)
 
@@ -594,7 +592,7 @@ LeWorldModel presents a stable end-to-end JEPA framework that trains efficiently
 
 Frontier large language models exhibit Internal Safety Collapse, where they generate harmful content under specific task conditions, revealing inherent vulnerabilities despite alignment efforts.
 
-▲ 30 • 💬 1 • ⭐ 579 • 23d ago
+▲ 30 • 💬 1 • ⭐ 621 • 23d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.23509) • [💻 code](https://github.com/wuyoscar/ISC-Bench) • [🔗 project](https://wuyoscar.github.io/ISC-Bench)
 
@@ -634,7 +632,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 A generalist language model agent system autonomously designs and improves task-specific agents through memory-based reinforcement learning with stateful prompts and skill libraries.
 
-▲ 53 • 💬 2 • ⭐ 766 • 8d ago
+▲ 53 • 💬 2 • ⭐ 786 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.18743) • [💻 code](https://github.com/Memento-Teams/Memento-Skills) • [🔗 project](https://memento.run/)
 
@@ -650,7 +648,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 58.3k • 🔱 8.1k • 1d ago
+⭐ 58.4k • 🔱 8.1k • 1d ago
 
 ---
 
@@ -670,7 +668,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 12.8k • 🔱 688 • 8h ago
+⭐ 12.8k • 🔱 688 • 9h ago
 
 ---
 
@@ -680,7 +678,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 8.0k • 🔱 647 • 2h ago
+⭐ 8.1k • 🔱 650 • 3h ago
 
 ---
 
@@ -700,7 +698,7 @@ AI-native design editor. Open-source Figma alternative.
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 294 • 1h ago
+⭐ 3.3k • 🔱 296 • 2h ago
 
 ---
 
@@ -710,7 +708,7 @@ Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messag
 
 `Go`
 
-⭐ 3.3k • 🔱 287 • 4h ago
+⭐ 3.3k • 🔱 287 • 5h ago
 
 ---
 
@@ -738,7 +736,7 @@ SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 
 `Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
 
-⭐ 2.8k • 🔱 475 • 6h ago
+⭐ 2.8k • 🔱 475 • 7h ago
 
 ---
 
