@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-27T13:49:27.021443+00:00'
+updated: '2026-03-27T14:51:30.650348+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 27, 2026 at 13:49 UTC  
+**Last Updated:** March 27, 2026 at 14:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dataset From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2037440578275946551
 
-2h ago
+3h ago
 
 ---
 
@@ -44,13 +44,21 @@ Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dat
 
 Hello everyone, I wanted to share my project that I've been working on for months. I've recycled two old 3D printers Anet A8 into a robotic arm. My main goal is to make a coffee with it. The motors and the electronic cards are from the printers. I've flashed them with Marlin and control them with python with a custom interface. I need to use 2 boards because I can only control independently 4 motors with one board. All the joints design are homemade, and 3d printed. The endeffector is a design from Makerworld u/user_2700759104 (I will build my own in the next days). There is a lot of backlash because of the planetary gears that I use. I plan to change them in the future. If anyone knows a reduction gear for Nema17 with minimum backlash I am all ears ! Thanks to the gear ratio, I've measured 2.9kg of force with the J2. List of components : Motors (J1->J6) : Nema17 Endeffector : Servo SG90 Boards : 2 Anet A8 + 1 Arduino Uno Reduction : J1 - 19:1 J2 - 51:1 J3 - 19:1 J4 - 19:1 J5 - 19:1 (90° 1:1) J6 - 1:1
 
-2h ago
+3h ago
 
 ---
 
 **[Demo of Agibot’s wheeled A2 depalleting](https://www.reddit.com/r/robotics/comments/1s4spdj/demo_of_agibots_wheeled_a2_depalleting/)**
 
-10h ago
+11h ago
+
+---
+
+**[RoboBaton mini test](https://www.reddit.com/r/robotics/comments/1s551oc/robobaton_mini_test/)**
+
+I didn't use the T265; instead, I chose the RoboBaton mini to control the car's forward movement.I found the RoboBaton mini works well.Look the video !
+
+46m ago
 
 ---
 
@@ -58,7 +66,7 @@ Hello everyone, I wanted to share my project that I've been working on for month
 
 Yeah, front flips. I know, I've seen a lot of "who cares," "useless flex," "why don't you do something useful," "seen it a hundred times." Fair. But when it actually works on a real robot, you still feel it. Still a lot to fix, but this was a good day :D
 
-23h ago
+1d ago
 
 ---
 
@@ -66,19 +74,13 @@ Yeah, front flips. I know, I've seen a lot of "who cares," "useless flex," "why 
 
 This is the new and improved state of the driver board for my work in progress 6 axis 3D printed robot arm. ESP32 I2C Multiplexing - For encoder wiring 6 x DRV8825
 
-9h ago
+10h ago
 
 ---
 
 **[Shared my firs model to Printables](https://www.reddit.com/r/robotics/comments/1s4oaut/shared_my_firs_model_to_printables/)**
 
-13h ago
-
----
-
-**[Meta is hosting an AI Hackathon (OpenEnv) - direct interview opportunity + $30k prizes](https://www.reddit.com/r/robotics/comments/1s4zz0q/meta_is_hosting_an_ai_hackathon_openenv_direct/)**
-
-3h ago
+14h ago
 
 ---
 
@@ -86,21 +88,19 @@ This is the new and improved state of the driver board for my work in progress 6
 
 Hi everyone, I'm a master's student in India currently studying Robotics. I came across ICRA 2026, and there were some competitions mentioned there. I'm interested in taking part in such competitions, but obviously they are at a world stage and require a lot of preparation and studying. Maybe I'll participate in one next year. What are some of the smaller competitions that are held in regional levels too.
 
-14m ago
+1h ago
+
+---
+
+**[Meta is hosting an AI Hackathon (OpenEnv) - direct interview opportunity + $30k prizes](https://www.reddit.com/r/robotics/comments/1s4zz0q/meta_is_hosting_an_ai_hackathon_openenv_direct/)**
+
+4h ago
 
 ---
 
 **[This Is How You Beat the Biggest Big Wheeled Bot](https://www.reddit.com/r/robotics/comments/1s4demt/this_is_how_you_beat_the_biggest_big_wheeled_bot/)**
 
-20h ago
-
----
-
-**[Electro-permanent magnets as grippers; solid-state alternative to mechanical grippers](https://www.reddit.com/r/robotics/comments/1s4oj7o/electropermanent_magnets_as_grippers_solidstate/)**
-
-Wanted to share something we've been working on: using electro-permanent magnets (EPMs) as grippers for robotics and drone applications. The basic idea is that the magnet can be switched on/off electrically (like an electromagnet), but holds its state without power like a regular magnet. Key specs: 70g mass, 25+ kgf holding force, zero power in steady state, controlled via CAN, RC PWM, or simple discrete voltage level. No moving parts & works anywhere (dust-/waterproof, vibration-resistant). We've shipped these to university labs, defense contractors, and drone companies for payload attachment. Use cases range from drone delivery to cobot arms to ground vehicle trailer attachment. They can be used with non-ferromagnetic payloads as well as covered in the docs. We are trying to raise awareness and are providing free samples to universities and hobbyists, conditional on mentions in papers or media. Please DM me or leave a comment below for details!
-
-13h ago
+21h ago
 
 ---
 
@@ -120,15 +120,29 @@ CNBC • 2d ago
 
 A robotics collaboration will combine AI models with industrial robots to improve automation through real-world deployment and training.
 
-Interesting Engineering • 2h ago
+Interesting Engineering • 3h ago
 
 ---
 
-**[Amazon buys Fauna Robotics, maker of the Sprout humanoid robot](https://abcnews.com/Business/wireStory/amazon-buys-fauna-robotics-maker-sprout-humanoid-robot-131377676)**
+**[Toyota Deploys 7 Humanoid Robots In A Canadian Factory — But Mark Cuban Says The Current Humanoid Robot Push Could Fail Within 5-10 Years](https://finance.yahoo.com/sectors/technology/articles/toyota-deploys-7-humanoid-robots-141613877.html)**
 
-Amazon has acquired Fauna Robotics, just under two months after the startup introduced a humanoid robot called Sprout designed for social spaces like homes and schools
+Toyota Motor (NYSE:TM) is moving humanoid robots onto a factory floor in Canada. At the same time, billionaire entrepreneur Mark Cuban is openly questioning whether the entire idea has staying power. The contrast is hard to ignore. One of the world's largest automakers is scaling up real-world use, while a longtime tech investor is warning the trend could burn out within a decade. Toyota puts humanoid robots to work after a successful trial Last month, Agility Robotics said in a statement that T
 
-abcnews.com • 2d ago
+Yahoo Finance • 3d ago
+
+---
+
+**[US lawmakers to introduce bill to ban government use of Chinese robots](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/)**
+
+Reuters • 22h ago
+
+---
+
+**[Delivery robots smash Chicago bus shelters in two separate incidents](https://www.upi.com/Odd_News/2026/03/26/Chicago-delivery-robots-bus-shelters/4041774539291/)**
+
+Two delivery robots crashed into two bus shelters in Chicago within a matter of days -- and one of the incidents was caught on camera.
+
+upi.com • 23h ago
 
 ---
 
@@ -140,25 +154,11 @@ ABC7 Chicago • 2d ago
 
 ---
 
-**[Delivery robots smash Chicago bus shelters in two separate incidents](https://www.upi.com/Odd_News/2026/03/26/Chicago-delivery-robots-bus-shelters/4041774539291/)**
-
-Two delivery robots crashed into two bus shelters in Chicago within a matter of days -- and one of the incidents was caught on camera.
-
-upi.com • 22h ago
-
----
-
 **[Amazon Eyes Delivery Robots as MIT Tackles Warehouse Bottlenecks](https://www.pymnts.com/amazon/2026/amazon-eyes-delivery-robots-as-mit-tackles-warehouse-bottlenecks/)**
 
 Amazon has spent more than a decade automating its logistics network. The company has already deployed more than 1 million robots across its operations,
 
-PYMNTS.com • 15h ago
-
----
-
-**[US lawmakers to introduce bill to ban government use of Chinese robots](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/)**
-
-Reuters • 21h ago
+PYMNTS.com • 16h ago
 
 ---
 
@@ -172,7 +172,7 @@ MIT Media Lab • 1d ago
 
 **[OpenAI inks 202,000-square-foot East Bay lease in Richmond - San Francisco Business Times](https://www.bizjournals.com/sanfrancisco/news/2026/03/26/openai-robotics-richmond-ford-point.html)**
 
-The Business Journals • 17h ago
+The Business Journals • 18h ago
 
 ---
 
@@ -204,7 +204,7 @@ Melania Trump suggested using humanoid AI robots like a “Plato” educator to 
 
 📺 Farron Balanced
 
-👁️ 31K • 👍 3K • 💬 733 • ⏱️ 5:10 • 18h ago
+👁️ 31K • 👍 3K • 💬 733 • ⏱️ 5:10 • 19h ago
 
 ---
 
@@ -274,7 +274,7 @@ Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesda
 
 📺 RAI Institute
 
-👁️ 422K • 👍 11K • 💬 1K • ⏱️ 1:34 • 3d ago
+👁️ 422K • 👍 11K • 💬 1K • ⏱️ 1:34 • 4d ago
 
 ---
 
