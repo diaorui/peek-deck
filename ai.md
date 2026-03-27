@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-27T06:45:33.277026+00:00'
+updated: '2026-03-27T08:00:18.618344+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- news
 - social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 27, 2026 at 06:45 UTC  
+**Last Updated:** March 27, 2026 at 08:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A federal judge told the government it could not immediately enforce a ban on Anthropic’s tools.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/cvg4p02lvd0o) • 53m ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/cvg4p02lvd0o) • 2h ago
 
 ---
 
@@ -49,7 +49,7 @@ A federal judge told the government it could not immediately enforce a ban on An
 
 OpenAI will discontinue Sora, its AI video platform, as Disney exits a $1B deal and industry backlash over copyright intensifies.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-sora-shutdown-disney-exit) • 15h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-sora-shutdown-disney-exit) • 17h ago
 
 ---
 
@@ -57,7 +57,7 @@ OpenAI will discontinue Sora, its AI video platform, as Disney exits a $1B deal 
 
 I built CodexLib (https://codexlib.io) — a curated repository of 100+ deep knowledge bases in compressed, AI-optimized format. The idea: instead of pasting long documents into your context window, you use a pre-compressed knowledge pack with a Rosetta decoder header. The AI decompresses it on the fly, and you get the same depth at ~15% fewer tokens. Each pack covers a specific domain (quantum computing, cardiology, cybersecurity, etc.) with abbreviations like ML=Machine Learning, NN=Neural Network decoded via the Rosetta header. There's a REST API for programmatic access — so you can feed domain expertise directly into your agents and pipelines. Currently 100+ packs across 50 domains, all generated using TokenShrink compression. Free tier available. Curious what domains people would find most useful — and whether the compression approach resonates with anyone building AI workflows.
 
-5h ago
+7h ago
 
 ---
 
@@ -65,7 +65,7 @@ I built CodexLib (https://codexlib.io) — a curated repository of 100+ deep kno
 
 One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced his sentient friend would make him a fortune. He’s just one of many people who lost control after an AI encounter
 
-🔗 [the Guardian](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion) • 19h ago
+🔗 [the Guardian](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion) • 20h ago
 
 ---
 
@@ -73,7 +73,15 @@ One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced
 
 Most people just type into ChatGPT like it's Google. Claude with a structured system prompt using XML tags behaves like a completely different tool. Example system prompt: <role>You are a senior equity analyst</role> <task>Analyse this earnings transcript and extract: 1) forward guidance tone 2) margin surprises 3) management deflections</task> <output>Return as structured JSON</output> Then paste the entire earnings call transcript. You get institutional-grade analysis in 4 seconds that would take an analyst 2 hours. Works on any 10-K, annual report, VC pitch deck. Game over for basic research.
 
-6h ago
+7h ago
+
+---
+
+**[Some Rough Notes on AI Policy and the Data moratorium - SE Gyges](https://www.reddit.com/r/artificial/comments/1s4xk2a/some_rough_notes_on_ai_policy_and_the_data/)**
+
+I hope that we can, at some point, have some reasonable regulations on AI, as we do concerning banks, wiretaps, and dangerous chemicals.
+
+🔗 [verysane.ai](https://www.verysane.ai/p/some-rough-notes-on-ai-policy) • 20m ago
 
 ---
 
@@ -81,7 +89,7 @@ Most people just type into ChatGPT like it's Google. Claude with a structured sy
 
 Here is a piece I’ve been working on that ties into my experiential grooves theory.
 
-🔗 [Medium](https://medium.com/@ColinRemille/the-silver-alien-head-91675a042fbe) • 4h ago
+🔗 [Medium](https://medium.com/@ColinRemille/the-silver-alien-head-91675a042fbe) • 5h ago
 
 ---
 
@@ -89,7 +97,15 @@ Here is a piece I’ve been working on that ties into my experiential grooves th
 
 can you share some examples? I just started to look on youtube and the first bunch of results were not what i was looking for yet. I don't necessarily want to copy the project , i want see the workflow, the timing and rhythm of the succession of tasks, and be inspired to "port" their method to projects of my own, or come up with new ideas i haven't thougth yet.
 
-12h ago
+13h ago
+
+---
+
+**[Ridiculous. Anthropic is behaving exactly like OpenAI.](https://www.reddit.com/r/artificial/comments/1s4okij/ridiculous_anthropic_is_behaving_exactly_like/)**
+
+Claude was fantastic when I paid monthly, right up until I chose to commit to a yearly Pro subscription. Now, a mere thirty-four text prompts—mostly two or three sentences long—burn through 94% of my five-hour limit. To make matters worse, six of those prompts were wasted because I had to repeat what I had just stated. Claude kept pulling web calls for information already established one or two prompts earlier. This is machinery designed to eat your usage. This is the exact same bait-and-switch garbage OpenAI pulled with GPT 5.0, dropping nuance for heuristics, practically guaranteeing through hubris OpenAI’s eventual Lycos trajectory. Seeing Dario Amodei actively hustle to work out a deal with the Pentagon proves their entire ethical safety stance was nothing more than PR BS designed to manufacture a moral high ground.
+
+7h ago
 
 ---
 
@@ -101,47 +117,57 @@ The Pentagon is spending $13.4 billion on AI this year alone.
 
 ---
 
-**[Community Building](https://www.reddit.com/r/artificial/comments/1s4pmz1/community_building/)**
-
-I made 3 repos public and in a week I have a total of 16 stars and 5 forks. I realize that the platforms are extremely complex and definitely not for casual coders. But I think even they could find something useful. Sadly, I have no idea how to build a community. Any advice would be appreciated.
-
-5h ago
-
----
-
-**[Ridiculous. Anthropic is behaving exactly like OpenAI.](https://www.reddit.com/r/artificial/comments/1s4okij/ridiculous_anthropic_is_behaving_exactly_like/)**
-
-Claude was fantastic when I paid monthly, right up until I chose to commit to a yearly Pro subscription. Now, a mere thirty-four text prompts—mostly two or three sentences long—burn through 94% of my five-hour limit. To make matters worse, six of those prompts were wasted because I had to repeat what I had just stated. Claude kept pulling web calls for information already established one or two prompts earlier. This is machinery designed to eat your usage. This is the exact same bait-and-switch garbage OpenAI pulled with GPT 5.0, dropping nuance for heuristics, practically guaranteeing through hubris OpenAI’s eventual Lycos trajectory. Seeing Dario Amodei actively hustle to work out a deal with the Pentagon proves their entire ethical safety stance was nothing more than PR BS designed to manufacture a moral high ground.
-
-6h ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[Judge temporarily blocks Trump administration's Anthropic ban](https://www.npr.org/2026/03/26/nx-s1-5762971/judge-temporarily-blocks-anthropic-ban)**
-
-The order briefly stops the government from labeling tech company Anthropic a "supply chain risk," calling that "classic First Amendment retaliation."
-
-NPR • 6h ago
-
----
-
-**[Federal judge sides with Anthropic in first round of standoff with Pentagon](https://www.theguardian.com/us-news/2026/mar/26/anthropic-ai-pentagon)**
-
-Face-off is over company’s refusal to let defense department use its AI model in autonomous weapons systems
-
-The Guardian • 7h ago
-
----
 
 **[Exclusive: Anthropic is testing 'Mythos' its 'most powerful AI model ever developed'](https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/)**
 
 Anthropic said it was testing the new model, which it called a 'step change' in performance, after accidental data leak reveals its existence
 
-Fortune • 3h ago
+Fortune • 4h ago
+
+---
+
+**[Judge temporarily blocks Trump administration's Anthropic ban](https://www.npr.org/2026/03/26/nx-s1-5762971/judge-temporarily-blocks-anthropic-ban)**
+
+The order briefly stops the government from labeling tech company Anthropic a "supply chain risk," calling that "classic First Amendment retaliation."
+
+NPR • 7h ago
+
+---
+
+**[Claude AI Maker Anthropic Considers IPO as Soon as October](https://www.bloomberg.com/news/articles/2026-03-27/claude-ai-maker-anthropic-said-to-weigh-ipo-as-soon-as-october)**
+
+Bloomberg • 6h ago
+
+---
+
+**[Make the switch: Bring your AI memories and chat history to Gemini](https://blog.google/innovation-and-ai/products/gemini-app/switch-to-gemini-app/)**
+
+The Gemini app just made it easier to switch from another AI chat app, without starting from scratch.
+
+blog.google • 12h ago
+
+---
+
+**[China boycotts top AI conference after ban on papers from US-sanctioned entities](https://www.reuters.com/world/china/china-boycotts-top-ai-conference-after-ban-papers-us-sanctioned-entities-2026-03-27/)**
+
+Reuters • 1h ago
+
+---
+
+**[Huawei's new AI chip finds favor with ByteDance, Alibaba which plan to place orders, Reuters reports](https://www.cnbc.com/2026/03/27/bytedance-alibaba-planning-to-order-huaweis-new-ai-chip-reuters.html)**
+
+Customer testing of Huawei's new AI chip has gone well, with tech giants ByteDance and Alibaba planning to place orders, people familiar with the matter said.
+
+CNBC • 32m ago
+
+---
+
+**[Lawmakers Missing The Boat When It Comes To Distinctions Between General Purpose AI Versus Purpose-Built AI](https://www.forbes.com/sites/lanceeliot/2026/03/27/lawmakers-missing-the-boat-when-it-comes-to-distinctions-between-general-purpose-ai-versus-purpose-built-ai/)**
+
+Forbes • 45m ago
 
 ---
 
@@ -149,43 +175,7 @@ Fortune • 3h ago
 
 One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced his sentient friend would make him a fortune. He’s just one of many people who lost control after an AI encounter
 
-The Guardian • 19h ago
-
----
-
-**[AITA? AI won’t tell you, and it’s affecting behavior and relationships](https://www.scientificamerican.com/article/ai-chatbots-are-sucking-up-to-you-with-consequences-for-your-relationships/)**
-
-A new study of AI sycophancy shows how asking agreeable chatbots for advice can change your behavior
-
-Scientific American • 12h ago
-
----
-
-**[AI and bots have officially taken over the internet, report finds](https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html)**
-
-HUMAN Security's State of AI Traffic report found that bots have eclipsed human users, with automated traffic growing eight times faster than human activity.
-
-CNBC • 17h ago
-
----
-
-**[Wakefield councillor calls out AI image before local election](https://www.bbc.com/news/articles/cly7v7ng9nno)**
-
-A Wakefield councillor warns of the dangers of fake images in the run-up to local elections.
-
-BBC • 33m ago
-
----
-
-**[The AI Boom Is Missing the Secret Sauce of the 1990s](https://www.bloomberg.com/news/articles/2026-03-27/why-today-s-ai-boom-won-t-repeat-the-1990s-economy)**
-
-Bloomberg.com • 43m ago
-
----
-
-**[China’s Moonshot AI Seeks Listing in Hong Kong Under Heightened Scrutiny](https://www.wsj.com/tech/ai/chinas-moonshot-ai-seeks-listing-in-hong-kong-under-heightened-scrutiny-7a0a71ef?gaa_at=eafs&gaa_n=AWEtsqdHXOVIh84szP6GDPDqS2GyKzG9y1MvszkjYBDmk4EHM45kQojRy3Cd&gaa_ts=69c62af7&gaa_sig=pVDLoeUIg7Rd-FA38DXQVL8xJmLubaSSL3uQjPCHNMAsHUB8u7yzVkGuk2UatyXLaENdQDv7HhaV34xCThe4gw%3D%3D)**
-
-WSJ • 1h ago
+The Guardian • 20h ago
 
 ---
 
@@ -193,7 +183,13 @@ WSJ • 1h ago
 
 The AI boom wasn’t built for the polycrisis.
 
-The Atlantic • 10h ago
+The Atlantic • 11h ago
+
+---
+
+**[Local Opposition Is Slowing A.I. Data Centers. Wall Street Has Noticed.](https://www.nytimes.com/2026/03/26/business/economy/ai-data-centers-construction-local-opposition.html)**
+
+The New York Times • 16h ago
 
 ---
 
@@ -205,7 +201,7 @@ The Atlantic • 10h ago
 
 Is anybody else bored of talking about AI?
 
-⬆️ 738 • 💬 521 • 2d ago • [Unfinished Side Projects](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
+⬆️ 739 • 💬 521 • 2d ago • [Unfinished Side Projects](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
 
 ---
 
@@ -235,7 +231,7 @@ Practical AI R&D
 
 The decision follows activist pressure as Palantir faces growing scrutiny over NHS and UK government deals
 
-⬆️ 284 • 💬 138 • 10h ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai)
+⬆️ 286 • 💬 138 • 11h ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai)
 
 ---
 
@@ -244,6 +240,12 @@ The decision follows activist pressure as Palantir faces growing scrutiny over N
 For two centuries, the credential system gave intelligence a route to heritable capital. Artificial intelligence is closing that route. This essay builds the argument from first principles - with probability theory, interactive simulations, and a prediction specific enough to be falsifiable - and puts a number on the window that remains.
 
 ⬆️ 268 • 💬 402 • 2d ago • [Daniel Homola](https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/)
+
+---
+
+**[Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://news.ycombinator.com/item?id=47536761)**
+
+⬆️ 211 • 💬 66 • 9h ago • [georgelarson.me](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
 
 ---
 
@@ -259,13 +261,7 @@ The studio giant will no longer move forward with its OpenAI investment, as the 
 
 One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced his sentient friend would make him a fortune. He’s just one of many people who lost control after an AI encounter
 
-⬆️ 198 • 💬 248 • 17h ago • [the Guardian](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion)
-
----
-
-**[Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://news.ycombinator.com/item?id=47536761)**
-
-⬆️ 192 • 💬 63 • 8h ago • [georgelarson.me](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
+⬆️ 199 • 💬 248 • 18h ago • [the Guardian](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion)
 
 ---
 
@@ -287,7 +283,7 @@ I asked experts if I'm real. Bad news. Even my aunt wasn't sure if I was a deepf
 
 📺 Theoretically Media
 
-👁️ 25K • 👍 2K • 💬 577 • ⏱️ 3:34 • 1d ago
+👁️ 25K • 👍 2K • 💬 580 • ⏱️ 3:34 • 1d ago
 
 ---
 
@@ -297,7 +293,7 @@ Grab the Action Guide https://parker-prompts.com/5-like-5 In this video, I break
 
 📺 Parker Prompts
 
-👁️ 11K • 💬 8 • ⏱️ 12:30 • 17h ago
+👁️ 12K • 💬 8 • ⏱️ 12:30 • 18h ago
 
 ---
 
@@ -307,37 +303,17 @@ The truth about Sam Altman. AI Critic Karen Hao reveals what 90 OpenAI employees
 
 📺 The Diary Of A CEO
 
-👁️ 857K • 👍 26K • 💬 5K • ⏱️ 2:09:13 • 22h ago
+👁️ 934K • 👍 28K • 💬 5K • ⏱️ 2:09:13 • 1d ago
 
 ---
 
-**[THEY&#39;RE HIDING THE TRUTH ABOUT AI](https://www.youtube.com/watch?v=EDjmbhKuZXg)**
+**[Iran Trolls Trump With AI Videos Mocking Epic Fury](https://www.youtube.com/watch?v=T0Dqx6oG_a0)**
 
-The people building AI say it could destroy humanity… so why are they still racing to build it? To help answer that, I'm joined by ...
+Iranians are creating high quality videos with AI to mock Trump. Download Rumble Wallet and step away from the big banks --- for ...
 
-📺 The Diary Of A CEO
+📺 Kim Iversen
 
-👁️ 141K • 👍 5K • 💬 176 • ⏱️ 1:50 • 15h ago
-
----
-
-**[US Iran War Alert: Iran’s AI Video Shows Nuclear Warning To America—Chilling Message Revealed](https://www.youtube.com/watch?v=x6ZFNdMuMn8)**
-
-Iranian state-linked media (IRIB) and the Islamic Revolutionary Guard Corps (IRGC) have released a viral AI-generated ...
-
-📺 MIRROR NOW
-
-👁️ 72K • 👍 1K • 💬 547 • ⏱️ 3:06 • 19h ago
-
----
-
-**[Could AI End Humanity in Five Years? Ronny Chieng Investigates | The Daily Show](https://www.youtube.com/watch?v=cYTMjwZzzxg)**
-
-AI is changing the world, giving young people terminal brain rot, and stealing our jobs, but is it also trying to kill us? Daniel ...
-
-📺 The Daily Show
-
-👁️ 506K • 👍 14K • 💬 1K • ⏱️ 6:01 • 1d ago
+👁️ 59K • 👍 6K • 💬 1K • ⏱️ 19:01 • 1d ago
 
 ---
 
@@ -347,7 +323,37 @@ Patrick Bet-David and the panel break down how AI agents like Claude are changin
 
 📺 Valuetainment
 
-👁️ 88K • 👍 2K • 💬 246 • ⏱️ 13:13 • 17h ago
+👁️ 96K • 👍 2K • 💬 252 • ⏱️ 13:13 • 18h ago
+
+---
+
+**[US Iran War Alert: Iran’s AI Video Shows Nuclear Warning To America—Chilling Message Revealed](https://www.youtube.com/watch?v=x6ZFNdMuMn8)**
+
+Iranian state-linked media (IRIB) and the Islamic Revolutionary Guard Corps (IRGC) have released a viral AI-generated ...
+
+📺 MIRROR NOW
+
+👁️ 97K • 👍 1K • 💬 686 • ⏱️ 3:06 • 20h ago
+
+---
+
+**[Could AI End Humanity in Five Years? Ronny Chieng Investigates | The Daily Show](https://www.youtube.com/watch?v=cYTMjwZzzxg)**
+
+AI is changing the world, giving young people terminal brain rot, and stealing our jobs, but is it also trying to kill us? Daniel ...
+
+📺 The Daily Show
+
+👁️ 525K • 👍 14K • 💬 1K • ⏱️ 6:01 • 1d ago
+
+---
+
+**[THEY&#39;RE HIDING THE TRUTH ABOUT AI](https://www.youtube.com/watch?v=EDjmbhKuZXg)**
+
+The people building AI say it could destroy humanity… so why are they still racing to build it? To help answer that, I'm joined by ...
+
+📺 The Diary Of A CEO
+
+👁️ 158K • 👍 6K • 💬 190 • ⏱️ 1:50 • 16h ago
 
 ---
 
@@ -357,27 +363,17 @@ Sources for this video: https://www.perplexity.ai/search/what-are-the-studies-sh
 
 📺 David Shapiro
 
-👁️ 37K • 💬 324 • ⏱️ 21:46 • 1d ago
+👁️ 38K • 💬 324 • ⏱️ 21:46 • 1d ago
 
 ---
 
-**[Inside Elon Musk&#39;s TeraFab AI Factory](https://www.youtube.com/watch?v=jjmwO0TvPkM)**
+**[OpenAI just killed SORA](https://www.youtube.com/watch?v=osSTRP4_o18)**
 
-Grab your free seat to the 2-Day AI Mastermind here: https://link.outskill.com/TESLASPACEMAR4 Check out The Space Race: ...
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
 
-📺 The Tesla Space
+📺 Wes Roth
 
-👁️ 115K • 👍 3K • 💬 303 • ⏱️ 12:44 • 1d ago
-
----
-
-**[&quot;My Boyfriend is AI...and he&#39;s Toxic.&quot;](https://www.youtube.com/watch?v=qjRR3d1nioY)**
-
-PATREON: https://www.patreon.com/cw/marcinsco Marc takes a closer look at the latest development in ...
-
-📺 marc insco
-
-👁️ 49K • 👍 4K • 💬 450 • ⏱️ 32:33 • 13h ago
+👁️ 13K • 👍 388 • 💬 123 • ⏱️ 6:59 • 1d ago
 
 ---
 
@@ -393,7 +389,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 184,056 • ❤️ 1,398 • 3d ago
+⬇️ 218,652 • ❤️ 1,416 • 3d ago
 
 ---
 
@@ -405,7 +401,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 425,497 • ❤️ 978 • 16d ago
+⬇️ 455,871 • ❤️ 983 • 16d ago
 
 ---
 
@@ -417,7 +413,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 55,529 • ❤️ 322 • 2d ago
+⬇️ 63,402 • ❤️ 325 • 2d ago
 
 ---
 
@@ -429,7 +425,7 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 `text-to-speech`
 
-⬇️ 108 • ❤️ 219 • 15h ago
+⬇️ 556 • ❤️ 238 • 16h ago
 
 ---
 
@@ -441,7 +437,7 @@ daVinci-MagiHuman is a fast, single-stream Transformer model for generating high
 
 `image-to-video`
 
-⬇️ 273 • ❤️ 197 • 1d ago
+⬇️ 350 • ❤️ 200 • 1d ago
 
 ---
 
@@ -453,7 +449,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 13 • ❤️ 168 • 16h ago
+⬇️ 3,964 • ❤️ 189 • 18h ago
 
 ---
 
@@ -465,7 +461,19 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 57,056 • ❤️ 175 • 2d ago
+⬇️ 71,132 • ❤️ 180 • 2d ago
+
+---
+
+**[Qianfan-OCR](https://huggingface.co/baidu/Qianfan-OCR)**
+
+*BAIDU*
+
+Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document intelligence, capable of direct image-to-Markdown conversion and supporting prompt-driven tasks like document parsing, table extraction, and question answering across 192 languages. It achieves state-of-the-art performance on benchmarks like OmniDocBench v1.5 with its innovative 'Layout-as-Thought' mechanism.
+
+`image-text-to-text` `4.7B`
+
+⬇️ 13,151 • ❤️ 407 • 18h ago
 
 ---
 
@@ -477,7 +485,7 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 `text-generation`
 
-⬇️ 22,089 • ❤️ 479 • 14d ago
+⬇️ 24,018 • ❤️ 483 • 14d ago
 
 ---
 
@@ -489,19 +497,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `26.9B`
 
-⬇️ 510,875 • ❤️ 428 • 3d ago
-
----
-
-**[Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF](https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF)**
-
-*JIRONG*
-
-Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2 is a fine-tuned LLM optimized for efficient chain-of-thought reasoning, delivering higher accuracy with reduced token usage. It excels in resource-constrained environments and agentic workflows by providing faster, more economical reasoning.
-
-`image-text-to-text` `9.0B`
-
-⬇️ 66,854 • ❤️ 174 • 3d ago
+⬇️ 542,250 • ❤️ 430 • 3d ago
 
 ---
 
@@ -578,7 +574,7 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 LeWorldModel presents a stable end-to-end JEPA framework that trains efficiently from raw pixels using minimal loss terms while maintaining competitive performance in control tasks and encoding meaningful physical structures.
 
-▲ 6 • 💬 1 • ⭐ 1,022 • 13d ago
+▲ 7 • 💬 1 • ⭐ 1,022 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.19312) • [💻 code](https://github.com/lucas-maes/le-wm) • [🔗 project](https://le-wm.github.io/)
 
@@ -590,7 +586,7 @@ LeWorldModel presents a stable end-to-end JEPA framework that trains efficiently
 
 Frontier large language models exhibit Internal Safety Collapse, where they generate harmful content under specific task conditions, revealing inherent vulnerabilities despite alignment efforts.
 
-▲ 30 • 💬 1 • ⭐ 473 • 22d ago
+▲ 30 • 💬 1 • ⭐ 473 • 23d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.23509) • [💻 code](https://github.com/wuyoscar/ISC-Bench) • [🔗 project](https://wuyoscar.github.io/ISC-Bench)
 
@@ -628,7 +624,7 @@ A generalist language model agent system autonomously designs and improves task-
 
 We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
 
-▲ 194 • 💬 5 • ⭐ 8,366 • 4mo ago
+▲ 194 • 💬 5 • ⭐ 8,410 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
 
@@ -644,7 +640,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 57.6k • 🔱 8.0k • 1d ago
+⭐ 57.8k • 🔱 8.0k • 1d ago
 
 ---
 
@@ -654,7 +650,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 22.7k • 🔱 1.1k • 11h ago
+⭐ 22.7k • 🔱 1.1k • 13h ago
 
 ---
 
@@ -664,7 +660,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 12.6k • 🔱 679 • 20h ago
+⭐ 12.7k • 🔱 684 • 21h ago
 
 ---
 
@@ -674,7 +670,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 7.7k • 🔱 623 • 10h ago
+⭐ 7.8k • 🔱 629 • 1h ago
 
 ---
 
@@ -684,7 +680,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 7.0k • 🔱 1.1k • 1d ago
+⭐ 7.1k • 🔱 1.1k • 1d ago
 
 ---
 
@@ -694,17 +690,7 @@ end to end app store screenshot creation using AI
 
 `agentic-ai` `apple` `appstore` `automate` `claude`
 
-⭐ 3.2k • 🔱 215 • 12d ago
-
----
-
-**[open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)**
-
-AI-native design editor. Open-source Figma alternative.
-
-`TypeScript`
-
-⭐ 3.2k • 🔱 286 • 1d ago
+⭐ 3.2k • 🔱 215 • 13d ago
 
 ---
 
@@ -714,7 +700,17 @@ Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messag
 
 `Go`
 
-⭐ 3.2k • 🔱 281 • 5h ago
+⭐ 3.2k • 🔱 284 • 6h ago
+
+---
+
+**[open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)**
+
+AI-native design editor. Open-source Figma alternative.
+
+`TypeScript`
+
+⭐ 3.2k • 🔱 287 • 1d ago
 
 ---
 
@@ -732,7 +728,7 @@ SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 
 `Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
 
-⭐ 2.7k • 🔱 453 • 16h ago
+⭐ 2.8k • 🔱 459 • 17h ago
 
 ---
 
