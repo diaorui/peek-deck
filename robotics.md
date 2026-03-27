@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-27T12:02:42.806923+00:00'
+updated: '2026-03-27T13:49:27.021443+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 27, 2026 at 12:02 UTC  
+**Last Updated:** March 27, 2026 at 13:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,9 +32,25 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Unitree just announced an open source whole-body teleoperation (WBT) dataset: UnifoLM-WBT-Dataset. Available on Hugging Face.](https://www.reddit.com/r/robotics/comments/1s50zq4/unitree_just_announced_an_open_source_wholebody/)**
+
+Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dataset From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2037440578275946551
+
+2h ago
+
+---
+
+**[Homemade 6 axis arm with old 3d printers](https://www.reddit.com/r/robotics/comments/1s517i9/homemade_6_axis_arm_with_old_3d_printers/)**
+
+Hello everyone, I wanted to share my project that I've been working on for months. I've recycled two old 3D printers Anet A8 into a robotic arm. My main goal is to make a coffee with it. The motors and the electronic cards are from the printers. I've flashed them with Marlin and control them with python with a custom interface. I need to use 2 boards because I can only control independently 4 motors with one board. All the joints design are homemade, and 3d printed. The endeffector is a design from Makerworld u/user_2700759104 (I will build my own in the next days). There is a lot of backlash because of the planetary gears that I use. I plan to change them in the future. If anyone knows a reduction gear for Nema17 with minimum backlash I am all ears ! Thanks to the gear ratio, I've measured 2.9kg of force with the J2. List of components : Motors (J1->J6) : Nema17 Endeffector : Servo SG90 Boards : 2 Anet A8 + 1 Arduino Uno Reduction : J1 - 19:1 J2 - 51:1 J3 - 19:1 J4 - 19:1 J5 - 19:1 (90° 1:1) J6 - 1:1
+
+2h ago
+
+---
+
 **[Demo of Agibot’s wheeled A2 depalleting](https://www.reddit.com/r/robotics/comments/1s4spdj/demo_of_agibots_wheeled_a2_depalleting/)**
 
-8h ago
+10h ago
 
 ---
 
@@ -42,15 +58,7 @@ Robotics research and industry news
 
 Yeah, front flips. I know, I've seen a lot of "who cares," "useless flex," "why don't you do something useful," "seen it a hundred times." Fair. But when it actually works on a real robot, you still feel it. Still a lot to fix, but this was a good day :D
 
-21h ago
-
----
-
-**[Unitree just announced an open source whole-body teleoperation (WBT) dataset: UnifoLM-WBT-Dataset. Available on Hugging Face.](https://www.reddit.com/r/robotics/comments/1s50zq4/unitree_just_announced_an_open_source_wholebody/)**
-
-Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dataset From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2037440578275946551
-
-56m ago
+23h ago
 
 ---
 
@@ -58,25 +66,33 @@ Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dat
 
 This is the new and improved state of the driver board for my work in progress 6 axis 3D printed robot arm. ESP32 I2C Multiplexing - For encoder wiring 6 x DRV8825
 
-7h ago
+9h ago
 
 ---
 
 **[Shared my firs model to Printables](https://www.reddit.com/r/robotics/comments/1s4oaut/shared_my_firs_model_to_printables/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Meta is hosting an AI Hackathon (OpenEnv) - direct interview opportunity + $30k prizes](https://www.reddit.com/r/robotics/comments/1s4zz0q/meta_is_hosting_an_ai_hackathon_openenv_direct/)**
 
-1h ago
+3h ago
+
+---
+
+**[Robotics Competitions](https://www.reddit.com/r/robotics/comments/1s549vv/robotics_competitions/)**
+
+Hi everyone, I'm a master's student in India currently studying Robotics. I came across ICRA 2026, and there were some competitions mentioned there. I'm interested in taking part in such competitions, but obviously they are at a world stage and require a lot of preparation and studying. Maybe I'll participate in one next year. What are some of the smaller competitions that are held in regional levels too.
+
+14m ago
 
 ---
 
 **[This Is How You Beat the Biggest Big Wheeled Bot](https://www.reddit.com/r/robotics/comments/1s4demt/this_is_how_you_beat_the_biggest_big_wheeled_bot/)**
 
-18h ago
+20h ago
 
 ---
 
@@ -84,37 +100,13 @@ This is the new and improved state of the driver board for my work in progress 6
 
 Wanted to share something we've been working on: using electro-permanent magnets (EPMs) as grippers for robotics and drone applications. The basic idea is that the magnet can be switched on/off electrically (like an electromagnet), but holds its state without power like a regular magnet. Key specs: 70g mass, 25+ kgf holding force, zero power in steady state, controlled via CAN, RC PWM, or simple discrete voltage level. No moving parts & works anywhere (dust-/waterproof, vibration-resistant). We've shipped these to university labs, defense contractors, and drone companies for payload attachment. Use cases range from drone delivery to cobot arms to ground vehicle trailer attachment. They can be used with non-ferromagnetic payloads as well as covered in the docs. We are trying to raise awareness and are providing free samples to universities and hobbyists, conditional on mentions in papers or media. Please DM me or leave a comment below for details!
 
-11h ago
-
----
-
-**[Can someone build robotic arms to test input devices?](https://www.reddit.com/r/robotics/comments/1s4wijv/can_someone_build_robotic_arms_to_test_input/)**
-
-For longevity, durability testing. I imagine versatile robotic arms and hands that could test hardware like keyboards, mice, touchscreens or any user inputs. I mean one robot for all testing purposes.
-
-5h ago
-
----
-
-**[Where does Livox Avia sit in 2026? Are companies / people still using it for mapping / SLAM?](https://www.reddit.com/r/robotics/comments/1s4isi2/where_does_livox_avia_sit_in_2026_are_companies/)**
-
-curious what people think about the Livox Avia in today’s stack for mapping / slam in 2026. I used these in a project around 2022/2023, but haven't used them since. It always seemed like a strong middle ground between lower-cost Livox units and more expensive survey-grade systems, especially for UAV mapping and longer-range perception. My team used it for a mapping / slam project perviously, but I noticed they are sold out on DJI site. Are these in crazy demand or just not manufactured anymore? I ask because I have two brand new Avia units (never used, still sealed — from a startup project that pivoted), are they of any value in selling or should I try to find a way to make money with them from a mapping / service business? If anyone happens to be looking for one, feel free to reach out — but mostly just trying to understand the current landscape.
-
-15h ago
+13h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[Meet Figure AI: The company behind the humanoid robot hosted by Melania Trump](https://www.cnbc.com/2026/03/26/figure-ai-the-robotics-company-hosted-by-melania-trump.html)**
-
-The White House hosted its first humanoid robot guest, with first lady Melania Trump appearing alongside a robot from startup Figure AI.
-
-CNBC • 1d ago
-
----
 
 **[Amazon acquires 'approachable' humanoid maker Fauna Robotics](https://www.cnbc.com/2026/03/24/amazon-humanoid-maker-fauna-robotics-sprout.html)**
 
@@ -124,11 +116,19 @@ CNBC • 2d ago
 
 ---
 
-**[China’s humanoid robot with lifelike expressions can smile, emote during interactions](https://interestingengineering.com/ai-robotics/lifelike-humanoid-robot-sparks-debate)**
+**[Agile humanoid robots with Google brain to undergo industrial testing](https://interestingengineering.com/ai-robotics/agile-deepmind-industrial-humanoid-robots)**
 
-China’s robotics industry is shifting toward hyperrealistic humanoid faces, focusing on emotional interaction and social acceptance.
+A robotics collaboration will combine AI models with industrial robots to improve automation through real-world deployment and training.
 
-Interesting Engineering • 22h ago
+Interesting Engineering • 2h ago
+
+---
+
+**[Amazon buys Fauna Robotics, maker of the Sprout humanoid robot](https://abcnews.com/Business/wireStory/amazon-buys-fauna-robotics-maker-sprout-humanoid-robot-131377676)**
+
+Amazon has acquired Fauna Robotics, just under two months after the startup introduced a humanoid robot called Sprout designed for social spaces like homes and schools
+
+abcnews.com • 2d ago
 
 ---
 
@@ -144,7 +144,7 @@ ABC7 Chicago • 2d ago
 
 Two delivery robots crashed into two bus shelters in Chicago within a matter of days -- and one of the incidents was caught on camera.
 
-upi.com • 20h ago
+upi.com • 22h ago
 
 ---
 
@@ -152,13 +152,13 @@ upi.com • 20h ago
 
 Amazon has spent more than a decade automating its logistics network. The company has already deployed more than 1 million robots across its operations,
 
-PYMNTS.com • 14h ago
+PYMNTS.com • 15h ago
 
 ---
 
 **[US lawmakers to introduce bill to ban government use of Chinese robots](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/)**
 
-Reuters • 19h ago
+Reuters • 21h ago
 
 ---
 
@@ -170,9 +170,9 @@ MIT Media Lab • 1d ago
 
 ---
 
-**[OpenAI inks 202,000-square-foot East Bay lease in Richmond](https://www.bizjournals.com/sanfrancisco/news/2026/03/26/openai-robotics-richmond-ford-point.html)**
+**[OpenAI inks 202,000-square-foot East Bay lease in Richmond - San Francisco Business Times](https://www.bizjournals.com/sanfrancisco/news/2026/03/26/openai-robotics-richmond-ford-point.html)**
 
-The Business Journals • 15h ago
+The Business Journals • 17h ago
 
 ---
 
@@ -188,23 +188,33 @@ IEEE Spectrum • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[China’s New AI Robots Just Broke The Human Skill Barrier](https://www.youtube.com/watch?v=QDRzgF-8-50)**
-
-This week in robotics got kind of ridiculous. South Korea showed off a humanoid that can run, jump, play soccer, and moonwalk, ...
-
-📺 AI Revolution
-
-👁️ 209K • 👍 2K • 💬 136 • ⏱️ 14:31 • 4d ago
-
----
-
 **[Viral robot appearances on the rise as White House hosts humanoid robot](https://www.youtube.com/watch?v=CDbSdaiEdyQ)**
 
 Humanoid robots have been making appearances through social media, tv segments, and at the latest White House summit.
 
 📺 NBC News
 
-👁️ 81K • 👍 496 • 💬 337 • ⏱️ 3:05 • 1d ago
+👁️ 84K • 👍 502 • 💬 338 • ⏱️ 3:05 • 1d ago
+
+---
+
+**[Maniac Melania Trump Suggests Replacing Teachers With Robots](https://www.youtube.com/watch?v=mpQYocsUpdg)**
+
+Melania Trump suggested using humanoid AI robots like a “Plato” educator to teach children, proposing a future where ...
+
+📺 Farron Balanced
+
+👁️ 31K • 👍 3K • 💬 733 • ⏱️ 5:10 • 18h ago
+
+---
+
+**[China’s New AI Robots Just Broke The Human Skill Barrier](https://www.youtube.com/watch?v=QDRzgF-8-50)**
+
+This week in robotics got kind of ridiculous. South Korea showed off a humanoid that can run, jump, play soccer, and moonwalk, ...
+
+📺 AI Revolution
+
+👁️ 210K • 👍 2K • 💬 137 • ⏱️ 14:31 • 4d ago
 
 ---
 
@@ -214,7 +224,7 @@ A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White H
 
 📺 C-SPAN
 
-👁️ 173K • 👍 728 • 💬 1K • ⏱️ 2:59 • 1d ago
+👁️ 177K • 👍 753 • 💬 1K • ⏱️ 2:59 • 1d ago
 
 ---
 
@@ -224,7 +234,7 @@ On March 8, at the "Tomorrow's Walker" exhibit in Shanghai Science and Technolog
 
 📺 China Observer
 
-👁️ 60K • 👍 2K • 💬 377 • ⏱️ 15:22 • 1d ago
+👁️ 62K • 👍 2K • 💬 379 • ⏱️ 15:22 • 1d ago
 
 ---
 
@@ -234,7 +244,7 @@ Thanks to Delete Me for sponsoring this video. To keep your private info private
 
 📺 Kim Java
 
-👁️ 110K • 👍 5K • 💬 252 • ⏱️ 20:00 • 2d ago
+👁️ 116K • 👍 6K • 💬 265 • ⏱️ 20:00 • 3d ago
 
 ---
 
@@ -244,7 +254,7 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 📺 CNET
 
-👁️ 17K • 👍 469 • 💬 29 • ⏱️ 5:50 • 5d ago
+👁️ 17K • 👍 473 • 💬 29 • ⏱️ 5:50 • 5d ago
 
 ---
 
@@ -254,7 +264,7 @@ Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesda
 
 📺 CBS News
 
-👁️ 30K • 👍 214 • 💬 252 • ⏱️ 9:54 • 1d ago
+👁️ 31K • 👍 219 • 💬 257 • ⏱️ 9:54 • 1d ago
 
 ---
 
@@ -264,7 +274,7 @@ Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesda
 
 📺 RAI Institute
 
-👁️ 412K • 👍 10K • 💬 1K • ⏱️ 1:34 • 3d ago
+👁️ 422K • 👍 11K • 💬 1K • ⏱️ 1:34 • 3d ago
 
 ---
 
@@ -274,17 +284,7 @@ The Ultimate Microcontroller Battle is HERE! Who is the real KING of your tech w
 
 📺 M.R. Hacking Robot
 
-👁️ 3K • 👍 65 • 💬 2 • ⏱️ 0:21 • 23h ago
-
----
-
-**[The Most Human-Like Robots of 2026 Are Finally Here — And It Changes Everything](https://www.youtube.com/watch?v=BtE4otcAfVc)**
-
-The most advanced humanoid robots of 2026 just dropped — and you are NOT ready for what they can do. This year changes ...
-
-📺 The AI Nexus
-
-👁️ 6K • 👍 180 • 💬 14 • ⏱️ 16:29 • 3d ago
+👁️ 5K • 👍 116 • 💬 3 • ⏱️ 0:21 • 1d ago
 
 ---
 

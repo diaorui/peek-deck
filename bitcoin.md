@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-27T12:02:42.798832+00:00'
+updated: '2026-03-27T13:49:27.012987+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- news
 - social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 27, 2026 at 12:02 UTC  
+**Last Updated:** March 27, 2026 at 13:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,884.43
+### $66,571.31
 
 ---
 
@@ -47,24 +47,24 @@ Live Bitcoin monitoring dashboard
 **24h:** -4.2%  
 **7d:** -3.2%  
 **30d:** -1.4%  
-**90d:** -24.1%  
+**90d:** -24.2%  
 **1y:** -21.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1353.25B
+**Market Cap:** $1329.77B
 Rank #1
 
 **Circulating Supply:** 20,003,043 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--46.3%
+-47.3%
 
 **All-Time Low:** $67.81
-+99703.9%
++97963.7%
 
 ---
 
@@ -77,17 +77,33 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[btc dipping again and im actually thriving with this opportunity](https://www.reddit.com/r/Bitcoin/comments/1s4wkr6/btc_dipping_again_and_im_actually_thriving_with/)**
+**[COME ON DOWN BABY!! WOOHOO!](https://www.reddit.com/r/Bitcoin/comments/1s524f4/come_on_down_baby_woohoo/)**
 
-back in september i got absolutely wrecked playing with margin trading like an idiot and lost way more than i should have but crying about it wont bring my money back so whatever my strategy now is just plain old dollar cost averaging and holding for the long haul bitcoin crashing means i can stack more sats so ive bumped up my weekly buys from 30 to 75 bucks these lower prices are basically a gift if you think about it long term
+I honestly never thought I'd get this chance again, this is so awesome. Pulling more and more savings over to grab more. I should be a half-coiner soon. Yes!
 
-5h ago
+1h ago
 
 ---
 
 **[crazy to think about those early bitcoin tips from the pioneers](https://www.reddit.com/r/Bitcoin/comments/1s4yqx5/crazy_to_think_about_those_early_bitcoin_tips/)**
 
 been diving deep into old reddit threads lately and stumbled across some wild stuff from way back when bitcoin was just getting started. found this account from one of the original developers and their final post was literally giving away an entire bitcoin like it was pocket change scrolling through those ancient conversations is mind blowing. most of these usernames probably dont even remember their passwords anymore. makes me wonder what the biggest single tip anyone here has actually witnessed on reddit was anyway found this quote buried in there that stuck with me about how buying stuff just gives you temporary happiness but experiences stick with you forever. pretty solid wisdom from someone who was building the future we're living in now
+
+4h ago
+
+---
+
+**[btc dipping again and im actually thriving with this opportunity](https://www.reddit.com/r/Bitcoin/comments/1s4wkr6/btc_dipping_again_and_im_actually_thriving_with/)**
+
+back in september i got absolutely wrecked playing with margin trading like an idiot and lost way more than i should have but crying about it wont bring my money back so whatever my strategy now is just plain old dollar cost averaging and holding for the long haul bitcoin crashing means i can stack more sats so ive bumped up my weekly buys from 30 to 75 bucks these lower prices are basically a gift if you think about it long term
+
+7h ago
+
+---
+
+**[new crypto legislation](https://www.reddit.com/r/Bitcoin/comments/1s50jvx/new_crypto_legislation/)**
+
+so its become pretty clear that the banks have too much politcal power, and the new legislation is not going to allow stable coins to issue rewards. while i get that this slows the crypto industry as a whole... its kind of a nothing burger for bitcoin right? maybe even a positive.
 
 3h ago
 
@@ -97,43 +113,7 @@ been diving deep into old reddit threads lately and stumbled across some wild st
 
 Hey everyone, just wanted to share some thoughts as someone whos been watching this space for a while First off - if youre not planning to hold for at least 3-4 years, maybe reconsider your strategy. This isnt a get rich quick thing Second - stop refreshing coinbase every hour lol. I used to do this and it was driving me insane. Now I check maybe twice a week and my mental health is way better Third - dont let every twitter thread or news article send you into panic mode. Most of it is just noise anyway Look, as long as you only put in what you can actually afford to lose and youre thinking long term, youll probably be fine. If you went too hard and used money you needed for bills or whatever, that sucks but try to learn from it Everything feels chaotic right now but thats just how markets work sometimes. Stay calm and dont make emotional decisions when youre stressed
 
-9h ago
-
----
-
-**[this is massive! Fannie Mae just opened the door to Bitcoin backed mortgages](https://www.reddit.com/r/Bitcoin/comments/1s4a4gs/this_is_massive_fannie_mae_just_opened_the_door/)**
-
-The other day we posted about how our current monetary system prices out many from home ownership, and how bitcoin is part of the solution and that is becoming more true every day. Starting today, homebuyers can pledge Bitcoin as downpayment collateral through a new Coinbase + Better Home & Finance program backed by Fannie Mae, which underwrites roughly half of all U.S. mortgages. Here are the key elements: --Homebuyers don't sell their bitcoin so there's no taxable event --No margin calls, so if Bitcoin drops 30%, the mortgage terms don't change
-
-20h ago
-
----
-
-**[Just grabbed 0.01 BTC during this dip. Targeting 0.21 next](https://www.reddit.com/r/Bitcoin/comments/1s4g0uv/just_grabbed_001_btc_during_this_dip_targeting/)**
-
-So I finally pulled the trigger and snagged 0.01 BTC while prices are down. Pretty stoked about it. Now I'm wondering what's a solid target amount for long-term holding? Thinking 0.21 might be my next milestone but curious what others are aiming for. Anyone have thoughts on where we're headed price-wise? I know nobody has a crystal ball but always interested in hearing different perspectives on potential recovery timelines.
-
-17h ago
-
----
-
-**[Coinbase, Fannie Mae to Enable Crypto-Backed Mortgages](https://www.reddit.com/r/Bitcoin/comments/1s475sr/coinbase_fannie_mae_to_enable_cryptobacked/)**
-
-The government-sponsored mortgage giant will accept Bitcoin and USDC as collateral through a new program with Better Home and Coinbase.
-
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/coinbase-fannie-mae-enable-crypto-120846995.html) • 22h ago
-
----
-
-**[My favourite video 😅](https://www.reddit.com/r/Bitcoin/comments/1s3usw5/my_favourite_video/)**
-
-1d ago
-
----
-
-**[TD Bankers Are Now Wearing Bitcoin Ties...](https://www.reddit.com/r/Bitcoin/comments/1s4fpaz/td_bankers_are_now_wearing_bitcoin_ties/)**
-
-17h ago
+11h ago
 
 ---
 
@@ -141,15 +121,37 @@ The government-sponsored mortgage giant will accept Bitcoin and USDC as collater
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-5h ago
+7h ago
 
 ---
 
-**[new crypto legislation](https://www.reddit.com/r/Bitcoin/comments/1s50jvx/new_crypto_legislation/)**
+**[this is massive! Fannie Mae just opened the door to Bitcoin backed mortgages](https://www.reddit.com/r/Bitcoin/comments/1s4a4gs/this_is_massive_fannie_mae_just_opened_the_door/)**
 
-so its become pretty clear that the banks have too much politcal power, and the new legislation is not going to allow stable coins to issue rewards. while i get that this slows the crypto industry as a whole... its kind of a nothing burger for bitcoin right? maybe even a positive.
+The other day we posted about how our current monetary system prices out many from home ownership, and how bitcoin is part of the solution and that is becoming more true every day. Starting today, homebuyers can pledge Bitcoin as downpayment collateral through a new Coinbase + Better Home & Finance program backed by Fannie Mae, which underwrites roughly half of all U.S. mortgages. Here are the key elements: --Homebuyers don't sell their bitcoin so there's no taxable event --No margin calls, so if Bitcoin drops 30%, the mortgage terms don't change
 
-1h ago
+22h ago
+
+---
+
+**[Just grabbed 0.01 BTC during this dip. Targeting 0.21 next](https://www.reddit.com/r/Bitcoin/comments/1s4g0uv/just_grabbed_001_btc_during_this_dip_targeting/)**
+
+So I finally pulled the trigger and snagged 0.01 BTC while prices are down. Pretty stoked about it. Now I'm wondering what's a solid target amount for long-term holding? Thinking 0.21 might be my next milestone but curious what others are aiming for. Anyone have thoughts on where we're headed price-wise? I know nobody has a crystal ball but always interested in hearing different perspectives on potential recovery timelines.
+
+19h ago
+
+---
+
+**[Coinbase, Fannie Mae to Enable Crypto-Backed Mortgages](https://www.reddit.com/r/Bitcoin/comments/1s475sr/coinbase_fannie_mae_to_enable_cryptobacked/)**
+
+The government-sponsored mortgage giant will accept Bitcoin and USDC as collateral through a new program with Better Home and Coinbase.
+
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/coinbase-fannie-mae-enable-crypto-120846995.html) • 1d ago
+
+---
+
+**[TD Bankers Are Now Wearing Bitcoin Ties...](https://www.reddit.com/r/Bitcoin/comments/1s4fpaz/td_bankers_are_now_wearing_bitcoin_ties/)**
+
+19h ago
 
 ---
 
@@ -161,35 +163,49 @@ so its become pretty clear that the banks have too much politcal power, and the 
 
 Ukraine’s disruption of Russian oil flows has added fresh uncertainty to already strained energy markets, complicating inflation outlooks and keeping pressure on risk assets including bitcoin.
 
-CoinDesk • 5h ago
+CoinDesk • 7h ago
 
 ---
 
-**[Bitcoin Miners, Now AI Compute Leaders, Face Profitability Concerns](https://www.investors.com/news/bitcoin-miner-profitability-hash-price-q1-2026-ai-pivot-wulf-corz-cifr-hut/)**
+**[Goldman Sachs: Bitcoin And Crypto May Be Nearing A Bottom](https://bitcoinmagazine.com/markets/goldman-sachs-bitcoin-might-have-bottomed)**
 
-Investor's Business Daily • 14h ago
+Goldman Sachs believes bitcoin and crypto prices may have hit their floor after months of declines.
+
+Bitcoin Magazine • 19h ago
 
 ---
 
-**[3 Catalysts That Could Trigger Bitcoin's Next $20,000 Move](https://www.fool.com/investing/2026/03/27/3-catalysts-that-could-trigger-bitcoins-next-20000/)**
+**[Bitcoin Slumps With Options Showing Traders Turning Defensive](https://finance.yahoo.com/markets/crypto/articles/bitcoin-slumps-options-showing-traders-114316734.html)**
 
-Bitcoin is standing at a few different crossroads.
+(Bloomberg) -- Bitcoin touched a more than two-week low with traders assuming a defensive posture following the largest expiry of option this year. Roughly $14 billion of Bitcoin options expired Friday, as measured by the number for outstanding contracts, known as open interest. The quarterly rollover comes amid conflicting signals on the prospect of a halt to the nearly month-long war in the Middle East. Looking at traders’ positions, they seem to be anticipating a prolonged war, potential stag
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitcoin Price Today: Why Cryptos Including XRP Are Falling Fast](https://www.barrons.com/articles/bitcoin-xrp-crypto-price-today-f98eeaec?gaa_at=eafs&gaa_n=AWEtsqfLxfxbvYdz1coDpHdqgVlwhoqgzya9ZuPPcb5OflZoiiRx4yAKVh00&gaa_ts=69c68e09&gaa_sig=lEfa_D8wzhgzuVdoEG5yzhGqoDujrC_7_THvtXdCK54Zz9VlzKxvxaFhpE3v5QzZbjP93EpH4a0TKn6ePjv2TA%3D%3D)**
+
+Barron's • 57m ago
+
+---
+
+**[4 Reasons Bitcoin Is (Still) the Smartest Long-Term Investment in Crypto](https://www.fool.com/investing/2026/03/27/4-reasons-bitcoin-is-still-the-smartest-long-term/)**
+
+There's little reason to expect the king of crypto be unseated anytime soon.
 
 The Motley Fool • 1h ago
 
 ---
 
-**[Bitcoin falls below $68,000 as U.S. 10-year Treasury yield nears 1-year high of 4.5%](https://www.coindesk.com/markets/2026/03/27/bitcoin-falls-below-usd68-000-as-10-year-treasury-yield-nears-1-year-high-of-4-5)**
+**[5 long, loud years: Neighbor, county leader ready for Bitcoin mine shutdown](https://www.wjhl.com/news/local/5-long-loud-years-neighbor-county-leader-ready-for-bitcoin-mine-shutdown/)**
 
-Liquidation heatmap shows large liquidity cluster around $66,000, signaling potential downside target.
-
-CoinDesk • 2h ago
+WJHL • 14h ago
 
 ---
 
 **[Bitcoin Faces $14 Billion Options Expiry While Middle East Turmoil Mounts](https://www.bloomberg.com/news/articles/2026-03-26/bitcoin-faces-14-billion-options-expiry-while-middle-east-turmoil-mounts)**
 
-Bloomberg • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -197,37 +213,23 @@ Bloomberg • 2h ago
 
 GameStop's latest 10-K filing shows that it did not sell 4,709 BTC it acquired last year, but pledged it as collateral with Coinbase Credit.
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
-**[MARA Holdings Stock Jumps. It’s Selling Bitcoin to Fund Its AI Ambitions.](https://www.barrons.com/articles/mara-stock-price-bitcoin-ai-1feed581?gaa_at=eafs&gaa_n=AWEtsqfCy2YQnl9A-o2DP4_Z-LIAKq6fJo76997xCBGHtyF8wiwb_X6x1Udf&gaa_ts=69c669b1&gaa_sig=yB6J3zzboQdOUM6NILS5aZ9eHYX6i3rVW7lbGYWLHIaM2wzKgG-uNw-bWk5zuWAoKcpWVQbyMUMqo-pJGwjJlQ%3D%3D)**
+**[Current price of Bitcoin for March 27, 2026](https://fortune.com/article/price-of-bitcoin-03-27-2026/)**
 
-Barron's • 16h ago
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
----
-
-**[Popular crypto stock rises after Bitcoin sale of $1.1 billion](https://finance.yahoo.com/markets/crypto/articles/popular-crypto-stock-rises-bitcoin-161112563.html)**
-
-MARA Holdings (Nasdaq: MARA) is a major crypto company that is the world's largest publicly listed Bitcoin (BTC) miner. Bitcoin mining is the process of using specialized computing hardware to solve complex cryptographic puzzles to verify and add blocks containing BTC transactions to the ...
-
-Yahoo Finance • 19h ago
+Fortune • 19m ago
 
 ---
 
-**[MARA sells 15,133 bitcoin for $1.1 billion to fund convertible note repurchase](https://www.theblock.co/post/395276/mara-sells-15133-bitcoin-for-1-1-billion-to-fund-convertible-note-repurchase)**
+**[Bitcoin (BTC) price news: Trump extends Iran strike pause, trimming price decline](https://www.coindesk.com/markets/2026/03/26/crypto-edges-off-of-worst-levels-after-trump-extends-iran-strike-pause)**
 
-MARA sold 15,133 bitcoin for $1.1 billion to repurchase $1 billion in convertible notes, cutting debt 30%.
+It was an ugly day all around in markets as the Iran war has sent oil prices and bond yields surging higher.
 
-The Block • 22h ago
-
----
-
-**[Why Is the DOJ Hoarding a Boatload of Bitcoin?](https://www.esquire.com/news-politics/politics/a70859394/doj-pam-bondi-bitcoin-scam/)**
-
-Something tells me that Pam Bondi and her cronies will find a way to do something weird with the money they seized from a crypto scam.
-
-Esquire • 14h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -251,15 +253,9 @@ Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes
 
 ---
 
-**[Bitcoin, XRP Fall in a Bad Week for Cryptos](https://news.ycombinator.com/item?id=47453548)**
-
-⬆️ 2 • 💬 0 • 6d ago • [barrons.com](https://www.barrons.com/articles/bitcoin-price-xrp-etheruem-crypto-sec-nasdaq-2e2f8254)
-
----
-
 **[MineGuard – Autonomous Bitcoin mining fleet manager, Karpathy-loop optimization](https://news.ycombinator.com/item?id=47538096)**
 
-⬆️ 1 • 💬 0 • 10h ago • [github.com](https://github.com/enriquevazquezusa/mineguard)
+⬆️ 1 • 💬 0 • 12h ago • [github.com](https://github.com/enriquevazquezusa/mineguard)
 
 ---
 
@@ -273,7 +269,7 @@ Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 3
 
 **[Show HN: Lexe – Self-Custodial Lightning Nodes in TEEs, Python and Rust SDKs](https://news.ycombinator.com/item?id=47532761)**
 
-⬆️ 4 • 💬 1 • 19h ago • [blog.lexe.app](https://blog.lexe.app/public-launch/)
+⬆️ 4 • 💬 1 • 21h ago • [blog.lexe.app](https://blog.lexe.app/public-launch/)
 
 ---
 
@@ -281,7 +277,7 @@ Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 3
 
 A collection of reasons to hate on AI
 
-⬆️ 5 • 💬 0 • 13h ago • [lonami.dev](https://lonami.dev/blog/ditching-github/)
+⬆️ 5 • 💬 0 • 15h ago • [lonami.dev](https://lonami.dev/blog/ditching-github/)
 
 ---
 
@@ -289,23 +285,33 @@ A collection of reasons to hate on AI
 
 ## YouTube Videos: "bitcoin"
 
-**[Why You’ll Never Sell Your Bitcoin Again. WOW!](https://www.youtube.com/watch?v=bxZSKa3IDCU)**
-
-Coinbase and Fannie Mae just partnered up to do NO MARGIN CALL LOANS for Bitcoin. This is MASSIVE for real estate... but ...
-
-📺 Digital Asset News
-
-👁️ 11K • 👍 865 • 💬 72 • ⏱️ 18:26 • 17h ago
-
----
-
 **[Bitcoin + Fannie Mae Changed Everything](https://www.youtube.com/watch?v=IwlCGwz-cOA)**
 
 Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly on ...
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 706 • 💬 169 • ⏱️ 10:44 • 11h ago
+👁️ 12K • 👍 773 • 💬 297 • ⏱️ 10:44 • 13h ago
+
+---
+
+**[Why You’ll Never Sell Your Bitcoin Again. WOW!](https://www.youtube.com/watch?v=bxZSKa3IDCU)**
+
+Coinbase and Fannie Mae just partnered up to do NO MARGIN CALL LOANS for Bitcoin. This is MASSIVE for real estate... but ...
+
+📺 Digital Asset News
+
+👁️ 12K • 👍 906 • 💬 93 • ⏱️ 18:26 • 19h ago
+
+---
+
+**[WATCH THIS BITCOIN UPDATE OR GET REKT THIS WEEKEND...](https://www.youtube.com/watch?v=tXeigZ_dbFM)**
+
+Join The Community: https://bit.ly/FefeCommunity PASS THE BITFUNDED CHALLENGE ...
+
+📺 100XClub
+
+👁️ 5K • 👍 826 • 💬 134 • ⏱️ 9:55 • 4h ago
 
 ---
 
@@ -315,37 +321,7 @@ Continued reports on bitcoin suppression happening but one person is buying all 
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 318 • 💬 32 • ⏱️ 1:06:38 • 17h ago
-
----
-
-**[Bitcoin - A Realistic Prediction by End of Year 🎯](https://www.youtube.com/watch?v=6h5l5GNbHXo)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Follow Brandon: https://x.com/BranBTC Buy, ...
-
-📺 Altcoin Daily
-
-👁️ 14K • 👍 351 • 💬 53 • ⏱️ 1:06 • 1d ago
-
----
-
-**[The Problem Is That This Is When Bitcoin Has Always Topped (Chart shown: BTC/USD)](https://www.youtube.com/watch?v=xkluh3EwOmk)**
-
-Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse Newsletter: ...
-
-📺 Benjamin Cowen
-
-👁️ 12K • 👍 282 • 💬 5 • ⏱️ 0:46 • 18h ago
-
----
-
-**[Bitcoin Sentiment DUMPS As CLARITY Act Talks Crater! What You Must Know](https://www.youtube.com/watch?v=Df0mKCuqurs)**
-
-Bitcoin #Crypto #Finance Bitcoin is pulling back as negotiations around the Clarity Act begin to fall apart, raising new concerns ...
-
-📺 The Wolf Of All Streets
-
-👁️ 12K • 👍 525 • 💬 234 • ⏱️ 28:58 • 22h ago
+👁️ 7K • 👍 325 • 💬 122 • ⏱️ 1:06:38 • 19h ago
 
 ---
 
@@ -355,17 +331,7 @@ The links below may include affiliate links, which means I may receive a commiss
 
 📺 Digital Asset News
 
-👁️ 8K • 👍 544 • 💬 28 • ⏱️ 24:59 • 1d ago
-
----
-
-**[Michael Saylor on new STRC stock: Creates an on-ramp for bitcoin believers without the volatility](https://www.youtube.com/watch?v=MqXRG9c9vV0)**
-
-Michael Saylor, Strategy co-founder, joins 'Power Lunch' to discuss the company's new product launch, the stated dividend and ...
-
-📺 CNBC Television
-
-👁️ 17K • 👍 227 • 💬 175 • ⏱️ 4:05 • 16h ago
+👁️ 8K • 👍 547 • 💬 28 • ⏱️ 24:59 • 1d ago
 
 ---
 
@@ -375,17 +341,47 @@ In this video, we take a data-driven look at Bitcoin as it shows signs of prepar
 
 📺 Benjamin Cowen
 
-👁️ 114K • 👍 7K • 💬 450 • ⏱️ 17:16 • 2d ago
+👁️ 115K • 👍 7K • 💬 450 • ⏱️ 17:16 • 2d ago
 
 ---
 
-**[🚨You Can Now Buy A House with Crypto](https://www.youtube.com/watch?v=deKYxJfwVs0)**
+**[Michael Saylor on new STRC stock: Creates an on-ramp for bitcoin believers without the volatility](https://www.youtube.com/watch?v=MqXRG9c9vV0)**
 
-Fannie Mae announced they are accepting Bitcoin and USDC as downpayment for homes through a partnership with Coinbase ...
+Michael Saylor, Strategy co-founder, joins 'Power Lunch' to discuss the company's new product launch, the stated dividend and ...
 
-📺 Cyber Scrilla
+📺 CNBC Television
 
-👁️ 7K • 👍 313 • 💬 29 • ⏱️ 1:07 • 20h ago
+👁️ 18K • 👍 243 • 💬 175 • ⏱️ 4:05 • 18h ago
+
+---
+
+**[Bitcoin Sentiment DUMPS As CLARITY Act Talks Crater! What You Must Know](https://www.youtube.com/watch?v=Df0mKCuqurs)**
+
+Bitcoin #Crypto #Finance Bitcoin is pulling back as negotiations around the Clarity Act begin to fall apart, raising new concerns ...
+
+📺 The Wolf Of All Streets
+
+👁️ 13K • 👍 540 • 💬 258 • ⏱️ 28:58 • 1d ago
+
+---
+
+**[They&#39;re HIDING $47 TRILLION in Debt (Bitcoin Already Knows)](https://www.youtube.com/watch?v=5I-5UjZ4lqk)**
+
+The U.S. just revealed a $47 trillion liability problem and almost nobody is talking about it. Add rising interest costs, war tensions, ...
+
+📺 Simply Bitcoin
+
+👁️ 27K • 👍 2K • 💬 136 • ⏱️ 20:42 • 1d ago
+
+---
+
+**[BITCOIN: IT&#39;S ABOUT TO HAPPEN...](https://www.youtube.com/watch?v=UxDJO9baZuM)**
+
+WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $25 ...
+
+📺 Crypto Rover
+
+👁️ 6K • 👍 417 • 💬 44 • ⏱️ 7:04 • 5h ago
 
 ---
 
