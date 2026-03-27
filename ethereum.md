@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-27T02:32:07.588154+00:00'
+updated: '2026-03-27T05:08:32.915402+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 27, 2026 at 02:32 UTC  
+**Last Updated:** March 27, 2026 at 05:08 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,45 +42,37 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.8%  
-**7d:** -0.6%  
-**30d:** +2.2%  
-**90d:** -29.8%  
-**1y:** +9.3%  
+**24h:** -3.1%  
+**7d:** -1.5%  
+**30d:** +1.3%  
+**90d:** -30.5%  
+**1y:** +8.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $249.78B
+**Market Cap:** $247.62B
 Rank #2
 
 **Circulating Supply:** 120,691,514 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.1%
+-58.5%
 
 **All-Time Low:** $0.43
-+478008.6%
++473689.7%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion March 26, 2026](https://www.reddit.com/r/ethereum/comments/1s3yazd/daily_general_discussion_march_26_2026/)**
+**[Highlights from the All Core Developers Execution (ACDE) Call #233](https://www.reddit.com/r/ethereum/comments/1s4s7lw/highlights_from_the_all_core_developers_execution/)**
 
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+Ethereum pushes Glamsterdam testing forward as Hegotá headliner debates remain unresolved.
 
-21h ago
-
----
-
-**[Bitcoin.com Checkout has added support for ETH, and ERC-20 tokens in their app! Now any merchant can accept ETH, USDT, USDC, and more with NO KYC and available anywhere in the world!](https://www.reddit.com/r/ethereum/comments/1s450e6/bitcoincom_checkout_has_added_support_for_eth_and/)**
-
-Accept crypto payments in seconds, across Bitcoin, stablecoins, and more with Bitcoin.com Checkout.
-
-🔗 [Bitcoin.com Checkout](https://checkout.bitcoin.com/) • 14h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-233/) • 2h ago
 
 ---
 
@@ -88,7 +80,31 @@ Accept crypto payments in seconds, across Bitcoin, stablecoins, and more with Bi
 
 Working on a little side project that turns etherscan data into readable risk. If you analyzed a wallet recently I’d love to compare your assessment to my engine’s output and see where it’s wrong and right, thanks
 
-2h ago
+5h ago
+
+---
+
+**[Daily General Discussion March 26, 2026](https://www.reddit.com/r/ethereum/comments/1s3yazd/daily_general_discussion_march_26_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1d ago
+
+---
+
+**[Bitcoin.com Checkout has added support for ETH, and ERC-20 tokens in their app! Now any merchant can accept ETH, USDT, USDC, and more with NO KYC and available anywhere in the world!](https://www.reddit.com/r/ethereum/comments/1s450e6/bitcoincom_checkout_has_added_support_for_eth_and/)**
+
+Accept crypto payments in seconds, across Bitcoin, stablecoins, and more with Bitcoin.com Checkout.
+
+🔗 [Bitcoin.com Checkout](https://checkout.bitcoin.com/) • 17h ago
+
+---
+
+**[Daily General Discussion March 27, 2026](https://www.reddit.com/r/ethereum/comments/1s4uv0g/daily_general_discussion_march_27_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+7m ago
 
 ---
 
@@ -96,7 +112,7 @@ Working on a little side project that turns etherscan data into readable risk. I
 
 Been building an x402 gate way for my local business site builder. I want to experiment with x402 more for deliverables outside of the "typical" things (e.g.: simple api calls etc.) as I believe the potential is actually a lot bigger than that. I think it can be used for "bigger" agentic deliverables, e.g.: with this you get a full pipeline (llm research, google places search, image analysis, brand guidemap etc. which than gets molded into a one pager). Changes the game from "cheap api calls" to bigger deliverables. Feel free to play around with it and let me know what you think! Anyone else doing stuff sort of out of the most comon use cases with x402?
 
-16h ago
+19h ago
 
 ---
 
@@ -104,7 +120,7 @@ Been building an x402 gate way for my local business site builder. I want to exp
 
 I am newbie in crypto trading. And I learned that ETH tokens pose a huge risk even if token seems to be authentic. Tried to swap my eth funds for Tether Gold XAUT, but got zero balanced fake tokens. Lesson learned as I checked later for second time to find out Tether Gold legit contract. Contract was fake and did not match with the legit one. I will never trust any tokens but it is very sad that those tokens were listed at coinbase web wallet to swap. Should not be. Thus I paid for that lesson ca €10 I think that these risks are discrediting ethereum as safe network. Because if user has no other option than believing that contract is genuine then any fake blockchain checking site may serve it as legit. Fortunally I transfered fake tokens to my cold wallet, so I just created new ethereum account in it to change address as previous is now a little compromised as scammers can scan and track my ethereum account balance. Will leave compromised as it is and will not touch it anymore.
 
-11h ago
+14h ago
 
 ---
 
@@ -112,7 +128,7 @@ I am newbie in crypto trading. And I learned that ETH tokens pose a huge risk ev
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -130,31 +146,35 @@ I’ve been trying to understand where tokenized real-world assets (RWA) actuall
 
 ---
 
-**[Aave V4 just got greenlit in their latest proposal. Here's what is changing](https://www.reddit.com/r/ethereum/comments/1s2ydj1/aave_v4_just_got_greenlit_in_their_latest/)**
-
-V4 passed near-unanimously with their main shift from being a monolithic pool to modular vaults. Like Morpho's isolation but with Aave's liquidity depth. sUSDe and RWA yields get cleaner APY profiles because risk vectors aren't correlated anymore. This is DeFi infrastructure graduating from 'move fast break things' to 'TradFi complexity with better costs and could be a comeback for Aave against other lending market if implemented properly
-
-2d ago
-
----
-
-**[Does Ethereum staking still make sense for smaller holders ?](https://www.reddit.com/r/ethereum/comments/1s2sh3n/does_ethereum_staking_still_make_sense_for/)**
-
-Been holding ETH for a while and thinking about staking. With 32 ETH still being the solo requirement, I'm looking at options like Rocket Pool or Lido, but I keep going back and forth. Running a node seems cool but hardware + 4 ETH + RPL feels like a lot to manage. Liquid staking is easier but then you're holding a derivative token and trusting the protocol. For people staking right now , what path did you take and how's it been? Is the hassle worth the yield or do you just stick to holding?
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
+
+**[Bitcoin, Ethereum Slip as Trump Says He's 'Not Desperate' to End Iran War](https://decrypt.co/362516/bitcoin-ethereum-slip-as-trump-says-hes-not-desperate-to-end-iran-war)**
+
+Bitcoin fell alongside stocks as investors weighed conflicting accounts regarding Iran’s willingness to end conflict in the Middle East.
+
+Decrypt • 8h ago
+
+---
 
 **[Ethereum block builder Eureka Labs raises $6.7 million, introduces 'programmable blocks'](https://www.theblock.co/post/394923/ethereum-block-builder-eureka-labs-funding-programmable-blocks)**
 
 Ethereum block builder Eureka Labs is introducing "programmable blocks," which add logic during block construction.
 
 The Block • 2d ago
+
+---
+
+**[Bitcoin, Ethereum Slip In Choppy Trading Session As Crypto Markets Consolidate](https://www.moomoo.com/news/post/67509219/bitcoin-ethereum-slip-in-choppy-trading-session-as-crypto-markets)**
+
+Moomoo • 1h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqdi4OLPF9Vk5wbyRyGFpPmLtfHmB4R4PXSfuoqBCZkaKzgMBbuQ1zRF&gaa_ts=69c61433&gaa_sig=G0lqQ6GWzOz4OG40y2t-oQ7W8Aez4KyDfcMJfqEAJUgdz39Ryu3ou8Z3Eld2C8XDaLUd0Gog-r-QHuuOqz0i9Q%3D%3D)**
+
+Barron's • 13h ago
 
 ---
 
@@ -166,25 +186,11 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqfwQErOrGUFyRGfwvtU7mCpbAu3uIGaBpiYbkvCehrNqbxiPHBUI2wM&gaa_ts=69c5c584&gaa_sig=4UJBLOKSQjURcnVv6A4cAWoedUB4CJYIkX6t7-63H0TseySi1N8ZiNxCClTKr-lAm20iWTwyMD9qA2KJk95PYw%3D%3D)**
-
-Barron's • 10h ago
-
----
-
 **[Are Any of These Ethereum Competitors Buys in 2026?](https://www.fool.com/investing/2026/03/26/are-any-of-these-ethereum-competitors-buys-in-2026/)**
 
 There's only one Ethereum rival worth buying right now, and it's trading at a 70% discount.
 
-The Motley Fool • 5h ago
-
----
-
-**[EtherRAT Techniques Bypass Security Via Ethereum Smart Contracts](https://www.infosecurity-magazine.com/news/etherrat-bypass-security-ethereum/)**
-
-EtherRAT hides C2 in Ethereum smart contracts via EtherHiding, steals wallets and credentials
-
-Infosecurity Magazine • 11h ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -192,23 +198,15 @@ Infosecurity Magazine • 11h ago
 
 Crypto entrepreneur Nic Carter has urged Bitcoin developers to catch up on quantum resistance or risk losing out to Ethereum, which already has a post-quantum roadmap. Elliptic curve cryptography (ECC) is the math that keeps Bitcoin (BTC) secure. Users pick a secret number (private key) and, using…
 
-TradingView • 21h ago
+TradingView • 23h ago
 
 ---
 
-**[$164B stablecoin pool vs. Ethereum staking: Decoding CLARITY Act impact](https://ambcrypto.com/164b-stablecoin-pool-vs-ethereum-staking-decoding-clarity-act-impact/)**
+**[Bitcoin And Ethereum Outlook: Too Soon For A Crypto Bounce (BTC-USD)](https://seekingalpha.com/article/4886411-bitcoin-ethereum-outlook-too-soon-for-crypto-bounce)**
 
-Ethereum bulls see opportunity despite Circle’s recent 20% drop. Their logic: Lower stablecoin yields could drive more activity into staking.
+While cryptos offer diversification from traditional asset movements, they are also highly sensitive to the gravity of risk aversion
 
-AMBCrypto • 1d ago
-
----
-
-**[Ethereum news (ETH): Aave, Ethena leaders outline push to build onchain fixed income markets in DeFi](https://www.coindesk.com/business/2026/03/24/crypto-finance-is-beginning-to-look-at-lot-more-traditional-aave-and-ethena-founders-say)**
-
-Until recently, crypto users mostly traded tokens or borrowed against them, often chasing high but unpredictable yields. But new tools are making it possible to lock in returns, even in a market known for big swings.
-
-CoinDesk • 2d ago
+Seeking Alpha • 4h ago
 
 ---
 
@@ -216,13 +214,15 @@ CoinDesk • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 12h ago
+Fortune • 15h ago
 
 ---
 
-**[Ethereum Price Prediction Meets 1000x Pepeto as Hostplus $96B Pension Explores Bitcoin While ETH and Hyperliquid Hold](https://financefeeds.com/ethereum-price-prediction-meets-1000x-pepeto-as-hostplus-96b-pension-explores-bitcoin-while-eth-and-hyperliquid-hold/)**
+**[Ethereum Price Forecast: Whale accumulation continues, but US interest declines](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-whale-accumulation-continues-but-us-interest-declines-202603252228)**
 
-FinanceFeeds • 1d ago
+Ethereum (ETH) whales have accelerated their accumulation of the top altcoin over the past few days. According to data cited by smart money tracker Lookonchain, several wallets have been withdrawing ETH from exchanges over the past 24 hours.
+
+FXStreet • 1d ago
 
 ---
 
@@ -236,17 +236,7 @@ VIP Access & Programs: https://highaltitudecrypto.com Free Crypto Ebook (Learn H
 
 📺 High Altitude Investing
 
-👁️ 396 • 👍 53 • 💬 8 • ⏱️ 10:43 • 8h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=EWFHH09hvBo)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 820 • 👍 68 • 💬 5 • ⏱️ 4:26 • 5h ago
+👁️ 489 • 👍 59 • 💬 10 • ⏱️ 10:43 • 11h ago
 
 ---
 
@@ -256,17 +246,17 @@ Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade
 
 📺 Crossroads
 
-👁️ 4K • 👍 248 • 💬 37 • ⏱️ 15:03 • 12h ago
+👁️ 5K • 👍 258 • 💬 40 • ⏱️ 15:03 • 15h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=5mULk-yNqKM)**
+**[🚨 Tom Lee Launches MAVAN — BMNR Builds $300M Ethereum Yield Machine](https://www.youtube.com/watch?v=bGPC_M3b2Sg)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Get My New Book Money Game and My Daily Trading Strategy for Free https://go.tedmcgrathbrands.com/optin-money-game-yt ...
 
-📺 More Crypto Online
+📺 MONEY GAME
 
-👁️ 1K • 👍 90 • 💬 4 • ⏱️ 4:12 • 12h ago
+👁️ 6K • 👍 228 • 💬 34 • ⏱️ 12:42 • 1d ago
 
 ---
 
@@ -280,23 +270,33 @@ You're not going to want to miss this INCREDIBLE Ether, technical analysis and i
 
 ---
 
-**[🚨 Tom Lee Launches MAVAN — BMNR Builds $300M Ethereum Yield Machine](https://www.youtube.com/watch?v=bGPC_M3b2Sg)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=EWFHH09hvBo)**
 
-Get My New Book Money Game and My Daily Trading Strategy for Free https://go.tedmcgrathbrands.com/optin-money-game-yt ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 MONEY GAME
+📺 More Crypto Online
 
-👁️ 6K • 👍 226 • 💬 34 • ⏱️ 12:42 • 1d ago
+👁️ 986 • 👍 76 • 💬 6 • ⏱️ 4:26 • 8h ago
 
 ---
 
-**[BEARISH SIGNAL FLASHING!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=o7kdVHuXHBs)**
+**[BITCOIN &amp; CRYPTO WARNING: Stocks Just FLIPPED!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ENyGFzavmo0)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+BITCOIN & CRYPTO WARNING: Stocks Just FLIPPED!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Cilinix Crypto
+📺 Crypto World
 
-👁️ 236 • 👍 11 • 💬 3 • ⏱️ 4:33 • 16h ago
+👁️ 1K • 👍 117 • 💬 20 • ⏱️ 16:12 • 2h ago
+
+---
+
+**[BMNR Stock can get to $42.25? if Ethereum DOES THIS!](https://www.youtube.com/watch?v=Jh75_BuKBw0)**
+
+What happens if ETH recovers to the 200 Day moving average with both technicals and fundamentals support this move?
+
+📺 Elijah Cheng
+
+👁️ 2K • 👍 107 • 💬 42 • ⏱️ 27:19 • 14h ago
 
 ---
 
@@ -310,13 +310,13 @@ This video is not for everyone. If your income is below $10000/month — close i
 
 ---
 
-**[BMNR Stock can get to $42.25? if Ethereum DOES THIS!](https://www.youtube.com/watch?v=Jh75_BuKBw0)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=ULJ-PgwEXPU)**
 
-What happens if ETH recovers to the 200 Day moving average with both technicals and fundamentals support this move?
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 Elijah Cheng
+📺 Crypto Gyan
 
-👁️ 2K • 👍 102 • 💬 41 • ⏱️ 27:19 • 11h ago
+👁️ 259 • 👍 38 • ⏱️ 5:15 • 1h ago
 
 ---
 
