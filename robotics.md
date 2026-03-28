@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-28T21:30:58.410414+00:00'
+updated: '2026-03-28T22:31:06.013549+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 28, 2026 at 21:30 UTC  
+**Last Updated:** March 28, 2026 at 22:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Who runs out of battery first decides the future](https://www.reddit.com/r/robotics/comments/1s6566h/who_runs_out_of_battery_first_decides_the_future/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 TechCrunch: Physical Intelligence is reportedly in talks to raise $1 billion, again: https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/
 
-9h ago
+10h ago
 
 ---
 
@@ -50,7 +50,15 @@ TechCrunch: Physical Intelligence is reportedly in talks to raise $1 billion, ag
 
 For the robot arm, we're running a segmentation model that benchmarks at a rock-solid 20fps on an Nvidia RTX 5060 Ti. In this video, we're keeping the rover locked onto the target using Image-Based Visual Servoing (IBVS) and a simple proportional controller.
 
-3h ago
+4h ago
+
+---
+
+**[Rover-Project: Alpha stage , Obstacle avoidance feature.](https://www.reddit.com/r/robotics/comments/1s6divq/roverproject_alpha_stage_obstacle_avoidance/)**
+
+Im 15yr hobbyist , my 2nd project self funded. this project is currently in alpha stage .made using foamboard and used wooden blocks for strength, i will add robotic arm for my next phase (on top of it). used arduino UNO r3, 4TT motor, TB6612FNG driver. IR receiver for Remote control, can be controlled manually or turn on obstacle avoidance mode. more info in my GitHub: https://github.com/Ajaz-6O7/Rover-Project
+
+23m ago
 
 ---
 
@@ -58,7 +66,23 @@ For the robot arm, we're running a segmentation model that benchmarks at a rock-
 
 i have spent the past 2 months to design this arm in fusion, and now i am facing an issue on how to export this to isaac sim/ specifically the gripper, since it a 4 bar mechanism actuated with 3 gears. i thought of writing my own scripts of MJCF(because it supports kinematic loops), and then importing it in isaac sim
 
-15h ago
+16h ago
+
+---
+
+**[omni-wrist v](https://www.reddit.com/r/robotics/comments/1s6doce/omniwrist_v/)**
+
+Can anybody identify these ball joints in these two wrists and any useful analysis of these, they are from ross-hime designs. Inc web Here is the web: https://www.anthrobot.com/omni-wrist-vi/
+
+16m ago
+
+---
+
+**[searching for open source projects (humanoids/quadruped)](https://www.reddit.com/r/robotics/comments/1s6bkcy/searching_for_open_source_projects/)**
+
+as the title says i'm looking for open source projects for small humanoids or quadruped robots, i'm thinking about cheap and easily hackable stuff like something built with an arduino/raspberry, 3d printed parts and consumer grade servos it would be great to find something that includes everything for reproducibility from the firmware to hardware schematics but my priority is that the project must have a ready to use sim environment i've already looked at some projects like open-quadruped or zeroth but most of them looks dead or still incomplete, is there anything else i should check out before starting to build everything from zero?
+
+1h ago
 
 ---
 
@@ -66,7 +90,7 @@ i have spent the past 2 months to design this arm in fusion, and now i am facing
 
 There is the argument that humanoid robots are the future because they're generalists and their humanoid form means they can do whatever humans were doing. And while that is theoretically true, it misses an important point: Generality is only good if it performs better and more cost-effectively than the specialist machines in those tasks. I haven't seen anything to support the idea that humanoid form would necessarily surpass that threshold for many tasks. It can easily end up doing a mediocre job at many tasks because its lower productively delivers less profit per dollar spent on the machinery compared to specialist machines, and its form can never get as efficient as non-humanoid specialist machines. The "economies of scale" argument usually gets propositioned where economies of scale would lower the prices of humanoid robots so much that it would make it the more cost-effective option. However: Specialized machines can also experience economies of scale Economies of scale only bring down the price so much (the cost per unit decrease is not infinitely proportional based on how many units are produced, at some point the cost savings level off and can even revert) Simpler machinery and manufacturing of a specialized machine can mean lower fixed costs compared to the more complex manufacturing of a humanoid robot, meaning economies of scale could result in a lower cost being spread across many units for the former rather than the latter, making the former cheaper than the latter. Even if the humanoid robot is cheaper, the higher productivity and profitability of specialized machines may justify and make purchasing specialized machines the more fruitful endeavor. Saying humanoid robots will experience such cost savings from economies of scale assumes they'd be so favored by buyers that lots of units would be produced in the first place. To understand the limits of generalist technology, take this analogy: Instead of having a knife, fork, spoon, spatula, pizza cutter, etc. you could use a spork to serve in place of all those things. A spork would be cheaper, especially since you don't have to buy more utensils and clean and wash more, and it benefits from economies of scale, but a spork does a pretty mediocre job at all those tasks, it does not master them as effectively as those more specialized utensils. This is why in large part most people do not use a spork for most food tasks, and if it is good for anything it is only in a few highly specific occasions. A spork in this sense is a "Jack of all trades, master of none," where it can do many food tasks, but all in a mediocre fashion. A humanoid robot may very well end up the same, where it can do many tasks, but not in a more cost-effective manner.
 
-8h ago
+9h ago
 
 ---
 
@@ -84,35 +108,13 @@ Hello everyone, I wanted to share my project that I've been working on for month
 
 ---
 
-**[Unitree just announced an open source whole-body teleoperation (WBT) dataset: UnifoLM-WBT-Dataset. Available on Hugging Face.](https://www.reddit.com/r/robotics/comments/1s50zq4/unitree_just_announced_an_open_source_wholebody/)**
-
-Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dataset From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2037440578275946551
-
-1d ago
-
----
-
-**[RoboBaton mini test](https://www.reddit.com/r/robotics/comments/1s551oc/robobaton_mini_test/)**
-
-I didn't use the T265; instead, I chose the RoboBaton mini to control the car's forward movement.I found the RoboBaton mini works well.Look the video !
-
-1d ago
-
----
-
-**[Demo of Agibot’s wheeled A2 depalleting](https://www.reddit.com/r/robotics/comments/1s4spdj/demo_of_agibots_wheeled_a2_depalleting/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
 **[AI Robotics Lab in Talks to Raise $1 Billion at $11 Billion Valuation](https://www.bloomberg.com/news/articles/2026-03-27/ex-deepmind-staffers-robotics-startup-in-talks-for-11-billion-valuation)**
 
-Bloomberg.com • 1d ago
+Bloomberg • 1d ago
 
 ---
 
@@ -124,19 +126,35 @@ CNBC • 2d ago
 
 ---
 
+**[Delivery robots keep crashing into bus shelters](https://www.popsci.com/technology/delivery-robots-crash-bus-shelters/)**
+
+It's been a bad week for burritos on wheels.
+
+Popular Science • 2d ago
+
+---
+
+**[Delivery robots shatter Chicago bus shelter glass in separate incidents, including one caught on camera](https://www.foxbusiness.com/lifestyle/delivery-robots-shatter-chicago-bus-shelter-glass-separate-incidents-one-caught-camera)**
+
+Serve Robotics and Coco Robotics delivery robots reportedly crashed into Chicago bus shelters days apart, shattering glass with no injuries reported.
+
+Fox Business • 1h ago
+
+---
+
+**[Delivery robots smash Chicago bus shelters in two separate incidents](https://www.upi.com/Odd_News/2026/03/26/Chicago-delivery-robots-bus-shelters/4041774539291/)**
+
+Two delivery robots crashed into two bus shelters in Chicago within a matter of days -- and one of the incidents was caught on camera.
+
+upi.com • 2d ago
+
+---
+
 **[Video Friday: Beep! Beep! Roadrunner Bipedal Bot Breaks the Mold](https://spectrum.ieee.org/roadrunner-bipedal-robot)**
 
 Roadrunner moves in-line, on one wheel, or two to stay nimble and on the go. Plus NASA's SkyFall Mars helicopters and MoonFall mission are gearing up.
 
 IEEE Spectrum • 1d ago
-
----
-
-**[Microrobots swim and steer with no brain, sensors, or software](https://interestingengineering.com/ai-robotics/brainless-microrobots-shape-driven-motion)**
-
-Microrobots move and adapt without brain or software, using shape and flexibility to navigate environments.
-
-interestingengineering.com • 1d ago
 
 ---
 
@@ -154,35 +172,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Scientists design living robots with intelligent neurons](https://3dvf.com/en/scientists-design-living-robots-with-intelligent-neurons/)**
+**[Strange Modular Robots Are Writhing Across Landscapes](https://futurism.com/robots-and-machines/strange-modular-robots-writhing)**
 
-When a robot's next move comes from living tissue, what counts as programming? In one lab, tiny hand-built creatures are lighting up and roaming in ways their makers never wrote into code.
+Researchers from Northwestern University have developed robots called "metamachines" that are composed of other robots.
 
-3DVF • 4h ago
-
----
-
-**[Panama Remote Robotic Stroke Procedure Drawing International Attention](https://ticotimes.net/2026/03/27/panama-remote-robotic-stroke-procedure-drawing-international-attention)**
-
-Learn about the Panama robotic stroke procedure, the first of its kind, combining robotic technology with remote surgical expertise.
-
-The Tico Times • 20h ago
+Futurism • 5h ago
 
 ---
 
-**[Delivery robots smash Chicago bus shelters in two separate incidents](https://www.upi.com/Odd_News/2026/03/26/Chicago-delivery-robots-bus-shelters/4041774539291/)**
+**[Raleigh students win state robotics title, advance to world championship](https://abc11.com/post/raleigh-students-win-state-robotics-title-advance-world-championship/18778624/)**
 
-Two delivery robots crashed into two bus shelters in Chicago within a matter of days -- and one of the incidents was caught on camera.
+Four Raleigh middle schoolers are headed to the world stage after winning the top honor at this month's VEX IQ Robotics State Championship in Concord.
 
-upi.com • 2d ago
-
----
-
-**[Delivery robots keep crashing into bus shelters](https://www.popsci.com/technology/delivery-robots-crash-bus-shelters/)**
-
-It's been a bad week for burritos on wheels.
-
-Popular Science • 2d ago
+ABC11 Raleigh-Durham • 2d ago
 
 ---
 
@@ -256,7 +258,7 @@ War Robots Gameplay: NEW Robot ANAKSOR - First Try on Live Server My War Robots 
 
 📺 Manni-Gaming
 
-👁️ 4K • 👍 272 • 💬 48 • ⏱️ 19:34 • 7h ago
+👁️ 4K • 👍 272 • 💬 48 • ⏱️ 19:34 • 8h ago
 
 ---
 

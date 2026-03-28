@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-28T21:30:58.406587+00:00'
+updated: '2026-03-28T22:31:06.010236+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 28, 2026 at 21:30 UTC  
+**Last Updated:** March 28, 2026 at 22:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.9%  
-**7d:** -1.4%  
-**30d:** +4.9%  
-**90d:** -31.1%  
-**1y:** +10.7%  
+**24h:** +0.9%  
+**7d:** -2.0%  
+**30d:** +4.2%  
+**90d:** -31.6%  
+**1y:** +10.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Effective March 25, 2026, Pier Two Holdings Pty Ltd has been wholly acquired by Bitmine Immersion Technologies, Inc (NYSE: BMNR)
 
-🔗 [piertwo.com](https://piertwo.com/insights/pier-two-is-joining-mavan-a-bitmine-company) • 17h ago
+🔗 [piertwo.com](https://piertwo.com/insights/pier-two-is-joining-mavan-a-bitmine-company) • 18h ago
 
 ---
 
@@ -166,23 +166,23 @@ Decrypt • 2d ago
 
 ---
 
-**[Crypto's quantum threat is real and its driving diverging strategies across Bitcoin, Ethereum, Solana](https://www.coindesk.com/tech/2026/03/28/here-s-how-bitcoin-ethereum-and-other-networks-are-preparing-for-the-looming-quantum-threat)**
-
-Across many of the most well-known ecosystems like Bitcoin, Ethereum, and Solana, responses are diverging along familiar lines: what to do on social consensus and technical iteration, and community members are split between caution and acceleration.
-
-CoinDesk • 5h ago
-
----
-
 **[Ethereum Price Falls Below Psychological $2,000 Support — What Next?](https://www.tradingview.com/news/newsbtc:82872d696094b:0-ethereum-price-falls-below-psychological-2-000-support-what-next/)**
 
 After a show of resilience over the past few weeks, the Ethereum price finally gave way, falling below the $2,000 level for the first time since March 10th. The “King of Altcoins” succumbed to the downward pressure that spread across the global financial markets on Friday, March 27th, as the geopol…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqczvpldJft5prEEFA6jp9BdUcBDUKQ5B26yYCSmMhWgRhZ3DgQgZHxY&gaa_ts=69c83e72&gaa_sig=xKZ2_zDL0mwN_OC5qWZs9_FoxhbtsG3Vn4st-5r1R2NO3o7XN9QhHgApmm3gy8waTuobqymtLxKtvbqAtn6FDg%3D%3D)**
+**[Crypto's quantum threat is real and its driving diverging strategies across Bitcoin, Ethereum, Solana](https://www.coindesk.com/tech/2026/03/28/here-s-how-bitcoin-ethereum-and-other-networks-are-preparing-for-the-looming-quantum-threat)**
+
+Across many of the most well-known ecosystems like Bitcoin, Ethereum, and Solana, responses are diverging along familiar lines: what to do on social consensus and technical iteration, and community members are split between caution and acceleration.
+
+CoinDesk • 6h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqdyiPP8viMWIDm-ANCkMrM1Jk7Zj9zjnzB2bMsIeWq5YL95BlZbUZTP&gaa_ts=69c85a18&gaa_sig=SDY8LvpfWnlEWn-gQSdrDxaJkEOMn2_Nt2Zt-teiLD07ciMpqbfeKXpzNiJvgL1plqLEWOpH8I7CqyXHxIyQ7Q%3D%3D)**
 
 Barron's • 2d ago
 
@@ -202,6 +202,14 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Ethereum vs. Solana: Which Crypto Has More Upside?](https://www.fool.com/investing/2026/03/28/ethereum-vs-solana-which-crypto-has-more-upside/)**
+
+Ethereum's vast ecosystem goes up against Solana's lightning-quick network.
+
+The Motley Fool • 12h ago
+
+---
+
 **[Current price of Ethereum for March 27, 2026](https://fortune.com/article/price-of-ethereum-03-27-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
@@ -210,19 +218,11 @@ Fortune • 1d ago
 
 ---
 
-**[Bitcoin And Ethereum Outlook: Too Soon For A Crypto Bounce (BTC-USD)](https://seekingalpha.com/article/4886411-bitcoin-ethereum-outlook-too-soon-for-crypto-bounce)**
+**[Ethereum Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1774689000)**
 
-While cryptos offer diversification from traditional asset movements, they are also highly sensitive to the gravity of risk aversion
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Seeking Alpha • 1d ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces Launch of MAVAN (Made In America VAlidator Network), the Company's Proprietary Staking Solution](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-launch-of-mavan-made-in-america-validator-network-the-companys-proprietary-staking-solution-302724419.html)**
-
-MAVAN will be the largest Ethereum staking service provider globally and will provide staking services for other proof-of-stake chains and blockchain...
-
-PR Newswire • 3d ago
+Polymarket • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 2K • 👍 92 • 💬 20 • ⏱️ 11:06 • 7h ago
+👁️ 2K • 👍 92 • 💬 20 • ⏱️ 11:06 • 8h ago
 
 ---
 
@@ -246,7 +246,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 RFIS Hindi
 
-👁️ 2K • 👍 1K • 1h ago
+👁️ 2K • 👍 1K • 2h ago
 
 ---
 
@@ -276,7 +276,7 @@ BITCOIN & ALTCOIN CRASH: Price Target Confirmed!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 7K • 👍 294 • 💬 129 • ⏱️ 19:00 • 22h ago
+👁️ 7K • 👍 294 • 💬 129 • ⏱️ 19:00 • 23h ago
 
 ---
 
@@ -286,7 +286,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 185 • 👍 15 • ⏱️ 4:28 • 10h ago
+👁️ 185 • 👍 15 • ⏱️ 4:28 • 11h ago
 
 ---
 
@@ -306,7 +306,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 592 • 👍 57 • ⏱️ 5:50 • 6h ago
+👁️ 592 • 👍 57 • ⏱️ 5:50 • 7h ago
 
 ---
 
