@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-28T09:05:18.299544+00:00'
+updated: '2026-03-28T10:00:25.179213+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 28, 2026 at 09:05 UTC  
+**Last Updated:** March 28, 2026 at 10:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $241.38B
+**Market Cap:** $241.15B
 Rank #2
 
 **Circulating Supply:** 120,691,485 ETH
@@ -62,7 +62,7 @@ No max supply
 -59.6%
 
 **All-Time Low:** $0.43
-+461800.0%
++461317.3%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Effective March 25, 2026, Pier Two Holdings Pty Ltd has been wholly acquired by Bitmine Immersion Technologies, Inc (NYSE: BMNR)
 
-🔗 [piertwo.com](https://piertwo.com/insights/pier-two-is-joining-mavan-a-bitmine-company) • 5h ago
+🔗 [piertwo.com](https://piertwo.com/insights/pier-two-is-joining-mavan-a-bitmine-company) • 6h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I Built a Privacy-Preserving Bitcoin transaction Receipt Verifier (No KYC, No Screenshots, No wallet). https://github.com/Teycir/Ghostreceipt Would like to have feedback.
 
-12h ago
+13h ago
 
 ---
 
@@ -118,7 +118,7 @@ Ethereum pushes Glamsterdam testing forward as Hegotá headliner debates remain 
 
 **[Paperwallet.ca launch](https://www.reddit.com/r/ethereum/comments/1s543mf/paperwalletca_launch/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -186,7 +186,7 @@ PR Newswire • 2d ago
 
 These two coins now have fewer obstacles blocking their growth.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -194,7 +194,7 @@ The Motley Fool • 7h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 18h ago
+Fortune • 19h ago
 
 ---
 
@@ -232,33 +232,13 @@ Coinpedia Fintech News • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Why Ethereum Might Be the Most Mispriced Asset in Crypto Right Now w/ David Duong](https://www.youtube.com/watch?v=uqafQVXLP8o)**
-
-Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
-
-📺 Milk Road
-
-👁️ 1K • 👍 79 • 💬 34 • ⏱️ 38:10 • 14h ago
-
----
-
 **[BITCOIN &amp; ALTCOIN CRASH: Price Target Confirmed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=syRpSgtT8G8)**
 
 BITCOIN & ALTCOIN CRASH: Price Target Confirmed!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
 
 📺 Crypto World
 
-👁️ 4K • 👍 231 • 💬 110 • ⏱️ 19:00 • 9h ago
-
----
-
-**[Ethereum 2026 Q2 Outlook Update: Elliott Wave Analysis](https://www.youtube.com/watch?v=WiDnh15IrFA)**
-
-In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave analysis to forecast potential targets for the ongoing or ...
-
-📺 MCO Global
-
-👁️ 1K • 👍 126 • 💬 34 • ⏱️ 14:22 • 15h ago
+👁️ 5K • 👍 255 • 💬 92 • ⏱️ 19:00 • 10h ago
 
 ---
 
@@ -268,27 +248,37 @@ Get My New Book Money Game and My Daily Trading Strategy for Free https://go.ted
 
 📺 MONEY GAME
 
-👁️ 6K • 👍 242 • 💬 35 • ⏱️ 12:42 • 2d ago
+👁️ 6K • 👍 243 • 💬 35 • ⏱️ 12:42 • 2d ago
 
 ---
 
-**[ETHEREUM PULLBACK WARNING!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=meqw0vZCai8)**
+**[Why Ethereum Might Be the Most Mispriced Asset in Crypto Right Now w/ David Duong](https://www.youtube.com/watch?v=uqafQVXLP8o)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
 
-📺 Cilinix Crypto
+📺 Milk Road
 
-👁️ 493 • 👍 16 • 💬 20 • ⏱️ 4:49 • 23h ago
+👁️ 2K • 👍 83 • 💬 23 • ⏱️ 38:10 • 15h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=lB5X_RDKgZ4)**
+**[Why Ethereum Is About to Skyrocket in Value!](https://www.youtube.com/watch?v=Q1LWGj38inI)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+VIP Access & Programs: https://highaltitudecrypto.com Free Crypto Ebook (Learn How to Profit): https://shorturl.at/qCW46 ...
 
-📺 More Crypto Online
+📺 High Altitude Investing
 
-👁️ 1K • 👍 90 • 💬 10 • ⏱️ 3:57 • 14h ago
+👁️ 942 • 👍 68 • 💬 20 • ⏱️ 10:43 • 1d ago
+
+---
+
+**[Ethereum 2026 Q2 Outlook Update: Elliott Wave Analysis](https://www.youtube.com/watch?v=WiDnh15IrFA)**
+
+In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave analysis to forecast potential targets for the ongoing or ...
+
+📺 MCO Global
+
+👁️ 1K • 👍 149 • 💬 36 • ⏱️ 14:22 • 16h ago
 
 ---
 
@@ -298,27 +288,37 @@ Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade
 
 📺 Crossroads
 
-👁️ 7K • 👍 297 • 💬 55 • ⏱️ 15:03 • 1d ago
+👁️ 7K • 👍 299 • 💬 55 • ⏱️ 15:03 • 1d ago
 
 ---
 
-**[Ethereum Whales Buy $1.6B in 48 Hours: Small Investors Sell? #shorts](https://www.youtube.com/watch?v=CAIk_RYIIKc)**
+**[Bitcoin &amp; Ethereum. DAS solltest du nicht tun, wenn BTC in der jetzigen Situation ist!!](https://www.youtube.com/watch?v=CVploji5mW8)**
 
-Massive Ethereum accumulation! Whales just bought $1.6 billion worth of ETH in 48 hours, while smaller investors sell. The big ...
+Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
 
-📺 CoinBros
+📺 Krypto Trading & Investing
 
-👁️ 584 • 👍 2 • ⏱️ 0:43 • 2d ago
+👁️ 3K • 👍 649 • 💬 131 • ⏱️ 24:01 • 4h ago
 
 ---
 
-**[⚠️URGENTE⚠️Bitcoin y Ethereum en Peligro | Patrón de Caída Detectado... Lo TIENES que VER!](https://www.youtube.com/watch?v=kkKJrfNYF28)**
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=d3SFSebL5Y8)**
 
-URGENTE⚠️Bitcoin y Ethereum en Peligro | Patrón de Caída Detectado... Lo TIENES que VER! En el video de hoy, haré el ...
+TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
 
-📺 CryptoAnálisis
+📺 MyCaNaLBF
 
-👁️ 3K • 👍 527 • 💬 58 • ⏱️ 19:04 • 21h ago
+👁️ 1K • 👍 854 • 23m ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=lB5X_RDKgZ4)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 97 • 💬 10 • ⏱️ 3:57 • 15h ago
 
 ---
 

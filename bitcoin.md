@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-28T09:05:18.294159+00:00'
+updated: '2026-03-28T10:00:25.172917+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 28, 2026 at 09:05 UTC  
+**Last Updated:** March 28, 2026 at 10:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1327.29B
+**Market Cap:** $1325.85B
 Rank #1
 
-**Circulating Supply:** 20,004,281 BTC
+**Circulating Supply:** 20,008,078 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
 -47.4%
 
 **All-Time Low:** $67.81
-+97742.5%
++97611.3%
 
 ---
 
@@ -89,7 +89,7 @@ I was a junior in highschool, and BTC came up in the same conversations as Octop
 
 been watching the charts and bitcoin is sitting at what looks like a 40% drop from recent highs. feels like this might be teh moment to make a substantial buy instead of my usual small dca amounts. anyone else considering making moves right now or am i getting too greedy? trying to figure out if this dip is worth changing up my strategy for.
 
-8h ago
+9h ago
 
 ---
 
@@ -97,7 +97,7 @@ been watching the charts and bitcoin is sitting at what looks like a 40% drop fr
 
 I have a feeling that UPril will be even better. Get your moon boots ready.
 
-11h ago
+12h ago
 
 ---
 
@@ -105,7 +105,7 @@ I have a feeling that UPril will be even better. Get your moon boots ready.
 
 When all my money is already in sats, it’s just easier to spend it directly instead of converting it to usd and spending that 🤷‍♂️
 
-16h ago
+17h ago
 
 ---
 
@@ -113,7 +113,7 @@ When all my money is already in sats, it’s just easier to spend it directly in
 
 Onramp's Brian Cubellis also point out the difference between the latent demand for IBIT vs what he expects will be active solicitation from Morgan Stanley to their clients.
 
-17h ago
+18h ago
 
 ---
 
@@ -121,7 +121,7 @@ Onramp's Brian Cubellis also point out the difference between the latent demand 
 
 so i've been getting these random coinbase notifications for months and finally decided to check what was going on. remembered i had maybe like 7 bucks sitting there from way back when i bought something online that required bitcoin logged into my account expecting to see basically nothing and there's over 2400 sitting there. took me a minute to process what i was looking at did some digging and apparently that leftover change was from late 2015 when i made some random purchase. crazy how that small amount just sat there growing now i'm kicking myself thinking about what would've happened if i had been putting even 10 bucks aside every couple weeks since then. the math is pretty wild when you run those numbers probably gonna leave it alone and see where it goes from here. not really planning to touch it anytime soon
 
-18h ago
+19h ago
 
 ---
 
@@ -129,7 +129,7 @@ so i've been getting these random coinbase notifications for months and finally 
 
 Everyone outside crypto thinks it’s: Fast money Crazy gains Constant action But if you’ve been here for a while, you know the truth… Most of crypto is just: Waiting Not touching your portfolio Ignoring noise Watching others panic The real game isn’t buying. It’s holding without doing something stupid. The people who win aren’t the smartest. They’re usually the ones who: Don’t overtrade Don’t chase every new coin Don’t panic sell It sounds boring because it is. But boring is where most money is made. Meanwhile: Beginners want excitement Veterans want consistency Question: What’s harder for you — buying at the right time or just holding after you buy?
 
-4h ago
+5h ago
 
 ---
 
@@ -137,7 +137,7 @@ Everyone outside crypto thinks it’s: Fast money Crazy gains Constant action Bu
 
 Each paycheck is now worth ~0.19% of my total sats. I have been in the space a bit. I am a little dead inside due to "same shit different day" mentality in this space. The price is getting smaller. I see the typical calls for people to hodl on or jump in or increase DCA. Quality memes are nowhere to be found. It reminds me of past bear cycles. What helps me during times like this is to remember the fundamentals. Nothing has changed. Blocks are still being solved about every 10 minutes. Code is still being written. Proposals are still being discussed/modified/dropped/fought over. Bitcoin is still based on real-world resources. People are still saying that bitcoin is dead/dying/ponzi scheme. People I know that make 3-5x my salary still think it is only used to wash dirty money. I have no grand secret or huge life lesson for you, simply because bitcoin is boring (also its most important feature). The messaging is always the same. Adopt a low time preference. I hope it helps some of the newer hodlers here who are planning to stay. The panic and self-doubt you feel will pass. And you will do it again, and it will pass again and so on. P.S. Do not leverage trade to try and catch up.
 
-18h ago
+19h ago
 
 ---
 
@@ -145,7 +145,7 @@ Each paycheck is now worth ~0.19% of my total sats. I have been in the space a b
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-2h ago
+3h ago
 
 ---
 
@@ -153,7 +153,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Nearly a decade and a half holding Bitcoin now - grabbed my initial stack when it was trading around $9. Made it through all the brutal bear markets, constantly wondering if we'd finally reached the end. Each crash felt like Bitcoin might actually die for good. Every major drop had me questioning everything. But here we are. Bitcoin keeps bouncing back stronger than before. This current pullback is just another blip on the radar compared to what we've weathered in the past.
 
-12h ago
+13h ago
 
 ---
 
@@ -165,7 +165,7 @@ Nearly a decade and a half holding Bitcoin now - grabbed my initial stack when i
 
 The average public miner spent $79,995 to produce one bitcoin last quarter. Bitcoin is trading at $70,000. The math doesn't work, so the industry is pivoting to AI, taking on $70 billion in contracts, and liquidating bitcoin treasuries to finance the shift.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -173,7 +173,7 @@ CoinDesk • 6h ago
 
 The model could significantly heighten cybersecurity risks by rapidly finding and exploiting software vulnerabilities, potentially accelerating a cyber arms race.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -185,7 +185,7 @@ Investor's Business Daily • 1d ago
 
 **[Bitcoin Skids, $14 Bil. In Options Due; Cathie Wood Raises Cash](https://www.investors.com/news/bitcoin-price-options-expire-14-billion-liquidations-cathie-wood-ark-invest/)**
 
-Investor's Business Daily • 10h ago
+Investor's Business Daily • 11h ago
 
 ---
 
@@ -193,7 +193,7 @@ Investor's Business Daily • 10h ago
 
 These two assets don't need to be mutually exclusive, but that doesn't mean they're equal.
 
-The Motley Fool • 46m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -201,7 +201,7 @@ The Motley Fool • 46m ago
 
 Bitcoin (BTC) has shed all its March gains, currently down 1.40% on the monthly chart and 24.6% for the first quarter of 2026. Bitcoin’s longer-term performance aligns with a deep drawdown cycle for BTC, which may extend until the end of 2026 and many analysts expect another 40% drop in price.This…
 
-TradingView • 1h ago
+TradingView • 2h ago
 
 ---
 
@@ -209,7 +209,7 @@ TradingView • 1h ago
 
 These two assets don't need to be mutually exclusive, but that doesn't mean they're equal.
 
-Yahoo Finance • 45m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -217,13 +217,13 @@ Yahoo Finance • 45m ago
 
 Demand for bitcoin as a corporate treasury asset is once again concentrated in Michael Saylor's Strategy as the company steps up its bitcoin buying pace.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
 **[Bitcoin Slumps With Options Showing Traders Turning Defensive](https://www.bloomberg.com/news/articles/2026-03-27/bitcoin-slumps-with-options-showing-traders-turning-defensive)**
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 13h ago
 
 ---
 
@@ -231,7 +231,7 @@ Bloomberg.com • 12h ago
 
 Bitcoin is no longer driven by scarcity-based models; its price now tracks demand dynamics and correlates with high-beta tech indices. Learn more about BTC-USD here.
 
-Seeking Alpha • 21h ago
+Seeking Alpha • 22h ago
 
 ---
 
@@ -285,27 +285,17 @@ Once upon a time, Bitcoin used to have god candles (and epic crashes) all on its
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 17K • 👍 990 • 💬 88 • ⏱️ 8:32 • 12h ago
+👁️ 19K • 👍 1K • 💬 115 • ⏱️ 8:32 • 13h ago
 
 ---
 
-**[Bitcoin PLUMMETS To $66K As David Sacks Steps Down &amp; Coinbase Faces Backlash!](https://www.youtube.com/watch?v=9pR4bg8vNAE)**
+**[6 STRAIGHT RED MONTHS For Bitcoin… The EXACT Moment It Blasted Off Last Time](https://www.youtube.com/watch?v=5zrS5PsBVyU)**
 
-Bitcoin #Crypto #Finance Bitcoin has dropped sharply toward the $66K level as major developments in crypto policy and industry ...
+Thanks to Caleb & Brown for sponsoring this video! CALEB & BROWN Link ...
 
-📺 The Wolf Of All Streets
+📺 Dan Gambardello
 
-👁️ 21K • 👍 1K • 💬 382 • ⏱️ 34:13 • 19h ago
-
----
-
-**[Why You Won’t Be Able To Buy Bitcoin When This Happens](https://www.youtube.com/watch?v=TxzWwexKk54)**
-
-Something is changing in the Bitcoin market—and most people are completely missing it. The biggest risk right now isn't that ...
-
-📺 Tim Talks Finance
-
-👁️ 5K • 👍 276 • 💬 65 • ⏱️ 12:25 • 15h ago
+👁️ 4K • 👍 348 • 💬 144 • ⏱️ 12:07 • 8h ago
 
 ---
 
@@ -315,37 +305,37 @@ all my life is bitcoin, literally. I had moments where I thought I was ruining m
 
 📺 BTC Isla
 
-👁️ 10K • 👍 1K • 💬 343 • ⏱️ 10:32 • 18h ago
+👁️ 11K • 👍 1K • 💬 290 • ⏱️ 10:32 • 18h ago
 
 ---
 
-**[XRP and Bitcoin CRASH Incoming | Here&#39;s Why](https://www.youtube.com/watch?v=dWr_rtGQRCg)**
+**[Why You Won’t Be Able To Buy Bitcoin When This Happens](https://www.youtube.com/watch?v=TxzWwexKk54)**
 
-1DAY LEFT: If you want access to the crypto tracker before the price goes up here it is: https://ninjacryptopro.com/Cycle-Tracker/ ...
+Something is changing in the Bitcoin market—and most people are completely missing it. The biggest risk right now isn't that ...
 
-📺 Economic News Ninja
+📺 Tim Talks Finance
 
-👁️ 14K • 👍 914 • 💬 221 • ⏱️ 5:14 • 14h ago
-
----
-
-**[A Storm Is Brewing In Crypto Today](https://www.youtube.com/watch?v=YNY7Wmntu14)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Buy, Sell, Trade on Weex ($500 Bonus): ...
-
-📺 Altcoin Daily
-
-👁️ 39K • 👍 2K • 💬 181 • ⏱️ 10:46 • 1d ago
+👁️ 6K • 👍 293 • 💬 66 • ⏱️ 12:25 • 15h ago
 
 ---
 
-**[Why You’ll Never Sell Your Bitcoin Again. WOW!](https://www.youtube.com/watch?v=bxZSKa3IDCU)**
+**[Bitcoin PLUMMETS To $66K As David Sacks Steps Down &amp; Coinbase Faces Backlash!](https://www.youtube.com/watch?v=9pR4bg8vNAE)**
 
-Coinbase and Fannie Mae just partnered up to do NO MARGIN CALL LOANS for Bitcoin. This is MASSIVE for real estate... but ...
+Bitcoin #Crypto #Finance Bitcoin has dropped sharply toward the $66K level as major developments in crypto policy and industry ...
 
-📺 Digital Asset News
+📺 The Wolf Of All Streets
 
-👁️ 14K • 👍 1K • 💬 108 • ⏱️ 18:26 • 1d ago
+👁️ 22K • 👍 1K • 💬 384 • ⏱️ 34:13 • 20h ago
+
+---
+
+**[MY FINAL BITCOIN WARNING...](https://www.youtube.com/watch?v=MIyRiegpQCo)**
+
+WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $25 ...
+
+📺 Crypto Rover
+
+👁️ 5K • 👍 428 • 💬 30 • ⏱️ 9:31 • 5h ago
 
 ---
 
@@ -355,27 +345,37 @@ Are Bitcoin and the S&P 500 on the verge of a massive breakdown? In this urgent 
 
 📺 Gareth Soloway
 
-👁️ 67K • 👍 4K • 💬 626 • ⏱️ 9:48 • 20h ago
+👁️ 69K • 👍 4K • 💬 577 • ⏱️ 9:48 • 21h ago
 
 ---
 
-**[Bitcoin Is Under Pressure AGAIN But The Bull Case Is Quietly Building](https://www.youtube.com/watch?v=lw58FjRpQUc)**
+**[🚨 Nunca Quise Grabar Este Video de Bitcoin... Te lo Explico TODO](https://www.youtube.com/watch?v=ICoPmGM6xwQ)**
 
-Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly on ...
+ESTE es el ANÁLISIS TÉCNICO de BITCOIN HOY y TODAS sus NOTICIAS! ¿BTC va a SUBIR o va a BAJAR? ¿QUIERES ...
 
-📺 CryptosRUs
+📺 Alejo Rolls
 
-👁️ 16K • 👍 862 • 💬 161 • ⏱️ 1:13:31 • 18h ago
+👁️ 6K • 👍 539 • 💬 17 • ⏱️ 13:13 • 11h ago
 
 ---
 
-**[Bitcoin - A Realistic Prediction by End of Year 🎯](https://www.youtube.com/watch?v=6h5l5GNbHXo)**
+**[A Storm Is Brewing In Crypto Today](https://www.youtube.com/watch?v=YNY7Wmntu14)**
 
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Follow Brandon: https://x.com/BranBTC Buy, ...
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Buy, Sell, Trade on Weex ($500 Bonus): ...
 
 📺 Altcoin Daily
 
-👁️ 16K • 👍 366 • 💬 55 • ⏱️ 1:06 • 2d ago
+👁️ 39K • 👍 2K • 💬 228 • ⏱️ 10:46 • 1d ago
+
+---
+
+**[Bitcoin Breakdown (This Is Next)](https://www.youtube.com/watch?v=XnhLb_y1Xdk)**
+
+Bitcoin Breakdown (This Is Next) My Free Telegram Groups: Platinum Group: https://mistercryp.to/ Limited Group: ...
+
+📺 Mister Crypto
+
+👁️ 929 • 👍 69 • 💬 39 • ⏱️ 10:27 • 5h ago
 
 ---
 
