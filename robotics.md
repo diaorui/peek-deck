@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-28T19:31:22.996776+00:00'
+updated: '2026-03-28T20:33:07.830893+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 28, 2026 at 19:31 UTC  
+**Last Updated:** March 28, 2026 at 20:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Who runs out of battery first decides the future](https://www.reddit.com/r/robotics/comments/1s6566h/who_runs_out_of_battery_first_decides_the_future/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 TechCrunch: Physical Intelligence is reportedly in talks to raise $1 billion, again: https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/
 
-7h ago
+8h ago
 
 ---
 
@@ -50,7 +50,7 @@ TechCrunch: Physical Intelligence is reportedly in talks to raise $1 billion, ag
 
 For the robot arm, we're running a segmentation model that benchmarks at a rock-solid 20fps on an Nvidia RTX 5060 Ti. In this video, we're keeping the rover locked onto the target using Image-Based Visual Servoing (IBVS) and a simple proportional controller.
 
-1h ago
+2h ago
 
 ---
 
@@ -58,7 +58,7 @@ For the robot arm, we're running a segmentation model that benchmarks at a rock-
 
 i have spent the past 2 months to design this arm in fusion, and now i am facing an issue on how to export this to isaac sim/ specifically the gripper, since it a 4 bar mechanism actuated with 3 gears. i thought of writing my own scripts of MJCF(because it supports kinematic loops), and then importing it in isaac sim
 
-13h ago
+14h ago
 
 ---
 
@@ -66,13 +66,7 @@ i have spent the past 2 months to design this arm in fusion, and now i am facing
 
 There is the argument that humanoid robots are the future because they're generalists and their humanoid form means they can do whatever humans were doing. And while that is theoretically true, it misses an important point: Generality is only good if it performs better and more cost-effectively than the specialist machines in those tasks. I haven't seen anything to support the idea that humanoid form would necessarily surpass that threshold for many tasks. It can easily end up doing a mediocre job at many tasks because its lower productively delivers less profit per dollar spent on the machinery compared to specialist machines, and its form can never get as efficient as non-humanoid specialist machines. The "economies of scale" argument usually gets propositioned where economies of scale would lower the prices of humanoid robots so much that it would make it the more cost-effective option. However: Specialized machines can also experience economies of scale Economies of scale only bring down the price so much (the cost per unit decrease is not infinitely proportional based on how many units are produced, at some point the cost savings level off and can even revert) Simpler machinery and manufacturing of a specialized machine can mean lower fixed costs compared to the more complex manufacturing of a humanoid robot, meaning economies of scale could result in a lower cost being spread across many units for the former rather than the latter, making the former cheaper than the latter. Even if the humanoid robot is cheaper, the higher productivity and profitability of specialized machines may justify and make purchasing specialized machines the more fruitful endeavor. Saying humanoid robots will experience such cost savings from economies of scale assumes they'd be so favored by buyers that lots of units would be produced in the first place. To understand the limits of generalist technology, take this analogy: Instead of having a knife, fork, spoon, spatula, pizza cutter, etc. you could use a spork to serve in place of all those things. A spork would be cheaper, especially since you don't have to buy more utensils and clean and wash more, and it benefits from economies of scale, but a spork does a pretty mediocre job at all those tasks, it does not master them as effectively as those more specialized utensils. This is why in large part most people do not use a spork for most food tasks, and if it is good for anything it is only in a few highly specific occasions. A spork in this sense is a "Jack of all trades, master of none," where it can do many food tasks, but all in a mediocre fashion. A humanoid robot may very well end up the same, where it can do many tasks, but not in a more cost-effective manner.
 
-6h ago
-
----
-
-**[How to couple the 3D printed wheels with motor?](https://www.reddit.com/r/robotics/comments/1s69icy/how_to_couple_the_3d_printed_wheels_with_motor/)**
-
-5m ago
+7h ago
 
 ---
 
@@ -106,13 +100,19 @@ I didn't use the T265; instead, I chose the RoboBaton mini to control the car's 
 
 ---
 
+**[Demo of Agibot’s wheeled A2 depalleting](https://www.reddit.com/r/robotics/comments/1s4spdj/demo_of_agibots_wheeled_a2_depalleting/)**
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "robotics"
 
 **[AI Robotics Lab in Talks to Raise $1 Billion at $11 Billion Valuation](https://www.bloomberg.com/news/articles/2026-03-27/ex-deepmind-staffers-robotics-startup-in-talks-for-11-billion-valuation)**
 
-Bloomberg.com • 22h ago
+Bloomberg.com • 23h ago
 
 ---
 
@@ -132,11 +132,11 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[Scientists design living robots with intelligent neurons](https://3dvf.com/en/scientists-design-living-robots-with-intelligent-neurons/)**
+**[Microrobots swim and steer with no brain, sensors, or software](https://interestingengineering.com/ai-robotics/brainless-microrobots-shape-driven-motion)**
 
-When a robot's next move comes from living tissue, what counts as programming? In one lab, tiny hand-built creatures are lighting up and roaming in ways their makers never wrote into code.
+Microrobots move and adapt without brain or software, using shape and flexibility to navigate environments.
 
-3DVF • 2h ago
+interestingengineering.com • 1d ago
 
 ---
 
@@ -154,6 +154,22 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Scientists design living robots with intelligent neurons](https://3dvf.com/en/scientists-design-living-robots-with-intelligent-neurons/)**
+
+When a robot's next move comes from living tissue, what counts as programming? In one lab, tiny hand-built creatures are lighting up and roaming in ways their makers never wrote into code.
+
+3DVF • 3h ago
+
+---
+
+**[Panama Remote Robotic Stroke Procedure Drawing International Attention](https://ticotimes.net/2026/03/27/panama-remote-robotic-stroke-procedure-drawing-international-attention)**
+
+Learn about the Panama robotic stroke procedure, the first of its kind, combining robotic technology with remote surgical expertise.
+
+The Tico Times • 19h ago
+
+---
+
 **[Delivery robots smash Chicago bus shelters in two separate incidents](https://www.upi.com/Odd_News/2026/03/26/Chicago-delivery-robots-bus-shelters/4041774539291/)**
 
 Two delivery robots crashed into two bus shelters in Chicago within a matter of days -- and one of the incidents was caught on camera.
@@ -162,27 +178,11 @@ upi.com • 2d ago
 
 ---
 
-**[Amazon Eyes Delivery Robots as MIT Tackles Warehouse Bottlenecks](https://www.pymnts.com/amazon/2026/amazon-eyes-delivery-robots-as-mit-tackles-warehouse-bottlenecks/)**
-
-Amazon has spent more than a decade automating its logistics network. The company has already deployed more than 1 million robots across its operations,
-
-pymnts.com • 1d ago
-
----
-
 **[Delivery robots keep crashing into bus shelters](https://www.popsci.com/technology/delivery-robots-crash-bus-shelters/)**
 
 It's been a bad week for burritos on wheels.
 
 Popular Science • 2d ago
-
----
-
-**[Panama Remote Robotic Stroke Procedure Drawing International Attention](https://ticotimes.net/2026/03/27/panama-remote-robotic-stroke-procedure-drawing-international-attention)**
-
-Learn about the Panama robotic stroke procedure, the first of its kind, combining robotic technology with remote surgical expertise.
-
-The Tico Times • 18h ago
 
 ---
 
@@ -196,17 +196,7 @@ Thanks to Delete Me for sponsoring this video. To keep your private info private
 
 📺 Kim Java
 
-👁️ 161K • 👍 7K • 💬 340 • ⏱️ 20:00 • 4d ago
-
----
-
-**[Maniac Melania Trump Suggests Replacing Teachers With Robots](https://www.youtube.com/watch?v=mpQYocsUpdg)**
-
-Melania Trump suggested using humanoid AI robots like a “Plato” educator to teach children, proposing a future where ...
-
-📺 Farron Balanced
-
-👁️ 35K • 👍 3K • 💬 806 • ⏱️ 5:10 • 2d ago
+👁️ 165K • 👍 7K • 💬 345 • ⏱️ 20:00 • 4d ago
 
 ---
 
@@ -216,17 +206,7 @@ Learn for free on Brilliant for a full 30 days: https://brilliant.org/NikodemBar
 
 📺 Nikodem Bartnik
 
-👁️ 62K • 👍 3K • 💬 57 • ⏱️ 9:55 • 4d ago
-
----
-
-**[Watch: Humanoid robot walks alongside first lady Melania Trump at White House](https://www.youtube.com/watch?v=X-NjEku-zE4)**
-
-Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
-
-📺 CBS News
-
-👁️ 42K • 👍 301 • 💬 322 • ⏱️ 9:54 • 2d ago
+👁️ 64K • 👍 3K • 💬 58 • ⏱️ 9:55 • 4d ago
 
 ---
 
@@ -236,7 +216,7 @@ Melania Trump sparks alarm over a White House event where she walked in with a r
 
 📺 The Damage Report
 
-👁️ 18K • 👍 882 • 💬 426 • ⏱️ 8:42 • 1d ago
+👁️ 18K • 👍 884 • 💬 428 • ⏱️ 8:42 • 2d ago
 
 ---
 
@@ -246,7 +226,7 @@ This week in robotics got kind of ridiculous. South Korea showed off a humanoid 
 
 📺 AI Revolution
 
-👁️ 227K • 👍 3K • 💬 142 • ⏱️ 14:31 • 5d ago
+👁️ 228K • 👍 3K • 💬 142 • ⏱️ 14:31 • 5d ago
 
 ---
 
@@ -276,17 +256,37 @@ War Robots Gameplay: NEW Robot ANAKSOR - First Try on Live Server My War Robots 
 
 📺 Manni-Gaming
 
-👁️ 3K • 👍 203 • 💬 40 • ⏱️ 19:34 • 5h ago
+👁️ 4K • 👍 272 • 💬 48 • ⏱️ 19:34 • 6h ago
 
 ---
 
-**[First lady Melania Trump welcomes robot to White House tech summit](https://www.youtube.com/watch?v=glfTpD9iKhs)**
+**[Meet “Roadrunner&quot;: a bipedal, wheeled robot for multi-modal locomotion](https://www.youtube.com/watch?v=9kae-UAME1U)**
 
-Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
+"Roadrunner” is a new bipedal wheeled robot prototype designed for multi-modal locomotion. It weighs around 15kg (33 lb.)
 
-📺 Face the Nation
+📺 RAI Institute
 
-👁️ 137K • 👍 1K • 💬 739 • ⏱️ 9:54 • 2d ago
+👁️ 488K • 👍 12K • 💬 1K • ⏱️ 1:34 • 5d ago
+
+---
+
+**[The Most Human-Like Robots of 2026 Are Finally Here — And It Changes Everything](https://www.youtube.com/watch?v=BtE4otcAfVc)**
+
+The most advanced humanoid robots of 2026 just dropped — and you are NOT ready for what they can do. This year changes ...
+
+📺 The AI Nexus
+
+👁️ 7K • 👍 186 • 💬 14 • ⏱️ 16:29 • 5d ago
+
+---
+
+**[When your circuit boards start roasting each other&#39;s specs! 🤖🤣 #Robotics #CodingMemes#viral](https://www.youtube.com/watch?v=HenS1Q4blFU)**
+
+The Ultimate Microcontroller Battle is HERE! Who is the real KING of your tech workbench? Arduino Uno is crying with no ...
+
+📺 M.R. Hacking Robot
+
+👁️ 57K • 👍 869 • 💬 15 • ⏱️ 0:21 • 2d ago
 
 ---
 

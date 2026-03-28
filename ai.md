@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-28T19:31:22.979425+00:00'
+updated: '2026-03-28T20:33:07.813559+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
+- videos
 - repositories
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 28, 2026 at 19:31 UTC  
+**Last Updated:** March 28, 2026 at 20:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Just found this “bullshit benchmark,” and sort of shocked by the divergence of Anthropic’s models from other major models (ChatGPT and Gemini). IMO this alone is reason to use Claude over others.
 
-🔗 [GitHub](https://github.com/petergpt/bullshit-benchmark?tab=readme-ov-file#3-detection-rate-over-time) • 1h ago
+🔗 [GitHub](https://github.com/petergpt/bullshit-benchmark?tab=readme-ov-file#3-detection-rate-over-time) • 2h ago
 
 ---
 
@@ -49,7 +49,7 @@ Just found this “bullshit benchmark,” and sort of shocked by the divergence 
 
 In April Congress is voting to extend the FISA Act on the 20th of April this year. The FISA Act allows the government to buy your emails, texts, and calls from corporations. With the newly established shady deal with Open AI surveillance has become even more accessible and applicable on a much more larger and invasive scale. It very important for the sake of maintaining our right of protest and the press in the future. Call/email your representatives in the US, protest, and speak in any way you can.
 
-16h ago
+17h ago
 
 ---
 
@@ -57,7 +57,15 @@ In April Congress is voting to extend the FISA Act on the 20th of April this yea
 
 AMD's GAIA AI agent framework (that previously stood for 'Generative AI Is Awesome' albeit they seemed to have dropped promoting it as that name) for Ryzen AI hardware is out with a new version
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-GAIA-0.17-Agent-UI) • 1h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-GAIA-0.17-Agent-UI) • 2h ago
+
+---
+
+**[I tested what happens when you give an AI coding agent access to 2 million research papers. It found techniques it couldn't have known about.](https://www.reddit.com/r/artificial/comments/1s6afwm/i_tested_what_happens_when_you_give_an_ai_coding/)**
+
+Quick experiment I ran. Took two identical AI coding agents (Claude Code), gave them the same task — optimize a small language model. One agent worked from its built-in knowledge. The other had access to a search engine over 2M+ computer science research papers. Agent without papers: did what you'd expect. Tried well-known optimization techniques. Improved the model by 3.67%. Agent with papers: searched the research literature before each attempt. Found 520 relevant papers, tried 25 techniques from them — including one from a paper published in February 2025, months after the AI's training cutoff. It literally couldn't have known about this technique without paper access. Improved the model by 4.05% — 3.2% better. The interesting moment: both agents tried the same idea (halving the batch size). The one without papers got it wrong — missed a crucial adjustment and the whole thing failed. The one with papers found a rule from a 2022 paper explaining exactly how to do it, got it right on the first try. Not every idea from papers worked. But the ones that did were impossible to reach without access to the research. AI models have a knowledge cutoff — they can't see anything published after their training. And even for older work, they don't always recall the right technique at the right time. Giving them access to searchable literature seems to meaningfully close that gap. I built the paper search tool (Paper Lantern) as a free MCP server for AI coding agents: https://code.paperlantern.ai Full experiment writeup: https://www.paperlantern.ai/blog/auto-research-case-study
+
+30m ago
 
 ---
 
@@ -65,7 +73,7 @@ AMD's GAIA AI agent framework (that previously stood for 'Generative AI Is Aweso
 
 Hey guys, Thank you so much for your love and support regarding Netryx Astra V2 last time. Many people are not that technically savvy to install the GitHub repo and test the tool out immediately so I built a small web demo covering a 10km radius of New York, it's completely free and uses the same pipeline as the repo. I have limited the number of credits since each search consumes GPU costs, but if that's an issue you can install the repo and index any city you want with unlimited searches. I would accept any feedback include searches that failed or didn't work for you. The site works best on desktop Web demo link: https://www.netryx.live Repo link: https://github.com/sparkyniner/Netryx- Astra-V2-Geolocation-Tool
 
-3h ago
+4h ago
 
 ---
 
@@ -73,7 +81,7 @@ Hey guys, Thank you so much for your love and support regarding Netryx Astra V2 
 
 I follow AI infrastructure pretty closely and Qubic keeps coming up in my research in a way I find intersting but havent seen much discussion of in AI-focused comunities. Quick background for people who havent heard of it: Qubic uses what they call Useful Proof of Work - instead of hardware solving random hash puzzles, the compute runs neural network training tasks for thier Aigarth AI project. The same hardware is contributing to AI training while securing things. The network was independently verifed at 15.52 million transactions per second by CertiK on live mainnet. For context, thats faster than Visas theoretical peak throughput. The architecture runs on bare metal hardware without a virtual machine layer, which is aparently what enables the throughput. Theyre also aparently launching a DOGE mining integration immenantly (around April 1) where thier infrastructure will run Dogecoin mining simultaniously with everything else - the ASIC hardware for DOGE Scrypt mining runs in paralel with thier CPU/GPU hardware for other workloads. For comparison, people often bring up Bittensor, but from what I see Bittensor is more about competing AIs and subnets rewarding each other rather than actually using the distributed compute to train models from scratch with raw hardware power. Qubic seems different in that the mining itself is the training. Big companies are pouring billions into building massive data centers and training ever bigger LLMs, but I dont think true AGI is gonna come just from scaling up these trained models no matter how much money they throw at it. My interest is specifically in the distributed AI compute angle. Is the model of mining-funded distributed AI training something that gets serius discussion in AI research cirles? Or is this considered a fundementaly different category from serius AI infrastructure?
 
-8h ago
+9h ago
 
 ---
 
@@ -81,7 +89,7 @@ I follow AI infrastructure pretty closely and Qubic keeps coming up in my resear
 
 The idea is called HALO - Hierarchical Autonomous Learning Organism. The core premise is simple: what if instead of just making LLMs bigger, we actually looked at how intelligence works in nature and built something that mirrors those principles? Not just the human brain either, evolution spent hundreds of millions of years solving different cognitive problems in different species. Why not take the best bits from all of them? Some of what ended up in the design: It has a nervous system. Not metaphorically, it’s literally wired to monitor its own hardware. GPU temps, memory pressure, all of it. When it’s running hot it conserves and gets cautious. When it’s idle and cool it explores and consolidates. Biological stress response, but for silicon. It learns the way animals learn. One strong negative experience permanently changes how it perceives that category of situation, like a kid touching a hot stove. Not just “add a rule” but actually changing the lens it sees similar situations through. Compare that to how current AI just… forgets everything between sessions. It has eight processing arms inspired by octopus neurology. Two thirds of an octopus’s neurons are in its arms, not its brain. Each arm is semi autonomous. Applied here that means memory retrieval, fact checking, simulation, tool staging, all running in parallel before the main model even needs them. No central bottleneck. It knows what it doesn’t know. There are three knowledge databases, what it’s verified, what it’s uncertain about, and a registry of confirmed gaps. That last one is the interesting one. It knows the shape of its own ignorance. That’s what drives the curiosity engine. That’s what makes it actually want to learn rather than just respond. It develops a personality over time. Starts with one seed temperament, curiosity, and everything else emerges from experience. There’s a developmental threshold, and once it crosses it, the system looks at what it’s actually become and that becomes its baseline. Not programmed personality. Accumulated identity. It can choose to ignore guidance and learn from the consequences. Bounded, transparent autonomy. It knows when advice is good and can still try something different. The outcome, good or bad, is the learning signal. That’s how real judgment develops. And everything is declared openly, nothing hidden. The whole thing is designed to run locally, on a gaming PC, with no cloud dependency. Private. Continuous. Gets smarter through use, not retraining. I put together a technical white paper with the complete architecture if anyone wants to go deep. 34+ subsystems, full brain region mapping, animal cognition mapping, causal reasoning engine, six-level memory tree, the works. I genuinely think the pieces are all there. Would love to get some feedback on the idea. The idea is fully open for use, so if anything from the architecture may benefit your project, you’re free to use it.
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +97,7 @@ The idea is called HALO - Hierarchical Autonomous Learning Organism. The core pr
 
 I was long juggling separate monthly subscriptions for Claude, Gemini, and GPT-4 until the costs and tab-switching became a total mess and I started paying over 100 bucks each mont. Then, I tried consolidating everything into a single hub, done that both locally and online, both api and openrouter and all in one online and writingmate. such consolidation then saved me about half of my resources pet each month. I do not have to deal with the constant cooldowns or model blocks that happen when you hit usage caps on a single platform anymore. And having 200+ models in one place has been a massive time-saver for my coding and doc review tasks. I recently processed a 100-page research paper using a long-context model I found on there, which would have been a pain to upload and prompt elsewhere. It is a practical ChatGPT alternative for anyone trying to streamline their setup rather than jumping between browser windows. I am also curious if anyone else here has moved away from the main platform for their daily tasks? Does anyone else find the model-switching friction as annoying as I did?
 
-10h ago
+11h ago
 
 ---
 
@@ -97,7 +105,7 @@ I was long juggling separate monthly subscriptions for Claude, Gemini, and GPT-4
 
 Anthropic warned about the AI model's cybersecurity risks in the leaked post as well.
 
-🔗 [Mashable](https://mashable.com/article/claude-mythos-ai-model-anthropic-leak) • 21h ago
+🔗 [Mashable](https://mashable.com/article/claude-mythos-ai-model-anthropic-leak) • 22h ago
 
 ---
 
@@ -105,15 +113,7 @@ Anthropic warned about the AI model's cybersecurity risks in the leaked post as 
 
 Al agents are running on infrastructure built for humans. Every state check runs 9 shell commands. Every cold start re-discovers context from scratch. It's wasteful by design. An agentic JSON-native OS fixes it. Benchmarks across 5 real scenarios: Semantic search vs grep + cat: 91% fewer tokens Agent pickup vs cold log parsing: 83% fewer tokens State polling vs shell commands: 57% fewer tokens Overall: 68.5% reduction Benchmark is fully reproducible: python3 tools/ bench_compare.py Plugs into Claude Code via MCP, runs local inference through Ollama, MIT licensed. Would love feedback from people actually running agentic workflows. https://github.com/ninjahawk/hollow-agentOS
 
-1h ago
-
----
-
-**[Nobody’s talking about what Pixar’s Hoppers is actually saying about AI](https://www.reddit.com/r/artificial/comments/1s5rlc5/nobodys_talking_about_what_pixars_hoppers_is/)**
-
-Just watched Hoppers and I’m surprised this hasn’t been picked up more widely. The parallels with AI and its risks are hard to ignore once you see them. A few things worth noting: The setup mirrors our current moment almost exactly. The lead scientist developing the world-changing technology is called Dr. Sam. Her invention lets humans cross a communication barrier that was previously impossible: entering the animal world through embodiment. LLMs did the same thing for the digital world. We can now navigate machines through natural language. The alignment problem is right there on screen. Mabel uses the technology to reach her goal, but the technology has its own logic and momentum. What it produces isn’t what she intended. The governance message is explicit. No single person or group should control a technology this powerful even when we have good intentions. The real cautionary tale in Hoppers isn’t aimed at the tech builders. It’s for the users, the ones who convince themselves that it is the only way to solve the world’s problems. The consequences in the film flow from that belief. Not from the tech itself. Curious if anyone else read it this way.
-
-🔗 [Pixar Animation Studios](https://www.pixar.com/hoppers) • 14h ago
+3h ago
 
 ---
 
@@ -125,7 +125,7 @@ Just watched Hoppers and I’m surprised this hasn’t been picked up more widel
 
 Experts say paid participants are using automated tools to generate unreliable survey responses at scale
 
-The Guardian • 7h ago
+The Guardian • 8h ago
 
 ---
 
@@ -133,15 +133,7 @@ The Guardian • 7h ago
 
 State lawmakers have been stepping in to regulate artificial intelligence, clashing with the federal government's inaction as concerns about oversight and safety grow.
 
-NPR • 10h ago
-
----
-
-**[AI deepfakes blur reality in 2026 US midterm campaigns](https://www.staradvertiser.com/2026/03/28/breaking-news/ai-deepfakes-blur-reality-in-2026-us-midterm-campaigns/)**
-
-NEW YORK >> As the video opens, Democratic Texas State Representative James Talarico appears to stand in front of a Texas flag, beaming.
-
-Honolulu Star-Advertiser • 3h ago
+NPR • 11h ago
 
 ---
 
@@ -149,7 +141,7 @@ Honolulu Star-Advertiser • 3h ago
 
 AI usage is a key issue in SAG-AFTRA’s ongoing negotiations of a new contract with Hollywood studios.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
@@ -167,25 +159,9 @@ Stanford Report • 2d ago
 
 ---
 
-**[Number of AI chatbots ignoring human instructions increasing, study says](https://www.theguardian.com/technology/2026/mar/27/number-of-ai-chatbots-ignoring-human-instructions-increasing-study-says)**
+**[Opinion | AI Doesn’t Have to Rot Your Mind](https://www.wsj.com/opinion/ai-doesnt-have-to-rot-your-mind-4516add0?gaa_at=eafs&gaa_n=AWEtsqd7YyRFI2yXv2757nnR0Ti6WZhQbFy2jZRIjJ7Q5smo0M2KM9eB0a15&gaa_ts=69c83e6f&gaa_sig=skJc-utWKVDWGqDb97Avf8SVgFb6TH38i8Tab7e_-A128A-vh7FB8xCNgFyqqE4O89jgFFuouvcYQDZkt4O1LQ%3D%3D)**
 
-Exclusive: Research finds sharp rise in models evading safeguards and destroying emails without permission
-
-The Guardian • 1d ago
-
----
-
-**[Social media is populist and polarising; AI may be the opposite](https://www.ft.com/content/3880176e-d3ac-4311-9052-fdfeaed56a0e?syn-25a6b1a6=1)**
-
-Large language models elevate expert consensus and moderate views, in sharp contrast to social platforms
-
-Financial Times • 14h ago
-
----
-
-**[Opinion | AI Doesn’t Have to Rot Your Mind](https://www.wsj.com/opinion/ai-doesnt-have-to-rot-your-mind-4516add0?gaa_at=eafs&gaa_n=AWEtsqd4ZLwtnSb9iPLw-CNKcRt9pHdfoA98VdaL4QuHKZEAcozFmXKAn_wN&gaa_ts=69c82fe8&gaa_sig=81eAE2x9IexgbHzAFLMnu71IrLj1v_1rA59Em_A7G0emkDi1VX--ib4MnINKquDb-mh0uTbHsxwevic6lWcIzg%3D%3D)**
-
-wsj.com • 22h ago
+WSJ • 23h ago
 
 ---
 
@@ -197,13 +173,35 @@ blog.google • 2d ago
 
 ---
 
+**[AI deepfakes blur reality in 2026 US midterm campaigns](https://www.reuters.com/business/media-telecom/ai-deepfakes-blur-reality-2026-us-midterm-campaigns-2026-03-28/)**
+
+Reuters • 7h ago
+
+---
+
+**[Memory chip stocks shed $100bn as AI-driven shortage trade unwinds](https://www.ft.com/content/e4e15692-187e-4466-832e-ec267e792292?syn-25a6b1a6=1)**
+
+New research suggests AI data centres will need much less memory than investors had bargained for
+
+Financial Times • 1d ago
+
+---
+
+**[Crusoe Scales Abilene AI Campus to 2.1 GW for Microsoft](https://www.crusoe.ai/resources/newsroom/crusoe-announces-new-900-mw-ai-factory-campus-in-abilene-texas-to-support-microsoft-ai-infrastructure)**
+
+New dedicated campus designed to support large-scale AI workloads; combined with Crusoe’s existing Abilene infrastructure, the full site is expected to reach approximately 2.1 GW of total capacity
+
+Crusoe • 1d ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
 
 **[AI overly affirms users asking for personal advice](https://news.ycombinator.com/item?id=47554773)**
 
-⬆️ 394 • 💬 320 • 5h ago • [news.stanford.edu](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
+⬆️ 421 • 💬 338 • 6h ago • [news.stanford.edu](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
 
 ---
 
@@ -211,13 +209,13 @@ blog.google • 2d ago
 
 LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. Instead, it was choices made by human beings, over many years, that gave us this atrocity
 
-⬆️ 387 • 💬 361 • 1d ago • [the Guardian](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)
+⬆️ 391 • 💬 362 • 1d ago • [the Guardian](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)
 
 ---
 
 **[Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://news.ycombinator.com/item?id=47536761)**
 
-⬆️ 329 • 💬 95 • 1d ago • [georgelarson.me](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
+⬆️ 330 • 💬 95 • 1d ago • [georgelarson.me](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
 
 ---
 
@@ -225,7 +223,7 @@ LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. In
 
 The decision follows activist pressure as Palantir faces growing scrutiny over NHS and UK government deals
 
-⬆️ 309 • 💬 144 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai)
+⬆️ 310 • 💬 144 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai)
 
 ---
 
@@ -233,13 +231,21 @@ The decision follows activist pressure as Palantir faces growing scrutiny over N
 
 One engineer used AI to rewrite JSONata as a pure-Go library called gnata. Seven hours, $400 in tokens, 1,000x speedup, and $500K/year off our cloud bill.
 
-⬆️ 265 • 💬 246 • 1d ago • [reco.ai](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)
+⬆️ 265 • 💬 247 • 1d ago • [reco.ai](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)
 
 ---
 
 **[CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering](https://news.ycombinator.com/item?id=47552562)**
 
-⬆️ 254 • 💬 119 • 11h ago • [theopenreader.org](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
+⬆️ 265 • 💬 124 • 12h ago • [theopenreader.org](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
+
+---
+
+**[Folk are getting dangerously attached to AI that always tells them they're right](https://news.ycombinator.com/item?id=47555090)**
+
+: Sycophantic bots coach users into selfish, antisocial behavior, say researchers, and they love it
+
+⬆️ 236 • 💬 178 • 5h ago • [theregister.com](https://www.theregister.com/2026/03/27/sycophantic_ai_risks/)
 
 ---
 
@@ -251,19 +257,11 @@ One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced
 
 ---
 
-**[Folk are getting dangerously attached to AI that always tells them they're right](https://news.ycombinator.com/item?id=47555090)**
-
-: Sycophantic bots coach users into selfish, antisocial behavior, say researchers, and they love it
-
-⬆️ 210 • 💬 159 • 4h ago • [theregister.com](https://www.theregister.com/2026/03/27/sycophantic_ai_risks/)
-
----
-
 **[I am leaving the AI party after one drink](https://news.ycombinator.com/item?id=47545030)**
 
 Personal website of Lara Aigmüller. Thoughts about web frontend development, music, and more…
 
-⬆️ 117 • 💬 126 • 1d ago • [lara-aigmueller.at](https://lara-aigmueller.at/thoughts/leaving-the-ai-party/)
+⬆️ 118 • 💬 127 • 1d ago • [lara-aigmueller.at](https://lara-aigmueller.at/thoughts/leaving-the-ai-party/)
 
 ---
 
@@ -271,7 +269,7 @@ Personal website of Lara Aigmüller. Thoughts about web frontend development, mu
 
 Discussions of cognitive offloading often miss a critical distinction: What AI does to a 45-year-old's brain is categorically different from what it does to a 14-year-old's.
 
-⬆️ 77 • 💬 60 • 11h ago • [Psychology Today](https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them)
+⬆️ 84 • 💬 61 • 12h ago • [Psychology Today](https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them)
 
 ---
 
@@ -279,43 +277,13 @@ Discussions of cognitive offloading often miss a critical distinction: What AI d
 
 ## YouTube Videos: "ai"
 
-**[How To Start Making AI Anime in 2026](https://www.youtube.com/watch?v=dg49GOSMIiU)**
+**[I Recreated Ai Slop CRAFTS](https://www.youtube.com/watch?v=_n2IEbFJDao)**
 
-How To Start Making AI Anime videos in 2026 Create your own AI Anime Videos https://higgsfield.ai/ai-video?fpr=utm&fp_sid=skai ...
+Welcome to the Uncanny Gallery Where we compare Ai crafts to HANDMADE versions!! Get your $15 Credit on Whatnot ...
 
-📺 Skai Generated
+📺 HopeScope
 
-👁️ 1K • 💬 1 • ⏱️ 9:00 • 2h ago
-
----
-
-**[The Wildest AI Film You&#39;ll See Today! (Seedance 2.0)](https://www.youtube.com/watch?v=dRjN6Cr2Z00)**
-
-"Dragon Blue" is a hyper-stylized action thriller about vengeance and katanas, what more could you ask for? Every shot was ...
-
-📺 Theoretically Media
-
-👁️ 33K • 👍 2K • 💬 610 • ⏱️ 3:34 • 2d ago
-
----
-
-**[This AI Makes the Most Realistic Characters I’ve Ever Seen](https://www.youtube.com/watch?v=LmU0fSi1kcw)**
-
-Make the Most Realistic Characters with Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=robo8 In this video, I break down the AI ...
-
-📺 Roboverse
-
-👁️ 6K • 💬 3 • ⏱️ 8:21 • 4h ago
-
----
-
-**[Best AI B-roll Generator for 3D Animations (2026)](https://www.youtube.com/watch?v=m6OZzdPPpwY)**
-
-Create B-rolls using Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=isa8 In this video, I break down how to generate cinematic ...
-
-📺 Isa does AI
-
-👁️ 6K • 💬 2 • ⏱️ 8:20 • 5h ago
+👁️ 318K • 👍 15K • 💬 861 • ⏱️ 24:06 • 6h ago
 
 ---
 
@@ -325,27 +293,47 @@ The truth about Sam Altman. AI Critic Karen Hao reveals what 90 OpenAI employees
 
 📺 The Diary Of A CEO
 
-👁️ 1.7M • 👍 46K • 💬 8K • ⏱️ 2:09:13 • 2d ago
+👁️ 1.7M • 👍 48K • 💬 8K • ⏱️ 2:09:13 • 2d ago
 
 ---
 
-**[the AI influencers that ACTUALLY get you paid](https://www.youtube.com/watch?v=yDs99O_4lxU)**
+**[The Wildest AI Film You&#39;ll See Today! (Seedance 2.0)](https://www.youtube.com/watch?v=dRjN6Cr2Z00)**
 
-Create AI Influencers using Arcads https://youricreates.com/Influencers In this video, I break down how AI influencers actually ...
+"Dragon Blue" is a hyper-stylized action thriller about vengeance and katanas, what more could you ask for? Every shot was ...
 
-📺 Youri van Hofwegen
+📺 Theoretically Media
 
-👁️ 4K • 💬 4 • ⏱️ 9:35 • 3h ago
+👁️ 33K • 👍 2K • 💬 611 • ⏱️ 3:34 • 2d ago
 
 ---
 
-**[The AI Bubble JUST BURST—What You NEED to Know Before It&#39;s TOO LATE!](https://www.youtube.com/watch?v=hQoH1HaWYgQ)**
+**[I F**king Hate AI.](https://www.youtube.com/watch?v=e6cORWR76Gk)**
 
-Google just confirmed the AI bubble has started to burst which is about to take the market down with it. Time is running out and I'm ...
+Patreon: https://patreon.com/FlashbackHistory WANT MORE? - Check out our sister channel - Darkest Chapters: ...
 
-📺 Steven Van Metre
+📺 Flashback History
 
-👁️ 53K • 👍 2K • 💬 230 • ⏱️ 15:55 • 1d ago
+👁️ 55K • 👍 9K • 💬 2K • ⏱️ 22:05 • 2d ago
+
+---
+
+**[OpenAI Is Shutting Down Their AI Slop Machine](https://www.youtube.com/watch?v=Bh9VDUKRSuM)**
+
+OpenAI is shutting down Sora (their AI video generation tool) probably because it was wildly unprofitable and bad for their ...
+
+📺 Siliconversations
+
+👁️ 181K • 👍 19K • 💬 1K • ⏱️ 3:54 • 1d ago
+
+---
+
+**[Higgsfield AI Cinema Studio 2.5 SOLVED Consistent AI Characters!](https://www.youtube.com/watch?v=Q-vLiGjZTFA)**
+
+Higgsfield AI Cinema Studio 2.5 SOLVED Consistent AI Characters! Try Cinema Studio now ...
+
+📺 Mira AI
+
+👁️ 3K • 💬 5 • ⏱️ 8:32 • 3h ago
 
 ---
 
@@ -355,27 +343,37 @@ Patrick Bet-David and the panel break down how AI agents like Claude are changin
 
 📺 Valuetainment
 
-👁️ 166K • 👍 3K • 💬 405 • ⏱️ 13:13 • 2d ago
+👁️ 168K • 👍 3K • 💬 407 • ⏱️ 13:13 • 2d ago
 
 ---
 
-**[Gary Vee: The AI Opportunity Is Real — You&#39;re Just Looking at It Wrong](https://www.youtube.com/watch?v=4vIIeCqHYXA)**
+**[The AI Bubble JUST BURST—What You NEED to Know Before It&#39;s TOO LATE!](https://www.youtube.com/watch?v=hQoH1HaWYgQ)**
 
-Build your own AI agent team and automate your daily ops — try Accio Work FREE for one week: ...
+Google just confirmed the AI bubble has started to burst which is about to take the market down with it. Time is running out and I'm ...
 
-📺 Silicon Valley Girl
+📺 Steven Van Metre
 
-👁️ 14K • 👍 568 • 💬 61 • ⏱️ 44:41 • 1d ago
+👁️ 53K • 👍 2K • 💬 232 • ⏱️ 15:55 • 1d ago
 
 ---
 
-**[GET IN EARLY! I&#39;m Investing In This Breakthrough AI Chip](https://www.youtube.com/watch?v=JVEKSlDEQR0)**
+**[How I Generate 1,000 AI Videos of myself from ONE Single Image!](https://www.youtube.com/watch?v=ogC7cSPB5Lw)**
 
-Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/TICKERYOUMAR4 100% Discount for the first 1000 ...
+Generate AI Videos of Yourself using Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=isa7 In this video, I break down how to turn a ...
 
-📺 Ticker Symbol: YOU
+📺 Isa does AI
 
-👁️ 84K • 👍 4K • 💬 255 • ⏱️ 18:43 • 2d ago
+👁️ 18K • 💬 11 • ⏱️ 8:10 • 2d ago
+
+---
+
+**[Forget Suno! This AI Music Generator Is FREE &amp; UNLIMITED](https://www.youtube.com/watch?v=X0wSFQ37yPY)**
+
+Create 4K cinematic music videos with Higgsfield → https://higgsfield.ai/s/cinema-studio-2-5-malvaai-ciujdU Join the Giveaway ...
+
+📺 Malva AI
+
+👁️ 2K • 👍 135 • 💬 23 • ⏱️ 8:39 • 8h ago
 
 ---
 
@@ -391,7 +389,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 253,259 • ❤️ 1,511 • 4d ago
+⬇️ 253,259 • ❤️ 1,518 • 4d ago
 
 ---
 
@@ -403,7 +401,7 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 `text-to-speech`
 
-⬇️ 1,802 • ❤️ 374 • 1d ago
+⬇️ 1,802 • ❤️ 384 • 1d ago
 
 ---
 
@@ -415,7 +413,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 12,080 • ❤️ 323 • 18h ago
+⬇️ 12,080 • ❤️ 339 • 19h ago
 
 ---
 
@@ -427,7 +425,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 478,934 • ❤️ 1,030 • 17d ago
+⬇️ 478,934 • ❤️ 1,034 • 17d ago
 
 ---
 
@@ -451,7 +449,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 69,594 • ❤️ 358 • 3d ago
+⬇️ 69,594 • ❤️ 361 • 3d ago
 
 ---
 
@@ -475,7 +473,7 @@ Context-1 is a 20B parameter agentic search model that decomposes complex querie
 
 `20.9B`
 
-⬇️ 451 • ❤️ 192 • 2d ago
+⬇️ 451 • ❤️ 197 • 2d ago
 
 ---
 
@@ -487,7 +485,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 85,140 • ❤️ 213 • 3d ago
+⬇️ 85,140 • ❤️ 215 • 3d ago
 
 ---
 
@@ -499,7 +497,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `26.9B`
 
-⬇️ 590,877 • ❤️ 464 • 4d ago
+⬇️ 590,877 • ❤️ 465 • 4d ago
 
 ---
 
@@ -525,7 +523,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through distributed mechanisms, flexible environments, and user-friendly tools.
 
-▲ 39 • 💬 2 • ⭐ 21,283 • 20mo ago
+▲ 39 • 💬 2 • ⭐ 21,488 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.17789) • [💻 code](https://github.com/modelscope/agentscope)
 
@@ -538,7 +536,7 @@ Enhancements to the AgentScope platform improve scalability, efficiency, and eas
 
 AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
 
-▲ 59 • 💬 4 • ⭐ 21,294 • 7mo ago
+▲ 59 • 💬 4 • ⭐ 21,522 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
 
@@ -570,18 +568,6 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
-**[AutoDev: Automated AI-Driven Development](https://huggingface.co/papers/2403.08299)**
-
-*Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)*
-
-AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
-
-▲ 14 • 💬 1 • ⭐ 13,803 • 24mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
-
----
-
 **[The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via
   Agentic Tree Search](https://huggingface.co/papers/2504.08066)**
 
@@ -609,6 +595,18 @@ LeWorldModel presents a stable end-to-end JEPA framework that trains efficiently
 
 ---
 
+**[AutoDev: Automated AI-Driven Development](https://huggingface.co/papers/2403.08299)**
+
+*Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)*
+
+AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
+
+▲ 14 • 💬 1 • ⭐ 13,823 • 24mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
+
+---
+
 **[Internal Safety Collapse in Frontier Large Language Models](https://huggingface.co/papers/2603.23509)**
 
 *Yutao Wu, Xiao Liu, Yifeng Gao et al. (10 authors)*
@@ -627,7 +625,7 @@ Frontier large language models exhibit Internal Safety Collapse, where they gene
 
 daVinci-MagiHuman is an open-source audio-video generative model that synchronizes text, video, and audio through a single-stream Transformer architecture, achieving high-quality human-centric content generation with efficient inference capabilities.
 
-▲ 114 • 💬 5 • ⭐ 1,038 • 5d ago
+▲ 115 • 💬 5 • ⭐ 1,070 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.21986) • [💻 code](https://github.com/GAIR-NLP/daVinci-MagiHuman) • [🔗 project](https://huggingface.co/spaces/SII-GAIR/daVinci-MagiHuman)
 
@@ -643,7 +641,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 59.3k • 🔱 8.2k • 2d ago
+⭐ 59.4k • 🔱 8.2k • 2d ago
 
 ---
 
@@ -663,7 +661,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 13.0k • 🔱 704 • 1d ago
+⭐ 13.1k • 🔱 704 • 1d ago
 
 ---
 
@@ -673,7 +671,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 8.4k • 🔱 686 • 3h ago
+⭐ 8.4k • 🔱 686 • 4h ago
 
 ---
 
@@ -693,7 +691,7 @@ AI-native design editor. Open-source Figma alternative.
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 305 • 1h ago
+⭐ 3.4k • 🔱 307 • 2h ago
 
 ---
 
@@ -703,7 +701,15 @@ Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messag
 
 `Go`
 
-⭐ 3.4k • 🔱 296 • 9h ago
+⭐ 3.4k • 🔱 297 • 10h ago
+
+---
+
+**[JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)**
+
+`TypeScript`
+
+⭐ 3.3k • 🔱 447 • 1d ago
 
 ---
 
@@ -722,14 +728,6 @@ end to end app store screenshot creation using AI
 SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 
 ⭐ 3.2k • 🔱 104 • 17d ago
-
----
-
-**[JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)**
-
-`TypeScript`
-
-⭐ 3.2k • 🔱 428 • 1d ago
 
 ---
 
