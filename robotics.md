@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-28T05:58:05.678990+00:00'
+updated: '2026-03-28T07:08:29.047738+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 28, 2026 at 05:58 UTC  
+**Last Updated:** March 28, 2026 at 07:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Issue in importing into isaac sim/lab](https://www.reddit.com/r/robotics/comments/1s5ssgu/issue_in_importing_into_isaac_simlab/)**
+
+i have spent the past 2 months to design this arm in fusion, and now i am facing an issue on how to export this to isaac sim/ specifically the gripper, since it a 4 bar mechanism actuated with 3 gears. i thought of writing my own scripts of MJCF(because it supports kinematic loops), and then importing it in isaac sim
+
+46m ago
+
+---
+
 **[Homemade 6 axis arm with old 3d printers](https://www.reddit.com/r/robotics/comments/1s517i9/homemade_6_axis_arm_with_old_3d_printers/)**
 
 Hello everyone, I wanted to share my project that I've been working on for months. I've recycled two old 3D printers Anet A8 into a robotic arm. My main goal is to make a coffee with it. The motors and the electronic cards are from the printers. I've flashed them with Marlin and control them with python with a custom interface. I need to use 2 boards because I can only control independently 4 motors with one board. All the joints design are homemade, and 3d printed. The endeffector is a design from Makerworld u/user_2700759104 (I will build my own in the next days). There is a lot of backlash because of the planetary gears that I use. I plan to change them in the future. If anyone knows a reduction gear for Nema17 with minimum backlash I am all ears ! Thanks to the gear ratio, I've measured 2.9kg of force with the J2. List of components : Motors (J1->J6) : Nema17 Endeffector : Servo SG90 Boards : 2 Anet A8 + 1 Arduino Uno Reduction : J1 - 19:1 J2 - 51:1 J3 - 19:1 J4 - 19:1 J5 - 19:1 (90° 1:1) J6 - 1:1
 
-18h ago
+19h ago
 
 ---
 
@@ -44,13 +52,13 @@ Hello everyone, I wanted to share my project that I've been working on for month
 
 Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dataset From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2037440578275946551
 
-18h ago
+20h ago
 
 ---
 
 **[WANDER-Bot, a wind-powered robot designed for long-term exploration of hostile environments.](https://www.reddit.com/r/robotics/comments/1s59h0n/wanderbot_a_windpowered_robot_designed_for/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -58,7 +66,7 @@ Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dat
 
 I didn't use the T265; instead, I chose the RoboBaton mini to control the car's forward movement.I found the RoboBaton mini works well.Look the video !
 
-15h ago
+17h ago
 
 ---
 
@@ -80,7 +88,7 @@ Yeah, front flips. I know, I've seen a lot of "who cares," "useless flex," "why 
 
 Already asked in the proper forums, to no avail. Hopefully someone can reply before I'm deleted lol. I have an interview at a well known company that uses assembly lines, to assemble components. The position is related to "Robotics Vision", cameras and sensors and such. I have a background in material handling equipment, with minor knowledge on cameras and sensors unrelated to automous robotics on this scale. My question is, what are some key items for me to be aware of in the space of Robotics Vision in order to land this job and more specifically the tech interview? I'm not looking for an entire study guide, just some relevant information related to the interview that I may be asked. I appreciate any and all help, if any!
 
-8h ago
+9h ago
 
 ---
 
@@ -96,13 +104,7 @@ This is the new and improved state of the driver board for my work in progress 6
 
 ROS News for the Week of March 23rd, 2026      The ROSCon Global 2026 call for sponsors is out. We also updated the website with additional venue information. 📣 If you are planning to submit a ROSCon work shop proposal the deadline is coming up quick, April 5th, to be exact!                On the event front ROSCon Croatia is scheduled for Monday and from what I hear is sold out! Over the weekend we have another Nigerian ROS meetup on deck, along with meetups in the Netherlands, German...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-march-23rd-2026/53588) • 10h ago
-
----
-
-**[Shared my firs model to Printables](https://www.reddit.com/r/robotics/comments/1s4oaut/shared_my_firs_model_to_printables/)**
-
-1d ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-march-23rd-2026/53588) • 11h ago
 
 ---
 
@@ -112,7 +114,7 @@ ROS News for the Week of March 23rd, 2026      The ROSCon Global 2026 call for s
 
 **[AI Robotics Lab in Talks to Raise $1 Billion at $11 Billion Valuation](https://www.bloomberg.com/news/articles/2026-03-27/ex-deepmind-staffers-robotics-startup-in-talks-for-11-billion-valuation)**
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -142,7 +144,13 @@ Science | AAAS • 2d ago
 
 Roadrunner moves in-line, on one wheel, or two to stay nimble and on the go. Plus NASA's SkyFall Mars helicopters and MoonFall mission are gearing up.
 
-IEEE Spectrum • 13h ago
+IEEE Spectrum • 14h ago
+
+---
+
+**[US lawmakers to introduce bill to ban government use of Chinese robots](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -170,12 +178,6 @@ New York Post • 2d ago
 
 ---
 
-**[US lawmakers to introduce bill to ban government use of Chinese robots](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/)**
-
-Reuters • 1d ago
-
----
-
 **[Raleigh students win state robotics title, advance to world championship](https://abc11.com/post/raleigh-students-win-state-robotics-title-advance-world-championship/18778624/)**
 
 Four Raleigh middle schoolers are headed to the world stage after winning the top honor at this month's VEX IQ Robotics State Championship in Concord.
@@ -194,7 +196,7 @@ Thanks to Delete Me for sponsoring this video. To keep your private info private
 
 📺 Kim Java
 
-👁️ 144K • 👍 7K • 💬 315 • ⏱️ 20:00 • 3d ago
+👁️ 147K • 👍 7K • 💬 318 • ⏱️ 20:00 • 3d ago
 
 ---
 
@@ -204,27 +206,7 @@ Melania Trump suggested using humanoid AI robots like a “Plato” educator to 
 
 📺 Farron Balanced
 
-👁️ 34K • 👍 3K • 💬 788 • ⏱️ 5:10 • 1d ago
-
----
-
-**[He&#39;s Changing the World with Robots | Official Preview](https://www.youtube.com/watch?v=6cfWFr-_j-8)**
-
-Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join In this episode, Brett ...
-
-📺 Shawn Ryan Show
-
-👁️ 26K • 👍 1K • 💬 328 • ⏱️ 6:32 • 12h ago
-
----
-
-**[Watch: Humanoid robot walks alongside first lady Melania Trump at White House](https://www.youtube.com/watch?v=X-NjEku-zE4)**
-
-Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
-
-📺 CBS News
-
-👁️ 39K • 👍 273 • 💬 291 • ⏱️ 9:54 • 2d ago
+👁️ 34K • 👍 3K • 💬 791 • ⏱️ 5:10 • 1d ago
 
 ---
 
@@ -244,7 +226,7 @@ Melania Trump sparks alarm over a White House event where she walked in with a r
 
 📺 The Damage Report
 
-👁️ 17K • 👍 864 • 💬 416 • ⏱️ 8:42 • 1d ago
+👁️ 17K • 👍 866 • 💬 418 • ⏱️ 8:42 • 1d ago
 
 ---
 
@@ -254,7 +236,7 @@ This week in robotics got kind of ridiculous. South Korea showed off a humanoid 
 
 📺 AI Revolution
 
-👁️ 221K • 👍 3K • 💬 139 • ⏱️ 14:31 • 5d ago
+👁️ 224K • 👍 3K • 💬 139 • ⏱️ 14:31 • 5d ago
 
 ---
 
@@ -264,7 +246,17 @@ Learn for free on Brilliant for a full 30 days: https://brilliant.org/NikodemBar
 
 📺 Nikodem Bartnik
 
-👁️ 51K • 👍 2K • 💬 46 • ⏱️ 9:55 • 3d ago
+👁️ 52K • 👍 2K • 💬 46 • ⏱️ 9:55 • 3d ago
+
+---
+
+**[Every Robot I Met at Nvidia GTC in Under 6 Minutes (Speedrun)](https://www.youtube.com/watch?v=mFr7XfTY5bY)**
+
+The robots at Nvidia GTC were showcasing strength, dexterity and the ability to work together on the same task. You can find the ...
+
+📺 CNET
+
+👁️ 17K • 👍 477 • 💬 29 • ⏱️ 5:50 • 5d ago
 
 ---
 
@@ -274,17 +266,27 @@ A walking, talking humanoid robot strolled side-by-side first lady Melania Trump
 
 📺 ABC News
 
-👁️ 37K • 👍 183 • 💬 205 • ⏱️ 1:30 • 2d ago
+👁️ 37K • 👍 184 • 💬 205 • ⏱️ 1:30 • 2d ago
 
 ---
 
-**[First lady Melania Trump welcomes robot to White House tech summit](https://www.youtube.com/watch?v=glfTpD9iKhs)**
+**[Here&#39;s What India&#39;s Largest Robotics Company Looks Like Behind the Scenes](https://www.youtube.com/watch?v=AhIZH9KH5Ok)**
 
-Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
+Today we're going behind the scenes at Addverb Technologies Bot Valley factory to explore the Advanced Robotics Lab where ...
 
-📺 Face the Nation
+📺 RuntimeBRT
 
-👁️ 129K • 👍 1K • 💬 701 • ⏱️ 9:54 • 2d ago
+👁️ 23K • 👍 1K • 💬 218 • ⏱️ 20:53 • 3d ago
+
+---
+
+**[Double Wide Adjustable Shooter | 4698 Raider Robotics | FRC Pit Stop](https://www.youtube.com/watch?v=XFIwgublYmI)**
+
+Double Wide Adjustable Shooter | 4698 Raider Robotics | FRC Pit Stop This video is supported by FRCtees. Founded by FIRST ...
+
+📺 FUN Robotics Network
+
+👁️ 733 • 👍 18 • ⏱️ 1:30 • 6h ago
 
 ---
 
