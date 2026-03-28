@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-28T16:36:39.957032+00:00'
+updated: '2026-03-28T17:30:16.506283+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
 - social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 28, 2026 at 16:36 UTC  
+**Last Updated:** March 28, 2026 at 17:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Effective March 25, 2026, Pier Two Holdings Pty Ltd has been wholly acquired by Bitmine Immersion Technologies, Inc (NYSE: BMNR)
 
-🔗 [piertwo.com](https://piertwo.com/insights/pier-two-is-joining-mavan-a-bitmine-company) • 12h ago
+🔗 [piertwo.com](https://piertwo.com/insights/pier-two-is-joining-mavan-a-bitmine-company) • 13h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I Built a Privacy-Preserving Bitcoin transaction Receipt Verifier (No KYC, No Screenshots, No wallet). https://github.com/Teycir/Ghostreceipt Would like to have feedback.
 
-20h ago
+21h ago
 
 ---
 
@@ -184,7 +184,7 @@ Coinpedia Fintech News • 1d ago
 
 Across many of the most well-known ecosystems like Bitcoin, Ethereum, and Solana, responses are diverging along familiar lines: what to do on social consensus and technical iteration, and community members are split between caution and acceleration.
 
-CoinDesk • 35m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -192,7 +192,7 @@ CoinDesk • 35m ago
 
 The search giant set a corporate deadline to migrate all authentication services to quantum-resistant cryptography, validating the timeline Ethereum has been building toward for eight years. Bitcoin's response so far has been silence.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -236,7 +236,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 299 • 👍 27 • 💬 16 • ⏱️ 11:06 • 2h ago
+👁️ 299 • 👍 27 • 💬 16 • ⏱️ 11:06 • 3h ago
 
 ---
 
@@ -256,7 +256,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 2K • 👍 97 • 💬 26 • ⏱️ 38:10 • 21h ago
+👁️ 2K • 👍 97 • 💬 26 • ⏱️ 38:10 • 22h ago
 
 ---
 
@@ -276,7 +276,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 2K • 👍 160 • 💬 37 • ⏱️ 14:22 • 23h ago
+👁️ 2K • 👍 160 • 💬 37 • ⏱️ 14:22 • 1d ago
 
 ---
 
@@ -296,7 +296,7 @@ BITCOIN & ALTCOIN CRASH: Price Target Confirmed!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 281 • 💬 111 • ⏱️ 19:00 • 17h ago
+👁️ 6K • 👍 281 • 💬 111 • ⏱️ 19:00 • 18h ago
 
 ---
 
@@ -306,7 +306,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 113 • 👍 10 • ⏱️ 4:28 • 5h ago
+👁️ 113 • 👍 10 • ⏱️ 4:28 • 6h ago
 
 ---
 
