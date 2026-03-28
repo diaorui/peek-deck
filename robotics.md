@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-28T22:31:06.013549+00:00'
+updated: '2026-03-28T23:32:54.458067+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 28, 2026 at 22:31 UTC  
+**Last Updated:** March 28, 2026 at 23:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Who runs out of battery first decides the future](https://www.reddit.com/r/robotics/comments/1s6566h/who_runs_out_of_battery_first_decides_the_future/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -42,15 +42,7 @@ Robotics research and industry news
 
 TechCrunch: Physical Intelligence is reportedly in talks to raise $1 billion, again: https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/
 
-10h ago
-
----
-
-**["Follow Me" Mode: Real-time human tracking with YOLOv8](https://www.reddit.com/r/robotics/comments/1s66rwp/follow_me_mode_realtime_human_tracking_with_yolov8/)**
-
-For the robot arm, we're running a segmentation model that benchmarks at a rock-solid 20fps on an Nvidia RTX 5060 Ti. In this video, we're keeping the rover locked onto the target using Image-Based Visual Servoing (IBVS) and a simple proportional controller.
-
-4h ago
+11h ago
 
 ---
 
@@ -58,15 +50,15 @@ For the robot arm, we're running a segmentation model that benchmarks at a rock-
 
 Im 15yr hobbyist , my 2nd project self funded. this project is currently in alpha stage .made using foamboard and used wooden blocks for strength, i will add robotic arm for my next phase (on top of it). used arduino UNO r3, 4TT motor, TB6612FNG driver. IR receiver for Remote control, can be controlled manually or turn on obstacle avoidance mode. more info in my GitHub: https://github.com/Ajaz-6O7/Rover-Project
 
-23m ago
+1h ago
 
 ---
 
-**[Issue in importing into isaac sim/lab](https://www.reddit.com/r/robotics/comments/1s5ssgu/issue_in_importing_into_isaac_simlab/)**
+**["Follow Me" Mode: Real-time human tracking with YOLOv8](https://www.reddit.com/r/robotics/comments/1s66rwp/follow_me_mode_realtime_human_tracking_with_yolov8/)**
 
-i have spent the past 2 months to design this arm in fusion, and now i am facing an issue on how to export this to isaac sim/ specifically the gripper, since it a 4 bar mechanism actuated with 3 gears. i thought of writing my own scripts of MJCF(because it supports kinematic loops), and then importing it in isaac sim
+For the robot arm, we're running a segmentation model that benchmarks at a rock-solid 20fps on an Nvidia RTX 5060 Ti. In this video, we're keeping the rover locked onto the target using Image-Based Visual Servoing (IBVS) and a simple proportional controller.
 
-16h ago
+5h ago
 
 ---
 
@@ -74,7 +66,15 @@ i have spent the past 2 months to design this arm in fusion, and now i am facing
 
 Can anybody identify these ball joints in these two wrists and any useful analysis of these, they are from ross-hime designs. Inc web Here is the web: https://www.anthrobot.com/omni-wrist-vi/
 
-16m ago
+1h ago
+
+---
+
+**[Issue in importing into isaac sim/lab](https://www.reddit.com/r/robotics/comments/1s5ssgu/issue_in_importing_into_isaac_simlab/)**
+
+i have spent the past 2 months to design this arm in fusion, and now i am facing an issue on how to export this to isaac sim/ specifically the gripper, since it a 4 bar mechanism actuated with 3 gears. i thought of writing my own scripts of MJCF(because it supports kinematic loops), and then importing it in isaac sim
+
+17h ago
 
 ---
 
@@ -82,7 +82,13 @@ Can anybody identify these ball joints in these two wrists and any useful analys
 
 as the title says i'm looking for open source projects for small humanoids or quadruped robots, i'm thinking about cheap and easily hackable stuff like something built with an arduino/raspberry, 3d printed parts and consumer grade servos it would be great to find something that includes everything for reproducibility from the firmware to hardware schematics but my priority is that the project must have a ready to use sim environment i've already looked at some projects like open-quadruped or zeroth but most of them looks dead or still incomplete, is there anything else i should check out before starting to build everything from zero?
 
-1h ago
+2h ago
+
+---
+
+**[robotics startup advice please](https://www.reddit.com/r/robotics/comments/1s6ed4d/robotics_startup_advice_please/)**
+
+48m ago
 
 ---
 
@@ -90,7 +96,7 @@ as the title says i'm looking for open source projects for small humanoids or qu
 
 There is the argument that humanoid robots are the future because they're generalists and their humanoid form means they can do whatever humans were doing. And while that is theoretically true, it misses an important point: Generality is only good if it performs better and more cost-effectively than the specialist machines in those tasks. I haven't seen anything to support the idea that humanoid form would necessarily surpass that threshold for many tasks. It can easily end up doing a mediocre job at many tasks because its lower productively delivers less profit per dollar spent on the machinery compared to specialist machines, and its form can never get as efficient as non-humanoid specialist machines. The "economies of scale" argument usually gets propositioned where economies of scale would lower the prices of humanoid robots so much that it would make it the more cost-effective option. However: Specialized machines can also experience economies of scale Economies of scale only bring down the price so much (the cost per unit decrease is not infinitely proportional based on how many units are produced, at some point the cost savings level off and can even revert) Simpler machinery and manufacturing of a specialized machine can mean lower fixed costs compared to the more complex manufacturing of a humanoid robot, meaning economies of scale could result in a lower cost being spread across many units for the former rather than the latter, making the former cheaper than the latter. Even if the humanoid robot is cheaper, the higher productivity and profitability of specialized machines may justify and make purchasing specialized machines the more fruitful endeavor. Saying humanoid robots will experience such cost savings from economies of scale assumes they'd be so favored by buyers that lots of units would be produced in the first place. To understand the limits of generalist technology, take this analogy: Instead of having a knife, fork, spoon, spatula, pizza cutter, etc. you could use a spork to serve in place of all those things. A spork would be cheaper, especially since you don't have to buy more utensils and clean and wash more, and it benefits from economies of scale, but a spork does a pretty mediocre job at all those tasks, it does not master them as effectively as those more specialized utensils. This is why in large part most people do not use a spork for most food tasks, and if it is good for anything it is only in a few highly specific occasions. A spork in this sense is a "Jack of all trades, master of none," where it can do many food tasks, but all in a mediocre fashion. A humanoid robot may very well end up the same, where it can do many tasks, but not in a more cost-effective manner.
 
-9h ago
+10h ago
 
 ---
 
@@ -102,19 +108,13 @@ Hello everyone, I wanted to share my project that I've been working on for month
 
 ---
 
-**[WANDER-Bot, a wind-powered robot designed for long-term exploration of hostile environments.](https://www.reddit.com/r/robotics/comments/1s59h0n/wanderbot_a_windpowered_robot_designed_for/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
 **[AI Robotics Lab in Talks to Raise $1 Billion at $11 Billion Valuation](https://www.bloomberg.com/news/articles/2026-03-27/ex-deepmind-staffers-robotics-startup-in-talks-for-11-billion-valuation)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -138,7 +138,7 @@ Popular Science • 2d ago
 
 Serve Robotics and Coco Robotics delivery robots reportedly crashed into Chicago bus shelters days apart, shattering glass with no injuries reported.
 
-Fox Business • 1h ago
+Fox Business • 2h ago
 
 ---
 
@@ -176,15 +176,15 @@ Yahoo Finance • 1d ago
 
 Researchers from Northwestern University have developed robots called "metamachines" that are composed of other robots.
 
-Futurism • 5h ago
+Futurism • 6h ago
 
 ---
 
-**[Raleigh students win state robotics title, advance to world championship](https://abc11.com/post/raleigh-students-win-state-robotics-title-advance-world-championship/18778624/)**
+**[Scientists design living robots with intelligent neurons](https://3dvf.com/en/scientists-design-living-robots-with-intelligent-neurons/)**
 
-Four Raleigh middle schoolers are headed to the world stage after winning the top honor at this month's VEX IQ Robotics State Championship in Concord.
+When a robot's next move comes from living tissue, what counts as programming? In one lab, tiny hand-built creatures are lighting up and roaming in ways their makers never wrote into code.
 
-ABC11 Raleigh-Durham • 2d ago
+3DVF • 6h ago
 
 ---
 
@@ -198,7 +198,7 @@ Thanks to Delete Me for sponsoring this video. To keep your private info private
 
 📺 Kim Java
 
-👁️ 165K • 👍 7K • 💬 345 • ⏱️ 20:00 • 4d ago
+👁️ 169K • 👍 7K • 💬 349 • ⏱️ 20:00 • 4d ago
 
 ---
 
@@ -208,7 +208,17 @@ Learn for free on Brilliant for a full 30 days: https://brilliant.org/NikodemBar
 
 📺 Nikodem Bartnik
 
-👁️ 64K • 👍 3K • 💬 58 • ⏱️ 9:55 • 4d ago
+👁️ 66K • 👍 3K • 💬 59 • ⏱️ 9:55 • 4d ago
+
+---
+
+**[Watch: Humanoid robot walks alongside first lady Melania Trump at White House](https://www.youtube.com/watch?v=X-NjEku-zE4)**
+
+Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
+
+📺 CBS News
+
+👁️ 44K • 👍 316 • 💬 333 • ⏱️ 9:54 • 3d ago
 
 ---
 
@@ -218,7 +228,7 @@ Melania Trump sparks alarm over a White House event where she walked in with a r
 
 📺 The Damage Report
 
-👁️ 18K • 👍 884 • 💬 428 • ⏱️ 8:42 • 2d ago
+👁️ 18K • 👍 884 • 💬 431 • ⏱️ 8:42 • 2d ago
 
 ---
 
@@ -228,17 +238,7 @@ This week in robotics got kind of ridiculous. South Korea showed off a humanoid 
 
 📺 AI Revolution
 
-👁️ 228K • 👍 3K • 💬 142 • ⏱️ 14:31 • 5d ago
-
----
-
-**[China in Tears! Superpower Falls as TSMC CEO Exposes China’s Robot Lies—95% of Brain Made by TSMC](https://www.youtube.com/watch?v=mCUayp_OjTs)**
-
-On March 8, at the "Tomorrow's Walker" exhibit in Shanghai Science and Technology Museum, a robot performing unexpectedly ...
-
-📺 China Observer
-
-👁️ 66K • 👍 2K • 💬 395 • ⏱️ 15:22 • 3d ago
+👁️ 230K • 👍 3K • 💬 142 • ⏱️ 14:31 • 5d ago
 
 ---
 
@@ -252,23 +252,33 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 ---
 
+**[When your circuit boards start roasting each other&#39;s specs! 🤖🤣 #Robotics #CodingMemes#viral](https://www.youtube.com/watch?v=HenS1Q4blFU)**
+
+The Ultimate Microcontroller Battle is HERE! Who is the real KING of your tech workbench? Arduino Uno is crying with no ...
+
+📺 M.R. Hacking Robot
+
+👁️ 58K • 👍 872 • 💬 15 • ⏱️ 0:21 • 2d ago
+
+---
+
 **[New Robot ANAKSOR – War Robots Gameplay WR](https://www.youtube.com/watch?v=XJN0jX_wXaI)**
 
 War Robots Gameplay: NEW Robot ANAKSOR - First Try on Live Server My War Robots Creator Link: https://wr.my.games/manni ...
 
 📺 Manni-Gaming
 
-👁️ 4K • 👍 272 • 💬 48 • ⏱️ 19:34 • 8h ago
+👁️ 6K • 👍 334 • 💬 52 • ⏱️ 19:34 • 9h ago
 
 ---
 
-**[Meet “Roadrunner&quot;: a bipedal, wheeled robot for multi-modal locomotion](https://www.youtube.com/watch?v=9kae-UAME1U)**
+**[First lady Melania Trump welcomes robot to White House tech summit](https://www.youtube.com/watch?v=glfTpD9iKhs)**
 
-"Roadrunner” is a new bipedal wheeled robot prototype designed for multi-modal locomotion. It weighs around 15kg (33 lb.)
+Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
 
-📺 RAI Institute
+📺 Face the Nation
 
-👁️ 488K • 👍 12K • 💬 1K • ⏱️ 1:34 • 5d ago
+👁️ 139K • 👍 1K • 💬 751 • ⏱️ 9:54 • 3d ago
 
 ---
 
@@ -278,17 +288,7 @@ The most advanced humanoid robots of 2026 just dropped — and you are NOT ready
 
 📺 The AI Nexus
 
-👁️ 7K • 👍 186 • 💬 14 • ⏱️ 16:29 • 5d ago
-
----
-
-**[When your circuit boards start roasting each other&#39;s specs! 🤖🤣 #Robotics #CodingMemes#viral](https://www.youtube.com/watch?v=HenS1Q4blFU)**
-
-The Ultimate Microcontroller Battle is HERE! Who is the real KING of your tech workbench? Arduino Uno is crying with no ...
-
-📺 M.R. Hacking Robot
-
-👁️ 57K • 👍 869 • 💬 15 • ⏱️ 0:21 • 2d ago
+👁️ 7K • 👍 187 • 💬 14 • ⏱️ 16:29 • 5d ago
 
 ---
 
