@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-28T11:53:40.338753+00:00'
+updated: '2026-03-28T12:58:04.465816+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- videos
 - news
 - cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 28, 2026 at 11:53 UTC  
+**Last Updated:** March 28, 2026 at 12:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** -2.6%  
-**30d:** +3.6%  
-**90d:** -32.0%  
+**24h:** +1.2%  
+**7d:** -2.5%  
+**30d:** +3.7%  
+**90d:** -31.9%  
 **1y:** +9.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $241.15B
+**Market Cap:** $241.26B
 Rank #2
 
 **Circulating Supply:** 120,691,485 ETH
@@ -62,89 +62,11 @@ No max supply
 -59.6%
 
 **All-Time Low:** $0.43
-+461317.3%
++461573.7%
 
 ---
 
 ## Reddit: r/ethereum
-
-**[Daily General Discussion March 28, 2026](https://www.reddit.com/r/ethereum/comments/1s5rbnm/daily_general_discussion_march_28_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-6h ago
-
----
-
-**[Post-Quantum Ethereum client Lantern developer Pier Two acquired by BMNR](https://www.reddit.com/r/ethereum/comments/1s5pxbi/postquantum_ethereum_client_lantern_developer/)**
-
-Effective March 25, 2026, Pier Two Holdings Pty Ltd has been wholly acquired by Bitmine Immersion Technologies, Inc (NYSE: BMNR)
-
-🔗 [piertwo.com](https://piertwo.com/insights/pier-two-is-joining-mavan-a-bitmine-company) • 8h ago
-
----
-
-**[Daily General Discussion March 27, 2026](https://www.reddit.com/r/ethereum/comments/1s4uv0g/daily_general_discussion_march_27_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-1d ago
-
----
-
-**[Privacy preserving transaction verifier](https://www.reddit.com/r/ethereum/comments/1s5fd8h/privacy_preserving_transaction_verifier/)**
-
-I Built a Privacy-Preserving Bitcoin transaction Receipt Verifier (No KYC, No Screenshots, No wallet). https://github.com/Teycir/Ghostreceipt Would like to have feedback.
-
-15h ago
-
----
-
-**[Ethereal news weekly #17 | Frame transaction Considered for Inclusion for Hegotá, EthStaker staking survey, EF post-quantum website](https://www.reddit.com/r/ethereum/comments/1s53fx5/ethereal_news_weekly_17_frame_transaction/)**
-
-Frame transaction Considered for Inclusion for Hegotá, EthStaker staking survey, EF post-quantum website
-
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-17/) • 22h ago
-
----
-
-**[Highlights from the All Core Developers Execution (ACDE) Call #233](https://www.reddit.com/r/ethereum/comments/1s4s7lw/highlights_from_the_all_core_developers_execution/)**
-
-Ethereum pushes Glamsterdam testing forward as Hegotá headliner debates remain unresolved.
-
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-233/) • 1d ago
-
----
-
-**[Paperwallet.ca launch](https://www.reddit.com/r/ethereum/comments/1s543mf/paperwalletca_launch/)**
-
-22h ago
-
----
-
-**[Onchain RWA protocols went from $4.1B to $14.1B in 2025. Here are 8 real-world tokenized assets you can buy right now:](https://www.reddit.com/r/ethereum/comments/1s4s1xy/onchain_rwa_protocols_went_from_41b_to_141b_in/)**
-
-Source: https://www.coingecko.com/learn/real-world-assets-rwa-buy-on-chain RWAs were one of the fastest-growing sectors in crypto last year. DeFi yields from token emissions dried up, the GENIUS Act provided regulatory clarity for institutions, and BlackRock and Franklin Templeton launched their own tokenized products. This isn't speculative DeFi. These are tokens tied to government debt, physical commodities, and real loan portfolios.
-
-1d ago
-
----
-
-**[Are there any onchain risk analysts here?](https://www.reddit.com/r/ethereum/comments/1s4nt5c/are_there_any_onchain_risk_analysts_here/)**
-
-Working on a little side project that turns etherscan data into readable risk. If you analyzed a wallet recently I’d love to compare your assessment to my engine’s output and see where it’s wrong and right, thanks
-
-1d ago
-
----
-
-**[Daily General Discussion March 26, 2026](https://www.reddit.com/r/ethereum/comments/1s3yazd/daily_general_discussion_march_26_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
 
 ---
 
@@ -158,11 +80,25 @@ theblock.co • 1d ago
 
 ---
 
+**[Bitcoin, Ethereum Slip as Trump Says He's 'Not Desperate' to End Iran War](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-slip-trump-says-204125072.html)**
+
+Bitcoin fell alongside stocks as investors weighed conflicting accounts regarding Iran’s willingness to end conflict in the Middle East.
+
+finance.yahoo.com • 1d ago
+
+---
+
+**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqex-8Axh6fQuWkjiZsHqJ5qK4AWG4k8NZQbAHQhIU68ylgN77oJDocZ&gaa_ts=69c7d3c1&gaa_sig=q6uSzT2uRmAj-g3laxg2ymbMUz71Kh1J1dzZJ69deTRlyPkqGn15i07xnpe4-lSLyGcrKkdC7PrYhqJEImMGRw%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
 **[Bitcoin, Ethereum Slip as Trump Says He's 'Not Desperate' to End Iran War](https://decrypt.co/362516/bitcoin-ethereum-slip-as-trump-says-hes-not-desperate-to-end-iran-war)**
 
 Bitcoin fell alongside stocks as investors weighed conflicting accounts regarding Iran’s willingness to end conflict in the Middle East.
 
-decrypt.co • 1d ago
+Decrypt • 1d ago
 
 ---
 
@@ -170,7 +106,7 @@ decrypt.co • 1d ago
 
 Ethereum's vast ecosystem goes up against Solana's lightning-quick network.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -178,7 +114,7 @@ The Motley Fool • 1h ago
 
 BlackRock’s staked Ethereum fund pulled in $155 million on its first day of trading — more than the firm’s own Bitcoin ETF managed at launch. That number tells one part of Ethereum’s story in early 2026.The other part is harder to spin: the token itself has dropped more than 55% from its August 202…
 
-TradingView • 1h ago
+TradingView • 2h ago
 
 ---
 
@@ -186,7 +122,7 @@ TradingView • 1h ago
 
 Ethereum's vast ecosystem goes up against Solana's lightning-quick network.
 
-Yahoo Finance • 2h ago
+finance.yahoo.com • 3h ago
 
 ---
 
@@ -194,13 +130,7 @@ Yahoo Finance • 2h ago
 
 While cryptos offer diversification from traditional asset movements, they are also highly sensitive to the gravity of risk aversion
 
-Seeking Alpha • 1d ago
-
----
-
-**[These 4 Charts Suggest That Ethereum (ETH) Price Has Hit Peak Pain This Cycle](https://www.ccn.com/analysis/crypto/these-charts-suggest-ethereum-price-hit-peak-pain/)**
-
-CCN.com • 48m ago
+seekingalpha.com • 1d ago
 
 ---
 
@@ -212,17 +142,11 @@ AMBCrypto • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqcnANNUmsF9wfI5XWRx0HefB-tn7YYvZD6PLikDZHqPbPEZwAdEXr9O&gaa_ts=69c7c4b0&gaa_sig=dgMvIzp0ycs3uSes4ZS-Rn7kXuz3bu62Vi8T5n-Z6vees_3WyEHs7Pe3_y0BR86iNcD8oV8XRngQ2LcTTmEG0g%3D%3D)**
-
-Barron's • 1d ago
-
----
-
 **[Current price of Ethereum for March 27, 2026](https://fortune.com/article/price-of-ethereum-03-27-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 21h ago
+Fortune • 22h ago
 
 ---
 
@@ -230,13 +154,33 @@ Fortune • 21h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Why Ethereum Might Be the Most Mispriced Asset in Crypto Right Now w/ David Duong](https://www.youtube.com/watch?v=uqafQVXLP8o)**
+
+Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
+
+📺 Milk Road
+
+👁️ 2K • 👍 90 • 💬 23 • ⏱️ 38:10 • 18h ago
+
+---
+
+**[WILL ETHEREUM DUMP NEXT WEEK?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=DPOKwXMIHQI)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 72 • 👍 8 • ⏱️ 4:28 • 1h ago
+
+---
+
 **[BITCOIN &amp; ALTCOIN CRASH: Price Target Confirmed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=syRpSgtT8G8)**
 
 BITCOIN & ALTCOIN CRASH: Price Target Confirmed!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
 
 📺 Crypto World
 
-👁️ 5K • 👍 255 • 💬 92 • ⏱️ 19:00 • 12h ago
+👁️ 6K • 👍 274 • 💬 108 • ⏱️ 19:00 • 13h ago
 
 ---
 
@@ -250,33 +194,13 @@ Get My New Book Money Game and My Daily Trading Strategy for Free https://go.ted
 
 ---
 
-**[Why Ethereum Might Be the Most Mispriced Asset in Crypto Right Now w/ David Duong](https://www.youtube.com/watch?v=uqafQVXLP8o)**
-
-Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
-
-📺 Milk Road
-
-👁️ 2K • 👍 83 • 💬 23 • ⏱️ 38:10 • 17h ago
-
----
-
-**[Why Ethereum Is About to Skyrocket in Value!](https://www.youtube.com/watch?v=Q1LWGj38inI)**
-
-VIP Access & Programs: https://highaltitudecrypto.com Free Crypto Ebook (Learn How to Profit): https://shorturl.at/qCW46 ...
-
-📺 High Altitude Investing
-
-👁️ 942 • 👍 68 • 💬 20 • ⏱️ 10:43 • 1d ago
-
----
-
 **[Ethereum 2026 Q2 Outlook Update: Elliott Wave Analysis](https://www.youtube.com/watch?v=WiDnh15IrFA)**
 
 In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave analysis to forecast potential targets for the ongoing or ...
 
 📺 MCO Global
 
-👁️ 1K • 👍 149 • 💬 36 • ⏱️ 14:22 • 18h ago
+👁️ 1K • 👍 158 • 💬 36 • ⏱️ 14:22 • 19h ago
 
 ---
 
@@ -286,27 +210,27 @@ Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade
 
 📺 Crossroads
 
-👁️ 7K • 👍 299 • 💬 55 • ⏱️ 15:03 • 1d ago
+👁️ 7K • 👍 304 • 💬 55 • ⏱️ 15:03 • 1d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum. DAS solltest du nicht tun, wenn BTC in der jetzigen Situation ist!!](https://www.youtube.com/watch?v=CVploji5mW8)**
+**[CRYPTO LIVE TRADING || 28 Mar  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=LF-dgsKav98)**
 
-Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
+join my social platforms for updates and analysis ✓Instagram: ...
 
-📺 Krypto Trading & Investing
+📺 Aryan trader Live
 
-👁️ 3K • 👍 649 • 💬 131 • ⏱️ 24:01 • 6h ago
+👁️ 5K • 👍 5K • 2h ago
 
 ---
 
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=d3SFSebL5Y8)**
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=e6shF_ExYeI)**
 
 TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
 
-📺 MyCaNaLBF
+📺 Bangaru Rani
 
-👁️ 1K • 👍 854 • 2h ago
+👁️ 2K • 👍 1K • 16m ago
 
 ---
 
@@ -316,7 +240,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 97 • 💬 10 • ⏱️ 3:57 • 17h ago
+👁️ 2K • 👍 102 • 💬 10 • ⏱️ 3:57 • 18h ago
 
 ---
 

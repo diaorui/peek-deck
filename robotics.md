@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-28T11:53:40.342051+00:00'
+updated: '2026-03-28T12:58:04.468955+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 28, 2026 at 11:53 UTC  
+**Last Updated:** March 28, 2026 at 12:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,15 @@ Robotics research and industry news
 
 i have spent the past 2 months to design this arm in fusion, and now i am facing an issue on how to export this to isaac sim/ specifically the gripper, since it a 4 bar mechanism actuated with 3 gears. i thought of writing my own scripts of MJCF(because it supports kinematic loops), and then importing it in isaac sim
 
-5h ago
+6h ago
+
+---
+
+**[Physical Intelligence is reportedly in talks to raise $1 billion, again at $11B+ valuation | TechCrunch](https://www.reddit.com/r/robotics/comments/1s5ywzf/physical_intelligence_is_reportedly_in_talks_to/)**
+
+TechCrunch: Physical Intelligence is reportedly in talks to raise $1 billion, again: https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/
+
+34m ago
 
 ---
 
@@ -50,7 +58,7 @@ Hello everyone, I wanted to share my project that I've been working on for month
 
 **[WANDER-Bot, a wind-powered robot designed for long-term exploration of hostile environments.](https://www.reddit.com/r/robotics/comments/1s59h0n/wanderbot_a_windpowered_robot_designed_for/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -66,7 +74,7 @@ Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dat
 
 I didn't use the T265; instead, I chose the RoboBaton mini to control the car's forward movement.I found the RoboBaton mini works well.Look the video !
 
-21h ago
+22h ago
 
 ---
 
@@ -80,7 +88,7 @@ I didn't use the T265; instead, I chose the RoboBaton mini to control the car's 
 
 Already asked in the proper forums, to no avail. Hopefully someone can reply before I'm deleted lol. I have an interview at a well known company that uses assembly lines, to assemble components. The position is related to "Robotics Vision", cameras and sensors and such. I have a background in material handling equipment, with minor knowledge on cameras and sensors unrelated to automous robotics on this scale. My question is, what are some key items for me to be aware of in the space of Robotics Vision in order to land this job and more specifically the tech interview? I'm not looking for an entire study guide, just some relevant information related to the interview that I may be asked. I appreciate any and all help, if any!
 
-14h ago
+15h ago
 
 ---
 
@@ -100,19 +108,13 @@ This is the new and improved state of the driver board for my work in progress 6
 
 ---
 
-**[Shared my firs model to Printables](https://www.reddit.com/r/robotics/comments/1s4oaut/shared_my_firs_model_to_printables/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
 **[AI Robotics Lab in Talks to Raise $1 Billion at $11 Billion Valuation](https://www.bloomberg.com/news/articles/2026-03-27/ex-deepmind-staffers-robotics-startup-in-talks-for-11-billion-valuation)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -120,15 +122,7 @@ Bloomberg.com • 14h ago
 
 The White House hosted its first humanoid robot guest, with first lady Melania Trump appearing alongside a robot from startup Figure AI.
 
-cnbc.com • 2d ago
-
----
-
-**[Montco Robotics Firm Asylon Expands AI Push With NVIDIA Partnership](https://bucksco.today/2026/03/asylon-robotics-nvidia-partnership/)**
-
-Norristown-based Asylon is partnering with NVIDIA to develop AI-powered analytics for its autonomous robotic security systems.
-
-BUCKSCO.Today • 2h ago
+CNBC • 2d ago
 
 ---
 
@@ -136,13 +130,21 @@ BUCKSCO.Today • 2h ago
 
 LOS ANGELES, March 27, 2026--Faraday Future Intelligent Electric Inc. (Nasdaq: FFAI) ("Faraday Future," "FF," or the "Company"), a California-based global Embodied AI (EAI) ecosystem company, today announced another delivery of its Master robot and pilot delivery of the Aegis robot to Los Angeles based New PBB Auto Inc. New PBB made a binding FX business-to-business (B2B) deposit agreement with FF last year, which includes a non-refundable deposit and a non-binding pre-order for 600 units of the
 
-Yahoo Finance • 1d ago
+finance.yahoo.com • 1d ago
 
 ---
 
 **[US lawmakers to introduce bill to ban government use of Chinese robots](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/)**
 
 Reuters • 1d ago
+
+---
+
+**[Snail-inspired robots use slime-like motion for precise cancer drug delivery](https://interestingengineering.com/ai-robotics/snail-inspired-robots-cancer-drug-delivery)**
+
+Snail-inspired robots aim to deliver cancer drugs precisely to tumors, reducing side effects and improving outcomes.
+
+Interesting Engineering • 12h ago
 
 ---
 
@@ -174,15 +176,15 @@ ABC7 Chicago • 2d ago
 
 Roadrunner moves in-line, on one wheel, or two to stay nimble and on the go. Plus NASA's SkyFall Mars helicopters and MoonFall mission are gearing up.
 
-IEEE Spectrum • 19h ago
+IEEE Spectrum • 20h ago
 
 ---
 
-**[Raleigh students win state robotics title, advance to world championship](https://abc11.com/post/raleigh-students-win-state-robotics-title-advance-world-championship/18778624/)**
+**[Physical Intelligence is reportedly in talks to raise $1 billion, again](https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/)**
 
-Four Raleigh middle schoolers are headed to the world stage after winning the top honor at this month's VEX IQ Robotics State Championship in Concord.
+The deal would effectively double the company's $5.6 billion valuation in just four months.
 
-ABC11 Raleigh-Durham • 1d ago
+TechCrunch • 12h ago
 
 ---
 
@@ -196,17 +198,7 @@ Thanks to Delete Me for sponsoring this video. To keep your private info private
 
 📺 Kim Java
 
-👁️ 150K • 👍 7K • 💬 326 • ⏱️ 20:00 • 3d ago
-
----
-
-**[6 Robots You Can Build in 2026](https://www.youtube.com/watch?v=8smjYAsxAts)**
-
-Learn for free on Brilliant for a full 30 days: https://brilliant.org/NikodemBartnik/ . You'll also get 20% off an annual Premium ...
-
-📺 Nikodem Bartnik
-
-👁️ 55K • 👍 3K • 💬 46 • ⏱️ 9:55 • 3d ago
+👁️ 153K • 👍 7K • 💬 323 • ⏱️ 20:00 • 3d ago
 
 ---
 
@@ -216,67 +208,7 @@ Melania Trump suggested using humanoid AI robots like a “Plato” educator to 
 
 📺 Farron Balanced
 
-👁️ 34K • 👍 3K • 💬 792 • ⏱️ 5:10 • 1d ago
-
----
-
-**[Melania Trump Goes OFF THE RAILS With Alarming Robot Teacher Announcement](https://www.youtube.com/watch?v=JsTKgM8fYUk)**
-
-Melania Trump sparks alarm over a White House event where she walked in with a robot and made an announcement about ...
-
-📺 The Damage Report
-
-👁️ 17K • 👍 868 • 💬 420 • ⏱️ 8:42 • 1d ago
-
----
-
-**[The Most Human-Like Robots of 2026 Are Finally Here — And It Changes Everything](https://www.youtube.com/watch?v=BtE4otcAfVc)**
-
-The most advanced humanoid robots of 2026 just dropped — and you are NOT ready for what they can do. This year changes ...
-
-📺 The AI Nexus
-
-👁️ 7K • 👍 185 • 💬 14 • ⏱️ 16:29 • 4d ago
-
----
-
-**[Delivery robot crashes into bus stop shelter for second time this week](https://www.youtube.com/watch?v=DsCowS-BXZA)**
-
-This comes one day after another delivery robot belonging to Serve Robotics also crashed into a bus shelter in West Town.
-
-📺 CBS Chicago
-
-👁️ 43K • 👍 76 • 💬 67 • ⏱️ 2:00 • 3d ago
-
----
-
-**[China’s New AI Robots Just Broke The Human Skill Barrier](https://www.youtube.com/watch?v=QDRzgF-8-50)**
-
-This week in robotics got kind of ridiculous. South Korea showed off a humanoid that can run, jump, play soccer, and moonwalk, ...
-
-📺 AI Revolution
-
-👁️ 225K • 👍 3K • 💬 140 • ⏱️ 14:31 • 5d ago
-
----
-
-**[Robot umpire system makes MLB debut](https://www.youtube.com/watch?v=MjrZSmVb9LY)**
-
-Major League Baseball returns Wednesday with a new system in place. For the first time, players and managers can challenge ...
-
-📺 CBS Mornings
-
-👁️ 18K • 👍 168 • 💬 34 • ⏱️ 3:47 • 2d ago
-
----
-
-**[WATCH: Melania Trump Makes a Triumphant Entrance and Suggests Humanoid Robots for Teaching - 3/25/26](https://www.youtube.com/watch?v=ImYeN2fcUJw)**
-
-Melania Trump Makes a Triumphant Entrance and Suggests Humanoid Robots for Education. March 25, 2026 Join this channel to ...
-
-📺 Right Side Broadcasting Network
-
-👁️ 45K • 👍 2K • 💬 1K • ⏱️ 10:02 • 2d ago
+👁️ 35K • 👍 3K • 💬 794 • ⏱️ 5:10 • 1d ago
 
 ---
 
@@ -286,7 +218,77 @@ Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesda
 
 📺 CBS News
 
-👁️ 40K • 👍 276 • 💬 292 • ⏱️ 9:54 • 2d ago
+👁️ 40K • 👍 282 • 💬 297 • ⏱️ 9:54 • 2d ago
+
+---
+
+**[Melania Trump Goes OFF THE RAILS With Alarming Robot Teacher Announcement](https://www.youtube.com/watch?v=JsTKgM8fYUk)**
+
+Melania Trump sparks alarm over a White House event where she walked in with a robot and made an announcement about ...
+
+📺 The Damage Report
+
+👁️ 17K • 👍 873 • 💬 424 • ⏱️ 8:42 • 1d ago
+
+---
+
+**[China’s New AI Robots Just Broke The Human Skill Barrier](https://www.youtube.com/watch?v=QDRzgF-8-50)**
+
+This week in robotics got kind of ridiculous. South Korea showed off a humanoid that can run, jump, play soccer, and moonwalk, ...
+
+📺 AI Revolution
+
+👁️ 226K • 👍 3K • 💬 140 • ⏱️ 14:31 • 5d ago
+
+---
+
+**[6 Robots You Can Build in 2026](https://www.youtube.com/watch?v=8smjYAsxAts)**
+
+Learn for free on Brilliant for a full 30 days: https://brilliant.org/NikodemBartnik/ . You'll also get 20% off an annual Premium ...
+
+📺 Nikodem Bartnik
+
+👁️ 57K • 👍 3K • 💬 51 • ⏱️ 9:55 • 3d ago
+
+---
+
+**[The Real-Life Future of Humanoid Robots](https://www.youtube.com/watch?v=ktwtZNKDV0E)**
+
+Brett Adcock shares his vision for the future of humanoid robots, why he believes synthetic humans will become one of the most ...
+
+📺 Shawn Ryan Show
+
+👁️ 25K • 👍 988 • 💬 345 • ⏱️ 14:05 • 16h ago
+
+---
+
+**[First lady Melania Trump walks with robot during White House technology summit](https://www.youtube.com/watch?v=iFAWleMvbDY)**
+
+A walking, talking humanoid robot strolled side-by-side first lady Melania Trump into the East Room at the White House for the ...
+
+📺 ABC News
+
+👁️ 37K • 👍 184 • 💬 206 • ⏱️ 1:30 • 2d ago
+
+---
+
+**[First lady Melania Trump welcomes robot to White House tech summit](https://www.youtube.com/watch?v=glfTpD9iKhs)**
+
+Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
+
+📺 Face the Nation
+
+👁️ 135K • 👍 1K • 💬 717 • ⏱️ 9:54 • 2d ago
+
+---
+
+**[When your circuit boards start roasting each other&#39;s specs! 🤖🤣 #Robotics #CodingMemes#viral](https://www.youtube.com/watch?v=HenS1Q4blFU)**
+
+The Ultimate Microcontroller Battle is HERE! Who is the real KING of your tech workbench? Arduino Uno is crying with no ...
+
+📺 M.R. Hacking Robot
+
+👁️ 42K • 👍 651 • 💬 12 • ⏱️ 0:21 • 2d ago
 
 ---
 
