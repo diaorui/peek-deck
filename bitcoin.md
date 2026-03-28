@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-28T04:32:33.238699+00:00'
+updated: '2026-03-28T05:58:05.669475+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- videos
 - news
 - social
-- videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 28, 2026 at 04:32 UTC  
+**Last Updated:** March 28, 2026 at 05:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,10 +45,10 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -3.4%  
-**7d:** -2.3%  
-**30d:** +0.6%  
-**90d:** -24.0%  
-**1y:** -19.8%  
+**7d:** -2.2%  
+**30d:** +0.7%  
+**90d:** -23.9%  
+**1y:** -19.7%  
 
 ---
 
@@ -70,7 +70,7 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 13
+### 12
 **EXTREME FEAR**
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 I have a feeling that UPril will be even better. Get your moon boots ready.
 
-6h ago
+7h ago
 
 ---
 
@@ -89,7 +89,7 @@ I have a feeling that UPril will be even better. Get your moon boots ready.
 
 been watching the charts and bitcoin is sitting at what looks like a 40% drop from recent highs. feels like this might be teh moment to make a substantial buy instead of my usual small dca amounts. anyone else considering making moves right now or am i getting too greedy? trying to figure out if this dip is worth changing up my strategy for.
 
-4h ago
+5h ago
 
 ---
 
@@ -97,7 +97,7 @@ been watching the charts and bitcoin is sitting at what looks like a 40% drop fr
 
 When all my money is already in sats, it’s just easier to spend it directly instead of converting it to usd and spending that 🤷‍♂️
 
-12h ago
+13h ago
 
 ---
 
@@ -105,7 +105,7 @@ When all my money is already in sats, it’s just easier to spend it directly in
 
 Onramp's Brian Cubellis also point out the difference between the latent demand for IBIT vs what he expects will be active solicitation from Morgan Stanley to their clients.
 
-13h ago
+14h ago
 
 ---
 
@@ -113,7 +113,15 @@ Onramp's Brian Cubellis also point out the difference between the latent demand 
 
 so i've been getting these random coinbase notifications for months and finally decided to check what was going on. remembered i had maybe like 7 bucks sitting there from way back when i bought something online that required bitcoin logged into my account expecting to see basically nothing and there's over 2400 sitting there. took me a minute to process what i was looking at did some digging and apparently that leftover change was from late 2015 when i made some random purchase. crazy how that small amount just sat there growing now i'm kicking myself thinking about what would've happened if i had been putting even 10 bucks aside every couple weeks since then. the math is pretty wild when you run those numbers probably gonna leave it alone and see where it goes from here. not really planning to touch it anytime soon
 
-13h ago
+15h ago
+
+---
+
+**[No one talks about how boring crypto actually is (if you’re doing it right)](https://www.reddit.com/r/Bitcoin/comments/1s5qfq2/no_one_talks_about_how_boring_crypto_actually_is/)**
+
+Everyone outside crypto thinks it’s: Fast money Crazy gains Constant action But if you’ve been here for a while, you know the truth… Most of crypto is just: Waiting Not touching your portfolio Ignoring noise Watching others panic The real game isn’t buying. It’s holding without doing something stupid. The people who win aren’t the smartest. They’re usually the ones who: Don’t overtrade Don’t chase every new coin Don’t panic sell It sounds boring because it is. But boring is where most money is made. Meanwhile: Beginners want excitement Veterans want consistency Question: What’s harder for you — buying at the right time or just holding after you buy?
+
+1h ago
 
 ---
 
@@ -121,7 +129,7 @@ so i've been getting these random coinbase notifications for months and finally 
 
 Each paycheck is now worth ~0.19% of my total sats. I have been in the space a bit. I am a little dead inside due to "same shit different day" mentality in this space. The price is getting smaller. I see the typical calls for people to hodl on or jump in or increase DCA. Quality memes are nowhere to be found. It reminds me of past bear cycles. What helps me during times like this is to remember the fundamentals. Nothing has changed. Blocks are still being solved about every 10 minutes. Code is still being written. Proposals are still being discussed/modified/dropped/fought over. Bitcoin is still based on real-world resources. People are still saying that bitcoin is dead/dying/ponzi scheme. People I know that make 3-5x my salary still think it is only used to wash dirty money. I have no grand secret or huge life lesson for you, simply because bitcoin is boring (also its most important feature). The messaging is always the same. Adopt a low time preference. I hope it helps some of the newer hodlers here who are planning to stay. The panic and self-doubt you feel will pass. And you will do it again, and it will pass again and so on. P.S. Do not leverage trade to try and catch up.
 
-13h ago
+15h ago
 
 ---
 
@@ -129,15 +137,7 @@ Each paycheck is now worth ~0.19% of my total sats. I have been in the space a b
 
 Why does the majority of the market treat crypto, or Bitcoin in particular, like high risk stocks which promise returns which they can't deliver, instead of just buying Bitcoin which goes up through scarcity? It should be a no-brainer to put capital there, instead of keeping it invested in companies which are over their head in debt and won't make any profits.
 
-8h ago
-
----
-
-**[Bitcoin is dropping, buy more!](https://www.reddit.com/r/Bitcoin/comments/1s583to/bitcoin_is_dropping_buy_more/)**
-
-Recently, Bitcoin’s price has dropped, and many people are selling out of fear. But for long-term investors, this is actually a great opportunity to buy more. Market volatility is normal, panic often leads to short-term losses, while staying calm and observing can bring long-term gains. Grab your popcorn and wait!
-
-12h ago
+9h ago
 
 ---
 
@@ -145,15 +145,15 @@ Recently, Bitcoin’s price has dropped, and many people are selling out of fear
 
 Nearly a decade and a half holding Bitcoin now - grabbed my initial stack when it was trading around $9. Made it through all the brutal bear markets, constantly wondering if we'd finally reached the end. Each crash felt like Bitcoin might actually die for good. Every major drop had me questioning everything. But here we are. Bitcoin keeps bouncing back stronger than before. This current pullback is just another blip on the radar compared to what we've weathered in the past.
 
-8h ago
+9h ago
 
 ---
 
-**[What do you guys prefer](https://www.reddit.com/r/Bitcoin/comments/1s5geg5/what_do_you_guys_prefer/)**
+**[Bitcoin is dropping, buy more!](https://www.reddit.com/r/Bitcoin/comments/1s583to/bitcoin_is_dropping_buy_more/)**
 
-Do you guys prefer dca or buying in a lump sum every once in a while sorry I’m new
+Recently, Bitcoin’s price has dropped, and many people are selling out of fear. But for long-term investors, this is actually a great opportunity to buy more. Market volatility is normal, panic often leads to short-term losses, while staying calm and observing can bring long-term gains. Grab your popcorn and wait!
 
-7h ago
+14h ago
 
 ---
 
@@ -165,67 +165,21 @@ Do you guys prefer dca or buying in a lump sum every once in a while sorry I’m
 
 The average public miner spent $79,995 to produce one bitcoin last quarter. Bitcoin is trading at $70,000. The math doesn't work, so the industry is pivoting to AI, taking on $70 billion in contracts, and liquidating bitcoin treasuries to finance the shift.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
-**[Bitcoin dips below $67K, ether under $2K as ETF outflows and dollar strength pressure liquidity: analysts](https://www.theblock.co/post/395446/bitcoin-dips-below-67k-ether-under-2k-as-etf-outflows-and-dollar-strength-pressure-liquidity-analysts)**
+**[Bitcoin price (BTC) slides alongside software stocks following leak of new Anthropic model](https://www.coindesk.com/markets/2026/03/27/anthropic-s-massive-claude-mythos-leak-reveals-a-new-ai-model-that-could-be-a-cybersecurity-nightmare)**
 
-Bitcoin dropped below $67,000 and ether under $2,000 as ETF outflows resumed and the dollar strengthened amid macro and geopolitical tension.
+The model could significantly heighten cybersecurity risks by rapidly finding and exploiting software vulnerabilities, potentially accelerating a cyber arms race.
 
-The Block • 17h ago
-
----
-
-**[Bitcoin Fear Hits The Floor As Big Holders Stack 62,000 Coins](https://www.tradingview.com/news/newsbtc:523cb3ce6094b:0-bitcoin-fear-hits-the-floor-as-big-holders-stack-62-000-coins/)**
-
-Investor sentiment in the crypto market sits at its lowest point in months — and the biggest Bitcoin holders are treating it like a buying window.Retail Sellers, Whale BuyersWhile everyday investors have been stepping back, wallets holding between 10 and 10,000 Bitcoin added roughly 61,568 coins ov…
-
-TradingView • 2h ago
+CoinDesk • 15h ago
 
 ---
 
-**[Hut 8 Gains Spotlight As Infrastructure Backbone For Bitcoin Accumulation Plans](https://simplywall.st/stocks/us/software/nasdaq-hut/hut-8/news/hut-8-gains-spotlight-as-infrastructure-backbone-for-bitcoin)**
+**[Bitcoin Miners, Now AI Compute Leaders, Face Profitability Concerns](https://www.investors.com/news/bitcoin-miner-profitability-hash-price-q1-2026-ai-pivot-wulf-corz-cifr-hut/)**
 
-American Bitcoin Corp. has highlighted Hut 8 (NasdaqGS:HUT) as a key infrastructure partner.
-The company described Hut 8 as a "Bitcoin accumulation machine," underscoring its role in large scale mining operations.
-This recognition focuses on Hut 8's infrastructure that supports efficient Bitcoin mining and long term accumulation plans.
-
-For you as an investor, this puts fresh attention on what Hut 8 actually does in the Bitcoin mining value chain. Rather than only operating its own mining...
-
-simplywall.st • 2h ago
-
----
-
-**[Strategy is accelerating its crypto purchases as rivals sit on the sidelines](https://www.cnbc.com/2026/03/27/strategy-is-accelerating-its-crypto-purchases-as-rivals-sit-on-the-sidelines.html)**
-
-Demand for bitcoin as a corporate treasury asset is once again concentrated in Michael Saylor's Strategy as the company steps up its bitcoin buying pace.
-
-cnbc.com • 11h ago
-
----
-
-**['Bitcoin Should Be $280,000,' Grant Cardone Says As BTC Continues Outperformance In Iran War](https://finance.yahoo.com/markets/crypto/articles/bitcoin-280-000-grant-cardone-231044952.html)**
-
-Bitcoin should be trading much higher, according to real estate mogul Grant Cardone. "Bitcoin should be $280,000," Cardone said Wednesday on X even as the asset traded around $71,000. Cardone’s remarks come as Bitcoin has outperformed the broader market since...
-
-Yahoo Finance • 5h ago
-
----
-
-**[Bitcoin Faces $14 Billion Options Expiry While Middle East Turmoil Mounts](https://finance.yahoo.com/news/bitcoin-faces-14-billion-options-064538360.html)**
-
-(Bloomberg) -- Bitcoin’s largest options expiry of the year is colliding with geopolitical volatility that shows no sign of letting up with make or break peace talks uncertain. Roughly $14 billion of Bitcoin options are set to expire Friday, as measured by the number for outstanding contracts, known as open interest. The quarterly rollover — which wipes out close to 40% of open positions on the dominant Deribit exchange — comes amid conflicting signals on the prospect of a halt to the nearly mon
-
-Yahoo Finance • 18h ago
-
----
-
-**[The End Of Bitcoin Will Be Its New Beginning (Cryptocurrency: BTC-USD)](https://seekingalpha.com/article/4886535-the-end-of-bitcoin-will-be-its-new-beginning)**
-
-Bitcoin is no longer driven by scarcity-based models; its price now tracks demand dynamics and correlates with high-beta tech indices. Learn more about BTC-USD here.
-
-Seeking Alpha • 16h ago
+Investor's Business Daily • 1d ago
 
 ---
 
@@ -233,13 +187,49 @@ Seeking Alpha • 16h ago
 
 Solana could generate bigger near-term gains than the top cryptocurrency.
 
-The Motley Fool • 11h ago
+The Motley Fool • 13h ago
+
+---
+
+**[Retail Investors Reshape Strategy Preferreds As Bitcoin Treasury Reserve Asset](https://finance.yahoo.com/markets/crypto/articles/retail-investors-reshape-strategy-preferreds-041704129.html)**
+
+Retail investors now own about 80% of Strategy’s flagship preferred shares, STRC, compared with about 40% of the common stock for NasdaqGS:MSTR. The shift in ownership followed an 11.5% dividend increase on STRC and came alongside about $1.5b raised via these preferred shares in March. STRC is beginning to appear as a reserve asset on other corporate Bitcoin treasuries’ balance sheets, extending its role beyond NasdaqGS:MSTR’s own capital structure. Strategy, listed as NasdaqGS:MSTR, has...
+
+finance.yahoo.com • 1h ago
+
+---
+
+**[Strategy is accelerating its crypto purchases as rivals sit on the sidelines](https://www.cnbc.com/2026/03/27/strategy-is-accelerating-its-crypto-purchases-as-rivals-sit-on-the-sidelines.html)**
+
+Demand for bitcoin as a corporate treasury asset is once again concentrated in Michael Saylor's Strategy as the company steps up its bitcoin buying pace.
+
+CNBC • 13h ago
+
+---
+
+**[Bitcoin Slumps With Options Showing Traders Turning Defensive](https://www.bloomberg.com/news/articles/2026-03-27/bitcoin-slumps-with-options-showing-traders-turning-defensive)**
+
+Bloomberg.com • 9h ago
+
+---
+
+**[The End Of Bitcoin Will Be Its New Beginning (Cryptocurrency: BTC-USD)](https://seekingalpha.com/article/4886535-the-end-of-bitcoin-will-be-its-new-beginning)**
+
+Bitcoin is no longer driven by scarcity-based models; its price now tracks demand dynamics and correlates with high-beta tech indices. Learn more about BTC-USD here.
+
+Seeking Alpha • 18h ago
 
 ---
 
 **[5 long, loud years: Neighbor, county leader ready for Bitcoin mine shutdown](https://www.wjhl.com/news/local/5-long-loud-years-neighbor-county-leader-ready-for-bitcoin-mine-shutdown/)**
 
 WJHL • 1d ago
+
+---
+
+**[Morgan Stanley’s (MS) New Bitcoin ETF to Offer Lowest Fees in the Market](https://www.tipranks.com/news/morgan-stanleys-ms-new-bitcoin-etf-offers-the-lowest-fees-in-the-market)**
+
+TipRanks • 8h ago
 
 ---
 
@@ -251,7 +241,7 @@ WJHL • 1d ago
 
 Difficulty is now nearly 10% below where it started the year, despite a sharp 14.7% rebound in February after weather-related disruptions subsided.
 
-⬆️ 5 • 💬 1 • 5d ago • [The Block](https://www.theblock.co/post/394579/bitcoin-mining-difficulty-drops-7-8-as-miner-exodus-accelerates-amid-ai-pivot)
+⬆️ 5 • 💬 1 • 6d ago • [The Block](https://www.theblock.co/post/394579/bitcoin-mining-difficulty-drops-7-8-as-miner-exodus-accelerates-amid-ai-pivot)
 
 ---
 
@@ -293,7 +283,7 @@ Once upon a time, Bitcoin used to have god candles (and epic crashes) all on its
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 14K • 👍 902 • 💬 80 • ⏱️ 8:32 • 7h ago
+👁️ 14K • 👍 902 • 💬 80 • ⏱️ 8:32 • 8h ago
 
 ---
 
@@ -303,7 +293,7 @@ Bitcoin #Crypto #Finance Bitcoin has dropped sharply toward the $66K level as ma
 
 📺 The Wolf Of All Streets
 
-👁️ 20K • 👍 1K • 💬 379 • ⏱️ 34:13 • 14h ago
+👁️ 20K • 👍 1K • 💬 379 • ⏱️ 34:13 • 16h ago
 
 ---
 
@@ -313,7 +303,7 @@ Something is changing in the Bitcoin market—and most people are completely mis
 
 📺 Tim Talks Finance
 
-👁️ 4K • 👍 253 • 💬 63 • ⏱️ 12:25 • 10h ago
+👁️ 4K • 👍 253 • 💬 63 • ⏱️ 12:25 • 11h ago
 
 ---
 
@@ -323,7 +313,7 @@ all my life is bitcoin, literally. I had moments where I thought I was ruining m
 
 📺 BTC Isla
 
-👁️ 9K • 👍 965 • 💬 329 • ⏱️ 10:32 • 13h ago
+👁️ 9K • 👍 965 • 💬 329 • ⏱️ 10:32 • 14h ago
 
 ---
 
@@ -333,7 +323,7 @@ all my life is bitcoin, literally. I had moments where I thought I was ruining m
 
 📺 Economic News Ninja
 
-👁️ 12K • 👍 864 • 💬 205 • ⏱️ 5:14 • 9h ago
+👁️ 12K • 👍 864 • 💬 205 • ⏱️ 5:14 • 10h ago
 
 ---
 
@@ -343,7 +333,7 @@ Are Bitcoin and the S&P 500 on the verge of a massive breakdown? In this urgent 
 
 📺 Gareth Soloway
 
-👁️ 65K • 👍 4K • 💬 609 • ⏱️ 9:48 • 16h ago
+👁️ 65K • 👍 4K • 💬 609 • ⏱️ 9:48 • 17h ago
 
 ---
 
@@ -353,7 +343,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 856 • 💬 98 • ⏱️ 1:13:31 • 13h ago
+👁️ 15K • 👍 856 • 💬 98 • ⏱️ 1:13:31 • 15h ago
 
 ---
 

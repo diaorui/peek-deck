@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-28T04:32:33.243868+00:00'
+updated: '2026-03-28T05:58:05.675682+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- videos
 - news
 - social
-- videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 28, 2026 at 04:32 UTC  
+**Last Updated:** March 28, 2026 at 05:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.2%  
-**7d:** -3.0%  
-**30d:** +3.2%  
+**24h:** -3.3%  
+**7d:** -2.9%  
+**30d:** +3.3%  
 **90d:** -32.2%  
 **1y:** +9.0%  
 
@@ -68,11 +68,19 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion March 28, 2026](https://www.reddit.com/r/ethereum/comments/1s5rbnm/daily_general_discussion_march_28_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+57m ago
+
+---
+
 **[Post-Quantum Ethereum client Lantern developer Pier Two acquired by BMNR](https://www.reddit.com/r/ethereum/comments/1s5pxbi/postquantum_ethereum_client_lantern_developer/)**
 
 Effective March 25, 2026, Pier Two Holdings Pty Ltd has been wholly acquired by Bitmine Immersion Technologies, Inc (NYSE: BMNR)
 
-🔗 [piertwo.com](https://piertwo.com/insights/pier-two-is-joining-mavan-a-bitmine-company) • 44m ago
+🔗 [piertwo.com](https://piertwo.com/insights/pier-two-is-joining-mavan-a-bitmine-company) • 2h ago
 
 ---
 
@@ -80,7 +88,7 @@ Effective March 25, 2026, Pier Two Holdings Pty Ltd has been wholly acquired by 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -88,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I Built a Privacy-Preserving Bitcoin transaction Receipt Verifier (No KYC, No Screenshots, No wallet). https://github.com/Teycir/Ghostreceipt Would like to have feedback.
 
-8h ago
+9h ago
 
 ---
 
@@ -96,7 +104,7 @@ I Built a Privacy-Preserving Bitcoin transaction Receipt Verifier (No KYC, No Sc
 
 Frame transaction Considered for Inclusion for Hegotá, EthStaker staking survey, EF post-quantum website
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-17/) • 15h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-17/) • 16h ago
 
 ---
 
@@ -110,7 +118,7 @@ Ethereum pushes Glamsterdam testing forward as Hegotá headliner debates remain 
 
 **[Paperwallet.ca launch](https://www.reddit.com/r/ethereum/comments/1s543mf/paperwalletca_launch/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -134,15 +142,7 @@ Source: https://www.coingecko.com/learn/real-world-assets-rwa-buy-on-chain RWAs 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
-
----
-
-**[Bitcoin.com Checkout has added support for ETH, and ERC-20 tokens in their app! Now any merchant can accept ETH, USDT, USDC, and more with NO KYC and available anywhere in the world!](https://www.reddit.com/r/ethereum/comments/1s450e6/bitcoincom_checkout_has_added_support_for_eth_and/)**
-
-Accept crypto payments in seconds, across Bitcoin, stablecoins, and more with Bitcoin.com Checkout.
-
-🔗 [Bitcoin.com Checkout](https://checkout.bitcoin.com/) • 1d ago
+2d ago
 
 ---
 
@@ -154,21 +154,13 @@ Accept crypto payments in seconds, across Bitcoin, stablecoins, and more with Bi
 
 The address traces back to Ethereum's initial token sale, where the investor purchased ether at about $0.31 per token, said Lookonchain.
 
-The Block • 21h ago
+The Block • 23h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqehZwFHTuhqp34Uq3KGbr0F_Ohf1adqJZNjsaTga-boJddj11h9EzYp&gaa_ts=69c75d4d&gaa_sig=O-mop25paRxuIc60zLwjw1LnTFlPHvuLibSMz_r_5_wYt2zvMJ6eXxk4gbu6NihnstPSm6RrZh0GxHx5kGPuxg%3D%3D)**
+**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqcHr-zjr8uHGORwvP3bujA7t2pSkOUzwzAbMybBvBYX9xZtZ8-9c1p7&gaa_ts=69c7715a&gaa_sig=R8f0uTkcMDDkKiKy6K2efe-wqvRPeonotqUXIqHITmGgIWMewwxR8SKAo4bRp-By54ejk8oSpqwrqh7BVwL_tQ%3D%3D)**
 
 Barron's • 1d ago
-
----
-
-**[Bitcoin and Ethereum Face Downside Risk Ahead of $15.58B Options Expiry Today](https://coinpedia.org/news/bitcoin-and-ethereum-face-downside-risk-ahead-of-15-58b-options-expiry-today/)**
-
-A large batch of Bitcoin and Ethereum options is set to expire this Friday, with total value crossing $15.58B billion as per Deribit insights. This marks
-
-Coinpedia Fintech News • 21h ago
 
 ---
 
@@ -180,19 +172,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum and Solana Just Got a Huge Catalyst. Should You Buy Them With $1,000?](https://www.fool.com/investing/2026/03/27/ethereum-and-solana-just-got-a-huge-catalyst-shoul/)**
+**[Crypto Crash Alert: Bitcoin, Ethereum Drop as Iran War Sparks Market Panic](https://coinpedia.org/price-analysis/crypto-crash-alert-bitcoin-ethereum-drop-as-iran-war-sparks-market-panic/)**
 
-These two coins now have fewer obstacles blocking their growth.
+The crypto market is flashing a clear warning, and this time, it’s not just technicals driving the move. Bitcoin price has slipped to $68,670, Ethereum
 
-The Motley Fool • 2h ago
-
----
-
-**[Ethereum and Solana Just Got a Huge Catalyst. Should You Buy Them With $1,000?](https://finance.yahoo.com/markets/crypto/articles/ethereum-solana-just-got-huge-010500664.html)**
-
-These two coins now have fewer obstacles blocking their growth.
-
-Yahoo Finance • 3h ago
+Coinpedia Fintech News • 22h ago
 
 ---
 
@@ -204,14 +188,6 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[Current price of Ethereum for March 27, 2026](https://fortune.com/article/price-of-ethereum-03-27-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 14h ago
-
----
-
 **[Tom Lee's Bitmine debuts MAVAN Ethereum staking platform, plans to shift its ETH activity](https://www.theblock.co/post/395080/tom-lees-bitmine-debuts-mavan-ethereum-staking-platform-plans-to-shift-its-eth-activity)**
 
 Bitmine officially launched the MAVAN Ethereum staking platform, targeting roughly $300 million in annual rewards.
@@ -220,11 +196,35 @@ The Block • 2d ago
 
 ---
 
+**[Ethereum and Solana Just Got a Huge Catalyst. Should You Buy Them With $1,000?](https://www.fool.com/investing/2026/03/27/ethereum-and-solana-just-got-a-huge-catalyst-shoul/)**
+
+These two coins now have fewer obstacles blocking their growth.
+
+The Motley Fool • 4h ago
+
+---
+
+**[Current price of Ethereum for March 27, 2026](https://fortune.com/article/price-of-ethereum-03-27-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 15h ago
+
+---
+
 **[Ethereum Price Drops Near $2,020, Downside Pressure Continues to Build](https://www.tradingview.com/news/newsbtc:fd05ea531094b:0-ethereum-price-drops-near-2-020-downside-pressure-continues-to-build/)**
 
 Ethereum price failed to clear the $2,200 zone and declined. ETH is now consolidating above $2,020 and might struggle to start a recovery wave.Ethereum Price Dips FurtherEthereum price failed to stay above $2,150 and started a fresh decline, like Bitcoin. ETH price dipped below $2,120 and $2,080 to…
 
 TradingView • 1d ago
+
+---
+
+**[Bitcoin and Ethereum Face Downside Risk Ahead of $15.58B Options Expiry Today](https://coinpedia.org/news/bitcoin-and-ethereum-face-downside-risk-ahead-of-15-58b-options-expiry-today/)**
+
+A large batch of Bitcoin and Ethereum options is set to expire this Friday, with total value crossing $15.58B billion as per Deribit insights. This marks
+
+Coinpedia Fintech News • 23h ago
 
 ---
 
@@ -238,7 +238,7 @@ BITCOIN & ALTCOIN CRASH: Price Target Confirmed!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 3K • 👍 201 • 💬 22 • ⏱️ 19:00 • 5h ago
+👁️ 3K • 👍 201 • 💬 22 • ⏱️ 19:00 • 6h ago
 
 ---
 
@@ -248,7 +248,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 1K • 👍 76 • 💬 34 • ⏱️ 38:10 • 9h ago
+👁️ 1K • 👍 76 • 💬 34 • ⏱️ 38:10 • 11h ago
 
 ---
 
@@ -258,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 84 • 💬 9 • ⏱️ 3:57 • 9h ago
+👁️ 1K • 👍 84 • 💬 9 • ⏱️ 3:57 • 11h ago
 
 ---
 
@@ -268,7 +268,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 479 • 👍 16 • 💬 20 • ⏱️ 4:49 • 18h ago
+👁️ 479 • 👍 16 • 💬 20 • ⏱️ 4:49 • 19h ago
 
 ---
 
@@ -288,7 +288,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 987 • 👍 119 • 💬 22 • ⏱️ 14:22 • 11h ago
+👁️ 987 • 👍 119 • 💬 22 • ⏱️ 14:22 • 12h ago
 
 ---
 

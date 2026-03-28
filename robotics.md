@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-28T04:32:33.246635+00:00'
+updated: '2026-03-28T05:58:05.678990+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 28, 2026 at 04:32 UTC  
+**Last Updated:** March 28, 2026 at 05:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hello everyone, I wanted to share my project that I've been working on for months. I've recycled two old 3D printers Anet A8 into a robotic arm. My main goal is to make a coffee with it. The motors and the electronic cards are from the printers. I've flashed them with Marlin and control them with python with a custom interface. I need to use 2 boards because I can only control independently 4 motors with one board. All the joints design are homemade, and 3d printed. The endeffector is a design from Makerworld u/user_2700759104 (I will build my own in the next days). There is a lot of backlash because of the planetary gears that I use. I plan to change them in the future. If anyone knows a reduction gear for Nema17 with minimum backlash I am all ears ! Thanks to the gear ratio, I've measured 2.9kg of force with the J2. List of components : Motors (J1->J6) : Nema17 Endeffector : Servo SG90 Boards : 2 Anet A8 + 1 Arduino Uno Reduction : J1 - 19:1 J2 - 51:1 J3 - 19:1 J4 - 19:1 J5 - 19:1 (90° 1:1) J6 - 1:1
 
-17h ago
+18h ago
 
 ---
 
@@ -44,13 +44,13 @@ Hello everyone, I wanted to share my project that I've been working on for month
 
 Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dataset From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2037440578275946551
 
-17h ago
+18h ago
 
 ---
 
 **[WANDER-Bot, a wind-powered robot designed for long-term exploration of hostile environments.](https://www.reddit.com/r/robotics/comments/1s59h0n/wanderbot_a_windpowered_robot_designed_for/)**
 
-11h ago
+13h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dat
 
 I didn't use the T265; instead, I chose the RoboBaton mini to control the car's forward movement.I found the RoboBaton mini works well.Look the video !
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Yeah, front flips. I know, I've seen a lot of "who cares," "useless flex," "why 
 
 Already asked in the proper forums, to no avail. Hopefully someone can reply before I'm deleted lol. I have an interview at a well known company that uses assembly lines, to assemble components. The position is related to "Robotics Vision", cameras and sensors and such. I have a background in material handling equipment, with minor knowledge on cameras and sensors unrelated to automous robotics on this scale. My question is, what are some key items for me to be aware of in the space of Robotics Vision in order to land this job and more specifically the tech interview? I'm not looking for an entire study guide, just some relevant information related to the interview that I may be asked. I appreciate any and all help, if any!
 
-7h ago
+8h ago
 
 ---
 
@@ -96,7 +96,7 @@ This is the new and improved state of the driver board for my work in progress 6
 
 ROS News for the Week of March 23rd, 2026      The ROSCon Global 2026 call for sponsors is out. We also updated the website with additional venue information. 📣 If you are planning to submit a ROSCon work shop proposal the deadline is coming up quick, April 5th, to be exact!                On the event front ROSCon Croatia is scheduled for Monday and from what I hear is sold out! Over the weekend we have another Nigerian ROS meetup on deck, along with meetups in the Netherlands, German...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-march-23rd-2026/53588) • 9h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-march-23rd-2026/53588) • 10h ago
 
 ---
 
@@ -112,7 +112,7 @@ ROS News for the Week of March 23rd, 2026      The ROSCon Global 2026 call for s
 
 **[AI Robotics Lab in Talks to Raise $1 Billion at $11 Billion Valuation](https://www.bloomberg.com/news/articles/2026-03-27/ex-deepmind-staffers-robotics-startup-in-talks-for-11-billion-valuation)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -120,15 +120,21 @@ Bloomberg.com • 7h ago
 
 The White House hosted its first humanoid robot guest, with first lady Melania Trump appearing alongside a robot from startup Figure AI.
 
-cnbc.com • 1d ago
+CNBC • 1d ago
 
 ---
 
-**[This Robotics Stock Could Be the Next 10-Bagger on Wall Street](https://finance.yahoo.com/markets/stocks/articles/robotics-stock-could-next-10-194659067.html)**
+**[Faraday Future Completes Delivery of Additional EAI Robots to New PBB Auto Inc., and Showcases Its Robotics to Students in Los Angeles Through an Innovative Hands-on Interactive Demonstration Event](https://finance.yahoo.com/sectors/technology/articles/faraday-future-completes-delivery-additional-005400521.html)**
 
-Serve Robotics could generate massive gains for its patient investors.
+LOS ANGELES, March 27, 2026--Faraday Future Intelligent Electric Inc. (Nasdaq: FFAI) ("Faraday Future," "FF," or the "Company"), a California-based global Embodied AI (EAI) ecosystem company, today announced another delivery of its Master robot and pilot delivery of the Aegis robot to Los Angeles based New PBB Auto Inc. New PBB made a binding FX business-to-business (B2B) deposit agreement with FF last year, which includes a non-refundable deposit and a non-binding pre-order for 600 units of the
 
-Yahoo Finance • 1d ago
+finance.yahoo.com • 1d ago
+
+---
+
+**[Milliwatt ultrasound for navigation in visually degraded environments on palm-sized aerial robots](https://www.science.org/doi/10.1126/scirobotics.adz9609)**
+
+Science | AAAS • 2d ago
 
 ---
 
@@ -136,13 +142,7 @@ Yahoo Finance • 1d ago
 
 Roadrunner moves in-line, on one wheel, or two to stay nimble and on the go. Plus NASA's SkyFall Mars helicopters and MoonFall mission are gearing up.
 
-IEEE Spectrum • 11h ago
-
----
-
-**[US lawmakers to introduce bill to ban government use of Chinese robots](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/)**
-
-Reuters • 1d ago
+IEEE Spectrum • 13h ago
 
 ---
 
@@ -170,19 +170,17 @@ New York Post • 2d ago
 
 ---
 
-**[Project Overview ‹ Electrofluidic Fiber Muscles (Science Robotics)](https://www.media.mit.edu/projects/electrofluidicmuscle/overview/)**
+**[US lawmakers to introduce bill to ban government use of Chinese robots](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/)**
 
-Electrofluidic Fiber Muscles are a new class of artificial muscle fibers for robots and wearables. By integrating charge-injection electrohydrodynamic (EHD) fi…
-
-MIT Media Lab • 2d ago
+Reuters • 1d ago
 
 ---
 
-**[Amazon Is Entering the Humanoid Robot Market. 3 Important Things to Know About the Fauna Robotics Acquisition.](https://www.fool.com/investing/2026/03/25/amazon-is-entering-the-humanoid-robot-market-3-imp/)**
+**[Raleigh students win state robotics title, advance to world championship](https://abc11.com/post/raleigh-students-win-state-robotics-title-advance-world-championship/18778624/)**
 
-Amazon is gearing up to become a much bigger player in robotics.
+Four Raleigh middle schoolers are headed to the world stage after winning the top honor at this month's VEX IQ Robotics State Championship in Concord.
 
-The Motley Fool • 2d ago
+ABC11 Raleigh-Durham • 1d ago
 
 ---
 
@@ -216,7 +214,7 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCkouj
 
 📺 Shawn Ryan Show
 
-👁️ 26K • 👍 1K • 💬 328 • ⏱️ 6:32 • 11h ago
+👁️ 26K • 👍 1K • 💬 328 • ⏱️ 6:32 • 12h ago
 
 ---
 
