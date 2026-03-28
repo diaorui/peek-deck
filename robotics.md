@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-28T02:13:32.150503+00:00'
+updated: '2026-03-28T04:32:33.246635+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 28, 2026 at 02:13 UTC  
+**Last Updated:** March 28, 2026 at 04:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hello everyone, I wanted to share my project that I've been working on for months. I've recycled two old 3D printers Anet A8 into a robotic arm. My main goal is to make a coffee with it. The motors and the electronic cards are from the printers. I've flashed them with Marlin and control them with python with a custom interface. I need to use 2 boards because I can only control independently 4 motors with one board. All the joints design are homemade, and 3d printed. The endeffector is a design from Makerworld u/user_2700759104 (I will build my own in the next days). There is a lot of backlash because of the planetary gears that I use. I plan to change them in the future. If anyone knows a reduction gear for Nema17 with minimum backlash I am all ears ! Thanks to the gear ratio, I've measured 2.9kg of force with the J2. List of components : Motors (J1->J6) : Nema17 Endeffector : Servo SG90 Boards : 2 Anet A8 + 1 Arduino Uno Reduction : J1 - 19:1 J2 - 51:1 J3 - 19:1 J4 - 19:1 J5 - 19:1 (90° 1:1) J6 - 1:1
 
-14h ago
+17h ago
 
 ---
 
@@ -44,13 +44,13 @@ Hello everyone, I wanted to share my project that I've been working on for month
 
 Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dataset From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2037440578275946551
 
-15h ago
+17h ago
 
 ---
 
 **[WANDER-Bot, a wind-powered robot designed for long-term exploration of hostile environments.](https://www.reddit.com/r/robotics/comments/1s59h0n/wanderbot_a_windpowered_robot_designed_for/)**
 
-9h ago
+11h ago
 
 ---
 
@@ -58,13 +58,13 @@ Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dat
 
 I didn't use the T265; instead, I chose the RoboBaton mini to control the car's forward movement.I found the RoboBaton mini works well.Look the video !
 
-12h ago
+14h ago
 
 ---
 
 **[Demo of Agibot’s wheeled A2 depalleting](https://www.reddit.com/r/robotics/comments/1s4spdj/demo_of_agibots_wheeled_a2_depalleting/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ Yeah, front flips. I know, I've seen a lot of "who cares," "useless flex," "why 
 
 Already asked in the proper forums, to no avail. Hopefully someone can reply before I'm deleted lol. I have an interview at a well known company that uses assembly lines, to assemble components. The position is related to "Robotics Vision", cameras and sensors and such. I have a background in material handling equipment, with minor knowledge on cameras and sensors unrelated to automous robotics on this scale. My question is, what are some key items for me to be aware of in the space of Robotics Vision in order to land this job and more specifically the tech interview? I'm not looking for an entire study guide, just some relevant information related to the interview that I may be asked. I appreciate any and all help, if any!
 
-4h ago
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Already asked in the proper forums, to no avail. Hopefully someone can reply bef
 
 This is the new and improved state of the driver board for my work in progress 6 axis 3D printed robot arm. ESP32 I2C Multiplexing - For encoder wiring 6 x DRV8825
 
-22h ago
+1d ago
 
 ---
 
@@ -96,7 +96,7 @@ This is the new and improved state of the driver board for my work in progress 6
 
 ROS News for the Week of March 23rd, 2026      The ROSCon Global 2026 call for sponsors is out. We also updated the website with additional venue information. 📣 If you are planning to submit a ROSCon work shop proposal the deadline is coming up quick, April 5th, to be exact!                On the event front ROSCon Croatia is scheduled for Monday and from what I hear is sold out! Over the weekend we have another Nigerian ROS meetup on deck, along with meetups in the Netherlands, German...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-march-23rd-2026/53588) • 7h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-march-23rd-2026/53588) • 9h ago
 
 ---
 
@@ -112,7 +112,7 @@ ROS News for the Week of March 23rd, 2026      The ROSCon Global 2026 call for s
 
 **[AI Robotics Lab in Talks to Raise $1 Billion at $11 Billion Valuation](https://www.bloomberg.com/news/articles/2026-03-27/ex-deepmind-staffers-robotics-startup-in-talks-for-11-billion-valuation)**
 
-Bloomberg • 5h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -120,15 +120,7 @@ Bloomberg • 5h ago
 
 The White House hosted its first humanoid robot guest, with first lady Melania Trump appearing alongside a robot from startup Figure AI.
 
-CNBC • 1d ago
-
----
-
-**[Video Friday: Beep! Beep! Roadrunner Bipedal Bot Breaks the Mold](https://spectrum.ieee.org/roadrunner-bipedal-robot)**
-
-Roadrunner moves in-line, on one wheel, or two to stay nimble and on the go. Plus NASA's SkyFall Mars helicopters and MoonFall mission are gearing up.
-
-spectrum.ieee.org • 9h ago
+cnbc.com • 1d ago
 
 ---
 
@@ -137,6 +129,14 @@ spectrum.ieee.org • 9h ago
 Serve Robotics could generate massive gains for its patient investors.
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Video Friday: Beep! Beep! Roadrunner Bipedal Bot Breaks the Mold](https://spectrum.ieee.org/roadrunner-bipedal-robot)**
+
+Roadrunner moves in-line, on one wheel, or two to stay nimble and on the go. Plus NASA's SkyFall Mars helicopters and MoonFall mission are gearing up.
+
+IEEE Spectrum • 11h ago
 
 ---
 
@@ -158,7 +158,7 @@ upi.com • 1d ago
 
 Two recent incidents of food delivery robots smashing into CTA bus shelters days apart happened as Chicagoans continue to debate whether the robots are a public benefit or a nuisance.
 
-abc7chicago.com • 2d ago
+ABC7 Chicago • 2d ago
 
 ---
 
@@ -170,17 +170,19 @@ New York Post • 2d ago
 
 ---
 
-**[Wristband enables wearers to control a robotic hand with their own movements](https://news.mit.edu/2026/wristband-enables-wearers-control-robotic-hand-with-own-movements-0325)**
+**[Project Overview ‹ Electrofluidic Fiber Muscles (Science Robotics)](https://www.media.mit.edu/projects/electrofluidicmuscle/overview/)**
 
-MIT engineers designed an ultrasound wristband that precisely tracks a wearer’s hand movements in real time and communicates the information to a robot or a virtual environment.
+Electrofluidic Fiber Muscles are a new class of artificial muscle fibers for robots and wearables. By integrating charge-injection electrohydrodynamic (EHD) fi…
 
-MIT News • 2d ago
+MIT Media Lab • 2d ago
 
 ---
 
-**[OpenAI inks 202,000-square-foot East Bay lease in Richmond - San Francisco Business Times](https://www.bizjournals.com/sanfrancisco/news/2026/03/26/openai-robotics-richmond-ford-point.html)**
+**[Amazon Is Entering the Humanoid Robot Market. 3 Important Things to Know About the Fauna Robotics Acquisition.](https://www.fool.com/investing/2026/03/25/amazon-is-entering-the-humanoid-robot-market-3-imp/)**
 
-The Business Journals • 1d ago
+Amazon is gearing up to become a much bigger player in robotics.
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -194,17 +196,7 @@ Thanks to Delete Me for sponsoring this video. To keep your private info private
 
 📺 Kim Java
 
-👁️ 141K • 👍 6K • 💬 310 • ⏱️ 20:00 • 3d ago
-
----
-
-**[China’s New AI Robots Just Broke The Human Skill Barrier](https://www.youtube.com/watch?v=QDRzgF-8-50)**
-
-This week in robotics got kind of ridiculous. South Korea showed off a humanoid that can run, jump, play soccer, and moonwalk, ...
-
-📺 AI Revolution
-
-👁️ 219K • 👍 3K • 💬 138 • ⏱️ 14:31 • 5d ago
+👁️ 144K • 👍 7K • 💬 315 • ⏱️ 20:00 • 3d ago
 
 ---
 
@@ -214,37 +206,27 @@ Melania Trump suggested using humanoid AI robots like a “Plato” educator to 
 
 📺 Farron Balanced
 
-👁️ 34K • 👍 3K • 💬 784 • ⏱️ 5:10 • 1d ago
+👁️ 34K • 👍 3K • 💬 788 • ⏱️ 5:10 • 1d ago
 
 ---
 
-**[Double Wide Adjustable Shooter | 4698 Raider Robotics | FRC Pit Stop](https://www.youtube.com/watch?v=XFIwgublYmI)**
+**[He&#39;s Changing the World with Robots | Official Preview](https://www.youtube.com/watch?v=6cfWFr-_j-8)**
 
-Double Wide Adjustable Shooter | 4698 Raider Robotics | FRC Pit Stop This video is supported by FRCtees. Founded by FIRST ...
+Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join In this episode, Brett ...
 
-📺 FUN Robotics Network
+📺 Shawn Ryan Show
 
-👁️ 259 • 👍 9 • ⏱️ 1:30 • 1h ago
-
----
-
-**[Viral robot appearances on the rise as White House hosts humanoid robot](https://www.youtube.com/watch?v=CDbSdaiEdyQ)**
-
-Humanoid robots have been making appearances through social media, tv segments, and at the latest White House summit.
-
-📺 NBC News
-
-👁️ 91K • 👍 522 • 💬 352 • ⏱️ 3:05 • 1d ago
+👁️ 26K • 👍 1K • 💬 328 • ⏱️ 6:32 • 11h ago
 
 ---
 
-**[Melania Trump Goes OFF THE RAILS With Alarming Robot Teacher Announcement](https://www.youtube.com/watch?v=JsTKgM8fYUk)**
+**[Watch: Humanoid robot walks alongside first lady Melania Trump at White House](https://www.youtube.com/watch?v=X-NjEku-zE4)**
 
-Melania Trump sparks alarm over a White House event where she walked in with a robot and made an announcement about ...
+Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
 
-📺 The Damage Report
+📺 CBS News
 
-👁️ 17K • 👍 857 • 💬 416 • ⏱️ 8:42 • 1d ago
+👁️ 39K • 👍 273 • 💬 291 • ⏱️ 9:54 • 2d ago
 
 ---
 
@@ -254,7 +236,27 @@ On March 8, at the "Tomorrow's Walker" exhibit in Shanghai Science and Technolog
 
 📺 China Observer
 
-👁️ 64K • 👍 2K • 💬 393 • ⏱️ 15:22 • 2d ago
+👁️ 65K • 👍 2K • 💬 394 • ⏱️ 15:22 • 2d ago
+
+---
+
+**[Melania Trump Goes OFF THE RAILS With Alarming Robot Teacher Announcement](https://www.youtube.com/watch?v=JsTKgM8fYUk)**
+
+Melania Trump sparks alarm over a White House event where she walked in with a robot and made an announcement about ...
+
+📺 The Damage Report
+
+👁️ 17K • 👍 864 • 💬 416 • ⏱️ 8:42 • 1d ago
+
+---
+
+**[China’s New AI Robots Just Broke The Human Skill Barrier](https://www.youtube.com/watch?v=QDRzgF-8-50)**
+
+This week in robotics got kind of ridiculous. South Korea showed off a humanoid that can run, jump, play soccer, and moonwalk, ...
+
+📺 AI Revolution
+
+👁️ 221K • 👍 3K • 💬 139 • ⏱️ 14:31 • 5d ago
 
 ---
 
@@ -264,27 +266,27 @@ Learn for free on Brilliant for a full 30 days: https://brilliant.org/NikodemBar
 
 📺 Nikodem Bartnik
 
-👁️ 49K • 👍 2K • 💬 46 • ⏱️ 9:55 • 3d ago
+👁️ 51K • 👍 2K • 💬 46 • ⏱️ 9:55 • 3d ago
 
 ---
 
-**[Every Robot I Met at Nvidia GTC in Under 6 Minutes (Speedrun)](https://www.youtube.com/watch?v=mFr7XfTY5bY)**
+**[First lady Melania Trump walks with robot during White House technology summit](https://www.youtube.com/watch?v=iFAWleMvbDY)**
 
-The robots at Nvidia GTC were showcasing strength, dexterity and the ability to work together on the same task. You can find the ...
+A walking, talking humanoid robot strolled side-by-side first lady Melania Trump into the East Room at the White House for the ...
 
-📺 CNET
+📺 ABC News
 
-👁️ 17K • 👍 476 • 💬 29 • ⏱️ 5:50 • 5d ago
+👁️ 37K • 👍 183 • 💬 205 • ⏱️ 1:30 • 2d ago
 
 ---
 
-**[When your circuit boards start roasting each other&#39;s specs! 🤖🤣 #Robotics #CodingMemes#viral](https://www.youtube.com/watch?v=HenS1Q4blFU)**
+**[First lady Melania Trump welcomes robot to White House tech summit](https://www.youtube.com/watch?v=glfTpD9iKhs)**
 
-The Ultimate Microcontroller Battle is HERE! Who is the real KING of your tech workbench? Arduino Uno is crying with no ...
+Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
 
-📺 M.R. Hacking Robot
+📺 Face the Nation
 
-👁️ 16K • 👍 242 • 💬 3 • ⏱️ 0:21 • 1d ago
+👁️ 129K • 👍 1K • 💬 701 • ⏱️ 9:54 • 2d ago
 
 ---
 
