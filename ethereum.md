@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-28T15:32:43.987368+00:00'
+updated: '2026-03-28T16:36:39.957032+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 28, 2026 at 15:32 UTC  
+**Last Updated:** March 28, 2026 at 16:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.7%  
-**7d:** -1.4%  
-**30d:** +4.9%  
-**90d:** -31.1%  
-**1y:** +10.8%  
+**24h:** +2.6%  
+**7d:** -1.3%  
+**30d:** +5.0%  
+**90d:** -31.0%  
+**1y:** +10.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Effective March 25, 2026, Pier Two Holdings Pty Ltd has been wholly acquired by Bitmine Immersion Technologies, Inc (NYSE: BMNR)
 
-🔗 [piertwo.com](https://piertwo.com/insights/pier-two-is-joining-mavan-a-bitmine-company) • 11h ago
+🔗 [piertwo.com](https://piertwo.com/insights/pier-two-is-joining-mavan-a-bitmine-company) • 12h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I Built a Privacy-Preserving Bitcoin transaction Receipt Verifier (No KYC, No Screenshots, No wallet). https://github.com/Teycir/Ghostreceipt Would like to have feedback.
 
-19h ago
+20h ago
 
 ---
 
@@ -150,9 +150,9 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqf_A7k0dOsQ9VAd0DZl5ni4lBcC2c50DqzPw_RAKRCUeX_leSFt6VSb&gaa_ts=69c7ea0c&gaa_sig=0fLROcsyEYgY_Gz6ybBxINpqsOT4sef0mkDLkfl2j-HOr22IkmmW1Ui41ObHAZlVQvTV2NY_h-YdwJd0VAK5Og%3D%3D)**
+**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqf6VLSncfdxqhwsXxPbfZuJcbTv8XW3tvTl_sesR_lCp8BmNpr9Vkey&gaa_ts=69c806dd&gaa_sig=TjTtHKzoMUNCNHeZhYzS7ynWGjloXtQ544ifow2zgFJc3C5-ZZv-e0UKIPrmerISNxlSpy3CofThG4Oo54oGFw%3D%3D)**
 
-Barron's • 1d ago
+Barron's • 2d ago
 
 ---
 
@@ -164,27 +164,35 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin and Ethereum Face Downside Risk Ahead of $15.58B Options Expiry Today](https://coinpedia.org/news/bitcoin-and-ethereum-face-downside-risk-ahead-of-15-58b-options-expiry-today/)**
+**[Bitcoin, Ethereum Slip as Trump Says He's 'Not Desperate' to End Iran War](https://decrypt.co/362516/bitcoin-ethereum-slip-as-trump-says-hes-not-desperate-to-end-iran-war)**
 
-A large batch of Bitcoin and Ethereum options is set to expire this Friday, with total value crossing $15.58B billion as per Deribit insights. This marks
+Bitcoin fell alongside stocks as investors weighed conflicting accounts regarding Iran’s willingness to end conflict in the Middle East.
+
+Decrypt • 1d ago
+
+---
+
+**[Crypto Crash Alert: Bitcoin, Ethereum Drop as Iran War Sparks Market Panic](https://coinpedia.org/price-analysis/crypto-crash-alert-bitcoin-ethereum-drop-as-iran-war-sparks-market-panic/)**
+
+The crypto market is flashing a clear warning, and this time, it’s not just technicals driving the move. Bitcoin price has slipped to $68,670, Ethereum
 
 Coinpedia Fintech News • 1d ago
 
 ---
 
-**[Ethereum Sets User Record As Price Lags Far Behind Network Growth](https://www.tradingview.com/news/newsbtc:dc277ef46094b:0-ethereum-sets-user-record-as-price-lags-far-behind-network-growth/)**
+**[Crypto's quantum threat is real and its driving diverging strategies across Bitcoin, Ethereum, Solana](https://www.coindesk.com/tech/2026/03/28/here-s-how-bitcoin-ethereum-and-other-networks-are-preparing-for-the-looming-quantum-threat)**
 
-BlackRock’s staked Ethereum fund pulled in $155 million on its first day of trading — more than the firm’s own Bitcoin ETF managed at launch. That number tells one part of Ethereum’s story in early 2026.The other part is harder to spin: the token itself has dropped more than 55% from its August 202…
+Across many of the most well-known ecosystems like Bitcoin, Ethereum, and Solana, responses are diverging along familiar lines: what to do on social consensus and technical iteration, and community members are split between caution and acceleration.
 
-TradingView • 5h ago
+CoinDesk • 35m ago
 
 ---
 
-**[Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week](https://finance.yahoo.com/markets/crypto/articles/why-crypto-crashing-bitcoin-xrp-140126480.html)**
+**[Watch out Bitcoin devs. Google says post-quantum migration needs to happen by 2029.](https://www.coindesk.com/tech/2026/03/28/watch-out-bitcoin-devs-google-says-post-quantum-migration-needs-to-happen-by-2029)**
 
-Bitcoin (CRYPTO: BTC), XRP (CRYPTO: XRP), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) are all down 6-8% in a week, and the crypto market has shed over $80 billion in value since March 24. The Fear & Greed Index sits at 23, and the average crypto RSI has dropped to 39—oversold territory that the market ... Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week
+The search giant set a corporate deadline to migrate all authentication services to quantum-resistant cryptography, validating the timeline Ethereum has been building toward for eight years. Bitcoin's response so far has been silence.
 
-Yahoo Finance • 1h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -196,35 +204,25 @@ The Block • 1d ago
 
 ---
 
+**[PANINI BLOCKCHAIN BRIDGE TO OPEN FOR BUSINESS](https://blog.paniniamerica.net/panini-blockchain-bridge-to-open-for-business/)**
+
+Panini America • 1d ago
+
+---
+
+**[First BlackRock, now Bitmine. Will Tom Lee’s Ethereum staking play save share price?](https://finance.yahoo.com/markets/crypto/articles/first-blackrock-now-bitmine-tom-100422887.html)**
+
+The Made In America VAlidator Network, Bitmine’s Ethereum staking product, is now live. Over 30% of Ethereum’s total circulating supply is now staked. Bitmine's shares are down 66% since October.
+
+Yahoo Finance • 2d ago
+
+---
+
 **[Bitcoin And Ethereum Outlook: Too Soon For A Crypto Bounce (BTC-USD)](https://seekingalpha.com/article/4886411-bitcoin-ethereum-outlook-too-soon-for-crypto-bounce)**
 
 While cryptos offer diversification from traditional asset movements, they are also highly sensitive to the gravity of risk aversion
 
 Seeking Alpha • 1d ago
-
----
-
-**[Ethereum vs. Solana: Which Crypto Has More Upside?](https://www.fool.com/investing/2026/03/28/ethereum-vs-solana-which-crypto-has-more-upside/)**
-
-Ethereum's vast ecosystem goes up against Solana's lightning-quick network.
-
-The Motley Fool • 5h ago
-
----
-
-**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1774686600)**
-
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 9h ago
-
----
-
-**[BitMine enters Ethereum staking race with new MAVAN platform – Details](https://ambcrypto.com/bitmine-enters-ethereum-staking-race-with-new-mavan-platform-details/)**
-
-BitMine launched the new MAVAN staking platform and plans to stake its entire 4.6 million ETH holdings on it, with the aim of generating...
-
-AMBCrypto • 1d ago
 
 ---
 
@@ -238,7 +236,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 299 • 👍 27 • 💬 16 • ⏱️ 11:06 • 1h ago
+👁️ 299 • 👍 27 • 💬 16 • ⏱️ 11:06 • 2h ago
 
 ---
 
@@ -258,7 +256,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 2K • 👍 97 • 💬 26 • ⏱️ 38:10 • 20h ago
+👁️ 2K • 👍 97 • 💬 26 • ⏱️ 38:10 • 21h ago
 
 ---
 
@@ -278,7 +276,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 2K • 👍 160 • 💬 37 • ⏱️ 14:22 • 22h ago
+👁️ 2K • 👍 160 • 💬 37 • ⏱️ 14:22 • 23h ago
 
 ---
 
@@ -298,7 +296,7 @@ BITCOIN & ALTCOIN CRASH: Price Target Confirmed!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 281 • 💬 111 • ⏱️ 19:00 • 16h ago
+👁️ 6K • 👍 281 • 💬 111 • ⏱️ 19:00 • 17h ago
 
 ---
 
@@ -308,7 +306,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 113 • 👍 10 • ⏱️ 4:28 • 4h ago
+👁️ 113 • 👍 10 • ⏱️ 4:28 • 5h ago
 
 ---
 
