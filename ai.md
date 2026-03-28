@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-28T10:44:38.895841+00:00'
+updated: '2026-03-28T11:29:11.902069+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- news
 - videos
 - social
-- news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 28, 2026 at 10:44 UTC  
+**Last Updated:** March 28, 2026 at 11:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 In April Congress is voting to extend the FISA Act on the 20th of April this year. The FISA Act allows the government to buy your emails, texts, and calls from corporations. With the newly established shady deal with Open AI surveillance has become even more accessible and applicable on a much more larger and invasive scale. It very important for the sake of maintaining our right of protest and the press in the future. Call/email your representatives in the US, protest, and speak in any way you can.
 
-7h ago
+8h ago
 
 ---
 
@@ -65,7 +65,7 @@ Anthropic warned about the AI model's cybersecurity risks in the leaked post as 
 
 I've spent the last year building NIMCP — a biologically-inspired artificial brain in C that trains six different neural network types simultaneously (spiking, liquid, convolutional, Fourier, Hamiltonian, adaptive) with gradient flow between them through learnable bridges. Some things that might be interesting to this crowd: - The SNN developed 26 Hz firing rates with 67% sparsity — within mammalian cortical range — without any regularization targeting those values. It emerged from cross-network training pressure. - Safety is structural, not behavioral. The ethics module is a function call in the inference code path, not a learned weight. It can't be fine-tuned away or jailbroken. The governance rules can only get stricter. You can verify this by reading the source. - The brain learns through curiosity: prediction error → dopamine → STDP gating. No reward function. - Training follows a 4-stage developmental curriculum (sensory → naming → feedback →reasoning). The training is currently in Stage 2. You can watch it train live on the website — metrics update every 60 seconds. - 2,600 source files, 240 Python API methods, 8 language bindings. The system runs on a single RTX 4000 (20 GB VRAM). Eight technical papers on the site covering the math, training methodology, safety architecture, and emergent dynamics. Code: https://github.com/redmage123/nimcp I am happy to answer questions about the architecture, training dynamics, or why I think growing intelligence through developmental stages might work differently than scaling transformers.
 
-7h ago
+8h ago
 
 ---
 
@@ -73,7 +73,7 @@ I've spent the last year building NIMCP — a biologically-inspired artificial b
 
 Just watched Hoppers and I’m surprised this hasn’t been picked up more widely. The parallels with AI and its risks are hard to ignore once you see them. A few things worth noting: The setup mirrors our current moment almost exactly. The lead scientist developing the world-changing technology is called Dr. Sam. Her invention lets humans cross a communication barrier that was previously impossible: entering the animal world through embodiment. LLMs did the same thing for the digital world. We can now navigate machines through natural language. The alignment problem is right there on screen. Mabel uses the technology to reach her goal, but the technology has its own logic and momentum. What it produces isn’t what she intended. The governance message is explicit. No single person or group should control a technology this powerful even when we have good intentions. The real cautionary tale in Hoppers isn’t aimed at the tech builders. It’s for the users, the ones who convince themselves that it is the only way to solve the world’s problems. The consequences in the film flow from that belief. Not from the tech itself. Curious if anyone else read it this way.
 
-🔗 [Pixar Animation Studios](https://www.pixar.com/hoppers) • 5h ago
+🔗 [Pixar Animation Studios](https://www.pixar.com/hoppers) • 6h ago
 
 ---
 
@@ -89,7 +89,7 @@ A federal judge told the government it could not immediately enforce a ban on An
 
 Found this site that tracks researchers and executives who left OpenAI, Google, Anthropic, and others over safety concerns. It's kind of amazing to see the patterns; concerns become really obvious across companies. I love AI but do want to see regulations. The interesting part: it extracts specific predictions the researchers made and tracks whether they come true. 4 confirmed, 1 disproven, 6 still open. I would think there are others, the number is not that high, but maybe also most people who leave do it quietly? What do you think? ethicalaidepartures.fyi
 
-11h ago
+12h ago
 
 ---
 
@@ -105,7 +105,7 @@ One part of the alignment problem is that AI does not genuinely understand what 
 
 I feel like, as the quality of the output has caught up with the level of creativity of those who use it, there is a bit of a thaw in the AI hostility. While still far from welcome generally, even here on Reddit I’ve seen many AI videos get grudging respect and even seen several on the front page, because the quality and creativity have won people over. Anyone else noticing the beginning of a trend?
 
-12h ago
+13h ago
 
 ---
 
@@ -133,7 +133,7 @@ fortune.com • 1d ago
 
 Exclusive: Research finds sharp rise in models evading safeguards and destroying emails without permission
 
-The Guardian • 22h ago
+The Guardian • 23h ago
 
 ---
 
@@ -141,13 +141,13 @@ The Guardian • 22h ago
 
 State lawmakers have been stepping in to regulate artificial intelligence, clashing with the federal government's inaction as concerns about oversight and safety grow.
 
-NPR • 1h ago
+NPR • 2h ago
 
 ---
 
 **[Should you trust AI to do your taxes?](https://www.fastcompany.com/91516786/should-you-trust-ai-to-help-do-your-taxes)**
 
-Fast Company • 38m ago
+Fast Company • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Fast Company • 38m ago
 
 Alpha School, a network of AI-based private schools will open a K-8 campus in the Chicago Loop in the fall. For 55,000 per year, lessons are delivered through AI-powered software and condensed into two hours.
 
-Chicago Tribune • 37m ago
+Chicago Tribune • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Atlantic • 1d ago
 
 **[The Decadelong Feud Shaping the Future of AI](https://www.wsj.com/tech/ai/the-decadelong-feud-shaping-the-future-of-ai-7075acde?gaa_at=eafs&gaa_n=AWEtsqcINb5uw-C4HKakgr699QJgQiylm9T9MviMjZ8xOYOA_xS7x93oZLI7&gaa_ts=69c7b47e&gaa_sig=JluW9QbOkbP3vhM7XnzGk3TzaB4q5jyg6JLflMbrXNtc1m3sxFIrgRuGQR-1gxR7ru6GXUtKYdoE0ubUCjpSMg%3D%3D)**
 
-WSJ • 8h ago
+WSJ • 9h ago
 
 ---
 
@@ -177,7 +177,7 @@ WSJ • 8h ago
 
 The biggest groups splashing their cash may not make their money back, but will almost certainly live to tell the tale
 
-Financial Times • 5h ago
+Financial Times • 6h ago
 
 ---
 
@@ -191,7 +191,7 @@ Bloomberg • 12h ago
 
 The cybersecurity sector has slumped this year on fears that new AI will massively disrupt their business models.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
@@ -263,7 +263,7 @@ Workflow orchestration for AI coding agents, from task to merged PR. - jonwiggin
 
 **[CERN uses tiny AI models burned into silicon for real-time LHC data filtering](https://news.ycombinator.com/item?id=47552562)**
 
-⬆️ 79 • 💬 50 • 2h ago • [theopenreader.org](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
+⬆️ 79 • 💬 50 • 3h ago • [theopenreader.org](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
 
 ---
 
@@ -303,7 +303,7 @@ Build your own AI agent team and automate your daily ops — try Accio Work FREE
 
 📺 Silicon Valley Girl
 
-👁️ 10K • 👍 429 • 💬 62 • ⏱️ 44:41 • 21h ago
+👁️ 10K • 👍 429 • 💬 62 • ⏱️ 44:41 • 22h ago
 
 ---
 
@@ -343,7 +343,7 @@ Here's the AI News you probably missed this week! Check out Genspark here: ...
 
 📺 Matt Wolfe
 
-👁️ 53K • 👍 3K • 💬 193 • ⏱️ 31:53 • 19h ago
+👁️ 53K • 👍 3K • 💬 193 • ⏱️ 31:53 • 20h ago
 
 ---
 
@@ -353,7 +353,7 @@ Hyperscalers have gone from the asset light cash machines to asset heavy behemot
 
 📺 The Tech Report
 
-👁️ 80K • 👍 4K • 💬 814 • ⏱️ 32:39 • 15h ago
+👁️ 80K • 👍 4K • 💬 814 • ⏱️ 32:39 • 16h ago
 
 ---
 
@@ -373,7 +373,7 @@ A quick look at the financials of AI products. Join the community ...
 
 📺 Awesome
 
-👁️ 21K • 👍 2K • 💬 130 • ⏱️ 4:56 • 18h ago
+👁️ 21K • 👍 2K • 💬 130 • ⏱️ 4:56 • 19h ago
 
 ---
 
@@ -661,7 +661,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 12.9k • 🔱 697 • 22h ago
+⭐ 12.9k • 🔱 697 • 23h ago
 
 ---
 
@@ -671,7 +671,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 8.2k • 🔱 669 • 1h ago
+⭐ 8.2k • 🔱 669 • 2h ago
 
 ---
 
@@ -691,7 +691,7 @@ AI-native design editor. Open-source Figma alternative.
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 302 • 15h ago
+⭐ 3.4k • 🔱 302 • 16h ago
 
 ---
 
@@ -701,7 +701,7 @@ Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messag
 
 `Go`
 
-⭐ 3.4k • 🔱 289 • 1h ago
+⭐ 3.4k • 🔱 289 • 2h ago
 
 ---
 
@@ -729,7 +729,7 @@ SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 
 `Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
 
-⭐ 2.9k • 🔱 483 • 20h ago
+⭐ 2.9k • 🔱 483 • 21h ago
 
 ---
 

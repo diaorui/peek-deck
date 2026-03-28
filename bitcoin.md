@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-28T10:44:38.906217+00:00'
+updated: '2026-03-28T11:29:11.910666+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- social
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 28, 2026 at 10:44 UTC  
+**Last Updated:** March 28, 2026 at 11:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 I was a junior in highschool, and BTC came up in the same conversations as Octopussy. My friends and i heard that for like $5 we could get a bunch of btc and someone on the dark web might actually send us drugs. At the time the cheapest hit of wholesale 'cid i could get was $2 a tab, $50 for the sheet. So if this worked, it would 10X my profit. The acid came in a birthday card. I was amazed but didn't bother to continue with it. The person who introduced me to the whole concept also accepted my measly $5 and bought the BTC. Yes, he has quite a few left over and continued to be involved long term, didn't work much after highschool. I first remembered my involvement in Btc when it hit $4K. Couldn't believe it, but bought a little just for nostalgia. Then at $8K i bought more but not much, because who tf thought it would ever get to $8 fucking K. When it hit $16K i started dollar-cost averaging weekly deposits. No regrets. I'm happy to be in at all, some people STILL don't hold any BTC. In b4, just like all of you 🤝
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ I was a junior in highschool, and BTC came up in the same conversations as Octop
 
 been watching the charts and bitcoin is sitting at what looks like a 40% drop from recent highs. feels like this might be teh moment to make a substantial buy instead of my usual small dca amounts. anyone else considering making moves right now or am i getting too greedy? trying to figure out if this dip is worth changing up my strategy for.
 
-10h ago
+11h ago
 
 ---
 
@@ -97,7 +97,7 @@ been watching the charts and bitcoin is sitting at what looks like a 40% drop fr
 
 I have a feeling that UPril will be even better. Get your moon boots ready.
 
-12h ago
+13h ago
 
 ---
 
@@ -105,7 +105,7 @@ I have a feeling that UPril will be even better. Get your moon boots ready.
 
 When all my money is already in sats, it’s just easier to spend it directly instead of converting it to usd and spending that 🤷‍♂️
 
-18h ago
+19h ago
 
 ---
 
@@ -113,7 +113,7 @@ When all my money is already in sats, it’s just easier to spend it directly in
 
 Everyone outside crypto thinks it’s: Fast money Crazy gains Constant action But if you’ve been here for a while, you know the truth… Most of crypto is just: Waiting Not touching your portfolio Ignoring noise Watching others panic The real game isn’t buying. It’s holding without doing something stupid. The people who win aren’t the smartest. They’re usually the ones who: Don’t overtrade Don’t chase every new coin Don’t panic sell It sounds boring because it is. But boring is where most money is made. Meanwhile: Beginners want excitement Veterans want consistency Question: What’s harder for you — buying at the right time or just holding after you buy?
 
-6h ago
+7h ago
 
 ---
 
@@ -129,7 +129,7 @@ Onramp's Brian Cubellis also point out the difference between the latent demand 
 
 so i've been getting these random coinbase notifications for months and finally decided to check what was going on. remembered i had maybe like 7 bucks sitting there from way back when i bought something online that required bitcoin logged into my account expecting to see basically nothing and there's over 2400 sitting there. took me a minute to process what i was looking at did some digging and apparently that leftover change was from late 2015 when i made some random purchase. crazy how that small amount just sat there growing now i'm kicking myself thinking about what would've happened if i had been putting even 10 bucks aside every couple weeks since then. the math is pretty wild when you run those numbers probably gonna leave it alone and see where it goes from here. not really planning to touch it anytime soon
 
-19h ago
+20h ago
 
 ---
 
@@ -137,7 +137,7 @@ so i've been getting these random coinbase notifications for months and finally 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
 
 ---
 
@@ -145,7 +145,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Each paycheck is now worth ~0.19% of my total sats. I have been in the space a bit. I am a little dead inside due to "same shit different day" mentality in this space. The price is getting smaller. I see the typical calls for people to hodl on or jump in or increase DCA. Quality memes are nowhere to be found. It reminds me of past bear cycles. What helps me during times like this is to remember the fundamentals. Nothing has changed. Blocks are still being solved about every 10 minutes. Code is still being written. Proposals are still being discussed/modified/dropped/fought over. Bitcoin is still based on real-world resources. People are still saying that bitcoin is dead/dying/ponzi scheme. People I know that make 3-5x my salary still think it is only used to wash dirty money. I have no grand secret or huge life lesson for you, simply because bitcoin is boring (also its most important feature). The messaging is always the same. Adopt a low time preference. I hope it helps some of the newer hodlers here who are planning to stay. The panic and self-doubt you feel will pass. And you will do it again, and it will pass again and so on. P.S. Do not leverage trade to try and catch up.
 
-19h ago
+20h ago
 
 ---
 
@@ -175,7 +175,7 @@ Everything is created with good intention and positive vibes for children
 If you enjoy our videos, please Subscribe and Support ❤️
 Thank you for being part of our Hulk Learning Family 💚
 
-🔗 [YouTube](https://youtube.com/@hulklearning?si=9dsGaQaam2vb2O25) • 16m ago
+🔗 [YouTube](https://youtube.com/@hulklearning?si=9dsGaQaam2vb2O25) • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ CoinDesk • 8h ago
 
 The model could significantly heighten cybersecurity risks by rapidly finding and exploiting software vulnerabilities, potentially accelerating a cyber arms race.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -203,13 +203,13 @@ CoinDesk • 20h ago
 
 Bittensor's unique ecosystem is exciting, and it could just be getting started.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
 **[Bitcoin Skids, $14 Bil. In Options Due; Cathie Wood Raises Cash](https://www.investors.com/news/bitcoin-price-options-expire-14-billion-liquidations-cathie-wood-ark-invest/)**
 
-Investor's Business Daily • 12h ago
+Investor's Business Daily • 13h ago
 
 ---
 
@@ -217,7 +217,7 @@ Investor's Business Daily • 12h ago
 
 These two assets don't need to be mutually exclusive, but that doesn't mean they're equal.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -225,7 +225,7 @@ The Motley Fool • 2h ago
 
 Bitcoin (BTC) has shed all its March gains, currently down 1.40% on the monthly chart and 24.6% for the first quarter of 2026. Bitcoin’s longer-term performance aligns with a deep drawdown cycle for BTC, which may extend until the end of 2026 and many analysts expect another 40% drop in price.This…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
@@ -233,7 +233,7 @@ TradingView • 2h ago
 
 These two assets don't need to be mutually exclusive, but that doesn't mean they're equal.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -241,7 +241,7 @@ Yahoo Finance • 2h ago
 
 Demand for bitcoin as a corporate treasury asset is once again concentrated in Michael Saylor's Strategy as the company steps up its bitcoin buying pace.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
@@ -255,7 +255,7 @@ Bloomberg • 14h ago
 
 Bitcoin is no longer driven by scarcity-based models; its price now tracks demand dynamics and correlates with high-beta tech indices. Learn more about BTC-USD here.
 
-Seeking Alpha • 22h ago
+Seeking Alpha • 23h ago
 
 ---
 
@@ -309,7 +309,7 @@ Once upon a time, Bitcoin used to have god candles (and epic crashes) all on its
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 19K • 👍 1K • 💬 115 • ⏱️ 8:32 • 13h ago
+👁️ 19K • 👍 1K • 💬 115 • ⏱️ 8:32 • 14h ago
 
 ---
 
@@ -329,7 +329,7 @@ all my life is bitcoin, literally. I had moments where I thought I was ruining m
 
 📺 BTC Isla
 
-👁️ 11K • 👍 1K • 💬 290 • ⏱️ 10:32 • 19h ago
+👁️ 11K • 👍 1K • 💬 290 • ⏱️ 10:32 • 20h ago
 
 ---
 
@@ -339,7 +339,7 @@ Something is changing in the Bitcoin market—and most people are completely mis
 
 📺 Tim Talks Finance
 
-👁️ 6K • 👍 293 • 💬 66 • ⏱️ 12:25 • 16h ago
+👁️ 6K • 👍 293 • 💬 66 • ⏱️ 12:25 • 17h ago
 
 ---
 
@@ -359,7 +359,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 5K • 👍 428 • 💬 30 • ⏱️ 9:31 • 5h ago
+👁️ 5K • 👍 428 • 💬 30 • ⏱️ 9:31 • 6h ago
 
 ---
 
@@ -369,7 +369,7 @@ Are Bitcoin and the S&P 500 on the verge of a massive breakdown? In this urgent 
 
 📺 Gareth Soloway
 
-👁️ 69K • 👍 4K • 💬 577 • ⏱️ 9:48 • 22h ago
+👁️ 69K • 👍 4K • 💬 577 • ⏱️ 9:48 • 23h ago
 
 ---
 
@@ -379,7 +379,7 @@ ESTE es el ANÁLISIS TÉCNICO de BITCOIN HOY y TODAS sus NOTICIAS! ¿BTC va a SU
 
 📺 Alejo Rolls
 
-👁️ 6K • 👍 539 • 💬 17 • ⏱️ 13:13 • 11h ago
+👁️ 6K • 👍 539 • 💬 17 • ⏱️ 13:13 • 12h ago
 
 ---
 
@@ -399,7 +399,7 @@ Bitcoin Breakdown (This Is Next) My Free Telegram Groups: Platinum Group: https:
 
 📺 Mister Crypto
 
-👁️ 929 • 👍 69 • 💬 39 • ⏱️ 10:27 • 5h ago
+👁️ 929 • 👍 69 • 💬 39 • ⏱️ 10:27 • 6h ago
 
 ---
 
