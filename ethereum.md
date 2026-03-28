@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-28T18:53:22.248681+00:00'
+updated: '2026-03-28T19:31:22.993650+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 28, 2026 at 18:53 UTC  
+**Last Updated:** March 28, 2026 at 19:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -44,9 +44,9 @@ Live Ethereum monitoring dashboard
 
 **24h:** +1.7%  
 **7d:** -1.6%  
-**30d:** +4.6%  
+**30d:** +4.7%  
 **90d:** -31.3%  
-**1y:** +10.4%  
+**1y:** +10.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I Built a Privacy-Preserving Bitcoin transaction Receipt Verifier (No KYC, No Screenshots, No wallet). https://github.com/Teycir/Ghostreceipt Would like to have feedback.
 
-22h ago
+23h ago
 
 ---
 
@@ -154,13 +154,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 "The issue is whether or not people support CROPS and going in that direction, the issue is how the EF is going about it,” Optimism's Mark Tyneway said.
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqeCfuk4wnS05P7TTpQFzeOHsNo6XjuaD8eBhUmZm8hRdcWSRIAOhprN&gaa_ts=69c81a16&gaa_sig=DMFAJwnWirZewjlkVaas2D-96JXozWvEfyufQCoz5WXSRR8i9iUzoBjoMfCxD6sE63q3evFxccU29LiPt1NGRg%3D%3D)**
+**[Bitcoin, Ethereum Slip as Trump Says He's 'Not Desperate' to End Iran War](https://decrypt.co/362516/bitcoin-ethereum-slip-as-trump-says-hes-not-desperate-to-end-iran-war)**
 
-Barron's • 2d ago
+Bitcoin fell alongside stocks as investors weighed conflicting accounts regarding Iran’s willingness to end conflict in the Middle East.
+
+Decrypt • 1d ago
 
 ---
 
@@ -168,23 +170,21 @@ Barron's • 2d ago
 
 Across many of the most well-known ecosystems like Bitcoin, Ethereum, and Solana, responses are diverging along familiar lines: what to do on social consensus and technical iteration, and community members are split between caution and acceleration.
 
-coindesk.com • 2h ago
+coindesk.com • 3h ago
 
 ---
 
-**[Bitcoin, Ethereum Slip as Trump Says He's 'Not Desperate' to End Iran War](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-slip-trump-says-204125072.html)**
+**[Ethereum Price Falls Below Psychological $2,000 Support — What Next?](https://www.tradingview.com/news/newsbtc:82872d696094b:0-ethereum-price-falls-below-psychological-2-000-support-what-next/)**
 
-Bitcoin fell alongside stocks as investors weighed conflicting accounts regarding Iran’s willingness to end conflict in the Middle East.
+After a show of resilience over the past few weeks, the Ethereum price finally gave way, falling below the $2,000 level for the first time since March 10th. The “King of Altcoins” succumbed to the downward pressure that spread across the global financial markets on Friday, March 27th, as the geopol…
 
-Yahoo Finance • 1d ago
+TradingView • 1h ago
 
 ---
 
-**[Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week](https://finance.yahoo.com/markets/crypto/articles/why-crypto-crashing-bitcoin-xrp-140126480.html)**
+**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqdm_TNwPtnEl-QjelL26jCYaKcnphsvxZ9o7OtGt1rmVNddWALvDyng&gaa_ts=69c82feb&gaa_sig=bs_A6cr6DDRAkCgy5VheUsR-pEJhFyYBvDkwyYxjxumelaAqqoG-ZI2_YlPLNOSf_QQVVghSaG2OCk4jEbb2rQ%3D%3D)**
 
-Bitcoin (CRYPTO: BTC), XRP (CRYPTO: XRP), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) are all down 6-8% in a week, and the crypto market has shed over $80 billion in value since March 24. The Fear & Greed Index sits at 23, and the average crypto RSI has dropped to 39—oversold territory that the market ... Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week
-
-Yahoo Finance • 4h ago
+Barron's • 2d ago
 
 ---
 
@@ -194,11 +194,11 @@ Panini America • 1d ago
 
 ---
 
-**[Bitcoin And Ethereum Outlook: Too Soon For A Crypto Bounce (BTC-USD)](https://seekingalpha.com/article/4886411-bitcoin-ethereum-outlook-too-soon-for-crypto-bounce)**
+**[First BlackRock, now Bitmine. Will Tom Lee’s Ethereum staking play save share price?](https://finance.yahoo.com/markets/crypto/articles/first-blackrock-now-bitmine-tom-100422887.html)**
 
-While cryptos offer diversification from traditional asset movements, they are also highly sensitive to the gravity of risk aversion
+The Made In America VAlidator Network, Bitmine’s Ethereum staking product, is now live. Over 30% of Ethereum’s total circulating supply is now staked. Bitmine's shares are down 66% since October.
 
-Seeking Alpha • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -206,21 +206,23 @@ Seeking Alpha • 1d ago
 
 Ethereum's vast ecosystem goes up against Solana's lightning-quick network.
 
-The Motley Fool • 8h ago
+The Motley Fool • 9h ago
 
 ---
 
-**[These 4 Charts Suggest That Ethereum (ETH) Price Has Hit Peak Pain This Cycle](https://www.ccn.com/analysis/crypto/these-charts-suggest-ethereum-price-hit-peak-pain/)**
+**[Current price of Ethereum for March 27, 2026](https://fortune.com/article/price-of-ethereum-03-27-2026/)**
 
-CCN.com • 7h ago
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1d ago
 
 ---
 
-**[Ethereum Up or Down - 15 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-15m-1774711800)**
+**[Ethereum Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1774679700)**
 
-Ethereum Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 5h ago
+Polymarket • 1d ago
 
 ---
 
@@ -234,7 +236,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 906 • 👍 60 • 💬 19 • ⏱️ 11:06 • 4h ago
+👁️ 906 • 👍 60 • 💬 19 • ⏱️ 11:06 • 5h ago
 
 ---
 
@@ -254,7 +256,7 @@ Can a free Ethereum method really generate ETH or is it just another fake crypto
 
 📺 KYLE MADDOX
 
-👁️ 313 • 👍 302 • 💬 8 • ⏱️ 5:57 • 1h ago
+👁️ 313 • 👍 302 • 💬 8 • ⏱️ 5:57 • 2h ago
 
 ---
 
@@ -294,7 +296,7 @@ BITCOIN & ALTCOIN CRASH: Price Target Confirmed!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 7K • 👍 286 • 💬 112 • ⏱️ 19:00 • 19h ago
+👁️ 7K • 👍 286 • 💬 112 • ⏱️ 19:00 • 20h ago
 
 ---
 
@@ -304,7 +306,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free https://go.ted
 
 📺 MONEY GAME
 
-👁️ 6K • 👍 245 • 💬 35 • ⏱️ 12:42 • 2d ago
+👁️ 6K • 👍 245 • 💬 35 • ⏱️ 12:42 • 3d ago
 
 ---
 
@@ -314,7 +316,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 159 • 👍 13 • ⏱️ 4:28 • 7h ago
+👁️ 159 • 👍 13 • ⏱️ 4:28 • 8h ago
 
 ---
 

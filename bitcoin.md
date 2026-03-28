@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-28T18:53:22.241811+00:00'
+updated: '2026-03-28T19:31:22.987645+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 28, 2026 at 18:53 UTC  
+**Last Updated:** March 28, 2026 at 19:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,8 +44,8 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.4%  
-**7d:** -1.6%  
+**24h:** +1.1%  
+**7d:** -1.5%  
 **30d:** +1.4%  
 **90d:** -23.4%  
 **1y:** -19.1%  
@@ -77,17 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[I bought a sheet of acid for 10 BTC in 2012. It doesn't haunt me as much as you'd think.](https://www.reddit.com/r/Bitcoin/comments/1s5sg3c/i_bought_a_sheet_of_acid_for_10_btc_in_2012_it/)**
-
-I was a junior in highschool, and BTC came up in the same conversations as Octopussy. My friends and i heard that for like $5 we could get a bunch of btc and someone on the dark web might actually send us drugs. At the time the cheapest hit of wholesale 'cid i could get was $2 a tab, $50 for the sheet. So if this worked, it would 10X my profit. The acid came in a birthday card. I was amazed but didn't bother to continue with it. The person who introduced me to the whole concept also accepted my measly $5 and bought the BTC. Yes, he has quite a few left over and continued to be involved long term, didn't work much after highschool. I first remembered my involvement in Btc when it hit $4K. Couldn't believe it, but bought a little just for nostalgia. Then at $8K i bought more but not much, because who tf thought it would ever get to $8 fucking K. When it hit $16K i started dollar-cost averaging weekly deposits. No regrets. I'm happy to be in at all, some people STILL don't hold any BTC. In b4, just like all of you 🤝
-
-12h ago
-
----
-
 **[Just explained to my friend again, how red months are the best opportunity to buy more bitcoin. I think he finally gets it.](https://www.reddit.com/r/Bitcoin/comments/1s60e4s/just_explained_to_my_friend_again_how_red_months/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -99,11 +91,27 @@ So I got curious about what happens if you just buy bitcoin and forget about it 
 
 ---
 
+**[I bought a sheet of acid for 10 BTC in 2012. It doesn't haunt me as much as you'd think.](https://www.reddit.com/r/Bitcoin/comments/1s5sg3c/i_bought_a_sheet_of_acid_for_10_btc_in_2012_it/)**
+
+I was a junior in highschool, and BTC came up in the same conversations as Octopussy. My friends and i heard that for like $5 we could get a bunch of btc and someone on the dark web might actually send us drugs. At the time the cheapest hit of wholesale 'cid i could get was $2 a tab, $50 for the sheet. So if this worked, it would 10X my profit. The acid came in a birthday card. I was amazed but didn't bother to continue with it. The person who introduced me to the whole concept also accepted my measly $5 and bought the BTC. Yes, he has quite a few left over and continued to be involved long term, didn't work much after highschool. I first remembered my involvement in Btc when it hit $4K. Couldn't believe it, but bought a little just for nostalgia. Then at $8K i bought more but not much, because who tf thought it would ever get to $8 fucking K. When it hit $16K i started dollar-cost averaging weekly deposits. No regrets. I'm happy to be in at all, some people STILL don't hold any BTC. In b4, just like all of you 🤝
+
+13h ago
+
+---
+
 **[GameStop Maintains Bitcoin Holdings, According To Latest SEC Filing](https://www.reddit.com/r/Bitcoin/comments/1s5ywhm/gamestop_maintains_bitcoin_holdings_according_to/)**
 
 By collateralizing the 4,709 BTC with Coinbase Credit, GameStop gains liquidity and flexibility while still benefiting from any future appreciation in Bitcoin’s value.
 
-🔗 [Crowdfund Insider](https://www.crowdfundinsider.com/2026/03/269429-gamestop-maintains-bitcoin-holdings-according-to-latest-sec-filing/) • 6h ago
+🔗 [Crowdfund Insider](https://www.crowdfundinsider.com/2026/03/269429-gamestop-maintains-bitcoin-holdings-according-to-latest-sec-filing/) • 7h ago
+
+---
+
+**[Unrealized losses aren't real losses](https://www.reddit.com/r/Bitcoin/comments/1s63h5d/unrealized_losses_arent_real_losses/)**
+
+You haven't actually lost anything until you hit that sell button. It's wild how many people, particularly newcomers, treat a 30% dip like it's the apocalypse. Looking beyond crypto for a second - traditional markets go through downturns roughly every decade. Way too many jumped into bitcoin expecting it to be some magical asset that defies gravity forever, instead of understanding it's volatile like any other investment. If you're celebrating when BTC hits $130k or $150k, then you better have the stomach for when it drops back to $60k or even $40k. That's just how this works.
+
+3h ago
 
 ---
 
@@ -111,7 +119,7 @@ By collateralizing the 4,709 BTC with Coinbase Credit, GameStop gains liquidity 
 
 been watching the charts and bitcoin is sitting at what looks like a 40% drop from recent highs. feels like this might be teh moment to make a substantial buy instead of my usual small dca amounts. anyone else considering making moves right now or am i getting too greedy? trying to figure out if this dip is worth changing up my strategy for.
 
-18h ago
+19h ago
 
 ---
 
@@ -119,7 +127,15 @@ been watching the charts and bitcoin is sitting at what looks like a 40% drop fr
 
 Everyone outside crypto thinks it’s: Fast money Crazy gains Constant action But if you’ve been here for a while, you know the truth… Most of crypto is just: Waiting Not touching your portfolio Ignoring noise Watching others panic The real game isn’t buying. It’s holding without doing something stupid. The people who win aren’t the smartest. They’re usually the ones who: Don’t overtrade Don’t chase every new coin Don’t panic sell It sounds boring because it is. But boring is where most money is made. Meanwhile: Beginners want excitement Veterans want consistency Question: What’s harder for you — buying at the right time or just holding after you buy?
 
-14h ago
+15h ago
+
+---
+
+**[Buy Bitcoins with PayPal (using CoinPal)](https://www.reddit.com/r/Bitcoin/comments/1s61ehx/buy_bitcoins_with_paypal_using_coinpal/)**
+
+Ended up down the rabbit hole of nostalgia. Imagine buying 10 bitcoins for $3.48, video recording it and posting on the web.
+
+🔗 [youtu.be](https://youtu.be/YmPg4V-YE0k) • 5h ago
 
 ---
 
@@ -131,27 +147,11 @@ When all my money is already in sats, it’s just easier to spend it directly in
 
 ---
 
-**[Buy Bitcoins with PayPal (using CoinPal)](https://www.reddit.com/r/Bitcoin/comments/1s61ehx/buy_bitcoins_with_paypal_using_coinpal/)**
-
-Ended up down the rabbit hole of nostalgia. Imagine buying 10 bitcoins for $3.48, video recording it and posting on the web.
-
-🔗 [youtu.be](https://youtu.be/YmPg4V-YE0k) • 4h ago
-
----
-
 **[Just landed in Straya. We're sooo backkk!](https://www.reddit.com/r/Bitcoin/comments/1s5i1fs/just_landed_in_straya_were_sooo_backkk/)**
 
 I have a feeling that UPril will be even better. Get your moon boots ready.
 
-20h ago
-
----
-
-**[Daily Discussion, March 28, 2026](https://www.reddit.com/r/Bitcoin/comments/1s5sjhn/daily_discussion_march_28_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-12h ago
+21h ago
 
 ---
 
@@ -163,7 +163,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 From churches allowing congregants to tithe with digital coins to blogs promoting bitcoin as biblically sound, there’s an emerging Christian crypto subculture.
 
-NBC News • 7h ago
+NBC News • 8h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 2h ago
 
 In the last week, Bitcoin prices fell to around $65,000, resulting in a net loss of 6.74%. This recent decline underlines the asset’s struggles in March, which, despite periods of attempted price breakout, has witnessed an equal or greater pullback, producing a current net monthly loss of 4.4%. Ami…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
@@ -195,7 +195,19 @@ TradingView • 2h ago
 
 Across many of the most well-known ecosystems like Bitcoin, Ethereum, and Solana, responses are diverging along familiar lines: what to do on social consensus and technical iteration, and community members are split between caution and acceleration.
 
-coindesk.com • 2h ago
+coindesk.com • 3h ago
+
+---
+
+**[Bitcoin Slumps With Options Showing Traders Turning Defensive](https://www.bloomberg.com/news/articles/2026-03-27/bitcoin-slumps-with-options-showing-traders-turning-defensive)**
+
+Bloomberg.com • 23h ago
+
+---
+
+**[Bitcoin Skids, $14 Bil. In Options Due; Cathie Wood Raises Cash](https://www.investors.com/news/bitcoin-price-options-expire-14-billion-liquidations-cathie-wood-ark-invest/)**
+
+Investor's Business Daily • 21h ago
 
 ---
 
@@ -220,20 +232,6 @@ CNBC • 1d ago
 Bitcoin is no longer driven by scarcity-based models; its price now tracks demand dynamics and correlates with high-beta tech indices. Learn more about BTC-USD here.
 
 Seeking Alpha • 1d ago
-
----
-
-**[5 long, loud years: Neighbor, county leader ready for Bitcoin mine shutdown](https://www.wjhl.com/news/local/5-long-loud-years-neighbor-county-leader-ready-for-bitcoin-mine-shutdown/)**
-
-wjhl.com • 1d ago
-
----
-
-**[Morgan Stanley enters bitcoin ETF race with market-leading low fee](https://www.coindesk.com/markets/2026/03/27/morgan-stanley-enters-bitcoin-etf-race-with-market-leading-low-fee)**
-
-The bank priced its proposed spot bitcoin fund at 14 basis points, making it the lowest fund on the market, if approved.
-
-coindesk.com • 22h ago
 
 ---
 
@@ -279,7 +277,7 @@ Once upon a time, Bitcoin used to have god candles (and epic crashes) all on its
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 23K • 👍 1K • 💬 165 • ⏱️ 8:32 • 21h ago
+👁️ 23K • 👍 1K • 💬 165 • ⏱️ 8:32 • 22h ago
 
 ---
 

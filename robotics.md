@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-28T18:53:22.252316+00:00'
+updated: '2026-03-28T19:31:22.996776+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 28, 2026 at 18:53 UTC  
+**Last Updated:** March 28, 2026 at 19:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,15 +42,7 @@ Robotics research and industry news
 
 TechCrunch: Physical Intelligence is reportedly in talks to raise $1 billion, again: https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/
 
-6h ago
-
----
-
-**[Issue in importing into isaac sim/lab](https://www.reddit.com/r/robotics/comments/1s5ssgu/issue_in_importing_into_isaac_simlab/)**
-
-i have spent the past 2 months to design this arm in fusion, and now i am facing an issue on how to export this to isaac sim/ specifically the gripper, since it a 4 bar mechanism actuated with 3 gears. i thought of writing my own scripts of MJCF(because it supports kinematic loops), and then importing it in isaac sim
-
-12h ago
+7h ago
 
 ---
 
@@ -62,11 +54,25 @@ For the robot arm, we're running a segmentation model that benchmarks at a rock-
 
 ---
 
+**[Issue in importing into isaac sim/lab](https://www.reddit.com/r/robotics/comments/1s5ssgu/issue_in_importing_into_isaac_simlab/)**
+
+i have spent the past 2 months to design this arm in fusion, and now i am facing an issue on how to export this to isaac sim/ specifically the gripper, since it a 4 bar mechanism actuated with 3 gears. i thought of writing my own scripts of MJCF(because it supports kinematic loops), and then importing it in isaac sim
+
+13h ago
+
+---
+
 **["Jack of all trades, master of none" -Humanoid Robots](https://www.reddit.com/r/robotics/comments/1s60bdn/jack_of_all_trades_master_of_none_humanoid_robots/)**
 
 There is the argument that humanoid robots are the future because they're generalists and their humanoid form means they can do whatever humans were doing. And while that is theoretically true, it misses an important point: Generality is only good if it performs better and more cost-effectively than the specialist machines in those tasks. I haven't seen anything to support the idea that humanoid form would necessarily surpass that threshold for many tasks. It can easily end up doing a mediocre job at many tasks because its lower productively delivers less profit per dollar spent on the machinery compared to specialist machines, and its form can never get as efficient as non-humanoid specialist machines. The "economies of scale" argument usually gets propositioned where economies of scale would lower the prices of humanoid robots so much that it would make it the more cost-effective option. However: Specialized machines can also experience economies of scale Economies of scale only bring down the price so much (the cost per unit decrease is not infinitely proportional based on how many units are produced, at some point the cost savings level off and can even revert) Simpler machinery and manufacturing of a specialized machine can mean lower fixed costs compared to the more complex manufacturing of a humanoid robot, meaning economies of scale could result in a lower cost being spread across many units for the former rather than the latter, making the former cheaper than the latter. Even if the humanoid robot is cheaper, the higher productivity and profitability of specialized machines may justify and make purchasing specialized machines the more fruitful endeavor. Saying humanoid robots will experience such cost savings from economies of scale assumes they'd be so favored by buyers that lots of units would be produced in the first place. To understand the limits of generalist technology, take this analogy: Instead of having a knife, fork, spoon, spatula, pizza cutter, etc. you could use a spork to serve in place of all those things. A spork would be cheaper, especially since you don't have to buy more utensils and clean and wash more, and it benefits from economies of scale, but a spork does a pretty mediocre job at all those tasks, it does not master them as effectively as those more specialized utensils. This is why in large part most people do not use a spork for most food tasks, and if it is good for anything it is only in a few highly specific occasions. A spork in this sense is a "Jack of all trades, master of none," where it can do many food tasks, but all in a mediocre fashion. A humanoid robot may very well end up the same, where it can do many tasks, but not in a more cost-effective manner.
 
-5h ago
+6h ago
+
+---
+
+**[How to couple the 3D printed wheels with motor?](https://www.reddit.com/r/robotics/comments/1s69icy/how_to_couple_the_3d_printed_wheels_with_motor/)**
+
+5m ago
 
 ---
 
@@ -100,19 +106,13 @@ I didn't use the T265; instead, I chose the RoboBaton mini to control the car's 
 
 ---
 
-**[Demo of Agibot’s wheeled A2 depalleting](https://www.reddit.com/r/robotics/comments/1s4spdj/demo_of_agibots_wheeled_a2_depalleting/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
 **[AI Robotics Lab in Talks to Raise $1 Billion at $11 Billion Valuation](https://www.bloomberg.com/news/articles/2026-03-27/ex-deepmind-staffers-robotics-startup-in-talks-for-11-billion-valuation)**
 
-bloomberg.com • 21h ago
+Bloomberg.com • 22h ago
 
 ---
 
@@ -128,15 +128,15 @@ CNBC • 2d ago
 
 Roadrunner moves in-line, on one wheel, or two to stay nimble and on the go. Plus NASA's SkyFall Mars helicopters and MoonFall mission are gearing up.
 
-spectrum.ieee.org • 1d ago
+IEEE Spectrum • 1d ago
 
 ---
 
-**[China's humanoid robot blinks and emotes during conversations](https://interestingengineering.com/ai-robotics/lifelike-humanoid-robot-sparks-debate)**
+**[Scientists design living robots with intelligent neurons](https://3dvf.com/en/scientists-design-living-robots-with-intelligent-neurons/)**
 
-China’s robotics industry is shifting toward hyperrealistic humanoid faces, focusing on emotional interaction and social acceptance.
+When a robot's next move comes from living tissue, what counts as programming? In one lab, tiny hand-built creatures are lighting up and roaming in ways their makers never wrote into code.
 
-Interesting Engineering • 2d ago
+3DVF • 2h ago
 
 ---
 
@@ -154,22 +154,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Delivery robots keep crashing into bus shelters](https://www.popsci.com/technology/delivery-robots-crash-bus-shelters/)**
-
-It's been a bad week for burritos on wheels.
-
-Popular Science • 2d ago
-
----
-
-**[Amazon Eyes Delivery Robots as MIT Tackles Warehouse Bottlenecks](https://www.pymnts.com/amazon/2026/amazon-eyes-delivery-robots-as-mit-tackles-warehouse-bottlenecks/)**
-
-Amazon has spent more than a decade automating its logistics network. The company has already deployed more than 1 million robots across its operations,
-
-PYMNTS.com • 1d ago
-
----
-
 **[Delivery robots smash Chicago bus shelters in two separate incidents](https://www.upi.com/Odd_News/2026/03/26/Chicago-delivery-robots-bus-shelters/4041774539291/)**
 
 Two delivery robots crashed into two bus shelters in Chicago within a matter of days -- and one of the incidents was caught on camera.
@@ -178,11 +162,27 @@ upi.com • 2d ago
 
 ---
 
-**[Snail-inspired robots use slime-like motion for precise cancer drug delivery](https://interestingengineering.com/ai-robotics/snail-inspired-robots-cancer-drug-delivery)**
+**[Amazon Eyes Delivery Robots as MIT Tackles Warehouse Bottlenecks](https://www.pymnts.com/amazon/2026/amazon-eyes-delivery-robots-as-mit-tackles-warehouse-bottlenecks/)**
 
-Snail-inspired robots aim to deliver cancer drugs precisely to tumors, reducing side effects and improving outcomes.
+Amazon has spent more than a decade automating its logistics network. The company has already deployed more than 1 million robots across its operations,
 
-Interesting Engineering • 18h ago
+pymnts.com • 1d ago
+
+---
+
+**[Delivery robots keep crashing into bus shelters](https://www.popsci.com/technology/delivery-robots-crash-bus-shelters/)**
+
+It's been a bad week for burritos on wheels.
+
+Popular Science • 2d ago
+
+---
+
+**[Panama Remote Robotic Stroke Procedure Drawing International Attention](https://ticotimes.net/2026/03/27/panama-remote-robotic-stroke-procedure-drawing-international-attention)**
+
+Learn about the Panama robotic stroke procedure, the first of its kind, combining robotic technology with remote surgical expertise.
+
+The Tico Times • 18h ago
 
 ---
 
@@ -206,7 +206,7 @@ Melania Trump suggested using humanoid AI robots like a “Plato” educator to 
 
 📺 Farron Balanced
 
-👁️ 35K • 👍 3K • 💬 806 • ⏱️ 5:10 • 1d ago
+👁️ 35K • 👍 3K • 💬 806 • ⏱️ 5:10 • 2d ago
 
 ---
 
@@ -276,7 +276,7 @@ War Robots Gameplay: NEW Robot ANAKSOR - First Try on Live Server My War Robots 
 
 📺 Manni-Gaming
 
-👁️ 3K • 👍 203 • 💬 40 • ⏱️ 19:34 • 4h ago
+👁️ 3K • 👍 203 • 💬 40 • ⏱️ 19:34 • 5h ago
 
 ---
 
