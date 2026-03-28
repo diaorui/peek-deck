@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-27T23:34:10.049496+00:00'
+updated: '2026-03-28T02:13:32.147289+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - cryptocurrency
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 27, 2026 at 23:34 UTC  
+**Last Updated:** March 28, 2026 at 02:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.7%  
-**7d:** -4.6%  
-**30d:** -1.9%  
-**90d:** -32.7%  
-**1y:** +4.9%  
+**24h:** -3.3%  
+**7d:** -3.0%  
+**30d:** +3.2%  
+**90d:** -32.2%  
+**1y:** +8.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $239.95B
+**Market Cap:** $240.18B
 Rank #2
 
-**Circulating Supply:** 120,691,514 ETH
+**Circulating Supply:** 120,691,485 ETH
 No max supply
 
 **All-Time High:** $4,946.05
 -59.8%
 
 **All-Time Low:** $0.43
-+459060.8%
++459504.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+21h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I Built a Privacy-Preserving Bitcoin transaction Receipt Verifier (No KYC, No Screenshots, No wallet). https://github.com/Teycir/Ghostreceipt Would like to have feedback.
 
-3h ago
+5h ago
 
 ---
 
@@ -88,7 +88,7 @@ I Built a Privacy-Preserving Bitcoin transaction Receipt Verifier (No KYC, No Sc
 
 Frame transaction Considered for Inclusion for Hegotá, EthStaker staking survey, EF post-quantum website
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-17/) • 10h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-17/) • 13h ago
 
 ---
 
@@ -96,13 +96,13 @@ Frame transaction Considered for Inclusion for Hegotá, EthStaker staking survey
 
 Ethereum pushes Glamsterdam testing forward as Hegotá headliner debates remain unresolved.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-233/) • 20h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-233/) • 23h ago
 
 ---
 
 **[Paperwallet.ca launch](https://www.reddit.com/r/ethereum/comments/1s543mf/paperwalletca_launch/)**
 
-10h ago
+12h ago
 
 ---
 
@@ -110,7 +110,7 @@ Ethereum pushes Glamsterdam testing forward as Hegotá headliner debates remain 
 
 Working on a little side project that turns etherscan data into readable risk. If you analyzed a wallet recently I’d love to compare your assessment to my engine’s output and see where it’s wrong and right, thanks
 
-23h ago
+1d ago
 
 ---
 
@@ -118,7 +118,7 @@ Working on a little side project that turns etherscan data into readable risk. I
 
 Source: https://www.coingecko.com/learn/real-world-assets-rwa-buy-on-chain RWAs were one of the fastest-growing sectors in crypto last year. DeFi yields from token emissions dried up, the GENIUS Act provided regulatory clarity for institutions, and BlackRock and Franklin Templeton launched their own tokenized products. This isn't speculative DeFi. These are tokens tied to government debt, physical commodities, and real loan portfolios.
 
-20h ago
+23h ago
 
 ---
 
@@ -142,7 +142,7 @@ Accept crypto payments in seconds, across Bitcoin, stablecoins, and more with Bi
 
 Gas: 0.032 Gwei. Third percentile. Since network inception. Active addresses: +120% year-on-year. Price: -45% from the October 2025 ATH. This divergence has a name in thermodynamics. It's called positive free energy. I built a 3-layer valuation model: L1 — Physics (40%) Network temperature. Monetary entropy. Gibbs free energy. L2 — Usage (35%) Real adoption. L2 velocity. RWA tokenisation. DeFi activity. L3 — Finance (25%) ETF flows. Exchange reserves. Open interest structure. Current readings: T_eth = 0.03 S_eth = 0.85 H_eth = 0.65 EFEI = H − T×S = +0.625 Layer Value Signal T_eth — 30d median gas 0.032 Gwei ❄️ 3rd percentile S_eth — Monetary entropy +0.23%/yr ⚠️ Inflationary EFEI — Free energy +0.625 ✅ Positive Active addresses +120% YoY ✅ Real adoption L2 TVL growth +40% YoY ✅ ETH = settlement RWA on Ethereum $18.6B (65% market) ✅ Structural Price vs 200d MA -3% (below average) ❌ Bearish structure Fear & Greed Index 15 — Extreme Fear ✅ Contrarian ETF cumulative AUM $11.9B (ETHA) ⚠️ Mixed flows ESM composite score: +0.487 Regime: undervalued. Liquid → Solid transition phase. In thermodynamics, when free energy is positive, the system spontaneously converges toward higher value. That's not an opinion. It's a property of the system. What's suppressing the signal? Layer 3. Macro. Elevated VIX, mixed ETF flows. Weighted at 25%. Intentionally. One upcoming catalyst flips the entropy term negative. I won't name it. You already know what it is. Ether State Model v1.0 — u/GabFromMars
 
-17h ago
+20h ago
 
 ---
 
@@ -154,21 +154,7 @@ Gas: 0.032 Gwei. Third percentile. Since network inception. Active addresses: +1
 
 The address traces back to Ethereum's initial token sale, where the investor purchased ether at about $0.31 per token, said Lookonchain.
 
-The Block • 16h ago
-
----
-
-**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqcwrN4iPpqyM3IqITZ3Mllo6HMwgOmxX4UUpuJDe69l9-x3pj-s6TOZ&gaa_ts=69c70951&gaa_sig=oN8uZ_vA88-SE21EI_IC9M05hVXG-LTBDX0Kl6OjpoRLxRxdkaWA8j33n0JF6aUS8KzujlZ0ok-1VOSkBwr3Kg%3D%3D)**
-
-Barron's • 1d ago
-
----
-
-**[Prediction: Ethereum Will Outperform Bitcoin Over the Next 3 Years](https://www.fool.com/investing/2026/03/27/prediction-ethereum-will-outperform-bitcoin-over-t/)**
-
-The top altcoin still has a bright future.
-
-The Motley Fool • 7h ago
+The Block • 19h ago
 
 ---
 
@@ -180,35 +166,41 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum Price Slips Under $2,000 As Staking Trade Cools](https://seekingalpha.com/article/4886700-ethereum-price-slips-under-2000-as-staking-trade-cools)**
+**[Ethereum and Solana Just Got a Huge Catalyst. Should You Buy Them With $1,000?](https://www.fool.com/investing/2026/03/27/ethereum-and-solana-just-got-a-huge-catalyst-shoul/)**
 
-​Ethereum pulled lower on March 27, with ETH-USD trading near $1983 after swinging between ~$1972 and $2075. The market slipped back below $2000, leaving nearby support under fresh pressure.
+These two coins now have fewer obstacles blocking their growth.
 
-Seeking Alpha • 4h ago
-
----
-
-**[Miladys, loyalty pledge create 'unnecessary cultural schism' in Ethereum community](https://www.theblock.co/post/395541/miladys-loyalty-pledge-unnecessary-culture-schism-ethereum-community)**
-
-"The issue is whether or not people support CROPS and going in that direction, the issue is how the EF is going about it,” Optimism's Mark Tyneway said.
-
-The Block • 2h ago
+The Motley Fool • 28m ago
 
 ---
 
-**[Tom Lee's Bitmine debuts MAVAN Ethereum staking platform, plans to shift its ETH activity](https://www.theblock.co/post/395080/tom-lees-bitmine-debuts-mavan-ethereum-staking-platform-plans-to-shift-its-eth-activity)**
+**[Ethereum and Solana Just Got a Huge Catalyst. Should You Buy Them With $1,000?](https://finance.yahoo.com/markets/crypto/articles/ethereum-solana-just-got-huge-010500664.html)**
 
-Bitmine officially launched the MAVAN Ethereum staking platform, targeting roughly $300 million in annual rewards.
+These two coins now have fewer obstacles blocking their growth.
 
-The Block • 2d ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[FBTC vs. ETHA: Is Bitcoin or Ethereum the Better Choice for Crypto Exposure?](https://www.fool.com/coverage/etfs/2026/03/27/fbtc-vs-etha-is-bitcoin-or-ethereum-the-better-choice-for-crypto-exposure/)**
+**[Bitcoin And Ethereum Outlook: Too Soon For A Crypto Bounce (BTC-USD)](https://seekingalpha.com/article/4886411-bitcoin-ethereum-outlook-too-soon-for-crypto-bounce)**
 
-The Fidelity Wise Origin Bitcoin Fund (FBTC) and the iShares Ethereum Trust ETF (ETHA) both provide direct crypto exposure through a brokerage account, but they reflect very different investment theses. One tracks bitcoin, the asset most closely tied to institutional adoption and broader market sentiment, while the other follows Ethereum, whose value is more closely linked to network usage and ecosystem growth.
+While cryptos offer diversification from traditional asset movements, they are also highly sensitive to the gravity of risk aversion
 
-The Motley Fool • 6h ago
+Seeking Alpha • 1d ago
+
+---
+
+**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqeipDOELceduki_AqXD2xAIBDZXBubVog4CHlbv_rqz6nSL5UkikvtV&gaa_ts=69c73cb8&gaa_sig=G1pBYVGRsXN5EtDZXw6HnGE2atySCE5vxiRoedH3oy94KBtc9c8GeFZTIQDERP8jr46GS9YJ-M2qpudbvkBLng%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
+**[First BlackRock, now Bitmine. Will Tom Lee’s Ethereum staking play save share price?](https://finance.yahoo.com/markets/crypto/articles/first-blackrock-now-bitmine-tom-100422887.html)**
+
+The Made In America VAlidator Network, Bitmine’s Ethereum staking product, is now live. Over 30% of Ethereum’s total circulating supply is now staked. Bitmine's shares are down 66% since October.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -216,15 +208,23 @@ The Motley Fool • 6h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 9h ago
+Fortune • 12h ago
 
 ---
 
-**[Bitcoin’s quantum-resistance lag may become Ethereum’s bull case: Nic Carter](https://www.tradingview.com/news/cointelegraph:d84dd24c3094b:0-bitcoin-s-quantum-resistance-lag-may-become-ethereum-s-bull-case-nic-carter/)**
+**[Ethereum Price Drops Near $2,020, Downside Pressure Continues to Build](https://www.tradingview.com/news/newsbtc:fd05ea531094b:0-ethereum-price-drops-near-2-020-downside-pressure-continues-to-build/)**
 
-Crypto entrepreneur Nic Carter has urged Bitcoin developers to catch up on quantum resistance or risk losing out to Ethereum, which already has a post-quantum roadmap. Elliptic curve cryptography (ECC) is the math that keeps Bitcoin (BTC) secure. Users pick a secret number (private key) and, using…
+Ethereum price failed to clear the $2,200 zone and declined. ETH is now consolidating above $2,020 and might struggle to start a recovery wave.Ethereum Price Dips FurtherEthereum price failed to stay above $2,150 and started a fresh decline, like Bitcoin. ETH price dipped below $2,120 and $2,080 to…
 
-TradingView • 1d ago
+TradingView • 22h ago
+
+---
+
+**[As quantum 'Q-Day' jumps to 2029, Ethereum faces a new fight over what to do with coins left in old wallets](https://cryptoslate.com/as-quantum-q-day-jumps-to-2029-ethereum-faces-a-new-fight-over-what-to-do-with-coins-left-in-old-wallets/)**
+
+The Ethereum Foundation’s post-quantum roadmap argues that the real danger is a years-long struggle over how to move user wallets, protect bridges and custodians, and decide what to do with vulnerable coins that never upgrade.
+
+CryptoSlate • 1d ago
 
 ---
 
@@ -232,23 +232,13 @@ TradingView • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[LIVE: Tom Lee on BitMine Makes Massive Ethereum Move! This Speech Is a Game Changer for ETH Holders!](https://www.youtube.com/watch?v=xBXXG9qMibs)**
+**[BITCOIN &amp; ALTCOIN CRASH: Price Target Confirmed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=syRpSgtT8G8)**
 
-Join Tom Lee for his groundbreaking keynote at the Ethereum Conference. Tom Lee, one of Wall Street's most renowned macro ...
+BITCOIN & ALTCOIN CRASH: Price Target Confirmed!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
 
-📺 askmediy
+📺 Crypto World
 
-👁️ 5K • 👍 2K • 3h ago
-
----
-
-**[Ethereum 2026 Q2 Outlook Update: Elliott Wave Analysis](https://www.youtube.com/watch?v=WiDnh15IrFA)**
-
-In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave analysis to forecast potential targets for the ongoing or ...
-
-📺 MCO Global
-
-👁️ 504 • 👍 96 • 💬 13 • ⏱️ 14:22 • 6h ago
+👁️ 2K • 👍 163 • 💬 18 • ⏱️ 19:00 • 2h ago
 
 ---
 
@@ -258,27 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 588 • 👍 57 • 💬 4 • ⏱️ 3:57 • 4h ago
-
----
-
-**[🚨 Tom Lee Launches MAVAN — BMNR Builds $300M Ethereum Yield Machine](https://www.youtube.com/watch?v=bGPC_M3b2Sg)**
-
-Get My New Book Money Game and My Daily Trading Strategy for Free https://go.tedmcgrathbrands.com/optin-money-game-yt ...
-
-📺 MONEY GAME
-
-👁️ 6K • 👍 239 • 💬 35 • ⏱️ 12:42 • 2d ago
-
----
-
-**[A FLURRY of GOOD NEWS for Bitmine / ETH (BMNR Stock)!](https://www.youtube.com/watch?v=EzcfsBVn7Zo)**
-
-Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade data with my link: https://fiscal.ai/?via=roy ...
-
-📺 Crossroads
-
-👁️ 6K • 👍 284 • 💬 52 • ⏱️ 15:03 • 1d ago
+👁️ 1K • 👍 80 • 💬 9 • ⏱️ 3:57 • 7h ago
 
 ---
 
@@ -288,47 +258,77 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 445 • 👍 39 • 💬 20 • ⏱️ 38:10 • 4h ago
+👁️ 1K • 👍 69 • 💬 34 • ⏱️ 38:10 • 7h ago
 
 ---
 
-**[🔴 LIVE Crypto Analysis | BTC, ETH &amp; Altcoins (Today 5PM UK)](https://www.youtube.com/watch?v=rsBfjT7pC60)**
+**[ETHEREUM PULLBACK WARNING!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=meqw0vZCai8)**
 
-Live crypto market analysis with Severin. Join the stream as we break down Bitcoin, Ethereum and altcoins using market structure, ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Chart Champions
+📺 Cilinix Crypto
 
-👁️ 6K • 👍 470 • ⏱️ 1:56:56 • 4h ago
-
----
-
-**[Tokenization Is Coming | BMNR &amp; Ethereum Are Positioning Early](https://www.youtube.com/watch?v=t-XrG8OuxlU)**
-
-BMNR is quietly building one of the largest Ethereum treasuries in the world now holding over 4.6 million ETH and $11B treasury.
-
-📺 The Value Thinker
-
-👁️ 11K • 👍 702 • 💬 110 • ⏱️ 24:16 • 2d ago
+👁️ 474 • 👍 16 • 💬 20 • ⏱️ 4:49 • 16h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=5mULk-yNqKM)**
+**[Ethereum 2026 Q2 Outlook Update: Elliott Wave Analysis](https://www.youtube.com/watch?v=WiDnh15IrFA)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave analysis to forecast potential targets for the ongoing or ...
 
-📺 More Crypto Online
+📺 MCO Global
 
-👁️ 2K • 👍 93 • 💬 4 • ⏱️ 4:12 • 1d ago
+👁️ 887 • 👍 111 • 💬 13 • ⏱️ 14:22 • 8h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=EWFHH09hvBo)**
+**[🚨 Tom Lee Launches MAVAN — BMNR Builds $300M Ethereum Yield Machine](https://www.youtube.com/watch?v=bGPC_M3b2Sg)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Get My New Book Money Game and My Daily Trading Strategy for Free https://go.tedmcgrathbrands.com/optin-money-game-yt ...
 
-📺 More Crypto Online
+📺 MONEY GAME
 
-👁️ 2K • 👍 110 • 💬 6 • ⏱️ 4:26 • 1d ago
+👁️ 6K • 👍 241 • 💬 35 • ⏱️ 12:42 • 2d ago
+
+---
+
+**[A FLURRY of GOOD NEWS for Bitmine / ETH (BMNR Stock)!](https://www.youtube.com/watch?v=EzcfsBVn7Zo)**
+
+Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade data with my link: https://fiscal.ai/?via=roy ...
+
+📺 Crossroads
+
+👁️ 7K • 👍 289 • 💬 54 • ⏱️ 15:03 • 1d ago
+
+---
+
+**[Ethereum Whales Buy $1.6B in 48 Hours: Small Investors Sell? #shorts](https://www.youtube.com/watch?v=CAIk_RYIIKc)**
+
+Massive Ethereum accumulation! Whales just bought $1.6 billion worth of ETH in 48 hours, while smaller investors sell. The big ...
+
+📺 CoinBros
+
+👁️ 581 • 👍 2 • ⏱️ 0:43 • 2d ago
+
+---
+
+**[Why Ethereum Is About to Skyrocket in Value!](https://www.youtube.com/watch?v=Q1LWGj38inI)**
+
+VIP Access & Programs: https://highaltitudecrypto.com Free Crypto Ebook (Learn How to Profit): https://shorturl.at/qCW46 ...
+
+📺 High Altitude Investing
+
+👁️ 896 • 👍 67 • 💬 18 • ⏱️ 10:43 • 1d ago
+
+---
+
+**[BIG PROBLEM Altcoin Season is CANCELED BlackRock Larry Fink “Bitcoin and Ethereum” ONLY!](https://www.youtube.com/watch?v=6IvpHf6I6Fk)**
+
+BIG PROBLEM Altcoin Season is CANCELED BlackRock Larry Fink “Bitcoin and Ethereum” ONLY! SUMM (partner) ...
+
+📺 CryptoWendyO
+
+👁️ 7K • 👍 453 • 💬 62 • ⏱️ 26:18 • 2d ago
 
 ---
 

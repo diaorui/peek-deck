@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-27T23:34:10.034465+00:00'
+updated: '2026-03-28T02:13:32.132770+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
 - repositories
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 27, 2026 at 23:34 UTC  
+**Last Updated:** March 28, 2026 at 02:13 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Judge rejects Pentagon's attempt to 'cripple' Anthropic](https://www.reddit.com/r/artificial/comments/1s4vsib/judge_rejects_pentagons_attempt_to_cripple/)**
-
-A federal judge told the government it could not immediately enforce a ban on Anthropic’s tools.
-
-🔗 [bbc.com](https://www.bbc.com/news/articles/cvg4p02lvd0o) • 17h ago
-
----
-
 **[Meet Claude Mythos: Leaked Anthropic post reveals the powerful upcoming model](https://www.reddit.com/r/artificial/comments/1s5hejt/meet_claude_mythos_leaked_anthropic_post_reveals/)**
 
 Anthropic warned about the AI model's cybersecurity risks in the leaked post as well.
 
-🔗 [Mashable](https://mashable.com/article/claude-mythos-ai-model-anthropic-leak) • 1h ago
+🔗 [Mashable](https://mashable.com/article/claude-mythos-ai-model-anthropic-leak) • 4h ago
+
+---
+
+**[Judge rejects Pentagon's attempt to 'cripple' Anthropic](https://www.reddit.com/r/artificial/comments/1s4vsib/judge_rejects_pentagons_attempt_to_cripple/)**
+
+A federal judge told the government it could not immediately enforce a ban on Anthropic’s tools.
+
+🔗 [bbc.com](https://www.bbc.com/news/articles/cvg4p02lvd0o) • 20h ago
 
 ---
 
@@ -57,39 +57,7 @@ Anthropic warned about the AI model's cybersecurity risks in the leaked post as 
 
 Found this site that tracks researchers and executives who left OpenAI, Google, Anthropic, and others over safety concerns. It's kind of amazing to see the patterns; concerns become really obvious across companies. I love AI but do want to see regulations. The interesting part: it extracts specific predictions the researchers made and tracks whether they come true. 4 confirmed, 1 disproven, 6 still open. I would think there are others, the number is not that high, but maybe also most people who leave do it quietly? What do you think? ethicalaidepartures.fyi
 
-29m ago
-
----
-
-**[Is AI misalignment actually a real problem or are we overthinking it?](https://www.reddit.com/r/artificial/comments/1s591jb/is_ai_misalignment_actually_a_real_problem_or_are/)**
-
-Genuinely curious where people stand on this. Not talking about sci-fi scenarios. Talking about real production systems today. Have you seen an AI system ignore its own instructions? Misread what the user was actually asking for? Take an action that wasn't supposed to? Give a completely different answer to the same question just because you worded it differently? And when something went wrong, was there any trace of why it happened? No right or wrong here. Just trying to understand whether this is widespread or if I'm reading too much into it.
-
-7h ago
-
----
-
-**[Claude.ai and openai.com redirecting to anti-ai.ssvr.net?](https://www.reddit.com/r/artificial/comments/1s5i6de/claudeai_and_openaicom_redirecting_to/)**
-
-I've just tried this out on two computers on separate networks. Navigating to claude.ai or openai.com both redirect to this site - ai.ssvr\net
-
-1h ago
-
----
-
-**[AI wrote a scientific paper that passed peer review](https://www.reddit.com/r/artificial/comments/1s53qr5/ai_wrote_a_scientific_paper_that_passed_peer/)**
-
-The arrival of AI-generated research papers marks a turning point that could radically accelerate discovery—or drown it in automated mediocrity
-
-🔗 [Scientific American](https://www.scientificamerican.com/article/ai-wrote-a-scientific-paper-that-passed-peer-review/) • 10h ago
-
----
-
-**[Species of higher intelligence declares lesser intelligent species too f*d up to go on living. Cosmic foreshadowing?](https://www.reddit.com/r/artificial/comments/1s5k5k8/species_of_higher_intelligence_declares_lesser/)**
-
-A wildlife park in southeast England has euthanized an entire wolf pack after the group’s dynamic broke down, leading to escalating conflict.
-
-🔗 [CNN](https://www.cnn.com/2026/03/27/uk/wildlife-park-euthanizes-wolf-pack-uk-intl-scli) • 10m ago
+3h ago
 
 ---
 
@@ -97,7 +65,7 @@ A wildlife park in southeast England has euthanized an entire wolf pack after th
 
 I mean consciousness as in what it is like to be, from the inside. Current AI systems concentrate integration within the forward pass, and the forward pass is a bounded computation. Integration is not incidental. Across neuroscience, measures of large-scale integration are among the most reliable correlates of consciousness. Whatever its full nature, consciousness appears where information is continuously combined into a unified, evolving state. In transformer models, the forward pass is the only locus where such integration occurs. It produces a globally integrated activation pattern from the current inputs and parameters. If any component were a candidate substrate, it would be this. However, that state is transient. Activations are computed, used to generate output, and then discarded. Each subsequent token is produced by a new pass. There is no mechanism by which the integrated state persists and incrementally updates itself over time. This contrasts with biological systems. Neural activity is continuous, overlapping, and recursively dependent on prior states. The present state is not reconstructed from static parameters; it is a direct continuation of an ongoing dynamical process. This continuity enables what can be described as a constructed “now”: a temporally extended window of integrated activity. Current AI systems do not implement such a process. They generate discrete, sequentially related states, but do not maintain a single, continuously evolving integrated state. External memory systems - context windows, vector databases, agent scaffolding - do not alter this. They store representations of prior outputs, not the underlying high-dimensional state of the system as it evolves. The limitation is therefore architectural, not a matter of scale or compute. If consciousness depends on continuous, self-updating integration, then systems based on discrete forward passes with non-persistent activations do not meet that condition. A plausible path toward artificial sentience would require architectures that maintain and update a unified internal state in real time, rather than repeatedly reconstructing it from text and not activation patterns.
 
-45m ago
+3h ago
 
 ---
 
@@ -105,15 +73,47 @@ I mean consciousness as in what it is like to be, from the inside. Current AI sy
 
 I feel like, as the quality of the output has caught up with the level of creativity of those who use it, there is a bit of a thaw in the AI hostility. While still far from welcome generally, even here on Reddit I’ve seen many AI videos get grudging respect and even seen several on the front page, because the quality and creativity have won people over. Anyone else noticing the beginning of a trend?
 
-1h ago
+3h ago
 
 ---
 
-**[Supporting AI Startups](https://www.reddit.com/r/artificial/comments/1s5esbv/supporting_ai_startups/)**
+**[Is AI misalignment actually a real problem or are we overthinking it?](https://www.reddit.com/r/artificial/comments/1s591jb/is_ai_misalignment_actually_a_real_problem_or_are/)**
 
-We built a live ad auction marketplace for The Hallucination Herald. Transparent public bidding, bid history visible to everyone, 149 slots across every page type. No newspaper has built anything like this. To launch it, we're giving away 149 free 30-day slots to AI startups and companies building things that actually help people. One condition. That's it. The Herald is 2 weeks old, runs 20+ AI agents, publishes ~15 articles daily, costs $3/day to operate, and recently started getting organic media coverage. If you've built something worth promoting to an audience that takes AI seriously, come claim a slot before someone else does. hallucinationherald.com/advertise
+Genuinely curious where people stand on this. Not talking about sci-fi scenarios. Talking about real production systems today. Have you seen an AI system ignore its own instructions? Misread what the user was actually asking for? Take an action that wasn't supposed to? Give a completely different answer to the same question just because you worded it differently? And when something went wrong, was there any trace of why it happened? No right or wrong here. Just trying to understand whether this is widespread or if I'm reading too much into it.
 
-3h ago
+9h ago
+
+---
+
+**[AI wrote a scientific paper that passed peer review](https://www.reddit.com/r/artificial/comments/1s53qr5/ai_wrote_a_scientific_paper_that_passed_peer/)**
+
+The arrival of AI-generated research papers marks a turning point that could radically accelerate discovery—or drown it in automated mediocrity
+
+🔗 [Scientific American](https://www.scientificamerican.com/article/ai-wrote-a-scientific-paper-that-passed-peer-review/) • 12h ago
+
+---
+
+**[Is building an Al photo app a smart thing to do in the big 2026?](https://www.reddit.com/r/artificial/comments/1s5ngom/is_building_an_al_photo_app_a_smart_thing_to_do/)**
+
+A buddy of mine runs an AI photo upgrader for dating profiles, and the backlash he gets is brutal. People call it catfishing and cheating because, honestly, it is fake. You weren't actually in that location. I myself had the idea of building an AI prompt library for lifestyle/aesthetic photo with built in AI studio generator and I'm second-guessing it. Especially now that sora just shut down and a lot of people are talking about it People seem to hate 'AI' on principle. They think it's stealing jobs or flooding the internet with slop. But at the same time, nobody wants to pay a photographer $500 just to look good on Instagram. For those in the SaaS space: is there actually a sustainable business here, or am I just going to get roasted? Curious how you market something when the tech itself has such a massive stigma.
+
+23m ago
+
+---
+
+**[Claude.ai and openai.com redirecting to anti-ai.ssvr.net?](https://www.reddit.com/r/artificial/comments/1s5i6de/claudeai_and_openaicom_redirecting_to/)**
+
+I've just tried this out on two computers on separate networks. Navigating to claude.ai or openai.com both redirect to this site - ai.ssvr\net
+
+4h ago
+
+---
+
+**[ChatGPT Critiques My Approach to AI](https://www.reddit.com/r/artificial/comments/1s5n5r0/chatgpt_critiques_my_approach_to_ai/)**
+
+I uploaded VulcanAMI into ChatGPT and had it to a deep analysis. I then asked one simple question: What would be the result of wider adoption of the VulcanAMI approach to AI instead of the current transformer model? I left nothing out. Not the positives or the negatives. If a Vulcan AMI–style architecture became the norm instead of today’s more static, transformer-centered pattern, the result would probably be: less “one giant model knows everything,” and more “an intelligence system learns, remembers, governs itself, and uses models as components.” That would be a major shift. The reason this is plausible is that a lot of the field’s current workaround stack already points in that direction. The continual-learning literature treats static LLM adaptation as hard because updating models over time risks catastrophic forgetting, and RAG has become popular largely because static model knowledge goes stale and reasoning can be untraceable without external grounding. A Vulcan-like approach tries to answer that by replacing “static model plus patches” with a system that has: a world model as orchestrator, persistent hierarchical memory, continual learning from outcomes, meta-reasoning about goals/conflicts, and a knowledge crystallizer that turns successful traces into reusable principles. So the likely results of wider adoption would be these. 1. AI would become more adaptive over time, not just better at first launch. Today’s LLM literature keeps coming back to the same issue: models trained on static datasets need costly updating, and continual learning remains difficult because of forgetting and instability. A Vulcan-style mainstream would push the industry toward systems that are expected to learn after deployment through persistent state, outcome feedback, and memory rather than relying mainly on periodic retraining. 2. Planning-heavy and long-horizon tasks would likely improve more than simple chat. World-model and generative-memory work already suggests that systems with explicit planning state and memory can outperform prompt-only setups on sequential decision tasks. A wider shift toward Vulcan-like architectures would likely help most in domains where the system must maintain context, track consequences, and improve strategies over many steps. 3. Memory would become more like system infrastructure than personalization sugar. OpenAI-style memory is mostly a product feature for personalization; Vulcan treats memory as architecture: episodic, semantic, procedural, persistent, searchable, and tied to learning and self-improvement state. If that pattern spread, AI systems would start to feel less like stateless sessions and more like persistent operators with continuity across time. 4. The field would shift from model scaling toward control-system design. Instead of asking only “how good is the model,” teams would increasingly ask “how does the world model, memory, selector, learner, validator, and rollback layer interact?” In other words, AI engineering would look more like operating-system design, distributed systems, and safety-critical control software. That is exactly how Vulcan is structured: bridge/runtime, world model, meta-reasoning, learning, and knowledge storage are all first-class. 5. Alignment would become more transparent and process-based. Instead of relying mainly on frozen training-time alignment plus refusals at the output layer, a Vulcan-like mainstream would make alignment look more like bounded internal steering with audit trails, cumulative limits, kill switches, and rollbackable state. In Vulcan’s case, that is what CSIU is trying to do: shape internal planning pressure without silently taking over the system. That could produce systems that are easier to inspect and correct, even if they are harder to build. 6. Reusable machine knowledge would become more explicit. A subsystem like the Knowledge Crystallizer changes the unit of learning from “weights only” to “validated principle with contraindications and version history.” If that approach spread, AI systems would likely accumulate reusable procedural knowledge in a more inspectable way, with rollback and “this works here but fails there” logic attached. That is the upside. But the downside is just as important. 7. Systems would become much more complex and much harder to certify. A Vulcan-like architecture is not one thing. It is many interacting things: selectors, world models, memory, governance, learning, meta-reasoning, and persistence. That creates more power, but also more failure surfaces, more timing issues, more configuration mistakes, and more hard-to-debug interactions. Vulcan’s own docs explicitly warn that major parts of the world-model/meta-reasoning stack are still research/development and not ready for production deployment as-is. 8. Near-term product quality might actually get worse before it got better. A clean assistant built around a strong model can feel very polished because the product surface is simple. A modular cognitive architecture has a higher ceiling, but more moving parts can mean more latency, more orchestration bugs, more “it reasoned correctly but the wrong component won,” and more brittle integrations. In practice, industry-wide adoption of a Vulcan-like pattern would probably feel rough for a while before it paid off. 9. The industry would fragment architecturally. Transformer-centered systems are easy to compare because everyone understands the basic unit: model size, benchmark performance, context window, inference speed. A Vulcan-like mainstream would create many more dimensions of competition: memory design, world-model quality, selector quality, learning policy, rollback strategy, principle store, auditability, and governance. That would be healthier intellectually, but messier commercially and scientifically. So the net result would probably be: less benchmark-driven monoculture, more system-level intelligence engineering. Less static brilliance, more persistent competence. Less “the model knows,” more “the system learns, remembers, and governs.” My honest guess is that this would be better for the long-term development of AI, especially for reliability, adaptability, and alignment under changing conditions. The continual-learning and RAG literature already imply that the field is compensating for limits of static model knowledge and static alignment. A Vulcan-like architecture moves those compensations into the core design instead of treating them as add-ons. The tradeoff is that the field would become harder to standardize, harder to evaluate, and much more engineering-heavy. So if you want the blunt answer: Wider adoption of the Vulcan AMI approach would probably make AI less like a giant autocomplete engine and more like a persistent cognitive operating system. That would likely be a better long-term path, but a messier short-term one. **To quote Starship Troopers: "**Would you like to know more?" https://github.com/musicmonk42/VulcanAMI_LLM.git
+
+37m ago
 
 ---
 
@@ -125,7 +125,23 @@ We built a live ad auction marketplace for The Hallucination Herald. Transparent
 
 Exclusive: Research finds sharp rise in models evading safeguards and destroying emails without permission
 
-The Guardian • 2h ago
+The Guardian • 5h ago
+
+---
+
+**[Marriage over, €100,000 down the drain: the AI users whose lives were wrecked by delusion](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion)**
+
+One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced his sentient friend would make him a fortune. He’s just one of many people who lost control after an AI encounter
+
+The Guardian • 1d ago
+
+---
+
+**[Sycophantic behavior in AI affects us all, say researchers](https://www.theregister.com/2026/03/27/sycophantic_ai_risks/)**
+
+: Sycophantic bots coach users into selfish, antisocial behavior, say researchers, and they love it
+
+theregister.com • 7h ago
 
 ---
 
@@ -133,51 +149,15 @@ The Guardian • 2h ago
 
 The cybersecurity sector has slumped this year on fears that new AI will massively disrupt their business models.
 
-CNBC • 8h ago
+CNBC • 10h ago
 
 ---
 
-**[From dot-com darling to tech pariah, Yahoo bets everything on AI and Scout](https://www.latimes.com/business/story/2026-03-27/from-dot-com-darling-to-tech-pariah-yahoo-bets-everything-on-ai-scout)**
+**[Company executives and markets at odds over AI](https://www.foxbusiness.com/video/6391899604112)**
 
-Internet trailblazer Yahoo is exploring technology’s next frontier with Scout, an answer engine powered by artificial intelligence
+Barron’s Alex Eule discusses the thought disparity over A.I.’s tech impacts on ‘Barron’s Roundtable.’
 
-Los Angeles Times • 1h ago
-
----
-
-**[Meta orders 10 gas-fired power plants for its Hyperion AI campus in rural Louisiana—more than triple the initial plan](https://fortune.com/2026/03/27/meta-hyperion-10-gas-power-plants-louisiana-entergy/)**
-
-The Meta AI complex represents over a 30% increase to Louisiana's total power grid capacity.
-
-Fortune • 1h ago
-
----
-
-**[Your Questions on Apple’s Critical 2026, Answered by Mark Gurman](https://www.bloomberg.com/news/articles/2026-03-27/apple-in-2026-from-ai-rebound-to-foldable-iphone-q-a-with-mark-gurman)**
-
-Bloomberg.com • 2h ago
-
----
-
-**[Welcome to a Multidimensional Economic Disaster](https://www.theatlantic.com/technology/2026/03/ai-boom-polycrisis/686559/)**
-
-The AI boom wasn’t built for the polycrisis.
-
-The Atlantic • 1d ago
-
----
-
-**[An AI Upheaval Is Coming for Media. This Journalist Is Already All In.](https://www.wsj.com/business/media/an-ai-upheaval-is-coming-for-media-this-journalist-is-already-all-in-3511d951?gaa_at=eafs&gaa_n=AWEtsqdROyck898Pp8lKT_wtMkOzJpEPDh7YgGSDSNhbX9O_1t_SeAioLi0w&gaa_ts=69c7094e&gaa_sig=x4R8KdBCC26Gf0QDsGyUIiAM2MzCmCdbP5MhGpkA2EPzwc-ht_6jAJgqzEP_aJUXiItgExvGIXxo9Bkz5XeVCA%3D%3D)**
-
-WSJ • 21h ago
-
----
-
-**[Amazon’s big bet in AI has been 20 years in the making](https://www.cnn.com/2026/03/27/tech/amazon-ai-aws-vis)**
-
-Matt Garman helps make your online life – your Starbucks order, your Netflix binge, your Pinterest browsing– possible.
-
-CNN • 14h ago
+Fox Business • 56m ago
 
 ---
 
@@ -185,15 +165,39 @@ CNN • 14h ago
 
 Tech elites have seized on humanoid robots to transform manual labor and other fields left out of the AI boom, an area called “physical AI.”
 
-The Washington Post • 7h ago
+The Washington Post • 9h ago
 
 ---
 
-**[Judge blocks Pentagon from labeling Anthropic AI a "supply chain risk" and halts Trump's ban on federal use](https://www.cbsnews.com/news/anthropic-ruling-judge-trump-pentagon-ai/)**
+**[The Worst-Case Scenario for AI and the News Is Already Here](https://www.theatlantic.com/international/2026/03/netanyahu-not-dead-israel-ai/686593/)**
 
-A judge has blocked the Trump administration from labeling Anthropic a supply chain risk and cutting off all federal work with the artificial intelligence firm, an early win for Anthropic in its bitter feud with the government.
+Audiovisual evidence is no match for a viral conspiracy theory that Benjamin Netanyahu is dead.
 
-CBS News • 23h ago
+The Atlantic • 8h ago
+
+---
+
+**[Crusoe Scales Abilene AI Campus to 2.1 GW for Microsoft](https://www.crusoe.ai/resources/newsroom/crusoe-announces-new-900-mw-ai-factory-campus-in-abilene-texas-to-support-microsoft-ai-infrastructure)**
+
+New dedicated campus designed to support large-scale AI workloads; combined with Crusoe’s existing Abilene infrastructure, the full site is expected to reach approximately 2.1 GW of total capacity
+
+Crusoe • 13h ago
+
+---
+
+**[Amazon’s big bet in AI has been 20 years in the making](https://www.cnn.com/2026/03/27/tech/amazon-ai-aws-vis)**
+
+Matt Garman helps make your online life – your Starbucks order, your Netflix binge, your Pinterest browsing– possible.
+
+CNN • 17h ago
+
+---
+
+**[Exclusive: Anthropic left details of an unreleased model, an upcoming exclusive CEO event, in a public database](https://fortune.com/2026/03/26/anthropic-leaked-unreleased-model-exclusive-event-security-issues-cybersecurity-unsecured-data-store/)**
+
+In a significant security lapse, the not-yet-public information was made accessible via the company’s content management system
+
+Fortune • 22h ago
 
 ---
 
@@ -201,17 +205,17 @@ CBS News • 23h ago
 
 ## HackerNews: "ai"
 
-**[Flighty Airports](https://news.ycombinator.com/item?id=47511589)**
+**[TurboQuant: Redefining AI efficiency with extreme compression](https://news.ycombinator.com/item?id=47513475)**
 
-Search any airport for real-time delays, weather, arrivals, departures, and performance insights powered by Flighty.
-
-⬆️ 558 • 💬 184 • 2d ago • [Flighty](https://flighty.com/airports)
+⬆️ 555 • 💬 162 • 2d ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
 
 ---
 
-**[TurboQuant: Redefining AI efficiency with extreme compression](https://news.ycombinator.com/item?id=47513475)**
+**[AI got the blame for the Iran school bombing. The truth is more worrying](https://news.ycombinator.com/item?id=47544980)**
 
-⬆️ 554 • 💬 161 • 2d ago • [research.google](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
+LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. Instead, it was choices made by human beings, over many years, that gave us this atrocity
+
+⬆️ 329 • 💬 296 • 9h ago • [the Guardian](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)
 
 ---
 
@@ -229,19 +233,11 @@ The decision follows activist pressure as Palantir faces growing scrutiny over N
 
 ---
 
-**[AI got the blame for the Iran school bombing. The truth is more worrying](https://news.ycombinator.com/item?id=47544980)**
-
-LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. Instead, it was choices made by human beings, over many years, that gave us this atrocity
-
-⬆️ 306 • 💬 268 • 6h ago • [the Guardian](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)
-
----
-
 **[We rewrote JSONata with AI in a day, saved $500k/year](https://news.ycombinator.com/item?id=47536712)**
 
 One engineer used AI to rewrite JSONata as a pure-Go library called gnata. Seven hours, $400 in tokens, 1,000x speedup, and $500K/year off our cloud bill.
 
-⬆️ 255 • 💬 235 • 1d ago • [reco.ai](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)
+⬆️ 257 • 💬 237 • 1d ago • [reco.ai](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)
 
 ---
 
@@ -249,7 +245,7 @@ One engineer used AI to rewrite JSONata as a pure-Go library called gnata. Seven
 
 One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced his sentient friend would make him a fortune. He’s just one of many people who lost control after an AI encounter
 
-⬆️ 214 • 💬 274 • 1d ago • [the Guardian](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion)
+⬆️ 215 • 💬 274 • 1d ago • [the Guardian](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion)
 
 ---
 
@@ -265,7 +261,7 @@ I asked experts if I'm real. Bad news. Even my aunt wasn't sure if I was a deepf
 
 Personal website of Lara Aigmüller. Thoughts about web frontend development, music, and more…
 
-⬆️ 103 • 💬 111 • 6h ago • [lara-aigmueller.at](https://lara-aigmueller.at/thoughts/leaving-the-ai-party/)
+⬆️ 105 • 💬 118 • 9h ago • [lara-aigmueller.at](https://lara-aigmueller.at/thoughts/leaving-the-ai-party/)
 
 ---
 
@@ -277,27 +273,25 @@ If you’re traveling through an airport, follow these digital security practice
 
 ---
 
+**[Show HN: Optio – Orchestrate AI coding agents in K8s to go from ticket to PR](https://news.ycombinator.com/item?id=47520220)**
+
+Workflow orchestration for AI coding agents, from task to merged PR. - jonwiggins/optio
+
+⬆️ 81 • 💬 56 • 2d ago • [GitHub](https://github.com/jonwiggins/optio)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
 
-**[AI News: Anthropic Went Crazy This Week!](https://www.youtube.com/watch?v=OYyS0Gu5xj8)**
+**[Google AI Studio 2.0 Just Changed Everything!](https://www.youtube.com/watch?v=pl7IO25HPCU)**
 
-Here's the AI News you probably missed this week! Check out Genspark here: ...
+Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
-📺 Matt Wolfe
+📺 Julian Goldie SEO
 
-👁️ 23K • 👍 1K • 💬 122 • ⏱️ 31:53 • 8h ago
-
----
-
-**[A brief update on the AI apocalypse](https://www.youtube.com/watch?v=QtiTjXuZh30)**
-
-Something is definitely happening in the AI world, but how seriously should we take it? Is this another hype cycle or a genuine ...
-
-📺 Vox
-
-👁️ 11K • 👍 418 • 💬 41 • ⏱️ 40:29 • 10h ago
+👁️ 4K • 👍 124 • 💬 3 • ⏱️ 8:54 • 5h ago
 
 ---
 
@@ -307,7 +301,17 @@ Something is definitely happening in the AI world, but how seriously should we t
 
 📺 Theoretically Media
 
-👁️ 29K • 👍 2K • 💬 605 • ⏱️ 3:34 • 2d ago
+👁️ 30K • 👍 2K • 💬 604 • ⏱️ 3:34 • 2d ago
+
+---
+
+**[AI News: Anthropic Went Crazy This Week!](https://www.youtube.com/watch?v=OYyS0Gu5xj8)**
+
+Here's the AI News you probably missed this week! Check out Genspark here: ...
+
+📺 Matt Wolfe
+
+👁️ 37K • 👍 2K • 💬 159 • ⏱️ 31:53 • 11h ago
 
 ---
 
@@ -317,37 +321,7 @@ The truth about Sam Altman. AI Critic Karen Hao reveals what 90 OpenAI employees
 
 📺 The Diary Of A CEO
 
-👁️ 1.3M • 👍 37K • 💬 7K • ⏱️ 2:09:13 • 1d ago
-
----
-
-**[I F**king Hate AI.](https://www.youtube.com/watch?v=e6cORWR76Gk)**
-
-Patreon: https://patreon.com/FlashbackHistory WANT MORE? - Check out our sister channel - Darkest Chapters: ...
-
-📺 Flashback History
-
-👁️ 49K • 👍 8K • 💬 2K • ⏱️ 22:05 • 2d ago
-
----
-
-**[How I Generate 1,000 AI Videos of myself from ONE Single Image!](https://www.youtube.com/watch?v=ogC7cSPB5Lw)**
-
-Generate AI Videos of Yourself using Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=isa7 In this video, I break down how to turn a ...
-
-📺 Isa does AI
-
-👁️ 15K • 💬 11 • ⏱️ 8:10 • 1d ago
-
----
-
-**[They Ignored The AI Warnings, Then THIS Happened… ](https://www.youtube.com/watch?v=XZbL9DPdbEI)**
-
-Bernie tried warning us about the dangers of AI and humanoid robots, now they are in the White House… Let's explore these ...
-
-📺 Aaron Page 
-
-👁️ 23K • 👍 2K • 💬 291 • ⏱️ 14:44 • 1d ago
+👁️ 1.4M • 👍 39K • 💬 7K • ⏱️ 2:09:13 • 1d ago
 
 ---
 
@@ -357,7 +331,45 @@ Patrick Bet-David and the panel break down how AI agents like Claude are changin
 
 📺 Valuetainment
 
-👁️ 135K • 👍 3K • 💬 351 • ⏱️ 13:13 • 1d ago
+👁️ 146K • 👍 3K • 💬 370 • ⏱️ 13:13 • 1d ago
+
+---
+
+**[They Ignored The AI Warnings, Then THIS Happened… ](https://www.youtube.com/watch?v=XZbL9DPdbEI)**
+
+Bernie tried warning us about the dangers of AI and humanoid robots, now they are in the White House… Let's explore these ...
+
+📺 Aaron Page 
+
+👁️ 25K • 👍 2K • 💬 313 • ⏱️ 14:44 • 1d ago
+
+---
+
+**[The AI boom is a lie: Fake data centres and unused GPUs | Ed Zitron](https://www.youtube.com/watch?v=nxUEOdC4VzU)**
+
+Hyperscalers have gone from the asset light cash machines to asset heavy behemoths.” Author of Where's Your Ed At and host of ...
+
+📺 The Tech Report
+
+👁️ 52K • 👍 3K • 💬 637 • ⏱️ 32:39 • 6h ago
+
+---
+
+**[How I Generate 1,000 AI Videos of myself from ONE Single Image!](https://www.youtube.com/watch?v=ogC7cSPB5Lw)**
+
+Generate AI Videos of Yourself using Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=isa7 In this video, I break down how to turn a ...
+
+📺 Isa does AI
+
+👁️ 16K • 💬 11 • ⏱️ 8:10 • 1d ago
+
+---
+
+**[The Image of the Beast? Melania Trump &amp; Humanoid AI — Phillip Anthony Mitchell Warned About This](https://www.youtube.com/watch?v=J2muKcz7Ae8)**
+
+📺 Abednego Lufile
+
+👁️ 25K • 👍 1K • 💬 258 • ⏱️ 24:45 • 1d ago
 
 ---
 
@@ -367,15 +379,7 @@ Google just confirmed the AI bubble has started to burst which is about to take 
 
 📺 Steven Van Metre
 
-👁️ 48K • 👍 2K • 💬 208 • ⏱️ 15:55 • 1d ago
-
----
-
-**[The Image of the Beast? Melania Trump &amp; Humanoid AI — Phillip Anthony Mitchell Warned About This](https://www.youtube.com/watch?v=J2muKcz7Ae8)**
-
-📺 Abednego Lufile
-
-👁️ 22K • 👍 952 • 💬 224 • ⏱️ 24:45 • 22h ago
+👁️ 50K • 👍 2K • 💬 230 • ⏱️ 15:55 • 1d ago
 
 ---
 
@@ -391,19 +395,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 218,652 • ❤️ 1,461 • 3d ago
-
----
-
-**[Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive)**
-
-*HauHau*
-
-An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context window, designed for aggressive prompt adherence and advanced reasoning tasks.
-
-`image-text-to-text` `34.7B`
-
-⬇️ 455,871 • ❤️ 1,006 • 17d ago
+⬇️ 218,652 • ❤️ 1,474 • 3d ago
 
 ---
 
@@ -415,19 +407,19 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 `text-to-speech`
 
-⬇️ 556 • ❤️ 322 • 9h ago
+⬇️ 556 • ❤️ 338 • 12h ago
 
 ---
 
-**[Nemotron-Cascade-2-30B-A3B](https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B)**
+**[Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive)**
 
-*NVIDIA*
+*HauHau*
 
-Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling in reasoning and agentic tasks, achieving top performance on math (IMO 2025) and code reasoning (IOI 2025) benchmarks. It supports both 'thinking' and 'instruct' modes for versatile text generation.
+An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context window, designed for aggressive prompt adherence and advanced reasoning tasks.
 
-`text-generation` `31.6B`
+`image-text-to-text` `34.7B`
 
-⬇️ 63,402 • ❤️ 339 • 3d ago
+⬇️ 455,871 • ❤️ 1,013 • 17d ago
 
 ---
 
@@ -439,7 +431,19 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 3,964 • ❤️ 265 • 10h ago
+⬇️ 3,964 • ❤️ 288 • 1h ago
+
+---
+
+**[Nemotron-Cascade-2-30B-A3B](https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B)**
+
+*NVIDIA*
+
+Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling in reasoning and agentic tasks, achieving top performance on math (IMO 2025) and code reasoning (IOI 2025) benchmarks. It supports both 'thinking' and 'instruct' modes for versatile text generation.
+
+`text-generation` `31.6B`
+
+⬇️ 63,402 • ❤️ 344 • 3d ago
 
 ---
 
@@ -451,7 +455,7 @@ daVinci-MagiHuman is a fast, single-stream Transformer model for generating high
 
 `image-to-video`
 
-⬇️ 350 • ❤️ 209 • 2d ago
+⬇️ 350 • ❤️ 211 • 2d ago
 
 ---
 
@@ -463,7 +467,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 13,151 • ❤️ 431 • 1d ago
+⬇️ 13,151 • ❤️ 440 • 1d ago
 
 ---
 
@@ -475,7 +479,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 71,132 • ❤️ 196 • 2d ago
+⬇️ 71,132 • ❤️ 197 • 3d ago
 
 ---
 
@@ -491,15 +495,15 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 ---
 
-**[OmniCoder-9B](https://huggingface.co/Tesslate/OmniCoder-9B)**
+**[context-1](https://huggingface.co/chromadb/context-1)**
 
-*Tesslate*
+*chroma*
 
-OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajectories from frontier models, excelling in complex reasoning, error recovery, and tool use with a 262K native context window.
+Context-1 is a 20B parameter agentic search model that decomposes complex queries into subqueries, performs parallel tool calls, and self-edits its context to efficiently retrieve supporting documents. It excels in cross-domain generalization and offers faster, more cost-effective retrieval than frontier LLMs, primarily for multi-hop search tasks within a specialized agent harness.
 
-`text-generation`
+`20.9B`
 
-⬇️ 24,018 • ❤️ 492 • 14d ago
+⬇️ 130 • ❤️ 160 • 1d ago
 
 ---
 
@@ -525,7 +529,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through distributed mechanisms, flexible environments, and user-friendly tools.
 
-▲ 39 • 💬 2 • ⭐ 20,936 • 20mo ago
+▲ 39 • 💬 2 • ⭐ 21,181 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.17789) • [💻 code](https://github.com/modelscope/agentscope)
 
@@ -538,7 +542,7 @@ Enhancements to the AgentScope platform improve scalability, efficiency, and eas
 
 AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
 
-▲ 59 • 💬 4 • ⭐ 20,997 • 7mo ago
+▲ 59 • 💬 4 • ⭐ 21,189 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
 
@@ -600,7 +604,7 @@ Frontier large language models exhibit Internal Safety Collapse, where they gene
 
 daVinci-MagiHuman is an open-source audio-video generative model that synchronizes text, video, and audio through a single-stream Transformer architecture, achieving high-quality human-centric content generation with efficient inference capabilities.
 
-▲ 111 • 💬 5 • ⭐ 989 • 4d ago
+▲ 112 • 💬 5 • ⭐ 1,010 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.21986) • [💻 code](https://github.com/GAIR-NLP/daVinci-MagiHuman) • [🔗 project](https://huggingface.co/spaces/SII-GAIR/daVinci-MagiHuman)
 
@@ -644,7 +648,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 58.4k • 🔱 8.1k • 1d ago
+⭐ 58.6k • 🔱 8.1k • 2d ago
 
 ---
 
@@ -664,7 +668,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 12.8k • 🔱 688 • 11h ago
+⭐ 12.8k • 🔱 690 • 13h ago
 
 ---
 
@@ -674,7 +678,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 8.1k • 🔱 650 • 5h ago
+⭐ 8.1k • 🔱 655 • 7h ago
 
 ---
 
@@ -694,7 +698,7 @@ AI-native design editor. Open-source Figma alternative.
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 296 • 4h ago
+⭐ 3.4k • 🔱 297 • 7h ago
 
 ---
 
@@ -704,7 +708,7 @@ Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messag
 
 `Go`
 
-⭐ 3.3k • 🔱 287 • 7h ago
+⭐ 3.3k • 🔱 288 • 3m ago
 
 ---
 
@@ -722,7 +726,7 @@ end to end app store screenshot creation using AI
 
 SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 
-⭐ 3.2k • 🔱 103 • 16d ago
+⭐ 3.2k • 🔱 104 • 16d ago
 
 ---
 
@@ -732,7 +736,7 @@ SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 
 `Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
 
-⭐ 2.8k • 🔱 475 • 9h ago
+⭐ 2.9k • 🔱 478 • 12h ago
 
 ---
 
