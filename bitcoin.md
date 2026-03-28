@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-28T17:30:16.500343+00:00'
+updated: '2026-03-28T17:57:58.501335+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
 - videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 28, 2026 at 17:30 UTC  
+**Last Updated:** March 28, 2026 at 17:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.0%  
-**7d:** -1.3%  
-**30d:** +1.6%  
-**90d:** -23.2%  
-**1y:** -18.9%  
+**24h:** +1.4%  
+**7d:** -1.6%  
+**30d:** +1.4%  
+**90d:** -23.4%  
+**1y:** -19.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1340.48B
+**Market Cap:** $1335.82B
 Rank #1
 
-**Circulating Supply:** 20,008,253 BTC
+**Circulating Supply:** 20,008,318 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--46.9%
+-47.0%
 
 **All-Time Low:** $67.81
-+98708.4%
++98386.9%
 
 ---
 
@@ -95,7 +95,7 @@ I was a junior in highschool, and BTC came up in the same conversations as Octop
 
 So I got curious about what happens if you just buy bitcoin and forget about it for exactly 5 years. Had an AI run the numbers on every possible 5 year window since bitcoin started trading Results from 959 different 5-year periods between august 2010 and january 2026: Key findings: - average return was 18229% which is insane but misleading because early buyers skew it hard - median return was 3108% so your typical 5 year holder made 32x their money - 958 out of 959 periods made profit thats 99.9% success rate Only ONE losing period ever: bought december 18 2017 right at the top around 18900 and sold december 16 2022 during that FTX mess at 16600. Lost 12% Breaking it down by when you started buying: - 2010-2013 buyers got stupid rich because they bought at literal pennies - Even 2018 which was terrible timing still averaged 346% returns - 2021 buyers only have partial data but already averaging 145% The distribution is wild - almost half of all 5 year holds returned between 1000-10000% and three quarters made over 100% basically if you can handle holding for 5 years you win unless you have the absolute worst timing in history. Even then you only lose 12% which beats a lot of other investments during crashes median person turns 1 dollar into 32 dollars over 5 years. Not bad for doing literally nothing
 
-2h ago
+3h ago
 
 ---
 
@@ -123,19 +123,19 @@ Everyone outside crypto thinks it’s: Fast money Crazy gains Constant action Bu
 
 ---
 
-**[Buy Bitcoins with PayPal (using CoinPal)](https://www.reddit.com/r/Bitcoin/comments/1s61ehx/buy_bitcoins_with_paypal_using_coinpal/)**
-
-Ended up down the rabbit hole of nostalgia. Imagine buying 10 bitcoins for $3.48, video recording it and posting on the web.
-
-🔗 [youtu.be](https://youtu.be/YmPg4V-YE0k) • 3h ago
-
----
-
 **[Just used bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1s58far/just_used_bitcoin/)**
 
 When all my money is already in sats, it’s just easier to spend it directly instead of converting it to usd and spending that 🤷‍♂️
 
 1d ago
+
+---
+
+**[Buy Bitcoins with PayPal (using CoinPal)](https://www.reddit.com/r/Bitcoin/comments/1s61ehx/buy_bitcoins_with_paypal_using_coinpal/)**
+
+Ended up down the rabbit hole of nostalgia. Imagine buying 10 bitcoins for $3.48, video recording it and posting on the web.
+
+🔗 [youtu.be](https://youtu.be/YmPg4V-YE0k) • 3h ago
 
 ---
 
@@ -171,7 +171,23 @@ NBC News • 6h ago
 
 The average public miner spent $79,995 to produce one bitcoin last quarter. Bitcoin is trading at $70,000. The math doesn't work, so the industry is pivoting to AI, taking on $70 billion in contracts, and liquidating bitcoin treasuries to finance the shift.
 
-CoinDesk • 14h ago
+coindesk.com • 15h ago
+
+---
+
+**[Why GameStop Put $315 Million in Bitcoin Into a Covered Call Options Strategy](https://finance.yahoo.com/markets/options/articles/why-gamestop-put-315-million-163204438.html)**
+
+GameStop has pledged nearly all of its Bitcoin to a covered-call strategy on Coinbase Prime to generate some yield.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin Sees Confident Buying From Smart Money Amid Dip – Details](https://www.tradingview.com/news/newsbtc:776e1f99b094b:0-bitcoin-sees-confident-buying-from-smart-money-amid-dip-details/)**
+
+In the last week, Bitcoin prices fell to around $65,000, resulting in a net loss of 6.74%. This recent decline underlines the asset’s struggles in March, which, despite periods of attempted price breakout, has witnessed an equal or greater pullback, producing a current net monthly loss of 4.4%. Ami…
+
+TradingView • 1h ago
 
 ---
 
@@ -179,13 +195,15 @@ CoinDesk • 14h ago
 
 Across many of the most well-known ecosystems like Bitcoin, Ethereum, and Solana, responses are diverging along familiar lines: what to do on social consensus and technical iteration, and community members are split between caution and acceleration.
 
-CoinDesk • 1h ago
+coindesk.com • 1h ago
 
 ---
 
-**[Bitcoin Slumps With Options Showing Traders Turning Defensive](https://www.bloomberg.com/news/articles/2026-03-27/bitcoin-slumps-with-options-showing-traders-turning-defensive)**
+**[Bitcoin Faces $14 Billion Options Expiry While Middle East Turmoil Mounts](https://finance.yahoo.com/news/bitcoin-faces-14-billion-options-064538360.html)**
 
-Bloomberg.com • 20h ago
+(Bloomberg) -- Bitcoin’s largest options expiry of the year is colliding with geopolitical volatility that shows no sign of letting up with make or break peace talks uncertain. Roughly $14 billion of Bitcoin options are set to expire Friday, as measured by the number for outstanding contracts, known as open interest. The quarterly rollover — which wipes out close to 40% of open positions on the dominant Deribit exchange — comes amid conflicting signals on the prospect of a halt to the nearly mon
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -205,35 +223,17 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[Morgan Stanley Set To Undercut Bitcoin ETF Rivals With 0.14% Fee Ahead Of Launch](https://bitcoinmagazine.com/featured/morgan-stanley-set-to-undercut-bitcoin)**
+**[5 long, loud years: Neighbor, county leader ready for Bitcoin mine shutdown](https://www.wjhl.com/news/local/5-long-loud-years-neighbor-county-leader-ready-for-bitcoin-mine-shutdown/)**
 
-Morgan Stanley is set to disrupt the spot bitcoin ETF market, with its upcoming Bitcoin Trust (MSBT) charging a market-leading 0.14% annual fee.
-
-Bitcoin Magazine • 19h ago
+wjhl.com • 1d ago
 
 ---
 
-**['Bitcoin Should Be $280,000,' Grant Cardone Says As BTC Continues Outperformance In Iran War](https://finance.yahoo.com/markets/crypto/articles/bitcoin-280-000-grant-cardone-231044952.html)**
+**[Morgan Stanley enters bitcoin ETF race with market-leading low fee](https://www.coindesk.com/markets/2026/03/27/morgan-stanley-enters-bitcoin-etf-race-with-market-leading-low-fee)**
 
-Bitcoin should be trading much higher, according to real estate mogul Grant Cardone. "Bitcoin should be $280,000," Cardone said Wednesday on X even as the asset traded around $71,000. Cardone’s remarks come as Bitcoin has outperformed the broader market since...
+The bank priced its proposed spot bitcoin fund at 14 basis points, making it the lowest fund on the market, if approved.
 
-Yahoo Finance • 18h ago
-
----
-
-**[Forget Bitcoin: This Crypto Is the Smarter Buy Right Now](https://www.fool.com/investing/2026/03/27/forget-bitcoin-this-crypto-is-the-smarter-buy-righ/)**
-
-Solana could generate bigger near-term gains than the top cryptocurrency.
-
-The Motley Fool • 1d ago
-
----
-
-**[Cathie Wood's Ark Invest Dumps Meta, Nvidia and Bitcoin ETF Shares in Major Tech Sell-Off](https://decrypt.co/362580/cathie-woods-ark-invest-dumps-meta-nvidia-bitcoin-etf-shares)**
-
-Cathie Wood's Ark Invest sold big chunks of its positions in American tech stocks and its own Bitcoin ETF as stocks and crypto slide.
-
-Decrypt • 1d ago
+coindesk.com • 21h ago
 
 ---
 
@@ -263,14 +263,6 @@ Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes
 
 ---
 
-**[Am-I.exposed – Bitcoin Privacy Scanner](https://news.ycombinator.com/item?id=47468905)**
-
-Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 33 chain analysis heuristics. Free, client-side, no tracking.
-
-⬆️ 1 • 💬 0 • 7d ago • [am-i.exposed](https://am-i.exposed/)
-
----
-
 **[Show HN: Lexe – Self-Custodial Lightning Nodes in TEEs, Python and Rust SDKs](https://news.ycombinator.com/item?id=47532761)**
 
 ⬆️ 4 • 💬 1 • 2d ago • [blog.lexe.app](https://blog.lexe.app/public-launch/)
@@ -281,13 +273,13 @@ Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 3
 
 ## YouTube Videos: "bitcoin"
 
-**[Something Big is Going to Happen on Bitcoin (here&#39;s how to prepare)](https://www.youtube.com/watch?v=LUEsxFQpa0c)**
+**[Bitcoin Has FOREVER CHANGED... And Investors NEED To Understand How](https://www.youtube.com/watch?v=YfsZr90verI)**
 
-Something big is going to happen on bitcoin and we discuss with analyst Benjamin Cowen the key charts that matter right now on ...
+Once upon a time, Bitcoin used to have god candles (and epic crashes) all on its own — no matter what stocks or gold did.
 
-📺 Alessio Rastani
+📺 From The Desk Of Anthony Pompliano
 
-👁️ 7K • 👍 1K • 💬 209 • ⏱️ 24:30 • 4h ago
+👁️ 23K • 👍 1K • 💬 165 • ⏱️ 8:32 • 20h ago
 
 ---
 
@@ -297,27 +289,7 @@ Bitcoin may not be breaking down all at once, but the structure is starting to w
 
 📺 Benjamin Cowen
 
-👁️ 25K • 👍 3K • 💬 156 • ⏱️ 26:12 • 6h ago
-
----
-
-**[Bitcoin Has FOREVER CHANGED... And Investors NEED To Understand How](https://www.youtube.com/watch?v=YfsZr90verI)**
-
-Once upon a time, Bitcoin used to have god candles (and epic crashes) all on its own — no matter what stocks or gold did.
-
-📺 From The Desk Of Anthony Pompliano
-
-👁️ 22K • 👍 1K • 💬 162 • ⏱️ 8:32 • 20h ago
-
----
-
-**[Why You Won’t Be Able To Buy Bitcoin When This Happens](https://www.youtube.com/watch?v=TxzWwexKk54)**
-
-Something is changing in the Bitcoin market—and most people are completely missing it. The biggest risk right now isn't that ...
-
-📺 Tim Talks Finance
-
-👁️ 7K • 👍 332 • 💬 78 • ⏱️ 12:25 • 23h ago
+👁️ 40K • 👍 4K • 💬 204 • ⏱️ 26:12 • 7h ago
 
 ---
 
@@ -327,7 +299,27 @@ all my life is bitcoin, literally. I had moments where I thought I was ruining m
 
 📺 BTC Isla
 
-👁️ 14K • 👍 1K • 💬 303 • ⏱️ 10:32 • 1d ago
+👁️ 15K • 👍 1K • 💬 383 • ⏱️ 10:32 • 1d ago
+
+---
+
+**[Why You Won’t Be Able To Buy Bitcoin When This Happens](https://www.youtube.com/watch?v=TxzWwexKk54)**
+
+Something is changing in the Bitcoin market—and most people are completely missing it. The biggest risk right now isn't that ...
+
+📺 Tim Talks Finance
+
+👁️ 7K • 👍 348 • 💬 82 • ⏱️ 12:25 • 23h ago
+
+---
+
+**[Something Big is Going to Happen on Bitcoin (here&#39;s how to prepare)](https://www.youtube.com/watch?v=LUEsxFQpa0c)**
+
+Something big is going to happen on bitcoin and we discuss with analyst Benjamin Cowen the key charts that matter right now on ...
+
+📺 Alessio Rastani
+
+👁️ 16K • 👍 2K • 💬 275 • ⏱️ 24:30 • 5h ago
 
 ---
 
@@ -337,37 +329,37 @@ Thanks to Caleb & Brown for sponsoring this video! CALEB & BROWN Link ...
 
 📺 Dan Gambardello
 
-👁️ 6K • 👍 472 • 💬 207 • ⏱️ 12:07 • 15h ago
+👁️ 7K • 👍 492 • 💬 207 • ⏱️ 12:07 • 16h ago
 
 ---
 
-**[Why Bitcoin REFUSES To Pump — Plan B Just Explained Everything You Need To Know](https://www.youtube.com/watch?v=0vofWVf4AOo)**
+**[Steal This Billionaire Money Strategy… Use Bitcoin to Buy a Home!](https://www.youtube.com/watch?v=dQUfopAG0UY)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+Bitcoin just crossed a line no one saw coming. For the first time, you can use it as collateral to buy a home without selling.
 
-📺 Savvy Finance
+📺 Simply Bitcoin
 
-👁️ 2K • 👍 125 • 💬 1 • ⏱️ 15:15 • 20h ago
-
----
-
-**[MY FINAL BITCOIN WARNING...](https://www.youtube.com/watch?v=MIyRiegpQCo)**
-
-WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $25 ...
-
-📺 Crypto Rover
-
-👁️ 9K • 👍 581 • 💬 59 • ⏱️ 9:31 • 12h ago
+👁️ 15K • 👍 1K • 💬 120 • ⏱️ 15:31 • 20h ago
 
 ---
 
-**[Why You’ll Never Sell Your Bitcoin Again. WOW!](https://www.youtube.com/watch?v=bxZSKa3IDCU)**
+**[Bitcoin PLUMMETS To $66K As David Sacks Steps Down &amp; Coinbase Faces Backlash!](https://www.youtube.com/watch?v=9pR4bg8vNAE)**
 
-Coinbase and Fannie Mae just partnered up to do NO MARGIN CALL LOANS for Bitcoin. This is MASSIVE for real estate... but ...
+Bitcoin #Crypto #Finance Bitcoin has dropped sharply toward the $66K level as major developments in crypto policy and industry ...
 
-📺 Digital Asset News
+📺 The Wolf Of All Streets
 
-👁️ 15K • 👍 1K • 💬 75 • ⏱️ 18:26 • 1d ago
+👁️ 23K • 👍 1K • 💬 419 • ⏱️ 34:13 • 1d ago
+
+---
+
+**[A Storm Is Brewing In Crypto Today](https://www.youtube.com/watch?v=YNY7Wmntu14)**
+
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Buy, Sell, Trade on Weex ($500 Bonus): ...
+
+📺 Altcoin Daily
+
+👁️ 40K • 👍 2K • 💬 227 • ⏱️ 10:46 • 1d ago
 
 ---
 
@@ -377,7 +369,7 @@ Are Bitcoin and the S&P 500 on the verge of a massive breakdown? In this urgent 
 
 📺 Gareth Soloway
 
-👁️ 71K • 👍 4K • 💬 598 • ⏱️ 9:48 • 1d ago
+👁️ 72K • 👍 4K • 💬 675 • ⏱️ 9:48 • 1d ago
 
 ---
 

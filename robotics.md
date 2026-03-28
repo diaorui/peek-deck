@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-28T17:30:16.509445+00:00'
+updated: '2026-03-28T17:57:58.510633+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 28, 2026 at 17:30 UTC  
+**Last Updated:** March 28, 2026 at 17:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -31,6 +31,12 @@ Robotics research and industry news
 ---
 
 ## Reddit: r/robotics
+
+**[Who runs out of battery first decides the future](https://www.reddit.com/r/robotics/comments/1s6566h/who_runs_out_of_battery_first_decides_the_future/)**
+
+1h ago
+
+---
 
 **[Physical Intelligence is reportedly in talks to raise $1 billion, again at $11B+ valuation | TechCrunch](https://www.reddit.com/r/robotics/comments/1s5ywzf/physical_intelligence_is_reportedly_in_talks_to/)**
 
@@ -48,19 +54,19 @@ i have spent the past 2 months to design this arm in fusion, and now i am facing
 
 ---
 
+**["Follow Me" Mode: Real-time human tracking with YOLOv8](https://www.reddit.com/r/robotics/comments/1s66rwp/follow_me_mode_realtime_human_tracking_with_yolov8/)**
+
+For the robot arm, we're running a segmentation model that benchmarks at a rock-solid 20fps on an Nvidia RTX 5060 Ti. In this video, we're keeping the rover locked onto the target using Image-Based Visual Servoing (IBVS) and a simple proportional controller.
+
+18m ago
+
+---
+
 **["Jack of all trades, master of none" -Humanoid Robots](https://www.reddit.com/r/robotics/comments/1s60bdn/jack_of_all_trades_master_of_none_humanoid_robots/)**
 
 There is the argument that humanoid robots are the future because they're generalists and their humanoid form means they can do whatever humans were doing. And while that is theoretically true, it misses an important point: Generality is only good if it performs better and more cost-effectively than the specialist machines in those tasks. I haven't seen anything to support the idea that humanoid form would necessarily surpass that threshold for many tasks. It can easily end up doing a mediocre job at many tasks because its lower productively delivers less profit per dollar spent on the machinery compared to specialist machines, and its form can never get as efficient as non-humanoid specialist machines. The "economies of scale" argument usually gets propositioned where economies of scale would lower the prices of humanoid robots so much that it would make it the more cost-effective option. However: Specialized machines can also experience economies of scale Economies of scale only bring down the price so much (the cost per unit decrease is not infinitely proportional based on how many units are produced, at some point the cost savings level off and can even revert) Simpler machinery and manufacturing of a specialized machine can mean lower fixed costs compared to the more complex manufacturing of a humanoid robot, meaning economies of scale could result in a lower cost being spread across many units for the former rather than the latter, making the former cheaper than the latter. Even if the humanoid robot is cheaper, the higher productivity and profitability of specialized machines may justify and make purchasing specialized machines the more fruitful endeavor. Saying humanoid robots will experience such cost savings from economies of scale assumes they'd be so favored by buyers that lots of units would be produced in the first place. To understand the limits of generalist technology, take this analogy: Instead of having a knife, fork, spoon, spatula, pizza cutter, etc. you could use a spork to serve in place of all those things. A spork would be cheaper, especially since you don't have to buy more utensils and clean and wash more, and it benefits from economies of scale, but a spork does a pretty mediocre job at all those tasks, it does not master them as effectively as those more specialized utensils. This is why in large part most people do not use a spork for most food tasks, and if it is good for anything it is only in a few highly specific occasions. A spork in this sense is a "Jack of all trades, master of none," where it can do many food tasks, but all in a mediocre fashion. A humanoid robot may very well end up the same, where it can do many tasks, but not in a more cost-effective manner.
 
 4h ago
-
----
-
-**[Wich vendor for industrial robots do you prefer and why?](https://www.reddit.com/r/robotics/comments/1s624cn/wich_vendor_for_industrial_robots_do_you_prefer/)**
-
-Controls here. I like ABB robots because: RAPID language is good for me OLP with RobotStudio is possible without license (limited but possible) Easy access to documentation and a lot of online info (official and unofficial).
-
-2h ago
 
 ---
 
@@ -100,21 +106,13 @@ I didn't use the T265; instead, I chose the RoboBaton mini to control the car's 
 
 ---
 
-**[Robotics Vision interview](https://www.reddit.com/r/robotics/comments/1s5gzn7/robotics_vision_interview/)**
-
-Already asked in the proper forums, to no avail. Hopefully someone can reply before I'm deleted lol. I have an interview at a well known company that uses assembly lines, to assemble components. The position is related to "Robotics Vision", cameras and sensors and such. I have a background in material handling equipment, with minor knowledge on cameras and sensors unrelated to automous robotics on this scale. My question is, what are some key items for me to be aware of in the space of Robotics Vision in order to land this job and more specifically the tech interview? I'm not looking for an entire study guide, just some relevant information related to the interview that I may be asked. I appreciate any and all help, if any!
-
-20h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
 **[AI Robotics Lab in Talks to Raise $1 Billion at $11 Billion Valuation](https://www.bloomberg.com/news/articles/2026-03-27/ex-deepmind-staffers-robotics-startup-in-talks-for-11-billion-valuation)**
 
-Bloomberg.com • 20h ago
+bloomberg.com • 20h ago
 
 ---
 
@@ -126,35 +124,25 @@ CNBC • 2d ago
 
 ---
 
-**[Delivery robots keep crashing into bus shelters](https://www.popsci.com/technology/delivery-robots-crash-bus-shelters/)**
-
-It's been a bad week for burritos on wheels.
-
-Popular Science • 1d ago
-
----
-
-**[Chicago leaders speak out after food delivery robots with Serve Robotics, Coco Robotics cause damage at CTA bus shelters](https://abc7chicago.com/post/chicago-leaders-speak-food-delivery-robots-serve-robotics-coco-cause-damage-cta-bus-shelters/18772726/)**
-
-Two recent incidents of food delivery robots smashing into CTA bus shelters days apart happened as Chicagoans continue to debate whether the robots are a public benefit or a nuisance.
-
-ABC7 Chicago • 2d ago
-
----
-
-**[Delivery robots smash Chicago bus shelters in two separate incidents](https://www.upi.com/Odd_News/2026/03/26/Chicago-delivery-robots-bus-shelters/4041774539291/)**
-
-Two delivery robots crashed into two bus shelters in Chicago within a matter of days -- and one of the incidents was caught on camera.
-
-upi.com • 2d ago
-
----
-
 **[Video Friday: Beep! Beep! Roadrunner Bipedal Bot Breaks the Mold](https://spectrum.ieee.org/roadrunner-bipedal-robot)**
 
 Roadrunner moves in-line, on one wheel, or two to stay nimble and on the go. Plus NASA's SkyFall Mars helicopters and MoonFall mission are gearing up.
 
-IEEE Spectrum • 1d ago
+spectrum.ieee.org • 1d ago
+
+---
+
+**[China's humanoid robot blinks and emotes during conversations](https://interestingengineering.com/ai-robotics/lifelike-humanoid-robot-sparks-debate)**
+
+China’s robotics industry is shifting toward hyperrealistic humanoid faces, focusing on emotional interaction and social acceptance.
+
+Interesting Engineering • 2d ago
+
+---
+
+**[US lawmakers to introduce bill to ban government use of Chinese robots](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/)**
+
+Reuters • 2d ago
 
 ---
 
@@ -166,9 +154,27 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[US lawmakers to introduce bill to ban government use of Chinese robots](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/)**
+**[Delivery robots keep crashing into bus shelters](https://www.popsci.com/technology/delivery-robots-crash-bus-shelters/)**
 
-reuters.com • 2d ago
+It's been a bad week for burritos on wheels.
+
+Popular Science • 1d ago
+
+---
+
+**[Amazon Eyes Delivery Robots as MIT Tackles Warehouse Bottlenecks](https://www.pymnts.com/amazon/2026/amazon-eyes-delivery-robots-as-mit-tackles-warehouse-bottlenecks/)**
+
+Amazon has spent more than a decade automating its logistics network. The company has already deployed more than 1 million robots across its operations,
+
+PYMNTS.com • 1d ago
+
+---
+
+**[Delivery robots smash Chicago bus shelters in two separate incidents](https://www.upi.com/Odd_News/2026/03/26/Chicago-delivery-robots-bus-shelters/4041774539291/)**
+
+Two delivery robots crashed into two bus shelters in Chicago within a matter of days -- and one of the incidents was caught on camera.
+
+upi.com • 2d ago
 
 ---
 
@@ -177,14 +183,6 @@ reuters.com • 2d ago
 Snail-inspired robots aim to deliver cancer drugs precisely to tumors, reducing side effects and improving outcomes.
 
 Interesting Engineering • 17h ago
-
----
-
-**[Physical Intelligence is reportedly in talks to raise $1 billion, again](https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/)**
-
-The deal would effectively double the company's $5.6 billion valuation in just four months.
-
-TechCrunch • 17h ago
 
 ---
 
@@ -198,7 +196,7 @@ Thanks to Delete Me for sponsoring this video. To keep your private info private
 
 📺 Kim Java
 
-👁️ 157K • 👍 7K • 💬 327 • ⏱️ 20:00 • 4d ago
+👁️ 161K • 👍 7K • 💬 340 • ⏱️ 20:00 • 4d ago
 
 ---
 
@@ -208,7 +206,7 @@ Melania Trump suggested using humanoid AI robots like a “Plato” educator to 
 
 📺 Farron Balanced
 
-👁️ 35K • 👍 3K • 💬 801 • ⏱️ 5:10 • 1d ago
+👁️ 35K • 👍 3K • 💬 806 • ⏱️ 5:10 • 1d ago
 
 ---
 
@@ -218,7 +216,17 @@ Learn for free on Brilliant for a full 30 days: https://brilliant.org/NikodemBar
 
 📺 Nikodem Bartnik
 
-👁️ 59K • 👍 3K • 💬 53 • ⏱️ 9:55 • 4d ago
+👁️ 62K • 👍 3K • 💬 57 • ⏱️ 9:55 • 4d ago
+
+---
+
+**[Watch: Humanoid robot walks alongside first lady Melania Trump at White House](https://www.youtube.com/watch?v=X-NjEku-zE4)**
+
+Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
+
+📺 CBS News
+
+👁️ 42K • 👍 301 • 💬 322 • ⏱️ 9:54 • 2d ago
 
 ---
 
@@ -228,7 +236,7 @@ Melania Trump sparks alarm over a White House event where she walked in with a r
 
 📺 The Damage Report
 
-👁️ 18K • 👍 878 • 💬 426 • ⏱️ 8:42 • 1d ago
+👁️ 18K • 👍 882 • 💬 426 • ⏱️ 8:42 • 1d ago
 
 ---
 
@@ -242,13 +250,13 @@ This week in robotics got kind of ridiculous. South Korea showed off a humanoid 
 
 ---
 
-**[The Real-Life Future of Humanoid Robots](https://www.youtube.com/watch?v=ktwtZNKDV0E)**
+**[China in Tears! Superpower Falls as TSMC CEO Exposes China’s Robot Lies—95% of Brain Made by TSMC](https://www.youtube.com/watch?v=mCUayp_OjTs)**
 
-Brett Adcock shares his vision for the future of humanoid robots, why he believes synthetic humans will become one of the most ...
+On March 8, at the "Tomorrow's Walker" exhibit in Shanghai Science and Technology Museum, a robot performing unexpectedly ...
 
-📺 Shawn Ryan Show
+📺 China Observer
 
-👁️ 27K • 👍 1K • 💬 362 • ⏱️ 14:05 • 21h ago
+👁️ 66K • 👍 2K • 💬 395 • ⏱️ 15:22 • 2d ago
 
 ---
 
@@ -262,33 +270,23 @@ The robots at Nvidia GTC were showcasing strength, dexterity and the ability to 
 
 ---
 
-**[Meet “Roadrunner&quot;: a bipedal, wheeled robot for multi-modal locomotion](https://www.youtube.com/watch?v=9kae-UAME1U)**
+**[New Robot ANAKSOR – War Robots Gameplay WR](https://www.youtube.com/watch?v=XJN0jX_wXaI)**
 
-"Roadrunner” is a new bipedal wheeled robot prototype designed for multi-modal locomotion. It weighs around 15kg (33 lb.)
+War Robots Gameplay: NEW Robot ANAKSOR - First Try on Live Server My War Robots Creator Link: https://wr.my.games/manni ...
 
-📺 RAI Institute
+📺 Manni-Gaming
 
-👁️ 480K • 👍 11K • 💬 1K • ⏱️ 1:34 • 5d ago
-
----
-
-**[The Most Human-Like Robots of 2026 Are Finally Here — And It Changes Everything](https://www.youtube.com/watch?v=BtE4otcAfVc)**
-
-The most advanced humanoid robots of 2026 just dropped — and you are NOT ready for what they can do. This year changes ...
-
-📺 The AI Nexus
-
-👁️ 7K • 👍 186 • 💬 14 • ⏱️ 16:29 • 4d ago
+👁️ 3K • 👍 203 • 💬 40 • ⏱️ 19:34 • 3h ago
 
 ---
 
-**[The New Xiaomi CyberOne&#39;s Palms are Sweaty #robot #xiaomi #robotics #innovation](https://www.youtube.com/watch?v=7ErtC3sgkEA)**
+**[First lady Melania Trump welcomes robot to White House tech summit](https://www.youtube.com/watch?v=glfTpD9iKhs)**
 
-Xiaomi's new humanoid robot's palms are sweaty. The Chinese tech giant just revealed the latest iteration of its CyberOne AI robot ...
+Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
 
-📺 Kalil 4.0
+📺 Face the Nation
 
-👁️ 3K • 👍 141 • 💬 6 • ⏱️ 1:01 • 1d ago
+👁️ 137K • 👍 1K • 💬 739 • ⏱️ 9:54 • 2d ago
 
 ---
 
