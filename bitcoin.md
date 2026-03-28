@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-28T07:08:29.038639+00:00'
+updated: '2026-03-28T08:00:33.785394+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 28, 2026 at 07:08 UTC  
+**Last Updated:** March 28, 2026 at 08:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 been watching the charts and bitcoin is sitting at what looks like a 40% drop from recent highs. feels like this might be teh moment to make a substantial buy instead of my usual small dca amounts. anyone else considering making moves right now or am i getting too greedy? trying to figure out if this dip is worth changing up my strategy for.
 
-6h ago
+7h ago
 
 ---
 
@@ -97,7 +97,7 @@ I was a junior in highschool, and BTC came up in the same conversations as Octop
 
 I have a feeling that UPril will be even better. Get your moon boots ready.
 
-9h ago
+10h ago
 
 ---
 
@@ -113,7 +113,7 @@ When all my money is already in sats, it’s just easier to spend it directly in
 
 Onramp's Brian Cubellis also point out the difference between the latent demand for IBIT vs what he expects will be active solicitation from Morgan Stanley to their clients.
 
-15h ago
+16h ago
 
 ---
 
@@ -121,7 +121,7 @@ Onramp's Brian Cubellis also point out the difference between the latent demand 
 
 so i've been getting these random coinbase notifications for months and finally decided to check what was going on. remembered i had maybe like 7 bucks sitting there from way back when i bought something online that required bitcoin logged into my account expecting to see basically nothing and there's over 2400 sitting there. took me a minute to process what i was looking at did some digging and apparently that leftover change was from late 2015 when i made some random purchase. crazy how that small amount just sat there growing now i'm kicking myself thinking about what would've happened if i had been putting even 10 bucks aside every couple weeks since then. the math is pretty wild when you run those numbers probably gonna leave it alone and see where it goes from here. not really planning to touch it anytime soon
 
-16h ago
+17h ago
 
 ---
 
@@ -129,7 +129,7 @@ so i've been getting these random coinbase notifications for months and finally 
 
 Everyone outside crypto thinks it’s: Fast money Crazy gains Constant action But if you’ve been here for a while, you know the truth… Most of crypto is just: Waiting Not touching your portfolio Ignoring noise Watching others panic The real game isn’t buying. It’s holding without doing something stupid. The people who win aren’t the smartest. They’re usually the ones who: Don’t overtrade Don’t chase every new coin Don’t panic sell It sounds boring because it is. But boring is where most money is made. Meanwhile: Beginners want excitement Veterans want consistency Question: What’s harder for you — buying at the right time or just holding after you buy?
 
-2h ago
+3h ago
 
 ---
 
@@ -137,7 +137,7 @@ Everyone outside crypto thinks it’s: Fast money Crazy gains Constant action Bu
 
 Each paycheck is now worth ~0.19% of my total sats. I have been in the space a bit. I am a little dead inside due to "same shit different day" mentality in this space. The price is getting smaller. I see the typical calls for people to hodl on or jump in or increase DCA. Quality memes are nowhere to be found. It reminds me of past bear cycles. What helps me during times like this is to remember the fundamentals. Nothing has changed. Blocks are still being solved about every 10 minutes. Code is still being written. Proposals are still being discussed/modified/dropped/fought over. Bitcoin is still based on real-world resources. People are still saying that bitcoin is dead/dying/ponzi scheme. People I know that make 3-5x my salary still think it is only used to wash dirty money. I have no grand secret or huge life lesson for you, simply because bitcoin is boring (also its most important feature). The messaging is always the same. Adopt a low time preference. I hope it helps some of the newer hodlers here who are planning to stay. The panic and self-doubt you feel will pass. And you will do it again, and it will pass again and so on. P.S. Do not leverage trade to try and catch up.
 
-16h ago
+17h ago
 
 ---
 
@@ -145,7 +145,7 @@ Each paycheck is now worth ~0.19% of my total sats. I have been in the space a b
 
 Nearly a decade and a half holding Bitcoin now - grabbed my initial stack when it was trading around $9. Made it through all the brutal bear markets, constantly wondering if we'd finally reached the end. Each crash felt like Bitcoin might actually die for good. Every major drop had me questioning everything. But here we are. Bitcoin keeps bouncing back stronger than before. This current pullback is just another blip on the radar compared to what we've weathered in the past.
 
-10h ago
+11h ago
 
 ---
 
@@ -165,7 +165,7 @@ Why does the majority of the market treat crypto, or Bitcoin in particular, like
 
 The average public miner spent $79,995 to produce one bitcoin last quarter. Bitcoin is trading at $70,000. The math doesn't work, so the industry is pivoting to AI, taking on $70 billion in contracts, and liquidating bitcoin treasuries to finance the shift.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -173,7 +173,7 @@ CoinDesk • 4h ago
 
 Solana could generate bigger near-term gains than the top cryptocurrency.
 
-The Motley Fool • 14h ago
+The Motley Fool • 15h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Motley Fool • 14h ago
 
 Retail investors now own about 80% of Strategy’s flagship preferred shares, STRC, compared with about 40% of the common stock for NasdaqGS:MSTR. The shift in ownership followed an 11.5% dividend increase on STRC and came alongside about $1.5b raised via these preferred shares in March. STRC is beginning to appear as a reserve asset on other corporate Bitcoin treasuries’ balance sheets, extending its role beyond NasdaqGS:MSTR’s own capital structure. Strategy, listed as NasdaqGS:MSTR, has...
 
-finance.yahoo.com • 2h ago
+finance.yahoo.com • 3h ago
 
 ---
 
@@ -189,13 +189,13 @@ finance.yahoo.com • 2h ago
 
 Demand for bitcoin as a corporate treasury asset is once again concentrated in Michael Saylor's Strategy as the company steps up its bitcoin buying pace.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
 **[Bitcoin Slumps With Options Showing Traders Turning Defensive](https://www.bloomberg.com/news/articles/2026-03-27/bitcoin-slumps-with-options-showing-traders-turning-defensive)**
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 11h ago
 
 ---
 
@@ -203,7 +203,7 @@ Bloomberg.com • 10h ago
 
 Bitcoin is no longer driven by scarcity-based models; its price now tracks demand dynamics and correlates with high-beta tech indices. Learn more about BTC-USD here.
 
-Seeking Alpha • 19h ago
+Seeking Alpha • 20h ago
 
 ---
 
@@ -217,7 +217,7 @@ WJHL • 1d ago
 
 Bitcoin price fell near $66,000 on Friday, hitting its lowest level in more than two weeks as a wave of long liquidations hit the market.
 
-Bitcoin Magazine • 17h ago
+Bitcoin Magazine • 18h ago
 
 ---
 
@@ -231,7 +231,7 @@ Esquire • 1d ago
 
 **[Bitcoin Skids, $14 Bil. In Options Due; Cathie Wood Raises Cash](https://www.investors.com/news/bitcoin-price-options-expire-14-billion-liquidations-cathie-wood-ark-invest/)**
 
-Investor's Business Daily • 8h ago
+Investor's Business Daily • 9h ago
 
 ---
 
@@ -285,7 +285,7 @@ Once upon a time, Bitcoin used to have god candles (and epic crashes) all on its
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 17K • 👍 990 • 💬 88 • ⏱️ 8:32 • 10h ago
+👁️ 17K • 👍 990 • 💬 88 • ⏱️ 8:32 • 11h ago
 
 ---
 
@@ -295,7 +295,7 @@ Bitcoin #Crypto #Finance Bitcoin has dropped sharply toward the $66K level as ma
 
 📺 The Wolf Of All Streets
 
-👁️ 21K • 👍 1K • 💬 382 • ⏱️ 34:13 • 17h ago
+👁️ 21K • 👍 1K • 💬 382 • ⏱️ 34:13 • 18h ago
 
 ---
 
@@ -305,7 +305,7 @@ Something is changing in the Bitcoin market—and most people are completely mis
 
 📺 Tim Talks Finance
 
-👁️ 5K • 👍 276 • 💬 65 • ⏱️ 12:25 • 13h ago
+👁️ 5K • 👍 276 • 💬 65 • ⏱️ 12:25 • 14h ago
 
 ---
 
@@ -325,7 +325,7 @@ all my life is bitcoin, literally. I had moments where I thought I was ruining m
 
 📺 Economic News Ninja
 
-👁️ 14K • 👍 914 • 💬 221 • ⏱️ 5:14 • 12h ago
+👁️ 14K • 👍 914 • 💬 221 • ⏱️ 5:14 • 13h ago
 
 ---
 
@@ -355,7 +355,7 @@ Are Bitcoin and the S&P 500 on the verge of a massive breakdown? In this urgent 
 
 📺 Gareth Soloway
 
-👁️ 67K • 👍 4K • 💬 626 • ⏱️ 9:48 • 18h ago
+👁️ 67K • 👍 4K • 💬 626 • ⏱️ 9:48 • 19h ago
 
 ---
 
@@ -365,7 +365,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 862 • 💬 161 • ⏱️ 1:13:31 • 16h ago
+👁️ 16K • 👍 862 • 💬 161 • ⏱️ 1:13:31 • 17h ago
 
 ---
 

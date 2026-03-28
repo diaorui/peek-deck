@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-28T07:08:29.030247+00:00'
+updated: '2026-03-28T08:00:33.777070+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - news
 - social
-- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 28, 2026 at 07:08 UTC  
+**Last Updated:** March 28, 2026 at 08:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 In April Congress is voting to extend the FISA Act on the 20th of April this year. The FISA Act allows the government to buy your emails, texts, and calls from corporations. With the newly established shady deal with Open AI surveillance has become even more accessible and applicable on a much more larger and invasive scale. It very important for the sake of maintaining our right of protest and the press in the future. Call/email your representatives in the US, protest, and speak in any way you can.
 
-4h ago
+5h ago
 
 ---
 
@@ -49,7 +49,7 @@ In April Congress is voting to extend the FISA Act on the 20th of April this yea
 
 Just watched Hoppers and I’m surprised this hasn’t been picked up more widely. The parallels with AI and its risks are hard to ignore once you see them. A few things worth noting: The setup mirrors our current moment almost exactly. The lead scientist developing the world-changing technology is called Dr. Sam. Her invention lets humans cross a communication barrier that was previously impossible: entering the animal world through embodiment. LLMs did the same thing for the digital world. We can now navigate machines through natural language. The alignment problem is right there on screen. Mabel uses the technology to reach her goal, but the technology has its own logic and momentum. What it produces isn’t what she intended. The governance message is explicit. No single person or group should control a technology this powerful even when we have good intentions. The real cautionary tale in Hoppers isn’t aimed at the tech builders. It’s for the users, the ones who convince themselves that it is the only way to solve the world’s problems. The consequences in the film flow from that belief. Not from the tech itself. Curious if anyone else read it this way.
 
-🔗 [Pixar Animation Studios](https://www.pixar.com/hoppers) • 1h ago
+🔗 [Pixar Animation Studios](https://www.pixar.com/hoppers) • 2h ago
 
 ---
 
@@ -57,7 +57,7 @@ Just watched Hoppers and I’m surprised this hasn’t been picked up more widel
 
 Anthropic warned about the AI model's cybersecurity risks in the leaked post as well.
 
-🔗 [Mashable](https://mashable.com/article/claude-mythos-ai-model-anthropic-leak) • 9h ago
+🔗 [Mashable](https://mashable.com/article/claude-mythos-ai-model-anthropic-leak) • 10h ago
 
 ---
 
@@ -73,7 +73,7 @@ A federal judge told the government it could not immediately enforce a ban on An
 
 I've spent the last year building NIMCP — a biologically-inspired artificial brain in C that trains six different neural network types simultaneously (spiking, liquid, convolutional, Fourier, Hamiltonian, adaptive) with gradient flow between them through learnable bridges. Some things that might be interesting to this crowd: - The SNN developed 26 Hz firing rates with 67% sparsity — within mammalian cortical range — without any regularization targeting those values. It emerged from cross-network training pressure. - Safety is structural, not behavioral. The ethics module is a function call in the inference code path, not a learned weight. It can't be fine-tuned away or jailbroken. The governance rules can only get stricter. You can verify this by reading the source. - The brain learns through curiosity: prediction error → dopamine → STDP gating. No reward function. - Training follows a 4-stage developmental curriculum (sensory → naming → feedback →reasoning). The training is currently in Stage 2. You can watch it train live on the website — metrics update every 60 seconds. - 2,600 source files, 240 Python API methods, 8 language bindings. The system runs on a single RTX 4000 (20 GB VRAM). Eight technical papers on the site covering the math, training methodology, safety architecture, and emergent dynamics. Code: https://github.com/redmage123/nimcp I am happy to answer questions about the architecture, training dynamics, or why I think growing intelligence through developmental stages might work differently than scaling transformers.
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ Found this site that tracks researchers and executives who left OpenAI, Google, 
 
 I feel like, as the quality of the output has caught up with the level of creativity of those who use it, there is a bit of a thaw in the AI hostility. While still far from welcome generally, even here on Reddit I’ve seen many AI videos get grudging respect and even seen several on the front page, because the quality and creativity have won people over. Anyone else noticing the beginning of a trend?
 
-8h ago
+9h ago
 
 ---
 
@@ -97,7 +97,7 @@ I feel like, as the quality of the output has caught up with the level of creati
 
 Genuinely curious where people stand on this. Not talking about sci-fi scenarios. Talking about real production systems today. Have you seen an AI system ignore its own instructions? Misread what the user was actually asking for? Take an action that wasn't supposed to? Give a completely different answer to the same question just because you worded it differently? And when something went wrong, was there any trace of why it happened? No right or wrong here. Just trying to understand whether this is widespread or if I'm reading too much into it.
 
-14h ago
+15h ago
 
 ---
 
@@ -105,7 +105,7 @@ Genuinely curious where people stand on this. Not talking about sci-fi scenarios
 
 Or are we stuck with works of 8 hours per day forever?
 
-12h ago
+13h ago
 
 ---
 
@@ -125,7 +125,7 @@ I've just tried this out on two computers on separate networks. Navigating to cl
 
 Exclusive: Research finds sharp rise in models evading safeguards and destroying emails without permission
 
-The Guardian • 18h ago
+The Guardian • 19h ago
 
 ---
 
@@ -133,7 +133,7 @@ The Guardian • 18h ago
 
 A new research reveals that reports of deceptive scheming in AI chatbots and agents have surged in the last six months.
 
-NDTV • 4h ago
+NDTV • 5h ago
 
 ---
 
@@ -147,7 +147,7 @@ WANE 15 • 6h ago
 
 The cybersecurity sector has slumped this year on fears that new AI will massively disrupt their business models.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
@@ -155,7 +155,7 @@ CNBC • 15h ago
 
 An engineer creates an AI voice agent, inspired by Rachel Duffy, to track Guinness prices in pubs.
 
-BBC • 55m ago
+BBC • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ BBC • 55m ago
 
 We take a deep dive into AI’s water consumption
 
-BBC • 36m ago
+BBC • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ BBC • 36m ago
 
 Tech elites have seized on humanoid robots to transform manual labor and other fields left out of the AI boom, an area called “physical AI.”
 
-The Washington Post • 14h ago
+The Washington Post • 15h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Washington Post • 14h ago
 
 Audiovisual evidence is no match for a viral conspiracy theory that Benjamin Netanyahu is dead.
 
-The Atlantic • 13h ago
+The Atlantic • 14h ago
 
 ---
 
@@ -187,13 +187,13 @@ The Atlantic • 13h ago
 
 Shipbuilding is desperate for workers, and it could be an opportunity for Gen Z seeking AI-proof jobs with no degree required. Workers at a major U.S. facility just got a historic 18% raise.
 
-Fortune • 14h ago
+Fortune • 15h ago
 
 ---
 
 **[America’s HR Leaders Say We’re Thinking About AI Agents All Wrong](https://www.wsj.com/cio-journal/americas-hr-leaders-say-were-thinking-about-ai-agents-all-wrong-7d8f1439?gaa_at=eafs&gaa_n=AWEtsqc3oeSvlJrqPuHcAgSfCJj9Z5gej9Eeua01tEXYodwKE2I-MAtXF_Jb&gaa_ts=69c781d5&gaa_sig=9Hn147Z2eSlc-fHeH19R1XTkyRL3yMRUM693MDKkl3T4i6JPG4l0lhM7SovQJNYttPPwhG8iLViknGrnIF8beQ%3D%3D)**
 
-WSJ • 10h ago
+WSJ • 11h ago
 
 ---
 
@@ -205,7 +205,7 @@ WSJ • 10h ago
 
 LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. Instead, it was choices made by human beings, over many years, that gave us this atrocity
 
-⬆️ 354 • 💬 318 • 14h ago • [the Guardian](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)
+⬆️ 354 • 💬 318 • 15h ago • [the Guardian](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)
 
 ---
 
@@ -251,7 +251,7 @@ I asked experts if I'm real. Bad news. Even my aunt wasn't sure if I was a deepf
 
 Personal website of Lara Aigmüller. Thoughts about web frontend development, music, and more…
 
-⬆️ 111 • 💬 122 • 14h ago • [lara-aigmueller.at](https://lara-aigmueller.at/thoughts/leaving-the-ai-party/)
+⬆️ 111 • 💬 122 • 15h ago • [lara-aigmueller.at](https://lara-aigmueller.at/thoughts/leaving-the-ai-party/)
 
 ---
 
@@ -273,7 +273,7 @@ Workflow orchestration for AI coding agents, from task to merged PR. - jonwiggin
 
 **[Some uncomfortable truths about AI coding agents](https://news.ycombinator.com/item?id=47545748)**
 
-⬆️ 71 • 💬 80 • 13h ago • [standupforme.app](https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/)
+⬆️ 71 • 💬 80 • 14h ago • [standupforme.app](https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/)
 
 ---
 
@@ -297,7 +297,7 @@ The truth about Sam Altman. AI Critic Karen Hao reveals what 90 OpenAI employees
 
 📺 The Diary Of A CEO
 
-👁️ 1.5M • 👍 41K • 💬 7K • ⏱️ 2:09:13 • 1d ago
+👁️ 1.5M • 👍 41K • 💬 7K • ⏱️ 2:09:13 • 2d ago
 
 ---
 
@@ -327,7 +327,7 @@ Here's the AI News you probably missed this week! Check out Genspark here: ...
 
 📺 Matt Wolfe
 
-👁️ 48K • 👍 2K • 💬 183 • ⏱️ 31:53 • 16h ago
+👁️ 48K • 👍 2K • 💬 183 • ⏱️ 31:53 • 17h ago
 
 ---
 
@@ -405,7 +405,7 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 `text-to-speech`
 
-⬇️ 556 • ❤️ 349 • 17h ago
+⬇️ 556 • ❤️ 349 • 18h ago
 
 ---
 
@@ -429,7 +429,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 3,964 • ❤️ 299 • 6h ago
+⬇️ 3,964 • ❤️ 299 • 7h ago
 
 ---
 
@@ -576,7 +576,7 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 Frontier large language models exhibit Internal Safety Collapse, where they generate harmful content under specific task conditions, revealing inherent vulnerabilities despite alignment efforts.
 
-▲ 30 • 💬 1 • ⭐ 621 • 23d ago
+▲ 30 • 💬 1 • ⭐ 621 • 24d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.23509) • [💻 code](https://github.com/wuyoscar/ISC-Bench) • [🔗 project](https://wuyoscar.github.io/ISC-Bench)
 
@@ -665,7 +665,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 12.9k • 🔱 694 • 18h ago
+⭐ 12.9k • 🔱 694 • 19h ago
 
 ---
 
@@ -675,7 +675,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 8.2k • 🔱 666 • 45m ago
+⭐ 8.2k • 🔱 666 • 1h ago
 
 ---
 
@@ -695,7 +695,7 @@ AI-native design editor. Open-source Figma alternative.
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 298 • 11h ago
+⭐ 3.4k • 🔱 298 • 12h ago
 
 ---
 
@@ -705,7 +705,7 @@ Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messag
 
 `Go`
 
-⭐ 3.3k • 🔱 288 • 4h ago
+⭐ 3.3k • 🔱 288 • 5h ago
 
 ---
 
@@ -715,7 +715,7 @@ end to end app store screenshot creation using AI
 
 `agentic-ai` `apple` `appstore` `automate` `claude`
 
-⭐ 3.3k • 🔱 215 • 13d ago
+⭐ 3.3k • 🔱 215 • 14d ago
 
 ---
 
@@ -733,7 +733,7 @@ SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 
 `Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
 
-⭐ 2.9k • 🔱 481 • 17h ago
+⭐ 2.9k • 🔱 481 • 18h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-28T07:08:29.044583+00:00'
+updated: '2026-03-28T08:00:33.791355+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 28, 2026 at 07:08 UTC  
+**Last Updated:** March 28, 2026 at 08:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Effective March 25, 2026, Pier Two Holdings Pty Ltd has been wholly acquired by Bitmine Immersion Technologies, Inc (NYSE: BMNR)
 
-🔗 [piertwo.com](https://piertwo.com/insights/pier-two-is-joining-mavan-a-bitmine-company) • 3h ago
+🔗 [piertwo.com](https://piertwo.com/insights/pier-two-is-joining-mavan-a-bitmine-company) • 4h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I Built a Privacy-Preserving Bitcoin transaction Receipt Verifier (No KYC, No Screenshots, No wallet). https://github.com/Teycir/Ghostreceipt Would like to have feedback.
 
-10h ago
+11h ago
 
 ---
 
@@ -118,7 +118,7 @@ Ethereum pushes Glamsterdam testing forward as Hegotá headliner debates remain 
 
 **[Paperwallet.ca launch](https://www.reddit.com/r/ethereum/comments/1s543mf/paperwalletca_launch/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -176,7 +176,7 @@ Decrypt • 1d ago
 
 The crypto market is flashing a clear warning, and this time, it’s not just technicals driving the move. Bitcoin price has slipped to $68,670, Ethereum
 
-Coinpedia Fintech News • 23h ago
+Coinpedia Fintech News • 1d ago
 
 ---
 
@@ -200,7 +200,7 @@ The Block • 2d ago
 
 These two coins now have fewer obstacles blocking their growth.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -208,7 +208,7 @@ The Motley Fool • 5h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 16h ago
+Fortune • 17h ago
 
 ---
 
@@ -238,7 +238,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 1K • 👍 79 • 💬 34 • ⏱️ 38:10 • 12h ago
+👁️ 1K • 👍 79 • 💬 34 • ⏱️ 38:10 • 13h ago
 
 ---
 
@@ -248,7 +248,7 @@ BITCOIN & ALTCOIN CRASH: Price Target Confirmed!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 4K • 👍 231 • 💬 110 • ⏱️ 19:00 • 7h ago
+👁️ 4K • 👍 231 • 💬 110 • ⏱️ 19:00 • 8h ago
 
 ---
 
@@ -258,7 +258,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 1K • 👍 126 • 💬 34 • ⏱️ 14:22 • 13h ago
+👁️ 1K • 👍 126 • 💬 34 • ⏱️ 14:22 • 14h ago
 
 ---
 
@@ -288,7 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 90 • 💬 10 • ⏱️ 3:57 • 12h ago
+👁️ 1K • 👍 90 • 💬 10 • ⏱️ 3:57 • 13h ago
 
 ---
 
