@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-28T08:00:33.794531+00:00'
+updated: '2026-03-28T09:05:18.302306+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 28, 2026 at 08:00 UTC  
+**Last Updated:** March 28, 2026 at 09:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 i have spent the past 2 months to design this arm in fusion, and now i am facing an issue on how to export this to isaac sim/ specifically the gripper, since it a 4 bar mechanism actuated with 3 gears. i thought of writing my own scripts of MJCF(because it supports kinematic loops), and then importing it in isaac sim
 
-1h ago
+2h ago
 
 ---
 
@@ -44,7 +44,13 @@ i have spent the past 2 months to design this arm in fusion, and now i am facing
 
 Hello everyone, I wanted to share my project that I've been working on for months. I've recycled two old 3D printers Anet A8 into a robotic arm. My main goal is to make a coffee with it. The motors and the electronic cards are from the printers. I've flashed them with Marlin and control them with python with a custom interface. I need to use 2 boards because I can only control independently 4 motors with one board. All the joints design are homemade, and 3d printed. The endeffector is a design from Makerworld u/user_2700759104 (I will build my own in the next days). There is a lot of backlash because of the planetary gears that I use. I plan to change them in the future. If anyone knows a reduction gear for Nema17 with minimum backlash I am all ears ! Thanks to the gear ratio, I've measured 2.9kg of force with the J2. List of components : Motors (J1->J6) : Nema17 Endeffector : Servo SG90 Boards : 2 Anet A8 + 1 Arduino Uno Reduction : J1 - 19:1 J2 - 51:1 J3 - 19:1 J4 - 19:1 J5 - 19:1 (90° 1:1) J6 - 1:1
 
-20h ago
+21h ago
+
+---
+
+**[WANDER-Bot, a wind-powered robot designed for long-term exploration of hostile environments.](https://www.reddit.com/r/robotics/comments/1s59h0n/wanderbot_a_windpowered_robot_designed_for/)**
+
+16h ago
 
 ---
 
@@ -52,13 +58,7 @@ Hello everyone, I wanted to share my project that I've been working on for month
 
 Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dataset From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2037440578275946551
 
-20h ago
-
----
-
-**[WANDER-Bot, a wind-powered robot designed for long-term exploration of hostile environments.](https://www.reddit.com/r/robotics/comments/1s59h0n/wanderbot_a_windpowered_robot_designed_for/)**
-
-15h ago
+21h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dat
 
 I didn't use the T265; instead, I chose the RoboBaton mini to control the car's forward movement.I found the RoboBaton mini works well.Look the video !
 
-17h ago
+19h ago
 
 ---
 
@@ -76,19 +76,19 @@ I didn't use the T265; instead, I chose the RoboBaton mini to control the car's 
 
 ---
 
+**[Robotics Vision interview](https://www.reddit.com/r/robotics/comments/1s5gzn7/robotics_vision_interview/)**
+
+Already asked in the proper forums, to no avail. Hopefully someone can reply before I'm deleted lol. I have an interview at a well known company that uses assembly lines, to assemble components. The position is related to "Robotics Vision", cameras and sensors and such. I have a background in material handling equipment, with minor knowledge on cameras and sensors unrelated to automous robotics on this scale. My question is, what are some key items for me to be aware of in the space of Robotics Vision in order to land this job and more specifically the tech interview? I'm not looking for an entire study guide, just some relevant information related to the interview that I may be asked. I appreciate any and all help, if any!
+
+11h ago
+
+---
+
 **[flip~ flip~ flip~](https://www.reddit.com/r/robotics/comments/1s49487/flip_flip_flip/)**
 
 Yeah, front flips. I know, I've seen a lot of "who cares," "useless flex," "why don't you do something useful," "seen it a hundred times." Fair. But when it actually works on a real robot, you still feel it. Still a lot to fix, but this was a good day :D
 
 1d ago
-
----
-
-**[Robotics Vision interview](https://www.reddit.com/r/robotics/comments/1s5gzn7/robotics_vision_interview/)**
-
-Already asked in the proper forums, to no avail. Hopefully someone can reply before I'm deleted lol. I have an interview at a well known company that uses assembly lines, to assemble components. The position is related to "Robotics Vision", cameras and sensors and such. I have a background in material handling equipment, with minor knowledge on cameras and sensors unrelated to automous robotics on this scale. My question is, what are some key items for me to be aware of in the space of Robotics Vision in order to land this job and more specifically the tech interview? I'm not looking for an entire study guide, just some relevant information related to the interview that I may be asked. I appreciate any and all help, if any!
-
-10h ago
 
 ---
 
@@ -104,7 +104,7 @@ This is the new and improved state of the driver board for my work in progress 6
 
 ROS News for the Week of March 23rd, 2026      The ROSCon Global 2026 call for sponsors is out. We also updated the website with additional venue information. 📣 If you are planning to submit a ROSCon work shop proposal the deadline is coming up quick, April 5th, to be exact!                On the event front ROSCon Croatia is scheduled for Monday and from what I hear is sold out! Over the weekend we have another Nigerian ROS meetup on deck, along with meetups in the Netherlands, German...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-march-23rd-2026/53588) • 12h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-march-23rd-2026/53588) • 13h ago
 
 ---
 
@@ -114,7 +114,7 @@ ROS News for the Week of March 23rd, 2026      The ROSCon Global 2026 call for s
 
 **[AI Robotics Lab in Talks to Raise $1 Billion at $11 Billion Valuation](https://www.bloomberg.com/news/articles/2026-03-27/ex-deepmind-staffers-robotics-startup-in-talks-for-11-billion-valuation)**
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -130,13 +130,13 @@ CNBC • 1d ago
 
 LOS ANGELES, March 27, 2026--Faraday Future Intelligent Electric Inc. (Nasdaq: FFAI) ("Faraday Future," "FF," or the "Company"), a California-based global Embodied AI (EAI) ecosystem company, today announced another delivery of its Master robot and pilot delivery of the Aegis robot to Los Angeles based New PBB Auto Inc. New PBB made a binding FX business-to-business (B2B) deposit agreement with FF last year, which includes a non-refundable deposit and a non-binding pre-order for 600 units of the
 
-finance.yahoo.com • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Milliwatt ultrasound for navigation in visually degraded environments on palm-sized aerial robots](https://www.science.org/doi/10.1126/scirobotics.adz9609)**
+**[US lawmakers to introduce bill to ban government use of Chinese robots](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/)**
 
-Science | AAAS • 2d ago
+Reuters • 1d ago
 
 ---
 
@@ -144,13 +144,15 @@ Science | AAAS • 2d ago
 
 Roadrunner moves in-line, on one wheel, or two to stay nimble and on the go. Plus NASA's SkyFall Mars helicopters and MoonFall mission are gearing up.
 
-IEEE Spectrum • 15h ago
+IEEE Spectrum • 16h ago
 
 ---
 
-**[US lawmakers to introduce bill to ban government use of Chinese robots](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/)**
+**[Delivery robots keep crashing into bus shelters](https://www.popsci.com/technology/delivery-robots-crash-bus-shelters/)**
 
-Reuters • 1d ago
+It's been a bad week for burritos on wheels.
+
+Popular Science • 1d ago
 
 ---
 
@@ -162,14 +164,6 @@ upi.com • 1d ago
 
 ---
 
-**[Chicago leaders speak out after food delivery robots with Serve Robotics, Coco Robotics cause damage at CTA bus shelters](https://abc7chicago.com/post/chicago-leaders-speak-food-delivery-robots-serve-robotics-coco-cause-damage-cta-bus-shelters/18772726/)**
-
-Two recent incidents of food delivery robots smashing into CTA bus shelters days apart happened as Chicagoans continue to debate whether the robots are a public benefit or a nuisance.
-
-ABC7 Chicago • 2d ago
-
----
-
 **[Rogue delivery robots are plowing into Chicago bus shelters, ‘bumping’ into pedestrians](https://nypost.com/2026/03/25/us-news/rogue-delivery-robots-plowed-into-two-chicago-bus-shelters-bumping-into-pedestrians-hazard-to-peoples-safety/)**
 
 “This is a hazard to people’s safety.”
@@ -178,11 +172,17 @@ New York Post • 2d ago
 
 ---
 
-**[Raleigh students win state robotics title, advance to world championship](https://abc11.com/post/raleigh-students-win-state-robotics-title-advance-world-championship/18778624/)**
+**[Amazon buys Fauna Robotics, maker of the Sprout humanoid robot](https://abcnews.com/Business/wireStory/amazon-buys-fauna-robotics-maker-sprout-humanoid-robot-131377676)**
 
-Four Raleigh middle schoolers are headed to the world stage after winning the top honor at this month's VEX IQ Robotics State Championship in Concord.
+Amazon has acquired Fauna Robotics, just under two months after the startup introduced a humanoid robot called Sprout designed for social spaces like homes and schools
 
-ABC11 Raleigh-Durham • 1d ago
+abcnews.com • 3d ago
+
+---
+
+**[Alive or not? Tiny 3D-printed robots that swim and navigate just like animals](https://techxplore.com/news/2026-03-alive-tiny-3d-robots-animals.html)**
+
+Tech Xplore • 19h ago
 
 ---
 
@@ -286,7 +286,7 @@ Double Wide Adjustable Shooter | 4698 Raider Robotics | FRC Pit Stop This video 
 
 📺 FUN Robotics Network
 
-👁️ 733 • 👍 18 • ⏱️ 1:30 • 7h ago
+👁️ 733 • 👍 18 • ⏱️ 1:30 • 8h ago
 
 ---
 

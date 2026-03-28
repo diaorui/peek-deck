@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-28T08:00:33.791355+00:00'
+updated: '2026-03-28T09:05:18.299544+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - news
+- videos
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 28, 2026 at 08:00 UTC  
+**Last Updated:** March 28, 2026 at 09:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,991.95
+### $2,004.17
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.4%  
-**7d:** -2.5%  
-**30d:** +3.7%  
-**90d:** -31.9%  
-**1y:** +9.5%  
+**24h:** +0.3%  
+**7d:** -2.6%  
+**30d:** +3.6%  
+**90d:** -32.0%  
+**1y:** +9.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Effective March 25, 2026, Pier Two Holdings Pty Ltd has been wholly acquired by Bitmine Immersion Technologies, Inc (NYSE: BMNR)
 
-🔗 [piertwo.com](https://piertwo.com/insights/pier-two-is-joining-mavan-a-bitmine-company) • 4h ago
+🔗 [piertwo.com](https://piertwo.com/insights/pier-two-is-joining-mavan-a-bitmine-company) • 5h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I Built a Privacy-Preserving Bitcoin transaction Receipt Verifier (No KYC, No Screenshots, No wallet). https://github.com/Teycir/Ghostreceipt Would like to have feedback.
 
-11h ago
+12h ago
 
 ---
 
@@ -104,7 +104,7 @@ I Built a Privacy-Preserving Bitcoin transaction Receipt Verifier (No KYC, No Sc
 
 Frame transaction Considered for Inclusion for Hegotá, EthStaker staking survey, EF post-quantum website
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-17/) • 18h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-17/) • 20h ago
 
 ---
 
@@ -118,7 +118,7 @@ Ethereum pushes Glamsterdam testing forward as Hegotá headliner debates remain 
 
 **[Paperwallet.ca launch](https://www.reddit.com/r/ethereum/comments/1s543mf/paperwalletca_launch/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -158,25 +158,11 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqfSKMmbLsUJ59vH2bXG_2n40vG0KA48L6eFKAAQqX0t0PY4u1sSMvtd&gaa_ts=69c781d8&gaa_sig=dlktRhobwGWEXfwS4RpFHcVmBEsgJcx2Hd2tTzZazRLMNr-hmFgz_8oxfgXYXZ-xHevPPTmPpIWjeIITknDQIw%3D%3D)**
-
-Barron's • 1d ago
-
----
-
 **[Bitcoin, Ethereum Slip as Trump Says He's 'Not Desperate' to End Iran War](https://decrypt.co/362516/bitcoin-ethereum-slip-as-trump-says-hes-not-desperate-to-end-iran-war)**
 
 Bitcoin fell alongside stocks as investors weighed conflicting accounts regarding Iran’s willingness to end conflict in the Middle East.
 
 Decrypt • 1d ago
-
----
-
-**[Crypto Crash Alert: Bitcoin, Ethereum Drop as Iran War Sparks Market Panic](https://coinpedia.org/price-analysis/crypto-crash-alert-bitcoin-ethereum-drop-as-iran-war-sparks-market-panic/)**
-
-The crypto market is flashing a clear warning, and this time, it’s not just technicals driving the move. Bitcoin price has slipped to $68,670, Ethereum
-
-Coinpedia Fintech News • 1d ago
 
 ---
 
@@ -188,11 +174,11 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[Tom Lee's Bitmine debuts MAVAN Ethereum staking platform, plans to shift its ETH activity](https://www.theblock.co/post/395080/tom-lees-bitmine-debuts-mavan-ethereum-staking-platform-plans-to-shift-its-eth-activity)**
+**[Bitmine Immersion Technologies (BMNR) Announces Launch of MAVAN (Made In America VAlidator Network), the Company's Proprietary Staking Solution](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-launch-of-mavan-made-in-america-validator-network-the-companys-proprietary-staking-solution-302724419.html)**
 
-Bitmine officially launched the MAVAN Ethereum staking platform, targeting roughly $300 million in annual rewards.
+MAVAN will be the largest Ethereum staking service provider globally and will provide staking services for other proof-of-stake chains and blockchain...
 
-The Block • 2d ago
+PR Newswire • 2d ago
 
 ---
 
@@ -200,7 +186,7 @@ The Block • 2d ago
 
 These two coins now have fewer obstacles blocking their growth.
 
-The Motley Fool • 6h ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -208,7 +194,13 @@ The Motley Fool • 6h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 17h ago
+Fortune • 18h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqenmgVZArXNhXikLBKXNz3-Mk4UIwCwBKsNByvShaNuQeuP5YO4VXe0&gaa_ts=69c79d37&gaa_sig=vPv_xjL_RwQIbinsThhup_oDZK7ydvR1guIqg6YdocXLEA_lyfBfb2igOGlUwjEArgNLIHbcXDMbcnmX-kOIKg%3D%3D)**
+
+barrons.com • 1d ago
 
 ---
 
@@ -217,6 +209,14 @@ Fortune • 17h ago
 Ethereum price failed to clear the $2,200 zone and declined. ETH is now consolidating above $2,020 and might struggle to start a recovery wave.Ethereum Price Dips FurtherEthereum price failed to stay above $2,150 and started a fresh decline, like Bitcoin. ETH price dipped below $2,120 and $2,080 to…
 
 TradingView • 1d ago
+
+---
+
+**[Ethereum Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1774647300)**
+
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 1K • 👍 79 • 💬 34 • ⏱️ 38:10 • 13h ago
+👁️ 1K • 👍 79 • 💬 34 • ⏱️ 38:10 • 14h ago
 
 ---
 
@@ -248,7 +248,7 @@ BITCOIN & ALTCOIN CRASH: Price Target Confirmed!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 4K • 👍 231 • 💬 110 • ⏱️ 19:00 • 8h ago
+👁️ 4K • 👍 231 • 💬 110 • ⏱️ 19:00 • 9h ago
 
 ---
 
@@ -258,7 +258,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 1K • 👍 126 • 💬 34 • ⏱️ 14:22 • 14h ago
+👁️ 1K • 👍 126 • 💬 34 • ⏱️ 14:22 • 15h ago
 
 ---
 
@@ -278,7 +278,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 493 • 👍 16 • 💬 20 • ⏱️ 4:49 • 21h ago
+👁️ 493 • 👍 16 • 💬 20 • ⏱️ 4:49 • 23h ago
 
 ---
 
@@ -288,7 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 90 • 💬 10 • ⏱️ 3:57 • 13h ago
+👁️ 1K • 👍 90 • 💬 10 • ⏱️ 3:57 • 14h ago
 
 ---
 
@@ -318,7 +318,7 @@ URGENTE⚠️Bitcoin y Ethereum en Peligro | Patrón de Caída Detectado... Lo T
 
 📺 CryptoAnálisis
 
-👁️ 3K • 👍 527 • 💬 58 • ⏱️ 19:04 • 19h ago
+👁️ 3K • 👍 527 • 💬 58 • ⏱️ 19:04 • 21h ago
 
 ---
 

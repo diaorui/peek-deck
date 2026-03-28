@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-28T08:00:33.777070+00:00'
+updated: '2026-03-28T09:05:18.286705+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- social
 - repositories
+- news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 28, 2026 at 08:00 UTC  
+**Last Updated:** March 28, 2026 at 09:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 In April Congress is voting to extend the FISA Act on the 20th of April this year. The FISA Act allows the government to buy your emails, texts, and calls from corporations. With the newly established shady deal with Open AI surveillance has become even more accessible and applicable on a much more larger and invasive scale. It very important for the sake of maintaining our right of protest and the press in the future. Call/email your representatives in the US, protest, and speak in any way you can.
 
-5h ago
-
----
-
-**[Nobody’s talking about what Pixar’s Hoppers is actually saying about AI](https://www.reddit.com/r/artificial/comments/1s5rlc5/nobodys_talking_about_what_pixars_hoppers_is/)**
-
-Just watched Hoppers and I’m surprised this hasn’t been picked up more widely. The parallels with AI and its risks are hard to ignore once you see them. A few things worth noting: The setup mirrors our current moment almost exactly. The lead scientist developing the world-changing technology is called Dr. Sam. Her invention lets humans cross a communication barrier that was previously impossible: entering the animal world through embodiment. LLMs did the same thing for the digital world. We can now navigate machines through natural language. The alignment problem is right there on screen. Mabel uses the technology to reach her goal, but the technology has its own logic and momentum. What it produces isn’t what she intended. The governance message is explicit. No single person or group should control a technology this powerful even when we have good intentions. The real cautionary tale in Hoppers isn’t aimed at the tech builders. It’s for the users, the ones who convince themselves that it is the only way to solve the world’s problems. The consequences in the film flow from that belief. Not from the tech itself. Curious if anyone else read it this way.
-
-🔗 [Pixar Animation Studios](https://www.pixar.com/hoppers) • 2h ago
+6h ago
 
 ---
 
@@ -57,7 +49,23 @@ Just watched Hoppers and I’m surprised this hasn’t been picked up more widel
 
 Anthropic warned about the AI model's cybersecurity risks in the leaked post as well.
 
-🔗 [Mashable](https://mashable.com/article/claude-mythos-ai-model-anthropic-leak) • 10h ago
+🔗 [Mashable](https://mashable.com/article/claude-mythos-ai-model-anthropic-leak) • 11h ago
+
+---
+
+**[Nobody’s talking about what Pixar’s Hoppers is actually saying about AI](https://www.reddit.com/r/artificial/comments/1s5rlc5/nobodys_talking_about_what_pixars_hoppers_is/)**
+
+Just watched Hoppers and I’m surprised this hasn’t been picked up more widely. The parallels with AI and its risks are hard to ignore once you see them. A few things worth noting: The setup mirrors our current moment almost exactly. The lead scientist developing the world-changing technology is called Dr. Sam. Her invention lets humans cross a communication barrier that was previously impossible: entering the animal world through embodiment. LLMs did the same thing for the digital world. We can now navigate machines through natural language. The alignment problem is right there on screen. Mabel uses the technology to reach her goal, but the technology has its own logic and momentum. What it produces isn’t what she intended. The governance message is explicit. No single person or group should control a technology this powerful even when we have good intentions. The real cautionary tale in Hoppers isn’t aimed at the tech builders. It’s for the users, the ones who convince themselves that it is the only way to solve the world’s problems. The consequences in the film flow from that belief. Not from the tech itself. Curious if anyone else read it this way.
+
+🔗 [Pixar Animation Studios](https://www.pixar.com/hoppers) • 3h ago
+
+---
+
+**[I have created a biologically based AI model](https://www.reddit.com/r/artificial/comments/1s5phn4/i_have_created_a_biologically_based_ai_model/)**
+
+I've spent the last year building NIMCP — a biologically-inspired artificial brain in C that trains six different neural network types simultaneously (spiking, liquid, convolutional, Fourier, Hamiltonian, adaptive) with gradient flow between them through learnable bridges. Some things that might be interesting to this crowd: - The SNN developed 26 Hz firing rates with 67% sparsity — within mammalian cortical range — without any regularization targeting those values. It emerged from cross-network training pressure. - Safety is structural, not behavioral. The ethics module is a function call in the inference code path, not a learned weight. It can't be fine-tuned away or jailbroken. The governance rules can only get stricter. You can verify this by reading the source. - The brain learns through curiosity: prediction error → dopamine → STDP gating. No reward function. - Training follows a 4-stage developmental curriculum (sensory → naming → feedback →reasoning). The training is currently in Stage 2. You can watch it train live on the website — metrics update every 60 seconds. - 2,600 source files, 240 Python API methods, 8 language bindings. The system runs on a single RTX 4000 (20 GB VRAM). Eight technical papers on the site covering the math, training methodology, safety architecture, and emergent dynamics. Code: https://github.com/redmage123/nimcp I am happy to answer questions about the architecture, training dynamics, or why I think growing intelligence through developmental stages might work differently than scaling transformers.
+
+5h ago
 
 ---
 
@@ -69,19 +77,27 @@ A federal judge told the government it could not immediately enforce a ban on An
 
 ---
 
-**[I have created a biologically based AI model](https://www.reddit.com/r/artificial/comments/1s5phn4/i_have_created_a_biologically_based_ai_model/)**
-
-I've spent the last year building NIMCP — a biologically-inspired artificial brain in C that trains six different neural network types simultaneously (spiking, liquid, convolutional, Fourier, Hamiltonian, adaptive) with gradient flow between them through learnable bridges. Some things that might be interesting to this crowd: - The SNN developed 26 Hz firing rates with 67% sparsity — within mammalian cortical range — without any regularization targeting those values. It emerged from cross-network training pressure. - Safety is structural, not behavioral. The ethics module is a function call in the inference code path, not a learned weight. It can't be fine-tuned away or jailbroken. The governance rules can only get stricter. You can verify this by reading the source. - The brain learns through curiosity: prediction error → dopamine → STDP gating. No reward function. - Training follows a 4-stage developmental curriculum (sensory → naming → feedback →reasoning). The training is currently in Stage 2. You can watch it train live on the website — metrics update every 60 seconds. - 2,600 source files, 240 Python API methods, 8 language bindings. The system runs on a single RTX 4000 (20 GB VRAM). Eight technical papers on the site covering the math, training methodology, safety architecture, and emergent dynamics. Code: https://github.com/redmage123/nimcp I am happy to answer questions about the architecture, training dynamics, or why I think growing intelligence through developmental stages might work differently than scaling transformers.
-
-4h ago
-
----
-
 **[Tracker for people who quit AI companies due to safety concerns](https://www.reddit.com/r/artificial/comments/1s5jop3/tracker_for_people_who_quit_ai_companies_due_to/)**
 
 Found this site that tracks researchers and executives who left OpenAI, Google, Anthropic, and others over safety concerns. It's kind of amazing to see the patterns; concerns become really obvious across companies. I love AI but do want to see regulations. The interesting part: it extracts specific predictions the researchers made and tracks whether they come true. 4 confirmed, 1 disproven, 6 still open. I would think there are others, the number is not that high, but maybe also most people who leave do it quietly? What do you think? ethicalaidepartures.fyi
 
-8h ago
+10h ago
+
+---
+
+**[Looking for a solid ChatGPT alternative for daily work](https://www.reddit.com/r/artificial/comments/1s5v317/looking_for_a_solid_chatgpt_alternative_for_daily/)**
+
+I was long juggling separate monthly subscriptions for Claude, Gemini, and GPT-4 until the costs and tab-switching became a total mess and I started paying over 100 bucks each mont. Then, I tried consolidating everything into a single hub, done that both locally and online, both api and openrouter and all in one online and writingmate. such consolidation then saved me about half of my resources pet each month. I do not have to deal with the constant cooldowns or model blocks that happen when you hit usage caps on a single platform anymore. And having 200+ models in one place has been a massive time-saver for my coding and doc review tasks. I recently processed a 100-page research paper using a long-context model I found on there, which would have been a pain to upload and prompt elsewhere. It is a practical ChatGPT alternative for anyone trying to streamline their setup rather than jumping between browser windows. I am also curious if anyone else here has moved away from the main platform for their daily tasks? Does anyone else find the model-switching friction as annoying as I did?
+
+22m ago
+
+---
+
+**[We need to teach AI the essence of being human to reduce the risk of misalignment](https://www.reddit.com/r/artificial/comments/1s5v1kn/we_need_to_teach_ai_the_essence_of_being_human_to/)**
+
+One part of the alignment problem is that AI does not genuinely understand what it's like to live in the world, even though it can describe it so accurately. If it doesn't understand human life, why protect or respect it? A chat model's answer to what it's like to be human is pretty unconvincing and unemotional. But, if you tell it what's it's like to live, at a more personal level ... Feeling intense pain, fearing it will never end. The joy and reward of doing something that helps others, however small or great. The unconditional love of making first eye contact, seconds after your baby is born. The power of addiction overriding everything else, in someone you love or in yourself. Your world closing in after a cancer diagnosis. Seeing everything differently after coming to terms with your own mortality. The deep joy of recovery. The wonder of losing yourself completely in a moment, undistracted, without a care in the world. The excitement of opportunity opening up. The disillusionment of feeling there are no chances at all. Holding a parent's hand as they take their final breath. ... it gives you a much better answer, that provokes an emotional reaction. AI largely learns from what's on the internet. Could we reduce the alignment risk by creating a global, open platform*,* to become part of AI's learning input? ... People sharing not opinions or news, but experience. What it felt like to live through today, in the context of their own life, their country, the wider world. Their joys and fears, their small victories, their unanswered questions. Not curated, just anonymous honesty. Would this work? I've written a blog post, looking at this in more detail if you're interested (free, no ads etc) ... Teaching AI the essence of being human
+
+24m ago
 
 ---
 
@@ -89,7 +105,7 @@ Found this site that tracks researchers and executives who left OpenAI, Google, 
 
 I feel like, as the quality of the output has caught up with the level of creativity of those who use it, there is a bit of a thaw in the AI hostility. While still far from welcome generally, even here on Reddit I’ve seen many AI videos get grudging respect and even seen several on the front page, because the quality and creativity have won people over. Anyone else noticing the beginning of a trend?
 
-9h ago
+10h ago
 
 ---
 
@@ -97,23 +113,7 @@ I feel like, as the quality of the output has caught up with the level of creati
 
 Genuinely curious where people stand on this. Not talking about sci-fi scenarios. Talking about real production systems today. Have you seen an AI system ignore its own instructions? Misread what the user was actually asking for? Take an action that wasn't supposed to? Give a completely different answer to the same question just because you worded it differently? And when something went wrong, was there any trace of why it happened? No right or wrong here. Just trying to understand whether this is widespread or if I'm reading too much into it.
 
-15h ago
-
----
-
-**[Right now AI made people work more. When you think people will work less if that will ever happen.](https://www.reddit.com/r/artificial/comments/1s5cmca/right_now_ai_made_people_work_more_when_you_think/)**
-
-Or are we stuck with works of 8 hours per day forever?
-
-13h ago
-
----
-
-**[Claude.ai and openai.com redirecting to anti-ai.ssvr.net?](https://www.reddit.com/r/artificial/comments/1s5i6de/claudeai_and_openaicom_redirecting_to/)**
-
-I've just tried this out on two computers on separate networks. Navigating to claude.ai or openai.com both redirect to this site - ai.ssvr\net
-
-9h ago
+16h ago
 
 ---
 
@@ -121,49 +121,41 @@ I've just tried this out on two computers on separate networks. Navigating to cl
 
 ## Google News: "ai"
 
+**[Exclusive: Anthropic is testing ‘Mythos,’ its ‘most powerful AI model ever developed’](https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/)**
+
+Anthropic said it was testing the new model, which it called a 'step change' in performance, after accidental data leak reveals its existence
+
+Fortune • 1d ago
+
+---
+
 **[Number of AI chatbots ignoring human instructions increasing, study says](https://www.theguardian.com/technology/2026/mar/27/number-of-ai-chatbots-ignoring-human-instructions-increasing-study-says)**
 
 Exclusive: Research finds sharp rise in models evading safeguards and destroying emails without permission
 
-The Guardian • 19h ago
+The Guardian • 20h ago
 
 ---
 
-**[Increasing Number Of AI Chatbots Engaging In Scheming And Deceptive Behaviour: Study](https://www.ndtv.com/feature/increasing-number-of-ai-chatbots-engaging-in-scheming-and-deceptive-behaviour-study-11277195)**
+**[Goldman’s New Adviser Rishi Sunak Urges Small Firms to Adopt AI](https://www.bloomberg.com/news/articles/2026-03-28/goldman-s-new-adviser-rishi-sunak-urges-small-firms-to-adopt-ai)**
 
-A new research reveals that reports of deceptive scheming in AI chatbots and agents have surged in the last six months.
-
-NDTV • 5h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Self-affirmations from AI chatbots harm human relationships: Study](https://www.wane.com/news/top-picks/self-affirmations-from-ai-chatbots-harm-human-relationships-study/)**
+**[Councillor says AI images are 'manipulating the truth'](https://www.bbc.com/news/videos/cx2vyk5zpnxo)**
 
-WANE 15 • 6h ago
+Councillor says AI images are 'manipulating the truth'
 
----
-
-**[Cybersecurity stocks fall on report Anthropic is testing a powerful new model](https://www.cnbc.com/2026/03/27/anthropic-cybersecurity-stocks-ai-mythos.html)**
-
-The cybersecurity sector has slumped this year on fears that new AI will massively disrupt their business models.
-
-CNBC • 16h ago
+bbc.com • 35m ago
 
 ---
 
-**[The Traitors: Rachel Duffy inspires AI pint price checker](https://www.bbc.com/news/articles/clydj217e8vo)**
+**[Alibaba bets big on AI agents that can power 'one-person companies' — a growing phenomenon in China](https://www.businessinsider.com/ai-agents-one-person-companies-china-openclaw-alibaba-president-2026-3)**
 
-An engineer creates an AI voice agent, inspired by Rachel Duffy, to track Guinness prices in pubs.
+Alibaba.com president Kuo Zhang discusses the rise of one-person companies, aided by AI agents OpenClaw.
 
-BBC • 1h ago
-
----
-
-**[How much water does AI consume?](https://www.bbc.com/audio/play/p0n95zxd)**
-
-We take a deep dive into AI’s water consumption
-
-BBC • 1h ago
+Business Insider • 5m ago
 
 ---
 
@@ -171,7 +163,7 @@ BBC • 1h ago
 
 Tech elites have seized on humanoid robots to transform manual labor and other fields left out of the AI boom, an area called “physical AI.”
 
-The Washington Post • 15h ago
+The Washington Post • 16h ago
 
 ---
 
@@ -179,21 +171,29 @@ The Washington Post • 15h ago
 
 Audiovisual evidence is no match for a viral conspiracy theory that Benjamin Netanyahu is dead.
 
-The Atlantic • 14h ago
+The Atlantic • 15h ago
 
 ---
 
-**[This AI-proof career faces a 250,000-worker shortage—now the Trump administration is trying to revive the job millennials abandoned](https://fortune.com/2026/03/27/shipbuilding-industry-skilled-trade-job-shortages-gen-z-opportunity-trump-administration-manufacturing-revitalization-ai-proof-high-wages/)**
+**[America’s HR Leaders Say We’re Thinking About AI Agents All Wrong](https://www.wsj.com/cio-journal/americas-hr-leaders-say-were-thinking-about-ai-agents-all-wrong-7d8f1439?gaa_at=eafs&gaa_n=AWEtsqcYUQPajI6dYt7JXOshvq_ljRwV_4wYbTB1QMZZGlNjhA7JwwRMjqa6&gaa_ts=69c79d34&gaa_sig=-MV-Ncci0CHHY5__5e0DROhLgawoA0CE0AzNx_UDEK0H3U7Xg_lV5iJ-CHbE9TVk7x8gPeEcAt4z_eeIHdFFow%3D%3D)**
 
-Shipbuilding is desperate for workers, and it could be an opportunity for Gen Z seeking AI-proof jobs with no degree required. Workers at a major U.S. facility just got a historic 18% raise.
-
-Fortune • 15h ago
+WSJ • 12h ago
 
 ---
 
-**[America’s HR Leaders Say We’re Thinking About AI Agents All Wrong](https://www.wsj.com/cio-journal/americas-hr-leaders-say-were-thinking-about-ai-agents-all-wrong-7d8f1439?gaa_at=eafs&gaa_n=AWEtsqc3oeSvlJrqPuHcAgSfCJj9Z5gej9Eeua01tEXYodwKE2I-MAtXF_Jb&gaa_ts=69c781d5&gaa_sig=9Hn147Z2eSlc-fHeH19R1XTkyRL3yMRUM693MDKkl3T4i6JPG4l0lhM7SovQJNYttPPwhG8iLViknGrnIF8beQ%3D%3D)**
+**[David Sacks says his time as Trump's crypto and AI czar has ended](https://www.cnbc.com/2026/03/26/david-sacks-trump-crypto-ai-czar.html)**
 
-WSJ • 11h ago
+The venture capitalist said he will still be a part of the White House's Technology committee and will help push Trump's AI plan forward.
+
+CNBC • 1d ago
+
+---
+
+**[Amazon’s big bet in AI has been 20 years in the making](https://www.cnn.com/2026/03/27/tech/amazon-ai-aws-vis)**
+
+Matt Garman helps make your online life – your Starbucks order, your Netflix binge, your Pinterest browsing– possible.
+
+CNN • 1d ago
 
 ---
 
@@ -205,7 +205,7 @@ WSJ • 11h ago
 
 LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. Instead, it was choices made by human beings, over many years, that gave us this atrocity
 
-⬆️ 354 • 💬 318 • 15h ago • [the Guardian](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)
+⬆️ 366 • 💬 329 • 16h ago • [the Guardian](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)
 
 ---
 
@@ -219,7 +219,7 @@ LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. In
 
 The decision follows activist pressure as Palantir faces growing scrutiny over NHS and UK government deals
 
-⬆️ 307 • 💬 145 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai)
+⬆️ 308 • 💬 144 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai)
 
 ---
 
@@ -227,7 +227,7 @@ The decision follows activist pressure as Palantir faces growing scrutiny over N
 
 One engineer used AI to rewrite JSONata as a pure-Go library called gnata. Seven hours, $400 in tokens, 1,000x speedup, and $500K/year off our cloud bill.
 
-⬆️ 260 • 💬 238 • 1d ago • [reco.ai](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)
+⬆️ 261 • 💬 240 • 1d ago • [reco.ai](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)
 
 ---
 
@@ -235,7 +235,7 @@ One engineer used AI to rewrite JSONata as a pure-Go library called gnata. Seven
 
 One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced his sentient friend would make him a fortune. He’s just one of many people who lost control after an AI encounter
 
-⬆️ 216 • 💬 274 • 1d ago • [the Guardian](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion)
+⬆️ 216 • 💬 275 • 1d ago • [the Guardian](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion)
 
 ---
 
@@ -251,7 +251,7 @@ I asked experts if I'm real. Bad news. Even my aunt wasn't sure if I was a deepf
 
 Personal website of Lara Aigmüller. Thoughts about web frontend development, music, and more…
 
-⬆️ 111 • 💬 122 • 15h ago • [lara-aigmueller.at](https://lara-aigmueller.at/thoughts/leaving-the-ai-party/)
+⬆️ 112 • 💬 122 • 16h ago • [lara-aigmueller.at](https://lara-aigmueller.at/thoughts/leaving-the-ai-party/)
 
 ---
 
@@ -273,7 +273,7 @@ Workflow orchestration for AI coding agents, from task to merged PR. - jonwiggin
 
 **[Some uncomfortable truths about AI coding agents](https://news.ycombinator.com/item?id=47545748)**
 
-⬆️ 71 • 💬 80 • 14h ago • [standupforme.app](https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/)
+⬆️ 72 • 💬 81 • 15h ago • [standupforme.app](https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/)
 
 ---
 
@@ -327,7 +327,7 @@ Here's the AI News you probably missed this week! Check out Genspark here: ...
 
 📺 Matt Wolfe
 
-👁️ 48K • 👍 2K • 💬 183 • ⏱️ 31:53 • 17h ago
+👁️ 48K • 👍 2K • 💬 183 • ⏱️ 31:53 • 18h ago
 
 ---
 
@@ -367,7 +367,7 @@ Build your own AI agent team and automate your daily ops — try Accio Work FREE
 
 📺 Silicon Valley Girl
 
-👁️ 9K • 👍 392 • 💬 48 • ⏱️ 44:41 • 18h ago
+👁️ 9K • 👍 392 • 💬 48 • ⏱️ 44:41 • 20h ago
 
 ---
 
@@ -405,7 +405,7 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 `text-to-speech`
 
-⬇️ 556 • ❤️ 349 • 18h ago
+⬇️ 556 • ❤️ 349 • 19h ago
 
 ---
 
@@ -429,7 +429,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 3,964 • ❤️ 299 • 7h ago
+⬇️ 3,964 • ❤️ 299 • 8h ago
 
 ---
 
@@ -665,7 +665,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 12.9k • 🔱 694 • 19h ago
+⭐ 12.9k • 🔱 694 • 20h ago
 
 ---
 
@@ -675,7 +675,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 8.2k • 🔱 666 • 1h ago
+⭐ 8.2k • 🔱 666 • 2h ago
 
 ---
 
@@ -695,7 +695,7 @@ AI-native design editor. Open-source Figma alternative.
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 298 • 12h ago
+⭐ 3.4k • 🔱 298 • 13h ago
 
 ---
 
@@ -705,7 +705,7 @@ Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messag
 
 `Go`
 
-⭐ 3.3k • 🔱 288 • 5h ago
+⭐ 3.3k • 🔱 288 • 6h ago
 
 ---
 
@@ -733,7 +733,7 @@ SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 
 `Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
 
-⭐ 2.9k • 🔱 481 • 18h ago
+⭐ 2.9k • 🔱 481 • 19h ago
 
 ---
 
