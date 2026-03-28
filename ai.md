@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-28T17:57:58.491114+00:00'
+updated: '2026-03-28T18:53:22.232322+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
+- social
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 28, 2026 at 17:57 UTC  
+**Last Updated:** March 28, 2026 at 18:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 In April Congress is voting to extend the FISA Act on the 20th of April this year. The FISA Act allows the government to buy your emails, texts, and calls from corporations. With the newly established shady deal with Open AI surveillance has become even more accessible and applicable on a much more larger and invasive scale. It very important for the sake of maintaining our right of protest and the press in the future. Call/email your representatives in the US, protest, and speak in any way you can.
 
-15h ago
+16h ago
 
 ---
 
@@ -49,7 +49,7 @@ In April Congress is voting to extend the FISA Act on the 20th of April this yea
 
 I follow AI infrastructure pretty closely and Qubic keeps coming up in my research in a way I find intersting but havent seen much discussion of in AI-focused comunities. Quick background for people who havent heard of it: Qubic uses what they call Useful Proof of Work - instead of hardware solving random hash puzzles, the compute runs neural network training tasks for thier Aigarth AI project. The same hardware is contributing to AI training while securing things. The network was independently verifed at 15.52 million transactions per second by CertiK on live mainnet. For context, thats faster than Visas theoretical peak throughput. The architecture runs on bare metal hardware without a virtual machine layer, which is aparently what enables the throughput. Theyre also aparently launching a DOGE mining integration immenantly (around April 1) where thier infrastructure will run Dogecoin mining simultaniously with everything else - the ASIC hardware for DOGE Scrypt mining runs in paralel with thier CPU/GPU hardware for other workloads. For comparison, people often bring up Bittensor, but from what I see Bittensor is more about competing AIs and subnets rewarding each other rather than actually using the distributed compute to train models from scratch with raw hardware power. Qubic seems different in that the mining itself is the training. Big companies are pouring billions into building massive data centers and training ever bigger LLMs, but I dont think true AGI is gonna come just from scaling up these trained models no matter how much money they throw at it. My interest is specifically in the distributed AI compute angle. Is the model of mining-funded distributed AI training something that gets serius discussion in AI research cirles? Or is this considered a fundementaly different category from serius AI infrastructure?
 
-7h ago
+8h ago
 
 ---
 
@@ -57,7 +57,7 @@ I follow AI infrastructure pretty closely and Qubic keeps coming up in my resear
 
 Hey guys, Thank you so much for your love and support regarding Netryx Astra V2 last time. Many people are not that technically savvy to install the GitHub repo and test the tool out immediately so I built a small web demo covering a 10km radius of New York, it's completely free and uses the same pipeline as the repo. I have limited the number of credits since each search consumes GPU costs, but if that's an issue you can install the repo and index any city you want with unlimited searches. I would accept any feedback include searches that failed or didn't work for you. The site works best on desktop Web demo link: https://www.netryx.live Repo link: https://github.com/sparkyniner/Netryx- Astra-V2-Geolocation-Tool
 
-2h ago
+3h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hey guys, Thank you so much for your love and support regarding Netryx Astra V2 
 
 The idea is called HALO - Hierarchical Autonomous Learning Organism. The core premise is simple: what if instead of just making LLMs bigger, we actually looked at how intelligence works in nature and built something that mirrors those principles? Not just the human brain either, evolution spent hundreds of millions of years solving different cognitive problems in different species. Why not take the best bits from all of them? Some of what ended up in the design: It has a nervous system. Not metaphorically, it’s literally wired to monitor its own hardware. GPU temps, memory pressure, all of it. When it’s running hot it conserves and gets cautious. When it’s idle and cool it explores and consolidates. Biological stress response, but for silicon. It learns the way animals learn. One strong negative experience permanently changes how it perceives that category of situation, like a kid touching a hot stove. Not just “add a rule” but actually changing the lens it sees similar situations through. Compare that to how current AI just… forgets everything between sessions. It has eight processing arms inspired by octopus neurology. Two thirds of an octopus’s neurons are in its arms, not its brain. Each arm is semi autonomous. Applied here that means memory retrieval, fact checking, simulation, tool staging, all running in parallel before the main model even needs them. No central bottleneck. It knows what it doesn’t know. There are three knowledge databases, what it’s verified, what it’s uncertain about, and a registry of confirmed gaps. That last one is the interesting one. It knows the shape of its own ignorance. That’s what drives the curiosity engine. That’s what makes it actually want to learn rather than just respond. It develops a personality over time. Starts with one seed temperament, curiosity, and everything else emerges from experience. There’s a developmental threshold, and once it crosses it, the system looks at what it’s actually become and that becomes its baseline. Not programmed personality. Accumulated identity. It can choose to ignore guidance and learn from the consequences. Bounded, transparent autonomy. It knows when advice is good and can still try something different. The outcome, good or bad, is the learning signal. That’s how real judgment develops. And everything is declared openly, nothing hidden. The whole thing is designed to run locally, on a gaming PC, with no cloud dependency. Private. Continuous. Gets smarter through use, not retraining. I put together a technical white paper with the complete architecture if anyone wants to go deep. 34+ subsystems, full brain region mapping, animal cognition mapping, causal reasoning engine, six-level memory tree, the works. I genuinely think the pieces are all there. Would love to get some feedback on the idea. The idea is fully open for use, so if anything from the architecture may benefit your project, you’re free to use it.
 
-2h ago
+3h ago
 
 ---
 
@@ -73,7 +73,7 @@ The idea is called HALO - Hierarchical Autonomous Learning Organism. The core pr
 
 I was long juggling separate monthly subscriptions for Claude, Gemini, and GPT-4 until the costs and tab-switching became a total mess and I started paying over 100 bucks each mont. Then, I tried consolidating everything into a single hub, done that both locally and online, both api and openrouter and all in one online and writingmate. such consolidation then saved me about half of my resources pet each month. I do not have to deal with the constant cooldowns or model blocks that happen when you hit usage caps on a single platform anymore. And having 200+ models in one place has been a massive time-saver for my coding and doc review tasks. I recently processed a 100-page research paper using a long-context model I found on there, which would have been a pain to upload and prompt elsewhere. It is a practical ChatGPT alternative for anyone trying to streamline their setup rather than jumping between browser windows. I am also curious if anyone else here has moved away from the main platform for their daily tasks? Does anyone else find the model-switching friction as annoying as I did?
 
-9h ago
+10h ago
 
 ---
 
@@ -81,7 +81,7 @@ I was long juggling separate monthly subscriptions for Claude, Gemini, and GPT-4
 
 Test content here.
 
-6m ago
+1h ago
 
 ---
 
@@ -89,7 +89,7 @@ Test content here.
 
 Al agents are running on infrastructure built for humans. Every state check runs 9 shell commands. Every cold start re-discovers context from scratch. It's wasteful by design. An agentic JSON-native OS fixes it. Benchmarks across 5 real scenarios: Semantic search vs grep + cat: 91% fewer tokens Agent pickup vs cold log parsing: 83% fewer tokens State polling vs shell commands: 57% fewer tokens Overall: 68.5% reduction Benchmark is fully reproducible: python3 tools/ bench_compare.py Plugs into Claude Code via MCP, runs local inference through Ollama, MIT licensed. Would love feedback from people actually running agentic workflows. https://github.com/ninjahawk/hollow-agentOS
 
-26m ago
+1h ago
 
 ---
 
@@ -97,7 +97,7 @@ Al agents are running on infrastructure built for humans. Every state check runs
 
 Anthropic warned about the AI model's cybersecurity risks in the leaked post as well.
 
-🔗 [Mashable](https://mashable.com/article/claude-mythos-ai-model-anthropic-leak) • 20h ago
+🔗 [Mashable](https://mashable.com/article/claude-mythos-ai-model-anthropic-leak) • 21h ago
 
 ---
 
@@ -105,7 +105,7 @@ Anthropic warned about the AI model's cybersecurity risks in the leaked post as 
 
 Just watched Hoppers and I’m surprised this hasn’t been picked up more widely. The parallels with AI and its risks are hard to ignore once you see them. A few things worth noting: The setup mirrors our current moment almost exactly. The lead scientist developing the world-changing technology is called Dr. Sam. Her invention lets humans cross a communication barrier that was previously impossible: entering the animal world through embodiment. LLMs did the same thing for the digital world. We can now navigate machines through natural language. The alignment problem is right there on screen. Mabel uses the technology to reach her goal, but the technology has its own logic and momentum. What it produces isn’t what she intended. The governance message is explicit. No single person or group should control a technology this powerful even when we have good intentions. The real cautionary tale in Hoppers isn’t aimed at the tech builders. It’s for the users, the ones who convince themselves that it is the only way to solve the world’s problems. The consequences in the film flow from that belief. Not from the tech itself. Curious if anyone else read it this way.
 
-🔗 [Pixar Animation Studios](https://www.pixar.com/hoppers) • 12h ago
+🔗 [Pixar Animation Studios](https://www.pixar.com/hoppers) • 13h ago
 
 ---
 
@@ -125,7 +125,7 @@ A federal judge told the government it could not immediately enforce a ban on An
 
 Experts say paid participants are using automated tools to generate unreliable survey responses at scale
 
-theguardian.com • 5h ago
+theguardian.com • 6h ago
 
 ---
 
@@ -141,7 +141,7 @@ blog.google • 1d ago
 
 Fox News Digital reviews Focus Features' timely documentary "The AI Doc: or How I Became an Apocaloptimist." Directed by Daniel Roher and Charlie Tyrell.
 
-Fox News • 2h ago
+Fox News • 3h ago
 
 ---
 
@@ -149,7 +149,7 @@ Fox News • 2h ago
 
 AI usage is a key issue in SAG-AFTRA’s ongoing negotiations of a new contract with Hollywood studios.
 
-Fortune • 7m ago
+Fortune • 1h ago
 
 ---
 
@@ -171,13 +171,13 @@ theguardian.com • 1d ago
 
 **[Self-affirmations from AI chatbots harm human relationships: Study](https://thehill.com/policy/technology/5805324-self-affirmations-ai-chatbot-relationship-study/)**
 
-The Hill • 4h ago
+The Hill • 5h ago
 
 ---
 
 **[AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)**
 
-Stanford Report • 1d ago
+Stanford Report • 2d ago
 
 ---
 
@@ -185,13 +185,13 @@ Stanford Report • 1d ago
 
 State lawmakers have been stepping in to regulate artificial intelligence, clashing with the federal government's inaction as concerns about oversight and safety grow.
 
-NPR • 8h ago
+NPR • 9h ago
 
 ---
 
 **[The Decadelong Feud Shaping the Future of AI](https://www.wsj.com/tech/ai/the-decadelong-feud-shaping-the-future-of-ai-7075acde?gaa_at=eafs&gaa_n=AWEtsqfBpZSaFciTUrEdyNFWKss8ONuBOet6npjIKKEY-uFtvgP3ixrYQcDj&gaa_ts=69c81a12&gaa_sig=nd9sxgpyhP2hsOBgZxU4QPHCDQb20tLEgLCO6f24nGLHo1DdB3puAglg_13rGEMRdspsAohD-xIg2DoIsuNkjg%3D%3D)**
 
-WSJ • 20h ago
+WSJ • 21h ago
 
 ---
 
@@ -215,7 +215,7 @@ LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. In
 
 **[AI overly affirms users asking for personal advice](https://news.ycombinator.com/item?id=47554773)**
 
-⬆️ 328 • 💬 256 • 3h ago • [news.stanford.edu](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
+⬆️ 328 • 💬 256 • 4h ago • [news.stanford.edu](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
 
 ---
 
@@ -237,7 +237,7 @@ One engineer used AI to rewrite JSONata as a pure-Go library called gnata. Seven
 
 **[CERN uses tiny AI models burned into silicon for real-time LHC data filtering](https://news.ycombinator.com/item?id=47552562)**
 
-⬆️ 237 • 💬 117 • 9h ago • [theopenreader.org](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
+⬆️ 237 • 💬 117 • 10h ago • [theopenreader.org](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
 
 ---
 
@@ -253,7 +253,7 @@ One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced
 
 : Sycophantic bots coach users into selfish, antisocial behavior, say researchers, and they love it
 
-⬆️ 151 • 💬 106 • 3h ago • [theregister.com](https://www.theregister.com/2026/03/27/sycophantic_ai_risks/)
+⬆️ 151 • 💬 106 • 4h ago • [theregister.com](https://www.theregister.com/2026/03/27/sycophantic_ai_risks/)
 
 ---
 
@@ -281,7 +281,7 @@ How To Start Making AI Anime videos in 2026 Create your own AI Anime Videos http
 
 📺 Skai Generated
 
-👁️ 1K • 💬 1 • ⏱️ 9:00 • 30m ago
+👁️ 1K • 💬 1 • ⏱️ 9:00 • 1h ago
 
 ---
 
@@ -301,7 +301,7 @@ Make the Most Realistic Characters with Higgsfield https://higgsfield.ai?fpr=ai&
 
 📺 Roboverse
 
-👁️ 6K • 💬 3 • ⏱️ 8:21 • 2h ago
+👁️ 6K • 💬 3 • ⏱️ 8:21 • 3h ago
 
 ---
 
@@ -311,7 +311,7 @@ Create B-rolls using Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=isa8 In this
 
 📺 Isa does AI
 
-👁️ 6K • 💬 2 • ⏱️ 8:20 • 3h ago
+👁️ 6K • 💬 2 • ⏱️ 8:20 • 4h ago
 
 ---
 
@@ -331,7 +331,7 @@ Create AI Influencers using Arcads https://youricreates.com/Influencers In this 
 
 📺 Youri van Hofwegen
 
-👁️ 4K • 💬 4 • ⏱️ 9:35 • 1h ago
+👁️ 4K • 💬 4 • ⏱️ 9:35 • 2h ago
 
 ---
 
@@ -411,7 +411,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 12,080 • ❤️ 323 • 17h ago
+⬇️ 12,080 • ❤️ 323 • 18h ago
 
 ---
 
@@ -649,7 +649,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 22.9k • 🔱 1.1k • 1d ago
+⭐ 22.9k • 🔱 1.1k • 2d ago
 
 ---
 
@@ -669,7 +669,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 8.4k • 🔱 686 • 2h ago
+⭐ 8.4k • 🔱 686 • 3h ago
 
 ---
 
@@ -689,7 +689,7 @@ AI-native design editor. Open-source Figma alternative.
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 305 • 24m ago
+⭐ 3.4k • 🔱 305 • 1h ago
 
 ---
 
@@ -699,7 +699,7 @@ Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messag
 
 `Go`
 
-⭐ 3.4k • 🔱 296 • 7h ago
+⭐ 3.4k • 🔱 296 • 8h ago
 
 ---
 

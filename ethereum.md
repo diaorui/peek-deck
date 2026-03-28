@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-28T17:57:58.507453+00:00'
+updated: '2026-03-28T18:53:22.248681+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - cryptocurrency
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 28, 2026 at 17:57 UTC  
+**Last Updated:** March 28, 2026 at 18:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Effective March 25, 2026, Pier Two Holdings Pty Ltd has been wholly acquired by Bitmine Immersion Technologies, Inc (NYSE: BMNR)
 
-🔗 [piertwo.com](https://piertwo.com/insights/pier-two-is-joining-mavan-a-bitmine-company) • 14h ago
+🔗 [piertwo.com](https://piertwo.com/insights/pier-two-is-joining-mavan-a-bitmine-company) • 15h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I Built a Privacy-Preserving Bitcoin transaction Receipt Verifier (No KYC, No Screenshots, No wallet). https://github.com/Teycir/Ghostreceipt Would like to have feedback.
 
-21h ago
+22h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 "The issue is whether or not people support CROPS and going in that direction, the issue is how the EF is going about it,” Optimism's Mark Tyneway said.
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -168,7 +168,7 @@ Barron's • 2d ago
 
 Across many of the most well-known ecosystems like Bitcoin, Ethereum, and Solana, responses are diverging along familiar lines: what to do on social consensus and technical iteration, and community members are split between caution and acceleration.
 
-coindesk.com • 1h ago
+coindesk.com • 2h ago
 
 ---
 
@@ -184,7 +184,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin (CRYPTO: BTC), XRP (CRYPTO: XRP), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) are all down 6-8% in a week, and the crypto market has shed over $80 billion in value since March 24. The Fear & Greed Index sits at 23, and the average crypto RSI has dropped to 39—oversold territory that the market ... Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -206,13 +206,13 @@ Seeking Alpha • 1d ago
 
 Ethereum's vast ecosystem goes up against Solana's lightning-quick network.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
 **[These 4 Charts Suggest That Ethereum (ETH) Price Has Hit Peak Pain This Cycle](https://www.ccn.com/analysis/crypto/these-charts-suggest-ethereum-price-hit-peak-pain/)**
 
-CCN.com • 6h ago
+CCN.com • 7h ago
 
 ---
 
@@ -220,7 +220,7 @@ CCN.com • 6h ago
 
 Ethereum Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 4h ago
+Polymarket • 5h ago
 
 ---
 
@@ -234,7 +234,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 906 • 👍 60 • 💬 19 • ⏱️ 11:06 • 3h ago
+👁️ 906 • 👍 60 • 💬 19 • ⏱️ 11:06 • 4h ago
 
 ---
 
@@ -244,7 +244,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 2K • 👍 105 • 💬 26 • ⏱️ 38:10 • 23h ago
+👁️ 2K • 👍 105 • 💬 26 • ⏱️ 38:10 • 1d ago
 
 ---
 
@@ -254,7 +254,7 @@ Can a free Ethereum method really generate ETH or is it just another fake crypto
 
 📺 KYLE MADDOX
 
-👁️ 313 • 👍 302 • 💬 8 • ⏱️ 5:57 • 29m ago
+👁️ 313 • 👍 302 • 💬 8 • ⏱️ 5:57 • 1h ago
 
 ---
 
@@ -274,7 +274,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 390 • 👍 49 • ⏱️ 5:50 • 3h ago
+👁️ 390 • 👍 49 • ⏱️ 5:50 • 4h ago
 
 ---
 
@@ -294,7 +294,7 @@ BITCOIN & ALTCOIN CRASH: Price Target Confirmed!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 7K • 👍 286 • 💬 112 • ⏱️ 19:00 • 18h ago
+👁️ 7K • 👍 286 • 💬 112 • ⏱️ 19:00 • 19h ago
 
 ---
 
@@ -314,7 +314,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 159 • 👍 13 • ⏱️ 4:28 • 6h ago
+👁️ 159 • 👍 13 • ⏱️ 4:28 • 7h ago
 
 ---
 
@@ -324,7 +324,7 @@ BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Start your trading j
 
 📺 Ashutosh Kumar
 
-👁️ 6K • 👍 839 • 2h ago
+👁️ 6K • 👍 839 • 3h ago
 
 ---
 
