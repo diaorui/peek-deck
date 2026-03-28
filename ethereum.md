@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-28T13:53:42.184180+00:00'
+updated: '2026-03-28T14:33:08.542741+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 28, 2026 at 13:53 UTC  
+**Last Updated:** March 28, 2026 at 14:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,004.17
+### $2,007.23
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** -2.5%  
-**30d:** +3.7%  
-**90d:** -31.9%  
-**1y:** +9.4%  
+**24h:** +1.7%  
+**7d:** -1.4%  
+**30d:** +4.9%  
+**90d:** -31.1%  
+**1y:** +10.8%  
 
 ---
 
@@ -68,15 +68,91 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion March 28, 2026](https://www.reddit.com/r/ethereum/comments/1s5rbnm/daily_general_discussion_march_28_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+9h ago
+
+---
+
+**[Post-Quantum Ethereum client Lantern developer Pier Two acquired by BMNR](https://www.reddit.com/r/ethereum/comments/1s5pxbi/postquantum_ethereum_client_lantern_developer/)**
+
+Effective March 25, 2026, Pier Two Holdings Pty Ltd has been wholly acquired by Bitmine Immersion Technologies, Inc (NYSE: BMNR)
+
+🔗 [piertwo.com](https://piertwo.com/insights/pier-two-is-joining-mavan-a-bitmine-company) • 10h ago
+
+---
+
+**[Daily General Discussion March 27, 2026](https://www.reddit.com/r/ethereum/comments/1s4uv0g/daily_general_discussion_march_27_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1d ago
+
+---
+
+**[Privacy preserving transaction verifier](https://www.reddit.com/r/ethereum/comments/1s5fd8h/privacy_preserving_transaction_verifier/)**
+
+I Built a Privacy-Preserving Bitcoin transaction Receipt Verifier (No KYC, No Screenshots, No wallet). https://github.com/Teycir/Ghostreceipt Would like to have feedback.
+
+18h ago
+
+---
+
+**[Ethereal news weekly #17 | Frame transaction Considered for Inclusion for Hegotá, EthStaker staking survey, EF post-quantum website](https://www.reddit.com/r/ethereum/comments/1s53fx5/ethereal_news_weekly_17_frame_transaction/)**
+
+Frame transaction Considered for Inclusion for Hegotá, EthStaker staking survey, EF post-quantum website
+
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-17/) • 1d ago
+
+---
+
+**[Paperwallet.ca launch](https://www.reddit.com/r/ethereum/comments/1s543mf/paperwalletca_launch/)**
+
+1d ago
+
+---
+
+**[Highlights from the All Core Developers Execution (ACDE) Call #233](https://www.reddit.com/r/ethereum/comments/1s4s7lw/highlights_from_the_all_core_developers_execution/)**
+
+Ethereum pushes Glamsterdam testing forward as Hegotá headliner debates remain unresolved.
+
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-233/) • 1d ago
+
+---
+
+**[Onchain RWA protocols went from $4.1B to $14.1B in 2025. Here are 8 real-world tokenized assets you can buy right now:](https://www.reddit.com/r/ethereum/comments/1s4s1xy/onchain_rwa_protocols_went_from_41b_to_141b_in/)**
+
+Source: https://www.coingecko.com/learn/real-world-assets-rwa-buy-on-chain RWAs were one of the fastest-growing sectors in crypto last year. DeFi yields from token emissions dried up, the GENIUS Act provided regulatory clarity for institutions, and BlackRock and Franklin Templeton launched their own tokenized products. This isn't speculative DeFi. These are tokens tied to government debt, physical commodities, and real loan portfolios.
+
+1d ago
+
+---
+
+**[Are there any onchain risk analysts here?](https://www.reddit.com/r/ethereum/comments/1s4nt5c/are_there_any_onchain_risk_analysts_here/)**
+
+Working on a little side project that turns etherscan data into readable risk. If you analyzed a wallet recently I’d love to compare your assessment to my engine’s output and see where it’s wrong and right, thanks
+
+1d ago
+
+---
+
+**[Daily General Discussion March 26, 2026](https://www.reddit.com/r/ethereum/comments/1s3yazd/daily_general_discussion_march_26_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+2d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
 
-**[Ethereum ICO participant offloads $23 million in ETH: onchain analyst](https://www.theblock.co/post/395419/ethereum-ico-wallet-offloads-23-million-worth-eth)**
+**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqf_A7k0dOsQ9VAd0DZl5ni4lBcC2c50DqzPw_RAKRCUeX_leSFt6VSb&gaa_ts=69c7ea0c&gaa_sig=0fLROcsyEYgY_Gz6ybBxINpqsOT4sef0mkDLkfl2j-HOr22IkmmW1Ui41ObHAZlVQvTV2NY_h-YdwJd0VAK5Og%3D%3D)**
 
-The address traces back to Ethereum's initial token sale, where the investor purchased ether at about $0.31 per token, said Lookonchain.
-
-theblock.co • 1d ago
+Barron's • 1d ago
 
 ---
 
@@ -84,29 +160,15 @@ theblock.co • 1d ago
 
 Bitcoin fell alongside stocks as investors weighed conflicting accounts regarding Iran’s willingness to end conflict in the Middle East.
 
-finance.yahoo.com • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqex-8Axh6fQuWkjiZsHqJ5qK4AWG4k8NZQbAHQhIU68ylgN77oJDocZ&gaa_ts=69c7d3c1&gaa_sig=q6uSzT2uRmAj-g3laxg2ymbMUz71Kh1J1dzZJ69deTRlyPkqGn15i07xnpe4-lSLyGcrKkdC7PrYhqJEImMGRw%3D%3D)**
+**[Bitcoin and Ethereum Face Downside Risk Ahead of $15.58B Options Expiry Today](https://coinpedia.org/news/bitcoin-and-ethereum-face-downside-risk-ahead-of-15-58b-options-expiry-today/)**
 
-Barron's • 1d ago
+A large batch of Bitcoin and Ethereum options is set to expire this Friday, with total value crossing $15.58B billion as per Deribit insights. This marks
 
----
-
-**[Bitcoin, Ethereum Slip as Trump Says He's 'Not Desperate' to End Iran War](https://decrypt.co/362516/bitcoin-ethereum-slip-as-trump-says-hes-not-desperate-to-end-iran-war)**
-
-Bitcoin fell alongside stocks as investors weighed conflicting accounts regarding Iran’s willingness to end conflict in the Middle East.
-
-Decrypt • 1d ago
-
----
-
-**[Ethereum vs. Solana: Which Crypto Has More Upside?](https://www.fool.com/investing/2026/03/28/ethereum-vs-solana-which-crypto-has-more-upside/)**
-
-Ethereum's vast ecosystem goes up against Solana's lightning-quick network.
-
-The Motley Fool • 3h ago
+Coinpedia Fintech News • 1d ago
 
 ---
 
@@ -114,15 +176,23 @@ The Motley Fool • 3h ago
 
 BlackRock’s staked Ethereum fund pulled in $155 million on its first day of trading — more than the firm’s own Bitcoin ETF managed at launch. That number tells one part of Ethereum’s story in early 2026.The other part is harder to spin: the token itself has dropped more than 55% from its August 202…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
-**[Ethereum vs. Solana: Which Crypto Has More Upside?](https://finance.yahoo.com/markets/crypto/articles/ethereum-vs-solana-crypto-more-091900604.html)**
+**[Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week](https://finance.yahoo.com/markets/crypto/articles/why-crypto-crashing-bitcoin-xrp-140126480.html)**
 
-Ethereum's vast ecosystem goes up against Solana's lightning-quick network.
+Bitcoin (CRYPTO: BTC), XRP (CRYPTO: XRP), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) are all down 6-8% in a week, and the crypto market has shed over $80 billion in value since March 24. The Fear & Greed Index sits at 23, and the average crypto RSI has dropped to 39—oversold territory that the market ... Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week
 
-finance.yahoo.com • 4h ago
+Yahoo Finance • 31m ago
+
+---
+
+**[Ethereum ICO participant offloads $23 million in ETH: onchain analyst](https://www.theblock.co/post/395419/ethereum-ico-wallet-offloads-23-million-worth-eth)**
+
+The address traces back to Ethereum's initial token sale, where the investor purchased ether at about $0.31 per token, said Lookonchain.
+
+The Block • 1d ago
 
 ---
 
@@ -130,7 +200,23 @@ finance.yahoo.com • 4h ago
 
 While cryptos offer diversification from traditional asset movements, they are also highly sensitive to the gravity of risk aversion
 
-seekingalpha.com • 1d ago
+Seeking Alpha • 1d ago
+
+---
+
+**[Ethereum vs. Solana: Which Crypto Has More Upside?](https://www.fool.com/investing/2026/03/28/ethereum-vs-solana-which-crypto-has-more-upside/)**
+
+Ethereum's vast ecosystem goes up against Solana's lightning-quick network.
+
+The Motley Fool • 4h ago
+
+---
+
+**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1774686600)**
+
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 8h ago
 
 ---
 
@@ -139,14 +225,6 @@ seekingalpha.com • 1d ago
 BitMine launched the new MAVAN staking platform and plans to stake its entire 4.6 million ETH holdings on it, with the aim of generating...
 
 AMBCrypto • 1d ago
-
----
-
-**[Current price of Ethereum for March 27, 2026](https://fortune.com/article/price-of-ethereum-03-27-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 23h ago
 
 ---
 
@@ -170,7 +248,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 72 • 👍 8 • ⏱️ 4:28 • 2h ago
+👁️ 72 • 👍 8 • ⏱️ 4:28 • 3h ago
 
 ---
 
@@ -180,7 +258,7 @@ BITCOIN & ALTCOIN CRASH: Price Target Confirmed!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 274 • 💬 108 • ⏱️ 19:00 • 14h ago
+👁️ 6K • 👍 274 • 💬 108 • ⏱️ 19:00 • 15h ago
 
 ---
 
@@ -200,7 +278,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 1K • 👍 158 • 💬 36 • ⏱️ 14:22 • 20h ago
+👁️ 1K • 👍 158 • 💬 36 • ⏱️ 14:22 • 21h ago
 
 ---
 

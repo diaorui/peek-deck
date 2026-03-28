@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-28T13:53:42.171468+00:00'
+updated: '2026-03-28T14:33:08.530011+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- videos
 - social
+- videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 28, 2026 at 13:53 UTC  
+**Last Updated:** March 28, 2026 at 14:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,6 +45,14 @@ In April Congress is voting to extend the FISA Act on the 20th of April this yea
 
 ---
 
+**[Is anyone else watching what Qubic is doing with distributed compute and AI training? Seems underreported in AI cirles](https://www.reddit.com/r/artificial/comments/1s5x2wo/is_anyone_else_watching_what_qubic_is_doing_with/)**
+
+I follow AI infrastructure pretty closely and Qubic keeps coming up in my research in a way I find intersting but havent seen much discussion of in AI-focused comunities. Quick background for people who havent heard of it: Qubic uses what they call Useful Proof of Work - instead of hardware solving random hash puzzles, the compute runs neural network training tasks for thier Aigarth AI project. The same hardware is contributing to AI training while securing things. The network was independently verifed at 15.52 million transactions per second by CertiK on live mainnet. For context, thats faster than Visas theoretical peak throughput. The architecture runs on bare metal hardware without a virtual machine layer, which is aparently what enables the throughput. Theyre also aparently launching a DOGE mining integration immenantly (around April 1) where thier infrastructure will run Dogecoin mining simultaniously with everything else - the ASIC hardware for DOGE Scrypt mining runs in paralel with thier CPU/GPU hardware for other workloads. For comparison, people often bring up Bittensor, but from what I see Bittensor is more about competing AIs and subnets rewarding each other rather than actually using the distributed compute to train models from scratch with raw hardware power. Qubic seems different in that the mining itself is the training. Big companies are pouring billions into building massive data centers and training ever bigger LLMs, but I dont think true AGI is gonna come just from scaling up these trained models no matter how much money they throw at it. My interest is specifically in the distributed AI compute angle. Is the model of mining-funded distributed AI training something that gets serius discussion in AI research cirles? Or is this considered a fundementaly different category from serius AI infrastructure?
+
+3h ago
+
+---
+
 **[Looking for a solid ChatGPT alternative for daily work](https://www.reddit.com/r/artificial/comments/1s5v317/looking_for_a_solid_chatgpt_alternative_for_daily/)**
 
 I was long juggling separate monthly subscriptions for Claude, Gemini, and GPT-4 until the costs and tab-switching became a total mess and I started paying over 100 bucks each mont. Then, I tried consolidating everything into a single hub, done that both locally and online, both api and openrouter and all in one online and writingmate. such consolidation then saved me about half of my resources pet each month. I do not have to deal with the constant cooldowns or model blocks that happen when you hit usage caps on a single platform anymore. And having 200+ models in one place has been a massive time-saver for my coding and doc review tasks. I recently processed a 100-page research paper using a long-context model I found on there, which would have been a pain to upload and prompt elsewhere. It is a practical ChatGPT alternative for anyone trying to streamline their setup rather than jumping between browser windows. I am also curious if anyone else here has moved away from the main platform for their daily tasks? Does anyone else find the model-switching friction as annoying as I did?
@@ -65,15 +73,7 @@ Anthropic warned about the AI model's cybersecurity risks in the leaked post as 
 
 Just watched Hoppers and I’m surprised this hasn’t been picked up more widely. The parallels with AI and its risks are hard to ignore once you see them. A few things worth noting: The setup mirrors our current moment almost exactly. The lead scientist developing the world-changing technology is called Dr. Sam. Her invention lets humans cross a communication barrier that was previously impossible: entering the animal world through embodiment. LLMs did the same thing for the digital world. We can now navigate machines through natural language. The alignment problem is right there on screen. Mabel uses the technology to reach her goal, but the technology has its own logic and momentum. What it produces isn’t what she intended. The governance message is explicit. No single person or group should control a technology this powerful even when we have good intentions. The real cautionary tale in Hoppers isn’t aimed at the tech builders. It’s for the users, the ones who convince themselves that it is the only way to solve the world’s problems. The consequences in the film flow from that belief. Not from the tech itself. Curious if anyone else read it this way.
 
-🔗 [Pixar Animation Studios](https://www.pixar.com/hoppers) • 8h ago
-
----
-
-**[Is anyone else watching what Qubic is doing with distributed compute and AI training? Seems underreported in AI cirles](https://www.reddit.com/r/artificial/comments/1s5x2wo/is_anyone_else_watching_what_qubic_is_doing_with/)**
-
-I follow AI infrastructure pretty closely and Qubic keeps coming up in my research in a way I find intersting but havent seen much discussion of in AI-focused comunities. Quick background for people who havent heard of it: Qubic uses what they call Useful Proof of Work - instead of hardware solving random hash puzzles, the compute runs neural network training tasks for thier Aigarth AI project. The same hardware is contributing to AI training while securing things. The network was independently verifed at 15.52 million transactions per second by CertiK on live mainnet. For context, thats faster than Visas theoretical peak throughput. The architecture runs on bare metal hardware without a virtual machine layer, which is aparently what enables the throughput. Theyre also aparently launching a DOGE mining integration immenantly (around April 1) where thier infrastructure will run Dogecoin mining simultaniously with everything else - the ASIC hardware for DOGE Scrypt mining runs in paralel with thier CPU/GPU hardware for other workloads. For comparison, people often bring up Bittensor, but from what I see Bittensor is more about competing AIs and subnets rewarding each other rather than actually using the distributed compute to train models from scratch with raw hardware power. Qubic seems different in that the mining itself is the training. Big companies are pouring billions into building massive data centers and training ever bigger LLMs, but I dont think true AGI is gonna come just from scaling up these trained models no matter how much money they throw at it. My interest is specifically in the distributed AI compute angle. Is the model of mining-funded distributed AI training something that gets serius discussion in AI research cirles? Or is this considered a fundementaly different category from serius AI infrastructure?
-
-3h ago
+🔗 [Pixar Animation Studios](https://www.pixar.com/hoppers) • 9h ago
 
 ---
 
@@ -89,7 +89,7 @@ A federal judge told the government it could not immediately enforce a ban on An
 
 I've spent the last year building NIMCP — a biologically-inspired artificial brain in C that trains six different neural network types simultaneously (spiking, liquid, convolutional, Fourier, Hamiltonian, adaptive) with gradient flow between them through learnable bridges. Some things that might be interesting to this crowd: - The SNN developed 26 Hz firing rates with 67% sparsity — within mammalian cortical range — without any regularization targeting those values. It emerged from cross-network training pressure. - Safety is structural, not behavioral. The ethics module is a function call in the inference code path, not a learned weight. It can't be fine-tuned away or jailbroken. The governance rules can only get stricter. You can verify this by reading the source. - The brain learns through curiosity: prediction error → dopamine → STDP gating. No reward function. - Training follows a 4-stage developmental curriculum (sensory → naming → feedback →reasoning). The training is currently in Stage 2. You can watch it train live on the website — metrics update every 60 seconds. - 2,600 source files, 240 Python API methods, 8 language bindings. The system runs on a single RTX 4000 (20 GB VRAM). Eight technical papers on the site covering the math, training methodology, safety architecture, and emergent dynamics. Code: https://github.com/redmage123/nimcp I am happy to answer questions about the architecture, training dynamics, or why I think growing intelligence through developmental stages might work differently than scaling transformers.
 
-10h ago
+11h ago
 
 ---
 
@@ -97,7 +97,7 @@ I've spent the last year building NIMCP — a biologically-inspired artificial b
 
 Found this site that tracks researchers and executives who left OpenAI, Google, Anthropic, and others over safety concerns. It's kind of amazing to see the patterns; concerns become really obvious across companies. I love AI but do want to see regulations. The interesting part: it extracts specific predictions the researchers made and tracks whether they come true. 4 confirmed, 1 disproven, 6 still open. I would think there are others, the number is not that high, but maybe also most people who leave do it quietly? What do you think? ethicalaidepartures.fyi
 
-14h ago
+15h ago
 
 ---
 
@@ -105,7 +105,7 @@ Found this site that tracks researchers and executives who left OpenAI, Google, 
 
 I feel like, as the quality of the output has caught up with the level of creativity of those who use it, there is a bit of a thaw in the AI hostility. While still far from welcome generally, even here on Reddit I’ve seen many AI videos get grudging respect and even seen several on the front page, because the quality and creativity have won people over. Anyone else noticing the beginning of a trend?
 
-15h ago
+16h ago
 
 ---
 
@@ -125,35 +125,35 @@ Or are we stuck with works of 8 hours per day forever?
 
 Experts say paid participants are using automated tools to generate unreliable survey responses at scale
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
-**[Trump wants a deadlocked Congress to move on AI. Frustrated states say they already have](https://www.npr.org/2026/03/28/nx-s1-5755062/trump-wants-a-deadlocked-congress-to-move-on-ai-frustrated-states-say-they-already-have)**
+**[Exclusive: Anthropic is testing ‘Mythos,’ its ‘most powerful AI model ever developed’](https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/)**
 
-State lawmakers have been stepping in to regulate artificial intelligence, clashing with the federal government's inaction as concerns about oversight and safety grow.
+Anthropic said it was testing the new model, which it called a 'step change' in performance, after accidental data leak reveals its existence
 
-NPR • 4h ago
-
----
-
-**[Can AI Win Your March Madness Pool?](https://www.wsj.com/sports/can-ai-win-your-march-madness-pool-efd3534a?gaa_at=eafs&gaa_n=AWEtsqdkx65hZNckw6J5akMnDtHa1HmIaIOG3hzbPeTbazeBDCLWXmKQBpSj&gaa_ts=69c7d3bd&gaa_sig=PUCiQqI2aZDZJaEY121UkcA_hCo638BRDJTred2ehecQSSp5eevF3vksaOjjQJybqv9bKKCxCkjYGYZeZrTr0w%3D%3D)**
-
-WSJ • 1h ago
+Fortune • 1d ago
 
 ---
 
-**[Self-affirmations from AI chatbots harm human relationships: Study](https://thehill.com/policy/technology/5805324-self-affirmations-ai-chatbot-relationship-study/)**
+**[Actors Union Is Bargaining for ‘Tilly Tax’ On AI Film Characters](https://www.bloomberg.com/news/articles/2026-03-28/sag-aftra-actors-union-bargaining-for-tilly-tax-on-ai-film-characters)**
 
-The Hill • 1h ago
+bloomberg.com • 33m ago
 
 ---
 
-**[This high school dropout was cleaning offices for $14 an hour before he used AI to build a $1 million business](https://fortune.com/2026/03/28/ai-small-business-entrepreneur-1-million-blue-collar/)**
+**[AI deepfakes blur reality in 2026 U.S. midterm campaigns](https://www.detroitnews.com/story/news/politics/2026/03/28/deepfake-ads-midterm-election-artifical-intelligence-ai-2026/89361534007/)**
 
-Rick Chorney was working long days but still had emails at night. "I went a little crazy," he said. "There came a day where I was just like, 'I am done.'"
+There is no federal regulation constraining the use of AI in political messaging, leaving only a patchwork of largely untested state laws.
 
-Fortune • 1h ago
+The Detroit News • 10m ago
+
+---
+
+**[The AI Leader](https://www.forbes.com/sites/tomaspremuzic/2026/03/28/the-ai-leader/)**
+
+Forbes • 24m ago
 
 ---
 
@@ -165,31 +165,33 @@ The Atlantic • 1d ago
 
 ---
 
+**[Trump wants a deadlocked Congress to move on AI. Frustrated states say they already have](https://www.npr.org/2026/03/28/nx-s1-5755062/trump-wants-a-deadlocked-congress-to-move-on-ai-frustrated-states-say-they-already-have)**
+
+State lawmakers have been stepping in to regulate artificial intelligence, clashing with the federal government's inaction as concerns about oversight and safety grow.
+
+NPR • 5h ago
+
+---
+
+**[The Decadelong Feud Shaping the Future of AI](https://www.wsj.com/tech/ai/the-decadelong-feud-shaping-the-future-of-ai-7075acde?gaa_at=eafs&gaa_n=AWEtsqcRV0rg6tCcPJcDzHvC9ma6ozmWZMmIE6vEEJFTcXjPebPgVsA-L13L&gaa_ts=69c7ea09&gaa_sig=VL2vhwlM2mDv5jBN84qsiHZ8zPKK7J9cbdxPlgNX8QkhgM36OVCNe3TW6lAgrvqtDkG8rw1flhOil50KgE19rw%3D%3D)**
+
+WSJ • 13h ago
+
+---
+
 **[Cybersecurity stocks fall on report Anthropic is testing a powerful new model](https://www.cnbc.com/2026/03/27/anthropic-cybersecurity-stocks-ai-mythos.html)**
 
 The cybersecurity sector has slumped this year on fears that new AI will massively disrupt their business models.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
-**[AI deepfakes blur reality in 2026 US midterm campaigns](https://www.reuters.com/business/media-telecom/ai-deepfakes-blur-reality-2026-us-midterm-campaigns-2026-03-28/)**
+**[A teacher-free AI school is coming to Chicago, with tuition at $55,000 a year](https://www.chicagotribune.com/2026/03/28/chicago-artificial-intelligence-school/)**
 
-Reuters • 3h ago
+Alpha School, a network of AI-based private schools will open a K-8 campus in the Chicago Loop in the fall. For 55,000 per year, lessons are delivered through AI-powered software and condensed into two hours.
 
----
-
-**[Memory chip stocks shed $100bn as AI-driven shortage trade unwinds](https://www.ft.com/content/e4e15692-187e-4466-832e-ec267e792292?syn-25a6b1a6=1)**
-
-New research suggests AI data centres will need much less memory than investors had bargained for
-
-Financial Times • 18h ago
-
----
-
-**[Meta to Launch New AI Glasses Aimed at Prescription Wearers](https://www.bloomberg.com/news/articles/2026-03-27/meta-to-launch-new-ai-glasses-aimed-at-prescription-wearers)**
-
-Bloomberg.com • 15h ago
+Chicago Tribune • 3h ago
 
 ---
 
@@ -201,13 +203,13 @@ Bloomberg.com • 15h ago
 
 LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. Instead, it was choices made by human beings, over many years, that gave us this atrocity
 
-⬆️ 374 • 💬 345 • 21h ago • [the Guardian](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)
+⬆️ 378 • 💬 350 • 21h ago • [the Guardian](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)
 
 ---
 
 **[Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://news.ycombinator.com/item?id=47536761)**
 
-⬆️ 325 • 💬 94 • 1d ago • [georgelarson.me](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
+⬆️ 327 • 💬 95 • 1d ago • [georgelarson.me](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
 
 ---
 
@@ -215,7 +217,7 @@ LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. In
 
 The decision follows activist pressure as Palantir faces growing scrutiny over NHS and UK government deals
 
-⬆️ 308 • 💬 144 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai)
+⬆️ 309 • 💬 144 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai)
 
 ---
 
@@ -223,7 +225,7 @@ The decision follows activist pressure as Palantir faces growing scrutiny over N
 
 One engineer used AI to rewrite JSONata as a pure-Go library called gnata. Seven hours, $400 in tokens, 1,000x speedup, and $500K/year off our cloud bill.
 
-⬆️ 263 • 💬 243 • 1d ago • [reco.ai](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)
+⬆️ 264 • 💬 245 • 1d ago • [reco.ai](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)
 
 ---
 
@@ -237,7 +239,7 @@ One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced
 
 **[CERN uses tiny AI models burned into silicon for real-time LHC data filtering](https://news.ycombinator.com/item?id=47552562)**
 
-⬆️ 142 • 💬 71 • 5h ago • [theopenreader.org](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
+⬆️ 175 • 💬 87 • 6h ago • [theopenreader.org](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
 
 ---
 
@@ -267,7 +269,7 @@ Workflow orchestration for AI coding agents, from task to merged PR. - jonwiggin
 
 **[Some uncomfortable truths about AI coding agents](https://news.ycombinator.com/item?id=47545748)**
 
-⬆️ 73 • 💬 85 • 20h ago • [standupforme.app](https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/)
+⬆️ 73 • 💬 86 • 21h ago • [standupforme.app](https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/)
 
 ---
 
@@ -321,7 +323,7 @@ Hyperscalers have gone from the asset light cash machines to asset heavy behemot
 
 📺 The Tech Report
 
-👁️ 89K • 👍 4K • 💬 898 • ⏱️ 32:39 • 18h ago
+👁️ 89K • 👍 4K • 💬 898 • ⏱️ 32:39 • 19h ago
 
 ---
 
@@ -331,7 +333,7 @@ Here's the AI News you probably missed this week! Check out Genspark here: ...
 
 📺 Matt Wolfe
 
-👁️ 58K • 👍 3K • 💬 213 • ⏱️ 31:53 • 22h ago
+👁️ 58K • 👍 3K • 💬 213 • ⏱️ 31:53 • 23h ago
 
 ---
 
@@ -459,7 +461,7 @@ daVinci-MagiHuman is a fast, single-stream Transformer model for generating high
 
 `image-to-video`
 
-⬇️ 418 • ❤️ 221 • 2d ago
+⬇️ 418 • ❤️ 221 • 3d ago
 
 ---
 
@@ -669,7 +671,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 8.3k • 🔱 673 • 1h ago
+⭐ 8.3k • 🔱 673 • 2h ago
 
 ---
 
@@ -699,7 +701,7 @@ Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messag
 
 `Go`
 
-⭐ 3.4k • 🔱 290 • 3h ago
+⭐ 3.4k • 🔱 290 • 4h ago
 
 ---
 
@@ -727,7 +729,7 @@ SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 
 `Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
 
-⭐ 2.9k • 🔱 485 • 23h ago
+⭐ 2.9k • 🔱 485 • 1d ago
 
 ---
 
