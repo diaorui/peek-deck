@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-28T14:33:08.537497+00:00'
+updated: '2026-03-28T15:32:43.981309+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 28, 2026 at 14:33 UTC  
+**Last Updated:** March 28, 2026 at 15:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1328.59B
+**Market Cap:** $1340.48B
 Rank #1
 
-**Circulating Supply:** 20,008,200 BTC
+**Circulating Supply:** 20,008,253 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--47.3%
+-46.9%
 
 **All-Time Low:** $67.81
-+97817.7%
++98708.4%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 I was a junior in highschool, and BTC came up in the same conversations as Octopussy. My friends and i heard that for like $5 we could get a bunch of btc and someone on the dark web might actually send us drugs. At the time the cheapest hit of wholesale 'cid i could get was $2 a tab, $50 for the sheet. So if this worked, it would 10X my profit. The acid came in a birthday card. I was amazed but didn't bother to continue with it. The person who introduced me to the whole concept also accepted my measly $5 and bought the BTC. Yes, he has quite a few left over and continued to be involved long term, didn't work much after highschool. I first remembered my involvement in Btc when it hit $4K. Couldn't believe it, but bought a little just for nostalgia. Then at $8K i bought more but not much, because who tf thought it would ever get to $8 fucking K. When it hit $16K i started dollar-cost averaging weekly deposits. No regrets. I'm happy to be in at all, some people STILL don't hold any BTC. In b4, just like all of you 🤝
 
-8h ago
+9h ago
 
 ---
 
 **[Just explained to my friend again, how red months are the best opportunity to buy more bitcoin. I think he finally gets it.](https://www.reddit.com/r/Bitcoin/comments/1s60e4s/just_explained_to_my_friend_again_how_red_months/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -95,7 +95,7 @@ I was a junior in highschool, and BTC came up in the same conversations as Octop
 
 By collateralizing the 4,709 BTC with Coinbase Credit, GameStop gains liquidity and flexibility while still benefiting from any future appreciation in Bitcoin’s value.
 
-🔗 [Crowdfund Insider](https://www.crowdfundinsider.com/2026/03/269429-gamestop-maintains-bitcoin-holdings-according-to-latest-sec-filing/) • 2h ago
+🔗 [Crowdfund Insider](https://www.crowdfundinsider.com/2026/03/269429-gamestop-maintains-bitcoin-holdings-according-to-latest-sec-filing/) • 3h ago
 
 ---
 
@@ -103,7 +103,7 @@ By collateralizing the 4,709 BTC with Coinbase Credit, GameStop gains liquidity 
 
 been watching the charts and bitcoin is sitting at what looks like a 40% drop from recent highs. feels like this might be teh moment to make a substantial buy instead of my usual small dca amounts. anyone else considering making moves right now or am i getting too greedy? trying to figure out if this dip is worth changing up my strategy for.
 
-14h ago
+15h ago
 
 ---
 
@@ -111,7 +111,7 @@ been watching the charts and bitcoin is sitting at what looks like a 40% drop fr
 
 Everyone outside crypto thinks it’s: Fast money Crazy gains Constant action But if you’ve been here for a while, you know the truth… Most of crypto is just: Waiting Not touching your portfolio Ignoring noise Watching others panic The real game isn’t buying. It’s holding without doing something stupid. The people who win aren’t the smartest. They’re usually the ones who: Don’t overtrade Don’t chase every new coin Don’t panic sell It sounds boring because it is. But boring is where most money is made. Meanwhile: Beginners want excitement Veterans want consistency Question: What’s harder for you — buying at the right time or just holding after you buy?
 
-10h ago
+11h ago
 
 ---
 
@@ -119,7 +119,7 @@ Everyone outside crypto thinks it’s: Fast money Crazy gains Constant action Bu
 
 I have a feeling that UPril will be even better. Get your moon boots ready.
 
-16h ago
+17h ago
 
 ---
 
@@ -127,7 +127,7 @@ I have a feeling that UPril will be even better. Get your moon boots ready.
 
 When all my money is already in sats, it’s just easier to spend it directly instead of converting it to usd and spending that 🤷‍♂️
 
-22h ago
+23h ago
 
 ---
 
@@ -135,7 +135,7 @@ When all my money is already in sats, it’s just easier to spend it directly in
 
 Onramp's Brian Cubellis also point out the difference between the latent demand for IBIT vs what he expects will be active solicitation from Morgan Stanley to their clients.
 
-23h ago
+1d ago
 
 ---
 
@@ -143,7 +143,7 @@ Onramp's Brian Cubellis also point out the difference between the latent demand 
 
 so i've been getting these random coinbase notifications for months and finally decided to check what was going on. remembered i had maybe like 7 bucks sitting there from way back when i bought something online that required bitcoin logged into my account expecting to see basically nothing and there's over 2400 sitting there. took me a minute to process what i was looking at did some digging and apparently that leftover change was from late 2015 when i made some random purchase. crazy how that small amount just sat there growing now i'm kicking myself thinking about what would've happened if i had been putting even 10 bucks aside every couple weeks since then. the math is pretty wild when you run those numbers probably gonna leave it alone and see where it goes from here. not really planning to touch it anytime soon
 
-23h ago
+1d ago
 
 ---
 
@@ -151,7 +151,7 @@ so i've been getting these random coinbase notifications for months and finally 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-8h ago
+9h ago
 
 ---
 
@@ -163,7 +163,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 From churches allowing congregants to tithe with digital coins to blogs promoting bitcoin as biblically sound, there’s an emerging Christian crypto subculture.
 
-NBC News • 3h ago
+NBC News • 4h ago
 
 ---
 
@@ -179,7 +179,7 @@ CoinDesk • 12h ago
 
 Nvidia (NASDAQ: NVDA) turned every $10,000 invested in early 2023 into over $125,000 by late 2025—a return that made it the most talked-about stock on the planet. Bitcoin (CRYPTO: BTC) had its own run to $126,000 in October 2025, and XRP (CRYPTO: XRP) reached $3.65 in July 2025. All three assets are now well below ... $10,000 in XRP and Bitcoin vs $10,000 in Nvidia: What Each Could Be Worth by the End of 2026
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 2h ago
 
 ETF outflows signal short-term caution. Institutional demand remains resilient. Rising yields threaten Bitcoin's price. Bitcoin's price faced renewed pressure on Thursday as investors pulled significant ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 2h ago
 
 Bitcoin (CRYPTO: BTC), XRP (CRYPTO: XRP), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) are all down 6-8% in a week, and the crypto market has shed over $80 billion in value since March 24. The Fear & Greed Index sits at 23, and the average crypto RSI has dropped to 39—oversold territory that the market ... Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week
 
-Yahoo Finance • 31m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -203,13 +203,13 @@ Yahoo Finance • 31m ago
 
 Demand for bitcoin as a corporate treasury asset is once again concentrated in Michael Saylor's Strategy as the company steps up its bitcoin buying pace.
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
 **[Bitcoin Slumps With Options Showing Traders Turning Defensive](https://www.bloomberg.com/news/articles/2026-03-27/bitcoin-slumps-with-options-showing-traders-turning-defensive)**
 
-bloomberg.com • 18h ago
+bloomberg.com • 19h ago
 
 ---
 
@@ -223,7 +223,7 @@ WJHL • 1d ago
 
 Morgan Stanley is set to disrupt the spot bitcoin ETF market, with its upcoming Bitcoin Trust (MSBT) charging a market-leading 0.14% annual fee.
 
-Bitcoin Magazine • 16h ago
+Bitcoin Magazine • 17h ago
 
 ---
 
@@ -231,7 +231,7 @@ Bitcoin Magazine • 16h ago
 
 Solana could generate bigger near-term gains than the top cryptocurrency.
 
-The Motley Fool • 21h ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -279,13 +279,23 @@ Is your Bitcoin traceable? Paste an address or txid - get a privacy score with 3
 
 ## YouTube Videos: "bitcoin"
 
+**[Something Big is Going to Happen on Bitcoin (here&#39;s how to prepare)](https://www.youtube.com/watch?v=LUEsxFQpa0c)**
+
+Something big is going to happen on bitcoin and we discuss with analyst Benjamin Cowen the key charts that matter right now on ...
+
+📺 Alessio Rastani
+
+👁️ 7K • 👍 1K • 💬 209 • ⏱️ 24:30 • 2h ago
+
+---
+
 **[Bitcoin: The Window of Weakness is Open](https://www.youtube.com/watch?v=vu7tN0VxhRE)**
 
 Bitcoin may not be breaking down all at once, but the structure is starting to weaken. In this video, we discuss why a window of ...
 
 📺 Benjamin Cowen
 
-👁️ 3K • 👍 2K • 💬 101 • ⏱️ 26:12 • 3h ago
+👁️ 25K • 👍 3K • 💬 156 • ⏱️ 26:12 • 4h ago
 
 ---
 
@@ -295,17 +305,7 @@ Once upon a time, Bitcoin used to have god candles (and epic crashes) all on its
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 21K • 👍 1K • 💬 158 • ⏱️ 8:32 • 17h ago
-
----
-
-**[6 STRAIGHT RED MONTHS For Bitcoin… The EXACT Moment It Blasted Off Last Time](https://www.youtube.com/watch?v=5zrS5PsBVyU)**
-
-Thanks to Caleb & Brown for sponsoring this video! CALEB & BROWN Link ...
-
-📺 Dan Gambardello
-
-👁️ 5K • 👍 418 • 💬 196 • ⏱️ 12:07 • 12h ago
+👁️ 22K • 👍 1K • 💬 162 • ⏱️ 8:32 • 18h ago
 
 ---
 
@@ -315,7 +315,7 @@ Something is changing in the Bitcoin market—and most people are completely mis
 
 📺 Tim Talks Finance
 
-👁️ 6K • 👍 315 • 💬 74 • ⏱️ 12:25 • 20h ago
+👁️ 7K • 👍 332 • 💬 78 • ⏱️ 12:25 • 21h ago
 
 ---
 
@@ -325,7 +325,17 @@ all my life is bitcoin, literally. I had moments where I thought I was ruining m
 
 📺 BTC Isla
 
-👁️ 13K • 👍 1K • 💬 306 • ⏱️ 10:32 • 23h ago
+👁️ 14K • 👍 1K • 💬 303 • ⏱️ 10:32 • 1d ago
+
+---
+
+**[6 STRAIGHT RED MONTHS For Bitcoin… The EXACT Moment It Blasted Off Last Time](https://www.youtube.com/watch?v=5zrS5PsBVyU)**
+
+Thanks to Caleb & Brown for sponsoring this video! CALEB & BROWN Link ...
+
+📺 Dan Gambardello
+
+👁️ 6K • 👍 472 • 💬 207 • ⏱️ 12:07 • 13h ago
 
 ---
 
@@ -335,17 +345,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 118 • 💬 1 • ⏱️ 15:15 • 17h ago
-
----
-
-**[Bitcoin PLUMMETS To $66K As David Sacks Steps Down &amp; Coinbase Faces Backlash!](https://www.youtube.com/watch?v=9pR4bg8vNAE)**
-
-Bitcoin #Crypto #Finance Bitcoin has dropped sharply toward the $66K level as major developments in crypto policy and industry ...
-
-📺 The Wolf Of All Streets
-
-👁️ 22K • 👍 1K • 💬 385 • ⏱️ 34:13 • 1d ago
+👁️ 2K • 👍 125 • 💬 1 • ⏱️ 15:15 • 18h ago
 
 ---
 
@@ -355,7 +355,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 7K • 👍 542 • 💬 80 • ⏱️ 9:31 • 9h ago
+👁️ 9K • 👍 581 • 💬 59 • ⏱️ 9:31 • 10h ago
 
 ---
 
@@ -365,7 +365,7 @@ Coinbase and Fannie Mae just partnered up to do NO MARGIN CALL LOANS for Bitcoin
 
 📺 Digital Asset News
 
-👁️ 14K • 👍 1K • 💬 75 • ⏱️ 18:26 • 1d ago
+👁️ 15K • 👍 1K • 💬 75 • ⏱️ 18:26 • 1d ago
 
 ---
 
@@ -375,7 +375,7 @@ Are Bitcoin and the S&P 500 on the verge of a massive breakdown? In this urgent 
 
 📺 Gareth Soloway
 
-👁️ 70K • 👍 4K • 💬 603 • ⏱️ 9:48 • 1d ago
+👁️ 71K • 👍 4K • 💬 598 • ⏱️ 9:48 • 1d ago
 
 ---
 

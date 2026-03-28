@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-28T14:33:08.530011+00:00'
+updated: '2026-03-28T15:32:43.972703+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 28, 2026 at 14:33 UTC  
+**Last Updated:** March 28, 2026 at 15:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 In April Congress is voting to extend the FISA Act on the 20th of April this year. The FISA Act allows the government to buy your emails, texts, and calls from corporations. With the newly established shady deal with Open AI surveillance has become even more accessible and applicable on a much more larger and invasive scale. It very important for the sake of maintaining our right of protest and the press in the future. Call/email your representatives in the US, protest, and speak in any way you can.
 
-11h ago
+12h ago
 
 ---
 
@@ -49,7 +49,7 @@ In April Congress is voting to extend the FISA Act on the 20th of April this yea
 
 I follow AI infrastructure pretty closely and Qubic keeps coming up in my research in a way I find intersting but havent seen much discussion of in AI-focused comunities. Quick background for people who havent heard of it: Qubic uses what they call Useful Proof of Work - instead of hardware solving random hash puzzles, the compute runs neural network training tasks for thier Aigarth AI project. The same hardware is contributing to AI training while securing things. The network was independently verifed at 15.52 million transactions per second by CertiK on live mainnet. For context, thats faster than Visas theoretical peak throughput. The architecture runs on bare metal hardware without a virtual machine layer, which is aparently what enables the throughput. Theyre also aparently launching a DOGE mining integration immenantly (around April 1) where thier infrastructure will run Dogecoin mining simultaniously with everything else - the ASIC hardware for DOGE Scrypt mining runs in paralel with thier CPU/GPU hardware for other workloads. For comparison, people often bring up Bittensor, but from what I see Bittensor is more about competing AIs and subnets rewarding each other rather than actually using the distributed compute to train models from scratch with raw hardware power. Qubic seems different in that the mining itself is the training. Big companies are pouring billions into building massive data centers and training ever bigger LLMs, but I dont think true AGI is gonna come just from scaling up these trained models no matter how much money they throw at it. My interest is specifically in the distributed AI compute angle. Is the model of mining-funded distributed AI training something that gets serius discussion in AI research cirles? Or is this considered a fundementaly different category from serius AI infrastructure?
 
-3h ago
+4h ago
 
 ---
 
@@ -57,7 +57,7 @@ I follow AI infrastructure pretty closely and Qubic keeps coming up in my resear
 
 I was long juggling separate monthly subscriptions for Claude, Gemini, and GPT-4 until the costs and tab-switching became a total mess and I started paying over 100 bucks each mont. Then, I tried consolidating everything into a single hub, done that both locally and online, both api and openrouter and all in one online and writingmate. such consolidation then saved me about half of my resources pet each month. I do not have to deal with the constant cooldowns or model blocks that happen when you hit usage caps on a single platform anymore. And having 200+ models in one place has been a massive time-saver for my coding and doc review tasks. I recently processed a 100-page research paper using a long-context model I found on there, which would have been a pain to upload and prompt elsewhere. It is a practical ChatGPT alternative for anyone trying to streamline their setup rather than jumping between browser windows. I am also curious if anyone else here has moved away from the main platform for their daily tasks? Does anyone else find the model-switching friction as annoying as I did?
 
-5h ago
+6h ago
 
 ---
 
@@ -65,7 +65,7 @@ I was long juggling separate monthly subscriptions for Claude, Gemini, and GPT-4
 
 Anthropic warned about the AI model's cybersecurity risks in the leaked post as well.
 
-🔗 [Mashable](https://mashable.com/article/claude-mythos-ai-model-anthropic-leak) • 16h ago
+🔗 [Mashable](https://mashable.com/article/claude-mythos-ai-model-anthropic-leak) • 17h ago
 
 ---
 
@@ -73,7 +73,7 @@ Anthropic warned about the AI model's cybersecurity risks in the leaked post as 
 
 Just watched Hoppers and I’m surprised this hasn’t been picked up more widely. The parallels with AI and its risks are hard to ignore once you see them. A few things worth noting: The setup mirrors our current moment almost exactly. The lead scientist developing the world-changing technology is called Dr. Sam. Her invention lets humans cross a communication barrier that was previously impossible: entering the animal world through embodiment. LLMs did the same thing for the digital world. We can now navigate machines through natural language. The alignment problem is right there on screen. Mabel uses the technology to reach her goal, but the technology has its own logic and momentum. What it produces isn’t what she intended. The governance message is explicit. No single person or group should control a technology this powerful even when we have good intentions. The real cautionary tale in Hoppers isn’t aimed at the tech builders. It’s for the users, the ones who convince themselves that it is the only way to solve the world’s problems. The consequences in the film flow from that belief. Not from the tech itself. Curious if anyone else read it this way.
 
-🔗 [Pixar Animation Studios](https://www.pixar.com/hoppers) • 9h ago
+🔗 [Pixar Animation Studios](https://www.pixar.com/hoppers) • 10h ago
 
 ---
 
@@ -89,7 +89,7 @@ A federal judge told the government it could not immediately enforce a ban on An
 
 I've spent the last year building NIMCP — a biologically-inspired artificial brain in C that trains six different neural network types simultaneously (spiking, liquid, convolutional, Fourier, Hamiltonian, adaptive) with gradient flow between them through learnable bridges. Some things that might be interesting to this crowd: - The SNN developed 26 Hz firing rates with 67% sparsity — within mammalian cortical range — without any regularization targeting those values. It emerged from cross-network training pressure. - Safety is structural, not behavioral. The ethics module is a function call in the inference code path, not a learned weight. It can't be fine-tuned away or jailbroken. The governance rules can only get stricter. You can verify this by reading the source. - The brain learns through curiosity: prediction error → dopamine → STDP gating. No reward function. - Training follows a 4-stage developmental curriculum (sensory → naming → feedback →reasoning). The training is currently in Stage 2. You can watch it train live on the website — metrics update every 60 seconds. - 2,600 source files, 240 Python API methods, 8 language bindings. The system runs on a single RTX 4000 (20 GB VRAM). Eight technical papers on the site covering the math, training methodology, safety architecture, and emergent dynamics. Code: https://github.com/redmage123/nimcp I am happy to answer questions about the architecture, training dynamics, or why I think growing intelligence through developmental stages might work differently than scaling transformers.
 
-11h ago
+12h ago
 
 ---
 
@@ -97,7 +97,7 @@ I've spent the last year building NIMCP — a biologically-inspired artificial b
 
 Found this site that tracks researchers and executives who left OpenAI, Google, Anthropic, and others over safety concerns. It's kind of amazing to see the patterns; concerns become really obvious across companies. I love AI but do want to see regulations. The interesting part: it extracts specific predictions the researchers made and tracks whether they come true. 4 confirmed, 1 disproven, 6 still open. I would think there are others, the number is not that high, but maybe also most people who leave do it quietly? What do you think? ethicalaidepartures.fyi
 
-15h ago
+16h ago
 
 ---
 
@@ -105,7 +105,7 @@ Found this site that tracks researchers and executives who left OpenAI, Google, 
 
 I feel like, as the quality of the output has caught up with the level of creativity of those who use it, there is a bit of a thaw in the AI hostility. While still far from welcome generally, even here on Reddit I’ve seen many AI videos get grudging respect and even seen several on the front page, because the quality and creativity have won people over. Anyone else noticing the beginning of a trend?
 
-16h ago
+17h ago
 
 ---
 
@@ -113,7 +113,7 @@ I feel like, as the quality of the output has caught up with the level of creati
 
 Or are we stuck with works of 8 hours per day forever?
 
-19h ago
+20h ago
 
 ---
 
@@ -125,7 +125,7 @@ Or are we stuck with works of 8 hours per day forever?
 
 Experts say paid participants are using automated tools to generate unreliable survey responses at scale
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -139,7 +139,7 @@ Fortune • 1d ago
 
 **[Actors Union Is Bargaining for ‘Tilly Tax’ On AI Film Characters](https://www.bloomberg.com/news/articles/2026-03-28/sag-aftra-actors-union-bargaining-for-tilly-tax-on-ai-film-characters)**
 
-bloomberg.com • 33m ago
+bloomberg.com • 1h ago
 
 ---
 
@@ -147,13 +147,13 @@ bloomberg.com • 33m ago
 
 There is no federal regulation constraining the use of AI in political messaging, leaving only a patchwork of largely untested state laws.
 
-The Detroit News • 10m ago
+The Detroit News • 1h ago
 
 ---
 
 **[The AI Leader](https://www.forbes.com/sites/tomaspremuzic/2026/03/28/the-ai-leader/)**
 
-Forbes • 24m ago
+Forbes • 1h ago
 
 ---
 
@@ -169,13 +169,13 @@ The Atlantic • 1d ago
 
 State lawmakers have been stepping in to regulate artificial intelligence, clashing with the federal government's inaction as concerns about oversight and safety grow.
 
-NPR • 5h ago
+NPR • 6h ago
 
 ---
 
 **[The Decadelong Feud Shaping the Future of AI](https://www.wsj.com/tech/ai/the-decadelong-feud-shaping-the-future-of-ai-7075acde?gaa_at=eafs&gaa_n=AWEtsqcRV0rg6tCcPJcDzHvC9ma6ozmWZMmIE6vEEJFTcXjPebPgVsA-L13L&gaa_ts=69c7ea09&gaa_sig=VL2vhwlM2mDv5jBN84qsiHZ8zPKK7J9cbdxPlgNX8QkhgM36OVCNe3TW6lAgrvqtDkG8rw1flhOil50KgE19rw%3D%3D)**
 
-WSJ • 13h ago
+WSJ • 14h ago
 
 ---
 
@@ -183,7 +183,7 @@ WSJ • 13h ago
 
 The cybersecurity sector has slumped this year on fears that new AI will massively disrupt their business models.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
@@ -191,7 +191,7 @@ CNBC • 23h ago
 
 Alpha School, a network of AI-based private schools will open a K-8 campus in the Chicago Loop in the fall. For 55,000 per year, lessons are delivered through AI-powered software and condensed into two hours.
 
-Chicago Tribune • 3h ago
+Chicago Tribune • 4h ago
 
 ---
 
@@ -203,7 +203,7 @@ Chicago Tribune • 3h ago
 
 LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. Instead, it was choices made by human beings, over many years, that gave us this atrocity
 
-⬆️ 378 • 💬 350 • 21h ago • [the Guardian](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)
+⬆️ 378 • 💬 350 • 22h ago • [the Guardian](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)
 
 ---
 
@@ -239,7 +239,7 @@ One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced
 
 **[CERN uses tiny AI models burned into silicon for real-time LHC data filtering](https://news.ycombinator.com/item?id=47552562)**
 
-⬆️ 175 • 💬 87 • 6h ago • [theopenreader.org](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
+⬆️ 175 • 💬 87 • 7h ago • [theopenreader.org](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
 
 ---
 
@@ -247,7 +247,7 @@ One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced
 
 Personal website of Lara Aigmüller. Thoughts about web frontend development, music, and more…
 
-⬆️ 113 • 💬 125 • 21h ago • [lara-aigmueller.at](https://lara-aigmueller.at/thoughts/leaving-the-ai-party/)
+⬆️ 113 • 💬 125 • 22h ago • [lara-aigmueller.at](https://lara-aigmueller.at/thoughts/leaving-the-ai-party/)
 
 ---
 
@@ -255,7 +255,7 @@ Personal website of Lara Aigmüller. Thoughts about web frontend development, mu
 
 If you’re traveling through an airport, follow these digital security practices to keep CBP or ICE from getting into your phone.
 
-⬆️ 99 • 💬 159 • 2d ago • [The Intercept](https://theintercept.com/2026/03/25/ice-airports-phone-security-privacy-safety/)
+⬆️ 99 • 💬 159 • 3d ago • [The Intercept](https://theintercept.com/2026/03/25/ice-airports-phone-security-privacy-safety/)
 
 ---
 
@@ -277,13 +277,23 @@ Workflow orchestration for AI coding agents, from task to merged PR. - jonwiggin
 
 ## YouTube Videos: "ai"
 
+**[Best AI B-roll Generator for 3D Animations (2026)](https://www.youtube.com/watch?v=m6OZzdPPpwY)**
+
+Create B-rolls using Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=isa8 In this video, I break down how to generate cinematic ...
+
+📺 Isa does AI
+
+👁️ 4K • 💬 2 • ⏱️ 8:20 • 1h ago
+
+---
+
 **[The Wildest AI Film You&#39;ll See Today! (Seedance 2.0)](https://www.youtube.com/watch?v=dRjN6Cr2Z00)**
 
 "Dragon Blue" is a hyper-stylized action thriller about vengeance and katanas, what more could you ask for? Every shot was ...
 
 📺 Theoretically Media
 
-👁️ 32K • 👍 2K • 💬 606 • ⏱️ 3:34 • 2d ago
+👁️ 32K • 👍 2K • 💬 608 • ⏱️ 3:34 • 2d ago
 
 ---
 
@@ -293,7 +303,7 @@ The truth about Sam Altman. AI Critic Karen Hao reveals what 90 OpenAI employees
 
 📺 The Diary Of A CEO
 
-👁️ 1.6M • 👍 44K • 💬 8K • ⏱️ 2:09:13 • 2d ago
+👁️ 1.6M • 👍 45K • 💬 8K • ⏱️ 2:09:13 • 2d ago
 
 ---
 
@@ -303,7 +313,7 @@ Patrick Bet-David and the panel break down how AI agents like Claude are changin
 
 📺 Valuetainment
 
-👁️ 160K • 👍 3K • 💬 389 • ⏱️ 13:13 • 2d ago
+👁️ 163K • 👍 3K • 💬 398 • ⏱️ 13:13 • 2d ago
 
 ---
 
@@ -313,17 +323,17 @@ Build your own AI agent team and automate your daily ops — try Accio Work FREE
 
 📺 Silicon Valley Girl
 
-👁️ 11K • 👍 474 • 💬 67 • ⏱️ 44:41 • 1d ago
+👁️ 13K • 👍 519 • 💬 76 • ⏱️ 44:41 • 1d ago
 
 ---
 
-**[The AI boom is a lie: Fake data centres and unused GPUs | Ed Zitron](https://www.youtube.com/watch?v=nxUEOdC4VzU)**
+**[Could AI End Humanity in Five Years? Ronny Chieng Investigates | The Daily Show](https://www.youtube.com/watch?v=cYTMjwZzzxg)**
 
-Hyperscalers have gone from the asset light cash machines to asset heavy behemoths.” Author of Where's Your Ed At and host of ...
+AI is changing the world, giving young people terminal brain rot, and stealing our jobs, but is it also trying to kill us? Daniel ...
 
-📺 The Tech Report
+📺 The Daily Show
 
-👁️ 89K • 👍 4K • 💬 898 • ⏱️ 32:39 • 19h ago
+👁️ 649K • 👍 16K • 💬 1K • ⏱️ 6:01 • 2d ago
 
 ---
 
@@ -333,7 +343,17 @@ Here's the AI News you probably missed this week! Check out Genspark here: ...
 
 📺 Matt Wolfe
 
-👁️ 58K • 👍 3K • 💬 213 • ⏱️ 31:53 • 23h ago
+👁️ 63K • 👍 3K • 💬 218 • ⏱️ 31:53 • 1d ago
+
+---
+
+**[A brief update on the AI apocalypse](https://www.youtube.com/watch?v=QtiTjXuZh30)**
+
+Something is definitely happening in the AI world, but how seriously should we take it? Is this another hype cycle or a genuine ...
+
+📺 Vox
+
+👁️ 24K • 👍 765 • 💬 78 • ⏱️ 40:29 • 1d ago
 
 ---
 
@@ -343,7 +363,7 @@ The people building AI say it could destroy humanity… so why are they still ra
 
 📺 The Diary Of A CEO
 
-👁️ 403K • 👍 14K • 💬 447 • ⏱️ 1:50 • 1d ago
+👁️ 416K • 👍 15K • 💬 473 • ⏱️ 1:50 • 1d ago
 
 ---
 
@@ -353,27 +373,7 @@ Subscribe: https://www.youtube.com/@Oprah?sub_confirmation=1 Artificial Intellig
 
 📺 Oprah
 
-👁️ 1.0M • 👍 642 • ⏱️ 1:09:56 • 2d ago
-
----
-
-**[TurboQuant will change Local AI for everyone.](https://www.youtube.com/watch?v=GY7q9ZqM8bw)**
-
-TurboQuant** is a recently published blog based on some published papers that will enable people on consumer devices to run ...
-
-📺 Tim Carambat
-
-👁️ 62K • 👍 3K • 💬 181 • ⏱️ 9:47 • 1d ago
-
----
-
-**[The AI Bubble Is Starting To Pop...](https://www.youtube.com/watch?v=IOf1vjIhr6Y)**
-
-Hello guys and gals, it's me Mutahar again! This time we take a look at what appears to be the first rumblings of the AI bubble ...
-
-📺 SomeOrdinaryGamers
-
-👁️ 451K • 👍 19K • 💬 2K • ⏱️ 17:38 • 2d ago
+👁️ 1.0M • 👍 666 • ⏱️ 1:09:56 • 2d ago
 
 ---
 
@@ -389,7 +389,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 253,259 • ❤️ 1,497 • 4d ago
+⬇️ 253,259 • ❤️ 1,502 • 4d ago
 
 ---
 
@@ -401,19 +401,7 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 `text-to-speech`
 
-⬇️ 1,802 • ❤️ 359 • 1d ago
-
----
-
-**[Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive)**
-
-*HauHau*
-
-An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context window, designed for aggressive prompt adherence and advanced reasoning tasks.
-
-`image-text-to-text` `34.7B`
-
-⬇️ 478,934 • ❤️ 1,025 • 17d ago
+⬇️ 1,802 • ❤️ 367 • 1d ago
 
 ---
 
@@ -425,7 +413,19 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 12,080 • ❤️ 309 • 13h ago
+⬇️ 12,080 • ❤️ 314 • 14h ago
+
+---
+
+**[Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive)**
+
+*HauHau*
+
+An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context window, designed for aggressive prompt adherence and advanced reasoning tasks.
+
+`image-text-to-text` `34.7B`
+
+⬇️ 478,934 • ❤️ 1,028 • 17d ago
 
 ---
 
@@ -437,7 +437,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 69,594 • ❤️ 354 • 3d ago
+⬇️ 69,594 • ❤️ 356 • 3d ago
 
 ---
 
@@ -473,7 +473,7 @@ Context-1 is a 20B parameter agentic search model that decomposes complex querie
 
 `20.9B`
 
-⬇️ 451 • ❤️ 182 • 1d ago
+⬇️ 451 • ❤️ 188 • 1d ago
 
 ---
 
@@ -485,7 +485,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 85,140 • ❤️ 210 • 3d ago
+⬇️ 85,140 • ❤️ 211 • 3d ago
 
 ---
 
@@ -497,7 +497,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `26.9B`
 
-⬇️ 590,877 • ❤️ 459 • 4d ago
+⬇️ 590,877 • ❤️ 461 • 4d ago
 
 ---
 
@@ -548,23 +548,23 @@ AgentScope enhances agentic applications by providing flexible tool-based intera
 
 Hyperagents represent a self-referential framework that integrates task and meta-agents into a single editable program, enabling metacognitive self-modification and open-ended improvement across diverse computational domains.
 
-▲ 35 • 💬 5 • ⭐ 1,672 • 8d ago
+▲ 35 • 💬 5 • ⭐ 1,728 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.19461) • [💻 code](https://github.com/facebookresearch/Hyperagents)
 
 ---
 
-**[LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels](https://huggingface.co/papers/2603.19312)**
+**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
 
-*Lucas Maes, Quentin Le Lidec, Damien Scieur et al. (5 authors)*
+*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
 
-🏢 randall-lab
+🏢 Microsoft Research
 
-LeWorldModel presents a stable end-to-end JEPA framework that trains efficiently from raw pixels using minimal loss terms while maintaining competitive performance in control tasks and encoding meaningful physical structures.
+VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 9 • 💬 1 • ⭐ 1,199 • 14d ago
+▲ 144 • 💬 7 • ⭐ 24,953 • 7mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2603.19312) • [💻 code](https://github.com/lucas-maes/le-wm) • [🔗 project](https://le-wm.github.io/)
+[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
 ---
 
@@ -580,6 +580,19 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 ---
 
+**[The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via
+  Agentic Tree Search](https://huggingface.co/papers/2504.08066)**
+
+*Yutaro Yamada, Robert Tjarko Lange, Cong Lu et al. (8 authors)*
+
+The AI Scientist-v2 autonomously proposes hypotheses, performs experiments, analyzes data, and writes peer-reviewed scientific papers, marking the first fully AI-generated paper accepted by a conference.
+
+▲ 16 • 💬 4 • ⭐ 3,187 • 11mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2504.08066) • [💻 code](https://github.com/SakanaAI/AI-Scientist-v2)
+
+---
+
 **[Internal Safety Collapse in Frontier Large Language Models](https://huggingface.co/papers/2603.23509)**
 
 *Yutao Wu, Xiao Liu, Yifeng Gao et al. (10 authors)*
@@ -592,17 +605,17 @@ Frontier large language models exhibit Internal Safety Collapse, where they gene
 
 ---
 
-**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
+**[LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels](https://huggingface.co/papers/2603.19312)**
 
-*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
+*Lucas Maes, Quentin Le Lidec, Damien Scieur et al. (5 authors)*
 
-🏢 Microsoft Research
+🏢 randall-lab
 
-VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
+LeWorldModel presents a stable end-to-end JEPA framework that trains efficiently from raw pixels using minimal loss terms while maintaining competitive performance in control tasks and encoding meaningful physical structures.
 
-▲ 144 • 💬 7 • ⭐ 24,754 • 7mo ago
+▲ 9 • 💬 1 • ⭐ 1,243 • 14d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
+[🎓 arXiv](https://arxiv.org/abs/2603.19312) • [💻 code](https://github.com/lucas-maes/le-wm) • [🔗 project](https://le-wm.github.io/)
 
 ---
 
@@ -618,19 +631,6 @@ daVinci-MagiHuman is an open-source audio-video generative model that synchroniz
 
 ---
 
-**[The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via
-  Agentic Tree Search](https://huggingface.co/papers/2504.08066)**
-
-*Yutaro Yamada, Robert Tjarko Lange, Cong Lu et al. (8 authors)*
-
-The AI Scientist-v2 autonomously proposes hypotheses, performs experiments, analyzes data, and writes peer-reviewed scientific papers, marking the first fully AI-generated paper accepted by a conference.
-
-▲ 16 • 💬 4 • ⭐ 2,935 • 11mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.08066) • [💻 code](https://github.com/SakanaAI/AI-Scientist-v2)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -641,7 +641,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 59.0k • 🔱 8.2k • 2d ago
+⭐ 59.2k • 🔱 8.2k • 2d ago
 
 ---
 
@@ -651,7 +651,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 22.8k • 🔱 1.1k • 1d ago
+⭐ 22.9k • 🔱 1.1k • 1d ago
 
 ---
 
@@ -661,7 +661,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 13.0k • 🔱 698 • 1d ago
+⭐ 13.0k • 🔱 704 • 1d ago
 
 ---
 
@@ -671,7 +671,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 8.3k • 🔱 673 • 2h ago
+⭐ 8.3k • 🔱 684 • 1h ago
 
 ---
 
@@ -701,7 +701,7 @@ Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messag
 
 `Go`
 
-⭐ 3.4k • 🔱 290 • 4h ago
+⭐ 3.4k • 🔱 294 • 5h ago
 
 ---
 
@@ -723,13 +723,11 @@ SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 
 ---
 
-**[jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh)**
+**[JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)**
 
-🎭 193 个即插即用的 AI 专家角色 — 支持 OpenClaw/Claude Code/Cursor/Copilot 等 14 种工具，覆盖工程/设计/营销/产品等 18 个部门。含 46 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）
+`TypeScript`
 
-`Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
-
-⭐ 2.9k • 🔱 485 • 1d ago
+⭐ 3.0k • 🔱 413 • 23h ago
 
 ---
 

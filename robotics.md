@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-28T14:33:08.545518+00:00'
+updated: '2026-03-28T15:32:43.990582+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 28, 2026 at 14:33 UTC  
+**Last Updated:** March 28, 2026 at 15:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 TechCrunch: Physical Intelligence is reportedly in talks to raise $1 billion, again: https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/
 
-2h ago
+3h ago
 
 ---
 
@@ -44,7 +44,7 @@ TechCrunch: Physical Intelligence is reportedly in talks to raise $1 billion, ag
 
 i have spent the past 2 months to design this arm in fusion, and now i am facing an issue on how to export this to isaac sim/ specifically the gripper, since it a 4 bar mechanism actuated with 3 gears. i thought of writing my own scripts of MJCF(because it supports kinematic loops), and then importing it in isaac sim
 
-8h ago
+9h ago
 
 ---
 
@@ -52,7 +52,7 @@ i have spent the past 2 months to design this arm in fusion, and now i am facing
 
 There is the argument that humanoid robots are the future because they're generalists and their humanoid form means they can do whatever humans were doing. And while that is theoretically true, it misses an important point: Generality is only good if it performs better and more cost-effectively than the specialist machines in those tasks. I haven't seen anything to support the idea that humanoid form would necessarily surpass that threshold for many tasks. It can easily end up doing a mediocre job at many tasks because its lower productively delivers less profit per dollar spent on the machinery compared to specialist machines, and its form can never get as efficient as non-humanoid specialist machines. The "economies of scale" argument usually gets propositioned where economies of scale would lower the prices of humanoid robots so much that it would make it the more cost-effective option. However: Specialized machines can also experience economies of scale Economies of scale only bring down the price so much (the cost per unit decrease is not infinitely proportional based on how many units are produced, at some point the cost savings level off and can even revert) Simpler machinery and manufacturing of a specialized machine can mean lower fixed costs compared to the more complex manufacturing of a humanoid robot, meaning economies of scale could result in a lower cost being spread across many units for the former rather than the latter, making the former cheaper than the latter. Even if the humanoid robot is cheaper, the higher productivity and profitability of specialized machines may justify and make purchasing specialized machines the more fruitful endeavor. Saying humanoid robots will experience such cost savings from economies of scale assumes they'd be so favored by buyers that lots of units would be produced in the first place. To understand the limits of generalist technology, take this analogy: Instead of having a knife, fork, spoon, spatula, pizza cutter, etc. you could use a spork to serve in place of all those things. A spork would be cheaper, especially since you don't have to buy more utensils and clean and wash more, and it benefits from economies of scale, but a spork does a pretty mediocre job at all those tasks, it does not master them as effectively as those more specialized utensils. This is why in large part most people do not use a spork for most food tasks, and if it is good for anything it is only in a few highly specific occasions. A spork in this sense is a "Jack of all trades, master of none," where it can do many food tasks, but all in a mediocre fashion. A humanoid robot may very well end up the same, where it can do many tasks, but not in a more cost-effective manner.
 
-1h ago
+2h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hello everyone, I wanted to share my project that I've been working on for month
 
 **[WANDER-Bot, a wind-powered robot designed for long-term exploration of hostile environments.](https://www.reddit.com/r/robotics/comments/1s59h0n/wanderbot_a_windpowered_robot_designed_for/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -96,7 +96,7 @@ I didn't use the T265; instead, I chose the RoboBaton mini to control the car's 
 
 Already asked in the proper forums, to no avail. Hopefully someone can reply before I'm deleted lol. I have an interview at a well known company that uses assembly lines, to assemble components. The position is related to "Robotics Vision", cameras and sensors and such. I have a background in material handling equipment, with minor knowledge on cameras and sensors unrelated to automous robotics on this scale. My question is, what are some key items for me to be aware of in the space of Robotics Vision in order to land this job and more specifically the tech interview? I'm not looking for an entire study guide, just some relevant information related to the interview that I may be asked. I appreciate any and all help, if any!
 
-17h ago
+18h ago
 
 ---
 
@@ -114,7 +114,7 @@ Yeah, front flips. I know, I've seen a lot of "who cares," "useless flex," "why 
 
 **[AI Robotics Lab in Talks to Raise $1 Billion at $11 Billion Valuation](https://www.bloomberg.com/news/articles/2026-03-27/ex-deepmind-staffers-robotics-startup-in-talks-for-11-billion-valuation)**
 
-bloomberg.com • 17h ago
+bloomberg.com • 18h ago
 
 ---
 
@@ -130,7 +130,7 @@ CNBC • 2d ago
 
 Mind Robotics has raised millions of dollars to apply production data to AI robots with human-like dexterity, adaptability, and reasoning.
 
-The Robot Report • 2h ago
+The Robot Report • 3h ago
 
 ---
 
@@ -152,7 +152,7 @@ Reuters • 1d ago
 
 Snail-inspired robots aim to deliver cancer drugs precisely to tumors, reducing side effects and improving outcomes.
 
-Interesting Engineering • 14h ago
+Interesting Engineering • 15h ago
 
 ---
 
@@ -184,7 +184,7 @@ New York Post • 2d ago
 
 Roadrunner moves in-line, on one wheel, or two to stay nimble and on the go. Plus NASA's SkyFall Mars helicopters and MoonFall mission are gearing up.
 
-IEEE Spectrum • 21h ago
+IEEE Spectrum • 22h ago
 
 ---
 
@@ -198,7 +198,7 @@ Thanks to Delete Me for sponsoring this video. To keep your private info private
 
 📺 Kim Java
 
-👁️ 153K • 👍 7K • 💬 323 • ⏱️ 20:00 • 4d ago
+👁️ 157K • 👍 7K • 💬 327 • ⏱️ 20:00 • 4d ago
 
 ---
 
@@ -208,37 +208,7 @@ Melania Trump suggested using humanoid AI robots like a “Plato” educator to 
 
 📺 Farron Balanced
 
-👁️ 35K • 👍 3K • 💬 794 • ⏱️ 5:10 • 1d ago
-
----
-
-**[Watch: Humanoid robot walks alongside first lady Melania Trump at White House](https://www.youtube.com/watch?v=X-NjEku-zE4)**
-
-Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
-
-📺 CBS News
-
-👁️ 40K • 👍 282 • 💬 297 • ⏱️ 9:54 • 2d ago
-
----
-
-**[Melania Trump Goes OFF THE RAILS With Alarming Robot Teacher Announcement](https://www.youtube.com/watch?v=JsTKgM8fYUk)**
-
-Melania Trump sparks alarm over a White House event where she walked in with a robot and made an announcement about ...
-
-📺 The Damage Report
-
-👁️ 17K • 👍 873 • 💬 424 • ⏱️ 8:42 • 1d ago
-
----
-
-**[China’s New AI Robots Just Broke The Human Skill Barrier](https://www.youtube.com/watch?v=QDRzgF-8-50)**
-
-This week in robotics got kind of ridiculous. South Korea showed off a humanoid that can run, jump, play soccer, and moonwalk, ...
-
-📺 AI Revolution
-
-👁️ 226K • 👍 3K • 💬 140 • ⏱️ 14:31 • 5d ago
+👁️ 35K • 👍 3K • 💬 801 • ⏱️ 5:10 • 1d ago
 
 ---
 
@@ -248,7 +218,27 @@ Learn for free on Brilliant for a full 30 days: https://brilliant.org/NikodemBar
 
 📺 Nikodem Bartnik
 
-👁️ 57K • 👍 3K • 💬 51 • ⏱️ 9:55 • 4d ago
+👁️ 59K • 👍 3K • 💬 53 • ⏱️ 9:55 • 4d ago
+
+---
+
+**[Melania Trump Goes OFF THE RAILS With Alarming Robot Teacher Announcement](https://www.youtube.com/watch?v=JsTKgM8fYUk)**
+
+Melania Trump sparks alarm over a White House event where she walked in with a robot and made an announcement about ...
+
+📺 The Damage Report
+
+👁️ 18K • 👍 878 • 💬 426 • ⏱️ 8:42 • 1d ago
+
+---
+
+**[China’s New AI Robots Just Broke The Human Skill Barrier](https://www.youtube.com/watch?v=QDRzgF-8-50)**
+
+This week in robotics got kind of ridiculous. South Korea showed off a humanoid that can run, jump, play soccer, and moonwalk, ...
+
+📺 AI Revolution
+
+👁️ 227K • 👍 3K • 💬 142 • ⏱️ 14:31 • 5d ago
 
 ---
 
@@ -258,37 +248,47 @@ Brett Adcock shares his vision for the future of humanoid robots, why he believe
 
 📺 Shawn Ryan Show
 
-👁️ 25K • 👍 988 • 💬 345 • ⏱️ 14:05 • 18h ago
+👁️ 27K • 👍 1K • 💬 362 • ⏱️ 14:05 • 19h ago
 
 ---
 
-**[First lady Melania Trump walks with robot during White House technology summit](https://www.youtube.com/watch?v=iFAWleMvbDY)**
+**[Every Robot I Met at Nvidia GTC in Under 6 Minutes (Speedrun)](https://www.youtube.com/watch?v=mFr7XfTY5bY)**
 
-A walking, talking humanoid robot strolled side-by-side first lady Melania Trump into the East Room at the White House for the ...
+The robots at Nvidia GTC were showcasing strength, dexterity and the ability to work together on the same task. You can find the ...
 
-📺 ABC News
+📺 CNET
 
-👁️ 37K • 👍 184 • 💬 206 • ⏱️ 1:30 • 2d ago
-
----
-
-**[First lady Melania Trump welcomes robot to White House tech summit](https://www.youtube.com/watch?v=glfTpD9iKhs)**
-
-Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
-
-📺 Face the Nation
-
-👁️ 135K • 👍 1K • 💬 717 • ⏱️ 9:54 • 2d ago
+👁️ 17K • 👍 477 • 💬 29 • ⏱️ 5:50 • 6d ago
 
 ---
 
-**[When your circuit boards start roasting each other&#39;s specs! 🤖🤣 #Robotics #CodingMemes#viral](https://www.youtube.com/watch?v=HenS1Q4blFU)**
+**[Meet “Roadrunner&quot;: a bipedal, wheeled robot for multi-modal locomotion](https://www.youtube.com/watch?v=9kae-UAME1U)**
 
-The Ultimate Microcontroller Battle is HERE! Who is the real KING of your tech workbench? Arduino Uno is crying with no ...
+"Roadrunner” is a new bipedal wheeled robot prototype designed for multi-modal locomotion. It weighs around 15kg (33 lb.)
 
-📺 M.R. Hacking Robot
+📺 RAI Institute
 
-👁️ 42K • 👍 651 • 💬 12 • ⏱️ 0:21 • 2d ago
+👁️ 480K • 👍 11K • 💬 1K • ⏱️ 1:34 • 5d ago
+
+---
+
+**[The Most Human-Like Robots of 2026 Are Finally Here — And It Changes Everything](https://www.youtube.com/watch?v=BtE4otcAfVc)**
+
+The most advanced humanoid robots of 2026 just dropped — and you are NOT ready for what they can do. This year changes ...
+
+📺 The AI Nexus
+
+👁️ 7K • 👍 186 • 💬 14 • ⏱️ 16:29 • 4d ago
+
+---
+
+**[The New Xiaomi CyberOne&#39;s Palms are Sweaty #robot #xiaomi #robotics #innovation](https://www.youtube.com/watch?v=7ErtC3sgkEA)**
+
+Xiaomi's new humanoid robot's palms are sweaty. The Chinese tech giant just revealed the latest iteration of its CyberOne AI robot ...
+
+📺 Kalil 4.0
+
+👁️ 3K • 👍 141 • 💬 6 • ⏱️ 1:01 • 22h ago
 
 ---
 
