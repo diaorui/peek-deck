@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-28T12:58:04.465816+00:00'
+updated: '2026-03-28T13:53:42.184180+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 28, 2026 at 12:58 UTC  
+**Last Updated:** March 28, 2026 at 13:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -106,7 +106,7 @@ Decrypt • 1d ago
 
 Ethereum's vast ecosystem goes up against Solana's lightning-quick network.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -114,7 +114,7 @@ The Motley Fool • 2h ago
 
 BlackRock’s staked Ethereum fund pulled in $155 million on its first day of trading — more than the firm’s own Bitcoin ETF managed at launch. That number tells one part of Ethereum’s story in early 2026.The other part is harder to spin: the token itself has dropped more than 55% from its August 202…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
@@ -122,7 +122,7 @@ TradingView • 2h ago
 
 Ethereum's vast ecosystem goes up against Solana's lightning-quick network.
 
-finance.yahoo.com • 3h ago
+finance.yahoo.com • 4h ago
 
 ---
 
@@ -146,7 +146,7 @@ AMBCrypto • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 22h ago
+Fortune • 23h ago
 
 ---
 
@@ -160,7 +160,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 2K • 👍 90 • 💬 23 • ⏱️ 38:10 • 18h ago
+👁️ 2K • 👍 90 • 💬 23 • ⏱️ 38:10 • 19h ago
 
 ---
 
@@ -170,7 +170,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 72 • 👍 8 • ⏱️ 4:28 • 1h ago
+👁️ 72 • 👍 8 • ⏱️ 4:28 • 2h ago
 
 ---
 
@@ -180,7 +180,7 @@ BITCOIN & ALTCOIN CRASH: Price Target Confirmed!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 274 • 💬 108 • ⏱️ 19:00 • 13h ago
+👁️ 6K • 👍 274 • 💬 108 • ⏱️ 19:00 • 14h ago
 
 ---
 
@@ -200,7 +200,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 1K • 👍 158 • 💬 36 • ⏱️ 14:22 • 19h ago
+👁️ 1K • 👍 158 • 💬 36 • ⏱️ 14:22 • 20h ago
 
 ---
 
@@ -210,7 +210,7 @@ Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade
 
 📺 Crossroads
 
-👁️ 7K • 👍 304 • 💬 55 • ⏱️ 15:03 • 1d ago
+👁️ 7K • 👍 304 • 💬 55 • ⏱️ 15:03 • 2d ago
 
 ---
 
@@ -220,7 +220,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 5K • 👍 5K • 2h ago
+👁️ 5K • 👍 5K • 3h ago
 
 ---
 
@@ -230,7 +230,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Bangaru Rani
 
-👁️ 2K • 👍 1K • 16m ago
+👁️ 2K • 👍 1K • 1h ago
 
 ---
 
@@ -240,7 +240,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 102 • 💬 10 • ⏱️ 3:57 • 18h ago
+👁️ 2K • 👍 102 • 💬 10 • ⏱️ 3:57 • 19h ago
 
 ---
 

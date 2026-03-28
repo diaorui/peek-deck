@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-28T12:58:04.468955+00:00'
+updated: '2026-03-28T13:53:42.186968+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 28, 2026 at 12:58 UTC  
+**Last Updated:** March 28, 2026 at 13:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 i have spent the past 2 months to design this arm in fusion, and now i am facing an issue on how to export this to isaac sim/ specifically the gripper, since it a 4 bar mechanism actuated with 3 gears. i thought of writing my own scripts of MJCF(because it supports kinematic loops), and then importing it in isaac sim
 
-6h ago
+7h ago
 
 ---
 
@@ -44,7 +44,7 @@ i have spent the past 2 months to design this arm in fusion, and now i am facing
 
 TechCrunch: Physical Intelligence is reportedly in talks to raise $1 billion, again: https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/
 
-34m ago
+1h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hello everyone, I wanted to share my project that I've been working on for month
 
 **[WANDER-Bot, a wind-powered robot designed for long-term exploration of hostile environments.](https://www.reddit.com/r/robotics/comments/1s59h0n/wanderbot_a_windpowered_robot_designed_for/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dat
 
 I didn't use the T265; instead, I chose the RoboBaton mini to control the car's forward movement.I found the RoboBaton mini works well.Look the video !
 
-22h ago
+23h ago
 
 ---
 
@@ -88,7 +88,7 @@ I didn't use the T265; instead, I chose the RoboBaton mini to control the car's 
 
 Already asked in the proper forums, to no avail. Hopefully someone can reply before I'm deleted lol. I have an interview at a well known company that uses assembly lines, to assemble components. The position is related to "Robotics Vision", cameras and sensors and such. I have a background in material handling equipment, with minor knowledge on cameras and sensors unrelated to automous robotics on this scale. My question is, what are some key items for me to be aware of in the space of Robotics Vision in order to land this job and more specifically the tech interview? I'm not looking for an entire study guide, just some relevant information related to the interview that I may be asked. I appreciate any and all help, if any!
 
-15h ago
+16h ago
 
 ---
 
@@ -114,7 +114,7 @@ This is the new and improved state of the driver board for my work in progress 6
 
 **[AI Robotics Lab in Talks to Raise $1 Billion at $11 Billion Valuation](https://www.bloomberg.com/news/articles/2026-03-27/ex-deepmind-staffers-robotics-startup-in-talks-for-11-billion-valuation)**
 
-Bloomberg.com • 15h ago
+Bloomberg.com • 16h ago
 
 ---
 
@@ -144,7 +144,7 @@ Reuters • 1d ago
 
 Snail-inspired robots aim to deliver cancer drugs precisely to tumors, reducing side effects and improving outcomes.
 
-Interesting Engineering • 12h ago
+Interesting Engineering • 13h ago
 
 ---
 
@@ -176,7 +176,7 @@ ABC7 Chicago • 2d ago
 
 Roadrunner moves in-line, on one wheel, or two to stay nimble and on the go. Plus NASA's SkyFall Mars helicopters and MoonFall mission are gearing up.
 
-IEEE Spectrum • 20h ago
+IEEE Spectrum • 21h ago
 
 ---
 
@@ -184,7 +184,7 @@ IEEE Spectrum • 20h ago
 
 The deal would effectively double the company's $5.6 billion valuation in just four months.
 
-TechCrunch • 12h ago
+TechCrunch • 13h ago
 
 ---
 
@@ -198,7 +198,7 @@ Thanks to Delete Me for sponsoring this video. To keep your private info private
 
 📺 Kim Java
 
-👁️ 153K • 👍 7K • 💬 323 • ⏱️ 20:00 • 3d ago
+👁️ 153K • 👍 7K • 💬 323 • ⏱️ 20:00 • 4d ago
 
 ---
 
@@ -258,7 +258,7 @@ Brett Adcock shares his vision for the future of humanoid robots, why he believe
 
 📺 Shawn Ryan Show
 
-👁️ 25K • 👍 988 • 💬 345 • ⏱️ 14:05 • 16h ago
+👁️ 25K • 👍 988 • 💬 345 • ⏱️ 14:05 • 17h ago
 
 ---
 
