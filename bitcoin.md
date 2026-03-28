@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-28T11:29:11.910666+00:00'
+updated: '2026-03-28T11:53:40.332688+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 28, 2026 at 11:29 UTC  
+**Last Updated:** March 28, 2026 at 11:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** -2.5%  
-**30d:** +0.4%  
-**90d:** -24.1%  
-**1y:** -19.9%  
+**24h:** -0.5%  
+**7d:** -2.3%  
+**30d:** +0.7%  
+**90d:** -23.9%  
+**1y:** -19.7%  
 
 ---
 
@@ -121,7 +121,7 @@ Everyone outside crypto thinks it’s: Fast money Crazy gains Constant action Bu
 
 Onramp's Brian Cubellis also point out the difference between the latent demand for IBIT vs what he expects will be active solicitation from Morgan Stanley to their clients.
 
-19h ago
+20h ago
 
 ---
 
@@ -129,7 +129,7 @@ Onramp's Brian Cubellis also point out the difference between the latent demand 
 
 so i've been getting these random coinbase notifications for months and finally decided to check what was going on. remembered i had maybe like 7 bucks sitting there from way back when i bought something online that required bitcoin logged into my account expecting to see basically nothing and there's over 2400 sitting there. took me a minute to process what i was looking at did some digging and apparently that leftover change was from late 2015 when i made some random purchase. crazy how that small amount just sat there growing now i'm kicking myself thinking about what would've happened if i had been putting even 10 bucks aside every couple weeks since then. the math is pretty wild when you run those numbers probably gonna leave it alone and see where it goes from here. not really planning to touch it anytime soon
 
-20h ago
+21h ago
 
 ---
 
@@ -145,37 +145,15 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Each paycheck is now worth ~0.19% of my total sats. I have been in the space a bit. I am a little dead inside due to "same shit different day" mentality in this space. The price is getting smaller. I see the typical calls for people to hodl on or jump in or increase DCA. Quality memes are nowhere to be found. It reminds me of past bear cycles. What helps me during times like this is to remember the fundamentals. Nothing has changed. Blocks are still being solved about every 10 minutes. Code is still being written. Proposals are still being discussed/modified/dropped/fought over. Bitcoin is still based on real-world resources. People are still saying that bitcoin is dead/dying/ponzi scheme. People I know that make 3-5x my salary still think it is only used to wash dirty money. I have no grand secret or huge life lesson for you, simply because bitcoin is boring (also its most important feature). The messaging is always the same. Adopt a low time preference. I hope it helps some of the newer hodlers here who are planning to stay. The panic and self-doubt you feel will pass. And you will do it again, and it will pass again and so on. P.S. Do not leverage trade to try and catch up.
 
-20h ago
+21h ago
 
 ---
 
-**[Hulk Learning](https://www.reddit.com/r/Bitcoin/comments/1s5wshv/hulk_learning/)**
+**[Crypto mentality vs Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1s5s6dq/crypto_mentality_vs_bitcoin/)**
 
-🟢 Welcome to AI Hulk Learning World 💚
+Gambler vs real hodler. Ffffaaaaaah 🗣️🗣️🗣️ I'm 9 yo and this is deep
 
-This channel is specially created to educate and entertain children in a fun and creative way.
-
-Here, Hulk becomes a teacher to make learning exciting, easy, and enjoyable for kids.
-
-All videos are personally created by me with original ideas and human creativity.
-AI tools are used only for image creation and image-to-video conversion support.
-Every video takes hours of dedicated effort, planning, and editing to ensure quality educational content.
-🎓 What You’ll Find on This Channel:
-✔ Fun Learning Videos
-✔ Moral Stories for Kids
-✔ Basic Education (A to Z, Numbers, GK, Values)
-✔ Motivational & Positive Messages
-✔ Funny + Educational Content
-This channel is made only for:
-✨ Education
-✨ Entertainment
-✨ Positive Learning
-There is no harmful, scary, or negative content.
-Everything is created with good intention and positive vibes for children
-If you enjoy our videos, please Subscribe and Support ❤️
-Thank you for being part of our Hulk Learning Family 💚
-
-🔗 [YouTube](https://youtube.com/@hulklearning?si=9dsGaQaam2vb2O25) • 1h ago
+6h ago
 
 ---
 
@@ -187,23 +165,7 @@ Thank you for being part of our Hulk Learning Family 💚
 
 The average public miner spent $79,995 to produce one bitcoin last quarter. Bitcoin is trading at $70,000. The math doesn't work, so the industry is pivoting to AI, taking on $70 billion in contracts, and liquidating bitcoin treasuries to finance the shift.
 
-CoinDesk • 8h ago
-
----
-
-**[Bitcoin price (BTC) slides alongside software stocks following leak of new Anthropic model](https://www.coindesk.com/markets/2026/03/27/anthropic-s-massive-claude-mythos-leak-reveals-a-new-ai-model-that-could-be-a-cybersecurity-nightmare)**
-
-The model could significantly heighten cybersecurity risks by rapidly finding and exploiting software vulnerabilities, potentially accelerating a cyber arms race.
-
-CoinDesk • 21h ago
-
----
-
-**[This AI Cryptocurrency Is Up 111% in One Month. Is It the Next Bitcoin?](https://www.fool.com/investing/2026/03/28/this-ai-cryptocurrency-is-up-111-in-1-month-is-it/)**
-
-Bittensor's unique ecosystem is exciting, and it could just be getting started.
-
-The Motley Fool • 2h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -213,19 +175,19 @@ Investor's Business Daily • 13h ago
 
 ---
 
-**[What's the Better Buy to Save for Retirement: Bitcoin vs. Gold](https://www.fool.com/investing/2026/03/28/whats-the-better-buy-to-save-for-retirement-bitcoi/)**
+**[This AI Cryptocurrency Is Up 111% in One Month. Is It the Next Bitcoin?](https://www.fool.com/investing/2026/03/28/this-ai-cryptocurrency-is-up-111-in-1-month-is-it/)**
 
-These two assets don't need to be mutually exclusive, but that doesn't mean they're equal.
+Bittensor's unique ecosystem is exciting, and it could just be getting started.
 
-The Motley Fool • 3h ago
+The Motley Fool • 1h ago
 
 ---
 
-**[Potential Bitcoin crash below $60K may delay recovery to 2027: Data](https://www.tradingview.com/news/cointelegraph:56ff78b7c094b:0-potential-bitcoin-crash-below-60k-may-delay-recovery-to-2027-data/)**
+**[Crypto Trader Predicts Bitcoin Price Will Hit $100,000 Again When This Happens](https://www.tradingview.com/news/newsbtc:817ac2d4d094b:0-crypto-trader-predicts-bitcoin-price-will-hit-100-000-again-when-this-happens/)**
 
-Bitcoin (BTC) has shed all its March gains, currently down 1.40% on the monthly chart and 24.6% for the first quarter of 2026. Bitcoin’s longer-term performance aligns with a deep drawdown cycle for BTC, which may extend until the end of 2026 and many analysts expect another 40% drop in price.This…
+The Bitcoin price has been trading below $100,000 for months now, and there has been no attempt to reclaim this level. Even now, the price continues to trade more than 40% below its all-time high, as massive sell-offs continue to push the price down. Amid this widespread selling and negative macroe…
 
-TradingView • 3h ago
+TradingView • 2h ago
 
 ---
 
@@ -241,13 +203,13 @@ Yahoo Finance • 3h ago
 
 Demand for bitcoin as a corporate treasury asset is once again concentrated in Michael Saylor's Strategy as the company steps up its bitcoin buying pace.
 
-CNBC • 18h ago
+cnbc.com • 18h ago
 
 ---
 
 **[Bitcoin Slumps With Options Showing Traders Turning Defensive](https://www.bloomberg.com/news/articles/2026-03-27/bitcoin-slumps-with-options-showing-traders-turning-defensive)**
 
-Bloomberg • 14h ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -255,7 +217,23 @@ Bloomberg • 14h ago
 
 Bitcoin is no longer driven by scarcity-based models; its price now tracks demand dynamics and correlates with high-beta tech indices. Learn more about BTC-USD here.
 
-Seeking Alpha • 23h ago
+Seeking Alpha • 1d ago
+
+---
+
+**[JPMorgan says bitcoin shows safe-haven-like demand during Iran war as gold and silver weaken](https://www.theblock.co/post/395369/jpmorgan-bitcoin-crypto-iran-war-gold-silver)**
+
+Bitcoin has held up better than gold and silver during the Iran war, with signs of inflows and rising activity, JPMorgan analysts said.
+
+theblock.co • 1d ago
+
+---
+
+**[Bitcoin Price Slides to Two-Week Low as Liquidations Top $300 Million and Macro Pressure Builds](https://bitcoinmagazine.com/markets/bitcoin-price-slides-to-two-week-low)**
+
+Bitcoin price fell near $66,000 on Friday, hitting its lowest level in more than two weeks as a wave of long liquidations hit the market.
+
+Bitcoin Magazine • 22h ago
 
 ---
 
@@ -319,7 +297,7 @@ Thanks to Caleb & Brown for sponsoring this video! CALEB & BROWN Link ...
 
 📺 Dan Gambardello
 
-👁️ 4K • 👍 348 • 💬 144 • ⏱️ 12:07 • 9h ago
+👁️ 4K • 👍 348 • 💬 144 • ⏱️ 12:07 • 10h ago
 
 ---
 
@@ -349,7 +327,7 @@ Bitcoin #Crypto #Finance Bitcoin has dropped sharply toward the $66K level as ma
 
 📺 The Wolf Of All Streets
 
-👁️ 22K • 👍 1K • 💬 384 • ⏱️ 34:13 • 21h ago
+👁️ 22K • 👍 1K • 💬 384 • ⏱️ 34:13 • 22h ago
 
 ---
 
@@ -359,7 +337,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 5K • 👍 428 • 💬 30 • ⏱️ 9:31 • 6h ago
+👁️ 5K • 👍 428 • 💬 30 • ⏱️ 9:31 • 7h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-28T11:29:11.916829+00:00'
+updated: '2026-03-28T11:53:40.338753+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 28, 2026 at 11:29 UTC  
+**Last Updated:** March 28, 2026 at 11:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** -2.9%  
-**30d:** +3.3%  
-**90d:** -32.2%  
-**1y:** +9.0%  
+**24h:** +0.5%  
+**7d:** -2.6%  
+**30d:** +3.6%  
+**90d:** -32.0%  
+**1y:** +9.4%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Effective March 25, 2026, Pier Two Holdings Pty Ltd has been wholly acquired by Bitmine Immersion Technologies, Inc (NYSE: BMNR)
 
-🔗 [piertwo.com](https://piertwo.com/insights/pier-two-is-joining-mavan-a-bitmine-company) • 7h ago
+🔗 [piertwo.com](https://piertwo.com/insights/pier-two-is-joining-mavan-a-bitmine-company) • 8h ago
 
 ---
 
@@ -122,17 +122,17 @@ Ethereum pushes Glamsterdam testing forward as Hegotá headliner debates remain 
 
 ---
 
-**[Are there any onchain risk analysts here?](https://www.reddit.com/r/ethereum/comments/1s4nt5c/are_there_any_onchain_risk_analysts_here/)**
+**[Onchain RWA protocols went from $4.1B to $14.1B in 2025. Here are 8 real-world tokenized assets you can buy right now:](https://www.reddit.com/r/ethereum/comments/1s4s1xy/onchain_rwa_protocols_went_from_41b_to_141b_in/)**
 
-Working on a little side project that turns etherscan data into readable risk. If you analyzed a wallet recently I’d love to compare your assessment to my engine’s output and see where it’s wrong and right, thanks
+Source: https://www.coingecko.com/learn/real-world-assets-rwa-buy-on-chain RWAs were one of the fastest-growing sectors in crypto last year. DeFi yields from token emissions dried up, the GENIUS Act provided regulatory clarity for institutions, and BlackRock and Franklin Templeton launched their own tokenized products. This isn't speculative DeFi. These are tokens tied to government debt, physical commodities, and real loan portfolios.
 
 1d ago
 
 ---
 
-**[Onchain RWA protocols went from $4.1B to $14.1B in 2025. Here are 8 real-world tokenized assets you can buy right now:](https://www.reddit.com/r/ethereum/comments/1s4s1xy/onchain_rwa_protocols_went_from_41b_to_141b_in/)**
+**[Are there any onchain risk analysts here?](https://www.reddit.com/r/ethereum/comments/1s4nt5c/are_there_any_onchain_risk_analysts_here/)**
 
-Source: https://www.coingecko.com/learn/real-world-assets-rwa-buy-on-chain RWAs were one of the fastest-growing sectors in crypto last year. DeFi yields from token emissions dried up, the GENIUS Act provided regulatory clarity for institutions, and BlackRock and Franklin Templeton launched their own tokenized products. This isn't speculative DeFi. These are tokens tied to government debt, physical commodities, and real loan portfolios.
+Working on a little side project that turns etherscan data into readable risk. If you analyzed a wallet recently I’d love to compare your assessment to my engine’s output and see where it’s wrong and right, thanks
 
 1d ago
 
@@ -154,21 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The address traces back to Ethereum's initial token sale, where the investor purchased ether at about $0.31 per token, said Lookonchain.
 
-The Block • 1d ago
-
----
-
-**[Bitcoin, Ethereum Slip as Trump Says He's 'Not Desperate' to End Iran War](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-slip-trump-says-204125072.html)**
-
-Bitcoin fell alongside stocks as investors weighed conflicting accounts regarding Iran’s willingness to end conflict in the Middle East.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqfrxgJfjuDr_qeyH4xKi0lI9X14_ftfavxttP1xeouzCEEB1hIsosG1&gaa_ts=69c7b481&gaa_sig=GaFKGNdFe5sOrhgQCbcgQCuLEt5cy7GCA_x8FEw6yoks15Gb-77BkOCDH__oyf3OEBjdvk_JAUJ3aDvX4U1PyA%3D%3D)**
-
-barrons.com • 1d ago
+theblock.co • 1d ago
 
 ---
 
@@ -176,7 +162,7 @@ barrons.com • 1d ago
 
 Bitcoin fell alongside stocks as investors weighed conflicting accounts regarding Iran’s willingness to end conflict in the Middle East.
 
-Decrypt • 1d ago
+decrypt.co • 1d ago
 
 ---
 
@@ -184,7 +170,15 @@ Decrypt • 1d ago
 
 Ethereum's vast ecosystem goes up against Solana's lightning-quick network.
 
-The Motley Fool • 2h ago
+The Motley Fool • 1h ago
+
+---
+
+**[Ethereum Sets User Record As Price Lags Far Behind Network Growth](https://www.tradingview.com/news/newsbtc:dc277ef46094b:0-ethereum-sets-user-record-as-price-lags-far-behind-network-growth/)**
+
+BlackRock’s staked Ethereum fund pulled in $155 million on its first day of trading — more than the firm’s own Bitcoin ETF managed at launch. That number tells one part of Ethereum’s story in early 2026.The other part is harder to spin: the token itself has dropped more than 55% from its August 202…
+
+TradingView • 1h ago
 
 ---
 
@@ -204,11 +198,9 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[Current price of Ethereum for March 27, 2026](https://fortune.com/article/price-of-ethereum-03-27-2026/)**
+**[These 4 Charts Suggest That Ethereum (ETH) Price Has Hit Peak Pain This Cycle](https://www.ccn.com/analysis/crypto/these-charts-suggest-ethereum-price-hit-peak-pain/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-fortune.com • 21h ago
+CCN.com • 48m ago
 
 ---
 
@@ -220,11 +212,17 @@ AMBCrypto • 1d ago
 
 ---
 
-**[Ethereum Price Drops Near $2,020, Downside Pressure Continues to Build](https://www.tradingview.com/news/newsbtc:fd05ea531094b:0-ethereum-price-drops-near-2-020-downside-pressure-continues-to-build/)**
+**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqcnANNUmsF9wfI5XWRx0HefB-tn7YYvZD6PLikDZHqPbPEZwAdEXr9O&gaa_ts=69c7c4b0&gaa_sig=dgMvIzp0ycs3uSes4ZS-Rn7kXuz3bu62Vi8T5n-Z6vees_3WyEHs7Pe3_y0BR86iNcD8oV8XRngQ2LcTTmEG0g%3D%3D)**
 
-Ethereum price failed to clear the $2,200 zone and declined. ETH is now consolidating above $2,020 and might struggle to start a recovery wave.Ethereum Price Dips FurtherEthereum price failed to stay above $2,150 and started a fresh decline, like Bitcoin. ETH price dipped below $2,120 and $2,080 to…
+Barron's • 1d ago
 
-TradingView • 1d ago
+---
+
+**[Current price of Ethereum for March 27, 2026](https://fortune.com/article/price-of-ethereum-03-27-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 21h ago
 
 ---
 
@@ -258,7 +256,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 2K • 👍 83 • 💬 23 • ⏱️ 38:10 • 16h ago
+👁️ 2K • 👍 83 • 💬 23 • ⏱️ 38:10 • 17h ago
 
 ---
 
@@ -298,7 +296,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 649 • 💬 131 • ⏱️ 24:01 • 5h ago
+👁️ 3K • 👍 649 • 💬 131 • ⏱️ 24:01 • 6h ago
 
 ---
 
@@ -308,7 +306,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 MyCaNaLBF
 
-👁️ 1K • 👍 854 • 1h ago
+👁️ 1K • 👍 854 • 2h ago
 
 ---
 
@@ -318,7 +316,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 97 • 💬 10 • ⏱️ 3:57 • 16h ago
+👁️ 1K • 👍 97 • 💬 10 • ⏱️ 3:57 • 17h ago
 
 ---
 

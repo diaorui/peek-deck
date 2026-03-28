@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-28T11:29:11.920065+00:00'
+updated: '2026-03-28T11:53:40.342051+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 28, 2026 at 11:29 UTC  
+**Last Updated:** March 28, 2026 at 11:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Hello everyone, I wanted to share my project that I've been working on for month
 
 **[WANDER-Bot, a wind-powered robot designed for long-term exploration of hostile environments.](https://www.reddit.com/r/robotics/comments/1s59h0n/wanderbot_a_windpowered_robot_designed_for/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -100,11 +100,9 @@ This is the new and improved state of the driver board for my work in progress 6
 
 ---
 
-**[ROS News for the Week of March 23rd, 2026 - Community News](https://www.reddit.com/r/robotics/comments/1s5djcz/ros_news_for_the_week_of_march_23rd_2026/)**
+**[Shared my firs model to Printables](https://www.reddit.com/r/robotics/comments/1s4oaut/shared_my_firs_model_to_printables/)**
 
-ROS News for the Week of March 23rd, 2026      The ROSCon Global 2026 call for sponsors is out. We also updated the website with additional venue information. 📣 If you are planning to submit a ROSCon work shop proposal the deadline is coming up quick, April 5th, to be exact!                On the event front ROSCon Croatia is scheduled for Monday and from what I hear is sold out! Over the weekend we have another Nigerian ROS meetup on deck, along with meetups in the Netherlands, German...
-
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-march-23rd-2026/53588) • 16h ago
+1d ago
 
 ---
 
@@ -114,7 +112,7 @@ ROS News for the Week of March 23rd, 2026      The ROSCon Global 2026 call for s
 
 **[AI Robotics Lab in Talks to Raise $1 Billion at $11 Billion Valuation](https://www.bloomberg.com/news/articles/2026-03-27/ex-deepmind-staffers-robotics-startup-in-talks-for-11-billion-valuation)**
 
-Bloomberg • 14h ago
+Bloomberg.com • 14h ago
 
 ---
 
@@ -123,6 +121,14 @@ Bloomberg • 14h ago
 The White House hosted its first humanoid robot guest, with first lady Melania Trump appearing alongside a robot from startup Figure AI.
 
 cnbc.com • 2d ago
+
+---
+
+**[Montco Robotics Firm Asylon Expands AI Push With NVIDIA Partnership](https://bucksco.today/2026/03/asylon-robotics-nvidia-partnership/)**
+
+Norristown-based Asylon is partnering with NVIDIA to develop AI-powered analytics for its autonomous robotic security systems.
+
+BUCKSCO.Today • 2h ago
 
 ---
 
@@ -137,14 +143,6 @@ Yahoo Finance • 1d ago
 **[US lawmakers to introduce bill to ban government use of Chinese robots](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/)**
 
 Reuters • 1d ago
-
----
-
-**[Video Friday: Beep! Beep! Roadrunner Bipedal Bot Breaks the Mold](https://spectrum.ieee.org/roadrunner-bipedal-robot)**
-
-Roadrunner moves in-line, on one wheel, or two to stay nimble and on the go. Plus NASA's SkyFall Mars helicopters and MoonFall mission are gearing up.
-
-IEEE Spectrum • 18h ago
 
 ---
 
@@ -164,27 +162,27 @@ upi.com • 1d ago
 
 ---
 
-**[Rogue delivery robots are plowing into Chicago bus shelters, ‘bumping’ into pedestrians](https://nypost.com/2026/03/25/us-news/rogue-delivery-robots-plowed-into-two-chicago-bus-shelters-bumping-into-pedestrians-hazard-to-peoples-safety/)**
+**[Chicago leaders speak out after food delivery robots with Serve Robotics, Coco Robotics cause damage at CTA bus shelters](https://abc7chicago.com/post/chicago-leaders-speak-food-delivery-robots-serve-robotics-coco-cause-damage-cta-bus-shelters/18772726/)**
 
-“This is a hazard to people’s safety.”
+Two recent incidents of food delivery robots smashing into CTA bus shelters days apart happened as Chicagoans continue to debate whether the robots are a public benefit or a nuisance.
 
-nypost.com • 2d ago
-
----
-
-**[Physical Intelligence is reportedly in talks to raise $1 billion, again](https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/)**
-
-The deal would effectively double the company's $5.6 billion valuation in just four months.
-
-TechCrunch • 11h ago
+ABC7 Chicago • 2d ago
 
 ---
 
-**[Amazon Is Entering the Humanoid Robot Market. 3 Important Things to Know About the Fauna Robotics Acquisition.](https://www.fool.com/investing/2026/03/25/amazon-is-entering-the-humanoid-robot-market-3-imp/)**
+**[Video Friday: Beep! Beep! Roadrunner Bipedal Bot Breaks the Mold](https://spectrum.ieee.org/roadrunner-bipedal-robot)**
 
-Amazon is gearing up to become a much bigger player in robotics.
+Roadrunner moves in-line, on one wheel, or two to stay nimble and on the go. Plus NASA's SkyFall Mars helicopters and MoonFall mission are gearing up.
 
-The Motley Fool • 2d ago
+IEEE Spectrum • 19h ago
+
+---
+
+**[Raleigh students win state robotics title, advance to world championship](https://abc11.com/post/raleigh-students-win-state-robotics-title-advance-world-championship/18778624/)**
+
+Four Raleigh middle schoolers are headed to the world stage after winning the top honor at this month's VEX IQ Robotics State Championship in Concord.
+
+ABC11 Raleigh-Durham • 1d ago
 
 ---
 
