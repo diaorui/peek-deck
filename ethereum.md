@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-28T20:33:07.827737+00:00'
+updated: '2026-03-28T21:30:58.406587+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- videos
+- news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 28, 2026 at 20:33 UTC  
+**Last Updated:** March 28, 2026 at 21:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Effective March 25, 2026, Pier Two Holdings Pty Ltd has been wholly acquired by Bitmine Immersion Technologies, Inc (NYSE: BMNR)
 
-🔗 [piertwo.com](https://piertwo.com/insights/pier-two-is-joining-mavan-a-bitmine-company) • 16h ago
+🔗 [piertwo.com](https://piertwo.com/insights/pier-two-is-joining-mavan-a-bitmine-company) • 17h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 "The issue is whether or not people support CROPS and going in that direction, the issue is how the EF is going about it,” Optimism's Mark Tyneway said.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -162,7 +162,7 @@ The Block • 23h ago
 
 Bitcoin fell alongside stocks as investors weighed conflicting accounts regarding Iran’s willingness to end conflict in the Middle East.
 
-Decrypt • 1d ago
+Decrypt • 2d ago
 
 ---
 
@@ -170,7 +170,7 @@ Decrypt • 1d ago
 
 Across many of the most well-known ecosystems like Bitcoin, Ethereum, and Solana, responses are diverging along familiar lines: what to do on social consensus and technical iteration, and community members are split between caution and acceleration.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -178,7 +178,7 @@ CoinDesk • 4h ago
 
 After a show of resilience over the past few weeks, the Ethereum price finally gave way, falling below the $2,000 level for the first time since March 10th. The “King of Altcoins” succumbed to the downward pressure that spread across the global financial markets on Friday, March 27th, as the geopol…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
@@ -236,7 +236,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 2K • 👍 92 • 💬 20 • ⏱️ 11:06 • 6h ago
+👁️ 2K • 👍 92 • 💬 20 • ⏱️ 11:06 • 7h ago
 
 ---
 
@@ -246,7 +246,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 RFIS Hindi
 
-👁️ 2K • 👍 1K • 29m ago
+👁️ 2K • 👍 1K • 1h ago
 
 ---
 
@@ -276,7 +276,7 @@ BITCOIN & ALTCOIN CRASH: Price Target Confirmed!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 7K • 👍 294 • 💬 129 • ⏱️ 19:00 • 21h ago
+👁️ 7K • 👍 294 • 💬 129 • ⏱️ 19:00 • 22h ago
 
 ---
 
@@ -286,7 +286,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 185 • 👍 15 • ⏱️ 4:28 • 9h ago
+👁️ 185 • 👍 15 • ⏱️ 4:28 • 10h ago
 
 ---
 
@@ -306,7 +306,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 592 • 👍 57 • ⏱️ 5:50 • 5h ago
+👁️ 592 • 👍 57 • ⏱️ 5:50 • 6h ago
 
 ---
 
@@ -326,7 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 109 • 💬 6 • ⏱️ 4:26 • 1d ago
+👁️ 2K • 👍 109 • 💬 6 • ⏱️ 4:26 • 2d ago
 
 ---
 
