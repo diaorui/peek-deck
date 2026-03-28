@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-28T10:00:25.182451+00:00'
+updated: '2026-03-28T10:44:38.915588+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 28, 2026 at 10:00 UTC  
+**Last Updated:** March 28, 2026 at 10:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 i have spent the past 2 months to design this arm in fusion, and now i am facing an issue on how to export this to isaac sim/ specifically the gripper, since it a 4 bar mechanism actuated with 3 gears. i thought of writing my own scripts of MJCF(because it supports kinematic loops), and then importing it in isaac sim
 
-3h ago
+4h ago
 
 ---
 
@@ -44,13 +44,13 @@ i have spent the past 2 months to design this arm in fusion, and now i am facing
 
 Hello everyone, I wanted to share my project that I've been working on for months. I've recycled two old 3D printers Anet A8 into a robotic arm. My main goal is to make a coffee with it. The motors and the electronic cards are from the printers. I've flashed them with Marlin and control them with python with a custom interface. I need to use 2 boards because I can only control independently 4 motors with one board. All the joints design are homemade, and 3d printed. The endeffector is a design from Makerworld u/user_2700759104 (I will build my own in the next days). There is a lot of backlash because of the planetary gears that I use. I plan to change them in the future. If anyone knows a reduction gear for Nema17 with minimum backlash I am all ears ! Thanks to the gear ratio, I've measured 2.9kg of force with the J2. List of components : Motors (J1->J6) : Nema17 Endeffector : Servo SG90 Boards : 2 Anet A8 + 1 Arduino Uno Reduction : J1 - 19:1 J2 - 51:1 J3 - 19:1 J4 - 19:1 J5 - 19:1 (90° 1:1) J6 - 1:1
 
-22h ago
+23h ago
 
 ---
 
 **[WANDER-Bot, a wind-powered robot designed for long-term exploration of hostile environments.](https://www.reddit.com/r/robotics/comments/1s59h0n/wanderbot_a_windpowered_robot_designed_for/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hello everyone, I wanted to share my project that I've been working on for month
 
 Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dataset From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2037440578275946551
 
-22h ago
+23h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hugging Face: https://huggingface.co/collections/unitreerobotics/unifolm-wbt-dat
 
 I didn't use the T265; instead, I chose the RoboBaton mini to control the car's forward movement.I found the RoboBaton mini works well.Look the video !
 
-19h ago
+20h ago
 
 ---
 
@@ -80,7 +80,7 @@ I didn't use the T265; instead, I chose the RoboBaton mini to control the car's 
 
 Already asked in the proper forums, to no avail. Hopefully someone can reply before I'm deleted lol. I have an interview at a well known company that uses assembly lines, to assemble components. The position is related to "Robotics Vision", cameras and sensors and such. I have a background in material handling equipment, with minor knowledge on cameras and sensors unrelated to automous robotics on this scale. My question is, what are some key items for me to be aware of in the space of Robotics Vision in order to land this job and more specifically the tech interview? I'm not looking for an entire study guide, just some relevant information related to the interview that I may be asked. I appreciate any and all help, if any!
 
-12h ago
+13h ago
 
 ---
 
@@ -104,7 +104,7 @@ This is the new and improved state of the driver board for my work in progress 6
 
 ROS News for the Week of March 23rd, 2026      The ROSCon Global 2026 call for sponsors is out. We also updated the website with additional venue information. 📣 If you are planning to submit a ROSCon work shop proposal the deadline is coming up quick, April 5th, to be exact!                On the event front ROSCon Croatia is scheduled for Monday and from what I hear is sold out! Over the weekend we have another Nigerian ROS meetup on deck, along with meetups in the Netherlands, German...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-march-23rd-2026/53588) • 14h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-march-23rd-2026/53588) • 15h ago
 
 ---
 
@@ -114,7 +114,7 @@ ROS News for the Week of March 23rd, 2026      The ROSCon Global 2026 call for s
 
 **[AI Robotics Lab in Talks to Raise $1 Billion at $11 Billion Valuation](https://www.bloomberg.com/news/articles/2026-03-27/ex-deepmind-staffers-robotics-startup-in-talks-for-11-billion-valuation)**
 
-Bloomberg.com • 12h ago
+Bloomberg • 13h ago
 
 ---
 
@@ -122,7 +122,7 @@ Bloomberg.com • 12h ago
 
 The White House hosted its first humanoid robot guest, with first lady Melania Trump appearing alongside a robot from startup Figure AI.
 
-CNBC • 2d ago
+cnbc.com • 2d ago
 
 ---
 
@@ -144,7 +144,7 @@ Reuters • 1d ago
 
 Roadrunner moves in-line, on one wheel, or two to stay nimble and on the go. Plus NASA's SkyFall Mars helicopters and MoonFall mission are gearing up.
 
-IEEE Spectrum • 17h ago
+IEEE Spectrum • 18h ago
 
 ---
 
@@ -168,21 +168,23 @@ upi.com • 1d ago
 
 “This is a hazard to people’s safety.”
 
-New York Post • 2d ago
+nypost.com • 2d ago
 
 ---
 
-**[Amazon buys Fauna Robotics, maker of the Sprout humanoid robot](https://abcnews.com/Business/wireStory/amazon-buys-fauna-robotics-maker-sprout-humanoid-robot-131377676)**
+**[Physical Intelligence is reportedly in talks to raise $1 billion, again](https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/)**
 
-Amazon has acquired Fauna Robotics, just under two months after the startup introduced a humanoid robot called Sprout designed for social spaces like homes and schools
+The deal would effectively double the company's $5.6 billion valuation in just four months.
 
-abcnews.com • 3d ago
+TechCrunch • 10h ago
 
 ---
 
-**[Alive or not? Tiny 3D-printed robots that swim and navigate just like animals](https://techxplore.com/news/2026-03-alive-tiny-3d-robots-animals.html)**
+**[Amazon Is Entering the Humanoid Robot Market. 3 Important Things to Know About the Fauna Robotics Acquisition.](https://www.fool.com/investing/2026/03/25/amazon-is-entering-the-humanoid-robot-market-3-imp/)**
 
-Tech Xplore • 20h ago
+Amazon is gearing up to become a much bigger player in robotics.
+
+The Motley Fool • 2d ago
 
 ---
 

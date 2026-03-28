@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-28T10:00:25.172917+00:00'
+updated: '2026-03-28T10:44:38.906217+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- news
 - videos
+- cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 28, 2026 at 10:00 UTC  
+**Last Updated:** March 28, 2026 at 10:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,470.26
+### $66,163.46
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -2.2%  
-**30d:** +0.8%  
-**90d:** -23.9%  
-**1y:** -19.6%  
+**24h:** -0.8%  
+**7d:** -2.5%  
+**30d:** +0.4%  
+**90d:** -24.1%  
+**1y:** -19.9%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I was a junior in highschool, and BTC came up in the same conversations as Octopussy. My friends and i heard that for like $5 we could get a bunch of btc and someone on the dark web might actually send us drugs. At the time the cheapest hit of wholesale 'cid i could get was $2 a tab, $50 for the sheet. So if this worked, it would 10X my profit. The acid came in a birthday card. I was amazed but didn't bother to continue with it. The person who introduced me to the whole concept also accepted my measly $5 and bought the BTC. Yes, he has quite a few left over and continued to be involved long term, didn't work much after highschool. I first remembered my involvement in Btc when it hit $4K. Couldn't believe it, but bought a little just for nostalgia. Then at $8K i bought more but not much, because who tf thought it would ever get to $8 fucking K. When it hit $16K i started dollar-cost averaging weekly deposits. No regrets. I'm happy to be in at all, some people STILL don't hold any BTC. In b4, just like all of you 🤝
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ I was a junior in highschool, and BTC came up in the same conversations as Octop
 
 been watching the charts and bitcoin is sitting at what looks like a 40% drop from recent highs. feels like this might be teh moment to make a substantial buy instead of my usual small dca amounts. anyone else considering making moves right now or am i getting too greedy? trying to figure out if this dip is worth changing up my strategy for.
 
-9h ago
+10h ago
 
 ---
 
@@ -105,7 +105,15 @@ I have a feeling that UPril will be even better. Get your moon boots ready.
 
 When all my money is already in sats, it’s just easier to spend it directly instead of converting it to usd and spending that 🤷‍♂️
 
-17h ago
+18h ago
+
+---
+
+**[No one talks about how boring crypto actually is (if you’re doing it right)](https://www.reddit.com/r/Bitcoin/comments/1s5qfq2/no_one_talks_about_how_boring_crypto_actually_is/)**
+
+Everyone outside crypto thinks it’s: Fast money Crazy gains Constant action But if you’ve been here for a while, you know the truth… Most of crypto is just: Waiting Not touching your portfolio Ignoring noise Watching others panic The real game isn’t buying. It’s holding without doing something stupid. The people who win aren’t the smartest. They’re usually the ones who: Don’t overtrade Don’t chase every new coin Don’t panic sell It sounds boring because it is. But boring is where most money is made. Meanwhile: Beginners want excitement Veterans want consistency Question: What’s harder for you — buying at the right time or just holding after you buy?
+
+6h ago
 
 ---
 
@@ -113,7 +121,7 @@ When all my money is already in sats, it’s just easier to spend it directly in
 
 Onramp's Brian Cubellis also point out the difference between the latent demand for IBIT vs what he expects will be active solicitation from Morgan Stanley to their clients.
 
-18h ago
+19h ago
 
 ---
 
@@ -125,11 +133,11 @@ so i've been getting these random coinbase notifications for months and finally 
 
 ---
 
-**[No one talks about how boring crypto actually is (if you’re doing it right)](https://www.reddit.com/r/Bitcoin/comments/1s5qfq2/no_one_talks_about_how_boring_crypto_actually_is/)**
+**[Daily Discussion, March 28, 2026](https://www.reddit.com/r/Bitcoin/comments/1s5sjhn/daily_discussion_march_28_2026/)**
 
-Everyone outside crypto thinks it’s: Fast money Crazy gains Constant action But if you’ve been here for a while, you know the truth… Most of crypto is just: Waiting Not touching your portfolio Ignoring noise Watching others panic The real game isn’t buying. It’s holding without doing something stupid. The people who win aren’t the smartest. They’re usually the ones who: Don’t overtrade Don’t chase every new coin Don’t panic sell It sounds boring because it is. But boring is where most money is made. Meanwhile: Beginners want excitement Veterans want consistency Question: What’s harder for you — buying at the right time or just holding after you buy?
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-5h ago
+4h ago
 
 ---
 
@@ -141,19 +149,33 @@ Each paycheck is now worth ~0.19% of my total sats. I have been in the space a b
 
 ---
 
-**[Daily Discussion, March 28, 2026](https://www.reddit.com/r/Bitcoin/comments/1s5sjhn/daily_discussion_march_28_2026/)**
+**[Hulk Learning](https://www.reddit.com/r/Bitcoin/comments/1s5wshv/hulk_learning/)**
 
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+🟢 Welcome to AI Hulk Learning World 💚
 
-3h ago
+This channel is specially created to educate and entertain children in a fun and creative way.
 
----
+Here, Hulk becomes a teacher to make learning exciting, easy, and enjoyable for kids.
 
-**[Been Through Worse](https://www.reddit.com/r/Bitcoin/comments/1s5fg7m/been_through_worse/)**
+All videos are personally created by me with original ideas and human creativity.
+AI tools are used only for image creation and image-to-video conversion support.
+Every video takes hours of dedicated effort, planning, and editing to ensure quality educational content.
+🎓 What You’ll Find on This Channel:
+✔ Fun Learning Videos
+✔ Moral Stories for Kids
+✔ Basic Education (A to Z, Numbers, GK, Values)
+✔ Motivational & Positive Messages
+✔ Funny + Educational Content
+This channel is made only for:
+✨ Education
+✨ Entertainment
+✨ Positive Learning
+There is no harmful, scary, or negative content.
+Everything is created with good intention and positive vibes for children
+If you enjoy our videos, please Subscribe and Support ❤️
+Thank you for being part of our Hulk Learning Family 💚
 
-Nearly a decade and a half holding Bitcoin now - grabbed my initial stack when it was trading around $9. Made it through all the brutal bear markets, constantly wondering if we'd finally reached the end. Each crash felt like Bitcoin might actually die for good. Every major drop had me questioning everything. But here we are. Bitcoin keeps bouncing back stronger than before. This current pullback is just another blip on the radar compared to what we've weathered in the past.
-
-13h ago
+🔗 [YouTube](https://youtube.com/@hulklearning?si=9dsGaQaam2vb2O25) • 16m ago
 
 ---
 
@@ -165,7 +187,7 @@ Nearly a decade and a half holding Bitcoin now - grabbed my initial stack when i
 
 The average public miner spent $79,995 to produce one bitcoin last quarter. Bitcoin is trading at $70,000. The math doesn't work, so the industry is pivoting to AI, taking on $70 billion in contracts, and liquidating bitcoin treasuries to finance the shift.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -177,15 +199,17 @@ CoinDesk • 20h ago
 
 ---
 
-**[Bitcoin Miners, Now AI Compute Leaders, Face Profitability Concerns](https://www.investors.com/news/bitcoin-miner-profitability-hash-price-q1-2026-ai-pivot-wulf-corz-cifr-hut/)**
+**[This AI Cryptocurrency Is Up 111% in One Month. Is It the Next Bitcoin?](https://www.fool.com/investing/2026/03/28/this-ai-cryptocurrency-is-up-111-in-1-month-is-it/)**
 
-Investor's Business Daily • 1d ago
+Bittensor's unique ecosystem is exciting, and it could just be getting started.
+
+The Motley Fool • 1h ago
 
 ---
 
 **[Bitcoin Skids, $14 Bil. In Options Due; Cathie Wood Raises Cash](https://www.investors.com/news/bitcoin-price-options-expire-14-billion-liquidations-cathie-wood-ark-invest/)**
 
-Investor's Business Daily • 11h ago
+Investor's Business Daily • 12h ago
 
 ---
 
@@ -193,7 +217,7 @@ Investor's Business Daily • 11h ago
 
 These two assets don't need to be mutually exclusive, but that doesn't mean they're equal.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -209,7 +233,7 @@ TradingView • 2h ago
 
 These two assets don't need to be mutually exclusive, but that doesn't mean they're equal.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -223,7 +247,7 @@ CNBC • 17h ago
 
 **[Bitcoin Slumps With Options Showing Traders Turning Defensive](https://www.bloomberg.com/news/articles/2026-03-27/bitcoin-slumps-with-options-showing-traders-turning-defensive)**
 
-Bloomberg.com • 13h ago
+Bloomberg • 14h ago
 
 ---
 
@@ -295,7 +319,7 @@ Thanks to Caleb & Brown for sponsoring this video! CALEB & BROWN Link ...
 
 📺 Dan Gambardello
 
-👁️ 4K • 👍 348 • 💬 144 • ⏱️ 12:07 • 8h ago
+👁️ 4K • 👍 348 • 💬 144 • ⏱️ 12:07 • 9h ago
 
 ---
 
@@ -305,7 +329,7 @@ all my life is bitcoin, literally. I had moments where I thought I was ruining m
 
 📺 BTC Isla
 
-👁️ 11K • 👍 1K • 💬 290 • ⏱️ 10:32 • 18h ago
+👁️ 11K • 👍 1K • 💬 290 • ⏱️ 10:32 • 19h ago
 
 ---
 
@@ -315,7 +339,7 @@ Something is changing in the Bitcoin market—and most people are completely mis
 
 📺 Tim Talks Finance
 
-👁️ 6K • 👍 293 • 💬 66 • ⏱️ 12:25 • 15h ago
+👁️ 6K • 👍 293 • 💬 66 • ⏱️ 12:25 • 16h ago
 
 ---
 
@@ -325,7 +349,7 @@ Bitcoin #Crypto #Finance Bitcoin has dropped sharply toward the $66K level as ma
 
 📺 The Wolf Of All Streets
 
-👁️ 22K • 👍 1K • 💬 384 • ⏱️ 34:13 • 20h ago
+👁️ 22K • 👍 1K • 💬 384 • ⏱️ 34:13 • 21h ago
 
 ---
 
@@ -345,7 +369,7 @@ Are Bitcoin and the S&P 500 on the verge of a massive breakdown? In this urgent 
 
 📺 Gareth Soloway
 
-👁️ 69K • 👍 4K • 💬 577 • ⏱️ 9:48 • 21h ago
+👁️ 69K • 👍 4K • 💬 577 • ⏱️ 9:48 • 22h ago
 
 ---
 

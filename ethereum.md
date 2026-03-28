@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-28T10:00:25.179213+00:00'
+updated: '2026-03-28T10:44:38.912230+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
-- news
 - videos
+- cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 28, 2026 at 10:00 UTC  
+**Last Updated:** March 28, 2026 at 10:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** -2.6%  
-**30d:** +3.6%  
-**90d:** -32.0%  
-**1y:** +9.3%  
+**24h:** +0.1%  
+**7d:** -2.9%  
+**30d:** +3.3%  
+**90d:** -32.2%  
+**1y:** +9.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I Built a Privacy-Preserving Bitcoin transaction Receipt Verifier (No KYC, No Screenshots, No wallet). https://github.com/Teycir/Ghostreceipt Would like to have feedback.
 
-13h ago
+14h ago
 
 ---
 
@@ -104,7 +104,7 @@ I Built a Privacy-Preserving Bitcoin transaction Receipt Verifier (No KYC, No Sc
 
 Frame transaction Considered for Inclusion for Hegotá, EthStaker staking survey, EF post-quantum website
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-17/) • 20h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-17/) • 21h ago
 
 ---
 
@@ -118,7 +118,7 @@ Ethereum pushes Glamsterdam testing forward as Hegotá headliner debates remain 
 
 **[Paperwallet.ca launch](https://www.reddit.com/r/ethereum/comments/1s543mf/paperwalletca_launch/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -158,11 +158,41 @@ The Block • 1d ago
 
 ---
 
+**[Bitcoin, Ethereum Slip as Trump Says He's 'Not Desperate' to End Iran War](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-slip-trump-says-204125072.html)**
+
+Bitcoin fell alongside stocks as investors weighed conflicting accounts regarding Iran’s willingness to end conflict in the Middle East.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqfrxgJfjuDr_qeyH4xKi0lI9X14_ftfavxttP1xeouzCEEB1hIsosG1&gaa_ts=69c7b481&gaa_sig=GaFKGNdFe5sOrhgQCbcgQCuLEt5cy7GCA_x8FEw6yoks15Gb-77BkOCDH__oyf3OEBjdvk_JAUJ3aDvX4U1PyA%3D%3D)**
+
+barrons.com • 1d ago
+
+---
+
 **[Bitcoin, Ethereum Slip as Trump Says He's 'Not Desperate' to End Iran War](https://decrypt.co/362516/bitcoin-ethereum-slip-as-trump-says-hes-not-desperate-to-end-iran-war)**
 
 Bitcoin fell alongside stocks as investors weighed conflicting accounts regarding Iran’s willingness to end conflict in the Middle East.
 
 Decrypt • 1d ago
+
+---
+
+**[Ethereum vs. Solana: Which Crypto Has More Upside?](https://www.fool.com/investing/2026/03/28/ethereum-vs-solana-which-crypto-has-more-upside/)**
+
+Ethereum's vast ecosystem goes up against Solana's lightning-quick network.
+
+The Motley Fool • 1h ago
+
+---
+
+**[Ethereum vs. Solana: Which Crypto Has More Upside?](https://finance.yahoo.com/markets/crypto/articles/ethereum-vs-solana-crypto-more-091900604.html)**
+
+Ethereum's vast ecosystem goes up against Solana's lightning-quick network.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -174,33 +204,19 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Announces Launch of MAVAN (Made In America VAlidator Network), the Company's Proprietary Staking Solution](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-launch-of-mavan-made-in-america-validator-network-the-companys-proprietary-staking-solution-302724419.html)**
-
-MAVAN will be the largest Ethereum staking service provider globally and will provide staking services for other proof-of-stake chains and blockchain...
-
-PR Newswire • 2d ago
-
----
-
-**[Ethereum and Solana Just Got a Huge Catalyst. Should You Buy Them With $1,000?](https://www.fool.com/investing/2026/03/27/ethereum-and-solana-just-got-a-huge-catalyst-shoul/)**
-
-These two coins now have fewer obstacles blocking their growth.
-
-The Motley Fool • 8h ago
-
----
-
 **[Current price of Ethereum for March 27, 2026](https://fortune.com/article/price-of-ethereum-03-27-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 19h ago
+fortune.com • 20h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqenmgVZArXNhXikLBKXNz3-Mk4UIwCwBKsNByvShaNuQeuP5YO4VXe0&gaa_ts=69c79d37&gaa_sig=vPv_xjL_RwQIbinsThhup_oDZK7ydvR1guIqg6YdocXLEA_lyfBfb2igOGlUwjEArgNLIHbcXDMbcnmX-kOIKg%3D%3D)**
+**[BitMine enters Ethereum staking race with new MAVAN platform – Details](https://ambcrypto.com/bitmine-enters-ethereum-staking-race-with-new-mavan-platform-details/)**
 
-barrons.com • 1d ago
+BitMine launched the new MAVAN staking platform and plans to stake its entire 4.6 million ETH holdings on it, with the aim of generating...
+
+AMBCrypto • 1d ago
 
 ---
 
@@ -209,22 +225,6 @@ barrons.com • 1d ago
 Ethereum price failed to clear the $2,200 zone and declined. ETH is now consolidating above $2,020 and might struggle to start a recovery wave.Ethereum Price Dips FurtherEthereum price failed to stay above $2,150 and started a fresh decline, like Bitcoin. ETH price dipped below $2,120 and $2,080 to…
 
 TradingView • 1d ago
-
----
-
-**[Ethereum Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1774647300)**
-
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 1d ago
-
----
-
-**[Bitcoin and Ethereum Face Downside Risk Ahead of $15.58B Options Expiry Today](https://coinpedia.org/news/bitcoin-and-ethereum-face-downside-risk-ahead-of-15-58b-options-expiry-today/)**
-
-A large batch of Bitcoin and Ethereum options is set to expire this Friday, with total value crossing $15.58B billion as per Deribit insights. This marks
-
-Coinpedia Fintech News • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ BITCOIN & ALTCOIN CRASH: Price Target Confirmed!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 5K • 👍 255 • 💬 92 • ⏱️ 19:00 • 10h ago
+👁️ 5K • 👍 255 • 💬 92 • ⏱️ 19:00 • 11h ago
 
 ---
 
@@ -278,7 +278,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 1K • 👍 149 • 💬 36 • ⏱️ 14:22 • 16h ago
+👁️ 1K • 👍 149 • 💬 36 • ⏱️ 14:22 • 17h ago
 
 ---
 
@@ -308,7 +308,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 MyCaNaLBF
 
-👁️ 1K • 👍 854 • 23m ago
+👁️ 1K • 👍 854 • 1h ago
 
 ---
 
