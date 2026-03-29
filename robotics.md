@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-29T11:54:15.710830+00:00'
+updated: '2026-03-29T12:58:54.118616+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 29, 2026 at 11:54 UTC  
+**Last Updated:** March 29, 2026 at 12:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,15 +32,9 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[China’s fishery-solar model uses panels ~3m above ponds with a south tilt and partial shading. It generates large-scale power while supporting fish, shrimp, and crab farming below also reducing water temperature and evaporation.](https://www.reddit.com/r/robotics/comments/1s6pxqy/chinas_fisherysolar_model_uses_panels_3m_above/)**
-
-3h ago
-
----
-
 **[Who runs out of battery first decides the future](https://www.reddit.com/r/robotics/comments/1s6566h/who_runs_out_of_battery_first_decides_the_future/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -48,7 +42,7 @@ Robotics research and industry news
 
 TechCrunch: Physical Intelligence is reportedly in talks to raise $1 billion, again: https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/
 
-23h ago
+1d ago
 
 ---
 
@@ -56,7 +50,7 @@ TechCrunch: Physical Intelligence is reportedly in talks to raise $1 billion, ag
 
 Im 15yr hobbyist , my 2nd project self funded. this project is currently in alpha stage .made using foamboard and used wooden blocks for strength, i will add robotic arm for my next phase (on top of it). used arduino UNO r3, 4TT motor, TB6612FNG driver. IR receiver for Remote control, can be controlled manually or turn on obstacle avoidance mode. more info in my GitHub: https://github.com/Ajaz-6O7/Rover-Project
 
-13h ago
+14h ago
 
 ---
 
@@ -64,7 +58,7 @@ Im 15yr hobbyist , my 2nd project self funded. this project is currently in alph
 
 Can anybody identify these ball joints in these two wrists and any useful analysis of these, they are from ross-hime designs. Inc web Here is the web: https://www.anthrobot.com/omni-wrist-vi/
 
-13h ago
+14h ago
 
 ---
 
@@ -72,7 +66,7 @@ Can anybody identify these ball joints in these two wrists and any useful analys
 
 For the robot arm, we're running a segmentation model that benchmarks at a rock-solid 20fps on an Nvidia RTX 5060 Ti. In this video, we're keeping the rover locked onto the target using Image-Based Visual Servoing (IBVS) and a simple proportional controller.
 
-18h ago
+19h ago
 
 ---
 
@@ -88,7 +82,7 @@ i have spent the past 2 months to design this arm in fusion, and now i am facing
 
 as the title says i'm looking for open source projects for small humanoids or quadruped robots, i'm thinking about cheap and easily hackable stuff like something built with an arduino/raspberry, 3d printed parts and consumer grade servos it would be great to find something that includes everything for reproducibility from the firmware to hardware schematics but my priority is that the project must have a ready to use sim environment i've already looked at some projects like open-quadruped or zeroth but most of them looks dead or still incomplete, is there anything else i should check out before starting to build everything from zero?
 
-15h ago
+16h ago
 
 ---
 
@@ -96,7 +90,7 @@ as the title says i'm looking for open source projects for small humanoids or qu
 
 There is the argument that humanoid robots are the future because they're generalists and their humanoid form means they can do whatever humans were doing. And while that is theoretically true, it misses an important point: Generality is only good if it performs better and more cost-effectively than the specialist machines in those tasks. I haven't seen anything to support the idea that humanoid form would necessarily surpass that threshold for many tasks. It can easily end up doing a mediocre job at many tasks because its lower productively delivers less profit per dollar spent on the machinery compared to specialist machines, and its form can never get as efficient as non-humanoid specialist machines. The "economies of scale" argument usually gets propositioned where economies of scale would lower the prices of humanoid robots so much that it would make it the more cost-effective option. However: Specialized machines can also experience economies of scale Economies of scale only bring down the price so much (the cost per unit decrease is not infinitely proportional based on how many units are produced, at some point the cost savings level off and can even revert) Simpler machinery and manufacturing of a specialized machine can mean lower fixed costs compared to the more complex manufacturing of a humanoid robot, meaning economies of scale could result in a lower cost being spread across many units for the former rather than the latter, making the former cheaper than the latter. Even if the humanoid robot is cheaper, the higher productivity and profitability of specialized machines may justify and make purchasing specialized machines the more fruitful endeavor. Saying humanoid robots will experience such cost savings from economies of scale assumes they'd be so favored by buyers that lots of units would be produced in the first place. To understand the limits of generalist technology, take this analogy: Instead of having a knife, fork, spoon, spatula, pizza cutter, etc. you could use a spork to serve in place of all those things. A spork would be cheaper, especially since you don't have to buy more utensils and clean and wash more, and it benefits from economies of scale, but a spork does a pretty mediocre job at all those tasks, it does not master them as effectively as those more specialized utensils. This is why in large part most people do not use a spork for most food tasks, and if it is good for anything it is only in a few highly specific occasions. A spork in this sense is a "Jack of all trades, master of none," where it can do many food tasks, but all in a mediocre fashion. A humanoid robot may very well end up the same, where it can do many tasks, but not in a more cost-effective manner.
 
-22h ago
+23h ago
 
 ---
 
@@ -105,6 +99,12 @@ There is the argument that humanoid robots are the future because they're genera
 Hello everyone, I wanted to share my project that I've been working on for months. I've recycled two old 3D printers Anet A8 into a robotic arm. My main goal is to make a coffee with it. The motors and the electronic cards are from the printers. I've flashed them with Marlin and control them with python with a custom interface. I need to use 2 boards because I can only control independently 4 motors with one board. All the joints design are homemade, and 3d printed. The endeffector is a design from Makerworld u/user_2700759104 (I will build my own in the next days). There is a lot of backlash because of the planetary gears that I use. I plan to change them in the future. If anyone knows a reduction gear for Nema17 with minimum backlash I am all ears ! Thanks to the gear ratio, I've measured 2.9kg of force with the J2. List of components : Motors (J1->J6) : Nema17 Endeffector : Servo SG90 Boards : 2 Anet A8 + 1 Arduino Uno Reduction : J1 - 19:1 J2 - 51:1 J3 - 19:1 J4 - 19:1 J5 - 19:1 (90° 1:1) J6 - 1:1
 
 2d ago
+
+---
+
+**[WANDER-Bot, a wind-powered robot designed for long-term exploration of hostile environments.](https://www.reddit.com/r/robotics/comments/1s59h0n/wanderbot_a_windpowered_robot_designed_for/)**
+
+1d ago
 
 ---
 
@@ -122,7 +122,15 @@ Bloomberg.com • 1d ago
 
 In the musical experiment, violinists wore lightweight robotic exoskeletons attached to their bow-playing arms, which delivered subtle changes to their natural movements.
 
-Euronews.com • 5h ago
+Euronews.com • 6h ago
+
+---
+
+**[Are robots coming to a McDonald’s near you?](https://www.foxnews.com/tech/robots-coming-mcdonalds-near-you)**
+
+McDonald's tested humanoid robots from Keenon Robotics at a Shanghai location, where they greeted customers and delivered food in a short pilot program.
+
+Fox News • 1h ago
 
 ---
 
@@ -130,15 +138,7 @@ Euronews.com • 5h ago
 
 Serve Robotics and Coco Robotics delivery robots reportedly crashed into Chicago bus shelters days apart, shattering glass with no injuries reported.
 
-Fox Business • 14h ago
-
----
-
-**[Amazon Eyes Delivery Robots as MIT Tackles Warehouse Bottlenecks](https://www.pymnts.com/amazon/2026/amazon-eyes-delivery-robots-as-mit-tackles-warehouse-bottlenecks/)**
-
-Amazon has spent more than a decade automating its logistics network. The company has already deployed more than 1 million robots across its operations,
-
-pymnts.com • 2d ago
+Fox Business • 15h ago
 
 ---
 
@@ -150,11 +150,19 @@ Popular Science • 2d ago
 
 ---
 
-**[Meet Figure AI: The company behind the humanoid robot hosted by Melania Trump](https://www.cnbc.com/2026/03/26/figure-ai-the-robotics-company-hosted-by-melania-trump.html)**
+**[Delivery robots smash Chicago bus shelters in two separate incidents](https://www.upi.com/Odd_News/2026/03/26/Chicago-delivery-robots-bus-shelters/4041774539291/)**
 
-The White House hosted its first humanoid robot guest, with first lady Melania Trump appearing alongside a robot from startup Figure AI.
+Two delivery robots crashed into two bus shelters in Chicago within a matter of days -- and one of the incidents was caught on camera.
 
-CNBC • 3d ago
+upi.com • 2d ago
+
+---
+
+**[Amazon Acquires Fauna Robotics. Is This a Viable Threat to Tesla's Optimus Project?](https://www.fool.com/investing/2026/03/29/amazon-fauna-robotics-threat-tesla-optimus/)**
+
+Amazon's humanoid bet isn't about competing with Tesla's factory robots. Its about quietly building the operating system for the home.
+
+The Motley Fool • 3m ago
 
 ---
 
@@ -162,7 +170,7 @@ CNBC • 3d ago
 
 Researchers from Northwestern University have developed robots called "metamachines" that are composed of other robots.
 
-futurism.com • 18h ago
+Futurism • 19h ago
 
 ---
 
@@ -174,17 +182,11 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[Pre-IPO Gecko Robotics Wins Its Biggest-Ever Navy Contract](https://finance.yahoo.com/markets/stocks/articles/pre-ipo-gecko-robotics-wins-102600034.html)**
+**[Meet Figure AI: The company behind the humanoid robot hosted by Melania Trump](https://www.cnbc.com/2026/03/26/figure-ai-the-robotics-company-hosted-by-melania-trump.html)**
 
-Gecko looks big enough to go public. But will it?
+The White House hosted its first humanoid robot guest, with first lady Melania Trump appearing alongside a robot from startup Figure AI.
 
-Yahoo Finance • 1h ago
-
----
-
-**[US lawmakers to introduce bill to ban government use of Chinese robots](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/)**
-
-Reuters • 2d ago
+CNBC • 3d ago
 
 ---
 
@@ -198,7 +200,7 @@ Thanks to Delete Me for sponsoring this video. To keep your private info private
 
 📺 Kim Java
 
-👁️ 178K • 👍 8K • 💬 360 • ⏱️ 20:00 • 4d ago
+👁️ 181K • 👍 8K • 💬 366 • ⏱️ 20:00 • 4d ago
 
 ---
 
@@ -208,7 +210,17 @@ Learn for free on Brilliant for a full 30 days: https://brilliant.org/NikodemBar
 
 📺 Nikodem Bartnik
 
-👁️ 73K • 👍 3K • 💬 61 • ⏱️ 9:55 • 4d ago
+👁️ 74K • 👍 3K • 💬 62 • ⏱️ 9:55 • 4d ago
+
+---
+
+**[The Real-Life Future of Humanoid Robots](https://www.youtube.com/watch?v=ktwtZNKDV0E)**
+
+Brett Adcock shares his vision for the future of humanoid robots, why he believes synthetic humans will become one of the most ...
+
+📺 Shawn Ryan Show
+
+👁️ 43K • 👍 1K • 💬 512 • ⏱️ 14:05 • 1d ago
 
 ---
 
@@ -218,7 +230,7 @@ Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesda
 
 📺 CBS News
 
-👁️ 47K • 👍 337 • 💬 340 • ⏱️ 9:54 • 3d ago
+👁️ 47K • 👍 338 • 💬 344 • ⏱️ 9:54 • 3d ago
 
 ---
 
@@ -228,7 +240,7 @@ A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White H
 
 📺 C-SPAN
 
-👁️ 215K • 👍 924 • 💬 1K • ⏱️ 2:59 • 3d ago
+👁️ 215K • 👍 927 • 💬 1K • ⏱️ 2:59 • 3d ago
 
 ---
 
@@ -238,7 +250,7 @@ Melania Trump sparks alarm over a White House event where she walked in with a r
 
 📺 The Damage Report
 
-👁️ 19K • 👍 885 • 💬 434 • ⏱️ 8:42 • 2d ago
+👁️ 19K • 👍 885 • 💬 435 • ⏱️ 8:42 • 2d ago
 
 ---
 
@@ -248,7 +260,7 @@ Robotic Fingers Beat Human Hands! This clip shows a highly advanced robotic hand
 
 📺 Nerb Films
 
-👁️ 20K • 💬 25 • ⏱️ 0:12 • 1d ago
+👁️ 21K • 💬 25 • ⏱️ 0:12 • 1d ago
 
 ---
 
@@ -258,27 +270,7 @@ This week in robotics got kind of ridiculous. South Korea showed off a humanoid 
 
 📺 AI Revolution
 
-👁️ 234K • 👍 3K • 💬 144 • ⏱️ 14:31 • 6d ago
-
----
-
-**[Melania Brings a Robot to the White House &amp; RFK Jr. Did What to a Dead Raccoon? | The Daily Show](https://www.youtube.com/watch?v=tCp3yJu2Whc)**
-
-Josh Johnson dives into Markwayne Mullin replacing DHS shopaholic Kristi Noem, Trump scrutinizing Mullin's Native ...
-
-📺 The Daily Show
-
-👁️ 1.4M • 👍 42K • 💬 2K • ⏱️ 11:02 • 2d ago
-
----
-
-**[First lady Melania Trump welcomes robot to White House tech summit](https://www.youtube.com/watch?v=glfTpD9iKhs)**
-
-Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
-
-📺 Face the Nation
-
-👁️ 140K • 👍 1K • 💬 771 • ⏱️ 9:54 • 3d ago
+👁️ 235K • 👍 3K • 💬 145 • ⏱️ 14:31 • 6d ago
 
 ---
 
@@ -288,7 +280,17 @@ rumi #huntrix #kpop #kpopdemonhunters #shorts #celebrity #trend #makeup #mira Al
 
 📺 Faces of Culture
 
-👁️ 549K • 👍 2K • 💬 2 • ⏱️ 0:04 • 1d ago
+👁️ 621K • 👍 2K • 💬 2 • ⏱️ 0:04 • 1d ago
+
+---
+
+**[First lady Melania Trump welcomes robot to White House tech summit](https://www.youtube.com/watch?v=glfTpD9iKhs)**
+
+Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
+
+📺 Face the Nation
+
+👁️ 140K • 👍 1K • 💬 770 • ⏱️ 9:54 • 3d ago
 
 ---
 
