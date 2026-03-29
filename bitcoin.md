@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-29T09:38:36.119361+00:00'
+updated: '2026-03-29T10:35:16.113127+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - social
 - cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 29, 2026 at 09:38 UTC  
+**Last Updated:** March 29, 2026 at 10:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1332.83B
+**Market Cap:** $1329.08B
 Rank #1
 
 **Circulating Supply:** 20,008,578 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--47.2%
+-47.3%
 
 **All-Time Low:** $67.81
-+98161.3%
++97847.2%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 "I don't believe we shall have good money until we take it from the government. All we can do is, by a sly, roundabout way, introduce something they can't stop."
 
-2h ago
+3h ago
 
 ---
 
@@ -89,7 +89,7 @@ Rank #1
 
 I invested $4000 into crypto yesterday. Should I start dollar cost averaging the rest of the way or should I sell and wait for a bigger dip?
 
-15h ago
+16h ago
 
 ---
 
@@ -97,13 +97,13 @@ I invested $4000 into crypto yesterday. Should I start dollar cost averaging the
 
 I know nobody got a crystal ball and knows where it will go with Bitcoin. But why wouldn’t it slowly keep dropping over the years and kinda bleed out/become obsolete ? I love the idea of it becoming early retirement but what if we are totally wrong? Nobody knows ofc but what makes you guys so sure you keep putting money in you might need some day? (Again, I know nobody really knows just curious about perspective from the other side)
 
-3h ago
+4h ago
 
 ---
 
 **[Just explained to my friend again, how red months are the best opportunity to buy more bitcoin. I think he finally gets it.](https://www.reddit.com/r/Bitcoin/comments/1s60e4s/just_explained_to_my_friend_again_how_red_months/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -111,7 +111,7 @@ I know nobody got a crystal ball and knows where it will go with Bitcoin. But wh
 
 So I got curious about what happens if you just buy bitcoin and forget about it for exactly 5 years. Had an AI run the numbers on every possible 5 year window since bitcoin started trading Results from 959 different 5-year periods between august 2010 and january 2026: Key findings: - average return was 18229% which is insane but misleading because early buyers skew it hard - median return was 3108% so your typical 5 year holder made 32x their money - 958 out of 959 periods made profit thats 99.9% success rate Only ONE losing period ever: bought december 18 2017 right at the top around 18900 and sold december 16 2022 during that FTX mess at 16600. Lost 12% Breaking it down by when you started buying: - 2010-2013 buyers got stupid rich because they bought at literal pennies - Even 2018 which was terrible timing still averaged 346% returns - 2021 buyers only have partial data but already averaging 145% The distribution is wild - almost half of all 5 year holds returned between 1000-10000% and three quarters made over 100% basically if you can handle holding for 5 years you win unless you have the absolute worst timing in history. Even then you only lose 12% which beats a lot of other investments during crashes median person turns 1 dollar into 32 dollars over 5 years. Not bad for doing literally nothing
 
-18h ago
+19h ago
 
 ---
 
@@ -119,7 +119,7 @@ So I got curious about what happens if you just buy bitcoin and forget about it 
 
 As someone who's been super focused on building up my crypto portfolio since college, I'm excited to say I've reached the milestone I set for myself. Being in your late twenties and trying to build financial security while everyone around you is spending on everything definitely made me the "cheap friend" in the group more times than I'd like to admit. But after three years of putting most of my extra income into Bitcoin instead of new clothes, fancy dinners, or weekend trips, I finally have what feels like a solid foundation. Now I can actually start enjoying some of those things I've been putting off - maybe finally get that gym membership, treat myself to some new design software, or not stress about grabbing drinks with friends. Having this safety net built up feels amazing and I wanted to share with people who'd understand the discipline it took to get here
 
-13h ago
+14h ago
 
 ---
 
@@ -127,7 +127,7 @@ As someone who's been super focused on building up my crypto portfolio since col
 
 I’m curious if others had the same experience. Was there a concept or idea that looked easy at first, but turned out to be way deeper once you really got into it?
 
-12h ago
+13h ago
 
 ---
 
@@ -135,7 +135,7 @@ I’m curious if others had the same experience. Was there a concept or idea tha
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
 
 ---
 
@@ -151,7 +151,7 @@ I was a junior in highschool, and BTC came up in the same conversations as Octop
 
 By collateralizing the 4,709 BTC with Coinbase Credit, GameStop gains liquidity and flexibility while still benefiting from any future appreciation in Bitcoin’s value.
 
-🔗 [Crowdfund Insider](https://www.crowdfundinsider.com/2026/03/269429-gamestop-maintains-bitcoin-holdings-according-to-latest-sec-filing/) • 21h ago
+🔗 [Crowdfund Insider](https://www.crowdfundinsider.com/2026/03/269429-gamestop-maintains-bitcoin-holdings-according-to-latest-sec-filing/) • 22h ago
 
 ---
 
@@ -163,7 +163,7 @@ By collateralizing the 4,709 BTC with Coinbase Credit, GameStop gains liquidity 
 
 From churches allowing congregants to tithe with digital coins to blogs promoting bitcoin as biblically sound, there’s an emerging Christian crypto subculture.
 
-NBC News • 22h ago
+NBC News • 23h ago
 
 ---
 
@@ -179,7 +179,7 @@ CoinDesk • 1d ago
 
 Bitcoin price remains in a technical bear market this week after falling by double digits from the all-time high. BTC was trading at $66,800 on Sunday, and its fundamentals and technicals suggest that it has more downside to go in the foreseeable future.Bitcoin price technical analysis points to a…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
@@ -187,7 +187,7 @@ TradingView • 2h ago
 
 @investforlambo 3776 Views|1 Like
 
-Moomoo • 2h ago
+Moomoo • 3h ago
 
 ---
 
@@ -195,7 +195,7 @@ Moomoo • 2h ago
 
 French multinational universal bank BNP Paribas is expanding its investment offering to include six crypto-linked exchange-traded notes (ETNs), giving retail clients in France access to Bitcoin and Ether exposure through regulated products.The new ETNs, indexed to the price of Bitcoin (BTC) and Eth…
 
-TradingView • 1h ago
+TradingView • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ TradingView • 1h ago
 
 Nvidia (NASDAQ: NVDA) turned every $10,000 invested in early 2023 into over $125,000 by late 2025—a return that made it the most talked-about stock on the planet. Bitcoin (CRYPTO: BTC) had its own run to $126,000 in October 2025, and XRP (CRYPTO: XRP) reached $3.65 in July 2025. All three assets are now well below ... $10,000 in XRP and Bitcoin vs $10,000 in Nvidia: What Each Could Be Worth by the End of 2026
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -277,7 +277,7 @@ Clarity act for bitcoin and crypto is turning into a disaster. Follow Eric - htt
 
 📺 Digital Asset News
 
-👁️ 26K • 👍 1K • 💬 263 • ⏱️ 23:11 • 14h ago
+👁️ 27K • 👍 1K • 💬 273 • ⏱️ 23:11 • 15h ago
 
 ---
 
@@ -287,7 +287,7 @@ Once upon a time, Bitcoin used to have god candles (and epic crashes) all on its
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 28K • 👍 1K • 💬 181 • ⏱️ 8:32 • 1d ago
+👁️ 28K • 👍 2K • 💬 185 • ⏱️ 8:32 • 1d ago
 
 ---
 
@@ -297,67 +297,17 @@ Bitcoin may not be breaking down all at once, but the structure is starting to w
 
 📺 Benjamin Cowen
 
-👁️ 75K • 👍 5K • 💬 293 • ⏱️ 26:12 • 22h ago
+👁️ 78K • 👍 5K • 💬 302 • ⏱️ 26:12 • 23h ago
 
 ---
 
-**[Bitcoin PLUMMETS To $66K As David Sacks Steps Down &amp; Coinbase Faces Backlash!](https://www.youtube.com/watch?v=9pR4bg8vNAE)**
+**[Bitcoin Is Screaming Something Terrifying Right Now - Arthur Hayes Warns!](https://www.youtube.com/watch?v=aLMVhtOVVYk)**
 
-Bitcoin #Crypto #Finance Bitcoin has dropped sharply toward the $66K level as major developments in crypto policy and industry ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 The Wolf Of All Streets
+📺 Savvy Finance
 
-👁️ 26K • 👍 1K • 💬 321 • ⏱️ 34:13 • 1d ago
-
----
-
-**[I went all in on bitcoin... and it almost broke me](https://www.youtube.com/watch?v=exAjoJ08VpQ)**
-
-all my life is bitcoin, literally. I had moments where I thought I was ruining my life. This is my story on how i went through this.
-
-📺 BTC Isla
-
-👁️ 19K • 👍 2K • 💬 342 • ⏱️ 10:32 • 1d ago
-
----
-
-**[Something Big is Going to Happen on Bitcoin (here&#39;s how to prepare)](https://www.youtube.com/watch?v=LUEsxFQpa0c)**
-
-Something big is going to happen on bitcoin and we discuss with analyst Benjamin Cowen the key charts that matter right now on ...
-
-📺 Alessio Rastani
-
-👁️ 48K • 👍 4K • 💬 453 • ⏱️ 24:30 • 20h ago
-
----
-
-**[Morgan Stanley&#39;s TRILLIONS Are Coming for Bitcoin!](https://www.youtube.com/watch?v=yTLnwgxsrL4)**
-
-Fannie Mae & Morgan Stanley Move on Bitcoin: Mortgages, Collateral, and $9.3T Wealth Distribution In this episode, Adam ...
-
-📺 Swan Bitcoin
-
-👁️ 9K • 👍 583 • 💬 76 • ⏱️ 16:13 • 16h ago
-
----
-
-**[Why You Won’t Be Able To Buy Bitcoin When This Happens](https://www.youtube.com/watch?v=TxzWwexKk54)**
-
-Something is changing in the Bitcoin market—and most people are completely missing it. The biggest risk right now isn't that ...
-
-📺 Tim Talks Finance
-
-👁️ 9K • 👍 441 • 💬 101 • ⏱️ 12:25 • 1d ago
-
----
-
-**[Can Strategy Hit 1M BTC in 2026?](https://www.youtube.com/watch?v=-h0WALimfkY)**
-
-Strategy has been buying billions of dollars of BTC lately, despite MSTR's price falling. Many believe that this has helped support ...
-
-📺 Coin Bureau
-
-👁️ 19K • 👍 981 • 💬 107 • ⏱️ 20:51 • 19h ago
+👁️ 3K • 👍 127 • 💬 31 • ⏱️ 18:06 • 8h ago
 
 ---
 
@@ -367,7 +317,57 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 4K • 👍 278 • 💬 24 • ⏱️ 29:43 • 11h ago
+👁️ 5K • 👍 301 • 💬 25 • ⏱️ 29:43 • 11h ago
+
+---
+
+**[I went all in on bitcoin... and it almost broke me](https://www.youtube.com/watch?v=exAjoJ08VpQ)**
+
+all my life is bitcoin, literally. I had moments where I thought I was ruining my life. This is my story on how i went through this.
+
+📺 BTC Isla
+
+👁️ 19K • 👍 2K • 💬 453 • ⏱️ 10:32 • 1d ago
+
+---
+
+**[Something Big is Going to Happen on Bitcoin (here&#39;s how to prepare)](https://www.youtube.com/watch?v=LUEsxFQpa0c)**
+
+Something big is going to happen on bitcoin and we discuss with analyst Benjamin Cowen the key charts that matter right now on ...
+
+📺 Alessio Rastani
+
+👁️ 51K • 👍 4K • 💬 494 • ⏱️ 24:30 • 21h ago
+
+---
+
+**[Why You Won’t Be Able To Buy Bitcoin When This Happens](https://www.youtube.com/watch?v=TxzWwexKk54)**
+
+Something is changing in the Bitcoin market—and most people are completely missing it. The biggest risk right now isn't that ...
+
+📺 Tim Talks Finance
+
+👁️ 9K • 👍 447 • 💬 103 • ⏱️ 12:25 • 1d ago
+
+---
+
+**[0.1 Bitcoin Will Truly Change Your Life (NOT Hyperbole)](https://www.youtube.com/watch?v=njksGkpY-Gg)**
+
+Owning 0.1 Bitcoin will change your life. And I'm not talking about getting rich overnight. I'm talking about the stress that ...
+
+📺 Brad Long
+
+👁️ 11K • 👍 403 • 💬 97 • ⏱️ 17:03 • 1d ago
+
+---
+
+**[Morgan Stanley&#39;s TRILLIONS Are Coming for Bitcoin!](https://www.youtube.com/watch?v=yTLnwgxsrL4)**
+
+Fannie Mae & Morgan Stanley Move on Bitcoin: Mortgages, Collateral, and $9.3T Wealth Distribution In this episode, Adam ...
+
+📺 Swan Bitcoin
+
+👁️ 9K • 👍 610 • 💬 78 • ⏱️ 16:13 • 17h ago
 
 ---
 

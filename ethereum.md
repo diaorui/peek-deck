@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-29T09:38:36.125288+00:00'
+updated: '2026-03-29T10:35:16.119162+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - social
 - cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 29, 2026 at 09:38 UTC  
+**Last Updated:** March 29, 2026 at 10:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $241.85B
+**Market Cap:** $240.51B
 Rank #2
 
 **Circulating Supply:** 120,691,470 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.5%
+-59.7%
 
 **All-Time Low:** $0.43
-+462869.3%
++460164.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -168,7 +168,7 @@ Barron's • 2d ago
 
 Bitcoin, XRP, Ethereum, and Solana are all down by 6-8% in a week. Here's what's driving the crypto market crash and what to watch next.
 
-24/7 Wall St. • 19h ago
+24/7 Wall St. • 20h ago
 
 ---
 
@@ -182,7 +182,7 @@ Binance • 2d ago
 
 Across many of the most well-known ecosystems like Bitcoin, Ethereum, and Solana, responses are diverging along familiar lines: what to do on social consensus and technical iteration, and community members are split between caution and acceleration.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -212,7 +212,7 @@ Binance • 1d ago
 
 ETH is trading at $2,000 today, sitting 59% below its August 2025 all-time high. Most investors have written off altcoins in a brutal bear market. David Duong, Global Head of Institutional Research at Coinbase, thinks that is exactly the wrong read, especially when it comes to Ethereum.Speaking on…
 
-TradingView • 18h ago
+TradingView • 19h ago
 
 ---
 
@@ -226,23 +226,23 @@ Panini America • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=cECj9ECAWdU)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 600 • 👍 79 • 💬 18 • ⏱️ 3:45 • 5h ago
-
----
-
 **[Ethereum to $40,000 by 2030: Why ETH Could MASSIVELY Outperform Bitcoin](https://www.youtube.com/watch?v=4ZjG0_XW0DU)**
 
 Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
 
 📺 Milk Road
 
-👁️ 4K • 👍 145 • 💬 29 • ⏱️ 11:06 • 19h ago
+👁️ 4K • 👍 150 • 💬 69 • ⏱️ 11:06 • 20h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=cECj9ECAWdU)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 110 • 💬 21 • ⏱️ 3:45 • 6h ago
 
 ---
 
@@ -252,7 +252,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 3K • 👍 127 • 💬 38 • ⏱️ 38:10 • 1d ago
+👁️ 3K • 👍 131 • 💬 39 • ⏱️ 38:10 • 1d ago
 
 ---
 
@@ -262,7 +262,17 @@ BITCOIN BOUNCE CONFIRMED (But Don't be FOOLED)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 4K • 👍 192 • 💬 253 • ⏱️ 16:16 • 11h ago
+👁️ 5K • 👍 209 • 💬 352 • ⏱️ 16:16 • 12h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=ECdiPDDVy5Q)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 1K • 👍 99 • ⏱️ 6:44 • 7h ago
 
 ---
 
@@ -272,7 +282,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 1K • 👍 349 • 💬 86 • ⏱️ 12:14 • 5h ago
+👁️ 2K • 👍 480 • 💬 107 • ⏱️ 12:14 • 6h ago
 
 ---
 
@@ -282,37 +292,7 @@ Can a free Ethereum method really generate ETH or is it just another fake crypto
 
 📺 KYLE MADDOX
 
-👁️ 1K • 👍 306 • 💬 33 • ⏱️ 5:57 • 16h ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=d3SFSebL5Y8)**
-
-TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
-
-📺 MyCaNaLBF
-
-👁️ 8K • 👍 1K • 1d ago
-
----
-
-**[WILL ETHEREUM DUMP NEXT WEEK?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=DPOKwXMIHQI)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 250 • 👍 16 • 💬 1 • ⏱️ 4:28 • 22h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=DHF05mfT410)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 80 • 💬 3 • ⏱️ 3:58 • 20h ago
+👁️ 1K • 👍 306 • 💬 33 • ⏱️ 5:57 • 17h ago
 
 ---
 
@@ -322,7 +302,27 @@ VIP Access & Programs: https://highaltitudecrypto.com Free Crypto Ebook (Learn H
 
 📺 High Altitude Investing
 
-👁️ 1K • 👍 69 • 💬 21 • ⏱️ 10:43 • 2d ago
+👁️ 1K • 👍 69 • 💬 22 • ⏱️ 10:43 • 2d ago
+
+---
+
+**[以太幣還要跌嗎 ? 這個位置非常關鍵 !](https://www.youtube.com/watch?v=MBJljeNXzDw)**
+
+比特幣 #區塊鏈 #以太幣 dc社群 : https://discord.gg/WS6RwujsbF ================================ BYBIT 註冊 ...
+
+📺 幣圈發哥 Facrypto
+
+👁️ 134 • 👍 11 • 💬 1 • ⏱️ 9:00 • 18m ago
+
+---
+
+**[A FLURRY of GOOD NEWS for Bitmine / ETH (BMNR Stock)!](https://www.youtube.com/watch?v=EzcfsBVn7Zo)**
+
+Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade data with my link: https://fiscal.ai/?via=roy ...
+
+📺 Crossroads
+
+👁️ 8K • 👍 311 • 💬 56 • ⏱️ 15:03 • 2d ago
 
 ---
 
