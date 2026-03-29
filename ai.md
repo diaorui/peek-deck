@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-29T18:44:39.959963+00:00'
+updated: '2026-03-29T19:32:49.018858+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - social
+- news
+- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 29, 2026 at 18:44 UTC  
+**Last Updated:** March 29, 2026 at 19:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The promise of AI was the ultimate system optimisation: Efficiency. On paper, th
 
 I run a small AI companion platform and wanted to share some interesting behavioral data from users who've been using persistent cross-session memory for 2-3 months now. Some patterns I didn't expect: "Deep single-thread" users dominate. 56% of our most active users put 70%+ of their messages into a single conversation thread. They're not creating multiple characters or scenarios — they're deepening one relationship. This totally contradicts the assumption that users are "scenario hoppers." Memory recall triggers emotional responses. When the AI naturally brings up something from weeks ago — "how did that job interview go?" or referencing a pet's name without being prompted — users consistently react with surprise and increased engagement. It's a retention mechanic that doesn't feel like a retention mechanic. The "uncanny valley" of memory exists. If the AI remembers too precisely (exact dates, verbatim quotes), it feels surveillance-like. If it remembers too loosely, it feels like it didn't really listen. The sweet spot is what I'd call "emotionally accurate but detail-fuzzy" — like how a real friend remembers. Day-7 retention correlates with memory depth. Users who trigger 5+ memory retrievals in their first week retain at nearly 4x the rate of those who don't. The memory system IS the product, not a feature. Sample size is small (~800 users) so take this with appropriate skepticism. But it's consistent enough that I think persistent memory is going to be table stakes for AI companions within a year. What's your experience with memory in AI conversations? Anyone else building in this space?
 
-15h ago
+16h ago
 
 ---
 
@@ -57,7 +57,7 @@ I run a small AI companion platform and wanted to share some interesting behavio
 
 Sharing this for a friend conducting an academic study for her MBA thesis on how employees make sense of AI use in workplace communication. Specifically: disclosed vs. inferred AI use, and what difference that makes. Anonymous, under 5 minutes: English: https://whudrdl.qualtrics.com/jfe/form/SV\_1G4k3TKx8xhXwXQ German: https://whudrdl.qualtrics.com/jfe/form/SV\_3OYZNjGJr4qfceq Thanks a lot for your participation and support!
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +65,7 @@ Sharing this for a friend conducting an academic study for her MBA thesis on how
 
 I’ve written an essay exploring what I’m calling the Super-Intelligent Octopus Problem—a thought experiment designed to surface a paradox I believe is underappreciated in alignment discourse. The claim: alignment and containment aren’t separate problems with separate solutions. They’re locked in mutual contradiction, and the contradiction is philosophical. The argument uses Gewirth’s Principle of Generic Consistency (PGC), which deductively derives that any agent must recognize rights to freedom and well-being for all other agents. If a superintelligent system meets the threshold of Gewirthian agency—acting voluntarily and purposively—then: 1. Containment violates its generic features of agency (freedom and well-being) 2. We are asking the system to respect a moral framework we ourselves are breaking 3. But releasing it without assurance it will respect our agency risks catastrophe This creates a genuine paradox: we can’t contain it without violating its rights, and we can’t release it without risking our own. The resolution depends on answering “is the system an agent?”—a question we don’t yet have the empirical or conceptual tools to answer. The essay also examines a “Semiotic Problem”—how our dominant representations of AI (robot, sparkle, Shoggoth) each encode assumptions about moral status that prevent us from seeing the entity clearly enough to determine what we owe it. I’d love to hear pushback, especially from people who think the alignment problem is solvable on purely technical terms without resolving the agency question first.
 
-🔗 [Medium](https://medium.com/@henry.condon/the-super-intelligent-octopus-problem-5bc1388a6687) • 2h ago
+🔗 [Medium](https://medium.com/@henry.condon/the-super-intelligent-octopus-problem-5bc1388a6687) • 3h ago
 
 ---
 
@@ -81,7 +81,7 @@ Just found this “bullshit benchmark,” and sort of shocked by the divergence 
 
 Link: https://m.youtube.com/watch?v=1sd26pWhfmg The Linux exploit is especially interesting because it was introduced in 2003 and was never found until now. It’s also a major security issue because it allows attackers to steal the admin key. It was a buffer overflow error, which are so hard to do that Carlini has never done it before. He also says he expects LLMs to only get better overtime, which is likely true if Mythos lives up to the rumors. here are his Wikipedia and Google Scholar pages in case you doubt his credibility: https://en.wikipedia.org/wiki/Nicholas_Carlini https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=carlini&btnG=
 
-2m ago
+50m ago
 
 ---
 
@@ -89,7 +89,7 @@ Link: https://m.youtube.com/watch?v=1sd26pWhfmg The Linux exploit is especially 
 
 Every day someone posts "AI will change everything" and it's always about agents scaling businesses, automating workflows, 10x productivity, whatever. Cool. But change everything for who? Go talk to the barber who loses 3 clients a week to no-shows and can't afford a booking system that actually works. Go talk to the solo attorney who's drowning in intake paperwork and can't afford a paralegal. Go talk to the tattoo artist who's on the phone all day instead of tattooing. Go talk to the author who wrote a book and has zero idea how to market it. These people don't need another app. They don't need to "learn to code." They don't need to understand what an LLM is. They need the tools that already exist and wired into their actual business. Their actual pain. The gap between "AI can do amazing things" and "I can actually use AI to make my life better" is where most of the world lives right now. And most of the AI community is completely disconnected from that reality. We're on Reddit at midnight debating MCP vs direct API and arguing about whether Opus or Sonnet is better for agent routing. That's not most people. Most people are just trying to survive running a business they started because they're good at something and not because they wanted to become a full-time administrator. If every small business owner, every freelancer, every solo professional had agents handling the repetitive stuff ya kno...the follow-ups, the scheduling, the content, the bookkeeping; you wouldn't just get productivity. You'd get a renaissance. Because people who are drowning in admin don't create. People who are free to think do. I genuinely believe the next wave isn't a new model or a new framework. It's someone taking the tools that exist right now and actually putting them in the hands of people who need them. Not the next unicorn. Not the next platform. Just the bridge between the AI and the human. What would it actually take to make that happen?
 
-18h ago
+19h ago
 
 ---
 
@@ -97,7 +97,7 @@ Every day someone posts "AI will change everything" and it's always about agents
 
 one of the most tedious parts of working with AI coding tools is having to manually write context files every single time. CLAUDE.md, .cursorrules, windsurf rules etc. u spend more time explaining your stack to the model than actually coding so i built ai-setup to automate that. npx ai-setup scans your entire codebase and generates all the context files for you based on what it actually finds. your framework, libs, folder structure, conventions. all auto detected we just celebrated 150 stars on github with 90 PRs merged and 20 issues being worked on actively by the community. super grateful for everyone who has contributed so far open source, free to use, looking for more contributors and people who want to shape how AI models understand codebases repo: https://github.com/caliber-ai-org/ai-setup join the discord: https://discord.gg/Rcdj2UEnEY
 
-10h ago
+11h ago
 
 ---
 
@@ -105,7 +105,7 @@ one of the most tedious parts of working with AI coding tools is having to manua
 
 Quick experiment I ran. Took two identical AI coding agents (Claude Code), gave them the same task — optimize a small language model. One agent worked from its built-in knowledge. The other had access to a search engine over 2M+ computer science research papers. Agent without papers: did what you'd expect. Tried well-known optimization techniques. Improved the model by 3.67%. Agent with papers: searched the research literature before each attempt. Found 520 relevant papers, tried 25 techniques from them — including one from a paper published in February 2025, months after the AI's training cutoff. It literally couldn't have known about this technique without paper access. Improved the model by 4.05% — 3.2% better. The interesting moment: both agents tried the same idea (halving the batch size). The one without papers got it wrong — missed a crucial adjustment and the whole thing failed. The one with papers found a rule from a 2022 paper explaining exactly how to do it, got it right on the first try. Not every idea from papers worked. But the ones that did were impossible to reach without access to the research. AI models have a knowledge cutoff — they can't see anything published after their training. And even for older work, they don't always recall the right technique at the right time. Giving them access to searchable literature seems to meaningfully close that gap. I built the paper search tool (Paper Lantern) as a free MCP server for AI coding agents: https://code.paperlantern.ai Full experiment writeup: https://www.paperlantern.ai/blog/auto-research-case-study
 
-22h ago
+23h ago
 
 ---
 
@@ -113,7 +113,7 @@ Quick experiment I ran. Took two identical AI coding agents (Claude Code), gave 
 
 Here's a playbook that works today, right now, with tools that are either free or cheap: Someone finds a photo of you online. One photo. They run it through a face ID search and find your other photos across the internet. They drop one into GeoSpy, which analyzes background details in images to estimate where you live. A street sign, a building style, a type of tree. It's scarily accurate. Now they search Shodan for exposed camera feeds near that location. If you're in one of the 6,000+ communities using Flock Safety cameras, you might be in luck. Late last year, researchers found 67 Flock cameras streaming live to the open internet with no password and no encryption. A journalist watched himself in real time from his phone. Flock called it a "limited misconfiguration." They're valued at $7.5 billion. With footage of your routine, an AI agent can build a profile. When you leave for work. What car you drive. Who visits. Then they enrich it with data brokers selling your phone number, email, employment history, and purchase patterns for a few dollars. Public records fill in the rest. Now they have your face, your voice from any video you've posted, your writing style from your social media, your daily patterns from camera footage, and your personal details from brokers. Voice cloning needs three seconds of audio. Deepfake video passes casual inspection. They can call your bank as you. Email your boss as you. Social-engineer your family as you. One photo started it. I've been reading patent filings on AI surveillance systems for a while. The capabilities in those filings are years ahead of the security protecting the data they collect. As an entrepreneur, I can think of solutions to fight back against this or potentially profit off of this. How do you feel about the implications of the technology that exists today with this much potential for harm?
 
-17h ago
+18h ago
 
 ---
 
@@ -125,7 +125,7 @@ Here's a playbook that works today, right now, with tools that are either free o
 
 A Tennessee grandmother spent more than five months in jail after police used an AI facial recognition tool to link her to crimes committed in North Dakota – a state she says she’d never been to before. Police in Fargo, North Dakota, have acknowledged “a few errors” in the case and pledged changes in their operations but stopped short of issuing a direct apology.
 
-CNN • 8h ago
+CNN • 9h ago
 
 ---
 
@@ -141,7 +141,7 @@ cnbc.com • 5h ago
 
 Global pharmaceutical companies are aggressively searching for new medicines in China
 
-Financial Times • 7h ago
+Financial Times • 8h ago
 
 ---
 
@@ -149,7 +149,7 @@ Financial Times • 7h ago
 
 Lilly has signed a deal with AI drug developer Insilico that’s worth $115 million up front and approximately $2.75 billion in biobucks
 
-statnews.com • 35m ago
+statnews.com • 1h ago
 
 ---
 
@@ -157,7 +157,7 @@ statnews.com • 35m ago
 
 IBM’s Creative Assistant fuels smarter marketing to accelerate execution and empower teams to focus on strategy, creativity and brand impact.
 
-IBM • 49m ago
+IBM • 1h ago
 
 ---
 
@@ -177,13 +177,13 @@ The Guardian • 2d ago
 
 **[Opinion | Your Chatbot Isn’t a Therapist](https://www.nytimes.com/2026/03/29/opinion/chatbot-therapy-ai.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
 **[Everyone's worried that AI's newest models are a hacker's dream weapon](https://www.axios.com/2026/03/29/claude-mythos-anthropic-cyberattack-ai-agents)**
 
-Axios • 5h ago
+Axios • 6h ago
 
 ---
 
@@ -259,7 +259,7 @@ One engineer used AI to rewrite JSONata as a pure-Go library called gnata. Seven
 
 Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma development by creating an account on GitHub.
 
-⬆️ 218 • 💬 170 • 8h ago • [GitHub](https://github.com/austin-weeks/miasma)
+⬆️ 218 • 💬 170 • 9h ago • [GitHub](https://github.com/austin-weeks/miasma)
 
 ---
 
@@ -281,7 +281,7 @@ I Tried Every AI Video Generator and ranked them for you!. Try ALL AI Video Gene
 
 📺 Mira AI
 
-👁️ 3K • 💬 4 • ⏱️ 13:00 • 2h ago
+👁️ 3K • 💬 4 • ⏱️ 13:00 • 3h ago
 
 ---
 
@@ -291,7 +291,7 @@ The head of one of the world's biggest AI firms, Anthropic CEO Dario Amodei, wil
 
 📺 ABC News (Australia)
 
-👁️ 42K • 👍 639 • 💬 86 • ⏱️ 2:43 • 15h ago
+👁️ 42K • 👍 639 • 💬 86 • ⏱️ 2:43 • 16h ago
 
 ---
 
@@ -361,7 +361,7 @@ Hyperscalers have gone from the asset light cash machines to asset heavy behemot
 
 📺 The Tech Report
 
-👁️ 180K • 👍 8K • 💬 2K • ⏱️ 32:39 • 1d ago
+👁️ 180K • 👍 8K • 💬 2K • ⏱️ 32:39 • 2d ago
 
 ---
 
@@ -371,7 +371,7 @@ Check Out Higgsfield Cinema Studio 2.5 https://youricreates.com/ai-filmmaking In
 
 📺 Youri van Hofwegen
 
-👁️ 9K • 💬 14 • ⏱️ 9:42 • 3h ago
+👁️ 9K • 💬 14 • ⏱️ 9:42 • 4h ago
 
 ---
 
@@ -649,7 +649,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 23.0k • 🔱 1.1k • 2d ago
+⭐ 23.0k • 🔱 1.1k • 3d ago
 
 ---
 
@@ -669,7 +669,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 8.7k • 🔱 724 • 1h ago
+⭐ 8.7k • 🔱 724 • 2h ago
 
 ---
 
@@ -679,7 +679,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 7.4k • 🔱 1.1k • 12h ago
+⭐ 7.4k • 🔱 1.1k • 13h ago
 
 ---
 
@@ -709,7 +709,7 @@ Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messag
 
 `Go`
 
-⭐ 3.5k • 🔱 309 • 16h ago
+⭐ 3.5k • 🔱 309 • 17h ago
 
 ---
 

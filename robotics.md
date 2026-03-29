@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-29T18:44:39.975286+00:00'
+updated: '2026-03-29T19:32:49.037073+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 29, 2026 at 18:44 UTC  
+**Last Updated:** March 29, 2026 at 19:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Unipath has launched a household robot that is now in real-home use. It can wake users up on time, operate home appliances, organize storage spaces, and even cook meals automatically.](https://www.reddit.com/r/robotics/comments/1s7065y/unipath_has_launched_a_household_robot_that_is/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 "We fine-tuned π0, a VLA model pretrained entirely on manipulators, to fly a drone that picks up objects, navigates through gates, and composes both skills from language commands." Stanford MSL on 𝕏: https://x.com/StanfordMSL/status/2037760965228556431 π, But Make It Fly: Physics-Guided Transfer of VLA Models to Aerial Manipulation arXiv:2603.25038 [cs.RO]: https://arxiv.org/abs/2603.25038 Project page: https://airvla.github.io/
 
-5h ago
+6h ago
 
 ---
 
@@ -64,7 +64,7 @@ TechCrunch: Physical Intelligence is reportedly in talks to raise $1 billion, ag
 
 tengo en mente un protecto que parece que será simple aunque yo desconozco totalmente sobre la robótica etc... si alguien pudiera ayudarme estaria más que agradecido ya tengo Arduino y etc aunque no se usarlo :(
 
-3h ago
+4h ago
 
 ---
 
@@ -72,7 +72,7 @@ tengo en mente un protecto que parece que será simple aunque yo desconozco tota
 
 Im 15yr hobbyist , my 2nd project self funded. this project is currently in alpha stage .made using foamboard and used wooden blocks for strength, i will add robotic arm for my next phase (on top of it). used arduino UNO r3, 4TT motor, TB6612FNG driver. IR receiver for Remote control, can be controlled manually or turn on obstacle avoidance mode. more info in my GitHub: https://github.com/Ajaz-6O7/Rover-Project
 
-20h ago
+21h ago
 
 ---
 
@@ -80,7 +80,7 @@ Im 15yr hobbyist , my 2nd project self funded. this project is currently in alph
 
 Can anybody identify these ball joints in these two wrists and any useful analysis of these, they are from ross-hime designs. Inc web Here is the web: https://www.anthrobot.com/omni-wrist-vi/
 
-20h ago
+21h ago
 
 ---
 
@@ -122,7 +122,7 @@ Bloomberg.com • 1d ago
 
 In the musical experiment, violinists wore lightweight robotic exoskeletons attached to their bow-playing arms, which delivered subtle changes to their natural movements.
 
-Euronews.com • 12h ago
+Euronews.com • 13h ago
 
 ---
 
@@ -130,7 +130,7 @@ Euronews.com • 12h ago
 
 Serve Robotics and Coco Robotics delivery robots reportedly crashed into Chicago bus shelters days apart, shattering glass with no injuries reported.
 
-Fox Business • 21h ago
+Fox Business • 22h ago
 
 ---
 
@@ -178,7 +178,7 @@ Interesting Engineering • 1d ago
 
 Amazon's humanoid bet isn't about competing with Tesla's factory robots. Its about quietly building the operating system for the home.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -228,7 +228,7 @@ Melania Trump suggested using humanoid AI robots like a “Plato” educator to 
 
 📺 Farron Balanced
 
-👁️ 36K • 👍 3K • 💬 829 • ⏱️ 5:10 • 2d ago
+👁️ 36K • 👍 3K • 💬 829 • ⏱️ 5:10 • 3d ago
 
 ---
 

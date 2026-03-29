@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-29T18:44:39.967330+00:00'
+updated: '2026-03-29T19:32:49.027564+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 29, 2026 at 18:44 UTC  
+**Last Updated:** March 29, 2026 at 19:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Welcome to Bitcoin 2026 edition](https://www.reddit.com/r/Bitcoin/comments/1s6v37e/welcome_to_bitcoin_2026_edition/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 "I don't believe we shall have good money until we take it from the government. All we can do is, by a sly, roundabout way, introduce something they can't stop."
 
-11h ago
+12h ago
 
 ---
 
@@ -95,7 +95,7 @@ Rank #1
 
 Just stumbled on this shady operation where some influencer was pushing a site called crypllet or something similar. The whole pitch was basically "hey go make a wallet, load it up with crypto, then enter your seed words on our site to see if they've been leaked in any breaches" Like come on, anyone with half a brain knows you never enter your recovery phrase anywhere except when restoring an actual wallet. This is obviously just harvesting seed phrases to drain wallets later. Can't believe people might actually fall for this but I guess that's how these scams keep working The red flags are everywhere - why would you need to buy crypto first to check if words were compromised, and why would any legit service ask for your actual seed phrase instead of just a hash or something. Stay safe out there folks
 
-6h ago
+7h ago
 
 ---
 
@@ -103,7 +103,7 @@ Just stumbled on this shady operation where some influencer was pushing a site c
 
 Been thinking about this lately - whenever someone mentions how much they've made from Bitcoin, it usually just pisses people off instead of getting them interested Like when you tell someone you're up big, they don't think "wow what a smart move" they think "great, another thing I screwed up by not getting in earlier" Then instead of wanting to learn more they just write the whole thing off as a scam or bubble or whatever I've seen it happen so many times now. The louder someone gets about their portfolio gains, the more people around them start hating on crypto in general. It's not even about whether Bitcoin is good or bad at that point, it's just human nature getting in the way Probably better to just keep your mouth shut and let your actions speak for themselves
 
-7h ago
+8h ago
 
 ---
 
@@ -119,7 +119,7 @@ I invested $4000 into crypto yesterday. Should I start dollar cost averaging the
 
 Canyoning guide Mario accepts Bitcoin. Creating visibility for Bitcoin businesses – project launched. Feedback? https://btcmap.org/merchant/36666
 
-2h ago
+3h ago
 
 ---
 
@@ -127,7 +127,7 @@ Canyoning guide Mario accepts Bitcoin. Creating visibility for Bitcoin businesse
 
 hey everyone, just need to get this off my chest and maybe get some input i'm 28 and work as a culinary instructor but lately i've been really anxious about everything going on. the economy feels unstable, traditional savings seem pointless with inflation, and even my field might change with all this new tech coming out been hearing more about bitcoin as something that could actually hold value long term. i know the basics but have never actually bought any or figured out how to get started properly. part of me wants to put some of my savings into it instead of just letting it sit in regular accounts losing value anyone here started investing when they felt overwhelmed by all the economic uncertainty? i prep my own food and try to be self sufficient in other ways but feel like i'm missing something important with bitcoin. would love to hear how others got past the initial confusion and actually took the step to buy some thanks for any guidance
 
-4h ago
+5h ago
 
 ---
 
@@ -149,7 +149,7 @@ Where would you put new money right now—into BTC or keeping it as cash?
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-12h ago
+13h ago
 
 ---
 
@@ -177,13 +177,13 @@ coindesk.com • 1d ago
 
 Institutional money has been pouring into Bitcoin at a scale that would have seemed far-fetched just a few years ago. Since the launch of Bitcoin exchange-traded funds, roughly $56 billion has flowed in from asset managers around the world — a shift that Bitmine CEO Tom Lee says is changing how ser…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
 **[GameStop Bitcoin Strategy: $315M Moved to Covered Calls via Coinbase Prime - News and Statistics](https://www.indexbox.io/blog/gamestop-reclassifies-315m-bitcoin-holdings-through-covered-call-strategy/)**
 
-IndexBox • 3h ago
+IndexBox • 4h ago
 
 ---
 
@@ -191,7 +191,7 @@ IndexBox • 3h ago
 
 Bitcoin (CRYPTO: BTC)) has lost nearly half its value since peaking at $126,000 in October 2025. The drop has taken the BTC through $100,000, $80,000, and $70,000, but every time the Bitcoin price has reached the $66,000 support level, buyers have shown up and pushed it back. The support is being tested right now as ... Bitcoin Price: Bitcoin Slips to $66,000 — What Happens If the $66K Support Breaks?
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -281,7 +281,7 @@ Clarity act for bitcoin and crypto is turning into a disaster. Follow Eric - htt
 
 📺 Digital Asset News
 
-👁️ 31K • 👍 2K • 💬 300 • ⏱️ 23:11 • 23h ago
+👁️ 31K • 👍 2K • 💬 300 • ⏱️ 23:11 • 1d ago
 
 ---
 
@@ -301,7 +301,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 248 • 💬 30 • ⏱️ 18:06 • 16h ago
+👁️ 7K • 👍 248 • 💬 30 • ⏱️ 18:06 • 17h ago
 
 ---
 

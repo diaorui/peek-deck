@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-29T18:44:39.972531+00:00'
+updated: '2026-03-29T19:32:49.033742+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 29, 2026 at 18:44 UTC  
+**Last Updated:** March 29, 2026 at 19:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -170,7 +170,7 @@ ZyCrypto • 1d ago
 
 The Ethereum Foundation is co-funding the "easy" initiative, which was announced at EthCC in Cannes, and partners include Aave, Titan, Centrifuge, and more.
 
-The Block • 3h ago
+The Block • 4h ago
 
 ---
 
@@ -178,7 +178,7 @@ The Block • 3h ago
 
 The project is designed to make Ethereum’s many layer 2s work together more seamlessly.
 
-coindesk.com • 3h ago
+coindesk.com • 4h ago
 
 ---
 
@@ -186,7 +186,7 @@ coindesk.com • 3h ago
 
 Developers from Gnosis and Zisk, with backing from the Ethereum Foundation, have proposed a new framework aimed at unifying Ethereum’s fragmented layer-2 ecosystem by enabling rollups to interact seamlessly with each other and the mainnet in a single transaction.According to an announcement shared…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
@@ -254,7 +254,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 249 • 👍 11 • 💬 1 • ⏱️ 4:45 • 8h ago
+👁️ 249 • 👍 11 • 💬 1 • ⏱️ 4:45 • 9h ago
 
 ---
 
@@ -264,7 +264,7 @@ People in the cryptocurrency space and world markets are about to get a very hef
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 694 • 💬 248 • ⏱️ 27:50 • 9h ago
+👁️ 5K • 👍 694 • 💬 248 • ⏱️ 27:50 • 10h ago
 
 ---
 
@@ -274,7 +274,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 140 • 💬 24 • ⏱️ 3:45 • 14h ago
+👁️ 2K • 👍 140 • 💬 24 • ⏱️ 3:45 • 15h ago
 
 ---
 
@@ -284,7 +284,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 4K • 👍 144 • 💬 46 • ⏱️ 38:10 • 1d ago
+👁️ 4K • 👍 144 • 💬 46 • ⏱️ 38:10 • 2d ago
 
 ---
 
@@ -314,7 +314,7 @@ Join Patreon for exclusive DAY TRADING, SWING TRADING, and HODLER content ...
 
 📺 Jayanth Ukwaththa - Trader's Life
 
-👁️ 324 • 👍 59 • 💬 47 • ⏱️ 25:46 • 1h ago
+👁️ 324 • 👍 59 • 💬 47 • ⏱️ 25:46 • 2h ago
 
 ---
 
