@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-29T14:38:19.690969+00:00'
+updated: '2026-03-29T15:33:52.794283+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 29, 2026 at 14:38 UTC  
+**Last Updated:** March 29, 2026 at 15:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 "We fine-tuned π0, a VLA model pretrained entirely on manipulators, to fly a drone that picks up objects, navigates through gates, and composes both skills from language commands." Stanford MSL on 𝕏: https://x.com/StanfordMSL/status/2037760965228556431 π, But Make It Fly: Physics-Guided Transfer of VLA Models to Aerial Manipulation arXiv:2603.25038 [cs.RO]: https://arxiv.org/abs/2603.25038 Project page: https://airvla.github.io/
 
-1h ago
+2h ago
 
 ---
 
@@ -58,7 +58,7 @@ TechCrunch: Physical Intelligence is reportedly in talks to raise $1 billion, ag
 
 Im 15yr hobbyist , my 2nd project self funded. this project is currently in alpha stage .made using foamboard and used wooden blocks for strength, i will add robotic arm for my next phase (on top of it). used arduino UNO r3, 4TT motor, TB6612FNG driver. IR receiver for Remote control, can be controlled manually or turn on obstacle avoidance mode. more info in my GitHub: https://github.com/Ajaz-6O7/Rover-Project
 
-16h ago
+17h ago
 
 ---
 
@@ -66,7 +66,7 @@ Im 15yr hobbyist , my 2nd project self funded. this project is currently in alph
 
 Can anybody identify these ball joints in these two wrists and any useful analysis of these, they are from ross-hime designs. Inc web Here is the web: https://www.anthrobot.com/omni-wrist-vi/
 
-16h ago
+17h ago
 
 ---
 
@@ -74,7 +74,7 @@ Can anybody identify these ball joints in these two wrists and any useful analys
 
 For the robot arm, we're running a segmentation model that benchmarks at a rock-solid 20fps on an Nvidia RTX 5060 Ti. In this video, we're keeping the rover locked onto the target using Image-Based Visual Servoing (IBVS) and a simple proportional controller.
 
-20h ago
+21h ago
 
 ---
 
@@ -90,7 +90,7 @@ i have spent the past 2 months to design this arm in fusion, and now i am facing
 
 as the title says i'm looking for open source projects for small humanoids or quadruped robots, i'm thinking about cheap and easily hackable stuff like something built with an arduino/raspberry, 3d printed parts and consumer grade servos it would be great to find something that includes everything for reproducibility from the firmware to hardware schematics but my priority is that the project must have a ready to use sim environment i've already looked at some projects like open-quadruped or zeroth but most of them looks dead or still incomplete, is there anything else i should check out before starting to build everything from zero?
 
-17h ago
+18h ago
 
 ---
 
@@ -124,7 +124,7 @@ Bloomberg.com • 1d ago
 
 In the musical experiment, violinists wore lightweight robotic exoskeletons attached to their bow-playing arms, which delivered subtle changes to their natural movements.
 
-euronews.com • 8h ago
+euronews.com • 9h ago
 
 ---
 
@@ -132,7 +132,7 @@ euronews.com • 8h ago
 
 Serve Robotics and Coco Robotics delivery robots reportedly crashed into Chicago bus shelters days apart, shattering glass with no injuries reported.
 
-Fox Business • 17h ago
+Fox Business • 18h ago
 
 ---
 
@@ -156,7 +156,7 @@ CNBC • 3d ago
 
 Amazon's humanoid bet isn't about competing with Tesla's factory robots. Its about quietly building the operating system for the home.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -164,7 +164,7 @@ The Motley Fool • 1h ago
 
 Researchers from Northwestern University have developed robots called "metamachines" that are composed of other robots.
 
-Futurism • 21h ago
+Futurism • 22h ago
 
 ---
 
@@ -178,7 +178,7 @@ Interesting Engineering • 1d ago
 
 **[Giant robots battle it out in Detroit’s Robowar](https://blog.adafruit.com/2026/03/28/giant-robots-battle-it-out-in-detroits-robowar/)**
 
-Adafruit • 22h ago
+Adafruit • 23h ago
 
 ---
 
@@ -186,7 +186,7 @@ Adafruit • 22h ago
 
 When a robot's next move comes from living tissue, what counts as programming? In one lab, tiny hand-built creatures are lighting up and roaming in ways their makers never wrote into code.
 
-3dvf.com • 21h ago
+3dvf.com • 22h ago
 
 ---
 
@@ -200,7 +200,7 @@ Thanks to Delete Me for sponsoring this video. To keep your private info private
 
 📺 Kim Java
 
-👁️ 181K • 👍 8K • 💬 366 • ⏱️ 20:00 • 5d ago
+👁️ 183K • 👍 8K • 💬 376 • ⏱️ 20:00 • 5d ago
 
 ---
 
@@ -210,7 +210,7 @@ Learn for free on Brilliant for a full 30 days: https://brilliant.org/NikodemBar
 
 📺 Nikodem Bartnik
 
-👁️ 74K • 👍 3K • 💬 62 • ⏱️ 9:55 • 5d ago
+👁️ 76K • 👍 3K • 💬 62 • ⏱️ 9:55 • 5d ago
 
 ---
 
@@ -220,7 +220,7 @@ Brett Adcock shares his vision for the future of humanoid robots, why he believe
 
 📺 Shawn Ryan Show
 
-👁️ 43K • 👍 1K • 💬 512 • ⏱️ 14:05 • 1d ago
+👁️ 45K • 👍 1K • 💬 529 • ⏱️ 14:05 • 1d ago
 
 ---
 
@@ -230,17 +230,7 @@ Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesda
 
 📺 CBS News
 
-👁️ 47K • 👍 338 • 💬 344 • ⏱️ 9:54 • 3d ago
-
----
-
-**[First Lady Melania Trump walks with robot to White House event on children&#39;s technology](https://www.youtube.com/watch?v=7sHSBgU5p4Y)**
-
-A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White House summit on empowering children with ...
-
-📺 C-SPAN
-
-👁️ 215K • 👍 927 • 💬 1K • ⏱️ 2:59 • 3d ago
+👁️ 48K • 👍 343 • 💬 353 • ⏱️ 9:54 • 3d ago
 
 ---
 
@@ -250,7 +240,37 @@ Melania Trump sparks alarm over a White House event where she walked in with a r
 
 📺 The Damage Report
 
-👁️ 19K • 👍 885 • 💬 435 • ⏱️ 8:42 • 2d ago
+👁️ 19K • 👍 887 • 💬 434 • ⏱️ 8:42 • 2d ago
+
+---
+
+**[First Lady Melania Trump walks with robot to White House event on children&#39;s technology](https://www.youtube.com/watch?v=7sHSBgU5p4Y)**
+
+A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White House summit on empowering children with ...
+
+📺 C-SPAN
+
+👁️ 216K • 👍 931 • 💬 1K • ⏱️ 2:59 • 3d ago
+
+---
+
+**[China’s New AI Robots Just Broke The Human Skill Barrier](https://www.youtube.com/watch?v=QDRzgF-8-50)**
+
+This week in robotics got kind of ridiculous. South Korea showed off a humanoid that can run, jump, play soccer, and moonwalk, ...
+
+📺 AI Revolution
+
+👁️ 236K • 👍 3K • 💬 145 • ⏱️ 14:31 • 6d ago
+
+---
+
+**[Fat Mira Does the Robot Trend 😱](https://www.youtube.com/watch?v=XmIl8d0WUws)**
+
+rumi #huntrix #kpop #kpopdemonhunters #shorts #celebrity #trend #makeup #mira All videos were created by myself.
+
+📺 Faces of Culture
+
+👁️ 713K • 👍 2K • 💬 2 • ⏱️ 0:04 • 1d ago
 
 ---
 
@@ -264,33 +284,13 @@ Robotic Fingers Beat Human Hands! This clip shows a highly advanced robotic hand
 
 ---
 
-**[China’s New AI Robots Just Broke The Human Skill Barrier](https://www.youtube.com/watch?v=QDRzgF-8-50)**
-
-This week in robotics got kind of ridiculous. South Korea showed off a humanoid that can run, jump, play soccer, and moonwalk, ...
-
-📺 AI Revolution
-
-👁️ 235K • 👍 3K • 💬 145 • ⏱️ 14:31 • 6d ago
-
----
-
-**[Fat Mira Does the Robot Trend 😱](https://www.youtube.com/watch?v=XmIl8d0WUws)**
-
-rumi #huntrix #kpop #kpopdemonhunters #shorts #celebrity #trend #makeup #mira All videos were created by myself.
-
-📺 Faces of Culture
-
-👁️ 621K • 👍 2K • 💬 2 • ⏱️ 0:04 • 1d ago
-
----
-
 **[First lady Melania Trump welcomes robot to White House tech summit](https://www.youtube.com/watch?v=glfTpD9iKhs)**
 
 Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
 
 📺 Face the Nation
 
-👁️ 140K • 👍 1K • 💬 770 • ⏱️ 9:54 • 3d ago
+👁️ 141K • 👍 1K • 💬 776 • ⏱️ 9:54 • 3d ago
 
 ---
 

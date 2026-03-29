@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-29T14:38:19.688119+00:00'
+updated: '2026-03-29T15:33:52.788295+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
 - social
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 29, 2026 at 14:38 UTC  
+**Last Updated:** March 29, 2026 at 15:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $241.51B
+**Market Cap:** $239.95B
 Rank #2
 
 **Circulating Supply:** 120,691,470 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.5%
+-59.8%
 
 **All-Time Low:** $0.43
-+461989.4%
++458827.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -154,7 +154,7 @@ Working on a little side project that turns etherscan data into readable risk. I
 
 Across many of the most well-known ecosystems like Bitcoin, Ethereum, and Solana, responses are diverging along familiar lines: what to do on social consensus and technical iteration, and community members are split between caution and acceleration.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -184,7 +184,7 @@ Binance • 2d ago
 
 Ether’s (ETH) grip on the cryptocurrency market’s number-two spot is weakening, not because it is getting any closer to overtaking Bitcoin (BTC), but because the stablecoin economy is booming. Key takeaways:Ethereum’s No. 2 ranking at risk in 2026In the past five years, Ether has vastly underperfor…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
@@ -234,27 +234,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 4K • 👍 152 • 💬 69 • ⏱️ 11:06 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=cECj9ECAWdU)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 124 • 💬 22 • ⏱️ 3:45 • 10h ago
-
----
-
-**[You WON&#39;T Believe this Bitcoin &amp; Ethereum Just Got Major News Altcoins Might Be Ready To PUMP](https://www.youtube.com/watch?v=Fu4nNphsuOo)**
-
-People in the cryptocurrency space and world markets are about to get a very hefty wake up call in the very near future.
-
-📺 The Modern Investor
-
-👁️ 2K • 👍 386 • 💬 209 • ⏱️ 27:50 • 5h ago
+👁️ 5K • 👍 158 • 💬 69 • ⏱️ 11:06 • 1d ago
 
 ---
 
@@ -264,7 +244,27 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 95 • 👍 6 • 💬 1 • ⏱️ 4:45 • 4h ago
+👁️ 156 • 👍 8 • 💬 1 • ⏱️ 4:45 • 5h ago
+
+---
+
+**[You WON&#39;T Believe this Bitcoin &amp; Ethereum Just Got Major News Altcoins Might Be Ready To PUMP](https://www.youtube.com/watch?v=Fu4nNphsuOo)**
+
+People in the cryptocurrency space and world markets are about to get a very hefty wake up call in the very near future.
+
+📺 The Modern Investor
+
+👁️ 4K • 👍 574 • 💬 288 • ⏱️ 27:50 • 6h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=cECj9ECAWdU)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 133 • 💬 23 • ⏱️ 3:45 • 11h ago
 
 ---
 
@@ -274,7 +274,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 3K • 👍 133 • 💬 40 • ⏱️ 38:10 • 1d ago
+👁️ 4K • 👍 139 • 💬 40 • ⏱️ 38:10 • 1d ago
 
 ---
 
@@ -288,13 +288,13 @@ VIP Access & Programs: https://highaltitudecrypto.com Free Crypto Ebook (Learn H
 
 ---
 
-**[BITCOIN BOUNCE CONFIRMED (But Don&#39;t be FOOLED)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=nC_d7OtXcjA)**
+**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=dzWOFPKaboo)**
 
-BITCOIN BOUNCE CONFIRMED (But Don't be FOOLED)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Start your trading journey with XM — a trusted and ...
 
-📺 Crypto World
+📺 Ashutosh Kumar
 
-👁️ 5K • 👍 220 • 💬 354 • ⏱️ 16:16 • 16h ago
+👁️ 5K • 👍 826 • 1h ago
 
 ---
 
@@ -304,7 +304,17 @@ This Is What The Bottom Looks Like? ⭐ Follow Altcoin Daily on X: https://twitt
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 193 • ⏱️ 9:30 • 1d ago
+👁️ 30K • 👍 2K • 💬 195 • ⏱️ 9:30 • 1d ago
+
+---
+
+**[BITCOIN BOUNCE CONFIRMED (But Don&#39;t be FOOLED)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=nC_d7OtXcjA)**
+
+BITCOIN BOUNCE CONFIRMED (But Don't be FOOLED)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 240 • 💬 404 • ⏱️ 16:16 • 17h ago
 
 ---
 
@@ -314,17 +324,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 106 • ⏱️ 6:44 • 11h ago
-
----
-
-**[Bitcoin &amp; Ethereum. Happy Short Profits, massiv im Plus und es sollte bald mehr werden!](https://www.youtube.com/watch?v=bpR-hEJD6aE)**
-
-Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
-
-📺 Krypto Trading & Investing
-
-👁️ 3K • 👍 511 • 💬 107 • ⏱️ 12:14 • 10h ago
+👁️ 2K • 👍 110 • ⏱️ 6:44 • 12h ago
 
 ---
 
