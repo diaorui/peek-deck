@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-29T11:30:25.607246+00:00'
+updated: '2026-03-29T11:54:15.710830+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 29, 2026 at 11:30 UTC  
+**Last Updated:** March 29, 2026 at 11:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[China’s fishery-solar model uses panels ~3m above ponds with a south tilt and partial shading. It generates large-scale power while supporting fish, shrimp, and crab farming below also reducing water temperature and evaporation.](https://www.reddit.com/r/robotics/comments/1s6pxqy/chinas_fisherysolar_model_uses_panels_3m_above/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Who runs out of battery first decides the future](https://www.reddit.com/r/robotics/comments/1s6566h/who_runs_out_of_battery_first_decides_the_future/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -72,7 +72,7 @@ Can anybody identify these ball joints in these two wrists and any useful analys
 
 For the robot arm, we're running a segmentation model that benchmarks at a rock-solid 20fps on an Nvidia RTX 5060 Ti. In this video, we're keeping the rover locked onto the target using Image-Based Visual Servoing (IBVS) and a simple proportional controller.
 
-17h ago
+18h ago
 
 ---
 
@@ -88,7 +88,7 @@ i have spent the past 2 months to design this arm in fusion, and now i am facing
 
 as the title says i'm looking for open source projects for small humanoids or quadruped robots, i'm thinking about cheap and easily hackable stuff like something built with an arduino/raspberry, 3d printed parts and consumer grade servos it would be great to find something that includes everything for reproducibility from the firmware to hardware schematics but my priority is that the project must have a ready to use sim environment i've already looked at some projects like open-quadruped or zeroth but most of them looks dead or still incomplete, is there anything else i should check out before starting to build everything from zero?
 
-14h ago
+15h ago
 
 ---
 

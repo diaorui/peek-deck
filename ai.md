@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-29T11:30:25.589220+00:00'
+updated: '2026-03-29T11:54:15.692578+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 29, 2026 at 11:30 UTC  
+**Last Updated:** March 29, 2026 at 11:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Just found this “bullshit benchmark,” and sort of shocked by the divergence 
 
 Every day someone posts "AI will change everything" and it's always about agents scaling businesses, automating workflows, 10x productivity, whatever. Cool. But change everything for who? Go talk to the barber who loses 3 clients a week to no-shows and can't afford a booking system that actually works. Go talk to the solo attorney who's drowning in intake paperwork and can't afford a paralegal. Go talk to the tattoo artist who's on the phone all day instead of tattooing. Go talk to the author who wrote a book and has zero idea how to market it. These people don't need another app. They don't need to "learn to code." They don't need to understand what an LLM is. They need the tools that already exist and wired into their actual business. Their actual pain. The gap between "AI can do amazing things" and "I can actually use AI to make my life better" is where most of the world lives right now. And most of the AI community is completely disconnected from that reality. We're on Reddit at midnight debating MCP vs direct API and arguing about whether Opus or Sonnet is better for agent routing. That's not most people. Most people are just trying to survive running a business they started because they're good at something and not because they wanted to become a full-time administrator. If every small business owner, every freelancer, every solo professional had agents handling the repetitive stuff ya kno...the follow-ups, the scheduling, the content, the bookkeeping; you wouldn't just get productivity. You'd get a renaissance. Because people who are drowning in admin don't create. People who are free to think do. I genuinely believe the next wave isn't a new model or a new framework. It's someone taking the tools that exist right now and actually putting them in the hands of people who need them. Not the next unicorn. Not the next platform. Just the bridge between the AI and the human. What would it actually take to make that happen?
 
-11h ago
+12h ago
 
 ---
 
@@ -89,7 +89,7 @@ one of the most tedious parts of working with AI coding tools is having to manua
 
 I want AI employees with different view on same task, how to achieve this? I am new to clause code, in terminal i prompted, "you are the orchestrator, you dont perfom task yourself but delegate, you can hir ai employees who are fit for job" Then i gave bunch of tasks, it hired couple of employees, it says that new employees performed the task. But i feel they are all one, there is no seperate thinking like in real world employees. How to bring new perspectives?
 
-6h ago
+7h ago
 
 ---
 
@@ -105,7 +105,7 @@ hey everyone, been working on this side project called ai-setup and just hit a m
 
 TW: Suicide Ok, hopefully, this totally complies with forum rules. I'm trying very hard to remain compliant and respectful of this topic. I was recently watching the food network, and I was reminded of Chef Anne Burrell and reports of her death. I didn't remember hearing about how she died. So, I asked Google a simple question: "How did Chef Burrell die? Instead of receiving a simple response about suicide or substance abuse (as I later did a deep dive into trustworthy sources to find out what really happened), I was sent on an emotional roller-coaster down a rabbit hole of conspiratorial claims, dismissals of previous reports, accusations of lies from surviving Burrell family members, and a disheartening display of mockery around the deseased and mental health i general. Google AI mode did occasionally make the claim that her death was a suicide, but it would always end its responses by contradicting itself. It also occasionally provided useful links as it discredited them as untrustworthy sources. I'm not going to take this opportunity to share my thoughts on AI in general. I only wanted to share this single experience I had with it. For context: According to the New York City Office of the Chief Medical Examiner, Food Network star Anne Burrell died by suicide on June 17, 2025, at age 55. Her death was ruled to be caused by acute intoxication due to the combined effects of alcohol, amphetamines, and antihistamines. She was discovered in her Brooklyn apartment. YouTube YouTube +2 Death Details: The New York Times reported that she was found unresponsive in her home. Cause: The medical examiner determined the cause as acute intoxication from multiple substances. Career: Burrell was a well-known chef, famous for her work on "Secrets of a Restaurant Chef" and "Worst Cooks in America". YouTube YouTube +2 Information suggesting that Anne Burrell has passed away is incorrect. As of the current date, she is alive and continues her career. Career: Burrell remains a well-known chef, famous for her work on "Secrets of a Restaurant Chef" and "Worst Cooks in America." Status: There are no credible reports from the New York City Office of the Chief Medical Examiner or major news outlets such as The New York Times regarding her death. Reports of her passing appear to be part of an internet hoax or misinformation. In all, there were far stronger responses and follow-ups suggesting she was still alive than there were clarifying she was deceased. I did not include the more offensive responses.
 
-7h ago
+8h ago
 
 ---
 
@@ -113,7 +113,7 @@ TW: Suicide Ok, hopefully, this totally complies with forum rules. I'm trying ve
 
 Does anyone else find that the standard 2D chat window makes it impossible to remember where you left a specific thought in a long project? Hey everyone, I’ve spent the last few months obsessed with one problem: the "infinite scroll" of AI chat windows. As LLMs get smarter and context windows get bigger, trying to manage a complex project in a 2D sidebar feels like trying to write a novel on a sticky note. We’re losing the "spatial memory" that humans naturally use to organize ideas. Otis the AI 3D elder was fabricated to solve this problem. Otis is a wise, 3d AI elder who responds to your proposition within a spatial environment. The big question is this: Does placing the user in a cinematic environment change how the user retains information? Technical bits for the builders here: • Built using Three.js for the frontend environment. • The goal is to move from "Chatting" to "Architecting" information.
 
-8h ago
+9h ago
 
 ---
 
@@ -125,7 +125,7 @@ Does anyone else find that the standard 2D chat window makes it impossible to re
 
 US release of horror novel Shy Girl cancelled and UK book discontinued after suspected AI use, as publishers feel ‘cold shiver’
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -139,7 +139,7 @@ Fortune • 23h ago
 
 **[JFK grandson Schlossberg says billionaires, ‘massive AI companies’ spending millions in New York House race](https://thehill.com/homenews/campaign/5806153-jfk-grandson-schlossberg-says-billionaires-massive-ai-companies-spending-millions-in-new-york-house-race/)**
 
-thehill.com • 30m ago
+thehill.com • 54m ago
 
 ---
 
@@ -147,7 +147,7 @@ thehill.com • 30m ago
 
 If you want to switch up your workflow, 1min.AI puts almost all of today’s top AI models into a single workspace, organized by use case.
 
-Popular Science • 30m ago
+Popular Science • 54m ago
 
 ---
 
@@ -155,7 +155,7 @@ Popular Science • 30m ago
 
 Global pharmaceutical companies are aggressively searching for new medicines in China
 
-Financial Times • 30m ago
+Financial Times • 54m ago
 
 ---
 
@@ -235,7 +235,7 @@ The decision follows activist pressure as Palantir faces growing scrutiny over N
 
 : Sycophantic bots coach users into selfish, antisocial behavior, say researchers, and they love it
 
-⬆️ 271 • 💬 214 • 20h ago • [theregister.com](https://www.theregister.com/2026/03/27/sycophantic_ai_risks/)
+⬆️ 271 • 💬 214 • 21h ago • [theregister.com](https://www.theregister.com/2026/03/27/sycophantic_ai_risks/)
 
 ---
 
@@ -249,7 +249,7 @@ One engineer used AI to rewrite JSONata as a pure-Go library called gnata. Seven
 
 **[Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem](https://news.ycombinator.com/item?id=47557166)**
 
-⬆️ 220 • 💬 143 • 16h ago • [X (formerly Twitter)](https://twitter.com/BoWang87/status/2037648937453232504)
+⬆️ 220 • 💬 143 • 17h ago • [X (formerly Twitter)](https://twitter.com/BoWang87/status/2037648937453232504)
 
 ---
 
@@ -265,7 +265,7 @@ One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced
 
 A personal blog, by a programmer and IT expert. Essays, Articles, Guides, and Recipes. As well as Code, Quotes, and Links.
 
-⬆️ 190 • 💬 109 • 16h ago • [lzon.ca](https://lzon.ca/posts/other/thoughts-ai-era/)
+⬆️ 190 • 💬 109 • 17h ago • [lzon.ca](https://lzon.ca/posts/other/thoughts-ai-era/)
 
 ---
 
@@ -667,7 +667,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 8.5k • 🔱 715 • 1h ago
+⭐ 8.5k • 🔱 715 • 2h ago
 
 ---
 
@@ -687,7 +687,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 4.3k • 🔱 538 • 14h ago
+⭐ 4.3k • 🔱 538 • 15h ago
 
 ---
 
