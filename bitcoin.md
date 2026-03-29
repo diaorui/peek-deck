@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-29T10:35:16.113127+00:00'
+updated: '2026-03-29T11:30:25.597895+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 29, 2026 at 10:35 UTC  
+**Last Updated:** March 29, 2026 at 11:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** -6.1%  
-**30d:** -0.5%  
-**90d:** -24.7%  
-**1y:** -19.2%  
+**24h:** +0.5%  
+**7d:** -5.8%  
+**30d:** -0.2%  
+**90d:** -24.4%  
+**1y:** -18.9%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 "I don't believe we shall have good money until we take it from the government. All we can do is, by a sly, roundabout way, introduce something they can't stop."
 
-3h ago
+4h ago
 
 ---
 
@@ -89,21 +89,13 @@ Rank #1
 
 I invested $4000 into crypto yesterday. Should I start dollar cost averaging the rest of the way or should I sell and wait for a bigger dip?
 
-16h ago
-
----
-
-**[Bitcoin dca](https://www.reddit.com/r/Bitcoin/comments/1s6nqu0/bitcoin_dca/)**
-
-I know nobody got a crystal ball and knows where it will go with Bitcoin. But why wouldn’t it slowly keep dropping over the years and kinda bleed out/become obsolete ? I love the idea of it becoming early retirement but what if we are totally wrong? Nobody knows ofc but what makes you guys so sure you keep putting money in you might need some day? (Again, I know nobody really knows just curious about perspective from the other side)
-
-4h ago
+17h ago
 
 ---
 
 **[Just explained to my friend again, how red months are the best opportunity to buy more bitcoin. I think he finally gets it.](https://www.reddit.com/r/Bitcoin/comments/1s60e4s/just_explained_to_my_friend_again_how_red_months/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -111,7 +103,7 @@ I know nobody got a crystal ball and knows where it will go with Bitcoin. But wh
 
 So I got curious about what happens if you just buy bitcoin and forget about it for exactly 5 years. Had an AI run the numbers on every possible 5 year window since bitcoin started trading Results from 959 different 5-year periods between august 2010 and january 2026: Key findings: - average return was 18229% which is insane but misleading because early buyers skew it hard - median return was 3108% so your typical 5 year holder made 32x their money - 958 out of 959 periods made profit thats 99.9% success rate Only ONE losing period ever: bought december 18 2017 right at the top around 18900 and sold december 16 2022 during that FTX mess at 16600. Lost 12% Breaking it down by when you started buying: - 2010-2013 buyers got stupid rich because they bought at literal pennies - Even 2018 which was terrible timing still averaged 346% returns - 2021 buyers only have partial data but already averaging 145% The distribution is wild - almost half of all 5 year holds returned between 1000-10000% and three quarters made over 100% basically if you can handle holding for 5 years you win unless you have the absolute worst timing in history. Even then you only lose 12% which beats a lot of other investments during crashes median person turns 1 dollar into 32 dollars over 5 years. Not bad for doing literally nothing
 
-19h ago
+20h ago
 
 ---
 
@@ -119,21 +111,21 @@ So I got curious about what happens if you just buy bitcoin and forget about it 
 
 As someone who's been super focused on building up my crypto portfolio since college, I'm excited to say I've reached the milestone I set for myself. Being in your late twenties and trying to build financial security while everyone around you is spending on everything definitely made me the "cheap friend" in the group more times than I'd like to admit. But after three years of putting most of my extra income into Bitcoin instead of new clothes, fancy dinners, or weekend trips, I finally have what feels like a solid foundation. Now I can actually start enjoying some of those things I've been putting off - maybe finally get that gym membership, treat myself to some new design software, or not stress about grabbing drinks with friends. Having this safety net built up feels amazing and I wanted to share with people who'd understand the discipline it took to get here
 
-14h ago
-
----
-
-**[What’s something about Bitcoin that seems simple at first but is actually much deeper?](https://www.reddit.com/r/Bitcoin/comments/1s6bp5y/whats_something_about_bitcoin_that_seems_simple/)**
-
-I’m curious if others had the same experience. Was there a concept or idea that looked easy at first, but turned out to be way deeper once you really got into it?
-
-13h ago
+15h ago
 
 ---
 
 **[Daily Discussion, March 29, 2026](https://www.reddit.com/r/Bitcoin/comments/1s6neuz/daily_discussion_march_29_2026/)**
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+5h ago
+
+---
+
+**[Perfection doesn't exist](https://www.reddit.com/r/Bitcoin/comments/1s6oa98/perfection_doesnt_exist/)**
+
+You will never find a perfect buying spot. Keep buying when you can afford to, DCA, and hodl. Forget trying to time the bottom. Just keep buying that's it. And always have money to buy. Don't be so hard. It's not that hard.
 
 4h ago
 
@@ -147,11 +139,19 @@ I was a junior in highschool, and BTC came up in the same conversations as Octop
 
 ---
 
+**[BTC or saving cash](https://www.reddit.com/r/Bitcoin/comments/1s6os8m/btc_or_saving_cash/)**
+
+Where would you put new money right now—into BTC or keeping it as cash?
+
+3h ago
+
+---
+
 **[GameStop Maintains Bitcoin Holdings, According To Latest SEC Filing](https://www.reddit.com/r/Bitcoin/comments/1s5ywhm/gamestop_maintains_bitcoin_holdings_according_to/)**
 
 By collateralizing the 4,709 BTC with Coinbase Credit, GameStop gains liquidity and flexibility while still benefiting from any future appreciation in Bitcoin’s value.
 
-🔗 [Crowdfund Insider](https://www.crowdfundinsider.com/2026/03/269429-gamestop-maintains-bitcoin-holdings-according-to-latest-sec-filing/) • 22h ago
+🔗 [Crowdfund Insider](https://www.crowdfundinsider.com/2026/03/269429-gamestop-maintains-bitcoin-holdings-according-to-latest-sec-filing/) • 23h ago
 
 ---
 
@@ -163,7 +163,7 @@ By collateralizing the 4,709 BTC with Coinbase Credit, GameStop gains liquidity 
 
 From churches allowing congregants to tithe with digital coins to blogs promoting bitcoin as biblically sound, there’s an emerging Christian crypto subculture.
 
-NBC News • 23h ago
+NBC News • 1d ago
 
 ---
 
@@ -175,27 +175,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin price prediction: Alarming pattern forms as geopolitical risks rise](https://www.tradingview.com/news/invezz:4b307e274094b:0-bitcoin-price-prediction-alarming-pattern-forms-as-geopolitical-risks-rise/)**
-
-Bitcoin price remains in a technical bear market this week after falling by double digits from the all-time high. BTC was trading at $66,800 on Sunday, and its fundamentals and technicals suggest that it has more downside to go in the foreseeable future.Bitcoin price technical analysis points to a…
-
-TradingView • 3h ago
-
----
-
-**[$Bitcoin (BTC.CC)$ okay im done i swear im not a nerd haha](https://www.moomoo.com/community/feed/bitcoin-btc-cc-okay-im-done-i-swear-im-not-116311098654726)**
-
-@investforlambo 3776 Views|1 Like
-
-Moomoo • 3h ago
-
----
-
 **[BNP Paribas adds six Bitcoin, Ether ETNs for retail clients in France](https://www.tradingview.com/news/cointelegraph:df37f3e9b094b:0-bnp-paribas-adds-six-bitcoin-ether-etns-for-retail-clients-in-france/)**
 
 French multinational universal bank BNP Paribas is expanding its investment offering to include six crypto-linked exchange-traded notes (ETNs), giving retail clients in France access to Bitcoin and Ether exposure through regulated products.The new ETNs, indexed to the price of Bitcoin (BTC) and Eth…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
@@ -203,15 +187,7 @@ TradingView • 2h ago
 
 Nvidia (NASDAQ: NVDA) turned every $10,000 invested in early 2023 into over $125,000 by late 2025—a return that made it the most talked-about stock on the planet. Bitcoin (CRYPTO: BTC) had its own run to $126,000 in October 2025, and XRP (CRYPTO: XRP) reached $3.65 in July 2025. All three assets are now well below ... $10,000 in XRP and Bitcoin vs $10,000 in Nvidia: What Each Could Be Worth by the End of 2026
 
-Yahoo Finance • 22h ago
-
----
-
-**[Strategy is accelerating its crypto purchases as rivals sit on the sidelines](https://www.cnbc.com/2026/03/27/strategy-is-accelerating-its-crypto-purchases-as-rivals-sit-on-the-sidelines.html)**
-
-Demand for bitcoin as a corporate treasury asset is once again concentrated in Michael Saylor's Strategy as the company steps up its bitcoin buying pace.
-
-cnbc.com • 1d ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -221,17 +197,37 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin Price Today: Why Cryptos Including XRP Are Falling Fast](https://www.barrons.com/articles/bitcoin-xrp-crypto-price-today-f98eeaec?gaa_at=eafs&gaa_n=AWEtsqfk10hrsnG0pdipagrOVPLL6c0AP8reLOJwo1JLwEE3CKCPTFoKSd78&gaa_ts=69c8f683&gaa_sig=xhoH_IwgPe2DF6wXoMTuX0XnQW166dPcQHsN2Q-mkSPxWRyysExz8BALR2PE8b0M5oRsOBa3N2sc06O23laglA%3D%3D)**
-
-Barron's • 1d ago
-
----
-
 **[The End Of Bitcoin Will Be Its New Beginning (Cryptocurrency: BTC-USD)](https://seekingalpha.com/article/4886535-the-end-of-bitcoin-will-be-its-new-beginning)**
 
 Bitcoin is no longer driven by scarcity-based models; its price now tracks demand dynamics and correlates with high-beta tech indices. Learn more about BTC-USD here.
 
 Seeking Alpha • 1d ago
+
+---
+
+**[Bitcoin Price Today: Why Cryptos Including XRP Are Falling Fast](https://www.barrons.com/articles/bitcoin-xrp-crypto-price-today-f98eeaec?gaa_at=eafs&gaa_n=AWEtsqcdqQgsUjvyVbsjXPU-WoJxlqrmW9u1c84xo5ekxhC_k4YOT6gPnKqX&gaa_ts=69c91055&gaa_sig=_9zVBmhuXVajOO8wp2yXZM2JT8cBmMcbJ_u5j_BhDtT5KbKUKVMKrvxms8V2oeZBk0Ajv4VExKHbf2JiVsjpyg%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
+**[Goldman Sachs Just Quietly Called The Bitcoin Price Bottom—But There’s A Nasty Catch](https://www.forbes.com/sites/digital-assets/2026/03/28/goldman-sachs-just-quietly-called-the-bitcoin-price-bottom-but-theres-a-nasty-catch/)**
+
+Forbes • 23h ago
+
+---
+
+**[5 long, loud years: Neighbor, county leader ready for Bitcoin mine shutdown](https://www.wjhl.com/news/local/5-long-loud-years-neighbor-county-leader-ready-for-bitcoin-mine-shutdown/)**
+
+WJHL • 2d ago
+
+---
+
+**[Forget Bitcoin: This Crypto Is the Smarter Buy Right Now](https://www.fool.com/investing/2026/03/27/forget-bitcoin-this-crypto-is-the-smarter-buy-righ/)**
+
+Solana could generate bigger near-term gains than the top cryptocurrency.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -277,7 +273,7 @@ Clarity act for bitcoin and crypto is turning into a disaster. Follow Eric - htt
 
 📺 Digital Asset News
 
-👁️ 27K • 👍 1K • 💬 273 • ⏱️ 23:11 • 15h ago
+👁️ 27K • 👍 1K • 💬 273 • ⏱️ 23:11 • 16h ago
 
 ---
 
@@ -297,7 +293,7 @@ Bitcoin may not be breaking down all at once, but the structure is starting to w
 
 📺 Benjamin Cowen
 
-👁️ 78K • 👍 5K • 💬 302 • ⏱️ 26:12 • 23h ago
+👁️ 78K • 👍 5K • 💬 302 • ⏱️ 26:12 • 1d ago
 
 ---
 
@@ -307,7 +303,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 127 • 💬 31 • ⏱️ 18:06 • 8h ago
+👁️ 3K • 👍 127 • 💬 31 • ⏱️ 18:06 • 9h ago
 
 ---
 
@@ -317,7 +313,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 5K • 👍 301 • 💬 25 • ⏱️ 29:43 • 11h ago
+👁️ 5K • 👍 301 • 💬 25 • ⏱️ 29:43 • 12h ago
 
 ---
 
@@ -337,7 +333,7 @@ Something big is going to happen on bitcoin and we discuss with analyst Benjamin
 
 📺 Alessio Rastani
 
-👁️ 51K • 👍 4K • 💬 494 • ⏱️ 24:30 • 21h ago
+👁️ 51K • 👍 4K • 💬 494 • ⏱️ 24:30 • 22h ago
 
 ---
 
@@ -367,7 +363,7 @@ Fannie Mae & Morgan Stanley Move on Bitcoin: Mortgages, Collateral, and $9.3T We
 
 📺 Swan Bitcoin
 
-👁️ 9K • 👍 610 • 💬 78 • ⏱️ 16:13 • 17h ago
+👁️ 9K • 👍 610 • 💬 78 • ⏱️ 16:13 • 18h ago
 
 ---
 
