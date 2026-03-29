@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-29T15:33:52.794283+00:00'
+updated: '2026-03-29T16:37:05.700133+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 29, 2026 at 15:33 UTC  
+**Last Updated:** March 29, 2026 at 16:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,33 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Who runs out of battery first decides the future](https://www.reddit.com/r/robotics/comments/1s6566h/who_runs_out_of_battery_first_decides_the_future/)**
-
-22h ago
-
----
-
 **[π, But Make It Fly (Stanford Multi-robot Systems Laboratory - paper)](https://www.reddit.com/r/robotics/comments/1s6uvo9/π_but_make_it_fly_stanford_multirobot_systems/)**
 
 "We fine-tuned π0, a VLA model pretrained entirely on manipulators, to fly a drone that picks up objects, navigates through gates, and composes both skills from language commands." Stanford MSL on 𝕏: https://x.com/StanfordMSL/status/2037760965228556431 π, But Make It Fly: Physics-Guided Transfer of VLA Models to Aerial Manipulation arXiv:2603.25038 [cs.RO]: https://arxiv.org/abs/2603.25038 Project page: https://airvla.github.io/
 
-2h ago
+3h ago
+
+---
+
+**[Who runs out of battery first decides the future](https://www.reddit.com/r/robotics/comments/1s6566h/who_runs_out_of_battery_first_decides_the_future/)**
+
+23h ago
+
+---
+
+**[Humanoid Robots use cases today to create traction!](https://www.reddit.com/r/robotics/comments/1s6z6n2/humanoid_robots_use_cases_today_to_create_traction/)**
+
+Hi everyone, I'm currently working on building a humanoid robot aimed at industrial automation. Right now, I'm trying to figure out where such a system could realistically be deployed early and actually deliver value and build a real business around it! Which industries or factory environments do you think are: Already semi-structured (but still rely on human labor)? Facing labor shortages or high turnover? Open to adopting early-stage robotic systems? For inspections etc. I'm especially interested in tasks that humanoid robots could handle better than fixed automation. Would love to hear your thoughts, examples, or even specific factories/use cases I should look into.
+
+27m ago
+
+---
+
+**[Gente necesito un poco de ayuda](https://www.reddit.com/r/robotics/comments/1s6y6t4/gente_necesito_un_poco_de_ayuda/)**
+
+tengo en mente un protecto que parece que será simple aunque yo desconozco totalmente sobre la robótica etc... si alguien pudiera ayudarme estaria más que agradecido ya tengo Arduino y etc aunque no se usarlo :(
+
+1h ago
 
 ---
 
@@ -58,7 +74,7 @@ TechCrunch: Physical Intelligence is reportedly in talks to raise $1 billion, ag
 
 Im 15yr hobbyist , my 2nd project self funded. this project is currently in alpha stage .made using foamboard and used wooden blocks for strength, i will add robotic arm for my next phase (on top of it). used arduino UNO r3, 4TT motor, TB6612FNG driver. IR receiver for Remote control, can be controlled manually or turn on obstacle avoidance mode. more info in my GitHub: https://github.com/Ajaz-6O7/Rover-Project
 
-17h ago
+18h ago
 
 ---
 
@@ -66,7 +82,7 @@ Im 15yr hobbyist , my 2nd project self funded. this project is currently in alph
 
 Can anybody identify these ball joints in these two wrists and any useful analysis of these, they are from ross-hime designs. Inc web Here is the web: https://www.anthrobot.com/omni-wrist-vi/
 
-17h ago
+18h ago
 
 ---
 
@@ -74,7 +90,7 @@ Can anybody identify these ball joints in these two wrists and any useful analys
 
 For the robot arm, we're running a segmentation model that benchmarks at a rock-solid 20fps on an Nvidia RTX 5060 Ti. In this video, we're keeping the rover locked onto the target using Image-Based Visual Servoing (IBVS) and a simple proportional controller.
 
-21h ago
+22h ago
 
 ---
 
@@ -86,27 +102,11 @@ i have spent the past 2 months to design this arm in fusion, and now i am facing
 
 ---
 
-**[searching for open source projects (humanoids/quadruped)](https://www.reddit.com/r/robotics/comments/1s6bkcy/searching_for_open_source_projects/)**
-
-as the title says i'm looking for open source projects for small humanoids or quadruped robots, i'm thinking about cheap and easily hackable stuff like something built with an arduino/raspberry, 3d printed parts and consumer grade servos it would be great to find something that includes everything for reproducibility from the firmware to hardware schematics but my priority is that the project must have a ready to use sim environment i've already looked at some projects like open-quadruped or zeroth but most of them looks dead or still incomplete, is there anything else i should check out before starting to build everything from zero?
-
-18h ago
-
----
-
 **["Jack of all trades, master of none" -Humanoid Robots](https://www.reddit.com/r/robotics/comments/1s60bdn/jack_of_all_trades_master_of_none_humanoid_robots/)**
 
 There is the argument that humanoid robots are the future because they're generalists and their humanoid form means they can do whatever humans were doing. And while that is theoretically true, it misses an important point: Generality is only good if it performs better and more cost-effectively than the specialist machines in those tasks. I haven't seen anything to support the idea that humanoid form would necessarily surpass that threshold for many tasks. It can easily end up doing a mediocre job at many tasks because its lower productively delivers less profit per dollar spent on the machinery compared to specialist machines, and its form can never get as efficient as non-humanoid specialist machines. The "economies of scale" argument usually gets propositioned where economies of scale would lower the prices of humanoid robots so much that it would make it the more cost-effective option. However: Specialized machines can also experience economies of scale Economies of scale only bring down the price so much (the cost per unit decrease is not infinitely proportional based on how many units are produced, at some point the cost savings level off and can even revert) Simpler machinery and manufacturing of a specialized machine can mean lower fixed costs compared to the more complex manufacturing of a humanoid robot, meaning economies of scale could result in a lower cost being spread across many units for the former rather than the latter, making the former cheaper than the latter. Even if the humanoid robot is cheaper, the higher productivity and profitability of specialized machines may justify and make purchasing specialized machines the more fruitful endeavor. Saying humanoid robots will experience such cost savings from economies of scale assumes they'd be so favored by buyers that lots of units would be produced in the first place. To understand the limits of generalist technology, take this analogy: Instead of having a knife, fork, spoon, spatula, pizza cutter, etc. you could use a spork to serve in place of all those things. A spork would be cheaper, especially since you don't have to buy more utensils and clean and wash more, and it benefits from economies of scale, but a spork does a pretty mediocre job at all those tasks, it does not master them as effectively as those more specialized utensils. This is why in large part most people do not use a spork for most food tasks, and if it is good for anything it is only in a few highly specific occasions. A spork in this sense is a "Jack of all trades, master of none," where it can do many food tasks, but all in a mediocre fashion. A humanoid robot may very well end up the same, where it can do many tasks, but not in a more cost-effective manner.
 
 1d ago
-
----
-
-**[Homemade 6 axis arm with old 3d printers](https://www.reddit.com/r/robotics/comments/1s517i9/homemade_6_axis_arm_with_old_3d_printers/)**
-
-Hello everyone, I wanted to share my project that I've been working on for months. I've recycled two old 3D printers Anet A8 into a robotic arm. My main goal is to make a coffee with it. The motors and the electronic cards are from the printers. I've flashed them with Marlin and control them with python with a custom interface. I need to use 2 boards because I can only control independently 4 motors with one board. All the joints design are homemade, and 3d printed. The endeffector is a design from Makerworld u/user_2700759104 (I will build my own in the next days). There is a lot of backlash because of the planetary gears that I use. I plan to change them in the future. If anyone knows a reduction gear for Nema17 with minimum backlash I am all ears ! Thanks to the gear ratio, I've measured 2.9kg of force with the J2. List of components : Motors (J1->J6) : Nema17 Endeffector : Servo SG90 Boards : 2 Anet A8 + 1 Arduino Uno Reduction : J1 - 19:1 J2 - 51:1 J3 - 19:1 J4 - 19:1 J5 - 19:1 (90° 1:1) J6 - 1:1
-
-2d ago
 
 ---
 
@@ -124,7 +124,7 @@ Bloomberg.com • 1d ago
 
 In the musical experiment, violinists wore lightweight robotic exoskeletons attached to their bow-playing arms, which delivered subtle changes to their natural movements.
 
-euronews.com • 9h ago
+Euronews.com • 10h ago
 
 ---
 
@@ -132,7 +132,7 @@ euronews.com • 9h ago
 
 Serve Robotics and Coco Robotics delivery robots reportedly crashed into Chicago bus shelters days apart, shattering glass with no injuries reported.
 
-Fox Business • 18h ago
+Fox Business • 19h ago
 
 ---
 
@@ -140,7 +140,7 @@ Fox Business • 18h ago
 
 McDonald's tested humanoid robots from Keenon Robotics at a Shanghai location, where they greeted customers and delivered food in a short pilot program.
 
-Fox News • 3h ago
+Fox News • 5h ago
 
 ---
 
@@ -152,11 +152,11 @@ CNBC • 3d ago
 
 ---
 
-**[Amazon Acquires Fauna Robotics. Is This a Viable Threat to Tesla's Optimus Project?](https://www.fool.com/investing/2026/03/29/amazon-fauna-robotics-threat-tesla-optimus/)**
+**[Video Friday: Beep! Beep! Roadrunner Bipedal Bot Breaks the Mold](https://spectrum.ieee.org/roadrunner-bipedal-robot)**
 
-Amazon's humanoid bet isn't about competing with Tesla's factory robots. Its about quietly building the operating system for the home.
+Roadrunner moves in-line, on one wheel, or two to stay nimble and on the go. Plus NASA's SkyFall Mars helicopters and MoonFall mission are gearing up.
 
-The Motley Fool • 2h ago
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -164,7 +164,15 @@ The Motley Fool • 2h ago
 
 Researchers from Northwestern University have developed robots called "metamachines" that are composed of other robots.
 
-Futurism • 22h ago
+Futurism • 23h ago
+
+---
+
+**[Amazon Acquires Fauna Robotics. Is This a Viable Threat to Tesla's Optimus Project?](https://www.fool.com/investing/2026/03/29/amazon-fauna-robotics-threat-tesla-optimus/)**
+
+Amazon's humanoid bet isn't about competing with Tesla's factory robots. Its about quietly building the operating system for the home.
+
+The Motley Fool • 3h ago
 
 ---
 
@@ -178,15 +186,7 @@ Interesting Engineering • 1d ago
 
 **[Giant robots battle it out in Detroit’s Robowar](https://blog.adafruit.com/2026/03/28/giant-robots-battle-it-out-in-detroits-robowar/)**
 
-Adafruit • 23h ago
-
----
-
-**[Scientists design living robots with intelligent neurons](https://3dvf.com/en/scientists-design-living-robots-with-intelligent-neurons/)**
-
-When a robot's next move comes from living tissue, what counts as programming? In one lab, tiny hand-built creatures are lighting up and roaming in ways their makers never wrote into code.
-
-3dvf.com • 22h ago
+Adafruit • 1d ago
 
 ---
 
@@ -250,7 +250,7 @@ A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White H
 
 📺 C-SPAN
 
-👁️ 216K • 👍 931 • 💬 1K • ⏱️ 2:59 • 3d ago
+👁️ 216K • 👍 931 • 💬 1K • ⏱️ 2:59 • 4d ago
 
 ---
 
