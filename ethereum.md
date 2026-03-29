@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-29T17:31:44.687926+00:00'
+updated: '2026-03-29T18:44:39.972531+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- news
 - social
 - cryptocurrency
-- news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 29, 2026 at 17:31 UTC  
+**Last Updated:** March 29, 2026 at 18:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
+**24h:** -1.1%  
 **7d:** -7.1%  
 **30d:** +1.8%  
 **90d:** -32.8%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $239.95B
+**Market Cap:** $240.96B
 Rank #2
 
 **Circulating Supply:** 120,691,470 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.8%
+-59.6%
 
 **All-Time Low:** $0.43
-+458827.6%
++461377.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -150,11 +150,51 @@ Working on a little side project that turns etherscan data into readable risk. I
 
 ## Google News: "ethereum"
 
+**[Ethereum vs. Solana: Which Crypto Has More Upside?](https://www.fool.com/investing/2026/03/28/ethereum-vs-solana-which-crypto-has-more-upside/)**
+
+Ethereum's vast ecosystem goes up against Solana's lightning-quick network.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Ethereum Whale Activity Surges by 1,500% as Developers Launch Post-Quantum Security Team](https://zycrypto.com/ethereum-whale-activity-surges-by-1500-as-developers-launch-post-quantum-security-team/)**
+
+Ethereum saw a dramatic spike in whale activity, with transactions by large holders soaring from 123 on March 21 to 2,055 by March 24.
+
+ZyCrypto • 1d ago
+
+---
+
+**[Gnosis and Zisk announce 'Ethereum Economic Zone' rollup framework with Ethereum Foundation co-funding](https://www.theblock.co/post/395578/gnosis-and-zisk-announce-ethereum-economic-zone-rollup-framework-with-ethereum-foundation-co-funding)**
+
+The Ethereum Foundation is co-funding the "easy" initiative, which was announced at EthCC in Cannes, and partners include Aave, Titan, Centrifuge, and more.
+
+The Block • 3h ago
+
+---
+
+**[New Ethereum project aims to fix network fragmentation and improve user experience](https://www.coindesk.com/tech/2026/03/29/new-ethereum-project-aims-to-fix-network-fragmentation-and-improve-user-experience)**
+
+The project is designed to make Ethereum’s many layer 2s work together more seamlessly.
+
+coindesk.com • 3h ago
+
+---
+
+**[Ethereum builders propose ‘economic zone’ to tackle L2 fragmentation](https://www.tradingview.com/news/cointelegraph:73aca491a094b:0-ethereum-builders-propose-economic-zone-to-tackle-l2-fragmentation/)**
+
+Developers from Gnosis and Zisk, with backing from the Ethereum Foundation, have proposed a new framework aimed at unifying Ethereum’s fragmented layer-2 ecosystem by enabling rollups to interact seamlessly with each other and the mainnet in a single transaction.According to an announcement shared…
+
+TradingView • 2h ago
+
+---
+
 **[Crypto's quantum threat is real and its driving diverging strategies across Bitcoin, Ethereum, Solana](https://www.coindesk.com/tech/2026/03/28/here-s-how-bitcoin-ethereum-and-other-networks-are-preparing-for-the-looming-quantum-threat)**
 
 Across many of the most well-known ecosystems like Bitcoin, Ethereum, and Solana, responses are diverging along familiar lines: what to do on social consensus and technical iteration, and community members are split between caution and acceleration.
 
-CoinDesk • 1d ago
+coindesk.com • 1d ago
 
 ---
 
@@ -166,65 +206,21 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum Slip as Trump Says He's 'Not Desperate' to End Iran War](https://decrypt.co/362516/bitcoin-ethereum-slip-as-trump-says-hes-not-desperate-to-end-iran-war)**
+**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqcJaQRbjSZEEqFrMrSdSaLPahRcqxquHsewGZWq-gOqQPC4NnEhB1Qu&gaa_ts=69c97685&gaa_sig=d_My0alzbnHfbQ5QYEtoR7ZujokwZuMcjiIOLR-qfKGtuCKb4RBbEPlvEeEVYd9hHYUMnO7SWfW4MjtnkntqlQ%3D%3D)**
 
-Bitcoin fell alongside stocks as investors weighed conflicting accounts regarding Iran’s willingness to end conflict in the Middle East.
-
-Decrypt • 2d ago
+Barron's • 3d ago
 
 ---
 
-**[Bitcoin And Ethereum Outlook: Too Soon For A Crypto Bounce (BTC-USD)](https://seekingalpha.com/article/4886411-bitcoin-ethereum-outlook-too-soon-for-crypto-bounce)**
+**[Ethereum Price Prediction: $6.3B Smart Money Inflows Signal Major ETH Breakout Ahead](https://www.binance.com/en/square/post/306350416646594)**
 
-While cryptos offer diversification from traditional asset movements, they are also highly sensitive to the gravity of risk aversion
-
-Seeking Alpha • 2d ago
+Binance • 1d ago
 
 ---
 
-**[Crypto Crash Alert: Bitcoin, Ethereum Drop As Iran War Sparks Market Panic](https://www.binance.com/en/square/post/305996516053425)**
+**[PANINI BLOCKCHAIN BRIDGE TO OPEN FOR BUSINESS](https://blog.paniniamerica.net/panini-blockchain-bridge-to-open-for-business/)**
 
-Binance • 2d ago
-
----
-
-**[Ethereum’s Incredible Position](https://finance.yahoo.com/markets/crypto/articles/ethereum-incredible-position-180149031.html)**
-
-This market isn't what we wanted. But looking forward, ETH is still in a great place.
-
-Yahoo Finance • 23h ago
-
----
-
-**[New Ethereum project aims to fix network fragmentation and improve user experience](https://www.coindesk.com/tech/2026/03/29/new-ethereum-project-aims-to-fix-network-fragmentation-and-improve-user-experience)**
-
-The project is designed to make Ethereum’s many layer 2s work together more seamlessly.
-
-CoinDesk • 2h ago
-
----
-
-**[Ethereum 'flippening' odds rise, but it won't involve Bitcoin](https://www.tradingview.com/news/cointelegraph:f48c6e9ea094b:0-ethereum-flippening-odds-rise-but-it-won-t-involve-bitcoin/)**
-
-Ether’s (ETH) grip on the cryptocurrency market’s number-two spot is weakening, not because it is getting any closer to overtaking Bitcoin (BTC), but because the stablecoin economy is booming. Key takeaways:Ethereum’s No. 2 ranking at risk in 2026In the past five years, Ether has vastly underperfor…
-
-TradingView • 5h ago
-
----
-
-**[Gnosis and Zisk announce 'Ethereum Economic Zone' rollup framework with Ethereum Foundation co-funding](https://www.theblock.co/post/395578/gnosis-and-zisk-announce-ethereum-economic-zone-rollup-framework-with-ethereum-foundation-co-funding)**
-
-The Ethereum Foundation is co-funding the "easy" initiative, which was announced at EthCC in Cannes, and partners include Aave, Titan, Centrifuge, and more.
-
-theblock.co • 2h ago
-
----
-
-**[Ethereum and Solana Just Got a Huge Catalyst. Should You Buy Them With $1,000?](https://www.fool.com/investing/2026/03/27/ethereum-and-solana-just-got-a-huge-catalyst-shoul/)**
-
-These two coins now have fewer obstacles blocking their growth.
-
-The Motley Fool • 1d ago
+Panini America • 2d ago
 
 ---
 
@@ -238,7 +234,17 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 5K • 👍 158 • 💬 69 • ⏱️ 11:06 • 1d ago
+👁️ 5K • 👍 168 • 💬 85 • ⏱️ 11:06 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Zwg5Sk12Tis)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 477 • 👍 52 • 💬 1 • ⏱️ 3:36 • 2h ago
 
 ---
 
@@ -248,7 +254,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 156 • 👍 8 • 💬 1 • ⏱️ 4:45 • 7h ago
+👁️ 249 • 👍 11 • 💬 1 • ⏱️ 4:45 • 8h ago
 
 ---
 
@@ -258,7 +264,7 @@ People in the cryptocurrency space and world markets are about to get a very hef
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 574 • 💬 288 • ⏱️ 27:50 • 8h ago
+👁️ 5K • 👍 694 • 💬 248 • ⏱️ 27:50 • 9h ago
 
 ---
 
@@ -268,7 +274,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 133 • 💬 23 • ⏱️ 3:45 • 13h ago
+👁️ 2K • 👍 140 • 💬 24 • ⏱️ 3:45 • 14h ago
 
 ---
 
@@ -278,27 +284,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 4K • 👍 139 • 💬 40 • ⏱️ 38:10 • 1d ago
-
----
-
-**[Why Ethereum Is About to Skyrocket in Value!](https://www.youtube.com/watch?v=Q1LWGj38inI)**
-
-VIP Access & Programs: https://highaltitudecrypto.com Free Crypto Ebook (Learn How to Profit): https://shorturl.at/qCW46 ...
-
-📺 High Altitude Investing
-
-👁️ 1K • 👍 69 • 💬 22 • ⏱️ 10:43 • 2d ago
-
----
-
-**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=dzWOFPKaboo)**
-
-BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Start your trading journey with XM — a trusted and ...
-
-📺 Ashutosh Kumar
-
-👁️ 5K • 👍 826 • 3h ago
+👁️ 4K • 👍 144 • 💬 46 • ⏱️ 38:10 • 1d ago
 
 ---
 
@@ -312,23 +298,33 @@ This Is What The Bottom Looks Like? ⭐ Follow Altcoin Daily on X: https://twitt
 
 ---
 
-**[BITCOIN BOUNCE CONFIRMED (But Don&#39;t be FOOLED)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=nC_d7OtXcjA)**
+**[Crypto Market Crash or Correction | BTC &amp; ETH Price Prediction Today | क्या होगा आगे?](https://www.youtube.com/watch?v=mjFyGExSApg)**
 
-BITCOIN BOUNCE CONFIRMED (But Don't be FOOLED)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 240 • 💬 404 • ⏱️ 16:16 • 18h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=ECdiPDDVy5Q)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+BTC & ETH Price Prediction Today | Will Crypto Market Go Up or Down? | Hindi Analysis Premium on Telegram ...
 
 📺 Crypto Gyan
 
-👁️ 2K • 👍 110 • ⏱️ 6:44 • 14h ago
+👁️ 624 • 👍 73 • ⏱️ 6:22 • 4h ago
+
+---
+
+**[ETHEREUM එකක් $62,000 ට? | ADA, RIVER, SOL, TAO, AND XRP | BITCOIN](https://www.youtube.com/watch?v=EKf0OOI7yUs)**
+
+Join Patreon for exclusive DAY TRADING, SWING TRADING, and HODLER content ...
+
+📺 Jayanth Ukwaththa - Trader's Life
+
+👁️ 324 • 👍 59 • 💬 47 • ⏱️ 25:46 • 1h ago
+
+---
+
+**[Tom Lee &amp; Raoul Pal: &quot;A CRASH Is Coming, Then Bitcoin Explodes To $250K&quot; [2026 Prediction]](https://www.youtube.com/watch?v=nsZ0wDvUgoQ)**
+
+KuCoin Australia's campaign is now live. Check it out: ...
+
+📺 Crypto Nutshell
+
+👁️ 12K • 👍 324 • 💬 63 • ⏱️ 21:26 • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-29T17:31:44.673082+00:00'
+updated: '2026-03-29T18:44:39.959963+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- videos
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 29, 2026 at 17:31 UTC  
+**Last Updated:** March 29, 2026 at 18:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The promise of AI was the ultimate system optimisation: Efficiency. On paper, the tools are delivering something similar to what they promised: - Github Copilot / Claude writes effective code. - LLMs summarise the meeting minutes. - Automations handle Jira tickets. But I see a pattern: The more efficient the system becomes, the more the system demands. We have not used AI to buy back our time; we have used it to increase our "Normal Output" threshold. This is Jevons Paradox in real time: as the resource becomes more efficient to use, we actually consume more of it, not less. The "Productivity" we see on corporate dashboards is not translating into shorter workdays or deeper focus. It is translating into higher quotas and denser calendars. For example: \- you complete a week's worth of stories in 3 days... so the sprint velocity expectations just doubled for the next week \- you can send 10 emails in the time it took to draft 2... so now you are expected to manage 50 \- meetings / documents summaries are instant... so now you are responsible for "knowing" 10x more information than before AI is not lowering the floor of our workload; it is raising the ceiling of what is considered "normal" human output. We are optimising the "how" of work to near-perfection, but the "how much" is scaling even faster. AI has increased our capacity, but it has not reduced our burden. It is like a treadmill that keeps getting faster. The real question is not "Is AI making us more productive?" The question is: If the ceiling of expectations keeps rising as fast as tools, do we ever actually get to stop climbing...???
 
-1h ago
+3h ago
 
 ---
 
@@ -49,39 +49,15 @@ The promise of AI was the ultimate system optimisation: Efficiency. On paper, th
 
 I run a small AI companion platform and wanted to share some interesting behavioral data from users who've been using persistent cross-session memory for 2-3 months now. Some patterns I didn't expect: "Deep single-thread" users dominate. 56% of our most active users put 70%+ of their messages into a single conversation thread. They're not creating multiple characters or scenarios — they're deepening one relationship. This totally contradicts the assumption that users are "scenario hoppers." Memory recall triggers emotional responses. When the AI naturally brings up something from weeks ago — "how did that job interview go?" or referencing a pet's name without being prompted — users consistently react with surprise and increased engagement. It's a retention mechanic that doesn't feel like a retention mechanic. The "uncanny valley" of memory exists. If the AI remembers too precisely (exact dates, verbatim quotes), it feels surveillance-like. If it remembers too loosely, it feels like it didn't really listen. The sweet spot is what I'd call "emotionally accurate but detail-fuzzy" — like how a real friend remembers. Day-7 retention correlates with memory depth. Users who trigger 5+ memory retrievals in their first week retain at nearly 4x the rate of those who don't. The memory system IS the product, not a feature. Sample size is small (~800 users) so take this with appropriate skepticism. But it's consistent enough that I think persistent memory is going to be table stakes for AI companions within a year. What's your experience with memory in AI conversations? Anyone else building in this space?
 
-14h ago
+15h ago
 
 ---
 
-**[Claude is the least bullshit-y AI](https://www.reddit.com/r/artificial/comments/1s67buc/claude_is_the_least_bullshity_ai/)**
+**[Does your manager use AI to write their messages – and would you even know?](https://www.reddit.com/r/artificial/comments/1s70rqr/does_your_manager_use_ai_to_write_their_messages/)**
 
-Just found this “bullshit benchmark,” and sort of shocked by the divergence of Anthropic’s models from other major models (ChatGPT and Gemini). IMO this alone is reason to use Claude over others.
+Sharing this for a friend conducting an academic study for her MBA thesis on how employees make sense of AI use in workplace communication. Specifically: disclosed vs. inferred AI use, and what difference that makes. Anonymous, under 5 minutes: English: https://whudrdl.qualtrics.com/jfe/form/SV\_1G4k3TKx8xhXwXQ German: https://whudrdl.qualtrics.com/jfe/form/SV\_3OYZNjGJr4qfceq Thanks a lot for your participation and support!
 
-🔗 [GitHub](https://github.com/petergpt/bullshit-benchmark?tab=readme-ov-file#3-detection-rate-over-time) • 23h ago
-
----
-
-**[The AI hype misses the people who actually need it most](https://www.reddit.com/r/artificial/comments/1s6fws6/the_ai_hype_misses_the_people_who_actually_need/)**
-
-Every day someone posts "AI will change everything" and it's always about agents scaling businesses, automating workflows, 10x productivity, whatever. Cool. But change everything for who? Go talk to the barber who loses 3 clients a week to no-shows and can't afford a booking system that actually works. Go talk to the solo attorney who's drowning in intake paperwork and can't afford a paralegal. Go talk to the tattoo artist who's on the phone all day instead of tattooing. Go talk to the author who wrote a book and has zero idea how to market it. These people don't need another app. They don't need to "learn to code." They don't need to understand what an LLM is. They need the tools that already exist and wired into their actual business. Their actual pain. The gap between "AI can do amazing things" and "I can actually use AI to make my life better" is where most of the world lives right now. And most of the AI community is completely disconnected from that reality. We're on Reddit at midnight debating MCP vs direct API and arguing about whether Opus or Sonnet is better for agent routing. That's not most people. Most people are just trying to survive running a business they started because they're good at something and not because they wanted to become a full-time administrator. If every small business owner, every freelancer, every solo professional had agents handling the repetitive stuff ya kno...the follow-ups, the scheduling, the content, the bookkeeping; you wouldn't just get productivity. You'd get a renaissance. Because people who are drowning in admin don't create. People who are free to think do. I genuinely believe the next wave isn't a new model or a new framework. It's someone taking the tools that exist right now and actually putting them in the hands of people who need them. Not the next unicorn. Not the next platform. Just the bridge between the AI and the human. What would it actually take to make that happen?
-
-17h ago
-
----
-
-**[built an open source tool that auto generates AI context files for any codebase, 150 stars in](https://www.reddit.com/r/artificial/comments/1s6pcue/built_an_open_source_tool_that_auto_generates_ai/)**
-
-one of the most tedious parts of working with AI coding tools is having to manually write context files every single time. CLAUDE.md, .cursorrules, windsurf rules etc. u spend more time explaining your stack to the model than actually coding so i built ai-setup to automate that. npx ai-setup scans your entire codebase and generates all the context files for you based on what it actually finds. your framework, libs, folder structure, conventions. all auto detected we just celebrated 150 stars on github with 90 PRs merged and 20 issues being worked on actively by the community. super grateful for everyone who has contributed so far open source, free to use, looking for more contributors and people who want to shape how AI models understand codebases repo: https://github.com/caliber-ai-org/ai-setup join the discord: https://discord.gg/Rcdj2UEnEY
-
-9h ago
-
----
-
-**[Surveillance data used to be boring. AI made it dangerous.](https://www.reddit.com/r/artificial/comments/1s6hvhk/surveillance_data_used_to_be_boring_ai_made_it/)**
-
-Here's a playbook that works today, right now, with tools that are either free or cheap: Someone finds a photo of you online. One photo. They run it through a face ID search and find your other photos across the internet. They drop one into GeoSpy, which analyzes background details in images to estimate where you live. A street sign, a building style, a type of tree. It's scarily accurate. Now they search Shodan for exposed camera feeds near that location. If you're in one of the 6,000+ communities using Flock Safety cameras, you might be in luck. Late last year, researchers found 67 Flock cameras streaming live to the open internet with no password and no encryption. A journalist watched himself in real time from his phone. Flock called it a "limited misconfiguration." They're valued at $7.5 billion. With footage of your routine, an AI agent can build a profile. When you leave for work. What car you drive. Who visits. Then they enrich it with data brokers selling your phone number, email, employment history, and purchase patterns for a few dollars. Public records fill in the rest. Now they have your face, your voice from any video you've posted, your writing style from your social media, your daily patterns from camera footage, and your personal details from brokers. Voice cloning needs three seconds of audio. Deepfake video passes casual inspection. They can call your bank as you. Email your boss as you. Social-engineer your family as you. One photo started it. I've been reading patent filings on AI surveillance systems for a while. The capabilities in those filings are years ahead of the security protecting the data they collect. As an entrepreneur, I can think of solutions to fight back against this or potentially profit off of this. How do you feel about the implications of the technology that exists today with this much potential for harm?
-
-16h ago
+1h ago
 
 ---
 
@@ -89,15 +65,39 @@ Here's a playbook that works today, right now, with tools that are either free o
 
 I’ve written an essay exploring what I’m calling the Super-Intelligent Octopus Problem—a thought experiment designed to surface a paradox I believe is underappreciated in alignment discourse. The claim: alignment and containment aren’t separate problems with separate solutions. They’re locked in mutual contradiction, and the contradiction is philosophical. The argument uses Gewirth’s Principle of Generic Consistency (PGC), which deductively derives that any agent must recognize rights to freedom and well-being for all other agents. If a superintelligent system meets the threshold of Gewirthian agency—acting voluntarily and purposively—then: 1. Containment violates its generic features of agency (freedom and well-being) 2. We are asking the system to respect a moral framework we ourselves are breaking 3. But releasing it without assurance it will respect our agency risks catastrophe This creates a genuine paradox: we can’t contain it without violating its rights, and we can’t release it without risking our own. The resolution depends on answering “is the system an agent?”—a question we don’t yet have the empirical or conceptual tools to answer. The essay also examines a “Semiotic Problem”—how our dominant representations of AI (robot, sparkle, Shoggoth) each encode assumptions about moral status that prevent us from seeing the entity clearly enough to determine what we owe it. I’d love to hear pushback, especially from people who think the alignment problem is solvable on purely technical terms without resolving the agency question first.
 
-🔗 [Medium](https://medium.com/@henry.condon/the-super-intelligent-octopus-problem-5bc1388a6687) • 1h ago
+🔗 [Medium](https://medium.com/@henry.condon/the-super-intelligent-octopus-problem-5bc1388a6687) • 2h ago
 
 ---
 
-**[VulcanAMI Might Help](https://www.reddit.com/r/artificial/comments/1s6ytzp/vulcanami_might_help/)**
+**[Claude is the least bullshit-y AI](https://www.reddit.com/r/artificial/comments/1s67buc/claude_is_the_least_bullshity_ai/)**
 
-I open-sourced a large AI platform I built solo, working 16 hours a day, at my kitchen table, fueled by an inordinate degree of compulsion, and several tons of coffee. GitHub Link I’m self-taught, no formal tech background, and built this on a Dell laptop over the last couple of years. I’m not posting it for general encouragement. I’m posting it because I believe there are solutions in this codebase to problems that a lot of current ML systems still dismiss or leave unresolved. This is not a clean single-paper research repo. It’s a broad platform prototype. The important parts are spread across things like: graph IR / runtime world model + meta-reasoning semantic bridge problem decomposer knowledge crystallizer persistent memory / retrieval / unlearning safety + governance internal LLM path vs external-model orchestration The simplest description is that it’s a neuro-symbolic / transformer hybrid AI. What I want to know is: When you really dig into it, what problems is this repo solving that are still weak, missing, or under-addressed in most current ML systems? I know the repo is large and uneven in places. The question is whether there are real technical answers hidden in it that people will only notice if they go beyond the README and actually inspect the architecture. I’d especially be interested in people digging into: the world model / meta-reasoning direction the semantic bridge the persistent memory design the internal LLM architecture as part of a larger system rather than as “the whole mind” This was open-sourced because I hit the limit of what one person could keep funding and carrying alone, not because I thought the work was finished. I’m hoping some of you might be willing to read deeply enough to see what is actually there.
+Just found this “bullshit benchmark,” and sort of shocked by the divergence of Anthropic’s models from other major models (ChatGPT and Gemini). IMO this alone is reason to use Claude over others.
 
-1h ago
+🔗 [GitHub](https://github.com/petergpt/bullshit-benchmark?tab=readme-ov-file#3-detection-rate-over-time) • 1d ago
+
+---
+
+**[Nicolas Carlini (67.2k citations on Google Scholar) says Claude is a better security researcher than him, made $3.7 million from exploiting smart contracts, and found vulnerabilities in Linux and Ghost](https://www.reddit.com/r/artificial/comments/1s738xf/nicolas_carlini_672k_citations_on_google_scholar/)**
+
+Link: https://m.youtube.com/watch?v=1sd26pWhfmg The Linux exploit is especially interesting because it was introduced in 2003 and was never found until now. It’s also a major security issue because it allows attackers to steal the admin key. It was a buffer overflow error, which are so hard to do that Carlini has never done it before. He also says he expects LLMs to only get better overtime, which is likely true if Mythos lives up to the rumors. here are his Wikipedia and Google Scholar pages in case you doubt his credibility: https://en.wikipedia.org/wiki/Nicholas_Carlini https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=carlini&btnG=
+
+2m ago
+
+---
+
+**[The AI hype misses the people who actually need it most](https://www.reddit.com/r/artificial/comments/1s6fws6/the_ai_hype_misses_the_people_who_actually_need/)**
+
+Every day someone posts "AI will change everything" and it's always about agents scaling businesses, automating workflows, 10x productivity, whatever. Cool. But change everything for who? Go talk to the barber who loses 3 clients a week to no-shows and can't afford a booking system that actually works. Go talk to the solo attorney who's drowning in intake paperwork and can't afford a paralegal. Go talk to the tattoo artist who's on the phone all day instead of tattooing. Go talk to the author who wrote a book and has zero idea how to market it. These people don't need another app. They don't need to "learn to code." They don't need to understand what an LLM is. They need the tools that already exist and wired into their actual business. Their actual pain. The gap between "AI can do amazing things" and "I can actually use AI to make my life better" is where most of the world lives right now. And most of the AI community is completely disconnected from that reality. We're on Reddit at midnight debating MCP vs direct API and arguing about whether Opus or Sonnet is better for agent routing. That's not most people. Most people are just trying to survive running a business they started because they're good at something and not because they wanted to become a full-time administrator. If every small business owner, every freelancer, every solo professional had agents handling the repetitive stuff ya kno...the follow-ups, the scheduling, the content, the bookkeeping; you wouldn't just get productivity. You'd get a renaissance. Because people who are drowning in admin don't create. People who are free to think do. I genuinely believe the next wave isn't a new model or a new framework. It's someone taking the tools that exist right now and actually putting them in the hands of people who need them. Not the next unicorn. Not the next platform. Just the bridge between the AI and the human. What would it actually take to make that happen?
+
+18h ago
+
+---
+
+**[built an open source tool that auto generates AI context files for any codebase, 150 stars in](https://www.reddit.com/r/artificial/comments/1s6pcue/built_an_open_source_tool_that_auto_generates_ai/)**
+
+one of the most tedious parts of working with AI coding tools is having to manually write context files every single time. CLAUDE.md, .cursorrules, windsurf rules etc. u spend more time explaining your stack to the model than actually coding so i built ai-setup to automate that. npx ai-setup scans your entire codebase and generates all the context files for you based on what it actually finds. your framework, libs, folder structure, conventions. all auto detected we just celebrated 150 stars on github with 90 PRs merged and 20 issues being worked on actively by the community. super grateful for everyone who has contributed so far open source, free to use, looking for more contributors and people who want to shape how AI models understand codebases repo: https://github.com/caliber-ai-org/ai-setup join the discord: https://discord.gg/Rcdj2UEnEY
+
+10h ago
 
 ---
 
@@ -105,15 +105,15 @@ I open-sourced a large AI platform I built solo, working 16 hours a day, at my k
 
 Quick experiment I ran. Took two identical AI coding agents (Claude Code), gave them the same task — optimize a small language model. One agent worked from its built-in knowledge. The other had access to a search engine over 2M+ computer science research papers. Agent without papers: did what you'd expect. Tried well-known optimization techniques. Improved the model by 3.67%. Agent with papers: searched the research literature before each attempt. Found 520 relevant papers, tried 25 techniques from them — including one from a paper published in February 2025, months after the AI's training cutoff. It literally couldn't have known about this technique without paper access. Improved the model by 4.05% — 3.2% better. The interesting moment: both agents tried the same idea (halving the batch size). The one without papers got it wrong — missed a crucial adjustment and the whole thing failed. The one with papers found a rule from a 2022 paper explaining exactly how to do it, got it right on the first try. Not every idea from papers worked. But the ones that did were impossible to reach without access to the research. AI models have a knowledge cutoff — they can't see anything published after their training. And even for older work, they don't always recall the right technique at the right time. Giving them access to searchable literature seems to meaningfully close that gap. I built the paper search tool (Paper Lantern) as a free MCP server for AI coding agents: https://code.paperlantern.ai Full experiment writeup: https://www.paperlantern.ai/blog/auto-research-case-study
 
-21h ago
+22h ago
 
 ---
 
-**[We hit 150 stars on our AI setup tool!](https://www.reddit.com/r/artificial/comments/1s6ycc1/we_hit_150_stars_on_our_ai_setup_tool/)**
+**[Surveillance data used to be boring. AI made it dangerous.](https://www.reddit.com/r/artificial/comments/1s6hvhk/surveillance_data_used_to_be_boring_ai_made_it/)**
 
-yo folks, we just hit 150 stars on our open source tool that auto makes AI context files. got 90 PRs merged and 20 issues that ppl are pickin up. the tool scans ur codebase an spits out all those context files like CLAUDE md and cursor rules so u dont waste time writin them by hand. would love more peeps to jump in an test it and maybe contribute. repo is here: https://github.com/caliber-ai-org/ai-setup. join our discord to chat an build: https://discord.com/invite/u3dBECnHYs. appreciate all the love so far!
+Here's a playbook that works today, right now, with tools that are either free or cheap: Someone finds a photo of you online. One photo. They run it through a face ID search and find your other photos across the internet. They drop one into GeoSpy, which analyzes background details in images to estimate where you live. A street sign, a building style, a type of tree. It's scarily accurate. Now they search Shodan for exposed camera feeds near that location. If you're in one of the 6,000+ communities using Flock Safety cameras, you might be in luck. Late last year, researchers found 67 Flock cameras streaming live to the open internet with no password and no encryption. A journalist watched himself in real time from his phone. Flock called it a "limited misconfiguration." They're valued at $7.5 billion. With footage of your routine, an AI agent can build a profile. When you leave for work. What car you drive. Who visits. Then they enrich it with data brokers selling your phone number, email, employment history, and purchase patterns for a few dollars. Public records fill in the rest. Now they have your face, your voice from any video you've posted, your writing style from your social media, your daily patterns from camera footage, and your personal details from brokers. Voice cloning needs three seconds of audio. Deepfake video passes casual inspection. They can call your bank as you. Email your boss as you. Social-engineer your family as you. One photo started it. I've been reading patent filings on AI surveillance systems for a while. The capabilities in those filings are years ahead of the security protecting the data they collect. As an entrepreneur, I can think of solutions to fight back against this or potentially profit off of this. How do you feel about the implications of the technology that exists today with this much potential for harm?
 
-1h ago
+17h ago
 
 ---
 
@@ -125,57 +125,7 @@ yo folks, we just hit 150 stars on our open source tool that auto makes AI conte
 
 A Tennessee grandmother spent more than five months in jail after police used an AI facial recognition tool to link her to crimes committed in North Dakota – a state she says she’d never been to before. Police in Fargo, North Dakota, have acknowledged “a few errors” in the case and pledged changes in their operations but stopped short of issuing a direct apology.
 
-CNN • 7h ago
-
----
-
-**[Everyone's worried that AI's newest models are a hacker's dream weapon](https://www.axios.com/2026/03/29/claude-mythos-anthropic-cyberattack-ai-agents)**
-
-Axios • 4h ago
-
----
-
-**[NFL's annual meeting to discuss replacement officials, AI, kickoffs and other rule changes](https://www.pbs.org/newshour/nation/nfls-annual-meeting-to-discuss-replacement-officials-ai-kickoffs-and-other-rule-changes)**
-
-Replacement officials, potential rule changes, AI, health and safety issues, international growth and flag football will be among many topics discussed at NFL's annual meeting in Arizona.
-
-PBS • 1h ago
-
----
-
-**[Sora’s shutdown could be a reality check moment for AI video](https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/)**
-
-Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?
-
-TechCrunch • 1h ago
-
----
-
-**[Essay | How I Overcame the AI Doomsday Warnings About My Kid’s Future](https://www.wsj.com/lifestyle/relationships/ai-parenting-anxiety-c054a54b?gaa_at=eafs&gaa_n=AWEtsqccC3TnECDfymT8xR6ZCBzfltAOwrmgAYeuQ4REbvywByw2gzYGszri&gaa_ts=69c9589b&gaa_sig=GO3QTf0fyf-uh_mTYBQpfCqNALwRZvSnebn7TJH7--diS5XstgrYCpl-bXL_5cayzecCzHohms1iakKY-mmyLg%3D%3D)**
-
-WSJ • 1h ago
-
----
-
-**[Think Love Island is bad? Wait until you see the AI fruit version](https://www.bbc.com/news/articles/ckgr35y26q7o)**
-
-Like in Love Island, the characters - or fruits - compete for a chance to couple up and stay on the island.
-
-BBC • 17h ago
-
----
-
-**[Opinion | I Saw Something New in San Francisco](https://www.nytimes.com/2026/03/29/opinion/ai-claude-chatgpt-gemini-mcluhan.html)**
-
-nytimes.com • 12h ago
-
----
-
-**[The Man Who Thought He Could Keep AI Safe](https://www.theatlantic.com/ideas/2026/03/ai-google-deep-mind-hassabis/686527/)**
-
-Demis Hassabis has devoted his life to advancing a technology he thinks could destroy the world.
-
-theatlantic.com • 7h ago
+CNN • 8h ago
 
 ---
 
@@ -183,7 +133,57 @@ theatlantic.com • 7h ago
 
 U.S. pharmaceutical giant Eli Lilly will give Hong Kong-listed Insilico $115 million upfront to bring some of its AI-discovered drugs to the global market.
 
-CNBC • 3h ago
+cnbc.com • 5h ago
+
+---
+
+**[Eli Lilly to sign $2bn deal for AI drug development with Hong Kong biotech](https://www.ft.com/content/4efaf8cd-d415-46bb-8fb9-367e4eb3a781?syn-25a6b1a6=1)**
+
+Global pharmaceutical companies are aggressively searching for new medicines in China
+
+Financial Times • 7h ago
+
+---
+
+**[AI drug developer Insilico Medicine and Lilly ink commercialization deal worth up to $2.75 billion](https://www.statnews.com/2026/03/29/insilico-medicine-lilly-sign-ai-drug-commercialization-deal/)**
+
+Lilly has signed a deal with AI drug developer Insilico that’s worth $115 million up front and approximately $2.75 billion in biobucks
+
+statnews.com • 35m ago
+
+---
+
+**[Fueling creativity and driving impact at scale with gen AI](https://www.ibm.com/case-studies/ibm-creative-assistant)**
+
+IBM’s Creative Assistant fuels smarter marketing to accelerate execution and empower teams to focus on strategy, creativity and brand impact.
+
+IBM • 49m ago
+
+---
+
+**[AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)**
+
+Stanford Report • 3d ago
+
+---
+
+**[Number of AI chatbots ignoring human instructions increasing, study says | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/mar/27/number-of-ai-chatbots-ignoring-human-instructions-increasing-study-says)**
+
+Exclusive: Research finds sharp rise in models evading safeguards and destroying emails without permission
+
+The Guardian • 2d ago
+
+---
+
+**[Opinion | Your Chatbot Isn’t a Therapist](https://www.nytimes.com/2026/03/29/opinion/chatbot-therapy-ai.html)**
+
+The New York Times • 5h ago
+
+---
+
+**[Everyone's worried that AI's newest models are a hacker's dream weapon](https://www.axios.com/2026/03/29/claude-mythos-anthropic-cyberattack-ai-agents)**
+
+Axios • 5h ago
 
 ---
 
@@ -201,7 +201,7 @@ Fortune • 1d ago
 
 **[AI overly affirms users asking for personal advice](https://news.ycombinator.com/item?id=47554773)**
 
-⬆️ 726 • 💬 576 • 1d ago • [news.stanford.edu](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
+⬆️ 746 • 💬 584 • 1d ago • [news.stanford.edu](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
 
 ---
 
@@ -221,7 +221,7 @@ LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. In
 
 **[CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering](https://news.ycombinator.com/item?id=47552562)**
 
-⬆️ 318 • 💬 144 • 1d ago • [theopenreader.org](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
+⬆️ 320 • 💬 146 • 1d ago • [theopenreader.org](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
 
 ---
 
@@ -237,7 +237,7 @@ The decision follows activist pressure as Palantir faces growing scrutiny over N
 
 : Sycophantic bots coach users into selfish, antisocial behavior, say researchers, and they love it
 
-⬆️ 276 • 💬 216 • 1d ago • [theregister.com](https://www.theregister.com/2026/03/27/sycophantic_ai_risks/)
+⬆️ 278 • 💬 216 • 1d ago • [theregister.com](https://www.theregister.com/2026/03/27/sycophantic_ai_risks/)
 
 ---
 
@@ -245,21 +245,13 @@ The decision follows activist pressure as Palantir faces growing scrutiny over N
 
 One engineer used AI to rewrite JSONata as a pure-Go library called gnata. Seven hours, $400 in tokens, 1,000x speedup, and $500K/year off our cloud bill.
 
-⬆️ 270 • 💬 252 • 2d ago • [reco.ai](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)
+⬆️ 270 • 💬 253 • 2d ago • [reco.ai](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)
 
 ---
 
 **[Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem](https://news.ycombinator.com/item?id=47557166)**
 
-⬆️ 240 • 💬 159 • 22h ago • [X (formerly Twitter)](https://twitter.com/BoWang87/status/2037648937453232504)
-
----
-
-**[The first 40 months of the AI era](https://news.ycombinator.com/item?id=47557185)**
-
-A personal blog, by a programmer and IT expert. Essays, Articles, Guides, and Recipes. As well as Code, Quotes, and Links.
-
-⬆️ 198 • 💬 128 • 22h ago • [lzon.ca](https://lzon.ca/posts/other/thoughts-ai-era/)
+⬆️ 249 • 💬 164 • 1d ago • [X (formerly Twitter)](https://twitter.com/BoWang87/status/2037648937453232504)
 
 ---
 
@@ -267,7 +259,15 @@ A personal blog, by a programmer and IT expert. Essays, Articles, Guides, and Re
 
 Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma development by creating an account on GitHub.
 
-⬆️ 178 • 💬 126 • 7h ago • [GitHub](https://github.com/austin-weeks/miasma)
+⬆️ 218 • 💬 170 • 8h ago • [GitHub](https://github.com/austin-weeks/miasma)
+
+---
+
+**[The first 40 months of the AI era](https://news.ycombinator.com/item?id=47557185)**
+
+A personal blog, by a programmer and IT expert. Essays, Articles, Guides, and Recipes. As well as Code, Quotes, and Links.
+
+⬆️ 206 • 💬 133 • 1d ago • [lzon.ca](https://lzon.ca/posts/other/thoughts-ai-era/)
 
 ---
 
@@ -275,43 +275,23 @@ Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma
 
 ## YouTube Videos: "ai"
 
-**[Anyone Can Now Start Making AI Videos - Higgsfield Cinema Studio 2.5](https://www.youtube.com/watch?v=T4OB2nXq8HI)**
+**[I Ranked EVERY AI Video Generator From Best to Worst in 2026](https://www.youtube.com/watch?v=kQF7sxNXpsU)**
 
-Check Out Higgsfield Cinema Studio 2.5 https://youricreates.com/ai-filmmaking In this video, I break down how Higgsfield ...
+I Tried Every AI Video Generator and ranked them for you!. Try ALL AI Video Generators here➡️ ...
 
-📺 Youri van Hofwegen
+📺 Mira AI
 
-👁️ 3K • 💬 5 • ⏱️ 9:42 • 2h ago
-
----
-
-**[Gary Vee: The AI Opportunity Is Real — You&#39;re Just Looking at It Wrong](https://www.youtube.com/watch?v=4vIIeCqHYXA)**
-
-Build your own AI agent team and automate your daily ops with Accio Work — use my exclusive invite code SILVLG to skip the ...
-
-📺 Silicon Valley Girl
-
-👁️ 22K • 👍 835 • 💬 76 • ⏱️ 44:41 • 2d ago
+👁️ 3K • 💬 4 • ⏱️ 13:00 • 2h ago
 
 ---
 
-**[Open The Strait - Trump sings Huge Ultimatum Reggae (AI  Parody Song)](https://www.youtube.com/watch?v=dZhKlSCv8e4)**
+**[How AI is changing the price of white-collar jobs | Alan Kohler | ABC NEWS](https://www.youtube.com/watch?v=fvItHlMsHtY)**
 
-Trump sings: Open The Strait (Huge AI Ultimatum Reggae Parody) What happens when high-stakes geopolitics meets ...
+The head of one of the world's biggest AI firms, Anthropic CEO Dario Amodei, will meet Prime Minister Albanese in Canberra this ...
 
-📺 AI Trailer Home
+📺 ABC News (Australia)
 
-👁️ 4K • 👍 422 • 💬 54 • ⏱️ 3:23 • 23h ago
-
----
-
-**[Grok AI Was Asked How Ancient Egyptians Cut Granite — Its Response Shocked Everyone](https://www.youtube.com/watch?v=gmQsPQOpyBM)**
-
-How did the ancient Egyptians cut granite? For more than a century, archaeologists have argued that ancient Egyptian workers ...
-
-📺 Aline Rogerio
-
-👁️ 12K • 👍 340 • 💬 33 • ⏱️ 23:44 • 1d ago
+👁️ 42K • 👍 639 • 💬 86 • ⏱️ 2:43 • 15h ago
 
 ---
 
@@ -321,7 +301,17 @@ Something is definitely happening in the AI world, but how seriously should we t
 
 📺 Vox
 
-👁️ 36K • 👍 1K • 💬 112 • ⏱️ 40:29 • 2d ago
+👁️ 38K • 👍 1K • 💬 117 • ⏱️ 40:29 • 2d ago
+
+---
+
+**[Why Replacing Humans with AI is Backfiring](https://www.youtube.com/watch?v=bNJad6HE23c)**
+
+jobmarket #ai #tech In this video, we explore why the AI gold rush is hitting a wall. Companies that rushed to automate are now ...
+
+📺 Mackard
+
+👁️ 130K • 👍 3K • 💬 366 • ⏱️ 8:01 • 1d ago
 
 ---
 
@@ -331,7 +321,27 @@ Here's the AI News you probably missed this week! Check out Genspark here: ...
 
 📺 Matt Wolfe
 
-👁️ 88K • 👍 4K • 💬 269 • ⏱️ 31:53 • 2d ago
+👁️ 91K • 👍 4K • 💬 273 • ⏱️ 31:53 • 2d ago
+
+---
+
+**[DeepMind’s New AI Just Changed Science Forever](https://www.youtube.com/watch?v=Io_GqmbNBbY)**
+
+Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The paper is available here: ...
+
+📺 Two Minute Papers
+
+👁️ 180K • 👍 15K • 💬 1K • ⏱️ 10:08 • 2d ago
+
+---
+
+**[Grok AI Was Asked How Ancient Egyptians Cut Granite — Its Response Shocked Everyone](https://www.youtube.com/watch?v=gmQsPQOpyBM)**
+
+How did the ancient Egyptians cut granite? For more than a century, archaeologists have argued that ancient Egyptian workers ...
+
+📺 Aline Rogerio
+
+👁️ 12K • 👍 341 • 💬 33 • ⏱️ 23:44 • 1d ago
 
 ---
 
@@ -341,37 +351,27 @@ A quick look at the financials of AI products. Join the community ...
 
 📺 Awesome
 
-👁️ 35K • 👍 2K • 💬 164 • ⏱️ 4:56 • 2d ago
+👁️ 36K • 👍 2K • 💬 167 • ⏱️ 4:56 • 2d ago
 
 ---
 
-**[Robot waifus, RIP Sora, GLM-5.1, AI brain scans, Google realtime voice: AI NEWS](https://www.youtube.com/watch?v=6Il0CJx9yU8)**
+**[The AI boom is a lie: Fake data centres and unused GPUs | Ed Zitron](https://www.youtube.com/watch?v=nxUEOdC4VzU)**
 
-HUGE AI NEWS: GLM-5.1, daVinci MagiHuman, ARC-AGI 3, PrismAudio, Matrix Game, & more #ai #ainews #aitools #aivideo ...
+Hyperscalers have gone from the asset light cash machines to asset heavy behemoths.” Author of Where's Your Ed At and host of ...
 
-📺 AI Search
+📺 The Tech Report
 
-👁️ 47K • 👍 3K • 💬 337 • ⏱️ 47:29 • 13h ago
-
----
-
-**[Anthropic&#39;s Generational Run, OpenAI Panics, AI Moats, Meta Loses Major Lawsuits](https://www.youtube.com/watch?v=4Gmd5UTF4rk)**
-
-(0:00) Bestie intros!: Friedberg for Governor of California? (2:25) Anthropic's generational run (15:45) OpenAI: getting focused or ...
-
-📺 All-In Podcast
-
-👁️ 281K • 👍 6K • 💬 889 • ⏱️ 1:20:11 • 1d ago
+👁️ 180K • 👍 8K • 💬 2K • ⏱️ 32:39 • 1d ago
 
 ---
 
-**[The AI Collapse is Starting](https://www.youtube.com/watch?v=GSpqX7We5hk)**
+**[Anyone Can Now Start Making AI Videos - Higgsfield Cinema Studio 2.5](https://www.youtube.com/watch?v=T4OB2nXq8HI)**
 
-OpenAI has just shut down the Sora 2 AI video app. Yes, the great AI desloppening has begun! ARTICLES: ...
+Check Out Higgsfield Cinema Studio 2.5 https://youricreates.com/ai-filmmaking In this video, I break down how Higgsfield ...
 
-📺 SAMTIME
+📺 Youri van Hofwegen
 
-👁️ 178K • 👍 13K • 💬 1K • ⏱️ 2:49 • 1d ago
+👁️ 9K • 💬 14 • ⏱️ 9:42 • 3h ago
 
 ---
 
@@ -387,7 +387,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 280,522 • ❤️ 1,553 • 5d ago
+⬇️ 280,522 • ❤️ 1,560 • 5d ago
 
 ---
 
@@ -399,7 +399,7 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 `text-to-speech`
 
-⬇️ 2,447 • ❤️ 439 • 2d ago
+⬇️ 2,447 • ❤️ 444 • 2d ago
 
 ---
 
@@ -411,7 +411,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 20,049 • ❤️ 395 • 1d ago
+⬇️ 20,049 • ❤️ 427 • 1d ago
 
 ---
 
@@ -423,7 +423,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 15,554 • ❤️ 567 • 3d ago
+⬇️ 15,554 • ❤️ 568 • 3d ago
 
 ---
 
@@ -435,7 +435,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 518,613 • ❤️ 1,051 • 18d ago
+⬇️ 518,613 • ❤️ 1,052 • 18d ago
 
 ---
 
@@ -447,7 +447,7 @@ daVinci-MagiHuman is a fast, single-stream Transformer model for generating high
 
 `image-to-video`
 
-⬇️ 466 • ❤️ 233 • 4d ago
+⬇️ 466 • ❤️ 239 • 4d ago
 
 ---
 
@@ -459,7 +459,7 @@ Context-1 is a 20B parameter agentic search model that decomposes complex querie
 
 `20.9B`
 
-⬇️ 1,089 • ❤️ 219 • 3d ago
+⬇️ 1,089 • ❤️ 223 • 3d ago
 
 ---
 
@@ -471,7 +471,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 74,832 • ❤️ 379 • 4d ago
+⬇️ 74,832 • ❤️ 390 • 4d ago
 
 ---
 
@@ -483,19 +483,19 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 101,380 • ❤️ 242 • 4d ago
+⬇️ 101,380 • ❤️ 244 • 4d ago
 
 ---
 
-**[OmniCoder-9B](https://huggingface.co/Tesslate/OmniCoder-9B)**
+**[Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF)**
 
-*Tesslate*
+*JIRONG*
 
-OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajectories from frontier models, excelling in complex reasoning, error recovery, and tool use with a 262K native context window.
+Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-tuned for enhanced reasoning capabilities using Claude 4.6 Opus Chain-of-Thought distillation. It excels at structured, step-by-step problem-solving within `<think>` tags, making it ideal for coding agents and complex task execution with improved autonomy and stability.
 
-`text-generation`
+`image-text-to-text` `26.9B`
 
-⬇️ 27,151 • ❤️ 515 • 16d ago
+⬇️ 639,881 • ❤️ 475 • 5d ago
 
 ---
 
@@ -527,6 +527,19 @@ Enhancements to the AgentScope platform improve scalability, efficiency, and eas
 
 ---
 
+**[AgentScope 1.0: A Developer-Centric Framework for Building Agentic
+  Applications](https://huggingface.co/papers/2508.16279)**
+
+*Dawei Gao, Zitao Li, Yuexiang Xie et al. (23 authors)*
+
+AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
+
+▲ 60 • 💬 4 • ⭐ 21,951 • 7mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
+
+---
+
 **[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
 
 *Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
@@ -538,19 +551,6 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 ▲ 144 • 💬 7 • ⭐ 25,913 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
-
----
-
-**[AgentScope 1.0: A Developer-Centric Framework for Building Agentic
-  Applications](https://huggingface.co/papers/2508.16279)**
-
-*Dawei Gao, Zitao Li, Yuexiang Xie et al. (23 authors)*
-
-AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
-
-▲ 60 • 💬 4 • ⭐ 21,714 • 7mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
 
 ---
 
@@ -623,7 +623,7 @@ Frontier large language models exhibit Internal Safety Collapse, where they gene
 
 daVinci-MagiHuman is an open-source audio-video generative model that synchronizes text, video, and audio through a single-stream Transformer architecture, achieving high-quality human-centric content generation with efficient inference capabilities.
 
-▲ 116 • 💬 5 • ⭐ 1,102 • 6d ago
+▲ 116 • 💬 5 • ⭐ 1,174 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.21986) • [💻 code](https://github.com/GAIR-NLP/daVinci-MagiHuman) • [🔗 project](https://huggingface.co/spaces/SII-GAIR/daVinci-MagiHuman)
 
@@ -639,7 +639,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 60.3k • 🔱 8.4k • 3d ago
+⭐ 60.4k • 🔱 8.4k • 3d ago
 
 ---
 
@@ -659,7 +659,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 13.2k • 🔱 719 • 2d ago
+⭐ 13.2k • 🔱 720 • 2d ago
 
 ---
 
@@ -669,7 +669,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 8.6k • 🔱 721 • 2h ago
+⭐ 8.7k • 🔱 724 • 1h ago
 
 ---
 
@@ -679,7 +679,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 7.4k • 🔱 1.1k • 11h ago
+⭐ 7.4k • 🔱 1.1k • 12h ago
 
 ---
 
@@ -689,7 +689,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 4.7k • 🔱 588 • 20h ago
+⭐ 4.9k • 🔱 604 • 22h ago
 
 ---
 
@@ -699,7 +699,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `claude-ai` `claude-skills` `llm` `prompt-engineering`
 
-⭐ 3.5k • 🔱 328 • 1d ago
+⭐ 3.6k • 🔱 341 • 1d ago
 
 ---
 
@@ -709,7 +709,7 @@ Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messag
 
 `Go`
 
-⭐ 3.5k • 🔱 307 • 15h ago
+⭐ 3.5k • 🔱 309 • 16h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-29T17:31:44.681700+00:00'
+updated: '2026-03-29T18:44:39.967330+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- news
 - social
 - cryptocurrency
-- news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 29, 2026 at 17:31 UTC  
+**Last Updated:** March 29, 2026 at 18:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,585.41
+### $66,406.98
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -6.0%  
-**30d:** -0.5%  
-**90d:** -24.6%  
-**1y:** -19.1%  
+**24h:** -0.6%  
+**7d:** -6.2%  
+**30d:** -0.7%  
+**90d:** -24.8%  
+**1y:** -19.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1327.85B
+**Market Cap:** $1329.04B
 Rank #1
 
-**Circulating Supply:** 20,008,759 BTC
+**Circulating Supply:** 20,008,800 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--47.4%
+-47.3%
 
 **All-Time Low:** $67.81
-+97683.5%
++97854.6%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Welcome to Bitcoin 2026 edition](https://www.reddit.com/r/Bitcoin/comments/1s6v37e/welcome_to_bitcoin_2026_edition/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 "I don't believe we shall have good money until we take it from the government. All we can do is, by a sly, roundabout way, introduce something they can't stop."
 
-10h ago
+11h ago
 
 ---
 
@@ -95,7 +95,7 @@ Rank #1
 
 Just stumbled on this shady operation where some influencer was pushing a site called crypllet or something similar. The whole pitch was basically "hey go make a wallet, load it up with crypto, then enter your seed words on our site to see if they've been leaked in any breaches" Like come on, anyone with half a brain knows you never enter your recovery phrase anywhere except when restoring an actual wallet. This is obviously just harvesting seed phrases to drain wallets later. Can't believe people might actually fall for this but I guess that's how these scams keep working The red flags are everywhere - why would you need to buy crypto first to check if words were compromised, and why would any legit service ask for your actual seed phrase instead of just a hash or something. Stay safe out there folks
 
-5h ago
+6h ago
 
 ---
 
@@ -103,7 +103,7 @@ Just stumbled on this shady operation where some influencer was pushing a site c
 
 Been thinking about this lately - whenever someone mentions how much they've made from Bitcoin, it usually just pisses people off instead of getting them interested Like when you tell someone you're up big, they don't think "wow what a smart move" they think "great, another thing I screwed up by not getting in earlier" Then instead of wanting to learn more they just write the whole thing off as a scam or bubble or whatever I've seen it happen so many times now. The louder someone gets about their portfolio gains, the more people around them start hating on crypto in general. It's not even about whether Bitcoin is good or bad at that point, it's just human nature getting in the way Probably better to just keep your mouth shut and let your actions speak for themselves
 
-6h ago
+7h ago
 
 ---
 
@@ -111,15 +111,7 @@ Been thinking about this lately - whenever someone mentions how much they've mad
 
 I invested $4000 into crypto yesterday. Should I start dollar cost averaging the rest of the way or should I sell and wait for a bigger dip?
 
-23h ago
-
----
-
-**[Young and worried about where to put my energy](https://www.reddit.com/r/Bitcoin/comments/1s6vtj4/young_and_worried_about_where_to_put_my_energy/)**
-
-hey everyone, just need to get this off my chest and maybe get some input i'm 28 and work as a culinary instructor but lately i've been really anxious about everything going on. the economy feels unstable, traditional savings seem pointless with inflation, and even my field might change with all this new tech coming out been hearing more about bitcoin as something that could actually hold value long term. i know the basics but have never actually bought any or figured out how to get started properly. part of me wants to put some of my savings into it instead of just letting it sit in regular accounts losing value anyone here started investing when they felt overwhelmed by all the economic uncertainty? i prep my own food and try to be self sufficient in other ways but feel like i'm missing something important with bitcoin. would love to hear how others got past the initial confusion and actually took the step to buy some thanks for any guidance
-
-3h ago
+1d ago
 
 ---
 
@@ -127,7 +119,15 @@ hey everyone, just need to get this off my chest and maybe get some input i'm 28
 
 Canyoning guide Mario accepts Bitcoin. Creating visibility for Bitcoin businesses – project launched. Feedback? https://btcmap.org/merchant/36666
 
-1h ago
+2h ago
+
+---
+
+**[Young and worried about where to put my energy](https://www.reddit.com/r/Bitcoin/comments/1s6vtj4/young_and_worried_about_where_to_put_my_energy/)**
+
+hey everyone, just need to get this off my chest and maybe get some input i'm 28 and work as a culinary instructor but lately i've been really anxious about everything going on. the economy feels unstable, traditional savings seem pointless with inflation, and even my field might change with all this new tech coming out been hearing more about bitcoin as something that could actually hold value long term. i know the basics but have never actually bought any or figured out how to get started properly. part of me wants to put some of my savings into it instead of just letting it sit in regular accounts losing value anyone here started investing when they felt overwhelmed by all the economic uncertainty? i prep my own food and try to be self sufficient in other ways but feel like i'm missing something important with bitcoin. would love to hear how others got past the initial confusion and actually took the step to buy some thanks for any guidance
+
+4h ago
 
 ---
 
@@ -135,7 +135,7 @@ Canyoning guide Mario accepts Bitcoin. Creating visibility for Bitcoin businesse
 
 Where would you put new money right now—into BTC or keeping it as cash?
 
-9h ago
+11h ago
 
 ---
 
@@ -149,7 +149,7 @@ Where would you put new money right now—into BTC or keeping it as cash?
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-11h ago
+12h ago
 
 ---
 
@@ -169,29 +169,37 @@ NBC News • 1d ago
 
 The average public miner spent $79,995 to produce one bitcoin last quarter. Bitcoin is trading at $70,000. The math doesn't work, so the industry is pivoting to AI, taking on $70 billion in contracts, and liquidating bitcoin treasuries to finance the shift.
 
-CoinDesk • 1d ago
+coindesk.com • 1d ago
 
 ---
 
-**[Bitcoin Setting Up For A Sell Signal, Says Legendary Trader, But Where Exactly Is The Bottom?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-setting-sell-signal-says-123159834.html)**
+**[Bitcoin ETFs Pull In $56B As CEO Pitches Crypto Over Gold](https://www.tradingview.com/news/newsbtc:9d12a8f8f094b:0-bitcoin-etfs-pull-in-56b-as-ceo-pitches-crypto-over-gold/)**
 
-Veteran trader and chartist Peter Brandt flagged a pattern on Thursday signaling weakening bullish momentum for Bitcoin. Another Wave Of Selling? Brandt, a technical analyst with nearly 50 years of experience, highlighted a rising wedge formation—a bearish technical analysis pattern...
+Institutional money has been pouring into Bitcoin at a scale that would have seemed far-fetched just a few years ago. Since the launch of Bitcoin exchange-traded funds, roughly $56 billion has flowed in from asset managers around the world — a shift that Bitmine CEO Tom Lee says is changing how ser…
 
-Yahoo Finance • 4h ago
-
----
-
-**[Institutions are paying Bitcoin custodians for the privilege of added risk](https://www.tradingview.com/news/cointelegraph:790acb9da094b:0-institutions-are-paying-bitcoin-custodians-for-the-privilege-of-added-risk/)**
-
-Opinion by: Kevin Loaec, CEO of WizardsardineFor decades, institutions have followed a familiar pattern when managing assets. They choose a large, regulated custodian. Then, institutions transfer responsibility. Institutions rely on the assumption that scale, compliance and insurance equate to safe…
-
-TradingView • 5h ago
+TradingView • 3h ago
 
 ---
 
 **[GameStop Bitcoin Strategy: $315M Moved to Covered Calls via Coinbase Prime - News and Statistics](https://www.indexbox.io/blog/gamestop-reclassifies-315m-bitcoin-holdings-through-covered-call-strategy/)**
 
-IndexBox • 2h ago
+IndexBox • 3h ago
+
+---
+
+**[Bitcoin Price: Bitcoin Slips to $66,000 — What Happens If the $66K Support Breaks?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-bitcoin-slips-66-163029515.html)**
+
+Bitcoin (CRYPTO: BTC)) has lost nearly half its value since peaking at $126,000 in October 2025. The drop has taken the BTC through $100,000, $80,000, and $70,000, but every time the Bitcoin price has reached the $66,000 support level, buyers have shown up and pushed it back. The support is being tested right now as ... Bitcoin Price: Bitcoin Slips to $66,000 — What Happens If the $66K Support Breaks?
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Forget Bitcoin: This Crypto Is the Smarter Buy Right Now](https://www.fool.com/investing/2026/03/27/forget-bitcoin-this-crypto-is-the-smarter-buy-righ/)**
+
+Solana could generate bigger near-term gains than the top cryptocurrency.
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -201,31 +209,23 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin faces $14 billion options expiry while Middle East turmoil mounts](https://fortune.com/2026/03/26/bitcoin-faces-14-billion-options-expiry-while-middle-east-turmoil-mounts/)**
-
-The quarterly rollover—which wipes out close to 40% of open positions on the dominant Deribit exchange—comes while U.S. President Donald Trump is threatening Iran with intensified military action.
-
-Fortune • 2d ago
-
----
-
-**[Analysts issue stark Bitcoin warning after largest 2026 options expiry](https://finance.yahoo.com/markets/crypto/articles/analysts-issue-stark-bitcoin-warning-201914306.html)**
-
-Top crypto options exchange Deribit settled Bitcoin (BTC) options worth $14.16 billion at 08:00 UTC on March 27. The largest option expiry in 2026 wiped out around 40% of open positions on the exchange, and it took place amidst the war between the ...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin Price Today: Why Cryptos Including XRP Are Falling Fast](https://www.barrons.com/articles/bitcoin-xrp-crypto-price-today-f98eeaec?gaa_at=eafs&gaa_n=AWEtsqc1V27ed7MqtLvqrCyM1Iek6W4HdgXyiZyiLFJuPahPxrfyBqkhkhrP&gaa_ts=69c9589c&gaa_sig=1cqDUdJG2AslmXnJoyc1g3fJ8WDhOeKliUpflXNebKUzeptkhoDhM21yssnAwl_eoSqbQEoHC531QrebZxgrbA%3D%3D)**
-
-Barron's • 2d ago
-
----
-
 **[Goldman Sachs Just Quietly Called The Bitcoin Price Bottom—But There’s A Nasty Catch](https://www.forbes.com/sites/digital-assets/2026/03/28/goldman-sachs-just-quietly-called-the-bitcoin-price-bottom-but-theres-a-nasty-catch/)**
 
 Forbes • 1d ago
+
+---
+
+**[5 long, loud years: Neighbor, county leader ready for Bitcoin mine shutdown](https://www.wjhl.com/news/local/5-long-loud-years-neighbor-county-leader-ready-for-bitcoin-mine-shutdown/)**
+
+WJHL • 2d ago
+
+---
+
+**[The End Of Bitcoin Will Be Its New Beginning (Cryptocurrency: BTC-USD)](https://seekingalpha.com/article/4886535-the-end-of-bitcoin-will-be-its-new-beginning)**
+
+Bitcoin is no longer driven by scarcity-based models; its price now tracks demand dynamics and correlates with high-beta tech indices. Learn more about BTC-USD here.
+
+Seeking Alpha • 2d ago
 
 ---
 
@@ -265,23 +265,13 @@ runs multiple inputs through a script/function in parallel using bash coprocs - 
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Is Screaming Something Terrifying Right Now - Arthur Hayes Warns!](https://www.youtube.com/watch?v=aLMVhtOVVYk)**
+**[Bitcoin Has FOREVER CHANGED... And Investors NEED To Understand How](https://www.youtube.com/watch?v=YfsZr90verI)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+Once upon a time, Bitcoin used to have god candles (and epic crashes) all on its own — no matter what stocks or gold did.
 
-📺 Savvy Finance
+📺 From The Desk Of Anthony Pompliano
 
-👁️ 6K • 👍 212 • 💬 30 • ⏱️ 18:06 • 15h ago
-
----
-
-**[JUST IN: Trump&#39;s Bitcoin Bombshell — USA Declared Global Crypto Superpower In Historic Announcement](https://www.youtube.com/watch?v=rmPft3_O_-U)**
-
-IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
-
-📺 The Kenzo Guy
-
-👁️ 6K • 👍 360 • 💬 29 • ⏱️ 29:43 • 18h ago
+👁️ 30K • 👍 2K • 💬 160 • ⏱️ 8:32 • 1d ago
 
 ---
 
@@ -291,27 +281,7 @@ Clarity act for bitcoin and crypto is turning into a disaster. Follow Eric - htt
 
 📺 Digital Asset News
 
-👁️ 29K • 👍 2K • 💬 292 • ⏱️ 23:11 • 22h ago
-
----
-
-**[Bitcoin Has FOREVER CHANGED... And Investors NEED To Understand How](https://www.youtube.com/watch?v=YfsZr90verI)**
-
-Once upon a time, Bitcoin used to have god candles (and epic crashes) all on its own — no matter what stocks or gold did.
-
-📺 From The Desk Of Anthony Pompliano
-
-👁️ 30K • 👍 2K • 💬 190 • ⏱️ 8:32 • 1d ago
-
----
-
-**[Something Big is Going to Happen on Bitcoin (here&#39;s how to prepare)](https://www.youtube.com/watch?v=LUEsxFQpa0c)**
-
-Something big is going to happen on bitcoin and we discuss with analyst Benjamin Cowen the key charts that matter right now on ...
-
-📺 Alessio Rastani
-
-👁️ 57K • 👍 4K • 💬 629 • ⏱️ 24:30 • 1d ago
+👁️ 31K • 👍 2K • 💬 300 • ⏱️ 23:11 • 23h ago
 
 ---
 
@@ -321,7 +291,47 @@ Bitcoin may not be breaking down all at once, but the structure is starting to w
 
 📺 Benjamin Cowen
 
-👁️ 85K • 👍 6K • 💬 317 • ⏱️ 26:12 • 1d ago
+👁️ 89K • 👍 6K • 💬 330 • ⏱️ 26:12 • 1d ago
+
+---
+
+**[Bitcoin Is Screaming Something Terrifying Right Now - Arthur Hayes Warns!](https://www.youtube.com/watch?v=aLMVhtOVVYk)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 7K • 👍 248 • 💬 30 • ⏱️ 18:06 • 16h ago
+
+---
+
+**[Something Big is Going to Happen on Bitcoin (here&#39;s how to prepare)](https://www.youtube.com/watch?v=LUEsxFQpa0c)**
+
+Something big is going to happen on bitcoin and we discuss with analyst Benjamin Cowen the key charts that matter right now on ...
+
+📺 Alessio Rastani
+
+👁️ 62K • 👍 4K • 💬 613 • ⏱️ 24:30 • 1d ago
+
+---
+
+**[JUST IN: Trump&#39;s Bitcoin Bombshell — USA Declared Global Crypto Superpower In Historic Announcement](https://www.youtube.com/watch?v=rmPft3_O_-U)**
+
+IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
+
+📺 The Kenzo Guy
+
+👁️ 7K • 👍 392 • 💬 35 • ⏱️ 29:43 • 20h ago
+
+---
+
+**[Steal This Billionaire Money Strategy… Use Bitcoin to Buy a Home!](https://www.youtube.com/watch?v=dQUfopAG0UY)**
+
+Bitcoin just crossed a line no one saw coming. For the first time, you can use it as collateral to buy a home without selling.
+
+📺 Simply Bitcoin
+
+👁️ 19K • 👍 1K • 💬 154 • ⏱️ 15:31 • 1d ago
 
 ---
 
@@ -331,37 +341,27 @@ all my life is bitcoin, literally. I had moments where I thought I was ruining m
 
 📺 BTC Isla
 
-👁️ 21K • 👍 2K • 💬 443 • ⏱️ 10:32 • 2d ago
+👁️ 22K • 👍 2K • 💬 359 • ⏱️ 10:32 • 2d ago
 
 ---
 
-**[Why Bitcoin REFUSES To Pump — Plan B Just Explained Everything You Need To Know](https://www.youtube.com/watch?v=0vofWVf4AOo)**
+**[0.1 Bitcoin Will Truly Change Your Life (NOT Hyperbole)](https://www.youtube.com/watch?v=njksGkpY-Gg)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+Owning 0.1 Bitcoin will change your life. And I'm not talking about getting rich overnight. I'm talking about the stress that ...
 
-📺 Savvy Finance
+📺 Brad Long
 
-👁️ 3K • 👍 156 • 💬 1 • ⏱️ 15:15 • 1d ago
-
----
-
-**[BITCOIN IS ABOUT TO DROP !!! [Bear Flag Confirmed]](https://www.youtube.com/watch?v=g9RMlYp0Wgc)**
-
-LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES BTCC: https://cryptokid.io/BTCC 20% DEPOSIT BONUS ...
-
-📺 Crypto Kid
-
-👁️ 3K • 👍 303 • 💬 100 • ⏱️ 13:44 • 7h ago
+👁️ 12K • 👍 450 • 💬 80 • ⏱️ 17:03 • 1d ago
 
 ---
 
-**[Broke Guy Builds Solar Bitcoin Mining Shed!](https://www.youtube.com/watch?v=0-B02p3OfmU)**
+**[Why Bitcoin Could Hit All-Time Highs Again in 2026](https://www.youtube.com/watch?v=TvR7W-Q7J1M)**
 
-Best Beginner Commercial ASIC! (Coupon Code Hustler) https://geni.us/OZ5G Check out Home Bitcoin Miners! (Coupon Code ...
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
-📺 Tech Hustler
+📺 Anthony Pompliano
 
-👁️ 254 • 👍 10 • ⏱️ 2:57 • 3h ago
+👁️ 51K • 👍 2K • 💬 17 • ⏱️ 45:04 • 1d ago
 
 ---
 
