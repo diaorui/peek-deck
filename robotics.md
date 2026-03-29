@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-29T16:37:05.700133+00:00'
+updated: '2026-03-29T17:31:44.691183+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 29, 2026 at 16:37 UTC  
+**Last Updated:** March 29, 2026 at 17:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 "We fine-tuned π0, a VLA model pretrained entirely on manipulators, to fly a drone that picks up objects, navigates through gates, and composes both skills from language commands." Stanford MSL on 𝕏: https://x.com/StanfordMSL/status/2037760965228556431 π, But Make It Fly: Physics-Guided Transfer of VLA Models to Aerial Manipulation arXiv:2603.25038 [cs.RO]: https://arxiv.org/abs/2603.25038 Project page: https://airvla.github.io/
 
-3h ago
+4h ago
 
 ---
 
 **[Who runs out of battery first decides the future](https://www.reddit.com/r/robotics/comments/1s6566h/who_runs_out_of_battery_first_decides_the_future/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -50,7 +50,7 @@ Robotics research and industry news
 
 Hi everyone, I'm currently working on building a humanoid robot aimed at industrial automation. Right now, I'm trying to figure out where such a system could realistically be deployed early and actually deliver value and build a real business around it! Which industries or factory environments do you think are: Already semi-structured (but still rely on human labor)? Facing labor shortages or high turnover? Open to adopting early-stage robotic systems? For inspections etc. I'm especially interested in tasks that humanoid robots could handle better than fixed automation. Would love to hear your thoughts, examples, or even specific factories/use cases I should look into.
 
-27m ago
+1h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hi everyone, I'm currently working on building a humanoid robot aimed at industr
 
 tengo en mente un protecto que parece que será simple aunque yo desconozco totalmente sobre la robótica etc... si alguien pudiera ayudarme estaria más que agradecido ya tengo Arduino y etc aunque no se usarlo :(
 
-1h ago
+2h ago
 
 ---
 
@@ -74,7 +74,7 @@ TechCrunch: Physical Intelligence is reportedly in talks to raise $1 billion, ag
 
 Im 15yr hobbyist , my 2nd project self funded. this project is currently in alpha stage .made using foamboard and used wooden blocks for strength, i will add robotic arm for my next phase (on top of it). used arduino UNO r3, 4TT motor, TB6612FNG driver. IR receiver for Remote control, can be controlled manually or turn on obstacle avoidance mode. more info in my GitHub: https://github.com/Ajaz-6O7/Rover-Project
 
-18h ago
+19h ago
 
 ---
 
@@ -82,7 +82,7 @@ Im 15yr hobbyist , my 2nd project self funded. this project is currently in alph
 
 Can anybody identify these ball joints in these two wrists and any useful analysis of these, they are from ross-hime designs. Inc web Here is the web: https://www.anthrobot.com/omni-wrist-vi/
 
-18h ago
+19h ago
 
 ---
 
@@ -90,7 +90,7 @@ Can anybody identify these ball joints in these two wrists and any useful analys
 
 For the robot arm, we're running a segmentation model that benchmarks at a rock-solid 20fps on an Nvidia RTX 5060 Ti. In this video, we're keeping the rover locked onto the target using Image-Based Visual Servoing (IBVS) and a simple proportional controller.
 
-22h ago
+23h ago
 
 ---
 
@@ -124,7 +124,7 @@ Bloomberg.com • 1d ago
 
 In the musical experiment, violinists wore lightweight robotic exoskeletons attached to their bow-playing arms, which delivered subtle changes to their natural movements.
 
-Euronews.com • 10h ago
+Euronews.com • 11h ago
 
 ---
 
@@ -132,7 +132,7 @@ Euronews.com • 10h ago
 
 Serve Robotics and Coco Robotics delivery robots reportedly crashed into Chicago bus shelters days apart, shattering glass with no injuries reported.
 
-Fox Business • 19h ago
+Fox Business • 20h ago
 
 ---
 
@@ -164,7 +164,7 @@ IEEE Spectrum • 2d ago
 
 Researchers from Northwestern University have developed robots called "metamachines" that are composed of other robots.
 
-Futurism • 23h ago
+Futurism • 1d ago
 
 ---
 
@@ -172,7 +172,7 @@ Futurism • 23h ago
 
 Amazon's humanoid bet isn't about competing with Tesla's factory robots. Its about quietly building the operating system for the home.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
