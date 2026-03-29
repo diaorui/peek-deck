@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-28T23:32:54.454925+00:00'
+updated: '2026-03-29T02:33:29.664362+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - social
-- videos
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 28, 2026 at 23:32 UTC  
+**Last Updated:** March 29, 2026 at 02:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,007.23
+### $1,998.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
-**7d:** -2.9%  
-**30d:** +3.3%  
-**90d:** -32.2%  
-**1y:** +9.0%  
+**24h:** +0.6%  
+**7d:** -7.0%  
+**30d:** +1.9%  
+**90d:** -32.7%  
+**1y:** +10.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $240.76B
+**Market Cap:** $241.89B
 Rank #2
 
-**Circulating Supply:** 120,691,485 ETH
+**Circulating Supply:** 120,691,470 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.6%
+-59.5%
 
 **All-Time Low:** $0.43
-+460938.5%
++462610.7%
 
 ---
 
@@ -72,15 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
-
----
-
-**[ETH whale transactions up 1500% in 3 days while everyone is panicking](https://www.reddit.com/r/ethereum/comments/1s6fbdv/eth_whale_transactions_up_1500_in_3_days_while/)**
-
-whales going absolutely nuts while everyone else panic sells. classic.
-
-🔗 [Web3Flash](https://web3flash.com/news/27497) • 7m ago
+21h ago
 
 ---
 
@@ -88,7 +80,7 @@ whales going absolutely nuts while everyone else panic sells. classic.
 
 Effective March 25, 2026, Pier Two Holdings Pty Ltd has been wholly acquired by Bitmine Immersion Technologies, Inc (NYSE: BMNR)
 
-🔗 [piertwo.com](https://piertwo.com/insights/pier-two-is-joining-mavan-a-bitmine-company) • 19h ago
+🔗 [piertwo.com](https://piertwo.com/insights/pier-two-is-joining-mavan-a-bitmine-company) • 22h ago
 
 ---
 
@@ -142,7 +134,15 @@ Source: https://www.coingecko.com/learn/real-world-assets-rwa-buy-on-chain RWAs 
 
 Working on a little side project that turns etherscan data into readable risk. If you analyzed a wallet recently I’d love to compare your assessment to my engine’s output and see where it’s wrong and right, thanks
 
-1d ago
+2d ago
+
+---
+
+**[Daily General Discussion March 26, 2026](https://www.reddit.com/r/ethereum/comments/1s3yazd/daily_general_discussion_march_26_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+2d ago
 
 ---
 
@@ -162,7 +162,7 @@ The Block • 1d ago
 
 Bitcoin fell alongside stocks as investors weighed conflicting accounts regarding Iran’s willingness to end conflict in the Middle East.
 
-Decrypt • 2d ago
+decrypt.co • 2d ago
 
 ---
 
@@ -170,11 +170,27 @@ Decrypt • 2d ago
 
 Across many of the most well-known ecosystems like Bitcoin, Ethereum, and Solana, responses are diverging along familiar lines: what to do on social consensus and technical iteration, and community members are split between caution and acceleration.
 
-CoinDesk • 7h ago
+CoinDesk • 10h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqfeSTuBEkl1DUDRdviixA1d2K9iBspupSFvJMUnQKowTKaiEFJ-kXR8&gaa_ts=69c86893&gaa_sig=s9ZwRjQW_EWejjRDAR-7-oXc11zt2v8itKBbo57ggWreml610xNP5km184DXKxbwfht2Ua0cyyfjWQ3jlPTpAg%3D%3D)**
+**[Ethereum and Solana Just Got a Huge Catalyst. Should You Buy Them With $1,000?](https://www.fool.com/investing/2026/03/27/ethereum-and-solana-just-got-a-huge-catalyst-shoul/)**
+
+These two coins now have fewer obstacles blocking their growth.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Largest Ethereum holder launches ‘Made in America’ staking platform](https://sg.finance.yahoo.com/news/largest-ethereum-holder-launches-made-233000586.html)**
+
+Bitmine holds over 4.6 million ETH, valued at $10 billion.MAVAN aims to become the largest Ethereum staking platform globallyStaking strategy could generate $300M annual rewards Tom Lee's Bitmine Immersion Technologies (NYSE: BMNR) is making a bold move to cement its position in the ...
+
+Yahoo Finance Singapore • 3d ago
+
+---
+
+**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqclVzsJKRuYcAbvCrrPIOQSSiYwAunPPPvUVaCJqILaiMDbG2EwAJP5&gaa_ts=69c892e1&gaa_sig=qqZ8AFbKTB1nIvkebvoEsxsmO-EAICdC4vKi3fC89zV1JKCQ8efWwexMHVMmbjqQmrZHsRXg2Wm5hURlbR-xcg%3D%3D)**
 
 Barron's • 2d ago
 
@@ -182,15 +198,15 @@ Barron's • 2d ago
 
 **[PANINI BLOCKCHAIN BRIDGE TO OPEN FOR BUSINESS](https://blog.paniniamerica.net/panini-blockchain-bridge-to-open-for-business/)**
 
-Panini America • 1d ago
+blog.paniniamerica.net • 1d ago
 
 ---
 
-**[First BlackRock, now Bitmine. Will Tom Lee’s Ethereum staking play save share price?](https://finance.yahoo.com/markets/crypto/articles/first-blackrock-now-bitmine-tom-100422887.html)**
+**[Ethereum Sets User Record As Price Lags Far Behind Network Growth](https://www.tradingview.com/news/newsbtc:dc277ef46094b:0-ethereum-sets-user-record-as-price-lags-far-behind-network-growth/)**
 
-The Made In America VAlidator Network, Bitmine’s Ethereum staking product, is now live. Over 30% of Ethereum’s total circulating supply is now staked. Bitmine's shares are down 66% since October.
+BlackRock’s staked Ethereum fund pulled in $155 million on its first day of trading — more than the firm’s own Bitcoin ETF managed at launch. That number tells one part of Ethereum’s story in early 2026.The other part is harder to spin: the token itself has dropped more than 55% from its August 202…
 
-Yahoo Finance • 2d ago
+TradingView • 16h ago
 
 ---
 
@@ -202,27 +218,9 @@ Fortune • 1d ago
 
 ---
 
-**[Ethereum vs. Solana: Which Crypto Has More Upside?](https://www.fool.com/investing/2026/03/28/ethereum-vs-solana-which-crypto-has-more-upside/)**
+**[Ethereum Exodus or Opportunity? Franklin’s EZET Sees Cash Outflow as ETH Shows a Flicker of Strength](https://www.tipranks.com/news/cryptocurrencies/ethereum-exodus-or-opportunity-franklins-ezet-sees-cash-outflow-as-eth-shows-a-flicker-of-strength)**
 
-Ethereum's vast ecosystem goes up against Solana's lightning-quick network.
-
-fool.com • 13h ago
-
----
-
-**[Bitcoin And Ethereum Outlook: Too Soon For A Crypto Bounce (BTC-USD)](https://seekingalpha.com/article/4886411-bitcoin-ethereum-outlook-too-soon-for-crypto-bounce)**
-
-While cryptos offer diversification from traditional asset movements, they are also highly sensitive to the gravity of risk aversion
-
-Seeking Alpha • 1d ago
-
----
-
-**[Ethereum Price Drops Near $2,020, Downside Pressure Continues to Build](https://www.tradingview.com/news/newsbtc:fd05ea531094b:0-ethereum-price-drops-near-2-020-downside-pressure-continues-to-build/)**
-
-Ethereum price failed to clear the $2,200 zone and declined. ETH is now consolidating above $2,020 and might struggle to start a recovery wave.Ethereum Price Dips FurtherEthereum price failed to stay above $2,150 and started a fresh decline, like Bitcoin. ETH price dipped below $2,120 and $2,080 to…
-
-TradingView • 1d ago
+TipRanks • 9h ago
 
 ---
 
@@ -236,17 +234,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 3K • 👍 112 • 💬 25 • ⏱️ 11:06 • 9h ago
-
----
-
-**[LIVE: Elon Musk Reveals TeraFab – Bitcoin, Ethereum &amp; Dogecoin Holders Must Watch!](https://www.youtube.com/watch?v=mHlwpoBD5YE)**
-
-Elon Musk is live right now revealing Terafab, the revolutionary project from Tesla, SpaceX, and xAI that could completely change ...
-
-📺 Fish & Trips
-
-👁️ 3K • 👍 2K • 20m ago
+👁️ 3K • 👍 129 • 💬 27 • ⏱️ 11:06 • 12h ago
 
 ---
 
@@ -256,7 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 78 • 💬 2 • ⏱️ 3:58 • 10h ago
+👁️ 1K • 👍 78 • 💬 2 • ⏱️ 3:58 • 13h ago
 
 ---
 
@@ -266,7 +254,7 @@ BITCOIN BOUNCE CONFIRMED (But Don't be FOOLED)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 782 • 👍 66 • 💬 49 • ⏱️ 16:16 • 59m ago
+👁️ 2K • 👍 154 • 💬 153 • ⏱️ 16:16 • 3h ago
 
 ---
 
@@ -276,7 +264,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 3K • 👍 117 • 💬 28 • ⏱️ 38:10 • 1d ago
+👁️ 3K • 👍 123 • 💬 29 • ⏱️ 38:10 • 1d ago
 
 ---
 
@@ -286,27 +274,7 @@ VIP Access & Programs: https://highaltitudecrypto.com Free Crypto Ebook (Learn H
 
 📺 High Altitude Investing
 
-👁️ 1K • 👍 68 • 💬 21 • ⏱️ 10:43 • 2d ago
-
----
-
-**[BITCOIN &amp; ALTCOIN CRASH: Price Target Confirmed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=syRpSgtT8G8)**
-
-BITCOIN & ALTCOIN CRASH: Price Target Confirmed!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 301 • 💬 104 • ⏱️ 19:00 • 1d ago
-
----
-
-**[ETHEREUM PULLBACK WARNING!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=meqw0vZCai8)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 544 • 👍 16 • 💬 20 • ⏱️ 4:49 • 1d ago
+👁️ 1K • 👍 69 • 💬 21 • ⏱️ 10:43 • 2d ago
 
 ---
 
@@ -316,7 +284,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 209 • 👍 15 • ⏱️ 4:28 • 12h ago
+👁️ 227 • 👍 15 • 💬 1 • ⏱️ 4:28 • 15h ago
 
 ---
 
@@ -327,6 +295,36 @@ Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade
 📺 Crossroads
 
 👁️ 8K • 👍 310 • 💬 56 • ⏱️ 15:03 • 2d ago
+
+---
+
+**[BITCOIN &amp; ALTCOIN CRASH: Price Target Confirmed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=syRpSgtT8G8)**
+
+BITCOIN & ALTCOIN CRASH: Price Target Confirmed!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 302 • 💬 111 • ⏱️ 19:00 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=Cllu9tzXNfM)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 757 • 👍 63 • ⏱️ 5:50 • 11h ago
+
+---
+
+**[ETHEREUM IS STILL BULLISH 📈 MARCH 27 $ETH](https://www.youtube.com/watch?v=kb2lWISXiAo)**
+
+ETHEREUM IS STILL BULLISH MARCH 27 $ETH.
+
+📺 Overkill Trading
+
+👁️ 861 • 👍 38 • 💬 2 • ⏱️ 2:59 • 1d ago
 
 ---
 
