@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-29T22:32:20.654929+00:00'
+updated: '2026-03-29T23:34:47.059393+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 29, 2026 at 22:32 UTC  
+**Last Updated:** March 29, 2026 at 23:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,639.80
+### $65,999.19
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** -6.3%  
-**30d:** -0.8%  
-**90d:** -24.9%  
-**1y:** -19.4%  
+**24h:** -0.5%  
+**7d:** -6.8%  
+**30d:** -1.3%  
+**90d:** -25.2%  
+**1y:** -19.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1332.57B
+**Market Cap:** $1319.36B
 Rank #1
 
-**Circulating Supply:** 20,008,862 BTC
+**Circulating Supply:** 20,008,903 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--47.2%
+-47.7%
 
 **All-Time Low:** $67.81
-+98125.9%
++97230.8%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Welcome to Bitcoin 2026 edition](https://www.reddit.com/r/Bitcoin/comments/1s6v37e/welcome_to_bitcoin_2026_edition/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 "I don't believe we shall have good money until we take it from the government. All we can do is, by a sly, roundabout way, introduce something they can't stop."
 
-15h ago
+16h ago
 
 ---
 
@@ -95,7 +95,7 @@ Rank #1
 
 been thinking about this lately since everything seems cheap right now and i keep wanting to throw more cash at btc curious what everyone else is doing with their allocation between crypto and the usual stuff like index funds, individual stocks, bonds etc what percentage are you running and why did you pick that split? im a dev so i tend to overthink these decisions but would love to hear different approaches also yes i use arch btw and my fantasy team is doing terrible this year but thats another story lol
 
-3h ago
+4h ago
 
 ---
 
@@ -103,7 +103,23 @@ been thinking about this lately since everything seems cheap right now and i kee
 
 BitcoinCurate.com — pulls headlines from 30+ sources including news, YouTube, podcasts and Reddit. Updated every 15 minutes. Dark mode available. Built by a non-AI human. Would love any feedback, please. I'm a Bitcoiner in the Boston area. thanks
 
-3h ago
+4h ago
+
+---
+
+**[hit my 2 btc milestone earlier than expected](https://www.reddit.com/r/Bitcoin/comments/1s7abne/hit_my_2_btc_milestone_earlier_than_expected/)**
+
+been dollar cost averaging for about 2.5 years now and this recent pullback let me reach 2 whole coins sooner than i thought. originally figured i wouldn't get there until around december. perfect time to stack more while prices are down. anyone else taking advantage of these levels? (already know about teh dm scammers so don't bother)
+
+12m ago
+
+---
+
+**[I backtested Dynamic DCA vs Regular DCA over the last 4 years](https://www.reddit.com/r/Bitcoin/comments/1s7a6i6/i_backtested_dynamic_dca_vs_regular_dca_over_the/)**
+
+I’d say DCA is by far the most advocated strategy on this sub. But it's common to see people suggesting adjustments to it. The goal is usually to buy more Bitcoin during dips, creating some form of “Dynamic DCA” based on indicators like drawdown. Although many people here are against changing the sacred DCA strategy, I think Dynamic DCA has its place. I mean, even River introduced “Supercharged” recurring buys, which is essentially a type of Dynamic DCA. So I decided to build a backtesting tool to see if Dynamic DCA is actually worth it. https://preview.redd.it/unzg55oxg2sg1.png?width=1881&format=png&auto=webp&s=b8888de6a48318a0b2b24bb73317edfbf7429f15 In this test I’m comparing two strategies over the last 4 years: a regular weekly DCA buy of $300 and a Dynamic DCA strategy based on drawdowns that works like this: - Base buy: $100 - Drawdown >= 25%: $300 - Drawdown >= 50%: $600 The result is impressive. The Dynamic DCA strategy almost doubles the return compared to the regular DCA. While the regular strategy ends up with around $103k and 1.55 BTC, the Dynamic version reaches about $153k and 2.31 BTC. All that while investing roughly the same amount of money. If you want to try it yourself and share some feedback, feel free to test it here. You can also experiment with other indicators like Fear & Greed or the Mayer Multiple.
+
+18m ago
 
 ---
 
@@ -111,7 +127,7 @@ BitcoinCurate.com — pulls headlines from 30+ sources including news, YouTube, 
 
 Markets are pretty rough right now with everything going on globally, but I'm trying to stay focused on the long-term picture. Things always seem to work themselves out eventually, even if the recovery process gets messy. Right now I'm treating every dip as a chance to add to my position. Been setting aside a portion of each paycheck and buying small amounts whenever we hit new local lows. No way to time the exact bottom obviously, but dollar cost averaging on the way down has worked well for me in the past. My productivity tracker app actually sends me alerts when the price drops more than 8% so I don't miss these windows. Might sound a bit obsessive but it's helped me stay disciplined about accumulating during volatile periods like this one.
 
-3h ago
+4h ago
 
 ---
 
@@ -119,7 +135,7 @@ Markets are pretty rough right now with everything going on globally, but I'm tr
 
 I feel like some parts seem simple at first, but then you realize there’s a lot more going on underneath. For me, there are still a few things that I had to go back and read multiple times before they started to make sense. Curious how it was for others, was there something that took you a while before it finally clicked?
 
-1h ago
+2h ago
 
 ---
 
@@ -127,37 +143,29 @@ I feel like some parts seem simple at first, but then you realize there’s a lo
 
 Just stumbled on this shady operation where some influencer was pushing a site called crypllet or something similar. The whole pitch was basically "hey go make a wallet, load it up with crypto, then enter your seed words on our site to see if they've been leaked in any breaches" Like come on, anyone with half a brain knows you never enter your recovery phrase anywhere except when restoring an actual wallet. This is obviously just harvesting seed phrases to drain wallets later. Can't believe people might actually fall for this but I guess that's how these scams keep working The red flags are everywhere - why would you need to buy crypto first to check if words were compromised, and why would any legit service ask for your actual seed phrase instead of just a hash or something. Stay safe out there folks
 
-10h ago
-
----
-
-**[Why bragging about Bitcoin profits backfires every time](https://www.reddit.com/r/Bitcoin/comments/1s6skwj/why_bragging_about_bitcoin_profits_backfires/)**
-
-Been thinking about this lately - whenever someone mentions how much they've made from Bitcoin, it usually just pisses people off instead of getting them interested Like when you tell someone you're up big, they don't think "wow what a smart move" they think "great, another thing I screwed up by not getting in earlier" Then instead of wanting to learn more they just write the whole thing off as a scam or bubble or whatever I've seen it happen so many times now. The louder someone gets about their portfolio gains, the more people around them start hating on crypto in general. It's not even about whether Bitcoin is good or bad at that point, it's just human nature getting in the way Probably better to just keep your mouth shut and let your actions speak for themselves
-
 11h ago
 
 ---
 
-**[Synchronization scam](https://www.reddit.com/r/Bitcoin/comments/1s786nm/synchronization_scam/)**
+**[Fact based research article with massive list of verifiable public sources about Bitcoin Core's role in the data spam debate](https://www.reddit.com/r/Bitcoin/comments/1s74rkk/fact_based_research_article_with_massive_list_of/)**
 
-Someone in my DMs is trying to get me to go on a website in order to synchronize my wallet. According to Google, synchronization is achieved simply by refreshing a wallet when I’m connected to the internet, within the wallet app. Anything else is a scam, right?
+Interesting read, highly recommended for Bitcoiners. Let's discuss. https://www.citadel21.com/the-network
 
-39m ago
-
----
-
-**[Young and worried about where to put my energy](https://www.reddit.com/r/Bitcoin/comments/1s6vtj4/young_and_worried_about_where_to_put_my_energy/)**
-
-hey everyone, just need to get this off my chest and maybe get some input i'm 28 and work as a culinary instructor but lately i've been really anxious about everything going on. the economy feels unstable, traditional savings seem pointless with inflation, and even my field might change with all this new tech coming out been hearing more about bitcoin as something that could actually hold value long term. i know the basics but have never actually bought any or figured out how to get started properly. part of me wants to put some of my savings into it instead of just letting it sit in regular accounts losing value anyone here started investing when they felt overwhelmed by all the economic uncertainty? i prep my own food and try to be self sufficient in other ways but feel like i'm missing something important with bitcoin. would love to hear how others got past the initial confusion and actually took the step to buy some thanks for any guidance
-
-8h ago
+3h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[MSTR may have paused it's BTC accumulation last week](https://www.coindesk.com/markets/2026/03/29/strategy-may-have-paused-bitcoin-accumulation-last-week-ending-a-thirteen-week-buying-streak)**
+
+The company seemed to have skipped it's weekly bitcoin purchase announcement for the first time since late december.
+
+coindesk.com • 5h ago
+
+---
 
 **[God and bitcoin: Why some Christians are going all in on cryptocurrency](https://www.nbcnews.com/tech/crypto/god-bitcoin-christians-pitch-crypto-church-rcna264787)**
 
@@ -167,19 +175,11 @@ NBC News • 1d ago
 
 ---
 
-**[Bitcoin miners are becoming AI companies and selling their BTC to fund the transition](https://www.coindesk.com/markets/2026/03/27/bitcoin-miners-are-becoming-ai-companies-and-selling-their-btc-to-fund-the-transition)**
-
-The average public miner spent $79,995 to produce one bitcoin last quarter. Bitcoin is trading at $70,000. The math doesn't work, so the industry is pivoting to AI, taking on $70 billion in contracts, and liquidating bitcoin treasuries to finance the shift.
-
-CoinDesk • 1d ago
-
----
-
 **[Bitcoin Setting Up For A Sell Signal, Says Legendary Trader, But Where Exactly Is The Bottom?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-setting-sell-signal-says-123159834.html)**
 
 Veteran trader and chartist Peter Brandt flagged a pattern on Thursday signaling weakening bullish momentum for Bitcoin. Another Wave Of Selling? Brandt, a technical analyst with nearly 50 years of experience, highlighted a rising wedge formation—a bearish technical analysis pattern...
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -191,7 +191,7 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Bitcoin Price Today: Why Cryptos Including XRP Are Falling Fast](https://www.barrons.com/articles/bitcoin-xrp-crypto-price-today-f98eeaec?gaa_at=eafs&gaa_n=AWEtsqe_HrWfkCvy2e72Y6sVeu2uMJPnKQYtoB6hV95W7dOSEvBd4Jzgqr6M&gaa_ts=69c9abe4&gaa_sig=kO8ezWNubIEmzaSk16GlBuAOUvViMDQOEnTpAcWWSSiz3_l_eKDJuNrOkAlFAhHiPkb_9tfP5XlhmJx7SNq9kA%3D%3D)**
+**[Bitcoin Price Today: Why Cryptos Including XRP Are Falling Fast](https://www.barrons.com/articles/bitcoin-xrp-crypto-price-today-f98eeaec?gaa_at=eafs&gaa_n=AWEtsqcZjiixeZRzZppIsa37dQLIIE0tVzf46GhBF5C7MOxVrxIT0doDRIlm&gaa_ts=69c9ba82&gaa_sig=HXEZW69o-nxcgTP5JAmx4a4SKDHNA9JBxSSjmwsh64OmsLUwYI4lALCwYcoKj_V2D0j_ZcCi9W6GXvn6FwYGRA%3D%3D)**
 
 Barron's • 2d ago
 
@@ -203,19 +203,19 @@ Forbes • 1d ago
 
 ---
 
-**[Institutions are paying Bitcoin custodians for the privilege of added risk](https://www.tradingview.com/news/cointelegraph:790acb9da094b:0-institutions-are-paying-bitcoin-custodians-for-the-privilege-of-added-risk/)**
-
-Opinion by: Kevin Loaec, CEO of WizardsardineFor decades, institutions have followed a familiar pattern when managing assets. They choose a large, regulated custodian. Then, institutions transfer responsibility. Institutions rely on the assumption that scale, compliance and insurance equate to safe…
-
-TradingView • 10h ago
-
----
-
 **[The End Of Bitcoin Will Be Its New Beginning (Cryptocurrency: BTC-USD)](https://seekingalpha.com/article/4886535-the-end-of-bitcoin-will-be-its-new-beginning)**
 
 Bitcoin is no longer driven by scarcity-based models; its price now tracks demand dynamics and correlates with high-beta tech indices. Learn more about BTC-USD here.
 
 Seeking Alpha • 2d ago
+
+---
+
+**[Institutions are paying Bitcoin custodians for the privilege of added risk](https://www.tradingview.com/news/cointelegraph:790acb9da094b:0-institutions-are-paying-bitcoin-custodians-for-the-privilege-of-added-risk/)**
+
+Opinion by: Kevin Loaec, CEO of WizardsardineFor decades, institutions have followed a familiar pattern when managing assets. They choose a large, regulated custodian. Then, institutions transfer responsibility. Institutions rely on the assumption that scale, compliance and insurance equate to safe…
+
+TradingView • 11h ago
 
 ---
 
@@ -241,7 +241,7 @@ Decrypt • 1d ago
 
 Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes were hidden in lost fishing rod case
 
-⬆️ 2 • 💬 1 • 4d ago • [The Irish Times](https://www.irishtimes.com/crime-law/2026/03/24/gardai-seize-bitcoin-valued-at-30m-in-cab-operation-supported-by-europol/)
+⬆️ 2 • 💬 1 • 5d ago • [The Irish Times](https://www.irishtimes.com/crime-law/2026/03/24/gardai-seize-bitcoin-valued-at-30m-in-cab-operation-supported-by-europol/)
 
 ---
 
@@ -267,7 +267,7 @@ runs multiple inputs through a script/function in parallel using bash coprocs - 
 
 **[Uni feels so usless, I cant focus anymore](https://news.ycombinator.com/item?id=47567925)**
 
-⬆️ 4 • 💬 0 • 22m ago
+⬆️ 6 • 💬 2 • 1h ago
 
 ---
 
@@ -281,17 +281,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 258 • 💬 30 • ⏱️ 18:06 • 20h ago
-
----
-
-**[Bitcoin Has FOREVER CHANGED... And Investors NEED To Understand How](https://www.youtube.com/watch?v=YfsZr90verI)**
-
-Once upon a time, Bitcoin used to have god candles (and epic crashes) all on its own — no matter what stocks or gold did.
-
-📺 From The Desk Of Anthony Pompliano
-
-👁️ 31K • 👍 2K • 💬 161 • ⏱️ 8:32 • 2d ago
+👁️ 8K • 👍 266 • 💬 30 • ⏱️ 18:06 • 21h ago
 
 ---
 
@@ -301,7 +291,17 @@ Clarity act for bitcoin and crypto is turning into a disaster. Follow Eric - htt
 
 📺 Digital Asset News
 
-👁️ 32K • 👍 2K • 💬 293 • ⏱️ 23:11 • 1d ago
+👁️ 32K • 👍 2K • 💬 298 • ⏱️ 23:11 • 1d ago
+
+---
+
+**[Bitcoin Has FOREVER CHANGED... And Investors NEED To Understand How](https://www.youtube.com/watch?v=YfsZr90verI)**
+
+Once upon a time, Bitcoin used to have god candles (and epic crashes) all on its own — no matter what stocks or gold did.
+
+📺 From The Desk Of Anthony Pompliano
+
+👁️ 32K • 👍 2K • 💬 182 • ⏱️ 8:32 • 2d ago
 
 ---
 
@@ -311,7 +311,17 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 8K • 👍 415 • 💬 42 • ⏱️ 29:43 • 23h ago
+👁️ 8K • 👍 430 • 💬 59 • ⏱️ 29:43 • 1d ago
+
+---
+
+**[FINAL WARNING to ALL Bitcoin &amp; Ethereum Investors!](https://www.youtube.com/watch?v=hzfc05Bphkk)**
+
+If you hold Bitcoin or Ethereum... watch this! (alert!) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC ...
+
+📺 Altcoin Daily
+
+👁️ 11K • 👍 969 • 💬 95 • ⏱️ 9:24 • 3h ago
 
 ---
 
@@ -321,7 +331,7 @@ Bitcoin may not be breaking down all at once, but the structure is starting to w
 
 📺 Benjamin Cowen
 
-👁️ 92K • 👍 6K • 💬 333 • ⏱️ 26:12 • 1d ago
+👁️ 94K • 👍 6K • 💬 336 • ⏱️ 26:12 • 1d ago
 
 ---
 
@@ -331,7 +341,17 @@ Something big is going to happen on bitcoin and we discuss with analyst Benjamin
 
 📺 Alessio Rastani
 
-👁️ 65K • 👍 4K • 💬 573 • ⏱️ 24:30 • 1d ago
+👁️ 67K • 👍 4K • 💬 591 • ⏱️ 24:30 • 1d ago
+
+---
+
+**[Top Economist: The unthinkable is about to happen to Bitcoin](https://www.youtube.com/watch?v=EJicZxhhzgc)**
+
+Learn 50+ years of Real Economics in only 7 weeks. Apply here: https://www.stevekeen.com/?video=EJicZxhhzgc (Apply this ...
+
+📺 ProfSteveKeen
+
+👁️ 17K • 👍 1K • 💬 178 • ⏱️ 10:57 • 4h ago
 
 ---
 
@@ -341,37 +361,17 @@ all my life is bitcoin, literally. I had moments where I thought I was ruining m
 
 📺 BTC Isla
 
-👁️ 22K • 👍 2K • 💬 411 • ⏱️ 10:32 • 2d ago
+👁️ 22K • 👍 2K • 💬 414 • ⏱️ 10:32 • 2d ago
 
 ---
 
-**[Steal This Billionaire Money Strategy… Use Bitcoin to Buy a Home!](https://www.youtube.com/watch?v=dQUfopAG0UY)**
+**[Is The Bitcoin Winter Over? | Why a Violent Market Crash May Already be in Motion!](https://www.youtube.com/watch?v=vtU0VTbZSU0)**
 
-Bitcoin just crossed a line no one saw coming. For the first time, you can use it as collateral to buy a home without selling.
+The market looks calm on the surface but the cracks are getting worse. From global conflict to gold selloffs and debt stress, the ...
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 121 • ⏱️ 15:31 • 2d ago
-
----
-
-**[This Chart PERFECTLY Predicted Bitcoin&#39;s Last 300 Days  $50K Is Next.](https://www.youtube.com/watch?v=zBReWv_D_nY)**
-
-One chart. 300 days. Every major Bitcoin move — called before it happened. And right now, that chart says something most ...
-
-📺 No Bs Crypto
-
-👁️ 3K • 👍 279 • 💬 113 • ⏱️ 11:01 • 4h ago
-
----
-
-**[BITCOIN IS ABOUT TO DROP !!! [Bear Flag Confirmed]](https://www.youtube.com/watch?v=g9RMlYp0Wgc)**
-
-LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES BTCC: https://cryptokid.io/BTCC 20% DEPOSIT BONUS ...
-
-📺 Crypto Kid
-
-👁️ 5K • 👍 408 • 💬 141 • ⏱️ 13:44 • 12h ago
+👁️ 2K • 👍 287 • 💬 43 • ⏱️ 12:24 • 1h ago
 
 ---
 

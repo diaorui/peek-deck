@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-29T22:32:20.660076+00:00'
+updated: '2026-03-29T23:34:47.064742+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 29, 2026 at 22:32 UTC  
+**Last Updated:** March 29, 2026 at 23:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,37 +42,45 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** -7.3%  
-**30d:** +1.5%  
-**90d:** -33.0%  
-**1y:** +10.5%  
+**24h:** -0.8%  
+**7d:** -7.8%  
+**30d:** +1.0%  
+**90d:** -33.3%  
+**1y:** +9.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $241.75B
+**Market Cap:** $239.45B
 Rank #2
 
 **Circulating Supply:** 120,691,470 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.5%
+-59.9%
 
 **All-Time Low:** $0.43
-+462728.5%
++458016.9%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Ethereum loan](https://www.reddit.com/r/ethereum/comments/1s79pr9/ethereum_loan/)**
+
+Borrowing against ETH surprised me in the best way. If you believe in ETH long-term like I do but still need liquidity right now, it makes a ton of sense. I didn’t want to risk any potential gains or create a taxable event, so I used а a portion of my ETH as collateral for a loan on Nexo. It’s similar to making a mortgage on your house, but with crypto, and it doesn’t involve the crazy paperwork. Holding $ETH is a conviction for me and selling now would feel like giving up on it. With the loan, I covered some expenses, reinvested a bit, and still kept my exposure. Plus, there are no rigid repayment schedules breathing down my neck, just pay back when I want. The whole process was fast and way less stressful than anything in traditional finance. Also feels like one of the boldest yet smartest moves I’ve made in crypto so far.
+
+38m ago
+
+---
+
 **[Daily General Discussion March 29, 2026](https://www.reddit.com/r/ethereum/comments/1s6m76c/daily_general_discussion_march_29_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -138,17 +146,17 @@ Source: https://www.coingecko.com/learn/real-world-assets-rwa-buy-on-chain RWAs 
 
 ---
 
-**[Are there any onchain risk analysts here?](https://www.reddit.com/r/ethereum/comments/1s4nt5c/are_there_any_onchain_risk_analysts_here/)**
-
-Working on a little side project that turns etherscan data into readable risk. If you analyzed a wallet recently I’d love to compare your assessment to my engine’s output and see where it’s wrong and right, thanks
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
+
+**[New Ethereum project aims to fix network fragmentation and improve user experience](https://www.coindesk.com/tech/2026/03/29/new-ethereum-project-aims-to-fix-network-fragmentation-and-improve-user-experience)**
+
+The project is designed to make Ethereum’s many layer 2s work together more seamlessly.
+
+coindesk.com • 8h ago
+
+---
 
 **[Ethereum vs. Solana: Which Crypto Has More Upside?](https://www.fool.com/investing/2026/03/28/ethereum-vs-solana-which-crypto-has-more-upside/)**
 
@@ -158,27 +166,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum Whale Activity Surges by 1,500% as Developers Launch Post-Quantum Security Team](https://zycrypto.com/ethereum-whale-activity-surges-by-1500-as-developers-launch-post-quantum-security-team/)**
-
-Ethereum saw a dramatic spike in whale activity, with transactions by large holders soaring from 123 on March 21 to 2,055 by March 24.
-
-ZyCrypto • 1d ago
-
----
-
 **[Gnosis and Zisk announce 'Ethereum Economic Zone' rollup framework with Ethereum Foundation co-funding](https://www.theblock.co/post/395578/gnosis-and-zisk-announce-ethereum-economic-zone-rollup-framework-with-ethereum-foundation-co-funding)**
 
 The Ethereum Foundation is co-funding the "easy" initiative, which was announced at EthCC in Cannes, and partners include Aave, Titan, Centrifuge, and more.
 
-The Block • 7h ago
-
----
-
-**[Crypto's quantum threat is real and its driving diverging strategies across Bitcoin, Ethereum, Solana](https://www.coindesk.com/tech/2026/03/28/here-s-how-bitcoin-ethereum-and-other-networks-are-preparing-for-the-looming-quantum-threat)**
-
-Across many of the most well-known ecosystems like Bitcoin, Ethereum, and Solana, responses are diverging along familiar lines: what to do on social consensus and technical iteration, and community members are split between caution and acceleration.
-
-CoinDesk • 1d ago
+The Block • 8h ago
 
 ---
 
@@ -194,7 +186,7 @@ Yahoo Finance • 1d ago
 
 Ethereum has rolled out a steady stream of upgrades since 2022. Here’s how those changes fit together—and what’s still ahead.
 
-Decrypt • 6h ago
+Decrypt • 7h ago
 
 ---
 
@@ -220,7 +212,15 @@ Panini America • 2d ago
 
 **[VanEck’s Ethereum ETF Hit by Sharp Redemptions as Ether Slides Below $2,000](https://www.tipranks.com/news/cryptocurrencies/vanecks-ethereum-etf-hit-by-sharp-redemptions-as-ether-slides-below-2000)**
 
-tipranks.com • 5h ago
+TipRanks • 6h ago
+
+---
+
+**[Weekend Round-Up: Crypto Exchange Gets Fed Approval, Ethereum Outperforms S&P 500 And More](https://www.benzinga.com/crypto/cryptocurrency/26/03/51529184/weekend-round-up-crypto-exchange-gets-fed-approval-ethereum-outperforms-sp-500-and-more)**
+
+BlackRock CEO Larry Fink earned $37.7 million in 2025 after a strong year marked by record $14 trillion AUM and solid earnings.
+
+Benzinga • 10h ago
 
 ---
 
@@ -234,17 +234,7 @@ If you hold Bitcoin or Ethereum... watch this! (alert!) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 5K • 👍 487 • 💬 45 • ⏱️ 9:24 • 2h ago
-
----
-
-**[Ethereum to $40,000 by 2030: Why ETH Could MASSIVELY Outperform Bitcoin](https://www.youtube.com/watch?v=4ZjG0_XW0DU)**
-
-Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
-
-📺 Milk Road
-
-👁️ 5K • 👍 172 • 💬 85 • ⏱️ 11:06 • 1d ago
+👁️ 11K • 👍 969 • 💬 95 • ⏱️ 9:24 • 3h ago
 
 ---
 
@@ -254,7 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 82 • 💬 1 • ⏱️ 3:36 • 5h ago
+👁️ 1K • 👍 76 • 💬 1 • ⏱️ 3:36 • 6h ago
 
 ---
 
@@ -264,7 +254,17 @@ People in the cryptocurrency space and world markets are about to get a very hef
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 738 • 💬 312 • ⏱️ 27:50 • 13h ago
+👁️ 7K • 👍 752 • 💬 320 • ⏱️ 27:50 • 14h ago
+
+---
+
+**[Ethereum to $40,000 by 2030: Why ETH Could MASSIVELY Outperform Bitcoin](https://www.youtube.com/watch?v=4ZjG0_XW0DU)**
+
+Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
+
+📺 Milk Road
+
+👁️ 5K • 👍 177 • 💬 85 • ⏱️ 11:06 • 1d ago
 
 ---
 
@@ -274,17 +274,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 4K • 👍 150 • 💬 47 • ⏱️ 38:10 • 2d ago
-
----
-
-**[ETH Ethereum Price Prediction: 29th of March](https://www.youtube.com/watch?v=9F77q0kcXtI)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 90 • 👍 4 • 💬 10 • ⏱️ 8:24 • 7h ago
+👁️ 4K • 👍 152 • 💬 47 • ⏱️ 38:10 • 2d ago
 
 ---
 
@@ -294,17 +284,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 143 • 💬 24 • ⏱️ 3:45 • 18h ago
+👁️ 2K • 👍 143 • 💬 24 • ⏱️ 3:45 • 19h ago
 
 ---
 
-**[BIG MOVE COMING FOR ETH!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=J6wp_YHME8I)**
+**[How to Claim 0.15 ETH For Free — Detailed Guide](https://www.youtube.com/watch?v=tVC9FtyyenA)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+In this video, I walk you through a new ETH airdrop that's distributing 0.15 ETH to eligible wallets. I went through the entire process ...
 
-📺 Cilinix Crypto
+📺 Martin Millions
 
-👁️ 294 • 👍 11 • 💬 1 • ⏱️ 4:45 • 12h ago
+👁️ 3K • 💬 174 • ⏱️ 5:44 • 4h ago
+
+---
+
+**[📈#crypto #bitcoin #ethereum #binance #xrp #solana #dogecoin #altcoins #memecoin #cryptocurrency](https://www.youtube.com/watch?v=fAIHKkgJHCU)**
+
+crypto #bitcoin #ethereum #binance #xrp #solana #dogecoin #altcoins #memecoin #cryptocurrency.
+
+📺 Crypto AiMan
+
+👁️ 751 • 👍 1 • ⏱️ 0:08 • 1h ago
 
 ---
 
@@ -314,17 +314,17 @@ Join Patreon for exclusive DAY TRADING, SWING TRADING, and HODLER content ...
 
 📺 Jayanth Ukwaththa - Trader's Life
 
-👁️ 668 • 👍 105 • 💬 57 • ⏱️ 25:46 • 5h ago
+👁️ 902 • 👍 118 • 💬 60 • ⏱️ 25:46 • 6h ago
 
 ---
 
-**[以太幣還要跌嗎 ? 這個位置非常關鍵 !](https://www.youtube.com/watch?v=MBJljeNXzDw)**
+**[BIG MOVE COMING FOR ETH!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=J6wp_YHME8I)**
 
-比特幣#區塊鏈#以太幣dc社群: https://discord.gg/WS6RwujsbF ================================ BYBIT ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 幣圈發哥 Facrypto
+📺 Cilinix Crypto
 
-👁️ 2K • 👍 62 • 💬 15 • ⏱️ 9:00 • 12h ago
+👁️ 349 • 👍 11 • 💬 1 • ⏱️ 4:45 • 13h ago
 
 ---
 
