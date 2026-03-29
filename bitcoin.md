@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-29T02:33:29.658458+00:00'
+updated: '2026-03-29T05:11:47.726193+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- news
 - cryptocurrency
 - social
-- news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 29, 2026 at 02:33 UTC  
+**Last Updated:** March 29, 2026 at 05:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** -6.1%  
-**30d:** -0.5%  
-**90d:** -24.7%  
-**1y:** -19.2%  
+**24h:** +0.5%  
+**7d:** -5.9%  
+**30d:** -0.3%  
+**90d:** -24.5%  
+**1y:** -19.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1331.89B
+**Market Cap:** $1333.80B
 Rank #1
 
-**Circulating Supply:** 20,008,481 BTC
+**Circulating Supply:** 20,008,518 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--47.2%
+-47.1%
 
 **All-Time Low:** $67.81
-+98053.7%
++98189.3%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 I invested $4000 into crypto yesterday. Should I start dollar cost averaging the rest of the way or should I sell and wait for a bigger dip?
 
-8h ago
+11h ago
 
 ---
 
 **[Just explained to my friend again, how red months are the best opportunity to buy more bitcoin. I think he finally gets it.](https://www.reddit.com/r/Bitcoin/comments/1s60e4s/just_explained_to_my_friend_again_how_red_months/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -95,7 +95,7 @@ I invested $4000 into crypto yesterday. Should I start dollar cost averaging the
 
 So I got curious about what happens if you just buy bitcoin and forget about it for exactly 5 years. Had an AI run the numbers on every possible 5 year window since bitcoin started trading Results from 959 different 5-year periods between august 2010 and january 2026: Key findings: - average return was 18229% which is insane but misleading because early buyers skew it hard - median return was 3108% so your typical 5 year holder made 32x their money - 958 out of 959 periods made profit thats 99.9% success rate Only ONE losing period ever: bought december 18 2017 right at the top around 18900 and sold december 16 2022 during that FTX mess at 16600. Lost 12% Breaking it down by when you started buying: - 2010-2013 buyers got stupid rich because they bought at literal pennies - Even 2018 which was terrible timing still averaged 346% returns - 2021 buyers only have partial data but already averaging 145% The distribution is wild - almost half of all 5 year holds returned between 1000-10000% and three quarters made over 100% basically if you can handle holding for 5 years you win unless you have the absolute worst timing in history. Even then you only lose 12% which beats a lot of other investments during crashes median person turns 1 dollar into 32 dollars over 5 years. Not bad for doing literally nothing
 
-11h ago
+14h ago
 
 ---
 
@@ -103,23 +103,7 @@ So I got curious about what happens if you just buy bitcoin and forget about it 
 
 As someone who's been super focused on building up my crypto portfolio since college, I'm excited to say I've reached the milestone I set for myself. Being in your late twenties and trying to build financial security while everyone around you is spending on everything definitely made me the "cheap friend" in the group more times than I'd like to admit. But after three years of putting most of my extra income into Bitcoin instead of new clothes, fancy dinners, or weekend trips, I finally have what feels like a solid foundation. Now I can actually start enjoying some of those things I've been putting off - maybe finally get that gym membership, treat myself to some new design software, or not stress about grabbing drinks with friends. Having this safety net built up feels amazing and I wanted to share with people who'd understand the discipline it took to get here
 
-6h ago
-
----
-
-**[I bought a sheet of acid for 10 BTC in 2012. It doesn't haunt me as much as you'd think.](https://www.reddit.com/r/Bitcoin/comments/1s5sg3c/i_bought_a_sheet_of_acid_for_10_btc_in_2012_it/)**
-
-I was a junior in highschool, and BTC came up in the same conversations as Octopussy. My friends and i heard that for like $5 we could get a bunch of btc and someone on the dark web might actually send us drugs. At the time the cheapest hit of wholesale 'cid i could get was $2 a tab, $50 for the sheet. So if this worked, it would 10X my profit. The acid came in a birthday card. I was amazed but didn't bother to continue with it. The person who introduced me to the whole concept also accepted my measly $5 and bought the BTC. Yes, he has quite a few left over and continued to be involved long term, didn't work much after highschool. I first remembered my involvement in Btc when it hit $4K. Couldn't believe it, but bought a little just for nostalgia. Then at $8K i bought more but not much, because who tf thought it would ever get to $8 fucking K. When it hit $16K i started dollar-cost averaging weekly deposits. No regrets. I'm happy to be in at all, some people STILL don't hold any BTC. In b4, just like all of you 🤝
-
-20h ago
-
----
-
-**[GameStop Maintains Bitcoin Holdings, According To Latest SEC Filing](https://www.reddit.com/r/Bitcoin/comments/1s5ywhm/gamestop_maintains_bitcoin_holdings_according_to/)**
-
-By collateralizing the 4,709 BTC with Coinbase Credit, GameStop gains liquidity and flexibility while still benefiting from any future appreciation in Bitcoin’s value.
-
-🔗 [Crowdfund Insider](https://www.crowdfundinsider.com/2026/03/269429-gamestop-maintains-bitcoin-holdings-according-to-latest-sec-filing/) • 14h ago
+9h ago
 
 ---
 
@@ -127,7 +111,23 @@ By collateralizing the 4,709 BTC with Coinbase Credit, GameStop gains liquidity 
 
 I’m curious if others had the same experience. Was there a concept or idea that looked easy at first, but turned out to be way deeper once you really got into it?
 
-5h ago
+8h ago
+
+---
+
+**[I bought a sheet of acid for 10 BTC in 2012. It doesn't haunt me as much as you'd think.](https://www.reddit.com/r/Bitcoin/comments/1s5sg3c/i_bought_a_sheet_of_acid_for_10_btc_in_2012_it/)**
+
+I was a junior in highschool, and BTC came up in the same conversations as Octopussy. My friends and i heard that for like $5 we could get a bunch of btc and someone on the dark web might actually send us drugs. At the time the cheapest hit of wholesale 'cid i could get was $2 a tab, $50 for the sheet. So if this worked, it would 10X my profit. The acid came in a birthday card. I was amazed but didn't bother to continue with it. The person who introduced me to the whole concept also accepted my measly $5 and bought the BTC. Yes, he has quite a few left over and continued to be involved long term, didn't work much after highschool. I first remembered my involvement in Btc when it hit $4K. Couldn't believe it, but bought a little just for nostalgia. Then at $8K i bought more but not much, because who tf thought it would ever get to $8 fucking K. When it hit $16K i started dollar-cost averaging weekly deposits. No regrets. I'm happy to be in at all, some people STILL don't hold any BTC. In b4, just like all of you 🤝
+
+23h ago
+
+---
+
+**[GameStop Maintains Bitcoin Holdings, According To Latest SEC Filing](https://www.reddit.com/r/Bitcoin/comments/1s5ywhm/gamestop_maintains_bitcoin_holdings_according_to/)**
+
+By collateralizing the 4,709 BTC with Coinbase Credit, GameStop gains liquidity and flexibility while still benefiting from any future appreciation in Bitcoin’s value.
+
+🔗 [Crowdfund Insider](https://www.crowdfundinsider.com/2026/03/269429-gamestop-maintains-bitcoin-holdings-according-to-latest-sec-filing/) • 16h ago
 
 ---
 
@@ -135,7 +135,7 @@ I’m curious if others had the same experience. Was there a concept or idea tha
 
 You haven't actually lost anything until you hit that sell button. It's wild how many people, particularly newcomers, treat a 30% dip like it's the apocalypse. Looking beyond crypto for a second - traditional markets go through downturns roughly every decade. Way too many jumped into bitcoin expecting it to be some magical asset that defies gravity forever, instead of understanding it's volatile like any other investment. If you're celebrating when BTC hits $130k or $150k, then you better have the stomach for when it drops back to $60k or even $40k. That's just how this works.
 
-11h ago
+13h ago
 
 ---
 
@@ -151,7 +151,7 @@ been watching the charts and bitcoin is sitting at what looks like a 40% drop fr
 
 Everyone outside crypto thinks it’s: Fast money Crazy gains Constant action But if you’ve been here for a while, you know the truth… Most of crypto is just: Waiting Not touching your portfolio Ignoring noise Watching others panic The real game isn’t buying. It’s holding without doing something stupid. The people who win aren’t the smartest. They’re usually the ones who: Don’t overtrade Don’t chase every new coin Don’t panic sell It sounds boring because it is. But boring is where most money is made. Meanwhile: Beginners want excitement Veterans want consistency Question: What’s harder for you — buying at the right time or just holding after you buy?
 
-22h ago
+1d ago
 
 ---
 
@@ -163,7 +163,7 @@ Everyone outside crypto thinks it’s: Fast money Crazy gains Constant action Bu
 
 From churches allowing congregants to tithe with digital coins to blogs promoting bitcoin as biblically sound, there’s an emerging Christian crypto subculture.
 
-NBC News • 15h ago
+nbcnews.com • 18h ago
 
 ---
 
@@ -175,37 +175,23 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin Last Line Of Defense Revealed: Can BTC Price Still Go To $40,000?](https://www.tradingview.com/news/newsbtc:9d45e18ef094b:0-bitcoin-last-line-of-defense-revealed-can-btc-price-still-go-to-40-000/)**
+**[Bitcoin Breakdown Confirmed: Bearish Continuation Looms Despite Short-Term Bounce Setup](https://www.tradingview.com/news/newsbtc:e94db7e90094b:0-bitcoin-breakdown-confirmed-bearish-continuation-looms-despite-short-term-bounce-setup/)**
 
-Bitcoin is currently trading around $66,400, which is almost 48% below its all-time high of $126,080 set in October 2025, and a technical analysis is drawing a line in the sand for the correction. According to a crypto analyst known as Leshka.eth, Bitcoin is now approaching a price level that will…
+Bitcoin’s recent price action confirms a clear structural breakdown, ending weeks of compression and shifting momentum to the downside. While a short-term bounce remains possible as price fills nearby imbalances, the broader outlook stays bearish. Unless key resistance levels are quickly reclaimed…
 
-TradingView • 1h ago
-
----
-
-**[Bitcoin Short-Term Holders Capitulate As 22K BTC Flow To Exchanges](https://www.tradingview.com/news/newsbtc:e50e75c8c094b:0-bitcoin-short-term-holders-capitulate-as-22k-btc-flow-to-exchanges/)**
-
-The price of Bitcoin succumbed to bearish pressure and fell to around $65,500 on Friday, while the geopolitical tensions between the United States, Israel, and Iran seem to worsen. According to a recent on-chain evaluation, this latest price decline appears to have been triggered by a panic-driven…
-
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
-**[Bitcoin Slumps With Options Showing Traders Turning Defensive](https://www.bloomberg.com/news/articles/2026-03-27/bitcoin-slumps-with-options-showing-traders-turning-defensive)**
+**[Bitcoin Extends Slide as Options Point Toward Deeper Decline](https://finance.yahoo.com/news/bitcoin-slumps-options-showing-traders-114316734.html)**
 
-Bloomberg.com • 1d ago
-
----
-
-**[Cathie Wood's Ark Invest Dumps Meta, Nvidia and Bitcoin ETF Shares in Major Tech Sell-Off](https://finance.yahoo.com/markets/stocks/articles/cathie-woods-ark-invest-dumps-151848814.html)**
-
-Cathie Wood's Ark Invest sold big chunks of its positions in American tech stocks and its own Bitcoin ETF as stocks and crypto slide.
+(Bloomberg) -- Bitcoin fell to its lowest level in more than three weeks as traders turned defensive following the year’s largest options expiry, while investors continued pulling money from crypto exchange-traded funds.The original cryptocurrency fell as much as 5% to $65,547, the lowest since March 2. The token has been stuck between roughly $60,000 and $75,000 in recent weeks, drifting well below its October 2025 peak of around $126,000. Roughly $14 billion of Bitcoin options expired Friday,
 
 Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Price Today: Why Cryptos Including XRP Are Falling Fast](https://www.barrons.com/articles/bitcoin-xrp-crypto-price-today-f98eeaec?gaa_at=eafs&gaa_n=AWEtsqfJXWpof3yDUeA2quoFdCjvXK-Dm-K8MknLl4r5Xe8hVtURv_t1_EiH&gaa_ts=69c892df&gaa_sig=ZKVBJ42Xeb31MkWVCjjFYjOjyLrTR7mKxQV08o9YMO6noHdXlaxuFgpMovnjQR-jqiiHQ7yXKeQnhuHW4lTbuw%3D%3D)**
+**[Bitcoin Price Today: Why Cryptos Including XRP Are Falling Fast](https://www.barrons.com/articles/bitcoin-xrp-crypto-price-today-f98eeaec?gaa_at=eafs&gaa_n=AWEtsqffiz4wiVHUZp_spsm-sTWbyqwM8bDaN3k-nt-13DU9Y48AiRMlZmqP&gaa_ts=69c8b7fd&gaa_sig=MUUhvQ6GTAvy_lw00oWhhAanNDYbV8Eon31yMgA77n45IUPWLkiSgxzvV8KpKEQ3hkBmfp_nunLGJIxRIyRIRA%3D%3D)**
 
 Barron's • 1d ago
 
@@ -227,9 +213,25 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[5 long, loud years: Neighbor, county leader ready for Bitcoin mine shutdown](https://www.wjhl.com/news/local/5-long-loud-years-neighbor-county-leader-ready-for-bitcoin-mine-shutdown/)**
+**[Morgan Stanley Set To Undercut Bitcoin ETF Rivals With 0.14% Fee Ahead Of Launch](https://bitcoinmagazine.com/featured/morgan-stanley-set-to-undercut-bitcoin)**
 
-WJHL • 2d ago
+Morgan Stanley is set to disrupt the spot bitcoin ETF market, with its upcoming Bitcoin Trust (MSBT) charging a market-leading 0.14% annual fee.
+
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Goldman Sachs Just Quietly Called The Bitcoin Price Bottom—But There’s A Nasty Catch](https://www.forbes.com/sites/digital-assets/2026/03/28/goldman-sachs-just-quietly-called-the-bitcoin-price-bottom-but-theres-a-nasty-catch/)**
+
+Forbes • 17h ago
+
+---
+
+**[Trump: 'Bitcoin's Very Powerful, It's All Becoming Powerful'](https://bitbo.io/news/trump-bitcoin-very-powerful-crypto-superpower/)**
+
+President Trump declared bitcoin 'very powerful' at the Future Investment Initiative Summit in Miami, vowing to make the U.S. the 'undisputed crypto capital and Bitcoin superpower of the world.'
+
+Bitbo • 8h ago
 
 ---
 
@@ -275,27 +277,7 @@ Clarity act for bitcoin and crypto is turning into a disaster. Follow Eric - htt
 
 📺 Digital Asset News
 
-👁️ 21K • 👍 1K • 💬 234 • ⏱️ 23:11 • 7h ago
-
----
-
-**[Bitcoin: The Window of Weakness is Open](https://www.youtube.com/watch?v=vu7tN0VxhRE)**
-
-Bitcoin may not be breaking down all at once, but the structure is starting to weaken. In this video, we discuss why a window of ...
-
-📺 Benjamin Cowen
-
-👁️ 67K • 👍 5K • 💬 274 • ⏱️ 26:12 • 15h ago
-
----
-
-**[Why Bitcoin Could Hit All-Time Highs Again in 2026](https://www.youtube.com/watch?v=TvR7W-Q7J1M)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 36K • 👍 2K • 💬 17 • ⏱️ 45:04 • 13h ago
+👁️ 24K • 👍 1K • 💬 248 • ⏱️ 23:11 • 10h ago
 
 ---
 
@@ -305,7 +287,27 @@ Once upon a time, Bitcoin used to have god candles (and epic crashes) all on its
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 26K • 👍 1K • 💬 181 • ⏱️ 8:32 • 1d ago
+👁️ 27K • 👍 1K • 💬 181 • ⏱️ 8:32 • 1d ago
+
+---
+
+**[Bitcoin: The Window of Weakness is Open](https://www.youtube.com/watch?v=vu7tN0VxhRE)**
+
+Bitcoin may not be breaking down all at once, but the structure is starting to weaken. In this video, we discuss why a window of ...
+
+📺 Benjamin Cowen
+
+👁️ 71K • 👍 5K • 💬 284 • ⏱️ 26:12 • 18h ago
+
+---
+
+**[JUST IN: Trump&#39;s Bitcoin Bombshell — USA Declared Global Crypto Superpower In Historic Announcement](https://www.youtube.com/watch?v=rmPft3_O_-U)**
+
+IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
+
+📺 The Kenzo Guy
+
+👁️ 3K • 👍 248 • 💬 17 • ⏱️ 29:43 • 6h ago
 
 ---
 
@@ -315,37 +317,7 @@ Bitcoin #Crypto #Finance Bitcoin has dropped sharply toward the $66K level as ma
 
 📺 The Wolf Of All Streets
 
-👁️ 25K • 👍 1K • 💬 367 • ⏱️ 34:13 • 1d ago
-
----
-
-**[Why You Won’t Be Able To Buy Bitcoin When This Happens](https://www.youtube.com/watch?v=TxzWwexKk54)**
-
-Something is changing in the Bitcoin market—and most people are completely missing it. The biggest risk right now isn't that ...
-
-📺 Tim Talks Finance
-
-👁️ 8K • 👍 416 • 💬 96 • ⏱️ 12:25 • 1d ago
-
----
-
-**[Why Bitcoin REFUSES To Pump — Plan B Just Explained Everything You Need To Know](https://www.youtube.com/watch?v=0vofWVf4AOo)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 3K • 👍 145 • 💬 1 • ⏱️ 15:15 • 1d ago
-
----
-
-**[I went all in on bitcoin... and it almost broke me](https://www.youtube.com/watch?v=exAjoJ08VpQ)**
-
-all my life is bitcoin, literally. I had moments where I thought I was ruining my life. This is my story on how i went through this.
-
-📺 BTC Isla
-
-👁️ 18K • 👍 2K • 💬 386 • ⏱️ 10:32 • 1d ago
+👁️ 25K • 👍 1K • 💬 330 • ⏱️ 34:13 • 1d ago
 
 ---
 
@@ -355,17 +327,47 @@ Something big is going to happen on bitcoin and we discuss with analyst Benjamin
 
 📺 Alessio Rastani
 
-👁️ 40K • 👍 3K • 💬 438 • ⏱️ 24:30 • 13h ago
+👁️ 44K • 👍 3K • 💬 452 • ⏱️ 24:30 • 16h ago
 
 ---
 
-**[XRP and Bitcoin CRASH Incoming | Here&#39;s Why](https://www.youtube.com/watch?v=dWr_rtGQRCg)**
+**[I went all in on bitcoin... and it almost broke me](https://www.youtube.com/watch?v=exAjoJ08VpQ)**
 
-Last Day: If you want access to the crypto tracker before the price goes up here it is: https://ninjacryptopro.com/Cycle-Tracker/ The ...
+all my life is bitcoin, literally. I had moments where I thought I was ruining my life. This is my story on how i went through this.
 
-📺 Economic News Ninja
+📺 BTC Isla
 
-👁️ 19K • 👍 1K • 💬 258 • ⏱️ 5:14 • 1d ago
+👁️ 18K • 👍 2K • 💬 333 • ⏱️ 10:32 • 1d ago
+
+---
+
+**[Why You Won’t Be Able To Buy Bitcoin When This Happens](https://www.youtube.com/watch?v=TxzWwexKk54)**
+
+Something is changing in the Bitcoin market—and most people are completely missing it. The biggest risk right now isn't that ...
+
+📺 Tim Talks Finance
+
+👁️ 9K • 👍 430 • 💬 99 • ⏱️ 12:25 • 1d ago
+
+---
+
+**[🚨WARNING: Don’t Travel with Crypto Wallets!](https://www.youtube.com/watch?v=Jw5cOU8zrjU)**
+
+The U.S. just released a security update warning citizens that Honk Kong now has the power to demand access to your crypto ...
+
+📺 Cyber Scrilla
+
+👁️ 15K • 👍 634 • 💬 68 • ⏱️ 1:08 • 1d ago
+
+---
+
+**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=tG_2e-mtSNY)**
+
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+
+📺 TK Hinshaw
+
+👁️ 7K • 👍 1K • ⏱️ 24:46 • 11h ago
 
 ---
 

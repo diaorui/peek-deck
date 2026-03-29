@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-29T02:33:29.667504+00:00'
+updated: '2026-03-29T05:11:47.735236+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 29, 2026 at 02:33 UTC  
+**Last Updated:** March 29, 2026 at 05:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Who runs out of battery first decides the future](https://www.reddit.com/r/robotics/comments/1s6566h/who_runs_out_of_battery_first_decides_the_future/)**
 
-9h ago
+12h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 TechCrunch: Physical Intelligence is reportedly in talks to raise $1 billion, again: https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/
 
-14h ago
+16h ago
 
 ---
 
@@ -50,7 +50,7 @@ TechCrunch: Physical Intelligence is reportedly in talks to raise $1 billion, ag
 
 Im 15yr hobbyist , my 2nd project self funded. this project is currently in alpha stage .made using foamboard and used wooden blocks for strength, i will add robotic arm for my next phase (on top of it). used arduino UNO r3, 4TT motor, TB6612FNG driver. IR receiver for Remote control, can be controlled manually or turn on obstacle avoidance mode. more info in my GitHub: https://github.com/Ajaz-6O7/Rover-Project
 
-4h ago
+7h ago
 
 ---
 
@@ -58,7 +58,7 @@ Im 15yr hobbyist , my 2nd project self funded. this project is currently in alph
 
 For the robot arm, we're running a segmentation model that benchmarks at a rock-solid 20fps on an Nvidia RTX 5060 Ti. In this video, we're keeping the rover locked onto the target using Image-Based Visual Servoing (IBVS) and a simple proportional controller.
 
-8h ago
+11h ago
 
 ---
 
@@ -66,7 +66,7 @@ For the robot arm, we're running a segmentation model that benchmarks at a rock-
 
 Can anybody identify these ball joints in these two wrists and any useful analysis of these, they are from ross-hime designs. Inc web Here is the web: https://www.anthrobot.com/omni-wrist-vi/
 
-4h ago
+6h ago
 
 ---
 
@@ -74,7 +74,7 @@ Can anybody identify these ball joints in these two wrists and any useful analys
 
 i have spent the past 2 months to design this arm in fusion, and now i am facing an issue on how to export this to isaac sim/ specifically the gripper, since it a 4 bar mechanism actuated with 3 gears. i thought of writing my own scripts of MJCF(because it supports kinematic loops), and then importing it in isaac sim
 
-20h ago
+22h ago
 
 ---
 
@@ -82,13 +82,7 @@ i have spent the past 2 months to design this arm in fusion, and now i am facing
 
 as the title says i'm looking for open source projects for small humanoids or quadruped robots, i'm thinking about cheap and easily hackable stuff like something built with an arduino/raspberry, 3d printed parts and consumer grade servos it would be great to find something that includes everything for reproducibility from the firmware to hardware schematics but my priority is that the project must have a ready to use sim environment i've already looked at some projects like open-quadruped or zeroth but most of them looks dead or still incomplete, is there anything else i should check out before starting to build everything from zero?
 
-5h ago
-
----
-
-**[robotics startup advice please](https://www.reddit.com/r/robotics/comments/1s6ed4d/robotics_startup_advice_please/)**
-
-3h ago
+8h ago
 
 ---
 
@@ -96,13 +90,19 @@ as the title says i'm looking for open source projects for small humanoids or qu
 
 There is the argument that humanoid robots are the future because they're generalists and their humanoid form means they can do whatever humans were doing. And while that is theoretically true, it misses an important point: Generality is only good if it performs better and more cost-effectively than the specialist machines in those tasks. I haven't seen anything to support the idea that humanoid form would necessarily surpass that threshold for many tasks. It can easily end up doing a mediocre job at many tasks because its lower productively delivers less profit per dollar spent on the machinery compared to specialist machines, and its form can never get as efficient as non-humanoid specialist machines. The "economies of scale" argument usually gets propositioned where economies of scale would lower the prices of humanoid robots so much that it would make it the more cost-effective option. However: Specialized machines can also experience economies of scale Economies of scale only bring down the price so much (the cost per unit decrease is not infinitely proportional based on how many units are produced, at some point the cost savings level off and can even revert) Simpler machinery and manufacturing of a specialized machine can mean lower fixed costs compared to the more complex manufacturing of a humanoid robot, meaning economies of scale could result in a lower cost being spread across many units for the former rather than the latter, making the former cheaper than the latter. Even if the humanoid robot is cheaper, the higher productivity and profitability of specialized machines may justify and make purchasing specialized machines the more fruitful endeavor. Saying humanoid robots will experience such cost savings from economies of scale assumes they'd be so favored by buyers that lots of units would be produced in the first place. To understand the limits of generalist technology, take this analogy: Instead of having a knife, fork, spoon, spatula, pizza cutter, etc. you could use a spork to serve in place of all those things. A spork would be cheaper, especially since you don't have to buy more utensils and clean and wash more, and it benefits from economies of scale, but a spork does a pretty mediocre job at all those tasks, it does not master them as effectively as those more specialized utensils. This is why in large part most people do not use a spork for most food tasks, and if it is good for anything it is only in a few highly specific occasions. A spork in this sense is a "Jack of all trades, master of none," where it can do many food tasks, but all in a mediocre fashion. A humanoid robot may very well end up the same, where it can do many tasks, but not in a more cost-effective manner.
 
-13h ago
+15h ago
 
 ---
 
 **[Homemade 6 axis arm with old 3d printers](https://www.reddit.com/r/robotics/comments/1s517i9/homemade_6_axis_arm_with_old_3d_printers/)**
 
 Hello everyone, I wanted to share my project that I've been working on for months. I've recycled two old 3D printers Anet A8 into a robotic arm. My main goal is to make a coffee with it. The motors and the electronic cards are from the printers. I've flashed them with Marlin and control them with python with a custom interface. I need to use 2 boards because I can only control independently 4 motors with one board. All the joints design are homemade, and 3d printed. The endeffector is a design from Makerworld u/user_2700759104 (I will build my own in the next days). There is a lot of backlash because of the planetary gears that I use. I plan to change them in the future. If anyone knows a reduction gear for Nema17 with minimum backlash I am all ears ! Thanks to the gear ratio, I've measured 2.9kg of force with the J2. List of components : Motors (J1->J6) : Nema17 Endeffector : Servo SG90 Boards : 2 Anet A8 + 1 Arduino Uno Reduction : J1 - 19:1 J2 - 51:1 J3 - 19:1 J4 - 19:1 J5 - 19:1 (90° 1:1) J6 - 1:1
+
+1d ago
+
+---
+
+**[WANDER-Bot, a wind-powered robot designed for long-term exploration of hostile environments.](https://www.reddit.com/r/robotics/comments/1s59h0n/wanderbot_a_windpowered_robot_designed_for/)**
 
 1d ago
 
@@ -130,7 +130,7 @@ CNBC • 2d ago
 
 Serve Robotics and Coco Robotics delivery robots reportedly crashed into Chicago bus shelters days apart, shattering glass with no injuries reported.
 
-Fox Business • 5h ago
+foxbusiness.com • 8h ago
 
 ---
 
@@ -138,7 +138,7 @@ Fox Business • 5h ago
 
 It's been a bad week for burritos on wheels.
 
-popsci.com • 2d ago
+Popular Science • 2d ago
 
 ---
 
@@ -154,7 +154,7 @@ upi.com • 2d ago
 
 Researchers from Northwestern University have developed robots called "metamachines" that are composed of other robots.
 
-Futurism • 9h ago
+Futurism • 11h ago
 
 ---
 
@@ -164,25 +164,25 @@ Reuters • 2d ago
 
 ---
 
-**[Robotics competition program encourages enrollment as science comprehension drops](https://www.wmur.com/article/robotics-competition-program-encourages-enrollment-as-science-comprehension-drops/70874370)**
+**[Raleigh students win state robotics title, advance to world championship](https://abc11.com/post/raleigh-students-win-state-robotics-title-advance-world-championship/18778624/)**
 
-As enrollment drops amid sinking science comprehension, FIRST adds that it still aims to inspire students by showcasing future opportunities that science can provide.
+Four Raleigh middle schoolers are headed to the world stage after winning the top honor at this month's VEX IQ Robotics State Championship in Concord.
 
-WMUR • 1h ago
-
----
-
-**[Faraday Future Completes Delivery of Additional EAI Robots to New PBB Auto Inc., and Showcases Its Robotics to Students in Los Angeles Through an Innovative Hands-on Interactive Demonstration Event](https://finance.yahoo.com/sectors/technology/articles/faraday-future-completes-delivery-additional-005400521.html)**
-
-LOS ANGELES, March 27, 2026--Faraday Future Intelligent Electric Inc. (Nasdaq: FFAI) ("Faraday Future," "FF," or the "Company"), a California-based global Embodied AI (EAI) ecosystem company, today announced another delivery of its Master robot and pilot delivery of the Aegis robot to Los Angeles based New PBB Auto Inc. New PBB made a binding FX business-to-business (B2B) deposit agreement with FF last year, which includes a non-refundable deposit and a non-binding pre-order for 600 units of the
-
-Yahoo Finance • 2d ago
+ABC11 Raleigh-Durham • 2d ago
 
 ---
 
 **[Giant robots battle it out in Detroit’s Robowar](https://blog.adafruit.com/2026/03/28/giant-robots-battle-it-out-in-detroits-robowar/)**
 
-Adafruit • 10h ago
+blog.adafruit.com • 12h ago
+
+---
+
+**[Panama Remote Robotic Stroke Procedure Drawing International Attention](https://ticotimes.net/2026/03/27/panama-remote-robotic-stroke-procedure-drawing-international-attention)**
+
+Learn about the Panama robotic stroke procedure, the first of its kind, combining robotic technology with remote surgical expertise.
+
+The Tico Times • 1d ago
 
 ---
 
@@ -196,7 +196,7 @@ Thanks to Delete Me for sponsoring this video. To keep your private info private
 
 📺 Kim Java
 
-👁️ 172K • 👍 7K • 💬 355 • ⏱️ 20:00 • 4d ago
+👁️ 174K • 👍 7K • 💬 356 • ⏱️ 20:00 • 4d ago
 
 ---
 
@@ -206,47 +206,7 @@ Learn for free on Brilliant for a full 30 days: https://brilliant.org/NikodemBar
 
 📺 Nikodem Bartnik
 
-👁️ 68K • 👍 3K • 💬 60 • ⏱️ 9:55 • 4d ago
-
----
-
-**[Maniac Melania Trump Suggests Replacing Teachers With Robots](https://www.youtube.com/watch?v=mpQYocsUpdg)**
-
-Melania Trump suggested using humanoid AI robots like a “Plato” educator to teach children, proposing a future where ...
-
-📺 Farron Balanced
-
-👁️ 35K • 👍 3K • 💬 814 • ⏱️ 5:10 • 2d ago
-
----
-
-**[First Lady Melania Trump walks with robot to White House event on children&#39;s technology](https://www.youtube.com/watch?v=7sHSBgU5p4Y)**
-
-A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White House summit on empowering children with ...
-
-📺 C-SPAN
-
-👁️ 212K • 👍 910 • 💬 1K • ⏱️ 2:59 • 3d ago
-
----
-
-**[Viral robot appearances on the rise as White House hosts humanoid robot](https://www.youtube.com/watch?v=CDbSdaiEdyQ)**
-
-Humanoid robots have been making appearances through social media, tv segments, and at the latest White House summit.
-
-📺 NBC News
-
-👁️ 99K • 👍 538 • 💬 369 • ⏱️ 3:05 • 2d ago
-
----
-
-**[Watch: Humanoid robot walks alongside first lady Melania Trump at White House](https://www.youtube.com/watch?v=X-NjEku-zE4)**
-
-Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
-
-📺 CBS News
-
-👁️ 45K • 👍 322 • 💬 335 • ⏱️ 9:54 • 3d ago
+👁️ 69K • 👍 3K • 💬 60 • ⏱️ 9:55 • 4d ago
 
 ---
 
@@ -260,13 +220,23 @@ Melania Trump sparks alarm over a White House event where she walked in with a r
 
 ---
 
-**[Fat Mira Does the Robot Trend 😱](https://www.youtube.com/watch?v=XmIl8d0WUws)**
+**[Watch: Humanoid robot walks alongside first lady Melania Trump at White House](https://www.youtube.com/watch?v=X-NjEku-zE4)**
 
-rumi #huntrix #kpop #kpopdemonhunters #shorts #celebrity #trend #makeup #mira All videos were created by myself.
+Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
 
-📺 Faces of Culture
+📺 CBS News
 
-👁️ 382K • 👍 1K • 💬 2 • ⏱️ 0:04 • 15h ago
+👁️ 46K • 👍 332 • 💬 338 • ⏱️ 9:54 • 3d ago
+
+---
+
+**[First Lady Melania Trump walks with robot to White House event on children&#39;s technology](https://www.youtube.com/watch?v=7sHSBgU5p4Y)**
+
+A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White House summit on empowering children with ...
+
+📺 C-SPAN
+
+👁️ 213K • 👍 919 • 💬 1K • ⏱️ 2:59 • 3d ago
 
 ---
 
@@ -276,17 +246,47 @@ This week in robotics got kind of ridiculous. South Korea showed off a humanoid 
 
 📺 AI Revolution
 
-👁️ 231K • 👍 3K • 💬 141 • ⏱️ 14:31 • 6d ago
+👁️ 233K • 👍 3K • 💬 144 • ⏱️ 14:31 • 6d ago
 
 ---
 
-**[China in Tears! Superpower Falls as TSMC CEO Exposes China’s Robot Lies—95% of Brain Made by TSMC](https://www.youtube.com/watch?v=mCUayp_OjTs)**
+**[🇺🇸 First Lady Melania Trump Showcases Figure 03 Humanoid AI Robot at White House Fostering Summit](https://www.youtube.com/watch?v=raQ1pAtisqA)**
 
-On March 8, at the "Tomorrow's Walker" exhibit in Shanghai Science and Technology Museum, a robot performing unexpectedly ...
+Live coverage of speeches, rallies, and events across America with raw, unfiltered, authentic reporting. MAGNO NEWS is ...
 
-📺 China Observer
+📺 MAGNO NEWS
 
-👁️ 67K • 👍 2K • 💬 397 • ⏱️ 15:22 • 3d ago
+👁️ 64K • 👍 2K • 💬 566 • ⏱️ 2:33 • 3d ago
+
+---
+
+**[Fat Mira Does the Robot Trend 😱](https://www.youtube.com/watch?v=XmIl8d0WUws)**
+
+rumi #huntrix #kpop #kpopdemonhunters #shorts #celebrity #trend #makeup #mira All videos were created by myself.
+
+📺 Faces of Culture
+
+👁️ 430K • 👍 1K • 💬 2 • ⏱️ 0:04 • 18h ago
+
+---
+
+**[Every Robot I Met at Nvidia GTC in Under 6 Minutes (Speedrun)](https://www.youtube.com/watch?v=mFr7XfTY5bY)**
+
+The robots at Nvidia GTC were showcasing strength, dexterity and the ability to work together on the same task. You can find the ...
+
+📺 CNET
+
+👁️ 17K • 👍 479 • 💬 29 • ⏱️ 5:50 • 6d ago
+
+---
+
+**[First lady Melania Trump welcomes robot to White House tech summit](https://www.youtube.com/watch?v=glfTpD9iKhs)**
+
+Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
+
+📺 Face the Nation
+
+👁️ 138K • 👍 1K • 💬 763 • ⏱️ 9:54 • 3d ago
 
 ---
 
