@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-29T08:41:16.238085+00:00'
+updated: '2026-03-29T09:38:36.125288+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
 - social
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 29, 2026 at 08:41 UTC  
+**Last Updated:** March 29, 2026 at 09:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** -6.9%  
-**30d:** +2.0%  
-**90d:** -32.7%  
-**1y:** +11.0%  
+**24h:** +0.1%  
+**7d:** -7.2%  
+**30d:** +1.6%  
+**90d:** -32.9%  
+**1y:** +10.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -158,7 +158,7 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqdtxWevjGx0l9NEx7T6uYMsE_ByrVV35f8Gfii33ouuk1FeOWN_lDJM&gaa_ts=69c8ddb7&gaa_sig=6MPsN0BoKFys4RUbdQjUNjpMU05rTbXkTQQst0kveOljMxIAYk-1TUH8dnexBpI06YvHOX4Ozv4-IFmRj7QhsA%3D%3D)**
+**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqdtuWMcS9YauZLHFc4cVEO3HxNyclabNf6WNPstYRnSBS-sb7j7Z-iP&gaa_ts=69c8f685&gaa_sig=jW4n4IWW8-ny7O03-wnS7tsSmOTODXMzT-xcWMvPhJZMuBRwmL8sUQqe4tOQWGSbi-s2Kx3LTtHSDcs3dgaPCg%3D%3D)**
 
 Barron's • 2d ago
 
@@ -168,15 +168,13 @@ Barron's • 2d ago
 
 Bitcoin, XRP, Ethereum, and Solana are all down by 6-8% in a week. Here's what's driving the crypto market crash and what to watch next.
 
-24/7 Wall St. • 18h ago
+24/7 Wall St. • 19h ago
 
 ---
 
-**[Bitcoin And Ethereum Outlook: Too Soon For A Crypto Bounce (BTC-USD)](https://seekingalpha.com/article/4886411-bitcoin-ethereum-outlook-too-soon-for-crypto-bounce)**
+**[Crypto Crash Alert: Bitcoin, Ethereum Drop As Iran War Sparks Market Panic](https://www.binance.com/en/square/post/305996516053425)**
 
-While cryptos offer diversification from traditional asset movements, they are also highly sensitive to the gravity of risk aversion
-
-Seeking Alpha • 2d ago
+Binance • 2d ago
 
 ---
 
@@ -184,7 +182,7 @@ Seeking Alpha • 2d ago
 
 Across many of the most well-known ecosystems like Bitcoin, Ethereum, and Solana, responses are diverging along familiar lines: what to do on social consensus and technical iteration, and community members are split between caution and acceleration.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -192,7 +190,7 @@ CoinDesk • 16h ago
 
 These two coins now have fewer obstacles blocking their growth.
 
-fool.com • 1d ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -204,23 +202,23 @@ Yahoo Finance Singapore • 3d ago
 
 ---
 
+**[Ethereum Price Prediction: $6.3B Smart Money Inflows Signal Major ETH Breakout Ahead](https://www.binance.com/en/square/post/306350416646594)**
+
+Binance • 1d ago
+
+---
+
+**[Ethereum Is Mispriced, Says Coinbase Research Chief Ahead of EthCC on Monday](https://www.tradingview.com/news/coinpedia:fb7d8079a094b:0-ethereum-is-mispriced-says-coinbase-research-chief-ahead-of-ethcc-on-monday/)**
+
+ETH is trading at $2,000 today, sitting 59% below its August 2025 all-time high. Most investors have written off altcoins in a brutal bear market. David Duong, Global Head of Institutional Research at Coinbase, thinks that is exactly the wrong read, especially when it comes to Ethereum.Speaking on…
+
+TradingView • 18h ago
+
+---
+
 **[PANINI BLOCKCHAIN BRIDGE TO OPEN FOR BUSINESS](https://blog.paniniamerica.net/panini-blockchain-bridge-to-open-for-business/)**
 
 Panini America • 1d ago
-
----
-
-**[Ethereum Sets User Record As Price Lags Far Behind Network Growth](https://www.tradingview.com/news/newsbtc:dc277ef46094b:0-ethereum-sets-user-record-as-price-lags-far-behind-network-growth/)**
-
-BlackRock’s staked Ethereum fund pulled in $155 million on its first day of trading — more than the firm’s own Bitcoin ETF managed at launch. That number tells one part of Ethereum’s story in early 2026.The other part is harder to spin: the token itself has dropped more than 55% from its August 202…
-
-TradingView • 22h ago
-
----
-
-**[Ethereum Exodus or Opportunity? Franklin’s EZET Sees Cash Outflow as ETH Shows a Flicker of Strength](https://www.tipranks.com/news/cryptocurrencies/ethereum-exodus-or-opportunity-franklins-ezet-sees-cash-outflow-as-eth-shows-a-flicker-of-strength)**
-
-TipRanks • 16h ago
 
 ---
 
@@ -234,7 +232,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 600 • 👍 79 • 💬 18 • ⏱️ 3:45 • 4h ago
+👁️ 600 • 👍 79 • 💬 18 • ⏱️ 3:45 • 5h ago
 
 ---
 
@@ -244,7 +242,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 4K • 👍 145 • 💬 29 • ⏱️ 11:06 • 18h ago
+👁️ 4K • 👍 145 • 💬 29 • ⏱️ 11:06 • 19h ago
 
 ---
 
@@ -264,7 +262,7 @@ BITCOIN BOUNCE CONFIRMED (But Don't be FOOLED)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 4K • 👍 192 • 💬 253 • ⏱️ 16:16 • 10h ago
+👁️ 4K • 👍 192 • 💬 253 • ⏱️ 16:16 • 11h ago
 
 ---
 
@@ -274,7 +272,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 1K • 👍 349 • 💬 86 • ⏱️ 12:14 • 4h ago
+👁️ 1K • 👍 349 • 💬 86 • ⏱️ 12:14 • 5h ago
 
 ---
 
@@ -284,7 +282,7 @@ Can a free Ethereum method really generate ETH or is it just another fake crypto
 
 📺 KYLE MADDOX
 
-👁️ 1K • 👍 306 • 💬 33 • ⏱️ 5:57 • 15h ago
+👁️ 1K • 👍 306 • 💬 33 • ⏱️ 5:57 • 16h ago
 
 ---
 
@@ -294,7 +292,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 MyCaNaLBF
 
-👁️ 8K • 👍 1K • 23h ago
+👁️ 8K • 👍 1K • 1d ago
 
 ---
 
@@ -304,7 +302,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 250 • 👍 16 • 💬 1 • ⏱️ 4:28 • 21h ago
+👁️ 250 • 👍 16 • 💬 1 • ⏱️ 4:28 • 22h ago
 
 ---
 
@@ -314,7 +312,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 80 • 💬 3 • ⏱️ 3:58 • 19h ago
+👁️ 1K • 👍 80 • 💬 3 • ⏱️ 3:58 • 20h ago
 
 ---
 
