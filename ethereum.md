@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-29T19:32:49.033742+00:00'
+updated: '2026-03-29T20:34:48.293959+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- news
 - cryptocurrency
 - social
-- news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 29, 2026 at 19:32 UTC  
+**Last Updated:** March 29, 2026 at 20:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.1%  
-**7d:** -7.1%  
-**30d:** +1.8%  
-**90d:** -32.8%  
-**1y:** +10.8%  
+**24h:** -0.3%  
+**7d:** -6.8%  
+**30d:** +2.1%  
+**90d:** -32.6%  
+**1y:** +11.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -96,7 +96,7 @@ Effective March 25, 2026, Pier Two Holdings Pty Ltd has been wholly acquired by 
 
 I Built a Privacy-Preserving Bitcoin transaction Receipt Verifier (No KYC, No Screenshots, No wallet). https://github.com/Teycir/Ghostreceipt Would like to have feedback.
 
-1d ago
+2d ago
 
 ---
 
@@ -166,27 +166,11 @@ ZyCrypto • 1d ago
 
 ---
 
-**[Gnosis and Zisk announce 'Ethereum Economic Zone' rollup framework with Ethereum Foundation co-funding](https://www.theblock.co/post/395578/gnosis-and-zisk-announce-ethereum-economic-zone-rollup-framework-with-ethereum-foundation-co-funding)**
-
-The Ethereum Foundation is co-funding the "easy" initiative, which was announced at EthCC in Cannes, and partners include Aave, Titan, Centrifuge, and more.
-
-The Block • 4h ago
-
----
-
-**[New Ethereum project aims to fix network fragmentation and improve user experience](https://www.coindesk.com/tech/2026/03/29/new-ethereum-project-aims-to-fix-network-fragmentation-and-improve-user-experience)**
-
-The project is designed to make Ethereum’s many layer 2s work together more seamlessly.
-
-coindesk.com • 4h ago
-
----
-
 **[Ethereum builders propose ‘economic zone’ to tackle L2 fragmentation](https://www.tradingview.com/news/cointelegraph:73aca491a094b:0-ethereum-builders-propose-economic-zone-to-tackle-l2-fragmentation/)**
 
 Developers from Gnosis and Zisk, with backing from the Ethereum Foundation, have proposed a new framework aimed at unifying Ethereum’s fragmented layer-2 ecosystem by enabling rollups to interact seamlessly with each other and the mainnet in a single transaction.According to an announcement shared…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
@@ -194,7 +178,15 @@ TradingView • 3h ago
 
 Across many of the most well-known ecosystems like Bitcoin, Ethereum, and Solana, responses are diverging along familiar lines: what to do on social consensus and technical iteration, and community members are split between caution and acceleration.
 
-coindesk.com • 1d ago
+CoinDesk • 1d ago
+
+---
+
+**[Gnosis and Zisk announce 'Ethereum Economic Zone' rollup framework with Ethereum Foundation co-funding](https://www.theblock.co/post/395578/gnosis-and-zisk-announce-ethereum-economic-zone-rollup-framework-with-ethereum-foundation-co-funding)**
+
+The Ethereum Foundation is co-funding the "easy" initiative, which was announced at EthCC in Cannes, and partners include Aave, Titan, Centrifuge, and more.
+
+The Block • 5h ago
 
 ---
 
@@ -203,12 +195,6 @@ coindesk.com • 1d ago
 Bitcoin (CRYPTO: BTC), XRP (CRYPTO: XRP), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) are all down 6-8% in a week, and the crypto market has shed over $80 billion in value since March 24. The Fear & Greed Index sits at 23, and the average crypto RSI has dropped to 39—oversold territory that the market ... Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week
 
 Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin, XRP, Ethereum, Cryptos Drop as Iran Rejects Trump Peace Plan](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-trump-045db340?gaa_at=eafs&gaa_n=AWEtsqcJaQRbjSZEEqFrMrSdSaLPahRcqxquHsewGZWq-gOqQPC4NnEhB1Qu&gaa_ts=69c97685&gaa_sig=d_My0alzbnHfbQ5QYEtoR7ZujokwZuMcjiIOLR-qfKGtuCKb4RBbEPlvEeEVYd9hHYUMnO7SWfW4MjtnkntqlQ%3D%3D)**
-
-Barron's • 3d ago
 
 ---
 
@@ -221,6 +207,20 @@ Binance • 1d ago
 **[PANINI BLOCKCHAIN BRIDGE TO OPEN FOR BUSINESS](https://blog.paniniamerica.net/panini-blockchain-bridge-to-open-for-business/)**
 
 Panini America • 2d ago
+
+---
+
+**[VanEck’s Ethereum ETF Hit by Sharp Redemptions as Ether Slides Below $2,000](https://www.tipranks.com/news/cryptocurrencies/vanecks-ethereum-etf-hit-by-sharp-redemptions-as-ether-slides-below-2000)**
+
+TipRanks • 3h ago
+
+---
+
+**[Weekend Round-Up: Crypto Exchange Gets Fed Approval, Ethereum Outperforms S&P 500 And More](https://www.benzinga.com/crypto/cryptocurrency/26/03/51529184/weekend-round-up-crypto-exchange-gets-fed-approval-ethereum-outperforms-sp-500-and-more)**
+
+BlackRock CEO Larry Fink earned $37.7 million in 2025 after a strong year marked by record $14 trillion AUM and solid earnings.
+
+Benzinga • 7h ago
 
 ---
 
@@ -244,7 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 477 • 👍 52 • 💬 1 • ⏱️ 3:36 • 2h ago
+👁️ 477 • 👍 52 • 💬 1 • ⏱️ 3:36 • 3h ago
 
 ---
 
@@ -254,7 +254,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 249 • 👍 11 • 💬 1 • ⏱️ 4:45 • 9h ago
+👁️ 249 • 👍 11 • 💬 1 • ⏱️ 4:45 • 10h ago
 
 ---
 
@@ -264,7 +264,7 @@ People in the cryptocurrency space and world markets are about to get a very hef
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 694 • 💬 248 • ⏱️ 27:50 • 10h ago
+👁️ 5K • 👍 694 • 💬 248 • ⏱️ 27:50 • 11h ago
 
 ---
 
@@ -274,7 +274,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 140 • 💬 24 • ⏱️ 3:45 • 15h ago
+👁️ 2K • 👍 140 • 💬 24 • ⏱️ 3:45 • 16h ago
 
 ---
 
@@ -304,7 +304,7 @@ BTC & ETH Price Prediction Today | Will Crypto Market Go Up or Down? | Hindi Ana
 
 📺 Crypto Gyan
 
-👁️ 624 • 👍 73 • ⏱️ 6:22 • 4h ago
+👁️ 624 • 👍 73 • ⏱️ 6:22 • 5h ago
 
 ---
 
@@ -314,7 +314,7 @@ Join Patreon for exclusive DAY TRADING, SWING TRADING, and HODLER content ...
 
 📺 Jayanth Ukwaththa - Trader's Life
 
-👁️ 324 • 👍 59 • 💬 47 • ⏱️ 25:46 • 2h ago
+👁️ 324 • 👍 59 • 💬 47 • ⏱️ 25:46 • 3h ago
 
 ---
 
