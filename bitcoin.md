@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-29T12:58:54.109448+00:00'
+updated: '2026-03-29T13:56:48.178786+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
-- news
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 29, 2026 at 12:58 UTC  
+**Last Updated:** March 29, 2026 at 13:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 "I don't believe we shall have good money until we take it from the government. All we can do is, by a sly, roundabout way, introduce something they can't stop."
 
-5h ago
+6h ago
 
 ---
 
@@ -89,7 +89,7 @@ Rank #1
 
 I invested $4000 into crypto yesterday. Should I start dollar cost averaging the rest of the way or should I sell and wait for a bigger dip?
 
-19h ago
+20h ago
 
 ---
 
@@ -97,13 +97,13 @@ I invested $4000 into crypto yesterday. Should I start dollar cost averaging the
 
 Just stumbled on this shady operation where some influencer was pushing a site called crypllet or something similar. The whole pitch was basically "hey go make a wallet, load it up with crypto, then enter your seed words on our site to see if they've been leaked in any breaches" Like come on, anyone with half a brain knows you never enter your recovery phrase anywhere except when restoring an actual wallet. This is obviously just harvesting seed phrases to drain wallets later. Can't believe people might actually fall for this but I guess that's how these scams keep working The red flags are everywhere - why would you need to buy crypto first to check if words were compromised, and why would any legit service ask for your actual seed phrase instead of just a hash or something. Stay safe out there folks
 
-1h ago
+2h ago
 
 ---
 
 **[Just explained to my friend again, how red months are the best opportunity to buy more bitcoin. I think he finally gets it.](https://www.reddit.com/r/Bitcoin/comments/1s60e4s/just_explained_to_my_friend_again_how_red_months/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -111,7 +111,7 @@ Just stumbled on this shady operation where some influencer was pushing a site c
 
 Been thinking about this lately - whenever someone mentions how much they've made from Bitcoin, it usually just pisses people off instead of getting them interested Like when you tell someone you're up big, they don't think "wow what a smart move" they think "great, another thing I screwed up by not getting in earlier" Then instead of wanting to learn more they just write the whole thing off as a scam or bubble or whatever I've seen it happen so many times now. The louder someone gets about their portfolio gains, the more people around them start hating on crypto in general. It's not even about whether Bitcoin is good or bad at that point, it's just human nature getting in the way Probably better to just keep your mouth shut and let your actions speak for themselves
 
-1h ago
+2h ago
 
 ---
 
@@ -119,7 +119,7 @@ Been thinking about this lately - whenever someone mentions how much they've mad
 
 So I got curious about what happens if you just buy bitcoin and forget about it for exactly 5 years. Had an AI run the numbers on every possible 5 year window since bitcoin started trading Results from 959 different 5-year periods between august 2010 and january 2026: Key findings: - average return was 18229% which is insane but misleading because early buyers skew it hard - median return was 3108% so your typical 5 year holder made 32x their money - 958 out of 959 periods made profit thats 99.9% success rate Only ONE losing period ever: bought december 18 2017 right at the top around 18900 and sold december 16 2022 during that FTX mess at 16600. Lost 12% Breaking it down by when you started buying: - 2010-2013 buyers got stupid rich because they bought at literal pennies - Even 2018 which was terrible timing still averaged 346% returns - 2021 buyers only have partial data but already averaging 145% The distribution is wild - almost half of all 5 year holds returned between 1000-10000% and three quarters made over 100% basically if you can handle holding for 5 years you win unless you have the absolute worst timing in history. Even then you only lose 12% which beats a lot of other investments during crashes median person turns 1 dollar into 32 dollars over 5 years. Not bad for doing literally nothing
 
-22h ago
+23h ago
 
 ---
 
@@ -127,7 +127,7 @@ So I got curious about what happens if you just buy bitcoin and forget about it 
 
 Where would you put new money right now—into BTC or keeping it as cash?
 
-5h ago
+6h ago
 
 ---
 
@@ -135,7 +135,7 @@ Where would you put new money right now—into BTC or keeping it as cash?
 
 As someone who's been super focused on building up my crypto portfolio since college, I'm excited to say I've reached the milestone I set for myself. Being in your late twenties and trying to build financial security while everyone around you is spending on everything definitely made me the "cheap friend" in the group more times than I'd like to admit. But after three years of putting most of my extra income into Bitcoin instead of new clothes, fancy dinners, or weekend trips, I finally have what feels like a solid foundation. Now I can actually start enjoying some of those things I've been putting off - maybe finally get that gym membership, treat myself to some new design software, or not stress about grabbing drinks with friends. Having this safety net built up feels amazing and I wanted to share with people who'd understand the discipline it took to get here
 
-16h ago
+17h ago
 
 ---
 
@@ -143,7 +143,7 @@ As someone who's been super focused on building up my crypto portfolio since col
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-6h ago
+7h ago
 
 ---
 
@@ -179,7 +179,7 @@ CoinDesk • 1d ago
 
 Veteran trader and chartist Peter Brandt flagged a pattern on Thursday signaling weakening bullish momentum for Bitcoin. Another Wave Of Selling? Brandt, a technical analyst with nearly 50 years of experience, highlighted a rising wedge formation—a bearish technical analysis pattern...
 
-Yahoo Finance • 26m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 26m ago
 
 After declining to around $65,500 on Friday, Bitcoin appears to be recovering slowly this weekend. Having briefly reclaimed the $67,000 level on Saturday, March 28, the premier cryptocurrency seems to be enjoying a brewing bullish momentum. According to the latest on-chain data, the Bitcoin price m…
 
-TradingView • 1h ago
+TradingView • 2h ago
 
 ---
 
@@ -227,7 +227,7 @@ Barron's • 2d ago
 
 GameStop has pledged nearly all of its Bitcoin to a covered-call strategy on Coinbase Prime to generate some yield.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
 
 ---
 
@@ -273,7 +273,7 @@ Clarity act for bitcoin and crypto is turning into a disaster. Follow Eric - htt
 
 📺 Digital Asset News
 
-👁️ 28K • 👍 1K • 💬 281 • ⏱️ 23:11 • 17h ago
+👁️ 28K • 👍 1K • 💬 281 • ⏱️ 23:11 • 18h ago
 
 ---
 
@@ -293,7 +293,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 177 • 💬 30 • ⏱️ 18:06 • 10h ago
+👁️ 4K • 👍 177 • 💬 30 • ⏱️ 18:06 • 11h ago
 
 ---
 
@@ -303,7 +303,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 6K • 👍 320 • 💬 25 • ⏱️ 29:43 • 14h ago
+👁️ 6K • 👍 320 • 💬 25 • ⏱️ 29:43 • 15h ago
 
 ---
 
@@ -353,7 +353,7 @@ Bitcoin #Crypto #Finance Bitcoin has dropped sharply toward the $66K level as ma
 
 📺 The Wolf Of All Streets
 
-👁️ 26K • 👍 1K • 💬 323 • ⏱️ 34:13 • 1d ago
+👁️ 26K • 👍 1K • 💬 323 • ⏱️ 34:13 • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-29T12:58:54.115419+00:00'
+updated: '2026-03-29T13:56:48.184748+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
-- news
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 29, 2026 at 12:58 UTC  
+**Last Updated:** March 29, 2026 at 13:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Frame transaction Considered for Inclusion for Hegotá, EthStaker staking survey, EF post-quantum website
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-17/) • 1d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-17/) • 2d ago
 
 ---
 
@@ -134,7 +134,7 @@ Source: https://www.coingecko.com/learn/real-world-assets-rwa-buy-on-chain RWAs 
 
 **[Paperwallet.ca launch](https://www.reddit.com/r/ethereum/comments/1s543mf/paperwalletca_launch/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -154,7 +154,7 @@ Working on a little side project that turns etherscan data into readable risk. I
 
 Across many of the most well-known ecosystems like Bitcoin, Ethereum, and Solana, responses are diverging along familiar lines: what to do on social consensus and technical iteration, and community members are split between caution and acceleration.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 20h ago
 
 Bitcoin (CRYPTO: BTC), XRP (CRYPTO: XRP), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) are all down 6-8% in a week, and the crypto market has shed over $80 billion in value since March 24. The Fear & Greed Index sits at 23, and the average crypto RSI has dropped to 39—oversold territory that the market ... Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -178,7 +178,7 @@ Decrypt • 2d ago
 
 Ethereum saw a dramatic spike in whale activity, with transactions by large holders soaring from 123 on March 21 to 2,055 by March 24.
 
-ZyCrypto • 18h ago
+ZyCrypto • 19h ago
 
 ---
 
@@ -208,7 +208,7 @@ Binance • 1d ago
 
 ETH is trading at $2,000 today, sitting 59% below its August 2025 all-time high. Most investors have written off altcoins in a brutal bear market. David Duong, Global Head of Institutional Research at Coinbase, thinks that is exactly the wrong read, especially when it comes to Ethereum.Speaking on…
 
-TradingView • 21h ago
+TradingView • 22h ago
 
 ---
 
@@ -234,7 +234,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 4K • 👍 152 • 💬 69 • ⏱️ 11:06 • 22h ago
+👁️ 4K • 👍 152 • 💬 69 • ⏱️ 11:06 • 23h ago
 
 ---
 
@@ -244,7 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 124 • 💬 22 • ⏱️ 3:45 • 8h ago
+👁️ 1K • 👍 124 • 💬 22 • ⏱️ 3:45 • 9h ago
 
 ---
 
@@ -254,7 +254,7 @@ People in the cryptocurrency space and world markets are about to get a very hef
 
 📺 The Modern Investor
 
-👁️ 2K • 👍 386 • 💬 209 • ⏱️ 27:50 • 3h ago
+👁️ 2K • 👍 386 • 💬 209 • ⏱️ 27:50 • 4h ago
 
 ---
 
@@ -264,7 +264,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 95 • 👍 6 • 💬 1 • ⏱️ 4:45 • 2h ago
+👁️ 95 • 👍 6 • 💬 1 • ⏱️ 4:45 • 3h ago
 
 ---
 
@@ -294,7 +294,7 @@ BITCOIN BOUNCE CONFIRMED (But Don't be FOOLED)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 5K • 👍 220 • 💬 354 • ⏱️ 16:16 • 14h ago
+👁️ 5K • 👍 220 • 💬 354 • ⏱️ 16:16 • 15h ago
 
 ---
 
@@ -314,7 +314,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 106 • ⏱️ 6:44 • 9h ago
+👁️ 1K • 👍 106 • ⏱️ 6:44 • 10h ago
 
 ---
 
@@ -324,7 +324,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 511 • 💬 107 • ⏱️ 12:14 • 8h ago
+👁️ 3K • 👍 511 • 💬 107 • ⏱️ 12:14 • 9h ago
 
 ---
 
