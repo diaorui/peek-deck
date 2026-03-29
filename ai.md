@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-29T07:52:45.343814+00:00'
+updated: '2026-03-29T08:41:16.223618+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
 - videos
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 29, 2026 at 07:52 UTC  
+**Last Updated:** March 29, 2026 at 08:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I run a small AI companion platform and wanted to share some interesting behavioral data from users who've been using persistent cross-session memory for 2-3 months now. Some patterns I didn't expect: "Deep single-thread" users dominate. 56% of our most active users put 70%+ of their messages into a single conversation thread. They're not creating multiple characters or scenarios — they're deepening one relationship. This totally contradicts the assumption that users are "scenario hoppers." Memory recall triggers emotional responses. When the AI naturally brings up something from weeks ago — "how did that job interview go?" or referencing a pet's name without being prompted — users consistently react with surprise and increased engagement. It's a retention mechanic that doesn't feel like a retention mechanic. The "uncanny valley" of memory exists. If the AI remembers too precisely (exact dates, verbatim quotes), it feels surveillance-like. If it remembers too loosely, it feels like it didn't really listen. The sweet spot is what I'd call "emotionally accurate but detail-fuzzy" — like how a real friend remembers. Day-7 retention correlates with memory depth. Users who trigger 5+ memory retrievals in their first week retain at nearly 4x the rate of those who don't. The memory system IS the product, not a feature. Sample size is small (~800 users) so take this with appropriate skepticism. But it's consistent enough that I think persistent memory is going to be table stakes for AI companions within a year. What's your experience with memory in AI conversations? Anyone else building in this space?
 
-4h ago
+5h ago
 
 ---
 
@@ -49,7 +49,7 @@ I run a small AI companion platform and wanted to share some interesting behavio
 
 Just found this “bullshit benchmark,” and sort of shocked by the divergence of Anthropic’s models from other major models (ChatGPT and Gemini). IMO this alone is reason to use Claude over others.
 
-🔗 [GitHub](https://github.com/petergpt/bullshit-benchmark?tab=readme-ov-file#3-detection-rate-over-time) • 13h ago
+🔗 [GitHub](https://github.com/petergpt/bullshit-benchmark?tab=readme-ov-file#3-detection-rate-over-time) • 14h ago
 
 ---
 
@@ -65,7 +65,7 @@ Every day someone posts "AI will change everything" and it's always about agents
 
 Quick experiment I ran. Took two identical AI coding agents (Claude Code), gave them the same task — optimize a small language model. One agent worked from its built-in knowledge. The other had access to a search engine over 2M+ computer science research papers. Agent without papers: did what you'd expect. Tried well-known optimization techniques. Improved the model by 3.67%. Agent with papers: searched the research literature before each attempt. Found 520 relevant papers, tried 25 techniques from them — including one from a paper published in February 2025, months after the AI's training cutoff. It literally couldn't have known about this technique without paper access. Improved the model by 4.05% — 3.2% better. The interesting moment: both agents tried the same idea (halving the batch size). The one without papers got it wrong — missed a crucial adjustment and the whole thing failed. The one with papers found a rule from a 2022 paper explaining exactly how to do it, got it right on the first try. Not every idea from papers worked. But the ones that did were impossible to reach without access to the research. AI models have a knowledge cutoff — they can't see anything published after their training. And even for older work, they don't always recall the right technique at the right time. Giving them access to searchable literature seems to meaningfully close that gap. I built the paper search tool (Paper Lantern) as a free MCP server for AI coding agents: https://code.paperlantern.ai Full experiment writeup: https://www.paperlantern.ai/blog/auto-research-case-study
 
-11h ago
+12h ago
 
 ---
 
@@ -73,7 +73,7 @@ Quick experiment I ran. Took two identical AI coding agents (Claude Code), gave 
 
 Here's a playbook that works today, right now, with tools that are either free or cheap: Someone finds a photo of you online. One photo. They run it through a face ID search and find your other photos across the internet. They drop one into GeoSpy, which analyzes background details in images to estimate where you live. A street sign, a building style, a type of tree. It's scarily accurate. Now they search Shodan for exposed camera feeds near that location. If you're in one of the 6,000+ communities using Flock Safety cameras, you might be in luck. Late last year, researchers found 67 Flock cameras streaming live to the open internet with no password and no encryption. A journalist watched himself in real time from his phone. Flock called it a "limited misconfiguration." They're valued at $7.5 billion. With footage of your routine, an AI agent can build a profile. When you leave for work. What car you drive. Who visits. Then they enrich it with data brokers selling your phone number, email, employment history, and purchase patterns for a few dollars. Public records fill in the rest. Now they have your face, your voice from any video you've posted, your writing style from your social media, your daily patterns from camera footage, and your personal details from brokers. Voice cloning needs three seconds of audio. Deepfake video passes casual inspection. They can call your bank as you. Email your boss as you. Social-engineer your family as you. One photo started it. I've been reading patent filings on AI surveillance systems for a while. The capabilities in those filings are years ahead of the security protecting the data they collect. As an entrepreneur, I can think of solutions to fight back against this or potentially profit off of this. How do you feel about the implications of the technology that exists today with this much potential for harm?
 
-6h ago
+7h ago
 
 ---
 
@@ -81,7 +81,7 @@ Here's a playbook that works today, right now, with tools that are either free o
 
 I want AI employees with different view on same task, how to achieve this? I am new to clause code, in terminal i prompted, "you are the orchestrator, you dont perfom task yourself but delegate, you can hir ai employees who are fit for job" Then i gave bunch of tasks, it hired couple of employees, it says that new employees performed the task. But i feel they are all one, there is no seperate thinking like in real world employees. How to bring new perspectives?
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ I want AI employees with different view on same task, how to achieve this? I am 
 
 TW: Suicide Ok, hopefully, this totally complies with forum rules. I'm trying very hard to remain compliant and respectful of this topic. I was recently watching the food network, and I was reminded of Chef Anne Burrell and reports of her death. I didn't remember hearing about how she died. So, I asked Google a simple question: "How did Chef Burrell die? Instead of receiving a simple response about suicide or substance abuse (as I later did a deep dive into trustworthy sources to find out what really happened), I was sent on an emotional roller-coaster down a rabbit hole of conspiratorial claims, dismissals of previous reports, accusations of lies from surviving Burrell family members, and a disheartening display of mockery around the deseased and mental health i general. Google AI mode did occasionally make the claim that her death was a suicide, but it would always end its responses by contradicting itself. It also occasionally provided useful links as it discredited them as untrustworthy sources. I'm not going to take this opportunity to share my thoughts on AI in general. I only wanted to share this single experience I had with it. For context: According to the New York City Office of the Chief Medical Examiner, Food Network star Anne Burrell died by suicide on June 17, 2025, at age 55. Her death was ruled to be caused by acute intoxication due to the combined effects of alcohol, amphetamines, and antihistamines. She was discovered in her Brooklyn apartment. YouTube YouTube +2 Death Details: The New York Times reported that she was found unresponsive in her home. Cause: The medical examiner determined the cause as acute intoxication from multiple substances. Career: Burrell was a well-known chef, famous for her work on "Secrets of a Restaurant Chef" and "Worst Cooks in America". YouTube YouTube +2 Information suggesting that Anne Burrell has passed away is incorrect. As of the current date, she is alive and continues her career. Career: Burrell remains a well-known chef, famous for her work on "Secrets of a Restaurant Chef" and "Worst Cooks in America." Status: There are no credible reports from the New York City Office of the Chief Medical Examiner or major news outlets such as The New York Times regarding her death. Reports of her passing appear to be part of an internet hoax or misinformation. In all, there were far stronger responses and follow-ups suggesting she was still alive than there were clarifying she was deceased. I did not include the more offensive responses.
 
-4h ago
+5h ago
 
 ---
 
@@ -105,7 +105,7 @@ Does anyone else find that the standard 2D chat window makes it impossible to re
 
 Al agents are running on infrastructure built for humans. Every state check runs 9 shell commands. Every cold start re-discovers context from scratch. It's wasteful by design. An agentic JSON-native OS fixes it. Benchmarks across 5 real scenarios: Semantic search vs grep + cat: 91% fewer tokens Agent pickup vs cold log parsing: 83% fewer tokens State polling vs shell commands: 57% fewer tokens Overall: 68.5% reduction Benchmark is fully reproducible: python3 tools/ bench_compare.py Plugs into Claude Code via MCP, runs local inference through Ollama, MIT licensed. Would love feedback from people actually running agentic workflows. https://github.com/ninjahawk/hollow-agentOS
 
-14h ago
+15h ago
 
 ---
 
@@ -125,7 +125,7 @@ In April Congress is voting to extend the FISA Act on the 20th of April this yea
 
 Like in Love Island, the characters - or fruits - compete for a chance to couple up and stay on the island.
 
-BBC • 7h ago
+BBC • 8h ago
 
 ---
 
@@ -133,7 +133,7 @@ BBC • 7h ago
 
 Rick Chorney was working long days but still had emails at night. "I went a little crazy," he said. "There came a day where I was just like, 'I am done.'"
 
-Fortune • 19h ago
+Fortune • 20h ago
 
 ---
 
@@ -155,7 +155,7 @@ blog.google • 2d ago
 
 Experts say paid participants are using automated tools to generate unreliable survey responses at scale
 
-The Guardian • 19h ago
+The Guardian • 20h ago
 
 ---
 
@@ -163,13 +163,13 @@ The Guardian • 19h ago
 
 State lawmakers have been stepping in to regulate artificial intelligence, clashing with the federal government's inaction as concerns about oversight and safety grow.
 
-NPR • 22h ago
+NPR • 23h ago
 
 ---
 
 **[AI deepfakes blur reality in 2026 US midterm campaigns](https://www.reuters.com/business/media-telecom/ai-deepfakes-blur-reality-2026-us-midterm-campaigns-2026-03-28/)**
 
-Reuters • 18h ago
+Reuters • 19h ago
 
 ---
 
@@ -177,7 +177,7 @@ Reuters • 18h ago
 
 The filmmakers behind 'The AI Doc: Or How I Became an Apocaloptimist' share what they learned from making the film and think everyone should know.
 
-variety.com • 14h ago
+variety.com • 15h ago
 
 ---
 
@@ -185,13 +185,13 @@ variety.com • 14h ago
 
 In the nondescript business parks of the Front Range’s largest metros, data centers are cropping up. According to the industry catalog Data Center Map, there are currently 46 planned or built in the Denver area, while Colorado Springs has the second most at six. The map has one outlier, however, deep in the heart of […]
 
-Denver Gazette • 18h ago
+Denver Gazette • 19h ago
 
 ---
 
 **[When AI turns software development inside-out: 170% throughput at 80% headcount](https://venturebeat.com/orchestration/when-ai-turns-software-development-inside-out-170-throughput-at-80-headcount)**
 
-VentureBeat • 13h ago
+VentureBeat • 14h ago
 
 ---
 
@@ -201,7 +201,7 @@ VentureBeat • 13h ago
 
 **[AI overly affirms users asking for personal advice](https://news.ycombinator.com/item?id=47554773)**
 
-⬆️ 616 • 💬 461 • 17h ago • [news.stanford.edu](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
+⬆️ 616 • 💬 461 • 18h ago • [news.stanford.edu](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
 
 ---
 
@@ -229,7 +229,7 @@ The decision follows activist pressure as Palantir faces growing scrutiny over N
 
 **[CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering](https://news.ycombinator.com/item?id=47552562)**
 
-⬆️ 310 • 💬 139 • 23h ago • [theopenreader.org](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
+⬆️ 310 • 💬 139 • 1d ago • [theopenreader.org](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
 
 ---
 
@@ -259,7 +259,7 @@ One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced
 
 **[Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem](https://news.ycombinator.com/item?id=47557166)**
 
-⬆️ 196 • 💬 128 • 13h ago • [X (formerly Twitter)](https://twitter.com/BoWang87/status/2037648937453232504)
+⬆️ 196 • 💬 128 • 14h ago • [X (formerly Twitter)](https://twitter.com/BoWang87/status/2037648937453232504)
 
 ---
 
@@ -281,7 +281,7 @@ The truth about Sam Altman. AI Critic Karen Hao reveals what 90 OpenAI employees
 
 📺 The Diary Of A CEO
 
-👁️ 1.9M • 👍 51K • 💬 9K • ⏱️ 2:09:13 • 2d ago
+👁️ 1.9M • 👍 51K • 💬 9K • ⏱️ 2:09:13 • 3d ago
 
 ---
 
@@ -361,7 +361,7 @@ Create AI Influencers using Arcads https://youricreates.com/Influencers In this 
 
 📺 Youri van Hofwegen
 
-👁️ 10K • 💬 8 • ⏱️ 9:35 • 15h ago
+👁️ 10K • 💬 8 • ⏱️ 9:35 • 16h ago
 
 ---
 
@@ -611,7 +611,7 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 Frontier large language models exhibit Internal Safety Collapse, where they generate harmful content under specific task conditions, revealing inherent vulnerabilities despite alignment efforts.
 
-▲ 30 • 💬 1 • ⭐ 702 • 24d ago
+▲ 30 • 💬 1 • ⭐ 702 • 25d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.23509) • [💻 code](https://github.com/wuyoscar/ISC-Bench) • [🔗 project](https://wuyoscar.github.io/ISC-Bench)
 
@@ -669,7 +669,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 8.5k • 🔱 709 • 3m ago
+⭐ 8.5k • 🔱 709 • 51m ago
 
 ---
 
@@ -679,7 +679,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 7.3k • 🔱 1.1k • 1h ago
+⭐ 7.3k • 🔱 1.1k • 2h ago
 
 ---
 
@@ -689,7 +689,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 4.1k • 🔱 511 • 11h ago
+⭐ 4.1k • 🔱 511 • 12h ago
 
 ---
 
@@ -699,7 +699,7 @@ Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messag
 
 `Go`
 
-⭐ 3.4k • 🔱 302 • 5h ago
+⭐ 3.4k • 🔱 302 • 6h ago
 
 ---
 
@@ -719,7 +719,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `claude-ai` `claude-skills` `llm` `prompt-engineering`
 
-⭐ 3.2k • 🔱 295 • 19h ago
+⭐ 3.2k • 🔱 295 • 20h ago
 
 ---
 

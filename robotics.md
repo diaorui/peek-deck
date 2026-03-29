@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-29T07:52:45.361593+00:00'
+updated: '2026-03-29T08:41:16.241513+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 29, 2026 at 07:52 UTC  
+**Last Updated:** March 29, 2026 at 08:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Who runs out of battery first decides the future](https://www.reddit.com/r/robotics/comments/1s6566h/who_runs_out_of_battery_first_decides_the_future/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 TechCrunch: Physical Intelligence is reportedly in talks to raise $1 billion, again: https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/
 
-19h ago
+20h ago
 
 ---
 
@@ -50,7 +50,7 @@ TechCrunch: Physical Intelligence is reportedly in talks to raise $1 billion, ag
 
 Im 15yr hobbyist , my 2nd project self funded. this project is currently in alpha stage .made using foamboard and used wooden blocks for strength, i will add robotic arm for my next phase (on top of it). used arduino UNO r3, 4TT motor, TB6612FNG driver. IR receiver for Remote control, can be controlled manually or turn on obstacle avoidance mode. more info in my GitHub: https://github.com/Ajaz-6O7/Rover-Project
 
-9h ago
+10h ago
 
 ---
 
@@ -58,7 +58,7 @@ Im 15yr hobbyist , my 2nd project self funded. this project is currently in alph
 
 Can anybody identify these ball joints in these two wrists and any useful analysis of these, they are from ross-hime designs. Inc web Here is the web: https://www.anthrobot.com/omni-wrist-vi/
 
-9h ago
+10h ago
 
 ---
 
@@ -66,7 +66,7 @@ Can anybody identify these ball joints in these two wrists and any useful analys
 
 For the robot arm, we're running a segmentation model that benchmarks at a rock-solid 20fps on an Nvidia RTX 5060 Ti. In this video, we're keeping the rover locked onto the target using Image-Based Visual Servoing (IBVS) and a simple proportional controller.
 
-14h ago
+15h ago
 
 ---
 
@@ -90,7 +90,7 @@ as the title says i'm looking for open source projects for small humanoids or qu
 
 There is the argument that humanoid robots are the future because they're generalists and their humanoid form means they can do whatever humans were doing. And while that is theoretically true, it misses an important point: Generality is only good if it performs better and more cost-effectively than the specialist machines in those tasks. I haven't seen anything to support the idea that humanoid form would necessarily surpass that threshold for many tasks. It can easily end up doing a mediocre job at many tasks because its lower productively delivers less profit per dollar spent on the machinery compared to specialist machines, and its form can never get as efficient as non-humanoid specialist machines. The "economies of scale" argument usually gets propositioned where economies of scale would lower the prices of humanoid robots so much that it would make it the more cost-effective option. However: Specialized machines can also experience economies of scale Economies of scale only bring down the price so much (the cost per unit decrease is not infinitely proportional based on how many units are produced, at some point the cost savings level off and can even revert) Simpler machinery and manufacturing of a specialized machine can mean lower fixed costs compared to the more complex manufacturing of a humanoid robot, meaning economies of scale could result in a lower cost being spread across many units for the former rather than the latter, making the former cheaper than the latter. Even if the humanoid robot is cheaper, the higher productivity and profitability of specialized machines may justify and make purchasing specialized machines the more fruitful endeavor. Saying humanoid robots will experience such cost savings from economies of scale assumes they'd be so favored by buyers that lots of units would be produced in the first place. To understand the limits of generalist technology, take this analogy: Instead of having a knife, fork, spoon, spatula, pizza cutter, etc. you could use a spork to serve in place of all those things. A spork would be cheaper, especially since you don't have to buy more utensils and clean and wash more, and it benefits from economies of scale, but a spork does a pretty mediocre job at all those tasks, it does not master them as effectively as those more specialized utensils. This is why in large part most people do not use a spork for most food tasks, and if it is good for anything it is only in a few highly specific occasions. A spork in this sense is a "Jack of all trades, master of none," where it can do many food tasks, but all in a mediocre fashion. A humanoid robot may very well end up the same, where it can do many tasks, but not in a more cost-effective manner.
 
-18h ago
+19h ago
 
 ---
 
@@ -130,7 +130,7 @@ CNBC • 2d ago
 
 Serve Robotics and Coco Robotics delivery robots reportedly crashed into Chicago bus shelters days apart, shattering glass with no injuries reported.
 
-foxbusiness.com • 10h ago
+foxbusiness.com • 11h ago
 
 ---
 
@@ -154,7 +154,7 @@ upi.com • 2d ago
 
 Researchers from Northwestern University have developed robots called "metamachines" that are composed of other robots.
 
-Futurism • 14h ago
+Futurism • 15h ago
 
 ---
 
@@ -166,7 +166,7 @@ Reuters • 2d ago
 
 **[Giant robots battle it out in Detroit’s Robowar](https://blog.adafruit.com/2026/03/28/giant-robots-battle-it-out-in-detroits-robowar/)**
 
-Adafruit • 15h ago
+Adafruit • 16h ago
 
 ---
 
@@ -266,7 +266,7 @@ rumi #huntrix #kpop #kpopdemonhunters #shorts #celebrity #trend #makeup #mira Al
 
 📺 Faces of Culture
 
-👁️ 487K • 👍 1K • 💬 2 • ⏱️ 0:04 • 20h ago
+👁️ 487K • 👍 1K • 💬 2 • ⏱️ 0:04 • 21h ago
 
 ---
 

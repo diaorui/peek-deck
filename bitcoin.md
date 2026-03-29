@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-29T07:52:45.352250+00:00'
+updated: '2026-03-29T08:41:16.232200+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
 - videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 29, 2026 at 07:52 UTC  
+**Last Updated:** March 29, 2026 at 08:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -89,7 +89,7 @@ I invested $4000 into crypto yesterday. Should I start dollar cost averaging the
 
 "I don't believe we shall have good money until we take it from the government. All we can do is, by a sly, roundabout way, introduce something they can't stop."
 
-35m ago
+1h ago
 
 ---
 
@@ -97,13 +97,13 @@ I invested $4000 into crypto yesterday. Should I start dollar cost averaging the
 
 I know nobody got a crystal ball and knows where it will go with Bitcoin. But why wouldn’t it slowly keep dropping over the years and kinda bleed out/become obsolete ? I love the idea of it becoming early retirement but what if we are totally wrong? Nobody knows ofc but what makes you guys so sure you keep putting money in you might need some day? (Again, I know nobody really knows just curious about perspective from the other side)
 
-1h ago
+2h ago
 
 ---
 
 **[Just explained to my friend again, how red months are the best opportunity to buy more bitcoin. I think he finally gets it.](https://www.reddit.com/r/Bitcoin/comments/1s60e4s/just_explained_to_my_friend_again_how_red_months/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -119,7 +119,7 @@ So I got curious about what happens if you just buy bitcoin and forget about it 
 
 As someone who's been super focused on building up my crypto portfolio since college, I'm excited to say I've reached the milestone I set for myself. Being in your late twenties and trying to build financial security while everyone around you is spending on everything definitely made me the "cheap friend" in the group more times than I'd like to admit. But after three years of putting most of my extra income into Bitcoin instead of new clothes, fancy dinners, or weekend trips, I finally have what feels like a solid foundation. Now I can actually start enjoying some of those things I've been putting off - maybe finally get that gym membership, treat myself to some new design software, or not stress about grabbing drinks with friends. Having this safety net built up feels amazing and I wanted to share with people who'd understand the discipline it took to get here
 
-11h ago
+12h ago
 
 ---
 
@@ -127,7 +127,7 @@ As someone who's been super focused on building up my crypto portfolio since col
 
 I’m curious if others had the same experience. Was there a concept or idea that looked easy at first, but turned out to be way deeper once you really got into it?
 
-10h ago
+11h ago
 
 ---
 
@@ -143,7 +143,7 @@ I was a junior in highschool, and BTC came up in the same conversations as Octop
 
 By collateralizing the 4,709 BTC with Coinbase Credit, GameStop gains liquidity and flexibility while still benefiting from any future appreciation in Bitcoin’s value.
 
-🔗 [Crowdfund Insider](https://www.crowdfundinsider.com/2026/03/269429-gamestop-maintains-bitcoin-holdings-according-to-latest-sec-filing/) • 19h ago
+🔗 [Crowdfund Insider](https://www.crowdfundinsider.com/2026/03/269429-gamestop-maintains-bitcoin-holdings-according-to-latest-sec-filing/) • 20h ago
 
 ---
 
@@ -151,7 +151,7 @@ By collateralizing the 4,709 BTC with Coinbase Credit, GameStop gains liquidity 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-1h ago
+2h ago
 
 ---
 
@@ -163,7 +163,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 From churches allowing congregants to tithe with digital coins to blogs promoting bitcoin as biblically sound, there’s an emerging Christian crypto subculture.
 
-NBC News • 20h ago
+NBC News • 21h ago
 
 ---
 
@@ -195,7 +195,7 @@ moomoo.com • 1h ago
 
 @DustyBC Crypto 4530 Views|1 Like
 
-moomoo.com • 1h ago
+moomoo.com • 2h ago
 
 ---
 
@@ -269,7 +269,7 @@ Clarity act for bitcoin and crypto is turning into a disaster. Follow Eric - htt
 
 📺 Digital Asset News
 
-👁️ 26K • 👍 1K • 💬 263 • ⏱️ 23:11 • 12h ago
+👁️ 26K • 👍 1K • 💬 263 • ⏱️ 23:11 • 13h ago
 
 ---
 
@@ -289,7 +289,7 @@ Bitcoin may not be breaking down all at once, but the structure is starting to w
 
 📺 Benjamin Cowen
 
-👁️ 75K • 👍 5K • 💬 293 • ⏱️ 26:12 • 20h ago
+👁️ 75K • 👍 5K • 💬 293 • ⏱️ 26:12 • 21h ago
 
 ---
 
@@ -319,7 +319,7 @@ Something big is going to happen on bitcoin and we discuss with analyst Benjamin
 
 📺 Alessio Rastani
 
-👁️ 48K • 👍 4K • 💬 453 • ⏱️ 24:30 • 19h ago
+👁️ 48K • 👍 4K • 💬 453 • ⏱️ 24:30 • 20h ago
 
 ---
 
@@ -329,7 +329,7 @@ Fannie Mae & Morgan Stanley Move on Bitcoin: Mortgages, Collateral, and $9.3T We
 
 📺 Swan Bitcoin
 
-👁️ 9K • 👍 583 • 💬 76 • ⏱️ 16:13 • 14h ago
+👁️ 9K • 👍 583 • 💬 76 • ⏱️ 16:13 • 15h ago
 
 ---
 
@@ -349,7 +349,7 @@ Strategy has been buying billions of dollars of BTC lately, despite MSTR's price
 
 📺 Coin Bureau
 
-👁️ 19K • 👍 981 • 💬 107 • ⏱️ 20:51 • 17h ago
+👁️ 19K • 👍 981 • 💬 107 • ⏱️ 20:51 • 18h ago
 
 ---
 
@@ -359,7 +359,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 4K • 👍 278 • 💬 24 • ⏱️ 29:43 • 9h ago
+👁️ 4K • 👍 278 • 💬 24 • ⏱️ 29:43 • 10h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-29T07:52:45.358351+00:00'
+updated: '2026-03-29T08:41:16.238085+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - videos
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 29, 2026 at 07:52 UTC  
+**Last Updated:** March 29, 2026 at 08:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -168,7 +168,7 @@ Barron's • 2d ago
 
 Bitcoin, XRP, Ethereum, and Solana are all down by 6-8% in a week. Here's what's driving the crypto market crash and what to watch next.
 
-24/7 Wall St. • 17h ago
+24/7 Wall St. • 18h ago
 
 ---
 
@@ -184,7 +184,7 @@ Seeking Alpha • 2d ago
 
 Across many of the most well-known ecosystems like Bitcoin, Ethereum, and Solana, responses are diverging along familiar lines: what to do on social consensus and technical iteration, and community members are split between caution and acceleration.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -214,13 +214,13 @@ Panini America • 1d ago
 
 BlackRock’s staked Ethereum fund pulled in $155 million on its first day of trading — more than the firm’s own Bitcoin ETF managed at launch. That number tells one part of Ethereum’s story in early 2026.The other part is harder to spin: the token itself has dropped more than 55% from its August 202…
 
-TradingView • 21h ago
+TradingView • 22h ago
 
 ---
 
 **[Ethereum Exodus or Opportunity? Franklin’s EZET Sees Cash Outflow as ETH Shows a Flicker of Strength](https://www.tipranks.com/news/cryptocurrencies/ethereum-exodus-or-opportunity-franklins-ezet-sees-cash-outflow-as-eth-shows-a-flicker-of-strength)**
 
-TipRanks • 15h ago
+TipRanks • 16h ago
 
 ---
 
@@ -234,7 +234,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 600 • 👍 79 • 💬 18 • ⏱️ 3:45 • 3h ago
+👁️ 600 • 👍 79 • 💬 18 • ⏱️ 3:45 • 4h ago
 
 ---
 
@@ -244,7 +244,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 4K • 👍 145 • 💬 29 • ⏱️ 11:06 • 17h ago
+👁️ 4K • 👍 145 • 💬 29 • ⏱️ 11:06 • 18h ago
 
 ---
 
@@ -264,7 +264,7 @@ BITCOIN BOUNCE CONFIRMED (But Don't be FOOLED)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 4K • 👍 192 • 💬 253 • ⏱️ 16:16 • 9h ago
+👁️ 4K • 👍 192 • 💬 253 • ⏱️ 16:16 • 10h ago
 
 ---
 
@@ -274,7 +274,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 1K • 👍 349 • 💬 86 • ⏱️ 12:14 • 3h ago
+👁️ 1K • 👍 349 • 💬 86 • ⏱️ 12:14 • 4h ago
 
 ---
 
@@ -284,7 +284,7 @@ Can a free Ethereum method really generate ETH or is it just another fake crypto
 
 📺 KYLE MADDOX
 
-👁️ 1K • 👍 306 • 💬 33 • ⏱️ 5:57 • 14h ago
+👁️ 1K • 👍 306 • 💬 33 • ⏱️ 5:57 • 15h ago
 
 ---
 
@@ -294,7 +294,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 MyCaNaLBF
 
-👁️ 8K • 👍 1K • 22h ago
+👁️ 8K • 👍 1K • 23h ago
 
 ---
 
@@ -304,7 +304,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 250 • 👍 16 • 💬 1 • ⏱️ 4:28 • 20h ago
+👁️ 250 • 👍 16 • 💬 1 • ⏱️ 4:28 • 21h ago
 
 ---
 
@@ -314,7 +314,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 80 • 💬 3 • ⏱️ 3:58 • 18h ago
+👁️ 1K • 👍 80 • 💬 3 • ⏱️ 3:58 • 19h ago
 
 ---
 
