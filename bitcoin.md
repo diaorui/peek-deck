@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-29T21:33:38.736876+00:00'
+updated: '2026-03-29T22:32:20.654929+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 29, 2026 at 21:33 UTC  
+**Last Updated:** March 29, 2026 at 22:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,406.98
+### $66,639.80
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +0.0%  
-**7d:** -5.9%  
-**30d:** -0.4%  
-**90d:** -24.6%  
-**1y:** -19.1%  
+**7d:** -6.3%  
+**30d:** -0.8%  
+**90d:** -24.9%  
+**1y:** -19.4%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Welcome to Bitcoin 2026 edition](https://www.reddit.com/r/Bitcoin/comments/1s6v37e/welcome_to_bitcoin_2026_edition/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -87,63 +87,7 @@ Rank #1
 
 "I don't believe we shall have good money until we take it from the government. All we can do is, by a sly, roundabout way, introduce something they can't stop."
 
-14h ago
-
----
-
-**[Watch out for this sketchy seed phrase "checker" site](https://www.reddit.com/r/Bitcoin/comments/1s6sxbm/watch_out_for_this_sketchy_seed_phrase_checker/)**
-
-Just stumbled on this shady operation where some influencer was pushing a site called crypllet or something similar. The whole pitch was basically "hey go make a wallet, load it up with crypto, then enter your seed words on our site to see if they've been leaked in any breaches" Like come on, anyone with half a brain knows you never enter your recovery phrase anywhere except when restoring an actual wallet. This is obviously just harvesting seed phrases to drain wallets later. Can't believe people might actually fall for this but I guess that's how these scams keep working The red flags are everywhere - why would you need to buy crypto first to check if words were compromised, and why would any legit service ask for your actual seed phrase instead of just a hash or something. Stay safe out there folks
-
-9h ago
-
----
-
-**[Fact based research article with massive list of verifiable public sources about Bitcoin Core's role in the data spam debate](https://www.reddit.com/r/Bitcoin/comments/1s74rkk/fact_based_research_article_with_massive_list_of/)**
-
-Interesting read, highly recommended for Bitcoiners. Let's discuss. https://www.citadel21.com/the-network
-
-1h ago
-
----
-
-**[I built a free Bitcoin news aggregator — no ads, no tracking, no cookies](https://www.reddit.com/r/Bitcoin/comments/1s74jrf/i_built_a_free_bitcoin_news_aggregator_no_ads_no/)**
-
-BitcoinCurate.com — pulls headlines from 30+ sources including news, YouTube, podcasts and Reddit. Updated every 15 minutes. Dark mode available. Built by a non-AI human. Would love any feedback, please. I'm a Bitcoiner in the Boston area. thanks
-
-2h ago
-
----
-
-**[Why bragging about Bitcoin profits backfires every time](https://www.reddit.com/r/Bitcoin/comments/1s6skwj/why_bragging_about_bitcoin_profits_backfires/)**
-
-Been thinking about this lately - whenever someone mentions how much they've made from Bitcoin, it usually just pisses people off instead of getting them interested Like when you tell someone you're up big, they don't think "wow what a smart move" they think "great, another thing I screwed up by not getting in earlier" Then instead of wanting to learn more they just write the whole thing off as a scam or bubble or whatever I've seen it happen so many times now. The louder someone gets about their portfolio gains, the more people around them start hating on crypto in general. It's not even about whether Bitcoin is good or bad at that point, it's just human nature getting in the way Probably better to just keep your mouth shut and let your actions speak for themselves
-
-10h ago
-
----
-
-**[Young and worried about where to put my energy](https://www.reddit.com/r/Bitcoin/comments/1s6vtj4/young_and_worried_about_where_to_put_my_energy/)**
-
-hey everyone, just need to get this off my chest and maybe get some input i'm 28 and work as a culinary instructor but lately i've been really anxious about everything going on. the economy feels unstable, traditional savings seem pointless with inflation, and even my field might change with all this new tech coming out been hearing more about bitcoin as something that could actually hold value long term. i know the basics but have never actually bought any or figured out how to get started properly. part of me wants to put some of my savings into it instead of just letting it sit in regular accounts losing value anyone here started investing when they felt overwhelmed by all the economic uncertainty? i prep my own food and try to be self sufficient in other ways but feel like i'm missing something important with bitcoin. would love to hear how others got past the initial confusion and actually took the step to buy some thanks for any guidance
-
-7h ago
-
----
-
-**[I invested 4000 into BTC](https://www.reddit.com/r/Bitcoin/comments/1s6741m/i_invested_4000_into_btc/)**
-
-I invested $4000 into crypto yesterday. Should I start dollar cost averaging the rest of the way or should I sell and wait for a bigger dip?
-
-1d ago
-
----
-
-**[Canyoning is now on BTCMap! 🌊⚡](https://www.reddit.com/r/Bitcoin/comments/1s6yncm/canyoning_is_now_on_btcmap/)**
-
-Canyoning guide Mario accepts Bitcoin. Creating visibility for Bitcoin businesses – project launched. Feedback? https://btcmap.org/merchant/36666
-
-5h ago
+15h ago
 
 ---
 
@@ -151,7 +95,63 @@ Canyoning guide Mario accepts Bitcoin. Creating visibility for Bitcoin businesse
 
 been thinking about this lately since everything seems cheap right now and i keep wanting to throw more cash at btc curious what everyone else is doing with their allocation between crypto and the usual stuff like index funds, individual stocks, bonds etc what percentage are you running and why did you pick that split? im a dev so i tend to overthink these decisions but would love to hear different approaches also yes i use arch btw and my fantasy team is doing terrible this year but thats another story lol
 
-2h ago
+3h ago
+
+---
+
+**[I built a free Bitcoin news aggregator — no ads, no tracking, no cookies](https://www.reddit.com/r/Bitcoin/comments/1s74jrf/i_built_a_free_bitcoin_news_aggregator_no_ads_no/)**
+
+BitcoinCurate.com — pulls headlines from 30+ sources including news, YouTube, podcasts and Reddit. Updated every 15 minutes. Dark mode available. Built by a non-AI human. Would love any feedback, please. I'm a Bitcoiner in the Boston area. thanks
+
+3h ago
+
+---
+
+**[Perfect timing for accumulating more BTC](https://www.reddit.com/r/Bitcoin/comments/1s74drx/perfect_timing_for_accumulating_more_btc/)**
+
+Markets are pretty rough right now with everything going on globally, but I'm trying to stay focused on the long-term picture. Things always seem to work themselves out eventually, even if the recovery process gets messy. Right now I'm treating every dip as a chance to add to my position. Been setting aside a portion of each paycheck and buying small amounts whenever we hit new local lows. No way to time the exact bottom obviously, but dollar cost averaging on the way down has worked well for me in the past. My productivity tracker app actually sends me alerts when the price drops more than 8% so I don't miss these windows. Might sound a bit obsessive but it's helped me stay disciplined about accumulating during volatile periods like this one.
+
+3h ago
+
+---
+
+**[What part of Bitcoin took you the longest to actually understand?](https://www.reddit.com/r/Bitcoin/comments/1s76tec/what_part_of_bitcoin_took_you_the_longest_to/)**
+
+I feel like some parts seem simple at first, but then you realize there’s a lot more going on underneath. For me, there are still a few things that I had to go back and read multiple times before they started to make sense. Curious how it was for others, was there something that took you a while before it finally clicked?
+
+1h ago
+
+---
+
+**[Watch out for this sketchy seed phrase "checker" site](https://www.reddit.com/r/Bitcoin/comments/1s6sxbm/watch_out_for_this_sketchy_seed_phrase_checker/)**
+
+Just stumbled on this shady operation where some influencer was pushing a site called crypllet or something similar. The whole pitch was basically "hey go make a wallet, load it up with crypto, then enter your seed words on our site to see if they've been leaked in any breaches" Like come on, anyone with half a brain knows you never enter your recovery phrase anywhere except when restoring an actual wallet. This is obviously just harvesting seed phrases to drain wallets later. Can't believe people might actually fall for this but I guess that's how these scams keep working The red flags are everywhere - why would you need to buy crypto first to check if words were compromised, and why would any legit service ask for your actual seed phrase instead of just a hash or something. Stay safe out there folks
+
+10h ago
+
+---
+
+**[Why bragging about Bitcoin profits backfires every time](https://www.reddit.com/r/Bitcoin/comments/1s6skwj/why_bragging_about_bitcoin_profits_backfires/)**
+
+Been thinking about this lately - whenever someone mentions how much they've made from Bitcoin, it usually just pisses people off instead of getting them interested Like when you tell someone you're up big, they don't think "wow what a smart move" they think "great, another thing I screwed up by not getting in earlier" Then instead of wanting to learn more they just write the whole thing off as a scam or bubble or whatever I've seen it happen so many times now. The louder someone gets about their portfolio gains, the more people around them start hating on crypto in general. It's not even about whether Bitcoin is good or bad at that point, it's just human nature getting in the way Probably better to just keep your mouth shut and let your actions speak for themselves
+
+11h ago
+
+---
+
+**[Synchronization scam](https://www.reddit.com/r/Bitcoin/comments/1s786nm/synchronization_scam/)**
+
+Someone in my DMs is trying to get me to go on a website in order to synchronize my wallet. According to Google, synchronization is achieved simply by refreshing a wallet when I’m connected to the internet, within the wallet app. Anything else is a scam, right?
+
+39m ago
+
+---
+
+**[Young and worried about where to put my energy](https://www.reddit.com/r/Bitcoin/comments/1s6vtj4/young_and_worried_about_where_to_put_my_energy/)**
+
+hey everyone, just need to get this off my chest and maybe get some input i'm 28 and work as a culinary instructor but lately i've been really anxious about everything going on. the economy feels unstable, traditional savings seem pointless with inflation, and even my field might change with all this new tech coming out been hearing more about bitcoin as something that could actually hold value long term. i know the basics but have never actually bought any or figured out how to get started properly. part of me wants to put some of my savings into it instead of just letting it sit in regular accounts losing value anyone here started investing when they felt overwhelmed by all the economic uncertainty? i prep my own food and try to be self sufficient in other ways but feel like i'm missing something important with bitcoin. would love to hear how others got past the initial confusion and actually took the step to buy some thanks for any guidance
+
+8h ago
 
 ---
 
@@ -175,35 +175,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Here’s Why Bitcoin Investors Must Protect Key $60,490 Level – Analyst](https://www.tradingview.com/news/newsbtc:a0a47dc65094b:0-here-s-why-bitcoin-investors-must-protect-key-60-490-level-analyst/)**
-
-Joao Wedson, popular market analyst and founder of analytics platform Alphractal, has shared a cautionary insight on the Bitcoin market involving potential developments with the Binance exchange reserves. Binance BTC Reserves In Danger – Possible Deep Bear Market? The Bitcoin market has remained in…
-
-TradingView • 4h ago
-
----
-
-**[MSTR may have paused it's BTC accumulation last week](https://www.coindesk.com/markets/2026/03/29/strategy-may-have-paused-bitcoin-accumulation-last-week-ending-a-thirteen-week-buying-streak)**
-
-The company seemed to have skipped it's weekly bitcoin purchase announcement for the first time since late december.
-
-CoinDesk • 3h ago
-
----
-
-**[Bitcoin price analysis: Bullish bets on Bitfinex surge](https://www.coindesk.com/markets/2026/03/29/bitcoin-bullish-bets-hit-a-28-month-high-on-bitfinex-and-that-s-music-to-bears-ears)**
-
-Historically, spikes in Bitfinex BTC/USD longs have acted as a contrary indicator.
-
-CoinDesk • 4h ago
-
----
-
 **[Bitcoin Setting Up For A Sell Signal, Says Legendary Trader, But Where Exactly Is The Bottom?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-setting-sell-signal-says-123159834.html)**
 
 Veteran trader and chartist Peter Brandt flagged a pattern on Thursday signaling weakening bullish momentum for Bitcoin. Another Wave Of Selling? Brandt, a technical analyst with nearly 50 years of experience, highlighted a rising wedge formation—a bearish technical analysis pattern...
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -215,9 +191,23 @@ The Motley Fool • 2d ago
 
 ---
 
+**[Bitcoin Price Today: Why Cryptos Including XRP Are Falling Fast](https://www.barrons.com/articles/bitcoin-xrp-crypto-price-today-f98eeaec?gaa_at=eafs&gaa_n=AWEtsqe_HrWfkCvy2e72Y6sVeu2uMJPnKQYtoB6hV95W7dOSEvBd4Jzgqr6M&gaa_ts=69c9abe4&gaa_sig=kO8ezWNubIEmzaSk16GlBuAOUvViMDQOEnTpAcWWSSiz3_l_eKDJuNrOkAlFAhHiPkb_9tfP5XlhmJx7SNq9kA%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
 **[Goldman Sachs Just Quietly Called The Bitcoin Price Bottom—But There’s A Nasty Catch](https://www.forbes.com/sites/digital-assets/2026/03/28/goldman-sachs-just-quietly-called-the-bitcoin-price-bottom-but-theres-a-nasty-catch/)**
 
 Forbes • 1d ago
+
+---
+
+**[Institutions are paying Bitcoin custodians for the privilege of added risk](https://www.tradingview.com/news/cointelegraph:790acb9da094b:0-institutions-are-paying-bitcoin-custodians-for-the-privilege-of-added-risk/)**
+
+Opinion by: Kevin Loaec, CEO of WizardsardineFor decades, institutions have followed a familiar pattern when managing assets. They choose a large, regulated custodian. Then, institutions transfer responsibility. Institutions rely on the assumption that scale, compliance and insurance equate to safe…
+
+TradingView • 10h ago
 
 ---
 
@@ -229,9 +219,17 @@ Seeking Alpha • 2d ago
 
 ---
 
-**[5 long, loud years: Neighbor, county leader ready for Bitcoin mine shutdown](https://www.wjhl.com/news/local/5-long-loud-years-neighbor-county-leader-ready-for-bitcoin-mine-shutdown/)**
+**[Bitcoin Slumps With Options Showing Traders Turning Defensive](https://www.bloomberg.com/news/articles/2026-03-27/bitcoin-slumps-with-options-showing-traders-turning-defensive)**
 
-WJHL • 2d ago
+Bloomberg.com • 2d ago
+
+---
+
+**[Why GameStop Put $315 Million in Bitcoin Into a Covered Call Options Strategy](https://decrypt.co/362632/why-gamestop-bitcoin-covered-call-strategy)**
+
+GameStop has pledged nearly all of its Bitcoin to a covered-call strategy on Coinbase Prime to generate some yield.
+
+Decrypt • 1d ago
 
 ---
 
@@ -267,6 +265,12 @@ runs multiple inputs through a script/function in parallel using bash coprocs - 
 
 ---
 
+**[Uni feels so usless, I cant focus anymore](https://news.ycombinator.com/item?id=47567925)**
+
+⬆️ 4 • 💬 0 • 22m ago
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -277,7 +281,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 258 • 💬 30 • ⏱️ 18:06 • 19h ago
+👁️ 8K • 👍 258 • 💬 30 • ⏱️ 18:06 • 20h ago
 
 ---
 
@@ -307,7 +311,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 8K • 👍 415 • 💬 42 • ⏱️ 29:43 • 22h ago
+👁️ 8K • 👍 415 • 💬 42 • ⏱️ 29:43 • 23h ago
 
 ---
 
@@ -347,7 +351,7 @@ Bitcoin just crossed a line no one saw coming. For the first time, you can use i
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 121 • ⏱️ 15:31 • 1d ago
+👁️ 19K • 👍 1K • 💬 121 • ⏱️ 15:31 • 2d ago
 
 ---
 
@@ -357,7 +361,7 @@ One chart. 300 days. Every major Bitcoin move — called before it happened. And
 
 📺 No Bs Crypto
 
-👁️ 3K • 👍 279 • 💬 113 • ⏱️ 11:01 • 3h ago
+👁️ 3K • 👍 279 • 💬 113 • ⏱️ 11:01 • 4h ago
 
 ---
 
@@ -367,7 +371,7 @@ LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES BTCC: https://cryptokid.io/B
 
 📺 Crypto Kid
 
-👁️ 5K • 👍 408 • 💬 141 • ⏱️ 13:44 • 11h ago
+👁️ 5K • 👍 408 • 💬 141 • ⏱️ 13:44 • 12h ago
 
 ---
 

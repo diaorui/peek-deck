@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-29T21:33:38.742788+00:00'
+updated: '2026-03-29T22:32:20.660076+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 29, 2026 at 21:33 UTC  
+**Last Updated:** March 29, 2026 at 22:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** -6.8%  
-**30d:** +2.1%  
-**90d:** -32.6%  
-**1y:** +11.1%  
+**24h:** -0.1%  
+**7d:** -7.3%  
+**30d:** +1.5%  
+**90d:** -33.0%  
+**1y:** +10.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -166,11 +166,11 @@ ZyCrypto • 1d ago
 
 ---
 
-**[Ethereum builders propose ‘economic zone’ to tackle L2 fragmentation](https://www.tradingview.com/news/cointelegraph:73aca491a094b:0-ethereum-builders-propose-economic-zone-to-tackle-l2-fragmentation/)**
+**[Gnosis and Zisk announce 'Ethereum Economic Zone' rollup framework with Ethereum Foundation co-funding](https://www.theblock.co/post/395578/gnosis-and-zisk-announce-ethereum-economic-zone-rollup-framework-with-ethereum-foundation-co-funding)**
 
-Developers from Gnosis and Zisk, with backing from the Ethereum Foundation, have proposed a new framework aimed at unifying Ethereum’s fragmented layer-2 ecosystem by enabling rollups to interact seamlessly with each other and the mainnet in a single transaction.According to an announcement shared…
+The Ethereum Foundation is co-funding the "easy" initiative, which was announced at EthCC in Cannes, and partners include Aave, Titan, Centrifuge, and more.
 
-TradingView • 5h ago
+The Block • 7h ago
 
 ---
 
@@ -182,19 +182,27 @@ CoinDesk • 1d ago
 
 ---
 
-**[Gnosis and Zisk announce 'Ethereum Economic Zone' rollup framework with Ethereum Foundation co-funding](https://www.theblock.co/post/395578/gnosis-and-zisk-announce-ethereum-economic-zone-rollup-framework-with-ethereum-foundation-co-funding)**
-
-The Ethereum Foundation is co-funding the "easy" initiative, which was announced at EthCC in Cannes, and partners include Aave, Titan, Centrifuge, and more.
-
-The Block • 6h ago
-
----
-
 **[Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week](https://finance.yahoo.com/markets/crypto/articles/why-crypto-crashing-bitcoin-xrp-140126480.html)**
 
 Bitcoin (CRYPTO: BTC), XRP (CRYPTO: XRP), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) are all down 6-8% in a week, and the crypto market has shed over $80 billion in value since March 24. The Fear & Greed Index sits at 23, and the average crypto RSI has dropped to 39—oversold territory that the market ... Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week
 
 Yahoo Finance • 1d ago
+
+---
+
+**[What’s on the Ethereum Roadmap: Glamsterdam, Hegota and Beyond](https://decrypt.co/resources/whats-on-ethereum-roadmap-glamsterdam-hegota-beyond)**
+
+Ethereum has rolled out a steady stream of upgrades since 2022. Here’s how those changes fit together—and what’s still ahead.
+
+Decrypt • 6h ago
+
+---
+
+**[Ethereum Is Mispriced, Says Coinbase Research Chief Ahead of EthCC on Monday](https://www.tradingview.com/news/coinpedia:fb7d8079a094b:0-ethereum-is-mispriced-says-coinbase-research-chief-ahead-of-ethcc-on-monday/)**
+
+ETH is trading at $2,000 today, sitting 59% below its August 2025 all-time high. Most investors have written off altcoins in a brutal bear market. David Duong, Global Head of Institutional Research at Coinbase, thinks that is exactly the wrong read, especially when it comes to Ethereum.Speaking on…
+
+TradingView • 1d ago
 
 ---
 
@@ -212,15 +220,7 @@ Panini America • 2d ago
 
 **[VanEck’s Ethereum ETF Hit by Sharp Redemptions as Ether Slides Below $2,000](https://www.tipranks.com/news/cryptocurrencies/vanecks-ethereum-etf-hit-by-sharp-redemptions-as-ether-slides-below-2000)**
 
-TipRanks • 4h ago
-
----
-
-**[Weekend Round-Up: Crypto Exchange Gets Fed Approval, Ethereum Outperforms S&P 500 And More](https://www.benzinga.com/crypto/cryptocurrency/26/03/51529184/weekend-round-up-crypto-exchange-gets-fed-approval-ethereum-outperforms-sp-500-and-more)**
-
-BlackRock CEO Larry Fink earned $37.7 million in 2025 after a strong year marked by record $14 trillion AUM and solid earnings.
-
-Benzinga • 8h ago
+tipranks.com • 5h ago
 
 ---
 
@@ -234,7 +234,7 @@ If you hold Bitcoin or Ethereum... watch this! (alert!) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 5K • 👍 487 • 💬 45 • ⏱️ 9:24 • 1h ago
+👁️ 5K • 👍 487 • 💬 45 • ⏱️ 9:24 • 2h ago
 
 ---
 
@@ -254,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 82 • 💬 1 • ⏱️ 3:36 • 4h ago
+👁️ 1K • 👍 82 • 💬 1 • ⏱️ 3:36 • 5h ago
 
 ---
 
@@ -264,7 +264,7 @@ People in the cryptocurrency space and world markets are about to get a very hef
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 738 • 💬 312 • ⏱️ 27:50 • 12h ago
+👁️ 6K • 👍 738 • 💬 312 • ⏱️ 27:50 • 13h ago
 
 ---
 
@@ -284,7 +284,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 90 • 👍 4 • 💬 10 • ⏱️ 8:24 • 6h ago
+👁️ 90 • 👍 4 • 💬 10 • ⏱️ 8:24 • 7h ago
 
 ---
 
@@ -294,7 +294,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 143 • 💬 24 • ⏱️ 3:45 • 17h ago
+👁️ 2K • 👍 143 • 💬 24 • ⏱️ 3:45 • 18h ago
 
 ---
 
@@ -304,7 +304,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 294 • 👍 11 • 💬 1 • ⏱️ 4:45 • 11h ago
+👁️ 294 • 👍 11 • 💬 1 • ⏱️ 4:45 • 12h ago
 
 ---
 
@@ -314,7 +314,7 @@ Join Patreon for exclusive DAY TRADING, SWING TRADING, and HODLER content ...
 
 📺 Jayanth Ukwaththa - Trader's Life
 
-👁️ 668 • 👍 105 • 💬 57 • ⏱️ 25:46 • 4h ago
+👁️ 668 • 👍 105 • 💬 57 • ⏱️ 25:46 • 5h ago
 
 ---
 
@@ -324,7 +324,7 @@ Join Patreon for exclusive DAY TRADING, SWING TRADING, and HODLER content ...
 
 📺 幣圈發哥 Facrypto
 
-👁️ 2K • 👍 62 • 💬 15 • ⏱️ 9:00 • 11h ago
+👁️ 2K • 👍 62 • 💬 15 • ⏱️ 9:00 • 12h ago
 
 ---
 
