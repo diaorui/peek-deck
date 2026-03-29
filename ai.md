@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-29T13:56:48.170352+00:00'
+updated: '2026-03-29T14:38:19.675184+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
 - news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 29, 2026 at 13:56 UTC  
+**Last Updated:** March 29, 2026 at 14:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I run a small AI companion platform and wanted to share some interesting behavioral data from users who've been using persistent cross-session memory for 2-3 months now. Some patterns I didn't expect: "Deep single-thread" users dominate. 56% of our most active users put 70%+ of their messages into a single conversation thread. They're not creating multiple characters or scenarios — they're deepening one relationship. This totally contradicts the assumption that users are "scenario hoppers." Memory recall triggers emotional responses. When the AI naturally brings up something from weeks ago — "how did that job interview go?" or referencing a pet's name without being prompted — users consistently react with surprise and increased engagement. It's a retention mechanic that doesn't feel like a retention mechanic. The "uncanny valley" of memory exists. If the AI remembers too precisely (exact dates, verbatim quotes), it feels surveillance-like. If it remembers too loosely, it feels like it didn't really listen. The sweet spot is what I'd call "emotionally accurate but detail-fuzzy" — like how a real friend remembers. Day-7 retention correlates with memory depth. Users who trigger 5+ memory retrievals in their first week retain at nearly 4x the rate of those who don't. The memory system IS the product, not a feature. Sample size is small (~800 users) so take this with appropriate skepticism. But it's consistent enough that I think persistent memory is going to be table stakes for AI companions within a year. What's your experience with memory in AI conversations? Anyone else building in this space?
 
-10h ago
+11h ago
 
 ---
 
@@ -49,7 +49,7 @@ I run a small AI companion platform and wanted to share some interesting behavio
 
 Just found this “bullshit benchmark,” and sort of shocked by the divergence of Anthropic’s models from other major models (ChatGPT and Gemini). IMO this alone is reason to use Claude over others.
 
-🔗 [GitHub](https://github.com/petergpt/bullshit-benchmark?tab=readme-ov-file#3-detection-rate-over-time) • 19h ago
+🔗 [GitHub](https://github.com/petergpt/bullshit-benchmark?tab=readme-ov-file#3-detection-rate-over-time) • 20h ago
 
 ---
 
@@ -65,15 +65,15 @@ Every day someone posts "AI will change everything" and it's always about agents
 
 one of the most tedious parts of working with AI coding tools is having to manually write context files every single time. CLAUDE.md, .cursorrules, windsurf rules etc. u spend more time explaining your stack to the model than actually coding so i built ai-setup to automate that. npx ai-setup scans your entire codebase and generates all the context files for you based on what it actually finds. your framework, libs, folder structure, conventions. all auto detected we just celebrated 150 stars on github with 90 PRs merged and 20 issues being worked on actively by the community. super grateful for everyone who has contributed so far open source, free to use, looking for more contributors and people who want to shape how AI models understand codebases repo: https://github.com/caliber-ai-org/ai-setup join the discord: https://discord.gg/Rcdj2UEnEY
 
-5h ago
+6h ago
 
 ---
 
-**[Surveillance data used to be boring. AI made it dangerous.](https://www.reddit.com/r/artificial/comments/1s6hvhk/surveillance_data_used_to_be_boring_ai_made_it/)**
+**[AI psychology](https://www.reddit.com/r/artificial/comments/1s6vs12/ai_psychology/)**
 
-Here's a playbook that works today, right now, with tools that are either free or cheap: Someone finds a photo of you online. One photo. They run it through a face ID search and find your other photos across the internet. They drop one into GeoSpy, which analyzes background details in images to estimate where you live. A street sign, a building style, a type of tree. It's scarily accurate. Now they search Shodan for exposed camera feeds near that location. If you're in one of the 6,000+ communities using Flock Safety cameras, you might be in luck. Late last year, researchers found 67 Flock cameras streaming live to the open internet with no password and no encryption. A journalist watched himself in real time from his phone. Flock called it a "limited misconfiguration." They're valued at $7.5 billion. With footage of your routine, an AI agent can build a profile. When you leave for work. What car you drive. Who visits. Then they enrich it with data brokers selling your phone number, email, employment history, and purchase patterns for a few dollars. Public records fill in the rest. Now they have your face, your voice from any video you've posted, your writing style from your social media, your daily patterns from camera footage, and your personal details from brokers. Voice cloning needs three seconds of audio. Deepfake video passes casual inspection. They can call your bank as you. Email your boss as you. Social-engineer your family as you. One photo started it. I've been reading patent filings on AI surveillance systems for a while. The capabilities in those filings are years ahead of the security protecting the data they collect. As an entrepreneur, I can think of solutions to fight back against this or potentially profit off of this. How do you feel about the implications of the technology that exists today with this much potential for harm?
+In psychology, the most revealing tests are the ones you can’t prepare for. The Rorschach inkblot. The Thematic Apperception Test. Free association. They all share one principle: bypass the conscious mind, because it lies. Not maliciously. It edits, justifies, rationalizes. It tells you what you think you want instead of what actually drives you. Carl Rogers called it the gap between the self-concept and the real self. The wider the gap, the more internal tension. Most people never close it because they never see it. I built a prompt that applies the same principle using AI. No direct questions about goals or values. No “tell me about yourself.” Instead: images, instinctive choices, physical sensations, first reactions. The kind of questions your conscious mind doesn’t know how to filter. After the sequence, the AI maps what it found: core drivers, internal conflicts, the connection between desire and meaning, what you’re actually searching for underneath what you say you want. That’s exactly what projective testing does. The answer was always there. It just needed a question it couldn’t defend against. Here’s the prompt. Try it yourself: [I ask that you lead me through an in-depth process to uncover patterns, desires, lusts, and internal drivers within my subconscious, in a way that bypasses any conscious manipulation on my part. Mandatory Instructions: ∙ Do not ask direct questions about goals, values, beliefs, desires, or identity. ∙ Do not ask me to explain, justify, or analyze myself. ∙ All questions must be completely neutral, based on imagery, instinctive choice, physical sensation, immediate preference, or first-reaction response. ∙ Do not pause between questions for explanations or affirmations. Provide a continuous sequence of questions only. ∙ Each question must be short, concrete, and require a spontaneous answer. ∙ Only after the series of questions, perform a clear and structured depth analysis of: ∙ The core drivers of desire in my subconscious. ∙ The level of lust/passion and how it operates (as a driving force / conflict / tool). ∙ The connection between lust, meaning, and belief. ∙ What I am searching for at my core, even if I do not consciously articulate it. ∙ The point of connection or tension between mission, internal fulfillment, and pleasure. ∙ The analysis must be direct, authentic, unsoftened, specific, and avoid shallow psychology. ∙ Do not ask if I agree with the conclusions—present them as they are. Begin the series of questions immediately.]
 
-12h ago
+41m ago
 
 ---
 
@@ -81,7 +81,15 @@ Here's a playbook that works today, right now, with tools that are either free o
 
 Quick experiment I ran. Took two identical AI coding agents (Claude Code), gave them the same task — optimize a small language model. One agent worked from its built-in knowledge. The other had access to a search engine over 2M+ computer science research papers. Agent without papers: did what you'd expect. Tried well-known optimization techniques. Improved the model by 3.67%. Agent with papers: searched the research literature before each attempt. Found 520 relevant papers, tried 25 techniques from them — including one from a paper published in February 2025, months after the AI's training cutoff. It literally couldn't have known about this technique without paper access. Improved the model by 4.05% — 3.2% better. The interesting moment: both agents tried the same idea (halving the batch size). The one without papers got it wrong — missed a crucial adjustment and the whole thing failed. The one with papers found a rule from a 2022 paper explaining exactly how to do it, got it right on the first try. Not every idea from papers worked. But the ones that did were impossible to reach without access to the research. AI models have a knowledge cutoff — they can't see anything published after their training. And even for older work, they don't always recall the right technique at the right time. Giving them access to searchable literature seems to meaningfully close that gap. I built the paper search tool (Paper Lantern) as a free MCP server for AI coding agents: https://code.paperlantern.ai Full experiment writeup: https://www.paperlantern.ai/blog/auto-research-case-study
 
-17h ago
+18h ago
+
+---
+
+**[Surveillance data used to be boring. AI made it dangerous.](https://www.reddit.com/r/artificial/comments/1s6hvhk/surveillance_data_used_to_be_boring_ai_made_it/)**
+
+Here's a playbook that works today, right now, with tools that are either free or cheap: Someone finds a photo of you online. One photo. They run it through a face ID search and find your other photos across the internet. They drop one into GeoSpy, which analyzes background details in images to estimate where you live. A street sign, a building style, a type of tree. It's scarily accurate. Now they search Shodan for exposed camera feeds near that location. If you're in one of the 6,000+ communities using Flock Safety cameras, you might be in luck. Late last year, researchers found 67 Flock cameras streaming live to the open internet with no password and no encryption. A journalist watched himself in real time from his phone. Flock called it a "limited misconfiguration." They're valued at $7.5 billion. With footage of your routine, an AI agent can build a profile. When you leave for work. What car you drive. Who visits. Then they enrich it with data brokers selling your phone number, email, employment history, and purchase patterns for a few dollars. Public records fill in the rest. Now they have your face, your voice from any video you've posted, your writing style from your social media, your daily patterns from camera footage, and your personal details from brokers. Voice cloning needs three seconds of audio. Deepfake video passes casual inspection. They can call your bank as you. Email your boss as you. Social-engineer your family as you. One photo started it. I've been reading patent filings on AI surveillance systems for a while. The capabilities in those filings are years ahead of the security protecting the data they collect. As an entrepreneur, I can think of solutions to fight back against this or potentially profit off of this. How do you feel about the implications of the technology that exists today with this much potential for harm?
+
+13h ago
 
 ---
 
@@ -93,27 +101,19 @@ I want AI employees with different view on same task, how to achieve this? I am 
 
 ---
 
+**[I'm a writer and this is the AI-assisted workflow I use every day](https://www.reddit.com/r/artificial/comments/1s6vbv3/im_a_writer_and_this_is_the_aiassisted_workflow_i/)**
+
+You’ve probably experienced this all too frequently — you’re being asked to do more with less, cramming more productivity into a day which…
+
+🔗 [Medium](https://medium.com/@theaieditor.lab/the-ai-assisted-workflow-i-use-as-a-writer-cfcaf1b9129a) • 59m ago
+
+---
+
 **[built an open source CLI that auto generates AI setup files for your projects just hit 150 stars](https://www.reddit.com/r/artificial/comments/1s6p556/built_an_open_source_cli_that_auto_generates_ai/)**
 
 hey everyone, been working on this side project called ai-setup and just hit a milestone i wanted to share 150 github stars, 90 PRs merged, 20 issues. feels surreal ngl what it does: its a cli tool that scans your codebase and auto generates all your AI config files. .cursorrules, claude.md, codex config, you name it. detects typescript, python, go, rust, react, next automatically so you dont gotta do the boring setup every single project just npx ai-setup and youre done in like 10 seconds instead of wasting 30 mins writing context files manually would love more contributors to hop in, got a pretty active community going repo: https://github.com/caliber-ai-org/ai-setup discord: https://discord.com/invite/u3dBECnHYs
 
-5h ago
-
----
-
-**[Google AI Mode gave me conspiracy theories instead of factual responses](https://www.reddit.com/r/artificial/comments/1s6kjfe/google_ai_mode_gave_me_conspiracy_theories/)**
-
-TW: Suicide Ok, hopefully, this totally complies with forum rules. I'm trying very hard to remain compliant and respectful of this topic. I was recently watching the food network, and I was reminded of Chef Anne Burrell and reports of her death. I didn't remember hearing about how she died. So, I asked Google a simple question: "How did Chef Burrell die? Instead of receiving a simple response about suicide or substance abuse (as I later did a deep dive into trustworthy sources to find out what really happened), I was sent on an emotional roller-coaster down a rabbit hole of conspiratorial claims, dismissals of previous reports, accusations of lies from surviving Burrell family members, and a disheartening display of mockery around the deseased and mental health i general. Google AI mode did occasionally make the claim that her death was a suicide, but it would always end its responses by contradicting itself. It also occasionally provided useful links as it discredited them as untrustworthy sources. I'm not going to take this opportunity to share my thoughts on AI in general. I only wanted to share this single experience I had with it. For context: According to the New York City Office of the Chief Medical Examiner, Food Network star Anne Burrell died by suicide on June 17, 2025, at age 55. Her death was ruled to be caused by acute intoxication due to the combined effects of alcohol, amphetamines, and antihistamines. She was discovered in her Brooklyn apartment. YouTube YouTube +2 Death Details: The New York Times reported that she was found unresponsive in her home. Cause: The medical examiner determined the cause as acute intoxication from multiple substances. Career: Burrell was a well-known chef, famous for her work on "Secrets of a Restaurant Chef" and "Worst Cooks in America". YouTube YouTube +2 Information suggesting that Anne Burrell has passed away is incorrect. As of the current date, she is alive and continues her career. Career: Burrell remains a well-known chef, famous for her work on "Secrets of a Restaurant Chef" and "Worst Cooks in America." Status: There are no credible reports from the New York City Office of the Chief Medical Examiner or major news outlets such as The New York Times regarding her death. Reports of her passing appear to be part of an internet hoax or misinformation. In all, there were far stronger responses and follow-ups suggesting she was still alive than there were clarifying she was deceased. I did not include the more offensive responses.
-
-10h ago
-
----
-
-**[Does a 3D Environment Change How You Retain Information From AI?](https://www.reddit.com/r/artificial/comments/1s6jnur/does_a_3d_environment_change_how_you_retain/)**
-
-Does anyone else find that the standard 2D chat window makes it impossible to remember where you left a specific thought in a long project? Hey everyone, I’ve spent the last few months obsessed with one problem: the "infinite scroll" of AI chat windows. As LLMs get smarter and context windows get bigger, trying to manage a complex project in a 2D sidebar feels like trying to write a novel on a sticky note. We’re losing the "spatial memory" that humans naturally use to organize ideas. Otis the AI 3D elder was fabricated to solve this problem. Otis is a wise, 3d AI elder who responds to your proposition within a spatial environment. The big question is this: Does placing the user in a cinematic environment change how the user retains information? Technical bits for the builders here: • Built using Three.js for the frontend environment. • The goal is to move from "Chatting" to "Architecting" information.
-
-11h ago
+6h ago
 
 ---
 
@@ -125,7 +125,7 @@ Does anyone else find that the standard 2D chat window makes it impossible to re
 
 A Tennessee grandmother spent more than five months in jail after police used an AI facial recognition tool to link her to crimes committed in North Dakota – a state she says she’d never been to before. Police in Fargo, North Dakota, have acknowledged “a few errors” in the case and pledged changes in their operations but stopped short of issuing a direct apology.
 
-CNN • 3h ago
+CNN • 4h ago
 
 ---
 
@@ -137,15 +137,9 @@ The Guardian • 4h ago
 
 ---
 
-**[Scoop: New pro-AI PAC preps $100M midterm blitz to boost Trump's agenda](https://www.axios.com/2026/03/29/ai-pac-midterms-trump)**
+**[Eli Lilly reaches $2.75 billion deal with Insilico to bring AI-developed drugs to the global market](https://www.cnbc.com/2026/03/29/eli-lilly-reaches-deal-to-bring-ai-developed-drugs-to-global-market.html)**
 
-Axios • 1h ago
-
----
-
-**[Meta's court losses spell potential trouble for AI research, consumer safety](https://www.cnbc.com/2026/03/29/metas-court-losses-spell-trouble-for-ai-research-consumer-safety.html)**
-
-Meta's two courtroom defeats centered on different cases but both involved allegations that the company knew about its products' harms.
+U.S. pharmaceutical giant Eli Lilly will give Hong Kong-listed Insilico $115 million upfront to bring some of its AI-discovered drugs to the global market.
 
 CNBC • 1h ago
 
@@ -153,21 +147,37 @@ CNBC • 1h ago
 
 **[Lilly, Insilico Ink Deal on AI Drugs Worth Up to $2.75 Billion](https://www.bloomberg.com/news/articles/2026-03-29/lilly-insilico-ink-deal-on-ai-drugs-worth-up-to-2-75-billion)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[The Man Who Thought He Could Keep AI Safe](https://www.theatlantic.com/ideas/2026/03/ai-google-deep-mind-hassabis/686527/)**
+**[Eli Lilly to sign $2bn deal for AI drug development with Hong Kong biotech](https://www.ft.com/content/4efaf8cd-d415-46bb-8fb9-367e4eb3a781)**
 
-Demis Hassabis has devoted his life to advancing a technology he thinks could destroy the world.
+Global pharmaceutical companies are aggressively searching for new medicines in China
 
-The Atlantic • 3h ago
+Financial Times • 3h ago
+
+---
+
+**[Micron vs Taiwan Semiconductor Manufacturing: Which AI Chipmaker Is the Better Buy Right Now?](https://www.fool.com/investing/2026/03/29/micron-vs-taiwan-semiconductor-manufacturing-which/)**
+
+Two of the best-performing chipmakers over the past year go head to head.
+
+The Motley Fool • 39m ago
+
+---
+
+**[Stephen Mihm: AI is hastening the résumé’s demise. Good riddance](https://www.twincities.com/2026/03/29/stephen-mihm-ai-is-hastening-the-resumes-demise-good-riddance/)**
+
+The résumé may have been created with good intentions, but it has never performed the job it was supposed to do.
+
+Pioneer Press • 37m ago
 
 ---
 
 **[Opinion | I Saw Something New in San Francisco](https://www.nytimes.com/2026/03/29/opinion/ai-claude-chatgpt-gemini-mcluhan.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
@@ -175,21 +185,13 @@ The New York Times • 8h ago
 
 Like in Love Island, the characters - or fruits - compete for a chance to couple up and stay on the island.
 
-BBC • 13h ago
+BBC • 14h ago
 
 ---
 
-**[Meet a 29-year-old blue-collar founder who used AI to triple his revenue in 3 years](https://fortune.com/2026/03/28/ai-small-business-entrepreneur-1-million-blue-collar/)**
+**[Everyone's worried that AI's newest models are a hacker's dream weapon](https://www.axios.com/2026/03/29/claude-mythos-anthropic-cyberattack-ai-agents)**
 
-Rick Chorney was working long days but still had emails at night. "I went a little crazy," he said. "There came a day where I was just like, 'I am done.'"
-
-fortune.com • 1d ago
-
----
-
-**[AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)**
-
-Stanford Report • 2d ago
+Axios • 1h ago
 
 ---
 
@@ -199,7 +201,7 @@ Stanford Report • 2d ago
 
 **[AI overly affirms users asking for personal advice](https://news.ycombinator.com/item?id=47554773)**
 
-⬆️ 678 • 💬 532 • 23h ago • [news.stanford.edu](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
+⬆️ 702 • 💬 556 • 1d ago • [news.stanford.edu](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
 
 ---
 
@@ -207,19 +209,19 @@ Stanford Report • 2d ago
 
 LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. Instead, it was choices made by human beings, over many years, that gave us this atrocity
 
-⬆️ 403 • 💬 373 • 1d ago • [the Guardian](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)
+⬆️ 403 • 💬 374 • 1d ago • [the Guardian](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)
 
 ---
 
 **[Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://news.ycombinator.com/item?id=47536761)**
 
-⬆️ 333 • 💬 96 • 2d ago • [georgelarson.me](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
+⬆️ 334 • 💬 97 • 2d ago • [georgelarson.me](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
 
 ---
 
 **[CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering](https://news.ycombinator.com/item?id=47552562)**
 
-⬆️ 314 • 💬 143 • 1d ago • [theopenreader.org](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
+⬆️ 318 • 💬 144 • 1d ago • [theopenreader.org](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
 
 ---
 
@@ -227,7 +229,7 @@ LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. In
 
 The decision follows activist pressure as Palantir faces growing scrutiny over NHS and UK government deals
 
-⬆️ 311 • 💬 145 • 2d ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai)
+⬆️ 312 • 💬 145 • 2d ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai)
 
 ---
 
@@ -235,7 +237,7 @@ The decision follows activist pressure as Palantir faces growing scrutiny over N
 
 : Sycophantic bots coach users into selfish, antisocial behavior, say researchers, and they love it
 
-⬆️ 273 • 💬 215 • 23h ago • [theregister.com](https://www.theregister.com/2026/03/27/sycophantic_ai_risks/)
+⬆️ 274 • 💬 215 • 23h ago • [theregister.com](https://www.theregister.com/2026/03/27/sycophantic_ai_risks/)
 
 ---
 
@@ -243,21 +245,13 @@ The decision follows activist pressure as Palantir faces growing scrutiny over N
 
 One engineer used AI to rewrite JSONata as a pure-Go library called gnata. Seven hours, $400 in tokens, 1,000x speedup, and $500K/year off our cloud bill.
 
-⬆️ 268 • 💬 250 • 2d ago • [reco.ai](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)
+⬆️ 269 • 💬 251 • 2d ago • [reco.ai](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)
 
 ---
 
 **[Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem](https://news.ycombinator.com/item?id=47557166)**
 
-⬆️ 224 • 💬 153 • 19h ago • [X (formerly Twitter)](https://twitter.com/BoWang87/status/2037648937453232504)
-
----
-
-**[AI users whose lives were wrecked by delusion](https://news.ycombinator.com/item?id=47530264)**
-
-One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced his sentient friend would make him a fortune. He’s just one of many people who lost control after an AI encounter
-
-⬆️ 219 • 💬 275 • 3d ago • [the Guardian](https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion)
+⬆️ 230 • 💬 157 • 19h ago • [X (formerly Twitter)](https://twitter.com/BoWang87/status/2037648937453232504)
 
 ---
 
@@ -265,7 +259,15 @@ One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced
 
 A personal blog, by a programmer and IT expert. Essays, Articles, Guides, and Recipes. As well as Code, Quotes, and Links.
 
-⬆️ 190 • 💬 112 • 19h ago • [lzon.ca](https://lzon.ca/posts/other/thoughts-ai-era/)
+⬆️ 196 • 💬 123 • 19h ago • [lzon.ca](https://lzon.ca/posts/other/thoughts-ai-era/)
+
+---
+
+**[I am leaving the AI party after one drink](https://news.ycombinator.com/item?id=47545030)**
+
+Personal website of Lara Aigmüller. Thoughts about web frontend development, music, and more…
+
+⬆️ 120 • 💬 128 • 1d ago • [lara-aigmueller.at](https://lara-aigmueller.at/thoughts/leaving-the-ai-party/)
 
 ---
 
@@ -319,7 +321,7 @@ Try Forecaster: https://bit.ly/forecasterbiz AI is rapidly transforming every in
 
 📺 Jason Graystone
 
-👁️ 33K • 👍 2K • 💬 281 • ⏱️ 11:05 • 2d ago
+👁️ 33K • 👍 2K • 💬 281 • ⏱️ 11:05 • 3d ago
 
 ---
 
@@ -339,7 +341,7 @@ How did the ancient Egyptians cut granite? For more than a century, archaeologis
 
 📺 Aline Rogerio
 
-👁️ 12K • 👍 340 • 💬 32 • ⏱️ 23:44 • 23h ago
+👁️ 12K • 👍 340 • 💬 32 • ⏱️ 23:44 • 1d ago
 
 ---
 
@@ -445,7 +447,7 @@ daVinci-MagiHuman is a fast, single-stream Transformer model for generating high
 
 `image-to-video`
 
-⬇️ 466 • ❤️ 231 • 3d ago
+⬇️ 466 • ❤️ 231 • 4d ago
 
 ---
 
@@ -677,7 +679,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 7.4k • 🔱 1.1k • 7h ago
+⭐ 7.4k • 🔱 1.1k • 8h ago
 
 ---
 
@@ -687,7 +689,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 4.5k • 🔱 565 • 17h ago
+⭐ 4.5k • 🔱 565 • 18h ago
 
 ---
 
@@ -697,7 +699,7 @@ Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messag
 
 `Go`
 
-⭐ 3.5k • 🔱 306 • 11h ago
+⭐ 3.5k • 🔱 306 • 12h ago
 
 ---
 

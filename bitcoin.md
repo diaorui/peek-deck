@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-29T13:56:48.178786+00:00'
+updated: '2026-03-29T14:38:19.682848+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - news
+- videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 29, 2026 at 13:56 UTC  
+**Last Updated:** March 29, 2026 at 14:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** -5.7%  
-**30d:** -0.1%  
-**90d:** -24.4%  
-**1y:** -18.8%  
+**24h:** -0.6%  
+**7d:** -6.1%  
+**30d:** -0.6%  
+**90d:** -24.7%  
+**1y:** -19.2%  
 
 ---
 
@@ -81,15 +81,13 @@ Rank #1
 
 "I don't believe we shall have good money until we take it from the government. All we can do is, by a sly, roundabout way, introduce something they can't stop."
 
-6h ago
+7h ago
 
 ---
 
-**[I invested 4000 into BTC](https://www.reddit.com/r/Bitcoin/comments/1s6741m/i_invested_4000_into_btc/)**
+**[Welcome to Bitcoin 2026 edition](https://www.reddit.com/r/Bitcoin/comments/1s6v37e/welcome_to_bitcoin_2026_edition/)**
 
-I invested $4000 into crypto yesterday. Should I start dollar cost averaging the rest of the way or should I sell and wait for a bigger dip?
-
-20h ago
+1h ago
 
 ---
 
@@ -101,9 +99,11 @@ Just stumbled on this shady operation where some influencer was pushing a site c
 
 ---
 
-**[Just explained to my friend again, how red months are the best opportunity to buy more bitcoin. I think he finally gets it.](https://www.reddit.com/r/Bitcoin/comments/1s60e4s/just_explained_to_my_friend_again_how_red_months/)**
+**[I invested 4000 into BTC](https://www.reddit.com/r/Bitcoin/comments/1s6741m/i_invested_4000_into_btc/)**
 
-1d ago
+I invested $4000 into crypto yesterday. Should I start dollar cost averaging the rest of the way or should I sell and wait for a bigger dip?
+
+20h ago
 
 ---
 
@@ -111,7 +111,29 @@ Just stumbled on this shady operation where some influencer was pushing a site c
 
 Been thinking about this lately - whenever someone mentions how much they've made from Bitcoin, it usually just pisses people off instead of getting them interested Like when you tell someone you're up big, they don't think "wow what a smart move" they think "great, another thing I screwed up by not getting in earlier" Then instead of wanting to learn more they just write the whole thing off as a scam or bubble or whatever I've seen it happen so many times now. The louder someone gets about their portfolio gains, the more people around them start hating on crypto in general. It's not even about whether Bitcoin is good or bad at that point, it's just human nature getting in the way Probably better to just keep your mouth shut and let your actions speak for themselves
 
-2h ago
+3h ago
+
+---
+
+**[Just explained to my friend again, how red months are the best opportunity to buy more bitcoin. I think he finally gets it.](https://www.reddit.com/r/Bitcoin/comments/1s60e4s/just_explained_to_my_friend_again_how_red_months/)**
+
+1d ago
+
+---
+
+**[BTC or saving cash](https://www.reddit.com/r/Bitcoin/comments/1s6os8m/btc_or_saving_cash/)**
+
+Where would you put new money right now—into BTC or keeping it as cash?
+
+7h ago
+
+---
+
+**[Young and worried about where to put my energy](https://www.reddit.com/r/Bitcoin/comments/1s6vtj4/young_and_worried_about_where_to_put_my_energy/)**
+
+hey everyone, just need to get this off my chest and maybe get some input i'm 28 and work as a culinary instructor but lately i've been really anxious about everything going on. the economy feels unstable, traditional savings seem pointless with inflation, and even my field might change with all this new tech coming out been hearing more about bitcoin as something that could actually hold value long term. i know the basics but have never actually bought any or figured out how to get started properly. part of me wants to put some of my savings into it instead of just letting it sit in regular accounts losing value anyone here started investing when they felt overwhelmed by all the economic uncertainty? i prep my own food and try to be self sufficient in other ways but feel like i'm missing something important with bitcoin. would love to hear how others got past the initial confusion and actually took the step to buy some thanks for any guidance
+
+39m ago
 
 ---
 
@@ -123,35 +145,11 @@ So I got curious about what happens if you just buy bitcoin and forget about it 
 
 ---
 
-**[BTC or saving cash](https://www.reddit.com/r/Bitcoin/comments/1s6os8m/btc_or_saving_cash/)**
-
-Where would you put new money right now—into BTC or keeping it as cash?
-
-6h ago
-
----
-
 **[Finally hit my Bitcoin savings target!](https://www.reddit.com/r/Bitcoin/comments/1s6akp8/finally_hit_my_bitcoin_savings_target/)**
 
 As someone who's been super focused on building up my crypto portfolio since college, I'm excited to say I've reached the milestone I set for myself. Being in your late twenties and trying to build financial security while everyone around you is spending on everything definitely made me the "cheap friend" in the group more times than I'd like to admit. But after three years of putting most of my extra income into Bitcoin instead of new clothes, fancy dinners, or weekend trips, I finally have what feels like a solid foundation. Now I can actually start enjoying some of those things I've been putting off - maybe finally get that gym membership, treat myself to some new design software, or not stress about grabbing drinks with friends. Having this safety net built up feels amazing and I wanted to share with people who'd understand the discipline it took to get here
 
-17h ago
-
----
-
-**[Daily Discussion, March 29, 2026](https://www.reddit.com/r/Bitcoin/comments/1s6neuz/daily_discussion_march_29_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-7h ago
-
----
-
-**[I bought a sheet of acid for 10 BTC in 2012. It doesn't haunt me as much as you'd think.](https://www.reddit.com/r/Bitcoin/comments/1s5sg3c/i_bought_a_sheet_of_acid_for_10_btc_in_2012_it/)**
-
-I was a junior in highschool, and BTC came up in the same conversations as Octopussy. My friends and i heard that for like $5 we could get a bunch of btc and someone on the dark web might actually send us drugs. At the time the cheapest hit of wholesale 'cid i could get was $2 a tab, $50 for the sheet. So if this worked, it would 10X my profit. The acid came in a birthday card. I was amazed but didn't bother to continue with it. The person who introduced me to the whole concept also accepted my measly $5 and bought the BTC. Yes, he has quite a few left over and continued to be involved long term, didn't work much after highschool. I first remembered my involvement in Btc when it hit $4K. Couldn't believe it, but bought a little just for nostalgia. Then at $8K i bought more but not much, because who tf thought it would ever get to $8 fucking K. When it hit $16K i started dollar-cost averaging weekly deposits. No regrets. I'm happy to be in at all, some people STILL don't hold any BTC. In b4, just like all of you 🤝
-
-1d ago
+18h ago
 
 ---
 
@@ -163,7 +161,7 @@ I was a junior in highschool, and BTC came up in the same conversations as Octop
 
 From churches allowing congregants to tithe with digital coins to blogs promoting bitcoin as biblically sound, there’s an emerging Christian crypto subculture.
 
-NBC News • 1d ago
+nbcnews.com • 1d ago
 
 ---
 
@@ -175,17 +173,25 @@ CoinDesk • 1d ago
 
 ---
 
+**[Bitcoin Price Holds Above STH Realized Price As Selling Pressure Thins Out – Details](https://www.tradingview.com/news/newsbtc:cb64219dd094b:0-bitcoin-price-holds-above-sth-realized-price-as-selling-pressure-thins-out-details/)**
+
+Bitcoin continues to move within the $66,000 range following the corrective wave that dominated the last trading week. The leading cryptocurrency remains in a bear market that began in October 2025, and has resulted in a 52% decline from the cycle’s all-time high so far. However, recent on-chain da…
+
+TradingView • 1h ago
+
+---
+
 **[Bitcoin Setting Up For A Sell Signal, Says Legendary Trader, But Where Exactly Is The Bottom?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-setting-sell-signal-says-123159834.html)**
 
 Veteran trader and chartist Peter Brandt flagged a pattern on Thursday signaling weakening bullish momentum for Bitcoin. Another Wave Of Selling? Brandt, a technical analyst with nearly 50 years of experience, highlighted a rising wedge formation—a bearish technical analysis pattern...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Traders Pile Into Bets Against Bitcoin Price — Is A Short Squeeze Looming?](https://www.tradingview.com/news/newsbtc:a928fb00a094b:0-traders-pile-into-bets-against-bitcoin-price-is-a-short-squeeze-looming/)**
+**[Institutions are paying Bitcoin custodians for the privilege of added risk](https://www.tradingview.com/news/cointelegraph:790acb9da094b:0-institutions-are-paying-bitcoin-custodians-for-the-privilege-of-added-risk/)**
 
-After declining to around $65,500 on Friday, Bitcoin appears to be recovering slowly this weekend. Having briefly reclaimed the $67,000 level on Saturday, March 28, the premier cryptocurrency seems to be enjoying a brewing bullish momentum. According to the latest on-chain data, the Bitcoin price m…
+Opinion by: Kevin Loaec, CEO of WizardsardineFor decades, institutions have followed a familiar pattern when managing assets. They choose a large, regulated custodian. Then, institutions transfer responsibility. Institutions rely on the assumption that scale, compliance and insurance equate to safe…
 
 TradingView • 2h ago
 
@@ -197,37 +203,33 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[The End Of Bitcoin Will Be Its New Beginning (Cryptocurrency: BTC-USD)](https://seekingalpha.com/article/4886535-the-end-of-bitcoin-will-be-its-new-beginning)**
+**[Bitcoin Slumps With Options Showing Traders Turning Defensive](https://finance.yahoo.com/markets/crypto/articles/bitcoin-slumps-options-showing-traders-114316734.html)**
 
-Bitcoin is no longer driven by scarcity-based models; its price now tracks demand dynamics and correlates with high-beta tech indices. Learn more about BTC-USD here.
+(Bloomberg) -- Bitcoin touched a more than two-week low with traders assuming a defensive posture following the largest expiry of option this year. Roughly $14 billion of Bitcoin options expired Friday, as measured by the number for outstanding contracts, known as open interest. The quarterly rollover comes amid conflicting signals on the prospect of a halt to the nearly month-long war in the Middle East. Looking at traders’ positions, they seem to be anticipating a prolonged war, potential stag
 
-Seeking Alpha • 2d ago
-
----
-
-**[Goldman Sachs Just Quietly Called The Bitcoin Price Bottom—But There’s A Nasty Catch](https://www.forbes.com/sites/digital-assets/2026/03/28/goldman-sachs-just-quietly-called-the-bitcoin-price-bottom-but-theres-a-nasty-catch/)**
-
-forbes.com • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[5 long, loud years: Neighbor, county leader ready for Bitcoin mine shutdown](https://www.wjhl.com/news/local/5-long-loud-years-neighbor-county-leader-ready-for-bitcoin-mine-shutdown/)**
+**[Bitcoin faces $14 billion options expiry while Middle East turmoil mounts](https://fortune.com/2026/03/26/bitcoin-faces-14-billion-options-expiry-while-middle-east-turmoil-mounts/)**
 
-WJHL • 2d ago
+The quarterly rollover—which wipes out close to 40% of open positions on the dominant Deribit exchange—comes while U.S. President Donald Trump is threatening Iran with intensified military action.
+
+Fortune • 2d ago
 
 ---
 
-**[Bitcoin Price Today: Why Cryptos Including XRP Are Falling Fast](https://www.barrons.com/articles/bitcoin-xrp-crypto-price-today-f98eeaec?gaa_at=eafs&gaa_n=AWEtsqfG_Cg9rGJS28ioUMl0YDhG6kPr6thkM1t0Mk3FH0UQu3j8eme1n-VF&gaa_ts=69c92577&gaa_sig=CRGV5N-ewFBWSXb77nIoW25-KoyC2GzNCNKGQjisol0pgQabKBqTzovGTPz_mKYfUYPFEtVbpsMURHHllfoZoA%3D%3D)**
+**[Bitcoin Price Today: Why Cryptos Including XRP Are Falling Fast](https://www.barrons.com/articles/bitcoin-xrp-crypto-price-today-f98eeaec?gaa_at=eafs&gaa_n=AWEtsqcYdM_jYf9E3zFgTHMjC59-02s4u-AY_3aAxEvanJN2mw5unAJHfy7y&gaa_ts=69c93cc8&gaa_sig=w8ypZjY8Ma31h2qKjmx8j3scAuA5Dfm99rFO-V6Kk-YEnv1VEW0hxc4J_3RxEAn6cjAJLXFfUn3B2FzeiatPMQ%3D%3D)**
 
 Barron's • 2d ago
 
 ---
 
-**[Why GameStop Put $315 Million in Bitcoin Into a Covered Call Options Strategy](https://decrypt.co/362632/why-gamestop-bitcoin-covered-call-strategy)**
+**[The End Of Bitcoin Will Be Its New Beginning (Cryptocurrency: BTC-USD)](https://seekingalpha.com/article/4886535-the-end-of-bitcoin-will-be-its-new-beginning)**
 
-GameStop has pledged nearly all of its Bitcoin to a covered-call strategy on Coinbase Prime to generate some yield.
+Bitcoin is no longer driven by scarcity-based models; its price now tracks demand dynamics and correlates with high-beta tech indices. Learn more about BTC-USD here.
 
-Decrypt • 21h ago
+Seeking Alpha • 2d ago
 
 ---
 
@@ -273,7 +275,7 @@ Clarity act for bitcoin and crypto is turning into a disaster. Follow Eric - htt
 
 📺 Digital Asset News
 
-👁️ 28K • 👍 1K • 💬 281 • ⏱️ 23:11 • 18h ago
+👁️ 28K • 👍 1K • 💬 281 • ⏱️ 23:11 • 19h ago
 
 ---
 
@@ -293,7 +295,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 177 • 💬 30 • ⏱️ 18:06 • 11h ago
+👁️ 4K • 👍 177 • 💬 30 • ⏱️ 18:06 • 12h ago
 
 ---
 
@@ -303,7 +305,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 6K • 👍 320 • 💬 25 • ⏱️ 29:43 • 15h ago
+👁️ 6K • 👍 320 • 💬 25 • ⏱️ 29:43 • 16h ago
 
 ---
 

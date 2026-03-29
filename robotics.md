@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-29T13:56:48.187877+00:00'
+updated: '2026-03-29T14:38:19.690969+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 29, 2026 at 13:56 UTC  
+**Last Updated:** March 29, 2026 at 14:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,15 @@ Robotics research and industry news
 
 **[Who runs out of battery first decides the future](https://www.reddit.com/r/robotics/comments/1s6566h/who_runs_out_of_battery_first_decides_the_future/)**
 
-21h ago
+22h ago
+
+---
+
+**[π, But Make It Fly (Stanford Multi-robot Systems Laboratory - paper)](https://www.reddit.com/r/robotics/comments/1s6uvo9/π_but_make_it_fly_stanford_multirobot_systems/)**
+
+"We fine-tuned π0, a VLA model pretrained entirely on manipulators, to fly a drone that picks up objects, navigates through gates, and composes both skills from language commands." Stanford MSL on 𝕏: https://x.com/StanfordMSL/status/2037760965228556431 π, But Make It Fly: Physics-Guided Transfer of VLA Models to Aerial Manipulation arXiv:2603.25038 [cs.RO]: https://arxiv.org/abs/2603.25038 Project page: https://airvla.github.io/
+
+1h ago
 
 ---
 
@@ -50,7 +58,7 @@ TechCrunch: Physical Intelligence is reportedly in talks to raise $1 billion, ag
 
 Im 15yr hobbyist , my 2nd project self funded. this project is currently in alpha stage .made using foamboard and used wooden blocks for strength, i will add robotic arm for my next phase (on top of it). used arduino UNO r3, 4TT motor, TB6612FNG driver. IR receiver for Remote control, can be controlled manually or turn on obstacle avoidance mode. more info in my GitHub: https://github.com/Ajaz-6O7/Rover-Project
 
-15h ago
+16h ago
 
 ---
 
@@ -58,7 +66,7 @@ Im 15yr hobbyist , my 2nd project self funded. this project is currently in alph
 
 Can anybody identify these ball joints in these two wrists and any useful analysis of these, they are from ross-hime designs. Inc web Here is the web: https://www.anthrobot.com/omni-wrist-vi/
 
-15h ago
+16h ago
 
 ---
 
@@ -102,12 +110,6 @@ Hello everyone, I wanted to share my project that I've been working on for month
 
 ---
 
-**[WANDER-Bot, a wind-powered robot designed for long-term exploration of hostile environments.](https://www.reddit.com/r/robotics/comments/1s59h0n/wanderbot_a_windpowered_robot_designed_for/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -122,15 +124,7 @@ Bloomberg.com • 1d ago
 
 In the musical experiment, violinists wore lightweight robotic exoskeletons attached to their bow-playing arms, which delivered subtle changes to their natural movements.
 
-Euronews.com • 7h ago
-
----
-
-**[Are robots coming to a McDonald’s near you?](https://www.foxnews.com/tech/robots-coming-mcdonalds-near-you)**
-
-McDonald's tested humanoid robots from Keenon Robotics at a Shanghai location, where they greeted customers and delivered food in a short pilot program.
-
-Fox News • 2h ago
+euronews.com • 8h ago
 
 ---
 
@@ -138,23 +132,23 @@ Fox News • 2h ago
 
 Serve Robotics and Coco Robotics delivery robots reportedly crashed into Chicago bus shelters days apart, shattering glass with no injuries reported.
 
-Fox Business • 16h ago
+Fox Business • 17h ago
 
 ---
 
-**[Delivery robots keep crashing into bus shelters](https://www.popsci.com/technology/delivery-robots-crash-bus-shelters/)**
+**[Are robots coming to a McDonald’s near you?](https://www.foxnews.com/tech/robots-coming-mcdonalds-near-you)**
 
-It's been a bad week for burritos on wheels.
+McDonald's tested humanoid robots from Keenon Robotics at a Shanghai location, where they greeted customers and delivered food in a short pilot program.
 
-Popular Science • 2d ago
+Fox News • 3h ago
 
 ---
 
-**[Delivery robots smash Chicago bus shelters in two separate incidents](https://www.upi.com/Odd_News/2026/03/26/Chicago-delivery-robots-bus-shelters/4041774539291/)**
+**[Meet Figure AI: The company behind the humanoid robot hosted by Melania Trump](https://www.cnbc.com/2026/03/26/figure-ai-the-robotics-company-hosted-by-melania-trump.html)**
 
-Two delivery robots crashed into two bus shelters in Chicago within a matter of days -- and one of the incidents was caught on camera.
+The White House hosted its first humanoid robot guest, with first lady Melania Trump appearing alongside a robot from startup Figure AI.
 
-upi.com • 2d ago
+CNBC • 3d ago
 
 ---
 
@@ -170,23 +164,29 @@ The Motley Fool • 1h ago
 
 Researchers from Northwestern University have developed robots called "metamachines" that are composed of other robots.
 
-Futurism • 20h ago
+Futurism • 21h ago
 
 ---
 
-**[Video Friday: Beep! Beep! Roadrunner Bipedal Bot Breaks the Mold](https://spectrum.ieee.org/roadrunner-bipedal-robot)**
+**[China’s rifle-toting robot dogs operate like swarm platform, can transform modern warfare](https://interestingengineering.com/military/china-robot-dogs-with-rifles-operate-like-one)**
 
-Roadrunner moves in-line, on one wheel, or two to stay nimble and on the go. Plus NASA's SkyFall Mars helicopters and MoonFall mission are gearing up.
+Using a shared sensing network, China's robot dogs showcased autonomous collaboration and joint decision-making within the group. The pack can also integrate with drones for coordinated air-ground operations.
 
-IEEE Spectrum • 1d ago
+Interesting Engineering • 1d ago
 
 ---
 
-**[Meet Figure AI: The company behind the humanoid robot hosted by Melania Trump](https://www.cnbc.com/2026/03/26/figure-ai-the-robotics-company-hosted-by-melania-trump.html)**
+**[Giant robots battle it out in Detroit’s Robowar](https://blog.adafruit.com/2026/03/28/giant-robots-battle-it-out-in-detroits-robowar/)**
 
-The White House hosted its first humanoid robot guest, with first lady Melania Trump appearing alongside a robot from startup Figure AI.
+Adafruit • 22h ago
 
-CNBC • 3d ago
+---
+
+**[Scientists design living robots with intelligent neurons](https://3dvf.com/en/scientists-design-living-robots-with-intelligent-neurons/)**
+
+When a robot's next move comes from living tissue, what counts as programming? In one lab, tiny hand-built creatures are lighting up and roaming in ways their makers never wrote into code.
+
+3dvf.com • 21h ago
 
 ---
 
@@ -210,7 +210,7 @@ Learn for free on Brilliant for a full 30 days: https://brilliant.org/NikodemBar
 
 📺 Nikodem Bartnik
 
-👁️ 74K • 👍 3K • 💬 62 • ⏱️ 9:55 • 4d ago
+👁️ 74K • 👍 3K • 💬 62 • ⏱️ 9:55 • 5d ago
 
 ---
 
@@ -260,7 +260,7 @@ Robotic Fingers Beat Human Hands! This clip shows a highly advanced robotic hand
 
 📺 Nerb Films
 
-👁️ 21K • 💬 25 • ⏱️ 0:12 • 1d ago
+👁️ 21K • 💬 25 • ⏱️ 0:12 • 2d ago
 
 ---
 
