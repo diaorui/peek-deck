@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-29T20:34:48.297183+00:00'
+updated: '2026-03-29T21:33:38.745962+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 29, 2026 at 20:34 UTC  
+**Last Updated:** March 29, 2026 at 21:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Unipath has launched a household robot that is now in real-home use. It can wake users up on time, operate home appliances, organize storage spaces, and even cook meals automatically.](https://www.reddit.com/r/robotics/comments/1s7065y/unipath_has_launched_a_household_robot_that_is/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 "We fine-tuned π0, a VLA model pretrained entirely on manipulators, to fly a drone that picks up objects, navigates through gates, and composes both skills from language commands." Stanford MSL on 𝕏: https://x.com/StanfordMSL/status/2037760965228556431 π, But Make It Fly: Physics-Guided Transfer of VLA Models to Aerial Manipulation arXiv:2603.25038 [cs.RO]: https://arxiv.org/abs/2603.25038 Project page: https://airvla.github.io/
 
-7h ago
+8h ago
 
 ---
 
 **[US lawmakers to introduce bill to ban government use of Chinese robots](https://www.reddit.com/r/robotics/comments/1s75mvr/us_lawmakers_to_introduce_bill_to_ban_government/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/) • 21m ago
+🔗 [reuters.com](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/) • 1h ago
 
 ---
 
@@ -62,7 +62,7 @@ Robotics research and industry news
 
 ​ Hey everyone, I’m a senior CS student building a proof-of-concept for a fully local, AI-guided mapping robot, and I’d love some feedback on my architecture to help me improve. (First 30s are tech stack, remainder is robot running around my room) The robot drives forward until the ultrasonic sensor detects a wall. It backs up, and then triggers a local Vision-Language Model (NVIDIA VILA 2.7B running via nano_llm on the Jetson). The AI looks at the camera frame, identifies the scene (e.g., "see a drawer"), and tells the ROS2 exploration controller which direction to turn next. Everything runs completely offline. My current tech stack: Jetson Orin Nano + ROS2 Humble Arduino Mega for motor/encoder control (2 HiTechnic motor controllers and 4 Tetrix 12v Torquenado motors) Single ultrasonic sensor (currently) + a cheap usb camera (to be determined if I upgrade to a depth camera or something else) VILA 2.7B for scene labeling and high-level navigation decisions I know the movement in this video is pretty jittery (combination of ultrasonic noise and serial communication gaps). I actually just ordered an LDROBOT STL-27L LiDAR to upgrade the stack to proper 360° ICP SLAM and to fully flesh out 2D maps of my whole apt. The end goal being for this phase of the robot is to be plopped down anywhere and go to the location that I tell it to go to. Later on, I would have a robot arm that I built using 15kg and 25kg servos be attached to the front and masked whenever they pass the clearance of the lidar. The arm would have the usb camera from earlier or an OpenMVRT1062 AI cam to help identify target objects and grasp them and then go to a destination. For those of you working in the robotics industry: What issues do you see with this approach? What specific tools, libraries, or design patterns is my project currently missing that hiring managers look for in entry-level robotics engineers? Are there any specific upgrades I should keep in mind for the future such as a depth camera being needed or a higher res camera, upgrades to motor controllers, etc. Thanks in advance. I’m here to learn, so please don't hold back on the critiques!
 
-23m ago
+1h ago
 
 ---
 
@@ -70,7 +70,7 @@ Robotics research and industry news
 
 Hello there. I have been searching for an SBC for some projects, but a lot of them seem to be out of budget for my projects. Other than the Raspberry Pi 5 and Jetson Nano, what SBC would work fine with little tinkering and troubleshooting, and without support problems? I mainly intend to use it for ROS2 on Ubuntu for autonomous drone and Roboracer development, to run VSLAM, and maybe some segmentation or recognition models. i came across the Orange Pi and Radxa SBCs, but i'm not sure on there support for ROS2
 
-9m ago
+1h ago
 
 ---
 
@@ -86,7 +86,7 @@ TechCrunch: Physical Intelligence is reportedly in talks to raise $1 billion, ag
 
 tengo en mente un protecto que parece que será simple aunque yo desconozco totalmente sobre la robótica etc... si alguien pudiera ayudarme estaria más que agradecido ya tengo Arduino y etc aunque no se usarlo :(
 
-5h ago
+6h ago
 
 ---
 
@@ -94,7 +94,7 @@ tengo en mente un protecto que parece que será simple aunque yo desconozco tota
 
 Im 15yr hobbyist , my 2nd project self funded. this project is currently in alpha stage .made using foamboard and used wooden blocks for strength, i will add robotic arm for my next phase (on top of it). used arduino UNO r3, 4TT motor, TB6612FNG driver. IR receiver for Remote control, can be controlled manually or turn on obstacle avoidance mode. more info in my GitHub: https://github.com/Ajaz-6O7/Rover-Project
 
-22h ago
+23h ago
 
 ---
 
@@ -102,7 +102,7 @@ Im 15yr hobbyist , my 2nd project self funded. this project is currently in alph
 
 Can anybody identify these ball joints in these two wrists and any useful analysis of these, they are from ross-hime designs. Inc web Here is the web: https://www.anthrobot.com/omni-wrist-vi/
 
-22h ago
+23h ago
 
 ---
 
@@ -112,7 +112,7 @@ Can anybody identify these ball joints in these two wrists and any useful analys
 
 **[AI Robotics Lab in Talks to Raise $1 Billion at $11 Billion Valuation](https://www.bloomberg.com/news/articles/2026-03-27/ex-deepmind-staffers-robotics-startup-in-talks-for-11-billion-valuation)**
 
-Bloomberg.com • 1d ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -120,7 +120,7 @@ Bloomberg.com • 1d ago
 
 In the musical experiment, violinists wore lightweight robotic exoskeletons attached to their bow-playing arms, which delivered subtle changes to their natural movements.
 
-Euronews.com • 14h ago
+Euronews.com • 15h ago
 
 ---
 
@@ -128,7 +128,7 @@ Euronews.com • 14h ago
 
 Early customers included Disney.
 
-Fortune • 18m ago
+Fortune • 1h ago
 
 ---
 
@@ -136,7 +136,7 @@ Fortune • 18m ago
 
 Serve Robotics and Coco Robotics delivery robots reportedly crashed into Chicago bus shelters days apart, shattering glass with no injuries reported.
 
-foxbusiness.com • 23h ago
+foxbusiness.com • 1d ago
 
 ---
 
@@ -144,7 +144,7 @@ foxbusiness.com • 23h ago
 
 As enrollment drops amid sinking science comprehension, FIRST adds that it still aims to inspire students by showcasing future opportunities that science can provide.
 
-WMUR • 19h ago
+WMUR • 20h ago
 
 ---
 
@@ -152,7 +152,7 @@ WMUR • 19h ago
 
 McDonald's tested humanoid robots from Keenon Robotics at a Shanghai location, where they greeted customers and delivered food in a short pilot program.
 
-Fox News • 8h ago
+Fox News • 9h ago
 
 ---
 
@@ -168,7 +168,7 @@ CNBC • 3d ago
 
 The Robotics and AI Institute (RAI) has just released a video of its Roadrunner robot. Although it lacks a torso, the bipedal bot more than makes up for it by rolling, stomping, stair-climbing, and even showing off while using only one of its legs.
 
-New Atlas • 1h ago
+New Atlas • 2h ago
 
 ---
 
@@ -192,43 +192,23 @@ Interesting Engineering • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[NVIDIA Just Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=eIAF4CbbUWI)**
-
-Thanks to Delete Me for sponsoring this video. To keep your private info private check out https://www.JoinDeleteMe.com/Kimjava ...
-
-📺 Kim Java
-
-👁️ 187K • 👍 8K • 💬 381 • ⏱️ 20:00 • 5d ago
-
----
-
-**[6 Robots You Can Build in 2026](https://www.youtube.com/watch?v=8smjYAsxAts)**
-
-Learn for free on Brilliant for a full 30 days: https://brilliant.org/NikodemBartnik/ . You'll also get 20% off an annual Premium ...
-
-📺 Nikodem Bartnik
-
-👁️ 79K • 👍 3K • 💬 62 • ⏱️ 9:55 • 5d ago
-
----
-
-**[The Real-Life Future of Humanoid Robots](https://www.youtube.com/watch?v=ktwtZNKDV0E)**
-
-Brett Adcock shares his vision for the future of humanoid robots, why he believes synthetic humans will become one of the most ...
-
-📺 Shawn Ryan Show
-
-👁️ 47K • 👍 2K • 💬 557 • ⏱️ 14:05 • 2d ago
-
----
-
 **[Maniac Melania Trump Suggests Replacing Teachers With Robots](https://www.youtube.com/watch?v=mpQYocsUpdg)**
 
 Melania Trump suggested using humanoid AI robots like a “Plato” educator to teach children, proposing a future where ...
 
 📺 Farron Balanced
 
-👁️ 36K • 👍 3K • 💬 829 • ⏱️ 5:10 • 3d ago
+👁️ 37K • 👍 3K • 💬 833 • ⏱️ 5:10 • 3d ago
+
+---
+
+**[Watch: Humanoid robot walks alongside first lady Melania Trump at White House](https://www.youtube.com/watch?v=X-NjEku-zE4)**
+
+Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
+
+📺 CBS News
+
+👁️ 49K • 👍 357 • 💬 365 • ⏱️ 9:54 • 4d ago
 
 ---
 
@@ -238,27 +218,17 @@ A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White H
 
 📺 C-SPAN
 
-👁️ 218K • 👍 948 • 💬 1K • ⏱️ 2:59 • 4d ago
+👁️ 219K • 👍 961 • 💬 1K • ⏱️ 2:59 • 4d ago
 
 ---
 
-**[Robotic Fingers Beat Human Hands! 🤚](https://www.youtube.com/watch?v=hDmb96fnmzQ)**
+**[The Real-Life Future of Humanoid Robots](https://www.youtube.com/watch?v=ktwtZNKDV0E)**
 
-Robotic Fingers Beat Human Hands! This clip shows a highly advanced robotic hand performing precise and controlled ...
+Brett Adcock shares his vision for the future of humanoid robots, why he believes synthetic humans will become one of the most ...
 
-📺 Nerb Films
+📺 Shawn Ryan Show
 
-👁️ 21K • 💬 25 • ⏱️ 0:12 • 2d ago
-
----
-
-**[Melania Trump Promotes Humanoid Robots as Potential Educators | The View](https://www.youtube.com/watch?v=q6fcoXkiVnQ)**
-
-'The View' co-hosts and Abby Huntsman react to the first lady's sneak peek at the classroom of the future. Subscribe to our ...
-
-📺 The View
-
-👁️ 67K • 👍 1K • 💬 421 • ⏱️ 6:42 • 2d ago
+👁️ 49K • 👍 2K • 💬 576 • ⏱️ 14:05 • 2d ago
 
 ---
 
@@ -268,27 +238,57 @@ This week in robotics got kind of ridiculous. South Korea showed off a humanoid 
 
 📺 AI Revolution
 
-👁️ 236K • 👍 3K • 💬 145 • ⏱️ 14:31 • 6d ago
+👁️ 237K • 👍 3K • 💬 147 • ⏱️ 14:31 • 6d ago
 
 ---
 
-**[North Dallas startup turns humanoid robots into the hottest guests at local events](https://www.youtube.com/watch?v=_CXgIl6Q0-0)**
+**[Melania Trump Goes OFF THE RAILS With Alarming Robot Teacher Announcement](https://www.youtube.com/watch?v=JsTKgM8fYUk)**
 
-A North Dallas startup, The Robot Studio, is turning humanoid robots into must‑book talent for parties, weddings and corporate ...
+Melania Trump sparks alarm over a White House event where she walked in with a robot and made an announcement about ...
 
-📺 CBS TEXAS
+📺 The Damage Report
 
-👁️ 3K • 👍 24 • 💬 8 • ⏱️ 3:57 • 1d ago
+👁️ 19K • 👍 890 • 💬 434 • ⏱️ 8:42 • 3d ago
 
 ---
 
-**[Shanghai startup builds a &#39;Chinese brain&#39; for robot that allows it to think in real-time](https://www.youtube.com/watch?v=mPG6hlOXHVU)**
+**[🇺🇸 First Lady Melania Trump Showcases Figure 03 Humanoid AI Robot at White House Fostering Summit](https://www.youtube.com/watch?v=raQ1pAtisqA)**
 
-A robot lifts a leg, steps forward, and climbs a flight of stairs inside Grand NeoBay, Shanghai's answer to Silicon Valley. For years ...
+Live coverage of speeches, rallies, and events across America with raw, unfiltered, authentic reporting. MAGNO NEWS is ...
 
-📺 ShanghaiEye魔都眼
+📺 MAGNO NEWS
 
-👁️ 19K • 👍 278 • 💬 67 • ⏱️ 1:54 • 2d ago
+👁️ 70K • 👍 2K • 💬 602 • ⏱️ 2:33 • 4d ago
+
+---
+
+**[First lady Melania Trump welcomes robot to White House tech summit](https://www.youtube.com/watch?v=glfTpD9iKhs)**
+
+Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
+
+📺 Face the Nation
+
+👁️ 142K • 👍 1K • 💬 786 • ⏱️ 9:54 • 3d ago
+
+---
+
+**[Viral robot appearances on the rise as White House hosts humanoid robot](https://www.youtube.com/watch?v=CDbSdaiEdyQ)**
+
+Humanoid robots have been making appearances through social media, tv segments, and at the latest White House summit.
+
+📺 NBC News
+
+👁️ 99K • 👍 543 • 💬 372 • ⏱️ 3:05 • 3d ago
+
+---
+
+**[Self-healing ‘metamachines’: Modular robots keep working even after damage](https://www.youtube.com/watch?v=kiAlyPO8ayg)**
+
+Researchers in the United States have developed what they're calling “metamachines” – modular robots that can keep functioning ...
+
+📺 Al Jazeera English
+
+👁️ 68K • 👍 202 • 💬 68 • ⏱️ 2:56 • 2d ago
 
 ---
 

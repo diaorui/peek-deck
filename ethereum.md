@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-29T20:34:48.293959+00:00'
+updated: '2026-03-29T21:33:38.742788+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
 - cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 29, 2026 at 20:34 UTC  
+**Last Updated:** March 29, 2026 at 21:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $240.96B
+**Market Cap:** $241.75B
 Rank #2
 
 **Circulating Supply:** 120,691,470 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.6%
+-59.5%
 
 **All-Time Low:** $0.43
-+461377.3%
++462728.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -170,7 +170,7 @@ ZyCrypto • 1d ago
 
 Developers from Gnosis and Zisk, with backing from the Ethereum Foundation, have proposed a new framework aimed at unifying Ethereum’s fragmented layer-2 ecosystem by enabling rollups to interact seamlessly with each other and the mainnet in a single transaction.According to an announcement shared…
 
-TradingView • 4h ago
+TradingView • 5h ago
 
 ---
 
@@ -186,7 +186,7 @@ CoinDesk • 1d ago
 
 The Ethereum Foundation is co-funding the "easy" initiative, which was announced at EthCC in Cannes, and partners include Aave, Titan, Centrifuge, and more.
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -212,7 +212,7 @@ Panini America • 2d ago
 
 **[VanEck’s Ethereum ETF Hit by Sharp Redemptions as Ether Slides Below $2,000](https://www.tipranks.com/news/cryptocurrencies/vanecks-ethereum-etf-hit-by-sharp-redemptions-as-ether-slides-below-2000)**
 
-TipRanks • 3h ago
+TipRanks • 4h ago
 
 ---
 
@@ -220,7 +220,7 @@ TipRanks • 3h ago
 
 BlackRock CEO Larry Fink earned $37.7 million in 2025 after a strong year marked by record $14 trillion AUM and solid earnings.
 
-Benzinga • 7h ago
+Benzinga • 8h ago
 
 ---
 
@@ -228,13 +228,23 @@ Benzinga • 7h ago
 
 ## YouTube Videos: "ethereum"
 
+**[FINAL WARNING to ALL Bitcoin &amp; Ethereum Investors!](https://www.youtube.com/watch?v=hzfc05Bphkk)**
+
+If you hold Bitcoin or Ethereum... watch this! (alert!) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC ...
+
+📺 Altcoin Daily
+
+👁️ 5K • 👍 487 • 💬 45 • ⏱️ 9:24 • 1h ago
+
+---
+
 **[Ethereum to $40,000 by 2030: Why ETH Could MASSIVELY Outperform Bitcoin](https://www.youtube.com/watch?v=4ZjG0_XW0DU)**
 
 Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
 
 📺 Milk Road
 
-👁️ 5K • 👍 168 • 💬 85 • ⏱️ 11:06 • 1d ago
+👁️ 5K • 👍 172 • 💬 85 • ⏱️ 11:06 • 1d ago
 
 ---
 
@@ -244,17 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 477 • 👍 52 • 💬 1 • ⏱️ 3:36 • 3h ago
-
----
-
-**[BIG MOVE COMING FOR ETH!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=J6wp_YHME8I)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 249 • 👍 11 • 💬 1 • ⏱️ 4:45 • 10h ago
+👁️ 1K • 👍 82 • 💬 1 • ⏱️ 3:36 • 4h ago
 
 ---
 
@@ -264,17 +264,7 @@ People in the cryptocurrency space and world markets are about to get a very hef
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 694 • 💬 248 • ⏱️ 27:50 • 11h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=cECj9ECAWdU)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 140 • 💬 24 • ⏱️ 3:45 • 16h ago
+👁️ 6K • 👍 738 • 💬 312 • ⏱️ 27:50 • 12h ago
 
 ---
 
@@ -284,27 +274,37 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 4K • 👍 144 • 💬 46 • ⏱️ 38:10 • 2d ago
+👁️ 4K • 👍 150 • 💬 47 • ⏱️ 38:10 • 2d ago
 
 ---
 
-**[Warning to ALL Bitcoin Investors!!](https://www.youtube.com/watch?v=-A6Ut8NdJaA)**
+**[ETH Ethereum Price Prediction: 29th of March](https://www.youtube.com/watch?v=9F77q0kcXtI)**
 
-This Is What The Bottom Looks Like? ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 ...
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
-📺 Altcoin Daily
+📺 C-Zar Gets Crypto 
 
-👁️ 30K • 👍 2K • 💬 195 • ⏱️ 9:30 • 1d ago
+👁️ 90 • 👍 4 • 💬 10 • ⏱️ 8:24 • 6h ago
 
 ---
 
-**[Crypto Market Crash or Correction | BTC &amp; ETH Price Prediction Today | क्या होगा आगे?](https://www.youtube.com/watch?v=mjFyGExSApg)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=cECj9ECAWdU)**
 
-BTC & ETH Price Prediction Today | Will Crypto Market Go Up or Down? | Hindi Analysis Premium on Telegram ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Crypto Gyan
+📺 More Crypto Online
 
-👁️ 624 • 👍 73 • ⏱️ 6:22 • 5h ago
+👁️ 2K • 👍 143 • 💬 24 • ⏱️ 3:45 • 17h ago
+
+---
+
+**[BIG MOVE COMING FOR ETH!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=J6wp_YHME8I)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 294 • 👍 11 • 💬 1 • ⏱️ 4:45 • 11h ago
 
 ---
 
@@ -314,17 +314,17 @@ Join Patreon for exclusive DAY TRADING, SWING TRADING, and HODLER content ...
 
 📺 Jayanth Ukwaththa - Trader's Life
 
-👁️ 324 • 👍 59 • 💬 47 • ⏱️ 25:46 • 3h ago
+👁️ 668 • 👍 105 • 💬 57 • ⏱️ 25:46 • 4h ago
 
 ---
 
-**[Tom Lee &amp; Raoul Pal: &quot;A CRASH Is Coming, Then Bitcoin Explodes To $250K&quot; [2026 Prediction]](https://www.youtube.com/watch?v=nsZ0wDvUgoQ)**
+**[以太幣還要跌嗎 ? 這個位置非常關鍵 !](https://www.youtube.com/watch?v=MBJljeNXzDw)**
 
-KuCoin Australia's campaign is now live. Check it out: ...
+比特幣#區塊鏈#以太幣dc社群: https://discord.gg/WS6RwujsbF ================================ BYBIT ...
 
-📺 Crypto Nutshell
+📺 幣圈發哥 Facrypto
 
-👁️ 12K • 👍 324 • 💬 63 • ⏱️ 21:26 • 2d ago
+👁️ 2K • 👍 62 • 💬 15 • ⏱️ 9:00 • 11h ago
 
 ---
 

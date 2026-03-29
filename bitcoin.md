@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-29T20:34:48.287884+00:00'
+updated: '2026-03-29T21:33:38.736876+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
 - cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 29, 2026 at 20:34 UTC  
+**Last Updated:** March 29, 2026 at 21:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1329.04B
+**Market Cap:** $1332.57B
 Rank #1
 
-**Circulating Supply:** 20,008,800 BTC
+**Circulating Supply:** 20,008,862 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--47.3%
+-47.2%
 
 **All-Time Low:** $67.81
-+97854.6%
++98125.9%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Welcome to Bitcoin 2026 edition](https://www.reddit.com/r/Bitcoin/comments/1s6v37e/welcome_to_bitcoin_2026_edition/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 "I don't believe we shall have good money until we take it from the government. All we can do is, by a sly, roundabout way, introduce something they can't stop."
 
-13h ago
+14h ago
 
 ---
 
@@ -95,7 +95,7 @@ Rank #1
 
 Just stumbled on this shady operation where some influencer was pushing a site called crypllet or something similar. The whole pitch was basically "hey go make a wallet, load it up with crypto, then enter your seed words on our site to see if they've been leaked in any breaches" Like come on, anyone with half a brain knows you never enter your recovery phrase anywhere except when restoring an actual wallet. This is obviously just harvesting seed phrases to drain wallets later. Can't believe people might actually fall for this but I guess that's how these scams keep working The red flags are everywhere - why would you need to buy crypto first to check if words were compromised, and why would any legit service ask for your actual seed phrase instead of just a hash or something. Stay safe out there folks
 
-8h ago
+9h ago
 
 ---
 
@@ -103,7 +103,7 @@ Just stumbled on this shady operation where some influencer was pushing a site c
 
 Interesting read, highly recommended for Bitcoiners. Let's discuss. https://www.citadel21.com/the-network
 
-54m ago
+1h ago
 
 ---
 
@@ -111,7 +111,7 @@ Interesting read, highly recommended for Bitcoiners. Let's discuss. https://www.
 
 BitcoinCurate.com — pulls headlines from 30+ sources including news, YouTube, podcasts and Reddit. Updated every 15 minutes. Dark mode available. Built by a non-AI human. Would love any feedback, please. I'm a Bitcoiner in the Boston area. thanks
 
-1h ago
+2h ago
 
 ---
 
@@ -119,7 +119,7 @@ BitcoinCurate.com — pulls headlines from 30+ sources including news, YouTube, 
 
 Been thinking about this lately - whenever someone mentions how much they've made from Bitcoin, it usually just pisses people off instead of getting them interested Like when you tell someone you're up big, they don't think "wow what a smart move" they think "great, another thing I screwed up by not getting in earlier" Then instead of wanting to learn more they just write the whole thing off as a scam or bubble or whatever I've seen it happen so many times now. The louder someone gets about their portfolio gains, the more people around them start hating on crypto in general. It's not even about whether Bitcoin is good or bad at that point, it's just human nature getting in the way Probably better to just keep your mouth shut and let your actions speak for themselves
 
-9h ago
+10h ago
 
 ---
 
@@ -127,7 +127,7 @@ Been thinking about this lately - whenever someone mentions how much they've mad
 
 hey everyone, just need to get this off my chest and maybe get some input i'm 28 and work as a culinary instructor but lately i've been really anxious about everything going on. the economy feels unstable, traditional savings seem pointless with inflation, and even my field might change with all this new tech coming out been hearing more about bitcoin as something that could actually hold value long term. i know the basics but have never actually bought any or figured out how to get started properly. part of me wants to put some of my savings into it instead of just letting it sit in regular accounts losing value anyone here started investing when they felt overwhelmed by all the economic uncertainty? i prep my own food and try to be self sufficient in other ways but feel like i'm missing something important with bitcoin. would love to hear how others got past the initial confusion and actually took the step to buy some thanks for any guidance
 
-6h ago
+7h ago
 
 ---
 
@@ -143,7 +143,7 @@ I invested $4000 into crypto yesterday. Should I start dollar cost averaging the
 
 Canyoning guide Mario accepts Bitcoin. Creating visibility for Bitcoin businesses – project launched. Feedback? https://btcmap.org/merchant/36666
 
-4h ago
+5h ago
 
 ---
 
@@ -151,7 +151,7 @@ Canyoning guide Mario accepts Bitcoin. Creating visibility for Bitcoin businesse
 
 been thinking about this lately since everything seems cheap right now and i keep wanting to throw more cash at btc curious what everyone else is doing with their allocation between crypto and the usual stuff like index funds, individual stocks, bonds etc what percentage are you running and why did you pick that split? im a dev so i tend to overthink these decisions but would love to hear different approaches also yes i use arch btw and my fantasy team is doing terrible this year but thats another story lol
 
-1h ago
+2h ago
 
 ---
 
@@ -179,7 +179,7 @@ CoinDesk • 1d ago
 
 Joao Wedson, popular market analyst and founder of analytics platform Alphractal, has shared a cautionary insight on the Bitcoin market involving potential developments with the Binance exchange reserves. Binance BTC Reserves In Danger – Possible Deep Bear Market? The Bitcoin market has remained in…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
@@ -187,7 +187,7 @@ TradingView • 3h ago
 
 The company seemed to have skipped it's weekly bitcoin purchase announcement for the first time since late december.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -195,7 +195,7 @@ CoinDesk • 2h ago
 
 Historically, spikes in Bitfinex BTC/USD longs have acted as a contrary indicator.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -203,7 +203,7 @@ CoinDesk • 3h ago
 
 Veteran trader and chartist Peter Brandt flagged a pattern on Thursday signaling weakening bullish momentum for Bitcoin. Another Wave Of Selling? Brandt, a technical analyst with nearly 50 years of experience, highlighted a rising wedge formation—a bearish technical analysis pattern...
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -271,13 +271,23 @@ runs multiple inputs through a script/function in parallel using bash coprocs - 
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Is Screaming Something Terrifying Right Now - Arthur Hayes Warns!](https://www.youtube.com/watch?v=aLMVhtOVVYk)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 8K • 👍 258 • 💬 30 • ⏱️ 18:06 • 19h ago
+
+---
+
 **[Bitcoin Has FOREVER CHANGED... And Investors NEED To Understand How](https://www.youtube.com/watch?v=YfsZr90verI)**
 
 Once upon a time, Bitcoin used to have god candles (and epic crashes) all on its own — no matter what stocks or gold did.
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 30K • 👍 2K • 💬 160 • ⏱️ 8:32 • 1d ago
+👁️ 31K • 👍 2K • 💬 161 • ⏱️ 8:32 • 2d ago
 
 ---
 
@@ -287,37 +297,7 @@ Clarity act for bitcoin and crypto is turning into a disaster. Follow Eric - htt
 
 📺 Digital Asset News
 
-👁️ 31K • 👍 2K • 💬 300 • ⏱️ 23:11 • 1d ago
-
----
-
-**[Bitcoin: The Window of Weakness is Open](https://www.youtube.com/watch?v=vu7tN0VxhRE)**
-
-Bitcoin may not be breaking down all at once, but the structure is starting to weaken. In this video, we discuss why a window of ...
-
-📺 Benjamin Cowen
-
-👁️ 89K • 👍 6K • 💬 330 • ⏱️ 26:12 • 1d ago
-
----
-
-**[Bitcoin Is Screaming Something Terrifying Right Now - Arthur Hayes Warns!](https://www.youtube.com/watch?v=aLMVhtOVVYk)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 7K • 👍 248 • 💬 30 • ⏱️ 18:06 • 18h ago
-
----
-
-**[Something Big is Going to Happen on Bitcoin (here&#39;s how to prepare)](https://www.youtube.com/watch?v=LUEsxFQpa0c)**
-
-Something big is going to happen on bitcoin and we discuss with analyst Benjamin Cowen the key charts that matter right now on ...
-
-📺 Alessio Rastani
-
-👁️ 62K • 👍 4K • 💬 613 • ⏱️ 24:30 • 1d ago
+👁️ 32K • 👍 2K • 💬 293 • ⏱️ 23:11 • 1d ago
 
 ---
 
@@ -327,17 +307,27 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 7K • 👍 392 • 💬 35 • ⏱️ 29:43 • 21h ago
+👁️ 8K • 👍 415 • 💬 42 • ⏱️ 29:43 • 22h ago
 
 ---
 
-**[Steal This Billionaire Money Strategy… Use Bitcoin to Buy a Home!](https://www.youtube.com/watch?v=dQUfopAG0UY)**
+**[Bitcoin: The Window of Weakness is Open](https://www.youtube.com/watch?v=vu7tN0VxhRE)**
 
-Bitcoin just crossed a line no one saw coming. For the first time, you can use it as collateral to buy a home without selling.
+Bitcoin may not be breaking down all at once, but the structure is starting to weaken. In this video, we discuss why a window of ...
 
-📺 Simply Bitcoin
+📺 Benjamin Cowen
 
-👁️ 19K • 👍 1K • 💬 154 • ⏱️ 15:31 • 1d ago
+👁️ 92K • 👍 6K • 💬 333 • ⏱️ 26:12 • 1d ago
+
+---
+
+**[Something Big is Going to Happen on Bitcoin (here&#39;s how to prepare)](https://www.youtube.com/watch?v=LUEsxFQpa0c)**
+
+Something big is going to happen on bitcoin and we discuss with analyst Benjamin Cowen the key charts that matter right now on ...
+
+📺 Alessio Rastani
+
+👁️ 65K • 👍 4K • 💬 573 • ⏱️ 24:30 • 1d ago
 
 ---
 
@@ -347,27 +337,37 @@ all my life is bitcoin, literally. I had moments where I thought I was ruining m
 
 📺 BTC Isla
 
-👁️ 22K • 👍 2K • 💬 359 • ⏱️ 10:32 • 2d ago
+👁️ 22K • 👍 2K • 💬 411 • ⏱️ 10:32 • 2d ago
 
 ---
 
-**[0.1 Bitcoin Will Truly Change Your Life (NOT Hyperbole)](https://www.youtube.com/watch?v=njksGkpY-Gg)**
+**[Steal This Billionaire Money Strategy… Use Bitcoin to Buy a Home!](https://www.youtube.com/watch?v=dQUfopAG0UY)**
 
-Owning 0.1 Bitcoin will change your life. And I'm not talking about getting rich overnight. I'm talking about the stress that ...
+Bitcoin just crossed a line no one saw coming. For the first time, you can use it as collateral to buy a home without selling.
 
-📺 Brad Long
+📺 Simply Bitcoin
 
-👁️ 12K • 👍 450 • 💬 80 • ⏱️ 17:03 • 2d ago
+👁️ 19K • 👍 1K • 💬 121 • ⏱️ 15:31 • 1d ago
 
 ---
 
-**[Why Bitcoin Could Hit All-Time Highs Again in 2026](https://www.youtube.com/watch?v=TvR7W-Q7J1M)**
+**[This Chart PERFECTLY Predicted Bitcoin&#39;s Last 300 Days  $50K Is Next.](https://www.youtube.com/watch?v=zBReWv_D_nY)**
 
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+One chart. 300 days. Every major Bitcoin move — called before it happened. And right now, that chart says something most ...
 
-📺 Anthony Pompliano
+📺 No Bs Crypto
 
-👁️ 51K • 👍 2K • 💬 17 • ⏱️ 45:04 • 1d ago
+👁️ 3K • 👍 279 • 💬 113 • ⏱️ 11:01 • 3h ago
+
+---
+
+**[BITCOIN IS ABOUT TO DROP !!! [Bear Flag Confirmed]](https://www.youtube.com/watch?v=g9RMlYp0Wgc)**
+
+LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES BTCC: https://cryptokid.io/BTCC 20% DEPOSIT BONUS ...
+
+📺 Crypto Kid
+
+👁️ 5K • 👍 408 • 💬 141 • ⏱️ 13:44 • 11h ago
 
 ---
 
