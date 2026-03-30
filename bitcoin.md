@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-30T13:23:10.638977+00:00'
+updated: '2026-03-30T14:50:03.572179+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- cryptocurrency
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 30, 2026 at 13:23 UTC  
+**Last Updated:** March 30, 2026 at 14:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.3%  
-**7d:** -3.5%  
-**30d:** +3.6%  
-**90d:** -22.4%  
-**1y:** -17.4%  
+**24h:** +1.0%  
+**7d:** -4.8%  
+**30d:** +2.3%  
+**90d:** -23.4%  
+**1y:** -18.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1353.33B
+**Market Cap:** $1342.52B
 Rank #1
 
-**Circulating Supply:** 20,009,087 BTC
+**Circulating Supply:** 20,009,128 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--46.4%
+-46.7%
 
 **All-Time Low:** $67.81
-+99622.8%
++98987.2%
 
 ---
 
@@ -81,27 +81,13 @@ Rank #1
 
 when bitcoin hovers right at a previous cycle's all-time high instead of getting slapped down, it shows that buyers are stepping up and easily eating all the sell pressure. grinding sideways at the ultimate ceiling builds a massive launchpad for price discovery, because once it breaks through, there is zero historical resistance left to hold it back. with the post-halving supply shock in full effect, holding this exact line has historically been the ultimate springboard for a parabolic run.
 
-5h ago
+7h ago
 
 ---
 
 **[Applying for a job during the bear market](https://www.reddit.com/r/Bitcoin/comments/1s7nly6/applying_for_a_job_during_the_bear_market/)**
 
-2h ago
-
----
-
-**[Welcome to Bitcoin 2026 edition](https://www.reddit.com/r/Bitcoin/comments/1s6v37e/welcome_to_bitcoin_2026_edition/)**
-
-23h ago
-
----
-
-**[hit my 2 btc milestone earlier than expected](https://www.reddit.com/r/Bitcoin/comments/1s7abne/hit_my_2_btc_milestone_earlier_than_expected/)**
-
-been dollar cost averaging for about 2.5 years now and this recent pullback let me reach 2 whole coins sooner than i thought. originally figured i wouldn't get there until around december. perfect time to stack more while prices are down. anyone else taking advantage of these levels? (already know about teh dm scammers so don't bother)
-
-14h ago
+3h ago
 
 ---
 
@@ -109,15 +95,21 @@ been dollar cost averaging for about 2.5 years now and this recent pullback let 
 
 Morgan Stanley’s Bitcoin exchange-traded fund appears set for an imminent launch, according to a leading ETF analyst. Bloomberg analyst James Seyffart says the bank is clearly not messing around with its spot bitcoin ETF, which will feature the ticker MSBT. “WOW. We have the fee on Morgan Stanley’s spot bitcoin ETF $MSBT. Will charge just 0.14%!!! Big move here.” The fee will significantly undercut BlackRock’s flagship Bitcoin ETF, which charges 0.25%. Morgan Stanley’s Bitcoin ETF is the first from a major US bank. The lender has 16,000 advisors selling its investment products, and holds about $1.9 trillion in assets under management (AUM) within its Investment Management division.
 
-🔗 [The Daily Hodl](https://dailyhodl.com/2026/03/30/morgan-stanleys-bitcoin-etf-likely-to-launch-early-next-month-bloomberg-analyst/) • 1h ago
+🔗 [The Daily Hodl](https://dailyhodl.com/2026/03/30/morgan-stanleys-bitcoin-etf-likely-to-launch-early-next-month-bloomberg-analyst/) • 3h ago
 
 ---
 
-**[Does it cause anyone else physical pain when they see stories about young adults today working multiple jobs and struggling to pay bills?](https://www.reddit.com/r/Bitcoin/comments/1s7as5q/does_it_cause_anyone_else_physical_pain_when_they/)**
+**[Welcome to Bitcoin 2026 edition](https://www.reddit.com/r/Bitcoin/comments/1s6v37e/welcome_to_bitcoin_2026_edition/)**
 
-Whenever I suggest to look into Bitcoin I'm treated like a snake oil salesman or ignored altogether. So many people are drowning and it doesn't feel like enough people are catching on. It's been like this for a while now and doesn't look like anything will change. Oh well. Stay humble and stack, I guess.
+1d ago
 
-13h ago
+---
+
+**[hit my 2 btc milestone earlier than expected](https://www.reddit.com/r/Bitcoin/comments/1s7abne/hit_my_2_btc_milestone_earlier_than_expected/)**
+
+been dollar cost averaging for about 2.5 years now and this recent pullback let me reach 2 whole coins sooner than i thought. originally figured i wouldn't get there until around december. perfect time to stack more while prices are down. anyone else taking advantage of these levels? (already know about teh dm scammers so don't bother)
+
+15h ago
 
 ---
 
@@ -125,7 +117,15 @@ Whenever I suggest to look into Bitcoin I'm treated like a snake oil salesman or
 
 I have the option of either going all in on bitcoin or spreading the amount equally over next 7 months until the October rise according to the 4 year cycle. Could I ask what you would suggest would be the best strategy? In not sure if it will keep dropping or this is the bottom, I know that it’s impossible to know if this is the bottom, or equally if it will go higher out lower from here but thought I’d ask the forum to get the consensus.
 
-4h ago
+5h ago
+
+---
+
+**[Does it cause anyone else physical pain when they see stories about young adults today working multiple jobs and struggling to pay bills?](https://www.reddit.com/r/Bitcoin/comments/1s7as5q/does_it_cause_anyone_else_physical_pain_when_they/)**
+
+Whenever I suggest to look into Bitcoin I'm treated like a snake oil salesman or ignored altogether. So many people are drowning and it doesn't feel like enough people are catching on. It's been like this for a while now and doesn't look like anything will change. Oh well. Stay humble and stack, I guess.
+
+15h ago
 
 ---
 
@@ -133,7 +133,13 @@ I have the option of either going all in on bitcoin or spreading the amount equa
 
 I’d say DCA is by far the most advocated strategy on this sub. But it's common to see people suggesting adjustments to it. The goal is usually to buy more Bitcoin during dips, creating some form of “Dynamic DCA” based on indicators like drawdown. Although many people here are against changing the sacred DCA strategy, I think Dynamic DCA has its place. I mean, even River introduced “Supercharged” recurring buys, which is essentially a type of Dynamic DCA. So I decided to build a backtesting tool to see if Dynamic DCA is actually worth it. https://preview.redd.it/unzg55oxg2sg1.png?width=1881&format=png&auto=webp&s=b8888de6a48318a0b2b24bb73317edfbf7429f15 In this test I’m comparing two strategies over the last 4 years: a regular weekly DCA buy of $300 and a Dynamic DCA strategy based on drawdowns that works like this: - Base buy: $100 - Drawdown >= 25%: $300 - Drawdown >= 50%: $600 The result is impressive. The Dynamic DCA strategy almost doubles the return compared to the regular DCA. While the regular strategy ends up with around $103k and 1.55 BTC, the Dynamic version reaches about $153k and 2.31 BTC. All that while investing roughly the same amount of money. If you want to try it yourself and share some feedback, feel free to test it here. You can also experiment with other indicators like Fear & Greed or the Mayer Multiple.
 
-14h ago
+15h ago
+
+---
+
+**[Its been rough lately](https://www.reddit.com/r/Bitcoin/comments/1s7pjk8/its_been_rough_lately/)**
+
+2h ago
 
 ---
 
@@ -141,15 +147,7 @@ I’d say DCA is by far the most advocated strategy on this sub. But it's common
 
 If all places accept Bitcoin, the adoption will be extremely fast. Walmart has it on the app, CashApp has it and if you go to Stake and Shake you can pay with Bitcoin and order your Bitcoin Stake burger. It would be nice if all places have something related to Bitcoin for purchases made on Bitcoin. Great idea and Stake and Shake is ahead of the game. Do you have a favorite restaurant that you will love do this?
 
-17h ago
-
----
-
-**[Nobel prize winner economist Friedrich Hayek describing Bitcoin before it existed](https://www.reddit.com/r/Bitcoin/comments/1s6oidb/nobel_prize_winner_economist_friedrich_hayek/)**
-
-"I don't believe we shall have good money until we take it from the government. All we can do is, by a sly, roundabout way, introduce something they can't stop."
-
-1d ago
+18h ago
 
 ---
 
@@ -165,57 +163,33 @@ NBC News • 2d ago
 
 ---
 
-**['More room to fall': Bitcoin trades near $67,000 as US-Iran deadlock persists](https://www.theblock.co/post/395588/bitcoin-trades-near-66500-iran-deadlock)**
+**[Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week](https://finance.yahoo.com/markets/crypto/articles/why-crypto-crashing-bitcoin-xrp-140126480.html)**
 
-Analysts said the prolonged U.S.-Iran conflict keeps inflation fears elevated, weighing on crypto investor sentiment.
+Bitcoin (CRYPTO: BTC), XRP (CRYPTO: XRP), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) are all down 6-8% in a week, and the crypto market has shed over $80 billion in value since March 24. The Fear & Greed Index sits at 23, and the average crypto RSI has dropped to 39—oversold territory that the market ... Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week
 
-The Block • 10h ago
-
----
-
-**[MSTR may have paused it's BTC accumulation last week](https://www.coindesk.com/markets/2026/03/29/strategy-may-have-paused-bitcoin-accumulation-last-week-ending-a-thirteen-week-buying-streak)**
-
-The company seemed to have skipped it's weekly bitcoin purchase announcement for the first time since late december.
-
-CoinDesk • 18h ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Pierre Rochard warns US regulators over Bitcoin gap in Basel rewrite](https://www.tradingview.com/news/cointelegraph:faa20a3a0094b:0-pierre-rochard-warns-us-regulators-over-bitcoin-gap-in-basel-rewrite/)**
+**[Gang Member Loses Friend's $332,000 Bitcoin In Failed Casino Bets, Jailed For 8 Years](https://www.yahoo.com/news/articles/gang-member-loses-friends-332-142525965.html)**
 
-Pierre Rochard, CEO of The Bitcoin Bond Company, warned US banking regulators that their sweeping Basel III capital rewrite leaves unresolved how Bitcoin-related activities should be treated, a gap he says could create legal risk and shape how much capital banks must hold against the asset.In a for…
+A member of South Korea's “Chilseongpa” crime group has been jailed for eight years after embezzling around $332,000 in Bitcoin. The case expanded into wider ...
 
-TradingView • 3h ago
-
----
-
-**[Bitcoin and ethereum price today, Monday, March 30, 2026: Values moving up after lower weekend prices](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-monday-march-30-2026-values-moving-up-after-lower-weekend-prices-120045377.html)**
-
-Bitcoin and ethereum opened at $65,957.60 and $1,982.74, respectively, on Monday, nearly even with Sunday’s closing prices. The value of both cryptocurrencies rose in early trading.
-
-Yahoo Finance • 1h ago
+yahoo.com • 24m ago
 
 ---
 
-**[1 Sign Bitcoin Could Be Poised for a Comeback in 2026](https://www.fool.com/investing/2026/03/30/sign-bitcoin-could-be-poised-for-comeback-in-2026/)**
+**[Bitcoin Price Rebounds From Month Low, These Two Miners Form Bases](https://www.investors.com/news/bitcoin-price-rebound-miners-basing-terawulf-hut8-cathie-wood-ark-invest-bullish/)**
 
-If one historical trend holds, Bitcoin will have a strong year ahead.
-
-The Motley Fool • 1h ago
+Investor's Business Daily • 1h ago
 
 ---
 
-**[Bitcoin Price Is Rising. Why XRP and Ethereum Are Climbing, Too.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-cryptos-ffbcc0ef?gaa_at=eafs&gaa_n=AWEtsqcvQXUSzBkjBGbmVuYILX9yWd8lRECJBXj7j5rqJL32gGiwlMsQhKfW&gaa_ts=69ca7c8a&gaa_sig=oRqQUMHtSTUOz8IXuZOjUtAPEIpeX5gxTObmwKdOdV0H_obCwla6mXWRe1UYsQSDLBb7D78nfcD2bU5fRfFxFQ%3D%3D)**
+**[The 'Crypto-Curious' Guide to Buying Bitcoin for the First Time](https://www.businessinsider.com/personal-finance/investing/buying-bitcoin-for-beginners)**
 
-Barron's • 2h ago
+Bitcoin investing for beginners: Learn how to buy cryptocurrency, choose a crypto exchange, and diversify your investment portfolio.
 
----
-
-**[Bitcoin ETFs Bleed $290M as ‘Risk-Off’ Mood Deepens](https://decrypt.co/362696/bitcoin-etfs-bleed-290m-as-risk-off-mood-deepens)**
-
-Analysts attribute last week's Bitcoin ETF outflows to geopolitical tensions, fading ceasefire hopes, and end-of-quarter rebalancing.
-
-decrypt.co • 7h ago
+Business Insider • 57m ago
 
 ---
 
@@ -223,15 +197,39 @@ decrypt.co • 7h ago
 
 The new Digital Asset PARITY Act draft would extend wash-sale rules to digital assets while shielding certain regulated payment stablecoins from routine gain-or-loss recognition.
 
-CryptoSlate • 17h ago
+CryptoSlate • 18h ago
 
 ---
 
-**[Bitcoin resilience amid Iran war raises optimism about crypto adoption in ASEAN](https://asia.nikkei.com/business/markets/trading-asia/bitcoin-resilience-amid-iran-war-raises-optimism-about-crypto-adoption-in-asean)**
+**[Morgan Stanley enters bitcoin ETF race with market-leading low fee](https://www.coindesk.com/markets/2026/03/27/morgan-stanley-enters-bitcoin-etf-race-with-market-leading-low-fee)**
 
-Digital assets might still be in 'winter,' but they have not gone as volatile as traditional assets
+The bank priced its proposed spot bitcoin fund at 14 basis points, making it the lowest fund on the market, if approved.
 
-Nikkei Asia • 16h ago
+CoinDesk • 2d ago
+
+---
+
+**[Bitcoin ETFs Bleed $290M as ‘Risk-Off’ Mood Deepens](https://decrypt.co/362696/bitcoin-etfs-bleed-290m-as-risk-off-mood-deepens)**
+
+Analysts attribute last week's Bitcoin ETF outflows to geopolitical tensions, fading ceasefire hopes, and end-of-quarter rebalancing.
+
+Decrypt • 9h ago
+
+---
+
+**[Cathie Wood's Ark Invest Dumps Meta, Nvidia and Bitcoin ETF Shares in Major Tech Sell-Off](https://finance.yahoo.com/markets/stocks/articles/cathie-woods-ark-invest-dumps-151848814.html)**
+
+Cathie Wood's Ark Invest sold big chunks of its positions in American tech stocks and its own Bitcoin ETF as stocks and crypto slide.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Pierre Rochard warns US regulators over Bitcoin gap in Basel rewrite](https://www.tradingview.com/news/cointelegraph:faa20a3a0094b:0-pierre-rochard-warns-us-regulators-over-bitcoin-gap-in-basel-rewrite/)**
+
+Pierre Rochard, CEO of The Bitcoin Bond Company, warned US banking regulators that their sweeping Basel III capital rewrite leaves unresolved how Bitcoin-related activities should be treated, a gap he says could create legal risk and shape how much capital banks must hold against the asset.In a for…
+
+TradingView • 5h ago
 
 ---
 
@@ -259,9 +257,17 @@ Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes
 
 ---
 
+**[Show HN: Dendrite – O(1) KV cache forking for tree-structured LLM inference](https://news.ycombinator.com/item?id=47574653)**
+
+Agent-native inference engine with O(1) fork latency for tree-structured reasoning - BioInfo/dendrite
+
+⬆️ 3 • 💬 1 • 36m ago • [GitHub](https://github.com/BioInfo/dendrite)
+
+---
+
 **[Uni feels so usless, I cant focus anymore](https://news.ycombinator.com/item?id=47567925)**
 
-⬆️ 7 • 💬 3 • 15h ago
+⬆️ 7 • 💬 3 • 16h ago
 
 ---
 
@@ -275,7 +281,7 @@ If you hold Bitcoin or Ethereum... watch this! (alert!) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 221 • ⏱️ 9:24 • 16h ago
+👁️ 40K • 👍 2K • 💬 228 • ⏱️ 9:24 • 18h ago
 
 ---
 
@@ -285,27 +291,17 @@ The market looks calm on the surface but the cracks are getting worse. From glob
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 117 • ⏱️ 12:24 • 14h ago
+👁️ 18K • 👍 1K • 💬 121 • ⏱️ 12:24 • 16h ago
 
 ---
 
-**[The CLARITY Act Just Killed Bitcoin’s Future](https://www.youtube.com/watch?v=evFGCpj8ubA)**
+**[Bitcoin Faces Massive Macro Shift As Global Chaos Worsens!](https://www.youtube.com/watch?v=aKeDsLCSWCk)**
 
-Clarity act for bitcoin and crypto is turning into a disaster. Follow Eric - https://x.com/ericbuhler/status/2037610128728592777 The ...
+Bitcoin #Crypto #Finance Bitcoin may be entering its biggest macro shift yet as cracks begin to form across the global financial ...
 
-📺 Digital Asset News
+📺 The Wolf Of All Streets
 
-👁️ 35K • 👍 2K • 💬 308 • ⏱️ 23:11 • 1d ago
-
----
-
-**[Bitcoin: The Window of Weakness is Open](https://www.youtube.com/watch?v=vu7tN0VxhRE)**
-
-Bitcoin may not be breaking down all at once, but the structure is starting to weaken. In this video, we discuss why a window of ...
-
-📺 Benjamin Cowen
-
-👁️ 104K • 👍 7K • 💬 355 • ⏱️ 26:12 • 2d ago
+👁️ 5K • 👍 458 • 💬 150 • ⏱️ 1:04:46 • 35m ago
 
 ---
 
@@ -315,37 +311,17 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 297 • 💬 31 • ⏱️ 18:06 • 1d ago
+👁️ 10K • 👍 307 • 💬 30 • ⏱️ 18:06 • 1d ago
 
 ---
 
-**[Raoul Pal Just Warned That What&#39;s Coming For Bitcoin Will Shock Every Investor On The Planet](https://www.youtube.com/watch?v=xoYAlLT5EAk)**
+**[Bitcoin: The Window of Weakness is Open](https://www.youtube.com/watch?v=vu7tN0VxhRE)**
 
-Fear & Greed hit 9 — the lowest since the August 2025 flash crash that preceded Bitcoin DOUBLING. AI agents have already ...
+Bitcoin may not be breaking down all at once, but the structure is starting to weaken. In this video, we discuss why a window of ...
 
-📺 Money Talks
+📺 Benjamin Cowen
 
-👁️ 2K • 👍 88 • 💬 57 • ⏱️ 16:40 • 15h ago
-
----
-
-**[Bitcoin Has FOREVER CHANGED... And Investors NEED To Understand How](https://www.youtube.com/watch?v=YfsZr90verI)**
-
-Once upon a time, Bitcoin used to have god candles (and epic crashes) all on its own — no matter what stocks or gold did.
-
-📺 From The Desk Of Anthony Pompliano
-
-👁️ 33K • 👍 2K • 💬 194 • ⏱️ 8:32 • 2d ago
-
----
-
-**[Something Big is Going to Happen on Bitcoin (here&#39;s how to prepare)](https://www.youtube.com/watch?v=LUEsxFQpa0c)**
-
-Something big is going to happen on bitcoin and we discuss with analyst Benjamin Cowen the key charts that matter right now on ...
-
-📺 Alessio Rastani
-
-👁️ 75K • 👍 4K • 💬 617 • ⏱️ 24:30 • 2d ago
+👁️ 106K • 👍 7K • 💬 362 • ⏱️ 26:12 • 2d ago
 
 ---
 
@@ -355,17 +331,45 @@ Learn 50+ years of Real Economics in only 7 weeks. Apply here: https://www.steve
 
 📺 ProfSteveKeen
 
-👁️ 54K • 👍 2K • 💬 660 • ⏱️ 10:57 • 18h ago
+👁️ 60K • 👍 3K • 💬 594 • ⏱️ 10:57 • 19h ago
 
 ---
 
-**[JUST IN: Trump&#39;s Bitcoin Bombshell — USA Declared Global Crypto Superpower In Historic Announcement](https://www.youtube.com/watch?v=rmPft3_O_-U)**
+**[The CLARITY Act Just Killed Bitcoin’s Future](https://www.youtube.com/watch?v=evFGCpj8ubA)**
 
-IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
+Clarity act for bitcoin and crypto is turning into a disaster. Follow Eric - https://x.com/ericbuhler/status/2037610128728592777 The ...
 
-📺 The Kenzo Guy
+📺 Digital Asset News
 
-👁️ 9K • 👍 459 • 💬 67 • ⏱️ 29:43 • 1d ago
+👁️ 36K • 👍 2K • 💬 311 • ⏱️ 23:11 • 1d ago
+
+---
+
+**[The Biggest Mistakes People Make With Bitcoin Wallets](https://www.youtube.com/watch?v=PN5b8nTjYws)**
+
+📺 Andrei Jikh
+
+👁️ 24K • 👍 871 • 💬 27 • ⏱️ 2:32 • 13h ago
+
+---
+
+**[Bitcoin Has FOREVER CHANGED... And Investors NEED To Understand How](https://www.youtube.com/watch?v=YfsZr90verI)**
+
+Once upon a time, Bitcoin used to have god candles (and epic crashes) all on its own — no matter what stocks or gold did.
+
+📺 From The Desk Of Anthony Pompliano
+
+👁️ 34K • 👍 2K • 💬 195 • ⏱️ 8:32 • 2d ago
+
+---
+
+**[Bitcoin Bear Market Script Is Repeating PERFECTLY…](https://www.youtube.com/watch?v=Pog8a1NQJao)**
+
+Bitcoin is at a critical moment… and almost nobody agrees on what happens next. Is this the start of a major breakdown… or the ...
+
+📺 Crypto Love
+
+👁️ 3K • 👍 245 • 💬 275 • ⏱️ 11:09 • 21h ago
 
 ---
 

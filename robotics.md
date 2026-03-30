@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-30T13:23:10.648176+00:00'
+updated: '2026-03-30T14:50:03.582056+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 30, 2026 at 13:23 UTC  
+**Last Updated:** March 30, 2026 at 14:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Posting update here, I doubled down on my mission to create the smallest VIO module, here is the latest revision I am working on. - Global shutter camera + IMU - 0.8W - Outputs pose @ 15hz via USB or UART Here is a short video showing how when you plug it into any phone or pc, it shows up as ethernet device with a web-ui built into it. No app to setup or even internet required. This lets me try it out and collect diverse datasets easily on-the-go.
 
-9h ago
+10h ago
 
 ---
 
@@ -44,13 +44,13 @@ Posting update here, I doubled down on my mission to create the smallest VIO mod
 
 From Humanoids daily on 𝕏: https://x.com/humanoidsdaily/status/2038191948637282608 Source Shawn Ryan on 𝕏: https://x.com/ShawnRyan762/status/2037583712443887991
 
-2h ago
+4h ago
 
 ---
 
 **[Unipath has launched a household robot that is now in real-home use. It can wake users up on time, operate home appliances, organize storage spaces, and even cook meals automatically.](https://www.reddit.com/r/robotics/comments/1s7065y/unipath_has_launched_a_household_robot_that_is/)**
 
-20h ago
+22h ago
 
 ---
 
@@ -58,19 +58,43 @@ From Humanoids daily on 𝕏: https://x.com/humanoidsdaily/status/20381919486372
 
 ​ Hey everyone, I’m a senior CS student building a proof-of-concept for a fully local, AI-guided mapping robot, and I’d love some feedback on my architecture to help me improve. (First 30s are tech stack, remainder is robot running around my room) The robot drives forward until the ultrasonic sensor detects a wall. It backs up, and then triggers a local Vision-Language Model (NVIDIA VILA 2.7B running via nano_llm on the Jetson). The AI looks at the camera frame, identifies the scene (e.g., "see a drawer"), and tells the ROS2 exploration controller which direction to turn next. Everything runs completely offline. My current tech stack: Jetson Orin Nano + ROS2 Humble Arduino Mega for motor/encoder control (2 HiTechnic motor controllers and 4 Tetrix 12v Torquenado motors) Single ultrasonic sensor (currently) + a cheap usb camera (to be determined if I upgrade to a depth camera or something else) VILA 2.7B for scene labeling and high-level navigation decisions I know the movement in this video is pretty jittery (combination of ultrasonic noise and serial communication gaps). I actually just ordered an LDROBOT STL-27L LiDAR to upgrade the stack to proper 360° ICP SLAM and to fully flesh out 2D maps of my whole apt. The end goal being for this phase of the robot is to be plopped down anywhere and go to the location that I tell it to go to. Later on, I would have a robot arm that I built using 15kg and 25kg servos be attached to the front and masked whenever they pass the clearance of the lidar. The arm would have the usb camera from earlier or an OpenMVRT1062 AI cam to help identify target objects and grasp them and then go to a destination. For those of you working in the robotics industry: What issues do you see with this approach? What specific tools, libraries, or design patterns is my project currently missing that hiring managers look for in entry-level robotics engineers? Are there any specific upgrades I should keep in mind for the future such as a depth camera being needed or a higher res camera, upgrades to motor controllers, etc. Thanks in advance. I’m here to learn, so please don't hold back on the critiques!
 
-17h ago
+18h ago
+
+---
+
+**[[Launch] OpenEyes v0.4.4 - I built a complete vision system for humanoid robots](https://www.reddit.com/r/robotics/comments/1s7rmem/launch_openeyes_v044_i_built_a_complete_vision/)**
+
+Hey r/robotics! I'm excited to share OpenEyes - an open-source vision system I've been building for humanoid robots. It runs entirely on NVIDIA Jetson Orin Nano with full ROS2 integration. The Problem Every day, millions of robots are deployed to help humans. But most of them are blind. Or dependent on cloud services that fail. Or so expensive only big companies can afford them. I wanted to change that. What OpenEyes Does The robot looks at a room and understands: - "There's a cup on the table, 40cm away" - "A person is standing to my left" - "They're waving at me - that's a greeting" - "The person is sitting down - they might need help" - Object Detection (YOLO11n) - Depth Estimation (MiDaS) - Face Detection (MediaPipe) - Gesture Recognition (MediaPipe Hands) - Pose Estimation (MediaPipe Pose) - Object Tracking - Person Following (show open palm to become owner) Performance - All models: 10-15 FPS - Minimal: 25-30 FPS - Optimized (INT8): 30-40 FPS Philosophy - Edge First - All processing on the robot - Privacy First - No data leaves the device - Real-time - 30 FPS target - Open - Built by community, for community Quick Start git clone https://github.com/mandarwagh9/openeyes.git cd openeyes pip install -r requirements.txt python src/main.py --debug python src/main.py --follow (Person following!) python src/main.py --ros2 (ROS2 integration) The Journey Started with a simple question: Why can't robots see like we do? Been iterating for months fixing issues like: - MediaPipe detection at high resolution - Person following using bbox height ratio - Gesture-based owner selection Would love feedback from the community! GitHub: github.com/mandarwagh9/openeyes
+
+41m ago
+
+---
+
+**[My MA graduate project: a knitted garment that breathes autonomously — would love this community's reaction](https://www.reddit.com/r/robotics/comments/1s7mhou/my_ma_graduate_project_a_knitted_garment_that/)**
+
+I built a garment that breathes on its own for my MA – here's what I learned about how people respond to autonomous movement in wearables Just finished my MA Fashion Futures at LCF. My graduate project is a soft robotic wearable — machine-knitted textiles with embedded pneumatic actuators and a servo-controlled valve system. When powered, it performs slow autonomous breathing cycles. The most surprising finding from my research: it's the rhythm, not the appearance, that makes people perceive something as alive. Even knowing it's mechanical, people described feeling like they were wearing something with its own presence. Has anyone else worked on wearable soft robotics and noticed this? Curious how others in this space think about the relationship between autonomous movement and perceived agency. [In a comment below I'll share a short survey I'm running if anyone wants to weigh in — totally optional] https://reddit.com/link/1s7mhou/video/8ydtf8t5q6sg1/player
+
+4h ago
 
 ---
 
 **[US lawmakers to introduce bill to ban government use of Chinese robots](https://www.reddit.com/r/robotics/comments/1s75mvr/us_lawmakers_to_introduce_bill_to_ban_government/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/) • 17h ago
+🔗 [reuters.com](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/) • 18h ago
 
 ---
 
 **[How We Integrated Python ML into a Java Control System (Without Rewriting Everything)](https://www.reddit.com/r/robotics/comments/1s7pamz/how_we_integrated_python_ml_into_a_java_control/)**
 
-48m ago
+2h ago
+
+---
+
+**[Crazy idea: a game for training robots how to do chores](https://www.reddit.com/r/robotics/comments/1s7dyif/crazy_idea_a_game_for_training_robots_how_to_do/)**
+
+We recently built an AR game for Quest. It turns chores into a game by detecting and rewarding chores in real-time. It won a big prize from Meta, has a few hundred users, and we’re exploring where to go from here. The game is missing something: what’s the reward beyond XP? This led to a crazy idea - what if the rewards had real value in exchange for players sharing their captures as training data for home robots. Kind of like having an allowance for your chores as an adult. With the added benefit of helping automate boring work. The biggest barrier is privacy. At minimum it has to be opt-in and with some protections like censoring faces and personal info. Looking for more ideas there though. Curious what others think.
+
+12h ago
 
 ---
 
@@ -79,30 +103,6 @@ From Humanoids daily on 𝕏: https://x.com/humanoidsdaily/status/20381919486372
 "We fine-tuned π0, a VLA model pretrained entirely on manipulators, to fly a drone that picks up objects, navigates through gates, and composes both skills from language commands." Stanford MSL on 𝕏: https://x.com/StanfordMSL/status/2037760965228556431 π, But Make It Fly: Physics-Guided Transfer of VLA Models to Aerial Manipulation arXiv:2603.25038 [cs.RO]: https://arxiv.org/abs/2603.25038 Project page: https://airvla.github.io/
 
 1d ago
-
----
-
-**[My MA graduate project: a knitted garment that breathes autonomously — would love this community's reaction](https://www.reddit.com/r/robotics/comments/1s7mhou/my_ma_graduate_project_a_knitted_garment_that/)**
-
-I built a garment that breathes on its own for my MA – here's what I learned about how people respond to autonomous movement in wearables Just finished my MA Fashion Futures at LCF. My graduate project is a soft robotic wearable — machine-knitted textiles with embedded pneumatic actuators and a servo-controlled valve system. When powered, it performs slow autonomous breathing cycles. The most surprising finding from my research: it's the rhythm, not the appearance, that makes people perceive something as alive. Even knowing it's mechanical, people described feeling like they were wearing something with its own presence. Has anyone else worked on wearable soft robotics and noticed this? Curious how others in this space think about the relationship between autonomous movement and perceived agency. [In a comment below I'll share a short survey I'm running if anyone wants to weigh in — totally optional]
-
-3h ago
-
----
-
-**[ROSdeck: open-source mobile app for controlling ROS2 robots](https://www.reddit.com/r/robotics/comments/1s7l085/rosdeck_opensource_mobile_app_for_controlling/)**
-
-I wanted a simple way to drive my robot and monitor topics from my phone — something like ROS-Mobile but for ROS2. Nothing out there fit, so I built ROSdeck. You connect over WiFi to rosbridge or foxglove-bridge, then build a custom tmux style dashboard with widgets: camera feeds, joystick, 2D map with Nav2 goals, battery, IMU, diagnostics, charts, TF tree. Layouts can be loaded and saved across robots. Just open-sourced it: https://github.com/baunuri/rosdeck Android build can be downloaded under releases on the git repo, or available in closed beta track on play store- sign up here: https://rosdeck.github.io What widgets would you actually use day-to-day? Looking for feedback on what to prioritize next.
-
-🔗 [youtube.com](https://youtube.com/shorts/0VJ_A97qTA4) • 4h ago
-
----
-
-**[Crazy idea: a game for training robots how to do chores](https://www.reddit.com/r/robotics/comments/1s7dyif/crazy_idea_a_game_for_training_robots_how_to_do/)**
-
-We recently built an AR game for Quest. It turns chores into a game by detecting and rewarding chores in real-time. It won a big prize from Meta, has a few hundred users, and we’re exploring where to go from here. The game is missing something: what’s the reward beyond XP? This led to a crazy idea - what if the rewards had real value in exchange for players sharing their captures as training data for home robots. Kind of like having an allowance for your chores as an adult. With the added benefit of helping automate boring work. The biggest barrier is privacy. At minimum it has to be opt-in and with some protections like censoring faces and personal info. Looking for more ideas there though. Curious what others think.
-
-11h ago
 
 ---
 
@@ -126,25 +126,27 @@ Euronews.com • 1d ago
 
 ---
 
-**[With Voyager’s help, Icarus Robotics to test free-flyer on ISS](https://spacenews.com/with-voyagers-help-icarus-robotics-to-test-free-flyer-on-iss/)**
+**[Company co-founded by Tipp man to test robots in space](https://www.rte.ie/news/munster/2026/0330/1565895-space-robots/)**
 
-SpaceNews • 23m ago
+A robotics company co-founded by Tipperary man Jamie Palmer, which is building a robotic labour force for space, has signed a deal to test its technology on board the International Space Station.
 
----
-
-**[AGIBOT Reaches 10,000 Units as Real-World Demand for Robots Accelerates](https://www.prnewswire.com/apac/news-releases/agibot-reaches-10-000-units-as-real-world-demand-for-robots-accelerates-302728470.html)**
-
-/PRNewswire/ -- AGIBOT, a leading robotics company specializing in embodied intelligence, today announced the rollout of its 10,000th humanoid robot, becoming...
-
-PR Newswire • 3h ago
+RTE.ie • 1h ago
 
 ---
 
-**[Amazon buys Fauna Robotics, maker of the Sprout humanoid robot that can dance, pick up toys, and go on a stroll](https://fortune.com/2026/03/29/amazon-acquisition-fauna-robotics-sprout-humanoid-robot-homes-schools-disney/)**
+**[Amazon buys Fauna Robotics, maker of the Sprout humanoid robot that can dance and pick up toys](https://fortune.com/2026/03/29/amazon-acquisition-fauna-robotics-sprout-humanoid-robot-homes-schools-disney/)**
 
 Early customers included Disney.
 
-fortune.com • 17h ago
+Fortune • 18h ago
+
+---
+
+**[This friendly robot just installed 100 MW of solar power](https://electrek.co/2026/03/29/this-friendly-robot-just-installed-100-mw-of-solar-power/)**
+
+This Maximo robot has completed the successful installation of 100 MW of solar at the sprawling AES Bellefield complex in California.
+
+Electrek • 23h ago
 
 ---
 
@@ -152,7 +154,7 @@ fortune.com • 17h ago
 
 The Robotics and AI Institute (RAI) has just released a video of its Roadrunner robot. Although it lacks a torso, the bipedal bot more than makes up for it by rolling, stomping, stair-climbing, and even showing off while using only one of its legs.
 
-New Atlas • 18h ago
+New Atlas • 19h ago
 
 ---
 
@@ -164,23 +166,23 @@ Fox News • 1d ago
 
 ---
 
-**[Robotics competition program encourages enrollment as science comprehension drops](https://www.wmur.com/article/robotics-competition-program-encourages-enrollment-as-science-comprehension-drops/70874370)**
+**[With Voyager’s help, Icarus Robotics to test free-flyer on ISS](https://spacenews.com/with-voyagers-help-icarus-robotics-to-test-free-flyer-on-iss/)**
 
-As enrollment drops amid sinking science comprehension, FIRST adds that it still aims to inspire students by showcasing future opportunities that science can provide.
+SpaceNews • 1h ago
 
-WMUR • 1d ago
+---
+
+**[Amazon Acquires Fauna Robotics. Is This a Viable Threat to Tesla's Optimus Project?](https://www.fool.com/investing/2026/03/29/amazon-fauna-robotics-threat-tesla-optimus/)**
+
+Amazon's humanoid bet isn't about competing with Tesla's factory robots. Its about quietly building the operating system for the home.
+
+The Motley Fool • 1d ago
 
 ---
 
 **[AI Robotics Lab in Talks to Raise $1 Billion at $11 Billion Valuation](https://www.bloomberg.com/news/articles/2026-03-27/ex-deepmind-staffers-robotics-startup-in-talks-for-11-billion-valuation)**
 
-Bloomberg • 2d ago
-
----
-
-**[Seals use whisker movement to follow underwater trails—an approach that could improve robotic sensing](https://phys.org/news/2026-03-whisker-movement-underwater-trails-approach.html)**
-
-Phys.org • 22h ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -188,23 +190,23 @@ Phys.org • 22h ago
 
 ## YouTube Videos: "robotics"
 
-**[6 Robots You Can Build in 2026](https://www.youtube.com/watch?v=8smjYAsxAts)**
-
-Learn for free on Brilliant for a full 30 days: https://brilliant.org/NikodemBartnik/ . You'll also get 20% off an annual Premium ...
-
-📺 Nikodem Bartnik
-
-👁️ 88K • 👍 4K • 💬 67 • ⏱️ 9:55 • 5d ago
-
----
-
 **[The Real-Life Future of Humanoid Robots](https://www.youtube.com/watch?v=ktwtZNKDV0E)**
 
 Brett Adcock shares his vision for the future of humanoid robots, why he believes synthetic humans will become one of the most ...
 
 📺 Shawn Ryan Show
 
-👁️ 58K • 👍 2K • 💬 611 • ⏱️ 14:05 • 2d ago
+👁️ 59K • 👍 2K • 💬 616 • ⏱️ 14:05 • 2d ago
+
+---
+
+**[6 Robots You Can Build in 2026](https://www.youtube.com/watch?v=8smjYAsxAts)**
+
+Learn for free on Brilliant for a full 30 days: https://brilliant.org/NikodemBartnik/ . You'll also get 20% off an annual Premium ...
+
+📺 Nikodem Bartnik
+
+👁️ 91K • 👍 4K • 💬 67 • ⏱️ 9:55 • 6d ago
 
 ---
 
@@ -214,7 +216,7 @@ A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White H
 
 📺 C-SPAN
 
-👁️ 219K • 👍 984 • 💬 1K • ⏱️ 2:59 • 4d ago
+👁️ 220K • 👍 989 • 💬 1K • ⏱️ 2:59 • 4d ago
 
 ---
 
@@ -224,7 +226,17 @@ This is the shocking moment a young boy is slapped across the face by a rogue ro
 
 📺 The Sun
 
-👁️ 43K • 👍 325 • 💬 269 • ⏱️ 1:09 • 4d ago
+👁️ 43K • 👍 326 • 💬 269 • ⏱️ 1:09 • 4d ago
+
+---
+
+**[Watch: Humanoid robot walks alongside first lady Melania Trump at White House](https://www.youtube.com/watch?v=X-NjEku-zE4)**
+
+Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
+
+📺 CBS News
+
+👁️ 53K • 👍 382 • 💬 384 • ⏱️ 9:54 • 4d ago
 
 ---
 
@@ -234,15 +246,17 @@ Thanks to Delete Me for sponsoring this video. To keep your private info private
 
 📺 Kim Java
 
-👁️ 202K • 👍 8K • 💬 406 • ⏱️ 20:00 • 6d ago
+👁️ 207K • 👍 8K • 💬 411 • ⏱️ 20:00 • 6d ago
 
 ---
 
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=xfHkXgZjbCU)**
+**[Amazon Just Bought a Humanoid Robot Company… This Changes Everything](https://www.youtube.com/watch?v=jdoYFz7M90I)**
 
-📺 Robot Julie 
+Amazon just made a surprising move into humanoid robotics by acquiring Fauna Robotics, the company behind the Sprout robot.
 
-👁️ 2K • 👍 9 • ⏱️ 0:21 • 12h ago
+📺 DPCcars
+
+👁️ 2K • 👍 52 • 💬 6 • ⏱️ 3:18 • 4d ago
 
 ---
 
@@ -252,27 +266,17 @@ Live coverage of speeches, rallies, and events across America with raw, unfilter
 
 📺 MAGNO NEWS
 
-👁️ 73K • 👍 2K • 💬 605 • ⏱️ 2:33 • 4d ago
+👁️ 74K • 👍 2K • 💬 613 • ⏱️ 2:33 • 4d ago
 
 ---
 
-**[New AI-designed &#39;metamachines&#39; keep moving even after taking damage](https://www.youtube.com/watch?v=eF1ngjlVGmY)**
+**[First lady Melania Trump welcomes robot to White House tech summit](https://www.youtube.com/watch?v=glfTpD9iKhs)**
 
-New AI-designed 'metamachines' that keep moving forward even after taking damage have been developed by a team of ...
+Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
 
-📺 The Sun
+📺 Face the Nation
 
-👁️ 34K • 👍 208 • 💬 85 • ⏱️ 1:29 • 2d ago
-
----
-
-**[Fat Mira Does the Robot Trend 😱](https://www.youtube.com/watch?v=XmIl8d0WUws)**
-
-rumi #huntrix #kpop #kpopdemonhunters #shorts #celebrity #trend #makeup #mira All videos were created by myself.
-
-📺 Faces of Culture
-
-👁️ 4.8M • 👍 13K • 💬 7 • ⏱️ 0:04 • 2d ago
+👁️ 146K • 👍 2K • 💬 817 • ⏱️ 9:54 • 4d ago
 
 ---
 
@@ -282,7 +286,7 @@ We put the Roborock Saros 20 through our standard battery of tests! ✔️ Get t
 
 📺 Vacuum Nerds
 
-👁️ 9K • 👍 172 • 💬 43 • ⏱️ 14:43 • 2d ago
+👁️ 10K • 👍 178 • 💬 46 • ⏱️ 14:43 • 2d ago
 
 ---
 
