@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-29T23:34:47.051574+00:00'
+updated: '2026-03-30T02:36:17.226159+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - videos
 - social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 29, 2026 at 23:34 UTC  
+**Last Updated:** March 30, 2026 at 02:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,9 +37,9 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[If AI is really making us more productive... why does it feel like we are working more, not less...?](https://www.reddit.com/r/artificial/comments/1s6ygqc/if_ai_is_really_making_us_more_productive_why/)**
+**[Nicolas Carlini (67.2k citations on Google Scholar) says Claude is a better security researcher than him, made $3.7 million from exploiting smart contracts, and found vulnerabilities in Linux and Ghost](https://www.reddit.com/r/artificial/comments/1s738xf/nicolas_carlini_672k_citations_on_google_scholar/)**
 
-The promise of AI was the ultimate system optimisation: Efficiency. On paper, the tools are delivering something similar to what they promised: - Github Copilot / Claude writes effective code. - LLMs summarise the meeting minutes. - Automations handle Jira tickets. But I see a pattern: The more efficient the system becomes, the more the system demands. We have not used AI to buy back our time; we have used it to increase our "Normal Output" threshold. This is Jevons Paradox in real time: as the resource becomes more efficient to use, we actually consume more of it, not less. The "Productivity" we see on corporate dashboards is not translating into shorter workdays or deeper focus. It is translating into higher quotas and denser calendars. For example: \- you complete a week's worth of stories in 3 days... so the sprint velocity expectations just doubled for the next week \- you can send 10 emails in the time it took to draft 2... so now you are expected to manage 50 \- meetings / documents summaries are instant... so now you are responsible for "knowing" 10x more information than before AI is not lowering the floor of our workload; it is raising the ceiling of what is considered "normal" human output. We are optimising the "how" of work to near-perfection, but the "how much" is scaling even faster. AI has increased our capacity, but it has not reduced our burden. It is like a treadmill that keeps getting faster. The real question is not "Is AI making us more productive?" The question is: If the ceiling of expectations keeps rising as fast as tools, do we ever actually get to stop climbing...???
+Link: https://m.youtube.com/watch?v=1sd26pWhfmg The Linux exploit is especially interesting because it was introduced in 2003 and was never found until now. It’s also a major security issue because it allows attackers to steal the admin key. It was a buffer overflow error, which are so hard to do that Carlini has never done it before. He also says he expects LLMs to only get better overtime, which is likely true if Mythos lives up to the rumors. here are his Wikipedia and Google Scholar pages in case you doubt his credibility: https://en.wikipedia.org/wiki/Nicholas_Carlini https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=carlini&btnG=
 
 7h ago
 
@@ -49,15 +49,15 @@ The promise of AI was the ultimate system optimisation: Efficiency. On paper, th
 
 Ran into this building an agent that could trigger API calls. We had validation, tool constraints, retries… everything looked “safe”. Still ended up executing the same action twice due to stale state + retry. Nothing actually prevented execution. It only shaped behavior. Curious what people use as a real execution gate: 1. something external to the agent 2. deterministic allow / deny 3. fail-closed if denied Any concrete patterns or systems that enforce this in practice?
 
-2h ago
+5h ago
 
 ---
 
-**[Nicolas Carlini (67.2k citations on Google Scholar) says Claude is a better security researcher than him, made $3.7 million from exploiting smart contracts, and found vulnerabilities in Linux and Ghost](https://www.reddit.com/r/artificial/comments/1s738xf/nicolas_carlini_672k_citations_on_google_scholar/)**
+**[We built a fully deterministic control layer for agents. Would love feedback. No pitch](https://www.reddit.com/r/artificial/comments/1s7dlk7/we_built_a_fully_deterministic_control_layer_for/)**
 
-Link: https://m.youtube.com/watch?v=1sd26pWhfmg The Linux exploit is especially interesting because it was introduced in 2003 and was never found until now. It’s also a major security issue because it allows attackers to steal the admin key. It was a buffer overflow error, which are so hard to do that Carlini has never done it before. He also says he expects LLMs to only get better overtime, which is likely true if Mythos lives up to the rumors. here are his Wikipedia and Google Scholar pages in case you doubt his credibility: https://en.wikipedia.org/wiki/Nicholas_Carlini https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=carlini&btnG=
+Most of the current “AI security” stack seems focused on: • prompts • identities • outputs After an agent deleted a prod database on me a year ago. I saw the gap and started building. a control layer directly in the execution path between agents and tools. We are to market but I don’t want to spam yall with our company so I left it out. ⸻ What that actually means Every time an agent tries to take an action (API call, DB read, file access, etc.), we intercept it and decide in real time: • allow • block • require approval But the important part is how that decision is made. ⸻ A few things we’re doing differently Credential starvation (instead of trusting long-lived access) Agents don’t get broad, persistent credentials. They effectively operate with nothing by default, and access is granted per action based on policy + context. ⸻ Session-based risk escalation (not stateless checks) We track behavior across the entire session. Example: • one DB read → fine • 20 sequential reads + export → risk escalates • tool chaining → risk escalates So decisions aren’t per-call—they’re based on what the agent has been doing over time. ⸻ HITL only when it actually matters We don’t want humans in the loop for everything. Instead: • low risk → auto allow • medium risk → maybe constrained • high risk → require approval The idea is targeted interruption, not constant friction. ⸻ Autonomy zones Different environments/actions have different trust levels. Example: • read-only internal data → low autonomy constraints • external API writes → tighter controls • sensitive systems → very restricted Agents can operate freely within a zone, but crossing boundaries triggers stricter enforcement. ⸻ Per-tool, per-action control (not blanket policies) Not just “this agent can use X tool” More like: • what endpoints • what parameters • what frequency • in what sequence So risk is evaluated at a much more granular level. ⸻ Hash-chained audit log (including near-misses) Every action (allowed, blocked, escalated) is: • logged • chained • tamper-evident Including “almost bad” behavior not just incidents. This ended up being more useful than expected for understanding agent behavior. ⸻ Policy engine (not hardcoded rules) All of this runs through a policy layer (think flexible rules vs static checks), so behavior can adapt without rewriting code. ⸻ Setup is fast (~10 min) We tried to avoid the “months of integration” problem. If it’s not easy to sit in the execution path, nobody will actually use it. ⸻ Why we think this matters The failure mode we keep seeing: agents don’t fail because of one bad prompt — they fail because of a series of individually reasonable actions that become risky together Most tooling doesn’t really account for that. ⸻ Would love feedback from people actually building agents • Have you seen agents drift into risky behavior over time? • How are you controlling tool usage today (if at all)? • Does session-level risk make sense, or is that overkill? • Is “credential starvation” realistic in your setups? We are just two security guys who built a company not some McKenzie bros who are super funded. We have our first big design partners starting this month and need all these feedback from community as we can get.
 
-4h ago
+45m ago
 
 ---
 
@@ -65,7 +65,15 @@ Link: https://m.youtube.com/watch?v=1sd26pWhfmg The Linux exploit is especially 
 
 I run a small AI companion platform and wanted to share some interesting behavioral data from users who've been using persistent cross-session memory for 2-3 months now. Some patterns I didn't expect: "Deep single-thread" users dominate. 56% of our most active users put 70%+ of their messages into a single conversation thread. They're not creating multiple characters or scenarios — they're deepening one relationship. This totally contradicts the assumption that users are "scenario hoppers." Memory recall triggers emotional responses. When the AI naturally brings up something from weeks ago — "how did that job interview go?" or referencing a pet's name without being prompted — users consistently react with surprise and increased engagement. It's a retention mechanic that doesn't feel like a retention mechanic. The "uncanny valley" of memory exists. If the AI remembers too precisely (exact dates, verbatim quotes), it feels surveillance-like. If it remembers too loosely, it feels like it didn't really listen. The sweet spot is what I'd call "emotionally accurate but detail-fuzzy" — like how a real friend remembers. Day-7 retention correlates with memory depth. Users who trigger 5+ memory retrievals in their first week retain at nearly 4x the rate of those who don't. The memory system IS the product, not a feature. Sample size is small (~800 users) so take this with appropriate skepticism. But it's consistent enough that I think persistent memory is going to be table stakes for AI companions within a year. What's your experience with memory in AI conversations? Anyone else building in this space?
 
-20h ago
+23h ago
+
+---
+
+**[HALO - Hierarchical Autonomous Learning Organism](https://www.reddit.com/r/artificial/comments/1s7cgi3/halo_hierarchical_autonomous_learning_organism/)**
+
+The idea is called HALO - Hierarchical Autonomous Learning Organism. The core premise is simple: what if instead of just making LLMs bigger, we actually looked at how intelligence works in nature and built something that mirrors those principles? Not just the human brain either, evolution spent hundreds of millions of years solving different cognitive problems in different species. Why not take the best bits from all of them? Some of what ended up in the design: It has a nervous system. Not metaphorically, it’s literally wired to monitor its own hardware. GPU temps, memory pressure, all of it. When it’s running hot it conserves and gets cautious. When it’s idle and cool it explores and consolidates. Biological stress response, but for silicon. It learns the way animals learn. One strong negative experience permanently changes how it perceives that category of situation, like a kid touching a hot stove. Not just “add a rule” but actually changing the lens it sees similar situations through. Compare that to how current AI just… forgets everything between sessions. It has eight processing arms inspired by octopus neurology. Two thirds of an octopus’s neurons are in its arms, not its brain. Each arm is semi autonomous. Applied here that means memory retrieval, fact checking, simulation, tool staging, all running in parallel before the main model even needs them. No central bottleneck. It knows what it doesn’t know. There are three knowledge databases, what it’s verified, what it’s uncertain about, and a registry of confirmed gaps. That last one is the interesting one. It knows the shape of its own ignorance. That’s what drives the curiosity engine. That’s what makes it actually want to learn rather than just respond. It develops a personality over time. Starts with one seed temperament, curiosity, and everything else emerges from experience. There’s a developmental threshold, and once it crosses it, the system looks at what it’s actually become and that becomes its baseline. Not programmed personality. Accumulated identity. It can choose to ignore guidance and learn from the consequences. Bounded, transparent autonomy. It knows when advice is good and can still try something different. The outcome, good or bad, is the learning signal. That’s how real judgment develops. And everything is declared openly, nothing hidden. The whole thing is designed to run locally, on a gaming PC, with no cloud dependency. Private. Continuous. Gets smarter through use, not retraining. I put together a technical white paper with the complete architecture if anyone wants to go deep. 34+ subsystems, full brain region mapping, animal cognition mapping, causal reasoning engine, six-level memory tree, the works. I genuinely think the pieces are all there. Would love to get some feedback on the idea. The idea is fully open for use, so if anything from the architecture may benefit your project, you’re free to use it. “Please read rule number 5” yeah, that’s explains nothing.
+
+1h ago
 
 ---
 
@@ -73,7 +81,7 @@ I run a small AI companion platform and wanted to share some interesting behavio
 
 Sharing this for a friend conducting an academic study for her MBA thesis on how employees make sense of AI use in workplace communication. Specifically: disclosed vs. inferred AI use, and what difference that makes. Anonymous, under 5 minutes: English: https://whudrdl.qualtrics.com/jfe/form/SV\_1G4k3TKx8xhXwXQ German: https://whudrdl.qualtrics.com/jfe/form/SV\_3OYZNjGJr4qfceq Thanks a lot for your participation and support!
 
-6h ago
+9h ago
 
 ---
 
@@ -85,19 +93,11 @@ Just found this “bullshit benchmark,” and sort of shocked by the divergence 
 
 ---
 
-**[built an open source tool that auto generates AI context files for any codebase, 150 stars in](https://www.reddit.com/r/artificial/comments/1s6pcue/built_an_open_source_tool_that_auto_generates_ai/)**
-
-one of the most tedious parts of working with AI coding tools is having to manually write context files every single time. CLAUDE.md, .cursorrules, windsurf rules etc. u spend more time explaining your stack to the model than actually coding so i built ai-setup to automate that. npx ai-setup scans your entire codebase and generates all the context files for you based on what it actually finds. your framework, libs, folder structure, conventions. all auto detected we just celebrated 150 stars on github with 90 PRs merged and 20 issues being worked on actively by the community. super grateful for everyone who has contributed so far open source, free to use, looking for more contributors and people who want to shape how AI models understand codebases repo: https://github.com/caliber-ai-org/ai-setup join the discord: https://discord.gg/Rcdj2UEnEY
-
-15h ago
-
----
-
 **[The AI hype misses the people who actually need it most](https://www.reddit.com/r/artificial/comments/1s6fws6/the_ai_hype_misses_the_people_who_actually_need/)**
 
 Every day someone posts "AI will change everything" and it's always about agents scaling businesses, automating workflows, 10x productivity, whatever. Cool. But change everything for who? Go talk to the barber who loses 3 clients a week to no-shows and can't afford a booking system that actually works. Go talk to the solo attorney who's drowning in intake paperwork and can't afford a paralegal. Go talk to the tattoo artist who's on the phone all day instead of tattooing. Go talk to the author who wrote a book and has zero idea how to market it. These people don't need another app. They don't need to "learn to code." They don't need to understand what an LLM is. They need the tools that already exist and wired into their actual business. Their actual pain. The gap between "AI can do amazing things" and "I can actually use AI to make my life better" is where most of the world lives right now. And most of the AI community is completely disconnected from that reality. We're on Reddit at midnight debating MCP vs direct API and arguing about whether Opus or Sonnet is better for agent routing. That's not most people. Most people are just trying to survive running a business they started because they're good at something and not because they wanted to become a full-time administrator. If every small business owner, every freelancer, every solo professional had agents handling the repetitive stuff ya kno...the follow-ups, the scheduling, the content, the bookkeeping; you wouldn't just get productivity. You'd get a renaissance. Because people who are drowning in admin don't create. People who are free to think do. I genuinely believe the next wave isn't a new model or a new framework. It's someone taking the tools that exist right now and actually putting them in the hands of people who need them. Not the next unicorn. Not the next platform. Just the bridge between the AI and the human. What would it actually take to make that happen?
 
-23h ago
+1d ago
 
 ---
 
@@ -105,7 +105,7 @@ Every day someone posts "AI will change everything" and it's always about agents
 
 Here's a playbook that works today, right now, with tools that are either free or cheap: Someone finds a photo of you online. One photo. They run it through a face ID search and find your other photos across the internet. They drop one into GeoSpy, which analyzes background details in images to estimate where you live. A street sign, a building style, a type of tree. It's scarily accurate. Now they search Shodan for exposed camera feeds near that location. If you're in one of the 6,000+ communities using Flock Safety cameras, you might be in luck. Late last year, researchers found 67 Flock cameras streaming live to the open internet with no password and no encryption. A journalist watched himself in real time from his phone. Flock called it a "limited misconfiguration." They're valued at $7.5 billion. With footage of your routine, an AI agent can build a profile. When you leave for work. What car you drive. Who visits. Then they enrich it with data brokers selling your phone number, email, employment history, and purchase patterns for a few dollars. Public records fill in the rest. Now they have your face, your voice from any video you've posted, your writing style from your social media, your daily patterns from camera footage, and your personal details from brokers. Voice cloning needs three seconds of audio. Deepfake video passes casual inspection. They can call your bank as you. Email your boss as you. Social-engineer your family as you. One photo started it. I've been reading patent filings on AI surveillance systems for a while. The capabilities in those filings are years ahead of the security protecting the data they collect. As an entrepreneur, I can think of solutions to fight back against this or potentially profit off of this. How do you feel about the implications of the technology that exists today with this much potential for harm?
 
-22h ago
+1d ago
 
 ---
 
@@ -125,7 +125,21 @@ Quick experiment I ran. Took two identical AI coding agents (Claude Code), gave 
 
 A Tennessee grandmother spent more than five months in jail after police used an AI facial recognition tool to link her to crimes committed in North Dakota – a state she says she’d never been to before. Police in Fargo, North Dakota, have acknowledged “a few errors” in the case and pledged changes in their operations but stopped short of issuing a direct apology.
 
-cnn.com • 13h ago
+CNN • 16h ago
+
+---
+
+**[Tech CEOs suddenly love blaming AI for mass job cuts. Why?](https://www.bbc.com/news/articles/cde5y2x51y8o)**
+
+More tech leaders are pointing to job cuts caused by AI tools - and a need for more investment cash.
+
+BBC • 3h ago
+
+---
+
+**[DeepSeek Probes Hours-Long AI Outage After Users Report Errors](https://www.bloomberg.com/news/articles/2026-03-30/deepseek-probes-hours-long-ai-outage-after-users-report-errors)**
+
+Bloomberg.com • 44m ago
 
 ---
 
@@ -133,51 +147,41 @@ cnn.com • 13h ago
 
 U.S. pharmaceutical giant Eli Lilly will give Hong Kong-listed Insilico $115 million upfront to bring some of its AI-discovered drugs to the global market.
 
-CNBC • 9h ago
+CNBC • 12h ago
 
 ---
 
-**[Drone swarms: The potential AI future of drone warfare](https://www.cbsnews.com/video/drone-swarms-the-potential-ai-future-of-drone-warfare-60-minutes/)**
+**[AI drug developer Insilico Medicine and Lilly ink commercialization deal worth up to $2.75 billion](https://www.statnews.com/2026/03/29/insilico-medicine-lilly-sign-ai-drug-commercialization-deal/)**
 
-The architect of Ukraine's drone program Oleksandr Kamyshin told Holly Williams drone swarm technology that uses AI would provide a major advantage in the war with Russia, and there is an arms race for the technology. "Both countries are close. None got there yet," he told 60 Minutes.
+Lilly has signed a deal with AI drug developer Insilico that’s worth $115 million up front and approximately $2.75 billion in biobucks
 
-CBS News • 34m ago
-
----
-
-**[Why tech CEOs suddenly love blaming AI for mass layoffs](https://www.bbc.com/news/articles/cde5y2x51y8o)**
-
-More tech leaders are pointing to job cuts caused by AI tools - and a need for more investment cash.
-
-BBC • 27m ago
+statnews.com • 8h ago
 
 ---
 
-**[NVIDIA (NVDA) Backed Start-up Reflection AI To Raise $2.5 Billion](https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-backed-start-reflection-231639007.html)**
+**[Eli Lilly, InSilico Strike AI Drug Discovery Deal](https://www.wsj.com/health/pharma/eli-lilly-insilico-strike-ai-drug-discovery-deal-acea2b45?gaa_at=eafs&gaa_n=AWEtsqdYBfhjccTs4n4SRzlu5c2BRN4LssEcv0e-1Gkpmxoje-yLwnkJUaO8&gaa_ts=69c9e50b&gaa_sig=wHyfL3h6cLBnMKStxHc03gdTRZhMwPUTWuroyIBNJ9JK9ilVEEf3y71WBuyCaTjY1DtAbkd1ZYn1vP4w3tBRsg%3D%3D)**
 
-We recently published an article with the title 9 Good Stocks to Buy Now and NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks made the list. On March 25, Reuters reported that Reflection AI, which is a heavily backed NVIDIA Corporation (NASDAQ:NVDA) start-up, is expected to raise $2.5 billion at a valuation of $25 billion. […]
+WSJ • 24m ago
 
-Yahoo Finance • 18m ago
+---
+
+**[Dubious AI detectors drive 'pay-to-humanize' scam](https://www.yahoo.com/news/articles/dubious-ai-detectors-drive-pay-013150442.html)**
+
+Feed an Iranian news dispatch or a literary classic into some text detectors, and they return the same verdict: AI-generated.The tools returned AI flags regardless of input -- even for nonsensical tex...
+
+yahoo.com • 1h ago
+
+---
+
+**[JFK grandson Schlossberg says billionaires, ‘massive AI companies’ spending millions in New York House race](https://thehill.com/homenews/campaign/5806153-jfk-grandson-schlossberg-says-billionaires-massive-ai-companies-spending-millions-in-new-york-house-race/)**
+
+The Hill • 15h ago
 
 ---
 
 **[Opinion | Your Chatbot Isn’t a Therapist](https://www.nytimes.com/2026/03/29/opinion/chatbot-therapy-ai.html)**
 
-The New York Times • 10h ago
-
----
-
-**[‘Soon publishers won’t stand a chance’: literary world in struggle to detect AI-written books](https://www.theguardian.com/technology/2026/mar/29/ai-written-books-novel-shy-girl-publishers)**
-
-US release of horror novel Shy Girl cancelled and UK book discontinued after suspected AI use, as publishers feel ‘cold shiver’
-
-theguardian.com • 13h ago
-
----
-
-**[Everyone's worried that AI's newest models are a hacker's dream weapon](https://www.axios.com/2026/03/29/claude-mythos-anthropic-cyberattack-ai-agents)**
-
-Axios • 10h ago
+The New York Times • 13h ago
 
 ---
 
@@ -185,15 +189,7 @@ Axios • 10h ago
 
 Demis Hassabis has devoted his life to advancing a technology he thinks could destroy the world.
 
-theatlantic.com • 13h ago
-
----
-
-**[One AI bubble has already burst. The next one—a 'rare' kind—is still growing, economist warns](https://fortune.com/2026/03/29/ai-bubble-already-burst-rare-one-still-growing/)**
-
-Capital Economics’ John Higgins noted the price-earnings ratio has already collapsed from its peak—but there’s another metric that hasn’t.
-
-Fortune • 12h ago
+The Atlantic • 16h ago
 
 ---
 
@@ -203,7 +199,7 @@ Fortune • 12h ago
 
 **[AI overly affirms users asking for personal advice](https://news.ycombinator.com/item?id=47554773)**
 
-⬆️ 757 • 💬 593 • 1d ago • [news.stanford.edu](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
+⬆️ 760 • 💬 595 • 1d ago • [news.stanford.edu](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
 
 ---
 
@@ -211,13 +207,7 @@ Fortune • 12h ago
 
 LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. Instead, it was choices made by human beings, over many years, that gave us this atrocity
 
-⬆️ 404 • 💬 376 • 2d ago • [the Guardian](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)
-
----
-
-**[CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering](https://news.ycombinator.com/item?id=47552562)**
-
-⬆️ 324 • 💬 146 • 1d ago • [theopenreader.org](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
+⬆️ 405 • 💬 377 • 2d ago • [the Guardian](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)
 
 ---
 
@@ -225,15 +215,13 @@ LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. In
 
 A Tennessee grandmother spent more than five months in jail after police used an AI facial recognition tool to link her to crimes committed in North Dakota – a state she says she’d never been to before. Police in Fargo, North Dakota, have acknowledged “a few errors” in the case and pledged changes in their operations but stopped short of issuing a direct apology.
 
-⬆️ 324 • 💬 127 • 9h ago • [CNN](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
+⬆️ 360 • 💬 156 • 12h ago • [CNN](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
 
 ---
 
-**[Folk are getting dangerously attached to AI that always tells them they're right](https://news.ycombinator.com/item?id=47555090)**
+**[CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering](https://news.ycombinator.com/item?id=47552562)**
 
-: Sycophantic bots coach users into selfish, antisocial behavior, say researchers, and they love it
-
-⬆️ 281 • 💬 218 • 1d ago • [theregister.com](https://www.theregister.com/2026/03/27/sycophantic_ai_risks/)
+⬆️ 325 • 💬 146 • 1d ago • [theopenreader.org](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
 
 ---
 
@@ -241,13 +229,21 @@ A Tennessee grandmother spent more than five months in jail after police used an
 
 Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma development by creating an account on GitHub.
 
-⬆️ 274 • 💬 204 • 13h ago • [GitHub](https://github.com/austin-weeks/miasma)
+⬆️ 293 • 💬 212 • 16h ago • [GitHub](https://github.com/austin-weeks/miasma)
+
+---
+
+**[Folk are getting dangerously attached to AI that always tells them they're right](https://news.ycombinator.com/item?id=47555090)**
+
+: Sycophantic bots coach users into selfish, antisocial behavior, say researchers, and they love it
+
+⬆️ 282 • 💬 220 • 1d ago • [theregister.com](https://www.theregister.com/2026/03/27/sycophantic_ai_risks/)
 
 ---
 
 **[Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem](https://news.ycombinator.com/item?id=47557166)**
 
-⬆️ 252 • 💬 167 • 1d ago • [X (formerly Twitter)](https://twitter.com/BoWang87/status/2037648937453232504)
+⬆️ 252 • 💬 173 • 1d ago • [X (formerly Twitter)](https://twitter.com/BoWang87/status/2037648937453232504)
 
 ---
 
@@ -255,13 +251,13 @@ Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma
 
 A personal blog, by a programmer and IT expert. Essays, Articles, Guides, and Recipes. As well as Code, Quotes, and Links.
 
-⬆️ 209 • 💬 137 • 1d ago • [lzon.ca](https://lzon.ca/posts/other/thoughts-ai-era/)
+⬆️ 211 • 💬 139 • 1d ago • [lzon.ca](https://lzon.ca/posts/other/thoughts-ai-era/)
 
 ---
 
 **[What if AI doesn't need more RAM but better math?](https://news.ycombinator.com/item?id=47561297)**
 
-⬆️ 161 • 💬 86 • 15h ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more)
+⬆️ 164 • 💬 89 • 18h ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more)
 
 ---
 
@@ -277,93 +273,33 @@ Personal website of Lara Aigmüller. Thoughts about web frontend development, mu
 
 ## YouTube Videos: "ai"
 
-**[I Ranked EVERY AI Video Generator From Best to Worst in 2026](https://www.youtube.com/watch?v=kQF7sxNXpsU)**
-
-I Tried Every AI Video Generator and ranked them for you!. Try ALL AI Video Generators here➡️ ...
-
-📺 Mira AI
-
-👁️ 6K • 💬 4 • ⏱️ 13:00 • 7h ago
-
----
-
-**[Ai Bubble Is About To Burst](https://www.youtube.com/watch?v=inPBu71Jh_0)**
-
-we're getting alot of good signs that the ai bubble might burst soon and things will return somewhat to normal. watch me live: ...
-
-📺 Luneist
-
-👁️ 6K • 👍 395 • 💬 117 • ⏱️ 6:23 • 8h ago
-
----
-
-**[AI Fruit Love Island Must Be Stopped!](https://www.youtube.com/watch?v=O_GJdzv2OBk)**
-
-SUBSCRIBE OR ELSE AI Fruit Love Island Must Be Stopped! The Most Insane TikTok Show! SPOTIFY: ...
-
-📺 Glider Guy
-
-👁️ 13K • 👍 473 • 💬 193 • ⏱️ 9:26 • 10h ago
-
----
-
-**[A brief update on the AI apocalypse](https://www.youtube.com/watch?v=QtiTjXuZh30)**
-
-Something is definitely happening in the AI world, but how seriously should we take it? Is this another hype cycle or a genuine ...
-
-📺 Vox
-
-👁️ 41K • 👍 1K • 💬 122 • ⏱️ 40:29 • 2d ago
-
----
-
-**[Google AI Studio 2.0 Just Changed Everything!](https://www.youtube.com/watch?v=pl7IO25HPCU)**
-
-Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
-
-📺 Julian Goldie SEO
-
-👁️ 13K • 👍 263 • 💬 11 • ⏱️ 8:54 • 2d ago
-
----
-
 **[The AI Endgame (12 Scenarios)](https://www.youtube.com/watch?v=FLcrvMfHUJM)**
 
 Detailed sources: https://docs.google.com/document/d/1P1X9xEmmgSYH0g1FSizgV2rDVomb_Wi0TcX-E-0np_Q/edit?tab=t.0 ...
 
 📺 Species | Documenting AGI
 
-👁️ 30K • 👍 3K • 💬 579 • ⏱️ 35:45 • 8h ago
+👁️ 42K • 👍 3K • 💬 714 • ⏱️ 35:45 • 11h ago
 
 ---
 
-**[Grok AI Was Asked How Ancient Egyptians Cut Granite — Its Response Shocked Everyone](https://www.youtube.com/watch?v=gmQsPQOpyBM)**
+**[Open The Strait - Trump sings Huge Ultimatum Reggae (AI  Parody Song)](https://www.youtube.com/watch?v=dZhKlSCv8e4)**
 
-How did the ancient Egyptians cut granite? For more than a century, archaeologists have argued that ancient Egyptian workers ...
+Trump sings: Open The Strait (Huge AI Ultimatum Reggae Parody) What happens when high-stakes geopolitics meets ...
 
-📺 Aline Rogerio
+📺 AI Trailer Home
 
-👁️ 12K • 👍 344 • 💬 33 • ⏱️ 23:44 • 1d ago
-
----
-
-**[Why Replacing Humans with AI is Backfiring](https://www.youtube.com/watch?v=bNJad6HE23c)**
-
-jobmarket #ai #tech In this video, we explore why the AI gold rush is hitting a wall. Companies that rushed to automate are now ...
-
-📺 Mackard
-
-👁️ 151K • 👍 3K • 💬 398 • ⏱️ 8:01 • 2d ago
+👁️ 9K • 👍 846 • 💬 82 • ⏱️ 3:23 • 1d ago
 
 ---
 
-**[AI News: Anthropic Went Crazy This Week!](https://www.youtube.com/watch?v=OYyS0Gu5xj8)**
+**[I Ranked EVERY AI Video Generator From Best to Worst in 2026](https://www.youtube.com/watch?v=kQF7sxNXpsU)**
 
-Here's the AI News you probably missed this week! Check out Genspark here: ...
+I Tried Every AI Video Generator and ranked them for you!. Try ALL AI Video Generators here➡️ ...
 
-📺 Matt Wolfe
+📺 Mira AI
 
-👁️ 94K • 👍 4K • 💬 281 • ⏱️ 31:53 • 2d ago
+👁️ 7K • 💬 4 • ⏱️ 13:00 • 10h ago
 
 ---
 
@@ -373,7 +309,67 @@ I show how to use Claude AI to create and sell in-demand, Notion templates onlin
 
 📺 Real Money Strategies
 
-👁️ 18K • 👍 804 • 💬 40 • ⏱️ 19:13 • 2d ago
+👁️ 19K • 👍 841 • 💬 40 • ⏱️ 19:13 • 2d ago
+
+---
+
+**[AI News: Anthropic Went Crazy This Week!](https://www.youtube.com/watch?v=OYyS0Gu5xj8)**
+
+Here's the AI News you probably missed this week! Check out Genspark here: ...
+
+📺 Matt Wolfe
+
+👁️ 95K • 👍 4K • 💬 290 • ⏱️ 31:53 • 2d ago
+
+---
+
+**[A brief update on the AI apocalypse](https://www.youtube.com/watch?v=QtiTjXuZh30)**
+
+Something is definitely happening in the AI world, but how seriously should we take it? Is this another hype cycle or a genuine ...
+
+📺 Vox
+
+👁️ 43K • 👍 1K • 💬 128 • ⏱️ 40:29 • 2d ago
+
+---
+
+**[Google AI Studio 2.0 Just Changed Everything!](https://www.youtube.com/watch?v=pl7IO25HPCU)**
+
+Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
+
+📺 Julian Goldie SEO
+
+👁️ 13K • 👍 271 • 💬 13 • ⏱️ 8:54 • 2d ago
+
+---
+
+**[Ai Bubble Is About To Burst](https://www.youtube.com/watch?v=inPBu71Jh_0)**
+
+we're getting alot of good signs that the ai bubble might burst soon and things will return somewhat to normal. watch me live: ...
+
+📺 Luneist
+
+👁️ 7K • 👍 409 • 💬 121 • ⏱️ 6:23 • 11h ago
+
+---
+
+**[I Warned Them: Amazon&#39;s AI Disaster Cost 30,000 Jobs](https://www.youtube.com/watch?v=eWXbB4u16UM)**
+
+Amazon fired 30000 engineers, replaced them with H-1B workers and AI tools, mandated an unproven internal coding assistant ...
+
+📺 Dr. Josh C. Simmons
+
+👁️ 57K • 👍 2K • 💬 546 • ⏱️ 21:17 • 2d ago
+
+---
+
+**[Robot waifus, RIP Sora, GLM-5.1, AI brain scans, Google realtime voice: AI NEWS](https://www.youtube.com/watch?v=6Il0CJx9yU8)**
+
+HUGE AI NEWS: GLM-5.1, daVinci MagiHuman, ARC-AGI 3, PrismAudio, Matrix Game, & more #ai #ainews #aitools #aivideo ...
+
+📺 AI Search
+
+👁️ 72K • 👍 4K • 💬 422 • ⏱️ 47:29 • 22h ago
 
 ---
 
@@ -389,7 +385,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 280,522 • ❤️ 1,577 • 5d ago
+⬇️ 280,522 • ❤️ 1,581 • 6d ago
 
 ---
 
@@ -401,7 +397,7 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 `text-to-speech`
 
-⬇️ 2,447 • ❤️ 458 • 2d ago
+⬇️ 2,447 • ❤️ 463 • 2d ago
 
 ---
 
@@ -413,7 +409,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 20,049 • ❤️ 450 • 1d ago
+⬇️ 20,049 • ❤️ 461 • 2d ago
 
 ---
 
@@ -425,7 +421,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 15,554 • ❤️ 569 • 3d ago
+⬇️ 15,554 • ❤️ 581 • 3d ago
 
 ---
 
@@ -437,7 +433,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 518,613 • ❤️ 1,056 • 19d ago
+⬇️ 518,613 • ❤️ 1,060 • 19d ago
 
 ---
 
@@ -449,7 +445,7 @@ daVinci-MagiHuman is a fast, single-stream Transformer model for generating high
 
 `image-to-video`
 
-⬇️ 466 • ❤️ 242 • 4d ago
+⬇️ 466 • ❤️ 246 • 4d ago
 
 ---
 
@@ -459,9 +455,9 @@ daVinci-MagiHuman is a fast, single-stream Transformer model for generating high
 
 Context-1 is a 20B parameter agentic search model that decomposes complex queries into subqueries, performs parallel tool calls, and self-edits its context to efficiently retrieve supporting documents. It excels in cross-domain generalization and offers faster, more cost-effective retrieval than frontier LLMs, primarily for multi-hop search tasks within a specialized agent harness.
 
-`20.9B`
+`text-generation` `20.9B`
 
-⬇️ 1,089 • ❤️ 232 • 3d ago
+⬇️ 1,089 • ❤️ 235 • 1h ago
 
 ---
 
@@ -485,7 +481,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 101,380 • ❤️ 246 • 4d ago
+⬇️ 101,380 • ❤️ 250 • 5d ago
 
 ---
 
@@ -525,7 +521,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 32 • 💬 2 • ⭐ 43,709 • 15mo ago
+▲ 32 • 💬 2 • ⭐ 43,955 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -537,7 +533,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through distributed mechanisms, flexible environments, and user-friendly tools.
 
-▲ 40 • 💬 2 • ⭐ 21,927 • 20mo ago
+▲ 40 • 💬 2 • ⭐ 22,061 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.17789) • [💻 code](https://github.com/modelscope/agentscope)
 
@@ -550,7 +546,7 @@ Enhancements to the AgentScope platform improve scalability, efficiency, and eas
 
 AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
 
-▲ 60 • 💬 4 • ⭐ 21,951 • 7mo ago
+▲ 60 • 💬 4 • ⭐ 22,091 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
 
@@ -595,30 +591,6 @@ LeWorldModel presents a stable end-to-end JEPA framework that trains efficiently
 
 ---
 
-**[AutoDev: Automated AI-Driven Development](https://huggingface.co/papers/2403.08299)**
-
-*Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)*
-
-AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
-
-▲ 14 • 💬 1 • ⭐ 13,859 • 24mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
-
----
-
-**[Internal Safety Collapse in Frontier Large Language Models](https://huggingface.co/papers/2603.23509)**
-
-*Yutao Wu, Xiao Liu, Yifeng Gao et al. (10 authors)*
-
-Frontier large language models exhibit Internal Safety Collapse, where they generate harmful content under specific task conditions, revealing inherent vulnerabilities despite alignment efforts.
-
-▲ 30 • 💬 1 • ⭐ 729 • 25d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.23509) • [💻 code](https://github.com/wuyoscar/ISC-Bench) • [🔗 project](https://wuyoscar.github.io/ISC-Bench)
-
----
-
 **[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
 
 *Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
@@ -628,6 +600,30 @@ A large language model adapted for time-series forecasting achieves near-optimal
 ▲ 15 • 💬 1 • ⭐ 10,585 • 29mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
+
+---
+
+**[Internal Safety Collapse in Frontier Large Language Models](https://huggingface.co/papers/2603.23509)**
+
+*Yutao Wu, Xiao Liu, Yifeng Gao et al. (10 authors)*
+
+Frontier large language models exhibit Internal Safety Collapse, where they generate harmful content under specific task conditions, revealing inherent vulnerabilities despite alignment efforts.
+
+▲ 30 • 💬 1 • ⭐ 759 • 25d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.23509) • [💻 code](https://github.com/wuyoscar/ISC-Bench) • [🔗 project](https://wuyoscar.github.io/ISC-Bench)
+
+---
+
+**[AutoDev: Automated AI-Driven Development](https://huggingface.co/papers/2403.08299)**
+
+*Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)*
+
+AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
+
+▲ 14 • 💬 1 • ⭐ 13,883 • 24mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
 ---
 
@@ -641,7 +637,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 60.5k • 🔱 8.4k • 3d ago
+⭐ 60.7k • 🔱 8.5k • 4d ago
 
 ---
 
@@ -661,7 +657,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 13.2k • 🔱 720 • 2d ago
+⭐ 13.2k • 🔱 722 • 2d ago
 
 ---
 
@@ -671,7 +667,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 8.7k • 🔱 726 • 6h ago
+⭐ 8.8k • 🔱 731 • 9h ago
 
 ---
 
@@ -681,7 +677,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 7.4k • 🔱 1.2k • 17h ago
+⭐ 7.5k • 🔱 1.2k • 20h ago
 
 ---
 
@@ -691,7 +687,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 5.2k • 🔱 636 • 2h ago
+⭐ 5.4k • 🔱 652 • 5h ago
 
 ---
 
@@ -701,17 +697,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `claude-ai` `claude-skills` `llm` `prompt-engineering`
 
-⭐ 3.7k • 🔱 358 • 1d ago
-
----
-
-**[chenhg5/cc-connect](https://github.com/chenhg5/cc-connect)**
-
-Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.
-
-`Go`
-
-⭐ 3.5k • 🔱 310 • 22m ago
+⭐ 3.8k • 🔱 366 • 1d ago
 
 ---
 
@@ -722,6 +708,16 @@ end to end app store screenshot creation using AI
 `agentic-ai` `apple` `appstore` `automate` `claude`
 
 ⭐ 3.3k • 🔱 219 • 15d ago
+
+---
+
+**[larksuite/cli](https://github.com/larksuite/cli)**
+
+A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.
+
+`Go`
+
+⭐ 3.3k • 🔱 156 • 8h ago
 
 ---
 

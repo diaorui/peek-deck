@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-29T23:34:47.064742+00:00'
+updated: '2026-03-30T02:36:17.240903+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - videos
 - social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 29, 2026 at 23:34 UTC  
+**Last Updated:** March 30, 2026 at 02:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,998.12
+### $2,004.96
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
-**7d:** -7.8%  
-**30d:** +1.0%  
-**90d:** -33.3%  
-**1y:** +9.9%  
+**24h:** -0.1%  
+**7d:** -6.8%  
+**30d:** +3.6%  
+**90d:** -32.4%  
+**1y:** +10.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $239.45B
+**Market Cap:** $242.73B
 Rank #2
 
-**Circulating Supply:** 120,691,470 ETH
+**Circulating Supply:** 120,691,444 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.9%
+-59.3%
 
 **All-Time Low:** $0.43
-+458016.9%
++464285.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Borrowing against ETH surprised me in the best way. If you believe in ETH long-term like I do but still need liquidity right now, it makes a ton of sense. I didn’t want to risk any potential gains or create a taxable event, so I used а a portion of my ETH as collateral for a loan on Nexo. It’s similar to making a mortgage on your house, but with crypto, and it doesn’t involve the crazy paperwork. Holding $ETH is a conviction for me and selling now would feel like giving up on it. With the loan, I covered some expenses, reinvested a bit, and still kept my exposure. Plus, there are no rigid repayment schedules breathing down my neck, just pay back when I want. The whole process was fast and way less stressful than anything in traditional finance. Also feels like one of the boldest yet smartest moves I’ve made in crypto so far.
 
-38m ago
+3h ago
 
 ---
 
@@ -80,7 +80,15 @@ Borrowing against ETH surprised me in the best way. If you believe in ETH long-t
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+21h ago
+
+---
+
+**[Eth rip](https://www.reddit.com/r/ethereum/comments/1s7ccnc/eth_rip/)**
+
+Can we get a damn jumpstart it’s about that time goooodt lord we are green
+
+1h ago
 
 ---
 
@@ -140,12 +148,6 @@ Source: https://www.coingecko.com/learn/real-world-assets-rwa-buy-on-chain RWAs 
 
 ---
 
-**[Paperwallet.ca launch](https://www.reddit.com/r/ethereum/comments/1s543mf/paperwalletca_launch/)**
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +156,7 @@ Source: https://www.coingecko.com/learn/real-world-assets-rwa-buy-on-chain RWAs 
 
 The project is designed to make Ethereum’s many layer 2s work together more seamlessly.
 
-coindesk.com • 8h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -166,19 +168,19 @@ The Motley Fool • 1d ago
 
 ---
 
+**[Ethereum’s Incredible Position](https://finance.yahoo.com/markets/crypto/articles/ethereum-incredible-position-180149031.html)**
+
+This market isn't what we wanted. But looking forward, ETH is still in a great place.
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Gnosis and Zisk announce 'Ethereum Economic Zone' rollup framework with Ethereum Foundation co-funding](https://www.theblock.co/post/395578/gnosis-and-zisk-announce-ethereum-economic-zone-rollup-framework-with-ethereum-foundation-co-funding)**
 
 The Ethereum Foundation is co-funding the "easy" initiative, which was announced at EthCC in Cannes, and partners include Aave, Titan, Centrifuge, and more.
 
-The Block • 8h ago
-
----
-
-**[Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week](https://finance.yahoo.com/markets/crypto/articles/why-crypto-crashing-bitcoin-xrp-140126480.html)**
-
-Bitcoin (CRYPTO: BTC), XRP (CRYPTO: XRP), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) are all down 6-8% in a week, and the crypto market has shed over $80 billion in value since March 24. The Fear & Greed Index sits at 23, and the average crypto RSI has dropped to 39—oversold territory that the market ... Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week
-
-Yahoo Finance • 1d ago
+theblock.co • 11h ago
 
 ---
 
@@ -186,7 +188,7 @@ Yahoo Finance • 1d ago
 
 Ethereum has rolled out a steady stream of upgrades since 2022. Here’s how those changes fit together—and what’s still ahead.
 
-Decrypt • 7h ago
+Decrypt • 10h ago
 
 ---
 
@@ -204,15 +206,17 @@ Binance • 1d ago
 
 ---
 
-**[PANINI BLOCKCHAIN BRIDGE TO OPEN FOR BUSINESS](https://blog.paniniamerica.net/panini-blockchain-bridge-to-open-for-business/)**
+**[VanEck’s Ethereum ETF Hit by Sharp Redemptions as Ether Slides Below $2,000](https://www.tipranks.com/news/cryptocurrencies/vanecks-ethereum-etf-hit-by-sharp-redemptions-as-ether-slides-below-2000)**
 
-Panini America • 2d ago
+TipRanks • 9h ago
 
 ---
 
-**[VanEck’s Ethereum ETF Hit by Sharp Redemptions as Ether Slides Below $2,000](https://www.tipranks.com/news/cryptocurrencies/vanecks-ethereum-etf-hit-by-sharp-redemptions-as-ether-slides-below-2000)**
+**[Ethereum looks quiet – But liquidity is building for a bigger move](https://ambcrypto.com/ethereum-looks-quiet-but-liquidity-is-building-for-a-bigger-move/)**
 
-TipRanks • 6h ago
+Ethereum sees rising liquidity, activity signaling real demand, while price stays range-bound awaiting stronger deployment.
+
+AMBCrypto • 9h ago
 
 ---
 
@@ -220,7 +224,7 @@ TipRanks • 6h ago
 
 BlackRock CEO Larry Fink earned $37.7 million in 2025 after a strong year marked by record $14 trillion AUM and solid earnings.
 
-Benzinga • 10h ago
+Benzinga • 13h ago
 
 ---
 
@@ -228,33 +232,23 @@ Benzinga • 10h ago
 
 ## YouTube Videos: "ethereum"
 
-**[FINAL WARNING to ALL Bitcoin &amp; Ethereum Investors!](https://www.youtube.com/watch?v=hzfc05Bphkk)**
+**[FINAL WARNING to ALL Crypto Holders!! (I will delete this in 24 hours)](https://www.youtube.com/watch?v=hzfc05Bphkk)**
 
 If you hold Bitcoin or Ethereum... watch this! (alert!) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC ...
 
 📺 Altcoin Daily
 
-👁️ 11K • 👍 969 • 💬 95 • ⏱️ 9:24 • 3h ago
+👁️ 20K • 👍 1K • 💬 174 • ⏱️ 9:24 • 6h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Zwg5Sk12Tis)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=wNSL_tKXphU)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 76 • 💬 1 • ⏱️ 3:36 • 6h ago
-
----
-
-**[You WON&#39;T Believe this Bitcoin &amp; Ethereum Just Got Major News Altcoins Might Be Ready To PUMP](https://www.youtube.com/watch?v=Fu4nNphsuOo)**
-
-People in the cryptocurrency space and world markets are about to get a very hefty wake up call in the very near future.
-
-📺 The Modern Investor
-
-👁️ 7K • 👍 752 • 💬 320 • ⏱️ 27:50 • 14h ago
+👁️ 518 • 👍 54 • 💬 9 • ⏱️ 3:28 • 2h ago
 
 ---
 
@@ -264,7 +258,37 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 5K • 👍 177 • 💬 85 • ⏱️ 11:06 • 1d ago
+👁️ 6K • 👍 180 • 💬 85 • ⏱️ 11:06 • 1d ago
+
+---
+
+**[BITCOIN HOLDERS BE WARNED: New Price Targets!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=NK0Vnozpi0Q)**
+
+BITCOIN HOLDERS BE WARNED: New Price Targets!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+
+📺 Crypto World
+
+👁️ 1K • 👍 95 • 💬 181 • ⏱️ 20:11 • 1h ago
+
+---
+
+**[You WON&#39;T Believe this Bitcoin &amp; Ethereum Just Got Major News Altcoins Might Be Ready To PUMP](https://www.youtube.com/watch?v=Fu4nNphsuOo)**
+
+People in the cryptocurrency space and world markets are about to get a very hefty wake up call in the very near future.
+
+📺 The Modern Investor
+
+👁️ 7K • 👍 775 • 💬 322 • ⏱️ 27:50 • 17h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Zwg5Sk12Tis)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 77 • 💬 1 • ⏱️ 3:36 • 9h ago
 
 ---
 
@@ -274,57 +298,37 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 4K • 👍 152 • 💬 47 • ⏱️ 38:10 • 2d ago
+👁️ 4K • 👍 154 • 💬 47 • ⏱️ 38:10 • 2d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=cECj9ECAWdU)**
+**[BITCOIN WORST CASE $48k, ETH $700 &amp; OIL PUMPING ⬆️ ON BOOTS ON THE GROUND NEWS IRAN, USA, ISRAEL WAR](https://www.youtube.com/watch?v=a7EVZOJ88W4)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+In today's video I break down Bitcoin, Ethereum, stocks, oil, gold, and silver, including the key levels, setups, and risk management ...
 
-📺 More Crypto Online
+📺 James Crypto Guru
 
-👁️ 2K • 👍 143 • 💬 24 • ⏱️ 3:45 • 19h ago
-
----
-
-**[How to Claim 0.15 ETH For Free — Detailed Guide](https://www.youtube.com/watch?v=tVC9FtyyenA)**
-
-In this video, I walk you through a new ETH airdrop that's distributing 0.15 ETH to eligible wallets. I went through the entire process ...
-
-📺 Martin Millions
-
-👁️ 3K • 💬 174 • ⏱️ 5:44 • 4h ago
+👁️ 416 • 👍 53 • 💬 10 • ⏱️ 12:53 • 1h ago
 
 ---
 
-**[📈#crypto #bitcoin #ethereum #binance #xrp #solana #dogecoin #altcoins #memecoin #cryptocurrency](https://www.youtube.com/watch?v=fAIHKkgJHCU)**
+**[&quot;Buy Low Now!&quot; ⚠️ Genius or Garbage? (Data Inside)](https://www.youtube.com/watch?v=CsPFquZoUTg)**
 
-crypto #bitcoin #ethereum #binance #xrp #solana #dogecoin #altcoins #memecoin #cryptocurrency.
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
 
-📺 Crypto AiMan
+📺 Gerhard - Bitcoin Strategy
 
-👁️ 751 • 👍 1 • ⏱️ 0:08 • 1h ago
-
----
-
-**[ETHEREUM එකක් $62,000 ට? | ADA, RIVER, SOL, TAO, AND XRP | BITCOIN](https://www.youtube.com/watch?v=EKf0OOI7yUs)**
-
-Join Patreon for exclusive DAY TRADING, SWING TRADING, and HODLER content ...
-
-📺 Jayanth Ukwaththa - Trader's Life
-
-👁️ 902 • 👍 118 • 💬 60 • ⏱️ 25:46 • 6h ago
+👁️ 2K • 👍 88 • 💬 13 • ⏱️ 8:46 • 15h ago
 
 ---
 
-**[BIG MOVE COMING FOR ETH!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=J6wp_YHME8I)**
+**[Free Ethereum Claim 2026 🔥 This Changed Everything Real Test](https://www.youtube.com/watch?v=fnZZp0AiDdo)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Can a free Ethereum method really generate ETH or is it just another fake crypto trick? In this video, I test a Free Ethereum method ...
 
-📺 Cilinix Crypto
+📺 KYLE MADDOX
 
-👁️ 349 • 👍 11 • 💬 1 • ⏱️ 4:45 • 13h ago
+👁️ 1K • 👍 311 • 💬 37 • ⏱️ 5:57 • 1d ago
 
 ---
 
