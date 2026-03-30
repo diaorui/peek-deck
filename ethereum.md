@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-30T18:32:50.710432+00:00'
+updated: '2026-03-30T19:56:08.766378+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 30, 2026 at 18:32 UTC  
+**Last Updated:** March 30, 2026 at 19:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.7%  
-**7d:** -5.8%  
-**30d:** +4.8%  
-**90d:** -31.7%  
-**1y:** +11.2%  
+**24h:** +1.2%  
+**7d:** -6.0%  
+**30d:** +4.5%  
+**90d:** -31.8%  
+**1y:** +10.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $246.40B
+**Market Cap:** $244.13B
 Rank #2
 
 **Circulating Supply:** 120,691,444 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.8%
+-59.1%
 
 **All-Time Low:** $0.43
-+470181.5%
++467005.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-357/) • 8h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-357/) • 9h ago
 
 ---
 
@@ -172,39 +172,31 @@ The Block • 1d ago
 
 Ethereum funds took the biggest hit as Clarity Act fears and macro headwinds pushed crypto outflows to $414 million for the week.
 
-Yahoo Finance • 45m ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Tom Lee's BitMine Adds More Ethereum as Strategy Takes a Break From Bitcoin Buying](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-adds-more-144553148.html)**
+**[Aave launches v4 on Ethereum as founder eyes ‘opportunities in the real world’](https://finance.yahoo.com/markets/crypto/articles/aave-launches-v4-ethereum-founder-193010547.html)**
+
+Aave Labs on Monday launched Aave v4, a redesigned version of its $24 billion predecessor, Aave v3.  V4 will run alongside v3, Aave Labs executives stressed.  V4 introduces what Labs calls a hub-and-spoke model in which hubs serve as liquidity pools and spokes serve as tailored lending markets.
+
+Yahoo Finance • 25m ago
+
+---
+
+**[Tom Lee's BitMine Adds More Ethereum as Strategy Takes a Break From Bitcoin Buying](https://decrypt.co/362702/tom-lee-bitmine-adds-ethereum-strategy-takes-break-bitcoin-buying)**
 
 BitMine continued its Ethereum accumulation, adding to its leading ETH treasury while Strategy took a week off from Bitcoin purchases.
 
-Yahoo Finance • 3h ago
+Decrypt • 5h ago
 
 ---
 
-**[BMNR, ETH news: Bitmine buys 71,000 ETH as digital asset treasuries dial back purchases](https://www.coindesk.com/business/2026/03/30/bitmine-makes-biggest-ether-purchase-in-2026-while-other-digital-asset-treasuries-pull-back)**
+**[Ethereum vs. Solana: Which Crypto Has More Upside?](https://www.fool.com/investing/2026/03/28/ethereum-vs-solana-which-crypto-has-more-upside/)**
 
-Tom Lee's Ethereum treasury bought more than 71,000 ETH over the past week, remaining the sole large corporate crypto buyer as Strategy broke its 13-week bitcoin purchase streak.
+Ethereum's vast ecosystem goes up against Solana's lightning-quick network.
 
-CoinDesk • 3h ago
-
----
-
-**[Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week](https://247wallst.com/investing/2026/03/28/why-is-crypto-crashing-bitcoin-xrp-ethereum-and-solana-all-down-this-week/)**
-
-Bitcoin, XRP, Ethereum, and Solana are all down by 6-8% in a week. Here's what's driving the crypto market crash and what to watch next.
-
-247wallst.com • 2d ago
-
----
-
-**[Current price of Ethereum for March 30, 2026](https://fortune.com/article/price-of-ethereum-03-30-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 5h ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -212,15 +204,23 @@ Fortune • 5h ago
 
 Bitmine has 3,142,643 staked ETH, representing $6.3 billion at $2,005 per ETH MAVAN (Made in America VAlidator Network) launched staking solution on March 25,...
 
-PR Newswire • 6h ago
+PR Newswire • 7h ago
 
 ---
 
-**[What’s on the Ethereum Roadmap: Glamsterdam, Hegota and Beyond](https://decrypt.co/resources/whats-on-ethereum-roadmap-glamsterdam-hegota-beyond)**
+**[Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week](https://247wallst.com/investing/2026/03/28/why-is-crypto-crashing-bitcoin-xrp-ethereum-and-solana-all-down-this-week/)**
 
-Ethereum has rolled out a steady stream of upgrades since 2022. Here’s how those changes fit together—and what’s still ahead.
+Bitcoin, XRP, Ethereum, and Solana are all down by 6-8% in a week. Here's what's driving the crypto market crash and what to watch next.
 
-Decrypt • 1d ago
+24/7 Wall St. • 2d ago
+
+---
+
+**[Current price of Ethereum for March 30, 2026](https://fortune.com/article/price-of-ethereum-03-30-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 7h ago
 
 ---
 
@@ -236,13 +236,23 @@ tradingview.com • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[LIVE: Tom Lee on Ethereum Bull Run &amp; BMNR Stock – ETH Price Analysis](https://www.youtube.com/watch?v=eDR-pb4idn0)**
+**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=6rR--df9psw)**
+
+ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
+
+📺 Elvis Nash
+
+👁️ 2K • 👍 1K • 31m ago
+
+---
+
+**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=5PZdYV1_FzI)**
 
 ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
 
 📺 The Boss Barber - Yudi
 
-👁️ 2K • 👍 1K • 2h ago
+👁️ 2K • 👍 1K • 19m ago
 
 ---
 
@@ -252,7 +262,17 @@ New data shows the future of markets and crypto in general. Its important for bi
 
 📺 Thomas Kralow
 
-👁️ 10K • 👍 2K • 💬 135 • ⏱️ 11:48 • 7h ago
+👁️ 13K • 👍 2K • 💬 69 • ⏱️ 11:48 • 8h ago
+
+---
+
+**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=ZJeCBwWl1Jw)**
+
+ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
+
+📺 James Vasanthan
+
+👁️ 2K • 👍 1K • 2h ago
 
 ---
 
@@ -262,7 +282,7 @@ If you hold Bitcoin or Ethereum... watch this! (alert!) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 326 • ⏱️ 9:24 • 22h ago
+👁️ 44K • 👍 2K • 💬 291 • ⏱️ 9:24 • 23h ago
 
 ---
 
@@ -272,7 +292,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 916 • 👍 66 • 💬 1 • ⏱️ 3:53 • 6h ago
+👁️ 1K • 👍 74 • 💬 9 • ⏱️ 3:53 • 7h ago
+
+---
+
+**[Former BlackRock Exec Reveals Ethereum&#39;s Future Outlook! | Joseph Chalom](https://www.youtube.com/watch?v=iOmQYMafYG0)**
+
+Joseph Chalom, CEO of SharpLink, joined me to discuss the company's Ethereum treasury strategy and the future of ETH. Topics: ...
+
+📺 Thinking Crypto
+
+👁️ 1K • 👍 110 • 💬 143 • ⏱️ 55:54 • 7h ago
 
 ---
 
@@ -286,53 +316,23 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 ---
 
-**[Former BlackRock Exec Reveals Ethereum&#39;s Future Outlook! | Joseph Chalom](https://www.youtube.com/watch?v=iOmQYMafYG0)**
-
-Joseph Chalom, CEO of SharpLink, joined me to discuss the company's Ethereum treasury strategy and the future of ETH. Topics: ...
-
-📺 Thinking Crypto
-
-👁️ 936 • 👍 100 • 💬 189 • ⏱️ 55:54 • 6h ago
-
----
-
 **[Why Banks Don&#39;t Want Ethereum or Solana — And What They Actually Need](https://www.youtube.com/watch?v=WPtXmFrLrto)**
 
 At the Digital Asset Summit 2026 in New York, a key question came up: what do banks actually need from blockchain?
 
 📺 Learn Cardano
 
-👁️ 2K • 👍 247 • 💬 21 • ⏱️ 10:53 • 7h ago
+👁️ 2K • 👍 293 • 💬 45 • ⏱️ 10:53 • 8h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=EO62J0AHYKA)**
+**[ALERT: Ethereum Foundation&#39;s $46.2M ETH Stake Confirmed — Is This a Huge Signal for Crypto Market?](https://www.youtube.com/watch?v=wbbPQrjr4ds)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
 
-📺 Crypto Gyan
+📺 The Kenzo Guy
 
-👁️ 393 • 👍 59 • 💬 14 • ⏱️ 5:55 • 3h ago
-
----
-
-**[Why Ethereum Might Be the Most Mispriced Asset in Crypto Right Now w/ David Duong](https://www.youtube.com/watch?v=uqafQVXLP8o)**
-
-Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
-
-📺 Milk Road
-
-👁️ 5K • 👍 162 • 💬 28 • ⏱️ 38:10 • 2d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=wNSL_tKXphU)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 93 • 💬 17 • ⏱️ 3:28 • 18h ago
+👁️ 122 • 👍 14 • ⏱️ 25:42 • 1h ago
 
 ---
 
