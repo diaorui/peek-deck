@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-30T02:36:17.244152+00:00'
+updated: '2026-03-30T05:26:23.425533+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 30, 2026 at 02:36 UTC  
+**Last Updated:** March 30, 2026 at 05:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,9 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[SLAM Camera Board](https://www.reddit.com/r/robotics/comments/1s7g8kh/slam_camera_board/)**
+
+Posting update here, I doubled down on my mission to create the smallest VIO module, here is the latest revision I am working on. - Global shutter camera + IMU - 0.8W - Outputs pose @ 15hz via USB or UART Here is a short video showing how when you plug it into any phone or pc, it shows up as ethernet device with a web-ui built into it. No app to setup or even internet required. This lets me try it out and collect diverse datasets easily on-the-go.
+
+1h ago
+
+---
+
 **[Unipath has launched a household robot that is now in real-home use. It can wake users up on time, operate home appliances, organize storage spaces, and even cook meals automatically.](https://www.reddit.com/r/robotics/comments/1s7065y/unipath_has_launched_a_household_robot_that_is/)**
 
-9h ago
+12h ago
 
 ---
 
@@ -42,13 +50,21 @@ Robotics research and industry news
 
 ​ Hey everyone, I’m a senior CS student building a proof-of-concept for a fully local, AI-guided mapping robot, and I’d love some feedback on my architecture to help me improve. (First 30s are tech stack, remainder is robot running around my room) The robot drives forward until the ultrasonic sensor detects a wall. It backs up, and then triggers a local Vision-Language Model (NVIDIA VILA 2.7B running via nano_llm on the Jetson). The AI looks at the camera frame, identifies the scene (e.g., "see a drawer"), and tells the ROS2 exploration controller which direction to turn next. Everything runs completely offline. My current tech stack: Jetson Orin Nano + ROS2 Humble Arduino Mega for motor/encoder control (2 HiTechnic motor controllers and 4 Tetrix 12v Torquenado motors) Single ultrasonic sensor (currently) + a cheap usb camera (to be determined if I upgrade to a depth camera or something else) VILA 2.7B for scene labeling and high-level navigation decisions I know the movement in this video is pretty jittery (combination of ultrasonic noise and serial communication gaps). I actually just ordered an LDROBOT STL-27L LiDAR to upgrade the stack to proper 360° ICP SLAM and to fully flesh out 2D maps of my whole apt. The end goal being for this phase of the robot is to be plopped down anywhere and go to the location that I tell it to go to. Later on, I would have a robot arm that I built using 15kg and 25kg servos be attached to the front and masked whenever they pass the clearance of the lidar. The arm would have the usb camera from earlier or an OpenMVRT1062 AI cam to help identify target objects and grasp them and then go to a destination. For those of you working in the robotics industry: What issues do you see with this approach? What specific tools, libraries, or design patterns is my project currently missing that hiring managers look for in entry-level robotics engineers? Are there any specific upgrades I should keep in mind for the future such as a depth camera being needed or a higher res camera, upgrades to motor controllers, etc. Thanks in advance. I’m here to learn, so please don't hold back on the critiques!
 
-6h ago
+9h ago
 
 ---
 
 **[US lawmakers to introduce bill to ban government use of Chinese robots](https://www.reddit.com/r/robotics/comments/1s75mvr/us_lawmakers_to_introduce_bill_to_ban_government/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/) • 6h ago
+🔗 [reuters.com](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/) • 9h ago
+
+---
+
+**[Crazy idea: a game for training robots how to do chores](https://www.reddit.com/r/robotics/comments/1s7dyif/crazy_idea_a_game_for_training_robots_how_to_do/)**
+
+We recently built an AR game for Quest. It turns chores into a game by detecting and rewarding chores in real-time. It won a big prize from Meta, has a few hundred users, and we’re exploring where to go from here. The game is missing something: what’s the reward beyond XP? This led to a crazy idea - what if the rewards had real value in exchange for players sharing their captures as training data for home robots. Kind of like having an allowance for your chores as an adult. With the added benefit of helping automate boring work. The biggest barrier is privacy. At minimum it has to be opt-in and with some protections like censoring faces and personal info. Looking for more ideas there though. Curious what others think.
+
+3h ago
 
 ---
 
@@ -56,7 +72,7 @@ Robotics research and industry news
 
 "We fine-tuned π0, a VLA model pretrained entirely on manipulators, to fly a drone that picks up objects, navigates through gates, and composes both skills from language commands." Stanford MSL on 𝕏: https://x.com/StanfordMSL/status/2037760965228556431 π, But Make It Fly: Physics-Guided Transfer of VLA Models to Aerial Manipulation arXiv:2603.25038 [cs.RO]: https://arxiv.org/abs/2603.25038 Project page: https://airvla.github.io/
 
-13h ago
+16h ago
 
 ---
 
@@ -66,31 +82,17 @@ Robotics research and industry news
 
 ---
 
-**[Crazy idea: a game for training robots how to do chores](https://www.reddit.com/r/robotics/comments/1s7dyif/crazy_idea_a_game_for_training_robots_how_to_do/)**
-
-We recently built an AR game for Quest. It turns chores into a game by detecting and rewarding chores in real-time. It won a big prize from Meta, has a few hundred users, and we’re exploring where to go from here. The game is missing something: what’s the reward beyond XP? This led to a crazy idea - what if the rewards had real value in exchange for players sharing their captures as training data for home robots. Kind of like having an allowance for your chores as an adult. With the added benefit of helping automate boring work. The biggest barrier is privacy. At minimum it has to be opt-in and with some protections like censoring faces and personal info. Looking for more ideas there though. Curious what others think.
-
-28m ago
-
----
-
-**[Experimentado 1 fallido](https://www.reddit.com/r/robotics/comments/1s7du8g/experimentado_1_fallido/)**
-
-34m ago
-
----
-
 **[Autonomous robotic rover with Python sensor-fusionon RPi 5. Here's how it docks.](https://www.reddit.com/r/robotics/comments/1s78gzr/autonomous_robotic_rover_with_python/)**
 
 You’ve just seen our operating system in action with the autonomous robot arm. Now we present it's companion, the rover MK1: Full-stack autonomy running entirely on edge compute on Raspberry PI 5, decentralized, infrastructure-free system. The secret is custom sensor fusion running entirely on the edge: 👁️ Lidar for precise 360° room mapping. 🦇 Sonar for hardware-interrupt collision avoidance (catching the glass lasers miss). 🎯 OpenCV Spatial Locking for absolute position navigation precision.
 
-🔗 [youtu.be](https://youtu.be/d8D4Vfti4qE) • 4h ago
+🔗 [youtu.be](https://youtu.be/d8D4Vfti4qE) • 7h ago
 
 ---
 
 **[Figure 03 Robot on Shawn Ryan Show](https://www.reddit.com/r/robotics/comments/1s7coxg/figure_03_robot_on_shawn_ryan_show/)**
 
-1h ago
+4h ago
 
 ---
 
@@ -116,7 +118,7 @@ Bloomberg.com • 2d ago
 
 In the musical experiment, violinists wore lightweight robotic exoskeletons attached to their bow-playing arms, which delivered subtle changes to their natural movements.
 
-Euronews.com • 20h ago
+Euronews.com • 23h ago
 
 ---
 
@@ -128,9 +130,25 @@ Fox Business • 1d ago
 
 ---
 
+**[Amazon Acquires Fauna Robotics. Is This a Viable Threat to Tesla's Optimus Project?](https://www.fool.com/investing/2026/03/29/amazon-fauna-robotics-threat-tesla-optimus/)**
+
+Amazon's humanoid bet isn't about competing with Tesla's factory robots. Its about quietly building the operating system for the home.
+
+fool.com • 16h ago
+
+---
+
 **[Seals use whisker movement to follow underwater trails—an approach that could improve robotic sensing](https://phys.org/news/2026-03-whisker-movement-underwater-trails-approach.html)**
 
-Phys.org • 12h ago
+Phys.org • 14h ago
+
+---
+
+**[Robotic legs skate, climb stairs, and balance on one wheel in demo video](https://newatlas.com/robotics/rai-robotic-legs-roadrunner/)**
+
+The Robotics and AI Institute (RAI) has just released a video of its Roadrunner robot. Although it lacks a torso, the bipedal bot more than makes up for it by rolling, stomping, stair-climbing, and even showing off while using only one of its legs.
+
+New Atlas • 10h ago
 
 ---
 
@@ -146,23 +164,13 @@ WMUR • 1d ago
 
 McDonald's tested humanoid robots from Keenon Robotics at a Shanghai location, where they greeted customers and delivered food in a short pilot program.
 
-Fox News • 14h ago
+foxnews.com • 17h ago
 
 ---
 
-**[Robotic legs skate, climb stairs, and balance on one wheel in demo video](https://newatlas.com/robotics/rai-robotic-legs-roadrunner/)**
+**[AI benchmark helps robots plan and complete their chores in the real world](https://techxplore.com/news/2026-03-ai-benchmark-robots-chores-real.html)**
 
-The Robotics and AI Institute (RAI) has just released a video of its Roadrunner robot. Although it lacks a torso, the bipedal bot more than makes up for it by rolling, stomping, stair-climbing, and even showing off while using only one of its legs.
-
-New Atlas • 7h ago
-
----
-
-**[Amazon buys Fauna Robotics, maker of the Sprout humanoid robot that can dance, pick up toys, and go on a stroll](https://fortune.com/2026/03/29/amazon-acquisition-fauna-robotics-sprout-humanoid-robot-homes-schools-disney/)**
-
-Early customers included Disney.
-
-Fortune • 6h ago
+Tech Xplore • 13h ago
 
 ---
 
@@ -170,15 +178,7 @@ Fortune • 6h ago
 
 Roadrunner moves in-line, on one wheel, or two to stay nimble and on the go. Plus NASA's SkyFall Mars helicopters and MoonFall mission are gearing up.
 
-IEEE Spectrum • 10h ago
-
----
-
-**[Strange Modular Robots Are Writhing Across Landscapes](https://futurism.com/robots-and-machines/strange-modular-robots-writhing)**
-
-Researchers from Northwestern University have developed robots called "metamachines" that are composed of other robots.
-
-Futurism • 1d ago
+IEEE Spectrum • 3h ago
 
 ---
 
@@ -192,7 +192,7 @@ Learn for free on Brilliant for a full 30 days: https://brilliant.org/NikodemBar
 
 📺 Nikodem Bartnik
 
-👁️ 83K • 👍 4K • 💬 65 • ⏱️ 9:55 • 5d ago
+👁️ 84K • 👍 4K • 💬 66 • ⏱️ 9:55 • 5d ago
 
 ---
 
@@ -202,17 +202,15 @@ Brett Adcock shares his vision for the future of humanoid robots, why he believe
 
 📺 Shawn Ryan Show
 
-👁️ 53K • 👍 2K • 💬 592 • ⏱️ 14:05 • 2d ago
+👁️ 55K • 👍 2K • 💬 606 • ⏱️ 14:05 • 2d ago
 
 ---
 
-**[Watch: Humanoid robot walks alongside first lady Melania Trump at White House](https://www.youtube.com/watch?v=X-NjEku-zE4)**
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=xfHkXgZjbCU)**
 
-Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
+📺 Robot Julie 
 
-📺 CBS News
-
-👁️ 51K • 👍 369 • 💬 368 • ⏱️ 9:54 • 4d ago
+👁️ 936 • 👍 5 • ⏱️ 0:21 • 4h ago
 
 ---
 
@@ -222,7 +220,17 @@ A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White H
 
 📺 C-SPAN
 
-👁️ 217K • 👍 976 • 💬 1K • ⏱️ 2:59 • 4d ago
+👁️ 218K • 👍 981 • 💬 1K • ⏱️ 2:59 • 4d ago
+
+---
+
+**[Watch: Humanoid robot walks alongside first lady Melania Trump at White House](https://www.youtube.com/watch?v=X-NjEku-zE4)**
+
+Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
+
+📺 CBS News
+
+👁️ 51K • 👍 375 • 💬 374 • ⏱️ 9:54 • 4d ago
 
 ---
 
@@ -232,7 +240,7 @@ A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White H
 
 📺 The View
 
-👁️ 69K • 👍 1K • 💬 425 • ⏱️ 6:42 • 2d ago
+👁️ 69K • 👍 1K • 💬 426 • ⏱️ 6:42 • 2d ago
 
 ---
 
@@ -242,7 +250,7 @@ New AI-designed 'metamachines' that keep moving forward even after taking damage
 
 📺 The Sun
 
-👁️ 34K • 👍 207 • 💬 83 • ⏱️ 1:29 • 2d ago
+👁️ 34K • 👍 209 • 💬 83 • ⏱️ 1:29 • 2d ago
 
 ---
 
@@ -252,27 +260,7 @@ Thanks to Delete Me for sponsoring this video. To keep your private info private
 
 📺 Kim Java
 
-👁️ 194K • 👍 8K • 💬 394 • ⏱️ 20:00 • 5d ago
-
----
-
-**[Articulating De-Score Arm | 9061X Vortex | Robot Rundown](https://www.youtube.com/watch?v=fUsHvdGiqsk)**
-
-Articulating De-Score Arm | 9061X Vortex | Robot Rundown This video is supported by Kettering University: Accepted ...
-
-📺 FUN Robotics Network
-
-👁️ 1K • 👍 56 • 💬 5 • ⏱️ 1:18 • 3h ago
-
----
-
-**[First lady Melania Trump welcomes robot to White House tech summit](https://www.youtube.com/watch?v=glfTpD9iKhs)**
-
-Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
-
-📺 Face the Nation
-
-👁️ 143K • 👍 1K • 💬 798 • ⏱️ 9:54 • 4d ago
+👁️ 196K • 👍 8K • 💬 397 • ⏱️ 20:00 • 5d ago
 
 ---
 
@@ -282,7 +270,17 @@ We put the Roborock Saros 20 through our standard battery of tests! ✔️ Get t
 
 📺 Vacuum Nerds
 
-👁️ 8K • 👍 157 • 💬 43 • ⏱️ 14:43 • 1d ago
+👁️ 8K • 👍 161 • 💬 43 • ⏱️ 14:43 • 1d ago
+
+---
+
+**[Fat Mira Does the Robot Trend 😱](https://www.youtube.com/watch?v=XmIl8d0WUws)**
+
+rumi #huntrix #kpop #kpopdemonhunters #shorts #celebrity #trend #makeup #mira All videos were created by myself.
+
+📺 Faces of Culture
+
+👁️ 3.6M • 👍 10K • 💬 6 • ⏱️ 0:04 • 1d ago
 
 ---
 

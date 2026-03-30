@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-30T02:36:17.226159+00:00'
+updated: '2026-03-30T05:26:23.407695+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- news
+- videos
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 30, 2026 at 02:36 UTC  
+**Last Updated:** March 30, 2026 at 05:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Link: https://m.youtube.com/watch?v=1sd26pWhfmg The Linux exploit is especially interesting because it was introduced in 2003 and was never found until now. It’s also a major security issue because it allows attackers to steal the admin key. It was a buffer overflow error, which are so hard to do that Carlini has never done it before. He also says he expects LLMs to only get better overtime, which is likely true if Mythos lives up to the rumors. here are his Wikipedia and Google Scholar pages in case you doubt his credibility: https://en.wikipedia.org/wiki/Nicholas_Carlini https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=carlini&btnG=
 
-7h ago
+10h ago
 
 ---
 
@@ -49,7 +49,7 @@ Link: https://m.youtube.com/watch?v=1sd26pWhfmg The Linux exploit is especially 
 
 Ran into this building an agent that could trigger API calls. We had validation, tool constraints, retries… everything looked “safe”. Still ended up executing the same action twice due to stale state + retry. Nothing actually prevented execution. It only shaped behavior. Curious what people use as a real execution gate: 1. something external to the agent 2. deterministic allow / deny 3. fail-closed if denied Any concrete patterns or systems that enforce this in practice?
 
-5h ago
+8h ago
 
 ---
 
@@ -57,7 +57,23 @@ Ran into this building an agent that could trigger API calls. We had validation,
 
 Most of the current “AI security” stack seems focused on: • prompts • identities • outputs After an agent deleted a prod database on me a year ago. I saw the gap and started building. a control layer directly in the execution path between agents and tools. We are to market but I don’t want to spam yall with our company so I left it out. ⸻ What that actually means Every time an agent tries to take an action (API call, DB read, file access, etc.), we intercept it and decide in real time: • allow • block • require approval But the important part is how that decision is made. ⸻ A few things we’re doing differently Credential starvation (instead of trusting long-lived access) Agents don’t get broad, persistent credentials. They effectively operate with nothing by default, and access is granted per action based on policy + context. ⸻ Session-based risk escalation (not stateless checks) We track behavior across the entire session. Example: • one DB read → fine • 20 sequential reads + export → risk escalates • tool chaining → risk escalates So decisions aren’t per-call—they’re based on what the agent has been doing over time. ⸻ HITL only when it actually matters We don’t want humans in the loop for everything. Instead: • low risk → auto allow • medium risk → maybe constrained • high risk → require approval The idea is targeted interruption, not constant friction. ⸻ Autonomy zones Different environments/actions have different trust levels. Example: • read-only internal data → low autonomy constraints • external API writes → tighter controls • sensitive systems → very restricted Agents can operate freely within a zone, but crossing boundaries triggers stricter enforcement. ⸻ Per-tool, per-action control (not blanket policies) Not just “this agent can use X tool” More like: • what endpoints • what parameters • what frequency • in what sequence So risk is evaluated at a much more granular level. ⸻ Hash-chained audit log (including near-misses) Every action (allowed, blocked, escalated) is: • logged • chained • tamper-evident Including “almost bad” behavior not just incidents. This ended up being more useful than expected for understanding agent behavior. ⸻ Policy engine (not hardcoded rules) All of this runs through a policy layer (think flexible rules vs static checks), so behavior can adapt without rewriting code. ⸻ Setup is fast (~10 min) We tried to avoid the “months of integration” problem. If it’s not easy to sit in the execution path, nobody will actually use it. ⸻ Why we think this matters The failure mode we keep seeing: agents don’t fail because of one bad prompt — they fail because of a series of individually reasonable actions that become risky together Most tooling doesn’t really account for that. ⸻ Would love feedback from people actually building agents • Have you seen agents drift into risky behavior over time? • How are you controlling tool usage today (if at all)? • Does session-level risk make sense, or is that overkill? • Is “credential starvation” realistic in your setups? We are just two security guys who built a company not some McKenzie bros who are super funded. We have our first big design partners starting this month and need all these feedback from community as we can get.
 
-45m ago
+3h ago
+
+---
+
+**[One-Minute Daily AI News 3/29/2026](https://www.reddit.com/r/artificial/comments/1s7gyyf/oneminute_daily_ai_news_3292026/)**
+
+Police used AI facial recognition to arrest a Tennessee woman for crimes committed in a state she says she’s never visited.[1] AMD Introduces GAIA Agent UI For Privacy-First Web App For Local AI Agents.[2] Agent-Infra Releases AIO Sandbox: An All-in-One Runtime for AI Agents with Browser, Shell, Shared Filesystem, and MCP.[3] Google-Agent vs Googlebot: Google Defines the Technical Boundary Between User Triggered AI Access and Search Crawling Systems Today.[4] Sources: [1] https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition [2] https://www.phoronix.com/news/AMD-GAIA-0.17-Agent-UI [3] https://www.marktechpost.com/2026/03/29/agent-infra-releases-aio-sandbox-an-all-in-one-runtime-for-ai-agents-with-browser-shell-shared-filesystem-and-mcp/ [4] https://www.marktechpost.com/2026/03/28/google-agent-vs-googlebot-google-defines-the-technical-boundary-between-user-triggered-ai-access-and-search-crawling-systems-today/
+
+46m ago
+
+---
+
+**[Reddit on the rise: What is it and why is AI search popularising it?](https://www.reddit.com/r/artificial/comments/1s7ff07/reddit_on_the_rise_what_is_it_and_why_is_ai/)**
+
+Reddit has become the AI algorithm’s favourite website. This is why it is becoming popular, and how to use it.
+
+🔗 [euronews](https://www.euronews.com/next/2026/02/28/reddit-on-the-rise-what-is-it-and-why-is-ai-search-popularising-it) • 2h ago
 
 ---
 
@@ -65,15 +81,7 @@ Most of the current “AI security” stack seems focused on: • prompts • id
 
 I run a small AI companion platform and wanted to share some interesting behavioral data from users who've been using persistent cross-session memory for 2-3 months now. Some patterns I didn't expect: "Deep single-thread" users dominate. 56% of our most active users put 70%+ of their messages into a single conversation thread. They're not creating multiple characters or scenarios — they're deepening one relationship. This totally contradicts the assumption that users are "scenario hoppers." Memory recall triggers emotional responses. When the AI naturally brings up something from weeks ago — "how did that job interview go?" or referencing a pet's name without being prompted — users consistently react with surprise and increased engagement. It's a retention mechanic that doesn't feel like a retention mechanic. The "uncanny valley" of memory exists. If the AI remembers too precisely (exact dates, verbatim quotes), it feels surveillance-like. If it remembers too loosely, it feels like it didn't really listen. The sweet spot is what I'd call "emotionally accurate but detail-fuzzy" — like how a real friend remembers. Day-7 retention correlates with memory depth. Users who trigger 5+ memory retrievals in their first week retain at nearly 4x the rate of those who don't. The memory system IS the product, not a feature. Sample size is small (~800 users) so take this with appropriate skepticism. But it's consistent enough that I think persistent memory is going to be table stakes for AI companions within a year. What's your experience with memory in AI conversations? Anyone else building in this space?
 
-23h ago
-
----
-
-**[HALO - Hierarchical Autonomous Learning Organism](https://www.reddit.com/r/artificial/comments/1s7cgi3/halo_hierarchical_autonomous_learning_organism/)**
-
-The idea is called HALO - Hierarchical Autonomous Learning Organism. The core premise is simple: what if instead of just making LLMs bigger, we actually looked at how intelligence works in nature and built something that mirrors those principles? Not just the human brain either, evolution spent hundreds of millions of years solving different cognitive problems in different species. Why not take the best bits from all of them? Some of what ended up in the design: It has a nervous system. Not metaphorically, it’s literally wired to monitor its own hardware. GPU temps, memory pressure, all of it. When it’s running hot it conserves and gets cautious. When it’s idle and cool it explores and consolidates. Biological stress response, but for silicon. It learns the way animals learn. One strong negative experience permanently changes how it perceives that category of situation, like a kid touching a hot stove. Not just “add a rule” but actually changing the lens it sees similar situations through. Compare that to how current AI just… forgets everything between sessions. It has eight processing arms inspired by octopus neurology. Two thirds of an octopus’s neurons are in its arms, not its brain. Each arm is semi autonomous. Applied here that means memory retrieval, fact checking, simulation, tool staging, all running in parallel before the main model even needs them. No central bottleneck. It knows what it doesn’t know. There are three knowledge databases, what it’s verified, what it’s uncertain about, and a registry of confirmed gaps. That last one is the interesting one. It knows the shape of its own ignorance. That’s what drives the curiosity engine. That’s what makes it actually want to learn rather than just respond. It develops a personality over time. Starts with one seed temperament, curiosity, and everything else emerges from experience. There’s a developmental threshold, and once it crosses it, the system looks at what it’s actually become and that becomes its baseline. Not programmed personality. Accumulated identity. It can choose to ignore guidance and learn from the consequences. Bounded, transparent autonomy. It knows when advice is good and can still try something different. The outcome, good or bad, is the learning signal. That’s how real judgment develops. And everything is declared openly, nothing hidden. The whole thing is designed to run locally, on a gaming PC, with no cloud dependency. Private. Continuous. Gets smarter through use, not retraining. I put together a technical white paper with the complete architecture if anyone wants to go deep. 34+ subsystems, full brain region mapping, animal cognition mapping, causal reasoning engine, six-level memory tree, the works. I genuinely think the pieces are all there. Would love to get some feedback on the idea. The idea is fully open for use, so if anything from the architecture may benefit your project, you’re free to use it. “Please read rule number 5” yeah, that’s explains nothing.
-
-1h ago
+1d ago
 
 ---
 
@@ -81,7 +89,7 @@ The idea is called HALO - Hierarchical Autonomous Learning Organism. The core pr
 
 Sharing this for a friend conducting an academic study for her MBA thesis on how employees make sense of AI use in workplace communication. Specifically: disclosed vs. inferred AI use, and what difference that makes. Anonymous, under 5 minutes: English: https://whudrdl.qualtrics.com/jfe/form/SV\_1G4k3TKx8xhXwXQ German: https://whudrdl.qualtrics.com/jfe/form/SV\_3OYZNjGJr4qfceq Thanks a lot for your participation and support!
 
-9h ago
+12h ago
 
 ---
 
@@ -109,14 +117,6 @@ Here's a playbook that works today, right now, with tools that are either free o
 
 ---
 
-**[I tested what happens when you give an AI coding agent access to 2 million research papers. It found techniques it couldn't have known about.](https://www.reddit.com/r/artificial/comments/1s6afwm/i_tested_what_happens_when_you_give_an_ai_coding/)**
-
-Quick experiment I ran. Took two identical AI coding agents (Claude Code), gave them the same task — optimize a small language model. One agent worked from its built-in knowledge. The other had access to a search engine over 2M+ computer science research papers. Agent without papers: did what you'd expect. Tried well-known optimization techniques. Improved the model by 3.67%. Agent with papers: searched the research literature before each attempt. Found 520 relevant papers, tried 25 techniques from them — including one from a paper published in February 2025, months after the AI's training cutoff. It literally couldn't have known about this technique without paper access. Improved the model by 4.05% — 3.2% better. The interesting moment: both agents tried the same idea (halving the batch size). The one without papers got it wrong — missed a crucial adjustment and the whole thing failed. The one with papers found a rule from a 2022 paper explaining exactly how to do it, got it right on the first try. Not every idea from papers worked. But the ones that did were impossible to reach without access to the research. AI models have a knowledge cutoff — they can't see anything published after their training. And even for older work, they don't always recall the right technique at the right time. Giving them access to searchable literature seems to meaningfully close that gap. I built the paper search tool (Paper Lantern) as a free MCP server for AI coding agents: https://code.paperlantern.ai Full experiment writeup: https://www.paperlantern.ai/blog/auto-research-case-study
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,7 +125,7 @@ Quick experiment I ran. Took two identical AI coding agents (Claude Code), gave 
 
 A Tennessee grandmother spent more than five months in jail after police used an AI facial recognition tool to link her to crimes committed in North Dakota – a state she says she’d never been to before. Police in Fargo, North Dakota, have acknowledged “a few errors” in the case and pledged changes in their operations but stopped short of issuing a direct apology.
 
-CNN • 16h ago
+CNN • 19h ago
 
 ---
 
@@ -133,13 +133,41 @@ CNN • 16h ago
 
 More tech leaders are pointing to job cuts caused by AI tools - and a need for more investment cash.
 
-BBC • 3h ago
+BBC • 6h ago
 
 ---
 
-**[DeepSeek Probes Hours-Long AI Outage After Users Report Errors](https://www.bloomberg.com/news/articles/2026-03-30/deepseek-probes-hours-long-ai-outage-after-users-report-errors)**
+**[One Man, His Dog, And ChatGPT: Australia's AI Vaccine Saga](https://www.barrons.com/articles/one-man-his-dog-and-chatgpt-australia-s-ai-vaccine-saga-396cf9d7?gaa_at=eafs&gaa_n=AWEtsqdvUWsbUGeApA3-Hyao2iDNH22lyxHY97gyadWTpYkcGJbFrEaLNIlI&gaa_ts=69ca0ce7&gaa_sig=ilSe0T9qcW94q2XC61TFfrbWO2TXwQkEoIt3dlvYXudlv5RjxkajFVQCEh_-1J1ZpbegVaG1ZfAf4dCVCB3TTw%3D%3D)**
 
-Bloomberg.com • 44m ago
+Barron's • 9m ago
+
+---
+
+**[AI influencer discovery tools are changing how agencies cast creators](https://digiday.com/marketing/ai-influencer-discovery-tools-are-changing-how-agencies-cast-creators/)**
+
+As creator spending grows among brands, agencies tap AI to automate much of the influencer marketing workflow. Now, that includes casting.
+
+Digiday • 1h ago
+
+---
+
+**[The Anti-AI Slop Playbook](https://www.vogue.com/article/the-anti-ai-slop-playbook)**
+
+As generative AI floods the market with fast, low-cost content, luxury brands are learning to harness the tech without eroding the value of craft, authorship, and cultural authority. From “anti-slop” design cues to immersive real-world experiences, a new playbook is emerging.
+
+Vogue • 56m ago
+
+---
+
+**[JFK grandson Schlossberg says billionaires, ‘massive AI companies’ spending millions in New York House race](https://thehill.com/homenews/campaign/5806153-jfk-grandson-schlossberg-says-billionaires-massive-ai-companies-spending-millions-in-new-york-house-race/)**
+
+The Hill • 18h ago
+
+---
+
+**[Opinion | Your Chatbot Isn’t a Therapist](https://www.nytimes.com/2026/03/29/opinion/chatbot-therapy-ai.html)**
+
+The New York Times • 16h ago
 
 ---
 
@@ -147,7 +175,7 @@ Bloomberg.com • 44m ago
 
 U.S. pharmaceutical giant Eli Lilly will give Hong Kong-listed Insilico $115 million upfront to bring some of its AI-discovered drugs to the global market.
 
-CNBC • 12h ago
+CNBC • 15h ago
 
 ---
 
@@ -155,41 +183,13 @@ CNBC • 12h ago
 
 Lilly has signed a deal with AI drug developer Insilico that’s worth $115 million up front and approximately $2.75 billion in biobucks
 
-statnews.com • 8h ago
+statnews.com • 11h ago
 
 ---
 
-**[Eli Lilly, InSilico Strike AI Drug Discovery Deal](https://www.wsj.com/health/pharma/eli-lilly-insilico-strike-ai-drug-discovery-deal-acea2b45?gaa_at=eafs&gaa_n=AWEtsqdYBfhjccTs4n4SRzlu5c2BRN4LssEcv0e-1Gkpmxoje-yLwnkJUaO8&gaa_ts=69c9e50b&gaa_sig=wHyfL3h6cLBnMKStxHc03gdTRZhMwPUTWuroyIBNJ9JK9ilVEEf3y71WBuyCaTjY1DtAbkd1ZYn1vP4w3tBRsg%3D%3D)**
+**[Eli Lilly, InSilico Strike AI Drug Discovery Deal](https://www.wsj.com/health/pharma/eli-lilly-insilico-strike-ai-drug-discovery-deal-acea2b45?gaa_at=eafs&gaa_n=AWEtsqeHMuw-2zG1j3HOzVEVx0fbkqoR2Viig1IgZTm7XfjmO0YZTXv4AxYJ&gaa_ts=69ca0ce7&gaa_sig=1ia-MF7EOTSKAnD0aApPA-mdBrUFck_OsG8VCkakt7Y3nmxeMGfk0aAbhNNpB8CW8owlZtIzsJheP_94ZkgrXA%3D%3D)**
 
-WSJ • 24m ago
-
----
-
-**[Dubious AI detectors drive 'pay-to-humanize' scam](https://www.yahoo.com/news/articles/dubious-ai-detectors-drive-pay-013150442.html)**
-
-Feed an Iranian news dispatch or a literary classic into some text detectors, and they return the same verdict: AI-generated.The tools returned AI flags regardless of input -- even for nonsensical tex...
-
-yahoo.com • 1h ago
-
----
-
-**[JFK grandson Schlossberg says billionaires, ‘massive AI companies’ spending millions in New York House race](https://thehill.com/homenews/campaign/5806153-jfk-grandson-schlossberg-says-billionaires-massive-ai-companies-spending-millions-in-new-york-house-race/)**
-
-The Hill • 15h ago
-
----
-
-**[Opinion | Your Chatbot Isn’t a Therapist](https://www.nytimes.com/2026/03/29/opinion/chatbot-therapy-ai.html)**
-
-The New York Times • 13h ago
-
----
-
-**[The Man Who Thought He Could Keep AI Safe](https://www.theatlantic.com/ideas/2026/03/ai-google-deep-mind-hassabis/686527/)**
-
-Demis Hassabis has devoted his life to advancing a technology he thinks could destroy the world.
-
-The Atlantic • 16h ago
+WSJ • 1h ago
 
 ---
 
@@ -199,7 +199,7 @@ The Atlantic • 16h ago
 
 **[AI overly affirms users asking for personal advice](https://news.ycombinator.com/item?id=47554773)**
 
-⬆️ 760 • 💬 595 • 1d ago • [news.stanford.edu](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
+⬆️ 760 • 💬 597 • 1d ago • [news.stanford.edu](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
 
 ---
 
@@ -215,7 +215,7 @@ LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. In
 
 A Tennessee grandmother spent more than five months in jail after police used an AI facial recognition tool to link her to crimes committed in North Dakota – a state she says she’d never been to before. Police in Fargo, North Dakota, have acknowledged “a few errors” in the case and pledged changes in their operations but stopped short of issuing a direct apology.
 
-⬆️ 360 • 💬 156 • 12h ago • [CNN](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
+⬆️ 380 • 💬 164 • 15h ago • [CNN](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
 
 ---
 
@@ -229,7 +229,7 @@ A Tennessee grandmother spent more than five months in jail after police used an
 
 Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma development by creating an account on GitHub.
 
-⬆️ 293 • 💬 212 • 16h ago • [GitHub](https://github.com/austin-weeks/miasma)
+⬆️ 304 • 💬 220 • 19h ago • [GitHub](https://github.com/austin-weeks/miasma)
 
 ---
 
@@ -237,7 +237,7 @@ Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma
 
 : Sycophantic bots coach users into selfish, antisocial behavior, say researchers, and they love it
 
-⬆️ 282 • 💬 220 • 1d ago • [theregister.com](https://www.theregister.com/2026/03/27/sycophantic_ai_risks/)
+⬆️ 282 • 💬 221 • 1d ago • [theregister.com](https://www.theregister.com/2026/03/27/sycophantic_ai_risks/)
 
 ---
 
@@ -257,7 +257,7 @@ A personal blog, by a programmer and IT expert. Essays, Articles, Guides, and Re
 
 **[What if AI doesn't need more RAM but better math?](https://news.ycombinator.com/item?id=47561297)**
 
-⬆️ 164 • 💬 89 • 18h ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more)
+⬆️ 168 • 💬 89 • 21h ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more)
 
 ---
 
@@ -273,23 +273,23 @@ Personal website of Lara Aigmüller. Thoughts about web frontend development, mu
 
 ## YouTube Videos: "ai"
 
+**[Anthropic’s New Claude MYTHOS Is Their Most Powerful AI Ever](https://www.youtube.com/watch?v=M6yRREy_5CM)**
+
+Anthropic accidentally exposed Claude MYTHOS, its most powerful AI yet, Meta unveiled a model that predicts brain activity from ...
+
+📺 AI Revolution
+
+👁️ 10K • 👍 464 • 💬 32 • ⏱️ 12:51 • 5h ago
+
+---
+
 **[The AI Endgame (12 Scenarios)](https://www.youtube.com/watch?v=FLcrvMfHUJM)**
 
 Detailed sources: https://docs.google.com/document/d/1P1X9xEmmgSYH0g1FSizgV2rDVomb_Wi0TcX-E-0np_Q/edit?tab=t.0 ...
 
 📺 Species | Documenting AGI
 
-👁️ 42K • 👍 3K • 💬 714 • ⏱️ 35:45 • 11h ago
-
----
-
-**[Open The Strait - Trump sings Huge Ultimatum Reggae (AI  Parody Song)](https://www.youtube.com/watch?v=dZhKlSCv8e4)**
-
-Trump sings: Open The Strait (Huge AI Ultimatum Reggae Parody) What happens when high-stakes geopolitics meets ...
-
-📺 AI Trailer Home
-
-👁️ 9K • 👍 846 • 💬 82 • ⏱️ 3:23 • 1d ago
+👁️ 50K • 👍 4K • 💬 851 • ⏱️ 35:45 • 14h ago
 
 ---
 
@@ -299,47 +299,7 @@ I Tried Every AI Video Generator and ranked them for you!. Try ALL AI Video Gene
 
 📺 Mira AI
 
-👁️ 7K • 💬 4 • ⏱️ 13:00 • 10h ago
-
----
-
-**[Claude AI: Incredible New Way to Make Money Online (Full Tutorial)](https://www.youtube.com/watch?v=48Qg6ZX60r8)**
-
-I show how to use Claude AI to create and sell in-demand, Notion templates online! ▷ Create Incredible Videos and Images with ...
-
-📺 Real Money Strategies
-
-👁️ 19K • 👍 841 • 💬 40 • ⏱️ 19:13 • 2d ago
-
----
-
-**[AI News: Anthropic Went Crazy This Week!](https://www.youtube.com/watch?v=OYyS0Gu5xj8)**
-
-Here's the AI News you probably missed this week! Check out Genspark here: ...
-
-📺 Matt Wolfe
-
-👁️ 95K • 👍 4K • 💬 290 • ⏱️ 31:53 • 2d ago
-
----
-
-**[A brief update on the AI apocalypse](https://www.youtube.com/watch?v=QtiTjXuZh30)**
-
-Something is definitely happening in the AI world, but how seriously should we take it? Is this another hype cycle or a genuine ...
-
-📺 Vox
-
-👁️ 43K • 👍 1K • 💬 128 • ⏱️ 40:29 • 2d ago
-
----
-
-**[Google AI Studio 2.0 Just Changed Everything!](https://www.youtube.com/watch?v=pl7IO25HPCU)**
-
-Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
-
-📺 Julian Goldie SEO
-
-👁️ 13K • 👍 271 • 💬 13 • ⏱️ 8:54 • 2d ago
+👁️ 8K • 💬 4 • ⏱️ 13:00 • 13h ago
 
 ---
 
@@ -349,27 +309,67 @@ we're getting alot of good signs that the ai bubble might burst soon and things 
 
 📺 Luneist
 
-👁️ 7K • 👍 409 • 💬 121 • ⏱️ 6:23 • 11h ago
+👁️ 7K • 👍 426 • 💬 122 • ⏱️ 6:23 • 14h ago
 
 ---
 
-**[I Warned Them: Amazon&#39;s AI Disaster Cost 30,000 Jobs](https://www.youtube.com/watch?v=eWXbB4u16UM)**
+**[Google AI Studio 2.0 Just Changed Everything!](https://www.youtube.com/watch?v=pl7IO25HPCU)**
 
-Amazon fired 30000 engineers, replaced them with H-1B workers and AI tools, mandated an unproven internal coding assistant ...
+Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
-📺 Dr. Josh C. Simmons
+📺 Julian Goldie SEO
 
-👁️ 57K • 👍 2K • 💬 546 • ⏱️ 21:17 • 2d ago
+👁️ 13K • 👍 278 • 💬 13 • ⏱️ 8:54 • 2d ago
 
 ---
 
-**[Robot waifus, RIP Sora, GLM-5.1, AI brain scans, Google realtime voice: AI NEWS](https://www.youtube.com/watch?v=6Il0CJx9yU8)**
+**[Claude AI: Incredible New Way to Make Money Online (Full Tutorial)](https://www.youtube.com/watch?v=48Qg6ZX60r8)**
 
-HUGE AI NEWS: GLM-5.1, daVinci MagiHuman, ARC-AGI 3, PrismAudio, Matrix Game, & more #ai #ainews #aitools #aivideo ...
+I show how to use Claude AI to create and sell in-demand, Notion templates online! ▷ Create Incredible Videos and Images with ...
 
-📺 AI Search
+📺 Real Money Strategies
 
-👁️ 72K • 👍 4K • 💬 422 • ⏱️ 47:29 • 22h ago
+👁️ 20K • 👍 873 • 💬 41 • ⏱️ 19:13 • 2d ago
+
+---
+
+**[AI News: Anthropic Went Crazy This Week!](https://www.youtube.com/watch?v=OYyS0Gu5xj8)**
+
+Here's the AI News you probably missed this week! Check out Genspark here: ...
+
+📺 Matt Wolfe
+
+👁️ 96K • 👍 4K • 💬 292 • ⏱️ 31:53 • 2d ago
+
+---
+
+**[AI vs. Real Things Challenge](https://www.youtube.com/watch?v=Gi3nwC0lkPk)**
+
+Today we're sitting down to see if we can tell what's AI and what's real, the challenge we all face in the big 26. Are we stupid? Is AI ...
+
+📺 Microwave Society
+
+👁️ 42K • 👍 3K • 💬 297 • ⏱️ 11:51 • 1d ago
+
+---
+
+**[A brief update on the AI apocalypse](https://www.youtube.com/watch?v=QtiTjXuZh30)**
+
+Something is definitely happening in the AI world, but how seriously should we take it? Is this another hype cycle or a genuine ...
+
+📺 Vox
+
+👁️ 44K • 👍 1K • 💬 131 • ⏱️ 40:29 • 2d ago
+
+---
+
+**[The AI Collapse is Starting](https://www.youtube.com/watch?v=GSpqX7We5hk)**
+
+OpenAI has just shut down the Sora 2 AI video app. Yes, the great AI desloppening has begun! ARTICLES: ...
+
+📺 SAMTIME
+
+👁️ 199K • 👍 13K • 💬 1K • ⏱️ 2:49 • 2d ago
 
 ---
 
@@ -385,7 +385,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 280,522 • ❤️ 1,581 • 6d ago
+⬇️ 280,522 • ❤️ 1,591 • 6d ago
 
 ---
 
@@ -397,7 +397,7 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 `text-to-speech`
 
-⬇️ 2,447 • ❤️ 463 • 2d ago
+⬇️ 2,447 • ❤️ 469 • 2d ago
 
 ---
 
@@ -409,7 +409,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 20,049 • ❤️ 461 • 2d ago
+⬇️ 20,049 • ❤️ 467 • 2d ago
 
 ---
 
@@ -421,7 +421,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 15,554 • ❤️ 581 • 3d ago
+⬇️ 15,554 • ❤️ 608 • 3d ago
 
 ---
 
@@ -433,7 +433,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 518,613 • ❤️ 1,060 • 19d ago
+⬇️ 518,613 • ❤️ 1,061 • 19d ago
 
 ---
 
@@ -445,7 +445,7 @@ daVinci-MagiHuman is a fast, single-stream Transformer model for generating high
 
 `image-to-video`
 
-⬇️ 466 • ❤️ 246 • 4d ago
+⬇️ 466 • ❤️ 249 • 4d ago
 
 ---
 
@@ -457,7 +457,7 @@ Context-1 is a 20B parameter agentic search model that decomposes complex querie
 
 `text-generation` `20.9B`
 
-⬇️ 1,089 • ❤️ 235 • 1h ago
+⬇️ 1,089 • ❤️ 240 • 4h ago
 
 ---
 
@@ -469,7 +469,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 74,832 • ❤️ 400 • 5d ago
+⬇️ 74,832 • ❤️ 405 • 5d ago
 
 ---
 
@@ -481,7 +481,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 101,380 • ❤️ 250 • 5d ago
+⬇️ 101,380 • ❤️ 251 • 5d ago
 
 ---
 
@@ -493,7 +493,7 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 `text-generation`
 
-⬇️ 27,151 • ❤️ 525 • 16d ago
+⬇️ 27,151 • ❤️ 527 • 17d ago
 
 ---
 
@@ -585,7 +585,7 @@ Hyperagents represent a self-referential framework that integrates task and meta
 
 LeWorldModel presents a stable end-to-end JEPA framework that trains efficiently from raw pixels using minimal loss terms while maintaining competitive performance in control tasks and encoding meaningful physical structures.
 
-▲ 10 • 💬 1 • ⭐ 1,335 • 16d ago
+▲ 10 • 💬 2 • ⭐ 1,335 • 16d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.19312) • [💻 code](https://github.com/lucas-maes/le-wm) • [🔗 project](https://le-wm.github.io/)
 
@@ -637,7 +637,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 60.7k • 🔱 8.5k • 4d ago
+⭐ 60.8k • 🔱 8.5k • 4d ago
 
 ---
 
@@ -657,7 +657,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 13.2k • 🔱 722 • 2d ago
+⭐ 13.3k • 🔱 731 • 2d ago
 
 ---
 
@@ -667,7 +667,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 8.8k • 🔱 731 • 9h ago
+⭐ 8.9k • 🔱 737 • 1m ago
 
 ---
 
@@ -677,7 +677,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 7.5k • 🔱 1.2k • 20h ago
+⭐ 7.5k • 🔱 1.2k • 23h ago
 
 ---
 
@@ -687,7 +687,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 5.4k • 🔱 652 • 5h ago
+⭐ 5.6k • 🔱 674 • 20m ago
 
 ---
 
@@ -697,7 +697,17 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `claude-ai` `claude-skills` `llm` `prompt-engineering`
 
-⭐ 3.8k • 🔱 366 • 1d ago
+⭐ 3.8k • 🔱 370 • 1d ago
+
+---
+
+**[larksuite/cli](https://github.com/larksuite/cli)**
+
+A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.
+
+`Go`
+
+⭐ 3.7k • 🔱 171 • 2h ago
 
 ---
 
@@ -711,21 +721,11 @@ end to end app store screenshot creation using AI
 
 ---
 
-**[larksuite/cli](https://github.com/larksuite/cli)**
-
-A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.
-
-`Go`
-
-⭐ 3.3k • 🔱 156 • 8h ago
-
----
-
 **[twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill)**
 
 SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 
-⭐ 3.2k • 🔱 105 • 18d ago
+⭐ 3.2k • 🔱 106 • 18d ago
 
 ---
 

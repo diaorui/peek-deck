@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-30T02:36:17.240903+00:00'
+updated: '2026-03-30T05:26:23.422727+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
-- cryptocurrency
+- videos
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 30, 2026 at 02:36 UTC  
+**Last Updated:** March 30, 2026 at 05:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,43 +36,43 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,004.96
+### $2,054.80
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** -6.8%  
-**30d:** +3.6%  
-**90d:** -32.4%  
-**1y:** +10.0%  
+**24h:** +2.4%  
+**7d:** -4.7%  
+**30d:** +6.0%  
+**90d:** -30.9%  
+**1y:** +12.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $242.73B
+**Market Cap:** $247.68B
 Rank #2
 
 **Circulating Supply:** 120,691,444 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.3%
+-58.5%
 
 **All-Time Low:** $0.43
-+464285.1%
++473860.6%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[Ethereum loan](https://www.reddit.com/r/ethereum/comments/1s79pr9/ethereum_loan/)**
+**[Daily General Discussion March 30, 2026](https://www.reddit.com/r/ethereum/comments/1s7hcs2/daily_general_discussion_march_30_2026/)**
 
-Borrowing against ETH surprised me in the best way. If you believe in ETH long-term like I do but still need liquidity right now, it makes a ton of sense. I didn’t want to risk any potential gains or create a taxable event, so I used а a portion of my ETH as collateral for a loan on Nexo. It’s similar to making a mortgage on your house, but with crypto, and it doesn’t involve the crazy paperwork. Holding $ETH is a conviction for me and selling now would feel like giving up on it. With the loan, I covered some expenses, reinvested a bit, and still kept my exposure. Plus, there are no rigid repayment schedules breathing down my neck, just pay back when I want. The whole process was fast and way less stressful than anything in traditional finance. Also feels like one of the boldest yet smartest moves I’ve made in crypto so far.
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+24m ago
 
 ---
 
@@ -80,15 +80,7 @@ Borrowing against ETH surprised me in the best way. If you believe in ETH long-t
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-21h ago
-
----
-
-**[Eth rip](https://www.reddit.com/r/ethereum/comments/1s7ccnc/eth_rip/)**
-
-Can we get a damn jumpstart it’s about that time goooodt lord we are green
-
-1h ago
+1d ago
 
 ---
 
@@ -96,7 +88,7 @@ Can we get a damn jumpstart it’s about that time goooodt lord we are green
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -104,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Effective March 25, 2026, Pier Two Holdings Pty Ltd has been wholly acquired by Bitmine Immersion Technologies, Inc (NYSE: BMNR)
 
-🔗 [piertwo.com](https://piertwo.com/insights/pier-two-is-joining-mavan-a-bitmine-company) • 1d ago
+🔗 [piertwo.com](https://piertwo.com/insights/pier-two-is-joining-mavan-a-bitmine-company) • 2d ago
 
 ---
 
@@ -120,7 +112,7 @@ I Built a Privacy-Preserving Bitcoin transaction Receipt Verifier (No KYC, No Sc
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -136,13 +128,19 @@ Frame transaction Considered for Inclusion for Hegotá, EthStaker staking survey
 
 Ethereum pushes Glamsterdam testing forward as Hegotá headliner debates remain unresolved.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-233/) • 2d ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-233/) • 3d ago
 
 ---
 
 **[Onchain RWA protocols went from $4.1B to $14.1B in 2025. Here are 8 real-world tokenized assets you can buy right now:](https://www.reddit.com/r/ethereum/comments/1s4s1xy/onchain_rwa_protocols_went_from_41b_to_141b_in/)**
 
 Source: https://www.coingecko.com/learn/real-world-assets-rwa-buy-on-chain RWAs were one of the fastest-growing sectors in crypto last year. DeFi yields from token emissions dried up, the GENIUS Act provided regulatory clarity for institutions, and BlackRock and Franklin Templeton launched their own tokenized products. This isn't speculative DeFi. These are tokens tied to government debt, physical commodities, and real loan portfolios.
+
+3d ago
+
+---
+
+**[Paperwallet.ca launch](https://www.reddit.com/r/ethereum/comments/1s543mf/paperwalletca_launch/)**
 
 2d ago
 
@@ -156,7 +154,7 @@ Source: https://www.coingecko.com/learn/real-world-assets-rwa-buy-on-chain RWAs 
 
 The project is designed to make Ethereum’s many layer 2s work together more seamlessly.
 
-CoinDesk • 11h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -164,13 +162,21 @@ CoinDesk • 11h ago
 
 Ethereum's vast ecosystem goes up against Solana's lightning-quick network.
 
-The Motley Fool • 1d ago
+fool.com • 1d ago
 
 ---
 
-**[Ethereum’s Incredible Position](https://finance.yahoo.com/markets/crypto/articles/ethereum-incredible-position-180149031.html)**
+**[DeFi lending giant Aave launches on OKX's Ethereum L2, X Layer](https://www.tradingview.com/news/cointelegraph:d7e5092a9094b:0-defi-lending-giant-aave-launches-on-okx-s-ethereum-l2-x-layer/)**
 
-This market isn't what we wanted. But looking forward, ETH is still in a great place.
+Aave, the largest decentralized lending protocol with $23.5 billion in total value locked, has launched on X Layer, an Ethereum layer-2 blockchain launched by crypto trading platform OKX. It marks a significant milestone for X Layer, a blockchain with just $25 million in total value locked, which l…
+
+TradingView • 1h ago
+
+---
+
+**[Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week](https://finance.yahoo.com/markets/crypto/articles/why-crypto-crashing-bitcoin-xrp-140126480.html)**
+
+Bitcoin (CRYPTO: BTC), XRP (CRYPTO: XRP), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) are all down 6-8% in a week, and the crypto market has shed over $80 billion in value since March 24. The Fear & Greed Index sits at 23, and the average crypto RSI has dropped to 39—oversold territory that the market ... Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week
 
 Yahoo Finance • 1d ago
 
@@ -180,7 +186,7 @@ Yahoo Finance • 1d ago
 
 The Ethereum Foundation is co-funding the "easy" initiative, which was announced at EthCC in Cannes, and partners include Aave, Titan, Centrifuge, and more.
 
-theblock.co • 11h ago
+The Block • 14h ago
 
 ---
 
@@ -188,15 +194,7 @@ theblock.co • 11h ago
 
 Ethereum has rolled out a steady stream of upgrades since 2022. Here’s how those changes fit together—and what’s still ahead.
 
-Decrypt • 10h ago
-
----
-
-**[Ethereum Is Mispriced, Says Coinbase Research Chief Ahead of EthCC on Monday](https://www.tradingview.com/news/coinpedia:fb7d8079a094b:0-ethereum-is-mispriced-says-coinbase-research-chief-ahead-of-ethcc-on-monday/)**
-
-ETH is trading at $2,000 today, sitting 59% below its August 2025 all-time high. Most investors have written off altcoins in a brutal bear market. David Duong, Global Head of Institutional Research at Coinbase, thinks that is exactly the wrong read, especially when it comes to Ethereum.Speaking on…
-
-TradingView • 1d ago
+Decrypt • 13h ago
 
 ---
 
@@ -208,7 +206,7 @@ Binance • 1d ago
 
 **[VanEck’s Ethereum ETF Hit by Sharp Redemptions as Ether Slides Below $2,000](https://www.tipranks.com/news/cryptocurrencies/vanecks-ethereum-etf-hit-by-sharp-redemptions-as-ether-slides-below-2000)**
 
-TipRanks • 9h ago
+tipranks.com • 12h ago
 
 ---
 
@@ -216,15 +214,15 @@ TipRanks • 9h ago
 
 Ethereum sees rising liquidity, activity signaling real demand, while price stays range-bound awaiting stronger deployment.
 
-AMBCrypto • 9h ago
+AMBCrypto • 12h ago
 
 ---
 
-**[Weekend Round-Up: Crypto Exchange Gets Fed Approval, Ethereum Outperforms S&P 500 And More](https://www.benzinga.com/crypto/cryptocurrency/26/03/51529184/weekend-round-up-crypto-exchange-gets-fed-approval-ethereum-outperforms-sp-500-and-more)**
+**[What price will Ethereum hit on March 29? Trading Odds & Predictions](https://polymarket.com/event/what-price-will-ethereum-hit-on-march-29)**
 
-BlackRock CEO Larry Fink earned $37.7 million in 2025 after a strong year marked by record $14 trillion AUM and solid earnings.
+$307,186 has traded on "What price will Ethereum hit on March 29?" as of March 30, 2026. View real-time odds or trade on The World's Largest Prediction Marke...
 
-Benzinga • 13h ago
+Polymarket • 13d ago
 
 ---
 
@@ -238,17 +236,7 @@ If you hold Bitcoin or Ethereum... watch this! (alert!) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 1K • 💬 174 • ⏱️ 9:24 • 6h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=wNSL_tKXphU)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 518 • 👍 54 • 💬 9 • ⏱️ 3:28 • 2h ago
+👁️ 26K • 👍 2K • 💬 192 • ⏱️ 9:24 • 8h ago
 
 ---
 
@@ -258,7 +246,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 6K • 👍 180 • 💬 85 • ⏱️ 11:06 • 1d ago
+👁️ 6K • 👍 186 • 💬 85 • ⏱️ 11:06 • 1d ago
 
 ---
 
@@ -268,7 +256,17 @@ BITCOIN HOLDERS BE WARNED: New Price Targets!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 1K • 👍 95 • 💬 181 • ⏱️ 20:11 • 1h ago
+👁️ 3K • 👍 168 • 💬 339 • ⏱️ 20:11 • 4h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=wNSL_tKXphU)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 918 • 👍 74 • 💬 9 • ⏱️ 3:28 • 5h ago
 
 ---
 
@@ -278,7 +276,17 @@ People in the cryptocurrency space and world markets are about to get a very hef
 
 📺 The Modern Investor
 
-👁️ 7K • 👍 775 • 💬 322 • ⏱️ 27:50 • 17h ago
+👁️ 7K • 👍 784 • 💬 321 • ⏱️ 27:50 • 20h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=ID_0itn0OqQ)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 399 • 👍 56 • ⏱️ 6:53 • 3h ago
 
 ---
 
@@ -288,7 +296,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 77 • 💬 1 • ⏱️ 3:36 • 9h ago
+👁️ 2K • 👍 78 • 💬 1 • ⏱️ 3:36 • 12h ago
 
 ---
 
@@ -298,37 +306,27 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 4K • 👍 154 • 💬 47 • ⏱️ 38:10 • 2d ago
+👁️ 4K • 👍 155 • 💬 47 • ⏱️ 38:10 • 2d ago
 
 ---
 
-**[BITCOIN WORST CASE $48k, ETH $700 &amp; OIL PUMPING ⬆️ ON BOOTS ON THE GROUND NEWS IRAN, USA, ISRAEL WAR](https://www.youtube.com/watch?v=a7EVZOJ88W4)**
+**[BIG MOVE COMING FOR ETH!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=J6wp_YHME8I)**
 
-In today's video I break down Bitcoin, Ethereum, stocks, oil, gold, and silver, including the key levels, setups, and risk management ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 James Crypto Guru
+📺 Cilinix Crypto
 
-👁️ 416 • 👍 53 • 💬 10 • ⏱️ 12:53 • 1h ago
-
----
-
-**[&quot;Buy Low Now!&quot; ⚠️ Genius or Garbage? (Data Inside)](https://www.youtube.com/watch?v=CsPFquZoUTg)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 2K • 👍 88 • 💬 13 • ⏱️ 8:46 • 15h ago
+👁️ 398 • 👍 12 • 💬 2 • ⏱️ 4:45 • 19h ago
 
 ---
 
-**[Free Ethereum Claim 2026 🔥 This Changed Everything Real Test](https://www.youtube.com/watch?v=fnZZp0AiDdo)**
+**[Warning to ALL Bitcoin Investors!!](https://www.youtube.com/watch?v=-A6Ut8NdJaA)**
 
-Can a free Ethereum method really generate ETH or is it just another fake crypto trick? In this video, I test a Free Ethereum method ...
+This Is What The Bottom Looks Like? ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 ...
 
-📺 KYLE MADDOX
+📺 Altcoin Daily
 
-👁️ 1K • 👍 311 • 💬 37 • ⏱️ 5:57 • 1d ago
+👁️ 31K • 👍 2K • 💬 193 • ⏱️ 9:30 • 2d ago
 
 ---
 
