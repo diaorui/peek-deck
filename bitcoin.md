@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-30T16:06:31.993152+00:00'
+updated: '2026-03-30T17:28:48.718065+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
 - cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 30, 2026 at 16:06 UTC  
+**Last Updated:** March 30, 2026 at 17:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,849.40
+### $67,308.11
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** -4.5%  
-**30d:** +2.6%  
-**90d:** -23.2%  
-**1y:** -18.3%  
+**24h:** +0.4%  
+**7d:** -5.5%  
+**30d:** +1.5%  
+**90d:** -24.0%  
+**1y:** -19.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1342.52B
+**Market Cap:** $1336.50B
 Rank #1
 
-**Circulating Supply:** 20,009,128 BTC
+**Circulating Supply:** 20,009,196 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--46.7%
+-47.1%
 
 **All-Time Low:** $67.81
-+98987.2%
++98248.3%
 
 ---
 
@@ -81,13 +81,27 @@ Rank #1
 
 when bitcoin hovers right at a previous cycle's all-time high instead of getting slapped down, it shows that buyers are stepping up and easily eating all the sell pressure. grinding sideways at the ultimate ceiling builds a massive launchpad for price discovery, because once it breaks through, there is zero historical resistance left to hold it back. with the post-halving supply shock in full effect, holding this exact line has historically been the ultimate springboard for a parabolic run.
 
-8h ago
+9h ago
 
 ---
 
 **[Applying for a job during the bear market](https://www.reddit.com/r/Bitcoin/comments/1s7nly6/applying_for_a_job_during_the_bear_market/)**
 
+6h ago
+
+---
+
+**[Its been rough lately](https://www.reddit.com/r/Bitcoin/comments/1s7pjk8/its_been_rough_lately/)**
+
 4h ago
+
+---
+
+**[Anyone else planning to hodl for decades?](https://www.reddit.com/r/Bitcoin/comments/1s7w5ck/anyone_else_planning_to_hodl_for_decades/)**
+
+just wondering what everyone's timeline looks like for actually cashing out or if you think btc will eventually replace regular money completely? personally im not touching my stack for like 25+ years minimum, figure by then either ill be rich or it'll be worthless lol. between my doordash runs and game dev work i keep throwing whatever i can spare at it but never plan to sell anytime soon what about you all, got a specific year in mind or just riding it til the wheels fall off?
+
+37m ago
 
 ---
 
@@ -95,13 +109,23 @@ when bitcoin hovers right at a previous cycle's all-time high instead of getting
 
 Morgan Stanley’s Bitcoin exchange-traded fund appears set for an imminent launch, according to a leading ETF analyst. Bloomberg analyst James Seyffart says the bank is clearly not messing around with its spot bitcoin ETF, which will feature the ticker MSBT. “WOW. We have the fee on Morgan Stanley’s spot bitcoin ETF $MSBT. Will charge just 0.14%!!! Big move here.” The fee will significantly undercut BlackRock’s flagship Bitcoin ETF, which charges 0.25%. Morgan Stanley’s Bitcoin ETF is the first from a major US bank. The lender has 16,000 advisors selling its investment products, and holds about $1.9 trillion in assets under management (AUM) within its Investment Management division.
 
-🔗 [The Daily Hodl](https://dailyhodl.com/2026/03/30/morgan-stanleys-bitcoin-etf-likely-to-launch-early-next-month-bloomberg-analyst/) • 4h ago
+🔗 [The Daily Hodl](https://dailyhodl.com/2026/03/30/morgan-stanleys-bitcoin-etf-likely-to-launch-early-next-month-bloomberg-analyst/) • 5h ago
 
 ---
 
-**[Its been rough lately](https://www.reddit.com/r/Bitcoin/comments/1s7pjk8/its_been_rough_lately/)**
+**[CONGRATULATIONS! New All-Time-High on the 200 WMA](https://www.reddit.com/r/Bitcoin/comments/1s7ne8k/congratulations_new_alltimehigh_on_the_200_wma/)**
 
-3h ago
+Hi all, we just hit a brand new all-time-high on the 200 week moving average. Just like every day in the past 14 years. Remember that this is a marathon. Cut the short term noise!
+
+6h ago
+
+---
+
+**[Bitcoin-saurus is prepping for Upril!](https://www.reddit.com/r/Bitcoin/comments/1s7q8ue/bitcoinsaurus_is_prepping_for_upril/)**
+
+Lets go!
+
+4h ago
 
 ---
 
@@ -115,7 +139,7 @@ Morgan Stanley’s Bitcoin exchange-traded fund appears set for an imminent laun
 
 been dollar cost averaging for about 2.5 years now and this recent pullback let me reach 2 whole coins sooner than i thought. originally figured i wouldn't get there until around december. perfect time to stack more while prices are down. anyone else taking advantage of these levels? (already know about teh dm scammers so don't bother)
 
-16h ago
+18h ago
 
 ---
 
@@ -123,31 +147,7 @@ been dollar cost averaging for about 2.5 years now and this recent pullback let 
 
 I have the option of either going all in on bitcoin or spreading the amount equally over next 7 months until the October rise according to the 4 year cycle. Could I ask what you would suggest would be the best strategy? In not sure if it will keep dropping or this is the bottom, I know that it’s impossible to know if this is the bottom, or equally if it will go higher out lower from here but thought I’d ask the forum to get the consensus.
 
-6h ago
-
----
-
-**[Does it cause anyone else physical pain when they see stories about young adults today working multiple jobs and struggling to pay bills?](https://www.reddit.com/r/Bitcoin/comments/1s7as5q/does_it_cause_anyone_else_physical_pain_when_they/)**
-
-Whenever I suggest to look into Bitcoin I'm treated like a snake oil salesman or ignored altogether. So many people are drowning and it doesn't feel like enough people are catching on. It's been like this for a while now and doesn't look like anything will change. Oh well. Stay humble and stack, I guess.
-
-16h ago
-
----
-
-**[I backtested Dynamic DCA vs Regular DCA over the last 4 years](https://www.reddit.com/r/Bitcoin/comments/1s7a6i6/i_backtested_dynamic_dca_vs_regular_dca_over_the/)**
-
-I’d say DCA is by far the most advocated strategy on this sub. But it's common to see people suggesting adjustments to it. The goal is usually to buy more Bitcoin during dips, creating some form of “Dynamic DCA” based on indicators like drawdown. Although many people here are against changing the sacred DCA strategy, I think Dynamic DCA has its place. I mean, even River introduced “Supercharged” recurring buys, which is essentially a type of Dynamic DCA. So I decided to build a backtesting tool to see if Dynamic DCA is actually worth it. https://preview.redd.it/unzg55oxg2sg1.png?width=1881&format=png&auto=webp&s=b8888de6a48318a0b2b24bb73317edfbf7429f15 In this test I’m comparing two strategies over the last 4 years: a regular weekly DCA buy of $300 and a Dynamic DCA strategy based on drawdowns that works like this: - Base buy: $100 - Drawdown >= 25%: $300 - Drawdown >= 50%: $600 The result is impressive. The Dynamic DCA strategy almost doubles the return compared to the regular DCA. While the regular strategy ends up with around $103k and 1.55 BTC, the Dynamic version reaches about $153k and 2.31 BTC. All that while investing roughly the same amount of money. If you want to try it yourself and share some feedback, feel free to test it here. You can also experiment with other indicators like Fear & Greed or the Mayer Multiple.
-
-16h ago
-
----
-
-**[This is the way!](https://www.reddit.com/r/Bitcoin/comments/1s75jrx/this_is_the_way/)**
-
-If all places accept Bitcoin, the adoption will be extremely fast. Walmart has it on the app, CashApp has it and if you go to Stake and Shake you can pay with Bitcoin and order your Bitcoin Stake burger. It would be nice if all places have something related to Bitcoin for purchases made on Bitcoin. Great idea and Stake and Shake is ahead of the game. Do you have a favorite restaurant that you will love do this?
-
-19h ago
+8h ago
 
 ---
 
@@ -159,7 +159,7 @@ If all places accept Bitcoin, the adoption will be extremely fast. Walmart has i
 
 From churches allowing congregants to tithe with digital coins to blogs promoting bitcoin as biblically sound, there’s an emerging Christian crypto subculture.
 
-NBC News • 2d ago
+nbcnews.com • 2d ago
 
 ---
 
@@ -167,51 +167,43 @@ NBC News • 2d ago
 
 Trump said "great progress" had been made toward ending the war, but warned the U.S. would "obliterate" Iran's power plants, oil wells and Kharg Island if a deal isn't reached shortly.
 
-CoinDesk • 48m ago
+CoinDesk • 2h ago
 
 ---
 
-**[Gang Member Loses Friend's $332,000 Bitcoin In Failed Casino Bets, Jailed For 8 Years](https://www.yahoo.com/news/articles/gang-member-loses-friends-332-142525965.html)**
+**[Trump family BTC firm builds 7,000 BTC treasury in under seven months](https://www.coindesk.com/markets/2026/03/30/trump-backed-american-bitcoin-hits-7-000-btc-as-holdings-expand-rapidly)**
 
-A member of South Korea's “Chilseongpa” crime group has been jailed for eight years after embezzling around $332,000 in Bitcoin. The case expanded into wider ...
+Satoshis per share climbs past 660, reinforcing rapid treasury expansion since Nasdaq debut.
 
-Yahoo • 1h ago
-
----
-
-**[Bitcoin (BTC) hashrate falls as miners shift capital to AI infrastructure](https://www.coindesk.com/markets/2026/03/30/bitcoin-hashrate-posts-first-quarter-drop-for-first-time-in-6-years-as-miners-pivot-to-ai)**
-
-The first-quarter decline breaks a long-standing growth trend, but could ultimately support decentralization as public U.S. miners face losing dominance.
-
-CoinDesk • 58m ago
+CoinDesk • 19m ago
 
 ---
 
-**[Trump-Linked American Bitcoin (ABTC) Surpasses 7,000 BTC as Treasury Growth Accelerates; Mining Peer Slides](https://bitcoinmagazine.com/news/trump-linked-abtc-surpasses-7000-btc)**
+**[Michael Saylor skips Bitcoin purchase in rare week](https://sg.finance.yahoo.com/news/michael-saylor-skips-bitcoin-purchase-165000053.html)**
 
-American Bitcoin Corp. has surpassed 7,000 BTC in corporate reserves, extending its Bitcoin treasury growth following its Nasdaq debut.
+Billionaire Michael Saylor-led Strategy (Nasdaq: MSTR), formerly MicroStrategy, didn't purchase any Bitcoin (BTC) during the March 23 to March 29 week, the form 8-K filing with the Securities and Exchange Commission (SEC) revealed. The last week, the firm didn't sell any of its shares either. ...
 
-Bitcoin Magazine • 2h ago
+Yahoo Finance Singapore • 38m ago
 
 ---
 
-**[Bitcoin Price Rebounds From Month Low, These Two Miners Form Bases](https://www.investors.com/news/bitcoin-price-rebound-miners-basing-terawulf-hut8-cathie-wood-ark-invest-bullish/)**
+**[Square Begins Automatic Bitcoin Payment Rollout to Millions of U.S. Merchants](https://bitcoinmagazine.com/news/square-begins-automatic-bitcoin-payment)**
 
-Investor's Business Daily • 3h ago
+Square began automatically enabling bitcoin payments for eligible U.S. sellers today.
+
+Bitcoin Magazine • 14m ago
 
 ---
 
 **[Trump Declares ‘Crypto Revolution’—Issues A Surprise Prediction As The Bitcoin Price Swings](https://www.forbes.com/sites/digital-assets/2026/03/30/trump-declares-crypto-revolution-issues-a-powerful-surprise-prediction-as-the-bitcoin-price-swings/)**
 
-Forbes • 2h ago
+Forbes • 4h ago
 
 ---
 
-**[The 'Crypto-Curious' Guide to Buying Bitcoin for the First Time](https://www.businessinsider.com/personal-finance/investing/buying-bitcoin-for-beginners)**
+**[Bitcoin Price Rebounds From Month Low, These Two Miners Form Bases](https://www.investors.com/news/bitcoin-price-rebound-miners-basing-terawulf-hut8-cathie-wood-ark-invest-bullish/)**
 
-Bitcoin investing for beginners: Learn how to buy cryptocurrency, choose a crypto exchange, and diversify your investment portfolio.
-
-Business Insider • 2h ago
+Investor's Business Daily • 2h ago
 
 ---
 
@@ -219,15 +211,21 @@ Business Insider • 2h ago
 
 The new Digital Asset PARITY Act draft would extend wash-sale rules to digital assets while shielding certain regulated payment stablecoins from routine gain-or-loss recognition.
 
-CryptoSlate • 19h ago
+CryptoSlate • 21h ago
 
 ---
 
-**[Pierre Rochard warns US regulators over Bitcoin gap in Basel rewrite](https://www.tradingview.com/news/cointelegraph:faa20a3a0094b:0-pierre-rochard-warns-us-regulators-over-bitcoin-gap-in-basel-rewrite/)**
+**[The 'Crypto-Curious' Guide to Buying Bitcoin for the First Time](https://www.businessinsider.com/personal-finance/investing/buying-bitcoin-for-beginners)**
 
-Pierre Rochard, CEO of The Bitcoin Bond Company, warned US banking regulators that their sweeping Basel III capital rewrite leaves unresolved how Bitcoin-related activities should be treated, a gap he says could create legal risk and shape how much capital banks must hold against the asset.In a for…
+Bitcoin investing for beginners: Learn how to buy cryptocurrency, choose a crypto exchange, and diversify your investment portfolio.
 
-TradingView • 6h ago
+Business Insider • 3h ago
+
+---
+
+**[Strategy skips a week of bitcoin purchases for the first time this year](https://www.marketwatch.com/story/strategy-skips-a-week-of-bitcoin-purchases-for-the-first-time-this-year-81ba10ec?gaa_at=eafs&gaa_n=AWEtsqcsovmETig2IGRRaVv964UTjKxV_YP3B4k08OHZ8BBEfrkidO5reZD5&gaa_ts=69cab638&gaa_sig=aSVr6hlUzHpSGBbTTanN63hzLFeLH6dicpf63DCeSkeURgIWg9ydAYU7mzG3BRBwfSr4WmJ7DpqVtV8NdnbHJA%3D%3D)**
+
+MarketWatch • 1h ago
 
 ---
 
@@ -251,7 +249,7 @@ Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes
 
 **[Show HN: Lexe – Self-Custodial Lightning Nodes in TEEs, Python and Rust SDKs](https://news.ycombinator.com/item?id=47532761)**
 
-⬆️ 5 • 💬 1 • 3d ago • [blog.lexe.app](https://blog.lexe.app/public-launch/)
+⬆️ 5 • 💬 1 • 4d ago • [blog.lexe.app](https://blog.lexe.app/public-launch/)
 
 ---
 
@@ -259,13 +257,13 @@ Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes
 
 Agent-native inference engine with O(1) fork latency for tree-structured reasoning - BioInfo/dendrite
 
-⬆️ 3 • 💬 1 • 1h ago • [GitHub](https://github.com/BioInfo/dendrite)
+⬆️ 3 • 💬 1 • 3h ago • [GitHub](https://github.com/BioInfo/dendrite)
 
 ---
 
 **[Uni feels so usless, I cant focus anymore](https://news.ycombinator.com/item?id=47567925)**
 
-⬆️ 7 • 💬 3 • 17h ago
+⬆️ 7 • 💬 3 • 19h ago
 
 ---
 
@@ -273,23 +271,23 @@ Agent-native inference engine with O(1) fork latency for tree-structured reasoni
 
 ## YouTube Videos: "bitcoin"
 
-**[FINAL WARNING to ALL Crypto Holders!! (I will delete this in 24 hours)](https://www.youtube.com/watch?v=hzfc05Bphkk)**
-
-If you hold Bitcoin or Ethereum... watch this! (alert!) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC ...
-
-📺 Altcoin Daily
-
-👁️ 40K • 👍 2K • 💬 228 • ⏱️ 9:24 • 19h ago
-
----
-
 **[Is The Bitcoin Winter Over? | Why a Violent Market Crash Could Already be in Motion!](https://www.youtube.com/watch?v=vtU0VTbZSU0)**
 
 The market looks calm on the surface but the cracks are getting worse. From global conflict to gold selloffs and debt stress, the ...
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 121 • ⏱️ 12:24 • 17h ago
+👁️ 19K • 👍 1K • 💬 172 • ⏱️ 12:24 • 19h ago
+
+---
+
+**[FINAL WARNING to ALL Crypto Holders!! (I will delete this in 24 hours)](https://www.youtube.com/watch?v=hzfc05Bphkk)**
+
+If you hold Bitcoin or Ethereum... watch this! (alert!) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC ...
+
+📺 Altcoin Daily
+
+👁️ 42K • 👍 2K • 💬 326 • ⏱️ 9:24 • 21h ago
 
 ---
 
@@ -299,17 +297,37 @@ Bitcoin #Crypto #Finance Bitcoin may be entering its biggest macro shift yet as 
 
 📺 The Wolf Of All Streets
 
-👁️ 5K • 👍 458 • 💬 150 • ⏱️ 1:04:46 • 1h ago
+👁️ 11K • 👍 778 • 💬 288 • ⏱️ 1:04:46 • 3h ago
 
 ---
 
-**[Bitcoin Is Screaming Something Terrifying Right Now - Arthur Hayes Warns!](https://www.youtube.com/watch?v=aLMVhtOVVYk)**
+**[&#39;TOKENIZED WORLD&#39;: Crypto&#39;s NEXT BIG THING is about to take over](https://www.youtube.com/watch?v=VTqCRCui9gQ)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+Ledger CEO Pascal Gauthier discusses Bitcoin's price decline, volatility across digital asset markets and tokenization on ...
 
-📺 Savvy Finance
+📺 Fox Business Clips
 
-👁️ 10K • 👍 307 • 💬 30 • ⏱️ 18:06 • 1d ago
+👁️ 6K • 👍 355 • 💬 95 • ⏱️ 9:10 • 3h ago
+
+---
+
+**[CRYPTO Down 50% Or More! (Warren Buffett&#39;s INSANE Warning)](https://www.youtube.com/watch?v=ATYtqCRbBJc)**
+
+The risk models that say when to accumulate or exit HERE. Free trial https://app.cryptocapitalventure.ai Follow Me On My ...
+
+📺 Dan Gambardello
+
+👁️ 13K • 👍 771 • 💬 265 • ⏱️ 13:41 • 18h ago
+
+---
+
+**[🚨 BTC &amp; ETH: SELL ALL ASAP &amp; RUN!!!!!! (New disturbing data!)](https://www.youtube.com/watch?v=6bWLOUY6xAM)**
+
+New data shows the future of markets and crypto in general. Its important for bitcoin, ethereum and so on. BEWARE!
+
+📺 Thomas Kralow
+
+👁️ 10K • 👍 2K • 💬 135 • ⏱️ 11:48 • 6h ago
 
 ---
 
@@ -319,27 +337,7 @@ Bitcoin may not be breaking down all at once, but the structure is starting to w
 
 📺 Benjamin Cowen
 
-👁️ 106K • 👍 7K • 💬 362 • ⏱️ 26:12 • 2d ago
-
----
-
-**[Top Economist: The unthinkable is about to happen to Bitcoin](https://www.youtube.com/watch?v=EJicZxhhzgc)**
-
-Learn 50+ years of Real Economics in only 7 weeks. Apply here: https://www.stevekeen.com/?video=EJicZxhhzgc (Apply this ...
-
-📺 ProfSteveKeen
-
-👁️ 60K • 👍 3K • 💬 594 • ⏱️ 10:57 • 21h ago
-
----
-
-**[The CLARITY Act Just Killed Bitcoin’s Future](https://www.youtube.com/watch?v=evFGCpj8ubA)**
-
-Clarity act for bitcoin and crypto is turning into a disaster. Follow Eric - https://x.com/ericbuhler/status/2037610128728592777 The ...
-
-📺 Digital Asset News
-
-👁️ 36K • 👍 2K • 💬 311 • ⏱️ 23:11 • 1d ago
+👁️ 108K • 👍 7K • 💬 364 • ⏱️ 26:12 • 2d ago
 
 ---
 
@@ -347,7 +345,7 @@ Clarity act for bitcoin and crypto is turning into a disaster. Follow Eric - htt
 
 📺 Andrei Jikh
 
-👁️ 24K • 👍 871 • 💬 27 • ⏱️ 2:32 • 15h ago
+👁️ 27K • 👍 937 • 💬 32 • ⏱️ 2:32 • 16h ago
 
 ---
 
@@ -361,13 +359,13 @@ Once upon a time, Bitcoin used to have god candles (and epic crashes) all on its
 
 ---
 
-**[Bitcoin Bear Market Script Is Repeating PERFECTLY…](https://www.youtube.com/watch?v=Pog8a1NQJao)**
+**[Raoul Pal Just Warned That What&#39;s Coming For Bitcoin Will Shock Every Investor On The Planet](https://www.youtube.com/watch?v=xoYAlLT5EAk)**
 
-Bitcoin is at a critical moment… and almost nobody agrees on what happens next. Is this the start of a major breakdown… or the ...
+Fear & Greed hit 9 — the lowest since the August 2025 flash crash that preceded Bitcoin DOUBLING. AI agents have already ...
 
-📺 Crypto Love
+📺 Money Talks
 
-👁️ 3K • 👍 245 • 💬 275 • ⏱️ 11:09 • 23h ago
+👁️ 3K • 👍 105 • 💬 92 • ⏱️ 16:40 • 19h ago
 
 ---
 
