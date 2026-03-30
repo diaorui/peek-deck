@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-30T17:28:48.718065+00:00'
+updated: '2026-03-30T18:32:50.704524+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- news
 - videos
 - cryptocurrency
-- news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 30, 2026 at 17:28 UTC  
+**Last Updated:** March 30, 2026 at 18:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,10 +45,10 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +0.4%  
-**7d:** -5.5%  
-**30d:** +1.5%  
-**90d:** -24.0%  
-**1y:** -19.1%  
+**7d:** -5.7%  
+**30d:** +1.3%  
+**90d:** -24.1%  
+**1y:** -19.3%  
 
 ---
 
@@ -81,19 +81,13 @@ Rank #1
 
 when bitcoin hovers right at a previous cycle's all-time high instead of getting slapped down, it shows that buyers are stepping up and easily eating all the sell pressure. grinding sideways at the ultimate ceiling builds a massive launchpad for price discovery, because once it breaks through, there is zero historical resistance left to hold it back. with the post-halving supply shock in full effect, holding this exact line has historically been the ultimate springboard for a parabolic run.
 
-9h ago
+10h ago
 
 ---
 
 **[Applying for a job during the bear market](https://www.reddit.com/r/Bitcoin/comments/1s7nly6/applying_for_a_job_during_the_bear_market/)**
 
-6h ago
-
----
-
-**[Its been rough lately](https://www.reddit.com/r/Bitcoin/comments/1s7pjk8/its_been_rough_lately/)**
-
-4h ago
+7h ago
 
 ---
 
@@ -101,15 +95,13 @@ when bitcoin hovers right at a previous cycle's all-time high instead of getting
 
 just wondering what everyone's timeline looks like for actually cashing out or if you think btc will eventually replace regular money completely? personally im not touching my stack for like 25+ years minimum, figure by then either ill be rich or it'll be worthless lol. between my doordash runs and game dev work i keep throwing whatever i can spare at it but never plan to sell anytime soon what about you all, got a specific year in mind or just riding it til the wheels fall off?
 
-37m ago
+1h ago
 
 ---
 
-**[Morgan Stanley’s Bitcoin ETF Likely To Launch Early Next Month: Bloomberg Analyst - The Daily Hodl](https://www.reddit.com/r/Bitcoin/comments/1s7o7qr/morgan_stanleys_bitcoin_etf_likely_to_launch/)**
+**[Its been rough lately](https://www.reddit.com/r/Bitcoin/comments/1s7pjk8/its_been_rough_lately/)**
 
-Morgan Stanley’s Bitcoin exchange-traded fund appears set for an imminent launch, according to a leading ETF analyst. Bloomberg analyst James Seyffart says the bank is clearly not messing around with its spot bitcoin ETF, which will feature the ticker MSBT. “WOW. We have the fee on Morgan Stanley’s spot bitcoin ETF $MSBT. Will charge just 0.14%!!! Big move here.” The fee will significantly undercut BlackRock’s flagship Bitcoin ETF, which charges 0.25%. Morgan Stanley’s Bitcoin ETF is the first from a major US bank. The lender has 16,000 advisors selling its investment products, and holds about $1.9 trillion in assets under management (AUM) within its Investment Management division.
-
-🔗 [The Daily Hodl](https://dailyhodl.com/2026/03/30/morgan-stanleys-bitcoin-etf-likely-to-launch-early-next-month-bloomberg-analyst/) • 5h ago
+5h ago
 
 ---
 
@@ -117,7 +109,15 @@ Morgan Stanley’s Bitcoin exchange-traded fund appears set for an imminent laun
 
 Hi all, we just hit a brand new all-time-high on the 200 week moving average. Just like every day in the past 14 years. Remember that this is a marathon. Cut the short term noise!
 
-6h ago
+7h ago
+
+---
+
+**[Morgan Stanley’s Bitcoin ETF Likely To Launch Early Next Month: Bloomberg Analyst - The Daily Hodl](https://www.reddit.com/r/Bitcoin/comments/1s7o7qr/morgan_stanleys_bitcoin_etf_likely_to_launch/)**
+
+Morgan Stanley’s Bitcoin exchange-traded fund appears set for an imminent launch, according to a leading ETF analyst. Bloomberg analyst James Seyffart says the bank is clearly not messing around with its spot bitcoin ETF, which will feature the ticker MSBT. “WOW. We have the fee on Morgan Stanley’s spot bitcoin ETF $MSBT. Will charge just 0.14%!!! Big move here.” The fee will significantly undercut BlackRock’s flagship Bitcoin ETF, which charges 0.25%. Morgan Stanley’s Bitcoin ETF is the first from a major US bank. The lender has 16,000 advisors selling its investment products, and holds about $1.9 trillion in assets under management (AUM) within its Investment Management division.
+
+🔗 [The Daily Hodl](https://dailyhodl.com/2026/03/30/morgan-stanleys-bitcoin-etf-likely-to-launch-early-next-month-bloomberg-analyst/) • 6h ago
 
 ---
 
@@ -125,7 +125,7 @@ Hi all, we just hit a brand new all-time-high on the 200 week moving average. Ju
 
 Lets go!
 
-4h ago
+5h ago
 
 ---
 
@@ -139,7 +139,7 @@ Lets go!
 
 been dollar cost averaging for about 2.5 years now and this recent pullback let me reach 2 whole coins sooner than i thought. originally figured i wouldn't get there until around december. perfect time to stack more while prices are down. anyone else taking advantage of these levels? (already know about teh dm scammers so don't bother)
 
-18h ago
+19h ago
 
 ---
 
@@ -147,7 +147,7 @@ been dollar cost averaging for about 2.5 years now and this recent pullback let 
 
 I have the option of either going all in on bitcoin or spreading the amount equally over next 7 months until the October rise according to the 4 year cycle. Could I ask what you would suggest would be the best strategy? In not sure if it will keep dropping or this is the bottom, I know that it’s impossible to know if this is the bottom, or equally if it will go higher out lower from here but thought I’d ask the forum to get the consensus.
 
-8h ago
+9h ago
 
 ---
 
@@ -159,73 +159,75 @@ I have the option of either going all in on bitcoin or spreading the amount equa
 
 From churches allowing congregants to tithe with digital coins to blogs promoting bitcoin as biblically sound, there’s an emerging Christian crypto subculture.
 
-nbcnews.com • 2d ago
+NBC News • 2d ago
 
 ---
 
-**[Bitcoin rises as Trump says U.S. in talks with 'new regime' in Iran, threatens oil infrastructure if deal fails](https://www.coindesk.com/markets/2026/03/30/bitcoin-jumps-as-trump-says-u-s-in-talks-with-new-regime-in-iran-threatens-oil-infrastructure-if-deal-fails)**
+**['More room to fall': Bitcoin trades near $67,000 as US-Iran deadlock persists](https://www.theblock.co/post/395588/bitcoin-trades-near-66500-iran-deadlock)**
 
-Trump said "great progress" had been made toward ending the war, but warned the U.S. would "obliterate" Iran's power plants, oil wells and Kharg Island if a deal isn't reached shortly.
+Analysts said the prolonged U.S.-Iran conflict keeps inflation fears elevated, weighing on crypto investor sentiment.
 
-CoinDesk • 2h ago
-
----
-
-**[Trump family BTC firm builds 7,000 BTC treasury in under seven months](https://www.coindesk.com/markets/2026/03/30/trump-backed-american-bitcoin-hits-7-000-btc-as-holdings-expand-rapidly)**
-
-Satoshis per share climbs past 660, reinforcing rapid treasury expansion since Nasdaq debut.
-
-CoinDesk • 19m ago
+The Block • 15h ago
 
 ---
 
-**[Michael Saylor skips Bitcoin purchase in rare week](https://sg.finance.yahoo.com/news/michael-saylor-skips-bitcoin-purchase-165000053.html)**
+**[Bitcoin payments go mainstream as Square auto-enables BTC for small businesses](https://www.coindesk.com/business/2026/03/30/jack-dorsey-s-square-auto-enables-bitcoin-payments-for-millions-of-u-s-businesses)**
 
-Billionaire Michael Saylor-led Strategy (Nasdaq: MSTR), formerly MicroStrategy, didn't purchase any Bitcoin (BTC) during the March 23 to March 29 week, the form 8-K filing with the Securities and Exchange Commission (SEC) revealed. The last week, the firm didn't sell any of its shares either. ...
+Millions of U.S. businesses can now accept bitcoin with instant dollar conversion and no added setup.
 
-Yahoo Finance Singapore • 38m ago
-
----
-
-**[Square Begins Automatic Bitcoin Payment Rollout to Millions of U.S. Merchants](https://bitcoinmagazine.com/news/square-begins-automatic-bitcoin-payment)**
-
-Square began automatically enabling bitcoin payments for eligible U.S. sellers today.
-
-Bitcoin Magazine • 14m ago
+CoinDesk • 14m ago
 
 ---
 
-**[Trump Declares ‘Crypto Revolution’—Issues A Surprise Prediction As The Bitcoin Price Swings](https://www.forbes.com/sites/digital-assets/2026/03/30/trump-declares-crypto-revolution-issues-a-powerful-surprise-prediction-as-the-bitcoin-price-swings/)**
+**[MSTR may have paused it's BTC accumulation last week](https://www.coindesk.com/markets/2026/03/29/strategy-may-have-paused-bitcoin-accumulation-last-week-ending-a-thirteen-week-buying-streak)**
 
-Forbes • 4h ago
+The company seemed to have skipped it's weekly bitcoin purchase announcement for the first time since late december.
 
----
-
-**[Bitcoin Price Rebounds From Month Low, These Two Miners Form Bases](https://www.investors.com/news/bitcoin-price-rebound-miners-basing-terawulf-hut8-cathie-wood-ark-invest-bullish/)**
-
-Investor's Business Daily • 2h ago
+CoinDesk • 9h ago
 
 ---
 
-**[Congress proposes removal of widely used Bitcoin tax loophole and giving it to regulated stablecoins](https://cryptoslate.com/congress-to-remove-widely-used-bitcoin-tax-loophole-and-give-it-to-regulated-stablecoins/)**
+**[Michael Saylor's Strategy pauses weekly bitcoin buys, retains total holdings at 762,099 BTC](https://www.theblock.co/post/395623/michael-saylors-strategy-pauses-bitcoin-buys)**
 
-The new Digital Asset PARITY Act draft would extend wash-sale rules to digital assets while shielding certain regulated payment stablecoins from routine gain-or-loss recognition.
+Strategy's holdings account for more than 3.6% of the total 21 million bitcoin supply — worth around $52 billion.
 
-CryptoSlate • 21h ago
-
----
-
-**[The 'Crypto-Curious' Guide to Buying Bitcoin for the First Time](https://www.businessinsider.com/personal-finance/investing/buying-bitcoin-for-beginners)**
-
-Bitcoin investing for beginners: Learn how to buy cryptocurrency, choose a crypto exchange, and diversify your investment portfolio.
-
-Business Insider • 3h ago
+The Block • 6h ago
 
 ---
 
-**[Strategy skips a week of bitcoin purchases for the first time this year](https://www.marketwatch.com/story/strategy-skips-a-week-of-bitcoin-purchases-for-the-first-time-this-year-81ba10ec?gaa_at=eafs&gaa_n=AWEtsqcsovmETig2IGRRaVv964UTjKxV_YP3B4k08OHZ8BBEfrkidO5reZD5&gaa_ts=69cab638&gaa_sig=aSVr6hlUzHpSGBbTTanN63hzLFeLH6dicpf63DCeSkeURgIWg9ydAYU7mzG3BRBwfSr4WmJ7DpqVtV8NdnbHJA%3D%3D)**
+**[Strategy skips a week of bitcoin purchases for the first time this year](https://www.marketwatch.com/story/strategy-skips-a-week-of-bitcoin-purchases-for-the-first-time-this-year-81ba10ec?gaa_at=eafs&gaa_n=AWEtsqdXUyHHCEb2S64QTfqYATyYrdweaoKC4-8zTPOEPxxINAVyUqwe2k6A&gaa_ts=69cac538&gaa_sig=_MQKEWbx5ad-Yh-AguaiXFUpXXQc7eTUoR4-gCHb1Zf2tJW3PIoQLj5PpW4paLexbZuEUX6wY2zG-HK6cuupmA%3D%3D)**
 
-MarketWatch • 1h ago
+MarketWatch • 2h ago
+
+---
+
+**[Bitcoin sticks close to $67K, crypto stocks weather harsh 2026](https://finance.yahoo.com/video/bitcoin-sticks-close-to-67k-crypto-stocks-weather-harsh-2026-150802431.html)**
+
+Market Catalysts Host Brooke DiPalma takes a closer look at movements in the cryptocurrency market and related stocks on Monday morning, especially as bitcoin (BTC-USD) continues to hover around $67,000 per token.
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Bitcoin, XRP Prices Rise Today. Why Cryptos Are Havens Once Again.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-cryptos-ffbcc0ef?gaa_at=eafs&gaa_n=AWEtsqfJbepJRyN0mzpZ0wNiZ3rNtKOcz_JoImMV9eeblBFJM7vW6rlkrV58&gaa_ts=69cac538&gaa_sig=PGAFW1eMo1nFZzbg2nFGBNs4Nui_r1ndydytfRHzf9e-BHEjK-0Y5eaksVgqr1m-hfMZVUc4Ok9qva5rliacGQ%3D%3D)**
+
+Barron's • 2h ago
+
+---
+
+**[XRP Price Prediction: What Happens to XRP If Bitcoin Falls Below $60,000?](https://247wallst.com/investing/2026/03/30/xrp-price-prediction-what-happens-to-xrp-if-bitcoin-falls-below-60000/)**
+
+XRP amplifies Bitcoin's moves by 1.8x. If BTC price drops to $60,000, the correlation data points to XRP price falling back toward $1.11.
+
+247wallst.com • 2h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum, and Solana Are All Down Over 40% From Their Peaks — Is This the Bottom?](https://www.aol.com/articles/bitcoin-xrp-ethereum-solana-down-180101028.html)**
+
+Between mid-2025 and October, Bitcoin (CRYPTO: BTC) was above $126,000, Ethereum (CRYPTO: ETH) was pushing toward $5,000, XRP (CRYPTO: XRP) had hit $3.65, and Solana (CRYPTO: SOL) was trading near $295. If you bought anywhere near those levels, and haven’t taken profit, most of those gains have been erased. The entire crypto market has been ... Bitcoin, XRP, Ethereum, and Solana Are All Down Over 40% From Their Peaks — Is This the Bottom?
+
+AOL.com • 31m ago
 
 ---
 
@@ -257,13 +259,13 @@ Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes
 
 Agent-native inference engine with O(1) fork latency for tree-structured reasoning - BioInfo/dendrite
 
-⬆️ 3 • 💬 1 • 3h ago • [GitHub](https://github.com/BioInfo/dendrite)
+⬆️ 3 • 💬 1 • 4h ago • [GitHub](https://github.com/BioInfo/dendrite)
 
 ---
 
 **[Uni feels so usless, I cant focus anymore](https://news.ycombinator.com/item?id=47567925)**
 
-⬆️ 7 • 💬 3 • 19h ago
+⬆️ 7 • 💬 3 • 20h ago
 
 ---
 
@@ -277,7 +279,7 @@ The market looks calm on the surface but the cracks are getting worse. From glob
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 172 • ⏱️ 12:24 • 19h ago
+👁️ 19K • 👍 1K • 💬 172 • ⏱️ 12:24 • 20h ago
 
 ---
 
@@ -287,7 +289,7 @@ If you hold Bitcoin or Ethereum... watch this! (alert!) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 326 • ⏱️ 9:24 • 21h ago
+👁️ 42K • 👍 2K • 💬 326 • ⏱️ 9:24 • 22h ago
 
 ---
 
@@ -297,7 +299,7 @@ Bitcoin #Crypto #Finance Bitcoin may be entering its biggest macro shift yet as 
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 778 • 💬 288 • ⏱️ 1:04:46 • 3h ago
+👁️ 11K • 👍 778 • 💬 288 • ⏱️ 1:04:46 • 4h ago
 
 ---
 
@@ -307,7 +309,7 @@ Ledger CEO Pascal Gauthier discusses Bitcoin's price decline, volatility across 
 
 📺 Fox Business Clips
 
-👁️ 6K • 👍 355 • 💬 95 • ⏱️ 9:10 • 3h ago
+👁️ 6K • 👍 355 • 💬 95 • ⏱️ 9:10 • 4h ago
 
 ---
 
@@ -317,7 +319,7 @@ The risk models that say when to accumulate or exit HERE. Free trial https://app
 
 📺 Dan Gambardello
 
-👁️ 13K • 👍 771 • 💬 265 • ⏱️ 13:41 • 18h ago
+👁️ 13K • 👍 771 • 💬 265 • ⏱️ 13:41 • 19h ago
 
 ---
 
@@ -327,7 +329,7 @@ New data shows the future of markets and crypto in general. Its important for bi
 
 📺 Thomas Kralow
 
-👁️ 10K • 👍 2K • 💬 135 • ⏱️ 11:48 • 6h ago
+👁️ 10K • 👍 2K • 💬 135 • ⏱️ 11:48 • 7h ago
 
 ---
 
@@ -345,7 +347,7 @@ Bitcoin may not be breaking down all at once, but the structure is starting to w
 
 📺 Andrei Jikh
 
-👁️ 27K • 👍 937 • 💬 32 • ⏱️ 2:32 • 16h ago
+👁️ 27K • 👍 937 • 💬 32 • ⏱️ 2:32 • 17h ago
 
 ---
 
@@ -365,7 +367,7 @@ Fear & Greed hit 9 — the lowest since the August 2025 flash crash that precede
 
 📺 Money Talks
 
-👁️ 3K • 👍 105 • 💬 92 • ⏱️ 16:40 • 19h ago
+👁️ 3K • 👍 105 • 💬 92 • ⏱️ 16:40 • 21h ago
 
 ---
 

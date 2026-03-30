@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-30T17:28:48.724141+00:00'
+updated: '2026-03-30T18:32:50.710432+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- news
 - videos
 - cryptocurrency
-- news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 30, 2026 at 17:28 UTC  
+**Last Updated:** March 30, 2026 at 18:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.9%  
-**7d:** -5.6%  
-**30d:** +5.0%  
-**90d:** -31.5%  
-**1y:** +11.4%  
+**24h:** +1.7%  
+**7d:** -5.8%  
+**30d:** +4.8%  
+**90d:** -31.7%  
+**1y:** +11.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-357/) • 7h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-357/) • 8h ago
 
 ---
 
@@ -168,11 +168,11 @@ The Block • 1d ago
 
 ---
 
-**[Aave V4 goes live after governance vote clears Ethereum rollout](https://www.tradingview.com/news/cointelegraph:3b36c6b3f094b:0-aave-v4-goes-live-after-governance-vote-clears-ethereum-rollout/)**
+**[Ethereum Funds Shed $222 Million as Crypto Bill Fears Rattle Investors](https://finance.yahoo.com/markets/crypto/articles/ethereum-funds-shed-222-million-174737564.html)**
 
-Decentralized finance (DeFi) lending platform Aave has launched its V4 protocol on Ethereum after a binding onchain governance vote cleared its deployment. On Monday, Aave announced the launch of its V4 protocol on Ethereum, introducing infrastructure designed to “expand onchain markets into real-w…
+Ethereum funds took the biggest hit as Clarity Act fears and macro headwinds pushed crypto outflows to $414 million for the week.
 
-TradingView • 4h ago
+Yahoo Finance • 45m ago
 
 ---
 
@@ -180,15 +180,23 @@ TradingView • 4h ago
 
 BitMine continued its Ethereum accumulation, adding to its leading ETH treasury while Strategy took a week off from Bitcoin purchases.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Aave V4 launches on Ethereum mainnet with 'hub-and-spoke' architecture](https://www.theblock.co/post/395617/aave-v4-launches-ethereum-mainnet)**
+**[BMNR, ETH news: Bitmine buys 71,000 ETH as digital asset treasuries dial back purchases](https://www.coindesk.com/business/2026/03/30/bitmine-makes-biggest-ether-purchase-in-2026-while-other-digital-asset-treasuries-pull-back)**
 
-Aave V4 features a hub-and-spoke architecture that concentrates liquidity to supply a wider range of markets and use cases with credit lines.
+Tom Lee's Ethereum treasury bought more than 71,000 ETH over the past week, remaining the sole large corporate crypto buyer as Strategy broke its 13-week bitcoin purchase streak.
 
-The Block • 4h ago
+CoinDesk • 3h ago
+
+---
+
+**[Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week](https://247wallst.com/investing/2026/03/28/why-is-crypto-crashing-bitcoin-xrp-ethereum-and-solana-all-down-this-week/)**
+
+Bitcoin, XRP, Ethereum, and Solana are all down by 6-8% in a week. Here's what's driving the crypto market crash and what to watch next.
+
+247wallst.com • 2d ago
 
 ---
 
@@ -196,7 +204,7 @@ The Block • 4h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 4h ago
+Fortune • 5h ago
 
 ---
 
@@ -204,7 +212,7 @@ Fortune • 4h ago
 
 Bitmine has 3,142,643 staked ETH, representing $6.3 billion at $2,005 per ETH MAVAN (Made in America VAlidator Network) launched staking solution on March 25,...
 
-PR Newswire • 4h ago
+PR Newswire • 6h ago
 
 ---
 
@@ -216,17 +224,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum Foundation’s Biggest Stake Ever May Not Stop ETH From Falling Under $1,700](https://www.ccn.com/analysis/crypto/ethereum-foundations-biggest-stake-not-stop-eth-falling/)**
+**[Ethereum (ETH) Price Holds $2K Support—Analyst Predicts Shocking $62,000 Target](https://www.tradingview.com/news/coinpedia:09b742ff2094b:0-ethereum-eth-price-holds-2k-support-analyst-predicts-shocking-62-000-target/)**
 
-CCN.com • 4h ago
+Ethereum’s volatility has picked up notably since the start of the month, reflecting a market caught between recovery attempts and persistent selling pressure. After rallying through the first half, the ETH price faced a firm rejection near $2,372, triggering a sharp pullback that erased a chunk of…
 
----
-
-**[Ethereum looks quiet – But liquidity is building for a bigger move](https://ambcrypto.com/ethereum-looks-quiet-but-liquidity-is-building-for-a-bigger-move/)**
-
-Ethereum sees rising liquidity, activity signaling real demand, while price stays range-bound awaiting stronger deployment.
-
-AMBCrypto • 1d ago
+tradingview.com • 1d ago
 
 ---
 
@@ -240,7 +242,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 The Boss Barber - Yudi
 
-👁️ 2K • 👍 1K • 57m ago
+👁️ 2K • 👍 1K • 2h ago
 
 ---
 
@@ -250,7 +252,7 @@ New data shows the future of markets and crypto in general. Its important for bi
 
 📺 Thomas Kralow
 
-👁️ 10K • 👍 2K • 💬 135 • ⏱️ 11:48 • 6h ago
+👁️ 10K • 👍 2K • 💬 135 • ⏱️ 11:48 • 7h ago
 
 ---
 
@@ -260,7 +262,7 @@ If you hold Bitcoin or Ethereum... watch this! (alert!) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 326 • ⏱️ 9:24 • 21h ago
+👁️ 42K • 👍 2K • 💬 326 • ⏱️ 9:24 • 22h ago
 
 ---
 
@@ -270,7 +272,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 916 • 👍 66 • 💬 1 • ⏱️ 3:53 • 5h ago
+👁️ 916 • 👍 66 • 💬 1 • ⏱️ 3:53 • 6h ago
 
 ---
 
@@ -290,7 +292,7 @@ Joseph Chalom, CEO of SharpLink, joined me to discuss the company's Ethereum tre
 
 📺 Thinking Crypto
 
-👁️ 936 • 👍 100 • 💬 189 • ⏱️ 55:54 • 5h ago
+👁️ 936 • 👍 100 • 💬 189 • ⏱️ 55:54 • 6h ago
 
 ---
 
@@ -300,7 +302,7 @@ At the Digital Asset Summit 2026 in New York, a key question came up: what do ba
 
 📺 Learn Cardano
 
-👁️ 2K • 👍 247 • 💬 21 • ⏱️ 10:53 • 6h ago
+👁️ 2K • 👍 247 • 💬 21 • ⏱️ 10:53 • 7h ago
 
 ---
 
@@ -310,7 +312,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 393 • 👍 59 • 💬 14 • ⏱️ 5:55 • 2h ago
+👁️ 393 • 👍 59 • 💬 14 • ⏱️ 5:55 • 3h ago
 
 ---
 
@@ -330,7 +332,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 93 • 💬 17 • ⏱️ 3:28 • 17h ago
+👁️ 2K • 👍 93 • 💬 17 • ⏱️ 3:28 • 18h ago
 
 ---
 

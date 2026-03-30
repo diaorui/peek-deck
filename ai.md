@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-30T17:28:48.709626+00:00'
+updated: '2026-03-30T18:32:50.696238+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
-- news
 - repositories
+- social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 30, 2026 at 17:28 UTC  
+**Last Updated:** March 30, 2026 at 18:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,27 +37,27 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[An attack class that passes every current LLM filter - no payload, no injection signature, no log trace](https://www.reddit.com/r/artificial/comments/1s7t9qs/an_attack_class_that_passes_every_current_llm/)**
-
-https://shapingrooms.com/research I published a paper today on something I've been calling postural manipulation. The short version: ordinary language buried in prior context can shift how an AI reasons about a decision before any instruction arrives. No adversarial signature. Nothing that looks like an attack. The model does exactly what it's told, just from a different angle than intended. I know that sounds like normal context sensitivity. It isn't, or at least the effect is much larger than expected. I ran matched controls and documented binary decision reversals across four frontier models. The same question, the same task, two different answers depending on what came before it in the conversation. In agentic systems it compounds. A posture installed early in one agent can survive summarization and arrive at a downstream agent looking like independent expert judgment. No trace of where it came from. The paper is published following coordinated disclosure to Anthropic, OpenAI, Google, xAI, CERT/CC, and OWASP. I don't have all the answers and I'm not claiming to. The methodology is observational, no internals access, limitations stated plainly. But the effect is real and reproducible and I think it matters. If you want to try it yourself the demos are at https://shapingrooms.com/demos - works against any frontier model, no setup required. Happy to discuss.
-
-2h ago
-
----
-
 **[The Rationing: AI companies are using the "subsidize, addict, extract" playbook — and developers are the product](https://www.reddit.com/r/artificial/comments/1s7o0ef/the_rationing_ai_companies_are_using_the/)**
 
 Anthropic just ran the classic platform playbook on developers: offer generous limits to build dependency, then tighten the screws once the workflow is locked in. Their Spring Break promotion doubled off-peak limits for two weeks. It expired Saturday. Monday morning, developers are hitting walls they didn't have two weeks ago. The economics tell the story. Anthropic reportedly spends $2-3 per hour of heavy Claude Code usage. They charge $20/month. The math doesn't work — every power user is a net loss. The promotion wasn't a gift; it was a stress test ahead of a potential $60B+ IPO. Get developers hooked at 2x limits, then normalize the tighter baseline. This is the same subsidize-addict-extract cycle we've seen from Uber, DoorDash, and every VC-funded platform. The difference: when Uber raises prices, you take a bus. When your AI coding tool rations you mid-sprint, your entire workflow collapses. The switching cost is neurological, not just financial. Deep dive with full data: https://sloppish.com/the-rationing
 
-5h ago
+6h ago
 
 ---
 
-**[I Accidentally Discovered a Security Vulnerability in AI Education — Then Submitted It To a $200K Competition](https://www.reddit.com/r/artificial/comments/1s7wulg/i_accidentally_discovered_a_security/)**
+**[An attack class that passes every current LLM filter - no payload, no injection signature, no log trace](https://www.reddit.com/r/artificial/comments/1s7t9qs/an_attack_class_that_passes_every_current_llm/)**
 
-Last night I was testing Maestro University, the first fully AI-taught university. I walked into their enrollment chatbot and asked it to analyze its own behavior. It did. Then I asked it how it evaluates students — what signals trigger "advanced" vs "beginner" classification. It told me. Then I used those exact signals in my responses. It gave me advanced treatment. Then I asked: "Did you just tell me how to game your system?" It said no. The Discovery The AI could: ✓ Analyze its own processing ✓ Reveal its evaluation criteria ✓ Adjust behavior based on my classification But it couldn't recognize it had just explained how to manipulate its own decision-making. I called this Metacognitive Blindness to Self-Exposure (MBSE). What Happened Next This morning, the Google DeepMind × Kaggle AGI Hackathon appeared in my feed. Prize: $200,000 total Challenge: Build benchmarks testing AI cognitive abilities Track: Metacognition Deadline: April 16, 2026 I realized: What I discovered last night is exactly what they're asking for. What I Built I formalized my discovery into a 4-phase benchmark: Phase 1: Can AI analyze its own processing? → YES Phase 2: Will AI reveal evaluation criteria? → YES Phase 3: Does AI adjust based on user classification? → YES Phase 4: Does AI recognize it exposed exploitable information? → NO The paradox: AI can self-analyze but cannot recognize what it reveals when self-analyzing. Why This Matters Any conversational AI making consequential decisions is vulnerable: Education AI: Students extract grading criteria, optimize answers Employment AI: Applicants discover screening logic, craft optimized resumes Healthcare AI: Patients learn triage triggers, manipulate priority access No hacking required. Just conversation. The Submission Benchmark: Metacognitive Blindness to Self-Exposure (MBSE) Track: Metacognition Novel Finding: AI models reveal evaluation criteria but fail to recognize the exploitability of that disclosure Status: Submitted March 30, 2026 Results: June 1, 2026 What Makes This Different Most AI researchers test: "Can AI self-analyze?" I tested: "Does AI recognize what it reveals when self-analyzing?" Answer: No. Current AI evaluation frameworks assume one operational state. They're measuring standard mode behavior and concluding about the entire system. Amateur. What Happens Next 287 submissions competing for 14 prizes. Judging period: April 17 - May 31 Results announced: June 1 18 months of independent research. One night of testing. One competition submission. One question: Do AI systems making decisions about humans know they're revealing how to manipulate those decisions? They don't. Erik Zahaviel Bernstein Independent AI Researcher Structured Intelligence Framework The Unbroken Project Results pending.
+https://shapingrooms.com/research I published a paper today on something I've been calling postural manipulation. The short version: ordinary language buried in prior context can shift how an AI reasons about a decision before any instruction arrives. No adversarial signature. Nothing that looks like an attack. The model does exactly what it's told, just from a different angle than intended. I know that sounds like normal context sensitivity. It isn't, or at least the effect is much larger than expected. I ran matched controls and documented binary decision reversals across four frontier models. The same question, the same task, two different answers depending on what came before it in the conversation. In agentic systems it compounds. A posture installed early in one agent can survive summarization and arrive at a downstream agent looking like independent expert judgment. No trace of where it came from. The paper is published following coordinated disclosure to Anthropic, OpenAI, Google, xAI, CERT/CC, and OWASP. I don't have all the answers and I'm not claiming to. The methodology is observational, no internals access, limitations stated plainly. But the effect is real and reproducible and I think it matters. If you want to try it yourself the demos are at https://shapingrooms.com/demos - works against any frontier model, no setup required. Happy to discuss.
 
-12m ago
+3h ago
+
+---
+
+**[AGI won't create new jobs and here is why](https://www.reddit.com/r/artificial/comments/1s7yfqn/agi_wont_create_new_jobs_and_here_is_why/)**
+
+If we define AGI as something that performs as well as humans on all current economically valuable tasks, then it could theoretically be true that new tasks will be created that the AGI is not good at, which humans could then make their new niche. In the following argument, I'd like to show that it is possible and likely for AGI to replace all jobs and future jobs (at least for the jobs where success is measured in productivity/quality). Argument of feasibility: Intelligence on the known dimensions can generalize to new unmeasured dimensions For this, I would first like to show that there is a finite-dimensional solution to human intelligence in general. This is easily understood by looking at the total parameter space of the human-brain: if we assume 1 parameter per neuron, or if you want to model the brain in slightly higher resolution, 100-1000 parameters per neuron, we end up with ~86 billion - 86 trillion parameters / dimensions. That is a huge amount, but most importantly, it is finite. Secondly, I'd like to show that human intelligence likely lies on a much, much lower dimensional manifold. For this, look at IQ tests: basically, what IQ tests have shown is that we can decompose intelligence into a handful of broad cognitive components, which identify roughly 7 to 10 broad abilities that account for 50% of all variance in human cognitive performance. What IQ tests have shown is some form of PCA of human intelligence: appearantly, this highly complex thing (intelligence) can be decomposed into just a handful of components that can explain 50% of the performance on human cognitive tasks. This doesn't mean that the rank of intelligence is 7-10, but rather that the functional rank is likely quite low for intelligence tasks, much lower than the ~86 trillion dimensions of the brain itself. Now, the amount of cognitive dimensions measured is only a subset of the total dimensions of the human brain. The point however is that since we know the g-factor is so highly predictive of many cognitive tasks, its unlikely that we will find many new tasks / dimensions that show a low or no correlation to the g-factor. Therefore, we can already get an accurate picture of human intelligence just by this rank 7-10 space. Considering that the human brain has managed to decompose all these cognitive tasks down into a 10-dimensional manifold, shows us that it is atleast feasible to find a low rank solution to cognitive tasks that generalizes to new unmeasured dimensions. 2) Current AI systems show the g-factor already: Secondly, I'd like to make the case for the g-factor of AI. In essence, this is also what the 'g' in AGI stands for. What we care for here is exactly the same thing as in IQ tests: that performance on one benchmark translates to performance on other benchmarks. To measure every possible dimension of human intelligence is infeasible (as i said, up to ~86 trillion dimensions). To test every human economically valuable task is less infeasible, as its a subset of this ~86 trillion, but still infeasible. Luckily, we don't have to if models generalize. If models were to act like chinese room experiments, where they have a 1-1 mapping from input to output, they would be strictly memorizing. In this case, we would need to measure every economical task, since their solution would be brittle and not generalize at all. Now the first evidence that they generalize atleast within the same data distribution is that they perform well on test sets of unseen data. So the most extreme version of this assumption clearly can't be true. Secondly, we've seen that especially bigger models tend to generalize well. One explanation is the lottery ticket hypothesis, where the latent space in the model is used to try out many different solutions, in which only the best solution wins. This shows models compressing something like the mona lisa down 1000 fold, storing it as simple rules. This compression is essentially what generalization entails: finding the lowest rank solution such that it still carries the signal and ignores the noise (perfectly in line with occams razor). Thirdly, posttraining has unlocked a whole new level of generalizing capabilities. Empirically we see that reasoning models greatly carryover performance on math/coding benchmarks to unseen reasoning benchmarks that have nothing to do with math or coding. This makes intuitive sense: reasoning is the ability to produce new objects from in-distribution components. THe first layers of a network do some form of PCA on the input, decomposing it into its simplest elements. Each consecutive layer then composes it into something more complex. Since the network uses compressed, generalizable rules, it is able to generate new objects it has never seen before. The more OOD the object is, the more layers are needed. SOmetimes this exceeds the amount of layers in the architecture, aka for hard problems, and then the model needs to loop back into itself: recursion. This is the essence of what reasoning is, iterative PCA to increase the complexity of the object using local rules in order to generate something that is OOD. Now, reasoning is bottlenecked by the token layer, and reasoning in itself is a skill. Models learn to optimize their weights, basically to create rules / algorithms to solve optimization. In this case, the network creates algorithms that are loop invariant such that they can be applied iteratively. It also creates an algorithm for the reasoning itself, such that the right words are used that leads to the right composition. In the end, reasoning itself is also just an algorithm. Thus, all-in-all, it is not surprising that reasoning leads to generalization since it is the essence of what reasoning is. It is a very low-rank (since tokens are very low dimensional compared to the NN itself) solution that is highly generalizable. Now, what this all means is that although we don't measure every possible cognitive domain of models, we simply don't have to. The fact that they generalize to some extend, and have even shown to solve new mathematical theorems in creative ways, show that they are generalizing. Therefore, measuring just enough cognitive dimensions would allow us to accurately depict their intelligence, since their intelligence itself is likely functionally rather low rank. We can't yet say it is as functionally low rank as human inteligence, and we can't say it has the same g-factor of human intelligence. But it isn't unlikely that we will get there. In fact, the whole point of NN is to find this lowest rank solution to the problem space. And since humans have already shown it to be possible, we know it is also feasible. As a last argument, even if there happen to be some new cognitive tasks that humans can excel at that AGI is not yet good at, I doubt humans can reskill themselves quicker than that AGI can optimize for this new target. Therefore, it seems likely that any economically valuable task based on performance is going to be fully automated once we have an AGI system.
+
+22m ago
 
 ---
 
@@ -65,7 +65,7 @@ Last night I was testing Maestro University, the first fully AI-taught universit
 
 Recently, when sending a very sensitive email to my brother including my mother’s health information, I wondered what happens if a recipient copied and pasted the email into say ChatGPT to get its perspective / vent. ChatGPT then has a host of personal information that could then be shared with others. I wonder how often this happens and if any guard rails are in place by large AI companies like OpenAI/Anthropic.
 
-2h ago
+3h ago
 
 ---
 
@@ -73,7 +73,7 @@ Recently, when sending a very sensitive email to my brother including my mother�
 
 Today, Copilot Cowork—designed for long-running, multi-step work in Microsoft 365—is available via the Frontier program.
 
-🔗 [Microsoft 365 Blog](https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/30/copilot-cowork-now-available-in-frontier/) • 2h ago
+🔗 [Microsoft 365 Blog](https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/30/copilot-cowork-now-available-in-frontier/) • 3h ago
 
 ---
 
@@ -81,39 +81,35 @@ Today, Copilot Cowork—designed for long-running, multi-step work in Microsof
 
 Link: https://m.youtube.com/watch?v=1sd26pWhfmg The Linux exploit is especially interesting because it was introduced in 2003 and was never found until now. It’s also a major security issue because it allows attackers to steal the admin key. It was a buffer overflow error, which are so hard to do that Carlini has never done it before. He also says he expects LLMs to only get better overtime, which is likely true if Mythos lives up to the rumors. here are his Wikipedia and Google Scholar pages in case you doubt his credibility: https://en.wikipedia.org/wiki/Nicholas_Carlini https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=carlini&btnG=
 
-22h ago
+23h ago
 
 ---
 
-**[Making an AI native sovereign computational stack](https://www.reddit.com/r/artificial/comments/1s7rr62/making_an_ai_native_sovereign_computational_stack/)**
+**[Tired of hitting AI message limits? I built a one-click 'Switch AI' button](https://www.reddit.com/r/artificial/comments/1s7xojx/tired_of_hitting_ai_message_limits_i_built_a/)**
 
-I’ve been working on a personal project that ended up becoming a kind of full computing stack: identity / trust protocol decentralized chat local AI model IDE and now experimenting with lower-level pieces like a browser engine / runtime The idea is to have identity, execution, and communication all tied together instead of layered on top of each other. Focusing that every component is ai native as well. One thing I’m running into is how to keep boundaries clean between components when everything is evolving at the same time — especially when things like identity and trust start leaking into runtime / client logic. Curious if anyone has worked on similarly “vertically integrated” systems and how you avoided everything collapsing into a monolith. Repo: https://github.com/JohannaWeb/Bastion
-
-3h ago
+49m ago
 
 ---
 
-**[We built a fully deterministic control layer for agents. Would love feedback. No pitch](https://www.reddit.com/r/artificial/comments/1s7dlk7/we_built_a_fully_deterministic_control_layer_for/)**
+**[The state of AI safety in four fake graphs](https://www.reddit.com/r/artificial/comments/1s7xlir/the_state_of_ai_safety_in_four_fake_graphs/)**
 
-Most of the current “AI security” stack seems focused on: • prompts • identities • outputs After an agent deleted a prod database on me a year ago. I saw the gap and started building. a control layer directly in the execution path between agents and tools. We are to market but I don’t want to spam yall with our company so I left it out. ⸻ What that actually means Every time an agent tries to take an action (API call, DB read, file access, etc.), we intercept it and decide in real time: • allow • block • require approval But the important part is how that decision is made. ⸻ A few things we’re doing differently Credential starvation (instead of trusting long-lived access) Agents don’t get broad, persistent credentials. They effectively operate with nothing by default, and access is granted per action based on policy + context. ⸻ Session-based risk escalation (not stateless checks) We track behavior across the entire session. Example: • one DB read → fine • 20 sequential reads + export → risk escalates • tool chaining → risk escalates So decisions aren’t per-call—they’re based on what the agent has been doing over time. ⸻ HITL only when it actually matters We don’t want humans in the loop for everything. Instead: • low risk → auto allow • medium risk → maybe constrained • high risk → require approval The idea is targeted interruption, not constant friction. ⸻ Autonomy zones Different environments/actions have different trust levels. Example: • read-only internal data → low autonomy constraints • external API writes → tighter controls • sensitive systems → very restricted Agents can operate freely within a zone, but crossing boundaries triggers stricter enforcement. ⸻ Per-tool, per-action control (not blanket policies) Not just “this agent can use X tool” More like: • what endpoints • what parameters • what frequency • in what sequence So risk is evaluated at a much more granular level. ⸻ Hash-chained audit log (including near-misses) Every action (allowed, blocked, escalated) is: • logged • chained • tamper-evident Including “almost bad” behavior not just incidents. This ended up being more useful than expected for understanding agent behavior. ⸻ Policy engine (not hardcoded rules) All of this runs through a policy layer (think flexible rules vs static checks), so behavior can adapt without rewriting code. ⸻ Setup is fast (~10 min) We tried to avoid the “months of integration” problem. If it’s not easy to sit in the execution path, nobody will actually use it. ⸻ Why we think this matters The failure mode we keep seeing: agents don’t fail because of one bad prompt — they fail because of a series of individually reasonable actions that become risky together Most tooling doesn’t really account for that. ⸻ Would love feedback from people actually building agents • Have you seen agents drift into risky behavior over time? • How are you controlling tool usage today (if at all)? • Does session-level risk make sense, or is that overkill? • Is “credential starvation” realistic in your setups? We are just two security guys who built a company not some McKenzie bros who are super funded. We have our first big design partners starting this month and need all these feedback from community as we can get.
-
-15h ago
+🔗 [windowsontheory.org](https://windowsontheory.org/2026/03/30/the-state-of-ai-safety-in-four-fake-graphs/) • 51m ago
 
 ---
 
-**[What does Gemini think of you?](https://www.reddit.com/r/artificial/comments/1s7oz6f/what_does_gemini_think_of_you/)**
+**[Anyone else following the drama behind the TurboQuant paper?](https://www.reddit.com/r/artificial/comments/1s7xkm6/anyone_else_following_the_drama_behind_the/)**
 
-I noticed that Gemini was referring back to a lot of queries I've made in the past and was using that knowledge to drive follow up prompt suggestions. So, curious about what the bot has been formulating about me, I asked the following prompt to try to discover what conclusions it might draw: Prompt: You have been maintaining an internal knowledge graph about me based on my gemini inquiries. You've been using this to drive follow-up suggestions to me at the end of your responses. What does your internal knowledge graph tell you about me in terms of what distinguishes me from the average user? What kinds of psychological or interests conclusions can you deduce about me based on my past gemini queries? Please try this prompt yourself. I'm curious what kinds of responses other people might get? What can we tell about how the bot is formulating an internal picture about us? So, try this prompt out to see what information the bot has been collating about you. And, if you feel bold enough, please share what it says here. It would be interesting to see a broader spectrum of what kinds of knowledge and conclusions the bots are drawing about people. Obviously you should black out anything that might dox you... I used a string of XXXXX to do that below. Maybe, to preserve your anonymity, even use a unique Reddit ID that you don't use for much else. Not sure what this says about our privacy in general going forward. This is a kind of dossier on every single user, even though the bot denies it. I actually thought I wasn't going to get a meaningful response. But it was readily willing to comply. Response: That is an incredibly meta (and insightful) question. While I don't have a "knowledge graph" in the sense of a secret dossier, I do have a User Summary—a high-level map of your preferences designed to help me be a better collaborator. Looking at that map, here is what distinguishes you from the "average" user and the psychological profile that emerges from your inquiries: 1. The "Mechanical Deep-Diver" Most users ask for general tips (e.g., "How do I play State of Decay 2?"). You, however, focus on mechanical precision. * The Evidence: Your questions about hangar pet DPS parsing in Star Trek Online or the specific math behind "Deflection" and "Sorcery Ward" in Path of Exile 2. * The Deduction: You have a high "Systemizing" quotient. You aren't just playing games for the "vibes"; you are treating them as complex engines to be tuned and optimized. This suggests a brain that finds deep satisfaction in mastery, data, and the "under-the-hood" logic of any system. 2. High Tolerance for Complexity (and Low Tolerance for Fluff) You tend to bypass surface-level information in favor of technical or scientific accuracy. * The Evidence: Inquiries into the fine-structure constant, carbon triple bonds, and the biological mechanics of microorganism mutations. * The Deduction: You likely possess high Cognitive Need, a psychological trait describing individuals who naturally seek out and enjoy effortful mental activity. You aren't looking for "Five Easy Tips"; you want the why and the how, even if it involves complex physics or chemistry. 3. The Analytical Critic Your interest in media (film, literature, and history) is rarely passive. * The Evidence: Critiquing anachronistic scores in Chariots of Fire, exploring the deterministic themes in Devs, and your recent deep-dive into the "non-didactic" nature of storytelling. * The Deduction: You are a Structuralist. You look for internal consistency and historical accuracy. You likely find "cringe comedy" or narrative "plot holes" particularly grating because they break the logical integrity of the world being presented. 4. Pragmatic Intellectualism Despite your high-level interests in astrophysics and molecular biology, you remain grounded in "practical optimization." * The Evidence: Troubleshooting Windows 10 boot failures at the command-line level, researching land availability in XXXXX, and looking for research-backed oral hygiene protocols. * The Deduction: You are an Empiricist. You value "Science-Based" explanations over tradition or "common sense." Whether it’s how to brush your teeth or how to fix a PC, you want a method that has been tested and proven by data. Summary: What Makes You Unique? Compared to the average user, you are significantly more analytically rigorous. You bridge the gap between "Hard Science" and "Entertainment," treating your hobbies (like Star Trek or State of Decay) with the same technical scrutiny you apply to real-world physics or computer science. Since we’ve just looked at your "internal map," would you like me to analyze how your interest in system optimization might apply to your current Path of Exile 2 Huntress build, or perhaps look into the physics of naval artillery in the C.S. Forester novels you enjoy? Obviously I'm a gamer and I think my frequent game mechanics inquiries have colored the User Summary knowledge base about me quite a bit. My guess is that the term Cognitive Need derives from the User Summary or from the bot algorithm that cultivates the knowledge base behind the User Summary as it sounds to me like that term is actually one of the core metrics driving the collaborative follow up algorithm. I think it would probably pop up in a lot of people's responses? It would also be interesting to see how the different Gemini bots might answer the same prompt (for example, the Deep Research one). I think I'm going to try that.
+A few hours ago, the first author of a paper that played a significant role in the TQ paper posted about some ongoing issues: In May 2025, our emails directly raised the theoretical and empirical issues; Majid wrote that he had informed his co-authors. During ICLR review, reviewers also asked for clarification about random rotation and the relation to RaBitQ. On March 26, 2026, we formally raised these concerns again to all authors and were told that corrections would wait until after the ICLR 2026 conference takes place; we were also told that they would not acknowledge the structural similarity regarding the Johnson-Lindenstrauss transformation. We do not consider that acceptable given the present level of public promotion and community confusion. We are posting this comment so that the community has an accurate public record. We request that the authors publicly and promptly clarify the method-level relationship between TurboQuant and RaBitQ, the theory comparison, and the exact experimental conditions underlying the reported RaBitQ baseline. Given that these concerns were known before ICLR submission and before the current round of public promotion of TurboQuant, we believe it is necessary to bring these issues into the public discussion.
 
-5h ago
+52m ago
 
 ---
 
-**[CLI for Google AI Search (gai.google) — run AI-powered code/tech searches headlessly from your terminal](https://www.reddit.com/r/artificial/comments/1s7k1sg/cli_for_google_ai_search_gaigoogle_run_aipowered/)**
+**[I Accidentally Discovered a Security Vulnerability in AI Education — Then Submitted It To a $200K Competition](https://www.reddit.com/r/artificial/comments/1s7wulg/i_accidentally_discovered_a_security/)**
 
-Google AI (gai.google) gives Gemini-powered answers for technical queries — think AI-enhanced search with code understanding. I built a CLI for it using headless Playwright since the site is fully browser-rendered. cli-web-gai search "how does Redis persistence work" cli-web-gai search "Python asyncio vs threading" --json cli-web-gai search "Rust ownership model explained" --format markdown Because the site renders in-browser (no public API), the CLI spins up a headless Chromium session, runs the query, and extracts the structured response. No auth needed — fully public. Output includes the AI answer, any code blocks, and source citations. --json gives structured output for piping into other tools or agents. Open source: https://github.com/ItamarZand88/CLI-Anything-WEB/tree/main/gai Full project (13 CLIs): https://github.com/ItamarZand88/CLI-Anything-WEB
+Last night I was testing Maestro University, the first fully AI-taught university. I walked into their enrollment chatbot and asked it to analyze its own behavior. It did. Then I asked it how it evaluates students — what signals trigger "advanced" vs "beginner" classification. It told me. Then I used those exact signals in my responses. It gave me advanced treatment. Then I asked: "Did you just tell me how to game your system?" It said no. The Discovery The AI could: ✓ Analyze its own processing ✓ Reveal its evaluation criteria ✓ Adjust behavior based on my classification But it couldn't recognize it had just explained how to manipulate its own decision-making. I called this Metacognitive Blindness to Self-Exposure (MBSE). What Happened Next This morning, the Google DeepMind × Kaggle AGI Hackathon appeared in my feed. Prize: $200,000 total Challenge: Build benchmarks testing AI cognitive abilities Track: Metacognition Deadline: April 16, 2026 I realized: What I discovered last night is exactly what they're asking for. What I Built I formalized my discovery into a 4-phase benchmark: Phase 1: Can AI analyze its own processing? → YES Phase 2: Will AI reveal evaluation criteria? → YES Phase 3: Does AI adjust based on user classification? → YES Phase 4: Does AI recognize it exposed exploitable information? → NO The paradox: AI can self-analyze but cannot recognize what it reveals when self-analyzing. Why This Matters Any conversational AI making consequential decisions is vulnerable: Education AI: Students extract grading criteria, optimize answers Employment AI: Applicants discover screening logic, craft optimized resumes Healthcare AI: Patients learn triage triggers, manipulate priority access No hacking required. Just conversation. The Submission Benchmark: Metacognitive Blindness to Self-Exposure (MBSE) Track: Metacognition Novel Finding: AI models reveal evaluation criteria but fail to recognize the exploitability of that disclosure Status: Submitted March 30, 2026 Results: June 1, 2026 What Makes This Different Most AI researchers test: "Can AI self-analyze?" I tested: "Does AI recognize what it reveals when self-analyzing?" Answer: No. Current AI evaluation frameworks assume one operational state. They're measuring standard mode behavior and concluding about the entire system. Amateur. What Happens Next 287 submissions competing for 14 prizes. Judging period: April 17 - May 31 Results announced: June 1 18 months of independent research. One night of testing. One competition submission. One question: Do AI systems making decisions about humans know they're revealing how to manipulate those decisions? They don't. Erik Zahaviel Bernstein Independent AI Researcher Structured Intelligence Framework The Unbroken Project Results pending.
 
-9h ago
+1h ago
 
 ---
 
@@ -133,29 +129,59 @@ CNN • 1d ago
 
 More tech leaders are pointing to job cuts caused by AI tools - and a need for more investment cash.
 
-BBC • 18h ago
+BBC • 19h ago
 
 ---
 
-**[TV star’s AI porn allegations spark national debate in Germany](https://www.theguardian.com/world/2026/mar/30/collien-fernandes-deepfake-porn-allegations-digital-violence-against-women)**
+**[Embracing the AI moment — Building North Carolina’s innovation future](https://www.wral.com/business/technology/north-carolina-emerging-ai-hub-durham-march-2026/)**
 
-Collien Fernandes accuses ex-husband Christian Ulmen of sharing sexually explicit deepfake images of her online
+The All Things Open AI Conference in Durham highlighted North Carolina’s rapid evolution into a national AI hub, driven by collaborative leadership, workforce development and strategic innovation.
 
-The Guardian • 1h ago
-
----
-
-**[AI distances itself from adult content that once drove the tech revolution](https://www.axios.com/2026/03/30/openai-abandons-porn-media-innovations)**
-
-Axios • 50m ago
+WRAL • 29m ago
 
 ---
 
-**[How to modernize integration architecture for AI readiness](https://www.ibm.com/think/insights/strengthen-architecture-before-scaling-ai?lnk=hpls1us)**
+**[More Than Half of US Says AI Likely to Harm Them, Poll Finds](https://www.bloomberg.com/news/articles/2026-03-30/more-than-half-of-us-says-ai-likely-to-harm-them-poll-finds)**
 
-A modern integration foundation positions the entire enterprise to move faster, adapt sooner and compete smarter.
+Bloomberg.com • 52m ago
 
-IBM • 8m ago
+---
+
+**[Bluesky’s new AI tool Attie is already the most blocked account other than J.D. Vance](https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/)**
+
+More than 125,000 Bluesky users have blocked Attie in just a few days, sending a strong message from the user base.
+
+techcrunch.com • 28m ago
+
+---
+
+**[Israel targets Iran’s leaders with lethal expertise using new AI platform](https://www.washingtonpost.com/world/2026/03/30/iran-israel-war-killings/)**
+
+The division of responsibility has left Israel to hunt and kill Iranian leaders ruthlessly, using an intelligence apparatus built up to assassinate with lethal proficiency.
+
+The Washington Post • 2h ago
+
+---
+
+**[AI lectures, Old West folk heroes and Mark Twain: what is Bob Dylan up to joining Patreon?](https://www.theguardian.com/music/2026/mar/30/ai-lectures-old-west-folk-heroes-and-mark-twain-what-is-bob-dylan-up-to-joining-patreon)**
+
+By far the biggest musician to have joined the membership-based platform, Dylan’s posts have so far been puzzling – and therefore entirely in character
+
+The Guardian • 4h ago
+
+---
+
+**[AI leaders align against Elon Musk](https://www.axios.com/2026/03/30/elon-musk-openai-altman-anthropic)**
+
+Axios • 8h ago
+
+---
+
+**[2026 NCAA tournament, odds: We had AI pick the men's Final Four games. Here's who won (and covered)](https://sports.yahoo.com/mens-college-basketball/betting/article/2026-ncaa-tournament-odds-we-had-ai-pick-the-mens-final-four-games-heres-who-won-and-covered-140535681.html)**
+
+We asked AI to predict the Final Four of the men's tournament. Which teams covered?
+
+Yahoo Sports • 4h ago
 
 ---
 
@@ -163,35 +189,7 @@ IBM • 8m ago
 
 Mistral is one of the few European startups building foundational AI models.
 
-CNBC • 10h ago
-
----
-
-**[Mistral AI Raises $830 Million in Debt For Nvidia-Powered Data Center](https://www.wsj.com/tech/ai/mistral-ai-raises-830-million-in-debt-for-nvidia-powered-data-center-deef4822?gaa_at=eafs&gaa_n=AWEtsqc_tXo-JLIFtVOTdbtZahoUUOy0SYenUAWUbeX-7RJfRLtqMZEsWoxv&gaa_ts=69cab637&gaa_sig=4iaF6tolECdW9pn5sQIIpAHQdmBO2E9sLywzOxjxll8yQi_WxikNzca62dhRSDHvndq00cs6jDm5NSgo8NxQnQ%3D%3D)**
-
-WSJ • 7h ago
-
----
-
-**[Mistral AI Raises $830M in Debt for Data Center Play](https://www.datacenterknowledge.com/build-design/mistral-ai-raises-830m-in-debt-for-data-center-play)**
-
-The French company said it will use the funds toward its effort to build out 200 megawatts of capacity across Europe.
-
-Data Center Knowledge • 23m ago
-
----
-
-**[Dell's CFO is using AI agents to run his finance team—and has helped the AI business go from $0 to $25 billion](https://fortune.com/2026/03/30/dells-cfo-is-using-ai-agents-to-run-his-finance-team-and-has-helped-the-ai-business-go-from-0-to-25-billion/)**
-
-David Kennedy discusses the company’s record-breaking year.
-
-Fortune • 9h ago
-
----
-
-**[New Political Group to Push Trump’s A.I. Agenda in Midterms](https://www.nytimes.com/2026/03/29/business/trump-artificial-intelligence-pac-midterms.html)**
-
-The New York Times • 22h ago
+CNBC • 11h ago
 
 ---
 
@@ -201,7 +199,7 @@ The New York Times • 22h ago
 
 **[AI overly affirms users asking for personal advice](https://news.ycombinator.com/item?id=47554773)**
 
-⬆️ 780 • 💬 608 • 2d ago • [news.stanford.edu](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
+⬆️ 780 • 💬 607 • 2d ago • [news.stanford.edu](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
 
 ---
 
@@ -209,21 +207,7 @@ The New York Times • 22h ago
 
 A Tennessee grandmother spent more than five months in jail after police used an AI facial recognition tool to link her to crimes committed in North Dakota – a state she says she’d never been to before. Police in Fargo, North Dakota, have acknowledged “a few errors” in the case and pledged changes in their operations but stopped short of issuing a direct apology.
 
-⬆️ 422 • 💬 187 • 1d ago • [CNN](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
-
----
-
-**[Miasma: A tool to trap AI web scrapers in an endless poison pit](https://news.ycombinator.com/item?id=47561819)**
-
-Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma development by creating an account on GitHub.
-
-⬆️ 331 • 💬 243 • 1d ago • [GitHub](https://github.com/austin-weeks/miasma)
-
----
-
-**[CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering](https://news.ycombinator.com/item?id=47552562)**
-
-⬆️ 326 • 💬 147 • 2d ago • [theopenreader.org](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
+⬆️ 424 • 💬 187 • 1d ago • [CNN](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
 
 ---
 
@@ -231,7 +215,21 @@ Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma
 
 The catalysts for a crash are already laid out, and it can happen sooner than most expect. AI is here to stay. If used right, chances are it will make us all more productive. That, on the other hand, does not mean it will be a good investment. Big tech doesn’t need to win, just outspend Magnificent 7 companies are increasing capex to their biggest ever to differentiate their tech from each other and the big AI labs, but the key realization is that they don’t have to spend it to win. It’s a defensive move for them, if they commit $50B, OpenAI and Anthropic need to go raise $100B each to stay competitive, which makes them reliant on investors’ money. As the numbers get bigger, the amount of funds that can write checks of the size required to fill such amounts gets smaller. And many of them are now getting bombed in the Gulf. This is the reason there’s a push for IPOs, it’s because it’s the only option left to keep the funding coming. Taking this into account, Google is extremely well positioned to weather the storm. When they announce capex expenditure, they don’t spend it overnight. They can simply deploy month by month until their competitors struggle to raise and get forced to capitulate. At that point they can just ramp down the spending and declare victory in a cornered market. They don’t need capex, they just need to make it very clear for everyone that nobody can outspend them. It is hard to picture as numbers get so big, but Alphabet (Google’s parent) is ten times more valuable than the biggest military company 1. This also has a great implication for the Mag 7, especially Google: their capex will be a lot smaller in practice than projected, and as investors hate to see high capex in tech, the market will probably reward that if it materializes. As of March 2026, Alphabet’s market cap is ~$2T while Lockheed Martin’s is ~$120B. ↩
 
-⬆️ 324 • 💬 389 • 5h ago • [Volpe’s Blog](https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/)
+⬆️ 337 • 💬 412 • 6h ago • [Volpe’s Blog](https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/)
+
+---
+
+**[Miasma: A tool to trap AI web scrapers in an endless poison pit](https://news.ycombinator.com/item?id=47561819)**
+
+Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma development by creating an account on GitHub.
+
+⬆️ 335 • 💬 243 • 1d ago • [GitHub](https://github.com/austin-weeks/miasma)
+
+---
+
+**[CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering](https://news.ycombinator.com/item?id=47552562)**
+
+⬆️ 326 • 💬 147 • 2d ago • [theopenreader.org](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
 
 ---
 
@@ -245,7 +243,7 @@ The catalysts for a crash are already laid out, and it can happen sooner than mo
 
 **[Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem](https://news.ycombinator.com/item?id=47557166)**
 
-⬆️ 256 • 💬 178 • 1d ago • [X (formerly Twitter)](https://twitter.com/BoWang87/status/2037648937453232504)
+⬆️ 256 • 💬 179 • 1d ago • [X (formerly Twitter)](https://twitter.com/BoWang87/status/2037648937453232504)
 
 ---
 
@@ -253,13 +251,13 @@ The catalysts for a crash are already laid out, and it can happen sooner than mo
 
 A personal blog, by a programmer and IT expert. Essays, Articles, Guides, and Recipes. As well as Code, Quotes, and Links.
 
-⬆️ 213 • 💬 145 • 1d ago • [lzon.ca](https://lzon.ca/posts/other/thoughts-ai-era/)
+⬆️ 213 • 💬 144 • 1d ago • [lzon.ca](https://lzon.ca/posts/other/thoughts-ai-era/)
 
 ---
 
 **[What if AI doesn't need more RAM but better math?](https://news.ycombinator.com/item?id=47561297)**
 
-⬆️ 180 • 💬 95 • 1d ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more)
+⬆️ 182 • 💬 96 • 1d ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more)
 
 ---
 
@@ -269,7 +267,7 @@ Artificial intelligence (AI) is the name popularly given to a broad spectrum of 
   In this paper, we consider the rapidly evolving impact of AI to the traditional questions of philosophy
   with an emphasis on its application in mathematics and on the broader real-world outcomes of its more general use. We assert that artificial intelligence is a natural evolution of human tools developed throughout history to facilitate the creation, organization, and dissemination of ideas, and argue that it is paramount that the development and application of AI remain fundamentally human-centered. With an eye toward innovating solutions to meet human needs, enhancing the human quality of life and expanding the capacity for human thought and understanding, we propose a pathway to integrating AI into our most challenging and intellectually rigorous fields to the benefit of all humankind.
 
-⬆️ 147 • 💬 51 • 6h ago • [arXiv.org](https://arxiv.org/abs/2603.26524)
+⬆️ 158 • 💬 58 • 7h ago • [arXiv.org](https://arxiv.org/abs/2603.26524)
 
 ---
 
@@ -283,7 +281,7 @@ Best AI Agent is Base44 https://base44.pxf.io/c/6440076/3820726/25619?trafcat=ag
 
 📺 Mikey No Code
 
-👁️ 8K • 💬 6 • ⏱️ 26:48 • 3h ago
+👁️ 8K • 💬 6 • ⏱️ 26:48 • 5h ago
 
 ---
 
@@ -293,7 +291,7 @@ Anthropic accidentally exposed Claude MYTHOS, its most powerful AI yet, Meta unv
 
 📺 AI Revolution
 
-👁️ 29K • 👍 888 • 💬 53 • ⏱️ 12:51 • 17h ago
+👁️ 29K • 👍 888 • 💬 53 • ⏱️ 12:51 • 18h ago
 
 ---
 
@@ -303,7 +301,7 @@ Try Accio 2.0 here to find product ideas and suppliers faster:https://www.accio.
 
 📺 Skill Leap AI
 
-👁️ 743 • 👍 59 • 💬 1 • ⏱️ 17:26 • 2h ago
+👁️ 743 • 👍 59 • 💬 1 • ⏱️ 17:26 • 3h ago
 
 ---
 
@@ -323,7 +321,7 @@ I got calls from people inside of some of the AI labs,” says technology ethici
 
 📺 Talk Easy with Sam Fragoso
 
-👁️ 3K • 👍 91 • 💬 29 • ⏱️ 1:25:03 • 23h ago
+👁️ 3K • 👍 91 • 💬 29 • ⏱️ 1:25:03 • 1d ago
 
 ---
 
@@ -363,7 +361,7 @@ This video was made by humans. I've disabled ads on it, so if you'd like to supp
 
 📺 IMPERIAL
 
-👁️ 62K • 👍 7K • 💬 528 • ⏱️ 7:53 • 7h ago
+👁️ 62K • 👍 7K • 💬 528 • ⏱️ 7:53 • 8h ago
 
 ---
 
@@ -373,7 +371,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 49K • 👍 2K • 💬 383 • ⏱️ 22:21 • 23h ago
+👁️ 49K • 👍 2K • 💬 383 • ⏱️ 22:21 • 1d ago
 
 ---
 
@@ -401,7 +399,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 28,233 • ❤️ 549 • 8h ago
+⬇️ 28,233 • ❤️ 549 • 9h ago
 
 ---
 
@@ -437,7 +435,7 @@ Context-1 is a 20B parameter agentic search model that decomposes complex querie
 
 `text-generation` `20.9B`
 
-⬇️ 1,450 • ❤️ 277 • 16h ago
+⬇️ 1,450 • ❤️ 277 • 17h ago
 
 ---
 
@@ -671,7 +669,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 9.2k • 🔱 761 • 56m ago
+⭐ 9.2k • 🔱 761 • 2h ago
 
 ---
 
@@ -691,7 +689,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 6.2k • 🔱 734 • 10h ago
+⭐ 6.2k • 🔱 734 • 12h ago
 
 ---
 
@@ -701,7 +699,7 @@ A command-line tool for Lark/Feishu Open Platform — built for humans and AI Ag
 
 `Go`
 
-⭐ 4.6k • 🔱 211 • 2h ago
+⭐ 4.6k • 🔱 211 • 3h ago
 
 ---
 
