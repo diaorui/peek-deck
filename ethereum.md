@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-30T19:56:08.766378+00:00'
+updated: '2026-03-30T20:49:15.815451+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - cryptocurrency
 - news
 - social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 30, 2026 at 19:56 UTC  
+**Last Updated:** March 30, 2026 at 20:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-357/) • 9h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-357/) • 10h ago
 
 ---
 
@@ -112,7 +112,7 @@ Effective March 25, 2026, Pier Two Holdings Pty Ltd has been wholly acquired by 
 
 I Built a Privacy-Preserving Bitcoin transaction Receipt Verifier (No KYC, No Screenshots, No wallet). https://github.com/Teycir/Ghostreceipt Would like to have feedback.
 
-2d ago
+3d ago
 
 ---
 
@@ -172,7 +172,7 @@ The Block • 1d ago
 
 Ethereum funds took the biggest hit as Clarity Act fears and macro headwinds pushed crypto outflows to $414 million for the week.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 2h ago
 
 Aave Labs on Monday launched Aave v4, a redesigned version of its $24 billion predecessor, Aave v3.  V4 will run alongside v3, Aave Labs executives stressed.  V4 introduces what Labs calls a hub-and-spoke model in which hubs serve as liquidity pools and spokes serve as tailored lending markets.
 
-Yahoo Finance • 25m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -188,7 +188,7 @@ Yahoo Finance • 25m ago
 
 BitMine continued its Ethereum accumulation, adding to its leading ETH treasury while Strategy took a week off from Bitcoin purchases.
 
-Decrypt • 5h ago
+Decrypt • 6h ago
 
 ---
 
@@ -204,7 +204,7 @@ The Motley Fool • 2d ago
 
 Bitmine has 3,142,643 staked ETH, representing $6.3 billion at $2,005 per ETH MAVAN (Made in America VAlidator Network) launched staking solution on March 25,...
 
-PR Newswire • 7h ago
+PR Newswire • 8h ago
 
 ---
 
@@ -242,7 +242,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 Elvis Nash
 
-👁️ 2K • 👍 1K • 31m ago
+👁️ 2K • 👍 1K • 1h ago
 
 ---
 
@@ -252,7 +252,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 The Boss Barber - Yudi
 
-👁️ 2K • 👍 1K • 19m ago
+👁️ 2K • 👍 1K • 1h ago
 
 ---
 
@@ -262,7 +262,7 @@ New data shows the future of markets and crypto in general. Its important for bi
 
 📺 Thomas Kralow
 
-👁️ 13K • 👍 2K • 💬 69 • ⏱️ 11:48 • 8h ago
+👁️ 13K • 👍 2K • 💬 69 • ⏱️ 11:48 • 9h ago
 
 ---
 
@@ -282,7 +282,7 @@ If you hold Bitcoin or Ethereum... watch this! (alert!) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 2K • 💬 291 • ⏱️ 9:24 • 23h ago
+👁️ 44K • 👍 2K • 💬 291 • ⏱️ 9:24 • 1d ago
 
 ---
 
@@ -292,7 +292,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 74 • 💬 9 • ⏱️ 3:53 • 7h ago
+👁️ 1K • 👍 74 • 💬 9 • ⏱️ 3:53 • 8h ago
 
 ---
 
@@ -302,7 +302,7 @@ Joseph Chalom, CEO of SharpLink, joined me to discuss the company's Ethereum tre
 
 📺 Thinking Crypto
 
-👁️ 1K • 👍 110 • 💬 143 • ⏱️ 55:54 • 7h ago
+👁️ 1K • 👍 110 • 💬 143 • ⏱️ 55:54 • 8h ago
 
 ---
 
@@ -322,7 +322,7 @@ At the Digital Asset Summit 2026 in New York, a key question came up: what do ba
 
 📺 Learn Cardano
 
-👁️ 2K • 👍 293 • 💬 45 • ⏱️ 10:53 • 8h ago
+👁️ 2K • 👍 293 • 💬 45 • ⏱️ 10:53 • 9h ago
 
 ---
 
@@ -332,7 +332,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 122 • 👍 14 • ⏱️ 25:42 • 1h ago
+👁️ 122 • 👍 14 • ⏱️ 25:42 • 2h ago
 
 ---
 

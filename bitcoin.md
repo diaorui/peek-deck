@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-30T19:56:08.760421+00:00'
+updated: '2026-03-30T20:49:15.809545+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - cryptocurrency
 - news
 - social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 30, 2026 at 19:56 UTC  
+**Last Updated:** March 30, 2026 at 20:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Applying for a job during the bear market](https://www.reddit.com/r/Bitcoin/comments/1s7nly6/applying_for_a_job_during_the_bear_market/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 when bitcoin hovers right at a previous cycle's all-time high instead of getting slapped down, it shows that buyers are stepping up and easily eating all the sell pressure. grinding sideways at the ultimate ceiling builds a massive launchpad for price discovery, because once it breaks through, there is zero historical resistance left to hold it back. with the post-halving supply shock in full effect, holding this exact line has historically been the ultimate springboard for a parabolic run.
 
-12h ago
+13h ago
 
 ---
 
@@ -103,13 +103,13 @@ just wondering what everyone's timeline looks like for actually cashing out or i
 
 Hi all, we just hit a brand new all-time-high on the 200 week moving average. Just like every day in the past 14 years. Remember that this is a marathon. Cut the short term noise!
 
-8h ago
+9h ago
 
 ---
 
 **[Its been rough lately](https://www.reddit.com/r/Bitcoin/comments/1s7pjk8/its_been_rough_lately/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -117,7 +117,7 @@ Hi all, we just hit a brand new all-time-high on the 200 week moving average. Ju
 
 Morgan Stanley’s Bitcoin exchange-traded fund appears set for an imminent launch, according to a leading ETF analyst. Bloomberg analyst James Seyffart says the bank is clearly not messing around with its spot bitcoin ETF, which will feature the ticker MSBT. “WOW. We have the fee on Morgan Stanley’s spot bitcoin ETF $MSBT. Will charge just 0.14%!!! Big move here.” The fee will significantly undercut BlackRock’s flagship Bitcoin ETF, which charges 0.25%. Morgan Stanley’s Bitcoin ETF is the first from a major US bank. The lender has 16,000 advisors selling its investment products, and holds about $1.9 trillion in assets under management (AUM) within its Investment Management division.
 
-🔗 [The Daily Hodl](https://dailyhodl.com/2026/03/30/morgan-stanleys-bitcoin-etf-likely-to-launch-early-next-month-bloomberg-analyst/) • 8h ago
+🔗 [The Daily Hodl](https://dailyhodl.com/2026/03/30/morgan-stanleys-bitcoin-etf-likely-to-launch-early-next-month-bloomberg-analyst/) • 9h ago
 
 ---
 
@@ -125,7 +125,7 @@ Morgan Stanley’s Bitcoin exchange-traded fund appears set for an imminent laun
 
 Lets go!
 
-6h ago
+7h ago
 
 ---
 
@@ -139,7 +139,7 @@ Lets go!
 
 been dollar cost averaging for about 2.5 years now and this recent pullback let me reach 2 whole coins sooner than i thought. originally figured i wouldn't get there until around december. perfect time to stack more while prices are down. anyone else taking advantage of these levels? (already know about teh dm scammers so don't bother)
 
-20h ago
+21h ago
 
 ---
 
@@ -147,7 +147,7 @@ been dollar cost averaging for about 2.5 years now and this recent pullback let 
 
 I have the option of either going all in on bitcoin or spreading the amount equally over next 7 months until the October rise according to the 4 year cycle. Could I ask what you would suggest would be the best strategy? In not sure if it will keep dropping or this is the bottom, I know that it’s impossible to know if this is the bottom, or equally if it will go higher out lower from here but thought I’d ask the forum to get the consensus.
 
-10h ago
+11h ago
 
 ---
 
@@ -167,7 +167,7 @@ NBC News • 2d ago
 
 Analysts said the prolonged U.S.-Iran conflict keeps inflation fears elevated, weighing on crypto investor sentiment.
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Block • 16h ago
 
 Trump said "great progress" had been made toward ending the war, but warned the U.S. would "obliterate" Iran's power plants, oil wells and Kharg Island if a deal isn't reached shortly.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -183,7 +183,7 @@ CoinDesk • 3h ago
 
 Digital assets might still be in 'winter,' but they have not gone as volatile as traditional assets
 
-Nikkei Asia • 22h ago
+Nikkei Asia • 23h ago
 
 ---
 
@@ -191,7 +191,7 @@ Nikkei Asia • 22h ago
 
 Millions of U.S. businesses can now accept bitcoin with instant dollar conversion and no added setup.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -199,7 +199,7 @@ CoinDesk • 1h ago
 
 The company seemed to have skipped it's weekly bitcoin purchase announcement for the first time since late december.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -207,7 +207,7 @@ CoinDesk • 10h ago
 
 Strategy's holdings account for more than 3.6% of the total 21 million bitcoin supply — worth around $52 billion.
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -215,7 +215,7 @@ The Block • 7h ago
 
 Strategy, the largest public Bitcoin BITSTAMP:BTCUSD treasury company, reported no additional purchases of the cryptocurrency last week as many entities are pivoting into alternative methods for revenue.In a Monday filing with the US Securities and Exchange Commission (SEC), Michael Saylor-led Stra…
 
-tradingview.com • 1h ago
+tradingview.com • 2h ago
 
 ---
 
@@ -223,13 +223,13 @@ tradingview.com • 1h ago
 
 MARA Holdings sold 15,133 Bitcoin between March 4 and March 25 for approximately $1.1 billion, using the proceeds to repurchase roughly $1 billion of its convertible notes due 2030 and 2031. The sale slashed MARA’s holdings by about 28%. The...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Trump Declares ‘Crypto Revolution’—Issues A Surprise Prediction As The Bitcoin Price Swings](https://www.forbes.com/sites/digital-assets/2026/03/30/trump-declares-crypto-revolution-issues-a-powerful-surprise-prediction-as-the-bitcoin-price-swings/)**
 
-Forbes • 6h ago
+Forbes • 7h ago
 
 ---
 
@@ -241,7 +241,7 @@ Forbes • 6h ago
 
 The complete workflow: unsigned transaction, air gap transfer, offline signing, broadcast. Plus PSBT, Dark Skippy, and the key-at-rest problem.
 
-⬆️ 3 • 💬 1 • 56m ago • [Frozen Security](https://frozensecurity.com/blog/how-offline-bitcoin-signing-works/)
+⬆️ 3 • 💬 1 • 1h ago • [Frozen Security](https://frozensecurity.com/blog/how-offline-bitcoin-signing-works/)
 
 ---
 
@@ -269,13 +269,13 @@ Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes
 
 Agent-native inference engine with O(1) fork latency for tree-structured reasoning - BioInfo/dendrite
 
-⬆️ 3 • 💬 1 • 5h ago • [GitHub](https://github.com/BioInfo/dendrite)
+⬆️ 3 • 💬 1 • 6h ago • [GitHub](https://github.com/BioInfo/dendrite)
 
 ---
 
 **[Uni feels so usless, I cant focus anymore](https://news.ycombinator.com/item?id=47567925)**
 
-⬆️ 7 • 💬 3 • 21h ago
+⬆️ 7 • 💬 3 • 22h ago
 
 ---
 
@@ -289,7 +289,7 @@ Bitcoin #Crypto #Finance Bitcoin may be entering its biggest macro shift yet as 
 
 📺 The Wolf Of All Streets
 
-👁️ 15K • 👍 933 • 💬 255 • ⏱️ 1:04:46 • 5h ago
+👁️ 15K • 👍 933 • 💬 255 • ⏱️ 1:04:46 • 6h ago
 
 ---
 
@@ -299,7 +299,7 @@ The market looks calm on the surface but the cracks are getting worse. From glob
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 136 • ⏱️ 12:24 • 21h ago
+👁️ 20K • 👍 1K • 💬 136 • ⏱️ 12:24 • 22h ago
 
 ---
 
@@ -309,7 +309,7 @@ If you hold Bitcoin or Ethereum... watch this! (alert!) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 2K • 💬 291 • ⏱️ 9:24 • 23h ago
+👁️ 44K • 👍 2K • 💬 291 • ⏱️ 9:24 • 1d ago
 
 ---
 
@@ -339,7 +339,7 @@ The risk models that say when to accumulate or exit HERE. Free trial https://app
 
 📺 Dan Gambardello
 
-👁️ 14K • 👍 779 • 💬 246 • ⏱️ 13:41 • 20h ago
+👁️ 14K • 👍 779 • 💬 246 • ⏱️ 13:41 • 21h ago
 
 ---
 
@@ -359,7 +359,7 @@ Bitcoin is starting to lose strength as it moves back in line with broader risk 
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 1K • 💬 21 • ⏱️ 14:36 • 6h ago
+👁️ 12K • 👍 1K • 💬 21 • ⏱️ 14:36 • 7h ago
 
 ---
 
@@ -369,7 +369,7 @@ Ledger CEO Pascal Gauthier discusses Bitcoin's price decline, volatility across 
 
 📺 Fox Business Clips
 
-👁️ 16K • 👍 586 • 💬 151 • ⏱️ 9:10 • 5h ago
+👁️ 16K • 👍 586 • 💬 151 • ⏱️ 9:10 • 6h ago
 
 ---
 
