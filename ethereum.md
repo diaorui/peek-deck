@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-30T14:50:03.578541+00:00'
+updated: '2026-03-30T16:06:31.999086+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- social
+- news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 30, 2026 at 14:50 UTC  
+**Last Updated:** March 30, 2026 at 16:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,049.91
+### $2,070.42
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.9%  
-**7d:** -4.8%  
-**30d:** +5.9%  
-**90d:** -30.9%  
-**1y:** +12.4%  
+**24h:** +3.6%  
+**7d:** -4.1%  
+**30d:** +6.7%  
+**90d:** -30.4%  
+**1y:** +13.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-357/) • 4h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-357/) • 5h ago
 
 ---
 
@@ -156,7 +156,7 @@ Source: https://www.coingecko.com/learn/real-world-assets-rwa-buy-on-chain RWAs 
 
 The project is designed to make Ethereum’s many layer 2s work together more seamlessly.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 23h ago
 
 The Ethereum Foundation is co-funding the "easy" initiative, which was announced at EthCC in Cannes, and partners include Aave, Titan, Centrifuge, and more.
 
-The Block • 23h ago
+theblock.co • 1d ago
 
 ---
 
@@ -172,13 +172,7 @@ The Block • 23h ago
 
 Bitcoin and ethereum opened at $65,957.60 and $1,982.74, respectively, on Monday, nearly even with Sunday’s closing prices. The value of both cryptocurrencies rose in early trading.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin Price Is Rising. Why XRP and Ethereum Are Climbing, Too.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-cryptos-ffbcc0ef?gaa_at=eafs&gaa_n=AWEtsqfMrcRbjVjLl8Vcj7XrFNItr5Y4wcS8Zwapvsj52TpBOEQzv8nWM8V2&gaa_ts=69ca90ea&gaa_sig=hUdeXqsf1JA-SF7qeJQxHBgVoHBqNU9W7Xl9yrHe3A0vbPBvDruxyhAQJmHQT3aWJFUva9rTM4sxfFDQ6UikZw%3D%3D)**
-
-Barron's • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -186,15 +180,15 @@ Barron's • 3h ago
 
 Decentralized finance (DeFi) lending platform Aave has launched its V4 protocol on Ethereum after a binding onchain governance vote cleared its deployment. On Monday, Aave announced the launch of its V4 protocol on Ethereum, introducing infrastructure designed to “expand onchain markets into real-w…
 
-TradingView • 1h ago
+TradingView • 3h ago
 
 ---
 
-**[Current price of Ethereum for March 30, 2026](https://fortune.com/article/price-of-ethereum-03-30-2026/)**
+**[Aave V4 launches on Ethereum mainnet with 'hub-and-spoke' architecture](https://www.theblock.co/post/395617/aave-v4-launches-ethereum-mainnet)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Aave V4 features a hub-and-spoke architecture that concentrates liquidity to supply a wider range of markets and use cases with credit lines.
 
-Fortune • 1h ago
+theblock.co • 3h ago
 
 ---
 
@@ -206,23 +200,31 @@ The Motley Fool • 2d ago
 
 ---
 
+**[Current price of Ethereum for March 30, 2026](https://fortune.com/article/price-of-ethereum-03-30-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 3h ago
+
+---
+
 **[What’s on the Ethereum Roadmap: Glamsterdam, Hegota and Beyond](https://decrypt.co/resources/whats-on-ethereum-roadmap-glamsterdam-hegota-beyond)**
 
 Ethereum has rolled out a steady stream of upgrades since 2022. Here’s how those changes fit together—and what’s still ahead.
 
-Decrypt • 22h ago
+Decrypt • 1d ago
 
 ---
 
-**[Ethereum Becomes Backbone of Tokenization — 61% Market Share, $206B Settled, 40% Growth in a Year](https://www.ccn.com/news/crypto/ethereum-backbone-of-tokenization-61-market-206b-settled-40-growth-in-a-year/)**
+**[Ethereum Foundation’s Biggest Stake Ever May Not Stop ETH From Falling Under $1,700](https://www.ccn.com/analysis/crypto/ethereum-foundations-biggest-stake-not-stop-eth-falling/)**
 
-ccn.com • 6h ago
+ccn.com • 2h ago
 
 ---
 
 **[Ethereum Nerves Show as Grayscale Mini Trust Bleeds $6.2 Million in Fresh Outflows](https://www.tipranks.com/news/cryptocurrencies/ethereum-nerves-show-as-grayscale-mini-trust-bleeds-6-2-million-in-fresh-outflows)**
 
-TipRanks • 4h ago
+TipRanks • 5h ago
 
 ---
 
@@ -236,7 +238,7 @@ New data shows the future of markets and crypto in general. Its important for bi
 
 📺 Thomas Kralow
 
-👁️ 6K • 👍 373 • 💬 80 • ⏱️ 11:48 • 3h ago
+👁️ 6K • 👍 373 • 💬 80 • ⏱️ 11:48 • 4h ago
 
 ---
 
@@ -246,7 +248,7 @@ If you hold Bitcoin or Ethereum... watch this! (alert!) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 228 • ⏱️ 9:24 • 18h ago
+👁️ 40K • 👍 2K • 💬 228 • ⏱️ 9:24 • 19h ago
 
 ---
 
@@ -256,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 563 • 👍 53 • ⏱️ 3:53 • 2h ago
+👁️ 563 • 👍 53 • ⏱️ 3:53 • 3h ago
 
 ---
 
@@ -276,7 +278,7 @@ Joseph Chalom, CEO of SharpLink, joined me to discuss the company's Ethereum tre
 
 📺 Thinking Crypto
 
-👁️ 496 • 👍 64 • 💬 231 • ⏱️ 55:54 • 2h ago
+👁️ 496 • 👍 64 • 💬 231 • ⏱️ 55:54 • 4h ago
 
 ---
 
@@ -286,7 +288,7 @@ At the Digital Asset Summit 2026 in New York, a key question came up: what do ba
 
 📺 Learn Cardano
 
-👁️ 871 • 👍 176 • 💬 14 • ⏱️ 10:53 • 3h ago
+👁️ 871 • 👍 176 • 💬 14 • ⏱️ 10:53 • 5h ago
 
 ---
 
@@ -296,7 +298,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 182 • 👍 12 • ⏱️ 5:12 • 4h ago
+👁️ 182 • 👍 12 • ⏱️ 5:12 • 5h ago
 
 ---
 
@@ -306,7 +308,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 93 • 💬 17 • ⏱️ 3:28 • 15h ago
+👁️ 2K • 👍 93 • 💬 17 • ⏱️ 3:28 • 16h ago
 
 ---
 
@@ -326,7 +328,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 105 • ⏱️ 6:53 • 12h ago
+👁️ 1K • 👍 105 • ⏱️ 6:53 • 13h ago
 
 ---
 

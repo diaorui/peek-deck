@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-30T14:50:03.572179+00:00'
+updated: '2026-03-30T16:06:31.993152+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- social
+- news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 30, 2026 at 14:50 UTC  
+**Last Updated:** March 30, 2026 at 16:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,856.16
+### $67,849.40
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** -4.8%  
-**30d:** +2.3%  
-**90d:** -23.4%  
-**1y:** -18.5%  
+**24h:** +1.5%  
+**7d:** -4.5%  
+**30d:** +2.6%  
+**90d:** -23.2%  
+**1y:** -18.3%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 when bitcoin hovers right at a previous cycle's all-time high instead of getting slapped down, it shows that buyers are stepping up and easily eating all the sell pressure. grinding sideways at the ultimate ceiling builds a massive launchpad for price discovery, because once it breaks through, there is zero historical resistance left to hold it back. with the post-halving supply shock in full effect, holding this exact line has historically been the ultimate springboard for a parabolic run.
 
-7h ago
+8h ago
 
 ---
 
 **[Applying for a job during the bear market](https://www.reddit.com/r/Bitcoin/comments/1s7nly6/applying_for_a_job_during_the_bear_market/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -95,7 +95,13 @@ when bitcoin hovers right at a previous cycle's all-time high instead of getting
 
 Morgan Stanley’s Bitcoin exchange-traded fund appears set for an imminent launch, according to a leading ETF analyst. Bloomberg analyst James Seyffart says the bank is clearly not messing around with its spot bitcoin ETF, which will feature the ticker MSBT. “WOW. We have the fee on Morgan Stanley’s spot bitcoin ETF $MSBT. Will charge just 0.14%!!! Big move here.” The fee will significantly undercut BlackRock’s flagship Bitcoin ETF, which charges 0.25%. Morgan Stanley’s Bitcoin ETF is the first from a major US bank. The lender has 16,000 advisors selling its investment products, and holds about $1.9 trillion in assets under management (AUM) within its Investment Management division.
 
-🔗 [The Daily Hodl](https://dailyhodl.com/2026/03/30/morgan-stanleys-bitcoin-etf-likely-to-launch-early-next-month-bloomberg-analyst/) • 3h ago
+🔗 [The Daily Hodl](https://dailyhodl.com/2026/03/30/morgan-stanleys-bitcoin-etf-likely-to-launch-early-next-month-bloomberg-analyst/) • 4h ago
+
+---
+
+**[Its been rough lately](https://www.reddit.com/r/Bitcoin/comments/1s7pjk8/its_been_rough_lately/)**
+
+3h ago
 
 ---
 
@@ -109,7 +115,7 @@ Morgan Stanley’s Bitcoin exchange-traded fund appears set for an imminent laun
 
 been dollar cost averaging for about 2.5 years now and this recent pullback let me reach 2 whole coins sooner than i thought. originally figured i wouldn't get there until around december. perfect time to stack more while prices are down. anyone else taking advantage of these levels? (already know about teh dm scammers so don't bother)
 
-15h ago
+16h ago
 
 ---
 
@@ -117,7 +123,7 @@ been dollar cost averaging for about 2.5 years now and this recent pullback let 
 
 I have the option of either going all in on bitcoin or spreading the amount equally over next 7 months until the October rise according to the 4 year cycle. Could I ask what you would suggest would be the best strategy? In not sure if it will keep dropping or this is the bottom, I know that it’s impossible to know if this is the bottom, or equally if it will go higher out lower from here but thought I’d ask the forum to get the consensus.
 
-5h ago
+6h ago
 
 ---
 
@@ -125,7 +131,7 @@ I have the option of either going all in on bitcoin or spreading the amount equa
 
 Whenever I suggest to look into Bitcoin I'm treated like a snake oil salesman or ignored altogether. So many people are drowning and it doesn't feel like enough people are catching on. It's been like this for a while now and doesn't look like anything will change. Oh well. Stay humble and stack, I guess.
 
-15h ago
+16h ago
 
 ---
 
@@ -133,13 +139,7 @@ Whenever I suggest to look into Bitcoin I'm treated like a snake oil salesman or
 
 I’d say DCA is by far the most advocated strategy on this sub. But it's common to see people suggesting adjustments to it. The goal is usually to buy more Bitcoin during dips, creating some form of “Dynamic DCA” based on indicators like drawdown. Although many people here are against changing the sacred DCA strategy, I think Dynamic DCA has its place. I mean, even River introduced “Supercharged” recurring buys, which is essentially a type of Dynamic DCA. So I decided to build a backtesting tool to see if Dynamic DCA is actually worth it. https://preview.redd.it/unzg55oxg2sg1.png?width=1881&format=png&auto=webp&s=b8888de6a48318a0b2b24bb73317edfbf7429f15 In this test I’m comparing two strategies over the last 4 years: a regular weekly DCA buy of $300 and a Dynamic DCA strategy based on drawdowns that works like this: - Base buy: $100 - Drawdown >= 25%: $300 - Drawdown >= 50%: $600 The result is impressive. The Dynamic DCA strategy almost doubles the return compared to the regular DCA. While the regular strategy ends up with around $103k and 1.55 BTC, the Dynamic version reaches about $153k and 2.31 BTC. All that while investing roughly the same amount of money. If you want to try it yourself and share some feedback, feel free to test it here. You can also experiment with other indicators like Fear & Greed or the Mayer Multiple.
 
-15h ago
-
----
-
-**[Its been rough lately](https://www.reddit.com/r/Bitcoin/comments/1s7pjk8/its_been_rough_lately/)**
-
-2h ago
+16h ago
 
 ---
 
@@ -147,7 +147,7 @@ I’d say DCA is by far the most advocated strategy on this sub. But it's common
 
 If all places accept Bitcoin, the adoption will be extremely fast. Walmart has it on the app, CashApp has it and if you go to Stake and Shake you can pay with Bitcoin and order your Bitcoin Stake burger. It would be nice if all places have something related to Bitcoin for purchases made on Bitcoin. Great idea and Stake and Shake is ahead of the game. Do you have a favorite restaurant that you will love do this?
 
-18h ago
+19h ago
 
 ---
 
@@ -163,11 +163,11 @@ NBC News • 2d ago
 
 ---
 
-**[Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week](https://finance.yahoo.com/markets/crypto/articles/why-crypto-crashing-bitcoin-xrp-140126480.html)**
+**[Bitcoin rises as Trump says U.S. in talks with 'new regime' in Iran, threatens oil infrastructure if deal fails](https://www.coindesk.com/markets/2026/03/30/bitcoin-jumps-as-trump-says-u-s-in-talks-with-new-regime-in-iran-threatens-oil-infrastructure-if-deal-fails)**
 
-Bitcoin (CRYPTO: BTC), XRP (CRYPTO: XRP), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) are all down 6-8% in a week, and the crypto market has shed over $80 billion in value since March 24. The Fear & Greed Index sits at 23, and the average crypto RSI has dropped to 39—oversold territory that the market ... Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week
+Trump said "great progress" had been made toward ending the war, but warned the U.S. would "obliterate" Iran's power plants, oil wells and Kharg Island if a deal isn't reached shortly.
 
-Yahoo Finance • 2d ago
+CoinDesk • 48m ago
 
 ---
 
@@ -175,13 +175,35 @@ Yahoo Finance • 2d ago
 
 A member of South Korea's “Chilseongpa” crime group has been jailed for eight years after embezzling around $332,000 in Bitcoin. The case expanded into wider ...
 
-yahoo.com • 24m ago
+Yahoo • 1h ago
+
+---
+
+**[Bitcoin (BTC) hashrate falls as miners shift capital to AI infrastructure](https://www.coindesk.com/markets/2026/03/30/bitcoin-hashrate-posts-first-quarter-drop-for-first-time-in-6-years-as-miners-pivot-to-ai)**
+
+The first-quarter decline breaks a long-standing growth trend, but could ultimately support decentralization as public U.S. miners face losing dominance.
+
+CoinDesk • 58m ago
+
+---
+
+**[Trump-Linked American Bitcoin (ABTC) Surpasses 7,000 BTC as Treasury Growth Accelerates; Mining Peer Slides](https://bitcoinmagazine.com/news/trump-linked-abtc-surpasses-7000-btc)**
+
+American Bitcoin Corp. has surpassed 7,000 BTC in corporate reserves, extending its Bitcoin treasury growth following its Nasdaq debut.
+
+Bitcoin Magazine • 2h ago
 
 ---
 
 **[Bitcoin Price Rebounds From Month Low, These Two Miners Form Bases](https://www.investors.com/news/bitcoin-price-rebound-miners-basing-terawulf-hut8-cathie-wood-ark-invest-bullish/)**
 
-Investor's Business Daily • 1h ago
+Investor's Business Daily • 3h ago
+
+---
+
+**[Trump Declares ‘Crypto Revolution’—Issues A Surprise Prediction As The Bitcoin Price Swings](https://www.forbes.com/sites/digital-assets/2026/03/30/trump-declares-crypto-revolution-issues-a-powerful-surprise-prediction-as-the-bitcoin-price-swings/)**
+
+Forbes • 2h ago
 
 ---
 
@@ -189,7 +211,7 @@ Investor's Business Daily • 1h ago
 
 Bitcoin investing for beginners: Learn how to buy cryptocurrency, choose a crypto exchange, and diversify your investment portfolio.
 
-Business Insider • 57m ago
+Business Insider • 2h ago
 
 ---
 
@@ -197,31 +219,7 @@ Business Insider • 57m ago
 
 The new Digital Asset PARITY Act draft would extend wash-sale rules to digital assets while shielding certain regulated payment stablecoins from routine gain-or-loss recognition.
 
-CryptoSlate • 18h ago
-
----
-
-**[Morgan Stanley enters bitcoin ETF race with market-leading low fee](https://www.coindesk.com/markets/2026/03/27/morgan-stanley-enters-bitcoin-etf-race-with-market-leading-low-fee)**
-
-The bank priced its proposed spot bitcoin fund at 14 basis points, making it the lowest fund on the market, if approved.
-
-CoinDesk • 2d ago
-
----
-
-**[Bitcoin ETFs Bleed $290M as ‘Risk-Off’ Mood Deepens](https://decrypt.co/362696/bitcoin-etfs-bleed-290m-as-risk-off-mood-deepens)**
-
-Analysts attribute last week's Bitcoin ETF outflows to geopolitical tensions, fading ceasefire hopes, and end-of-quarter rebalancing.
-
-Decrypt • 9h ago
-
----
-
-**[Cathie Wood's Ark Invest Dumps Meta, Nvidia and Bitcoin ETF Shares in Major Tech Sell-Off](https://finance.yahoo.com/markets/stocks/articles/cathie-woods-ark-invest-dumps-151848814.html)**
-
-Cathie Wood's Ark Invest sold big chunks of its positions in American tech stocks and its own Bitcoin ETF as stocks and crypto slide.
-
-Yahoo Finance • 2d ago
+CryptoSlate • 19h ago
 
 ---
 
@@ -229,7 +227,7 @@ Yahoo Finance • 2d ago
 
 Pierre Rochard, CEO of The Bitcoin Bond Company, warned US banking regulators that their sweeping Basel III capital rewrite leaves unresolved how Bitcoin-related activities should be treated, a gap he says could create legal risk and shape how much capital banks must hold against the asset.In a for…
 
-TradingView • 5h ago
+TradingView • 6h ago
 
 ---
 
@@ -261,13 +259,13 @@ Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes
 
 Agent-native inference engine with O(1) fork latency for tree-structured reasoning - BioInfo/dendrite
 
-⬆️ 3 • 💬 1 • 36m ago • [GitHub](https://github.com/BioInfo/dendrite)
+⬆️ 3 • 💬 1 • 1h ago • [GitHub](https://github.com/BioInfo/dendrite)
 
 ---
 
 **[Uni feels so usless, I cant focus anymore](https://news.ycombinator.com/item?id=47567925)**
 
-⬆️ 7 • 💬 3 • 16h ago
+⬆️ 7 • 💬 3 • 17h ago
 
 ---
 
@@ -281,7 +279,7 @@ If you hold Bitcoin or Ethereum... watch this! (alert!) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 228 • ⏱️ 9:24 • 18h ago
+👁️ 40K • 👍 2K • 💬 228 • ⏱️ 9:24 • 19h ago
 
 ---
 
@@ -291,7 +289,7 @@ The market looks calm on the surface but the cracks are getting worse. From glob
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 121 • ⏱️ 12:24 • 16h ago
+👁️ 18K • 👍 1K • 💬 121 • ⏱️ 12:24 • 17h ago
 
 ---
 
@@ -301,7 +299,7 @@ Bitcoin #Crypto #Finance Bitcoin may be entering its biggest macro shift yet as 
 
 📺 The Wolf Of All Streets
 
-👁️ 5K • 👍 458 • 💬 150 • ⏱️ 1:04:46 • 35m ago
+👁️ 5K • 👍 458 • 💬 150 • ⏱️ 1:04:46 • 1h ago
 
 ---
 
@@ -331,7 +329,7 @@ Learn 50+ years of Real Economics in only 7 weeks. Apply here: https://www.steve
 
 📺 ProfSteveKeen
 
-👁️ 60K • 👍 3K • 💬 594 • ⏱️ 10:57 • 19h ago
+👁️ 60K • 👍 3K • 💬 594 • ⏱️ 10:57 • 21h ago
 
 ---
 
@@ -349,7 +347,7 @@ Clarity act for bitcoin and crypto is turning into a disaster. Follow Eric - htt
 
 📺 Andrei Jikh
 
-👁️ 24K • 👍 871 • 💬 27 • ⏱️ 2:32 • 13h ago
+👁️ 24K • 👍 871 • 💬 27 • ⏱️ 2:32 • 15h ago
 
 ---
 
@@ -369,7 +367,7 @@ Bitcoin is at a critical moment… and almost nobody agrees on what happens next
 
 📺 Crypto Love
 
-👁️ 3K • 👍 245 • 💬 275 • ⏱️ 11:09 • 21h ago
+👁️ 3K • 👍 245 • 💬 275 • ⏱️ 11:09 • 23h ago
 
 ---
 
