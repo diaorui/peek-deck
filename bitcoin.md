@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-30T21:42:49.248194+00:00'
+updated: '2026-03-30T22:37:09.698733+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 30, 2026 at 21:42 UTC  
+**Last Updated:** March 30, 2026 at 22:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1329.27B
+**Market Cap:** $1335.99B
 Rank #1
 
-**Circulating Supply:** 20,009,231 BTC
+**Circulating Supply:** 20,009,275 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--47.3%
+-47.1%
 
 **All-Time Low:** $67.81
-+97844.3%
++98329.4%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Applying for a job during the bear market](https://www.reddit.com/r/Bitcoin/comments/1s7nly6/applying_for_a_job_during_the_bear_market/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 just wondering what everyone's timeline looks like for actually cashing out or if you think btc will eventually replace regular money completely? personally im not touching my stack for like 25+ years minimum, figure by then either ill be rich or it'll be worthless lol. between my doordash runs and game dev work i keep throwing whatever i can spare at it but never plan to sell anytime soon what about you all, got a specific year in mind or just riding it til the wheels fall off?
 
-4h ago
+5h ago
 
 ---
 
@@ -95,7 +95,7 @@ just wondering what everyone's timeline looks like for actually cashing out or i
 
 when bitcoin hovers right at a previous cycle's all-time high instead of getting slapped down, it shows that buyers are stepping up and easily eating all the sell pressure. grinding sideways at the ultimate ceiling builds a massive launchpad for price discovery, because once it breaks through, there is zero historical resistance left to hold it back. with the post-halving supply shock in full effect, holding this exact line has historically been the ultimate springboard for a parabolic run.
 
-13h ago
+14h ago
 
 ---
 
@@ -103,13 +103,13 @@ when bitcoin hovers right at a previous cycle's all-time high instead of getting
 
 Hi all, we just hit a brand new all-time-high on the 200 week moving average. Just like every day in the past 14 years. Remember that this is a marathon. Cut the short term noise!
 
-10h ago
+11h ago
 
 ---
 
 **[Its been rough lately](https://www.reddit.com/r/Bitcoin/comments/1s7pjk8/its_been_rough_lately/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -117,7 +117,7 @@ Hi all, we just hit a brand new all-time-high on the 200 week moving average. Ju
 
 Lets go!
 
-8h ago
+9h ago
 
 ---
 
@@ -125,7 +125,7 @@ Lets go!
 
 I’ve been getting deeper into Bitcoin lately, and I’m starting to notice a gap between how it’s supposed to work (as a form of money) and how people actually use it. Most of what I see is people holding long term, not really spending it unless there’s a specific reason. At the same time, there are tools now that make spending easier than before. So I’m curious how people here personally approach it do you ever actually use it when you can, or do you see it more as something you just accumulate and leave alone?
 
-1h ago
+2h ago
 
 ---
 
@@ -133,7 +133,7 @@ I’ve been getting deeper into Bitcoin lately, and I’m starting to notice a g
 
 Morgan Stanley’s Bitcoin exchange-traded fund appears set for an imminent launch, according to a leading ETF analyst. Bloomberg analyst James Seyffart says the bank is clearly not messing around with its spot bitcoin ETF, which will feature the ticker MSBT. “WOW. We have the fee on Morgan Stanley’s spot bitcoin ETF $MSBT. Will charge just 0.14%!!! Big move here.” The fee will significantly undercut BlackRock’s flagship Bitcoin ETF, which charges 0.25%. Morgan Stanley’s Bitcoin ETF is the first from a major US bank. The lender has 16,000 advisors selling its investment products, and holds about $1.9 trillion in assets under management (AUM) within its Investment Management division.
 
-🔗 [The Daily Hodl](https://dailyhodl.com/2026/03/30/morgan-stanleys-bitcoin-etf-likely-to-launch-early-next-month-bloomberg-analyst/) • 9h ago
+🔗 [The Daily Hodl](https://dailyhodl.com/2026/03/30/morgan-stanleys-bitcoin-etf-likely-to-launch-early-next-month-bloomberg-analyst/) • 10h ago
 
 ---
 
@@ -141,7 +141,7 @@ Morgan Stanley’s Bitcoin exchange-traded fund appears set for an imminent laun
 
 Starting Monday, Square began automatically enabling Bitcoin payments for millions of eligible U.S. small businesses, according to a recent announcement. It is leveraging the Bitcoin Lightning Network and defaulting all merchant settlements to U.S. dollars. Notably, Square is rolling out Bitcoin acceptance with zero additional setup required from the merchants. Miles Suter, Block’s head of Bitcoin product, confirmed the deployment on X, noting that sellers who accept the cryptocurrency will receive fiat currency by default. “We’re making it easier for millions of businesses to accept bitcoin,” Suter stated. “This is how bitcoin as everyday money begins.” It is also worth noting that Square is waiving all processing fees on these transactions through the end of 2026. The sheer scale of the rollout is quite notable. It is targeting an eligible pool of roughly 4 million U.S. merchants that comprise 78% of Square's user base. Square’s infrastructure bypasses the base Bitcoin blockchain in favor of the Lightning Network. The Lightning Network operates as a "Layer 2" protocol built directly on top of the base chain. The Bitcoin blockchain (the main layer) gets engaged when a payment channel is closed. At that point, the network records the final net balance. Square is capable of delivering a checkout experience that can rival the speed of legacy credit cards. However, it is operating on an open, decentralized monetary network. David Marcus, CEO of Lightspark and former President of PayPal, described the integration as a potential “TCP/IP moment” for global financial infrastructure.
 
-🔗 [U.Today](https://u.today/bitcoin-lighting-gets-major-adoption-boost-in-us) • 13m ago
+🔗 [U.Today](https://u.today/bitcoin-lighting-gets-major-adoption-boost-in-us) • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ Starting Monday, Square began automatically enabling Bitcoin payments for millio
 
 People are still quoting CPI like it’s gospel… why? CPI is a lagging, curated basket that gets adjusted every time reality gets uncomfortable. Substitutions, hedonic adjustments, weighting changes, all designed to smooth the numbers. Meanwhile: M2 money supply exploded post-2020 Asset prices went vertical Cost of living didn’t “2-3%” it jumped And we’re supposed to believe inflation is “under control”? You don’t measure inflation with a shopping list. You measure it with money supply expansion. More dollars chasing the same goods = prices go up. It’s not complicated. CPI exists to make monetary policy look responsible. That’s it. If you actually want a hedge against real inflation, you don’t hold dollars. You hold scarce assets. Bitcoin didn’t appear out of nowhere, it’s a response to this exact system.
 
-1h ago
+2h ago
 
 ---
 
@@ -169,7 +169,7 @@ NBC News • 2d ago
 
 Almost half of the Bitcoin supply is sitting at a loss, analysts said, as the top crypto asset remains about 47% off its all-time high.
 
-Decrypt • 1h ago
+Decrypt • 2h ago
 
 ---
 
@@ -177,7 +177,7 @@ Decrypt • 1h ago
 
 Block-owned payment processor Square has shifted Bitcoin acceptance from opt-in to opt-out for eligible sellers.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 2h ago
 
 Markets navigated a mix of geopolitical tensions, policy signals, and asset-specific developments on Monday, with cryptocurrencies rebounding, oil markets remaining on edge, and policymakers weighing risks across financial systems.From Bitcoin’s recovery to fresh warnings from Washington and commen…
 
-TradingView • 1h ago
+TradingView • 2h ago
 
 ---
 
@@ -193,7 +193,7 @@ TradingView • 1h ago
 
 Wall Street broker Bernstein says crypto-linked equities are approaching a cyclical bottom following a steep ~60% drawdown from 2025 highs
 
-Bitcoin Magazine • 2h ago
+Bitcoin Magazine • 3h ago
 
 ---
 
@@ -201,13 +201,13 @@ Bitcoin Magazine • 2h ago
 
 The first-quarter decline breaks a long-standing growth trend, but could ultimately support decentralization as public U.S. miners face losing dominance.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
 **[Bitcoin Price Rebounds From Month Low, These Two Miners Form Bases](https://www.investors.com/news/bitcoin-price-rebound-miners-basing-terawulf-hut8-cathie-wood-ark-invest-bullish/)**
 
-Investor's Business Daily • 7h ago
+Investor's Business Daily • 8h ago
 
 ---
 
@@ -221,7 +221,7 @@ Yahoo Finance • 2d ago
 
 **[Bitcoin, XRP Prices Rise Today. Why Cryptos Are Havens Once Again.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-cryptos-ffbcc0ef?gaa_at=eafs&gaa_n=AWEtsqfcIfZ6frNz3hziHh3a_S298bi7rFgWZRnyw8sod2wXAJgy1frwKmqB&gaa_ts=69caf1c1&gaa_sig=k_M-xCrBrk0ga7WMU0POyw6NI4YSPjacET59tPu8tpql42e-VV2DZh65BywM4uTFWo4WjP3X4apbskaTlO7F3Q%3D%3D)**
 
-Barron's • 5h ago
+Barron's • 6h ago
 
 ---
 
@@ -241,7 +241,7 @@ CoinDesk • 2d ago
 
 The complete workflow: unsigned transaction, air gap transfer, offline signing, broadcast. Plus PSBT, Dark Skippy, and the key-at-rest problem.
 
-⬆️ 6 • 💬 2 • 2h ago • [Frozen Security](https://frozensecurity.com/blog/how-offline-bitcoin-signing-works/)
+⬆️ 6 • 💬 2 • 3h ago • [Frozen Security](https://frozensecurity.com/blog/how-offline-bitcoin-signing-works/)
 
 ---
 
@@ -269,13 +269,13 @@ Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes
 
 Agent-native inference engine with O(1) fork latency for tree-structured reasoning - BioInfo/dendrite
 
-⬆️ 3 • 💬 1 • 7h ago • [GitHub](https://github.com/BioInfo/dendrite)
+⬆️ 3 • 💬 1 • 8h ago • [GitHub](https://github.com/BioInfo/dendrite)
 
 ---
 
 **[Uni feels so usless, I cant focus anymore](https://news.ycombinator.com/item?id=47567925)**
 
-⬆️ 7 • 💬 3 • 23h ago
+⬆️ 7 • 💬 3 • 1d ago
 
 ---
 
@@ -283,23 +283,13 @@ Agent-native inference engine with O(1) fork latency for tree-structured reasoni
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Faces Massive Macro Shift As Global Chaos Worsens!](https://www.youtube.com/watch?v=aKeDsLCSWCk)**
-
-Bitcoin #Crypto #Finance Bitcoin may be entering its biggest macro shift yet as cracks begin to form across the global financial ...
-
-📺 The Wolf Of All Streets
-
-👁️ 15K • 👍 933 • 💬 255 • ⏱️ 1:04:46 • 7h ago
-
----
-
 **[Is The Bitcoin Winter Over? | Why a Violent Market Crash Could Already be in Motion!](https://www.youtube.com/watch?v=vtU0VTbZSU0)**
 
 The market looks calm on the surface but the cracks are getting worse. From global conflict to gold selloffs and debt stress, the ...
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 136 • ⏱️ 12:24 • 23h ago
+👁️ 20K • 👍 1K • 💬 183 • ⏱️ 12:24 • 1d ago
 
 ---
 
@@ -309,57 +299,17 @@ If you hold Bitcoin or Ethereum... watch this! (alert!) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 2K • 💬 291 • ⏱️ 9:24 • 1d ago
+👁️ 46K • 👍 3K • 💬 297 • ⏱️ 9:24 • 1d ago
 
 ---
 
-**[The CLARITY Act Just Killed Bitcoin’s Future](https://www.youtube.com/watch?v=evFGCpj8ubA)**
+**[🚨 BTC &amp; ETH: SELL ALL ASAP &amp; RUN!!!!!! (New disturbing data!)](https://www.youtube.com/watch?v=6bWLOUY6xAM)**
 
-Clarity act for bitcoin and crypto is turning into a disaster. Follow Eric - https://x.com/ericbuhler/status/2037610128728592777 The ...
+New data shows the future of markets and crypto in general. Its important for bitcoin, ethereum and so on. BEWARE!
 
-📺 Digital Asset News
+📺 Thomas Kralow
 
-👁️ 36K • 👍 2K • 💬 313 • ⏱️ 23:11 • 2d ago
-
----
-
-**[Bitcoin Has FOREVER CHANGED... And Investors NEED To Understand How](https://www.youtube.com/watch?v=YfsZr90verI)**
-
-Once upon a time, Bitcoin used to have god candles (and epic crashes) all on its own — no matter what stocks or gold did.
-
-📺 From The Desk Of Anthony Pompliano
-
-👁️ 34K • 👍 2K • 💬 195 • ⏱️ 8:32 • 3d ago
-
----
-
-**[CRYPTO Down 50% Or More! (Warren Buffett&#39;s INSANE Warning)](https://www.youtube.com/watch?v=ATYtqCRbBJc)**
-
-The risk models that say when to accumulate or exit HERE. Free trial https://app.cryptocapitalventure.ai Follow Me On My ...
-
-📺 Dan Gambardello
-
-👁️ 14K • 👍 779 • 💬 246 • ⏱️ 13:41 • 22h ago
-
----
-
-**[Bitcoin: The Window of Weakness is Open](https://www.youtube.com/watch?v=vu7tN0VxhRE)**
-
-Bitcoin may not be breaking down all at once, but the structure is starting to weaken. In this video, we discuss why a window of ...
-
-📺 Benjamin Cowen
-
-👁️ 109K • 👍 7K • 💬 366 • ⏱️ 26:12 • 2d ago
-
----
-
-**[Bitcoin Will Drop Below $50K Unless... [Watch Today]](https://www.youtube.com/watch?v=JYDu3fPFI2w)**
-
-Bitcoin is starting to lose strength as it moves back in line with broader risk markets, and the structure is beginning to show cracks.
-
-📺 Crypto Banter
-
-👁️ 12K • 👍 1K • 💬 21 • ⏱️ 14:36 • 7h ago
+👁️ 15K • 👍 2K • 💬 91 • ⏱️ 11:48 • 11h ago
 
 ---
 
@@ -369,17 +319,67 @@ Ledger CEO Pascal Gauthier discusses Bitcoin's price decline, volatility across 
 
 📺 Fox Business Clips
 
-👁️ 16K • 👍 586 • 💬 151 • ⏱️ 9:10 • 7h ago
+👁️ 27K • 👍 756 • 💬 229 • ⏱️ 9:10 • 8h ago
 
 ---
 
-**[JUST IN: Trump&#39;s Bitcoin Bombshell — USA Declared Global Crypto Superpower In Historic Announcement](https://www.youtube.com/watch?v=rmPft3_O_-U)**
+**[Bitcoin Will Drop Below $50K Unless... [Watch Today]](https://www.youtube.com/watch?v=JYDu3fPFI2w)**
 
-IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
+Bitcoin is starting to lose strength as it moves back in line with broader risk markets, and the structure is beginning to show cracks.
 
-📺 The Kenzo Guy
+📺 Crypto Banter
 
-👁️ 10K • 👍 471 • 💬 71 • ⏱️ 29:43 • 1d ago
+👁️ 14K • 👍 1K • 💬 23 • ⏱️ 14:36 • 8h ago
+
+---
+
+**[Bitcoin Faces Massive Macro Shift As Global Chaos Worsens!](https://www.youtube.com/watch?v=aKeDsLCSWCk)**
+
+Bitcoin #Crypto #Finance Bitcoin may be entering its biggest macro shift yet as cracks begin to form across the global financial ...
+
+📺 The Wolf Of All Streets
+
+👁️ 19K • 👍 1K • 💬 280 • ⏱️ 1:04:46 • 8h ago
+
+---
+
+**[Trump Threat: Bitcoin ($60,000 Incoming?)](https://www.youtube.com/watch?v=vvXPfnEf0rU)**
+
+Bitcoin is facing a massive test as political headlines collide with the charts. With $60000 acting as a critical psychological and ...
+
+📺 Discover Crypto
+
+👁️ 5K • 👍 407 • 💬 15 • ⏱️ 1:14:58 • 6h ago
+
+---
+
+**[Bitcoin: The Window of Weakness is Open](https://www.youtube.com/watch?v=vu7tN0VxhRE)**
+
+Bitcoin may not be breaking down all at once, but the structure is starting to weaken. In this video, we discuss why a window of ...
+
+📺 Benjamin Cowen
+
+👁️ 110K • 👍 7K • 💬 369 • ⏱️ 26:12 • 2d ago
+
+---
+
+**[CRYPTO Down 50% Or More! (Warren Buffett&#39;s INSANE Warning)](https://www.youtube.com/watch?v=ATYtqCRbBJc)**
+
+The risk models that say when to accumulate or exit HERE. Free trial https://app.cryptocapitalventure.ai Follow Me On My ...
+
+📺 Dan Gambardello
+
+👁️ 15K • 👍 789 • 💬 289 • ⏱️ 13:41 • 23h ago
+
+---
+
+**[BITCOIN is repeating the 2022 move, be PREPARED.](https://www.youtube.com/watch?v=knm7XH7FwwY)**
+
+My Preferred Exchange BYBIT https://partner.bybit.com/b/Didi FREEDOM ACADEMY: ...
+
+📺 THE BITCOIN FAMILY Didi Taihuttu
+
+👁️ 5K • 👍 534 • 💬 34 • ⏱️ 13:22 • 7h ago
 
 ---
 

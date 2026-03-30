@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-30T21:42:49.257266+00:00'
+updated: '2026-03-30T22:37:09.707936+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 30, 2026 at 21:42 UTC  
+**Last Updated:** March 30, 2026 at 22:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From Humanoids daily on 𝕏: https://x.com/humanoidsdaily/status/2038191948637282608 Source Shawn Ryan on 𝕏: https://x.com/ShawnRyan762/status/2037583712443887991
 
-10h ago
+11h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Humanoids daily on 𝕏: https://x.com/humanoidsdaily/status/20381919486372
 
 Posting update here, I doubled down on my mission to create the smallest VIO module, here is the latest revision I am working on. - Global shutter camera + IMU - 0.8W - Outputs pose @ 15hz via USB or UART Here is a short video showing how when you plug it into any phone or pc, it shows up as ethernet device with a web-ui built into it. No app to setup or even internet required. This lets me try it out and collect diverse datasets easily on-the-go.
 
-17h ago
+18h ago
 
 ---
 
@@ -58,7 +58,7 @@ Posting update here, I doubled down on my mission to create the smallest VIO mod
 
 Hi everyone! I'd like to share with you my latest successes with my quadruped robot project. Recently I have created a Whole-Body Controller based on the work "Highly Dynamic Quadruped Locomotion via Whole-Body Impulse Control and Model Predictive Control" by D. Kim et al. Also I refactored the code, wrote comments, did some stuff for realtime execution, and opened access to the repository. The next aim is to make a vision based system for choosing the next footsteps. Here is the link to github: https://github.com/voltdog/mors\_quadruped Here you can find the locomotion controller + Mujoco simulation environment. I hope you find this repo useful for learning locomotion algorithms and using it for your own experiments. If you have any questions or encounter issues with installing or using the controller, please let me know.
 
-🔗 [youtu.be](https://youtu.be/28EshOERJ94?si=ygsz2eimHB6jkFLm) • 3h ago
+🔗 [youtu.be](https://youtu.be/28EshOERJ94?si=ygsz2eimHB6jkFLm) • 4h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hi everyone! I'd like to share with you my latest successes with my quadruped ro
 
 Hey r/robotics! I'm excited to share OpenEyes - an open-source vision system I've been building for humanoid robots. It runs entirely on NVIDIA Jetson Orin Nano with full ROS2 integration. The Problem Every day, millions of robots are deployed to help humans. But most of them are blind. Or dependent on cloud services that fail. Or so expensive only big companies can afford them. I wanted to change that. What OpenEyes Does The robot looks at a room and understands: - "There's a cup on the table, 40cm away" - "A person is standing to my left" - "They're waving at me - that's a greeting" - "The person is sitting down - they might need help" - Object Detection (YOLO11n) - Depth Estimation (MiDaS) - Face Detection (MediaPipe) - Gesture Recognition (MediaPipe Hands) - Pose Estimation (MediaPipe Pose) - Object Tracking - Person Following (show open palm to become owner) Performance - All models: 10-15 FPS - Minimal: 25-30 FPS - Optimized (INT8): 30-40 FPS Philosophy - Edge First - All processing on the robot - Privacy First - No data leaves the device - Real-time - 30 FPS target - Open - Built by community, for community Quick Start git clone https://github.com/mandarwagh9/openeyes.git cd openeyes pip install -r requirements.txt python src/main.py --debug python src/main.py --follow (Person following!) python src/main.py --ros2 (ROS2 integration) The Journey Started with a simple question: Why can't robots see like we do? Been iterating for months fixing issues like: - MediaPipe detection at high resolution - Person following using bbox height ratio - Gesture-based owner selection Would love feedback from the community! GitHub: github.com/mandarwagh9/openeyes
 
-7h ago
+8h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey r/robotics! I'm excited to share OpenEyes - an open-source vision system I'v
 
 In this video, we break down how the Unitree B2 works in extreme environments, how LiDAR allows it to “see” through smoke, and why this technology is becoming critical for fire and rescue operations. 🔹 What you’ll learn: What is the Unitree B2 Robot How LiDAR works in low-visibility environments What SLAM (Simultaneous Localization and Mapping) means How robots navigate without GPS Why robots are being used in fire and rescue This is the future of robotics in real-world, high-risk environments.
 
-🔗 [youtu.be](https://youtu.be/EnQqVR18N0c?si=nd-g_LZ3yekaKpAA via @YouTube) • 3h ago
+🔗 [youtu.be](https://youtu.be/EnQqVR18N0c?si=nd-g_LZ3yekaKpAA via @YouTube) • 4h ago
 
 ---
 
@@ -96,7 +96,7 @@ In this video, we break down how the Unitree B2 works in extreme environments, h
 
 We recently built an AR game for Quest. It turns chores into a game by detecting and rewarding chores in real-time. It won a big prize from Meta, has a few hundred users, and we’re exploring where to go from here. The game is missing something: what’s the reward beyond XP? This led to a crazy idea - what if the rewards had real value in exchange for players sharing their captures as training data for home robots. Kind of like having an allowance for your chores as an adult. With the added benefit of helping automate boring work. The biggest barrier is privacy. At minimum it has to be opt-in and with some protections like censoring faces and personal info. Looking for more ideas there though. Curious what others think.
 
-19h ago
+20h ago
 
 ---
 
@@ -136,7 +136,7 @@ Fortune • 1d ago
 
 LimX Dynamics unveiled its Luna humanoid robot, featuring LiDAR navigation, RealSense cameras, and a ROS-based software stack.
 
-Interesting Engineering • 12h ago
+Interesting Engineering • 13h ago
 
 ---
 
@@ -150,7 +150,7 @@ The Motley Fool • 1d ago
 
 **[Scholastic Spolight: Waukee robotics team earns spot at world competition](https://who13.com/on-air/seen-on-tv/scholastic-spotlight/scholastic-spolight-waukee-robotics-team-earns-spot-at-world-competition/)**
 
-WHO13.com • 9h ago
+WHO13.com • 10h ago
 
 ---
 
@@ -174,7 +174,7 @@ New Atlas • 1d ago
 
 The drone war has moved to the ground, and the results are already reshaping frontline tactics.
 
-Lowy Institute • 17h ago
+Lowy Institute • 18h ago
 
 ---
 
@@ -182,7 +182,7 @@ Lowy Institute • 17h ago
 
 Robotics startup Physical Intelligence is reportedly in talks on a $1 billion funding round. That round would raise the company’s valuation to north of
 
-PYMNTS.com • 22h ago
+PYMNTS.com • 23h ago
 
 ---
 
@@ -196,7 +196,7 @@ Brett Adcock is a technology entrepreneur focused on building companies in robot
 
 📺 Shawn Ryan Show
 
-👁️ 30K • 👍 2K • 💬 667 • ⏱️ 2:57:09 • 4h ago
+👁️ 74K • 👍 3K • 💬 1K • ⏱️ 2:57:09 • 5h ago
 
 ---
 
@@ -206,7 +206,7 @@ Learn for free on Brilliant for a full 30 days: https://brilliant.org/NikodemBar
 
 📺 Nikodem Bartnik
 
-👁️ 95K • 👍 4K • 💬 69 • ⏱️ 9:55 • 6d ago
+👁️ 97K • 👍 4K • 💬 70 • ⏱️ 9:55 • 6d ago
 
 ---
 
@@ -216,7 +216,7 @@ A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White H
 
 📺 C-SPAN
 
-👁️ 221K • 👍 994 • 💬 1K • ⏱️ 2:59 • 5d ago
+👁️ 222K • 👍 999 • 💬 2K • ⏱️ 2:59 • 5d ago
 
 ---
 
@@ -226,7 +226,17 @@ Brett Adcock shares his vision for the future of humanoid robots, why he believe
 
 📺 Shawn Ryan Show
 
-👁️ 62K • 👍 2K • 💬 629 • ⏱️ 14:05 • 3d ago
+👁️ 63K • 👍 2K • 💬 634 • ⏱️ 14:05 • 3d ago
+
+---
+
+**[Shocking moment robot slaps boy in the face during dance show in China](https://www.youtube.com/watch?v=B9NUDkOvBvI)**
+
+This is the shocking moment a young boy is slapped across the face by a rogue robot in China. The machine appears to be a G1 ...
+
+📺 The Sun
+
+👁️ 43K • 👍 330 • 💬 273 • ⏱️ 1:09 • 5d ago
 
 ---
 
@@ -240,23 +250,13 @@ First lady Melania Trump entered the East Room of the White House on Wednesday a
 
 ---
 
-**[Shocking moment robot slaps boy in the face during dance show in China](https://www.youtube.com/watch?v=B9NUDkOvBvI)**
-
-This is the shocking moment a young boy is slapped across the face by a rogue robot in China. The machine appears to be a G1 ...
-
-📺 The Sun
-
-👁️ 43K • 👍 327 • 💬 270 • ⏱️ 1:09 • 5d ago
-
----
-
 **[Watch: Humanoid robot walks alongside first lady Melania Trump at White House](https://www.youtube.com/watch?v=X-NjEku-zE4)**
 
 Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
 
 📺 CBS News
 
-👁️ 54K • 👍 394 • 💬 389 • ⏱️ 9:54 • 5d ago
+👁️ 55K • 👍 397 • 💬 391 • ⏱️ 9:54 • 5d ago
 
 ---
 
@@ -270,23 +270,23 @@ Amazon just made a surprising move into humanoid robotics by acquiring Fauna Rob
 
 ---
 
+**[Fat Mira Does the Robot Trend 😱](https://www.youtube.com/watch?v=XmIl8d0WUws)**
+
+rumi #huntrix #kpop #kpopdemonhunters #shorts #celebrity #trend #makeup #mira All videos were created by myself.
+
+📺 Faces of Culture
+
+👁️ 6.4M • 👍 16K • 💬 8 • ⏱️ 0:04 • 2d ago
+
+---
+
 **[Viral robot appearances on the rise as White House hosts humanoid robot](https://www.youtube.com/watch?v=CDbSdaiEdyQ)**
 
 Humanoid robots have been making appearances through social media, tv segments, and at the latest White House summit.
 
 📺 NBC News
 
-👁️ 97K • 👍 545 • 💬 371 • ⏱️ 3:05 • 4d ago
-
----
-
-**[NVIDIA Just Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=eIAF4CbbUWI)**
-
-Thanks to Delete Me for sponsoring this video. To keep your private info private check out https://www.JoinDeleteMe.com/Kimjava ...
-
-📺 Kim Java
-
-👁️ 213K • 👍 9K • 💬 418 • ⏱️ 20:00 • 6d ago
+👁️ 97K • 👍 546 • 💬 371 • ⏱️ 3:05 • 4d ago
 
 ---
 
