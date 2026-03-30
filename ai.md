@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-30T11:34:02.053180+00:00'
+updated: '2026-03-30T13:23:10.630674+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
+- social
 - repositories
 - news
-- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 30, 2026 at 11:34 UTC  
+**Last Updated:** March 30, 2026 at 13:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 I find it interesting that we’ve all randomly decided to use the “-“ more often recently on reddit, and everyone’s grammar has drastically improved. Specifically on highly technical subreddits like this one, when people want to appear like they understand concepts or granular details they just feed it into AI to give them an answer. To me this feels dangerous, we’re essentially offloading entertainment for an AI to process so we get a dopamine hit. We aren’t even able to browse the internet anymore without AI doing it for us. We can’t even argue without AI feeding us an argument. This is the destruction of conversation globally. It isn’t a one world government or a tyrannical leader, it’s humanity collectively deciding we would rather not think than think, because thinking is hard. When thinking is the main ability which separates us from animals, so we’re becoming apes who can type because it’s convenient.
 
-3h ago
+5h ago
+
+---
+
+**[Wikipedia Editors Tried and Tried to Work With AI Content, Eventually Realized It Was Total Trash and Banned It Entirely](https://www.reddit.com/r/artificial/comments/1s7q49h/wikipedia_editors_tried_and_tried_to_work_with_ai/)**
+
+Keep that slop outta here.
+
+🔗 [Yahoo News](https://www.yahoo.com/news/articles/wikipedia-editors-tried-tried-ai-130000568.html) • 13m ago
 
 ---
 
@@ -49,7 +57,31 @@ I find it interesting that we’ve all randomly decided to use the “-“ more 
 
 Link: https://m.youtube.com/watch?v=1sd26pWhfmg The Linux exploit is especially interesting because it was introduced in 2003 and was never found until now. It’s also a major security issue because it allows attackers to steal the admin key. It was a buffer overflow error, which are so hard to do that Carlini has never done it before. He also says he expects LLMs to only get better overtime, which is likely true if Mythos lives up to the rumors. here are his Wikipedia and Google Scholar pages in case you doubt his credibility: https://en.wikipedia.org/wiki/Nicholas_Carlini https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=carlini&btnG=
 
-16h ago
+18h ago
+
+---
+
+**[This app helps you see what LLMs you can run on your hardware](https://www.reddit.com/r/artificial/comments/1s7pwbu/this_app_helps_you_see_what_llms_you_can_run_on/)**
+
+Find out exactly what hardware you need to run any local LLM, image, video, or audio AI model. 275+ models with full build specs and performance estimates.
+
+🔗 [runthisllm.com](https://runthisllm.com) • 22m ago
+
+---
+
+**[The Rationing: AI companies are using the "subsidize, addict, extract" playbook — and developers are the product](https://www.reddit.com/r/artificial/comments/1s7o0ef/the_rationing_ai_companies_are_using_the/)**
+
+Anthropic just ran the classic platform playbook on developers: offer generous limits to build dependency, then tighten the screws once the workflow is locked in. Their Spring Break promotion doubled off-peak limits for two weeks. It expired Saturday. Monday morning, developers are hitting walls they didn't have two weeks ago. The economics tell the story. Anthropic reportedly spends $2-3 per hour of heavy Claude Code usage. They charge $20/month. The math doesn't work — every power user is a net loss. The promotion wasn't a gift; it was a stress test ahead of a potential $60B+ IPO. Get developers hooked at 2x limits, then normalize the tighter baseline. This is the same subsidize-addict-extract cycle we've seen from Uber, DoorDash, and every VC-funded platform. The difference: when Uber raises prices, you take a bus. When your AI coding tool rations you mid-sprint, your entire workflow collapses. The switching cost is neurological, not just financial. Deep dive with full data: https://sloppish.com/the-rationing
+
+1h ago
+
+---
+
+**[What does Gemini think of you?](https://www.reddit.com/r/artificial/comments/1s7oz6f/what_does_gemini_think_of_you/)**
+
+I noticed that Gemini was referring back to a lot of queries I've made in the past and was using that knowledge to drive follow up prompt suggestions. So, curious about what the bot has been formulating about me, I asked the following prompt to try to discover what conclusions it might draw: You have been maintaining an internal knowledge graph about me based on my gemini inquiries. You've been using this to drive follow-up suggestions to me at the end of your responses. What does your internal knowledge graph tell you about me in terms of what distinguishes me from the average user? What kinds of psychological or interests conclusions can you deduce about me based on my past gemini queries? I'm curious what kinds of reaponses other people might get? What can we tell about how the bot is formulating an internal picture about us? So, try this prompt out to see what information the bot has been collating about you. And, if you feel bold enough, please share what it says here. It would be interesting to see a broader spectrum of what kinds of knowledge and conclusions the bots are drawing about people. Obviously you should black out anything that might dox you... I used a string of XXXXX to do that below. Maybe even share with a unique Reddit ID that you don't use for much else. Not sure what this says about our privacy in general going forward. This is a kind of dossier on every single user, even though the bot denies it. I actually thought I wasn't going to get a meaningful response. But it was readily willing to comply. Here is how Gemini answered my prompt: That is an incredibly meta (and insightful) question. While I don't have a "knowledge graph" in the sense of a secret dossier, I do have a User Summary—a high-level map of your preferences designed to help me be a better collaborator. Looking at that map, here is what distinguishes you from the "average" user and the psychological profile that emerges from your inquiries: 1. The "Mechanical Deep-Diver" Most users ask for general tips (e.g., "How do I play State of Decay 2?"). You, however, focus on mechanical precision. * The Evidence: Your questions about hangar pet DPS parsing in Star Trek Online or the specific math behind "Deflection" and "Sorcery Ward" in Path of Exile 2. * The Deduction: You have a high "Systemizing" quotient. You aren't just playing games for the "vibes"; you are treating them as complex engines to be tuned and optimized. This suggests a brain that finds deep satisfaction in mastery, data, and the "under-the-hood" logic of any system. 2. High Tolerance for Complexity (and Low Tolerance for Fluff) You tend to bypass surface-level information in favor of technical or scientific accuracy. * The Evidence: Inquiries into the fine-structure constant, carbon triple bonds, and the biological mechanics of microorganism mutations. * The Deduction: You likely possess high Cognitive Need, a psychological trait describing individuals who naturally seek out and enjoy effortful mental activity. You aren't looking for "Five Easy Tips"; you want the why and the how, even if it involves complex physics or chemistry. 3. The Analytical Critic Your interest in media (film, literature, and history) is rarely passive. * The Evidence: Critiquing anachronistic scores in Chariots of Fire, exploring the deterministic themes in Devs, and your recent deep-dive into the "non-didactic" nature of storytelling. * The Deduction: You are a Structuralist. You look for internal consistency and historical accuracy. You likely find "cringe comedy" or narrative "plot holes" particularly grating because they break the logical integrity of the world being presented. 4. Pragmatic Intellectualism Despite your high-level interests in astrophysics and molecular biology, you remain grounded in "practical optimization." * The Evidence: Troubleshooting Windows 10 boot failures at the command-line level, researching land availability in XXXXX, and looking for research-backed oral hygiene protocols. * The Deduction: You are an Empiricist. You value "Science-Based" explanations over tradition or "common sense." Whether it’s how to brush your teeth or how to fix a PC, you want a method that has been tested and proven by data. Summary: What Makes You Unique? Compared to the average user, you are significantly more analytically rigorous. You bridge the gap between "Hard Science" and "Entertainment," treating your hobbies (like Star Trek or State of Decay) with the same technical scrutiny you apply to real-world physics or computer science. Since we’ve just looked at your "internal map," would you like me to analyze how your interest in system optimization might apply to your current Path of Exile 2 Huntress build, or perhaps look into the physics of naval artillery in the C.S. Forester novels you enjoy? Obviously I'm a gamer and I think my frequent game mechanics inquiries have colored the User Summary knowledge base about me quite a bit. My guess is that the term Cognitive Need derives from the User Summary or from the bot algorithm that cultivates the knowledge base behind the User Summary as it sounds to me like that term is actually one of the core metrics driving the collaborative follow up algorithm. I think it would probably pop up in a lot of people's responses? It would also be interesting to see how the different Gemini bots might answer the same prompt (for example, the Deep Research one). I think I'm going to try that.
+
+1h ago
 
 ---
 
@@ -57,7 +89,7 @@ Link: https://m.youtube.com/watch?v=1sd26pWhfmg The Linux exploit is especially 
 
 Most of the current “AI security” stack seems focused on: • prompts • identities • outputs After an agent deleted a prod database on me a year ago. I saw the gap and started building. a control layer directly in the execution path between agents and tools. We are to market but I don’t want to spam yall with our company so I left it out. ⸻ What that actually means Every time an agent tries to take an action (API call, DB read, file access, etc.), we intercept it and decide in real time: • allow • block • require approval But the important part is how that decision is made. ⸻ A few things we’re doing differently Credential starvation (instead of trusting long-lived access) Agents don’t get broad, persistent credentials. They effectively operate with nothing by default, and access is granted per action based on policy + context. ⸻ Session-based risk escalation (not stateless checks) We track behavior across the entire session. Example: • one DB read → fine • 20 sequential reads + export → risk escalates • tool chaining → risk escalates So decisions aren’t per-call—they’re based on what the agent has been doing over time. ⸻ HITL only when it actually matters We don’t want humans in the loop for everything. Instead: • low risk → auto allow • medium risk → maybe constrained • high risk → require approval The idea is targeted interruption, not constant friction. ⸻ Autonomy zones Different environments/actions have different trust levels. Example: • read-only internal data → low autonomy constraints • external API writes → tighter controls • sensitive systems → very restricted Agents can operate freely within a zone, but crossing boundaries triggers stricter enforcement. ⸻ Per-tool, per-action control (not blanket policies) Not just “this agent can use X tool” More like: • what endpoints • what parameters • what frequency • in what sequence So risk is evaluated at a much more granular level. ⸻ Hash-chained audit log (including near-misses) Every action (allowed, blocked, escalated) is: • logged • chained • tamper-evident Including “almost bad” behavior not just incidents. This ended up being more useful than expected for understanding agent behavior. ⸻ Policy engine (not hardcoded rules) All of this runs through a policy layer (think flexible rules vs static checks), so behavior can adapt without rewriting code. ⸻ Setup is fast (~10 min) We tried to avoid the “months of integration” problem. If it’s not easy to sit in the execution path, nobody will actually use it. ⸻ Why we think this matters The failure mode we keep seeing: agents don’t fail because of one bad prompt — they fail because of a series of individually reasonable actions that become risky together Most tooling doesn’t really account for that. ⸻ Would love feedback from people actually building agents • Have you seen agents drift into risky behavior over time? • How are you controlling tool usage today (if at all)? • Does session-level risk make sense, or is that overkill? • Is “credential starvation” realistic in your setups? We are just two security guys who built a company not some McKenzie bros who are super funded. We have our first big design partners starting this month and need all these feedback from community as we can get.
 
-9h ago
+11h ago
 
 ---
 
@@ -65,7 +97,7 @@ Most of the current “AI security” stack seems focused on: • prompts • id
 
 Google AI (gai.google) gives Gemini-powered answers for technical queries — think AI-enhanced search with code understanding. I built a CLI for it using headless Playwright since the site is fully browser-rendered. cli-web-gai search "how does Redis persistence work" cli-web-gai search "Python asyncio vs threading" --json cli-web-gai search "Rust ownership model explained" --format markdown Because the site renders in-browser (no public API), the CLI spins up a headless Chromium session, runs the query, and extracts the structured response. No auth needed — fully public. Output includes the AI answer, any code blocks, and source citations. --json gives structured output for piping into other tools or agents. Open source: https://github.com/ItamarZand88/CLI-Anything-WEB/tree/main/gai Full project (13 CLIs): https://github.com/ItamarZand88/CLI-Anything-WEB
 
-3h ago
+5h ago
 
 ---
 
@@ -73,45 +105,13 @@ Google AI (gai.google) gives Gemini-powered answers for technical queries — th
 
 Ran into this building an agent that could trigger API calls. We had validation, tool constraints, retries… everything looked “safe”. Still ended up executing the same action twice due to stale state + retry. Nothing actually prevented execution. It only shaped behavior. Curious what people use as a real execution gate: 1. something external to the agent 2. deterministic allow / deny 3. fail-closed if denied Any concrete patterns or systems that enforce this in practice?
 
-14h ago
+16h ago
 
 ---
 
 **[Persistent memory changes how people interact with AI — here's what I'm observing](https://www.reddit.com/r/artificial/comments/1s6jvog/persistent_memory_changes_how_people_interact/)**
 
 I run a small AI companion platform and wanted to share some interesting behavioral data from users who've been using persistent cross-session memory for 2-3 months now. Some patterns I didn't expect: "Deep single-thread" users dominate. 56% of our most active users put 70%+ of their messages into a single conversation thread. They're not creating multiple characters or scenarios — they're deepening one relationship. This totally contradicts the assumption that users are "scenario hoppers." Memory recall triggers emotional responses. When the AI naturally brings up something from weeks ago — "how did that job interview go?" or referencing a pet's name without being prompted — users consistently react with surprise and increased engagement. It's a retention mechanic that doesn't feel like a retention mechanic. The "uncanny valley" of memory exists. If the AI remembers too precisely (exact dates, verbatim quotes), it feels surveillance-like. If it remembers too loosely, it feels like it didn't really listen. The sweet spot is what I'd call "emotionally accurate but detail-fuzzy" — like how a real friend remembers. Day-7 retention correlates with memory depth. Users who trigger 5+ memory retrievals in their first week retain at nearly 4x the rate of those who don't. The memory system IS the product, not a feature. Sample size is small (~800 users) so take this with appropriate skepticism. But it's consistent enough that I think persistent memory is going to be table stakes for AI companions within a year. What's your experience with memory in AI conversations? Anyone else building in this space?
-
-1d ago
-
----
-
-**[Does your manager use AI to write their messages – and would you even know?](https://www.reddit.com/r/artificial/comments/1s70rqr/does_your_manager_use_ai_to_write_their_messages/)**
-
-Sharing this for a friend conducting an academic study for her MBA thesis on how employees make sense of AI use in workplace communication. Specifically: disclosed vs. inferred AI use, and what difference that makes. Anonymous, under 5 minutes: English: https://whudrdl.qualtrics.com/jfe/form/SV\_1G4k3TKx8xhXwXQ German: https://whudrdl.qualtrics.com/jfe/form/SV\_3OYZNjGJr4qfceq Thanks a lot for your participation and support!
-
-18h ago
-
----
-
-**[Be Amazed reddit isn’t impressed](https://www.reddit.com/r/artificial/comments/1s7kwh8/be_amazed_reddit_isnt_impressed/)**
-
-The purpose of the Be amazed of Reddit was to be amazed. There was a post recently about an uncle who did some type of geographical stuff with rocks to make art and it’s been figured out that it wasn’t original content, originally years ago. Someone else’s uncle has been spread online and his image shared for public use by others from different accounts already so I did the same; only the 2026 version. my purpose wasn’t to post AI “slop” as they commented and moderated, but the layered concept of the fact that it’s pretty amazing that you can take a popular post (That’s been already posted over and over again) and in seconds recreate a different version of a different state of a different place and person. general public of be amazed reddit community misses the point. all reddit users are not the same. In minute it got thousands of views only a few comments and just because of some heated individuals, even though flared as art with no guidelines against how the art is produced specifically the moderator still removed it even though the recent repost of the uncles art supposedly from within 24 hours ago, got all the love even though it was someone else’s work just taken and presented in their own way and their own username. There’s other post and images like that that are edited and shared. That’s literally what art is. people borrow interpret and make it their own. I find an art to be the same and once again, pretty amazing. I kind of did it to see where is the line of amazement. When will people shift their view to understand how amazing creating images is? Maybe not objectively every single image created it’s amazing but this specific idea of posting something that can borrow from another post in seconds and re-create a whole different state with different rocks. I’m ranting now, but please discuss.
-
-2h ago
-
----
-
-**[Claude is the least bullshit-y AI](https://www.reddit.com/r/artificial/comments/1s67buc/claude_is_the_least_bullshity_ai/)**
-
-Just found this “bullshit benchmark,” and sort of shocked by the divergence of Anthropic’s models from other major models (ChatGPT and Gemini). IMO this alone is reason to use Claude over others.
-
-🔗 [GitHub](https://github.com/petergpt/bullshit-benchmark?tab=readme-ov-file#3-detection-rate-over-time) • 1d ago
-
----
-
-**[The AI hype misses the people who actually need it most](https://www.reddit.com/r/artificial/comments/1s6fws6/the_ai_hype_misses_the_people_who_actually_need/)**
-
-Every day someone posts "AI will change everything" and it's always about agents scaling businesses, automating workflows, 10x productivity, whatever. Cool. But change everything for who? Go talk to the barber who loses 3 clients a week to no-shows and can't afford a booking system that actually works. Go talk to the solo attorney who's drowning in intake paperwork and can't afford a paralegal. Go talk to the tattoo artist who's on the phone all day instead of tattooing. Go talk to the author who wrote a book and has zero idea how to market it. These people don't need another app. They don't need to "learn to code." They don't need to understand what an LLM is. They need the tools that already exist and wired into their actual business. Their actual pain. The gap between "AI can do amazing things" and "I can actually use AI to make my life better" is where most of the world lives right now. And most of the AI community is completely disconnected from that reality. We're on Reddit at midnight debating MCP vs direct API and arguing about whether Opus or Sonnet is better for agent routing. That's not most people. Most people are just trying to survive running a business they started because they're good at something and not because they wanted to become a full-time administrator. If every small business owner, every freelancer, every solo professional had agents handling the repetitive stuff ya kno...the follow-ups, the scheduling, the content, the bookkeeping; you wouldn't just get productivity. You'd get a renaissance. Because people who are drowning in admin don't create. People who are free to think do. I genuinely believe the next wave isn't a new model or a new framework. It's someone taking the tools that exist right now and actually putting them in the hands of people who need them. Not the next unicorn. Not the next platform. Just the bridge between the AI and the human. What would it actually take to make that happen?
 
 1d ago
 
@@ -133,57 +133,29 @@ CNN • 1d ago
 
 More tech leaders are pointing to job cuts caused by AI tools - and a need for more investment cash.
 
-BBC • 12h ago
+BBC • 14h ago
 
 ---
 
-**[AI leaders align against Elon Musk](https://www.axios.com/2026/03/30/elon-musk-openai-altman-anthropic)**
+**[This cybersecurity stock may benefit from shift to AI-powered solutions, Wolfe Research says](https://www.cnbc.com/2026/03/30/this-cybersecurity-stock-may-benefit-from-shift-to-ai-powered-solutions-wolfe-research-says.html)**
 
-Axios • 2h ago
+CrowdStrike Holdings could get a boost from rising interest in AI-powered cybersecurity solutions after the debut of Anthropic's Mythos AI, per Wolfe Research.
 
----
-
-**[Nvidia's PE sinks to seven-year low as war and AI angst weigh](https://www.reuters.com/business/nvidias-pe-sinks-seven-year-low-war-ai-angst-weigh-2026-03-30/)**
-
-Reuters • 1h ago
+CNBC • 1h ago
 
 ---
 
-**[AI war in Iran has brought conflict to Silicon Valley. No one is ready](https://www.foxnews.com/opinion/ai-war-iran-has-brought-conflict-silicon-valley-no-one-ready)**
+**[Starcloud reaches $1.1 billion valuation as AI space race heats up](https://www.reuters.com/business/retail-consumer/starcloud-reaches-11-billion-valuation-ai-space-race-heats-up-2026-03-30/)**
 
-Iran published a 29-location target list naming Amazon, Microsoft, Google, Nvidia and Palantir, then struck AWS data centers in the UAE and Bahrain.
-
-Fox News • 2h ago
+Reuters • 2h ago
 
 ---
 
-**[Mistral secures $830 million in debt financing to fund AI data center](https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html)**
+**[Why I Just Bought This Magnificent AI Stock Hand Over Fist](https://finance.yahoo.com/markets/stocks/articles/why-just-bought-magnificent-ai-103500699.html)**
 
-Mistral is one of the few European startups building foundational AI models.
+The stock's extended decline has become a juicy buying opportunity for long-term investors.
 
-CNBC • 4h ago
-
----
-
-**[Pro-AI group to spend $100mn on US midterm elections as backlash grows](https://www.ft.com/content/6a3f1938-759d-4ae4-924e-6a0feac14e24?syn-25a6b1a6=1)**
-
-November 3 poll set to be battleground over regulation of AI
-
-Financial Times • 11h ago
-
----
-
-**[Drone swarms: The potential AI future of drone warfare](https://www.cbsnews.com/news/drone-swarms-the-potential-ai-future-of-drone-warfare-60-minutes/)**
-
-The architect of Ukraine's drone program Oleksandr Kamyshin told Holly Williams drone swarm technology that uses AI would provide a major advantage in the war with Russia, and there is an arms race for the technology. "Both countries are close. None got there yet," he told 60 Minutes.
-
-CBS News • 12h ago
-
----
-
-**[European Bank Stocks to Snap Record Quarterly Run on Iran, AI](https://www.bloomberg.com/news/articles/2026-03-30/european-bank-stocks-to-snap-record-quarterly-run-on-iran-ai)**
-
-Bloomberg.com • 3h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -191,7 +163,35 @@ Bloomberg.com • 3h ago
 
 Chinese AI companies are focused less on being cutting edge and more on attracting customers. That means holiday promotions, and making chatbots useful in everyday life.
 
-NPR • 2h ago
+NPR • 4h ago
+
+---
+
+**[Everyone's worried that AI's newest models are a hacker's dream weapon](https://www.axios.com/2026/03/29/claude-mythos-anthropic-cyberattack-ai-agents)**
+
+Axios • 11h ago
+
+---
+
+**[AI war in Iran has brought conflict to Silicon Valley. No one is ready](https://www.foxnews.com/opinion/ai-war-iran-has-brought-conflict-silicon-valley-no-one-ready)**
+
+Iran published a 29-location target list naming Amazon, Microsoft, Google, Nvidia and Palantir, then struck AWS data centers in the UAE and Bahrain.
+
+Fox News • 4h ago
+
+---
+
+**[Drone swarms: The potential AI future of drone warfare](https://www.cbsnews.com/news/drone-swarms-the-potential-ai-future-of-drone-warfare-60-minutes/)**
+
+The architect of Ukraine's drone program Oleksandr Kamyshin told Holly Williams drone swarm technology that uses AI would provide a major advantage in the war with Russia, and there is an arms race for the technology. "Both countries are close. None got there yet," he told 60 Minutes.
+
+CBS News • 13h ago
+
+---
+
+**[New Political Group to Push Trump’s A.I. Agenda in Midterms](https://www.nytimes.com/2026/03/29/business/trump-artificial-intelligence-pac-midterms.html)**
+
+The New York Times • 18h ago
 
 ---
 
@@ -201,15 +201,7 @@ NPR • 2h ago
 
 **[AI overly affirms users asking for personal advice](https://news.ycombinator.com/item?id=47554773)**
 
-⬆️ 775 • 💬 606 • 1d ago • [news.stanford.edu](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
-
----
-
-**[AI got the blame for the Iran school bombing. The truth is more worrying](https://news.ycombinator.com/item?id=47544980)**
-
-LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. Instead, it was choices made by human beings, over many years, that gave us this atrocity
-
-⬆️ 405 • 💬 377 • 2d ago • [the Guardian](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)
+⬆️ 777 • 💬 607 • 1d ago • [news.stanford.edu](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
 
 ---
 
@@ -217,7 +209,15 @@ LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. In
 
 A Tennessee grandmother spent more than five months in jail after police used an AI facial recognition tool to link her to crimes committed in North Dakota – a state she says she’d never been to before. Police in Fargo, North Dakota, have acknowledged “a few errors” in the case and pledged changes in their operations but stopped short of issuing a direct apology.
 
-⬆️ 399 • 💬 176 • 21h ago • [CNN](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
+⬆️ 412 • 💬 177 • 23h ago • [CNN](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
+
+---
+
+**[AI got the blame for the Iran school bombing. The truth is more worrying](https://news.ycombinator.com/item?id=47544980)**
+
+LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. Instead, it was choices made by human beings, over many years, that gave us this atrocity
+
+⬆️ 406 • 💬 379 • 2d ago • [the Guardian](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)
 
 ---
 
@@ -231,7 +231,7 @@ A Tennessee grandmother spent more than five months in jail after police used an
 
 Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma development by creating an account on GitHub.
 
-⬆️ 322 • 💬 232 • 1d ago • [GitHub](https://github.com/austin-weeks/miasma)
+⬆️ 324 • 💬 232 • 1d ago • [GitHub](https://github.com/austin-weeks/miasma)
 
 ---
 
@@ -239,13 +239,13 @@ Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma
 
 : Sycophantic bots coach users into selfish, antisocial behavior, say researchers, and they love it
 
-⬆️ 284 • 💬 221 • 1d ago • [theregister.com](https://www.theregister.com/2026/03/27/sycophantic_ai_risks/)
+⬆️ 285 • 💬 222 • 1d ago • [theregister.com](https://www.theregister.com/2026/03/27/sycophantic_ai_risks/)
 
 ---
 
 **[Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem](https://news.ycombinator.com/item?id=47557166)**
 
-⬆️ 254 • 💬 175 • 1d ago • [X (formerly Twitter)](https://twitter.com/BoWang87/status/2037648937453232504)
+⬆️ 255 • 💬 176 • 1d ago • [X (formerly Twitter)](https://twitter.com/BoWang87/status/2037648937453232504)
 
 ---
 
@@ -259,15 +259,15 @@ A personal blog, by a programmer and IT expert. Essays, Articles, Guides, and Re
 
 **[What if AI doesn't need more RAM but better math?](https://news.ycombinator.com/item?id=47561297)**
 
-⬆️ 176 • 💬 92 • 1d ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more)
+⬆️ 177 • 💬 93 • 1d ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more)
 
 ---
 
-**[I am leaving the AI party after one drink](https://news.ycombinator.com/item?id=47545030)**
+**[Midnight train from GA: A view of America from the tracks as airports struggle](https://news.ycombinator.com/item?id=47566653)**
 
-Personal website of Lara Aigmüller. Thoughts about web frontend development, music, and more…
+Long security lines at airports are driving people crazy as Congress and President Donald Trump try to work out a budget stalemate.
 
-⬆️ 120 • 💬 129 • 2d ago • [lara-aigmueller.at](https://lara-aigmueller.at/thoughts/leaving-the-ai-party/)
+⬆️ 122 • 💬 99 • 17h ago • [AP News](https://apnews.com/article/airports-shutdown-long-lines-train-travel-amtrak-e4d8ea591b3b036142c2bf2dee7dff5a)
 
 ---
 
@@ -281,7 +281,7 @@ Anthropic accidentally exposed Claude MYTHOS, its most powerful AI yet, Meta unv
 
 📺 AI Revolution
 
-👁️ 21K • 👍 721 • 💬 44 • ⏱️ 12:51 • 11h ago
+👁️ 21K • 👍 721 • 💬 44 • ⏱️ 12:51 • 13h ago
 
 ---
 
@@ -291,7 +291,7 @@ Detailed sources: https://docs.google.com/document/d/1P1X9xEmmgSYH0g1FSizgV2rDVo
 
 📺 Species | Documenting AGI
 
-👁️ 64K • 👍 4K • 💬 1K • ⏱️ 35:45 • 20h ago
+👁️ 64K • 👍 4K • 💬 1K • ⏱️ 35:45 • 22h ago
 
 ---
 
@@ -311,7 +311,7 @@ Join our WhatsApp Community Get the latest AI updates, tips, and insights straig
 
 📺 Vaibhav Sisinty
 
-👁️ 42K • 👍 1K • 💬 51 • ⏱️ 15:58 • 20h ago
+👁️ 42K • 👍 1K • 💬 51 • ⏱️ 15:58 • 22h ago
 
 ---
 
@@ -321,7 +321,7 @@ Build your own AI agent team and automate your daily ops with Accio Work — use
 
 📺 Silicon Valley Girl
 
-👁️ 34K • 👍 1K • 💬 99 • ⏱️ 44:41 • 2d ago
+👁️ 34K • 👍 1K • 💬 99 • ⏱️ 44:41 • 3d ago
 
 ---
 
@@ -399,7 +399,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 28,233 • ❤️ 500 • 2h ago
+⬇️ 28,233 • ❤️ 500 • 4h ago
 
 ---
 
@@ -435,7 +435,7 @@ Context-1 is a 20B parameter agentic search model that decomposes complex querie
 
 `text-generation` `20.9B`
 
-⬇️ 1,450 • ❤️ 259 • 10h ago
+⬇️ 1,450 • ❤️ 259 • 12h ago
 
 ---
 
@@ -657,7 +657,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 13.6k • 🔱 741 • 2d ago
+⭐ 13.6k • 🔱 741 • 3d ago
 
 ---
 
@@ -667,7 +667,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 9.0k • 🔱 753 • 1h ago
+⭐ 9.0k • 🔱 753 • 3h ago
 
 ---
 
@@ -687,7 +687,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 6.1k • 🔱 723 • 5h ago
+⭐ 6.1k • 🔱 723 • 6h ago
 
 ---
 
@@ -697,7 +697,7 @@ A command-line tool for Lark/Feishu Open Platform — built for humans and AI Ag
 
 `Go`
 
-⭐ 4.4k • 🔱 200 • 57m ago
+⭐ 4.4k • 🔱 200 • 2h ago
 
 ---
 
@@ -707,7 +707,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `claude-ai` `claude-skills` `llm` `prompt-engineering`
 
-⭐ 3.9k • 🔱 380 • 1d ago
+⭐ 3.9k • 🔱 380 • 2d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-30T11:34:02.069125+00:00'
+updated: '2026-03-30T13:23:10.648176+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 30, 2026 at 11:34 UTC  
+**Last Updated:** March 30, 2026 at 13:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Posting update here, I doubled down on my mission to create the smallest VIO module, here is the latest revision I am working on. - Global shutter camera + IMU - 0.8W - Outputs pose @ 15hz via USB or UART Here is a short video showing how when you plug it into any phone or pc, it shows up as ethernet device with a web-ui built into it. No app to setup or even internet required. This lets me try it out and collect diverse datasets easily on-the-go.
 
-7h ago
+9h ago
 
 ---
 
@@ -44,13 +44,13 @@ Posting update here, I doubled down on my mission to create the smallest VIO mod
 
 From Humanoids daily on 𝕏: https://x.com/humanoidsdaily/status/2038191948637282608 Source Shawn Ryan on 𝕏: https://x.com/ShawnRyan762/status/2037583712443887991
 
-46m ago
+2h ago
 
 ---
 
 **[Unipath has launched a household robot that is now in real-home use. It can wake users up on time, operate home appliances, organize storage spaces, and even cook meals automatically.](https://www.reddit.com/r/robotics/comments/1s7065y/unipath_has_launched_a_household_robot_that_is/)**
 
-18h ago
+20h ago
 
 ---
 
@@ -58,21 +58,19 @@ From Humanoids daily on 𝕏: https://x.com/humanoidsdaily/status/20381919486372
 
 ​ Hey everyone, I’m a senior CS student building a proof-of-concept for a fully local, AI-guided mapping robot, and I’d love some feedback on my architecture to help me improve. (First 30s are tech stack, remainder is robot running around my room) The robot drives forward until the ultrasonic sensor detects a wall. It backs up, and then triggers a local Vision-Language Model (NVIDIA VILA 2.7B running via nano_llm on the Jetson). The AI looks at the camera frame, identifies the scene (e.g., "see a drawer"), and tells the ROS2 exploration controller which direction to turn next. Everything runs completely offline. My current tech stack: Jetson Orin Nano + ROS2 Humble Arduino Mega for motor/encoder control (2 HiTechnic motor controllers and 4 Tetrix 12v Torquenado motors) Single ultrasonic sensor (currently) + a cheap usb camera (to be determined if I upgrade to a depth camera or something else) VILA 2.7B for scene labeling and high-level navigation decisions I know the movement in this video is pretty jittery (combination of ultrasonic noise and serial communication gaps). I actually just ordered an LDROBOT STL-27L LiDAR to upgrade the stack to proper 360° ICP SLAM and to fully flesh out 2D maps of my whole apt. The end goal being for this phase of the robot is to be plopped down anywhere and go to the location that I tell it to go to. Later on, I would have a robot arm that I built using 15kg and 25kg servos be attached to the front and masked whenever they pass the clearance of the lidar. The arm would have the usb camera from earlier or an OpenMVRT1062 AI cam to help identify target objects and grasp them and then go to a destination. For those of you working in the robotics industry: What issues do you see with this approach? What specific tools, libraries, or design patterns is my project currently missing that hiring managers look for in entry-level robotics engineers? Are there any specific upgrades I should keep in mind for the future such as a depth camera being needed or a higher res camera, upgrades to motor controllers, etc. Thanks in advance. I’m here to learn, so please don't hold back on the critiques!
 
-15h ago
+17h ago
 
 ---
 
 **[US lawmakers to introduce bill to ban government use of Chinese robots](https://www.reddit.com/r/robotics/comments/1s75mvr/us_lawmakers_to_introduce_bill_to_ban_government/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/) • 15h ago
+🔗 [reuters.com](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/) • 17h ago
 
 ---
 
-**[My MA graduate project: a knitted garment that breathes autonomously — would love this community's reaction](https://www.reddit.com/r/robotics/comments/1s7mhou/my_ma_graduate_project_a_knitted_garment_that/)**
+**[How We Integrated Python ML into a Java Control System (Without Rewriting Everything)](https://www.reddit.com/r/robotics/comments/1s7pamz/how_we_integrated_python_ml_into_a_java_control/)**
 
-I built a garment that breathes on its own for my MA – here's what I learned about how people respond to autonomous movement in wearables Just finished my MA Fashion Futures at LCF. My graduate project is a soft robotic wearable — machine-knitted textiles with embedded pneumatic actuators and a servo-controlled valve system. When powered, it performs slow autonomous breathing cycles. The most surprising finding from my research: it's the rhythm, not the appearance, that makes people perceive something as alive. Even knowing it's mechanical, people described feeling like they were wearing something with its own presence. Has anyone else worked on wearable soft robotics and noticed this? Curious how others in this space think about the relationship between autonomous movement and perceived agency. [In a comment below I'll share a short survey I'm running if anyone wants to weigh in — totally optional]
-
-1h ago
+48m ago
 
 ---
 
@@ -80,7 +78,15 @@ I built a garment that breathes on its own for my MA – here's what I learned a
 
 "We fine-tuned π0, a VLA model pretrained entirely on manipulators, to fly a drone that picks up objects, navigates through gates, and composes both skills from language commands." Stanford MSL on 𝕏: https://x.com/StanfordMSL/status/2037760965228556431 π, But Make It Fly: Physics-Guided Transfer of VLA Models to Aerial Manipulation arXiv:2603.25038 [cs.RO]: https://arxiv.org/abs/2603.25038 Project page: https://airvla.github.io/
 
-22h ago
+1d ago
+
+---
+
+**[My MA graduate project: a knitted garment that breathes autonomously — would love this community's reaction](https://www.reddit.com/r/robotics/comments/1s7mhou/my_ma_graduate_project_a_knitted_garment_that/)**
+
+I built a garment that breathes on its own for my MA – here's what I learned about how people respond to autonomous movement in wearables Just finished my MA Fashion Futures at LCF. My graduate project is a soft robotic wearable — machine-knitted textiles with embedded pneumatic actuators and a servo-controlled valve system. When powered, it performs slow autonomous breathing cycles. The most surprising finding from my research: it's the rhythm, not the appearance, that makes people perceive something as alive. Even knowing it's mechanical, people described feeling like they were wearing something with its own presence. Has anyone else worked on wearable soft robotics and noticed this? Curious how others in this space think about the relationship between autonomous movement and perceived agency. [In a comment below I'll share a short survey I'm running if anyone wants to weigh in — totally optional]
+
+3h ago
 
 ---
 
@@ -88,13 +94,7 @@ I built a garment that breathes on its own for my MA – here's what I learned a
 
 I wanted a simple way to drive my robot and monitor topics from my phone — something like ROS-Mobile but for ROS2. Nothing out there fit, so I built ROSdeck. You connect over WiFi to rosbridge or foxglove-bridge, then build a custom tmux style dashboard with widgets: camera feeds, joystick, 2D map with Nav2 goals, battery, IMU, diagnostics, charts, TF tree. Layouts can be loaded and saved across robots. Just open-sourced it: https://github.com/baunuri/rosdeck Android build can be downloaded under releases on the git repo, or available in closed beta track on play store- sign up here: https://rosdeck.github.io What widgets would you actually use day-to-day? Looking for feedback on what to prioritize next.
 
-🔗 [youtube.com](https://youtube.com/shorts/0VJ_A97qTA4) • 2h ago
-
----
-
-**[Who runs out of battery first decides the future](https://www.reddit.com/r/robotics/comments/1s6566h/who_runs_out_of_battery_first_decides_the_future/)**
-
-1d ago
+🔗 [youtube.com](https://youtube.com/shorts/0VJ_A97qTA4) • 4h ago
 
 ---
 
@@ -102,7 +102,7 @@ I wanted a simple way to drive my robot and monitor topics from my phone — som
 
 We recently built an AR game for Quest. It turns chores into a game by detecting and rewarding chores in real-time. It won a big prize from Meta, has a few hundred users, and we’re exploring where to go from here. The game is missing something: what’s the reward beyond XP? This led to a crazy idea - what if the rewards had real value in exchange for players sharing their captures as training data for home robots. Kind of like having an allowance for your chores as an adult. With the added benefit of helping automate boring work. The biggest barrier is privacy. At minimum it has to be opt-in and with some protections like censoring faces and personal info. Looking for more ideas there though. Curious what others think.
 
-9h ago
+11h ago
 
 ---
 
@@ -118,9 +118,25 @@ Fox Business • 1d ago
 
 ---
 
-**[AI Robotics Lab in Talks to Raise $1 Billion at $11 Billion Valuation](https://www.bloomberg.com/news/articles/2026-03-27/ex-deepmind-staffers-robotics-startup-in-talks-for-11-billion-valuation)**
+**[Can exoskeletons help violinists to stay in time? New study says yes](https://www.euronews.com/next/2026/03/29/robotics-can-improve-musical-timing-between-performers-new-study-shows)**
 
-Bloomberg.com • 2d ago
+In the musical experiment, violinists wore lightweight robotic exoskeletons attached to their bow-playing arms, which delivered subtle changes to their natural movements.
+
+Euronews.com • 1d ago
+
+---
+
+**[With Voyager’s help, Icarus Robotics to test free-flyer on ISS](https://spacenews.com/with-voyagers-help-icarus-robotics-to-test-free-flyer-on-iss/)**
+
+SpaceNews • 23m ago
+
+---
+
+**[AGIBOT Reaches 10,000 Units as Real-World Demand for Robots Accelerates](https://www.prnewswire.com/apac/news-releases/agibot-reaches-10-000-units-as-real-world-demand-for-robots-accelerates-302728470.html)**
+
+/PRNewswire/ -- AGIBOT, a leading robotics company specializing in embodied intelligence, today announced the rollout of its 10,000th humanoid robot, becoming...
+
+PR Newswire • 3h ago
 
 ---
 
@@ -128,7 +144,7 @@ Bloomberg.com • 2d ago
 
 Early customers included Disney.
 
-Fortune • 15h ago
+fortune.com • 17h ago
 
 ---
 
@@ -136,7 +152,7 @@ Fortune • 15h ago
 
 The Robotics and AI Institute (RAI) has just released a video of its Roadrunner robot. Although it lacks a torso, the bipedal bot more than makes up for it by rolling, stomping, stair-climbing, and even showing off while using only one of its legs.
 
-New Atlas • 16h ago
+New Atlas • 18h ago
 
 ---
 
@@ -144,7 +160,7 @@ New Atlas • 16h ago
 
 McDonald's tested humanoid robots from Keenon Robotics at a Shanghai location, where they greeted customers and delivered food in a short pilot program.
 
-Fox News • 23h ago
+Fox News • 1d ago
 
 ---
 
@@ -156,31 +172,15 @@ WMUR • 1d ago
 
 ---
 
+**[AI Robotics Lab in Talks to Raise $1 Billion at $11 Billion Valuation](https://www.bloomberg.com/news/articles/2026-03-27/ex-deepmind-staffers-robotics-startup-in-talks-for-11-billion-valuation)**
+
+Bloomberg • 2d ago
+
+---
+
 **[Seals use whisker movement to follow underwater trails—an approach that could improve robotic sensing](https://phys.org/news/2026-03-whisker-movement-underwater-trails-approach.html)**
 
-Phys.org • 21h ago
-
----
-
-**[Can exoskeletons help violinists to stay in time? New study says yes](https://www.euronews.com/next/2026/03/29/robotics-can-improve-musical-timing-between-performers-new-study-shows)**
-
-In the musical experiment, violinists wore lightweight robotic exoskeletons attached to their bow-playing arms, which delivered subtle changes to their natural movements.
-
-Euronews.com • 1d ago
-
----
-
-**[Amazon Acquires Fauna Robotics. Is This a Viable Threat to Tesla's Optimus Project?](https://www.fool.com/investing/2026/03/29/amazon-fauna-robotics-threat-tesla-optimus/)**
-
-Amazon's humanoid bet isn't about competing with Tesla's factory robots. Its about quietly building the operating system for the home.
-
-The Motley Fool • 22h ago
-
----
-
-**[AI benchmark helps robots plan and complete their chores in the real world](https://techxplore.com/news/2026-03-ai-benchmark-robots-chores-real.html)**
-
-Tech Xplore • 19h ago
+Phys.org • 22h ago
 
 ---
 
@@ -234,7 +234,7 @@ Thanks to Delete Me for sponsoring this video. To keep your private info private
 
 📺 Kim Java
 
-👁️ 202K • 👍 8K • 💬 406 • ⏱️ 20:00 • 5d ago
+👁️ 202K • 👍 8K • 💬 406 • ⏱️ 20:00 • 6d ago
 
 ---
 
@@ -242,7 +242,7 @@ Thanks to Delete Me for sponsoring this video. To keep your private info private
 
 📺 Robot Julie 
 
-👁️ 2K • 👍 9 • ⏱️ 0:21 • 10h ago
+👁️ 2K • 👍 9 • ⏱️ 0:21 • 12h ago
 
 ---
 
@@ -282,7 +282,7 @@ We put the Roborock Saros 20 through our standard battery of tests! ✔️ Get t
 
 📺 Vacuum Nerds
 
-👁️ 9K • 👍 172 • 💬 43 • ⏱️ 14:43 • 1d ago
+👁️ 9K • 👍 172 • 💬 43 • ⏱️ 14:43 • 2d ago
 
 ---
 

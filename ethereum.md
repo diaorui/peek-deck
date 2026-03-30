@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-30T11:34:02.066265+00:00'
+updated: '2026-03-30T13:23:10.644972+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- social
 - news
 - cryptocurrency
-- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 30, 2026 at 11:34 UTC  
+**Last Updated:** March 30, 2026 at 13:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,050.64
+### $2,067.09
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.3%  
-**7d:** -4.2%  
-**30d:** +6.6%  
-**90d:** -30.5%  
-**1y:** +13.1%  
+**24h:** +4.5%  
+**7d:** -3.4%  
+**30d:** +7.4%  
+**90d:** -29.9%  
+**1y:** +14.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-357/) • 1h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-357/) • 2h ago
 
 ---
 
@@ -128,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Frame transaction Considered for Inclusion for Hegotá, EthStaker staking survey, EF post-quantum website
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-17/) • 2d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-17/) • 3d ago
 
 ---
 
@@ -156,7 +156,7 @@ Source: https://www.coingecko.com/learn/real-world-assets-rwa-buy-on-chain RWAs 
 
 The project is designed to make Ethereum’s many layer 2s work together more seamlessly.
 
-CoinDesk • 20h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -164,7 +164,21 @@ CoinDesk • 20h ago
 
 The Ethereum Foundation is co-funding the "easy" initiative, which was announced at EthCC in Cannes, and partners include Aave, Titan, Centrifuge, and more.
 
-The Block • 20h ago
+The Block • 22h ago
+
+---
+
+**[Bitcoin and ethereum price today, Monday, March 30, 2026: Values moving up after lower weekend prices](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-monday-march-30-2026-values-moving-up-after-lower-weekend-prices-120045377.html)**
+
+Bitcoin and ethereum opened at $65,957.60 and $1,982.74, respectively, on Monday, nearly even with Sunday’s closing prices. The value of both cryptocurrencies rose in early trading.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin Price Is Rising. Why XRP and Ethereum Are Climbing, Too.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-cryptos-ffbcc0ef?gaa_at=eafs&gaa_n=AWEtsqcZa1jIkh35GAvcpQFx9iJDJOABfvsscu6BaAj6ao1JPwd87dkIDNfv&gaa_ts=69ca7c8c&gaa_sig=pBwNLJcpf4sqxT-1TIwN-VpXWWj8RbxOZQfbcWbQQBJ17OKcQmVxhjyloremFrJI861hesBZRs2UGSxE3uSJJg%3D%3D)**
+
+Barron's • 2h ago
 
 ---
 
@@ -172,31 +186,15 @@ The Block • 20h ago
 
 The Ethereum Foundation has accelerated its treasury staking push, deploying $46.2 million in Ether in its largest move to date after the recent BitMine sale.On Monday, the foundation’s treasury multisignature wallet made 11 deposits into the Ethereum Beacon Deposit Contract, each of roughly 2,047…
 
-TradingView • 2h ago
+TradingView • 4h ago
 
 ---
 
-**[Ethereum Becomes Backbone of Tokenization — 61% Market Share, $206B Settled, 40% Growth in a Year](https://finance.yahoo.com/markets/crypto/articles/ethereum-becomes-backbone-tokenization-61-080935608.html)**
+**[Current price of Ethereum for March 30, 2026](https://fortune.com/article/price-of-ethereum-03-30-2026/)**
 
-Ethereum dominates tokenization with 61% market share, $206 billion in settled volume, and 40% annual growth. Competitors like BNB Chain, Solana, and Avalanche trail far ...
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Yahoo Finance • 3h ago
-
----
-
-**[Ethereum Foundation stakes additional $42 million of ether (ETH)](https://www.coindesk.com/markets/2026/03/30/ethereum-foundation-stakes-additional-usd42-million-of-ether)**
-
-About 20,470 ETH, or roughly $42 million, flowed from Ethereum Foundation-linked wallets into the Beacon Chain in a series of coordinated deposits Monday, marking one of the largest visible batches in its ongoing staking rollout.
-
-CoinDesk • 1h ago
-
----
-
-**[What’s on the Ethereum Roadmap: Glamsterdam, Hegota and Beyond](https://decrypt.co/resources/whats-on-ethereum-roadmap-glamsterdam-hegota-beyond)**
-
-Ethereum has rolled out a steady stream of upgrades since 2022. Here’s how those changes fit together—and what’s still ahead.
-
-Decrypt • 19h ago
+fortune.com • 30m ago
 
 ---
 
@@ -208,23 +206,23 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Ethereum Foundation’s Biggest Stake Ever May Not Stop ETH From Falling Under $1,700](https://www.ccn.com/analysis/crypto/ethereum-foundations-biggest-stake-not-stop-eth-falling/)**
+**[What’s on the Ethereum Roadmap: Glamsterdam, Hegota and Beyond](https://decrypt.co/resources/whats-on-ethereum-roadmap-glamsterdam-hegota-beyond)**
 
-CCN.com • 25m ago
+Ethereum has rolled out a steady stream of upgrades since 2022. Here’s how those changes fit together—and what’s still ahead.
 
----
-
-**[Ethereum looks quiet – But liquidity is building for a bigger move](https://ambcrypto.com/ethereum-looks-quiet-but-liquidity-is-building-for-a-bigger-move/)**
-
-Ethereum sees rising liquidity, activity signaling real demand, while price stays range-bound awaiting stronger deployment.
-
-AMBCrypto • 18h ago
+decrypt.co • 21h ago
 
 ---
 
-**[VanEck’s Ethereum ETF Hit by Sharp Redemptions as Ether Slides Below $2,000](https://www.tipranks.com/news/cryptocurrencies/vanecks-ethereum-etf-hit-by-sharp-redemptions-as-ether-slides-below-2000)**
+**[Ethereum Becomes Backbone of Tokenization — 61% Market Share, $206B Settled, 40% Growth in a Year](https://www.ccn.com/news/crypto/ethereum-backbone-of-tokenization-61-market-206b-settled-40-growth-in-a-year/)**
 
-TipRanks • 18h ago
+CCN.com • 5h ago
+
+---
+
+**[Ethereum Nerves Show as Grayscale Mini Trust Bleeds $6.2 Million in Fresh Outflows](https://www.tipranks.com/news/cryptocurrencies/ethereum-nerves-show-as-grayscale-mini-trust-bleeds-6-2-million-in-fresh-outflows)**
+
+tipranks.com • 3h ago
 
 ---
 
@@ -238,7 +236,7 @@ If you hold Bitcoin or Ethereum... watch this! (alert!) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 221 • ⏱️ 9:24 • 15h ago
+👁️ 36K • 👍 2K • 💬 221 • ⏱️ 9:24 • 16h ago
 
 ---
 
@@ -248,7 +246,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 97 • 👍 6 • ⏱️ 5:12 • 1h ago
+👁️ 97 • 👍 6 • ⏱️ 5:12 • 3h ago
 
 ---
 
@@ -258,7 +256,7 @@ At the Digital Asset Summit 2026 in New York, a key question came up: what do ba
 
 📺 Learn Cardano
 
-👁️ 125 • 👍 27 • 💬 9 • ⏱️ 10:53 • 34m ago
+👁️ 125 • 👍 27 • 💬 9 • ⏱️ 10:53 • 2h ago
 
 ---
 
@@ -278,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 90 • 💬 17 • ⏱️ 3:28 • 11h ago
+👁️ 2K • 👍 90 • 💬 17 • ⏱️ 3:28 • 13h ago
 
 ---
 
@@ -298,7 +296,7 @@ BITCOIN HOLDERS BE WARNED: New Price Targets!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 5K • 👍 200 • 💬 427 • ⏱️ 20:11 • 10h ago
+👁️ 5K • 👍 200 • 💬 427 • ⏱️ 20:11 • 12h ago
 
 ---
 
@@ -318,7 +316,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 998 • 👍 102 • ⏱️ 6:53 • 9h ago
+👁️ 998 • 👍 102 • ⏱️ 6:53 • 10h ago
 
 ---
 
@@ -328,7 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 80 • 💬 6 • ⏱️ 3:36 • 18h ago
+👁️ 2K • 👍 80 • 💬 6 • ⏱️ 3:36 • 20h ago
 
 ---
 
