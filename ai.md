@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-30T05:26:23.407695+00:00'
+updated: '2026-03-30T07:07:18.243141+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - social
 - videos
-- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 30, 2026 at 05:26 UTC  
+**Last Updated:** March 30, 2026 at 07:07 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Link: https://m.youtube.com/watch?v=1sd26pWhfmg The Linux exploit is especially interesting because it was introduced in 2003 and was never found until now. It’s also a major security issue because it allows attackers to steal the admin key. It was a buffer overflow error, which are so hard to do that Carlini has never done it before. He also says he expects LLMs to only get better overtime, which is likely true if Mythos lives up to the rumors. here are his Wikipedia and Google Scholar pages in case you doubt his credibility: https://en.wikipedia.org/wiki/Nicholas_Carlini https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=carlini&btnG=
 
-10h ago
+12h ago
 
 ---
 
@@ -49,7 +49,7 @@ Link: https://m.youtube.com/watch?v=1sd26pWhfmg The Linux exploit is especially 
 
 Ran into this building an agent that could trigger API calls. We had validation, tool constraints, retries… everything looked “safe”. Still ended up executing the same action twice due to stale state + retry. Nothing actually prevented execution. It only shaped behavior. Curious what people use as a real execution gate: 1. something external to the agent 2. deterministic allow / deny 3. fail-closed if denied Any concrete patterns or systems that enforce this in practice?
 
-8h ago
+10h ago
 
 ---
 
@@ -57,7 +57,7 @@ Ran into this building an agent that could trigger API calls. We had validation,
 
 Most of the current “AI security” stack seems focused on: • prompts • identities • outputs After an agent deleted a prod database on me a year ago. I saw the gap and started building. a control layer directly in the execution path between agents and tools. We are to market but I don’t want to spam yall with our company so I left it out. ⸻ What that actually means Every time an agent tries to take an action (API call, DB read, file access, etc.), we intercept it and decide in real time: • allow • block • require approval But the important part is how that decision is made. ⸻ A few things we’re doing differently Credential starvation (instead of trusting long-lived access) Agents don’t get broad, persistent credentials. They effectively operate with nothing by default, and access is granted per action based on policy + context. ⸻ Session-based risk escalation (not stateless checks) We track behavior across the entire session. Example: • one DB read → fine • 20 sequential reads + export → risk escalates • tool chaining → risk escalates So decisions aren’t per-call—they’re based on what the agent has been doing over time. ⸻ HITL only when it actually matters We don’t want humans in the loop for everything. Instead: • low risk → auto allow • medium risk → maybe constrained • high risk → require approval The idea is targeted interruption, not constant friction. ⸻ Autonomy zones Different environments/actions have different trust levels. Example: • read-only internal data → low autonomy constraints • external API writes → tighter controls • sensitive systems → very restricted Agents can operate freely within a zone, but crossing boundaries triggers stricter enforcement. ⸻ Per-tool, per-action control (not blanket policies) Not just “this agent can use X tool” More like: • what endpoints • what parameters • what frequency • in what sequence So risk is evaluated at a much more granular level. ⸻ Hash-chained audit log (including near-misses) Every action (allowed, blocked, escalated) is: • logged • chained • tamper-evident Including “almost bad” behavior not just incidents. This ended up being more useful than expected for understanding agent behavior. ⸻ Policy engine (not hardcoded rules) All of this runs through a policy layer (think flexible rules vs static checks), so behavior can adapt without rewriting code. ⸻ Setup is fast (~10 min) We tried to avoid the “months of integration” problem. If it’s not easy to sit in the execution path, nobody will actually use it. ⸻ Why we think this matters The failure mode we keep seeing: agents don’t fail because of one bad prompt — they fail because of a series of individually reasonable actions that become risky together Most tooling doesn’t really account for that. ⸻ Would love feedback from people actually building agents • Have you seen agents drift into risky behavior over time? • How are you controlling tool usage today (if at all)? • Does session-level risk make sense, or is that overkill? • Is “credential starvation” realistic in your setups? We are just two security guys who built a company not some McKenzie bros who are super funded. We have our first big design partners starting this month and need all these feedback from community as we can get.
 
-3h ago
+5h ago
 
 ---
 
@@ -65,7 +65,7 @@ Most of the current “AI security” stack seems focused on: • prompts • id
 
 Police used AI facial recognition to arrest a Tennessee woman for crimes committed in a state she says she’s never visited.[1] AMD Introduces GAIA Agent UI For Privacy-First Web App For Local AI Agents.[2] Agent-Infra Releases AIO Sandbox: An All-in-One Runtime for AI Agents with Browser, Shell, Shared Filesystem, and MCP.[3] Google-Agent vs Googlebot: Google Defines the Technical Boundary Between User Triggered AI Access and Search Crawling Systems Today.[4] Sources: [1] https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition [2] https://www.phoronix.com/news/AMD-GAIA-0.17-Agent-UI [3] https://www.marktechpost.com/2026/03/29/agent-infra-releases-aio-sandbox-an-all-in-one-runtime-for-ai-agents-with-browser-shell-shared-filesystem-and-mcp/ [4] https://www.marktechpost.com/2026/03/28/google-agent-vs-googlebot-google-defines-the-technical-boundary-between-user-triggered-ai-access-and-search-crawling-systems-today/
 
-46m ago
+2h ago
 
 ---
 
@@ -73,7 +73,7 @@ Police used AI facial recognition to arrest a Tennessee woman for crimes committ
 
 Reddit has become the AI algorithm’s favourite website. This is why it is becoming popular, and how to use it.
 
-🔗 [euronews](https://www.euronews.com/next/2026/02/28/reddit-on-the-rise-what-is-it-and-why-is-ai-search-popularising-it) • 2h ago
+🔗 [euronews](https://www.euronews.com/next/2026/02/28/reddit-on-the-rise-what-is-it-and-why-is-ai-search-popularising-it) • 3h ago
 
 ---
 
@@ -89,7 +89,7 @@ I run a small AI companion platform and wanted to share some interesting behavio
 
 Sharing this for a friend conducting an academic study for her MBA thesis on how employees make sense of AI use in workplace communication. Specifically: disclosed vs. inferred AI use, and what difference that makes. Anonymous, under 5 minutes: English: https://whudrdl.qualtrics.com/jfe/form/SV\_1G4k3TKx8xhXwXQ German: https://whudrdl.qualtrics.com/jfe/form/SV\_3OYZNjGJr4qfceq Thanks a lot for your participation and support!
 
-12h ago
+13h ago
 
 ---
 
@@ -125,7 +125,7 @@ Here's a playbook that works today, right now, with tools that are either free o
 
 A Tennessee grandmother spent more than five months in jail after police used an AI facial recognition tool to link her to crimes committed in North Dakota – a state she says she’d never been to before. Police in Fargo, North Dakota, have acknowledged “a few errors” in the case and pledged changes in their operations but stopped short of issuing a direct apology.
 
-CNN • 19h ago
+CNN • 21h ago
 
 ---
 
@@ -133,41 +133,15 @@ CNN • 19h ago
 
 More tech leaders are pointing to job cuts caused by AI tools - and a need for more investment cash.
 
-BBC • 6h ago
+BBC • 8h ago
 
 ---
 
-**[One Man, His Dog, And ChatGPT: Australia's AI Vaccine Saga](https://www.barrons.com/articles/one-man-his-dog-and-chatgpt-australia-s-ai-vaccine-saga-396cf9d7?gaa_at=eafs&gaa_n=AWEtsqdvUWsbUGeApA3-Hyao2iDNH22lyxHY97gyadWTpYkcGJbFrEaLNIlI&gaa_ts=69ca0ce7&gaa_sig=ilSe0T9qcW94q2XC61TFfrbWO2TXwQkEoIt3dlvYXudlv5RjxkajFVQCEh_-1J1ZpbegVaG1ZfAf4dCVCB3TTw%3D%3D)**
+**[3 Artificial Intelligence (AI) Stocks That Could Help Set You Up for Life](https://finance.yahoo.com/markets/stocks/articles/3-artificial-intelligence-ai-stocks-042000631.html)**
 
-Barron's • 9m ago
+These companies are building the backbone of this powerful technology.
 
----
-
-**[AI influencer discovery tools are changing how agencies cast creators](https://digiday.com/marketing/ai-influencer-discovery-tools-are-changing-how-agencies-cast-creators/)**
-
-As creator spending grows among brands, agencies tap AI to automate much of the influencer marketing workflow. Now, that includes casting.
-
-Digiday • 1h ago
-
----
-
-**[The Anti-AI Slop Playbook](https://www.vogue.com/article/the-anti-ai-slop-playbook)**
-
-As generative AI floods the market with fast, low-cost content, luxury brands are learning to harness the tech without eroding the value of craft, authorship, and cultural authority. From “anti-slop” design cues to immersive real-world experiences, a new playbook is emerging.
-
-Vogue • 56m ago
-
----
-
-**[JFK grandson Schlossberg says billionaires, ‘massive AI companies’ spending millions in New York House race](https://thehill.com/homenews/campaign/5806153-jfk-grandson-schlossberg-says-billionaires-massive-ai-companies-spending-millions-in-new-york-house-race/)**
-
-The Hill • 18h ago
-
----
-
-**[Opinion | Your Chatbot Isn’t a Therapist](https://www.nytimes.com/2026/03/29/opinion/chatbot-therapy-ai.html)**
-
-The New York Times • 16h ago
+finance.yahoo.com • 2h ago
 
 ---
 
@@ -175,21 +149,49 @@ The New York Times • 16h ago
 
 U.S. pharmaceutical giant Eli Lilly will give Hong Kong-listed Insilico $115 million upfront to bring some of its AI-discovered drugs to the global market.
 
-CNBC • 15h ago
+CNBC • 17h ago
 
 ---
 
-**[AI drug developer Insilico Medicine and Lilly ink commercialization deal worth up to $2.75 billion](https://www.statnews.com/2026/03/29/insilico-medicine-lilly-sign-ai-drug-commercialization-deal/)**
+**[Eli Lilly, InSilico Strike AI Drug Discovery Deal](https://www.wsj.com/health/pharma/eli-lilly-insilico-strike-ai-drug-discovery-deal-acea2b45?gaa_at=eafs&gaa_n=AWEtsqcByFgEWUOAxar-KgDuOCcfy1eh58ZODIgOR65uqbRqurRu5WU9Cas0&gaa_ts=69ca2492&gaa_sig=qsCz6WRcaL9FMmAj-_GxTtSgCIY11FhWWlEdflynKLPlmTJUBEJgnS6018LG6zYvtLPH5y23j17Rd4bpx9rH0w%3D%3D)**
 
-Lilly has signed a deal with AI drug developer Insilico that’s worth $115 million up front and approximately $2.75 billion in biobucks
-
-statnews.com • 11h ago
+WSJ • 3h ago
 
 ---
 
-**[Eli Lilly, InSilico Strike AI Drug Discovery Deal](https://www.wsj.com/health/pharma/eli-lilly-insilico-strike-ai-drug-discovery-deal-acea2b45?gaa_at=eafs&gaa_n=AWEtsqeHMuw-2zG1j3HOzVEVx0fbkqoR2Viig1IgZTm7XfjmO0YZTXv4AxYJ&gaa_ts=69ca0ce7&gaa_sig=1ia-MF7EOTSKAnD0aApPA-mdBrUFck_OsG8VCkakt7Y3nmxeMGfk0aAbhNNpB8CW8owlZtIzsJheP_94ZkgrXA%3D%3D)**
+**[Hong Kong's Insilico reaches $2.75 billion Eli Lilly deal for AI-developed drugs](https://www.cnbc.com/video/2026/03/30/hong-kongs-insilico-reaches-2pt75-billion-eli-lilly-deal-for-ai-developed-drugs.html)**
 
-WSJ • 1h ago
+Hong-Kong listed Insilico Medicine has announced a new $2.75 billion deal with U.S. pharmaceutical giant Eli Lilly, which will see both firms leveraging on artificial intelligence for future pharmaceutical research. CNBC's Evelyn Cheng reports from Beijing.
+
+CNBC • 1h ago
+
+---
+
+**[Young local founder gaining traction with new AI speaking coach startup Wellspoken](https://richmondbizsense.com/2026/03/30/young-local-founder-gaining-traction-with-new-ai-speaking-coach-startup-wellspoken/)**
+
+“After graduation I got a few job offers, but I decided that I want to bet on myself,” Wellspoken founder Liam Du said.
+
+Richmond BizSense • 1h ago
+
+---
+
+**[JFK grandson Schlossberg says billionaires, ‘massive AI companies’ spending millions in New York House race](https://thehill.com/homenews/campaign/5806153-jfk-grandson-schlossberg-says-billionaires-massive-ai-companies-spending-millions-in-new-york-house-race/)**
+
+The Hill • 20h ago
+
+---
+
+**[Opinion | Your Chatbot Isn’t a Therapist](https://www.nytimes.com/2026/03/29/opinion/chatbot-therapy-ai.html)**
+
+The New York Times • 18h ago
+
+---
+
+**[The Man Who Thought He Could Keep AI Safe](https://www.theatlantic.com/ideas/2026/03/ai-google-deep-mind-hassabis/686527/)**
+
+Demis Hassabis has devoted his life to advancing a technology he thinks could destroy the world.
+
+The Atlantic • 21h ago
 
 ---
 
@@ -199,7 +201,7 @@ WSJ • 1h ago
 
 **[AI overly affirms users asking for personal advice](https://news.ycombinator.com/item?id=47554773)**
 
-⬆️ 760 • 💬 597 • 1d ago • [news.stanford.edu](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
+⬆️ 766 • 💬 601 • 1d ago • [news.stanford.edu](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
 
 ---
 
@@ -215,7 +217,7 @@ LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. In
 
 A Tennessee grandmother spent more than five months in jail after police used an AI facial recognition tool to link her to crimes committed in North Dakota – a state she says she’d never been to before. Police in Fargo, North Dakota, have acknowledged “a few errors” in the case and pledged changes in their operations but stopped short of issuing a direct apology.
 
-⬆️ 380 • 💬 164 • 15h ago • [CNN](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
+⬆️ 385 • 💬 165 • 16h ago • [CNN](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
 
 ---
 
@@ -229,7 +231,7 @@ A Tennessee grandmother spent more than five months in jail after police used an
 
 Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma development by creating an account on GitHub.
 
-⬆️ 304 • 💬 220 • 19h ago • [GitHub](https://github.com/austin-weeks/miasma)
+⬆️ 310 • 💬 223 • 20h ago • [GitHub](https://github.com/austin-weeks/miasma)
 
 ---
 
@@ -237,13 +239,13 @@ Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma
 
 : Sycophantic bots coach users into selfish, antisocial behavior, say researchers, and they love it
 
-⬆️ 282 • 💬 221 • 1d ago • [theregister.com](https://www.theregister.com/2026/03/27/sycophantic_ai_risks/)
+⬆️ 283 • 💬 221 • 1d ago • [theregister.com](https://www.theregister.com/2026/03/27/sycophantic_ai_risks/)
 
 ---
 
 **[Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem](https://news.ycombinator.com/item?id=47557166)**
 
-⬆️ 252 • 💬 173 • 1d ago • [X (formerly Twitter)](https://twitter.com/BoWang87/status/2037648937453232504)
+⬆️ 253 • 💬 173 • 1d ago • [X (formerly Twitter)](https://twitter.com/BoWang87/status/2037648937453232504)
 
 ---
 
@@ -251,13 +253,13 @@ Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma
 
 A personal blog, by a programmer and IT expert. Essays, Articles, Guides, and Recipes. As well as Code, Quotes, and Links.
 
-⬆️ 211 • 💬 139 • 1d ago • [lzon.ca](https://lzon.ca/posts/other/thoughts-ai-era/)
+⬆️ 212 • 💬 139 • 1d ago • [lzon.ca](https://lzon.ca/posts/other/thoughts-ai-era/)
 
 ---
 
 **[What if AI doesn't need more RAM but better math?](https://news.ycombinator.com/item?id=47561297)**
 
-⬆️ 168 • 💬 89 • 21h ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more)
+⬆️ 172 • 💬 90 • 22h ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more)
 
 ---
 
@@ -279,7 +281,7 @@ Anthropic accidentally exposed Claude MYTHOS, its most powerful AI yet, Meta unv
 
 📺 AI Revolution
 
-👁️ 10K • 👍 464 • 💬 32 • ⏱️ 12:51 • 5h ago
+👁️ 10K • 👍 464 • 💬 32 • ⏱️ 12:51 • 7h ago
 
 ---
 
@@ -289,7 +291,7 @@ Detailed sources: https://docs.google.com/document/d/1P1X9xEmmgSYH0g1FSizgV2rDVo
 
 📺 Species | Documenting AGI
 
-👁️ 50K • 👍 4K • 💬 851 • ⏱️ 35:45 • 14h ago
+👁️ 50K • 👍 4K • 💬 851 • ⏱️ 35:45 • 15h ago
 
 ---
 
@@ -299,7 +301,7 @@ I Tried Every AI Video Generator and ranked them for you!. Try ALL AI Video Gene
 
 📺 Mira AI
 
-👁️ 8K • 💬 4 • ⏱️ 13:00 • 13h ago
+👁️ 8K • 💬 4 • ⏱️ 13:00 • 14h ago
 
 ---
 
@@ -309,7 +311,7 @@ we're getting alot of good signs that the ai bubble might burst soon and things 
 
 📺 Luneist
 
-👁️ 7K • 👍 426 • 💬 122 • ⏱️ 6:23 • 14h ago
+👁️ 7K • 👍 426 • 💬 122 • ⏱️ 6:23 • 16h ago
 
 ---
 
@@ -457,7 +459,7 @@ Context-1 is a 20B parameter agentic search model that decomposes complex querie
 
 `text-generation` `20.9B`
 
-⬇️ 1,089 • ❤️ 240 • 4h ago
+⬇️ 1,089 • ❤️ 240 • 6h ago
 
 ---
 
@@ -667,7 +669,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 8.9k • 🔱 737 • 1m ago
+⭐ 8.9k • 🔱 737 • 1h ago
 
 ---
 
@@ -677,7 +679,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 7.5k • 🔱 1.2k • 23h ago
+⭐ 7.5k • 🔱 1.2k • 1d ago
 
 ---
 
@@ -687,7 +689,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 5.6k • 🔱 674 • 20m ago
+⭐ 5.6k • 🔱 674 • 2h ago
 
 ---
 
@@ -707,7 +709,7 @@ A command-line tool for Lark/Feishu Open Platform — built for humans and AI Ag
 
 `Go`
 
-⭐ 3.7k • 🔱 171 • 2h ago
+⭐ 3.7k • 🔱 171 • 3h ago
 
 ---
 

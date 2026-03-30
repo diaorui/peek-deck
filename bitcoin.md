@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-30T05:26:23.417419+00:00'
+updated: '2026-03-30T07:07:18.251501+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 30, 2026 at 05:26 UTC  
+**Last Updated:** March 30, 2026 at 07:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,032.75
+### $67,368.33
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** -4.2%  
-**30d:** +2.9%  
-**90d:** -22.9%  
-**1y:** -18.0%  
+**24h:** +0.9%  
+**7d:** -4.7%  
+**30d:** +2.4%  
+**90d:** -23.3%  
+**1y:** -18.4%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Welcome to Bitcoin 2026 edition](https://www.reddit.com/r/Bitcoin/comments/1s6v37e/welcome_to_bitcoin_2026_edition/)**
 
-15h ago
+17h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 been dollar cost averaging for about 2.5 years now and this recent pullback let me reach 2 whole coins sooner than i thought. originally figured i wouldn't get there until around december. perfect time to stack more while prices are down. anyone else taking advantage of these levels? (already know about teh dm scammers so don't bother)
 
-6h ago
+7h ago
 
 ---
 
@@ -95,7 +95,7 @@ been dollar cost averaging for about 2.5 years now and this recent pullback let 
 
 Whenever I suggest to look into Bitcoin I'm treated like a snake oil salesman or ignored altogether. So many people are drowning and it doesn't feel like enough people are catching on. It's been like this for a while now and doesn't look like anything will change. Oh well. Stay humble and stack, I guess.
 
-5h ago
+7h ago
 
 ---
 
@@ -103,7 +103,7 @@ Whenever I suggest to look into Bitcoin I'm treated like a snake oil salesman or
 
 I’d say DCA is by far the most advocated strategy on this sub. But it's common to see people suggesting adjustments to it. The goal is usually to buy more Bitcoin during dips, creating some form of “Dynamic DCA” based on indicators like drawdown. Although many people here are against changing the sacred DCA strategy, I think Dynamic DCA has its place. I mean, even River introduced “Supercharged” recurring buys, which is essentially a type of Dynamic DCA. So I decided to build a backtesting tool to see if Dynamic DCA is actually worth it. https://preview.redd.it/unzg55oxg2sg1.png?width=1881&format=png&auto=webp&s=b8888de6a48318a0b2b24bb73317edfbf7429f15 In this test I’m comparing two strategies over the last 4 years: a regular weekly DCA buy of $300 and a Dynamic DCA strategy based on drawdowns that works like this: - Base buy: $100 - Drawdown >= 25%: $300 - Drawdown >= 50%: $600 The result is impressive. The Dynamic DCA strategy almost doubles the return compared to the regular DCA. While the regular strategy ends up with around $103k and 1.55 BTC, the Dynamic version reaches about $153k and 2.31 BTC. All that while investing roughly the same amount of money. If you want to try it yourself and share some feedback, feel free to test it here. You can also experiment with other indicators like Fear & Greed or the Mayer Multiple.
 
-6h ago
+7h ago
 
 ---
 
@@ -111,7 +111,7 @@ I’d say DCA is by far the most advocated strategy on this sub. But it's common
 
 "I don't believe we shall have good money until we take it from the government. All we can do is, by a sly, roundabout way, introduce something they can't stop."
 
-22h ago
+23h ago
 
 ---
 
@@ -119,7 +119,7 @@ I’d say DCA is by far the most advocated strategy on this sub. But it's common
 
 If all places accept Bitcoin, the adoption will be extremely fast. Walmart has it on the app, CashApp has it and if you go to Stake and Shake you can pay with Bitcoin and order your Bitcoin Stake burger. It would be nice if all places have something related to Bitcoin for purchases made on Bitcoin. Great idea and Stake and Shake is ahead of the game. Do you have a favorite restaurant that you will love do this?
 
-9h ago
+10h ago
 
 ---
 
@@ -127,7 +127,7 @@ If all places accept Bitcoin, the adoption will be extremely fast. Walmart has i
 
 been thinking about this lately since everything seems cheap right now and i keep wanting to throw more cash at btc curious what everyone else is doing with their allocation between crypto and the usual stuff like index funds, individual stocks, bonds etc what percentage are you running and why did you pick that split? im a dev so i tend to overthink these decisions but would love to hear different approaches also yes i use arch btw and my fantasy team is doing terrible this year but thats another story lol
 
-10h ago
+12h ago
 
 ---
 
@@ -135,7 +135,7 @@ been thinking about this lately since everything seems cheap right now and i kee
 
 BitcoinCurate.com — pulls headlines from 30+ sources including news, YouTube, podcasts and Reddit. Updated every 15 minutes. Dark mode available. Built by a non-AI human. Would love any feedback, please. I'm a Bitcoiner in the Boston area. thanks
 
-9h ago
+11h ago
 
 ---
 
@@ -143,15 +143,15 @@ BitcoinCurate.com — pulls headlines from 30+ sources including news, YouTube, 
 
 I feel like some parts seem simple at first, but then you realize there’s a lot more going on underneath. For me, there are still a few things that I had to go back and read multiple times before they started to make sense. Curious how it was for others, was there something that took you a while before it finally clicked?
 
-8h ago
+10h ago
 
 ---
 
-**[Perfect timing for accumulating more BTC](https://www.reddit.com/r/Bitcoin/comments/1s74drx/perfect_timing_for_accumulating_more_btc/)**
+**[Daily Discussion, March 30, 2026](https://www.reddit.com/r/Bitcoin/comments/1s7ihj4/daily_discussion_march_30_2026/)**
 
-Markets are pretty rough right now with everything going on globally, but I'm trying to stay focused on the long-term picture. Things always seem to work themselves out eventually, even if the recovery process gets messy. Right now I'm treating every dip as a chance to add to my position. Been setting aside a portion of each paycheck and buying small amounts whenever we hit new local lows. No way to time the exact bottom obviously, but dollar cost averaging on the way down has worked well for me in the past. My productivity tracker app actually sends me alerts when the price drops more than 8% so I don't miss these windows. Might sound a bit obsessive but it's helped me stay disciplined about accumulating during volatile periods like this one.
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-10h ago
+1h ago
 
 ---
 
@@ -163,7 +163,7 @@ Markets are pretty rough right now with everything going on globally, but I'm tr
 
 The company seemed to have skipped it's weekly bitcoin purchase announcement for the first time since late december.
 
-CoinDesk • 10h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -175,11 +175,11 @@ NBC News • 1d ago
 
 ---
 
-**[Is Bitcoin a Good Investment for Building Wealth?](https://www.fool.com/investing/2026/03/29/is-bitcoin-a-good-investment-for-building-wealth/)**
+**[Bitcoin ETFs Bleed $290M as ‘Risk-Off’ Mood Deepens](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-bleed-290m-risk-054046235.html)**
 
-It can't replace index funds, but it could still be helpful to own some.
+Analysts attribute last week's BTC ETF outflows to geopolitical tensions, fading ceasefire hopes, and end-of-quarter rebalancing.
 
-fool.com • 3h ago
+finance.yahoo.com • 1h ago
 
 ---
 
@@ -187,15 +187,15 @@ fool.com • 3h ago
 
 Thesemining companies are increasingly resembling data center operators, just coincidentally still engaged in Bitcoin mining.
 
-富途牛牛 • 1h ago
+富途牛牛 • 3h ago
 
 ---
 
-**[Is Bitcoin a Good Investment for Building Wealth?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-good-investment-building-wealth-022000041.html)**
+**[Bitcoin crashes below $68K: is 6-month bearish streak coming?](https://www.tradingview.com/news/invezz:e58472138094b:0-bitcoin-crashes-below-68k-is-6-month-bearish-streak-coming/)**
 
-It can't replace index funds, but it could still be helpful to own some.
+Bitcoin’s latest slide has revived one of the more uncomfortable questions hanging over the crypto market this year.The investors are now seriously asking if this is just another ugly week or a deeper losing streak?What seems clear is that the pressure has built for weeks.Bitcoin slipped back below…
 
-Yahoo Finance • 3h ago
+TradingView • 36m ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 3h ago
 
 Multiple analysts warn that if Bitcoin's drawdown deepens toward $40,000–$45,000, historical patterns suggest a recovery to all-time highs may not arrive until after Q2 2027.
 
-Bitbo • 15h ago
+Bitbo • 16h ago
 
 ---
 
@@ -211,15 +211,15 @@ Bitbo • 15h ago
 
 The new Digital Asset PARITY Act draft would extend wash-sale rules to digital assets while shielding certain regulated payment stablecoins from routine gain-or-loss recognition.
 
-CryptoSlate • 9h ago
+CryptoSlate • 10h ago
 
 ---
 
-**[Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week](https://247wallst.com/investing/2026/03/28/why-is-crypto-crashing-bitcoin-xrp-ethereum-and-solana-all-down-this-week/)**
+**[Forget Bitcoin: This Crypto Is the Smarter Buy Right Now](https://www.fool.com/investing/2026/03/27/forget-bitcoin-this-crypto-is-the-smarter-buy-righ/)**
 
-Bitcoin, XRP, Ethereum, and Solana are all down by 6-8% in a week. Here's what's driving the crypto market crash and what to watch next.
+Solana could generate bigger near-term gains than the top cryptocurrency.
 
-24/7 Wall St. • 1d ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -229,11 +229,11 @@ Forbes • 1d ago
 
 ---
 
-**[The End Of Bitcoin Will Be Its New Beginning (Cryptocurrency: BTC-USD)](https://seekingalpha.com/article/4886535-the-end-of-bitcoin-will-be-its-new-beginning)**
+**[Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week](https://247wallst.com/investing/2026/03/28/why-is-crypto-crashing-bitcoin-xrp-ethereum-and-solana-all-down-this-week/)**
 
-Bitcoin is no longer driven by scarcity-based models; its price now tracks demand dynamics and correlates with high-beta tech indices. Learn more about BTC-USD here.
+Bitcoin, XRP, Ethereum, and Solana are all down by 6-8% in a week. Here's what's driving the crypto market crash and what to watch next.
 
-Seeking Alpha • 2d ago
+24/7 Wall St. • 1d ago
 
 ---
 
@@ -263,7 +263,7 @@ Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes
 
 **[Uni feels so usless, I cant focus anymore](https://news.ycombinator.com/item?id=47567925)**
 
-⬆️ 7 • 💬 3 • 7h ago
+⬆️ 7 • 💬 3 • 8h ago
 
 ---
 
@@ -277,7 +277,7 @@ The market looks calm on the surface but the cracks are getting worse. From glob
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 899 • 💬 104 • ⏱️ 12:24 • 7h ago
+👁️ 11K • 👍 899 • 💬 104 • ⏱️ 12:24 • 8h ago
 
 ---
 
@@ -287,7 +287,7 @@ If you hold Bitcoin or Ethereum... watch this! (alert!) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 2K • 💬 192 • ⏱️ 9:24 • 8h ago
+👁️ 26K • 👍 2K • 💬 192 • ⏱️ 9:24 • 10h ago
 
 ---
 
@@ -347,7 +347,7 @@ Learn 50+ years of Real Economics in only 7 weeks. Apply here: https://www.steve
 
 📺 ProfSteveKeen
 
-👁️ 40K • 👍 2K • 💬 403 • ⏱️ 10:57 • 10h ago
+👁️ 40K • 👍 2K • 💬 403 • ⏱️ 10:57 • 12h ago
 
 ---
 
@@ -355,7 +355,7 @@ Learn 50+ years of Real Economics in only 7 weeks. Apply here: https://www.steve
 
 📺 Andrei Jikh
 
-👁️ 10K • 👍 477 • 💬 15 • ⏱️ 2:32 • 4h ago
+👁️ 10K • 👍 477 • 💬 15 • ⏱️ 2:32 • 6h ago
 
 ---
 
