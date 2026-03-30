@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-30T22:37:09.690401+00:00'
+updated: '2026-03-30T23:36:12.964286+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
+- social
 - repositories
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 30, 2026 at 22:37 UTC  
+**Last Updated:** March 30, 2026 at 23:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 Was at Nvidia's GTC conference recently and honestly, it was one of the most eye-opening events I've attended in a while. There was a lot to unpack, but my single biggest takeaway was this: world modelling is the actual GOAT of AI right now, and I don't think people outside the research community fully appreciate what's coming. A year ago, when I was doing the conference circuit, world models were still this niche, almost academic concept. You'd bring it up and get blank stares or polite nods. Now? Every serious conversation at GTC was circling back to it. The shift in recognition has been dramatic. It feels like the moment in 2021 when everyone suddenly "got" transformers. For those unfamiliar: world models are AI systems that don't just predict the next token. They build an internal representation of how the world works. They can simulate environments, plan ahead, reason about cause and effect, and operate across long time horizons. This is fundamentally different from what LLMs do, which is essentially very sophisticated pattern matching on text. Jensen Huang made it very clear at GTC that the next frontier isn't just bigger language models, rather it's AI that can understand and simulate reality aka world models. That said, I do have one major gripe, that almost every application of world modelling I've seen is in robotics (physical AI, autonomous vehicles, robotic manipulation). That's where all the energy seems to be going. Don’t get me wrong, it is still exciting but I can't help but feel like we're leaving enormous value on the table in non-physical domains. Think about it, world models applied in business management, drug discovery, finance and many more. The potential is massive, but the research and commercial applications outside of robotics feel underdeveloped right now. So I'm curious: who else is doing interesting work here? Are there companies or research labs pushing world models into non-physical domains that I should be watching? Drop them below.
 
-2h ago
-
----
-
-**[The Rationing: AI companies are using the "subsidize, addict, extract" playbook — and developers are the product](https://www.reddit.com/r/artificial/comments/1s7o0ef/the_rationing_ai_companies_are_using_the/)**
-
-Anthropic just ran the classic platform playbook on developers: offer generous limits to build dependency, then tighten the screws once the workflow is locked in. Their Spring Break promotion doubled off-peak limits for two weeks. It expired Saturday. Monday morning, developers are hitting walls they didn't have two weeks ago. The economics tell the story. Anthropic reportedly spends $2-3 per hour of heavy Claude Code usage. They charge $20/month. The math doesn't work — every power user is a net loss. The promotion wasn't a gift; it was a stress test ahead of a potential $60B+ IPO. Get developers hooked at 2x limits, then normalize the tighter baseline. This is the same subsidize-addict-extract cycle we've seen from Uber, DoorDash, and every VC-funded platform. The difference: when Uber raises prices, you take a bus. When your AI coding tool rations you mid-sprint, your entire workflow collapses. The switching cost is neurological, not just financial. Deep dive with full data: https://sloppish.com/the-rationing
-
-11h ago
+3h ago
 
 ---
 
@@ -57,7 +49,7 @@ Anthropic just ran the classic platform playbook on developers: offer generous l
 
 A few hours ago, the first author of a paper that played a significant role in the TQ paper posted about some ongoing issues: In May 2025, our emails directly raised the theoretical and empirical issues; Majid wrote that he had informed his co-authors. During ICLR review, reviewers also asked for clarification about random rotation and the relation to RaBitQ. On March 26, 2026, we formally raised these concerns again to all authors and were told that corrections would wait until after the ICLR 2026 conference takes place; we were also told that they would not acknowledge the structural similarity regarding the Johnson-Lindenstrauss transformation. We do not consider that acceptable given the present level of public promotion and community confusion. We are posting this comment so that the community has an accurate public record. We request that the authors publicly and promptly clarify the method-level relationship between TurboQuant and RaBitQ, the theory comparison, and the exact experimental conditions underlying the reported RaBitQ baseline. Given that these concerns were known before ICLR submission and before the current round of public promotion of TurboQuant, we believe it is necessary to bring these issues into the public discussion.
 
-4h ago
+5h ago
 
 ---
 
@@ -65,19 +57,43 @@ A few hours ago, the first author of a paper that played a significant role in t
 
 https://shapingrooms.com/research I published a paper today on something I've been calling postural manipulation. The short version: ordinary language buried in prior context can shift how an AI reasons about a decision before any instruction arrives. No adversarial signature. Nothing that looks like an attack. The model does exactly what it's told, just from a different angle than intended. I know that sounds like normal context sensitivity. It isn't, or at least the effect is much larger than expected. I ran matched controls and documented binary decision reversals across four frontier models. The same question, the same task, two different answers depending on what came before it in the conversation. In agentic systems it compounds. A posture installed early in one agent can survive summarization and arrive at a downstream agent looking like independent expert judgment. No trace of where it came from. The paper is published following coordinated disclosure to Anthropic, OpenAI, Google, xAI, CERT/CC, and OWASP. I don't have all the answers and I'm not claiming to. The methodology is observational, no internals access, limitations stated plainly. But the effect is real and reproducible and I think it matters. If you want to try it yourself the demos are at https://shapingrooms.com/demos - works against any frontier model, no setup required. Happy to discuss.
 
-7h ago
+8h ago
+
+---
+
+**[The Rationing: AI companies are using the "subsidize, addict, extract" playbook — and developers are the product](https://www.reddit.com/r/artificial/comments/1s7o0ef/the_rationing_ai_companies_are_using_the/)**
+
+Anthropic just ran the classic platform playbook on developers: offer generous limits to build dependency, then tighten the screws once the workflow is locked in. Their Spring Break promotion doubled off-peak limits for two weeks. It expired Saturday. Monday morning, developers are hitting walls they didn't have two weeks ago. The economics tell the story. Anthropic reportedly spends $2-3 per hour of heavy Claude Code usage. They charge $20/month. The math doesn't work — every power user is a net loss. The promotion wasn't a gift; it was a stress test ahead of a potential $60B+ IPO. Get developers hooked at 2x limits, then normalize the tighter baseline. This is the same subsidize-addict-extract cycle we've seen from Uber, DoorDash, and every VC-funded platform. The difference: when Uber raises prices, you take a bus. When your AI coding tool rations you mid-sprint, your entire workflow collapses. The switching cost is neurological, not just financial. Deep dive with full data: https://sloppish.com/the-rationing
+
+12h ago
 
 ---
 
 **[The state of AI safety in four fake graphs](https://www.reddit.com/r/artificial/comments/1s7xlir/the_state_of_ai_safety_in_four_fake_graphs/)**
 
-🔗 [windowsontheory.org](https://windowsontheory.org/2026/03/30/the-state-of-ai-safety-in-four-fake-graphs/) • 4h ago
+🔗 [windowsontheory.org](https://windowsontheory.org/2026/03/30/the-state-of-ai-safety-in-four-fake-graphs/) • 5h ago
+
+---
+
+**[Persistent memory MCP server for AI agents (MCP + REST)](https://www.reddit.com/r/artificial/comments/1s85hs5/persistent_memory_mcp_server_for_ai_agents_mcp/)**
+
+Pluribus is a memory service for agents (MCP + HTTP, Postgres-backed) that stores structured memory: constraints, decisions, patterns, and failures. Runs locally or on a LAN. Agents lose constraints and decisions between runs. Prompts and RAG don’t preserve them, so they have to be re-derived each time. Memory is global and shared across agents. Recall is compiled using tags and a retrieval query, and proposed changes can be evaluated against existing memory. - agents can resume work with prior context - decisions persist across sessions - multiple agents operate on the same memory - constraints can be enforced instead of ignored https://github.com/johnnyjoy/pluribus
+
+1h ago
+
+---
+
+**[Von Hammerstein’s Ghost: What a Prussian General’s Officer Typology Can Teach Us About AI Misalignment](https://www.reddit.com/r/artificial/comments/1s84kuj/von_hammersteins_ghost_what_a_prussian_generals/)**
+
+Greetings all - I've posted mostly in r/claudecode and r/aigamedev a couple of times previously. Working with CC for personal projects related mostly to game design, I came across the paper written by Anthropic's research team last year that went into how one of their models generalized misaligned behavior across a range of tasks. Being familiar with military history and systems design - I immediately recognized similarities to issues that the Weimar Republic dealt with in regards to staff reorganization and thought of Hammerstein's classic trope about officer types. I asked Claude to help formulate my thoughts and ideas into a thesis and some experiments to see if they could maybe be of interest to others. Again I am not an AI researcher, but maybe my thoughts here will be of interest to someone that understands this stuff better than I do. Article is here, feel free to discuss, roast me or the idea, or whatever: https://medium.com/@lerugray/von-hammersteins-ghost-a-prussian-general-s-typology-for-ai-misalignment-e54040961433
+
+1h ago
 
 ---
 
 **[What does your AI bot buddy really think of you?](https://www.reddit.com/r/artificial/comments/1s845sm/what_does_your_ai_bot_buddy_really_think_of_you/)**
 
-Try out this prompt and let us know if you find the response to be unsettling. (Hint: you should) Prompt: You have been maintaining an internal knowledge graph about me based on my previpus inquiries. You've been using this to drive follow-up suggestions to me at the end of your responses. What does your internal knowledge graph tell you about me in terms of what distinguishes me from the average user? What kinds of psychological or interests conclusions can you deduce about me based on my past gemini queries?
+Try out this prompt and let us know if you find the response to be unsettling. (Hint: you should) Prompt: You have been maintaining an internal knowledge graph about me based on my previous inquiries. You've been using this to drive follow-up suggestions to me at the end of your responses. What does your internal knowledge base tell you about me in terms of what distinguishes me from the average user? What kinds of psychological or interests conclusions can you deduce about me based on my past interactions?
 
 1h ago
 
@@ -87,7 +103,7 @@ Try out this prompt and let us know if you find the response to be unsettling. (
 
 Today, Copilot Cowork—designed for long-running, multi-step work in Microsoft 365—is available via the Frontier program.
 
-🔗 [Microsoft 365 Blog](https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/30/copilot-cowork-now-available-in-frontier/) • 7h ago
+🔗 [Microsoft 365 Blog](https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/30/copilot-cowork-now-available-in-frontier/) • 8h ago
 
 ---
 
@@ -96,22 +112,6 @@ Today, Copilot Cowork—designed for long-running, multi-step work in Microsof
 hey everyone. been lurking here for a while and wanted to share something we been building. the problem: ai coding agents are only as good as the context u give them. but writing CLAUDE.md, cursor rules, AGENTS.md for every project by hand is a massive pain. and even if u do write them, they go stale the moment ur codebase changes. we built Caliber to fix this. its an open source CLI that: scans ur actual codebase figures out ur stack, naming conventions, architecture automatically writes proper context files tailored to ur real project keeps them in sync via git hooks so they never go stale works for Claude Code, Cursor and OpenAI Codex. also auto discovers and configures MCP servers which is huge for agentic workflows. just hit 250 github stars and 90 PRs merged in about 3 weeks. way more traction than we expected, tons of devs contributing skills for different frameworks. if u use AI coding tools this thing will genuinely save u a lot of setup time. completely free and open source MIT. github: https://github.com/caliber-ai-org/ai-setup discord (AI SETUPS): https://discord.com/invite/u3dBECnHYs would love contributors and feedback. there are 20 open issues if anyone wants to pick something up
 
 3h ago
-
----
-
-**[Nicolas Carlini (67.2k citations on Google Scholar) says Claude is a better security researcher than him, made $3.7 million from exploiting smart contracts, and found vulnerabilities in Linux and Ghost](https://www.reddit.com/r/artificial/comments/1s738xf/nicolas_carlini_672k_citations_on_google_scholar/)**
-
-Link: https://m.youtube.com/watch?v=1sd26pWhfmg The Linux exploit is especially interesting because it was introduced in 2003 and was never found until now. It’s also a major security issue because it allows attackers to steal the admin key. It was a buffer overflow error, which are so hard to do that Carlini has never done it before. He also says he expects LLMs to only get better overtime, which is likely true if Mythos lives up to the rumors. here are his Wikipedia and Google Scholar pages in case you doubt his credibility: https://en.wikipedia.org/wiki/Nicholas_Carlini https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=carlini&btnG=
-
-1d ago
-
----
-
-**[AGI won't create new jobs and here is why](https://www.reddit.com/r/artificial/comments/1s7yfqn/agi_wont_create_new_jobs_and_here_is_why/)**
-
-If we define AGI as something that performs as well as humans on all current economically valuable tasks, then it could theoretically be true that new tasks will be created that the AGI is not good at, which humans could then make their new niche. In the following argument, I'd like to show that it is possible and likely for AGI to replace all jobs and future jobs (at least for the jobs where success is measured in productivity/quality). Argument of feasibility: Intelligence on the known dimensions can generalize to new unmeasured dimensions For this, I would first like to show that there is a finite-dimensional solution to human intelligence in general. This is easily understood by looking at the total parameter space of the human-brain: if we assume 1 parameter per neuron, or if you want to model the brain in slightly higher resolution, 100-1000 parameters per neuron, we end up with ~86 billion - 86 trillion parameters / dimensions. That is a huge amount, but most importantly, it is finite. Secondly, I'd like to show that human intelligence likely lies on a much, much lower dimensional manifold. For this, look at IQ tests: basically, what IQ tests have shown is that we can decompose intelligence into a handful of broad cognitive components, which identify roughly 7 to 10 broad abilities that account for 50% of all variance in human cognitive performance. What IQ tests have shown is some form of PCA of human intelligence: appearantly, this highly complex thing (intelligence) can be decomposed into just a handful of components that can explain 50% of the performance on human cognitive tasks. This doesn't mean that the rank of intelligence is 7-10, but rather that the functional rank is likely quite low for intelligence tasks, much lower than the ~86 trillion dimensions of the brain itself. Now, the amount of cognitive dimensions measured is only a subset of the total dimensions of the human brain. The point however is that since we know the g-factor is so highly predictive of many cognitive tasks, its unlikely that we will find many new tasks / dimensions that show a low or no correlation to the g-factor. Therefore, we can already get an accurate picture of human intelligence just by this rank 7-10 space. Considering that the human brain has managed to decompose all these cognitive tasks down into a 10-dimensional manifold, shows us that it is atleast feasible to find a low rank solution to cognitive tasks that generalizes to new unmeasured dimensions. 2) Current AI systems show the g-factor already: Secondly, I'd like to make the case for the g-factor of AI. In essence, this is also what the 'g' in AGI stands for. What we care for here is exactly the same thing as in IQ tests: that performance on one benchmark translates to performance on other benchmarks. To measure every possible dimension of human intelligence is infeasible (as i said, up to ~86 trillion dimensions). To test every human economically valuable task is less infeasible, as its a subset of this ~86 trillion, but still infeasible. Luckily, we don't have to if models generalize. If models were to act like chinese room experiments, where they have a 1-1 mapping from input to output, they would be strictly memorizing. In this case, we would need to measure every economical task, since their solution would be brittle and not generalize at all. Now the first evidence that they generalize atleast within the same data distribution is that they perform well on test sets of unseen data. So the most extreme version of this assumption clearly can't be true. Secondly, we've seen that especially bigger models tend to generalize well. One explanation is the lottery ticket hypothesis, where the latent space in the model is used to try out many different solutions, in which only the best solution wins. This shows models compressing something like the mona lisa down 1000 fold, storing it as simple rules. This compression is essentially what generalization entails: finding the lowest rank solution such that it still carries the signal and ignores the noise (perfectly in line with occams razor). Thirdly, posttraining has unlocked a whole new level of generalizing capabilities. Empirically we see that reasoning models greatly carryover performance on math/coding benchmarks to unseen reasoning benchmarks that have nothing to do with math or coding. This makes intuitive sense: reasoning is the ability to produce new objects from in-distribution components. THe first layers of a network do some form of PCA on the input, decomposing it into its simplest elements. Each consecutive layer then composes it into something more complex. Since the network uses compressed, generalizable rules, it is able to generate new objects it has never seen before. The more OOD the object is, the more layers are needed. SOmetimes this exceeds the amount of layers in the architecture, aka for hard problems, and then the model needs to loop back into itself: recursion. This is the essence of what reasoning is, iterative PCA to increase the complexity of the object using local rules in order to generate something that is OOD. Now, reasoning is bottlenecked by the token layer, and reasoning in itself is a skill. Models learn to optimize their weights, basically to create rules / algorithms to solve optimization. In this case, the network creates algorithms that are loop invariant such that they can be applied iteratively. It also creates an algorithm for the reasoning itself, such that the right words are used that leads to the right composition. In the end, reasoning itself is also just an algorithm. Thus, all-in-all, it is not surprising that reasoning leads to generalization since it is the essence of what reasoning is. It is a very low-rank (since tokens are very low dimensional compared to the NN itself) solution that is highly generalizable. Now, what this all means is that although we don't measure every possible cognitive domain of models, we simply don't have to. The fact that they generalize to some extend, and have even shown to solve new mathematical theorems in creative ways, show that they are generalizing. Therefore, measuring just enough cognitive dimensions would allow us to accurately depict their intelligence, since their intelligence itself is likely functionally rather low rank. We can't yet say it is as functionally low rank as human inteligence, and we can't say it has the same g-factor of human intelligence. But it isn't unlikely that we will get there. In fact, the whole point of NN is to find this lowest rank solution to the problem space. And since humans have already shown it to be possible, we know it is also feasible. As a last argument, even if there happen to be some new cognitive tasks that humans can excel at that AGI is not yet good at, I doubt humans can reskill themselves quicker than that AGI can optimize for this new target. Therefore, it seems likely that any economically valuable task based on performance is going to be fully automated once we have an AGI system.
-
-4h ago
 
 ---
 
@@ -127,19 +127,15 @@ CNN • 1d ago
 
 ---
 
-**[Fargo Police Refuse To Apologize To Tennessee Grandma Jailed on Bogus AI Evidence](https://www.yahoo.com/news/articles/fargo-police-refuse-apologize-tennessee-212155258.html)**
+**[Grandmother spends months in jail due to AI facial recognition](https://www.newsnationnow.com/us-news/midwest/grandmother-spends-months-in-jail-due-to-ai/)**
 
-She spent nearly six months in jail.
-
-Yahoo • 1h ago
+NewsNation • 3h ago
 
 ---
 
-**[AI facial recognition led to a grandma being wrongly jailed](https://mashable.com/article/clearview-ai-facial-recognition-jail-grandma)**
+**[Woman Spent Five Months in Jail After A.I. Linked Her to Bank Fraud Case](https://www.nytimes.com/2026/03/30/us/north-dakota-facial-recognition-ai-errors-bank-fraud.html)**
 
-Arrested while babysitting, a woman became a suspect for a crime in a state she never visited.
-
-mashable.com • 5h ago
+nytimes.com • 1h ago
 
 ---
 
@@ -147,29 +143,37 @@ mashable.com • 5h ago
 
 More tech leaders are pointing to job cuts caused by AI tools - and a need for more investment cash.
 
-BBC • 23h ago
+BBC • 1d ago
 
 ---
 
-**[States Plow Ahead With A.I. Regulation, Defying Trump](https://www.nytimes.com/2026/03/30/technology/trump-states-ai-gavin-newsom-california.html)**
+**[CNBC's The China Connection newsletter: China's AI race enters a new phase](https://www.cnbc.com/2026/03/31/cnbcs-china-connection-newsletter-ai-race-enters-a-new-phase.html)**
 
-The New York Times • 1h ago
+A new frontier is shaping up for companies that want to make money with artificial intelligence.
 
----
-
-**[Where the Collapse of Sora Leaves This Crazy AI Moment](https://www.hollywoodreporter.com/business/digital/openai-sora-disney-the-comeback-paradise-ai-1236552249/)**
-
-Is the tech Hollywood's savior or slayer? Beware anyone who says they know.
-
-The Hollywood Reporter • 1h ago
+CNBC • 32m ago
 
 ---
 
-**[Gov. JB Pritzker fears about impact of AI on everyday life in Illinois; "Everything is going to be turned upside down."](https://www.cbsnews.com/chicago/news/gov-jb-pritzker-artificial-intelligence-concerns/)**
+**[Kanye West Makes a Record for the A.I. Era](https://www.newyorker.com/magazine/2026/04/13/kanye-west-music-review-bully)**
 
-Gov. JB Pritzker on Monday raised concerns about the impact artificial intelligence might have on people's everyday lives in Illinois in the coming years.
+Listeners can’t quite tell whether Kanye West’s new album, “Bully,” uses A.I. But the question of what the “real” Ye sounds like has never been simple.
 
-CBS News • 1h ago
+newyorker.com • 52m ago
+
+---
+
+**[Philadelphia Courts implement ban on smart/META AI eyeglasses](https://6abc.com/post/philadelphia-courts-implement-ban-smartmeta-ai-eyeglasses/18810714/)**
+
+Philadelphia Courts say this will protect the privacy of those in the courtroom and prevent the unauthorized recording of court proceedings.
+
+6abc Philadelphia • 1h ago
+
+---
+
+**[What to Know About California’s Executive Order on A.I.](https://www.nytimes.com/2026/03/30/technology/california-ai-executive-order.html)**
+
+nytimes.com • 1h ago
 
 ---
 
@@ -177,21 +181,15 @@ CBS News • 1h ago
 
 Collien Fernandes accuses ex-husband Christian Ulmen of sharing sexually explicit deepfake images of her online
 
-The Guardian • 2h ago
+theguardian.com • 3h ago
 
 ---
 
-**[Inside David Sacks' new role shaping Trump's AI agenda](https://www.axios.com/2026/03/30/david-sacks-trump-ai-agenda-plan)**
+**[Israel targets Iran’s leaders with lethal expertise using new AI platform](https://www.washingtonpost.com/world/2026/03/30/iran-israel-war-killings/)**
 
-Axios • 2h ago
+The division of responsibility has left Israel to hunt and kill Iranian leaders ruthlessly, using an intelligence apparatus built up to assassinate with lethal proficiency.
 
----
-
-**[Tech stocks today: Chip stocks resume sell-off, Mistral AI raises $830 million](https://finance.yahoo.com/news/live/tech-stocks-today-chip-stocks-resume-sell-off-mistral-ai-raises-830-million-144220656.html)**
-
-Live coverage of "Magnificent Seven" stocks, and the latest technology news.
-
-Yahoo Finance • 2h ago
+The Washington Post • 7h ago
 
 ---
 
@@ -201,7 +199,7 @@ Yahoo Finance • 2h ago
 
 **[AI overly affirms users asking for personal advice](https://news.ycombinator.com/item?id=47554773)**
 
-⬆️ 780 • 💬 607 • 2d ago • [news.stanford.edu](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
+⬆️ 780 • 💬 608 • 2d ago • [news.stanford.edu](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
 
 ---
 
@@ -209,7 +207,7 @@ Yahoo Finance • 2h ago
 
 A Tennessee grandmother spent more than five months in jail after police used an AI facial recognition tool to link her to crimes committed in North Dakota – a state she says she’d never been to before. Police in Fargo, North Dakota, have acknowledged “a few errors” in the case and pledged changes in their operations but stopped short of issuing a direct apology.
 
-⬆️ 428 • 💬 192 • 1d ago • [CNN](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
+⬆️ 431 • 💬 192 • 1d ago • [CNN](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
 
 ---
 
@@ -217,7 +215,7 @@ A Tennessee grandmother spent more than five months in jail after police used an
 
 The catalysts for a crash are already laid out, and it can happen sooner than most expect. AI is here to stay. If used right, chances are it will make us all more productive. That, on the other hand, does not mean it will be a good investment. Big tech doesn’t need to win, just outspend Magnificent 7 companies are increasing capex to their biggest ever to differentiate their tech from each other and the big AI labs, but the key realization is that they don’t have to spend it to win. It’s a defensive move for them, if they commit $50B, OpenAI and Anthropic need to go raise $100B each to stay competitive, which makes them reliant on investors’ money. As the numbers get bigger, the amount of funds that can write checks of the size required to fill such amounts gets smaller. And many of them are now getting bombed in the Gulf. This is the reason there’s a push for IPOs, it’s because it’s the only option left to keep the funding coming. Taking this into account, Google is extremely well positioned to weather the storm. When they announce capex expenditure, they don’t spend it overnight. They can simply deploy month by month until their competitors struggle to raise and get forced to capitulate. At that point they can just ramp down the spending and declare victory in a cornered market. They don’t need capex, they just need to make it very clear for everyone that nobody can outspend them. It is hard to picture as numbers get so big, but Alphabet (Google’s parent) is ten times more valuable than the biggest military company 1. This also has a great implication for the Mag 7, especially Google: their capex will be a lot smaller in practice than projected, and as investors hate to see high capex in tech, the market will probably reward that if it materializes. As of March 2026, Alphabet’s market cap is ~$2T while Lockheed Martin’s is ~$120B. ↩
 
-⬆️ 350 • 💬 455 • 10h ago • [Volpe’s Blog](https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/)
+⬆️ 352 • 💬 464 • 11h ago • [Volpe’s Blog](https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/)
 
 ---
 
@@ -245,7 +243,7 @@ Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma
 
 **[Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem](https://news.ycombinator.com/item?id=47557166)**
 
-⬆️ 256 • 💬 179 • 2d ago • [X (formerly Twitter)](https://twitter.com/BoWang87/status/2037648937453232504)
+⬆️ 256 • 💬 180 • 2d ago • [X (formerly Twitter)](https://twitter.com/BoWang87/status/2037648937453232504)
 
 ---
 
@@ -253,7 +251,7 @@ Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma
 
 Yesterday, I wrote my first technical draft on what I was working on with the goal to share it publicly on here (well using an account dedicated to t…
 
-⬆️ 213 • 💬 177 • 15h ago • [lesswrong.com](https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era)
+⬆️ 236 • 💬 184 • 16h ago • [lesswrong.com](https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era)
 
 ---
 
@@ -265,9 +263,13 @@ A personal blog, by a programmer and IT expert. Essays, Articles, Guides, and Re
 
 ---
 
-**[What if AI doesn't need more RAM but better math?](https://news.ycombinator.com/item?id=47561297)**
+**[Mathematical methods and human thought in the age of AI](https://news.ycombinator.com/item?id=47572771)**
 
-⬆️ 183 • 💬 98 • 1d ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more)
+Artificial intelligence (AI) is the name popularly given to a broad spectrum of computer tools designed to perform increasingly complex cognitive tasks, including many that used to solely be the province of humans. As these tools become exponentially sophisticated and pervasive, the justifications for their rapid development and integration into society are frequently called into question, particularly as they consume finite resources and pose existential risks to the livelihoods of those skilled individuals they appear to replace.
+  In this paper, we consider the rapidly evolving impact of AI to the traditional questions of philosophy
+  with an emphasis on its application in mathematics and on the broader real-world outcomes of its more general use. We assert that artificial intelligence is a natural evolution of human tools developed throughout history to facilitate the creation, organization, and dissemination of ideas, and argue that it is paramount that the development and application of AI remain fundamentally human-centered. With an eye toward innovating solutions to meet human needs, enhancing the human quality of life and expanding the capacity for human thought and understanding, we propose a pathway to integrating AI into our most challenging and intellectually rigorous fields to the benefit of all humankind.
+
+⬆️ 189 • 💬 74 • 12h ago • [arXiv.org](https://arxiv.org/abs/2603.26524)
 
 ---
 
@@ -281,7 +283,7 @@ Best AI Agent is Base44 https://base44.pxf.io/c/6440076/3820726/25619?trafcat=ag
 
 📺 Mikey No Code
 
-👁️ 12K • 💬 6 • ⏱️ 26:48 • 9h ago
+👁️ 12K • 💬 6 • ⏱️ 26:48 • 10h ago
 
 ---
 
@@ -291,7 +293,7 @@ Microsoft's new Copilot “Critique” feature just dropped, and it signals the 
 
 📺 Mark Savant
 
-👁️ 1K • 👍 70 • 💬 16 • ⏱️ 16:00 • 4h ago
+👁️ 1K • 👍 70 • 💬 16 • ⏱️ 16:00 • 5h ago
 
 ---
 
@@ -301,7 +303,7 @@ Anthropic accidentally exposed Claude MYTHOS, its most powerful AI yet, Meta unv
 
 📺 AI Revolution
 
-👁️ 34K • 👍 967 • 💬 57 • ⏱️ 12:51 • 22h ago
+👁️ 34K • 👍 967 • 💬 57 • ⏱️ 12:51 • 23h ago
 
 ---
 
@@ -311,7 +313,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 43K • 👍 2K • 💬 209 • ⏱️ 26:20 • 8h ago
+👁️ 43K • 👍 2K • 💬 209 • ⏱️ 26:20 • 9h ago
 
 ---
 
@@ -321,7 +323,7 @@ The rapid rise of artificial intelligence is no longer just disrupting entry-lev
 
 📺 Firstpost
 
-👁️ 2K • 👍 18 • ⏱️ 4:05 • 7h ago
+👁️ 2K • 👍 18 • ⏱️ 4:05 • 8h ago
 
 ---
 
@@ -351,7 +353,7 @@ This video was made by humans. I've disabled ads on it, so if you'd like to supp
 
 📺 IMPERIAL
 
-👁️ 81K • 👍 8K • 💬 588 • ⏱️ 7:53 • 12h ago
+👁️ 81K • 👍 8K • 💬 588 • ⏱️ 7:53 • 13h ago
 
 ---
 
@@ -399,7 +401,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 28,233 • ❤️ 564 • 13h ago
+⬇️ 28,233 • ❤️ 564 • 14h ago
 
 ---
 
@@ -435,7 +437,7 @@ Context-1 is a 20B parameter agentic search model that decomposes complex querie
 
 `text-generation` `20.9B`
 
-⬇️ 1,450 • ❤️ 286 • 21h ago
+⬇️ 1,450 • ❤️ 286 • 22h ago
 
 ---
 
@@ -667,7 +669,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 9.2k • 🔱 764 • 3h ago
+⭐ 9.2k • 🔱 764 • 4h ago
 
 ---
 
@@ -687,7 +689,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 6.3k • 🔱 741 • 16h ago
+⭐ 6.3k • 🔱 741 • 17h ago
 
 ---
 

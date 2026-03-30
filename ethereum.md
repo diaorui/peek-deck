@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-30T22:37:09.704743+00:00'
+updated: '2026-03-30T23:36:12.977126+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 30, 2026 at 22:37 UTC  
+**Last Updated:** March 30, 2026 at 23:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.5%  
-**7d:** -5.2%  
-**30d:** +5.4%  
-**90d:** -31.3%  
-**1y:** +11.8%  
+**24h:** +1.6%  
+**7d:** -6.0%  
+**30d:** +4.5%  
+**90d:** -31.9%  
+**1y:** +10.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone, Over the last four years of writing smart contracts and teaching these concepts in EVM bootcamps, I keep seeing teams stumble into the exact same architectural traps when trying to achieve cross-chain address parity. Leveraging CREATE2 for deterministic addresses fundamentally changes how we handle multi-chain deployments. But because init_code includes constructor arguments, maintaining that exact same address across chains is impossible if you need to pass in chain-specific variables (like local router addresses or bridge endpoints). The standard industry workaround is deploying EIP-1167 Minimal Proxies via a universal factory, deploying deterministically, then initializing the state in the same transaction. However, this introduces some severe trade-offs that often get overlooked until they hit production: The DELEGATECALL Gas Tax: Minimal proxies are incredibly cheap to deploy (~45 bytes of bytecode), but they add a DELEGATECALL overhead to every single execution (2600 gas cold, 100 warm). At scale, this execution cost compounds brutally for your users. MEV Front-running Risks: If your proxy deployment and initialize() call are not strictly atomic within the factory contract execution, MEV bots might front-run the initialization transaction. This either bricks the instance entirely or hijacks the contract ownership. Immutability vs Upgradeability: To retain the exact same address while upgrading logic, you have to wrap the implementation in UUPS or Transparent Proxies. This inflates the initial deployment cost and introduces strict storage collision risks (requiring flawless adherence to EIP-1967 storage slots). I just published a full breakdown of these mechanics on my blog, diving into the math behind the gas trade-offs and how patterns like CREATE3 are solving the issue for non-proxy contracts where constructor arguments must differ. If you are currently architecting a multi-chain protocol, you can read the full technical deep dive here:https://andreyobruchkov1996.substack.com/p/understanding-contract-deployments-proxies-and-create2-part-2-df8f05998d5e Would love to hear how you all are handling cross-chain deterministic deployments right now. Are you still relying heavily on customized off-chain salt-mining scripts, or have you migrated to CREATE3 wrappers?
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey everyone, Over the last four years of writing smart contracts and teaching t
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-357/) • 12h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-357/) • 13h ago
 
 ---
 
@@ -172,23 +172,7 @@ The Block • 1d ago
 
 The Ethereum Foundation staked another $46 million ETH as part of its new treasury plan unveiled last year.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Ethereum Funds Shed $222 Million as Crypto Bill Fears Rattle Investors](https://finance.yahoo.com/markets/crypto/articles/ethereum-funds-shed-222-million-174737564.html)**
-
-Ethereum funds took the biggest hit as Clarity Act fears and macro headwinds pushed crypto outflows to $414 million for the week.
-
-Yahoo Finance • 4h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.732 Million Tokens, and Total Crypto and Total Cash Holdings of $10.7 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-732-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-7-billion-302728176.html)**
-
-Bitmine has 3,142,643 staked ETH, representing $6.3 billion at $2,005 per ETH MAVAN (Made in America VAlidator Network) launched staking solution on March 25,...
-
-PR Newswire • 10h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -196,7 +180,7 @@ PR Newswire • 10h ago
 
 BitMine continued its Ethereum accumulation, adding to its leading ETH treasury while Strategy took a week off from Bitcoin purchases.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -204,7 +188,23 @@ Yahoo Finance • 7h ago
 
 Tom Lee's Ethereum treasury bought more than 71,000 ETH over the past week, remaining the sole large corporate crypto buyer as Strategy broke its 13-week bitcoin purchase streak.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.732 Million Tokens, and Total Crypto and Total Cash Holdings of $10.7 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-732-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-7-billion-302728176.html)**
+
+Bitmine has 3,142,643 staked ETH, representing $6.3 billion at $2,005 per ETH MAVAN (Made in America VAlidator Network) launched staking solution on March 25,...
+
+PR Newswire • 11h ago
+
+---
+
+**[Ethereum Funds Shed $222 Million as Crypto Bill Fears Rattle Investors](https://decrypt.co/362698/ethereum-funds-shed-222-million-crypto-bill-fears-rattle-investors)**
+
+Ethereum funds lost $222 million last week—the worst of any digital asset—as Clarity Act fears and macro headwinds grow.
+
+decrypt.co • 5h ago
 
 ---
 
@@ -216,19 +216,19 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Ethereum (ETH) Price Holds $2K Support—Analyst Predicts Shocking $62,000 Target](https://www.tradingview.com/news/coinpedia:09b742ff2094b:0-ethereum-eth-price-holds-2k-support-analyst-predicts-shocking-62-000-target/)**
+**['Extreme Fear' on Cryptocurrency Market: XRP, Ethereum, Bitcoin and Others Under Immense Pressure](https://www.tradingview.com/news/u_today:804e2712f094b:0-extreme-fear-on-cryptocurrency-market-xrp-ethereum-bitcoin-and-others-under-immense-pressure/)**
 
-Ethereum’s volatility has picked up notably since the start of the month, reflecting a market caught between recovery attempts and persistent selling pressure. After rallying through the first half, the ETH price faced a firm rejection near $2,372, triggering a sharp pullback that erased a chunk of…
+The Fear and Greed Index is currently printing single-digit values, indicating that the cryptocurrency market is deep in extreme fear. That type of reading indicates widespread risk aversion, forced selling and a lack of confidence among participants rather than mild uncertainty. Seldom do markets…
 
 TradingView • 1d ago
 
 ---
 
-**[Current price of Ethereum for March 30, 2026](https://fortune.com/article/price-of-ethereum-03-30-2026/)**
+**[Bitcoin, XRP, Ethereum, and Solana Are All Down Over 40% From Their Peaks — Is This the Bottom?](https://www.aol.com/articles/bitcoin-xrp-ethereum-solana-down-180101028.html)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Between mid-2025 and October, Bitcoin (CRYPTO: BTC) was above $126,000, Ethereum (CRYPTO: ETH) was pushing toward $5,000, XRP (CRYPTO: XRP) had hit $3.65, and Solana (CRYPTO: SOL) was trading near $295. If you bought anywhere near those levels, and haven’t taken profit, most of those gains have been erased. The entire crypto market has been ... Bitcoin, XRP, Ethereum, and Solana Are All Down Over 40% From Their Peaks — Is This the Bottom?
 
-Fortune • 9h ago
+AOL.com • 5h ago
 
 ---
 
@@ -242,7 +242,7 @@ New data shows the future of markets and crypto in general. Its important for bi
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 2K • 💬 91 • ⏱️ 11:48 • 11h ago
+👁️ 15K • 👍 2K • 💬 91 • ⏱️ 11:48 • 12h ago
 
 ---
 
@@ -272,7 +272,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 Elvis Nash
 
-👁️ 7K • 👍 1K • 3h ago
+👁️ 7K • 👍 1K • 4h ago
 
 ---
 
@@ -282,7 +282,7 @@ Joseph Chalom, CEO of SharpLink, joined me to discuss the company's Ethereum tre
 
 📺 Thinking Crypto
 
-👁️ 1K • 👍 124 • 💬 126 • ⏱️ 55:54 • 10h ago
+👁️ 1K • 👍 124 • 💬 126 • ⏱️ 55:54 • 11h ago
 
 ---
 
@@ -292,7 +292,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 79 • 💬 2 • ⏱️ 3:53 • 10h ago
+👁️ 1K • 👍 79 • 💬 2 • ⏱️ 3:53 • 11h ago
 
 ---
 
@@ -302,7 +302,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 James Vasanthan
 
-👁️ 8K • 👍 1K • 4h ago
+👁️ 8K • 👍 1K • 5h ago
 
 ---
 
@@ -312,7 +312,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 270 • 👍 17 • ⏱️ 25:42 • 4h ago
+👁️ 270 • 👍 17 • ⏱️ 25:42 • 5h ago
 
 ---
 
@@ -322,7 +322,7 @@ At the Digital Asset Summit 2026 in New York, a key question came up: what do ba
 
 📺 Learn Cardano
 
-👁️ 2K • 👍 319 • 💬 38 • ⏱️ 10:53 • 11h ago
+👁️ 2K • 👍 319 • 💬 38 • ⏱️ 10:53 • 12h ago
 
 ---
 
