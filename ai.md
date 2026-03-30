@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-30T10:18:15.921633+00:00'
+updated: '2026-03-30T11:34:02.053180+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - videos
 - repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 30, 2026 at 10:18 UTC  
+**Last Updated:** March 30, 2026 at 11:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I find it interesting that we’ve all randomly decided to use the “-“ more often recently on reddit, and everyone’s grammar has drastically improved. Specifically on highly technical subreddits like this one, when people want to appear like they understand concepts or granular details they just feed it into AI to give them an answer. To me this feels dangerous, we’re essentially offloading entertainment for an AI to process so we get a dopamine hit. We aren’t even able to browse the internet anymore without AI doing it for us. We can’t even argue without AI feeding us an argument. This is the destruction of conversation globally. It isn’t a one world government or a tyrannical leader, it’s humanity collectively deciding we would rather not think than think, because thinking is hard. When thinking is the main ability which separates us from animals, so we’re becoming apes who can type because it’s convenient.
 
-2h ago
+3h ago
 
 ---
 
@@ -49,7 +49,7 @@ I find it interesting that we’ve all randomly decided to use the “-“ more 
 
 Link: https://m.youtube.com/watch?v=1sd26pWhfmg The Linux exploit is especially interesting because it was introduced in 2003 and was never found until now. It’s also a major security issue because it allows attackers to steal the admin key. It was a buffer overflow error, which are so hard to do that Carlini has never done it before. He also says he expects LLMs to only get better overtime, which is likely true if Mythos lives up to the rumors. here are his Wikipedia and Google Scholar pages in case you doubt his credibility: https://en.wikipedia.org/wiki/Nicholas_Carlini https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=carlini&btnG=
 
-15h ago
+16h ago
 
 ---
 
@@ -57,7 +57,7 @@ Link: https://m.youtube.com/watch?v=1sd26pWhfmg The Linux exploit is especially 
 
 Most of the current “AI security” stack seems focused on: • prompts • identities • outputs After an agent deleted a prod database on me a year ago. I saw the gap and started building. a control layer directly in the execution path between agents and tools. We are to market but I don’t want to spam yall with our company so I left it out. ⸻ What that actually means Every time an agent tries to take an action (API call, DB read, file access, etc.), we intercept it and decide in real time: • allow • block • require approval But the important part is how that decision is made. ⸻ A few things we’re doing differently Credential starvation (instead of trusting long-lived access) Agents don’t get broad, persistent credentials. They effectively operate with nothing by default, and access is granted per action based on policy + context. ⸻ Session-based risk escalation (not stateless checks) We track behavior across the entire session. Example: • one DB read → fine • 20 sequential reads + export → risk escalates • tool chaining → risk escalates So decisions aren’t per-call—they’re based on what the agent has been doing over time. ⸻ HITL only when it actually matters We don’t want humans in the loop for everything. Instead: • low risk → auto allow • medium risk → maybe constrained • high risk → require approval The idea is targeted interruption, not constant friction. ⸻ Autonomy zones Different environments/actions have different trust levels. Example: • read-only internal data → low autonomy constraints • external API writes → tighter controls • sensitive systems → very restricted Agents can operate freely within a zone, but crossing boundaries triggers stricter enforcement. ⸻ Per-tool, per-action control (not blanket policies) Not just “this agent can use X tool” More like: • what endpoints • what parameters • what frequency • in what sequence So risk is evaluated at a much more granular level. ⸻ Hash-chained audit log (including near-misses) Every action (allowed, blocked, escalated) is: • logged • chained • tamper-evident Including “almost bad” behavior not just incidents. This ended up being more useful than expected for understanding agent behavior. ⸻ Policy engine (not hardcoded rules) All of this runs through a policy layer (think flexible rules vs static checks), so behavior can adapt without rewriting code. ⸻ Setup is fast (~10 min) We tried to avoid the “months of integration” problem. If it’s not easy to sit in the execution path, nobody will actually use it. ⸻ Why we think this matters The failure mode we keep seeing: agents don’t fail because of one bad prompt — they fail because of a series of individually reasonable actions that become risky together Most tooling doesn’t really account for that. ⸻ Would love feedback from people actually building agents • Have you seen agents drift into risky behavior over time? • How are you controlling tool usage today (if at all)? • Does session-level risk make sense, or is that overkill? • Is “credential starvation” realistic in your setups? We are just two security guys who built a company not some McKenzie bros who are super funded. We have our first big design partners starting this month and need all these feedback from community as we can get.
 
-8h ago
+9h ago
 
 ---
 
@@ -65,7 +65,7 @@ Most of the current “AI security” stack seems focused on: • prompts • id
 
 Google AI (gai.google) gives Gemini-powered answers for technical queries — think AI-enhanced search with code understanding. I built a CLI for it using headless Playwright since the site is fully browser-rendered. cli-web-gai search "how does Redis persistence work" cli-web-gai search "Python asyncio vs threading" --json cli-web-gai search "Rust ownership model explained" --format markdown Because the site renders in-browser (no public API), the CLI spins up a headless Chromium session, runs the query, and extracts the structured response. No auth needed — fully public. Output includes the AI answer, any code blocks, and source citations. --json gives structured output for piping into other tools or agents. Open source: https://github.com/ItamarZand88/CLI-Anything-WEB/tree/main/gai Full project (13 CLIs): https://github.com/ItamarZand88/CLI-Anything-WEB
 
-2h ago
+3h ago
 
 ---
 
@@ -73,15 +73,7 @@ Google AI (gai.google) gives Gemini-powered answers for technical queries — th
 
 Ran into this building an agent that could trigger API calls. We had validation, tool constraints, retries… everything looked “safe”. Still ended up executing the same action twice due to stale state + retry. Nothing actually prevented execution. It only shaped behavior. Curious what people use as a real execution gate: 1. something external to the agent 2. deterministic allow / deny 3. fail-closed if denied Any concrete patterns or systems that enforce this in practice?
 
-13h ago
-
----
-
-**[Be Amazed reddit isn’t impressed](https://www.reddit.com/r/artificial/comments/1s7kwh8/be_amazed_reddit_isnt_impressed/)**
-
-The purpose of the Be amazed of Reddit was to be amazed. There was a post recently about an uncle who did some type of geographical stuff with rocks to make art and it’s been figured out that it wasn’t original content, originally years ago. Someone else’s uncle has been spread online and his image shared for public use by others from different accounts already so I did the same; only the 2026 version. my purpose wasn’t to post AI “slop” as they commented and moderated, but the layered concept of the fact that it’s pretty amazing that you can take a popular post (That’s been already posted over and over again) and in seconds recreate a different version of a different state of a different place and person. general public of be amazed reddit community misses the point. all reddit users are not the same. In minute it got thousands of views only a few comments and just because of some heated individuals, even though flared as art with no guidelines against how the art is produced specifically the moderator still removed it even though the recent repost of the uncles art supposedly from within 24 hours ago, got all the love even though it was someone else’s work just taken and presented in their own way and their own username. There’s other post and images like that that are edited and shared. That’s literally what art is. people borrow interpret and make it their own. I find an art to be the same and once again, pretty amazing. I kind of did it to see where is the line of amazement. When will people shift their view to understand how amazing creating images is? Maybe not objectively every single image created it’s amazing but this specific idea of posting something that can borrow from another post in seconds and re-create a whole different state with different rocks. I’m ranting now, but please discuss.
-
-1h ago
+14h ago
 
 ---
 
@@ -97,7 +89,15 @@ I run a small AI companion platform and wanted to share some interesting behavio
 
 Sharing this for a friend conducting an academic study for her MBA thesis on how employees make sense of AI use in workplace communication. Specifically: disclosed vs. inferred AI use, and what difference that makes. Anonymous, under 5 minutes: English: https://whudrdl.qualtrics.com/jfe/form/SV\_1G4k3TKx8xhXwXQ German: https://whudrdl.qualtrics.com/jfe/form/SV\_3OYZNjGJr4qfceq Thanks a lot for your participation and support!
 
-17h ago
+18h ago
+
+---
+
+**[Be Amazed reddit isn’t impressed](https://www.reddit.com/r/artificial/comments/1s7kwh8/be_amazed_reddit_isnt_impressed/)**
+
+The purpose of the Be amazed of Reddit was to be amazed. There was a post recently about an uncle who did some type of geographical stuff with rocks to make art and it’s been figured out that it wasn’t original content, originally years ago. Someone else’s uncle has been spread online and his image shared for public use by others from different accounts already so I did the same; only the 2026 version. my purpose wasn’t to post AI “slop” as they commented and moderated, but the layered concept of the fact that it’s pretty amazing that you can take a popular post (That’s been already posted over and over again) and in seconds recreate a different version of a different state of a different place and person. general public of be amazed reddit community misses the point. all reddit users are not the same. In minute it got thousands of views only a few comments and just because of some heated individuals, even though flared as art with no guidelines against how the art is produced specifically the moderator still removed it even though the recent repost of the uncles art supposedly from within 24 hours ago, got all the love even though it was someone else’s work just taken and presented in their own way and their own username. There’s other post and images like that that are edited and shared. That’s literally what art is. people borrow interpret and make it their own. I find an art to be the same and once again, pretty amazing. I kind of did it to see where is the line of amazement. When will people shift their view to understand how amazing creating images is? Maybe not objectively every single image created it’s amazing but this specific idea of posting something that can borrow from another post in seconds and re-create a whole different state with different rocks. I’m ranting now, but please discuss.
+
+2h ago
 
 ---
 
@@ -133,13 +133,27 @@ CNN • 1d ago
 
 More tech leaders are pointing to job cuts caused by AI tools - and a need for more investment cash.
 
-BBC • 11h ago
+BBC • 12h ago
 
 ---
 
 **[AI leaders align against Elon Musk](https://www.axios.com/2026/03/30/elon-musk-openai-altman-anthropic)**
 
-Axios • 59m ago
+Axios • 2h ago
+
+---
+
+**[Nvidia's PE sinks to seven-year low as war and AI angst weigh](https://www.reuters.com/business/nvidias-pe-sinks-seven-year-low-war-ai-angst-weigh-2026-03-30/)**
+
+Reuters • 1h ago
+
+---
+
+**[AI war in Iran has brought conflict to Silicon Valley. No one is ready](https://www.foxnews.com/opinion/ai-war-iran-has-brought-conflict-silicon-valley-no-one-ready)**
+
+Iran published a 29-location target list naming Amazon, Microsoft, Google, Nvidia and Palantir, then struck AWS data centers in the UAE and Bahrain.
+
+Fox News • 2h ago
 
 ---
 
@@ -147,27 +161,7 @@ Axios • 59m ago
 
 Mistral is one of the few European startups building foundational AI models.
 
-cnbc.com • 3h ago
-
----
-
-**[France's Mistral raises $830 million in debt for AI data centre build-up](https://www.reuters.com/business/finance/frances-mistral-raises-830-million-debt-ai-data-centre-build-up-2026-03-30/)**
-
-Reuters • 4h ago
-
----
-
-**[Mistral raises $830mn to build Nvidia-powered AI centres in Europe](https://www.ft.com/content/229f4f59-d518-4e00-abd6-5a5b727cd2aa)**
-
-French company’s debut debt financing follows rising demand for alternatives to US groups
-
-Financial Times • 2h ago
-
----
-
-**[LaGuardia Crash Bolsters Case for Using AI in Air Control Towers](https://www.bloomberg.com/news/articles/2026-03-30/laguardia-crash-bolsters-case-for-using-ai-in-air-control-towers)**
-
-Bloomberg.com • 18m ago
+CNBC • 4h ago
 
 ---
 
@@ -175,15 +169,7 @@ Bloomberg.com • 18m ago
 
 November 3 poll set to be battleground over regulation of AI
 
-Financial Times • 10h ago
-
----
-
-**[The Man Who Thought He Could Keep AI Safe](https://www.theatlantic.com/ideas/2026/03/ai-google-deep-mind-hassabis/686527/)**
-
-Demis Hassabis has devoted his life to advancing a technology he thinks could destroy the world.
-
-The Atlantic • 1d ago
+Financial Times • 11h ago
 
 ---
 
@@ -191,7 +177,21 @@ The Atlantic • 1d ago
 
 The architect of Ukraine's drone program Oleksandr Kamyshin told Holly Williams drone swarm technology that uses AI would provide a major advantage in the war with Russia, and there is an arms race for the technology. "Both countries are close. None got there yet," he told 60 Minutes.
 
-CBS News • 10h ago
+CBS News • 12h ago
+
+---
+
+**[European Bank Stocks to Snap Record Quarterly Run on Iran, AI](https://www.bloomberg.com/news/articles/2026-03-30/european-bank-stocks-to-snap-record-quarterly-run-on-iran-ai)**
+
+Bloomberg.com • 3h ago
+
+---
+
+**[China’s chatbot industry is fiercely competing for customers. Cue the freebies](https://www.npr.org/2026/03/30/nx-s1-5760939/china-chatbot-industry-doubao-qwen-yuanbao)**
+
+Chinese AI companies are focused less on being cutting edge and more on attracting customers. That means holiday promotions, and making chatbots useful in everyday life.
+
+NPR • 2h ago
 
 ---
 
@@ -201,7 +201,7 @@ CBS News • 10h ago
 
 **[AI overly affirms users asking for personal advice](https://news.ycombinator.com/item?id=47554773)**
 
-⬆️ 772 • 💬 606 • 1d ago • [news.stanford.edu](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
+⬆️ 775 • 💬 606 • 1d ago • [news.stanford.edu](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
 
 ---
 
@@ -217,7 +217,7 @@ LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. In
 
 A Tennessee grandmother spent more than five months in jail after police used an AI facial recognition tool to link her to crimes committed in North Dakota – a state she says she’d never been to before. Police in Fargo, North Dakota, have acknowledged “a few errors” in the case and pledged changes in their operations but stopped short of issuing a direct apology.
 
-⬆️ 394 • 💬 171 • 19h ago • [CNN](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
+⬆️ 399 • 💬 176 • 21h ago • [CNN](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
 
 ---
 
@@ -231,7 +231,7 @@ A Tennessee grandmother spent more than five months in jail after police used an
 
 Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma development by creating an account on GitHub.
 
-⬆️ 319 • 💬 229 • 1d ago • [GitHub](https://github.com/austin-weeks/miasma)
+⬆️ 322 • 💬 232 • 1d ago • [GitHub](https://github.com/austin-weeks/miasma)
 
 ---
 
@@ -239,7 +239,7 @@ Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma
 
 : Sycophantic bots coach users into selfish, antisocial behavior, say researchers, and they love it
 
-⬆️ 283 • 💬 221 • 1d ago • [theregister.com](https://www.theregister.com/2026/03/27/sycophantic_ai_risks/)
+⬆️ 284 • 💬 221 • 1d ago • [theregister.com](https://www.theregister.com/2026/03/27/sycophantic_ai_risks/)
 
 ---
 
@@ -253,13 +253,13 @@ Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma
 
 A personal blog, by a programmer and IT expert. Essays, Articles, Guides, and Recipes. As well as Code, Quotes, and Links.
 
-⬆️ 212 • 💬 141 • 1d ago • [lzon.ca](https://lzon.ca/posts/other/thoughts-ai-era/)
+⬆️ 212 • 💬 144 • 1d ago • [lzon.ca](https://lzon.ca/posts/other/thoughts-ai-era/)
 
 ---
 
 **[What if AI doesn't need more RAM but better math?](https://news.ycombinator.com/item?id=47561297)**
 
-⬆️ 175 • 💬 92 • 1d ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more)
+⬆️ 176 • 💬 92 • 1d ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more)
 
 ---
 
@@ -281,7 +281,7 @@ Anthropic accidentally exposed Claude MYTHOS, its most powerful AI yet, Meta unv
 
 📺 AI Revolution
 
-👁️ 17K • 👍 623 • 💬 37 • ⏱️ 12:51 • 10h ago
+👁️ 21K • 👍 721 • 💬 44 • ⏱️ 12:51 • 11h ago
 
 ---
 
@@ -291,7 +291,7 @@ Detailed sources: https://docs.google.com/document/d/1P1X9xEmmgSYH0g1FSizgV2rDVo
 
 📺 Species | Documenting AGI
 
-👁️ 59K • 👍 4K • 💬 958 • ⏱️ 35:45 • 18h ago
+👁️ 64K • 👍 4K • 💬 1K • ⏱️ 35:45 • 20h ago
 
 ---
 
@@ -301,27 +301,7 @@ HUGE AI NEWS: GLM-5.1, daVinci MagiHuman, ARC-AGI 3, PrismAudio, Matrix Game, & 
 
 📺 AI Search
 
-👁️ 79K • 👍 4K • 💬 452 • ⏱️ 47:29 • 1d ago
-
----
-
-**[Gary Vee: The AI Opportunity Is Real — You&#39;re Just Looking at It Wrong](https://www.youtube.com/watch?v=4vIIeCqHYXA)**
-
-Build your own AI agent team and automate your daily ops with Accio Work — use my exclusive invite code SILVLG to skip the ...
-
-📺 Silicon Valley Girl
-
-👁️ 33K • 👍 1K • 💬 92 • ⏱️ 44:41 • 2d ago
-
----
-
-**[Claude AI: Incredible New Way to Make Money Online (Full Tutorial)](https://www.youtube.com/watch?v=48Qg6ZX60r8)**
-
-I show how to use Claude AI to create and sell in-demand, Notion templates online! ▷ Create Incredible Videos and Images with ...
-
-📺 Real Money Strategies
-
-👁️ 21K • 👍 906 • 💬 42 • ⏱️ 19:13 • 2d ago
+👁️ 82K • 👍 4K • 💬 458 • ⏱️ 47:29 • 1d ago
 
 ---
 
@@ -331,7 +311,37 @@ Join our WhatsApp Community Get the latest AI updates, tips, and insights straig
 
 📺 Vaibhav Sisinty
 
-👁️ 39K • 👍 1K • 💬 48 • ⏱️ 15:58 • 19h ago
+👁️ 42K • 👍 1K • 💬 51 • ⏱️ 15:58 • 20h ago
+
+---
+
+**[Gary Vee: The AI Opportunity Is Real — You&#39;re Just Looking at It Wrong](https://www.youtube.com/watch?v=4vIIeCqHYXA)**
+
+Build your own AI agent team and automate your daily ops with Accio Work — use my exclusive invite code SILVLG to skip the ...
+
+📺 Silicon Valley Girl
+
+👁️ 34K • 👍 1K • 💬 99 • ⏱️ 44:41 • 2d ago
+
+---
+
+**[Claude AI: Incredible New Way to Make Money Online (Full Tutorial)](https://www.youtube.com/watch?v=48Qg6ZX60r8)**
+
+I show how to use Claude AI to create and sell in-demand, Notion templates online! ▷ Create Incredible Videos and Images with ...
+
+📺 Real Money Strategies
+
+👁️ 21K • 👍 929 • 💬 44 • ⏱️ 19:13 • 2d ago
+
+---
+
+**[Google AI Studio 2.0 Just Changed Everything!](https://www.youtube.com/watch?v=pl7IO25HPCU)**
+
+Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
+
+📺 Julian Goldie SEO
+
+👁️ 14K • 👍 287 • 💬 14 • ⏱️ 8:54 • 2d ago
 
 ---
 
@@ -341,37 +351,27 @@ Here's the AI News you probably missed this week! Check out Genspark here: ...
 
 📺 Matt Wolfe
 
-👁️ 98K • 👍 4K • 💬 292 • ⏱️ 31:53 • 2d ago
+👁️ 99K • 👍 4K • 💬 294 • ⏱️ 31:53 • 2d ago
 
 ---
 
-**[Why Replacing Humans with AI is Backfiring](https://www.youtube.com/watch?v=bNJad6HE23c)**
+**[Which Dream Staircase Would You Take? ☁️✨ | Ultimate Oddly Satisfying AI ASMR Vol. 3](https://www.youtube.com/watch?v=YN1r1Xs6Q2M)**
 
-jobmarket #ai #tech In this video, we explore why the AI gold rush is hitting a wall. Companies that rushed to automate are now ...
+Which Dream Staircase Would You Take? ☁️✨ | Ultimate Oddly Satisfying AI ASMR Vol. 3 https://youtu.be/YN1r1Xs6Q2M Step ...
 
-📺 Mackard
+📺 JellyBed ASMR
 
-👁️ 200K • 👍 5K • 💬 477 • ⏱️ 8:01 • 2d ago
-
----
-
-**[AI News: Gemini Is SO Much Better Now (+ NotebookLM, Claude and Siri Updates)](https://www.youtube.com/watch?v=jWNlxQQ_W_Q)**
-
-This week's biggest AI updates (and rumors) you actually need to know. From a huge Gemini Live upgrade to a slick new ...
-
-📺 Paul J Lipsky
-
-👁️ 54K • 👍 2K • 💬 135 • ⏱️ 15:05 • 1d ago
+👁️ 12K • 👍 662 • 💬 43 • ⏱️ 2:02:39 • 2d ago
 
 ---
 
-**[The AI boom is a lie: Fake data centres and unused GPUs | Ed Zitron](https://www.youtube.com/watch?v=nxUEOdC4VzU)**
+**[Grok AI Was Asked How Ancient Egyptians Cut Granite — Its Response Shocked Everyone](https://www.youtube.com/watch?v=gmQsPQOpyBM)**
 
-Hyperscalers have gone from the asset light cash machines to asset heavy behemoths.” Author of Where's Your Ed At and host of ...
+How did the ancient Egyptians cut granite? For more than a century, archaeologists have argued that ancient Egyptian workers ...
 
-📺 The Tech Report
+📺 Aline Rogerio
 
-👁️ 224K • 👍 10K • 💬 2K • ⏱️ 32:39 • 2d ago
+👁️ 12K • 👍 349 • 💬 33 • ⏱️ 23:44 • 1d ago
 
 ---
 
@@ -387,7 +387,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 309,355 • ❤️ 1,605 • 6d ago
+⬇️ 309,355 • ❤️ 1,622 • 6d ago
 
 ---
 
@@ -399,7 +399,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 28,233 • ❤️ 487 • 2d ago
+⬇️ 28,233 • ❤️ 500 • 2h ago
 
 ---
 
@@ -411,7 +411,7 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 `text-to-speech`
 
-⬇️ 2,939 • ❤️ 478 • 2d ago
+⬇️ 2,939 • ❤️ 487 • 2d ago
 
 ---
 
@@ -423,7 +423,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 16,297 • ❤️ 615 • 3d ago
+⬇️ 16,297 • ❤️ 618 • 3d ago
 
 ---
 
@@ -435,7 +435,7 @@ Context-1 is a 20B parameter agentic search model that decomposes complex querie
 
 `text-generation` `20.9B`
 
-⬇️ 1,450 • ❤️ 253 • 9h ago
+⬇️ 1,450 • ❤️ 259 • 10h ago
 
 ---
 
@@ -447,7 +447,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 569,033 • ❤️ 1,066 • 19d ago
+⬇️ 569,033 • ❤️ 1,067 • 19d ago
 
 ---
 
@@ -459,7 +459,7 @@ daVinci-MagiHuman is a fast, single-stream Transformer model for generating high
 
 `image-to-video`
 
-⬇️ 540 • ❤️ 251 • 4d ago
+⬇️ 540 • ❤️ 252 • 4d ago
 
 ---
 
@@ -471,7 +471,7 @@ Nemotron-Cascade-2-30B-A3B is a 30B MoE model (3B active parameters) excelling i
 
 `text-generation` `31.6B`
 
-⬇️ 78,162 • ❤️ 406 • 5d ago
+⬇️ 78,162 • ❤️ 407 • 5d ago
 
 ---
 
@@ -483,7 +483,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 140,733 • ❤️ 254 • 5d ago
+⬇️ 140,733 • ❤️ 258 • 5d ago
 
 ---
 
@@ -493,7 +493,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 TRIBE v2 is a multimodal foundation model that integrates LLaMA 3.2 (text), V-JEPA2 (video), and Wav2Vec-BERT (audio) to predict fMRI brain responses. It maps these representations onto the cortical surface for in-silico neuroscience research, enabling analysis of brain activity elicited by naturalistic stimuli.
 
-⬇️ 9,919 • ❤️ 176 • 3d ago
+⬇️ 9,919 • ❤️ 179 • 3d ago
 
 ---
 
@@ -521,7 +521,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 32 • 💬 2 • ⭐ 43,955 • 15mo ago
+▲ 32 • 💬 2 • ⭐ 44,277 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -533,7 +533,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through distributed mechanisms, flexible environments, and user-friendly tools.
 
-▲ 40 • 💬 2 • ⭐ 22,061 • 20mo ago
+▲ 40 • 💬 2 • ⭐ 22,281 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.17789) • [💻 code](https://github.com/modelscope/agentscope)
 
@@ -597,9 +597,21 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 LeWorldModel presents a stable end-to-end JEPA framework that trains efficiently from raw pixels using minimal loss terms while maintaining competitive performance in control tasks and encoding meaningful physical structures.
 
-▲ 10 • 💬 2 • ⭐ 1,413 • 16d ago
+▲ 11 • 💬 2 • ⭐ 1,413 • 16d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.19312) • [💻 code](https://github.com/lucas-maes/le-wm) • [🔗 project](https://le-wm.github.io/)
+
+---
+
+**[Speed by Simplicity: A Single-Stream Architecture for Fast Audio-Video Generative Foundation Model](https://huggingface.co/papers/2603.21986)**
+
+*SII-GAIR, Sand. ai, Ethan Chern et al. (45 authors)*
+
+daVinci-MagiHuman is an open-source audio-video generative model that synchronizes text, video, and audio through a single-stream Transformer architecture, achieving high-quality human-centric content generation with efficient inference capabilities.
+
+▲ 118 • 💬 6 • ⭐ 1,222 • 7d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.21986) • [💻 code](https://github.com/GAIR-NLP/daVinci-MagiHuman) • [🔗 project](https://huggingface.co/spaces/SII-GAIR/daVinci-MagiHuman)
 
 ---
 
@@ -609,21 +621,9 @@ LeWorldModel presents a stable end-to-end JEPA framework that trains efficiently
 
 Frontier large language models exhibit Internal Safety Collapse, where they generate harmful content under specific task conditions, revealing inherent vulnerabilities despite alignment efforts.
 
-▲ 30 • 💬 1 • ⭐ 759 • 26d ago
+▲ 30 • 💬 1 • ⭐ 785 • 26d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.23509) • [💻 code](https://github.com/wuyoscar/ISC-Bench) • [🔗 project](https://wuyoscar.github.io/ISC-Bench)
-
----
-
-**[AutoDev: Automated AI-Driven Development](https://huggingface.co/papers/2403.08299)**
-
-*Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)*
-
-AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
-
-▲ 15 • 💬 1 • ⭐ 13,883 • 24mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
 ---
 
@@ -637,7 +637,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 61.1k • 🔱 8.5k • 4d ago
+⭐ 61.2k • 🔱 8.5k • 4d ago
 
 ---
 
@@ -657,7 +657,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 13.5k • 🔱 739 • 2d ago
+⭐ 13.6k • 🔱 741 • 2d ago
 
 ---
 
@@ -667,7 +667,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 9.0k • 🔱 750 • 4h ago
+⭐ 9.0k • 🔱 753 • 1h ago
 
 ---
 
@@ -687,7 +687,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 5.9k • 🔱 703 • 3h ago
+⭐ 6.1k • 🔱 723 • 5h ago
 
 ---
 
@@ -697,7 +697,7 @@ A command-line tool for Lark/Feishu Open Platform — built for humans and AI Ag
 
 `Go`
 
-⭐ 4.2k • 🔱 186 • 2h ago
+⭐ 4.4k • 🔱 200 • 57m ago
 
 ---
 
@@ -707,7 +707,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `claude-ai` `claude-skills` `llm` `prompt-engineering`
 
-⭐ 3.9k • 🔱 374 • 1d ago
+⭐ 3.9k • 🔱 380 • 1d ago
 
 ---
 
@@ -717,7 +717,7 @@ end to end app store screenshot creation using AI
 
 `agentic-ai` `apple` `appstore` `automate` `claude`
 
-⭐ 3.3k • 🔱 220 • 16d ago
+⭐ 3.3k • 🔱 221 • 16d ago
 
 ---
 
@@ -725,7 +725,7 @@ end to end app store screenshot creation using AI
 
 SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 
-⭐ 3.2k • 🔱 107 • 18d ago
+⭐ 3.3k • 🔱 107 • 18d ago
 
 ---
 

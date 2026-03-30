@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-30T10:18:15.935834+00:00'
+updated: '2026-03-30T11:34:02.066265+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- videos
 - news
 - cryptocurrency
-- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 30, 2026 at 10:18 UTC  
+**Last Updated:** March 30, 2026 at 11:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,054.80
+### $2,050.64
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.6%  
-**7d:** -4.7%  
-**30d:** +6.0%  
-**90d:** -30.8%  
-**1y:** +12.5%  
+**24h:** +3.3%  
+**7d:** -4.2%  
+**30d:** +6.6%  
+**90d:** -30.5%  
+**1y:** +13.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $249.21B
+**Market Cap:** $249.22B
 Rank #2
 
 **Circulating Supply:** 120,691,444 ETH
@@ -62,7 +62,7 @@ No max supply
 -58.3%
 
 **All-Time Low:** $0.43
-+476793.8%
++476796.1%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
+
+---
+
+**[EtherWorld Weekly — Edition 357](https://www.reddit.com/r/ethereum/comments/1s7mopy/etherworld_weekly_edition_357/)**
+
+World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
+
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-357/) • 1h ago
 
 ---
 
@@ -140,12 +148,6 @@ Source: https://www.coingecko.com/learn/real-world-assets-rwa-buy-on-chain RWAs 
 
 ---
 
-**[Paperwallet.ca launch](https://www.reddit.com/r/ethereum/comments/1s543mf/paperwalletca_launch/)**
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +156,7 @@ Source: https://www.coingecko.com/learn/real-world-assets-rwa-buy-on-chain RWAs 
 
 The project is designed to make Ethereum’s many layer 2s work together more seamlessly.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -162,13 +164,7 @@ CoinDesk • 19h ago
 
 The Ethereum Foundation is co-funding the "easy" initiative, which was announced at EthCC in Cannes, and partners include Aave, Titan, Centrifuge, and more.
 
-The Block • 19h ago
-
----
-
-**[Bitcoin Price Is Rising. Why XRP and Ethereum Are Climbing, Too.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-cryptos-ffbcc0ef?gaa_at=eafs&gaa_n=AWEtsqctbiABscx7kr8T4ckgh6N7l8flU7t48Rs9V56IYkVzkfbffmDFodDi&gaa_ts=69ca513e&gaa_sig=Hcp3vlGlqrqRTFrQLeiw9SpPXQ_15NCg9zv5WGBN9LzL-WnCvngBhdi1BlhUe5bPnaYzUnuOk5dQnKNZ_9zL8A%3D%3D)**
-
-Barron's • 19m ago
+The Block • 20h ago
 
 ---
 
@@ -176,7 +172,7 @@ Barron's • 19m ago
 
 The Ethereum Foundation has accelerated its treasury staking push, deploying $46.2 million in Ether in its largest move to date after the recent BitMine sale.On Monday, the foundation’s treasury multisignature wallet made 11 deposits into the Ethereum Beacon Deposit Contract, each of roughly 2,047…
 
-TradingView • 1h ago
+TradingView • 2h ago
 
 ---
 
@@ -184,7 +180,23 @@ TradingView • 1h ago
 
 Ethereum dominates tokenization with 61% market share, $206 billion in settled volume, and 40% annual growth. Competitors like BNB Chain, Solana, and Avalanche trail far ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Ethereum Foundation stakes additional $42 million of ether (ETH)](https://www.coindesk.com/markets/2026/03/30/ethereum-foundation-stakes-additional-usd42-million-of-ether)**
+
+About 20,470 ETH, or roughly $42 million, flowed from Ethereum Foundation-linked wallets into the Beacon Chain in a series of coordinated deposits Monday, marking one of the largest visible batches in its ongoing staking rollout.
+
+CoinDesk • 1h ago
+
+---
+
+**[What’s on the Ethereum Roadmap: Glamsterdam, Hegota and Beyond](https://decrypt.co/resources/whats-on-ethereum-roadmap-glamsterdam-hegota-beyond)**
+
+Ethereum has rolled out a steady stream of upgrades since 2022. Here’s how those changes fit together—and what’s still ahead.
+
+Decrypt • 19h ago
 
 ---
 
@@ -196,33 +208,23 @@ The Motley Fool • 2d ago
 
 ---
 
-**[What’s on the Ethereum Roadmap: Glamsterdam, Hegota and Beyond](https://decrypt.co/resources/whats-on-ethereum-roadmap-glamsterdam-hegota-beyond)**
+**[Ethereum Foundation’s Biggest Stake Ever May Not Stop ETH From Falling Under $1,700](https://www.ccn.com/analysis/crypto/ethereum-foundations-biggest-stake-not-stop-eth-falling/)**
 
-Ethereum has rolled out a steady stream of upgrades since 2022. Here’s how those changes fit together—and what’s still ahead.
-
-Decrypt • 18h ago
+CCN.com • 25m ago
 
 ---
 
-**[Ethereum (ETH) Price Holds $2K Support—Analyst Predicts Shocking $62,000 Target](https://www.tradingview.com/news/coinpedia:09b742ff2094b:0-ethereum-eth-price-holds-2k-support-analyst-predicts-shocking-62-000-target/)**
+**[Ethereum looks quiet – But liquidity is building for a bigger move](https://ambcrypto.com/ethereum-looks-quiet-but-liquidity-is-building-for-a-bigger-move/)**
 
-Ethereum’s volatility has picked up notably since the start of the month, reflecting a market caught between recovery attempts and persistent selling pressure. After rallying through the first half, the ETH price faced a firm rejection near $2,372, triggering a sharp pullback that erased a chunk of…
+Ethereum sees rising liquidity, activity signaling real demand, while price stays range-bound awaiting stronger deployment.
 
-TradingView • 21h ago
-
----
-
-**[Ethereum Price Prediction: $6.3B Smart Money Inflows Signal Major ETH Breakout Ahead](https://www.binance.com/en/square/post/306350416646594)**
-
-Binance • 2d ago
+AMBCrypto • 18h ago
 
 ---
 
-**[Ethereum Today Flashing Early Bullish Signal as Order Flow Points to Strong Weekly Opening](https://investinglive.com/Cryptocurrency/ethereum-today-flashing-early-bullish-signal-as-order-flow-points-to-strong-weekly-opening-20260330/)**
+**[VanEck’s Ethereum ETF Hit by Sharp Redemptions as Ether Slides Below $2,000](https://www.tipranks.com/news/cryptocurrencies/vanecks-ethereum-etf-hit-by-sharp-redemptions-as-ether-slides-below-2000)**
 
-I also dug into the order flow and investingLive.com gives it a +6 (bullish), see why
-
-investingLive • 3h ago
+TipRanks • 18h ago
 
 ---
 
@@ -236,7 +238,27 @@ If you hold Bitcoin or Ethereum... watch this! (alert!) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 215 • ⏱️ 9:24 • 13h ago
+👁️ 36K • 👍 2K • 💬 221 • ⏱️ 9:24 • 15h ago
+
+---
+
+**[THIS IS BULLISH FOR ETHEREUM!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=y0ZTtGvMGb0)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 97 • 👍 6 • ⏱️ 5:12 • 1h ago
+
+---
+
+**[Why Banks Don&#39;t Want Ethereum or Solana — And What They Actually Need](https://www.youtube.com/watch?v=WPtXmFrLrto)**
+
+At the Digital Asset Summit 2026 in New York, a key question came up: what do banks actually need from blockchain?
+
+📺 Learn Cardano
+
+👁️ 125 • 👍 27 • 💬 9 • ⏱️ 10:53 • 34m ago
 
 ---
 
@@ -246,7 +268,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 6K • 👍 192 • 💬 86 • ⏱️ 11:06 • 1d ago
+👁️ 6K • 👍 199 • 💬 87 • ⏱️ 11:06 • 1d ago
 
 ---
 
@@ -256,47 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 83 • 💬 18 • ⏱️ 3:28 • 10h ago
-
----
-
-**[You WON&#39;T Believe this Bitcoin &amp; Ethereum Just Got Major News Altcoins Might Be Ready To PUMP](https://www.youtube.com/watch?v=Fu4nNphsuOo)**
-
-People in the cryptocurrency space and world markets are about to get a very hefty wake up call in the very near future.
-
-📺 The Modern Investor
-
-👁️ 7K • 👍 799 • 💬 321 • ⏱️ 27:50 • 1d ago
-
----
-
-**[BITCOIN HOLDERS BE WARNED: New Price Targets!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=NK0Vnozpi0Q)**
-
-BITCOIN HOLDERS BE WARNED: New Price Targets!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 212 • 💬 426 • ⏱️ 20:11 • 9h ago
-
----
-
-**[🤔 All Crypto Influencers say ETHEREUM is DUMPING to $640 !?](https://www.youtube.com/watch?v=F9kIXMbTcBk)**
-
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 185 • 👍 42 • 💬 1 • ⏱️ 11:09 • 2h ago
-
----
-
-**[Bitcoin &amp; Ethereum. SHORT SQUEEZE jetzt oder was? SOLANGE wir das nicht überwinden Eher NICHT!](https://www.youtube.com/watch?v=CpdPJ2PFaRU)**
-
-Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
-
-📺 Krypto Trading & Investing
-
-👁️ 3K • 👍 529 • 💬 80 • ⏱️ 17:29 • 5h ago
+👁️ 2K • 👍 90 • 💬 17 • ⏱️ 3:28 • 11h ago
 
 ---
 
@@ -306,17 +288,27 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 4K • 👍 156 • 💬 47 • ⏱️ 38:10 • 2d ago
+👁️ 4K • 👍 158 • 💬 54 • ⏱️ 38:10 • 2d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Zwg5Sk12Tis)**
+**[BITCOIN HOLDERS BE WARNED: New Price Targets!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=NK0Vnozpi0Q)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+BITCOIN HOLDERS BE WARNED: New Price Targets!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
 
-📺 More Crypto Online
+📺 Crypto World
 
-👁️ 2K • 👍 79 • 💬 7 • ⏱️ 3:36 • 17h ago
+👁️ 5K • 👍 200 • 💬 427 • ⏱️ 20:11 • 10h ago
+
+---
+
+**[You WON&#39;T Believe this Bitcoin &amp; Ethereum Just Got Major News Altcoins Might Be Ready To PUMP](https://www.youtube.com/watch?v=Fu4nNphsuOo)**
+
+People in the cryptocurrency space and world markets are about to get a very hefty wake up call in the very near future.
+
+📺 The Modern Investor
+
+👁️ 7K • 👍 805 • 💬 321 • ⏱️ 27:50 • 1d ago
 
 ---
 
@@ -326,7 +318,17 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 777 • 👍 85 • ⏱️ 6:53 • 7h ago
+👁️ 998 • 👍 102 • ⏱️ 6:53 • 9h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Zwg5Sk12Tis)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 80 • 💬 6 • ⏱️ 3:36 • 18h ago
 
 ---
 
