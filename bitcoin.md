@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-30T20:49:15.809545+00:00'
+updated: '2026-03-30T21:42:49.248194+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 30, 2026 at 20:49 UTC  
+**Last Updated:** March 30, 2026 at 21:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,476.89
+### $66,680.77
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -5.8%  
-**30d:** +1.2%  
-**90d:** -24.1%  
-**1y:** -19.3%  
+**24h:** +1.5%  
+**7d:** -5.3%  
+**30d:** +1.7%  
+**90d:** -23.8%  
+**1y:** -18.9%  
 
 ---
 
@@ -79,7 +79,15 @@ Rank #1
 
 **[Applying for a job during the bear market](https://www.reddit.com/r/Bitcoin/comments/1s7nly6/applying_for_a_job_during_the_bear_market/)**
 
-9h ago
+10h ago
+
+---
+
+**[Anyone else planning to hodl for decades?](https://www.reddit.com/r/Bitcoin/comments/1s7w5ck/anyone_else_planning_to_hodl_for_decades/)**
+
+just wondering what everyone's timeline looks like for actually cashing out or if you think btc will eventually replace regular money completely? personally im not touching my stack for like 25+ years minimum, figure by then either ill be rich or it'll be worthless lol. between my doordash runs and game dev work i keep throwing whatever i can spare at it but never plan to sell anytime soon what about you all, got a specific year in mind or just riding it til the wheels fall off?
+
+4h ago
 
 ---
 
@@ -91,25 +99,33 @@ when bitcoin hovers right at a previous cycle's all-time high instead of getting
 
 ---
 
-**[Anyone else planning to hodl for decades?](https://www.reddit.com/r/Bitcoin/comments/1s7w5ck/anyone_else_planning_to_hodl_for_decades/)**
-
-just wondering what everyone's timeline looks like for actually cashing out or if you think btc will eventually replace regular money completely? personally im not touching my stack for like 25+ years minimum, figure by then either ill be rich or it'll be worthless lol. between my doordash runs and game dev work i keep throwing whatever i can spare at it but never plan to sell anytime soon what about you all, got a specific year in mind or just riding it til the wheels fall off?
-
-3h ago
-
----
-
 **[CONGRATULATIONS! New All-Time-High on the 200 WMA](https://www.reddit.com/r/Bitcoin/comments/1s7ne8k/congratulations_new_alltimehigh_on_the_200_wma/)**
 
 Hi all, we just hit a brand new all-time-high on the 200 week moving average. Just like every day in the past 14 years. Remember that this is a marathon. Cut the short term noise!
 
-9h ago
+10h ago
 
 ---
 
 **[Its been rough lately](https://www.reddit.com/r/Bitcoin/comments/1s7pjk8/its_been_rough_lately/)**
 
 8h ago
+
+---
+
+**[Bitcoin-saurus is prepping for Upril!](https://www.reddit.com/r/Bitcoin/comments/1s7q8ue/bitcoinsaurus_is_prepping_for_upril/)**
+
+Lets go!
+
+8h ago
+
+---
+
+**[Do you actually use Bitcoin, or mostly just hold it?](https://www.reddit.com/r/Bitcoin/comments/1s818eo/do_you_actually_use_bitcoin_or_mostly_just_hold_it/)**
+
+I’ve been getting deeper into Bitcoin lately, and I’m starting to notice a gap between how it’s supposed to work (as a form of money) and how people actually use it. Most of what I see is people holding long term, not really spending it unless there’s a specific reason. At the same time, there are tools now that make spending easier than before. So I’m curious how people here personally approach it do you ever actually use it when you can, or do you see it more as something you just accumulate and leave alone?
+
+1h ago
 
 ---
 
@@ -121,33 +137,19 @@ Morgan Stanley’s Bitcoin exchange-traded fund appears set for an imminent laun
 
 ---
 
-**[Bitcoin-saurus is prepping for Upril!](https://www.reddit.com/r/Bitcoin/comments/1s7q8ue/bitcoinsaurus_is_prepping_for_upril/)**
+**[Bitcoin Lighting Gets Major Adoption Boost in US - U.Today](https://www.reddit.com/r/Bitcoin/comments/1s83yvp/bitcoin_lighting_gets_major_adoption_boost_in_us/)**
 
-Lets go!
+Starting Monday, Square began automatically enabling Bitcoin payments for millions of eligible U.S. small businesses, according to a recent announcement. It is leveraging the Bitcoin Lightning Network and defaulting all merchant settlements to U.S. dollars. Notably, Square is rolling out Bitcoin acceptance with zero additional setup required from the merchants. Miles Suter, Block’s head of Bitcoin product, confirmed the deployment on X, noting that sellers who accept the cryptocurrency will receive fiat currency by default. “We’re making it easier for millions of businesses to accept bitcoin,” Suter stated. “This is how bitcoin as everyday money begins.” It is also worth noting that Square is waiving all processing fees on these transactions through the end of 2026. The sheer scale of the rollout is quite notable. It is targeting an eligible pool of roughly 4 million U.S. merchants that comprise 78% of Square's user base. Square’s infrastructure bypasses the base Bitcoin blockchain in favor of the Lightning Network. The Lightning Network operates as a "Layer 2" protocol built directly on top of the base chain. The Bitcoin blockchain (the main layer) gets engaged when a payment channel is closed. At that point, the network records the final net balance. Square is capable of delivering a checkout experience that can rival the speed of legacy credit cards. However, it is operating on an open, decentralized monetary network. David Marcus, CEO of Lightspark and former President of PayPal, described the integration as a potential “TCP/IP moment” for global financial infrastructure.
 
-7h ago
-
----
-
-**[Welcome to Bitcoin 2026 edition](https://www.reddit.com/r/Bitcoin/comments/1s6v37e/welcome_to_bitcoin_2026_edition/)**
-
-1d ago
+🔗 [U.Today](https://u.today/bitcoin-lighting-gets-major-adoption-boost-in-us) • 13m ago
 
 ---
 
-**[hit my 2 btc milestone earlier than expected](https://www.reddit.com/r/Bitcoin/comments/1s7abne/hit_my_2_btc_milestone_earlier_than_expected/)**
+**[CPI isn’t inflation. It’s a PR tool.](https://www.reddit.com/r/Bitcoin/comments/1s82bdu/cpi_isnt_inflation_its_a_pr_tool/)**
 
-been dollar cost averaging for about 2.5 years now and this recent pullback let me reach 2 whole coins sooner than i thought. originally figured i wouldn't get there until around december. perfect time to stack more while prices are down. anyone else taking advantage of these levels? (already know about teh dm scammers so don't bother)
+People are still quoting CPI like it’s gospel… why? CPI is a lagging, curated basket that gets adjusted every time reality gets uncomfortable. Substitutions, hedonic adjustments, weighting changes, all designed to smooth the numbers. Meanwhile: M2 money supply exploded post-2020 Asset prices went vertical Cost of living didn’t “2-3%” it jumped And we’re supposed to believe inflation is “under control”? You don’t measure inflation with a shopping list. You measure it with money supply expansion. More dollars chasing the same goods = prices go up. It’s not complicated. CPI exists to make monetary policy look responsible. That’s it. If you actually want a hedge against real inflation, you don’t hold dollars. You hold scarce assets. Bitcoin didn’t appear out of nowhere, it’s a response to this exact system.
 
-21h ago
-
----
-
-**[DCA or All in?](https://www.reddit.com/r/Bitcoin/comments/1s7lftn/dca_or_all_in/)**
-
-I have the option of either going all in on bitcoin or spreading the amount equally over next 7 months until the October rise according to the 4 year cycle. Could I ask what you would suggest would be the best strategy? In not sure if it will keep dropping or this is the bottom, I know that it’s impossible to know if this is the bottom, or equally if it will go higher out lower from here but thought I’d ask the forum to get the consensus.
-
-11h ago
+1h ago
 
 ---
 
@@ -163,73 +165,71 @@ NBC News • 2d ago
 
 ---
 
-**['More room to fall': Bitcoin trades near $67,000 as US-Iran deadlock persists](https://www.theblock.co/post/395588/bitcoin-trades-near-66500-iran-deadlock)**
+**[Bitcoin Flashes 'Warning Sign' With Nearly Half of BTC Supply Sitting at a Loss: Report](https://decrypt.co/362797/bitcoin-warning-sign-nearly-half-btc-supply-sitting-loss)**
 
-Analysts said the prolonged U.S.-Iran conflict keeps inflation fears elevated, weighing on crypto investor sentiment.
+Almost half of the Bitcoin supply is sitting at a loss, analysts said, as the top crypto asset remains about 47% off its all-time high.
 
-The Block • 17h ago
-
----
-
-**[Bitcoin rises as Trump says U.S. in talks with 'new regime' in Iran, threatens oil infrastructure if deal fails](https://www.coindesk.com/markets/2026/03/30/bitcoin-jumps-as-trump-says-u-s-in-talks-with-new-regime-in-iran-threatens-oil-infrastructure-if-deal-fails)**
-
-Trump said "great progress" had been made toward ending the war, but warned the U.S. would "obliterate" Iran's power plants, oil wells and Kharg Island if a deal isn't reached shortly.
-
-CoinDesk • 4h ago
+Decrypt • 1h ago
 
 ---
 
-**[Bitcoin resilience amid Iran war raises optimism about crypto adoption in ASEAN](https://asia.nikkei.com/business/markets/trading-asia/bitcoin-resilience-amid-iran-war-raises-optimism-about-crypto-adoption-in-asean)**
+**[Jack Dorsey's Square Automatically Enables Bitcoin Payments for Millions of Sellers](https://finance.yahoo.com/markets/crypto/articles/jack-dorseys-square-automatically-enables-191459142.html)**
 
-Digital assets might still be in 'winter,' but they have not gone as volatile as traditional assets
-
-Nikkei Asia • 23h ago
-
----
-
-**[Bitcoin payments go mainstream as Square auto-enables BTC for small businesses](https://www.coindesk.com/business/2026/03/30/jack-dorsey-s-square-auto-enables-bitcoin-payments-for-millions-of-u-s-businesses)**
-
-Millions of U.S. businesses can now accept bitcoin with instant dollar conversion and no added setup.
-
-CoinDesk • 2h ago
-
----
-
-**[MSTR may have paused it's BTC accumulation last week](https://www.coindesk.com/markets/2026/03/29/strategy-may-have-paused-bitcoin-accumulation-last-week-ending-a-thirteen-week-buying-streak)**
-
-The company seemed to have skipped it's weekly bitcoin purchase announcement for the first time since late december.
-
-CoinDesk • 11h ago
-
----
-
-**[Michael Saylor's Strategy pauses weekly bitcoin buys, retains total holdings at 762,099 BTC](https://www.theblock.co/post/395623/michael-saylors-strategy-pauses-bitcoin-buys)**
-
-Strategy's holdings account for more than 3.6% of the total 21 million bitcoin supply — worth around $52 billion.
-
-The Block • 8h ago
-
----
-
-**[Strategy pushes pause button on Bitcoin purchases, stock sales](https://www.tradingview.com/news/cointelegraph:0c93c352d094b:0-strategy-pushes-pause-button-on-bitcoin-purchases-stock-sales/)**
-
-Strategy, the largest public Bitcoin BITSTAMP:BTCUSD treasury company, reported no additional purchases of the cryptocurrency last week as many entities are pivoting into alternative methods for revenue.In a Monday filing with the US Securities and Exchange Commission (SEC), Michael Saylor-led Stra…
-
-tradingview.com • 2h ago
-
----
-
-**[MARA Sells $1B In Bitcoin At A Loss To Pay Down Debt As Hedge Fund CIO Warns: 'Just The Beginning'](https://finance.yahoo.com/markets/crypto/articles/mara-sells-1b-bitcoin-loss-180105074.html)**
-
-MARA Holdings sold 15,133 Bitcoin between March 4 and March 25 for approximately $1.1 billion, using the proceeds to repurchase roughly $1 billion of its convertible notes due 2030 and 2031. The sale slashed MARA’s holdings by about 28%. The...
+Block-owned payment processor Square has shifted Bitcoin acceptance from opt-in to opt-out for eligible sellers.
 
 Yahoo Finance • 2h ago
 
 ---
 
-**[Trump Declares ‘Crypto Revolution’—Issues A Surprise Prediction As The Bitcoin Price Swings](https://www.forbes.com/sites/digital-assets/2026/03/30/trump-declares-crypto-revolution-issues-a-powerful-surprise-prediction-as-the-bitcoin-price-swings/)**
+**[Evening digest: Bitcoin rebounds; oil surges on Trump's Iran warning](https://www.tradingview.com/news/invezz:2978d08a8094b:0-evening-digest-bitcoin-rebounds-oil-surges-on-trump-s-iran-warning/)**
 
-Forbes • 7h ago
+Markets navigated a mix of geopolitical tensions, policy signals, and asset-specific developments on Monday, with cryptocurrencies rebounding, oil markets remaining on edge, and policymakers weighing risks across financial systems.From Bitcoin’s recovery to fresh warnings from Washington and commen…
+
+TradingView • 1h ago
+
+---
+
+**[Crypto Stocks Near a Bottom After 60% Selloff, Sees “Big Discount” Entry Point: Analyst](https://bitcoinmagazine.com/news/crypto-stocks-near-a-bottom-after-selling)**
+
+Wall Street broker Bernstein says crypto-linked equities are approaching a cyclical bottom following a steep ~60% drawdown from 2025 highs
+
+Bitcoin Magazine • 2h ago
+
+---
+
+**[Bitcoin (BTC) hashrate falls as miners shift capital to AI infrastructure](https://www.coindesk.com/markets/2026/03/30/bitcoin-hashrate-posts-first-quarter-drop-for-first-time-in-6-years-as-miners-pivot-to-ai)**
+
+The first-quarter decline breaks a long-standing growth trend, but could ultimately support decentralization as public U.S. miners face losing dominance.
+
+CoinDesk • 6h ago
+
+---
+
+**[Bitcoin Price Rebounds From Month Low, These Two Miners Form Bases](https://www.investors.com/news/bitcoin-price-rebound-miners-basing-terawulf-hut8-cathie-wood-ark-invest-bullish/)**
+
+Investor's Business Daily • 7h ago
+
+---
+
+**[Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week](https://finance.yahoo.com/markets/crypto/articles/why-crypto-crashing-bitcoin-xrp-140126480.html)**
+
+Bitcoin (CRYPTO: BTC), XRP (CRYPTO: XRP), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) are all down 6-8% in a week, and the crypto market has shed over $80 billion in value since March 24. The Fear & Greed Index sits at 23, and the average crypto RSI has dropped to 39—oversold territory that the market ... Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Bitcoin, XRP Prices Rise Today. Why Cryptos Are Havens Once Again.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-cryptos-ffbcc0ef?gaa_at=eafs&gaa_n=AWEtsqfcIfZ6frNz3hziHh3a_S298bi7rFgWZRnyw8sod2wXAJgy1frwKmqB&gaa_ts=69caf1c1&gaa_sig=k_M-xCrBrk0ga7WMU0POyw6NI4YSPjacET59tPu8tpql42e-VV2DZh65BywM4uTFWo4WjP3X4apbskaTlO7F3Q%3D%3D)**
+
+Barron's • 5h ago
+
+---
+
+**[Crypto's quantum threat is real and its driving diverging strategies across Bitcoin, Ethereum, Solana](https://www.coindesk.com/tech/2026/03/28/here-s-how-bitcoin-ethereum-and-other-networks-are-preparing-for-the-looming-quantum-threat)**
+
+Across many of the most well-known ecosystems like Bitcoin, Ethereum, and Solana, responses are diverging along familiar lines: what to do on social consensus and technical iteration, and community members are split between caution and acceleration.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -241,7 +241,7 @@ Forbes • 7h ago
 
 The complete workflow: unsigned transaction, air gap transfer, offline signing, broadcast. Plus PSBT, Dark Skippy, and the key-at-rest problem.
 
-⬆️ 3 • 💬 1 • 1h ago • [Frozen Security](https://frozensecurity.com/blog/how-offline-bitcoin-signing-works/)
+⬆️ 6 • 💬 2 • 2h ago • [Frozen Security](https://frozensecurity.com/blog/how-offline-bitcoin-signing-works/)
 
 ---
 
@@ -269,13 +269,13 @@ Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes
 
 Agent-native inference engine with O(1) fork latency for tree-structured reasoning - BioInfo/dendrite
 
-⬆️ 3 • 💬 1 • 6h ago • [GitHub](https://github.com/BioInfo/dendrite)
+⬆️ 3 • 💬 1 • 7h ago • [GitHub](https://github.com/BioInfo/dendrite)
 
 ---
 
 **[Uni feels so usless, I cant focus anymore](https://news.ycombinator.com/item?id=47567925)**
 
-⬆️ 7 • 💬 3 • 22h ago
+⬆️ 7 • 💬 3 • 23h ago
 
 ---
 
@@ -289,7 +289,7 @@ Bitcoin #Crypto #Finance Bitcoin may be entering its biggest macro shift yet as 
 
 📺 The Wolf Of All Streets
 
-👁️ 15K • 👍 933 • 💬 255 • ⏱️ 1:04:46 • 6h ago
+👁️ 15K • 👍 933 • 💬 255 • ⏱️ 1:04:46 • 7h ago
 
 ---
 
@@ -299,7 +299,7 @@ The market looks calm on the surface but the cracks are getting worse. From glob
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 136 • ⏱️ 12:24 • 22h ago
+👁️ 20K • 👍 1K • 💬 136 • ⏱️ 12:24 • 23h ago
 
 ---
 
@@ -329,7 +329,7 @@ Once upon a time, Bitcoin used to have god candles (and epic crashes) all on its
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 34K • 👍 2K • 💬 195 • ⏱️ 8:32 • 2d ago
+👁️ 34K • 👍 2K • 💬 195 • ⏱️ 8:32 • 3d ago
 
 ---
 
@@ -339,7 +339,7 @@ The risk models that say when to accumulate or exit HERE. Free trial https://app
 
 📺 Dan Gambardello
 
-👁️ 14K • 👍 779 • 💬 246 • ⏱️ 13:41 • 21h ago
+👁️ 14K • 👍 779 • 💬 246 • ⏱️ 13:41 • 22h ago
 
 ---
 
@@ -369,7 +369,7 @@ Ledger CEO Pascal Gauthier discusses Bitcoin's price decline, volatility across 
 
 📺 Fox Business Clips
 
-👁️ 16K • 👍 586 • 💬 151 • ⏱️ 9:10 • 6h ago
+👁️ 16K • 👍 586 • 💬 151 • ⏱️ 9:10 • 7h ago
 
 ---
 
