@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-03-30T08:55:12.383232+00:00"
+          "dateModified": "2026-03-30T10:18:15.423235+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -680,23 +680,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1s7kwh8/be_amazed_reddit_isnt_impressed/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1s7dlk7/we_built_a_fully_deterministic_control_layer_for/', '_blank')">
                     <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/ZWR4YWMzb2E5NXNnMQufp4R3U9eeLIg2OWe8nQvauM-8ayRZc5jBVxmEWuaj.png?width=640&crop=smart&auto=webp&s=bb73a7f5f33937b5919c9aada2e7734817cb3a01" alt="Be Amazed reddit isn’t impressed" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1s7kwh8/be_amazed_reddit_isnt_impressed/" target="_blank" onclick="event.stopPropagation();">Be Amazed reddit isn’t impressed</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1s7dlk7/we_built_a_fully_deterministic_control_layer_for/" target="_blank" onclick="event.stopPropagation();">We built a fully deterministic control layer for agents. Would love feedback. No pitch</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            The purpose of the Be amazed of Reddit was to be amazed. There was a post recently about an uncle who did some type of geographical stuff with rocks to make art and it’s been figured out that it wasn’t original content, originally years ago. Someone else’s uncle has been spread online and his image shared for public use by others from different accounts already so I did the same; only the 2026 version. my purpose wasn’t to post AI “slop” as they commented and moderated, but the layered concept of the fact that it’s pretty amazing that you can take a popular post (That’s been already posted over and over again) and in seconds recreate a different version of a different state of a different place and person. general public of be amazed reddit community misses the point. all reddit users are not the same. In minute it got thousands of views only a few comments and just because of some heated individuals, even though flared as art with no guidelines against how the art is produced specifically the moderator still removed it even though the recent repost of the uncles art supposedly from within 24 hours ago, got all the love even though it was someone else’s work just taken and presented in their own way and their own username. There’s other post and images like that that are edited and shared. That’s literally what art is. people borrow interpret and make it their own. I find an art to be the same and once again, pretty amazing. I kind of did it to see where is the line of amazement. When will people shift their view to understand how amazing creating images is? Maybe not objectively every single image created it’s amazing but this specific idea of posting something that can borrow from another post in seconds and re-create a whole different state with different rocks. I’m ranting now, but please discuss.
+                            Most of the current “AI security” stack seems focused on: • prompts • identities • outputs After an agent deleted a prod database on me a year ago. I saw the gap and started building. a control layer directly in the execution path between agents and tools. We are to market but I don’t want to spam yall with our company so I left it out. ⸻ What that actually means Every time an agent tries to take an action (API call, DB read, file access, etc.), we intercept it and decide in real time: • allow • block • require approval But the important part is how that decision is made. ⸻ A few things we’re doing differently Credential starvation (instead of trusting long-lived access) Agents don’t get broad, persistent credentials. They effectively operate with nothing by default, and access is granted per action based on policy + context. ⸻ Session-based risk escalation (not stateless checks) We track behavior across the entire session. Example: • one DB read → fine • 20 sequential reads + export → risk escalates • tool chaining → risk escalates So decisions aren’t per-call—they’re based on what the agent has been doing over time. ⸻ HITL only when it actually matters We don’t want humans in the loop for everything. Instead: • low risk → auto allow • medium risk → maybe constrained • high risk → require approval The idea is targeted interruption, not constant friction. ⸻ Autonomy zones Different environments/actions have different trust levels. Example: • read-only internal data → low autonomy constraints • external API writes → tighter controls • sensitive systems → very restricted Agents can operate freely within a zone, but crossing boundaries triggers stricter enforcement. ⸻ Per-tool, per-action control (not blanket policies) Not just “this agent can use X tool” More like: • what endpoints • what parameters • what frequency • in what sequence So risk is evaluated at a much more granular level. ⸻ Hash-chained audit log (including near-misses) Every action (allowed, blocked, escalated) is: • logged • chained • tamper-evident Including “almost bad” behavior not just incidents. This ended up being more useful than expected for understanding agent behavior. ⸻ Policy engine (not hardcoded rules) All of this runs through a policy layer (think flexible rules vs static checks), so behavior can adapt without rewriting code. ⸻ Setup is fast (~10 min) We tried to avoid the “months of integration” problem. If it’s not easy to sit in the execution path, nobody will actually use it. ⸻ Why we think this matters The failure mode we keep seeing: agents don’t fail because of one bad prompt — they fail because of a series of individually reasonable actions that become risky together Most tooling doesn’t really account for that. ⸻ Would love feedback from people actually building agents • Have you seen agents drift into risky behavior over time? • How are you controlling tool usage today (if at all)? • Does session-level risk make sense, or is that overkill? • Is “credential starvation” realistic in your setups? We are just two security guys who built a company not some McKenzie bros who are super funded. We have our first big design partners starting this month and need all these feedback from community as we can get.
                         </div>
                         
 
@@ -705,7 +703,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1774859758.0"></span>
+                                    <span data-timestamp="1774835454.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -781,21 +779,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1s7dlk7/we_built_a_fully_deterministic_control_layer_for/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1s7kwh8/be_amazed_reddit_isnt_impressed/', '_blank')">
                     <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/ZWR4YWMzb2E5NXNnMQufp4R3U9eeLIg2OWe8nQvauM-8ayRZc5jBVxmEWuaj.png?width=640&crop=smart&auto=webp&s=bb73a7f5f33937b5919c9aada2e7734817cb3a01" alt="Be Amazed reddit isn’t impressed" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1s7dlk7/we_built_a_fully_deterministic_control_layer_for/" target="_blank" onclick="event.stopPropagation();">We built a fully deterministic control layer for agents. Would love feedback. No pitch</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1s7kwh8/be_amazed_reddit_isnt_impressed/" target="_blank" onclick="event.stopPropagation();">Be Amazed reddit isn’t impressed</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Most of the current “AI security” stack seems focused on: • prompts • identities • outputs After an agent deleted a prod database on me a year ago. I saw the gap and started building. a control layer directly in the execution path between agents and tools. We are to market but I don’t want to spam yall with our company so I left it out. ⸻ What that actually means Every time an agent tries to take an action (API call, DB read, file access, etc.), we intercept it and decide in real time: • allow • block • require approval But the important part is how that decision is made. ⸻ A few things we’re doing differently Credential starvation (instead of trusting long-lived access) Agents don’t get broad, persistent credentials. They effectively operate with nothing by default, and access is granted per action based on policy + context. ⸻ Session-based risk escalation (not stateless checks) We track behavior across the entire session. Example: • one DB read → fine • 20 sequential reads + export → risk escalates • tool chaining → risk escalates So decisions aren’t per-call—they’re based on what the agent has been doing over time. ⸻ HITL only when it actually matters We don’t want humans in the loop for everything. Instead: • low risk → auto allow • medium risk → maybe constrained • high risk → require approval The idea is targeted interruption, not constant friction. ⸻ Autonomy zones Different environments/actions have different trust levels. Example: • read-only internal data → low autonomy constraints • external API writes → tighter controls • sensitive systems → very restricted Agents can operate freely within a zone, but crossing boundaries triggers stricter enforcement. ⸻ Per-tool, per-action control (not blanket policies) Not just “this agent can use X tool” More like: • what endpoints • what parameters • what frequency • in what sequence So risk is evaluated at a much more granular level. ⸻ Hash-chained audit log (including near-misses) Every action (allowed, blocked, escalated) is: • logged • chained • tamper-evident Including “almost bad” behavior not just incidents. This ended up being more useful than expected for understanding agent behavior. ⸻ Policy engine (not hardcoded rules) All of this runs through a policy layer (think flexible rules vs static checks), so behavior can adapt without rewriting code. ⸻ Setup is fast (~10 min) We tried to avoid the “months of integration” problem. If it’s not easy to sit in the execution path, nobody will actually use it. ⸻ Why we think this matters The failure mode we keep seeing: agents don’t fail because of one bad prompt — they fail because of a series of individually reasonable actions that become risky together Most tooling doesn’t really account for that. ⸻ Would love feedback from people actually building agents • Have you seen agents drift into risky behavior over time? • How are you controlling tool usage today (if at all)? • Does session-level risk make sense, or is that overkill? • Is “credential starvation” realistic in your setups? We are just two security guys who built a company not some McKenzie bros who are super funded. We have our first big design partners starting this month and need all these feedback from community as we can get.
+                            The purpose of the Be amazed of Reddit was to be amazed. There was a post recently about an uncle who did some type of geographical stuff with rocks to make art and it’s been figured out that it wasn’t original content, originally years ago. Someone else’s uncle has been spread online and his image shared for public use by others from different accounts already so I did the same; only the 2026 version. my purpose wasn’t to post AI “slop” as they commented and moderated, but the layered concept of the fact that it’s pretty amazing that you can take a popular post (That’s been already posted over and over again) and in seconds recreate a different version of a different state of a different place and person. general public of be amazed reddit community misses the point. all reddit users are not the same. In minute it got thousands of views only a few comments and just because of some heated individuals, even though flared as art with no guidelines against how the art is produced specifically the moderator still removed it even though the recent repost of the uncles art supposedly from within 24 hours ago, got all the love even though it was someone else’s work just taken and presented in their own way and their own username. There’s other post and images like that that are edited and shared. That’s literally what art is. people borrow interpret and make it their own. I find an art to be the same and once again, pretty amazing. I kind of did it to see where is the line of amazement. When will people shift their view to understand how amazing creating images is? Maybe not objectively every single image created it’s amazing but this specific idea of posting something that can borrow from another post in seconds and re-create a whole different state with different rocks. I’m ranting now, but please discuss.
                         </div>
                         
 
@@ -804,7 +804,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1774835454.0"></span>
+                                    <span data-timestamp="1774859758.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -984,7 +984,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-30T08:54:44.304098+00:00">Updated 2026-03-30T08:54:44.304098+00:00</small>
+        <small data-timestamp="2026-03-30T10:17:49.002342+00:00">Updated 2026-03-30T10:17:49.002342+00:00</small>
     </div>
 </div>
 
@@ -1252,6 +1252,84 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/03/30/elon-musk-openai-altman-anthropic', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.axios.com/2026/03/30/elon-musk-openai-altman-anthropic" target="_blank" onclick="event.stopPropagation();">AI leaders align against Elon Musk</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Axios" class="news-favicon">
+                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1774862336.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/107419085-1716460016665-gettyimages-2154161022-_r7a3382_c8vceqtj.jpeg?v=1774854072&w=1920&h=1080');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html" target="_blank" onclick="event.stopPropagation();">Mistral secures $830 million in debt financing to fund AI data center</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Mistral is one of the few European startups building foundational AI models.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="cnbc.com" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">cnbc.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1774854495.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reuters.com/business/finance/frances-mistral-raises-830-million-debt-ai-data-centre-build-up-2026-03-30/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
@@ -1289,47 +1367,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/107419085-1716460016665-gettyimages-2154161022-_r7a3382_c8vceqtj.jpeg?v=1774854072&w=1920&h=1080');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html" target="_blank" onclick="event.stopPropagation();">Mistral secures $830 million in debt financing to fund AI data center</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Mistral is one of the few European startups building foundational AI models.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1774854495.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.ft.com/content/229f4f59-d518-4e00-abd6-5a5b727cd2aa', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fce10e8dc-2787-4a51-aac7-78031cb7c1f8.jpg?source=next-barrier-page');"></div>
@@ -1354,8 +1391,8 @@
                                 <div class="news-meta-item news-source">
                                     
                                     <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="ft.com" class="news-favicon">
-                                    <a href="https://www.ft.com" target="_blank" onclick="event.stopPropagation();">ft.com</a>
+                                         alt="Financial Times" class="news-favicon">
+                                    <a href="https://www.ft.com" target="_blank" onclick="event.stopPropagation();">Financial Times</a>
                                     
                                 </div>
                                 
@@ -1371,14 +1408,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reuters.com/technology/chinas-deepseek-ai-chatbot-suffers-longest-outage-since-viral-rise-early-2025-2026-03-30/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-03-30/laguardia-crash-bolsters-case-for-using-ai-in-air-control-towers', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.reuters.com/technology/chinas-deepseek-ai-chatbot-suffers-longest-outage-since-viral-rise-early-2025-2026-03-30/" target="_blank" onclick="event.stopPropagation();">China's DeepSeek AI chatbot suffers longest outage since viral rise in early 2025</a>
+                            <a href="https://www.bloomberg.com/news/articles/2026-03-30/laguardia-crash-bolsters-case-for-using-ai-in-air-control-towers" target="_blank" onclick="event.stopPropagation();">LaGuardia Crash Bolsters Case for Using AI in Air Control Towers</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1390,9 +1427,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Reuters" class="news-favicon">
-                                    <a href="https://www.reuters.com" target="_blank" onclick="event.stopPropagation();">Reuters</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Bloomberg.com" class="news-favicon">
+                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
                                     
                                 </div>
                                 
@@ -1400,7 +1437,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1774853760.0"></span>
+                                    <span data-timestamp="1774864807.0"></span>
                                 </div>
                                 
                             </div>
@@ -1408,20 +1445,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.yahoo.com/news/articles/british-ai-giant-faces-energy-060000067.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.ft.com/content/6a3f1938-759d-4ae4-924e-6a0feac14e24?syn-25a6b1a6=1', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/kMCf5PLUoPHZDbHfyH5KGA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTE7Y2Y9d2VicA--/https://media.zenfs.com/en/the_telegraph_258/44562659d3d20dee84c12ab53d8c67c5');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F662a8cb6-cb86-4832-8473-071dd31f36b6.jpg?source=next-barrier-page');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.yahoo.com/news/articles/british-ai-giant-faces-energy-060000067.html" target="_blank" onclick="event.stopPropagation();">British AI giant faces energy backlash over Microsoft data centre</a>
+                            <a href="https://www.ft.com/content/6a3f1938-759d-4ae4-924e-6a0feac14e24?syn-25a6b1a6=1" target="_blank" onclick="event.stopPropagation();">Pro-AI group to spend $100mn on US midterm elections as backlash grows</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            One of Britain’s largest artificial intelligence (AI) startups is facing a backlash over plans to build a data centre for Microsoft after local officials raised fears it would drive up energy costs fo...
+                            November 3 poll set to be battleground over regulation of AI
                         </div>
                         
 
@@ -1431,9 +1468,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo" class="news-favicon">
-                                    <a href="https://www.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Financial Times" class="news-favicon">
+                                    <a href="https://www.ft.com" target="_blank" onclick="event.stopPropagation();">Financial Times</a>
                                     
                                 </div>
                                 
@@ -1441,44 +1478,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1774850400.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://thehill.com/homenews/campaign/5806153-jfk-grandson-schlossberg-says-billionaires-massive-ai-companies-spending-millions-in-new-york-house-race/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://thehill.com/homenews/campaign/5806153-jfk-grandson-schlossberg-says-billionaires-massive-ai-companies-spending-millions-in-new-york-house-race/" target="_blank" onclick="event.stopPropagation();">JFK grandson Schlossberg says billionaires, ‘massive AI companies’ spending millions in New York House race</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thehill.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Hill" class="news-favicon">
-                                    <a href="https://thehill.com" target="_blank" onclick="event.stopPropagation();">The Hill</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1774782000.0"></span>
+                                    <span data-timestamp="1774828996.0"></span>
                                 </div>
                                 
                             </div>
@@ -1527,17 +1527,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/03/29/opinion/chatbot-therapy-ai.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.cbsnews.com/news/drone-swarms-the-potential-ai-future-of-drone-warfare-60-minutes/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://assets2.cbsnewsstatic.com/hub/i/r/2026/03/29/ede20530-7e3e-4137-9c11-edd5faad11f7/thumbnail/1200x630/31652052b3cf746cae4f5ec56e472840/ot-unmannedukrainiandronesfd.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/03/29/opinion/chatbot-therapy-ai.html" target="_blank" onclick="event.stopPropagation();">Opinion | Your Chatbot Isn’t a Therapist</a>
+                            <a href="https://www.cbsnews.com/news/drone-swarms-the-potential-ai-future-of-drone-warfare-60-minutes/" target="_blank" onclick="event.stopPropagation();">Drone swarms: The potential AI future of drone warfare</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The architect of Ukraine's drone program Oleksandr Kamyshin told Holly Williams drone swarm technology that uses AI would provide a major advantage in the war with Russia, and there is an arms race for the technology. "Both countries are close. None got there yet," he told 60 Minutes.
+                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1546,9 +1550,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The New York Times" class="news-favicon">
-                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CBS News" class="news-favicon">
+                                    <a href="https://www.cbsnews.com" target="_blank" onclick="event.stopPropagation();">CBS News</a>
                                     
                                 </div>
                                 
@@ -1556,7 +1560,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1774789203.0"></span>
+                                    <span data-timestamp="1774827180.0"></span>
                                 </div>
                                 
                             </div>
@@ -1584,7 +1588,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-30T08:55:10.125585+00:00">Updated 2026-03-30T08:55:10.125585+00:00</small>
+        <small data-timestamp="2026-03-30T10:18:12.756711+00:00">Updated 2026-03-30T10:18:12.756711+00:00</small>
     </div>
 </div>
 
@@ -1805,10 +1809,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 770</span>
+                                    <span class="post-points">▲ 772</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 602</span>
+                                    <span style="color: #9ca3af;">💬 606</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1906,10 +1910,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 388</span>
+                                    <span class="post-points">▲ 394</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 168</span>
+                                    <span style="color: #9ca3af;">💬 171</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2003,10 +2007,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 315</span>
+                                    <span class="post-points">▲ 319</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 227</span>
+                                    <span style="color: #9ca3af;">💬 229</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2097,10 +2101,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 253</span>
+                                    <span class="post-points">▲ 254</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 173</span>
+                                    <span style="color: #9ca3af;">💬 175</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2191,7 +2195,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 173</span>
+                                    <span class="post-points">▲ 175</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 92</span>
@@ -2291,7 +2295,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-03-30T08:54:44.203959+00:00">Updated 2026-03-30T08:54:44.203959+00:00</small>
+        <small data-timestamp="2026-03-30T10:17:48.917477+00:00">Updated 2026-03-30T10:17:48.917477+00:00</small>
     </div>
 </div>
 

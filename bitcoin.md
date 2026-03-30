@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-30T08:55:12.842271+00:00'
+updated: '2026-03-30T10:18:15.929891+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
 - news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 30, 2026 at 08:55 UTC  
+**Last Updated:** March 30, 2026 at 10:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.9%  
-**7d:** -3.8%  
-**30d:** +3.3%  
-**90d:** -22.6%  
-**1y:** -17.7%  
+**24h:** +0.9%  
+**7d:** -4.5%  
+**30d:** +2.6%  
+**90d:** -23.1%  
+**1y:** -18.2%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 when bitcoin hovers right at a previous cycle's all-time high instead of getting slapped down, it shows that buyers are stepping up and easily eating all the sell pressure. grinding sideways at the ultimate ceiling builds a massive launchpad for price discovery, because once it breaks through, there is zero historical resistance left to hold it back. with the post-halving supply shock in full effect, holding this exact line has historically been the ultimate springboard for a parabolic run.
 
-1h ago
+2h ago
 
 ---
 
 **[Welcome to Bitcoin 2026 edition](https://www.reddit.com/r/Bitcoin/comments/1s6v37e/welcome_to_bitcoin_2026_edition/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -95,7 +95,7 @@ when bitcoin hovers right at a previous cycle's all-time high instead of getting
 
 been dollar cost averaging for about 2.5 years now and this recent pullback let me reach 2 whole coins sooner than i thought. originally figured i wouldn't get there until around december. perfect time to stack more while prices are down. anyone else taking advantage of these levels? (already know about teh dm scammers so don't bother)
 
-9h ago
+10h ago
 
 ---
 
@@ -103,7 +103,7 @@ been dollar cost averaging for about 2.5 years now and this recent pullback let 
 
 Whenever I suggest to look into Bitcoin I'm treated like a snake oil salesman or ignored altogether. So many people are drowning and it doesn't feel like enough people are catching on. It's been like this for a while now and doesn't look like anything will change. Oh well. Stay humble and stack, I guess.
 
-9h ago
+10h ago
 
 ---
 
@@ -111,7 +111,7 @@ Whenever I suggest to look into Bitcoin I'm treated like a snake oil salesman or
 
 I’d say DCA is by far the most advocated strategy on this sub. But it's common to see people suggesting adjustments to it. The goal is usually to buy more Bitcoin during dips, creating some form of “Dynamic DCA” based on indicators like drawdown. Although many people here are against changing the sacred DCA strategy, I think Dynamic DCA has its place. I mean, even River introduced “Supercharged” recurring buys, which is essentially a type of Dynamic DCA. So I decided to build a backtesting tool to see if Dynamic DCA is actually worth it. https://preview.redd.it/unzg55oxg2sg1.png?width=1881&format=png&auto=webp&s=b8888de6a48318a0b2b24bb73317edfbf7429f15 In this test I’m comparing two strategies over the last 4 years: a regular weekly DCA buy of $300 and a Dynamic DCA strategy based on drawdowns that works like this: - Base buy: $100 - Drawdown >= 25%: $300 - Drawdown >= 50%: $600 The result is impressive. The Dynamic DCA strategy almost doubles the return compared to the regular DCA. While the regular strategy ends up with around $103k and 1.55 BTC, the Dynamic version reaches about $153k and 2.31 BTC. All that while investing roughly the same amount of money. If you want to try it yourself and share some feedback, feel free to test it here. You can also experiment with other indicators like Fear & Greed or the Mayer Multiple.
 
-9h ago
+11h ago
 
 ---
 
@@ -127,7 +127,7 @@ I’d say DCA is by far the most advocated strategy on this sub. But it's common
 
 If all places accept Bitcoin, the adoption will be extremely fast. Walmart has it on the app, CashApp has it and if you go to Stake and Shake you can pay with Bitcoin and order your Bitcoin Stake burger. It would be nice if all places have something related to Bitcoin for purchases made on Bitcoin. Great idea and Stake and Shake is ahead of the game. Do you have a favorite restaurant that you will love do this?
 
-12h ago
+14h ago
 
 ---
 
@@ -135,23 +135,23 @@ If all places accept Bitcoin, the adoption will be extremely fast. Walmart has i
 
 I’m posting this to see if anyone has gone through something similar or can advise. My Stake account was recently compromised, and unauthorized bets were placed without my knowledge. My balance was around 2 BTC ($200K CAD) and is now completely gone. The activity happened while I was not actively using the account, and I have reason to believe it was accessed by a third party. I have: • Completed ID verification with Stake • Reported the incident to the Canadian Anti-Fraud Centre (CAFC) • Filed a police report in British Columbia Despite this, Stake support responded saying they cannot refund funds lost through betting or account activity, even though this was clearly unauthorized. What concerns me is that there seems to be no proper investigation into account compromise, and everything is being treated as a normal loss. I’m trying to understand: • Has anyone successfully escalated a similar case with Stake? • Is there any way to get this reviewed by a higher-level security or compliance team? Any advice or similar experiences would be appreciated.
 
-1h ago
-
----
-
-**[Daily Discussion, March 30, 2026](https://www.reddit.com/r/Bitcoin/comments/1s7ihj4/daily_discussion_march_30_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
 2h ago
 
 ---
 
-**[how much of your money do you put into bitcoin vs other stuff](https://www.reddit.com/r/Bitcoin/comments/1s73piq/how_much_of_your_money_do_you_put_into_bitcoin_vs/)**
+**[DCA or All in?](https://www.reddit.com/r/Bitcoin/comments/1s7lftn/dca_or_all_in/)**
 
-been thinking about this lately since everything seems cheap right now and i keep wanting to throw more cash at btc curious what everyone else is doing with their allocation between crypto and the usual stuff like index funds, individual stocks, bonds etc what percentage are you running and why did you pick that split? im a dev so i tend to overthink these decisions but would love to hear different approaches also yes i use arch btw and my fantasy team is doing terrible this year but thats another story lol
+I have the option of either going all in on bitcoin or spreading the amount equally over next 7 months until the October rise according to the 4 year cycle. Could I ask what you would suggest would be the best strategy? In not sure if it will keep dropping or this is the bottom, I know that it’s impossible to know if this is the bottom, or equally if it will go higher out lower from here but thought I’d ask the forum to get the consensus.
 
-13h ago
+1h ago
+
+---
+
+**[Old CoinPlant](https://www.reddit.com/r/Bitcoin/comments/1s7i5qc/old_coinplant/)**
+
+Do you remember the CoinPlanter app.? In march 2014 I buried the first plant in Sweden. To my knowledge, nobody ever dug it up. Is there any change to redeem it?
+
+4h ago
 
 ---
 
@@ -171,7 +171,7 @@ NBC News • 1d ago
 
 Analysts said the prolonged U.S.-Iran conflict keeps inflation fears elevated, weighing on crypto investor sentiment.
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -179,7 +179,13 @@ The Block • 5h ago
 
 The company seemed to have skipped it's weekly bitcoin purchase announcement for the first time since late december.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
+
+---
+
+**[Bitcoin Price Is Rising. Why XRP and Ethereum Are Climbing, Too.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-cryptos-ffbcc0ef?gaa_at=eafs&gaa_n=AWEtsqeIAHXA0xlJwELiL0RFJd6pVujOjgiQXtM4iJEUkbLMwKc3Bpe7B7uh&gaa_ts=69ca513b&gaa_sig=9czv9gAK0ZpAsT2-wqN4yfxaE1FQfEifj0hF4BFtE1VpX7hu6XqlPbg2HVwD9-U0XZHVJIHtTi1qJKKMAhYEBQ%3D%3D)**
+
+Barron's • 19m ago
 
 ---
 
@@ -187,43 +193,21 @@ CoinDesk • 14h ago
 
 Bitcoin’s latest slide has revived one of the more uncomfortable questions hanging over the crypto market this year.The investors are now seriously asking if this is just another ugly week or a deeper losing streak?What seems clear is that the pressure has built for weeks.Bitcoin slipped back below…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
-**[Bitcoin Price: US Bans Lawmakers From Prediction Markets and Pepeto Offers the 100x Entry](https://www.binance.com/en/square/post/307021338564658)**
+**[Bitcoin Price Prediction: Oil At $100 Puts BTC Price Under a Real ‘Trial By Fire’](https://www.binance.com/en/square/post/307058200117921)**
 
-binance.com • 3h ago
-
----
-
-**[Bitcoin ETFs Bleed $290M as ‘Risk-Off’ Mood Deepens](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-bleed-290m-risk-054046235.html)**
-
-Analysts attribute last week's BTC ETF outflows to geopolitical tensions, fading ceasefire hopes, and end-of-quarter rebalancing.
-
-Yahoo Finance • 3h ago
+Binance • 2h ago
 
 ---
 
-**[Analysts: Bitcoin Below $60K Could Delay Recovery to 2027](https://bitbo.io/news/analysts-bitcoin-below-60k-recovery-2027/)**
+**[Bitcoin Price: Bitcoin Slips to $66,000 — What Happens If the $66K Support Breaks?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-bitcoin-slips-66-163029515.html)**
 
-Multiple analysts warn that if Bitcoin's drawdown deepens toward $40,000–$45,000, historical patterns suggest a recovery to all-time highs may not arrive until after Q2 2027.
+Bitcoin (CRYPTO: BTC)) has lost nearly half its value since peaking at $126,000 in October 2025. The drop has taken the BTC through $100,000, $80,000, and $70,000, but every time the Bitcoin price has reached the $66,000 support level, buyers have shown up and pushed it back. The support is being tested right now as ... Bitcoin Price: Bitcoin Slips to $66,000 — What Happens If the $66K Support Breaks?
 
-Bitbo • 18h ago
-
----
-
-**[Forget Bitcoin: This Crypto Is the Smarter Buy Right Now](https://www.fool.com/investing/2026/03/27/forget-bitcoin-this-crypto-is-the-smarter-buy-righ/)**
-
-Solana could generate bigger near-term gains than the top cryptocurrency.
-
-The Motley Fool • 2d ago
-
----
-
-**[Goldman Sachs Just Quietly Called The Bitcoin Price Bottom—But There’s A Nasty Catch](https://www.forbes.com/sites/digital-assets/2026/03/28/goldman-sachs-just-quietly-called-the-bitcoin-price-bottom-but-theres-a-nasty-catch/)**
-
-Forbes • 1d ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -231,7 +215,23 @@ Forbes • 1d ago
 
 The new Digital Asset PARITY Act draft would extend wash-sale rules to digital assets while shielding certain regulated payment stablecoins from routine gain-or-loss recognition.
 
-CryptoSlate • 12h ago
+cryptoslate.com • 13h ago
+
+---
+
+**[Bitcoin ETFs Bleed $290M as ‘Risk-Off’ Mood Deepens](https://decrypt.co/362696/bitcoin-etfs-bleed-290m-as-risk-off-mood-deepens)**
+
+Analysts attribute last week's Bitcoin ETF outflows to geopolitical tensions, fading ceasefire hopes, and end-of-quarter rebalancing.
+
+Decrypt • 4h ago
+
+---
+
+**[Bitcoin resilience amid Iran war raises optimism about crypto adoption in ASEAN](https://asia.nikkei.com/business/markets/trading-asia/bitcoin-resilience-amid-iran-war-raises-optimism-about-crypto-adoption-in-asean)**
+
+Digital assets might still be in 'winter,' but they have not gone as volatile as traditional assets
+
+Nikkei Asia • 13h ago
 
 ---
 
@@ -261,7 +261,7 @@ Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes
 
 **[Uni feels so usless, I cant focus anymore](https://news.ycombinator.com/item?id=47567925)**
 
-⬆️ 7 • 💬 3 • 10h ago
+⬆️ 7 • 💬 3 • 12h ago
 
 ---
 
@@ -275,7 +275,7 @@ If you hold Bitcoin or Ethereum... watch this! (alert!) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 215 • ⏱️ 9:24 • 12h ago
+👁️ 33K • 👍 2K • 💬 215 • ⏱️ 9:24 • 13h ago
 
 ---
 
@@ -285,7 +285,7 @@ The market looks calm on the surface but the cracks are getting worse. From glob
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 111 • ⏱️ 12:24 • 10h ago
+👁️ 14K • 👍 1K • 💬 111 • ⏱️ 12:24 • 11h ago
 
 ---
 
@@ -333,7 +333,7 @@ Once upon a time, Bitcoin used to have god candles (and epic crashes) all on its
 
 📺 Andrei Jikh
 
-👁️ 16K • 👍 627 • 💬 20 • ⏱️ 2:32 • 7h ago
+👁️ 16K • 👍 627 • 💬 20 • ⏱️ 2:32 • 9h ago
 
 ---
 
@@ -343,7 +343,7 @@ Learn 50+ years of Real Economics in only 7 weeks. Apply here: https://www.steve
 
 📺 ProfSteveKeen
 
-👁️ 48K • 👍 2K • 💬 448 • ⏱️ 10:57 • 13h ago
+👁️ 48K • 👍 2K • 💬 448 • ⏱️ 10:57 • 15h ago
 
 ---
 

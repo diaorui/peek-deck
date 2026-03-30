@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-30T08:55:12.834701+00:00'
+updated: '2026-03-30T10:18:15.921633+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
 - news
+- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 30, 2026 at 08:55 UTC  
+**Last Updated:** March 30, 2026 at 10:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I find it interesting that we’ve all randomly decided to use the “-“ more often recently on reddit, and everyone’s grammar has drastically improved. Specifically on highly technical subreddits like this one, when people want to appear like they understand concepts or granular details they just feed it into AI to give them an answer. To me this feels dangerous, we’re essentially offloading entertainment for an AI to process so we get a dopamine hit. We aren’t even able to browse the internet anymore without AI doing it for us. We can’t even argue without AI feeding us an argument. This is the destruction of conversation globally. It isn’t a one world government or a tyrannical leader, it’s humanity collectively deciding we would rather not think than think, because thinking is hard. When thinking is the main ability which separates us from animals, so we’re becoming apes who can type because it’s convenient.
 
-1h ago
+2h ago
 
 ---
 
@@ -49,31 +49,7 @@ I find it interesting that we’ve all randomly decided to use the “-“ more 
 
 Link: https://m.youtube.com/watch?v=1sd26pWhfmg The Linux exploit is especially interesting because it was introduced in 2003 and was never found until now. It’s also a major security issue because it allows attackers to steal the admin key. It was a buffer overflow error, which are so hard to do that Carlini has never done it before. He also says he expects LLMs to only get better overtime, which is likely true if Mythos lives up to the rumors. here are his Wikipedia and Google Scholar pages in case you doubt his credibility: https://en.wikipedia.org/wiki/Nicholas_Carlini https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=carlini&btnG=
 
-14h ago
-
----
-
-**[Be Amazed reddit isn’t impressed](https://www.reddit.com/r/artificial/comments/1s7kwh8/be_amazed_reddit_isnt_impressed/)**
-
-The purpose of the Be amazed of Reddit was to be amazed. There was a post recently about an uncle who did some type of geographical stuff with rocks to make art and it’s been figured out that it wasn’t original content, originally years ago. Someone else’s uncle has been spread online and his image shared for public use by others from different accounts already so I did the same; only the 2026 version. my purpose wasn’t to post AI “slop” as they commented and moderated, but the layered concept of the fact that it’s pretty amazing that you can take a popular post (That’s been already posted over and over again) and in seconds recreate a different version of a different state of a different place and person. general public of be amazed reddit community misses the point. all reddit users are not the same. In minute it got thousands of views only a few comments and just because of some heated individuals, even though flared as art with no guidelines against how the art is produced specifically the moderator still removed it even though the recent repost of the uncles art supposedly from within 24 hours ago, got all the love even though it was someone else’s work just taken and presented in their own way and their own username. There’s other post and images like that that are edited and shared. That’s literally what art is. people borrow interpret and make it their own. I find an art to be the same and once again, pretty amazing. I kind of did it to see where is the line of amazement. When will people shift their view to understand how amazing creating images is? Maybe not objectively every single image created it’s amazing but this specific idea of posting something that can borrow from another post in seconds and re-create a whole different state with different rocks. I’m ranting now, but please discuss.
-
-19m ago
-
----
-
-**[CLI for Google AI Search (gai.google) — run AI-powered code/tech searches headlessly from your terminal](https://www.reddit.com/r/artificial/comments/1s7k1sg/cli_for_google_ai_search_gaigoogle_run_aipowered/)**
-
-Google AI (gai.google) gives Gemini-powered answers for technical queries — think AI-enhanced search with code understanding. I built a CLI for it using headless Playwright since the site is fully browser-rendered. cli-web-gai search "how does Redis persistence work" cli-web-gai search "Python asyncio vs threading" --json cli-web-gai search "Rust ownership model explained" --format markdown Because the site renders in-browser (no public API), the CLI spins up a headless Chromium session, runs the query, and extracts the structured response. No auth needed — fully public. Output includes the AI answer, any code blocks, and source citations. --json gives structured output for piping into other tools or agents. Open source: https://github.com/ItamarZand88/CLI-Anything-WEB/tree/main/gai Full project (13 CLIs): https://github.com/ItamarZand88/CLI-Anything-WEB
-
-1h ago
-
----
-
-**[What actually prevents execution in agent systems?](https://www.reddit.com/r/artificial/comments/1s76o5b/what_actually_prevents_execution_in_agent_systems/)**
-
-Ran into this building an agent that could trigger API calls. We had validation, tool constraints, retries… everything looked “safe”. Still ended up executing the same action twice due to stale state + retry. Nothing actually prevented execution. It only shaped behavior. Curious what people use as a real execution gate: 1. something external to the agent 2. deterministic allow / deny 3. fail-closed if denied Any concrete patterns or systems that enforce this in practice?
-
-12h ago
+15h ago
 
 ---
 
@@ -81,7 +57,31 @@ Ran into this building an agent that could trigger API calls. We had validation,
 
 Most of the current “AI security” stack seems focused on: • prompts • identities • outputs After an agent deleted a prod database on me a year ago. I saw the gap and started building. a control layer directly in the execution path between agents and tools. We are to market but I don’t want to spam yall with our company so I left it out. ⸻ What that actually means Every time an agent tries to take an action (API call, DB read, file access, etc.), we intercept it and decide in real time: • allow • block • require approval But the important part is how that decision is made. ⸻ A few things we’re doing differently Credential starvation (instead of trusting long-lived access) Agents don’t get broad, persistent credentials. They effectively operate with nothing by default, and access is granted per action based on policy + context. ⸻ Session-based risk escalation (not stateless checks) We track behavior across the entire session. Example: • one DB read → fine • 20 sequential reads + export → risk escalates • tool chaining → risk escalates So decisions aren’t per-call—they’re based on what the agent has been doing over time. ⸻ HITL only when it actually matters We don’t want humans in the loop for everything. Instead: • low risk → auto allow • medium risk → maybe constrained • high risk → require approval The idea is targeted interruption, not constant friction. ⸻ Autonomy zones Different environments/actions have different trust levels. Example: • read-only internal data → low autonomy constraints • external API writes → tighter controls • sensitive systems → very restricted Agents can operate freely within a zone, but crossing boundaries triggers stricter enforcement. ⸻ Per-tool, per-action control (not blanket policies) Not just “this agent can use X tool” More like: • what endpoints • what parameters • what frequency • in what sequence So risk is evaluated at a much more granular level. ⸻ Hash-chained audit log (including near-misses) Every action (allowed, blocked, escalated) is: • logged • chained • tamper-evident Including “almost bad” behavior not just incidents. This ended up being more useful than expected for understanding agent behavior. ⸻ Policy engine (not hardcoded rules) All of this runs through a policy layer (think flexible rules vs static checks), so behavior can adapt without rewriting code. ⸻ Setup is fast (~10 min) We tried to avoid the “months of integration” problem. If it’s not easy to sit in the execution path, nobody will actually use it. ⸻ Why we think this matters The failure mode we keep seeing: agents don’t fail because of one bad prompt — they fail because of a series of individually reasonable actions that become risky together Most tooling doesn’t really account for that. ⸻ Would love feedback from people actually building agents • Have you seen agents drift into risky behavior over time? • How are you controlling tool usage today (if at all)? • Does session-level risk make sense, or is that overkill? • Is “credential starvation” realistic in your setups? We are just two security guys who built a company not some McKenzie bros who are super funded. We have our first big design partners starting this month and need all these feedback from community as we can get.
 
-7h ago
+8h ago
+
+---
+
+**[CLI for Google AI Search (gai.google) — run AI-powered code/tech searches headlessly from your terminal](https://www.reddit.com/r/artificial/comments/1s7k1sg/cli_for_google_ai_search_gaigoogle_run_aipowered/)**
+
+Google AI (gai.google) gives Gemini-powered answers for technical queries — think AI-enhanced search with code understanding. I built a CLI for it using headless Playwright since the site is fully browser-rendered. cli-web-gai search "how does Redis persistence work" cli-web-gai search "Python asyncio vs threading" --json cli-web-gai search "Rust ownership model explained" --format markdown Because the site renders in-browser (no public API), the CLI spins up a headless Chromium session, runs the query, and extracts the structured response. No auth needed — fully public. Output includes the AI answer, any code blocks, and source citations. --json gives structured output for piping into other tools or agents. Open source: https://github.com/ItamarZand88/CLI-Anything-WEB/tree/main/gai Full project (13 CLIs): https://github.com/ItamarZand88/CLI-Anything-WEB
+
+2h ago
+
+---
+
+**[What actually prevents execution in agent systems?](https://www.reddit.com/r/artificial/comments/1s76o5b/what_actually_prevents_execution_in_agent_systems/)**
+
+Ran into this building an agent that could trigger API calls. We had validation, tool constraints, retries… everything looked “safe”. Still ended up executing the same action twice due to stale state + retry. Nothing actually prevented execution. It only shaped behavior. Curious what people use as a real execution gate: 1. something external to the agent 2. deterministic allow / deny 3. fail-closed if denied Any concrete patterns or systems that enforce this in practice?
+
+13h ago
+
+---
+
+**[Be Amazed reddit isn’t impressed](https://www.reddit.com/r/artificial/comments/1s7kwh8/be_amazed_reddit_isnt_impressed/)**
+
+The purpose of the Be amazed of Reddit was to be amazed. There was a post recently about an uncle who did some type of geographical stuff with rocks to make art and it’s been figured out that it wasn’t original content, originally years ago. Someone else’s uncle has been spread online and his image shared for public use by others from different accounts already so I did the same; only the 2026 version. my purpose wasn’t to post AI “slop” as they commented and moderated, but the layered concept of the fact that it’s pretty amazing that you can take a popular post (That’s been already posted over and over again) and in seconds recreate a different version of a different state of a different place and person. general public of be amazed reddit community misses the point. all reddit users are not the same. In minute it got thousands of views only a few comments and just because of some heated individuals, even though flared as art with no guidelines against how the art is produced specifically the moderator still removed it even though the recent repost of the uncles art supposedly from within 24 hours ago, got all the love even though it was someone else’s work just taken and presented in their own way and their own username. There’s other post and images like that that are edited and shared. That’s literally what art is. people borrow interpret and make it their own. I find an art to be the same and once again, pretty amazing. I kind of did it to see where is the line of amazement. When will people shift their view to understand how amazing creating images is? Maybe not objectively every single image created it’s amazing but this specific idea of posting something that can borrow from another post in seconds and re-create a whole different state with different rocks. I’m ranting now, but please discuss.
+
+1h ago
 
 ---
 
@@ -97,7 +97,7 @@ I run a small AI companion platform and wanted to share some interesting behavio
 
 Sharing this for a friend conducting an academic study for her MBA thesis on how employees make sense of AI use in workplace communication. Specifically: disclosed vs. inferred AI use, and what difference that makes. Anonymous, under 5 minutes: English: https://whudrdl.qualtrics.com/jfe/form/SV\_1G4k3TKx8xhXwXQ German: https://whudrdl.qualtrics.com/jfe/form/SV\_3OYZNjGJr4qfceq Thanks a lot for your participation and support!
 
-15h ago
+17h ago
 
 ---
 
@@ -125,7 +125,7 @@ Every day someone posts "AI will change everything" and it's always about agents
 
 A Tennessee grandmother spent more than five months in jail after police used an AI facial recognition tool to link her to crimes committed in North Dakota – a state she says she’d never been to before. Police in Fargo, North Dakota, have acknowledged “a few errors” in the case and pledged changes in their operations but stopped short of issuing a direct apology.
 
-CNN • 22h ago
+CNN • 1d ago
 
 ---
 
@@ -133,13 +133,13 @@ CNN • 22h ago
 
 More tech leaders are pointing to job cuts caused by AI tools - and a need for more investment cash.
 
-BBC • 9h ago
+BBC • 11h ago
 
 ---
 
-**[France's Mistral raises $830 million in debt for AI data centre build-up](https://www.reuters.com/business/finance/frances-mistral-raises-830-million-debt-ai-data-centre-build-up-2026-03-30/)**
+**[AI leaders align against Elon Musk](https://www.axios.com/2026/03/30/elon-musk-openai-altman-anthropic)**
 
-Reuters • 2h ago
+Axios • 59m ago
 
 ---
 
@@ -147,7 +147,13 @@ Reuters • 2h ago
 
 Mistral is one of the few European startups building foundational AI models.
 
-CNBC • 1h ago
+cnbc.com • 3h ago
+
+---
+
+**[France's Mistral raises $830 million in debt for AI data centre build-up](https://www.reuters.com/business/finance/frances-mistral-raises-830-million-debt-ai-data-centre-build-up-2026-03-30/)**
+
+Reuters • 4h ago
 
 ---
 
@@ -155,27 +161,21 @@ CNBC • 1h ago
 
 French company’s debut debt financing follows rising demand for alternatives to US groups
 
-ft.com • 48m ago
+Financial Times • 2h ago
 
 ---
 
-**[China's DeepSeek AI chatbot suffers longest outage since viral rise in early 2025](https://www.reuters.com/technology/chinas-deepseek-ai-chatbot-suffers-longest-outage-since-viral-rise-early-2025-2026-03-30/)**
+**[LaGuardia Crash Bolsters Case for Using AI in Air Control Towers](https://www.bloomberg.com/news/articles/2026-03-30/laguardia-crash-bolsters-case-for-using-ai-in-air-control-towers)**
 
-Reuters • 1h ago
-
----
-
-**[British AI giant faces energy backlash over Microsoft data centre](https://www.yahoo.com/news/articles/british-ai-giant-faces-energy-060000067.html)**
-
-One of Britain’s largest artificial intelligence (AI) startups is facing a backlash over plans to build a data centre for Microsoft after local officials raised fears it would drive up energy costs fo...
-
-Yahoo • 2h ago
+Bloomberg.com • 18m ago
 
 ---
 
-**[JFK grandson Schlossberg says billionaires, ‘massive AI companies’ spending millions in New York House race](https://thehill.com/homenews/campaign/5806153-jfk-grandson-schlossberg-says-billionaires-massive-ai-companies-spending-millions-in-new-york-house-race/)**
+**[Pro-AI group to spend $100mn on US midterm elections as backlash grows](https://www.ft.com/content/6a3f1938-759d-4ae4-924e-6a0feac14e24?syn-25a6b1a6=1)**
 
-The Hill • 21h ago
+November 3 poll set to be battleground over regulation of AI
+
+Financial Times • 10h ago
 
 ---
 
@@ -183,13 +183,15 @@ The Hill • 21h ago
 
 Demis Hassabis has devoted his life to advancing a technology he thinks could destroy the world.
 
-The Atlantic • 22h ago
+The Atlantic • 1d ago
 
 ---
 
-**[Opinion | Your Chatbot Isn’t a Therapist](https://www.nytimes.com/2026/03/29/opinion/chatbot-therapy-ai.html)**
+**[Drone swarms: The potential AI future of drone warfare](https://www.cbsnews.com/news/drone-swarms-the-potential-ai-future-of-drone-warfare-60-minutes/)**
 
-The New York Times • 19h ago
+The architect of Ukraine's drone program Oleksandr Kamyshin told Holly Williams drone swarm technology that uses AI would provide a major advantage in the war with Russia, and there is an arms race for the technology. "Both countries are close. None got there yet," he told 60 Minutes.
+
+CBS News • 10h ago
 
 ---
 
@@ -199,7 +201,7 @@ The New York Times • 19h ago
 
 **[AI overly affirms users asking for personal advice](https://news.ycombinator.com/item?id=47554773)**
 
-⬆️ 770 • 💬 602 • 1d ago • [news.stanford.edu](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
+⬆️ 772 • 💬 606 • 1d ago • [news.stanford.edu](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
 
 ---
 
@@ -215,7 +217,7 @@ LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. In
 
 A Tennessee grandmother spent more than five months in jail after police used an AI facial recognition tool to link her to crimes committed in North Dakota – a state she says she’d never been to before. Police in Fargo, North Dakota, have acknowledged “a few errors” in the case and pledged changes in their operations but stopped short of issuing a direct apology.
 
-⬆️ 388 • 💬 168 • 18h ago • [CNN](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
+⬆️ 394 • 💬 171 • 19h ago • [CNN](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
 
 ---
 
@@ -229,7 +231,7 @@ A Tennessee grandmother spent more than five months in jail after police used an
 
 Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma development by creating an account on GitHub.
 
-⬆️ 315 • 💬 227 • 22h ago • [GitHub](https://github.com/austin-weeks/miasma)
+⬆️ 319 • 💬 229 • 1d ago • [GitHub](https://github.com/austin-weeks/miasma)
 
 ---
 
@@ -243,7 +245,7 @@ Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma
 
 **[Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem](https://news.ycombinator.com/item?id=47557166)**
 
-⬆️ 253 • 💬 173 • 1d ago • [X (formerly Twitter)](https://twitter.com/BoWang87/status/2037648937453232504)
+⬆️ 254 • 💬 175 • 1d ago • [X (formerly Twitter)](https://twitter.com/BoWang87/status/2037648937453232504)
 
 ---
 
@@ -257,7 +259,7 @@ A personal blog, by a programmer and IT expert. Essays, Articles, Guides, and Re
 
 **[What if AI doesn't need more RAM but better math?](https://news.ycombinator.com/item?id=47561297)**
 
-⬆️ 173 • 💬 92 • 1d ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more)
+⬆️ 175 • 💬 92 • 1d ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more)
 
 ---
 
@@ -279,7 +281,7 @@ Anthropic accidentally exposed Claude MYTHOS, its most powerful AI yet, Meta unv
 
 📺 AI Revolution
 
-👁️ 17K • 👍 623 • 💬 37 • ⏱️ 12:51 • 8h ago
+👁️ 17K • 👍 623 • 💬 37 • ⏱️ 12:51 • 10h ago
 
 ---
 
@@ -289,7 +291,7 @@ Detailed sources: https://docs.google.com/document/d/1P1X9xEmmgSYH0g1FSizgV2rDVo
 
 📺 Species | Documenting AGI
 
-👁️ 59K • 👍 4K • 💬 958 • ⏱️ 35:45 • 17h ago
+👁️ 59K • 👍 4K • 💬 958 • ⏱️ 35:45 • 18h ago
 
 ---
 
@@ -329,7 +331,7 @@ Join our WhatsApp Community Get the latest AI updates, tips, and insights straig
 
 📺 Vaibhav Sisinty
 
-👁️ 39K • 👍 1K • 💬 48 • ⏱️ 15:58 • 17h ago
+👁️ 39K • 👍 1K • 💬 48 • ⏱️ 15:58 • 19h ago
 
 ---
 
@@ -433,7 +435,7 @@ Context-1 is a 20B parameter agentic search model that decomposes complex querie
 
 `text-generation` `20.9B`
 
-⬇️ 1,450 • ❤️ 253 • 7h ago
+⬇️ 1,450 • ❤️ 253 • 9h ago
 
 ---
 
@@ -491,7 +493,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 TRIBE v2 is a multimodal foundation model that integrates LLaMA 3.2 (text), V-JEPA2 (video), and Wav2Vec-BERT (audio) to predict fMRI brain responses. It maps these representations onto the cortical surface for in-silico neuroscience research, enabling analysis of brain activity elicited by naturalistic stimuli.
 
-⬇️ 9,919 • ❤️ 176 • 2d ago
+⬇️ 9,919 • ❤️ 176 • 3d ago
 
 ---
 
@@ -665,7 +667,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 9.0k • 🔱 750 • 3h ago
+⭐ 9.0k • 🔱 750 • 4h ago
 
 ---
 
@@ -685,7 +687,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 5.9k • 🔱 703 • 2h ago
+⭐ 5.9k • 🔱 703 • 3h ago
 
 ---
 
@@ -695,7 +697,7 @@ A command-line tool for Lark/Feishu Open Platform — built for humans and AI Ag
 
 `Go`
 
-⭐ 4.2k • 🔱 186 • 1h ago
+⭐ 4.2k • 🔱 186 • 2h ago
 
 ---
 
