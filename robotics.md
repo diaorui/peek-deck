@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-30T07:07:18.260739+00:00'
+updated: '2026-03-30T08:55:12.851123+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 30, 2026 at 07:07 UTC  
+**Last Updated:** March 30, 2026 at 08:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Posting update here, I doubled down on my mission to create the smallest VIO module, here is the latest revision I am working on. - Global shutter camera + IMU - 0.8W - Outputs pose @ 15hz via USB or UART Here is a short video showing how when you plug it into any phone or pc, it shows up as ethernet device with a web-ui built into it. No app to setup or even internet required. This lets me try it out and collect diverse datasets easily on-the-go.
 
-3h ago
+4h ago
 
 ---
 
 **[Unipath has launched a household robot that is now in real-home use. It can wake users up on time, operate home appliances, organize storage spaces, and even cook meals automatically.](https://www.reddit.com/r/robotics/comments/1s7065y/unipath_has_launched_a_household_robot_that_is/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -50,13 +50,13 @@ Posting update here, I doubled down on my mission to create the smallest VIO mod
 
 ​ Hey everyone, I’m a senior CS student building a proof-of-concept for a fully local, AI-guided mapping robot, and I’d love some feedback on my architecture to help me improve. (First 30s are tech stack, remainder is robot running around my room) The robot drives forward until the ultrasonic sensor detects a wall. It backs up, and then triggers a local Vision-Language Model (NVIDIA VILA 2.7B running via nano_llm on the Jetson). The AI looks at the camera frame, identifies the scene (e.g., "see a drawer"), and tells the ROS2 exploration controller which direction to turn next. Everything runs completely offline. My current tech stack: Jetson Orin Nano + ROS2 Humble Arduino Mega for motor/encoder control (2 HiTechnic motor controllers and 4 Tetrix 12v Torquenado motors) Single ultrasonic sensor (currently) + a cheap usb camera (to be determined if I upgrade to a depth camera or something else) VILA 2.7B for scene labeling and high-level navigation decisions I know the movement in this video is pretty jittery (combination of ultrasonic noise and serial communication gaps). I actually just ordered an LDROBOT STL-27L LiDAR to upgrade the stack to proper 360° ICP SLAM and to fully flesh out 2D maps of my whole apt. The end goal being for this phase of the robot is to be plopped down anywhere and go to the location that I tell it to go to. Later on, I would have a robot arm that I built using 15kg and 25kg servos be attached to the front and masked whenever they pass the clearance of the lidar. The arm would have the usb camera from earlier or an OpenMVRT1062 AI cam to help identify target objects and grasp them and then go to a destination. For those of you working in the robotics industry: What issues do you see with this approach? What specific tools, libraries, or design patterns is my project currently missing that hiring managers look for in entry-level robotics engineers? Are there any specific upgrades I should keep in mind for the future such as a depth camera being needed or a higher res camera, upgrades to motor controllers, etc. Thanks in advance. I’m here to learn, so please don't hold back on the critiques!
 
-10h ago
+12h ago
 
 ---
 
 **[US lawmakers to introduce bill to ban government use of Chinese robots](https://www.reddit.com/r/robotics/comments/1s75mvr/us_lawmakers_to_introduce_bill_to_ban_government/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/) • 10h ago
+🔗 [reuters.com](https://www.reuters.com/world/us/us-lawmakers-introduce-bill-ban-government-use-chinese-robots-2026-03-26/) • 12h ago
 
 ---
 
@@ -64,7 +64,23 @@ Posting update here, I doubled down on my mission to create the smallest VIO mod
 
 "We fine-tuned π0, a VLA model pretrained entirely on manipulators, to fly a drone that picks up objects, navigates through gates, and composes both skills from language commands." Stanford MSL on 𝕏: https://x.com/StanfordMSL/status/2037760965228556431 π, But Make It Fly: Physics-Guided Transfer of VLA Models to Aerial Manipulation arXiv:2603.25038 [cs.RO]: https://arxiv.org/abs/2603.25038 Project page: https://airvla.github.io/
 
-17h ago
+19h ago
+
+---
+
+**[ROSdeck: open-source mobile app for controlling ROS2 robots](https://www.reddit.com/r/robotics/comments/1s7l085/rosdeck_opensource_mobile_app_for_controlling/)**
+
+I wanted a simple way to drive my robot and monitor topics from my phone — something like ROS-Mobile but for ROS2. Nothing out there fit, so I built ROSdeck. You connect over WiFi to rosbridge or foxglove-bridge, then build a custom tmux style dashboard with widgets: camera feeds, joystick, 2D map with Nav2 goals, battery, IMU, diagnostics, charts, TF tree. Layouts can be loaded and saved across robots. Just open-sourced it: https://github.com/baunuri/rosdeck Android build can be downloaded under releases on the git repo, or available in closed beta track on play store- sign up here: https://rosdeck.github.io What widgets would you actually use day-to-day? Looking for feedback on what to prioritize next.
+
+🔗 [youtube.com](https://youtube.com/shorts/0VJ_A97qTA4) • 12m ago
+
+---
+
+**[Deep-dive on where robot dogs are actually headed in the next 1-2 years. The real story is nothing like the viral clips.](https://www.reddit.com/r/robotics/comments/1s7kso8/deepdive_on_where_robot_dogs_are_actually_headed/)**
+
+Everyone keeps sharing those insane robot dog videos — backflips, dancing, parkour. Cool to watch. But I've been following the Chinese robotics ecosystem closely (I run a robotics/AI startup), and the actual industry trajectory is way more interesting than the trick videos suggest. Breakdown from one of China's most respected robotics company 智元科技 who recently did a concentrated review of the quadruped robot space — talked to frontline manufacturers, looked at real products shipping, and mapped out where the money is actually going. Core thesis: the industry has stopped chasing wow moments and started chasing unit economics. Here's the breakdown: https://preview.redd.it/sl4l57dt75sg1.png?width=2136&format=png&auto=webp&s=c6589cab5d8a3324403fed54df67581f259b44dc 1. Robot dogs are becoming industrial tools, not toys The real deployments happening right now are boring on camera but massive in value — power grid inspection, security patrol, firefighting entry, mining operations. One example that stuck with me: a commercial property operator ran the numbers on replacing part of their night patrol staff with two robot dogs. Even a 1-2% margin improvement made it a no-brainer purchase. When the ROI math works, it stops being a "cool tech demo" and becomes standard procurement. The business model is shifting too. Nobody wants to buy a $50k dog outright. The smart manufacturers are moving to annual service contracts and project-based leasing. You're not buying a robot — you're buying patrol capability. https://preview.redd.it/n3xe91bu75sg1.png?width=2122&format=png&auto=webp&s=23ea98aa592371bffeda6125968f35e3127d8eae 2. All-terrain is the real differentiator The next 1-2 years aren't about running faster on flat ground. The actual challenge is stairs, rubble, grass, slopes, narrow corridors, multi-floor factory complexes. That's where wheels fail and legs win. The product strategy is splitting into tiers: Small dogs (~8kg): Entertainment, education, STEM competitions. Their job is brand awareness and volume. Medium/heavy dogs (30kg+): Power, petrochemical, firefighting. Loaded with cameras, LiDAR, water cannons, sensors. Their job is winning enterprise contracts. One manufacturer just hit a 7.5:1 payload-to-weight ratio with doubled battery capacity and joints producing 30,000 units/month at sub-2% failure rate. These aren't prototypes — this is industrial scale. https://preview.redd.it/qvtbn23v75sg1.png?width=2122&format=png&auto=webp&s=176a48b50316b487450a6feedac45da324162ddf 3. Intelligence is layering up fast The intelligence roadmap has three clear layers emerging: Motion intelligence: Reinforcement learning to handle any terrain without falling or losing control Spatial intelligence: Real 3D perception, mapping, and navigation — the dog actually understands its environment, not just following pre-mapped waypoints Interaction intelligence: This is the wild one. The goal is natural language task assignment. "Go to floor 3, sweep the area, pick up the package from desk 7." The dog plans and executes autonomously. And after that? Multi-robot swarm coordination. Multiple dogs doing formation patrol, task allocation, collision avoidance. Critical for large-scale campus security or search-and-rescue operations. https://preview.redd.it/14a8mx5w75sg1.png?width=2122&format=png&auto=webp&s=dac41685a2d39278bfc4cdbb35324ab6717f7134 4. The platform play is the real endgame This is the structural shift that most Western observers are missing. The leading Chinese manufacturers aren't trying to build a dog for every use case. They're building a universal chassis platform — joint modules, power systems, navigation stack, APIs, toolchains — and letting integrators build vertical solutions on top. Power companies build their own inspection packages. Security firms build patrol networks. Firefighting integrators build hazard-entry solutions. The manufacturer provides the platform and handles production. The analogy the creator used was perfect: it's like smartphones going from brands building their own apps to open ecosystems where developers build on the platform. One company makes the foundation, a whole ecosystem builds the solutions. https://preview.redd.it/72tc2m3x75sg1.png?width=2122&format=png&auto=webp&s=57ada8a6acbf2eb1bc5eec6c89412ec6678bf876 The 5 things to watch: Scenario-specific tool dogs (purpose-built, not general purpose) Hardware upgrades (heavier payloads, IP ratings, extreme environment tolerance) Spatial intelligence (3D perception + natural language commands) Product matrix strategy (small dogs for volume, heavy dogs for contracts) Platform ecosystem plays (chassis + integrator model) The companies that win this space won't be the ones with the most viral videos. They'll be the ones where the unit economics work across real verticals. https://preview.redd.it/vcgcdmnx75sg1.png?width=2122&format=png&auto=webp&s=c3a35efdf8026f118ca07aab4a829a71f297be7b Most of the interesting deployment data and industry thinking is happening in Chinese and never makes it to English-speaking audiences. Happy to answer any questions about what I'm seeing.
+
+25m ago
 
 ---
 
@@ -72,7 +88,7 @@ Posting update here, I doubled down on my mission to create the smallest VIO mod
 
 We recently built an AR game for Quest. It turns chores into a game by detecting and rewarding chores in real-time. It won a big prize from Meta, has a few hundred users, and we’re exploring where to go from here. The game is missing something: what’s the reward beyond XP? This led to a crazy idea - what if the rewards had real value in exchange for players sharing their captures as training data for home robots. Kind of like having an allowance for your chores as an adult. With the added benefit of helping automate boring work. The biggest barrier is privacy. At minimum it has to be opt-in and with some protections like censoring faces and personal info. Looking for more ideas there though. Curious what others think.
 
-4h ago
+6h ago
 
 ---
 
@@ -86,21 +102,7 @@ We recently built an AR game for Quest. It turns chores into a game by detecting
 
 You’ve just seen our operating system in action with the autonomous robot arm. Now we present it's companion, the rover MK1: Full-stack autonomy running entirely on edge compute on Raspberry PI 5, decentralized, infrastructure-free system. The secret is custom sensor fusion running entirely on the edge: 👁️ Lidar for precise 360° room mapping. 🦇 Sonar for hardware-interrupt collision avoidance (catching the glass lasers miss). 🎯 OpenCV Spatial Locking for absolute position navigation precision.
 
-🔗 [youtu.be](https://youtu.be/d8D4Vfti4qE) • 9h ago
-
----
-
-**[Figure 03 Robot on Shawn Ryan Show](https://www.reddit.com/r/robotics/comments/1s7coxg/figure_03_robot_on_shawn_ryan_show/)**
-
-5h ago
-
----
-
-**[Rover-Project: Alpha stage , Obstacle avoidance feature.](https://www.reddit.com/r/robotics/comments/1s6divq/roverproject_alpha_stage_obstacle_avoidance/)**
-
-Im 15yr hobbyist , my 2nd project self funded. this project is currently in alpha stage .made using foamboard and used wooden blocks for strength, i will add robotic arm for my next phase (on top of it). used arduino UNO r3, 4TT motor, TB6612FNG driver. IR receiver for Remote control, can be controlled manually or turn on obstacle avoidance mode. more info in my GitHub: https://github.com/Ajaz-6O7/Rover-Project
-
-1d ago
+🔗 [youtu.be](https://youtu.be/d8D4Vfti4qE) • 10h ago
 
 ---
 
@@ -118,21 +120,21 @@ Fox Business • 1d ago
 
 **[AI Robotics Lab in Talks to Raise $1 Billion at $11 Billion Valuation](https://www.bloomberg.com/news/articles/2026-03-27/ex-deepmind-staffers-robotics-startup-in-talks-for-11-billion-valuation)**
 
-Bloomberg.com • 2d ago
+bloomberg.com • 2d ago
 
 ---
 
-**[Amazon Acquires Fauna Robotics. Is This a Viable Threat to Tesla's Optimus Project?](https://www.fool.com/investing/2026/03/29/amazon-fauna-robotics-threat-tesla-optimus/)**
+**[Amazon buys Fauna Robotics, maker of the Sprout humanoid robot that can dance, pick up toys, and go on a stroll](https://fortune.com/2026/03/29/amazon-acquisition-fauna-robotics-sprout-humanoid-robot-homes-schools-disney/)**
 
-Amazon's humanoid bet isn't about competing with Tesla's factory robots. Its about quietly building the operating system for the home.
+Early customers included Disney.
 
-The Motley Fool • 17h ago
+Fortune • 12h ago
 
 ---
 
 **[Seals use whisker movement to follow underwater trails—an approach that could improve robotic sensing](https://phys.org/news/2026-03-whisker-movement-underwater-trails-approach.html)**
 
-Phys.org • 16h ago
+Phys.org • 18h ago
 
 ---
 
@@ -140,7 +142,7 @@ Phys.org • 16h ago
 
 The Robotics and AI Institute (RAI) has just released a video of its Roadrunner robot. Although it lacks a torso, the bipedal bot more than makes up for it by rolling, stomping, stair-climbing, and even showing off while using only one of its legs.
 
-New Atlas • 11h ago
+newatlas.com • 13h ago
 
 ---
 
@@ -148,7 +150,7 @@ New Atlas • 11h ago
 
 McDonald's tested humanoid robots from Keenon Robotics at a Shanghai location, where they greeted customers and delivered food in a short pilot program.
 
-Fox News • 19h ago
+Fox News • 21h ago
 
 ---
 
@@ -168,17 +170,17 @@ Euronews.com • 1d ago
 
 ---
 
-**[AI benchmark helps robots plan and complete their chores in the real world](https://techxplore.com/news/2026-03-ai-benchmark-robots-chores-real.html)**
+**[Amazon Acquires Fauna Robotics. Is This a Viable Threat to Tesla's Optimus Project?](https://www.fool.com/investing/2026/03/29/amazon-fauna-robotics-threat-tesla-optimus/)**
 
-techxplore.com • 15h ago
+Amazon's humanoid bet isn't about competing with Tesla's factory robots. Its about quietly building the operating system for the home.
+
+The Motley Fool • 19h ago
 
 ---
 
-**[Strange Modular Robots Are Writhing Across Landscapes](https://futurism.com/robots-and-machines/strange-modular-robots-writhing)**
+**[AI benchmark helps robots plan and complete their chores in the real world](https://techxplore.com/news/2026-03-ai-benchmark-robots-chores-real.html)**
 
-Researchers from Northwestern University have developed robots called "metamachines" that are composed of other robots.
-
-Futurism • 1d ago
+Tech Xplore • 16h ago
 
 ---
 
@@ -192,7 +194,7 @@ Learn for free on Brilliant for a full 30 days: https://brilliant.org/NikodemBar
 
 📺 Nikodem Bartnik
 
-👁️ 84K • 👍 4K • 💬 66 • ⏱️ 9:55 • 5d ago
+👁️ 86K • 👍 4K • 💬 67 • ⏱️ 9:55 • 5d ago
 
 ---
 
@@ -202,15 +204,7 @@ Brett Adcock shares his vision for the future of humanoid robots, why he believe
 
 📺 Shawn Ryan Show
 
-👁️ 55K • 👍 2K • 💬 606 • ⏱️ 14:05 • 2d ago
-
----
-
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=xfHkXgZjbCU)**
-
-📺 Robot Julie 
-
-👁️ 936 • 👍 5 • ⏱️ 0:21 • 6h ago
+👁️ 57K • 👍 2K • 💬 611 • ⏱️ 14:05 • 2d ago
 
 ---
 
@@ -220,37 +214,7 @@ A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White H
 
 📺 C-SPAN
 
-👁️ 218K • 👍 981 • 💬 1K • ⏱️ 2:59 • 4d ago
-
----
-
-**[Watch: Humanoid robot walks alongside first lady Melania Trump at White House](https://www.youtube.com/watch?v=X-NjEku-zE4)**
-
-Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
-
-📺 CBS News
-
-👁️ 51K • 👍 375 • 💬 374 • ⏱️ 9:54 • 4d ago
-
----
-
-**[Melania Trump Promotes Humanoid Robots as Potential Educators | The View](https://www.youtube.com/watch?v=q6fcoXkiVnQ)**
-
-'The View' co-hosts and Abby Huntsman react to the first lady's sneak peek at the classroom of the future. Subscribe to our ...
-
-📺 The View
-
-👁️ 69K • 👍 1K • 💬 426 • ⏱️ 6:42 • 2d ago
-
----
-
-**[New AI-designed &#39;metamachines&#39; keep moving even after taking damage](https://www.youtube.com/watch?v=eF1ngjlVGmY)**
-
-New AI-designed 'metamachines' that keep moving forward even after taking damage have been developed by a team of ...
-
-📺 The Sun
-
-👁️ 34K • 👍 209 • 💬 83 • ⏱️ 1:29 • 2d ago
+👁️ 219K • 👍 984 • 💬 1K • ⏱️ 2:59 • 4d ago
 
 ---
 
@@ -260,17 +224,45 @@ Thanks to Delete Me for sponsoring this video. To keep your private info private
 
 📺 Kim Java
 
-👁️ 196K • 👍 8K • 💬 397 • ⏱️ 20:00 • 5d ago
+👁️ 199K • 👍 8K • 💬 401 • ⏱️ 20:00 • 5d ago
 
 ---
 
-**[Roborock Saros 20 – Best Robot Vacuum of 2026 – So Far](https://www.youtube.com/watch?v=knsnUmWDVNY)**
+**[Watch: Humanoid robot walks alongside first lady Melania Trump at White House](https://www.youtube.com/watch?v=X-NjEku-zE4)**
 
-We put the Roborock Saros 20 through our standard battery of tests! ✔️ Get the Saros 20 on Amazon https://geni.us/ChLf9 Top ...
+Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
 
-📺 Vacuum Nerds
+📺 CBS News
 
-👁️ 8K • 👍 161 • 💬 43 • ⏱️ 14:43 • 1d ago
+👁️ 52K • 👍 377 • 💬 379 • ⏱️ 9:54 • 4d ago
+
+---
+
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=xfHkXgZjbCU)**
+
+📺 Robot Julie 
+
+👁️ 1K • 👍 7 • ⏱️ 0:21 • 8h ago
+
+---
+
+**[🇺🇸 First Lady Melania Trump Showcases Figure 03 Humanoid AI Robot at White House Fostering Summit](https://www.youtube.com/watch?v=raQ1pAtisqA)**
+
+Live coverage of speeches, rallies, and events across America with raw, unfiltered, authentic reporting. MAGNO NEWS is ...
+
+📺 MAGNO NEWS
+
+👁️ 72K • 👍 2K • 💬 606 • ⏱️ 2:33 • 4d ago
+
+---
+
+**[New AI-designed &#39;metamachines&#39; keep moving even after taking damage](https://www.youtube.com/watch?v=eF1ngjlVGmY)**
+
+New AI-designed 'metamachines' that keep moving forward even after taking damage have been developed by a team of ...
+
+📺 The Sun
+
+👁️ 34K • 👍 208 • 💬 85 • ⏱️ 1:29 • 2d ago
 
 ---
 
@@ -280,7 +272,17 @@ rumi #huntrix #kpop #kpopdemonhunters #shorts #celebrity #trend #makeup #mira Al
 
 📺 Faces of Culture
 
-👁️ 3.6M • 👍 10K • 💬 6 • ⏱️ 0:04 • 1d ago
+👁️ 4.4M • 👍 11K • 💬 7 • ⏱️ 0:04 • 1d ago
+
+---
+
+**[Roborock Saros 20 – Best Robot Vacuum of 2026 – So Far](https://www.youtube.com/watch?v=knsnUmWDVNY)**
+
+We put the Roborock Saros 20 through our standard battery of tests! ✔️ Get the Saros 20 on Amazon https://geni.us/ChLf9 Top ...
+
+📺 Vacuum Nerds
+
+👁️ 9K • 👍 168 • 💬 43 • ⏱️ 14:43 • 1d ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-30T07:07:18.251501+00:00'
+updated: '2026-03-30T08:55:12.842271+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 30, 2026 at 07:07 UTC  
+**Last Updated:** March 30, 2026 at 08:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** -4.7%  
-**30d:** +2.4%  
-**90d:** -23.3%  
-**1y:** -18.4%  
+**24h:** +1.9%  
+**7d:** -3.8%  
+**30d:** +3.3%  
+**90d:** -22.6%  
+**1y:** -17.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1352.42B
+**Market Cap:** $1355.48B
 Rank #1
 
-**Circulating Supply:** 20,008,981 BTC
+**Circulating Supply:** 20,009,071 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--46.4%
+-46.3%
 
 **All-Time Low:** $67.81
-+99600.6%
++99801.2%
 
 ---
 
@@ -77,9 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[BTC is hovering at the ATH of the former 4-year halving cycle. If that isn’t a buy signal I don’t know what is.](https://www.reddit.com/r/Bitcoin/comments/1s7k3qe/btc_is_hovering_at_the_ath_of_the_former_4year/)**
+
+when bitcoin hovers right at a previous cycle's all-time high instead of getting slapped down, it shows that buyers are stepping up and easily eating all the sell pressure. grinding sideways at the ultimate ceiling builds a massive launchpad for price discovery, because once it breaks through, there is zero historical resistance left to hold it back. with the post-halving supply shock in full effect, holding this exact line has historically been the ultimate springboard for a parabolic run.
+
+1h ago
+
+---
+
 **[Welcome to Bitcoin 2026 edition](https://www.reddit.com/r/Bitcoin/comments/1s6v37e/welcome_to_bitcoin_2026_edition/)**
 
-17h ago
+19h ago
 
 ---
 
@@ -87,7 +95,7 @@ Rank #1
 
 been dollar cost averaging for about 2.5 years now and this recent pullback let me reach 2 whole coins sooner than i thought. originally figured i wouldn't get there until around december. perfect time to stack more while prices are down. anyone else taking advantage of these levels? (already know about teh dm scammers so don't bother)
 
-7h ago
+9h ago
 
 ---
 
@@ -95,7 +103,7 @@ been dollar cost averaging for about 2.5 years now and this recent pullback let 
 
 Whenever I suggest to look into Bitcoin I'm treated like a snake oil salesman or ignored altogether. So many people are drowning and it doesn't feel like enough people are catching on. It's been like this for a while now and doesn't look like anything will change. Oh well. Stay humble and stack, I guess.
 
-7h ago
+9h ago
 
 ---
 
@@ -103,7 +111,7 @@ Whenever I suggest to look into Bitcoin I'm treated like a snake oil salesman or
 
 I’d say DCA is by far the most advocated strategy on this sub. But it's common to see people suggesting adjustments to it. The goal is usually to buy more Bitcoin during dips, creating some form of “Dynamic DCA” based on indicators like drawdown. Although many people here are against changing the sacred DCA strategy, I think Dynamic DCA has its place. I mean, even River introduced “Supercharged” recurring buys, which is essentially a type of Dynamic DCA. So I decided to build a backtesting tool to see if Dynamic DCA is actually worth it. https://preview.redd.it/unzg55oxg2sg1.png?width=1881&format=png&auto=webp&s=b8888de6a48318a0b2b24bb73317edfbf7429f15 In this test I’m comparing two strategies over the last 4 years: a regular weekly DCA buy of $300 and a Dynamic DCA strategy based on drawdowns that works like this: - Base buy: $100 - Drawdown >= 25%: $300 - Drawdown >= 50%: $600 The result is impressive. The Dynamic DCA strategy almost doubles the return compared to the regular DCA. While the regular strategy ends up with around $103k and 1.55 BTC, the Dynamic version reaches about $153k and 2.31 BTC. All that while investing roughly the same amount of money. If you want to try it yourself and share some feedback, feel free to test it here. You can also experiment with other indicators like Fear & Greed or the Mayer Multiple.
 
-7h ago
+9h ago
 
 ---
 
@@ -111,7 +119,7 @@ I’d say DCA is by far the most advocated strategy on this sub. But it's common
 
 "I don't believe we shall have good money until we take it from the government. All we can do is, by a sly, roundabout way, introduce something they can't stop."
 
-23h ago
+1d ago
 
 ---
 
@@ -119,31 +127,15 @@ I’d say DCA is by far the most advocated strategy on this sub. But it's common
 
 If all places accept Bitcoin, the adoption will be extremely fast. Walmart has it on the app, CashApp has it and if you go to Stake and Shake you can pay with Bitcoin and order your Bitcoin Stake burger. It would be nice if all places have something related to Bitcoin for purchases made on Bitcoin. Great idea and Stake and Shake is ahead of the game. Do you have a favorite restaurant that you will love do this?
 
-10h ago
-
----
-
-**[how much of your money do you put into bitcoin vs other stuff](https://www.reddit.com/r/Bitcoin/comments/1s73piq/how_much_of_your_money_do_you_put_into_bitcoin_vs/)**
-
-been thinking about this lately since everything seems cheap right now and i keep wanting to throw more cash at btc curious what everyone else is doing with their allocation between crypto and the usual stuff like index funds, individual stocks, bonds etc what percentage are you running and why did you pick that split? im a dev so i tend to overthink these decisions but would love to hear different approaches also yes i use arch btw and my fantasy team is doing terrible this year but thats another story lol
-
 12h ago
 
 ---
 
-**[I built a free Bitcoin news aggregator — no ads, no tracking, no cookies](https://www.reddit.com/r/Bitcoin/comments/1s74jrf/i_built_a_free_bitcoin_news_aggregator_no_ads_no/)**
+**[Stake Compromised, 200K LOST](https://www.reddit.com/r/Bitcoin/comments/1s7k208/stake_compromised_200k_lost/)**
 
-BitcoinCurate.com — pulls headlines from 30+ sources including news, YouTube, podcasts and Reddit. Updated every 15 minutes. Dark mode available. Built by a non-AI human. Would love any feedback, please. I'm a Bitcoiner in the Boston area. thanks
+I’m posting this to see if anyone has gone through something similar or can advise. My Stake account was recently compromised, and unauthorized bets were placed without my knowledge. My balance was around 2 BTC ($200K CAD) and is now completely gone. The activity happened while I was not actively using the account, and I have reason to believe it was accessed by a third party. I have: • Completed ID verification with Stake • Reported the incident to the Canadian Anti-Fraud Centre (CAFC) • Filed a police report in British Columbia Despite this, Stake support responded saying they cannot refund funds lost through betting or account activity, even though this was clearly unauthorized. What concerns me is that there seems to be no proper investigation into account compromise, and everything is being treated as a normal loss. I’m trying to understand: • Has anyone successfully escalated a similar case with Stake? • Is there any way to get this reviewed by a higher-level security or compliance team? Any advice or similar experiences would be appreciated.
 
-11h ago
-
----
-
-**[What part of Bitcoin took you the longest to actually understand?](https://www.reddit.com/r/Bitcoin/comments/1s76tec/what_part_of_bitcoin_took_you_the_longest_to/)**
-
-I feel like some parts seem simple at first, but then you realize there’s a lot more going on underneath. For me, there are still a few things that I had to go back and read multiple times before they started to make sense. Curious how it was for others, was there something that took you a while before it finally clicked?
-
-10h ago
+1h ago
 
 ---
 
@@ -151,21 +143,21 @@ I feel like some parts seem simple at first, but then you realize there’s a lo
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-1h ago
+2h ago
+
+---
+
+**[how much of your money do you put into bitcoin vs other stuff](https://www.reddit.com/r/Bitcoin/comments/1s73piq/how_much_of_your_money_do_you_put_into_bitcoin_vs/)**
+
+been thinking about this lately since everything seems cheap right now and i keep wanting to throw more cash at btc curious what everyone else is doing with their allocation between crypto and the usual stuff like index funds, individual stocks, bonds etc what percentage are you running and why did you pick that split? im a dev so i tend to overthink these decisions but would love to hear different approaches also yes i use arch btw and my fantasy team is doing terrible this year but thats another story lol
+
+13h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
-
-**[MSTR may have paused it's BTC accumulation last week](https://www.coindesk.com/markets/2026/03/29/strategy-may-have-paused-bitcoin-accumulation-last-week-ending-a-thirteen-week-buying-streak)**
-
-The company seemed to have skipped it's weekly bitcoin purchase announcement for the first time since late december.
-
-CoinDesk • 12h ago
-
----
 
 **[God and bitcoin: Why some Christians are going all in on cryptocurrency](https://www.nbcnews.com/tech/crypto/god-bitcoin-christians-pitch-crypto-church-rcna264787)**
 
@@ -175,19 +167,19 @@ NBC News • 1d ago
 
 ---
 
-**[Bitcoin ETFs Bleed $290M as ‘Risk-Off’ Mood Deepens](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-bleed-290m-risk-054046235.html)**
+**['More room to fall': Bitcoin trades near $67,000 as US-Iran deadlock persists](https://www.theblock.co/post/395588/bitcoin-trades-near-66500-iran-deadlock)**
 
-Analysts attribute last week's BTC ETF outflows to geopolitical tensions, fading ceasefire hopes, and end-of-quarter rebalancing.
+Analysts said the prolonged U.S.-Iran conflict keeps inflation fears elevated, weighing on crypto investor sentiment.
 
-finance.yahoo.com • 1h ago
+The Block • 5h ago
 
 ---
 
-**[With a loss of $19,000 per Bitcoin mined, Bitcoin mining companies are collectively pivoting to AI.](https://news.futunn.com/en/post/70802823/with-a-loss-of-19000-per-bitcoin-mined-bitcoin-mining)**
+**[MSTR may have paused it's BTC accumulation last week](https://www.coindesk.com/markets/2026/03/29/strategy-may-have-paused-bitcoin-accumulation-last-week-ending-a-thirteen-week-buying-streak)**
 
-Thesemining companies are increasingly resembling data center operators, just coincidentally still engaged in Bitcoin mining.
+The company seemed to have skipped it's weekly bitcoin purchase announcement for the first time since late december.
 
-富途牛牛 • 3h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -195,7 +187,21 @@ Thesemining companies are increasingly resembling data center operators, just co
 
 Bitcoin’s latest slide has revived one of the more uncomfortable questions hanging over the crypto market this year.The investors are now seriously asking if this is just another ugly week or a deeper losing streak?What seems clear is that the pressure has built for weeks.Bitcoin slipped back below…
 
-TradingView • 36m ago
+TradingView • 2h ago
+
+---
+
+**[Bitcoin Price: US Bans Lawmakers From Prediction Markets and Pepeto Offers the 100x Entry](https://www.binance.com/en/square/post/307021338564658)**
+
+binance.com • 3h ago
+
+---
+
+**[Bitcoin ETFs Bleed $290M as ‘Risk-Off’ Mood Deepens](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-bleed-290m-risk-054046235.html)**
+
+Analysts attribute last week's BTC ETF outflows to geopolitical tensions, fading ceasefire hopes, and end-of-quarter rebalancing.
+
+Yahoo Finance • 3h ago
 
 ---
 
@@ -203,15 +209,7 @@ TradingView • 36m ago
 
 Multiple analysts warn that if Bitcoin's drawdown deepens toward $40,000–$45,000, historical patterns suggest a recovery to all-time highs may not arrive until after Q2 2027.
 
-Bitbo • 16h ago
-
----
-
-**[Congress proposes removal of widely used Bitcoin tax loophole and giving it to regulated stablecoins](https://cryptoslate.com/congress-to-remove-widely-used-bitcoin-tax-loophole-and-give-it-to-regulated-stablecoins/)**
-
-The new Digital Asset PARITY Act draft would extend wash-sale rules to digital assets while shielding certain regulated payment stablecoins from routine gain-or-loss recognition.
-
-CryptoSlate • 10h ago
+Bitbo • 18h ago
 
 ---
 
@@ -229,11 +227,11 @@ Forbes • 1d ago
 
 ---
 
-**[Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week](https://247wallst.com/investing/2026/03/28/why-is-crypto-crashing-bitcoin-xrp-ethereum-and-solana-all-down-this-week/)**
+**[Congress proposes removal of widely used Bitcoin tax loophole and giving it to regulated stablecoins](https://cryptoslate.com/congress-to-remove-widely-used-bitcoin-tax-loophole-and-give-it-to-regulated-stablecoins/)**
 
-Bitcoin, XRP, Ethereum, and Solana are all down by 6-8% in a week. Here's what's driving the crypto market crash and what to watch next.
+The new Digital Asset PARITY Act draft would extend wash-sale rules to digital assets while shielding certain regulated payment stablecoins from routine gain-or-loss recognition.
 
-24/7 Wall St. • 1d ago
+CryptoSlate • 12h ago
 
 ---
 
@@ -263,7 +261,7 @@ Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes
 
 **[Uni feels so usless, I cant focus anymore](https://news.ycombinator.com/item?id=47567925)**
 
-⬆️ 7 • 💬 3 • 8h ago
+⬆️ 7 • 💬 3 • 10h ago
 
 ---
 
@@ -271,43 +269,23 @@ Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes
 
 ## YouTube Videos: "bitcoin"
 
-**[Is The Bitcoin Winter Over? | Why a Violent Market Crash May Already be in Motion!](https://www.youtube.com/watch?v=vtU0VTbZSU0)**
-
-The market looks calm on the surface but the cracks are getting worse. From global conflict to gold selloffs and debt stress, the ...
-
-📺 Simply Bitcoin
-
-👁️ 11K • 👍 899 • 💬 104 • ⏱️ 12:24 • 8h ago
-
----
-
 **[FINAL WARNING to ALL Crypto Holders!! (I will delete this in 24 hours)](https://www.youtube.com/watch?v=hzfc05Bphkk)**
 
 If you hold Bitcoin or Ethereum... watch this! (alert!) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC ...
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 2K • 💬 192 • ⏱️ 9:24 • 10h ago
+👁️ 33K • 👍 2K • 💬 215 • ⏱️ 9:24 • 12h ago
 
 ---
 
-**[Bitcoin Is Screaming Something Terrifying Right Now - Arthur Hayes Warns!](https://www.youtube.com/watch?v=aLMVhtOVVYk)**
+**[Is The Bitcoin Winter Over? | Why a Violent Market Crash May Already be in Motion!](https://www.youtube.com/watch?v=vtU0VTbZSU0)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+The market looks calm on the surface but the cracks are getting worse. From global conflict to gold selloffs and debt stress, the ...
 
-📺 Savvy Finance
+📺 Simply Bitcoin
 
-👁️ 9K • 👍 285 • 💬 31 • ⏱️ 18:06 • 1d ago
-
----
-
-**[The CLARITY Act Just Killed Bitcoin’s Future](https://www.youtube.com/watch?v=evFGCpj8ubA)**
-
-Clarity act for bitcoin and crypto is turning into a disaster. Follow Eric - https://x.com/ericbuhler/status/2037610128728592777 The ...
-
-📺 Digital Asset News
-
-👁️ 34K • 👍 2K • 💬 306 • ⏱️ 23:11 • 1d ago
+👁️ 14K • 👍 1K • 💬 111 • ⏱️ 12:24 • 10h ago
 
 ---
 
@@ -317,7 +295,27 @@ Bitcoin may not be breaking down all at once, but the structure is starting to w
 
 📺 Benjamin Cowen
 
-👁️ 99K • 👍 6K • 💬 345 • ⏱️ 26:12 • 1d ago
+👁️ 102K • 👍 6K • 💬 349 • ⏱️ 26:12 • 1d ago
+
+---
+
+**[Bitcoin Is Screaming Something Terrifying Right Now - Arthur Hayes Warns!](https://www.youtube.com/watch?v=aLMVhtOVVYk)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 9K • 👍 296 • 💬 31 • ⏱️ 18:06 • 1d ago
+
+---
+
+**[The CLARITY Act Just Killed Bitcoin’s Future](https://www.youtube.com/watch?v=evFGCpj8ubA)**
+
+Clarity act for bitcoin and crypto is turning into a disaster. Follow Eric - https://x.com/ericbuhler/status/2037610128728592777 The ...
+
+📺 Digital Asset News
+
+👁️ 35K • 👍 2K • 💬 308 • ⏱️ 23:11 • 1d ago
 
 ---
 
@@ -331,13 +329,11 @@ Once upon a time, Bitcoin used to have god candles (and epic crashes) all on its
 
 ---
 
-**[Something Big is Going to Happen on Bitcoin (here&#39;s how to prepare)](https://www.youtube.com/watch?v=LUEsxFQpa0c)**
+**[The Biggest Mistakes People Make With Bitcoin Wallets](https://www.youtube.com/watch?v=PN5b8nTjYws)**
 
-Something big is going to happen on bitcoin and we discuss with analyst Benjamin Cowen the key charts that matter right now on ...
+📺 Andrei Jikh
 
-📺 Alessio Rastani
-
-👁️ 71K • 👍 4K • 💬 604 • ⏱️ 24:30 • 1d ago
+👁️ 16K • 👍 627 • 💬 20 • ⏱️ 2:32 • 7h ago
 
 ---
 
@@ -347,25 +343,27 @@ Learn 50+ years of Real Economics in only 7 weeks. Apply here: https://www.steve
 
 📺 ProfSteveKeen
 
-👁️ 40K • 👍 2K • 💬 403 • ⏱️ 10:57 • 12h ago
+👁️ 48K • 👍 2K • 💬 448 • ⏱️ 10:57 • 13h ago
 
 ---
 
-**[The Biggest Mistakes People Make With Bitcoin Wallets](https://www.youtube.com/watch?v=PN5b8nTjYws)**
+**[JUST IN: Trump&#39;s Bitcoin Bombshell — USA Declared Global Crypto Superpower In Historic Announcement](https://www.youtube.com/watch?v=rmPft3_O_-U)**
 
-📺 Andrei Jikh
+IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
 
-👁️ 10K • 👍 477 • 💬 15 • ⏱️ 2:32 • 6h ago
+📺 The Kenzo Guy
+
+👁️ 9K • 👍 453 • 💬 67 • ⏱️ 29:43 • 1d ago
 
 ---
 
-**[0.1 Bitcoin Will Truly Change Your Life (NOT Hyperbole)](https://www.youtube.com/watch?v=njksGkpY-Gg)**
+**[Something Big is Going to Happen on Bitcoin (here&#39;s how to prepare)](https://www.youtube.com/watch?v=LUEsxFQpa0c)**
 
-Owning 0.1 Bitcoin will change your life. And I'm not talking about getting rich overnight. I'm talking about the stress that ...
+Something big is going to happen on bitcoin and we discuss with analyst Benjamin Cowen the key charts that matter right now on ...
 
-📺 Brad Long
+📺 Alessio Rastani
 
-👁️ 13K • 👍 490 • 💬 82 • ⏱️ 17:03 • 2d ago
+👁️ 73K • 👍 4K • 💬 607 • ⏱️ 24:30 • 1d ago
 
 ---
 

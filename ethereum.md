@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-30T07:07:18.257518+00:00'
+updated: '2026-03-30T08:55:12.847742+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 30, 2026 at 07:07 UTC  
+**Last Updated:** March 30, 2026 at 08:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.0%  
-**7d:** -5.1%  
-**30d:** +5.5%  
-**90d:** -31.2%  
-**1y:** +12.0%  
+**24h:** +3.4%  
+**7d:** -4.1%  
+**30d:** +6.6%  
+**90d:** -30.4%  
+**1y:** +13.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $247.68B
+**Market Cap:** $249.21B
 Rank #2
 
 **Circulating Supply:** 120,691,444 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.5%
+-58.3%
 
 **All-Time Low:** $0.43
-+473860.6%
++476793.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -154,7 +154,7 @@ Source: https://www.coingecko.com/learn/real-world-assets-rwa-buy-on-chain RWAs 
 
 The project is designed to make Ethereum’s many layer 2s work together more seamlessly.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 16h ago
 
 The Ethereum Foundation is co-funding the "easy" initiative, which was announced at EthCC in Cannes, and partners include Aave, Titan, Centrifuge, and more.
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
@@ -170,23 +170,23 @@ The Block • 16h ago
 
 Ethereum’s native token, Ether (ETH), may decline 40% to $1,200 in the coming weeks, according to a fractal setup shared by analyst Leshka.eth.Key takeaways:Ethereum setup flashes bull trap warningEthereum’s $1,200 downside target comes from a Supertrend setup on the daily chart, where two earlier…
 
-TradingView • 57m ago
-
----
-
-**[DeFi lending giant Aave launches on OKX's Ethereum L2, X Layer](https://www.tradingview.com/news/cointelegraph:d7e5092a9094b:0-defi-lending-giant-aave-launches-on-okx-s-ethereum-l2-x-layer/)**
-
-Aave, the largest decentralized lending protocol with $23.5 billion in total value locked, has launched on X Layer, an Ethereum layer-2 blockchain launched by crypto trading platform OKX. It marks a significant milestone for X Layer, a blockchain with just $25 million in total value locked, which l…
-
 TradingView • 2h ago
 
 ---
 
-**[Ethereum’s Incredible Position](https://finance.yahoo.com/markets/crypto/articles/ethereum-incredible-position-180149031.html)**
+**[Ethereum Becomes Backbone of Tokenization — 61% Market Share, $206B Settled, 40% Growth in a Year](https://finance.yahoo.com/markets/crypto/articles/ethereum-becomes-backbone-tokenization-61-080935608.html)**
 
-This market isn't what we wanted. But looking forward, ETH is still in a great place.
+Ethereum dominates tokenization with 61% market share, $206 billion in settled volume, and 40% annual growth. Competitors like BNB Chain, Solana, and Avalanche trail far ...
 
-finance.yahoo.com • 1d ago
+Yahoo Finance • 45m ago
+
+---
+
+**[DeFi lender Aave launches on OKX’s Ethereum L2, X Layer](https://www.tradingview.com/news/cointelegraph:d7e5092a9094b:0-defi-lender-aave-launches-on-okx-s-ethereum-l2-x-layer/)**
+
+Aave, the largest decentralized lending protocol with $23.5 billion in total value locked, has launched on X Layer, an Ethereum layer-2 blockchain launched by crypto trading platform OKX. It marks a milestone for X Layer, a blockchain with just $25 million in total value locked, which launched in 2…
+
+TradingView • 4h ago
 
 ---
 
@@ -202,19 +202,7 @@ The Motley Fool • 1d ago
 
 Ethereum has rolled out a steady stream of upgrades since 2022. Here’s how those changes fit together—and what’s still ahead.
 
-Decrypt • 15h ago
-
----
-
-**[Ethereum Price Prediction: $6.3B Smart Money Inflows Signal Major ETH Breakout Ahead](https://www.binance.com/en/square/post/306350416646594)**
-
-Binance • 1d ago
-
----
-
-**[VanEck’s Ethereum ETF Hit by Sharp Redemptions as Ether Slides Below $2,000](https://www.tipranks.com/news/cryptocurrencies/vanecks-ethereum-etf-hit-by-sharp-redemptions-as-ether-slides-below-2000)**
-
-TipRanks • 13h ago
+decrypt.co • 16h ago
 
 ---
 
@@ -222,7 +210,21 @@ TipRanks • 13h ago
 
 Ethereum sees rising liquidity, activity signaling real demand, while price stays range-bound awaiting stronger deployment.
 
-AMBCrypto • 14h ago
+AMBCrypto • 15h ago
+
+---
+
+**[VanEck’s Ethereum ETF Hit by Sharp Redemptions as Ether Slides Below $2,000](https://www.tipranks.com/news/cryptocurrencies/vanecks-ethereum-etf-hit-by-sharp-redemptions-as-ether-slides-below-2000)**
+
+TipRanks • 15h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Move Sideways Amid Possible US Invasion Of Iran: Analyst Says 'Billion-Dollar' Trades Flooding Back To BTC And ETH](https://www.benzinga.com/crypto/cryptocurrency/26/03/51530287/bitcoin-ethereum-xrp-dogecoin-flat-amid-iran-tensions)**
+
+Leading cryptocurrencies remained flat, while stock futures fell Sunday evening as investors speculated about a ground invasion of Iran by the U.S.
+
+Benzinga • 6h ago
 
 ---
 
@@ -236,7 +238,7 @@ If you hold Bitcoin or Ethereum... watch this! (alert!) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 2K • 💬 192 • ⏱️ 9:24 • 10h ago
+👁️ 33K • 👍 2K • 💬 215 • ⏱️ 9:24 • 12h ago
 
 ---
 
@@ -246,17 +248,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 6K • 👍 186 • 💬 85 • ⏱️ 11:06 • 1d ago
-
----
-
-**[BITCOIN HOLDERS BE WARNED: New Price Targets!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=NK0Vnozpi0Q)**
-
-BITCOIN HOLDERS BE WARNED: New Price Targets!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 3K • 👍 168 • 💬 339 • ⏱️ 20:11 • 6h ago
+👁️ 6K • 👍 192 • 💬 86 • ⏱️ 11:06 • 1d ago
 
 ---
 
@@ -266,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 918 • 👍 74 • 💬 9 • ⏱️ 3:28 • 7h ago
+👁️ 1K • 👍 83 • 💬 18 • ⏱️ 3:28 • 9h ago
 
 ---
 
@@ -276,27 +268,37 @@ People in the cryptocurrency space and world markets are about to get a very hef
 
 📺 The Modern Investor
 
-👁️ 7K • 👍 784 • 💬 321 • ⏱️ 27:50 • 22h ago
+👁️ 7K • 👍 799 • 💬 321 • ⏱️ 27:50 • 23h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=ID_0itn0OqQ)**
+**[BITCOIN HOLDERS BE WARNED: New Price Targets!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=NK0Vnozpi0Q)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+BITCOIN HOLDERS BE WARNED: New Price Targets!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
 
-📺 Crypto Gyan
+📺 Crypto World
 
-👁️ 399 • 👍 56 • ⏱️ 6:53 • 4h ago
+👁️ 4K • 👍 212 • 💬 426 • ⏱️ 20:11 • 7h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Zwg5Sk12Tis)**
+**[🤔 All Crypto Influencers say ETHEREUM is DUMPING to $640 !?](https://www.youtube.com/watch?v=F9kIXMbTcBk)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
 
-📺 More Crypto Online
+📺 🌟yourfriendsommi
 
-👁️ 2K • 👍 78 • 💬 1 • ⏱️ 3:36 • 14h ago
+👁️ 185 • 👍 42 • 💬 1 • ⏱️ 11:09 • 55m ago
+
+---
+
+**[Bitcoin &amp; Ethereum. SHORT SQUEEZE jetzt oder was? SOLANGE wir das nicht überwinden Eher NICHT!](https://www.youtube.com/watch?v=CpdPJ2PFaRU)**
+
+Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
+
+📺 Krypto Trading & Investing
+
+👁️ 3K • 👍 529 • 💬 80 • ⏱️ 17:29 • 4h ago
 
 ---
 
@@ -306,27 +308,27 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 4K • 👍 155 • 💬 47 • ⏱️ 38:10 • 2d ago
+👁️ 4K • 👍 156 • 💬 47 • ⏱️ 38:10 • 2d ago
 
 ---
 
-**[BIG MOVE COMING FOR ETH!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=J6wp_YHME8I)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Zwg5Sk12Tis)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Cilinix Crypto
+📺 More Crypto Online
 
-👁️ 398 • 👍 12 • 💬 2 • ⏱️ 4:45 • 20h ago
+👁️ 2K • 👍 79 • 💬 7 • ⏱️ 3:36 • 16h ago
 
 ---
 
-**[Warning to ALL Bitcoin Investors!!](https://www.youtube.com/watch?v=-A6Ut8NdJaA)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=ID_0itn0OqQ)**
 
-This Is What The Bottom Looks Like? ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 Altcoin Daily
+📺 Crypto Gyan
 
-👁️ 31K • 👍 2K • 💬 193 • ⏱️ 9:30 • 2d ago
+👁️ 777 • 👍 85 • ⏱️ 6:53 • 6h ago
 
 ---
 
