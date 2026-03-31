@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-31T14:47:05.228112+00:00'
+updated: '2026-03-31T16:06:02.545652+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 31, 2026 at 14:47 UTC  
+**Last Updated:** March 31, 2026 at 16:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Two FANUC robots now run a bakery bread line in the Netherlands](https://www.reddit.com/r/robotics/comments/1s7vvqo/two_fanuc_robots_now_run_a_bakery_bread_line_in/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 I’ve been learning ROS2 for a while, mostly by following tutorials and running existing GitHub repos (like TB3). Recently, I decided to stop just copying and actually try building my own robot model in simulation. So I wrote my first URDF/Xacro and visualized it in RViz. What I expected: A simple rectangular base link. What I got: - One model looks like a clean rectangle (as expected) - The other one looks… off (weird structure/positioning) (Attached both images for comparison) Now I’m trying to understand what went wrong. I’m currently trying to move from “running tutorials” → “actually understanding and building systems”, so I’d really appreciate any guidance. Thanks! Here’s the code: https://pastebin.com/mXHcbLiC Would really appreciate if you can point out what’s wrong.
 
-11h ago
+13h ago
 
 ---
 
@@ -58,7 +58,7 @@ From Humanoids daily on 𝕏: https://x.com/humanoidsdaily/status/20381919486372
 
 Hello I accidently wrote a program in acecode and clicked upload firmare. Now my smart car is not being displayed on wifi section. It was working previously.I cannot find the firmare file in acebot documentation too.
 
-7h ago
+9h ago
 
 ---
 
@@ -70,27 +70,19 @@ Posting update here, I doubled down on my mission to create the smallest VIO mod
 
 ---
 
-**[any information available on reBot Arm B601?](https://www.reddit.com/r/robotics/comments/1s8dg6m/any_information_available_on_rebot_arm_b601/)**
-
-I've been following along, researching the ARM-SO101 models for a while, and then I just noticed Seeed has posted a video and github for what seems like a similar type of arm, but also aimed at the hobbyist and educational space. They say they're targeting a <$1000 budget and from the available information it looks like it has: 1.5kg payload parallel grip effector a combination of metal and 3d-printed parts. Their github says it will be "True Open Source", so software, blueprints, step files, etc. Their github had a lot of placeholder links and documents when I last checked but there was a timeline for future releases of info. One comment in the github's issues mentioned that the arm seemed very similar to the Edulite A3, but with Lerobot support and some additional hardware capabilities. I don't work for Seeed and am not meaning to post free advertising for them. I just thought it looked like an interesting new development.
-
-10h ago
-
----
-
 **[WBC for a quadruped robot](https://www.reddit.com/r/robotics/comments/1s7xvw6/wbc_for_a_quadruped_robot/)**
 
 Hi everyone! I'd like to share with you my latest successes with my quadruped robot project. Recently I have created a Whole-Body Controller based on the work "Highly Dynamic Quadruped Locomotion via Whole-Body Impulse Control and Model Predictive Control" by D. Kim et al. Also I refactored the code, wrote comments, did some stuff for realtime execution, and opened access to the repository. The next aim is to make a vision based system for choosing the next footsteps. Here is the link to github: https://github.com/voltdog/mors\_quadruped Here you can find the locomotion controller + Mujoco simulation environment. I hope you find this repo useful for learning locomotion algorithms and using it for your own experiments. If you have any questions or encounter issues with installing or using the controller, please let me know.
 
-🔗 [youtu.be](https://youtu.be/28EshOERJ94?si=ygsz2eimHB6jkFLm) • 20h ago
+🔗 [youtu.be](https://youtu.be/28EshOERJ94?si=ygsz2eimHB6jkFLm) • 22h ago
 
 ---
 
-**[ACEBOTT smart car run by Claude Code](https://www.reddit.com/r/robotics/comments/1s861c9/acebott_smart_car_run_by_claude_code/)**
+**[any information available on reBot Arm B601?](https://www.reddit.com/r/robotics/comments/1s8dg6m/any_information_available_on_rebot_arm_b601/)**
 
-Built an ACEBOTT smart car this weekend that runs on an ESP32. I then plugged into it on my laptop and had Claude Code write all its own software to connect with the motors. It went through three iterations before finding the technical specs on the ACEBOTT website. After that it was off to the races. I helped it verify which wheel was doing what (backwards/forwards/which wheel/etc). Then we ran a full test which is what the video is all about. So much fun!!! This is first steps. Next step is to upgrade the “brain” to an Arduino UNO Q with 4GB of RAM, install a local model, and train that model using Opus 4.6 after building an MCP. Not sure if anyone has any models they’d recommend. This is probably super simplistic compared to other demonstrations on this sub, but for anyone interested I made a step-by-step build out log with pictures for troubleshooting if you want to check it out: https://lifewithai.ai/blog/box-to-bot
+I've been following along, researching the ARM-SO101 models for a while, and then I just noticed Seeed has posted a video and github for what seems like a similar type of arm, but also aimed at the hobbyist and educational space. They say they're targeting a <$1000 budget and from the available information it looks like it has: 1.5kg payload parallel grip effector a combination of metal and 3d-printed parts. Their github says it will be "True Open Source", so software, blueprints, step files, etc. Their github had a lot of placeholder links and documents when I last checked but there was a timeline for future releases of info. One comment in the github's issues mentioned that the arm seemed very similar to the Edulite A3, but with Lerobot support and some additional hardware capabilities. I don't work for Seeed and am not meaning to post free advertising for them. I just thought it looked like an interesting new development.
 
-15h ago
+11h ago
 
 ---
 
@@ -99,6 +91,14 @@ Built an ACEBOTT smart car this weekend that runs on an ESP32. I then plugged in
 Hey r/robotics! I'm excited to share OpenEyes - an open-source vision system I've been building for humanoid robots. It runs entirely on NVIDIA Jetson Orin Nano with full ROS2 integration. The Problem Every day, millions of robots are deployed to help humans. But most of them are blind. Or dependent on cloud services that fail. Or so expensive only big companies can afford them. I wanted to change that. What OpenEyes Does The robot looks at a room and understands: - "There's a cup on the table, 40cm away" - "A person is standing to my left" - "They're waving at me - that's a greeting" - "The person is sitting down - they might need help" - Object Detection (YOLO11n) - Depth Estimation (MiDaS) - Face Detection (MediaPipe) - Gesture Recognition (MediaPipe Hands) - Pose Estimation (MediaPipe Pose) - Object Tracking - Person Following (show open palm to become owner) Performance - All models: 10-15 FPS - Minimal: 25-30 FPS - Optimized (INT8): 30-40 FPS Philosophy - Edge First - All processing on the robot - Privacy First - No data leaves the device - Real-time - 30 FPS target - Open - Built by community, for community Quick Start git clone https://github.com/mandarwagh9/openeyes.git cd openeyes pip install -r requirements.txt python src/main.py --debug python src/main.py --follow (Person following!) python src/main.py --ros2 (ROS2 integration) The Journey Started with a simple question: Why can't robots see like we do? Been iterating for months fixing issues like: - MediaPipe detection at high resolution - Person following using bbox height ratio - Gesture-based owner selection Would love feedback from the community! GitHub: github.com/mandarwagh9/openeyes
 
 1d ago
+
+---
+
+**[ACEBOTT smart car run by Claude Code](https://www.reddit.com/r/robotics/comments/1s861c9/acebott_smart_car_run_by_claude_code/)**
+
+Built an ACEBOTT smart car this weekend that runs on an ESP32. I then plugged into it on my laptop and had Claude Code write all its own software to connect with the motors. It went through three iterations before finding the technical specs on the ACEBOTT website. After that it was off to the races. I helped it verify which wheel was doing what (backwards/forwards/which wheel/etc). Then we ran a full test which is what the video is all about. So much fun!!! This is first steps. Next step is to upgrade the “brain” to an Arduino UNO Q with 4GB of RAM, install a local model, and train that model using Opus 4.6 after building an MCP. Not sure if anyone has any models they’d recommend. This is probably super simplistic compared to other demonstrations on this sub, but for anyone interested I made a step-by-step build out log with pictures for troubleshooting if you want to check it out: https://lifewithai.ai/blog/box-to-bot
+
+17h ago
 
 ---
 
@@ -130,25 +130,25 @@ RTE.ie • 1d ago
 
 ---
 
-**[IoT SIM Cards Become Critical Infrastructure for Industrial Automation, Robotics, and Drone Operations](https://www.roboticstomorrow.com/article/2026/02/iot-sim-cards-become-critical-infrastructure-for-industrial-automation-robotics-and-drone-operations/26189)**
-
-As manufacturing, logistics, energy, and infrastructure sectors accelerate digital transformation initiatives, cellular-connected devices are replacing isolated machines with continuously communicating systems capable of real-time coordination and remote management.
-
-RoboticsTomorrow • 1h ago
-
----
-
 **[Hellgate Elementary School robotics team qualifies for the international Canada Cup robotics competition](https://www.kpax.com/news/missoula-county/hellgate-elementary-school-robotics-team-qualifies-for-the-international-canada-cup-robotics-competition)**
 
 7th-grade students are part of the Hellgate Elementary School robotics team recently qualified for Canada Cup, an international competition pitting some of the top robotics teams against each other.
 
-KPAX News • 18h ago
+KPAX News • 20h ago
+
+---
+
+**[What will the robot jobs apocalypse look like? Ask Amazon warehouse workers](https://www.fastcompany.com/91514112/what-will-the-robot-jobs-apocalypse-look-like-ask-amazon-warehouse-workers)**
+
+Think a robot can’t do your job? ‘It will happen, but I don’t know when,’ says one expert. How robots are already upending blue-collar work, career advancement, worker rights, and job satisfaction.
+
+Fast Company • 6h ago
 
 ---
 
 **[OpenAI leases massive Richmond site to power robotics expansion](https://www.sfchronicle.com/tech/article/openai-richmond-warehouse-robotics-22160624.php)**
 
-San Francisco Chronicle • 15h ago
+San Francisco Chronicle • 16h ago
 
 ---
 
@@ -168,11 +168,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[What will the robot jobs apocalypse look like? Ask Amazon warehouse workers](https://www.fastcompany.com/91514112/what-will-the-robot-jobs-apocalypse-look-like-ask-amazon-warehouse-workers)**
+**[Q&A: Robots can't feel, but novel sensors could change that](https://techxplore.com/news/2026-03-qa-robots-sensors.html)**
 
-Think a robot can’t do your job? ‘It will happen, but I don’t know when,’ says one expert. How robots are already upending blue-collar work, career advancement, worker rights, and job satisfaction.
-
-Fast Company • 5h ago
+techxplore.com • 19h ago
 
 ---
 
@@ -180,15 +178,15 @@ Fast Company • 5h ago
 
 Lawmakers propose banning Chinese-made robots from US federal use over data security concerns, signaling growing tension in the US–China tech rivalry.
 
-eWeek • 22h ago
+eWeek • 23h ago
 
 ---
 
-**[Robots now handle glass, reflective items with simple cameras](https://interestingengineering.com/ai-robotics/robots-grasp-transparent-objects-heapgrasp)**
+**[Amazon buys Fauna Robotics, maker of the Sprout humanoid robot that can dance, pick up toys, and go on a stroll](https://fortune.com/2026/03/29/amazon-acquisition-fauna-robotics-sprout-humanoid-robot-homes-schools-disney/)**
 
-Robots can now grasp transparent and reflective objects using a new RGB-based vision method without depth sensors.
+Early customers included Disney.
 
-Interesting Engineering • 18h ago
+Fortune • 1d ago
 
 ---
 
@@ -202,37 +200,7 @@ Brett Adcock shares his vision for the future of humanoid robots, why he believe
 
 📺 Shawn Ryan Show
 
-👁️ 66K • 👍 2K • 💬 639 • ⏱️ 14:05 • 3d ago
-
----
-
-**[6 Robots You Can Build in 2026](https://www.youtube.com/watch?v=8smjYAsxAts)**
-
-Learn for free on Brilliant for a full 30 days: https://brilliant.org/NikodemBartnik/ . You'll also get 20% off an annual Premium ...
-
-📺 Nikodem Bartnik
-
-👁️ 102K • 👍 4K • 💬 71 • ⏱️ 9:55 • 7d ago
-
----
-
-**[Maniac Melania Trump Suggests Replacing Teachers With Robots](https://www.youtube.com/watch?v=mpQYocsUpdg)**
-
-Melania Trump suggested using humanoid AI robots like a “Plato” educator to teach children, proposing a future where ...
-
-📺 Farron Balanced
-
-👁️ 38K • 👍 3K • 💬 838 • ⏱️ 5:10 • 4d ago
-
----
-
-**[Brett Adcock - Shawn Ryan’s First Interview with a Robot | SRS #292](https://www.youtube.com/watch?v=99pOdGEGu6s)**
-
-Brett Adcock is a technology entrepreneur focused on building companies in robotics, artificial intelligence, and aerospace.
-
-📺 Shawn Ryan Show
-
-👁️ 244K • 👍 6K • 💬 2K • ⏱️ 2:57:09 • 21h ago
+👁️ 66K • 👍 2K • 💬 640 • ⏱️ 14:05 • 3d ago
 
 ---
 
@@ -242,37 +210,27 @@ A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White H
 
 📺 C-SPAN
 
-👁️ 224K • 👍 1K • 💬 2K • ⏱️ 2:59 • 5d ago
+👁️ 224K • 👍 1K • 💬 2K • ⏱️ 2:59 • 6d ago
 
 ---
 
-**[Melania Brings a Robot to the White House &amp; RFK Jr. Did What to a Dead Raccoon? | The Daily Show](https://www.youtube.com/watch?v=tCp3yJu2Whc)**
+**[Maniac Melania Trump Suggests Replacing Teachers With Robots](https://www.youtube.com/watch?v=mpQYocsUpdg)**
 
-Josh Johnson dives into Markwayne Mullin replacing DHS shopaholic Kristi Noem, Trump scrutinizing Mullin's Native ...
+Melania Trump suggested using humanoid AI robots like a “Plato” educator to teach children, proposing a future where ...
 
-📺 The Daily Show
+📺 Farron Balanced
 
-👁️ 1.5M • 👍 45K • 💬 2K • ⏱️ 11:02 • 4d ago
-
----
-
-**[Shocking moment robot slaps boy in the face during dance show in China](https://www.youtube.com/watch?v=B9NUDkOvBvI)**
-
-This is the shocking moment a young boy is slapped across the face by a rogue robot in China. The machine appears to be a G1 ...
-
-📺 The Sun
-
-👁️ 43K • 👍 332 • 💬 274 • ⏱️ 1:09 • 5d ago
+👁️ 38K • 👍 3K • 💬 839 • ⏱️ 5:10 • 4d ago
 
 ---
 
-**[Watch: Humanoid robot walks alongside first lady Melania Trump at White House](https://www.youtube.com/watch?v=X-NjEku-zE4)**
+**[Brett Adcock - Shawn Ryan’s First Interview with a Robot | SRS #292](https://www.youtube.com/watch?v=99pOdGEGu6s)**
 
-Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
+Brett Adcock is a technology entrepreneur focused on building companies in robotics, artificial intelligence, and aerospace.
 
-📺 CBS News
+📺 Shawn Ryan Show
 
-👁️ 56K • 👍 415 • 💬 405 • ⏱️ 9:54 • 5d ago
+👁️ 267K • 👍 6K • 💬 2K • ⏱️ 2:57:09 • 22h ago
 
 ---
 
@@ -286,11 +244,51 @@ First lady Melania Trump entered the East Room of the White House on Wednesday a
 
 ---
 
+**[Shocking moment robot slaps boy in the face during dance show in China](https://www.youtube.com/watch?v=B9NUDkOvBvI)**
+
+This is the shocking moment a young boy is slapped across the face by a rogue robot in China. The machine appears to be a G1 ...
+
+📺 The Sun
+
+👁️ 43K • 👍 333 • 💬 277 • ⏱️ 1:09 • 6d ago
+
+---
+
+**[Watch: Humanoid robot walks alongside first lady Melania Trump at White House](https://www.youtube.com/watch?v=X-NjEku-zE4)**
+
+Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
+
+📺 CBS News
+
+👁️ 57K • 👍 420 • 💬 408 • ⏱️ 9:54 • 5d ago
+
+---
+
+**[Robot waifus, RIP Sora, GLM-5.1, AI brain scans, Google realtime voice: AI NEWS](https://www.youtube.com/watch?v=6Il0CJx9yU8)**
+
+HUGE AI NEWS: GLM-5.1, daVinci MagiHuman, ARC-AGI 3, PrismAudio, Matrix Game, & more #ai #ainews #aitools #aivideo ...
+
+📺 AI Search
+
+👁️ 101K • 👍 4K • 💬 510 • ⏱️ 47:29 • 2d ago
+
+---
+
 **[The Real-Life Olaf Robot at Disney Explained](https://www.youtube.com/watch?v=j3Dkmiz1Tvk)**
 
 📺 Celeb Buss Central
 
-👁️ 40K • 👍 3K • 💬 28 • ⏱️ 0:22 • 1d ago
+👁️ 42K • 👍 3K • 💬 28 • ⏱️ 0:22 • 1d ago
+
+---
+
+**[Amazon Just Bought a Humanoid Robot Company… This Changes Everything](https://www.youtube.com/watch?v=jdoYFz7M90I)**
+
+Amazon just made a surprising move into humanoid robotics by acquiring Fauna Robotics, the company behind the Sprout robot.
+
+📺 DPCcars
+
+👁️ 2K • 👍 54 • 💬 6 • ⏱️ 3:18 • 6d ago
 
 ---
 
