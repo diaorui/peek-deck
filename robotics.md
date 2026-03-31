@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-31T22:59:27.504264+00:00'
+updated: '2026-03-31T23:43:40.903978+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 31, 2026 at 22:59 UTC  
+**Last Updated:** March 31, 2026 at 23:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 To learn more about running OpenClaw and ROS robotics, checkout AgenticROS https://agenticros.com
 
-3h ago
+4h ago
 
 ---
 
@@ -44,13 +44,13 @@ To learn more about running OpenClaw and ROS robotics, checkout AgenticROS https
 
 https://reddit.com/link/1s8tt6j/video/miswsbmylfsg1/player Hey - spent the last year building PhAIL (physical AI leaderboard). I wanted to answer a simple question: how good are robot AI models on actual work, not demos PhAIL runs models on a real robot doing bin-to-bin picking and measures: throughput (units/hour) reliability (time between failures) everything is public: full videos of every run telemetry + logs fine-tuning dataset + training scripts link: https://phail.ai Genuinely curious what you think. What’s useful here, what’s missing. Please share your feedback.
 
-5h ago
+6h ago
 
 ---
 
 **[BabaCAD Robotics Web v2.1](https://www.reddit.com/r/robotics/comments/1s8v9by/babacad_robotics_web_v21/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -58,7 +58,15 @@ https://reddit.com/link/1s8tt6j/video/miswsbmylfsg1/player Hey - spent the last 
 
 https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printed parts, motorized projector, home decoration, and DIY electronics -- if you know of anyone else that might be interested in this stuff, sharing to others would really help me out! Hope to see you around here or YouTube :)
 
-4h ago
+5h ago
+
+---
+
+**[Aversion: TOF scanning Collision Avoidance](https://www.reddit.com/r/robotics/comments/1s9090l/aversion_tof_scanning_collision_avoidance/)**
+
+All M5Stack components. Mecanum four motor buggy, StickCPlus onboard controller TOF sensor scanning on a servo. Autonomous. Source code available if you are interested.
+
+2h ago
 
 ---
 
@@ -68,17 +76,9 @@ https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printe
 
 ---
 
-**[Aversion: TOF scanning Collision Avoidance](https://www.reddit.com/r/robotics/comments/1s9090l/aversion_tof_scanning_collision_avoidance/)**
-
-All M5Stack components. Mecanum four motor buggy, StickCPlus onboard controller TOF sensor scanning on a servo. Autonomous. Source code available if you are interested.
-
-1h ago
-
----
-
 **[Robots are DJing now AGIBOT X2 live at GTC 2026](https://www.reddit.com/r/robotics/comments/1s8tg5j/robots_are_djing_now_agibot_x2_live_at_gtc_2026/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -86,7 +86,7 @@ All M5Stack components. Mecanum four motor buggy, StickCPlus onboard controller 
 
 I’ve been learning ROS2 for a while, mostly by following tutorials and running existing GitHub repos (like TB3). Recently, I decided to stop just copying and actually try building my own robot model in simulation. So I wrote my first URDF/Xacro and visualized it in RViz. What I expected: A simple rectangular base link. What I got: - One model looks like a clean rectangle (as expected) - The other one looks… off (weird structure/positioning) (Attached both images for comparison) Now I’m trying to understand what went wrong. I’m currently trying to move from “running tutorials” → “actually understanding and building systems”, so I’d really appreciate any guidance. Thanks! Here’s the code: https://pastebin.com/mXHcbLiC Would really appreciate if you can point out what’s wrong.
 
-19h ago
+20h ago
 
 ---
 
@@ -120,7 +120,7 @@ Euronews.com • 2d ago
 
 **[Voyager, Icarus Robotics to test free-flying robot on space station](https://www.reuters.com/science/voyager-icarus-robotics-test-free-flying-robot-space-station-2026-03-30/)**
 
-Reuters • 1d ago
+reuters.com • 1d ago
 
 ---
 
@@ -134,7 +134,7 @@ Business Wire • 1d ago
 
 **[With Voyager’s help, Icarus Robotics to test free-flyer on ISS](https://spacenews.com/with-voyagers-help-icarus-robotics-to-test-free-flyer-on-iss/)**
 
-SpaceNews • 1d ago
+spacenews.com • 1d ago
 
 ---
 
@@ -142,7 +142,7 @@ SpaceNews • 1d ago
 
 In the opening panel of this year's Robotics Summit, learn how to create robots that are reliable and ready for commercial fleets.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
@@ -156,7 +156,7 @@ KPAX News • 1d ago
 
 **[The world’s largest humanoid robot maker is going public](https://restofworld.org/2026/unitree-china-humanoid-robot-shanghai-ipo/)**
 
-Rest of World • 12h ago
+restofworld.org • 13h ago
 
 ---
 
@@ -164,7 +164,7 @@ Rest of World • 12h ago
 
 Early customers included Disney.
 
-Fortune • 2d ago
+fortune.com • 2d ago
 
 ---
 
@@ -178,7 +178,7 @@ Lowy Institute • 1d ago
 
 **[OpenAI leases massive Richmond site to power robotics expansion](https://www.sfchronicle.com/tech/article/openai-richmond-warehouse-robotics-22160624.php)**
 
-San Francisco Chronicle • 23h ago
+San Francisco Chronicle • 1d ago
 
 ---
 

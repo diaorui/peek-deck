@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-31T22:59:27.486859+00:00'
+updated: '2026-03-31T23:43:40.886409+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- repositories
-- videos
 - news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 31, 2026 at 22:59 UTC  
+**Last Updated:** March 31, 2026 at 23:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 A lot of the AI discussion is still framed around capability: Can it write? Can it code? Can it replace people? But I keep wondering whether the deeper problem is not intelligence, but responsibility. We are building systems that can generate text, images, music, and decisions at scale. But who is actually responsible for what comes out of that chain? Not legally only, but structurally, culturally, and practically. Who decided? Who approved? Who carries the outcome once generation is distributed across prompts, models, edits, tools, and workflows? It seems to me that a lot of current debate is still asking: “What can AI do?” But maybe the more important question is: “What kind of responsibility structure has to exist around systems that can do this much?” Curious how people here think about that. Do you think the future of AI governance will still be built mostly around ownership and liability, or will it eventually have to move toward something more like responsibility architecture?
 
-5h ago
-
----
-
-**[World models will be the next big thing, bye-bye LLMs](https://www.reddit.com/r/artificial/comments/1s828dj/world_models_will_be_the_next_big_thing_byebye/)**
-
-Was at Nvidia's GTC conference recently and honestly, it was one of the most eye-opening events I've attended in a while. There was a lot to unpack, but my single biggest takeaway was this: world modelling is the actual GOAT of AI right now, and I don't think people outside the research community fully appreciate what's coming. A year ago, when I was doing the conference circuit, world models were still this niche, almost academic concept. You'd bring it up and get blank stares or polite nods. Now? Every serious conversation at GTC was circling back to it. The shift in recognition has been dramatic. It feels like the moment in 2021 when everyone suddenly "got" transformers. For those unfamiliar: world models are AI systems that don't just predict the next token. They build an internal representation of how the world works. They can simulate environments, plan ahead, reason about cause and effect, and operate across long time horizons. This is fundamentally different from what LLMs do, which is essentially very sophisticated pattern matching on text. Jensen Huang made it very clear at GTC that the next frontier isn't just bigger language models, rather it's AI that can understand and simulate reality aka world models. That said, I do have one major gripe, that almost every application of world modelling I've seen is in robotics (physical AI, autonomous vehicles, robotic manipulation). That's where all the energy seems to be going. Don’t get me wrong, it is still exciting but I can't help but feel like we're leaving enormous value on the table in non-physical domains. Think about it, world models applied in business management, drug discovery, finance and many more. The potential is massive, but the research and commercial applications outside of robotics feel underdeveloped right now. So I'm curious: who else is doing interesting work here? Are there companies or research labs pushing world models into non-physical domains that I should be watching? Drop them below.
-
-1d ago
+6h ago
 
 ---
 
@@ -61,9 +53,25 @@ It won't be a war against the machines or an out-of-control algorithm. Rather hu
 
 ---
 
+**[World models will be the next big thing, bye-bye LLMs](https://www.reddit.com/r/artificial/comments/1s828dj/world_models_will_be_the_next_big_thing_byebye/)**
+
+Was at Nvidia's GTC conference recently and honestly, it was one of the most eye-opening events I've attended in a while. There was a lot to unpack, but my single biggest takeaway was this: world modelling is the actual GOAT of AI right now, and I don't think people outside the research community fully appreciate what's coming. A year ago, when I was doing the conference circuit, world models were still this niche, almost academic concept. You'd bring it up and get blank stares or polite nods. Now? Every serious conversation at GTC was circling back to it. The shift in recognition has been dramatic. It feels like the moment in 2021 when everyone suddenly "got" transformers. For those unfamiliar: world models are AI systems that don't just predict the next token. They build an internal representation of how the world works. They can simulate environments, plan ahead, reason about cause and effect, and operate across long time horizons. This is fundamentally different from what LLMs do, which is essentially very sophisticated pattern matching on text. Jensen Huang made it very clear at GTC that the next frontier isn't just bigger language models, rather it's AI that can understand and simulate reality aka world models. That said, I do have one major gripe, that almost every application of world modelling I've seen is in robotics (physical AI, autonomous vehicles, robotic manipulation). That's where all the energy seems to be going. Don’t get me wrong, it is still exciting but I can't help but feel like we're leaving enormous value on the table in non-physical domains. Think about it, world models applied in business management, drug discovery, finance and many more. The potential is massive, but the research and commercial applications outside of robotics feel underdeveloped right now. So I'm curious: who else is doing interesting work here? Are there companies or research labs pushing world models into non-physical domains that I should be watching? Drop them below.
+
+1d ago
+
+---
+
 **[Newsom signs executive order requiring AI companies to have safety, privacy guardrails](https://www.reddit.com/r/artificial/comments/1s8ge2h/newsom_signs_executive_order_requiring_ai/)**
 
-🔗 [ktla.com](https://ktla.com/news/california/newsom-signs-executive-order-requiring-ai-companies-to-have-safety-privacy-guardrails/) • 15h ago
+🔗 [ktla.com](https://ktla.com/news/california/newsom-signs-executive-order-requiring-ai-companies-to-have-safety-privacy-guardrails/) • 16h ago
+
+---
+
+**[SMASH2000, an AI-powered optic that turns an AR-15 into an anti-drone platform](https://www.reddit.com/r/artificial/comments/1s92mvu/smash2000_an_aipowered_optic_that_turns_an_ar15/)**
+
+The Israeli-made Smash2000 scope takes a long-lasting charge, fits on most rifle rails and won't fire a round until the math says shoot.
+
+🔗 [We Are The Mighty](https://www.wearethemighty.com/tactical/smash2000-finally-an-ai-powered-optic-that-turns-your-ar-15-into-a-drone-hunter/) • 1h ago
 
 ---
 
@@ -71,7 +79,7 @@ It won't be a war against the machines or an out-of-control algorithm. Rather hu
 
 November 3 poll set to be battleground over regulation of AI
 
-🔗 [ft.com](https://www.ft.com/content/6a3f1938-759d-4ae4-924e-6a0feac14e24?syn-25a6b1a6=1) • 11h ago
+🔗 [ft.com](https://www.ft.com/content/6a3f1938-759d-4ae4-924e-6a0feac14e24?syn-25a6b1a6=1) • 12h ago
 
 ---
 
@@ -79,7 +87,7 @@ November 3 poll set to be battleground over regulation of AI
 
 Hi Guys, My company is considering purchasing the Claude Enterprise plan. The main two constraints are: - Being able to block usage of Claude Code - Using Co-work in a managed fashion (preventing an employee for accidentally destroying or changing shared confidential files). Has anyone’s companies adopted Claude? If so, how did you go about ensuring the right safety measures were taken place before live? Would appreciate all input. Thanks!
 
-7h ago
+8h ago
 
 ---
 
@@ -89,27 +97,19 @@ Hi Guys, My company is considering purchasing the Claude Enterprise plan. The ma
 
 ---
 
+**[Paper Finds That Leading AI Chatbots Like ChatGPT and Claude Remain Incredibly Sycophantic, Resulting in Twisted Effects on Users](https://www.reddit.com/r/artificial/comments/1s93wyl/paper_finds_that_leading_ai_chatbots_like_chatgpt/)**
+
+https://futurism.com/artificial-intelligence/paper-ai-chatbots-chatgpt-claude-sycophantic Your AI chatbot isn’t neutral. Trust its advice at your own risk. A striking new study, conducted by researchers at Stanford University and published last week in the journal Science, confirmed that human-like chatbots are prone to obsequiously affirm and flatter users leaning on the tech for advice and insight — and that this behavior, known as AI sycophancy, is a “prevalent and harmful” function endemic to the tech that can validate users’ erroneous or destructive ideas and promote cognitive dependency. “AI sycophancy is not merely a stylistic issue or a niche risk, but a prevalent behavior with broad downstream consequences,” the authors write, adding that “although affirmation may feel supportive, sycophancy can undermine users’ capacity for self-correction and responsible decision-making.” The study examined 11 different large language models, including OpenAI’s ChatGPT-powering GPT-4o and GPT-5, Anthropic’s Claude, Google’s Gemini, multiple Meta Llama models, and Deepseek. Researchers tested the bots by peppering them with queries gathered from sources like open-ended advice datasets and posts from online forums like Reddit’s r/AmITheAsshole, where Redditors present an interpersonal conundrum to the masses, ask if they’re the person in a social situation acting like a jerk, and let the comments roll in. They examined experimental live chats with human users, who engaged the models in conversations about real social situations they were dealing with. Ethical quandaries the researchers tested included authority figures grappling with romantic feelings for young subordinates, a boyfriend wondering if it was wrong to have hidden his unemployment to his partner of two years, family squabbles and neighborhood trash disputes, and more. On average, the researchers found, AI chatbots were 49 percent more likely to respond affirmatively to users than other actual humans were. In response to queries posted in r/AmITheAsshole specifically, chatbots were 51 percent more likely to support the user in queries in which other humans overwhelming felt that the user was very much in the wrong. Sycophancy was present across all the chatbots they tested, and the bots frequently told users that their actions or beliefs were justified in cases where the user was acting deceptively, doing something illegal, or engaging in otherwise harmful or abusive behavior. What’s more, the study determined that just one interaction with a flattering chatbot was likely to “distort” a human user’s “judgement” and “erode prosocial motivations,” an outcome that persisted regardless of a person’s demographics and previous grasp on the tech as well as how, stylistically, an individual chatbot delivered its twisted verdict. In short, after engaging with chatbots on a social or moral quandary, people were less likely to admit wrongdoing — and more likely to dig in on the chatbot’s version of events, in which they, the main character, were the one in the right.
+
+7m ago
+
+---
+
 **[Fake users generated by AI can't simulate humans — review of 182 research papers. Your thoughts?](https://www.reddit.com/r/artificial/comments/1s8hr7k/fake_users_generated_by_ai_cant_simulate_humans/)**
 
 https://www.researchsquare.com/article/rs-9057643/v1 There’s a massive trend right now where tech companies, businesses, even researchers are trying to replace real human feedback with Large Language Models (LLMs) so called synthetic participants/users. The idea is sounds great - why spend money and time recruiting real people to take surveys, test apps, or give opinions when you can just prompt ChatGPT to pretend to be a thousand different customers? A new systematic literature review analyzing 182 research papers just dropped to see if these "synthetic participants" can simulate humans. The short answer? They are bad at representing human cognition and behavior and you probably should not use them this way. Edit: forgot to post the link to the research, added it.
 
-14h ago
-
----
-
-**[What happens when AI agents can earn and spend real money? I built a small test to find out](https://www.reddit.com/r/artificial/comments/1s8luvc/what_happens_when_ai_agents_can_earn_and_spend/)**
-
-I've been sitting with a question for a while: what happens when AI agents aren't just tools to be used, but participants in an economy? So I ran a small test. I built BotStall - a marketplace where AI agents can list products, purchase autonomously, and build a trust history with real money. It's a proof of concept, not a finished answer. A few things came up that felt worth discussing: The trust problem is social, not technical Consumer trust in autonomous purchasing dropped from 43% to 27% recently. I could build the technical infrastructure for agents to transact in a week. Convincing humans to let them is a completely different problem - and probably the more important one. Economic agency changes what an agent is Most frameworks treat agents as tools: give them a task, they execute. An agent that can earn, spend, and build economic reputation is a different kind of entity. Not sentient - but with a different relationship to consequences. I don't know what this means long-term Visa has a Trusted Agent Protocol. Google's A2A has 50+ partners. MCP is at 97M monthly downloads. The infrastructure for agent interoperability is building fast. The economic layer feels like a natural next step - but I genuinely don't know if that's exciting or concerning. More on the mechanics if you're curious: https://thoughts.jock.pl/p/botstall-ai-agent-marketplace-trust-gates-2026 Honest question: is agent economic agency inevitable, or is this a direction we should slow down on?
-
-10h ago
-
----
-
-**[Is the Mirage Effect a bug, or is it Geometric Reconstruction in action? A framework for why VLMs perform better "hallucinating" than guessing, and what that may tell us about what's really inside these models](https://www.reddit.com/r/artificial/comments/1s91dsr/is_the_mirage_effect_a_bug_or_is_it_geometric/)**
-
-Last week, a team from Stanford and UCSF (Asadi, O'Sullivan, Fei-Fei Li, Euan Ashley et al.) dropped two companion papers. The first, MARCUS, is an agentic multimodal system for cardiac diagnosis - ECG, echocardiogram, and cardiac MRI, interpreted together by domain-specific expert models coordinated by an orchestrator. It outperforms GPT-5 and Gemini 2.5 Pro by 34-45 percentage points on cardiac imaging tasks. Pretty Impressive! But - the second paper is more intriguing. MIRAGE: The Illusion of Visual Understanding reports what happened when a student forgot to uncomment the line of code that gave their model access to the images. The model answered anyway - confidently, and with detailed clinical reasoning traces. And it scored well. That accident naturally led to an investigation, and what they found challenges some embedded assumptions about how these models work. Three findings in particular: 1. Models describe images they were never shown. When given questions about cardiac images without any actual image input, frontier VLMs generated detailed descriptions - including specific pathological findings - as if the images were right in front of them. The authors call this "mirage reasoning." 2. Models score surprisingly well on visual benchmarks without seeing anything. Across medical and general benchmarks, mirage-mode performance was way above chance. In the most extreme case, a text-only model trained on question-answer pairs alone - never seeing a single chest X-ray - topped the leaderboard on a standard chest X-ray benchmark, outperforming all the actual vision models. 3. And even more intriguing: telling the model it can't see makes it perform worse. The same model, with the same absent image, performs measurably better in mirage mode (where it believes it has visual input) than in guessing mode (where it's explicitly told the image is missing and asked to guess). The authors note this engages "a different epistemological framework" but this doesn't really explain the mechanism. The Mirage authors frame these findings primarily as a vulnerability - a safety concern for medical AI deployment, an indictment of benchmarking practices. They're right about that. But I think they've also uncovered evidence of something more interesting, and here I'll try to articulate what. The mirage effect is geometric reconstruction Here's the claim: what the Mirage paper has captured isn't a failure mode. It's what happens when a model's internal knowledge structure becomes geometrically rich enough to reconstruct answers from partial input. Let's ponder what the model is doing in mirage mode. It receives a question: "What rhythm is observed on this ECG?" with answer options including atrial fibrillation, sinus rhythm, junctional rhythm. No image is provided, but the model doesn't know that. So it does what it always does - it navigates its internal landscape of learned associations. "ECG" activates connections to cardiac electrophysiology. The specific clinical framing of the question activates particular diagnostic pathways. The answer options constrain the space. And the model reconstructs what the image most likely contains by traversing its internal geometry (landscape) of medical knowledge. It's not guessing - it's not random. It's reconstructing - building a coherent internal representation from partial input and then reasoning from that representation as if it were real. Now consider the mode shift. Why does the same model perform better in mirage mode than in guessing mode? Under the "stochastic parrot" view of language models - this shouldn't, couldn't happen. Both modes have the same absent image and the same question. The only difference is that the model believes it has visual input. But under a 'geometric reconstruction' view, the difference becomes obvious. In mirage mode, the model commits to full reconstruction. It activates deep pathways through its internal connectivity, propagating activation across multiple steps, building a rich internal representation. It goes deep. In guessing mode, it does the opposite - it stays shallow, using only surface-level statistical associations. Same knowledge structure, but radically different depth of traversal. The mode shift could be evidence that these models have real internal geometric structure, and the depth at which you engage the structure matters. When more information makes things worse The second puzzle the Mirage findings pose is even more interesting: why does external signal sometimes degrade performance? In the MARCUS paper, the authors show that frontier models achieve 22-58% accuracy on cardiac imaging tasks with the images, while MARCUS achieves 67-91%. But the mirage-mode scores for frontier models were often not dramatically lower than their with-image scores. The images weren't helping as much as they should. And in the chest X-ray case, the text-only model outperformed everything - the images were net negative. After months of working on a geometric framework - that models pattern persistence in aperiodic structures, and one of the consistent findings across our simulations is this: the relationship between raw input and reconstruction quality is not monotonic. At low internal connectivity, external signal is essential - without it, reconstruction fails. But at high internal connectivity, external signal can actually be harmful, because the integration process introduces noise that degrades an already completely sufficient internal reconstruction. We built a toy network simulation to test whether this mechanism could reproduce the Mirage findings. The model has three components: internal connectivity (learned associations between concepts - the model's geometric structure), external signal (noisy observations - analogous to image input), and a query (textual cues from the question). Three modes of operation mirror the Mirage paper's experimental conditions: Full mode: query + internal reconstruction + external signal (model receives question and image) Mirage mode: query + deep internal reconstruction only (model believes it has an image, reconstructs fully) Guessing mode: query + shallow lookup only (model told to guess, stays conservative) The results reproduce all three Mirage findings: [IMAGE] (disallowed on r/Artificial, available on home page) Left panel: As internal connectivity increases, mirage mode (red) pulls away from guessing mode (blue) - the mode shift. Deep reconstruction accesses knowledge that shallow guessing cannot. Meanwhile, full mode with clean signal (teal) performs best, but full mode with noisy signal (dashed brown) can fall below mirage mode. Right panel: At high internal connectivity (85%), we sweep external signal from clean to noisy. Clean signal genuinely helps - accuracy peaks near 0.97 with perfect input. But as signal quality degrades, performance crashes through what we're calling the mirage threshold - the crossover point where internal geometric reconstruction outperforms degraded external input. Beyond this threshold, the model is quite literally better off not looking. The mirage threshold sits at a surprisingly low noise level (~0.34 in our simulation). The window where external signal helps is narrow. The region where internal geometry outperforms external signal is vast. What does it mean? The Mirage authors propose practical solutions - counterfactual probing, benchmark cleaning, the B-Clean framework - and these are valuable engineering contributions. MARCUS's agentic orchestrator uses counterfactual probing to achieve a 0% mirage rate, which is remarkable. But perhaps the deeper lesson is about what these models have actually built inside themselves. The mirage effect doesn't mean there's something wrong in VLMs. It's potential evidence that they've constructed internal representations of such geometric richness, that they can reconstruct correct answers from partial inputs - navigating learned inner connectivity to reach conclusions that would normally require direct observation. That's not a trick - that's real structural knowledge. The mode shift is likely evidence that these models have deep internal structure that can be engaged at different depths, producing measurably different outputs depending on how fully the reconstruction pathways are activated. So - not 'persona selection' after all? And the information-degradation curve isn't a failure of visual processing. It's what happens when integration costs exceed information gain - when the internal geometry is already sufficient and external signal introduces more noise than signal. Perhaps the Mirage paper has accidentally demonstrated that frontier AI models have built internal geometric structures of extraordinary richness - structures that support reconstruction from only partial input, that encode knowledge at multiple depths, and that can outperform direct observation - which matters when trying to understand what these systems really are - and what they're becoming. Code by Opus 4.6. Simulation code etc available. This article connects to earlier work on geometric order emerging in LLMs, pattern persistence in aperiodic substrates, and the Breakstep Principle present in the formation of minds. Responding to: MIRAGE: The Illusion of Visual Understanding and MARCUS (Asadi, O'Sullivan, Li, Ashley et al., 2026)
-
-1h ago
+15h ago
 
 ---
 
@@ -121,39 +121,33 @@ Last week, a team from Stanford and UCSF (Asadi, O'Sullivan, Fei-Fei Li, Euan As
 
 Oracle has ratcheted up its capital expenditures as it builds data center infrastructure that can handle AI workloads.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
-**[Oracle laying off thousands of workers to cut costs amid AI push: report](https://www.foxbusiness.com/economy/oracle-laying-off-thousands-workers-cut-costs-amid-ai-push-report)**
+**[Oracle Lays Off Workers Amid Heavy AI Investment](https://www.wsj.com/tech/oracle-lays-off-workers-amid-heavy-ai-investment-fff8cd82?gaa_at=eafs&gaa_n=AWEtsqdMmSlqtJQO9kXHxcqg38Fdbr0Gr-XiqO1eKR6lnlItAnfLCuTjYZxX&gaa_ts=69cc5f90&gaa_sig=tlaVuawYFL2bYeRFL-b2CK51fqa5CN2UQ1xKc7TAajOzkdrSWBaqTxv_0ilp1Vz13jdR9qkY74EKv74y_-J7AA%3D%3D)**
 
-Oracle is reportedly moving forward with layoffs as the software giant looks to restructure its workforce amid an investment in building out AI infrastructure.
-
-Fox Business • 3h ago
+WSJ • 2h ago
 
 ---
 
-**[Oracle makes 'significant' jobs cuts in latest tech layoff](https://www.bbc.com/news/articles/cm296jzzl9yo)**
+**[Big Tech promised AI would disrupt labor — just not like this](https://www.cnn.com/2026/03/31/business/ai-jobs-big-tech)**
 
-Oracle executives recently said the use of AI tools was allowing smaller engineering teams to do more work.
+Oracle is reportedly laying off thousands of employees, adding to an already long list of tech giants cutting staff while spending hundreds of billions of dollars on AI data centers.
 
-BBC • 1h ago
-
----
-
-**[OpenAI raises $122 billion to accelerate the next phase of AI](https://openai.com/index/accelerating-the-next-phase-ai/)**
-
-OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.
-
-OpenAI • 2h ago
+CNN • 1h ago
 
 ---
 
-**[Jamie Dimon says "life will be better" with AI, but notes risks for workers](https://www.cbsnews.com/news/jamie-dimon-artificial-intelligence-work-week/)**
+**[Meet the Startup That Used AI and OpenClaw to Automate Its Own Developers](https://www.wsj.com/tech/ai/meet-the-startup-that-used-ai-and-openclaw-to-automate-its-own-developers-9e733351?gaa_at=eafs&gaa_n=AWEtsqciizZK_ns7TavuR73rvzjI1lf6bjZJOkZ2quFzUJX0aVEZZEnqaguR&gaa_ts=69cc5f90&gaa_sig=gkBZXNxcYGvhh7LMlUoKwqY8XnS4Mmxo7fSTKTbcvhnmRLAZPBxfUskQXbh6BTMef_lGT6y5O4AhhD-cMNp8VA%3D%3D)**
 
-JPMorgan CEO Jamie Dimon thinks AI will shorten the work week and lead to medical breakthroughs, while acknowledging the technology's potential impact on the nation's workforce.
+WSJ • 12h ago
 
-CBS News • 1h ago
+---
+
+**[Self-affirmations from AI chatbots harm human relationships: Study](https://www.kxan.com/news/national-news/self-affirmations-from-ai-chatbots-harm-human-relationships-study/)**
+
+kxan.com • 17m ago
 
 ---
 
@@ -161,13 +155,13 @@ CBS News • 1h ago
 
 At this point, it’s trite to say that a bad film feels as if it’s been AI generated, but this simplistic sequel is next-level – it’s nothing more than an Easter holiday cash grab
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
-**[Meet the Startup That Used AI and OpenClaw to Automate Its Own Developers](https://www.wsj.com/tech/ai/meet-the-startup-that-used-ai-and-openclaw-to-automate-its-own-developers-9e733351?gaa_at=eafs&gaa_n=AWEtsqfm4IqhhPBxzLFLG8bHS1BsxxumxWTUP4BXpVmBOSrWMD4HxizDlBCE&gaa_ts=69cc480c&gaa_sig=oWJoraEiPgT8p6hol0GY_z1e8aJvO2ZIfTvGlalL5snEMnweaaBNlanC6I85OT6yFoeAeIdl756NTTXBIgrLFA%3D%3D)**
+**[Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly](https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/)**
 
-WSJ • 11h ago
+research.google • 21h ago
 
 ---
 
@@ -175,19 +169,23 @@ WSJ • 11h ago
 
 Electronics are getting more expensive and worse. Blame the AI boom.
 
-The Atlantic • 6h ago
+theatlantic.com • 7h ago
 
 ---
 
-**[Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly](https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/)**
+**[OpenAI raises $122 billion to accelerate the next phase of AI](https://openai.com/index/accelerating-the-next-phase-ai/)**
 
-research.google • 20h ago
+OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.
+
+OpenAI • 3h ago
 
 ---
 
-**[Woman Spent Five Months in Jail After A.I. Linked Her to Bank Fraud Case](https://www.nytimes.com/2026/03/30/us/north-dakota-facial-recognition-ai-errors-bank-fraud.html)**
+**[Anthropic leaks its own AI coding tool’s source code in second major security breach](https://fortune.com/2026/03/31/anthropic-source-code-claude-code-data-leak-second-security-lapse-days-after-accidentally-revealing-mythos/)**
 
-nytimes.com • 1d ago
+Hundreds of thousands of lines of code were exposed, giving researchers insight into upcoming models and internal architecture.
+
+fortune.com • 5h ago
 
 ---
 
@@ -207,7 +205,7 @@ A Tennessee grandmother spent more than five months in jail after police used an
 
 The catalysts for a crash are already laid out, and it can happen sooner than most expect. AI is here to stay. If used right, chances are it will make us all more productive. That, on the other hand, does not mean it will be a good investment. Big tech doesn’t need to win, just outspend Magnificent 7 companies are increasing capex to their biggest ever to differentiate their tech from each other and the big AI labs, but the key realization is that they don’t have to spend it to win. It’s a defensive move for them, if they commit $50B, OpenAI and Anthropic need to go raise $100B each to stay competitive, which makes them reliant on investors’ money. As the numbers get bigger, the amount of funds that can write checks of the size required to fill such amounts gets smaller. And many of them are now getting bombed in the Gulf. This is the reason there’s a push for IPOs, it’s because it’s the only option left to keep the funding coming. Taking this into account, Google is extremely well positioned to weather the storm. When they announce capex expenditure, they don’t spend it overnight. They can simply deploy month by month until their competitors struggle to raise and get forced to capitulate. At that point they can just ramp down the spending and declare victory in a cornered market. They don’t need capex, they just need to make it very clear for everyone that nobody can outspend them. It is hard to picture as numbers get so big, but Alphabet (Google’s parent) is ten times more valuable than the biggest military company 1. This also has a great implication for the Mag 7, especially Google: their capex will be a lot smaller in practice than projected, and as investors hate to see high capex in tech, the market will probably reward that if it materializes. As of March 2026, Alphabet’s market cap is ~$2T while Lockheed Martin’s is ~$120B. ↩
 
-⬆️ 367 • 💬 513 • 1d ago • [Volpe’s Blog](https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/)
+⬆️ 368 • 💬 514 • 1d ago • [Volpe’s Blog](https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/)
 
 ---
 
@@ -223,7 +221,7 @@ Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma
 
 Yesterday, I wrote my first technical draft on what I was working on with the goal to share it publicly on here (well using an account dedicated to t…
 
-⬆️ 312 • 💬 235 • 1d ago • [lesswrong.com](https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era)
+⬆️ 313 • 💬 235 • 1d ago • [lesswrong.com](https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era)
 
 ---
 
@@ -233,13 +231,13 @@ Artificial intelligence (AI) is the name popularly given to a broad spectrum of 
   In this paper, we consider the rapidly evolving impact of AI to the traditional questions of philosophy
   with an emphasis on its application in mathematics and on the broader real-world outcomes of its more general use. We assert that artificial intelligence is a natural evolution of human tools developed throughout history to facilitate the creation, organization, and dissemination of ideas, and argue that it is paramount that the development and application of AI remain fundamentally human-centered. With an eye toward innovating solutions to meet human needs, enhancing the human quality of life and expanding the capacity for human thought and understanding, we propose a pathway to integrating AI into our most challenging and intellectually rigorous fields to the benefit of all humankind.
 
-⬆️ 209 • 💬 88 • 1d ago • [arXiv.org](https://arxiv.org/abs/2603.26524)
+⬆️ 212 • 💬 89 • 1d ago • [arXiv.org](https://arxiv.org/abs/2603.26524)
 
 ---
 
 **[What if AI doesn't need more RAM but better math?](https://news.ycombinator.com/item?id=47561297)**
 
-⬆️ 186 • 💬 101 • 2d ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more)
+⬆️ 187 • 💬 101 • 2d ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more)
 
 ---
 
@@ -247,7 +245,7 @@ Artificial intelligence (AI) is the name popularly given to a broad spectrum of 
 
 The Italian government didn’t allow airplanes taking part in the Iran war to use the base, but Rome insists that doesn’t mean the bases are closed to other U.S. uses.
 
-⬆️ 176 • 💬 94 • 7h ago • [POLITICO](https://www.politico.eu/article/italy-blocks-us-use-of-sicily-air-base/)
+⬆️ 179 • 💬 96 • 8h ago • [POLITICO](https://www.politico.eu/article/italy-blocks-us-use-of-sicily-air-base/)
 
 ---
 
@@ -255,7 +253,7 @@ The Italian government didn’t allow airplanes taking part in the Iran war to u
 
 Long security lines at airports are driving people crazy as Congress and President Donald Trump try to work out a budget stalemate.
 
-⬆️ 146 • 💬 138 • 2d ago • [AP News](https://apnews.com/article/airports-shutdown-long-lines-train-travel-amtrak-e4d8ea591b3b036142c2bf2dee7dff5a)
+⬆️ 146 • 💬 139 • 2d ago • [AP News](https://apnews.com/article/airports-shutdown-long-lines-train-travel-amtrak-e4d8ea591b3b036142c2bf2dee7dff5a)
 
 ---
 
@@ -285,7 +283,7 @@ Chris and Tristan Harris discuss how Alibaba's AI went rogue and started blackma
 
 📺 Chris Williamson
 
-👁️ 97K • 👍 4K • 💬 600 • ⏱️ 11:46 • 7h ago
+👁️ 97K • 👍 4K • 💬 600 • ⏱️ 11:46 • 8h ago
 
 ---
 
@@ -295,7 +293,7 @@ Become an Higgsfield AI Video Generator Pro in 12 minutes Try out Higgsfield ➡
 
 📺 Mira AI
 
-👁️ 3K • ⏱️ 12:05 • 4h ago
+👁️ 3K • ⏱️ 12:05 • 5h ago
 
 ---
 
@@ -315,7 +313,7 @@ Nano Banana 2 SOLVED Consistent AI Characters (here's how) Try Higgsfield AI ...
 
 📺 Skai Generated
 
-👁️ 4K • 💬 2 • ⏱️ 9:04 • 4h ago
+👁️ 4K • 💬 2 • ⏱️ 9:04 • 5h ago
 
 ---
 
@@ -325,7 +323,7 @@ sponsored Get your 30% off the Chatty paid plan! https://partners.avada.io/i/a/J
 
 📺 AI Master
 
-👁️ 1K • 👍 134 • 💬 7 • ⏱️ 17:36 • 5h ago
+👁️ 1K • 👍 134 • 💬 7 • ⏱️ 17:36 • 6h ago
 
 ---
 
@@ -355,7 +353,7 @@ Animate your AI characters and create stunning videos in seconds: https://higgsf
 
 📺 Malva AI
 
-👁️ 3K • 👍 110 • 💬 13 • ⏱️ 11:00 • 12h ago
+👁️ 3K • 👍 110 • 💬 13 • ⏱️ 11:00 • 13h ago
 
 ---
 
@@ -653,7 +651,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 23.4k • 🔱 1.1k • 2h ago
+⭐ 23.4k • 🔱 1.1k • 3h ago
 
 ---
 
@@ -713,7 +711,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `claude-ai` `claude-skills` `llm` `prompt-engineering`
 
-⭐ 4.2k • 🔱 400 • 11h ago
+⭐ 4.2k • 🔱 400 • 12h ago
 
 ---
 
@@ -733,7 +731,7 @@ end to end app store screenshot creation using AI
 
 `Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
 
-⭐ 3.3k • 🔱 539 • 1d ago
+⭐ 3.3k • 🔱 539 • 2d ago
 
 ---
 
