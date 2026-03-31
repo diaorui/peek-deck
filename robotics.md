@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-31T21:03:13.695241+00:00'
+updated: '2026-03-31T22:03:17.620735+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 31, 2026 at 21:03 UTC  
+**Last Updated:** March 31, 2026 at 22:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,15 +32,9 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[BabaCAD Robotics Web v2.1](https://www.reddit.com/r/robotics/comments/1s8v9by/babacad_robotics_web_v21/)**
+**[OpenClaw + ROS + AgenticROS = Physical AI Robotics Demo](https://www.reddit.com/r/robotics/comments/1s8wt8m/openclaw_ros_agenticros_physical_ai_robotics_demo/)**
 
-2h ago
-
----
-
-**[Automated Projector](https://www.reddit.com/r/robotics/comments/1s8voof/automated_projector/)**
-
-https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printed parts, motorized projector, home decoration, and DIY electronics -- if you know of anyone else that might be interested in this stuff, sharing to others would really help me out! Hope to see you around here or YouTube :)
+To learn more about running OpenClaw and ROS robotics, checkout AgenticROS https://agenticros.com
 
 2h ago
 
@@ -50,15 +44,21 @@ https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printe
 
 https://reddit.com/link/1s8tt6j/video/miswsbmylfsg1/player Hey - spent the last year building PhAIL (physical AI leaderboard). I wanted to answer a simple question: how good are robot AI models on actual work, not demos PhAIL runs models on a real robot doing bin-to-bin picking and measures: throughput (units/hour) reliability (time between failures) everything is public: full videos of every run telemetry + logs fine-tuning dataset + training scripts link: https://phail.ai Genuinely curious what you think. What’s useful here, what’s missing. Please share your feedback.
 
+4h ago
+
+---
+
+**[BabaCAD Robotics Web v2.1](https://www.reddit.com/r/robotics/comments/1s8v9by/babacad_robotics_web_v21/)**
+
 3h ago
 
 ---
 
-**[OpenClaw + ROS + AgenticROS = Physical AI Robotics Demo](https://www.reddit.com/r/robotics/comments/1s8wt8m/openclaw_ros_agenticros_physical_ai_robotics_demo/)**
+**[Automated Projector](https://www.reddit.com/r/robotics/comments/1s8voof/automated_projector/)**
 
-To learn more about running OpenClaw and ROS robotics, checkout AgenticROS https://agenticros.com
+https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printed parts, motorized projector, home decoration, and DIY electronics -- if you know of anyone else that might be interested in this stuff, sharing to others would really help me out! Hope to see you around here or YouTube :)
 
-1h ago
+3h ago
 
 ---
 
@@ -68,9 +68,17 @@ To learn more about running OpenClaw and ROS robotics, checkout AgenticROS https
 
 ---
 
+**[Aversion: TOF scanning Collision Avoidance](https://www.reddit.com/r/robotics/comments/1s9090l/aversion_tof_scanning_collision_avoidance/)**
+
+All M5Stack components. Mecanum four motor buggy, StickCPlus onboard controller TOF sensor scanning on a servo. Autonomous. Source code available if you are interested.
+
+53m ago
+
+---
+
 **[Robots are DJing now AGIBOT X2 live at GTC 2026](https://www.reddit.com/r/robotics/comments/1s8tg5j/robots_are_djing_now_agibot_x2_live_at_gtc_2026/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -78,7 +86,7 @@ To learn more about running OpenClaw and ROS robotics, checkout AgenticROS https
 
 I’ve been learning ROS2 for a while, mostly by following tutorials and running existing GitHub repos (like TB3). Recently, I decided to stop just copying and actually try building my own robot model in simulation. So I wrote my first URDF/Xacro and visualized it in RViz. What I expected: A simple rectangular base link. What I got: - One model looks like a clean rectangle (as expected) - The other one looks… off (weird structure/positioning) (Attached both images for comparison) Now I’m trying to understand what went wrong. I’m currently trying to move from “running tutorials” → “actually understanding and building systems”, so I’d really appreciate any guidance. Thanks! Here’s the code: https://pastebin.com/mXHcbLiC Would really appreciate if you can point out what’s wrong.
 
-17h ago
+18h ago
 
 ---
 
@@ -94,15 +102,7 @@ From Humanoids daily on 𝕏: https://x.com/humanoidsdaily/status/20381919486372
 
 Hello I accidently wrote a program in acecode and clicked upload firmare. Now my smart car is not being displayed on wifi section. It was working previously.I cannot find the firmare file in acebot documentation too.
 
-14h ago
-
----
-
-**[SLAM Camera Board](https://www.reddit.com/r/robotics/comments/1s7g8kh/slam_camera_board/)**
-
-Posting update here, I doubled down on my mission to create the smallest VIO module, here is the latest revision I am working on. - Global shutter camera + IMU - 0.8W - Outputs pose @ 15hz via USB or UART Here is a short video showing how when you plug it into any phone or pc, it shows up as ethernet device with a web-ui built into it. No app to setup or even internet required. This lets me try it out and collect diverse datasets easily on-the-go.
-
-1d ago
+15h ago
 
 ---
 
@@ -138,19 +138,11 @@ SpaceNews • 1d ago
 
 ---
 
-**[Can YouTube videos help robots learn household chores?](https://www.detroitnews.com/story/life/2026/03/31/can-youtube-videos-help-robots-learn-household-chores/89351430007/)**
+**[Learn how to build reliable robots at scale in Robotics Summit keynote](https://www.therobotreport.com/learn-how-build-reliable-robots-scale-robotics-summit-keynote/)**
 
-Training robots to perform physical tasks is much more complicated than training artificial intelligence to write a paper.
+In the opening panel of this year's Robotics Summit, learn how to create robots that are reliable and ready for commercial fleets.
 
-The Detroit News • 1h ago
-
----
-
-**[AGIBOT rolls out 10,000th humanoid robot](https://www.therobotreport.com/agibot-rolls-out-10000th-humanoid-robot/)**
-
-AGIBOT said it is transitioning from initial humanoid rollouts to multiple industries and sites worldwide.
-
-The Robot Report • 3h ago
+The Robot Report • 50m ago
 
 ---
 
@@ -159,6 +151,12 @@ The Robot Report • 3h ago
 7th-grade students are part of the Hellgate Elementary School robotics team recently qualified for Canada Cup, an international competition pitting some of the top robotics teams against each other.
 
 KPAX News • 1d ago
+
+---
+
+**[The world’s largest humanoid robot maker is going public](https://restofworld.org/2026/unitree-china-humanoid-robot-shanghai-ipo/)**
+
+Rest of World • 11h ago
 
 ---
 
@@ -178,11 +176,9 @@ Lowy Institute • 1d ago
 
 ---
 
-**[Kraken Robotics Appoints Don Robertson to Board of Directors and John Salama as Chief Information Officer](https://finance.yahoo.com/markets/stocks/articles/kraken-robotics-appoints-don-robertson-103000783.html)**
+**[OpenAI leases massive Richmond site to power robotics expansion](https://www.sfchronicle.com/tech/article/openai-richmond-warehouse-robotics-22160624.php)**
 
-ST. JOHN'S, Newfoundland and Labrador, March 30, 2026 (GLOBE NEWSWIRE) -- Kraken Robotics Inc. (“Kraken” or the “Company”) (TSX-V: PNG, OTCQB: KRKNF), is pleased to announce the appointment of Don Robertson to its Board of Directors and the promotion of John Salama to the role of Chief Information Officer, effective immediately. Don Robertson Appointed to Board of Directors Mr. Robertson brings more than 30 years of experience in corporate finance, mergers and acquisitions (M&A), and public comp
-
-Yahoo Finance • 1d ago
+San Francisco Chronicle • 22h ago
 
 ---
 
@@ -196,7 +192,7 @@ Brett Adcock is a technology entrepreneur focused on building companies in robot
 
 📺 Shawn Ryan Show
 
-👁️ 290K • 👍 7K • 💬 2K • ⏱️ 2:57:09 • 1d ago
+👁️ 313K • 👍 7K • 💬 3K • ⏱️ 2:57:09 • 1d ago
 
 ---
 
@@ -226,7 +222,7 @@ Brett Adcock shares his vision for the future of humanoid robots, why he believe
 
 📺 Shawn Ryan Show
 
-👁️ 67K • 👍 2K • 💬 642 • ⏱️ 14:05 • 4d ago
+👁️ 67K • 👍 2K • 💬 644 • ⏱️ 14:05 • 4d ago
 
 ---
 
@@ -236,7 +232,7 @@ Humanoid robots have been making appearances through social media, tv segments, 
 
 📺 NBC News
 
-👁️ 96K • 👍 548 • 💬 370 • ⏱️ 3:05 • 5d ago
+👁️ 97K • 👍 549 • 💬 370 • ⏱️ 3:05 • 5d ago
 
 ---
 
@@ -244,7 +240,17 @@ Humanoid robots have been making appearances through social media, tv segments, 
 
 📺 zhulongfeng 6
 
-👁️ 7K • 👍 39 • ⏱️ 0:40 • 1d ago
+👁️ 10K • 👍 50 • ⏱️ 0:40 • 1d ago
+
+---
+
+**[Nvidia Shocked Everyone by Announcing the Smartest AI Robot That Can Do Anything](https://www.youtube.com/watch?v=fW_vymTb2ZM)**
+
+A new wave of attention is building around Nvidia as the company pushes further into advanced robotics with a concept focused ...
+
+📺 Carros Show
+
+👁️ 3K • 👍 60 • 💬 4 • ⏱️ 8:42 • 4d ago
 
 ---
 
@@ -254,7 +260,7 @@ A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White H
 
 📺 C-SPAN
 
-👁️ 225K • 👍 1K • 💬 2K • ⏱️ 2:59 • 6d ago
+👁️ 226K • 👍 1K • 💬 2K • ⏱️ 2:59 • 6d ago
 
 ---
 
@@ -274,17 +280,7 @@ From its first robot in 2000 to dominating nearly 85% of global humanoid robot s
 
 📺 Lovnish Verma
 
-👁️ 63K • 👍 2K • 💬 90 • ⏱️ 0:40 • 4d ago
-
----
-
-**[Amazon Just Bought a Humanoid Robot Company… This Changes Everything](https://www.youtube.com/watch?v=jdoYFz7M90I)**
-
-Amazon just made a surprising move into humanoid robotics by acquiring Fauna Robotics, the company behind the Sprout robot.
-
-📺 DPCcars
-
-👁️ 2K • 👍 54 • 💬 6 • ⏱️ 3:18 • 6d ago
+👁️ 64K • 👍 2K • 💬 92 • ⏱️ 0:40 • 4d ago
 
 ---
 
