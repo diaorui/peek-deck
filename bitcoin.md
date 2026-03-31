@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-31T16:06:02.536364+00:00'
+updated: '2026-03-31T17:31:37.085964+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - news
-- videos
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 31, 2026 at 16:06 UTC  
+**Last Updated:** March 31, 2026 at 17:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,265.15
+### $68,094.52
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -6.3%  
-**30d:** -2.8%  
-**90d:** -24.8%  
-**1y:** -21.5%  
+**24h:** +2.1%  
+**7d:** -4.7%  
+**30d:** -1.2%  
+**90d:** -23.5%  
+**1y:** -20.2%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Everything's bleeding red today, bitcoin taking a proper beating All the weak holders are losing their minds. Media calling it a collapse as usual But step back and look at the bigger picture: - We're still working through post-halving dynamics - Corporate adoption and institutional money isn't dissapearing This is just how bitcoin works - flush out the scared money before the next run higher. If you actually believe in this thing long term, these drops are buying opportunities. Keep accumulating while everyone else panics
 
-3h ago
+4h ago
 
 ---
 
@@ -89,21 +89,21 @@ Everything's bleeding red today, bitcoin taking a proper beating All the weak ho
 
 https://preview.redd.it/t90261ey7csg1.png?width=1200&format=png&auto=webp&s=e4c0048cf406f8ead73b9e9feb3e7dcbc6c9fa82 90 million Americans with 401ks is trillions of dollars in potential capital. even a 1% allocation to bitcoin from that pool would be a demand shock like nothing we’ve seen.
 
-8h ago
-
----
-
-**[COLDCARD, built on open standards](https://www.reddit.com/r/Bitcoin/comments/1s8pn2d/coldcard_built_on_open_standards/)**
-
-One thing to love about COLDCARD is its commitment to open standards. You can pair it with the companion wallet of your choice. Seems like this should be the standard for all hardware wallets.
-
-1h ago
+9h ago
 
 ---
 
 **[Feels like we’re in one of those quiet Bitcoin phases again…](https://www.reddit.com/r/Bitcoin/comments/1s8nwf2/feels_like_were_in_one_of_those_quiet_bitcoin/)**
 
 Not gonna lie, this stretch feels like one of those periods where nothing crazy is happening on the surface but a lot is quietly building underneath. Price isn’t doing much to grab headlines, sentiment is split, and half the posts are either “we’re going to the moon tomorrow” or “it’s over.” Meanwhile Bitcoin just keeps running like normal. What stands out right now is big players don’t seem to be leaving, volatility feels kinda compressed, and retail interest isn’t euphoric at all which is usually when things get interesting. Feels like more people are focused on short term moves instead of long term positioning. This kind of “boring” phase usually doesn’t last. Not calling direction, I’m just stacking and staying patient. What’s everyone else doing right now?
+
+3h ago
+
+---
+
+**[COLDCARD, built on open standards](https://www.reddit.com/r/Bitcoin/comments/1s8pn2d/coldcard_built_on_open_standards/)**
+
+One thing to love about COLDCARD is its commitment to open standards. You can pair it with the companion wallet of your choice. Seems like this should be the standard for all hardware wallets.
 
 2h ago
 
@@ -113,7 +113,7 @@ Not gonna lie, this stretch feels like one of those periods where nothing crazy 
 
 Starting Monday, Square began automatically enabling Bitcoin payments for millions of eligible U.S. small businesses, according to a recent announcement. It is leveraging the Bitcoin Lightning Network and defaulting all merchant settlements to U.S. dollars. Notably, Square is rolling out Bitcoin acceptance with zero additional setup required from the merchants. Miles Suter, Block’s head of Bitcoin product, confirmed the deployment on X, noting that sellers who accept the cryptocurrency will receive fiat currency by default. “We’re making it easier for millions of businesses to accept bitcoin,” Suter stated. “This is how bitcoin as everyday money begins.” It is also worth noting that Square is waiving all processing fees on these transactions through the end of 2026. The sheer scale of the rollout is quite notable. It is targeting an eligible pool of roughly 4 million U.S. merchants that comprise 78% of Square's user base. Square’s infrastructure bypasses the base Bitcoin blockchain in favor of the Lightning Network. The Lightning Network operates as a "Layer 2" protocol built directly on top of the base chain. The Bitcoin blockchain (the main layer) gets engaged when a payment channel is closed. At that point, the network records the final net balance. Square is capable of delivering a checkout experience that can rival the speed of legacy credit cards. However, it is operating on an open, decentralized monetary network. David Marcus, CEO of Lightspark and former President of PayPal, described the integration as a potential “TCP/IP moment” for global financial infrastructure.
 
-🔗 [U.Today](https://u.today/bitcoin-lighting-gets-major-adoption-boost-in-us) • 18h ago
+🔗 [U.Today](https://u.today/bitcoin-lighting-gets-major-adoption-boost-in-us) • 20h ago
 
 ---
 
@@ -121,7 +121,7 @@ Starting Monday, Square began automatically enabling Bitcoin payments for millio
 
 On-chain data shows the Bitcoin mining Hashrate has seen a notable jump since the mid-March lows, a sign that miners have been coming back. Bitcoin Hashrate Has Retraced Much Of The Earlier Decline The “Hashrate” refers to an indicator that keeps track of the total amount of computing power that miners have connected to the […]
 
-🔗 [Bitcoin Insider](https://www.bitcoininsider.org/article/301080/bitcoin-miners-are-coming-back-hashrate-jumps-125-march-lows) • 10h ago
+🔗 [Bitcoin Insider](https://www.bitcoininsider.org/article/301080/bitcoin-miners-are-coming-back-hashrate-jumps-125-march-lows) • 11h ago
 
 ---
 
@@ -129,7 +129,7 @@ On-chain data shows the Bitcoin mining Hashrate has seen a notable jump since th
 
 I didn't start until early 2022 and only curled my lip at buying a digital currency a little bit before I caved and aped in. But I couldn't be happier now. Maybe if I made a little more money to help my stacking but aside from that pretty good. I hope everyone's looking forward to the summer.
 
-16h ago
+18h ago
 
 ---
 
@@ -137,7 +137,7 @@ I didn't start until early 2022 and only curled my lip at buying a digital curre
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-9h ago
+11h ago
 
 ---
 
@@ -145,7 +145,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Not your keys, not your Bitcoin HODL Don’t talk about how much Bitcoin you have Don’t lose your private key Don’t trade. And definitely do NOT use leverage Verify, don’t trust Run your own node Stay humble, stack sats Zoom out Bitcoin, not shitcoins
 
-16h ago
+17h ago
 
 ---
 
@@ -153,7 +153,7 @@ Not your keys, not your Bitcoin HODL Don’t talk about how much Bitcoin you hav
 
 I’m new to bitcoin , and im trying to find not sure the terminology. ( Exchange or Wallet ) im just wanting to buy bitcoin and be able to send it to someone . I’ve downloaded all the “mainstream” apps. Coinbase , Crypto etc , but its way to much verification, and im not a fan of putting my IDs on these apps . So long story shorts , what’s an app/wallet/exchange without all the verification. Where I can simply buy bitcoin and be able to send it to others bitcoin addresses. Yes, I know I have little knowledge, yes i could if simply looked it up, but I prefer more personalized opinions . Thanks again.
 
-1h ago
+2h ago
 
 ---
 
@@ -165,7 +165,7 @@ I’m new to bitcoin , and im trying to find not sure the terminology. ( Exchang
 
 Google Research said the necessary resources for quantum computers to break cryptocurrencies have seen a 20-fold reduction.
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -173,15 +173,15 @@ The Block • 8h ago
 
 The findings suggest attackers could one day steal bitcoin mid-transaction, challenging assumptions that the threat is decades away.
 
-CoinDesk • 11h ago
+CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin gets new expiration date thanks to Google researchers](https://mashable.com/article/google-research-bitcoin-cryptography-broken)**
+**[Google warns quantum could crack bitcoin faster than thought | CoinDesk Videos](https://www.coindesk.com/video/google-warns-quantum-could-crack-bitcoin-faster-than-thought)**
 
-Bitcoin needs to fix this in the next three years.
+Google’s Quantum AI team released a new whitepaper revealing that Bitcoin’s security could be compromised with significantly less computing power than previously assumed. The report suggests that it might only take 500,000 to crack the network and Bitcoin’s own Taproot upgrade might have made it easier to target transactions in real time. CoinDesk's Jennifer Sanasie hosts "CoinDesk Daily." | CoinDesk Videos
 
-Mashable • 2h ago
+CoinDesk • 31m ago
 
 ---
 
@@ -189,23 +189,7 @@ Mashable • 2h ago
 
 Rising U.S. real yields, especially on 10-year TIPS, pose a headwind to zero-yielding risk assets like bitcoin.
 
-CoinDesk • 9h ago
-
----
-
-**[Crypto check: How bitcoin & ethereum prices are moving](https://finance.yahoo.com/video/crypto-check-how-bitcoin--ethereum-prices-are-moving-154824864.html)**
-
-On this episode of Crypto Check, Yahoo Finance Senior Reporter Brooke DiPalma takes a look at names like Coinbase (COIN) and Robinhood (HOOD), as well as bitcoin's (BTC-USD) and ethereum's (ETH-USD) price action amid the latest Iran war developments.
-
-Yahoo Finance • 17m ago
-
----
-
-**[Google’s New Quantum Research Reignites Push to Harden Bitcoin](https://bitcoinmagazine.com/news/googles-quantum-research-harden-bitcoin)**
-
-Google’s quantum research is accelerating fears that Bitcoin’s cryptography may face a real timeline — not a theoretical one — forcing the network to race toward quantum-resistant upgrades.
-
-Bitcoin Magazine • 1h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -213,7 +197,15 @@ Bitcoin Magazine • 1h ago
 
 Bitcoin's March resilience may have been a relief rally within a broader crypto winter, according to Compass Point analyst Ed Engel.
 
-Yahoo Finance • 54m ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitfarms (BITF) Started Selling All of Its Bitcoin, Pivoting Fully to AI Infrastructure](https://bitcoinmagazine.com/news/bitfarms-bitf-selling-its-bitcoin)**
+
+Bitfarms confirmed that it is selling all its bitcoin on its balance sheet.
+
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -221,7 +213,7 @@ Yahoo Finance • 54m ago
 
 A deputy was dispatched to a crash where one driver didn't want an officer involved.
 
-Online Athens • 8h ago
+Online Athens • 9h ago
 
 ---
 
@@ -229,13 +221,19 @@ Online Athens • 8h ago
 
 The advancement of a key piece of crypto legislation was supposed to revive crypto from its doldrums—it didn't.
 
-Investopedia • 23h ago
+Investopedia • 1d ago
 
 ---
 
 **[Noisy Bitcoin mine shuts down in Washington County, TN](https://www.wjhl.com/news/local/noisy-bitcoin-mine-shuts-down-in-washington-county-tn/)**
 
-WJHL • 18h ago
+WJHL • 20h ago
+
+---
+
+**[MSTR Stock: Bitcoin Whale Is Wall Street's No. 1 Crush And No. 1 Stock Issuer. Coincidence?](https://www.investors.com/news/mstr-stock-bitcoin-whale-strategy-wall-street-price-targets-stock-issuance/)**
+
+Investor's Business Daily • 5h ago
 
 ---
 
@@ -245,7 +243,7 @@ WJHL • 18h ago
 
 **[KnexCoin (NEX) soft forked Bitcoin and now Quantum Ready](https://news.ycombinator.com/item?id=47589186)**
 
-⬆️ 2 • 💬 1 • 16m ago • [untraceablex.com](https://www.untraceablex.com)
+⬆️ 2 • 💬 1 • 1h ago • [untraceablex.com](https://www.untraceablex.com)
 
 ---
 
@@ -253,7 +251,7 @@ WJHL • 18h ago
 
 The first signing system where the private key is a physical key — and can still transact. Titanium. Not stored digitally. Not protected by firmware.
 
-⬆️ 2 • 💬 1 • 16h ago • [Frozen Security](https://frozensecurity.com/)
+⬆️ 2 • 💬 1 • 18h ago • [Frozen Security](https://frozensecurity.com/)
 
 ---
 
@@ -273,7 +271,15 @@ Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes
 
 **[Show HN: Lexe – Self-Custodial Lightning Nodes in TEEs, Python and Rust SDKs](https://news.ycombinator.com/item?id=47532761)**
 
-⬆️ 5 • 💬 1 • 4d ago • [blog.lexe.app](https://blog.lexe.app/public-launch/)
+⬆️ 5 • 💬 1 • 5d ago • [blog.lexe.app](https://blog.lexe.app/public-launch/)
+
+---
+
+**[Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel)](https://news.ycombinator.com/item?id=47541746)**
+
+runs multiple inputs through a script/function in parallel using bash coprocs - jkool702/forkrun
+
+⬆️ 14 • 💬 5 • 4d ago • [GitHub](https://github.com/jkool702/forkrun)
 
 ---
 
@@ -289,7 +295,7 @@ Agent-native inference engine with O(1) fork latency for tree-structured reasoni
 
 The water utility highlighted unsubstantiated health concerns.
 
-⬆️ 3 • 💬 0 • 3h ago • [Ars Technica](https://arstechnica.com/health/2026/03/water-utility-announces-its-ditching-fluoride-then-reveals-it-did-so-years-ago/)
+⬆️ 3 • 💬 0 • 4h ago • [Ars Technica](https://arstechnica.com/health/2026/03/water-utility-announces-its-ditching-fluoride-then-reveals-it-did-so-years-ago/)
 
 ---
 
@@ -309,7 +315,7 @@ The global economy didn't slowly weaken. It snapped. In just 72 hours, multiple 
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 214 • ⏱️ 48:32 • 16h ago
+👁️ 24K • 👍 2K • 💬 214 • ⏱️ 48:32 • 17h ago
 
 ---
 
@@ -319,7 +325,7 @@ Contact Congress: https://www.congress.gov/members/find-your-member BTC Conferen
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 202 • ⏱️ 9:58 • 16h ago
+👁️ 35K • 👍 2K • 💬 202 • ⏱️ 9:58 • 18h ago
 
 ---
 
@@ -365,7 +371,7 @@ New data shows the future of markets and crypto in general. Its important for bi
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 491 • 💬 29 • ⏱️ 2:16 • 15h ago
+👁️ 7K • 👍 491 • 💬 29 • ⏱️ 2:16 • 16h ago
 
 ---
 
@@ -375,7 +381,7 @@ iTrust Capital – $100 Bonus https://bit.ly/AaronBennett-iTrustCapital Into The
 
 📺 Aaron Bennett
 
-👁️ 4K • 👍 292 • 💬 32 • ⏱️ 8:00 • 6h ago
+👁️ 4K • 👍 292 • 💬 32 • ⏱️ 8:00 • 8h ago
 
 ---
 

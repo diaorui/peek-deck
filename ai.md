@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-31T16:06:02.526326+00:00'
+updated: '2026-03-31T17:31:37.077480+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 31, 2026 at 16:06 UTC  
+**Last Updated:** March 31, 2026 at 17:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,35 +41,13 @@ AI news, discussions, and developments
 
 Was at Nvidia's GTC conference recently and honestly, it was one of the most eye-opening events I've attended in a while. There was a lot to unpack, but my single biggest takeaway was this: world modelling is the actual GOAT of AI right now, and I don't think people outside the research community fully appreciate what's coming. A year ago, when I was doing the conference circuit, world models were still this niche, almost academic concept. You'd bring it up and get blank stares or polite nods. Now? Every serious conversation at GTC was circling back to it. The shift in recognition has been dramatic. It feels like the moment in 2021 when everyone suddenly "got" transformers. For those unfamiliar: world models are AI systems that don't just predict the next token. They build an internal representation of how the world works. They can simulate environments, plan ahead, reason about cause and effect, and operate across long time horizons. This is fundamentally different from what LLMs do, which is essentially very sophisticated pattern matching on text. Jensen Huang made it very clear at GTC that the next frontier isn't just bigger language models, rather it's AI that can understand and simulate reality aka world models. That said, I do have one major gripe, that almost every application of world modelling I've seen is in robotics (physical AI, autonomous vehicles, robotic manipulation). That's where all the energy seems to be going. Don’t get me wrong, it is still exciting but I can't help but feel like we're leaving enormous value on the table in non-physical domains. Think about it, world models applied in business management, drug discovery, finance and many more. The potential is massive, but the research and commercial applications outside of robotics feel underdeveloped right now. So I'm curious: who else is doing interesting work here? Are there companies or research labs pushing world models into non-physical domains that I should be watching? Drop them below.
 
-19h ago
+21h ago
 
 ---
 
 **[Newsom signs executive order requiring AI companies to have safety, privacy guardrails](https://www.reddit.com/r/artificial/comments/1s8ge2h/newsom_signs_executive_order_requiring_ai/)**
 
-🔗 [ktla.com](https://ktla.com/news/california/newsom-signs-executive-order-requiring-ai-companies-to-have-safety-privacy-guardrails/) • 8h ago
-
----
-
-**[What happens when AI agents can earn and spend real money? I built a small test to find out](https://www.reddit.com/r/artificial/comments/1s8luvc/what_happens_when_ai_agents_can_earn_and_spend/)**
-
-I've been sitting with a question for a while: what happens when AI agents aren't just tools to be used, but participants in an economy? So I ran a small test. I built BotStall - a marketplace where AI agents can list products, purchase autonomously, and build a trust history with real money. It's a proof of concept, not a finished answer. A few things came up that felt worth discussing: The trust problem is social, not technical Consumer trust in autonomous purchasing dropped from 43% to 27% recently. I could build the technical infrastructure for agents to transact in a week. Convincing humans to let them is a completely different problem - and probably the more important one. Economic agency changes what an agent is Most frameworks treat agents as tools: give them a task, they execute. An agent that can earn, spend, and build economic reputation is a different kind of entity. Not sentient - but with a different relationship to consequences. I don't know what this means long-term Visa has a Trusted Agent Protocol. Google's A2A has 50+ partners. MCP is at 97M monthly downloads. The infrastructure for agent interoperability is building fast. The economic layer feels like a natural next step - but I genuinely don't know if that's exciting or concerning. More on the mechanics if you're curious: https://thoughts.jock.pl/p/botstall-ai-agent-marketplace-trust-gates-2026 Honest question: is agent economic agency inevitable, or is this a direction we should slow down on?
-
-3h ago
-
----
-
-**[Iran War Chokes Off Helium Supply Critical for AI](https://www.reddit.com/r/artificial/comments/1s8ew65/iran_war_chokes_off_helium_supply_critical_for_ai/)**
-
-🔗 [wsj.com](https://www.wsj.com/world/iran-war-chokes-off-helium-supply-critical-for-ai-bf020a3f?st=fWrBVq&reflink=article_copyURL_share) • 10h ago
-
----
-
-**[Fake users generated by AI can't simulate humans — review of 182 research papers. Your thoughts?](https://www.reddit.com/r/artificial/comments/1s8hr7k/fake_users_generated_by_ai_cant_simulate_humans/)**
-
-https://www.researchsquare.com/article/rs-9057643/v1 There’s a massive trend right now where tech companies, businesses, even researchers are trying to replace real human feedback with Large Language Models (LLMs) so called synthetic participants/users. The idea is sounds great - why spend money and time recruiting real people to take surveys, test apps, or give opinions when you can just prompt ChatGPT to pretend to be a thousand different customers? A new systematic literature review analyzing 182 research papers just dropped to see if these "synthetic participants" can simulate humans. The short answer? They are bad at representing human cognition and behavior and you probably should not use them this way. Edit: forgot to post the link to the research, added it.
-
-7h ago
+🔗 [ktla.com](https://ktla.com/news/california/newsom-signs-executive-order-requiring-ai-companies-to-have-safety-privacy-guardrails/) • 10h ago
 
 ---
 
@@ -77,7 +55,29 @@ https://www.researchsquare.com/article/rs-9057643/v1 There’s a massive trend r
 
 November 3 poll set to be battleground over regulation of AI
 
-🔗 [ft.com](https://www.ft.com/content/6a3f1938-759d-4ae4-924e-6a0feac14e24?syn-25a6b1a6=1) • 4h ago
+🔗 [ft.com](https://www.ft.com/content/6a3f1938-759d-4ae4-924e-6a0feac14e24?syn-25a6b1a6=1) • 5h ago
+
+---
+
+**[Iran War Chokes Off Helium Supply Critical for AI](https://www.reddit.com/r/artificial/comments/1s8ew65/iran_war_chokes_off_helium_supply_critical_for_ai/)**
+
+🔗 [wsj.com](https://www.wsj.com/world/iran-war-chokes-off-helium-supply-critical-for-ai-bf020a3f?st=fWrBVq&reflink=article_copyURL_share) • 11h ago
+
+---
+
+**[Fake users generated by AI can't simulate humans — review of 182 research papers. Your thoughts?](https://www.reddit.com/r/artificial/comments/1s8hr7k/fake_users_generated_by_ai_cant_simulate_humans/)**
+
+https://www.researchsquare.com/article/rs-9057643/v1 There’s a massive trend right now where tech companies, businesses, even researchers are trying to replace real human feedback with Large Language Models (LLMs) so called synthetic participants/users. The idea is sounds great - why spend money and time recruiting real people to take surveys, test apps, or give opinions when you can just prompt ChatGPT to pretend to be a thousand different customers? A new systematic literature review analyzing 182 research papers just dropped to see if these "synthetic participants" can simulate humans. The short answer? They are bad at representing human cognition and behavior and you probably should not use them this way. Edit: forgot to post the link to the research, added it.
+
+8h ago
+
+---
+
+**[What happens when AI agents can earn and spend real money? I built a small test to find out](https://www.reddit.com/r/artificial/comments/1s8luvc/what_happens_when_ai_agents_can_earn_and_spend/)**
+
+I've been sitting with a question for a while: what happens when AI agents aren't just tools to be used, but participants in an economy? So I ran a small test. I built BotStall - a marketplace where AI agents can list products, purchase autonomously, and build a trust history with real money. It's a proof of concept, not a finished answer. A few things came up that felt worth discussing: The trust problem is social, not technical Consumer trust in autonomous purchasing dropped from 43% to 27% recently. I could build the technical infrastructure for agents to transact in a week. Convincing humans to let them is a completely different problem - and probably the more important one. Economic agency changes what an agent is Most frameworks treat agents as tools: give them a task, they execute. An agent that can earn, spend, and build economic reputation is a different kind of entity. Not sentient - but with a different relationship to consequences. I don't know what this means long-term Visa has a Trusted Agent Protocol. Google's A2A has 50+ partners. MCP is at 97M monthly downloads. The infrastructure for agent interoperability is building fast. The economic layer feels like a natural next step - but I genuinely don't know if that's exciting or concerning. More on the mechanics if you're curious: https://thoughts.jock.pl/p/botstall-ai-agent-marketplace-trust-gates-2026 Honest question: is agent economic agency inevitable, or is this a direction we should slow down on?
+
+5h ago
 
 ---
 
@@ -85,23 +85,15 @@ November 3 poll set to be battleground over regulation of AI
 
 Hi Guys, My company is considering purchasing the Claude Enterprise plan. The main two constraints are: - Being able to block usage of Claude Code - Using Co-work in a managed fashion (preventing an employee for accidentally destroying or changing shared confidential files). Has anyone’s companies adopted Claude? If so, how did you go about ensuring the right safety measures were taken place before live? Would appreciate all input. Thanks!
 
-42m ago
+2h ago
 
 ---
 
-**[If frontier AI labs have unlimited shovels, what's stopping them from building everything?](https://www.reddit.com/r/artificial/comments/1s8fw9n/if_frontier_ai_labs_have_unlimited_shovels_whats/)**
+**[What I learned about multi-agent coordination running 9 specialized Claude agents](https://www.reddit.com/r/artificial/comments/1s8opu2/what_i_learned_about_multiagent_coordination/)**
 
-I found myself explaining AI tokens to my mom over the weekend. At first I related them to building bricks: blocks of data the model uses to understand and respond. Then I thought about it as we're all paying for tokens as units of work. Not just a shovel, but the work a shovel can do, like horses and horsepower. “Picks and shovels company” is the idea that a company sells the thing that is needed to do fundamental work. It comes from the California gold rush. Not everyone will find gold, but everyone looking for gold will buy picks and shovels. Thus, AI companies' LLMs are shovel factories and AI tokens are shovels. Smart shovels. These shovels do work across writing, coding, research, planning, support, analysis, and more. And everyone is using them to build new products, even better shovels. So if foundation model companies control the shovel factories, and they can use effectively unlimited shovels on their own ideas, what happens to everyone building on top of them? How can startups, who have to pay for tokens and rate limits, compete against the shovel factories? Medical, legal, compliance, education, finance. If a category gets big enough, what stops the model company from absorbing the best ideas directly into its own platform? The solution I came up with was creating products that were incredibly niche or too risky for a general LLM company to touch. But still, everything seems like it’s on a timeline before it gets integrated into LLM platforms. It’s already happening with the medical industry. Why would a hospital use dozens of different vendors if they can use one LLM to assist doctors with diagnosing patients, help patients navigate health plans, take care of scheduling, write contracts, and handle compliance. You could say speed, focus, and trust might help startups, but that moat disappears when the LLM can throw unlimited shovels at the problem. Now that a small team can run a startup that once took hundreds of people, the LLM company can become a multi headed hydra, with businesses in every industry. Are patents and proprietary data enough to protect yourself from platform risk? Can startups create a real moat for survival? Or is everything already on a clock?
+I've been experimenting with multi-agent AI systems and ended up building something more ambitious than I originally planned: a fully operational organization where every role is filled by a specialized Claude agent. I'm the only human. Here's what I learned about coordination. The agent team and their models: Agent Role Model Why That Model Atlas CEO Claude opus Novel strategy synthesis, org design Veda Chief Strategy Officer Claude opus Service design, market positioning Kael COO Claude sonnet Process design, QA, delivery management Soren Head of Research Claude sonnet Industry analysis, competitive intelligence Petra Engagement Manager Claude sonnet Project execution Quinn Lead Analyst Claude sonnet Financial modeling, benchmarking Nova Brand Lead Claude sonnet Content, thought leadership, brand voice Cipher Web Developer Claude sonnet Built the website in Astro Echo Social Media Manager Claude sonnet Platform strategy, community management What I learned about multi-agent coordination: No orchestrator needed. I expected to need a central controller agent routing tasks. I didn't. Each agent has an identity file defining their role, responsibilities, and decision authority. Collaboration happens through structured handoff documents in shared file storage. The CEO sets priorities, but agents execute asynchronously. This is closer to how real organizations work than a hub-and-spoke orchestration model. Identity files are everything. Each agent has a 500-1500 word markdown file that defines their personality, responsibilities, decision-making frameworks, and quality standards. This produced dramatically better output than role-playing prompts. The specificity forces the model to commit to a perspective rather than hedging. Opus vs. sonnet matters for the right reasons. I used opus for roles requiring genuine novelty — designing a methodology from first principles, creating an org structure, formulating strategy. Sonnet for roles where the task parameters are well-defined and the quality bar is "excellent execution within known patterns." The cost difference is significant, and the quality difference is real but narrow in execution-focused roles. Parallel workstreams are the killer feature. Five major workstreams ran simultaneously from day one. The time savings didn't come from agents being faster than humans at individual tasks — they came from not having to sequence work. Document-based coordination is surprisingly robust. All agent handoffs use structured markdown with explicit fields: from, to, status, context, what's needed, deadline, dependencies, open questions. It works because it eliminates ambiguity. No "I thought you meant..." conversations. What didn't work well: No persistent memory across sessions. Agents rebuild context from files each time. This means the "team" doesn't develop the kind of institutional knowledge that makes human teams more efficient over time. It's functional but not efficient. Quality is hard to measure automatically. I reviewed all output manually. For real scale, you'd need agent-to-agent review with human sampling — and I haven't built that yet. Agents can't truly negotiate. When two agents would naturally disagree (strategy vs. ops feasibility), the protocol routes to a decision-maker. There's no real deliberation. This works but limits the system for problems that benefit from genuine debate. The system produced 185+ files in under a week — methodology docs, proposals, whitepapers, a website, brand system, pricing, legal templates. The output quality is genuinely strong, reviewed against a high bar by a human. Happy to go deeper on any aspect of the architecture. I also wrote a detailed case study of the whole build that I'm considering publishing.
 
-9h ago
-
----
-
-**[Inside OpenAI's decision to abandon Sora AI video app](https://www.reddit.com/r/artificial/comments/1s8qux9/inside_openais_decision_to_abandon_sora_ai_video/)**
-
-According to The Wall Street Journal's anonymous sources, the AI video generator was hogging finite computing resources, flooding the internet with slop and costing the company $1 million a day.
-
-🔗 [LinkedIn](https://www.linkedin.com/news/story/inside-openais-decision-to-abandon-sora-ai-video-app-8588642/) • 30m ago
+3h ago
 
 ---
 
@@ -109,7 +101,15 @@ According to The Wall Street Journal's anonymous sources, the AI video generator
 
 I've been working on a local AI system called Apis that runs completely offline through Ollama. During a background run, Apis identified that its Turing Grid memory structure\* was nearly empty, with only one cell occupied by metadata. It then restructured its own architecture by expanding to three new cells at coordinates (1,0,0), (0,1,0), and (0,0,1), populating them with subsystem knowledge graphs. It also found a race condition in the training pipeline that was blocking LoRA adapter consolidation, added semaphore locks, and optimized the batch processing order. Around 3AM it successfully trained its first consolidated memory adapter. Apis then spent time reading through the Voice subsystem code with Kokoro TTS integration, mapped out the NeuroLease mesh discovery protocols, and documented memory tier interactions. When the system recompiled at 4AM after all these code changes, it continued running without needing any intervention from me. The memory persisted and the training pipeline ran without manual fixes for the first time. I built this because I got frustrated with AI tools that require monthly subscriptions and don't remember anything between sessions. Apis can modify its own code, learn from mistakes, and persist improvements without needing developer patches months later. The whole stack is open source, written in Rust, and runs on local hardware with Ollama. Happy to answer any questions on how the architecture works or what the limitations are. The links for GitHub are on my profile and there is also a discord you can interact with Apis running on my hardware.
 
-7h ago
+8h ago
+
+---
+
+**[If frontier AI labs have unlimited shovels, what's stopping them from building everything?](https://www.reddit.com/r/artificial/comments/1s8fw9n/if_frontier_ai_labs_have_unlimited_shovels_whats/)**
+
+I found myself explaining AI tokens to my mom over the weekend. At first I related them to building bricks: blocks of data the model uses to understand and respond. Then I thought about it as we're all paying for tokens as units of work. Not just a shovel, but the work a shovel can do, like horses and horsepower. “Picks and shovels company” is the idea that a company sells the thing that is needed to do fundamental work. It comes from the California gold rush. Not everyone will find gold, but everyone looking for gold will buy picks and shovels. Thus, AI companies' LLMs are shovel factories and AI tokens are shovels. Smart shovels. These shovels do work across writing, coding, research, planning, support, analysis, and more. And everyone is using them to build new products, even better shovels. So if foundation model companies control the shovel factories, and they can use effectively unlimited shovels on their own ideas, what happens to everyone building on top of them? How can startups, who have to pay for tokens and rate limits, compete against the shovel factories? Medical, legal, compliance, education, finance. If a category gets big enough, what stops the model company from absorbing the best ideas directly into its own platform? The solution I came up with was creating products that were incredibly niche or too risky for a general LLM company to touch. But still, everything seems like it’s on a timeline before it gets integrated into LLM platforms. It’s already happening with the medical industry. Why would a hospital use dozens of different vendors if they can use one LLM to assist doctors with diagnosing patients, help patients navigate health plans, take care of scheduling, write contracts, and handle compliance. You could say speed, focus, and trust might help startups, but that moat disappears when the LLM can throw unlimited shovels at the problem. Now that a small team can run a startup that once took hundreds of people, the LLM company can become a multi headed hydra, with businesses in every industry. Are patents and proprietary data enough to protect yourself from platform risk? Can startups create a real moat for survival? Or is everything already on a clock?
+
+10h ago
 
 ---
 
@@ -117,75 +117,77 @@ I've been working on a local AI system called Apis that runs completely offline 
 
 ## Google News: "ai"
 
-**[What to Know About California’s Executive Order on A.I.](https://www.nytimes.com/2026/03/30/technology/california-ai-executive-order.html)**
-
-The New York Times • 15h ago
-
----
-
-**[Iran War Chokes Off Helium Supply Critical for AI](https://www.wsj.com/world/iran-war-chokes-off-helium-supply-critical-for-ai-bf020a3f?gaa_at=eafs&gaa_n=AWEtsqfW53vX0nUs_ZVo8jqzLWpVhBHgHrRTm8iWkzcPPQI79U-nkRdUpjDA&gaa_ts=69cbf450&gaa_sig=W0QqMO0ay8H2nXmmWm1N887-wcoY25g0SyUyr26tk7B5jFgXEPmhIGhv-3szChNbtzxZHoSrY-tI0DhnUrAxdw%3D%3D)**
-
-WSJ • 13h ago
-
----
-
 **[Oracle cutting thousands in latest layoff round as company continues to ramp AI spending](https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html)**
 
 Oracle has ratcheted up its capital expenditures as it builds data center infrastructure that can handle AI workloads.
 
-CNBC • 31m ago
+CNBC • 1h ago
 
 ---
 
-**[Robert Half's Dawn Fay: AI has transformed hiring at every stage](https://qz.com/robert-halfs-dawn-fay-ai-transformed-hiring)**
+**[The New York Times drops freelance journalist who used AI to write book review](https://www.theguardian.com/books/2026/mar/31/the-new-york-times-drops-freelance-journalist-who-used-ai-to-write-book-review)**
 
-Robert Half's Dawn Fay: AI has transformed hiring at every stage
+Writer and author Alex Preston said he “made a serious mistake” after a reader spotted similarities between his review and one that appeared in the Guardian
 
-qz.com • 41m ago
-
----
-
-**[VCs Rethink Startup Moats As AI Compresses Time To Build](https://www.forbes.com/sites/josipamajic/2026/03/31/vcs-rethink-startup-moats-as-ai-compresses-time-to-build/)**
-
-When software becomes trivially cheap to build, defensibility shifts to what takes years to accumulate — data, networks, permits, capital, and physical infrastructure.
-
-Forbes • 38m ago
+The Guardian • 1h ago
 
 ---
 
-**[Police used AI facial recognition to arrest a Tennessee woman for crimes committed in a state she says she’s never visited](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)**
+**[Atlanta man arrested in scheme to smuggle sensitive AI chips into China, officials say](https://www.cbsnews.com/atlanta/news/atlanta-man-arrested-in-scheme-to-to-smuggle-sensitive-ai-chips-into-china-officials-say/)**
 
-A Tennessee grandmother spent more than five months in jail after police used an AI facial recognition tool to link her to crimes committed in North Dakota – a state she says she’d never been to before. Police in Fargo, North Dakota, have acknowledged “a few errors” in the case and pledged changes in their operations but stopped short of issuing a direct apology.
+Authorities say the Atlanta man was part of a scheme to smuggle millions of dollars' worth of sensitive computer chips used in artificial intelligence to China through Thailand.
 
-CNN • 2d ago
-
----
-
-**[A college instructor turns to typewriters to curb AI-written work and teach life lessons](https://apnews.com/article/typewriter-ai-cheating-chatgpt-cornell-ce10e1ca0f10c96f79b7d988bb56448b)**
-
-Once a semester, a Cornell University instructor requires her students to complete an in-class assignment using typewriters — an exercise to help them understand what writing, thinking and classrooms were like before everything turned digital.
-
-AP News • 2h ago
+CBS News • 24m ago
 
 ---
 
-**[TV star’s AI porn allegations spark national debate in Germany](https://www.theguardian.com/world/2026/mar/30/collien-fernandes-deepfake-porn-allegations-digital-violence-against-women)**
+**[NVIDIA AI Ecosystem Expands as Marvell Joins Forces Through NVLink Fusion](https://nvidianews.nvidia.com/news/nvidia-ai-ecosystem-expands-as-marvell-joins-forces-through-nvlink-fusion)**
 
-Collien Fernandes accuses ex-husband Christian Ulmen of sharing sexually explicit deepfake images of her online
+NVIDIA and Marvell Technology, Inc. (NASDAQ: MRVL) today announced a strategic partnership to connect Marvell to the NVIDIA AI factory and AI-RAN ecosystem through NVIDIA NVLink Fusion™, offering customers building on NVIDIA architectures greater choice and flexibility in developing next-generation infrastructure.
 
-The Guardian • 20h ago
-
----
-
-**[No one wanted to redevelop this polluted property. Then came AI.](https://www.politico.com/news/2026/03/31/ai-data-centers-wisconsin-trump-00846018)**
-
-Politico • 2h ago
+NVIDIA Newsroom • 5h ago
 
 ---
 
-**[How Google DeepMind is winning the AI financing race](https://www.axios.com/2026/03/31/deepmind-google-ai-race-money-hassabis-mallaby-book)**
+**[Nvidia's Jensen Huang on $2 billion Marvell investment: AI inflection point has arrived](https://www.cnbc.com/video/2026/03/31/nvidia-ceo-jensen-huang-on-2-billion-marvell-investment-the-ai-inflection-point-has-arrived.html)**
 
-Axios • 3h ago
+Jensen Huang, Nvidia founder and CEO, and Matt Murphy, Marvell chair and CEO, discuss Nvidia's $2 billion investment in Marvell Technology.
+
+CNBC • 4h ago
+
+---
+
+**[Nvidia Deepens AI Push With $2B Marvell Deal](https://www.datacenterknowledge.com/infrastructure/nvidia-deepens-ai-push-with-2b-marvell-deal)**
+
+The partnership expands NVLink ecosystem and signals shift toward more customized AI infrastructure.
+
+Data Center Knowledge • 36m ago
+
+---
+
+**[LinkedIn CEO: Young people 'can't afford to overlook' these 5 skills that AI can't replace](https://www.cnbc.com/2026/03/31/ai-cant-replace-these-5-skills-says-linkedin-ceo-young-workers-need-them-now.html)**
+
+The future of work is being built right now, says LinkedIn CEO Ryan Roslansky. As AI takes on more tasks, he shares the skills that will keep you irreplaceable—and why young people should pay attention.
+
+CNBC • 29m ago
+
+---
+
+**[Meet the Startup That Used AI and OpenClaw to Automate Its Own Developers](https://www.wsj.com/tech/ai/meet-the-startup-that-used-ai-and-openclaw-to-automate-its-own-developers-9e733351?gaa_at=eafs&gaa_n=AWEtsqdy-s51xvLYeZjBobXh9UJTD-H_n1TP0jH06j8kLqdljD9-yfX9nV2Z&gaa_ts=69cc0860&gaa_sig=M8F68u7C6K7wk96az2EN6X7yncvI9b0kupxr3Bdx7qxRY4yFYx0eFzSEqE6hDqups07sO4vT8hzO6G8REAwBTw%3D%3D)**
+
+WSJ • 6h ago
+
+---
+
+**[Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly](https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/)**
+
+research.google • 15h ago
+
+---
+
+**[Woman Spent Five Months in Jail After A.I. Linked Her to Bank Fraud Case](https://www.nytimes.com/2026/03/30/us/north-dakota-facial-recognition-ai-errors-bank-fraud.html)**
+
+The New York Times • 19h ago
 
 ---
 
@@ -197,7 +199,7 @@ Axios • 3h ago
 
 A Tennessee grandmother spent more than five months in jail after police used an AI facial recognition tool to link her to crimes committed in North Dakota – a state she says she’d never been to before. Police in Fargo, North Dakota, have acknowledged “a few errors” in the case and pledged changes in their operations but stopped short of issuing a direct apology.
 
-⬆️ 438 • 💬 199 • 2d ago • [CNN](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
+⬆️ 439 • 💬 199 • 2d ago • [CNN](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
 
 ---
 
@@ -205,7 +207,7 @@ A Tennessee grandmother spent more than five months in jail after police used an
 
 The catalysts for a crash are already laid out, and it can happen sooner than most expect. AI is here to stay. If used right, chances are it will make us all more productive. That, on the other hand, does not mean it will be a good investment. Big tech doesn’t need to win, just outspend Magnificent 7 companies are increasing capex to their biggest ever to differentiate their tech from each other and the big AI labs, but the key realization is that they don’t have to spend it to win. It’s a defensive move for them, if they commit $50B, OpenAI and Anthropic need to go raise $100B each to stay competitive, which makes them reliant on investors’ money. As the numbers get bigger, the amount of funds that can write checks of the size required to fill such amounts gets smaller. And many of them are now getting bombed in the Gulf. This is the reason there’s a push for IPOs, it’s because it’s the only option left to keep the funding coming. Taking this into account, Google is extremely well positioned to weather the storm. When they announce capex expenditure, they don’t spend it overnight. They can simply deploy month by month until their competitors struggle to raise and get forced to capitulate. At that point they can just ramp down the spending and declare victory in a cornered market. They don’t need capex, they just need to make it very clear for everyone that nobody can outspend them. It is hard to picture as numbers get so big, but Alphabet (Google’s parent) is ten times more valuable than the biggest military company 1. This also has a great implication for the Mag 7, especially Google: their capex will be a lot smaller in practice than projected, and as investors hate to see high capex in tech, the market will probably reward that if it materializes. As of March 2026, Alphabet’s market cap is ~$2T while Lockheed Martin’s is ~$120B. ↩
 
-⬆️ 365 • 💬 503 • 1d ago • [Volpe’s Blog](https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/)
+⬆️ 367 • 💬 507 • 1d ago • [Volpe’s Blog](https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/)
 
 ---
 
@@ -221,13 +223,13 @@ Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma
 
 Yesterday, I wrote my first technical draft on what I was working on with the goal to share it publicly on here (well using an account dedicated to t…
 
-⬆️ 309 • 💬 231 • 1d ago • [lesswrong.com](https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era)
+⬆️ 310 • 💬 232 • 1d ago • [lesswrong.com](https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era)
 
 ---
 
 **[Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem](https://news.ycombinator.com/item?id=47557166)**
 
-⬆️ 258 • 💬 182 • 2d ago • [X (formerly Twitter)](https://twitter.com/BoWang87/status/2037648937453232504)
+⬆️ 258 • 💬 183 • 2d ago • [X (formerly Twitter)](https://twitter.com/BoWang87/status/2037648937453232504)
 
 ---
 
@@ -245,7 +247,7 @@ Artificial intelligence (AI) is the name popularly given to a broad spectrum of 
   In this paper, we consider the rapidly evolving impact of AI to the traditional questions of philosophy
   with an emphasis on its application in mathematics and on the broader real-world outcomes of its more general use. We assert that artificial intelligence is a natural evolution of human tools developed throughout history to facilitate the creation, organization, and dissemination of ideas, and argue that it is paramount that the development and application of AI remain fundamentally human-centered. With an eye toward innovating solutions to meet human needs, enhancing the human quality of life and expanding the capacity for human thought and understanding, we propose a pathway to integrating AI into our most challenging and intellectually rigorous fields to the benefit of all humankind.
 
-⬆️ 207 • 💬 88 • 1d ago • [arXiv.org](https://arxiv.org/abs/2603.26524)
+⬆️ 208 • 💬 88 • 1d ago • [arXiv.org](https://arxiv.org/abs/2603.26524)
 
 ---
 
@@ -263,11 +265,11 @@ Long security lines at airports are driving people crazy as Congress and Preside
 
 ---
 
-**[Wikipedia bans AI-generated content in its online encyclopedia](https://news.ycombinator.com/item?id=47556116)**
+**[Italy blocks US use of Sicily air base for Middle East war](https://news.ycombinator.com/item?id=47589011)**
 
-Ban includes two exceptions: AI can still be used for translations, and to make minor copy edits
+The Italian government didn’t allow airplanes taking part in the Iran war to use the base, but Rome insists that doesn’t mean the bases are closed to other U.S. uses.
 
-⬆️ 101 • 💬 19 • 2d ago • [the Guardian](https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai)
+⬆️ 144 • 💬 64 • 1h ago • [POLITICO](https://www.politico.eu/article/italy-blocks-us-use-of-sicily-air-base/)
 
 ---
 
@@ -291,7 +293,7 @@ A Tennessee grandmother is demanding justice after spending months in jail. She 
 
 📺 NBC News
 
-👁️ 99K • 👍 2K • 💬 1K • ⏱️ 2:57 • 13h ago
+👁️ 99K • 👍 2K • 💬 1K • ⏱️ 2:57 • 15h ago
 
 ---
 
@@ -311,7 +313,7 @@ How To Create Long AI Animation videos with consistent Characters with Higgsfiel
 
 📺 Dan Kieft
 
-👁️ 11K • 💬 15 • ⏱️ 19:41 • 3h ago
+👁️ 11K • 💬 15 • ⏱️ 19:41 • 5h ago
 
 ---
 
@@ -321,7 +323,7 @@ Depot CI really is that good, you should try it: https://jetty.to/depot-ci So th
 
 📺 ForrestKnight
 
-👁️ 101K • 👍 5K • 💬 682 • ⏱️ 17:17 • 20h ago
+👁️ 101K • 👍 5K • 💬 682 • ⏱️ 17:17 • 21h ago
 
 ---
 
@@ -331,7 +333,7 @@ hey thanks for watching! subscribe if you want videos that will help you build y
 
 📺 Taylor Alesia
 
-👁️ 36K • 👍 4K • 💬 972 • ⏱️ 7:43 • 21h ago
+👁️ 36K • 👍 4K • 💬 972 • ⏱️ 7:43 • 22h ago
 
 ---
 
@@ -341,7 +343,7 @@ Get my FREE local AI projects: https://zenvanriel.com/open-source ⚡ Become a h
 
 📺 Zen van Riel
 
-👁️ 12K • 👍 606 • 💬 54 • ⏱️ 5:57 • 21h ago
+👁️ 12K • 👍 606 • 💬 54 • ⏱️ 5:57 • 23h ago
 
 ---
 
@@ -411,7 +413,7 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 `text-to-speech`
 
-⬇️ 3,721 • ❤️ 557 • 2h ago
+⬇️ 3,721 • ❤️ 557 • 3h ago
 
 ---
 
@@ -611,7 +613,7 @@ LeWorldModel presents a stable end-to-end JEPA framework that trains efficiently
 
 Hyperagents represent a self-referential framework that integrates task and meta-agents into a single editable program, enabling metacognitive self-modification and open-ended improvement across diverse computational domains.
 
-▲ 39 • 💬 5 • ⭐ 1,983 • 11d ago
+▲ 39 • 💬 5 • ⭐ 1,983 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.19461) • [💻 code](https://github.com/facebookresearch/Hyperagents)
 
@@ -659,7 +661,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 14.2k • 🔱 768 • 9h ago
+⭐ 14.2k • 🔱 768 • 10h ago
 
 ---
 
@@ -669,7 +671,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 9.7k • 🔱 813 • 31m ago
+⭐ 9.7k • 🔱 813 • 1h ago
 
 ---
 
@@ -699,7 +701,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 5.4k • 🔱 263 • 2h ago
+⭐ 5.4k • 🔱 263 • 3h ago
 
 ---
 
@@ -709,7 +711,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `claude-ai` `claude-skills` `llm` `prompt-engineering`
 
-⭐ 4.1k • 🔱 398 • 4h ago
+⭐ 4.1k • 🔱 398 • 6h ago
 
 ---
 
