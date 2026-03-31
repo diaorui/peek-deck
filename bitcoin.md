@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-31T02:30:58.539279+00:00'
+updated: '2026-03-31T05:10:18.689601+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- news
 - social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 31, 2026 at 02:30 UTC  
+**Last Updated:** March 31, 2026 at 05:10 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,853.10
+### $67,619.16
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** -4.6%  
-**30d:** -1.1%  
-**90d:** -23.5%  
-**1y:** -20.2%  
+**24h:** +0.4%  
+**7d:** -5.3%  
+**30d:** -1.8%  
+**90d:** -24.0%  
+**1y:** -20.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1360.00B
+**Market Cap:** $1350.82B
 Rank #1
 
-**Circulating Supply:** 20,009,356 BTC
+**Circulating Supply:** 20,009,381 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--46.1%
+-46.5%
 
 **All-Time Low:** $67.81
-+100155.1%
++99439.9%
 
 ---
 
@@ -81,15 +81,7 @@ Rank #1
 
 Starting Monday, Square began automatically enabling Bitcoin payments for millions of eligible U.S. small businesses, according to a recent announcement. It is leveraging the Bitcoin Lightning Network and defaulting all merchant settlements to U.S. dollars. Notably, Square is rolling out Bitcoin acceptance with zero additional setup required from the merchants. Miles Suter, Block’s head of Bitcoin product, confirmed the deployment on X, noting that sellers who accept the cryptocurrency will receive fiat currency by default. “We’re making it easier for millions of businesses to accept bitcoin,” Suter stated. “This is how bitcoin as everyday money begins.” It is also worth noting that Square is waiving all processing fees on these transactions through the end of 2026. The sheer scale of the rollout is quite notable. It is targeting an eligible pool of roughly 4 million U.S. merchants that comprise 78% of Square's user base. Square’s infrastructure bypasses the base Bitcoin blockchain in favor of the Lightning Network. The Lightning Network operates as a "Layer 2" protocol built directly on top of the base chain. The Bitcoin blockchain (the main layer) gets engaged when a payment channel is closed. At that point, the network records the final net balance. Square is capable of delivering a checkout experience that can rival the speed of legacy credit cards. However, it is operating on an open, decentralized monetary network. David Marcus, CEO of Lightspark and former President of PayPal, described the integration as a potential “TCP/IP moment” for global financial infrastructure.
 
-🔗 [U.Today](https://u.today/bitcoin-lighting-gets-major-adoption-boost-in-us) • 5h ago
-
----
-
-**[Bitcoin - The 10 Commandments](https://www.reddit.com/r/Bitcoin/comments/1s87du9/bitcoin_the_10_commandments/)**
-
-Not your keys, not your Bitcoin HODL Don’t talk about how much Bitcoin you have Don’t lose your private key Don’t trade. And definitely do NOT use leverage Verify, don’t trust Run your own node Stay humble, stack sats Zoom out Bitcoin, not shitcoins
-
-2h ago
+🔗 [U.Today](https://u.today/bitcoin-lighting-gets-major-adoption-boost-in-us) • 7h ago
 
 ---
 
@@ -97,7 +89,15 @@ Not your keys, not your Bitcoin HODL Don’t talk about how much Bitcoin you hav
 
 I didn't start until early 2022 and only curled my lip at buying a digital currency a little bit before I caved and aped in. But I couldn't be happier now. Maybe if I made a little more money to help my stacking but aside from that pretty good. I hope everyone's looking forward to the summer.
 
-3h ago
+5h ago
+
+---
+
+**[Bitcoin - The 10 Commandments](https://www.reddit.com/r/Bitcoin/comments/1s87du9/bitcoin_the_10_commandments/)**
+
+Not your keys, not your Bitcoin HODL Don’t talk about how much Bitcoin you have Don’t lose your private key Don’t trade. And definitely do NOT use leverage Verify, don’t trust Run your own node Stay humble, stack sats Zoom out Bitcoin, not shitcoins
+
+5h ago
 
 ---
 
@@ -105,13 +105,13 @@ I didn't start until early 2022 and only curled my lip at buying a digital curre
 
 just wondering what everyone's timeline looks like for actually cashing out or if you think btc will eventually replace regular money completely? personally im not touching my stack for like 25+ years minimum, figure by then either ill be rich or it'll be worthless lol. between my doordash runs and game dev work i keep throwing whatever i can spare at it but never plan to sell anytime soon what about you all, got a specific year in mind or just riding it til the wheels fall off?
 
-9h ago
+12h ago
 
 ---
 
 **[Applying for a job during the bear market](https://www.reddit.com/r/Bitcoin/comments/1s7nly6/applying_for_a_job_during_the_bear_market/)**
 
-15h ago
+17h ago
 
 ---
 
@@ -119,7 +119,7 @@ just wondering what everyone's timeline looks like for actually cashing out or i
 
 when bitcoin hovers right at a previous cycle's all-time high instead of getting slapped down, it shows that buyers are stepping up and easily eating all the sell pressure. grinding sideways at the ultimate ceiling builds a massive launchpad for price discovery, because once it breaks through, there is zero historical resistance left to hold it back. with the post-halving supply shock in full effect, holding this exact line has historically been the ultimate springboard for a parabolic run.
 
-18h ago
+21h ago
 
 ---
 
@@ -127,7 +127,7 @@ when bitcoin hovers right at a previous cycle's all-time high instead of getting
 
 Hi all, we just hit a brand new all-time-high on the 200 week moving average. Just like every day in the past 14 years. Remember that this is a marathon. Cut the short term noise!
 
-15h ago
+18h ago
 
 ---
 
@@ -135,7 +135,7 @@ Hi all, we just hit a brand new all-time-high on the 200 week moving average. Ju
 
 People are still quoting CPI like it’s gospel… why? CPI is a lagging, curated basket that gets adjusted every time reality gets uncomfortable. Substitutions, hedonic adjustments, weighting changes, all designed to smooth the numbers. Meanwhile: M2 money supply exploded post-2020 Asset prices went vertical Cost of living didn’t “2-3%” it jumped And we’re supposed to believe inflation is “under control”? You don’t measure inflation with a shopping list. You measure it with money supply expansion. More dollars chasing the same goods = prices go up. It’s not complicated. CPI exists to make monetary policy look responsible. That’s it. If you actually want a hedge against real inflation, you don’t hold dollars. You hold scarce assets. Bitcoin didn’t appear out of nowhere, it’s a response to this exact system.
 
-6h ago
+8h ago
 
 ---
 
@@ -143,15 +143,15 @@ People are still quoting CPI like it’s gospel… why? CPI is a lagging, curate
 
 I’ve been getting deeper into Bitcoin lately, and I’m starting to notice a gap between how it’s supposed to work (as a form of money) and how people actually use it. Most of what I see is people holding long term, not really spending it unless there’s a specific reason. At the same time, there are tools now that make spending easier than before. So I’m curious how people here personally approach it do you ever actually use it when you can, or do you see it more as something you just accumulate and leave alone?
 
-6h ago
+9h ago
 
 ---
 
-**[Bitcoin-saurus is prepping for Upril!](https://www.reddit.com/r/Bitcoin/comments/1s7q8ue/bitcoinsaurus_is_prepping_for_upril/)**
+**[Made my own seed phrase](https://www.reddit.com/r/Bitcoin/comments/1s87mqm/made_my_own_seed_phrase/)**
 
-Lets go!
+Printed out the BIP 39 2048 word list. cut it all up (took a fucking while) but now it’s all done. chose my 23 words and had seed signer calculate the 24th. originally wanted to do dice but still was paranoid to trust its math… even after verifying several sets of rolls on ian coleman’s website. Mind you I also verified seedsigner os before running it on the seedsigner hardware. this should be the best trustless way to generate a seed phrase as you generate 23 words even if the seed signer math screws you somehow (you still choose from a limited amount of checksums for the 24th word). No better way to generate your own seed phrase… 2048 words in a hat over everything else.
 
-13h ago
+5h ago
 
 ---
 
@@ -159,49 +159,49 @@ Lets go!
 
 ## Google News: "bitcoin"
 
-**[God and bitcoin: Why some Christians are going all in on cryptocurrency](https://www.nbcnews.com/tech/crypto/god-bitcoin-christians-pitch-crypto-church-rcna264787)**
+**[Nearly half of all circulating bitcoin is underwater as long-term holders sell at a loss](https://www.coindesk.com/markets/2026/03/30/nearly-half-of-all-circulating-bitcoin-is-underwater-as-long-term-holders-sell-at-a-loss)**
 
-From churches allowing congregants to tithe with digital coins to blogs promoting bitcoin as biblically sound, there’s an emerging Christian crypto subculture.
+Nearly half of all bitcoin is now trading at a loss, with the Bitcoin Impact Index surging to 57.4, indicating high stress levels.
 
-NBC News • 2d ago
-
----
-
-**[Bitcoin Flashes 'Warning Sign' With Nearly Half of BTC Supply Sitting at a Loss: Report](https://decrypt.co/362797/bitcoin-warning-sign-nearly-half-btc-supply-sitting-loss)**
-
-Almost half of the Bitcoin supply is sitting at a loss, analysts said, as the top crypto asset remains about 47% off its all-time high.
-
-Decrypt • 6h ago
+CoinDesk • 15h ago
 
 ---
 
-**[Trump family BTC firm builds 7,000 BTC treasury in under seven months](https://www.coindesk.com/markets/2026/03/30/trump-backed-american-bitcoin-hits-7-000-btc-as-holdings-expand-rapidly)**
+**[Bitcoin edges up to above $66.5k even as Iran war continues to escalate](https://www.investing.com/news/cryptocurrency-news/bitcoin-edges-up-to-67k-with-iran-war-escalation-in-focus-4586827)**
 
-Satoshis per share climbs past 660, reinforcing rapid treasury expansion since Nasdaq debut.
-
-CoinDesk • 9h ago
+Investing.com • 6h ago
 
 ---
 
-**[Key facts: Bitcoin draws institutional inflows; on-chain shows weakness](https://www.tradingview.com/news/tradingview:d5322f2881b87:0-key-facts-bitcoin-draws-institutional-inflows-on-chain-shows-weakness/)**
+**['More room to fall': Bitcoin trades near $67,000 as US-Iran deadlock persists](https://www.theblock.co/post/395588/bitcoin-trades-near-66500-iran-deadlock)**
 
-TradingView • 2h ago
+Analysts said the prolonged U.S.-Iran conflict keeps inflation fears elevated, weighing on crypto investor sentiment.
 
----
-
-**[Senator Lummis introduces another Bitcoin bill amid price crash](https://sg.finance.yahoo.com/news/senator-lummis-introduces-another-bitcoin-001806223.html)**
-
-On March 30, U.S. Senators Cynthia Lummis (R-Wyo.) and Bill Cassidy (R-LA) introduced the "Mined in America Act" to boost the mining of digital assets in the United States and codify President Donald Trump’s executive order to establish a strategic Bitcoin reserve. The ...
-
-Yahoo Finance Singapore • 2h ago
+The Block • 1d ago
 
 ---
 
-**[Peter Brandt, Polymarket traders don’t see new Bitcoin highs this year](https://www.tradingview.com/news/cointelegraph:05f84544d094b:0-peter-brandt-polymarket-traders-don-t-see-new-bitcoin-highs-this-year/)**
+**[Bitcoin rises as Trump says U.S. in talks with 'new regime' in Iran, threatens oil infrastructure if deal fails](https://www.coindesk.com/markets/2026/03/30/bitcoin-jumps-as-trump-says-u-s-in-talks-with-new-regime-in-iran-threatens-oil-infrastructure-if-deal-fails)**
 
-It could be more than a year before Bitcoin regains its all-time high of $126,100, recorded in October last year, according to veteran trader Peter Brandt.“I do not see a new price high in 2026,” Brandt told Cointelegraph. “Not until maybe the second quarter of 2027,” he said, though he also acknow…
+Trump said "great progress" had been made toward ending the war, but warned the U.S. would "obliterate" Iran's power plants, oil wells and Kharg Island if a deal isn't reached shortly.
 
-TradingView • 2h ago
+CoinDesk • 13h ago
+
+---
+
+**[After Crashing 45% in 180 Days, Is Bitcoin Still a Buy?](https://www.fool.com/investing/2026/03/30/after-crashing-45-in-180-days-is-bitcoin-still-a-b/)**
+
+Bitcoin is the leading cryptocurrency, and it has been falling hard; be careful if you're considering buying any.
+
+The Motley Fool • 55m ago
+
+---
+
+**[Bitcoin’s Taproot could make quantum attacks easier than expected, new Google research says](https://www.coindesk.com/markets/2026/03/31/bitcoin-s-taproot-could-make-quantum-attacks-easier-than-expected-new-google-research-says)**
+
+The findings suggest attackers could one day steal bitcoin mid-transaction, challenging assumptions that the threat is decades away.
+
+CoinDesk • 11m ago
 
 ---
 
@@ -209,29 +209,29 @@ TradingView • 2h ago
 
 The advancement of a key piece of crypto legislation was supposed to revive crypto from its doldrums—it didn't.
 
-Investopedia • 10h ago
+Investopedia • 12h ago
 
 ---
 
-**[Bitcoin, XRP Prices Rise Today. Why Cryptos Are Havens Once Again.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-cryptos-ffbcc0ef?gaa_at=eafs&gaa_n=AWEtsqcAPFe2SmKD5BASEEBsUuedqg7XBiDzs0E9CNiiEfGXSw_zqHEntFXB&gaa_ts=69cb354c&gaa_sig=t9a6A6OuwRTuxiU1G33IYmQoXDJbu6dn_kaZop669g9kaSk1IruDis8lF3IXC-7SuGfAPisQww2G495hmTUUew%3D%3D)**
+**[Strategy Appears To Have Paused Its Bitcoin Purchases](https://finance.yahoo.com/markets/crypto/articles/strategy-appears-paused-bitcoin-purchases-130200847.html)**
 
-Barron's • 10h ago
+Serial Bitcoin (CRYPTO: $BTC) acquirer Strategy (NASDAQ: $MSTR) appears to have paused its purchases of the largest...
 
----
-
-**[XRP Price Alert: Expert Predicts $0.80 On Bitcoin’s Potential Retreat To $60,000](https://www.tradingview.com/news/newsbtc:91b24888b094b:0-xrp-price-alert-expert-predicts-0-80-on-bitcoin-s-potential-retreat-to-60-000/)**
-
-The XRP price traded at around $1.30 on Monday as markets consolidated and Bitcoin (BTC) fought to hold above $67,000, but the calm belies meaningful downside risk if BTC revisits its key support at $60,000, according to market analyst Sam Daodu.Key Levels For XRP PriceIn his latest report, Daodu w…
-
-TradingView • 7h ago
+Yahoo Finance • 16h ago
 
 ---
 
-**[Crypto's quantum threat is real and its driving diverging strategies across Bitcoin, Ethereum, Solana](https://www.coindesk.com/tech/2026/03/28/here-s-how-bitcoin-ethereum-and-other-networks-are-preparing-for-the-looming-quantum-threat)**
+**[Strategy skips a week of bitcoin purchases for the first time this year](https://www.marketwatch.com/story/strategy-skips-a-week-of-bitcoin-purchases-for-the-first-time-this-year-81ba10ec?gaa_at=eafs&gaa_n=AWEtsqd3SwjU-Fz2Tn9GbTe79yT2WPyGzoKMsrrmqAqHP4V_hub2F0JFtDeY&gaa_ts=69cb5a9f&gaa_sig=lk9HMBggpsO0FZTCBq0dPvmuEy18Kkm3O9n5yD6YIDUoqHDA2oCYb_qJAj0Yss21U1rAJ57mVlubLEOKo7VjPQ%3D%3D)**
 
-Across many of the most well-known ecosystems like Bitcoin, Ethereum, and Solana, responses are diverging along familiar lines: what to do on social consensus and technical iteration, and community members are split between caution and acceleration.
+MarketWatch • 12h ago
 
-CoinDesk • 2d ago
+---
+
+**[Strategy makes no bitcoin purchases in prior week (MSTR:NASDAQ)](https://seekingalpha.com/news/4570167-strategy-makes-no-bitcoin-purchases-in-prior-week)**
+
+Strategy (MSTR) on Monday said it did not purchase any bitcoin or sell any shares under its at-the-market program during the period between March 23 and March 29.
+
+Seeking Alpha • 16h ago
 
 ---
 
@@ -243,7 +243,7 @@ CoinDesk • 2d ago
 
 The complete workflow: unsigned transaction, air gap transfer, offline signing, broadcast. Plus PSBT, Dark Skippy, and the key-at-rest problem.
 
-⬆️ 6 • 💬 3 • 7h ago • [Frozen Security](https://frozensecurity.com/blog/how-offline-bitcoin-signing-works/)
+⬆️ 6 • 💬 3 • 10h ago • [Frozen Security](https://frozensecurity.com/blog/how-offline-bitcoin-signing-works/)
 
 ---
 
@@ -259,7 +259,7 @@ Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes
 
 The first signing system where the private key is a physical key — and can still transact. Titanium. Not stored digitally. Not protected by firmware.
 
-⬆️ 1 • 💬 0 • 3h ago • [Frozen Security](https://frozensecurity.com/)
+⬆️ 1 • 💬 0 • 5h ago • [Frozen Security](https://frozensecurity.com/)
 
 ---
 
@@ -279,7 +279,7 @@ The first signing system where the private key is a physical key — and can sti
 
 Agent-native inference engine with O(1) fork latency for tree-structured reasoning - BioInfo/dendrite
 
-⬆️ 3 • 💬 1 • 12h ago • [GitHub](https://github.com/BioInfo/dendrite)
+⬆️ 3 • 💬 1 • 14h ago • [GitHub](https://github.com/BioInfo/dendrite)
 
 ---
 
@@ -299,47 +299,17 @@ The global economy didn't slowly weaken. It snapped. In just 72 hours, multiple 
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 784 • 💬 86 • ⏱️ 48:32 • 2h ago
+👁️ 10K • 👍 1K • 💬 128 • ⏱️ 48:32 • 5h ago
 
 ---
 
-**[🚨 BTC &amp; ETH: SELL ALL ASAP &amp; RUN!!!!!! (New disturbing data!)](https://www.youtube.com/watch?v=6bWLOUY6xAM)**
+**[Bitcoin, Gold &amp; Energy: The Next Massive Wealth Shift](https://www.youtube.com/watch?v=M3yac-RkXJA)**
 
-New data shows the future of markets and crypto in general. Its important for bitcoin, ethereum and so on. BEWARE!
+Larry McDonald is a New York Times bestselling author and founder of the Bear Traps Report. In this conversation, we discuss his ...
 
-📺 Thomas Kralow
+📺 Anthony Pompliano
 
-👁️ 17K • 👍 2K • 💬 75 • ⏱️ 11:48 • 15h ago
-
----
-
-**[FINAL WARNING to ALL Crypto Holders!! (I will delete this in 24 hours)](https://www.youtube.com/watch?v=hzfc05Bphkk)**
-
-If you hold Bitcoin or Ethereum... watch this! (alert!) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC ...
-
-📺 Altcoin Daily
-
-👁️ 47K • 👍 3K • 💬 297 • ⏱️ 9:24 • 1d ago
-
----
-
-**[Is The Bitcoin Winter Over? | Why a Violent Market Crash Could Already be in Motion!](https://www.youtube.com/watch?v=vtU0VTbZSU0)**
-
-The market looks calm on the surface but the cracks are getting worse. From global conflict to gold selloffs and debt stress, the ...
-
-📺 Simply Bitcoin
-
-👁️ 21K • 👍 1K • 💬 155 • ⏱️ 12:24 • 1d ago
-
----
-
-**[Bitcoin Will Drop Below $50K Unless... [Watch Today]](https://www.youtube.com/watch?v=JYDu3fPFI2w)**
-
-Bitcoin is starting to lose strength as it moves back in line with broader risk markets, and the structure is beginning to show cracks.
-
-📺 Crypto Banter
-
-👁️ 16K • 👍 1K • 💬 25 • ⏱️ 14:36 • 12h ago
+👁️ 9K • 👍 414 • 💬 6 • ⏱️ 43:00 • 7h ago
 
 ---
 
@@ -349,17 +319,47 @@ Ledger CEO Pascal Gauthier discusses Bitcoin's price decline, volatility across 
 
 📺 Fox Business Clips
 
-👁️ 36K • 👍 895 • 💬 326 • ⏱️ 9:10 • 12h ago
+👁️ 40K • 👍 986 • 💬 375 • ⏱️ 9:10 • 15h ago
 
 ---
 
-**[Bitcoin Faces Massive Macro Shift As Global Chaos Worsens!](https://www.youtube.com/watch?v=aKeDsLCSWCk)**
+**[FINAL WARNING to ALL Crypto Holders!! (I will delete this in 24 hours)](https://www.youtube.com/watch?v=hzfc05Bphkk)**
 
-Bitcoin #Crypto #Finance Bitcoin may be entering its biggest macro shift yet as cracks begin to form across the global financial ...
+If you hold Bitcoin or Ethereum... watch this! (alert!) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC ...
 
-📺 The Wolf Of All Streets
+📺 Altcoin Daily
 
-👁️ 22K • 👍 1K • 💬 366 • ⏱️ 1:04:46 • 12h ago
+👁️ 48K • 👍 3K • 💬 283 • ⏱️ 9:24 • 1d ago
+
+---
+
+**[Is The Bitcoin Winter Over? | Why a Violent Market Crash Could Already be in Motion!](https://www.youtube.com/watch?v=vtU0VTbZSU0)**
+
+The market looks calm on the surface but the cracks are getting worse. From global conflict to gold selloffs and debt stress, the ...
+
+📺 Simply Bitcoin
+
+👁️ 22K • 👍 1K • 💬 152 • ⏱️ 12:24 • 1d ago
+
+---
+
+**[🚨 BTC &amp; ETH: SELL ALL ASAP &amp; RUN!!!!!! (New disturbing data!)](https://www.youtube.com/watch?v=6bWLOUY6xAM)**
+
+New data shows the future of markets and crypto in general. Its important for bitcoin, ethereum and so on. BEWARE!
+
+📺 Thomas Kralow
+
+👁️ 18K • 👍 2K • 💬 75 • ⏱️ 11:48 • 17h ago
+
+---
+
+**[Bitcoin Will Drop Below $50K Unless... [Watch Today]](https://www.youtube.com/watch?v=JYDu3fPFI2w)**
+
+Bitcoin is starting to lose strength as it moves back in line with broader risk markets, and the structure is beginning to show cracks.
+
+📺 Crypto Banter
+
+👁️ 17K • 👍 1K • 💬 26 • ⏱️ 14:36 • 15h ago
 
 ---
 
@@ -369,27 +369,27 @@ Nick Valdez looks at 2 different charts painting some very serious warning signs
 
 📺 Discover Crypto
 
-👁️ 1K • 👍 94 • 💬 44 • ⏱️ 3:30 • 3h ago
+👁️ 2K • 👍 123 • 💬 45 • ⏱️ 3:30 • 5h ago
 
 ---
 
-**[Bitcoin: The Window of Weakness is Open](https://www.youtube.com/watch?v=vu7tN0VxhRE)**
+**[Bitcoin Faces Massive Macro Shift As Global Chaos Worsens!](https://www.youtube.com/watch?v=aKeDsLCSWCk)**
 
-Bitcoin may not be breaking down all at once, but the structure is starting to weaken. In this video, we discuss why a window of ...
+Bitcoin #Crypto #Finance Bitcoin may be entering its biggest macro shift yet as cracks begin to form across the global financial ...
 
-📺 Benjamin Cowen
+📺 The Wolf Of All Streets
 
-👁️ 111K • 👍 7K • 💬 369 • ⏱️ 26:12 • 2d ago
+👁️ 23K • 👍 1K • 💬 372 • ⏱️ 1:04:46 • 14h ago
 
 ---
 
-**[BITCOIN: MOST PEOPLE WILL GIVE UP](https://www.youtube.com/watch?v=usaHUWTZja8)**
+**[Investor Urgent Update: Forecasting Big S&amp;P, Oil, Gold, Silver And Bitcoin Moves Incoming!](https://www.youtube.com/watch?v=sF-BUTHFHy4)**
 
-DM me the word “CBM” on Telegram to join my private group: https://t.me/CryptoByMathieu BloFin: ...
+Is a massive, "rip your face off" short-squeeze rally about to blindside the market? In this urgent Sunday futures update, Chief ...
 
-📺 Mathieu - C₿M
+📺 Gareth Soloway
 
-👁️ 3K • 👍 312 • 💬 68 • ⏱️ 14:16 • 6h ago
+👁️ 112K • 👍 6K • 💬 533 • ⏱️ 12:44 • 1d ago
 
 ---
 
