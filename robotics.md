@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-31T17:31:37.095390+00:00'
+updated: '2026-03-31T19:03:56.995743+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 31, 2026 at 17:31 UTC  
+**Last Updated:** March 31, 2026 at 19:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,9 +32,9 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Two FANUC robots now run a bakery bread line in the Netherlands](https://www.reddit.com/r/robotics/comments/1s7vvqo/two_fanuc_robots_now_run_a_bakery_bread_line_in/)**
+**[BabaCAD Robotics Web v2.1](https://www.reddit.com/r/robotics/comments/1s8v9by/babacad_robotics_web_v21/)**
 
-1d ago
+51m ago
 
 ---
 
@@ -42,13 +42,27 @@ Robotics research and industry news
 
 Hey - spent the last year building PhAIL (physical AI leaderboard). I wanted to answer a simple question: how good are robot AI models on actual work, not demos PhAIL runs models on a real robot doing bin-to-bin picking and measures: throughput (units/hour) reliability (time between failures) everything is public: full videos of every run telemetry + logs fine-tuning dataset + training scripts link: https://phail.ai Genuinely curious what you think. What’s useful here, what’s missing. Please share your feedback. https://reddit.com/link/1s8tt6j/video/ky3qjjw50fsg1/player
 
-10m ago
+1h ago
+
+---
+
+**[Automated Projector](https://www.reddit.com/r/robotics/comments/1s8voof/automated_projector/)**
+
+https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printed parts, motorized projector, home decoration, and DIY electronics -- if you know of anyone else that might be interested in this stuff, sharing to others would really help me out! Hope to see you around here or YouTube :)
+
+37m ago
+
+---
+
+**[Two FANUC robots now run a bakery bread line in the Netherlands](https://www.reddit.com/r/robotics/comments/1s7vvqo/two_fanuc_robots_now_run_a_bakery_bread_line_in/)**
+
+1d ago
 
 ---
 
 **[Robots are DJing now AGIBOT X2 live at GTC 2026](https://www.reddit.com/r/robotics/comments/1s8tg5j/robots_are_djing_now_agibot_x2_live_at_gtc_2026/)**
 
-23m ago
+1h ago
 
 ---
 
@@ -56,7 +70,7 @@ Hey - spent the last year building PhAIL (physical AI leaderboard). I wanted to 
 
 I’ve been learning ROS2 for a while, mostly by following tutorials and running existing GitHub repos (like TB3). Recently, I decided to stop just copying and actually try building my own robot model in simulation. So I wrote my first URDF/Xacro and visualized it in RViz. What I expected: A simple rectangular base link. What I got: - One model looks like a clean rectangle (as expected) - The other one looks… off (weird structure/positioning) (Attached both images for comparison) Now I’m trying to understand what went wrong. I’m currently trying to move from “running tutorials” → “actually understanding and building systems”, so I’d really appreciate any guidance. Thanks! Here’s the code: https://pastebin.com/mXHcbLiC Would really appreciate if you can point out what’s wrong.
 
-14h ago
+15h ago
 
 ---
 
@@ -72,7 +86,7 @@ From Humanoids daily on 𝕏: https://x.com/humanoidsdaily/status/20381919486372
 
 Hello I accidently wrote a program in acecode and clicked upload firmare. Now my smart car is not being displayed on wifi section. It was working previously.I cannot find the firmare file in acebot documentation too.
 
-10h ago
+12h ago
 
 ---
 
@@ -88,23 +102,7 @@ Posting update here, I doubled down on my mission to create the smallest VIO mod
 
 Hi everyone! I'd like to share with you my latest successes with my quadruped robot project. Recently I have created a Whole-Body Controller based on the work "Highly Dynamic Quadruped Locomotion via Whole-Body Impulse Control and Model Predictive Control" by D. Kim et al. Also I refactored the code, wrote comments, did some stuff for realtime execution, and opened access to the repository. The next aim is to make a vision based system for choosing the next footsteps. Here is the link to github: https://github.com/voltdog/mors\_quadruped Here you can find the locomotion controller + Mujoco simulation environment. I hope you find this repo useful for learning locomotion algorithms and using it for your own experiments. If you have any questions or encounter issues with installing or using the controller, please let me know.
 
-🔗 [youtu.be](https://youtu.be/28EshOERJ94?si=ygsz2eimHB6jkFLm) • 23h ago
-
----
-
-**[ACEBOTT smart car run by Claude Code](https://www.reddit.com/r/robotics/comments/1s861c9/acebott_smart_car_run_by_claude_code/)**
-
-Built an ACEBOTT smart car this weekend that runs on an ESP32. I then plugged into it on my laptop and had Claude Code write all its own software to connect with the motors. It went through three iterations before finding the technical specs on the ACEBOTT website. After that it was off to the races. I helped it verify which wheel was doing what (backwards/forwards/which wheel/etc). Then we ran a full test which is what the video is all about. So much fun!!! This is first steps. Next step is to upgrade the “brain” to an Arduino UNO Q with 4GB of RAM, install a local model, and train that model using Opus 4.6 after building an MCP. Not sure if anyone has any models they’d recommend. This is probably super simplistic compared to other demonstrations on this sub, but for anyone interested I made a step-by-step build out log with pictures for troubleshooting if you want to check it out: https://lifewithai.ai/blog/box-to-bot
-
-18h ago
-
----
-
-**[any information available on reBot Arm B601?](https://www.reddit.com/r/robotics/comments/1s8dg6m/any_information_available_on_rebot_arm_b601/)**
-
-I've been following along, researching the ARM-SO101 models for a while, and then I just noticed Seeed has posted a video and github for what seems like a similar type of arm, but also aimed at the hobbyist and educational space. They say they're targeting a <$1000 budget and from the available information it looks like it has: 1.5kg payload parallel grip effector a combination of metal and 3d-printed parts. Their github says it will be "True Open Source", so software, blueprints, step files, etc. Their github had a lot of placeholder links and documents when I last checked but there was a timeline for future releases of info. One comment in the github's issues mentioned that the arm seemed very similar to the Edulite A3, but with Lerobot support and some additional hardware capabilities. I don't work for Seeed and am not meaning to post free advertising for them. I just thought it looked like an interesting new development.
-
-13h ago
+🔗 [youtu.be](https://youtu.be/28EshOERJ94?si=ygsz2eimHB6jkFLm) • 1d ago
 
 ---
 
@@ -132,7 +130,7 @@ RTE.ie • 1d ago
 
 AGIBOT said it is transitioning from initial humanoid rollouts to multiple industries and sites worldwide.
 
-The Robot Report • 14m ago
+The Robot Report • 1h ago
 
 ---
 
@@ -140,7 +138,7 @@ The Robot Report • 14m ago
 
 7th-grade students are part of the Hellgate Elementary School robotics team recently qualified for Canada Cup, an international competition pitting some of the top robotics teams against each other.
 
-KPAX News • 21h ago
+KPAX News • 23h ago
 
 ---
 
@@ -148,7 +146,7 @@ KPAX News • 21h ago
 
 Think a robot can’t do your job? ‘It will happen, but I don’t know when,’ says one expert. How robots are already upending blue-collar work, career advancement, worker rights, and job satisfaction.
 
-Fast Company • 8h ago
+Fast Company • 9h ago
 
 ---
 
@@ -157,6 +155,20 @@ Fast Company • 8h ago
 Early customers included Disney.
 
 Fortune • 1d ago
+
+---
+
+**[The world’s largest humanoid robot maker is going public](https://restofworld.org/2026/unitree-china-humanoid-robot-shanghai-ipo/)**
+
+Rest of World • 8h ago
+
+---
+
+**[Humanoid tests humanoid robot for automotive logistics](https://www.theregister.com/2026/03/30/humanoid_automotive_robots/)**
+
+: Torso on a trolley tries its hands in warehouse role
+
+theregister.com • 1d ago
 
 ---
 
@@ -176,39 +188,17 @@ Lowy Institute • 1d ago
 
 ---
 
-**[OpenAI leases massive Richmond site to power robotics expansion](https://www.sfchronicle.com/tech/article/openai-richmond-warehouse-robotics-22160624.php)**
-
-San Francisco Chronicle • 18h ago
-
----
-
-**[Voyager, Icarus Robotics to test free-flying robot on space station](https://www.reuters.com/science/voyager-icarus-robotics-test-free-flying-robot-space-station-2026-03-30/)**
-
-Reuters • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
 
-**[The Real-Life Future of Humanoid Robots](https://www.youtube.com/watch?v=ktwtZNKDV0E)**
+**[Brett Adcock - Shawn Ryan’s First Interview with a Robot | SRS #292](https://www.youtube.com/watch?v=99pOdGEGu6s)**
 
-Brett Adcock shares his vision for the future of humanoid robots, why he believes synthetic humans will become one of the most ...
+Brett Adcock is a technology entrepreneur focused on building companies in robotics, artificial intelligence, and aerospace.
 
 📺 Shawn Ryan Show
 
-👁️ 66K • 👍 2K • 💬 640 • ⏱️ 14:05 • 3d ago
-
----
-
-**[First Lady Melania Trump walks with robot to White House event on children&#39;s technology](https://www.youtube.com/watch?v=7sHSBgU5p4Y)**
-
-A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White House summit on empowering children with ...
-
-📺 C-SPAN
-
-👁️ 224K • 👍 1K • 💬 2K • ⏱️ 2:59 • 6d ago
+👁️ 290K • 👍 7K • 💬 2K • ⏱️ 2:57:09 • 1d ago
 
 ---
 
@@ -218,17 +208,7 @@ Melania Trump suggested using humanoid AI robots like a “Plato” educator to 
 
 📺 Farron Balanced
 
-👁️ 38K • 👍 3K • 💬 839 • ⏱️ 5:10 • 4d ago
-
----
-
-**[Brett Adcock - Shawn Ryan’s First Interview with a Robot | SRS #292](https://www.youtube.com/watch?v=99pOdGEGu6s)**
-
-Brett Adcock is a technology entrepreneur focused on building companies in robotics, artificial intelligence, and aerospace.
-
-📺 Shawn Ryan Show
-
-👁️ 267K • 👍 6K • 💬 2K • ⏱️ 2:57:09 • 1d ago
+👁️ 38K • 👍 3K • 💬 841 • ⏱️ 5:10 • 5d ago
 
 ---
 
@@ -238,7 +218,45 @@ First lady Melania Trump entered the East Room of the White House on Wednesday a
 
 📺 C-SPAN
 
-👁️ 29K • 👍 342 • 💬 228 • ⏱️ 2:58 • 6d ago
+👁️ 30K • 👍 345 • 💬 228 • ⏱️ 2:58 • 6d ago
+
+---
+
+**[The Real-Life Future of Humanoid Robots](https://www.youtube.com/watch?v=ktwtZNKDV0E)**
+
+Brett Adcock shares his vision for the future of humanoid robots, why he believes synthetic humans will become one of the most ...
+
+📺 Shawn Ryan Show
+
+👁️ 67K • 👍 2K • 💬 642 • ⏱️ 14:05 • 3d ago
+
+---
+
+**[Viral robot appearances on the rise as White House hosts humanoid robot](https://www.youtube.com/watch?v=CDbSdaiEdyQ)**
+
+Humanoid robots have been making appearances through social media, tv segments, and at the latest White House summit.
+
+📺 NBC News
+
+👁️ 96K • 👍 548 • 💬 370 • ⏱️ 3:05 • 5d ago
+
+---
+
+**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=0kQarESuSpI)**
+
+📺 zhulongfeng 6
+
+👁️ 7K • 👍 39 • ⏱️ 0:40 • 1d ago
+
+---
+
+**[First Lady Melania Trump walks with robot to White House event on children&#39;s technology](https://www.youtube.com/watch?v=7sHSBgU5p4Y)**
+
+A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White House summit on empowering children with ...
+
+📺 C-SPAN
+
+👁️ 225K • 👍 1K • 💬 2K • ⏱️ 2:59 • 6d ago
 
 ---
 
@@ -248,35 +266,17 @@ This is the shocking moment a young boy is slapped across the face by a rogue ro
 
 📺 The Sun
 
-👁️ 43K • 👍 333 • 💬 277 • ⏱️ 1:09 • 6d ago
+👁️ 44K • 👍 334 • 💬 277 • ⏱️ 1:09 • 6d ago
 
 ---
 
-**[Watch: Humanoid robot walks alongside first lady Melania Trump at White House](https://www.youtube.com/watch?v=X-NjEku-zE4)**
+**[China’s Humanoid Robots Are Taking Over 🤖🇨🇳 | 84% Global Dominance! #robotics #humanoidrobot #ai](https://www.youtube.com/watch?v=-kmdFh0Bqbw)**
 
-Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesday as part of a children's technology ...
+From its first robot in 2000 to dominating nearly 85% of global humanoid robot shipments by 2025, China has rapidly become a ...
 
-📺 CBS News
+📺 Lovnish Verma
 
-👁️ 57K • 👍 420 • 💬 408 • ⏱️ 9:54 • 5d ago
-
----
-
-**[Robot waifus, RIP Sora, GLM-5.1, AI brain scans, Google realtime voice: AI NEWS](https://www.youtube.com/watch?v=6Il0CJx9yU8)**
-
-HUGE AI NEWS: GLM-5.1, daVinci MagiHuman, ARC-AGI 3, PrismAudio, Matrix Game, & more #ai #ainews #aitools #aivideo ...
-
-📺 AI Search
-
-👁️ 101K • 👍 4K • 💬 510 • ⏱️ 47:29 • 2d ago
-
----
-
-**[The Real-Life Olaf Robot at Disney Explained](https://www.youtube.com/watch?v=j3Dkmiz1Tvk)**
-
-📺 Celeb Buss Central
-
-👁️ 42K • 👍 3K • 💬 28 • ⏱️ 0:22 • 1d ago
+👁️ 63K • 👍 2K • 💬 90 • ⏱️ 0:40 • 4d ago
 
 ---
 
