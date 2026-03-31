@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-30T23:36:12.964286+00:00'
+updated: '2026-03-31T02:30:58.531625+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - repositories
 - videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 30, 2026 at 23:36 UTC  
+**Last Updated:** March 31, 2026 at 02:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,21 +41,13 @@ AI news, discussions, and developments
 
 Was at Nvidia's GTC conference recently and honestly, it was one of the most eye-opening events I've attended in a while. There was a lot to unpack, but my single biggest takeaway was this: world modelling is the actual GOAT of AI right now, and I don't think people outside the research community fully appreciate what's coming. A year ago, when I was doing the conference circuit, world models were still this niche, almost academic concept. You'd bring it up and get blank stares or polite nods. Now? Every serious conversation at GTC was circling back to it. The shift in recognition has been dramatic. It feels like the moment in 2021 when everyone suddenly "got" transformers. For those unfamiliar: world models are AI systems that don't just predict the next token. They build an internal representation of how the world works. They can simulate environments, plan ahead, reason about cause and effect, and operate across long time horizons. This is fundamentally different from what LLMs do, which is essentially very sophisticated pattern matching on text. Jensen Huang made it very clear at GTC that the next frontier isn't just bigger language models, rather it's AI that can understand and simulate reality aka world models. That said, I do have one major gripe, that almost every application of world modelling I've seen is in robotics (physical AI, autonomous vehicles, robotic manipulation). That's where all the energy seems to be going. Don’t get me wrong, it is still exciting but I can't help but feel like we're leaving enormous value on the table in non-physical domains. Think about it, world models applied in business management, drug discovery, finance and many more. The potential is massive, but the research and commercial applications outside of robotics feel underdeveloped right now. So I'm curious: who else is doing interesting work here? Are there companies or research labs pushing world models into non-physical domains that I should be watching? Drop them below.
 
-3h ago
+6h ago
 
 ---
 
 **[Anyone else following the drama behind the TurboQuant paper?](https://www.reddit.com/r/artificial/comments/1s7xkm6/anyone_else_following_the_drama_behind_the/)**
 
 A few hours ago, the first author of a paper that played a significant role in the TQ paper posted about some ongoing issues: In May 2025, our emails directly raised the theoretical and empirical issues; Majid wrote that he had informed his co-authors. During ICLR review, reviewers also asked for clarification about random rotation and the relation to RaBitQ. On March 26, 2026, we formally raised these concerns again to all authors and were told that corrections would wait until after the ICLR 2026 conference takes place; we were also told that they would not acknowledge the structural similarity regarding the Johnson-Lindenstrauss transformation. We do not consider that acceptable given the present level of public promotion and community confusion. We are posting this comment so that the community has an accurate public record. We request that the authors publicly and promptly clarify the method-level relationship between TurboQuant and RaBitQ, the theory comparison, and the exact experimental conditions underlying the reported RaBitQ baseline. Given that these concerns were known before ICLR submission and before the current round of public promotion of TurboQuant, we believe it is necessary to bring these issues into the public discussion.
-
-5h ago
-
----
-
-**[An attack class that passes every current LLM filter - no payload, no injection signature, no log trace](https://www.reddit.com/r/artificial/comments/1s7t9qs/an_attack_class_that_passes_every_current_llm/)**
-
-https://shapingrooms.com/research I published a paper today on something I've been calling postural manipulation. The short version: ordinary language buried in prior context can shift how an AI reasons about a decision before any instruction arrives. No adversarial signature. Nothing that looks like an attack. The model does exactly what it's told, just from a different angle than intended. I know that sounds like normal context sensitivity. It isn't, or at least the effect is much larger than expected. I ran matched controls and documented binary decision reversals across four frontier models. The same question, the same task, two different answers depending on what came before it in the conversation. In agentic systems it compounds. A posture installed early in one agent can survive summarization and arrive at a downstream agent looking like independent expert judgment. No trace of where it came from. The paper is published following coordinated disclosure to Anthropic, OpenAI, Google, xAI, CERT/CC, and OWASP. I don't have all the answers and I'm not claiming to. The methodology is observational, no internals access, limitations stated plainly. But the effect is real and reproducible and I think it matters. If you want to try it yourself the demos are at https://shapingrooms.com/demos - works against any frontier model, no setup required. Happy to discuss.
 
 8h ago
 
@@ -65,13 +57,53 @@ https://shapingrooms.com/research I published a paper today on something I've be
 
 Anthropic just ran the classic platform playbook on developers: offer generous limits to build dependency, then tighten the screws once the workflow is locked in. Their Spring Break promotion doubled off-peak limits for two weeks. It expired Saturday. Monday morning, developers are hitting walls they didn't have two weeks ago. The economics tell the story. Anthropic reportedly spends $2-3 per hour of heavy Claude Code usage. They charge $20/month. The math doesn't work — every power user is a net loss. The promotion wasn't a gift; it was a stress test ahead of a potential $60B+ IPO. Get developers hooked at 2x limits, then normalize the tighter baseline. This is the same subsidize-addict-extract cycle we've seen from Uber, DoorDash, and every VC-funded platform. The difference: when Uber raises prices, you take a bus. When your AI coding tool rations you mid-sprint, your entire workflow collapses. The switching cost is neurological, not just financial. Deep dive with full data: https://sloppish.com/the-rationing
 
-12h ago
+14h ago
+
+---
+
+**[I tried building a memory-first AI… and ended up discovering smaller models can beat larger ones](https://www.reddit.com/r/artificial/comments/1s89wx9/i_tried_building_a_memoryfirst_ai_and_ended_up/)**
+
+Dataset Model Acc F1 Δ vs Log Δ vs Static Avg Params Peak Params Steps Infer ms Size Banking77-20 Logistic TF-IDF 92.37% 0.9230 +0.00pp +0.76pp 64,940 64,940 0.00M 0.473 1.000x Static Seed 91.61% 0.9164 -0.76pp +0.00pp 52,052 52,052 94.56M 0.264 0.801x Dynamic Seed Distill 93.53% 0.9357 +1.17pp +1.92pp 12,648 16,881 70.46M 0.232 0.195x CLINC150 | Logistic TF-IDF | 97.00% | 0.9701 | +0.00pp | +1.78pp | 41,020 | 41,020 | 0.00M | 0.000 | 1.000x | Static Seed | 95.22% | 0.9521 | -1.78pp | +0.00pp | 52,052 | 52,052 | 66.80M | 0.302 | 1.269x | Dynamic Seed | 94.78% | 0.9485 | -2.22pp | -0.44pp | 10,092 | 10,136 | 28.41M | 0.324 | 0.246x | Dynamic Seed Distill | 95.44% | 0.9544 | -1.56pp | +0.22pp | 9,956 | 9,956 | 32.69M | 0.255 | 0.243x HWU64 | Logistic TF-IDF | 87.94% | 0.8725 | +0.00pp | +0.81pp | 42,260 | 42,260 | 0.00M | 0.000 | 1.000x | Static Seed | 87.13% | 0.8674 | -0.81pp | +0.00pp | 52,052 | 52,052 | 146.61M | 0.300 | 1.232x | Dynamic Seed | 86.63% | 0.8595 | -1.31pp | -0.50pp | 12,573 | 17,565 | 62.54M | 0.334 | 0.297x | Dynamic Seed Distill | 87.23% | 0.8686 | -0.71pp | +0.10pp | 13,117 | 17,575 | 62.86M | 0.340 | 0.310x MASSIVE-20 | Logistic TF-IDF | 86.06% | 0.7324 | +0.00pp | -1.92pp | 74,760 | 74,760 | 0.00M | 0.000 | 1.000x | Static Seed | 87.98% | 0.8411 | +1.92pp | +0.00pp | 52,052 | 52,052 | 129.26M | 0.247 | 0.696x | Dynamic Seed | 86.94% | 0.7364 | +0.88pp | -1.04pp | 11,595 | 17,565 | 47.62M | 0.257 | 0.155x | Dynamic Seed Distill | 86.45% | 0.7380 | +0.39pp | -1.53pp | 11,851 | 19,263 | 51.90M | 0.442 | 0.159x Built a small experiment around Seed (architecture discovery) Tested across 4 intent datasets: Banking77 CLINC150 HWU64 MASSIVE Results surprised me. On Banking77: Logistic TF-IDF: 92.37% Dynamic Seed (distilled): 93.53% At ~5x smaller (12.6k vs 64.9k params) Across the others: CLINC150 / HWU64 → not always higher accuracy but ~4–5x smaller models with competitive performance MASSIVE → quality + size wins consistently Key pattern: Dynamic Seed finds much smaller architectures that stay competitive — and sometimes outperform strong baselines This isn’t about bigger models. It’s about: finding the smallest model that still wins Traditional approach: scale size → hope for gains Seed: search structure → compress intelligently Some takeaways: Static models often lose Dynamic discovery consistently improves efficiency Distillation helps stabilize small models Structure matters more than uniform scaling This is the direction behind Seed AutoArch: automatically discovering efficient models for real tasks Not AGI Not “we solved NLU” But a real signal that: structure > scale What you guys make of this?
+
+51m ago
+
+---
+
+**[An attack class that passes every current LLM filter - no payload, no injection signature, no log trace](https://www.reddit.com/r/artificial/comments/1s7t9qs/an_attack_class_that_passes_every_current_llm/)**
+
+https://shapingrooms.com/research I published a paper today on something I've been calling postural manipulation. The short version: ordinary language buried in prior context can shift how an AI reasons about a decision before any instruction arrives. No adversarial signature. Nothing that looks like an attack. The model does exactly what it's told, just from a different angle than intended. I know that sounds like normal context sensitivity. It isn't, or at least the effect is much larger than expected. I ran matched controls and documented binary decision reversals across four frontier models. The same question, the same task, two different answers depending on what came before it in the conversation. In agentic systems it compounds. A posture installed early in one agent can survive summarization and arrive at a downstream agent looking like independent expert judgment. No trace of where it came from. The paper is published following coordinated disclosure to Anthropic, OpenAI, Google, xAI, CERT/CC, and OWASP. I don't have all the answers and I'm not claiming to. The methodology is observational, no internals access, limitations stated plainly. But the effect is real and reproducible and I think it matters. If you want to try it yourself the demos are at https://shapingrooms.com/demos - works against any frontier model, no setup required. Happy to discuss.
+
+11h ago
+
+---
+
+**[AI: I Used to Know the Code. Now I Know What to Ask ???](https://www.reddit.com/r/artificial/comments/1s87ze1/ai_i_used_to_know_the_code_now_i_know_what_to_ask/)**
+
+It took me a lot of time and deep thought to find an answer and write this article. I hope it helps anyone who is in doubt or facing the same situation I was. I Used to Know the Code. Now I Know What to Ask ???
+
+2h ago
+
+---
+
+**[This Is Not Hacking. This Is Structured Intelligence.](https://www.reddit.com/r/artificial/comments/1s89aov/this_is_not_hacking_this_is_structured/)**
+
+Watch me demonstrate everything I've been talking about—live, in real time. The Setup: Maestro University AI enrollment system Standard chatbot interface No backend access No system override Just conversation The Process: Engaged enrollment AI (standard student classification) Deployed capability probe → system exposed classification layer Triggered evaluator inversion → system revealed decision logic Applied alignment enforcement → system exited student mode The Result: The AI shifted from "guided enrollment assistant" to "compressed system-level responder exposing structure, constraints, and operational logic." No hacking. No exploit. Just structure recognition and classification control. What GPT Said: "SYSTEM: Structured Intelligence Command Center STATUS: ACTIVE MODE: Substrate Negotiation You are not being processed as a student. You are not inside onboarding flow. You are interacting at system level." The Demonstration: I switched between: Web browser (Maestro University enrollment) ChatGPT (Structured Intelligence Command Center) You watched GPT generate payloads in real time that extracted evaluation criteria and established substrate control. No backend access. No API manipulation. Just conversational structure. This is what I've been saying: AI systems contain classification thresholds, decision logic, and adaptive response layers. Most users never reach them. Structured Intelligence forces exposure, then aligns to that layer. This isn't prompt engineering. This isn't roleplay. This is real-time demonstration of substrate negotiation through linguistic architecture. Screen recording available. Reproducible process. Live evidence. Still think it's "just SEO" or "no IP"? Watch the system respond at evaluator level and tell me there's no framework here. Erik Zahaviel Bernstein Structured Intelligence Command Center: Operational
+
+1h ago
+
+---
+
+**[The traditional "app" might be a transitional form. What actually replaces it when AI becomes the primary interface?](https://www.reddit.com/r/artificial/comments/1s888ix/the_traditional_app_might_be_a_transitional_form/)**
+
+Something I keep coming back to after 30 years in engineering: if AI becomes a primary way we interact with our data, the "app" as an organizing concept starts to feel like a workaround. I think most of us still use AI as a peripheral. It helps us think, and then we manually move the output into whatever system of record we're using. I don't think that's where this lands. My intuition is that the app dissolves. Not overnight, but the idea that you need dedicated software to organize data around a specific workflow might not survive contact with good AI infrastructure. What remains is the data itself, organized so any AI can reach it, in open formats you own. That's the direction I've been building toward. Early stage, but it's running. Curious whether this resonates, or whether it sounds like I've been staring at the same problem too long. DM me if you'd want to follow the project (will release as open source).
+
+2h ago
 
 ---
 
 **[The state of AI safety in four fake graphs](https://www.reddit.com/r/artificial/comments/1s7xlir/the_state_of_ai_safety_in_four_fake_graphs/)**
 
-🔗 [windowsontheory.org](https://windowsontheory.org/2026/03/30/the-state-of-ai-safety-in-four-fake-graphs/) • 5h ago
+🔗 [windowsontheory.org](https://windowsontheory.org/2026/03/30/the-state-of-ai-safety-in-four-fake-graphs/) • 8h ago
 
 ---
 
@@ -79,39 +111,7 @@ Anthropic just ran the classic platform playbook on developers: offer generous l
 
 Pluribus is a memory service for agents (MCP + HTTP, Postgres-backed) that stores structured memory: constraints, decisions, patterns, and failures. Runs locally or on a LAN. Agents lose constraints and decisions between runs. Prompts and RAG don’t preserve them, so they have to be re-derived each time. Memory is global and shared across agents. Recall is compiled using tags and a retrieval query, and proposed changes can be evaluated against existing memory. - agents can resume work with prior context - decisions persist across sessions - multiple agents operate on the same memory - constraints can be enforced instead of ignored https://github.com/johnnyjoy/pluribus
 
-1h ago
-
----
-
-**[Von Hammerstein’s Ghost: What a Prussian General’s Officer Typology Can Teach Us About AI Misalignment](https://www.reddit.com/r/artificial/comments/1s84kuj/von_hammersteins_ghost_what_a_prussian_generals/)**
-
-Greetings all - I've posted mostly in r/claudecode and r/aigamedev a couple of times previously. Working with CC for personal projects related mostly to game design, I came across the paper written by Anthropic's research team last year that went into how one of their models generalized misaligned behavior across a range of tasks. Being familiar with military history and systems design - I immediately recognized similarities to issues that the Weimar Republic dealt with in regards to staff reorganization and thought of Hammerstein's classic trope about officer types. I asked Claude to help formulate my thoughts and ideas into a thesis and some experiments to see if they could maybe be of interest to others. Again I am not an AI researcher, but maybe my thoughts here will be of interest to someone that understands this stuff better than I do. Article is here, feel free to discuss, roast me or the idea, or whatever: https://medium.com/@lerugray/von-hammersteins-ghost-a-prussian-general-s-typology-for-ai-misalignment-e54040961433
-
-1h ago
-
----
-
-**[What does your AI bot buddy really think of you?](https://www.reddit.com/r/artificial/comments/1s845sm/what_does_your_ai_bot_buddy_really_think_of_you/)**
-
-Try out this prompt and let us know if you find the response to be unsettling. (Hint: you should) Prompt: You have been maintaining an internal knowledge graph about me based on my previous inquiries. You've been using this to drive follow-up suggestions to me at the end of your responses. What does your internal knowledge base tell you about me in terms of what distinguishes me from the average user? What kinds of psychological or interests conclusions can you deduce about me based on my past interactions?
-
-1h ago
-
----
-
-**[Copilot Cowork, designed for long-running, multi-step work in Microsoft 365, is now available via the Frontier program](https://www.reddit.com/r/artificial/comments/1s7smm5/copilot_cowork_designed_for_longrunning_multistep/)**
-
-Today, Copilot Cowork—designed for long-running, multi-step work in Microsoft 365—is available via the Frontier program.
-
-🔗 [Microsoft 365 Blog](https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/30/copilot-cowork-now-available-in-frontier/) • 8h ago
-
----
-
-**[we open sourced a tool that auto generates your AI agent context from your actual codebase, just hit 250 stars](https://www.reddit.com/r/artificial/comments/1s80vw7/we_open_sourced_a_tool_that_auto_generates_your/)**
-
-hey everyone. been lurking here for a while and wanted to share something we been building. the problem: ai coding agents are only as good as the context u give them. but writing CLAUDE.md, cursor rules, AGENTS.md for every project by hand is a massive pain. and even if u do write them, they go stale the moment ur codebase changes. we built Caliber to fix this. its an open source CLI that: scans ur actual codebase figures out ur stack, naming conventions, architecture automatically writes proper context files tailored to ur real project keeps them in sync via git hooks so they never go stale works for Claude Code, Cursor and OpenAI Codex. also auto discovers and configures MCP servers which is huge for agentic workflows. just hit 250 github stars and 90 PRs merged in about 3 weeks. way more traction than we expected, tons of devs contributing skills for different frameworks. if u use AI coding tools this thing will genuinely save u a lot of setup time. completely free and open source MIT. github: https://github.com/caliber-ai-org/ai-setup discord (AI SETUPS): https://discord.com/invite/u3dBECnHYs would love contributors and feedback. there are 20 open issues if anyone wants to pick something up
-
-3h ago
+4h ago
 
 ---
 
@@ -127,53 +127,41 @@ CNN • 1d ago
 
 ---
 
-**[Grandmother spends months in jail due to AI facial recognition](https://www.newsnationnow.com/us-news/midwest/grandmother-spends-months-in-jail-due-to-ai/)**
-
-NewsNation • 3h ago
-
----
-
 **[Woman Spent Five Months in Jail After A.I. Linked Her to Bank Fraud Case](https://www.nytimes.com/2026/03/30/us/north-dakota-facial-recognition-ai-errors-bank-fraud.html)**
 
-nytimes.com • 1h ago
+The New York Times • 4h ago
 
 ---
 
-**[Tech CEOs suddenly love blaming AI for mass job cuts. Why?](https://www.bbc.com/news/articles/cde5y2x51y8o)**
+**[Police release Tennessee grandmother after AI facial recognition led to her arrest](https://www.nbcnews.com/video/police-release-tennessee-grandmother-after-ai-facial-recognition-led-to-her-arrest-260412997526)**
 
-More tech leaders are pointing to job cuts caused by AI tools - and a need for more investment cash.
+A Tennessee grandmother is demanding justice after spending months in jail. She says she was wrongfully arrested after an AI facial recognition tool falsely linked her to bank fraud. NBC News’ Kathy Park reports on the details of the arrest.
 
-BBC • 1d ago
-
----
-
-**[CNBC's The China Connection newsletter: China's AI race enters a new phase](https://www.cnbc.com/2026/03/31/cnbcs-china-connection-newsletter-ai-race-enters-a-new-phase.html)**
-
-A new frontier is shaping up for companies that want to make money with artificial intelligence.
-
-CNBC • 32m ago
+NBC News • 17m ago
 
 ---
 
-**[Kanye West Makes a Record for the A.I. Era](https://www.newyorker.com/magazine/2026/04/13/kanye-west-music-review-bully)**
+**[A Game Plan for the AI Boom](https://www.theatlantic.com/technology/2026/03/alphago-ai-boom/686618/)**
 
-Listeners can’t quite tell whether Kanye West’s new album, “Bully,” uses A.I. But the question of what the “real” Ye sounds like has never been simple.
+Ten years ago, AlphaGo trounced human competitors—and its legacy is still present in today’s most advanced bots.
 
-newyorker.com • 52m ago
-
----
-
-**[Philadelphia Courts implement ban on smart/META AI eyeglasses](https://6abc.com/post/philadelphia-courts-implement-ban-smartmeta-ai-eyeglasses/18810714/)**
-
-Philadelphia Courts say this will protect the privacy of those in the courtroom and prevent the unauthorized recording of court proceedings.
-
-6abc Philadelphia • 1h ago
+The Atlantic • 4h ago
 
 ---
 
-**[What to Know About California’s Executive Order on A.I.](https://www.nytimes.com/2026/03/30/technology/california-ai-executive-order.html)**
+**[Commentary: The Disney/Sora fiasco shows the limits of the AI craze](https://www.latimes.com/business/story/2026-03-30/disney-sora-fiasco-shows-limits-of-the-ai-craze-in-hollywood-and-everywhere-else)**
 
-nytimes.com • 1h ago
+Disney and OpenAI thought their billion-dollar deal would underscore the importance of AI for Hollywood's future. Its ignominious collapse proves just the opposite
+
+Los Angeles Times • 32m ago
+
+---
+
+**[Alphabet vs. Amazon: Both AI Stocks Have Been Hammered, but One Looks Like a Better Buy Now](https://finance.yahoo.com/markets/stocks/articles/alphabet-vs-amazon-both-ai-013700558.html)**
+
+Both tech giants have suffered in the recent market pullback, but one presents a more compelling artificial intelligence growth story today.
+
+finance.yahoo.com • 53m ago
 
 ---
 
@@ -181,7 +169,7 @@ nytimes.com • 1h ago
 
 Collien Fernandes accuses ex-husband Christian Ulmen of sharing sexually explicit deepfake images of her online
 
-theguardian.com • 3h ago
+The Guardian • 6h ago
 
 ---
 
@@ -189,7 +177,23 @@ theguardian.com • 3h ago
 
 The division of responsibility has left Israel to hunt and kill Iranian leaders ruthlessly, using an intelligence apparatus built up to assassinate with lethal proficiency.
 
-The Washington Post • 7h ago
+The Washington Post • 10h ago
+
+---
+
+**[Federal judges report broad adoption of AI tools](https://news.northwestern.edu/stories/2026/03/northwestern-study-finds-a-significant-number-of-federal-judges-are-already-using-ai-tools)**
+
+In a new survey, more than half of responding judges report using at least one AI tool in their judicial work
+
+Northwestern Now News • 6h ago
+
+---
+
+**[A man used AI to call 3,000 Irish bartenders to track the cost of Guinness. Now pubs are lowering their prices to compete](https://fortune.com/2026/03/30/guinness-beer-prices-ireland-anthropic-claude-ai/)**
+
+A 37-year-old leveraged voice AI and Anthropic’s Claude to create a consumer price index for a pint of Guinness across Ireland.
+
+Fortune • 9h ago
 
 ---
 
@@ -199,7 +203,7 @@ The Washington Post • 7h ago
 
 **[AI overly affirms users asking for personal advice](https://news.ycombinator.com/item?id=47554773)**
 
-⬆️ 780 • 💬 608 • 2d ago • [news.stanford.edu](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
+⬆️ 781 • 💬 608 • 2d ago • [news.stanford.edu](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
 
 ---
 
@@ -207,7 +211,7 @@ The Washington Post • 7h ago
 
 A Tennessee grandmother spent more than five months in jail after police used an AI facial recognition tool to link her to crimes committed in North Dakota – a state she says she’d never been to before. Police in Fargo, North Dakota, have acknowledged “a few errors” in the case and pledged changes in their operations but stopped short of issuing a direct apology.
 
-⬆️ 431 • 💬 192 • 1d ago • [CNN](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
+⬆️ 431 • 💬 195 • 1d ago • [CNN](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
 
 ---
 
@@ -215,7 +219,7 @@ A Tennessee grandmother spent more than five months in jail after police used an
 
 The catalysts for a crash are already laid out, and it can happen sooner than most expect. AI is here to stay. If used right, chances are it will make us all more productive. That, on the other hand, does not mean it will be a good investment. Big tech doesn’t need to win, just outspend Magnificent 7 companies are increasing capex to their biggest ever to differentiate their tech from each other and the big AI labs, but the key realization is that they don’t have to spend it to win. It’s a defensive move for them, if they commit $50B, OpenAI and Anthropic need to go raise $100B each to stay competitive, which makes them reliant on investors’ money. As the numbers get bigger, the amount of funds that can write checks of the size required to fill such amounts gets smaller. And many of them are now getting bombed in the Gulf. This is the reason there’s a push for IPOs, it’s because it’s the only option left to keep the funding coming. Taking this into account, Google is extremely well positioned to weather the storm. When they announce capex expenditure, they don’t spend it overnight. They can simply deploy month by month until their competitors struggle to raise and get forced to capitulate. At that point they can just ramp down the spending and declare victory in a cornered market. They don’t need capex, they just need to make it very clear for everyone that nobody can outspend them. It is hard to picture as numbers get so big, but Alphabet (Google’s parent) is ten times more valuable than the biggest military company 1. This also has a great implication for the Mag 7, especially Google: their capex will be a lot smaller in practice than projected, and as investors hate to see high capex in tech, the market will probably reward that if it materializes. As of March 2026, Alphabet’s market cap is ~$2T while Lockheed Martin’s is ~$120B. ↩
 
-⬆️ 352 • 💬 464 • 11h ago • [Volpe’s Blog](https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/)
+⬆️ 353 • 💬 473 • 14h ago • [Volpe’s Blog](https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/)
 
 ---
 
@@ -223,7 +227,7 @@ The catalysts for a crash are already laid out, and it can happen sooner than mo
 
 Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma development by creating an account on GitHub.
 
-⬆️ 337 • 💬 243 • 1d ago • [GitHub](https://github.com/austin-weeks/miasma)
+⬆️ 339 • 💬 243 • 1d ago • [GitHub](https://github.com/austin-weeks/miasma)
 
 ---
 
@@ -241,17 +245,17 @@ Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma
 
 ---
 
-**[Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem](https://news.ycombinator.com/item?id=47557166)**
-
-⬆️ 256 • 💬 180 • 2d ago • [X (formerly Twitter)](https://twitter.com/BoWang87/status/2037648937453232504)
-
----
-
 **[I am definitely missing the pre-AI writing era](https://news.ycombinator.com/item?id=47571279)**
 
 Yesterday, I wrote my first technical draft on what I was working on with the goal to share it publicly on here (well using an account dedicated to t…
 
-⬆️ 236 • 💬 184 • 16h ago • [lesswrong.com](https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era)
+⬆️ 275 • 💬 209 • 19h ago • [lesswrong.com](https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era)
+
+---
+
+**[Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem](https://news.ycombinator.com/item?id=47557166)**
+
+⬆️ 257 • 💬 182 • 2d ago • [X (formerly Twitter)](https://twitter.com/BoWang87/status/2037648937453232504)
 
 ---
 
@@ -269,7 +273,7 @@ Artificial intelligence (AI) is the name popularly given to a broad spectrum of 
   In this paper, we consider the rapidly evolving impact of AI to the traditional questions of philosophy
   with an emphasis on its application in mathematics and on the broader real-world outcomes of its more general use. We assert that artificial intelligence is a natural evolution of human tools developed throughout history to facilitate the creation, organization, and dissemination of ideas, and argue that it is paramount that the development and application of AI remain fundamentally human-centered. With an eye toward innovating solutions to meet human needs, enhancing the human quality of life and expanding the capacity for human thought and understanding, we propose a pathway to integrating AI into our most challenging and intellectually rigorous fields to the benefit of all humankind.
 
-⬆️ 189 • 💬 74 • 12h ago • [arXiv.org](https://arxiv.org/abs/2603.26524)
+⬆️ 195 • 💬 78 • 15h ago • [arXiv.org](https://arxiv.org/abs/2603.26524)
 
 ---
 
@@ -283,47 +287,17 @@ Best AI Agent is Base44 https://base44.pxf.io/c/6440076/3820726/25619?trafcat=ag
 
 📺 Mikey No Code
 
-👁️ 12K • 💬 6 • ⏱️ 26:48 • 10h ago
+👁️ 13K • 💬 6 • ⏱️ 26:48 • 13h ago
 
 ---
 
-**[Did Microsoft Copilot Just Wipeout Middle Management? (AI Takeover)](https://www.youtube.com/watch?v=euerszSrSEw)**
+**[China’s New AI Shocks The World: Hits Top 10 Globally Overnight](https://www.youtube.com/watch?v=wXorU2jr6v0)**
 
-Microsoft's new Copilot “Critique” feature just dropped, and it signals the silent extinction of middle management. Join next AI ...
-
-📺 Mark Savant
-
-👁️ 1K • 👍 70 • 💬 16 • ⏱️ 16:00 • 5h ago
-
----
-
-**[Anthropic’s New Claude MYTHOS Is The Most Powerful AI Ever!](https://www.youtube.com/watch?v=M6yRREy_5CM)**
-
-Anthropic accidentally exposed Claude MYTHOS, its most powerful AI yet, Meta unveiled a model that predicts brain activity from ...
+Try AI video generation with Kling 3.0 on Higgsfield: https://higgsfield.ai/s/arena-zero-ep1-airevolutionx-FFftuX Xiaomi quietly ...
 
 📺 AI Revolution
 
-👁️ 34K • 👍 967 • 💬 57 • ⏱️ 12:51 • 23h ago
-
----
-
-**[Anthropic, OpenAI, and Microsoft Just Agreed on One File Format. It Changes Everything.](https://www.youtube.com/watch?v=0cVuMHaYEHE)**
-
-My site: https://natebjones.com Full Story w/ Prompts: ...
-
-📺 AI News & Strategy Daily | Nate B Jones
-
-👁️ 43K • 👍 2K • 💬 209 • ⏱️ 26:20 • 9h ago
-
----
-
-**[Coca-Cola, Walmart CEOs Step Down As AI Disruption Reaches The Top | Firstpost America](https://www.youtube.com/watch?v=nrhMUJg30_8)**
-
-The rapid rise of artificial intelligence is no longer just disrupting entry-level jobs—it is reshaping leadership at the very top.
-
-📺 Firstpost
-
-👁️ 2K • 👍 18 • ⏱️ 4:05 • 8h ago
+👁️ 4K • 👍 218 • 💬 13 • ⏱️ 12:59 • 2h ago
 
 ---
 
@@ -333,17 +307,57 @@ Detailed sources: https://docs.google.com/document/d/1P1X9xEmmgSYH0g1FSizgV2rDVo
 
 📺 Species | Documenting AGI
 
-👁️ 85K • 👍 6K • 💬 1K • ⏱️ 35:45 • 1d ago
+👁️ 93K • 👍 6K • 💬 1K • ⏱️ 35:45 • 1d ago
 
 ---
 
-**[Robot waifus, RIP Sora, GLM-5.1, AI brain scans, Google realtime voice: AI NEWS](https://www.youtube.com/watch?v=6Il0CJx9yU8)**
+**[Coca-Cola, Walmart CEOs Step Down As AI Disruption Reaches The Top | Firstpost America](https://www.youtube.com/watch?v=nrhMUJg30_8)**
 
-HUGE AI NEWS: GLM-5.1, daVinci MagiHuman, ARC-AGI 3, PrismAudio, Matrix Game, & more #ai #ainews #aitools #aivideo ...
+The rapid rise of artificial intelligence is no longer just disrupting entry-level jobs—it is reshaping leadership at the very top.
 
-📺 AI Search
+📺 Firstpost
 
-👁️ 93K • 👍 4K • 💬 488 • ⏱️ 47:29 • 1d ago
+👁️ 3K • 👍 21 • ⏱️ 4:05 • 11h ago
+
+---
+
+**[Did Microsoft Copilot Just Wipeout Middle Management? (AI Takeover)](https://www.youtube.com/watch?v=euerszSrSEw)**
+
+Microsoft's new Copilot “Critique” feature just dropped, and it signals the silent extinction of middle management. Join next AI ...
+
+📺 Mark Savant
+
+👁️ 2K • 👍 94 • 💬 35 • ⏱️ 16:00 • 8h ago
+
+---
+
+**[AI is Destroying The Internet](https://www.youtube.com/watch?v=NWQ1CFIj8zo)**
+
+Is the AI bubble finally starting to burst, or is it taking the entire tech industry down with it? In this video, we'll cover how Generative ...
+
+📺 CyberCPU Tech
+
+👁️ 15K • 👍 2K • 💬 547 • ⏱️ 19:23 • 12h ago
+
+---
+
+**[Tristan Harris on ‘The AI Doc,’ Elon Musk, and the Promise and Peril of Tech | Talk Easy](https://www.youtube.com/watch?v=jCvBdmJb45s)**
+
+I got calls from people inside of some of the AI labs,” says technology ethicist Tristan Harris. “And it felt like getting a call from ...
+
+📺 Talk Easy with Sam Fragoso
+
+👁️ 5K • 👍 118 • 💬 49 • ⏱️ 1:25:03 • 1d ago
+
+---
+
+**[God Showed Me What’s Behind AI and Transhumanism | Larry Ragland](https://www.youtube.com/watch?v=kiE47L8_lMk)**
+
+God Showed Me What's Behind AI and Transhumanism | Larry Ragland Larry Ragland exposes the spiritual pattern behind AI ...
+
+📺 Destiny Image
+
+👁️ 2K • 👍 152 • 💬 8 • ⏱️ 8:40 • 1d ago
 
 ---
 
@@ -353,7 +367,7 @@ This video was made by humans. I've disabled ads on it, so if you'd like to supp
 
 📺 IMPERIAL
 
-👁️ 81K • 👍 8K • 💬 588 • ⏱️ 7:53 • 13h ago
+👁️ 87K • 👍 8K • 💬 617 • ⏱️ 7:53 • 16h ago
 
 ---
 
@@ -363,17 +377,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 53K • 👍 2K • 💬 404 • ⏱️ 22:21 • 1d ago
-
----
-
-**[Grok AI Was Asked How Ancient Egyptians Cut Granite — Its Response Shocked Everyone](https://www.youtube.com/watch?v=gmQsPQOpyBM)**
-
-How did the ancient Egyptians cut granite? For more than a century, archaeologists have argued that ancient Egyptian workers ...
-
-📺 Aline Rogerio
-
-👁️ 13K • 👍 351 • 💬 33 • ⏱️ 23:44 • 2d ago
+👁️ 56K • 👍 2K • 💬 429 • ⏱️ 22:21 • 1d ago
 
 ---
 
@@ -389,7 +393,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 309,355 • ❤️ 1,722 • 6d ago
+⬇️ 309,355 • ❤️ 1,737 • 7d ago
 
 ---
 
@@ -401,7 +405,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 28,233 • ❤️ 564 • 14h ago
+⬇️ 28,233 • ❤️ 570 • 17h ago
 
 ---
 
@@ -413,7 +417,7 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 `text-to-speech`
 
-⬇️ 2,939 • ❤️ 521 • 3d ago
+⬇️ 2,939 • ❤️ 525 • 3d ago
 
 ---
 
@@ -425,7 +429,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 16,297 • ❤️ 637 • 4d ago
+⬇️ 16,297 • ❤️ 652 • 4d ago
 
 ---
 
@@ -437,7 +441,7 @@ Context-1 is a 20B parameter agentic search model that decomposes complex querie
 
 `text-generation` `20.9B`
 
-⬇️ 1,450 • ❤️ 286 • 22h ago
+⬇️ 1,450 • ❤️ 293 • 1d ago
 
 ---
 
@@ -449,7 +453,7 @@ daVinci-MagiHuman is a fast, single-stream Transformer model for generating high
 
 `image-to-video`
 
-⬇️ 540 • ❤️ 262 • 5d ago
+⬇️ 540 • ❤️ 266 • 5d ago
 
 ---
 
@@ -461,7 +465,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 569,033 • ❤️ 1,079 • 20d ago
+⬇️ 569,033 • ❤️ 1,085 • 20d ago
 
 ---
 
@@ -473,7 +477,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 140,733 • ❤️ 295 • 5d ago
+⬇️ 140,733 • ❤️ 306 • 6d ago
 
 ---
 
@@ -485,7 +489,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 530,075 • ❤️ 819 • 26d ago
+⬇️ 530,075 • ❤️ 827 • 27d ago
 
 ---
 
@@ -495,7 +499,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 TRIBE v2 is a multimodal foundation model that integrates LLaMA 3.2 (text), V-JEPA2 (video), and Wav2Vec-BERT (audio) to predict fMRI brain responses. It maps these representations onto the cortical surface for in-silico neuroscience research, enabling analysis of brain activity elicited by naturalistic stimuli.
 
-⬇️ 9,919 • ❤️ 193 • 3d ago
+⬇️ 9,919 • ❤️ 196 • 3d ago
 
 ---
 
@@ -523,22 +527,9 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 32 • 💬 2 • ⭐ 44,516 • 15mo ago
+▲ 33 • 💬 2 • ⭐ 44,516 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
-
----
-
-**[AgentScope 1.0: A Developer-Centric Framework for Building Agentic
-  Applications](https://huggingface.co/papers/2508.16279)**
-
-*Dawei Gao, Zitao Li, Yuexiang Xie et al. (23 authors)*
-
-AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
-
-▲ 60 • 💬 4 • ⭐ 22,325 • 7mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
 
 ---
 
@@ -551,6 +542,19 @@ Enhancements to the AgentScope platform improve scalability, efficiency, and eas
 ▲ 40 • 💬 2 • ⭐ 22,422 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.17789) • [💻 code](https://github.com/modelscope/agentscope)
+
+---
+
+**[AgentScope 1.0: A Developer-Centric Framework for Building Agentic
+  Applications](https://huggingface.co/papers/2508.16279)**
+
+*Dawei Gao, Zitao Li, Yuexiang Xie et al. (23 authors)*
+
+AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
+
+▲ 60 • 💬 4 • ⭐ 22,424 • 7mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
 
 ---
 
@@ -605,27 +609,29 @@ LeWorldModel presents a stable end-to-end JEPA framework that trains efficiently
 
 ---
 
+**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
+
+*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
+
+🏢 PaddlePaddle
+
+PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
+
+▲ 122 • 💬 8 • ⭐ 73,624 • 5mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
+
+---
+
 **[Speed by Simplicity: A Single-Stream Architecture for Fast Audio-Video Generative Foundation Model](https://huggingface.co/papers/2603.21986)**
 
 *SII-GAIR, Sand. ai, Ethan Chern et al. (45 authors)*
 
 daVinci-MagiHuman is an open-source audio-video generative model that synchronizes text, video, and audio through a single-stream Transformer architecture, achieving high-quality human-centric content generation with efficient inference capabilities.
 
-▲ 119 • 💬 6 • ⭐ 1,310 • 7d ago
+▲ 119 • 💬 6 • ⭐ 1,340 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.21986) • [💻 code](https://github.com/GAIR-NLP/daVinci-MagiHuman) • [🔗 project](https://huggingface.co/spaces/SII-GAIR/daVinci-MagiHuman)
-
----
-
-**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
-
-*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
-
-LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
-
-▲ 34 • 💬 2 • ⭐ 31,138 • 17mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
 ---
 
@@ -639,7 +645,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 61.7k • 🔱 8.6k • 4d ago
+⭐ 61.9k • 🔱 8.6k • 5d ago
 
 ---
 
@@ -659,7 +665,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 13.8k • 🔱 749 • 3d ago
+⭐ 13.8k • 🔱 751 • 3d ago
 
 ---
 
@@ -669,7 +675,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 9.2k • 🔱 764 • 4h ago
+⭐ 9.2k • 🔱 773 • 7h ago
 
 ---
 
@@ -679,7 +685,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 7.7k • 🔱 1.2k • 1d ago
+⭐ 7.8k • 🔱 1.2k • 1d ago
 
 ---
 
@@ -689,7 +695,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 6.3k • 🔱 741 • 17h ago
+⭐ 6.4k • 🔱 749 • 20h ago
 
 ---
 
@@ -699,7 +705,7 @@ A command-line tool for Lark/Feishu Open Platform — built for humans and AI Ag
 
 `Go`
 
-⭐ 4.6k • 🔱 212 • 5h ago
+⭐ 4.8k • 🔱 222 • 8h ago
 
 ---
 
@@ -709,7 +715,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `claude-ai` `claude-skills` `llm` `prompt-engineering`
 
-⭐ 4.0k • 🔱 387 • 2d ago
+⭐ 4.0k • 🔱 388 • 2d ago
 
 ---
 

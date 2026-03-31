@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-30T23:36:12.977126+00:00'
+updated: '2026-03-31T02:30:58.544608+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - cryptocurrency
 - news
 - social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 30, 2026 at 23:36 UTC  
+**Last Updated:** March 31, 2026 at 02:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,51 +36,51 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,070.42
+### $2,074.30
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
-**7d:** -6.0%  
-**30d:** +4.5%  
-**90d:** -31.9%  
-**1y:** +10.9%  
+**24h:** +2.0%  
+**7d:** -4.2%  
+**30d:** +2.5%  
+**90d:** -30.8%  
+**1y:** +9.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $245.60B
+**Market Cap:** $250.85B
 Rank #2
 
-**Circulating Supply:** 120,691,444 ETH
+**Circulating Supply:** 120,691,415 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.9%
+-58.0%
 
 **All-Time Low:** $0.43
-+469516.3%
++479523.7%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion March 30, 2026](https://www.reddit.com/r/ethereum/comments/1s7hcs2/daily_general_discussion_march_30_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-18h ago
-
----
-
 **[The hidden gas and security trade-offs of using CREATE2 + Minimal Proxies for multi-chain deployments](https://www.reddit.com/r/ethereum/comments/1s83w01/the_hidden_gas_and_security_tradeoffs_of_using/)**
 
 Hey everyone, Over the last four years of writing smart contracts and teaching these concepts in EVM bootcamps, I keep seeing teams stumble into the exact same architectural traps when trying to achieve cross-chain address parity. Leveraging CREATE2 for deterministic addresses fundamentally changes how we handle multi-chain deployments. But because init_code includes constructor arguments, maintaining that exact same address across chains is impossible if you need to pass in chain-specific variables (like local router addresses or bridge endpoints). The standard industry workaround is deploying EIP-1167 Minimal Proxies via a universal factory, deploying deterministically, then initializing the state in the same transaction. However, this introduces some severe trade-offs that often get overlooked until they hit production: The DELEGATECALL Gas Tax: Minimal proxies are incredibly cheap to deploy (~45 bytes of bytecode), but they add a DELEGATECALL overhead to every single execution (2600 gas cold, 100 warm). At scale, this execution cost compounds brutally for your users. MEV Front-running Risks: If your proxy deployment and initialize() call are not strictly atomic within the factory contract execution, MEV bots might front-run the initialization transaction. This either bricks the instance entirely or hijacks the contract ownership. Immutability vs Upgradeability: To retain the exact same address while upgrading logic, you have to wrap the implementation in UUPS or Transparent Proxies. This inflates the initial deployment cost and introduces strict storage collision risks (requiring flawless adherence to EIP-1967 storage slots). I just published a full breakdown of these mechanics on my blog, diving into the math behind the gas trade-offs and how patterns like CREATE3 are solving the issue for non-proxy contracts where constructor arguments must differ. If you are currently architecting a multi-chain protocol, you can read the full technical deep dive here:https://andreyobruchkov1996.substack.com/p/understanding-contract-deployments-proxies-and-create2-part-2-df8f05998d5e Would love to hear how you all are handling cross-chain deterministic deployments right now. Are you still relying heavily on customized off-chain salt-mining scripts, or have you migrated to CREATE3 wrappers?
 
-2h ago
+5h ago
+
+---
+
+**[Daily General Discussion March 30, 2026](https://www.reddit.com/r/ethereum/comments/1s7hcs2/daily_general_discussion_march_30_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+21h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey everyone, Over the last four years of writing smart contracts and teaching t
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-357/) • 13h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-357/) • 16h ago
 
 ---
 
@@ -152,14 +152,6 @@ Ethereum pushes Glamsterdam testing forward as Hegotá headliner debates remain 
 
 ## Google News: "ethereum"
 
-**[New Ethereum project aims to fix network fragmentation and improve user experience](https://www.coindesk.com/tech/2026/03/29/new-ethereum-project-aims-to-fix-network-fragmentation-and-improve-user-experience)**
-
-The project is designed to make Ethereum’s many layer 2s work together more seamlessly.
-
-CoinDesk • 1d ago
-
----
-
 **[Gnosis and Zisk announce 'Ethereum Economic Zone' rollup framework with Ethereum Foundation co-funding](https://www.theblock.co/post/395578/gnosis-and-zisk-announce-ethereum-economic-zone-rollup-framework-with-ethereum-foundation-co-funding)**
 
 The Ethereum Foundation is co-funding the "easy" initiative, which was announced at EthCC in Cannes, and partners include Aave, Titan, Centrifuge, and more.
@@ -168,27 +160,19 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum Foundation Stakes More ETH, Boosting Total to $50 Million](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-stakes-more-eth-195247383.html)**
+**[New Ethereum project aims to fix network fragmentation and improve user experience](https://www.coindesk.com/tech/2026/03/29/new-ethereum-project-aims-to-fix-network-fragmentation-and-improve-user-experience)**
 
-The Ethereum Foundation staked another $46 million ETH as part of its new treasury plan unveiled last year.
+The project is designed to make Ethereum’s many layer 2s work together more seamlessly.
 
-Yahoo Finance • 3h ago
-
----
-
-**[Tom Lee's BitMine Adds More Ethereum as Strategy Takes a Break From Bitcoin Buying](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-adds-more-144553148.html)**
-
-BitMine continued its Ethereum accumulation, adding to its leading ETH treasury while Strategy took a week off from Bitcoin purchases.
-
-Yahoo Finance • 8h ago
+CoinDesk • 1d ago
 
 ---
 
-**[BMNR, ETH news: Bitmine buys 71,000 ETH as digital asset treasuries dial back purchases](https://www.coindesk.com/business/2026/03/30/bitmine-makes-biggest-ether-purchase-in-2026-while-other-digital-asset-treasuries-pull-back)**
+**[Ethereum’s Incredible Position](https://finance.yahoo.com/markets/crypto/articles/ethereum-incredible-position-180149031.html)**
 
-Tom Lee's Ethereum treasury bought more than 71,000 ETH over the past week, remaining the sole large corporate crypto buyer as Strategy broke its 13-week bitcoin purchase streak.
+This market isn't what we wanted. But looking forward, ETH is still in a great place.
 
-CoinDesk • 8h ago
+finance.yahoo.com • 2d ago
 
 ---
 
@@ -196,7 +180,23 @@ CoinDesk • 8h ago
 
 Bitmine has 3,142,643 staked ETH, representing $6.3 billion at $2,005 per ETH MAVAN (Made in America VAlidator Network) launched staking solution on March 25,...
 
-PR Newswire • 11h ago
+PR Newswire • 14h ago
+
+---
+
+**[Tom Lee's BitMine Adds More Ethereum as Strategy Takes a Break From Bitcoin Buying](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-adds-more-144553148.html)**
+
+BitMine continued its Ethereum accumulation, adding to its leading ETH treasury while Strategy took a week off from Bitcoin purchases.
+
+finance.yahoo.com • 11h ago
+
+---
+
+**[BMNR, ETH news: Bitmine buys 71,000 ETH as digital asset treasuries dial back purchases](https://www.coindesk.com/business/2026/03/30/bitmine-makes-biggest-ether-purchase-in-2026-while-other-digital-asset-treasuries-pull-back)**
+
+Tom Lee's Ethereum treasury bought more than 71,000 ETH over the past week, remaining the sole large corporate crypto buyer as Strategy broke its 13-week bitcoin purchase streak.
+
+CoinDesk • 11h ago
 
 ---
 
@@ -204,7 +204,23 @@ PR Newswire • 11h ago
 
 Ethereum funds lost $222 million last week—the worst of any digital asset—as Clarity Act fears and macro headwinds grow.
 
-decrypt.co • 5h ago
+Decrypt • 8h ago
+
+---
+
+**[Fidelity Doubles Down on Ethereum With $140 Million Purchase](https://www.tradingview.com/news/u_today:cf7ebce1c094b:0-fidelity-doubles-down-on-ethereum-with-140-million-purchase/)**
+
+The past week might not have been entirely negative for all Ethereum funds as recent data from Arkham shows that Fidelity Investments has purchased Ethereum worth over $140 million.The massive Ethereum purchase has come after a week of positive performance from its ETF product despite the overall w…
+
+TradingView • 11h ago
+
+---
+
+**[Current price of Ethereum for March 30, 2026](https://fortune.com/article/price-of-ethereum-03-30-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 13h ago
 
 ---
 
@@ -213,22 +229,6 @@ decrypt.co • 5h ago
 Ethereum's vast ecosystem goes up against Solana's lightning-quick network.
 
 The Motley Fool • 2d ago
-
----
-
-**['Extreme Fear' on Cryptocurrency Market: XRP, Ethereum, Bitcoin and Others Under Immense Pressure](https://www.tradingview.com/news/u_today:804e2712f094b:0-extreme-fear-on-cryptocurrency-market-xrp-ethereum-bitcoin-and-others-under-immense-pressure/)**
-
-The Fear and Greed Index is currently printing single-digit values, indicating that the cryptocurrency market is deep in extreme fear. That type of reading indicates widespread risk aversion, forced selling and a lack of confidence among participants rather than mild uncertainty. Seldom do markets…
-
-TradingView • 1d ago
-
----
-
-**[Bitcoin, XRP, Ethereum, and Solana Are All Down Over 40% From Their Peaks — Is This the Bottom?](https://www.aol.com/articles/bitcoin-xrp-ethereum-solana-down-180101028.html)**
-
-Between mid-2025 and October, Bitcoin (CRYPTO: BTC) was above $126,000, Ethereum (CRYPTO: ETH) was pushing toward $5,000, XRP (CRYPTO: XRP) had hit $3.65, and Solana (CRYPTO: SOL) was trading near $295. If you bought anywhere near those levels, and haven’t taken profit, most of those gains have been erased. The entire crypto market has been ... Bitcoin, XRP, Ethereum, and Solana Are All Down Over 40% From Their Peaks — Is This the Bottom?
-
-AOL.com • 5h ago
 
 ---
 
@@ -242,17 +242,17 @@ New data shows the future of markets and crypto in general. Its important for bi
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 2K • 💬 91 • ⏱️ 11:48 • 12h ago
+👁️ 17K • 👍 2K • 💬 75 • ⏱️ 11:48 • 15h ago
 
 ---
 
-**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=5PZdYV1_FzI)**
+**[BITCOIN DUMP &amp; PUMP EXPLAINED: This is Next!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=aAglFZYcX68)**
 
-ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
+BITCOIN DUMP & PUMP EXPLAINED: This is Next!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
 
-📺 The Boss Barber - Yudi
+📺 Crypto World
 
-👁️ 7K • 👍 1K • 3h ago
+👁️ 2K • 👍 106 • 💬 159 • ⏱️ 20:19 • 2h ago
 
 ---
 
@@ -262,17 +262,7 @@ If you hold Bitcoin or Ethereum... watch this! (alert!) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 3K • 💬 297 • ⏱️ 9:24 • 1d ago
-
----
-
-**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=6rR--df9psw)**
-
-ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
-
-📺 Elvis Nash
-
-👁️ 7K • 👍 1K • 4h ago
+👁️ 47K • 👍 3K • 💬 297 • ⏱️ 9:24 • 1d ago
 
 ---
 
@@ -282,7 +272,7 @@ Joseph Chalom, CEO of SharpLink, joined me to discuss the company's Ethereum tre
 
 📺 Thinking Crypto
 
-👁️ 1K • 👍 124 • 💬 126 • ⏱️ 55:54 • 11h ago
+👁️ 2K • 👍 130 • 💬 115 • ⏱️ 55:54 • 14h ago
 
 ---
 
@@ -292,17 +282,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 79 • 💬 2 • ⏱️ 3:53 • 11h ago
-
----
-
-**[LIVE: Tom Lee on Ethereum Crash &amp; BMNR Stock Drop - ETH Price Analysis](https://www.youtube.com/watch?v=ZJeCBwWl1Jw)**
-
-ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
-
-📺 James Vasanthan
-
-👁️ 8K • 👍 1K • 5h ago
+👁️ 2K • 👍 81 • 💬 2 • ⏱️ 3:53 • 14h ago
 
 ---
 
@@ -312,17 +292,17 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 270 • 👍 17 • ⏱️ 25:42 • 5h ago
+👁️ 445 • 👍 21 • 💬 1 • ⏱️ 25:42 • 8h ago
 
 ---
 
-**[Why Banks Don&#39;t Want Ethereum or Solana — And What They Actually Need](https://www.youtube.com/watch?v=WPtXmFrLrto)**
+**[ETHEREUM, THE FED, AND BITCOIN —(THIS CHANGES EVERYTHING)](https://www.youtube.com/watch?v=69b-uYwAlpY)**
 
-At the Digital Asset Summit 2026 in New York, a key question came up: what do banks actually need from blockchain?
+Crypto looks calm… but underneath, everything is moving. The Ethereum Foundation just deployed $46M into staking, shifting ...
 
-📺 Learn Cardano
+📺 CLOCKWISE CRYPTO 
 
-👁️ 2K • 👍 319 • 💬 38 • ⏱️ 10:53 • 12h ago
+👁️ 334 • 👍 69 • 💬 23 • ⏱️ 9:26 • 1h ago
 
 ---
 
@@ -332,7 +312,27 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 7K • 👍 201 • 💬 61 • ⏱️ 11:06 • 2d ago
+👁️ 7K • 👍 204 • 💬 61 • ⏱️ 11:06 • 2d ago
+
+---
+
+**[Why Banks Don&#39;t Want Ethereum or Solana — And What They Actually Need](https://www.youtube.com/watch?v=WPtXmFrLrto)**
+
+At the Digital Asset Summit 2026 in New York, a key question came up: what do banks actually need from blockchain?
+
+📺 Learn Cardano
+
+👁️ 3K • 👍 349 • 💬 78 • ⏱️ 10:53 • 15h ago
+
+---
+
+**[BM&amp;R&#39;s Massive Ethereum Stake: Billions Growing! #shorts](https://www.youtube.com/watch?v=tDzzb_LPqyU)**
+
+With 3.14 million ETH staked (worth $6.8B), BM&R is a powerhouse. Adding 101k ETH last week, their Maven network is set for ...
+
+📺 MONEY GAME
+
+👁️ 1 • ⏱️ 0:37 • 1h ago
 
 ---
 

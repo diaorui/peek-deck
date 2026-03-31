@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-30T23:36:12.979985+00:00'
+updated: '2026-03-31T02:30:58.547389+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 30, 2026 at 23:36 UTC  
+**Last Updated:** March 31, 2026 at 02:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Two FANUC robots now run a bakery bread line in the Netherlands](https://www.reddit.com/r/robotics/comments/1s7vvqo/two_fanuc_robots_now_run_a_bakery_bread_line_in/)**
 
-6h ago
+9h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From Humanoids daily on 𝕏: https://x.com/humanoidsdaily/status/2038191948637282608 Source Shawn Ryan on 𝕏: https://x.com/ShawnRyan762/status/2037583712443887991
 
-12h ago
+15h ago
 
 ---
 
@@ -50,7 +50,13 @@ From Humanoids daily on 𝕏: https://x.com/humanoidsdaily/status/20381919486372
 
 Posting update here, I doubled down on my mission to create the smallest VIO module, here is the latest revision I am working on. - Global shutter camera + IMU - 0.8W - Outputs pose @ 15hz via USB or UART Here is a short video showing how when you plug it into any phone or pc, it shows up as ethernet device with a web-ui built into it. No app to setup or even internet required. This lets me try it out and collect diverse datasets easily on-the-go.
 
-19h ago
+22h ago
+
+---
+
+**[[Decision] Admits from GATech and UMich for MS in Robotics](https://www.reddit.com/r/robotics/comments/1s8axgg/decision_admits_from_gatech_and_umich_for_ms_in/)**
+
+5m ago
 
 ---
 
@@ -58,15 +64,7 @@ Posting update here, I doubled down on my mission to create the smallest VIO mod
 
 Hi everyone! I'd like to share with you my latest successes with my quadruped robot project. Recently I have created a Whole-Body Controller based on the work "Highly Dynamic Quadruped Locomotion via Whole-Body Impulse Control and Model Predictive Control" by D. Kim et al. Also I refactored the code, wrote comments, did some stuff for realtime execution, and opened access to the repository. The next aim is to make a vision based system for choosing the next footsteps. Here is the link to github: https://github.com/voltdog/mors\_quadruped Here you can find the locomotion controller + Mujoco simulation environment. I hope you find this repo useful for learning locomotion algorithms and using it for your own experiments. If you have any questions or encounter issues with installing or using the controller, please let me know.
 
-🔗 [youtu.be](https://youtu.be/28EshOERJ94?si=ygsz2eimHB6jkFLm) • 5h ago
-
----
-
-**[ACEBOTT smart car run by Claude Code](https://www.reddit.com/r/robotics/comments/1s861c9/acebott_smart_car_run_by_claude_code/)**
-
-Built an ACEBOTT smart car this weekend that runs on an ESP32. I then plugged into it on my laptop and had Claude Code write all its own software to connect with the motors. It went through three iterations before finding the technical specs on the ACEBOTT website. After that it was off to the races. I helped it verify which wheel was doing what (backwards/forwards/which wheel/etc). Then we ran a full test which is what the video is all about. So much fun!!! This is first steps. Next step is to upgrade the “brain” to an Arduino UNO Q with 4GB of RAM, install a local model, and train that model using Opus 4.6 after building an MCP. Not sure if anyone has any models they’d recommend. This is probably super simplistic compared to other demonstrations on this sub, but for anyone interested I made a step-by-step build out log with pictures for troubleshooting if you want to check it out: https://lifewithai.ai/blog/box-to-bot
-
-44m ago
+🔗 [youtu.be](https://youtu.be/28EshOERJ94?si=ygsz2eimHB6jkFLm) • 8h ago
 
 ---
 
@@ -74,7 +72,7 @@ Built an ACEBOTT smart car this weekend that runs on an ESP32. I then plugged in
 
 Hey r/robotics! I'm excited to share OpenEyes - an open-source vision system I've been building for humanoid robots. It runs entirely on NVIDIA Jetson Orin Nano with full ROS2 integration. The Problem Every day, millions of robots are deployed to help humans. But most of them are blind. Or dependent on cloud services that fail. Or so expensive only big companies can afford them. I wanted to change that. What OpenEyes Does The robot looks at a room and understands: - "There's a cup on the table, 40cm away" - "A person is standing to my left" - "They're waving at me - that's a greeting" - "The person is sitting down - they might need help" - Object Detection (YOLO11n) - Depth Estimation (MiDaS) - Face Detection (MediaPipe) - Gesture Recognition (MediaPipe Hands) - Pose Estimation (MediaPipe Pose) - Object Tracking - Person Following (show open palm to become owner) Performance - All models: 10-15 FPS - Minimal: 25-30 FPS - Optimized (INT8): 30-40 FPS Philosophy - Edge First - All processing on the robot - Privacy First - No data leaves the device - Real-time - 30 FPS target - Open - Built by community, for community Quick Start git clone https://github.com/mandarwagh9/openeyes.git cd openeyes pip install -r requirements.txt python src/main.py --debug python src/main.py --follow (Person following!) python src/main.py --ros2 (ROS2 integration) The Journey Started with a simple question: Why can't robots see like we do? Been iterating for months fixing issues like: - MediaPipe detection at high resolution - Person following using bbox height ratio - Gesture-based owner selection Would love feedback from the community! GitHub: github.com/mandarwagh9/openeyes
 
-9h ago
+12h ago
 
 ---
 
@@ -96,7 +94,7 @@ Hey r/robotics! I'm excited to share OpenEyes - an open-source vision system I'v
 
 We recently built an AR game for Quest. It turns chores into a game by detecting and rewarding chores in real-time. It won a big prize from Meta, has a few hundred users, and we’re exploring where to go from here. The game is missing something: what’s the reward beyond XP? This led to a crazy idea - what if the rewards had real value in exchange for players sharing their captures as training data for home robots. Kind of like having an allowance for your chores as an adult. With the added benefit of helping automate boring work. The biggest barrier is privacy. At minimum it has to be opt-in and with some protections like censoring faces and personal info. Looking for more ideas there though. Curious what others think.
 
-21h ago
+1d ago
 
 ---
 
@@ -104,19 +102,13 @@ We recently built an AR game for Quest. It turns chores into a game by detecting
 
 In this video, we break down how the Unitree B2 works in extreme environments, how LiDAR allows it to “see” through smoke, and why this technology is becoming critical for fire and rescue operations. 🔹 What you’ll learn: What is the Unitree B2 Robot How LiDAR works in low-visibility environments What SLAM (Simultaneous Localization and Mapping) means How robots navigate without GPS Why robots are being used in fire and rescue This is the future of robotics in real-world, high-risk environments.
 
-🔗 [youtu.be](https://youtu.be/EnQqVR18N0c?si=nd-g_LZ3yekaKpAA via @YouTube) • 5h ago
+🔗 [youtu.be](https://youtu.be/EnQqVR18N0c?si=nd-g_LZ3yekaKpAA via @YouTube) • 8h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[AI Robotics Lab in Talks to Raise $1 Billion at $11 Billion Valuation](https://www.bloomberg.com/news/articles/2026-03-27/ex-deepmind-staffers-robotics-startup-in-talks-for-11-billion-valuation)**
-
-Bloomberg.com • 3d ago
-
----
 
 **[Can exoskeletons help violinists to stay in time? New study says yes](https://www.euronews.com/next/2026/03/29/robotics-can-improve-musical-timing-between-performers-new-study-shows)**
 
@@ -126,11 +118,11 @@ Euronews.com • 1d ago
 
 ---
 
-**[Voyager, Icarus Robotics to test free-flying robot on space station](https://www.ksl.com/article/51474943/voyager-icarus-robotics-to-test-free-flying-robot-on-space-station)**
+**[Company co-founded by Tipp man to test robots in space](https://www.rte.ie/news/munster/2026/0330/1565895-space-robots/)**
 
-Space-tech firm Voyager Technologies and robotics startup Icarus Robotics have been contracted to demonstrate a free-flying robot on the International Space Station.
+A robotics company co-founded by Tipperary man Jamie Palmer, which is building a robotic labour force for space, has signed a deal to test its technology on board the International Space Station.
 
-KSL News • 4h ago
+RTE.ie • 13h ago
 
 ---
 
@@ -142,25 +134,35 @@ Fortune • 1d ago
 
 ---
 
-**[Video: China’s humanoid robot captivates crowd with smooth catwalk and illusion turn](https://interestingengineering.com/ai-robotics/video-china-humanoid-catwalk-taobao-festival)**
+**[In Ukraine, ground robots are increasingly going on the offensive](https://www.lowyinstitute.org/the-interpreter/ukraine-ground-robots-are-increasingly-going-offensive)**
 
-LimX Dynamics unveiled its Luna humanoid robot, featuring LiDAR navigation, RealSense cameras, and a ROS-based software stack.
+The drone war has moved to the ground, and the results are already reshaping frontline tactics.
 
-Interesting Engineering • 14h ago
-
----
-
-**[Amazon Acquires Fauna Robotics. Is This a Viable Threat to Tesla's Optimus Project?](https://www.fool.com/investing/2026/03/29/amazon-fauna-robotics-threat-tesla-optimus/)**
-
-Amazon's humanoid bet isn't about competing with Tesla's factory robots. Its about quietly building the operating system for the home.
-
-The Motley Fool • 1d ago
+Lowy Institute • 22h ago
 
 ---
 
-**[OpenAI leases massive Richmond site to power robotics expansion](https://www.sfchronicle.com/tech/article/openai-richmond-warehouse-robotics-22160624.php)**
+**[Waukee students qualify for world robotics championship](https://www.kcci.com/article/waukee-students-qualify-for-world-robotics-championship/70888075)**
 
-San Francisco Chronicle • 10m ago
+The HeatWaves Robotics Team from Waukee will represent Iowa at the FIRST Tech Challenge World Championship in Houston next month.
+
+KCCI • 2h ago
+
+---
+
+**[Voyager, Icarus Robotics to test free-flying robot on space station](https://www.ksl.com/article/51474943/voyager-icarus-robotics-to-test-free-flying-robot-on-space-station)**
+
+Space-tech firm Voyager Technologies and robotics startup Icarus Robotics have been contracted to demonstrate a free-flying robot on the International Space Station.
+
+KSL News • 7h ago
+
+---
+
+**[Physical Intelligence Seeks $1 Billion as Robotics Interest Grows](https://www.pymnts.com/artificial-intelligence-2/2026/physical-intelligence-seeks-1-billion-as-robotics-interest-grows/)**
+
+Robotics startup Physical Intelligence is reportedly in talks on a $1 billion funding round. That round would raise the company’s valuation to north of
+
+PYMNTS.com • 1d ago
 
 ---
 
@@ -172,17 +174,17 @@ Fox Business • 2d ago
 
 ---
 
-**[Scholastic Spolight: Waukee robotics team earns spot at world competition](https://who13.com/on-air/seen-on-tv/scholastic-spotlight/scholastic-spolight-waukee-robotics-team-earns-spot-at-world-competition/)**
+**[Iowa City Robotics club may not be able to send students to Worlds without funds](https://www.kcrg.com/2026/03/30/iowa-city-robotics-club-may-not-be-able-send-students-worlds-without-funds/)**
 
-WHO13.com • 11h ago
+If they fall short, only a limited number of students — or none at all — may make the trip.
+
+KCRG • 5h ago
 
 ---
 
-**[In Ukraine, ground robots are increasingly going on the offensive](https://www.lowyinstitute.org/the-interpreter/ukraine-ground-robots-are-increasingly-going-offensive)**
+**[OpenAI leases massive Richmond site to power robotics expansion](https://www.sfchronicle.com/tech/article/openai-richmond-warehouse-robotics-22160624.php)**
 
-The drone war has moved to the ground, and the results are already reshaping frontline tactics.
-
-Lowy Institute • 19h ago
+San Francisco Chronicle • 3h ago
 
 ---
 
@@ -196,7 +198,7 @@ Brett Adcock is a technology entrepreneur focused on building companies in robot
 
 📺 Shawn Ryan Show
 
-👁️ 74K • 👍 3K • 💬 1K • ⏱️ 2:57:09 • 6h ago
+👁️ 143K • 👍 4K • 💬 1K • ⏱️ 2:57:09 • 9h ago
 
 ---
 
@@ -206,7 +208,7 @@ Learn for free on Brilliant for a full 30 days: https://brilliant.org/NikodemBar
 
 📺 Nikodem Bartnik
 
-👁️ 97K • 👍 4K • 💬 70 • ⏱️ 9:55 • 6d ago
+👁️ 98K • 👍 4K • 💬 71 • ⏱️ 9:55 • 6d ago
 
 ---
 
@@ -216,7 +218,7 @@ A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White H
 
 📺 C-SPAN
 
-👁️ 222K • 👍 999 • 💬 2K • ⏱️ 2:59 • 5d ago
+👁️ 223K • 👍 1K • 💬 2K • ⏱️ 2:59 • 5d ago
 
 ---
 
@@ -226,7 +228,17 @@ Brett Adcock shares his vision for the future of humanoid robots, why he believe
 
 📺 Shawn Ryan Show
 
-👁️ 63K • 👍 2K • 💬 634 • ⏱️ 14:05 • 3d ago
+👁️ 64K • 👍 2K • 💬 636 • ⏱️ 14:05 • 3d ago
+
+---
+
+**[Melania Trump Promotes Humanoid Robots as Potential Educators | The View](https://www.youtube.com/watch?v=q6fcoXkiVnQ)**
+
+'The View' co-hosts and Abby Huntsman react to the first lady's sneak peek at the classroom of the future. Subscribe to our ...
+
+📺 The View
+
+👁️ 74K • 👍 1K • 💬 437 • ⏱️ 6:42 • 3d ago
 
 ---
 
@@ -236,7 +248,17 @@ This is the shocking moment a young boy is slapped across the face by a rogue ro
 
 📺 The Sun
 
-👁️ 43K • 👍 330 • 💬 273 • ⏱️ 1:09 • 5d ago
+👁️ 43K • 👍 331 • 💬 274 • ⏱️ 1:09 • 5d ago
+
+---
+
+**[Amazon Just Bought a Humanoid Robot Company… This Changes Everything](https://www.youtube.com/watch?v=jdoYFz7M90I)**
+
+Amazon just made a surprising move into humanoid robotics by acquiring Fauna Robotics, the company behind the Sprout robot.
+
+📺 DPCcars
+
+👁️ 2K • 👍 53 • 💬 6 • ⏱️ 3:18 • 5d ago
 
 ---
 
@@ -256,37 +278,17 @@ Melania Trump hosted an AI-powered humanoid robot at the White House on Wednesda
 
 📺 CBS News
 
-👁️ 55K • 👍 397 • 💬 391 • ⏱️ 9:54 • 5d ago
+👁️ 55K • 👍 406 • 💬 401 • ⏱️ 9:54 • 5d ago
 
 ---
 
-**[Amazon Just Bought a Humanoid Robot Company… This Changes Everything](https://www.youtube.com/watch?v=jdoYFz7M90I)**
+**[NVIDIA Just Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=eIAF4CbbUWI)**
 
-Amazon just made a surprising move into humanoid robotics by acquiring Fauna Robotics, the company behind the Sprout robot.
+Thanks to Delete Me for sponsoring this video. To keep your private info private check out https://www.JoinDeleteMe.com/Kimjava ...
 
-📺 DPCcars
+📺 Kim Java
 
-👁️ 2K • 👍 53 • 💬 6 • ⏱️ 3:18 • 5d ago
-
----
-
-**[Fat Mira Does the Robot Trend 😱](https://www.youtube.com/watch?v=XmIl8d0WUws)**
-
-rumi #huntrix #kpop #kpopdemonhunters #shorts #celebrity #trend #makeup #mira All videos were created by myself.
-
-📺 Faces of Culture
-
-👁️ 6.4M • 👍 16K • 💬 8 • ⏱️ 0:04 • 2d ago
-
----
-
-**[Viral robot appearances on the rise as White House hosts humanoid robot](https://www.youtube.com/watch?v=CDbSdaiEdyQ)**
-
-Humanoid robots have been making appearances through social media, tv segments, and at the latest White House summit.
-
-📺 NBC News
-
-👁️ 97K • 👍 546 • 💬 371 • ⏱️ 3:05 • 4d ago
+👁️ 221K • 👍 9K • 💬 429 • ⏱️ 20:00 • 6d ago
 
 ---
 
