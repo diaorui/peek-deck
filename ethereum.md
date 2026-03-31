@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-31T10:53:47.933439+00:00'
+updated: '2026-03-31T11:50:52.246968+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - cryptocurrency
-- news
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 31, 2026 at 10:53 UTC  
+**Last Updated:** March 31, 2026 at 11:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Google just moved the quantum threat from decades away to 2029. Taproot exposed 6.9 million Bitcoin. Ethereum launched a seven-fork roadmap. Bitcoin has BIP-360 and a mailing list. Here's what that difference means.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/google-quantum-deadline-2029-ethereum-plan-bitcoin-culture-war/) • 2h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/google-quantum-deadline-2029-ethereum-plan-bitcoin-culture-war/) • 3h ago
 
 ---
 
@@ -88,7 +88,7 @@ Google just moved the quantum threat from decades away to 2029. Taproot exposed 
 
 ZCHF is a decentralized stablecoin that is designed to track the value of the Swiss franc (CHF). Unlike popular stablecoins like USDT or USDC that are pegged to the US dollar, ZCHF is pegged 1:1 to Switzerland’s currency. It is issued by the Frankencoin protocol and operates on blockchain infrastructure, which means it doesn’t rely on traditional banks in the same way centralised stablecoins do. Instead, it uses a system of collateral and smart contracts to maintain its value. Why People Are Talking About It Interest in ZCHF has increased after Vitalik Buterin recently swapped a significant amount of USDC into ZCHF. Moves like this bring attention to the idea that DeFi may not stay centered only around the US dollar.
 
-3h ago
+4h ago
 
 ---
 
@@ -96,7 +96,7 @@ ZCHF is a decentralized stablecoin that is designed to track the value of the Sw
 
 With all the discussion around L2 fragmentation lately (EEZ announcement, Superchain, AggLayer), I wanted to share something I've been working on that addresses the problem from a different angle. The issue: every rollup ships its own proof system - Groth16, STARK, Plonk, Halo2, Nova - each needing a separate on-chain verifier at 200k+ gas. Some require trusted setup ceremonies. GLYPH is a universal transparent verification layer that compiles any proof into a common intermediate representation (UCIR) and verifies it through a single on-chain contract. What it does: - Verifies any major proof system through one verifier - <30k gas per on-chain verification (~7.5x cheaper than Groth16 alone) - No trusted setup - fully transparent - Supported: Groth16, KZG, IPA, Plonk, Halo2, STARK (Winterfell, Miden, Cairo/Stone, Circle STARK, Stwo), Nova/HyperNova/Sangria/SuperNova (IVC), SP1, Plonky2/3, Binius How it works: - Packed arity-8 sumcheck over p = 2^128 - 159 - Chain-bound Keccak256 Fiat-Shamir challenges - BaseFold PCS - On-chain verifier in pure Solidity assembly - Formal proof pack with soundness bound ~1.88 x 10^-37 Tested on Sepolia + Hoodi. Benchmarks included and reproducible. Everything is open source under MIT: - Full Paper: https://doi.org/10.5281/zenodo.18792566 https://hackmd.io/@ChristopherSchulze/glyph-zk - Code: https://github.com/Christopher-Schulze/glyph-zk I know the on-chain assembly verifier needs a proper audit before anyone touches it in production - that's on the roadmap. Would love feedback from the community. Happy to answer any questions about the architecture or design decisions.
 
-1h ago
+2h ago
 
 ---
 
@@ -104,7 +104,7 @@ With all the discussion around L2 fragmentation lately (EEZ announcement, Superc
 
 I've been all over daily threads for the last two weeks, and some of those really nice folks have been having fun with this little game dapp that I built. I call it Stupid Games, because you play really easy, simple games, but get to win awesome real ETH prizes! It's an arcade type game platform, full of crypto memes, that pays out real ETH prizes to the winners. All managed by smart contracts of course. I'm creating a beginner friendly, mini tournament just for this sub. No players from the current Leaderboard allowed! And when I say beginner, I mean JT level beginner like from the Daily Doots Podcast #143! Lol! No offence JT 😆 Its free, no gas, no cash, just real fun! The prize is $20 or more, but more than that, its bragging rights to be the king of this hill. It's even got a Burner Wallet login, so you know it's not sus. More dapps should do that right? If you want to give it a shot, there's only space for 9-10 players, so drop your [burner] address and I'll let you in. The FLY game is similar to Flappy Bird, and the SHOOT game is similar to Asteroids. Try them and pick your vibe. So what's in it for me? I worked hard on the app and really want to see it being used. I also think it's genuinely fun when you get it. Plus, I took a job break and built it as a porfolio piece so I would love to get feedback. Many features were actually suggestions from users on the daily threads, which I appreciate so much (Alexis and Tricky)! Any and all feedback/criticism welcome. Questions too! Chips are ERC20 tokens but 1:1 exchangeable for 0.0001 eth from the contract. No promotion of any product in this post. No monetary gain for me, only loss 🙁! Play Stupid Games, Win Awesome Prizes! https://reddit.com/link/1s8gw8d/video/us22jk9r2csg1/player https://reddit.com/link/1s8gw8d/video/9zhhtl9r2csg1/player
 
-3h ago
+4h ago
 
 ---
 
@@ -112,7 +112,7 @@ I've been all over daily threads for the last two weeks, and some of those reall
 
 Hey everyone, Over the last four years of writing smart contracts and teaching these concepts in EVM bootcamps, I keep seeing teams stumble into the exact same architectural traps when trying to achieve cross-chain address parity. Leveraging CREATE2 for deterministic addresses fundamentally changes how we handle multi-chain deployments. But because init_code includes constructor arguments, maintaining that exact same address across chains is impossible if you need to pass in chain-specific variables (like local router addresses or bridge endpoints). The standard industry workaround is deploying EIP-1167 Minimal Proxies via a universal factory, deploying deterministically, then initializing the state in the same transaction. However, this introduces some severe trade-offs that often get overlooked until they hit production: The DELEGATECALL Gas Tax: Minimal proxies are incredibly cheap to deploy (~45 bytes of bytecode), but they add a DELEGATECALL overhead to every single execution (2600 gas cold, 100 warm). At scale, this execution cost compounds brutally for your users. MEV Front-running Risks: If your proxy deployment and initialize() call are not strictly atomic within the factory contract execution, MEV bots might front-run the initialization transaction. This either bricks the instance entirely or hijacks the contract ownership. Immutability vs Upgradeability: To retain the exact same address while upgrading logic, you have to wrap the implementation in UUPS or Transparent Proxies. This inflates the initial deployment cost and introduces strict storage collision risks (requiring flawless adherence to EIP-1967 storage slots). I just published a full breakdown of these mechanics on my blog, diving into the math behind the gas trade-offs and how patterns like CREATE3 are solving the issue for non-proxy contracts where constructor arguments must differ. If you are currently architecting a multi-chain protocol, you can read the full technical deep dive here:https://andreyobruchkov1996.substack.com/p/understanding-contract-deployments-proxies-and-create2-part-2-df8f05998d5e Would love to hear how you all are handling cross-chain deterministic deployments right now. Are you still relying heavily on customized off-chain salt-mining scripts, or have you migrated to CREATE3 wrappers?
 
-13h ago
+14h ago
 
 ---
 
@@ -172,7 +172,7 @@ The Motley Fool • 3d ago
 
 With the Ethereum price struggling around the $2,000 support, the question of when the digital asset will hit a bottom has continued to linger among investors. Naturally, a bottom is largely based on the Bitcoin price, setting the tone for the entire market. However, a crypto analyst has also sugge…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
@@ -180,7 +180,7 @@ TradingView • 3h ago
 
 Tom Lee's Ethereum treasury bought more than 71,000 ETH over the past week, remaining the sole large corporate crypto buyer as Strategy broke its 13-week bitcoin purchase streak.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -188,7 +188,7 @@ CoinDesk • 20h ago
 
 BitMine continued its Ethereum accumulation, adding to its leading ETH treasury while Strategy took a week off from Bitcoin purchases.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -196,7 +196,7 @@ Yahoo Finance • 20h ago
 
 Bitmine has 3,142,643 staked ETH, representing $6.3 billion at $2,005 per ETH MAVAN (Made in America VAlidator Network) launched staking solution on March 25,...
 
-PR Newswire • 22h ago
+PR Newswire • 23h ago
 
 ---
 
@@ -242,7 +242,7 @@ New data shows the future of markets and crypto in general. Its important for bi
 
 📺 Thomas Kralow
 
-👁️ 20K • 👍 2K • 💬 80 • ⏱️ 11:48 • 23h ago
+👁️ 20K • 👍 2K • 💬 80 • ⏱️ 11:48 • 1d ago
 
 ---
 
@@ -262,7 +262,7 @@ BITCOIN DUMP & PUMP EXPLAINED: This is Next!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 5K • 👍 198 • 💬 123 • ⏱️ 20:19 • 10h ago
+👁️ 5K • 👍 198 • 💬 123 • ⏱️ 20:19 • 11h ago
 
 ---
 
@@ -272,7 +272,7 @@ Crypto looks calm… but underneath, everything is moving. The Ethereum Foundati
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 1K • 👍 68 • 💬 32 • ⏱️ 9:26 • 9h ago
+👁️ 1K • 👍 68 • 💬 32 • ⏱️ 9:26 • 10h ago
 
 ---
 
@@ -282,7 +282,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 593 • 👍 23 • 💬 1 • ⏱️ 25:42 • 16h ago
+👁️ 593 • 👍 23 • 💬 1 • ⏱️ 25:42 • 17h ago
 
 ---
 
@@ -292,7 +292,7 @@ Joseph Chalom, CEO of SharpLink, joined me to discuss the company's Ethereum tre
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 146 • 💬 116 • ⏱️ 55:54 • 22h ago
+👁️ 2K • 👍 146 • 💬 116 • ⏱️ 55:54 • 23h ago
 
 ---
 
@@ -302,7 +302,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 572 • 💬 100 • ⏱️ 11:46 • 6h ago
+👁️ 3K • 👍 572 • 💬 100 • ⏱️ 11:46 • 7h ago
 
 ---
 
@@ -322,7 +322,7 @@ At the Digital Asset Summit 2026 in New York, a key question came up: what do ba
 
 📺 Learn Cardano
 
-👁️ 3K • 👍 390 • 💬 81 • ⏱️ 10:53 • 23h ago
+👁️ 3K • 👍 390 • 💬 81 • ⏱️ 10:53 • 1d ago
 
 ---
 

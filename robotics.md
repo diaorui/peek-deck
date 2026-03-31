@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-31T10:53:47.936576+00:00'
+updated: '2026-03-31T11:50:52.250150+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 31, 2026 at 10:53 UTC  
+**Last Updated:** March 31, 2026 at 11:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Two FANUC robots now run a bakery bread line in the Netherlands](https://www.reddit.com/r/robotics/comments/1s7vvqo/two_fanuc_robots_now_run_a_bakery_bread_line_in/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Humanoids daily on 𝕏: https://x.com/humanoidsdaily/status/20381919486372
 
 I’ve been learning ROS2 for a while, mostly by following tutorials and running existing GitHub repos (like TB3). Recently, I decided to stop just copying and actually try building my own robot model in simulation. So I wrote my first URDF/Xacro and visualized it in RViz. What I expected: A simple rectangular base link. What I got: - One model looks like a clean rectangle (as expected) - The other one looks… off (weird structure/positioning) (Attached both images for comparison) Now I’m trying to understand what went wrong. I’m currently trying to move from “running tutorials” → “actually understanding and building systems”, so I’d really appreciate any guidance. Thanks! Here’s the code: https://pastebin.com/mXHcbLiC Would really appreciate if you can point out what’s wrong.
 
-7h ago
+8h ago
 
 ---
 
@@ -58,7 +58,7 @@ I’ve been learning ROS2 for a while, mostly by following tutorials and running
 
 Is there any company buying egicentrc data ,i have a capacity of produing 30 hours of production per day ,in full 1080p 30 fos and .5x All videos are shot on i phone 15 and 15pro max Is there any companies buying guys let me know
 
-14m ago
+1h ago
 
 ---
 
@@ -74,7 +74,7 @@ Posting update here, I doubled down on my mission to create the smallest VIO mod
 
 I've been following along, researching the ARM-SO101 models for a while, and then I just noticed Seeed has posted a video and github for what seems like a similar type of arm, but also aimed at the hobbyist and educational space. They say they're targeting a <$1000 budget and from the available information it looks like it has: 1.5kg payload parallel grip effector a combination of metal and 3d-printed parts. Their github says it will be "True Open Source", so software, blueprints, step files, etc. Their github had a lot of placeholder links and documents when I last checked but there was a timeline for future releases of info. One comment in the github's issues mentioned that the arm seemed very similar to the Edulite A3, but with Lerobot support and some additional hardware capabilities. I don't work for Seeed and am not meaning to post free advertising for them. I just thought it looked like an interesting new development.
 
-6h ago
+7h ago
 
 ---
 
@@ -82,13 +82,13 @@ I've been following along, researching the ARM-SO101 models for a while, and the
 
 Hello I accidently wrote a program in acecode and clicked upload firmare. Now my smart car is not being displayed on wifi section. It was working previously.I cannot find the firmare file in acebot documentation too.
 
-3h ago
+4h ago
 
 ---
 
 **[[Decision] Admits from GATech and UMich for MS in Robotics](https://www.reddit.com/r/robotics/comments/1s8axgg/decision_admits_from_gatech_and_umich_for_ms_in/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hi everyone! I'd like to share with you my latest successes with my quadruped ro
 
 Hey r/robotics! I'm excited to share OpenEyes - an open-source vision system I've been building for humanoid robots. It runs entirely on NVIDIA Jetson Orin Nano with full ROS2 integration. The Problem Every day, millions of robots are deployed to help humans. But most of them are blind. Or dependent on cloud services that fail. Or so expensive only big companies can afford them. I wanted to change that. What OpenEyes Does The robot looks at a room and understands: - "There's a cup on the table, 40cm away" - "A person is standing to my left" - "They're waving at me - that's a greeting" - "The person is sitting down - they might need help" - Object Detection (YOLO11n) - Depth Estimation (MiDaS) - Face Detection (MediaPipe) - Gesture Recognition (MediaPipe Hands) - Pose Estimation (MediaPipe Pose) - Object Tracking - Person Following (show open palm to become owner) Performance - All models: 10-15 FPS - Minimal: 25-30 FPS - Optimized (INT8): 30-40 FPS Philosophy - Edge First - All processing on the robot - Privacy First - No data leaves the device - Real-time - 30 FPS target - Open - Built by community, for community Quick Start git clone https://github.com/mandarwagh9/openeyes.git cd openeyes pip install -r requirements.txt python src/main.py --debug python src/main.py --follow (Person following!) python src/main.py --ros2 (ROS2 integration) The Journey Started with a simple question: Why can't robots see like we do? Been iterating for months fixing issues like: - MediaPipe detection at high resolution - Person following using bbox height ratio - Gesture-based owner selection Would love feedback from the community! GitHub: github.com/mandarwagh9/openeyes
 
-20h ago
+21h ago
 
 ---
 
@@ -124,13 +124,13 @@ Euronews.com • 2d ago
 
 A robotics company co-founded by Tipperary man Jamie Palmer, which is building a robotic labour force for space, has signed a deal to test its technology on board the International Space Station.
 
-RTE.ie • 21h ago
+RTE.ie • 22h ago
 
 ---
 
 **[OpenAI leases massive Richmond site to power robotics expansion](https://www.sfchronicle.com/tech/article/openai-richmond-warehouse-robotics-22160624.php)**
 
-San Francisco Chronicle • 11h ago
+San Francisco Chronicle • 12h ago
 
 ---
 
@@ -154,7 +154,7 @@ Lowy Institute • 1d ago
 
 Acquisition deepens Red Cat’s capabilities in swarming autonomy as the U.S. accelerates investment in small drone innovation SALT LAKE CITY, March 30, 2026 (GLOBE NEWSWIRE) -- Red Cat Holdings, Inc. (Nasdaq: RCAT) (“Red Cat” or the “Company”), a U.S.-based provider of advanced all-domain drone and robotic solutions for defense and national security, today announced it has acquired Apium Swarm Robotics, a California-based developer of distributed control systems for autonomous swarming drones and
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -170,19 +170,19 @@ Interesting Engineering • 15h ago
 
 Lawmakers propose banning Chinese-made robots from US federal use over data security concerns, signaling growing tension in the US–China tech rivalry.
 
-eWeek • 18h ago
+eWeek • 19h ago
 
 ---
 
 **[With Voyager’s help, Icarus Robotics to test free-flyer on ISS](https://spacenews.com/with-voyagers-help-icarus-robotics-to-test-free-flyer-on-iss/)**
 
-SpaceNews • 21h ago
+SpaceNews • 22h ago
 
 ---
 
 **[Scholastic Spolight: Waukee robotics team earns spot at world competition](https://who13.com/on-air/seen-on-tv/scholastic-spotlight/scholastic-spolight-waukee-robotics-team-earns-spot-at-world-competition/)**
 
-WHO13.com • 22h ago
+WHO13.com • 23h ago
 
 ---
 
@@ -236,7 +236,7 @@ Brett Adcock is a technology entrepreneur focused on building companies in robot
 
 📺 Shawn Ryan Show
 
-👁️ 229K • 👍 5K • 💬 2K • ⏱️ 2:57:09 • 17h ago
+👁️ 229K • 👍 5K • 💬 2K • ⏱️ 2:57:09 • 18h ago
 
 ---
 

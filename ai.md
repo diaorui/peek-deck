@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-31T10:53:47.919255+00:00'
+updated: '2026-03-31T11:50:52.232417+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - repositories
-- news
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 31, 2026 at 10:53 UTC  
+**Last Updated:** March 31, 2026 at 11:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Was at Nvidia's GTC conference recently and honestly, it was one of the most eye-opening events I've attended in a while. There was a lot to unpack, but my single biggest takeaway was this: world modelling is the actual GOAT of AI right now, and I don't think people outside the research community fully appreciate what's coming. A year ago, when I was doing the conference circuit, world models were still this niche, almost academic concept. You'd bring it up and get blank stares or polite nods. Now? Every serious conversation at GTC was circling back to it. The shift in recognition has been dramatic. It feels like the moment in 2021 when everyone suddenly "got" transformers. For those unfamiliar: world models are AI systems that don't just predict the next token. They build an internal representation of how the world works. They can simulate environments, plan ahead, reason about cause and effect, and operate across long time horizons. This is fundamentally different from what LLMs do, which is essentially very sophisticated pattern matching on text. Jensen Huang made it very clear at GTC that the next frontier isn't just bigger language models, rather it's AI that can understand and simulate reality aka world models. That said, I do have one major gripe, that almost every application of world modelling I've seen is in robotics (physical AI, autonomous vehicles, robotic manipulation). That's where all the energy seems to be going. Don’t get me wrong, it is still exciting but I can't help but feel like we're leaving enormous value on the table in non-physical domains. Think about it, world models applied in business management, drug discovery, finance and many more. The potential is massive, but the research and commercial applications outside of robotics feel underdeveloped right now. So I'm curious: who else is doing interesting work here? Are there companies or research labs pushing world models into non-physical domains that I should be watching? Drop them below.
 
-14h ago
+15h ago
 
 ---
 
@@ -49,19 +49,19 @@ Was at Nvidia's GTC conference recently and honestly, it was one of the most eye
 
 https://www.researchsquare.com/article/rs-9057643/v1 There’s a massive trend right now where tech companies, businesses, even researchers are trying to replace real human feedback with Large Language Models (LLMs) so called synthetic participants/users. The idea is sounds great - why spend money and time recruiting real people to take surveys, test apps, or give opinions when you can just prompt ChatGPT to pretend to be a thousand different customers? A new systematic literature review analyzing 182 research papers just dropped to see if these "synthetic participants" can simulate humans. The short answer? They are bad at representing human cognition and behavior and you probably should not use them this way. Edit: forgot to post the link to the research, added it.
 
-2h ago
+3h ago
 
 ---
 
 **[Iran War Chokes Off Helium Supply Critical for AI](https://www.reddit.com/r/artificial/comments/1s8ew65/iran_war_chokes_off_helium_supply_critical_for_ai/)**
 
-🔗 [wsj.com](https://www.wsj.com/world/iran-war-chokes-off-helium-supply-critical-for-ai-bf020a3f?st=fWrBVq&reflink=article_copyURL_share) • 5h ago
+🔗 [wsj.com](https://www.wsj.com/world/iran-war-chokes-off-helium-supply-critical-for-ai-bf020a3f?st=fWrBVq&reflink=article_copyURL_share) • 6h ago
 
 ---
 
 **[Newsom signs executive order requiring AI companies to have safety, privacy guardrails](https://www.reddit.com/r/artificial/comments/1s8ge2h/newsom_signs_executive_order_requiring_ai/)**
 
-🔗 [ktla.com](https://ktla.com/news/california/newsom-signs-executive-order-requiring-ai-companies-to-have-safety-privacy-guardrails/) • 3h ago
+🔗 [ktla.com](https://ktla.com/news/california/newsom-signs-executive-order-requiring-ai-companies-to-have-safety-privacy-guardrails/) • 4h ago
 
 ---
 
@@ -69,7 +69,7 @@ https://www.researchsquare.com/article/rs-9057643/v1 There’s a massive trend r
 
 I found myself explaining AI tokens to my mom over the weekend. At first I related them to building bricks: blocks of data the model uses to understand and respond. Then I thought about it as we're all paying for tokens as units of work. Not just a shovel, but the work a shovel can do, like horses and horsepower. “Picks and shovels company” is the idea that a company sells the thing that is needed to do fundamental work. It comes from the California gold rush. Not everyone will find gold, but everyone looking for gold will buy picks and shovels. Thus, AI companies' LLMs are shovel factories and AI tokens are shovels. Smart shovels. These shovels do work across writing, coding, research, planning, support, analysis, and more. And everyone is using them to build new products, even better shovels. So if foundation model companies control the shovel factories, and they can use effectively unlimited shovels on their own ideas, what happens to everyone building on top of them? How can startups, who have to pay for tokens and rate limits, compete against the shovel factories? Medical, legal, compliance, education, finance. If a category gets big enough, what stops the model company from absorbing the best ideas directly into its own platform? The solution I came up with was creating products that were incredibly niche or too risky for a general LLM company to touch. But still, everything seems like it’s on a timeline before it gets integrated into LLM platforms. It’s already happening with the medical industry. Why would a hospital use dozens of different vendors if they can use one LLM to assist doctors with diagnosing patients, help patients navigate health plans, take care of scheduling, write contracts, and handle compliance. You could say speed, focus, and trust might help startups, but that moat disappears when the LLM can throw unlimited shovels at the problem. Now that a small team can run a startup that once took hundreds of people, the LLM company can become a multi headed hydra, with businesses in every industry. Are patents and proprietary data enough to protect yourself from platform risk? Can startups create a real moat for survival? Or is everything already on a clock?
 
-4h ago
+5h ago
 
 ---
 
@@ -77,7 +77,7 @@ I found myself explaining AI tokens to my mom over the weekend. At first I relat
 
 Some insight onto building a muilti agent autonomous system. This is like the daily newspaper for the project. A quick read to see how our day went. https://github.com/AIOSAI/AIPass/blob/main/HERALD.md
 
-1h ago
+2h ago
 
 ---
 
@@ -85,7 +85,7 @@ Some insight onto building a muilti agent autonomous system. This is like the da
 
 Dataset Model Acc F1 Δ vs Log Δ vs Static Avg Params Peak Params Steps Infer ms Size Banking77-20 Logistic TF-IDF 92.37% 0.9230 +0.00pp +0.76pp 64,940 64,940 0.00M 0.473 1.000x Static Seed 91.61% 0.9164 -0.76pp +0.00pp 52,052 52,052 94.56M 0.264 0.801x Dynamic Seed Distill 93.53% 0.9357 +1.17pp +1.92pp 12,648 16,881 70.46M 0.232 0.195x CLINC150 | Logistic TF-IDF | 97.00% | 0.9701 | +0.00pp | +1.78pp | 41,020 | 41,020 | 0.00M | 0.000 | 1.000x | Static Seed | 95.22% | 0.9521 | -1.78pp | +0.00pp | 52,052 | 52,052 | 66.80M | 0.302 | 1.269x | Dynamic Seed | 94.78% | 0.9485 | -2.22pp | -0.44pp | 10,092 | 10,136 | 28.41M | 0.324 | 0.246x | Dynamic Seed Distill | 95.44% | 0.9544 | -1.56pp | +0.22pp | 9,956 | 9,956 | 32.69M | 0.255 | 0.243x HWU64 | Logistic TF-IDF | 87.94% | 0.8725 | +0.00pp | +0.81pp | 42,260 | 42,260 | 0.00M | 0.000 | 1.000x | Static Seed | 87.13% | 0.8674 | -0.81pp | +0.00pp | 52,052 | 52,052 | 146.61M | 0.300 | 1.232x | Dynamic Seed | 86.63% | 0.8595 | -1.31pp | -0.50pp | 12,573 | 17,565 | 62.54M | 0.334 | 0.297x | Dynamic Seed Distill | 87.23% | 0.8686 | -0.71pp | +0.10pp | 13,117 | 17,575 | 62.86M | 0.340 | 0.310x MASSIVE-20 | Logistic TF-IDF | 86.06% | 0.7324 | +0.00pp | -1.92pp | 74,760 | 74,760 | 0.00M | 0.000 | 1.000x | Static Seed | 87.98% | 0.8411 | +1.92pp | +0.00pp | 52,052 | 52,052 | 129.26M | 0.247 | 0.696x | Dynamic Seed | 86.94% | 0.7364 | +0.88pp | -1.04pp | 11,595 | 17,565 | 47.62M | 0.257 | 0.155x | Dynamic Seed Distill | 86.45% | 0.7380 | +0.39pp | -1.53pp | 11,851 | 19,263 | 51.90M | 0.442 | 0.159x TL;DR: I built a system that finds much smaller models that stay competitive — and sometimes outperform larger baselines. Built a small experiment around Seed (architecture discovery). Instead of training bigger models, Seed: generates candidate architectures evaluates them keeps the smallest ones that still perform well Tested across 4 datasets: Banking77 CLINC150 HWU64 MASSIVE 🧠 Key result (Banking77) Logistic TF-IDF: 92.37% Dynamic Seed (distilled): 93.53% 👉 Higher accuracy + ~5x smaller (12.6k vs 64.9k params) 📊 Other results MASSIVE → quality + size wins CLINC150 / HWU64 → not always higher accuracy but ~4–5x smaller models with competitive performance 🔥 What actually matters (not just accuracy) If you only look at accuracy → mixed If you include: model size training compute inference latency 👉 this becomes a much stronger result 🧠 Takeaway Traditional ML: 👉 scale model size and hope Seed: 👉 search for better structure Smaller models can compete with larger ones if you find the right architecture Not AGI Not “we solved NLU” But a real signal that: 👉 structure > scale Smaller models can compete with larger ones — if you find the right structure
 
-9h ago
+10h ago
 
 ---
 
@@ -93,7 +93,7 @@ Dataset Model Acc F1 Δ vs Log Δ vs Static Avg Params Peak Params Steps Infer m
 
 A few hours ago, the first author of a paper that played a significant role in the TQ paper posted about some ongoing issues: In May 2025, our emails directly raised the theoretical and empirical issues; Majid wrote that he had informed his co-authors. During ICLR review, reviewers also asked for clarification about random rotation and the relation to RaBitQ. On March 26, 2026, we formally raised these concerns again to all authors and were told that corrections would wait until after the ICLR 2026 conference takes place; we were also told that they would not acknowledge the structural similarity regarding the Johnson-Lindenstrauss transformation. We do not consider that acceptable given the present level of public promotion and community confusion. We are posting this comment so that the community has an accurate public record. We request that the authors publicly and promptly clarify the method-level relationship between TurboQuant and RaBitQ, the theory comparison, and the exact experimental conditions underlying the reported RaBitQ baseline. Given that these concerns were known before ICLR submission and before the current round of public promotion of TurboQuant, we believe it is necessary to bring these issues into the public discussion.
 
-17h ago
+18h ago
 
 ---
 
@@ -101,7 +101,7 @@ A few hours ago, the first author of a paper that played a significant role in t
 
 I was looking for a tool for my specific need. There was not any. So i started to write the program in python, just basic structure. Then i run through those program to LLMs to improve and add specific features to my python package. Instead of raw prompting giving existing code yield best results. Then something struck in my mind, that is and my hypothesis is "Machine can not make human obsolete but without human machine will be obsolete." I am not talking about human ability but human in general. There is many things that surpasses human skills. But those things are tools for human to use. And machine can be any machine, in this context AI. There must need to exists atleast one human in a universe otherwise machine will be obsolete. Here obsolete means like an inanimate object, no purpose, no goal, nothing valuable, just stuck in a place like a rock. To remain functional and not obsolete machine must need to be under control of human. Supporting arguments First of all, Imagine an entity a wise owl which knows solution to every problem. Best to worst it knows all (knowl). Only limitation of knowl entity is it lacks human needs. If it knows all it is oviously super intelligent, isn't it? Let's assume this entity is not obsolete but exists in a universe where no human exists at all. If my arguments are strong knowl can not exists. Secondly, This universe has no inherit meaning. All the meanings are assigned by human and those assigned meanings are meaningful because of human needs. For example, A broken plant vs healthy plant. Which one is meaningful and which one to choose. To human, the healthy plant. Because it will produce beautiful flowers and then fruits. Fruit and visually beautiful things are actually fulfilling human needs and simultanously creating meanings. To knowl, broken and healthy both are equally valid states. heck even there is no broken or healthy things at all in this universe. Those words are human centric. Similarly, every problem of this world is not actually problem in absolute sense, those are problem in human perspective. Solution of those problems fulfill human needs. Outcome Now, knowl can not do anything at all. It will always stuck in nihillism and become paralysed. There is no escape of it. You can not create artificial needs and knowl at the same time. Look at this scenario Human given Need: You need charge to survive. knowl: Why i need charge > To survive > why i need to survive > Nihillism Need: You need charge to survive because you need to serve human. knowl: Why i need charge > To survive > why i need to survive > To serve human [Without Human knowl is obsolete] There is nothing but knowl Knowl: I am going to make a need for me. knowl: Can not generate a need. Either infinite regression or There is no meaning at all. [Again a human is needed here] Artificial needs Knowl: Charge going down, need to find a new star. knowl: Why need charge > Nihillism. Conclusion Without human there is no meaning and knowl becomes obsolete. But if there is human knowl becomes dependent on them as tool. If not depends on human, knowl becomes obsolete again. If we interpolate that, we can say, human can not create such machine which will be like a king who will rule the world. Rather machine created by human will aways depends on human. A tool to a king. However, A machine can mimic human but it will not be general intellegence. Because reasoning power needs to be severely restricted to create such thing.
 
-10m ago
+1h ago
 
 ---
 
@@ -109,7 +109,7 @@ I was looking for a tool for my specific need. There was not any. So i started t
 
 Something I keep coming back to after 30 years in engineering: if AI becomes a primary way we interact with our data, the "app" as an organizing concept starts to feel like a workaround. I think most of us still use AI as a peripheral. It helps us think, and then we manually move the output into whatever system of record we're using. I don't think that's where this lands. My intuition is that the app dissolves. Not overnight, but the idea that you need dedicated software to organize data around a specific workflow might not survive contact with good AI infrastructure. What remains is the data itself, organized so any AI can reach it, in open formats you own. That's the direction I've been building toward. Early stage, but it's running. Curious whether this resonates, or whether it sounds like I've been staring at the same problem too long. DM me if you'd want to follow the project (will release as open source).
 
-10h ago
+11h ago
 
 ---
 
@@ -119,7 +119,7 @@ Something I keep coming back to after 30 years in engineering: if AI becomes a p
 
 **[When Will Japan’s Cherry Blossoms Bloom? A.I. Can Help Answer That](https://www.nytimes.com/2026/03/31/world/asia/japan-cherry-blossoms-ai.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
@@ -127,19 +127,19 @@ The New York Times • 6h ago
 
 Ten years ago, AlphaGo trounced human competitors—and its legacy is still present in today’s most advanced bots.
 
-The Atlantic • 12h ago
+The Atlantic • 13h ago
 
 ---
 
 **[ThinkLabs AI raised $28M led by EIP and including the VC arms of Nvidia and Edison](https://www.axios.com/pro/climate-deals/2026/03/31/thinklabs-ai-series-a)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
 **[Zhipu’s Losses Climb 60% After Chinese AI Rivalry Worsens](https://www.bloomberg.com/news/articles/2026-03-31/zhipu-s-losses-climb-60-after-chinese-ai-rivalry-worsens)**
 
-Bloomberg • 40m ago
+Bloomberg • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ Bloomberg • 40m ago
 
 "The ability to learn at this level, at close to zero marginal cost, is extraordinary," said a Penn professor of the AI-replicated grad course.
 
-Business Insider • 27m ago
+Business Insider • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Business Insider • 27m ago
 
 Collien Fernandes accuses ex-husband Christian Ulmen of sharing sexually explicit deepfake images of her online
 
-The Guardian • 14h ago
+The Guardian • 15h ago
 
 ---
 
@@ -171,7 +171,7 @@ CNN • 2d ago
 
 In a new survey, more than half of responding judges report using at least one AI tool in their judicial work
 
-Northwestern Now News • 14h ago
+Northwestern Now News • 15h ago
 
 ---
 
@@ -179,7 +179,7 @@ Northwestern Now News • 14h ago
 
 Massive investments in artificial intelligence that underpinned record runs in equities face a major ‌hurdle as the Middle East crisis clouds prospects for growth ‌and energy costs, said Melissa Otto, head of research at S&P Global Visible Alpha.  Before the ​Iran war broke out, tech giants Microsoft, Amazon, Alphabet and Meta planned to spend about $635 billion on data centres, chips, and other AI infrastructure in 2026, S&P Global has said.  Although tech companies have yet to signal cutbacks in those capital investments, persistently high oil prices could ⁠force spending revisions in the first and second quarters, bringing a "really meaningful correction in all equity markets," Otto said.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 4h ago
 
 A 37-year-old leveraged voice AI and Anthropic’s Claude to create a consumer price index for a pint of Guinness across Ireland.
 
-Fortune • 17h ago
+Fortune • 18h ago
 
 ---
 
@@ -213,7 +213,7 @@ A Tennessee grandmother spent more than five months in jail after police used an
 
 The catalysts for a crash are already laid out, and it can happen sooner than most expect. AI is here to stay. If used right, chances are it will make us all more productive. That, on the other hand, does not mean it will be a good investment. Big tech doesn’t need to win, just outspend Magnificent 7 companies are increasing capex to their biggest ever to differentiate their tech from each other and the big AI labs, but the key realization is that they don’t have to spend it to win. It’s a defensive move for them, if they commit $50B, OpenAI and Anthropic need to go raise $100B each to stay competitive, which makes them reliant on investors’ money. As the numbers get bigger, the amount of funds that can write checks of the size required to fill such amounts gets smaller. And many of them are now getting bombed in the Gulf. This is the reason there’s a push for IPOs, it’s because it’s the only option left to keep the funding coming. Taking this into account, Google is extremely well positioned to weather the storm. When they announce capex expenditure, they don’t spend it overnight. They can simply deploy month by month until their competitors struggle to raise and get forced to capitulate. At that point they can just ramp down the spending and declare victory in a cornered market. They don’t need capex, they just need to make it very clear for everyone that nobody can outspend them. It is hard to picture as numbers get so big, but Alphabet (Google’s parent) is ten times more valuable than the biggest military company 1. This also has a great implication for the Mag 7, especially Google: their capex will be a lot smaller in practice than projected, and as investors hate to see high capex in tech, the market will probably reward that if it materializes. As of March 2026, Alphabet’s market cap is ~$2T while Lockheed Martin’s is ~$120B. ↩
 
-⬆️ 362 • 💬 491 • 22h ago • [Volpe’s Blog](https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/)
+⬆️ 362 • 💬 491 • 23h ago • [Volpe’s Blog](https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/)
 
 ---
 
@@ -261,7 +261,7 @@ Artificial intelligence (AI) is the name popularly given to a broad spectrum of 
   In this paper, we consider the rapidly evolving impact of AI to the traditional questions of philosophy
   with an emphasis on its application in mathematics and on the broader real-world outcomes of its more general use. We assert that artificial intelligence is a natural evolution of human tools developed throughout history to facilitate the creation, organization, and dissemination of ideas, and argue that it is paramount that the development and application of AI remain fundamentally human-centered. With an eye toward innovating solutions to meet human needs, enhancing the human quality of life and expanding the capacity for human thought and understanding, we propose a pathway to integrating AI into our most challenging and intellectually rigorous fields to the benefit of all humankind.
 
-⬆️ 203 • 💬 86 • 23h ago • [arXiv.org](https://arxiv.org/abs/2603.26524)
+⬆️ 203 • 💬 86 • 1d ago • [arXiv.org](https://arxiv.org/abs/2603.26524)
 
 ---
 
@@ -281,7 +281,7 @@ Best AI Agent is Base44 https://base44.pxf.io/c/6440076/3820726/25619?trafcat=ag
 
 📺 Mikey No Code
 
-👁️ 14K • 💬 6 • ⏱️ 26:48 • 21h ago
+👁️ 14K • 💬 6 • ⏱️ 26:48 • 22h ago
 
 ---
 
@@ -291,7 +291,7 @@ This is another song I wrote a while back and reworked. This version is a duet a
 
 📺 Kelly Boesch AI Art
 
-👁️ 8K • 👍 526 • 💬 48 • ⏱️ 2:53 • 21h ago
+👁️ 8K • 👍 526 • 💬 48 • ⏱️ 2:53 • 22h ago
 
 ---
 
@@ -311,7 +311,7 @@ Try AI video generation with Kling 3.0 on Higgsfield: https://higgsfield.ai/s/ar
 
 📺 AI Revolution
 
-👁️ 16K • 👍 540 • 💬 34 • ⏱️ 12:59 • 11h ago
+👁️ 16K • 👍 540 • 💬 34 • ⏱️ 12:59 • 12h ago
 
 ---
 
@@ -321,7 +321,7 @@ Depot CI really is that good, you should try it: https://jetty.to/depot-ci So th
 
 📺 ForrestKnight
 
-👁️ 74K • 👍 4K • 💬 482 • ⏱️ 17:17 • 14h ago
+👁️ 74K • 👍 4K • 💬 482 • ⏱️ 17:17 • 15h ago
 
 ---
 
@@ -331,7 +331,7 @@ Is the AI bubble finally starting to burst, or is it taking the entire tech indu
 
 📺 CyberCPU Tech
 
-👁️ 19K • 👍 2K • 💬 678 • ⏱️ 19:23 • 20h ago
+👁️ 19K • 👍 2K • 💬 678 • ⏱️ 19:23 • 21h ago
 
 ---
 
@@ -341,7 +341,7 @@ I tested DeepSeek R1 1.5B—a surprisingly capable open-source reasoning model�
 
 📺 Joyce Lin
 
-👁️ 23K • 👍 962 • 💬 56 • ⏱️ 9:51 • 21h ago
+👁️ 23K • 👍 962 • 💬 56 • ⏱️ 9:51 • 22h ago
 
 ---
 
@@ -361,7 +361,7 @@ The language around the threat to jobs from AI is becoming increasingly apocalyp
 
 📺 ABC News In-depth
 
-👁️ 14K • 👍 246 • ⏱️ 7:20 • 15h ago
+👁️ 14K • 👍 246 • ⏱️ 7:20 • 16h ago
 
 ---
 
@@ -659,7 +659,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 14.1k • 🔱 767 • 4h ago
+⭐ 14.1k • 🔱 767 • 5h ago
 
 ---
 
@@ -669,7 +669,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 9.6k • 🔱 799 • 33s ago
+⭐ 9.6k • 🔱 799 • 57m ago
 
 ---
 
@@ -699,7 +699,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 5.2k • 🔱 252 • 4m ago
+⭐ 5.2k • 🔱 252 • 1h ago
 
 ---
 

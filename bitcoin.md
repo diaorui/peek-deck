@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-31T10:53:47.927484+00:00'
+updated: '2026-03-31T11:50:52.240864+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - cryptocurrency
-- news
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 31, 2026 at 10:53 UTC  
+**Last Updated:** March 31, 2026 at 11:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Starting Monday, Square began automatically enabling Bitcoin payments for millions of eligible U.S. small businesses, according to a recent announcement. It is leveraging the Bitcoin Lightning Network and defaulting all merchant settlements to U.S. dollars. Notably, Square is rolling out Bitcoin acceptance with zero additional setup required from the merchants. Miles Suter, Block’s head of Bitcoin product, confirmed the deployment on X, noting that sellers who accept the cryptocurrency will receive fiat currency by default. “We’re making it easier for millions of businesses to accept bitcoin,” Suter stated. “This is how bitcoin as everyday money begins.” It is also worth noting that Square is waiving all processing fees on these transactions through the end of 2026. The sheer scale of the rollout is quite notable. It is targeting an eligible pool of roughly 4 million U.S. merchants that comprise 78% of Square's user base. Square’s infrastructure bypasses the base Bitcoin blockchain in favor of the Lightning Network. The Lightning Network operates as a "Layer 2" protocol built directly on top of the base chain. The Bitcoin blockchain (the main layer) gets engaged when a payment channel is closed. At that point, the network records the final net balance. Square is capable of delivering a checkout experience that can rival the speed of legacy credit cards. However, it is operating on an open, decentralized monetary network. David Marcus, CEO of Lightspark and former President of PayPal, described the integration as a potential “TCP/IP moment” for global financial infrastructure.
 
-🔗 [U.Today](https://u.today/bitcoin-lighting-gets-major-adoption-boost-in-us) • 13h ago
+🔗 [U.Today](https://u.today/bitcoin-lighting-gets-major-adoption-boost-in-us) • 14h ago
 
 ---
 
@@ -89,7 +89,7 @@ Starting Monday, Square began automatically enabling Bitcoin payments for millio
 
 https://preview.redd.it/t90261ey7csg1.png?width=1200&format=png&auto=webp&s=e4c0048cf406f8ead73b9e9feb3e7dcbc6c9fa82 90 million Americans with 401ks is trillions of dollars in potential capital. even a 1% allocation to bitcoin from that pool would be a demand shock like nothing we’ve seen.
 
-2h ago
+3h ago
 
 ---
 
@@ -97,7 +97,7 @@ https://preview.redd.it/t90261ey7csg1.png?width=1200&format=png&auto=webp&s=e4c0
 
 I didn't start until early 2022 and only curled my lip at buying a digital currency a little bit before I caved and aped in. But I couldn't be happier now. Maybe if I made a little more money to help my stacking but aside from that pretty good. I hope everyone's looking forward to the summer.
 
-11h ago
+12h ago
 
 ---
 
@@ -105,7 +105,7 @@ I didn't start until early 2022 and only curled my lip at buying a digital curre
 
 Not your keys, not your Bitcoin HODL Don’t talk about how much Bitcoin you have Don’t lose your private key Don’t trade. And definitely do NOT use leverage Verify, don’t trust Run your own node Stay humble, stack sats Zoom out Bitcoin, not shitcoins
 
-11h ago
+12h ago
 
 ---
 
@@ -113,7 +113,7 @@ Not your keys, not your Bitcoin HODL Don’t talk about how much Bitcoin you hav
 
 On-chain data shows the Bitcoin mining Hashrate has seen a notable jump since the mid-March lows, a sign that miners have been coming back. Bitcoin Hashrate Has Retraced Much Of The Earlier Decline The “Hashrate” refers to an indicator that keeps track of the total amount of computing power that miners have connected to the […]
 
-🔗 [Bitcoin Insider](https://www.bitcoininsider.org/article/301080/bitcoin-miners-are-coming-back-hashrate-jumps-125-march-lows) • 4h ago
+🔗 [Bitcoin Insider](https://www.bitcoininsider.org/article/301080/bitcoin-miners-are-coming-back-hashrate-jumps-125-march-lows) • 5h ago
 
 ---
 
@@ -121,7 +121,7 @@ On-chain data shows the Bitcoin mining Hashrate has seen a notable jump since th
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
 
 ---
 
@@ -135,7 +135,7 @@ just wondering what everyone's timeline looks like for actually cashing out or i
 
 **[Applying for a job during the bear market](https://www.reddit.com/r/Bitcoin/comments/1s7nly6/applying_for_a_job_during_the_bear_market/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -143,7 +143,7 @@ just wondering what everyone's timeline looks like for actually cashing out or i
 
 Printed out the BIP 39 2048 word list. cut it all up (took a fucking while) but now it’s all done. chose my 23 words and had seed signer calculate the 24th. originally wanted to do dice but still was paranoid to trust its math… even after verifying several sets of rolls on ian coleman’s website. Mind you I also verified seedsigner os before running it on the seedsigner hardware. this should be the best trustless way to generate a seed phrase as you generate 23 words even if the seed signer math screws you somehow (you still choose from a limited amount of checksums for the 24th word). No better way to generate your own seed phrase… 2048 words in a hat over everything else.
 
-10h ago
+11h ago
 
 ---
 
@@ -151,7 +151,7 @@ Printed out the BIP 39 2048 word list. cut it all up (took a fucking while) but 
 
 Hi all, we just hit a brand new all-time-high on the 200 week moving average. Just like every day in the past 14 years. Remember that this is a marathon. Cut the short term noise!
 
-23h ago
+1d ago
 
 ---
 
@@ -163,7 +163,7 @@ Hi all, we just hit a brand new all-time-high on the 200 week moving average. Ju
 
 Rising U.S. real yields, especially on 10-year TIPS, pose a headwind to zero-yielding risk assets like bitcoin.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -171,13 +171,13 @@ CoinDesk • 3h ago
 
 Bitcoin, Ethereum and XRP may be reclaiming their war haven status once again.
 
-barrons.com • 18h ago
+barrons.com • 19h ago
 
 ---
 
 **[Bitcoin, XRP prices are falling. What strategy’s rare buying pause means for cryptos.](https://www.msn.com/en-us/money/savingandinvesting/bitcoin-xrp-prices-are-falling-what-strategy-s-rare-buying-pause-means-for-cryptos/ar-AA1ZO5D2?ocid=finance-verthp-feeds)**
 
-MSN • 22m ago
+MSN • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ MSN • 22m ago
 
 XRP amplifies Bitcoin's moves by 1.8x. If BTC price drops to $60,000, the correlation data points to XRP price falling back toward $1.11.
 
-247wallst.com • 18h ago
+247wallst.com • 19h ago
 
 ---
 
@@ -193,7 +193,7 @@ XRP amplifies Bitcoin's moves by 1.8x. If BTC price drops to $60,000, the correl
 
 The sale underscores liquidity pressures as the company continues its pivot to a bitcoin treasury strategy.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -201,7 +201,7 @@ CoinDesk • 1h ago
 
 Nakamoto, the Bitcoin treasury company formerly known as KindlyMD, sold $20 million worth of Bitcoin in March and cut a large portion of its Metaplanet stake at a loss during the first quarter of the year.The company, chaired by David Bailey, sold roughly 284 Bitcoin (BTC) for $20 million, implying…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
@@ -209,7 +209,7 @@ TradingView • 2h ago
 
 The company said it plans to use the proceeds to invest in its core businesses and replenish working capital following recent mergers.
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -217,7 +217,7 @@ The Block • 5h ago
 
 New York City, NY, March 31, 2026 (GLOBE NEWSWIRE) -- There are multiple promotions available across Bitcoin casinos today, but many of them still come with unclear terms or slow payouts. BitStarz is often highlighted for offering a stronger Bitcoin casino no deposit bonus that focuses on real usability, including 50 free spins and faster payout handling. >>Check the Full Details of the 50 Free Spins No Deposit Offer on BitStarz<< In recent updates, the platform’s licensed status under the Curaç
 
-Yahoo Finance • 22m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -225,7 +225,7 @@ Yahoo Finance • 22m ago
 
 From churches allowing congregants to tithe with digital coins to blogs promoting bitcoin as biblically sound, there’s an emerging Christian crypto subculture.
 
-NBC News • 2d ago
+NBC News • 3d ago
 
 ---
 
@@ -233,7 +233,7 @@ NBC News • 2d ago
 
 The advancement of a key piece of crypto legislation was supposed to revive crypto from its doldrums—it didn't.
 
-Investopedia • 18h ago
+Investopedia • 19h ago
 
 ---
 
@@ -245,7 +245,7 @@ Investopedia • 18h ago
 
 The complete workflow: unsigned transaction, air gap transfer, offline signing, broadcast. Plus PSBT, Dark Skippy, and the key-at-rest problem.
 
-⬆️ 6 • 💬 3 • 15h ago • [Frozen Security](https://frozensecurity.com/blog/how-offline-bitcoin-signing-works/)
+⬆️ 6 • 💬 3 • 16h ago • [Frozen Security](https://frozensecurity.com/blog/how-offline-bitcoin-signing-works/)
 
 ---
 
@@ -253,7 +253,7 @@ The complete workflow: unsigned transaction, air gap transfer, offline signing, 
 
 The first signing system where the private key is a physical key — and can still transact. Titanium. Not stored digitally. Not protected by firmware.
 
-⬆️ 2 • 💬 1 • 11h ago • [Frozen Security](https://frozensecurity.com/)
+⬆️ 2 • 💬 1 • 12h ago • [Frozen Security](https://frozensecurity.com/)
 
 ---
 
@@ -281,7 +281,7 @@ Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes
 
 Agent-native inference engine with O(1) fork latency for tree-structured reasoning - BioInfo/dendrite
 
-⬆️ 3 • 💬 1 • 20h ago • [GitHub](https://github.com/BioInfo/dendrite)
+⬆️ 3 • 💬 1 • 21h ago • [GitHub](https://github.com/BioInfo/dendrite)
 
 ---
 
@@ -301,7 +301,7 @@ The global economy didn't slowly weaken. It snapped. In just 72 hours, multiple 
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 2K • 💬 181 • ⏱️ 48:32 • 10h ago
+👁️ 18K • 👍 2K • 💬 181 • ⏱️ 48:32 • 11h ago
 
 ---
 
@@ -331,7 +331,7 @@ Larry McDonald is a New York Times bestselling author and founder of the Bear Tr
 
 📺 Anthony Pompliano
 
-👁️ 12K • 👍 525 • 💬 6 • ⏱️ 43:00 • 13h ago
+👁️ 12K • 👍 525 • 💬 6 • ⏱️ 43:00 • 14h ago
 
 ---
 
@@ -341,7 +341,7 @@ Bitcoin #Crypto #Finance Bitcoin may be entering its biggest macro shift yet as 
 
 📺 The Wolf Of All Streets
 
-👁️ 25K • 👍 1K • 💬 378 • ⏱️ 1:04:46 • 20h ago
+👁️ 25K • 👍 1K • 💬 378 • ⏱️ 1:04:46 • 21h ago
 
 ---
 
@@ -351,7 +351,7 @@ Ledger CEO Pascal Gauthier discusses Bitcoin's price decline, volatility across 
 
 📺 Fox Business Clips
 
-👁️ 53K • 👍 1K • 💬 454 • ⏱️ 9:10 • 20h ago
+👁️ 53K • 👍 1K • 💬 454 • ⏱️ 9:10 • 21h ago
 
 ---
 
@@ -369,7 +369,7 @@ Contact Congress: https://www.congress.gov/members/find-your-member BTC Conferen
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 2K • 💬 146 • ⏱️ 9:58 • 11h ago
+👁️ 29K • 👍 2K • 💬 146 • ⏱️ 9:58 • 12h ago
 
 ---
 
@@ -379,7 +379,7 @@ Nick Valdez looks at 2 different charts painting some very serious warning signs
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 150 • 💬 49 • ⏱️ 3:30 • 11h ago
+👁️ 3K • 👍 150 • 💬 49 • ⏱️ 3:30 • 12h ago
 
 ---
 
@@ -389,7 +389,7 @@ In this episode of The Bitcoin for Corporations Show, the leadership at Strive e
 
 📺 Bitcoin For Corporations
 
-👁️ 3K • 👍 137 • 💬 10 • ⏱️ 44:46 • 20h ago
+👁️ 3K • 👍 137 • 💬 10 • ⏱️ 44:46 • 21h ago
 
 ---
 
