@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-31T20:05:19.429028+00:00'
+updated: '2026-03-31T21:03:13.695241+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 31, 2026 at 20:05 UTC  
+**Last Updated:** March 31, 2026 at 21:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[BabaCAD Robotics Web v2.1](https://www.reddit.com/r/robotics/comments/1s8v9by/babacad_robotics_web_v21/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printed parts, motorized projector, home decoration, and DIY electronics -- if you know of anyone else that might be interested in this stuff, sharing to others would really help me out! Hope to see you around here or YouTube :)
 
-1h ago
+2h ago
 
 ---
 
@@ -50,7 +50,7 @@ https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printe
 
 https://reddit.com/link/1s8tt6j/video/miswsbmylfsg1/player Hey - spent the last year building PhAIL (physical AI leaderboard). I wanted to answer a simple question: how good are robot AI models on actual work, not demos PhAIL runs models on a real robot doing bin-to-bin picking and measures: throughput (units/hour) reliability (time between failures) everything is public: full videos of every run telemetry + logs fine-tuning dataset + training scripts link: https://phail.ai Genuinely curious what you think. What’s useful here, what’s missing. Please share your feedback.
 
-2h ago
+3h ago
 
 ---
 
@@ -58,7 +58,7 @@ https://reddit.com/link/1s8tt6j/video/miswsbmylfsg1/player Hey - spent the last 
 
 To learn more about running OpenClaw and ROS robotics, checkout AgenticROS https://agenticros.com
 
-58m ago
+1h ago
 
 ---
 
@@ -70,7 +70,7 @@ To learn more about running OpenClaw and ROS robotics, checkout AgenticROS https
 
 **[Robots are DJing now AGIBOT X2 live at GTC 2026](https://www.reddit.com/r/robotics/comments/1s8tg5j/robots_are_djing_now_agibot_x2_live_at_gtc_2026/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -94,7 +94,7 @@ From Humanoids daily on 𝕏: https://x.com/humanoidsdaily/status/20381919486372
 
 Hello I accidently wrote a program in acecode and clicked upload firmare. Now my smart car is not being displayed on wifi section. It was working previously.I cannot find the firmare file in acebot documentation too.
 
-13h ago
+14h ago
 
 ---
 
@@ -142,7 +142,7 @@ SpaceNews • 1d ago
 
 Training robots to perform physical tasks is much more complicated than training artificial intelligence to write a paper.
 
-The Detroit News • 44m ago
+The Detroit News • 1h ago
 
 ---
 
@@ -150,7 +150,7 @@ The Detroit News • 44m ago
 
 AGIBOT said it is transitioning from initial humanoid rollouts to multiple industries and sites worldwide.
 
-The Robot Report • 2h ago
+The Robot Report • 3h ago
 
 ---
 
@@ -166,7 +166,7 @@ KPAX News • 1d ago
 
 Early customers included Disney.
 
-Fortune • 1d ago
+Fortune • 2d ago
 
 ---
 
@@ -226,7 +226,7 @@ Brett Adcock shares his vision for the future of humanoid robots, why he believe
 
 📺 Shawn Ryan Show
 
-👁️ 67K • 👍 2K • 💬 642 • ⏱️ 14:05 • 3d ago
+👁️ 67K • 👍 2K • 💬 642 • ⏱️ 14:05 • 4d ago
 
 ---
 
