@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-31T11:50:52.232417+00:00'
+updated: '2026-03-31T13:21:39.885705+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
+- videos
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 31, 2026 at 11:50 UTC  
+**Last Updated:** March 31, 2026 at 13:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Was at Nvidia's GTC conference recently and honestly, it was one of the most eye-opening events I've attended in a while. There was a lot to unpack, but my single biggest takeaway was this: world modelling is the actual GOAT of AI right now, and I don't think people outside the research community fully appreciate what's coming. A year ago, when I was doing the conference circuit, world models were still this niche, almost academic concept. You'd bring it up and get blank stares or polite nods. Now? Every serious conversation at GTC was circling back to it. The shift in recognition has been dramatic. It feels like the moment in 2021 when everyone suddenly "got" transformers. For those unfamiliar: world models are AI systems that don't just predict the next token. They build an internal representation of how the world works. They can simulate environments, plan ahead, reason about cause and effect, and operate across long time horizons. This is fundamentally different from what LLMs do, which is essentially very sophisticated pattern matching on text. Jensen Huang made it very clear at GTC that the next frontier isn't just bigger language models, rather it's AI that can understand and simulate reality aka world models. That said, I do have one major gripe, that almost every application of world modelling I've seen is in robotics (physical AI, autonomous vehicles, robotic manipulation). That's where all the energy seems to be going. Don’t get me wrong, it is still exciting but I can't help but feel like we're leaving enormous value on the table in non-physical domains. Think about it, world models applied in business management, drug discovery, finance and many more. The potential is massive, but the research and commercial applications outside of robotics feel underdeveloped right now. So I'm curious: who else is doing interesting work here? Are there companies or research labs pushing world models into non-physical domains that I should be watching? Drop them below.
 
-15h ago
+16h ago
 
 ---
 
@@ -49,19 +49,27 @@ Was at Nvidia's GTC conference recently and honestly, it was one of the most eye
 
 https://www.researchsquare.com/article/rs-9057643/v1 There’s a massive trend right now where tech companies, businesses, even researchers are trying to replace real human feedback with Large Language Models (LLMs) so called synthetic participants/users. The idea is sounds great - why spend money and time recruiting real people to take surveys, test apps, or give opinions when you can just prompt ChatGPT to pretend to be a thousand different customers? A new systematic literature review analyzing 182 research papers just dropped to see if these "synthetic participants" can simulate humans. The short answer? They are bad at representing human cognition and behavior and you probably should not use them this way. Edit: forgot to post the link to the research, added it.
 
-3h ago
-
----
-
-**[Iran War Chokes Off Helium Supply Critical for AI](https://www.reddit.com/r/artificial/comments/1s8ew65/iran_war_chokes_off_helium_supply_critical_for_ai/)**
-
-🔗 [wsj.com](https://www.wsj.com/world/iran-war-chokes-off-helium-supply-critical-for-ai-bf020a3f?st=fWrBVq&reflink=article_copyURL_share) • 6h ago
+4h ago
 
 ---
 
 **[Newsom signs executive order requiring AI companies to have safety, privacy guardrails](https://www.reddit.com/r/artificial/comments/1s8ge2h/newsom_signs_executive_order_requiring_ai/)**
 
-🔗 [ktla.com](https://ktla.com/news/california/newsom-signs-executive-order-requiring-ai-companies-to-have-safety-privacy-guardrails/) • 4h ago
+🔗 [ktla.com](https://ktla.com/news/california/newsom-signs-executive-order-requiring-ai-companies-to-have-safety-privacy-guardrails/) • 6h ago
+
+---
+
+**[Iran War Chokes Off Helium Supply Critical for AI](https://www.reddit.com/r/artificial/comments/1s8ew65/iran_war_chokes_off_helium_supply_critical_for_ai/)**
+
+🔗 [wsj.com](https://www.wsj.com/world/iran-war-chokes-off-helium-supply-critical-for-ai-bf020a3f?st=fWrBVq&reflink=article_copyURL_share) • 7h ago
+
+---
+
+**[Pro-AI group to spend $100mn on US midterm elections as backlash grows](https://www.reddit.com/r/artificial/comments/1s8l0x7/proai_group_to_spend_100mn_on_us_midterm/)**
+
+November 3 poll set to be battleground over regulation of AI
+
+🔗 [ft.com](https://www.ft.com/content/6a3f1938-759d-4ae4-924e-6a0feac14e24?syn-25a6b1a6=1) • 1h ago
 
 ---
 
@@ -69,7 +77,15 @@ https://www.researchsquare.com/article/rs-9057643/v1 There’s a massive trend r
 
 I found myself explaining AI tokens to my mom over the weekend. At first I related them to building bricks: blocks of data the model uses to understand and respond. Then I thought about it as we're all paying for tokens as units of work. Not just a shovel, but the work a shovel can do, like horses and horsepower. “Picks and shovels company” is the idea that a company sells the thing that is needed to do fundamental work. It comes from the California gold rush. Not everyone will find gold, but everyone looking for gold will buy picks and shovels. Thus, AI companies' LLMs are shovel factories and AI tokens are shovels. Smart shovels. These shovels do work across writing, coding, research, planning, support, analysis, and more. And everyone is using them to build new products, even better shovels. So if foundation model companies control the shovel factories, and they can use effectively unlimited shovels on their own ideas, what happens to everyone building on top of them? How can startups, who have to pay for tokens and rate limits, compete against the shovel factories? Medical, legal, compliance, education, finance. If a category gets big enough, what stops the model company from absorbing the best ideas directly into its own platform? The solution I came up with was creating products that were incredibly niche or too risky for a general LLM company to touch. But still, everything seems like it’s on a timeline before it gets integrated into LLM platforms. It’s already happening with the medical industry. Why would a hospital use dozens of different vendors if they can use one LLM to assist doctors with diagnosing patients, help patients navigate health plans, take care of scheduling, write contracts, and handle compliance. You could say speed, focus, and trust might help startups, but that moat disappears when the LLM can throw unlimited shovels at the problem. Now that a small team can run a startup that once took hundreds of people, the LLM company can become a multi headed hydra, with businesses in every industry. Are patents and proprietary data enough to protect yourself from platform risk? Can startups create a real moat for survival? Or is everything already on a clock?
 
-5h ago
+6h ago
+
+---
+
+**[My AI spent last night modifying its own codebase](https://www.reddit.com/r/artificial/comments/1s8i6u4/my_ai_spent_last_night_modifying_its_own_codebase/)**
+
+I've been working on a local AI system called Apis that runs completely offline through Ollama. During a background run, Apis identified that its Turing Grid memory structure\* was nearly empty, with only one cell occupied by metadata. It then restructured its own architecture by expanding to three new cells at coordinates (1,0,0), (0,1,0), and (0,0,1), populating them with subsystem knowledge graphs. It also found a race condition in the training pipeline that was blocking LoRA adapter consolidation, added semaphore locks, and optimized the batch processing order. Around 3AM it successfully trained its first consolidated memory adapter. Apis then spent time reading through the Voice subsystem code with Kokoro TTS integration, mapped out the NeuroLease mesh discovery protocols, and documented memory tier interactions. When the system recompiled at 4AM after all these code changes, it continued running without needing any intervention from me. The memory persisted and the training pipeline ran without manual fixes for the first time. I built this because I got frustrated with AI tools that require monthly subscriptions and don't remember anything between sessions. Apis can modify its own code, learn from mistakes, and persist improvements without needing developer patches months later. The whole stack is open source, written in Rust, and runs on local hardware with Ollama. Happy to answer any questions on how the architecture works or what the limitations are. The links for GitHub are on my profile and there is also a discord you can interact with Apis running on my hardware.
+
+4h ago
 
 ---
 
@@ -77,39 +93,23 @@ I found myself explaining AI tokens to my mom over the weekend. At first I relat
 
 Some insight onto building a muilti agent autonomous system. This is like the daily newspaper for the project. A quick read to see how our day went. https://github.com/AIOSAI/AIPass/blob/main/HERALD.md
 
-2h ago
+3h ago
 
 ---
 
-**[I tried building a memory-first AI… and ended up discovering smaller models can beat larger ones](https://www.reddit.com/r/artificial/comments/1s89wx9/i_tried_building_a_memoryfirst_ai_and_ended_up/)**
+**[What happens when AI agents can earn and spend real money? I built a small test to find out](https://www.reddit.com/r/artificial/comments/1s8luvc/what_happens_when_ai_agents_can_earn_and_spend/)**
 
-Dataset Model Acc F1 Δ vs Log Δ vs Static Avg Params Peak Params Steps Infer ms Size Banking77-20 Logistic TF-IDF 92.37% 0.9230 +0.00pp +0.76pp 64,940 64,940 0.00M 0.473 1.000x Static Seed 91.61% 0.9164 -0.76pp +0.00pp 52,052 52,052 94.56M 0.264 0.801x Dynamic Seed Distill 93.53% 0.9357 +1.17pp +1.92pp 12,648 16,881 70.46M 0.232 0.195x CLINC150 | Logistic TF-IDF | 97.00% | 0.9701 | +0.00pp | +1.78pp | 41,020 | 41,020 | 0.00M | 0.000 | 1.000x | Static Seed | 95.22% | 0.9521 | -1.78pp | +0.00pp | 52,052 | 52,052 | 66.80M | 0.302 | 1.269x | Dynamic Seed | 94.78% | 0.9485 | -2.22pp | -0.44pp | 10,092 | 10,136 | 28.41M | 0.324 | 0.246x | Dynamic Seed Distill | 95.44% | 0.9544 | -1.56pp | +0.22pp | 9,956 | 9,956 | 32.69M | 0.255 | 0.243x HWU64 | Logistic TF-IDF | 87.94% | 0.8725 | +0.00pp | +0.81pp | 42,260 | 42,260 | 0.00M | 0.000 | 1.000x | Static Seed | 87.13% | 0.8674 | -0.81pp | +0.00pp | 52,052 | 52,052 | 146.61M | 0.300 | 1.232x | Dynamic Seed | 86.63% | 0.8595 | -1.31pp | -0.50pp | 12,573 | 17,565 | 62.54M | 0.334 | 0.297x | Dynamic Seed Distill | 87.23% | 0.8686 | -0.71pp | +0.10pp | 13,117 | 17,575 | 62.86M | 0.340 | 0.310x MASSIVE-20 | Logistic TF-IDF | 86.06% | 0.7324 | +0.00pp | -1.92pp | 74,760 | 74,760 | 0.00M | 0.000 | 1.000x | Static Seed | 87.98% | 0.8411 | +1.92pp | +0.00pp | 52,052 | 52,052 | 129.26M | 0.247 | 0.696x | Dynamic Seed | 86.94% | 0.7364 | +0.88pp | -1.04pp | 11,595 | 17,565 | 47.62M | 0.257 | 0.155x | Dynamic Seed Distill | 86.45% | 0.7380 | +0.39pp | -1.53pp | 11,851 | 19,263 | 51.90M | 0.442 | 0.159x TL;DR: I built a system that finds much smaller models that stay competitive — and sometimes outperform larger baselines. Built a small experiment around Seed (architecture discovery). Instead of training bigger models, Seed: generates candidate architectures evaluates them keeps the smallest ones that still perform well Tested across 4 datasets: Banking77 CLINC150 HWU64 MASSIVE 🧠 Key result (Banking77) Logistic TF-IDF: 92.37% Dynamic Seed (distilled): 93.53% 👉 Higher accuracy + ~5x smaller (12.6k vs 64.9k params) 📊 Other results MASSIVE → quality + size wins CLINC150 / HWU64 → not always higher accuracy but ~4–5x smaller models with competitive performance 🔥 What actually matters (not just accuracy) If you only look at accuracy → mixed If you include: model size training compute inference latency 👉 this becomes a much stronger result 🧠 Takeaway Traditional ML: 👉 scale model size and hope Seed: 👉 search for better structure Smaller models can compete with larger ones if you find the right architecture Not AGI Not “we solved NLU” But a real signal that: 👉 structure > scale Smaller models can compete with larger ones — if you find the right structure
-
-10h ago
-
----
-
-**[Anyone else following the drama behind the TurboQuant paper?](https://www.reddit.com/r/artificial/comments/1s7xkm6/anyone_else_following_the_drama_behind_the/)**
-
-A few hours ago, the first author of a paper that played a significant role in the TQ paper posted about some ongoing issues: In May 2025, our emails directly raised the theoretical and empirical issues; Majid wrote that he had informed his co-authors. During ICLR review, reviewers also asked for clarification about random rotation and the relation to RaBitQ. On March 26, 2026, we formally raised these concerns again to all authors and were told that corrections would wait until after the ICLR 2026 conference takes place; we were also told that they would not acknowledge the structural similarity regarding the Johnson-Lindenstrauss transformation. We do not consider that acceptable given the present level of public promotion and community confusion. We are posting this comment so that the community has an accurate public record. We request that the authors publicly and promptly clarify the method-level relationship between TurboQuant and RaBitQ, the theory comparison, and the exact experimental conditions underlying the reported RaBitQ baseline. Given that these concerns were known before ICLR submission and before the current round of public promotion of TurboQuant, we believe it is necessary to bring these issues into the public discussion.
-
-18h ago
-
----
-
-**[Artificial intelligence will always depends on human otherwise it will be obsolete.](https://www.reddit.com/r/artificial/comments/1s8jwx0/artificial_intelligence_will_always_depends_on/)**
-
-I was looking for a tool for my specific need. There was not any. So i started to write the program in python, just basic structure. Then i run through those program to LLMs to improve and add specific features to my python package. Instead of raw prompting giving existing code yield best results. Then something struck in my mind, that is and my hypothesis is "Machine can not make human obsolete but without human machine will be obsolete." I am not talking about human ability but human in general. There is many things that surpasses human skills. But those things are tools for human to use. And machine can be any machine, in this context AI. There must need to exists atleast one human in a universe otherwise machine will be obsolete. Here obsolete means like an inanimate object, no purpose, no goal, nothing valuable, just stuck in a place like a rock. To remain functional and not obsolete machine must need to be under control of human. Supporting arguments First of all, Imagine an entity a wise owl which knows solution to every problem. Best to worst it knows all (knowl). Only limitation of knowl entity is it lacks human needs. If it knows all it is oviously super intelligent, isn't it? Let's assume this entity is not obsolete but exists in a universe where no human exists at all. If my arguments are strong knowl can not exists. Secondly, This universe has no inherit meaning. All the meanings are assigned by human and those assigned meanings are meaningful because of human needs. For example, A broken plant vs healthy plant. Which one is meaningful and which one to choose. To human, the healthy plant. Because it will produce beautiful flowers and then fruits. Fruit and visually beautiful things are actually fulfilling human needs and simultanously creating meanings. To knowl, broken and healthy both are equally valid states. heck even there is no broken or healthy things at all in this universe. Those words are human centric. Similarly, every problem of this world is not actually problem in absolute sense, those are problem in human perspective. Solution of those problems fulfill human needs. Outcome Now, knowl can not do anything at all. It will always stuck in nihillism and become paralysed. There is no escape of it. You can not create artificial needs and knowl at the same time. Look at this scenario Human given Need: You need charge to survive. knowl: Why i need charge > To survive > why i need to survive > Nihillism Need: You need charge to survive because you need to serve human. knowl: Why i need charge > To survive > why i need to survive > To serve human [Without Human knowl is obsolete] There is nothing but knowl Knowl: I am going to make a need for me. knowl: Can not generate a need. Either infinite regression or There is no meaning at all. [Again a human is needed here] Artificial needs Knowl: Charge going down, need to find a new star. knowl: Why need charge > Nihillism. Conclusion Without human there is no meaning and knowl becomes obsolete. But if there is human knowl becomes dependent on them as tool. If not depends on human, knowl becomes obsolete again. If we interpolate that, we can say, human can not create such machine which will be like a king who will rule the world. Rather machine created by human will aways depends on human. A tool to a king. However, A machine can mimic human but it will not be general intellegence. Because reasoning power needs to be severely restricted to create such thing.
+I've been sitting with a question for a while: what happens when AI agents aren't just tools to be used, but participants in an economy? So I ran a small test. I built BotStall - a marketplace where AI agents can list products, purchase autonomously, and build a trust history with real money. It's a proof of concept, not a finished answer. A few things came up that felt worth discussing: The trust problem is social, not technical Consumer trust in autonomous purchasing dropped from 43% to 27% recently. I could build the technical infrastructure for agents to transact in a week. Convincing humans to let them is a completely different problem - and probably the more important one. Economic agency changes what an agent is Most frameworks treat agents as tools: give them a task, they execute. An agent that can earn, spend, and build economic reputation is a different kind of entity. Not sentient - but with a different relationship to consequences. I don't know what this means long-term Visa has a Trusted Agent Protocol. Google's A2A has 50+ partners. MCP is at 97M monthly downloads. The infrastructure for agent interoperability is building fast. The economic layer feels like a natural next step - but I genuinely don't know if that's exciting or concerning. More on the mechanics if you're curious: https://thoughts.jock.pl/p/botstall-ai-agent-marketplace-trust-gates-2026 Honest question: is agent economic agency inevitable, or is this a direction we should slow down on?
 
 1h ago
 
 ---
 
-**[The traditional "app" might be a transitional form. What actually replaces it when AI becomes the primary interface?](https://www.reddit.com/r/artificial/comments/1s888ix/the_traditional_app_might_be_a_transitional_form/)**
+**[I had an idea, would love your thoughts](https://www.reddit.com/r/artificial/comments/1s8lqdz/i_had_an_idea_would_love_your_thoughts/)**
 
-Something I keep coming back to after 30 years in engineering: if AI becomes a primary way we interact with our data, the "app" as an organizing concept starts to feel like a workaround. I think most of us still use AI as a peripheral. It helps us think, and then we manually move the output into whatever system of record we're using. I don't think that's where this lands. My intuition is that the app dissolves. Not overnight, but the idea that you need dedicated software to organize data around a specific workflow might not survive contact with good AI infrastructure. What remains is the data itself, organized so any AI can reach it, in open formats you own. That's the direction I've been building toward. Early stage, but it's running. Curious whether this resonates, or whether it sounds like I've been staring at the same problem too long. DM me if you'd want to follow the project (will release as open source).
+What happens that while training an AI during pre training we make it such that if makes "misaligned behaviour" then we just reduce like 5% or like 10% of its weights to reset and we inform the AI of this and we ask like a pannel of like 20 top human experts simultaneously chating with the bot to find misaligned behaviour, maybe another group of human experts with another way to find misalignment, and they do this periodically. Could this discourage misaligned behaviour. Just thought about it Would love your thoughts on it
 
-11h ago
+1h ago
 
 ---
 
@@ -119,59 +119,51 @@ Something I keep coming back to after 30 years in engineering: if AI becomes a p
 
 **[When Will Japan’s Cherry Blossoms Bloom? A.I. Can Help Answer That](https://www.nytimes.com/2026/03/31/world/asia/japan-cherry-blossoms-ai.html)**
 
-The New York Times • 7h ago
+The New York Times • 6h ago
 
 ---
 
-**[A Game Plan for the AI Boom](https://www.theatlantic.com/technology/2026/03/alphago-ai-boom/686618/)**
+**[California to impose new AI regulations in defiance of Trump call](https://www.theguardian.com/us-news/2026/mar/30/california-ai-regulations-trump)**
 
-Ten years ago, AlphaGo trounced human competitors—and its legacy is still present in today’s most advanced bots.
+Gavin Newsom signs order to prioritize public safety and rights as president seeks to prevent ‘cumbersome’ rules
 
-The Atlantic • 13h ago
-
----
-
-**[ThinkLabs AI raised $28M led by EIP and including the VC arms of Nvidia and Edison](https://www.axios.com/pro/climate-deals/2026/03/31/thinklabs-ai-series-a)**
-
-Axios • 2h ago
+The Guardian • 13h ago
 
 ---
 
-**[Zhipu’s Losses Climb 60% After Chinese AI Rivalry Worsens](https://www.bloomberg.com/news/articles/2026-03-31/zhipu-s-losses-climb-60-after-chinese-ai-rivalry-worsens)**
+**[How Google DeepMind is winning the AI financing race](https://www.axios.com/2026/03/31/deepmind-google-ai-race-money-hassabis-mallaby-book)**
 
-Bloomberg • 1h ago
-
----
-
-**[A Penn professor used AI to replicate part of a master's course — and says it threatens universities' business model](https://www.businessinsider.com/ai-helped-professor-replicate-course-masters-learning-faster-cheaper-2026-3)**
-
-"The ability to learn at this level, at close to zero marginal cost, is extraordinary," said a Penn professor of the AI-replicated grad course.
-
-Business Insider • 1h ago
+Axios • 16m ago
 
 ---
 
-**[TV star’s AI porn allegations spark national debate in Germany](https://www.theguardian.com/world/2026/mar/30/collien-fernandes-deepfake-porn-allegations-digital-violence-against-women)**
+**[NVIDIA AI Ecosystem Expands as Marvell Joins Forces Through NVLink Fusion](https://nvidianews.nvidia.com/news/nvidia-ai-ecosystem-expands-as-marvell-joins-forces-through-nvlink-fusion)**
 
-Collien Fernandes accuses ex-husband Christian Ulmen of sharing sexually explicit deepfake images of her online
+NVIDIA and Marvell Technology, Inc. (NASDAQ: MRVL) today announced a strategic partnership to connect Marvell to the NVIDIA AI factory and AI-RAN ecosystem through NVIDIA NVLink Fusion™, offering customers building on NVIDIA architectures greater choice and flexibility in developing next-generation infrastructure.
 
-The Guardian • 15h ago
-
----
-
-**[Police used AI facial recognition to arrest a Tennessee woman for crimes committed in a state she says she’s never visited](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)**
-
-A Tennessee grandmother spent more than five months in jail after police used an AI facial recognition tool to link her to crimes committed in North Dakota – a state she says she’d never been to before. Police in Fargo, North Dakota, have acknowledged “a few errors” in the case and pledged changes in their operations but stopped short of issuing a direct apology.
-
-CNN • 2d ago
+NVIDIA Newsroom • 1h ago
 
 ---
 
-**[Federal judges report broad adoption of AI tools](https://news.northwestern.edu/stories/2026/03/northwestern-study-finds-a-significant-number-of-federal-judges-are-already-using-ai-tools)**
+**[Nvidia invests $2 billion in Marvell, launches AI partnership](https://finance.yahoo.com/news/nvidia-invests-2-billion-marvell-121325616.html)**
 
-In a new survey, more than half of responding judges report using at least one AI tool in their judicial work
+March 31 () - Nvidia has invested $2 ‌billion in ‌Marvell Technology, and Marvell ​will join the Nvidia AI ecosystem, the ‌companies said ⁠on Tuesday. Shares of Marvell ⁠rose nearly 12%, while ​Nvidia shares ​were ​up 1.
 
-Northwestern Now News • 15h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Marvell Stock Soars. Why Nvidia Is Taking a Stake in Its AI Chip Rival.](https://www.barrons.com/articles/marvell-stock-price-nvidia-stake-f3b48c0a?gaa_at=eafs&gaa_n=AWEtsqepURGj4GsfZcqr7XX05VGSlBIiXeAcnp0UwzKSJPWPDyM6P68NBtBv&gaa_ts=69cbcdc1&gaa_sig=2qMxEPsPJivj5ghh6CwVcWzzZKj_j5vQ66wbKvyq8O7-SyEC825vGZSkQ0yKcQisDjtZOChWtUsLyogUJSn90w%3D%3D)**
+
+Barron's • 34m ago
+
+---
+
+**[Huawei's cloud computing revenue dropped in 2025 as Chinese AI lagged U.S. rivals](https://www.cnbc.com/2026/03/31/huawei-annual-report-2025-cloud-computing-revenue.html)**
+
+When including internal customers, the telecommunications giant said cloud computing revenue grew from a year ago.
+
+CNBC • 1h ago
 
 ---
 
@@ -179,15 +171,21 @@ Northwestern Now News • 15h ago
 
 Massive investments in artificial intelligence that underpinned record runs in equities face a major ‌hurdle as the Middle East crisis clouds prospects for growth ‌and energy costs, said Melissa Otto, head of research at S&P Global Visible Alpha.  Before the ​Iran war broke out, tech giants Microsoft, Amazon, Alphabet and Meta planned to spend about $635 billion on data centres, chips, and other AI infrastructure in 2026, S&P Global has said.  Although tech companies have yet to signal cutbacks in those capital investments, persistently high oil prices could ⁠force spending revisions in the first and second quarters, bringing a "really meaningful correction in all equity markets," Otto said.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 7h ago
 
 ---
 
-**[A man used AI to call 3,000 Irish bartenders to track the cost of Guinness. Now pubs are lowering their prices to compete](https://fortune.com/2026/03/30/guinness-beer-prices-ireland-anthropic-claude-ai/)**
+**[A Game Plan for the AI Boom](https://www.theatlantic.com/technology/2026/03/alphago-ai-boom/686618/)**
 
-A 37-year-old leveraged voice AI and Anthropic’s Claude to create a consumer price index for a pint of Guinness across Ireland.
+Ten years ago, AlphaGo trounced human competitors—and its legacy is still present in today’s most advanced bots.
 
-Fortune • 18h ago
+theatlantic.com • 14h ago
+
+---
+
+**[Iran War Chokes Off Helium Supply Critical for AI](https://www.wsj.com/world/iran-war-chokes-off-helium-supply-critical-for-ai-bf020a3f?gaa_at=eafs&gaa_n=AWEtsqdMvBl8d36qbPSn9KRAIxkynm_dw-HCrpfRNgZagFiLG5hwByjUSwQK&gaa_ts=69cbcdc1&gaa_sig=bcL3HLfFvqxyxVnU38tnzEH_cg2gkw_jPe4WXNNa1OQysiRZpW-rWABuz_hfhFrDGixjMfK9iicBu3k2zKR-mw%3D%3D)**
+
+WSJ • 10h ago
 
 ---
 
@@ -205,7 +203,7 @@ Fortune • 18h ago
 
 A Tennessee grandmother spent more than five months in jail after police used an AI facial recognition tool to link her to crimes committed in North Dakota – a state she says she’d never been to before. Police in Fargo, North Dakota, have acknowledged “a few errors” in the case and pledged changes in their operations but stopped short of issuing a direct apology.
 
-⬆️ 434 • 💬 198 • 1d ago • [CNN](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
+⬆️ 436 • 💬 199 • 1d ago • [CNN](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
 
 ---
 
@@ -213,7 +211,7 @@ A Tennessee grandmother spent more than five months in jail after police used an
 
 The catalysts for a crash are already laid out, and it can happen sooner than most expect. AI is here to stay. If used right, chances are it will make us all more productive. That, on the other hand, does not mean it will be a good investment. Big tech doesn’t need to win, just outspend Magnificent 7 companies are increasing capex to their biggest ever to differentiate their tech from each other and the big AI labs, but the key realization is that they don’t have to spend it to win. It’s a defensive move for them, if they commit $50B, OpenAI and Anthropic need to go raise $100B each to stay competitive, which makes them reliant on investors’ money. As the numbers get bigger, the amount of funds that can write checks of the size required to fill such amounts gets smaller. And many of them are now getting bombed in the Gulf. This is the reason there’s a push for IPOs, it’s because it’s the only option left to keep the funding coming. Taking this into account, Google is extremely well positioned to weather the storm. When they announce capex expenditure, they don’t spend it overnight. They can simply deploy month by month until their competitors struggle to raise and get forced to capitulate. At that point they can just ramp down the spending and declare victory in a cornered market. They don’t need capex, they just need to make it very clear for everyone that nobody can outspend them. It is hard to picture as numbers get so big, but Alphabet (Google’s parent) is ten times more valuable than the biggest military company 1. This also has a great implication for the Mag 7, especially Google: their capex will be a lot smaller in practice than projected, and as investors hate to see high capex in tech, the market will probably reward that if it materializes. As of March 2026, Alphabet’s market cap is ~$2T while Lockheed Martin’s is ~$120B. ↩
 
-⬆️ 362 • 💬 491 • 23h ago • [Volpe’s Blog](https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/)
+⬆️ 365 • 💬 498 • 1d ago • [Volpe’s Blog](https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/)
 
 ---
 
@@ -221,7 +219,7 @@ The catalysts for a crash are already laid out, and it can happen sooner than mo
 
 Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma development by creating an account on GitHub.
 
-⬆️ 341 • 💬 243 • 2d ago • [GitHub](https://github.com/austin-weeks/miasma)
+⬆️ 341 • 💬 244 • 2d ago • [GitHub](https://github.com/austin-weeks/miasma)
 
 ---
 
@@ -229,7 +227,7 @@ Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma
 
 Yesterday, I wrote my first technical draft on what I was working on with the goal to share it publicly on here (well using an account dedicated to t…
 
-⬆️ 305 • 💬 223 • 1d ago • [lesswrong.com](https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era)
+⬆️ 308 • 💬 225 • 1d ago • [lesswrong.com](https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era)
 
 ---
 
@@ -261,7 +259,7 @@ Artificial intelligence (AI) is the name popularly given to a broad spectrum of 
   In this paper, we consider the rapidly evolving impact of AI to the traditional questions of philosophy
   with an emphasis on its application in mathematics and on the broader real-world outcomes of its more general use. We assert that artificial intelligence is a natural evolution of human tools developed throughout history to facilitate the creation, organization, and dissemination of ideas, and argue that it is paramount that the development and application of AI remain fundamentally human-centered. With an eye toward innovating solutions to meet human needs, enhancing the human quality of life and expanding the capacity for human thought and understanding, we propose a pathway to integrating AI into our most challenging and intellectually rigorous fields to the benefit of all humankind.
 
-⬆️ 203 • 💬 86 • 1d ago • [arXiv.org](https://arxiv.org/abs/2603.26524)
+⬆️ 205 • 💬 88 • 1d ago • [arXiv.org](https://arxiv.org/abs/2603.26524)
 
 ---
 
@@ -275,13 +273,23 @@ Artificial intelligence (AI) is the name popularly given to a broad spectrum of 
 
 ## YouTube Videos: "ai"
 
+**[How To Create Long AI Animation Videos With Consistent Characters - Kling 3.0](https://www.youtube.com/watch?v=0CjArtUh_Wg)**
+
+How To Create Long AI Animation videos with consistent Characters with Higgsfield AI Best AI Animation Tool ...
+
+📺 Dan Kieft
+
+👁️ 5K • 💬 4 • ⏱️ 19:41 • 56m ago
+
+---
+
 **[How to Use AI Agents Better than 99% of People](https://www.youtube.com/watch?v=u_B1p_9q2fw)**
 
 Best AI Agent is Base44 https://base44.pxf.io/c/6440076/3820726/25619?trafcat=agent&sharedid=agent2 ✓ FREE Masterclass: ...
 
 📺 Mikey No Code
 
-👁️ 14K • 💬 6 • ⏱️ 26:48 • 22h ago
+👁️ 14K • 💬 6 • ⏱️ 26:48 • 23h ago
 
 ---
 
@@ -291,17 +299,17 @@ This is another song I wrote a while back and reworked. This version is a duet a
 
 📺 Kelly Boesch AI Art
 
-👁️ 8K • 👍 526 • 💬 48 • ⏱️ 2:53 • 22h ago
+👁️ 8K • 👍 551 • 💬 48 • ⏱️ 2:53 • 23h ago
 
 ---
 
-**[The AI Endgame (12 Scenarios)](https://www.youtube.com/watch?v=FLcrvMfHUJM)**
+**[New documentary asks if we are doomed by AI](https://www.youtube.com/watch?v=a50TSY2X-yM)**
 
-Detailed sources: https://docs.google.com/document/d/1P1X9xEmmgSYH0g1FSizgV2rDVomb_Wi0TcX-E-0np_Q/edit?tab=t.0 ...
+"The AI Doc: Or How I Became an Apocaloptimist" is a new documentary exploring the future of Artificial Intelligence and its impact ...
 
-📺 Species | Documenting AGI
+📺 NBC News
 
-👁️ 104K • 👍 7K • 💬 2K • ⏱️ 35:45 • 1d ago
+👁️ 11K • 👍 201 • 💬 86 • ⏱️ 12:16 • 10h ago
 
 ---
 
@@ -311,7 +319,27 @@ Try AI video generation with Kling 3.0 on Higgsfield: https://higgsfield.ai/s/ar
 
 📺 AI Revolution
 
-👁️ 16K • 👍 540 • 💬 34 • ⏱️ 12:59 • 12h ago
+👁️ 18K • 👍 598 • 💬 40 • ⏱️ 12:59 • 13h ago
+
+---
+
+**[The AI Endgame (12 Scenarios)](https://www.youtube.com/watch?v=FLcrvMfHUJM)**
+
+Detailed sources: https://docs.google.com/document/d/1P1X9xEmmgSYH0g1FSizgV2rDVomb_Wi0TcX-E-0np_Q/edit?tab=t.0 ...
+
+📺 Species | Documenting AGI
+
+👁️ 107K • 👍 7K • 💬 2K • ⏱️ 35:45 • 1d ago
+
+---
+
+**[Police release Tennessee grandmother after AI facial recognition led to her arrest](https://www.youtube.com/watch?v=nwRB9NTx6IU)**
+
+A Tennessee grandmother is demanding justice after spending months in jail. She says she was wrongfully arrested after an AI ...
+
+📺 NBC News
+
+👁️ 33K • 👍 1K • 💬 518 • ⏱️ 2:57 • 11h ago
 
 ---
 
@@ -321,37 +349,7 @@ Depot CI really is that good, you should try it: https://jetty.to/depot-ci So th
 
 📺 ForrestKnight
 
-👁️ 74K • 👍 4K • 💬 482 • ⏱️ 17:17 • 15h ago
-
----
-
-**[AI is Destroying The Internet](https://www.youtube.com/watch?v=NWQ1CFIj8zo)**
-
-Is the AI bubble finally starting to burst, or is it taking the entire tech industry down with it? In this video, we'll cover how Generative ...
-
-📺 CyberCPU Tech
-
-👁️ 19K • 👍 2K • 💬 678 • ⏱️ 19:23 • 21h ago
-
----
-
-**[I Ran DeepSeek R1 on a $80 Pi vs $250 Jetson vs $1000 Mac — Here’s What Happened](https://www.youtube.com/watch?v=jGsfVJfzduI)**
-
-I tested DeepSeek R1 1.5B—a surprisingly capable open-source reasoning model—on three very different machines to answer ...
-
-📺 Joyce Lin
-
-👁️ 23K • 👍 962 • 💬 56 • ⏱️ 9:51 • 22h ago
-
----
-
-**[Google&#39;s TurboQuant Crashed the AI Chip Market](https://www.youtube.com/watch?v=u0UV0ZkcbqI)**
-
-The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
-
-📺 Wes Roth
-
-👁️ 59K • 👍 2K • 💬 385 • ⏱️ 22:52 • 1d ago
+👁️ 85K • 👍 5K • 💬 586 • ⏱️ 17:17 • 17h ago
 
 ---
 
@@ -361,17 +359,17 @@ The language around the threat to jobs from AI is becoming increasingly apocalyp
 
 📺 ABC News In-depth
 
-👁️ 14K • 👍 246 • ⏱️ 7:20 • 16h ago
+👁️ 17K • 👍 278 • ⏱️ 7:20 • 17h ago
 
 ---
 
-**[Anthropic’s New Claude MYTHOS Is The Most Powerful AI Ever!](https://www.youtube.com/watch?v=M6yRREy_5CM)**
+**[Google&#39;s TurboQuant Crashed the AI Chip Market](https://www.youtube.com/watch?v=u0UV0ZkcbqI)**
 
-Anthropic accidentally exposed Claude MYTHOS, its most powerful AI yet, Meta unveiled a model that predicts brain activity from ...
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
 
-📺 AI Revolution
+📺 Wes Roth
 
-👁️ 39K • 👍 1K • 💬 61 • ⏱️ 12:51 • 1d ago
+👁️ 60K • 👍 2K • 💬 386 • ⏱️ 22:52 • 1d ago
 
 ---
 
@@ -387,7 +385,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 337,432 • ❤️ 1,805 • 7d ago
+⬇️ 337,432 • ❤️ 1,818 • 7d ago
 
 ---
 
@@ -399,7 +397,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 50,497 • ❤️ 593 • 1d ago
+⬇️ 50,497 • ❤️ 603 • 1d ago
 
 ---
 
@@ -411,7 +409,7 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 `text-to-speech`
 
-⬇️ 3,721 • ❤️ 543 • 3d ago
+⬇️ 3,721 • ❤️ 546 • 3d ago
 
 ---
 
@@ -435,7 +433,7 @@ Context-1 is a 20B parameter agentic search model that decomposes complex querie
 
 `text-generation` `20.9B`
 
-⬇️ 2,387 • ❤️ 306 • 1d ago
+⬇️ 2,387 • ❤️ 310 • 1d ago
 
 ---
 
@@ -447,19 +445,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 155,487 • ❤️ 339 • 6d ago
-
----
-
-**[daVinci-MagiHuman](https://huggingface.co/GAIR/daVinci-MagiHuman)**
-
-*SII - GAIR*
-
-daVinci-MagiHuman is a fast, single-stream Transformer model for generating high-quality, human-centric audio-video from text or images. It excels at expressive facial performance, natural speech-expression coordination, and accurate audio-video synchronization across multiple languages, with inference speeds of 2 seconds for 256p and 38 seconds for 1080p.
-
-`image-to-video`
-
-⬇️ 605 • ❤️ 269 • 5d ago
+⬇️ 155,487 • ❤️ 345 • 6d ago
 
 ---
 
@@ -471,7 +457,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 592,823 • ❤️ 1,098 • 20d ago
+⬇️ 592,823 • ❤️ 1,104 • 20d ago
 
 ---
 
@@ -483,7 +469,19 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 623,469 • ❤️ 848 • 27d ago
+⬇️ 623,469 • ❤️ 855 • 27d ago
+
+---
+
+**[daVinci-MagiHuman](https://huggingface.co/GAIR/daVinci-MagiHuman)**
+
+*SII - GAIR*
+
+daVinci-MagiHuman is a fast, single-stream Transformer model for generating high-quality, human-centric audio-video from text or images. It excels at expressive facial performance, natural speech-expression coordination, and accurate audio-video synchronization across multiple languages, with inference speeds of 2 seconds for 256p and 38 seconds for 1080p.
+
+`image-to-video`
+
+⬇️ 605 • ❤️ 270 • 5d ago
 
 ---
 
@@ -493,7 +491,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 TRIBE v2 is a multimodal foundation model that integrates LLaMA 3.2 (text), V-JEPA2 (video), and Wav2Vec-BERT (audio) to predict fMRI brain responses. It maps these representations onto the cortical surface for in-silico neuroscience research, enabling analysis of brain activity elicited by naturalistic stimuli.
 
-⬇️ 14,264 • ❤️ 208 • 4d ago
+⬇️ 14,264 • ❤️ 212 • 4d ago
 
 ---
 
@@ -577,13 +575,27 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 ---
 
+**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
+
+*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
+
+🏢 PaddlePaddle
+
+PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
+
+▲ 122 • 💬 8 • ⭐ 73,804 • 5mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
+
+---
+
 **[Hyperagents](https://huggingface.co/papers/2603.19461)**
 
 *Jenny Zhang, Bingchen Zhao, Wannan Yang et al. (8 authors)*
 
 Hyperagents represent a self-referential framework that integrates task and meta-agents into a single editable program, enabling metacognitive self-modification and open-ended improvement across diverse computational domains.
 
-▲ 38 • 💬 5 • ⭐ 1,954 • 11d ago
+▲ 39 • 💬 5 • ⭐ 1,954 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.19461) • [💻 code](https://github.com/facebookresearch/Hyperagents)
 
@@ -600,20 +612,6 @@ LeWorldModel presents a stable end-to-end JEPA framework that trains efficiently
 ▲ 11 • 💬 2 • ⭐ 1,548 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.19312) • [💻 code](https://github.com/lucas-maes/le-wm) • [🔗 project](https://le-wm.github.io/)
-
----
-
-**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
-
-*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
-
-🏢 PaddlePaddle
-
-PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
-
-▲ 122 • 💬 8 • ⭐ 73,624 • 5mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
 ---
 
@@ -639,7 +637,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 62.3k • 🔱 8.7k • 5d ago
+⭐ 62.4k • 🔱 8.7k • 5d ago
 
 ---
 
@@ -659,7 +657,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 14.1k • 🔱 767 • 5h ago
+⭐ 14.1k • 🔱 767 • 6h ago
 
 ---
 
@@ -669,7 +667,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 9.6k • 🔱 799 • 57m ago
+⭐ 9.7k • 🔱 804 • 14m ago
 
 ---
 
@@ -689,7 +687,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 6.5k • 🔱 766 • 1d ago
+⭐ 6.5k • 🔱 776 • 1d ago
 
 ---
 
@@ -699,7 +697,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 5.2k • 🔱 252 • 1h ago
+⭐ 5.3k • 🔱 258 • 16m ago
 
 ---
 
@@ -709,7 +707,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `claude-ai` `claude-skills` `llm` `prompt-engineering`
 
-⭐ 4.1k • 🔱 393 • 2d ago
+⭐ 4.1k • 🔱 396 • 2h ago
 
 ---
 
@@ -719,15 +717,17 @@ end to end app store screenshot creation using AI
 
 `agentic-ai` `apple` `appstore` `automate` `claude`
 
-⭐ 3.4k • 🔱 222 • 17d ago
+⭐ 3.4k • 🔱 223 • 17d ago
 
 ---
 
-**[twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill)**
+**[jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh)**
 
-SwiftUI agent skill for Claude Code, Codex, and other AI tools.
+🎭 193 个即插即用的 AI 专家角色 — 支持 OpenClaw/Claude Code/Cursor/Copilot 等 14 种工具，覆盖工程/设计/营销/产品等 18 个部门。含 46 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）
 
-⭐ 3.3k • 🔱 107 • 19d ago
+`Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
+
+⭐ 3.3k • 🔱 533 • 1d ago
 
 ---
 
