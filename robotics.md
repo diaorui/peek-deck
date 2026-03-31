@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-31T13:21:39.902014+00:00'
+updated: '2026-03-31T14:47:05.228112+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 31, 2026 at 13:21 UTC  
+**Last Updated:** March 31, 2026 at 14:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Two FANUC robots now run a bakery bread line in the Netherlands](https://www.reddit.com/r/robotics/comments/1s7vvqo/two_fanuc_robots_now_run_a_bakery_bread_line_in/)**
 
-20h ago
+22h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 I’ve been learning ROS2 for a while, mostly by following tutorials and running existing GitHub repos (like TB3). Recently, I decided to stop just copying and actually try building my own robot model in simulation. So I wrote my first URDF/Xacro and visualized it in RViz. What I expected: A simple rectangular base link. What I got: - One model looks like a clean rectangle (as expected) - The other one looks… off (weird structure/positioning) (Attached both images for comparison) Now I’m trying to understand what went wrong. I’m currently trying to move from “running tutorials” → “actually understanding and building systems”, so I’d really appreciate any guidance. Thanks! Here’s the code: https://pastebin.com/mXHcbLiC Would really appreciate if you can point out what’s wrong.
 
-10h ago
+11h ago
 
 ---
 
@@ -58,7 +58,7 @@ From Humanoids daily on 𝕏: https://x.com/humanoidsdaily/status/20381919486372
 
 Hello I accidently wrote a program in acecode and clicked upload firmare. Now my smart car is not being displayed on wifi section. It was working previously.I cannot find the firmare file in acebot documentation too.
 
-6h ago
+7h ago
 
 ---
 
@@ -74,7 +74,7 @@ Posting update here, I doubled down on my mission to create the smallest VIO mod
 
 I've been following along, researching the ARM-SO101 models for a while, and then I just noticed Seeed has posted a video and github for what seems like a similar type of arm, but also aimed at the hobbyist and educational space. They say they're targeting a <$1000 budget and from the available information it looks like it has: 1.5kg payload parallel grip effector a combination of metal and 3d-printed parts. Their github says it will be "True Open Source", so software, blueprints, step files, etc. Their github had a lot of placeholder links and documents when I last checked but there was a timeline for future releases of info. One comment in the github's issues mentioned that the arm seemed very similar to the Edulite A3, but with Lerobot support and some additional hardware capabilities. I don't work for Seeed and am not meaning to post free advertising for them. I just thought it looked like an interesting new development.
 
-8h ago
+10h ago
 
 ---
 
@@ -82,21 +82,7 @@ I've been following along, researching the ARM-SO101 models for a while, and the
 
 Hi everyone! I'd like to share with you my latest successes with my quadruped robot project. Recently I have created a Whole-Body Controller based on the work "Highly Dynamic Quadruped Locomotion via Whole-Body Impulse Control and Model Predictive Control" by D. Kim et al. Also I refactored the code, wrote comments, did some stuff for realtime execution, and opened access to the repository. The next aim is to make a vision based system for choosing the next footsteps. Here is the link to github: https://github.com/voltdog/mors\_quadruped Here you can find the locomotion controller + Mujoco simulation environment. I hope you find this repo useful for learning locomotion algorithms and using it for your own experiments. If you have any questions or encounter issues with installing or using the controller, please let me know.
 
-🔗 [youtu.be](https://youtu.be/28EshOERJ94?si=ygsz2eimHB6jkFLm) • 19h ago
-
----
-
-**[[Decision] Admits from GATech and UMich for MS in Robotics](https://www.reddit.com/r/robotics/comments/1s8axgg/decision_admits_from_gatech_and_umich_for_ms_in/)**
-
-10h ago
-
----
-
-**[[Launch] OpenEyes v0.4.4 - I built a complete vision system for humanoid robots](https://www.reddit.com/r/robotics/comments/1s7rmem/launch_openeyes_v044_i_built_a_complete_vision/)**
-
-Hey r/robotics! I'm excited to share OpenEyes - an open-source vision system I've been building for humanoid robots. It runs entirely on NVIDIA Jetson Orin Nano with full ROS2 integration. The Problem Every day, millions of robots are deployed to help humans. But most of them are blind. Or dependent on cloud services that fail. Or so expensive only big companies can afford them. I wanted to change that. What OpenEyes Does The robot looks at a room and understands: - "There's a cup on the table, 40cm away" - "A person is standing to my left" - "They're waving at me - that's a greeting" - "The person is sitting down - they might need help" - Object Detection (YOLO11n) - Depth Estimation (MiDaS) - Face Detection (MediaPipe) - Gesture Recognition (MediaPipe Hands) - Pose Estimation (MediaPipe Pose) - Object Tracking - Person Following (show open palm to become owner) Performance - All models: 10-15 FPS - Minimal: 25-30 FPS - Optimized (INT8): 30-40 FPS Philosophy - Edge First - All processing on the robot - Privacy First - No data leaves the device - Real-time - 30 FPS target - Open - Built by community, for community Quick Start git clone https://github.com/mandarwagh9/openeyes.git cd openeyes pip install -r requirements.txt python src/main.py --debug python src/main.py --follow (Person following!) python src/main.py --ros2 (ROS2 integration) The Journey Started with a simple question: Why can't robots see like we do? Been iterating for months fixing issues like: - MediaPipe detection at high resolution - Person following using bbox height ratio - Gesture-based owner selection Would love feedback from the community! GitHub: github.com/mandarwagh9/openeyes
-
-23h ago
+🔗 [youtu.be](https://youtu.be/28EshOERJ94?si=ygsz2eimHB6jkFLm) • 20h ago
 
 ---
 
@@ -104,7 +90,23 @@ Hey r/robotics! I'm excited to share OpenEyes - an open-source vision system I'v
 
 Built an ACEBOTT smart car this weekend that runs on an ESP32. I then plugged into it on my laptop and had Claude Code write all its own software to connect with the motors. It went through three iterations before finding the technical specs on the ACEBOTT website. After that it was off to the races. I helped it verify which wheel was doing what (backwards/forwards/which wheel/etc). Then we ran a full test which is what the video is all about. So much fun!!! This is first steps. Next step is to upgrade the “brain” to an Arduino UNO Q with 4GB of RAM, install a local model, and train that model using Opus 4.6 after building an MCP. Not sure if anyone has any models they’d recommend. This is probably super simplistic compared to other demonstrations on this sub, but for anyone interested I made a step-by-step build out log with pictures for troubleshooting if you want to check it out: https://lifewithai.ai/blog/box-to-bot
 
-14h ago
+15h ago
+
+---
+
+**[[Launch] OpenEyes v0.4.4 - I built a complete vision system for humanoid robots](https://www.reddit.com/r/robotics/comments/1s7rmem/launch_openeyes_v044_i_built_a_complete_vision/)**
+
+Hey r/robotics! I'm excited to share OpenEyes - an open-source vision system I've been building for humanoid robots. It runs entirely on NVIDIA Jetson Orin Nano with full ROS2 integration. The Problem Every day, millions of robots are deployed to help humans. But most of them are blind. Or dependent on cloud services that fail. Or so expensive only big companies can afford them. I wanted to change that. What OpenEyes Does The robot looks at a room and understands: - "There's a cup on the table, 40cm away" - "A person is standing to my left" - "They're waving at me - that's a greeting" - "The person is sitting down - they might need help" - Object Detection (YOLO11n) - Depth Estimation (MiDaS) - Face Detection (MediaPipe) - Gesture Recognition (MediaPipe Hands) - Pose Estimation (MediaPipe Pose) - Object Tracking - Person Following (show open palm to become owner) Performance - All models: 10-15 FPS - Minimal: 25-30 FPS - Optimized (INT8): 30-40 FPS Philosophy - Edge First - All processing on the robot - Privacy First - No data leaves the device - Real-time - 30 FPS target - Open - Built by community, for community Quick Start git clone https://github.com/mandarwagh9/openeyes.git cd openeyes pip install -r requirements.txt python src/main.py --debug python src/main.py --follow (Person following!) python src/main.py --ros2 (ROS2 integration) The Journey Started with a simple question: Why can't robots see like we do? Been iterating for months fixing issues like: - MediaPipe detection at high resolution - Person following using bbox height ratio - Gesture-based owner selection Would love feedback from the community! GitHub: github.com/mandarwagh9/openeyes
+
+1d ago
+
+---
+
+**[Crazy idea: a game for training robots how to do chores](https://www.reddit.com/r/robotics/comments/1s7dyif/crazy_idea_a_game_for_training_robots_how_to_do/)**
+
+We recently built an AR game for Quest. It turns chores into a game by detecting and rewarding chores in real-time. It won a big prize from Meta, has a few hundred users, and we’re exploring where to go from here. The game is missing something: what’s the reward beyond XP? This led to a crazy idea - what if the rewards had real value in exchange for players sharing their captures as training data for home robots. Kind of like having an allowance for your chores as an adult. With the added benefit of helping automate boring work. The biggest barrier is privacy. At minimum it has to be opt-in and with some protections like censoring faces and personal info. Looking for more ideas there though. Curious what others think.
+
+1d ago
 
 ---
 
@@ -128,25 +130,25 @@ RTE.ie • 1d ago
 
 ---
 
+**[IoT SIM Cards Become Critical Infrastructure for Industrial Automation, Robotics, and Drone Operations](https://www.roboticstomorrow.com/article/2026/02/iot-sim-cards-become-critical-infrastructure-for-industrial-automation-robotics-and-drone-operations/26189)**
+
+As manufacturing, logistics, energy, and infrastructure sectors accelerate digital transformation initiatives, cellular-connected devices are replacing isolated machines with continuously communicating systems capable of real-time coordination and remote management.
+
+RoboticsTomorrow • 1h ago
+
+---
+
+**[Hellgate Elementary School robotics team qualifies for the international Canada Cup robotics competition](https://www.kpax.com/news/missoula-county/hellgate-elementary-school-robotics-team-qualifies-for-the-international-canada-cup-robotics-competition)**
+
+7th-grade students are part of the Hellgate Elementary School robotics team recently qualified for Canada Cup, an international competition pitting some of the top robotics teams against each other.
+
+KPAX News • 18h ago
+
+---
+
 **[OpenAI leases massive Richmond site to power robotics expansion](https://www.sfchronicle.com/tech/article/openai-richmond-warehouse-robotics-22160624.php)**
 
-San Francisco Chronicle • 13h ago
-
----
-
-**[Kraken Robotics Appoints Don Robertson to Board of Directors and John Salama as Chief Information Officer](https://finance.yahoo.com/markets/stocks/articles/kraken-robotics-appoints-don-robertson-103000783.html)**
-
-ST. JOHN'S, Newfoundland and Labrador, March 30, 2026 (GLOBE NEWSWIRE) -- Kraken Robotics Inc. (“Kraken” or the “Company”) (TSX-V: PNG, OTCQB: KRKNF), is pleased to announce the appointment of Don Robertson to its Board of Directors and the promotion of John Salama to the role of Chief Information Officer, effective immediately. Don Robertson Appointed to Board of Directors Mr. Robertson brings more than 30 years of experience in corporate finance, mergers and acquisitions (M&A), and public comp
-
-Yahoo Finance • 1d ago
-
----
-
-**[Amazon buys Fauna Robotics, maker of the Sprout humanoid robot that can dance, pick up toys, and go on a stroll](https://fortune.com/2026/03/29/amazon-acquisition-fauna-robotics-sprout-humanoid-robot-homes-schools-disney/)**
-
-Early customers included Disney.
-
-Fortune • 1d ago
+San Francisco Chronicle • 15h ago
 
 ---
 
@@ -158,27 +160,19 @@ Lowy Institute • 1d ago
 
 ---
 
+**[Kraken Robotics Appoints Don Robertson to Board of Directors and John Salama as Chief Information Officer](https://finance.yahoo.com/markets/stocks/articles/kraken-robotics-appoints-don-robertson-103000783.html)**
+
+ST. JOHN'S, Newfoundland and Labrador, March 30, 2026 (GLOBE NEWSWIRE) -- Kraken Robotics Inc. (“Kraken” or the “Company”) (TSX-V: PNG, OTCQB: KRKNF), is pleased to announce the appointment of Don Robertson to its Board of Directors and the promotion of John Salama to the role of Chief Information Officer, effective immediately. Don Robertson Appointed to Board of Directors Mr. Robertson brings more than 30 years of experience in corporate finance, mergers and acquisitions (M&A), and public comp
+
+Yahoo Finance • 1d ago
+
+---
+
 **[What will the robot jobs apocalypse look like? Ask Amazon warehouse workers](https://www.fastcompany.com/91514112/what-will-the-robot-jobs-apocalypse-look-like-ask-amazon-warehouse-workers)**
 
 Think a robot can’t do your job? ‘It will happen, but I don’t know when,’ says one expert. How robots are already upending blue-collar work, career advancement, worker rights, and job satisfaction.
 
-Fast Company • 4h ago
-
----
-
-**[Iowa City Robotics club may not be able to send students to Worlds without funds](https://www.kcrg.com/2026/03/30/iowa-city-robotics-club-may-not-be-able-send-students-worlds-without-funds/)**
-
-If they fall short, only a limited number of students — or none at all — may make the trip.
-
-KCRG • 15h ago
-
----
-
-**[Robots now handle glass, reflective items with simple cameras](https://interestingengineering.com/ai-robotics/robots-grasp-transparent-objects-heapgrasp)**
-
-Robots can now grasp transparent and reflective objects using a new RGB-based vision method without depth sensors.
-
-Interesting Engineering • 17h ago
+Fast Company • 5h ago
 
 ---
 
@@ -186,7 +180,15 @@ Interesting Engineering • 17h ago
 
 Lawmakers propose banning Chinese-made robots from US federal use over data security concerns, signaling growing tension in the US–China tech rivalry.
 
-eWeek • 20h ago
+eWeek • 22h ago
+
+---
+
+**[Robots now handle glass, reflective items with simple cameras](https://interestingengineering.com/ai-robotics/robots-grasp-transparent-objects-heapgrasp)**
+
+Robots can now grasp transparent and reflective objects using a new RGB-based vision method without depth sensors.
+
+Interesting Engineering • 18h ago
 
 ---
 
@@ -210,7 +212,7 @@ Learn for free on Brilliant for a full 30 days: https://brilliant.org/NikodemBar
 
 📺 Nikodem Bartnik
 
-👁️ 102K • 👍 4K • 💬 71 • ⏱️ 9:55 • 6d ago
+👁️ 102K • 👍 4K • 💬 71 • ⏱️ 9:55 • 7d ago
 
 ---
 
@@ -230,7 +232,7 @@ Brett Adcock is a technology entrepreneur focused on building companies in robot
 
 📺 Shawn Ryan Show
 
-👁️ 244K • 👍 6K • 💬 2K • ⏱️ 2:57:09 • 19h ago
+👁️ 244K • 👍 6K • 💬 2K • ⏱️ 2:57:09 • 21h ago
 
 ---
 

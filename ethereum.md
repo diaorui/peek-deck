@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-31T13:21:39.898630+00:00'
+updated: '2026-03-31T14:47:05.224811+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 31, 2026 at 13:21 UTC  
+**Last Updated:** March 31, 2026 at 14:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,065.16
+### $2,072.04
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** -4.9%  
+**24h:** -0.5%  
+**7d:** -4.8%  
 **30d:** +1.8%  
 **90d:** -31.3%  
-**1y:** +8.3%  
+**1y:** +8.4%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -80,15 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Google just moved the quantum threat from decades away to 2029. Taproot exposed 6.9 million Bitcoin. Ethereum launched a seven-fork roadmap. Bitcoin has BIP-360 and a mailing list. Here's what that difference means.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/google-quantum-deadline-2029-ethereum-plan-bitcoin-culture-war/) • 4h ago
-
----
-
-**[Ethereum Had Zero Downtime in Its Entire Lifetime (10 Years), Here are its Competitors](https://www.reddit.com/r/ethereum/comments/1s8mwb2/ethereum_had_zero_downtime_in_its_entire_lifetime/)**
-
-Ethereum has had zero downtime over the last 10 years, compared to 160 hours on Solana, 16 hours on Bitcoin, 10 hours on XRP, and around 5.5 hours on Binance. Compared to the standard external benchmark of 1 hour on Cloudflare, Ethereum emerges as the largest blockchain with no downtime. Decentralization is achieved through several hundred thousand validators spread across hundreds of cities worldwide. The highest in this list was of Solana, which was known to have several outages every month from 2020 to 2024. Since 2025, Solana has had zero outages, emerging as a key competitor to Ethereum. Source: https://a2zcryptocurrencies.com/ethereum-had-zero-downtime-in-its-entire-lifetime-10-years-here-are-its-competitors/
-
-15m ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/google-quantum-deadline-2029-ethereum-plan-bitcoin-culture-war/) • 6h ago
 
 ---
 
@@ -96,7 +88,13 @@ Ethereum has had zero downtime over the last 10 years, compared to 160 hours on 
 
 ZCHF is a decentralized stablecoin that is designed to track the value of the Swiss franc (CHF). Unlike popular stablecoins like USDT or USDC that are pegged to the US dollar, ZCHF is pegged 1:1 to Switzerland’s currency. It is issued by the Frankencoin protocol and operates on blockchain infrastructure, which means it doesn’t rely on traditional banks in the same way centralised stablecoins do. Instead, it uses a system of collateral and smart contracts to maintain its value. Why People Are Talking About It Interest in ZCHF has increased after Vitalik Buterin recently swapped a significant amount of USDC into ZCHF. Moves like this bring attention to the idea that DeFi may not stay centered only around the US dollar.
 
-6h ago
+7h ago
+
+---
+
+**[I'm making hey.eth a public, free identity layer for everyone. Agents are able to get their own ENS in <10s. Building open source infra for agentic payments using State Channels.](https://www.reddit.com/r/ethereum/comments/1s8o4zh/im_making_heyeth_a_public_free_identity_layer_for/)**
+
+🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2038977772312272942) • 50m ago
 
 ---
 
@@ -104,13 +102,19 @@ ZCHF is a decentralized stablecoin that is designed to track the value of the Sw
 
 With all the discussion around L2 fragmentation lately (EEZ announcement, Superchain, AggLayer), I wanted to share something I've been working on that addresses the problem from a different angle. The issue: every rollup ships its own proof system - Groth16, STARK, Plonk, Halo2, Nova - each needing a separate on-chain verifier at 200k+ gas. Some require trusted setup ceremonies. GLYPH is a universal transparent verification layer that compiles any proof into a common intermediate representation (UCIR) and verifies it through a single on-chain contract. What it does: - Verifies any major proof system through one verifier - <30k gas per on-chain verification (~7.5x cheaper than Groth16 alone) - No trusted setup - fully transparent - Supported: Groth16, KZG, IPA, Plonk, Halo2, STARK (Winterfell, Miden, Cairo/Stone, Circle STARK, Stwo), Nova/HyperNova/Sangria/SuperNova (IVC), SP1, Plonky2/3, Binius How it works: - Packed arity-8 sumcheck over p = 2^128 - 159 - Chain-bound Keccak256 Fiat-Shamir challenges - BaseFold PCS - On-chain verifier in pure Solidity assembly - Formal proof pack with soundness bound ~1.88 x 10^-37 Tested on Sepolia + Hoodi. Benchmarks included and reproducible. Everything is open source under MIT: - Full Paper: https://doi.org/10.5281/zenodo.18792566 https://hackmd.io/@ChristopherSchulze/glyph-zk - Code: https://github.com/Christopher-Schulze/glyph-zk I know the on-chain assembly verifier needs a proper audit before anyone touches it in production - that's on the roadmap. Would love feedback from the community. Happy to answer any questions about the architecture or design decisions.
 
-3h ago
+5h ago
+
+---
+
+**[After 8 years in crypto, I think most people don't understand cycles](https://www.reddit.com/r/ethereum/comments/1s8orso/after_8_years_in_crypto_i_think_most_people_dont/)**
+
+26m ago
 
 ---
 
 **[EIP-712](https://www.reddit.com/r/ethereum/comments/1s8l7du/eip712/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -118,7 +122,7 @@ With all the discussion around L2 fragmentation lately (EEZ announcement, Superc
 
 I've been all over daily threads for the last two weeks, and some of those really nice folks have been having fun with this little game dapp that I built. I call it Stupid Games, because you play really easy, simple games, but get to win awesome real ETH prizes! It's an arcade type game platform, full of crypto memes, that pays out real ETH prizes to the winners. All managed by smart contracts of course. I'm creating a beginner friendly, mini tournament just for this sub. No players from the current Leaderboard allowed! And when I say beginner, I mean JT level beginner like from the Daily Doots Podcast #143! Lol! No offence JT 😆 Its free, no gas, no cash, just real fun! The prize is $20 or more, but more than that, its bragging rights to be the king of this hill. It's even got a Burner Wallet login, so you know it's not sus. More dapps should do that right? If you want to give it a shot, there's only space for 9-10 players, so drop your [burner] address and I'll let you in. The FLY game is similar to Flappy Bird, and the SHOOT game is similar to Asteroids. Try them and pick your vibe. So what's in it for me? I worked hard on the app and really want to see it being used. I also think it's genuinely fun when you get it. Plus, I took a job break and built it as a porfolio piece so I would love to get feedback. Many features were actually suggestions from users on the daily threads, which I appreciate so much (Alexis and Tricky)! Any and all feedback/criticism welcome. Questions too! Chips are ERC20 tokens but 1:1 exchangeable for 0.0001 eth from the contract. No promotion of any product in this post. No monetary gain for me, only loss 🙁! Play Stupid Games, Win Awesome Prizes! https://reddit.com/link/1s8gw8d/video/us22jk9r2csg1/player https://reddit.com/link/1s8gw8d/video/9zhhtl9r2csg1/player
 
-5h ago
+7h ago
 
 ---
 
@@ -126,7 +130,7 @@ I've been all over daily threads for the last two weeks, and some of those reall
 
 Hey everyone, Over the last four years of writing smart contracts and teaching these concepts in EVM bootcamps, I keep seeing teams stumble into the exact same architectural traps when trying to achieve cross-chain address parity. Leveraging CREATE2 for deterministic addresses fundamentally changes how we handle multi-chain deployments. But because init_code includes constructor arguments, maintaining that exact same address across chains is impossible if you need to pass in chain-specific variables (like local router addresses or bridge endpoints). The standard industry workaround is deploying EIP-1167 Minimal Proxies via a universal factory, deploying deterministically, then initializing the state in the same transaction. However, this introduces some severe trade-offs that often get overlooked until they hit production: The DELEGATECALL Gas Tax: Minimal proxies are incredibly cheap to deploy (~45 bytes of bytecode), but they add a DELEGATECALL overhead to every single execution (2600 gas cold, 100 warm). At scale, this execution cost compounds brutally for your users. MEV Front-running Risks: If your proxy deployment and initialize() call are not strictly atomic within the factory contract execution, MEV bots might front-run the initialization transaction. This either bricks the instance entirely or hijacks the contract ownership. Immutability vs Upgradeability: To retain the exact same address while upgrading logic, you have to wrap the implementation in UUPS or Transparent Proxies. This inflates the initial deployment cost and introduces strict storage collision risks (requiring flawless adherence to EIP-1967 storage slots). I just published a full breakdown of these mechanics on my blog, diving into the math behind the gas trade-offs and how patterns like CREATE3 are solving the issue for non-proxy contracts where constructor arguments must differ. If you are currently architecting a multi-chain protocol, you can read the full technical deep dive here:https://andreyobruchkov1996.substack.com/p/understanding-contract-deployments-proxies-and-create2-part-2-df8f05998d5e Would love to hear how you all are handling cross-chain deterministic deployments right now. Are you still relying heavily on customized off-chain salt-mining scripts, or have you migrated to CREATE3 wrappers?
 
-15h ago
+17h ago
 
 ---
 
@@ -135,14 +139,6 @@ Hey everyone, Over the last four years of writing smart contracts and teaching t
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 1d ago
-
----
-
-**[ERC20 token network mistakes - anyone sent to the wrong chain before?](https://www.reddit.com/r/ethereum/comments/1s8bk4i/erc20_token_network_mistakes_anyone_sent_to_the/)**
-
-Curious how many people here have made this mistake at least once. Sending an ERC20 token but picking the wrong network, or mixing up chains like sending to a non-compatible address. It’s one of those errors that feels small in the moment but can turn into a real headache depending on where the funds land. Sometimes recoverable, sometimes not. What’s your experience with this? Did you manage to recover the funds or was it a total loss? And what habits or checks do you use now to avoid it happening again?
-
-10h ago
 
 ---
 
@@ -162,7 +158,7 @@ The Motley Fool • 3d ago
 
 Ethereum has rolled out a steady stream of upgrades since 2022. Here’s how those changes fit together—and what’s still ahead.
 
-Decrypt • 1d ago
+decrypt.co • 1d ago
 
 ---
 
@@ -170,7 +166,21 @@ Decrypt • 1d ago
 
 A 57-page whitepaper identifies how future quantum computers could target Ethereum's wallets, smart contracts, staking system, Layer 2 networks and data verification layer, with combined exposure exceeding $100 billion.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
+
+---
+
+**[Google Warns $100 Billion Of Ethereum Is At Risk From ‘Quantum Attack’](https://finance.yahoo.com/markets/crypto/articles/google-warns-100-billion-ethereum-133000804.html)**
+
+Google parent company Alphabet (NASDAQ: $GOOGL) is warning that $100 billion U.S. of Ethereum (CRYPTO: $ETH) is at ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Google Warns Quantum Computers Could Break Bitcoin and Ethereum in 9 Minutes — Should You Be Worried?](https://www.ccn.com/education/crypto/google-quantum-computers-break-bitcoin-ethereum-9-minutes-1-7m-btc-risk/)**
+
+CCN.com • 2h ago
 
 ---
 
@@ -178,7 +188,7 @@ CoinDesk • 1h ago
 
 Bitcoin and ethereum opening prices were fairly stable from yesterday, but both cryptocurrencies lost value in early trading.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -186,7 +196,7 @@ Yahoo Finance • 1h ago
 
 Coinbase's Ethereum layer-2 network Base said it is upgrading key systems in preparation for an AI agent economy as part of its newly released 2026 roadmap, joining the race to support the growing agentic AI ecosystem. AI agents are discovering crypto markets as their native economy, “building, own…
 
-TradingView • 21m ago
+TradingView • 1h ago
 
 ---
 
@@ -198,35 +208,17 @@ The Block • 1d ago
 
 ---
 
-**[Current price of Ethereum for March 31, 2026](https://fortune.com/article/price-of-ethereum-03-31-2026/)**
+**[Large cryptocurrencies mixed as Ethereum climbs](https://www.marketwatch.com/data-news/large-cryptocurrencies-mixed-as-ethereum-climbs-b11b3955-38ddaa8d0c55?mod=mw_latestnews&gaa_at=eafs&gaa_n=AWEtsqfpWb3cGnDA2v2M8Ps6-JGh3lnLgDpNUPzHbrT2KhVqVKkK3W5BneJr&gaa_ts=69cbe1cd&gaa_sig=xFrqlzmj6Sms3BfWR6QJCzZ5MyKI8WWgFEFxVEL3xOLy-oJBpTH5lrZ3s1eKkn3CbiWrnKg5M9K4hkZnvWUsYw%3D%3D)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 36m ago
+marketwatch.com • 47m ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.732 Million Tokens, and Total Crypto and Total Cash Holdings of $10.7 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-732-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-7-billion-302728176.html)**
+**[Why Ethereum is quietly becoming a key layer of Africa’s digital economy](https://africa.businessinsider.com/local/markets/why-ethereum-is-quietly-becoming-a-key-layer-of-africas-digital-economy/qrv474b)**
 
-Bitmine has 3,142,643 staked ETH, representing $6.3 billion at $2,005 per ETH MAVAN (Made in America VAlidator Network) launched staking solution on March 25,...
+#FeaturedPost
 
-PR Newswire • 1d ago
-
----
-
-**[Tom Lee's BitMine Adds More Ethereum as Strategy Takes a Break From Bitcoin Buying](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-adds-more-144553148.html)**
-
-BitMine continued its Ethereum accumulation, adding to its leading ETH treasury while Strategy took a week off from Bitcoin purchases.
-
-Yahoo Finance • 22h ago
-
----
-
-**[BMNR, ETH news: Bitmine buys 71,000 ETH as digital asset treasuries dial back purchases](https://www.coindesk.com/business/2026/03/30/bitmine-makes-biggest-ether-purchase-in-2026-while-other-digital-asset-treasuries-pull-back)**
-
-Tom Lee's Ethereum treasury bought more than 71,000 ETH over the past week, remaining the sole large corporate crypto buyer as Strategy broke its 13-week bitcoin purchase streak.
-
-CoinDesk • 22h ago
+Business Insider Africa • 4h ago
 
 ---
 
@@ -250,7 +242,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 365 • 👍 47 • 💬 2 • ⏱️ 4:22 • 2h ago
+👁️ 365 • 👍 47 • 💬 2 • ⏱️ 4:22 • 3h ago
 
 ---
 
@@ -270,7 +262,7 @@ Crypto looks calm… but underneath, everything is moving. The Ethereum Foundati
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 3K • 👍 273 • 💬 49 • ⏱️ 9:26 • 12h ago
+👁️ 3K • 👍 273 • 💬 49 • ⏱️ 9:26 • 13h ago
 
 ---
 
@@ -280,7 +272,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 92 • 👍 15 • ⏱️ 5:48 • 20m ago
+👁️ 92 • 👍 15 • ⏱️ 5:48 • 1h ago
 
 ---
 
@@ -290,7 +282,7 @@ BITCOIN DUMP & PUMP EXPLAINED: This is Next!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 5K • 👍 208 • 💬 208 • ⏱️ 20:19 • 13h ago
+👁️ 5K • 👍 208 • 💬 208 • ⏱️ 20:19 • 14h ago
 
 ---
 
@@ -310,7 +302,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 593 • 👍 23 • 💬 1 • ⏱️ 25:42 • 18h ago
+👁️ 593 • 👍 23 • 💬 1 • ⏱️ 25:42 • 20h ago
 
 ---
 
@@ -320,7 +312,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 4K • 👍 591 • 💬 82 • ⏱️ 11:46 • 9h ago
+👁️ 4K • 👍 591 • 💬 82 • ⏱️ 11:46 • 10h ago
 
 ---
 
@@ -330,7 +322,7 @@ BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Start your trading j
 
 📺 Ashutosh Kumar
 
-👁️ 4K • 👍 536 • 1h ago
+👁️ 4K • 👍 536 • 3h ago
 
 ---
 
