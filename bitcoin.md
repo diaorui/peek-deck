@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-31T22:03:17.612759+00:00'
+updated: '2026-03-31T22:59:27.495163+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- news
+- cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 31, 2026 at 22:03 UTC  
+**Last Updated:** March 31, 2026 at 22:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 So I'm 28 and figure this might be my last chance to really swing for the fences before I get too settled into the whole responsible adult thing. Been thinking about dumping like $2500 monthly into my hardware wallet and just letting it ride for the next 5-6 years. I mean when else am I gonna have this kind of freedom to make big moves without worrying about a mortgage or kids or whatever. My job's pretty stable so I can swing it and still cover my expenses. Part of me thinks I'm crazy but another part thinks I'll regret not taking the shot when I had the chance. Anyone else doing something similar or am I just being reckless
 
-2h ago
+3h ago
 
 ---
 
@@ -89,7 +89,7 @@ So I'm 28 and figure this might be my last chance to really swing for the fences
 
 Everything's bleeding red today, bitcoin taking a proper beating All the weak holders are losing their minds. Media calling it a collapse as usual But step back and look at the bigger picture: - We're still working through post-halving dynamics - Corporate adoption and institutional money isn't dissapearing This is just how bitcoin works - flush out the scared money before the next run higher. If you actually believe in this thing long term, these drops are buying opportunities. Keep accumulating while everyone else panics
 
-9h ago
+10h ago
 
 ---
 
@@ -97,7 +97,7 @@ Everything's bleeding red today, bitcoin taking a proper beating All the weak ho
 
 One thing to love about COLDCARD is its commitment to open standards. You can pair it with the companion wallet of your choice. Seems like this should be the standard for all hardware wallets.
 
-7h ago
+8h ago
 
 ---
 
@@ -105,7 +105,7 @@ One thing to love about COLDCARD is its commitment to open standards. You can pa
 
 Not gonna lie, this stretch feels like one of those periods where nothing crazy is happening on the surface but a lot is quietly building underneath. Price isn’t doing much to grab headlines, sentiment is split, and half the posts are either “we’re going to the moon tomorrow” or “it’s over.” Meanwhile Bitcoin just keeps running like normal. What stands out right now is big players don’t seem to be leaving, volatility feels kinda compressed, and retail interest isn’t euphoric at all which is usually when things get interesting. Feels like more people are focused on short term moves instead of long term positioning. This kind of “boring” phase usually doesn’t last. Not calling direction, I’m just stacking and staying patient. What’s everyone else doing right now?
 
-8h ago
+9h ago
 
 ---
 
@@ -129,7 +129,7 @@ Starting Monday, Square began automatically enabling Bitcoin payments for millio
 
 On-chain data shows the Bitcoin mining Hashrate has seen a notable jump since the mid-March lows, a sign that miners have been coming back. Bitcoin Hashrate Has Retraced Much Of The Earlier Decline The “Hashrate” refers to an indicator that keeps track of the total amount of computing power that miners have connected to the […]
 
-🔗 [Bitcoin Insider](https://www.bitcoininsider.org/article/301080/bitcoin-miners-are-coming-back-hashrate-jumps-125-march-lows) • 16h ago
+🔗 [Bitcoin Insider](https://www.bitcoininsider.org/article/301080/bitcoin-miners-are-coming-back-hashrate-jumps-125-march-lows) • 17h ago
 
 ---
 
@@ -137,7 +137,7 @@ On-chain data shows the Bitcoin mining Hashrate has seen a notable jump since th
 
 https://imgur.com/a/ujqHhSm Three pics in there He didn’t provide any logical answers and i fail to see how is this an attempt unless im using a pc Using an iphone btw
 
-3h ago
+4h ago
 
 ---
 
@@ -145,7 +145,7 @@ https://imgur.com/a/ujqHhSm Three pics in there He didn’t provide any logical 
 
 Bitcoin's security depends on decentralized hashrate. The more individuals running their own miners and nodes, the harder the network is to censor, attack, or control. The problem is most people still think mining requires a warehouse and a six-figure electricity bill. It doesn't. Since 2024 our small team in Houston has been writing guides for the people who want to do this. How to start. How the hardware works. How pools work. How to overclock. How to run your own node. How to solo mine. What to watch out for. We just organized all of it into one page called the Home Mining Hub. 60+ guides, a 150-term glossary, hardware comparisons, free mining calculators, and documented block wins verified on mempool.space. Five open-source miners have found full blocks since July 2024. Combined rewards exceed $1M in BTC. These are real people running small hardware at home. If you've thought about mining but didn't know where to start, this is the starting line, and if you're already mining, let us know what topics we should cover next. solosatoshi.com/home-mining-hub
 
-3h ago
+4h ago
 
 ---
 
@@ -153,7 +153,7 @@ Bitcoin's security depends on decentralized hashrate. The more individuals runni
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-15h ago
+16h ago
 
 ---
 
@@ -165,7 +165,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 The findings suggest attackers could one day steal bitcoin mid-transaction, challenging assumptions that the threat is decades away.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -173,7 +173,7 @@ CoinDesk • 17h ago
 
 Kieran Dennis, co-founder of Z and an initial contributor to Core, claims Z is the first attempt to bring native EVM capabilities to Zcash.
 
-theblock.co • 10h ago
+theblock.co • 11h ago
 
 ---
 
@@ -181,7 +181,7 @@ theblock.co • 10h ago
 
 Bitcoin's March resilience may have been a relief rally within a broader crypto winter, according to Compass Point analyst Ed Engel.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -189,7 +189,7 @@ Yahoo Finance • 1h ago
 
 The advancement of a key piece of crypto legislation was supposed to revive crypto from its doldrums—it didn't.
 
-investopedia.com • 1h ago
+investopedia.com • 2h ago
 
 ---
 
@@ -201,7 +201,7 @@ WJHL • 1d ago
 
 **[Bitcoin-Backed Municipal Bond Clears Hurdle With Moody’s Rating](https://www.bloomberg.com/news/articles/2026-03-31/bitcoin-backed-municipal-bond-clears-hurdle-with-moody-s-rating)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -215,13 +215,13 @@ Online Athens • 14h ago
 
 **[MSTR Stock: Bitcoin Whale Is Wall Street's No. 1 Crush And No. 1 Stock Issuer. Coincidence?](https://www.investors.com/news/mstr-stock-bitcoin-whale-strategy-wall-street-price-targets-stock-issuance/)**
 
-Investor's Business Daily • 10h ago
+Investor's Business Daily • 11h ago
 
 ---
 
 **[Iran’s ‘Reverse Indicator’ Just Worked for Stocks — Does It Work for Bitcoin Too?](https://www.ccn.com/news/crypto/irans-reverse-indicator-stocks-does-it-work-for-bitcoin-too/)**
 
-CCN.com • 14h ago
+CCN.com • 15h ago
 
 ---
 
@@ -229,7 +229,7 @@ CCN.com • 14h ago
 
 The “Because I Got High” singer to join a slate of speakers including Eric Trump and Michael Saylor.
 
-Fortune • 3h ago
+Fortune • 4h ago
 
 ---
 
@@ -239,7 +239,7 @@ Fortune • 3h ago
 
 **[KnexCoin (NEX) soft forked Bitcoin and now Quantum Ready](https://news.ycombinator.com/item?id=47589186)**
 
-⬆️ 2 • 💬 1 • 6h ago • [untraceablex.com](https://www.untraceablex.com)
+⬆️ 2 • 💬 1 • 7h ago • [untraceablex.com](https://www.untraceablex.com)
 
 ---
 
@@ -247,7 +247,7 @@ Fortune • 3h ago
 
 The first signing system where the private key is a physical key — and can still transact. Titanium. Not stored digitally. Not protected by firmware.
 
-⬆️ 2 • 💬 1 • 22h ago • [Frozen Security](https://frozensecurity.com/)
+⬆️ 2 • 💬 1 • 23h ago • [Frozen Security](https://frozensecurity.com/)
 
 ---
 
@@ -255,7 +255,7 @@ The first signing system where the private key is a physical key — and can sti
 
 Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes were hidden in lost fishing rod case
 
-⬆️ 2 • 💬 1 • 6d ago • [The Irish Times](https://www.irishtimes.com/crime-law/2026/03/24/gardai-seize-bitcoin-valued-at-30m-in-cab-operation-supported-by-europol/)
+⬆️ 2 • 💬 1 • 7d ago • [The Irish Times](https://www.irishtimes.com/crime-law/2026/03/24/gardai-seize-bitcoin-valued-at-30m-in-cab-operation-supported-by-europol/)
 
 ---
 
@@ -291,13 +291,13 @@ Agent-native inference engine with O(1) fork latency for tree-structured reasoni
 
 The water utility highlighted unsubstantiated health concerns.
 
-⬆️ 4 • 💬 0 • 9h ago • [Ars Technica](https://arstechnica.com/health/2026/03/water-utility-announces-its-ditching-fluoride-then-reveals-it-did-so-years-ago/)
+⬆️ 4 • 💬 0 • 10h ago • [Ars Technica](https://arstechnica.com/health/2026/03/water-utility-announces-its-ditching-fluoride-then-reveals-it-did-so-years-ago/)
 
 ---
 
 **[Uni feels so usless, I cant focus anymore](https://news.ycombinator.com/item?id=47567925)**
 
-⬆️ 7 • 💬 3 • 1d ago
+⬆️ 7 • 💬 3 • 2d ago
 
 ---
 
@@ -311,7 +311,7 @@ The global economy didn't slowly weaken. It snapped. In just 72 hours, multiple 
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 3K • 💬 236 • ⏱️ 48:32 • 21h ago
+👁️ 29K • 👍 3K • 💬 236 • ⏱️ 48:32 • 22h ago
 
 ---
 
@@ -321,7 +321,7 @@ Contact Congress: https://www.congress.gov/members/find-your-member BTC Conferen
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 231 • ⏱️ 9:58 • 22h ago
+👁️ 39K • 👍 2K • 💬 231 • ⏱️ 9:58 • 23h ago
 
 ---
 
@@ -341,7 +341,7 @@ Channel Sponsors (Affiliate Links)   Phemex https://phemex.com/en/affiliate/H3XT
 
 📺 Frankie Candles 
 
-👁️ 3K • 👍 303 • 2h ago
+👁️ 3K • 👍 303 • 3h ago
 
 ---
 
@@ -351,7 +351,7 @@ Bitcoin #Crypto #Finance Bitcoin just closed its worst first quarter since 2018,
 
 📺 The Wolf Of All Streets
 
-👁️ 12K • 👍 581 • 💬 121 • ⏱️ 58:16 • 7h ago
+👁️ 12K • 👍 581 • 💬 121 • ⏱️ 58:16 • 8h ago
 
 ---
 
@@ -361,7 +361,7 @@ Why translate everything back into fiat? Many businesses interacting with Bitcoi
 
 📺 The reDeFined Podcast
 
-👁️ 731 • 👍 10 • ⏱️ 0:37 • 2h ago
+👁️ 731 • 👍 10 • ⏱️ 0:37 • 3h ago
 
 ---
 
@@ -371,7 +371,7 @@ iTrust Capital – $100 Bonus https://bit.ly/AaronBennett-iTrustCapital Into The
 
 📺 Aaron Bennett
 
-👁️ 5K • 👍 363 • 💬 44 • ⏱️ 8:00 • 12h ago
+👁️ 5K • 👍 363 • 💬 44 • ⏱️ 8:00 • 13h ago
 
 ---
 
@@ -399,7 +399,7 @@ Structure your assets and position yourself for the transfer, that's what the We
 
 📺 Mark Moss
 
-👁️ 2K • 👍 87 • 💬 35 • ⏱️ 0:46 • 1h ago
+👁️ 2K • 👍 87 • 💬 35 • ⏱️ 0:46 • 2h ago
 
 ---
 

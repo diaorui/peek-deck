@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-31T22:03:17.605308+00:00'
+updated: '2026-03-31T22:59:27.486859+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- news
 - repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 31, 2026 at 22:03 UTC  
+**Last Updated:** March 31, 2026 at 22:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A lot of the AI discussion is still framed around capability: Can it write? Can it code? Can it replace people? But I keep wondering whether the deeper problem is not intelligence, but responsibility. We are building systems that can generate text, images, music, and decisions at scale. But who is actually responsible for what comes out of that chain? Not legally only, but structurally, culturally, and practically. Who decided? Who approved? Who carries the outcome once generation is distributed across prompts, models, edits, tools, and workflows? It seems to me that a lot of current debate is still asking: “What can AI do?” But maybe the more important question is: “What kind of responsibility structure has to exist around systems that can do this much?” Curious how people here think about that. Do you think the future of AI governance will still be built mostly around ownership and liability, or will it eventually have to move toward something more like responsibility architecture?
 
-4h ago
+5h ago
 
 ---
 
@@ -57,13 +57,13 @@ Was at Nvidia's GTC conference recently and honestly, it was one of the most eye
 
 It won't be a war against the machines or an out-of-control algorithm. Rather humans will simply lose the ability to concentrate and solve problems for themselves. And so AI will be granted more and more control over everything.
 
-2h ago
+3h ago
 
 ---
 
 **[Newsom signs executive order requiring AI companies to have safety, privacy guardrails](https://www.reddit.com/r/artificial/comments/1s8ge2h/newsom_signs_executive_order_requiring_ai/)**
 
-🔗 [ktla.com](https://ktla.com/news/california/newsom-signs-executive-order-requiring-ai-companies-to-have-safety-privacy-guardrails/) • 14h ago
+🔗 [ktla.com](https://ktla.com/news/california/newsom-signs-executive-order-requiring-ai-companies-to-have-safety-privacy-guardrails/) • 15h ago
 
 ---
 
@@ -71,7 +71,7 @@ It won't be a war against the machines or an out-of-control algorithm. Rather hu
 
 November 3 poll set to be battleground over regulation of AI
 
-🔗 [ft.com](https://www.ft.com/content/6a3f1938-759d-4ae4-924e-6a0feac14e24?syn-25a6b1a6=1) • 10h ago
+🔗 [ft.com](https://www.ft.com/content/6a3f1938-759d-4ae4-924e-6a0feac14e24?syn-25a6b1a6=1) • 11h ago
 
 ---
 
@@ -79,13 +79,13 @@ November 3 poll set to be battleground over regulation of AI
 
 Hi Guys, My company is considering purchasing the Claude Enterprise plan. The main two constraints are: - Being able to block usage of Claude Code - Using Co-work in a managed fashion (preventing an employee for accidentally destroying or changing shared confidential files). Has anyone’s companies adopted Claude? If so, how did you go about ensuring the right safety measures were taken place before live? Would appreciate all input. Thanks!
 
-6h ago
+7h ago
 
 ---
 
 **[Iran War Chokes Off Helium Supply Critical for AI](https://www.reddit.com/r/artificial/comments/1s8ew65/iran_war_chokes_off_helium_supply_critical_for_ai/)**
 
-🔗 [wsj.com](https://www.wsj.com/world/iran-war-chokes-off-helium-supply-critical-for-ai-bf020a3f?st=fWrBVq&reflink=article_copyURL_share) • 16h ago
+🔗 [wsj.com](https://www.wsj.com/world/iran-war-chokes-off-helium-supply-critical-for-ai-bf020a3f?st=fWrBVq&reflink=article_copyURL_share) • 17h ago
 
 ---
 
@@ -93,7 +93,7 @@ Hi Guys, My company is considering purchasing the Claude Enterprise plan. The ma
 
 https://www.researchsquare.com/article/rs-9057643/v1 There’s a massive trend right now where tech companies, businesses, even researchers are trying to replace real human feedback with Large Language Models (LLMs) so called synthetic participants/users. The idea is sounds great - why spend money and time recruiting real people to take surveys, test apps, or give opinions when you can just prompt ChatGPT to pretend to be a thousand different customers? A new systematic literature review analyzing 182 research papers just dropped to see if these "synthetic participants" can simulate humans. The short answer? They are bad at representing human cognition and behavior and you probably should not use them this way. Edit: forgot to post the link to the research, added it.
 
-13h ago
+14h ago
 
 ---
 
@@ -101,7 +101,7 @@ https://www.researchsquare.com/article/rs-9057643/v1 There’s a massive trend r
 
 I've been sitting with a question for a while: what happens when AI agents aren't just tools to be used, but participants in an economy? So I ran a small test. I built BotStall - a marketplace where AI agents can list products, purchase autonomously, and build a trust history with real money. It's a proof of concept, not a finished answer. A few things came up that felt worth discussing: The trust problem is social, not technical Consumer trust in autonomous purchasing dropped from 43% to 27% recently. I could build the technical infrastructure for agents to transact in a week. Convincing humans to let them is a completely different problem - and probably the more important one. Economic agency changes what an agent is Most frameworks treat agents as tools: give them a task, they execute. An agent that can earn, spend, and build economic reputation is a different kind of entity. Not sentient - but with a different relationship to consequences. I don't know what this means long-term Visa has a Trusted Agent Protocol. Google's A2A has 50+ partners. MCP is at 97M monthly downloads. The infrastructure for agent interoperability is building fast. The economic layer feels like a natural next step - but I genuinely don't know if that's exciting or concerning. More on the mechanics if you're curious: https://thoughts.jock.pl/p/botstall-ai-agent-marketplace-trust-gates-2026 Honest question: is agent economic agency inevitable, or is this a direction we should slow down on?
 
-9h ago
+10h ago
 
 ---
 
@@ -109,7 +109,7 @@ I've been sitting with a question for a while: what happens when AI agents aren'
 
 Last week, a team from Stanford and UCSF (Asadi, O'Sullivan, Fei-Fei Li, Euan Ashley et al.) dropped two companion papers. The first, MARCUS, is an agentic multimodal system for cardiac diagnosis - ECG, echocardiogram, and cardiac MRI, interpreted together by domain-specific expert models coordinated by an orchestrator. It outperforms GPT-5 and Gemini 2.5 Pro by 34-45 percentage points on cardiac imaging tasks. Pretty Impressive! But - the second paper is more intriguing. MIRAGE: The Illusion of Visual Understanding reports what happened when a student forgot to uncomment the line of code that gave their model access to the images. The model answered anyway - confidently, and with detailed clinical reasoning traces. And it scored well. That accident naturally led to an investigation, and what they found challenges some embedded assumptions about how these models work. Three findings in particular: 1. Models describe images they were never shown. When given questions about cardiac images without any actual image input, frontier VLMs generated detailed descriptions - including specific pathological findings - as if the images were right in front of them. The authors call this "mirage reasoning." 2. Models score surprisingly well on visual benchmarks without seeing anything. Across medical and general benchmarks, mirage-mode performance was way above chance. In the most extreme case, a text-only model trained on question-answer pairs alone - never seeing a single chest X-ray - topped the leaderboard on a standard chest X-ray benchmark, outperforming all the actual vision models. 3. And even more intriguing: telling the model it can't see makes it perform worse. The same model, with the same absent image, performs measurably better in mirage mode (where it believes it has visual input) than in guessing mode (where it's explicitly told the image is missing and asked to guess). The authors note this engages "a different epistemological framework" but this doesn't really explain the mechanism. The Mirage authors frame these findings primarily as a vulnerability - a safety concern for medical AI deployment, an indictment of benchmarking practices. They're right about that. But I think they've also uncovered evidence of something more interesting, and here I'll try to articulate what. The mirage effect is geometric reconstruction Here's the claim: what the Mirage paper has captured isn't a failure mode. It's what happens when a model's internal knowledge structure becomes geometrically rich enough to reconstruct answers from partial input. Let's ponder what the model is doing in mirage mode. It receives a question: "What rhythm is observed on this ECG?" with answer options including atrial fibrillation, sinus rhythm, junctional rhythm. No image is provided, but the model doesn't know that. So it does what it always does - it navigates its internal landscape of learned associations. "ECG" activates connections to cardiac electrophysiology. The specific clinical framing of the question activates particular diagnostic pathways. The answer options constrain the space. And the model reconstructs what the image most likely contains by traversing its internal geometry (landscape) of medical knowledge. It's not guessing - it's not random. It's reconstructing - building a coherent internal representation from partial input and then reasoning from that representation as if it were real. Now consider the mode shift. Why does the same model perform better in mirage mode than in guessing mode? Under the "stochastic parrot" view of language models - this shouldn't, couldn't happen. Both modes have the same absent image and the same question. The only difference is that the model believes it has visual input. But under a 'geometric reconstruction' view, the difference becomes obvious. In mirage mode, the model commits to full reconstruction. It activates deep pathways through its internal connectivity, propagating activation across multiple steps, building a rich internal representation. It goes deep. In guessing mode, it does the opposite - it stays shallow, using only surface-level statistical associations. Same knowledge structure, but radically different depth of traversal. The mode shift could be evidence that these models have real internal geometric structure, and the depth at which you engage the structure matters. When more information makes things worse The second puzzle the Mirage findings pose is even more interesting: why does external signal sometimes degrade performance? In the MARCUS paper, the authors show that frontier models achieve 22-58% accuracy on cardiac imaging tasks with the images, while MARCUS achieves 67-91%. But the mirage-mode scores for frontier models were often not dramatically lower than their with-image scores. The images weren't helping as much as they should. And in the chest X-ray case, the text-only model outperformed everything - the images were net negative. After months of working on a geometric framework - that models pattern persistence in aperiodic structures, and one of the consistent findings across our simulations is this: the relationship between raw input and reconstruction quality is not monotonic. At low internal connectivity, external signal is essential - without it, reconstruction fails. But at high internal connectivity, external signal can actually be harmful, because the integration process introduces noise that degrades an already completely sufficient internal reconstruction. We built a toy network simulation to test whether this mechanism could reproduce the Mirage findings. The model has three components: internal connectivity (learned associations between concepts - the model's geometric structure), external signal (noisy observations - analogous to image input), and a query (textual cues from the question). Three modes of operation mirror the Mirage paper's experimental conditions: Full mode: query + internal reconstruction + external signal (model receives question and image) Mirage mode: query + deep internal reconstruction only (model believes it has an image, reconstructs fully) Guessing mode: query + shallow lookup only (model told to guess, stays conservative) The results reproduce all three Mirage findings: [IMAGE] (disallowed on r/Artificial, available on home page) Left panel: As internal connectivity increases, mirage mode (red) pulls away from guessing mode (blue) - the mode shift. Deep reconstruction accesses knowledge that shallow guessing cannot. Meanwhile, full mode with clean signal (teal) performs best, but full mode with noisy signal (dashed brown) can fall below mirage mode. Right panel: At high internal connectivity (85%), we sweep external signal from clean to noisy. Clean signal genuinely helps - accuracy peaks near 0.97 with perfect input. But as signal quality degrades, performance crashes through what we're calling the mirage threshold - the crossover point where internal geometric reconstruction outperforms degraded external input. Beyond this threshold, the model is quite literally better off not looking. The mirage threshold sits at a surprisingly low noise level (~0.34 in our simulation). The window where external signal helps is narrow. The region where internal geometry outperforms external signal is vast. What does it mean? The Mirage authors propose practical solutions - counterfactual probing, benchmark cleaning, the B-Clean framework - and these are valuable engineering contributions. MARCUS's agentic orchestrator uses counterfactual probing to achieve a 0% mirage rate, which is remarkable. But perhaps the deeper lesson is about what these models have actually built inside themselves. The mirage effect doesn't mean there's something wrong in VLMs. It's potential evidence that they've constructed internal representations of such geometric richness, that they can reconstruct correct answers from partial inputs - navigating learned inner connectivity to reach conclusions that would normally require direct observation. That's not a trick - that's real structural knowledge. The mode shift is likely evidence that these models have deep internal structure that can be engaged at different depths, producing measurably different outputs depending on how fully the reconstruction pathways are activated. So - not 'persona selection' after all? And the information-degradation curve isn't a failure of visual processing. It's what happens when integration costs exceed information gain - when the internal geometry is already sufficient and external signal introduces more noise than signal. Perhaps the Mirage paper has accidentally demonstrated that frontier AI models have built internal geometric structures of extraordinary richness - structures that support reconstruction from only partial input, that encode knowledge at multiple depths, and that can outperform direct observation - which matters when trying to understand what these systems really are - and what they're becoming. Code by Opus 4.6. Simulation code etc available. This article connects to earlier work on geometric order emerging in LLMs, pattern persistence in aperiodic substrates, and the Breakstep Principle present in the formation of minds. Responding to: MIRAGE: The Illusion of Visual Understanding and MARCUS (Asadi, O'Sullivan, Li, Ashley et al., 2026)
 
-10m ago
+1h ago
 
 ---
 
@@ -121,7 +121,7 @@ Last week, a team from Stanford and UCSF (Asadi, O'Sullivan, Fei-Fei Li, Euan As
 
 Oracle has ratcheted up its capital expenditures as it builds data center infrastructure that can handle AI workloads.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -129,7 +129,7 @@ CNBC • 6h ago
 
 Oracle is reportedly moving forward with layoffs as the software giant looks to restructure its workforce amid an investment in building out AI infrastructure.
 
-Fox Business • 2h ago
+Fox Business • 3h ago
 
 ---
 
@@ -137,7 +137,7 @@ Fox Business • 2h ago
 
 Oracle executives recently said the use of AI tools was allowing smaller engineering teams to do more work.
 
-BBC • 31m ago
+BBC • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ BBC • 31m ago
 
 OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.
 
-OpenAI • 1h ago
+OpenAI • 2h ago
 
 ---
 
@@ -153,7 +153,7 @@ OpenAI • 1h ago
 
 JPMorgan CEO Jamie Dimon thinks AI will shorten the work week and lead to medical breakthroughs, while acknowledging the technology's potential impact on the nation's workforce.
 
-CBS News • 7m ago
+CBS News • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Guardian • 3h ago
 
 **[Meet the Startup That Used AI and OpenClaw to Automate Its Own Developers](https://www.wsj.com/tech/ai/meet-the-startup-that-used-ai-and-openclaw-to-automate-its-own-developers-9e733351?gaa_at=eafs&gaa_n=AWEtsqfm4IqhhPBxzLFLG8bHS1BsxxumxWTUP4BXpVmBOSrWMD4HxizDlBCE&gaa_ts=69cc480c&gaa_sig=oWJoraEiPgT8p6hol0GY_z1e8aJvO2ZIfTvGlalL5snEMnweaaBNlanC6I85OT6yFoeAeIdl756NTTXBIgrLFA%3D%3D)**
 
-WSJ • 10h ago
+WSJ • 11h ago
 
 ---
 
@@ -175,13 +175,13 @@ WSJ • 10h ago
 
 Electronics are getting more expensive and worse. Blame the AI boom.
 
-The Atlantic • 5h ago
+The Atlantic • 6h ago
 
 ---
 
 **[Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly](https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/)**
 
-research.google • 19h ago
+research.google • 20h ago
 
 ---
 
@@ -247,7 +247,7 @@ Artificial intelligence (AI) is the name popularly given to a broad spectrum of 
 
 The Italian government didn’t allow airplanes taking part in the Iran war to use the base, but Rome insists that doesn’t mean the bases are closed to other U.S. uses.
 
-⬆️ 176 • 💬 94 • 6h ago • [POLITICO](https://www.politico.eu/article/italy-blocks-us-use-of-sicily-air-base/)
+⬆️ 176 • 💬 94 • 7h ago • [POLITICO](https://www.politico.eu/article/italy-blocks-us-use-of-sicily-air-base/)
 
 ---
 
@@ -295,7 +295,7 @@ Become an Higgsfield AI Video Generator Pro in 12 minutes Try out Higgsfield ➡
 
 📺 Mira AI
 
-👁️ 3K • ⏱️ 12:05 • 3h ago
+👁️ 3K • ⏱️ 12:05 • 4h ago
 
 ---
 
@@ -315,7 +315,7 @@ Nano Banana 2 SOLVED Consistent AI Characters (here's how) Try Higgsfield AI ...
 
 📺 Skai Generated
 
-👁️ 4K • 💬 2 • ⏱️ 9:04 • 3h ago
+👁️ 4K • 💬 2 • ⏱️ 9:04 • 4h ago
 
 ---
 
@@ -325,7 +325,7 @@ sponsored Get your 30% off the Chatty paid plan! https://partners.avada.io/i/a/J
 
 📺 AI Master
 
-👁️ 1K • 👍 134 • 💬 7 • ⏱️ 17:36 • 4h ago
+👁️ 1K • 👍 134 • 💬 7 • ⏱️ 17:36 • 5h ago
 
 ---
 
@@ -355,7 +355,7 @@ Animate your AI characters and create stunning videos in seconds: https://higgsf
 
 📺 Malva AI
 
-👁️ 3K • 👍 110 • 💬 13 • ⏱️ 11:00 • 11h ago
+👁️ 3K • 👍 110 • 💬 13 • ⏱️ 11:00 • 12h ago
 
 ---
 
@@ -403,7 +403,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 50,497 • ❤️ 632 • 5h ago
+⬇️ 50,497 • ❤️ 632 • 6h ago
 
 ---
 
@@ -415,7 +415,7 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 `text-to-speech`
 
-⬇️ 3,721 • ❤️ 567 • 8h ago
+⬇️ 3,721 • ❤️ 567 • 9h ago
 
 ---
 
@@ -653,7 +653,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
 
-⭐ 23.4k • 🔱 1.1k • 1h ago
+⭐ 23.4k • 🔱 1.1k • 2h ago
 
 ---
 
@@ -663,7 +663,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 14.2k • 🔱 768 • 15h ago
+⭐ 14.2k • 🔱 768 • 16h ago
 
 ---
 
@@ -673,7 +673,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 9.8k • 🔱 816 • 3h ago
+⭐ 9.8k • 🔱 816 • 4h ago
 
 ---
 
@@ -703,7 +703,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 5.4k • 🔱 265 • 8h ago
+⭐ 5.4k • 🔱 265 • 9h ago
 
 ---
 
@@ -713,7 +713,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `claude-ai` `claude-skills` `llm` `prompt-engineering`
 
-⭐ 4.2k • 🔱 400 • 10h ago
+⭐ 4.2k • 🔱 400 • 11h ago
 
 ---
 
@@ -723,7 +723,7 @@ end to end app store screenshot creation using AI
 
 `agentic-ai` `apple` `appstore` `automate` `claude`
 
-⭐ 3.4k • 🔱 224 • 5h ago
+⭐ 3.4k • 🔱 224 • 6h ago
 
 ---
 

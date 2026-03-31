@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-31T22:03:17.617986+00:00'
+updated: '2026-03-31T22:59:27.501084+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
-- news
+- cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 31, 2026 at 22:03 UTC  
+**Last Updated:** March 31, 2026 at 22:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Google just moved the quantum threat from decades away to 2029. Taproot exposed 6.9 million Bitcoin. Ethereum launched a seven-fork roadmap. Bitcoin has BIP-360 and a mailing list. Here's what that difference means.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/google-quantum-deadline-2029-ethereum-plan-bitcoin-culture-war/) • 13h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/google-quantum-deadline-2029-ethereum-plan-bitcoin-culture-war/) • 14h ago
 
 ---
 
@@ -88,13 +88,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hello everyone! I've built a tool to help recover ETH stuck in old smart contracts that no longer have frontends. Portfolio trackers like Debank and Zerion don't index these balances. 116 contracts, 76,000+ ETH, 516k depositors with claimable balance. Idex, Etherdelta, DigixDAO, PoWH3D, ENS old registrar, Fomo3d, MoonCatRescue, to name a few. One address alone has 10,000 ETH locked in the old ENS registrar deeds - a deposit from a name auction on governx.eth that was never released. Even Vitalik has 75 ETH to claim! Most of these addresses are dormant, but if you were active on Etheruem between 2015-2019, check your address at https://forgotteneth.com Twitter thread It scans all 116 contracts and crafts the withdrawal transaction(s) for you. https://preview.redd.it/2rv0j4bq7esg1.png?width=2236&format=png&auto=webp&s=0f5c26c5306475ba4de4325cbae72757b3738f05
 
-7h ago
+8h ago
 
 ---
 
 **[I'm making hey.eth a public, free identity layer for everyone. Agents are able to get their own ENS in <10s. Building open source infra for agentic payments using State Channels.](https://www.reddit.com/r/ethereum/comments/1s8o4zh/im_making_heyeth_a_public_free_identity_layer_for/)**
 
-🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2038977772312272942) • 8h ago
+🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2038977772312272942) • 9h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hello everyone! I've built a tool to help recover ETH stuck in old smart contrac
 
 ZCHF is a decentralized stablecoin that is designed to track the value of the Swiss franc (CHF). Unlike popular stablecoins like USDT or USDC that are pegged to the US dollar, ZCHF is pegged 1:1 to Switzerland’s currency. It is issued by the Frankencoin protocol and operates on blockchain infrastructure, which means it doesn’t rely on traditional banks in the same way centralised stablecoins do. Instead, it uses a system of collateral and smart contracts to maintain its value. Why People Are Talking About It Interest in ZCHF has increased after Vitalik Buterin recently swapped a significant amount of USDC into ZCHF. Moves like this bring attention to the idea that DeFi may not stay centered only around the US dollar.
 
-15h ago
+16h ago
 
 ---
 
@@ -110,7 +110,7 @@ ZCHF is a decentralized stablecoin that is designed to track the value of the Sw
 
 With all the discussion around L2 fragmentation lately (EEZ announcement, Superchain, AggLayer), I wanted to share something I've been working on that addresses the problem from a different angle. The issue: every rollup ships its own proof system - Groth16, STARK, Plonk, Halo2, Nova - each needing a separate on-chain verifier at 200k+ gas. Some require trusted setup ceremonies. GLYPH is a universal transparent verification layer that compiles any proof into a common intermediate representation (UCIR) and verifies it through a single on-chain contract. What it does: - Verifies any major proof system through one verifier - <30k gas per on-chain verification (~7.5x cheaper than Groth16 alone) - No trusted setup - fully transparent - Supported: Groth16, KZG, IPA, Plonk, Halo2, STARK (Winterfell, Miden, Cairo/Stone, Circle STARK, Stwo), Nova/HyperNova/Sangria/SuperNova (IVC), SP1, Plonky2/3, Binius How it works: - Packed arity-8 sumcheck over p = 2^128 - 159 - Chain-bound Keccak256 Fiat-Shamir challenges - BaseFold PCS - On-chain verifier in pure Solidity assembly - Formal proof pack with soundness bound ~1.88 x 10^-37 Tested on Sepolia + Hoodi. Benchmarks included and reproducible. Everything is open source under MIT: - Full Paper: https://doi.org/10.5281/zenodo.18792566 https://hackmd.io/@ChristopherSchulze/glyph-zk - Code: https://github.com/Christopher-Schulze/glyph-zk I know the on-chain assembly verifier needs a proper audit before anyone touches it in production - that's on the roadmap. Would love feedback from the community. Happy to answer any questions about the architecture or design decisions.
 
-12h ago
+13h ago
 
 ---
 
@@ -118,13 +118,13 @@ With all the discussion around L2 fragmentation lately (EEZ announcement, Superc
 
 I've been all over daily threads for the last two weeks, and some of those really nice folks have been having fun with this little game dapp that I built. I call it Stupid Games, because you play really easy, simple games, but get to win awesome real ETH prizes! It's an arcade type game platform, full of crypto memes, that pays out real ETH prizes to the winners. All managed by smart contracts of course. I'm creating a beginner friendly, mini tournament just for this sub. No players from the current Leaderboard allowed! And when I say beginner, I mean JT level beginner like from the Daily Doots Podcast #143! Lol! No offence JT 😆 Its free, no gas, no cash, just real fun! The prize is $20 or more, but more than that, its bragging rights to be the king of this hill. It's even got a Burner Wallet login, so you know it's not sus. More dapps should do that right? If you want to give it a shot, there's only space for 9-10 players, so drop your [burner] address and I'll let you in. The FLY game is similar to Flappy Bird, and the SHOOT game is similar to Asteroids. Try them and pick your vibe. So what's in it for me? I worked hard on the app and really want to see it being used. I also think it's genuinely fun when you get it. Plus, I took a job break and built it as a porfolio piece so I would love to get feedback. Many features were actually suggestions from users on the daily threads, which I appreciate so much (Alexis and Tricky)! Any and all feedback/criticism welcome. Questions too! Chips are ERC20 tokens but 1:1 exchangeable for 0.0001 eth from the contract. No promotion of any product in this post. No monetary gain for me, only loss 🙁! Play Stupid Games, Win Awesome Prizes! https://reddit.com/link/1s8gw8d/video/us22jk9r2csg1/player https://reddit.com/link/1s8gw8d/video/9zhhtl9r2csg1/player
 
-14h ago
+15h ago
 
 ---
 
 **[EIP-712](https://www.reddit.com/r/ethereum/comments/1s8l7du/eip712/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -168,7 +168,7 @@ Decrypt • 2d ago
 
 Fiscal 2025 saw a strategic pivot to Ethereum and AI infrastructure, with revenue up 5% to $113.6M but a net loss of $80.3M due to crypto volatility. ETH holdings and staking surged, while mining operations were wound down.Original document: Bit Digital, Inc. [BTBT] SEC 8-K Current Report — Apr. 1…
 
-TradingView • 26m ago
+TradingView • 1h ago
 
 ---
 
@@ -176,7 +176,7 @@ TradingView • 26m ago
 
 The Tether-backed USAT stablecoin built for the U.S. market is expanding to Ethereum layer-2 network Celo with help from Google Cloud.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -184,7 +184,7 @@ Yahoo Finance • 3h ago
 
 London, UK, March 31st, 2026, FinanceWireConflux Capital, a provider of automated digital asset solutions, today announced the expansion of its quantitative trading framework designed to provide institutional-grade stability for BTC and ETH portfolios. As digital asset markets experience increased…
 
-TradingView • 4h ago
+TradingView • 5h ago
 
 ---
 
@@ -200,7 +200,7 @@ theblock.co • 1d ago
 
 #FeaturedPost
 
-Business Insider Africa • 11h ago
+Business Insider Africa • 12h ago
 
 ---
 
@@ -238,7 +238,7 @@ This year's EthCC event in Cannes has fielded its first major announcement: the 
 
 📺 Paul Barron Network
 
-👁️ 7K • 👍 801 • 💬 43 • ⏱️ 13:00 • 2h ago
+👁️ 7K • 👍 801 • 💬 43 • ⏱️ 13:00 • 3h ago
 
 ---
 
@@ -248,7 +248,7 @@ Hang in there everyone! The risk models that say when to accumulate or exit HERE
 
 📺 Dan Gambardello
 
-👁️ 3K • 👍 373 • 💬 148 • ⏱️ 13:49 • 3h ago
+👁️ 3K • 👍 373 • 💬 148 • ⏱️ 13:49 • 4h ago
 
 ---
 
@@ -278,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 95 • 💬 3 • ⏱️ 4:22 • 10h ago
+👁️ 1K • 👍 95 • 💬 3 • ⏱️ 4:22 • 11h ago
 
 ---
 
@@ -288,7 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 721 • 👍 76 • ⏱️ 3:35 • 2h ago
+👁️ 721 • 👍 76 • ⏱️ 3:35 • 3h ago
 
 ---
 
@@ -298,7 +298,7 @@ Crypto looks calm… but underneath, everything is moving. The Ethereum Foundati
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 10K • 👍 273 • 💬 50 • ⏱️ 9:26 • 20h ago
+👁️ 10K • 👍 273 • 💬 50 • ⏱️ 9:26 • 21h ago
 
 ---
 
@@ -318,7 +318,7 @@ Full Video: https://youtube.com/live/JFLhIqxIA88?feature=share.
 
 📺 Cultivate Crypto
 
-👁️ 31 • 👍 3 • ⏱️ 3:01 • 7h ago
+👁️ 31 • 👍 3 • ⏱️ 3:01 • 8h ago
 
 ---
 
@@ -328,7 +328,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Nasus Ink
 
-👁️ 3K • 👍 1K • 39m ago
+👁️ 3K • 👍 1K • 1h ago
 
 ---
 
