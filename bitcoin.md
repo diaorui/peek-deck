@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-31T19:03:56.986732+00:00'
+updated: '2026-03-31T20:05:19.419387+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 31, 2026 at 19:03 UTC  
+**Last Updated:** March 31, 2026 at 20:05 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,454.03
+### $67,941.33
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
-**7d:** -4.9%  
-**30d:** -1.4%  
+**24h:** +1.7%  
+**7d:** -4.8%  
+**30d:** -1.3%  
 **90d:** -23.6%  
 **1y:** -20.3%  
 
@@ -81,7 +81,7 @@ Rank #1
 
 Everything's bleeding red today, bitcoin taking a proper beating All the weak holders are losing their minds. Media calling it a collapse as usual But step back and look at the bigger picture: - We're still working through post-halving dynamics - Corporate adoption and institutional money isn't dissapearing This is just how bitcoin works - flush out the scared money before the next run higher. If you actually believe in this thing long term, these drops are buying opportunities. Keep accumulating while everyone else panics
 
-6h ago
+7h ago
 
 ---
 
@@ -89,7 +89,7 @@ Everything's bleeding red today, bitcoin taking a proper beating All the weak ho
 
 One thing to love about COLDCARD is its commitment to open standards. You can pair it with the companion wallet of your choice. Seems like this should be the standard for all hardware wallets.
 
-4h ago
+5h ago
 
 ---
 
@@ -97,7 +97,7 @@ One thing to love about COLDCARD is its commitment to open standards. You can pa
 
 Not gonna lie, this stretch feels like one of those periods where nothing crazy is happening on the surface but a lot is quietly building underneath. Price isn’t doing much to grab headlines, sentiment is split, and half the posts are either “we’re going to the moon tomorrow” or “it’s over.” Meanwhile Bitcoin just keeps running like normal. What stands out right now is big players don’t seem to be leaving, volatility feels kinda compressed, and retail interest isn’t euphoric at all which is usually when things get interesting. Feels like more people are focused on short term moves instead of long term positioning. This kind of “boring” phase usually doesn’t last. Not calling direction, I’m just stacking and staying patient. What’s everyone else doing right now?
 
-5h ago
+6h ago
 
 ---
 
@@ -105,7 +105,15 @@ Not gonna lie, this stretch feels like one of those periods where nothing crazy 
 
 https://preview.redd.it/t90261ey7csg1.png?width=1200&format=png&auto=webp&s=e4c0048cf406f8ead73b9e9feb3e7dcbc6c9fa82 90 million Americans with 401ks is trillions of dollars in potential capital. even a 1% allocation to bitcoin from that pool would be a demand shock like nothing we’ve seen.
 
-11h ago
+12h ago
+
+---
+
+**[Going heavy on Bitcoin while I'm still young](https://www.reddit.com/r/Bitcoin/comments/1s8y8xd/going_heavy_on_bitcoin_while_im_still_young/)**
+
+So I'm 28 and figure this might be my last chance to really swing for the fences before I get too settled into the whole responsible adult thing. Been thinking about dumping like $2500 monthly into my hardware wallet and just letting it ride for the next 5-6 years. I mean when else am I gonna have this kind of freedom to make big moves without worrying about a mortgage or kids or whatever. My job's pretty stable so I can swing it and still cover my expenses. Part of me thinks I'm crazy but another part thinks I'll regret not taking the shot when I had the chance. Anyone else doing something similar or am I just being reckless
+
+7m ago
 
 ---
 
@@ -113,7 +121,7 @@ https://preview.redd.it/t90261ey7csg1.png?width=1200&format=png&auto=webp&s=e4c0
 
 Starting Monday, Square began automatically enabling Bitcoin payments for millions of eligible U.S. small businesses, according to a recent announcement. It is leveraging the Bitcoin Lightning Network and defaulting all merchant settlements to U.S. dollars. Notably, Square is rolling out Bitcoin acceptance with zero additional setup required from the merchants. Miles Suter, Block’s head of Bitcoin product, confirmed the deployment on X, noting that sellers who accept the cryptocurrency will receive fiat currency by default. “We’re making it easier for millions of businesses to accept bitcoin,” Suter stated. “This is how bitcoin as everyday money begins.” It is also worth noting that Square is waiving all processing fees on these transactions through the end of 2026. The sheer scale of the rollout is quite notable. It is targeting an eligible pool of roughly 4 million U.S. merchants that comprise 78% of Square's user base. Square’s infrastructure bypasses the base Bitcoin blockchain in favor of the Lightning Network. The Lightning Network operates as a "Layer 2" protocol built directly on top of the base chain. The Bitcoin blockchain (the main layer) gets engaged when a payment channel is closed. At that point, the network records the final net balance. Square is capable of delivering a checkout experience that can rival the speed of legacy credit cards. However, it is operating on an open, decentralized monetary network. David Marcus, CEO of Lightspark and former President of PayPal, described the integration as a potential “TCP/IP moment” for global financial infrastructure.
 
-🔗 [U.Today](https://u.today/bitcoin-lighting-gets-major-adoption-boost-in-us) • 21h ago
+🔗 [U.Today](https://u.today/bitcoin-lighting-gets-major-adoption-boost-in-us) • 22h ago
 
 ---
 
@@ -121,15 +129,7 @@ Starting Monday, Square began automatically enabling Bitcoin payments for millio
 
 On-chain data shows the Bitcoin mining Hashrate has seen a notable jump since the mid-March lows, a sign that miners have been coming back. Bitcoin Hashrate Has Retraced Much Of The Earlier Decline The “Hashrate” refers to an indicator that keeps track of the total amount of computing power that miners have connected to the […]
 
-🔗 [Bitcoin Insider](https://www.bitcoininsider.org/article/301080/bitcoin-miners-are-coming-back-hashrate-jumps-125-march-lows) • 13h ago
-
----
-
-**[How many of you are born-again b*ttcoiners? Meaning you used to hate Bitcoin with an irrational passion until you realized the grass is greener on the orange side and hopped the fence. There has to be a few on here. Care to tell your story?](https://www.reddit.com/r/Bitcoin/comments/1s86zu7/how_many_of_you_are_bornagain_bttcoiners_meaning/)**
-
-I didn't start until early 2022 and only curled my lip at buying a digital currency a little bit before I caved and aped in. But I couldn't be happier now. Maybe if I made a little more money to help my stacking but aside from that pretty good. I hope everyone's looking forward to the summer.
-
-19h ago
+🔗 [Bitcoin Insider](https://www.bitcoininsider.org/article/301080/bitcoin-miners-are-coming-back-hashrate-jumps-125-march-lows) • 14h ago
 
 ---
 
@@ -137,23 +137,23 @@ I didn't start until early 2022 and only curled my lip at buying a digital curre
 
 https://imgur.com/a/ujqHhSm Three pics in there He didn’t provide any logical answers and i fail to see how is this an attempt unless im using a pc Using an iphone btw
 
-36m ago
+1h ago
 
 ---
 
-**[Daily Discussion, March 31, 2026](https://www.reddit.com/r/Bitcoin/comments/1s8fb9g/daily_discussion_march_31_2026/)**
+**[We compiled 60+ free Bitcoin home mining guides into one page. Beginner to advanced. Feedback welcome.](https://www.reddit.com/r/Bitcoin/comments/1s8v4mf/we_compiled_60_free_bitcoin_home_mining_guides/)**
 
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+Bitcoin's security depends on decentralized hashrate. The more individuals running their own miners and nodes, the harder the network is to censor, attack, or control. The problem is most people still think mining requires a warehouse and a six-figure electricity bill. It doesn't. Since 2024 our small team in Houston has been writing guides for the people who want to do this. How to start. How the hardware works. How pools work. How to overclock. How to run your own node. How to solo mine. What to watch out for. We just organized all of it into one page called the Home Mining Hub. 60+ guides, a 150-term glossary, hardware comparisons, free mining calculators, and documented block wins verified on mempool.space. Five open-source miners have found full blocks since July 2024. Combined rewards exceed $1M in BTC. These are real people running small hardware at home. If you've thought about mining but didn't know where to start, this is the starting line, and if you're already mining, let us know what topics we should cover next. solosatoshi.com/home-mining-hub
 
-12h ago
+1h ago
 
 ---
 
-**[Noob with questions](https://www.reddit.com/r/Bitcoin/comments/1s8py43/noob_with_questions/)**
+**[Exodus wallet](https://www.reddit.com/r/Bitcoin/comments/1s8x4ka/exodus_wallet/)**
 
-I’m new to bitcoin , and im trying to find not sure the terminology. ( Exchange or Wallet ) im just wanting to buy bitcoin and be able to send it to someone . I’ve downloaded all the “mainstream” apps. Coinbase , Crypto etc , but its way to much verification, and im not a fan of putting my IDs on these apps . So long story shorts , what’s an app/wallet/exchange without all the verification. Where I can simply buy bitcoin and be able to send it to others bitcoin addresses. Yes, I know I have little knowledge, yes i could if simply looked it up, but I prefer more personalized opinions . Thanks again.
+What is your opinion about Exodus wallet?
 
-4h ago
+47m ago
 
 ---
 
@@ -161,11 +161,33 @@ I’m new to bitcoin , and im trying to find not sure the terminology. ( Exchang
 
 ## Google News: "bitcoin"
 
-**[Google warns quantum computing may break bitcoin earlier than thought, prepares 2029 transition](https://www.theblock.co/post/395814/google-quantum-computing-earlier)**
+**[Bitcoin price news: BTC spikes about 1% higher on hope for end to Iran conflict](https://www.coindesk.com/markets/2026/03/31/bitcoin-stocks-rise-oil-slides-after-report-of-iran-s-willingness-to-end-conflict)**
 
-Google Research said the necessary resources for quantum computers to break cryptocurrencies have seen a 20-fold reduction.
+Iran's President Masoud Pezeshkian said the country is prepared to end the conflict if it receives security guarantees.
 
-The Block • 11h ago
+CoinDesk • 3h ago
+
+---
+
+**[Iran’s ‘Reverse Indicator’ Just Worked for Stocks — Does It Work for Bitcoin Too?](https://www.ccn.com/news/crypto/irans-reverse-indicator-stocks-does-it-work-for-bitcoin-too/)**
+
+CCN.com • 13h ago
+
+---
+
+**[Bitcoin Holds $66K as Trump Prioritizes Iran War Exit Over Reopening Hormuz](https://decrypt.co/362844/bitcoin-holds-66k-as-trump-prioritizes-iran-war-exit-over-reopening-hormuz)**
+
+Bitcoin held $66,000 as Trump reportedly pivoted to an Iran war exit, with analysts eyeing $90,000 if a potential de-escalation holds.
+
+Decrypt • 8h ago
+
+---
+
+**[Google Finds Quantum Computers Could Break Bitcoin Sooner Than Expected](https://www.forbes.com/sites/digital-assets/2026/03/31/google-finds-quantum-computers-could-break-bitcoin-sooner-than-expected/)**
+
+Google published a paper on March 31 that states that Bitcoin's cryptography could be impacted by quantum computing sooner than previously stated.
+
+Forbes • 7h ago
 
 ---
 
@@ -173,69 +195,43 @@ The Block • 11h ago
 
 The findings suggest attackers could one day steal bitcoin mid-transaction, challenging assumptions that the threat is decades away.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
-**[Alphabet Climbs 5%: Google’s Nine-Minute Bitcoin Warning Is Turning Heads on Wall Street](https://finance.yahoo.com/markets/stocks/articles/alphabet-climbs-5-google-nine-181751077.html)**
+**['No longer a drill': Google’s latest quantum breakthrough sparks fresh debate over Bitcoin’s long-term security](https://www.theblock.co/post/395944/no-longer-drill-googles-latest-quantum-breakthrough-debate-bitcoins-security)**
 
-Alphabet (NASDAQ:GOOGL) shares rose approximately 4.83% in Tuesday’s session, climbing from an opening price of $273.50 to trade at around $287. The move is a meaningful bounce for a stock that has struggled in recent weeks, with GOOGL shares still down 9% year to date. Today’s session puts the stock on pace for one of ... Alphabet Climbs 5%: Google’s Nine-Minute Bitcoin Warning Is Turning Heads on Wall Street
+Google researchers recently warned that quantum computing may break bitcoin earlier than originally thought.
 
-Yahoo Finance • 46m ago
+The Block • 2h ago
 
 ---
 
-**[Fresh off victory over cops in ‘Lemon Pound Cake’ trial, Afroman heads to address Bitcoin’s biggest gathering](https://fortune.com/2026/03/31/afroman-heads-to-address-bitcoins-biggest-gathering/)**
+**[Bitcoin-Backed Municipal Bond Clears Hurdle With Moody’s Rating](https://www.bloomberg.com/news/articles/2026-03-31/bitcoin-backed-municipal-bond-clears-hurdle-with-moody-s-rating)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Fresh off victory over cops in 'Lemon Pound Cake' trial, Afroman heads to address Bitcoin's biggest gathering](https://fortune.com/2026/03/31/afroman-heads-to-address-bitcoins-biggest-gathering/)**
 
 The “Because I Got High” singer to join a slate of speakers including Eric Trump and Michael Saylor.
 
-Fortune • 18m ago
+Fortune • 1h ago
 
 ---
 
-**[Canada’s Bitfarms To Sell $123 Million Of Bitcoin Amid Crypto Exit](https://finance.yahoo.com/markets/crypto/articles/canada-bitfarms-sell-123-million-183300644.html)**
+**[Bitcoin, XRP Prices Rise Today. Why Cryptos Are Havens Once Again.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-cryptos-ffbcc0ef?gaa_at=eafs&gaa_n=AWEtsqckuoVafKSFQLvRPfKexQYwsyp8p7vqt-tc_ytFPuLWx4DcVekuqJje&gaa_ts=69cc2c62&gaa_sig=1yBz9osiwMuJZXiSsTnmz3TbLbyfwqfcv1Gz5q9JCqiltzXIjzPogI2hyBE0RukAzAAx6Q1pv0jJ3jApdGnVFQ%3D%3D)**
 
-Canadian crypto miner Bitfarms (NASDAQ: $BITF) has announced plans to completely exit Bitcoin (CRYPTO: $BTC) as it ...
-
-Yahoo Finance • 30m ago
+Barron's • 1d ago
 
 ---
 
-**[Oconee Blotter: Bitcoin price dispute leads to arrest of Oklahoman](https://www.onlineathens.com/story/news/crime/2026/03/31/oconee-blotter-bitcoin-price-dispute-ends-with-oklahoman-in-jail/89388588007/)**
+**[Bitcoin price analysis: BTC has never had a seven-month losing steak, but that could change](https://www.coindesk.com/markets/2026/03/31/downside-risk-remains-as-bitcoin-nears-record-tying-six-month-losing-streak)**
 
-A deputy was dispatched to a crash where one driver didn't want an officer involved.
+A close below $67,300 for bitcoin would confirm six straight monthly losses amid ongoing macro pressures.
 
-Online Athens • 11h ago
-
----
-
-**[Bitcoin on the brink of its longest losing streak on record](https://finance.yahoo.com/news/bitcoin-on-the-brink-of-its-longest-losing-streak-on-record-151110890.html)**
-
-Bitcoin's March resilience may have been a relief rally within a broader crypto winter, according to Compass Point analyst Ed Engel.
-
-Yahoo Finance • 3h ago
-
----
-
-**[Bitcoin price news: BTC spikes about 1% higher on hope for end to Iran conflict](https://www.coindesk.com/markets/2026/03/31/bitcoin-stocks-rise-oil-slides-after-report-of-iran-s-willingness-to-end-conflict)**
-
-Iran's President Masoud Pezeshkian said the country is prepared to end the conflict if it receives security guarantees.
-
-CoinDesk • 2h ago
-
----
-
-**[What price will Bitcoin hit on March 31? Trading Odds & Predictions](https://polymarket.com/event/what-price-will-bitcoin-hit-on-march-31)**
-
-$694,587 has traded on "What price will Bitcoin hit on March 31?" as of March 31, 2026. View real-time odds or trade on The World's Largest Prediction Market...
-
-Polymarket • 14h ago
-
----
-
-**[Noisy Bitcoin mine shuts down in Washington County, TN](https://www.wjhl.com/news/local/noisy-bitcoin-mine-shuts-down-in-washington-county-tn/)**
-
-WJHL • 21h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -245,7 +241,7 @@ WJHL • 21h ago
 
 **[KnexCoin (NEX) soft forked Bitcoin and now Quantum Ready](https://news.ycombinator.com/item?id=47589186)**
 
-⬆️ 2 • 💬 1 • 3h ago • [untraceablex.com](https://www.untraceablex.com)
+⬆️ 2 • 💬 1 • 4h ago • [untraceablex.com](https://www.untraceablex.com)
 
 ---
 
@@ -253,7 +249,7 @@ WJHL • 21h ago
 
 The first signing system where the private key is a physical key — and can still transact. Titanium. Not stored digitally. Not protected by firmware.
 
-⬆️ 2 • 💬 1 • 19h ago • [Frozen Security](https://frozensecurity.com/)
+⬆️ 2 • 💬 1 • 20h ago • [Frozen Security](https://frozensecurity.com/)
 
 ---
 
@@ -281,7 +277,7 @@ Total of 6,000 bitcoin, now worth €360m, was inaccessible to Cab because codes
 
 runs multiple inputs through a script/function in parallel using bash coprocs - jkool702/forkrun
 
-⬆️ 44 • 💬 9 • 4d ago • [GitHub](https://github.com/jkool702/forkrun)
+⬆️ 58 • 💬 9 • 4d ago • [GitHub](https://github.com/jkool702/forkrun)
 
 ---
 
@@ -297,7 +293,7 @@ Agent-native inference engine with O(1) fork latency for tree-structured reasoni
 
 The water utility highlighted unsubstantiated health concerns.
 
-⬆️ 3 • 💬 0 • 6h ago • [Ars Technica](https://arstechnica.com/health/2026/03/water-utility-announces-its-ditching-fluoride-then-reveals-it-did-so-years-ago/)
+⬆️ 4 • 💬 0 • 7h ago • [Ars Technica](https://arstechnica.com/health/2026/03/water-utility-announces-its-ditching-fluoride-then-reveals-it-did-so-years-ago/)
 
 ---
 
@@ -317,7 +313,7 @@ The global economy didn't slowly weaken. It snapped. In just 72 hours, multiple 
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 225 • ⏱️ 48:32 • 18h ago
+👁️ 27K • 👍 2K • 💬 225 • ⏱️ 48:32 • 20h ago
 
 ---
 
@@ -327,7 +323,7 @@ Bitcoin #Crypto #Finance Bitcoin just closed its worst first quarter since 2018,
 
 📺 The Wolf Of All Streets
 
-👁️ 9K • 👍 521 • 💬 116 • ⏱️ 58:16 • 4h ago
+👁️ 9K • 👍 521 • 💬 116 • ⏱️ 58:16 • 5h ago
 
 ---
 
@@ -337,7 +333,7 @@ Contact Congress: https://www.congress.gov/members/find-your-member BTC Conferen
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 208 • ⏱️ 9:58 • 19h ago
+👁️ 37K • 👍 2K • 💬 208 • ⏱️ 9:58 • 20h ago
 
 ---
 
@@ -393,7 +389,7 @@ Bitcoin #Crypto #Finance Bitcoin may be entering its biggest macro shift yet as 
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 527 • 💬 37 • ⏱️ 2:16 • 18h ago
+👁️ 7K • 👍 527 • 💬 37 • ⏱️ 2:16 • 19h ago
 
 ---
 

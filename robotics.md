@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-31T19:03:56.995743+00:00'
+updated: '2026-03-31T20:05:19.429028+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 31, 2026 at 19:03 UTC  
+**Last Updated:** March 31, 2026 at 20:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,14 +34,6 @@ Robotics research and industry news
 
 **[BabaCAD Robotics Web v2.1](https://www.reddit.com/r/robotics/comments/1s8v9by/babacad_robotics_web_v21/)**
 
-51m ago
-
----
-
-**[[Project] I benchmarked 4 robot AI models on a real industrial task. The best one does 64 picks/hour. A human does 1,300.](https://www.reddit.com/r/robotics/comments/1s8tt6j/project_i_benchmarked_4_robot_ai_models_on_a_real/)**
-
-Hey - spent the last year building PhAIL (physical AI leaderboard). I wanted to answer a simple question: how good are robot AI models on actual work, not demos PhAIL runs models on a real robot doing bin-to-bin picking and measures: throughput (units/hour) reliability (time between failures) everything is public: full videos of every run telemetry + logs fine-tuning dataset + training scripts link: https://phail.ai Genuinely curious what you think. What’s useful here, what’s missing. Please share your feedback. https://reddit.com/link/1s8tt6j/video/ky3qjjw50fsg1/player
-
 1h ago
 
 ---
@@ -50,7 +42,23 @@ Hey - spent the last year building PhAIL (physical AI leaderboard). I wanted to 
 
 https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printed parts, motorized projector, home decoration, and DIY electronics -- if you know of anyone else that might be interested in this stuff, sharing to others would really help me out! Hope to see you around here or YouTube :)
 
-37m ago
+1h ago
+
+---
+
+**[[Project] I benchmarked 4 robot AI models on a real industrial task. The best one does 64 picks/hour. A human does 1,300.](https://www.reddit.com/r/robotics/comments/1s8tt6j/project_i_benchmarked_4_robot_ai_models_on_a_real/)**
+
+https://reddit.com/link/1s8tt6j/video/miswsbmylfsg1/player Hey - spent the last year building PhAIL (physical AI leaderboard). I wanted to answer a simple question: how good are robot AI models on actual work, not demos PhAIL runs models on a real robot doing bin-to-bin picking and measures: throughput (units/hour) reliability (time between failures) everything is public: full videos of every run telemetry + logs fine-tuning dataset + training scripts link: https://phail.ai Genuinely curious what you think. What’s useful here, what’s missing. Please share your feedback.
+
+2h ago
+
+---
+
+**[OpenClaw + ROS + AgenticROS = Physical AI Robotics Demo](https://www.reddit.com/r/robotics/comments/1s8wt8m/openclaw_ros_agenticros_physical_ai_robotics_demo/)**
+
+To learn more about running OpenClaw and ROS robotics, checkout AgenticROS https://agenticros.com
+
+58m ago
 
 ---
 
@@ -62,7 +70,7 @@ https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printe
 
 **[Robots are DJing now AGIBOT X2 live at GTC 2026](https://www.reddit.com/r/robotics/comments/1s8tg5j/robots_are_djing_now_agibot_x2_live_at_gtc_2026/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -70,7 +78,7 @@ https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printe
 
 I’ve been learning ROS2 for a while, mostly by following tutorials and running existing GitHub repos (like TB3). Recently, I decided to stop just copying and actually try building my own robot model in simulation. So I wrote my first URDF/Xacro and visualized it in RViz. What I expected: A simple rectangular base link. What I got: - One model looks like a clean rectangle (as expected) - The other one looks… off (weird structure/positioning) (Attached both images for comparison) Now I’m trying to understand what went wrong. I’m currently trying to move from “running tutorials” → “actually understanding and building systems”, so I’d really appreciate any guidance. Thanks! Here’s the code: https://pastebin.com/mXHcbLiC Would really appreciate if you can point out what’s wrong.
 
-15h ago
+17h ago
 
 ---
 
@@ -86,7 +94,7 @@ From Humanoids daily on 𝕏: https://x.com/humanoidsdaily/status/20381919486372
 
 Hello I accidently wrote a program in acecode and clicked upload firmare. Now my smart car is not being displayed on wifi section. It was working previously.I cannot find the firmare file in acebot documentation too.
 
-12h ago
+13h ago
 
 ---
 
@@ -95,14 +103,6 @@ Hello I accidently wrote a program in acecode and clicked upload firmare. Now my
 Posting update here, I doubled down on my mission to create the smallest VIO module, here is the latest revision I am working on. - Global shutter camera + IMU - 0.8W - Outputs pose @ 15hz via USB or UART Here is a short video showing how when you plug it into any phone or pc, it shows up as ethernet device with a web-ui built into it. No app to setup or even internet required. This lets me try it out and collect diverse datasets easily on-the-go.
 
 1d ago
-
----
-
-**[WBC for a quadruped robot](https://www.reddit.com/r/robotics/comments/1s7xvw6/wbc_for_a_quadruped_robot/)**
-
-Hi everyone! I'd like to share with you my latest successes with my quadruped robot project. Recently I have created a Whole-Body Controller based on the work "Highly Dynamic Quadruped Locomotion via Whole-Body Impulse Control and Model Predictive Control" by D. Kim et al. Also I refactored the code, wrote comments, did some stuff for realtime execution, and opened access to the repository. The next aim is to make a vision based system for choosing the next footsteps. Here is the link to github: https://github.com/voltdog/mors\_quadruped Here you can find the locomotion controller + Mujoco simulation environment. I hope you find this repo useful for learning locomotion algorithms and using it for your own experiments. If you have any questions or encounter issues with installing or using the controller, please let me know.
-
-🔗 [youtu.be](https://youtu.be/28EshOERJ94?si=ygsz2eimHB6jkFLm) • 1d ago
 
 ---
 
@@ -118,11 +118,31 @@ Euronews.com • 2d ago
 
 ---
 
-**[Company co-founded by Tipp man to test robots in space](https://www.rte.ie/news/munster/2026/0330/1565895-space-robots/)**
+**[Voyager, Icarus Robotics to test free-flying robot on space station](https://www.reuters.com/science/voyager-icarus-robotics-test-free-flying-robot-space-station-2026-03-30/)**
 
-A robotics company co-founded by Tipperary man Jamie Palmer, which is building a robotic labour force for space, has signed a deal to test its technology on board the International Space Station.
+Reuters • 1d ago
 
-RTE.ie • 1d ago
+---
+
+**[Voyager Awarded Contract With Icarus Robotics](https://www.businesswire.com/news/home/20260330286318/en/Voyager-Awarded-Contract-With-Icarus-Robotics)**
+
+Voyager Technologies (NYSE: VOYG) announced a new mission management contract with Icarus Robotics to test their free-flying robotic platform, Joyride, aboar...
+
+Business Wire • 1d ago
+
+---
+
+**[With Voyager’s help, Icarus Robotics to test free-flyer on ISS](https://spacenews.com/with-voyagers-help-icarus-robotics-to-test-free-flyer-on-iss/)**
+
+SpaceNews • 1d ago
+
+---
+
+**[Can YouTube videos help robots learn household chores?](https://www.detroitnews.com/story/life/2026/03/31/can-youtube-videos-help-robots-learn-household-chores/89351430007/)**
+
+Training robots to perform physical tasks is much more complicated than training artificial intelligence to write a paper.
+
+The Detroit News • 44m ago
 
 ---
 
@@ -130,7 +150,7 @@ RTE.ie • 1d ago
 
 AGIBOT said it is transitioning from initial humanoid rollouts to multiple industries and sites worldwide.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
@@ -138,15 +158,7 @@ The Robot Report • 1h ago
 
 7th-grade students are part of the Hellgate Elementary School robotics team recently qualified for Canada Cup, an international competition pitting some of the top robotics teams against each other.
 
-KPAX News • 23h ago
-
----
-
-**[What will the robot jobs apocalypse look like? Ask Amazon warehouse workers](https://www.fastcompany.com/91514112/what-will-the-robot-jobs-apocalypse-look-like-ask-amazon-warehouse-workers)**
-
-Think a robot can’t do your job? ‘It will happen, but I don’t know when,’ says one expert. How robots are already upending blue-collar work, career advancement, worker rights, and job satisfaction.
-
-Fast Company • 9h ago
+KPAX News • 1d ago
 
 ---
 
@@ -158,17 +170,11 @@ Fortune • 1d ago
 
 ---
 
-**[The world’s largest humanoid robot maker is going public](https://restofworld.org/2026/unitree-china-humanoid-robot-shanghai-ipo/)**
+**[In Ukraine, ground robots are increasingly going on the offensive](https://www.lowyinstitute.org/the-interpreter/ukraine-ground-robots-are-increasingly-going-offensive)**
 
-Rest of World • 8h ago
+The drone war has moved to the ground, and the results are already reshaping frontline tactics.
 
----
-
-**[Humanoid tests humanoid robot for automotive logistics](https://www.theregister.com/2026/03/30/humanoid_automotive_robots/)**
-
-: Torso on a trolley tries its hands in warehouse role
-
-theregister.com • 1d ago
+Lowy Institute • 1d ago
 
 ---
 
@@ -177,14 +183,6 @@ theregister.com • 1d ago
 ST. JOHN'S, Newfoundland and Labrador, March 30, 2026 (GLOBE NEWSWIRE) -- Kraken Robotics Inc. (“Kraken” or the “Company”) (TSX-V: PNG, OTCQB: KRKNF), is pleased to announce the appointment of Don Robertson to its Board of Directors and the promotion of John Salama to the role of Chief Information Officer, effective immediately. Don Robertson Appointed to Board of Directors Mr. Robertson brings more than 30 years of experience in corporate finance, mergers and acquisitions (M&A), and public comp
 
 Yahoo Finance • 1d ago
-
----
-
-**[In Ukraine, ground robots are increasingly going on the offensive](https://www.lowyinstitute.org/the-interpreter/ukraine-ground-robots-are-increasingly-going-offensive)**
-
-The drone war has moved to the ground, and the results are already reshaping frontline tactics.
-
-Lowy Institute • 1d ago
 
 ---
 
