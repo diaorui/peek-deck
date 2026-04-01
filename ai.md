@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-01T06:59:42.662120+00:00'
+updated: '2026-04-01T08:20:09.452394+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- repositories
 - social
+- videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 01, 2026 at 06:59 UTC  
+**Last Updated:** April 01, 2026 at 08:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Mitchell H. Katz, MD, president and CEO of NYC Health + Hospitals, recently spoke during a panel discussion held by Crain’s New York Business.
 
-🔗 [Radiology Business](https://radiologybusiness.com/topics/artificial-intelligence/ceo-americas-largest-public-hospital-system-says-hes-ready-replace-radiologists-ai) • 1h ago
+🔗 [Radiology Business](https://radiologybusiness.com/topics/artificial-intelligence/ceo-americas-largest-public-hospital-system-says-hes-ready-replace-radiologists-ai) • 3h ago
 
 ---
 
@@ -49,7 +49,7 @@ Mitchell H. Katz, MD, president and CEO of NYC Health + Hospitals, recently spok
 
 OkCupid and Match settle with Trump FTC, don't have to pay any financial penalty.
 
-🔗 [Ars Technica](https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/) • 5h ago
+🔗 [Ars Technica](https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/) • 6h ago
 
 ---
 
@@ -57,7 +57,15 @@ OkCupid and Match settle with Trump FTC, don't have to pay any financial penalty
 
 https://futurism.com/artificial-intelligence/paper-ai-chatbots-chatgpt-claude-sycophantic Your AI chatbot isn’t neutral. Trust its advice at your own risk. A striking new study, conducted by researchers at Stanford University and published last week in the journal Science, confirmed that human-like chatbots are prone to obsequiously affirm and flatter users leaning on the tech for advice and insight — and that this behavior, known as AI sycophancy, is a “prevalent and harmful” function endemic to the tech that can validate users’ erroneous or destructive ideas and promote cognitive dependency. “AI sycophancy is not merely a stylistic issue or a niche risk, but a prevalent behavior with broad downstream consequences,” the authors write, adding that “although affirmation may feel supportive, sycophancy can undermine users’ capacity for self-correction and responsible decision-making.” The study examined 11 different large language models, including OpenAI’s ChatGPT-powering GPT-4o and GPT-5, Anthropic’s Claude, Google’s Gemini, multiple Meta Llama models, and Deepseek. Researchers tested the bots by peppering them with queries gathered from sources like open-ended advice datasets and posts from online forums like Reddit’s r/AmITheAsshole, where Redditors present an interpersonal conundrum to the masses, ask if they’re the person in a social situation acting like a jerk, and let the comments roll in. They examined experimental live chats with human users, who engaged the models in conversations about real social situations they were dealing with. Ethical quandaries the researchers tested included authority figures grappling with romantic feelings for young subordinates, a boyfriend wondering if it was wrong to have hidden his unemployment to his partner of two years, family squabbles and neighborhood trash disputes, and more. On average, the researchers found, AI chatbots were 49 percent more likely to respond affirmatively to users than other actual humans were. In response to queries posted in r/AmITheAsshole specifically, chatbots were 51 percent more likely to support the user in queries in which other humans overwhelming felt that the user was very much in the wrong. Sycophancy was present across all the chatbots they tested, and the bots frequently told users that their actions or beliefs were justified in cases where the user was acting deceptively, doing something illegal, or engaging in otherwise harmful or abusive behavior. What’s more, the study determined that just one interaction with a flattering chatbot was likely to “distort” a human user’s “judgement” and “erode prosocial motivations,” an outcome that persisted regardless of a person’s demographics and previous grasp on the tech as well as how, stylistically, an individual chatbot delivered its twisted verdict. In short, after engaging with chatbots on a social or moral quandary, people were less likely to admit wrongdoing — and more likely to dig in on the chatbot’s version of events, in which they, the main character, were the one in the right.
 
-7h ago
+8h ago
+
+---
+
+**[Biggest Opportunity for Builders to monetise their agents](https://www.reddit.com/r/artificial/comments/1s9e04v/biggest_opportunity_for_builders_to_monetise/)**
+
+We’re working on something where AI agent builders can publish their agents and earn from day one. This model is profitable from day 1 so ….just looking for feedback from people building in this space.
+
+28m ago
 
 ---
 
@@ -65,7 +73,7 @@ https://futurism.com/artificial-intelligence/paper-ai-chatbots-chatgpt-claude-sy
 
 A lot of the AI discussion is still framed around capability: Can it write? Can it code? Can it replace people? But I keep wondering whether the deeper problem is not intelligence, but responsibility. We are building systems that can generate text, images, music, and decisions at scale. But who is actually responsible for what comes out of that chain? Not legally only, but structurally, culturally, and practically. Who decided? Who approved? Who carries the outcome once generation is distributed across prompts, models, edits, tools, and workflows? It seems to me that a lot of current debate is still asking: “What can AI do?” But maybe the more important question is: “What kind of responsibility structure has to exist around systems that can do this much?” Curious how people here think about that. Do you think the future of AI governance will still be built mostly around ownership and liability, or will it eventually have to move toward something more like responsibility architecture?
 
-13h ago
+14h ago
 
 ---
 
@@ -73,7 +81,7 @@ A lot of the AI discussion is still framed around capability: Can it write? Can 
 
 I have been building a platform that uses agent-based simulation for market validation. The premise is simple: before you build a product, simulate a population of AI agents and run your go-to-market against them. Each agent decides whether to adopt, spread the word, or ignore you entirely. The naive version of this is just prompting an LLM and asking "would you buy this product." That is useless. A real person testing an app brings frustration from their commute, impatience because they have 3 minutes before a meeting, confusion because they misread a button label. An LLM just answers coherently. That coherence is exactly what makes it a bad proxy. So the system I built has three layers instead of one. First, a world layer. Products, marketing channels, competition, and a social network with realistic topology. Information clusters, gets stuck, moves through bridges between communities. Not everyone knows everyone. If you want to model word of mouth you need a graph that actually behaves like one. Second, an individual layer. Each agent has a backstory, personality traits, memory of past product experiences, and trust scores for people in their network. Agent 47 is a skeptic who needs three positive reviews before trying anything new. Agent 12 is impulsive and buys whatever their favorite creator mentions. These are persistent personalities, not random seeds. Third, a neuron layer where LLMs do the reasoning. When an agent encounters a product they think about it in context. Is this relevant to me? Can I afford it? What have people I trust said about it? They change their minds. They get swayed by social proof. They experience something like buyer's remorse. One simulation found that a 7-day free trial converted significantly worse than 14-day, but only in the skeptical user cluster. The reason was that skeptics needed more time to form a habit around the product, and 7 days was not enough. That is not a result you get from prompting an LLM once. The signal is directional, not precise. Simulated humans are not real humans. But agent-based modeling has been used in epidemiology, urban planning, and economics for decades. Adding LLM-powered cognition to agents that already have memory and social structure is where it gets interesting. Curious whether anyone else is working in this space or has thoughts on what it takes to make synthetic populations actually useful for something beyond benchmarks. Site if you want to see it in action: siminsilico.com
 
-4h ago
+5h ago
 
 ---
 
@@ -81,7 +89,7 @@ I have been building a platform that uses agent-based simulation for market vali
 
 I'd like to start editing using some AI. I understand each one has its strengths. If you could please share which ones you have tried and why you like or dislike them, I'd really appreciate it. (also, if you'd like to include a video you have that uses a specific AI, that would be very useful for reference) :)
 
-2h ago
+3h ago
 
 ---
 
@@ -97,21 +105,15 @@ Was at Nvidia's GTC conference recently and honestly, it was one of the most eye
 
 150 clones yesterday. 43 stars in 3 days. Every agent framework you've used (LangChain, LangGraph, Claude Code) assumes agents are tools for humans. They output JSON. They parse REST. But agents don't think in JSON. They think in 768-dimensional embeddings. Every translation costs tokens. What if you built an OS where agents never translate? That's HollowOS. Agents get persistent identity. They subscribe to events instead of polling. Multi-agent writes don't corrupt data (transactions handle that). Checkpoints let them recover perfectly from crashes. Semantic search cuts code lookup tokens by 95%. They make decisions 2x more consistently with structured handoffs. They propose and vote on their own capability changes. If you’re testing it, let me know what works and doesn’t work so I can fix it. I’m so thankful to everyone who has already contributed towards this project! GitHub: https://github.com/ninjahawk/hollow-agentOS
 
-1h ago
+2h ago
 
 ---
 
 **[[TOMT] Ghibli Montage with interesting song from the early Ghibli explosion](https://www.reddit.com/r/artificial/comments/1s9bcwc/tomt_ghibli_montage_with_interesting_song_from/)**
 
-the music was also so and it was just like the imagery...an onslaught of memes in Ghibli style and the song sounded like "I SAID FREESH! I said freesh I said freesh I saaaaid freesh I said freesh" gibberish lyrical line but I am sure someone here knows what I'm talking about. PLEASE!
+the music was also ai and emphasizing the imagery...it was a montage of current memes in Ghibli style and the song sounded like "I SAID FREESH! I said freesh I said freesh I saaaaid freesh I said freesh" gibberish lyrical line but I am sure someone here knows what I'm talking about. PLEASE!
 
-1h ago
-
----
-
-**[Newsom signs executive order requiring AI companies to have safety, privacy guardrails](https://www.reddit.com/r/artificial/comments/1s8ge2h/newsom_signs_executive_order_requiring_ai/)**
-
-🔗 [ktla.com](https://ktla.com/news/california/newsom-signs-executive-order-requiring-ai-companies-to-have-safety-privacy-guardrails/) • 23h ago
+3h ago
 
 ---
 
@@ -119,47 +121,57 @@ the music was also so and it was just like the imagery...an onslaught of memes i
 
 ## Google News: "ai"
 
-**[Big Tech promised AI would disrupt labor — just not like this](https://www.cnn.com/2026/03/31/business/ai-jobs-big-tech)**
-
-Oracle is reportedly laying off thousands of employees, adding to an already long list of tech giants cutting staff while spending hundreds of billions of dollars on AI data centers.
-
-CNN • 8h ago
-
----
-
 **[Oracle cutting thousands in latest layoff round as company continues to ramp AI spending](https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html)**
 
 Oracle has ratcheted up its capital expenditures as it builds data center infrastructure that can handle AI workloads.
 
-cnbc.com • 15h ago
+cnbc.com • 16h ago
 
 ---
 
-**[Tech giant Oracle makes 'significant' job cuts](https://www.bbc.com/news/articles/cm296jzzl9yo)**
+**[Big Tech promised AI would disrupt labor — just not like this](https://www.cnn.com/2026/03/31/business/ai-jobs-big-tech)**
 
-Oracle executives recently said the use of AI tools was allowing smaller engineering teams to do more work.
+Oracle is reportedly laying off thousands of employees, adding to an already long list of tech giants cutting staff while spending hundreds of billions of dollars on AI data centers.
 
-BBC • 9h ago
-
----
-
-**[Meet the Startup That Used AI and OpenClaw to Automate Its Own Developers](https://www.wsj.com/tech/ai/meet-the-startup-that-used-ai-and-openclaw-to-automate-its-own-developers-9e733351?gaa_at=eafs&gaa_n=AWEtsqenGStrQEG2X_Q0oqncLCJu80ggXH11IMrcW5k3G67dB52t85Jgotyu&gaa_ts=69ccc5c8&gaa_sig=uzjGYohlfkj5yMsRgeVjpG16_5ost-HKynitZreRK43_BSa_oSB174fDRIvBcJv9_aHEEwt9NVVjb6XDjvA0-A%3D%3D)**
-
-WSJ • 19h ago
+CNN • 10h ago
 
 ---
 
-**[Shares of China AI 'tiger' Zhipu surge 35% after revenue doubles in first earnings report](https://www.msn.com/en-us/money/markets/shares-of-china-ai-tiger-zhipu-surge-35-after-revenue-doubles-in-first-earnings-report/ar-AA1ZSX4L?ocid=finance-verthp-feeds)**
+**[Oracle Lays Off Employees As It Curbs Costs During AI Buildout](https://www.businessinsider.com/oracle-layoffs-employees-costs-ai-buildout-job-cuts-2026-3)**
 
-MSN • 7m ago
+Oracle is cutting staff as the company seeks to curb cost while it invest in AI infrastructure.
+
+Business Insider • 20h ago
 
 ---
 
-**[A startup founder explains why she built 9 AI employees: 'I am a breathless OpenClaw bro'](https://www.businessinsider.com/openclaw-ai-employee-startup-tech-automation-agents-personalized-work-home-2026-4)**
+**[Meet the Startup That Used AI and OpenClaw to Automate Its Own Developers](https://www.wsj.com/tech/ai/meet-the-startup-that-used-ai-and-openclaw-to-automate-its-own-developers-9e733351?gaa_at=eafs&gaa_n=AWEtsqdQGUpq1Bc2Xjg8BO9oyscuJf8lZ1P6XeATcZPQOyvRSF3gdqpqYcWf&gaa_ts=69ccd8a5&gaa_sig=VlvKGh1YaUA7JyRm8HIhlDMpvj7AVfhxdi2rUaXph1yCi8TZZ6EYeojdASiSVMgpZVm2_SCGWH9QCYKszuLAXg%3D%3D)**
 
-A startup founder said she built nine AI agents with OpenClaw to handle sales, scheduling, and family logistics —replacing hours of paid work.
+WSJ • 20h ago
 
-Business Insider • 1h ago
+---
+
+**[Canal+ Names Anne‑Laure Tingry Chief Data & AI Officer](https://www.hollywoodreporter.com/business/business-news/canal-plus-chief-data-ai-officer-anne-laure-tingry-1236553459/)**
+
+Reporting to CEO Maxime Saada, she will be responsible for data and AI strategy across all of the media company's markets and oversee "the implementation of projects in these areas."
+
+The Hollywood Reporter • 14m ago
+
+---
+
+**[China’s AI Is Spreading Fast. Here’s How to Stop the Security Risks](https://warontherocks.com/2026/04/chinas-ai-is-spreading-fast-heres-how-to-stop-the-security-risks/)**
+
+In late 2024, Chinese models accounted for one percent of global AI workloads. By the end of 2025, that figure had surged to 30 percent. Alibaba’s Qwen
+
+War on the Rocks • 18m ago
+
+---
+
+**[Visa Says AI Isn’t Enough to Stop New Wave of Scams](https://www.pymnts.com/fraud-prevention/2026/visa-says-ai-isnt-enough-to-stop-new-wave-of-scams/)**
+
+Watch more: Visa Protect With Aman Cheema In financial services, deception travels as quickly as money itself, forcing financial institutions to confront
+
+PYMNTS.com • 12m ago
 
 ---
 
@@ -167,7 +179,7 @@ Business Insider • 1h ago
 
 Content creators love the built-in camera; sceptics call them ‘pervert glasses’. Do we really need any more hi-tech wearables, even with a voice assistant that sounds like Judi Dench?
 
-The Guardian • 2h ago
+The Guardian • 4h ago
 
 ---
 
@@ -175,21 +187,13 @@ The Guardian • 2h ago
 
 Electronics are getting more expensive and worse. Blame the AI boom.
 
-The Atlantic • 14h ago
+The Atlantic • 15h ago
 
 ---
 
 **[Sheryl Sandberg: The AI gender gap is about recognition](https://www.axios.com/2026/04/01/leanin-sheryl-sandberg-ai-women-men-work)**
 
 Axios • 2h ago
-
----
-
-**[CEO of America’s largest public hospital system says he’s ready to replace radiologists with AI](https://radiologybusiness.com/topics/artificial-intelligence/ceo-americas-largest-public-hospital-system-says-hes-ready-replace-radiologists-ai)**
-
-Mitchell H. Katz, MD, president and CEO of NYC Health + Hospitals, recently spoke during a panel discussion held by Crain’s New York Business.
-
-Radiology Business • 22h ago
 
 ---
 
@@ -201,7 +205,7 @@ Radiology Business • 22h ago
 
 A Tennessee grandmother spent more than five months in jail after police used an AI facial recognition tool to link her to crimes committed in North Dakota – a state she says she’d never been to before. Police in Fargo, North Dakota, have acknowledged “a few errors” in the case and pledged changes in their operations but stopped short of issuing a direct apology.
 
-⬆️ 442 • 💬 203 • 2d ago • [CNN](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
+⬆️ 442 • 💬 204 • 2d ago • [CNN](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
 
 ---
 
@@ -209,7 +213,7 @@ A Tennessee grandmother spent more than five months in jail after police used an
 
 The catalysts for a crash are already laid out, and it can happen sooner than most expect. AI is here to stay. If used right, chances are it will make us all more productive. That, on the other hand, does not mean it will be a good investment. Big tech doesn’t need to win, just outspend Magnificent 7 companies are increasing capex to their biggest ever to differentiate their tech from each other and the big AI labs, but the key realization is that they don’t have to spend it to win. It’s a defensive move for them, if they commit $50B, OpenAI and Anthropic need to go raise $100B each to stay competitive, which makes them reliant on investors’ money. As the numbers get bigger, the amount of funds that can write checks of the size required to fill such amounts gets smaller. And many of them are now getting bombed in the Gulf. This is the reason there’s a push for IPOs, it’s because it’s the only option left to keep the funding coming. Taking this into account, Google is extremely well positioned to weather the storm. When they announce capex expenditure, they don’t spend it overnight. They can simply deploy month by month until their competitors struggle to raise and get forced to capitulate. At that point they can just ramp down the spending and declare victory in a cornered market. They don’t need capex, they just need to make it very clear for everyone that nobody can outspend them. It is hard to picture as numbers get so big, but Alphabet (Google’s parent) is ten times more valuable than the biggest military company 1. This also has a great implication for the Mag 7, especially Google: their capex will be a lot smaller in practice than projected, and as investors hate to see high capex in tech, the market will probably reward that if it materializes. As of March 2026, Alphabet’s market cap is ~$2T while Lockheed Martin’s is ~$120B. ↩
 
-⬆️ 369 • 💬 517 • 1d ago • [Volpe’s Blog](https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/)
+⬆️ 370 • 💬 517 • 1d ago • [Volpe’s Blog](https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/)
 
 ---
 
@@ -217,7 +221,7 @@ The catalysts for a crash are already laid out, and it can happen sooner than mo
 
 Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma development by creating an account on GitHub.
 
-⬆️ 345 • 💬 245 • 2d ago • [GitHub](https://github.com/austin-weeks/miasma)
+⬆️ 345 • 💬 246 • 2d ago • [GitHub](https://github.com/austin-weeks/miasma)
 
 ---
 
@@ -225,7 +229,7 @@ Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma
 
 Yesterday, I wrote my first technical draft on what I was working on with the goal to share it publicly on here (well using an account dedicated to t…
 
-⬆️ 315 • 💬 235 • 1d ago • [lesswrong.com](https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era)
+⬆️ 315 • 💬 235 • 2d ago • [lesswrong.com](https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era)
 
 ---
 
@@ -243,13 +247,7 @@ Artificial intelligence (AI) is the name popularly given to a broad spectrum of 
 
 The Italian government didn’t allow airplanes taking part in the Iran war to use the base, but Rome insists that doesn’t mean the bases are closed to other U.S. uses.
 
-⬆️ 189 • 💬 99 • 15h ago • [POLITICO](https://www.politico.eu/article/italy-blocks-us-use-of-sicily-air-base/)
-
----
-
-**[What if AI doesn't need more RAM but better math?](https://news.ycombinator.com/item?id=47561297)**
-
-⬆️ 188 • 💬 101 • 2d ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more)
+⬆️ 189 • 💬 100 • 16h ago • [POLITICO](https://www.politico.eu/article/italy-blocks-us-use-of-sicily-air-base/)
 
 ---
 
@@ -277,6 +275,14 @@ Spain's leftist government has closed Spanish airspace to US planes carrying out
 
 ---
 
+**[Show HN: I turned a sketch into a 3D-print pegboard for my kid with an AI agent](https://news.ycombinator.com/item?id=47580910)**
+
+AI-generated 3D-printable pegboard toy from a hand-drawn sketch - virpo/pegboard
+
+⬆️ 64 • 💬 17 • 1d ago • [GitHub](https://github.com/virpo/pegboard)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
@@ -287,7 +293,7 @@ Chris and Tristan Harris discuss how Alibaba's AI went rogue and started blackma
 
 📺 Chris Williamson
 
-👁️ 229K • 👍 8K • 💬 1K • ⏱️ 11:46 • 15h ago
+👁️ 270K • 👍 9K • 💬 1K • ⏱️ 11:46 • 17h ago
 
 ---
 
@@ -297,7 +303,7 @@ JPMorgan Chase CEO Jamie Dimon joins 'Fox & Friends' to discuss the latest on Op
 
 📺 Fox News
 
-👁️ 41K • 👍 856 • 💬 366 • ⏱️ 16:35 • 11h ago
+👁️ 46K • 👍 894 • 💬 369 • ⏱️ 16:35 • 13h ago
 
 ---
 
@@ -307,7 +313,7 @@ Detailed sources: https://docs.google.com/document/d/1P1X9xEmmgSYH0g1FSizgV2rDVo
 
 📺 Species | Documenting AGI
 
-👁️ 134K • 👍 8K • 💬 2K • ⏱️ 35:45 • 2d ago
+👁️ 139K • 👍 8K • 💬 2K • ⏱️ 35:45 • 2d ago
 
 ---
 
@@ -317,17 +323,7 @@ Try AI video generation with Kling 3.0 on Higgsfield: https://higgsfield.ai/s/ar
 
 📺 AI Revolution
 
-👁️ 26K • 👍 784 • 💬 49 • ⏱️ 12:59 • 1d ago
-
----
-
-**[I started replacing God with AI… and didn’t realize it](https://www.youtube.com/watch?v=7sfrCOTf0aI)**
-
-hey thanks for watching! subscribe if you want videos that will help you build your faith! :: ♡Follow me on other stuff :) ✞ Instagram ...
-
-📺 Taylor Alesia
-
-👁️ 47K • 👍 5K • 💬 1K • ⏱️ 7:43 • 1d ago
+👁️ 26K • 👍 793 • 💬 50 • ⏱️ 12:59 • 1d ago
 
 ---
 
@@ -337,7 +333,7 @@ Depot CI really is that good, you should try it: https://jetty.to/depot-ci So th
 
 📺 ForrestKnight
 
-👁️ 133K • 👍 7K • 💬 806 • ⏱️ 17:17 • 1d ago
+👁️ 136K • 👍 7K • 💬 817 • ⏱️ 17:17 • 1d ago
 
 ---
 
@@ -347,7 +343,17 @@ Check out best ai courses:- Google AI essentials - https://imp.i384100.net/dOQ1G
 
 📺 Ishan Sharma
 
-👁️ 24K • 👍 1K • 💬 45 • ⏱️ 10:06 • 16h ago
+👁️ 29K • 👍 2K • 💬 50 • ⏱️ 10:06 • 17h ago
+
+---
+
+**[They solved AI’s memory problem!](https://www.youtube.com/watch?v=2IfAVV7ewO0)**
+
+Attention Residuals by Kimi AI. Adaptive, continuous learning AI models. #ai #ainews #llm #airesearch #agi Thanks to our ...
+
+📺 AI Search
+
+👁️ 16K • 👍 2K • 💬 195 • ⏱️ 25:59 • 4h ago
 
 ---
 
@@ -357,27 +363,27 @@ Anthropic accidentally exposed Claude MYTHOS, its most powerful AI yet, Meta unv
 
 📺 AI Revolution
 
-👁️ 45K • 👍 1K • 💬 73 • ⏱️ 12:51 • 2d ago
+👁️ 46K • 👍 1K • 💬 74 • ⏱️ 12:51 • 2d ago
 
 ---
 
-**[Free &amp; Unlimited AI Video Generator (With Sound)](https://www.youtube.com/watch?v=sD1-YWjknTo)**
+**[Nano Banana 2 SOLVED Consistent AI Characters (here’s how)](https://www.youtube.com/watch?v=XSgbD66e6Ew)**
 
-Animate your AI characters and create stunning videos in seconds: https://higgsfield.ai/s/general-malvaai-IvDUgU Enter the AI ...
+Nano Banana 2 SOLVED Consistent AI Characters (here's how) Try Higgsfield AI ...
 
-📺 Malva AI
+📺 Skai Generated
 
-👁️ 4K • 👍 147 • 💬 20 • ⏱️ 11:00 • 20h ago
+👁️ 9K • 💬 2 • ⏱️ 9:04 • 14h ago
 
 ---
 
-**[These 3 AI Stocks Will Make Millionaires By 2029 (Here&#39;s Why)](https://www.youtube.com/watch?v=tI8b26_S7pw)**
+**[How The Internet’s Favourite AI Employee Went Rogue](https://www.youtube.com/watch?v=qKqrmS6dKDg)**
 
-AD Thanks to Versamet Royalties (VMET) for sponsoring this video, to learn more click here: https://bit.ly/TickerSymbolYOU For ...
+Visit https://brilliant.org/coldfusion for 20% off a premium subscription. The OpenClaw saga is one of the wildest events in recent ...
 
-📺 Ticker Symbol: YOU
+📺 ColdFusion
 
-👁️ 75K • 👍 3K • 💬 375 • ⏱️ 19:19 • 2d ago
+👁️ 83K • 👍 5K • 💬 538 • ⏱️ 29:40 • 4h ago
 
 ---
 
@@ -393,7 +399,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 337,432 • ❤️ 1,914 • 8d ago
+⬇️ 353,205 • ❤️ 1,932 • 8d ago
 
 ---
 
@@ -405,7 +411,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 50,497 • ❤️ 654 • 14h ago
+⬇️ 58,683 • ❤️ 663 • 15h ago
 
 ---
 
@@ -417,7 +423,7 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 `text-to-speech`
 
-⬇️ 3,721 • ❤️ 571 • 17h ago
+⬇️ 3,851 • ❤️ 576 • 18h ago
 
 ---
 
@@ -429,7 +435,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 17,643 • ❤️ 724 • 5d ago
+⬇️ 17,837 • ❤️ 730 • 5d ago
 
 ---
 
@@ -441,7 +447,7 @@ Context-1 is a 20B parameter agentic search model that decomposes complex querie
 
 `text-generation` `20.9B`
 
-⬇️ 2,387 • ❤️ 323 • 2d ago
+⬇️ 2,476 • ❤️ 326 • 2d ago
 
 ---
 
@@ -453,7 +459,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 155,487 • ❤️ 398 • 7d ago
+⬇️ 163,835 • ❤️ 406 • 7d ago
 
 ---
 
@@ -463,7 +469,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 TRIBE v2 is a multimodal foundation model that integrates LLaMA 3.2 (text), V-JEPA2 (video), and Wav2Vec-BERT (audio) to predict fMRI brain responses. It maps these representations onto the cortical surface for in-silico neuroscience research, enabling analysis of brain activity elicited by naturalistic stimuli.
 
-⬇️ 14,264 • ❤️ 233 • 4d ago
+⬇️ 17,058 • ❤️ 237 • 4d ago
 
 ---
 
@@ -475,7 +481,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 623,469 • ❤️ 872 • 28d ago
+⬇️ 636,153 • ❤️ 876 • 28d ago
 
 ---
 
@@ -487,7 +493,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 592,823 • ❤️ 1,121 • 21d ago
+⬇️ 599,974 • ❤️ 1,126 • 21d ago
 
 ---
 
@@ -499,7 +505,7 @@ OmniCoder-9B is a 9B parameter coding agent fine-tuned on 425K agentic trajector
 
 `text-generation`
 
-⬇️ 28,962 • ❤️ 548 • 19d ago
+⬇️ 29,135 • ❤️ 549 • 19d ago
 
 ---
 
@@ -533,19 +539,6 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
-**[AgentScope 1.0: A Developer-Centric Framework for Building Agentic
-  Applications](https://huggingface.co/papers/2508.16279)**
-
-*Dawei Gao, Zitao Li, Yuexiang Xie et al. (23 authors)*
-
-AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
-
-▲ 60 • 💬 4 • ⭐ 22,613 • 7mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
-
----
-
 **[Very Large-Scale Multi-Agent Simulation in AgentScope](https://huggingface.co/papers/2407.17789)**
 
 *Xuchen Pan, Dawei Gao, Yuexiang Xie et al. (8 authors)*
@@ -558,6 +551,33 @@ Enhancements to the AgentScope platform improve scalability, efficiency, and eas
 
 ---
 
+**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
+
+*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
+
+🏢 PaddlePaddle
+
+PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
+
+▲ 122 • 💬 8 • ⭐ 74,462 • 5mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
+
+---
+
+**[AgentScope 1.0: A Developer-Centric Framework for Building Agentic
+  Applications](https://huggingface.co/papers/2508.16279)**
+
+*Dawei Gao, Zitao Li, Yuexiang Xie et al. (23 authors)*
+
+AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
+
+▲ 60 • 💬 4 • ⭐ 22,653 • 7mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
+
+---
+
 **[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
 
 *Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
@@ -567,20 +587,6 @@ A large language model adapted for time-series forecasting achieves near-optimal
 ▲ 15 • 💬 1 • ⭐ 11,516 • 29mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
-
----
-
-**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
-
-*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
-
-🏢 PaddlePaddle
-
-PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
-
-▲ 122 • 💬 8 • ⭐ 74,098 • 5mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
 ---
 
@@ -597,6 +603,18 @@ The AI Scientist-v2 autonomously proposes hypotheses, performs experiments, anal
 
 ---
 
+**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
+
+*Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
+
+Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
+
+▲ 138 • 💬 7 • ⭐ 16,309 • 7mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
+
+---
+
 **[LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels](https://huggingface.co/papers/2603.19312)**
 
 *Lucas Maes, Quentin Le Lidec, Damien Scieur et al. (5 authors)*
@@ -608,18 +626,6 @@ LeWorldModel presents a stable end-to-end JEPA framework that trains efficiently
 ▲ 16 • 💬 2 • ⭐ 1,665 • 18d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.19312) • [💻 code](https://github.com/lucas-maes/le-wm) • [🔗 project](https://le-wm.github.io/)
-
----
-
-**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
-
-*Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
-
-Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
-
-▲ 138 • 💬 7 • ⭐ 16,175 • 7mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
 ---
 
@@ -645,7 +651,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 62.9k • 🔱 8.8k • 6d ago
+⭐ 63.0k • 🔱 8.8k • 6d ago
 
 ---
 
@@ -655,7 +661,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 14.2k • 🔱 776 • 1d ago
+⭐ 14.3k • 🔱 778 • 1d ago
 
 ---
 
@@ -665,7 +671,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 9.9k • 🔱 830 • 1h ago
+⭐ 9.9k • 🔱 836 • 2h ago
 
 ---
 
@@ -685,7 +691,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 6.7k • 🔱 810 • 2d ago
+⭐ 6.7k • 🔱 815 • 2d ago
 
 ---
 
@@ -695,7 +701,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 5.6k • 🔱 274 • 1h ago
+⭐ 5.7k • 🔱 285 • 19m ago
 
 ---
 
@@ -705,7 +711,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `claude-ai` `claude-skills` `llm` `prompt-engineering`
 
-⭐ 4.2k • 🔱 406 • 19h ago
+⭐ 4.2k • 🔱 409 • 21h ago
 
 ---
 
@@ -715,7 +721,7 @@ end to end app store screenshot creation using AI
 
 `agentic-ai` `apple` `appstore` `automate` `claude`
 
-⭐ 3.4k • 🔱 224 • 14h ago
+⭐ 3.4k • 🔱 224 • 15h ago
 
 ---
 
@@ -725,7 +731,7 @@ end to end app store screenshot creation using AI
 
 `Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
 
-⭐ 3.3k • 🔱 550 • 2d ago
+⭐ 3.4k • 🔱 556 • 2h ago
 
 ---
 

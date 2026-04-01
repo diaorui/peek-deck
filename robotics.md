@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-01T06:59:42.679969+00:00'
+updated: '2026-04-01T08:20:09.470013+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 01, 2026 at 06:59 UTC  
+**Last Updated:** April 01, 2026 at 08:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 To learn more about running OpenClaw and ROS robotics, checkout AgenticROS https://agenticros.com
 
-11h ago
+13h ago
 
 ---
 
@@ -44,7 +44,7 @@ To learn more about running OpenClaw and ROS robotics, checkout AgenticROS https
 
 https://reddit.com/link/1s8tt6j/video/miswsbmylfsg1/player Hey - spent the last year building PhAIL (physical AI leaderboard). I wanted to answer a simple question: how good are robot AI models on actual work, not demos PhAIL runs models on a real robot doing bin-to-bin picking and measures: throughput (units/hour) reliability (time between failures) everything is public: full videos of every run telemetry + logs fine-tuning dataset + training scripts link: https://phail.ai Genuinely curious what you think. What’s useful here, what’s missing. Please share your feedback.
 
-13h ago
+14h ago
 
 ---
 
@@ -52,13 +52,7 @@ https://reddit.com/link/1s8tt6j/video/miswsbmylfsg1/player Hey - spent the last 
 
 https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printed parts, motorized projector, home decoration, and DIY electronics -- if you know of anyone else that might be interested in this stuff, sharing to others would really help me out! Hope to see you around here or YouTube :)
 
-12h ago
-
----
-
-**[BabaCAD Robotics Web v2.1](https://www.reddit.com/r/robotics/comments/1s8v9by/babacad_robotics_web_v21/)**
-
-12h ago
+13h ago
 
 ---
 
@@ -66,7 +60,13 @@ https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printe
 
 All M5Stack components. Mecanum four motor buggy, StickCPlus onboard controller TOF sensor scanning on a servo. Autonomous. Source code available if you are interested.
 
-9h ago
+11h ago
+
+---
+
+**[BabaCAD Robotics Web v2.1](https://www.reddit.com/r/robotics/comments/1s8v9by/babacad_robotics_web_v21/)**
+
+14h ago
 
 ---
 
@@ -74,19 +74,13 @@ All M5Stack components. Mecanum four motor buggy, StickCPlus onboard controller 
 
 I am having a lot of trouble choosing a masters/phd program. I am looking to go into robotics and have 3 options to choose from. For reference I am from North America and went to a top undergrad school here. Option A is overseas in asia but it is REALLYYY well funded but I don't think my research direction is exactly aligned with my supervisor's background so I am worried about this. I have the flexibility to study whatever I want but I also want to make sure I get good guidance. The city here is also really good and I'd enjoy living here based on past visits. Option B: The other is a MS at a top university in the US. It isn't funded but the PI's research direction and mine align perfectly. There's an option to transfer to phd but can't say anything for sure now. Also the city is peak imo. Option C: The last option is a lower prestige american uni but the PI is a perect fit as well in terms of research direction and really nice and supportive. The funding is also only gaurenteed for the first year and is uncertain for subsequent years. It is likely gonna be fine but technically it is uncertain (depends if the grants come through). Though the location of the school isn't ideal and I am worried about living there in the American south. I am stuck between doing reserch I like and living a life I want during my youth. I am so torn and don't know how to decide :( My end goal is to get a phd because i love research but I wouldn't mind getting a masters, working for a bit in some industry research and coming back as well. I am open. Ideally I wanna work in a R&D research position in robotics companies. Into humanoids these days and specifically humanoid safety
 
-3h ago
+4h ago
 
 ---
 
 **[Two FANUC robots now run a bakery bread line in the Netherlands](https://www.reddit.com/r/robotics/comments/1s7vvqo/two_fanuc_robots_now_run_a_bakery_bread_line_in/)**
 
 1d ago
-
----
-
-**[Robots are DJing now AGIBOT X2 live at GTC 2026](https://www.reddit.com/r/robotics/comments/1s8tg5j/robots_are_djing_now_agibot_x2_live_at_gtc_2026/)**
-
-13h ago
 
 ---
 
@@ -106,6 +100,14 @@ From Humanoids daily on 𝕏: https://x.com/humanoidsdaily/status/20381919486372
 
 ---
 
+**[Uploaded firmare instead of program in acebot smart car](https://www.reddit.com/r/robotics/comments/1s8g4ho/uploaded_firmare_instead_of_program_in_acebot/)**
+
+Hello I accidently wrote a program in acecode and clicked upload firmare. Now my smart car is not being displayed on wifi section. It was working previously.I cannot find the firmare file in acebot documentation too.
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "robotics"
@@ -120,7 +122,13 @@ Euronews.com • 3d ago
 
 **[The world’s largest humanoid robot maker is going public](https://restofworld.org/2026/unitree-china-humanoid-robot-shanghai-ipo/)**
 
-Rest of World • 20h ago
+Rest of World • 22h ago
+
+---
+
+**[Europe Vies to Be Humanoid Robot Leader in Global Tech Race](https://www.bloomberg.com/news/articles/2026-04-01/europe-vies-to-be-humanoid-robot-leader-in-global-tech-race)**
+
+Bloomberg.com • 50m ago
 
 ---
 
@@ -128,15 +136,7 @@ Rest of World • 20h ago
 
 China has opened a new humanoid robot line in Guangdong that is reportedly built to produce 10,000 units a year.
 
-interestingengineering.com • 18h ago
-
----
-
-**[Amazon buys Fauna Robotics, maker of the Sprout humanoid robot that can dance, pick up toys, and go on a stroll](https://fortune.com/2026/03/29/amazon-acquisition-fauna-robotics-sprout-humanoid-robot-homes-schools-disney/)**
-
-Early customers included Disney.
-
-Fortune • 2d ago
+Interesting Engineering • 20h ago
 
 ---
 
@@ -150,7 +150,7 @@ KPAX News • 1d ago
 
 **[Voyager, Icarus Robotics to test free-flying robot on space station](https://www.reuters.com/science/voyager-icarus-robotics-test-free-flying-robot-space-station-2026-03-30/)**
 
-Reuters • 1d ago
+reuters.com • 1d ago
 
 ---
 
@@ -158,7 +158,7 @@ Reuters • 1d ago
 
 Spray paint is daubed over robots used by food delivery company Uber Eats in Meersbrook.
 
-BBC • 19h ago
+BBC • 20h ago
 
 ---
 
@@ -172,13 +172,15 @@ San Francisco Chronicle • 1d ago
 
 Think a robot can’t do your job? ‘It will happen, but I don’t know when,’ says one expert. How robots are already upending blue-collar work, career advancement, worker rights, and job satisfaction.
 
-Fast Company • 21h ago
+Fast Company • 23h ago
 
 ---
 
-**[Q&A: Robots can't feel, but novel sensors could change that](https://techxplore.com/news/2026-03-qa-robots-sensors.html)**
+**[Red Cat Closes Acquisition of Apium Swarm Robotics](https://finance.yahoo.com/sectors/technology/articles/red-cat-closes-acquisition-apium-183000241.html)**
 
-Tech Xplore • 1d ago
+Acquisition deepens Red Cat’s capabilities in swarming autonomy as the U.S. accelerates investment in small drone innovation SALT LAKE CITY, March 30, 2026 (GLOBE NEWSWIRE) -- Red Cat Holdings, Inc. (Nasdaq: RCAT) (“Red Cat” or the “Company”), a U.S.-based provider of advanced all-domain drone and robotic solutions for defense and national security, today announced it has acquired Apium Swarm Robotics, a California-based developer of distributed control systems for autonomous swarming drones and
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -192,17 +194,7 @@ Brett Adcock is a technology entrepreneur focused on building companies in robot
 
 📺 Shawn Ryan Show
 
-👁️ 353K • 👍 8K • 💬 3K • ⏱️ 2:57:09 • 1d ago
-
----
-
-**[Xiaomi’s New AI Robot Hand Works Like a REAL Human… This Is INSANE](https://www.youtube.com/watch?v=Ubpk3tOl9gw)**
-
-Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking it's human — and that's just the START of what's ...
-
-📺 The AI Nexus
-
-👁️ 830 • 👍 74 • 💬 5 • ⏱️ 20:43 • 8h ago
+👁️ 363K • 👍 8K • 💬 3K • ⏱️ 2:57:09 • 1d ago
 
 ---
 
@@ -216,13 +208,23 @@ Melania Trump suggested using humanoid AI robots like a “Plato” educator to 
 
 ---
 
+**[Xiaomi’s New AI Robot Hand Works Like a REAL Human… This Is INSANE](https://www.youtube.com/watch?v=Ubpk3tOl9gw)**
+
+Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking it's human — and that's just the START of what's ...
+
+📺 The AI Nexus
+
+👁️ 1K • 👍 89 • 💬 7 • ⏱️ 20:43 • 9h ago
+
+---
+
 **[First Lady Melania Trump walks with robot to White House event on children&#39;s technology](https://www.youtube.com/watch?v=7sHSBgU5p4Y)**
 
 A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White House summit on empowering children with ...
 
 📺 C-SPAN
 
-👁️ 227K • 👍 1K • 💬 2K • ⏱️ 2:59 • 6d ago
+👁️ 228K • 👍 1K • 💬 2K • ⏱️ 2:59 • 6d ago
 
 ---
 
@@ -232,7 +234,7 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCkouj
 
 📺 Shawn Ryan Clips
 
-👁️ 8K • 👍 287 • 💬 126 • ⏱️ 15:18 • 1d ago
+👁️ 8K • 👍 291 • 💬 126 • ⏱️ 15:18 • 1d ago
 
 ---
 
@@ -242,7 +244,7 @@ Brett Adcock shares his vision for the future of humanoid robots, why he believe
 
 📺 Shawn Ryan Show
 
-👁️ 68K • 👍 2K • 💬 653 • ⏱️ 14:05 • 4d ago
+👁️ 69K • 👍 2K • 💬 659 • ⏱️ 14:05 • 4d ago
 
 ---
 
@@ -252,7 +254,7 @@ This is the shocking moment a young boy is slapped across the face by a rogue ro
 
 📺 The Sun
 
-👁️ 44K • 👍 334 • 💬 277 • ⏱️ 1:09 • 6d ago
+👁️ 44K • 👍 335 • 💬 277 • ⏱️ 1:09 • 6d ago
 
 ---
 
@@ -276,13 +278,13 @@ Humanoid robots have been making appearances through social media, tv segments, 
 
 ---
 
-**[This Chinese Company Is Dominating Robotics](https://www.youtube.com/watch?v=gYM_GVmcsxY)**
+**[Melania Trump walks with AI humanoid robot](https://www.youtube.com/watch?v=Kfy9l8ZdyyI)**
 
-2026 will be huge for robotics: the most important humanoid company on the planet is going public this year. And no, it's not Tesla.
+First lady Melania Trump entered the East Room of the White House on Wednesday alongside an AI-powered humanoid robot, ...
 
-📺 Andreas Klinger @ PROTOTYPE
+📺 C-SPAN
 
-👁️ 3K • 👍 165 • 💬 38 • ⏱️ 19:32 • 18h ago
+👁️ 30K • 👍 346 • 💬 229 • ⏱️ 2:58 • 6d ago
 
 ---
 
