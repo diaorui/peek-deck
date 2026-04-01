@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-01T23:05:49.778430+00:00'
+updated: '2026-04-01T23:56:53.883673+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- news
 - social
 - videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 01, 2026 at 23:05 UTC  
+**Last Updated:** April 01, 2026 at 23:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $258.75B
+**Market Cap:** $258.48B
 Rank #2
 
 **Circulating Supply:** 120,691,362 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.6%
+-56.7%
 
 **All-Time Low:** $0.43
-+496088.0%
++494309.7%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Two months after Ethereum mainnet launched, Vitalik deployed a 3-contract on-chain arbitration system written in Serpent. We just verified all three with exact bytecode matches. The contracts: ArbiterRegistry (0x82afa2c4, block 301,954 - Sep 28, 2015) Arbiters pay 1+ ETH to list themselves as dispute mediators. The fee decays 50% per month using a 3rd-order Taylor series approximation, so inactive arbiters fall in the rankings automatically. Hardcoded EF withdrawal address. Someone called register() again in 2024 - still works. Arbitration (0xe881af13, block 303,316 + 0x7e2d0fe0, block 318,029) Smart escrow with designated arbiters. Two parties create a contract, designate arbiters, and funds auto-transfer when >50% of arbiters vote. Both parties can also instantly surrender to the other side. Vitalik tested it from both his dev address and vitalik.eth. The forensics: The source Vitalik later committed to ethereum/dapp-bin had one line wrong vs what he actually deployed. The ArbiterNotification log had its indexed arguments in reversed order. He fixed the arg order in git after shipping. The chain preserved the original - we had to catch that divergence to get an exact match. How we verified it: Not decompilation. We compiled forward: found the source in ethereum/dapp-bin, identified the exact Serpent compiler commit used (e5a5f875, Sep 26 2015), compiled it, and compared output byte-for-byte against the on-chain code. Full docs + live contract interaction (ABIs published): - https://ethereumhistory.com/contract/0x82afa2c4a686af9344e929f9821f3e8c6e9293ab - https://ethereumhistory.com/contract/0xe881af13bf55c97562fe8d2da2f6ea8e3ff66f98 Verification repos: - https://github.com/cartoonitunes/arbiter-reg-verification - https://github.com/cartoonitunes/arbitration-verification EthereumHistory is a free archive - if you find this useful, you can support it at ethereumhistory.com/donate
 
-7h ago
+8h ago
 
 ---
 
@@ -92,7 +92,7 @@ Two months after Ethereum mainnet launched, Vitalik deployed a 3-contract on-cha
 
 **[Building a community for the devs that are left](https://www.reddit.com/r/ethereum/comments/1s9o3mk/building_a_community_for_the_devs_that_are_left/)**
 
-🔗 [X (formerly Twitter)](https://x.com/0xCryptodevs/status/2039365286701175019) • 7h ago
+🔗 [X (formerly Twitter)](https://x.com/0xCryptodevs/status/2039365286701175019) • 8h ago
 
 ---
 
@@ -122,7 +122,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Launching Project on Base](https://www.reddit.com/r/ethereum/comments/1s99k1a/launching_project_on_base/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -194,7 +194,7 @@ finance.yahoo.com • 1d ago
 
 Investors looking to bet on tokenization should think in phases, with institution-friendly networks like Canton likely winning first and Avalanche, Ethereum capturing more upside later, Grayscale's Zach Pandl said.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -210,7 +210,7 @@ theblock.co • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 10h ago
+Fortune • 11h ago
 
 ---
 
@@ -232,17 +232,7 @@ This year's EthCC event in Cannes has fielded its first major announcement: the 
 
 📺 Paul Barron Network
 
-👁️ 31K • 👍 2K • 💬 104 • ⏱️ 13:00 • 1d ago
-
----
-
-**[Ethereum Pumped 23% Last Time... But Waiting For THIS Signal Could Yield FAR MORE!](https://www.youtube.com/watch?v=KQC7G3k41ZY)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 131 • 👍 5 • 💬 2 • ⏱️ 6:16 • 4h ago
+👁️ 32K • 👍 2K • 💬 105 • ⏱️ 13:00 • 1d ago
 
 ---
 
@@ -252,7 +242,7 @@ BMNR is continuing to build one of the largest Ethereum treasuries in the world 
 
 📺 The Value Thinker
 
-👁️ 7K • 👍 446 • 💬 49 • ⏱️ 20:46 • 23h ago
+👁️ 7K • 👍 458 • 💬 49 • ⏱️ 20:46 • 1d ago
 
 ---
 
@@ -262,7 +252,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 102 • 💬 9 • ⏱️ 4:22 • 11h ago
+👁️ 2K • 👍 103 • 💬 9 • ⏱️ 4:22 • 12h ago
 
 ---
 
@@ -272,7 +262,7 @@ Hang in there everyone! The risk models that say when to accumulate or exit HERE
 
 📺 Dan Gambardello
 
-👁️ 10K • 👍 613 • 💬 207 • ⏱️ 13:49 • 1d ago
+👁️ 10K • 👍 614 • 💬 211 • ⏱️ 13:49 • 1d ago
 
 ---
 
@@ -282,27 +272,17 @@ BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX
 
 📺 Lark Davis
 
-👁️ 3K • 👍 74 • 💬 2 • ⏱️ 0:47 • 23h ago
+👁️ 3K • 👍 84 • 💬 2 • ⏱️ 0:47 • 23h ago
 
 ---
 
-**[GPU Mining is BACK?! This Feels Like Ethereum Again (NOT CLICKBAIT)](https://www.youtube.com/watch?v=V_aqxhFYa3M)**
+**[Ethereum Pumped 23% Last Time... But Waiting For THIS Signal Could Yield FAR MORE!](https://www.youtube.com/watch?v=KQC7G3k41ZY)**
 
-Tangem Cold Storage Crypto Wallet https://geni.us/rpmtangem use code RPM for 10% off! ⛏️Mine RPMC here ...
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
 
-📺 Red Panda Mining
+📺 Trade Confident
 
-👁️ 4K • 👍 339 • 💬 186 • ⏱️ 9:11 • 11h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=ULw3gW7K-JA)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 441 • 👍 55 • ⏱️ 5:49 • 6h ago
+👁️ 195 • 👍 9 • 💬 3 • ⏱️ 6:16 • 4h ago
 
 ---
 
@@ -316,13 +296,33 @@ New data shows the future of markets and crypto in general. Its important for bi
 
 ---
 
-**[CRUCIAL LEVEL! ETH ABOUT TO BREAKOUT?🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=EoyhkF_8H_E)**
+**[🚀 XRP: DEMANDA MASIVA SUPERA a Bitcoin y Ethereum!! 😲 TRUMP: ANUNCIO INMINENTE HOY!! | SOLANA](https://www.youtube.com/watch?v=9RMbSkVPSic)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Bitcoin y la bolsa se mantienen en una zona de indecisión, con el mercado pendiente de lo que pueda decir Donald Trump.
 
-📺 Cilinix Crypto
+📺 WhatsUpCripto
 
-👁️ 213 • 👍 8 • 💬 1 • ⏱️ 5:14 • 13h ago
+👁️ 722 • 👍 142 • 💬 32 • ⏱️ 16:42 • 2h ago
+
+---
+
+**[GPU Mining is BACK?! This Feels Like Ethereum Again (NOT CLICKBAIT)](https://www.youtube.com/watch?v=V_aqxhFYa3M)**
+
+Tangem Cold Storage Crypto Wallet https://geni.us/rpmtangem use code RPM for 10% off! ⛏️Mine RPMC here ...
+
+📺 Red Panda Mining
+
+👁️ 5K • 👍 546 • 💬 185 • ⏱️ 9:11 • 12h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=ULw3gW7K-JA)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 627 • 👍 57 • ⏱️ 5:49 • 7h ago
 
 ---
 
