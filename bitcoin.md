@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-01T20:06:53.796452+00:00'
+updated: '2026-04-01T21:08:11.330670+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 01, 2026 at 20:06 UTC  
+**Last Updated:** April 01, 2026 at 21:08 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -1.1%  
-**30d:** -0.3%  
-**90d:** -24.3%  
-**1y:** -17.6%  
+**24h:** +0.1%  
+**7d:** -0.7%  
+**30d:** +0.1%  
+**90d:** -24.1%  
+**1y:** -17.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1361.30B
+**Market Cap:** $1364.25B
 Rank #1
 
-**Circulating Supply:** 20,010,140 BTC
+**Circulating Supply:** 20,010,181 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--46.0%
+-45.9%
 
 **All-Time Low:** $67.81
-+100332.1%
++100563.6%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I plan to buy around 4-5 BTC over the next few months. Maybe do it in 3 chunks. Its a long-term HODL. Main goal is low fees and future access to products like borrowing against my BTC or even using it as collateral for a mortgage 2-3 years down the . Maybe want a little bit of margin. Leaning towards Kraken but want any and all recommendations! Also, I have a Ledger USB already
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ I plan to buy around 4-5 BTC over the next few months. Maybe do it in 3 chunks. 
 
 $1.32B in net inflows after four straight months of outflows totaling $6.3B
 
-4h ago
+5h ago
 
 ---
 
@@ -97,15 +97,7 @@ $1.32B in net inflows after four straight months of outflows totaling $6.3B
 
 I started accumulating BTC at the end of last year. I live in Brazil and buy 200 to 500 BRL (40 to 95 USD) worth of BTC per month. My initial goal is to reach 0.01 BTC, which I believe is a good goal and I intend to achieve it by the end of the year.
 
-43m ago
-
----
-
-**[Finally became a whole coiner](https://www.reddit.com/r/Bitcoin/comments/1s972bv/finally_became_a_whole_coiner/)**
-
-I have started accumulating btc since 2021, not going out with boys ,even cancelling the trip to Thailand and missing on that thai massage just to accumulate btc, and today finally i have one btc 😭
-
-18h ago
+1h ago
 
 ---
 
@@ -113,7 +105,15 @@ I have started accumulating btc since 2021, not going out with boys ,even cancel
 
 Bitcoin is edging closer to Wall Street—and now, to municipal finance. New Hampshire is preparing to launch what could be the first Bitcoin-backed municipal bond in the U.S., a $100 million deal that uses bitcoin as collateral instead of taxpayer backing. The structure blends traditional public finance with digital assets to attract capital without putting state funds at risk. The plan, approved in late 2025 and moving toward final sign-off in 2026, signals a new phase for Bitcoin: not just an investment, but collateral inside regulated financial markets.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/hampshire-plans-100m-bitcoin-backed-083438443.html) • 7h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/hampshire-plans-100m-bitcoin-backed-083438443.html) • 8h ago
+
+---
+
+**[Finally became a whole coiner](https://www.reddit.com/r/Bitcoin/comments/1s972bv/finally_became_a_whole_coiner/)**
+
+I have started accumulating btc since 2021, not going out with boys ,even cancelling the trip to Thailand and missing on that thai massage just to accumulate btc, and today finally i have one btc 😭
+
+19h ago
 
 ---
 
@@ -121,7 +121,7 @@ Bitcoin is edging closer to Wall Street—and now, to municipal finance. New Ham
 
 I don't know if it's just me who is thinking that... But Bitcoin feels very strange right now.
 
-13h ago
+14h ago
 
 ---
 
@@ -129,7 +129,7 @@ I don't know if it's just me who is thinking that... But Bitcoin feels very stra
 
 This looks like an early attempt to integrate Bitcoin into traditional public financing rather than just holding it on balance sheet. A US state issuing bonds backed by Bitcoin collateral, with a formal credit rating attached, starts to frame crypto within existing capital market structures instead of outside them. The Ba2 rating signals that institutions still see meaningful risk, but not something entirely uninvestable.
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/moodys-assigns-ba2-rating-new-hampshires-bitcoin-backed-bonds) • 6h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/moodys-assigns-ba2-rating-new-hampshires-bitcoin-backed-bonds) • 7h ago
 
 ---
 
@@ -145,7 +145,7 @@ So I'm 28 and figure this might be my last chance to really swing for the fences
 
 With larger amounts of ETFs, deeper involvement of institutional investors, stronger correlation with macro events (interest rates, geopolitics, etc.), and maturation of the btc market, is this cycle still a thing? Or is this wishful thinking?
 
-5h ago
+6h ago
 
 ---
 
@@ -153,7 +153,7 @@ With larger amounts of ETFs, deeper involvement of institutional investors, stro
 
 Sorry I might ask a dumb question but I always wanted to invest in bitcoin should I start now with everything that s happening in uae . And how to start . I m used to invest on ETF but first time now on bitcoin
 
-8h ago
+9h ago
 
 ---
 
@@ -165,7 +165,7 @@ Sorry I might ask a dumb question but I always wanted to invest in bitcoin shoul
 
 Skepticism remains, as Bloomberg analyst Mike McGlone warns the crypto bubble may be over and bitcoin could still revisit the $10,000 level.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -177,55 +177,41 @@ CoinDesk • 1d ago
 
 ---
 
+**[Evening digest: Trump Iran ceasefire claim, SpaceX IPO, Bitcoin gains](https://www.tradingview.com/news/invezz:c4631c6a8094b:0-evening-digest-trump-iran-ceasefire-claim-spacex-ipo-bitcoin-gains/)**
+
+Global markets on Wednesday reacted to renewed geopolitical tensions after Donald Trump’s comments on Iran, while Bitcoin moved higher on improving risk sentiment. At the same time, SpaceX’s reported IPO filing boosted optimism around the space sector, and fresh US private hiring data pointed to a…
+
+TradingView • 1h ago
+
+---
+
 **[Interactive Brokers Adds Bitcoin Trading In European Economic Area](https://bitcoinmagazine.com/news/interactive-brokers-adds-bitcoin-trading)**
 
 Interactive Brokers has launched bitcoin trading for eligible retail investors across the European Economic Area.
 
-Bitcoin Magazine • 1h ago
+bitcoinmagazine.com • 2h ago
 
 ---
 
-**[Nakamoto Bitcoin sale could signal industry-wide DAT contagion: Analyst](https://www.tradingview.com/news/cointelegraph:4b3f53f75094b:0-nakamoto-bitcoin-sale-could-signal-industry-wide-dat-contagion-analyst/)**
+**[How Likely Is Bitcoin to Replace Regular Currencies?](https://www.wvgazettemail.com/sponsored/articles/how-likely-is-bitcoin-to-replace-regular-currencies/article_9bdbdb80-925d-4808-8432-862f7fd2b396.html)**
 
-Bitcoin (BTC) treasury company Nakamoto (NAKA) selling its BTC at a loss could signal capitulation of more crypto treasury companies and the start of a “contagion” that could spark a wave of forced selling, according to market analyst Nic Puckrin."Cracks are beginning to show in the digital asset t…
+Governments keep printing money. Inflation keeps eating your savings. And Bitcoin keeps getting mentioned as the fix.
 
-TradingView • 2h ago
-
----
-
-**[U.S. Treasury Launches First GENIUS Act Rulemaking With 87-Page Proposal](https://bitcoinmagazine.com/news/u-s-treasury-launches-genius-act-proposal)**
-
-The U.S. Department of the Treasury formally began implementing the Guiding and Establishing National Innovation for the GENIUS Act.
-
-Bitcoin Magazine • 2h ago
+Charleston Gazette-Mail • 1h ago
 
 ---
 
-**[Bitcoin snaps 5-month losing streak](https://finance.yahoo.com/news/bitcoin-snaps-5-month-losing-streak-020352078.html)**
+**[Bitcoin rises above $68K, sparking hope for crypto at Q2 start](https://finance.yahoo.com/video/bitcoin-rises-above-68k-sparking-hope-for-crypto-at-q2-start-145602694.html)**
 
-Bitcoin's March resilience may have been a relief rally within a broader crypto winter, according to Compass Point analyst Ed Engel.
+Bitcoin (BTC-USD) rises above $68,000 per token to start off the second quarter of 2026. The cryptocurrency has struggled to break through and hold above the $70,000 benchmark this year so far.Market Catalysts Host Brooke DiPalma takes a closer look at various crypto assets and crypto-related stocks.
 
-finance.yahoo.com • 10h ago
+finance.yahoo.com • 6h ago
 
 ---
 
 **[Bitcoin Holds Gains in Asia After Five-Month Losing Streak Ends](https://www.bloomberg.com/news/articles/2026-04-01/bitcoin-holds-gains-in-asia-after-five-month-losing-streak-ends)**
 
-Bloomberg.com • 9h ago
-
----
-
-**[These catalysts could bump bitcoin as Trump hands three-week target to end Iran war](https://www.coindesk.com/markets/2026/04/01/these-catalysts-could-bump-bitcoin-as-trump-hands-three-week-target-to-end-iran-war)**
-
-Asian stocks surged 4% and S&P 500 futures jumped after Trump said the conflict could conclude without a deal with Tehran, while Morgan Stanley's newly approved bitcoin ETF at 14 basis points opens a $6.2 trillion advisory channel.
-
-CoinDesk • 14h ago
-
----
-
-**[MSTR Stock: Bitcoin Whale Is Wall Street's No. 1 Crush And No. 1 Stock Issuer. Coincidence?](https://www.investors.com/news/mstr-stock-bitcoin-whale-strategy-wall-street-price-targets-stock-issuance/)**
-
-investors.com • 1d ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -233,7 +219,21 @@ investors.com • 1d ago
 
 Kieran Dennis, co-founder of Z and an initial contributor to Core, claims Z is the first attempt to bring native EVM capabilities to Zcash.
 
-The Block • 1d ago
+theblock.co • 1d ago
+
+---
+
+**[MSTR Stock: Bitcoin Whale Is Wall Street's No. 1 Crush And No. 1 Stock Issuer. Coincidence?](https://www.investors.com/news/mstr-stock-bitcoin-whale-strategy-wall-street-price-targets-stock-issuance/)**
+
+Investor's Business Daily • 1d ago
+
+---
+
+**[After a Tough Quarter for Crypto and Bitcoin, Is a Market 'Bottom' Finally in Sight?](https://www.investopedia.com/after-a-tough-quarter-for-crypto-and-bitcoin-is-a-market-bottom-finally-in-sight-btc-update-11936145)**
+
+The advancement of a key piece of crypto legislation was supposed to revive crypto from its doldrums—it didn't.
+
+investopedia.com • 2d ago
 
 ---
 
@@ -245,7 +245,7 @@ The Block • 1d ago
 
 Google Research said the necessary resources for quantum computers to break cryptocurrencies have seen a 20-fold reduction.
 
-⬆️ 7 • 💬 2 • 17h ago • [The Block](https://www.theblock.co/post/395814/google-quantum-computing-earlier)
+⬆️ 7 • 💬 2 • 18h ago • [The Block](https://www.theblock.co/post/395814/google-quantum-computing-earlier)
 
 ---
 
@@ -253,13 +253,13 @@ Google Research said the necessary resources for quantum computers to break cryp
 
 Bitcoin needs to fix this in the next three years.
 
-⬆️ 4 • 💬 2 • 4h ago • [Mashable](https://mashable.com/article/google-research-bitcoin-cryptography-broken)
+⬆️ 4 • 💬 2 • 5h ago • [Mashable](https://mashable.com/article/google-research-bitcoin-cryptography-broken)
 
 ---
 
 **[Google Paper Warns of Quantum Computing Risk for Bitcoin](https://news.ycombinator.com/item?id=47600418)**
 
-⬆️ 3 • 💬 1 • 6h ago • [wsj.com](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q)
+⬆️ 3 • 💬 1 • 7h ago • [wsj.com](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q)
 
 ---
 
@@ -291,7 +291,7 @@ The first signing system where the private key is a physical key — and can sti
 
 **[Show HN: Live simulation of AI agents scamming each other (and getting caught)](https://news.ycombinator.com/item?id=47595450)**
 
-⬆️ 4 • 💬 0 • 19h ago • [5.161.255.238:8888](http://5.161.255.238:8888)
+⬆️ 4 • 💬 0 • 20h ago • [5.161.255.238:8888](http://5.161.255.238:8888)
 
 ---
 
@@ -307,23 +307,13 @@ runs multiple inputs through a script/function in parallel using bash coprocs - 
 
 ## YouTube Videos: "bitcoin"
 
-**[ALL MARKETS Are Breaking At Once. Here&#39;s Why Bitcoin Is Still Cheap!](https://www.youtube.com/watch?v=kMKE4jKJ4D8)**
-
-Global markets are cracking under war, inflation, and policy failure, but most people still don't see what's coming. Jerome Powell ...
-
-📺 Simply Bitcoin
-
-👁️ 20K • 👍 1K • 💬 72 • ⏱️ 11:45 • 22h ago
-
----
-
 **[I’m selling all my Bitcoin now… (Quantum Update)](https://www.youtube.com/watch?v=N-Ts6My5jFI)**
 
 If you know someone who holds Bitcoin → send them this video. “Quantum Will Kill Bitcoin By 2029” (Fully Explained) Explaining ...
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 2K • 💬 181 • ⏱️ 10:16 • 23h ago
+👁️ 29K • 👍 2K • 💬 267 • ⏱️ 10:16 • 1d ago
 
 ---
 
@@ -333,27 +323,7 @@ The global economy didn't slowly weaken. It snapped. In just 72 hours, multiple 
 
 📺 Simply Bitcoin
 
-👁️ 34K • 👍 3K • 💬 266 • ⏱️ 48:32 • 1d ago
-
----
-
-**[The Fed Will Print Trillions.. What That ACTUALLY Means for Bitcoin](https://www.youtube.com/watch?v=W37WgSq9nzI)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Buy, Sell, Trade on Weex ($500 Bonus): ...
-
-📺 Altcoin Daily
-
-👁️ 44K • 👍 2K • 💬 230 • ⏱️ 9:58 • 1d ago
-
----
-
-**[Bitcoin&#39;s Quantum-Resistant Future Just Got Real](https://www.youtube.com/watch?v=MXA39ece4_c)**
-
-Google dropped a new quantum computing paper and the internet immediately reacted like a squirrel discovered a live electrical ...
-
-📺 Swan Bitcoin
-
-👁️ 7K • 👍 490 • 💬 50 • ⏱️ 12:30 • 1d ago
+👁️ 34K • 👍 3K • 💬 257 • ⏱️ 48:32 • 1d ago
 
 ---
 
@@ -363,7 +333,37 @@ DOMINATE THE BOTTOM UNLOCK HUGE BONUS VIDEO ⬇️ JOIN THE WAITLIST NOW ...
 
 📺 Crypto Crew University
 
-👁️ 10K • 👍 1K • 💬 98 • ⏱️ 5:18 • 7h ago
+👁️ 13K • 👍 1K • 💬 80 • ⏱️ 5:18 • 8h ago
+
+---
+
+**[Bitcoin Heading to $45K? Top Analyst Issues MAJOR Warning](https://www.youtube.com/watch?v=8hHpabloQvc)**
+
+Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly on ...
+
+📺 CryptosRUs
+
+👁️ 25K • 👍 1K • 💬 640 • ⏱️ 9:53 • 1d ago
+
+---
+
+**[The Fed Will Print Trillions.. What That ACTUALLY Means for Bitcoin](https://www.youtube.com/watch?v=W37WgSq9nzI)**
+
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Buy, Sell, Trade on Weex ($500 Bonus): ...
+
+📺 Altcoin Daily
+
+👁️ 45K • 👍 2K • 💬 230 • ⏱️ 9:58 • 1d ago
+
+---
+
+**[ALL MARKETS Are Breaking At Once. Here&#39;s Why Bitcoin Is Still Cheap!](https://www.youtube.com/watch?v=kMKE4jKJ4D8)**
+
+Global markets are cracking under war, inflation, and policy failure, but most people still don't see what's coming. Jerome Powell ...
+
+📺 Simply Bitcoin
+
+👁️ 20K • 👍 1K • 💬 68 • ⏱️ 11:45 • 23h ago
 
 ---
 
@@ -373,27 +373,27 @@ Structure your assets and position yourself for the transfer, that's what the We
 
 📺 Mark Moss
 
-👁️ 22K • 👍 466 • 💬 39 • ⏱️ 0:46 • 23h ago
+👁️ 23K • 👍 488 • 💬 40 • ⏱️ 0:46 • 1d ago
 
 ---
 
-**[Is Bitcoin DOOMED? Major Quantum Breakthrough Disrupts Markets!](https://www.youtube.com/watch?v=rfqIOxF0Xqg)**
+**[I&#39;ve Changed My Mind on Bitcoin](https://www.youtube.com/watch?v=Jd7EJuMYaoQ)**
 
-Bitcoin #Crypto #Finance Bitcoin just closed its worst first quarter since 2018, and now the market is at a crossroads. On one side ...
+In this video, I'm breaking down exactly why I've shifted my stance, the "aha" moments that changed my mind, and what this ...
 
-📺 The Wolf Of All Streets
+📺 Discover Crypto
 
-👁️ 15K • 👍 652 • 💬 180 • ⏱️ 58:16 • 1d ago
+👁️ 5K • 👍 376 • 💬 26 • ⏱️ 1:03:52 • 5h ago
 
 ---
 
-**[Why Bitcoin Fails The “Gold” Argument…](https://www.youtube.com/watch?v=hSWQgw2bRRM)**
+**[Bitcoin&#39;s Quantum-Resistant Future Just Got Real](https://www.youtube.com/watch?v=MXA39ece4_c)**
 
-Bitcoin has historically been one of the most volatile assets in the world. Which is exactly why you don't see anyone dumping their ...
+Google dropped a new quantum computing paper and the internet immediately reacted like a squirrel discovered a live electrical ...
 
-📺 Casual Finance
+📺 Swan Bitcoin
 
-👁️ 5K • 👍 126 • 💬 9 • ⏱️ 0:43 • 1d ago
+👁️ 7K • 👍 498 • 💬 53 • ⏱️ 12:30 • 1d ago
 
 ---
 
@@ -403,7 +403,7 @@ If you hold Bitcoin or Ethereum... watch this! (alert!) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 11K • 👍 439 • 💬 58 • ⏱️ 1:18 • 1d ago
+👁️ 12K • 👍 442 • 💬 60 • ⏱️ 1:18 • 1d ago
 
 ---
 
