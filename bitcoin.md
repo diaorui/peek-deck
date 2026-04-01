@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-01T22:03:03.291773+00:00'
+updated: '2026-04-01T23:05:49.773205+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
+- social
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 01, 2026 at 22:03 UTC  
+**Last Updated:** April 01, 2026 at 23:05 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,423.85
+### $68,190.98
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -0.7%  
-**30d:** +0.1%  
-**90d:** -24.1%  
-**1y:** -17.3%  
+**24h:** -0.2%  
+**7d:** -0.9%  
+**30d:** -0.1%  
+**90d:** -24.2%  
+**1y:** -17.5%  
 
 ---
 
@@ -81,14 +81,6 @@ Rank #1
 
 I plan to buy around 4-5 BTC over the next few months. Maybe do it in 3 chunks. Its a long-term HODL. Main goal is low fees and future access to products like borrowing against my BTC or even using it as collateral for a mortgage 2-3 years down the . Maybe want a little bit of margin. Leaning towards Kraken but want any and all recommendations! Also, I have a Ledger USB already
 
-4h ago
-
----
-
-**[the bitcoin ETFs just posted their first monthly net inflows since October](https://www.reddit.com/r/Bitcoin/comments/1s9np40/the_bitcoin_etfs_just_posted_their_first_monthly/)**
-
-$1.32B in net inflows after four straight months of outflows totaling $6.3B
-
 6h ago
 
 ---
@@ -97,7 +89,15 @@ $1.32B in net inflows after four straight months of outflows totaling $6.3B
 
 I started accumulating BTC at the end of last year. I live in Brazil and buy 200 to 500 BRL (40 to 95 USD) worth of BTC per month. My initial goal is to reach 0.01 BTC, which I believe is a good goal and I intend to achieve it by the end of the year.
 
-2h ago
+3h ago
+
+---
+
+**[the bitcoin ETFs just posted their first monthly net inflows since October](https://www.reddit.com/r/Bitcoin/comments/1s9np40/the_bitcoin_etfs_just_posted_their_first_monthly/)**
+
+$1.32B in net inflows after four straight months of outflows totaling $6.3B
+
+7h ago
 
 ---
 
@@ -105,7 +105,7 @@ I started accumulating BTC at the end of last year. I live in Brazil and buy 200
 
 Bitcoin is edging closer to Wall Street—and now, to municipal finance. New Hampshire is preparing to launch what could be the first Bitcoin-backed municipal bond in the U.S., a $100 million deal that uses bitcoin as collateral instead of taxpayer backing. The structure blends traditional public finance with digital assets to attract capital without putting state funds at risk. The plan, approved in late 2025 and moving toward final sign-off in 2026, signals a new phase for Bitcoin: not just an investment, but collateral inside regulated financial markets.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/hampshire-plans-100m-bitcoin-backed-083438443.html) • 9h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/hampshire-plans-100m-bitcoin-backed-083438443.html) • 10h ago
 
 ---
 
@@ -113,7 +113,7 @@ Bitcoin is edging closer to Wall Street—and now, to municipal finance. New Ham
 
 I have started accumulating btc since 2021, not going out with boys ,even cancelling the trip to Thailand and missing on that thai massage just to accumulate btc, and today finally i have one btc 😭
 
-20h ago
+21h ago
 
 ---
 
@@ -121,7 +121,7 @@ I have started accumulating btc since 2021, not going out with boys ,even cancel
 
 I don't know if it's just me who is thinking that... But Bitcoin feels very strange right now.
 
-15h ago
+16h ago
 
 ---
 
@@ -129,7 +129,13 @@ I don't know if it's just me who is thinking that... But Bitcoin feels very stra
 
 This looks like an early attempt to integrate Bitcoin into traditional public financing rather than just holding it on balance sheet. A US state issuing bonds backed by Bitcoin collateral, with a formal credit rating attached, starts to frame crypto within existing capital market structures instead of outside them. The Ba2 rating signals that institutions still see meaningful risk, but not something entirely uninvestable.
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/moodys-assigns-ba2-rating-new-hampshires-bitcoin-backed-bonds) • 8h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/moodys-assigns-ba2-rating-new-hampshires-bitcoin-backed-bonds) • 9h ago
+
+---
+
+**[the pros and cons of the new bitcoin backed mortgage product](https://www.reddit.com/r/Bitcoin/comments/1s9whyu/the_pros_and_cons_of_the_new_bitcoin_backed/)**
+
+2h ago
 
 ---
 
@@ -145,15 +151,7 @@ So I'm 28 and figure this might be my last chance to really swing for the fences
 
 With larger amounts of ETFs, deeper involvement of institutional investors, stronger correlation with macro events (interest rates, geopolitics, etc.), and maturation of the btc market, is this cycle still a thing? Or is this wishful thinking?
 
-7h ago
-
----
-
-**[Beginner](https://www.reddit.com/r/Bitcoin/comments/1s9hhu3/beginner/)**
-
-Sorry I might ask a dumb question but I always wanted to invest in bitcoin should I start now with everything that s happening in uae . And how to start . I m used to invest on ETF but first time now on bitcoin
-
-10h ago
+8h ago
 
 ---
 
@@ -165,7 +163,7 @@ Sorry I might ask a dumb question but I always wanted to invest in bitcoin shoul
 
 Skepticism remains, as Bloomberg analyst Mike McGlone warns the crypto bubble may be over and bitcoin could still revisit the $10,000 level.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -177,41 +175,39 @@ CoinDesk • 1d ago
 
 ---
 
-**[Evening digest: Trump Iran ceasefire claim, SpaceX IPO, Bitcoin gains](https://www.tradingview.com/news/invezz:c4631c6a8094b:0-evening-digest-trump-iran-ceasefire-claim-spacex-ipo-bitcoin-gains/)**
+**[Bitcoin Buying Fails to Offset a Wave of Selling by Big Holders](https://www.bloomberg.com/news/articles/2026-04-01/bitcoin-buying-fails-to-offset-a-wave-of-selling-by-big-holders)**
 
-Global markets on Wednesday reacted to renewed geopolitical tensions after Donald Trump’s comments on Iran, while Bitcoin moved higher on improving risk sentiment. At the same time, SpaceX’s reported IPO filing boosted optimism around the space sector, and fresh US private hiring data pointed to a…
-
-TradingView • 2h ago
+Bloomberg.com • 57m ago
 
 ---
 
-**[Interactive Brokers Adds Bitcoin Trading In European Economic Area](https://bitcoinmagazine.com/news/interactive-brokers-adds-bitcoin-trading)**
+**[What ending the Iran war means for Bitcoin’s price](https://finance.yahoo.com/markets/crypto/articles/ending-iran-war-means-bitcoin-162616803.html)**
 
-Interactive Brokers has launched bitcoin trading for eligible retail investors across the European Economic Area.
+President Trump has said the US should be out of Iran soon. Crypto markets are up as a result. The end of war in the Middle East would ultimately benefit crypto, analysts said.
 
-bitcoinmagazine.com • 3h ago
-
----
-
-**[How Likely Is Bitcoin to Replace Regular Currencies?](https://www.wvgazettemail.com/sponsored/articles/how-likely-is-bitcoin-to-replace-regular-currencies/article_9bdbdb80-925d-4808-8432-862f7fd2b396.html)**
-
-Governments keep printing money. Inflation keeps eating your savings. And Bitcoin keeps getting mentioned as the fix.
-
-Charleston Gazette-Mail • 2h ago
-
----
-
-**[Bitcoin rises above $68K, sparking hope for crypto at Q2 start](https://finance.yahoo.com/video/bitcoin-rises-above-68k-sparking-hope-for-crypto-at-q2-start-145602694.html)**
-
-Bitcoin (BTC-USD) rises above $68,000 per token to start off the second quarter of 2026. The cryptocurrency has struggled to break through and hold above the $70,000 benchmark this year so far.Market Catalysts Host Brooke DiPalma takes a closer look at various crypto assets and crypto-related stocks.
-
-finance.yahoo.com • 7h ago
+finance.yahoo.com • 6h ago
 
 ---
 
 **[Bitcoin Holds Gains in Asia After Five-Month Losing Streak Ends](https://www.bloomberg.com/news/articles/2026-04-01/bitcoin-holds-gains-in-asia-after-five-month-losing-streak-ends)**
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 12h ago
+
+---
+
+**[These catalysts could bump bitcoin as Trump hands three-week target to end Iran war](https://www.coindesk.com/markets/2026/04/01/these-catalysts-could-bump-bitcoin-as-trump-hands-three-week-target-to-end-iran-war)**
+
+Asian stocks surged 4% and S&P 500 futures jumped after Trump said the conflict could conclude without a deal with Tehran, while Morgan Stanley's newly approved bitcoin ETF at 14 basis points opens a $6.2 trillion advisory channel.
+
+CoinDesk • 17h ago
+
+---
+
+**[Bitcoin April 1 daily chart alert - Bears keep their technical advantage](https://www.kitco.com/news/article/2026-04-01/bitcoin-april-1-daily-chart-alert-bears-keep-their-technical-advantage)**
+
+The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
+
+KITCO • 13h ago
 
 ---
 
@@ -225,15 +221,15 @@ theblock.co • 1d ago
 
 **[MSTR Stock: Bitcoin Whale Is Wall Street's No. 1 Crush And No. 1 Stock Issuer. Coincidence?](https://www.investors.com/news/mstr-stock-bitcoin-whale-strategy-wall-street-price-targets-stock-issuance/)**
 
-Investor's Business Daily • 1d ago
+investors.com • 1d ago
 
 ---
 
-**[After a Tough Quarter for Crypto and Bitcoin, Is a Market 'Bottom' Finally in Sight?](https://www.investopedia.com/after-a-tough-quarter-for-crypto-and-bitcoin-is-a-market-bottom-finally-in-sight-btc-update-11936145)**
+**[Strategy set to resume buying Bitcoin via STRC: Will BTC price hit $80K?](https://www.tradingview.com/news/cointelegraph:ef90fdf6d094b:0-strategy-set-to-resume-buying-bitcoin-via-strc-will-btc-price-hit-80k/)**
 
-The advancement of a key piece of crypto legislation was supposed to revive crypto from its doldrums—it didn't.
+Michael Saylor’s Strategy (MSTR) looks set to restart its Bitcoin BITSTAMP:BTCUSD accumulation engine after a short pause, with its STRC preferred stock likely funding fresh crypto purchases this week.Key takeaways:Strategy may buy at least 1,111 BTC this weekOn Tuesday, STRC closed at $100.02, jus…
 
-investopedia.com • 2d ago
+TradingView • 9h ago
 
 ---
 
@@ -245,7 +241,7 @@ investopedia.com • 2d ago
 
 Google Research said the necessary resources for quantum computers to break cryptocurrencies have seen a 20-fold reduction.
 
-⬆️ 7 • 💬 2 • 18h ago • [The Block](https://www.theblock.co/post/395814/google-quantum-computing-earlier)
+⬆️ 7 • 💬 2 • 19h ago • [The Block](https://www.theblock.co/post/395814/google-quantum-computing-earlier)
 
 ---
 
@@ -253,13 +249,13 @@ Google Research said the necessary resources for quantum computers to break cryp
 
 Bitcoin needs to fix this in the next three years.
 
-⬆️ 4 • 💬 2 • 6h ago • [Mashable](https://mashable.com/article/google-research-bitcoin-cryptography-broken)
+⬆️ 5 • 💬 2 • 7h ago • [Mashable](https://mashable.com/article/google-research-bitcoin-cryptography-broken)
 
 ---
 
 **[Google Paper Warns of Quantum Computing Risk for Bitcoin](https://news.ycombinator.com/item?id=47600418)**
 
-⬆️ 3 • 💬 1 • 8h ago • [wsj.com](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q)
+⬆️ 3 • 💬 1 • 9h ago • [wsj.com](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q)
 
 ---
 
@@ -291,7 +287,7 @@ The first signing system where the private key is a physical key — and can sti
 
 **[Show HN: Live simulation of AI agents scamming each other (and getting caught)](https://news.ycombinator.com/item?id=47595450)**
 
-⬆️ 4 • 💬 0 • 21h ago • [5.161.255.238:8888](http://5.161.255.238:8888)
+⬆️ 4 • 💬 0 • 22h ago • [5.161.255.238:8888](http://5.161.255.238:8888)
 
 ---
 
@@ -333,7 +329,7 @@ DOMINATE THE BOTTOM UNLOCK HUGE BONUS VIDEO ⬇️ JOIN THE WAITLIST NOW ...
 
 📺 Crypto Crew University
 
-👁️ 13K • 👍 1K • 💬 80 • ⏱️ 5:18 • 9h ago
+👁️ 13K • 👍 1K • 💬 80 • ⏱️ 5:18 • 10h ago
 
 ---
 
@@ -383,7 +379,7 @@ In this video, I'm breaking down exactly why I've shifted my stance, the "aha" m
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 376 • 💬 26 • ⏱️ 1:03:52 • 6h ago
+👁️ 5K • 👍 376 • 💬 26 • ⏱️ 1:03:52 • 7h ago
 
 ---
 

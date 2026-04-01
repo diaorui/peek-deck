@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-01T22:03:03.301345+00:00'
+updated: '2026-04-01T23:05:49.781290+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 01, 2026 at 22:03 UTC  
+**Last Updated:** April 01, 2026 at 23:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,15 +32,15 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Olaf couldn't handle too many human questions, suddenly crashed, collapsed, and its carrot nose fell off](https://www.reddit.com/r/robotics/comments/1s9g61s/olaf_couldnt_handle_too_many_human_questions/)**
+**[China announces its first automated manufacturing line capable of producing 10K humanoid robots per year - 1 robot every 30 minutes](https://www.reddit.com/r/robotics/comments/1s9qso0/china_announces_its_first_automated_manufacturing/)**
 
-12h ago
+5h ago
 
 ---
 
-**[China announces its first automated manufacturing line capable of producing 10K humanoid robots per year - 1 robot every 30 minutes](https://www.reddit.com/r/robotics/comments/1s9qso0/china_announces_its_first_automated_manufacturing/)**
+**[Olaf couldn't handle too many human questions, suddenly crashed, collapsed, and its carrot nose fell off](https://www.reddit.com/r/robotics/comments/1s9g61s/olaf_couldnt_handle_too_many_human_questions/)**
 
-4h ago
+13h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 Erik Nieves, CEO of Plus One Robotics, describes the current focus on humanoid robots as part of a broader pattern. He notes that when people think of robots, they often picture a human-like figure. That expectation shapes how robots are designed and discussed. He also connects humanoid development to two recurring ideas: going to new places and replicating human capabilities in those environments. Mentioning that industrial users are not focused on form factor. Systems are evaluated based on performance, including output and reliability, rather than whether they resemble humans. The discussion suggests that while humanoid robots may not yet align with operational requirements, the investment in that area could still influence the development of underlying technologies.
 
-7h ago
+8h ago
 
 ---
 
@@ -56,7 +56,7 @@ Erik Nieves, CEO of Plus One Robotics, describes the current focus on humanoid r
 
 Pure pursuit navigation and LIDAR obstacle avoidance test with sharp corners. YOLOV8 model for human detection running on desktop server GPU. The objective is to replace the ultrasonic servo sweeping as it was too noisy and caused interference with microphone.
 
-10h ago
+11h ago
 
 ---
 
@@ -64,7 +64,7 @@ Pure pursuit navigation and LIDAR obstacle avoidance test with sharp corners. YO
 
 https://www.youtube.com/@ALMA.GeoffreyAment Chapter 3 Footnote 1. Building an Actuator, a PID Control Loop, and an Ultrasonic Distance sensor to detect and not crash into the ceiling. This will be used in Chapter 3 Desk -- Stay tuned for more!
 
-6h ago
+7h ago
 
 ---
 
@@ -80,23 +80,7 @@ To learn more about running OpenClaw and ROS robotics, checkout AgenticROS https
 
 https://preview.redd.it/7xs65qofxksg1.png?width=1818&format=png&auto=webp&s=ee55d6743ee552994af11acef0c64167a3e71df1 Hey r/robotics! I'm excited to share OpenEyes - an open-source vision system I've been building for humanoid robots. It runs entirely on NVIDIA Jetson Orin Nano with full ROS2 integration. The Problem Every day, millions of robots are deployed to help humans. But most of them are blind. Or dependent on cloud services that fail. Or so expensive only big companies can afford them. I wanted to change that. What OpenEyes Does The robot looks at a room and understands: - "There's a cup on the table, 40cm away" - "A person is standing to my left" - "They're waving at me - that's a greeting" - "The person is sitting down - they might need help" - Object Detection (YOLO11n) - Depth Estimation (MiDaS) - Face Detection (MediaPipe) - Gesture Recognition (MediaPipe Hands) - Pose Estimation (MediaPipe Pose) - Object Tracking - Person Following (show open palm to become owner) Performance - All models: 10-15 FPS - Minimal: 25-30 FPS - Optimized (INT8): 30-40 FPS Philosophy - Edge First - All processing on the robot - Privacy First - No data leaves the device - Real-time - 30 FPS target - Open - Built by community, for community Quick Start git clone https://github.com/mandarwagh9/openeyes.git cd openeyes pip install -r requirements.txt python src/main.py --debug python src/main.py --follow (Person following!) python src/main.py --ros2 (ROS2 integration) The Journey Started with a simple question: Why can't robots see like we do? Been iterating for months fixing issues like: - MediaPipe detection at high resolution - Person following using bbox height ratio - Gesture-based owner selection Would love feedback from the community! GitHub: github.com/mandarwagh9/openeyes
 
-8h ago
-
----
-
-**[Ultrasonic sensors](https://www.reddit.com/r/robotics/comments/1s9ki26/ultrasonic_sensors/)**
-
-I’ve been working on this little robot, but the servo mechanism has some janky screws/components. Can I replace the servo with two more ultrasonic sensors? What happens if you have multiple ultrasonic sensors, each oriented at 90 degrees from each other facing forward, right, and left? Then there’s no servo noise/janky movement/odd angles (mine tips downward), but more sense data, which might cause its own challenges. Any advice is helpful. Thanks!
-
-8h ago
-
----
-
-**[We’re Open-Sourcing Our Kynooe Robot SDK](https://www.reddit.com/r/robotics/comments/1s9gjbc/were_opensourcing_our_kynooe_robot_sdk/)**
-
-Hey everyone, We’ve been working on a fully modular robot arm called Kynooe, and we’re opening up our SDK very soon! The goal is to make it easier for everyone to: - Control Kynooe Robot or integrate the joint into their own systems - Experiment with motion control and robotics applications - Build on top of our Kynooe Joints We’d really love feedback from the community — especially around: - API design - Documentation clarity - Use cases you’d like to see supported Happy to answer any questions!
-
-11h ago
+9h ago
 
 ---
 
@@ -104,7 +88,23 @@ Hey everyone, We’ve been working on a fully modular robot arm called Kynooe, a
 
 This is my first ever robotics project and I don’t have a mentor or anything so don’t be too harsh😂😅 I’m wondering why my XY6020L won’t turn on, the wires are screwed on tight and there should be over 6V of power which is enough to turn on the screen which is my current goal, let me know what is wrong thanks.
 
-3h ago
+4h ago
+
+---
+
+**[Ultrasonic sensors](https://www.reddit.com/r/robotics/comments/1s9ki26/ultrasonic_sensors/)**
+
+I’ve been working on this little robot, but the servo mechanism has some janky screws/components. Can I replace the servo with two more ultrasonic sensors? What happens if you have multiple ultrasonic sensors, each oriented at 90 degrees from each other facing forward, right, and left? Then there’s no servo noise/janky movement/odd angles (mine tips downward), but more sense data, which might cause its own challenges. Any advice is helpful. Thanks!
+
+9h ago
+
+---
+
+**[We’re Open-Sourcing Our Kynooe Robot SDK](https://www.reddit.com/r/robotics/comments/1s9gjbc/were_opensourcing_our_kynooe_robot_sdk/)**
+
+Hey everyone, We’ve been working on a fully modular robot arm called Kynooe, and we’re opening up our SDK very soon! The goal is to make it easier for everyone to: - Control Kynooe Robot or integrate the joint into their own systems - Experiment with motion control and robotics applications - Build on top of our Kynooe Joints We’d really love feedback from the community — especially around: - API design - Documentation clarity - Use cases you’d like to see supported Happy to answer any questions!
+
+12h ago
 
 ---
 
@@ -120,23 +120,31 @@ Fox News • 3d ago
 
 ---
 
-**[Robots learn to ask humans for help](https://www.axios.com/2026/04/01/robots-delivery-serve-tmobile)**
-
-Axios • 3h ago
-
----
-
 **[Station Crew Works Robotics, Research as Artemis II Launch Preps Continue](https://www.nasa.gov/blogs/general-blog/2026/04/01/station-crew-works-robotics-research-as-artemis-ii-launch-preps-continue/)**
 
 Robotics training and human research were the primary duties for the Expedition 74 crew aboard the International Space Station on Wednesday. The orbital residents rounded out their shift with spacesuit work, cargo operations, and Earth observations.
 
-NASA (.gov) • 2h ago
+NASA (.gov) • 3h ago
 
 ---
 
-**[The world’s largest humanoid robot maker is going public](https://restofworld.org/2026/unitree-china-humanoid-robot-shanghai-ipo/)**
+**[Robots learn to ask humans for help](https://www.axios.com/2026/04/01/robots-delivery-serve-tmobile)**
 
-Rest of World • 1d ago
+axios.com • 4h ago
+
+---
+
+**[OpenAI leases massive Richmond site to power robotics expansion](https://www.sfchronicle.com/tech/article/openai-richmond-warehouse-robotics-22160624.php)**
+
+San Francisco Chronicle • 1d ago
+
+---
+
+**[Uber Eats delivery robots vandalised in Sheffield suburb](https://www.bbc.com/news/articles/cn53x5x33wno)**
+
+Spray paint is daubed over robots used by food delivery company Uber Eats in Meersbrook.
+
+BBC • 1d ago
 
 ---
 
@@ -144,41 +152,35 @@ Rest of World • 1d ago
 
 People in Nigeria and India are strapping iPhones onto their heads and recording themselves doing chores.
 
-technologyreview.com • 11h ago
+MIT Technology Review • 12h ago
 
 ---
 
 **[Europe Vies to Be Humanoid Robot Leader in Global Tech Race](https://www.bloomberg.com/news/articles/2026-04-01/europe-vies-to-be-humanoid-robot-leader-in-global-tech-race)**
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
-**[OpenAI to Expand to East Bay With Plans For Huge New Robotics Facility](https://sfist.com/2026/03/31/openai-to-expand-to-east-bay-with-plans-for-new-200-000-square-foot-robotics-facility/)**
+**[China’s AGIBOT Hits 10,000 Humanoid Robots, Half Shipped in 3 Months](https://www.eweek.com/news/chinas-agibot-10000-humanoid-robots-scale/)**
 
-OpenAI signed a new lease on a 202,000-square-foot waterfront site near the Richmond ferry terminal in its first East Bay expansion, and it’s believed the company will be opening a robotics facility there.
+China’s AGIBOT hits 10,000 humanoid robots, scaling rapidly and outpacing global rivals as embodied AI moves from testing to real-world deployment.
 
-sfist.com • 22h ago
+eweek.com • 1d ago
 
 ---
 
-**[La Crosse set to host first robotics competition](https://www.yahoo.com/news/articles/la-crosse-set-host-first-153057820.html)**
+**[Iowa City Robotics club may not be able to send students to Worlds without funds](https://www.kcrg.com/2026/03/30/iowa-city-robotics-club-may-not-be-able-send-students-worlds-without-funds/)**
 
-LA CROSSE, Wis. (WLAX/WEUX) – La Crosse will welcome dozens of high school robotics teams from across the region for the 2026 WIN District Seven Rivers Event, part of the 2026 FIRST Robotics Competiti...
+If they fall short, only a limited number of students — or none at all — may make the trip.
 
-yahoo.com • 6h ago
+kcrg.com • 2d ago
 
 ---
 
 **[Voyager, Icarus Robotics to test free-flying robot on space station](https://www.reuters.com/science/voyager-icarus-robotics-test-free-flying-robot-space-station-2026-03-30/)**
 
 reuters.com • 2d ago
-
----
-
-**[With Voyager’s help, Icarus Robotics to test free-flyer on ISS](https://spacenews.com/with-voyagers-help-icarus-robotics-to-test-free-flyer-on-iss/)**
-
-SpaceNews • 2d ago
 
 ---
 
@@ -212,7 +214,7 @@ Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking
 
 📺 The AI Nexus
 
-👁️ 3K • 👍 127 • 💬 10 • ⏱️ 20:43 • 23h ago
+👁️ 3K • 👍 127 • 💬 10 • ⏱️ 20:43 • 1d ago
 
 ---
 
