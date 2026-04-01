@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-01T21:08:11.339896+00:00'
+updated: '2026-04-01T22:03:03.301345+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 01, 2026 at 21:08 UTC  
+**Last Updated:** April 01, 2026 at 22:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Olaf couldn't handle too many human questions, suddenly crashed, collapsed, and its carrot nose fell off](https://www.reddit.com/r/robotics/comments/1s9g61s/olaf_couldnt_handle_too_many_human_questions/)**
 
-11h ago
+12h ago
 
 ---
 
 **[China announces its first automated manufacturing line capable of producing 10K humanoid robots per year - 1 robot every 30 minutes](https://www.reddit.com/r/robotics/comments/1s9qso0/china_announces_its_first_automated_manufacturing/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 Erik Nieves, CEO of Plus One Robotics, describes the current focus on humanoid robots as part of a broader pattern. He notes that when people think of robots, they often picture a human-like figure. That expectation shapes how robots are designed and discussed. He also connects humanoid development to two recurring ideas: going to new places and replicating human capabilities in those environments. Mentioning that industrial users are not focused on form factor. Systems are evaluated based on performance, including output and reliability, rather than whether they resemble humans. The discussion suggests that while humanoid robots may not yet align with operational requirements, the investment in that area could still influence the development of underlying technologies.
 
-6h ago
+7h ago
 
 ---
 
@@ -56,7 +56,7 @@ Erik Nieves, CEO of Plus One Robotics, describes the current focus on humanoid r
 
 Pure pursuit navigation and LIDAR obstacle avoidance test with sharp corners. YOLOV8 model for human detection running on desktop server GPU. The objective is to replace the ultrasonic servo sweeping as it was too noisy and caused interference with microphone.
 
-9h ago
+10h ago
 
 ---
 
@@ -64,7 +64,7 @@ Pure pursuit navigation and LIDAR obstacle avoidance test with sharp corners. YO
 
 https://www.youtube.com/@ALMA.GeoffreyAment Chapter 3 Footnote 1. Building an Actuator, a PID Control Loop, and an Ultrasonic Distance sensor to detect and not crash into the ceiling. This will be used in Chapter 3 Desk -- Stay tuned for more!
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ To learn more about running OpenClaw and ROS robotics, checkout AgenticROS https
 
 https://preview.redd.it/7xs65qofxksg1.png?width=1818&format=png&auto=webp&s=ee55d6743ee552994af11acef0c64167a3e71df1 Hey r/robotics! I'm excited to share OpenEyes - an open-source vision system I've been building for humanoid robots. It runs entirely on NVIDIA Jetson Orin Nano with full ROS2 integration. The Problem Every day, millions of robots are deployed to help humans. But most of them are blind. Or dependent on cloud services that fail. Or so expensive only big companies can afford them. I wanted to change that. What OpenEyes Does The robot looks at a room and understands: - "There's a cup on the table, 40cm away" - "A person is standing to my left" - "They're waving at me - that's a greeting" - "The person is sitting down - they might need help" - Object Detection (YOLO11n) - Depth Estimation (MiDaS) - Face Detection (MediaPipe) - Gesture Recognition (MediaPipe Hands) - Pose Estimation (MediaPipe Pose) - Object Tracking - Person Following (show open palm to become owner) Performance - All models: 10-15 FPS - Minimal: 25-30 FPS - Optimized (INT8): 30-40 FPS Philosophy - Edge First - All processing on the robot - Privacy First - No data leaves the device - Real-time - 30 FPS target - Open - Built by community, for community Quick Start git clone https://github.com/mandarwagh9/openeyes.git cd openeyes pip install -r requirements.txt python src/main.py --debug python src/main.py --follow (Person following!) python src/main.py --ros2 (ROS2 integration) The Journey Started with a simple question: Why can't robots see like we do? Been iterating for months fixing issues like: - MediaPipe detection at high resolution - Person following using bbox height ratio - Gesture-based owner selection Would love feedback from the community! GitHub: github.com/mandarwagh9/openeyes
 
-7h ago
+8h ago
 
 ---
 
@@ -88,7 +88,7 @@ https://preview.redd.it/7xs65qofxksg1.png?width=1818&format=png&auto=webp&s=ee55
 
 I’ve been working on this little robot, but the servo mechanism has some janky screws/components. Can I replace the servo with two more ultrasonic sensors? What happens if you have multiple ultrasonic sensors, each oriented at 90 degrees from each other facing forward, right, and left? Then there’s no servo noise/janky movement/odd angles (mine tips downward), but more sense data, which might cause its own challenges. Any advice is helpful. Thanks!
 
-7h ago
+8h ago
 
 ---
 
@@ -96,7 +96,7 @@ I’ve been working on this little robot, but the servo mechanism has some janky
 
 Hey everyone, We’ve been working on a fully modular robot arm called Kynooe, and we’re opening up our SDK very soon! The goal is to make it easier for everyone to: - Control Kynooe Robot or integrate the joint into their own systems - Experiment with motion control and robotics applications - Build on top of our Kynooe Joints We’d really love feedback from the community — especially around: - API design - Documentation clarity - Use cases you’d like to see supported Happy to answer any questions!
 
-10h ago
+11h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hey everyone, We’ve been working on a fully modular robot arm called Kynooe, a
 
 This is my first ever robotics project and I don’t have a mentor or anything so don’t be too harsh😂😅 I’m wondering why my XY6020L won’t turn on, the wires are screwed on tight and there should be over 6V of power which is enough to turn on the screen which is my current goal, let me know what is wrong thanks.
 
-2h ago
+3h ago
 
 ---
 
@@ -122,7 +122,7 @@ Fox News • 3d ago
 
 **[Robots learn to ask humans for help](https://www.axios.com/2026/04/01/robots-delivery-serve-tmobile)**
 
-Axios • 2h ago
+Axios • 3h ago
 
 ---
 
@@ -130,7 +130,7 @@ Axios • 2h ago
 
 Robotics training and human research were the primary duties for the Expedition 74 crew aboard the International Space Station on Wednesday. The orbital residents rounded out their shift with spacesuit work, cargo operations, and Earth observations.
 
-NASA (.gov) • 1h ago
+NASA (.gov) • 2h ago
 
 ---
 
@@ -144,13 +144,13 @@ Rest of World • 1d ago
 
 People in Nigeria and India are strapping iPhones onto their heads and recording themselves doing chores.
 
-technologyreview.com • 10h ago
+technologyreview.com • 11h ago
 
 ---
 
 **[Europe Vies to Be Humanoid Robot Leader in Global Tech Race](https://www.bloomberg.com/news/articles/2026-04-01/europe-vies-to-be-humanoid-robot-leader-in-global-tech-race)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -158,7 +158,7 @@ Bloomberg.com • 7h ago
 
 OpenAI signed a new lease on a 202,000-square-foot waterfront site near the Richmond ferry terminal in its first East Bay expansion, and it’s believed the company will be opening a robotics facility there.
 
-sfist.com • 21h ago
+sfist.com • 22h ago
 
 ---
 
@@ -166,7 +166,7 @@ sfist.com • 21h ago
 
 LA CROSSE, Wis. (WLAX/WEUX) – La Crosse will welcome dozens of high school robotics teams from across the region for the 2026 WIN District Seven Rivers Event, part of the 2026 FIRST Robotics Competiti...
 
-yahoo.com • 5h ago
+yahoo.com • 6h ago
 
 ---
 
@@ -212,7 +212,7 @@ Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking
 
 📺 The AI Nexus
 
-👁️ 3K • 👍 127 • 💬 10 • ⏱️ 20:43 • 22h ago
+👁️ 3K • 👍 127 • 💬 10 • ⏱️ 20:43 • 23h ago
 
 ---
 

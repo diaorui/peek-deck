@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-01T21:08:11.330670+00:00'
+updated: '2026-04-01T22:03:03.291773+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 01, 2026 at 21:08 UTC  
+**Last Updated:** April 01, 2026 at 22:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -89,7 +89,7 @@ I plan to buy around 4-5 BTC over the next few months. Maybe do it in 3 chunks. 
 
 $1.32B in net inflows after four straight months of outflows totaling $6.3B
 
-5h ago
+6h ago
 
 ---
 
@@ -97,7 +97,7 @@ $1.32B in net inflows after four straight months of outflows totaling $6.3B
 
 I started accumulating BTC at the end of last year. I live in Brazil and buy 200 to 500 BRL (40 to 95 USD) worth of BTC per month. My initial goal is to reach 0.01 BTC, which I believe is a good goal and I intend to achieve it by the end of the year.
 
-1h ago
+2h ago
 
 ---
 
@@ -105,7 +105,7 @@ I started accumulating BTC at the end of last year. I live in Brazil and buy 200
 
 Bitcoin is edging closer to Wall Street—and now, to municipal finance. New Hampshire is preparing to launch what could be the first Bitcoin-backed municipal bond in the U.S., a $100 million deal that uses bitcoin as collateral instead of taxpayer backing. The structure blends traditional public finance with digital assets to attract capital without putting state funds at risk. The plan, approved in late 2025 and moving toward final sign-off in 2026, signals a new phase for Bitcoin: not just an investment, but collateral inside regulated financial markets.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/hampshire-plans-100m-bitcoin-backed-083438443.html) • 8h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/hampshire-plans-100m-bitcoin-backed-083438443.html) • 9h ago
 
 ---
 
@@ -113,7 +113,7 @@ Bitcoin is edging closer to Wall Street—and now, to municipal finance. New Ham
 
 I have started accumulating btc since 2021, not going out with boys ,even cancelling the trip to Thailand and missing on that thai massage just to accumulate btc, and today finally i have one btc 😭
 
-19h ago
+20h ago
 
 ---
 
@@ -121,7 +121,7 @@ I have started accumulating btc since 2021, not going out with boys ,even cancel
 
 I don't know if it's just me who is thinking that... But Bitcoin feels very strange right now.
 
-14h ago
+15h ago
 
 ---
 
@@ -129,7 +129,7 @@ I don't know if it's just me who is thinking that... But Bitcoin feels very stra
 
 This looks like an early attempt to integrate Bitcoin into traditional public financing rather than just holding it on balance sheet. A US state issuing bonds backed by Bitcoin collateral, with a formal credit rating attached, starts to frame crypto within existing capital market structures instead of outside them. The Ba2 rating signals that institutions still see meaningful risk, but not something entirely uninvestable.
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/moodys-assigns-ba2-rating-new-hampshires-bitcoin-backed-bonds) • 7h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/moodys-assigns-ba2-rating-new-hampshires-bitcoin-backed-bonds) • 8h ago
 
 ---
 
@@ -145,7 +145,7 @@ So I'm 28 and figure this might be my last chance to really swing for the fences
 
 With larger amounts of ETFs, deeper involvement of institutional investors, stronger correlation with macro events (interest rates, geopolitics, etc.), and maturation of the btc market, is this cycle still a thing? Or is this wishful thinking?
 
-6h ago
+7h ago
 
 ---
 
@@ -153,7 +153,7 @@ With larger amounts of ETFs, deeper involvement of institutional investors, stro
 
 Sorry I might ask a dumb question but I always wanted to invest in bitcoin should I start now with everything that s happening in uae . And how to start . I m used to invest on ETF but first time now on bitcoin
 
-9h ago
+10h ago
 
 ---
 
@@ -165,7 +165,7 @@ Sorry I might ask a dumb question but I always wanted to invest in bitcoin shoul
 
 Skepticism remains, as Bloomberg analyst Mike McGlone warns the crypto bubble may be over and bitcoin could still revisit the $10,000 level.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -181,7 +181,7 @@ CoinDesk • 1d ago
 
 Global markets on Wednesday reacted to renewed geopolitical tensions after Donald Trump’s comments on Iran, while Bitcoin moved higher on improving risk sentiment. At the same time, SpaceX’s reported IPO filing boosted optimism around the space sector, and fresh US private hiring data pointed to a…
 
-TradingView • 1h ago
+TradingView • 2h ago
 
 ---
 
@@ -189,7 +189,7 @@ TradingView • 1h ago
 
 Interactive Brokers has launched bitcoin trading for eligible retail investors across the European Economic Area.
 
-bitcoinmagazine.com • 2h ago
+bitcoinmagazine.com • 3h ago
 
 ---
 
@@ -197,7 +197,7 @@ bitcoinmagazine.com • 2h ago
 
 Governments keep printing money. Inflation keeps eating your savings. And Bitcoin keeps getting mentioned as the fix.
 
-Charleston Gazette-Mail • 1h ago
+Charleston Gazette-Mail • 2h ago
 
 ---
 
@@ -205,13 +205,13 @@ Charleston Gazette-Mail • 1h ago
 
 Bitcoin (BTC-USD) rises above $68,000 per token to start off the second quarter of 2026. The cryptocurrency has struggled to break through and hold above the $70,000 benchmark this year so far.Market Catalysts Host Brooke DiPalma takes a closer look at various crypto assets and crypto-related stocks.
 
-finance.yahoo.com • 6h ago
+finance.yahoo.com • 7h ago
 
 ---
 
 **[Bitcoin Holds Gains in Asia After Five-Month Losing Streak Ends](https://www.bloomberg.com/news/articles/2026-04-01/bitcoin-holds-gains-in-asia-after-five-month-losing-streak-ends)**
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 11h ago
 
 ---
 
@@ -253,13 +253,13 @@ Google Research said the necessary resources for quantum computers to break cryp
 
 Bitcoin needs to fix this in the next three years.
 
-⬆️ 4 • 💬 2 • 5h ago • [Mashable](https://mashable.com/article/google-research-bitcoin-cryptography-broken)
+⬆️ 4 • 💬 2 • 6h ago • [Mashable](https://mashable.com/article/google-research-bitcoin-cryptography-broken)
 
 ---
 
 **[Google Paper Warns of Quantum Computing Risk for Bitcoin](https://news.ycombinator.com/item?id=47600418)**
 
-⬆️ 3 • 💬 1 • 7h ago • [wsj.com](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q)
+⬆️ 3 • 💬 1 • 8h ago • [wsj.com](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q)
 
 ---
 
@@ -291,7 +291,7 @@ The first signing system where the private key is a physical key — and can sti
 
 **[Show HN: Live simulation of AI agents scamming each other (and getting caught)](https://news.ycombinator.com/item?id=47595450)**
 
-⬆️ 4 • 💬 0 • 20h ago • [5.161.255.238:8888](http://5.161.255.238:8888)
+⬆️ 4 • 💬 0 • 21h ago • [5.161.255.238:8888](http://5.161.255.238:8888)
 
 ---
 
@@ -333,7 +333,7 @@ DOMINATE THE BOTTOM UNLOCK HUGE BONUS VIDEO ⬇️ JOIN THE WAITLIST NOW ...
 
 📺 Crypto Crew University
 
-👁️ 13K • 👍 1K • 💬 80 • ⏱️ 5:18 • 8h ago
+👁️ 13K • 👍 1K • 💬 80 • ⏱️ 5:18 • 9h ago
 
 ---
 
@@ -363,7 +363,7 @@ Global markets are cracking under war, inflation, and policy failure, but most p
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 68 • ⏱️ 11:45 • 23h ago
+👁️ 20K • 👍 1K • 💬 68 • ⏱️ 11:45 • 1d ago
 
 ---
 
@@ -383,7 +383,7 @@ In this video, I'm breaking down exactly why I've shifted my stance, the "aha" m
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 376 • 💬 26 • ⏱️ 1:03:52 • 5h ago
+👁️ 5K • 👍 376 • 💬 26 • ⏱️ 1:03:52 • 6h ago
 
 ---
 

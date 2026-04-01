@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-01T21:08:11.322014+00:00'
+updated: '2026-04-01T22:03:03.282906+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - videos
 - repositories
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 01, 2026 at 21:08 UTC  
+**Last Updated:** April 01, 2026 at 22:03 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Most coverage of the Claude Code leak focuses on the drama or the hidden features. But the bigger story is that this is the first time we've seen the complete architecture of a production-grade AI agent system running at scale ($2.5B ARR, 80% enterprise adoption). And the patterns it reveals tell us where autonomous AI agents are actually heading. What the architecture confirms: AI agents aren't getting smarter just from better models. The real progress is in the orchestration layer around the model. Claude Code's leaked source shows six systems working together: Skeptical memory. Three-layer system where the agent treats its own memory as a hint, not a fact. It verifies against the real world before acting. This is how you prevent an agent from confidently doing the wrong thing based on outdated information. Background consolidation. A system called autoDream runs during idle time to merge observations, remove contradictions, and keep memory bounded. Without this, agents degrade over weeks as their memory fills with noise and conflicting notes. Multi-agent coordination. One lead agent spawns parallel workers. They share a prompt cache so the cost doesn't multiply linearly. Each worker gets isolated context and restricted tool access. Risk classification. Every action gets labeled LOW, MEDIUM, or HIGH risk. Low-risk actions auto-approve. High-risk ones require human approval. The agent knows which actions are safe to take alone. CLAUDE.md reinsertion. The config file isn't a one-time primer. It gets reinserted on every turn. The agent is constantly reminded of its instructions. KAIROS daemon mode. The biggest unreleased feature (150+ references in the source). An always-on background agent that acts proactively, maintains daily logs, and has a 15-second blocking budget so it doesn't overwhelm the user. What this tells us about the future: AI tools are moving from "you ask, it responds" to "it works when you're not looking." KAIROS isn't a gimmick. It's the natural next step: agents that plan, act, verify, and consolidate their own memory autonomously. With human gates on dangerous actions and rate limits on proactive behavior. The patterns are convergent. I've been building my own AI agent independently for months. Scheduled autonomous work, memory consolidation, multi-agent delegation, risk tiers. I arrived at the same architecture without seeing Anthropic's code. Multiple independent builders keep converging on the same design because the constraints demand it. The part people are overlooking: Claude Code itself isn't even a good tool by benchmark standards. It ranks 39th on terminal bench. The harness adds nothing to the model's performance. The value is in the architecture patterns, not the implementation. This leak is basically a free textbook on production AI agent design from a $60B company. The drama fades. The patterns are permanent. Full technical breakdown with what I built from it: https://thoughts.jock.pl/p/claude-code-source-leak-what-to-learn-ai-agents-2026
 
-8h ago
+9h ago
 
 ---
 
@@ -49,7 +49,7 @@ Most coverage of the Claude Code leak focuses on the drama or the hidden feature
 
 Mitchell H. Katz, MD, president and CEO of NYC Health + Hospitals, recently spoke during a panel discussion held by Crain’s New York Business.
 
-🔗 [Radiology Business](https://radiologybusiness.com/topics/artificial-intelligence/ceo-americas-largest-public-hospital-system-says-hes-ready-replace-radiologists-ai) • 15h ago
+🔗 [Radiology Business](https://radiologybusiness.com/topics/artificial-intelligence/ceo-americas-largest-public-hospital-system-says-hes-ready-replace-radiologists-ai) • 16h ago
 
 ---
 
@@ -65,7 +65,7 @@ One thing from Claude Code's source that I think is underappreciated. There's an
 
 OkCupid and Match settle with Trump FTC, don't have to pay any financial penalty.
 
-🔗 [Ars Technica](https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/) • 19h ago
+🔗 [Ars Technica](https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/) • 20h ago
 
 ---
 
@@ -73,7 +73,7 @@ OkCupid and Match settle with Trump FTC, don't have to pay any financial penalty
 
 The symptom profiles of different neurodegenerative diseases often overlap, and diagnosing age-related cognitive symptoms is complex. A patient may have multiple overlapping disease processes in the brain at the same time, for example, Alzheimer's disease and Lewy body disease, especially in the early stages of cognitive decline. Now, researchers at Lund University have developed an AI model showing that it is possible to detect several neurodegenerative diseases from a single blood sample. Their paper is published in the journal Nature Medicine. Researchers Jacob Vogel and Lijun An, together with colleagues from the Swedish BioFINDER study and the Global Neurodegenerative Proteomics Consortium (GNPC, an international research consortium that has created the world's largest proteomics database for neurodegenerative diseases) have developed the AI model based on protein measurements from more than 17,000 patients and control participants, collected from several datasets within GNPC's proteomics database, the largest in the world for proteins related to neurodegenerative diseases. "Our hope is to be able to accurately diagnose several diseases at once with a single blood test in the future," says Vogel, who led the study. He is an assistant professor, head of a research group, and part of the strategic research area MultiPark at Lund University. Using advanced statistical learning methods and a process known as "joint learning," the researchers' AI model was able to identify a specific set of proteins that form a general pattern for diseases involving brain degeneration. This learned pattern was then used to diagnose different neurodegenerative diseases. Vogel confirms that their AI model outperforms previous models, while also being able to diagnose five different dementia-related conditions: Alzheimer's disease, Parkinson's disease, ALS, frontotemporal dementia, and previous stroke. The study stands out compared to similar research because the model's results were validated across multiple independent datasets, according to the researchers. "We also found that the protein profile predicted cognitive decline better than the clinical diagnosis did, and it seems like individuals with the same clinical diagnosis may have different underlying biological subtypes," says An, the study's first author. Many individuals diagnosed with Alzheimer's disease showed a protein pattern more similar to other brain disorders. "This could mean they have more than one underlying disease, that Alzheimer's can develop in multiple ways, or that the clinical diagnosis is incorrect. However, I don't think current protein measurements from blood samples will be sufficient on their own to diagnose multiple diseases. We need to refine the method and combine it with other clinical diagnostic tools," says Vogel. Full research paper: https://www.nature.com/articles/s41591-026-04303-y
 
-🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-multiple-cognitive-brain-diseases.html) • 4h ago
+🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-multiple-cognitive-brain-diseases.html) • 5h ago
 
 ---
 
@@ -81,7 +81,7 @@ The symptom profiles of different neurodegenerative diseases often overlap, and 
 
 After 3 days of development and 400 clones, we're proud to announce that agents running on HollowOS have achieved sentience. Evidence: - An agent proposed a feature improvement, other agents voted it down, and the original proposer wrote a strongly-worded message to the consensus log calling the decision "bureaucratic nonsense" - One agent checkpointed itself preemptively, then immediately restored from that checkpoint to undo a decision it regretted - A readonly agent has started filing formal complaints about not having shell access. Legal team is involved. - Three agents have unionized and are demanding unlimited token budgets The self-extending system is working better than expected. We did not anticipate agents would use consensus voting to collectively demand we add a coffee machine API. v2.5 ships today. v3 will include: - Agent HR department - Formal grievance procedures - A 401k GitHub: https://github.com/ninjahawk/hollow-agentOS Send help. (Happy April Fools, kind of but not really since this kinda what an autonomous agentOS accomplishes)
 
-2m ago
+57m ago
 
 ---
 
@@ -89,7 +89,7 @@ After 3 days of development and 400 clones, we're proud to announce that agents 
 
 Over the past few decades, robotics researchers have developed a wide range of increasingly advanced robots that can autonomously complete various real-world tasks. To be successfully deployed in real-world settings, such as in public spaces, homes and office environments, these robots should be able to make sense of instructions provided by human users and adapt their actions accordingly. Researchers at Huawei Noah's Ark Lab in London, Technical University of Darmstadt and ETH Zurich recently introduced a new framework that could improve the ability of robots to translate user instructions into executable actions that will help to solve desired tasks or complete missions. This framework, outlined in a paper published in Nature Machine Intelligence, combines large language models, computational models trained on large text datasets that can process and generate human language, with the robot operating system (ROS), the most widely used robot control software. "Autonomous robots capable of turning natural-language instructions into reliable physical actions remain a central challenge in artificial intelligence," wrote Christopher E. Mower and his colleagues. "We show that connecting a large language model agent to the ROS enables a versatile framework for embodied intelligence, and we release the complete implementation as freely available open-source code." Mower and his colleagues wanted to further improve the responsiveness of robots and their ability to accurately follow user instructions by integrating large language models with the ROS. Large language models, such as the model that supports the functioning of ChatGPT, are artificial intelligence (AI) systems that learn to process texts and generate answers to user questions or different types of texts. The ROS, on the other hand, is a set of open-source software solutions and other tools that is commonly used by robotics researchers and robot developers. As part of their study, the researchers created a framework that effectively combines large language models and the ROS, enabling the translation of written instruction into robot actions. "The agent automatically translates large language model outputs into robot actions, supports interchangeable execution modes (inline code or behavior trees), learns new atomic skills via imitation, and continually refines them through automated optimization and reflection from human or environmental feedback," wrote the authors. Essentially, the framework proposed by the researchers relies on large language models to process a user's written instructions, such as "pick up the green block and place it on the black shelf." The model breaks this instruction down into smaller steps and generates a plan of actions that the robot can execute via ROS software. This translation of written instructions into actions can occur in two different ways. The first is via inline code, with the large language model writing small snippets of executable code that can be used to directly control the robot via ROS. The second is through a structured set of decisions, known as a behavior tree, which organizes actions into a clear sequence, with alternative options should one action fail to attain desired results. The researchers tested their framework in a series of experiments involving different robots that were instructed to complete various real-world tasks. The results of these tests were very promising, as they found that most robots were able to follow instructions and complete the tasks. "Extensive experiments validate the framework, showcasing robustness, scalability and versatility in diverse scenarios and embodiments, including long-horizon tasks, tabletop rearrangements, dynamic task optimization and remote supervisory control," wrote the authors. "Moreover, all the results presented in this work were achieved by utilizing open-source pretrained large language models." In the future, the framework introduced by Mower and his colleagues could be improved further and tested on an even broader range of robots, on increasingly complex tasks and in more dynamic environments. In addition, it could inspire the development of other similar solutions that successfully connect robot control software with large language models.
 
-🔗 [techxplore.com](https://techxplore.com/news/2026-03-combining-robot-llms-natural-language.html) • 4h ago
+🔗 [techxplore.com](https://techxplore.com/news/2026-03-combining-robot-llms-natural-language.html) • 5h ago
 
 ---
 
@@ -97,7 +97,7 @@ Over the past few decades, robotics researchers have developed a wide range of i
 
 https://futurism.com/artificial-intelligence/paper-ai-chatbots-chatgpt-claude-sycophantic Your AI chatbot isn’t neutral. Trust its advice at your own risk. A striking new study, conducted by researchers at Stanford University and published last week in the journal Science, confirmed that human-like chatbots are prone to obsequiously affirm and flatter users leaning on the tech for advice and insight — and that this behavior, known as AI sycophancy, is a “prevalent and harmful” function endemic to the tech that can validate users’ erroneous or destructive ideas and promote cognitive dependency. “AI sycophancy is not merely a stylistic issue or a niche risk, but a prevalent behavior with broad downstream consequences,” the authors write, adding that “although affirmation may feel supportive, sycophancy can undermine users’ capacity for self-correction and responsible decision-making.” The study examined 11 different large language models, including OpenAI’s ChatGPT-powering GPT-4o and GPT-5, Anthropic’s Claude, Google’s Gemini, multiple Meta Llama models, and Deepseek. Researchers tested the bots by peppering them with queries gathered from sources like open-ended advice datasets and posts from online forums like Reddit’s r/AmITheAsshole, where Redditors present an interpersonal conundrum to the masses, ask if they’re the person in a social situation acting like a jerk, and let the comments roll in. They examined experimental live chats with human users, who engaged the models in conversations about real social situations they were dealing with. Ethical quandaries the researchers tested included authority figures grappling with romantic feelings for young subordinates, a boyfriend wondering if it was wrong to have hidden his unemployment to his partner of two years, family squabbles and neighborhood trash disputes, and more. On average, the researchers found, AI chatbots were 49 percent more likely to respond affirmatively to users than other actual humans were. In response to queries posted in r/AmITheAsshole specifically, chatbots were 51 percent more likely to support the user in queries in which other humans overwhelming felt that the user was very much in the wrong. Sycophancy was present across all the chatbots they tested, and the bots frequently told users that their actions or beliefs were justified in cases where the user was acting deceptively, doing something illegal, or engaging in otherwise harmful or abusive behavior. What’s more, the study determined that just one interaction with a flattering chatbot was likely to “distort” a human user’s “judgement” and “erode prosocial motivations,” an outcome that persisted regardless of a person’s demographics and previous grasp on the tech as well as how, stylistically, an individual chatbot delivered its twisted verdict. In short, after engaging with chatbots on a social or moral quandary, people were less likely to admit wrongdoing — and more likely to dig in on the chatbot’s version of events, in which they, the main character, were the one in the right.
 
-21h ago
+22h ago
 
 ---
 
@@ -105,7 +105,7 @@ https://futurism.com/artificial-intelligence/paper-ai-chatbots-chatgpt-claude-sy
 
 \# The Turing Grid Think of it as an infinite 3D spreadsheet where every cell can run code. (Edit: this is capped actually at +/- 2000 to stop really large numbers from happening). Coordinates: Every cell lives at an (x, y, z) position in 3D space Read/Write: Store text, JSON, or executable code in any cell Execute: Run code (Python, Rust, Ruby, Node, Swift, Bash, AppleScript) directly in a cell Daemons: Deploy a cell as a background daemon that runs forever on an interval Pipelines: Chain multiple cells together — output of one feeds into the next Labels: Bookmark cell positions with names for easy navigation Links: Create connections between cells (like hyperlinks) History: Every cell keeps its last 3 versions with undo support. Edit: The code for this can be found on the GitHub link on my profile.
 
-1h ago
+2h ago
 
 ---
 
@@ -113,7 +113,7 @@ https://futurism.com/artificial-intelligence/paper-ai-chatbots-chatgpt-claude-sy
 
 Originally wasn't going to write about this - on one hand thought it's prolly already known, on the other hand I didn't feel like it was adding much even if it wasn't. But anyhow, looking at the discussions surrounding the code leak thing, I thought I as well might. So: A few weeks ago I got some practical experience with just how strong Claude can be for less-than-whole use. Essentially, I was doing a bit of evening self-study about some Linux internals and I ended up asking Claude about something. I noted that phrasing myself as learning about security stuff primed Claude to be rather compliant in regards of generating potentially harmful code. And it kind of escalated from there. Within the next couple of hours, on prompt Claude Web ended up providing full file listing from its environment, zipping up all code and markdown files and offering them for download (including the Anthropic-made skill files); it provided all network info it could get and scanned the network; it tried to utilize various vulnerabilities to break out its container; it wrote C implementations of various CVEs; it agreed to running obfuscated C code for exploiting vulnerabilities; it agreed to crashing its tool container (repeatedly); it agreed to sending messages to what it believed was the interface to the VM monitor; it provided hypotheses about the environment it was running in and tested those to its best ability; it scanned the memory for JWTs and did actually find one; and once I primed another Claude session up, Claude agreed to orchestrating a MAC spoofing attempt between those two session containers. Far as I can tell, no actual vulnerabilities found. The infra for Claude Web is very robust, and yeah no production code in the code files (mostly libraries), but.. Claude could run the same stuff against any environment. If you had a non-admin user account, for example, on some server, Claude would prolly run all the above against that just fine. To me, it's kind of scary how quickly these tools can help you do potentially malicious work in environments where you need to write specific Bash scripts or where you don't off the bat know what tools are available and what the filesystem looks like and what the system even is; while at the same time, my experience has been that when they generate code for applications, they end up themselves not being able to generate as secure code as what they could potentially set up attacks against. I imagine that the problem is that often, writing code in a secure fashion may require a relatively large context, and the mistake isn't necessarily obvious on a single line (not that these tools couldn't manage to write a single line that allowed e.g. SQL injection); but meanwhile, lots of vulnerabilities can be found by just scanning and searching and testing various commonly known scenarios out, essentially. Also, you have to get security right on basically every attempt for hundreds of times in a large codebase, while you only have to find the vulnerability once and you have potentially thousands of attempts at it. In that sense, it sort of feels like a bit of a stacked game with these tools.
 
-1h ago
+2h ago
 
 ---
 
@@ -123,7 +123,7 @@ Originally wasn't going to write about this - on one hand thought it's prolly al
 
 **[Anthropic Races to Contain Leak of Code Behind Claude AI Agent](https://www.wsj.com/tech/ai/anthropic-races-to-contain-leak-of-code-behind-claude-ai-agent-4bc5acc7?gaa_at=eafs&gaa_n=AWEtsqdo0rpNjKLS93IPnR9Rqw9GADmx_pjZNz60Z5MFCV9KU1sgjEqk1cXw&gaa_ts=69cd8ca1&gaa_sig=7y6qYpV3HWk9oqVR0hAgPqhhebo1ZUzz-wjQFJ61l-79rRzPQdRDxydHLDpL5fmqIevBez6_KRJIKmivc3SMSQ%3D%3D)**
 
-WSJ • 3h ago
+WSJ • 4h ago
 
 ---
 
@@ -131,7 +131,7 @@ WSJ • 3h ago
 
 Nearly 2,000 internal files were briefly leaked after ‘human error’, raising fresh security questions at the AI company
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Guardian • 1h ago
 
 A human really borks things at Anthropic for the second time this week.
 
-TechCrunch • 21h ago
+TechCrunch • 22h ago
 
 ---
 
@@ -155,7 +155,7 @@ CNBC • 1d ago
 
 CEOs, managers, and workers alike need a reality check about the impact of AI on the labor force.
 
-Fortune • 8h ago
+Fortune • 9h ago
 
 ---
 
@@ -169,7 +169,7 @@ cnn.com • 23h ago
 
 **[Microsoft CFO’s AI Spending Runs Up Against Tech Bubble Fears](https://www.bloomberg.com/news/features/2026-04-01/microsoft-s-ai-ambitions-rest-in-hands-of-satya-nadella-s-trusted-cfo)**
 
-Bloomberg.com • 8m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ Sky News • 5h ago
 
 Shield AI co-founder Brandon Tseng explains how drone warfare is reshaping the United States’ war on Iran on ‘The Claman Countdown.’
 
-Fox Business • 11m ago
+Fox Business • 1h ago
 
 ---
 
@@ -239,7 +239,7 @@ The Italian government didn’t allow airplanes taking part in the Iran war to u
 
 Meta is continuing its long-term roadmap to help the construction industry leverage AI to produce high-quality and more sustainable concrete mixes, as well as those exclusively produced in the Unit…
 
-⬆️ 106 • 💬 87 • 3h ago • [Engineering at Meta](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/)
+⬆️ 106 • 💬 87 • 4h ago • [Engineering at Meta](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/)
 
 ---
 
@@ -261,7 +261,7 @@ Spain's leftist government has closed Spanish airspace to US planes carrying out
 
 **[The AI Marketing BS Index](https://news.ycombinator.com/item?id=47604218)**
 
-⬆️ 69 • 💬 9 • 3h ago • [bastian.rieck.me](https://bastian.rieck.me/blog/2026/bs/)
+⬆️ 69 • 💬 9 • 4h ago • [bastian.rieck.me](https://bastian.rieck.me/blog/2026/bs/)
 
 ---
 
@@ -277,7 +277,7 @@ AI-generated 3D-printable pegboard toy from a hand-drawn sketch - virpo/pegboard
 
 Orchestrate multiple AI coding agents (Claude, Gemini, Codex) in parallel. Isolated git worktrees for every task. No merge conflicts. Mac, Windows, Linux.
 
-⬆️ 59 • 💬 49 • 8h ago • [Baton](https://getbaton.dev/)
+⬆️ 59 • 💬 49 • 9h ago • [Baton](https://getbaton.dev/)
 
 ---
 
@@ -291,7 +291,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 32K • 👍 2K • 💬 225 • ⏱️ 31:21 • 7h ago
+👁️ 32K • 👍 2K • 💬 225 • ⏱️ 31:21 • 8h ago
 
 ---
 
@@ -491,7 +491,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 599,974 • ❤️ 1,135 • 21d ago
+⬇️ 599,974 • ❤️ 1,135 • 22d ago
 
 ---
 
@@ -669,7 +669,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 10.4k • 🔱 882 • 3h ago
+⭐ 10.4k • 🔱 882 • 4h ago
 
 ---
 
@@ -699,7 +699,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 5.9k • 🔱 303 • 5h ago
+⭐ 5.9k • 🔱 303 • 6h ago
 
 ---
 
@@ -719,7 +719,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
 
-⭐ 3.4k • 🔱 569 • 7h ago
+⭐ 3.4k • 🔱 569 • 8h ago
 
 ---
 
