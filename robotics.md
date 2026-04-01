@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-01T10:58:19.698557+00:00'
+updated: '2026-04-01T11:56:42.106666+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 01, 2026 at 10:58 UTC  
+**Last Updated:** April 01, 2026 at 11:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 To learn more about running OpenClaw and ROS robotics, checkout AgenticROS https://agenticros.com
 
-15h ago
+16h ago
 
 ---
 
@@ -44,7 +44,7 @@ To learn more about running OpenClaw and ROS robotics, checkout AgenticROS https
 
 https://reddit.com/link/1s8tt6j/video/miswsbmylfsg1/player Hey - spent the last year building PhAIL (physical AI leaderboard). I wanted to answer a simple question: how good are robot AI models on actual work, not demos PhAIL runs models on a real robot doing bin-to-bin picking and measures: throughput (units/hour) reliability (time between failures) everything is public: full videos of every run telemetry + logs fine-tuning dataset + training scripts link: https://phail.ai Genuinely curious what you think. What’s useful here, what’s missing. Please share your feedback.
 
-17h ago
+18h ago
 
 ---
 
@@ -52,7 +52,7 @@ https://reddit.com/link/1s8tt6j/video/miswsbmylfsg1/player Hey - spent the last 
 
 https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printed parts, motorized projector, home decoration, and DIY electronics -- if you know of anyone else that might be interested in this stuff, sharing to others would really help me out! Hope to see you around here or YouTube :)
 
-16h ago
+17h ago
 
 ---
 
@@ -60,13 +60,13 @@ https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printe
 
 All M5Stack components. Mecanum four motor buggy, StickCPlus onboard controller TOF sensor scanning on a servo. Autonomous. Source code available if you are interested.
 
-13h ago
+14h ago
 
 ---
 
 **[BabaCAD Robotics Web v2.1](https://www.reddit.com/r/robotics/comments/1s8v9by/babacad_robotics_web_v21/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -74,7 +74,7 @@ All M5Stack components. Mecanum four motor buggy, StickCPlus onboard controller 
 
 I am having a lot of trouble choosing a masters/phd program. I am looking to go into robotics and have 3 options to choose from. For reference I am from North America and went to a top undergrad school here. Option A is overseas in asia but it is REALLYYY well funded but I don't think my research direction is exactly aligned with my supervisor's background so I am worried about this. I have the flexibility to study whatever I want but I also want to make sure I get good guidance. The city here is also really good and I'd enjoy living here based on past visits. Option B: The other is a MS at a top university in the US. It isn't funded but the PI's research direction and mine align perfectly. There's an option to transfer to phd but can't say anything for sure now. Also the city is peak imo. Option C: The last option is a lower prestige american uni but the PI is a perect fit as well in terms of research direction and really nice and supportive. The funding is also only gaurenteed for the first year and is uncertain for subsequent years. It is likely gonna be fine but technically it is uncertain (depends if the grants come through). Though the location of the school isn't ideal and I am worried about living there in the American south. I am stuck between doing reserch I like and living a life I want during my youth. I am so torn and don't know how to decide :( My end goal is to get a phd because i love research but I wouldn't mind getting a masters, working for a bit in some industry research and coming back as well. I am open. Ideally I wanna work in a R&D research position in robotics companies. Into humanoids these days and specifically humanoid safety
 
-7h ago
+8h ago
 
 ---
 
@@ -128,7 +128,7 @@ Rest of World • 1d ago
 
 **[Humanoid Robots Offer Europe Path to Stay in Global Tech Race](https://www.bloomberg.com/news/articles/2026-04-01/europe-vies-to-be-humanoid-robot-leader-in-global-tech-race)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -136,7 +136,7 @@ Bloomberg.com • 3h ago
 
 China has opened a new humanoid robot line in Guangdong that is reportedly built to produce 10,000 units a year.
 
-Interesting Engineering • 22h ago
+Interesting Engineering • 23h ago
 
 ---
 
@@ -144,7 +144,7 @@ Interesting Engineering • 22h ago
 
 Spray paint is daubed over robots used by food delivery company Uber Eats in Meersbrook.
 
-BBC • 23h ago
+BBC • 1d ago
 
 ---
 
@@ -232,7 +232,7 @@ Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking
 
 📺 The AI Nexus
 
-👁️ 2K • 👍 99 • 💬 7 • ⏱️ 20:43 • 12h ago
+👁️ 2K • 👍 99 • 💬 7 • ⏱️ 20:43 • 13h ago
 
 ---
 
@@ -242,7 +242,7 @@ THANK YOU SO MUCH for watching S3dV's Pacman!!! Music & Sound: Epidemic Sound I 
 
 📺 S3dV
 
-👁️ 9K • 👍 24 • 5h ago
+👁️ 9K • 👍 24 • 6h ago
 
 ---
 
