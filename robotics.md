@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-01T09:46:07.554637+00:00'
+updated: '2026-04-01T10:58:19.698557+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 01, 2026 at 09:46 UTC  
+**Last Updated:** April 01, 2026 at 10:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 To learn more about running OpenClaw and ROS robotics, checkout AgenticROS https://agenticros.com
 
-14h ago
+15h ago
 
 ---
 
@@ -44,7 +44,7 @@ To learn more about running OpenClaw and ROS robotics, checkout AgenticROS https
 
 https://reddit.com/link/1s8tt6j/video/miswsbmylfsg1/player Hey - spent the last year building PhAIL (physical AI leaderboard). I wanted to answer a simple question: how good are robot AI models on actual work, not demos PhAIL runs models on a real robot doing bin-to-bin picking and measures: throughput (units/hour) reliability (time between failures) everything is public: full videos of every run telemetry + logs fine-tuning dataset + training scripts link: https://phail.ai Genuinely curious what you think. What’s useful here, what’s missing. Please share your feedback.
 
-16h ago
+17h ago
 
 ---
 
@@ -52,7 +52,7 @@ https://reddit.com/link/1s8tt6j/video/miswsbmylfsg1/player Hey - spent the last 
 
 https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printed parts, motorized projector, home decoration, and DIY electronics -- if you know of anyone else that might be interested in this stuff, sharing to others would really help me out! Hope to see you around here or YouTube :)
 
-15h ago
+16h ago
 
 ---
 
@@ -60,13 +60,13 @@ https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printe
 
 All M5Stack components. Mecanum four motor buggy, StickCPlus onboard controller TOF sensor scanning on a servo. Autonomous. Source code available if you are interested.
 
-12h ago
+13h ago
 
 ---
 
 **[BabaCAD Robotics Web v2.1](https://www.reddit.com/r/robotics/comments/1s8v9by/babacad_robotics_web_v21/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -74,7 +74,7 @@ All M5Stack components. Mecanum four motor buggy, StickCPlus onboard controller 
 
 I am having a lot of trouble choosing a masters/phd program. I am looking to go into robotics and have 3 options to choose from. For reference I am from North America and went to a top undergrad school here. Option A is overseas in asia but it is REALLYYY well funded but I don't think my research direction is exactly aligned with my supervisor's background so I am worried about this. I have the flexibility to study whatever I want but I also want to make sure I get good guidance. The city here is also really good and I'd enjoy living here based on past visits. Option B: The other is a MS at a top university in the US. It isn't funded but the PI's research direction and mine align perfectly. There's an option to transfer to phd but can't say anything for sure now. Also the city is peak imo. Option C: The last option is a lower prestige american uni but the PI is a perect fit as well in terms of research direction and really nice and supportive. The funding is also only gaurenteed for the first year and is uncertain for subsequent years. It is likely gonna be fine but technically it is uncertain (depends if the grants come through). Though the location of the school isn't ideal and I am worried about living there in the American south. I am stuck between doing reserch I like and living a life I want during my youth. I am so torn and don't know how to decide :( My end goal is to get a phd because i love research but I wouldn't mind getting a masters, working for a bit in some industry research and coming back as well. I am open. Ideally I wanna work in a R&D research position in robotics companies. Into humanoids these days and specifically humanoid safety
 
-6h ago
+7h ago
 
 ---
 
@@ -96,7 +96,7 @@ I’ve been learning ROS2 for a while, mostly by following tutorials and running
 
 From Humanoids daily on 𝕏: https://x.com/humanoidsdaily/status/2038191948637282608 Source Shawn Ryan on 𝕏: https://x.com/ShawnRyan762/status/2037583712443887991
 
-1d ago
+2d ago
 
 ---
 
@@ -120,15 +120,15 @@ Euronews.com • 3d ago
 
 ---
 
-**[Europe Vies to Be Humanoid Robot Leader in Global Tech Race](https://www.bloomberg.com/news/articles/2026-04-01/europe-vies-to-be-humanoid-robot-leader-in-global-tech-race)**
+**[The world’s largest humanoid robot maker is going public](https://restofworld.org/2026/unitree-china-humanoid-robot-shanghai-ipo/)**
 
-Bloomberg.com • 2h ago
+Rest of World • 1d ago
 
 ---
 
-**[The world’s largest humanoid robot maker is going public](https://restofworld.org/2026/unitree-china-humanoid-robot-shanghai-ipo/)**
+**[Humanoid Robots Offer Europe Path to Stay in Global Tech Race](https://www.bloomberg.com/news/articles/2026-04-01/europe-vies-to-be-humanoid-robot-leader-in-global-tech-race)**
 
-Rest of World • 23h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -136,15 +136,7 @@ Rest of World • 23h ago
 
 China has opened a new humanoid robot line in Guangdong that is reportedly built to produce 10,000 units a year.
 
-Interesting Engineering • 21h ago
-
----
-
-**[Amazon buys Fauna Robotics, maker of the Sprout humanoid robot that can dance, pick up toys, and go on a stroll](https://fortune.com/2026/03/29/amazon-acquisition-fauna-robotics-sprout-humanoid-robot-homes-schools-disney/)**
-
-Early customers included Disney.
-
-Fortune • 2d ago
+Interesting Engineering • 22h ago
 
 ---
 
@@ -152,7 +144,7 @@ Fortune • 2d ago
 
 Spray paint is daubed over robots used by food delivery company Uber Eats in Meersbrook.
 
-BBC • 21h ago
+BBC • 23h ago
 
 ---
 
@@ -184,6 +176,12 @@ Fast Company • 1d ago
 
 ---
 
+**[Q&A: Robots can't feel, but novel sensors could change that](https://techxplore.com/news/2026-03-qa-robots-sensors.html)**
+
+Tech Xplore • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -194,7 +192,17 @@ Brett Adcock is a technology entrepreneur focused on building companies in robot
 
 📺 Shawn Ryan Show
 
-👁️ 363K • 👍 8K • 💬 3K • ⏱️ 2:57:09 • 1d ago
+👁️ 370K • 👍 8K • 💬 3K • ⏱️ 2:57:09 • 1d ago
+
+---
+
+**[“It’s the Jetsons” - This is the Future of Humanoid Robots](https://www.youtube.com/watch?v=u4NLSzMP8z0)**
+
+Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join Support the Shawn ...
+
+📺 Shawn Ryan Clips
+
+👁️ 9K • 👍 293 • 💬 127 • ⏱️ 15:18 • 1d ago
 
 ---
 
@@ -208,16 +216,6 @@ Melania Trump suggested using humanoid AI robots like a “Plato” educator to 
 
 ---
 
-**[Xiaomi’s New AI Robot Hand Works Like a REAL Human… This Is INSANE](https://www.youtube.com/watch?v=Ubpk3tOl9gw)**
-
-Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking it's human — and that's just the START of what's ...
-
-📺 The AI Nexus
-
-👁️ 1K • 👍 89 • 💬 7 • ⏱️ 20:43 • 11h ago
-
----
-
 **[First Lady Melania Trump walks with robot to White House event on children&#39;s technology](https://www.youtube.com/watch?v=7sHSBgU5p4Y)**
 
 A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White House summit on empowering children with ...
@@ -228,33 +226,23 @@ A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White H
 
 ---
 
-**[“It’s the Jetsons” - This is the Future of Humanoid Robots](https://www.youtube.com/watch?v=u4NLSzMP8z0)**
+**[Xiaomi’s New AI Robot Hand Works Like a REAL Human… This Is INSANE](https://www.youtube.com/watch?v=Ubpk3tOl9gw)**
 
-Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join Support the Shawn ...
+Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking it's human — and that's just the START of what's ...
 
-📺 Shawn Ryan Clips
+📺 The AI Nexus
 
-👁️ 8K • 👍 291 • 💬 126 • ⏱️ 15:18 • 1d ago
-
----
-
-**[The Real-Life Future of Humanoid Robots](https://www.youtube.com/watch?v=ktwtZNKDV0E)**
-
-Brett Adcock shares his vision for the future of humanoid robots, why he believes synthetic humans will become one of the most ...
-
-📺 Shawn Ryan Show
-
-👁️ 69K • 👍 2K • 💬 659 • ⏱️ 14:05 • 4d ago
+👁️ 2K • 👍 99 • 💬 7 • ⏱️ 20:43 • 12h ago
 
 ---
 
-**[Shocking moment robot slaps boy in the face during dance show in China](https://www.youtube.com/watch?v=B9NUDkOvBvI)**
+**[PACMAN AND ROBOT PACMAN VS MONSTER ROBOTS BEST ADVENTURES IN 2024 live edition](https://www.youtube.com/watch?v=tGHaOaS59ok)**
 
-This is the shocking moment a young boy is slapped across the face by a rogue robot in China. The machine appears to be a G1 ...
+THANK YOU SO MUCH for watching S3dV's Pacman!!! Music & Sound: Epidemic Sound I have a licence: ...
 
-📺 The Sun
+📺 S3dV
 
-👁️ 44K • 👍 335 • 💬 277 • ⏱️ 1:09 • 6d ago
+👁️ 9K • 👍 24 • 5h ago
 
 ---
 
@@ -268,23 +256,33 @@ Amazon just made a surprising move into humanoid robotics by acquiring Fauna Rob
 
 ---
 
-**[Viral robot appearances on the rise as White House hosts humanoid robot](https://www.youtube.com/watch?v=CDbSdaiEdyQ)**
+**[Shocking moment robot slaps boy in the face during dance show in China](https://www.youtube.com/watch?v=B9NUDkOvBvI)**
 
-Humanoid robots have been making appearances through social media, tv segments, and at the latest White House summit.
+This is the shocking moment a young boy is slapped across the face by a rogue robot in China. The machine appears to be a G1 ...
 
-📺 NBC News
+📺 The Sun
 
-👁️ 96K • 👍 552 • 💬 373 • ⏱️ 3:05 • 6d ago
+👁️ 44K • 👍 336 • 💬 277 • ⏱️ 1:09 • 6d ago
 
 ---
 
-**[Melania Trump walks with AI humanoid robot](https://www.youtube.com/watch?v=Kfy9l8ZdyyI)**
+**[The Real-Life Future of Humanoid Robots](https://www.youtube.com/watch?v=ktwtZNKDV0E)**
 
-First lady Melania Trump entered the East Room of the White House on Wednesday alongside an AI-powered humanoid robot, ...
+Brett Adcock shares his vision for the future of humanoid robots, why he believes synthetic humans will become one of the most ...
 
-📺 C-SPAN
+📺 Shawn Ryan Show
 
-👁️ 30K • 👍 346 • 💬 229 • ⏱️ 2:58 • 6d ago
+👁️ 69K • 👍 2K • 💬 660 • ⏱️ 14:05 • 4d ago
+
+---
+
+**[Humanoid robot ‘Figure 3’ appears alongside Melania Trump](https://www.youtube.com/watch?v=GVFi0eUMhoM)**
+
+A humanoid robot named "Figure 3" walked alongside Melania Trump as she opened a global summit in Washington, drawing ...
+
+📺 Global News
+
+👁️ 28K • 👍 195 • 💬 77 • ⏱️ 0:47 • 5d ago
 
 ---
 
