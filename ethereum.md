@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-01T08:20:09.466843+00:00'
+updated: '2026-04-01T09:46:07.551451+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 01, 2026 at 08:20 UTC  
+**Last Updated:** April 01, 2026 at 09:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +5.7%  
-**7d:** +3.3%  
-**30d:** +7.3%  
-**90d:** -31.9%  
-**1y:** +18.6%  
+**24h:** +5.1%  
+**7d:** +3.4%  
+**30d:** +7.4%  
+**90d:** -31.8%  
+**1y:** +18.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 If you are trying to buy ZCHF, you might not find it on normal crypto apps. It is not listed on big exchanges, so it can feel confusing at first. Most people buy it from Uniswap on Ethereum. That’s where you will usually find better trading activity. Sometimes it is also available on Curve, but it depends on how much liquidity is there. How to buy ZCHF The process is simple once you understand it. You need a wallet like MetaMask and some ETH in it for fees. Then you connect your wallet to Uniswap and swap your tokens for ZCHF. Before you confirm, just check the price and details once. In DeFi, there is no support if something goes wrong, so it’s better to go slow and be careful.
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ If you are trying to buy ZCHF, you might not find it on normal crypto apps. It i
 
 Google just moved the quantum threat from decades away to 2029. Taproot exposed 6.9 million Bitcoin. Ethereum launched a seven-fork roadmap. Bitcoin has BIP-360 and a mailing list. Here's what that difference means.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/google-quantum-deadline-2029-ethereum-plan-bitcoin-culture-war/) • 23h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/google-quantum-deadline-2029-ethereum-plan-bitcoin-culture-war/) • 1d ago
 
 ---
 
@@ -96,7 +96,7 @@ Google just moved the quantum threat from decades away to 2029. Taproot exposed 
 
 Hello everyone! I've built a tool to help recover ETH stuck in old smart contracts that no longer have frontends. Portfolio trackers like Debank and Zerion don't index these balances. 116 contracts, 76,000+ ETH, 516k depositors with claimable balance. Idex, Etherdelta, DigixDAO, PoWH3D, ENS old registrar, Fomo3d, MoonCatRescue, to name a few. One address alone has 10,000 ETH locked in the old ENS registrar deeds - a deposit from a name auction on governx.eth that was never released. Even Vitalik has 75 ETH to claim! Most of these addresses are dormant, but if you were active on Etheruem between 2015-2019, check your address at https://forgotteneth.com Twitter thread It scans all 116 contracts and crafts the withdrawal transaction(s) for you. https://preview.redd.it/2rv0j4bq7esg1.png?width=2236&format=png&auto=webp&s=0f5c26c5306475ba4de4325cbae72757b3738f05
 
-17h ago
+18h ago
 
 ---
 
@@ -110,13 +110,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Launching Project on Base](https://www.reddit.com/r/ethereum/comments/1s99k1a/launching_project_on_base/)**
 
-4h ago
+6h ago
 
 ---
 
 **[I'm making hey.eth a public, free identity layer for everyone. Agents are able to get their own ENS in <10s. Building open source infra for agentic payments using State Channels.](https://www.reddit.com/r/ethereum/comments/1s8o4zh/im_making_heyeth_a_public_free_identity_layer_for/)**
 
-🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2038977772312272942) • 18h ago
+🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2038977772312272942) • 19h ago
 
 ---
 
@@ -132,7 +132,7 @@ ZCHF is a decentralized stablecoin that is designed to track the value of the Sw
 
 With all the discussion around L2 fragmentation lately (EEZ announcement, Superchain, AggLayer), I wanted to share something I've been working on that addresses the problem from a different angle. The issue: every rollup ships its own proof system - Groth16, STARK, Plonk, Halo2, Nova - each needing a separate on-chain verifier at 200k+ gas. Some require trusted setup ceremonies. GLYPH is a universal transparent verification layer that compiles any proof into a common intermediate representation (UCIR) and verifies it through a single on-chain contract. What it does: - Verifies any major proof system through one verifier - <30k gas per on-chain verification (~7.5x cheaper than Groth16 alone) - No trusted setup - fully transparent - Supported: Groth16, KZG, IPA, Plonk, Halo2, STARK (Winterfell, Miden, Cairo/Stone, Circle STARK, Stwo), Nova/HyperNova/Sangria/SuperNova (IVC), SP1, Plonky2/3, Binius How it works: - Packed arity-8 sumcheck over p = 2^128 - 159 - Chain-bound Keccak256 Fiat-Shamir challenges - BaseFold PCS - On-chain verifier in pure Solidity assembly - Formal proof pack with soundness bound ~1.88 x 10^-37 Tested on Sepolia + Hoodi. Benchmarks included and reproducible. Everything is open source under MIT: - Full Paper: https://doi.org/10.5281/zenodo.18792566 https://hackmd.io/@ChristopherSchulze/glyph-zk - Code: https://github.com/Christopher-Schulze/glyph-zk I know the on-chain assembly verifier needs a proper audit before anyone touches it in production - that's on the roadmap. Would love feedback from the community. Happy to answer any questions about the architecture or design decisions.
 
-22h ago
+1d ago
 
 ---
 
@@ -156,11 +156,33 @@ Decrypt • 2d ago
 
 ---
 
+**[Bitcoin, Ethereum, XRP, Dogecoin Recover As Iran Signals Willingness To End Hostilities - Grayscale Bitco](https://www.benzinga.com/crypto/cryptocurrency/26/03/51583872/bitcoin-ethereum-xrp-dogecoin-recover-as-iran-signals-willingness-to-end-hostilities)**
+
+Bitcoin and other major cryptocurrencies regained some losses on Tuesday after Iran signaled a willingness to pursue peace talks.
+
+Benzinga • 13h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Jump. But Cryptos Are Failing to Match Stocks’ Trump Bump.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-stock-markets-0abd943d?gaa_at=eafs&gaa_n=AWEtsqfOc82aKY9PVWHmrnWGlQKL5C2NOKAAB2r9HFYDT3BZV83LB639Vuz9&gaa_ts=69ccecc9&gaa_sig=SrL1Ns97CB_5UJvftML4l2A_mIuav7wi1rbwSVd0jrtWMCgIhQj78FC591tCsFKPD5c8IkAaeEzmk6tPUvj2QA%3D%3D)**
+
+Barron's • 44m ago
+
+---
+
+**[Ethereum Is Flashing a Warning Signal Most Holders Are Ignoring – Here Is What It Says](https://www.tradingview.com/news/newsbtc:a65555c59094b:0-ethereum-is-flashing-a-warning-signal-most-holders-are-ignoring-here-is-what-it-says/)**
+
+Ethereum is holding around $2,000. The level looks like support. The data beneath it suggests the market is not yet being compensated for the risk of being here.A CryptoQuant report tracking risk-adjusted performance on Binance has identified a reading that holders should not dismiss: Ethereum’s Sh…
+
+tradingview.com • 1h ago
+
+---
+
 **[Google warns five quantum attack paths could put $100 billion on Ethereum at risk](https://www.coindesk.com/tech/2026/03/31/google-warns-five-quantum-attack-paths-could-put-usd100-billion-on-ethereum-at-risk)**
 
 A 57-page whitepaper identifies how future quantum computers could target Ethereum's wallets, smart contracts, staking system, Layer 2 networks and data verification layer, with combined exposure exceeding $100 billion.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -168,13 +190,13 @@ CoinDesk • 20h ago
 
 Google parent company Alphabet (NASDAQ: $GOOGL) is warning that $100 billion U.S. of Ethereum (CRYPTO: $ETH) is at ...
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 20h ago
 
 ---
 
 **[Google Warns Quantum Computers Could Break Bitcoin and Ethereum in 9 Minutes — Should You Be Worried?](https://www.ccn.com/education/crypto/google-quantum-computers-break-bitcoin-ethereum-9-minutes-1-7m-btc-risk/)**
 
-CCN.com • 19h ago
+CCN.com • 21h ago
 
 ---
 
@@ -182,7 +204,7 @@ CCN.com • 19h ago
 
 On this episode of Crypto Check, Yahoo Finance Senior Reporter Brooke DiPalma takes a look at names like Coinbase (COIN) and Robinhood (HOOD), as well as bitcoin's (BTC-USD) and ethereum's (ETH-USD) price action amid the latest Iran war developments.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -198,31 +220,7 @@ The Block • 1d ago
 
 #FeaturedPost
 
-Business Insider Africa • 21h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.732 Million Tokens, and Total Crypto and Total Cash Holdings of $10.7 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-732-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-7-billion-302728176.html)**
-
-Bitmine has 3,142,643 staked ETH, representing $6.3 billion at $2,005 per ETH MAVAN (Made in America VAlidator Network) launched staking solution on March 25,...
-
-PR Newswire • 1d ago
-
----
-
-**[BMNR, ETH news: Bitmine buys 71,000 ETH as digital asset treasuries dial back purchases](https://www.coindesk.com/business/2026/03/30/bitmine-makes-biggest-ether-purchase-in-2026-while-other-digital-asset-treasuries-pull-back)**
-
-Tom Lee's Ethereum treasury bought more than 71,000 ETH over the past week, remaining the sole large corporate crypto buyer as Strategy broke its 13-week bitcoin purchase streak.
-
-CoinDesk • 1d ago
-
----
-
-**[Tom Lee's BitMine Adds More Ethereum as Strategy Takes a Break From Bitcoin Buying](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-adds-more-144553148.html)**
-
-BitMine continued its Ethereum accumulation, adding to its leading ETH treasury while Strategy took a week off from Bitcoin purchases.
-
-Yahoo Finance • 1d ago
+Business Insider Africa • 23h ago
 
 ---
 
@@ -236,7 +234,7 @@ This year's EthCC event in Cannes has fielded its first major announcement: the 
 
 📺 Paul Barron Network
 
-👁️ 25K • 👍 2K • 💬 84 • ⏱️ 13:00 • 12h ago
+👁️ 25K • 👍 2K • 💬 84 • ⏱️ 13:00 • 14h ago
 
 ---
 
@@ -246,7 +244,7 @@ Hang in there everyone! The risk models that say when to accumulate or exit HERE
 
 📺 Dan Gambardello
 
-👁️ 8K • 👍 561 • 💬 168 • ⏱️ 13:49 • 14h ago
+👁️ 8K • 👍 561 • 💬 168 • ⏱️ 13:49 • 15h ago
 
 ---
 
@@ -266,7 +264,7 @@ BMNR is continuing to build one of the largest Ethereum treasuries in the world 
 
 📺 The Value Thinker
 
-👁️ 4K • 👍 319 • 💬 52 • ⏱️ 20:46 • 8h ago
+👁️ 4K • 👍 319 • 💬 52 • ⏱️ 20:46 • 10h ago
 
 ---
 
@@ -276,7 +274,7 @@ BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX
 
 📺 Lark Davis
 
-👁️ 1K • 👍 43 • ⏱️ 0:47 • 8h ago
+👁️ 1K • 👍 43 • ⏱️ 0:47 • 9h ago
 
 ---
 
@@ -296,7 +294,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 404 • 💬 58 • ⏱️ 8:44 • 3h ago
+👁️ 2K • 👍 404 • 💬 58 • ⏱️ 8:44 • 4h ago
 
 ---
 
@@ -306,7 +304,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 117 • 💬 1 • ⏱️ 3:35 • 13h ago
+👁️ 2K • 👍 117 • 💬 1 • ⏱️ 3:35 • 14h ago
 
 ---
 
@@ -326,7 +324,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 97 • 💬 3 • ⏱️ 4:22 • 20h ago
+👁️ 1K • 👍 97 • 💬 3 • ⏱️ 4:22 • 22h ago
 
 ---
 

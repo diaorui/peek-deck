@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-01T08:20:09.470013+00:00'
+updated: '2026-04-01T09:46:07.554637+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 01, 2026 at 08:20 UTC  
+**Last Updated:** April 01, 2026 at 09:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 To learn more about running OpenClaw and ROS robotics, checkout AgenticROS https://agenticros.com
 
-13h ago
+14h ago
 
 ---
 
@@ -44,7 +44,7 @@ To learn more about running OpenClaw and ROS robotics, checkout AgenticROS https
 
 https://reddit.com/link/1s8tt6j/video/miswsbmylfsg1/player Hey - spent the last year building PhAIL (physical AI leaderboard). I wanted to answer a simple question: how good are robot AI models on actual work, not demos PhAIL runs models on a real robot doing bin-to-bin picking and measures: throughput (units/hour) reliability (time between failures) everything is public: full videos of every run telemetry + logs fine-tuning dataset + training scripts link: https://phail.ai Genuinely curious what you think. What’s useful here, what’s missing. Please share your feedback.
 
-14h ago
+16h ago
 
 ---
 
@@ -52,7 +52,7 @@ https://reddit.com/link/1s8tt6j/video/miswsbmylfsg1/player Hey - spent the last 
 
 https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printed parts, motorized projector, home decoration, and DIY electronics -- if you know of anyone else that might be interested in this stuff, sharing to others would really help me out! Hope to see you around here or YouTube :)
 
-13h ago
+15h ago
 
 ---
 
@@ -60,13 +60,13 @@ https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printe
 
 All M5Stack components. Mecanum four motor buggy, StickCPlus onboard controller TOF sensor scanning on a servo. Autonomous. Source code available if you are interested.
 
-11h ago
+12h ago
 
 ---
 
 **[BabaCAD Robotics Web v2.1](https://www.reddit.com/r/robotics/comments/1s8v9by/babacad_robotics_web_v21/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -74,7 +74,7 @@ All M5Stack components. Mecanum four motor buggy, StickCPlus onboard controller 
 
 I am having a lot of trouble choosing a masters/phd program. I am looking to go into robotics and have 3 options to choose from. For reference I am from North America and went to a top undergrad school here. Option A is overseas in asia but it is REALLYYY well funded but I don't think my research direction is exactly aligned with my supervisor's background so I am worried about this. I have the flexibility to study whatever I want but I also want to make sure I get good guidance. The city here is also really good and I'd enjoy living here based on past visits. Option B: The other is a MS at a top university in the US. It isn't funded but the PI's research direction and mine align perfectly. There's an option to transfer to phd but can't say anything for sure now. Also the city is peak imo. Option C: The last option is a lower prestige american uni but the PI is a perect fit as well in terms of research direction and really nice and supportive. The funding is also only gaurenteed for the first year and is uncertain for subsequent years. It is likely gonna be fine but technically it is uncertain (depends if the grants come through). Though the location of the school isn't ideal and I am worried about living there in the American south. I am stuck between doing reserch I like and living a life I want during my youth. I am so torn and don't know how to decide :( My end goal is to get a phd because i love research but I wouldn't mind getting a masters, working for a bit in some industry research and coming back as well. I am open. Ideally I wanna work in a R&D research position in robotics companies. Into humanoids these days and specifically humanoid safety
 
-4h ago
+6h ago
 
 ---
 
@@ -120,15 +120,15 @@ Euronews.com • 3d ago
 
 ---
 
-**[The world’s largest humanoid robot maker is going public](https://restofworld.org/2026/unitree-china-humanoid-robot-shanghai-ipo/)**
+**[Europe Vies to Be Humanoid Robot Leader in Global Tech Race](https://www.bloomberg.com/news/articles/2026-04-01/europe-vies-to-be-humanoid-robot-leader-in-global-tech-race)**
 
-Rest of World • 22h ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[Europe Vies to Be Humanoid Robot Leader in Global Tech Race](https://www.bloomberg.com/news/articles/2026-04-01/europe-vies-to-be-humanoid-robot-leader-in-global-tech-race)**
+**[The world’s largest humanoid robot maker is going public](https://restofworld.org/2026/unitree-china-humanoid-robot-shanghai-ipo/)**
 
-Bloomberg.com • 50m ago
+Rest of World • 23h ago
 
 ---
 
@@ -136,7 +136,23 @@ Bloomberg.com • 50m ago
 
 China has opened a new humanoid robot line in Guangdong that is reportedly built to produce 10,000 units a year.
 
-Interesting Engineering • 20h ago
+Interesting Engineering • 21h ago
+
+---
+
+**[Amazon buys Fauna Robotics, maker of the Sprout humanoid robot that can dance, pick up toys, and go on a stroll](https://fortune.com/2026/03/29/amazon-acquisition-fauna-robotics-sprout-humanoid-robot-homes-schools-disney/)**
+
+Early customers included Disney.
+
+Fortune • 2d ago
+
+---
+
+**[Uber Eats delivery robots vandalised in Sheffield suburb](https://www.bbc.com/news/articles/cn53x5x33wno)**
+
+Spray paint is daubed over robots used by food delivery company Uber Eats in Meersbrook.
+
+BBC • 21h ago
 
 ---
 
@@ -150,15 +166,7 @@ KPAX News • 1d ago
 
 **[Voyager, Icarus Robotics to test free-flying robot on space station](https://www.reuters.com/science/voyager-icarus-robotics-test-free-flying-robot-space-station-2026-03-30/)**
 
-reuters.com • 1d ago
-
----
-
-**[Uber Eats delivery robots vandalised in Sheffield suburb](https://www.bbc.com/news/articles/cn53x5x33wno)**
-
-Spray paint is daubed over robots used by food delivery company Uber Eats in Meersbrook.
-
-BBC • 20h ago
+Reuters • 1d ago
 
 ---
 
@@ -172,15 +180,7 @@ San Francisco Chronicle • 1d ago
 
 Think a robot can’t do your job? ‘It will happen, but I don’t know when,’ says one expert. How robots are already upending blue-collar work, career advancement, worker rights, and job satisfaction.
 
-Fast Company • 23h ago
-
----
-
-**[Red Cat Closes Acquisition of Apium Swarm Robotics](https://finance.yahoo.com/sectors/technology/articles/red-cat-closes-acquisition-apium-183000241.html)**
-
-Acquisition deepens Red Cat’s capabilities in swarming autonomy as the U.S. accelerates investment in small drone innovation SALT LAKE CITY, March 30, 2026 (GLOBE NEWSWIRE) -- Red Cat Holdings, Inc. (Nasdaq: RCAT) (“Red Cat” or the “Company”), a U.S.-based provider of advanced all-domain drone and robotic solutions for defense and national security, today announced it has acquired Apium Swarm Robotics, a California-based developer of distributed control systems for autonomous swarming drones and
-
-Yahoo Finance • 1d ago
+Fast Company • 1d ago
 
 ---
 
@@ -214,7 +214,7 @@ Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking
 
 📺 The AI Nexus
 
-👁️ 1K • 👍 89 • 💬 7 • ⏱️ 20:43 • 9h ago
+👁️ 1K • 👍 89 • 💬 7 • ⏱️ 20:43 • 11h ago
 
 ---
 
