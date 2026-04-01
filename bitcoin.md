@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-01T15:05:23.444608+00:00'
+updated: '2026-04-01T16:31:44.282810+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 01, 2026 at 15:05 UTC  
+**Last Updated:** April 01, 2026 at 16:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,333.95
+### $68,765.97
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** -0.3%  
-**30d:** +0.5%  
-**90d:** -23.7%  
-**1y:** -17.0%  
+**24h:** +2.1%  
+**7d:** +0.1%  
+**30d:** +0.9%  
+**90d:** -23.4%  
+**1y:** -16.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1371.09B
+**Market Cap:** $1376.98B
 Rank #1
 
-**Circulating Supply:** 20,009,975 BTC
+**Circulating Supply:** 20,010,103 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--45.8%
+-45.4%
 
 **All-Time Low:** $67.81
-+100737.6%
++101444.0%
 
 ---
 
@@ -81,15 +81,7 @@ Rank #1
 
 I have started accumulating btc since 2021, not going out with boys ,even cancelling the trip to Thailand and missing on that thai massage just to accumulate btc, and today finally i have one btc 😭
 
-13h ago
-
----
-
-**[Going heavy on Bitcoin while I'm still young](https://www.reddit.com/r/Bitcoin/comments/1s8y8xd/going_heavy_on_bitcoin_while_im_still_young/)**
-
-So I'm 28 and figure this might be my last chance to really swing for the fences before I get too settled into the whole responsible adult thing. Been thinking about dumping like $2500 monthly into my hardware wallet and just letting it ride for the next 5-6 years. I mean when else am I gonna have this kind of freedom to make big moves without worrying about a mortgage or kids or whatever. My job's pretty stable so I can swing it and still cover my expenses. Part of me thinks I'm crazy but another part thinks I'll regret not taking the shot when I had the chance. Anyone else doing something similar or am I just being reckless
-
-19h ago
+14h ago
 
 ---
 
@@ -97,23 +89,63 @@ So I'm 28 and figure this might be my last chance to really swing for the fences
 
 I don't know if it's just me who is thinking that... But Bitcoin feels very strange right now.
 
-8h ago
+9h ago
 
 ---
 
-**[Short term predictions are basically useless](https://www.reddit.com/r/Bitcoin/comments/1s96lo9/short_term_predictions_are_basically_useless/)**
+**[the bitcoin ETFs just posted their first monthly net inflows since October](https://www.reddit.com/r/Bitcoin/comments/1s9np40/the_bitcoin_etfs_just_posted_their_first_monthly/)**
 
-Back when we hit those peak prices I kept seeing posts about hitting $200k before the year ended, now everyone's switched to doom and gloom saying we're headed for a brutal 12 months ahead. Truth is nobody on this sub has a clue what's coming in the next few months. Best thing to do is chill out and keep holding your stack.
+$1.32B in net inflows after four straight months of outflows totaling $6.3B
 
-13h ago
+1h ago
 
 ---
 
-**[Time to load up while everyone else is freaking out](https://www.reddit.com/r/Bitcoin/comments/1s8md6s/time_to_load_up_while_everyone_else_is_freaking/)**
+**[New Hampshire Plans $100M Bitcoin-Backed Bonds — What Citizens Need To Know](https://www.reddit.com/r/Bitcoin/comments/1s9it12/new_hampshire_plans_100m_bitcoinbacked_bonds_what/)**
 
-Everything's bleeding red today, bitcoin taking a proper beating All the weak holders are losing their minds. Media calling it a collapse as usual But step back and look at the bigger picture: - We're still working through post-halving dynamics - Corporate adoption and institutional money isn't dissapearing This is just how bitcoin works - flush out the scared money before the next run higher. If you actually believe in this thing long term, these drops are buying opportunities. Keep accumulating while everyone else panics
+Bitcoin is edging closer to Wall Street—and now, to municipal finance. New Hampshire is preparing to launch what could be the first Bitcoin-backed municipal bond in the U.S., a $100 million deal that uses bitcoin as collateral instead of taxpayer backing. The structure blends traditional public finance with digital assets to attract capital without putting state funds at risk. The plan, approved in late 2025 and moving toward final sign-off in 2026, signals a new phase for Bitcoin: not just an investment, but collateral inside regulated financial markets.
 
-1d ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/hampshire-plans-100m-bitcoin-backed-083438443.html) • 4h ago
+
+---
+
+**[Going heavy on Bitcoin while I'm still young](https://www.reddit.com/r/Bitcoin/comments/1s8y8xd/going_heavy_on_bitcoin_while_im_still_young/)**
+
+So I'm 28 and figure this might be my last chance to really swing for the fences before I get too settled into the whole responsible adult thing. Been thinking about dumping like $2500 monthly into my hardware wallet and just letting it ride for the next 5-6 years. I mean when else am I gonna have this kind of freedom to make big moves without worrying about a mortgage or kids or whatever. My job's pretty stable so I can swing it and still cover my expenses. Part of me thinks I'm crazy but another part thinks I'll regret not taking the shot when I had the chance. Anyone else doing something similar or am I just being reckless
+
+20h ago
+
+---
+
+**[Moody’s Assigns Ba2 Rating to New Hampshire’s Bitcoin-Backed Bonds](https://www.reddit.com/r/Bitcoin/comments/1s9k8sp/moodys_assigns_ba2_rating_to_new_hampshires/)**
+
+This looks like an early attempt to integrate Bitcoin into traditional public financing rather than just holding it on balance sheet. A US state issuing bonds backed by Bitcoin collateral, with a formal credit rating attached, starts to frame crypto within existing capital market structures instead of outside them. The Ba2 rating signals that institutions still see meaningful risk, but not something entirely uninvestable.
+
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/moodys-assigns-ba2-rating-new-hampshires-bitcoin-backed-bonds) • 3h ago
+
+---
+
+**[Beginner](https://www.reddit.com/r/Bitcoin/comments/1s9hhu3/beginner/)**
+
+Sorry I might ask a dumb question but I always wanted to invest in bitcoin should I start now with everything that s happening in uae . And how to start . I m used to invest on ETF but first time now on bitcoin
+
+5h ago
+
+---
+
+**[I built a natural language smart alert bot because CoinGecko notifications weren't cutting it. Who actually needs this?](https://www.reddit.com/r/Bitcoin/comments/1s9mqjk/i_built_a_natural_language_smart_alert_bot/)**
+
+Hey guys, looking for some brutal honesty here. I know there are a ton of free apps like CoinGecko or block explorers that give basic price alerts. But I always found them either too basic or too clunky to set up for anything advanced. So I spent the last few weeks building my own smart alert tool. The difference is it uses AI/natural language. You just type what you want in plain English. Currently, I'm expanding it beyond just price. I'm adding triggers for: Mempool fee spikes (so you know when to consolidate UTXOs) Exchange inflows/outflows (whale movements) Funding rates & Open Interest My question for the community: Is this over-engineering? Beyond day traders, what kind of Bitcoiner actually needs this level of customizable, instant alerts in their daily setup? Would love to know if I'm building something people actually want.
+
+1h ago
+
+---
+
+**[About the 4-year halving cycle](https://www.reddit.com/r/Bitcoin/comments/1s9lzte/about_the_4year_halving_cycle/)**
+
+With larger amounts of ETFs, deeper involvement of institutional investors, stronger correlation with macro events (interest rates, geopolitics, etc.), and maturation of the btc market, is this cycle still a thing? Or is this wishful thinking?
+
+2h ago
 
 ---
 
@@ -121,39 +153,7 @@ Everything's bleeding red today, bitcoin taking a proper beating All the weak ho
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-9h ago
-
----
-
-**[Pen & Ink](https://www.reddit.com/r/Bitcoin/comments/1s917fq/pen_ink/)**
-
-Microns and liquid acrylic on arches. Bitcoin art
-
-17h ago
-
----
-
-**[COLDCARD, built on open standards](https://www.reddit.com/r/Bitcoin/comments/1s8pn2d/coldcard_built_on_open_standards/)**
-
-One thing to love about COLDCARD is its commitment to open standards. You can pair it with the companion wallet of your choice. Seems like this should be the standard for all hardware wallets.
-
-1d ago
-
----
-
-**[Feels like we’re in one of those quiet Bitcoin phases again…](https://www.reddit.com/r/Bitcoin/comments/1s8nwf2/feels_like_were_in_one_of_those_quiet_bitcoin/)**
-
-Not gonna lie, this stretch feels like one of those periods where nothing crazy is happening on the surface but a lot is quietly building underneath. Price isn’t doing much to grab headlines, sentiment is split, and half the posts are either “we’re going to the moon tomorrow” or “it’s over.” Meanwhile Bitcoin just keeps running like normal. What stands out right now is big players don’t seem to be leaving, volatility feels kinda compressed, and retail interest isn’t euphoric at all which is usually when things get interesting. Feels like more people are focused on short term moves instead of long term positioning. This kind of “boring” phase usually doesn’t last. Not calling direction, I’m just stacking and staying patient. What’s everyone else doing right now?
-
-1d ago
-
----
-
-**[Bitcoin DCA Killer](https://www.reddit.com/r/Bitcoin/comments/1s94tcj/bitcoin_dca_killer/)**
-
-Bitcoin DCA math: $10/week since 2021 = 8x today. Post-halving? 30x by 2030. HODLers: Your entry → target?
-
-14h ago
+10h ago
 
 ---
 
@@ -161,27 +161,33 @@ Bitcoin DCA math: $10/week since 2021 = 8x today. Post-halving? 30x by 2030. HOD
 
 ## Google News: "bitcoin"
 
+**[Bitcoin’s crashes are shrinking, and Wall Street is starting to notice](https://www.coindesk.com/markets/2026/04/01/bitcoin-s-crashes-are-shrinking-and-wall-street-is-starting-to-notice)**
+
+Skepticism remains, as Bloomberg analyst Mike McGlone warns the crypto bubble may be over and bitcoin could still revisit the $10,000 level.
+
+coindesk.com • 3h ago
+
+---
+
 **[Bitcoin’s Taproot could make quantum attacks easier than expected, new Google research says](https://www.coindesk.com/markets/2026/03/31/bitcoin-s-taproot-could-make-quantum-attacks-easier-than-expected-new-google-research-says)**
 
 The findings suggest attackers could one day steal bitcoin mid-transaction, challenging assumptions that the threat is decades away.
 
-CoinDesk • 1d ago
+coindesk.com • 1d ago
 
 ---
 
-**[Current price of Bitcoin for April 1, 2026](https://fortune.com/article/price-of-bitcoin-04-01-2026/)**
+**[Google Paper Warns of Quantum Computing Risk for Bitcoin](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q?gaa_at=eafs&gaa_n=AWEtsqflhKppqkjOuno_FvncHkmGN1I_pxPX5lhGWhKH5TTV40I8noaI4umE&gaa_ts=69cd4bd4&gaa_sig=iqwmMAK5WUrv71p2ta633lxltiPBCTY7R0Xh-WTgChMj8jNm62_NceiqlQRpfJMn5RhoajFNcrd9E4JfPfU0bg%3D%3D)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 2h ago
+WSJ • 20h ago
 
 ---
 
-**[Polymarket odds: Will gold, S&P, or bitcoin outperform this year?](https://ca.finance.yahoo.com/video/polymarket-odds-will-gold-sp-or-bitcoin-outperform-this-year-141443528.html)**
+**[Bitcoin gets new expiration date thanks to Google researchers](https://mashable.com/article/google-research-bitcoin-cryptography-broken)**
 
-Polymarket users are betting on whether gold (GC=F), the S&P 500 (^GSPC), or bitcoin (BTC-USD) will perform best this year.Yahoo Finance Senior Reporter Ines Ferre and BCA Research chief global strategist and director of research Peter Berezin share their thoughts.For more predictions market insight, check out the new Yahoo Finance Polymarket Hub.
+Bitcoin needs to fix this in the next three years.
 
-Yahoo! Finance Canada • 50m ago
+Mashable • 7h ago
 
 ---
 
@@ -189,21 +195,23 @@ Yahoo! Finance Canada • 50m ago
 
 Bitcoin's March resilience may have been a relief rally within a broader crypto winter, according to Compass Point analyst Ed Engel.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
-**[Bitcoin Holds Gains in Asia After Five-Month Losing Streak Ends](https://www.bloomberg.com/news/articles/2026-04-01/bitcoin-holds-gains-in-asia-after-five-month-losing-streak-ends)**
+**[BlackRock Files Ticker For Bitcoin Premium Income ETF As Bitcoin Strategy Expands](https://bitcoinmagazine.com/news/blackrock-files-ticker-bitcoin-premium-etf)**
 
-Bloomberg.com • 4h ago
+BlackRock has advanced its Bitcoin premium income ETF strategy, revealing the ticker $BITA for a new fund positioned as a yield-focused sequel to its existing Bitcoin ETF lineup.
+
+Bitcoin Magazine • 1h ago
 
 ---
 
-**[Bitcoin price news: BTC spikes about 1% higher on hope for end to Iran conflict](https://www.coindesk.com/markets/2026/03/31/bitcoin-stocks-rise-oil-slides-after-report-of-iran-s-willingness-to-end-conflict)**
+**[Polymarket odds: Will gold, S&P, or bitcoin outperform this year?](https://ca.finance.yahoo.com/video/polymarket-odds-will-gold-sp-or-bitcoin-outperform-this-year-141443528.html)**
 
-Iran's President Masoud Pezeshkian said the country is prepared to end the conflict if it receives security guarantees.
+Polymarket users are betting on whether gold (GC=F), the S&P 500 (^GSPC), or bitcoin (BTC-USD) will perform best this year.Yahoo Finance Senior Reporter Ines Ferre and BCA Research chief global strategist and director of research Peter Berezin share their thoughts.For more predictions market insight, check out the new Yahoo Finance Polymarket Hub.
 
-CoinDesk • 22h ago
+Yahoo! Finance Canada • 2h ago
 
 ---
 
@@ -221,17 +229,11 @@ The Block • 1d ago
 
 ---
 
-**[Noisy Bitcoin mine shuts down in Washington County, TN](https://www.wjhl.com/news/local/noisy-bitcoin-mine-shuts-down-in-washington-county-tn/)**
-
-WJHL • 1d ago
-
----
-
 **[After a Tough Quarter for Crypto and Bitcoin, Is a Market 'Bottom' Finally in Sight?](https://www.investopedia.com/after-a-tough-quarter-for-crypto-and-bitcoin-is-a-market-bottom-finally-in-sight-btc-update-11936145)**
 
 The advancement of a key piece of crypto legislation was supposed to revive crypto from its doldrums—it didn't.
 
-investopedia.com • 1d ago
+Investopedia • 2d ago
 
 ---
 
@@ -243,19 +245,27 @@ investopedia.com • 1d ago
 
 Google Research said the necessary resources for quantum computers to break cryptocurrencies have seen a 20-fold reduction.
 
-⬆️ 7 • 💬 2 • 11h ago • [The Block](https://www.theblock.co/post/395814/google-quantum-computing-earlier)
+⬆️ 7 • 💬 2 • 13h ago • [The Block](https://www.theblock.co/post/395814/google-quantum-computing-earlier)
+
+---
+
+**[Google researchers just put a new expiration date on Bitcoin](https://news.ycombinator.com/item?id=47602164)**
+
+Bitcoin needs to fix this in the next three years.
+
+⬆️ 4 • 💬 2 • 1h ago • [Mashable](https://mashable.com/article/google-research-bitcoin-cryptography-broken)
 
 ---
 
 **[Google Paper Warns of Quantum Computing Risk for Bitcoin](https://news.ycombinator.com/item?id=47600418)**
 
-⬆️ 3 • 💬 1 • 1h ago • [wsj.com](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q)
+⬆️ 3 • 💬 1 • 3h ago • [wsj.com](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q)
 
 ---
 
 **[KnexCoin (NEX) soft forked Bitcoin and now Quantum Ready](https://news.ycombinator.com/item?id=47589186)**
 
-⬆️ 2 • 💬 1 • 23h ago • [untraceablex.com](https://www.untraceablex.com)
+⬆️ 2 • 💬 1 • 1d ago • [untraceablex.com](https://www.untraceablex.com)
 
 ---
 
@@ -281,7 +291,7 @@ The first signing system where the private key is a physical key — and can sti
 
 **[Show HN: Live simulation of AI agents scamming each other (and getting caught)](https://news.ycombinator.com/item?id=47595450)**
 
-⬆️ 3 • 💬 0 • 14h ago • [5.161.255.238:8888](http://5.161.255.238:8888)
+⬆️ 3 • 💬 0 • 15h ago • [5.161.255.238:8888](http://5.161.255.238:8888)
 
 ---
 
@@ -289,7 +299,7 @@ The first signing system where the private key is a physical key — and can sti
 
 runs multiple inputs through a script/function in parallel using bash coprocs - jkool702/forkrun
 
-⬆️ 139 • 💬 37 • 5d ago • [GitHub](https://github.com/jkool702/forkrun)
+⬆️ 140 • 💬 37 • 5d ago • [GitHub](https://github.com/jkool702/forkrun)
 
 ---
 
@@ -297,13 +307,23 @@ runs multiple inputs through a script/function in parallel using bash coprocs - 
 
 ## YouTube Videos: "bitcoin"
 
+**[ALL MARKETS Are Breaking At Once. Here&#39;s Why Bitcoin Is Still Cheap!](https://www.youtube.com/watch?v=kMKE4jKJ4D8)**
+
+Global markets are cracking under war, inflation, and policy failure, but most people still don't see what's coming. Jerome Powell ...
+
+📺 Simply Bitcoin
+
+👁️ 19K • 👍 1K • 💬 71 • ⏱️ 11:45 • 18h ago
+
+---
+
 **[Food. Bank Account. GONE. (Here&#39;s What They&#39;re Hiding About Bitcoin in 2026)](https://www.youtube.com/watch?v=yTFF27GEy5o)**
 
 The global economy didn't slowly weaken. It snapped. In just 72 hours, multiple countries triggered emergency measures while ...
 
 📺 Simply Bitcoin
 
-👁️ 33K • 👍 3K • 💬 235 • ⏱️ 48:32 • 1d ago
+👁️ 33K • 👍 3K • 💬 261 • ⏱️ 48:32 • 1d ago
 
 ---
 
@@ -313,17 +333,7 @@ If you know someone who holds Bitcoin → send them this video. “Quantum Will 
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 1K • 💬 174 • ⏱️ 10:16 • 18h ago
-
----
-
-**[ALL MARKETS Are Breaking At Once. Here&#39;s Why Bitcoin Is Still Cheap!](https://www.youtube.com/watch?v=kMKE4jKJ4D8)**
-
-Global markets are cracking under war, inflation, and policy failure, but most people still don't see what's coming. Jerome Powell ...
-
-📺 Simply Bitcoin
-
-👁️ 18K • 👍 1K • 💬 58 • ⏱️ 11:45 • 17h ago
+👁️ 27K • 👍 2K • 💬 179 • ⏱️ 10:16 • 19h ago
 
 ---
 
@@ -333,7 +343,7 @@ Google dropped a new quantum computing paper and the internet immediately reacte
 
 📺 Swan Bitcoin
 
-👁️ 6K • 👍 451 • 💬 39 • ⏱️ 12:30 • 19h ago
+👁️ 7K • 👍 478 • 💬 47 • ⏱️ 12:30 • 21h ago
 
 ---
 
@@ -343,7 +353,27 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Buy
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 236 • ⏱️ 9:58 • 1d ago
+👁️ 44K • 👍 2K • 💬 229 • ⏱️ 9:58 • 1d ago
+
+---
+
+**[Ever wondered how much Bitcoin I have?](https://www.youtube.com/watch?v=dqlz86Ff2Y8)**
+
+Structure your assets and position yourself for the transfer, that's what the WealthOS does: https://link.1markmoss.com/XfOHU
+
+📺 Mark Moss
+
+👁️ 21K • 👍 439 • 💬 32 • ⏱️ 0:46 • 20h ago
+
+---
+
+**[America Going BROKE! (Bitcoin Holders Are NOT Ready)](https://www.youtube.com/watch?v=xspVtNCSLHU)**
+
+Bitcoin holders think they're safe, but are they prepared for a "Fed Crisis Scenario"? We break down the latest March 2026 data, ...
+
+📺 Discover Crypto
+
+👁️ 5K • 👍 234 • 💬 73 • ⏱️ 6:18 • 16h ago
 
 ---
 
@@ -353,7 +383,7 @@ Bitcoin #Crypto #Finance Bitcoin just closed its worst first quarter since 2018,
 
 📺 The Wolf Of All Streets
 
-👁️ 15K • 👍 646 • 💬 166 • ⏱️ 58:16 • 1d ago
+👁️ 15K • 👍 648 • 💬 180 • ⏱️ 58:16 • 1d ago
 
 ---
 
@@ -367,31 +397,11 @@ New data shows the future of markets and crypto in general. Its important for bi
 
 ---
 
-**[Bitcoin is on the brink (most won&#39;t listen)](https://www.youtube.com/watch?v=eWJjrHuA788)**
-
-If you hold Bitcoin or Ethereum... watch this! (alert!) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC ...
-
-📺 Altcoin Daily
-
-👁️ 11K • 👍 423 • 💬 57 • ⏱️ 1:18 • 1d ago
-
----
-
-**[America Going BROKE! (Bitcoin Holders Are NOT Ready)](https://www.youtube.com/watch?v=xspVtNCSLHU)**
-
-Bitcoin holders think they're safe, but are they prepared for a "Fed Crisis Scenario"? We break down the latest March 2026 data, ...
-
-📺 Discover Crypto
-
-👁️ 5K • 👍 227 • 💬 82 • ⏱️ 6:18 • 15h ago
-
----
-
 **[TRUMP KEEPS DELIVERING CRYPTO PROMISES TO THE AMERICAN PEOPLE #crypto #xrp #trump #bitcoin](https://www.youtube.com/watch?v=_Shpm1ADt8I)**
 
 📺 CryptoWendyO
 
-👁️ 9K • 👍 688 • 💬 32 • ⏱️ 2:06 • 14h ago
+👁️ 10K • 👍 780 • 💬 32 • ⏱️ 2:06 • 15h ago
 
 ---
 

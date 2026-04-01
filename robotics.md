@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-01T15:05:23.453186+00:00'
+updated: '2026-04-01T16:31:44.292020+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 01, 2026 at 15:05 UTC  
+**Last Updated:** April 01, 2026 at 16:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,79 +32,81 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[OpenClaw + ROS + AgenticROS = Physical AI Robotics Demo](https://www.reddit.com/r/robotics/comments/1s8wt8m/openclaw_ros_agenticros_physical_ai_robotics_demo/)**
+**[Olaf couldn't handle too many human questions, suddenly crashed, collapsed, and its carrot nose fell off](https://www.reddit.com/r/robotics/comments/1s9g61s/olaf_couldnt_handle_too_many_human_questions/)**
 
-To learn more about running OpenClaw and ROS robotics, checkout AgenticROS https://agenticros.com
-
-19h ago
+6h ago
 
 ---
 
-**[[Project] I benchmarked 4 robot AI models on a real industrial task. The best one does 64 picks/hour. A human does 1,300.](https://www.reddit.com/r/robotics/comments/1s8tt6j/project_i_benchmarked_4_robot_ai_models_on_a_real/)**
+**[A perspective on the push toward human-like robots](https://www.reddit.com/r/robotics/comments/1s9lx5h/a_perspective_on_the_push_toward_humanlike_robots/)**
 
-https://reddit.com/link/1s8tt6j/video/miswsbmylfsg1/player Hey - spent the last year building PhAIL (physical AI leaderboard). I wanted to answer a simple question: how good are robot AI models on actual work, not demos PhAIL runs models on a real robot doing bin-to-bin picking and measures: throughput (units/hour) reliability (time between failures) everything is public: full videos of every run telemetry + logs fine-tuning dataset + training scripts link: https://phail.ai Genuinely curious what you think. What’s useful here, what’s missing. Please share your feedback.
+Erik Nieves, CEO of Plus One Robotics, describes the current focus on humanoid robots as part of a broader pattern. He notes that when people think of robots, they often picture a human-like figure. That expectation shapes how robots are designed and discussed. He also connects humanoid development to two recurring ideas: going to new places and replicating human capabilities in those environments. Mentioning that industrial users are not focused on form factor. Systems are evaluated based on performance, including output and reliability, rather than whether they resemble humans. The discussion suggests that while humanoid robots may not yet align with operational requirements, the investment in that area could still influence the development of underlying technologies.
+
+2h ago
+
+---
+
+**[OpenClaw + ROS + AgenticROS = Physical AI Robotics Demo](https://www.reddit.com/r/robotics/comments/1s8wt8m/openclaw_ros_agenticros_physical_ai_robotics_demo/)**
+
+To learn more about running OpenClaw and ROS robotics, checkout AgenticROS https://agenticros.com
 
 21h ago
 
 ---
 
-**[Automated Projector](https://www.reddit.com/r/robotics/comments/1s8voof/automated_projector/)**
+**[Follow me Mode with LIDAR obstacle detection and sharp corners](https://www.reddit.com/r/robotics/comments/1s9hju1/follow_me_mode_with_lidar_obstacle_detection_and/)**
 
-https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printed parts, motorized projector, home decoration, and DIY electronics -- if you know of anyone else that might be interested in this stuff, sharing to others would really help me out! Hope to see you around here or YouTube :)
+Pure pursuit navigation and LIDAR obstacle avoidance test with sharp corners. YOLOV8 model for human detection running on desktop server GPU. The objective is to replace the ultrasonic servo sweeping as it was too noisy and caused interference with microphone.
 
-20h ago
-
----
-
-**[Aversion: TOF scanning Collision Avoidance](https://www.reddit.com/r/robotics/comments/1s9090l/aversion_tof_scanning_collision_avoidance/)**
-
-All M5Stack components. Mecanum four motor buggy, StickCPlus onboard controller TOF sensor scanning on a servo. Autonomous. Source code available if you are interested.
-
-17h ago
+5h ago
 
 ---
 
-**[BabaCAD Robotics Web v2.1](https://www.reddit.com/r/robotics/comments/1s8v9by/babacad_robotics_web_v21/)**
+**[Ultrasonic sensors](https://www.reddit.com/r/robotics/comments/1s9ki26/ultrasonic_sensors/)**
 
-20h ago
+I’ve been working on this little robot, but the servo mechanism has some janky screws/components. Can I replace the servo with two more ultrasonic sensors? What happens if you have multiple ultrasonic sensors, each oriented at 90 degrees from each other facing forward, right, and left? Then there’s no servo noise/janky movement/odd angles (mine tips downward), but more sense data, which might cause its own challenges. Any advice is helpful. Thanks!
 
----
-
-**[How to choose a robotics phd](https://www.reddit.com/r/robotics/comments/1s996gk/how_to_choose_a_robotics_phd/)**
-
-I am having a lot of trouble choosing a masters/phd program. I am looking to go into robotics and have 3 options to choose from. For reference I am from North America and went to a top undergrad school here. Option A is overseas in asia but it is REALLYYY well funded but I don't think my research direction is exactly aligned with my supervisor's background so I am worried about this. I have the flexibility to study whatever I want but I also want to make sure I get good guidance. The city here is also really good and I'd enjoy living here based on past visits. Option B: The other is a MS at a top university in the US. It isn't funded but the PI's research direction and mine align perfectly. There's an option to transfer to phd but can't say anything for sure now. Also the city is peak imo. Option C: The last option is a lower prestige american uni but the PI is a perect fit as well in terms of research direction and really nice and supportive. The funding is also only gaurenteed for the first year and is uncertain for subsequent years. It is likely gonna be fine but technically it is uncertain (depends if the grants come through). Though the location of the school isn't ideal and I am worried about living there in the American south. I am stuck between doing reserch I like and living a life I want during my youth. I am so torn and don't know how to decide :( My end goal is to get a phd because i love research but I wouldn't mind getting a masters, working for a bit in some industry research and coming back as well. I am open. Ideally I wanna work in a R&D research position in robotics companies. Into humanoids these days and specifically humanoid safety
-
-11h ago
+3h ago
 
 ---
 
-**[Two FANUC robots now run a bakery bread line in the Netherlands](https://www.reddit.com/r/robotics/comments/1s7vvqo/two_fanuc_robots_now_run_a_bakery_bread_line_in/)**
+**[We’re Open-Sourcing Our Kynooe Robot SDK](https://www.reddit.com/r/robotics/comments/1s9gjbc/were_opensourcing_our_kynooe_robot_sdk/)**
 
-1d ago
+Hey everyone, We’ve been working on a fully modular robot arm called Kynooe, and we’re opening up our SDK very soon! The goal is to make it easier for everyone to: - Control Kynooe Robot or integrate the joint into their own systems - Experiment with motion control and robotics applications - Build on top of our Kynooe Joints We’d really love feedback from the community — especially around: - API design - Documentation clarity - Use cases you’d like to see supported Happy to answer any questions!
 
----
-
-**[Moved from tutorials to writing my own URDF… but my robot model looks weird — what did I mess up?](https://www.reddit.com/r/robotics/comments/1s8bsnb/moved_from_tutorials_to_writing_my_own_urdf_but/)**
-
-I’ve been learning ROS2 for a while, mostly by following tutorials and running existing GitHub repos (like TB3). Recently, I decided to stop just copying and actually try building my own robot model in simulation. So I wrote my first URDF/Xacro and visualized it in RViz. What I expected: A simple rectangular base link. What I got: - One model looks like a clean rectangle (as expected) - The other one looks… off (weird structure/positioning) (Attached both images for comparison) Now I’m trying to understand what went wrong. I’m currently trying to move from “running tutorials” → “actually understanding and building systems”, so I’d really appreciate any guidance. Thanks! Here’s the code: https://pastebin.com/mXHcbLiC Would really appreciate if you can point out what’s wrong.
-
-1d ago
+6h ago
 
 ---
 
-**[Brett Adcock demos Figure 03’s balance and push recovery and walking](https://www.reddit.com/r/robotics/comments/1s7n3ih/brett_adcock_demos_figure_03s_balance_and_push/)**
+**[I built a complete vision system for humanoid robots](https://www.reddit.com/r/robotics/comments/1s9kceq/i_built_a_complete_vision_system_for_humanoid/)**
 
-From Humanoids daily on 𝕏: https://x.com/humanoidsdaily/status/2038191948637282608 Source Shawn Ryan on 𝕏: https://x.com/ShawnRyan762/status/2037583712443887991
+https://preview.redd.it/7xs65qofxksg1.png?width=1818&format=png&auto=webp&s=ee55d6743ee552994af11acef0c64167a3e71df1 Hey r/robotics! I'm excited to share OpenEyes - an open-source vision system I've been building for humanoid robots. It runs entirely on NVIDIA Jetson Orin Nano with full ROS2 integration. The Problem Every day, millions of robots are deployed to help humans. But most of them are blind. Or dependent on cloud services that fail. Or so expensive only big companies can afford them. I wanted to change that. What OpenEyes Does The robot looks at a room and understands: - "There's a cup on the table, 40cm away" - "A person is standing to my left" - "They're waving at me - that's a greeting" - "The person is sitting down - they might need help" - Object Detection (YOLO11n) - Depth Estimation (MiDaS) - Face Detection (MediaPipe) - Gesture Recognition (MediaPipe Hands) - Pose Estimation (MediaPipe Pose) - Object Tracking - Person Following (show open palm to become owner) Performance - All models: 10-15 FPS - Minimal: 25-30 FPS - Optimized (INT8): 30-40 FPS Philosophy - Edge First - All processing on the robot - Privacy First - No data leaves the device - Real-time - 30 FPS target - Open - Built by community, for community Quick Start git clone https://github.com/mandarwagh9/openeyes.git cd openeyes pip install -r requirements.txt python src/main.py --debug python src/main.py --follow (Person following!) python src/main.py --ros2 (ROS2 integration) The Journey Started with a simple question: Why can't robots see like we do? Been iterating for months fixing issues like: - MediaPipe detection at high resolution - Person following using bbox height ratio - Gesture-based owner selection Would love feedback from the community! GitHub: github.com/mandarwagh9/openeyes
 
-2d ago
+3h ago
 
 ---
 
-**[Uploaded firmare instead of program in acebot smart car](https://www.reddit.com/r/robotics/comments/1s8g4ho/uploaded_firmare_instead_of_program_in_acebot/)**
+**[Help build the training data stack for humanoid robots](https://www.reddit.com/r/robotics/comments/1s9phbx/help_build_the_training_data_stack_for_humanoid/)**
 
-Hello I accidently wrote a program in acecode and clicked upload firmare. Now my smart car is not being displayed on wifi section. It was working previously.I cannot find the firmare file in acebot documentation too.
+Humanoid robots are shipping in 2026. But they have no training data. No one is capturing how humans actually do physical tasks in a way robots can learn from. We're building that. Wearable sensor rigs on real workers in real environments — capturing vision, hand movement, body motion, force, depth — all hardware-synced, converted into robot-ready data. Early stage. Small team of really smart and nice people. Looking for high-agency engineers who don't wait to be told what to build. https://dexellabs.com Know someone who'd drop everything for this? Forward it.
 
-1d ago
+3m ago
+
+---
+
+**[3d models for robotics](https://www.reddit.com/r/robotics/comments/1s9oz2j/3d_models_for_robotics/)**
+
+So i make 3d models for modules, robotics, electronics and arduinos, check out my page and tell me if you want something modeled so i can model it and post it This is for free im just doing it for some CAD practice!! Plz dont downvote i just want ideas and support Thanks https://makerworld.com/en/@andrewgr1234
+
+21m ago
+
+---
+
+**[Large Actuator Build](https://www.reddit.com/r/robotics/comments/1s9ohzl/large_actuator_build/)**
+
+https://www.youtube.com/@ALMA.GeoffreyAment Chapter 3 Footnote 1. Building an Actuator, a PID Control Loop, and an Ultrasonic Distance sensor to detect and not crash into the ceiling. This will be used in Chapter 3 Desk -- Stay tuned for more!
+
+38m ago
 
 ---
 
@@ -120,11 +122,11 @@ Euronews.com • 3d ago
 
 ---
 
-**[Surgical robotics: Why motion architecture matters more than ever](https://www.therobotreport.com/surgical-robotics-why-motion-architecture-matters-more-than-ever/)**
+**[PhAIL ranks top robotics foundation models on real hardware](https://www.therobotreport.com/phail-ranks-robotics-foundation-models-real-hardware/)**
 
-By Antonio Herrera, Senior Industry Manager, Portescap Surgical robotics has entered its most rapid era of design evolution, driven by demands for smaller
+Positronic Robotics has launched PhAIL, a benchmark evaluating physical AI models on commercial tasks using throughput and reliability metrics.
 
-The Robot Report • 3h ago
+The Robot Report • 1h ago
 
 ---
 
@@ -134,9 +136,9 @@ Rest of World • 1d ago
 
 ---
 
-**[Humanoid Robots Offer Europe Path to Stay in Global Tech Race](https://www.bloomberg.com/news/articles/2026-04-01/europe-vies-to-be-humanoid-robot-leader-in-global-tech-race)**
+**[Europe Vies to Be Humanoid Robot Leader in Global Tech Race](https://www.bloomberg.com/news/articles/2026-04-01/europe-vies-to-be-humanoid-robot-leader-in-global-tech-race)**
 
-Bloomberg.com • 7h ago
+bloomberg.com • 2h ago
 
 ---
 
@@ -194,17 +196,7 @@ Brett Adcock is a technology entrepreneur focused on building companies in robot
 
 📺 Shawn Ryan Show
 
-👁️ 377K • 👍 8K • 💬 3K • ⏱️ 2:57:09 • 1d ago
-
----
-
-**[Xiaomi’s New AI Robot Hand Works Like a REAL Human… This Is INSANE](https://www.youtube.com/watch?v=Ubpk3tOl9gw)**
-
-Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking it's human — and that's just the START of what's ...
-
-📺 The AI Nexus
-
-👁️ 2K • 👍 107 • 💬 8 • ⏱️ 20:43 • 16h ago
+👁️ 387K • 👍 8K • 💬 3K • ⏱️ 2:57:09 • 1d ago
 
 ---
 
@@ -214,7 +206,17 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCkouj
 
 📺 Shawn Ryan Clips
 
-👁️ 9K • 👍 295 • 💬 127 • ⏱️ 15:18 • 1d ago
+👁️ 9K • 👍 299 • 💬 128 • ⏱️ 15:18 • 1d ago
+
+---
+
+**[Xiaomi’s New AI Robot Hand Works Like a REAL Human… This Is INSANE](https://www.youtube.com/watch?v=Ubpk3tOl9gw)**
+
+Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking it's human — and that's just the START of what's ...
+
+📺 The AI Nexus
+
+👁️ 2K • 👍 119 • 💬 8 • ⏱️ 20:43 • 18h ago
 
 ---
 
@@ -228,13 +230,13 @@ Melania Trump suggested using humanoid AI robots like a “Plato” educator to 
 
 ---
 
-**[First Lady Melania Trump walks with robot to White House event on children&#39;s technology](https://www.youtube.com/watch?v=7sHSBgU5p4Y)**
+**[China unveils gun-wielding robot wolf pack that thinks with shared brain](https://www.youtube.com/watch?v=X9eoHMmiXFM)**
 
-A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White House summit on empowering children with ...
+The Chinese military have unveiled a lethal robot wolf pack capable of carrying machine guns and grenade launchers.
 
-📺 C-SPAN
+📺 The Sun
 
-👁️ 228K • 👍 1K • 💬 2K • ⏱️ 2:59 • 6d ago
+👁️ 29K • 👍 280 • 💬 212 • ⏱️ 1:00 • 2d ago
 
 ---
 
@@ -244,37 +246,27 @@ Brett Adcock shares his vision for the future of humanoid robots, why he believe
 
 📺 Shawn Ryan Show
 
-👁️ 69K • 👍 2K • 💬 667 • ⏱️ 14:05 • 4d ago
+👁️ 69K • 👍 2K • 💬 671 • ⏱️ 14:05 • 4d ago
 
 ---
 
-**[Shocking moment robot slaps boy in the face during dance show in China](https://www.youtube.com/watch?v=B9NUDkOvBvI)**
+**[Robotic Fingers Beat Human Hands! 🤚](https://www.youtube.com/watch?v=hDmb96fnmzQ)**
 
-This is the shocking moment a young boy is slapped across the face by a rogue robot in China. The machine appears to be a G1 ...
+Robotic Fingers Beat Human Hands! This clip shows a highly advanced robotic hand performing precise and controlled ...
 
-📺 The Sun
+📺 Nerb Films
 
-👁️ 44K • 👍 336 • 💬 277 • ⏱️ 1:09 • 6d ago
-
----
-
-**[Amazon Just Bought a Humanoid Robot Company… This Changes Everything](https://www.youtube.com/watch?v=jdoYFz7M90I)**
-
-Amazon just made a surprising move into humanoid robotics by acquiring Fauna Robotics, the company behind the Sprout robot.
-
-📺 DPCcars
-
-👁️ 2K • 👍 54 • 💬 6 • ⏱️ 3:18 • 6d ago
+👁️ 22K • 💬 26 • ⏱️ 0:12 • 5d ago
 
 ---
 
-**[PACMAN AND ROBOT PACMAN VS MONSTER ROBOTS BEST ADVENTURES IN 2024 live edition](https://www.youtube.com/watch?v=tGHaOaS59ok)**
+**[One on One with Rivian CEO RJ Scaringe | FSD, AI and Robotics](https://www.youtube.com/watch?v=YB8lQIvLtw4)**
 
-THANK YOU SO MUCH for watching S3dV's Pacman!!! Music & Sound: Epidemic Sound I have a licence: ...
+Thanks to Monarch for partnering with me! Start your free trial and get 50% off your first year of total money clarity using my link ...
 
-📺 S3dV
+📺 Kim Java
 
-👁️ 16K • 👍 35 • 9h ago
+👁️ 1K • 👍 183 • 💬 12 • ⏱️ 19:37 • 2h ago
 
 ---
 
@@ -284,7 +276,17 @@ Humanoid robots have been making appearances through social media, tv segments, 
 
 📺 NBC News
 
-👁️ 96K • 👍 552 • 💬 373 • ⏱️ 3:05 • 6d ago
+👁️ 96K • 👍 553 • 💬 373 • ⏱️ 3:05 • 6d ago
+
+---
+
+**[WARNING: THIS ROBOT EATS HANDS! 😱🤖 #usa #shortsusa #youtube #youtubeshorts](https://www.youtube.com/watch?v=9qGtTAkR91s)**
+
+Follow me on social media: ✓Instagram: @davidribeirosilva ✓e-mail: davidrsilva1994@gmail.com #shorts #youtubeshorts ...
+
+📺 Davidim Channel
+
+👁️ 23K • 👍 1K • 💬 2 • ⏱️ 0:30 • 1d ago
 
 ---
 
