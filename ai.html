@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-04-01T19:03:56.008690+00:00"
+          "dateModified": "2026-04-01T20:06:53.274639+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -780,6 +780,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1s9us4j/how_claude_web_tried_to_break_out_its_container/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1s9us4j/how_claude_web_tried_to_break_out_its_container/" target="_blank" onclick="event.stopPropagation();">How Claude Web tried to break out its container, provided all files on the system, scanned the networks, etc</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Originally wasn't going to write about this - on one hand thought it's prolly already known, on the other hand I didn't feel like it was adding much even if it wasn't. But anyhow, looking at the discussions surrounding the code leak thing, I thought I as well might. So: A few weeks ago I got some practical experience with just how strong Claude can be for less-than-whole use. Essentially, I was doing a bit of evening self-study about some Linux internals and I ended up asking Claude about something. I noted that phrasing myself as learning about security stuff primed Claude to be rather compliant in regards of generating potentially harmful code. And it kind of escalated from there. Within the next couple of hours, on prompt Claude Web ended up providing full file listing from its environment, zipping up all code and markdown files and offering them for download (including the Anthropic-made skill files); it provided all network info it could get and scanned the network; it tried to utilize various vulnerabilities to break out its container; it wrote C implementations of various CVEs; it agreed to running obfuscated C code for exploiting vulnerabilities; it agreed to crashing its tool container (repeatedly); it agreed to sending messages to what it believed was the interface to the VM monitor; it provided hypotheses about the environment it was running in and tested those to its best ability; it scanned the memory for JWTs and did actually find one; and once I primed another Claude session up, Claude agreed to orchestrating a MAC spoofing attempt between those two session containers. Far as I can tell, no actual vulnerabilities found. The infra for Claude Web is very robust, and yeah no production code in the code files (mostly libraries), but.. Claude could run the same stuff against any environment. If you had a non-admin user account, for example, on some server, Claude would prolly run all the above against that just fine. To me, it's kind of scary how quickly these tools can help you do potentially malicious work in environments where you need to write specific Bash scripts or where you don't off the bat know what tools are available and what the filesystem looks like and what the system even is; while at the same time, my experience has been that when they generate code for applications, they end up themselves not being able to generate as secure code as what they could potentially set up attacks against. I imagine that the problem is that often, writing code in a secure fashion may require a relatively large context, and the mistake isn't necessarily obvious on a single line (not that these tools couldn't manage to write a single line that allowed e.g. SQL injection); but meanwhile, lots of vulnerabilities can be found by just scanning and searching and testing various commonly known scenarios out, essentially. Also, you have to get security right on basically every attempt for hundreds of times in a large codebase, while you only have to find the vulnerability once and you have potentially thousands of attempts at it. In that sense, it sort of feels like a bit of a stacked game with these tools.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1775071834.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1s9p4tl/combining_the_robot_operating_system_with_llms/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -862,6 +895,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1s9v5cn/the_turing_grid_a_digitalised_turing_tape_computer/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1s9v5cn/the_turing_grid_a_digitalised_turing_tape_computer/" target="_blank" onclick="event.stopPropagation();">The Turing Grid: A digitalised Turing tape computer</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            \# The Turing Grid Think of it as an infinite 3D spreadsheet where every cell can run code. (Edit: this is capped actually at +/- 2000 to stop really large numbers from happening). Coordinates: Every cell lives at an (x, y, z) position in 3D space Read/Write: Store text, JSON, or executable code in any cell Execute: Run code (Python, Rust, Ruby, Node, Swift, Bash, AppleScript) directly in a cell Daemons: Deploy a cell as a background daemon that runs forever on an interval Pipelines: Chain multiple cells together — output of one feeds into the next Labels: Bookmark cell positions with names for easy navigation Links: Create connections between cells (like hyperlinks) History: Every cell keeps its last 3 versions with undo support. Edit: The code for this can be found on the GitHub link on my profile.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1775072588.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1s9kdnq/i_built_a_complete_vision_system_for_humanoid/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -928,104 +994,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1s9plzg/ai_model_can_detect_multiple_cognitive_brain/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/M4fIRO1VwoMCClssN1JaXDKQnRWrvUR4MCKeGC2Ycq8.jpeg?width=640&crop=smart&auto=webp&s=8b2b1a1f1aa184c26082e841461dceaa02a9d600" alt="AI model can detect multiple cognitive brain diseases from a single blood sample" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1s9plzg/ai_model_can_detect_multiple_cognitive_brain/" target="_blank" onclick="event.stopPropagation();">AI model can detect multiple cognitive brain diseases from a single blood sample</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            The symptom profiles of different neurodegenerative diseases often overlap, and diagnosing age-related cognitive symptoms is complex. A patient may have multiple overlapping disease processes in the brain at the same time, for example, Alzheimer's disease and Lewy body disease, especially in the early stages of cognitive decline. Now, researchers at Lund University have developed an AI model showing that it is possible to detect several neurodegenerative diseases from a single blood sample. Their paper is published in the journal Nature Medicine. Researchers Jacob Vogel and Lijun An, together with colleagues from the Swedish BioFINDER study and the Global Neurodegenerative Proteomics Consortium (GNPC, an international research consortium that has created the world's largest proteomics database for neurodegenerative diseases) have developed the AI model based on protein measurements from more than 17,000 patients and control participants, collected from several datasets within GNPC's proteomics database, the largest in the world for proteins related to neurodegenerative diseases. "Our hope is to be able to accurately diagnose several diseases at once with a single blood test in the future," says Vogel, who led the study. He is an assistant professor, head of a research group, and part of the strategic research area MultiPark at Lund University. Using advanced statistical learning methods and a process known as "joint learning," the researchers' AI model was able to identify a specific set of proteins that form a general pattern for diseases involving brain degeneration. This learned pattern was then used to diagnose different neurodegenerative diseases. Vogel confirms that their AI model outperforms previous models, while also being able to diagnose five different dementia-related conditions: Alzheimer's disease, Parkinson's disease, ALS, frontotemporal dementia, and previous stroke. The study stands out compared to similar research because the model's results were validated across multiple independent datasets, according to the researchers. "We also found that the protein profile predicted cognitive decline better than the clinical diagnosis did, and it seems like individuals with the same clinical diagnosis may have different underlying biological subtypes," says An, the study's first author. Many individuals diagnosed with Alzheimer's disease showed a protein pattern more similar to other brain disorders. "This could mean they have more than one underlying disease, that Alzheimer's can develop in multiple ways, or that the clinical diagnosis is incorrect. However, I don't think current protein measurements from blood samples will be sufficient on their own to diagnose multiple diseases. We need to refine the method and combine it with other clinical diagnostic tools," says Vogel. Full research paper: https://www.nature.com/articles/s41591-026-04303-y
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1775061133.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://medicalxpress.com/news/2026-03-ai-multiple-cognitive-brain-diseases.html" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>medicalxpress.com</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1s9pg8i/diffusionbased_ai_model_successfully_trained_in/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/X_ZF5cUZDGsdr4ezrQSlNPi_67xY_hXsMZAvu49pcQI.jpeg?width=640&crop=smart&auto=webp&s=336feaf0963b82577d1fce4402e3182b5f9943d4" alt="Diffusion-based AI model successfully trained in electroplating" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1s9pg8i/diffusionbased_ai_model_successfully_trained_in/" target="_blank" onclick="event.stopPropagation();">Diffusion-based AI model successfully trained in electroplating</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Electrochemical deposition, or electroplating, is a common industrial technique that coats materials to improve corrosion resistance and protection, durability and hardness, conductivity and more. A Los Alamos National Laboratory team has developed generative diffusion-based AI models for electrochemistry, an innovative electrochemistry approach demonstrated with experimental data. The study, "Conditional Latent Diffusion for High-Resolution Prediction of Electrochemical Surface Morphology," is published in the Journal of The Electrochemical Society. "Electroplating is central to material development and production across many industries, and it has particularly useful applications in our production capabilities at the Laboratory," said Los Alamos scientist Alexander Scheinker, who led the AI aspect of the work. "The generative diffusion-based AI model approach we've established has the potential to dramatically accelerate electrodeposition development, creating efficiencies by reducing the need for extensive physical experiments when optimizing new materials and processes." Electroplating is a complex process involving many coupled parameters—solvents, electrolytes, temperature, power settings—making process optimization heavily reliant on time-consuming trial and error. The team trained its AI model on parameters and on the electron microscope images those settings produced, building the model's capability to predict the structure, form and characteristics of electrodeposited materials.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1775060803.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://techxplore.com/news/2026-04-diffusion-based-ai-successfully-electroplating.html" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>techxplore.com</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1049,7 +1017,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-01T19:03:27.713552+00:00">Updated 2026-04-01T19:03:27.713552+00:00</small>
+        <small data-timestamp="2026-04-01T20:06:29.403560+00:00">Updated 2026-04-01T20:06:29.403560+00:00</small>
     </div>
 </div>
 
@@ -1276,14 +1244,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/anthropic-races-to-contain-leak-of-code-behind-claude-ai-agent-4bc5acc7?gaa_at=eafs&gaa_n=AWEtsqcHQLj48BdQakKvf6L-JvA4Nu0Smc2aZnFLhWYCXvsiHZGM2JAIASYx&gaa_ts=69cd6f82&gaa_sig=MP0sY3a1wOMpQzZrTWOWeULokur29p6-hbVdyno7j9Nm-pq6c3PGOyGR6dh-8saMqQAYRjzAS8tiR0z96lv6pA%3D%3D', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://fox4kc.com/news/kansas-city-oracle-campus-cuts-over-500-jobs-for-ai-investment-shift/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.wsj.com/tech/ai/anthropic-races-to-contain-leak-of-code-behind-claude-ai-agent-4bc5acc7?gaa_at=eafs&gaa_n=AWEtsqcHQLj48BdQakKvf6L-JvA4Nu0Smc2aZnFLhWYCXvsiHZGM2JAIASYx&gaa_ts=69cd6f82&gaa_sig=MP0sY3a1wOMpQzZrTWOWeULokur29p6-hbVdyno7j9Nm-pq6c3PGOyGR6dh-8saMqQAYRjzAS8tiR0z96lv6pA%3D%3D" target="_blank" onclick="event.stopPropagation();">Anthropic Races to Contain Leak of Code Behind Claude AI Agent</a>
+                            <a href="https://fox4kc.com/news/kansas-city-oracle-campus-cuts-over-500-jobs-for-ai-investment-shift/" target="_blank" onclick="event.stopPropagation();">Kansas City Oracle campus cuts over 500 jobs for AI investment shift</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1295,9 +1263,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="WSJ" class="news-favicon">
-                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">WSJ</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fox4kc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="fox4kc.com" class="news-favicon">
+                                    <a href="https://fox4kc.com" target="_blank" onclick="event.stopPropagation();">fox4kc.com</a>
                                     
                                 </div>
                                 
@@ -1305,85 +1273,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1775064180.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/04/01/trump-us-push-sell-ai-abroad', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.axios.com/2026/04/01/trump-us-push-sell-ai-abroad" target="_blank" onclick="event.stopPropagation();">Exclusive: U.S. kicks off push to sell AI abroad</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Axios" class="news-favicon">
-                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1775068039.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.wired.com/story/thank-you-for-generating-with-us-hollywoods-ai-acolytes-stay-on-the-hype-train/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://media.wired.com/photos/69cd4ac4a4b79e3877561536/191:100/w_1280,c_limit/ASAP_KathleenKennedy_Treatment.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.wired.com/story/thank-you-for-generating-with-us-hollywoods-ai-acolytes-stay-on-the-hype-train/" target="_blank" onclick="event.stopPropagation();">‘Thank You For Generating With Us!’ Hollywood's AI Acolytes Stay on the Hype Train</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Star Wars producer Kathleen Kennedy was one of the few skeptics at the Runway AI Summit, where AI was compared to fire and the printing press just a week after Sora’s death.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wired.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="wired.com" class="news-favicon">
-                                    <a href="https://www.wired.com" target="_blank" onclick="event.stopPropagation();">wired.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1775067180.0"></span>
+                                    <span data-timestamp="1775059755.0"></span>
                                 </div>
                                 
                             </div>
@@ -1415,8 +1305,8 @@
                                 <div class="news-meta-item news-source">
                                     
                                     <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://gizmodo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Gizmodo" class="news-favicon">
-                                    <a href="https://gizmodo.com" target="_blank" onclick="event.stopPropagation();">Gizmodo</a>
+                                         alt="gizmodo.com" class="news-favicon">
+                                    <a href="https://gizmodo.com" target="_blank" onclick="event.stopPropagation();">gizmodo.com</a>
                                     
                                 </div>
                                 
@@ -1425,6 +1315,125 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1775069703.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/anthropic-races-to-contain-leak-of-code-behind-claude-ai-agent-4bc5acc7?gaa_at=eafs&gaa_n=AWEtsqdoYgJ_byYxX8a2CtmhizvRCpjfAqRPvOlwk-i6vA_Nd1FNaZe56plv&gaa_ts=69cd7e48&gaa_sig=VwD_iPbNZiBxeBLyEdGxoBx2KSMvcQgcHzY2VfFvw4afsi9HBr4vj21lqRYF1Ny6OiFY2jUlEMtlvgLFSQzPBQ%3D%3D', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.wsj.com/tech/ai/anthropic-races-to-contain-leak-of-code-behind-claude-ai-agent-4bc5acc7?gaa_at=eafs&gaa_n=AWEtsqdoYgJ_byYxX8a2CtmhizvRCpjfAqRPvOlwk-i6vA_Nd1FNaZe56plv&gaa_ts=69cd7e48&gaa_sig=VwD_iPbNZiBxeBLyEdGxoBx2KSMvcQgcHzY2VfFvw4afsi9HBr4vj21lqRYF1Ny6OiFY2jUlEMtlvgLFSQzPBQ%3D%3D" target="_blank" onclick="event.stopPropagation();">Anthropic Races to Contain Leak of Code Behind Claude AI Agent</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="WSJ" class="news-favicon">
+                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">WSJ</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1775064180.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.statnews.com/2026/04/01/ai-ambient-scribes-modest-time-savings-clinical-documentation/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.statnews.com/wp-content/uploads/2026/04/AdobeStock_1829075722-1024x576.jpeg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.statnews.com/2026/04/01/ai-ambient-scribes-modest-time-savings-clinical-documentation/" target="_blank" onclick="event.stopPropagation();">Large AI scribe study finds modest time savings, inconsistent use</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            AI scribes saved doctors, across five academic medical centers, about 16 minutes per eight hours of patient care, a new study found.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.statnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="statnews.com" class="news-favicon">
+                                    <a href="https://www.statnews.com" target="_blank" onclick="event.stopPropagation();">statnews.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1775073952.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/2026/apr/01/anthropic-claudes-code-leaks-ai', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/7e648c2e20ef89a062acd8faaa32fb4544525ee9/417_0_4167_3336/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d9d7f08cb01384bbeb9dad43ef6ab772');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.theguardian.com/technology/2026/apr/01/anthropic-claudes-code-leaks-ai" target="_blank" onclick="event.stopPropagation();">Claude’s code: Anthropic leaks source code for AI software engineering tool</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Nearly 2,000 internal files were briefly leaked after ‘human error’, raising fresh security questions at the AI company
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Guardian" class="news-favicon">
+                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1775071020.0"></span>
                                 </div>
                                 
                             </div>
@@ -1510,55 +1519,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/education/2026/04/01/professors-design-ai-apps/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/E2CRRP5FD3II423HXOMITC3BNY.JPG&w=1440');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.washingtonpost.com/education/2026/04/01/professors-design-ai-apps/" target="_blank" onclick="event.stopPropagation();">ChatGPT fed his students easy answers, so he built an app to argue with them</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            AI tools infused with faculty expertise are intended to help students think through solutions while exploring and refining ideas.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Washington Post" class="news-favicon">
-                                    <a href="https://www.washingtonpost.com" target="_blank" onclick="event.stopPropagation();">The Washington Post</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1775066531.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://yaleclimateconnections.org/2026/04/ai-trained-on-turtle-poop-predicts-hurricanes-better-than-any-model/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.politico.com/news/magazine/2026/04/01/silicon-valley-bernie-sanders-ai-coalition-00850895', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://yaleclimateconnections.org/2026/04/ai-trained-on-turtle-poop-predicts-hurricanes-better-than-any-model/" target="_blank" onclick="event.stopPropagation();">AI trained on turtle poop predicts hurricanes better than any model</a>
+                            <a href="https://www.politico.com/news/magazine/2026/04/01/silicon-valley-bernie-sanders-ai-coalition-00850895" target="_blank" onclick="event.stopPropagation();">‘Think Everybody Dead’: How the Threat of AI Is Fueling a New Political Alliance</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1570,9 +1538,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://yaleclimateconnections.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yale Climate Connections" class="news-favicon">
-                                    <a href="https://yaleclimateconnections.org" target="_blank" onclick="event.stopPropagation();">Yale Climate Connections</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Politico" class="news-favicon">
+                                    <a href="https://www.politico.com" target="_blank" onclick="event.stopPropagation();">Politico</a>
                                     
                                 </div>
                                 
@@ -1580,7 +1548,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1775041200.0"></span>
+                                    <span data-timestamp="1775052000.0"></span>
                                 </div>
                                 
                             </div>
@@ -1588,21 +1556,17 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/film/2026/mar/31/the-super-mario-galaxy-movie-review-sequel-video-game-chris-pratt-charlie-day', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/04/01/trump-us-push-sell-ai-abroad', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/00d48a8fe09a82d41eda5f07c9eea7bd8dcb14b3/145_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTEucG5n&enable=upscale&s=d21135e261fb33f3c3be168af89ab92f');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.theguardian.com/film/2026/mar/31/the-super-mario-galaxy-movie-review-sequel-video-game-chris-pratt-charlie-day" target="_blank" onclick="event.stopPropagation();">The Super Mario Galaxy Movie review – bland screensaver of a movie that’s actually worse than AI</a>
+                            <a href="https://www.axios.com/2026/04/01/trump-us-push-sell-ai-abroad" target="_blank" onclick="event.stopPropagation();">Exclusive: U.S. kicks off push to sell AI abroad</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            At this point, it’s trite to say that a bad film feels as if it’s been AI generated, but this simplistic sequel is next-level – it’s nothing more than an Easter holiday cash grab
-                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1611,9 +1575,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Guardian" class="news-favicon">
-                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Axios" class="news-favicon">
+                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
                                     
                                 </div>
                                 
@@ -1621,7 +1585,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1774983660.0"></span>
+                                    <span data-timestamp="1775068039.0"></span>
                                 </div>
                                 
                             </div>
@@ -1649,7 +1613,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-01T19:03:51.113691+00:00">Updated 2026-04-01T19:03:51.113691+00:00</small>
+        <small data-timestamp="2026-04-01T20:06:52.426565+00:00">Updated 2026-04-01T20:06:52.426565+00:00</small>
     </div>
 </div>
 
@@ -2051,55 +2015,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47566653', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://dims.apnews.com/dims4/default/149a411/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F04%2F68%2F72e00113c3530d36a250b0f72f4a%2Faeb496a9d767468cbb4d748f0e178233');"></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=47566653" target="_blank" onclick="event.stopPropagation();">Midnight train from GA: A view of America from the tracks as airports struggle</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Long security lines at airports are driving people crazy as Congress and President Donald Trump try to work out a budget stalemate.
-                        </div>
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 148</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 139</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-03-29T20:00:02Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://apnews.com/article/airports-shutdown-long-lines-train-travel-amtrak-e4d8ea591b3b036142c2bf2dee7dff5a" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://apnews.com/apple-touch-icon.png" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>AP News</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47574346', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="post-thumbnail" style="background-image: url('https://negroniventurestudios.com/wp-content/uploads/2026/03/1773765939876-1024x683.jpeg');"></div>
@@ -2198,6 +2113,55 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47603737', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" style="background-image: url('https://engineering.fb.com/wp-content/uploads/2026/03/Meta-AI-for-American-Concrete-HERO.jpg');"></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=47603737" target="_blank" onclick="event.stopPropagation();">AI for American-produced cement and concrete</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Meta is continuing its long-term roadmap to help the construction industry leverage AI to produce high-quality and more sustainable concrete mixes, as well as those exclusively produced in the Unit…
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 91</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 70</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-04-01T17:17:24Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://engineering.fb.com/wp-content/themes/code-fb-com/favicon.ico" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>Engineering at Meta</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47580910', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="post-thumbnail" style="background-image: url('https://opengraph.githubassets.com/66026d0279d21ba7909490e55c2e2137df0114f943dee64e0c2e991a3b064141/virpo/pegboard');"></div>
@@ -2247,55 +2211,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47603737', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://engineering.fb.com/wp-content/uploads/2026/03/Meta-AI-for-American-Concrete-HERO.jpg');"></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=47603737" target="_blank" onclick="event.stopPropagation();">AI for American-Produced Cement and Concrete</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Meta is continuing its long-term roadmap to help the construction industry leverage AI to produce high-quality and more sustainable concrete mixes, as well as those exclusively produced in the Unit…
-                        </div>
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 60</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 46</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-04-01T17:17:24Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://engineering.fb.com/wp-content/themes/code-fb-com/favicon.ico" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>Engineering at Meta</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47599771', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="post-thumbnail" style="background-image: url('https://getbaton.dev/og-image.png?v=2');"></div>
@@ -2317,10 +2232,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 57</span>
+                                    <span class="post-points">▲ 58</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 47</span>
+                                    <span style="color: #9ca3af;">💬 48</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2337,6 +2252,55 @@
                                             
                                         
                                         <span>Baton</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47567183', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" style="background-image: url('https://regmedia.co.uk/2025/10/01/shutterstock_2277467215.jpg');"></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=47567183" target="_blank" onclick="event.stopPropagation();">AI isn't killing jobs, it's 'unbundling' them into lower-paid chunks</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            : Paper argues the real impact isn't job loss but narrowing human work and pay
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 56</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 33</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-03-29T20:51:55Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.theregister.com/2026/03/24/ai_job_unbundling/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://www.theregister.com/design_picker/b3abce7144e52ec67efd11fc0a98d0b441a0cfd0/graphics/favicons/apple-touch-icon.png" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>theregister.com</span>
                                     </a>
                                 </div>
                                 
@@ -2365,7 +2329,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-01T19:03:28.759249+00:00">Updated 2026-04-01T19:03:28.759249+00:00</small>
+        <small data-timestamp="2026-04-01T20:06:29.280451+00:00">Updated 2026-04-01T20:06:29.280451+00:00</small>
     </div>
 </div>
 
