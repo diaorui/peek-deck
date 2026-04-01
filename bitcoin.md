@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-01T11:56:42.098260+00:00'
+updated: '2026-04-01T13:43:15.151954+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
+- cryptocurrency
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 01, 2026 at 11:56 UTC  
+**Last Updated:** April 01, 2026 at 13:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,661.87
+### $68,378.10
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.8%  
-**7d:** -0.5%  
-**30d:** +0.3%  
-**90d:** -23.9%  
-**1y:** -17.1%  
+**24h:** +2.4%  
+**7d:** -0.9%  
+**30d:** -0.1%  
+**90d:** -24.2%  
+**1y:** -17.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1370.03B
+**Market Cap:** $1371.09B
 Rank #1
 
 **Circulating Supply:** 20,009,975 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--45.7%
+-45.8%
 
 **All-Time Low:** $67.81
-+100868.9%
++100737.6%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I have started accumulating btc since 2021, not going out with boys ,even cancelling the trip to Thailand and missing on that thai massage just to accumulate btc, and today finally i have one btc 😭
 
-10h ago
+11h ago
 
 ---
 
@@ -89,7 +89,7 @@ I have started accumulating btc since 2021, not going out with boys ,even cancel
 
 So I'm 28 and figure this might be my last chance to really swing for the fences before I get too settled into the whole responsible adult thing. Been thinking about dumping like $2500 monthly into my hardware wallet and just letting it ride for the next 5-6 years. I mean when else am I gonna have this kind of freedom to make big moves without worrying about a mortgage or kids or whatever. My job's pretty stable so I can swing it and still cover my expenses. Part of me thinks I'm crazy but another part thinks I'll regret not taking the shot when I had the chance. Anyone else doing something similar or am I just being reckless
 
-15h ago
+17h ago
 
 ---
 
@@ -97,7 +97,7 @@ So I'm 28 and figure this might be my last chance to really swing for the fences
 
 I don't know if it's just me who is thinking that... But Bitcoin feels very strange right now.
 
-5h ago
+6h ago
 
 ---
 
@@ -105,7 +105,7 @@ I don't know if it's just me who is thinking that... But Bitcoin feels very stra
 
 Back when we hit those peak prices I kept seeing posts about hitting $200k before the year ended, now everyone's switched to doom and gloom saying we're headed for a brutal 12 months ahead. Truth is nobody on this sub has a clue what's coming in the next few months. Best thing to do is chill out and keep holding your stack.
 
-10h ago
+12h ago
 
 ---
 
@@ -113,7 +113,7 @@ Back when we hit those peak prices I kept seeing posts about hitting $200k befor
 
 Everything's bleeding red today, bitcoin taking a proper beating All the weak holders are losing their minds. Media calling it a collapse as usual But step back and look at the bigger picture: - We're still working through post-halving dynamics - Corporate adoption and institutional money isn't dissapearing This is just how bitcoin works - flush out the scared money before the next run higher. If you actually believe in this thing long term, these drops are buying opportunities. Keep accumulating while everyone else panics
 
-23h ago
+1d ago
 
 ---
 
@@ -121,7 +121,7 @@ Everything's bleeding red today, bitcoin taking a proper beating All the weak ho
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-5h ago
+7h ago
 
 ---
 
@@ -129,7 +129,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Microns and liquid acrylic on arches. Bitcoin art
 
-14h ago
+15h ago
 
 ---
 
@@ -137,7 +137,7 @@ Microns and liquid acrylic on arches. Bitcoin art
 
 One thing to love about COLDCARD is its commitment to open standards. You can pair it with the companion wallet of your choice. Seems like this should be the standard for all hardware wallets.
 
-21h ago
+22h ago
 
 ---
 
@@ -145,7 +145,7 @@ One thing to love about COLDCARD is its commitment to open standards. You can pa
 
 Not gonna lie, this stretch feels like one of those periods where nothing crazy is happening on the surface but a lot is quietly building underneath. Price isn’t doing much to grab headlines, sentiment is split, and half the posts are either “we’re going to the moon tomorrow” or “it’s over.” Meanwhile Bitcoin just keeps running like normal. What stands out right now is big players don’t seem to be leaving, volatility feels kinda compressed, and retail interest isn’t euphoric at all which is usually when things get interesting. Feels like more people are focused on short term moves instead of long term positioning. This kind of “boring” phase usually doesn’t last. Not calling direction, I’m just stacking and staying patient. What’s everyone else doing right now?
 
-22h ago
+23h ago
 
 ---
 
@@ -153,7 +153,7 @@ Not gonna lie, this stretch feels like one of those periods where nothing crazy 
 
 Bitcoin DCA math: $10/week since 2021 = 8x today. Post-halving? 30x by 2030. HODLers: Your entry → target?
 
-11h ago
+13h ago
 
 ---
 
@@ -169,33 +169,31 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin Holds Modest Gains After Five-Month Losing Streak Ends](https://uk.finance.yahoo.com/news/bitcoin-holds-modest-gains-five-070049071.html)**
+**[Bitcoin Rises With Risk Assets on Trump Iran War Report](https://www.bloomberg.com/news/articles/2026-03-31/bitcoin-btc-rises-with-risk-assets-as-trump-talks-end-of-iran-war)**
 
-(Bloomberg) -- Bitcoin was holding onto gains on Wednesday after snapping a five-month losing streak in March, buoyed along with other risk assets by US President Donald Trump’s intention to end the war on Iran within weeks.The original cryptocurrency was up as much as 1.5% in early Europe trading, hovering around $69,000 at 8 a.m. in London. Ether, the second-largest token, was holding above $2,100.Bitcoin climbed 2.2% in March, its first monthly gain since September, fueling optimism among som
-
-Yahoo Finance UK • 2h ago
+Bloomberg.com • 16h ago
 
 ---
 
-**[Bitcoin’s old peaks aren’t untouchable anymore, and the days of parabolic rallies could be over](https://www.coindesk.com/markets/2026/04/01/bitcoin-s-old-peaks-aren-t-untouchable-anymore-and-the-days-of-parabolic-rallies-could-be-over)**
+**[Bitcoin ETFs Return to Monthly Inflows for the First Time Since October — But Q1 Still Ends in the Red](https://unchainedcrypto.com/bitcoin-etfs-post-first-monthly-inflows-since-october-2025-as-btc-price-stabilizes/)**
 
-Bitcoin’s price retraces to old highs, signaling slower growth and a maturing market.
+U.S. spot Bitcoin ETFs recorded $1.32 billion in net inflows in March 2026 — ending a four-month outflow streak — though Q1 still closed with roughly $500 million in net redemptions overall.
 
-CoinDesk • 2h ago
-
----
-
-**[Bitcoin ETFs post first monthly inflows since October as price stabilizes](https://www.coindesk.com/markets/2026/04/01/bitcoin-etfs-post-first-inflows-since-october-as-price-stabilizes)**
-
-ETF AUM fell just 7% from the October highs, highlighting resilience despite a 50% price decline.
-
-CoinDesk • 1h ago
+unchainedcrypto.com • 1h ago
 
 ---
 
 **[MSTR Stock: Bitcoin Whale Is Wall Street's No. 1 Crush And No. 1 Stock Issuer. Coincidence?](https://www.investors.com/news/mstr-stock-bitcoin-whale-strategy-wall-street-price-targets-stock-issuance/)**
 
 Investor's Business Daily • 1d ago
+
+---
+
+**[Core Foundation franchises Satoshi Plus bitcoin consensus model for new Zcash scaling layer](https://www.theblock.co/post/395826/core-foundation-franchise-satoshi-plus-bitcoin-zcash-evm)**
+
+Kieran Dennis, co-founder of Z and an initial contributor to Core, claims Z is the first attempt to bring native EVM capabilities to Zcash.
+
+The Block • 1d ago
 
 ---
 
@@ -213,23 +211,27 @@ Investopedia • 1d ago
 
 ---
 
-**[Bitcoin-Backed Municipal Bond Clears Hurdle With Moody’s Rating](https://www.bloomberg.com/news/articles/2026-03-31/bitcoin-backed-municipal-bond-clears-hurdle-with-moody-s-rating)**
+**[What you’re *actually* buying when you buy Bitcoin](https://nypost.com/business/bitcoin-investment-explained/)**
 
-Bloomberg.com • 16h ago
+Oh how the rules have changed.
 
----
-
-**[Bitcoin Rises With Risk Assets on Trump Iran War Report](https://www.bloomberg.com/news/articles/2026-03-31/bitcoin-btc-rises-with-risk-assets-as-trump-talks-end-of-iran-war)**
-
-Bloomberg.com • 14h ago
+New York Post • 15h ago
 
 ---
 
-**[These catalysts could bump bitcoin as Trump hands three-week target to end Iran war](https://www.coindesk.com/markets/2026/04/01/these-catalysts-could-bump-bitcoin-as-trump-hands-three-week-target-to-end-iran-war)**
+**[Oconee Blotter: Bitcoin price dispute leads to arrest of Oklahoman](https://www.onlineathens.com/story/news/crime/2026/03/31/oconee-blotter-bitcoin-price-dispute-ends-with-oklahoman-in-jail/89388588007/)**
 
-Asian stocks surged 4% and S&P 500 futures jumped after Trump said the conflict could conclude without a deal with Tehran, while Morgan Stanley's newly approved bitcoin ETF at 14 basis points opens a $6.2 trillion advisory channel.
+A deputy was dispatched to a crash where one driver didn't want an officer involved.
 
-CoinDesk • 6h ago
+Online Athens • 1d ago
+
+---
+
+**[Bitcoin’s drawdown is ‘less dramatic’ this cycle, Fidelity says](https://www.tradingview.com/news/cointelegraph:0fe99220b094b:0-bitcoin-s-drawdown-is-less-dramatic-this-cycle-fidelity-says/)**
+
+Bitcoin (BTC) has declined by about 50% this market cycle, far less than in previous cycles, Fidelity Digital Assets said, adding this trend could continue over time. Bitcoin’s post-all-time-high drawdowns have historically been steep, at about 80% to 90%, but this cycle has been about 50%, Fidelit…
+
+TradingView • 7h ago
 
 ---
 
@@ -241,13 +243,13 @@ CoinDesk • 6h ago
 
 Google Research said the necessary resources for quantum computers to break cryptocurrencies have seen a 20-fold reduction.
 
-⬆️ 7 • 💬 2 • 8h ago • [The Block](https://www.theblock.co/post/395814/google-quantum-computing-earlier)
+⬆️ 7 • 💬 2 • 10h ago • [The Block](https://www.theblock.co/post/395814/google-quantum-computing-earlier)
 
 ---
 
 **[KnexCoin (NEX) soft forked Bitcoin and now Quantum Ready](https://news.ycombinator.com/item?id=47589186)**
 
-⬆️ 2 • 💬 1 • 20h ago • [untraceablex.com](https://www.untraceablex.com)
+⬆️ 2 • 💬 1 • 21h ago • [untraceablex.com](https://www.untraceablex.com)
 
 ---
 
@@ -256,6 +258,12 @@ Google Research said the necessary resources for quantum computers to break cryp
 The first signing system where the private key is a physical key — and can still transact. Titanium. Not stored digitally. Not protected by firmware.
 
 ⬆️ 2 • 💬 1 • 1d ago • [Frozen Security](https://frozensecurity.com/)
+
+---
+
+**[Google Paper Warns of Quantum Computing Risk for Bitcoin](https://news.ycombinator.com/item?id=47600418)**
+
+⬆️ 1 • 💬 0 • 28m ago • [wsj.com](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q)
 
 ---
 
@@ -273,7 +281,7 @@ The first signing system where the private key is a physical key — and can sti
 
 **[Show HN: Live simulation of AI agents scamming each other (and getting caught)](https://news.ycombinator.com/item?id=47595450)**
 
-⬆️ 3 • 💬 0 • 11h ago • [5.161.255.238:8888](http://5.161.255.238:8888)
+⬆️ 3 • 💬 0 • 12h ago • [5.161.255.238:8888](http://5.161.255.238:8888)
 
 ---
 
@@ -281,7 +289,7 @@ The first signing system where the private key is a physical key — and can sti
 
 runs multiple inputs through a script/function in parallel using bash coprocs - jkool702/forkrun
 
-⬆️ 131 • 💬 31 • 4d ago • [GitHub](https://github.com/jkool702/forkrun)
+⬆️ 137 • 💬 35 • 5d ago • [GitHub](https://github.com/jkool702/forkrun)
 
 ---
 
@@ -305,7 +313,7 @@ If you know someone who holds Bitcoin → send them this video. “Quantum Will 
 
 📺 Altcoin Daily
 
-👁️ 22K • 👍 1K • 💬 162 • ⏱️ 10:16 • 15h ago
+👁️ 25K • 👍 1K • 💬 174 • ⏱️ 10:16 • 16h ago
 
 ---
 
@@ -315,7 +323,7 @@ Global markets are cracking under war, inflation, and policy failure, but most p
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 50 • ⏱️ 11:45 • 14h ago
+👁️ 18K • 👍 1K • 💬 58 • ⏱️ 11:45 • 15h ago
 
 ---
 
@@ -325,17 +333,7 @@ Google dropped a new quantum computing paper and the internet immediately reacte
 
 📺 Swan Bitcoin
 
-👁️ 6K • 👍 423 • 💬 36 • ⏱️ 12:30 • 16h ago
-
----
-
-**[Is Bitcoin DOOMED? Major Quantum Breakthrough Disrupts Markets!](https://www.youtube.com/watch?v=rfqIOxF0Xqg)**
-
-Bitcoin #Crypto #Finance Bitcoin just closed its worst first quarter since 2018, and now the market is at a crossroads. On one side ...
-
-📺 The Wolf Of All Streets
-
-👁️ 15K • 👍 640 • 💬 163 • ⏱️ 58:16 • 21h ago
+👁️ 6K • 👍 451 • 💬 39 • ⏱️ 12:30 • 18h ago
 
 ---
 
@@ -345,15 +343,17 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Buy
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 224 • ⏱️ 9:58 • 1d ago
+👁️ 43K • 👍 2K • 💬 236 • ⏱️ 9:58 • 1d ago
 
 ---
 
-**[TRUMP KEEPS DELIVERING CRYPTO PROMISES TO THE AMERICAN PEOPLE #crypto #xrp #trump #bitcoin](https://www.youtube.com/watch?v=_Shpm1ADt8I)**
+**[Is Bitcoin DOOMED? Major Quantum Breakthrough Disrupts Markets!](https://www.youtube.com/watch?v=rfqIOxF0Xqg)**
 
-📺 CryptoWendyO
+Bitcoin #Crypto #Finance Bitcoin just closed its worst first quarter since 2018, and now the market is at a crossroads. On one side ...
 
-👁️ 7K • 👍 610 • 💬 8 • ⏱️ 2:06 • 10h ago
+📺 The Wolf Of All Streets
+
+👁️ 15K • 👍 646 • 💬 166 • ⏱️ 58:16 • 22h ago
 
 ---
 
@@ -363,25 +363,35 @@ New data shows the future of markets and crypto in general. Its important for bi
 
 📺 Thomas Kralow
 
-👁️ 23K • 👍 2K • 💬 88 • ⏱️ 11:48 • 2d ago
+👁️ 24K • 👍 2K • 💬 89 • ⏱️ 11:48 • 2d ago
 
 ---
 
-**[The Biggest Mistakes People Make With Bitcoin Wallets](https://www.youtube.com/watch?v=PN5b8nTjYws)**
+**[Bitcoin is on the brink (most won&#39;t listen)](https://www.youtube.com/watch?v=eWJjrHuA788)**
 
-📺 Andrei Jikh
+If you hold Bitcoin or Ethereum... watch this! (alert!) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC ...
 
-👁️ 45K • 👍 1K • 💬 46 • ⏱️ 2:32 • 2d ago
+📺 Altcoin Daily
+
+👁️ 11K • 👍 423 • 💬 57 • ⏱️ 1:18 • 1d ago
 
 ---
 
-**[This Bitcoin Pattern Has NEVER Failed And It’s Back!   Tom Lee warns](https://www.youtube.com/watch?v=e3fvLPzKreA)**
+**[America Going BROKE! (Bitcoin Holders Are NOT Ready)](https://www.youtube.com/watch?v=xspVtNCSLHU)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+Bitcoin holders think they're safe, but are they prepared for a "Fed Crisis Scenario"? We break down the latest March 2026 data, ...
 
-📺 Savvy Finance
+📺 Discover Crypto
 
-👁️ 3K • 👍 95 • 💬 32 • ⏱️ 18:15 • 22h ago
+👁️ 5K • 👍 227 • 💬 82 • ⏱️ 6:18 • 14h ago
+
+---
+
+**[TRUMP KEEPS DELIVERING CRYPTO PROMISES TO THE AMERICAN PEOPLE #crypto #xrp #trump #bitcoin](https://www.youtube.com/watch?v=_Shpm1ADt8I)**
+
+📺 CryptoWendyO
+
+👁️ 9K • 👍 688 • 💬 32 • ⏱️ 2:06 • 12h ago
 
 ---
 

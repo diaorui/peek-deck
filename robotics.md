@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-01T11:56:42.106666+00:00'
+updated: '2026-04-01T13:43:15.161466+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 01, 2026 at 11:56 UTC  
+**Last Updated:** April 01, 2026 at 13:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 To learn more about running OpenClaw and ROS robotics, checkout AgenticROS https://agenticros.com
 
-16h ago
+18h ago
 
 ---
 
@@ -44,7 +44,7 @@ To learn more about running OpenClaw and ROS robotics, checkout AgenticROS https
 
 https://reddit.com/link/1s8tt6j/video/miswsbmylfsg1/player Hey - spent the last year building PhAIL (physical AI leaderboard). I wanted to answer a simple question: how good are robot AI models on actual work, not demos PhAIL runs models on a real robot doing bin-to-bin picking and measures: throughput (units/hour) reliability (time between failures) everything is public: full videos of every run telemetry + logs fine-tuning dataset + training scripts link: https://phail.ai Genuinely curious what you think. What’s useful here, what’s missing. Please share your feedback.
 
-18h ago
+20h ago
 
 ---
 
@@ -52,7 +52,7 @@ https://reddit.com/link/1s8tt6j/video/miswsbmylfsg1/player Hey - spent the last 
 
 https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printed parts, motorized projector, home decoration, and DIY electronics -- if you know of anyone else that might be interested in this stuff, sharing to others would really help me out! Hope to see you around here or YouTube :)
 
-17h ago
+19h ago
 
 ---
 
@@ -60,13 +60,13 @@ https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printe
 
 All M5Stack components. Mecanum four motor buggy, StickCPlus onboard controller TOF sensor scanning on a servo. Autonomous. Source code available if you are interested.
 
-14h ago
+16h ago
 
 ---
 
 **[BabaCAD Robotics Web v2.1](https://www.reddit.com/r/robotics/comments/1s8v9by/babacad_robotics_web_v21/)**
 
-17h ago
+19h ago
 
 ---
 
@@ -74,7 +74,7 @@ All M5Stack components. Mecanum four motor buggy, StickCPlus onboard controller 
 
 I am having a lot of trouble choosing a masters/phd program. I am looking to go into robotics and have 3 options to choose from. For reference I am from North America and went to a top undergrad school here. Option A is overseas in asia but it is REALLYYY well funded but I don't think my research direction is exactly aligned with my supervisor's background so I am worried about this. I have the flexibility to study whatever I want but I also want to make sure I get good guidance. The city here is also really good and I'd enjoy living here based on past visits. Option B: The other is a MS at a top university in the US. It isn't funded but the PI's research direction and mine align perfectly. There's an option to transfer to phd but can't say anything for sure now. Also the city is peak imo. Option C: The last option is a lower prestige american uni but the PI is a perect fit as well in terms of research direction and really nice and supportive. The funding is also only gaurenteed for the first year and is uncertain for subsequent years. It is likely gonna be fine but technically it is uncertain (depends if the grants come through). Though the location of the school isn't ideal and I am worried about living there in the American south. I am stuck between doing reserch I like and living a life I want during my youth. I am so torn and don't know how to decide :( My end goal is to get a phd because i love research but I wouldn't mind getting a masters, working for a bit in some industry research and coming back as well. I am open. Ideally I wanna work in a R&D research position in robotics companies. Into humanoids these days and specifically humanoid safety
 
-8h ago
+10h ago
 
 ---
 
@@ -120,23 +120,37 @@ Euronews.com • 3d ago
 
 ---
 
+**[Surgical robotics: Why motion architecture matters more than ever](https://www.therobotreport.com/surgical-robotics-why-motion-architecture-matters-more-than-ever/)**
+
+By Antonio Herrera, Senior Industry Manager, Portescap Surgical robotics has entered its most rapid era of design evolution, driven by demands for smaller
+
+The Robot Report • 1h ago
+
+---
+
+**[Humanoid Robots Offer Europe Path to Stay in Global Tech Race](https://www.bloomberg.com/news/articles/2026-04-01/europe-vies-to-be-humanoid-robot-leader-in-global-tech-race)**
+
+Bloomberg.com • 6h ago
+
+---
+
 **[The world’s largest humanoid robot maker is going public](https://restofworld.org/2026/unitree-china-humanoid-robot-shanghai-ipo/)**
 
 Rest of World • 1d ago
 
 ---
 
-**[Humanoid Robots Offer Europe Path to Stay in Global Tech Race](https://www.bloomberg.com/news/articles/2026-04-01/europe-vies-to-be-humanoid-robot-leader-in-global-tech-race)**
+**[Amazon buys Fauna Robotics, maker of the Sprout humanoid robot that can dance, pick up toys, and go on a stroll](https://fortune.com/2026/03/29/amazon-acquisition-fauna-robotics-sprout-humanoid-robot-homes-schools-disney/)**
 
-Bloomberg.com • 4h ago
+Early customers included Disney.
+
+Fortune • 2d ago
 
 ---
 
-**[New humanoid robot factory in China claims it can make one unit every 30 minutes](https://interestingengineering.com/ai-robotics/china-opens-humanoid-robot-factory)**
+**[OpenAI leases massive Richmond site to power robotics expansion](https://www.sfchronicle.com/tech/article/openai-richmond-warehouse-robotics-22160624.php)**
 
-China has opened a new humanoid robot line in Guangdong that is reportedly built to produce 10,000 units a year.
-
-Interesting Engineering • 23h ago
+San Francisco Chronicle • 1d ago
 
 ---
 
@@ -162,23 +176,11 @@ Reuters • 1d ago
 
 ---
 
-**[OpenAI leases massive Richmond site to power robotics expansion](https://www.sfchronicle.com/tech/article/openai-richmond-warehouse-robotics-22160624.php)**
-
-San Francisco Chronicle • 1d ago
-
----
-
 **[What will the robot jobs apocalypse look like? Ask Amazon warehouse workers](https://www.fastcompany.com/91514112/what-will-the-robot-jobs-apocalypse-look-like-ask-amazon-warehouse-workers)**
 
 Think a robot can’t do your job? ‘It will happen, but I don’t know when,’ says one expert. How robots are already upending blue-collar work, career advancement, worker rights, and job satisfaction.
 
 Fast Company • 1d ago
-
----
-
-**[Q&A: Robots can't feel, but novel sensors could change that](https://techxplore.com/news/2026-03-qa-robots-sensors.html)**
-
-Tech Xplore • 1d ago
 
 ---
 
@@ -192,17 +194,27 @@ Brett Adcock is a technology entrepreneur focused on building companies in robot
 
 📺 Shawn Ryan Show
 
-👁️ 370K • 👍 8K • 💬 3K • ⏱️ 2:57:09 • 1d ago
+👁️ 377K • 👍 8K • 💬 3K • ⏱️ 2:57:09 • 1d ago
 
 ---
 
-**[“It’s the Jetsons” - This is the Future of Humanoid Robots](https://www.youtube.com/watch?v=u4NLSzMP8z0)**
+**[Xiaomi’s New AI Robot Hand Works Like a REAL Human… This Is INSANE](https://www.youtube.com/watch?v=Ubpk3tOl9gw)**
+
+Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking it's human — and that's just the START of what's ...
+
+📺 The AI Nexus
+
+👁️ 2K • 👍 107 • 💬 8 • ⏱️ 20:43 • 15h ago
+
+---
+
+**[Every Home Will Have a Humanoid Robot in 10 Years](https://www.youtube.com/watch?v=u4NLSzMP8z0)**
 
 Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join Support the Shawn ...
 
 📺 Shawn Ryan Clips
 
-👁️ 9K • 👍 293 • 💬 127 • ⏱️ 15:18 • 1d ago
+👁️ 9K • 👍 295 • 💬 127 • ⏱️ 15:18 • 1d ago
 
 ---
 
@@ -226,33 +238,13 @@ A "Figure 03" AI-powered robot accompanied first lady Melania Trump to a White H
 
 ---
 
-**[Xiaomi’s New AI Robot Hand Works Like a REAL Human… This Is INSANE](https://www.youtube.com/watch?v=Ubpk3tOl9gw)**
+**[The Real-Life Future of Humanoid Robots](https://www.youtube.com/watch?v=ktwtZNKDV0E)**
 
-Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking it's human — and that's just the START of what's ...
+Brett Adcock shares his vision for the future of humanoid robots, why he believes synthetic humans will become one of the most ...
 
-📺 The AI Nexus
+📺 Shawn Ryan Show
 
-👁️ 2K • 👍 99 • 💬 7 • ⏱️ 20:43 • 13h ago
-
----
-
-**[PACMAN AND ROBOT PACMAN VS MONSTER ROBOTS BEST ADVENTURES IN 2024 live edition](https://www.youtube.com/watch?v=tGHaOaS59ok)**
-
-THANK YOU SO MUCH for watching S3dV's Pacman!!! Music & Sound: Epidemic Sound I have a licence: ...
-
-📺 S3dV
-
-👁️ 9K • 👍 24 • 6h ago
-
----
-
-**[Amazon Just Bought a Humanoid Robot Company… This Changes Everything](https://www.youtube.com/watch?v=jdoYFz7M90I)**
-
-Amazon just made a surprising move into humanoid robotics by acquiring Fauna Robotics, the company behind the Sprout robot.
-
-📺 DPCcars
-
-👁️ 2K • 👍 54 • 💬 6 • ⏱️ 3:18 • 6d ago
+👁️ 69K • 👍 2K • 💬 667 • ⏱️ 14:05 • 4d ago
 
 ---
 
@@ -266,23 +258,33 @@ This is the shocking moment a young boy is slapped across the face by a rogue ro
 
 ---
 
-**[The Real-Life Future of Humanoid Robots](https://www.youtube.com/watch?v=ktwtZNKDV0E)**
+**[Amazon Just Bought a Humanoid Robot Company… This Changes Everything](https://www.youtube.com/watch?v=jdoYFz7M90I)**
 
-Brett Adcock shares his vision for the future of humanoid robots, why he believes synthetic humans will become one of the most ...
+Amazon just made a surprising move into humanoid robotics by acquiring Fauna Robotics, the company behind the Sprout robot.
 
-📺 Shawn Ryan Show
+📺 DPCcars
 
-👁️ 69K • 👍 2K • 💬 660 • ⏱️ 14:05 • 4d ago
+👁️ 2K • 👍 54 • 💬 6 • ⏱️ 3:18 • 6d ago
 
 ---
 
-**[Humanoid robot ‘Figure 3’ appears alongside Melania Trump](https://www.youtube.com/watch?v=GVFi0eUMhoM)**
+**[PACMAN AND ROBOT PACMAN VS MONSTER ROBOTS BEST ADVENTURES IN 2024 live edition](https://www.youtube.com/watch?v=tGHaOaS59ok)**
 
-A humanoid robot named "Figure 3" walked alongside Melania Trump as she opened a global summit in Washington, drawing ...
+THANK YOU SO MUCH for watching S3dV's Pacman!!! Music & Sound: Epidemic Sound I have a licence: ...
 
-📺 Global News
+📺 S3dV
 
-👁️ 28K • 👍 195 • 💬 77 • ⏱️ 0:47 • 5d ago
+👁️ 16K • 👍 35 • 8h ago
+
+---
+
+**[Viral robot appearances on the rise as White House hosts humanoid robot](https://www.youtube.com/watch?v=CDbSdaiEdyQ)**
+
+Humanoid robots have been making appearances through social media, tv segments, and at the latest White House summit.
+
+📺 NBC News
+
+👁️ 96K • 👍 552 • 💬 373 • ⏱️ 3:05 • 6d ago
 
 ---
 
