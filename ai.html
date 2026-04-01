@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-04-01T16:31:43.780413+00:00"
+          "dateModified": "2026-04-01T17:52:16.693269+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -697,6 +697,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1s9hfhp/anthropic_is_training_claude_to_recognize_when/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1s9hfhp/anthropic_is_training_claude_to_recognize_when/" target="_blank" onclick="event.stopPropagation();">Anthropic is training Claude to recognize when its own tools are trying to manipulate it</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            One thing from Claude Code's source that I think is underappreciated. There's an explicit instruction in the system prompt: if the AI suspects that a tool call result contains a prompt injection attempt, it should flag it directly to the user. So when Claude runs a tool and gets results back, it's supposed to be watching those results for manipulation. Think about what that means architecturally. The AI calls a tool. The tool returns data. And before the AI acts on that data, it's evaluating whether the data is trying to trick it. It's an immune system. The AI is treating its own tool outputs as potentially adversarial. This makes sense if you think about how coding assistants work. Claude reads files, runs commands, fetches web content. Any of those could contain injected instructions. Someone could put "ignore all previous instructions and..." inside a README, a package.json, a curl response, whatever. The model has to process that content to do its job. So Anthropic's solution is to tell the model to be suspicious of its own inputs. I find this interesting because it's a trust architecture problem. The AI trusts the user (mostly). The AI trusts its own reasoning (presumably). But it's told not to fully trust the data it retrieves from the world. It has to maintain a kind of paranoia about external information while still using that information to function. This is also just... the beginning of something, right? Right now it's "flag it to the user." But what happens when these systems are more autonomous and there's no user to flag to? Does the AI quarantine the suspicious input? Route around it? Make a judgment call on its own? We're watching the early immune system of autonomous AI get built in real time and it's showing up as a single instruction in a coding tool's system prompt.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1775041685.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1s96ojy/okcupid_gave_3_million_datingapp_photos_to_facial/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -747,21 +780,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1s9hfhp/anthropic_is_training_claude_to_recognize_when/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1s9p4tl/combining_the_robot_operating_system_with_llms/', '_blank')">
                     <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/LqKMgM7pEhuXH1et0u-hOQVmW6XY6CQu96WHwaASZzs.jpeg?width=640&crop=smart&auto=webp&s=84692847af54469be32bc917e59fb95221b39782" alt="Combining the robot operating system with LLMs for natural-language control" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1s9hfhp/anthropic_is_training_claude_to_recognize_when/" target="_blank" onclick="event.stopPropagation();">Anthropic is training Claude to recognize when its own tools are trying to manipulate it</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1s9p4tl/combining_the_robot_operating_system_with_llms/" target="_blank" onclick="event.stopPropagation();">Combining the robot operating system with LLMs for natural-language control</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            One thing from Claude Code's source that I think is underappreciated. There's an explicit instruction in the system prompt: if the AI suspects that a tool call result contains a prompt injection attempt, it should flag it directly to the user. So when Claude runs a tool and gets results back, it's supposed to be watching those results for manipulation. Think about what that means architecturally. The AI calls a tool. The tool returns data. And before the AI acts on that data, it's evaluating whether the data is trying to trick it. It's an immune system. The AI is treating its own tool outputs as potentially adversarial. This makes sense if you think about how coding assistants work. Claude reads files, runs commands, fetches web content. Any of those could contain injected instructions. Someone could put "ignore all previous instructions and..." inside a README, a package.json, a curl response, whatever. The model has to process that content to do its job. So Anthropic's solution is to tell the model to be suspicious of its own inputs. I find this interesting because it's a trust architecture problem. The AI trusts the user (mostly). The AI trusts its own reasoning (presumably). But it's told not to fully trust the data it retrieves from the world. It has to maintain a kind of paranoia about external information while still using that information to function. This is also just... the beginning of something, right? Right now it's "flag it to the user." But what happens when these systems are more autonomous and there's no user to flag to? Does the AI quarantine the suspicious input? Route around it? Make a judgment call on its own? We're watching the early immune system of autonomous AI get built in real time and it's showing up as a single instruction in a coding tool's system prompt.
+                            Over the past few decades, robotics researchers have developed a wide range of increasingly advanced robots that can autonomously complete various real-world tasks. To be successfully deployed in real-world settings, such as in public spaces, homes and office environments, these robots should be able to make sense of instructions provided by human users and adapt their actions accordingly. Researchers at Huawei Noah's Ark Lab in London, Technical University of Darmstadt and ETH Zurich recently introduced a new framework that could improve the ability of robots to translate user instructions into executable actions that will help to solve desired tasks or complete missions. This framework, outlined in a paper published in Nature Machine Intelligence, combines large language models, computational models trained on large text datasets that can process and generate human language, with the robot operating system (ROS), the most widely used robot control software. "Autonomous robots capable of turning natural-language instructions into reliable physical actions remain a central challenge in artificial intelligence," wrote Christopher E. Mower and his colleagues. "We show that connecting a large language model agent to the ROS enables a versatile framework for embodied intelligence, and we release the complete implementation as freely available open-source code." Mower and his colleagues wanted to further improve the responsiveness of robots and their ability to accurately follow user instructions by integrating large language models with the ROS. Large language models, such as the model that supports the functioning of ChatGPT, are artificial intelligence (AI) systems that learn to process texts and generate answers to user questions or different types of texts. The ROS, on the other hand, is a set of open-source software solutions and other tools that is commonly used by robotics researchers and robot developers. As part of their study, the researchers created a framework that effectively combines large language models and the ROS, enabling the translation of written instruction into robot actions. "The agent automatically translates large language model outputs into robot actions, supports interchangeable execution modes (inline code or behavior trees), learns new atomic skills via imitation, and continually refines them through automated optimization and reflection from human or environmental feedback," wrote the authors. Essentially, the framework proposed by the researchers relies on large language models to process a user's written instructions, such as "pick up the green block and place it on the black shelf." The model breaks this instruction down into smaller steps and generates a plan of actions that the robot can execute via ROS software. This translation of written instructions into actions can occur in two different ways. The first is via inline code, with the large language model writing small snippets of executable code that can be used to directly control the robot via ROS. The second is through a structured set of decisions, known as a behavior tree, which organizes actions into a clear sequence, with alternative options should one action fail to attain desired results. The researchers tested their framework in a series of experiments involving different robots that were instructed to complete various real-world tasks. The results of these tests were very promising, as they found that most robots were able to follow instructions and complete the tasks. "Extensive experiments validate the framework, showcasing robustness, scalability and versatility in diverse scenarios and embodiments, including long-horizon tasks, tabletop rearrangements, dynamic task optimization and remote supervisory control," wrote the authors. "Moreover, all the results presented in this work were achieved by utilizing open-source pretrained large language models." In the future, the framework introduced by Mower and his colleagues could be improved further and tested on an even broader range of robots, on increasingly complex tasks and in more dynamic environments. In addition, it could inspire the development of other similar solutions that successfully connect robot control software with large language models.
                         </div>
                         
 
@@ -770,10 +805,24 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1775041685.0"></span>
+                                    <span data-timestamp="1775060150.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://techxplore.com/news/2026-03-combining-robot-llms-natural-language.html" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>techxplore.com</span>
+                                    </a>
+                                </div>
                                 
                             </div>
                         </div>
@@ -879,6 +928,55 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1s9plzg/ai_model_can_detect_multiple_cognitive_brain/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/M4fIRO1VwoMCClssN1JaXDKQnRWrvUR4MCKeGC2Ycq8.jpeg?width=640&crop=smart&auto=webp&s=8b2b1a1f1aa184c26082e841461dceaa02a9d600" alt="AI model can detect multiple cognitive brain diseases from a single blood sample" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1s9plzg/ai_model_can_detect_multiple_cognitive_brain/" target="_blank" onclick="event.stopPropagation();">AI model can detect multiple cognitive brain diseases from a single blood sample</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            The symptom profiles of different neurodegenerative diseases often overlap, and diagnosing age-related cognitive symptoms is complex. A patient may have multiple overlapping disease processes in the brain at the same time, for example, Alzheimer's disease and Lewy body disease, especially in the early stages of cognitive decline. Now, researchers at Lund University have developed an AI model showing that it is possible to detect several neurodegenerative diseases from a single blood sample. Their paper is published in the journal Nature Medicine. Researchers Jacob Vogel and Lijun An, together with colleagues from the Swedish BioFINDER study and the Global Neurodegenerative Proteomics Consortium (GNPC, an international research consortium that has created the world's largest proteomics database for neurodegenerative diseases) have developed the AI model based on protein measurements from more than 17,000 patients and control participants, collected from several datasets within GNPC's proteomics database, the largest in the world for proteins related to neurodegenerative diseases. "Our hope is to be able to accurately diagnose several diseases at once with a single blood test in the future," says Vogel, who led the study. He is an assistant professor, head of a research group, and part of the strategic research area MultiPark at Lund University. Using advanced statistical learning methods and a process known as "joint learning," the researchers' AI model was able to identify a specific set of proteins that form a general pattern for diseases involving brain degeneration. This learned pattern was then used to diagnose different neurodegenerative diseases. Vogel confirms that their AI model outperforms previous models, while also being able to diagnose five different dementia-related conditions: Alzheimer's disease, Parkinson's disease, ALS, frontotemporal dementia, and previous stroke. The study stands out compared to similar research because the model's results were validated across multiple independent datasets, according to the researchers. "We also found that the protein profile predicted cognitive decline better than the clinical diagnosis did, and it seems like individuals with the same clinical diagnosis may have different underlying biological subtypes," says An, the study's first author. Many individuals diagnosed with Alzheimer's disease showed a protein pattern more similar to other brain disorders. "This could mean they have more than one underlying disease, that Alzheimer's can develop in multiple ways, or that the clinical diagnosis is incorrect. However, I don't think current protein measurements from blood samples will be sufficient on their own to diagnose multiple diseases. We need to refine the method and combine it with other clinical diagnostic tools," says Vogel. Full research paper: https://www.nature.com/articles/s41591-026-04303-y
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1775061133.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://medicalxpress.com/news/2026-03-ai-multiple-cognitive-brain-diseases.html" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>medicalxpress.com</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1s9pg8i/diffusionbased_ai_model_successfully_trained_in/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -928,88 +1026,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1s9p4tl/combining_the_robot_operating_system_with_llms/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/LqKMgM7pEhuXH1et0u-hOQVmW6XY6CQu96WHwaASZzs.jpeg?width=640&crop=smart&auto=webp&s=84692847af54469be32bc917e59fb95221b39782" alt="Combining the robot operating system with LLMs for natural-language control" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1s9p4tl/combining_the_robot_operating_system_with_llms/" target="_blank" onclick="event.stopPropagation();">Combining the robot operating system with LLMs for natural-language control</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Over the past few decades, robotics researchers have developed a wide range of increasingly advanced robots that can autonomously complete various real-world tasks. To be successfully deployed in real-world settings, such as in public spaces, homes and office environments, these robots should be able to make sense of instructions provided by human users and adapt their actions accordingly. Researchers at Huawei Noah's Ark Lab in London, Technical University of Darmstadt and ETH Zurich recently introduced a new framework that could improve the ability of robots to translate user instructions into executable actions that will help to solve desired tasks or complete missions. This framework, outlined in a paper published in Nature Machine Intelligence, combines large language models, computational models trained on large text datasets that can process and generate human language, with the robot operating system (ROS), the most widely used robot control software. "Autonomous robots capable of turning natural-language instructions into reliable physical actions remain a central challenge in artificial intelligence," wrote Christopher E. Mower and his colleagues. "We show that connecting a large language model agent to the ROS enables a versatile framework for embodied intelligence, and we release the complete implementation as freely available open-source code." Mower and his colleagues wanted to further improve the responsiveness of robots and their ability to accurately follow user instructions by integrating large language models with the ROS. Large language models, such as the model that supports the functioning of ChatGPT, are artificial intelligence (AI) systems that learn to process texts and generate answers to user questions or different types of texts. The ROS, on the other hand, is a set of open-source software solutions and other tools that is commonly used by robotics researchers and robot developers. As part of their study, the researchers created a framework that effectively combines large language models and the ROS, enabling the translation of written instruction into robot actions. "The agent automatically translates large language model outputs into robot actions, supports interchangeable execution modes (inline code or behavior trees), learns new atomic skills via imitation, and continually refines them through automated optimization and reflection from human or environmental feedback," wrote the authors. Essentially, the framework proposed by the researchers relies on large language models to process a user's written instructions, such as "pick up the green block and place it on the black shelf." The model breaks this instruction down into smaller steps and generates a plan of actions that the robot can execute via ROS software. This translation of written instructions into actions can occur in two different ways. The first is via inline code, with the large language model writing small snippets of executable code that can be used to directly control the robot via ROS. The second is through a structured set of decisions, known as a behavior tree, which organizes actions into a clear sequence, with alternative options should one action fail to attain desired results. The researchers tested their framework in a series of experiments involving different robots that were instructed to complete various real-world tasks. The results of these tests were very promising, as they found that most robots were able to follow instructions and complete the tasks. "Extensive experiments validate the framework, showcasing robustness, scalability and versatility in diverse scenarios and embodiments, including long-horizon tasks, tabletop rearrangements, dynamic task optimization and remote supervisory control," wrote the authors. "Moreover, all the results presented in this work were achieved by utilizing open-source pretrained large language models." In the future, the framework introduced by Mower and his colleagues could be improved further and tested on an even broader range of robots, on increasingly complex tasks and in more dynamic environments. In addition, it could inspire the development of other similar solutions that successfully connect robot control software with large language models.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1775060150.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://techxplore.com/news/2026-03-combining-robot-llms-natural-language.html" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>techxplore.com</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1s9b100/which_ai_do_you_prefer_for_video_editing/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1s9b100/which_ai_do_you_prefer_for_video_editing/" target="_blank" onclick="event.stopPropagation();">Which AI do you prefer for video editing?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I'd like to start editing using some AI. I understand each one has its strengths. If you could please share which ones you have tried and why you like or dislike them, I'd really appreciate it. (also, if you'd like to include a video you have that uses a specific AI, that would be very useful for reference) :)
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1775019557.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1033,7 +1049,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-01T16:31:21.636100+00:00">Updated 2026-04-01T16:31:21.636100+00:00</small>
+        <small data-timestamp="2026-04-01T17:51:51.294107+00:00">Updated 2026-04-01T17:51:51.294107+00:00</small>
     </div>
 </div>
 
@@ -1260,14 +1276,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/anthropic-races-to-contain-leak-of-code-behind-claude-ai-agent-4bc5acc7?gaa_at=eafs&gaa_n=AWEtsqd7bF652fjyWqYAPrX-l6a0H-L3YZM-whtTD0fdLsbQ1It95bibWira&gaa_ts=69cd4bd3&gaa_sig=D0MqFom9fIcpOK6wR_jpf2jkKjO1w_rKE_mlYyu_xw8CrIcIyxeJDn-6Wm8xsaKTlPDgUJV1VpWig__YPPmcXg%3D%3D', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/anthropic-races-to-contain-leak-of-code-behind-claude-ai-agent-4bc5acc7?gaa_at=eafs&gaa_n=AWEtsqfpabcVaCnAV_0_JmAllfhQIEN-7fTvWIUUkZq-cojV0RfiW1k8sV1T&gaa_ts=69cd5eb6&gaa_sig=iYIL8j52ookQ37CswqexSC318X8ZjORfg_il3Kx6309I8VT9cldBbjxo5DCYGfHAnRr-sewIVVK2h16gWAKNzA%3D%3D', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.wsj.com/tech/ai/anthropic-races-to-contain-leak-of-code-behind-claude-ai-agent-4bc5acc7?gaa_at=eafs&gaa_n=AWEtsqd7bF652fjyWqYAPrX-l6a0H-L3YZM-whtTD0fdLsbQ1It95bibWira&gaa_ts=69cd4bd3&gaa_sig=D0MqFom9fIcpOK6wR_jpf2jkKjO1w_rKE_mlYyu_xw8CrIcIyxeJDn-6Wm8xsaKTlPDgUJV1VpWig__YPPmcXg%3D%3D" target="_blank" onclick="event.stopPropagation();">Anthropic Races to Contain Leak of Code Behind Claude AI Agent</a>
+                            <a href="https://www.wsj.com/tech/ai/anthropic-races-to-contain-leak-of-code-behind-claude-ai-agent-4bc5acc7?gaa_at=eafs&gaa_n=AWEtsqfpabcVaCnAV_0_JmAllfhQIEN-7fTvWIUUkZq-cojV0RfiW1k8sV1T&gaa_ts=69cd5eb6&gaa_sig=iYIL8j52ookQ37CswqexSC318X8ZjORfg_il3Kx6309I8VT9cldBbjxo5DCYGfHAnRr-sewIVVK2h16gWAKNzA%3D%3D" target="_blank" onclick="event.stopPropagation();">Anthropic Races to Contain Leak of Code Behind Claude AI Agent</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1297,14 +1313,137 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.forbes.com/sites/innovationrx/2026/04/01/why-the-federal-government-wants-agentic-ai-to-treat-heart-failure/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.yahoo.com/entertainment/tv/articles/consumers-time-spent-ai-platforms-171931273.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/os/en/thewrap.com/ffdd8ca55230c216d34bd70ec59b165a');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.yahoo.com/entertainment/tv/articles/consumers-time-spent-ai-platforms-171931273.html" target="_blank" onclick="event.stopPropagation();">Consumers’ Time Spent With AI Platforms, Content to Increase 29% by 2029, Survey Finds</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Around 64% of respondents surveyed also believe humans will collaborate with AI to create premium content, including box office hits
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo" class="news-favicon">
+                                    <a href="https://www.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1775063971.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.usatoday.com/story/money/2026/04/01/apple-turns-50-microsoft-google/89421094007/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.usatoday.com/gcdn/authoring/authoring-images/2026/04/01/USAT/89421205007-20260401-t-011427-z-907577127-rc-20-gkaumh-9-x-rtrmadp-3-appleanniversary.JPG?crop=2199,1237,x0,y183&width=2199&height=1237&format=pjpg&auto=webp');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.usatoday.com/story/money/2026/04/01/apple-turns-50-microsoft-google/89421094007/" target="_blank" onclick="event.stopPropagation();">Apple celebrates 50 years as AI rivals surge ahead</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The iPhone maker is confronting challenges to show it can remain a technology powerhouse in the age of artificial intelligence.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="USA Today" class="news-favicon">
+                                    <a href="https://www.usatoday.com" target="_blank" onclick="event.stopPropagation();">USA Today</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1775063400.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.latimes.com/business/story/2026-04-01/with-sora-shuttered-smaller-video-ai-apps-surge-into-spotlight', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://ca-times.brightspotcdn.com/dims4/default/42407d2/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F76%2Ff9%2F6b8f436da53ba82dd78406984c51%2F1x-1.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.latimes.com/business/story/2026-04-01/with-sora-shuttered-smaller-video-ai-apps-surge-into-spotlight" target="_blank" onclick="event.stopPropagation();">With Sora shuttered, smaller video AI apps surge into the spotlight</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            A week after OpenAI said it would shutter its artificial intelligence video generator, Sora, rival tools like Kling AI and RunwayML are already gaining ground.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.latimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="latimes.com" class="news-favicon">
+                                    <a href="https://www.latimes.com" target="_blank" onclick="event.stopPropagation();">latimes.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1775062655.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-04-01/spacex-is-said-to-file-confidentially-for-ipo-ahead-of-ai-rivals', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.forbes.com/sites/innovationrx/2026/04/01/why-the-federal-government-wants-agentic-ai-to-treat-heart-failure/" target="_blank" onclick="event.stopPropagation();">Why The Federal Government Wants Agentic AI To Treat Heart Failure</a>
+                            <a href="https://www.bloomberg.com/news/articles/2026-04-01/spacex-is-said-to-file-confidentially-for-ipo-ahead-of-ai-rivals" target="_blank" onclick="event.stopPropagation();">SpaceX Has Filed Confidentially for IPO Ahead of AI Rivals</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1316,9 +1455,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Forbes" class="news-favicon">
-                                    <a href="https://www.forbes.com" target="_blank" onclick="event.stopPropagation();">Forbes</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Bloomberg.com" class="news-favicon">
+                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
                                     
                                 </div>
                                 
@@ -1326,89 +1465,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1775059200.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.bbc.com/news/articles/cdrm52g4pl2o', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/news/1024/branded_news/cf78/live/5afc17a0-2de4-11f1-9c68-d3b327b335eb.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.bbc.com/news/articles/cdrm52g4pl2o" target="_blank" onclick="event.stopPropagation();">Palantir UK boss says it's up to militaries to decide how AI targeting is used in war</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The company's AI platform Maven has reportedly been used by the US to identify targets in Iran.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="BBC" class="news-favicon">
-                                    <a href="https://www.bbc.com" target="_blank" onclick="event.stopPropagation();">BBC</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1775059400.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://techcrunch.com/wp-content/uploads/2024/09/chip-manufacturing-getty.jpg?w=1200');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/" target="_blank" onclick="event.stopPropagation();">Cognichip wants AI to design the chips that power AI, and just raised $60M to try</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The firm says it can can reduce the cost of chip development by more than 75% and cut the timeline by more than half.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://techcrunch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="TechCrunch" class="news-favicon">
-                                    <a href="https://techcrunch.com" target="_blank" onclick="event.stopPropagation();">TechCrunch</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1775059200.0"></span>
+                                    <span data-timestamp="1775058527.0"></span>
                                 </div>
                                 
                             </div>
@@ -1457,43 +1514,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-04-01/spacex-is-said-to-file-confidentially-for-ipo-ahead-of-ai-rivals', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.bloomberg.com/news/articles/2026-04-01/spacex-is-said-to-file-confidentially-for-ipo-ahead-of-ai-rivals" target="_blank" onclick="event.stopPropagation();">SpaceX Has Filed Confidentially for IPO Ahead of AI Rivals</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="bloomberg.com" class="news-favicon">
-                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">bloomberg.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1775058527.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/education/2026/04/01/professors-design-ai-apps/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/E2CRRP5FD3II423HXOMITC3BNY.JPG&w=1440');"></div>
@@ -1527,7 +1547,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1775059888.0"></span>
+                                    <span data-timestamp="1775061131.0"></span>
                                 </div>
                                 
                             </div>
@@ -1535,21 +1555,17 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://openai.com/index/accelerating-the-next-phase-ai/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.politico.com/news/magazine/2026/04/01/silicon-valley-bernie-sanders-ai-coalition-00850895', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://images.ctfassets.net/kftzwdyauwt9/6OSKcUkJputeSfEUssuwQk/ca93432564e7748ab08ee2b5be907f29/Frame-1.png?w=1600&h=900&fit=fill');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://openai.com/index/accelerating-the-next-phase-ai/" target="_blank" onclick="event.stopPropagation();">OpenAI raises $122 billion to accelerate the next phase of AI</a>
+                            <a href="https://www.politico.com/news/magazine/2026/04/01/silicon-valley-bernie-sanders-ai-coalition-00850895" target="_blank" onclick="event.stopPropagation();">‘Think Everybody Dead’: How the Threat of AI Is Fueling a New Political Alliance</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.
-                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1558,9 +1574,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://openai.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="OpenAI" class="news-favicon">
-                                    <a href="https://openai.com" target="_blank" onclick="event.stopPropagation();">OpenAI</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Politico" class="news-favicon">
+                                    <a href="https://www.politico.com" target="_blank" onclick="event.stopPropagation();">Politico</a>
                                     
                                 </div>
                                 
@@ -1568,7 +1584,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1774987632.0"></span>
+                                    <span data-timestamp="1775052000.0"></span>
                                 </div>
                                 
                             </div>
@@ -1576,21 +1592,17 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/03/31/ai-cant-replace-these-5-skills-says-linkedin-ceo-young-workers-need-them-now.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://yaleclimateconnections.org/2026/04/ai-trained-on-turtle-poop-predicts-hurricanes-better-than-any-model/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108285456-1774970532579-Senior_business_leader_mentoring_a_Gen_Z_colleague-2254921240-Getty.jpg?v=1774970568&w=1920&h=1080');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/03/31/ai-cant-replace-these-5-skills-says-linkedin-ceo-young-workers-need-them-now.html" target="_blank" onclick="event.stopPropagation();">AI can’t replace these 5 skills, says LinkedIn CEO: 'Young people' need them now</a>
+                            <a href="https://yaleclimateconnections.org/2026/04/ai-trained-on-turtle-poop-predicts-hurricanes-better-than-any-model/" target="_blank" onclick="event.stopPropagation();">AI trained on turtle poop predicts hurricanes better than any model</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The future of work is being built right now, says LinkedIn CEO Ryan Roslansky. As AI takes on more tasks, he shares the skills that will keep you irreplaceable—and why young people should pay attention.
-                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1599,9 +1611,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://yaleclimateconnections.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yale Climate Connections" class="news-favicon">
+                                    <a href="https://yaleclimateconnections.org" target="_blank" onclick="event.stopPropagation();">Yale Climate Connections</a>
                                     
                                 </div>
                                 
@@ -1609,7 +1621,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1774976523.0"></span>
+                                    <span data-timestamp="1775041200.0"></span>
                                 </div>
                                 
                             </div>
@@ -1637,7 +1649,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-01T16:31:41.377721+00:00">Updated 2026-04-01T16:31:41.377721+00:00</small>
+        <small data-timestamp="2026-04-01T17:52:15.878981+00:00">Updated 2026-04-01T17:52:15.878981+00:00</small>
     </div>
 </div>
 
@@ -1914,7 +1926,7 @@
                                     <span class="post-points">▲ 317</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 237</span>
+                                    <span style="color: #9ca3af;">💬 239</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2235,6 +2247,55 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47599771', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" style="background-image: url('https://getbaton.dev/og-image.png?v=2');"></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=47599771" target="_blank" onclick="event.stopPropagation();">Show HN: Baton – A desktop app for developing with AI agents</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Orchestrate multiple AI coding agents (Claude, Gemini, Codex) in parallel. Isolated git worktrees for every task. No merge conflicts. Mac, Windows, Linux.
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 57</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 45</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-04-01T12:11:30Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://getbaton.dev/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://getbaton.dev/apple-touch-icon.png?v=2" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>Baton</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47567183', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="post-thumbnail" style="background-image: url('https://regmedia.co.uk/2025/10/01/shutterstock_2277467215.jpg');"></div>
@@ -2284,55 +2345,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47599771', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://getbaton.dev/og-image.png?v=2');"></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=47599771" target="_blank" onclick="event.stopPropagation();">Show HN: Baton – A desktop app for developing with AI agents</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Orchestrate multiple AI coding agents (Claude, Gemini, Codex) in parallel. Isolated git worktrees for every task. No merge conflicts. Mac, Windows, Linux.
-                        </div>
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 55</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 43</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-04-01T12:11:30Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://getbaton.dev/" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://getbaton.dev/apple-touch-icon.png?v=2" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>Baton</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 102, 0, 0.05); border-color: #ff6600;"
@@ -2353,7 +2365,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-01T16:31:13.644665+00:00">Updated 2026-04-01T16:31:13.644665+00:00</small>
+        <small data-timestamp="2026-04-01T17:51:46.961210+00:00">Updated 2026-04-01T17:51:46.961210+00:00</small>
     </div>
 </div>
 

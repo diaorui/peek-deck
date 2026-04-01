@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-01T16:31:44.288845+00:00'
+updated: '2026-04-01T17:52:17.226211+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 01, 2026 at 16:31 UTC  
+**Last Updated:** April 01, 2026 at 17:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,129.79
+### $2,143.53
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.2%  
-**7d:** +3.8%  
-**30d:** +7.9%  
-**90d:** -31.5%  
-**1y:** +19.2%  
+**24h:** +1.7%  
+**7d:** +3.6%  
+**30d:** +7.7%  
+**90d:** -31.6%  
+**1y:** +19.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Two months after Ethereum mainnet launched, Vitalik deployed a 3-contract on-chain arbitration system written in Serpent. We just verified all three with exact bytecode matches. The contracts: ArbiterRegistry (0x82afa2c4, block 301,954 - Sep 28, 2015) Arbiters pay 1+ ETH to list themselves as dispute mediators. The fee decays 50% per month using a 3rd-order Taylor series approximation, so inactive arbiters fall in the rankings automatically. Hardcoded EF withdrawal address. Someone called register() again in 2024 - still works. Arbitration (0xe881af13, block 303,316 + 0x7e2d0fe0, block 318,029) Smart escrow with designated arbiters. Two parties create a contract, designate arbiters, and funds auto-transfer when >50% of arbiters vote. Both parties can also instantly surrender to the other side. Vitalik tested it from both his dev address and vitalik.eth. The forensics: The source Vitalik later committed to ethereum/dapp-bin had one line wrong vs what he actually deployed. The ArbiterNotification log had its indexed arguments in reversed order. He fixed the arg order in git after shipping. The chain preserved the original - we had to catch that divergence to get an exact match. How we verified it: Not decompilation. We compiled forward: found the source in ethereum/dapp-bin, identified the exact Serpent compiler commit used (e5a5f875, Sep 26 2015), compiled it, and compared output byte-for-byte against the on-chain code. Full docs + live contract interaction (ABIs published): - https://ethereumhistory.com/contract/0x82afa2c4a686af9344e929f9821f3e8c6e9293ab - https://ethereumhistory.com/contract/0xe881af13bf55c97562fe8d2da2f6ea8e3ff66f98 Verification repos: - https://github.com/cartoonitunes/arbiter-reg-verification - https://github.com/cartoonitunes/arbitration-verification EthereumHistory is a free archive - if you find this useful, you can support it at ethereumhistory.com/donate
 
-1h ago
+2h ago
 
 ---
 
 **[Building a community for the devs that are left](https://www.reddit.com/r/ethereum/comments/1s9o3mk/building_a_community_for_the_devs_that_are_left/)**
 
-🔗 [X (formerly Twitter)](https://x.com/0xCryptodevs/status/2039365286701175019) • 52m ago
+🔗 [X (formerly Twitter)](https://x.com/0xCryptodevs/status/2039365286701175019) • 2h ago
 
 ---
 
@@ -116,7 +116,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Launching Project on Base](https://www.reddit.com/r/ethereum/comments/1s99k1a/launching_project_on_base/)**
 
-12h ago
+14h ago
 
 ---
 
@@ -158,7 +158,7 @@ Yahoo Finance • 1d ago
 
 A 57-page whitepaper identifies how future quantum computers could target Ethereum's wallets, smart contracts, staking system, Layer 2 networks and data verification layer, with combined exposure exceeding $100 billion.
 
-coindesk.com • 1d ago
+CoinDesk • 1d ago
 
 ---
 
@@ -172,7 +172,7 @@ CCN.com • 1d ago
 
 Bitcoin and other major cryptocurrencies regained some losses on Tuesday after Iran signaled a willingness to pursue peace talks.
 
-Benzinga • 20h ago
+Benzinga • 21h ago
 
 ---
 
@@ -180,15 +180,7 @@ Benzinga • 20h ago
 
 Investors looking to bet on tokenization should think in phases, with institution-friendly networks like Canton likely winning first and Avalanche, Ethereum capturing more upside later, Grayscale's Zach Pandl said.
 
-coindesk.com • 58m ago
-
----
-
-**[Bit Digital achieves revenue growth in 2025 amid pivot toward Ethereum and AI infrastructure](https://ca.finance.yahoo.com/news/bit-digital-achieves-revenue-growth-125100326.html)**
-
-Bit Digital Inc (NASDAQ:BTBT) has reported its financial results for the fiscal year 2025, highlighting a period marked by a strategic transition toward Ethereum-focused treasury operations and increased exposure to artificial intelligence infrastructure through its majority stake in...
-
-Yahoo! Finance Canada • 3h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -196,7 +188,7 @@ Yahoo! Finance Canada • 3h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 4h ago
+Fortune • 5h ago
 
 ---
 
@@ -204,7 +196,7 @@ Fortune • 4h ago
 
 Ethereum is holding around $2,000. The level looks like support. The data beneath it suggests the market is not yet being compensated for the risk of being here.A CryptoQuant report tracking risk-adjusted performance on Binance has identified a reading that holders should not dismiss: Ethereum’s Sh…
 
-TradingView • 8h ago
+TradingView • 9h ago
 
 ---
 
@@ -224,6 +216,14 @@ Business Insider Africa • 1d ago
 
 ---
 
+**[BMNR, ETH news: Bitmine buys 71,000 ETH as digital asset treasuries dial back purchases](https://www.coindesk.com/business/2026/03/30/bitmine-makes-biggest-ether-purchase-in-2026-while-other-digital-asset-treasuries-pull-back)**
+
+Tom Lee's Ethereum treasury bought more than 71,000 ETH over the past week, remaining the sole large corporate crypto buyer as Strategy broke its 13-week bitcoin purchase streak.
+
+CoinDesk • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -234,7 +234,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 107 • 💬 8 • ⏱️ 4:22 • 5h ago
+👁️ 1K • 👍 107 • 💬 8 • ⏱️ 4:22 • 6h ago
 
 ---
 
@@ -244,7 +244,7 @@ This year's EthCC event in Cannes has fielded its first major announcement: the 
 
 📺 Paul Barron Network
 
-👁️ 29K • 👍 2K • 💬 90 • ⏱️ 13:00 • 20h ago
+👁️ 29K • 👍 2K • 💬 90 • ⏱️ 13:00 • 22h ago
 
 ---
 
@@ -254,7 +254,7 @@ Hang in there everyone! The risk models that say when to accumulate or exit HERE
 
 📺 Dan Gambardello
 
-👁️ 9K • 👍 614 • 💬 204 • ⏱️ 13:49 • 22h ago
+👁️ 9K • 👍 614 • 💬 204 • ⏱️ 13:49 • 23h ago
 
 ---
 
@@ -264,7 +264,7 @@ BMNR is continuing to build one of the largest Ethereum treasuries in the world 
 
 📺 The Value Thinker
 
-👁️ 6K • 👍 425 • 💬 47 • ⏱️ 20:46 • 17h ago
+👁️ 6K • 👍 425 • 💬 47 • ⏱️ 20:46 • 18h ago
 
 ---
 
@@ -284,7 +284,7 @@ BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX
 
 📺 Lark Davis
 
-👁️ 2K • 👍 70 • ⏱️ 0:47 • 16h ago
+👁️ 2K • 👍 70 • ⏱️ 0:47 • 17h ago
 
 ---
 
@@ -294,7 +294,7 @@ Tangem Cold Storage Crypto Wallet https://geni.us/rpmtangem use code RPM for 10%
 
 📺 Red Panda Mining
 
-👁️ 2K • 👍 261 • 💬 132 • ⏱️ 9:11 • 5h ago
+👁️ 2K • 👍 261 • 💬 132 • ⏱️ 9:11 • 6h ago
 
 ---
 
@@ -324,7 +324,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 148 • 👍 5 • ⏱️ 5:14 • 6h ago
+👁️ 148 • 👍 5 • ⏱️ 5:14 • 7h ago
 
 ---
 
