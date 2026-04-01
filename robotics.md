@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-01T05:25:43.253320+00:00'
+updated: '2026-04-01T06:59:42.679969+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 01, 2026 at 05:25 UTC  
+**Last Updated:** April 01, 2026 at 06:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 To learn more about running OpenClaw and ROS robotics, checkout AgenticROS https://agenticros.com
 
-10h ago
+11h ago
 
 ---
 
@@ -44,7 +44,7 @@ To learn more about running OpenClaw and ROS robotics, checkout AgenticROS https
 
 https://reddit.com/link/1s8tt6j/video/miswsbmylfsg1/player Hey - spent the last year building PhAIL (physical AI leaderboard). I wanted to answer a simple question: how good are robot AI models on actual work, not demos PhAIL runs models on a real robot doing bin-to-bin picking and measures: throughput (units/hour) reliability (time between failures) everything is public: full videos of every run telemetry + logs fine-tuning dataset + training scripts link: https://phail.ai Genuinely curious what you think. What’s useful here, what’s missing. Please share your feedback.
 
-12h ago
+13h ago
 
 ---
 
@@ -52,13 +52,13 @@ https://reddit.com/link/1s8tt6j/video/miswsbmylfsg1/player Hey - spent the last 
 
 https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printed parts, motorized projector, home decoration, and DIY electronics -- if you know of anyone else that might be interested in this stuff, sharing to others would really help me out! Hope to see you around here or YouTube :)
 
-10h ago
+12h ago
 
 ---
 
 **[BabaCAD Robotics Web v2.1](https://www.reddit.com/r/robotics/comments/1s8v9by/babacad_robotics_web_v21/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -66,7 +66,7 @@ https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printe
 
 All M5Stack components. Mecanum four motor buggy, StickCPlus onboard controller TOF sensor scanning on a servo. Autonomous. Source code available if you are interested.
 
-8h ago
+9h ago
 
 ---
 
@@ -74,7 +74,7 @@ All M5Stack components. Mecanum four motor buggy, StickCPlus onboard controller 
 
 I am having a lot of trouble choosing a masters/phd program. I am looking to go into robotics and have 3 options to choose from. For reference I am from North America and went to a top undergrad school here. Option A is overseas in asia but it is REALLYYY well funded but I don't think my research direction is exactly aligned with my supervisor's background so I am worried about this. I have the flexibility to study whatever I want but I also want to make sure I get good guidance. The city here is also really good and I'd enjoy living here based on past visits. Option B: The other is a MS at a top university in the US. It isn't funded but the PI's research direction and mine align perfectly. There's an option to transfer to phd but can't say anything for sure now. Also the city is peak imo. Option C: The last option is a lower prestige american uni but the PI is a perect fit as well in terms of research direction and really nice and supportive. The funding is also only gaurenteed for the first year and is uncertain for subsequent years. It is likely gonna be fine but technically it is uncertain (depends if the grants come through). Though the location of the school isn't ideal and I am worried about living there in the American south. I am stuck between doing reserch I like and living a life I want during my youth. I am so torn and don't know how to decide :( My end goal is to get a phd because i love research but I wouldn't mind getting a masters, working for a bit in some industry research and coming back as well. I am open. Ideally I wanna work in a R&D research position in robotics companies. Into humanoids these days and specifically humanoid safety
 
-1h ago
+3h ago
 
 ---
 
@@ -86,7 +86,7 @@ I am having a lot of trouble choosing a masters/phd program. I am looking to go 
 
 **[Robots are DJing now AGIBOT X2 live at GTC 2026](https://www.reddit.com/r/robotics/comments/1s8tg5j/robots_are_djing_now_agibot_x2_live_at_gtc_2026/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -114,13 +114,29 @@ From Humanoids daily on 𝕏: https://x.com/humanoidsdaily/status/20381919486372
 
 In the musical experiment, violinists wore lightweight robotic exoskeletons attached to their bow-playing arms, which delivered subtle changes to their natural movements.
 
-euronews.com • 2d ago
+Euronews.com • 3d ago
 
 ---
 
 **[The world’s largest humanoid robot maker is going public](https://restofworld.org/2026/unitree-china-humanoid-robot-shanghai-ipo/)**
 
-Rest of World • 19h ago
+Rest of World • 20h ago
+
+---
+
+**[New humanoid robot factory in China claims it can make one unit every 30 minutes](https://interestingengineering.com/ai-robotics/china-opens-humanoid-robot-factory)**
+
+China has opened a new humanoid robot line in Guangdong that is reportedly built to produce 10,000 units a year.
+
+interestingengineering.com • 18h ago
+
+---
+
+**[Amazon buys Fauna Robotics, maker of the Sprout humanoid robot that can dance, pick up toys, and go on a stroll](https://fortune.com/2026/03/29/amazon-acquisition-fauna-robotics-sprout-humanoid-robot-homes-schools-disney/)**
+
+Early customers included Disney.
+
+Fortune • 2d ago
 
 ---
 
@@ -134,7 +150,7 @@ KPAX News • 1d ago
 
 **[Voyager, Icarus Robotics to test free-flying robot on space station](https://www.reuters.com/science/voyager-icarus-robotics-test-free-flying-robot-space-station-2026-03-30/)**
 
-reuters.com • 1d ago
+Reuters • 1d ago
 
 ---
 
@@ -142,31 +158,7 @@ reuters.com • 1d ago
 
 Spray paint is daubed over robots used by food delivery company Uber Eats in Meersbrook.
 
-BBC • 17h ago
-
----
-
-**[Amazon buys Fauna Robotics, maker of the Sprout humanoid robot that can dance, pick up toys, and go on a stroll](https://fortune.com/2026/03/29/amazon-acquisition-fauna-robotics-sprout-humanoid-robot-homes-schools-disney/)**
-
-Early customers included Disney.
-
-Fortune • 2d ago
-
----
-
-**[New humanoid robot factory in China claims it can make one unit every 30 minutes](https://interestingengineering.com/ai-robotics/china-opens-humanoid-robot-factory)**
-
-China has opened a new humanoid robot line in Guangdong that is reportedly built to produce 10,000 units a year.
-
-Interesting Engineering • 17h ago
-
----
-
-**[Humanoid tests humanoid robot for automotive logistics](https://www.theregister.com/2026/03/30/humanoid_automotive_robots/)**
-
-: Torso on a trolley tries its hands in warehouse role
-
-theregister.com • 1d ago
+BBC • 19h ago
 
 ---
 
@@ -180,7 +172,13 @@ San Francisco Chronicle • 1d ago
 
 Think a robot can’t do your job? ‘It will happen, but I don’t know when,’ says one expert. How robots are already upending blue-collar work, career advancement, worker rights, and job satisfaction.
 
-Fast Company • 20h ago
+Fast Company • 21h ago
+
+---
+
+**[Q&A: Robots can't feel, but novel sensors could change that](https://techxplore.com/news/2026-03-qa-robots-sensors.html)**
+
+Tech Xplore • 1d ago
 
 ---
 
@@ -204,7 +202,7 @@ Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking
 
 📺 The AI Nexus
 
-👁️ 830 • 👍 74 • 💬 5 • ⏱️ 20:43 • 6h ago
+👁️ 830 • 👍 74 • 💬 5 • ⏱️ 20:43 • 8h ago
 
 ---
 
@@ -284,7 +282,7 @@ Humanoid robots have been making appearances through social media, tv segments, 
 
 📺 Andreas Klinger @ PROTOTYPE
 
-👁️ 3K • 👍 165 • 💬 38 • ⏱️ 19:32 • 16h ago
+👁️ 3K • 👍 165 • 💬 38 • ⏱️ 19:32 • 18h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-01T05:25:43.250142+00:00'
+updated: '2026-04-01T06:59:42.676809+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
 - news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 01, 2026 at 05:25 UTC  
+**Last Updated:** April 01, 2026 at 06:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.1%  
-**7d:** +3.1%  
-**30d:** +7.2%  
-**90d:** -32.0%  
-**1y:** +18.5%  
+**24h:** +4.7%  
+**7d:** +4.5%  
+**30d:** +8.6%  
+**90d:** -31.1%  
+**1y:** +20.0%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-24m ago
+1h ago
+
+---
+
+**[Where can I buy ZCHF?](https://www.reddit.com/r/ethereum/comments/1s9c5wv/where_can_i_buy_zchf/)**
+
+If you are trying to buy ZCHF, you might not find it on normal crypto apps. It is not listed on big exchanges, so it can feel confusing at first. Most people buy it from Uniswap on Ethereum. That’s where you will usually find better trading activity. Sometimes it is also available on Curve, but it depends on how much liquidity is there. How to buy ZCHF The process is simple once you understand it. You need a wallet like MetaMask and some ETH in it for fees. Then you connect your wallet to Uniswap and swap your tokens for ZCHF. Before you confirm, just check the price and details once. In DeFi, there is no support if something goes wrong, so it’s better to go slow and be careful.
+
+57m ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Google just moved the quantum threat from decades away to 2029. Taproot exposed 6.9 million Bitcoin. Ethereum launched a seven-fork roadmap. Bitcoin has BIP-360 and a mailing list. Here's what that difference means.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/google-quantum-deadline-2029-ethereum-plan-bitcoin-culture-war/) • 20h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/google-quantum-deadline-2029-ethereum-plan-bitcoin-culture-war/) • 22h ago
 
 ---
 
@@ -88,7 +96,7 @@ Google just moved the quantum threat from decades away to 2029. Taproot exposed 
 
 Hello everyone! I've built a tool to help recover ETH stuck in old smart contracts that no longer have frontends. Portfolio trackers like Debank and Zerion don't index these balances. 116 contracts, 76,000+ ETH, 516k depositors with claimable balance. Idex, Etherdelta, DigixDAO, PoWH3D, ENS old registrar, Fomo3d, MoonCatRescue, to name a few. One address alone has 10,000 ETH locked in the old ENS registrar deeds - a deposit from a name auction on governx.eth that was never released. Even Vitalik has 75 ETH to claim! Most of these addresses are dormant, but if you were active on Etheruem between 2015-2019, check your address at https://forgotteneth.com Twitter thread It scans all 116 contracts and crafts the withdrawal transaction(s) for you. https://preview.redd.it/2rv0j4bq7esg1.png?width=2236&format=png&auto=webp&s=0f5c26c5306475ba4de4325cbae72757b3738f05
 
-14h ago
+16h ago
 
 ---
 
@@ -102,13 +110,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Launching Project on Base](https://www.reddit.com/r/ethereum/comments/1s99k1a/launching_project_on_base/)**
 
-1h ago
+3h ago
 
 ---
 
 **[I'm making hey.eth a public, free identity layer for everyone. Agents are able to get their own ENS in <10s. Building open source infra for agentic payments using State Channels.](https://www.reddit.com/r/ethereum/comments/1s8o4zh/im_making_heyeth_a_public_free_identity_layer_for/)**
 
-🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2038977772312272942) • 15h ago
+🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2038977772312272942) • 17h ago
 
 ---
 
@@ -116,7 +124,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ZCHF is a decentralized stablecoin that is designed to track the value of the Swiss franc (CHF). Unlike popular stablecoins like USDT or USDC that are pegged to the US dollar, ZCHF is pegged 1:1 to Switzerland’s currency. It is issued by the Frankencoin protocol and operates on blockchain infrastructure, which means it doesn’t rely on traditional banks in the same way centralised stablecoins do. Instead, it uses a system of collateral and smart contracts to maintain its value. Why People Are Talking About It Interest in ZCHF has increased after Vitalik Buterin recently swapped a significant amount of USDC into ZCHF. Moves like this bring attention to the idea that DeFi may not stay centered only around the US dollar.
 
-22h ago
+1d ago
 
 ---
 
@@ -124,7 +132,7 @@ ZCHF is a decentralized stablecoin that is designed to track the value of the Sw
 
 With all the discussion around L2 fragmentation lately (EEZ announcement, Superchain, AggLayer), I wanted to share something I've been working on that addresses the problem from a different angle. The issue: every rollup ships its own proof system - Groth16, STARK, Plonk, Halo2, Nova - each needing a separate on-chain verifier at 200k+ gas. Some require trusted setup ceremonies. GLYPH is a universal transparent verification layer that compiles any proof into a common intermediate representation (UCIR) and verifies it through a single on-chain contract. What it does: - Verifies any major proof system through one verifier - <30k gas per on-chain verification (~7.5x cheaper than Groth16 alone) - No trusted setup - fully transparent - Supported: Groth16, KZG, IPA, Plonk, Halo2, STARK (Winterfell, Miden, Cairo/Stone, Circle STARK, Stwo), Nova/HyperNova/Sangria/SuperNova (IVC), SP1, Plonky2/3, Binius How it works: - Packed arity-8 sumcheck over p = 2^128 - 159 - Chain-bound Keccak256 Fiat-Shamir challenges - BaseFold PCS - On-chain verifier in pure Solidity assembly - Formal proof pack with soundness bound ~1.88 x 10^-37 Tested on Sepolia + Hoodi. Benchmarks included and reproducible. Everything is open source under MIT: - Full Paper: https://doi.org/10.5281/zenodo.18792566 https://hackmd.io/@ChristopherSchulze/glyph-zk - Code: https://github.com/Christopher-Schulze/glyph-zk I know the on-chain assembly verifier needs a proper audit before anyone touches it in production - that's on the roadmap. Would love feedback from the community. Happy to answer any questions about the architecture or design decisions.
 
-19h ago
+21h ago
 
 ---
 
@@ -132,13 +140,7 @@ With all the discussion around L2 fragmentation lately (EEZ announcement, Superc
 
 I've been all over daily threads for the last two weeks, and some of those really nice folks have been having fun with this little game dapp that I built. I call it Stupid Games, because you play really easy, simple games, but get to win awesome real ETH prizes! It's an arcade type game platform, full of crypto memes, that pays out real ETH prizes to the winners. All managed by smart contracts of course. I'm creating a beginner friendly, mini tournament just for this sub. No players from the current Leaderboard allowed! And when I say beginner, I mean JT level beginner like from the Daily Doots Podcast #143! Lol! No offence JT 😆 Its free, no gas, no cash, just real fun! The prize is $20 or more, but more than that, its bragging rights to be the king of this hill. It's even got a Burner Wallet login, so you know it's not sus. More dapps should do that right? If you want to give it a shot, there's only space for 9-10 players, so drop your [burner] address and I'll let you in. The FLY game is similar to Flappy Bird, and the SHOOT game is similar to Asteroids. Try them and pick your vibe. So what's in it for me? I worked hard on the app and really want to see it being used. I also think it's genuinely fun when you get it. Plus, I took a job break and built it as a porfolio piece so I would love to get feedback. Many features were actually suggestions from users on the daily threads, which I appreciate so much (Alexis and Tricky)! Any and all feedback/criticism welcome. Questions too! Chips are ERC20 tokens but 1:1 exchangeable for 0.0001 eth from the contract. No promotion of any product in this post. No monetary gain for me, only loss 🙁! Play Stupid Games, Win Awesome Prizes! https://reddit.com/link/1s8gw8d/video/us22jk9r2csg1/player https://reddit.com/link/1s8gw8d/video/9zhhtl9r2csg1/player
 
-21h ago
-
----
-
-**[EIP-712](https://www.reddit.com/r/ethereum/comments/1s8l7du/eip712/)**
-
-17h ago
+23h ago
 
 ---
 
@@ -150,7 +152,7 @@ I've been all over daily threads for the last two weeks, and some of those reall
 
 Ethereum has rolled out a steady stream of upgrades since 2022. Here’s how those changes fit together—and what’s still ahead.
 
-decrypt.co • 2d ago
+Decrypt • 2d ago
 
 ---
 
@@ -158,29 +160,7 @@ decrypt.co • 2d ago
 
 Ethereum price started a steady recovery wave above $2,000. ETH is now consolidating above $2,050 and might aim for more gains.Ethereum Price Attempts RecoveryEthereum price failed to stay above $2,050 and extended losses, like Bitcoin. ETH price dipped below $2,020 and $2,000 to enter a bearish zo…
 
-TradingView • 1h ago
-
----
-
-**[Solana DEX volumes drop to 2024 lows: Will SOL hold $80 as support?](https://www.tradingview.com/news/cointelegraph:75c90ee55094b:0-solana-dex-volumes-drop-to-2024-lows-will-sol-hold-80-as-support/)**
-
-Key takeaways:Solana's native token, SOL (SOL), faced an 11% correction following a rejection at $93 on last Wednesday. SOL has lagged the broader cryptocurrency market over the past week, testing the $80 support on multiple occasions. Solana network fees have also declined over the past two months…
-
-TradingView • 4h ago
-
----
-
-**[Google Warns $100 Billion Of Ethereum Is At Risk From ‘Quantum Attack’](https://finance.yahoo.com/markets/crypto/articles/google-warns-100-billion-ethereum-133000804.html)**
-
-Google parent company Alphabet (NASDAQ: $GOOGL) is warning that $100 billion U.S. of Ethereum (CRYPTO: $ETH) is at ...
-
-Yahoo Finance • 15h ago
-
----
-
-**[Google Warns Quantum Computers Could Break Bitcoin and Ethereum in 9 Minutes — Should You Be Worried?](https://www.ccn.com/education/crypto/google-quantum-computers-break-bitcoin-ethereum-9-minutes-1-7m-btc-risk/)**
-
-ccn.com • 16h ago
+TradingView • 3h ago
 
 ---
 
@@ -188,23 +168,37 @@ ccn.com • 16h ago
 
 A 57-page whitepaper identifies how future quantum computers could target Ethereum's wallets, smart contracts, staking system, Layer 2 networks and data verification layer, with combined exposure exceeding $100 billion.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
-**[Coinbase’s Base unveils strategy to focus on tokenized markets, stablecoins and developers](https://www.coindesk.com/tech/2026/03/31/coinbase-s-base-to-focus-on-tokenized-markets-stablecoins-developers-this-year)**
+**[Google Warns $100 Billion Of Ethereum Is At Risk From ‘Quantum Attack’](https://finance.yahoo.com/markets/crypto/articles/google-warns-100-billion-ethereum-133000804.html)**
 
-The move comes as the chain moves away from using Optimism technology and towards in-house infrastructure as it seeks greater independence and scale.
+Google parent company Alphabet (NASDAQ: $GOOGL) is warning that $100 billion U.S. of Ethereum (CRYPTO: $ETH) is at ...
 
-CoinDesk • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
-**[Gnosis and Zisk announce 'Ethereum Economic Zone' rollup framework with Ethereum Foundation co-funding](https://www.theblock.co/post/395578/gnosis-and-zisk-announce-ethereum-economic-zone-rollup-framework-with-ethereum-foundation-co-funding)**
+**[Google Warns Quantum Computers Could Break Bitcoin and Ethereum in 9 Minutes — Should You Be Worried?](https://www.ccn.com/education/crypto/google-quantum-computers-break-bitcoin-ethereum-9-minutes-1-7m-btc-risk/)**
 
-The Ethereum Foundation is co-funding the "easy" initiative, which was announced at EthCC in Cannes, and partners include Aave, Titan, Centrifuge, and more.
+CCN.com • 18h ago
 
-The Block • 2d ago
+---
+
+**[Crypto check: How bitcoin & ethereum prices are moving](https://finance.yahoo.com/video/crypto-check-how-bitcoin--ethereum-prices-are-moving-154824864.html)**
+
+On this episode of Crypto Check, Yahoo Finance Senior Reporter Brooke DiPalma takes a look at names like Coinbase (COIN) and Robinhood (HOOD), as well as bitcoin's (BTC-USD) and ethereum's (ETH-USD) price action amid the latest Iran war developments.
+
+Yahoo Finance • 15h ago
+
+---
+
+**[Aave V4 launches on Ethereum mainnet with 'hub-and-spoke' architecture](https://www.theblock.co/post/395617/aave-v4-launches-ethereum-mainnet)**
+
+Aave V4 features a hub-and-spoke architecture that concentrates liquidity to supply a wider range of markets and use cases with credit lines.
+
+The Block • 1d ago
 
 ---
 
@@ -212,7 +206,15 @@ The Block • 2d ago
 
 #FeaturedPost
 
-Business Insider Africa • 18h ago
+Business Insider Africa • 20h ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.732 Million Tokens, and Total Crypto and Total Cash Holdings of $10.7 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-732-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-7-billion-302728176.html)**
+
+Bitmine has 3,142,643 staked ETH, representing $6.3 billion at $2,005 per ETH MAVAN (Made in America VAlidator Network) launched staking solution on March 25,...
+
+PR Newswire • 1d ago
 
 ---
 
@@ -234,7 +236,7 @@ This year's EthCC event in Cannes has fielded its first major announcement: the 
 
 📺 Paul Barron Network
 
-👁️ 23K • 👍 1K • 💬 65 • ⏱️ 13:00 • 9h ago
+👁️ 23K • 👍 1K • 💬 65 • ⏱️ 13:00 • 11h ago
 
 ---
 
@@ -244,7 +246,7 @@ Hang in there everyone! The risk models that say when to accumulate or exit HERE
 
 📺 Dan Gambardello
 
-👁️ 7K • 👍 529 • 💬 158 • ⏱️ 13:49 • 11h ago
+👁️ 7K • 👍 529 • 💬 158 • ⏱️ 13:49 • 12h ago
 
 ---
 
@@ -254,7 +256,7 @@ BMNR is continuing to build one of the largest Ethereum treasuries in the world 
 
 📺 The Value Thinker
 
-👁️ 3K • 👍 283 • 💬 29 • ⏱️ 20:46 • 5h ago
+👁️ 3K • 👍 283 • 💬 29 • ⏱️ 20:46 • 7h ago
 
 ---
 
@@ -274,7 +276,7 @@ BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX
 
 📺 Lark Davis
 
-👁️ 774 • 👍 32 • ⏱️ 0:47 • 5h ago
+👁️ 774 • 👍 32 • ⏱️ 0:47 • 6h ago
 
 ---
 
@@ -294,7 +296,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 111 • ⏱️ 3:35 • 10h ago
+👁️ 1K • 👍 111 • ⏱️ 3:35 • 11h ago
 
 ---
 
@@ -314,7 +316,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 97 • 💬 3 • ⏱️ 4:22 • 18h ago
+👁️ 1K • 👍 97 • 💬 3 • ⏱️ 4:22 • 19h ago
 
 ---
 
@@ -324,7 +326,7 @@ Google Quantum AI just dropped a paper that directly names Bitcoin, Ethereum, XR
 
 📺 King Solomon (Ryan Solomon)
 
-👁️ 2K • 👍 263 • 💬 24 • ⏱️ 29:55 • 6h ago
+👁️ 2K • 👍 263 • 💬 24 • ⏱️ 29:55 • 7h ago
 
 ---
 
