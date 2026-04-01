@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-01T13:43:15.151954+00:00'
+updated: '2026-04-01T15:05:23.444608+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 01, 2026 at 13:43 UTC  
+**Last Updated:** April 01, 2026 at 15:05 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,378.10
+### $68,333.95
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.4%  
-**7d:** -0.9%  
-**30d:** -0.1%  
-**90d:** -24.2%  
-**1y:** -17.5%  
+**24h:** +1.5%  
+**7d:** -0.3%  
+**30d:** +0.5%  
+**90d:** -23.7%  
+**1y:** -17.0%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I have started accumulating btc since 2021, not going out with boys ,even cancelling the trip to Thailand and missing on that thai massage just to accumulate btc, and today finally i have one btc 😭
 
-11h ago
+13h ago
 
 ---
 
@@ -89,7 +89,7 @@ I have started accumulating btc since 2021, not going out with boys ,even cancel
 
 So I'm 28 and figure this might be my last chance to really swing for the fences before I get too settled into the whole responsible adult thing. Been thinking about dumping like $2500 monthly into my hardware wallet and just letting it ride for the next 5-6 years. I mean when else am I gonna have this kind of freedom to make big moves without worrying about a mortgage or kids or whatever. My job's pretty stable so I can swing it and still cover my expenses. Part of me thinks I'm crazy but another part thinks I'll regret not taking the shot when I had the chance. Anyone else doing something similar or am I just being reckless
 
-17h ago
+19h ago
 
 ---
 
@@ -97,7 +97,7 @@ So I'm 28 and figure this might be my last chance to really swing for the fences
 
 I don't know if it's just me who is thinking that... But Bitcoin feels very strange right now.
 
-6h ago
+8h ago
 
 ---
 
@@ -105,7 +105,7 @@ I don't know if it's just me who is thinking that... But Bitcoin feels very stra
 
 Back when we hit those peak prices I kept seeing posts about hitting $200k before the year ended, now everyone's switched to doom and gloom saying we're headed for a brutal 12 months ahead. Truth is nobody on this sub has a clue what's coming in the next few months. Best thing to do is chill out and keep holding your stack.
 
-12h ago
+13h ago
 
 ---
 
@@ -121,7 +121,7 @@ Everything's bleeding red today, bitcoin taking a proper beating All the weak ho
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-7h ago
+9h ago
 
 ---
 
@@ -129,7 +129,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Microns and liquid acrylic on arches. Bitcoin art
 
-15h ago
+17h ago
 
 ---
 
@@ -137,7 +137,7 @@ Microns and liquid acrylic on arches. Bitcoin art
 
 One thing to love about COLDCARD is its commitment to open standards. You can pair it with the companion wallet of your choice. Seems like this should be the standard for all hardware wallets.
 
-22h ago
+1d ago
 
 ---
 
@@ -145,7 +145,7 @@ One thing to love about COLDCARD is its commitment to open standards. You can pa
 
 Not gonna lie, this stretch feels like one of those periods where nothing crazy is happening on the surface but a lot is quietly building underneath. Price isn’t doing much to grab headlines, sentiment is split, and half the posts are either “we’re going to the moon tomorrow” or “it’s over.” Meanwhile Bitcoin just keeps running like normal. What stands out right now is big players don’t seem to be leaving, volatility feels kinda compressed, and retail interest isn’t euphoric at all which is usually when things get interesting. Feels like more people are focused on short term moves instead of long term positioning. This kind of “boring” phase usually doesn’t last. Not calling direction, I’m just stacking and staying patient. What’s everyone else doing right now?
 
-23h ago
+1d ago
 
 ---
 
@@ -153,7 +153,7 @@ Not gonna lie, this stretch feels like one of those periods where nothing crazy 
 
 Bitcoin DCA math: $10/week since 2021 = 8x today. Post-halving? 30x by 2030. HODLers: Your entry → target?
 
-13h ago
+14h ago
 
 ---
 
@@ -169,17 +169,41 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin Rises With Risk Assets on Trump Iran War Report](https://www.bloomberg.com/news/articles/2026-03-31/bitcoin-btc-rises-with-risk-assets-as-trump-talks-end-of-iran-war)**
+**[Current price of Bitcoin for April 1, 2026](https://fortune.com/article/price-of-bitcoin-04-01-2026/)**
 
-Bloomberg.com • 16h ago
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 2h ago
 
 ---
 
-**[Bitcoin ETFs Return to Monthly Inflows for the First Time Since October — But Q1 Still Ends in the Red](https://unchainedcrypto.com/bitcoin-etfs-post-first-monthly-inflows-since-october-2025-as-btc-price-stabilizes/)**
+**[Polymarket odds: Will gold, S&P, or bitcoin outperform this year?](https://ca.finance.yahoo.com/video/polymarket-odds-will-gold-sp-or-bitcoin-outperform-this-year-141443528.html)**
 
-U.S. spot Bitcoin ETFs recorded $1.32 billion in net inflows in March 2026 — ending a four-month outflow streak — though Q1 still closed with roughly $500 million in net redemptions overall.
+Polymarket users are betting on whether gold (GC=F), the S&P 500 (^GSPC), or bitcoin (BTC-USD) will perform best this year.Yahoo Finance Senior Reporter Ines Ferre and BCA Research chief global strategist and director of research Peter Berezin share their thoughts.For more predictions market insight, check out the new Yahoo Finance Polymarket Hub.
 
-unchainedcrypto.com • 1h ago
+Yahoo! Finance Canada • 50m ago
+
+---
+
+**[Bitcoin snaps five-month losing streak](https://finance.yahoo.com/news/bitcoin-snaps-five-month-losing-streak-020352265.html)**
+
+Bitcoin's March resilience may have been a relief rally within a broader crypto winter, according to Compass Point analyst Ed Engel.
+
+Yahoo Finance • 5h ago
+
+---
+
+**[Bitcoin Holds Gains in Asia After Five-Month Losing Streak Ends](https://www.bloomberg.com/news/articles/2026-04-01/bitcoin-holds-gains-in-asia-after-five-month-losing-streak-ends)**
+
+Bloomberg.com • 4h ago
+
+---
+
+**[Bitcoin price news: BTC spikes about 1% higher on hope for end to Iran conflict](https://www.coindesk.com/markets/2026/03/31/bitcoin-stocks-rise-oil-slides-after-report-of-iran-s-willingness-to-end-conflict)**
+
+Iran's President Masoud Pezeshkian said the country is prepared to end the conflict if it receives security guarantees.
+
+CoinDesk • 22h ago
 
 ---
 
@@ -207,31 +231,7 @@ WJHL • 1d ago
 
 The advancement of a key piece of crypto legislation was supposed to revive crypto from its doldrums—it didn't.
 
-Investopedia • 1d ago
-
----
-
-**[What you’re *actually* buying when you buy Bitcoin](https://nypost.com/business/bitcoin-investment-explained/)**
-
-Oh how the rules have changed.
-
-New York Post • 15h ago
-
----
-
-**[Oconee Blotter: Bitcoin price dispute leads to arrest of Oklahoman](https://www.onlineathens.com/story/news/crime/2026/03/31/oconee-blotter-bitcoin-price-dispute-ends-with-oklahoman-in-jail/89388588007/)**
-
-A deputy was dispatched to a crash where one driver didn't want an officer involved.
-
-Online Athens • 1d ago
-
----
-
-**[Bitcoin’s drawdown is ‘less dramatic’ this cycle, Fidelity says](https://www.tradingview.com/news/cointelegraph:0fe99220b094b:0-bitcoin-s-drawdown-is-less-dramatic-this-cycle-fidelity-says/)**
-
-Bitcoin (BTC) has declined by about 50% this market cycle, far less than in previous cycles, Fidelity Digital Assets said, adding this trend could continue over time. Bitcoin’s post-all-time-high drawdowns have historically been steep, at about 80% to 90%, but this cycle has been about 50%, Fidelit…
-
-TradingView • 7h ago
+investopedia.com • 1d ago
 
 ---
 
@@ -243,13 +243,19 @@ TradingView • 7h ago
 
 Google Research said the necessary resources for quantum computers to break cryptocurrencies have seen a 20-fold reduction.
 
-⬆️ 7 • 💬 2 • 10h ago • [The Block](https://www.theblock.co/post/395814/google-quantum-computing-earlier)
+⬆️ 7 • 💬 2 • 11h ago • [The Block](https://www.theblock.co/post/395814/google-quantum-computing-earlier)
+
+---
+
+**[Google Paper Warns of Quantum Computing Risk for Bitcoin](https://news.ycombinator.com/item?id=47600418)**
+
+⬆️ 3 • 💬 1 • 1h ago • [wsj.com](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q)
 
 ---
 
 **[KnexCoin (NEX) soft forked Bitcoin and now Quantum Ready](https://news.ycombinator.com/item?id=47589186)**
 
-⬆️ 2 • 💬 1 • 21h ago • [untraceablex.com](https://www.untraceablex.com)
+⬆️ 2 • 💬 1 • 23h ago • [untraceablex.com](https://www.untraceablex.com)
 
 ---
 
@@ -258,12 +264,6 @@ Google Research said the necessary resources for quantum computers to break cryp
 The first signing system where the private key is a physical key — and can still transact. Titanium. Not stored digitally. Not protected by firmware.
 
 ⬆️ 2 • 💬 1 • 1d ago • [Frozen Security](https://frozensecurity.com/)
-
----
-
-**[Google Paper Warns of Quantum Computing Risk for Bitcoin](https://news.ycombinator.com/item?id=47600418)**
-
-⬆️ 1 • 💬 0 • 28m ago • [wsj.com](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q)
 
 ---
 
@@ -281,7 +281,7 @@ The first signing system where the private key is a physical key — and can sti
 
 **[Show HN: Live simulation of AI agents scamming each other (and getting caught)](https://news.ycombinator.com/item?id=47595450)**
 
-⬆️ 3 • 💬 0 • 12h ago • [5.161.255.238:8888](http://5.161.255.238:8888)
+⬆️ 3 • 💬 0 • 14h ago • [5.161.255.238:8888](http://5.161.255.238:8888)
 
 ---
 
@@ -289,7 +289,7 @@ The first signing system where the private key is a physical key — and can sti
 
 runs multiple inputs through a script/function in parallel using bash coprocs - jkool702/forkrun
 
-⬆️ 137 • 💬 35 • 5d ago • [GitHub](https://github.com/jkool702/forkrun)
+⬆️ 139 • 💬 37 • 5d ago • [GitHub](https://github.com/jkool702/forkrun)
 
 ---
 
@@ -313,7 +313,7 @@ If you know someone who holds Bitcoin → send them this video. “Quantum Will 
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 1K • 💬 174 • ⏱️ 10:16 • 16h ago
+👁️ 25K • 👍 1K • 💬 174 • ⏱️ 10:16 • 18h ago
 
 ---
 
@@ -323,7 +323,7 @@ Global markets are cracking under war, inflation, and policy failure, but most p
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 58 • ⏱️ 11:45 • 15h ago
+👁️ 18K • 👍 1K • 💬 58 • ⏱️ 11:45 • 17h ago
 
 ---
 
@@ -333,7 +333,7 @@ Google dropped a new quantum computing paper and the internet immediately reacte
 
 📺 Swan Bitcoin
 
-👁️ 6K • 👍 451 • 💬 39 • ⏱️ 12:30 • 18h ago
+👁️ 6K • 👍 451 • 💬 39 • ⏱️ 12:30 • 19h ago
 
 ---
 
@@ -353,7 +353,7 @@ Bitcoin #Crypto #Finance Bitcoin just closed its worst first quarter since 2018,
 
 📺 The Wolf Of All Streets
 
-👁️ 15K • 👍 646 • 💬 166 • ⏱️ 58:16 • 22h ago
+👁️ 15K • 👍 646 • 💬 166 • ⏱️ 58:16 • 1d ago
 
 ---
 
@@ -383,7 +383,7 @@ Bitcoin holders think they're safe, but are they prepared for a "Fed Crisis Scen
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 227 • 💬 82 • ⏱️ 6:18 • 14h ago
+👁️ 5K • 👍 227 • 💬 82 • ⏱️ 6:18 • 15h ago
 
 ---
 
@@ -391,7 +391,7 @@ Bitcoin holders think they're safe, but are they prepared for a "Fed Crisis Scen
 
 📺 CryptoWendyO
 
-👁️ 9K • 👍 688 • 💬 32 • ⏱️ 2:06 • 12h ago
+👁️ 9K • 👍 688 • 💬 32 • ⏱️ 2:06 • 14h ago
 
 ---
 
