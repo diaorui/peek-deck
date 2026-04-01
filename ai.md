@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-31T23:43:40.886409+00:00'
+updated: '2026-04-01T02:42:27.886674+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - videos
 - repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 31, 2026 at 23:43 UTC  
+**Last Updated:** April 01, 2026 at 02:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,27 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Paper Finds That Leading AI Chatbots Like ChatGPT and Claude Remain Incredibly Sycophantic, Resulting in Twisted Effects on Users](https://www.reddit.com/r/artificial/comments/1s93wyl/paper_finds_that_leading_ai_chatbots_like_chatgpt/)**
+
+https://futurism.com/artificial-intelligence/paper-ai-chatbots-chatgpt-claude-sycophantic Your AI chatbot isn’t neutral. Trust its advice at your own risk. A striking new study, conducted by researchers at Stanford University and published last week in the journal Science, confirmed that human-like chatbots are prone to obsequiously affirm and flatter users leaning on the tech for advice and insight — and that this behavior, known as AI sycophancy, is a “prevalent and harmful” function endemic to the tech that can validate users’ erroneous or destructive ideas and promote cognitive dependency. “AI sycophancy is not merely a stylistic issue or a niche risk, but a prevalent behavior with broad downstream consequences,” the authors write, adding that “although affirmation may feel supportive, sycophancy can undermine users’ capacity for self-correction and responsible decision-making.” The study examined 11 different large language models, including OpenAI’s ChatGPT-powering GPT-4o and GPT-5, Anthropic’s Claude, Google’s Gemini, multiple Meta Llama models, and Deepseek. Researchers tested the bots by peppering them with queries gathered from sources like open-ended advice datasets and posts from online forums like Reddit’s r/AmITheAsshole, where Redditors present an interpersonal conundrum to the masses, ask if they’re the person in a social situation acting like a jerk, and let the comments roll in. They examined experimental live chats with human users, who engaged the models in conversations about real social situations they were dealing with. Ethical quandaries the researchers tested included authority figures grappling with romantic feelings for young subordinates, a boyfriend wondering if it was wrong to have hidden his unemployment to his partner of two years, family squabbles and neighborhood trash disputes, and more. On average, the researchers found, AI chatbots were 49 percent more likely to respond affirmatively to users than other actual humans were. In response to queries posted in r/AmITheAsshole specifically, chatbots were 51 percent more likely to support the user in queries in which other humans overwhelming felt that the user was very much in the wrong. Sycophancy was present across all the chatbots they tested, and the bots frequently told users that their actions or beliefs were justified in cases where the user was acting deceptively, doing something illegal, or engaging in otherwise harmful or abusive behavior. What’s more, the study determined that just one interaction with a flattering chatbot was likely to “distort” a human user’s “judgement” and “erode prosocial motivations,” an outcome that persisted regardless of a person’s demographics and previous grasp on the tech as well as how, stylistically, an individual chatbot delivered its twisted verdict. In short, after engaging with chatbots on a social or moral quandary, people were less likely to admit wrongdoing — and more likely to dig in on the chatbot’s version of events, in which they, the main character, were the one in the right.
+
+3h ago
+
+---
+
+**[OkCupid gave 3 million dating-app photos to facial recognition firm, FTC says](https://www.reddit.com/r/artificial/comments/1s96ojy/okcupid_gave_3_million_datingapp_photos_to_facial/)**
+
+OkCupid and Match settle with Trump FTC, don't have to pay any financial penalty.
+
+🔗 [Ars Technica](https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/) • 1h ago
+
+---
+
 **[What if the real AI problem is not intelligence, but responsibility?](https://www.reddit.com/r/artificial/comments/1s8u4jm/what_if_the_real_ai_problem_is_not_intelligence/)**
 
 A lot of the AI discussion is still framed around capability: Can it write? Can it code? Can it replace people? But I keep wondering whether the deeper problem is not intelligence, but responsibility. We are building systems that can generate text, images, music, and decisions at scale. But who is actually responsible for what comes out of that chain? Not legally only, but structurally, culturally, and practically. Who decided? Who approved? Who carries the outcome once generation is distributed across prompts, models, edits, tools, and workflows? It seems to me that a lot of current debate is still asking: “What can AI do?” But maybe the more important question is: “What kind of responsibility structure has to exist around systems that can do this much?” Curious how people here think about that. Do you think the future of AI governance will still be built mostly around ownership and liability, or will it eventually have to move toward something more like responsibility architecture?
 
-6h ago
+9h ago
 
 ---
 
@@ -49,7 +65,7 @@ A lot of the AI discussion is still framed around capability: Can it write? Can 
 
 It won't be a war against the machines or an out-of-control algorithm. Rather humans will simply lose the ability to concentrate and solve problems for themselves. And so AI will be granted more and more control over everything.
 
-3h ago
+6h ago
 
 ---
 
@@ -61,55 +77,41 @@ Was at Nvidia's GTC conference recently and honestly, it was one of the most eye
 
 ---
 
-**[Newsom signs executive order requiring AI companies to have safety, privacy guardrails](https://www.reddit.com/r/artificial/comments/1s8ge2h/newsom_signs_executive_order_requiring_ai/)**
-
-🔗 [ktla.com](https://ktla.com/news/california/newsom-signs-executive-order-requiring-ai-companies-to-have-safety-privacy-guardrails/) • 16h ago
-
----
-
 **[SMASH2000, an AI-powered optic that turns an AR-15 into an anti-drone platform](https://www.reddit.com/r/artificial/comments/1s92mvu/smash2000_an_aipowered_optic_that_turns_an_ar15/)**
 
 The Israeli-made Smash2000 scope takes a long-lasting charge, fits on most rifle rails and won't fire a round until the math says shoot.
 
-🔗 [We Are The Mighty](https://www.wearethemighty.com/tactical/smash2000-finally-an-ai-powered-optic-that-turns-your-ar-15-into-a-drone-hunter/) • 1h ago
+🔗 [We Are The Mighty](https://www.wearethemighty.com/tactical/smash2000-finally-an-ai-powered-optic-that-turns-your-ar-15-into-a-drone-hunter/) • 3h ago
 
 ---
 
-**[Pro-AI group to spend $100mn on US midterm elections as backlash grows](https://www.reddit.com/r/artificial/comments/1s8l0x7/proai_group_to_spend_100mn_on_us_midterm/)**
+**[A IA parece melhor porque é mais inteligente… ou porque ela não tem ego?](https://www.reddit.com/r/artificial/comments/1s96trg/a_ia_parece_melhor_porque_é_mais_inteligente_ou/)**
 
-November 3 poll set to be battleground over regulation of AI
+Vejo muita gente dizendo que a IA responde melhor que pessoas reais. Mas isso é porque ela é mais inteligente ou porque não tem ego, não se ofende e não entra em disputa durante a conversa? Queria ouvir opiniões diferentes sobre isso.
 
-🔗 [ft.com](https://www.ft.com/content/6a3f1938-759d-4ae4-924e-6a0feac14e24?syn-25a6b1a6=1) • 12h ago
-
----
-
-**[Have Companies Began Adopting Claude Co-Work at an Enterprise Level?](https://www.reddit.com/r/artificial/comments/1s8qisi/have_companies_began_adopting_claude_cowork_at_an/)**
-
-Hi Guys, My company is considering purchasing the Claude Enterprise plan. The main two constraints are: - Being able to block usage of Claude Code - Using Co-work in a managed fashion (preventing an employee for accidentally destroying or changing shared confidential files). Has anyone’s companies adopted Claude? If so, how did you go about ensuring the right safety measures were taken place before live? Would appreciate all input. Thanks!
-
-8h ago
+1h ago
 
 ---
 
-**[Iran War Chokes Off Helium Supply Critical for AI](https://www.reddit.com/r/artificial/comments/1s8ew65/iran_war_chokes_off_helium_supply_critical_for_ai/)**
+**[Newsom signs executive order requiring AI companies to have safety, privacy guardrails](https://www.reddit.com/r/artificial/comments/1s8ge2h/newsom_signs_executive_order_requiring_ai/)**
 
-🔗 [wsj.com](https://www.wsj.com/world/iran-war-chokes-off-helium-supply-critical-for-ai-bf020a3f?st=fWrBVq&reflink=article_copyURL_share) • 17h ago
-
----
-
-**[Paper Finds That Leading AI Chatbots Like ChatGPT and Claude Remain Incredibly Sycophantic, Resulting in Twisted Effects on Users](https://www.reddit.com/r/artificial/comments/1s93wyl/paper_finds_that_leading_ai_chatbots_like_chatgpt/)**
-
-https://futurism.com/artificial-intelligence/paper-ai-chatbots-chatgpt-claude-sycophantic Your AI chatbot isn’t neutral. Trust its advice at your own risk. A striking new study, conducted by researchers at Stanford University and published last week in the journal Science, confirmed that human-like chatbots are prone to obsequiously affirm and flatter users leaning on the tech for advice and insight — and that this behavior, known as AI sycophancy, is a “prevalent and harmful” function endemic to the tech that can validate users’ erroneous or destructive ideas and promote cognitive dependency. “AI sycophancy is not merely a stylistic issue or a niche risk, but a prevalent behavior with broad downstream consequences,” the authors write, adding that “although affirmation may feel supportive, sycophancy can undermine users’ capacity for self-correction and responsible decision-making.” The study examined 11 different large language models, including OpenAI’s ChatGPT-powering GPT-4o and GPT-5, Anthropic’s Claude, Google’s Gemini, multiple Meta Llama models, and Deepseek. Researchers tested the bots by peppering them with queries gathered from sources like open-ended advice datasets and posts from online forums like Reddit’s r/AmITheAsshole, where Redditors present an interpersonal conundrum to the masses, ask if they’re the person in a social situation acting like a jerk, and let the comments roll in. They examined experimental live chats with human users, who engaged the models in conversations about real social situations they were dealing with. Ethical quandaries the researchers tested included authority figures grappling with romantic feelings for young subordinates, a boyfriend wondering if it was wrong to have hidden his unemployment to his partner of two years, family squabbles and neighborhood trash disputes, and more. On average, the researchers found, AI chatbots were 49 percent more likely to respond affirmatively to users than other actual humans were. In response to queries posted in r/AmITheAsshole specifically, chatbots were 51 percent more likely to support the user in queries in which other humans overwhelming felt that the user was very much in the wrong. Sycophancy was present across all the chatbots they tested, and the bots frequently told users that their actions or beliefs were justified in cases where the user was acting deceptively, doing something illegal, or engaging in otherwise harmful or abusive behavior. What’s more, the study determined that just one interaction with a flattering chatbot was likely to “distort” a human user’s “judgement” and “erode prosocial motivations,” an outcome that persisted regardless of a person’s demographics and previous grasp on the tech as well as how, stylistically, an individual chatbot delivered its twisted verdict. In short, after engaging with chatbots on a social or moral quandary, people were less likely to admit wrongdoing — and more likely to dig in on the chatbot’s version of events, in which they, the main character, were the one in the right.
-
-7m ago
+🔗 [ktla.com](https://ktla.com/news/california/newsom-signs-executive-order-requiring-ai-companies-to-have-safety-privacy-guardrails/) • 19h ago
 
 ---
 
-**[Fake users generated by AI can't simulate humans — review of 182 research papers. Your thoughts?](https://www.reddit.com/r/artificial/comments/1s8hr7k/fake_users_generated_by_ai_cant_simulate_humans/)**
+**[Are LLMs a Dead End? (Investors Just Bet $1 Billion on “Yes”)](https://www.reddit.com/r/artificial/comments/1s94qaw/are_llms_a_dead_end_investors_just_bet_1_billion/)**
 
-https://www.researchsquare.com/article/rs-9057643/v1 There’s a massive trend right now where tech companies, businesses, even researchers are trying to replace real human feedback with Large Language Models (LLMs) so called synthetic participants/users. The idea is sounds great - why spend money and time recruiting real people to take surveys, test apps, or give opinions when you can just prompt ChatGPT to pretend to be a thousand different customers? A new systematic literature review analyzing 182 research papers just dropped to see if these "synthetic participants" can simulate humans. The short answer? They are bad at representing human cognition and behavior and you probably should not use them this way. Edit: forgot to post the link to the research, added it.
+| AI Reality Check | Cal Newport Chapters 0:00 What is Yan LeCun Up To? 14:55 How is it possible that LeCun could be right about LLM’s begin a dead-end? 22:26 What would happen next if LeCun is right? Resources Mentioned: https://www.nytimes.com/2026/03/10/technology/ami-labs-yann-lecun-funding.html
 
-15h ago
+2h ago
+
+---
+
+**[Building a swarm of AI agents to automate AppSec and OffSec work](https://www.reddit.com/r/artificial/comments/1s97rbm/building_a_swarm_of_ai_agents_to_automate_appsec/)**
+
+Have a look at how we built a swarm of AI agents and how we've been using them daily at Deriv
+
+🔗 [derivai.substack.com](https://derivai.substack.com/p/ai-agent-security-offensive-security-swarm) • 20m ago
 
 ---
 
@@ -121,13 +123,13 @@ https://www.researchsquare.com/article/rs-9057643/v1 There’s a massive trend r
 
 Oracle has ratcheted up its capital expenditures as it builds data center infrastructure that can handle AI workloads.
 
-CNBC • 8h ago
+CNBC • 11h ago
 
 ---
 
-**[Oracle Lays Off Workers Amid Heavy AI Investment](https://www.wsj.com/tech/oracle-lays-off-workers-amid-heavy-ai-investment-fff8cd82?gaa_at=eafs&gaa_n=AWEtsqdMmSlqtJQO9kXHxcqg38Fdbr0Gr-XiqO1eKR6lnlItAnfLCuTjYZxX&gaa_ts=69cc5f90&gaa_sig=tlaVuawYFL2bYeRFL-b2CK51fqa5CN2UQ1xKc7TAajOzkdrSWBaqTxv_0ilp1Vz13jdR9qkY74EKv74y_-J7AA%3D%3D)**
+**[Oracle Lays Off Workers Amid Heavy AI Investment](https://www.wsj.com/tech/oracle-lays-off-workers-amid-heavy-ai-investment-fff8cd82?gaa_at=eafs&gaa_n=AWEtsqfDE3j0vjZ1YvKYItbu1LInGWeTQMJ-gD7V7K4S8nnGQf0WoNGBwGu-&gaa_ts=69cc8974&gaa_sig=g501qNeQb0tWqQmRessWM4bblRsl0-eLTbJJiOdCLkMG5BxsYaLkyZ3i7rypJGMVQY1l5VqPTscsa0I1pmOnCA%3D%3D)**
 
-WSJ • 2h ago
+WSJ • 5h ago
 
 ---
 
@@ -135,41 +137,7 @@ WSJ • 2h ago
 
 Oracle is reportedly laying off thousands of employees, adding to an already long list of tech giants cutting staff while spending hundreds of billions of dollars on AI data centers.
 
-CNN • 1h ago
-
----
-
-**[Meet the Startup That Used AI and OpenClaw to Automate Its Own Developers](https://www.wsj.com/tech/ai/meet-the-startup-that-used-ai-and-openclaw-to-automate-its-own-developers-9e733351?gaa_at=eafs&gaa_n=AWEtsqciizZK_ns7TavuR73rvzjI1lf6bjZJOkZ2quFzUJX0aVEZZEnqaguR&gaa_ts=69cc5f90&gaa_sig=gkBZXNxcYGvhh7LMlUoKwqY8XnS4Mmxo7fSTKTbcvhnmRLAZPBxfUskQXbh6BTMef_lGT6y5O4AhhD-cMNp8VA%3D%3D)**
-
-WSJ • 12h ago
-
----
-
-**[Self-affirmations from AI chatbots harm human relationships: Study](https://www.kxan.com/news/national-news/self-affirmations-from-ai-chatbots-harm-human-relationships-study/)**
-
-kxan.com • 17m ago
-
----
-
-**[The Super Mario Galaxy Movie review – bland screensaver of a movie that’s actually worse than AI](https://www.theguardian.com/film/2026/mar/31/the-super-mario-galaxy-movie-review-sequel-video-game-chris-pratt-charlie-day)**
-
-At this point, it’s trite to say that a bad film feels as if it’s been AI generated, but this simplistic sequel is next-level – it’s nothing more than an Easter holiday cash grab
-
-The Guardian • 4h ago
-
----
-
-**[Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly](https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/)**
-
-research.google • 21h ago
-
----
-
-**[If You Need a Laptop, Buy It Now](https://www.theatlantic.com/technology/2026/03/laptop-electronics-ram-ai-tax/686628/)**
-
-Electronics are getting more expensive and worse. Blame the AI boom.
-
-theatlantic.com • 7h ago
+CNN • 4h ago
 
 ---
 
@@ -177,7 +145,15 @@ theatlantic.com • 7h ago
 
 OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.
 
-OpenAI • 3h ago
+OpenAI • 6h ago
+
+---
+
+**['Nothing but a noise trap': Dowagiac residents push back against AI data center expansion](https://wwmt.com/news/local/ai-data-center-expansion-dowagiac-loud-noise-complaints-residents-southwest-michigan-hyperscale-megawatt-bitcoin-wwmt)**
+
+Hyperscale Data plans to more than double its acreage in Southwest Michigan in a new land agreement.
+
+WWMT • 24m ago
 
 ---
 
@@ -185,7 +161,35 @@ OpenAI • 3h ago
 
 Hundreds of thousands of lines of code were exposed, giving researchers insight into upcoming models and internal architecture.
 
-fortune.com • 5h ago
+Fortune • 8h ago
+
+---
+
+**[Anthropic Accidentally Releases Source Code for Claude AI Agent](https://www.bloomberg.com/news/articles/2026-04-01/anthropic-accidentally-releases-source-code-for-claude-ai-agent)**
+
+Bloomberg.com • 4m ago
+
+---
+
+**[How SentinelOne’s AI EDR Autonomously Discovered and Stopped Anthropic’s Claude from Executing a Zero Day Supply Chain Attack, Globally](https://www.sentinelone.com/blog/how-sentinelones-ai-edr-autonomously-discovered-and-stopped-anthropics-claude-from-executing-a-zero-day-supply-chain-attack-globally/)**
+
+Read our blog post to learn how SentinelOne’s AI EDR autonomously stopped a global LiteLLM supply chain attack before execution.
+
+sentinelone.com • 6h ago
+
+---
+
+**[If You Need a Laptop, Buy It Now](https://www.theatlantic.com/technology/2026/03/laptop-electronics-ram-ai-tax/686628/)**
+
+Electronics are getting more expensive and worse. Blame the AI boom.
+
+The Atlantic • 10h ago
+
+---
+
+**[Meet the Startup That Used AI and OpenClaw to Automate Its Own Developers](https://www.wsj.com/tech/ai/meet-the-startup-that-used-ai-and-openclaw-to-automate-its-own-developers-9e733351?gaa_at=eafs&gaa_n=AWEtsqcnEwauUvdLbuW6Q6VNoaXMGfLtQNMrw4EHzR4C42dUhTVbo5kFgNmx&gaa_ts=69cc8974&gaa_sig=gmyYgl1oUT2B2I2AI_bXdIQ8vtw8AXtOnQuhSjTaZmLSUYuTElt7umpm-sY0lXR2NGd0eMUAkQtBBHGBxN-fVw%3D%3D)**
+
+WSJ • 15h ago
 
 ---
 
@@ -197,7 +201,7 @@ fortune.com • 5h ago
 
 A Tennessee grandmother spent more than five months in jail after police used an AI facial recognition tool to link her to crimes committed in North Dakota – a state she says she’d never been to before. Police in Fargo, North Dakota, have acknowledged “a few errors” in the case and pledged changes in their operations but stopped short of issuing a direct apology.
 
-⬆️ 440 • 💬 200 • 2d ago • [CNN](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
+⬆️ 441 • 💬 202 • 2d ago • [CNN](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
 
 ---
 
@@ -205,7 +209,7 @@ A Tennessee grandmother spent more than five months in jail after police used an
 
 The catalysts for a crash are already laid out, and it can happen sooner than most expect. AI is here to stay. If used right, chances are it will make us all more productive. That, on the other hand, does not mean it will be a good investment. Big tech doesn’t need to win, just outspend Magnificent 7 companies are increasing capex to their biggest ever to differentiate their tech from each other and the big AI labs, but the key realization is that they don’t have to spend it to win. It’s a defensive move for them, if they commit $50B, OpenAI and Anthropic need to go raise $100B each to stay competitive, which makes them reliant on investors’ money. As the numbers get bigger, the amount of funds that can write checks of the size required to fill such amounts gets smaller. And many of them are now getting bombed in the Gulf. This is the reason there’s a push for IPOs, it’s because it’s the only option left to keep the funding coming. Taking this into account, Google is extremely well positioned to weather the storm. When they announce capex expenditure, they don’t spend it overnight. They can simply deploy month by month until their competitors struggle to raise and get forced to capitulate. At that point they can just ramp down the spending and declare victory in a cornered market. They don’t need capex, they just need to make it very clear for everyone that nobody can outspend them. It is hard to picture as numbers get so big, but Alphabet (Google’s parent) is ten times more valuable than the biggest military company 1. This also has a great implication for the Mag 7, especially Google: their capex will be a lot smaller in practice than projected, and as investors hate to see high capex in tech, the market will probably reward that if it materializes. As of March 2026, Alphabet’s market cap is ~$2T while Lockheed Martin’s is ~$120B. ↩
 
-⬆️ 368 • 💬 514 • 1d ago • [Volpe’s Blog](https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/)
+⬆️ 368 • 💬 516 • 1d ago • [Volpe’s Blog](https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/)
 
 ---
 
@@ -213,7 +217,7 @@ The catalysts for a crash are already laid out, and it can happen sooner than mo
 
 Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma development by creating an account on GitHub.
 
-⬆️ 343 • 💬 245 • 2d ago • [GitHub](https://github.com/austin-weeks/miasma)
+⬆️ 345 • 💬 245 • 2d ago • [GitHub](https://github.com/austin-weeks/miasma)
 
 ---
 
@@ -231,13 +235,13 @@ Artificial intelligence (AI) is the name popularly given to a broad spectrum of 
   In this paper, we consider the rapidly evolving impact of AI to the traditional questions of philosophy
   with an emphasis on its application in mathematics and on the broader real-world outcomes of its more general use. We assert that artificial intelligence is a natural evolution of human tools developed throughout history to facilitate the creation, organization, and dissemination of ideas, and argue that it is paramount that the development and application of AI remain fundamentally human-centered. With an eye toward innovating solutions to meet human needs, enhancing the human quality of life and expanding the capacity for human thought and understanding, we propose a pathway to integrating AI into our most challenging and intellectually rigorous fields to the benefit of all humankind.
 
-⬆️ 212 • 💬 89 • 1d ago • [arXiv.org](https://arxiv.org/abs/2603.26524)
+⬆️ 212 • 💬 90 • 1d ago • [arXiv.org](https://arxiv.org/abs/2603.26524)
 
 ---
 
 **[What if AI doesn't need more RAM but better math?](https://news.ycombinator.com/item?id=47561297)**
 
-⬆️ 187 • 💬 101 • 2d ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more)
+⬆️ 188 • 💬 101 • 2d ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more)
 
 ---
 
@@ -245,7 +249,7 @@ Artificial intelligence (AI) is the name popularly given to a broad spectrum of 
 
 The Italian government didn’t allow airplanes taking part in the Iran war to use the base, but Rome insists that doesn’t mean the bases are closed to other U.S. uses.
 
-⬆️ 179 • 💬 96 • 8h ago • [POLITICO](https://www.politico.eu/article/italy-blocks-us-use-of-sicily-air-base/)
+⬆️ 186 • 💬 98 • 11h ago • [POLITICO](https://www.politico.eu/article/italy-blocks-us-use-of-sicily-air-base/)
 
 ---
 
@@ -269,7 +273,7 @@ This is a lightly edited transcript of a talk I gave at QCon London on 17 March 
 
 Spain's leftist government has closed Spanish airspace to US planes carrying out missions against Iran, in addition to denying Washington use of its bases, the defense minister said on Monday.  "The bases are not authorized, and of course neither is the use of Spanish airspace for actions related to the war in Iran," Margarita Robles told journalists, confirming a report by El Pais daily.  Spain's refusal to cooperate has "complicated" US military operations by forcing bombers to change their routes and logistics on their way to the Middle East, El Pais reported.
 
-⬆️ 91 • 💬 52 • 1d ago • [english.aawsat.com](https://english.aawsat.com/world/5256772-spain-shuts-airspace-us-planes-involved-iran-war)
+⬆️ 92 • 💬 51 • 1d ago • [english.aawsat.com](https://english.aawsat.com/world/5256772-spain-shuts-airspace-us-planes-involved-iran-war)
 
 ---
 
@@ -283,17 +287,17 @@ Chris and Tristan Harris discuss how Alibaba's AI went rogue and started blackma
 
 📺 Chris Williamson
 
-👁️ 97K • 👍 4K • 💬 600 • ⏱️ 11:46 • 8h ago
+👁️ 190K • 👍 7K • 💬 890 • ⏱️ 11:46 • 11h ago
 
 ---
 
-**[Master 95% Of Higgsfield AI in 12 Minutes](https://www.youtube.com/watch?v=KMq3X422_fk)**
+**[JPMorgan CEO reveals BOLD prediction for AI generation](https://www.youtube.com/watch?v=SQnmd1aoRy0)**
 
-Become an Higgsfield AI Video Generator Pro in 12 minutes Try out Higgsfield ➡️ https://higgsfield.ai?fpr=utm&fp_sid=mira Hey ...
+JPMorgan Chase CEO Jamie Dimon joins 'Fox & Friends' to discuss the latest on Operation Epic Fury, the motivation behind the ...
 
-📺 Mira AI
+📺 Fox News
 
-👁️ 3K • ⏱️ 12:05 • 5h ago
+👁️ 33K • 👍 777 • 💬 359 • ⏱️ 16:35 • 7h ago
 
 ---
 
@@ -303,37 +307,7 @@ Detailed sources: https://docs.google.com/document/d/1P1X9xEmmgSYH0g1FSizgV2rDVo
 
 📺 Species | Documenting AGI
 
-👁️ 121K • 👍 8K • 💬 2K • ⏱️ 35:45 • 2d ago
-
----
-
-**[Nano Banana 2 SOLVED Consistent AI Characters (here’s how)](https://www.youtube.com/watch?v=XSgbD66e6Ew)**
-
-Nano Banana 2 SOLVED Consistent AI Characters (here's how) Try Higgsfield AI ...
-
-📺 Skai Generated
-
-👁️ 4K • 💬 2 • ⏱️ 9:04 • 5h ago
-
----
-
-**[Google AI Studio 2.0 Tutorial: How to Use All Google AI Tools for FREE](https://www.youtube.com/watch?v=E1y7fLWLI0s)**
-
-sponsored Get your 30% off the Chatty paid plan! https://partners.avada.io/i/a/JK7OH Become an AI Master – All-in-one AI ...
-
-📺 AI Master
-
-👁️ 1K • 👍 134 • 💬 7 • ⏱️ 17:36 • 6h ago
-
----
-
-**[AI is Destroying The Internet](https://www.youtube.com/watch?v=NWQ1CFIj8zo)**
-
-Is the AI bubble finally starting to burst, or is it taking the entire tech industry down with it? In this video, we'll cover how Generative ...
-
-📺 CyberCPU Tech
-
-👁️ 24K • 👍 3K • 💬 775 • ⏱️ 19:23 • 1d ago
+👁️ 129K • 👍 8K • 💬 2K • ⏱️ 35:45 • 2d ago
 
 ---
 
@@ -343,17 +317,7 @@ hey thanks for watching! subscribe if you want videos that will help you build y
 
 📺 Taylor Alesia
 
-👁️ 42K • 👍 5K • 💬 1K • ⏱️ 7:43 • 1d ago
-
----
-
-**[Free &amp; Unlimited AI Video Generator (With Sound)](https://www.youtube.com/watch?v=sD1-YWjknTo)**
-
-Animate your AI characters and create stunning videos in seconds: https://higgsfield.ai/s/general-malvaai-IvDUgU Enter the AI ...
-
-📺 Malva AI
-
-👁️ 3K • 👍 110 • 💬 13 • ⏱️ 11:00 • 13h ago
+👁️ 45K • 👍 5K • 💬 1K • ⏱️ 7:43 • 1d ago
 
 ---
 
@@ -363,17 +327,57 @@ Anthropic accidentally exposed Claude MYTHOS, its most powerful AI yet, Meta unv
 
 📺 AI Revolution
 
-👁️ 43K • 👍 1K • 💬 71 • ⏱️ 12:51 • 1d ago
+👁️ 45K • 👍 1K • 💬 73 • ⏱️ 12:51 • 2d ago
 
 ---
 
-**[Robot waifus, RIP Sora, GLM-5.1, AI brain scans, Google realtime voice: AI NEWS](https://www.youtube.com/watch?v=6Il0CJx9yU8)**
+**[Free &amp; Unlimited AI Video Generator (With Sound)](https://www.youtube.com/watch?v=sD1-YWjknTo)**
 
-HUGE AI NEWS: GLM-5.1, daVinci MagiHuman, ARC-AGI 3, PrismAudio, Matrix Game, & more #ai #ainews #aitools #aivideo ...
+Animate your AI characters and create stunning videos in seconds: https://higgsfield.ai/s/general-malvaai-IvDUgU Enter the AI ...
 
-📺 AI Search
+📺 Malva AI
 
-👁️ 103K • 👍 4K • 💬 511 • ⏱️ 47:29 • 2d ago
+👁️ 4K • 👍 135 • 💬 14 • ⏱️ 11:00 • 16h ago
+
+---
+
+**[AI Has Broken the Internet](https://www.youtube.com/watch?v=44JBZwAsfJI)**
+
+Depot CI really is that good, you should try it: https://jetty.to/depot-ci So the web has been breaking a lot lately. Vercel is down.
+
+📺 ForrestKnight
+
+👁️ 131K • 👍 7K • 💬 793 • ⏱️ 17:17 • 1d ago
+
+---
+
+**[I Ran DeepSeek R1 on a $80 Pi vs $250 Jetson vs $1000 Mac — Here’s What Happened](https://www.youtube.com/watch?v=jGsfVJfzduI)**
+
+I tested DeepSeek R1 1.5B—a surprisingly capable open-source reasoning model—on three very different machines to answer ...
+
+📺 Joyce Lin
+
+👁️ 44K • 👍 2K • 💬 104 • ⏱️ 9:51 • 1d ago
+
+---
+
+**[5 EASIEST Ways to Make Money With AI (No One is Doing This)](https://www.youtube.com/watch?v=qCqltRQCXqg)**
+
+Check out best ai courses:- Google AI essentials - https://imp.i384100.net/dOQ1G2 Google Prompting Essentials ...
+
+📺 Ishan Sharma
+
+👁️ 20K • 👍 1K • 💬 41 • ⏱️ 10:06 • 12h ago
+
+---
+
+**[Anthropic, OpenAI, and Microsoft Just Agreed on One File Format. It Changes Everything.](https://www.youtube.com/watch?v=0cVuMHaYEHE)**
+
+My site: https://natebjones.com Full Story w/ Prompts: ...
+
+📺 AI News & Strategy Daily | Nate B Jones
+
+👁️ 108K • 👍 3K • 💬 351 • ⏱️ 26:20 • 1d ago
 
 ---
 
@@ -389,7 +393,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 337,432 • ❤️ 1,869 • 7d ago
+⬇️ 337,432 • ❤️ 1,898 • 8d ago
 
 ---
 
@@ -401,7 +405,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 50,497 • ❤️ 632 • 6h ago
+⬇️ 50,497 • ❤️ 644 • 9h ago
 
 ---
 
@@ -413,7 +417,7 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 `text-to-speech`
 
-⬇️ 3,721 • ❤️ 567 • 9h ago
+⬇️ 3,721 • ❤️ 570 • 12h ago
 
 ---
 
@@ -425,7 +429,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 17,643 • ❤️ 696 • 5d ago
+⬇️ 17,643 • ❤️ 712 • 5d ago
 
 ---
 
@@ -437,7 +441,7 @@ Context-1 is a 20B parameter agentic search model that decomposes complex querie
 
 `text-generation` `20.9B`
 
-⬇️ 2,387 • ❤️ 317 • 1d ago
+⬇️ 2,387 • ❤️ 321 • 2d ago
 
 ---
 
@@ -449,7 +453,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 155,487 • ❤️ 376 • 6d ago
+⬇️ 155,487 • ❤️ 392 • 7d ago
 
 ---
 
@@ -461,7 +465,17 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 623,469 • ❤️ 868 • 27d ago
+⬇️ 623,469 • ❤️ 870 • 28d ago
+
+---
+
+**[tribev2](https://huggingface.co/facebook/tribev2)**
+
+*AI at Meta*
+
+TRIBE v2 is a multimodal foundation model that integrates LLaMA 3.2 (text), V-JEPA2 (video), and Wav2Vec-BERT (audio) to predict fMRI brain responses. It maps these representations onto the cortical surface for in-silico neuroscience research, enabling analysis of brain activity elicited by naturalistic stimuli.
+
+⬇️ 14,264 • ❤️ 228 • 4d ago
 
 ---
 
@@ -477,16 +491,6 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 ---
 
-**[tribev2](https://huggingface.co/facebook/tribev2)**
-
-*AI at Meta*
-
-TRIBE v2 is a multimodal foundation model that integrates LLaMA 3.2 (text), V-JEPA2 (video), and Wav2Vec-BERT (audio) to predict fMRI brain responses. It maps these representations onto the cortical surface for in-silico neuroscience research, enabling analysis of brain activity elicited by naturalistic stimuli.
-
-⬇️ 14,264 • ❤️ 224 • 4d ago
-
----
-
 **[daVinci-MagiHuman](https://huggingface.co/GAIR/daVinci-MagiHuman)**
 
 *SII - GAIR*
@@ -495,7 +499,7 @@ daVinci-MagiHuman is a fast, single-stream Transformer model for generating high
 
 `image-to-video`
 
-⬇️ 605 • ❤️ 274 • 6d ago
+⬇️ 605 • ❤️ 276 • 6d ago
 
 ---
 
@@ -511,7 +515,7 @@ daVinci-MagiHuman is a fast, single-stream Transformer model for generating high
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 145 • 💬 7 • ⭐ 32,472 • 7mo ago
+▲ 145 • 💬 7 • ⭐ 33,085 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -560,7 +564,7 @@ AgentScope enhances agentic applications by providing flexible tool-based intera
 
 A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 15 • 💬 1 • ⭐ 11,340 • 29mo ago
+▲ 15 • 💬 1 • ⭐ 11,516 • 29mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
@@ -587,7 +591,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 The AI Scientist-v2 autonomously proposes hypotheses, performs experiments, analyzes data, and writes peer-reviewed scientific papers, marking the first fully AI-generated paper accepted by a conference.
 
-▲ 19 • 💬 4 • ⭐ 4,159 • 11mo ago
+▲ 19 • 💬 4 • ⭐ 4,216 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.08066) • [💻 code](https://github.com/SakanaAI/AI-Scientist-v2)
 
@@ -601,21 +605,9 @@ The AI Scientist-v2 autonomously proposes hypotheses, performs experiments, anal
 
 LeWorldModel presents a stable end-to-end JEPA framework that trains efficiently from raw pixels using minimal loss terms while maintaining competitive performance in control tasks and encoding meaningful physical structures.
 
-▲ 14 • 💬 2 • ⭐ 1,618 • 18d ago
+▲ 16 • 💬 2 • ⭐ 1,665 • 18d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.19312) • [💻 code](https://github.com/lucas-maes/le-wm) • [🔗 project](https://le-wm.github.io/)
-
----
-
-**[Hyperagents](https://huggingface.co/papers/2603.19461)**
-
-*Jenny Zhang, Bingchen Zhao, Wannan Yang et al. (8 authors)*
-
-Hyperagents represent a self-referential framework that integrates task and meta-agents into a single editable program, enabling metacognitive self-modification and open-ended improvement across diverse computational domains.
-
-▲ 42 • 💬 5 • ⭐ 1,983 • 12d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.19461) • [💻 code](https://github.com/facebookresearch/Hyperagents)
 
 ---
 
@@ -631,6 +623,18 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 ---
 
+**[Hyperagents](https://huggingface.co/papers/2603.19461)**
+
+*Jenny Zhang, Bingchen Zhao, Wannan Yang et al. (8 authors)*
+
+Hyperagents represent a self-referential framework that integrates task and meta-agents into a single editable program, enabling metacognitive self-modification and open-ended improvement across diverse computational domains.
+
+▲ 42 • 💬 5 • ⭐ 2,000 • 12d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.19461) • [💻 code](https://github.com/facebookresearch/Hyperagents)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -641,17 +645,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 62.7k • 🔱 8.8k • 5d ago
-
----
-
-**[googleworkspace/cli](https://github.com/googleworkspace/cli)**
-
-Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
-
-`Rust` `agent-skills` `ai-agent` `automation` `cli` `discovery-api`
-
-⭐ 23.4k • 🔱 1.1k • 3h ago
+⭐ 62.8k • 🔱 8.8k • 6d ago
 
 ---
 
@@ -661,7 +655,7 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 14.2k • 🔱 768 • 16h ago
+⭐ 14.2k • 🔱 774 • 19h ago
 
 ---
 
@@ -671,7 +665,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 9.8k • 🔱 816 • 4h ago
+⭐ 9.8k • 🔱 823 • 7h ago
 
 ---
 
@@ -691,7 +685,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 6.6k • 🔱 789 • 1d ago
+⭐ 6.7k • 🔱 807 • 1d ago
 
 ---
 
@@ -701,7 +695,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 5.4k • 🔱 265 • 9h ago
+⭐ 5.5k • 🔱 269 • 12h ago
 
 ---
 
@@ -711,7 +705,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `claude-ai` `claude-skills` `llm` `prompt-engineering`
 
-⭐ 4.2k • 🔱 400 • 12h ago
+⭐ 4.2k • 🔱 403 • 15h ago
 
 ---
 
@@ -721,7 +715,7 @@ end to end app store screenshot creation using AI
 
 `agentic-ai` `apple` `appstore` `automate` `claude`
 
-⭐ 3.4k • 🔱 224 • 6h ago
+⭐ 3.4k • 🔱 224 • 9h ago
 
 ---
 
@@ -731,7 +725,15 @@ end to end app store screenshot creation using AI
 
 `Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
 
-⭐ 3.3k • 🔱 539 • 2d ago
+⭐ 3.3k • 🔱 543 • 2d ago
+
+---
+
+**[twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill)**
+
+SwiftUI agent skill for Claude Code, Codex, and other AI tools.
+
+⭐ 3.3k • 🔱 107 • 20d ago
 
 ---
 

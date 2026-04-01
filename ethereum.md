@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-31T23:43:40.900809+00:00'
+updated: '2026-04-01T02:42:27.901439+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
+- social
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 31, 2026 at 23:43 UTC  
+**Last Updated:** April 01, 2026 at 02:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,103.02
+### $2,087.33
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.5%  
-**7d:** -3.0%  
-**30d:** +3.8%  
-**90d:** -29.9%  
-**1y:** +10.5%  
+**24h:** +1.1%  
+**7d:** +1.4%  
+**30d:** +5.4%  
+**90d:** -33.1%  
+**1y:** +16.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $253.56B
+**Market Cap:** $251.91B
 Rank #2
 
-**Circulating Supply:** 120,691,415 ETH
+**Circulating Supply:** 120,691,362 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.5%
+-57.8%
 
 **All-Time Low:** $0.43
-+485099.1%
++481953.4%
 
 ---
 
@@ -72,15 +72,7 @@ No max supply
 
 Google just moved the quantum threat from decades away to 2029. Taproot exposed 6.9 million Bitcoin. Ethereum launched a seven-fork roadmap. Bitcoin has BIP-360 and a mailing list. Here's what that difference means.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/google-quantum-deadline-2029-ethereum-plan-bitcoin-culture-war/) • 15h ago
-
----
-
-**[Daily General Discussion March 31, 2026](https://www.reddit.com/r/ethereum/comments/1s8e3ii/daily_general_discussion_march_31_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-18h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/google-quantum-deadline-2029-ethereum-plan-bitcoin-culture-war/) • 18h ago
 
 ---
 
@@ -88,13 +80,21 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hello everyone! I've built a tool to help recover ETH stuck in old smart contracts that no longer have frontends. Portfolio trackers like Debank and Zerion don't index these balances. 116 contracts, 76,000+ ETH, 516k depositors with claimable balance. Idex, Etherdelta, DigixDAO, PoWH3D, ENS old registrar, Fomo3d, MoonCatRescue, to name a few. One address alone has 10,000 ETH locked in the old ENS registrar deeds - a deposit from a name auction on governx.eth that was never released. Even Vitalik has 75 ETH to claim! Most of these addresses are dormant, but if you were active on Etheruem between 2015-2019, check your address at https://forgotteneth.com Twitter thread It scans all 116 contracts and crafts the withdrawal transaction(s) for you. https://preview.redd.it/2rv0j4bq7esg1.png?width=2236&format=png&auto=webp&s=0f5c26c5306475ba4de4325cbae72757b3738f05
 
-8h ago
+11h ago
+
+---
+
+**[Daily General Discussion March 31, 2026](https://www.reddit.com/r/ethereum/comments/1s8e3ii/daily_general_discussion_march_31_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+21h ago
 
 ---
 
 **[I'm making hey.eth a public, free identity layer for everyone. Agents are able to get their own ENS in <10s. Building open source infra for agentic payments using State Channels.](https://www.reddit.com/r/ethereum/comments/1s8o4zh/im_making_heyeth_a_public_free_identity_layer_for/)**
 
-🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2038977772312272942) • 9h ago
+🔗 [X (formerly Twitter)](https://x.com/0xstatechannel/status/2038977772312272942) • 12h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hello everyone! I've built a tool to help recover ETH stuck in old smart contrac
 
 ZCHF is a decentralized stablecoin that is designed to track the value of the Swiss franc (CHF). Unlike popular stablecoins like USDT or USDC that are pegged to the US dollar, ZCHF is pegged 1:1 to Switzerland’s currency. It is issued by the Frankencoin protocol and operates on blockchain infrastructure, which means it doesn’t rely on traditional banks in the same way centralised stablecoins do. Instead, it uses a system of collateral and smart contracts to maintain its value. Why People Are Talking About It Interest in ZCHF has increased after Vitalik Buterin recently swapped a significant amount of USDC into ZCHF. Moves like this bring attention to the idea that DeFi may not stay centered only around the US dollar.
 
-16h ago
+19h ago
 
 ---
 
@@ -110,13 +110,7 @@ ZCHF is a decentralized stablecoin that is designed to track the value of the Sw
 
 With all the discussion around L2 fragmentation lately (EEZ announcement, Superchain, AggLayer), I wanted to share something I've been working on that addresses the problem from a different angle. The issue: every rollup ships its own proof system - Groth16, STARK, Plonk, Halo2, Nova - each needing a separate on-chain verifier at 200k+ gas. Some require trusted setup ceremonies. GLYPH is a universal transparent verification layer that compiles any proof into a common intermediate representation (UCIR) and verifies it through a single on-chain contract. What it does: - Verifies any major proof system through one verifier - <30k gas per on-chain verification (~7.5x cheaper than Groth16 alone) - No trusted setup - fully transparent - Supported: Groth16, KZG, IPA, Plonk, Halo2, STARK (Winterfell, Miden, Cairo/Stone, Circle STARK, Stwo), Nova/HyperNova/Sangria/SuperNova (IVC), SP1, Plonky2/3, Binius How it works: - Packed arity-8 sumcheck over p = 2^128 - 159 - Chain-bound Keccak256 Fiat-Shamir challenges - BaseFold PCS - On-chain verifier in pure Solidity assembly - Formal proof pack with soundness bound ~1.88 x 10^-37 Tested on Sepolia + Hoodi. Benchmarks included and reproducible. Everything is open source under MIT: - Full Paper: https://doi.org/10.5281/zenodo.18792566 https://hackmd.io/@ChristopherSchulze/glyph-zk - Code: https://github.com/Christopher-Schulze/glyph-zk I know the on-chain assembly verifier needs a proper audit before anyone touches it in production - that's on the roadmap. Would love feedback from the community. Happy to answer any questions about the architecture or design decisions.
 
-14h ago
-
----
-
-**[EIP-712](https://www.reddit.com/r/ethereum/comments/1s8l7du/eip712/)**
-
-11h ago
+17h ago
 
 ---
 
@@ -124,7 +118,13 @@ With all the discussion around L2 fragmentation lately (EEZ announcement, Superc
 
 I've been all over daily threads for the last two weeks, and some of those really nice folks have been having fun with this little game dapp that I built. I call it Stupid Games, because you play really easy, simple games, but get to win awesome real ETH prizes! It's an arcade type game platform, full of crypto memes, that pays out real ETH prizes to the winners. All managed by smart contracts of course. I'm creating a beginner friendly, mini tournament just for this sub. No players from the current Leaderboard allowed! And when I say beginner, I mean JT level beginner like from the Daily Doots Podcast #143! Lol! No offence JT 😆 Its free, no gas, no cash, just real fun! The prize is $20 or more, but more than that, its bragging rights to be the king of this hill. It's even got a Burner Wallet login, so you know it's not sus. More dapps should do that right? If you want to give it a shot, there's only space for 9-10 players, so drop your [burner] address and I'll let you in. The FLY game is similar to Flappy Bird, and the SHOOT game is similar to Asteroids. Try them and pick your vibe. So what's in it for me? I worked hard on the app and really want to see it being used. I also think it's genuinely fun when you get it. Plus, I took a job break and built it as a porfolio piece so I would love to get feedback. Many features were actually suggestions from users on the daily threads, which I appreciate so much (Alexis and Tricky)! Any and all feedback/criticism welcome. Questions too! Chips are ERC20 tokens but 1:1 exchangeable for 0.0001 eth from the contract. No promotion of any product in this post. No monetary gain for me, only loss 🙁! Play Stupid Games, Win Awesome Prizes! https://reddit.com/link/1s8gw8d/video/us22jk9r2csg1/player https://reddit.com/link/1s8gw8d/video/9zhhtl9r2csg1/player
 
-16h ago
+18h ago
+
+---
+
+**[EIP-712](https://www.reddit.com/r/ethereum/comments/1s8l7du/eip712/)**
+
+14h ago
 
 ---
 
@@ -132,7 +132,7 @@ I've been all over daily threads for the last two weeks, and some of those reall
 
 Curious how many people here have made this mistake at least once. Sending an ERC20 token but picking the wrong network, or mixing up chains like sending to a non-compatible address. It’s one of those errors that feels small in the moment but can turn into a real headache depending on where the funds land. Sometimes recoverable, sometimes not. What’s your experience with this? Did you manage to recover the funds or was it a total loss? And what habits or checks do you use now to avoid it happening again?
 
-20h ago
+23h ago
 
 ---
 
@@ -168,15 +168,29 @@ Decrypt • 2d ago
 
 Ethereum is navigating a challenging market phase, with price facing persistent selling pressure despite a tightening supply landscape. On the charts, ETH has shown signs of weakness, with repeated rejections at key resistance levels and declining momentum suggesting that sellers remain in control…
 
-TradingView • 43m ago
+TradingView • 3h ago
 
 ---
 
-**[BTBT: Shift to Ethereum and AI drove revenue growth but resulted in a net loss amid crypto volatility](https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3217395:0-btbt-shift-to-ethereum-and-ai-drove-revenue-growth-but-resulted-in-a-net-loss-amid-crypto-volatility/)**
-
-Fiscal 2025 saw a strategic pivot to Ethereum and AI infrastructure, with revenue up 5% to $113.6M but a net loss of $80.3M due to crypto volatility. ETH holdings and staking surged, while mining operations were wound down.Original document: Bit Digital, Inc. [BTBT] SEC 8-K Current Report — Apr. 1…
+**[Key facts: Quantum Risk to ETH; 38M Staked; Foundation Stakes; Price Targets](https://www.tradingview.com/news/tradingview:f7707bd4a9318:0-key-facts-quantum-risk-to-eth-38m-staked-foundation-stakes-price-targets/)**
 
 TradingView • 2h ago
+
+---
+
+**[Crypto check: How bitcoin & ethereum prices are moving](https://finance.yahoo.com/video/crypto-check-how-bitcoin--ethereum-prices-are-moving-154824864.html)**
+
+On this episode of Crypto Check, Yahoo Finance Senior Reporter Brooke DiPalma takes a look at names like Coinbase (COIN) and Robinhood (HOOD), as well as bitcoin's (BTC-USD) and ethereum's (ETH-USD) price action amid the latest Iran war developments.
+
+Yahoo Finance • 10h ago
+
+---
+
+**[Gnosis and Zisk announce 'Ethereum Economic Zone' rollup framework with Ethereum Foundation co-funding](https://www.theblock.co/post/395578/gnosis-and-zisk-announce-ethereum-economic-zone-rollup-framework-with-ethereum-foundation-co-funding)**
+
+The Ethereum Foundation is co-funding the "easy" initiative, which was announced at EthCC in Cannes, and partners include Aave, Titan, Centrifuge, and more.
+
+The Block • 2d ago
 
 ---
 
@@ -184,7 +198,7 @@ TradingView • 2h ago
 
 Google parent company Alphabet (NASDAQ: $GOOGL) is warning that $100 billion U.S. of Ethereum (CRYPTO: $ETH) is at ...
 
-finance.yahoo.com • 10h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -192,21 +206,13 @@ finance.yahoo.com • 10h ago
 
 A 57-page whitepaper identifies how future quantum computers could target Ethereum's wallets, smart contracts, staking system, Layer 2 networks and data verification layer, with combined exposure exceeding $100 billion.
 
-CoinDesk • 11h ago
+CoinDesk • 14h ago
 
 ---
 
 **[Google Warns Quantum Computers Could Break Bitcoin and Ethereum in 9 Minutes — Should You Be Worried?](https://www.ccn.com/education/crypto/google-quantum-computers-break-bitcoin-ethereum-9-minutes-1-7m-btc-risk/)**
 
-CCN.com • 11h ago
-
----
-
-**[Aave V4 launches on Ethereum mainnet with 'hub-and-spoke' architecture](https://www.theblock.co/post/395617/aave-v4-launches-ethereum-mainnet)**
-
-Aave V4 features a hub-and-spoke architecture that concentrates liquidity to supply a wider range of markets and use cases with credit lines.
-
-The Block • 1d ago
+CCN.com • 14h ago
 
 ---
 
@@ -214,15 +220,7 @@ The Block • 1d ago
 
 #FeaturedPost
 
-Business Insider Africa • 13h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.732 Million Tokens, and Total Crypto and Total Cash Holdings of $10.7 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-732-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-7-billion-302728176.html)**
-
-Bitmine has 3,142,643 staked ETH, representing $6.3 billion at $2,005 per ETH MAVAN (Made in America VAlidator Network) launched staking solution on March 25,...
-
-PR Newswire • 1d ago
+Business Insider Africa • 16h ago
 
 ---
 
@@ -236,7 +234,7 @@ This year's EthCC event in Cannes has fielded its first major announcement: the 
 
 📺 Paul Barron Network
 
-👁️ 7K • 👍 801 • 💬 43 • ⏱️ 13:00 • 4h ago
+👁️ 19K • 👍 1K • 💬 71 • ⏱️ 13:00 • 7h ago
 
 ---
 
@@ -246,7 +244,7 @@ Hang in there everyone! The risk models that say when to accumulate or exit HERE
 
 📺 Dan Gambardello
 
-👁️ 3K • 👍 373 • 💬 148 • ⏱️ 13:49 • 5h ago
+👁️ 6K • 👍 485 • 💬 158 • ⏱️ 13:49 • 8h ago
 
 ---
 
@@ -256,7 +254,17 @@ New data shows the future of markets and crypto in general. Its important for bi
 
 📺 Thomas Kralow
 
-👁️ 22K • 👍 2K • 💬 85 • ⏱️ 11:48 • 1d ago
+👁️ 23K • 👍 2K • 💬 85 • ⏱️ 11:48 • 1d ago
+
+---
+
+**[BMNR | Ethereum DCA Strategy and Market Update](https://www.youtube.com/watch?v=mkxj4eIgpDU)**
+
+BMNR is continuing to build one of the largest Ethereum treasuries in the world now holding over 4.7 million ETH and a $10.7B ...
+
+📺 The Value Thinker
+
+👁️ 2K • 👍 186 • 💬 26 • ⏱️ 20:46 • 3h ago
 
 ---
 
@@ -266,17 +274,7 @@ If you hold Bitcoin or Ethereum... watch this! (alert!) ⭐ Follow Altcoin Daily
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 3K • 💬 295 • ⏱️ 9:24 • 2d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=qe3pEyuy7g8)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 95 • 💬 3 • ⏱️ 4:22 • 12h ago
+👁️ 52K • 👍 3K • 💬 295 • ⏱️ 9:24 • 2d ago
 
 ---
 
@@ -286,17 +284,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 721 • 👍 76 • ⏱️ 3:35 • 4h ago
+👁️ 1K • 👍 100 • ⏱️ 3:35 • 7h ago
 
 ---
 
-**[ETHEREUM, THE FED, AND BITCOIN —(THIS CHANGES EVERYTHING)](https://www.youtube.com/watch?v=69b-uYwAlpY)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=qe3pEyuy7g8)**
 
-Crypto looks calm… but underneath, everything is moving. The Ethereum Foundation just deployed $46M into staking, shifting ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 CLOCKWISE CRYPTO 
+📺 More Crypto Online
 
-👁️ 10K • 👍 273 • 💬 50 • ⏱️ 9:26 • 22h ago
+👁️ 1K • 👍 97 • 💬 3 • ⏱️ 4:22 • 15h ago
 
 ---
 
@@ -306,27 +304,27 @@ Joseph Chalom, CEO of SharpLink, joined me to discuss the company's Ethereum tre
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 160 • 💬 117 • ⏱️ 55:54 • 1d ago
+👁️ 2K • 👍 163 • 💬 117 • ⏱️ 55:54 • 1d ago
 
 ---
 
-**[Tom Lee’s 25x Stock Split Plan to Buy More Ethereum](https://www.youtube.com/watch?v=jfY4mp7WLFs)**
+**[ETHEREUM, THE FED, AND BITCOIN —(THIS CHANGES EVERYTHING)](https://www.youtube.com/watch?v=69b-uYwAlpY)**
 
-Full Video: https://youtube.com/live/JFLhIqxIA88?feature=share.
+Crypto looks calm… but underneath, everything is moving. The Ethereum Foundation just deployed $46M into staking, shifting ...
 
-📺 Cultivate Crypto
+📺 CLOCKWISE CRYPTO 
 
-👁️ 31 • 👍 3 • ⏱️ 3:01 • 9h ago
+👁️ 10K • 👍 483 • 💬 75 • ⏱️ 9:26 • 1d ago
 
 ---
 
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=S20YYPabkf4)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=DmhRxl1Ga-g)**
 
-TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 Nasus Ink
+📺 Crypto Gyan
 
-👁️ 3K • 👍 1K • 2h ago
+👁️ 27 • 👍 6 • ⏱️ 6:30 • 4m ago
 
 ---
 
