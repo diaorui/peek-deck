@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-02T21:02:25.139205+00:00'
+updated: '2026-04-02T22:00:58.249379+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - social
+- repositories
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 02, 2026 at 21:02 UTC  
+**Last Updated:** April 02, 2026 at 22:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 The model is also available here: 🤗 HuggingFace: https://huggingface.co/collections/google/gemma-4 🦙 Ollama: https://ollama.com/library/gemma4
 
-🔗 [Google](https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/) • 3h ago
+🔗 [Google](https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/) • 4h ago
 
 ---
 
 **[Google releases Gemma 4 models.](https://www.reddit.com/r/artificial/comments/1sapfpu/google_releases_gemma_4_models/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -55,7 +55,7 @@ The model is also available here: 🤗 HuggingFace: https://huggingface.co/colle
 
 Most AI products are still judged like answer machines. People ask whether the model is smart, fast, creative, cheap, or good at sounding human. Teams compare outputs, benchmark quality, and argue about hallucinations. That makes sense when the product is mainly being used for writing, search, summarisation, or brainstorming. It breaks down once AI starts doing real operational work. The question stops being what the system output. The real question becomes whether you can trust what it did, why it did it, whether it stayed inside the rules, and whether you can prove any of that after the fact. That shift matters more than people think. I do not think it stays a feature. I think it creates a new product category. A lot of current AI products still hide the middle layer. You give them a prompt and they give you a result, but the actual execution path is mostly opaque. You do not get much visibility into what tools were used, what actions were taken, what data was touched, what permissions were active, what failed, or what had to be retried. You just get the polished surface. For low-stakes use, people tolerate that. For internal operations, customer-facing automation, regulated work, multi-step agents, and systems that can actually act on the world, it becomes a trust problem very quickly. At that point output quality is still important, but it is no longer enough. A system can produce a good result and still be operationally unsafe, uninspectable, or impossible to govern. That is why I think trustworthiness has to become a product surface, not a marketing claim. Right now a lot of products try to borrow trust from brand, model prestige, policy language, or vague “enterprise-ready” positioning. But trust is not created by a PDF, a security page, or a model name. Trust becomes real when it is embedded into the product itself. You can see it in approvals. You can see it in audit trails. You can see it in run history, incident handling, permission boundaries, failure visibility, and execution evidence. If those surfaces do not exist, then the product is still mostly asking the operator to believe it. That is not the same thing as earning trust. The missing concept here is the control layer. A control layer sits between model capability and real-world action. It decides what the system is allowed to do, what requires approval, what gets logged, how failures surface, how policy is enforced, and what evidence is collected. It is the layer that turns raw model capability into something operationally governable. Without that layer, you mostly have intelligence with a nice interface. With it, you start getting something much closer to a trustworthy system. That is also why proof-driven systems matter. An output-driven system tells you something happened. A proof-driven system shows you that it happened, how it happened, and whether it happened correctly. It can show what task ran, what tools were used, what data was touched, what approvals happened, what got blocked, what failed, what recovered, and what proof supports the final result. That difference sounds subtle until you are the one accountable for the outcome. If you are using AI for anything serious, “it said it did the work” is not the same thing as “the work can be verified.” Output is presentation. Proof is operational trust. I think this changes buying criteria in a big way. The next wave of buyers will increasingly care about questions like these: can operators see what is going on, can actions be reviewed, can failures be surfaced and remediated, can the system be governed, can execution be proven to internal teams, customers, or regulators, and can someone supervise the system without reading code or guessing from outputs. Once those questions become central, the product is no longer being judged like a chatbot or assistant. It is being judged like a trust system. That is why I think this becomes a category, not just a feature request. One side of the market will stay output-first. Fast, impressive, consumer-friendly, and mostly opaque. The other side will become trust-first. Controlled, inspectable, evidence-backed, and usable in real operations. That second side is where the new category forms. You can already see the pressure building in agent frameworks and orchestration-heavy systems. The more capable these systems become, the less acceptable it is for them to operate as black boxes. Once a system can actually do things instead of just suggest things, people start asking for control, evidence, and runtime truth. That is why I think the winners in this space will not just be the companies that build more capable models. They will be the ones that build AI systems people can actually trust to operate. The next wave of AI products will not be defined by who can generate the most. It will be defined by who can make AI trustworthy enough to supervise, govern, and prove in the real world. Once AI moves from assistant to actor, trust stops being optional. It becomes the product.
 
-5h ago
+6h ago
 
 ---
 
@@ -63,7 +63,7 @@ Most AI products are still judged like answer machines. People ask whether the m
 
 As the toual says and why. So many out there whats ur go to.
 
-12h ago
+13h ago
 
 ---
 
@@ -71,7 +71,7 @@ As the toual says and why. So many out there whats ur go to.
 
 Side project that got out of hand. It's a dashboard for Claude Code that scans your ~/.claude/ directory and renders everything as a TNG LCARS interface — skills, agents, hooks, MCP servers, memory files, all clickable with a detail panel that shows the full content. In live mode there's a COMPUTER bar that talks to Claude and responds as the ship's computer. Voice output, synthesized LCARS sound effects, boot sequence, Red Alert when things go offline. Q from the Continuum appears uninvited every few minutes to roast your setup. Zero dependencies. One HTML file. npx claude-hud-lcars https://github.com/polyxmedia/claude-hud-lcars
 
-16m ago
+1h ago
 
 ---
 
@@ -79,13 +79,13 @@ Side project that got out of hand. It's a dashboard for Claude Code that scans y
 
 Has anyone been able to successfully download the leaked source code yet? I've not been able to find it. If anyone has, please reach out.
 
-47m ago
+1h ago
 
 ---
 
 **[Jürgen Schmidhuber claims to be the true inventor of JEPA, not Yann LeCun](https://www.reddit.com/r/artificial/comments/1saraze/jürgen_schmidhuber_claims_to_be_the_true_inventor/)**
 
-🔗 [people.idsia.ch](https://people.idsia.ch/~juergen/who-invented-jepa.html) • 1h ago
+🔗 [people.idsia.ch](https://people.idsia.ch/~juergen/who-invented-jepa.html) • 2h ago
 
 ---
 
@@ -101,7 +101,7 @@ Most coverage of the Claude Code leak focuses on the drama or the hidden feature
 
 I kept missing interesting stuff on HuggingFace, arXiv, Substack etc., so I made an agent that sends a weekly summary of only what’s relevant, for free Any thoughts on the idea?
 
-15h ago
+16h ago
 
 ---
 
@@ -109,7 +109,7 @@ I kept missing interesting stuff on HuggingFace, arXiv, Substack etc., so I made
 
 Code that reads your frustration is the least interesting part of the story of this accidental leak from Anthropic. The leak reveals how AI tools are also concealing their own role in the work they help produce
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/anthropic-leak-reveals-claude-code-tracking-user-frustration-and-raises-new/) • 2h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/anthropic-leak-reveals-claude-code-tracking-user-frustration-and-raises-new/) • 3h ago
 
 ---
 
@@ -119,7 +119,7 @@ Code that reads your frustration is the least interesting part of the story of t
 
 **[How A.I. Helped One Man (and His Brother) Build a $1.8 Billion Company](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html)**
 
-The New York Times • 11h ago
+The New York Times • 12h ago
 
 ---
 
@@ -133,7 +133,7 @@ WSJ • 1d ago
 
 As Cursor launches the next generation of its product, the AI coding startup has to compete with OpenAI and Anthropic more directly than ever.
 
-WIRED • 4h ago
+WIRED • 5h ago
 
 ---
 
@@ -141,13 +141,13 @@ WIRED • 4h ago
 
 The AI industry is dealing with the fallout from two security incidents this week that exposed customer data at Mercor and source code at Anthropic.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
 **[SpaceX’s Record Listing Could Kick Off a Year of Massive AI IPOs](https://www.bloomberg.com/news/newsletters/2026-04-02/spacex-s-record-listing-could-lead-to-a-year-of-big-ai-ipos)**
 
-Bloomberg.com • 25m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Bloomberg.com • 25m ago
 
 OpenAI’s chief of strategy says acquisition of show will help company engage with public about AI as it evolves
 
-theguardian.com • 45m ago
+theguardian.com • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ theguardian.com • 45m ago
 
 Google Vids brings together Google's most capable AI creation tools.
 
-Ars Technica • 1h ago
+Ars Technica • 2h ago
 
 ---
 
@@ -171,7 +171,7 @@ Ars Technica • 1h ago
 
 The case that AI is already stealing young people’s jobs is based on a statistical mirage.
 
-The Atlantic • 10h ago
+The Atlantic • 11h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Atlantic • 10h ago
 
 Gemma 4: our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.
 
-blog.google • 4h ago
+blog.google • 5h ago
 
 ---
 
@@ -187,7 +187,7 @@ blog.google • 4h ago
 
 Gemma 4 brings powerful reasoning, coding and multimodal AI directly to NVIDIA RTX PCs, DGX Spark and edge devices.
 
-NVIDIA Blog • 4h ago
+NVIDIA Blog • 5h ago
 
 ---
 
@@ -219,7 +219,7 @@ The Italian government didn’t allow airplanes taking part in the Iran war to u
 
 **[ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover](https://news.ycombinator.com/item?id=47608155)**
 
-⬆️ 72 • 💬 35 • 21h ago • [old.reddit.com](https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/)
+⬆️ 72 • 💬 35 • 22h ago • [old.reddit.com](https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/)
 
 ---
 
@@ -249,7 +249,7 @@ More open-source developers are finding that, when used properly, AI can actuall
 
 **[Men are ditching TV for YouTube as AI usage and social media fatigue grow](https://news.ycombinator.com/item?id=47612127)**
 
-⬆️ 45 • 💬 117 • 11h ago • [ofcom.org.uk](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed)
+⬆️ 45 • 💬 117 • 12h ago • [ofcom.org.uk](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed)
 
 ---
 
@@ -279,7 +279,7 @@ Krystal and Saagar discuss the AI bubble imploding. Sign up for a PREMIUM Breaki
 
 📺 Breaking Points
 
-👁️ 68K • 👍 4K • 💬 689 • ⏱️ 13:15 • 2h ago
+👁️ 68K • 👍 4K • 💬 689 • ⏱️ 13:15 • 3h ago
 
 ---
 
@@ -339,7 +339,7 @@ Simon Willison is a prolific independent software developer, a blogger, and one 
 
 📺 Lenny's Podcast
 
-👁️ 9K • 👍 310 • 💬 31 • ⏱️ 1:39:51 • 8h ago
+👁️ 9K • 👍 310 • 💬 31 • ⏱️ 1:39:51 • 9h ago
 
 ---
 
@@ -397,7 +397,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 71,028 • ❤️ 728 • 4h ago
+⬇️ 71,028 • ❤️ 728 • 5h ago
 
 ---
 
@@ -481,7 +481,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 29,015 • ❤️ 246 • 10h ago
+⬇️ 29,015 • ❤️ 246 • 11h ago
 
 ---
 
@@ -657,7 +657,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 11.4k • 🔱 982 • 56m ago
+⭐ 11.4k • 🔱 982 • 1h ago
 
 ---
 
@@ -687,7 +687,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.2k • 🔱 336 • 5h ago
+⭐ 6.2k • 🔱 336 • 6h ago
 
 ---
 
@@ -707,7 +707,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 4.4k • 🔱 1.4k • 10h ago
+⭐ 4.4k • 🔱 1.4k • 11h ago
 
 ---
 
@@ -717,7 +717,7 @@ AI Agent 源码深度研究报告
 
 `Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
 
-⭐ 3.5k • 🔱 590 • 6h ago
+⭐ 3.5k • 🔱 590 • 7h ago
 
 ---
 

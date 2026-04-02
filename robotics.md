@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-02T21:02:25.157069+00:00'
+updated: '2026-04-02T22:00:58.265156+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 02, 2026 at 21:02 UTC  
+**Last Updated:** April 02, 2026 at 22:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Autonomous valet robot demonstrating precise self-parking in a real-world setting](https://www.reddit.com/r/robotics/comments/1san0l2/autonomous_valet_robot_demonstrating_precise/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -42,19 +42,19 @@ Robotics research and industry news
 
 been working on this little desktop robot prototype called Kitto for a while now. honestly most of the hype right now is just cramming the biggest model possible into a plastic shell. but testing the interaction on this thing... if the timing is off it just feels like a glorified smart speaker. to make it actually feel 'alive' on a desk, the idle animations and the instant switch to a listening state carry like 90% of the weight. tbh we ended up spending way more time tuning the audio-to-viseme mapping for the face than we did tweaking the actual API prompts. current stack is just an esp32s3+esp32p4 (planning to migrate to a linux board soon so we can handle local processing and maybe hook into openclaw). the screen isnt playing pre-rendered video files btw. the mouth movements are code-driven in real-time by analyzing the audio stream. latency is still my biggest headache though. pinging the api, getting the TTS audio back, and triggering the animation states fast enough to not break the illusion is tough on this hardware. its getting there but still a lot of code to fix. definately not pitching this as finished hardware yet, mostly just looking for honest feedback on the HRI approach. curious how you guys are handling TTS latency in your own conversational builds right now?
 
-5h ago
+6h ago
 
 ---
 
 **[Generalist | Introducing GEN-1](https://www.reddit.com/r/robotics/comments/1saoiaj/generalist_introducing_gen1/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Robotics Studio](https://www.reddit.com/r/robotics/comments/1sapdsp/robotics_studio/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ been working on this little desktop robot prototype called Kitto for a while now
 
 Has anyone seen an estimate for the number of submissions this year? I could not find an official announcement. Maybe the submission IDs could give a rough idea.
 
-9h ago
+10h ago
 
 ---
 
@@ -88,7 +88,7 @@ Has anyone seen an estimate for the number of submissions this year? I could not
 
 it uses only two motors to walk unlike most other bipedal robots. What do you guys think? Also I just made the base and hand for now ! https://www.youtube.com/watch?v=InKbSM_C5Xc
 
-12h ago
+13h ago
 
 ---
 
@@ -96,7 +96,7 @@ it uses only two motors to walk unlike most other bipedal robots. What do you gu
 
 LLMs are being used in industrial robotics to generate robot motion code, PLC logic, and supporting automation scripts from natural language inputs. The primary application is in repetitive tasks such as sequencing, template generation, and initial system configuration. Outputs are reviewed, tested, and refined by engineers before deployment. When combined with simulation, this allows portions of robotic systems to be developed and tested prior to full hardware availability, reducing reliance on sequential commissioning.
 
-🔗 [Automate](https://www.automate.org/ai/industry-insights/accelerating-industrial-automation-with-llms) • 8h ago
+🔗 [Automate](https://www.automate.org/ai/industry-insights/accelerating-industrial-automation-with-llms) • 9h ago
 
 ---
 
@@ -106,7 +106,7 @@ LLMs are being used in industrial robotics to generate robot motion code, PLC lo
 
 **[Generalist Is Betting Its Robot-Training Gloves Will Usher In Robotics’ ChatGPT Moment](https://www.forbes.com/sites/annatong/2026/04/02/generalist-is-betting-its-robot-training-gloves-will-usher-in-robotics-chatgpt-moment/)**
 
-Forbes • 10h ago
+Forbes • 11h ago
 
 ---
 
@@ -114,7 +114,7 @@ Forbes • 10h ago
 
 Sanctuary AI said the robotic hand and AI system achieves the target orientation 10 times in a row without dropping the cube.
 
-The Robot Report • 2h ago
+The Robot Report • 3h ago
 
 ---
 
@@ -164,7 +164,7 @@ Rest of World • 2d ago
 
 **[Robots learn to ask humans for help](https://www.axios.com/2026/04/01/robots-delivery-serve-tmobile)**
 
-axios.com • 12h ago
+axios.com • 13h ago
 
 ---
 
@@ -196,7 +196,7 @@ China is leading the world in humanoid robot shipments. Powered by artificial in
 
 📺 CGTN
 
-👁️ 16K • 👍 185 • 💬 27 • ⏱️ 1:54 • 15h ago
+👁️ 16K • 👍 185 • 💬 27 • ⏱️ 1:54 • 16h ago
 
 ---
 

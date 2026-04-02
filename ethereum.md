@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-02T21:02:25.153861+00:00'
+updated: '2026-04-02T22:00:58.262343+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 02, 2026 at 21:02 UTC  
+**Last Updated:** April 02, 2026 at 22:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We recently recorded a PEEPanEIP session on EIP-7904, joined by Jacek Sieka and Maria Inês Oliveira. The conversation covers: Motivation behind the proposal Key design considerations Potential impact on the Ethereum ecosystem Open questions and areas for feedback The goal of PEEPanEIP is to make EIPs more accessible and easier to follow for the broader community - especially for those who may not be deep in the specs but want to stay informed. 🎥 Watch the full video https://youtu.be/CswFnsZTXmI Would love to hear thoughts from others following EIP-7904 or working in similar areas - feedback and perspectives welcome.
 
-5h ago
+6h ago
 
 ---
 
@@ -88,25 +88,25 @@ We recently recorded a PEEPanEIP session on EIP-7904, joined by Jacek Sieka and 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/live/aco5-l_bpOo?si=IZEg8wYNkTUOiGA_) • 9h ago
+🔗 [youtube.com](https://www.youtube.com/live/aco5-l_bpOo?si=IZEg8wYNkTUOiGA_) • 10h ago
 
 ---
 
 **[A Prediction Market Bounty Mechanism - Using Markets as Self-Funding Bounties for High-Value Sales](https://www.reddit.com/r/ethereum/comments/1sarhn7/a_prediction_market_bounty_mechanism_using/)**
 
-🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2039788146133495879) • 1h ago
+🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2039788146133495879) • 2h ago
 
 ---
 
 **[New Partnership: Nodle x PARAGON ID](https://www.reddit.com/r/ethereum/comments/1sall1a/new_partnership_nodle_x_paragon_id/)**
 
-4h ago
+5h ago
 
 ---
 
 **[AI, bots & algorithms](https://www.reddit.com/r/ethereum/comments/1saiwdj/ai_bots_algorithms/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -178,7 +178,7 @@ Decrypt • 2d ago
 
 Bitcoin and ethereum lose ground after Trump addresses nation in a prime-time address with mixed messages about Iran war.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -186,7 +186,7 @@ Yahoo Finance • 8h ago
 
 Ethereum is currently trading above $2,100 at the start of the new month, but one analyst believes the asset’s next major directional move is based on a single price level: one that, if broken, would invalidate years of macro analysis and cause a price collapse to as low as $900.The Count That Has…
 
-TradingView • 21h ago
+TradingView • 22h ago
 
 ---
 
@@ -200,13 +200,13 @@ CoinDesk • 1d ago
 
 **[Most large cryptocurrencies fall on Solana, Ethereum drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-solana-ethereum-drops-06702da9-e670e788b6b1?gaa_at=eafs&gaa_n=AWEtsqcx9Rr2xyA6ocRzrr8TVQOH1C9SgkhcYbxG3-zwFqQ_xfYhy2nnZR2L&gaa_ts=69cedccc&gaa_sig=smO59jUzK4aUo-4eAX1WzXJ5dhB7Rq8nWOsVVan482I1zbLeomh7RyHWpr2WwUbr1OLXKEYjgCC6Dl7QtUUlug%3D%3D)**
 
-marketwatch.com • 7h ago
+marketwatch.com • 8h ago
 
 ---
 
 **[Global X Launches Ethereum Covered Call ETF Targeting Weekly Distributions](https://www.morningstar.com/news/pr-newswire/20260402ny25001/global-x-launches-ethereum-covered-call-etf-targeting-weekly-distributions)**
 
-morningstar.com • 7h ago
+morningstar.com • 8h ago
 
 ---
 
@@ -214,7 +214,7 @@ morningstar.com • 7h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 5h ago
+Fortune • 6h ago
 
 ---
 
@@ -228,7 +228,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEE
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 262 • ⏱️ 10:45 • 22h ago
+👁️ 35K • 👍 2K • 💬 262 • ⏱️ 10:45 • 23h ago
 
 ---
 
@@ -238,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 87 • 💬 2 • ⏱️ 5:43 • 6h ago
+👁️ 1K • 👍 87 • 💬 2 • ⏱️ 5:43 • 7h ago
 
 ---
 
@@ -248,7 +248,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 214 • 👍 12 • 💬 2 • ⏱️ 4:34 • 10h ago
+👁️ 214 • 👍 12 • 💬 2 • ⏱️ 4:34 • 11h ago
 
 ---
 
@@ -268,7 +268,7 @@ GET THE BOOK: https://bullmania.com/book FREE TRAINING: https://www.bullmania.co
 
 📺 Ivan on Tech
 
-👁️ 16K • 👍 1K • 💬 65 • ⏱️ 56:09 • 12h ago
+👁️ 16K • 👍 1K • 💬 65 • ⏱️ 56:09 • 13h ago
 
 ---
 
@@ -278,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 61 • 💬 5 • ⏱️ 4:53 • 19h ago
+👁️ 1K • 👍 61 • 💬 5 • ⏱️ 4:53 • 20h ago
 
 ---
 
