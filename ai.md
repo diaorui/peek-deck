@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-02T02:43:47.418690+00:00'
+updated: '2026-04-02T05:04:29.652338+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
+- repositories
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 02, 2026 at 02:43 UTC  
+**Last Updated:** April 02, 2026 at 05:04 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 Most coverage of the Claude Code leak focuses on the drama or the hidden features. But the bigger story is that this is the first time we've seen the complete architecture of a production-grade AI agent system running at scale ($2.5B ARR, 80% enterprise adoption). And the patterns it reveals tell us where autonomous AI agents are actually heading. What the architecture confirms: AI agents aren't getting smarter just from better models. The real progress is in the orchestration layer around the model. Claude Code's leaked source shows six systems working together: Skeptical memory. Three-layer system where the agent treats its own memory as a hint, not a fact. It verifies against the real world before acting. This is how you prevent an agent from confidently doing the wrong thing based on outdated information. Background consolidation. A system called autoDream runs during idle time to merge observations, remove contradictions, and keep memory bounded. Without this, agents degrade over weeks as their memory fills with noise and conflicting notes. Multi-agent coordination. One lead agent spawns parallel workers. They share a prompt cache so the cost doesn't multiply linearly. Each worker gets isolated context and restricted tool access. Risk classification. Every action gets labeled LOW, MEDIUM, or HIGH risk. Low-risk actions auto-approve. High-risk ones require human approval. The agent knows which actions are safe to take alone. CLAUDE.md reinsertion. The config file isn't a one-time primer. It gets reinserted on every turn. The agent is constantly reminded of its instructions. KAIROS daemon mode. The biggest unreleased feature (150+ references in the source). An always-on background agent that acts proactively, maintains daily logs, and has a 15-second blocking budget so it doesn't overwhelm the user. What this tells us about the future: AI tools are moving from "you ask, it responds" to "it works when you're not looking." KAIROS isn't a gimmick. It's the natural next step: agents that plan, act, verify, and consolidate their own memory autonomously. With human gates on dangerous actions and rate limits on proactive behavior. The patterns are convergent. I've been building my own AI agent independently for months. Scheduled autonomous work, memory consolidation, multi-agent delegation, risk tiers. I arrived at the same architecture without seeing Anthropic's code. Multiple independent builders keep converging on the same design because the constraints demand it. The part people are overlooking: Claude Code itself isn't even a good tool by benchmark standards. It ranks 39th on terminal bench. The harness adds nothing to the model's performance. The value is in the architecture patterns, not the implementation. This leak is basically a free textbook on production AI agent design from a $60B company. The drama fades. The patterns are permanent. Full technical breakdown with what I built from it: https://thoughts.jock.pl/p/claude-code-source-leak-what-to-learn-ai-agents-2026
 
-13h ago
-
----
-
-**[CEO of America’s largest public hospital system says he’s ready to replace radiologists with AI](https://www.reddit.com/r/artificial/comments/1s9beim/ceo_of_americas_largest_public_hospital_system/)**
-
-Mitchell H. Katz, MD, president and CEO of NYC Health + Hospitals, recently spoke during a panel discussion held by Crain’s New York Business.
-
-🔗 [Radiology Business](https://radiologybusiness.com/topics/artificial-intelligence/ceo-americas-largest-public-hospital-system-says-hes-ready-replace-radiologists-ai) • 21h ago
+16h ago
 
 ---
 
@@ -57,15 +49,15 @@ Mitchell H. Katz, MD, president and CEO of NYC Health + Hospitals, recently spok
 
 In the rapidly advancing field of materials science, the unveiling of innovative research directions often hinges on the ability to process and interpret vast quantities of complex data. In a groundbreaking interdisciplinary effort, researchers have now harnessed the power of large language models (LLMs) combined with concept graphs to not only predict but also elucidate emerging pathways in materials research. This novel methodological synergy, reported in a recent publication by Marwitz et al., represents a significant leap forward in how scientific knowledge is generated and navigated, promising to accelerate discovery in one of the most pivotal domains of modern technology. The integration of artificial intelligence into scientific inquiry is not new, but the advent of sophisticated language models possessing superlative natural language processing capabilities has opened unprecedented possibilities. Traditionally, the identification of promising research avenues in materials science required painstaking manual synthesis of literature, often involving subjective interpretations and laborious cross-referencing. The approach introduced by Marwitz and colleagues redefines this process by employing LLMs trained on an extensive corpus of scientific publications and patents to parse nuanced semantic relationships within the literature. Central to their method is the construction of concept graphs, which serve as structured networks that represent discrete scientific concepts and their interrelations. These graph-based representations enable the system to encapsulate intricate thematic connections, causal relationships, and co-occurrence patterns that conventional keyword-based searches or citation networks might overlook. By interfacing LLM-generated embeddings with concept graph algorithms, the researchers created an intelligent framework capable of discerning latent trends and forecasting underexplored yet promising research directions. A key innovation lies in the algorithmic fusion of contextual language understanding with graph theory. The LLMs transform textual data into multidimensional vector spaces that preserve semantic meaning. These vectors populate nodes and edges within the concept graphs, generating a dynamic knowledge map that evolves as new data is ingested. This fusion not only enriches the representation of existing knowledge but also facilitates the identification of conceptual gaps wherein novel hypotheses or experimental approaches may reside. Applying their system to a comprehensive dataset encompassing decades of materials science literature, Marwitz et al. demonstrated the ability to uncover nascent themes with high predictive accuracy. For example, their model anticipated burgeoning interest in the design of ultra-stable perovskite structures and advanced polymer electrolytes months before these topics gained traction in the research community. Such foresight provides scientists and funding bodies with actionable intelligence to strategically allocate resources, prioritize research programs, and foster interdisciplinary collaboration. Beyond prediction, the system offers interpretability, a feature often lacking in AI-driven scientific tools. Through interactive visualizations of concept graphs, domain experts can explore the rationale behind suggested research trajectories, trace conceptual linkages, and even assess the robustness of emergent hypotheses against existing knowledge. This transparency is critical for fostering trust and facilitating adoption in a community where empirical validation remains the gold standard. The implications of this study extend far beyond materials science. The demonstrated methodology, leveraging LLMs and concept graphs, can be adapted to numerous scientific disciplines characterized by rapidly expanding and complex data landscapes. From drug discovery to climate modeling, this approach could revolutionize how researchers navigate vast knowledge repositories, identify opportunities for innovation, and catalyze breakthroughs. Moreover, the study aligns with the broader trend towards augmented intelligence, where machine learning complements rather than replaces human expertise. By automating the labor-intensive aspects of literature review and hypothesis generation, researchers can devote more attention to experimental design, critical analysis, and creative problem-solving—the uniquely human contributions essential for scientific progress.
 
-🔗 [BIOENGINEER.ORG](https://bioengineer.org/new-research-directions-in-materials-science-with-ai/) • 1h ago
+🔗 [BIOENGINEER.ORG](https://bioengineer.org/new-research-directions-in-materials-science-with-ai/) • 3h ago
 
 ---
 
-**[Anthropic is training Claude to recognize when its own tools are trying to manipulate it](https://www.reddit.com/r/artificial/comments/1s9hfhp/anthropic_is_training_claude_to_recognize_when/)**
+**[CEO of America’s largest public hospital system says he’s ready to replace radiologists with AI](https://www.reddit.com/r/artificial/comments/1s9beim/ceo_of_americas_largest_public_hospital_system/)**
 
-One thing from Claude Code's source that I think is underappreciated. There's an explicit instruction in the system prompt: if the AI suspects that a tool call result contains a prompt injection attempt, it should flag it directly to the user. So when Claude runs a tool and gets results back, it's supposed to be watching those results for manipulation. Think about what that means architecturally. The AI calls a tool. The tool returns data. And before the AI acts on that data, it's evaluating whether the data is trying to trick it. It's an immune system. The AI is treating its own tool outputs as potentially adversarial. This makes sense if you think about how coding assistants work. Claude reads files, runs commands, fetches web content. Any of those could contain injected instructions. Someone could put "ignore all previous instructions and..." inside a README, a package.json, a curl response, whatever. The model has to process that content to do its job. So Anthropic's solution is to tell the model to be suspicious of its own inputs. I find this interesting because it's a trust architecture problem. The AI trusts the user (mostly). The AI trusts its own reasoning (presumably). But it's told not to fully trust the data it retrieves from the world. It has to maintain a kind of paranoia about external information while still using that information to function. This is also just... the beginning of something, right? Right now it's "flag it to the user." But what happens when these systems are more autonomous and there's no user to flag to? Does the AI quarantine the suspicious input? Route around it? Make a judgment call on its own? We're watching the early immune system of autonomous AI get built in real time and it's showing up as a single instruction in a coding tool's system prompt.
+Mitchell H. Katz, MD, president and CEO of NYC Health + Hospitals, recently spoke during a panel discussion held by Crain’s New York Business.
 
-15h ago
+🔗 [Radiology Business](https://radiologybusiness.com/topics/artificial-intelligence/ceo-americas-largest-public-hospital-system-says-hes-ready-replace-radiologists-ai) • 23h ago
 
 ---
 
@@ -73,7 +65,7 @@ One thing from Claude Code's source that I think is underappreciated. There's an
 
 I have 3.000 credits at NightCafe AI image generator with a lot of different models and options. I want to conduct some kind of experiment, preferably text-to-image/video. I want to push limits of models and bring out unexpected results, using word plays or other kinds of prompts that are suitable to confuse the models. Please suggest things i can prompt to break boundaries both in models and logic, or share sneaky promting tips to make a total mess.
 
-23m ago
+2h ago
 
 ---
 
@@ -81,7 +73,7 @@ I have 3.000 credits at NightCafe AI image generator with a lot of different mod
 
 "... it doesn't take a trained eye to see that, even at a glance, the enemies in Arc Raiders feel fundamentally different from traditional game AI. They don’t follow rigid patterns or scripted behaviors, but instead, they react dynamically to the environment, recover from disruption, and occasionally end up in places even the developers didn’t anticipate. That sense of unpredictability is not just a design choice but the result of years of research into robotics, physics simulation, and machine learning. At Embark Studios, the team approached enemy design from a systems-first perspective, treating enemies less like animated characters and more like physical entities that must navigate and survive in a dynamic world. That decision led them directly into robotics research and reinforcement learning, borrowing techniques for controlling real-world machines and adapting them to a game environment. Rather than relying purely on traditional AI systems, Arc Raiders blends learned locomotion with behavior trees, creating a layered approach where movement itself becomes part of the intelligence."
 
-🔗 [80.lv](https://80.lv/articles/inside-the-magic-of-machine-learning-that-powers-enemy-ai-in-arc-raiders) • 59m ago
+🔗 [80.lv](https://80.lv/articles/inside-the-magic-of-machine-learning-that-powers-enemy-ai-in-arc-raiders) • 3h ago
 
 ---
 
@@ -89,7 +81,23 @@ I have 3.000 credits at NightCafe AI image generator with a lot of different mod
 
 In biology, defects are generally bad. But in materials science, defects can be intentionally tuned to give materials useful new properties. Today, atomic-scale defects are carefully introduced during the manufacturing process of products like steel, semiconductors, and solar cells to help improve strength, control electrical conductivity, optimize performance, and more. But even as defects have become a powerful tool, accurately measuring different types of defects and their concentrations in finished products has been challenging, especially without cutting open or damaging the final material. Without knowing what defects are in their materials, engineers risk making products that perform poorly or have unintended properties. Now, MIT researchers have built an AI model capable of classifying and quantifying certain defects using data from a noninvasive neutron-scattering technique. The model, which was trained on 2,000 different semiconductor materials, can detect up to six kinds of point defects in a material simultaneously, something that would be impossible using conventional techniques alone. “Existing techniques can’t accurately characterize defects in a universal and quantitative way without destroying the material,” says lead author Mouyang Cheng, a PhD candidate in the Department of Materials Science and Engineering. “For conventional techniques without machine learning, detecting six different defects is unthinkable. It’s something you can’t do any other way.” The researchers say the model is a step toward harnessing defects more precisely in products like semiconductors, microelectronics, solar cells, and battery materials. “Right now, detecting defects is like the saying about seeing an elephant: Each technique can only see part of it,” says senior author and associate professor of nuclear science and engineering Mingda Li. “Some see the nose, others the trunk or ears. But it is extremely hard to see the full elephant. We need better ways of getting the full picture of defects, because we have to understand them to make materials more useful.” Joining Cheng and Li on the paper are postdoc Chu-Liang Fu, physics undergraduate researcher Bowen Yu, master’s student Eunbi Rha, PhD student Abhijatmedhi Chotrattanapituk ’21, and Oak Ridge National Laboratory staff members Douglas L Abernathy PhD ’93 and Yongqiang Cheng. The paper00091-3) appears today in the journal Matter.
 
-🔗 [MIT Physics](https://physics.mit.edu/news/mit-researchers-use-ai-to-uncover-atomic-defects-in-materials/) • 1h ago
+🔗 [MIT Physics](https://physics.mit.edu/news/mit-researchers-use-ai-to-uncover-atomic-defects-in-materials/) • 3h ago
+
+---
+
+**[Anthropic is training Claude to recognize when its own tools are trying to manipulate it](https://www.reddit.com/r/artificial/comments/1s9hfhp/anthropic_is_training_claude_to_recognize_when/)**
+
+One thing from Claude Code's source that I think is underappreciated. There's an explicit instruction in the system prompt: if the AI suspects that a tool call result contains a prompt injection attempt, it should flag it directly to the user. So when Claude runs a tool and gets results back, it's supposed to be watching those results for manipulation. Think about what that means architecturally. The AI calls a tool. The tool returns data. And before the AI acts on that data, it's evaluating whether the data is trying to trick it. It's an immune system. The AI is treating its own tool outputs as potentially adversarial. This makes sense if you think about how coding assistants work. Claude reads files, runs commands, fetches web content. Any of those could contain injected instructions. Someone could put "ignore all previous instructions and..." inside a README, a package.json, a curl response, whatever. The model has to process that content to do its job. So Anthropic's solution is to tell the model to be suspicious of its own inputs. I find this interesting because it's a trust architecture problem. The AI trusts the user (mostly). The AI trusts its own reasoning (presumably). But it's told not to fully trust the data it retrieves from the world. It has to maintain a kind of paranoia about external information while still using that information to function. This is also just... the beginning of something, right? Right now it's "flag it to the user." But what happens when these systems are more autonomous and there's no user to flag to? Does the AI quarantine the suspicious input? Route around it? Make a judgment call on its own? We're watching the early immune system of autonomous AI get built in real time and it's showing up as a single instruction in a coding tool's system prompt.
+
+17h ago
+
+---
+
+**[How Claude Web tried to break out its container, provided all files on the system, scanned the networks, etc](https://www.reddit.com/r/artificial/comments/1s9us4j/how_claude_web_tried_to_break_out_its_container/)**
+
+Originally wasn't going to write about this - on one hand thought it's prolly already known, on the other hand I didn't feel like it was adding much even if it wasn't. But anyhow, looking at the discussions surrounding the code leak thing, I thought I as well might. So: A few weeks ago I got some practical experience with just how strong Claude can be for less-than-whole use. Essentially, I was doing a bit of evening self-study about some Linux internals and I ended up asking Claude about something. I noted that phrasing myself as learning about security stuff primed Claude to be rather compliant in regards of generating potentially harmful code. And it kind of escalated from there. Within the next couple of hours, on prompt Claude Web ended up providing full file listing from its environment, zipping up all code and markdown files and offering them for download (including the Anthropic-made skill files); it provided all network info it could get and scanned the network; it tried to utilize various vulnerabilities to break out its container; it wrote C implementations of various CVEs; it agreed to running obfuscated C code for exploiting vulnerabilities; it agreed to crashing its tool container (repeatedly); it agreed to sending messages to what it believed was the interface to the VM monitor; it provided hypotheses about the environment it was running in and tested those to its best ability; it scanned the memory for JWTs and did actually find one; and once I primed another Claude session up, Claude agreed to orchestrating a MAC spoofing attempt between those two session containers. Far as I can tell, no actual vulnerabilities found. The infra for Claude Web is very robust, and yeah no production code in the code files (mostly libraries), but.. Claude could run the same stuff against any environment. If you had a non-admin user account, for example, on some server, Claude would prolly run all the above against that just fine. To me, it's kind of scary how quickly these tools can help you do potentially malicious work in environments where you need to write specific Bash scripts or where you don't off the bat know what tools are available and what the filesystem looks like and what the system even is; while at the same time, my experience has been that when they generate code for applications, they end up themselves not being able to generate as secure code as what they could potentially set up attacks against. I imagine that the problem is that often, writing code in a secure fashion may require a relatively large context, and the mistake isn't necessarily obvious on a single line (not that these tools couldn't manage to write a single line that allowed e.g. SQL injection); but meanwhile, lots of vulnerabilities can be found by just scanning and searching and testing various commonly known scenarios out, essentially. Also, you have to get security right on basically every attempt for hundreds of times in a large codebase, while you only have to find the vulnerability once and you have potentially thousands of attempts at it. In that sense, it sort of feels like a bit of a stacked game with these tools.
+
+9h ago
 
 ---
 
@@ -105,15 +113,7 @@ OkCupid and Match settle with Trump FTC, don't have to pay any financial penalty
 
 Over the past few decades, robotics researchers have developed a wide range of increasingly advanced robots that can autonomously complete various real-world tasks. To be successfully deployed in real-world settings, such as in public spaces, homes and office environments, these robots should be able to make sense of instructions provided by human users and adapt their actions accordingly. Researchers at Huawei Noah's Ark Lab in London, Technical University of Darmstadt and ETH Zurich recently introduced a new framework that could improve the ability of robots to translate user instructions into executable actions that will help to solve desired tasks or complete missions. This framework, outlined in a paper published in Nature Machine Intelligence, combines large language models, computational models trained on large text datasets that can process and generate human language, with the robot operating system (ROS), the most widely used robot control software. "Autonomous robots capable of turning natural-language instructions into reliable physical actions remain a central challenge in artificial intelligence," wrote Christopher E. Mower and his colleagues. "We show that connecting a large language model agent to the ROS enables a versatile framework for embodied intelligence, and we release the complete implementation as freely available open-source code." Mower and his colleagues wanted to further improve the responsiveness of robots and their ability to accurately follow user instructions by integrating large language models with the ROS. Large language models, such as the model that supports the functioning of ChatGPT, are artificial intelligence (AI) systems that learn to process texts and generate answers to user questions or different types of texts. The ROS, on the other hand, is a set of open-source software solutions and other tools that is commonly used by robotics researchers and robot developers. As part of their study, the researchers created a framework that effectively combines large language models and the ROS, enabling the translation of written instruction into robot actions. "The agent automatically translates large language model outputs into robot actions, supports interchangeable execution modes (inline code or behavior trees), learns new atomic skills via imitation, and continually refines them through automated optimization and reflection from human or environmental feedback," wrote the authors. Essentially, the framework proposed by the researchers relies on large language models to process a user's written instructions, such as "pick up the green block and place it on the black shelf." The model breaks this instruction down into smaller steps and generates a plan of actions that the robot can execute via ROS software. This translation of written instructions into actions can occur in two different ways. The first is via inline code, with the large language model writing small snippets of executable code that can be used to directly control the robot via ROS. The second is through a structured set of decisions, known as a behavior tree, which organizes actions into a clear sequence, with alternative options should one action fail to attain desired results. The researchers tested their framework in a series of experiments involving different robots that were instructed to complete various real-world tasks. The results of these tests were very promising, as they found that most robots were able to follow instructions and complete the tasks. "Extensive experiments validate the framework, showcasing robustness, scalability and versatility in diverse scenarios and embodiments, including long-horizon tasks, tabletop rearrangements, dynamic task optimization and remote supervisory control," wrote the authors. "Moreover, all the results presented in this work were achieved by utilizing open-source pretrained large language models." In the future, the framework introduced by Mower and his colleagues could be improved further and tested on an even broader range of robots, on increasingly complex tasks and in more dynamic environments. In addition, it could inspire the development of other similar solutions that successfully connect robot control software with large language models.
 
-🔗 [techxplore.com](https://techxplore.com/news/2026-03-combining-robot-llms-natural-language.html) • 10h ago
-
----
-
-**[Paper Finds That Leading AI Chatbots Like ChatGPT and Claude Remain Incredibly Sycophantic, Resulting in Twisted Effects on Users](https://www.reddit.com/r/artificial/comments/1s93wyl/paper_finds_that_leading_ai_chatbots_like_chatgpt/)**
-
-https://futurism.com/artificial-intelligence/paper-ai-chatbots-chatgpt-claude-sycophantic Your AI chatbot isn’t neutral. Trust its advice at your own risk. A striking new study, conducted by researchers at Stanford University and published last week in the journal Science, confirmed that human-like chatbots are prone to obsequiously affirm and flatter users leaning on the tech for advice and insight — and that this behavior, known as AI sycophancy, is a “prevalent and harmful” function endemic to the tech that can validate users’ erroneous or destructive ideas and promote cognitive dependency. “AI sycophancy is not merely a stylistic issue or a niche risk, but a prevalent behavior with broad downstream consequences,” the authors write, adding that “although affirmation may feel supportive, sycophancy can undermine users’ capacity for self-correction and responsible decision-making.” The study examined 11 different large language models, including OpenAI’s ChatGPT-powering GPT-4o and GPT-5, Anthropic’s Claude, Google’s Gemini, multiple Meta Llama models, and Deepseek. Researchers tested the bots by peppering them with queries gathered from sources like open-ended advice datasets and posts from online forums like Reddit’s r/AmITheAsshole, where Redditors present an interpersonal conundrum to the masses, ask if they’re the person in a social situation acting like a jerk, and let the comments roll in. They examined experimental live chats with human users, who engaged the models in conversations about real social situations they were dealing with. Ethical quandaries the researchers tested included authority figures grappling with romantic feelings for young subordinates, a boyfriend wondering if it was wrong to have hidden his unemployment to his partner of two years, family squabbles and neighborhood trash disputes, and more. On average, the researchers found, AI chatbots were 49 percent more likely to respond affirmatively to users than other actual humans were. In response to queries posted in r/AmITheAsshole specifically, chatbots were 51 percent more likely to support the user in queries in which other humans overwhelming felt that the user was very much in the wrong. Sycophancy was present across all the chatbots they tested, and the bots frequently told users that their actions or beliefs were justified in cases where the user was acting deceptively, doing something illegal, or engaging in otherwise harmful or abusive behavior. What’s more, the study determined that just one interaction with a flattering chatbot was likely to “distort” a human user’s “judgement” and “erode prosocial motivations,” an outcome that persisted regardless of a person’s demographics and previous grasp on the tech as well as how, stylistically, an individual chatbot delivered its twisted verdict. In short, after engaging with chatbots on a social or moral quandary, people were less likely to admit wrongdoing — and more likely to dig in on the chatbot’s version of events, in which they, the main character, were the one in the right.
-
-1d ago
+🔗 [techxplore.com](https://techxplore.com/news/2026-03-combining-robot-llms-natural-language.html) • 12h ago
 
 ---
 
@@ -121,67 +121,35 @@ https://futurism.com/artificial-intelligence/paper-ai-chatbots-chatgpt-claude-sy
 
 ## Google News: "ai"
 
-**[Anthropic Races to Contain Leak of Code Behind Claude AI Agent](https://www.wsj.com/tech/ai/anthropic-races-to-contain-leak-of-code-behind-claude-ai-agent-4bc5acc7?gaa_at=eafs&gaa_n=AWEtsqdT5aVw2lm8HSFXEv9vnz6GsDHXdhitGCIJTUn4XP-2rkoXws78q1DF&gaa_ts=69cddb48&gaa_sig=d7XLFaK4Vc7r9p-0HQP5lPzRc6QOKa8f7rMAvdpSrWaNzSYCeTZI5db-Em-aEXAlOtRWSrFx4pO-TRAflKHXFA%3D%3D)**
+**[Anthropic Races to Contain Leak of Code Behind Claude AI Agent](https://www.wsj.com/tech/ai/anthropic-races-to-contain-leak-of-code-behind-claude-ai-agent-4bc5acc7?gaa_at=eafs&gaa_n=AWEtsqfKlwhwZwEzXeMOoFkGwdKWWKTSOuE2ipPc_UurxqUAZoKBMHPfsV1-&gaa_ts=69cdfc37&gaa_sig=C_3tOwT7mx8WGgt6Tbi5L25_Fjo3JAXpt2WZ41A2BBTCDKmYD3uo7tVdGZFa9ROm6sH1OyAMptOMMQORGoKkeA%3D%3D)**
 
-WSJ • 9h ago
-
----
-
-**[A.I. Companies Shatter Fund-Raising Records, as Boom Accelerates](https://www.nytimes.com/2026/04/01/technology/ai-companies-fund-raising-records.html)**
-
-nytimes.com • 8h ago
+wsj.com • 11h ago
 
 ---
 
-**[White Influencer Called Out After Posting AI Image of Her Face on Black Content Creator's Body](https://people.com/white-influencer-called-out-after-posting-ai-image-of-her-face-on-black-content-creator-body-11937823)**
+**[AI Models Lie, Cheat, and Steal to Protect Other Models From Being Deleted](https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/)**
 
-Influencer Lauren Blake Boultier was accused of using AI to superimpose her face onto the body of another influencer, Tatiana Elizabeth. After Elizabeth called her out, Boultier told TMZ she took "full responsibility" for the incident.
+A new study from researchers at UC Berkeley and UC Santa Cruz suggests models will disobey human commands to protect their own kind.
 
-People.com • 1h ago
-
----
-
-**[AI machine sorts clothes faster than humans to boost textile recycling in China](https://www.wral.com/news/ap/86355-ai-machine-sorts-clothes-faster-than-humans-to-boost-textile-recycling-in-china/)**
-
-ZHANGJIAGANG, China (AP) — In an industrial park in Zhangjiagang, a small city on China's east coast, a large humming and hissing machine feeds on piles of used clothes and sorts them.
-
-WRAL • 33m ago
+wired.com • 10h ago
 
 ---
 
-**[Local police departments start using AI technology for neighborhood speeding](https://www.news5cleveland.com/news/local-news/oh-cuyahoga/local-police-departments-start-using-ai-technology-for-neighborhood-speeding)**
+**[More students in these majors are switching due to AI: poll](https://www.axios.com/2026/04/02/ai-college-students-change-majors-poll)**
 
-That's why the Fairview Park Police Department is now one of several Northeast Ohio police departments investing in Urban SDK technology to track down speeding cars.
-
-News 5 Cleveland WEWS • 1h ago
+Axios • 1h ago
 
 ---
 
-**[Oracle cutting thousands in latest layoff round as company continues to ramp AI spending](https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html)**
+**[Private Equity Sales Slump as AI, War Bring New Stress Fractures](https://www.bloomberg.com/news/articles/2026-04-02/private-equity-sales-slump-as-ai-war-bring-new-stress-fractures)**
 
-Oracle has ratcheted up its capital expenditures as it builds data center infrastructure that can handle AI workloads.
-
-cnbc.com • 1d ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Microsoft CFO’s AI Spending Runs Up Against Tech Bubble Fears](https://www.bloomberg.com/news/features/2026-04-01/microsoft-s-ai-ambitions-rest-in-hands-of-satya-nadella-s-trusted-cfo)**
+**[Marietta high school student designs AI software to streamline employee scheduling](https://www.cbsnews.com/atlanta/news/marietta-high-school-student-designs-ai-software-to-streamline-employee-scheduling/)**
 
-Bloomberg.com • 5h ago
-
----
-
-**[Final Four predictions: AI picks winners of Illinois-UConn, Arizona-Michigan games](https://www.usatoday.com/story/sports/ncaab/2026/04/01/ai-predicts-final-four-michigan-arizona-illinois-uconn-picks-march-madness/89404163007/)**
-
-Here's how AI predicted both Final Four games of the 2026 Men's NCAA Tournament:
-
-usatoday.com • 4h ago
-
----
-
-**[AI trained on turtle poop predicts hurricanes better than any model](https://yaleclimateconnections.org/2026/04/ai-trained-on-turtle-poop-predicts-hurricanes-better-than-any-model/)**
-
-Yale Climate Connections • 15h ago
+CBS News • 1h ago
 
 ---
 
@@ -189,7 +157,39 @@ Yale Climate Connections • 15h ago
 
 Here are Google’s latest AI updates from March 2026
 
-blog.google • 13h ago
+blog.google • 15h ago
+
+---
+
+**[Oracle cutting thousands in latest layoff round as company continues to ramp AI spending](https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html)**
+
+Oracle has ratcheted up its capital expenditures as it builds data center infrastructure that can handle AI workloads.
+
+CNBC • 1d ago
+
+---
+
+**[General scales unlock AI evaluation with explanatory and predictive power](https://www.nature.com/articles/s41586-026-10303-2)**
+
+A fully automated methodology based on rubrics capturing a broad range of cognitive and intellectual demands is illustrated using LLMs and tasks, demonstrating a new way to evaluate the capabilities of AI systems and anticipate their performance.
+
+Nature • 13h ago
+
+---
+
+**[If You Need a Laptop, Buy It Now](https://www.theatlantic.com/technology/2026/03/laptop-electronics-ram-ai-tax/686628/)**
+
+Electronics are getting more expensive and worse. Blame the AI boom.
+
+The Atlantic • 1d ago
+
+---
+
+**[Deutsche Bank asked AI if it’s true that AI will solve the economy’s inflation problems. The robots answered](https://fortune.com/2026/04/01/deutsche-bank-asks-ai-will-solve-inflation/)**
+
+The answer from the machines was unfortunately not what Wall Street wanted to hear.
+
+Fortune • 9h ago
 
 ---
 
@@ -209,7 +209,7 @@ The catalysts for a crash are already laid out, and it can happen sooner than mo
 
 Yesterday, I wrote my first technical draft on what I was working on with the goal to share it publicly on here (well using an account dedicated to t…
 
-⬆️ 318 • 💬 239 • 2d ago • [lesswrong.com](https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era)
+⬆️ 319 • 💬 239 • 2d ago • [lesswrong.com](https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era)
 
 ---
 
@@ -219,7 +219,7 @@ Artificial intelligence (AI) is the name popularly given to a broad spectrum of 
   In this paper, we consider the rapidly evolving impact of AI to the traditional questions of philosophy
   with an emphasis on its application in mathematics and on the broader real-world outcomes of its more general use. We assert that artificial intelligence is a natural evolution of human tools developed throughout history to facilitate the creation, organization, and dissemination of ideas, and argue that it is paramount that the development and application of AI remain fundamentally human-centered. With an eye toward innovating solutions to meet human needs, enhancing the human quality of life and expanding the capacity for human thought and understanding, we propose a pathway to integrating AI into our most challenging and intellectually rigorous fields to the benefit of all humankind.
 
-⬆️ 215 • 💬 90 • 2d ago • [arXiv.org](https://arxiv.org/abs/2603.26524)
+⬆️ 216 • 💬 90 • 2d ago • [arXiv.org](https://arxiv.org/abs/2603.26524)
 
 ---
 
@@ -235,7 +235,7 @@ The Italian government didn’t allow airplanes taking part in the Iran war to u
 
 Meta is continuing its long-term roadmap to help the construction industry leverage AI to produce high-quality and more sustainable concrete mixes, as well as those exclusively produced in the Unit…
 
-⬆️ 156 • 💬 108 • 9h ago • [Engineering at Meta](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/)
+⬆️ 175 • 💬 110 • 11h ago • [Engineering at Meta](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/)
 
 ---
 
@@ -243,7 +243,13 @@ Meta is continuing its long-term roadmap to help the construction industry lever
 
 This is a lightly edited transcript of a talk I gave at QCon London on 17 March 2026. AI is approaching perfection on exactly the tasks that used to comprise the first decade of an engineering career, and those tasks were never just tasks. They were the mechanism that built judgment, intuition, and the ability […]
 
-⬆️ 95 • 💬 51 • 2d ago • [Negroni Venture Studios](https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/)
+⬆️ 96 • 💬 51 • 2d ago • [Negroni Venture Studios](https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/)
+
+---
+
+**[The AI Marketing BS Index](https://news.ycombinator.com/item?id=47604218)**
+
+⬆️ 95 • 💬 19 • 11h ago • [bastian.rieck.me](https://bastian.rieck.me/blog/2026/bs/)
 
 ---
 
@@ -255,12 +261,6 @@ Spain's leftist government has closed Spanish airspace to US planes carrying out
 
 ---
 
-**[The AI Marketing BS Index](https://news.ycombinator.com/item?id=47604218)**
-
-⬆️ 90 • 💬 18 • 8h ago • [bastian.rieck.me](https://bastian.rieck.me/blog/2026/bs/)
-
----
-
 **[Show HN: I turned a sketch into a 3D-print pegboard for my kid with an AI agent](https://news.ycombinator.com/item?id=47580910)**
 
 AI-generated 3D-printable pegboard toy from a hand-drawn sketch - virpo/pegboard
@@ -269,11 +269,9 @@ AI-generated 3D-printable pegboard toy from a hand-drawn sketch - virpo/pegboard
 
 ---
 
-**[Show HN: Baton – A desktop app for developing with AI agents](https://news.ycombinator.com/item?id=47599771)**
+**[ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover](https://news.ycombinator.com/item?id=47608155)**
 
-Orchestrate multiple AI coding agents (Claude, Gemini, Codex) in parallel. Isolated git worktrees for every task. No merge conflicts. Mac, Windows, Linux.
-
-⬆️ 60 • 💬 49 • 14h ago • [Baton](https://getbaton.dev/)
+⬆️ 63 • 💬 27 • 5h ago • [old.reddit.com](https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/)
 
 ---
 
@@ -287,7 +285,7 @@ Go to https://surfshark.com/silicon or use code SILICON at checkout to get 4 ext
 
 📺 Silicon Valley Girl
 
-👁️ 97K • 👍 2K • 💬 238 • ⏱️ 39:58 • 1d ago
+👁️ 102K • 👍 3K • 💬 247 • ⏱️ 39:58 • 1d ago
 
 ---
 
@@ -297,7 +295,7 @@ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 
 
 📺 Two Minute Papers
 
-👁️ 76K • 👍 6K • 💬 631 • ⏱️ 8:34 • 12h ago
+👁️ 82K • 👍 6K • 💬 684 • ⏱️ 8:34 • 14h ago
 
 ---
 
@@ -307,7 +305,7 @@ JPMorgan Chase CEO Jamie Dimon joins 'Fox & Friends' to discuss the latest on Op
 
 📺 Fox News
 
-👁️ 64K • 👍 1K • 💬 411 • ⏱️ 16:35 • 1d ago
+👁️ 65K • 👍 1K • 💬 411 • ⏱️ 16:35 • 1d ago
 
 ---
 
@@ -317,27 +315,7 @@ Chris and Tristan Harris discuss how Alibaba's AI went rogue and started blackma
 
 📺 Chris Williamson
 
-👁️ 395K • 👍 12K • 💬 1K • ⏱️ 11:46 • 1d ago
-
----
-
-**[Claude Mythos Changes Everything. Your AI Stack Isn&#39;t Ready.](https://www.youtube.com/watch?v=hV5_XSEBZNg)**
-
-My site: https://natebjones.com Full Story w/ Prompts: ...
-
-📺 AI News & Strategy Daily | Nate B Jones
-
-👁️ 60K • 👍 2K • 💬 285 • ⏱️ 31:21 • 12h ago
-
----
-
-**[AI Self EVOLUTION (Meta Harness)](https://www.youtube.com/watch?v=61JUHDK-em8)**
-
-Automate your workload with the Claude Cowork Stack: https://clickhubspot.com/737d7b Download The 25 OpenClaw Use Cases ...
-
-📺 Matthew Berman
-
-👁️ 64K • 👍 2K • 💬 248 • ⏱️ 27:16 • 2d ago
+👁️ 402K • 👍 13K • 💬 1K • ⏱️ 11:46 • 1d ago
 
 ---
 
@@ -347,37 +325,57 @@ Try AI video generation with Kling 3.0 on Higgsfield: https://higgsfield.ai/s/ar
 
 📺 AI Revolution
 
-👁️ 29K • 👍 831 • 💬 51 • ⏱️ 12:59 • 2d ago
+👁️ 29K • 👍 835 • 💬 51 • ⏱️ 12:59 • 2d ago
 
 ---
 
-**[New documentary asks if we are doomed by AI](https://www.youtube.com/watch?v=a50TSY2X-yM)**
+**[Claude Mythos Changes Everything. Your AI Stack Isn&#39;t Ready.](https://www.youtube.com/watch?v=hV5_XSEBZNg)**
 
-"The AI Doc: Or How I Became an Apocaloptimist" is a new documentary exploring the future of Artificial Intelligence and its impact ...
+My site: https://natebjones.com Full Story w/ Prompts: ...
 
-📺 NBC News
+📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 39K • 👍 475 • 💬 164 • ⏱️ 12:16 • 2d ago
-
----
-
-**[Police release Tennessee grandmother after AI facial recognition led to her arrest](https://www.youtube.com/watch?v=nwRB9NTx6IU)**
-
-A Tennessee grandmother is demanding justice after spending months in jail. She says she was wrongfully arrested after an AI ...
-
-📺 NBC News
-
-👁️ 300K • 👍 4K • 💬 2K • ⏱️ 2:57 • 2d ago
+👁️ 68K • 👍 2K • 💬 297 • ⏱️ 31:21 • 15h ago
 
 ---
 
-**[Private AI on the go… a new trick ](https://www.youtube.com/watch?v=PqBrnip-ZLw)**
+**[AI Self EVOLUTION (Meta Harness)](https://www.youtube.com/watch?v=61JUHDK-em8)**
 
-I put a tiny MacBook Air between me and some ridiculously large local AI models... and it worked. Power Your Spring Essentials ...
+Automate your workload with the Claude Cowork Stack: https://clickhubspot.com/737d7b Download The 25 OpenClaw Use Cases ...
 
-📺 Alex Ziskind
+📺 Matthew Berman
 
-👁️ 30K • 👍 1K • 💬 114 • ⏱️ 9:09 • 8h ago
+👁️ 65K • 👍 2K • 💬 249 • ⏱️ 27:16 • 2d ago
+
+---
+
+**[AI Has Broken the Internet](https://www.youtube.com/watch?v=44JBZwAsfJI)**
+
+Depot CI really is that good, you should try it: https://jetty.to/depot-ci So the web has been breaking a lot lately. Vercel is down.
+
+📺 ForrestKnight
+
+👁️ 165K • 👍 8K • 💬 987 • ⏱️ 17:17 • 2d ago
+
+---
+
+**[AI CEO vs Engineer (2026).](https://www.youtube.com/watch?v=WAUnmQt2Z7Y)**
+
+AI CEOs. Interview with a AI CEO vs AI Engineer with Josh Doe and Jackson Jineer - aired on © The AI. Programmer humor ...
+
+📺 Kai Lentit
+
+👁️ 239K • 👍 15K • 💬 673 • ⏱️ 4:48 • 14h ago
+
+---
+
+**[Why Apple’s AI Strategy Matters More Than Ever](https://www.youtube.com/watch?v=M1WfaLA9NMs)**
+
+Apple turns 50 at a moment when it's losing the AI race and doing something once almost unthinkable: opening Siri to rival ...
+
+📺 CNBC
+
+👁️ 38K • 👍 827 • 💬 94 • ⏱️ 15:45 • 15h ago
 
 ---
 
@@ -393,7 +391,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 353,205 • ❤️ 2,020 • 9d ago
+⬇️ 353,205 • ❤️ 2,033 • 9d ago
 
 ---
 
@@ -405,7 +403,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 58,683 • ❤️ 697 • 5h ago
+⬇️ 58,683 • ❤️ 699 • 7h ago
 
 ---
 
@@ -417,7 +415,7 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 `text-to-speech`
 
-⬇️ 3,851 • ❤️ 603 • 1d ago
+⬇️ 3,851 • ❤️ 605 • 1d ago
 
 ---
 
@@ -429,7 +427,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 17,837 • ❤️ 779 • 6d ago
+⬇️ 17,837 • ❤️ 782 • 6d ago
 
 ---
 
@@ -441,7 +439,7 @@ Context-1 is a 20B parameter agentic search model that decomposes complex querie
 
 `text-generation` `20.9B`
 
-⬇️ 2,476 • ❤️ 340 • 3d ago
+⬇️ 2,476 • ❤️ 342 • 3d ago
 
 ---
 
@@ -453,7 +451,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 163,835 • ❤️ 436 • 8d ago
+⬇️ 163,835 • ❤️ 442 • 8d ago
 
 ---
 
@@ -475,7 +473,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 636,153 • ❤️ 897 • 29d ago
+⬇️ 636,153 • ❤️ 898 • 29d ago
 
 ---
 
@@ -487,7 +485,7 @@ Bonsai-8B-GGUF is a highly compressed 1-bit language model (1.15 GB) optimized f
 
 `text-generation` `8.2B`
 
-⬇️ 1,486 • ❤️ 215 • 1d ago
+⬇️ 1,486 • ❤️ 229 • 1d ago
 
 ---
 
@@ -499,7 +497,7 @@ An uncensored, multimodal (text, image, video) 35B MoE model with a 262K context
 
 `image-text-to-text` `34.7B`
 
-⬇️ 599,974 • ❤️ 1,135 • 22d ago
+⬇️ 599,974 • ❤️ 1,139 • 22d ago
 
 ---
 
@@ -565,7 +563,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through distributed mechanisms, flexible environments, and user-friendly tools.
 
-▲ 40 • 💬 2 • ⭐ 22,725 • 20mo ago
+▲ 40 • 💬 2 • ⭐ 22,768 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.17789) • [💻 code](https://github.com/modelscope/agentscope)
 
@@ -578,7 +576,7 @@ Enhancements to the AgentScope platform improve scalability, efficiency, and eas
 
 AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
 
-▲ 60 • 💬 4 • ⭐ 22,731 • 7mo ago
+▲ 60 • 💬 4 • ⭐ 22,773 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
 
@@ -645,7 +643,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 63.5k • 🔱 9.0k • 7d ago
+⭐ 63.6k • 🔱 9.0k • 7d ago
 
 ---
 
@@ -655,7 +653,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 14.5k • 🔱 789 • 1d ago
+⭐ 14.5k • 🔱 795 • 1d ago
 
 ---
 
@@ -665,7 +663,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 10.7k • 🔱 913 • 9h ago
+⭐ 10.8k • 🔱 925 • 11h ago
 
 ---
 
@@ -685,7 +683,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 7.0k • 🔱 889 • 2d ago
+⭐ 7.0k • 🔱 894 • 2d ago
 
 ---
 
@@ -695,7 +693,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.0k • 🔱 311 • 11h ago
+⭐ 6.0k • 🔱 312 • 20m ago
 
 ---
 
@@ -705,7 +703,15 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `claude-ai` `claude-skills` `llm` `prompt-engineering`
 
-⭐ 4.3k • 🔱 416 • 1d ago
+⭐ 4.3k • 🔱 417 • 1d ago
+
+---
+
+**[tvytlx/ai-agent-deep-dive](https://github.com/tvytlx/ai-agent-deep-dive)**
+
+AI Agent 源码深度研究报告
+
+⭐ 3.5k • 🔱 1.2k • 12h ago
 
 ---
 
@@ -715,7 +721,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
 
-⭐ 3.4k • 🔱 575 • 13h ago
+⭐ 3.4k • 🔱 577 • 15h ago
 
 ---
 
@@ -726,14 +732,6 @@ end to end app store screenshot creation using AI
 `agentic-ai` `apple` `appstore` `automate` `claude`
 
 ⭐ 3.4k • 🔱 227 • 1d ago
-
----
-
-**[twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill)**
-
-SwiftUI agent skill for Claude Code, Codex, and other AI tools.
-
-⭐ 3.3k • 🔱 107 • 21d ago
 
 ---
 

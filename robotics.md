@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-02T02:43:47.434461+00:00'
+updated: '2026-04-02T05:04:29.671001+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 02, 2026 at 02:43 UTC  
+**Last Updated:** April 02, 2026 at 05:04 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,29 +34,13 @@ Robotics research and industry news
 
 **[China announces its first automated manufacturing line capable of producing 10K humanoid robots per year - 1 robot every 30 minutes](https://www.reddit.com/r/robotics/comments/1s9qso0/china_announces_its_first_automated_manufacturing/)**
 
-9h ago
+11h ago
 
 ---
 
 **[Olaf couldn't handle too many human questions, suddenly crashed, collapsed, and its carrot nose fell off](https://www.reddit.com/r/robotics/comments/1s9g61s/olaf_couldnt_handle_too_many_human_questions/)**
 
-16h ago
-
----
-
-**[Is there software that lets you code your robot and simulate it in the same place?](https://www.reddit.com/r/robotics/comments/1sa4fn8/is_there_software_that_lets_you_code_your_robot/)**
-
-Been frustrated jumping between environments. Write code in one place, switch to a sim to test, debug in another terminal. Feels like there should be something more integrated by now. I know Gazebo + ROS 2 is the standard answer but the setup overhead is rough. Foxglove helps a lot on the visualization and debugging side, being able to see your point clouds, camera feeds and sensor data all in one place is great. But I still feel like I'm duct taping the coding and sim parts together separately. Anyone found something that keeps the full loop in one place? Two things I've come across recently are Foxglove and Bedrock Dynamics' Substrate. Different tools doing different things but both seem to be pushing toward a more integrated dev experience for robotics. Has anyone heard of other tools doing something similar?
-
-43m ago
-
----
-
-**[A perspective on the push toward human-like robots](https://www.reddit.com/r/robotics/comments/1s9lx5h/a_perspective_on_the_push_toward_humanlike_robots/)**
-
-Erik Nieves, CEO of Plus One Robotics, describes the current focus on humanoid robots as part of a broader pattern. He notes that when people think of robots, they often picture a human-like figure. That expectation shapes how robots are designed and discussed. He also connects humanoid development to two recurring ideas: going to new places and replicating human capabilities in those environments. Mentioning that industrial users are not focused on form factor. Systems are evaluated based on performance, including output and reliability, rather than whether they resemble humans. The discussion suggests that while humanoid robots may not yet align with operational requirements, the investment in that area could still influence the development of underlying technologies.
-
-12h ago
+19h ago
 
 ---
 
@@ -64,13 +48,29 @@ Erik Nieves, CEO of Plus One Robotics, describes the current focus on humanoid r
 
 I’m in a unique position as a small business owner and I’m looking for advice. I’ve been a long time follower of r/datahoarder and I think my friends over here in r/robotics might find what I have useful. I’ve been hanging on to about 12tb of MP4 footage that I captured at my business hoping I would find a use for it one day. Now it seems like every other day I read another article about the data scarcity in robotics training and the sim to real gap. So I’m wondering if I might be able to connect some pieces and license this video as a dataset. I did some research and found that a first person view seems to be the most valuable for embodied AI training so I recently I added GoPros on my customers to capture that as well. I think what I have may be useful for some training cases. It is a lot of video of human object interaction and high force material interactions and real world unscripted human dynamics. Theres a ton of edge case stuff where things don’t go exactly like it was planned because of the chaotic atmosphere. I have a few hundred hours of the GoPro footage and about 6500 hours of the cctv footage. Currently adding a few hundred hours per month of video with pretty open customizability. I’ve been tinkering with Yolo and SAM2 models as well. All the personal identifiable information has been cleared and all customers are aware of the use of this video for AI training purposes. Would this be useful for some of you and if so, what would be the best way to package it for you? I appreciate your time!
 
+5h ago
+
+---
+
+**[Is there software that lets you code your robot and simulate it in the same place?](https://www.reddit.com/r/robotics/comments/1sa4fn8/is_there_software_that_lets_you_code_your_robot/)**
+
+Been frustrated jumping between environments. Write code in one place, switch to a sim to test, debug in another terminal. Feels like there should be something more integrated by now. I know Gazebo + ROS 2 is the standard answer but the setup overhead is rough. Foxglove helps a lot on the visualization and debugging side, being able to see your point clouds, camera feeds and sensor data all in one place is great. But I still feel like I'm duct taping the coding and sim parts together separately. Anyone found something that keeps the full loop in one place? Two things I've come across recently are Foxglove and Bedrock Dynamics' Substrate. Different tools doing different things but both seem to be pushing toward a more integrated dev experience for robotics. Has anyone heard of other tools doing something similar?
+
 3h ago
+
+---
+
+**[A perspective on the push toward human-like robots](https://www.reddit.com/r/robotics/comments/1s9lx5h/a_perspective_on_the_push_toward_humanlike_robots/)**
+
+Erik Nieves, CEO of Plus One Robotics, describes the current focus on humanoid robots as part of a broader pattern. He notes that when people think of robots, they often picture a human-like figure. That expectation shapes how robots are designed and discussed. He also connects humanoid development to two recurring ideas: going to new places and replicating human capabilities in those environments. Mentioning that industrial users are not focused on form factor. Systems are evaluated based on performance, including output and reliability, rather than whether they resemble humans. The discussion suggests that while humanoid robots may not yet align with operational requirements, the investment in that area could still influence the development of underlying technologies.
+
+14h ago
 
 ---
 
 **[Gazebo/Apply_joint_effort don’t work](https://www.reddit.com/r/robotics/comments/1sa0jjm/gazeboapply_joint_effort_dont_work/)**
 
-3h ago
+5h ago
 
 ---
 
@@ -78,7 +78,7 @@ I’m in a unique position as a small business owner and I’m looking for advic
 
 Pure pursuit navigation and LIDAR obstacle avoidance test with sharp corners. YOLOV8 model for human detection running on desktop server GPU. The objective is to replace the ultrasonic servo sweeping as it was too noisy and caused interference with microphone.
 
-15h ago
+17h ago
 
 ---
 
@@ -86,7 +86,7 @@ Pure pursuit navigation and LIDAR obstacle avoidance test with sharp corners. YO
 
 https://www.youtube.com/@ALMA.GeoffreyAment Chapter 3 Footnote 1. Building an Actuator, a PID Control Loop, and an Ultrasonic Distance sensor to detect and not crash into the ceiling. This will be used in Chapter 3 Desk -- Stay tuned for more!
 
-10h ago
+13h ago
 
 ---
 
@@ -94,7 +94,7 @@ https://www.youtube.com/@ALMA.GeoffreyAment Chapter 3 Footnote 1. Building an Ac
 
 Tl;dr: One of Stanford's hottest AI seminar courses. We open the course to the public. Lectures start tomorrow (Thursdays), 4:30-5:50pm PDT, at Skilling Auditorium and Zoom. Talks will be recorded. Course website: https://web.stanford.edu/class/cs25/. Interested in Transformers, the deep learning model that has taken the world by storm? Want to have intimate discussions with researchers? If so, this course is for you! Each week, we invite folks at the forefront of Transformers research to discuss the latest breakthroughs, from LLM architectures like GPT and Gemini to creative use cases in generating art (e.g. DALL-E and Sora), biology and neuroscience applications, robotics, and more! CS25 has become one of Stanford's hottest AI courses. We invite the coolest speakers such as Andrej Karpathy, Geoffrey Hinton, Jim Fan, Ashish Vaswani, and folks from OpenAI, Anthropic, Google, NVIDIA, etc. Our class has a global audience, and millions of total views on YouTube. Our class with Andrej Karpathy was the second most popular YouTube video uploaded by Stanford in 2023! Livestreaming and auditing (in-person or Zoom) are available to all! And join our 6000+ member Discord server (link on website). Thanks to Modal, AGI House, and MongoDB for sponsoring this iteration of the course.
 
-🔗 [Stanford CS25](https://web.stanford.edu/class/cs25/) • 1h ago
+🔗 [Stanford CS25](https://web.stanford.edu/class/cs25/) • 3h ago
 
 ---
 
@@ -102,7 +102,7 @@ Tl;dr: One of Stanford's hottest AI seminar courses. We open the course to the p
 
 https://preview.redd.it/7xs65qofxksg1.png?width=1818&format=png&auto=webp&s=ee55d6743ee552994af11acef0c64167a3e71df1 Hey r/robotics! I'm excited to share OpenEyes - an open-source vision system I've been building for humanoid robots. It runs entirely on NVIDIA Jetson Orin Nano with full ROS2 integration. The Problem Every day, millions of robots are deployed to help humans. But most of them are blind. Or dependent on cloud services that fail. Or so expensive only big companies can afford them. I wanted to change that. What OpenEyes Does The robot looks at a room and understands: - "There's a cup on the table, 40cm away" - "A person is standing to my left" - "They're waving at me - that's a greeting" - "The person is sitting down - they might need help" - Object Detection (YOLO11n) - Depth Estimation (MiDaS) - Face Detection (MediaPipe) - Gesture Recognition (MediaPipe Hands) - Pose Estimation (MediaPipe Pose) - Object Tracking - Person Following (show open palm to become owner) Performance - All models: 10-15 FPS - Minimal: 25-30 FPS - Optimized (INT8): 30-40 FPS Philosophy - Edge First - All processing on the robot - Privacy First - No data leaves the device - Real-time - 30 FPS target - Open - Built by community, for community Quick Start git clone https://github.com/mandarwagh9/openeyes.git cd openeyes pip install -r requirements.txt python src/main.py --debug python src/main.py --follow (Person following!) python src/main.py --ros2 (ROS2 integration) The Journey Started with a simple question: Why can't robots see like we do? Been iterating for months fixing issues like: - MediaPipe detection at high resolution - Person following using bbox height ratio - Gesture-based owner selection Would love feedback from the community! GitHub: github.com/mandarwagh9/openeyes
 
-13h ago
+15h ago
 
 ---
 
@@ -114,7 +114,7 @@ https://preview.redd.it/7xs65qofxksg1.png?width=1818&format=png&auto=webp&s=ee55
 
 Robotics training and human research were the primary duties for the Expedition 74 crew aboard the International Space Station on Wednesday. The orbital residents rounded out their shift with spacesuit work, cargo operations, and Earth observations.
 
-nasa.gov • 7h ago
+NASA (.gov) • 9h ago
 
 ---
 
@@ -128,43 +128,43 @@ Rest of World • 1d ago
 
 People in Nigeria and India are strapping iPhones onto their heads and recording themselves doing chores.
 
-MIT Technology Review • 15h ago
+technologyreview.com • 18h ago
 
 ---
 
 **[Europe Vies to Be Humanoid Robot Leader in Global Tech Race](https://www.bloomberg.com/news/articles/2026-04-01/europe-vies-to-be-humanoid-robot-leader-in-global-tech-race)**
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 15h ago
 
 ---
 
 **[Robots learn to ask humans for help](https://www.axios.com/2026/04/01/robots-delivery-serve-tmobile)**
 
-axios.com • 6h ago
+Axios • 9h ago
 
 ---
 
 **[OpenAI leases massive Richmond site to power robotics expansion](https://www.sfchronicle.com/tech/article/openai-richmond-warehouse-robotics-22160624.php)**
 
-sfchronicle.com • 2d ago
+San Francisco Chronicle • 2d ago
 
 ---
 
 **[Researchers build a robotic swarm with no electronics, no batteries and no brains](https://techxplore.com/news/2026-04-robotic-swarm-electronics-batteries-brains.html)**
 
-Tech Xplore • 12h ago
+Tech Xplore • 15h ago
 
 ---
 
 **[Voyager, Icarus Robotics to test free-flying robot on space station](https://www.reuters.com/science/voyager-icarus-robotics-test-free-flying-robot-space-station-2026-03-30/)**
 
-reuters.com • 2d ago
+Reuters • 2d ago
 
 ---
 
 **[With Voyager’s help, Icarus Robotics to test free-flyer on ISS](https://spacenews.com/with-voyagers-help-icarus-robotics-to-test-free-flyer-on-iss/)**
 
-SpaceNews • 2d ago
+spacenews.com • 2d ago
 
 ---
 
@@ -172,7 +172,7 @@ SpaceNews • 2d ago
 
 Voyager Technologies (NYSE: VOYG) announced a new mission management contract with Icarus Robotics to test their free-flying robotic platform, Joyride, aboar...
 
-Business Wire • 2d ago
+businesswire.com • 2d ago
 
 ---
 
@@ -186,7 +186,7 @@ Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In t
 
 📺 Shawn Ryan Show
 
-👁️ 84K • 👍 7K • 💬 1K • ⏱️ 8:48 • 6h ago
+👁️ 145K • 👍 9K • 💬 2K • ⏱️ 8:48 • 8h ago
 
 ---
 
@@ -196,7 +196,7 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCkouj
 
 📺 Shawn Ryan Clips
 
-👁️ 9K • 👍 312 • 💬 131 • ⏱️ 15:18 • 2d ago
+👁️ 9K • 👍 313 • 💬 132 • ⏱️ 15:18 • 2d ago
 
 ---
 
@@ -206,7 +206,7 @@ Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking
 
 📺 The AI Nexus
 
-👁️ 3K • 👍 137 • 💬 11 • ⏱️ 20:43 • 1d ago
+👁️ 3K • 👍 141 • 💬 11 • ⏱️ 20:43 • 1d ago
 
 ---
 
@@ -216,7 +216,7 @@ Brett Adcock shares his vision for the future of humanoid robots, why he believe
 
 📺 Shawn Ryan Show
 
-👁️ 70K • 👍 2K • 💬 675 • ⏱️ 14:05 • 5d ago
+👁️ 71K • 👍 2K • 💬 677 • ⏱️ 14:05 • 5d ago
 
 ---
 
@@ -226,17 +226,7 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCkouj
 
 📺 Shawn Ryan Show
 
-👁️ 969K • 👍 16K • 💬 1K • ⏱️ 0:28 • 2d ago
-
----
-
-**[Viral robot appearances on the rise as White House hosts humanoid robot](https://www.youtube.com/watch?v=CDbSdaiEdyQ)**
-
-Humanoid robots have been making appearances through social media, tv segments, and at the latest White House summit.
-
-📺 NBC News
-
-👁️ 97K • 👍 555 • 💬 372 • ⏱️ 3:05 • 6d ago
+👁️ 996K • 👍 16K • 💬 1K • ⏱️ 0:28 • 2d ago
 
 ---
 
@@ -246,17 +236,7 @@ Ad: Check out PCBWay for all your project needs! Get $10 off orders over $30 wit
 
 📺 James Bruton
 
-👁️ 46K • 👍 3K • 💬 186 • ⏱️ 16:17 • 1d ago
-
----
-
-**[Unitree Open‑Source: High‑Quality Real‑Robot Dataset for Humanoid Robots](https://www.youtube.com/watch?v=pN_bj5-QyW8)**
-
-Unitree open-sources UnifoLM-WBT-Dataset — a high-quality real-world humanoid robot whole-body teleoperation (WBT) ...
-
-📺 Unitree Robotics
-
-👁️ 6.9M • 👍 560 • 💬 95 • ⏱️ 1:28 • 5d ago
+👁️ 47K • 👍 3K • 💬 186 • ⏱️ 16:17 • 1d ago
 
 ---
 
@@ -266,7 +246,27 @@ The Sword bot has been through a bunch of rebalances since it was released, bein
 
 📺 PREDATOR WR
 
-👁️ 8K • 👍 341 • 💬 81 • ⏱️ 14:36 • 14h ago
+👁️ 8K • 👍 358 • 💬 83 • ⏱️ 14:36 • 17h ago
+
+---
+
+**[Unitree Open‑Source: High‑Quality Real‑Robot Dataset for Humanoid Robots](https://www.youtube.com/watch?v=pN_bj5-QyW8)**
+
+Unitree open-sources UnifoLM-WBT-Dataset — a high-quality real-world humanoid robot whole-body teleoperation (WBT) ...
+
+📺 Unitree Robotics
+
+👁️ 7.3M • 👍 566 • 💬 96 • ⏱️ 1:28 • 5d ago
+
+---
+
+**[Robotic Fingers Beat Human Hands! 🤚](https://www.youtube.com/watch?v=hDmb96fnmzQ)**
+
+Robotic Fingers Beat Human Hands! This clip shows a highly advanced robotic hand performing precise and controlled ...
+
+📺 Nerb Films
+
+👁️ 23K • 💬 27 • ⏱️ 0:12 • 5d ago
 
 ---
 
