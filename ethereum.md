@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-02T16:01:43.779728+00:00'
+updated: '2026-04-02T17:24:22.307322+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
 - cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 02, 2026 at 16:01 UTC  
+**Last Updated:** April 02, 2026 at 17:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,041.25
+### $2,067.77
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.6%  
-**7d:** +3.3%  
-**30d:** -3.3%  
-**90d:** -34.2%  
-**1y:** +13.2%  
+**24h:** -2.7%  
+**7d:** +3.9%  
+**30d:** -2.8%  
+**90d:** -33.8%  
+**1y:** +13.8%  
 
 ---
 
@@ -72,15 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
-
----
-
-**[Patricio Worthalter (POAP) - Nine years of POAP in EthCC. A founder's journey.](https://www.reddit.com/r/ethereum/comments/1saeywh/patricio_worthalter_poap_nine_years_of_poap_in/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/live/aco5-l_bpOo?si=IZEg8wYNkTUOiGA_) • 4h ago
+12h ago
 
 ---
 
@@ -88,13 +80,27 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 We recently recorded a PEEPanEIP session on EIP-7904, joined by Jacek Sieka and Maria Inês Oliveira. The conversation covers: Motivation behind the proposal Key design considerations Potential impact on the Ethereum ecosystem Open questions and areas for feedback The goal of PEEPanEIP is to make EIPs more accessible and easier to follow for the broader community - especially for those who may not be deep in the specs but want to stay informed. 🎥 Watch the full video https://youtu.be/CswFnsZTXmI Would love to hear thoughts from others following EIP-7904 or working in similar areas - feedback and perspectives welcome.
 
-19m ago
+1h ago
+
+---
+
+**[Patricio Worthalter (POAP) - Nine years of POAP in EthCC. A founder's journey.](https://www.reddit.com/r/ethereum/comments/1saeywh/patricio_worthalter_poap_nine_years_of_poap_in/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/live/aco5-l_bpOo?si=IZEg8wYNkTUOiGA_) • 5h ago
+
+---
+
+**[New Partnership: Nodle x PARAGON ID](https://www.reddit.com/r/ethereum/comments/1sall1a/new_partnership_nodle_x_paragon_id/)**
+
+1h ago
 
 ---
 
 **[AI, bots & algorithms](https://www.reddit.com/r/ethereum/comments/1saiwdj/ai_bots_algorithms/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -136,15 +142,17 @@ Hello everyone! I've built a tool to help recover ETH stuck in old smart contrac
 
 ---
 
-**[Launching Project on Base](https://www.reddit.com/r/ethereum/comments/1s99k1a/launching_project_on_base/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
+
+**[Google warns five quantum attack paths could put $100 billion on Ethereum at risk](https://www.coindesk.com/tech/2026/03/31/google-warns-five-quantum-attack-paths-could-put-usd100-billion-on-ethereum-at-risk)**
+
+A 57-page whitepaper identifies how future quantum computers could target Ethereum's wallets, smart contracts, staking system, Layer 2 networks and data verification layer, with combined exposure exceeding $100 billion.
+
+CoinDesk • 2d ago
+
+---
 
 **[Google Warns $100 Billion Of Ethereum Is At Risk From ‘Quantum Attack’](https://finance.yahoo.com/markets/crypto/articles/google-warns-100-billion-ethereum-133000804.html)**
 
@@ -154,17 +162,53 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Google warns five quantum attack paths could put $100 billion on Ethereum at risk](https://www.coindesk.com/tech/2026/03/31/google-warns-five-quantum-attack-paths-could-put-usd100-billion-on-ethereum-at-risk)**
-
-A 57-page whitepaper identifies how future quantum computers could target Ethereum's wallets, smart contracts, staking system, Layer 2 networks and data verification layer, with combined exposure exceeding $100 billion.
-
-coindesk.com • 2d ago
-
----
-
 **[Google Warns Quantum Computers Could Break Bitcoin and Ethereum in 9 Minutes — Should You Be Worried?](https://www.ccn.com/education/crypto/google-quantum-computers-break-bitcoin-ethereum-9-minutes-1-7m-btc-risk/)**
 
 ccn.com • 2d ago
+
+---
+
+**[Ethereum’s Silent Bull Run: Traders Are Missing the Network Growth as Prices Dip](https://www.investing.com/analysis/ethereums-silent-bull-run-traders-are-missing-the-network-growth-as-prices-dip-200677788)**
+
+Investing.com • 1h ago
+
+---
+
+**[Bitcoin and ethereum price today, Thursday, April 2, 2026: Prices lose ground after Trump promises quick, fierce end to war](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-thursday-april-2-2026-prices-lose-ground-after-trump-promises-quick-fierce-end-to-war-120045450.html)**
+
+Bitcoin and ethereum lose ground after Trump addresses nation in a prime-time address with mixed messages about Iran war.
+
+Yahoo Finance • 5h ago
+
+---
+
+**[Most large cryptocurrencies fall on Solana, Ethereum drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-solana-ethereum-drops-06702da9-e670e788b6b1?gaa_at=eafs&gaa_n=AWEtsqcBjGBOJIkBHWRUHBcDxjAbL0J_sKdtS5Ytw0cCJI5VxmSfpLK2gAQJ&gaa_ts=69cea9b2&gaa_sig=2z6WvEgOi0s9zra2ei5Tj3wzrrk-EJ3JbIp_G7ZcPR4skviB54T5wAW-9Fjes6waD-GWNtEE0sr55pvZntNXqw%3D%3D)**
+
+MarketWatch • 3h ago
+
+---
+
+**[Current price of Ethereum for April 2, 2026](https://fortune.com/article/price-of-ethereum-04-02-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 2h ago
+
+---
+
+**[ETH, Canton, AVAX, Chainlink news: Grayscale research head lays out bets on $19T tokenization wave](https://www.coindesk.com/markets/2026/04/01/grayscale-s-research-head-says-tokenization-will-happen-in-waves-and-explains-how-to-play-it)**
+
+Investors looking to bet on tokenization should think in phases, with institution-friendly networks like Canton likely winning first and Avalanche, Ethereum capturing more upside later, Grayscale's Zach Pandl said.
+
+CoinDesk • 1d ago
+
+---
+
+**[Ethereum Price Crash Update: Analyst Forecasts Fall To $600 If This Happens](https://www.tradingview.com/news/newsbtc:717f71d18094b:0-ethereum-price-crash-update-analyst-forecasts-fall-to-600-if-this-happens/)**
+
+Ethereum is currently trading above $2,100 at the start of the new month, but one analyst believes the asset’s next major directional move is based on a single price level: one that, if broken, would invalidate years of macro analysis and cause a price collapse to as low as $900.The Count That Has…
+
+TradingView • 17h ago
 
 ---
 
@@ -173,50 +217,6 @@ ccn.com • 2d ago
 The Tether-backed USAT stablecoin built for the U.S. market is expanding to Ethereum layer-2 network Celo with help from Google Cloud.
 
 Decrypt • 1d ago
-
----
-
-**[Current price of Ethereum for April 2, 2026](https://fortune.com/article/price-of-ethereum-04-02-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 44m ago
-
----
-
-**[Drift Exploit Reshapes Crypto Liquidity—Is $267M in ETH Fueling the Next Move?](https://www.tradingview.com/news/coinpedia:cc6415549094b:0-drift-exploit-reshapes-crypto-liquidity-is-267m-in-eth-fueling-the-next-move/)**
-
-The crypto market just witnessed one of the biggest DeFi exploits of 2026—but the real story isn’t the hack itself but what happened after it. Following the Drift Protocol exploit, the attacker accumulated over 130,000 ETH worth nearly $267 million, quietly turning a security breach into a market-m…
-
-TradingView • 3h ago
-
----
-
-**[Bitcoin and ethereum price today, Thursday, April 2, 2026: Prices lose ground after Trump promises quick, fierce end to war](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-thursday-april-2-2026-prices-lose-ground-after-trump-promises-quick-fierce-end-to-war-120045450.html)**
-
-Bitcoin and ethereum lose ground after Trump addresses nation in a prime-time address with mixed messages about Iran war.
-
-Yahoo Finance • 3h ago
-
----
-
-**[Most large cryptocurrencies fall on Solana, Ethereum drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-solana-ethereum-drops-06702da9-e670e788b6b1?gaa_at=eafs&gaa_n=AWEtsqdcl3fexnsSmg8KBR7UUxb373faeY9AS0f-tZmDj-LbmXuPNaMnDvt3&gaa_ts=69ce9656&gaa_sig=EcCTMxqAuS6f1xrXdrxCs3YZh7_qLM2mvYOUiF7WhAgkncIT-GHqF2NAz-43iaBNH4iLqI7kNzsCqC28UXuZFQ%3D%3D)**
-
-MarketWatch • 2h ago
-
----
-
-**[Global X Launches Ethereum Covered Call ETF Targeting Weekly Distributions](https://www.morningstar.com/news/pr-newswire/20260402ny25001/global-x-launches-ethereum-covered-call-etf-targeting-weekly-distributions)**
-
-morningstar.com • 2h ago
-
----
-
-**[What price will Ethereum hit in April? Trading Odds & Predictions](https://polymarket.com/event/what-price-will-ethereum-hit-in-april-2026)**
-
-$42,081 has traded on "What price will Ethereum hit in April?" as of April 2, 2026. View real-time odds or trade on The World's Largest Prediction Market™
-
-Polymarket • 2d ago
 
 ---
 
@@ -230,7 +230,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 394 • 👍 53 • 💬 2 • ⏱️ 5:43 • 1h ago
+👁️ 394 • 👍 53 • 💬 2 • ⏱️ 5:43 • 3h ago
 
 ---
 
@@ -240,7 +240,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEE
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 263 • ⏱️ 10:45 • 17h ago
+👁️ 31K • 👍 2K • 💬 263 • ⏱️ 10:45 • 19h ago
 
 ---
 
@@ -250,7 +250,7 @@ GET THE BOOK: https://bullmania.com/book FREE TRAINING: https://www.bullmania.co
 
 📺 Ivan on Tech
 
-👁️ 13K • 👍 996 • 💬 54 • ⏱️ 56:09 • 7h ago
+👁️ 13K • 👍 996 • 💬 54 • ⏱️ 56:09 • 8h ago
 
 ---
 
@@ -260,7 +260,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 138 • 👍 8 • 💬 2 • ⏱️ 4:34 • 5h ago
+👁️ 138 • 👍 8 • 💬 2 • ⏱️ 4:34 • 6h ago
 
 ---
 
@@ -270,7 +270,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 60 • 💬 5 • ⏱️ 4:53 • 14h ago
+👁️ 1K • 👍 60 • 💬 5 • ⏱️ 4:53 • 15h ago
 
 ---
 
@@ -300,7 +300,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 3K • 👍 5K • 1h ago
+👁️ 3K • 👍 5K • 2h ago
 
 ---
 

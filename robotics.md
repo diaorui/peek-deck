@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-02T16:01:43.783255+00:00'
+updated: '2026-04-02T17:24:22.310577+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 02, 2026 at 16:01 UTC  
+**Last Updated:** April 02, 2026 at 17:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,25 @@ Robotics research and industry news
 
 been working on this little desktop robot prototype called Kitto for a while now. honestly most of the hype right now is just cramming the biggest model possible into a plastic shell. but testing the interaction on this thing... if the timing is off it just feels like a glorified smart speaker. to make it actually feel 'alive' on a desk, the idle animations and the instant switch to a listening state carry like 90% of the weight. tbh we ended up spending way more time tuning the audio-to-viseme mapping for the face than we did tweaking the actual API prompts. current stack is just an esp32s3+esp32p4 (planning to migrate to a linux board soon so we can handle local processing and maybe hook into openclaw). the screen isnt playing pre-rendered video files btw. the mouth movements are code-driven in real-time by analyzing the audio stream. latency is still my biggest headache though. pinging the api, getting the TTS audio back, and triggering the animation states fast enough to not break the illusion is tough on this hardware. its getting there but still a lot of code to fix. definately not pitching this as finished hardware yet, mostly just looking for honest feedback on the HRI approach. curious how you guys are handling TTS latency in your own conversational builds right now?
 
-54m ago
+2h ago
 
 ---
 
 **["Follow Me" Mode: Real-time human tracking with YOLOv8](https://www.reddit.com/r/robotics/comments/1sac61n/follow_me_mode_realtime_human_tracking_with_yolov8/)**
 
-6h ago
+8h ago
+
+---
+
+**[Autonomous valet robot demonstrating precise self-parking in a real-world setting](https://www.reddit.com/r/robotics/comments/1san0l2/autonomous_valet_robot_demonstrating_precise/)**
+
+26m ago
 
 ---
 
 **[China announces its first automated manufacturing line capable of producing 10K humanoid robots per year - 1 robot every 30 minutes](https://www.reddit.com/r/robotics/comments/1s9qso0/china_announces_its_first_automated_manufacturing/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -62,7 +68,7 @@ been working on this little desktop robot prototype called Kitto for a while now
 
 Has anyone seen an estimate for the number of submissions this year? I could not find an official announcement. Maybe the submission IDs could give a rough idea.
 
-4h ago
+5h ago
 
 ---
 
@@ -70,7 +76,15 @@ Has anyone seen an estimate for the number of submissions this year? I could not
 
 it uses only two motors to walk unlike most other bipedal robots. What do you guys think? Also I just made the base and hand for now ! https://www.youtube.com/watch?v=InKbSM_C5Xc
 
-7h ago
+8h ago
+
+---
+
+**[Introducing Gen-1](https://www.reddit.com/r/robotics/comments/1samj56/introducing_gen1/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=SY2xyrmV44Y) • 43m ago
 
 ---
 
@@ -78,7 +92,7 @@ it uses only two motors to walk unlike most other bipedal robots. What do you gu
 
 LLMs are being used in industrial robotics to generate robot motion code, PLC logic, and supporting automation scripts from natural language inputs. The primary application is in repetitive tasks such as sequencing, template generation, and initial system configuration. Outputs are reviewed, tested, and refined by engineers before deployment. When combined with simulation, this allows portions of robotic systems to be developed and tested prior to full hardware availability, reducing reliance on sequential commissioning.
 
-🔗 [Automate](https://www.automate.org/ai/industry-insights/accelerating-industrial-automation-with-llms) • 3h ago
+🔗 [Automate](https://www.automate.org/ai/industry-insights/accelerating-industrial-automation-with-llms) • 4h ago
 
 ---
 
@@ -86,21 +100,7 @@ LLMs are being used in industrial robotics to generate robot motion code, PLC lo
 
 Hello Everyone, I am trying to understand any commanization of motors & actuator specs in robotics (Humanoids, cobots, robot dogs) landscape. There has been quite significant progress in the last couple of years. I now see that companies like Unitree, Tesla already scaling up their robots. I understand that the motors and actuators they are using has been specifically made for their own applications but I was wondering if there is one single common motor and actuator that is common across these applications. Here is what I found out: PMSM + QDD for Robot dogs BLDC + Harmonics - Industrial precision Is there any specific range/specs across the motors and actuators that can be made like an off the shelf component? Any leads would be helpful.
 
-8m ago
-
----
-
-**[Working on an ego/exo dataset](https://www.reddit.com/r/robotics/comments/1sa17xd/working_on_an_egoexo_dataset/)**
-
-I’m in a unique position as a small business owner and I’m looking for advice. I’ve been a long time follower of r/datahoarder and I think my friends over here in r/robotics might find what I have useful. I’ve been hanging on to about 12tb of MP4 footage that I captured at my business hoping I would find a use for it one day. Now it seems like every other day I read another article about the data scarcity in robotics training and the sim to real gap. So I’m wondering if I might be able to connect some pieces and license this video as a dataset. I did some research and found that a first person view seems to be the most valuable for embodied AI training so I recently I added GoPros on my customers to capture that as well. I think what I have may be useful for some training cases. It is a lot of video of human object interaction and high force material interactions and real world unscripted human dynamics. Theres a ton of edge case stuff where things don’t go exactly like it was planned because of the chaotic atmosphere. I have a few hundred hours of the GoPro footage and about 6500 hours of the cctv footage. Currently adding a few hundred hours per month of video with pretty open customizability. I’ve been tinkering with Yolo and SAM2 models as well. All the personal identifiable information has been cleared and all customers are aware of the use of this video for AI training purposes. Would this be useful for some of you and if so, what would be the best way to package it for you? I appreciate your time!
-
-16h ago
-
----
-
-**[Text. Wave. Move. — Openclaw Controls Our Robot](https://www.reddit.com/r/robotics/comments/1sa8hos/text_wave_move_openclaw_controls_our_robot/)**
-
-10h ago
+1h ago
 
 ---
 
@@ -108,19 +108,17 @@ I’m in a unique position as a small business owner and I’m looking for advic
 
 ## Google News: "robotics"
 
-**[Sea Stars Can Lose an Arm and Soldier On. What If Robots Could Do the Same?](https://www.smithsonianmag.com/innovation/sea-stars-can-lose-an-arm-and-soldier-on-what-if-robots-could-do-the-same-180988453/)**
-
-Bioinspiration looks to nature for clues on how to build more efficient, resilient robots
-
-Smithsonian Magazine • 14m ago
-
----
-
 **[Station Crew Works Robotics, Research as Artemis II Launch Preps Continue](https://www.nasa.gov/blogs/general-blog/2026/04/01/station-crew-works-robotics-research-as-artemis-ii-launch-preps-continue/)**
 
 Robotics training and human research were the primary duties for the Expedition 74 crew aboard the International Space Station on Wednesday. The orbital residents rounded out their shift with spacesuit work, cargo operations, and Earth observations.
 
-NASA (.gov) • 20h ago
+NASA (.gov) • 21h ago
+
+---
+
+**[Generalist Is Betting Its Robot-Training Gloves Will Usher In Robotics’ ChatGPT Moment](https://www.forbes.com/sites/annatong/2026/04/02/generalist-is-betting-its-robot-training-gloves-will-usher-in-robotics-chatgpt-moment/)**
+
+Forbes • 6h ago
 
 ---
 
@@ -129,6 +127,20 @@ NASA (.gov) • 20h ago
 The carrier is scaling its use of physical assets powered by AI to strengthen network reliability and improve connectivity with shippers, a FedEx executive said.
 
 Supply Chain Dive • 1d ago
+
+---
+
+**[Hyundai Motor Unveils "Next Starts Now" Campaign, Set to Showcase Robotics at FIFA World Cup 2026™](https://www.hyundai.com/worldwide/en/newsroom/detail/hyundai-motor-unveils-next-starts-now-campaign%252C-set-to-showcase-robotics-at-fifa-world-cup-2026%25E2%2584%25A2-0000001147)**
+
+Hyundai Motor Unveils "Next Starts Now" Campaign, Set to Showcase Robotics at FIFA World Cup 2026™
+
+Hyundai • 1d ago
+
+---
+
+**[Researchers build a robotic swarm with no electronics, no batteries and no brains](https://techxplore.com/news/2026-04-robotic-swarm-electronics-batteries-brains.html)**
+
+Tech Xplore • 1d ago
 
 ---
 
@@ -142,7 +154,7 @@ Rest of World • 2d ago
 
 People in Nigeria and India are strapping iPhones onto their heads and recording themselves doing chores.
 
-MIT Technology Review • 1d ago
+technologyreview.com • 1d ago
 
 ---
 
@@ -150,35 +162,21 @@ MIT Technology Review • 1d ago
 
 The architect of the DARPA Robotics Challenge explains how their brains have caught up
 
-spectrum.ieee.org • 1d ago
+IEEE Spectrum • 1d ago
 
 ---
 
-**[Researchers build a robotic swarm with no electronics, no batteries and no brains](https://techxplore.com/news/2026-04-robotic-swarm-electronics-batteries-brains.html)**
+**[West Virginia uses AI, robotics to promote industry at World Chemical Forum](https://www.wboy.com/news/west-virginia/west-virginia-uses-ai-robotics-to-promote-industry-at-world-chemical-forum/)**
 
-Tech Xplore • 1d ago
-
----
-
-**[Robots learn to ask humans for help](https://www.axios.com/2026/04/01/robots-delivery-serve-tmobile)**
-
-Axios • 7h ago
+WBOY.com • 45m ago
 
 ---
 
-**[Ambarella Sees Growth In Industrial Robotics (NASDAQ:AMBA)](https://seekingalpha.com/article/4888105-ambarella-sees-growth-in-industrial-robotics)**
+**[US targets Chinese robots over security fears](https://www.foxnews.com/tech/us-targets-chinese-robots-over-security-fears)**
 
-Ambarella, Inc. Buy thesis: edge AI growth via CV7 chip & Cooper platform in robotics/auto, with $84.28 PT. Click for more on AMBA stock prospects.
+Senators Cotton and Schumer introduced the American Security Robotics Act to ban federal agencies from using robots tied to foreign adversaries like China.
 
-Seeking Alpha • 10m ago
-
----
-
-**[How Disney Imagineers are using AI and robotics to reshape the company’s theme parks](https://www.fastcompany.com/91519970/disney-imagineers-ai-and-robotics-paris-park)**
-
-From robotic Olaf to reinforcement learning, the company is rethinking how its attractions come to life.
-
-Fast Company • 5h ago
+Fox News • 2h ago
 
 ---
 
@@ -212,7 +210,7 @@ Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In t
 
 📺 Shawn Ryan Show
 
-👁️ 293K • 👍 16K • 💬 3K • ⏱️ 8:48 • 19h ago
+👁️ 293K • 👍 16K • 💬 3K • ⏱️ 8:48 • 20h ago
 
 ---
 
