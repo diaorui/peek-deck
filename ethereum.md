@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-02T09:34:54.410113+00:00'
+updated: '2026-04-02T10:52:20.226822+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 02, 2026 at 09:34 UTC  
+**Last Updated:** April 02, 2026 at 10:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,048.29
+### $2,036.51
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.1%  
-**7d:** +2.6%  
-**30d:** -3.9%  
-**90d:** -34.6%  
-**1y:** +12.4%  
+**24h:** -4.6%  
+**7d:** +2.1%  
+**30d:** -4.4%  
+**90d:** -34.9%  
+**1y:** +11.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $247.67B
+**Market Cap:** $245.98B
 Rank #2
 
 **Circulating Supply:** 120,691,323 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.5%
+-58.8%
 
 **All-Time Low:** $0.43
-+473756.7%
++470470.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Two months after Ethereum mainnet launched, Vitalik deployed a 3-contract on-chain arbitration system written in Serpent. We just verified all three with exact bytecode matches. The contracts: ArbiterRegistry (0x82afa2c4, block 301,954 - Sep 28, 2015) Arbiters pay 1+ ETH to list themselves as dispute mediators. The fee decays 50% per month using a 3rd-order Taylor series approximation, so inactive arbiters fall in the rankings automatically. Hardcoded EF withdrawal address. Someone called register() again in 2024 - still works. Arbitration (0xe881af13, block 303,316 + 0x7e2d0fe0, block 318,029) Smart escrow with designated arbiters. Two parties create a contract, designate arbiters, and funds auto-transfer when >50% of arbiters vote. Both parties can also instantly surrender to the other side. Vitalik tested it from both his dev address and vitalik.eth. The forensics: The source Vitalik later committed to ethereum/dapp-bin had one line wrong vs what he actually deployed. The ArbiterNotification log had its indexed arguments in reversed order. He fixed the arg order in git after shipping. The chain preserved the original - we had to catch that divergence to get an exact match. How we verified it: Not decompilation. We compiled forward: found the source in ethereum/dapp-bin, identified the exact Serpent compiler commit used (e5a5f875, Sep 26 2015), compiled it, and compared output byte-for-byte against the on-chain code. Full docs + live contract interaction (ABIs published): - https://ethereumhistory.com/contract/0x82afa2c4a686af9344e929f9821f3e8c6e9293ab - https://ethereumhistory.com/contract/0xe881af13bf55c97562fe8d2da2f6ea8e3ff66f98 Verification repos: - https://github.com/cartoonitunes/arbiter-reg-verification - https://github.com/cartoonitunes/arbitration-verification EthereumHistory is a free archive - if you find this useful, you can support it at ethereumhistory.com/donate
 
-18h ago
+19h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Building a community for the devs that are left](https://www.reddit.com/r/ethereum/comments/1s9o3mk/building_a_community_for_the_devs_that_are_left/)**
 
-🔗 [X (formerly Twitter)](https://x.com/0xCryptodevs/status/2039365286701175019) • 17h ago
+🔗 [X (formerly Twitter)](https://x.com/0xCryptodevs/status/2039365286701175019) • 19h ago
 
 ---
 
@@ -146,19 +146,17 @@ ZCHF is a decentralized stablecoin that is designed to track the value of the Sw
 
 ## Google News: "ethereum"
 
-**[Tether's USAT Stablecoin Expands Beyond Ethereum Mainnet to Celo](https://decrypt.co/362941/tethers-usat-stablecoin-expands-ethereum-mainnet-celo)**
-
-The Tether-backed USAT stablecoin built for the U.S. market is expanding to Ethereum layer-2 network Celo with help from Google Cloud.
-
-Decrypt • 1d ago
-
----
-
 **[Google Warns $100 Billion Of Ethereum Is At Risk From ‘Quantum Attack’](https://finance.yahoo.com/markets/crypto/articles/google-warns-100-billion-ethereum-133000804.html)**
 
 Google parent company Alphabet (NASDAQ: $GOOGL) is warning that $100 billion U.S. of Ethereum (CRYPTO: $ETH) is at ...
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Google Warns Quantum Computers Could Break Bitcoin and Ethereum in 9 Minutes — Should You Be Worried?](https://www.ccn.com/education/crypto/google-quantum-computers-break-bitcoin-ethereum-9-minutes-1-7m-btc-risk/)**
+
+CCN.com • 1d ago
 
 ---
 
@@ -170,9 +168,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Google Warns Quantum Computers Could Break Bitcoin and Ethereum in 9 Minutes — Should You Be Worried?](https://www.ccn.com/education/crypto/google-quantum-computers-break-bitcoin-ethereum-9-minutes-1-7m-btc-risk/)**
+**[Tether's USAT Stablecoin Expands Beyond Ethereum Mainnet to Celo](https://decrypt.co/362941/tethers-usat-stablecoin-expands-ethereum-mainnet-celo)**
 
-CCN.com • 1d ago
+The Tether-backed USAT stablecoin built for the U.S. market is expanding to Ethereum layer-2 network Celo with help from Google Cloud.
+
+Decrypt • 1d ago
 
 ---
 
@@ -188,7 +188,7 @@ Yahoo Finance • 1d ago
 
 Investors looking to bet on tokenization should think in phases, with institution-friendly networks like Canton likely winning first and Avalanche, Ethereum capturing more upside later, Grayscale's Zach Pandl said.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -196,7 +196,23 @@ CoinDesk • 18h ago
 
 Ethereum is currently trading above $2,100 at the start of the new month, but one analyst believes the asset’s next major directional move is based on a single price level: one that, if broken, would invalidate years of macro analysis and cause a price collapse to as low as $900.The Count That Has…
 
-TradingView • 9h ago
+tradingview.com • 10h ago
+
+---
+
+**[Current price of Ethereum for April 1, 2026](https://fortune.com/article/price-of-ethereum-04-01-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 22h ago
+
+---
+
+**[Why Ethereum is quietly becoming a key layer of Africa’s digital economy](https://africa.businessinsider.com/local/markets/why-ethereum-is-quietly-becoming-a-key-layer-of-africas-digital-economy/qrv474b)**
+
+#FeaturedPost
+
+Business Insider Africa • 2d ago
 
 ---
 
@@ -205,22 +221,6 @@ TradingView • 9h ago
 $42,081 has traded on "What price will Ethereum hit in April?" as of April 2, 2026. View real-time odds or trade on The World's Largest Prediction Market™
 
 Polymarket • 2d ago
-
----
-
-**[Current price of Ethereum for April 1, 2026](https://fortune.com/article/price-of-ethereum-04-01-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 21h ago
-
----
-
-**[Why Ethereum is quietly becoming a key layer of Africa’s digital economy](https://africa.businessinsider.com/local/markets/why-ethereum-is-quietly-becoming-a-key-layer-of-africas-digital-economy/qrv474b)**
-
-#FeaturedPost
-
-Business Insider Africa • 1d ago
 
 ---
 
@@ -234,7 +234,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEE
 
 📺 Altcoin Daily
 
-👁️ 23K • 👍 1K • 💬 100 • ⏱️ 10:45 • 11h ago
+👁️ 26K • 👍 2K • 💬 173 • ⏱️ 10:45 • 12h ago
 
 ---
 
@@ -244,17 +244,17 @@ GET THE BOOK: https://bullmania.com/book FREE TRAINING: https://www.bullmania.co
 
 📺 Ivan on Tech
 
-👁️ 1K • 👍 84 • 2h ago
+👁️ 6K • 👍 524 • 💬 25 • ⏱️ 56:09 • 1h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=6jEeJT0vai0)**
+**[Institutions Thirsty For ETH🔥MASSIVE Ethereum Update!🚀](https://www.youtube.com/watch?v=-ht1A0Z2vIU)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+This year's EthCC event in Cannes has fielded its first major announcement: the Ethereum Economic Zone. This new effort is ...
 
-📺 More Crypto Online
+📺 Paul Barron Network
 
-👁️ 580 • 👍 41 • 💬 2 • ⏱️ 4:53 • 8h ago
+👁️ 33K • 👍 2K • 💬 105 • ⏱️ 13:00 • 1d ago
 
 ---
 
@@ -268,33 +268,13 @@ New data shows the future of markets and crypto in general. Its important for bi
 
 ---
 
-**[Institutions Thirsty For ETH🔥MASSIVE Ethereum Update!🚀](https://www.youtube.com/watch?v=-ht1A0Z2vIU)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=6jEeJT0vai0)**
 
-This year's EthCC event in Cannes has fielded its first major announcement: the Ethereum Economic Zone. This new effort is ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Paul Barron Network
+📺 More Crypto Online
 
-👁️ 32K • 👍 2K • 💬 105 • ⏱️ 13:00 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum. Wieder nicht geschafft! Feuer frei in Richtung Süden!!?? immernoch 30k im Plus!](https://www.youtube.com/watch?v=7Q-T8MWVO7M)**
-
-Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
-
-📺 Krypto Trading & Investing
-
-👁️ 2K • 👍 460 • 💬 87 • ⏱️ 12:24 • 4h ago
-
----
-
-**[BlackRock &amp; JP Morgan are Building on Ethereum—Here’s Why](https://www.youtube.com/watch?v=8KiltqYa2Xg)**
-
-BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Join the Inner Circle for exclusive ...
-
-📺 Lark Davis
-
-👁️ 4K • 👍 92 • 💬 3 • ⏱️ 0:47 • 1d ago
+👁️ 844 • 👍 51 • 💬 3 • ⏱️ 4:53 • 9h ago
 
 ---
 
@@ -304,7 +284,37 @@ Hang in there everyone! The risk models that say when to accumulate or exit HERE
 
 📺 Dan Gambardello
 
-👁️ 10K • 👍 619 • 💬 212 • ⏱️ 13:49 • 1d ago
+👁️ 10K • 👍 621 • 💬 212 • ⏱️ 13:49 • 1d ago
+
+---
+
+**[BlackRock &amp; JP Morgan are Building on Ethereum—Here’s Why](https://www.youtube.com/watch?v=8KiltqYa2Xg)**
+
+BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Join the Inner Circle for exclusive ...
+
+📺 Lark Davis
+
+👁️ 4K • 👍 94 • 💬 4 • ⏱️ 0:47 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum. Wieder nicht geschafft! Feuer frei in Richtung Süden!!?? immernoch 30k im Plus!](https://www.youtube.com/watch?v=7Q-T8MWVO7M)**
+
+Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
+
+📺 Krypto Trading & Investing
+
+👁️ 3K • 👍 522 • 💬 67 • ⏱️ 12:24 • 5h ago
+
+---
+
+**[GPU Mining is BACK?! This Feels Like Ethereum Again (NOT CLICKBAIT)](https://www.youtube.com/watch?v=V_aqxhFYa3M)**
+
+Tangem Cold Storage Crypto Wallet https://geni.us/rpmtangem use code RPM for 10% off! ⛏️Mine RPMC here ...
+
+📺 Red Panda Mining
+
+👁️ 7K • 👍 629 • 💬 137 • ⏱️ 9:11 • 23h ago
 
 ---
 
@@ -314,17 +324,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 359 • 👍 12 • 💬 29 • ⏱️ 6:16 • 14h ago
-
----
-
-**[NEW BITCOIN PRICE TARGETS REVEALED (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=2nvgbUnK70Q)**
-
-NEW BITCOIN PRICE TARGETS REVEALED (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 3K • 👍 187 • 💬 185 • ⏱️ 15:43 • 9h ago
+👁️ 367 • 👍 13 • 💬 30 • ⏱️ 6:16 • 15h ago
 
 ---
 
