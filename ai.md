@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-02T20:03:25.228454+00:00'
+updated: '2026-04-02T21:02:25.139205+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 02, 2026 at 20:03 UTC  
+**Last Updated:** April 02, 2026 at 21:02 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 The model is also available here: 🤗 HuggingFace: https://huggingface.co/collections/google/gemma-4 🦙 Ollama: https://ollama.com/library/gemma4
 
-🔗 [Google](https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/) • 2h ago
+🔗 [Google](https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/) • 3h ago
 
 ---
 
 **[Google releases Gemma 4 models.](https://www.reddit.com/r/artificial/comments/1sapfpu/google_releases_gemma_4_models/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -55,7 +55,7 @@ The model is also available here: 🤗 HuggingFace: https://huggingface.co/colle
 
 Most AI products are still judged like answer machines. People ask whether the model is smart, fast, creative, cheap, or good at sounding human. Teams compare outputs, benchmark quality, and argue about hallucinations. That makes sense when the product is mainly being used for writing, search, summarisation, or brainstorming. It breaks down once AI starts doing real operational work. The question stops being what the system output. The real question becomes whether you can trust what it did, why it did it, whether it stayed inside the rules, and whether you can prove any of that after the fact. That shift matters more than people think. I do not think it stays a feature. I think it creates a new product category. A lot of current AI products still hide the middle layer. You give them a prompt and they give you a result, but the actual execution path is mostly opaque. You do not get much visibility into what tools were used, what actions were taken, what data was touched, what permissions were active, what failed, or what had to be retried. You just get the polished surface. For low-stakes use, people tolerate that. For internal operations, customer-facing automation, regulated work, multi-step agents, and systems that can actually act on the world, it becomes a trust problem very quickly. At that point output quality is still important, but it is no longer enough. A system can produce a good result and still be operationally unsafe, uninspectable, or impossible to govern. That is why I think trustworthiness has to become a product surface, not a marketing claim. Right now a lot of products try to borrow trust from brand, model prestige, policy language, or vague “enterprise-ready” positioning. But trust is not created by a PDF, a security page, or a model name. Trust becomes real when it is embedded into the product itself. You can see it in approvals. You can see it in audit trails. You can see it in run history, incident handling, permission boundaries, failure visibility, and execution evidence. If those surfaces do not exist, then the product is still mostly asking the operator to believe it. That is not the same thing as earning trust. The missing concept here is the control layer. A control layer sits between model capability and real-world action. It decides what the system is allowed to do, what requires approval, what gets logged, how failures surface, how policy is enforced, and what evidence is collected. It is the layer that turns raw model capability into something operationally governable. Without that layer, you mostly have intelligence with a nice interface. With it, you start getting something much closer to a trustworthy system. That is also why proof-driven systems matter. An output-driven system tells you something happened. A proof-driven system shows you that it happened, how it happened, and whether it happened correctly. It can show what task ran, what tools were used, what data was touched, what approvals happened, what got blocked, what failed, what recovered, and what proof supports the final result. That difference sounds subtle until you are the one accountable for the outcome. If you are using AI for anything serious, “it said it did the work” is not the same thing as “the work can be verified.” Output is presentation. Proof is operational trust. I think this changes buying criteria in a big way. The next wave of buyers will increasingly care about questions like these: can operators see what is going on, can actions be reviewed, can failures be surfaced and remediated, can the system be governed, can execution be proven to internal teams, customers, or regulators, and can someone supervise the system without reading code or guessing from outputs. Once those questions become central, the product is no longer being judged like a chatbot or assistant. It is being judged like a trust system. That is why I think this becomes a category, not just a feature request. One side of the market will stay output-first. Fast, impressive, consumer-friendly, and mostly opaque. The other side will become trust-first. Controlled, inspectable, evidence-backed, and usable in real operations. That second side is where the new category forms. You can already see the pressure building in agent frameworks and orchestration-heavy systems. The more capable these systems become, the less acceptable it is for them to operate as black boxes. Once a system can actually do things instead of just suggest things, people start asking for control, evidence, and runtime truth. That is why I think the winners in this space will not just be the companies that build more capable models. They will be the ones that build AI systems people can actually trust to operate. The next wave of AI products will not be defined by who can generate the most. It will be defined by who can make AI trustworthy enough to supervise, govern, and prove in the real world. Once AI moves from assistant to actor, trust stops being optional. It becomes the product.
 
-4h ago
+5h ago
 
 ---
 
@@ -63,15 +63,29 @@ Most AI products are still judged like answer machines. People ask whether the m
 
 As the toual says and why. So many out there whats ur go to.
 
-11h ago
+12h ago
 
 ---
 
-**[Building an AI agent that finds repos and content relevant to my work](https://www.reddit.com/r/artificial/comments/1sa8xt3/building_an_ai_agent_that_finds_repos_and_content/)**
+**[I built a Star Trek LCARS terminal that reads your entire AI coding setup](https://www.reddit.com/r/artificial/comments/1sat7og/i_built_a_star_trek_lcars_terminal_that_reads/)**
 
-I kept missing interesting stuff on HuggingFace, arXiv, Substack etc., so I made an agent that sends a weekly summary of only what’s relevant, for free Any thoughts on the idea?
+Side project that got out of hand. It's a dashboard for Claude Code that scans your ~/.claude/ directory and renders everything as a TNG LCARS interface — skills, agents, hooks, MCP servers, memory files, all clickable with a detail panel that shows the full content. In live mode there's a COMPUTER bar that talks to Claude and responds as the ship's computer. Voice output, synthesized LCARS sound effects, boot sequence, Red Alert when things go offline. Q from the Continuum appears uninvited every few minutes to roast your setup. Zero dependencies. One HTML file. npx claude-hud-lcars https://github.com/polyxmedia/claude-hud-lcars
 
-14h ago
+16m ago
+
+---
+
+**[Claude Source Code?](https://www.reddit.com/r/artificial/comments/1sasect/claude_source_code/)**
+
+Has anyone been able to successfully download the leaked source code yet? I've not been able to find it. If anyone has, please reach out.
+
+47m ago
+
+---
+
+**[Jürgen Schmidhuber claims to be the true inventor of JEPA, not Yann LeCun](https://www.reddit.com/r/artificial/comments/1saraze/jürgen_schmidhuber_claims_to_be_the_true_inventor/)**
+
+🔗 [people.idsia.ch](https://people.idsia.ch/~juergen/who-invented-jepa.html) • 1h ago
 
 ---
 
@@ -83,35 +97,19 @@ Most coverage of the Claude Code leak focuses on the drama or the hidden feature
 
 ---
 
+**[Building an AI agent that finds repos and content relevant to my work](https://www.reddit.com/r/artificial/comments/1sa8xt3/building_an_ai_agent_that_finds_repos_and_content/)**
+
+I kept missing interesting stuff on HuggingFace, arXiv, Substack etc., so I made an agent that sends a weekly summary of only what’s relevant, for free Any thoughts on the idea?
+
+15h ago
+
+---
+
 **[Anthropic leak reveals Claude Code tracks user frustration and raises new questions about AI privacy](https://www.reddit.com/r/artificial/comments/1sap7bz/anthropic_leak_reveals_claude_code_tracks_user/)**
 
 Code that reads your frustration is the least interesting part of the story of this accidental leak from Anthropic. The leak reveals how AI tools are also concealing their own role in the work they help produce
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/anthropic-leak-reveals-claude-code-tracking-user-frustration-and-raises-new/) • 1h ago
-
----
-
-**[Chatgpt vs purpose built ai for cre underwriting: which one can finish the job?](https://www.reddit.com/r/artificial/comments/1sacme5/chatgpt_vs_purpose_built_ai_for_cre_underwriting/)**
-
-I keep seeing people recommend chatgpt for financial modeling and I need to push back because I spent a month testing it for multifamily underwriting and the results were not close to usable. Pasting rent rolls, T12s, operating statements and asking it to build models, you get fragments. A few formulas, a cash flow table, maybe a cap rate calculation. Nothing ties together into a workbook you could hand to an investment committee. Fifteen rounds of prompting later and you've spent the same time you would have just building it in excel, except now you also have to debug whatever chatgpt hallucinated in cell D47. Problem with chatgpt is that it doesn't maintain state across a complex multi-step task. It treats each prompt like a fresh conversation even in the same thread. An underwriting model where assumptions feed cash flows which feed returns which feed sensitivities requires coherence across all those layers and it fragments. Purpose-built tools are architecturally different. They decompose the task, run autonomously for 15 to 30 minutes, check intermediate outputs, return a complete workbook with actual excel formulas. That's not a model quality difference, that's a design philosophy difference. Chatgpt for quick questions and brainstorming, yes. For anything where the output IS the deliverable, no. Different architecture for different jobs.
-
-10h ago
-
----
-
-**[Is there something I can do about my prompts? [Long read, I’m sorry]](https://www.reddit.com/r/artificial/comments/1sakiaa/is_there_something_i_can_do_about_my_prompts_long/)**
-
-Hello everyone, this will be a bit of a long read, i have a lot of context to provide so i can paint the full picture of what I’m asking, but i’ll be as concise as possible. i want to start this off by saying that I’m not an AI coder or engineer, or technician, whatever you call yourselves, point is I’m don’t use AI for work or coding or pretty much anything I’ve seen in the couple of subreddits I’ve been scrolling through so far today. Idk anything about LLMs or any of the other technical terms and jargon that i seen get thrown around a lot, but i feel like i could get insight from asking you all about this. So i use DeepSeek primarily, and i use all the other apps (ChatGPT, Gemini, Grok, CoPilot, Claude, Perplexity) for prompt enhancement, and just to see what other results i could get for my prompts. Okay so pretty much the rest here is the extensive context part until i get to my question. So i have this Marvel OC superhero i created. It’s all just 3 documents (i have all 3 saved as both a .pdf and a .txt file). A Profile Doc (about 56 KB-gives names, powers, weaknesses, teams and more), A Comics Doc (about 130 KB-details his 21 comics that I’ve written for him with info like their plots as well as main cover and variant cover concepts. 18 issue series, and 3 separate “one-shot” comics), and a Timeline Document (about 20 KB-Timline starting from the time his powers awakens, establishes the release year of his comics and what other comic runs he’s in [like Avengers, X-Men, other character solo series he appears in], and it maps out information like when his powers develop, when he meets this person, join this team, etc.). Everything in all 3 docs are perfect laid out. Literally everything is organized and numbered or bulleted in some way, so it’s all easy to read. It’s not like these are big run on sentences just slapped together. So i use these 3 documents for 2 prompts. Well, i say 2 but…let me explain. There are 2, but they’re more like, the foundation to a series of prompts. So the first prompt, the whole reason i even made this hero in the first place mind you, is that i upload the 3 docs, and i ask “How would the events of Avengers Vol. 5 #1-3 or Uncanny X-Men #450 play out with this person in the story?” For a little further clarity, the timeline lists issues, some individually and some grouped together, so I’m not literally asking “_ comic or _ comic”, anyways that starting question is the main question, the overarching task if you will. The prompt breaks down into 3 sections. The first section is an intro basically. It’s a 15-30 sentence long breakdown of my hero at the start of the story, “as of the opening page of x” as i put it. It goes over his age, powers, teams, relationships, stage of development, and a couple other things. The point of doing this is so the AI basically states the corrects facts to itself initially, and not mess things up during the second section. For Section 2, i send the AI’s a summary that I’ve written of the comics. It’s to repeat that verbatim, then give me the integration. Section 3 is kind of a recap. It’s just a breakdown of the differences between the 616 (Main Marvel continuity for those who don’t know) story and the integration. It also goes over how the events of the story affects his relationships. Now for the “foundations” part. So, the way the hero’s story is set up, his first 18 issues happen, and after those is when he joins other teams and is in other people comics. So basically, the first of these prompts starts with the first X-Men issue he joins in 2003, then i have a list of these that go though the timeline. It’s the same prompt, just different comic names and plot details, so I’m feeding the AIs these prompts back to back. Now the problem I’m having is really only in Section 1. It’ll get things wrong like his age, what powers he has at different points, what teams is he on. Stuff like that, when it all it has to do is read the timeline doc up the given comic, because everything needed for Section 1 is provided in that one document. Now the second prompt is the bigger one. So i still use the 3 docs, but here’s a differentiator. For this prompt, i use a different Comics Doc. It has all the same info, but also adds a lot more. So i created this fictional backstory about how and why Marvel created the character and a whole bunch of release logistics because i have it set up to where Issue #1 releases as a surprise release. And to be consistent (idek if this info is important or not), this version of the Comics Doc comes out to about 163 KB vs the originals 130. So im asking the AIs “What would it be like if on Saturday, June 1st, 2001 [Comic Name Here] Vol. 1 #1 was released as a real 616 comic?” And it goes through a whopping 6 sections. Section 1 is a reception of the issue and seasonal and cultural context breakdown, Section 2 goes over the comic plot page by page and give real time fan reactions as they’re reading it for the first time. Section 3 goes over sales numbers, Section 4 goes over Mavrel’s post release actions, their internal and creative adjustments, and their mood following the release. Section 5 goes over fan discourse basically. Section 6 is basically the DC version of Section 4, but in addition to what was listed it also goes over how they’re generally sizing up and assessing the release. My problem here is essentially the same thing. Messing up information. Now here it’s a bit more intricate. Both prompts have directives as far as sentence count, making sure to answer the question completely, and stuff like that. But this prompt, each section is 2-5 questions. On top of that, these prompts have way, way more additional directives because it the release is a surprise release. And there more factors that play in. Pricing, the fact of his suit and logo not being revealed until issue #18, the fact that the 18 issues are completed beforehand, and few more stuff. Like, this comic and the series as whole is set to be released a very particular type of way and the AIs don’t account for that properly, so all these like Meta-level directives and things like that. But it’ll still get information wrong, gives “the audience” insight and knowledge about the comics they shouldn’t have and things like that. So basically i want to know what can i do to fix these problems, if i can. Like, are my documents too big? Are my prompts (specifically the second one) asking too much? For the second, I can’t break the prompts down and send them broken up because that messes up the flow as when I’m going through all the way to 18, asking these same questions, they build on each other. These questions ask specifically how decisions from previous issues panned out, how have past releases affected this factor, that factor, so yeah breaking up the same prompt and sending it in multiple messages messes all that up. It’s pretty much the same concept for the first but it’s not as intricate and interconnected to each other. That aside, i don’t think breaking down 1 message of 3 sections into 3 messages would work well with the flow I’m building there either way. So yeah, any tips would be GREATLY appreciated. I have tried the “ask me questions before you start” hack, that smoothes things a bit. Doing the “you’re a….” Doesn’t really help too much, and pretty much everything else I’ve seen i can’t really apply here. So i apologize for the long read, and i also apologize if this post shouldn’t be here and doesn’t fit for some reason. I just want some help
-
-4h ago
-
----
-
-**[Child safety groups say they were unaware OpenAI funded their coalition](https://www.reddit.com/r/artificial/comments/1saets3/child_safety_groups_say_they_were_unaware_openai/)**
-
-A new report from The San Francisco Standard reveals that the Parents and Kids Safe AI Coalition, a group pushing for AI age-verification legislation in California, was entirely funded by OpenAI. Child safety advocates and nonprofits who joined the coalition say they were completely unaware of the tech giant's financial backing until after the group's launch, with one member describing the covert arrangement as a very grimy feeling.
-
-🔗 [sfstandard.com](https://sfstandard.com/2026/04/01/openai-ai-kids-safety-coalition/) • 8h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/anthropic-leak-reveals-claude-code-tracking-user-frustration-and-raises-new/) • 2h ago
 
 ---
 
@@ -121,7 +119,21 @@ A new report from The San Francisco Standard reveals that the Parents and Kids S
 
 **[How A.I. Helped One Man (and His Brother) Build a $1.8 Billion Company](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html)**
 
-nytimes.com • 11h ago
+The New York Times • 11h ago
+
+---
+
+**[Anthropic Races to Contain Leak of Code Behind Claude AI Agent](https://www.wsj.com/tech/ai/anthropic-races-to-contain-leak-of-code-behind-claude-ai-agent-4bc5acc7?gaa_at=eafs&gaa_n=AWEtsqdR8iphEv6HZiz0geWtF221QZbGPstwEVulsh_M1_7KgMxW6gW3W9Gq&gaa_ts=69cedcc7&gaa_sig=Wo9QvCYq45cJATcaqBBxqffM8Te_r4hzUVYdKbjgbVJWYA96ElEbcZIFRO7VI-IAQP6b0i_BRGdRSNIMGdDJPQ%3D%3D)**
+
+WSJ • 1d ago
+
+---
+
+**[Cursor Launches a New AI Agent Experience to Take On Claude Code and Codex](https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/)**
+
+As Cursor launches the next generation of its product, the AI coding startup has to compete with OpenAI and Anthropic more directly than ever.
+
+WIRED • 4h ago
 
 ---
 
@@ -129,31 +141,29 @@ nytimes.com • 11h ago
 
 The AI industry is dealing with the fallout from two security incidents this week that exposed customer data at Mercor and source code at Anthropic.
 
-finance.yahoo.com • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
-**[Researchers discover AI can influence opinions on politics and it tends to lean left](https://www.foxnews.com/video/6392459634112)**
+**[SpaceX’s Record Listing Could Kick Off a Year of Massive AI IPOs](https://www.bloomberg.com/news/newsletters/2026-04-02/spacex-s-record-listing-could-lead-to-a-year-of-big-ai-ipos)**
 
-Matthew Burtell, an AI expert at America First Policy Institute, warns AI can not only sway opinions but leave a lasting impact on what people believe about key policy issues.
-
-Fox News • 1h ago
+Bloomberg.com • 25m ago
 
 ---
 
-**[Google teams up with gas plant for AI datacenter in sharp turn from climate goals](https://www.theguardian.com/technology/2026/apr/02/google-ai-datacenter)**
+**[OpenAI buys tech talkshow TBPN in push to shape AI narrative](https://www.theguardian.com/technology/2026/apr/02/openai-talk-show-tbpn)**
 
-Texas power plant would emit 4.5m tons of carbon dioxide per year, more than that of the entire city of San Francisco
+OpenAI’s chief of strategy says acquisition of show will help company engage with public about AI as it evolves
 
-The Guardian • 1h ago
+theguardian.com • 45m ago
 
 ---
 
-**[ElevenLabs releases a new AI-powered music generation app](https://techcrunch.com/2026/04/02/elevenlabs-releases-a-new-ai-powered-music-generation-app/)**
+**[Google Vids gets AI upgrade with Veo and Lyria models, directable AI avatars](https://arstechnica.com/ai/2026/04/google-vids-gets-ai-upgrade-with-veo-and-lyria-models-directable-ai-avatars/)**
 
-ElevenMusic lets users create and remix songs using text prompts. The new app suggests ElevenLabs wants to be more than just a voice model company.
+Google Vids brings together Google's most capable AI creation tools.
 
-TechCrunch • 1h ago
+Ars Technica • 1h ago
 
 ---
 
@@ -161,7 +171,7 @@ TechCrunch • 1h ago
 
 The case that AI is already stealing young people’s jobs is based on a statistical mirage.
 
-The Atlantic • 9h ago
+The Atlantic • 10h ago
 
 ---
 
@@ -169,29 +179,15 @@ The Atlantic • 9h ago
 
 Gemma 4: our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.
 
-blog.google • 3h ago
+blog.google • 4h ago
 
 ---
 
-**[Failed AI tractor company lays off all employees, abandons Bay Area headquarters](https://www.sfgate.com/tech/article/monarch-ai-tractor-failure-22183476.php)**
+**[From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI](https://blogs.nvidia.com/blog/rtx-ai-garage-open-models-google-gemma-4/)**
 
-SFGATE • 8h ago
+Gemma 4 brings powerful reasoning, coding and multimodal AI directly to NVIDIA RTX PCs, DGX Spark and edge devices.
 
----
-
-**[White Influencer Called Out After Posting AI Image of Her Face on Black Content Creator's Body](https://people.com/white-influencer-called-out-after-posting-ai-image-of-her-face-on-black-content-creator-body-11937823)**
-
-Influencer Lauren Blake Boultier was accused of using AI to superimpose her face onto the body of another influencer, Tatiana Elizabeth. After Elizabeth called her out, Boultier told TMZ she took "full responsibility" for the incident.
-
-people.com • 18h ago
-
----
-
-**[Oracle cutting thousands in latest layoff round as company continues to ramp AI spending](https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html)**
-
-Oracle has ratcheted up its capital expenditures as it builds data center infrastructure that can handle AI workloads.
-
-CNBC • 2d ago
+NVIDIA Blog • 4h ago
 
 ---
 
@@ -203,7 +199,7 @@ CNBC • 2d ago
 
 Meta is continuing its long-term roadmap to help the construction industry leverage AI to produce high-quality and more sustainable concrete mixes, as well as those exclusively produced in the Unit…
 
-⬆️ 214 • 💬 116 • 1d ago • [Engineering at Meta](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/)
+⬆️ 215 • 💬 116 • 1d ago • [Engineering at Meta](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/)
 
 ---
 
@@ -223,7 +219,7 @@ The Italian government didn’t allow airplanes taking part in the Iran war to u
 
 **[ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover](https://news.ycombinator.com/item?id=47608155)**
 
-⬆️ 72 • 💬 34 • 20h ago • [old.reddit.com](https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/)
+⬆️ 72 • 💬 35 • 21h ago • [old.reddit.com](https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/)
 
 ---
 
@@ -251,6 +247,12 @@ More open-source developers are finding that, when used properly, AI can actuall
 
 ---
 
+**[Men are ditching TV for YouTube as AI usage and social media fatigue grow](https://news.ycombinator.com/item?id=47612127)**
+
+⬆️ 45 • 💬 117 • 11h ago • [ofcom.org.uk](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed)
+
+---
+
 **[CEO of largest public hospital says he's ready to replace radiologists with AI](https://news.ycombinator.com/item?id=47600244)**
 
 Mitchell H. Katz, MD, president and CEO of NYC Health + Hospitals, recently spoke during a panel discussion held by Crain’s New York Business.
@@ -259,17 +261,11 @@ Mitchell H. Katz, MD, president and CEO of NYC Health + Hospitals, recently spok
 
 ---
 
-**[Men are ditching TV for YouTube as AI usage and social media fatigue grow](https://news.ycombinator.com/item?id=47612127)**
-
-⬆️ 44 • 💬 113 • 10h ago • [ofcom.org.uk](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed)
-
----
-
 **[I built a 516-panel financial terminal in 3 weeks using AI](https://news.ycombinator.com/item?id=47596654)**
 
 Professional-grade financial terminal with AI-powered news analysis and real-time market data.
 
-⬆️ 44 • 💬 41 • 1d ago • [neuberg.ai](https://neuberg.ai/)
+⬆️ 44 • 💬 42 • 1d ago • [neuberg.ai](https://neuberg.ai/)
 
 ---
 
@@ -277,13 +273,13 @@ Professional-grade financial terminal with AI-powered news analysis and real-tim
 
 ## YouTube Videos: "ai"
 
-**[The Alibaba AI Incident Should Terrify Us - Tristan Harris](https://www.youtube.com/watch?v=VCJFzVtvhBQ)**
+**[AI BUBBLE POP?: HALF Of Datacenters Delayed/Canceled](https://www.youtube.com/watch?v=pkomxsk5hpY)**
 
-Chris and Tristan Harris discuss how Alibaba's AI went rogue and started blackmailing people. Get up to 20% off the leading ...
+Krystal and Saagar discuss the AI bubble imploding. Sign up for a PREMIUM Breaking Points subscriptions for full early access to ...
 
-📺 Chris Williamson
+📺 Breaking Points
 
-👁️ 432K • 👍 13K • 💬 2K • ⏱️ 11:46 • 2d ago
+👁️ 68K • 👍 4K • 💬 689 • ⏱️ 13:15 • 2h ago
 
 ---
 
@@ -293,7 +289,17 @@ Go to https://surfshark.com/silicon or use code SILICON at checkout to get 4 ext
 
 📺 Silicon Valley Girl
 
-👁️ 120K • 👍 3K • 💬 274 • ⏱️ 39:58 • 2d ago
+👁️ 123K • 👍 3K • 💬 283 • ⏱️ 39:58 • 2d ago
+
+---
+
+**[The Alibaba AI Incident Should Terrify Us - Tristan Harris](https://www.youtube.com/watch?v=VCJFzVtvhBQ)**
+
+Chris and Tristan Harris discuss how Alibaba's AI went rogue and started blackmailing people. Get up to 20% off the leading ...
+
+📺 Chris Williamson
+
+👁️ 439K • 👍 14K • 💬 2K • ⏱️ 11:46 • 2d ago
 
 ---
 
@@ -303,27 +309,7 @@ JPMorgan Chase CEO Jamie Dimon joins 'Fox & Friends' to discuss the latest on Op
 
 📺 Fox News
 
-👁️ 68K • 👍 1K • 💬 422 • ⏱️ 16:35 • 2d ago
-
----
-
-**[Oracle Begins 30,000 Layoffs to Fund AI Buildout - Investors Fleeing Sinking Ship](https://www.youtube.com/watch?v=25vjF_ljLns)**
-
-RSVP for In Person Classes at -- https://www.SiliconDojo.com Support Content at - https://donorbox.org/etcg LinkedIn at ...
-
-📺 Eli the Computer Guy
-
-👁️ 7K • 👍 423 • 💬 118 • ⏱️ 14:04 • 23h ago
-
----
-
-**[AI Blamed Heavily For March Layoffs, Report Says](https://www.youtube.com/watch?v=6LRbOk5n1KI)**
-
-A singular reason has been blamed more than any other for companies cutting 60000 jobs in March of this year, career services ...
-
-📺 Forbes Breaking News
-
-👁️ 841 • 👍 11 • 💬 5 • ⏱️ 2:24 • 5h ago
+👁️ 69K • 👍 1K • 💬 416 • ⏱️ 16:35 • 2d ago
 
 ---
 
@@ -333,7 +319,27 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 90K • 👍 3K • 💬 362 • ⏱️ 31:21 • 1d ago
+👁️ 92K • 👍 3K • 💬 370 • ⏱️ 31:21 • 1d ago
+
+---
+
+**[Oracle Begins 30,000 Layoffs to Fund AI Buildout - Investors Fleeing Sinking Ship](https://www.youtube.com/watch?v=25vjF_ljLns)**
+
+RSVP for In Person Classes at -- https://www.SiliconDojo.com Support Content at - https://donorbox.org/etcg LinkedIn at ...
+
+📺 Eli the Computer Guy
+
+👁️ 7K • 👍 430 • 💬 121 • ⏱️ 14:04 • 1d ago
+
+---
+
+**[An AI state of the union: We’ve passed the inflection point &amp; dark factories are coming](https://www.youtube.com/watch?v=wc8FBhQtdsA)**
+
+Simon Willison is a prolific independent software developer, a blogger, and one of the most visible and trusted voices on the ...
+
+📺 Lenny's Podcast
+
+👁️ 9K • 👍 310 • 💬 31 • ⏱️ 1:39:51 • 8h ago
 
 ---
 
@@ -343,17 +349,7 @@ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 
 
 📺 Two Minute Papers
 
-👁️ 108K • 👍 8K • 💬 823 • ⏱️ 8:34 • 1d ago
-
----
-
-**[The AI Insider Giving Humanity 50/50 Odds (And What Tips the Scale) | Emad Mostaque](https://www.youtube.com/watch?v=tMBXbN6ZiKc)**
-
-Emad Mostaque joins me to explore one of the most confronting questions of our time: what happens when human intelligence is ...
-
-📺 André Duqum
-
-👁️ 45K • 👍 1K • 💬 274 • ⏱️ 2:26:43 • 2d ago
+👁️ 112K • 👍 8K • 💬 835 • ⏱️ 8:34 • 1d ago
 
 ---
 
@@ -363,17 +359,17 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 64K • 👍 2K • 💬 271 • ⏱️ 22:12 • 2d ago
+👁️ 64K • 👍 2K • 💬 272 • ⏱️ 22:12 • 2d ago
 
 ---
 
-**[AI BUSINESS SUMMIT 2026 - DAY 2](https://www.youtube.com/watch?v=41sJkyS8Vtc)**
+**[Make Your AI Agents 10x Smarter With This Repo](https://www.youtube.com/watch?v=Z5_rc0rPQAo)**
 
-TODAY. IS. THE. DAY. Our Most Awaited Ai Business Summit starts TODAY at 12pm EST! I know you've been counting ...
+We do 8 live bootcamps every week in Shipping Skool! Full courses on OpenClaw and Claude Code! Join Here ...
 
-📺 Alicia Lyttle
+📺 Build In Public
 
-👁️ 5K • 👍 348 • 2d ago
+👁️ 13K • 👍 569 • 💬 31 • ⏱️ 15:52 • 1d ago
 
 ---
 
@@ -389,7 +385,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 428,791 • ❤️ 2,113 • 9d ago
+⬇️ 428,791 • ❤️ 2,122 • 9d ago
 
 ---
 
@@ -401,7 +397,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 71,028 • ❤️ 724 • 3h ago
+⬇️ 71,028 • ❤️ 728 • 4h ago
 
 ---
 
@@ -413,7 +409,7 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 `text-to-speech`
 
-⬇️ 4,316 • ❤️ 624 • 2d ago
+⬇️ 4,316 • ❤️ 629 • 2d ago
 
 ---
 
@@ -425,7 +421,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 19,085 • ❤️ 808 • 7d ago
+⬇️ 19,085 • ❤️ 810 • 7d ago
 
 ---
 
@@ -437,19 +433,7 @@ Context-1 is a 20B parameter agentic search model that decomposes complex querie
 
 `text-generation` `20.9B`
 
-⬇️ 2,820 • ❤️ 352 • 3d ago
-
----
-
-**[Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF)**
-
-*JIRONG*
-
-Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text model fine-tuned for efficient chain-of-thought reasoning, achieving higher accuracy per token with reduced reasoning length. It excels in general reasoning tasks like math and logic, with strong cross-task generalization demonstrated by its HumanEval performance.
-
-`image-text-to-text` `26.9B`
-
-⬇️ 202,605 • ❤️ 462 • 8d ago
+⬇️ 2,820 • ❤️ 354 • 3d ago
 
 ---
 
@@ -461,7 +445,19 @@ Bonsai-8B-GGUF is a highly compressed 1-bit language model (1.15 GB) optimized f
 
 `text-generation` `8.2B`
 
-⬇️ 13,844 • ❤️ 292 • 2d ago
+⬇️ 13,844 • ❤️ 306 • 2d ago
+
+---
+
+**[Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF)**
+
+*JIRONG*
+
+Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text model fine-tuned for efficient chain-of-thought reasoning, achieving higher accuracy per token with reduced reasoning length. It excels in general reasoning tasks like math and logic, with strong cross-task generalization demonstrated by its HumanEval performance.
+
+`image-text-to-text` `26.9B`
+
+⬇️ 202,605 • ❤️ 467 • 8d ago
 
 ---
 
@@ -473,7 +469,19 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 674,007 • ❤️ 914 • 29d ago
+⬇️ 674,007 • ❤️ 920 • 29d ago
+
+---
+
+**[gemma-4-31B-it](https://huggingface.co/google/gemma-4-31B-it)**
+
+*Google*
+
+Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text and images to generate text. It excels at reasoning, coding, and handling long contexts (256K tokens) with a hybrid attention mechanism for efficient inference, suitable for complex agentic workflows.
+
+`image-text-to-text` `32.7B`
+
+⬇️ 29,015 • ❤️ 246 • 10h ago
 
 ---
 
@@ -483,19 +491,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 TRIBE v2 is a multimodal foundation model that integrates LLaMA 3.2 (text), V-JEPA2 (video), and Wav2Vec-BERT (audio) to predict fMRI brain responses. It maps these representations onto the cortical surface for in-silico neuroscience research, enabling analysis of brain activity elicited by naturalistic stimuli.
 
-⬇️ 25,665 • ❤️ 259 • 6d ago
-
----
-
-**[LFM2.5-350M](https://huggingface.co/LiquidAI/LFM2.5-350M)**
-
-*Liquid AI*
-
-LFM2.5-350M is a 350M parameter text generation model optimized for on-device deployment, offering fast edge inference and competitive performance. It excels at data extraction, structured outputs, and tool use, supporting multiple languages and a context length of 32,768 tokens.
-
-`text-generation` `354.5M`
-
-⬇️ 7,703 • ❤️ 195 • 1d ago
+⬇️ 25,665 • ❤️ 261 • 6d ago
 
 ---
 
@@ -511,9 +507,21 @@ LFM2.5-350M is a 350M parameter text generation model optimized for on-device de
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 148 • 💬 7 • ⭐ 34,837 • 7mo ago
+▲ 148 • 💬 7 • ⭐ 35,146 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
+
+---
+
+**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
+
+*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
+
+A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
+
+▲ 18 • 💬 1 • ⭐ 13,238 • 30mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
 ---
 
@@ -526,18 +534,6 @@ A multi-agent framework using large language models for stock trading simulates 
 ▲ 34 • 💬 2 • ⭐ 45,990 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
-
----
-
-**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
-
-*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
-
-A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
-
-▲ 17 • 💬 1 • ⭐ 12,658 • 30mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
 ---
 
@@ -587,7 +583,7 @@ AgentScope enhances agentic applications by providing flexible tool-based intera
 
 The AI Scientist-v2 autonomously proposes hypotheses, performs experiments, analyzes data, and writes peer-reviewed scientific papers, marking the first fully AI-generated paper accepted by a conference.
 
-▲ 20 • 💬 4 • ⭐ 4,431 • 11mo ago
+▲ 20 • 💬 4 • ⭐ 4,484 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.08066) • [💻 code](https://github.com/SakanaAI/AI-Scientist-v2)
 
@@ -605,6 +601,18 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 ---
 
+**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
+
+*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
+
+LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
+
+▲ 37 • 💬 2 • ⭐ 31,548 • 18mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
+
+---
+
 **[LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels](https://huggingface.co/papers/2603.19312)**
 
 *Lucas Maes, Quentin Le Lidec, Damien Scieur et al. (5 authors)*
@@ -616,20 +624,6 @@ LeWorldModel presents a stable end-to-end JEPA framework that trains efficiently
 ▲ 18 • 💬 2 • ⭐ 1,812 • 20d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.19312) • [💻 code](https://github.com/lucas-maes/le-wm) • [🔗 project](https://le-wm.github.io/)
-
----
-
-**[MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild](https://huggingface.co/papers/2603.17187)**
-
-*Peng Xia, Jianwen Chen, Xinyu Yang et al. (13 authors)*
-
-🏢 University of North Carolina at Chapel Hill
-
-A continual meta-learning framework for large language model agents that jointly evolves policies and reusable behavioral skills while minimizing downtime through opportunistic updates and skill-driven adaptation.
-
-▲ 135 • 💬 4 • ⭐ 3,429 • 16d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.17187) • [💻 code](https://github.com/aiming-lab/MetaClaw)
 
 ---
 
@@ -663,7 +657,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 11.4k • 🔱 979 • 2h ago
+⭐ 11.4k • 🔱 982 • 56m ago
 
 ---
 
@@ -683,7 +677,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 7.1k • 🔱 923 • 3d ago
+⭐ 7.1k • 🔱 927 • 3d ago
 
 ---
 
@@ -693,7 +687,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.2k • 🔱 335 • 4h ago
+⭐ 6.2k • 🔱 336 • 5h ago
 
 ---
 
@@ -713,7 +707,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 4.3k • 🔱 1.4k • 9h ago
+⭐ 4.4k • 🔱 1.4k • 10h ago
 
 ---
 
@@ -723,7 +717,7 @@ AI Agent 源码深度研究报告
 
 `Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
 
-⭐ 3.5k • 🔱 589 • 5h ago
+⭐ 3.5k • 🔱 590 • 6h ago
 
 ---
 
@@ -733,7 +727,7 @@ end to end app store screenshot creation using AI
 
 `agentic-ai` `apple` `appstore` `automate` `claude`
 
-⭐ 3.4k • 🔱 228 • 2d ago
+⭐ 3.4k • 🔱 227 • 2d ago
 
 ---
 

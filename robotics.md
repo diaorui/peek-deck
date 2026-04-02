@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-02T20:03:25.246507+00:00'
+updated: '2026-04-02T21:02:25.157069+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 02, 2026 at 20:03 UTC  
+**Last Updated:** April 02, 2026 at 21:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,21 +32,27 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[building a desktop robot. turns out response timing and lip sync matter way more than the LLM itself for HRI.](https://www.reddit.com/r/robotics/comments/1sajyvt/building_a_desktop_robot_turns_out_response/)**
-
-been working on this little desktop robot prototype called Kitto for a while now. honestly most of the hype right now is just cramming the biggest model possible into a plastic shell. but testing the interaction on this thing... if the timing is off it just feels like a glorified smart speaker. to make it actually feel 'alive' on a desk, the idle animations and the instant switch to a listening state carry like 90% of the weight. tbh we ended up spending way more time tuning the audio-to-viseme mapping for the face than we did tweaking the actual API prompts. current stack is just an esp32s3+esp32p4 (planning to migrate to a linux board soon so we can handle local processing and maybe hook into openclaw). the screen isnt playing pre-rendered video files btw. the mouth movements are code-driven in real-time by analyzing the audio stream. latency is still my biggest headache though. pinging the api, getting the TTS audio back, and triggering the animation states fast enough to not break the illusion is tough on this hardware. its getting there but still a lot of code to fix. definately not pitching this as finished hardware yet, mostly just looking for honest feedback on the HRI approach. curious how you guys are handling TTS latency in your own conversational builds right now?
+**[Autonomous valet robot demonstrating precise self-parking in a real-world setting](https://www.reddit.com/r/robotics/comments/1san0l2/autonomous_valet_robot_demonstrating_precise/)**
 
 4h ago
 
 ---
 
-**[Autonomous valet robot demonstrating precise self-parking in a real-world setting](https://www.reddit.com/r/robotics/comments/1san0l2/autonomous_valet_robot_demonstrating_precise/)**
+**[building a desktop robot. turns out response timing and lip sync matter way more than the LLM itself for HRI.](https://www.reddit.com/r/robotics/comments/1sajyvt/building_a_desktop_robot_turns_out_response/)**
+
+been working on this little desktop robot prototype called Kitto for a while now. honestly most of the hype right now is just cramming the biggest model possible into a plastic shell. but testing the interaction on this thing... if the timing is off it just feels like a glorified smart speaker. to make it actually feel 'alive' on a desk, the idle animations and the instant switch to a listening state carry like 90% of the weight. tbh we ended up spending way more time tuning the audio-to-viseme mapping for the face than we did tweaking the actual API prompts. current stack is just an esp32s3+esp32p4 (planning to migrate to a linux board soon so we can handle local processing and maybe hook into openclaw). the screen isnt playing pre-rendered video files btw. the mouth movements are code-driven in real-time by analyzing the audio stream. latency is still my biggest headache though. pinging the api, getting the TTS audio back, and triggering the animation states fast enough to not break the illusion is tough on this hardware. its getting there but still a lot of code to fix. definately not pitching this as finished hardware yet, mostly just looking for honest feedback on the HRI approach. curious how you guys are handling TTS latency in your own conversational builds right now?
+
+5h ago
+
+---
+
+**[Generalist | Introducing GEN-1](https://www.reddit.com/r/robotics/comments/1saoiaj/generalist_introducing_gen1/)**
 
 3h ago
 
 ---
 
-**[Generalist | Introducing GEN-1](https://www.reddit.com/r/robotics/comments/1saoiaj/generalist_introducing_gen1/)**
+**[Robotics Studio](https://www.reddit.com/r/robotics/comments/1sapdsp/robotics_studio/)**
 
 2h ago
 
@@ -54,27 +60,13 @@ been working on this little desktop robot prototype called Kitto for a while now
 
 **["Follow Me" Mode: Real-time human tracking with YOLOv8](https://www.reddit.com/r/robotics/comments/1sac61n/follow_me_mode_realtime_human_tracking_with_yolov8/)**
 
-11h ago
-
----
-
-**[Robotics Studio](https://www.reddit.com/r/robotics/comments/1sapdsp/robotics_studio/)**
-
-1h ago
+12h ago
 
 ---
 
 **[China announces its first automated manufacturing line capable of producing 10K humanoid robots per year - 1 robot every 30 minutes](https://www.reddit.com/r/robotics/comments/1s9qso0/china_announces_its_first_automated_manufacturing/)**
 
 1d ago
-
----
-
-**[Help](https://www.reddit.com/r/robotics/comments/1saqy8p/help/)**
-
-hello have a task to draw a tennis racket trajectory during a stroke. the racket has an imu How can i do that ? been struggling with estimating position from it
-
-42m ago
 
 ---
 
@@ -88,21 +80,43 @@ hello have a task to draw a tennis racket trajectory during a stroke. the racket
 
 Has anyone seen an estimate for the number of submissions this year? I could not find an official announcement. Maybe the submission IDs could give a rough idea.
 
-8h ago
+9h ago
 
 ---
 
-**[Prof telling me to help with a rebuttal while not being a author](https://www.reddit.com/r/robotics/comments/1saocvg/prof_telling_me_to_help_with_a_rebuttal_while_not/)**
+**[I made my robot wal JUST LIKE BAYMAX](https://www.reddit.com/r/robotics/comments/1sabqhy/i_made_my_robot_wal_just_like_baymax/)**
 
-I'm a master's student and part of a robotics lab. Recently my proffesor submitted a paper for RA-L where primary authors are different people in the same lab. Some days ago their rebuttal came asking for a through experimentation and new baselines. Since our lab is really new nobody knows how to implement hardware here. One guy did the hardware implementation but then he did lab exit and went for his PhD. Now my proff is asking me to do the hardware implementation for all Baselines and saying he will put my name and that it will be good for my cv. Honestly, doing their work would require lots of effort and I'm not sure to do it for some 3rd,4th authorship which I'm not even sure is allowed. I want to do a phd after my masters but I'm not sure this authorship would do me any good. I'm not sure what to do in my case and thus I turned to reddit. Did anybody faced this before? What did you guys do?
+it uses only two motors to walk unlike most other bipedal robots. What do you guys think? Also I just made the base and hand for now ! https://www.youtube.com/watch?v=InKbSM_C5Xc
 
-2h ago
+12h ago
+
+---
+
+**[LLMs in industrial robotics workflows](https://www.reddit.com/r/robotics/comments/1sag8h6/llms_in_industrial_robotics_workflows/)**
+
+LLMs are being used in industrial robotics to generate robot motion code, PLC logic, and supporting automation scripts from natural language inputs. The primary application is in repetitive tasks such as sequencing, template generation, and initial system configuration. Outputs are reviewed, tested, and refined by engineers before deployment. When combined with simulation, this allows portions of robotic systems to be developed and tested prior to full hardware availability, reducing reliance on sequential commissioning.
+
+🔗 [Automate](https://www.automate.org/ai/industry-insights/accelerating-industrial-automation-with-llms) • 8h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[Generalist Is Betting Its Robot-Training Gloves Will Usher In Robotics’ ChatGPT Moment](https://www.forbes.com/sites/annatong/2026/04/02/generalist-is-betting-its-robot-training-gloves-will-usher-in-robotics-chatgpt-moment/)**
+
+Forbes • 10h ago
+
+---
+
+**[Sanctuary AI’s robotic hand demonstrates zero-shot in-hand manipulation](https://www.therobotreport.com/sanctuary-ais-robotic-hand-demonstrates-zero-shot-in-hand-manipulation/)**
+
+Sanctuary AI said the robotic hand and AI system achieves the target orientation 10 times in a row without dropping the cube.
+
+The Robot Report • 2h ago
+
+---
 
 **[Station Crew Works Robotics, Research as Artemis II Launch Preps Continue](https://www.nasa.gov/blogs/general-blog/2026/04/01/station-crew-works-robotics-research-as-artemis-ii-launch-preps-continue/)**
 
@@ -112,9 +126,11 @@ NASA (.gov) • 1d ago
 
 ---
 
-**[Generalist Is Betting Its Robot-Training Gloves Will Usher In Robotics’ ChatGPT Moment](https://www.forbes.com/sites/annatong/2026/04/02/generalist-is-betting-its-robot-training-gloves-will-usher-in-robotics-chatgpt-moment/)**
+**[Gill Pratt Says Humanoid Robots’ Moment Is Finally Here](https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa)**
 
-Forbes • 1h ago
+The architect of the DARPA Robotics Challenge explains how their brains have caught up
+
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -146,31 +162,17 @@ Rest of World • 2d ago
 
 ---
 
-**[The gig workers who are training humanoid robots at home](https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/)**
-
-People in Nigeria and India are strapping iPhones onto their heads and recording themselves doing chores.
-
-MIT Technology Review • 1d ago
-
----
-
-**[Europe Vies to Be Humanoid Robot Leader in Global Tech Race](https://www.bloomberg.com/news/articles/2026-04-01/europe-vies-to-be-humanoid-robot-leader-in-global-tech-race)**
-
-Bloomberg.com • 1d ago
-
----
-
 **[Robots learn to ask humans for help](https://www.axios.com/2026/04/01/robots-delivery-serve-tmobile)**
 
-Axios • 11h ago
+axios.com • 12h ago
 
 ---
 
-**[Gill Pratt Says Humanoid Robots’ Moment Is Finally Here](https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa)**
+**[New Soft Sensors Give Humanoid Robots Finger Finesse](https://neurosciencenews.com/soft-sensing-humanoid-hand-precision-30438/)**
 
-The architect of the DARPA Robotics Challenge explains how their brains have caught up
+Can robots play the piano? A new study introduces a dexterous robotic hand with omnidirectional soft sensors.
 
-IEEE Spectrum • 1d ago
+Neuroscience News • 1d ago
 
 ---
 
@@ -184,7 +186,17 @@ Brett Adcock is a technology entrepreneur focused on building companies in robot
 
 📺 Shawn Ryan Show
 
-👁️ 463K • 👍 10K • 💬 3K • ⏱️ 2:57:09 • 3d ago
+👁️ 469K • 👍 10K • 💬 3K • ⏱️ 2:57:09 • 3d ago
+
+---
+
+**[I broke a robot in China](https://www.youtube.com/watch?v=7U3vjVfwChc)**
+
+China is leading the world in humanoid robot shipments. Powered by artificial intelligence, these machines are setting new ...
+
+📺 CGTN
+
+👁️ 16K • 👍 185 • 💬 27 • ⏱️ 1:54 • 15h ago
 
 ---
 
@@ -194,7 +206,7 @@ Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking
 
 📺 The AI Nexus
 
-👁️ 3K • 👍 159 • 💬 12 • ⏱️ 20:43 • 1d ago
+👁️ 3K • 👍 163 • 💬 12 • ⏱️ 20:43 • 1d ago
 
 ---
 
@@ -204,17 +216,7 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCkouj
 
 📺 Shawn Ryan Clips
 
-👁️ 10K • 👍 329 • 💬 134 • ⏱️ 15:18 • 2d ago
-
----
-
-**[Shawn Ryan Tests a Real Humanoid Robot](https://www.youtube.com/watch?v=HWq9cFhTvvQ)**
-
-Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In this clip, we break down how this robot sees, ...
-
-📺 Shawn Ryan Show
-
-👁️ 360K • 👍 18K • 💬 3K • ⏱️ 8:48 • 23h ago
+👁️ 10K • 👍 330 • 💬 134 • ⏱️ 15:18 • 3d ago
 
 ---
 
@@ -224,7 +226,17 @@ Brett Adcock shares his vision for the future of humanoid robots, why he believe
 
 📺 Shawn Ryan Show
 
-👁️ 72K • 👍 2K • 💬 682 • ⏱️ 14:05 • 5d ago
+👁️ 72K • 👍 2K • 💬 681 • ⏱️ 14:05 • 6d ago
+
+---
+
+**[Shawn Ryan Tests a Real Humanoid Robot](https://www.youtube.com/watch?v=HWq9cFhTvvQ)**
+
+Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In this clip, we break down how this robot sees, ...
+
+📺 Shawn Ryan Show
+
+👁️ 430K • 👍 20K • 💬 4K • ⏱️ 8:48 • 1d ago
 
 ---
 
@@ -238,6 +250,16 @@ A new wave of attention is building around Nvidia as the company pushes further 
 
 ---
 
+**[The Six-Servo Robot Dog - it&#39;s open source!](https://www.youtube.com/watch?v=2eKb_2N0SBI)**
+
+Ad: Check out PCBWay for all your project needs! Get $10 off orders over $30 with code: PCBWay-JamesBruton-10 ...
+
+📺 James Bruton
+
+👁️ 50K • 👍 4K • 💬 180 • ⏱️ 16:17 • 2d ago
+
+---
+
 **[Shawn Ryan Gets a Real-Life Robot 😳](https://www.youtube.com/watch?v=fQdJb7YzDRc)**
 
 Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join Support the Shawn ...
@@ -248,31 +270,13 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCkouj
 
 ---
 
-**[The Six-Servo Robot Dog - it&#39;s open source!](https://www.youtube.com/watch?v=2eKb_2N0SBI)**
-
-Ad: Check out PCBWay for all your project needs! Get $10 off orders over $30 with code: PCBWay-JamesBruton-10 ...
-
-📺 James Bruton
-
-👁️ 50K • 👍 3K • 💬 180 • ⏱️ 16:17 • 2d ago
-
----
-
 **[Unitree Open‑Source: High‑Quality Real‑Robot Dataset for Humanoid Robots](https://www.youtube.com/watch?v=pN_bj5-QyW8)**
 
 Unitree open-sources UnifoLM-WBT-Dataset — a high-quality real-world humanoid robot whole-body teleoperation (WBT) ...
 
 📺 Unitree Robotics
 
-👁️ 9.6M • 👍 589 • 💬 98 • ⏱️ 1:28 • 6d ago
-
----
-
-**[He almost violated the first law of robotics #youtubeshorts #funny #robot #funnyshorts #laugh](https://www.youtube.com/watch?v=ascGyPgPd34)**
-
-📺 Warm tide
-
-👁️ 995K • 👍 8K • 💬 65 • ⏱️ 0:53 • 5d ago
+👁️ 9.6M • 👍 594 • 💬 99 • ⏱️ 1:28 • 6d ago
 
 ---
 

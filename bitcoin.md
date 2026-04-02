@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-02T20:03:25.237176+00:00'
+updated: '2026-04-02T21:02:25.147779+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 02, 2026 at 20:03 UTC  
+**Last Updated:** April 02, 2026 at 21:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,004.43
+### $66,932.38
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -1.7%  
-**7d:** +1.0%  
-**30d:** -7.8%  
+**7d:** +0.9%  
+**30d:** -7.9%  
 **90d:** -26.1%  
 **1y:** -19.4%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1334.73B
+**Market Cap:** $1339.50B
 Rank #1
 
-**Circulating Supply:** 20,010,562 BTC
+**Circulating Supply:** 20,010,612 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--47.1%
+-46.9%
 
 **All-Time Low:** $67.81
-+98301.4%
++98622.9%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Just learned that AA will no longer be creating content on patreon. I read it’s bc of his migraines and inability to control them. Really hope he’s ok and this does not signify him admitting defeat for btc. Anyone have any other news on it? Poor guy. Sending him best wishes. He’s the only reason I got into this space. When everyone else made it about the money, he made it about the fundamentals of BTC and why it stood a chance in this environment.
 
-5h ago
+6h ago
 
 ---
 
@@ -89,13 +89,13 @@ Just learned that AA will no longer be creating content on patreon. I read it’
 
 Metaplanet has become the third-largest listed corporate holder of Bitcoin after purchasing 5,075 BTC during the first quarter. : Get all the latest crypto news at Sandmark
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/metaplanet-becomes-third-largest-listed-bitcoin-holder-after-5075-btc-purchase) • 6h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/metaplanet-becomes-third-largest-listed-bitcoin-holder-after-5075-btc-purchase) • 7h ago
 
 ---
 
 **[So many DCA strategies in the sub recently. Here's mine](https://www.reddit.com/r/Bitcoin/comments/1sah1xz/so_many_dca_strategies_in_the_sub_recently_heres/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -103,7 +103,7 @@ Metaplanet has become the third-largest listed corporate holder of Bitcoin after
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/yFE2FV9ia1s) • 8h ago
+🔗 [youtu.be](https://youtu.be/yFE2FV9ia1s) • 9h ago
 
 ---
 
@@ -111,7 +111,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Who else is pumped right now! Part of me wants another big dip so I can keep adding to my stack with DCA and grab even more sats Real talk tho - if youre in this for the long haul like 10+ years why does anyone get upset when the price drops? Makes no sense to me if you actually believe in where this is headed
 
-16h ago
+17h ago
 
 ---
 
@@ -119,7 +119,7 @@ Who else is pumped right now! Part of me wants another big dip so I can keep add
 
 For me, the big shift was when I stopped looking at Bitcoin like a quick move and started looking at it like long term savings. At first I was checking price way too much, every dip felt bad and every pump made me think I was smart lol. But after some time, learning more, moving my stack off exchange, and just sitting with it, the whole thing started to feel different. Now I care less about the next week, and more about where this goes in the next 5 to 10 years. Not saying I never feel nervous, because I do sometimes, but my mindset is way more calm than before. Curious how it happened for others here. What was the moment where Bitcoin “clicked” for you? Was it inflation? Banks? Self custody? A bad experience with selling too early? Or are you still in the phase where it mostly feels like a trade?
 
-6h ago
+7h ago
 
 ---
 
@@ -127,7 +127,7 @@ For me, the big shift was when I stopped looking at Bitcoin like a quick move an
 
 I was playing around with COLDCARD's spending policy and its pretty awesome. You can add rules like spend limits, velocity controls, address whitelists, and even 2FA. Seems like a solid way to add some extra security without making things too complex. Anyone else played around with spending limits on their COLDCARD?
 
-4h ago
+5h ago
 
 ---
 
@@ -135,7 +135,7 @@ I was playing around with COLDCARD's spending policy and its pretty awesome. You
 
 Hello, can you recommend a platform for me to buy bitcoins? Thank you.
 
-3h ago
+4h ago
 
 ---
 
@@ -143,7 +143,7 @@ Hello, can you recommend a platform for me to buy bitcoins? Thank you.
 
 A friend of mine has been buying Bitcoin since 2023, $50 every day. From the time the price is below $70k, he is buying double ($100 each day). He believes that one day BTC will go to $1M+, and then he'll decide whether to sell or keep holding.
 
-15h ago
+16h ago
 
 ---
 
@@ -151,7 +151,7 @@ A friend of mine has been buying Bitcoin since 2023, $50 every day. From the tim
 
 Taiwanese lawmaker Ko Ju-Chun said last year that the country’s Ministry of Justice holds 210 Bitcoins, worth $14 million, confiscated during criminal investigations. Taiwan should reconsider adopting Bitcoin as a reserve asset to hedge against global turmoil and the risk of war, according to a research fellow at the Bitcoin Policy Institute. In a report on Tuesday, Jacob Langenkamp said that should China pursue reunification with Taiwan by military force, either through a blockade or full invasion, Bitcoin would be the only reserve asset that would remain fully accessible and spendable. “Uniquely for Taiwan, Bitcoin provides geopolitical resilience: in a PRC blockade or invasion, gold is stranded or seized and USD reserves face potential restrictions, but Bitcoin remains fully accessible without physical transport,” he added. Nation-states have begun to explore the idea of launching strategic Bitcoin reserves, seen as a bullish signal for Bitcoin. Last year, Taiwan’s central bank sought to investigate establishing a national Bitcoin reserve. However, the bank ruled it out in December, citing volatility, liquidity and custody concerns and instead identified the US dollar as a safer alternative. Taiwan is heavily exposed to the risks of US dollar debasement, Langenkamp said, because its central bank reserves are at least 80% in USD-denominated assets, as is most of its trade. Growing US debt, Federal Reserve monetary expansion, a potential AI market downturn and declining semiconductor revenues could also accelerate dollar debasement, he said. “Bitcoin can couple with gold to offer that hedge against USD debasement. It can provide another opportunity for the CBC to adopt a reserve asset before its peers and benefit the people of Taiwan with the subsequent price appreciation,” Langenkamp added. “It can offer geopolitical insurance against scenarios that hopefully do not come to pass. It can open new methods of trade with less friction. Bitcoin can provide Taiwan with a great measure of monetary resilience.” Langenkamp also argued that the CBC's concerns about Bitcoin's liquidity and volatility are valid, but contended that both issues will diminish as the asset matures and gains adoption among nations. “The CBC's concerns are valid but addressable with institutional expertise on custody, liquidity, and volatility,” he added. Despite ruling out a Bitcoin reserve for now, the CBC committed to testing the technology further in a digital asset sandbox using the crypto the country already holds. Taiwanese lawmaker Ko Ju-Chun revealed on X last year that the country’s Ministry of Justice holds 210 Bitcoin, worth $14 million, confiscated during criminal investigations. BitBo doesn’t list Taiwan in its country reserve rankings; its disclosed holdings would make it the seventh-largest national Bitcoin holder, behind El Salvador but ahead of Finland.
 
-🔗 [Cointelegraph](https://cointelegraph.com/news/taiwan-bitcoin-reserve-geopolitical-hedge) • 12h ago
+🔗 [Cointelegraph](https://cointelegraph.com/news/taiwan-bitcoin-reserve-geopolitical-hedge) • 13h ago
 
 ---
 
@@ -159,49 +159,47 @@ Taiwanese lawmaker Ko Ju-Chun said last year that the country’s Ministry of Ju
 
 ## Google News: "bitcoin"
 
-**[Bitcoin falls below $66K as crowded shorts hint at upside risk ahead of Easter holiday: analysts](https://www.theblock.co/post/396204/bitcoin-falls-below-66k-as-crowded-shorts-hint-at-upside-risk-ahead-of-easter-holiday-analysts)**
-
-Bitcoin remains stuck below $70K as weak conviction and macro uncertainty weigh on markets, with analysts flagging a potential short squeeze.
-
-theblock.co • 7h ago
-
----
-
 **[Bitcoin treasury sell-off accelerates as Riot, Bhutan, and public companies exit positions](https://www.coindesk.com/markets/2026/04/02/the-bitcoin-treasury-boom-is-unwinding-as-some-companies-and-governments-sell-holdings)**
 
 Those who supposedly bought bitcoin for long-term are capitulating.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
-**[Circle Annonces Impending Launch of Wrapped Bitcoin Product, cirBTC](https://finance.yahoo.com/markets/crypto/articles/circle-annonces-impending-launch-wrapped-172243356.html)**
+**[‘You Have Until 2029’—Urgent Elon Musk Bitcoin Warning Suddenly Triggers Price Crash Fears](https://www.forbes.com/sites/digital-assets/2026/04/02/you-have-until-2029-urgent-elon-musk-bitcoin-warning-suddenly-triggers-price-crash-fears/)**
 
-The stablecoin issuer's latest offering will be backed 1:1 by BTC, with reserves be readily and independently verifiable onchain.
-
-finance.yahoo.com • 2h ago
+Forbes • 9h ago
 
 ---
 
-**[Bitcoin drops 2.9% as Trump signals tougher Iran strikes](https://www.tradingview.com/news/gurufocus:4e8000cf3094b:0-bitcoin-drops-2-9-as-trump-signals-tougher-iran-strikes/)**
+**[Bitcoin is a ‘100% viable asset,’ depending on when you start the clock, says VanEck’s Matthew Sigel](https://www.cnbc.com/video/2026/04/02/bitcoin-is-a-100percent-viable-asset-depending-on-when-you-start-the-clock-says-vanecks-matthew-sigel.html)**
 
-Bitcoin's (BTC-USD) recent attempt to stabilize is being challenged as geopolitical risk moves back to the forefront of markets. Following comments from US President Donald Trump indicating that tougher strikes against Iran could be coming in the weeks ahead, sentiment across risk assets appeared t…
+Matthew Sigel, head of digital assets research at VanEck, joins 'Power Lunch' to discuss the outlook for Bitcoin, market themes, and more.
 
-TradingView • 2h ago
+CNBC • 1h ago
 
 ---
 
-**[Blockspace: Google's Quantum Bitcoin, Fold credit card, and Bitcoin Volatility Index | CoinDesk Videos](https://www.coindesk.com/video/blockspace-google-s-quantum-bitcoin-fold-credit-card-and-bitcoin-volatility-index)**
+**[Bitcoin, crypto stocks slipping lower alongside broader markets](https://finance.yahoo.com/video/bitcoin-crypto-stocks-slipping-lower-alongside-broader-markets-193058910.html)**
 
-Google's new quantum paper shakes the blockchain world. We discuss the threat with experts, explore Fold’s new Bitcoin credit card, analyze Nokia’s $166M financial loss, and dive into Bitcoin volatility indices with Volmex Finance. Essential crypto insights for 2026. | CoinDesk Videos
+Yahoo Finance Senior Markets Reporter Ines Ferré takes a closer look at how top cryptocurrencies — like bitcoin (BTC-USD), solana (SOL-USD), and ethereum (ETH-USD) — are trading as the crypto market and crypto-related stocks fall alongside the broader market (^DJI, ^IXIC, ^GSPC) on Thursday.
 
-CoinDesk • 56m ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin Price Headed To $120,000? Why This analyst Thinks It’s A Good Time To Buy](https://www.tradingview.com/news/newsbtc:8314c99a1094b:0-bitcoin-price-headed-to-120-000-why-this-analyst-thinks-it-s-a-good-time-to-buy/)**
+
+Crypto analyst Minga has predicted that the Bitcoin price could rally past $120,000 to a new all-time high (ATH) of $190,000 in the next bull cycle. The analyst also indicated that now is a good time to buy as BTC approaches a bottom. Analyst Gives Buy Signal as Bitcoin Price Approaches BottomIn an…
+
+TradingView • 1h ago
 
 ---
 
 **[Bitcoin Buying Fails to Offset a Wave of Selling by Big Holders](https://www.bloomberg.com/news/articles/2026-04-01/bitcoin-buying-fails-to-offset-a-wave-of-selling-by-big-holders)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -221,15 +219,17 @@ CoinDesk • 1d ago
 
 ---
 
-**[Google Issues ‘Q-Day’ Warning. What It Means.](https://www.barrons.com/articles/google-issues-q-day-warning-quantum-510b44d1?gaa_at=eafs&gaa_n=AWEtsqd7RSyeV2NxXkc39Ik4Wbi3NyzLE9NuQzDYnkmsTYQ5uwsIabgHT-_w&gaa_ts=69cec704&gaa_sig=MBU-2A_tMq2nszvljunp_YZO5a6oTagGqUpQJscU7thyLhmynctQMDJjKAasx5W-6L5euRM_AhDt3nNCp80fUw%3D%3D)**
+**[Google Issues ‘Q-Day’ Warning. What It Means.](https://www.barrons.com/articles/google-issues-q-day-warning-quantum-510b44d1?gaa_at=eafs&gaa_n=AWEtsqfT7T6zlf0FZTTJr5rlW-KlohfEwYzkTrreycDfeiAYr03DRgOaU2s9&gaa_ts=69cedcc8&gaa_sig=XogQAJkz9w801mvS_KfIwy6O2yEsZ2iwACSs9DPcomq5AweZNRp5mtBTCn8imlBEwVPZoMgR1SHYJmZdlENqbw%3D%3D)**
 
-Barron's • 7h ago
+Barron's • 8h ago
 
 ---
 
-**[‘You Have Until 2029’—Urgent Elon Musk Bitcoin Warning Suddenly Triggers Price Crash Fears](https://www.forbes.com/sites/digital-assets/2026/04/02/you-have-until-2029-urgent-elon-musk-bitcoin-warning-suddenly-triggers-price-crash-fears/)**
+**[BlackRock Files Ticker For Bitcoin Premium Income ETF As Bitcoin Strategy Expands](https://bitcoinmagazine.com/news/blackrock-files-ticker-bitcoin-premium-etf)**
 
-Forbes • 8h ago
+BlackRock has advanced its Bitcoin premium income ETF strategy, revealing the ticker $BITA for a new fund positioned as a yield-focused sequel to its existing Bitcoin ETF lineup.
+
+bitcoinmagazine.com • 1d ago
 
 ---
 
@@ -273,6 +273,14 @@ The first signing system where the private key is a physical key — and can sti
 
 ---
 
+**[How well do you remember the 2017 Bitcoin bull run?](https://news.ycombinator.com/item?id=47619199)**
+
+Test your prediction skills against historical data. Draw your forecast and see how you rank.
+
+⬆️ 1 • 💬 0 • 1h ago • [longmarkets.app](https://longmarkets.app/rewinds/rewind-bitcoin-2017)
+
+---
+
 **[MineGuard – Autonomous Bitcoin mining fleet manager, Karpathy-loop optimization](https://news.ycombinator.com/item?id=47538096)**
 
 ⬆️ 1 • 💬 0 • 6d ago • [github.com](https://github.com/enriquevazquezusa/mineguard)
@@ -295,15 +303,7 @@ runs multiple inputs through a script/function in parallel using bash coprocs - 
 
 **[Men are ditching TV for YouTube as AI usage and social media fatigue grow](https://news.ycombinator.com/item?id=47612127)**
 
-⬆️ 44 • 💬 113 • 10h ago • [ofcom.org.uk](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed)
-
----
-
-**[Quad9 Enables DNS over HTTP/3 and DNS over QUIC](https://news.ycombinator.com/item?id=47610777)**
-
-A public and free DNS service for a better security and privacy
-
-⬆️ 38 • 💬 8 • 13h ago • [Quad9](https://quad9.net/news/blog/quad9-enables-dns-over-http-3-and-dns-over-quic/)
+⬆️ 45 • 💬 117 • 11h ago • [ofcom.org.uk](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed)
 
 ---
 
@@ -317,7 +317,7 @@ Quantum computers are being hyped as the end of Bitcoin. The same institutions p
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 150 • ⏱️ 35:23 • 20h ago
+👁️ 17K • 👍 1K • 💬 153 • ⏱️ 35:23 • 21h ago
 
 ---
 
@@ -327,47 +327,27 @@ Google just dropped a bombshell that reignited fears around Bitcoin and quantum 
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 435 • 💬 75 • ⏱️ 14:32 • 7h ago
+👁️ 8K • 👍 514 • 💬 84 • ⏱️ 14:32 • 8h ago
 
 ---
 
-**[&quot;Change is Coming That Hasn&#39;t Happened In 100 Years&quot; | crypto news](https://www.youtube.com/watch?v=bDQgqJykRDc)**
+**[LIVE: Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Prediction](https://www.youtube.com/watch?v=SnJ5NFLscxQ)**
 
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEEX Poker Party is LIVE ($30k Bonus): ...
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
 
-📺 Altcoin Daily
+📺 Hamish and Kyloe's Thistle Do Farm
 
-👁️ 33K • 👍 2K • 💬 266 • ⏱️ 10:45 • 21h ago
-
----
-
-**[BITCOIN IS ABOUT TO CRASH... HERE’S EXACTLY WHAT I’M DOING](https://www.youtube.com/watch?v=d0TWnKnVzu0)**
-
-DOMINATE THE BOTTOM UNLOCK HUGE BONUS VIDEO ⬇️ JOIN THE WAITLIST NOW ...
-
-📺 Crypto Crew University
-
-👁️ 25K • 👍 2K • 💬 118 • ⏱️ 5:18 • 1d ago
+👁️ 1K • 👍 3K • 5m ago
 
 ---
 
-**[I’m selling all my Bitcoin now… (Quantum Update)](https://www.youtube.com/watch?v=N-Ts6My5jFI)**
+**[Bitcoin Dumps as Trump Talks WAR (Watch This)](https://www.youtube.com/watch?v=_wa10tAqiDg)**
 
-If you know someone who holds Bitcoin → send them this video. “Quantum Will Kill Bitcoin By 2029” (Fully Explained) Explaining ...
+Bitcoin is reacting violently as Trump's latest comments on global conflict send shockwaves through the financial markets. Is this ...
 
-📺 Altcoin Daily
+📺 Discover Crypto
 
-👁️ 33K • 👍 2K • 💬 278 • ⏱️ 10:16 • 1d ago
-
----
-
-**[The Fed Will Print Trillions.. What That ACTUALLY Means for Bitcoin](https://www.youtube.com/watch?v=W37WgSq9nzI)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Buy, Sell, Trade on Weex ($500 Bonus): ...
-
-📺 Altcoin Daily
-
-👁️ 47K • 👍 2K • 💬 228 • ⏱️ 9:58 • 2d ago
+👁️ 6K • 👍 368 • 💬 23 • ⏱️ 1:05:45 • 5h ago
 
 ---
 
@@ -377,17 +357,17 @@ Structure your assets and position yourself for the transfer, that's what the We
 
 📺 Mark Moss
 
-👁️ 29K • 👍 545 • 💬 45 • ⏱️ 0:46 • 1d ago
+👁️ 30K • 👍 548 • 💬 45 • ⏱️ 0:46 • 2d ago
 
 ---
 
-**[Sell Off Over Soon?📉Crypto Market Update](https://www.youtube.com/watch?v=mRlaYnmXShY)**
+**[I&#39;ve Changed My Mind on Bitcoin](https://www.youtube.com/watch?v=Jd7EJuMYaoQ)**
 
-Bitcoin traded at $67950 on Tuesday, up 0.2% over 24 hours, as a wave of optimism over a potential end to the Iran conflict lifted ...
+In this video, I'm breaking down exactly why I've shifted my stance, the "aha" moments that changed my mind, and what this ...
 
-📺 Paul Barron Network
+📺 Discover Crypto
 
-👁️ 32K • 👍 2K • 💬 136 • ⏱️ 14:45 • 1d ago
+👁️ 6K • 👍 419 • 💬 26 • ⏱️ 1:03:52 • 1d ago
 
 ---
 
@@ -401,13 +381,31 @@ Social sentiment has always been a key piece of the crypto cycle, but measuring 
 
 ---
 
-**[THIS IS BAD FOR BITCOIN...](https://www.youtube.com/watch?v=8_DI6hZfAm4)**
+**[TRUMP KEEPS DELIVERING CRYPTO PROMISES TO THE AMERICAN PEOPLE #crypto #xrp #trump #bitcoin](https://www.youtube.com/watch?v=_Shpm1ADt8I)**
 
-WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $25 ...
+📺 CryptoWendyO
 
-📺 Crypto Rover
+👁️ 15K • 👍 970 • 💬 53 • ⏱️ 2:06 • 1d ago
 
-👁️ 7K • 👍 438 • 💬 16 • ⏱️ 8:41 • 14h ago
+---
+
+**[Bitcoin&#39;s &quot;New Narrative&quot; Sets Bubble Fears Aside](https://www.youtube.com/watch?v=KeEUFWETZjc)**
+
+CharlesSchwab's Jim Ferraioli compares the recent crypto bubble to that of others dating back to "Dutch tulip mania" in the 1600s.
+
+📺 Schwab Network
+
+👁️ 2K • 👍 23 • 💬 7 • ⏱️ 5:44 • 1d ago
+
+---
+
+**[Why Bitcoin Fails The “Gold” Argument…](https://www.youtube.com/watch?v=hSWQgw2bRRM)**
+
+Bitcoin has historically been one of the most volatile assets in the world. Which is exactly why you don't see anyone dumping their ...
+
+📺 Casual Finance
+
+👁️ 12K • 👍 211 • 💬 35 • ⏱️ 0:43 • 2d ago
 
 ---
 
