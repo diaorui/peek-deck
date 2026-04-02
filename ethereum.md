@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-02T08:07:25.786999+00:00'
+updated: '2026-04-02T09:34:54.410113+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 02, 2026 at 08:07 UTC  
+**Last Updated:** April 02, 2026 at 09:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.8%  
-**7d:** +3.1%  
-**30d:** -3.4%  
-**90d:** -34.3%  
-**1y:** +13.0%  
+**24h:** -4.1%  
+**7d:** +2.6%  
+**30d:** -3.9%  
+**90d:** -34.6%  
+**1y:** +12.4%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
+
+---
+
+**[We cracked 3 of Vitalik's 2015 contracts - byte-for-byte source verification](https://www.reddit.com/r/ethereum/comments/1s9n8x7/we_cracked_3_of_vitaliks_2015_contracts/)**
+
+Two months after Ethereum mainnet launched, Vitalik deployed a 3-contract on-chain arbitration system written in Serpent. We just verified all three with exact bytecode matches. The contracts: ArbiterRegistry (0x82afa2c4, block 301,954 - Sep 28, 2015) Arbiters pay 1+ ETH to list themselves as dispute mediators. The fee decays 50% per month using a 3rd-order Taylor series approximation, so inactive arbiters fall in the rankings automatically. Hardcoded EF withdrawal address. Someone called register() again in 2024 - still works. Arbitration (0xe881af13, block 303,316 + 0x7e2d0fe0, block 318,029) Smart escrow with designated arbiters. Two parties create a contract, designate arbiters, and funds auto-transfer when >50% of arbiters vote. Both parties can also instantly surrender to the other side. Vitalik tested it from both his dev address and vitalik.eth. The forensics: The source Vitalik later committed to ethereum/dapp-bin had one line wrong vs what he actually deployed. The ArbiterNotification log had its indexed arguments in reversed order. He fixed the arg order in git after shipping. The chain preserved the original - we had to catch that divergence to get an exact match. How we verified it: Not decompilation. We compiled forward: found the source in ethereum/dapp-bin, identified the exact Serpent compiler commit used (e5a5f875, Sep 26 2015), compiled it, and compared output byte-for-byte against the on-chain code. Full docs + live contract interaction (ABIs published): - https://ethereumhistory.com/contract/0x82afa2c4a686af9344e929f9821f3e8c6e9293ab - https://ethereumhistory.com/contract/0xe881af13bf55c97562fe8d2da2f6ea8e3ff66f98 Verification repos: - https://github.com/cartoonitunes/arbiter-reg-verification - https://github.com/cartoonitunes/arbitration-verification EthereumHistory is a free archive - if you find this useful, you can support it at ethereumhistory.com/donate
+
+18h ago
 
 ---
 
@@ -84,17 +92,9 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[We cracked 3 of Vitalik's 2015 contracts - byte-for-byte source verification](https://www.reddit.com/r/ethereum/comments/1s9n8x7/we_cracked_3_of_vitaliks_2015_contracts/)**
-
-Two months after Ethereum mainnet launched, Vitalik deployed a 3-contract on-chain arbitration system written in Serpent. We just verified all three with exact bytecode matches. The contracts: ArbiterRegistry (0x82afa2c4, block 301,954 - Sep 28, 2015) Arbiters pay 1+ ETH to list themselves as dispute mediators. The fee decays 50% per month using a 3rd-order Taylor series approximation, so inactive arbiters fall in the rankings automatically. Hardcoded EF withdrawal address. Someone called register() again in 2024 - still works. Arbitration (0xe881af13, block 303,316 + 0x7e2d0fe0, block 318,029) Smart escrow with designated arbiters. Two parties create a contract, designate arbiters, and funds auto-transfer when >50% of arbiters vote. Both parties can also instantly surrender to the other side. Vitalik tested it from both his dev address and vitalik.eth. The forensics: The source Vitalik later committed to ethereum/dapp-bin had one line wrong vs what he actually deployed. The ArbiterNotification log had its indexed arguments in reversed order. He fixed the arg order in git after shipping. The chain preserved the original - we had to catch that divergence to get an exact match. How we verified it: Not decompilation. We compiled forward: found the source in ethereum/dapp-bin, identified the exact Serpent compiler commit used (e5a5f875, Sep 26 2015), compiled it, and compared output byte-for-byte against the on-chain code. Full docs + live contract interaction (ABIs published): - https://ethereumhistory.com/contract/0x82afa2c4a686af9344e929f9821f3e8c6e9293ab - https://ethereumhistory.com/contract/0xe881af13bf55c97562fe8d2da2f6ea8e3ff66f98 Verification repos: - https://github.com/cartoonitunes/arbiter-reg-verification - https://github.com/cartoonitunes/arbitration-verification EthereumHistory is a free archive - if you find this useful, you can support it at ethereumhistory.com/donate
-
-16h ago
-
----
-
 **[Building a community for the devs that are left](https://www.reddit.com/r/ethereum/comments/1s9o3mk/building_a_community_for_the_devs_that_are_left/)**
 
-🔗 [X (formerly Twitter)](https://x.com/0xCryptodevs/status/2039365286701175019) • 16h ago
+🔗 [X (formerly Twitter)](https://x.com/0xCryptodevs/status/2039365286701175019) • 17h ago
 
 ---
 
@@ -102,7 +102,7 @@ Two months after Ethereum mainnet launched, Vitalik deployed a 3-contract on-cha
 
 Google just moved the quantum threat from decades away to 2029. Taproot exposed 6.9 million Bitcoin. Ethereum launched a seven-fork roadmap. Bitcoin has BIP-360 and a mailing list. Here's what that difference means.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/google-quantum-deadline-2029-ethereum-plan-bitcoin-culture-war/) • 1d ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/google-quantum-deadline-2029-ethereum-plan-bitcoin-culture-war/) • 2d ago
 
 ---
 
@@ -176,12 +176,6 @@ CCN.com • 1d ago
 
 ---
 
-**[Trump’s Iran War Escalation Sends Bitcoin Below $67K—But Ethereum Holds Firm: What’s Next in the ...](https://www.binance.com/en/square/post/308083016486961)**
-
-Binance • 2h ago
-
----
-
 **[Crypto check: How bitcoin & ethereum prices are moving](https://finance.yahoo.com/video/crypto-check-how-bitcoin--ethereum-prices-are-moving-154824864.html)**
 
 On this episode of Crypto Check, Yahoo Finance Senior Reporter Brooke DiPalma takes a look at names like Coinbase (COIN) and Robinhood (HOOD), as well as bitcoin's (BTC-USD) and ethereum's (ETH-USD) price action amid the latest Iran war developments.
@@ -194,7 +188,7 @@ Yahoo Finance • 1d ago
 
 Investors looking to bet on tokenization should think in phases, with institution-friendly networks like Canton likely winning first and Avalanche, Ethereum capturing more upside later, Grayscale's Zach Pandl said.
 
-CoinDesk • 16h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -202,15 +196,15 @@ CoinDesk • 16h ago
 
 Ethereum is currently trading above $2,100 at the start of the new month, but one analyst believes the asset’s next major directional move is based on a single price level: one that, if broken, would invalidate years of macro analysis and cause a price collapse to as low as $900.The Count That Has…
 
-TradingView • 8h ago
+TradingView • 9h ago
 
 ---
 
-**[Aave V4 launches on Ethereum mainnet with 'hub-and-spoke' architecture](https://www.theblock.co/post/395617/aave-v4-launches-ethereum-mainnet)**
+**[What price will Ethereum hit in April? Trading Odds & Predictions](https://polymarket.com/event/what-price-will-ethereum-hit-in-april-2026)**
 
-Aave V4 features a hub-and-spoke architecture that concentrates liquidity to supply a wider range of markets and use cases with credit lines.
+$42,081 has traded on "What price will Ethereum hit in April?" as of April 2, 2026. View real-time odds or trade on The World's Largest Prediction Market™
 
-The Block • 2d ago
+Polymarket • 2d ago
 
 ---
 
@@ -218,7 +212,15 @@ The Block • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 19h ago
+Fortune • 21h ago
+
+---
+
+**[Why Ethereum is quietly becoming a key layer of Africa’s digital economy](https://africa.businessinsider.com/local/markets/why-ethereum-is-quietly-becoming-a-key-layer-of-africas-digital-economy/qrv474b)**
+
+#FeaturedPost
+
+Business Insider Africa • 1d ago
 
 ---
 
@@ -232,7 +234,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEE
 
 📺 Altcoin Daily
 
-👁️ 23K • 👍 1K • 💬 100 • ⏱️ 10:45 • 9h ago
+👁️ 23K • 👍 1K • 💬 100 • ⏱️ 10:45 • 11h ago
 
 ---
 
@@ -242,7 +244,7 @@ GET THE BOOK: https://bullmania.com/book FREE TRAINING: https://www.bullmania.co
 
 📺 Ivan on Tech
 
-👁️ 1K • 👍 84 • 39m ago
+👁️ 1K • 👍 84 • 2h ago
 
 ---
 
@@ -252,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 580 • 👍 41 • 💬 2 • ⏱️ 4:53 • 6h ago
+👁️ 580 • 👍 41 • 💬 2 • ⏱️ 4:53 • 8h ago
 
 ---
 
@@ -282,7 +284,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 460 • 💬 87 • ⏱️ 12:24 • 3h ago
+👁️ 2K • 👍 460 • 💬 87 • ⏱️ 12:24 • 4h ago
 
 ---
 
@@ -312,7 +314,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 359 • 👍 12 • 💬 29 • ⏱️ 6:16 • 13h ago
+👁️ 359 • 👍 12 • 💬 29 • ⏱️ 6:16 • 14h ago
 
 ---
 
@@ -322,7 +324,7 @@ NEW BITCOIN PRICE TARGETS REVEALED (Prepare Now)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 3K • 👍 187 • 💬 185 • ⏱️ 15:43 • 7h ago
+👁️ 3K • 👍 187 • 💬 185 • ⏱️ 15:43 • 9h ago
 
 ---
 

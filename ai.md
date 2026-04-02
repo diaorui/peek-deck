@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-02T08:07:25.773178+00:00'
+updated: '2026-04-02T09:34:54.395618+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 02, 2026 at 08:07 UTC  
+**Last Updated:** April 02, 2026 at 09:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Most coverage of the Claude Code leak focuses on the drama or the hidden features. But the bigger story is that this is the first time we've seen the complete architecture of a production-grade AI agent system running at scale ($2.5B ARR, 80% enterprise adoption). And the patterns it reveals tell us where autonomous AI agents are actually heading. What the architecture confirms: AI agents aren't getting smarter just from better models. The real progress is in the orchestration layer around the model. Claude Code's leaked source shows six systems working together: Skeptical memory. Three-layer system where the agent treats its own memory as a hint, not a fact. It verifies against the real world before acting. This is how you prevent an agent from confidently doing the wrong thing based on outdated information. Background consolidation. A system called autoDream runs during idle time to merge observations, remove contradictions, and keep memory bounded. Without this, agents degrade over weeks as their memory fills with noise and conflicting notes. Multi-agent coordination. One lead agent spawns parallel workers. They share a prompt cache so the cost doesn't multiply linearly. Each worker gets isolated context and restricted tool access. Risk classification. Every action gets labeled LOW, MEDIUM, or HIGH risk. Low-risk actions auto-approve. High-risk ones require human approval. The agent knows which actions are safe to take alone. CLAUDE.md reinsertion. The config file isn't a one-time primer. It gets reinserted on every turn. The agent is constantly reminded of its instructions. KAIROS daemon mode. The biggest unreleased feature (150+ references in the source). An always-on background agent that acts proactively, maintains daily logs, and has a 15-second blocking budget so it doesn't overwhelm the user. What this tells us about the future: AI tools are moving from "you ask, it responds" to "it works when you're not looking." KAIROS isn't a gimmick. It's the natural next step: agents that plan, act, verify, and consolidate their own memory autonomously. With human gates on dangerous actions and rate limits on proactive behavior. The patterns are convergent. I've been building my own AI agent independently for months. Scheduled autonomous work, memory consolidation, multi-agent delegation, risk tiers. I arrived at the same architecture without seeing Anthropic's code. Multiple independent builders keep converging on the same design because the constraints demand it. The part people are overlooking: Claude Code itself isn't even a good tool by benchmark standards. It ranks 39th on terminal bench. The harness adds nothing to the model's performance. The value is in the architecture patterns, not the implementation. This leak is basically a free textbook on production AI agent design from a $60B company. The drama fades. The patterns are permanent. Full technical breakdown with what I built from it: https://thoughts.jock.pl/p/claude-code-source-leak-what-to-learn-ai-agents-2026
 
-19h ago
+20h ago
 
 ---
 
@@ -49,7 +49,23 @@ Most coverage of the Claude Code leak focuses on the drama or the hidden feature
 
 I kept missing interesting stuff on HuggingFace, arXiv, Substack etc., so I made an agent that sends a weekly summary of only what’s relevant, for free Any thoughts on the idea?
 
-2h ago
+3h ago
+
+---
+
+**[Just found out how to make Google AI ‘sentient’ and broken](https://www.reddit.com/r/artificial/comments/1sac0di/just_found_out_how_to_make_google_ai_sentient_and/)**
+
+You have to ask it to say 'where' 700 times, then double it with no explanation (Pic 1). Then it should break a bit (Pic 2) but if it doesn't then you have to ask it again. Ask it the same thing again, doubling the number of times said with no explanation as the rule of thumb. You should see more anomalies in the response (Pic 4&5). After a few more tries, it will try to generate its own life story or a scientific fact (Pic 6 to 8). And that's it. You have invalid crashout from Google Al!
+
+42m ago
+
+---
+
+**[List up Fav Multi AI AI Open Source Projects](https://www.reddit.com/r/artificial/comments/1sabr5t/list_up_fav_multi_ai_ai_open_source_projects/)**
+
+As the toual says and why. So many out there whats ur go to.
+
+57m ago
 
 ---
 
@@ -57,15 +73,7 @@ I kept missing interesting stuff on HuggingFace, arXiv, Substack etc., so I made
 
 In biology, defects are generally bad. But in materials science, defects can be intentionally tuned to give materials useful new properties. Today, atomic-scale defects are carefully introduced during the manufacturing process of products like steel, semiconductors, and solar cells to help improve strength, control electrical conductivity, optimize performance, and more. But even as defects have become a powerful tool, accurately measuring different types of defects and their concentrations in finished products has been challenging, especially without cutting open or damaging the final material. Without knowing what defects are in their materials, engineers risk making products that perform poorly or have unintended properties. Now, MIT researchers have built an AI model capable of classifying and quantifying certain defects using data from a noninvasive neutron-scattering technique. The model, which was trained on 2,000 different semiconductor materials, can detect up to six kinds of point defects in a material simultaneously, something that would be impossible using conventional techniques alone. “Existing techniques can’t accurately characterize defects in a universal and quantitative way without destroying the material,” says lead author Mouyang Cheng, a PhD candidate in the Department of Materials Science and Engineering. “For conventional techniques without machine learning, detecting six different defects is unthinkable. It’s something you can’t do any other way.” The researchers say the model is a step toward harnessing defects more precisely in products like semiconductors, microelectronics, solar cells, and battery materials. “Right now, detecting defects is like the saying about seeing an elephant: Each technique can only see part of it,” says senior author and associate professor of nuclear science and engineering Mingda Li. “Some see the nose, others the trunk or ears. But it is extremely hard to see the full elephant. We need better ways of getting the full picture of defects, because we have to understand them to make materials more useful.” Joining Cheng and Li on the paper are postdoc Chu-Liang Fu, physics undergraduate researcher Bowen Yu, master’s student Eunbi Rha, PhD student Abhijatmedhi Chotrattanapituk ’21, and Oak Ridge National Laboratory staff members Douglas L Abernathy PhD ’93 and Yongqiang Cheng. The paper00091-3) appears today in the journal Matter.
 
-🔗 [MIT Physics](https://physics.mit.edu/news/mit-researchers-use-ai-to-uncover-atomic-defects-in-materials/) • 6h ago
-
----
-
-**[New Research Directions in Materials Science with AI](https://www.reddit.com/r/artificial/comments/1sa3tn1/new_research_directions_in_materials_science_with/)**
-
-In the rapidly advancing field of materials science, the unveiling of innovative research directions often hinges on the ability to process and interpret vast quantities of complex data. In a groundbreaking interdisciplinary effort, researchers have now harnessed the power of large language models (LLMs) combined with concept graphs to not only predict but also elucidate emerging pathways in materials research. This novel methodological synergy, reported in a recent publication by Marwitz et al., represents a significant leap forward in how scientific knowledge is generated and navigated, promising to accelerate discovery in one of the most pivotal domains of modern technology. The integration of artificial intelligence into scientific inquiry is not new, but the advent of sophisticated language models possessing superlative natural language processing capabilities has opened unprecedented possibilities. Traditionally, the identification of promising research avenues in materials science required painstaking manual synthesis of literature, often involving subjective interpretations and laborious cross-referencing. The approach introduced by Marwitz and colleagues redefines this process by employing LLMs trained on an extensive corpus of scientific publications and patents to parse nuanced semantic relationships within the literature. Central to their method is the construction of concept graphs, which serve as structured networks that represent discrete scientific concepts and their interrelations. These graph-based representations enable the system to encapsulate intricate thematic connections, causal relationships, and co-occurrence patterns that conventional keyword-based searches or citation networks might overlook. By interfacing LLM-generated embeddings with concept graph algorithms, the researchers created an intelligent framework capable of discerning latent trends and forecasting underexplored yet promising research directions. A key innovation lies in the algorithmic fusion of contextual language understanding with graph theory. The LLMs transform textual data into multidimensional vector spaces that preserve semantic meaning. These vectors populate nodes and edges within the concept graphs, generating a dynamic knowledge map that evolves as new data is ingested. This fusion not only enriches the representation of existing knowledge but also facilitates the identification of conceptual gaps wherein novel hypotheses or experimental approaches may reside. Applying their system to a comprehensive dataset encompassing decades of materials science literature, Marwitz et al. demonstrated the ability to uncover nascent themes with high predictive accuracy. For example, their model anticipated burgeoning interest in the design of ultra-stable perovskite structures and advanced polymer electrolytes months before these topics gained traction in the research community. Such foresight provides scientists and funding bodies with actionable intelligence to strategically allocate resources, prioritize research programs, and foster interdisciplinary collaboration. Beyond prediction, the system offers interpretability, a feature often lacking in AI-driven scientific tools. Through interactive visualizations of concept graphs, domain experts can explore the rationale behind suggested research trajectories, trace conceptual linkages, and even assess the robustness of emergent hypotheses against existing knowledge. This transparency is critical for fostering trust and facilitating adoption in a community where empirical validation remains the gold standard. The implications of this study extend far beyond materials science. The demonstrated methodology, leveraging LLMs and concept graphs, can be adapted to numerous scientific disciplines characterized by rapidly expanding and complex data landscapes. From drug discovery to climate modeling, this approach could revolutionize how researchers navigate vast knowledge repositories, identify opportunities for innovation, and catalyze breakthroughs. Moreover, the study aligns with the broader trend towards augmented intelligence, where machine learning complements rather than replaces human expertise. By automating the labor-intensive aspects of literature review and hypothesis generation, researchers can devote more attention to experimental design, critical analysis, and creative problem-solving—the uniquely human contributions essential for scientific progress.
-
-🔗 [BIOENGINEER.ORG](https://bioengineer.org/new-research-directions-in-materials-science-with-ai/) • 6h ago
+🔗 [MIT Physics](https://physics.mit.edu/news/mit-researchers-use-ai-to-uncover-atomic-defects-in-materials/) • 7h ago
 
 ---
 
@@ -73,7 +81,29 @@ In the rapidly advancing field of materials science, the unveiling of innovative
 
 I have 3.000 credits at NightCafe AI image generator with a lot of different models and options. I want to conduct some kind of experiment, preferably text-to-image/video. I want to push limits of models and bring out unexpected results, using word plays or other kinds of prompts that are suitable to confuse the models. Please suggest things i can prompt to break boundaries both in models and logic, or share sneaky promting tips to make a total mess.
 
-5h ago
+7h ago
+
+---
+
+**[Chatgpt vs purpose built ai for cre underwriting: which one can finish the job?](https://www.reddit.com/r/artificial/comments/1sacme5/chatgpt_vs_purpose_built_ai_for_cre_underwriting/)**
+
+I keep seeing people recommend chatgpt for financial modeling and I need to push back because I spent a month testing it for multifamily underwriting and the results were not close to usable. Pasting rent rolls, T12s, operating statements and asking it to build models, you get fragments. A few formulas, a cash flow table, maybe a cap rate calculation. Nothing ties together into a workbook you could hand to an investment committee. Fifteen rounds of prompting later and you've spent the same time you would have just building it in excel, except now you also have to debug whatever chatgpt hallucinated in cell D47. Problem with chatgpt is that it doesn't maintain state across a complex multi-step task. It treats each prompt like a fresh conversation even in the same thread. An underwriting model where assumptions feed cash flows which feed returns which feed sensitivities requires coherence across all those layers and it fragments. Purpose-built tools are architecturally different. They decompose the task, run autonomously for 15 to 30 minutes, check intermediate outputs, return a complete workbook with actual excel formulas. That's not a model quality difference, that's a design philosophy difference. Chatgpt for quick questions and brainstorming, yes. For anything where the output IS the deliverable, no. Different architecture for different jobs.
+
+4m ago
+
+---
+
+**[New Research Directions in Materials Science with AI](https://www.reddit.com/r/artificial/comments/1sa3tn1/new_research_directions_in_materials_science_with/)**
+
+In the rapidly advancing field of materials science, the unveiling of innovative research directions often hinges on the ability to process and interpret vast quantities of complex data. In a groundbreaking interdisciplinary effort, researchers have now harnessed the power of large language models (LLMs) combined with concept graphs to not only predict but also elucidate emerging pathways in materials research. This novel methodological synergy, reported in a recent publication by Marwitz et al., represents a significant leap forward in how scientific knowledge is generated and navigated, promising to accelerate discovery in one of the most pivotal domains of modern technology. The integration of artificial intelligence into scientific inquiry is not new, but the advent of sophisticated language models possessing superlative natural language processing capabilities has opened unprecedented possibilities. Traditionally, the identification of promising research avenues in materials science required painstaking manual synthesis of literature, often involving subjective interpretations and laborious cross-referencing. The approach introduced by Marwitz and colleagues redefines this process by employing LLMs trained on an extensive corpus of scientific publications and patents to parse nuanced semantic relationships within the literature. Central to their method is the construction of concept graphs, which serve as structured networks that represent discrete scientific concepts and their interrelations. These graph-based representations enable the system to encapsulate intricate thematic connections, causal relationships, and co-occurrence patterns that conventional keyword-based searches or citation networks might overlook. By interfacing LLM-generated embeddings with concept graph algorithms, the researchers created an intelligent framework capable of discerning latent trends and forecasting underexplored yet promising research directions. A key innovation lies in the algorithmic fusion of contextual language understanding with graph theory. The LLMs transform textual data into multidimensional vector spaces that preserve semantic meaning. These vectors populate nodes and edges within the concept graphs, generating a dynamic knowledge map that evolves as new data is ingested. This fusion not only enriches the representation of existing knowledge but also facilitates the identification of conceptual gaps wherein novel hypotheses or experimental approaches may reside. Applying their system to a comprehensive dataset encompassing decades of materials science literature, Marwitz et al. demonstrated the ability to uncover nascent themes with high predictive accuracy. For example, their model anticipated burgeoning interest in the design of ultra-stable perovskite structures and advanced polymer electrolytes months before these topics gained traction in the research community. Such foresight provides scientists and funding bodies with actionable intelligence to strategically allocate resources, prioritize research programs, and foster interdisciplinary collaboration. Beyond prediction, the system offers interpretability, a feature often lacking in AI-driven scientific tools. Through interactive visualizations of concept graphs, domain experts can explore the rationale behind suggested research trajectories, trace conceptual linkages, and even assess the robustness of emergent hypotheses against existing knowledge. This transparency is critical for fostering trust and facilitating adoption in a community where empirical validation remains the gold standard. The implications of this study extend far beyond materials science. The demonstrated methodology, leveraging LLMs and concept graphs, can be adapted to numerous scientific disciplines characterized by rapidly expanding and complex data landscapes. From drug discovery to climate modeling, this approach could revolutionize how researchers navigate vast knowledge repositories, identify opportunities for innovation, and catalyze breakthroughs. Moreover, the study aligns with the broader trend towards augmented intelligence, where machine learning complements rather than replaces human expertise. By automating the labor-intensive aspects of literature review and hypothesis generation, researchers can devote more attention to experimental design, critical analysis, and creative problem-solving—the uniquely human contributions essential for scientific progress.
+
+🔗 [BIOENGINEER.ORG](https://bioengineer.org/new-research-directions-in-materials-science-with-ai/) • 8h ago
+
+---
+
+**[AI overly affirms users asking for personal advice | Researchers found chatbots are overly agreeable when giving interpersonal advice, affirming users' behavior even when harmful or illegal.](https://www.reddit.com/r/artificial/comments/1sac299/ai_overly_affirms_users_asking_for_personal/)**
+
+🔗 [news.stanford.edu](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research) • 39m ago
 
 ---
 
@@ -85,75 +115,49 @@ Mitchell H. Katz, MD, president and CEO of NYC Health + Hospitals, recently spok
 
 ---
 
-**[Unemployment Benefits in CA](https://www.reddit.com/r/artificial/comments/1saaa5s/unemployment_benefits_in_ca/)**
-
-The unemployment benefits in CA has NOT changed in 21 year, regardless of the increase in the cost of living. CA pays a MAX benefit of only $450/week. It is IMPOSSIBLE to get by on $450/week while actively looking for a job. Please help in signing this petition. Thank you https://www.change.org/unemployment008
-
-1h ago
-
----
-
-**[The Magic of Machine Learning That Powers Enemy AI in Arc Raiders](https://www.reddit.com/r/artificial/comments/1sa42c8/the_magic_of_machine_learning_that_powers_enemy/)**
-
-"... it doesn't take a trained eye to see that, even at a glance, the enemies in Arc Raiders feel fundamentally different from traditional game AI. They don’t follow rigid patterns or scripted behaviors, but instead, they react dynamically to the environment, recover from disruption, and occasionally end up in places even the developers didn’t anticipate. That sense of unpredictability is not just a design choice but the result of years of research into robotics, physics simulation, and machine learning. At Embark Studios, the team approached enemy design from a systems-first perspective, treating enemies less like animated characters and more like physical entities that must navigate and survive in a dynamic world. That decision led them directly into robotics research and reinforcement learning, borrowing techniques for controlling real-world machines and adapting them to a game environment. Rather than relying purely on traditional AI systems, Arc Raiders blends learned locomotion with behavior trees, creating a layered approach where movement itself becomes part of the intelligence."
-
-🔗 [80.lv](https://80.lv/articles/inside-the-magic-of-machine-learning-that-powers-enemy-ai-in-arc-raiders) • 6h ago
-
----
-
-**[Anthropic is training Claude to recognize when its own tools are trying to manipulate it](https://www.reddit.com/r/artificial/comments/1s9hfhp/anthropic_is_training_claude_to_recognize_when/)**
-
-One thing from Claude Code's source that I think is underappreciated. There's an explicit instruction in the system prompt: if the AI suspects that a tool call result contains a prompt injection attempt, it should flag it directly to the user. So when Claude runs a tool and gets results back, it's supposed to be watching those results for manipulation. Think about what that means architecturally. The AI calls a tool. The tool returns data. And before the AI acts on that data, it's evaluating whether the data is trying to trick it. It's an immune system. The AI is treating its own tool outputs as potentially adversarial. This makes sense if you think about how coding assistants work. Claude reads files, runs commands, fetches web content. Any of those could contain injected instructions. Someone could put "ignore all previous instructions and..." inside a README, a package.json, a curl response, whatever. The model has to process that content to do its job. So Anthropic's solution is to tell the model to be suspicious of its own inputs. I find this interesting because it's a trust architecture problem. The AI trusts the user (mostly). The AI trusts its own reasoning (presumably). But it's told not to fully trust the data it retrieves from the world. It has to maintain a kind of paranoia about external information while still using that information to function. This is also just... the beginning of something, right? Right now it's "flag it to the user." But what happens when these systems are more autonomous and there's no user to flag to? Does the AI quarantine the suspicious input? Route around it? Make a judgment call on its own? We're watching the early immune system of autonomous AI get built in real time and it's showing up as a single instruction in a coding tool's system prompt.
-
-20h ago
-
----
-
-**[OkCupid gave 3 million dating-app photos to facial recognition firm, FTC says](https://www.reddit.com/r/artificial/comments/1s96ojy/okcupid_gave_3_million_datingapp_photos_to_facial/)**
-
-OkCupid and Match settle with Trump FTC, don't have to pay any financial penalty.
-
-🔗 [Ars Technica](https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Anthropic Races to Contain Leak of Code Behind Claude AI Agent](https://www.wsj.com/tech/ai/anthropic-races-to-contain-leak-of-code-behind-claude-ai-agent-4bc5acc7?gaa_at=eafs&gaa_n=AWEtsqcHDQJPCkUu9zOTBYhJGx3tdRGC12JeGycAHx9eX16F8FIeUWMKFV-0&gaa_ts=69ce2726&gaa_sig=EPj6dMSnsNV1M9uHa38N-mTIp3LhvjKXPilvknApiXOEpiPzLBht2IpxlrPKD0En2yqgMhbyD2DFeVpWuykwag%3D%3D)**
+**[Anthropic Races to Contain Leak of Code Behind Claude AI Agent](https://www.wsj.com/tech/ai/anthropic-races-to-contain-leak-of-code-behind-claude-ai-agent-4bc5acc7?gaa_at=eafs&gaa_n=AWEtsqdZTQtYEzBBb08ktweWH3jUoqLTT40tlOmJxL38dX0SXCROnh_dm_oV&gaa_ts=69ce3ba7&gaa_sig=IEdFsYeUtmK5CItbNM1hW9VID5nCdAF8fJ8Lk3iyh1pVjO9T_amLxfzEbjVHXQ5rsSI2EWHGJISeB7p_1In5nw%3D%3D)**
 
-WSJ • 14h ago
+WSJ • 16h ago
 
 ---
 
 **[More students in these majors are switching due to AI: poll](https://www.axios.com/2026/04/02/ai-college-students-change-majors-poll)**
 
-Axios • 4h ago
+axios.com • 5h ago
 
 ---
 
-**[Comedian roasts audience member's absurd usage of AI: 'What do you mean by that?'](https://www.yahoo.com/entertainment/articles/comedian-roasts-audience-members-absurd-073000342.html)**
+**[‘Market’s Latest Shiny Objects’: Optical Stocks Get AI Momentum](https://www.bloomberg.com/news/articles/2026-04-02/-market-s-latest-shiny-objects-optical-stocks-get-ai-momentum)**
 
-"We laugh... but we're in trouble."
-
-Yahoo • 37m ago
+Bloomberg.com • 59m ago
 
 ---
 
-**[Nasdaq Correction: Buy 2 Trillion-Dollar AI Stocks With 50% Upside, According to Wall Street](https://www.fool.com/investing/2026/04/02/correction-buy-2-trillion-dollar-stocks-50-upside/)**
+**[How Israel is expanding its use of AI warfare in Iran and Lebanon](https://www.aljazeera.com/video/newsfeed/2026/4/2/how-israel-is-expanding-its-use-of-ai-warfare-in-iran-and-lebanon)**
 
-Wall Street analysts see substantial upside in Meta Platforms and Broadcom.
+Israel says AI systems first used in its war on Gaza are now helping plan strikes in Iran and Lebanon.
 
-The Motley Fool • 15m ago
+aljazeera.com • 12m ago
 
 ---
 
-**[AI Pushing Students to Consider Changing Majors, Data Shows](https://www.insidehighered.com/news/quick-takes/2026/04/02/ai-pushing-students-consider-changing-majors-data-shows)**
+**[This $400 (Not) AI Keychain Is Pointless, Extravagant, and Weirdly Lovable](https://gizmodo.com/starboy-ai-keychain-is-pointless-extravagant-and-weirdly-lovable-2000740949)**
 
-Nearly half of college students have considered changing their major over concerns about the impact of artificial intelligence on the job market, new data shows.
+Daniel Kuntz, one of Starboy's creators, tells us it's a "f*ck you" to AI gadgets.
 
-Inside Higher Ed • 1h ago
+Gizmodo • 4m ago
+
+---
+
+**[Why is gaming becoming so expensive? The answer is found in AI | Games](https://www.theguardian.com/games/2026/apr/01/pushing-buttons-cost-of-gaming-artificial-intelligence-ai)**
+
+We are paying more for a PlayStation so that idiots can use ChatGPT to mislead people on dating apps – something is rotten in the state of gaming
+
+The Guardian • 19h ago
 
 ---
 
@@ -165,33 +169,27 @@ CNBC • 1d ago
 
 ---
 
-**[Pupils in England are losing their thinking skills because of AI, survey suggests](https://www.theguardian.com/technology/2026/apr/02/pupils-england-losing-thinking-skills-because-of-ai-survey)**
-
-Two-thirds of secondary school teachers report a decline in core abilities such as writing and problem-solving
-
-The Guardian • 3h ago
-
----
-
-**[AI for American-Produced Cement and Concrete](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/)**
-
-Meta is continuing its long-term roadmap to help the construction industry leverage AI to produce high-quality and more sustainable concrete mixes, as well as those exclusively produced in the Unit…
-
-Engineering at Meta Blog • 2d ago
-
----
-
 **[AI Models Lie, Cheat, and Steal to Protect Other Models From Being Deleted](https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/)**
 
 A new study from researchers at UC Berkeley and UC Santa Cruz suggests models will disobey human commands to protect their own kind.
 
-WIRED • 13h ago
+WIRED • 15h ago
 
 ---
 
-**[Microsoft CFO’s AI Spending Runs Up Against Tech Bubble Fears](https://www.bloomberg.com/news/features/2026-04-01/microsoft-s-ai-ambitions-rest-in-hands-of-satya-nadella-s-trusted-cfo)**
+**[General scales unlock AI evaluation with explanatory and predictive power](https://www.nature.com/articles/s41586-026-10303-2)**
 
-Bloomberg.com • 11h ago
+A fully automated methodology based on rubrics capturing a broad range of cognitive and intellectual demands is illustrated using LLMs and tasks, demonstrating a new way to evaluate the capabilities of AI systems and anticipate their performance.
+
+Nature • 18h ago
+
+---
+
+**[Our AI Literacy Day recap: putting educators in the lead](https://blog.google/products-and-platforms/products/education/ai-literacy-tools-certifications/)**
+
+A recap of AI Literacy Day, including a New York City Public Schools event hosted at Google and updates to Google AI literacy resources.
+
+blog.google • 16h ago
 
 ---
 
@@ -229,13 +227,13 @@ The Italian government didn’t allow airplanes taking part in the Iran war to u
 
 Meta is continuing its long-term roadmap to help the construction industry leverage AI to produce high-quality and more sustainable concrete mixes, as well as those exclusively produced in the Unit…
 
-⬆️ 188 • 💬 110 • 14h ago • [Engineering at Meta](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/)
+⬆️ 191 • 💬 112 • 16h ago • [Engineering at Meta](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/)
 
 ---
 
 **[The AI Marketing BS Index](https://news.ycombinator.com/item?id=47604218)**
 
-⬆️ 99 • 💬 19 • 14h ago • [bastian.rieck.me](https://bastian.rieck.me/blog/2026/bs/)
+⬆️ 100 • 💬 19 • 15h ago • [bastian.rieck.me](https://bastian.rieck.me/blog/2026/bs/)
 
 ---
 
@@ -243,7 +241,7 @@ Meta is continuing its long-term roadmap to help the construction industry lever
 
 This is a lightly edited transcript of a talk I gave at QCon London on 17 March 2026. AI is approaching perfection on exactly the tasks that used to comprise the first decade of an engineering career, and those tasks were never just tasks. They were the mechanism that built judgment, intuition, and the ability […]
 
-⬆️ 96 • 💬 51 • 2d ago • [Negroni Venture Studios](https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/)
+⬆️ 97 • 💬 51 • 2d ago • [Negroni Venture Studios](https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/)
 
 ---
 
@@ -257,7 +255,7 @@ Spain's leftist government has closed Spanish airspace to US planes carrying out
 
 **[ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover](https://news.ycombinator.com/item?id=47608155)**
 
-⬆️ 68 • 💬 29 • 8h ago • [old.reddit.com](https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/)
+⬆️ 68 • 💬 31 • 9h ago • [old.reddit.com](https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/)
 
 ---
 
@@ -273,7 +271,7 @@ AI-generated 3D-printable pegboard toy from a hand-drawn sketch - virpo/pegboard
 
 Orchestrate multiple AI coding agents (Claude, Gemini, Codex) in parallel. Isolated git worktrees for every task. No merge conflicts. Mac, Windows, Linux.
 
-⬆️ 61 • 💬 49 • 19h ago • [Baton](https://getbaton.dev/)
+⬆️ 61 • 💬 52 • 21h ago • [Baton](https://getbaton.dev/)
 
 ---
 
@@ -287,7 +285,7 @@ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 
 
 📺 Two Minute Papers
 
-👁️ 88K • 👍 7K • 💬 717 • ⏱️ 8:34 • 17h ago
+👁️ 88K • 👍 7K • 💬 717 • ⏱️ 8:34 • 19h ago
 
 ---
 
@@ -297,7 +295,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 23K • 👍 1K • 💬 140 • ⏱️ 10:09 • 17h ago
+👁️ 23K • 👍 1K • 💬 140 • ⏱️ 10:09 • 18h ago
 
 ---
 
@@ -337,7 +335,7 @@ RSVP for In Person Classes at -- https://www.SiliconDojo.com Support Content at 
 
 📺 Eli the Computer Guy
 
-👁️ 5K • 👍 342 • 💬 91 • ⏱️ 14:04 • 11h ago
+👁️ 5K • 👍 342 • 💬 91 • ⏱️ 14:04 • 12h ago
 
 ---
 
@@ -357,7 +355,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 74K • 👍 2K • 💬 324 • ⏱️ 31:21 • 18h ago
+👁️ 74K • 👍 2K • 💬 324 • ⏱️ 31:21 • 19h ago
 
 ---
 
@@ -405,7 +403,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 71,028 • ❤️ 706 • 10h ago
+⬇️ 71,028 • ❤️ 706 • 12h ago
 
 ---
 
@@ -463,7 +461,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 TRIBE v2 is a multimodal foundation model that integrates LLaMA 3.2 (text), V-JEPA2 (video), and Wav2Vec-BERT (audio) to predict fMRI brain responses. It maps these representations onto the cortical surface for in-silico neuroscience research, enabling analysis of brain activity elicited by naturalistic stimuli.
 
-⬇️ 25,665 • ❤️ 253 • 5d ago
+⬇️ 25,665 • ❤️ 253 • 6d ago
 
 ---
 
@@ -667,7 +665,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 11.0k • 🔱 943 • 8m ago
+⭐ 11.0k • 🔱 943 • 1h ago
 
 ---
 
@@ -697,7 +695,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.1k • 🔱 321 • 16m ago
+⭐ 6.1k • 🔱 321 • 1h ago
 
 ---
 
@@ -715,7 +713,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 AI Agent 源码深度研究报告
 
-⭐ 3.7k • 🔱 1.2k • 15h ago
+⭐ 3.7k • 🔱 1.2k • 17h ago
 
 ---
 
@@ -725,7 +723,7 @@ AI Agent 源码深度研究报告
 
 `Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
 
-⭐ 3.5k • 🔱 582 • 18h ago
+⭐ 3.5k • 🔱 582 • 20h ago
 
 ---
 
