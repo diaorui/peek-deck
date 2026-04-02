@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-02T22:00:58.265156+00:00'
+updated: '2026-04-02T22:58:56.670854+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 02, 2026 at 22:00 UTC  
+**Last Updated:** April 02, 2026 at 22:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,6 +34,12 @@ Robotics research and industry news
 
 **[Autonomous valet robot demonstrating precise self-parking in a real-world setting](https://www.reddit.com/r/robotics/comments/1san0l2/autonomous_valet_robot_demonstrating_precise/)**
 
+6h ago
+
+---
+
+**[Generalist | Introducing GEN-1](https://www.reddit.com/r/robotics/comments/1saoiaj/generalist_introducing_gen1/)**
+
 5h ago
 
 ---
@@ -42,31 +48,41 @@ Robotics research and industry news
 
 been working on this little desktop robot prototype called Kitto for a while now. honestly most of the hype right now is just cramming the biggest model possible into a plastic shell. but testing the interaction on this thing... if the timing is off it just feels like a glorified smart speaker. to make it actually feel 'alive' on a desk, the idle animations and the instant switch to a listening state carry like 90% of the weight. tbh we ended up spending way more time tuning the audio-to-viseme mapping for the face than we did tweaking the actual API prompts. current stack is just an esp32s3+esp32p4 (planning to migrate to a linux board soon so we can handle local processing and maybe hook into openclaw). the screen isnt playing pre-rendered video files btw. the mouth movements are code-driven in real-time by analyzing the audio stream. latency is still my biggest headache though. pinging the api, getting the TTS audio back, and triggering the animation states fast enough to not break the illusion is tough on this hardware. its getting there but still a lot of code to fix. definately not pitching this as finished hardware yet, mostly just looking for honest feedback on the HRI approach. curious how you guys are handling TTS latency in your own conversational builds right now?
 
-6h ago
-
----
-
-**[Generalist | Introducing GEN-1](https://www.reddit.com/r/robotics/comments/1saoiaj/generalist_introducing_gen1/)**
-
-4h ago
+7h ago
 
 ---
 
 **[Robotics Studio](https://www.reddit.com/r/robotics/comments/1sapdsp/robotics_studio/)**
 
-3h ago
+4h ago
 
 ---
 
 **["Follow Me" Mode: Real-time human tracking with YOLOv8](https://www.reddit.com/r/robotics/comments/1sac61n/follow_me_mode_realtime_human_tracking_with_yolov8/)**
 
-12h ago
+13h ago
 
 ---
 
 **[China announces its first automated manufacturing line capable of producing 10K humanoid robots per year - 1 robot every 30 minutes](https://www.reddit.com/r/robotics/comments/1s9qso0/china_announces_its_first_automated_manufacturing/)**
 
 1d ago
+
+---
+
+**[My Pi 3b+ Self Roving Robot](https://www.reddit.com/r/robotics/comments/1saw4e3/my_pi_3b_self_roving_robot/)**
+
+Running 3 HC-SR04’s doing object detection and avoidance. Just getting my encoders working. Hoping to be mapping soon. Definitely a fun project.
+
+19m ago
+
+---
+
+**[Common Motors across Cobots, Humanoids, Robot Dogs](https://www.reddit.com/r/robotics/comments/1sal8nj/common_motors_across_cobots_humanoids_robot_dogs/)**
+
+Hello Everyone, I am trying to understand any commanization of motors & actuator specs in robotics (Humanoids, cobots, robot dogs) landscape. There has been quite significant progress in the last couple of years. I now see that companies like Unitree, Tesla already scaling up their robots. I understand that the motors and actuators they are using has been specifically made for their own applications but I was wondering if there is one single common motor and actuator that is common across these applications. Here is what I found out: PMSM + QDD for Robot dogs BLDC + Harmonics - Industrial precision Is there any specific range/specs across the motors and actuators that can be made like an off the shelf component? Any leads would be helpful.
+
+7h ago
 
 ---
 
@@ -84,37 +100,59 @@ Has anyone seen an estimate for the number of submissions this year? I could not
 
 ---
 
-**[I made my robot wal JUST LIKE BAYMAX](https://www.reddit.com/r/robotics/comments/1sabqhy/i_made_my_robot_wal_just_like_baymax/)**
-
-it uses only two motors to walk unlike most other bipedal robots. What do you guys think? Also I just made the base and hand for now ! https://www.youtube.com/watch?v=InKbSM_C5Xc
-
-13h ago
-
----
-
-**[LLMs in industrial robotics workflows](https://www.reddit.com/r/robotics/comments/1sag8h6/llms_in_industrial_robotics_workflows/)**
-
-LLMs are being used in industrial robotics to generate robot motion code, PLC logic, and supporting automation scripts from natural language inputs. The primary application is in repetitive tasks such as sequencing, template generation, and initial system configuration. Outputs are reviewed, tested, and refined by engineers before deployment. When combined with simulation, this allows portions of robotic systems to be developed and tested prior to full hardware availability, reducing reliance on sequential commissioning.
-
-🔗 [Automate](https://www.automate.org/ai/industry-insights/accelerating-industrial-automation-with-llms) • 9h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
 **[Generalist Is Betting Its Robot-Training Gloves Will Usher In Robotics’ ChatGPT Moment](https://www.forbes.com/sites/annatong/2026/04/02/generalist-is-betting-its-robot-training-gloves-will-usher-in-robotics-chatgpt-moment/)**
 
-Forbes • 11h ago
+Forbes • 12h ago
 
 ---
 
-**[Sanctuary AI’s robotic hand demonstrates zero-shot in-hand manipulation](https://www.therobotreport.com/sanctuary-ais-robotic-hand-demonstrates-zero-shot-in-hand-manipulation/)**
+**[ATU robotics team targets world championship](https://www.yahoo.com/news/articles/atu-robotics-team-targets-world-203515567.html)**
 
-Sanctuary AI said the robotic hand and AI system achieves the target orientation 10 times in a row without dropping the cube.
+RUSSELLVILLE, Ark.- Arkansas Tech University’s (ATU) robotics team is heading back to the global stage with a clear goal in mind: bringing home one of the top honors in collegiate robotics. The team w...
 
-The Robot Report • 3h ago
+Yahoo • 2h ago
+
+---
+
+**[University of Chicago's "self-driving" lab automates experiments in quantum computing research](https://www.cbsnews.com/chicago/news/university-of-chicago-self-driving-lab-artificial-intelligence-robotics-quantum-computing/)**
+
+Researchers at the University of Chicago have built a "self-driving" lab that uses robotics and artificial intelligence to accelerate work that would take humans weeks or months to complete.
+
+CBS News • 35m ago
+
+---
+
+**[Qualcomm joins MassRobotics, to support startups with Dragonwing Robotics Hub](https://www.therobotreport.com/qualcomm-joins-massrobotics-supports-startups-dragonwing-robotics-hub/)**
+
+Qualcomm has joined MassRobotics as a sponsor and will support startups with its Dragonwing collaborative developer hub.
+
+The Robot Report • 1h ago
+
+---
+
+**[Gill Pratt Says Humanoid Robots’ Moment Is Finally Here](https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa)**
+
+The architect of the DARPA Robotics Challenge explains how their brains have caught up
+
+IEEE Spectrum • 7h ago
+
+---
+
+**[The world’s largest humanoid robot maker is going public](https://restofworld.org/2026/unitree-china-humanoid-robot-shanghai-ipo/)**
+
+Rest of World • 2d ago
+
+---
+
+**[The gig workers who are training humanoid robots at home](https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/)**
+
+People in Nigeria and India are strapping iPhones onto their heads and recording themselves doing chores.
+
+MIT Technology Review • 1d ago
 
 ---
 
@@ -126,11 +164,11 @@ NASA (.gov) • 1d ago
 
 ---
 
-**[Gill Pratt Says Humanoid Robots’ Moment Is Finally Here](https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa)**
+**[Exclusive: Anvil Robotics Raises $5.5M to Build ‘Legos for Robots’ Platform For Physical AI Teams](https://news.crunchbase.com/robotics/physical-ai-custom-robot-builder-seed-funding-anvil/)**
 
-The architect of the DARPA Robotics Challenge explains how their brains have caught up
+Anvil Robotics, an eight-month-old startup that aims to be the “Legos for robots,” has raised $5.5 million in a seed funding round, it tells Crunchbase News exclusively.
 
-IEEE Spectrum • 1d ago
+Crunchbase News • 9h ago
 
 ---
 
@@ -138,41 +176,7 @@ IEEE Spectrum • 1d ago
 
 The carrier is scaling its use of physical assets powered by AI to strengthen network reliability and improve connectivity with shippers, a FedEx executive said.
 
-Supply Chain Dive • 1d ago
-
----
-
-**[Hyundai Motor Unveils "Next Starts Now" Campaign, Set to Showcase Robotics at FIFA World Cup 2026™](https://www.hyundai.com/worldwide/en/newsroom/detail/hyundai-motor-unveils-next-starts-now-campaign%252C-set-to-showcase-robotics-at-fifa-world-cup-2026%25E2%2584%25A2-0000001147)**
-
-Hyundai Motor Unveils "Next Starts Now" Campaign, Set to Showcase Robotics at FIFA World Cup 2026™
-
-Hyundai • 1d ago
-
----
-
-**[Researchers build a robotic swarm with no electronics, no batteries and no brains](https://techxplore.com/news/2026-04-robotic-swarm-electronics-batteries-brains.html)**
-
-Tech Xplore • 1d ago
-
----
-
-**[The world’s largest humanoid robot maker is going public](https://restofworld.org/2026/unitree-china-humanoid-robot-shanghai-ipo/)**
-
-Rest of World • 2d ago
-
----
-
-**[Robots learn to ask humans for help](https://www.axios.com/2026/04/01/robots-delivery-serve-tmobile)**
-
-axios.com • 13h ago
-
----
-
-**[New Soft Sensors Give Humanoid Robots Finger Finesse](https://neurosciencenews.com/soft-sensing-humanoid-hand-precision-30438/)**
-
-Can robots play the piano? A new study introduces a dexterous robotic hand with omnidirectional soft sensors.
-
-Neuroscience News • 1d ago
+supplychaindive.com • 1d ago
 
 ---
 
@@ -196,7 +200,7 @@ China is leading the world in humanoid robot shipments. Powered by artificial in
 
 📺 CGTN
 
-👁️ 16K • 👍 185 • 💬 27 • ⏱️ 1:54 • 16h ago
+👁️ 16K • 👍 185 • 💬 27 • ⏱️ 1:54 • 17h ago
 
 ---
 
@@ -206,7 +210,7 @@ Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking
 
 📺 The AI Nexus
 
-👁️ 3K • 👍 163 • 💬 12 • ⏱️ 20:43 • 1d ago
+👁️ 3K • 👍 163 • 💬 12 • ⏱️ 20:43 • 2d ago
 
 ---
 
