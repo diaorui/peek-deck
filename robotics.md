@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-02T22:58:56.670854+00:00'
+updated: '2026-04-02T23:44:13.612294+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 02, 2026 at 22:58 UTC  
+**Last Updated:** April 02, 2026 at 23:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,19 +48,19 @@ Robotics research and industry news
 
 been working on this little desktop robot prototype called Kitto for a while now. honestly most of the hype right now is just cramming the biggest model possible into a plastic shell. but testing the interaction on this thing... if the timing is off it just feels like a glorified smart speaker. to make it actually feel 'alive' on a desk, the idle animations and the instant switch to a listening state carry like 90% of the weight. tbh we ended up spending way more time tuning the audio-to-viseme mapping for the face than we did tweaking the actual API prompts. current stack is just an esp32s3+esp32p4 (planning to migrate to a linux board soon so we can handle local processing and maybe hook into openclaw). the screen isnt playing pre-rendered video files btw. the mouth movements are code-driven in real-time by analyzing the audio stream. latency is still my biggest headache though. pinging the api, getting the TTS audio back, and triggering the animation states fast enough to not break the illusion is tough on this hardware. its getting there but still a lot of code to fix. definately not pitching this as finished hardware yet, mostly just looking for honest feedback on the HRI approach. curious how you guys are handling TTS latency in your own conversational builds right now?
 
-7h ago
+8h ago
 
 ---
 
 **[Robotics Studio](https://www.reddit.com/r/robotics/comments/1sapdsp/robotics_studio/)**
 
-4h ago
+5h ago
 
 ---
 
 **["Follow Me" Mode: Real-time human tracking with YOLOv8](https://www.reddit.com/r/robotics/comments/1sac61n/follow_me_mode_realtime_human_tracking_with_yolov8/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -74,7 +74,7 @@ been working on this little desktop robot prototype called Kitto for a while now
 
 Running 3 HC-SR04’s doing object detection and avoidance. Just getting my encoders working. Hoping to be mapping soon. Definitely a fun project.
 
-19m ago
+1h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hello Everyone, I am trying to understand any commanization of motors & actuator
 
 Has anyone seen an estimate for the number of submissions this year? I could not find an official announcement. Maybe the submission IDs could give a rough idea.
 
-10h ago
+11h ago
 
 ---
 
@@ -106,7 +106,7 @@ Has anyone seen an estimate for the number of submissions this year? I could not
 
 **[Generalist Is Betting Its Robot-Training Gloves Will Usher In Robotics’ ChatGPT Moment](https://www.forbes.com/sites/annatong/2026/04/02/generalist-is-betting-its-robot-training-gloves-will-usher-in-robotics-chatgpt-moment/)**
 
-Forbes • 12h ago
+Forbes • 13h ago
 
 ---
 
@@ -114,7 +114,7 @@ Forbes • 12h ago
 
 RUSSELLVILLE, Ark.- Arkansas Tech University’s (ATU) robotics team is heading back to the global stage with a clear goal in mind: bringing home one of the top honors in collegiate robotics. The team w...
 
-Yahoo • 2h ago
+Yahoo • 3h ago
 
 ---
 
@@ -122,7 +122,7 @@ Yahoo • 2h ago
 
 Researchers at the University of Chicago have built a "self-driving" lab that uses robotics and artificial intelligence to accelerate work that would take humans weeks or months to complete.
 
-CBS News • 35m ago
+CBS News • 1h ago
 
 ---
 
@@ -130,7 +130,7 @@ CBS News • 35m ago
 
 Qualcomm has joined MassRobotics as a sponsor and will support startups with its Dragonwing collaborative developer hub.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
@@ -138,7 +138,7 @@ The Robot Report • 1h ago
 
 The architect of the DARPA Robotics Challenge explains how their brains have caught up
 
-IEEE Spectrum • 7h ago
+IEEE Spectrum • 8h ago
 
 ---
 
@@ -168,7 +168,7 @@ NASA (.gov) • 1d ago
 
 Anvil Robotics, an eight-month-old startup that aims to be the “Legos for robots,” has raised $5.5 million in a seed funding round, it tells Crunchbase News exclusively.
 
-Crunchbase News • 9h ago
+Crunchbase News • 10h ago
 
 ---
 
@@ -184,13 +184,13 @@ supplychaindive.com • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Brett Adcock - Shawn Ryan’s First Interview with a Robot | SRS #292](https://www.youtube.com/watch?v=99pOdGEGu6s)**
+**[Xiaomi Unveils &quot;Mi Bot&quot; - Robot Assistant That Can Sell Phones](https://www.youtube.com/watch?v=WgxEbw1i_PM)**
 
-Brett Adcock is a technology entrepreneur focused on building companies in robotics, artificial intelligence, and aerospace.
+Xiaomi is attracting attention with a new concept known as “Mi Bot,” a robotic assistant designed to operate in retail environments ...
 
-📺 Shawn Ryan Show
+📺 Carros Show
 
-👁️ 469K • 👍 10K • 💬 3K • ⏱️ 2:57:09 • 3d ago
+👁️ 4K • 👍 96 • 💬 3 • ⏱️ 8:55 • 4d ago
 
 ---
 
@@ -200,7 +200,7 @@ China is leading the world in humanoid robot shipments. Powered by artificial in
 
 📺 CGTN
 
-👁️ 16K • 👍 185 • 💬 27 • ⏱️ 1:54 • 17h ago
+👁️ 17K • 👍 191 • 💬 27 • ⏱️ 1:54 • 18h ago
 
 ---
 
@@ -210,17 +210,7 @@ Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking
 
 📺 The AI Nexus
 
-👁️ 3K • 👍 163 • 💬 12 • ⏱️ 20:43 • 2d ago
-
----
-
-**[Every Home Will Have a Humanoid Robot in 10 Years](https://www.youtube.com/watch?v=u4NLSzMP8z0)**
-
-Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join Support the Shawn ...
-
-📺 Shawn Ryan Clips
-
-👁️ 10K • 👍 330 • 💬 134 • ⏱️ 15:18 • 3d ago
+👁️ 4K • 👍 171 • 💬 12 • ⏱️ 20:43 • 2d ago
 
 ---
 
@@ -240,7 +230,7 @@ Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In t
 
 📺 Shawn Ryan Show
 
-👁️ 430K • 👍 20K • 💬 4K • ⏱️ 8:48 • 1d ago
+👁️ 482K • 👍 22K • 💬 4K • ⏱️ 8:48 • 1d ago
 
 ---
 
@@ -254,16 +244,6 @@ A new wave of attention is building around Nvidia as the company pushes further 
 
 ---
 
-**[The Six-Servo Robot Dog - it&#39;s open source!](https://www.youtube.com/watch?v=2eKb_2N0SBI)**
-
-Ad: Check out PCBWay for all your project needs! Get $10 off orders over $30 with code: PCBWay-JamesBruton-10 ...
-
-📺 James Bruton
-
-👁️ 50K • 👍 4K • 💬 180 • ⏱️ 16:17 • 2d ago
-
----
-
 **[Shawn Ryan Gets a Real-Life Robot 😳](https://www.youtube.com/watch?v=fQdJb7YzDRc)**
 
 Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join Support the Shawn ...
@@ -274,13 +254,33 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCkouj
 
 ---
 
+**[The Six-Servo Robot Dog - it&#39;s open source!](https://www.youtube.com/watch?v=2eKb_2N0SBI)**
+
+Ad: Check out PCBWay for all your project needs! Get $10 off orders over $30 with code: PCBWay-JamesBruton-10 ...
+
+📺 James Bruton
+
+👁️ 51K • 👍 4K • 💬 181 • ⏱️ 16:17 • 2d ago
+
+---
+
+**[C-Channel Wing Aligner | 19085Z Porg | Robot Rundown](https://www.youtube.com/watch?v=_WaFBGiQN5c)**
+
+C-Channel Wing Aligner | 19085Z Porg | Robot Rundown #vexrobotics #recfoundation #vrcpushback #v5rc #robotics This video ...
+
+📺 FUN Robotics Network
+
+👁️ 407 • 👍 14 • 💬 1 • ⏱️ 1:42 • 2h ago
+
+---
+
 **[Unitree Open‑Source: High‑Quality Real‑Robot Dataset for Humanoid Robots](https://www.youtube.com/watch?v=pN_bj5-QyW8)**
 
 Unitree open-sources UnifoLM-WBT-Dataset — a high-quality real-world humanoid robot whole-body teleoperation (WBT) ...
 
 📺 Unitree Robotics
 
-👁️ 9.6M • 👍 594 • 💬 99 • ⏱️ 1:28 • 6d ago
+👁️ 9.6M • 👍 597 • 💬 101 • ⏱️ 1:28 • 6d ago
 
 ---
 
