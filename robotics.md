@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-02T18:08:10.784112+00:00'
+updated: '2026-04-02T19:29:30.622296+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 02, 2026 at 18:08 UTC  
+**Last Updated:** April 02, 2026 at 19:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,17 +36,29 @@ Robotics research and industry news
 
 been working on this little desktop robot prototype called Kitto for a while now. honestly most of the hype right now is just cramming the biggest model possible into a plastic shell. but testing the interaction on this thing... if the timing is off it just feels like a glorified smart speaker. to make it actually feel 'alive' on a desk, the idle animations and the instant switch to a listening state carry like 90% of the weight. tbh we ended up spending way more time tuning the audio-to-viseme mapping for the face than we did tweaking the actual API prompts. current stack is just an esp32s3+esp32p4 (planning to migrate to a linux board soon so we can handle local processing and maybe hook into openclaw). the screen isnt playing pre-rendered video files btw. the mouth movements are code-driven in real-time by analyzing the audio stream. latency is still my biggest headache though. pinging the api, getting the TTS audio back, and triggering the animation states fast enough to not break the illusion is tough on this hardware. its getting there but still a lot of code to fix. definately not pitching this as finished hardware yet, mostly just looking for honest feedback on the HRI approach. curious how you guys are handling TTS latency in your own conversational builds right now?
 
-3h ago
+4h ago
+
+---
+
+**[Autonomous valet robot demonstrating precise self-parking in a real-world setting](https://www.reddit.com/r/robotics/comments/1san0l2/autonomous_valet_robot_demonstrating_precise/)**
+
+2h ago
+
+---
+
+**[Generalist | Introducing GEN-1](https://www.reddit.com/r/robotics/comments/1saoiaj/generalist_introducing_gen1/)**
+
+1h ago
 
 ---
 
 **["Follow Me" Mode: Real-time human tracking with YOLOv8](https://www.reddit.com/r/robotics/comments/1sac61n/follow_me_mode_realtime_human_tracking_with_yolov8/)**
 
-9h ago
+10h ago
 
 ---
 
-**[Autonomous valet robot demonstrating precise self-parking in a real-world setting](https://www.reddit.com/r/robotics/comments/1san0l2/autonomous_valet_robot_demonstrating_precise/)**
+**[Robotics Studio](https://www.reddit.com/r/robotics/comments/1sapdsp/robotics_studio/)**
 
 1h ago
 
@@ -55,6 +67,14 @@ been working on this little desktop robot prototype called Kitto for a while now
 **[China announces its first automated manufacturing line capable of producing 10K humanoid robots per year - 1 robot every 30 minutes](https://www.reddit.com/r/robotics/comments/1s9qso0/china_announces_its_first_automated_manufacturing/)**
 
 1d ago
+
+---
+
+**[Help](https://www.reddit.com/r/robotics/comments/1saqy8p/help/)**
+
+hello have a task to draw a tennis racket trajectory during a stroke. the racket has an imu How can i do that ? been struggling with estimating position from it
+
+9m ago
 
 ---
 
@@ -68,39 +88,15 @@ been working on this little desktop robot prototype called Kitto for a while now
 
 Has anyone seen an estimate for the number of submissions this year? I could not find an official announcement. Maybe the submission IDs could give a rough idea.
 
-6h ago
+7h ago
 
 ---
 
-**[I made my robot wal JUST LIKE BAYMAX](https://www.reddit.com/r/robotics/comments/1sabqhy/i_made_my_robot_wal_just_like_baymax/)**
+**[Prof telling me to help with a rebuttal while not being a author](https://www.reddit.com/r/robotics/comments/1saocvg/prof_telling_me_to_help_with_a_rebuttal_while_not/)**
 
-it uses only two motors to walk unlike most other bipedal robots. What do you guys think? Also I just made the base and hand for now ! https://www.youtube.com/watch?v=InKbSM_C5Xc
+I'm a master's student and part of a robotics lab. Recently my proffesor submitted a paper for RA-L where primary authors are different people in the same lab. Some days ago their rebuttal came asking for a through experimentation and new baselines. Since our lab is really new nobody knows how to implement hardware here. One guy did the hardware implementation but then he did lab exit and went for his PhD. Now my proff is asking me to do the hardware implementation for all Baselines and saying he will put my name and that it will be good for my cv. Honestly, doing their work would require lots of effort and I'm not sure to do it for some 3rd,4th authorship which I'm not even sure is allowed. I want to do a phd after my masters but I'm not sure this authorship would do me any good. I'm not sure what to do in my case and thus I turned to reddit. Did anybody faced this before? What did you guys do?
 
-9h ago
-
----
-
-**[Introducing Gen-1](https://www.reddit.com/r/robotics/comments/1samj56/introducing_gen1/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=SY2xyrmV44Y) • 1h ago
-
----
-
-**[LLMs in industrial robotics workflows](https://www.reddit.com/r/robotics/comments/1sag8h6/llms_in_industrial_robotics_workflows/)**
-
-LLMs are being used in industrial robotics to generate robot motion code, PLC logic, and supporting automation scripts from natural language inputs. The primary application is in repetitive tasks such as sequencing, template generation, and initial system configuration. Outputs are reviewed, tested, and refined by engineers before deployment. When combined with simulation, this allows portions of robotic systems to be developed and tested prior to full hardware availability, reducing reliance on sequential commissioning.
-
-🔗 [Automate](https://www.automate.org/ai/industry-insights/accelerating-industrial-automation-with-llms) • 5h ago
-
----
-
-**[Common Motors across Cobots, Humanoids, Robot Dogs](https://www.reddit.com/r/robotics/comments/1sal8nj/common_motors_across_cobots_humanoids_robot_dogs/)**
-
-Hello Everyone, I am trying to understand any commanization of motors & actuator specs in robotics (Humanoids, cobots, robot dogs) landscape. There has been quite significant progress in the last couple of years. I now see that companies like Unitree, Tesla already scaling up their robots. I understand that the motors and actuators they are using has been specifically made for their own applications but I was wondering if there is one single common motor and actuator that is common across these applications. Here is what I found out: PMSM + QDD for Robot dogs BLDC + Harmonics - Industrial precision Is there any specific range/specs across the motors and actuators that can be made like an off the shelf component? Any leads would be helpful.
-
-2h ago
+1h ago
 
 ---
 
@@ -112,13 +108,13 @@ Hello Everyone, I am trying to understand any commanization of motors & actuator
 
 Robotics training and human research were the primary duties for the Expedition 74 crew aboard the International Space Station on Wednesday. The orbital residents rounded out their shift with spacesuit work, cargo operations, and Earth observations.
 
-NASA (.gov) • 22h ago
+NASA (.gov) • 23h ago
 
 ---
 
 **[Generalist Is Betting Its Robot-Training Gloves Will Usher In Robotics’ ChatGPT Moment](https://www.forbes.com/sites/annatong/2026/04/02/generalist-is-betting-its-robot-training-gloves-will-usher-in-robotics-chatgpt-moment/)**
 
-Forbes • 7h ago
+Forbes • 1h ago
 
 ---
 
@@ -154,7 +150,19 @@ Rest of World • 2d ago
 
 People in Nigeria and India are strapping iPhones onto their heads and recording themselves doing chores.
 
-technologyreview.com • 1d ago
+MIT Technology Review • 1d ago
+
+---
+
+**[Europe Vies to Be Humanoid Robot Leader in Global Tech Race](https://www.bloomberg.com/news/articles/2026-04-01/europe-vies-to-be-humanoid-robot-leader-in-global-tech-race)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Robots learn to ask humans for help](https://www.axios.com/2026/04/01/robots-delivery-serve-tmobile)**
+
+Axios • 10h ago
 
 ---
 
@@ -163,20 +171,6 @@ technologyreview.com • 1d ago
 The architect of the DARPA Robotics Challenge explains how their brains have caught up
 
 IEEE Spectrum • 1d ago
-
----
-
-**[West Virginia uses AI, robotics to promote industry at World Chemical Forum](https://www.wboy.com/news/west-virginia/west-virginia-uses-ai-robotics-to-promote-industry-at-world-chemical-forum/)**
-
-WBOY.com • 1h ago
-
----
-
-**[US targets Chinese robots over security fears](https://www.foxnews.com/tech/us-targets-chinese-robots-over-security-fears)**
-
-Senators Cotton and Schumer introduced the American Security Robotics Act to ban federal agencies from using robots tied to foreign adversaries like China.
-
-Fox News • 2h ago
 
 ---
 
@@ -220,7 +214,7 @@ Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In t
 
 📺 Shawn Ryan Show
 
-👁️ 360K • 👍 18K • 💬 3K • ⏱️ 8:48 • 21h ago
+👁️ 360K • 👍 18K • 💬 3K • ⏱️ 8:48 • 22h ago
 
 ---
 
@@ -240,7 +234,7 @@ A new wave of attention is building around Nvidia as the company pushes further 
 
 📺 Carros Show
 
-👁️ 4K • 👍 62 • 💬 4 • ⏱️ 8:42 • 5d ago
+👁️ 4K • 👍 62 • 💬 4 • ⏱️ 8:42 • 6d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-02T18:08:10.781036+00:00'
+updated: '2026-04-02T19:29:30.619506+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 02, 2026 at 18:08 UTC  
+**Last Updated:** April 02, 2026 at 19:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,067.77
+### $2,057.86
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.7%  
-**7d:** +3.9%  
-**30d:** -2.8%  
-**90d:** -33.8%  
-**1y:** +13.8%  
+**24h:** -3.9%  
+**7d:** +3.4%  
+**30d:** -3.2%  
+**90d:** -34.1%  
+**1y:** +13.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We recently recorded a PEEPanEIP session on EIP-7904, joined by Jacek Sieka and Maria Inês Oliveira. The conversation covers: Motivation behind the proposal Key design considerations Potential impact on the Ethereum ecosystem Open questions and areas for feedback The goal of PEEPanEIP is to make EIPs more accessible and easier to follow for the broader community - especially for those who may not be deep in the specs but want to stay informed. 🎥 Watch the full video https://youtu.be/CswFnsZTXmI Would love to hear thoughts from others following EIP-7904 or working in similar areas - feedback and perspectives welcome.
 
-2h ago
+3h ago
 
 ---
 
@@ -88,19 +88,19 @@ We recently recorded a PEEPanEIP session on EIP-7904, joined by Jacek Sieka and 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/live/aco5-l_bpOo?si=IZEg8wYNkTUOiGA_) • 6h ago
+🔗 [youtube.com](https://www.youtube.com/live/aco5-l_bpOo?si=IZEg8wYNkTUOiGA_) • 7h ago
 
 ---
 
 **[New Partnership: Nodle x PARAGON ID](https://www.reddit.com/r/ethereum/comments/1sall1a/new_partnership_nodle_x_paragon_id/)**
 
-2h ago
+3h ago
 
 ---
 
 **[AI, bots & algorithms](https://www.reddit.com/r/ethereum/comments/1saiwdj/ai_bots_algorithms/)**
 
-3h ago
+5h ago
 
 ---
 
@@ -158,19 +158,27 @@ CoinDesk • 2d ago
 
 Google parent company Alphabet (NASDAQ: $GOOGL) is warning that $100 billion U.S. of Ethereum (CRYPTO: $ETH) is at ...
 
-Yahoo Finance • 2d ago
+finance.yahoo.com • 2d ago
 
 ---
 
 **[Google Warns Quantum Computers Could Break Bitcoin and Ethereum in 9 Minutes — Should You Be Worried?](https://www.ccn.com/education/crypto/google-quantum-computers-break-bitcoin-ethereum-9-minutes-1-7m-btc-risk/)**
 
-ccn.com • 2d ago
+CCN.com • 2d ago
+
+---
+
+**[Tether's USAT Stablecoin Expands Beyond Ethereum Mainnet to Celo](https://decrypt.co/362941/tethers-usat-stablecoin-expands-ethereum-mainnet-celo)**
+
+The Tether-backed USAT stablecoin built for the U.S. market is expanding to Ethereum layer-2 network Celo with help from Google Cloud.
+
+Decrypt • 2d ago
 
 ---
 
 **[Ethereum’s Silent Bull Run: Traders Are Missing the Network Growth as Prices Dip](https://www.investing.com/analysis/ethereums-silent-bull-run-traders-are-missing-the-network-growth-as-prices-dip-200677788)**
 
-Investing.com • 2h ago
+Investing.com • 3h ago
 
 ---
 
@@ -178,21 +186,7 @@ Investing.com • 2h ago
 
 Bitcoin and ethereum lose ground after Trump addresses nation in a prime-time address with mixed messages about Iran war.
 
-Yahoo Finance • 5h ago
-
----
-
-**[Most large cryptocurrencies fall on Solana, Ethereum drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-solana-ethereum-drops-06702da9-e670e788b6b1?gaa_at=eafs&gaa_n=AWEtsqcBjGBOJIkBHWRUHBcDxjAbL0J_sKdtS5Ytw0cCJI5VxmSfpLK2gAQJ&gaa_ts=69cea9b2&gaa_sig=2z6WvEgOi0s9zra2ei5Tj3wzrrk-EJ3JbIp_G7ZcPR4skviB54T5wAW-9Fjes6waD-GWNtEE0sr55pvZntNXqw%3D%3D)**
-
-MarketWatch • 4h ago
-
----
-
-**[Current price of Ethereum for April 2, 2026](https://fortune.com/article/price-of-ethereum-04-02-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 2h ago
+finance.yahoo.com • 7h ago
 
 ---
 
@@ -204,19 +198,25 @@ CoinDesk • 1d ago
 
 ---
 
+**[Most large cryptocurrencies fall on Solana, Ethereum drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-solana-ethereum-drops-06702da9-e670e788b6b1?gaa_at=eafs&gaa_n=AWEtsqe5KoOeFyzZcUytiDcu-BaqvgeyvazpFPg_Fcb5cFV2N57MxYn81KYT&gaa_ts=69cec707&gaa_sig=LeNgxobIVAZRCF6lmQjgvdLtIicbFxfguFUd2cnLoNNye45DpMH3oYpL0a1SwcWMGc7hynem5nc_wM_sJ82Xjw%3D%3D)**
+
+MarketWatch • 5h ago
+
+---
+
 **[Ethereum Price Crash Update: Analyst Forecasts Fall To $600 If This Happens](https://www.tradingview.com/news/newsbtc:717f71d18094b:0-ethereum-price-crash-update-analyst-forecasts-fall-to-600-if-this-happens/)**
 
 Ethereum is currently trading above $2,100 at the start of the new month, but one analyst believes the asset’s next major directional move is based on a single price level: one that, if broken, would invalidate years of macro analysis and cause a price collapse to as low as $900.The Count That Has…
 
-TradingView • 18h ago
+TradingView • 19h ago
 
 ---
 
-**[Tether's USAT Stablecoin Expands Beyond Ethereum Mainnet to Celo](https://decrypt.co/362941/tethers-usat-stablecoin-expands-ethereum-mainnet-celo)**
+**[Current price of Ethereum for April 2, 2026](https://fortune.com/article/price-of-ethereum-04-02-2026/)**
 
-The Tether-backed USAT stablecoin built for the U.S. market is expanding to Ethereum layer-2 network Celo with help from Google Cloud.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Decrypt • 1d ago
+Fortune • 4h ago
 
 ---
 
@@ -230,7 +230,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEE
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 266 • ⏱️ 10:45 • 19h ago
+👁️ 33K • 👍 2K • 💬 266 • ⏱️ 10:45 • 21h ago
 
 ---
 
@@ -240,7 +240,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 757 • 👍 74 • 💬 2 • ⏱️ 5:43 • 3h ago
+👁️ 757 • 👍 74 • 💬 2 • ⏱️ 5:43 • 5h ago
 
 ---
 
@@ -250,7 +250,7 @@ GET THE BOOK: https://bullmania.com/book FREE TRAINING: https://www.bullmania.co
 
 📺 Ivan on Tech
 
-👁️ 14K • 👍 1K • 💬 61 • ⏱️ 56:09 • 9h ago
+👁️ 14K • 👍 1K • 💬 61 • ⏱️ 56:09 • 10h ago
 
 ---
 
@@ -260,7 +260,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 184 • 👍 10 • 💬 2 • ⏱️ 4:34 • 7h ago
+👁️ 184 • 👍 10 • 💬 2 • ⏱️ 4:34 • 8h ago
 
 ---
 
@@ -280,7 +280,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 60 • 💬 5 • ⏱️ 4:53 • 16h ago
+👁️ 1K • 👍 60 • 💬 5 • ⏱️ 4:53 • 17h ago
 
 ---
 
@@ -290,7 +290,7 @@ Welcome to Verified Investing Pro Traders channel. In this episode or Pro Charts
 
 📺 Verified Pro Traders
 
-👁️ 84 • 👍 13 • ⏱️ 8:59 • 8m ago
+👁️ 84 • 👍 13 • ⏱️ 8:59 • 1h ago
 
 ---
 
@@ -310,7 +310,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 402 • 👍 13 • 💬 6 • ⏱️ 6:16 • 23h ago
+👁️ 402 • 👍 13 • 💬 6 • ⏱️ 6:16 • 1d ago
 
 ---
 
@@ -320,7 +320,7 @@ Hang in there everyone! The risk models that say when to accumulate or exit HERE
 
 📺 Dan Gambardello
 
-👁️ 10K • 👍 620 • 💬 203 • ⏱️ 13:49 • 1d ago
+👁️ 10K • 👍 620 • 💬 203 • ⏱️ 13:49 • 2d ago
 
 ---
 
