@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-01T23:56:53.883673+00:00'
+updated: '2026-04-02T02:43:47.431609+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - cryptocurrency
 - news
 - social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 01, 2026 at 23:56 UTC  
+**Last Updated:** April 02, 2026 at 02:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,125.86
+### $2,080.25
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
-**7d:** +4.1%  
-**30d:** +8.1%  
-**90d:** -31.4%  
-**1y:** +19.5%  
+**24h:** -1.1%  
+**7d:** +4.4%  
+**30d:** -2.5%  
+**90d:** -33.7%  
+**1y:** +14.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $258.48B
+**Market Cap:** $251.41B
 Rank #2
 
-**Circulating Supply:** 120,691,362 ETH
+**Circulating Supply:** 120,691,323 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.7%
+-57.9%
 
 **All-Time Low:** $0.43
-+494309.7%
++481087.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+21h ago
 
 ---
 
@@ -80,19 +80,21 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Two months after Ethereum mainnet launched, Vitalik deployed a 3-contract on-chain arbitration system written in Serpent. We just verified all three with exact bytecode matches. The contracts: ArbiterRegistry (0x82afa2c4, block 301,954 - Sep 28, 2015) Arbiters pay 1+ ETH to list themselves as dispute mediators. The fee decays 50% per month using a 3rd-order Taylor series approximation, so inactive arbiters fall in the rankings automatically. Hardcoded EF withdrawal address. Someone called register() again in 2024 - still works. Arbitration (0xe881af13, block 303,316 + 0x7e2d0fe0, block 318,029) Smart escrow with designated arbiters. Two parties create a contract, designate arbiters, and funds auto-transfer when >50% of arbiters vote. Both parties can also instantly surrender to the other side. Vitalik tested it from both his dev address and vitalik.eth. The forensics: The source Vitalik later committed to ethereum/dapp-bin had one line wrong vs what he actually deployed. The ArbiterNotification log had its indexed arguments in reversed order. He fixed the arg order in git after shipping. The chain preserved the original - we had to catch that divergence to get an exact match. How we verified it: Not decompilation. We compiled forward: found the source in ethereum/dapp-bin, identified the exact Serpent compiler commit used (e5a5f875, Sep 26 2015), compiled it, and compared output byte-for-byte against the on-chain code. Full docs + live contract interaction (ABIs published): - https://ethereumhistory.com/contract/0x82afa2c4a686af9344e929f9821f3e8c6e9293ab - https://ethereumhistory.com/contract/0xe881af13bf55c97562fe8d2da2f6ea8e3ff66f98 Verification repos: - https://github.com/cartoonitunes/arbiter-reg-verification - https://github.com/cartoonitunes/arbitration-verification EthereumHistory is a free archive - if you find this useful, you can support it at ethereumhistory.com/donate
 
-8h ago
+11h ago
 
 ---
 
-**[Why Monad Isn't "Just Another Fast Chain"](https://www.reddit.com/r/ethereum/comments/1s9x9v4/why_monad_isnt_just_another_fast_chain/)**
+**[Get informed](https://www.reddit.com/r/ethereum/comments/1sa5a89/get_informed/)**
 
-2h ago
+I spent these last 10 months researching and writing a 331+ page crypto investing guide for 2026. I broke down: • 20 cryptocurrencies with long-term potential • Market cycle timing and patterns • Price forecasts based on historical data • Risk factors most people ignore I just launched it on Amazon — and it’s FREE for the next 2 days. https://www.amazon.com/dp/B0GRBTXM7J
+
+5m ago
 
 ---
 
 **[Building a community for the devs that are left](https://www.reddit.com/r/ethereum/comments/1s9o3mk/building_a_community_for_the_devs_that_are_left/)**
 
-🔗 [X (formerly Twitter)](https://x.com/0xCryptodevs/status/2039365286701175019) • 8h ago
+🔗 [X (formerly Twitter)](https://x.com/0xCryptodevs/status/2039365286701175019) • 11h ago
 
 ---
 
@@ -112,17 +114,17 @@ Hello everyone! I've built a tool to help recover ETH stuck in old smart contrac
 
 ---
 
+**[Launching Project on Base](https://www.reddit.com/r/ethereum/comments/1s99k1a/launching_project_on_base/)**
+
+22h ago
+
+---
+
 **[Daily General Discussion March 31, 2026](https://www.reddit.com/r/ethereum/comments/1s8e3ii/daily_general_discussion_march_31_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 1d ago
-
----
-
-**[Launching Project on Base](https://www.reddit.com/r/ethereum/comments/1s99k1a/launching_project_on_base/)**
-
-20h ago
 
 ---
 
@@ -148,7 +150,7 @@ ZCHF is a decentralized stablecoin that is designed to track the value of the Sw
 
 Google parent company Alphabet (NASDAQ: $GOOGL) is warning that $100 billion U.S. of Ethereum (CRYPTO: $ETH) is at ...
 
-finance.yahoo.com • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -162,15 +164,15 @@ CoinDesk • 1d ago
 
 **[Google Warns Quantum Computers Could Break Bitcoin and Ethereum in 9 Minutes — Should You Be Worried?](https://www.ccn.com/education/crypto/google-quantum-computers-break-bitcoin-ethereum-9-minutes-1-7m-btc-risk/)**
 
-ccn.com • 1d ago
+CCN.com • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Recover As Iran Signals Willingness To End Hostilities - Grayscale Bitco](https://www.benzinga.com/crypto/cryptocurrency/26/03/51583872/bitcoin-ethereum-xrp-dogecoin-recover-as-iran-signals-willingness-to-end-hostilities)**
+**[What’s on the Ethereum Roadmap: Glamsterdam, Hegota and Beyond](https://decrypt.co/resources/whats-on-ethereum-roadmap-glamsterdam-hegota-beyond)**
 
-Bitcoin and other major cryptocurrencies regained some losses on Tuesday after Iran signaled a willingness to pursue peace talks.
+Ethereum has rolled out a steady stream of upgrades since 2022. Here’s how those changes fit together—and what’s still ahead.
 
-Benzinga • 1d ago
+Decrypt • 3d ago
 
 ---
 
@@ -178,7 +180,7 @@ Benzinga • 1d ago
 
 Forum is building a digital asset platform to tokenize real-world assets on Ethereum L2, targeting high-yield markets like auto loans and real estate. Exclusive partnerships and a strong cash position support growth, with projected AUM of $125M–$200M by end of 2026 and rapid revenue expansion.Origi…
 
-TradingView • 1h ago
+TradingView • 4h ago
 
 ---
 
@@ -186,7 +188,7 @@ TradingView • 1h ago
 
 On this episode of Crypto Check, Yahoo Finance Senior Reporter Brooke DiPalma takes a look at names like Coinbase (COIN) and Robinhood (HOOD), as well as bitcoin's (BTC-USD) and ethereum's (ETH-USD) price action amid the latest Iran war developments.
 
-finance.yahoo.com • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -194,7 +196,7 @@ finance.yahoo.com • 1d ago
 
 Investors looking to bet on tokenization should think in phases, with institution-friendly networks like Canton likely winning first and Avalanche, Ethereum capturing more upside later, Grayscale's Zach Pandl said.
 
-CoinDesk • 8h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -202,7 +204,7 @@ CoinDesk • 8h ago
 
 Aave V4 features a hub-and-spoke architecture that concentrates liquidity to supply a wider range of markets and use cases with credit lines.
 
-theblock.co • 2d ago
+The Block • 2d ago
 
 ---
 
@@ -210,7 +212,7 @@ theblock.co • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 11h ago
+Fortune • 14h ago
 
 ---
 
@@ -226,6 +228,26 @@ africa.businessinsider.com • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Crypto Bull Run Has Started... but everyone&#39;s missing it!](https://www.youtube.com/watch?v=bDQgqJykRDc)**
+
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEEX Poker Party is LIVE ($30k Bonus): ...
+
+📺 Altcoin Daily
+
+👁️ 11K • 👍 954 • 💬 75 • ⏱️ 10:45 • 4h ago
+
+---
+
+**[Ethereum Pumped 23% Last Time... But Waiting For THIS Signal Could Yield FAR MORE!](https://www.youtube.com/watch?v=KQC7G3k41ZY)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 265 • 👍 9 • 💬 29 • ⏱️ 6:16 • 7h ago
+
+---
+
 **[Institutions Thirsty For ETH🔥MASSIVE Ethereum Update!🚀](https://www.youtube.com/watch?v=-ht1A0Z2vIU)**
 
 This year's EthCC event in Cannes has fielded its first major announcement: the Ethereum Economic Zone. This new effort is ...
@@ -236,23 +258,23 @@ This year's EthCC event in Cannes has fielded its first major announcement: the 
 
 ---
 
-**[BMNR | Ethereum DCA Strategy and Market Update](https://www.youtube.com/watch?v=mkxj4eIgpDU)**
-
-BMNR is continuing to build one of the largest Ethereum treasuries in the world now holding over 4.7 million ETH and a $10.7B ...
-
-📺 The Value Thinker
-
-👁️ 7K • 👍 458 • 💬 49 • ⏱️ 20:46 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=pLJhV93LNZg)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=6jEeJT0vai0)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 103 • 💬 9 • ⏱️ 4:22 • 12h ago
+👁️ 140 • 👍 11 • 💬 1 • ⏱️ 4:53 • 1h ago
+
+---
+
+**[NEW BITCOIN PRICE TARGETS REVEALED (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=2nvgbUnK70Q)**
+
+NEW BITCOIN PRICE TARGETS REVEALED (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+
+📺 Crypto World
+
+👁️ 1K • 👍 105 • 💬 206 • ⏱️ 15:43 • 2h ago
 
 ---
 
@@ -262,7 +284,7 @@ Hang in there everyone! The risk models that say when to accumulate or exit HERE
 
 📺 Dan Gambardello
 
-👁️ 10K • 👍 614 • 💬 211 • ⏱️ 13:49 • 1d ago
+👁️ 10K • 👍 615 • 💬 212 • ⏱️ 13:49 • 1d ago
 
 ---
 
@@ -272,17 +294,27 @@ BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX
 
 📺 Lark Davis
 
-👁️ 3K • 👍 84 • 💬 2 • ⏱️ 0:47 • 23h ago
+👁️ 4K • 👍 86 • 💬 3 • ⏱️ 0:47 • 1d ago
 
 ---
 
-**[Ethereum Pumped 23% Last Time... But Waiting For THIS Signal Could Yield FAR MORE!](https://www.youtube.com/watch?v=KQC7G3k41ZY)**
+**[BMNR | Ethereum DCA Strategy and Market Update](https://www.youtube.com/watch?v=mkxj4eIgpDU)**
 
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+BMNR is continuing to build one of the largest Ethereum treasuries in the world now holding over 4.7 million ETH and a $10.7B ...
 
-📺 Trade Confident
+📺 The Value Thinker
 
-👁️ 195 • 👍 9 • 💬 3 • ⏱️ 6:16 • 4h ago
+👁️ 7K • 👍 464 • 💬 51 • ⏱️ 20:46 • 1d ago
+
+---
+
+**[GPU Mining is BACK?! This Feels Like Ethereum Again (NOT CLICKBAIT)](https://www.youtube.com/watch?v=V_aqxhFYa3M)**
+
+Tangem Cold Storage Crypto Wallet https://geni.us/rpmtangem use code RPM for 10% off! ⛏️Mine RPMC here ...
+
+📺 Red Panda Mining
+
+👁️ 5K • 👍 572 • 💬 190 • ⏱️ 9:11 • 15h ago
 
 ---
 
@@ -293,36 +325,6 @@ New data shows the future of markets and crypto in general. Its important for bi
 📺 Thomas Kralow
 
 👁️ 24K • 👍 2K • 💬 89 • ⏱️ 11:48 • 2d ago
-
----
-
-**[🚀 XRP: DEMANDA MASIVA SUPERA a Bitcoin y Ethereum!! 😲 TRUMP: ANUNCIO INMINENTE HOY!! | SOLANA](https://www.youtube.com/watch?v=9RMbSkVPSic)**
-
-Bitcoin y la bolsa se mantienen en una zona de indecisión, con el mercado pendiente de lo que pueda decir Donald Trump.
-
-📺 WhatsUpCripto
-
-👁️ 722 • 👍 142 • 💬 32 • ⏱️ 16:42 • 2h ago
-
----
-
-**[GPU Mining is BACK?! This Feels Like Ethereum Again (NOT CLICKBAIT)](https://www.youtube.com/watch?v=V_aqxhFYa3M)**
-
-Tangem Cold Storage Crypto Wallet https://geni.us/rpmtangem use code RPM for 10% off! ⛏️Mine RPMC here ...
-
-📺 Red Panda Mining
-
-👁️ 5K • 👍 546 • 💬 185 • ⏱️ 9:11 • 12h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=ULw3gW7K-JA)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 627 • 👍 57 • ⏱️ 5:49 • 7h ago
 
 ---
 

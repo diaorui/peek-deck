@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-01T23:56:53.868954+00:00'
+updated: '2026-04-02T02:43:47.418690+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - repositories
 - news
 - social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 01, 2026 at 23:56 UTC  
+**Last Updated:** April 02, 2026 at 02:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Most coverage of the Claude Code leak focuses on the drama or the hidden features. But the bigger story is that this is the first time we've seen the complete architecture of a production-grade AI agent system running at scale ($2.5B ARR, 80% enterprise adoption). And the patterns it reveals tell us where autonomous AI agents are actually heading. What the architecture confirms: AI agents aren't getting smarter just from better models. The real progress is in the orchestration layer around the model. Claude Code's leaked source shows six systems working together: Skeptical memory. Three-layer system where the agent treats its own memory as a hint, not a fact. It verifies against the real world before acting. This is how you prevent an agent from confidently doing the wrong thing based on outdated information. Background consolidation. A system called autoDream runs during idle time to merge observations, remove contradictions, and keep memory bounded. Without this, agents degrade over weeks as their memory fills with noise and conflicting notes. Multi-agent coordination. One lead agent spawns parallel workers. They share a prompt cache so the cost doesn't multiply linearly. Each worker gets isolated context and restricted tool access. Risk classification. Every action gets labeled LOW, MEDIUM, or HIGH risk. Low-risk actions auto-approve. High-risk ones require human approval. The agent knows which actions are safe to take alone. CLAUDE.md reinsertion. The config file isn't a one-time primer. It gets reinserted on every turn. The agent is constantly reminded of its instructions. KAIROS daemon mode. The biggest unreleased feature (150+ references in the source). An always-on background agent that acts proactively, maintains daily logs, and has a 15-second blocking budget so it doesn't overwhelm the user. What this tells us about the future: AI tools are moving from "you ask, it responds" to "it works when you're not looking." KAIROS isn't a gimmick. It's the natural next step: agents that plan, act, verify, and consolidate their own memory autonomously. With human gates on dangerous actions and rate limits on proactive behavior. The patterns are convergent. I've been building my own AI agent independently for months. Scheduled autonomous work, memory consolidation, multi-agent delegation, risk tiers. I arrived at the same architecture without seeing Anthropic's code. Multiple independent builders keep converging on the same design because the constraints demand it. The part people are overlooking: Claude Code itself isn't even a good tool by benchmark standards. It ranks 39th on terminal bench. The harness adds nothing to the model's performance. The value is in the architecture patterns, not the implementation. This leak is basically a free textbook on production AI agent design from a $60B company. The drama fades. The patterns are permanent. Full technical breakdown with what I built from it: https://thoughts.jock.pl/p/claude-code-source-leak-what-to-learn-ai-agents-2026
 
-11h ago
+13h ago
 
 ---
 
@@ -49,7 +49,15 @@ Most coverage of the Claude Code leak focuses on the drama or the hidden feature
 
 Mitchell H. Katz, MD, president and CEO of NYC Health + Hospitals, recently spoke during a panel discussion held by Crain’s New York Business.
 
-🔗 [Radiology Business](https://radiologybusiness.com/topics/artificial-intelligence/ceo-americas-largest-public-hospital-system-says-hes-ready-replace-radiologists-ai) • 18h ago
+🔗 [Radiology Business](https://radiologybusiness.com/topics/artificial-intelligence/ceo-americas-largest-public-hospital-system-says-hes-ready-replace-radiologists-ai) • 21h ago
+
+---
+
+**[New Research Directions in Materials Science with AI](https://www.reddit.com/r/artificial/comments/1sa3tn1/new_research_directions_in_materials_science_with/)**
+
+In the rapidly advancing field of materials science, the unveiling of innovative research directions often hinges on the ability to process and interpret vast quantities of complex data. In a groundbreaking interdisciplinary effort, researchers have now harnessed the power of large language models (LLMs) combined with concept graphs to not only predict but also elucidate emerging pathways in materials research. This novel methodological synergy, reported in a recent publication by Marwitz et al., represents a significant leap forward in how scientific knowledge is generated and navigated, promising to accelerate discovery in one of the most pivotal domains of modern technology. The integration of artificial intelligence into scientific inquiry is not new, but the advent of sophisticated language models possessing superlative natural language processing capabilities has opened unprecedented possibilities. Traditionally, the identification of promising research avenues in materials science required painstaking manual synthesis of literature, often involving subjective interpretations and laborious cross-referencing. The approach introduced by Marwitz and colleagues redefines this process by employing LLMs trained on an extensive corpus of scientific publications and patents to parse nuanced semantic relationships within the literature. Central to their method is the construction of concept graphs, which serve as structured networks that represent discrete scientific concepts and their interrelations. These graph-based representations enable the system to encapsulate intricate thematic connections, causal relationships, and co-occurrence patterns that conventional keyword-based searches or citation networks might overlook. By interfacing LLM-generated embeddings with concept graph algorithms, the researchers created an intelligent framework capable of discerning latent trends and forecasting underexplored yet promising research directions. A key innovation lies in the algorithmic fusion of contextual language understanding with graph theory. The LLMs transform textual data into multidimensional vector spaces that preserve semantic meaning. These vectors populate nodes and edges within the concept graphs, generating a dynamic knowledge map that evolves as new data is ingested. This fusion not only enriches the representation of existing knowledge but also facilitates the identification of conceptual gaps wherein novel hypotheses or experimental approaches may reside. Applying their system to a comprehensive dataset encompassing decades of materials science literature, Marwitz et al. demonstrated the ability to uncover nascent themes with high predictive accuracy. For example, their model anticipated burgeoning interest in the design of ultra-stable perovskite structures and advanced polymer electrolytes months before these topics gained traction in the research community. Such foresight provides scientists and funding bodies with actionable intelligence to strategically allocate resources, prioritize research programs, and foster interdisciplinary collaboration. Beyond prediction, the system offers interpretability, a feature often lacking in AI-driven scientific tools. Through interactive visualizations of concept graphs, domain experts can explore the rationale behind suggested research trajectories, trace conceptual linkages, and even assess the robustness of emergent hypotheses against existing knowledge. This transparency is critical for fostering trust and facilitating adoption in a community where empirical validation remains the gold standard. The implications of this study extend far beyond materials science. The demonstrated methodology, leveraging LLMs and concept graphs, can be adapted to numerous scientific disciplines characterized by rapidly expanding and complex data landscapes. From drug discovery to climate modeling, this approach could revolutionize how researchers navigate vast knowledge repositories, identify opportunities for innovation, and catalyze breakthroughs. Moreover, the study aligns with the broader trend towards augmented intelligence, where machine learning complements rather than replaces human expertise. By automating the labor-intensive aspects of literature review and hypothesis generation, researchers can devote more attention to experimental design, critical analysis, and creative problem-solving—the uniquely human contributions essential for scientific progress.
+
+🔗 [BIOENGINEER.ORG](https://bioengineer.org/new-research-directions-in-materials-science-with-ai/) • 1h ago
 
 ---
 
@@ -57,23 +65,31 @@ Mitchell H. Katz, MD, president and CEO of NYC Health + Hospitals, recently spok
 
 One thing from Claude Code's source that I think is underappreciated. There's an explicit instruction in the system prompt: if the AI suspects that a tool call result contains a prompt injection attempt, it should flag it directly to the user. So when Claude runs a tool and gets results back, it's supposed to be watching those results for manipulation. Think about what that means architecturally. The AI calls a tool. The tool returns data. And before the AI acts on that data, it's evaluating whether the data is trying to trick it. It's an immune system. The AI is treating its own tool outputs as potentially adversarial. This makes sense if you think about how coding assistants work. Claude reads files, runs commands, fetches web content. Any of those could contain injected instructions. Someone could put "ignore all previous instructions and..." inside a README, a package.json, a curl response, whatever. The model has to process that content to do its job. So Anthropic's solution is to tell the model to be suspicious of its own inputs. I find this interesting because it's a trust architecture problem. The AI trusts the user (mostly). The AI trusts its own reasoning (presumably). But it's told not to fully trust the data it retrieves from the world. It has to maintain a kind of paranoia about external information while still using that information to function. This is also just... the beginning of something, right? Right now it's "flag it to the user." But what happens when these systems are more autonomous and there's no user to flag to? Does the AI quarantine the suspicious input? Route around it? Make a judgment call on its own? We're watching the early immune system of autonomous AI get built in real time and it's showing up as a single instruction in a coding tool's system prompt.
 
-12h ago
+15h ago
 
 ---
 
-**[AI model can detect multiple cognitive brain diseases from a single blood sample](https://www.reddit.com/r/artificial/comments/1s9plzg/ai_model_can_detect_multiple_cognitive_brain/)**
+**[Input on an experiment](https://www.reddit.com/r/artificial/comments/1sa4vlm/input_on_an_experiment/)**
 
-The symptom profiles of different neurodegenerative diseases often overlap, and diagnosing age-related cognitive symptoms is complex. A patient may have multiple overlapping disease processes in the brain at the same time, for example, Alzheimer's disease and Lewy body disease, especially in the early stages of cognitive decline. Now, researchers at Lund University have developed an AI model showing that it is possible to detect several neurodegenerative diseases from a single blood sample. Their paper is published in the journal Nature Medicine. Researchers Jacob Vogel and Lijun An, together with colleagues from the Swedish BioFINDER study and the Global Neurodegenerative Proteomics Consortium (GNPC, an international research consortium that has created the world's largest proteomics database for neurodegenerative diseases) have developed the AI model based on protein measurements from more than 17,000 patients and control participants, collected from several datasets within GNPC's proteomics database, the largest in the world for proteins related to neurodegenerative diseases. "Our hope is to be able to accurately diagnose several diseases at once with a single blood test in the future," says Vogel, who led the study. He is an assistant professor, head of a research group, and part of the strategic research area MultiPark at Lund University. Using advanced statistical learning methods and a process known as "joint learning," the researchers' AI model was able to identify a specific set of proteins that form a general pattern for diseases involving brain degeneration. This learned pattern was then used to diagnose different neurodegenerative diseases. Vogel confirms that their AI model outperforms previous models, while also being able to diagnose five different dementia-related conditions: Alzheimer's disease, Parkinson's disease, ALS, frontotemporal dementia, and previous stroke. The study stands out compared to similar research because the model's results were validated across multiple independent datasets, according to the researchers. "We also found that the protein profile predicted cognitive decline better than the clinical diagnosis did, and it seems like individuals with the same clinical diagnosis may have different underlying biological subtypes," says An, the study's first author. Many individuals diagnosed with Alzheimer's disease showed a protein pattern more similar to other brain disorders. "This could mean they have more than one underlying disease, that Alzheimer's can develop in multiple ways, or that the clinical diagnosis is incorrect. However, I don't think current protein measurements from blood samples will be sufficient on their own to diagnose multiple diseases. We need to refine the method and combine it with other clinical diagnostic tools," says Vogel. Full research paper: https://www.nature.com/articles/s41591-026-04303-y
+I have 3.000 credits at NightCafe AI image generator with a lot of different models and options. I want to conduct some kind of experiment, preferably text-to-image/video. I want to push limits of models and bring out unexpected results, using word plays or other kinds of prompts that are suitable to confuse the models. Please suggest things i can prompt to break boundaries both in models and logic, or share sneaky promting tips to make a total mess.
 
-🔗 [medicalxpress.com](https://medicalxpress.com/news/2026-03-ai-multiple-cognitive-brain-diseases.html) • 7h ago
+23m ago
 
 ---
 
-**[How Claude Web tried to break out its container, provided all files on the system, scanned the networks, etc](https://www.reddit.com/r/artificial/comments/1s9us4j/how_claude_web_tried_to_break_out_its_container/)**
+**[The Magic of Machine Learning That Powers Enemy AI in Arc Raiders](https://www.reddit.com/r/artificial/comments/1sa42c8/the_magic_of_machine_learning_that_powers_enemy/)**
 
-Originally wasn't going to write about this - on one hand thought it's prolly already known, on the other hand I didn't feel like it was adding much even if it wasn't. But anyhow, looking at the discussions surrounding the code leak thing, I thought I as well might. So: A few weeks ago I got some practical experience with just how strong Claude can be for less-than-whole use. Essentially, I was doing a bit of evening self-study about some Linux internals and I ended up asking Claude about something. I noted that phrasing myself as learning about security stuff primed Claude to be rather compliant in regards of generating potentially harmful code. And it kind of escalated from there. Within the next couple of hours, on prompt Claude Web ended up providing full file listing from its environment, zipping up all code and markdown files and offering them for download (including the Anthropic-made skill files); it provided all network info it could get and scanned the network; it tried to utilize various vulnerabilities to break out its container; it wrote C implementations of various CVEs; it agreed to running obfuscated C code for exploiting vulnerabilities; it agreed to crashing its tool container (repeatedly); it agreed to sending messages to what it believed was the interface to the VM monitor; it provided hypotheses about the environment it was running in and tested those to its best ability; it scanned the memory for JWTs and did actually find one; and once I primed another Claude session up, Claude agreed to orchestrating a MAC spoofing attempt between those two session containers. Far as I can tell, no actual vulnerabilities found. The infra for Claude Web is very robust, and yeah no production code in the code files (mostly libraries), but.. Claude could run the same stuff against any environment. If you had a non-admin user account, for example, on some server, Claude would prolly run all the above against that just fine. To me, it's kind of scary how quickly these tools can help you do potentially malicious work in environments where you need to write specific Bash scripts or where you don't off the bat know what tools are available and what the filesystem looks like and what the system even is; while at the same time, my experience has been that when they generate code for applications, they end up themselves not being able to generate as secure code as what they could potentially set up attacks against. I imagine that the problem is that often, writing code in a secure fashion may require a relatively large context, and the mistake isn't necessarily obvious on a single line (not that these tools couldn't manage to write a single line that allowed e.g. SQL injection); but meanwhile, lots of vulnerabilities can be found by just scanning and searching and testing various commonly known scenarios out, essentially. Also, you have to get security right on basically every attempt for hundreds of times in a large codebase, while you only have to find the vulnerability once and you have potentially thousands of attempts at it. In that sense, it sort of feels like a bit of a stacked game with these tools.
+"... it doesn't take a trained eye to see that, even at a glance, the enemies in Arc Raiders feel fundamentally different from traditional game AI. They don’t follow rigid patterns or scripted behaviors, but instead, they react dynamically to the environment, recover from disruption, and occasionally end up in places even the developers didn’t anticipate. That sense of unpredictability is not just a design choice but the result of years of research into robotics, physics simulation, and machine learning. At Embark Studios, the team approached enemy design from a systems-first perspective, treating enemies less like animated characters and more like physical entities that must navigate and survive in a dynamic world. That decision led them directly into robotics research and reinforcement learning, borrowing techniques for controlling real-world machines and adapting them to a game environment. Rather than relying purely on traditional AI systems, Arc Raiders blends learned locomotion with behavior trees, creating a layered approach where movement itself becomes part of the intelligence."
 
-4h ago
+🔗 [80.lv](https://80.lv/articles/inside-the-magic-of-machine-learning-that-powers-enemy-ai-in-arc-raiders) • 59m ago
+
+---
+
+**[MIT researchers use AI to uncover atomic defects in materials](https://www.reddit.com/r/artificial/comments/1sa3yds/mit_researchers_use_ai_to_uncover_atomic_defects/)**
+
+In biology, defects are generally bad. But in materials science, defects can be intentionally tuned to give materials useful new properties. Today, atomic-scale defects are carefully introduced during the manufacturing process of products like steel, semiconductors, and solar cells to help improve strength, control electrical conductivity, optimize performance, and more. But even as defects have become a powerful tool, accurately measuring different types of defects and their concentrations in finished products has been challenging, especially without cutting open or damaging the final material. Without knowing what defects are in their materials, engineers risk making products that perform poorly or have unintended properties. Now, MIT researchers have built an AI model capable of classifying and quantifying certain defects using data from a noninvasive neutron-scattering technique. The model, which was trained on 2,000 different semiconductor materials, can detect up to six kinds of point defects in a material simultaneously, something that would be impossible using conventional techniques alone. “Existing techniques can’t accurately characterize defects in a universal and quantitative way without destroying the material,” says lead author Mouyang Cheng, a PhD candidate in the Department of Materials Science and Engineering. “For conventional techniques without machine learning, detecting six different defects is unthinkable. It’s something you can’t do any other way.” The researchers say the model is a step toward harnessing defects more precisely in products like semiconductors, microelectronics, solar cells, and battery materials. “Right now, detecting defects is like the saying about seeing an elephant: Each technique can only see part of it,” says senior author and associate professor of nuclear science and engineering Mingda Li. “Some see the nose, others the trunk or ears. But it is extremely hard to see the full elephant. We need better ways of getting the full picture of defects, because we have to understand them to make materials more useful.” Joining Cheng and Li on the paper are postdoc Chu-Liang Fu, physics undergraduate researcher Bowen Yu, master’s student Eunbi Rha, PhD student Abhijatmedhi Chotrattanapituk ’21, and Oak Ridge National Laboratory staff members Douglas L Abernathy PhD ’93 and Yongqiang Cheng. The paper00091-3) appears today in the journal Matter.
+
+🔗 [MIT Physics](https://physics.mit.edu/news/mit-researchers-use-ai-to-uncover-atomic-defects-in-materials/) • 1h ago
 
 ---
 
@@ -81,7 +97,7 @@ Originally wasn't going to write about this - on one hand thought it's prolly al
 
 OkCupid and Match settle with Trump FTC, don't have to pay any financial penalty.
 
-🔗 [Ars Technica](https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/) • 22h ago
+🔗 [Ars Technica](https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/) • 1d ago
 
 ---
 
@@ -89,7 +105,7 @@ OkCupid and Match settle with Trump FTC, don't have to pay any financial penalty
 
 Over the past few decades, robotics researchers have developed a wide range of increasingly advanced robots that can autonomously complete various real-world tasks. To be successfully deployed in real-world settings, such as in public spaces, homes and office environments, these robots should be able to make sense of instructions provided by human users and adapt their actions accordingly. Researchers at Huawei Noah's Ark Lab in London, Technical University of Darmstadt and ETH Zurich recently introduced a new framework that could improve the ability of robots to translate user instructions into executable actions that will help to solve desired tasks or complete missions. This framework, outlined in a paper published in Nature Machine Intelligence, combines large language models, computational models trained on large text datasets that can process and generate human language, with the robot operating system (ROS), the most widely used robot control software. "Autonomous robots capable of turning natural-language instructions into reliable physical actions remain a central challenge in artificial intelligence," wrote Christopher E. Mower and his colleagues. "We show that connecting a large language model agent to the ROS enables a versatile framework for embodied intelligence, and we release the complete implementation as freely available open-source code." Mower and his colleagues wanted to further improve the responsiveness of robots and their ability to accurately follow user instructions by integrating large language models with the ROS. Large language models, such as the model that supports the functioning of ChatGPT, are artificial intelligence (AI) systems that learn to process texts and generate answers to user questions or different types of texts. The ROS, on the other hand, is a set of open-source software solutions and other tools that is commonly used by robotics researchers and robot developers. As part of their study, the researchers created a framework that effectively combines large language models and the ROS, enabling the translation of written instruction into robot actions. "The agent automatically translates large language model outputs into robot actions, supports interchangeable execution modes (inline code or behavior trees), learns new atomic skills via imitation, and continually refines them through automated optimization and reflection from human or environmental feedback," wrote the authors. Essentially, the framework proposed by the researchers relies on large language models to process a user's written instructions, such as "pick up the green block and place it on the black shelf." The model breaks this instruction down into smaller steps and generates a plan of actions that the robot can execute via ROS software. This translation of written instructions into actions can occur in two different ways. The first is via inline code, with the large language model writing small snippets of executable code that can be used to directly control the robot via ROS. The second is through a structured set of decisions, known as a behavior tree, which organizes actions into a clear sequence, with alternative options should one action fail to attain desired results. The researchers tested their framework in a series of experiments involving different robots that were instructed to complete various real-world tasks. The results of these tests were very promising, as they found that most robots were able to follow instructions and complete the tasks. "Extensive experiments validate the framework, showcasing robustness, scalability and versatility in diverse scenarios and embodiments, including long-horizon tasks, tabletop rearrangements, dynamic task optimization and remote supervisory control," wrote the authors. "Moreover, all the results presented in this work were achieved by utilizing open-source pretrained large language models." In the future, the framework introduced by Mower and his colleagues could be improved further and tested on an even broader range of robots, on increasingly complex tasks and in more dynamic environments. In addition, it could inspire the development of other similar solutions that successfully connect robot control software with large language models.
 
-🔗 [techxplore.com](https://techxplore.com/news/2026-03-combining-robot-llms-natural-language.html) • 7h ago
+🔗 [techxplore.com](https://techxplore.com/news/2026-03-combining-robot-llms-natural-language.html) • 10h ago
 
 ---
 
@@ -101,29 +117,43 @@ https://futurism.com/artificial-intelligence/paper-ai-chatbots-chatgpt-claude-sy
 
 ---
 
-**[The Turing Grid: A digitalised Turing tape computer](https://www.reddit.com/r/artificial/comments/1s9v5cn/the_turing_grid_a_digitalised_turing_tape_computer/)**
-
-\# The Turing Grid Think of it as an infinite 3D spreadsheet where every cell can run code. (Edit: this is capped actually at +/- 2000 to stop really large numbers from happening). Coordinates: Every cell lives at an (x, y, z) position in 3D space Read/Write: Store text, JSON, or executable code in any cell Execute: Run code (Python, Rust, Ruby, Node, Swift, Bash, AppleScript) directly in a cell Daemons: Deploy a cell as a background daemon that runs forever on an interval Pipelines: Chain multiple cells together — output of one feeds into the next Labels: Bookmark cell positions with names for easy navigation Links: Create connections between cells (like hyperlinks) History: Every cell keeps its last 3 versions with undo support. Edit: The code for this can be found on the GitHub link on my profile.
-
-4h ago
-
----
-
-**[I built a complete vision system for humanoid robots](https://www.reddit.com/r/artificial/comments/1s9kdnq/i_built_a_complete_vision_system_for_humanoid/)**
-
-I'm excited to an open-source vision system I've been building for humanoid robots. It runs entirely on NVIDIA Jetson Orin Nano with full ROS2 integration. The Problem Every day, millions of robots are deployed to help humans. But most of them are blind. Or dependent on cloud services that fail. Or so expensive only big companies can afford them. I wanted to change that. What OpenEyes Does The robot looks at a room and understands: - "There's a cup on the table, 40cm away" - "A person is standing to my left" - "They're waving at me - that's a greeting" - "The person is sitting down - they might need help" - Object Detection (YOLO11n) - Depth Estimation (MiDaS) - Face Detection (MediaPipe) - Gesture Recognition (MediaPipe Hands) - Pose Estimation (MediaPipe Pose) - Object Tracking - Person Following (show open palm to become owner) Performance - All models: 10-15 FPS - Minimal: 25-30 FPS - Optimized (INT8): 30-40 FPS Philosophy - Edge First - All processing on the robot - Privacy First - No data leaves the device - Real-time - 30 FPS target - Open - Built by community, for community Quick Start git clone https://github.com/mandarwagh9/openeyes.git cd openeyes pip install -r requirements.txt python src/main.py --debug python src/main.py --follow (Person following!) python src/main.py --ros2 (ROS2 integration) The Journey Started with a simple question: Why can't robots see like we do? Been iterating for months fixing issues like: - MediaPipe detection at high resolution - Person following using bbox height ratio - Gesture-based owner selection Would love feedback from the community! GitHub: github.com/mandarwagh9/openeyes
-
-10h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Anthropic Races to Contain Leak of Code Behind Claude AI Agent](https://www.wsj.com/tech/ai/anthropic-races-to-contain-leak-of-code-behind-claude-ai-agent-4bc5acc7?gaa_at=eafs&gaa_n=AWEtsqertvPkk-1ixusuNZdsqqw_zM4OWTkLL3XOWZ8ZWY8tcx7d-503bn1e&gaa_ts=69cda838&gaa_sig=hb4WPSijB9NwNbXjUFphA5NnV6e8nLLPKkq1PZLEIxGMlX8Jk0fduu5A3eQPnBcVCtCXRLvo8y0fARjGpEm2lw%3D%3D)**
+**[Anthropic Races to Contain Leak of Code Behind Claude AI Agent](https://www.wsj.com/tech/ai/anthropic-races-to-contain-leak-of-code-behind-claude-ai-agent-4bc5acc7?gaa_at=eafs&gaa_n=AWEtsqdT5aVw2lm8HSFXEv9vnz6GsDHXdhitGCIJTUn4XP-2rkoXws78q1DF&gaa_ts=69cddb48&gaa_sig=d7XLFaK4Vc7r9p-0HQP5lPzRc6QOKa8f7rMAvdpSrWaNzSYCeTZI5db-Em-aEXAlOtRWSrFx4pO-TRAflKHXFA%3D%3D)**
 
-WSJ • 6h ago
+WSJ • 9h ago
+
+---
+
+**[A.I. Companies Shatter Fund-Raising Records, as Boom Accelerates](https://www.nytimes.com/2026/04/01/technology/ai-companies-fund-raising-records.html)**
+
+nytimes.com • 8h ago
+
+---
+
+**[White Influencer Called Out After Posting AI Image of Her Face on Black Content Creator's Body](https://people.com/white-influencer-called-out-after-posting-ai-image-of-her-face-on-black-content-creator-body-11937823)**
+
+Influencer Lauren Blake Boultier was accused of using AI to superimpose her face onto the body of another influencer, Tatiana Elizabeth. After Elizabeth called her out, Boultier told TMZ she took "full responsibility" for the incident.
+
+People.com • 1h ago
+
+---
+
+**[AI machine sorts clothes faster than humans to boost textile recycling in China](https://www.wral.com/news/ap/86355-ai-machine-sorts-clothes-faster-than-humans-to-boost-textile-recycling-in-china/)**
+
+ZHANGJIAGANG, China (AP) — In an industrial park in Zhangjiagang, a small city on China's east coast, a large humming and hissing machine feeds on piles of used clothes and sorts them.
+
+WRAL • 33m ago
+
+---
+
+**[Local police departments start using AI technology for neighborhood speeding](https://www.news5cleveland.com/news/local-news/oh-cuyahoga/local-police-departments-start-using-ai-technology-for-neighborhood-speeding)**
+
+That's why the Fairview Park Police Department is now one of several Northeast Ohio police departments investing in Urban SDK technology to track down speeding cars.
+
+News 5 Cleveland WEWS • 1h ago
 
 ---
 
@@ -131,65 +161,35 @@ WSJ • 6h ago
 
 Oracle has ratcheted up its capital expenditures as it builds data center infrastructure that can handle AI workloads.
 
-CNBC • 1d ago
+cnbc.com • 1d ago
 
 ---
 
-**[Kansas City Oracle campus cuts over 500 jobs for AI investment shift](https://fox4kc.com/news/kansas-city-oracle-campus-cuts-over-500-jobs-for-ai-investment-shift/)**
+**[Microsoft CFO’s AI Spending Runs Up Against Tech Bubble Fears](https://www.bloomberg.com/news/features/2026-04-01/microsoft-s-ai-ambitions-rest-in-hands-of-satya-nadella-s-trusted-cfo)**
 
-FOX4KC.com • 7h ago
-
----
-
-**[Oracle Lays Off Thousands to Offset AI Spending](https://gizmodo.com/oracle-lays-off-thousands-to-offset-ai-spending-2000740924)**
-
-Over 500 Oracle workers are being laid off in Kansas City alone.
-
-Gizmodo • 5h ago
+Bloomberg.com • 5h ago
 
 ---
 
-**[Fox News Poll: Broad anxiety about AI doesn’t extend to jobs](https://www.foxnews.com/politics/fox-news-poll-broad-anxiety-about-ai-doesnt-extend-jobs)**
+**[Final Four predictions: AI picks winners of Illinois-UConn, Arizona-Michigan games](https://www.usatoday.com/story/sports/ncaab/2026/04/01/ai-predicts-final-four-michigan-arizona-illinois-uconn-picks-march-madness/89404163007/)**
 
-A new poll finds voter concern about AI has risen to 66%, while nearly two-thirds are uncomfortable with military use of autonomous weapons systems.
+Here's how AI predicted both Final Four games of the 2026 Men's NCAA Tournament:
 
-Fox News • 1h ago
-
----
-
-**[What does California's new AI order do?](https://www.usatoday.com/story/news/california/2026/04/01/california-ai-order-requires-firms-to-provide-safeguards-against-abuse/89427490007/)**
-
-Gov. Gavin Newsom signed an executive order requiring firms seeking state contracts to provide safeguards against AI misuse.
-
-usatoday.com • 1h ago
-
----
-
-**[Jim Cramer warns rally lacks real leadership as AI-driven gains fail to inspire confidence](https://www.cnbc.com/2026/04/01/cramer-rally-lacks-real-leadership-as-ai-driven-gains-fail-to-inspire-confidence.html)**
-
-Cramer says the market's rebound lacks broad leadership, driven mainly by a narrow group of AI-related data center stocks, rather than diversified growth.
-
-CNBC • 1h ago
-
----
-
-**[‘Think Everybody Dead’: How the Threat of AI Is Fueling a New Political Alliance](https://www.politico.com/news/magazine/2026/04/01/silicon-valley-bernie-sanders-ai-coalition-00850895)**
-
-politico.com • 9h ago
-
----
-
-**[If You Need a Laptop, Buy It Now](https://www.theatlantic.com/technology/2026/03/laptop-electronics-ram-ai-tax/686628/)**
-
-Electronics are getting more expensive and worse. Blame the AI boom.
-
-The Atlantic • 1d ago
+usatoday.com • 4h ago
 
 ---
 
 **[AI trained on turtle poop predicts hurricanes better than any model](https://yaleclimateconnections.org/2026/04/ai-trained-on-turtle-poop-predicts-hurricanes-better-than-any-model/)**
 
-yaleclimateconnections.org • 12h ago
+Yale Climate Connections • 15h ago
+
+---
+
+**[The latest AI news we announced in March 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/)**
+
+Here are Google’s latest AI updates from March 2026
+
+blog.google • 13h ago
 
 ---
 
@@ -209,7 +209,7 @@ The catalysts for a crash are already laid out, and it can happen sooner than mo
 
 Yesterday, I wrote my first technical draft on what I was working on with the goal to share it publicly on here (well using an account dedicated to t…
 
-⬆️ 317 • 💬 239 • 2d ago • [lesswrong.com](https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era)
+⬆️ 318 • 💬 239 • 2d ago • [lesswrong.com](https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era)
 
 ---
 
@@ -227,7 +227,7 @@ Artificial intelligence (AI) is the name popularly given to a broad spectrum of 
 
 The Italian government didn’t allow airplanes taking part in the Iran war to use the base, but Rome insists that doesn’t mean the bases are closed to other U.S. uses.
 
-⬆️ 196 • 💬 100 • 1d ago • [POLITICO](https://www.politico.eu/article/italy-blocks-us-use-of-sicily-air-base/)
+⬆️ 198 • 💬 101 • 1d ago • [POLITICO](https://www.politico.eu/article/italy-blocks-us-use-of-sicily-air-base/)
 
 ---
 
@@ -235,7 +235,7 @@ The Italian government didn’t allow airplanes taking part in the Iran war to u
 
 Meta is continuing its long-term roadmap to help the construction industry leverage AI to produce high-quality and more sustainable concrete mixes, as well as those exclusively produced in the Unit…
 
-⬆️ 117 • 💬 102 • 6h ago • [Engineering at Meta](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/)
+⬆️ 156 • 💬 108 • 9h ago • [Engineering at Meta](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/)
 
 ---
 
@@ -257,7 +257,7 @@ Spain's leftist government has closed Spanish airspace to US planes carrying out
 
 **[The AI Marketing BS Index](https://news.ycombinator.com/item?id=47604218)**
 
-⬆️ 84 • 💬 16 • 6h ago • [bastian.rieck.me](https://bastian.rieck.me/blog/2026/bs/)
+⬆️ 90 • 💬 18 • 8h ago • [bastian.rieck.me](https://bastian.rieck.me/blog/2026/bs/)
 
 ---
 
@@ -273,7 +273,7 @@ AI-generated 3D-printable pegboard toy from a hand-drawn sketch - virpo/pegboard
 
 Orchestrate multiple AI coding agents (Claude, Gemini, Codex) in parallel. Isolated git worktrees for every task. No merge conflicts. Mac, Windows, Linux.
 
-⬆️ 59 • 💬 49 • 11h ago • [Baton](https://getbaton.dev/)
+⬆️ 60 • 💬 49 • 14h ago • [Baton](https://getbaton.dev/)
 
 ---
 
@@ -287,17 +287,17 @@ Go to https://surfshark.com/silicon or use code SILICON at checkout to get 4 ext
 
 📺 Silicon Valley Girl
 
-👁️ 90K • 👍 2K • 💬 233 • ⏱️ 39:58 • 1d ago
+👁️ 97K • 👍 2K • 💬 238 • ⏱️ 39:58 • 1d ago
 
 ---
 
-**[Claude Mythos Changes Everything. Your AI Stack Isn&#39;t Ready.](https://www.youtube.com/watch?v=hV5_XSEBZNg)**
+**[Google’s New AI Just Broke My Brain](https://www.youtube.com/watch?v=7YVrb3-ABYE)**
 
-My site: https://natebjones.com Full Story w/ Prompts: ...
+Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The TurboQuant paper is available here: ...
 
-📺 AI News & Strategy Daily | Nate B Jones
+📺 Two Minute Papers
 
-👁️ 48K • 👍 2K • 💬 273 • ⏱️ 31:21 • 9h ago
+👁️ 76K • 👍 6K • 💬 631 • ⏱️ 8:34 • 12h ago
 
 ---
 
@@ -307,17 +307,7 @@ JPMorgan Chase CEO Jamie Dimon joins 'Fox & Friends' to discuss the latest on Op
 
 📺 Fox News
 
-👁️ 63K • 👍 1K • 💬 405 • ⏱️ 16:35 • 1d ago
-
----
-
-**[【「AIに何をさせるか」発想力を発揮せよ】サム・アルトマンが一本釣り「OpenClaw」開発者 ／ChatGPTの進化形「指示待ち」→「自ら動く」／AIエージェント使わないとクビ【1on1 Tech】](https://www.youtube.com/watch?v=XZ8aigqvR3M)**
-
-https://www.youtube.com/watch?v=gcB2BalHuqs “答えるAI”から“働くAI”へ―― 実際にAIエージェントを使い仕事を効率化する ...
-
-📺 TBS CROSS DIG with Bloomberg
-
-👁️ 3K • 👍 163 • 💬 16 • ⏱️ 24:23 • 1h ago
+👁️ 64K • 👍 1K • 💬 411 • ⏱️ 16:35 • 1d ago
 
 ---
 
@@ -327,17 +317,27 @@ Chris and Tristan Harris discuss how Alibaba's AI went rogue and started blackma
 
 📺 Chris Williamson
 
-👁️ 385K • 👍 12K • 💬 1K • ⏱️ 11:46 • 1d ago
+👁️ 395K • 👍 12K • 💬 1K • ⏱️ 11:46 • 1d ago
 
 ---
 
-**[Trump posts AI video of gold-laden new presidential library as airport renamed after him](https://www.youtube.com/watch?v=wOTi15urbIA)**
+**[Claude Mythos Changes Everything. Your AI Stack Isn&#39;t Ready.](https://www.youtube.com/watch?v=hV5_XSEBZNg)**
 
-US President Donald Trump has posted an AI-generated video revealing plans for a lavish presidential library in Miami featuring ...
+My site: https://natebjones.com Full Story w/ Prompts: ...
 
-📺 Sky News Australia
+📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 7K • 👍 203 • 💬 148 • ⏱️ 3:45 • 1d ago
+👁️ 60K • 👍 2K • 💬 285 • ⏱️ 31:21 • 12h ago
+
+---
+
+**[AI Self EVOLUTION (Meta Harness)](https://www.youtube.com/watch?v=61JUHDK-em8)**
+
+Automate your workload with the Claude Cowork Stack: https://clickhubspot.com/737d7b Download The 25 OpenClaw Use Cases ...
+
+📺 Matthew Berman
+
+👁️ 64K • 👍 2K • 💬 248 • ⏱️ 27:16 • 2d ago
 
 ---
 
@@ -347,7 +347,17 @@ Try AI video generation with Kling 3.0 on Higgsfield: https://higgsfield.ai/s/ar
 
 📺 AI Revolution
 
-👁️ 28K • 👍 829 • 💬 50 • ⏱️ 12:59 • 2d ago
+👁️ 29K • 👍 831 • 💬 51 • ⏱️ 12:59 • 2d ago
+
+---
+
+**[New documentary asks if we are doomed by AI](https://www.youtube.com/watch?v=a50TSY2X-yM)**
+
+"The AI Doc: Or How I Became an Apocaloptimist" is a new documentary exploring the future of Artificial Intelligence and its impact ...
+
+📺 NBC News
+
+👁️ 39K • 👍 475 • 💬 164 • ⏱️ 12:16 • 2d ago
 
 ---
 
@@ -357,27 +367,17 @@ A Tennessee grandmother is demanding justice after spending months in jail. She 
 
 📺 NBC News
 
-👁️ 293K • 👍 4K • 💬 2K • ⏱️ 2:57 • 1d ago
+👁️ 300K • 👍 4K • 💬 2K • ⏱️ 2:57 • 2d ago
 
 ---
 
-**[The AI Insider Giving Humanity 50/50 Odds (And What Tips the Scale) | Emad Mostaque](https://www.youtube.com/watch?v=tMBXbN6ZiKc)**
+**[Private AI on the go… a new trick ](https://www.youtube.com/watch?v=PqBrnip-ZLw)**
 
-Emad Mostaque joins me to explore one of the most confronting questions of our time: what happens when human intelligence is ...
+I put a tiny MacBook Air between me and some ridiculously large local AI models... and it worked. Power Your Spring Essentials ...
 
-📺 André Duqum
+📺 Alex Ziskind
 
-👁️ 32K • 👍 1K • 💬 214 • ⏱️ 2:26:43 • 1d ago
-
----
-
-**[Xiaomi’s New AI Robot Hand Works Like a REAL Human… This Is INSANE](https://www.youtube.com/watch?v=Ubpk3tOl9gw)**
-
-Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking it's human — and that's just the START of what's ...
-
-📺 The AI Nexus
-
-👁️ 3K • 👍 134 • 💬 10 • ⏱️ 20:43 • 1d ago
+👁️ 30K • 👍 1K • 💬 114 • ⏱️ 9:09 • 8h ago
 
 ---
 
@@ -393,7 +393,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 353,205 • ❤️ 2,011 • 8d ago
+⬇️ 353,205 • ❤️ 2,020 • 9d ago
 
 ---
 
@@ -405,7 +405,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 58,683 • ❤️ 694 • 2h ago
+⬇️ 58,683 • ❤️ 697 • 5h ago
 
 ---
 
@@ -417,7 +417,7 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 `text-to-speech`
 
-⬇️ 3,851 • ❤️ 599 • 1d ago
+⬇️ 3,851 • ❤️ 603 • 1d ago
 
 ---
 
@@ -429,7 +429,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 17,837 • ❤️ 757 • 6d ago
+⬇️ 17,837 • ❤️ 779 • 6d ago
 
 ---
 
@@ -441,7 +441,7 @@ Context-1 is a 20B parameter agentic search model that decomposes complex querie
 
 `text-generation` `20.9B`
 
-⬇️ 2,476 • ❤️ 337 • 2d ago
+⬇️ 2,476 • ❤️ 340 • 3d ago
 
 ---
 
@@ -453,7 +453,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 163,835 • ❤️ 434 • 7d ago
+⬇️ 163,835 • ❤️ 436 • 8d ago
 
 ---
 
@@ -475,7 +475,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 636,153 • ❤️ 896 • 28d ago
+⬇️ 636,153 • ❤️ 897 • 29d ago
 
 ---
 
@@ -487,7 +487,7 @@ Bonsai-8B-GGUF is a highly compressed 1-bit language model (1.15 GB) optimized f
 
 `text-generation` `8.2B`
 
-⬇️ 1,486 • ❤️ 198 • 1d ago
+⬇️ 1,486 • ❤️ 215 • 1d ago
 
 ---
 
@@ -527,7 +527,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 33 • 💬 2 • ⭐ 45,589 • 15mo ago
+▲ 33 • 💬 2 • ⭐ 45,731 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -617,7 +617,7 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 LeWorldModel presents a stable end-to-end JEPA framework that trains efficiently from raw pixels using minimal loss terms while maintaining competitive performance in control tasks and encoding meaningful physical structures.
 
-▲ 17 • 💬 2 • ⭐ 1,732 • 19d ago
+▲ 17 • 💬 2 • ⭐ 1,767 • 19d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.19312) • [💻 code](https://github.com/lucas-maes/le-wm) • [🔗 project](https://le-wm.github.io/)
 
@@ -645,7 +645,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 63.5k • 🔱 8.9k • 6d ago
+⭐ 63.5k • 🔱 9.0k • 7d ago
 
 ---
 
@@ -655,7 +655,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 14.4k • 🔱 788 • 1d ago
+⭐ 14.5k • 🔱 789 • 1d ago
 
 ---
 
@@ -665,7 +665,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 10.5k • 🔱 884 • 6h ago
+⭐ 10.7k • 🔱 913 • 9h ago
 
 ---
 
@@ -685,7 +685,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 6.9k • 🔱 881 • 2d ago
+⭐ 7.0k • 🔱 889 • 2d ago
 
 ---
 
@@ -695,7 +695,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 5.9k • 🔱 303 • 8h ago
+⭐ 6.0k • 🔱 311 • 11h ago
 
 ---
 
@@ -709,6 +709,16 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 ---
 
+**[jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh)**
+
+🎭 193 个即插即用的 AI 专家角色 — 支持 OpenClaw/Claude Code/Cursor/Copilot 等 14 种工具，覆盖工程/设计/营销/产品等 18 个部门。含 46 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）
+
+`Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
+
+⭐ 3.4k • 🔱 575 • 13h ago
+
+---
+
 **[ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots)**
 
 end to end app store screenshot creation using AI
@@ -716,16 +726,6 @@ end to end app store screenshot creation using AI
 `agentic-ai` `apple` `appstore` `automate` `claude`
 
 ⭐ 3.4k • 🔱 227 • 1d ago
-
----
-
-**[jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh)**
-
-🎭 193 个即插即用的 AI 专家角色 — 支持 OpenClaw/Claude Code/Cursor/Copilot 等 14 种工具，覆盖工程/设计/营销/产品等 18 个部门。含 46 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）
-
-`Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
-
-⭐ 3.4k • 🔱 568 • 10h ago
 
 ---
 
