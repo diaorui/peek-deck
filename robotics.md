@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-02T10:52:20.229995+00:00'
+updated: '2026-04-02T11:46:16.844122+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 02, 2026 at 10:52 UTC  
+**Last Updated:** April 02, 2026 at 11:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[China announces its first automated manufacturing line capable of producing 10K humanoid robots per year - 1 robot every 30 minutes](https://www.reddit.com/r/robotics/comments/1s9qso0/china_announces_its_first_automated_manufacturing/)**
 
-17h ago
+18h ago
 
 ---
 
 **["Follow Me" Mode: Real-time human tracking with YOLOv8](https://www.reddit.com/r/robotics/comments/1sac61n/follow_me_mode_realtime_human_tracking_with_yolov8/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -54,7 +54,7 @@ Robotics research and industry news
 
 From Humanoids daily 𝕏: https://x.com/humanoidsdaily/status/2039600914068111598
 
-20m ago
+1h ago
 
 ---
 
@@ -62,7 +62,7 @@ From Humanoids daily 𝕏: https://x.com/humanoidsdaily/status/20396009140681115
 
 it uses only two motors to walk unlike most other bipedal robots. What do you guys think? Also I just made the base and hand for now ! https://www.youtube.com/watch?v=InKbSM_C5Xc
 
-2h ago
+3h ago
 
 ---
 
@@ -70,19 +70,19 @@ it uses only two motors to walk unlike most other bipedal robots. What do you gu
 
 I’m in a unique position as a small business owner and I’m looking for advice. I’ve been a long time follower of r/datahoarder and I think my friends over here in r/robotics might find what I have useful. I’ve been hanging on to about 12tb of MP4 footage that I captured at my business hoping I would find a use for it one day. Now it seems like every other day I read another article about the data scarcity in robotics training and the sim to real gap. So I’m wondering if I might be able to connect some pieces and license this video as a dataset. I did some research and found that a first person view seems to be the most valuable for embodied AI training so I recently I added GoPros on my customers to capture that as well. I think what I have may be useful for some training cases. It is a lot of video of human object interaction and high force material interactions and real world unscripted human dynamics. Theres a ton of edge case stuff where things don’t go exactly like it was planned because of the chaotic atmosphere. I have a few hundred hours of the GoPro footage and about 6500 hours of the cctv footage. Currently adding a few hundred hours per month of video with pretty open customizability. I’ve been tinkering with Yolo and SAM2 models as well. All the personal identifiable information has been cleared and all customers are aware of the use of this video for AI training purposes. Would this be useful for some of you and if so, what would be the best way to package it for you? I appreciate your time!
 
-11h ago
+12h ago
 
 ---
 
 **[Our personal AI robotic arm is on the way!](https://www.reddit.com/r/robotics/comments/1sab8gj/our_personal_ai_robotic_arm_is_on_the_way/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Text. Wave. Move. — Openclaw Controls Our Robot](https://www.reddit.com/r/robotics/comments/1sa8hos/text_wave_move_openclaw_controls_our_robot/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -90,13 +90,13 @@ I’m in a unique position as a small business owner and I’m looking for advic
 
 Hi! I’m working on bunch of tools for product design engineers and going to add them under [https://meche.ai\](https://meche.ai) Currently I have: [https://printadvisor.ai\](https://printadvisor.ai) (material selection, print settings feedback) [https://tolanalysis.com\](https://tolanalysis.com) (tolerance stack up, Monte Carlo sim, Cpk analysis) [https://dfmanalysis.com/\](https://dfmanalysis.com/) (DFM for CNC, sheet metal) [https://pd.meche.ai\](https://pd.meche.ai) (PD interview prep tool) [https://cad.meche.ai\](https://cad.meche.ai) (CAD viewer which is beautiful) Please check them and let me know if you have any thoughts/feedback 🙏 I’m planning to build more tools that I can put into use myself and for the community! So far I love building with Claude and Cursor. Feels like a new power got unlocked! 🔓
 
-4h ago
+5h ago
 
 ---
 
 **[Assembly of parts](https://www.reddit.com/r/robotics/comments/1sack2t/assembly_of_parts/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -108,7 +108,7 @@ Hi! I’m working on bunch of tools for product design engineers and going to ad
 
 Robotics training and human research were the primary duties for the Expedition 74 crew aboard the International Space Station on Wednesday. The orbital residents rounded out their shift with spacesuit work, cargo operations, and Earth observations.
 
-NASA (.gov) • 15h ago
+NASA (.gov) • 16h ago
 
 ---
 
@@ -122,7 +122,7 @@ Rest of World • 2d ago
 
 People in Nigeria and India are strapping iPhones onto their heads and recording themselves doing chores.
 
-MIT Technology Review • 23h ago
+MIT Technology Review • 1d ago
 
 ---
 
@@ -130,19 +130,19 @@ MIT Technology Review • 23h ago
 
 (Bloomberg) -- Europe has been late to the AI boom and trails China on electric cars. But when it comes to humanoid robots, it’s still in the race.Sweden’s Hexagon AB has built a humanoid that’s being tested at industrial clients including BMW AG. Germany’s Neura Robotics GmbH just raised some €1 billion ($1.2 billion) from investors including Amazon.com Inc. and Qualcomm Inc., valuing the startup at about €4 billion.Local automotive suppliers Schaeffler AG and Robert Bosch GmbH are also betting
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
 **[Robots learn to ask humans for help](https://www.axios.com/2026/04/01/robots-delivery-serve-tmobile)**
 
-Axios • 14h ago
+Axios • 15h ago
 
 ---
 
 **[Researchers build a robotic swarm with no electronics, no batteries and no brains](https://techxplore.com/news/2026-04-robotic-swarm-electronics-batteries-brains.html)**
 
-Tech Xplore • 20h ago
+Tech Xplore • 21h ago
 
 ---
 
@@ -150,7 +150,7 @@ Tech Xplore • 20h ago
 
 From robotic Olaf to reinforcement learning, the company is rethinking how its attractions come to life.
 
-Fast Company • 46m ago
+Fast Company • 1h ago
 
 ---
 
@@ -164,7 +164,7 @@ San Francisco Chronicle • 2d ago
 
 DNA robots are emerging as tiny programmable machines that could one day deliver drugs, hunt viruses, and build molecular-scale devices. By borrowing ideas from traditional robotics and combining them with DNA folding techniques, scientists are creating structures that can move and act with precision. These robots can be guided using chemical reactions or external signals like light and magnetic fields.
 
-ScienceDaily • 1d ago
+ScienceDaily • 2d ago
 
 ---
 
@@ -256,7 +256,7 @@ The Sword bot has been through a bunch of rebalances since it was released, bein
 
 📺 PREDATOR WR
 
-👁️ 9K • 👍 387 • 💬 93 • ⏱️ 14:36 • 22h ago
+👁️ 9K • 👍 387 • 💬 93 • ⏱️ 14:36 • 23h ago
 
 ---
 
