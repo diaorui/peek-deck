@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-02T19:29:30.614262+00:00'
+updated: '2026-04-02T20:03:25.237176+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 02, 2026 at 19:29 UTC  
+**Last Updated:** April 02, 2026 at 20:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Just learned that AA will no longer be creating content on patreon. I read it’s bc of his migraines and inability to control them. Really hope he’s ok and this does not signify him admitting defeat for btc. Anyone have any other news on it? Poor guy. Sending him best wishes. He’s the only reason I got into this space. When everyone else made it about the money, he made it about the fundamentals of BTC and why it stood a chance in this environment.
 
-4h ago
+5h ago
 
 ---
 
@@ -111,7 +111,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Who else is pumped right now! Part of me wants another big dip so I can keep adding to my stack with DCA and grab even more sats Real talk tho - if youre in this for the long haul like 10+ years why does anyone get upset when the price drops? Makes no sense to me if you actually believe in where this is headed
 
-15h ago
+16h ago
 
 ---
 
@@ -119,7 +119,7 @@ Who else is pumped right now! Part of me wants another big dip so I can keep add
 
 For me, the big shift was when I stopped looking at Bitcoin like a quick move and started looking at it like long term savings. At first I was checking price way too much, every dip felt bad and every pump made me think I was smart lol. But after some time, learning more, moving my stack off exchange, and just sitting with it, the whole thing started to feel different. Now I care less about the next week, and more about where this goes in the next 5 to 10 years. Not saying I never feel nervous, because I do sometimes, but my mindset is way more calm than before. Curious how it happened for others here. What was the moment where Bitcoin “clicked” for you? Was it inflation? Banks? Self custody? A bad experience with selling too early? Or are you still in the phase where it mostly feels like a trade?
 
-5h ago
+6h ago
 
 ---
 
@@ -143,7 +143,7 @@ Hello, can you recommend a platform for me to buy bitcoins? Thank you.
 
 A friend of mine has been buying Bitcoin since 2023, $50 every day. From the time the price is below $70k, he is buying double ($100 each day). He believes that one day BTC will go to $1M+, and then he'll decide whether to sell or keep holding.
 
-14h ago
+15h ago
 
 ---
 
@@ -171,7 +171,7 @@ theblock.co • 7h ago
 
 Those who supposedly bought bitcoin for long-term are capitulating.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -195,13 +195,13 @@ TradingView • 2h ago
 
 Google's new quantum paper shakes the blockchain world. We discuss the threat with experts, explore Fold’s new Bitcoin credit card, analyze Nokia’s $166M financial loss, and dive into Bitcoin volatility indices with Volmex Finance. Essential crypto insights for 2026. | CoinDesk Videos
 
-CoinDesk • 23m ago
+CoinDesk • 56m ago
 
 ---
 
 **[Bitcoin Buying Fails to Offset a Wave of Selling by Big Holders](https://www.bloomberg.com/news/articles/2026-04-01/bitcoin-buying-fails-to-offset-a-wave-of-selling-by-big-holders)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -223,13 +223,13 @@ CoinDesk • 1d ago
 
 **[Google Issues ‘Q-Day’ Warning. What It Means.](https://www.barrons.com/articles/google-issues-q-day-warning-quantum-510b44d1?gaa_at=eafs&gaa_n=AWEtsqd7RSyeV2NxXkc39Ik4Wbi3NyzLE9NuQzDYnkmsTYQ5uwsIabgHT-_w&gaa_ts=69cec704&gaa_sig=MBU-2A_tMq2nszvljunp_YZO5a6oTagGqUpQJscU7thyLhmynctQMDJjKAasx5W-6L5euRM_AhDt3nNCp80fUw%3D%3D)**
 
-Barron's • 6h ago
+Barron's • 7h ago
 
 ---
 
 **[‘You Have Until 2029’—Urgent Elon Musk Bitcoin Warning Suddenly Triggers Price Crash Fears](https://www.forbes.com/sites/digital-assets/2026/04/02/you-have-until-2029-urgent-elon-musk-bitcoin-warning-suddenly-triggers-price-crash-fears/)**
 
-Forbes • 7h ago
+Forbes • 8h ago
 
 ---
 
@@ -295,7 +295,7 @@ runs multiple inputs through a script/function in parallel using bash coprocs - 
 
 **[Men are ditching TV for YouTube as AI usage and social media fatigue grow](https://news.ycombinator.com/item?id=47612127)**
 
-⬆️ 44 • 💬 113 • 9h ago • [ofcom.org.uk](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed)
+⬆️ 44 • 💬 113 • 10h ago • [ofcom.org.uk](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed)
 
 ---
 
@@ -303,7 +303,7 @@ runs multiple inputs through a script/function in parallel using bash coprocs - 
 
 A public and free DNS service for a better security and privacy
 
-⬆️ 38 • 💬 8 • 12h ago • [Quad9](https://quad9.net/news/blog/quad9-enables-dns-over-http-3-and-dns-over-quic/)
+⬆️ 38 • 💬 8 • 13h ago • [Quad9](https://quad9.net/news/blog/quad9-enables-dns-over-http-3-and-dns-over-quic/)
 
 ---
 
@@ -317,7 +317,7 @@ Quantum computers are being hyped as the end of Bitcoin. The same institutions p
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 150 • ⏱️ 35:23 • 19h ago
+👁️ 16K • 👍 1K • 💬 150 • ⏱️ 35:23 • 20h ago
 
 ---
 
@@ -407,7 +407,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 7K • 👍 438 • 💬 16 • ⏱️ 8:41 • 13h ago
+👁️ 7K • 👍 438 • 💬 16 • ⏱️ 8:41 • 14h ago
 
 ---
 

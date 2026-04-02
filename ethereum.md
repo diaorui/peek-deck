@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-02T19:29:30.619506+00:00'
+updated: '2026-04-02T20:03:25.243201+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 02, 2026 at 19:29 UTC  
+**Last Updated:** April 02, 2026 at 20:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We recently recorded a PEEPanEIP session on EIP-7904, joined by Jacek Sieka and Maria Inês Oliveira. The conversation covers: Motivation behind the proposal Key design considerations Potential impact on the Ethereum ecosystem Open questions and areas for feedback The goal of PEEPanEIP is to make EIPs more accessible and easier to follow for the broader community - especially for those who may not be deep in the specs but want to stay informed. 🎥 Watch the full video https://youtu.be/CswFnsZTXmI Would love to hear thoughts from others following EIP-7904 or working in similar areas - feedback and perspectives welcome.
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ We recently recorded a PEEPanEIP session on EIP-7904, joined by Jacek Sieka and 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/live/aco5-l_bpOo?si=IZEg8wYNkTUOiGA_) • 7h ago
+🔗 [youtube.com](https://www.youtube.com/live/aco5-l_bpOo?si=IZEg8wYNkTUOiGA_) • 8h ago
 
 ---
 
@@ -200,7 +200,7 @@ CoinDesk • 1d ago
 
 **[Most large cryptocurrencies fall on Solana, Ethereum drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-solana-ethereum-drops-06702da9-e670e788b6b1?gaa_at=eafs&gaa_n=AWEtsqe5KoOeFyzZcUytiDcu-BaqvgeyvazpFPg_Fcb5cFV2N57MxYn81KYT&gaa_ts=69cec707&gaa_sig=LeNgxobIVAZRCF6lmQjgvdLtIicbFxfguFUd2cnLoNNye45DpMH3oYpL0a1SwcWMGc7hynem5nc_wM_sJ82Xjw%3D%3D)**
 
-MarketWatch • 5h ago
+MarketWatch • 6h ago
 
 ---
 
@@ -208,7 +208,7 @@ MarketWatch • 5h ago
 
 Ethereum is currently trading above $2,100 at the start of the new month, but one analyst believes the asset’s next major directional move is based on a single price level: one that, if broken, would invalidate years of macro analysis and cause a price collapse to as low as $900.The Count That Has…
 
-TradingView • 19h ago
+TradingView • 20h ago
 
 ---
 
@@ -250,7 +250,7 @@ GET THE BOOK: https://bullmania.com/book FREE TRAINING: https://www.bullmania.co
 
 📺 Ivan on Tech
 
-👁️ 14K • 👍 1K • 💬 61 • ⏱️ 56:09 • 10h ago
+👁️ 14K • 👍 1K • 💬 61 • ⏱️ 56:09 • 11h ago
 
 ---
 
@@ -260,7 +260,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 184 • 👍 10 • 💬 2 • ⏱️ 4:34 • 8h ago
+👁️ 184 • 👍 10 • 💬 2 • ⏱️ 4:34 • 9h ago
 
 ---
 
@@ -270,7 +270,7 @@ This year's EthCC event in Cannes has fielded its first major announcement: the 
 
 📺 Paul Barron Network
 
-👁️ 33K • 👍 2K • 💬 105 • ⏱️ 13:00 • 1d ago
+👁️ 33K • 👍 2K • 💬 105 • ⏱️ 13:00 • 2d ago
 
 ---
 
@@ -280,7 +280,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 60 • 💬 5 • ⏱️ 4:53 • 17h ago
+👁️ 1K • 👍 60 • 💬 5 • ⏱️ 4:53 • 18h ago
 
 ---
 
@@ -290,7 +290,7 @@ Welcome to Verified Investing Pro Traders channel. In this episode or Pro Charts
 
 📺 Verified Pro Traders
 
-👁️ 84 • 👍 13 • ⏱️ 8:59 • 1h ago
+👁️ 84 • 👍 13 • ⏱️ 8:59 • 2h ago
 
 ---
 

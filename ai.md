@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-02T19:29:30.606625+00:00'
+updated: '2026-04-02T20:03:25.228454+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - videos
+- repositories
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 02, 2026 at 19:29 UTC  
+**Last Updated:** April 02, 2026 at 20:03 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -63,7 +63,7 @@ Most AI products are still judged like answer machines. People ask whether the m
 
 As the toual says and why. So many out there whats ur go to.
 
-10h ago
+11h ago
 
 ---
 
@@ -71,7 +71,7 @@ As the toual says and why. So many out there whats ur go to.
 
 I kept missing interesting stuff on HuggingFace, arXiv, Substack etc., so I made an agent that sends a weekly summary of only what’s relevant, for free Any thoughts on the idea?
 
-13h ago
+14h ago
 
 ---
 
@@ -95,7 +95,7 @@ Code that reads your frustration is the least interesting part of the story of t
 
 I keep seeing people recommend chatgpt for financial modeling and I need to push back because I spent a month testing it for multifamily underwriting and the results were not close to usable. Pasting rent rolls, T12s, operating statements and asking it to build models, you get fragments. A few formulas, a cash flow table, maybe a cap rate calculation. Nothing ties together into a workbook you could hand to an investment committee. Fifteen rounds of prompting later and you've spent the same time you would have just building it in excel, except now you also have to debug whatever chatgpt hallucinated in cell D47. Problem with chatgpt is that it doesn't maintain state across a complex multi-step task. It treats each prompt like a fresh conversation even in the same thread. An underwriting model where assumptions feed cash flows which feed returns which feed sensitivities requires coherence across all those layers and it fragments. Purpose-built tools are architecturally different. They decompose the task, run autonomously for 15 to 30 minutes, check intermediate outputs, return a complete workbook with actual excel formulas. That's not a model quality difference, that's a design philosophy difference. Chatgpt for quick questions and brainstorming, yes. For anything where the output IS the deliverable, no. Different architecture for different jobs.
 
-9h ago
+10h ago
 
 ---
 
@@ -111,7 +111,7 @@ Hello everyone, this will be a bit of a long read, i have a lot of context to pr
 
 A new report from The San Francisco Standard reveals that the Parents and Kids Safe AI Coalition, a group pushing for AI age-verification legislation in California, was entirely funded by OpenAI. Child safety advocates and nonprofits who joined the coalition say they were completely unaware of the tech giant's financial backing until after the group's launch, with one member describing the covert arrangement as a very grimy feeling.
 
-🔗 [sfstandard.com](https://sfstandard.com/2026/04/01/openai-ai-kids-safety-coalition/) • 7h ago
+🔗 [sfstandard.com](https://sfstandard.com/2026/04/01/openai-ai-kids-safety-coalition/) • 8h ago
 
 ---
 
@@ -121,7 +121,7 @@ A new report from The San Francisco Standard reveals that the Parents and Kids S
 
 **[How A.I. Helped One Man (and His Brother) Build a $1.8 Billion Company](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html)**
 
-nytimes.com • 10h ago
+nytimes.com • 11h ago
 
 ---
 
@@ -145,7 +145,7 @@ Fox News • 1h ago
 
 Texas power plant would emit 4.5m tons of carbon dioxide per year, more than that of the entire city of San Francisco
 
-The Guardian • 33m ago
+The Guardian • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Guardian • 33m ago
 
 ElevenMusic lets users create and remix songs using text prompts. The new app suggests ElevenLabs wants to be more than just a voice model company.
 
-TechCrunch • 30m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ TechCrunch • 30m ago
 
 The case that AI is already stealing young people’s jobs is based on a statistical mirage.
 
-The Atlantic • 8h ago
+The Atlantic • 9h ago
 
 ---
 
@@ -223,7 +223,7 @@ The Italian government didn’t allow airplanes taking part in the Iran war to u
 
 **[ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover](https://news.ycombinator.com/item?id=47608155)**
 
-⬆️ 72 • 💬 34 • 19h ago • [old.reddit.com](https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/)
+⬆️ 72 • 💬 34 • 20h ago • [old.reddit.com](https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/)
 
 ---
 
@@ -261,7 +261,7 @@ Mitchell H. Katz, MD, president and CEO of NYC Health + Hospitals, recently spok
 
 **[Men are ditching TV for YouTube as AI usage and social media fatigue grow](https://news.ycombinator.com/item?id=47612127)**
 
-⬆️ 44 • 💬 113 • 9h ago • [ofcom.org.uk](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed)
+⬆️ 44 • 💬 113 • 10h ago • [ofcom.org.uk](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed)
 
 ---
 
@@ -313,7 +313,7 @@ RSVP for In Person Classes at -- https://www.SiliconDojo.com Support Content at 
 
 📺 Eli the Computer Guy
 
-👁️ 7K • 👍 423 • 💬 118 • ⏱️ 14:04 • 22h ago
+👁️ 7K • 👍 423 • 💬 118 • ⏱️ 14:04 • 23h ago
 
 ---
 
@@ -373,7 +373,7 @@ TODAY. IS. THE. DAY. Our Most Awaited Ai Business Summit starts TODAY at 12pm ES
 
 📺 Alicia Lyttle
 
-👁️ 5K • 👍 348 • 1d ago
+👁️ 5K • 👍 348 • 2d ago
 
 ---
 
@@ -495,7 +495,7 @@ LFM2.5-350M is a 350M parameter text generation model optimized for on-device de
 
 `text-generation` `354.5M`
 
-⬇️ 7,703 • ❤️ 195 • 23h ago
+⬇️ 7,703 • ❤️ 195 • 1d ago
 
 ---
 
@@ -663,7 +663,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 11.4k • 🔱 979 • 1h ago
+⭐ 11.4k • 🔱 979 • 2h ago
 
 ---
 
@@ -693,7 +693,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.2k • 🔱 335 • 3h ago
+⭐ 6.2k • 🔱 335 • 4h ago
 
 ---
 
@@ -713,7 +713,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 4.3k • 🔱 1.4k • 8h ago
+⭐ 4.3k • 🔱 1.4k • 9h ago
 
 ---
 

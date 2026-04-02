@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-02T19:29:30.622296+00:00'
+updated: '2026-04-02T20:03:25.246507+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 02, 2026 at 19:29 UTC  
+**Last Updated:** April 02, 2026 at 20:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,19 +42,19 @@ been working on this little desktop robot prototype called Kitto for a while now
 
 **[Autonomous valet robot demonstrating precise self-parking in a real-world setting](https://www.reddit.com/r/robotics/comments/1san0l2/autonomous_valet_robot_demonstrating_precise/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Generalist | Introducing GEN-1](https://www.reddit.com/r/robotics/comments/1saoiaj/generalist_introducing_gen1/)**
 
-1h ago
+2h ago
 
 ---
 
 **["Follow Me" Mode: Real-time human tracking with YOLOv8](https://www.reddit.com/r/robotics/comments/1sac61n/follow_me_mode_realtime_human_tracking_with_yolov8/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -74,7 +74,7 @@ been working on this little desktop robot prototype called Kitto for a while now
 
 hello have a task to draw a tennis racket trajectory during a stroke. the racket has an imu How can i do that ? been struggling with estimating position from it
 
-9m ago
+42m ago
 
 ---
 
@@ -88,7 +88,7 @@ hello have a task to draw a tennis racket trajectory during a stroke. the racket
 
 Has anyone seen an estimate for the number of submissions this year? I could not find an official announcement. Maybe the submission IDs could give a rough idea.
 
-7h ago
+8h ago
 
 ---
 
@@ -96,7 +96,7 @@ Has anyone seen an estimate for the number of submissions this year? I could not
 
 I'm a master's student and part of a robotics lab. Recently my proffesor submitted a paper for RA-L where primary authors are different people in the same lab. Some days ago their rebuttal came asking for a through experimentation and new baselines. Since our lab is really new nobody knows how to implement hardware here. One guy did the hardware implementation but then he did lab exit and went for his PhD. Now my proff is asking me to do the hardware implementation for all Baselines and saying he will put my name and that it will be good for my cv. Honestly, doing their work would require lots of effort and I'm not sure to do it for some 3rd,4th authorship which I'm not even sure is allowed. I want to do a phd after my masters but I'm not sure this authorship would do me any good. I'm not sure what to do in my case and thus I turned to reddit. Did anybody faced this before? What did you guys do?
 
-1h ago
+2h ago
 
 ---
 
@@ -108,7 +108,7 @@ I'm a master's student and part of a robotics lab. Recently my proffesor submitt
 
 Robotics training and human research were the primary duties for the Expedition 74 crew aboard the International Space Station on Wednesday. The orbital residents rounded out their shift with spacesuit work, cargo operations, and Earth observations.
 
-NASA (.gov) • 23h ago
+NASA (.gov) • 1d ago
 
 ---
 
@@ -162,7 +162,7 @@ Bloomberg.com • 1d ago
 
 **[Robots learn to ask humans for help](https://www.axios.com/2026/04/01/robots-delivery-serve-tmobile)**
 
-Axios • 10h ago
+Axios • 11h ago
 
 ---
 
@@ -214,7 +214,7 @@ Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In t
 
 📺 Shawn Ryan Show
 
-👁️ 360K • 👍 18K • 💬 3K • ⏱️ 8:48 • 22h ago
+👁️ 360K • 👍 18K • 💬 3K • ⏱️ 8:48 • 23h ago
 
 ---
 
