@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-02T17:24:22.307322+00:00'
+updated: '2026-04-02T18:08:10.781036+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 02, 2026 at 17:24 UTC  
+**Last Updated:** April 02, 2026 at 18:08 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $248.46B
+**Market Cap:** $247.16B
 Rank #2
 
 **Circulating Supply:** 120,691,323 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.4%
+-58.6%
 
 **All-Time Low:** $0.43
-+475458.9%
++472728.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We recently recorded a PEEPanEIP session on EIP-7904, joined by Jacek Sieka and Maria Inês Oliveira. The conversation covers: Motivation behind the proposal Key design considerations Potential impact on the Ethereum ecosystem Open questions and areas for feedback The goal of PEEPanEIP is to make EIPs more accessible and easier to follow for the broader community - especially for those who may not be deep in the specs but want to stay informed. 🎥 Watch the full video https://youtu.be/CswFnsZTXmI Would love to hear thoughts from others following EIP-7904 or working in similar areas - feedback and perspectives welcome.
 
-1h ago
+2h ago
 
 ---
 
@@ -88,19 +88,19 @@ We recently recorded a PEEPanEIP session on EIP-7904, joined by Jacek Sieka and 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/live/aco5-l_bpOo?si=IZEg8wYNkTUOiGA_) • 5h ago
+🔗 [youtube.com](https://www.youtube.com/live/aco5-l_bpOo?si=IZEg8wYNkTUOiGA_) • 6h ago
 
 ---
 
 **[New Partnership: Nodle x PARAGON ID](https://www.reddit.com/r/ethereum/comments/1sall1a/new_partnership_nodle_x_paragon_id/)**
 
-1h ago
+2h ago
 
 ---
 
 **[AI, bots & algorithms](https://www.reddit.com/r/ethereum/comments/1saiwdj/ai_bots_algorithms/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -170,7 +170,7 @@ ccn.com • 2d ago
 
 **[Ethereum’s Silent Bull Run: Traders Are Missing the Network Growth as Prices Dip](https://www.investing.com/analysis/ethereums-silent-bull-run-traders-are-missing-the-network-growth-as-prices-dip-200677788)**
 
-Investing.com • 1h ago
+Investing.com • 2h ago
 
 ---
 
@@ -184,7 +184,7 @@ Yahoo Finance • 5h ago
 
 **[Most large cryptocurrencies fall on Solana, Ethereum drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-solana-ethereum-drops-06702da9-e670e788b6b1?gaa_at=eafs&gaa_n=AWEtsqcBjGBOJIkBHWRUHBcDxjAbL0J_sKdtS5Ytw0cCJI5VxmSfpLK2gAQJ&gaa_ts=69cea9b2&gaa_sig=2z6WvEgOi0s9zra2ei5Tj3wzrrk-EJ3JbIp_G7ZcPR4skviB54T5wAW-9Fjes6waD-GWNtEE0sr55pvZntNXqw%3D%3D)**
 
-MarketWatch • 3h ago
+MarketWatch • 4h ago
 
 ---
 
@@ -208,7 +208,7 @@ CoinDesk • 1d ago
 
 Ethereum is currently trading above $2,100 at the start of the new month, but one analyst believes the asset’s next major directional move is based on a single price level: one that, if broken, would invalidate years of macro analysis and cause a price collapse to as low as $900.The Count That Has…
 
-TradingView • 17h ago
+TradingView • 18h ago
 
 ---
 
@@ -224,23 +224,23 @@ Decrypt • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[&quot;Change is Coming That Hasn&#39;t Happened In 100 Years&quot; | crypto news](https://www.youtube.com/watch?v=bDQgqJykRDc)**
+
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEEX Poker Party is LIVE ($30k Bonus): ...
+
+📺 Altcoin Daily
+
+👁️ 33K • 👍 2K • 💬 266 • ⏱️ 10:45 • 19h ago
+
+---
+
 **[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=UEeXKOD4Dls)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 394 • 👍 53 • 💬 2 • ⏱️ 5:43 • 3h ago
-
----
-
-**[Crypto Bull Run Has Started... but everyone&#39;s missing it!](https://www.youtube.com/watch?v=bDQgqJykRDc)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEEX Poker Party is LIVE ($30k Bonus): ...
-
-📺 Altcoin Daily
-
-👁️ 31K • 👍 2K • 💬 263 • ⏱️ 10:45 • 19h ago
+👁️ 757 • 👍 74 • 💬 2 • ⏱️ 5:43 • 3h ago
 
 ---
 
@@ -250,7 +250,7 @@ GET THE BOOK: https://bullmania.com/book FREE TRAINING: https://www.bullmania.co
 
 📺 Ivan on Tech
 
-👁️ 13K • 👍 996 • 💬 54 • ⏱️ 56:09 • 8h ago
+👁️ 14K • 👍 1K • 💬 61 • ⏱️ 56:09 • 9h ago
 
 ---
 
@@ -260,17 +260,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 138 • 👍 8 • 💬 2 • ⏱️ 4:34 • 6h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=6jEeJT0vai0)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 60 • 💬 5 • ⏱️ 4:53 • 15h ago
+👁️ 184 • 👍 10 • 💬 2 • ⏱️ 4:34 • 7h ago
 
 ---
 
@@ -284,33 +274,23 @@ This year's EthCC event in Cannes has fielded its first major announcement: the 
 
 ---
 
-**[Ethereum &amp; Cardano: Not Yet](https://www.youtube.com/watch?v=1S1XnTwJ2Q8)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=6jEeJT0vai0)**
 
-Hang in there everyone! The risk models that say when to accumulate or exit HERE. Free trial ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Dan Gambardello
+📺 More Crypto Online
 
-👁️ 10K • 👍 620 • 💬 203 • ⏱️ 13:49 • 1d ago
-
----
-
-**[CRYPTO LIVE TRADING || 2 APRIL  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=VTA_RTW-Dvk)**
-
-join my social platforms for updates and analysis ✓Instagram: ...
-
-📺 Aryan trader Live
-
-👁️ 3K • 👍 5K • 2h ago
+👁️ 1K • 👍 60 • 💬 5 • ⏱️ 4:53 • 16h ago
 
 ---
 
-**[BlackRock &amp; JP Morgan are Building on Ethereum—Here’s Why](https://www.youtube.com/watch?v=8KiltqYa2Xg)**
+**[Bitcoin, Ethereum, XRP Key Resistance Levels: Here&#39;s What the Charts Say](https://www.youtube.com/watch?v=AZgVF7mF4Ts)**
 
-BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Join the Inner Circle for exclusive ...
+Welcome to Verified Investing Pro Traders channel. In this episode or Pro Charts: Cryptocurrency, head trader Benjamin Pool ...
 
-📺 Lark Davis
+📺 Verified Pro Traders
 
-👁️ 5K • 👍 98 • 💬 4 • ⏱️ 0:47 • 1d ago
+👁️ 84 • 👍 13 • ⏱️ 8:59 • 8m ago
 
 ---
 
@@ -321,6 +301,26 @@ Crypto looks calm… but underneath, everything is moving. The Ethereum Foundati
 📺 CLOCKWISE CRYPTO 
 
 👁️ 13K • 👍 479 • 💬 75 • ⏱️ 9:26 • 2d ago
+
+---
+
+**[Ethereum Pumped 23% Last Time... But Waiting For THIS Signal Could Yield FAR MORE!](https://www.youtube.com/watch?v=KQC7G3k41ZY)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 402 • 👍 13 • 💬 6 • ⏱️ 6:16 • 23h ago
+
+---
+
+**[Ethereum &amp; Cardano: Not Yet](https://www.youtube.com/watch?v=1S1XnTwJ2Q8)**
+
+Hang in there everyone! The risk models that say when to accumulate or exit HERE. Free trial ...
+
+📺 Dan Gambardello
+
+👁️ 10K • 👍 620 • 💬 203 • ⏱️ 13:49 • 1d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-02T17:24:22.310577+00:00'
+updated: '2026-04-02T18:08:10.784112+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 02, 2026 at 17:24 UTC  
+**Last Updated:** April 02, 2026 at 18:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 been working on this little desktop robot prototype called Kitto for a while now. honestly most of the hype right now is just cramming the biggest model possible into a plastic shell. but testing the interaction on this thing... if the timing is off it just feels like a glorified smart speaker. to make it actually feel 'alive' on a desk, the idle animations and the instant switch to a listening state carry like 90% of the weight. tbh we ended up spending way more time tuning the audio-to-viseme mapping for the face than we did tweaking the actual API prompts. current stack is just an esp32s3+esp32p4 (planning to migrate to a linux board soon so we can handle local processing and maybe hook into openclaw). the screen isnt playing pre-rendered video files btw. the mouth movements are code-driven in real-time by analyzing the audio stream. latency is still my biggest headache though. pinging the api, getting the TTS audio back, and triggering the animation states fast enough to not break the illusion is tough on this hardware. its getting there but still a lot of code to fix. definately not pitching this as finished hardware yet, mostly just looking for honest feedback on the HRI approach. curious how you guys are handling TTS latency in your own conversational builds right now?
 
-2h ago
+3h ago
 
 ---
 
 **["Follow Me" Mode: Real-time human tracking with YOLOv8](https://www.reddit.com/r/robotics/comments/1sac61n/follow_me_mode_realtime_human_tracking_with_yolov8/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Autonomous valet robot demonstrating precise self-parking in a real-world setting](https://www.reddit.com/r/robotics/comments/1san0l2/autonomous_valet_robot_demonstrating_precise/)**
 
-26m ago
+1h ago
 
 ---
 
@@ -68,7 +68,7 @@ been working on this little desktop robot prototype called Kitto for a while now
 
 Has anyone seen an estimate for the number of submissions this year? I could not find an official announcement. Maybe the submission IDs could give a rough idea.
 
-5h ago
+6h ago
 
 ---
 
@@ -76,7 +76,7 @@ Has anyone seen an estimate for the number of submissions this year? I could not
 
 it uses only two motors to walk unlike most other bipedal robots. What do you guys think? Also I just made the base and hand for now ! https://www.youtube.com/watch?v=InKbSM_C5Xc
 
-8h ago
+9h ago
 
 ---
 
@@ -84,7 +84,7 @@ it uses only two motors to walk unlike most other bipedal robots. What do you gu
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=SY2xyrmV44Y) • 43m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=SY2xyrmV44Y) • 1h ago
 
 ---
 
@@ -92,7 +92,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 LLMs are being used in industrial robotics to generate robot motion code, PLC logic, and supporting automation scripts from natural language inputs. The primary application is in repetitive tasks such as sequencing, template generation, and initial system configuration. Outputs are reviewed, tested, and refined by engineers before deployment. When combined with simulation, this allows portions of robotic systems to be developed and tested prior to full hardware availability, reducing reliance on sequential commissioning.
 
-🔗 [Automate](https://www.automate.org/ai/industry-insights/accelerating-industrial-automation-with-llms) • 4h ago
+🔗 [Automate](https://www.automate.org/ai/industry-insights/accelerating-industrial-automation-with-llms) • 5h ago
 
 ---
 
@@ -100,7 +100,7 @@ LLMs are being used in industrial robotics to generate robot motion code, PLC lo
 
 Hello Everyone, I am trying to understand any commanization of motors & actuator specs in robotics (Humanoids, cobots, robot dogs) landscape. There has been quite significant progress in the last couple of years. I now see that companies like Unitree, Tesla already scaling up their robots. I understand that the motors and actuators they are using has been specifically made for their own applications but I was wondering if there is one single common motor and actuator that is common across these applications. Here is what I found out: PMSM + QDD for Robot dogs BLDC + Harmonics - Industrial precision Is there any specific range/specs across the motors and actuators that can be made like an off the shelf component? Any leads would be helpful.
 
-1h ago
+2h ago
 
 ---
 
@@ -112,13 +112,13 @@ Hello Everyone, I am trying to understand any commanization of motors & actuator
 
 Robotics training and human research were the primary duties for the Expedition 74 crew aboard the International Space Station on Wednesday. The orbital residents rounded out their shift with spacesuit work, cargo operations, and Earth observations.
 
-NASA (.gov) • 21h ago
+NASA (.gov) • 22h ago
 
 ---
 
 **[Generalist Is Betting Its Robot-Training Gloves Will Usher In Robotics’ ChatGPT Moment](https://www.forbes.com/sites/annatong/2026/04/02/generalist-is-betting-its-robot-training-gloves-will-usher-in-robotics-chatgpt-moment/)**
 
-Forbes • 6h ago
+Forbes • 7h ago
 
 ---
 
@@ -168,7 +168,7 @@ IEEE Spectrum • 1d ago
 
 **[West Virginia uses AI, robotics to promote industry at World Chemical Forum](https://www.wboy.com/news/west-virginia/west-virginia-uses-ai-robotics-to-promote-industry-at-world-chemical-forum/)**
 
-WBOY.com • 45m ago
+WBOY.com • 1h ago
 
 ---
 
@@ -190,7 +190,7 @@ Brett Adcock is a technology entrepreneur focused on building companies in robot
 
 📺 Shawn Ryan Show
 
-👁️ 457K • 👍 9K • 💬 3K • ⏱️ 2:57:09 • 2d ago
+👁️ 463K • 👍 10K • 💬 3K • ⏱️ 2:57:09 • 3d ago
 
 ---
 
@@ -200,17 +200,7 @@ Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking
 
 📺 The AI Nexus
 
-👁️ 3K • 👍 153 • 💬 12 • ⏱️ 20:43 • 1d ago
-
----
-
-**[Shawn Ryan Tests a Real Humanoid Robot](https://www.youtube.com/watch?v=HWq9cFhTvvQ)**
-
-Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In this clip, we break down how this robot sees, ...
-
-📺 Shawn Ryan Show
-
-👁️ 293K • 👍 16K • 💬 3K • ⏱️ 8:48 • 20h ago
+👁️ 3K • 👍 159 • 💬 12 • ⏱️ 20:43 • 1d ago
 
 ---
 
@@ -220,7 +210,17 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCkouj
 
 📺 Shawn Ryan Clips
 
-👁️ 9K • 👍 324 • 💬 133 • ⏱️ 15:18 • 2d ago
+👁️ 10K • 👍 329 • 💬 134 • ⏱️ 15:18 • 2d ago
+
+---
+
+**[Shawn Ryan Tests a Real Humanoid Robot](https://www.youtube.com/watch?v=HWq9cFhTvvQ)**
+
+Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In this clip, we break down how this robot sees, ...
+
+📺 Shawn Ryan Show
+
+👁️ 360K • 👍 18K • 💬 3K • ⏱️ 8:48 • 21h ago
 
 ---
 
@@ -230,7 +230,7 @@ Brett Adcock shares his vision for the future of humanoid robots, why he believe
 
 📺 Shawn Ryan Show
 
-👁️ 71K • 👍 2K • 💬 681 • ⏱️ 14:05 • 5d ago
+👁️ 72K • 👍 2K • 💬 682 • ⏱️ 14:05 • 5d ago
 
 ---
 
@@ -250,7 +250,7 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCkouj
 
 📺 Shawn Ryan Show
 
-👁️ 1.0M • 👍 17K • 💬 1K • ⏱️ 0:28 • 2d ago
+👁️ 1.0M • 👍 17K • 💬 1K • ⏱️ 0:28 • 3d ago
 
 ---
 
@@ -260,7 +260,7 @@ Ad: Check out PCBWay for all your project needs! Get $10 off orders over $30 wit
 
 📺 James Bruton
 
-👁️ 49K • 👍 3K • 💬 180 • ⏱️ 16:17 • 2d ago
+👁️ 50K • 👍 3K • 💬 180 • ⏱️ 16:17 • 2d ago
 
 ---
 
@@ -270,7 +270,7 @@ Unitree open-sources UnifoLM-WBT-Dataset — a high-quality real-world humanoid 
 
 📺 Unitree Robotics
 
-👁️ 9.0M • 👍 589 • 💬 98 • ⏱️ 1:28 • 6d ago
+👁️ 9.6M • 👍 589 • 💬 98 • ⏱️ 1:28 • 6d ago
 
 ---
 
@@ -278,7 +278,7 @@ Unitree open-sources UnifoLM-WBT-Dataset — a high-quality real-world humanoid 
 
 📺 Warm tide
 
-👁️ 985K • 👍 8K • 💬 60 • ⏱️ 0:53 • 5d ago
+👁️ 995K • 👍 8K • 💬 65 • ⏱️ 0:53 • 5d ago
 
 ---
 

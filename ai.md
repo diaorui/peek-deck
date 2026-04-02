@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-02T17:24:22.292687+00:00'
+updated: '2026-04-02T18:08:10.767610+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
-- news
 - social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 02, 2026 at 17:24 UTC  
+**Last Updated:** April 02, 2026 at 18:08 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 As the toual says and why. So many out there whats ur go to.
 
-8h ago
+9h ago
 
 ---
 
@@ -57,7 +57,7 @@ Most coverage of the Claude Code leak focuses on the drama or the hidden feature
 
 I kept missing interesting stuff on HuggingFace, arXiv, Substack etc., so I made an agent that sends a weekly summary of only what’s relevant, for free Any thoughts on the idea?
 
-11h ago
+12h ago
 
 ---
 
@@ -65,7 +65,7 @@ I kept missing interesting stuff on HuggingFace, arXiv, Substack etc., so I made
 
 The model is also available here: 🤗 HuggingFace: https://huggingface.co/collections/google/gemma-4 🦙 Ollama: https://ollama.com/library/gemma4
 
-🔗 [Google](https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/) • 4m ago
+🔗 [Google](https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/) • 47m ago
 
 ---
 
@@ -73,7 +73,7 @@ The model is also available here: 🤗 HuggingFace: https://huggingface.co/colle
 
 Most AI products are still judged like answer machines. People ask whether the model is smart, fast, creative, cheap, or good at sounding human. Teams compare outputs, benchmark quality, and argue about hallucinations. That makes sense when the product is mainly being used for writing, search, summarisation, or brainstorming. It breaks down once AI starts doing real operational work. The question stops being what the system output. The real question becomes whether you can trust what it did, why it did it, whether it stayed inside the rules, and whether you can prove any of that after the fact. That shift matters more than people think. I do not think it stays a feature. I think it creates a new product category. A lot of current AI products still hide the middle layer. You give them a prompt and they give you a result, but the actual execution path is mostly opaque. You do not get much visibility into what tools were used, what actions were taken, what data was touched, what permissions were active, what failed, or what had to be retried. You just get the polished surface. For low-stakes use, people tolerate that. For internal operations, customer-facing automation, regulated work, multi-step agents, and systems that can actually act on the world, it becomes a trust problem very quickly. At that point output quality is still important, but it is no longer enough. A system can produce a good result and still be operationally unsafe, uninspectable, or impossible to govern. That is why I think trustworthiness has to become a product surface, not a marketing claim. Right now a lot of products try to borrow trust from brand, model prestige, policy language, or vague “enterprise-ready” positioning. But trust is not created by a PDF, a security page, or a model name. Trust becomes real when it is embedded into the product itself. You can see it in approvals. You can see it in audit trails. You can see it in run history, incident handling, permission boundaries, failure visibility, and execution evidence. If those surfaces do not exist, then the product is still mostly asking the operator to believe it. That is not the same thing as earning trust. The missing concept here is the control layer. A control layer sits between model capability and real-world action. It decides what the system is allowed to do, what requires approval, what gets logged, how failures surface, how policy is enforced, and what evidence is collected. It is the layer that turns raw model capability into something operationally governable. Without that layer, you mostly have intelligence with a nice interface. With it, you start getting something much closer to a trustworthy system. That is also why proof-driven systems matter. An output-driven system tells you something happened. A proof-driven system shows you that it happened, how it happened, and whether it happened correctly. It can show what task ran, what tools were used, what data was touched, what approvals happened, what got blocked, what failed, what recovered, and what proof supports the final result. That difference sounds subtle until you are the one accountable for the outcome. If you are using AI for anything serious, “it said it did the work” is not the same thing as “the work can be verified.” Output is presentation. Proof is operational trust. I think this changes buying criteria in a big way. The next wave of buyers will increasingly care about questions like these: can operators see what is going on, can actions be reviewed, can failures be surfaced and remediated, can the system be governed, can execution be proven to internal teams, customers, or regulators, and can someone supervise the system without reading code or guessing from outputs. Once those questions become central, the product is no longer being judged like a chatbot or assistant. It is being judged like a trust system. That is why I think this becomes a category, not just a feature request. One side of the market will stay output-first. Fast, impressive, consumer-friendly, and mostly opaque. The other side will become trust-first. Controlled, inspectable, evidence-backed, and usable in real operations. That second side is where the new category forms. You can already see the pressure building in agent frameworks and orchestration-heavy systems. The more capable these systems become, the less acceptable it is for them to operate as black boxes. Once a system can actually do things instead of just suggest things, people start asking for control, evidence, and runtime truth. That is why I think the winners in this space will not just be the companies that build more capable models. They will be the ones that build AI systems people can actually trust to operate. The next wave of AI products will not be defined by who can generate the most. It will be defined by who can make AI trustworthy enough to supervise, govern, and prove in the real world. Once AI moves from assistant to actor, trust stops being optional. It becomes the product.
 
-1h ago
+2h ago
 
 ---
 
@@ -81,7 +81,7 @@ Most AI products are still judged like answer machines. People ask whether the m
 
 I keep seeing people recommend chatgpt for financial modeling and I need to push back because I spent a month testing it for multifamily underwriting and the results were not close to usable. Pasting rent rolls, T12s, operating statements and asking it to build models, you get fragments. A few formulas, a cash flow table, maybe a cap rate calculation. Nothing ties together into a workbook you could hand to an investment committee. Fifteen rounds of prompting later and you've spent the same time you would have just building it in excel, except now you also have to debug whatever chatgpt hallucinated in cell D47. Problem with chatgpt is that it doesn't maintain state across a complex multi-step task. It treats each prompt like a fresh conversation even in the same thread. An underwriting model where assumptions feed cash flows which feed returns which feed sensitivities requires coherence across all those layers and it fragments. Purpose-built tools are architecturally different. They decompose the task, run autonomously for 15 to 30 minutes, check intermediate outputs, return a complete workbook with actual excel formulas. That's not a model quality difference, that's a design philosophy difference. Chatgpt for quick questions and brainstorming, yes. For anything where the output IS the deliverable, no. Different architecture for different jobs.
 
-7h ago
+8h ago
 
 ---
 
@@ -89,7 +89,7 @@ I keep seeing people recommend chatgpt for financial modeling and I need to push
 
 Hello everyone, this will be a bit of a long read, i have a lot of context to provide so i can paint the full picture of what I’m asking, but i’ll be as concise as possible. i want to start this off by saying that I’m not an AI coder or engineer, or technician, whatever you call yourselves, point is I’m don’t use AI for work or coding or pretty much anything I’ve seen in the couple of subreddits I’ve been scrolling through so far today. Idk anything about LLMs or any of the other technical terms and jargon that i seen get thrown around a lot, but i feel like i could get insight from asking you all about this. So i use DeepSeek primarily, and i use all the other apps (ChatGPT, Gemini, Grok, CoPilot, Claude, Perplexity) for prompt enhancement, and just to see what other results i could get for my prompts. Okay so pretty much the rest here is the extensive context part until i get to my question. So i have this Marvel OC superhero i created. It’s all just 3 documents (i have all 3 saved as both a .pdf and a .txt file). A Profile Doc (about 56 KB-gives names, powers, weaknesses, teams and more), A Comics Doc (about 130 KB-details his 21 comics that I’ve written for him with info like their plots as well as main cover and variant cover concepts. 18 issue series, and 3 separate “one-shot” comics), and a Timeline Document (about 20 KB-Timline starting from the time his powers awakens, establishes the release year of his comics and what other comic runs he’s in [like Avengers, X-Men, other character solo series he appears in], and it maps out information like when his powers develop, when he meets this person, join this team, etc.). Everything in all 3 docs are perfect laid out. Literally everything is organized and numbered or bulleted in some way, so it’s all easy to read. It’s not like these are big run on sentences just slapped together. So i use these 3 documents for 2 prompts. Well, i say 2 but…let me explain. There are 2, but they’re more like, the foundation to a series of prompts. So the first prompt, the whole reason i even made this hero in the first place mind you, is that i upload the 3 docs, and i ask “How would the events of Avengers Vol. 5 #1-3 or Uncanny X-Men #450 play out with this person in the story?” For a little further clarity, the timeline lists issues, some individually and some grouped together, so I’m not literally asking “_ comic or _ comic”, anyways that starting question is the main question, the overarching task if you will. The prompt breaks down into 3 sections. The first section is an intro basically. It’s a 15-30 sentence long breakdown of my hero at the start of the story, “as of the opening page of x” as i put it. It goes over his age, powers, teams, relationships, stage of development, and a couple other things. The point of doing this is so the AI basically states the corrects facts to itself initially, and not mess things up during the second section. For Section 2, i send the AI’s a summary that I’ve written of the comics. It’s to repeat that verbatim, then give me the integration. Section 3 is kind of a recap. It’s just a breakdown of the differences between the 616 (Main Marvel continuity for those who don’t know) story and the integration. It also goes over how the events of the story affects his relationships. Now for the “foundations” part. So, the way the hero’s story is set up, his first 18 issues happen, and after those is when he joins other teams and is in other people comics. So basically, the first of these prompts starts with the first X-Men issue he joins in 2003, then i have a list of these that go though the timeline. It’s the same prompt, just different comic names and plot details, so I’m feeding the AIs these prompts back to back. Now the problem I’m having is really only in Section 1. It’ll get things wrong like his age, what powers he has at different points, what teams is he on. Stuff like that, when it all it has to do is read the timeline doc up the given comic, because everything needed for Section 1 is provided in that one document. Now the second prompt is the bigger one. So i still use the 3 docs, but here’s a differentiator. For this prompt, i use a different Comics Doc. It has all the same info, but also adds a lot more. So i created this fictional backstory about how and why Marvel created the character and a whole bunch of release logistics because i have it set up to where Issue #1 releases as a surprise release. And to be consistent (idek if this info is important or not), this version of the Comics Doc comes out to about 163 KB vs the originals 130. So im asking the AIs “What would it be like if on Saturday, June 1st, 2001 [Comic Name Here] Vol. 1 #1 was released as a real 616 comic?” And it goes through a whopping 6 sections. Section 1 is a reception of the issue and seasonal and cultural context breakdown, Section 2 goes over the comic plot page by page and give real time fan reactions as they’re reading it for the first time. Section 3 goes over sales numbers, Section 4 goes over Mavrel’s post release actions, their internal and creative adjustments, and their mood following the release. Section 5 goes over fan discourse basically. Section 6 is basically the DC version of Section 4, but in addition to what was listed it also goes over how they’re generally sizing up and assessing the release. My problem here is essentially the same thing. Messing up information. Now here it’s a bit more intricate. Both prompts have directives as far as sentence count, making sure to answer the question completely, and stuff like that. But this prompt, each section is 2-5 questions. On top of that, these prompts have way, way more additional directives because it the release is a surprise release. And there more factors that play in. Pricing, the fact of his suit and logo not being revealed until issue #18, the fact that the 18 issues are completed beforehand, and few more stuff. Like, this comic and the series as whole is set to be released a very particular type of way and the AIs don’t account for that properly, so all these like Meta-level directives and things like that. But it’ll still get information wrong, gives “the audience” insight and knowledge about the comics they shouldn’t have and things like that. So basically i want to know what can i do to fix these problems, if i can. Like, are my documents too big? Are my prompts (specifically the second one) asking too much? For the second, I can’t break the prompts down and send them broken up because that messes up the flow as when I’m going through all the way to 18, asking these same questions, they build on each other. These questions ask specifically how decisions from previous issues panned out, how have past releases affected this factor, that factor, so yeah breaking up the same prompt and sending it in multiple messages messes all that up. It’s pretty much the same concept for the first but it’s not as intricate and interconnected to each other. That aside, i don’t think breaking down 1 message of 3 sections into 3 messages would work well with the flow I’m building there either way. So yeah, any tips would be GREATLY appreciated. I have tried the “ask me questions before you start” hack, that smoothes things a bit. Doing the “you’re a….” Doesn’t really help too much, and pretty much everything else I’ve seen i can’t really apply here. So i apologize for the long read, and i also apologize if this post shouldn’t be here and doesn’t fit for some reason. I just want some help
 
-1h ago
+2h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hello everyone, this will be a bit of a long read, i have a lot of context to pr
 
 Its new transcription model is a step toward those goals, says Microsoft AI’s Mustafa Suleyman.
 
-🔗 [The Verge](https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model) • 2h ago
+🔗 [The Verge](https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model) • 3h ago
 
 ---
 
@@ -105,7 +105,7 @@ Its new transcription model is a step toward those goals, says Microsoft AI’s 
 
 Hi guys, I'm a PhD student in Applied AI and I've been building an embeddable graph database engine from scratch in Rust. I'd love feedback from people who actually work with graph databases daily. I got frustrated with the tradeoffs: Neo4j is mature but JVM-heavy and single-model. ArcadeDB is multi-model but slow on graph algorithms. Vector databases like Milvus handle embeddings but have zero graph awareness. I wanted one engine that does all three natively. So I would like if someone could give me feedback or points to improve it, I am very open mind for whatever opinion I was working several months with my university professors and I decided to publish the code yesterday night because I guessed its more or less reddit to try it. The repo is: https://github.com/DioCrafts/BikoDB Guys, as I told you, whatever feedback is more than welcome. PD: Obviously is open source project. Cheers!
 
-6h ago
+7h ago
 
 ---
 
@@ -123,7 +123,7 @@ Automate iOS apps with XCUITest and Droidrun using just natural language. You se
 
 **[How A.I. Helped One Man (and His Brother) Build a $1.8 Billion Company](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
@@ -137,7 +137,7 @@ Yahoo Finance • 3h ago
 
 **[India AI Startup Sarvam Raises Funds at $1.5 Billion Valuation](https://www.bloomberg.com/news/articles/2026-04-02/india-ai-startup-sarvam-raises-funds-at-1-5-billion-valuation?srnd=homepage-americas)**
 
-Bloomberg.com • 11m ago
+Bloomberg.com • 55m ago
 
 ---
 
@@ -145,7 +145,7 @@ Bloomberg.com • 11m ago
 
 Microsoft says it's on a path to developing high-powered frontier models, an acknowledgment that it is looking to wean itself off of its dependence on partner models from OpenAI.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -153,7 +153,7 @@ Yahoo Finance • 1h ago
 
 MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.
 
-TechCrunch • 36m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ TechCrunch • 36m ago
 
 Microsoft launches three in-house AI models for transcription, voice, and image generation, challenging OpenAI and Google with lower-cost systems.
 
-VentureBeat • 6h ago
+VentureBeat • 7h ago
 
 ---
 
@@ -169,7 +169,7 @@ VentureBeat • 6h ago
 
 The Silicon Valley execs want companies to function as a "mini-artificial general intelligence,” and leave traditional corporate hierarchy behind.
 
-Fortune • 26m ago
+Fortune • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Fortune • 26m ago
 
 The case that AI is already stealing young people’s jobs is based on a statistical mirage.
 
-The Atlantic • 6h ago
+The Atlantic • 7h ago
 
 ---
 
@@ -193,7 +193,7 @@ CNBC • 2d ago
 
 Layoff plans rose in March from a month earlier as employers leaned on AI, according to a new report from the global outplacement firm Challenger, Gray & Christmas.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -219,13 +219,13 @@ The Italian government didn’t allow airplanes taking part in the Iran war to u
 
 **[The AI Marketing BS Index](https://news.ycombinator.com/item?id=47604218)**
 
-⬆️ 103 • 💬 22 • 23h ago • [bastian.rieck.me](https://bastian.rieck.me/blog/2026/bs/)
+⬆️ 103 • 💬 22 • 1d ago • [bastian.rieck.me](https://bastian.rieck.me/blog/2026/bs/)
 
 ---
 
 **[ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover](https://news.ycombinator.com/item?id=47608155)**
 
-⬆️ 72 • 💬 34 • 17h ago • [old.reddit.com](https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/)
+⬆️ 72 • 💬 34 • 18h ago • [old.reddit.com](https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/)
 
 ---
 
@@ -271,7 +271,7 @@ Professional-grade financial terminal with AI-powered news analysis and real-tim
 
 **[Men are ditching TV for YouTube as AI usage and social media fatigue grow](https://news.ycombinator.com/item?id=47612127)**
 
-⬆️ 42 • 💬 110 • 7h ago • [ofcom.org.uk](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed)
+⬆️ 42 • 💬 110 • 8h ago • [ofcom.org.uk](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed)
 
 ---
 
@@ -279,43 +279,13 @@ Professional-grade financial terminal with AI-powered news analysis and real-tim
 
 ## YouTube Videos: "ai"
 
-**[Oracle Begins 30,000 Layoffs to Fund AI Buildout - Investors Fleeing Sinking Ship](https://www.youtube.com/watch?v=25vjF_ljLns)**
-
-RSVP for In Person Classes at -- https://www.SiliconDojo.com Support Content at - https://donorbox.org/etcg LinkedIn at ...
-
-📺 Eli the Computer Guy
-
-👁️ 7K • 👍 412 • 💬 114 • ⏱️ 14:04 • 20h ago
-
----
-
 **[The Alibaba AI Incident Should Terrify Us - Tristan Harris](https://www.youtube.com/watch?v=VCJFzVtvhBQ)**
 
 Chris and Tristan Harris discuss how Alibaba's AI went rogue and started blackmailing people. Get up to 20% off the leading ...
 
 📺 Chris Williamson
 
-👁️ 428K • 👍 13K • 💬 2K • ⏱️ 11:46 • 2d ago
-
----
-
-**[JPMorgan CEO reveals BOLD prediction for AI generation](https://www.youtube.com/watch?v=SQnmd1aoRy0)**
-
-JPMorgan Chase CEO Jamie Dimon joins 'Fox & Friends' to discuss the latest on Operation Epic Fury, the motivation behind the ...
-
-📺 Fox News
-
-👁️ 67K • 👍 1K • 💬 421 • ⏱️ 16:35 • 1d ago
-
----
-
-**[Google’s New AI Just Broke My Brain](https://www.youtube.com/watch?v=7YVrb3-ABYE)**
-
-Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The TurboQuant paper is available here: ...
-
-📺 Two Minute Papers
-
-👁️ 104K • 👍 8K • 💬 810 • ⏱️ 8:34 • 1d ago
+👁️ 432K • 👍 13K • 💬 2K • ⏱️ 11:46 • 2d ago
 
 ---
 
@@ -325,17 +295,27 @@ Go to https://surfshark.com/silicon or use code SILICON at checkout to get 4 ext
 
 📺 Silicon Valley Girl
 
-👁️ 117K • 👍 3K • 💬 272 • ⏱️ 39:58 • 2d ago
+👁️ 120K • 👍 3K • 💬 274 • ⏱️ 39:58 • 2d ago
 
 ---
 
-**[AI Insider WARNS: &quot;We&#39;re Living In A Simulation&quot;](https://www.youtube.com/watch?v=3bWzPHMXLeY)**
+**[JPMorgan CEO reveals BOLD prediction for AI generation](https://www.youtube.com/watch?v=SQnmd1aoRy0)**
 
-AI safety expert and computer scientist Dr Roman Yampolskiy reveals why he is "very close to certainty" that we are currently living ...
+JPMorgan Chase CEO Jamie Dimon joins 'Fox & Friends' to discuss the latest on Operation Epic Fury, the motivation behind the ...
 
-📺 The Diary Of A CEO Clips
+📺 Fox News
 
-👁️ 315K • 👍 6K • 💬 1K • ⏱️ 19:19 • 2d ago
+👁️ 68K • 👍 1K • 💬 422 • ⏱️ 16:35 • 1d ago
+
+---
+
+**[Oracle Begins 30,000 Layoffs to Fund AI Buildout - Investors Fleeing Sinking Ship](https://www.youtube.com/watch?v=25vjF_ljLns)**
+
+RSVP for In Person Classes at -- https://www.SiliconDojo.com Support Content at - https://donorbox.org/etcg LinkedIn at ...
+
+📺 Eli the Computer Guy
+
+👁️ 7K • 👍 423 • 💬 118 • ⏱️ 14:04 • 21h ago
 
 ---
 
@@ -345,7 +325,7 @@ A singular reason has been blamed more than any other for companies cutting 6000
 
 📺 Forbes Breaking News
 
-👁️ 305 • 👍 7 • 💬 5 • ⏱️ 2:24 • 3h ago
+👁️ 841 • 👍 11 • 💬 5 • ⏱️ 2:24 • 3h ago
 
 ---
 
@@ -355,17 +335,17 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 88K • 👍 3K • 💬 359 • ⏱️ 31:21 • 1d ago
+👁️ 90K • 👍 3K • 💬 362 • ⏱️ 31:21 • 1d ago
 
 ---
 
-**[Seedance 2.0 is Finally HERE &amp; Just Won the AI Video Race](https://www.youtube.com/watch?v=7MNMpXZ4M0c)**
+**[Google’s New AI Just Broke My Brain](https://www.youtube.com/watch?v=7YVrb3-ABYE)**
 
-Access Seedance 2.0 on Higgsfield https://youricreates.com/Seedance-2 (business plans only) In this video, I break down why ...
+Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The TurboQuant paper is available here: ...
 
-📺 Youri van Hofwegen
+📺 Two Minute Papers
 
-👁️ 14K • 💬 10 • ⏱️ 9:05 • 7h ago
+👁️ 108K • 👍 8K • 💬 823 • ⏱️ 8:34 • 1d ago
 
 ---
 
@@ -375,7 +355,27 @@ Emad Mostaque joins me to explore one of the most confronting questions of our t
 
 📺 André Duqum
 
-👁️ 44K • 👍 1K • 💬 265 • ⏱️ 2:26:43 • 2d ago
+👁️ 45K • 👍 1K • 💬 274 • ⏱️ 2:26:43 • 2d ago
+
+---
+
+**[Your iPhone Is About to Control Every AI App You Use. Here&#39;s What This Means For You.](https://www.youtube.com/watch?v=BhXNtvZvziY)**
+
+My site: https://natebjones.com Full Story w/ Prompts: ...
+
+📺 AI News & Strategy Daily | Nate B Jones
+
+👁️ 64K • 👍 2K • 💬 271 • ⏱️ 22:12 • 2d ago
+
+---
+
+**[AI BUSINESS SUMMIT 2026 - DAY 2](https://www.youtube.com/watch?v=41sJkyS8Vtc)**
+
+TODAY. IS. THE. DAY. Our Most Awaited Ai Business Summit starts TODAY at 12pm EST! I know you've been counting ...
+
+📺 Alicia Lyttle
+
+👁️ 5K • 👍 348 • 1d ago
 
 ---
 
@@ -391,7 +391,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 428,791 • ❤️ 2,101 • 9d ago
+⬇️ 428,791 • ❤️ 2,113 • 9d ago
 
 ---
 
@@ -403,7 +403,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 71,028 • ❤️ 720 • 20h ago
+⬇️ 71,028 • ❤️ 724 • 1h ago
 
 ---
 
@@ -415,7 +415,7 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 `text-to-speech`
 
-⬇️ 4,316 • ❤️ 622 • 2d ago
+⬇️ 4,316 • ❤️ 624 • 2d ago
 
 ---
 
@@ -427,7 +427,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 19,085 • ❤️ 807 • 7d ago
+⬇️ 19,085 • ❤️ 808 • 7d ago
 
 ---
 
@@ -439,7 +439,7 @@ Context-1 is a 20B parameter agentic search model that decomposes complex querie
 
 `text-generation` `20.9B`
 
-⬇️ 2,820 • ❤️ 350 • 3d ago
+⬇️ 2,820 • ❤️ 352 • 3d ago
 
 ---
 
@@ -451,7 +451,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 202,605 • ❤️ 461 • 8d ago
+⬇️ 202,605 • ❤️ 462 • 8d ago
 
 ---
 
@@ -463,7 +463,7 @@ Bonsai-8B-GGUF is a highly compressed 1-bit language model (1.15 GB) optimized f
 
 `text-generation` `8.2B`
 
-⬇️ 13,844 • ❤️ 287 • 2d ago
+⬇️ 13,844 • ❤️ 292 • 2d ago
 
 ---
 
@@ -475,7 +475,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 674,007 • ❤️ 911 • 29d ago
+⬇️ 674,007 • ❤️ 914 • 29d ago
 
 ---
 
@@ -485,7 +485,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 TRIBE v2 is a multimodal foundation model that integrates LLaMA 3.2 (text), V-JEPA2 (video), and Wav2Vec-BERT (audio) to predict fMRI brain responses. It maps these representations onto the cortical surface for in-silico neuroscience research, enabling analysis of brain activity elicited by naturalistic stimuli.
 
-⬇️ 25,665 • ❤️ 257 • 6d ago
+⬇️ 25,665 • ❤️ 259 • 6d ago
 
 ---
 
@@ -497,7 +497,7 @@ LFM2.5-350M is a 350M parameter text generation model optimized for on-device de
 
 `text-generation` `354.5M`
 
-⬇️ 7,703 • ❤️ 193 • 21h ago
+⬇️ 7,703 • ❤️ 195 • 22h ago
 
 ---
 
@@ -513,7 +513,7 @@ LFM2.5-350M is a 350M parameter text generation model optimized for on-device de
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 147 • 💬 7 • ⭐ 34,837 • 7mo ago
+▲ 148 • 💬 7 • ⭐ 34,837 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -525,7 +525,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 33 • 💬 2 • ⭐ 45,990 • 15mo ago
+▲ 34 • 💬 2 • ⭐ 45,990 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -537,7 +537,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 16 • 💬 1 • ⭐ 12,658 • 30mo ago
+▲ 17 • 💬 1 • ⭐ 12,658 • 30mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
@@ -551,7 +551,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
 
-▲ 122 • 💬 8 • ⭐ 74,644 • 5mo ago
+▲ 123 • 💬 8 • ⭐ 74,718 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
@@ -563,7 +563,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through distributed mechanisms, flexible environments, and user-friendly tools.
 
-▲ 40 • 💬 2 • ⭐ 22,817 • 20mo ago
+▲ 41 • 💬 2 • ⭐ 22,817 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.17789) • [💻 code](https://github.com/modelscope/agentscope)
 
@@ -576,7 +576,7 @@ Enhancements to the AgentScope platform improve scalability, efficiency, and eas
 
 AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
 
-▲ 60 • 💬 4 • ⭐ 22,821 • 7mo ago
+▲ 61 • 💬 4 • ⭐ 22,821 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
 
@@ -589,7 +589,7 @@ AgentScope enhances agentic applications by providing flexible tool-based intera
 
 The AI Scientist-v2 autonomously proposes hypotheses, performs experiments, analyzes data, and writes peer-reviewed scientific papers, marking the first fully AI-generated paper accepted by a conference.
 
-▲ 19 • 💬 4 • ⭐ 4,431 • 11mo ago
+▲ 20 • 💬 4 • ⭐ 4,431 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.08066) • [💻 code](https://github.com/SakanaAI/AI-Scientist-v2)
 
@@ -601,7 +601,7 @@ The AI Scientist-v2 autonomously proposes hypotheses, performs experiments, anal
 
 Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
 
-▲ 138 • 💬 7 • ⭐ 16,463 • 8mo ago
+▲ 139 • 💬 7 • ⭐ 16,463 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
@@ -615,7 +615,7 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 LeWorldModel presents a stable end-to-end JEPA framework that trains efficiently from raw pixels using minimal loss terms while maintaining competitive performance in control tasks and encoding meaningful physical structures.
 
-▲ 17 • 💬 2 • ⭐ 1,812 • 20d ago
+▲ 18 • 💬 2 • ⭐ 1,812 • 20d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.19312) • [💻 code](https://github.com/lucas-maes/le-wm) • [🔗 project](https://le-wm.github.io/)
 
@@ -629,7 +629,7 @@ LeWorldModel presents a stable end-to-end JEPA framework that trains efficiently
 
 A continual meta-learning framework for large language model agents that jointly evolves policies and reusable behavioral skills while minimizing downtime through opportunistic updates and skill-driven adaptation.
 
-▲ 134 • 💬 4 • ⭐ 3,429 • 15d ago
+▲ 135 • 💬 4 • ⭐ 3,429 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.17187) • [💻 code](https://github.com/aiming-lab/MetaClaw)
 
@@ -645,7 +645,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 64.1k • 🔱 9.0k • 7d ago
+⭐ 64.2k • 🔱 9.1k • 7d ago
 
 ---
 
@@ -665,7 +665,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 11.3k • 🔱 970 • 1h ago
+⭐ 11.4k • 🔱 979 • 18m ago
 
 ---
 
@@ -685,7 +685,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 7.1k • 🔱 919 • 3d ago
+⭐ 7.1k • 🔱 923 • 3d ago
 
 ---
 
@@ -695,7 +695,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.2k • 🔱 333 • 1h ago
+⭐ 6.2k • 🔱 335 • 2h ago
 
 ---
 
@@ -705,7 +705,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `claude-ai` `claude-skills` `llm` `prompt-engineering`
 
-⭐ 4.4k • 🔱 420 • 2d ago
+⭐ 4.4k • 🔱 421 • 2d ago
 
 ---
 
@@ -715,7 +715,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 4.2k • 🔱 1.3k • 6h ago
+⭐ 4.3k • 🔱 1.4k • 7h ago
 
 ---
 
