@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-02T05:04:29.661265+00:00'
+updated: '2026-04-02T06:48:43.401995+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 02, 2026 at 05:04 UTC  
+**Last Updated:** April 02, 2026 at 06:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,299.88
+### $66,676.93
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.9%  
-**7d:** +0.0%  
-**30d:** -8.6%  
-**90d:** -26.7%  
-**1y:** -20.1%  
+**24h:** -3.0%  
+**7d:** +0.3%  
+**30d:** -8.4%  
+**90d:** -26.5%  
+**1y:** -19.8%  
 
 ---
 
@@ -77,35 +77,11 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Buying $300k in BTC next few months. Which broker?](https://www.reddit.com/r/Bitcoin/comments/1s9qj8w/buying_300k_in_btc_next_few_months_which_broker/)**
-
-I plan to buy around 4-5 BTC over the next few months. Maybe do it in 3 chunks. Its a long-term HODL. Main goal is low fees and future access to products like borrowing against my BTC or even using it as collateral for a mortgage 2-3 years down the . Maybe want a little bit of margin. Leaning towards Kraken but want any and all recommendations! Also, I have a Ledger USB already
-
-11h ago
-
----
-
 **[Started buying at 128k now sitting at 93k average](https://www.reddit.com/r/Bitcoin/comments/1sa6krz/started_buying_at_128k_now_sitting_at_93k_average/)**
 
 Who else is pumped right now! Part of me wants another big dip so I can keep adding to my stack with DCA and grab even more sats Real talk tho - if youre in this for the long haul like 10+ years why does anyone get upset when the price drops? Makes no sense to me if you actually believe in where this is headed
 
-1h ago
-
----
-
-**[Is 0.01 a good target to aim for with BTC?](https://www.reddit.com/r/Bitcoin/comments/1s9ulam/is_001_a_good_target_to_aim_for_with_btc/)**
-
-I started accumulating BTC at the end of last year. I live in Brazil and buy 200 to 500 BRL (40 to 95 USD) worth of BTC per month. My initial goal is to reach 0.01 BTC, which I believe is a good goal and I intend to achieve it by the end of the year.
-
-9h ago
-
----
-
-**[Perfect time to load up on sats while everyone's panicking](https://www.reddit.com/r/Bitcoin/comments/1sa2zm9/perfect_time_to_load_up_on_sats_while_everyones/)**
-
-Yeah the markets are taking a beating right now and everyone's losing their minds, but this is exactly what we've been waiting for. These dips don't last forever and when things turn around you'll be glad you didn't sit on the sidelines Can't time the exact bottom obviously but every time it drops another level I'm grabbing more. Been doing this for a few years now and the pattern always repeats itself. People get scared, price drops, smart money accumulates, then we're back to new highs Don't go crazy and blow your whole budget at once though. Space it out, buy the dips, and stay patient. Future you will appreciate it
-
-4h ago
+3h ago
 
 ---
 
@@ -113,7 +89,37 @@ Yeah the markets are taking a beating right now and everyone's losing their mind
 
 A friend of mine has been buying Bitcoin since 2023, $50 every day. From the time the price is below $70k, he is buying double ($100 each day). He believes that one day BTC will go to $1M+, and then he'll decide whether to sell or keep holding.
 
-29m ago
+2h ago
+
+---
+
+**[Buying $300k in BTC next few months. Which broker?](https://www.reddit.com/r/Bitcoin/comments/1s9qj8w/buying_300k_in_btc_next_few_months_which_broker/)**
+
+I plan to buy around 4-5 BTC over the next few months. Maybe do it in 3 chunks. Its a long-term HODL. Main goal is low fees and future access to products like borrowing against my BTC or even using it as collateral for a mortgage 2-3 years down the . Maybe want a little bit of margin. Leaning towards Kraken but want any and all recommendations! Also, I have a Ledger USB already
+
+13h ago
+
+---
+
+**[Perfect time to load up on sats while everyone's panicking](https://www.reddit.com/r/Bitcoin/comments/1sa2zm9/perfect_time_to_load_up_on_sats_while_everyones/)**
+
+Yeah the markets are taking a beating right now and everyone's losing their minds, but this is exactly what we've been waiting for. These dips don't last forever and when things turn around you'll be glad you didn't sit on the sidelines Can't time the exact bottom obviously but every time it drops another level I'm grabbing more. Been doing this for a few years now and the pattern always repeats itself. People get scared, price drops, smart money accumulates, then we're back to new highs Don't go crazy and blow your whole budget at once though. Space it out, buy the dips, and stay patient. Future you will appreciate it
+
+5h ago
+
+---
+
+**[Is 0.01 a good target to aim for with BTC?](https://www.reddit.com/r/Bitcoin/comments/1s9ulam/is_001_a_good_target_to_aim_for_with_btc/)**
+
+I started accumulating BTC at the end of last year. I live in Brazil and buy 200 to 500 BRL (40 to 95 USD) worth of BTC per month. My initial goal is to reach 0.01 BTC, which I believe is a good goal and I intend to achieve it by the end of the year.
+
+11h ago
+
+---
+
+**[the pros and cons of the new bitcoin backed mortgage product](https://www.reddit.com/r/Bitcoin/comments/1s9whyu/the_pros_and_cons_of_the_new_bitcoin_backed/)**
+
+10h ago
 
 ---
 
@@ -121,13 +127,7 @@ A friend of mine has been buying Bitcoin since 2023, $50 every day. From the tim
 
 $1.32B in net inflows after four straight months of outflows totaling $6.3B
 
-13h ago
-
----
-
-**[the pros and cons of the new bitcoin backed mortgage product](https://www.reddit.com/r/Bitcoin/comments/1s9whyu/the_pros_and_cons_of_the_new_bitcoin_backed/)**
-
-8h ago
+15h ago
 
 ---
 
@@ -135,7 +135,7 @@ $1.32B in net inflows after four straight months of outflows totaling $6.3B
 
 Buy and HOLD until someone is willing to pay what you want. Very simple. Patience = Freedom
 
-1h ago
+3h ago
 
 ---
 
@@ -143,7 +143,7 @@ Buy and HOLD until someone is willing to pay what you want. Very simple. Patienc
 
 Bitcoin is edging closer to Wall Street—and now, to municipal finance. New Hampshire is preparing to launch what could be the first Bitcoin-backed municipal bond in the U.S., a $100 million deal that uses bitcoin as collateral instead of taxpayer backing. The structure blends traditional public finance with digital assets to attract capital without putting state funds at risk. The plan, approved in late 2025 and moving toward final sign-off in 2026, signals a new phase for Bitcoin: not just an investment, but collateral inside regulated financial markets.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/hampshire-plans-100m-bitcoin-backed-083438443.html) • 16h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/hampshire-plans-100m-bitcoin-backed-083438443.html) • 18h ago
 
 ---
 
@@ -159,11 +159,25 @@ I have started accumulating btc since 2021, not going out with boys ,even cancel
 
 ## Google News: "bitcoin"
 
-**[Bitcoin’s crashes are shrinking, and Wall Street is starting to notice](https://www.coindesk.com/markets/2026/04/01/bitcoin-s-crashes-are-shrinking-and-wall-street-is-starting-to-notice)**
+**[Bitcoin Tumbles With Stocks as Trump Signals Harder Iran Strikes](https://www.bloomberg.com/news/articles/2026-04-02/bitcoin-tumbles-with-stocks-as-trump-signals-harder-iran-strikes)**
 
-Skepticism remains, as Bloomberg analyst Mike McGlone warns the crypto bubble may be over and bitcoin could still revisit the $10,000 level.
+Bloomberg.com • 2h ago
 
-CoinDesk • 16h ago
+---
+
+**[Attention bitcoin traders. These indicators matter more than what Trump says about Iran](https://www.coindesk.com/markets/2026/04/02/bitcoin-traders-keep-chasing-trump-s-iran-noise-the-real-signals-are-elsewhere)**
+
+Bitcoin and other risk assets have been whipsawed by President Donald J. Trump’s shifting rhetoric on Iran. Here are some indicators that help cut through the noise.
+
+CoinDesk • 1h ago
+
+---
+
+**[Bitcoin, ether, solana slide further as Trump threatens to hit Iran 'extremely hard'](https://www.coindesk.com/markets/2026/04/02/bitcoin-ether-solana-slide-further-as-trump-threatens-to-hit-iran-extremely-hard)**
+
+Crypto and equities sold off after the president's national address undermined a two-day rally built on expectations the war was ending. Oil jumped 5% to above $106.
+
+CoinDesk • 2h ago
 
 ---
 
@@ -175,33 +189,11 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin Tumbles With Stocks as Trump Signals Harder Iran Strikes](https://www.bloomberg.com/news/articles/2026-04-02/bitcoin-tumbles-with-stocks-as-trump-signals-harder-iran-strikes)**
+**[Bitcoin Whales Are Selling While Corporations Bought 62,000 BTC In Q1 Alone. Here Is What That Split Means](https://www.tradingview.com/news/newsbtc:e40861a77094b:0-bitcoin-whales-are-selling-while-corporations-bought-62-000-btc-in-q1-alone-here-is-what-that-split-means/)**
 
-Bloomberg.com • 54m ago
+Bitcoin is struggling to reclaim $70,000. The price chart looks uninspiring. And according to the data, surface reading is missing the most important thing happening in this market right now.An XWIN Research Japan report has identified a structural divergence that the price alone cannot show. On th…
 
----
-
-**[Bitcoin, ether, solana slide further as Trump threatens to hit Iran 'extremely hard'](https://www.coindesk.com/markets/2026/04/02/bitcoin-ether-solana-slide-further-as-trump-threatens-to-hit-iran-extremely-hard)**
-
-Crypto and equities sold off after the president's national address undermined a two-day rally built on expectations the war was ending. Oil jumped 5% to above $106.
-
-CoinDesk • 52m ago
-
----
-
-**[What ending the Iran war means for Bitcoin’s price](https://finance.yahoo.com/markets/crypto/articles/ending-iran-war-means-bitcoin-162616803.html)**
-
-President Trump has said the US should be out of Iran soon. Crypto markets are up as a result. The end of war in the Middle East would ultimately benefit crypto, analysts said.
-
-Yahoo Finance • 12h ago
-
----
-
-**[Bitcoin Ends 5-Month Losing Run — Real Reversal Or Just April Fool’s Hype?](https://www.tradingview.com/news/newsbtc:1b8a48c96094b:0-bitcoin-ends-5-month-losing-run-real-reversal-or-just-april-fool-s-hype/)**
-
-A cluster of roughly 650,000 Bitcoin sits at the $70,000–$72,000 price range — coins bought by investors who are now waiting to break even. That supply overhang is the wall Bitcoin must climb if its March recovery is going to mean anything.Related Reading: Ripple’s RLUSD Stablecoin Sits On $1.57 Bi…
-
-tradingview.com • 3h ago
+TradingView • 1h ago
 
 ---
 
@@ -209,7 +201,7 @@ tradingview.com • 3h ago
 
 Brent crude futures on Hyperliquid recorded $46.6 million in liquidations, behind only ether and bitcoin. The single largest liquidation was a $17.17 million oil position.
 
-CoinDesk • 30m ago
+CoinDesk • 2h ago
 
 ---
 
@@ -217,7 +209,7 @@ CoinDesk • 30m ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 16h ago
+Fortune • 18h ago
 
 ---
 
@@ -225,15 +217,23 @@ Fortune • 16h ago
 
 State regulators say the agreement with cryptocurrency ATM operator Bitcoin Depot is designed to compensate consumers who were defrauded between 2022 and 2025.
 
-WGME • 14h ago
+WGME • 15h ago
 
 ---
 
-**[Crypto check: How bitcoin & ethereum prices are moving](https://finance.yahoo.com/video/crypto-check-how-bitcoin--ethereum-prices-are-moving-154824864.html)**
+**[Bitcoin snaps 5-month losing streak](https://finance.yahoo.com/news/bitcoin-snaps-5-month-losing-streak-020352078.html)**
 
-On this episode of Crypto Check, Yahoo Finance Senior Reporter Brooke DiPalma takes a look at names like Coinbase (COIN) and Robinhood (HOOD), as well as bitcoin's (BTC-USD) and ethereum's (ETH-USD) price action amid the latest Iran war developments.
+Bitcoin's March resilience may have been a relief rally within a broader crypto winter, according to Compass Point analyst Ed Engel.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 20h ago
+
+---
+
+**[Interactive Brokers Adds Bitcoin Trading In European Economic Area](https://bitcoinmagazine.com/news/interactive-brokers-adds-bitcoin-trading)**
+
+Interactive Brokers has launched bitcoin trading for eligible retail investors across the European Economic Area.
+
+Bitcoin Magazine • 11h ago
 
 ---
 
@@ -253,13 +253,13 @@ Google Research said the necessary resources for quantum computers to break cryp
 
 Bitcoin needs to fix this in the next three years.
 
-⬆️ 5 • 💬 2 • 13h ago • [Mashable](https://mashable.com/article/google-research-bitcoin-cryptography-broken)
+⬆️ 5 • 💬 2 • 15h ago • [Mashable](https://mashable.com/article/google-research-bitcoin-cryptography-broken)
 
 ---
 
 **[Google Paper Warns of Quantum Computing Risk for Bitcoin](https://news.ycombinator.com/item?id=47600418)**
 
-⬆️ 3 • 💬 1 • 15h ago • [wsj.com](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q)
+⬆️ 3 • 💬 1 • 17h ago • [wsj.com](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q)
 
 ---
 
@@ -303,6 +303,14 @@ runs multiple inputs through a script/function in parallel using bash coprocs - 
 
 ---
 
+**[Quad9 Enables DNS over HTTP/3 and DNS over QUIC](https://news.ycombinator.com/item?id=47610777)**
+
+A public and free DNS service for a better security and privacy
+
+⬆️ 1 • 💬 1 • 4m ago • [Quad9](https://quad9.net/news/blog/quad9-enables-dns-over-http-3-and-dns-over-quic/)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -313,7 +321,7 @@ Quantum computers are being hyped as the end of Bitcoin. The same institutions p
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 794 • 💬 90 • ⏱️ 35:23 • 5h ago
+👁️ 6K • 👍 794 • 💬 90 • ⏱️ 35:23 • 7h ago
 
 ---
 
@@ -323,7 +331,7 @@ Bitcoin traded at $67950 on Tuesday, up 0.2% over 24 hours, as a wave of optimis
 
 📺 Paul Barron Network
 
-👁️ 25K • 👍 1K • 💬 115 • ⏱️ 14:45 • 10h ago
+👁️ 25K • 👍 1K • 💬 115 • ⏱️ 14:45 • 12h ago
 
 ---
 
@@ -333,7 +341,7 @@ CharlesSchwab's Jim Ferraioli compares the recent crypto bubble to that of other
 
 📺 Schwab Network
 
-👁️ 2K • 👍 19 • 💬 6 • ⏱️ 5:44 • 13h ago
+👁️ 2K • 👍 19 • 💬 6 • ⏱️ 5:44 • 14h ago
 
 ---
 
