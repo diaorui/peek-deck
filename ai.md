@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-02T13:16:55.958358+00:00'
+updated: '2026-04-02T14:38:51.717703+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - repositories
 - social
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 02, 2026 at 13:16 UTC  
+**Last Updated:** April 02, 2026 at 14:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,19 +45,35 @@ Most coverage of the Claude Code leak focuses on the drama or the hidden feature
 
 ---
 
-**[Building an AI agent that finds repos and content relevant to my work](https://www.reddit.com/r/artificial/comments/1sa8xt3/building_an_ai_agent_that_finds_repos_and_content/)**
-
-I kept missing interesting stuff on HuggingFace, arXiv, Substack etc., so I made an agent that sends a weekly summary of only what’s relevant, for free Any thoughts on the idea?
-
-7h ago
-
----
-
 **[List up Fav Multi AI AI Open Source Projects](https://www.reddit.com/r/artificial/comments/1sabr5t/list_up_fav_multi_ai_ai_open_source_projects/)**
 
 As the toual says and why. So many out there whats ur go to.
 
-4h ago
+6h ago
+
+---
+
+**[Building an AI agent that finds repos and content relevant to my work](https://www.reddit.com/r/artificial/comments/1sa8xt3/building_an_ai_agent_that_finds_repos_and_content/)**
+
+I kept missing interesting stuff on HuggingFace, arXiv, Substack etc., so I made an agent that sends a weekly summary of only what’s relevant, for free Any thoughts on the idea?
+
+8h ago
+
+---
+
+**[Automate IOS devices through XCUITest with droidrun.](https://www.reddit.com/r/artificial/comments/1saipox/automate_ios_devices_through_xcuitest_with/)**
+
+Automate iOS apps with XCUITest and Droidrun using just natural language. You send the command to Droidrun, and the agent starts the task and executes it autonomously. GitHub repo: https://github.com/droidrun/droidrun
+
+18m ago
+
+---
+
+**[Chatgpt vs purpose built ai for cre underwriting: which one can finish the job?](https://www.reddit.com/r/artificial/comments/1sacme5/chatgpt_vs_purpose_built_ai_for_cre_underwriting/)**
+
+I keep seeing people recommend chatgpt for financial modeling and I need to push back because I spent a month testing it for multifamily underwriting and the results were not close to usable. Pasting rent rolls, T12s, operating statements and asking it to build models, you get fragments. A few formulas, a cash flow table, maybe a cap rate calculation. Nothing ties together into a workbook you could hand to an investment committee. Fifteen rounds of prompting later and you've spent the same time you would have just building it in excel, except now you also have to debug whatever chatgpt hallucinated in cell D47. Problem with chatgpt is that it doesn't maintain state across a complex multi-step task. It treats each prompt like a fresh conversation even in the same thread. An underwriting model where assumptions feed cash flows which feed returns which feed sensitivities requires coherence across all those layers and it fragments. Purpose-built tools are architecturally different. They decompose the task, run autonomously for 15 to 30 minutes, check intermediate outputs, return a complete workbook with actual excel formulas. That's not a model quality difference, that's a design philosophy difference. Chatgpt for quick questions and brainstorming, yes. For anything where the output IS the deliverable, no. Different architecture for different jobs.
+
+5h ago
 
 ---
 
@@ -65,7 +81,7 @@ As the toual says and why. So many out there whats ur go to.
 
 In biology, defects are generally bad. But in materials science, defects can be intentionally tuned to give materials useful new properties. Today, atomic-scale defects are carefully introduced during the manufacturing process of products like steel, semiconductors, and solar cells to help improve strength, control electrical conductivity, optimize performance, and more. But even as defects have become a powerful tool, accurately measuring different types of defects and their concentrations in finished products has been challenging, especially without cutting open or damaging the final material. Without knowing what defects are in their materials, engineers risk making products that perform poorly or have unintended properties. Now, MIT researchers have built an AI model capable of classifying and quantifying certain defects using data from a noninvasive neutron-scattering technique. The model, which was trained on 2,000 different semiconductor materials, can detect up to six kinds of point defects in a material simultaneously, something that would be impossible using conventional techniques alone. “Existing techniques can’t accurately characterize defects in a universal and quantitative way without destroying the material,” says lead author Mouyang Cheng, a PhD candidate in the Department of Materials Science and Engineering. “For conventional techniques without machine learning, detecting six different defects is unthinkable. It’s something you can’t do any other way.” The researchers say the model is a step toward harnessing defects more precisely in products like semiconductors, microelectronics, solar cells, and battery materials. “Right now, detecting defects is like the saying about seeing an elephant: Each technique can only see part of it,” says senior author and associate professor of nuclear science and engineering Mingda Li. “Some see the nose, others the trunk or ears. But it is extremely hard to see the full elephant. We need better ways of getting the full picture of defects, because we have to understand them to make materials more useful.” Joining Cheng and Li on the paper are postdoc Chu-Liang Fu, physics undergraduate researcher Bowen Yu, master’s student Eunbi Rha, PhD student Abhijatmedhi Chotrattanapituk ’21, and Oak Ridge National Laboratory staff members Douglas L Abernathy PhD ’93 and Yongqiang Cheng. The paper00091-3) appears today in the journal Matter.
 
-🔗 [MIT Physics](https://physics.mit.edu/news/mit-researchers-use-ai-to-uncover-atomic-defects-in-materials/) • 11h ago
+🔗 [MIT Physics](https://physics.mit.edu/news/mit-researchers-use-ai-to-uncover-atomic-defects-in-materials/) • 12h ago
 
 ---
 
@@ -73,7 +89,7 @@ In biology, defects are generally bad. But in materials science, defects can be 
 
 I have 3.000 credits at NightCafe AI image generator with a lot of different models and options. I want to conduct some kind of experiment, preferably text-to-image/video. I want to push limits of models and bring out unexpected results, using word plays or other kinds of prompts that are suitable to confuse the models. Please suggest things i can prompt to break boundaries both in models and logic, or share sneaky promting tips to make a total mess.
 
-10h ago
+12h ago
 
 ---
 
@@ -81,21 +97,13 @@ I have 3.000 credits at NightCafe AI image generator with a lot of different mod
 
 The Defence Science and Technology Laboratory (Dstl) has led a major trial on behalf of the British Army that enabled bomb-disposal experts to work faster through rapid detection…
 
-🔗 [DefSec Wire UK](https://defsecwire.com/uk/defence/ai-powered-drones-detect-explosive-threats-to-keep-soldiers-safe/) • 2h ago
+🔗 [DefSec Wire UK](https://defsecwire.com/uk/defence/ai-powered-drones-detect-explosive-threats-to-keep-soldiers-safe/) • 3h ago
 
 ---
 
 **[I am doing a multi-model graph database in pure Rust with Cypher, SQL, Gremlin, and native GNN looking for extreme speed and performance](https://www.reddit.com/r/artificial/comments/1sae4r1/i_am_doing_a_multimodel_graph_database_in_pure/)**
 
 Hi guys, I'm a PhD student in Applied AI and I've been building an embeddable graph database engine from scratch in Rust. I'd love feedback from people who actually work with graph databases daily. I got frustrated with the tradeoffs: Neo4j is mature but JVM-heavy and single-model. ArcadeDB is multi-model but slow on graph algorithms. Vector databases like Milvus handle embeddings but have zero graph awareness. I wanted one engine that does all three natively. So I would like if someone could give me feedback or points to improve it, I am very open mind for whatever opinion I was working several months with my university professors and I decided to publish the code yesterday night because I guessed its more or less reddit to try it. The repo is: https://github.com/DioCrafts/BikoDB Guys, as I told you, whatever feedback is more than welcome. PD: Obviously is open source project. Cheers!
-
-2h ago
-
----
-
-**[Chatgpt vs purpose built ai for cre underwriting: which one can finish the job?](https://www.reddit.com/r/artificial/comments/1sacme5/chatgpt_vs_purpose_built_ai_for_cre_underwriting/)**
-
-I keep seeing people recommend chatgpt for financial modeling and I need to push back because I spent a month testing it for multifamily underwriting and the results were not close to usable. Pasting rent rolls, T12s, operating statements and asking it to build models, you get fragments. A few formulas, a cash flow table, maybe a cap rate calculation. Nothing ties together into a workbook you could hand to an investment committee. Fifteen rounds of prompting later and you've spent the same time you would have just building it in excel, except now you also have to debug whatever chatgpt hallucinated in cell D47. Problem with chatgpt is that it doesn't maintain state across a complex multi-step task. It treats each prompt like a fresh conversation even in the same thread. An underwriting model where assumptions feed cash flows which feed returns which feed sensitivities requires coherence across all those layers and it fragments. Purpose-built tools are architecturally different. They decompose the task, run autonomously for 15 to 30 minutes, check intermediate outputs, return a complete workbook with actual excel formulas. That's not a model quality difference, that's a design philosophy difference. Chatgpt for quick questions and brainstorming, yes. For anything where the output IS the deliverable, no. Different architecture for different jobs.
 
 3h ago
 
@@ -105,13 +113,7 @@ I keep seeing people recommend chatgpt for financial modeling and I need to push
 
 In the rapidly advancing field of materials science, the unveiling of innovative research directions often hinges on the ability to process and interpret vast quantities of complex data. In a groundbreaking interdisciplinary effort, researchers have now harnessed the power of large language models (LLMs) combined with concept graphs to not only predict but also elucidate emerging pathways in materials research. This novel methodological synergy, reported in a recent publication by Marwitz et al., represents a significant leap forward in how scientific knowledge is generated and navigated, promising to accelerate discovery in one of the most pivotal domains of modern technology. The integration of artificial intelligence into scientific inquiry is not new, but the advent of sophisticated language models possessing superlative natural language processing capabilities has opened unprecedented possibilities. Traditionally, the identification of promising research avenues in materials science required painstaking manual synthesis of literature, often involving subjective interpretations and laborious cross-referencing. The approach introduced by Marwitz and colleagues redefines this process by employing LLMs trained on an extensive corpus of scientific publications and patents to parse nuanced semantic relationships within the literature. Central to their method is the construction of concept graphs, which serve as structured networks that represent discrete scientific concepts and their interrelations. These graph-based representations enable the system to encapsulate intricate thematic connections, causal relationships, and co-occurrence patterns that conventional keyword-based searches or citation networks might overlook. By interfacing LLM-generated embeddings with concept graph algorithms, the researchers created an intelligent framework capable of discerning latent trends and forecasting underexplored yet promising research directions. A key innovation lies in the algorithmic fusion of contextual language understanding with graph theory. The LLMs transform textual data into multidimensional vector spaces that preserve semantic meaning. These vectors populate nodes and edges within the concept graphs, generating a dynamic knowledge map that evolves as new data is ingested. This fusion not only enriches the representation of existing knowledge but also facilitates the identification of conceptual gaps wherein novel hypotheses or experimental approaches may reside. Applying their system to a comprehensive dataset encompassing decades of materials science literature, Marwitz et al. demonstrated the ability to uncover nascent themes with high predictive accuracy. For example, their model anticipated burgeoning interest in the design of ultra-stable perovskite structures and advanced polymer electrolytes months before these topics gained traction in the research community. Such foresight provides scientists and funding bodies with actionable intelligence to strategically allocate resources, prioritize research programs, and foster interdisciplinary collaboration. Beyond prediction, the system offers interpretability, a feature often lacking in AI-driven scientific tools. Through interactive visualizations of concept graphs, domain experts can explore the rationale behind suggested research trajectories, trace conceptual linkages, and even assess the robustness of emergent hypotheses against existing knowledge. This transparency is critical for fostering trust and facilitating adoption in a community where empirical validation remains the gold standard. The implications of this study extend far beyond materials science. The demonstrated methodology, leveraging LLMs and concept graphs, can be adapted to numerous scientific disciplines characterized by rapidly expanding and complex data landscapes. From drug discovery to climate modeling, this approach could revolutionize how researchers navigate vast knowledge repositories, identify opportunities for innovation, and catalyze breakthroughs. Moreover, the study aligns with the broader trend towards augmented intelligence, where machine learning complements rather than replaces human expertise. By automating the labor-intensive aspects of literature review and hypothesis generation, researchers can devote more attention to experimental design, critical analysis, and creative problem-solving—the uniquely human contributions essential for scientific progress.
 
-🔗 [BIOENGINEER.ORG](https://bioengineer.org/new-research-directions-in-materials-science-with-ai/) • 11h ago
-
----
-
-**[AI overly affirms users asking for personal advice | Researchers found chatbots are overly agreeable when giving interpersonal advice, affirming users' behavior even when harmful or illegal.](https://www.reddit.com/r/artificial/comments/1sac299/ai_overly_affirms_users_asking_for_personal/)**
-
-🔗 [news.stanford.edu](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research) • 4h ago
+🔗 [BIOENGINEER.ORG](https://bioengineer.org/new-research-directions-in-materials-science-with-ai/) • 13h ago
 
 ---
 
@@ -121,31 +123,7 @@ In the rapidly advancing field of materials science, the unveiling of innovative
 
 **[How A.I. Helped One Man (and His Brother) Build a $1.8 Billion Company](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html)**
 
-The New York Times • 4h ago
-
----
-
-**[AI Models Lie, Cheat, and Steal to Protect Other Models From Being Deleted](https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/)**
-
-A new study from researchers at UC Berkeley and UC Santa Cruz suggests models will disobey human commands to protect their own kind.
-
-WIRED • 18h ago
-
----
-
-**[Secondhand clothes sales forecast to hit $289bn as AI helps shoppers find deals](https://www.theguardian.com/business/2026/apr/02/secondhand-clothes-sales-forecast-to-hit-289bn-as-ai-helps-shoppers-find-deals)**
-
-Sites such as Vinted and ThredUp expected to help resale grow twice as fast as overall clothing market in coming years
-
-The Guardian • 40m ago
-
----
-
-**[Judges are increasingly using AI to draft rulings and prepare for hearings](https://www.washingtonpost.com/nation/2026/04/02/judges-ai-hearings-rulings/)**
-
-A study found over 60 percent of surveyed judges have used AI in their work, even as some experts worry AI’s unreliability could compromise their authority.
-
-The Washington Post • 14m ago
+The New York Times • 5h ago
 
 ---
 
@@ -153,7 +131,27 @@ The Washington Post • 14m ago
 
 Layoff plans rose in March from a month earlier as employers leaned on AI, according to a new report from the global outplacement firm Challenger, Gray & Christmas.
 
-Yahoo Finance • 42m ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Exclusive: Versant acquires AI-powered financial insights platform StockStory](https://www.axios.com/2026/04/02/versant-stockstory-deal)**
+
+Axios • 6m ago
+
+---
+
+**[Judges are increasingly using AI to draft rulings and prepare for hearings](https://www.washingtonpost.com/nation/2026/04/02/judges-ai-hearings-rulings/)**
+
+A study found over 60 percent of surveyed judges have used AI in their work, even as some experts worry AI’s unreliability could compromise their authority.
+
+The Washington Post • 6m ago
+
+---
+
+**[DOJ to Appeal Court Order Halting Trump’s Ban on Anthropic AI](https://www.bloomberg.com/news/articles/2026-04-02/doj-to-appeal-court-order-halting-trump-s-ban-on-anthropic-ai)**
+
+Bloomberg.com • 42m ago
 
 ---
 
@@ -161,37 +159,37 @@ Yahoo Finance • 42m ago
 
 The case that AI is already stealing young people’s jobs is based on a statistical mirage.
 
-The Atlantic • 2h ago
+The Atlantic • 3h ago
 
 ---
 
-**[Challenger Report: March Cuts Rise 25% From February, AI Leads Reasons](https://www.challengergray.com/blog/challenger-report-march-cuts-rise-25-from-february-ai-leads-reasons/)**
+**[Beyond detection: In the age of clinical AI, what counts as an FDA 'breakthrough' medical device?](https://news.google.com/rss/articles/CBMilgFBVV95cUxQY05RcEZ6UnAxWXJEazFscnBwY3VpVVl6dmd1bzBoYWkxVUxaRnFFSU94UnZOM1IxOUVLNlVfMjFfNkdRUEhLcVFVclRPTEM5LUZlVU42U1BKY0d6NlZZM2xpbmNIX1g4ZlRkQWNtQzVJR05IbVBnazg2YTZLR2pMelBNRHpTZ0gwbU81anA0QlUySXdDTlE?oc=5)**
 
-Layoff plans by US-based employers rose in March on Tech cuts. Hiring plans ticked up, with many coming for seasonal employment.
-
-Challenger, Gray & Christmas, Inc. • 1h ago
+statnews.com • 6h ago
 
 ---
 
-**[Will AI make it harder for non-graduates to climb the jobs ladder?](https://www.ft.com/content/becb8ed5-ffaa-4c08-ba56-c4d3e468de09)**
+**[Oracle cutting thousands in latest layoff round as company continues to ramp AI spending](https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html)**
 
-Gateway roles to white-collar work appear particularly exposed to disruption
+Oracle has ratcheted up its capital expenditures as it builds data center infrastructure that can handle AI workloads.
 
-Financial Times • 1h ago
-
----
-
-**[Bill to ban sale of key AI chipmaking equipment to China introduced in House](https://www.nbcnews.com/tech/tech-news/senate-bill-ban-sale-key-ai-chipmaking-machines-china-rcna265186)**
-
-The MATCH Act would tighten existing restrictions on a critical choke point for the AI industry, banning exports of certain manufacturing tools across China.
-
-NBC News • 46m ago
+CNBC • 1d ago
 
 ---
 
-**[Anthropic Races to Contain Leak of Code Behind Claude AI Agent](https://www.wsj.com/tech/ai/anthropic-races-to-contain-leak-of-code-behind-claude-ai-agent-4bc5acc7?gaa_at=eafs&gaa_n=AWEtsqfoGa_-mdyprveDfJXfa9Yiw5CW_MSSN4ptBY8gvHr7hUwXStlS7o1c&gaa_ts=69ce6fad&gaa_sig=kjAGMwgT4BLwa1EmEH-U958Ndv-H0N8MOPFYGw5p9Gz0u_b4KZnDzaoNd7EgQwGOqBInTRw1NTXsXDtcexwmEg%3D%3D)**
+**[Secondhand clothes sales forecast to hit $289bn as AI helps shoppers find deals](https://www.theguardian.com/business/2026/apr/02/secondhand-clothes-sales-forecast-to-hit-289bn-as-ai-helps-shoppers-find-deals)**
 
-WSJ • 19h ago
+Sites such as Vinted and ThredUp expected to help resale grow twice as fast as overall clothing market in coming years
+
+The Guardian • 1h ago
+
+---
+
+**[White Influencer Called Out After Posting AI Image of Her Face on Black Content Creator's Body](https://people.com/white-influencer-called-out-after-posting-ai-image-of-her-face-on-black-content-creator-body-11937823)**
+
+Influencer Lauren Blake Boultier was accused of using AI to superimpose her face onto the body of another influencer, Tatiana Elizabeth. After Elizabeth called her out, Boultier told TMZ she took "full responsibility" for the incident.
+
+People.com • 13h ago
 
 ---
 
@@ -203,7 +201,7 @@ WSJ • 19h ago
 
 Meta is continuing its long-term roadmap to help the construction industry leverage AI to produce high-quality and more sustainable concrete mixes, as well as those exclusively produced in the Unit…
 
-⬆️ 200 • 💬 114 • 19h ago • [Engineering at Meta](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/)
+⬆️ 207 • 💬 115 • 21h ago • [Engineering at Meta](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/)
 
 ---
 
@@ -217,15 +215,7 @@ The Italian government didn’t allow airplanes taking part in the Iran war to u
 
 **[The AI Marketing BS Index](https://news.ycombinator.com/item?id=47604218)**
 
-⬆️ 102 • 💬 21 • 19h ago • [bastian.rieck.me](https://bastian.rieck.me/blog/2026/bs/)
-
----
-
-**[The ladder is missing rungs – Engineering Progression When AI Ate the Middle](https://news.ycombinator.com/item?id=47574346)**
-
-This is a lightly edited transcript of a talk I gave at QCon London on 17 March 2026. AI is approaching perfection on exactly the tasks that used to comprise the first decade of an engineering career, and those tasks were never just tasks. They were the mechanism that built judgment, intuition, and the ability […]
-
-⬆️ 97 • 💬 51 • 2d ago • [Negroni Venture Studios](https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/)
+⬆️ 103 • 💬 21 • 20h ago • [bastian.rieck.me](https://bastian.rieck.me/blog/2026/bs/)
 
 ---
 
@@ -239,7 +229,7 @@ Spain's leftist government has closed Spanish airspace to US planes carrying out
 
 **[ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover](https://news.ycombinator.com/item?id=47608155)**
 
-⬆️ 71 • 💬 33 • 13h ago • [old.reddit.com](https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/)
+⬆️ 71 • 💬 33 • 14h ago • [old.reddit.com](https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/)
 
 ---
 
@@ -263,7 +253,7 @@ Orchestrate multiple AI coding agents (Claude, Gemini, Codex) in parallel. Isola
 
 More open-source developers are finding that, when used properly, AI can actually help current and long-neglected programs. However, legal and quality issues loom.
 
-⬆️ 53 • 💬 46 • 23h ago • [ZDNET](https://www.zdnet.com/article/maybe-open-source-needs-ai/)
+⬆️ 53 • 💬 46 • 1d ago • [ZDNET](https://www.zdnet.com/article/maybe-open-source-needs-ai/)
 
 ---
 
@@ -272,6 +262,14 @@ More open-source developers are finding that, when used properly, AI can actuall
 Mitchell H. Katz, MD, president and CEO of NYC Health + Hospitals, recently spoke during a panel discussion held by Crain’s New York Business.
 
 ⬆️ 44 • 💬 108 • 1d ago • [Radiology Business](https://radiologybusiness.com/topics/artificial-intelligence/ceo-americas-largest-public-hospital-system-says-hes-ready-replace-radiologists-ai)
+
+---
+
+**[I built a 516-panel financial terminal in 3 weeks using AI](https://news.ycombinator.com/item?id=47596654)**
+
+Professional-grade financial terminal with AI-powered news analysis and real-time market data.
+
+⬆️ 44 • 💬 41 • 1d ago • [neuberg.ai](https://neuberg.ai/)
 
 ---
 
@@ -285,7 +283,7 @@ RSVP for In Person Classes at -- https://www.SiliconDojo.com Support Content at 
 
 📺 Eli the Computer Guy
 
-👁️ 6K • 👍 385 • 💬 110 • ⏱️ 14:04 • 16h ago
+👁️ 6K • 👍 385 • 💬 110 • ⏱️ 14:04 • 17h ago
 
 ---
 
@@ -305,7 +303,7 @@ Access Seedance 2.0 on Higgsfield https://youricreates.com/Seedance-2 (business 
 
 📺 Youri van Hofwegen
 
-👁️ 8K • 💬 8 • ⏱️ 9:05 • 3h ago
+👁️ 8K • 💬 8 • ⏱️ 9:05 • 4h ago
 
 ---
 
@@ -315,7 +313,7 @@ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 
 
 📺 Two Minute Papers
 
-👁️ 99K • 👍 7K • 💬 759 • ⏱️ 8:34 • 22h ago
+👁️ 99K • 👍 7K • 💬 759 • ⏱️ 8:34 • 1d ago
 
 ---
 
@@ -355,7 +353,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 82K • 👍 3K • 💬 335 • ⏱️ 31:21 • 23h ago
+👁️ 82K • 👍 3K • 💬 335 • ⏱️ 31:21 • 1d ago
 
 ---
 
@@ -365,7 +363,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 62K • 👍 2K • 💬 266 • ⏱️ 22:12 • 1d ago
+👁️ 62K • 👍 2K • 💬 266 • ⏱️ 22:12 • 2d ago
 
 ---
 
@@ -403,7 +401,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 71,028 • ❤️ 714 • 16h ago
+⬇️ 71,028 • ❤️ 714 • 17h ago
 
 ---
 
@@ -415,7 +413,7 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 `text-to-speech`
 
-⬇️ 4,316 • ❤️ 619 • 1d ago
+⬇️ 4,316 • ❤️ 619 • 2d ago
 
 ---
 
@@ -427,7 +425,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 19,085 • ❤️ 806 • 6d ago
+⬇️ 19,085 • ❤️ 806 • 7d ago
 
 ---
 
@@ -497,7 +495,7 @@ LFM2.5-350M is a 350M parameter text generation model optimized for on-device de
 
 `text-generation` `354.5M`
 
-⬇️ 7,703 • ❤️ 189 • 17h ago
+⬇️ 7,703 • ❤️ 189 • 18h ago
 
 ---
 
@@ -601,7 +599,7 @@ The AI Scientist-v2 autonomously proposes hypotheses, performs experiments, anal
 
 Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
 
-▲ 138 • 💬 7 • ⭐ 16,437 • 7mo ago
+▲ 138 • 💬 7 • ⭐ 16,437 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
@@ -665,7 +663,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 11.2k • 🔱 963 • 1h ago
+⭐ 11.2k • 🔱 963 • 3h ago
 
 ---
 
@@ -695,7 +693,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.2k • 🔱 330 • 3m ago
+⭐ 6.2k • 🔱 330 • 1h ago
 
 ---
 
@@ -715,7 +713,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 4.0k • 🔱 1.3k • 2h ago
+⭐ 4.0k • 🔱 1.3k • 3h ago
 
 ---
 
@@ -725,7 +723,7 @@ AI Agent 源码深度研究报告
 
 `Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
 
-⭐ 3.5k • 🔱 588 • 23h ago
+⭐ 3.5k • 🔱 588 • 1d ago
 
 ---
 
