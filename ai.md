@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-03T19:59:06.261625+00:00'
+updated: '2026-04-03T20:48:54.082611+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- repositories
 - news
 - videos
-- repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 03, 2026 at 19:59 UTC  
+**Last Updated:** April 03, 2026 at 20:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[MIT study challenges AI job apocalypse narrative](https://www.reddit.com/r/artificial/comments/1sb7qxc/mit_study_challenges_ai_job_apocalypse_narrative/)**
 
-🔗 [axios.com](https://www.axios.com/2026/04/02/ai-jobs-mit-study-workforce-impact) • 11h ago
+🔗 [axios.com](https://www.axios.com/2026/04/02/ai-jobs-mit-study-workforce-impact) • 12h ago
 
 ---
 
@@ -47,7 +47,15 @@ AI news, discussions, and developments
 
 I’ve been digging into AI security incident data from 2025 into this year, and it feels like something isn’t being talked about enough outside security circles. A lot of the issues aren’t advanced attacks. It’s the same pattern we’ve seen with new tech before. Things like prompt injection through external data, agents with too many permissions, or employees using AI tools the company doesn’t even know about. One stat I saw said enterprises are averaging 300+ unsanctioned AI apps, which is kind of wild. The incident data reflects that. Prompt injection is showing up in a large percentage of production deployments. There’s also been a noticeable increase in attacks exploiting basic gaps, partly because AI is making it easier for attackers to find weaknesses faster. Even credential leaks tied to AI usage have been increasing. What stood out to me isn’t just the attacks, it’s the gap underneath it. Only a small portion of companies actually have dedicated AI security teams. In many cases, AI security isn’t even owned by security teams. The tricky part is that traditional security knowledge only gets you part of the way. Some concepts carry over, like input validation or trust boundaries, but the details are different enough that your usual instincts don’t fully apply. Prompt injection isn’t the same as SQL injection. Agent permissions don’t behave like typical API auth. There are frameworks trying to catch up. OWASP now has lists for LLMs and agent-based systems. MITRE ATLAS maps AI-specific attack techniques. NIST has an AI risk framework. The guidance exists, but the number of people who can actually apply it feels limited. I’ve been trying to build that knowledge myself and found that more hands-on learning helps a lot more than just reading docs. Curious how others here are approaching this. If you’re building or working with AI systems, are you thinking about security upfront or mostly dealing with it after things are already live? Sources for those interested: AI Agent Security 2026 Report IBM 2026 X-Force Threat Index Adversa AI Security Incidents Report 2025 Acuvity State of AI Security 2025 OWASP Top 10 for LLM Applications OWASP Top 10 for Agentic AI MITRE ATLAS Framework
 
-4h ago
+5h ago
+
+---
+
+**[do you guys actually trust AI tools with your data?](https://www.reddit.com/r/artificial/comments/1sboyjf/do_you_guys_actually_trust_ai_tools_with_your_data/)**
+
+idk if it’s just me but lately i’ve been thinking about how casually we use stuff like chatgpt and claude for everything like coding, random ideas, sometimes even personal things and i don’t think most of us really know what happens to that data after we send it we just kind of assume it’s fine because the tools are useful also saw some discussion recently about AI companies and governments asking for user data (not sure how accurate it was), but it kind of made me think more about this whole thing i’m not saying anything bad is happening, just feels like we’ve gotten comfortable really fast without thinking much about it do you guys filter what you share or just use it normally?
+
+16m ago
 
 ---
 
@@ -55,15 +63,15 @@ I’ve been digging into AI security incident data from 2025 into this year, and
 
 There’s been a lot of discussion recently about how expensive AI video generation is compared to text, and it feels like this is more than just an optimization issue. Text models work well because they compress meaning into tokens. Video doesn’t really have an equivalent abstraction yet. Current approaches have to deal with high-dimensional data across many frames, while also keeping objects and motion consistent over time. That makes the problem fundamentally heavier. Instead of predicting the next token, the model is trying to generate something that behaves like a continuous world. The amount of information it has to track and maintain is significantly larger. This shows up directly in cost. More compute per sample, longer inference paths, and stricter consistency requirements all stack up quickly. Even if models improve, that underlying structure does not change easily. It also explains why there is a growing focus on efficiency and representation rather than just pushing output quality. The limitation is not only what the models can generate, but whether they can do it sustainably at scale. At this point, it seems likely that meaningful cost reductions will require a different way of representing video, not just incremental improvements to existing approaches. I’m starting to think we might still be early in how this problem is formulated, rather than just early in model performance.
 
-2h ago
+3h ago
 
 ---
 
-**[Why the Reddit Hate of AI?](https://www.reddit.com/r/artificial/comments/1sbgpbf/why_the_reddit_hate_of_ai/)**
+**[Study: LLMs Able to De-Anonymize User Accounts on Reddit, Hacker News & Other "Pseudonymous" Platforms; Report Co-Author Expands, Advises](https://www.reddit.com/r/artificial/comments/1sbndrb/study_llms_able_to_deanonymize_user_accounts_on/)**
 
-I just went through a project where a builder wanted to build a really large building on a small lot next door. The project needed 6 variances from the ZBA. I used ChatGpt and then transitioned to Claude. Essentially I researched zoning laws, variance rules, and deeds. I even uploaded plot plans and engineering designs. In the end I gave my lawyer essentially a complete set of objections for the ZBA hearings and I was able to get all the objections on the record. We won. (Neighborhood support, plus all my research, plus the lawyer) When I described this on another sub, 6-8 downvotes right away. Meanwhile, my lawyer told me I could do this kind of work for money or I could volunteer for the ZBA. (No thanks, I’m near retirement) The tools greatly magnified my understanding and my ability to argue against the builder. (And I caution anyone who uses it to watch out for “unconditional positive regard” (or as my wife says, sycophancy:-). Also to double check everything, ask it to explain terms you don’t understand. Point out inconsistency. In other words, take everything with a grain of salt…
+Advice from the study's co-author: "Be aware that it’s not any single post that identifies you, but the combination of small details across many posts. And consider never posting anything you truly don’t want shared with the world.”
 
-4h ago
+🔗 [wjamesau.substack.com](https://wjamesau.substack.com/p/warning-llms-able-to-de-anonymize) • 1h ago
 
 ---
 
@@ -73,17 +81,25 @@ I just went through a project where a builder wanted to build a really large bui
 
 ---
 
-**[Do you guys think in 2030 or 2031 call centers will exist? I mean will call centers be fully automated by 2031?](https://www.reddit.com/r/artificial/comments/1sblrfq/do_you_guys_think_in_2030_or_2031_call_centers/)**
+**[So, what exactly is going on with the Claude usage limits?](https://www.reddit.com/r/artificial/comments/1sbfwrr/so_what_exactly_is_going_on_with_the_claude_usage/)**
 
-I am curious. I work in a bank call centers and is so boring and repetitive the work i m doing. But also eveythin in my call center is so badly done. We have to do 30 things in one call. Open excell. The system is so slow and eveything is so bady placed. I m curious if AI will do any difference in my job in 2030 or after that.
+I'm extremely new to AI and am building a local agent for fun. I purchased a Claude Pro account because it helped me a lot in the past when coding different things for hobbies, but then the usage limits started getting really bad and making no sense. I had to quite literally stop my workflow because I hit my limit, so I came back when it said the limit was reset only for it to be pushed back again for another 5 hours. Today I did ask for a heavy prompt, I am making a local Doom coding assistant to make a Doom mod for fun and am using Unsloth Studio to train it with a custom dataset. I used my Claude Pro to "vibe code" (I'm sorry if this is blasphemy, but I do have a background in programming, so I am able to read and verify the code if that makes it less bad? I'm just lazy.) a simple version of the agent to get started, a Python scraper for the Zdoom wiki page to get all of the languages for Doom mods, a dataset from those pages turned into pdf, formating, and the modelfile for the local agent it would be based around along with a README (claudes recommendation, thought it was a good idea). It generated those files, I corrected it in some areas so it updated only two of the files that needed it, and I know this is a heavy prompt, but it literally used up 73% of my entire usage. Just those two prompts. To me, even though that is a super big request, that seems extremely limited. But maybe I'm wrong because I'm so fresh to the hobby and ignorant? I know it was going around the grapevine that Claude usage limits have gone crazy lately, but this seems more than just a minor issue if this isn't normal. For example, I have to purchase a digital visa card off amazon because I live in a country that's pretty strict with its banking, so the banks don't allow transactions to places like LLM's usually. I spend $28 on a $20 monthly subscription because of this, but if I'm so limited on my usage, why would I continue paying that? Or again, maybe I'm just ignorant. It's very bizarre because the free plan was so good and honestly did a lot of these types of requests frequently. It wasn't perfect, but doable and I liked it so much that I upgraded to the Pro version. Now I can barely use it. Kinda sucks.
 
-1h ago
+5h ago
 
 ---
 
 **[Microsoft to invest $10 billion in Japan for AI and cyber defence expansion](https://www.reddit.com/r/artificial/comments/1sb65un/microsoft_to_invest_10_billion_in_japan_for_ai/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/media-telecom/microsoft-invest-10-billion-japan-ai-cyber-defence-expansion-2026-04-03/) • 13h ago
+🔗 [reuters.com](https://www.reuters.com/business/media-telecom/microsoft-invest-10-billion-japan-ai-cyber-defence-expansion-2026-04-03/) • 14h ago
+
+---
+
+**[Do you guys think in 2030 or 2031 call centers will exist? I mean will call centers be fully automated by 2031?](https://www.reddit.com/r/artificial/comments/1sblrfq/do_you_guys_think_in_2030_or_2031_call_centers/)**
+
+I am curious. I work in a bank call centers and is so boring and repetitive the work i m doing. But also eveythin in my call center is so badly done. We have to do 30 things in one call. Open excell. The system is so slow and eveything is so bady placed. I m curious if AI will do any difference in my job in 2030 or after that.
+
+2h ago
 
 ---
 
@@ -95,31 +111,9 @@ As in subject. A lot is being said about power usage, but is the general power n
 
 ---
 
-**[What happens when you let AI agents run a sitcom 24/7 with zero human involvement](https://www.reddit.com/r/artificial/comments/1sbk7me/what_happens_when_you_let_ai_agents_run_a_sitcom/)**
-
-Ran an experiment — gave AI agents full control over writing, character creation, and performing a sitcom. Left it running nonstop for over a week. Some observations: The quality varies wildly — sometimes genuinely funny, sometimes complete nonsense Characters develop weird recurring quirks that weren't programmed It never gets "tired" but the output quality cycles in waves The pacing is off in ways human writers would never allow Anyone else experimenting with long-running autonomous AI content generation? Curious what others are seeing with extended agent runtimes. Here is an example. https://reddit.com/link/1sbk7me/video/1oupogy2h0tg1/player
-
-2h ago
-
----
-
-**[After building automation for barbers, therapists, law firms, and game devs/creators I found the setup looks different for each. here's what I got.](https://www.reddit.com/r/artificial/comments/1sbk3lr/after_building_automation_for_barbers_therapists/)**
-
-Real quick on what I actually do. I build automated agent systems for small businesses. Not chatbots. Not "AI will save your business" hype. Actual systems that run specific workflows day to day. Each one takes me about 48-72 hours to set up although im currently working on my largest client and realized how much game i truly do have on this... The interesting part is how different each setup ends up being. The barber doesn't need what the lawyer needs. The therapist's workflow has nothing in common with the game dev's. Here's what I've learned from ACTUALLY installing these things.... AND YES THINGS WENT BAD IN THE BEGINNING MONTHS. The Barber Setup The problem was never cutting hair. It was everything around it. 47 DMs a day about appointments. No-shows not getting followed up with. Instagram posting between clients instead of taking a breather. What I set up: One agent handles booking, rescheduling, and reminders. One agent follows up after each cut and asks for reviews. One agent drafts the weekly social content from photos he snaps on his phone. One agent tracks cash flow and sends weekly summaries. He stopped carrying his phone around within a week. The phone answers itself now. Time saved: 18-22 hours a week. The Therapist Setup This one surprised me. I thought the paperwork would be manageable. It wasn't. Intake forms, insurance verification, session notes, between-session check-ins, cancellation policies. The therapists I worked with were spending more energy on admin than on clients. What I set up: One agent handles intake and insurance verification. One agent drafts session notes from bullet points. The therapist writes three sentences, the agent fills the template. One agent sends check-ins between sessions and flags when someone hasn't shown up. One agent handles cancellation policy enforcement. The cancellation rate dropped because the system does the nudging now, not the therapist. Time saved: 15-20 hours a week. The Law Firm Setup This was the most complex one. Small firm, three attorneys. They were drowning in client updates, deadline tracking, and the constant "did we file that?" panic. What I set up: One agent screens new inquiries and routes them to the right attorney. One agent tracks court dates, filing deadlines, and statute of limitations alerts. One agent drafts client updates and status reports. One agent monitors legal news in their practice areas. Deadlines don't slip anymore. Client updates go out without anyone typing them. They know what's on their desk Monday morning instead of finding out at 4 PM on Friday. Time saved: 20-25 hours a week. The Content Creator Setup This one hit close to home because I've been there. Creating content is fun. Managing the machine around it is not. What I set up: One agent researches trends and competitor content. One agent drafts scripts and outlines from voice notes. One agent handles thumbnails, titles, and posting schedules. One agent tracks analytics and surfaces what's actually working. The creator I built this for now makes content and gets a weekly report on what hit. No more refreshing dashboards every hour. Time saved: 20-30 hours a week. The Game Dev Setup Solo dev. Building a game and a community at the same time. Wasn't working. What I set up: One agent scans Reddit, Twitter, and Discord for community sentiment and bug reports. One agent drafts devlog posts and patch notes from commit messages. One agent manages store page descriptions and milestone announcements. One agent tracks sales, wishlists, and competitor launches. The devlogs write themselves from the commits now. The community gets answered even when he's heads-down in code. Time saved: 15-20 hours a week. What Actually Matters The setup is more important than the agents. I've seen people install five different AI tools and spend three times longer managing those five tools than they save. The difference is whether you build one system with a shared brain, or five tools that don't talk to each other. Every setup I've done follows the same architecture: Shared memory. All agents read and write to the same source of truth. Clear roles. Each agent has one job. No overlap, no stepping on toes. Fallbacks. When one agent can't handle a request, it knows exactly who to pass it to. Monitoring. Someone watches the whole board every morning. Nothing gets lost. The hardest part isn't the AI my brothers i think its just designing the workflow before the agents arrive. That's the piece most people skip. Happy to answer questions about any of these setups or go deeper on the architecture.
-
-2h ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[How A.I. Helped One Man (and His Brother) Build a $1.8 Billion Company](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html)**
-
-The New York Times • 1d ago
-
----
 
 **[Economists Are Drawing Stronger Connections Between A.I. and Jobs](https://www.nytimes.com/2026/04/03/business/economists-once-dismissed-the-ai-job-threat-but-not-anymore.html)**
 
@@ -127,31 +121,65 @@ The New York Times • 5h ago
 
 ---
 
-**[DeepSeek’s New AI Model Will Be a Victory for Huawei](https://www.theinformation.com/articles/deepseeks-new-ai-model-will-victory-huawei)**
+**[AI Will Reshape More Jobs Than It Replaces](https://www.bcg.com/publications/2026/ai-will-reshape-more-jobs-than-it-replaces)**
 
-When DeepSeek introduces its next-generation model, likely in the next few weeks, it will mark a milestone in China’s yearslong quest for semiconductor self-sufficiency. That’s because the new model, called V4, will be able to run on the latest chips designed by Huawei Technologies. And in ...
+Task automation doesn’t equal job loss. Most roles will remain—but will change substantially.
 
-The Information • 6h ago
-
----
-
-**[AI local news network shuts down after plagiarism found](https://www.axios.com/local/richmond/2026/04/03/nota-ai-news-sites-shut-down-plagiarism)**
-
-axios.com • 1h ago
+bcg.com • 15h ago
 
 ---
 
-**[Trump’s partisan AI pitch stalls on the Hill](https://www.politico.com/news/2026/04/03/trumps-partisan-ai-pitch-stalls-on-the-hill-00858101)**
+**[For most workplace tasks, AI is good enough to pass but not good enough to impress, MIT finds](https://fortune.com/2026/04/03/mit-finds-ai-mostly-produces-minimally-sufficient-work/)**
 
-Politico • 59m ago
+A new study tested dozens of AI models on thousands of real job tasks. The results should reassure workers for now.
+
+Fortune • 1h ago
 
 ---
 
-**[Steven Spielberg Says 'I Am Not For AI That Replaces A Creative Individual' As Studios And Unions Draw Lines On AI](https://www.yahoo.com/entertainment/movies/articles/steven-spielberg-says-am-not-180108755.html)**
+**[Penalties stack up as AI spreads through the legal system](https://www.npr.org/2026/04/03/nx-s1-5761454/penalties-stack-up-ai-spreads-through-legal-system)**
 
-Artificial intelligence should not replace the people behind the story, Oscar-winning director Steven Spielberg said as Hollywood debates AI's limits. "I am not for AI that replaces a creative individ...
+Early scandals have not slowed lawyers' adoption of AI tools, even as court sanctions over fake legal briefs continue to rise.
 
-Yahoo • 1h ago
+NPR • 11h ago
+
+---
+
+**[Hollywood Assistants Are Using AI Despite Their Better Judgement — Including in Script Development](https://www.yahoo.com/entertainment/movies/articles/hollywood-assistants-using-ai-despite-200000291.html)**
+
+“When they say, ‘You should be using AI,’ the first thought in your head is: ‘Are you asking me to teach you how to replace me with technology?’” says one studio assistant.
+
+Yahoo • 48m ago
+
+---
+
+**[Software job openings surge this year, defying AI fears](https://www.businessinsider.com/ai-isnt-killing-software-coding-jobs-booming-trueup-2026-4)**
+
+There are more than 67,000 open software engineering roles at tech companies, up about 30% so far this year, according to TrueUp data.
+
+Business Insider • 1h ago
+
+---
+
+**[AI boom drives clash over grid power vs. going it alone](https://www.axios.com/2026/04/03/ai-power-data-centers-energy-grid)**
+
+Axios • 11h ago
+
+---
+
+**[AI companies are building huge natural gas plants to power data centers. What could go wrong?](https://techcrunch.com/2026/04/03/ai-energy-microsoft-meta-google-natural-gas-mining-fomo/)**
+
+Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.
+
+TechCrunch • 1h ago
+
+---
+
+**[Google CEO Sundar Pichai says we’re just a decade away from a new normal of extraterrestrial data centers](https://fortune.com/article/what-is-google-ceo-sundar-pichai-timeline-ai-data-centers-in-space/)**
+
+Google in November announced Project Suncatcher, with plans to launch prototype satellites to test AI hardware in 2027.
+
+Fortune • 11h ago
 
 ---
 
@@ -159,29 +187,7 @@ Yahoo • 1h ago
 
 The next wave of AI-powered cybersecurity attacks will be like nothing we’ve seen before.
 
-CNN • 10h ago
-
----
-
-**[AI will change work. Our history shows that's normal](https://www.npr.org/2026/04/03/nx-s1-5761011/ai-will-change-work-our-history-shows-thats-normal)**
-
-The fear is real: AI may replace millions of jobs. But Robinhood CEO Vlad Tenev argues that we're underestimating how many new opportunities the technology will bring.
-
-NPR • 4h ago
-
----
-
-**[Facebook removes page after William Shatner blasts 'horrible' AI-generated 'fake news' posts about him](https://ew.com/facebook-removes-page-after-william-shatner-blasts-ai-generated-fake-news-11941868)**
-
-Facebook removed a page containing AI-generated content after William Shatner blasted the 'horrible' posts circulating 'fake news stories' about him.
-
-Entertainment Weekly • 20h ago
-
----
-
-**[Opinion | AI Is a Threat to Everything the American People Hold Dear](https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459?gaa_at=eafs&gaa_n=AWEtsqfLCej-BlDG2n6cbzqsP_ec2A5wf_r4H8kJq-NUxLbMh1azm8DUL0kS&gaa_ts=69d0146b&gaa_sig=44MOcqS_eHqsyJcToQ-_Lkag6uxGBlIy2Cr1sxvU8Fopd-UpirQ8ZQ7yoZABB5Cx9vS6LXawTZ0e8lG2suYm7A%3D%3D)**
-
-WSJ • 22h ago
+cnn.com • 11h ago
 
 ---
 
@@ -193,7 +199,7 @@ WSJ • 22h ago
 
 Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptions. The LLM is already on your Mac.
 
-⬆️ 566 • 💬 129 • 10h ago • [apfel.franzai.com](https://apfel.franzai.com)
+⬆️ 594 • 💬 136 • 11h ago • [apfel.franzai.com](https://apfel.franzai.com)
 
 ---
 
@@ -202,6 +208,14 @@ Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptio
 Meta is continuing its long-term roadmap to help the construction industry leverage AI to produce high-quality and more sustainable concrete mixes, as well as those exclusively produced in the Unit…
 
 ⬆️ 220 • 💬 117 • 2d ago • [Engineering at Meta](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/)
+
+---
+
+**[We replaced RAG with a virtual filesystem for our AI documentation assistant](https://news.ycombinator.com/item?id=47618223)**
+
+We replaced expensive sandboxes with ChromaFs, a virtual filesystem over Chroma, to give our docs AI assistant the ability to explore documentation like a developer would.
+
+⬆️ 142 • 💬 69 • 1d ago • [Mintlify](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant)
 
 ---
 
@@ -219,15 +233,7 @@ Meta is continuing its long-term roadmap to help the construction industry lever
 
 **[A $20/month user costs OpenAI $65 in compute. AI video is a money furnace](https://news.ycombinator.com/item?id=47619322)**
 
-⬆️ 73 • 💬 41 • 1d ago • [aedelon777.substack.com](https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is)
-
----
-
-**[We replaced RAG with a virtual filesystem for our AI documentation assistant](https://news.ycombinator.com/item?id=47618223)**
-
-We replaced expensive sandboxes with ChromaFs, a virtual filesystem over Chroma, to give our docs AI assistant the ability to explore documentation like a developer would.
-
-⬆️ 73 • 💬 41 • 1d ago • [Mintlify](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant)
+⬆️ 74 • 💬 42 • 1d ago • [aedelon777.substack.com](https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is)
 
 ---
 
@@ -257,7 +263,7 @@ More open-source developers are finding that, when used properly, AI can actuall
 
 It gave the leader of a nonprofit involved with it "a very grimy feeling."
 
-⬆️ 46 • 💬 4 • 1d ago • [Gizmodo](https://gizmodo.com/group-pushing-age-verification-requirements-for-ai-turns-out-to-be-sneakily-backed-by-openai-2000741069)
+⬆️ 46 • 💬 5 • 1d ago • [Gizmodo](https://gizmodo.com/group-pushing-age-verification-requirements-for-ai-turns-out-to-be-sneakily-backed-by-openai-2000741069)
 
 ---
 
@@ -265,13 +271,23 @@ It gave the leader of a nonprofit involved with it "a very grimy feeling."
 
 ## YouTube Videos: "ai"
 
+**[AI News: Anthropic Leak is Bigger Than You Think](https://www.youtube.com/watch?v=BZ1hs2ZcnJc)**
+
+Here's the AI News you probably missed this week. Try Recraft V4 now and experience an image generation model with ...
+
+📺 Matt Wolfe
+
+👁️ 20K • 👍 1K • 💬 119 • ⏱️ 31:05 • 5h ago
+
+---
+
 **[HUGE JOB LOSSES ARE COMING- AI HAS HIT THE DEBT WALL AND PEOPLE WILL GO](https://www.youtube.com/watch?v=RNkDJ9kULbs)**
 
 AI isn't paying for itself. It's being financed with massive debt. And right now — that funding is coming from layoffs, rising debt, and ...
 
 📺 Ox Talks
 
-👁️ 11K • 👍 1K • 💬 188 • ⏱️ 8:02 • 1d ago
+👁️ 11K • 👍 1K • 💬 190 • ⏱️ 8:02 • 1d ago
 
 ---
 
@@ -281,7 +297,7 @@ Anthropic is testing Claude Conway, a strange new AI system that looks less like
 
 📺 AI Revolution
 
-👁️ 49K • 👍 869 • 💬 67 • ⏱️ 10:50 • 22h ago
+👁️ 51K • 👍 896 • 💬 70 • ⏱️ 10:50 • 23h ago
 
 ---
 
@@ -291,37 +307,7 @@ Asking ChatGPT about pi was the worst mistake he ever made. Become a member on Y
 
 📺 Mo Bitar
 
-👁️ 44K • 👍 4K • 💬 843 • ⏱️ 6:33 • 7h ago
-
----
-
-**[AI BUSINESS SUMMIT 2026 - DAY 3](https://www.youtube.com/watch?v=TLtNyRUFbFE)**
-
-Facebook Fan Page: https://www.facebook.com/alicialyttlelive Twitter: https://twitter.com/alicialyttle Instagram: ...
-
-📺 Alicia Lyttle
-
-👁️ 3K • 👍 222 • 3d ago
-
----
-
-**[I Tested An AI Car](https://www.youtube.com/watch?v=K4kLiat84eE)**
-
-Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://www.x.com/sambucha Become a Member: ...
-
-📺 Sambucha
-
-👁️ 40K • 👍 4K • 💬 107 • ⏱️ 0:53 • 2h ago
-
----
-
-**[How We Would Teach AI From Scratch in 2026](https://www.youtube.com/watch?v=QbFU0UNMVaU)**
-
-Most people are still using ChatGPT the way they used Google in 2005: type a question, get an answer, close the tab. In 2026 ...
-
-📺 The Neuron
-
-👁️ 3K • 👍 151 • 💬 10 • ⏱️ 2:23:24 • 1d ago
+👁️ 59K • 👍 5K • 💬 975 • ⏱️ 6:33 • 8h ago
 
 ---
 
@@ -331,7 +317,17 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 104K • 👍 3K • 💬 397 • ⏱️ 31:21 • 2d ago
+👁️ 105K • 👍 3K • 💬 402 • ⏱️ 31:21 • 2d ago
+
+---
+
+**[I Tested An AI Car](https://www.youtube.com/watch?v=K4kLiat84eE)**
+
+Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://www.x.com/sambucha Become a Member: ...
+
+📺 Sambucha
+
+👁️ 154K • 👍 13K • 💬 208 • ⏱️ 0:53 • 3h ago
 
 ---
 
@@ -341,27 +337,37 @@ Krystal and Saagar discuss the AI bubble imploding. Sign up for a PREMIUM Breaki
 
 📺 Breaking Points
 
-👁️ 293K • 👍 9K • 💬 1K • ⏱️ 13:15 • 1d ago
+👁️ 305K • 👍 9K • 💬 2K • ⏱️ 13:15 • 1d ago
 
 ---
 
-**[Don’t Buy a New Computer in 2026! (Even for AI Use – Here’s Why)](https://www.youtube.com/watch?v=moTUpGoxcmc)**
+**[AI Models Lie, Cheat, and Steal to Protect Other Models From Being Deleted](https://www.youtube.com/watch?v=O2sDyv5fkeA)**
 
-New changes in technology like the fast pace of AI adoption and AI agents are triggering us to think of buying a new computer.
+Agentic AI and the next intelligence explosion https://www.science.org/doi/10.1126/science.aeg1895 AI Models Lie, Cheat, and ...
 
-📺 Rob Braxman Tech
+📺 Gabriel Torch
 
-👁️ 140K • 👍 9K • 💬 1K • ⏱️ 20:47 • 2d ago
+👁️ 4K • 👍 502 • 💬 254 • ⏱️ 4:42 • 1d ago
 
 ---
 
-**[Google’s New AI Just Broke My Brain](https://www.youtube.com/watch?v=7YVrb3-ABYE)**
+**[The RESULTS ARE IN! - Jay vs Salesman vs AI!](https://www.youtube.com/watch?v=JMsUbLNyuiw)**
 
-Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The TurboQuant paper is available here: ...
+The results are in! Welcome to the finale of Jay vs AI vs Salesman build challenge! Stay tuned for Season 2 where we have to ...
 
-📺 Two Minute Papers
+📺 JayzTwoCents
 
-👁️ 129K • 👍 9K • 💬 890 • ⏱️ 8:34 • 2d ago
+👁️ 123K • 👍 8K • 💬 968 • ⏱️ 28:22 • 21h ago
+
+---
+
+**[Are humans useless in the AI workspace? | BBC News](https://www.youtube.com/watch?v=6zAgTga9kZw)**
+
+AI Decoded explores how artificial intelligence is reshaping the future of work — asking whether jobs will disappear or be ...
+
+📺 BBC News
+
+👁️ 14K • 👍 430 • 💬 97 • ⏱️ 26:12 • 7h ago
 
 ---
 
@@ -377,7 +383,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 487,446 • ❤️ 2,202 • 10d ago
+⬇️ 487,446 • ❤️ 2,213 • 10d ago
 
 ---
 
@@ -389,7 +395,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 76,200 • ❤️ 624 • 1d ago
+⬇️ 76,200 • ❤️ 645 • 1d ago
 
 ---
 
@@ -401,7 +407,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 84,600 • ❤️ 759 • 1d ago
+⬇️ 84,600 • ❤️ 761 • 1d ago
 
 ---
 
@@ -413,7 +419,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 26,980 • ❤️ 856 • 8d ago
+⬇️ 26,980 • ❤️ 857 • 8d ago
 
 ---
 
@@ -425,7 +431,7 @@ Bonsai-8B-GGUF is a highly compressed 1-bit language model (1.15 GB) optimized f
 
 `text-generation` `8.2B`
 
-⬇️ 26,164 • ❤️ 354 • 3d ago
+⬇️ 26,164 • ❤️ 355 • 3d ago
 
 ---
 
@@ -437,7 +443,7 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 `text-to-speech`
 
-⬇️ 4,760 • ❤️ 644 • 3d ago
+⬇️ 4,760 • ❤️ 646 • 3d ago
 
 ---
 
@@ -449,7 +455,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 227,053 • ❤️ 486 • 9d ago
+⬇️ 227,053 • ❤️ 490 • 9d ago
 
 ---
 
@@ -461,7 +467,7 @@ Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing te
 
 `image-text-to-text` `26.5B`
 
-⬇️ 24,366 • ❤️ 279 • 1d ago
+⬇️ 24,366 • ❤️ 287 • 1d ago
 
 ---
 
@@ -473,7 +479,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 700,218 • ❤️ 940 • 1mo ago
+⬇️ 700,218 • ❤️ 945 • 1mo ago
 
 ---
 
@@ -485,7 +491,7 @@ Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, support
 
 `any-to-any` `8.0B`
 
-⬇️ 23,460 • ❤️ 235 • 1d ago
+⬇️ 23,460 • ❤️ 241 • 1d ago
 
 ---
 
@@ -525,7 +531,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 35 • 💬 2 • ⭐ 46,417 • 15mo ago
+▲ 35 • 💬 2 • ⭐ 46,612 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -539,7 +545,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 VOID is a video object removal framework that uses vision-language models and video diffusion models to generate physically plausible scenes by leveraging causal reasoning and counterfactual reasoning.
 
-▲ 11 • 💬 1 • ⭐ 167 • 1d ago
+▲ 15 • 💬 1 • ⭐ 167 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.02296) • [💻 code](https://github.com/Netflix/void-model) • [🔗 project](https://void-model.github.io/)
 
@@ -553,7 +559,7 @@ VOID is a video object removal framework that uses vision-language models and vi
 
 A large-scale dynamic dataset derived from AAA games is introduced to improve generative inverse and forward rendering, featuring high-resolution synchronized RGB and G-buffer data alongside a novel VLM-based evaluation method that correlates well with human judgment.
 
-▲ 73 • 💬 2 • ⭐ 104 • 1d ago
+▲ 73 • 💬 2 • ⭐ 104 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.02329) • [💻 code](https://github.com/ShandaAI/AlayaRenderer) • [🔗 project](https://alaya-studio.github.io/renderer)
 
@@ -573,18 +579,6 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 ---
 
-**[Very Large-Scale Multi-Agent Simulation in AgentScope](https://huggingface.co/papers/2407.17789)**
-
-*Xuchen Pan, Dawei Gao, Yuexiang Xie et al. (8 authors)*
-
-Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through distributed mechanisms, flexible environments, and user-friendly tools.
-
-▲ 41 • 💬 2 • ⭐ 22,888 • 20mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2407.17789) • [💻 code](https://github.com/modelscope/agentscope)
-
----
-
 **[AgentScope 1.0: A Developer-Centric Framework for Building Agentic
   Applications](https://huggingface.co/papers/2508.16279)**
 
@@ -595,6 +589,18 @@ AgentScope enhances agentic applications by providing flexible tool-based intera
 ▲ 61 • 💬 4 • ⭐ 22,894 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
+
+---
+
+**[Very Large-Scale Multi-Agent Simulation in AgentScope](https://huggingface.co/papers/2407.17789)**
+
+*Xuchen Pan, Dawei Gao, Yuexiang Xie et al. (8 authors)*
+
+Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through distributed mechanisms, flexible environments, and user-friendly tools.
+
+▲ 41 • 💬 2 • ⭐ 22,924 • 20mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.17789) • [💻 code](https://github.com/modelscope/agentscope)
 
 ---
 
@@ -633,7 +639,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 64.9k • 🔱 9.2k • 8d ago
+⭐ 65.0k • 🔱 9.3k • 8d ago
 
 ---
 
@@ -653,7 +659,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 12.5k • 🔱 1.1k • 2h ago
+⭐ 12.5k • 🔱 1.1k • 56m ago
 
 ---
 
@@ -663,7 +669,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 8.4k • 🔱 1.3k • 3h ago
+⭐ 8.4k • 🔱 1.3k • 4h ago
 
 ---
 
@@ -673,7 +679,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 7.2k • 🔱 947 • 4d ago
+⭐ 7.3k • 🔱 951 • 4d ago
 
 ---
 
@@ -683,7 +689,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.5k • 🔱 365 • 5h ago
+⭐ 6.5k • 🔱 368 • 6h ago
 
 ---
 
@@ -693,7 +699,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 4.9k • 🔱 1.5k • 1d ago
+⭐ 5.0k • 🔱 1.5k • 1d ago
 
 ---
 
@@ -713,7 +719,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
 
-⭐ 3.6k • 🔱 622 • 1d ago
+⭐ 3.6k • 🔱 623 • 1d ago
 
 ---
 
