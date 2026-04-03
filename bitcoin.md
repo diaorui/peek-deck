@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-03T02:29:02.893585+00:00'
+updated: '2026-04-03T04:55:01.475381+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 03, 2026 at 02:29 UTC  
+**Last Updated:** April 03, 2026 at 04:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,707.53
+### $66,578.84
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +0.2%  
-**30d:** -6.1%  
-**90d:** -27.3%  
-**1y:** -20.7%  
+**24h:** +0.0%  
+**7d:** +0.4%  
+**30d:** -6.0%  
+**90d:** -27.2%  
+**1y:** -20.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1333.45B
+**Market Cap:** $1332.71B
 Rank #1
 
 **Circulating Supply:** 20,010,740 BTC
@@ -64,7 +64,7 @@ Rank #1
 -47.2%
 
 **All-Time Low:** $67.81
-+98108.2%
++98083.2%
 
 ---
 
@@ -81,13 +81,21 @@ Rank #1
 
 Been putting $180 into bitcoin through coinbase every week on fridays for a while now. As someone who's still learning about all this crypto stuff but wants to get involved somehow, does this approach make sense? I know I'm not smart enough to figure out when to buy the dips or whatever, so I just stick to the same amount each week instead of trying to time anything. Anyone else doing something similar? Just wondering if I'm on the right track here.
 
-1h ago
+3h ago
+
+---
+
+**[How to Buy a $2.5 Million Retirement Portfolio for $335,000](https://www.reddit.com/r/Bitcoin/comments/1sb3sks/how_to_buy_a_25_million_retirement_portfolio_for/)**
+
+Watching the price drop from $126K in October to the low $60s in February was both educational and frustrating. So I turned that energy into a research sprint: I built the Bitcoin Power Law Observatory, published 13 research papers, and created a suite of retirement planning tools. The result? I think I found Bitcoin's version of the 4% rule. And the math is almost absurd. The logic chain People need to save for the future. The best savings technology is the hardest money. Bitcoin is the hardest money ever created. Therefore people will save in bitcoin. Not everyone knows this yet. Old habits die hard. The power law (Santostasi, expanded by Krueger and Sigman in "Bitcoin One Million") is the best model for how this adoption unfolds. The core relationship: every time bitcoin ages 1.5x, the price goes roughly 10x. Not hype cycles. Compounding network adoption following the same laws we see in city growth, earthquake magnitude, and species evolution. The floor is the breakthrough The power law model shows a trend line with a corridor of possibilities around it. The ceiling is compressing: early cycles hit 10x trend, recent ones barely 2x. But the floor has never been breached. Since 2010, the lower boundary at about 0.43x the trend value has held through every crash, every panic, every obituary. It held when bitcoin crashed from 10x the trend. From 5x. From 3x. With upside volatility structurally compressing, the floor only gets stronger coming down from 2x or less. What does this floor look like in dollar terms? March 2026: $56,400. March 2027: $77,700. March 2028: $105,300. March 2029: $140,500. March 2030: $184,800. The floor value of 1 bitcoin will grow more than $21,000 over the next 12 months. And that dollar growth accelerates every year. That floor growth is your yield. Not interest. Not dividends. Structural adoption growth baked into the math. And it changes everything about retirement planning. The Bitcoin 4% rule The traditional 4% rule says you can withdraw 4% from an S&P portfolio annually without running out. The 4% buffer exists to handle sequence of returns risk: bad early years can permanently damage a retirement. Bitcoin needs a different system. Higher returns but far more volatility. A decelerating growth rate that demands dynamic withdrawals, not fixed percentages. So I based my framework on floor growth alone: If your stack x floor growth > your yearly expenses = financial freedom. This is the most conservative number the model produces. Bitcoin spends only a tiny fraction of its time near the floor. Everything above it is pure upside cushion. The math The floor currently grows at roughly 39% per year (this rate slowly decelerates over decades). At today's price of about $67,000, 5 BTC costs $335,000. Annual floor growth on 5 BTC: approximately $110,000. Under the traditional 4% rule, $100,000/year requires a $2,500,000 S&P portfolio. Same spending power. $335,000 versus $2,500,000. Over 7x more capital efficient. Using the worst case path the power law produces. Three tailwinds Once you cross the floor freedom line, three forces compound in your favor. Volatility decays: the price corridor compresses roughly 20% each halving cycle, so the "storm years" at the start of retirement expire. The floor keeps rising: your safety net grows every day. And your BTC-denominated expenses shrink: you need fewer sats each year to cover the same dollar amount. The risk is front-loaded and finite. I built a Monte Carlo simulator with 100,000 simulations based on 15 years of historical volatility data. The result: the floor-based approach survives the storm years and the margin of safety widens every year you hold. With 20 BTC, survival is 100% across all simulations at $3,000/month withdrawals. Even at 10 BTC, it is 72%. The three tailwinds working together make this more robust than the traditional 4% rule, which has a roughly 95% historical success rate over 30 years. The honest caveats The power law could break. 15 years is not 150 years. The floor growth rate decelerates over time. Black swan events outside model bounds are possible. This framework only works if the power law holds. Nothing is ever 100%. But consider this: bitcoin is currently trading at 1.19x the floor. Just 19% above the worst case. Historically that is an extremely cheap entry. Most of the time bitcoin sits at 2-3x the floor. The premium you pay today is recovered through less than one year of floor growth. Bottom line If you can buy 5 BTC today, you are building the functional equivalent of a $2.5 million traditional retirement portfolio. At a fraction of the cost. Backed not by a fixed percentage rule, but by the structural growth of the most robust boundary in the most predictive model in finance. And right now, bitcoin is trading at just 19% above that floor. The setup is almost too clean. The tools to verify all of this yourself are free. btcpowerlaw.nl for the research. satsplanner.app for the retirement calculator. What would you do with a $2.5 million portfolio?
+
+21m ago
 
 ---
 
 **[So many DCA strategies in the sub recently. Here's mine](https://www.reddit.com/r/Bitcoin/comments/1sah1xz/so_many_dca_strategies_in_the_sub_recently_heres/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -95,55 +103,7 @@ Been putting $180 into bitcoin through coinbase every week on fridays for a whil
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/yFE2FV9ia1s) • 15h ago
-
----
-
-**[When did Bitcoin stop feeling like a trade, and start feeling like your savings?](https://www.reddit.com/r/Bitcoin/comments/1sahgyi/when_did_bitcoin_stop_feeling_like_a_trade_and/)**
-
-For me, the big shift was when I stopped looking at Bitcoin like a quick move and started looking at it like long term savings. At first I was checking price way too much, every dip felt bad and every pump made me think I was smart lol. But after some time, learning more, moving my stack off exchange, and just sitting with it, the whole thing started to feel different. Now I care less about the next week, and more about where this goes in the next 5 to 10 years. Not saying I never feel nervous, because I do sometimes, but my mindset is way more calm than before. Curious how it happened for others here. What was the moment where Bitcoin “clicked” for you? Was it inflation? Banks? Self custody? A bad experience with selling too early? Or are you still in the phase where it mostly feels like a trade?
-
-12h ago
-
----
-
-**[Started buying at 128k now sitting at 93k average](https://www.reddit.com/r/Bitcoin/comments/1sa6krz/started_buying_at_128k_now_sitting_at_93k_average/)**
-
-Who else is pumped right now! Part of me wants another big dip so I can keep adding to my stack with DCA and grab even more sats Real talk tho - if youre in this for the long haul like 10+ years why does anyone get upset when the price drops? Makes no sense to me if you actually believe in where this is headed
-
-22h ago
-
----
-
-**[Buying BTC in Canada](https://www.reddit.com/r/Bitcoin/comments/1saljyf/buying_btc_in_canada/)**
-
-Hello, can you recommend a platform for me to buy bitcoins? Thank you.
-
-10h ago
-
----
-
-**[COLDCARD Spending Policy](https://www.reddit.com/r/Bitcoin/comments/1sak438/coldcard_spending_policy/)**
-
-I was playing around with COLDCARD's spending policy and its pretty awesome. You can add rules like spend limits, velocity controls, address whitelists, and even 2FA. Seems like a solid way to add some extra security without making things too complex. Anyone else played around with spending limits on their COLDCARD?
-
-11h ago
-
----
-
-**[Dump as an Opportunity](https://www.reddit.com/r/Bitcoin/comments/1sa7odp/dump_as_an_opportunity/)**
-
-A friend of mine has been buying Bitcoin since 2023, $50 every day. From the time the price is below $70k, he is buying double ($100 each day). He believes that one day BTC will go to $1M+, and then he'll decide whether to sell or keep holding.
-
-21h ago
-
----
-
-**[Bitcoin Policy Institute says Taiwan Should Reconsider Bitcoin Reserves](https://www.reddit.com/r/Bitcoin/comments/1saamrz/bitcoin_policy_institute_says_taiwan_should/)**
-
-Taiwanese lawmaker Ko Ju-Chun said last year that the country’s Ministry of Justice holds 210 Bitcoins, worth $14 million, confiscated during criminal investigations. Taiwan should reconsider adopting Bitcoin as a reserve asset to hedge against global turmoil and the risk of war, according to a research fellow at the Bitcoin Policy Institute. In a report on Tuesday, Jacob Langenkamp said that should China pursue reunification with Taiwan by military force, either through a blockade or full invasion, Bitcoin would be the only reserve asset that would remain fully accessible and spendable. “Uniquely for Taiwan, Bitcoin provides geopolitical resilience: in a PRC blockade or invasion, gold is stranded or seized and USD reserves face potential restrictions, but Bitcoin remains fully accessible without physical transport,” he added. Nation-states have begun to explore the idea of launching strategic Bitcoin reserves, seen as a bullish signal for Bitcoin. Last year, Taiwan’s central bank sought to investigate establishing a national Bitcoin reserve. However, the bank ruled it out in December, citing volatility, liquidity and custody concerns and instead identified the US dollar as a safer alternative. Taiwan is heavily exposed to the risks of US dollar debasement, Langenkamp said, because its central bank reserves are at least 80% in USD-denominated assets, as is most of its trade. Growing US debt, Federal Reserve monetary expansion, a potential AI market downturn and declining semiconductor revenues could also accelerate dollar debasement, he said. “Bitcoin can couple with gold to offer that hedge against USD debasement. It can provide another opportunity for the CBC to adopt a reserve asset before its peers and benefit the people of Taiwan with the subsequent price appreciation,” Langenkamp added. “It can offer geopolitical insurance against scenarios that hopefully do not come to pass. It can open new methods of trade with less friction. Bitcoin can provide Taiwan with a great measure of monetary resilience.” Langenkamp also argued that the CBC's concerns about Bitcoin's liquidity and volatility are valid, but contended that both issues will diminish as the asset matures and gains adoption among nations. “The CBC's concerns are valid but addressable with institutional expertise on custody, liquidity, and volatility,” he added. Despite ruling out a Bitcoin reserve for now, the CBC committed to testing the technology further in a digital asset sandbox using the crypto the country already holds. Taiwanese lawmaker Ko Ju-Chun revealed on X last year that the country’s Ministry of Justice holds 210 Bitcoin, worth $14 million, confiscated during criminal investigations. BitBo doesn’t list Taiwan in its country reserve rankings; its disclosed holdings would make it the seventh-largest national Bitcoin holder, behind El Salvador but ahead of Finland.
-
-🔗 [Cointelegraph](https://cointelegraph.com/news/taiwan-bitcoin-reserve-geopolitical-hedge) • 19h ago
+🔗 [youtu.be](https://youtu.be/yFE2FV9ia1s) • 17h ago
 
 ---
 
@@ -151,7 +111,47 @@ Taiwanese lawmaker Ko Ju-Chun said last year that the country’s Ministry of Ju
 
 Would you send the btc to a new address generated on trezor 7, or just set up the new trezor using seed words from original trezor? Any difference in security down the road that way? I think my btc is currently separated on my original trezor as segwit and legacy or something like that.
 
-44m ago
+3h ago
+
+---
+
+**[Started buying at 128k now sitting at 93k average](https://www.reddit.com/r/Bitcoin/comments/1sa6krz/started_buying_at_128k_now_sitting_at_93k_average/)**
+
+Who else is pumped right now! Part of me wants another big dip so I can keep adding to my stack with DCA and grab even more sats Real talk tho - if youre in this for the long haul like 10+ years why does anyone get upset when the price drops? Makes no sense to me if you actually believe in where this is headed
+
+1d ago
+
+---
+
+**[Buying BTC in Canada](https://www.reddit.com/r/Bitcoin/comments/1saljyf/buying_btc_in_canada/)**
+
+Hello, can you recommend a platform for me to buy bitcoins? Thank you.
+
+12h ago
+
+---
+
+**[COLDCARD Spending Policy](https://www.reddit.com/r/Bitcoin/comments/1sak438/coldcard_spending_policy/)**
+
+I was playing around with COLDCARD's spending policy and its pretty awesome. You can add rules like spend limits, velocity controls, address whitelists, and even 2FA. Seems like a solid way to add some extra security without making things too complex. Anyone else played around with spending limits on their COLDCARD?
+
+13h ago
+
+---
+
+**[Dump as an Opportunity](https://www.reddit.com/r/Bitcoin/comments/1sa7odp/dump_as_an_opportunity/)**
+
+A friend of mine has been buying Bitcoin since 2023, $50 every day. From the time the price is below $70k, he is buying double ($100 each day). He believes that one day BTC will go to $1M+, and then he'll decide whether to sell or keep holding.
+
+1d ago
+
+---
+
+**[Bitcoin Policy Institute says Taiwan Should Reconsider Bitcoin Reserves](https://www.reddit.com/r/Bitcoin/comments/1saamrz/bitcoin_policy_institute_says_taiwan_should/)**
+
+Taiwanese lawmaker Ko Ju-Chun said last year that the country’s Ministry of Justice holds 210 Bitcoins, worth $14 million, confiscated during criminal investigations. Taiwan should reconsider adopting Bitcoin as a reserve asset to hedge against global turmoil and the risk of war, according to a research fellow at the Bitcoin Policy Institute. In a report on Tuesday, Jacob Langenkamp said that should China pursue reunification with Taiwan by military force, either through a blockade or full invasion, Bitcoin would be the only reserve asset that would remain fully accessible and spendable. “Uniquely for Taiwan, Bitcoin provides geopolitical resilience: in a PRC blockade or invasion, gold is stranded or seized and USD reserves face potential restrictions, but Bitcoin remains fully accessible without physical transport,” he added. Nation-states have begun to explore the idea of launching strategic Bitcoin reserves, seen as a bullish signal for Bitcoin. Last year, Taiwan’s central bank sought to investigate establishing a national Bitcoin reserve. However, the bank ruled it out in December, citing volatility, liquidity and custody concerns and instead identified the US dollar as a safer alternative. Taiwan is heavily exposed to the risks of US dollar debasement, Langenkamp said, because its central bank reserves are at least 80% in USD-denominated assets, as is most of its trade. Growing US debt, Federal Reserve monetary expansion, a potential AI market downturn and declining semiconductor revenues could also accelerate dollar debasement, he said. “Bitcoin can couple with gold to offer that hedge against USD debasement. It can provide another opportunity for the CBC to adopt a reserve asset before its peers and benefit the people of Taiwan with the subsequent price appreciation,” Langenkamp added. “It can offer geopolitical insurance against scenarios that hopefully do not come to pass. It can open new methods of trade with less friction. Bitcoin can provide Taiwan with a great measure of monetary resilience.” Langenkamp also argued that the CBC's concerns about Bitcoin's liquidity and volatility are valid, but contended that both issues will diminish as the asset matures and gains adoption among nations. “The CBC's concerns are valid but addressable with institutional expertise on custody, liquidity, and volatility,” he added. Despite ruling out a Bitcoin reserve for now, the CBC committed to testing the technology further in a digital asset sandbox using the crypto the country already holds. Taiwanese lawmaker Ko Ju-Chun revealed on X last year that the country’s Ministry of Justice holds 210 Bitcoin, worth $14 million, confiscated during criminal investigations. BitBo doesn’t list Taiwan in its country reserve rankings; its disclosed holdings would make it the seventh-largest national Bitcoin holder, behind El Salvador but ahead of Finland.
+
+🔗 [Cointelegraph](https://cointelegraph.com/news/taiwan-bitcoin-reserve-geopolitical-hedge) • 21h ago
 
 ---
 
@@ -159,77 +159,77 @@ Would you send the btc to a new address generated on trezor 7, or just set up th
 
 ## Google News: "bitcoin"
 
+**[Bitcoin tumbles, crypto momentum fades as Trump extends Iran timeline](https://finance.yahoo.com/video/bitcoin-tumbles-crypto-momentum-fades-as-trump-extends-iran-timeline-152202604.html)**
+
+Yahoo Finance Senior Reporter Brooke DiPalma reports on the sharp sell-off in crypto-linked stocks on Thursday, including Coinbase (COIN), Robinhood (HOOD), and Circle Internet Group (CRCL), as fading momentum and shifting investor sentiment trigger a broader pullback.Cryptocurrency bitcoin (BTC-USD) falls back below $67,000 as investors digest President Trump's latest remarks on the Iran war.
+
+Yahoo Finance • 12h ago
+
+---
+
+**[Three key signals to watch as bitcoin whipsaws on Trump’s Iran rhetoric](https://www.coindesk.com/markets/2026/04/02/bitcoin-traders-keep-chasing-trump-s-iran-noise-the-real-signals-are-elsewhere)**
+
+Bitcoin and other risk assets have been whipsawed by President Donald J. Trump’s shifting rhetoric on Iran. Here are some indicators that help cut through the noise.
+
+CoinDesk • 23h ago
+
+---
+
+**[Bitcoin Tumbles With Stocks as Trump Signals Harder Iran Strikes](https://www.bloomberg.com/news/articles/2026-04-02/bitcoin-tumbles-with-stocks-as-trump-signals-harder-iran-strikes)**
+
+Bloomberg.com • 7h ago
+
+---
+
 **[‘You Have Until 2029’—Urgent Elon Musk Bitcoin Warning Suddenly Triggers Price Crash Fears](https://www.forbes.com/sites/digital-assets/2026/04/02/you-have-until-2029-urgent-elon-musk-bitcoin-warning-suddenly-triggers-price-crash-fears/)**
 
-Forbes • 14h ago
+forbes.com • 16h ago
 
 ---
 
-**[Bitcoin falls below $66K as crowded shorts hint at upside risk ahead of Easter holiday: analysts](https://www.theblock.co/post/396204/bitcoin-falls-below-66k-as-crowded-shorts-hint-at-upside-risk-ahead-of-easter-holiday-analysts)**
+**[Bitcoin Price Teeters on Edge, Will Support Finally Snap?](https://www.tradingview.com/news/newsbtc:eb9b09e27094b:0-bitcoin-price-teeters-on-edge-will-support-finally-snap/)**
 
-Bitcoin remains stuck below $70K as weak conviction and macro uncertainty weigh on markets, with analysts flagging a potential short squeeze.
+Bitcoin price started a fresh decline from the $69,250 zone. BTC is now struggling to stay above $66,000 and might extend losses in the near term.Bitcoin Price Dips AgainBitcoin price failed to stay above the $68,800 zone and started a fresh decline. BTC traded below $68,200 and $68,000 to enter a…
 
-theblock.co • 14h ago
+TradingView • 2h ago
 
 ---
 
-**[Bitcoin, crypto stocks slipping lower alongside broader markets](https://finance.yahoo.com/video/bitcoin-crypto-stocks-slipping-lower-alongside-broader-markets-193058910.html)**
+**[Bitcoin heads into holiday weekend exposed as ETF and CME flows go offline](https://www.coindesk.com/markets/2026/04/03/bitcoin-heads-into-holiday-weekend-exposed-as-etf-and-cme-flows-go-offline)**
 
-Yahoo Finance Senior Markets Reporter Ines Ferré takes a closer look at how top cryptocurrencies — like bitcoin (BTC-USD), solana (SOL-USD), and ethereum (ETH-USD) — are trading as the crypto market and crypto-related stocks fall alongside the broader market (^DJI, ^IXIC, ^GSPC) on Thursday.
+Good Friday shuts CME futures and ETF activity, removing a key source of demand as large holders continue distributing and spot demand weakens.
 
-Yahoo Finance • 6h ago
+CoinDesk • 35m ago
+
+---
+
+**[Bitcoin miner Riot sold 3,778 BTC during Q1 amid profitability pressures](https://www.tradingview.com/news/cointelegraph:7e07b566d094b:0-bitcoin-miner-riot-sold-3-778-btc-during-q1-amid-profitability-pressures/)**
+
+Bitcoin miner Riot Platforms sold 3,778 Bitcoin in the first quarter, adding to a recent wave of sales by crypto firms amid tough market conditions.The Bitcoin (BTC) was sold at an average price of $76,626, netting Riot $289.5 million, according to the miner’s operational update released on Thursda…
+
+TradingView • 1h ago
+
+---
+
+**[Circle unveils plans for wrapped bitcoin token cirBTC](https://www.theblock.co/post/396275/circle-plans-wrapped-bitcoin-token-cirbtc)**
+
+Circle's bitcoin payments app Circle Pay was sunsetted in 2019 as the firm pivoted to focus solely on stablecoins.
+
+The Block • 10h ago
 
 ---
 
 **[Bitcoin Buying Fails to Offset a Wave of Selling by Big Holders](https://www.bloomberg.com/news/articles/2026-04-01/bitcoin-buying-fails-to-offset-a-wave-of-selling-by-big-holders)**
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 13h ago
 
 ---
 
-**[Here’s why bitcoin’s drop below $68,000 raises the risk of a crash under $60,000](https://www.coindesk.com/markets/2026/04/02/here-s-why-bitcoin-s-drop-below-usd68-000-puts-it-at-risk-of-a-crash-under-usd60-000)**
+**[Current price of Bitcoin for April 1, 2026](https://fortune.com/article/price-of-bitcoin-04-01-2026/)**
 
-The negative gamma zone below $68,000 can trigger a self-reinforcing sell-off, leading to an outsized crash.
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-coindesk.com • 7h ago
-
----
-
-**[Top cryptocurrencies fall; Bitcoin falls below $68,000](https://www.msn.com/en-us/money/markets/top-cryptocurrencies-fall-bitcoin-falls-below-68-000/ar-AA201NQW)**
-
-MSN • 4m ago
-
----
-
-**[Google Finds Quantum Computers Could Break Bitcoin Sooner Than Expected](https://www.forbes.com/sites/digital-assets/2026/03/31/google-finds-quantum-computers-could-break-bitcoin-sooner-than-expected/)**
-
-Google published a paper on March 31 that states that Bitcoin's cryptography could be impacted by quantum computing sooner than previously stated.
-
-Forbes • 2d ago
-
----
-
-**[Some quantum-resistant tokens jump 50% as Google flags risks to Bitcoin security](https://www.coindesk.com/markets/2026/04/01/the-first-winners-of-the-quantum-crypto-debate-are-already-clear-and-some-of-them-are-up-50)**
-
-The so-called quantum-resistant coins rally as traders switch to potential long-term security.
-
-coindesk.com • 1d ago
-
----
-
-**[Naoris Launches Post-Quantum Blockchain as Bitcoin, Ethereum Devs Scramble to Face Threat](https://decrypt.co/363207/naoris-launches-post-quantum-blockchain-bitcoin-ethereum)**
-
-Naoris Protocol says its blockchain network uses quantum-resistant cryptography, as the wider crypto industry prepares for future threats.
-
-Decrypt • 3h ago
-
----
-
-**[BlackRock Files Ticker For Bitcoin Premium Income ETF As Bitcoin Strategy Expands](https://bitcoinmagazine.com/news/blackrock-files-ticker-bitcoin-premium-etf)**
-
-BlackRock has advanced its Bitcoin premium income ETF strategy, revealing the ticker $BITA for a new fund positioned as a yield-focused sequel to its existing Bitcoin ETF lineup.
-
-Bitcoin Magazine • 1d ago
+Fortune • 1d ago
 
 ---
 
@@ -241,7 +241,7 @@ Bitcoin Magazine • 1d ago
 
 Google Research said the necessary resources for quantum computers to break cryptocurrencies have seen a 20-fold reduction.
 
-⬆️ 7 • 💬 2 • 1d ago • [The Block](https://www.theblock.co/post/395814/google-quantum-computing-earlier)
+⬆️ 7 • 💬 2 • 2d ago • [The Block](https://www.theblock.co/post/395814/google-quantum-computing-earlier)
 
 ---
 
@@ -253,15 +253,15 @@ Bitcoin needs to fix this in the next three years.
 
 ---
 
-**[Google Paper Warns of Quantum Computing Risk for Bitcoin](https://news.ycombinator.com/item?id=47600418)**
+**[Strive, Tuttle File Leveraged Bitcoin ETF](https://news.ycombinator.com/item?id=47621293)**
 
-⬆️ 3 • 💬 1 • 1d ago • [wsj.com](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q)
+⬆️ 4 • 💬 0 • 5h ago • [catenaa.com](https://catenaa.com/markets/cryptocurrencies/strive-tuttle-file-leveraged-etf-tied-to-bitcoin-preferreds/)
 
 ---
 
-**[Strive, Tuttle File Leveraged Bitcoin ETF](https://news.ycombinator.com/item?id=47621293)**
+**[Google Paper Warns of Quantum Computing Risk for Bitcoin](https://news.ycombinator.com/item?id=47600418)**
 
-⬆️ 3 • 💬 0 • 3h ago • [catenaa.com](https://catenaa.com/markets/cryptocurrencies/strive-tuttle-file-leveraged-etf-tied-to-bitcoin-preferreds/)
+⬆️ 3 • 💬 1 • 1d ago • [wsj.com](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q)
 
 ---
 
@@ -283,7 +283,7 @@ The first signing system where the private key is a physical key — and can sti
 
 Test your prediction skills against historical data. Draw your forecast and see how you rank.
 
-⬆️ 1 • 💬 0 • 6h ago • [longmarkets.app](https://longmarkets.app/rewinds/rewind-bitcoin-2017)
+⬆️ 1 • 💬 0 • 9h ago • [longmarkets.app](https://longmarkets.app/rewinds/rewind-bitcoin-2017)
 
 ---
 
@@ -293,9 +293,17 @@ Test your prediction skills against historical data. Draw your forecast and see 
 
 ---
 
+**[Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel)](https://news.ycombinator.com/item?id=47541746)**
+
+runs multiple inputs through a script/function in parallel using bash coprocs - jkool702/forkrun
+
+⬆️ 149 • 💬 41 • 6d ago • [GitHub](https://github.com/jkool702/forkrun)
+
+---
+
 **[Men are ditching TV for YouTube as AI usage and social media fatigue grow](https://news.ycombinator.com/item?id=47612127)**
 
-⬆️ 45 • 💬 121 • 16h ago • [ofcom.org.uk](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed)
+⬆️ 45 • 💬 123 • 19h ago • [ofcom.org.uk](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed)
 
 ---
 
@@ -309,7 +317,17 @@ Bitcoin has been around for 17 years. In that time it's been called digital gold
 
 📺 OpTicBigTymeR
 
-👁️ 4K • 👍 261 • 💬 201 • ⏱️ 18:15 • 7h ago
+👁️ 5K • 👍 296 • 💬 237 • ⏱️ 18:15 • 9h ago
+
+---
+
+**[$550 Billion Vanishes in Minutes! (Bitcoin Already Knows Why)](https://www.youtube.com/watch?v=la1hjLNE2SM)**
+
+Trump speaks… and markets crash again! Bitcoin fell to $66K, and in just 25 minutes, $550 billion was wiped out after one ...
+
+📺 Simply Bitcoin
+
+👁️ 6K • 👍 769 • 💬 115 • ⏱️ 36:07 • 4h ago
 
 ---
 
@@ -319,17 +337,7 @@ Quantum computers are being hyped as the end of Bitcoin. The same institutions p
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 2K • 💬 159 • ⏱️ 35:23 • 1d ago
-
----
-
-**[Bitcoin Fights To Hold This Crucial Level… What Happens Next?](https://www.youtube.com/watch?v=YXIwrjioXLg)**
-
-Bitcoin #Crypto #Finance Bitcoin is sitting at a critical level, and what happens next could shape the entire short-term market.
-
-📺 The Wolf Of All Streets
-
-👁️ 6K • 👍 335 • 💬 147 • ⏱️ 33:28 • 6h ago
+👁️ 19K • 👍 2K • 💬 161 • ⏱️ 35:23 • 1d ago
 
 ---
 
@@ -339,7 +347,17 @@ Google just dropped a bombshell that reignited fears around Bitcoin and quantum 
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 610 • 💬 106 • ⏱️ 14:32 • 14h ago
+👁️ 11K • 👍 634 • 💬 107 • ⏱️ 14:32 • 16h ago
+
+---
+
+**[Bitcoin Fights To Hold This Crucial Level… What Happens Next?](https://www.youtube.com/watch?v=YXIwrjioXLg)**
+
+Bitcoin #Crypto #Finance Bitcoin is sitting at a critical level, and what happens next could shape the entire short-term market.
+
+📺 The Wolf Of All Streets
+
+👁️ 7K • 👍 355 • 💬 66 • ⏱️ 33:28 • 9h ago
 
 ---
 
@@ -349,7 +367,27 @@ Structure your assets and position yourself for the transfer, that's what the We
 
 📺 Mark Moss
 
-👁️ 30K • 👍 557 • 💬 45 • ⏱️ 0:46 • 2d ago
+👁️ 31K • 👍 558 • 💬 44 • ⏱️ 0:46 • 2d ago
+
+---
+
+**[Bitcoin is on the brink (most won&#39;t listen)](https://www.youtube.com/watch?v=eWJjrHuA788)**
+
+If you hold Bitcoin or Ethereum... watch this! (alert!) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC ...
+
+📺 Altcoin Daily
+
+👁️ 14K • 👍 495 • 💬 61 • ⏱️ 1:18 • 2d ago
+
+---
+
+**[I Turn Mega Bullish If Bitcoin Breaks THIS Level](https://www.youtube.com/watch?v=OoI6LFKjb9E)**
+
+The market just flipped the script when everyone was leaning bearish, triggering a sharp reversal that trapped short traders.
+
+📺 Crypto Banter
+
+👁️ 11K • 👍 627 • 💬 40 • ⏱️ 12:38 • 1d ago
 
 ---
 
@@ -359,25 +397,7 @@ It is time for an update on our beauty of mathematics series about Bitcoin and c
 
 📺 Benjamin Cowen
 
-👁️ 34K • 👍 2K • 💬 85 • ⏱️ 4:47 • 14h ago
-
----
-
-**[TRUMP KEEPS DELIVERING CRYPTO PROMISES TO THE AMERICAN PEOPLE #crypto #xrp #trump #bitcoin](https://www.youtube.com/watch?v=_Shpm1ADt8I)**
-
-📺 CryptoWendyO
-
-👁️ 16K • 👍 994 • 💬 54 • ⏱️ 2:06 • 2d ago
-
----
-
-**[Bitcoin&#39;s &quot;New Narrative&quot; Sets Bubble Fears Aside](https://www.youtube.com/watch?v=KeEUFWETZjc)**
-
-CharlesSchwab's Jim Ferraioli compares the recent crypto bubble to that of others dating back to "Dutch tulip mania" in the 1600s.
-
-📺 Schwab Network
-
-👁️ 2K • 👍 26 • 💬 7 • ⏱️ 5:44 • 1d ago
+👁️ 36K • 👍 2K • 💬 88 • ⏱️ 4:47 • 16h ago
 
 ---
 
@@ -388,16 +408,6 @@ Social sentiment has always been a key piece of the crypto cycle, but measuring 
 📺 Benjamin Cowen
 
 👁️ 52K • 👍 2K • 💬 86 • ⏱️ 7:31 • 2d ago
-
----
-
-**[Bitcoin Dumps as Trump Talks WAR (Watch This)](https://www.youtube.com/watch?v=_wa10tAqiDg)**
-
-Bitcoin is reacting violently as Trump's latest comments on global conflict send shockwaves through the financial markets. Is this ...
-
-📺 Discover Crypto
-
-👁️ 6K • 👍 391 • 💬 24 • ⏱️ 1:05:45 • 10h ago
 
 ---
 
