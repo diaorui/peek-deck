@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-03T11:38:18.225333+00:00'
+updated: '2026-04-03T13:06:23.533506+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
 - social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 03, 2026 at 11:38 UTC  
+**Last Updated:** April 03, 2026 at 13:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** +2.9%  
-**30d:** -0.9%  
-**90d:** -34.8%  
-**1y:** +13.3%  
+**24h:** -1.0%  
+**7d:** +2.6%  
+**30d:** -1.2%  
+**90d:** -34.9%  
+**1y:** +13.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $248.75B
+**Market Cap:** $247.44B
 Rank #2
 
 **Circulating Supply:** 120,691,290 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.3%
+-58.6%
 
 **All-Time Low:** $0.43
-+475793.8%
++473271.7%
 
 ---
 
@@ -72,15 +72,23 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+8h ago
+
+---
+
+**[Ethereal news weekly #18 | Quantum breakthrough papers, Aave v4, Aztec alpha](https://www.reddit.com/r/ethereum/comments/1sbawgl/ethereal_news_weekly_18_quantum_breakthrough/)**
+
+Quantum breakthrough papers, Aave v4, Aztec alpha
+
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-18/) • 1h ago
 
 ---
 
 **[How to actually use crypto to buy things in 2026 (realistic breakdown, not the idealistic version)](https://www.reddit.com/r/ethereum/comments/1sb9mzb/how_to_actually_use_crypto_to_buy_things_in_2026/)**
 
-People ask this a lot and most answers are either too optimistic or outdated. Here's what actually works day to day. Direct crypto payments (limited but real) - A small number of merchants accept crypto directly via BitPay or CoinGate. Shows up at checkout alongside card/PayPal. Works in tech, gaming, VPN, some travel. Still niche. Crypto debit cards (most practical for daily use) - Platforms issue Visa/Mastercard cards linked to your crypto account. Spend anywhere that takes Visa, crypto converts to fiat at point of sale. Usually comes with some cashback in platform tokens. Works fine for everyday spending. Stablecoins for transfers - Sending money internationally or paying someone who accepts USDC/USDT is genuinely fast and cheap vs bank wire. More useful than people think for freelance/remote work. Gift cards via Bitrefill (underrated) — Buy gift cards from Amazon, Airbnb, Uber, Steam using crypto. Works everywhere those retailers are accepted. Not seamless but surprisingly broad coverage. Honest reality in 2026: most people still convert to fiat first. Crypto debit cards are the closest thing to seamless daily spending. Several platforms are building bank-integrated crypto cards - worth watching which ones actually ship. What's your setup for spending crypto day to day? Anyone found something that genuinely feels frictionless?
+People ask this a lot and most answers are either too optimistic or outdated. Here's what actually works day to day. Direct crypto payments (limited but real) - A small number of merchants accept crypto directly via BitPay or CoinGate. Shows up at checkout alongside card/PayPal. Works in tech, gaming, VPN, some travel. Still niche. Crypto debit cards (most practical for daily use) - Platforms issue Visa/Mastercard cards linked to your crypto account. Spend anywhere that takes Visa, crypto converts to fiat at point of sale. Usually comes with some cashback in platform tokens. Works fine for everyday spending. Stablecoins for transfers - Sending money internationally or paying someone who accepts USDC/USDT is genuinely fast and cheap vs bank wire. More useful than people think for freelance/remote work. Gift cards via Bitrefill (underrated) - Buy gift cards from Amazon, Airbnb, Uber, Steam using crypto. Works everywhere those retailers are accepted. Not seamless but surprisingly broad coverage. Honest reality in 2026: most people still convert to fiat first. Crypto debit cards are the closest thing to seamless daily spending. Several platforms are building bank-integrated crypto cards - worth watching which ones actually ship. What's your setup for spending crypto day to day? Anyone found something that genuinely feels frictionless?
 
-1h ago
+2h ago
 
 ---
 
@@ -96,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We recently recorded a PEEPanEIP session on EIP-7904, joined by Jacek Sieka and Maria Inês Oliveira. The conversation covers: Motivation behind the proposal Key design considerations Potential impact on the Ethereum ecosystem Open questions and areas for feedback The goal of PEEPanEIP is to make EIPs more accessible and easier to follow for the broader community - especially for those who may not be deep in the specs but want to stay informed. 🎥 Watch the full video https://youtu.be/CswFnsZTXmI Would love to hear thoughts from others following EIP-7904 or working in similar areas - feedback and perspectives welcome.
 
-19h ago
+21h ago
 
 ---
 
@@ -104,25 +112,25 @@ We recently recorded a PEEPanEIP session on EIP-7904, joined by Jacek Sieka and 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/live/aco5-l_bpOo?si=IZEg8wYNkTUOiGA_) • 23h ago
+🔗 [youtube.com](https://www.youtube.com/live/aco5-l_bpOo?si=IZEg8wYNkTUOiGA_) • 1d ago
 
 ---
 
 **[A Prediction Market Bounty Mechanism - Using Markets as Self-Funding Bounties for High-Value Sales](https://www.reddit.com/r/ethereum/comments/1sarhn7/a_prediction_market_bounty_mechanism_using/)**
 
-🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2039788146133495879) • 15h ago
+🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2039788146133495879) • 17h ago
 
 ---
 
 **[New Partnership: Nodle x PARAGON ID](https://www.reddit.com/r/ethereum/comments/1sall1a/new_partnership_nodle_x_paragon_id/)**
 
-19h ago
+21h ago
 
 ---
 
 **[AI, bots & algorithms](https://www.reddit.com/r/ethereum/comments/1saiwdj/ai_bots_algorithms/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -134,14 +142,6 @@ Two months after Ethereum mainnet launched, Vitalik deployed a 3-contract on-cha
 
 ---
 
-**[Daily General Discussion April 01, 2026](https://www.reddit.com/r/ethereum/comments/1s9b2d3/daily_general_discussion_april_01_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -150,13 +150,29 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Naoris Protocol says its blockchain network uses quantum-resistant cryptography, as the wider crypto industry prepares for future threats.
 
-Decrypt • 12h ago
+decrypt.co • 14h ago
 
 ---
 
 **[Google Warns Quantum Computers Could Break Bitcoin and Ethereum in 9 Minutes — Should You Be Worried?](https://www.ccn.com/education/crypto/google-quantum-computers-break-bitcoin-ethereum-9-minutes-1-7m-btc-risk/)**
 
-CCN.com • 2d ago
+CCN.com • 3d ago
+
+---
+
+**[Ethereum Foundation stakes $93 million of ether in a day, reaching its 70,000 ETH target](https://www.coindesk.com/markets/2026/04/03/ethereum-foundation-stakes-another-usd93-million-ether-reaching-its-70-000-eth-target)**
+
+The foundation deposited the bulk of its planned staking commitment in a single session, completing a program announced in February to turn dormant treasury holdings into a yield-generating position.
+
+CoinDesk • 1h ago
+
+---
+
+**[Bitcoin and ethereum price today, Friday, April 3, 2026: Prices are mixed as traders weigh long-term outlook](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-friday-april-3-2026-prices-are-mixed-as-traders-weigh-long-term-outlook-120045802.html)**
+
+Bitcoin dipped while ethereum gained Friday morning after losing ground following President Trump’s prime-time address. Traders are questioning long-term outlooks.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -164,15 +180,7 @@ CCN.com • 2d ago
 
 Naoris debuts its quantum-resistant mainnet, which uses algorithms approved by the U.S. National Institute of Standards and Technology.
 
-CoinDesk • 2h ago
-
----
-
-**[Bitcoin and ethereum price today, Thursday, April 2, 2026: Prices lose ground after Trump promises quick, fierce end to war](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-thursday-april-2-2026-prices-lose-ground-after-trump-promises-quick-fierce-end-to-war-120045450.html)**
-
-Bitcoin and ethereum lose ground after Trump addresses nation in a prime-time address with mixed messages about Iran war.
-
-Yahoo Finance • 23h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -186,29 +194,7 @@ TradingView • 1d ago
 
 **[Global X Launches Ethereum Covered Call ETF Targeting Weekly Distributions](https://www.morningstar.com/news/pr-newswire/20260402ny25001/global-x-launches-ethereum-covered-call-etf-targeting-weekly-distributions)**
 
-Morningstar • 22h ago
-
----
-
-**[Most large cryptocurrencies fall on Solana, Ethereum drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-solana-ethereum-drops-06702da9-e670e788b6b1?gaa_at=eafs&gaa_n=AWEtsqf1azT5pPMJaDzziO8bnRgXJZKfIVsL-iAcTi8DEUmUfZQoJzUmp2-Y&gaa_ts=69cf9d11&gaa_sig=9ntR7FvzXVq9NXBim98mp3TbAhdJppiXM7kziO0zT3y3TTiFqGVeUCIhwZ8y_4AuH_ySQLYuszy19OZOwsqOxw%3D%3D)**
-
-MarketWatch • 21h ago
-
----
-
-**[Current price of Ethereum for April 2, 2026](https://fortune.com/article/price-of-ethereum-04-02-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 20h ago
-
----
-
-**[Why Ethereum is quietly becoming a key layer of Africa’s digital economy](https://africa.businessinsider.com/local/markets/why-ethereum-is-quietly-becoming-a-key-layer-of-africas-digital-economy/qrv474b)**
-
-#FeaturedPost
-
-Business Insider Africa • 3d ago
+Morningstar • 23h ago
 
 ---
 
@@ -220,9 +206,43 @@ Polymarket • 1d ago
 
 ---
 
+**[Ethereum's stablecoin dominance declines to 65% as other chains gain ground: Dune and Visa report](https://thedefiant.io/news/blockchains/ethereum-stablecoin-dominance-decline-dune-visa-pav1xe)**
+
+Ethereum's dominance in non-USD stablecoin supply has shrunk to 65% as of February 2026, down from 90% in early 2023, according to data published by Dune and Visa on Thursday. Despite the decline, Ethereum remains the default chain for stablecoin issuance, though other blockchains are catching up in market share.
+
+thedefiant.io • 21h ago
+
+---
+
+**[Most large cryptocurrencies fall on Solana, Ethereum drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-solana-ethereum-drops-06702da9-e670e788b6b1?gaa_at=eafs&gaa_n=AWEtsqehCYazrk4rHyKMR37sBahExnyasyTszWeoJSspMGdPjmszOAWETyCU&gaa_ts=69cfbeb7&gaa_sig=kpxuUeN0jg6xVYEq6wbBzco_Ns_vXnnaPO0S2udI9d7RnPqjqPC-wdWrVQidhyIAwbJrGJbJI34kQr95nVImLg%3D%3D)**
+
+MarketWatch • 23h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[☠️ Ethereum on the Edge](https://www.youtube.com/watch?v=sQgrv7CeJq8)**
+
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 450 • 👍 42 • 💬 15 • ⏱️ 10:32 • 2h ago
+
+---
+
+**[BUY BUY BUY BUY !!!!!!!!](https://www.youtube.com/watch?v=Yt0nxQCJwEY)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXCarlMoonFerrari Net ...
+
+📺 The Moon Show
+
+👁️ 4K • 👍 509 • 💬 44 • ⏱️ 4:25 • 3h ago
+
+---
 
 **[&quot;Change is Coming That Hasn&#39;t Happened In 100 Years&quot; | crypto news](https://www.youtube.com/watch?v=bDQgqJykRDc)**
 
@@ -230,7 +250,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEE
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 265 • ⏱️ 10:45 • 1d ago
+👁️ 39K • 👍 2K • 💬 266 • ⏱️ 10:45 • 1d ago
 
 ---
 
@@ -240,7 +260,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 101 • 💬 2 • ⏱️ 5:43 • 21h ago
+👁️ 2K • 👍 105 • 💬 2 • ⏱️ 5:43 • 22h ago
+
+---
+
+**[WHEN WILL ETH BREAKOUT?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=jNIyPufjlSs)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 108 • 👍 8 • 💬 1 • ⏱️ 5:16 • 3h ago
 
 ---
 
@@ -250,27 +280,7 @@ BITCOIN WARNING: Everyone is WRONG About This!!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 4K • 👍 155 • 💬 100 • ⏱️ 20:12 • 13h ago
-
----
-
-**[ETHEREUM ABOUT TO DUMP LOWER?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=09IJjRM4YKA)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 310 • 👍 14 • 💬 3 • ⏱️ 4:34 • 1d ago
-
----
-
-**[BITCOIN AND ETHEREUM: BIG ALERT!!! 🚨🚨 (Iran invasion, Drift, Solana, Altcoins)](https://www.youtube.com/watch?v=tYoARHFq67c)**
-
-GET THE BOOK: https://bullmania.com/book FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, ...
-
-📺 Ivan on Tech
-
-👁️ 18K • 👍 1K • 💬 75 • ⏱️ 56:09 • 1d ago
+👁️ 4K • 👍 165 • 💬 107 • ⏱️ 20:12 • 14h ago
 
 ---
 
@@ -280,27 +290,27 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 433 • 👍 14 • 💬 6 • ⏱️ 6:16 • 1d ago
+👁️ 436 • 👍 14 • 💬 6 • ⏱️ 6:16 • 1d ago
 
 ---
 
-**[BlackRock &amp; JP Morgan are Building on Ethereum—Here’s Why](https://www.youtube.com/watch?v=8KiltqYa2Xg)**
+**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=BGMxnWD-S1Y)**
 
-BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Join the Inner Circle for exclusive ...
+BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Start your trading journey with XM — a trusted and ...
 
-📺 Lark Davis
+📺 Ashutosh Kumar
 
-👁️ 5K • 👍 118 • 💬 6 • ⏱️ 0:47 • 2d ago
+👁️ 5K • 👍 615 • 1h ago
 
 ---
 
-**[Google Quantum AI Rates $BTC $ETH $XRP $ALGO $SOL | Fannie Mae Crypto Mortgages | 401k Crypto](https://www.youtube.com/watch?v=4tVQTusXc24)**
+**[Ethereum (ETH) - Análise de hoje, 03/04/2026 #ETH #Ethereum #BTC #bitcoin #XRP #vitalik #ETH](https://www.youtube.com/watch?v=KAtf9vsO98g)**
 
-Google Quantum AI just dropped a paper that directly names Bitcoin, Ethereum, XRP, Algorand, and Solana and rates their ...
+ASSINE AGORA Altcoins GEMAS Alert !!! - (R$100/mês): https://pay.hotmart.com/Y93614691E https://degenscan.io #eth #BTC ...
 
-📺 King Solomon (Ryan Solomon)
+📺 Trade with Renato Ulianov
 
-👁️ 5K • 👍 466 • 💬 47 • ⏱️ 29:55 • 2d ago
+👁️ 228 • 👍 55 • 💬 4 • ⏱️ 2:52 • 1h ago
 
 ---
 
@@ -310,17 +320,7 @@ Hang in there everyone! The risk models that say when to accumulate or exit HERE
 
 📺 Dan Gambardello
 
-👁️ 10K • 👍 624 • 💬 211 • ⏱️ 13:49 • 2d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=6jEeJT0vai0)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 62 • 💬 5 • ⏱️ 4:53 • 1d ago
+👁️ 10K • 👍 624 • 💬 212 • ⏱️ 13:49 • 2d ago
 
 ---
 

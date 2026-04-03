@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-03T11:38:18.219427+00:00'
+updated: '2026-04-03T13:06:23.527605+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
 - social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 03, 2026 at 11:38 UTC  
+**Last Updated:** April 03, 2026 at 13:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,143.31
+### $67,309.54
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** +0.6%  
-**30d:** -5.8%  
-**90d:** -27.0%  
-**1y:** -20.4%  
+**24h:** -0.4%  
+**7d:** +0.4%  
+**30d:** -5.9%  
+**90d:** -27.1%  
+**1y:** -20.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1337.58B
+**Market Cap:** $1334.48B
 Rank #1
 
-**Circulating Supply:** 20,010,831 BTC
+**Circulating Supply:** 20,010,912 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--47.0%
+-47.1%
 
 **All-Time Low:** $67.81
-+98459.2%
++98235.1%
 
 ---
 
@@ -77,25 +77,35 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Weekly bitcoin buys - am I doing this right?](https://www.reddit.com/r/Bitcoin/comments/1sazgzd/weekly_bitcoin_buys_am_i_doing_this_right/)**
-
-Been putting $180 into bitcoin through coinbase every week on fridays for a while now. As someone who's still learning about all this crypto stuff but wants to get involved somehow, does this approach make sense? I know I'm not smart enough to figure out when to buy the dips or whatever, so I just stick to the same amount each week instead of trying to time anything. Anyone else doing something similar? Just wondering if I'm on the right track here.
-
-10h ago
-
----
-
 **[Daily Discussion, April 03, 2026](https://www.reddit.com/r/Bitcoin/comments/1sb5hia/daily_discussion_april_03_2026/)**
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-5h ago
+6h ago
 
 ---
 
-**[So many DCA strategies in the sub recently. Here's mine](https://www.reddit.com/r/Bitcoin/comments/1sah1xz/so_many_dca_strategies_in_the_sub_recently_heres/)**
+**[This is what a proper Bitcoin business should look like](https://www.reddit.com/r/Bitcoin/comments/1sbbm52/this_is_what_a_proper_bitcoin_business_should/)**
 
-22h ago
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/MWz1jUU5HOw?si=LCio8gsCvoW52OwN) • 1h ago
+
+---
+
+**[What was the first self custody lesson that really hit you with Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1sbcla0/what_was_the_first_self_custody_lesson_that/)**
+
+When I first bought Bitcoin, buying felt easy. The part that actually made me slow down was self custody. At the start I thought it was simple, just buy BTC, send it to a wallet, done. But after reading more, I understood how easy it is to mess up one small thing and regret it forever. Wrong address, bad backup, keeping seed phrase in dumb places, rushing a transfer, all that stuff started feeling way more serious than I expected. That was probably the moment Bitcoin felt different to me. Not just something to buy, but something you actually have to learn how to protect. For me, doing a small test transaction first changed everything. Sounds basic, but it made me less careless. What was the first self custody lesson that really hit you? A mistake you almost made? Something you wish you understood earlier? I feel like this part of Bitcoin doesnt get talked about enough by beginners.
+
+21m ago
+
+---
+
+**[How to track crypto income properly?](https://www.reddit.com/r/Bitcoin/comments/1sb7tqq/how_to_track_crypto_income_properly/)**
+
+Hi so i made a recent post talking about how i dont want to get fucked by the ATO. ive never reported (crypto gains/converts) to the government and especially not familiar how it is with the ATO since im from Denmark. i asked Chatgpt "where can i track my crypto and then report and send everything in one go?". it said a service like Koinly or Cointraciking. Right now im receiving on coinbase. but i do plan on switching to Receiving on "COCA" only as it gives nice cashback bonus of 6%. Quick side note: is there a better place to store crypto, bonus wise etc? but Yeah im confused. i could technically just look at the crypto i sold, but how will i be able to know how much it rose with from the date of purchase? man i cant see how that gonna be possible
+
+4h ago
 
 ---
 
@@ -107,19 +117,25 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
+**[So many DCA strategies in the sub recently. Here's mine](https://www.reddit.com/r/Bitcoin/comments/1sah1xz/so_many_dca_strategies_in_the_sub_recently_heres/)**
+
+23h ago
+
+---
+
 **[Setting up new trezor safe 7 from initial trezor](https://www.reddit.com/r/Bitcoin/comments/1sb0asg/setting_up_new_trezor_safe_7_from_initial_trezor/)**
 
 Would you send the btc to a new address generated on trezor 7, or just set up the new trezor using seed words from original trezor? Any difference in security down the road that way? I think my btc is currently separated on my original trezor as segwit and legacy or something like that.
 
-9h ago
+11h ago
 
 ---
 
-**[How to track crypto income properly?](https://www.reddit.com/r/Bitcoin/comments/1sb7tqq/how_to_track_crypto_income_properly/)**
+**[90% LTV vs 50% LTV - why the loan-to-value ratio matters way more than the interest rate on a crypto loan](https://www.reddit.com/r/Bitcoin/comments/1sbcx16/90_ltv_vs_50_ltv_why_the_loantovalue_ratio/)**
 
-Hi so i made a recent post talking about how i dont want to get fucked by the ATO. ive never reported (crypto gains/converts) to the government and especially not familiar how it is with the ATO since im from Denmark. i asked Chatgpt "where can i track my crypto and then report and send everything in one go?". it said a service like Koinly or Cointraciking. Right now im receiving on coinbase. but i do plan on switching to Receiving on "COCA" only as it gives nice cashback bonus of 6%. Quick side note: is there a better place to store crypto, bonus wise etc? but Yeah im confused. i could technically just look at the crypto i sold, but how will i be able to know how much it rose with from the date of purchase? man i cant see how that gonna be possible
+People shopping for crypto loans compare interest rates. That's the wrong thing to look at first. LTV determines your actual risk exposure and should be the first number you understand. What LTV means in practice - same $10,000 in Bitcoin, two scenarios: 50% LTV: you borrow $5,000. Bitcoin needs to drop 50% before serious liquidation risk. Enormous breathing room through normal market swings. 90% LTV: you borrow $9,000. Bitcoin needs to drop about 10–12% before liquidation warnings start. In crypto that can happen in a day. A 2% difference in interest rate on a 3-month loan costs you maybe $75. Getting liquidated at 90% LTV during a 15% correction costs you your entire position. The math on which one matters more is pretty clear. So why does high LTV exist at all? Two legitimate use cases: you're short-term constrained and plan to repay within weeks before a serious move is likely. Or you qualify for high LTV but actually borrow conservatively - the higher ceiling just means less collateral locked for the same loan amount. Real example: need $5,000 in cash. At 50% LTV you need $10,000 in BTC locked. At 70% LTV you need about $7,100. If you only have $7,500 in BTC, a platform capped at 50% LTV doesn't help you at all. YouHodler's 90% ceiling on 30-day loans isn't an invitation to borrow at 90% - it means if you have $7,500 in BTC you can get $5,000 at ~67% LTV, then stay cautious from there. Rule of thumb: know the BTC price at which your LTV hits 85%. That's your alarm level. Have a plan for that scenario before you open the loan. Anyone managing loans right now? What LTV do you actually stay at vs what you qualify for?
 
-3h ago
+7m ago
 
 ---
 
@@ -135,23 +151,7 @@ Who else is pumped right now! Part of me wants another big dip so I can keep add
 
 I was playing around with COLDCARD's spending policy and its pretty awesome. You can add rules like spend limits, velocity controls, address whitelists, and even 2FA. Seems like a solid way to add some extra security without making things too complex. Anyone else played around with spending limits on their COLDCARD?
 
-20h ago
-
----
-
-**[Buying BTC in Canada](https://www.reddit.com/r/Bitcoin/comments/1saljyf/buying_btc_in_canada/)**
-
-Hello, can you recommend a platform for me to buy bitcoins? Thank you.
-
-19h ago
-
----
-
-**[Bitcoin Policy Institute says Taiwan Should Reconsider Bitcoin Reserves](https://www.reddit.com/r/Bitcoin/comments/1saamrz/bitcoin_policy_institute_says_taiwan_should/)**
-
-Taiwanese lawmaker Ko Ju-Chun said last year that the country’s Ministry of Justice holds 210 Bitcoins, worth $14 million, confiscated during criminal investigations. Taiwan should reconsider adopting Bitcoin as a reserve asset to hedge against global turmoil and the risk of war, according to a research fellow at the Bitcoin Policy Institute. In a report on Tuesday, Jacob Langenkamp said that should China pursue reunification with Taiwan by military force, either through a blockade or full invasion, Bitcoin would be the only reserve asset that would remain fully accessible and spendable. “Uniquely for Taiwan, Bitcoin provides geopolitical resilience: in a PRC blockade or invasion, gold is stranded or seized and USD reserves face potential restrictions, but Bitcoin remains fully accessible without physical transport,” he added. Nation-states have begun to explore the idea of launching strategic Bitcoin reserves, seen as a bullish signal for Bitcoin. Last year, Taiwan’s central bank sought to investigate establishing a national Bitcoin reserve. However, the bank ruled it out in December, citing volatility, liquidity and custody concerns and instead identified the US dollar as a safer alternative. Taiwan is heavily exposed to the risks of US dollar debasement, Langenkamp said, because its central bank reserves are at least 80% in USD-denominated assets, as is most of its trade. Growing US debt, Federal Reserve monetary expansion, a potential AI market downturn and declining semiconductor revenues could also accelerate dollar debasement, he said. “Bitcoin can couple with gold to offer that hedge against USD debasement. It can provide another opportunity for the CBC to adopt a reserve asset before its peers and benefit the people of Taiwan with the subsequent price appreciation,” Langenkamp added. “It can offer geopolitical insurance against scenarios that hopefully do not come to pass. It can open new methods of trade with less friction. Bitcoin can provide Taiwan with a great measure of monetary resilience.” Langenkamp also argued that the CBC's concerns about Bitcoin's liquidity and volatility are valid, but contended that both issues will diminish as the asset matures and gains adoption among nations. “The CBC's concerns are valid but addressable with institutional expertise on custody, liquidity, and volatility,” he added. Despite ruling out a Bitcoin reserve for now, the CBC committed to testing the technology further in a digital asset sandbox using the crypto the country already holds. Taiwanese lawmaker Ko Ju-Chun revealed on X last year that the country’s Ministry of Justice holds 210 Bitcoin, worth $14 million, confiscated during criminal investigations. BitBo doesn’t list Taiwan in its country reserve rankings; its disclosed holdings would make it the seventh-largest national Bitcoin holder, behind El Salvador but ahead of Finland.
-
-🔗 [Cointelegraph](https://cointelegraph.com/news/taiwan-bitcoin-reserve-geopolitical-hedge) • 1d ago
+21h ago
 
 ---
 
@@ -159,11 +159,11 @@ Taiwanese lawmaker Ko Ju-Chun said last year that the country’s Ministry of Ju
 
 ## Google News: "bitcoin"
 
-**[Bitcoin heads into holiday weekend exposed as ETF and CME flows go offline](https://www.coindesk.com/markets/2026/04/03/bitcoin-heads-into-holiday-weekend-exposed-as-etf-and-cme-flows-go-offline)**
+**[Riot Platforms sells $290 million worth of bitcoin during Q1](https://www.theblock.co/post/396289/riot-platforms-sells-290-million-usd-bitcoin)**
 
-Good Friday shuts CME futures and ETF activity, removing a key source of demand as large holders continue distributing and spot demand weakens.
+Other major bitcoin miners have been selling their bitcoin holdings to fund their transition to focus on AI.
 
-CoinDesk • 7h ago
+The Block • 4h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 7h ago
 
 The bank predicts new risks.
 
-thestreet.com • 9h ago
+thestreet.com • 11h ago
 
 ---
 
@@ -179,7 +179,7 @@ thestreet.com • 9h ago
 
 Yahoo Finance Senior Reporter Brooke DiPalma reports on the sharp sell-off in crypto-linked stocks on Thursday, including Coinbase (COIN), Robinhood (HOOD), and Circle Internet Group (CRCL), as fading momentum and shifting investor sentiment trigger a broader pullback.Cryptocurrency bitcoin (BTC-USD) falls back below $67,000 as investors digest President Trump's latest remarks on the Iran war.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -189,45 +189,47 @@ Investing.com • 1d ago
 
 ---
 
-**[Bitcoin's Stuttered Amid Iran War. The Crypto’s Now a Critical Market Indicator.](https://www.barrons.com/articles/bitcoin-crypto-iran-war-stock-market-what-to-know-today-d2510156?gaa_at=eafs&gaa_n=AWEtsqfYYg_p9cnh4ymcqhVJie9fvhPWl3zwnjsgYcuiQfCtp4IbwSgdaFcK&gaa_ts=69cf9d63&gaa_sig=jkWihyrOQz-XzGcgY8bIMkJEQycfx75QT92fI7JZsNrlJVkK5a95MTeX4VXCMnQEDFBkokdKy2nQaFjbwSV0Ow%3D%3D)**
+**[Bitcoin Looks ‘Weak.’ Jobs Report, Iran War Could Change Things for Struggling Cryptos.](https://www.barrons.com/articles/bitcoin-price-crypto-today-jobs-report-iran-12bef1d4?gaa_at=eafs&gaa_n=AWEtsqe2z22jFFi15z2cmPw8PTKnHJeCELUnyC8X9GrLoLQq8olEoZHY5Kvm&gaa_ts=69cfbeb5&gaa_sig=-1B_5YvTUKKRSfBY87iS9tN27paqaIYi4fMsZCSc1n-pbXbwxCapsG-C99QYSDEA75mRTMaksdFethnKRujGSg%3D%3D)**
 
-Barron's • 1h ago
-
----
-
-**[New Bitcoin Crash Ahead? Bloomberg Strategist Forecasts Return To $10,000 – Here’s Why](https://www.tradingview.com/news/newsbtc:d8475b6dd094b:0-new-bitcoin-crash-ahead-bloomberg-strategist-forecasts-return-to-10-000-here-s-why/)**
-
-Bloomberg senior strategist Mike McGlone has renewed a stark prediction for Bitcoin (BTC), arguing that the market’s leading cryptocurrency could resume a prolonged decline that takes it back toward $10,000. Why McGlone Sees Bitcoin Heading Back To $10KIn a Thursday post on social media platform X…
-
-TradingView • 3h ago
+Barron's • 2h ago
 
 ---
 
-**[Circle Unveils New Token Aimed at Expanding Bitcoin Utility](https://finance.yahoo.com/markets/crypto/articles/circle-unveils-token-aimed-expanding-093612841.html)**
+**[U.S. March jobs smash expectations, with 178,000 added](https://www.coindesk.com/markets/2026/04/03/u-s-march-jobs-smash-expectations-with-178-000-added)**
 
-Circle has launched cirBTC, a wrapped Bitcoin token backed 1:1 with native on-chain BTC reserves, deploying first on Ethereum mainnet and its own Arc blockchain. The move is direct: Bitcoin holds over $1.7 trillion in market cap but generates almost no DeFi activity, and Circle is positioning itself as the ...
+Bitcoin continued to trade near the $67,000 level just following the strong report.
 
-Yahoo Finance • 2h ago
+CoinDesk • 31m ago
+
+---
+
+**[Bitcoin and ethereum price today, Friday, April 3, 2026: Prices are mixed as traders weigh long-term outlook](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-friday-april-3-2026-prices-are-mixed-as-traders-weigh-long-term-outlook-120045802.html)**
+
+Bitcoin dipped while ethereum gained Friday morning after losing ground following President Trump’s prime-time address. Traders are questioning long-term outlooks.
+
+Yahoo Finance • 1h ago
 
 ---
 
 **[Man tried to ransom former employer out of $750,000 in Bitcoin after launching a cyber attack, feds say](https://www.nj.com/news/2026/04/man-tried-to-ransom-former-employer-out-of-750000-in-bitcoin-after-launching-a-cyber-attack-feds-say.html)**
 
-NJ.com • 13h ago
+NJ.com • 15h ago
 
 ---
 
-**[Circle unveils plans for wrapped bitcoin token cirBTC](https://www.theblock.co/post/396275/circle-plans-wrapped-bitcoin-token-cirbtc)**
+**[Google Finds Quantum Computers Could Break Bitcoin Sooner Than Expected](https://www.forbes.com/sites/digital-assets/2026/03/31/google-finds-quantum-computers-could-break-bitcoin-sooner-than-expected/)**
 
-Circle's bitcoin payments app Circle Pay was sunsetted in 2019 as the firm pivoted to focus solely on stablecoins.
+Google published a paper on March 31 that states that Bitcoin's cryptography could be impacted by quantum computing sooner than previously stated.
 
-The Block • 17h ago
+Forbes • 3d ago
 
 ---
 
-**[‘You Have Until 2029’—Urgent Elon Musk Bitcoin Warning Suddenly Triggers Price Crash Fears](https://www.forbes.com/sites/digital-assets/2026/04/02/you-have-until-2029-urgent-elon-musk-bitcoin-warning-suddenly-triggers-price-crash-fears/)**
+**[Some quantum-resistant tokens jump 50% as Google flags risks to Bitcoin security](https://www.coindesk.com/markets/2026/04/01/the-first-winners-of-the-quantum-crypto-debate-are-already-clear-and-some-of-them-are-up-50)**
 
-Forbes • 23h ago
+The so-called quantum-resistant coins rally as traders switch to potential long-term security.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -253,7 +255,7 @@ Bitcoin needs to fix this in the next three years.
 
 **[Strive, Tuttle File Leveraged Bitcoin ETF](https://news.ycombinator.com/item?id=47621293)**
 
-⬆️ 4 • 💬 0 • 12h ago • [catenaa.com](https://catenaa.com/markets/cryptocurrencies/strive-tuttle-file-leveraged-etf-tied-to-bitcoin-preferreds/)
+⬆️ 4 • 💬 0 • 14h ago • [catenaa.com](https://catenaa.com/markets/cryptocurrencies/strive-tuttle-file-leveraged-etf-tied-to-bitcoin-preferreds/)
 
 ---
 
@@ -281,7 +283,7 @@ The first signing system where the private key is a physical key — and can sti
 
 Test your prediction skills against historical data. Draw your forecast and see how you rank.
 
-⬆️ 1 • 💬 0 • 15h ago • [longmarkets.app](https://longmarkets.app/rewinds/rewind-bitcoin-2017)
+⬆️ 1 • 💬 0 • 17h ago • [longmarkets.app](https://longmarkets.app/rewinds/rewind-bitcoin-2017)
 
 ---
 
@@ -291,17 +293,17 @@ Test your prediction skills against historical data. Draw your forecast and see 
 
 ---
 
-**[Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel)](https://news.ycombinator.com/item?id=47541746)**
+**[Men are ditching TV for YouTube as AI usage and social media fatigue grow](https://news.ycombinator.com/item?id=47612127)**
 
-runs multiple inputs through a script/function in parallel using bash coprocs - jkool702/forkrun
-
-⬆️ 149 • 💬 41 • 6d ago • [GitHub](https://github.com/jkool702/forkrun)
+⬆️ 46 • 💬 125 • 1d ago • [ofcom.org.uk](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed)
 
 ---
 
-**[Men are ditching TV for YouTube as AI usage and social media fatigue grow](https://news.ycombinator.com/item?id=47612127)**
+**[Quad9 Enables DNS over HTTP/3 and DNS over QUIC](https://news.ycombinator.com/item?id=47610777)**
 
-⬆️ 46 • 💬 124 • 1d ago • [ofcom.org.uk](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed)
+A public and free DNS service for a better security and privacy
+
+⬆️ 61 • 💬 12 • 1d ago • [Quad9](https://quad9.net/news/blog/quad9-enables-dns-over-http-3-and-dns-over-quic/)
 
 ---
 
@@ -315,7 +317,7 @@ Trump speaks… and markets crash again! Bitcoin fell to $66K, and in just 25 mi
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 1K • 💬 118 • ⏱️ 36:07 • 11h ago
+👁️ 12K • 👍 1K • 💬 131 • ⏱️ 36:07 • 12h ago
 
 ---
 
@@ -325,7 +327,7 @@ Quantum computers are being hyped as the end of Bitcoin. The same institutions p
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 2K • 💬 166 • ⏱️ 35:23 • 1d ago
+👁️ 19K • 👍 2K • 💬 168 • ⏱️ 35:23 • 1d ago
 
 ---
 
@@ -335,47 +337,7 @@ Bitcoin has been around for 17 years. In that time it's been called digital gold
 
 📺 OpTicBigTymeR
 
-👁️ 6K • 👍 340 • 💬 320 • ⏱️ 18:15 • 16h ago
-
----
-
-**[BREAKING: 1.7 Million Bitcoin EXPOSED. Google Set the Date. 2029](https://www.youtube.com/watch?v=zzLrxc6PqRY)**
-
-Google just dropped a bombshell that reignited fears around Bitcoin and quantum computing. The threat is real, but the media ...
-
-📺 Simply Bitcoin
-
-👁️ 12K • 👍 676 • 💬 114 • ⏱️ 14:32 • 23h ago
-
----
-
-**[BITCOIN IS ABOUT TO CRASH... HERE’S EXACTLY WHAT I’M DOING](https://www.youtube.com/watch?v=d0TWnKnVzu0)**
-
-DOMINATE THE BOTTOM UNLOCK HUGE BONUS VIDEO ⬇️ JOIN THE WAITLIST NOW ...
-
-📺 Crypto Crew University
-
-👁️ 29K • 👍 2K • 💬 127 • ⏱️ 5:18 • 1d ago
-
----
-
-**[The Debt Trap: Why Gold Pumps First and Bitcoin Follows | Michael Terpin](https://www.youtube.com/watch?v=oQkCrnJ8wxk)**
-
-Global markets are navigating a high stakes tug of war today. Following an address to the nation where President Trump signaled ...
-
-📺 Kitco NEWS
-
-👁️ 11K • 👍 351 • 💬 76 • ⏱️ 31:18 • 16h ago
-
----
-
-**[Bitcoin Fights To Hold This Crucial Level… What Happens Next?](https://www.youtube.com/watch?v=YXIwrjioXLg)**
-
-Bitcoin #Crypto #Finance Bitcoin is sitting at a critical level, and what happens next could shape the entire short-term market.
-
-📺 The Wolf Of All Streets
-
-👁️ 8K • 👍 389 • 💬 149 • ⏱️ 33:28 • 15h ago
+👁️ 6K • 👍 368 • 💬 334 • ⏱️ 18:15 • 18h ago
 
 ---
 
@@ -385,17 +347,57 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEE
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 265 • ⏱️ 10:45 • 1d ago
+👁️ 39K • 👍 2K • 💬 266 • ⏱️ 10:45 • 1d ago
 
 ---
 
-**[Why Bitcoin Fails The “Gold” Argument…](https://www.youtube.com/watch?v=hSWQgw2bRRM)**
+**[BITCOIN IS ABOUT TO CRASH... HERE’S EXACTLY WHAT I’M DOING](https://www.youtube.com/watch?v=d0TWnKnVzu0)**
 
-Bitcoin has historically been one of the most volatile assets in the world. Which is exactly why you don't see anyone dumping their ...
+DOMINATE THE BOTTOM UNLOCK HUGE BONUS VIDEO ⬇️ JOIN THE WAITLIST NOW ...
 
-📺 Casual Finance
+📺 Crypto Crew University
 
-👁️ 13K • 👍 242 • 💬 46 • ⏱️ 0:43 • 2d ago
+👁️ 30K • 👍 2K • 💬 135 • ⏱️ 5:18 • 2d ago
+
+---
+
+**[Bitcoin Fights To Hold This Crucial Level… What Happens Next?](https://www.youtube.com/watch?v=YXIwrjioXLg)**
+
+Bitcoin #Crypto #Finance Bitcoin is sitting at a critical level, and what happens next could shape the entire short-term market.
+
+📺 The Wolf Of All Streets
+
+👁️ 9K • 👍 418 • 💬 167 • ⏱️ 33:28 • 17h ago
+
+---
+
+**[ALERT: CLARITY Act Stablecoin Deal Closing In 48 Hours – Is Bitcoin About To Go Absolutely Insane?](https://www.youtube.com/watch?v=5-kNMK2xCJE)**
+
+IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
+
+📺 The Kenzo Guy
+
+👁️ 3K • 👍 165 • 💬 9 • ⏱️ 26:35 • 18h ago
+
+---
+
+**[All Hell Is Breaking Loose!! Crypto Holders - ACT NOW!](https://www.youtube.com/watch?v=klV3G9sJRqI)**
+
+April will be a big month for crypto - ACT NOW! WEEX Poker Party is LIVE: https://t.co/fKKfylqM79 ♦️Complete tasks.
+
+📺 Altcoin Daily
+
+👁️ 31K • 👍 2K • 💬 235 • ⏱️ 9:31 • 14h ago
+
+---
+
+**[The Debt Trap: Why Gold Pumps First and Bitcoin Follows | Michael Terpin](https://www.youtube.com/watch?v=oQkCrnJ8wxk)**
+
+Global markets are navigating a high stakes tug of war today. Following an address to the nation where President Trump signaled ...
+
+📺 Kitco NEWS
+
+👁️ 12K • 👍 388 • 💬 80 • ⏱️ 31:18 • 17h ago
 
 ---
 
@@ -405,7 +407,7 @@ Structure your assets and position yourself for the transfer, that's what the We
 
 📺 Mark Moss
 
-👁️ 31K • 👍 566 • 💬 45 • ⏱️ 0:46 • 2d ago
+👁️ 31K • ⏱️ 0:46 • 2d ago
 
 ---
 
