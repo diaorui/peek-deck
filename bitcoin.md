@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-03T10:44:25.168381+00:00'
+updated: '2026-04-03T11:38:18.219427+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- videos
 - news
 - social
-- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 03, 2026 at 10:44 UTC  
+**Last Updated:** April 03, 2026 at 11:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Been putting $180 into bitcoin through coinbase every week on fridays for a while now. As someone who's still learning about all this crypto stuff but wants to get involved somehow, does this approach make sense? I know I'm not smart enough to figure out when to buy the dips or whatever, so I just stick to the same amount each week instead of trying to time anything. Anyone else doing something similar? Just wondering if I'm on the right track here.
 
-9h ago
+10h ago
 
 ---
 
@@ -89,13 +89,13 @@ Been putting $180 into bitcoin through coinbase every week on fridays for a whil
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
 
 ---
 
 **[So many DCA strategies in the sub recently. Here's mine](https://www.reddit.com/r/Bitcoin/comments/1sah1xz/so_many_dca_strategies_in_the_sub_recently_heres/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -103,7 +103,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/yFE2FV9ia1s) • 23h ago
+🔗 [youtu.be](https://youtu.be/yFE2FV9ia1s) • 1d ago
 
 ---
 
@@ -119,7 +119,7 @@ Would you send the btc to a new address generated on trezor 7, or just set up th
 
 Hi so i made a recent post talking about how i dont want to get fucked by the ATO. ive never reported (crypto gains/converts) to the government and especially not familiar how it is with the ATO since im from Denmark. i asked Chatgpt "where can i track my crypto and then report and send everything in one go?". it said a service like Koinly or Cointraciking. Right now im receiving on coinbase. but i do plan on switching to Receiving on "COCA" only as it gives nice cashback bonus of 6%. Quick side note: is there a better place to store crypto, bonus wise etc? but Yeah im confused. i could technically just look at the crypto i sold, but how will i be able to know how much it rose with from the date of purchase? man i cant see how that gonna be possible
 
-2h ago
+3h ago
 
 ---
 
@@ -135,7 +135,7 @@ Who else is pumped right now! Part of me wants another big dip so I can keep add
 
 I was playing around with COLDCARD's spending policy and its pretty awesome. You can add rules like spend limits, velocity controls, address whitelists, and even 2FA. Seems like a solid way to add some extra security without making things too complex. Anyone else played around with spending limits on their COLDCARD?
 
-19h ago
+20h ago
 
 ---
 
@@ -143,7 +143,7 @@ I was playing around with COLDCARD's spending policy and its pretty awesome. You
 
 Hello, can you recommend a platform for me to buy bitcoins? Thank you.
 
-18h ago
+19h ago
 
 ---
 
@@ -163,7 +163,7 @@ Taiwanese lawmaker Ko Ju-Chun said last year that the country’s Ministry of Ju
 
 Good Friday shuts CME futures and ETF activity, removing a key source of demand as large holders continue distributing and spot demand weakens.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 6h ago
 
 The bank predicts new risks.
 
-thestreet.com • 8h ago
+thestreet.com • 9h ago
 
 ---
 
@@ -179,7 +179,7 @@ thestreet.com • 8h ago
 
 Yahoo Finance Senior Reporter Brooke DiPalma reports on the sharp sell-off in crypto-linked stocks on Thursday, including Coinbase (COIN), Robinhood (HOOD), and Circle Internet Group (CRCL), as fading momentum and shifting investor sentiment trigger a broader pullback.Cryptocurrency bitcoin (BTC-USD) falls back below $67,000 as investors digest President Trump's latest remarks on the Iran war.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -191,7 +191,7 @@ Investing.com • 1d ago
 
 **[Bitcoin's Stuttered Amid Iran War. The Crypto’s Now a Critical Market Indicator.](https://www.barrons.com/articles/bitcoin-crypto-iran-war-stock-market-what-to-know-today-d2510156?gaa_at=eafs&gaa_n=AWEtsqfYYg_p9cnh4ymcqhVJie9fvhPWl3zwnjsgYcuiQfCtp4IbwSgdaFcK&gaa_ts=69cf9d63&gaa_sig=jkWihyrOQz-XzGcgY8bIMkJEQycfx75QT92fI7JZsNrlJVkK5a95MTeX4VXCMnQEDFBkokdKy2nQaFjbwSV0Ow%3D%3D)**
 
-Barron's • 30m ago
+Barron's • 1h ago
 
 ---
 
@@ -199,7 +199,7 @@ Barron's • 30m ago
 
 Bloomberg senior strategist Mike McGlone has renewed a stark prediction for Bitcoin (BTC), arguing that the market’s leading cryptocurrency could resume a prolonged decline that takes it back toward $10,000. Why McGlone Sees Bitcoin Heading Back To $10KIn a Thursday post on social media platform X…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
@@ -207,13 +207,13 @@ TradingView • 2h ago
 
 Circle has launched cirBTC, a wrapped Bitcoin token backed 1:1 with native on-chain BTC reserves, deploying first on Ethereum mainnet and its own Arc blockchain. The move is direct: Bitcoin holds over $1.7 trillion in market cap but generates almost no DeFi activity, and Circle is positioning itself as the ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Man tried to ransom former employer out of $750,000 in Bitcoin after launching a cyber attack, feds say](https://www.nj.com/news/2026/04/man-tried-to-ransom-former-employer-out-of-750000-in-bitcoin-after-launching-a-cyber-attack-feds-say.html)**
 
-NJ.com • 12h ago
+NJ.com • 13h ago
 
 ---
 
@@ -221,13 +221,13 @@ NJ.com • 12h ago
 
 Circle's bitcoin payments app Circle Pay was sunsetted in 2019 as the firm pivoted to focus solely on stablecoins.
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
 **[‘You Have Until 2029’—Urgent Elon Musk Bitcoin Warning Suddenly Triggers Price Crash Fears](https://www.forbes.com/sites/digital-assets/2026/04/02/you-have-until-2029-urgent-elon-musk-bitcoin-warning-suddenly-triggers-price-crash-fears/)**
 
-Forbes • 22h ago
+Forbes • 23h ago
 
 ---
 
@@ -253,7 +253,7 @@ Bitcoin needs to fix this in the next three years.
 
 **[Strive, Tuttle File Leveraged Bitcoin ETF](https://news.ycombinator.com/item?id=47621293)**
 
-⬆️ 4 • 💬 0 • 11h ago • [catenaa.com](https://catenaa.com/markets/cryptocurrencies/strive-tuttle-file-leveraged-etf-tied-to-bitcoin-preferreds/)
+⬆️ 4 • 💬 0 • 12h ago • [catenaa.com](https://catenaa.com/markets/cryptocurrencies/strive-tuttle-file-leveraged-etf-tied-to-bitcoin-preferreds/)
 
 ---
 
@@ -315,7 +315,7 @@ Trump speaks… and markets crash again! Bitcoin fell to $66K, and in just 25 mi
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 1K • 💬 118 • ⏱️ 36:07 • 10h ago
+👁️ 10K • 👍 1K • 💬 118 • ⏱️ 36:07 • 11h ago
 
 ---
 
@@ -335,7 +335,7 @@ Bitcoin has been around for 17 years. In that time it's been called digital gold
 
 📺 OpTicBigTymeR
 
-👁️ 6K • 👍 340 • 💬 320 • ⏱️ 18:15 • 15h ago
+👁️ 6K • 👍 340 • 💬 320 • ⏱️ 18:15 • 16h ago
 
 ---
 
@@ -345,7 +345,7 @@ Google just dropped a bombshell that reignited fears around Bitcoin and quantum 
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 676 • 💬 114 • ⏱️ 14:32 • 22h ago
+👁️ 12K • 👍 676 • 💬 114 • ⏱️ 14:32 • 23h ago
 
 ---
 
@@ -365,7 +365,7 @@ Global markets are navigating a high stakes tug of war today. Following an addre
 
 📺 Kitco NEWS
 
-👁️ 11K • 👍 351 • 💬 76 • ⏱️ 31:18 • 15h ago
+👁️ 11K • 👍 351 • 💬 76 • ⏱️ 31:18 • 16h ago
 
 ---
 
