@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-03T15:09:16.194569+00:00'
+updated: '2026-04-03T16:02:50.106697+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 03, 2026 at 15:09 UTC  
+**Last Updated:** April 03, 2026 at 16:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,7 @@ Robotics research and industry news
 
 Appreciate all the feedback and love on the recent videos, here's another clip of the dev process worth sharing. This one starts with an ugly moment, the right leg clips the edge and stumbles on a stair jump. Took a few days to track down the real issue. Turned out to be a mechanical transmission resistance in the hip joint, not a bug in the code. After the fix, clean landing. We're at around stable 30cm (~12")now. Sim does 40 or even higher, but 30 clears real stairs and that's what matters. (Getting to 30 in real life was harder than it sounds) Basic locomotion is getting solid, so next step: giving this little guy some eyes and ears, maybe. Legs first, then brains. sim2real is always humbling!
 
-3h ago
-
----
-
-**[Autonomous valet robot demonstrating precise self-parking in a real-world setting](https://www.reddit.com/r/robotics/comments/1san0l2/autonomous_valet_robot_demonstrating_precise/)**
-
-22h ago
-
----
-
-**[Generalist | Introducing GEN-1](https://www.reddit.com/r/robotics/comments/1saoiaj/generalist_introducing_gen1/)**
-
-21h ago
+4h ago
 
 ---
 
@@ -56,7 +44,19 @@ Appreciate all the feedback and love on the recent videos, here's another clip o
 
 l find that RoboBaton mini is good to use. I was originally planning to use Intel's T265, but discovered it had been discontinued. I found RoboBaton Mini on myrobotproject's website. I successfully got it working with my Raspberry Pi. I will open-source the code on GitHub later. I hope everyone can connect with me to discuss and explore other use cases for the Mini.
 
-1h ago
+2h ago
+
+---
+
+**[Autonomous valet robot demonstrating precise self-parking in a real-world setting](https://www.reddit.com/r/robotics/comments/1san0l2/autonomous_valet_robot_demonstrating_precise/)**
+
+23h ago
+
+---
+
+**[Generalist | Introducing GEN-1](https://www.reddit.com/r/robotics/comments/1saoiaj/generalist_introducing_gen1/)**
+
+22h ago
 
 ---
 
@@ -68,11 +68,35 @@ been working on this little desktop robot prototype called Kitto for a while now
 
 ---
 
+**[Robotic welding recommendation](https://www.reddit.com/r/robotics/comments/1sbhlve/robotic_welding_recommendation/)**
+
+It will be very helpful for me if you did the survey as this is my graduation project i need to know what does the market need to start the project and i only have 2 months left so please help with your recommendations
+
+🔗 [Google Docs](https://forms.gle/4FJuhLhkqY8YZ8SKA) • 1m ago
+
+---
+
+**[Robotics short paper](https://www.reddit.com/r/robotics/comments/1sbh6ge/robotics_short_paper/)**
+
+Hi everyone, I'm an undergraduate who conducted an independent robotics project, and I am planning on submitting a 4-page write-up of my work to a workshop or small conference. Upon looking online, I am not sure where to find conferences to submit to; is there any venue that has options to submit short papers, and would a workshop (such as at IROS) be an applicable place for something like this? Thanks
+
+17m ago
+
+---
+
+**[Suggestions for battery](https://www.reddit.com/r/robotics/comments/1sbh2tx/suggestions_for_battery/)**
+
+i need y'all to give me suggestions for the battery part im having two 6v n20 600rpm motors and also the battery is connected to the buck which powers the esp32 the sensors are powered from the esp32 3.3v all the things are working perfectly just the prblm im facing is o hVe 7.4v lipo battery but its too big and bulky for this size and makes it heavier too so can you suggest some batteries (rechargeable) 7.4v thats smaller and compact in size to fit on the upper part (where my thumb is placed)
+
+21m ago
+
+---
+
 **[My Pi 3b+ Self Roving Robot](https://www.reddit.com/r/robotics/comments/1saw4e3/my_pi_3b_self_roving_robot/)**
 
 Running 3 HC-SR04’s doing object detection and avoidance. Just getting my encoders working. Hoping to be mapping soon. Definitely a fun project.
 
-16h ago
+17h ago
 
 ---
 
@@ -80,27 +104,7 @@ Running 3 HC-SR04’s doing object detection and avoidance. Just getting my enco
 
 https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printed parts, motorized projector, home decoration, and DIY electronics -- if you know of anyone else that might be interested in this stuff, sharing to others would really help me out! Hope to see you around here or YouTube :)
 
-13h ago
-
----
-
-**[Robotics Studio](https://www.reddit.com/r/robotics/comments/1sapdsp/robotics_studio/)**
-
-20h ago
-
----
-
-**[simple tool share: stepper coil identification helper](https://www.reddit.com/r/robotics/comments/1sb4n6g/simple_tool_share_stepper_coil_identification/)**
-
-https://xuanbuilds.github.io/stepper-coil-identification-helper/ I understand 99% of you on the sub don't need this, but here is the context: As a beginner, I struggled to connect stepper motors to drivers. The wiring order varies between motors, and the wire colors don’t indicate how they are grouped. Once I understood that a 2-phase bipolar stepper simply consists of two wire pairs forming two coils, the problem became trivial: identify one pair, and the other is immediately known. At that point, you can already connect the motor to a driver such as a DRV8825 and get it running. I built this simple tool to internalize that concept—and to help other beginners get tinkering quickly without needing to read about steppers first. After doing this a few times, it becomes obvious how simple coil identification is, and the helper becomes unnecessary. You’ll need a multimeter with continuity tester.
-
-9h ago
-
----
-
-**["Follow Me" Mode: Real-time human tracking with YOLOv8](https://www.reddit.com/r/robotics/comments/1sac61n/follow_me_mode_realtime_human_tracking_with_yolov8/)**
-
-1d ago
+14h ago
 
 ---
 
@@ -112,13 +116,7 @@ https://xuanbuilds.github.io/stepper-coil-identification-helper/ I understand 99
 
 Anvil Robotics, an eight-month-old startup that aims to be the “Legos for robots,” has raised $5.5 million in a seed funding round, it tells Crunchbase News exclusively.
 
-news.crunchbase.com • 1d ago
-
----
-
-**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqdLyWl4kGL8BRLJCr9FVBdJgk21prXOhFutw13VZCu5alkdxN4rcqD8&gaa_ts=69cfce23&gaa_sig=8REyC7R09B85m-LxxSQaNVOG_p3pyyV-Y5RyIB6KRQKaR4mU8h1M_3ro3gXOM4kht2xI9tgM2klwfCLaF9qhDg%3D%3D)**
-
-WSJ • 12h ago
+Crunchbase News • 1d ago
 
 ---
 
@@ -136,9 +134,17 @@ Forbes • 1d ago
 
 ---
 
-**[Air-powered artificial muscles could help robots lift 100 times their weight](https://techxplore.com/news/2026-04-air-powered-artificial-muscles-robots.html)**
+**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqdLrLjc_Mkz3FEZOr3tsRSVczDuJf0CqMUrOg55OtPJJkpI4poJY6oY&gaa_ts=69cfe812&gaa_sig=SblqB-r7xXcZ-kz_iNW0JmoO2zX4QRphINlHc77lSBFyKarBaJjZGub1imHeWBrH0s228pvl7vKhth7fUgcOug%3D%3D)**
 
-Tech Xplore • 23h ago
+WSJ • 13h ago
+
+---
+
+**[Wi-Fi That Can Withstand a Nuclear Reactor](https://spectrum.ieee.org/robotics-in-nuclear-industry)**
+
+Six months in a nuclear reactor? This receiver chip can take it
+
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -150,11 +156,9 @@ NASA (.gov) • 1d ago
 
 ---
 
-**[Hyundai Motor Unveils "Next Starts Now" Campaign, Set to Showcase Robotics at FIFA World Cup 2026™](https://www.hyundai.com/worldwide/en/newsroom/detail/hyundai-motor-unveils-next-starts-now-campaign%252C-set-to-showcase-robotics-at-fifa-world-cup-2026%25E2%2584%25A2-0000001147)**
+**[Air-powered artificial muscles could help robots lift 100 times their weight](https://techxplore.com/news/2026-04-air-powered-artificial-muscles-robots.html)**
 
-Hyundai Motor Unveils "Next Starts Now" Campaign, Set to Showcase Robotics at FIFA World Cup 2026™
-
-Hyundai • 2d ago
+Tech Xplore • 1d ago
 
 ---
 
@@ -166,17 +170,19 @@ Supply Chain Dive • 2d ago
 
 ---
 
-**[Local Robotics Teams Raising Funds to Attend World Competition](https://www.newsdakota.com/2026/04/02/local-robotics-teams-raising-funds-to-attend-world-competition/)**
+**[Sanctuary AI’s robotic hand demonstrates zero-shot in-hand manipulation](https://www.therobotreport.com/sanctuary-ais-robotic-hand-demonstrates-zero-shot-in-hand-manipulation/)**
 
-VALLEY CITY, N.D. (NewsDakota.com) – Two local school districts are sending their robotics teams to the world competition. Valley City Jr/Sr High Coach- Joelle Manlove said Three Geniuses and the New Guy have been invited to compete
+Sanctuary AI said the robotic hand and AI system achieves the target orientation 10 times in a row without dropping the cube.
 
-News Dakota • 18h ago
+therobotreport.com • 21h ago
 
 ---
 
-**[Robots learn to ask humans for help](https://www.axios.com/2026/04/01/robots-delivery-serve-tmobile)**
+**[Hyundai Motor Unveils "Next Starts Now" Campaign, Set to Showcase Robotics at FIFA World Cup 2026™](https://www.hyundai.com/worldwide/en/newsroom/detail/hyundai-motor-unveils-next-starts-now-campaign%252C-set-to-showcase-robotics-at-fifa-world-cup-2026%25E2%2584%25A2-0000001147)**
 
-Axios • 1d ago
+Hyundai Motor Unveils "Next Starts Now" Campaign, Set to Showcase Robotics at FIFA World Cup 2026™
+
+Hyundai • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-03T15:09:16.191441+00:00'
+updated: '2026-04-03T16:02:50.103513+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 03, 2026 at 15:09 UTC  
+**Last Updated:** April 03, 2026 at 16:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** +2.6%  
-**30d:** -1.2%  
-**90d:** -35.0%  
-**1y:** +12.9%  
+**24h:** +0.2%  
+**7d:** +2.7%  
+**30d:** -1.1%  
+**90d:** -34.9%  
+**1y:** +13.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Quantum breakthrough papers, Aave v4, Aztec alpha
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-18/) • 3h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-18/) • 4h ago
 
 ---
 
@@ -88,7 +88,13 @@ Quantum breakthrough papers, Aave v4, Aztec alpha
 
 People ask this a lot and most answers are either too optimistic or outdated. Here's what actually works day to day. Direct crypto payments (limited but real) - A small number of merchants accept crypto directly via BitPay or CoinGate. Shows up at checkout alongside card/PayPal. Works in tech, gaming, VPN, some travel. Still niche. Crypto debit cards (most practical for daily use) - Platforms issue Visa/Mastercard cards linked to your crypto account. Spend anywhere that takes Visa, crypto converts to fiat at point of sale. Usually comes with some cashback in platform tokens. Works fine for everyday spending. Stablecoins for transfers - Sending money internationally or paying someone who accepts USDC/USDT is genuinely fast and cheap vs bank wire. More useful than people think for freelance/remote work. Gift cards via Bitrefill (underrated) - Buy gift cards from Amazon, Airbnb, Uber, Steam using crypto. Works everywhere those retailers are accepted. Not seamless but surprisingly broad coverage. Honest reality in 2026: most people still convert to fiat first. Crypto debit cards are the closest thing to seamless daily spending. Several platforms are building bank-integrated crypto cards - worth watching which ones actually ship. What's your setup for spending crypto day to day? Anyone found something that genuinely feels frictionless?
 
-4h ago
+5h ago
+
+---
+
+**[Is the "Quantum Apocalypse" coming early for ethereum?](https://www.reddit.com/r/ethereum/comments/1sbgp8o/is_the_quantum_apocalypse_coming_early_for/)**
+
+34m ago
 
 ---
 
@@ -104,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We recently recorded a PEEPanEIP session on EIP-7904, joined by Jacek Sieka and Maria Inês Oliveira. The conversation covers: Motivation behind the proposal Key design considerations Potential impact on the Ethereum ecosystem Open questions and areas for feedback The goal of PEEPanEIP is to make EIPs more accessible and easier to follow for the broader community - especially for those who may not be deep in the specs but want to stay informed. 🎥 Watch the full video https://youtu.be/CswFnsZTXmI Would love to hear thoughts from others following EIP-7904 or working in similar areas - feedback and perspectives welcome.
 
-23h ago
+1d ago
 
 ---
 
@@ -118,7 +124,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[A Prediction Market Bounty Mechanism - Using Markets as Self-Funding Bounties for High-Value Sales](https://www.reddit.com/r/ethereum/comments/1sarhn7/a_prediction_market_bounty_mechanism_using/)**
 
-🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2039788146133495879) • 19h ago
+🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2039788146133495879) • 20h ago
 
 ---
 
@@ -134,53 +140,23 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
-**[We cracked 3 of Vitalik's 2015 contracts - byte-for-byte source verification](https://www.reddit.com/r/ethereum/comments/1s9n8x7/we_cracked_3_of_vitaliks_2015_contracts/)**
-
-Two months after Ethereum mainnet launched, Vitalik deployed a 3-contract on-chain arbitration system written in Serpent. We just verified all three with exact bytecode matches. The contracts: ArbiterRegistry (0x82afa2c4, block 301,954 - Sep 28, 2015) Arbiters pay 1+ ETH to list themselves as dispute mediators. The fee decays 50% per month using a 3rd-order Taylor series approximation, so inactive arbiters fall in the rankings automatically. Hardcoded EF withdrawal address. Someone called register() again in 2024 - still works. Arbitration (0xe881af13, block 303,316 + 0x7e2d0fe0, block 318,029) Smart escrow with designated arbiters. Two parties create a contract, designate arbiters, and funds auto-transfer when >50% of arbiters vote. Both parties can also instantly surrender to the other side. Vitalik tested it from both his dev address and vitalik.eth. The forensics: The source Vitalik later committed to ethereum/dapp-bin had one line wrong vs what he actually deployed. The ArbiterNotification log had its indexed arguments in reversed order. He fixed the arg order in git after shipping. The chain preserved the original - we had to catch that divergence to get an exact match. How we verified it: Not decompilation. We compiled forward: found the source in ethereum/dapp-bin, identified the exact Serpent compiler commit used (e5a5f875, Sep 26 2015), compiled it, and compared output byte-for-byte against the on-chain code. Full docs + live contract interaction (ABIs published): - https://ethereumhistory.com/contract/0x82afa2c4a686af9344e929f9821f3e8c6e9293ab - https://ethereumhistory.com/contract/0xe881af13bf55c97562fe8d2da2f6ea8e3ff66f98 Verification repos: - https://github.com/cartoonitunes/arbiter-reg-verification - https://github.com/cartoonitunes/arbitration-verification EthereumHistory is a free archive - if you find this useful, you can support it at ethereumhistory.com/donate
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[Naoris Launches Post-Quantum Blockchain as Bitcoin, Ethereum Devs Scramble to Face Threat](https://decrypt.co/363207/naoris-launches-post-quantum-blockchain-bitcoin-ethereum)**
+**[Naoris Protocol's quantum-resistant blockchain goes live as Bitcoin and Ethereum face 'Q-Day' threats](https://www.coindesk.com/markets/2026/04/03/naoris-protocol-s-quantum-resistance-blockchain-goes-live-as-bitcoin-and-ethereum-face-q-day-threats)**
 
-Naoris Protocol says its blockchain network uses quantum-resistant cryptography, as the wider crypto industry prepares for future threats.
+Naoris debuts its quantum-resistant mainnet, which uses algorithms approved by the U.S. National Institute of Standards and Technology.
 
-Decrypt • 16h ago
-
----
-
-**[Google Warns Quantum Computers Could Break Bitcoin and Ethereum in 9 Minutes — Should You Be Worried?](https://www.ccn.com/education/crypto/google-quantum-computers-break-bitcoin-ethereum-9-minutes-1-7m-btc-risk/)**
-
-CCN.com • 3d ago
+CoinDesk • 6h ago
 
 ---
 
-**[Ethereum Foundation stakes another $93 million ether, reaching its 70,000 ETH target](https://www.coindesk.com/markets/2026/04/03/ethereum-foundation-stakes-another-usd93-million-ether-reaching-its-70-000-eth-target)**
+**[Ethereum Founder Vitalik Buterin Details His 'Private' and 'Secure' AI Setup](https://decrypt.co/363128/ethereu-founder-vitalik-buterin-details-private-secure-ai-setup)**
 
-The foundation deposited the bulk of its planned staking commitment in a single session, completing a program announced in February to turn dormant treasury holdings into a yield-generating position.
+Ethereum co-founder Vitalik Buterin detailed his local-first AI stack in a new blog post, including custom tools that rely on human approval.
 
-CoinDesk • 3h ago
-
----
-
-**[Ethereum’s Quiet Architect Takes the Crown — Why Vitalik Buterin Ranks #1 on CCN’s Top 101 for 2026](https://finance.yahoo.com/markets/crypto/articles/ethereum-quiet-architect-takes-crown-131337906.html)**
-
-Vitalik Buterin ranks #1 on CCN’s Top 101 for 2026 for reshaping Ethereum’s roadmap and maintaining influence without centralized control. His research-driven leadership and layer-2 ...
-
-Yahoo Finance • 1h ago
-
----
-
-**[“Vitalik, Do Something”: Ethereum Price Has Returned to $2,000 Twelve Times Since 2021](https://www.tradingview.com/news/coinpedia:454449806094b:0-vitalik-do-something-ethereum-price-has-returned-to-2-000-twelve-times-since-2021/)**
-
-ETH is trading at $2,055, down 58% from its August 2025 all-time high of $4,953, and sitting at a level that has become one of crypto’s most uncomfortable recurring storylines.Trader Ash Crypto and others captured the mood on X with a simple list: every time ETH has touched $2,000 since April 2021…
-
-TradingView • 4h ago
+Decrypt • 1d ago
 
 ---
 
@@ -188,15 +164,37 @@ TradingView • 4h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
-**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775165700)**
+**[Ethereum Foundation Reaches Target Of 70,000 Staked ETH](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-reaches-target-70-133900289.html)**
+
+The Ethereum Foundation has reached its goal of staking 70,000 Ethereum (CRYPTO: $ETH) tokens.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Analyst Predicts That Ethereum Price Is Headed For $10,000 Minimum](https://www.tradingview.com/news/newsbtc:a921a8ae5094b:0-analyst-predicts-that-ethereum-price-is-headed-for-10-000-minimum/)**
+
+A crypto analyst has made a bold projection, suggesting the Ethereum price could reach a staggering $10,000. According to him, this is the minimum level that ETH could read, underscoring his confidence in the cryptocurrency’s bullish outlook. The analyst has cited strong fundamental and technical i…
+
+TradingView • 32m ago
+
+---
+
+**[Ethereum’s Quiet Architect Takes the Crown — Why Vitalik Buterin Ranks #1 on CCN’s Top 101 for 2026](https://www.ccn.com/news/crypto/ethereum-vitalik-buterin-claims-rank-1-top-ccn-101-in-crypto-2026/)**
+
+CCN.com • 2h ago
+
+---
+
+**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775219700)**
 
 Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 1d ago
+polymarket.com • 6h ago
 
 ---
 
@@ -206,17 +204,17 @@ Morningstar • 1d ago
 
 ---
 
-**[Most large cryptocurrencies fall on Solana, Ethereum drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-solana-ethereum-drops-06702da9-e670e788b6b1?gaa_at=eafs&gaa_n=AWEtsqcNPH4O_8WlSNxG7FMt5r5olk1TCxGzRoLZ9ExY97pIMXd571ninJVa&gaa_ts=69cfce22&gaa_sig=Hd4ovpw9IPvouNE6ScGtRWmll2fu_XXgjU8_mPe-Esx2Cvius4Y0pmQmOPe12L6Lpn7KJ_Q4Z39TK06Gb1TLUA%3D%3D)**
+**[Most large cryptocurrencies fall on Solana, Ethereum drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-solana-ethereum-drops-06702da9-e670e788b6b1?gaa_at=eafs&gaa_n=AWEtsqcXVABUhwYCAUAjSnBUKpFsD1ocYY9fMUl0xvmvKQ4gsl3sJQDUlVZ7&gaa_ts=69cfe811&gaa_sig=Ph8eCfwfFgnAODW4d0UlMF8HKTuELu0B_RKVaF0a5AXr-YtxEaXwPxXjS-jEZssFdiut5AGAdXOqki6DawlFhA%3D%3D)**
 
 MarketWatch • 1d ago
 
 ---
 
-**[Why Ethereum is quietly becoming a key layer of Africa’s digital economy](https://africa.businessinsider.com/local/markets/why-ethereum-is-quietly-becoming-a-key-layer-of-africas-digital-economy/qrv474b)**
+**[Ethereum's stablecoin dominance declines to 65% as other chains gain ground: Dune and Visa report](https://thedefiant.io/news/blockchains/ethereum-stablecoin-dominance-decline-dune-visa-pav1xe)**
 
-#FeaturedPost
+Ethereum's dominance in non-USD stablecoin supply has shrunk to 65% as of February 2026, down from 90% in early 2023, according to data published by Dune and Visa on Thursday. Despite the decline, Ethereum remains the default chain for stablecoin issuance, though other blockchains are catching up in market share.
 
-Business Insider Africa • 3d ago
+thedefiant.io • 23h ago
 
 ---
 
@@ -230,7 +228,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 793 • 👍 65 • 💬 19 • ⏱️ 10:32 • 4h ago
+👁️ 793 • 👍 65 • 💬 19 • ⏱️ 10:32 • 5h ago
 
 ---
 
@@ -240,7 +238,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 6K • 👍 697 • 💬 50 • ⏱️ 4:25 • 5h ago
+👁️ 6K • 👍 697 • 💬 50 • ⏱️ 4:25 • 6h ago
 
 ---
 
@@ -260,7 +258,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 116 • 👍 8 • 💬 1 • ⏱️ 5:16 • 5h ago
+👁️ 116 • 👍 8 • 💬 1 • ⏱️ 5:16 • 6h ago
 
 ---
 
@@ -290,7 +288,7 @@ BITCOIN WARNING: Everyone is WRONG About This!!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 4K • 👍 173 • 💬 185 • ⏱️ 20:12 • 16h ago
+👁️ 4K • 👍 173 • 💬 185 • ⏱️ 20:12 • 17h ago
 
 ---
 
@@ -300,7 +298,7 @@ BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Start your trading j
 
 📺 Ashutosh Kumar
 
-👁️ 11K • 👍 1K • 3h ago
+👁️ 11K • 👍 1K • 4h ago
 
 ---
 
