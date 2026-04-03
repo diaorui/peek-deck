@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-03T18:01:11.330535+00:00'
+updated: '2026-04-03T19:12:06.921478+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 03, 2026 at 18:01 UTC  
+**Last Updated:** April 03, 2026 at 19:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,15 +36,13 @@ Robotics research and industry news
 
 Appreciate all the feedback and love on the recent videos, here's another clip of the dev process worth sharing. This one starts with an ugly moment, the right leg clips the edge and stumbles on a stair jump. Took a few days to track down the real issue. Turned out to be a mechanical transmission resistance in the hip joint, not a bug in the code. After the fix, clean landing. We're at around stable 30cm (~12")now. Sim does 40 or even higher, but 30 clears real stairs and that's what matters. (Getting to 30 in real life was harder than it sounds) Basic locomotion is getting solid, so next step: giving this little guy some eyes and ears, maybe. Legs first, then brains. sim2real is always humbling!
 
-6h ago
+7h ago
 
 ---
 
-**[RoboBaton mini and Raspberry Pi](https://www.reddit.com/r/robotics/comments/1sbdusb/robobaton_mini_and_raspberry_pi/)**
+**[Humanoid robots undergoing training](https://www.reddit.com/r/robotics/comments/1sbj504/humanoid_robots_undergoing_training/)**
 
-l find that RoboBaton mini is good to use. I was originally planning to use Intel's T265, but discovered it had been discontinued. I found RoboBaton Mini on myrobotproject's website. I successfully got it working with my Raspberry Pi. I will open-source the code on GitHub later. I hope everyone can connect with me to discuss and explore other use cases for the Mini.
-
-4h ago
+2h ago
 
 ---
 
@@ -52,7 +50,15 @@ l find that RoboBaton mini is good to use. I was originally planning to use Inte
 
 If human demonstration data proves to be the underlying factor that determines scaling laws in general-purpose robotics, the infrastructure that captures that data will determine how fast we get there. Despite all the research novelty in ChatGPT, its success at its core can be attributed to one foundational fact - the scaling law of transformers. Have transformers made their way into robotics and are we seeing similar scaling laws? The answer is yes. Recent studies showed task completion rates jumping from 30% to 70% when human demonstration data scaled from 1,000 to 20,000 hours — a log-linear trend that mirrors exactly what we saw in language and vision. Labs are racing to train generalist policies - a robot brain that can solve any task under any embodiment. But the library of physical interactions required to train these policies doesn’t exist yet. Solving this data bottleneck is one of the most important problems for the next few years. We’ve seen dozens of companies emerge in this space and noticed the same pattern repeat: every egocentric data company makes tradeoffs between quality, scale, and diversity. I have been working at FPV Labs on the principle that high-quality data is orders of magnitude more valuable than sheer volume. Self-driving cars collect thousands of hours per day, but only a small fraction is useful for training. Studies like RT-2 showed that as little as 1% of data improves task success by 25%. There’s clearly a power law in the downstream impact of data. We spent months obsessing over data quality - building our stack, discarding it, rebuilding it, and iterating until we found a formula that doesn’t compromise quality at scale and laying the infrastructure rails as we embark into this future. We are excited to be building what we think of is the infra layer for the internet archive of data for our robotic companions of the future. Happy to answer questions about our hardware, data methodology, or what we’ve learned so far. fpvlabs.ai
 
-1h ago
+2h ago
+
+---
+
+**[RoboBaton mini and Raspberry Pi](https://www.reddit.com/r/robotics/comments/1sbdusb/robobaton_mini_and_raspberry_pi/)**
+
+l find that RoboBaton mini is good to use. I was originally planning to use Intel's T265, but discovered it had been discontinued. I found RoboBaton Mini on myrobotproject's website. I successfully got it working with my Raspberry Pi. I will open-source the code on GitHub later. I hope everyone can connect with me to discuss and explore other use cases for the Mini.
+
+5h ago
 
 ---
 
@@ -72,13 +78,7 @@ If human demonstration data proves to be the underlying factor that determines s
 
 i need y'all to give me suggestions for the battery part im having two 6v n20 600rpm motors and also the battery is connected to the buck which powers the esp32 the sensors are powered from the esp32 3.3v all the things are working perfectly just the prblm im facing is o hVe 7.4v lipo battery but its too big and bulky for this size and makes it heavier too so can you suggest some batteries (rechargeable) 7.4v thats smaller and compact in size to fit on the upper part (where my thumb is placed)
 
-2h ago
-
----
-
-**[Humanoid robots undergoing training](https://www.reddit.com/r/robotics/comments/1sbj504/humanoid_robots_undergoing_training/)**
-
-1h ago
+3h ago
 
 ---
 
@@ -94,7 +94,7 @@ been working on this little desktop robot prototype called Kitto for a while now
 
 It will be very helpful for me if you did the survey as this is my graduation project i need to know what does the market need to start the project and i only have 2 months left so please help with your recommendations
 
-🔗 [Google Docs](https://forms.gle/4FJuhLhkqY8YZ8SKA) • 1h ago
+🔗 [Google Docs](https://forms.gle/4FJuhLhkqY8YZ8SKA) • 3h ago
 
 ---
 
@@ -102,7 +102,7 @@ It will be very helpful for me if you did the survey as this is my graduation pr
 
 Hi everyone, I'm an undergraduate who conducted an independent robotics project, and I am planning on submitting a 4-page write-up of my work to a workshop or small conference. Upon looking online, I am not sure where to find conferences to submit to; is there any venue that has options to submit short papers, and would a workshop (such as at IROS) be an applicable place for something like this? Thanks
 
-2h ago
+3h ago
 
 ---
 
@@ -114,7 +114,7 @@ Hi everyone, I'm an undergraduate who conducted an independent robotics project,
 
 Anvil Robotics, an eight-month-old startup that aims to be the “Legos for robots,” has raised $5.5 million in a seed funding round, it tells Crunchbase News exclusively.
 
-Crunchbase News • 1d ago
+news.crunchbase.com • 1d ago
 
 ---
 
@@ -126,17 +126,17 @@ MIT Technology Review • 2d ago
 
 ---
 
-**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqdNz08usScyqUXAI1MM9uo7IVnrX8N6BctLaFvqif9Wi3I4hpJzWthF&gaa_ts=69cff67b&gaa_sig=crjIgGqNLZu05zCoXhqz9V_Uytof4FwJSrl6vY-VJfgRu38LS9Jfg7wQvm_DJmOS9m2KC3AER54hfM-vGFDocA%3D%3D)**
+**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqdpbRk8r1tHt7Xrx6z4oyYsaRyhwRUKOZaPDNtJ-bPSg-cQEQUSGli_&gaa_ts=69d0146f&gaa_sig=b0mS3YDOgPyY9s5uy_ScFOcazbURo6EypqCZubfZEbxFEtWLNyynUYUkywPCD96jKPvP1Ez9GJ22FG_2_7V7FQ%3D%3D)**
 
-WSJ • 15h ago
+WSJ • 16h ago
 
 ---
 
-**[How Disney Imagineers are using AI and robotics to reshape the company’s theme parks](https://www.fastcompany.com/91519970/disney-imagineers-ai-and-robotics-paris-park)**
+**[Video Friday: Digit Learns to Dance—Virtually Overnight](https://spectrum.ieee.org/video-humanoid-dancing)**
 
-From robotic Olaf to reinforcement learning, the company is rethinking how its attractions come to life.
+Your weekly selection of awesome robot videos
 
-Fast Company • 1d ago
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -148,25 +148,9 @@ NASA (.gov) • 1d ago
 
 ---
 
-**[Wi-Fi That Can Withstand a Nuclear Reactor](https://spectrum.ieee.org/robotics-in-nuclear-industry)**
-
-Six months in a nuclear reactor? This receiver chip can take it
-
-IEEE Spectrum • 1d ago
-
----
-
 **[Air-powered artificial muscles could help robots lift 100 times their weight](https://techxplore.com/news/2026-04-air-powered-artificial-muscles-robots.html)**
 
 Tech Xplore • 1d ago
-
----
-
-**[South Burlington robotics team gearing up to compete in high-level regional competition](https://www.mynbc5.com/article/south-burlington-robotics-high-level-competition/70927937)**
-
-"It's just a nice opportunity to really connect with people who aren't in your state," said team co-captain Levi Duteau.
-
-WPTZ • 1h ago
 
 ---
 
@@ -178,11 +162,27 @@ Supply Chain Dive • 2d ago
 
 ---
 
+**[Local Robotics Teams Raising Funds to Attend World Competition](https://www.newsdakota.com/2026/04/02/local-robotics-teams-raising-funds-to-attend-world-competition/)**
+
+VALLEY CITY, N.D. (NewsDakota.com) – Two local school districts are sending their robotics teams to the world competition. Valley City Jr/Sr High Coach- Joelle Manlove said Three Geniuses and the New Guy have been invited to compete
+
+newsdakota.com • 23h ago
+
+---
+
 **[Hyundai Motor Unveils "Next Starts Now" Campaign, Set to Showcase Robotics at FIFA World Cup 2026™](https://www.hyundai.com/worldwide/en/newsroom/detail/hyundai-motor-unveils-next-starts-now-campaign%252C-set-to-showcase-robotics-at-fifa-world-cup-2026%25E2%2584%25A2-0000001147)**
 
 Hyundai Motor Unveils "Next Starts Now" Campaign, Set to Showcase Robotics at FIFA World Cup 2026™
 
-Hyundai • 2d ago
+hyundai.com • 2d ago
+
+---
+
+**[South Burlington robotics team gearing up to compete in high-level regional competition](https://www.mynbc5.com/article/south-burlington-robotics-high-level-competition/70927937)**
+
+"It's just a nice opportunity to really connect with people who aren't in your state," said team co-captain Levi Duteau.
+
+mynbc5.com • 3h ago
 
 ---
 
@@ -236,7 +236,7 @@ Imagine being trapped in a flood. A massive metal robot arrives to help... but i
 
 📺 BrainyFry
 
-👁️ 1K • 👍 23 • 💬 1 • ⏱️ 1:01 • 6h ago
+👁️ 1K • 👍 23 • 💬 1 • ⏱️ 1:01 • 8h ago
 
 ---
 
@@ -246,7 +246,7 @@ A new wave of attention is building around Nvidia as the company pushes further 
 
 📺 Carros Show
 
-👁️ 4K • 👍 62 • 💬 4 • ⏱️ 8:42 • 6d ago
+👁️ 4K • 👍 62 • 💬 4 • ⏱️ 8:42 • 7d ago
 
 ---
 
