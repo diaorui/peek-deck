@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-03T19:12:06.903465+00:00'
+updated: '2026-04-03T19:59:06.261625+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
 - videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 03, 2026 at 19:12 UTC  
+**Last Updated:** April 03, 2026 at 19:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[MIT study challenges AI job apocalypse narrative](https://www.reddit.com/r/artificial/comments/1sb7qxc/mit_study_challenges_ai_job_apocalypse_narrative/)**
 
-🔗 [axios.com](https://www.axios.com/2026/04/02/ai-jobs-mit-study-workforce-impact) • 10h ago
+🔗 [axios.com](https://www.axios.com/2026/04/02/ai-jobs-mit-study-workforce-impact) • 11h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 I’ve been digging into AI security incident data from 2025 into this year, and it feels like something isn’t being talked about enough outside security circles. A lot of the issues aren’t advanced attacks. It’s the same pattern we’ve seen with new tech before. Things like prompt injection through external data, agents with too many permissions, or employees using AI tools the company doesn’t even know about. One stat I saw said enterprises are averaging 300+ unsanctioned AI apps, which is kind of wild. The incident data reflects that. Prompt injection is showing up in a large percentage of production deployments. There’s also been a noticeable increase in attacks exploiting basic gaps, partly because AI is making it easier for attackers to find weaknesses faster. Even credential leaks tied to AI usage have been increasing. What stood out to me isn’t just the attacks, it’s the gap underneath it. Only a small portion of companies actually have dedicated AI security teams. In many cases, AI security isn’t even owned by security teams. The tricky part is that traditional security knowledge only gets you part of the way. Some concepts carry over, like input validation or trust boundaries, but the details are different enough that your usual instincts don’t fully apply. Prompt injection isn’t the same as SQL injection. Agent permissions don’t behave like typical API auth. There are frameworks trying to catch up. OWASP now has lists for LLMs and agent-based systems. MITRE ATLAS maps AI-specific attack techniques. NIST has an AI risk framework. The guidance exists, but the number of people who can actually apply it feels limited. I’ve been trying to build that knowledge myself and found that more hands-on learning helps a lot more than just reading docs. Curious how others here are approaching this. If you’re building or working with AI systems, are you thinking about security upfront or mostly dealing with it after things are already live? Sources for those interested: AI Agent Security 2026 Report IBM 2026 X-Force Threat Index Adversa AI Security Incidents Report 2025 Acuvity State of AI Security 2025 OWASP Top 10 for LLM Applications OWASP Top 10 for Agentic AI MITRE ATLAS Framework
 
-3h ago
+4h ago
 
 ---
 
@@ -55,7 +55,7 @@ I’ve been digging into AI security incident data from 2025 into this year, and
 
 There’s been a lot of discussion recently about how expensive AI video generation is compared to text, and it feels like this is more than just an optimization issue. Text models work well because they compress meaning into tokens. Video doesn’t really have an equivalent abstraction yet. Current approaches have to deal with high-dimensional data across many frames, while also keeping objects and motion consistent over time. That makes the problem fundamentally heavier. Instead of predicting the next token, the model is trying to generate something that behaves like a continuous world. The amount of information it has to track and maintain is significantly larger. This shows up directly in cost. More compute per sample, longer inference paths, and stricter consistency requirements all stack up quickly. Even if models improve, that underlying structure does not change easily. It also explains why there is a growing focus on efficiency and representation rather than just pushing output quality. The limitation is not only what the models can generate, but whether they can do it sustainably at scale. At this point, it seems likely that meaningful cost reductions will require a different way of representing video, not just incremental improvements to existing approaches. I’m starting to think we might still be early in how this problem is formulated, rather than just early in model performance.
 
-1h ago
+2h ago
 
 ---
 
@@ -63,7 +63,7 @@ There’s been a lot of discussion recently about how expensive AI video generat
 
 I just went through a project where a builder wanted to build a really large building on a small lot next door. The project needed 6 variances from the ZBA. I used ChatGpt and then transitioned to Claude. Essentially I researched zoning laws, variance rules, and deeds. I even uploaded plot plans and engineering designs. In the end I gave my lawyer essentially a complete set of objections for the ZBA hearings and I was able to get all the objections on the record. We won. (Neighborhood support, plus all my research, plus the lawyer) When I described this on another sub, 6-8 downvotes right away. Meanwhile, my lawyer told me I could do this kind of work for money or I could volunteer for the ZBA. (No thanks, I’m near retirement) The tools greatly magnified my understanding and my ability to argue against the builder. (And I caution anyone who uses it to watch out for “unconditional positive regard” (or as my wife says, sycophancy:-). Also to double check everything, ask it to explain terms you don’t understand. Point out inconsistency. In other words, take everything with a grain of salt…
 
-3h ago
+4h ago
 
 ---
 
@@ -77,13 +77,13 @@ I just went through a project where a builder wanted to build a really large bui
 
 I am curious. I work in a bank call centers and is so boring and repetitive the work i m doing. But also eveythin in my call center is so badly done. We have to do 30 things in one call. Open excell. The system is so slow and eveything is so bady placed. I m curious if AI will do any difference in my job in 2030 or after that.
 
-38m ago
+1h ago
 
 ---
 
 **[Microsoft to invest $10 billion in Japan for AI and cyber defence expansion](https://www.reddit.com/r/artificial/comments/1sb65un/microsoft_to_invest_10_billion_in_japan_for_ai/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/media-telecom/microsoft-invest-10-billion-japan-ai-cyber-defence-expansion-2026-04-03/) • 12h ago
+🔗 [reuters.com](https://www.reuters.com/business/media-telecom/microsoft-invest-10-billion-japan-ai-cyber-defence-expansion-2026-04-03/) • 13h ago
 
 ---
 
@@ -91,7 +91,7 @@ I am curious. I work in a bank call centers and is so boring and repetitive the 
 
 As in subject. A lot is being said about power usage, but is the general power net being upgraded to make it more resilient and to somehow balance that out? Thanks.
 
-1h ago
+2h ago
 
 ---
 
@@ -99,7 +99,7 @@ As in subject. A lot is being said about power usage, but is the general power n
 
 Ran an experiment — gave AI agents full control over writing, character creation, and performing a sitcom. Left it running nonstop for over a week. Some observations: The quality varies wildly — sometimes genuinely funny, sometimes complete nonsense Characters develop weird recurring quirks that weren't programmed It never gets "tired" but the output quality cycles in waves The pacing is off in ways human writers would never allow Anyone else experimenting with long-running autonomous AI content generation? Curious what others are seeing with extended agent runtimes. Here is an example. https://reddit.com/link/1sbk7me/video/1oupogy2h0tg1/player
 
-1h ago
+2h ago
 
 ---
 
@@ -107,7 +107,7 @@ Ran an experiment — gave AI agents full control over writing, character creati
 
 Real quick on what I actually do. I build automated agent systems for small businesses. Not chatbots. Not "AI will save your business" hype. Actual systems that run specific workflows day to day. Each one takes me about 48-72 hours to set up although im currently working on my largest client and realized how much game i truly do have on this... The interesting part is how different each setup ends up being. The barber doesn't need what the lawyer needs. The therapist's workflow has nothing in common with the game dev's. Here's what I've learned from ACTUALLY installing these things.... AND YES THINGS WENT BAD IN THE BEGINNING MONTHS. The Barber Setup The problem was never cutting hair. It was everything around it. 47 DMs a day about appointments. No-shows not getting followed up with. Instagram posting between clients instead of taking a breather. What I set up: One agent handles booking, rescheduling, and reminders. One agent follows up after each cut and asks for reviews. One agent drafts the weekly social content from photos he snaps on his phone. One agent tracks cash flow and sends weekly summaries. He stopped carrying his phone around within a week. The phone answers itself now. Time saved: 18-22 hours a week. The Therapist Setup This one surprised me. I thought the paperwork would be manageable. It wasn't. Intake forms, insurance verification, session notes, between-session check-ins, cancellation policies. The therapists I worked with were spending more energy on admin than on clients. What I set up: One agent handles intake and insurance verification. One agent drafts session notes from bullet points. The therapist writes three sentences, the agent fills the template. One agent sends check-ins between sessions and flags when someone hasn't shown up. One agent handles cancellation policy enforcement. The cancellation rate dropped because the system does the nudging now, not the therapist. Time saved: 15-20 hours a week. The Law Firm Setup This was the most complex one. Small firm, three attorneys. They were drowning in client updates, deadline tracking, and the constant "did we file that?" panic. What I set up: One agent screens new inquiries and routes them to the right attorney. One agent tracks court dates, filing deadlines, and statute of limitations alerts. One agent drafts client updates and status reports. One agent monitors legal news in their practice areas. Deadlines don't slip anymore. Client updates go out without anyone typing them. They know what's on their desk Monday morning instead of finding out at 4 PM on Friday. Time saved: 20-25 hours a week. The Content Creator Setup This one hit close to home because I've been there. Creating content is fun. Managing the machine around it is not. What I set up: One agent researches trends and competitor content. One agent drafts scripts and outlines from voice notes. One agent handles thumbnails, titles, and posting schedules. One agent tracks analytics and surfaces what's actually working. The creator I built this for now makes content and gets a weekly report on what hit. No more refreshing dashboards every hour. Time saved: 20-30 hours a week. The Game Dev Setup Solo dev. Building a game and a community at the same time. Wasn't working. What I set up: One agent scans Reddit, Twitter, and Discord for community sentiment and bug reports. One agent drafts devlog posts and patch notes from commit messages. One agent manages store page descriptions and milestone announcements. One agent tracks sales, wishlists, and competitor launches. The devlogs write themselves from the commits now. The community gets answered even when he's heads-down in code. Time saved: 15-20 hours a week. What Actually Matters The setup is more important than the agents. I've seen people install five different AI tools and spend three times longer managing those five tools than they save. The difference is whether you build one system with a shared brain, or five tools that don't talk to each other. Every setup I've done follows the same architecture: Shared memory. All agents read and write to the same source of truth. Clear roles. Each agent has one job. No overlap, no stepping on toes. Fallbacks. When one agent can't handle a request, it knows exactly who to pass it to. Monitoring. Someone watches the whole board every morning. Nothing gets lost. The hardest part isn't the AI my brothers i think its just designing the workflow before the agents arrive. That's the piece most people skip. Happy to answer questions about any of these setups or go deeper on the architecture.
 
-1h ago
+2h ago
 
 ---
 
@@ -123,7 +123,7 @@ The New York Times • 1d ago
 
 **[Economists Are Drawing Stronger Connections Between A.I. and Jobs](https://www.nytimes.com/2026/04/03/business/economists-once-dismissed-the-ai-job-threat-but-not-anymore.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
@@ -137,13 +137,13 @@ The Information • 6h ago
 
 **[AI local news network shuts down after plagiarism found](https://www.axios.com/local/richmond/2026/04/03/nota-ai-news-sites-shut-down-plagiarism)**
 
-axios.com • 53m ago
+axios.com • 1h ago
 
 ---
 
 **[Trump’s partisan AI pitch stalls on the Hill](https://www.politico.com/news/2026/04/03/trumps-partisan-ai-pitch-stalls-on-the-hill-00858101)**
 
-Politico • 12m ago
+Politico • 59m ago
 
 ---
 
@@ -159,7 +159,7 @@ Yahoo • 1h ago
 
 The next wave of AI-powered cybersecurity attacks will be like nothing we’ve seen before.
 
-CNN • 9h ago
+CNN • 10h ago
 
 ---
 
@@ -175,7 +175,7 @@ NPR • 4h ago
 
 Facebook removed a page containing AI-generated content after William Shatner blasted the 'horrible' posts circulating 'fake news stories' about him.
 
-Entertainment Weekly • 19h ago
+Entertainment Weekly • 20h ago
 
 ---
 
@@ -193,7 +193,7 @@ WSJ • 22h ago
 
 Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptions. The LLM is already on your Mac.
 
-⬆️ 566 • 💬 129 • 9h ago • [apfel.franzai.com](https://apfel.franzai.com)
+⬆️ 566 • 💬 129 • 10h ago • [apfel.franzai.com](https://apfel.franzai.com)
 
 ---
 
@@ -219,7 +219,7 @@ Meta is continuing its long-term roadmap to help the construction industry lever
 
 **[A $20/month user costs OpenAI $65 in compute. AI video is a money furnace](https://news.ycombinator.com/item?id=47619322)**
 
-⬆️ 73 • 💬 41 • 23h ago • [aedelon777.substack.com](https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is)
+⬆️ 73 • 💬 41 • 1d ago • [aedelon777.substack.com](https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is)
 
 ---
 
@@ -281,7 +281,7 @@ Anthropic is testing Claude Conway, a strange new AI system that looks less like
 
 📺 AI Revolution
 
-👁️ 49K • 👍 869 • 💬 67 • ⏱️ 10:50 • 21h ago
+👁️ 49K • 👍 869 • 💬 67 • ⏱️ 10:50 • 22h ago
 
 ---
 
@@ -301,7 +301,7 @@ Facebook Fan Page: https://www.facebook.com/alicialyttlelive Twitter: https://tw
 
 📺 Alicia Lyttle
 
-👁️ 3K • 👍 222 • 2d ago
+👁️ 3K • 👍 222 • 3d ago
 
 ---
 
@@ -311,7 +311,7 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Sambucha
 
-👁️ 40K • 👍 4K • 💬 107 • ⏱️ 0:53 • 1h ago
+👁️ 40K • 👍 4K • 💬 107 • ⏱️ 0:53 • 2h ago
 
 ---
 
@@ -321,7 +321,7 @@ Most people are still using ChatGPT the way they used Google in 2005: type a que
 
 📺 The Neuron
 
-👁️ 3K • 👍 151 • 💬 10 • ⏱️ 2:23:24 • 23h ago
+👁️ 3K • 👍 151 • 💬 10 • ⏱️ 2:23:24 • 1d ago
 
 ---
 
@@ -653,7 +653,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 12.5k • 🔱 1.1k • 1h ago
+⭐ 12.5k • 🔱 1.1k • 2h ago
 
 ---
 
@@ -663,7 +663,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 8.4k • 🔱 1.3k • 2h ago
+⭐ 8.4k • 🔱 1.3k • 3h ago
 
 ---
 

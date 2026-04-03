@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-03T19:12:06.918235+00:00'
+updated: '2026-04-03T19:59:06.276007+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - news
+- social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 03, 2026 at 19:12 UTC  
+**Last Updated:** April 03, 2026 at 19:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/ylRbyff4xKs) • 19m ago
+🔗 [youtu.be](https://youtu.be/ylRbyff4xKs) • 1h ago
 
 ---
 
@@ -88,7 +88,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Quantum breakthrough papers, Aave v4, Aztec alpha
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-18/) • 7h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-18/) • 8h ago
 
 ---
 
@@ -96,13 +96,13 @@ Quantum breakthrough papers, Aave v4, Aztec alpha
 
 People ask this a lot and most answers are either too optimistic or outdated. Here's what actually works day to day. Direct crypto payments (limited but real) - A small number of merchants accept crypto directly via BitPay or CoinGate. Shows up at checkout alongside card/PayPal. Works in tech, gaming, VPN, some travel. Still niche. Crypto debit cards (most practical for daily use) - Platforms issue Visa/Mastercard cards linked to your crypto account. Spend anywhere that takes Visa, crypto converts to fiat at point of sale. Usually comes with some cashback in platform tokens. Works fine for everyday spending. Stablecoins for transfers - Sending money internationally or paying someone who accepts USDC/USDT is genuinely fast and cheap vs bank wire. More useful than people think for freelance/remote work. Gift cards via Bitrefill (underrated) - Buy gift cards from Amazon, Airbnb, Uber, Steam using crypto. Works everywhere those retailers are accepted. Not seamless but surprisingly broad coverage. Honest reality in 2026: most people still convert to fiat first. Crypto debit cards are the closest thing to seamless daily spending. Several platforms are building bank-integrated crypto cards - worth watching which ones actually ship. What's your setup for spending crypto day to day? Anyone found something that genuinely feels frictionless?
 
-8h ago
+9h ago
 
 ---
 
 **[Is the "Quantum Apocalypse" coming early for ethereum?](https://www.reddit.com/r/ethereum/comments/1sbgp8o/is_the_quantum_apocalypse_coming_early_for/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -124,7 +124,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[A Prediction Market Bounty Mechanism - Using Markets as Self-Funding Bounties for High-Value Sales](https://www.reddit.com/r/ethereum/comments/1sarhn7/a_prediction_market_bounty_mechanism_using/)**
 
-🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2039788146133495879) • 23h ago
+🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2039788146133495879) • 1d ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 20h ago
 
 A crypto analyst has made a bold projection, suggesting the Ethereum price could reach a staggering $10,000. According to him, this is the minimum level that ETH could read, underscoring his confidence in the cryptocurrency’s bullish outlook. The analyst has cited strong fundamental and technical i…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
@@ -178,7 +178,7 @@ finance.yahoo.com • 1d ago
 
 **[Ethereum’s Quiet Architect Takes the Crown — Why Vitalik Buterin Ranks #1 on CCN’s Top 101 for 2026](https://www.ccn.com/news/crypto/ethereum-vitalik-buterin-claims-rank-1-top-ccn-101-in-crypto-2026/)**
 
-CCN.com • 5h ago
+CCN.com • 6h ago
 
 ---
 
@@ -226,7 +226,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 1K • 👍 86 • 💬 20 • ⏱️ 10:32 • 8h ago
+👁️ 1K • 👍 86 • 💬 20 • ⏱️ 10:32 • 9h ago
 
 ---
 
@@ -236,7 +236,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 9K • 👍 835 • 💬 52 • ⏱️ 4:25 • 9h ago
+👁️ 9K • 👍 835 • 💬 52 • ⏱️ 4:25 • 10h ago
 
 ---
 
@@ -256,7 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 175 • 👍 8 • 💬 1 • ⏱️ 5:16 • 9h ago
+👁️ 175 • 👍 8 • 💬 1 • ⏱️ 5:16 • 10h ago
 
 ---
 
@@ -276,7 +276,7 @@ This year's EthCC event in Cannes has fielded its first major announcement: the 
 
 📺 Paul Barron Network
 
-👁️ 34K • 👍 2K • 💬 85 • ⏱️ 13:00 • 2d ago
+👁️ 34K • 👍 2K • 💬 85 • ⏱️ 13:00 • 3d ago
 
 ---
 
@@ -286,7 +286,7 @@ BITCOIN WARNING: Everyone is WRONG About This!!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 5K • 👍 176 • 💬 202 • ⏱️ 20:12 • 20h ago
+👁️ 5K • 👍 176 • 💬 202 • ⏱️ 20:12 • 21h ago
 
 ---
 
@@ -296,7 +296,7 @@ Delta Exchange- https://india.delta.exchange/?code=JZYXDO XM account- https://af
 
 📺 Devansh Rai
 
-👁️ 5K • 👍 865 • 2h ago
+👁️ 5K • 👍 865 • 3h ago
 
 ---
 
