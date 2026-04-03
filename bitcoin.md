@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-03T22:35:27.161463+00:00'
+updated: '2026-04-03T23:35:04.434443+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 03, 2026 at 22:35 UTC  
+**Last Updated:** April 03, 2026 at 23:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1338.20B
+**Market Cap:** $1337.85B
 Rank #1
 
-**Circulating Supply:** 20,011,028 BTC
+**Circulating Supply:** 20,011,100 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--47.0%
+-46.9%
 
 **All-Time Low:** $67.81
-+98518.2%
++98540.3%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[My favorite part of the ride](https://www.reddit.com/r/Bitcoin/comments/1sbes4i/my_favorite_part_of_the_ride/)**
 
-8h ago
+9h ago
 
 ---
 
 **[We’re seeing that at the sovereign level,we’re seeing that across Wall Street and the retail investor outside the US continues to allocate.](https://www.reddit.com/r/Bitcoin/comments/1sbh9v5/were_seeing_that_at_the_sovereign_levelwere/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 With an increasing number of discussions around the BIP54 “Consensus Cleanup” soft fork proposal, I helped put together an information site about BIP54. “Bitcoin has four known vulnerabilities that have gone unfixed for 15 years. BIP54, "Consensus Cleanup", proposes four narrowly-scoped changes to address these issues in Bitcoin's consensus rules that date back to the original version of Bitcoin in 2009.” https://bip54.org/
 
-🔗 [bip54.org](https://bip54.org/) • 8h ago
+🔗 [bip54.org](https://bip54.org/) • 9h ago
 
 ---
 
@@ -101,7 +101,7 @@ With an increasing number of discussions around the BIP54 “Consensus Cleanup�
 
 Watching the price drop from $126K in October to the low $60s in February was both educational and frustrating. So I turned that energy into a research sprint: I built the Bitcoin Power Law Observatory, published 13 research papers, and created a suite of retirement planning tools. The result? I think I found Bitcoin's version of the 4% rule. And the math is almost absurd. The logic chain People need to save for the future. The best savings technology is the hardest money. Bitcoin is the hardest money ever created. Therefore people will save in bitcoin. Not everyone knows this yet. Old habits die hard. The power law (Santostasi, expanded by Krueger and Sigman in "Bitcoin One Million") is the best model for how this adoption unfolds. The core relationship: every time bitcoin ages 1.5x, the price goes roughly 10x. Not hype cycles. Compounding network adoption following the same laws we see in city growth, earthquake magnitude, and species evolution. The floor is the breakthrough The power law model shows a trend line with a corridor of possibilities around it. The ceiling is compressing: early cycles hit 10x trend, recent ones barely 2x. But the floor has never been breached. Since 2010, the lower boundary at about 0.43x the trend value has held through every crash, every panic, every obituary. It held when bitcoin crashed from 10x the trend. From 5x. From 3x. With upside volatility structurally compressing, the floor only gets stronger coming down from 2x or less. What does this floor look like in dollar terms? March 2026: $56,400. March 2027: $77,700. March 2028: $105,300. March 2029: $140,500. March 2030: $184,800. The floor value of 1 bitcoin will grow more than $21,000 over the next 12 months. And that dollar growth accelerates every year. That floor growth is your yield. Not interest. Not dividends. Structural adoption growth baked into the math. And it changes everything about retirement planning. The Bitcoin 4% rule The traditional 4% rule says you can withdraw 4% from an S&P portfolio annually without running out. The 4% buffer exists to handle sequence of returns risk: bad early years can permanently damage a retirement. Bitcoin needs a different system. Higher returns but far more volatility. A decelerating growth rate that demands dynamic withdrawals, not fixed percentages. So I based my framework on floor growth alone: If your stack x floor growth > your yearly expenses = financial freedom. This is the most conservative number the model produces. Bitcoin spends only a tiny fraction of its time near the floor. Everything above it is pure upside cushion. The math The floor currently grows at roughly 39% per year (this rate slowly decelerates over decades). At today's price of about $67,000, 5 BTC costs $335,000. Annual floor growth on 5 BTC: approximately $110,000. Under the traditional 4% rule, $100,000/year requires a $2,500,000 S&P portfolio. Same spending power. $335,000 versus $2,500,000. Over 7x more capital efficient. Using the worst case path the power law produces. Three tailwinds Once you cross the floor freedom line, three forces compound in your favor. Volatility decays: the price corridor compresses roughly 20% each halving cycle, so the "storm years" at the start of retirement expire. The floor keeps rising: your safety net grows every day. And your BTC-denominated expenses shrink: you need fewer sats each year to cover the same dollar amount. The risk is front-loaded and finite. I built a Monte Carlo simulator with 100,000 simulations based on 15 years of historical volatility data. The result: the floor-based approach survives the storm years and the margin of safety widens every year you hold. With 20 BTC, survival is 100% across all simulations at $3,000/month withdrawals. Even at 10 BTC, it is 72%. The three tailwinds working together make this more robust than the traditional 4% rule, which has a roughly 95% historical success rate over 30 years. The honest caveats The power law could break. 15 years is not 150 years. The floor growth rate decelerates over time. Black swan events outside model bounds are possible. This framework only works if the power law holds. Nothing is ever 100%. But consider this: bitcoin is currently trading at 1.19x the floor. Just 19% above the worst case. Historically that is an extremely cheap entry. Most of the time bitcoin sits at 2-3x the floor. The premium you pay today is recovered through less than one year of floor growth. Bottom line If you can buy 5 BTC today, you are building the functional equivalent of a $2.5 million traditional retirement portfolio. At a fraction of the cost. Backed not by a fixed percentage rule, but by the structural growth of the most robust boundary in the most predictive model in finance. And right now, bitcoin is trading at just 19% above that floor. The setup is almost too clean. The tools to verify all of this yourself are free. btcpowerlaw.nl for the research. satsplanner.app for the retirement calculator. What would you do with a $2.5 million portfolio?
 
-18h ago
+19h ago
 
 ---
 
@@ -109,7 +109,7 @@ Watching the price drop from $126K in October to the low $60s in February was bo
 
 I live in Offenburg Germany at the french boarder. I want to buy Crypto wihout KYC in Person with Cash in France or Germany but around my City. Any Ideas?
 
-3h ago
+4h ago
 
 ---
 
@@ -117,7 +117,7 @@ I live in Offenburg Germany at the french boarder. I want to buy Crypto wihout K
 
 An anonymous miner using CKPool’s solo service found block 943,411 earlier today. They received 3.139 BTC in rewards and transaction fees... about $210,000 at current prices. Solo wins like this have become pretty rare. Solo miners have only found around 20 blocks in the past year, even with network difficulty staying near all-time highs. Anyone still running a solo setup these days, or is it mostly pools now?
 
-12m ago
+1h ago
 
 ---
 
@@ -125,7 +125,7 @@ An anonymous miner using CKPool’s solo service found block 943,411 earlier tod
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/42vHnf3cikE) • 8h ago
+🔗 [youtu.be](https://youtu.be/42vHnf3cikE) • 9h ago
 
 ---
 
@@ -133,7 +133,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/MWz1jUU5HOw?si=LCio8gsCvoW52OwN) • 10h ago
+🔗 [youtu.be](https://youtu.be/MWz1jUU5HOw?si=LCio8gsCvoW52OwN) • 11h ago
 
 ---
 
@@ -141,7 +141,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/KZD6BotYpR4) • 53m ago
+🔗 [youtu.be](https://youtu.be/KZD6BotYpR4) • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-16h ago
+17h ago
 
 ---
 
@@ -161,7 +161,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Other major bitcoin miners have been selling their bitcoin holdings to fund their transition to focus on AI.
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Block • 13h ago
 
 The bank predicts new risks.
 
-thestreet.com • 20h ago
+thestreet.com • 21h ago
 
 ---
 
@@ -177,13 +177,13 @@ thestreet.com • 20h ago
 
 Financial giant Charles Schwab is set to launch spot buying of Bitcoin and Ethereum by the end of the quarter, the firm said Friday.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Stock futures and bitcoin slip, Treasury yields climb, as hot jobs report raises more questions about Fed rate cuts](https://www.marketwatch.com/story/stock-futures-and-bitcoin-slip-treasury-yields-climb-as-hot-jobs-report-raises-more-questions-about-fed-rate-cuts-921ff82f?gaa_at=eafs&gaa_n=AWEtsqcqGeINESaizUa6HO6yN3OEtuSX3XFHbnqOxqjb1xzTEuTMGXs9FPTj&gaa_ts=69d04414&gaa_sig=DFxiJR91PjsO0OZQ6hVPLiOYxoZ19B9ZRSlCsSf7cNTzPzxLEHxNQV-AuhluXg8XktCWEb1w6eAzRL8b7Don0A%3D%3D)**
 
-MarketWatch • 9h ago
+MarketWatch • 10h ago
 
 ---
 
@@ -197,7 +197,7 @@ Forbes • 1d ago
 
 NEAR Protocol (NEAR) gained 5.8% and Avalanche (AVAX) climbed 3.6%.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -211,7 +211,7 @@ Barron's • 1d ago
 
 Long-term Bitcoin holders are selling at a loss — and the numbers show it’s becoming a pattern, not an anomaly.US Buyers Stay On The SidelinesBitcoin’s Coinbase Premium Index has stayed negative in recent weeks, a sign that American investors have largely pulled back from the market.According to Cr…
 
-TradingView • 5h ago
+TradingView • 6h ago
 
 ---
 
@@ -225,7 +225,7 @@ WSJ • 3d ago
 
 Naoris debuts its quantum-resistant mainnet, which uses algorithms approved by the U.S. National Institute of Standards and Technology.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -237,7 +237,7 @@ CoinDesk • 13h ago
 
 Google Quantum AI: Quantum computer could break Bitcoin cryptography with under 500,000 qubits in nine minutes. This will likely only be possible in the 2030s.
 
-⬆️ 14 • 💬 4 • 4h ago • [heise online](https://www.heise.de/en/news/Quantum-computer-researchers-Bitcoin-encryption-breakable-in-a-few-years-11244911.html)
+⬆️ 14 • 💬 4 • 5h ago • [heise online](https://www.heise.de/en/news/Quantum-computer-researchers-Bitcoin-encryption-breakable-in-a-few-years-11244911.html)
 
 ---
 
@@ -261,13 +261,13 @@ Bitcoin needs to fix this in the next three years.
 
 April 03, 2026 - A new $100 million bond deal reveals exactly how traditional finance values BTC as collateral. The numbers are sobering, and the
 
-⬆️ 4 • 💬 2 • 6h ago • [Bitcoin, Altcoins, Crypto News & Financial Market News](https://catenaa.com/markets/cryptocurrencies/moodys-bitcoin-collateral-haircut/)
+⬆️ 4 • 💬 2 • 7h ago • [Bitcoin, Altcoins, Crypto News & Financial Market News](https://catenaa.com/markets/cryptocurrencies/moodys-bitcoin-collateral-haircut/)
 
 ---
 
 **[Strive, Tuttle File Leveraged Bitcoin ETF](https://news.ycombinator.com/item?id=47621293)**
 
-⬆️ 4 • 💬 0 • 23h ago • [catenaa.com](https://catenaa.com/markets/cryptocurrencies/strive-tuttle-file-leveraged-etf-tied-to-bitcoin-preferreds/)
+⬆️ 4 • 💬 0 • 1d ago • [catenaa.com](https://catenaa.com/markets/cryptocurrencies/strive-tuttle-file-leveraged-etf-tied-to-bitcoin-preferreds/)
 
 ---
 
@@ -287,7 +287,7 @@ April 03, 2026 - A new $100 million bond deal reveals exactly how traditional fi
 
 The first signing system where the private key is a physical key — and can still transact. Titanium. Not stored digitally. Not protected by firmware.
 
-⬆️ 2 • 💬 1 • 3d ago • [Frozen Security](https://frozensecurity.com/)
+⬆️ 2 • 💬 1 • 4d ago • [Frozen Security](https://frozensecurity.com/)
 
 ---
 
@@ -309,43 +309,13 @@ Test your prediction skills against historical data. Draw your forecast and see 
 
 ## YouTube Videos: "bitcoin"
 
-**[Why $80K Bitcoin Should Worry You [Gareth Soloway]](https://www.youtube.com/watch?v=SIRfxnfjSng)**
+**[Did Larry Fink’s Recession WARNING Signal the Next Bitcoin Bull Run?](https://www.youtube.com/watch?v=RDhwIqV0csw)**
 
-Alessandro sits down with Gareth Soloway to break down Bitcoin's next move as price eyes the $80K level. While the short-term ...
+Markets cracked, oil surged, Bitcoin dipped, and Larry Fink is warning that a prolonged geopolitical shock could push the world ...
 
-📺 Crypto Banter
+📺 Simply Bitcoin
 
-👁️ 12K • 👍 639 • 💬 28 • ⏱️ 32:29 • 12h ago
-
----
-
-**[PAY ATTENTION: Bitcoin Headed Lower? Banks Signal A Bigger Shift!](https://www.youtube.com/watch?v=EJXmKxgalkc)**
-
-Bitcoin #Crypto #Finance Bitcoin is facing pressure with growing calls for potential new lows as macro conditions tighten and ...
-
-📺 The Wolf Of All Streets
-
-👁️ 8K • 👍 722 • 💬 165 • ⏱️ 29:42 • 8h ago
-
----
-
-**[Bitcoin Fights To Hold This Crucial Level… What Happens Next?](https://www.youtube.com/watch?v=YXIwrjioXLg)**
-
-Bitcoin #Crypto #Finance Bitcoin is sitting at a critical level, and what happens next could shape the entire short-term market.
-
-📺 The Wolf Of All Streets
-
-👁️ 10K • 👍 445 • 💬 220 • ⏱️ 33:28 • 1d ago
-
----
-
-**[Bitcoin Has a Problem Nobody Wants to Admit](https://www.youtube.com/watch?v=phl3GCRC-g0)**
-
-Bitcoin has been around for 17 years. In that time it's been called digital gold, an inflation hedge, a decentralized currency, a store ...
-
-📺 OpTicBigTymeR
-
-👁️ 7K • 👍 442 • 💬 355 • ⏱️ 18:15 • 1d ago
+👁️ 3K • 👍 350 • 💬 54 • ⏱️ 14:11 • 2h ago
 
 ---
 
@@ -355,27 +325,17 @@ Trump speaks… and markets crash again! Bitcoin fell to $66K, and in just 25 mi
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 161 • ⏱️ 36:07 • 22h ago
+👁️ 17K • 👍 2K • 💬 166 • ⏱️ 36:07 • 23h ago
 
 ---
 
-**[Bitcoin Expert &quot;34k Is New Target&quot;](https://www.youtube.com/watch?v=ACuGjh2BSfk)**
+**[The Moment Bitcoin Gets Obvious Is When You&#39;re Too Late](https://www.youtube.com/watch?v=6i1lNY_14M0)**
 
-The crypto market is at a massive crossroads. While many were looking for a move back toward the highs, a leading Bitcoin expert ...
+Most people are waiting for Bitcoin to “do something.” That's the mistake. Because by the time price moves… the real opportunity ...
 
-📺 Discover Crypto
+📺 Tim Talks Finance
 
-👁️ 4K • 👍 292 • 💬 28 • ⏱️ 1:03:04 • 6h ago
-
----
-
-**[After a 50% Drop, Bitcoin Sends a Signal Wall Street Can’t Ignore](https://www.youtube.com/watch?v=tVqHgMvvEiE)**
-
-Bloomberg Intelligence's senior ETF analyst James Seyffart returns to break down everything happening in the ETF world right ...
-
-📺 Natalie Brunell
-
-👁️ 14K • 👍 580 • 💬 133 • ⏱️ 37:48 • 1d ago
+👁️ 1K • 👍 144 • 💬 23 • ⏱️ 12:07 • 5h ago
 
 ---
 
@@ -385,7 +345,7 @@ April will be a big month for crypto - ACT NOW! WEEX Poker Party is LIVE: https:
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 213 • ⏱️ 9:31 • 1d ago
+👁️ 38K • 👍 2K • 💬 217 • ⏱️ 9:31 • 1d ago
 
 ---
 
@@ -399,13 +359,51 @@ Quantum computers are being hyped as the end of Bitcoin. The same institutions p
 
 ---
 
+**[Bitcoin Has a Problem Nobody Wants to Admit](https://www.youtube.com/watch?v=phl3GCRC-g0)**
+
+Bitcoin has been around for 17 years. In that time it's been called digital gold, an inflation hedge, a decentralized currency, a store ...
+
+📺 OpTicBigTymeR
+
+👁️ 8K • 👍 456 • 💬 359 • ⏱️ 18:15 • 1d ago
+
+---
+
 **[Crypto Bull Run Has Started... but everyone&#39;s missing it!](https://www.youtube.com/watch?v=bDQgqJykRDc)**
 
 BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEEX Poker Party is LIVE ($30k Bonus): ...
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 328 • ⏱️ 10:45 • 2d ago
+👁️ 41K • 👍 2K • 💬 329 • ⏱️ 10:45 • 2d ago
+
+---
+
+**[BITCOIN IS ABOUT TO CRASH... HERE’S EXACTLY WHAT I’M DOING](https://www.youtube.com/watch?v=d0TWnKnVzu0)**
+
+DOMINATE THE BOTTOM UNLOCK HUGE BONUS VIDEO ⬇️ JOIN THE WAITLIST NOW ...
+
+📺 Crypto Crew University
+
+👁️ 31K • 👍 2K • 💬 143 • ⏱️ 5:18 • 2d ago
+
+---
+
+**[Is This The Last Bitcoin Cycle Normal People Will Be Able To Buy A Meaningful Amount Of Bitcoin?](https://www.youtube.com/watch?v=JCXx9QgviB4)**
+
+Bitcoin hits new ATH's (all time highs) every 4 years ish. Last cycle we hit $126k. This next cycle, who knows what we could hit!
+
+📺 The Bitcoin Broadcast - Vince HodlFlorida
+
+👁️ 822 • 👍 7 • ⏱️ 1:09 • 9h ago
+
+---
+
+**[The Bank That Never Launches ETFs Just Launched a Bitcoin ETF](https://www.youtube.com/watch?v=nZgF2K4AGLo)**
+
+📺 Natalie Brunell
+
+👁️ 367 • 👍 7 • 💬 65 • ⏱️ 0:46 • 1h ago
 
 ---
 

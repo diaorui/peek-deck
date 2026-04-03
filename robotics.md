@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-03T22:35:27.170482+00:00'
+updated: '2026-04-03T23:35:04.443654+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 03, 2026 at 22:35 UTC  
+**Last Updated:** April 03, 2026 at 23:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Appreciate all the feedback and love on the recent videos, here's another clip of the dev process worth sharing. This one starts with an ugly moment, the right leg clips the edge and stumbles on a stair jump. Took a few days to track down the real issue. Turned out to be a mechanical transmission resistance in the hip joint, not a bug in the code. After the fix, clean landing. We're at around stable 30cm (~12")now. Sim does 40 or even higher, but 30 clears real stairs and that's what matters. (Getting to 30 in real life was harder than it sounds) Basic locomotion is getting solid, so next step: giving this little guy some eyes and ears, maybe. Legs first, then brains. sim2real is always humbling!
 
-10h ago
+11h ago
 
 ---
 
 **[Humanoid robots undergoing training](https://www.reddit.com/r/robotics/comments/1sbj504/humanoid_robots_undergoing_training/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -50,7 +50,7 @@ Appreciate all the feedback and love on the recent videos, here's another clip o
 
 If human demonstration data proves to be the underlying factor that determines scaling laws in general-purpose robotics, the infrastructure that captures that data will determine how fast we get there. Despite all the research novelty in ChatGPT, its success at its core can be attributed to one foundational fact - the scaling law of transformers. Have transformers made their way into robotics and are we seeing similar scaling laws? The answer is yes. Recent studies showed task completion rates jumping from 30% to 70% when human demonstration data scaled from 1,000 to 20,000 hours — a log-linear trend that mirrors exactly what we saw in language and vision. Labs are racing to train generalist policies - a robot brain that can solve any task under any embodiment. But the library of physical interactions required to train these policies doesn’t exist yet. Solving this data bottleneck is one of the most important problems for the next few years. We’ve seen dozens of companies emerge in this space and noticed the same pattern repeat: every egocentric data company makes tradeoffs between quality, scale, and diversity. I have been working at FPV Labs on the principle that high-quality data is orders of magnitude more valuable than sheer volume. Self-driving cars collect thousands of hours per day, but only a small fraction is useful for training. Studies like RT-2 showed that as little as 1% of data improves task success by 25%. There’s clearly a power law in the downstream impact of data. We spent months obsessing over data quality - building our stack, discarding it, rebuilding it, and iterating until we found a formula that doesn’t compromise quality at scale and laying the infrastructure rails as we embark into this future. We are excited to be building what we think of is the infra layer for the internet archive of data for our robotic companions of the future. Happy to answer questions about our hardware, data methodology, or what we’ve learned so far. fpvlabs.ai
 
-6h ago
+7h ago
 
 ---
 
@@ -58,7 +58,7 @@ If human demonstration data proves to be the underlying factor that determines s
 
 l find that RoboBaton mini is good to use. I was originally planning to use Intel's T265, but discovered it had been discontinued. I found RoboBaton Mini on myrobotproject's website. I successfully got it working with my Raspberry Pi. I will open-source the code on GitHub later. I hope everyone can connect with me to discuss and explore other use cases for the Mini.
 
-8h ago
+9h ago
 
 ---
 
@@ -66,7 +66,7 @@ l find that RoboBaton mini is good to use. I was originally planning to use Inte
 
 Read all of the ROS news on Open Robotics Discourse. Picture is the Innate.bot MARS robot. They're running a hackathon at YCombinator next Saturday.
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ Read all of the ROS news on Open Robotics Discourse. Picture is the Innate.bot M
 
 i need y'all to give me suggestions for the battery part im having two 6v n20 600rpm motors and also the battery is connected to the buck which powers the esp32 the sensors are powered from the esp32 3.3v all the things are working perfectly just the prblm im facing is o hVe 7.4v lipo battery but its too big and bulky for this size and makes it heavier too so can you suggest some batteries (rechargeable) 7.4v thats smaller and compact in size to fit on the upper part (where my thumb is placed)
 
-6h ago
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ i need y'all to give me suggestions for the battery part im having two 6v n20 60
 
 Most people think building a robot is about hardware. It’s not. The real problem is the brain. I’ve been spending time working on neural networks for robotics things like vision, movement control, and terrain understanding. Trying to make them actually usable in real systems, not just something that works in theory. Recently I put together a Fiverr gig around this. mainly to start getting real projects and push myself further. If you’re curious how I approach it, you can check it out here Fiverr username: prageeth_ma I’m still growing this, so even just clicking the link helps more than you think. If you're building something or even thinking about it, I’d honestly like to hear about it. #robotics #machinelearning #artificialintelligence #engineering #fiverr
 
-1h ago
+2h ago
 
 ---
 
@@ -102,7 +102,7 @@ Most people think building a robot is about hardware. It’s not. The real probl
 
 It will be very helpful for me if you did the survey as this is my graduation project i need to know what does the market need to start the project and i only have 2 months left so please help with your recommendations
 
-🔗 [Google Docs](https://forms.gle/4FJuhLhkqY8YZ8SKA) • 6h ago
+🔗 [Google Docs](https://forms.gle/4FJuhLhkqY8YZ8SKA) • 7h ago
 
 ---
 
@@ -120,13 +120,13 @@ Crunchbase News • 1d ago
 
 **[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqfvmTUyy_iuKCC4xCsswoCJkVDCykjYNVNG48ueSZFe3lqR-iQMPU0T&gaa_ts=69d04417&gaa_sig=mfTCJkcL99TswU1yhQqeQ4-0GBGAkiPAZGbHATdk8TTX0dFAjTCR6z5GrooXFKlMAik9AHGD4EmdUtkUtm9l7g%3D%3D)**
 
-WSJ • 19h ago
+WSJ • 20h ago
 
 ---
 
 **[Chinese Robot Pioneer UBTech Offers $18 Million for AI Scientist](https://www.bloomberg.com/news/articles/2026-04-03/chinese-robot-pioneer-ubtech-offers-18-million-for-ai-scientist)**
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 19h ago
 
 ---
 
@@ -142,7 +142,7 @@ spectrum.ieee.org • 1d ago
 
 The podcast's guest this week is Chris Matthieu, VP of Developer Ecosystem for RealSense, looking to the future of 3D vision.
 
-The Robot Report • 2h ago
+The Robot Report • 3h ago
 
 ---
 
@@ -150,7 +150,7 @@ The Robot Report • 2h ago
 
 Maximo, a robotics startup incubated by energy company AES, has successfully deployed its solar panel installation robots at a site in California.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
@@ -192,7 +192,17 @@ Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In t
 
 📺 Shawn Ryan Show
 
-👁️ 753K • 👍 30K • 💬 5K • ⏱️ 8:48 • 2d ago
+👁️ 785K • 👍 31K • 💬 5K • ⏱️ 8:48 • 2d ago
+
+---
+
+**[I broke a robot in China](https://www.youtube.com/watch?v=7U3vjVfwChc)**
+
+China is leading the world in humanoid robot shipments. Powered by artificial intelligence, these machines are setting new ...
+
+📺 CGTN
+
+👁️ 29K • 👍 262 • 💬 41 • ⏱️ 1:54 • 1d ago
 
 ---
 
@@ -212,7 +222,7 @@ Shawn Ryan comes into direct contact with a humanoid robot and the CEO who wants
 
 📺 Aaron Page 
 
-👁️ 34K • 👍 1K • 💬 357 • ⏱️ 13:41 • 1d ago
+👁️ 37K • 👍 1K • 💬 369 • ⏱️ 13:41 • 1d ago
 
 ---
 
@@ -222,27 +232,17 @@ rumi #huntrix #kpop #kpopdemonhunters #shorts #celebrity #trend #makeup #mira #z
 
 📺 Faces of Culture
 
-👁️ 3.4M • 👍 8K • 💬 7 • ⏱️ 0:04 • 1d ago
+👁️ 3.5M • 👍 8K • 💬 7 • ⏱️ 0:04 • 1d ago
 
 ---
 
-**[The Floatable, Flyable Robot: GrowHR Explained! 🌊🚁 #RescueRobot  #robotics](https://www.youtube.com/watch?v=9JBZ7rTSYEA)**
+**[Olaf Robot Freezes up at Disneyland Paris and Falls Over](https://www.youtube.com/watch?v=QjgAZcS2wFI)**
 
-Imagine being trapped in a flood. A massive metal robot arrives to help... but it sinks instantly. ⚓️ Now, imagine a 10-pound, ...
+During a recent fan meet-and-greet at Disneyland Paris, Olaf the snowman froze up and took a tumble in front of shocked fans.
 
-📺 BrainyFry
+📺 TODAY
 
-👁️ 1K • 👍 23 • 💬 1 • ⏱️ 1:01 • 11h ago
-
----
-
-**[Shawn Ryan Gets a Real-Life Robot 😳](https://www.youtube.com/watch?v=fQdJb7YzDRc)**
-
-Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join Support the Shawn ...
-
-📺 Shawn Ryan Show
-
-👁️ 1.1M • 👍 17K • 💬 1K • ⏱️ 0:28 • 4d ago
+👁️ 9K • 👍 148 • 💬 23 • ⏱️ 1:20 • 1d ago
 
 ---
 
@@ -252,7 +252,7 @@ Ad: Check out PCBWay for all your project needs! Get $10 off orders over $30 wit
 
 📺 James Bruton
 
-👁️ 54K • 👍 4K • 💬 184 • ⏱️ 16:17 • 3d ago
+👁️ 55K • 👍 4K • 💬 184 • ⏱️ 16:17 • 3d ago
 
 ---
 
@@ -266,23 +266,23 @@ All titles are now streaming on @disneyplus ▻ SUBSCRIBE to the channel to get 
 
 ---
 
+**[Brett Adcock - Shawn Ryan’s First Interview with a Robot | SRS #292](https://www.youtube.com/watch?v=99pOdGEGu6s)**
+
+Brett Adcock is a technology entrepreneur focused on building companies in robotics, artificial intelligence, and aerospace.
+
+📺 Shawn Ryan Show
+
+👁️ 496K • 👍 10K • 💬 3K • ⏱️ 2:57:09 • 4d ago
+
+---
+
 **[War Robots Most Broken RAVANA Ever!](https://www.youtube.com/watch?v=t67ObSD1yp8)**
 
 War Robots Gameplay: Ravana with Kroko - absolutely OP! My War Robots Creator Link: https://wr.my.games/manni - Code: ...
 
 📺 Manni-Gaming
 
-👁️ 10K • 👍 482 • 💬 73 • ⏱️ 22:06 • 1d ago
-
----
-
-**[China is Building a Robotic Army 🤯](https://www.youtube.com/watch?v=yFoXe-FIK2M)**
-
-Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join Support the Shawn ...
-
-📺 Shawn Ryan Show
-
-👁️ 525K • 👍 11K • 💬 808 • ⏱️ 0:52 • 4d ago
+👁️ 11K • 👍 490 • 💬 73 • ⏱️ 22:06 • 1d ago
 
 ---
 

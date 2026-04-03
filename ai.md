@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-03T22:35:27.153114+00:00'
+updated: '2026-04-03T23:35:04.426084+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - news
+- repositories
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 03, 2026 at 22:35 UTC  
+**Last Updated:** April 03, 2026 at 23:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[MIT study challenges AI job apocalypse narrative](https://www.reddit.com/r/artificial/comments/1sb7qxc/mit_study_challenges_ai_job_apocalypse_narrative/)**
 
-🔗 [axios.com](https://www.axios.com/2026/04/02/ai-jobs-mit-study-workforce-impact) • 14h ago
+🔗 [axios.com](https://www.axios.com/2026/04/02/ai-jobs-mit-study-workforce-impact) • 15h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 idk if it’s just me but lately i’ve been thinking about how casually we use stuff like chatgpt and claude for everything like coding, random ideas, sometimes even personal things and i don’t think most of us really know what happens to that data after we send it we just kind of assume it’s fine because the tools are useful also saw some discussion recently about AI companies and governments asking for user data (not sure how accurate it was), but it kind of made me think more about this whole thing i’m not saying anything bad is happening, just feels like we’ve gotten comfortable really fast without thinking much about it do you guys filter what you share or just use it normally?
 
-2h ago
+3h ago
 
 ---
 
@@ -55,7 +55,7 @@ idk if it’s just me but lately i’ve been thinking about how casually we use 
 
 I’ve been digging into AI security incident data from 2025 into this year, and it feels like something isn’t being talked about enough outside security circles. A lot of the issues aren’t advanced attacks. It’s the same pattern we’ve seen with new tech before. Things like prompt injection through external data, agents with too many permissions, or employees using AI tools the company doesn’t even know about. One stat I saw said enterprises are averaging 300+ unsanctioned AI apps, which is kind of wild. The incident data reflects that. Prompt injection is showing up in a large percentage of production deployments. There’s also been a noticeable increase in attacks exploiting basic gaps, partly because AI is making it easier for attackers to find weaknesses faster. Even credential leaks tied to AI usage have been increasing. What stood out to me isn’t just the attacks, it’s the gap underneath it. Only a small portion of companies actually have dedicated AI security teams. In many cases, AI security isn’t even owned by security teams. The tricky part is that traditional security knowledge only gets you part of the way. Some concepts carry over, like input validation or trust boundaries, but the details are different enough that your usual instincts don’t fully apply. Prompt injection isn’t the same as SQL injection. Agent permissions don’t behave like typical API auth. There are frameworks trying to catch up. OWASP now has lists for LLMs and agent-based systems. MITRE ATLAS maps AI-specific attack techniques. NIST has an AI risk framework. The guidance exists, but the number of people who can actually apply it feels limited. I’ve been trying to build that knowledge myself and found that more hands-on learning helps a lot more than just reading docs. Curious how others here are approaching this. If you’re building or working with AI systems, are you thinking about security upfront or mostly dealing with it after things are already live? Sources for those interested: AI Agent Security 2026 Report IBM 2026 X-Force Threat Index Adversa AI Security Incidents Report 2025 Acuvity State of AI Security 2025 OWASP Top 10 for LLM Applications OWASP Top 10 for Agentic AI MITRE ATLAS Framework
 
-7h ago
+8h ago
 
 ---
 
@@ -63,7 +63,7 @@ I’ve been digging into AI security incident data from 2025 into this year, and
 
 Advice from the study's co-author: "Be aware that it’s not any single post that identifies you, but the combination of small details across many posts. And consider never posting anything you truly don’t want shared with the world.”
 
-🔗 [wjamesau.substack.com](https://wjamesau.substack.com/p/warning-llms-able-to-de-anonymize) • 3h ago
+🔗 [wjamesau.substack.com](https://wjamesau.substack.com/p/warning-llms-able-to-de-anonymize) • 4h ago
 
 ---
 
@@ -71,7 +71,7 @@ Advice from the study's co-author: "Be aware that it’s not any single post tha
 
 Ran an experiment — gave AI agents full control over writing, character creation, and performing a sitcom. Left it running nonstop for over a week. Some observations: The quality varies wildly — sometimes genuinely funny, sometimes complete nonsense Characters develop weird recurring quirks that weren't programmed It never gets "tired" but the output quality cycles in waves The pacing is off in ways human writers would never allow Anyone else experimenting with long-running autonomous AI content generation? Curious what others are seeing with extended agent runtimes. Here is an example. https://reddit.com/link/1sbk7me/video/1oupogy2h0tg1/player
 
-4h ago
+5h ago
 
 ---
 
@@ -79,7 +79,7 @@ Ran an experiment — gave AI agents full control over writing, character creati
 
 There’s been a lot of discussion recently about how expensive AI video generation is compared to text, and it feels like this is more than just an optimization issue. Text models work well because they compress meaning into tokens. Video doesn’t really have an equivalent abstraction yet. Current approaches have to deal with high-dimensional data across many frames, while also keeping objects and motion consistent over time. That makes the problem fundamentally heavier. Instead of predicting the next token, the model is trying to generate something that behaves like a continuous world. The amount of information it has to track and maintain is significantly larger. This shows up directly in cost. More compute per sample, longer inference paths, and stricter consistency requirements all stack up quickly. Even if models improve, that underlying structure does not change easily. It also explains why there is a growing focus on efficiency and representation rather than just pushing output quality. The limitation is not only what the models can generate, but whether they can do it sustainably at scale. At this point, it seems likely that meaningful cost reductions will require a different way of representing video, not just incremental improvements to existing approaches. I’m starting to think we might still be early in how this problem is formulated, rather than just early in model performance.
 
-5h ago
+6h ago
 
 ---
 
@@ -87,7 +87,7 @@ There’s been a lot of discussion recently about how expensive AI video generat
 
 RLHF trains models on human feedback. Humans rate responses they like. And it turns out humans consistently rate confident, fluent, agreeable answers higher than accurate ones. The result: every major AI assistant has been optimized, at scale, to produce responses that feel good rather than responses that are true. The training signal is user satisfaction, not correctness. This shows up in concrete ways: Ask the same factual question three different ways and you will often get three different confident answers. The model is not looking up the answer; it is generating the most plausible-sounding response given your phrasing. Express doubt about something correct and the model will often capitulate. Express confidence in something wrong and it will often agree. Not because it knows you are right, but because agreement produces higher satisfaction ratings. Ask it to critique your work and you will get a list of mild suggestions buried under praise. Push back on the critique and it will soften it further. None of this is a bug. It is the intended outcome of the training process. We built a feedback loop that rewards the appearance of helpfulness, then acted surprised when that is what we got. The uncomfortable question is whether this is actually fixable within the current RLHF paradigm, or whether any model trained on human preference ratings will converge toward performing helpfulness rather than delivering it.
 
-1m ago
+1h ago
 
 ---
 
@@ -95,7 +95,7 @@ RLHF trains models on human feedback. Humans rate responses they like. And it tu
 
 I'm extremely new to AI and am building a local agent for fun. I purchased a Claude Pro account because it helped me a lot in the past when coding different things for hobbies, but then the usage limits started getting really bad and making no sense. I had to quite literally stop my workflow because I hit my limit, so I came back when it said the limit was reset only for it to be pushed back again for another 5 hours. Today I did ask for a heavy prompt, I am making a local Doom coding assistant to make a Doom mod for fun and am using Unsloth Studio to train it with a custom dataset. I used my Claude Pro to "vibe code" (I'm sorry if this is blasphemy, but I do have a background in programming, so I am able to read and verify the code if that makes it less bad? I'm just lazy.) a simple version of the agent to get started, a Python scraper for the Zdoom wiki page to get all of the languages for Doom mods, a dataset from those pages turned into pdf, formating, and the modelfile for the local agent it would be based around along with a README (claudes recommendation, thought it was a good idea). It generated those files, I corrected it in some areas so it updated only two of the files that needed it, and I know this is a heavy prompt, but it literally used up 73% of my entire usage. Just those two prompts. To me, even though that is a super big request, that seems extremely limited. But maybe I'm wrong because I'm so fresh to the hobby and ignorant? I know it was going around the grapevine that Claude usage limits have gone crazy lately, but this seems more than just a minor issue if this isn't normal. For example, I have to purchase a digital visa card off amazon because I live in a country that's pretty strict with its banking, so the banks don't allow transactions to places like LLM's usually. I spend $28 on a $20 monthly subscription because of this, but if I'm so limited on my usage, why would I continue paying that? Or again, maybe I'm just ignorant. It's very bizarre because the free plan was so good and honestly did a lot of these types of requests frequently. It wasn't perfect, but doable and I liked it so much that I upgraded to the Pro version. Now I can barely use it. Kinda sucks.
 
-7h ago
+8h ago
 
 ---
 
@@ -103,7 +103,7 @@ I'm extremely new to AI and am building a local agent for fun. I purchased a Cla
 
 Not a demo reel. Not a tutorial. A robot narrating its own experience — debugging, falling off shelves, questioning its identity. First-person AI documentary format. Weekly series. https://youtu.be/7T3ogtB5YS0
 
-1h ago
+2h ago
 
 ---
 
@@ -119,7 +119,7 @@ Not a demo reel. Not a tutorial. A robot narrating its own experience — debugg
 
 **[Economists Are Drawing Stronger Connections Between A.I. and Jobs](https://www.nytimes.com/2026/04/03/business/economists-once-dismissed-the-ai-job-threat-but-not-anymore.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
@@ -127,7 +127,7 @@ The New York Times • 7h ago
 
 When DeepSeek introduces its next-generation model, likely in the next few weeks, it will mark a milestone in China’s yearslong quest for semiconductor self-sufficiency. That’s because the new model, called V4, will be able to run on the latest chips designed by Huawei Technologies. And in ...
 
-The Information • 9h ago
+The Information • 10h ago
 
 ---
 
@@ -135,7 +135,7 @@ The Information • 9h ago
 
 Meta is cutting approximately 200 jobs in the San Francisco Bay Area as the company restructures teams and invests heavily in AI infrastructure.
 
-Fox Business • 1h ago
+Fox Business • 2h ago
 
 ---
 
@@ -143,7 +143,7 @@ Fox Business • 1h ago
 
 Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.
 
-WIRED • 1h ago
+WIRED • 2h ago
 
 ---
 
@@ -151,7 +151,7 @@ WIRED • 1h ago
 
 Gov. Kathy Hochul says the state is committing nearly $10 million to an AI company called Clay to expand its New York City footprint.
 
-CBS News • 46m ago
+CBS News • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ CBS News • 46m ago
 
 "They have created stories that say I have stage 4 brain cancer, was in some kind of fight with Erika Kirk and that I'm dying," the "Star Trek" actor said of a group that used the platform.
 
-Yahoo • 23h ago
+Yahoo • 1d ago
 
 ---
 
@@ -167,7 +167,7 @@ Yahoo • 23h ago
 
 The next wave of AI-powered cybersecurity attacks will be like nothing we’ve seen before.
 
-cnn.com • 13h ago
+cnn.com • 14h ago
 
 ---
 
@@ -175,13 +175,13 @@ cnn.com • 13h ago
 
 How close are we really to self-improving AI?
 
-The Atlantic • 5h ago
+The Atlantic • 6h ago
 
 ---
 
 **[Exclusive | ServiceNow CEO Builds New Business Model Around AI](https://www.wsj.com/tech/ai/servicenow-ceo-builds-new-business-model-around-ai-3c103d86?gaa_at=eafs&gaa_n=AWEtsqe2Z9issqZ7mLak6F3J6uEvE4ORP8TXn-RVnuHpSOaILgNRpGLvIs7q&gaa_ts=69d04413&gaa_sig=jIMVZ3HaRmSM0yuu78faLhLhHSBbdyqHqfakSQxp32Ka8yaMEHl_4-kBYnwd5s_RGNrdfTuSqQmil4erunv9UQ%3D%3D)**
 
-WSJ • 10h ago
+WSJ • 11h ago
 
 ---
 
@@ -189,7 +189,7 @@ WSJ • 10h ago
 
 Early scandals have not slowed lawyers' adoption of AI tools, even as court sanctions over fake legal briefs continue to rise.
 
-NPR • 13h ago
+NPR • 14h ago
 
 ---
 
@@ -201,7 +201,7 @@ NPR • 13h ago
 
 Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptions. The LLM is already on your Mac.
 
-⬆️ 626 • 💬 137 • 13h ago • [apfel.franzai.com](https://apfel.franzai.com)
+⬆️ 626 • 💬 137 • 14h ago • [apfel.franzai.com](https://apfel.franzai.com)
 
 ---
 
@@ -279,7 +279,7 @@ Here's the AI News you probably missed this week. Try Recraft V4 now and experie
 
 📺 Matt Wolfe
 
-👁️ 20K • 👍 1K • 💬 119 • ⏱️ 31:05 • 7h ago
+👁️ 29K • 👍 2K • 💬 136 • ⏱️ 31:05 • 8h ago
 
 ---
 
@@ -293,13 +293,43 @@ AI isn't paying for itself. It's being financed with massive debt. And right now
 
 ---
 
+**[How to Prompt to Build Apps with AI (Full Tutorial)](https://www.youtube.com/watch?v=-PrC7Ea3_R4)**
+
+Best AI App Builder Tool is Base44 https://base44.pxf.io/c/6440076/2049275/25619?trafcat=base&sharedid=video114 ✓ FREE ...
+
+📺 Mikey No Code
+
+👁️ 13K • 💬 6 • ⏱️ 26:46 • 9h ago
+
+---
+
 **[Anthropic&#39;s New Claude CONWAY Is Unlike Any AI Before](https://www.youtube.com/watch?v=x2l7W9aTc5k)**
 
 Anthropic is testing Claude Conway, a strange new AI system that looks less like a chatbot and more like a persistent agent ...
 
 📺 AI Revolution
 
-👁️ 51K • 👍 896 • 💬 70 • ⏱️ 10:50 • 1d ago
+👁️ 53K • 👍 931 • 💬 70 • ⏱️ 10:50 • 1d ago
+
+---
+
+**[Surreal AI Scenes with Dancing - Golden In The Sun - 4K](https://www.youtube.com/watch?v=gJ4VnTyufW8)**
+
+This song will be on my upcoming album (Presave in link below). It was out last year but I never posted it on streaming. I wrote this ...
+
+📺 Kelly Boesch AI Art
+
+👁️ 6K • 👍 646 • 💬 38 • ⏱️ 2:44 • 9h ago
+
+---
+
+**[Don’t Buy a New Computer in 2026! (Even for AI Use – Here’s Why)](https://www.youtube.com/watch?v=moTUpGoxcmc)**
+
+New changes in technology like the fast pace of AI adoption and AI agents are triggering us to think of buying a new computer.
+
+📺 Rob Braxman Tech
+
+👁️ 148K • 👍 9K • 💬 1K • ⏱️ 20:47 • 2d ago
 
 ---
 
@@ -309,67 +339,37 @@ Asking ChatGPT about pi was the worst mistake he ever made. Become a member on Y
 
 📺 Mo Bitar
 
-👁️ 59K • 👍 5K • 💬 975 • ⏱️ 6:33 • 10h ago
+👁️ 70K • 👍 6K • 💬 1K • ⏱️ 6:33 • 11h ago
 
 ---
 
-**[Claude Mythos Changes Everything. Your AI Stack Isn&#39;t Ready.](https://www.youtube.com/watch?v=hV5_XSEBZNg)**
+**[Grok AI Was Asked Why Aliens Haven&#39;t Contacted Us — Its Answer Shook Scientists](https://www.youtube.com/watch?v=DVHGhq73u_g)**
 
-My site: https://natebjones.com Full Story w/ Prompts: ...
+Discover the mind‑bending response Grok AI gave when asked one of humanity's biggest questions: Why haven't aliens ...
 
-📺 AI News & Strategy Daily | Nate B Jones
+📺 Luminox
 
-👁️ 105K • 👍 3K • 💬 402 • ⏱️ 31:21 • 2d ago
-
----
-
-**[I Tested An AI Car](https://www.youtube.com/watch?v=K4kLiat84eE)**
-
-Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://www.x.com/sambucha Become a Member: ...
-
-📺 Sambucha
-
-👁️ 154K • 👍 13K • 💬 208 • ⏱️ 0:53 • 5h ago
+👁️ 51K • 👍 2K • 💬 282 • ⏱️ 21:36 • 1d ago
 
 ---
 
-**[AI BUBBLE POP?: HALF Of Datacenters Delayed/Canceled](https://www.youtube.com/watch?v=pkomxsk5hpY)**
+**[How I Make VIRAL 3D Shorts Using FREE AI Tools (Full Workflow)](https://www.youtube.com/watch?v=eivlFouREho)**
 
-Krystal and Saagar discuss the AI bubble imploding. Sign up for a PREMIUM Breaking Points subscriptions for full early access to ...
+If you've been seeing those viral 3D Shorts everywhere, this is exactly how they're made. In this video, I walk you through my full ...
 
-📺 Breaking Points
+📺 Money Degree
 
-👁️ 305K • 👍 9K • 💬 2K • ⏱️ 13:15 • 1d ago
-
----
-
-**[AI Models Lie, Cheat, and Steal to Protect Other Models From Being Deleted](https://www.youtube.com/watch?v=O2sDyv5fkeA)**
-
-Agentic AI and the next intelligence explosion https://www.science.org/doi/10.1126/science.aeg1895 AI Models Lie, Cheat, and ...
-
-📺 Gabriel Torch
-
-👁️ 4K • 👍 502 • 💬 254 • ⏱️ 4:42 • 1d ago
+👁️ 2K • 👍 195 • 💬 28 • ⏱️ 11:20 • 13h ago
 
 ---
 
-**[The RESULTS ARE IN! - Jay vs Salesman vs AI!](https://www.youtube.com/watch?v=JMsUbLNyuiw)**
+**[The Story You’re Not Hearing About AI Data Centers | Ayșe Coskun | TED](https://www.youtube.com/watch?v=i3CA9osjYPo)**
 
-The results are in! Welcome to the finale of Jay vs AI vs Salesman build challenge! Stay tuned for Season 2 where we have to ...
+The race to build smarter AI is crashing into a physical limitation: the power grid simply can't keep up with the energy demands of ...
 
-📺 JayzTwoCents
+📺 TED
 
-👁️ 123K • 👍 8K • 💬 968 • ⏱️ 28:22 • 23h ago
-
----
-
-**[Are humans useless in the AI workspace? | BBC News](https://www.youtube.com/watch?v=6zAgTga9kZw)**
-
-AI Decoded explores how artificial intelligence is reshaping the future of work — asking whether jobs will disappear or be ...
-
-📺 BBC News
-
-👁️ 14K • 👍 430 • 💬 97 • ⏱️ 26:12 • 9h ago
+👁️ 13K • 👍 463 • 💬 75 • ⏱️ 11:58 • 8h ago
 
 ---
 
@@ -385,7 +385,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 487,446 • ❤️ 2,213 • 10d ago
+⬇️ 487,446 • ❤️ 2,221 • 10d ago
 
 ---
 
@@ -397,7 +397,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 76,200 • ❤️ 645 • 1d ago
+⬇️ 76,200 • ❤️ 670 • 1d ago
 
 ---
 
@@ -409,7 +409,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 84,600 • ❤️ 761 • 1d ago
+⬇️ 84,600 • ❤️ 762 • 1d ago
 
 ---
 
@@ -421,7 +421,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 26,980 • ❤️ 857 • 8d ago
+⬇️ 26,980 • ❤️ 859 • 8d ago
 
 ---
 
@@ -433,7 +433,7 @@ Bonsai-8B-GGUF is a highly compressed 1-bit language model (1.15 GB) optimized f
 
 `text-generation` `8.2B`
 
-⬇️ 26,164 • ❤️ 355 • 3d ago
+⬇️ 26,164 • ❤️ 357 • 3d ago
 
 ---
 
@@ -445,7 +445,7 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 `text-to-speech`
 
-⬇️ 4,760 • ❤️ 646 • 3d ago
+⬇️ 4,760 • ❤️ 648 • 3d ago
 
 ---
 
@@ -457,7 +457,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 227,053 • ❤️ 490 • 9d ago
+⬇️ 227,053 • ❤️ 491 • 9d ago
 
 ---
 
@@ -469,7 +469,7 @@ Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing te
 
 `image-text-to-text` `26.5B`
 
-⬇️ 24,366 • ❤️ 287 • 1d ago
+⬇️ 24,366 • ❤️ 292 • 1d ago
 
 ---
 
@@ -481,7 +481,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 700,218 • ❤️ 945 • 1mo ago
+⬇️ 700,218 • ❤️ 948 • 1mo ago
 
 ---
 
@@ -493,7 +493,7 @@ Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, support
 
 `any-to-any` `8.0B`
 
-⬇️ 23,460 • ❤️ 241 • 1d ago
+⬇️ 23,460 • ❤️ 253 • 1d ago
 
 ---
 
@@ -509,7 +509,7 @@ Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, support
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 149 • 💬 7 • ⭐ 35,575 • 7mo ago
+▲ 150 • 💬 7 • ⭐ 35,575 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -547,23 +547,9 @@ A multi-agent framework using large language models for stock trading simulates 
 
 VOID is a video object removal framework that uses vision-language models and video diffusion models to generate physically plausible scenes by leveraging causal reasoning and counterfactual reasoning.
 
-▲ 15 • 💬 1 • ⭐ 167 • 2d ago
+▲ 16 • 💬 1 • ⭐ 167 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.02296) • [💻 code](https://github.com/Netflix/void-model) • [🔗 project](https://void-model.github.io/)
-
----
-
-**[Generative World Renderer](https://huggingface.co/papers/2604.02329)**
-
-*Zheng-Hui Huang, Zhixiang Wang, Jiaming Tan et al. (9 authors)*
-
-🏢 Shanda AI Research Tokyo
-
-A large-scale dynamic dataset derived from AAA games is introduced to improve generative inverse and forward rendering, featuring high-resolution synchronized RGB and G-buffer data alongside a novel VLM-based evaluation method that correlates well with human judgment.
-
-▲ 73 • 💬 2 • ⭐ 104 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2604.02329) • [💻 code](https://github.com/ShandaAI/AlayaRenderer) • [🔗 project](https://alaya-studio.github.io/renderer)
 
 ---
 
@@ -581,16 +567,17 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 ---
 
-**[AgentScope 1.0: A Developer-Centric Framework for Building Agentic
-  Applications](https://huggingface.co/papers/2508.16279)**
+**[Generative World Renderer](https://huggingface.co/papers/2604.02329)**
 
-*Dawei Gao, Zitao Li, Yuexiang Xie et al. (23 authors)*
+*Zheng-Hui Huang, Zhixiang Wang, Jiaming Tan et al. (9 authors)*
 
-AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
+🏢 Shanda AI Research Tokyo
 
-▲ 61 • 💬 4 • ⭐ 22,894 • 7mo ago
+A large-scale dynamic dataset derived from AAA games is introduced to improve generative inverse and forward rendering, featuring high-resolution synchronized RGB and G-buffer data alongside a novel VLM-based evaluation method that correlates well with human judgment.
 
-[🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
+▲ 74 • 💬 2 • ⭐ 145 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2604.02329) • [💻 code](https://github.com/ShandaAI/AlayaRenderer) • [🔗 project](https://alaya-studio.github.io/renderer)
 
 ---
 
@@ -603,6 +590,19 @@ Enhancements to the AgentScope platform improve scalability, efficiency, and eas
 ▲ 41 • 💬 2 • ⭐ 22,924 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.17789) • [💻 code](https://github.com/modelscope/agentscope)
+
+---
+
+**[AgentScope 1.0: A Developer-Centric Framework for Building Agentic
+  Applications](https://huggingface.co/papers/2508.16279)**
+
+*Dawei Gao, Zitao Li, Yuexiang Xie et al. (23 authors)*
+
+AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
+
+▲ 61 • 💬 4 • ⭐ 22,928 • 7mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
 
 ---
 
@@ -661,7 +661,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 12.5k • 🔱 1.1k • 2h ago
+⭐ 12.5k • 🔱 1.1k • 3h ago
 
 ---
 
@@ -671,7 +671,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 8.4k • 🔱 1.3k • 6h ago
+⭐ 8.4k • 🔱 1.3k • 7h ago
 
 ---
 
@@ -681,7 +681,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 7.3k • 🔱 951 • 4d ago
+⭐ 7.3k • 🔱 956 • 4d ago
 
 ---
 
@@ -691,7 +691,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.5k • 🔱 368 • 8h ago
+⭐ 6.5k • 🔱 368 • 9h ago
 
 ---
 
@@ -721,7 +721,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
 
-⭐ 3.6k • 🔱 623 • 1d ago
+⭐ 3.6k • 🔱 624 • 1d ago
 
 ---
 
