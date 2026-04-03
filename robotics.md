@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-03T06:12:26.670186+00:00'
+updated: '2026-04-03T07:44:33.253020+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 03, 2026 at 06:12 UTC  
+**Last Updated:** April 03, 2026 at 07:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Autonomous valet robot demonstrating precise self-parking in a real-world setting](https://www.reddit.com/r/robotics/comments/1san0l2/autonomous_valet_robot_demonstrating_precise/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Generalist | Introducing GEN-1](https://www.reddit.com/r/robotics/comments/1saoiaj/generalist_introducing_gen1/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 been working on this little desktop robot prototype called Kitto for a while now. honestly most of the hype right now is just cramming the biggest model possible into a plastic shell. but testing the interaction on this thing... if the timing is off it just feels like a glorified smart speaker. to make it actually feel 'alive' on a desk, the idle animations and the instant switch to a listening state carry like 90% of the weight. tbh we ended up spending way more time tuning the audio-to-viseme mapping for the face than we did tweaking the actual API prompts. current stack is just an esp32s3+esp32p4 (planning to migrate to a linux board soon so we can handle local processing and maybe hook into openclaw). the screen isnt playing pre-rendered video files btw. the mouth movements are code-driven in real-time by analyzing the audio stream. latency is still my biggest headache though. pinging the api, getting the TTS audio back, and triggering the animation states fast enough to not break the illusion is tough on this hardware. its getting there but still a lot of code to fix. definately not pitching this as finished hardware yet, mostly just looking for honest feedback on the HRI approach. curious how you guys are handling TTS latency in your own conversational builds right now?
 
-15h ago
+16h ago
 
 ---
 
@@ -56,7 +56,13 @@ been working on this little desktop robot prototype called Kitto for a while now
 
 Running 3 HC-SR04’s doing object detection and avoidance. Just getting my encoders working. Hoping to be mapping soon. Definitely a fun project.
 
-7h ago
+9h ago
+
+---
+
+**[Robotics Studio](https://www.reddit.com/r/robotics/comments/1sapdsp/robotics_studio/)**
+
+13h ago
 
 ---
 
@@ -64,13 +70,7 @@ Running 3 HC-SR04’s doing object detection and avoidance. Just getting my enco
 
 https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printed parts, motorized projector, home decoration, and DIY electronics -- if you know of anyone else that might be interested in this stuff, sharing to others would really help me out! Hope to see you around here or YouTube :)
 
-4h ago
-
----
-
-**[Robotics Studio](https://www.reddit.com/r/robotics/comments/1sapdsp/robotics_studio/)**
-
-11h ago
+6h ago
 
 ---
 
@@ -78,7 +78,7 @@ https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printe
 
 I noticed the series of upgrades Disneyland has made to its robots over the past two years. What are your thoughts on a theme park populated by robots? Feel free to share in the comments section!
 
-18m ago
+1h ago
 
 ---
 
@@ -86,7 +86,7 @@ I noticed the series of upgrades Disneyland has made to its robots over the past
 
 https://xuanbuilds.github.io/stepper-coil-identification-helper/ I understand 99% of you on the sub don't need this, but here is the context: As a beginner, I struggled to connect stepper motors to drivers. The wiring order varies between motors, and the wire colors don’t indicate how they are grouped. Once I understood that a 2-phase bipolar stepper simply consists of two wire pairs forming two coils, the problem became trivial: identify one pair, and the other is immediately known. At that point, you can already connect the motor to a driver such as a DRV8825 and get it running. I built this simple tool to internalize that concept—and to help other beginners get tinkering quickly without needing to read about steppers first. After doing this a few times, it becomes obvious how simple coil identification is, and the helper becomes unnecessary. You’ll need a multimeter with continuity tester.
 
-53m ago
+2h ago
 
 ---
 
@@ -94,13 +94,13 @@ https://xuanbuilds.github.io/stepper-coil-identification-helper/ I understand 99
 
 Please RSVP Here. ROS By-The-Bay is the Bay Area's only meetup exclusively for Robot Operating System (ROS) users! We're holding a special edition of ROS By-The-Bay with our friends at Beckhoff Automation. This event will be held at the Beckhoff Innovation space at: 2665 N First St Suite #310, San Jose, from 6-9pm on Thursday, April 16th. Our guest speakers and events for this meetup include: Vignesh Anand -- co-founder of Innate. Innate is a robotics startup and recent YC grad building the MARS mobile manipulation platform. They'll talk about their prototype development process and how they took their MARS platform from zero to one. Oscar Avatare -- co-founder of Saphira. Saphira is a recent YC grad that helps robotics companies address critical safety and cybersecurity documention requirements like ISO 26262. "This talk explores how robotics teams can move from simulation to real-world deployment while navigating safety standards such as HARA, FMEA, and emerging AI-focused frameworks. Using ROS 2-based systems and scenario-driven simulation, we’ll show how safety risks can be identified, structured, and traced to system behavior—and how AI-assisted workflows can support, rather than replace, engineering judgment in building certifiable robotic systems Pizza and beverages will be provided. Free parking will be available!
 
-5h ago
+7h ago
 
 ---
 
 **["Follow Me" Mode: Real-time human tracking with YOLOv8](https://www.reddit.com/r/robotics/comments/1sac61n/follow_me_mode_realtime_human_tracking_with_yolov8/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -112,13 +112,21 @@ Please RSVP Here. ROS By-The-Bay is the Bay Area's only meetup exclusively for R
 
 Anvil Robotics, an eight-month-old startup that aims to be the “Legos for robots,” has raised $5.5 million in a seed funding round, it tells Crunchbase News exclusively.
 
-Crunchbase News • 17h ago
+Crunchbase News • 18h ago
 
 ---
 
 **[Generalist Is Betting Its Robot-Training Gloves Will Usher In Robotics’ ChatGPT Moment](https://www.forbes.com/sites/annatong/2026/04/02/generalist-is-betting-its-robot-training-gloves-will-usher-in-robotics-chatgpt-moment/)**
 
-Forbes • 19h ago
+Forbes • 21h ago
+
+---
+
+**[NASA given demonstration of robotic space rock lab in Leicester](https://www.bbc.com/news/articles/c98mj46m2qvo)**
+
+A laboratory has been developed which can safely store and analyse samples from space.
+
+BBC • 1h ago
 
 ---
 
@@ -126,19 +134,21 @@ Forbes • 19h ago
 
 The architect of the DARPA Robotics Challenge explains how their brains have caught up
 
-IEEE Spectrum • 14h ago
+IEEE Spectrum • 16h ago
 
 ---
 
-**[Chinese Robot Pioneer UBTech Offers $18 Million for AI Scientist](https://www.bloomberg.com/news/articles/2026-04-03/chinese-robot-pioneer-ubtech-offers-18-million-for-ai-scientist)**
+**[The gig workers who are training humanoid robots at home](https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/)**
 
-bloomberg.com • 1h ago
+People in Nigeria and India are strapping iPhones onto their heads and recording themselves doing chores.
+
+MIT Technology Review • 1d ago
 
 ---
 
-**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqco5hsUDV2Z0y5He-rc2OPIBO43LTZ-XP_CWrWxrwctlgK4_N3GuVbr&gaa_ts=69cf5db6&gaa_sig=o-aRlpN99n0UBkBGZwuFL8jVFk3htz5nMb0NHemmlrnfcr5dTmxLBBhNSTvta-Mjtka1Y3rhW0c2AFTImYsKww%3D%3D)**
+**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqdEkh5yGOkF6R5I5aVIBqOM3gLT5dhAoyKmQdpBCD-EGxlOYvZDe88-&gaa_ts=69cf7349&gaa_sig=JHUk1irQDL8wqd8TSMiIIF33fFuKo3A92_hWRiA1FDt7uxi-Ne6c32defTZt96n2oRTJRgkyr9P320VQo1JFkg%3D%3D)**
 
-WSJ • 3h ago
+WSJ • 4h ago
 
 ---
 
@@ -146,7 +156,7 @@ WSJ • 3h ago
 
 Robotics training and human research were the primary duties for the Expedition 74 crew aboard the International Space Station on Wednesday. The orbital residents rounded out their shift with spacesuit work, cargo operations, and Earth observations.
 
-nasa.gov • 1d ago
+NASA (.gov) • 1d ago
 
 ---
 
@@ -172,12 +182,6 @@ Tech Xplore • 1d ago
 
 ---
 
-**[Robots learn to ask humans for help](https://www.axios.com/2026/04/01/robots-delivery-serve-tmobile)**
-
-Axios • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -188,17 +192,7 @@ Brett Adcock is a technology entrepreneur focused on building companies in robot
 
 📺 Shawn Ryan Show
 
-👁️ 479K • 👍 10K • 💬 3K • ⏱️ 2:57:09 • 3d ago
-
----
-
-**[I broke a robot in China](https://www.youtube.com/watch?v=7U3vjVfwChc)**
-
-China is leading the world in humanoid robot shipments. Powered by artificial intelligence, these machines are setting new ...
-
-📺 CGTN
-
-👁️ 20K • 👍 197 • 💬 29 • ⏱️ 1:54 • 1d ago
+👁️ 482K • 👍 10K • 💬 3K • ⏱️ 2:57:09 • 3d ago
 
 ---
 
@@ -208,17 +202,7 @@ Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking
 
 📺 The AI Nexus
 
-👁️ 4K • 👍 169 • 💬 12 • ⏱️ 20:43 • 2d ago
-
----
-
-**[War Robots Most Broken RAVANA Ever!](https://www.youtube.com/watch?v=t67ObSD1yp8)**
-
-War Robots Gameplay: Ravana with Kroko - absolutely OP! My War Robots Creator Link: https://wr.my.games/manni - Code: ...
-
-📺 Manni-Gaming
-
-👁️ 8K • 👍 392 • 💬 62 • ⏱️ 22:06 • 16h ago
+👁️ 4K • 👍 170 • 💬 12 • ⏱️ 20:43 • 2d ago
 
 ---
 
@@ -228,7 +212,7 @@ How do robots work on a cruise ship? In this episode of Engineering the Experien
 
 📺 Royal Caribbean
 
-👁️ 4K • 👍 150 • 💬 13 • ⏱️ 4:51 • 15h ago
+👁️ 4K • 👍 154 • 💬 14 • ⏱️ 4:51 • 16h ago
 
 ---
 
@@ -252,23 +236,33 @@ A new wave of attention is building around Nvidia as the company pushes further 
 
 ---
 
+**[War Robots Most Broken RAVANA Ever!](https://www.youtube.com/watch?v=t67ObSD1yp8)**
+
+War Robots Gameplay: Ravana with Kroko - absolutely OP! My War Robots Creator Link: https://wr.my.games/manni - Code: ...
+
+📺 Manni-Gaming
+
+👁️ 8K • 👍 410 • 💬 70 • ⏱️ 22:06 • 18h ago
+
+---
+
 **[Shawn Ryan Tests a Real Humanoid Robot](https://www.youtube.com/watch?v=HWq9cFhTvvQ)**
 
 Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In this clip, we break down how this robot sees, ...
 
 📺 Shawn Ryan Show
 
-👁️ 587K • 👍 24K • 💬 4K • ⏱️ 8:48 • 1d ago
+👁️ 616K • 👍 25K • 💬 4K • ⏱️ 8:48 • 1d ago
 
 ---
 
-**[Melania Trump unveils bizarre humanoid robot at White House #shorts](https://www.youtube.com/watch?v=VCFDeruodko)**
+**[Unitree Open‑Source: High‑Quality Real‑Robot Dataset for Humanoid Robots](https://www.youtube.com/watch?v=pN_bj5-QyW8)**
 
-Become a Member: https://www.davidpakman.com/membership Subscribe to our (FREE) Substack newsletter: ...
+Unitree open-sources UnifoLM-WBT-Dataset — a high-quality real-world humanoid robot whole-body teleoperation (WBT) ...
 
-📺 David Pakman Show
+📺 Unitree Robotics
 
-👁️ 110K • 👍 6K • 💬 779 • ⏱️ 2:37 • 5d ago
+👁️ 9.6M • 👍 607 • 💬 103 • ⏱️ 1:28 • 6d ago
 
 ---
 
@@ -279,6 +273,16 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCkouj
 📺 Shawn Ryan Show
 
 👁️ 1.1M • 👍 17K • 💬 1K • ⏱️ 0:28 • 3d ago
+
+---
+
+**[Robotics in the MCU!](https://www.youtube.com/watch?v=F6ILTk4HsHc)**
+
+All titles are now streaming on @disneyplus ▻ SUBSCRIBE to the channel to get notified when new Marvel videos are posted: ...
+
+📺 Marvel Entertainment
+
+👁️ 43K • 👍 3K • 💬 77 • ⏱️ 2:28 • 3d ago
 
 ---
 
