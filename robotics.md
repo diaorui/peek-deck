@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-03T21:35:00.861952+00:00'
+updated: '2026-04-03T22:35:27.170482+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 03, 2026 at 21:35 UTC  
+**Last Updated:** April 03, 2026 at 22:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Appreciate all the feedback and love on the recent videos, here's another clip of the dev process worth sharing. This one starts with an ugly moment, the right leg clips the edge and stumbles on a stair jump. Took a few days to track down the real issue. Turned out to be a mechanical transmission resistance in the hip joint, not a bug in the code. After the fix, clean landing. We're at around stable 30cm (~12")now. Sim does 40 or even higher, but 30 clears real stairs and that's what matters. (Getting to 30 in real life was harder than it sounds) Basic locomotion is getting solid, so next step: giving this little guy some eyes and ears, maybe. Legs first, then brains. sim2real is always humbling!
 
-9h ago
+10h ago
 
 ---
 
 **[Humanoid robots undergoing training](https://www.reddit.com/r/robotics/comments/1sbj504/humanoid_robots_undergoing_training/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -50,7 +50,7 @@ Appreciate all the feedback and love on the recent videos, here's another clip o
 
 If human demonstration data proves to be the underlying factor that determines scaling laws in general-purpose robotics, the infrastructure that captures that data will determine how fast we get there. Despite all the research novelty in ChatGPT, its success at its core can be attributed to one foundational fact - the scaling law of transformers. Have transformers made their way into robotics and are we seeing similar scaling laws? The answer is yes. Recent studies showed task completion rates jumping from 30% to 70% when human demonstration data scaled from 1,000 to 20,000 hours — a log-linear trend that mirrors exactly what we saw in language and vision. Labs are racing to train generalist policies - a robot brain that can solve any task under any embodiment. But the library of physical interactions required to train these policies doesn’t exist yet. Solving this data bottleneck is one of the most important problems for the next few years. We’ve seen dozens of companies emerge in this space and noticed the same pattern repeat: every egocentric data company makes tradeoffs between quality, scale, and diversity. I have been working at FPV Labs on the principle that high-quality data is orders of magnitude more valuable than sheer volume. Self-driving cars collect thousands of hours per day, but only a small fraction is useful for training. Studies like RT-2 showed that as little as 1% of data improves task success by 25%. There’s clearly a power law in the downstream impact of data. We spent months obsessing over data quality - building our stack, discarding it, rebuilding it, and iterating until we found a formula that doesn’t compromise quality at scale and laying the infrastructure rails as we embark into this future. We are excited to be building what we think of is the infra layer for the internet archive of data for our robotic companions of the future. Happy to answer questions about our hardware, data methodology, or what we’ve learned so far. fpvlabs.ai
 
-5h ago
+6h ago
 
 ---
 
@@ -58,7 +58,15 @@ If human demonstration data proves to be the underlying factor that determines s
 
 l find that RoboBaton mini is good to use. I was originally planning to use Intel's T265, but discovered it had been discontinued. I found RoboBaton Mini on myrobotproject's website. I successfully got it working with my Raspberry Pi. I will open-source the code on GitHub later. I hope everyone can connect with me to discuss and explore other use cases for the Mini.
 
-7h ago
+8h ago
+
+---
+
+**[ROS News for the Week of March 31st, 2026](https://www.reddit.com/r/robotics/comments/1sbnizu/ros_news_for_the_week_of_march_31st_2026/)**
+
+Read all of the ROS news on Open Robotics Discourse. Picture is the Innate.bot MARS robot. They're running a hackathon at YCombinator next Saturday.
+
+2h ago
 
 ---
 
@@ -72,15 +80,15 @@ l find that RoboBaton mini is good to use. I was originally planning to use Inte
 
 i need y'all to give me suggestions for the battery part im having two 6v n20 600rpm motors and also the battery is connected to the buck which powers the esp32 the sensors are powered from the esp32 3.3v all the things are working perfectly just the prblm im facing is o hVe 7.4v lipo battery but its too big and bulky for this size and makes it heavier too so can you suggest some batteries (rechargeable) 7.4v thats smaller and compact in size to fit on the upper part (where my thumb is placed)
 
-5h ago
+6h ago
 
 ---
 
-**[From Idea to Robot Brain - ML/NN Solutions That Work](https://www.reddit.com/r/robotics/comments/1sbpcf7/from_idea_to_robot_brain_mlnn_solutions_that_work/)**
+**[From Idea to Robot Brain - ML/NN Solutions That Work : prageeth_ma](https://www.reddit.com/r/robotics/comments/1sbprgy/from_idea_to_robot_brain_mlnn_solutions_that_work/)**
 
-Most people think building a robot is about hardware. It’s not. The real problem is the brain. I’ve been spending time working on neural networks for robotics things like vision, movement control, and terrain understanding. Trying to make them actually usable in real systems, not just something that works in theory. Recently I put together a Fiverr gig around this mainly to start getting real projects and push myself further. If you’re curious how I approach it, you can check it out here Fiverr username : prageeth_ma I’m still growing this, so even just clicking the link helps more than you think. If you're building something or even thinking about it, I’d honestly like to hear about it. robotics #machinelearning #artificialintelligence #engineering #fiverr
+Most people think building a robot is about hardware. It’s not. The real problem is the brain. I’ve been spending time working on neural networks for robotics things like vision, movement control, and terrain understanding. Trying to make them actually usable in real systems, not just something that works in theory. Recently I put together a Fiverr gig around this. mainly to start getting real projects and push myself further. If you’re curious how I approach it, you can check it out here Fiverr username: prageeth_ma I’m still growing this, so even just clicking the link helps more than you think. If you're building something or even thinking about it, I’d honestly like to hear about it. #robotics #machinelearning #artificialintelligence #engineering #fiverr
 
-47m ago
+1h ago
 
 ---
 
@@ -90,19 +98,11 @@ Most people think building a robot is about hardware. It’s not. The real probl
 
 ---
 
-**[ROS News for the Week of March 31st, 2026](https://www.reddit.com/r/robotics/comments/1sbnizu/ros_news_for_the_week_of_march_31st_2026/)**
+**[Robotic welding recommendation](https://www.reddit.com/r/robotics/comments/1sbhlve/robotic_welding_recommendation/)**
 
-Read all of the ROS news on Open Robotics Discourse. Picture is the Innate.bot MARS robot. They're running a hackathon at YCombinator next Saturday.
+It will be very helpful for me if you did the survey as this is my graduation project i need to know what does the market need to start the project and i only have 2 months left so please help with your recommendations
 
-1h ago
-
----
-
-**[building a desktop robot. turns out response timing and lip sync matter way more than the LLM itself for HRI.](https://www.reddit.com/r/robotics/comments/1sajyvt/building_a_desktop_robot_turns_out_response/)**
-
-been working on this little desktop robot prototype called Kitto for a while now. honestly most of the hype right now is just cramming the biggest model possible into a plastic shell. but testing the interaction on this thing... if the timing is off it just feels like a glorified smart speaker. to make it actually feel 'alive' on a desk, the idle animations and the instant switch to a listening state carry like 90% of the weight. tbh we ended up spending way more time tuning the audio-to-viseme mapping for the face than we did tweaking the actual API prompts. current stack is just an esp32s3+esp32p4 (planning to migrate to a linux board soon so we can handle local processing and maybe hook into openclaw). the screen isnt playing pre-rendered video files btw. the mouth movements are code-driven in real-time by analyzing the audio stream. latency is still my biggest headache though. pinging the api, getting the TTS audio back, and triggering the animation states fast enough to not break the illusion is tough on this hardware. its getting there but still a lot of code to fix. definately not pitching this as finished hardware yet, mostly just looking for honest feedback on the HRI approach. curious how you guys are handling TTS latency in your own conversational builds right now?
-
-1d ago
+🔗 [Google Docs](https://forms.gle/4FJuhLhkqY8YZ8SKA) • 6h ago
 
 ---
 
@@ -118,17 +118,15 @@ Crunchbase News • 1d ago
 
 ---
 
-**[The gig workers who are training humanoid robots at home](https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/)**
+**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqfvmTUyy_iuKCC4xCsswoCJkVDCykjYNVNG48ueSZFe3lqR-iQMPU0T&gaa_ts=69d04417&gaa_sig=mfTCJkcL99TswU1yhQqeQ4-0GBGAkiPAZGbHATdk8TTX0dFAjTCR6z5GrooXFKlMAik9AHGD4EmdUtkUtm9l7g%3D%3D)**
 
-People in Nigeria and India are strapping iPhones onto their heads and recording themselves doing chores.
-
-MIT Technology Review • 2d ago
+WSJ • 19h ago
 
 ---
 
-**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqeJ1KCTKKoENLXI4knpB4exiOwPRMgp5vMiUM2zoMCwP6REh43D8YY0&gaa_ts=69d02b22&gaa_sig=RfWAw2E4Imgy2dYQX_xSNpWt2ue1jm8DJmOoS5d2gew68HOF0qYh8rsZtnrc2gF_-XoW80CCS4CpNGzhVwCYhg%3D%3D)**
+**[Chinese Robot Pioneer UBTech Offers $18 Million for AI Scientist](https://www.bloomberg.com/news/articles/2026-04-03/chinese-robot-pioneer-ubtech-offers-18-million-for-ai-scientist)**
 
-WSJ • 18h ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -136,13 +134,21 @@ WSJ • 18h ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 1d ago
+spectrum.ieee.org • 1d ago
 
 ---
 
 **[The future of RealSense 3D vision with Chris Matthieu](https://www.therobotreport.com/the-future-of-realsense-3d-vision-with-chris-matthieu/)**
 
 The podcast's guest this week is Chris Matthieu, VP of Developer Ecosystem for RealSense, looking to the future of 3D vision.
+
+The Robot Report • 2h ago
+
+---
+
+**[AES Maximo robot installs 100 megawatts of solar capacity](https://www.therobotreport.com/aes-maximo-robot-installs-100-megawatts-of-solar-capacity/)**
+
+Maximo, a robotics startup incubated by energy company AES, has successfully deployed its solar panel installation robots at a site in California.
 
 The Robot Report • 1h ago
 
@@ -172,15 +178,7 @@ Forbes • 1d ago
 
 **[Air-powered artificial muscles could help robots lift 100 times their weight](https://techxplore.com/news/2026-04-air-powered-artificial-muscles-robots.html)**
 
-techxplore.com • 1d ago
-
----
-
-**[FedEx’s next AI leap to feature RFID, robotics](https://www.supplychaindive.com/news/fedex-ai-usage-rfid-robotics-network-2/816220/)**
-
-The carrier is scaling its use of physical assets powered by AI to strengthen network reliability and improve connectivity with shippers, a FedEx executive said.
-
-Supply Chain Dive • 2d ago
+Tech Xplore • 1d ago
 
 ---
 
@@ -204,7 +202,7 @@ Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking
 
 📺 The AI Nexus
 
-👁️ 4K • 👍 174 • 💬 13 • ⏱️ 20:43 • 2d ago
+👁️ 4K • 👍 174 • 💬 13 • ⏱️ 20:43 • 3d ago
 
 ---
 
@@ -234,7 +232,7 @@ Imagine being trapped in a flood. A massive metal robot arrives to help... but i
 
 📺 BrainyFry
 
-👁️ 1K • 👍 23 • 💬 1 • ⏱️ 1:01 • 10h ago
+👁️ 1K • 👍 23 • 💬 1 • ⏱️ 1:01 • 11h ago
 
 ---
 

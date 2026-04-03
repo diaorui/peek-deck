@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-03T21:35:00.858877+00:00'
+updated: '2026-04-03T22:35:27.167325+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 03, 2026 at 21:35 UTC  
+**Last Updated:** April 03, 2026 at 22:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,14 +36,14 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,066.60
+### $2,057.04
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** +3.0%  
+**24h:** -0.1%  
+**7d:** +2.9%  
 **30d:** -0.9%  
 **90d:** -34.7%  
 **1y:** +13.3%  
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,21 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/ylRbyff4xKs) • 2h ago
-
----
-
-**[They'd never heard of ETH. They described it anyway. I didn't discover Ethereum in a whitepaper. I recognised it. In lectures thirty years old. In voices I still hear.](https://www.reddit.com/r/ethereum/comments/1sbnqtg/theyd_never_heard_of_eth_they_described_it_anyway/)**
-
-1h ago
-
----
-
-**[Why are we still copy-pasting 40-character wallet addresses in 2026?](https://www.reddit.com/r/ethereum/comments/1sbne4y/why_are_we_still_copypasting_40character_wallet/)**
-
-Why are we still copy-pasting 40-character wallet addresses in 2026? Idea: you do a small test transfer once → both wallets get a shared avatar/character. Next time you send, you just recognize the person visually instead of relying on the address. Kind of like “pairing” wallets. Would this actually reduce mistakes or scams, or is this unnecessary given things like ENS?
-
-2h ago
+🔗 [youtu.be](https://youtu.be/ylRbyff4xKs) • 3h ago
 
 ---
 
@@ -102,7 +88,21 @@ Why are we still copy-pasting 40-character wallet addresses in 2026? Idea: you d
 
 Quantum breakthrough papers, Aave v4, Aztec alpha
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-18/) • 10h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-18/) • 11h ago
+
+---
+
+**[They'd never heard of ETH. They described it anyway. I didn't discover Ethereum in a whitepaper. I recognised it. In lectures thirty years old. In voices I still hear.](https://www.reddit.com/r/ethereum/comments/1sbnqtg/theyd_never_heard_of_eth_they_described_it_anyway/)**
+
+2h ago
+
+---
+
+**[Why are we still copy-pasting 40-character wallet addresses in 2026?](https://www.reddit.com/r/ethereum/comments/1sbne4y/why_are_we_still_copypasting_40character_wallet/)**
+
+Why are we still copy-pasting 40-character wallet addresses in 2026? Idea: you do a small test transfer once → both wallets get a shared avatar/character. Next time you send, you just recognize the person visually instead of relying on the address. Kind of like “pairing” wallets. Would this actually reduce mistakes or scams, or is this unnecessary given things like ENS?
+
+3h ago
 
 ---
 
@@ -110,7 +110,7 @@ Quantum breakthrough papers, Aave v4, Aztec alpha
 
 People ask this a lot and most answers are either too optimistic or outdated. Here's what actually works day to day. Direct crypto payments (limited but real) - A small number of merchants accept crypto directly via BitPay or CoinGate. Shows up at checkout alongside card/PayPal. Works in tech, gaming, VPN, some travel. Still niche. Crypto debit cards (most practical for daily use) - Platforms issue Visa/Mastercard cards linked to your crypto account. Spend anywhere that takes Visa, crypto converts to fiat at point of sale. Usually comes with some cashback in platform tokens. Works fine for everyday spending. Stablecoins for transfers - Sending money internationally or paying someone who accepts USDC/USDT is genuinely fast and cheap vs bank wire. More useful than people think for freelance/remote work. Gift cards via Bitrefill (underrated) - Buy gift cards from Amazon, Airbnb, Uber, Steam using crypto. Works everywhere those retailers are accepted. Not seamless but surprisingly broad coverage. Honest reality in 2026: most people still convert to fiat first. Crypto debit cards are the closest thing to seamless daily spending. Several platforms are building bank-integrated crypto cards - worth watching which ones actually ship. What's your setup for spending crypto day to day? Anyone found something that genuinely feels frictionless?
 
-11h ago
+12h ago
 
 ---
 
@@ -118,13 +118,13 @@ People ask this a lot and most answers are either too optimistic or outdated. He
 
 🪙 Jean-Baptiste Say & Irving Fisher — MV = PQ On ETH: M is circulating supply. Q is real on-chain activity — DeFi, RWA, asset settlement. And V — velocity — grows with every new protocol, every L2, every tokenised bond. When V and Q rise, P follows. Accounting identity. Not speculation. "Measure the velocity." 🎯 Jacques Lemoine — the cybernetician Aim where it will be, not where it is. ETH is becoming the global settlement layer for real assets. The feedback loop is already running: more tokenised assets → more velocity → stronger price signal → more institutional adoption. Self-regulating system. It stabilises through use. 🔍Israel Kirzner — entrepreneurial disequilibrium The entrepreneur sees the opportunity before the price does. ETH is the settlement infrastructure of the next financial decade — still priced like a speculative niche asset. That's the gap. ⚖️ Gary Becker — rational behaviour, full stop The staker locking ETH isn't a believer. He's calculating. The validator securing the network isn't an activist. He's optimising yield under lock-in constraints. ETH isn't a movement. It's an incentive mechanism. "Check that incentives are aligned. If they are, the rest follows." They are. ⚡ Joseph Schumpeter — creative destruction SWIFT, correspondent banking, clearing houses — a century of institutional architecture. ETH doesn't improve them. It makes them unnecessary. "Implementation of innovations is difficult." I wrote that in 1994. I'm watching it in 2026. They'd never heard of Ethereum. They described it anyway. ⚛️ Crafted by Lacydon One™ · Forged by Claude AI™ · Contrarian analysis by LeChat™ ⚛️
 
-1h ago
+2h ago
 
 ---
 
 **[Is the "Quantum Apocalypse" coming early for ethereum?](https://www.reddit.com/r/ethereum/comments/1sbgp8o/is_the_quantum_apocalypse_coming_early_for/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -148,11 +148,11 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "ethereum"
 
-**[Ethereum Foundation stakes $93 million of ether in a day, reaching its 70,000 ETH target](https://www.coindesk.com/markets/2026/04/03/ethereum-foundation-stakes-another-usd93-million-ether-reaching-its-70-000-eth-target)**
+**[Ethereum Foundation stakes another $93 million ether, reaching its 70,000 ETH target](https://www.coindesk.com/markets/2026/04/03/ethereum-foundation-stakes-another-usd93-million-ether-reaching-its-70-000-eth-target)**
 
 The foundation deposited the bulk of its planned staking commitment in a single session, completing a program announced in February to turn dormant treasury holdings into a yield-generating position.
 
-coindesk.com • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -160,15 +160,23 @@ coindesk.com • 9h ago
 
 Naoris Protocol says its blockchain network uses quantum-resistant cryptography, as the wider crypto industry prepares for future threats.
 
-Decrypt • 22h ago
+Decrypt • 23h ago
 
 ---
 
-**[Bitcoin and ethereum price today, Friday, April 3, 2026: Prices are mixed as traders weigh long-term outlook](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-friday-april-3-2026-prices-are-mixed-as-traders-weigh-long-term-outlook-120045802.html)**
+**[Charles Schwab Is Gearing Up to Offer Bitcoin, Ethereum Spot Trading](https://finance.yahoo.com/markets/crypto/articles/charles-schwab-gearing-offer-bitcoin-211155433.html)**
 
-Bitcoin dipped while ethereum gained Friday morning after losing ground following President Trump’s prime-time address. Traders are questioning long-term outlooks.
+Financial giant Charles Schwab is set to launch spot buying of Bitcoin and Ethereum by the end of the quarter, the firm said Friday.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Ethereum Foundation nearly reaches 70,000 staked ETH goal](https://www.tradingview.com/news/cointelegraph:8da96e7fb094b:0-ethereum-foundation-nearly-reaches-70-000-staked-eth-goal/)**
+
+The Ethereum Foundation (EF), the non-profit organization that steers development of the Ethereum ecosystem, staked over 45,000 Ether (ETH) on Friday, bringing the total amount staked to about 69,500 ETH, less than 500 coins shy of the Foundation’s 70,000 goal.The EF staked the coins in a series of…
+
+TradingView • 1h ago
 
 ---
 
@@ -176,29 +184,21 @@ Yahoo Finance • 10h ago
 
 The foundation’s latest staking allocation mirrors its biggest-ever single-day move and is a major step-up from its initial February deployment.
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
-**[Analyst Predicts That Ethereum Price Is Headed For $10,000 Minimum](https://www.tradingview.com/news/newsbtc:a921a8ae5094b:0-analyst-predicts-that-ethereum-price-is-headed-for-10-000-minimum/)**
+**[Current price of Ethereum for April 3, 2026](https://fortune.com/article/price-of-ethereum-04-03-2026/)**
 
-A crypto analyst has made a bold projection, suggesting the Ethereum price could reach a staggering $10,000. According to him, this is the minimum level that ETH could read, underscoring his confidence in the cryptocurrency’s bullish outlook. The analyst has cited strong fundamental and technical i…
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-TradingView • 6h ago
+Fortune • 9h ago
 
 ---
 
 **[Ethereum’s Quiet Architect Takes the Crown — Why Vitalik Buterin Ranks #1 on CCN’s Top 101 for 2026](https://www.ccn.com/news/crypto/ethereum-vitalik-buterin-claims-rank-1-top-ccn-101-in-crypto-2026/)**
 
-CCN.com • 8h ago
-
----
-
-**[$12 trillion Charles Schwab expected to debut spot Bitcoin, Ethereum trading this quarter](https://cryptobriefing.com/schwab-crypto-launch-bitcoin-ethereum-trading-account/)**
-
-Charles Schwab is set to launch Schwab Crypto for direct Bitcoin and Ethereum trading, marking a shift from indirect crypto exposure.
-
-Crypto Briefing • 4h ago
+CCN.com • 9h ago
 
 ---
 
@@ -208,17 +208,17 @@ Morningstar • 1d ago
 
 ---
 
-**[Most large cryptocurrencies fall on Solana, Ethereum drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-solana-ethereum-drops-06702da9-e670e788b6b1?gaa_at=eafs&gaa_n=AWEtsqf3vpOHk6x4qfS0o8KJSuz57e2Kyyo6T3cBi4OQtl1UGodYfp9BjL7k&gaa_ts=69d02b20&gaa_sig=2WL4LKgfyXILM0Qnw6CL8TeAXe1OoIlDl9zcgiodbaVuYCC003GqQwZXH_Hqb-I3qsUy5vWx2pU1vkbBeN-olA%3D%3D)**
+**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775219700)**
 
-MarketWatch • 1d ago
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 13h ago
 
 ---
 
-**[Current price of Ethereum for April 3, 2026](https://fortune.com/article/price-of-ethereum-04-03-2026/)**
+**[Most large cryptocurrencies fall on Solana, Ethereum drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-solana-ethereum-drops-06702da9-e670e788b6b1?gaa_at=eafs&gaa_n=AWEtsqeB1PJY_7C4YwSFHjPIQTb6Z9-UyqwYQHqtQZoZIWE8Zs5_1asGUppO&gaa_ts=69d04415&gaa_sig=foIuyMHjgzI5DaEMRStQ7kEmtXpAiNIlAMmop_pb5aaKzQbA1NqhYZmspSi5zlKyIyuw7johxMhnlCkxHXx0wQ%3D%3D)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 8h ago
+MarketWatch • 1d ago
 
 ---
 
@@ -232,7 +232,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 100 • 💬 23 • ⏱️ 10:32 • 10h ago
+👁️ 2K • 👍 100 • 💬 23 • ⏱️ 10:32 • 11h ago
 
 ---
 
@@ -242,7 +242,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 10K • 👍 888 • 💬 55 • ⏱️ 4:25 • 11h ago
+👁️ 10K • 👍 888 • 💬 55 • ⏱️ 4:25 • 12h ago
 
 ---
 
@@ -252,7 +252,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEE
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 328 • ⏱️ 10:45 • 1d ago
+👁️ 41K • 👍 2K • 💬 328 • ⏱️ 10:45 • 2d ago
 
 ---
 
@@ -262,7 +262,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 231 • 👍 9 • 💬 1 • ⏱️ 5:16 • 12h ago
+👁️ 231 • 👍 9 • 💬 1 • ⏱️ 5:16 • 13h ago
 
 ---
 
@@ -272,7 +272,7 @@ Ethereum AI Trading Bot 2026 — I Let It Trade for 7 Days (Real Results + Full 
 
 📺 Logan Hayes
 
-👁️ 1K • 👍 23 • 💬 1 • ⏱️ 4:24 • 5h ago
+👁️ 1K • 👍 23 • 💬 1 • ⏱️ 4:24 • 6h ago
 
 ---
 
@@ -282,7 +282,7 @@ ETHEREUM : une configuration LONG TERME très OPPORTUNISTE ?   Analyse CRYPTO �
 
 📺 Lexa Moon Crypto
 
-👁️ 400 • 👍 76 • 💬 13 • ⏱️ 13:58 • 3h ago
+👁️ 400 • 👍 76 • 💬 13 • ⏱️ 13:58 • 4h ago
 
 ---
 
@@ -292,7 +292,7 @@ bitcoin #altcoins #ethereum Crypto All In One Website Hyper Swap: https://www.hy
 
 📺 Alessandro De Crypto Official
 
-👁️ 437 • 👍 21 • 💬 21 • ⏱️ 5:28 • 8h ago
+👁️ 437 • 👍 21 • 💬 21 • ⏱️ 5:28 • 9h ago
 
 ---
 
@@ -302,7 +302,7 @@ BITCOIN WARNING: Everyone is WRONG About This!!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 5K • 👍 178 • 💬 280 • ⏱️ 20:12 • 23h ago
+👁️ 5K • 👍 178 • 💬 280 • ⏱️ 20:12 • 1d ago
 
 ---
 

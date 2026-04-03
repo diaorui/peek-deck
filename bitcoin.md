@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-03T21:35:00.853041+00:00'
+updated: '2026-04-03T22:35:27.161463+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 03, 2026 at 21:35 UTC  
+**Last Updated:** April 03, 2026 at 22:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,891.04
+### $66,910.07
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +0.7%  
-**30d:** -5.6%  
-**90d:** -26.9%  
-**1y:** -20.3%  
+**24h:** +0.1%  
+**7d:** +0.8%  
+**30d:** -5.5%  
+**90d:** -26.8%  
+**1y:** -20.2%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[My favorite part of the ride](https://www.reddit.com/r/Bitcoin/comments/1sbes4i/my_favorite_part_of_the_ride/)**
 
-7h ago
+8h ago
 
 ---
 
 **[We’re seeing that at the sovereign level,we’re seeing that across Wall Street and the retail investor outside the US continues to allocate.](https://www.reddit.com/r/Bitcoin/comments/1sbh9v5/were_seeing_that_at_the_sovereign_levelwere/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 With an increasing number of discussions around the BIP54 “Consensus Cleanup” soft fork proposal, I helped put together an information site about BIP54. “Bitcoin has four known vulnerabilities that have gone unfixed for 15 years. BIP54, "Consensus Cleanup", proposes four narrowly-scoped changes to address these issues in Bitcoin's consensus rules that date back to the original version of Bitcoin in 2009.” https://bip54.org/
 
-🔗 [bip54.org](https://bip54.org/) • 7h ago
+🔗 [bip54.org](https://bip54.org/) • 8h ago
 
 ---
 
@@ -101,7 +101,7 @@ With an increasing number of discussions around the BIP54 “Consensus Cleanup�
 
 Watching the price drop from $126K in October to the low $60s in February was both educational and frustrating. So I turned that energy into a research sprint: I built the Bitcoin Power Law Observatory, published 13 research papers, and created a suite of retirement planning tools. The result? I think I found Bitcoin's version of the 4% rule. And the math is almost absurd. The logic chain People need to save for the future. The best savings technology is the hardest money. Bitcoin is the hardest money ever created. Therefore people will save in bitcoin. Not everyone knows this yet. Old habits die hard. The power law (Santostasi, expanded by Krueger and Sigman in "Bitcoin One Million") is the best model for how this adoption unfolds. The core relationship: every time bitcoin ages 1.5x, the price goes roughly 10x. Not hype cycles. Compounding network adoption following the same laws we see in city growth, earthquake magnitude, and species evolution. The floor is the breakthrough The power law model shows a trend line with a corridor of possibilities around it. The ceiling is compressing: early cycles hit 10x trend, recent ones barely 2x. But the floor has never been breached. Since 2010, the lower boundary at about 0.43x the trend value has held through every crash, every panic, every obituary. It held when bitcoin crashed from 10x the trend. From 5x. From 3x. With upside volatility structurally compressing, the floor only gets stronger coming down from 2x or less. What does this floor look like in dollar terms? March 2026: $56,400. March 2027: $77,700. March 2028: $105,300. March 2029: $140,500. March 2030: $184,800. The floor value of 1 bitcoin will grow more than $21,000 over the next 12 months. And that dollar growth accelerates every year. That floor growth is your yield. Not interest. Not dividends. Structural adoption growth baked into the math. And it changes everything about retirement planning. The Bitcoin 4% rule The traditional 4% rule says you can withdraw 4% from an S&P portfolio annually without running out. The 4% buffer exists to handle sequence of returns risk: bad early years can permanently damage a retirement. Bitcoin needs a different system. Higher returns but far more volatility. A decelerating growth rate that demands dynamic withdrawals, not fixed percentages. So I based my framework on floor growth alone: If your stack x floor growth > your yearly expenses = financial freedom. This is the most conservative number the model produces. Bitcoin spends only a tiny fraction of its time near the floor. Everything above it is pure upside cushion. The math The floor currently grows at roughly 39% per year (this rate slowly decelerates over decades). At today's price of about $67,000, 5 BTC costs $335,000. Annual floor growth on 5 BTC: approximately $110,000. Under the traditional 4% rule, $100,000/year requires a $2,500,000 S&P portfolio. Same spending power. $335,000 versus $2,500,000. Over 7x more capital efficient. Using the worst case path the power law produces. Three tailwinds Once you cross the floor freedom line, three forces compound in your favor. Volatility decays: the price corridor compresses roughly 20% each halving cycle, so the "storm years" at the start of retirement expire. The floor keeps rising: your safety net grows every day. And your BTC-denominated expenses shrink: you need fewer sats each year to cover the same dollar amount. The risk is front-loaded and finite. I built a Monte Carlo simulator with 100,000 simulations based on 15 years of historical volatility data. The result: the floor-based approach survives the storm years and the margin of safety widens every year you hold. With 20 BTC, survival is 100% across all simulations at $3,000/month withdrawals. Even at 10 BTC, it is 72%. The three tailwinds working together make this more robust than the traditional 4% rule, which has a roughly 95% historical success rate over 30 years. The honest caveats The power law could break. 15 years is not 150 years. The floor growth rate decelerates over time. Black swan events outside model bounds are possible. This framework only works if the power law holds. Nothing is ever 100%. But consider this: bitcoin is currently trading at 1.19x the floor. Just 19% above the worst case. Historically that is an extremely cheap entry. Most of the time bitcoin sits at 2-3x the floor. The premium you pay today is recovered through less than one year of floor growth. Bottom line If you can buy 5 BTC today, you are building the functional equivalent of a $2.5 million traditional retirement portfolio. At a fraction of the cost. Backed not by a fixed percentage rule, but by the structural growth of the most robust boundary in the most predictive model in finance. And right now, bitcoin is trading at just 19% above that floor. The setup is almost too clean. The tools to verify all of this yourself are free. btcpowerlaw.nl for the research. satsplanner.app for the retirement calculator. What would you do with a $2.5 million portfolio?
 
-17h ago
+18h ago
 
 ---
 
@@ -109,7 +109,15 @@ Watching the price drop from $126K in October to the low $60s in February was bo
 
 I live in Offenburg Germany at the french boarder. I want to buy Crypto wihout KYC in Person with Cash in France or Germany but around my City. Any Ideas?
 
-2h ago
+3h ago
+
+---
+
+**[Solo miner nets ~$210k after finding Bitcoin block 943,411](https://www.reddit.com/r/Bitcoin/comments/1sbrr3a/solo_miner_nets_210k_after_finding_bitcoin_block/)**
+
+An anonymous miner using CKPool’s solo service found block 943,411 earlier today. They received 3.139 BTC in rewards and transaction fees... about $210,000 at current prices. Solo wins like this have become pretty rare. Solo miners have only found around 20 blocks in the past year, even with network difficulty staying near all-time highs. Anyone still running a solo setup these days, or is it mostly pools now?
+
+12m ago
 
 ---
 
@@ -117,7 +125,7 @@ I live in Offenburg Germany at the french boarder. I want to buy Crypto wihout K
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/42vHnf3cikE) • 7h ago
+🔗 [youtu.be](https://youtu.be/42vHnf3cikE) • 8h ago
 
 ---
 
@@ -125,7 +133,15 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/MWz1jUU5HOw?si=LCio8gsCvoW52OwN) • 9h ago
+🔗 [youtu.be](https://youtu.be/MWz1jUU5HOw?si=LCio8gsCvoW52OwN) • 10h ago
+
+---
+
+**[New COLDCARD Mk5 Full Setup Guide](https://www.reddit.com/r/Bitcoin/comments/1sbqqvu/new_coldcard_mk5_full_setup_guide/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/KZD6BotYpR4) • 53m ago
 
 ---
 
@@ -133,23 +149,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-15h ago
-
----
-
-**[Slow blocks and a reorg on Signet on Wednesday (BIP 54 / Consensus Cleanup)](https://www.reddit.com/r/Bitcoin/comments/1sbj1at/slow_blocks_and_a_reorg_on_signet_on_wednesday/)**
-
-A group of Bitcoin developers will do a demo of some slow blocks on the Signet test network on Wednesday. Anyone running a Signet node can participate. Come and see for yourself how long it took for your own hardware to hear about the slow block and validate them! If you don't run a Signet node already, syncing one should be pretty straightforward. It should use about 30GiB of storage, and you can run `-prune` if even that is too much. More details about this demo are available on the Delving Bitcoin thread. If you have questions about this, feel free to shoot in the comments. I'm the one crafting the blocks, and i'll be monitoring this thread till Wednesday to help people participate in the demo.
-
-4h ago
-
----
-
-**[How to track crypto income properly?](https://www.reddit.com/r/Bitcoin/comments/1sb7tqq/how_to_track_crypto_income_properly/)**
-
-Hi so i made a recent post talking about how i dont want to get fucked by the ATO. ive never reported (crypto gains/converts) to the government and especially not familiar how it is with the ATO since im from Denmark. i asked Chatgpt "where can i track my crypto and then report and send everything in one go?". it said a service like Koinly or Cointraciking. Right now im receiving on coinbase. but i do plan on switching to Receiving on "COCA" only as it gives nice cashback bonus of 6%. Quick side note: is there a better place to store crypto, bonus wise etc? but Yeah im confused. i could technically just look at the crypto i sold, but how will i be able to know how much it rose with from the date of purchase? man i cant see how that gonna be possible
-
-13h ago
+16h ago
 
 ---
 
@@ -157,25 +157,11 @@ Hi so i made a recent post talking about how i dont want to get fucked by the AT
 
 ## Google News: "bitcoin"
 
-**[Riot Announces First Quarter 2026 Production and Operations Updates](https://www.riotplatforms.com/riot-announces-first-quarter-2026-production-and-operations-updates/)**
-
-Riot Platforms • 1d ago
-
----
-
 **[Riot Platforms sells $290 million worth of bitcoin during Q1](https://www.theblock.co/post/396289/riot-platforms-sells-290-million-usd-bitcoin)**
 
 Other major bitcoin miners have been selling their bitcoin holdings to fund their transition to focus on AI.
 
-The Block • 12h ago
-
----
-
-**[Solo Bitcoin miner bags $210K Bitcoin block reward](https://www.tradingview.com/news/cointelegraph:e1cc8fe2e094b:0-solo-bitcoin-miner-bags-210k-bitcoin-block-reward/)**
-
-A solo Bitcoin miner secured a roughly $210,000 block reward on Thursday, proving that the so-called “mining lottery” is still paying out even if industrial operators dominate the network.The miner, connected to CKPool’s solo service, found block 943,411 and earned 3.139 BTC in subsidy and transact…
-
-TradingView • 7h ago
+The Block • 13h ago
 
 ---
 
@@ -183,37 +169,21 @@ TradingView • 7h ago
 
 The bank predicts new risks.
 
-thestreet.com • 19h ago
+thestreet.com • 20h ago
 
 ---
 
-**[Cathie Wood has brutal response to 50% Bitcoin crash](https://finance.yahoo.com/markets/crypto/articles/cathie-wood-brutal-response-50-180000044.html)**
+**[Charles Schwab Is Gearing Up to Offer Bitcoin, Ethereum Spot Trading](https://finance.yahoo.com/markets/crypto/articles/charles-schwab-gearing-offer-bitcoin-211155433.html)**
 
-It has been nearly six months since the flash crypto crash on Oct. 10 last year that wiped out millions of dollars in a single day. Bitcoin (BTC) had hit the all-time high (ATH) of $126,080 only a few days earlier on Oct. 6, but currently, it is trading 47% lower at $66,600.67. However, ...
+Financial giant Charles Schwab is set to launch spot buying of Bitcoin and Ethereum by the end of the quarter, the firm said Friday.
 
-Yahoo Finance • 3h ago
-
----
-
-**[Is Bitcoin mispricing a prolonged Iran war? Ex-hedge fund manager weighs in](https://www.tradingview.com/news/cointelegraph:382865706094b:0-is-bitcoin-mispricing-a-prolonged-iran-war-ex-hedge-fund-manager-weighs-in/)**
-
-In the latest interview with Cointelegraph, macro investor and former hedge fund manager James Lavish issued a stark warning to Bitcoin holders and global investors: markets may be pricing in a quick resolution to the Iran conflict — but if that assumption proves wrong, the consequences could be se…
-
-TradingView • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Schwab plans spot crypto trading launch in first half of 2026, starting with BTC, ETH](https://www.coindesk.com/business/2026/04/03/schwab-plans-spot-bitcoin-ether-trading-launch-in-first-half-of-2026)**
+**[Stock futures and bitcoin slip, Treasury yields climb, as hot jobs report raises more questions about Fed rate cuts](https://www.marketwatch.com/story/stock-futures-and-bitcoin-slip-treasury-yields-climb-as-hot-jobs-report-raises-more-questions-about-fed-rate-cuts-921ff82f?gaa_at=eafs&gaa_n=AWEtsqcqGeINESaizUa6HO6yN3OEtuSX3XFHbnqOxqjb1xzTEuTMGXs9FPTj&gaa_ts=69d04414&gaa_sig=DFxiJR91PjsO0OZQ6hVPLiOYxoZ19B9ZRSlCsSf7cNTzPzxLEHxNQV-AuhluXg8XktCWEb1w6eAzRL8b7Don0A%3D%3D)**
 
-The financial services giant with almost $12 trillion in client assets is moving closer to direct crypto trading, offering subscription for early access to the Schwab Crypto account.
-
-coindesk.com • 2h ago
-
----
-
-**[Stock futures and bitcoin slip, Treasury yields climb, as hot jobs report raises more questions about Fed rate cuts](https://www.marketwatch.com/story/stock-futures-and-bitcoin-slip-treasury-yields-climb-as-hot-jobs-report-raises-more-questions-about-fed-rate-cuts-921ff82f?gaa_at=eafs&gaa_n=AWEtsqdiiOK7rZpKR_M-mmNQ9axoGGpQbppunmWpNe_lEZ8wVw8TYFHDilH1&gaa_ts=69d02b1d&gaa_sig=9D49bmPNmGnER3sZs8ou28LQcGtXEa7rq88rErkdmsczwhPfyTc_vcdGvdfVOep1hmfBv1NZddViBH4uGoqQqw%3D%3D)**
-
-MarketWatch • 8h ago
+MarketWatch • 9h ago
 
 ---
 
@@ -223,9 +193,39 @@ Forbes • 1d ago
 
 ---
 
-**[Man tried to ransom former employer out of $750,000 in Bitcoin after launching a cyber attack, feds say](https://www.nj.com/news/2026/04/man-tried-to-ransom-former-employer-out-of-750000-in-bitcoin-after-launching-a-cyber-attack-feds-say.html)**
+**[CoinDesk 20 performance update: Bitcoin (BTC) trades flat while altcoins rise](https://www.coindesk.com/coindesk-indices/2026/04/03/coindesk-20-performance-update-bitcoin-btc-trades-flat-while-altcoins-rise)**
 
-NJ.com • 23h ago
+NEAR Protocol (NEAR) gained 5.8% and Avalanche (AVAX) climbed 3.6%.
+
+CoinDesk • 9h ago
+
+---
+
+**[Bitcoin Is Falling. Why Strategy and Other Crypto Stocks Face Their Own Prolonged War.](https://www.barrons.com/articles/bitcoin-price-cryptos-xrp-strategy-coinbase-d26961c0?gaa_at=eafs&gaa_n=AWEtsqcuyy34J3_XpDx4M5qDmvpKzqGQHzZF_pE2ex23sLyOJ7FsrbhP5cXD&gaa_ts=69d04414&gaa_sig=T2pjKTDHXO-2cK11s10rZqf2HE_dCjGmKKKprnyvmjCmtTc1fm9QNjFq2vrR6FO2Yl9IB6IdefYGSZ1kEgHnEQ%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
+**[Over 40% Of Bitcoin Supply Now Underwater As Losses Near $600 Billion](https://www.tradingview.com/news/newsbtc:c824043af094b:0-over-40-of-bitcoin-supply-now-underwater-as-losses-near-600-billion/)**
+
+Long-term Bitcoin holders are selling at a loss — and the numbers show it’s becoming a pattern, not an anomaly.US Buyers Stay On The SidelinesBitcoin’s Coinbase Premium Index has stayed negative in recent weeks, a sign that American investors have largely pulled back from the market.According to Cr…
+
+TradingView • 5h ago
+
+---
+
+**[Google Paper Warns of Quantum Computing Risk for Bitcoin](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q?gaa_at=eafs&gaa_n=AWEtsqe5JmKe_K4qBam-0Hx9pem9jdAe23IAIfBS6tT_XnZgZn6Y_LUD3SRR&gaa_ts=69d04414&gaa_sig=mNBfuNpAJvaCp88Hv66XlUMnsfFyjcKqaex0AlGYck9a51J49CVtb9DIzjg0rP2uebYNChE9R4c2bHSEK2j-qg%3D%3D)**
+
+WSJ • 3d ago
+
+---
+
+**[Naoris Protocol's quantum-resistant blockchain goes live as Bitcoin and Ethereum face 'Q-Day' threats](https://www.coindesk.com/markets/2026/04/03/naoris-protocol-s-quantum-resistance-blockchain-goes-live-as-bitcoin-and-ethereum-face-q-day-threats)**
+
+Naoris debuts its quantum-resistant mainnet, which uses algorithms approved by the U.S. National Institute of Standards and Technology.
+
+CoinDesk • 13h ago
 
 ---
 
@@ -237,7 +237,7 @@ NJ.com • 23h ago
 
 Google Quantum AI: Quantum computer could break Bitcoin cryptography with under 500,000 qubits in nine minutes. This will likely only be possible in the 2030s.
 
-⬆️ 11 • 💬 2 • 3h ago • [heise online](https://www.heise.de/en/news/Quantum-computer-researchers-Bitcoin-encryption-breakable-in-a-few-years-11244911.html)
+⬆️ 14 • 💬 4 • 4h ago • [heise online](https://www.heise.de/en/news/Quantum-computer-researchers-Bitcoin-encryption-breakable-in-a-few-years-11244911.html)
 
 ---
 
@@ -261,13 +261,13 @@ Bitcoin needs to fix this in the next three years.
 
 April 03, 2026 - A new $100 million bond deal reveals exactly how traditional finance values BTC as collateral. The numbers are sobering, and the
 
-⬆️ 4 • 💬 2 • 5h ago • [Bitcoin, Altcoins, Crypto News & Financial Market News](https://catenaa.com/markets/cryptocurrencies/moodys-bitcoin-collateral-haircut/)
+⬆️ 4 • 💬 2 • 6h ago • [Bitcoin, Altcoins, Crypto News & Financial Market News](https://catenaa.com/markets/cryptocurrencies/moodys-bitcoin-collateral-haircut/)
 
 ---
 
 **[Strive, Tuttle File Leveraged Bitcoin ETF](https://news.ycombinator.com/item?id=47621293)**
 
-⬆️ 4 • 💬 0 • 22h ago • [catenaa.com](https://catenaa.com/markets/cryptocurrencies/strive-tuttle-file-leveraged-etf-tied-to-bitcoin-preferreds/)
+⬆️ 4 • 💬 0 • 23h ago • [catenaa.com](https://catenaa.com/markets/cryptocurrencies/strive-tuttle-file-leveraged-etf-tied-to-bitcoin-preferreds/)
 
 ---
 
@@ -315,7 +315,7 @@ Alessandro sits down with Gareth Soloway to break down Bitcoin's next move as pr
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 639 • 💬 28 • ⏱️ 32:29 • 11h ago
+👁️ 12K • 👍 639 • 💬 28 • ⏱️ 32:29 • 12h ago
 
 ---
 
@@ -325,7 +325,7 @@ Bitcoin #Crypto #Finance Bitcoin is facing pressure with growing calls for poten
 
 📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 722 • 💬 165 • ⏱️ 29:42 • 7h ago
+👁️ 8K • 👍 722 • 💬 165 • ⏱️ 29:42 • 8h ago
 
 ---
 
@@ -355,7 +355,7 @@ Trump speaks… and markets crash again! Bitcoin fell to $66K, and in just 25 mi
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 161 • ⏱️ 36:07 • 21h ago
+👁️ 16K • 👍 1K • 💬 161 • ⏱️ 36:07 • 22h ago
 
 ---
 
@@ -365,7 +365,7 @@ The crypto market is at a massive crossroads. While many were looking for a move
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 292 • 💬 28 • ⏱️ 1:03:04 • 5h ago
+👁️ 4K • 👍 292 • 💬 28 • ⏱️ 1:03:04 • 6h ago
 
 ---
 
@@ -385,7 +385,7 @@ April will be a big month for crypto - ACT NOW! WEEX Poker Party is LIVE: https:
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 213 • ⏱️ 9:31 • 23h ago
+👁️ 36K • 👍 2K • 💬 213 • ⏱️ 9:31 • 1d ago
 
 ---
 
@@ -405,7 +405,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEE
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 328 • ⏱️ 10:45 • 1d ago
+👁️ 41K • 👍 2K • 💬 328 • ⏱️ 10:45 • 2d ago
 
 ---
 

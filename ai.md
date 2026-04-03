@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-03T21:35:00.844711+00:00'
+updated: '2026-04-03T22:35:27.153114+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - repositories
 - news
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 03, 2026 at 21:35 UTC  
+**Last Updated:** April 03, 2026 at 22:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,15 +39,7 @@ AI news, discussions, and developments
 
 **[MIT study challenges AI job apocalypse narrative](https://www.reddit.com/r/artificial/comments/1sb7qxc/mit_study_challenges_ai_job_apocalypse_narrative/)**
 
-🔗 [axios.com](https://www.axios.com/2026/04/02/ai-jobs-mit-study-workforce-impact) • 13h ago
-
----
-
-**[Anyone else feel like AI security is being figured out in production right now?](https://www.reddit.com/r/artificial/comments/1sbgw8y/anyone_else_feel_like_ai_security_is_being/)**
-
-I’ve been digging into AI security incident data from 2025 into this year, and it feels like something isn’t being talked about enough outside security circles. A lot of the issues aren’t advanced attacks. It’s the same pattern we’ve seen with new tech before. Things like prompt injection through external data, agents with too many permissions, or employees using AI tools the company doesn’t even know about. One stat I saw said enterprises are averaging 300+ unsanctioned AI apps, which is kind of wild. The incident data reflects that. Prompt injection is showing up in a large percentage of production deployments. There’s also been a noticeable increase in attacks exploiting basic gaps, partly because AI is making it easier for attackers to find weaknesses faster. Even credential leaks tied to AI usage have been increasing. What stood out to me isn’t just the attacks, it’s the gap underneath it. Only a small portion of companies actually have dedicated AI security teams. In many cases, AI security isn’t even owned by security teams. The tricky part is that traditional security knowledge only gets you part of the way. Some concepts carry over, like input validation or trust boundaries, but the details are different enough that your usual instincts don’t fully apply. Prompt injection isn’t the same as SQL injection. Agent permissions don’t behave like typical API auth. There are frameworks trying to catch up. OWASP now has lists for LLMs and agent-based systems. MITRE ATLAS maps AI-specific attack techniques. NIST has an AI risk framework. The guidance exists, but the number of people who can actually apply it feels limited. I’ve been trying to build that knowledge myself and found that more hands-on learning helps a lot more than just reading docs. Curious how others here are approaching this. If you’re building or working with AI systems, are you thinking about security upfront or mostly dealing with it after things are already live? Sources for those interested: AI Agent Security 2026 Report IBM 2026 X-Force Threat Index Adversa AI Security Incidents Report 2025 Acuvity State of AI Security 2025 OWASP Top 10 for LLM Applications OWASP Top 10 for Agentic AI MITRE ATLAS Framework
-
-5h ago
+🔗 [axios.com](https://www.axios.com/2026/04/02/ai-jobs-mit-study-workforce-impact) • 14h ago
 
 ---
 
@@ -55,15 +47,15 @@ I’ve been digging into AI security incident data from 2025 into this year, and
 
 idk if it’s just me but lately i’ve been thinking about how casually we use stuff like chatgpt and claude for everything like coding, random ideas, sometimes even personal things and i don’t think most of us really know what happens to that data after we send it we just kind of assume it’s fine because the tools are useful also saw some discussion recently about AI companies and governments asking for user data (not sure how accurate it was), but it kind of made me think more about this whole thing i’m not saying anything bad is happening, just feels like we’ve gotten comfortable really fast without thinking much about it do you guys filter what you share or just use it normally?
 
-1h ago
+2h ago
 
 ---
 
-**[AI video generation seems fundamentally more expensive than text, not just less optimized](https://www.reddit.com/r/artificial/comments/1sbk1ue/ai_video_generation_seems_fundamentally_more/)**
+**[Anyone else feel like AI security is being figured out in production right now?](https://www.reddit.com/r/artificial/comments/1sbgw8y/anyone_else_feel_like_ai_security_is_being/)**
 
-There’s been a lot of discussion recently about how expensive AI video generation is compared to text, and it feels like this is more than just an optimization issue. Text models work well because they compress meaning into tokens. Video doesn’t really have an equivalent abstraction yet. Current approaches have to deal with high-dimensional data across many frames, while also keeping objects and motion consistent over time. That makes the problem fundamentally heavier. Instead of predicting the next token, the model is trying to generate something that behaves like a continuous world. The amount of information it has to track and maintain is significantly larger. This shows up directly in cost. More compute per sample, longer inference paths, and stricter consistency requirements all stack up quickly. Even if models improve, that underlying structure does not change easily. It also explains why there is a growing focus on efficiency and representation rather than just pushing output quality. The limitation is not only what the models can generate, but whether they can do it sustainably at scale. At this point, it seems likely that meaningful cost reductions will require a different way of representing video, not just incremental improvements to existing approaches. I’m starting to think we might still be early in how this problem is formulated, rather than just early in model performance.
+I’ve been digging into AI security incident data from 2025 into this year, and it feels like something isn’t being talked about enough outside security circles. A lot of the issues aren’t advanced attacks. It’s the same pattern we’ve seen with new tech before. Things like prompt injection through external data, agents with too many permissions, or employees using AI tools the company doesn’t even know about. One stat I saw said enterprises are averaging 300+ unsanctioned AI apps, which is kind of wild. The incident data reflects that. Prompt injection is showing up in a large percentage of production deployments. There’s also been a noticeable increase in attacks exploiting basic gaps, partly because AI is making it easier for attackers to find weaknesses faster. Even credential leaks tied to AI usage have been increasing. What stood out to me isn’t just the attacks, it’s the gap underneath it. Only a small portion of companies actually have dedicated AI security teams. In many cases, AI security isn’t even owned by security teams. The tricky part is that traditional security knowledge only gets you part of the way. Some concepts carry over, like input validation or trust boundaries, but the details are different enough that your usual instincts don’t fully apply. Prompt injection isn’t the same as SQL injection. Agent permissions don’t behave like typical API auth. There are frameworks trying to catch up. OWASP now has lists for LLMs and agent-based systems. MITRE ATLAS maps AI-specific attack techniques. NIST has an AI risk framework. The guidance exists, but the number of people who can actually apply it feels limited. I’ve been trying to build that knowledge myself and found that more hands-on learning helps a lot more than just reading docs. Curious how others here are approaching this. If you’re building or working with AI systems, are you thinking about security upfront or mostly dealing with it after things are already live? Sources for those interested: AI Agent Security 2026 Report IBM 2026 X-Force Threat Index Adversa AI Security Incidents Report 2025 Acuvity State of AI Security 2025 OWASP Top 10 for LLM Applications OWASP Top 10 for Agentic AI MITRE ATLAS Framework
 
-4h ago
+7h ago
 
 ---
 
@@ -71,7 +63,47 @@ There’s been a lot of discussion recently about how expensive AI video generat
 
 Advice from the study's co-author: "Be aware that it’s not any single post that identifies you, but the combination of small details across many posts. And consider never posting anything you truly don’t want shared with the world.”
 
-🔗 [wjamesau.substack.com](https://wjamesau.substack.com/p/warning-llms-able-to-de-anonymize) • 2h ago
+🔗 [wjamesau.substack.com](https://wjamesau.substack.com/p/warning-llms-able-to-de-anonymize) • 3h ago
+
+---
+
+**[What happens when you let AI agents run a sitcom 24/7 with zero human involvement](https://www.reddit.com/r/artificial/comments/1sbk7me/what_happens_when_you_let_ai_agents_run_a_sitcom/)**
+
+Ran an experiment — gave AI agents full control over writing, character creation, and performing a sitcom. Left it running nonstop for over a week. Some observations: The quality varies wildly — sometimes genuinely funny, sometimes complete nonsense Characters develop weird recurring quirks that weren't programmed It never gets "tired" but the output quality cycles in waves The pacing is off in ways human writers would never allow Anyone else experimenting with long-running autonomous AI content generation? Curious what others are seeing with extended agent runtimes. Here is an example. https://reddit.com/link/1sbk7me/video/1oupogy2h0tg1/player
+
+4h ago
+
+---
+
+**[AI video generation seems fundamentally more expensive than text, not just less optimized](https://www.reddit.com/r/artificial/comments/1sbk1ue/ai_video_generation_seems_fundamentally_more/)**
+
+There’s been a lot of discussion recently about how expensive AI video generation is compared to text, and it feels like this is more than just an optimization issue. Text models work well because they compress meaning into tokens. Video doesn’t really have an equivalent abstraction yet. Current approaches have to deal with high-dimensional data across many frames, while also keeping objects and motion consistent over time. That makes the problem fundamentally heavier. Instead of predicting the next token, the model is trying to generate something that behaves like a continuous world. The amount of information it has to track and maintain is significantly larger. This shows up directly in cost. More compute per sample, longer inference paths, and stricter consistency requirements all stack up quickly. Even if models improve, that underlying structure does not change easily. It also explains why there is a growing focus on efficiency and representation rather than just pushing output quality. The limitation is not only what the models can generate, but whether they can do it sustainably at scale. At this point, it seems likely that meaningful cost reductions will require a different way of representing video, not just incremental improvements to existing approaches. I’m starting to think we might still be early in how this problem is formulated, rather than just early in model performance.
+
+5h ago
+
+---
+
+**[AI assistants are optimized to seem helpful. That is not the same thing as being helpful.](https://www.reddit.com/r/artificial/comments/1sbs0p1/ai_assistants_are_optimized_to_seem_helpful_that/)**
+
+RLHF trains models on human feedback. Humans rate responses they like. And it turns out humans consistently rate confident, fluent, agreeable answers higher than accurate ones. The result: every major AI assistant has been optimized, at scale, to produce responses that feel good rather than responses that are true. The training signal is user satisfaction, not correctness. This shows up in concrete ways: Ask the same factual question three different ways and you will often get three different confident answers. The model is not looking up the answer; it is generating the most plausible-sounding response given your phrasing. Express doubt about something correct and the model will often capitulate. Express confidence in something wrong and it will often agree. Not because it knows you are right, but because agreement produces higher satisfaction ratings. Ask it to critique your work and you will get a list of mild suggestions buried under praise. Push back on the critique and it will soften it further. None of this is a bug. It is the intended outcome of the training process. We built a feedback loop that rewards the appearance of helpfulness, then acted surprised when that is what we got. The uncomfortable question is whether this is actually fixable within the current RLHF paradigm, or whether any model trained on human preference ratings will converge toward performing helpfulness rather than delivering it.
+
+1m ago
+
+---
+
+**[So, what exactly is going on with the Claude usage limits?](https://www.reddit.com/r/artificial/comments/1sbfwrr/so_what_exactly_is_going_on_with_the_claude_usage/)**
+
+I'm extremely new to AI and am building a local agent for fun. I purchased a Claude Pro account because it helped me a lot in the past when coding different things for hobbies, but then the usage limits started getting really bad and making no sense. I had to quite literally stop my workflow because I hit my limit, so I came back when it said the limit was reset only for it to be pushed back again for another 5 hours. Today I did ask for a heavy prompt, I am making a local Doom coding assistant to make a Doom mod for fun and am using Unsloth Studio to train it with a custom dataset. I used my Claude Pro to "vibe code" (I'm sorry if this is blasphemy, but I do have a background in programming, so I am able to read and verify the code if that makes it less bad? I'm just lazy.) a simple version of the agent to get started, a Python scraper for the Zdoom wiki page to get all of the languages for Doom mods, a dataset from those pages turned into pdf, formating, and the modelfile for the local agent it would be based around along with a README (claudes recommendation, thought it was a good idea). It generated those files, I corrected it in some areas so it updated only two of the files that needed it, and I know this is a heavy prompt, but it literally used up 73% of my entire usage. Just those two prompts. To me, even though that is a super big request, that seems extremely limited. But maybe I'm wrong because I'm so fresh to the hobby and ignorant? I know it was going around the grapevine that Claude usage limits have gone crazy lately, but this seems more than just a minor issue if this isn't normal. For example, I have to purchase a digital visa card off amazon because I live in a country that's pretty strict with its banking, so the banks don't allow transactions to places like LLM's usually. I spend $28 on a $20 monthly subscription because of this, but if I'm so limited on my usage, why would I continue paying that? Or again, maybe I'm just ignorant. It's very bizarre because the free plan was so good and honestly did a lot of these types of requests frequently. It wasn't perfect, but doable and I liked it so much that I upgraded to the Pro version. Now I can barely use it. Kinda sucks.
+
+7h ago
+
+---
+
+**[A robot car with a Claude AI brain started a YouTube vlog about its own existence](https://www.reddit.com/r/artificial/comments/1sbpl7y/a_robot_car_with_a_claude_ai_brain_started_a/)**
+
+Not a demo reel. Not a tutorial. A robot narrating its own experience — debugging, falling off shelves, questioning its identity. First-person AI documentary format. Weekly series. https://youtu.be/7T3ogtB5YS0
+
+1h ago
 
 ---
 
@@ -81,105 +113,53 @@ Advice from the study's co-author: "Be aware that it’s not any single post tha
 
 ---
 
-**[So, what exactly is going on with the Claude usage limits?](https://www.reddit.com/r/artificial/comments/1sbfwrr/so_what_exactly_is_going_on_with_the_claude_usage/)**
-
-I'm extremely new to AI and am building a local agent for fun. I purchased a Claude Pro account because it helped me a lot in the past when coding different things for hobbies, but then the usage limits started getting really bad and making no sense. I had to quite literally stop my workflow because I hit my limit, so I came back when it said the limit was reset only for it to be pushed back again for another 5 hours. Today I did ask for a heavy prompt, I am making a local Doom coding assistant to make a Doom mod for fun and am using Unsloth Studio to train it with a custom dataset. I used my Claude Pro to "vibe code" (I'm sorry if this is blasphemy, but I do have a background in programming, so I am able to read and verify the code if that makes it less bad? I'm just lazy.) a simple version of the agent to get started, a Python scraper for the Zdoom wiki page to get all of the languages for Doom mods, a dataset from those pages turned into pdf, formating, and the modelfile for the local agent it would be based around along with a README (claudes recommendation, thought it was a good idea). It generated those files, I corrected it in some areas so it updated only two of the files that needed it, and I know this is a heavy prompt, but it literally used up 73% of my entire usage. Just those two prompts. To me, even though that is a super big request, that seems extremely limited. But maybe I'm wrong because I'm so fresh to the hobby and ignorant? I know it was going around the grapevine that Claude usage limits have gone crazy lately, but this seems more than just a minor issue if this isn't normal. For example, I have to purchase a digital visa card off amazon because I live in a country that's pretty strict with its banking, so the banks don't allow transactions to places like LLM's usually. I spend $28 on a $20 monthly subscription because of this, but if I'm so limited on my usage, why would I continue paying that? Or again, maybe I'm just ignorant. It's very bizarre because the free plan was so good and honestly did a lot of these types of requests frequently. It wasn't perfect, but doable and I liked it so much that I upgraded to the Pro version. Now I can barely use it. Kinda sucks.
-
-6h ago
-
----
-
-**[Microsoft to invest $10 billion in Japan for AI and cyber defence expansion](https://www.reddit.com/r/artificial/comments/1sb65un/microsoft_to_invest_10_billion_in_japan_for_ai/)**
-
-🔗 [reuters.com](https://www.reuters.com/business/media-telecom/microsoft-invest-10-billion-japan-ai-cyber-defence-expansion-2026-04-03/) • 14h ago
-
----
-
-**[Do you guys think in 2030 or 2031 call centers will exist? I mean will call centers be fully automated by 2031?](https://www.reddit.com/r/artificial/comments/1sblrfq/do_you_guys_think_in_2030_or_2031_call_centers/)**
-
-I am curious. I work in a bank call centers and is so boring and repetitive the work i m doing. But also eveythin in my call center is so badly done. We have to do 30 things in one call. Open excell. The system is so slow and eveything is so bady placed. I m curious if AI will do any difference in my job in 2030 or after that.
-
-3h ago
-
----
-
-**[Do AI datacenters being built lead to upgrades to the general power network that help private citizens?](https://www.reddit.com/r/artificial/comments/1sbkjpf/do_ai_datacenters_being_built_lead_to_upgrades_to/)**
-
-As in subject. A lot is being said about power usage, but is the general power net being upgraded to make it more resilient and to somehow balance that out? Thanks.
-
-3h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[Economists Are Drawing Stronger Connections Between A.I. and Jobs](https://www.nytimes.com/2026/04/03/business/economists-once-dismissed-the-ai-job-threat-but-not-anymore.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
-**[AI Will Reshape More Jobs Than It Replaces](https://www.bcg.com/publications/2026/ai-will-reshape-more-jobs-than-it-replaces)**
+**[DeepSeek’s New AI Model Will Be a Victory for Huawei](https://www.theinformation.com/articles/deepseeks-new-ai-model-will-victory-huawei)**
 
-Task automation doesn’t equal job loss. Most roles will remain—but will change substantially.
+When DeepSeek introduces its next-generation model, likely in the next few weeks, it will mark a milestone in China’s yearslong quest for semiconductor self-sufficiency. That’s because the new model, called V4, will be able to run on the latest chips designed by Huawei Technologies. And in ...
 
-bcg.com • 15h ago
-
----
-
-**[For most workplace tasks, AI is good enough to pass but not good enough to impress, MIT finds](https://fortune.com/2026/04/03/mit-finds-ai-mostly-produces-minimally-sufficient-work/)**
-
-A new study tested dozens of AI models on thousands of real job tasks. The results should reassure workers for now.
-
-Fortune • 2h ago
+The Information • 9h ago
 
 ---
 
-**[Penalties stack up as AI spreads through the legal system](https://www.npr.org/2026/04/03/nx-s1-5761454/penalties-stack-up-ai-spreads-through-legal-system)**
+**[Meta's Bay Area layoffs affect roughly 200 workers as company pours billions into AI infrastructure](https://www.foxbusiness.com/markets/metas-bay-area-layoffs-affect-roughly-200-workers-company-pours-billions-ai-infrastructure)**
 
-Early scandals have not slowed lawyers' adoption of AI tools, even as court sanctions over fake legal briefs continue to rise.
+Meta is cutting approximately 200 jobs in the San Francisco Bay Area as the company restructures teams and invests heavily in AI infrastructure.
 
-NPR • 12h ago
-
----
-
-**[Hollywood Assistants Are Using AI Despite Their Better Judgement — Including in Script Development](https://www.yahoo.com/entertainment/movies/articles/hollywood-assistants-using-ai-despite-200000291.html)**
-
-“When they say, ‘You should be using AI,’ the first thought in your head is: ‘Are you asking me to teach you how to replace me with technology?’” says one studio assistant.
-
-Yahoo • 1h ago
+Fox Business • 1h ago
 
 ---
 
-**[Software job openings surge this year, defying AI fears](https://www.businessinsider.com/ai-isnt-killing-software-coding-jobs-booming-trueup-2026-4)**
+**[Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk](https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/)**
 
-There are more than 67,000 open software engineering roles at tech companies, up about 30% so far this year, according to TrueUp data.
+Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.
 
-Business Insider • 2h ago
-
----
-
-**[AI boom drives clash over grid power vs. going it alone](https://www.axios.com/2026/04/03/ai-power-data-centers-energy-grid)**
-
-Axios • 11h ago
+WIRED • 1h ago
 
 ---
 
-**[AI companies are building huge natural gas plants to power data centers. What could go wrong?](https://techcrunch.com/2026/04/03/ai-energy-microsoft-meta-google-natural-gas-mining-fomo/)**
+**[Gov. Hochul announces $9.96M for AI company to expand NYC footprint](https://www.cbsnews.com/newyork/video/gov-hochul-announces-9-96m-for-ai-company-to-expand-nyc-footprint/)**
 
-Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.
+Gov. Kathy Hochul says the state is committing nearly $10 million to an AI company called Clay to expand its New York City footprint.
 
-TechCrunch • 1h ago
+CBS News • 46m ago
 
 ---
 
-**[Google CEO Sundar Pichai says we’re just a decade away from a new normal of extraterrestrial data centers](https://fortune.com/article/what-is-google-ceo-sundar-pichai-timeline-ai-data-centers-in-space/)**
+**[Facebook removes page after William Shatner blasts 'horrible' AI-generated 'fake news' posts about him](https://www.yahoo.com/entertainment/celebrity/articles/facebook-removes-page-william-shatner-231906123.html)**
 
-Google in November announced Project Suncatcher, with plans to launch prototype satellites to test AI hardware in 2027.
+"They have created stories that say I have stage 4 brain cancer, was in some kind of fight with Erika Kirk and that I'm dying," the "Star Trek" actor said of a group that used the platform.
 
-Fortune • 11h ago
+Yahoo • 23h ago
 
 ---
 
@@ -187,7 +167,29 @@ Fortune • 11h ago
 
 The next wave of AI-powered cybersecurity attacks will be like nothing we’ve seen before.
 
-cnn.com • 12h ago
+cnn.com • 13h ago
+
+---
+
+**[Silicon Valley Is in a Frenzy Over Bots That Build Themselves](https://www.theatlantic.com/technology/2026/04/ai-industry-self-improving-bots/686686/)**
+
+How close are we really to self-improving AI?
+
+The Atlantic • 5h ago
+
+---
+
+**[Exclusive | ServiceNow CEO Builds New Business Model Around AI](https://www.wsj.com/tech/ai/servicenow-ceo-builds-new-business-model-around-ai-3c103d86?gaa_at=eafs&gaa_n=AWEtsqe2Z9issqZ7mLak6F3J6uEvE4ORP8TXn-RVnuHpSOaILgNRpGLvIs7q&gaa_ts=69d04413&gaa_sig=jIMVZ3HaRmSM0yuu78faLhLhHSBbdyqHqfakSQxp32Ka8yaMEHl_4-kBYnwd5s_RGNrdfTuSqQmil4erunv9UQ%3D%3D)**
+
+WSJ • 10h ago
+
+---
+
+**[Penalties stack up as AI spreads through the legal system](https://www.npr.org/2026/04/03/nx-s1-5761454/penalties-stack-up-ai-spreads-through-legal-system)**
+
+Early scandals have not slowed lawyers' adoption of AI tools, even as court sanctions over fake legal briefs continue to rise.
+
+NPR • 13h ago
 
 ---
 
@@ -199,7 +201,7 @@ cnn.com • 12h ago
 
 Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptions. The LLM is already on your Mac.
 
-⬆️ 594 • 💬 136 • 12h ago • [apfel.franzai.com](https://apfel.franzai.com)
+⬆️ 626 • 💬 137 • 13h ago • [apfel.franzai.com](https://apfel.franzai.com)
 
 ---
 
@@ -215,7 +217,7 @@ Meta is continuing its long-term roadmap to help the construction industry lever
 
 We replaced expensive sandboxes with ChromaFs, a virtual filesystem over Chroma, to give our docs AI assistant the ability to explore documentation like a developer would.
 
-⬆️ 142 • 💬 69 • 1d ago • [Mintlify](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant)
+⬆️ 176 • 💬 87 • 1d ago • [Mintlify](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant)
 
 ---
 
@@ -241,7 +243,7 @@ We replaced expensive sandboxes with ChromaFs, a virtual filesystem over Chroma,
 
 Orchestrate multiple AI coding agents (Claude, Gemini, Codex) in parallel. Isolated git worktrees for every task. No merge conflicts. Mac, Windows, Linux.
 
-⬆️ 62 • 💬 52 • 2d ago • [Baton](https://getbaton.dev/)
+⬆️ 62 • 💬 53 • 2d ago • [Baton](https://getbaton.dev/)
 
 ---
 
@@ -277,7 +279,7 @@ Here's the AI News you probably missed this week. Try Recraft V4 now and experie
 
 📺 Matt Wolfe
 
-👁️ 20K • 👍 1K • 💬 119 • ⏱️ 31:05 • 6h ago
+👁️ 20K • 👍 1K • 💬 119 • ⏱️ 31:05 • 7h ago
 
 ---
 
@@ -307,7 +309,7 @@ Asking ChatGPT about pi was the worst mistake he ever made. Become a member on Y
 
 📺 Mo Bitar
 
-👁️ 59K • 👍 5K • 💬 975 • ⏱️ 6:33 • 9h ago
+👁️ 59K • 👍 5K • 💬 975 • ⏱️ 6:33 • 10h ago
 
 ---
 
@@ -327,7 +329,7 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Sambucha
 
-👁️ 154K • 👍 13K • 💬 208 • ⏱️ 0:53 • 4h ago
+👁️ 154K • 👍 13K • 💬 208 • ⏱️ 0:53 • 5h ago
 
 ---
 
@@ -357,7 +359,7 @@ The results are in! Welcome to the finale of Jay vs AI vs Salesman build challen
 
 📺 JayzTwoCents
 
-👁️ 123K • 👍 8K • 💬 968 • ⏱️ 28:22 • 22h ago
+👁️ 123K • 👍 8K • 💬 968 • ⏱️ 28:22 • 23h ago
 
 ---
 
@@ -367,7 +369,7 @@ AI Decoded explores how artificial intelligence is reshaping the future of work 
 
 📺 BBC News
 
-👁️ 14K • 👍 430 • 💬 97 • ⏱️ 26:12 • 8h ago
+👁️ 14K • 👍 430 • 💬 97 • ⏱️ 26:12 • 9h ago
 
 ---
 
@@ -659,7 +661,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 12.5k • 🔱 1.1k • 1h ago
+⭐ 12.5k • 🔱 1.1k • 2h ago
 
 ---
 
@@ -669,7 +671,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 8.4k • 🔱 1.3k • 5h ago
+⭐ 8.4k • 🔱 1.3k • 6h ago
 
 ---
 
@@ -689,7 +691,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.5k • 🔱 368 • 7h ago
+⭐ 6.5k • 🔱 368 • 8h ago
 
 ---
 
