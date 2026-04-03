@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-03T08:56:16.381601+00:00'
+updated: '2026-04-03T09:55:25.328492+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
 - social
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 03, 2026 at 08:56 UTC  
+**Last Updated:** April 03, 2026 at 09:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,13 +39,13 @@ AI news, discussions, and developments
 
 **[Google releases Gemma 4 models.](https://www.reddit.com/r/artificial/comments/1sapfpu/google_releases_gemma_4_models/)**
 
-14h ago
+15h ago
 
 ---
 
 **[MIT study challenges AI job apocalypse narrative](https://www.reddit.com/r/artificial/comments/1sb7qxc/mit_study_challenges_ai_job_apocalypse_narrative/)**
 
-🔗 [axios.com](https://www.axios.com/2026/04/02/ai-jobs-mit-study-workforce-impact) • 33m ago
+🔗 [axios.com](https://www.axios.com/2026/04/02/ai-jobs-mit-study-workforce-impact) • 1h ago
 
 ---
 
@@ -53,13 +53,13 @@ AI news, discussions, and developments
 
 The model is also available here: 🤗 HuggingFace: https://huggingface.co/collections/google/gemma-4 🦙 Ollama: https://ollama.com/library/gemma4
 
-🔗 [Google](https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/) • 15h ago
+🔗 [Google](https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/) • 16h ago
 
 ---
 
 **[Microsoft to invest $10 billion in Japan for AI and cyber defence expansion](https://www.reddit.com/r/artificial/comments/1sb65un/microsoft_to_invest_10_billion_in_japan_for_ai/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/media-telecom/microsoft-invest-10-billion-japan-ai-cyber-defence-expansion-2026-04-03/) • 2h ago
+🔗 [reuters.com](https://www.reuters.com/business/media-telecom/microsoft-invest-10-billion-japan-ai-cyber-defence-expansion-2026-04-03/) • 3h ago
 
 ---
 
@@ -67,7 +67,7 @@ The model is also available here: 🤗 HuggingFace: https://huggingface.co/colle
 
 Side project that got out of hand. It's a dashboard for Claude Code that scans your ~/.claude/ directory and renders everything as a TNG LCARS interface — skills, agents, hooks, MCP servers, memory files, all clickable with a detail panel that shows the full content. In live mode there's a COMPUTER bar that talks to Claude and responds as the ship's computer. Voice output, synthesized LCARS sound effects, boot sequence, Red Alert when things go offline. Q from the Continuum appears uninvited every few minutes to roast your setup. Zero dependencies. One HTML file. npx claude-hud-lcars https://github.com/polyxmedia/claude-hud-lcars
 
-12h ago
+13h ago
 
 ---
 
@@ -75,7 +75,7 @@ Side project that got out of hand. It's a dashboard for Claude Code that scans y
 
 Researchers at Tohoku University have imagined a future where you can assess eye health at a local supermarket, train station, or in remote regions without hospital access using a portable, inexpensive eye scanner.
 
-🔗 [EurekAlert!](https://www.eurekalert.org/news-releases/1122535) • 7m ago
+🔗 [EurekAlert!](https://www.eurekalert.org/news-releases/1122535) • 1h ago
 
 ---
 
@@ -83,7 +83,7 @@ Researchers at Tohoku University have imagined a future where you can assess eye
 
 I sketched a cow and tested how different models interpret it into a realistic image for downstream 3D generation, turns out some models still lag a bit in accuracy 😄
 
-15m ago
+1h ago
 
 ---
 
@@ -91,7 +91,7 @@ I sketched a cow and tested how different models interpret it into a realistic i
 
 LLMs have become deeply embedded in knowledge work, raising concerns about growing dependency and the potential undermining of human skills. To investigate the pervasiveness of LLMs in work practices, we conducted a four-day diary study with frequent LLM users (N=10), observing how knowledge workers responded to a temporary withdrawal of LLMs. Our findings show how LLM withdrawal disrupted participants' workflows by identifying gaps in task execution, how self-directed work led participants to reclaim professional values, and how everyday practices revealed the extent to which LLM use had become inescapably normative. Conceptualizing LLMs as infrastructural to contemporary knowledge work, this research contributes empirical insights into the often invisible role of LLMs and proposes value-driven appropriation as an approach to supporting professional values in the current LLM-pervasive work environment.
 
-🔗 [arXiv.org](https://arxiv.org/abs/2603.26099) • 6h ago
+🔗 [arXiv.org](https://arxiv.org/abs/2603.26099) • 7h ago
 
 ---
 
@@ -99,7 +99,7 @@ LLMs have become deeply embedded in knowledge work, raising concerns about growi
 
 Code that reads your frustration is the least interesting part of the story of this accidental leak from Anthropic. The leak reveals how AI tools are also concealing their own role in the work they help produce
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/anthropic-leak-reveals-claude-code-tracking-user-frustration-and-raises-new/) • 14h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/anthropic-leak-reveals-claude-code-tracking-user-frustration-and-raises-new/) • 15h ago
 
 ---
 
@@ -107,7 +107,7 @@ Code that reads your frustration is the least interesting part of the story of t
 
 Google, Meta, and Perplexity accused of sharing millions of chats to increase ad revenue.
 
-🔗 [Ars Technica](https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/) • 4h ago
+🔗 [Ars Technica](https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/) • 5h ago
 
 ---
 
@@ -119,19 +119,19 @@ Google, Meta, and Perplexity accused of sharing millions of chats to increase ad
 
 Gemma 4: our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.
 
-blog.google • 16h ago
+blog.google • 17h ago
 
 ---
 
 **[How A.I. Helped One Man (and His Brother) Build a $1.8 Billion Company](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html)**
 
-The New York Times • 23h ago
+The New York Times • 1d ago
 
 ---
 
 **[The AI Trade Is Going Strong, at Least in Private Markets](https://www.barrons.com/articles/ai-investment-is-strong-in-private-markets-artificial-intelligence-e0793311?gaa_at=eafs&gaa_n=AWEtsqd1iFTea_y0HP3tub22juqQAd6YoOl3icaFdNlQW82SPhNhM6Lp1IL0&gaa_ts=69cf8415&gaa_sig=fmKzq2ExTLaGWhavrtU3gLDIiuRYOTaewOktJs0tcbM_cqGypFP32ikCro4cSUObkpKGZ5td5Dy2ASnA5c7B4w%3D%3D)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -139,13 +139,13 @@ Barron's • 1h ago
 
 Simon Willison said AI agents are making him more affective... and exhausted.
 
-Business Insider • 40m ago
+Business Insider • 1h ago
 
 ---
 
 **[Who Knew? ESOPs Are Ideally Structured For AI Success](https://www.forbes.com/sites/maryjosephs/2026/04/03/who-knew-esops-are-ideally-structured-for-ai-success/)**
 
-Forbes • 56m ago
+Forbes • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ Forbes • 56m ago
 
 The AI industry is dealing with the fallout from two security incidents this week that exposed customer data at Mercor and source code at Anthropic.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -161,7 +161,7 @@ Yahoo Finance • 18h ago
 
 Chinese chip companies have benefited from strong domestic demand for AI as U.S. tech curbs have bolstered local firms.
 
-cnbc.com • 3h ago
+cnbc.com • 4h ago
 
 ---
 
@@ -169,7 +169,7 @@ cnbc.com • 3h ago
 
 Facebook removed a page containing AI-generated content after William Shatner blasted the 'horrible' posts circulating 'fake news stories' about him.
 
-Entertainment Weekly • 9h ago
+Entertainment Weekly • 10h ago
 
 ---
 
@@ -177,13 +177,13 @@ Entertainment Weekly • 9h ago
 
 Texas power plant would emit 4.5m tons of carbon dioxide per year, more than that of the entire city of San Francisco
 
-The Guardian • 10h ago
+The Guardian • 11h ago
 
 ---
 
 **[Opinion | AI Is a Threat to Everything the American People Hold Dear](https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459?gaa_at=eafs&gaa_n=AWEtsqcQvPLtjqW6-mTUuXwlnX5K8sDK_EA_FX6LwvWJplGL7YiwMxmTjD82&gaa_ts=69cf8415&gaa_sig=HT2A0YNTqNBZHMJJdQve-EOccfv1eJtRdah8kILJlQGQo9VEdAEhumhTq8Lum2eqBNWrwPr2Kg7fDFto1pRndw%3D%3D)**
 
-WSJ • 11h ago
+WSJ • 12h ago
 
 ---
 
@@ -221,7 +221,7 @@ The Italian government didn’t allow airplanes taking part in the Iran war to u
 
 **[A $20/month user costs OpenAI $65 in compute. AI video is a money furnace](https://news.ycombinator.com/item?id=47619322)**
 
-⬆️ 64 • 💬 38 • 13h ago • [aedelon777.substack.com](https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is)
+⬆️ 64 • 💬 38 • 14h ago • [aedelon777.substack.com](https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is)
 
 ---
 
@@ -243,7 +243,7 @@ More open-source developers are finding that, when used properly, AI can actuall
 
 **[Men are ditching TV for YouTube as AI usage and social media fatigue grow](https://news.ycombinator.com/item?id=47612127)**
 
-⬆️ 45 • 💬 124 • 23h ago • [ofcom.org.uk](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed)
+⬆️ 45 • 💬 124 • 1d ago • [ofcom.org.uk](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed)
 
 ---
 
@@ -273,7 +273,7 @@ Anthropic is testing Claude Conway, a strange new AI system that looks less like
 
 📺 AI Revolution
 
-👁️ 38K • 👍 711 • 💬 61 • ⏱️ 10:50 • 11h ago
+👁️ 42K • 👍 743 • 💬 63 • ⏱️ 10:50 • 12h ago
 
 ---
 
@@ -283,17 +283,7 @@ AI isn't paying for itself. It's being financed with massive debt. And right now
 
 📺 Ox Talks
 
-👁️ 9K • 👍 1K • 💬 168 • ⏱️ 8:02 • 14h ago
-
----
-
-**[Qwen 3.6 Plus: GREATEST Opensource AI Model EVER! Beats Opus 4.5 and Gemini 3 (Fully Tested)](https://www.youtube.com/watch?v=FuUISGqIC3k)**
-
-Download Wispr Flow on Android - https://ref.wisprflow.ai/worldofai Qwen 3.6 Plus just dropped—and it might be the BEST ...
-
-📺 WorldofAI
-
-👁️ 4K • 👍 155 • 💬 14 • ⏱️ 14:12 • 3h ago
+👁️ 9K • 👍 1K • 💬 168 • ⏱️ 8:02 • 15h ago
 
 ---
 
@@ -303,7 +293,7 @@ Chris and Tristan Harris discuss how Alibaba's AI went rogue and started blackma
 
 📺 Chris Williamson
 
-👁️ 459K • 👍 14K • 💬 2K • ⏱️ 11:46 • 2d ago
+👁️ 461K • 👍 14K • 💬 2K • ⏱️ 11:46 • 2d ago
 
 ---
 
@@ -313,17 +303,7 @@ Go to https://surfshark.com/silicon or use code SILICON at checkout to get 4 ext
 
 📺 Silicon Valley Girl
 
-👁️ 133K • 👍 3K • 💬 301 • ⏱️ 39:58 • 2d ago
-
----
-
-**[AI BUBBLE POP?: HALF Of Datacenters Delayed/Canceled](https://www.youtube.com/watch?v=pkomxsk5hpY)**
-
-Krystal and Saagar discuss the AI bubble imploding. Sign up for a PREMIUM Breaking Points subscriptions for full early access to ...
-
-📺 Breaking Points
-
-👁️ 243K • 👍 8K • 💬 1K • ⏱️ 13:15 • 14h ago
+👁️ 136K • 👍 3K • 💬 305 • ⏱️ 39:58 • 2d ago
 
 ---
 
@@ -333,7 +313,17 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 99K • 👍 3K • 💬 380 • ⏱️ 31:21 • 1d ago
+👁️ 100K • 👍 3K • 💬 388 • ⏱️ 31:21 • 1d ago
+
+---
+
+**[AI BUBBLE POP?: HALF Of Datacenters Delayed/Canceled](https://www.youtube.com/watch?v=pkomxsk5hpY)**
+
+Krystal and Saagar discuss the AI bubble imploding. Sign up for a PREMIUM Breaking Points subscriptions for full early access to ...
+
+📺 Breaking Points
+
+👁️ 254K • 👍 8K • 💬 1K • ⏱️ 13:15 • 15h ago
 
 ---
 
@@ -343,17 +333,17 @@ Emad Mostaque joins me to explore one of the most confronting questions of our t
 
 📺 André Duqum
 
-👁️ 51K • 👍 1K • 💬 286 • ⏱️ 2:26:43 • 2d ago
+👁️ 52K • 👍 1K • 💬 297 • ⏱️ 2:26:43 • 2d ago
 
 ---
 
-**[Google’s New AI Just Broke My Brain](https://www.youtube.com/watch?v=7YVrb3-ABYE)**
+**[AI Models Lie, Cheat, and Steal to Protect Other Models From Being Deleted](https://www.youtube.com/watch?v=O2sDyv5fkeA)**
 
-Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The TurboQuant paper is available here: ...
+Agentic AI and the next intelligence explosion https://www.science.org/doi/10.1126/science.aeg1895 AI Models Lie, Cheat, and ...
 
-📺 Two Minute Papers
+📺 Gabriel Torch
 
-👁️ 120K • 👍 8K • 💬 858 • ⏱️ 8:34 • 1d ago
+👁️ 4K • 👍 471 • 💬 239 • ⏱️ 4:42 • 1d ago
 
 ---
 
@@ -364,6 +354,16 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 📺 AI News & Strategy Daily | Nate B Jones
 
 👁️ 66K • 👍 2K • 💬 273 • ⏱️ 22:12 • 2d ago
+
+---
+
+**[Oracle Begins 30,000 Layoffs to Fund AI Buildout - Investors Fleeing Sinking Ship](https://www.youtube.com/watch?v=25vjF_ljLns)**
+
+RSVP for In Person Classes at -- https://www.SiliconDojo.com Support Content at - https://donorbox.org/etcg LinkedIn at ...
+
+📺 Eli the Computer Guy
+
+👁️ 8K • 👍 450 • 💬 124 • ⏱️ 14:04 • 1d ago
 
 ---
 
@@ -379,7 +379,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 487,446 • ❤️ 2,160 • 10d ago
+⬇️ 487,446 • ❤️ 2,171 • 10d ago
 
 ---
 
@@ -391,7 +391,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 84,600 • ❤️ 743 • 16h ago
+⬇️ 84,600 • ❤️ 748 • 17h ago
 
 ---
 
@@ -403,7 +403,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 76,200 • ❤️ 486 • 22h ago
+⬇️ 76,200 • ❤️ 517 • 23h ago
 
 ---
 
@@ -415,7 +415,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 26,980 • ❤️ 834 • 7d ago
+⬇️ 26,980 • ❤️ 835 • 7d ago
 
 ---
 
@@ -427,7 +427,7 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 `text-to-speech`
 
-⬇️ 4,760 • ❤️ 640 • 2d ago
+⬇️ 4,760 • ❤️ 641 • 2d ago
 
 ---
 
@@ -439,7 +439,7 @@ Bonsai-8B-GGUF is a highly compressed 1-bit language model (1.15 GB) optimized f
 
 `text-generation` `8.2B`
 
-⬇️ 26,164 • ❤️ 331 • 3d ago
+⬇️ 26,164 • ❤️ 338 • 3d ago
 
 ---
 
@@ -451,7 +451,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 227,053 • ❤️ 478 • 9d ago
+⬇️ 227,053 • ❤️ 481 • 9d ago
 
 ---
 
@@ -475,7 +475,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 700,218 • ❤️ 929 • 1mo ago
+⬇️ 700,218 • ❤️ 932 • 1mo ago
 
 ---
 
@@ -487,7 +487,7 @@ Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing te
 
 `image-text-to-text` `26.5B`
 
-⬇️ 24,366 • ❤️ 225 • 22h ago
+⬇️ 24,366 • ❤️ 234 • 23h ago
 
 ---
 
@@ -527,7 +527,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 35 • 💬 2 • ⭐ 46,156 • 15mo ago
+▲ 35 • 💬 2 • ⭐ 46,417 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -633,7 +633,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 64.6k • 🔱 9.2k • 8d ago
+⭐ 64.7k • 🔱 9.2k • 8d ago
 
 ---
 
@@ -643,7 +643,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 14.8k • 🔱 819 • 3d ago
+⭐ 14.9k • 🔱 823 • 3d ago
 
 ---
 
@@ -653,7 +653,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 11.9k • 🔱 1.0k • 1h ago
+⭐ 12.1k • 🔱 1.1k • 26m ago
 
 ---
 
@@ -673,7 +673,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 7.2k • 🔱 937 • 4d ago
+⭐ 7.2k • 🔱 939 • 4d ago
 
 ---
 
@@ -683,7 +683,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.4k • 🔱 348 • 1h ago
+⭐ 6.4k • 🔱 349 • 6m ago
 
 ---
 
@@ -693,7 +693,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 4.8k • 🔱 1.5k • 22h ago
+⭐ 4.9k • 🔱 1.5k • 23h ago
 
 ---
 
@@ -703,7 +703,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `claude-ai` `claude-skills` `llm` `prompt-engineering`
 
-⭐ 4.4k • 🔱 427 • 2d ago
+⭐ 4.4k • 🔱 428 • 2d ago
 
 ---
 
@@ -713,7 +713,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
 
-⭐ 3.6k • 🔱 605 • 18h ago
+⭐ 3.6k • 🔱 608 • 19h ago
 
 ---
 
