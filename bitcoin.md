@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-03T09:55:25.336774+00:00'
+updated: '2026-04-03T10:44:25.168381+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- social
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 03, 2026 at 09:55 UTC  
+**Last Updated:** April 03, 2026 at 10:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** +0.8%  
-**30d:** -5.5%  
-**90d:** -26.8%  
-**1y:** -20.2%  
+**24h:** +0.8%  
+**7d:** +0.6%  
+**30d:** -5.8%  
+**90d:** -27.0%  
+**1y:** -20.4%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Been putting $180 into bitcoin through coinbase every week on fridays for a while now. As someone who's still learning about all this crypto stuff but wants to get involved somehow, does this approach make sense? I know I'm not smart enough to figure out when to buy the dips or whatever, so I just stick to the same amount each week instead of trying to time anything. Anyone else doing something similar? Just wondering if I'm on the right track here.
 
-8h ago
+9h ago
 
 ---
 
@@ -89,13 +89,13 @@ Been putting $180 into bitcoin through coinbase every week on fridays for a whil
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
 
 ---
 
 **[So many DCA strategies in the sub recently. Here's mine](https://www.reddit.com/r/Bitcoin/comments/1sah1xz/so_many_dca_strategies_in_the_sub_recently_heres/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -103,7 +103,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/yFE2FV9ia1s) • 22h ago
+🔗 [youtu.be](https://youtu.be/yFE2FV9ia1s) • 23h ago
 
 ---
 
@@ -111,7 +111,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Would you send the btc to a new address generated on trezor 7, or just set up the new trezor using seed words from original trezor? Any difference in security down the road that way? I think my btc is currently separated on my original trezor as segwit and legacy or something like that.
 
-8h ago
+9h ago
 
 ---
 
@@ -119,7 +119,7 @@ Would you send the btc to a new address generated on trezor 7, or just set up th
 
 Hi so i made a recent post talking about how i dont want to get fucked by the ATO. ive never reported (crypto gains/converts) to the government and especially not familiar how it is with the ATO since im from Denmark. i asked Chatgpt "where can i track my crypto and then report and send everything in one go?". it said a service like Koinly or Cointraciking. Right now im receiving on coinbase. but i do plan on switching to Receiving on "COCA" only as it gives nice cashback bonus of 6%. Quick side note: is there a better place to store crypto, bonus wise etc? but Yeah im confused. i could technically just look at the crypto i sold, but how will i be able to know how much it rose with from the date of purchase? man i cant see how that gonna be possible
 
-1h ago
+2h ago
 
 ---
 
@@ -135,7 +135,7 @@ Who else is pumped right now! Part of me wants another big dip so I can keep add
 
 I was playing around with COLDCARD's spending policy and its pretty awesome. You can add rules like spend limits, velocity controls, address whitelists, and even 2FA. Seems like a solid way to add some extra security without making things too complex. Anyone else played around with spending limits on their COLDCARD?
 
-18h ago
+19h ago
 
 ---
 
@@ -143,7 +143,7 @@ I was playing around with COLDCARD's spending policy and its pretty awesome. You
 
 Hello, can you recommend a platform for me to buy bitcoins? Thank you.
 
-17h ago
+18h ago
 
 ---
 
@@ -163,13 +163,15 @@ Taiwanese lawmaker Ko Ju-Chun said last year that the country’s Ministry of Ju
 
 Good Friday shuts CME futures and ETF activity, removing a key source of demand as large holders continue distributing and spot demand weakens.
 
-CoinDesk • 7h ago
+CoinDesk • 6h ago
 
 ---
 
-**[‘You Have Until 2029’—Urgent Elon Musk Bitcoin Warning Suddenly Triggers Price Crash Fears](https://www.forbes.com/sites/digital-assets/2026/04/02/you-have-until-2029-urgent-elon-musk-bitcoin-warning-suddenly-triggers-price-crash-fears/)**
+**[Goldman Sachs predicts new low for gold](https://www.thestreet.com/crypto/markets/goldman-sachs-predicts-new-low-for-bitcoin)**
 
-Forbes • 21h ago
+The bank predicts new risks.
+
+thestreet.com • 8h ago
 
 ---
 
@@ -177,7 +179,7 @@ Forbes • 21h ago
 
 Yahoo Finance Senior Reporter Brooke DiPalma reports on the sharp sell-off in crypto-linked stocks on Thursday, including Coinbase (COIN), Robinhood (HOOD), and Circle Internet Group (CRCL), as fading momentum and shifting investor sentiment trigger a broader pullback.Cryptocurrency bitcoin (BTC-USD) falls back below $67,000 as investors digest President Trump's latest remarks on the Iran war.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -187,11 +189,9 @@ Investing.com • 1d ago
 
 ---
 
-**[Bitcoin To $10,000 Theory Reignites as Analysts Debate Trump Speech Impact](https://finance.yahoo.com/markets/crypto/articles/bitcoin-10-000-theory-reignites-064715227.html)**
+**[Bitcoin's Stuttered Amid Iran War. The Crypto’s Now a Critical Market Indicator.](https://www.barrons.com/articles/bitcoin-crypto-iran-war-stock-market-what-to-know-today-d2510156?gaa_at=eafs&gaa_n=AWEtsqfYYg_p9cnh4ymcqhVJie9fvhPWl3zwnjsgYcuiQfCtp4IbwSgdaFcK&gaa_ts=69cf9d63&gaa_sig=jkWihyrOQz-XzGcgY8bIMkJEQycfx75QT92fI7JZsNrlJVkK5a95MTeX4VXCMnQEDFBkokdKy2nQaFjbwSV0Ow%3D%3D)**
 
-Bitcoin's price drops amid broader risk-off sentiment. Bloomberg’s Mike McGlone reiterated his view that Bitcoin could revert to $10,000. Debate continues over the cause of ...
-
-Yahoo Finance • 3h ago
+Barron's • 30m ago
 
 ---
 
@@ -199,15 +199,21 @@ Yahoo Finance • 3h ago
 
 Bloomberg senior strategist Mike McGlone has renewed a stark prediction for Bitcoin (BTC), arguing that the market’s leading cryptocurrency could resume a prolonged decline that takes it back toward $10,000. Why McGlone Sees Bitcoin Heading Back To $10KIn a Thursday post on social media platform X…
 
-TradingView • 1h ago
+TradingView • 2h ago
 
 ---
 
-**[Bitcoin supply in profit heads to ‘true bear market’ levels](https://www.tradingview.com/news/cointelegraph:4a60a0941094b:0-bitcoin-supply-in-profit-heads-to-true-bear-market-levels/)**
+**[Circle Unveils New Token Aimed at Expanding Bitcoin Utility](https://finance.yahoo.com/markets/crypto/articles/circle-unveils-token-aimed-expanding-093612841.html)**
 
-The amount of Bitcoin supply in profit and loss is now getting closer to levels typical of a bear market, according to a CryptoQuant analyst.There are currently about 11.2 million Bitcoin (BTC) in profit. The previous bear market recorded 9 million BTC in profit at its lowest point, CryptoQuant ana…
+Circle has launched cirBTC, a wrapped Bitcoin token backed 1:1 with native on-chain BTC reserves, deploying first on Ethereum mainnet and its own Arc blockchain. The move is direct: Bitcoin holds over $1.7 trillion in market cap but generates almost no DeFi activity, and Circle is positioning itself as the ...
 
-TradingView • 4h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Man tried to ransom former employer out of $750,000 in Bitcoin after launching a cyber attack, feds say](https://www.nj.com/news/2026/04/man-tried-to-ransom-former-employer-out-of-750000-in-bitcoin-after-launching-a-cyber-attack-feds-say.html)**
+
+NJ.com • 12h ago
 
 ---
 
@@ -215,21 +221,13 @@ TradingView • 4h ago
 
 Circle's bitcoin payments app Circle Pay was sunsetted in 2019 as the firm pivoted to focus solely on stablecoins.
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
-**[Top cryptocurrencies fall; Bitcoin falls below $68,000](https://www.msn.com/en-us/money/markets/top-cryptocurrencies-fall-bitcoin-falls-below-68-000/ar-AA201NQW)**
+**[‘You Have Until 2029’—Urgent Elon Musk Bitcoin Warning Suddenly Triggers Price Crash Fears](https://www.forbes.com/sites/digital-assets/2026/04/02/you-have-until-2029-urgent-elon-musk-bitcoin-warning-suddenly-triggers-price-crash-fears/)**
 
-MSN • 1h ago
-
----
-
-**[Current price of Bitcoin for April 1, 2026](https://fortune.com/article/price-of-bitcoin-04-01-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 1d ago
+Forbes • 22h ago
 
 ---
 
@@ -255,7 +253,7 @@ Bitcoin needs to fix this in the next three years.
 
 **[Strive, Tuttle File Leveraged Bitcoin ETF](https://news.ycombinator.com/item?id=47621293)**
 
-⬆️ 4 • 💬 0 • 10h ago • [catenaa.com](https://catenaa.com/markets/cryptocurrencies/strive-tuttle-file-leveraged-etf-tied-to-bitcoin-preferreds/)
+⬆️ 4 • 💬 0 • 11h ago • [catenaa.com](https://catenaa.com/markets/cryptocurrencies/strive-tuttle-file-leveraged-etf-tied-to-bitcoin-preferreds/)
 
 ---
 
@@ -283,7 +281,7 @@ The first signing system where the private key is a physical key — and can sti
 
 Test your prediction skills against historical data. Draw your forecast and see how you rank.
 
-⬆️ 1 • 💬 0 • 14h ago • [longmarkets.app](https://longmarkets.app/rewinds/rewind-bitcoin-2017)
+⬆️ 1 • 💬 0 • 15h ago • [longmarkets.app](https://longmarkets.app/rewinds/rewind-bitcoin-2017)
 
 ---
 
@@ -303,7 +301,7 @@ runs multiple inputs through a script/function in parallel using bash coprocs - 
 
 **[Men are ditching TV for YouTube as AI usage and social media fatigue grow](https://news.ycombinator.com/item?id=47612127)**
 
-⬆️ 45 • 💬 124 • 1d ago • [ofcom.org.uk](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed)
+⬆️ 46 • 💬 124 • 1d ago • [ofcom.org.uk](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed)
 
 ---
 
@@ -317,7 +315,7 @@ Trump speaks… and markets crash again! Bitcoin fell to $66K, and in just 25 mi
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 1K • 💬 118 • ⏱️ 36:07 • 9h ago
+👁️ 10K • 👍 1K • 💬 118 • ⏱️ 36:07 • 10h ago
 
 ---
 
@@ -337,7 +335,7 @@ Bitcoin has been around for 17 years. In that time it's been called digital gold
 
 📺 OpTicBigTymeR
 
-👁️ 6K • 👍 340 • 💬 320 • ⏱️ 18:15 • 14h ago
+👁️ 6K • 👍 340 • 💬 320 • ⏱️ 18:15 • 15h ago
 
 ---
 
@@ -347,7 +345,7 @@ Google just dropped a bombshell that reignited fears around Bitcoin and quantum 
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 676 • 💬 114 • ⏱️ 14:32 • 21h ago
+👁️ 12K • 👍 676 • 💬 114 • ⏱️ 14:32 • 22h ago
 
 ---
 
@@ -367,7 +365,7 @@ Global markets are navigating a high stakes tug of war today. Following an addre
 
 📺 Kitco NEWS
 
-👁️ 11K • 👍 351 • 💬 76 • ⏱️ 31:18 • 14h ago
+👁️ 11K • 👍 351 • 💬 76 • ⏱️ 31:18 • 15h ago
 
 ---
 
@@ -377,7 +375,7 @@ Bitcoin #Crypto #Finance Bitcoin is sitting at a critical level, and what happen
 
 📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 389 • 💬 149 • ⏱️ 33:28 • 14h ago
+👁️ 8K • 👍 389 • 💬 149 • ⏱️ 33:28 • 15h ago
 
 ---
 

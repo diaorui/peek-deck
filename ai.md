@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-03T09:55:25.328492+00:00'
+updated: '2026-04-03T10:44:25.156870+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 03, 2026 at 09:55 UTC  
+**Last Updated:** April 03, 2026 at 10:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,15 +37,15 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Google releases Gemma 4 models.](https://www.reddit.com/r/artificial/comments/1sapfpu/google_releases_gemma_4_models/)**
+**[MIT study challenges AI job apocalypse narrative](https://www.reddit.com/r/artificial/comments/1sb7qxc/mit_study_challenges_ai_job_apocalypse_narrative/)**
 
-15h ago
+🔗 [axios.com](https://www.axios.com/2026/04/02/ai-jobs-mit-study-workforce-impact) • 2h ago
 
 ---
 
-**[MIT study challenges AI job apocalypse narrative](https://www.reddit.com/r/artificial/comments/1sb7qxc/mit_study_challenges_ai_job_apocalypse_narrative/)**
+**[Google releases Gemma 4 models.](https://www.reddit.com/r/artificial/comments/1sapfpu/google_releases_gemma_4_models/)**
 
-🔗 [axios.com](https://www.axios.com/2026/04/02/ai-jobs-mit-study-workforce-impact) • 1h ago
+16h ago
 
 ---
 
@@ -53,13 +53,29 @@ AI news, discussions, and developments
 
 The model is also available here: 🤗 HuggingFace: https://huggingface.co/collections/google/gemma-4 🦙 Ollama: https://ollama.com/library/gemma4
 
-🔗 [Google](https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/) • 16h ago
+🔗 [Google](https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/) • 17h ago
 
 ---
 
 **[Microsoft to invest $10 billion in Japan for AI and cyber defence expansion](https://www.reddit.com/r/artificial/comments/1sb65un/microsoft_to_invest_10_billion_in_japan_for_ai/)**
 
 🔗 [reuters.com](https://www.reuters.com/business/media-telecom/microsoft-invest-10-billion-japan-ai-cyber-defence-expansion-2026-04-03/) • 3h ago
+
+---
+
+**[FLUX 2 Pro (2026) Sketch to Image](https://www.reddit.com/r/artificial/comments/1sb81bl/flux_2_pro_2026_sketch_to_image/)**
+
+I sketched a cow and tested how different models interpret it into a realistic image for downstream 3D generation, turns out some models still lag a bit in accuracy 😄
+
+2h ago
+
+---
+
+**[Perplexity's "Incognito Mode" is a "sham," lawsuit says](https://www.reddit.com/r/artificial/comments/1sb38mv/perplexitys_incognito_mode_is_a_sham_lawsuit_says/)**
+
+Google, Meta, and Perplexity accused of sharing millions of chats to increase ad revenue.
+
+🔗 [Ars Technica](https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/) • 6h ago
 
 ---
 
@@ -79,19 +95,11 @@ Researchers at Tohoku University have imagined a future where you can assess eye
 
 ---
 
-**[FLUX 2 Pro (2026) Sketch to Image](https://www.reddit.com/r/artificial/comments/1sb81bl/flux_2_pro_2026_sketch_to_image/)**
-
-I sketched a cow and tested how different models interpret it into a realistic image for downstream 3D generation, turns out some models still lag a bit in accuracy 😄
-
-1h ago
-
----
-
 **["Oops! ChatGPT is Temporarily Unavailable!": A Diary Study on Knowledge Workers' Experiences of LLM Withdrawal](https://www.reddit.com/r/artificial/comments/1sb0nju/oops_chatgpt_is_temporarily_unavailable_a_diary/)**
 
 LLMs have become deeply embedded in knowledge work, raising concerns about growing dependency and the potential undermining of human skills. To investigate the pervasiveness of LLMs in work practices, we conducted a four-day diary study with frequent LLM users (N=10), observing how knowledge workers responded to a temporary withdrawal of LLMs. Our findings show how LLM withdrawal disrupted participants' workflows by identifying gaps in task execution, how self-directed work led participants to reclaim professional values, and how everyday practices revealed the extent to which LLM use had become inescapably normative. Conceptualizing LLMs as infrastructural to contemporary knowledge work, this research contributes empirical insights into the often invisible role of LLMs and proposes value-driven appropriation as an approach to supporting professional values in the current LLM-pervasive work environment.
 
-🔗 [arXiv.org](https://arxiv.org/abs/2603.26099) • 7h ago
+🔗 [arXiv.org](https://arxiv.org/abs/2603.26099) • 8h ago
 
 ---
 
@@ -99,15 +107,7 @@ LLMs have become deeply embedded in knowledge work, raising concerns about growi
 
 Code that reads your frustration is the least interesting part of the story of this accidental leak from Anthropic. The leak reveals how AI tools are also concealing their own role in the work they help produce
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/anthropic-leak-reveals-claude-code-tracking-user-frustration-and-raises-new/) • 15h ago
-
----
-
-**[Perplexity's "Incognito Mode" is a "sham," lawsuit says](https://www.reddit.com/r/artificial/comments/1sb38mv/perplexitys_incognito_mode_is_a_sham_lawsuit_says/)**
-
-Google, Meta, and Perplexity accused of sharing millions of chats to increase ad revenue.
-
-🔗 [Ars Technica](https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/) • 5h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/anthropic-leak-reveals-claude-code-tracking-user-frustration-and-raises-new/) • 16h ago
 
 ---
 
@@ -115,45 +115,59 @@ Google, Meta, and Perplexity accused of sharing millions of chats to increase ad
 
 ## Google News: "ai"
 
+**[Microsoft to invest $10 billion in Japan for AI and cyber defence expansion](https://www.reuters.com/business/media-telecom/microsoft-invest-10-billion-japan-ai-cyber-defence-expansion-2026-04-03/)**
+
+Reuters • 7h ago
+
+---
+
+**[Microsoft Drafts $10 Billion Investment Plan in AI-Hungry Japan](https://www.bloomberg.com/news/articles/2026-04-03/microsoft-drafts-10-billion-investment-plan-in-ai-hungry-japan)**
+
+Bloomberg.com • 3h ago
+
+---
+
+**[Microsoft takes on AI rivals with three new foundational models](https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/)**
+
+MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.
+
+techcrunch.com • 17h ago
+
+---
+
+**[Penalties stack up as AI spreads through the legal system](https://www.npr.org/2026/04/03/nx-s1-5761454/penalties-stack-up-ai-spreads-through-legal-system)**
+
+Early scandals have not slowed lawyers' adoption of AI tools, even as court sanctions over fake legal briefs continue to rise.
+
+NPR • 1h ago
+
+---
+
+**[Economists Once Dismissed the A.I. Job Threat, but Not Anymore](https://www.nytimes.com/2026/04/03/business/economists-once-dismissed-the-ai-job-threat-but-not-anymore.html)**
+
+The New York Times • 1h ago
+
+---
+
+**[AI boom drives clash between grid power vs. energy "islands"](https://www.axios.com/2026/04/03/ai-power-data-centers-energy-grid)**
+
+Axios • 1h ago
+
+---
+
+**[Anthropic’s next model could be a ‘watershed moment’ for cybersecurity. Experts say that could also be a concern](https://www.cnn.com/2026/04/03/tech/anthropic-mythos-ai-cybersecurity)**
+
+The next wave of AI-powered cybersecurity attacks will be like nothing we’ve seen before.
+
+CNN • 1h ago
+
+---
+
 **[Gemma 4: Byte for byte, the most capable open models](https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/)**
 
 Gemma 4: our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.
 
-blog.google • 17h ago
-
----
-
-**[How A.I. Helped One Man (and His Brother) Build a $1.8 Billion Company](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html)**
-
-The New York Times • 1d ago
-
----
-
-**[The AI Trade Is Going Strong, at Least in Private Markets](https://www.barrons.com/articles/ai-investment-is-strong-in-private-markets-artificial-intelligence-e0793311?gaa_at=eafs&gaa_n=AWEtsqd1iFTea_y0HP3tub22juqQAd6YoOl3icaFdNlQW82SPhNhM6Lp1IL0&gaa_ts=69cf8415&gaa_sig=fmKzq2ExTLaGWhavrtU3gLDIiuRYOTaewOktJs0tcbM_cqGypFP32ikCro4cSUObkpKGZ5td5Dy2ASnA5c7B4w%3D%3D)**
-
-Barron's • 2h ago
-
----
-
-**['AI-pilled' engineers are working harder and burning out faster, Django co-creator says](https://www.businessinsider.com/ai-engineers-exhausted-django-co-creator-simon-willison-2026-4)**
-
-Simon Willison said AI agents are making him more affective... and exhausted.
-
-Business Insider • 1h ago
-
----
-
-**[Who Knew? ESOPs Are Ideally Structured For AI Success](https://www.forbes.com/sites/maryjosephs/2026/04/03/who-knew-esops-are-ideally-structured-for-ai-success/)**
-
-Forbes • 1h ago
-
----
-
-**[Twin cybersecurity incidents leave AI industry shaken](https://finance.yahoo.com/sectors/technology/article/twin-cybersecurity-incidents-leave-ai-industry-shaken-141850823.html)**
-
-The AI industry is dealing with the fallout from two security incidents this week that exposed customer data at Mercor and source code at Anthropic.
-
-Yahoo Finance • 19h ago
+blog.google • 18h ago
 
 ---
 
@@ -161,29 +175,15 @@ Yahoo Finance • 19h ago
 
 Chinese chip companies have benefited from strong domestic demand for AI as U.S. tech curbs have bolstered local firms.
 
-cnbc.com • 4h ago
+CNBC • 5h ago
 
 ---
 
-**[Facebook removes page after William Shatner blasts 'horrible' AI-generated 'fake news' posts about him](https://ew.com/facebook-removes-page-after-william-shatner-blasts-ai-generated-fake-news-11941868)**
+**[Emotion concepts and their function in a large language model](https://www.anthropic.com/research/emotion-concepts-function)**
 
-Facebook removed a page containing AI-generated content after William Shatner blasted the 'horrible' posts circulating 'fake news stories' about him.
+Interpretability research from Anthropic on emotion concepts
 
-Entertainment Weekly • 10h ago
-
----
-
-**[Google to tap into gas plant for AI datacenter in sharp turn from climate goals](https://www.theguardian.com/technology/2026/apr/02/google-ai-datacenter)**
-
-Texas power plant would emit 4.5m tons of carbon dioxide per year, more than that of the entire city of San Francisco
-
-The Guardian • 11h ago
-
----
-
-**[Opinion | AI Is a Threat to Everything the American People Hold Dear](https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459?gaa_at=eafs&gaa_n=AWEtsqcQvPLtjqW6-mTUuXwlnX5K8sDK_EA_FX6LwvWJplGL7YiwMxmTjD82&gaa_ts=69cf8415&gaa_sig=HT2A0YNTqNBZHMJJdQve-EOccfv1eJtRdah8kILJlQGQo9VEdAEhumhTq8Lum2eqBNWrwPr2Kg7fDFto1pRndw%3D%3D)**
-
-WSJ • 12h ago
+Anthropic • 17h ago
 
 ---
 
@@ -221,7 +221,7 @@ The Italian government didn’t allow airplanes taking part in the Iran war to u
 
 **[A $20/month user costs OpenAI $65 in compute. AI video is a money furnace](https://news.ycombinator.com/item?id=47619322)**
 
-⬆️ 64 • 💬 38 • 14h ago • [aedelon777.substack.com](https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is)
+⬆️ 65 • 💬 38 • 14h ago • [aedelon777.substack.com](https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is)
 
 ---
 
@@ -243,7 +243,7 @@ More open-source developers are finding that, when used properly, AI can actuall
 
 **[Men are ditching TV for YouTube as AI usage and social media fatigue grow](https://news.ycombinator.com/item?id=47612127)**
 
-⬆️ 45 • 💬 124 • 1d ago • [ofcom.org.uk](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed)
+⬆️ 46 • 💬 124 • 1d ago • [ofcom.org.uk](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed)
 
 ---
 
@@ -273,7 +273,7 @@ Anthropic is testing Claude Conway, a strange new AI system that looks less like
 
 📺 AI Revolution
 
-👁️ 42K • 👍 743 • 💬 63 • ⏱️ 10:50 • 12h ago
+👁️ 42K • 👍 743 • 💬 63 • ⏱️ 10:50 • 13h ago
 
 ---
 
@@ -323,7 +323,7 @@ Krystal and Saagar discuss the AI bubble imploding. Sign up for a PREMIUM Breaki
 
 📺 Breaking Points
 
-👁️ 254K • 👍 8K • 💬 1K • ⏱️ 13:15 • 15h ago
+👁️ 254K • 👍 8K • 💬 1K • ⏱️ 13:15 • 16h ago
 
 ---
 
@@ -391,7 +391,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 84,600 • ❤️ 748 • 17h ago
+⬇️ 84,600 • ❤️ 748 • 18h ago
 
 ---
 
@@ -653,7 +653,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 12.1k • 🔱 1.1k • 26m ago
+⭐ 12.1k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -683,7 +683,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.4k • 🔱 349 • 6m ago
+⭐ 6.4k • 🔱 349 • 55m ago
 
 ---
 
@@ -713,7 +713,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
 
-⭐ 3.6k • 🔱 608 • 19h ago
+⭐ 3.6k • 🔱 608 • 20h ago
 
 ---
 
