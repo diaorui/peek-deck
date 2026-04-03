@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-03T04:55:01.484550+00:00'
+updated: '2026-04-03T06:12:26.670186+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 03, 2026 at 04:55 UTC  
+**Last Updated:** April 03, 2026 at 06:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Autonomous valet robot demonstrating precise self-parking in a real-world setting](https://www.reddit.com/r/robotics/comments/1san0l2/autonomous_valet_robot_demonstrating_precise/)**
 
-11h ago
+13h ago
 
 ---
 
 **[Generalist | Introducing GEN-1](https://www.reddit.com/r/robotics/comments/1saoiaj/generalist_introducing_gen1/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -48,21 +48,7 @@ Robotics research and industry news
 
 been working on this little desktop robot prototype called Kitto for a while now. honestly most of the hype right now is just cramming the biggest model possible into a plastic shell. but testing the interaction on this thing... if the timing is off it just feels like a glorified smart speaker. to make it actually feel 'alive' on a desk, the idle animations and the instant switch to a listening state carry like 90% of the weight. tbh we ended up spending way more time tuning the audio-to-viseme mapping for the face than we did tweaking the actual API prompts. current stack is just an esp32s3+esp32p4 (planning to migrate to a linux board soon so we can handle local processing and maybe hook into openclaw). the screen isnt playing pre-rendered video files btw. the mouth movements are code-driven in real-time by analyzing the audio stream. latency is still my biggest headache though. pinging the api, getting the TTS audio back, and triggering the animation states fast enough to not break the illusion is tough on this hardware. its getting there but still a lot of code to fix. definately not pitching this as finished hardware yet, mostly just looking for honest feedback on the HRI approach. curious how you guys are handling TTS latency in your own conversational builds right now?
 
-13h ago
-
----
-
-**[Robotics Studio](https://www.reddit.com/r/robotics/comments/1sapdsp/robotics_studio/)**
-
-10h ago
-
----
-
-**[4DOF Controller for an Automated Projector Project](https://www.reddit.com/r/robotics/comments/1sb00oz/4dof_controller_for_an_automated_projector_project/)**
-
-https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printed parts, motorized projector, home decoration, and DIY electronics -- if you know of anyone else that might be interested in this stuff, sharing to others would really help me out! Hope to see you around here or YouTube :)
-
-3h ago
+15h ago
 
 ---
 
@@ -70,19 +56,37 @@ https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printe
 
 Running 3 HC-SR04’s doing object detection and avoidance. Just getting my encoders working. Hoping to be mapping soon. Definitely a fun project.
 
-6h ago
+7h ago
 
 ---
 
-**["Follow Me" Mode: Real-time human tracking with YOLOv8](https://www.reddit.com/r/robotics/comments/1sac61n/follow_me_mode_realtime_human_tracking_with_yolov8/)**
+**[4DOF Controller for an Automated Projector Project](https://www.reddit.com/r/robotics/comments/1sb00oz/4dof_controller_for_an_automated_projector_project/)**
 
-19h ago
+https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printed parts, motorized projector, home decoration, and DIY electronics -- if you know of anyone else that might be interested in this stuff, sharing to others would really help me out! Hope to see you around here or YouTube :)
+
+4h ago
 
 ---
 
-**[Trying to build a differential drive robot from scratch (no tutorial) — stuck at URDF stage, model looks wrong](https://www.reddit.com/r/robotics/comments/1sb1em2/trying_to_build_a_differential_drive_robot_from/)**
+**[Robotics Studio](https://www.reddit.com/r/robotics/comments/1sapdsp/robotics_studio/)**
 
-2h ago
+11h ago
+
+---
+
+**[How far away is a theme park staffed entirely by robots from becoming a reality?](https://www.reddit.com/r/robotics/comments/1sb59ol/how_far_away_is_a_theme_park_staffed_entirely_by/)**
+
+I noticed the series of upgrades Disneyland has made to its robots over the past two years. What are your thoughts on a theme park populated by robots? Feel free to share in the comments section!
+
+18m ago
+
+---
+
+**[simple tool share: stepper coil identification helper](https://www.reddit.com/r/robotics/comments/1sb4n6g/simple_tool_share_stepper_coil_identification/)**
+
+https://xuanbuilds.github.io/stepper-coil-identification-helper/ I understand 99% of you on the sub don't need this, but here is the context: As a beginner, I struggled to connect stepper motors to drivers. The wiring order varies between motors, and the wire colors don’t indicate how they are grouped. Once I understood that a 2-phase bipolar stepper simply consists of two wire pairs forming two coils, the problem became trivial: identify one pair, and the other is immediately known. At that point, you can already connect the motor to a driver such as a DRV8825 and get it running. I built this simple tool to internalize that concept—and to help other beginners get tinkering quickly without needing to read about steppers first. After doing this a few times, it becomes obvious how simple coil identification is, and the helper becomes unnecessary. You’ll need a multimeter with continuity tester.
+
+53m ago
 
 ---
 
@@ -90,13 +94,13 @@ Running 3 HC-SR04’s doing object detection and avoidance. Just getting my enco
 
 Please RSVP Here. ROS By-The-Bay is the Bay Area's only meetup exclusively for Robot Operating System (ROS) users! We're holding a special edition of ROS By-The-Bay with our friends at Beckhoff Automation. This event will be held at the Beckhoff Innovation space at: 2665 N First St Suite #310, San Jose, from 6-9pm on Thursday, April 16th. Our guest speakers and events for this meetup include: Vignesh Anand -- co-founder of Innate. Innate is a robotics startup and recent YC grad building the MARS mobile manipulation platform. They'll talk about their prototype development process and how they took their MARS platform from zero to one. Oscar Avatare -- co-founder of Saphira. Saphira is a recent YC grad that helps robotics companies address critical safety and cybersecurity documention requirements like ISO 26262. "This talk explores how robotics teams can move from simulation to real-world deployment while navigating safety standards such as HARA, FMEA, and emerging AI-focused frameworks. Using ROS 2-based systems and scenario-driven simulation, we’ll show how safety risks can be identified, structured, and traced to system behavior—and how AI-assisted workflows can support, rather than replace, engineering judgment in building certifiable robotic systems Pizza and beverages will be provided. Free parking will be available!
 
-4h ago
+5h ago
 
 ---
 
-**[China announces its first automated manufacturing line capable of producing 10K humanoid robots per year - 1 robot every 30 minutes](https://www.reddit.com/r/robotics/comments/1s9qso0/china_announces_its_first_automated_manufacturing/)**
+**["Follow Me" Mode: Real-time human tracking with YOLOv8](https://www.reddit.com/r/robotics/comments/1sac61n/follow_me_mode_realtime_human_tracking_with_yolov8/)**
 
-1d ago
+21h ago
 
 ---
 
@@ -104,75 +108,73 @@ Please RSVP Here. ROS By-The-Bay is the Bay Area's only meetup exclusively for R
 
 ## Google News: "robotics"
 
-**[Gill Pratt Says Humanoid Robots’ Moment Is Finally Here](https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa)**
-
-The architect of the DARPA Robotics Challenge explains how their brains have caught up
-
-spectrum.ieee.org • 13h ago
-
----
-
-**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqegAT73cFKMB2c3xEw43Xd8ytK9-3YujIvaK7YR-wIdGA-yvm-4Kd8J&gaa_ts=69cf4b89&gaa_sig=WiVqyKBS-7Jf8x7z6KbLlvvUDlujR99mU5928Ppq4HRtpEOVOOtFeRV1yvWWOD5B2az9orFGgOLUqyetuRkchg%3D%3D)**
-
-WSJ • 1h ago
-
----
-
-**[Chinese Robot Pioneer UBTech Offers $18 Million for AI Scientist](https://www.bloomberg.com/news/articles/2026-04-03/chinese-robot-pioneer-ubtech-offers-18-million-for-ai-scientist)**
-
-Bloomberg.com • 34m ago
-
----
-
-**[The gig workers who are training humanoid robots at home](https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/)**
-
-People in Nigeria and India are strapping iPhones onto their heads and recording themselves doing chores.
-
-MIT Technology Review • 1d ago
-
----
-
-**[New Soft Sensors Give Humanoid Robots Finger Finesse](https://neurosciencenews.com/soft-sensing-humanoid-hand-precision-30438/)**
-
-Can robots play the piano? A new study introduces a dexterous robotic hand with omnidirectional soft sensors.
-
-Neuroscience News • 1d ago
-
----
-
-**[The world’s largest humanoid robot maker is going public](https://restofworld.org/2026/unitree-china-humanoid-robot-shanghai-ipo/)**
-
-Rest of World • 2d ago
-
----
-
-**[US targets Chinese robots over security fears](https://cyberguy.com/robot-tech/us-targets-chinese-robots-security-fears/)**
-
-Lawmakers push to ban Chinese robots in U.S. government over spying fears and data risks. Here’s what it means for you.
-
-Kurt the CyberGuy • 1d ago
-
----
-
-**[Video: Figure humanoid robot stuns Shawn Ryan with balance, grip and smooth walking](https://interestingengineering.com/ai-robotics/shawn-ryan-tests-figure-ais-humanoid)**
-
-Shawn Ryan tests Figure AI’s humanoid robot as CEO Brett Adcock reveals how the AI-powered machine walks, balances, and works.
-
-Interesting Engineering • 15h ago
-
----
-
 **[Exclusive: Anvil Robotics Raises $5.5M to Build ‘Legos for Robots’ Platform For Physical AI Teams](https://news.crunchbase.com/robotics/physical-ai-custom-robot-builder-seed-funding-anvil/)**
 
 Anvil Robotics, an eight-month-old startup that aims to be the “Legos for robots,” has raised $5.5 million in a seed funding round, it tells Crunchbase News exclusively.
 
-Crunchbase News • 15h ago
+Crunchbase News • 17h ago
 
 ---
 
 **[Generalist Is Betting Its Robot-Training Gloves Will Usher In Robotics’ ChatGPT Moment](https://www.forbes.com/sites/annatong/2026/04/02/generalist-is-betting-its-robot-training-gloves-will-usher-in-robotics-chatgpt-moment/)**
 
-forbes.com • 18h ago
+Forbes • 19h ago
+
+---
+
+**[Gill Pratt Says Humanoid Robots’ Moment Is Finally Here](https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa)**
+
+The architect of the DARPA Robotics Challenge explains how their brains have caught up
+
+IEEE Spectrum • 14h ago
+
+---
+
+**[Chinese Robot Pioneer UBTech Offers $18 Million for AI Scientist](https://www.bloomberg.com/news/articles/2026-04-03/chinese-robot-pioneer-ubtech-offers-18-million-for-ai-scientist)**
+
+bloomberg.com • 1h ago
+
+---
+
+**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqco5hsUDV2Z0y5He-rc2OPIBO43LTZ-XP_CWrWxrwctlgK4_N3GuVbr&gaa_ts=69cf5db6&gaa_sig=o-aRlpN99n0UBkBGZwuFL8jVFk3htz5nMb0NHemmlrnfcr5dTmxLBBhNSTvta-Mjtka1Y3rhW0c2AFTImYsKww%3D%3D)**
+
+WSJ • 3h ago
+
+---
+
+**[Station Crew Works Robotics, Research as Artemis II Launch Preps Continue](https://www.nasa.gov/blogs/general-blog/2026/04/01/station-crew-works-robotics-research-as-artemis-ii-launch-preps-continue/)**
+
+Robotics training and human research were the primary duties for the Expedition 74 crew aboard the International Space Station on Wednesday. The orbital residents rounded out their shift with spacesuit work, cargo operations, and Earth observations.
+
+nasa.gov • 1d ago
+
+---
+
+**[FedEx’s next AI leap to feature RFID, robotics](https://www.supplychaindive.com/news/fedex-ai-usage-rfid-robotics-network-2/816220/)**
+
+The carrier is scaling its use of physical assets powered by AI to strengthen network reliability and improve connectivity with shippers, a FedEx executive said.
+
+Supply Chain Dive • 1d ago
+
+---
+
+**[Hyundai Motor Unveils "Next Starts Now" Campaign, Set to Showcase Robotics at FIFA World Cup 2026™](https://www.hyundai.com/worldwide/en/newsroom/detail/hyundai-motor-unveils-next-starts-now-campaign%252C-set-to-showcase-robotics-at-fifa-world-cup-2026%25E2%2584%25A2-0000001147)**
+
+Hyundai Motor Unveils "Next Starts Now" Campaign, Set to Showcase Robotics at FIFA World Cup 2026™
+
+Hyundai • 1d ago
+
+---
+
+**[Researchers build a robotic swarm with no electronics, no batteries and no brains](https://techxplore.com/news/2026-04-robotic-swarm-electronics-batteries-brains.html)**
+
+Tech Xplore • 1d ago
+
+---
+
+**[Robots learn to ask humans for help](https://www.axios.com/2026/04/01/robots-delivery-serve-tmobile)**
+
+Axios • 1d ago
 
 ---
 
@@ -196,7 +198,7 @@ China is leading the world in humanoid robot shipments. Powered by artificial in
 
 📺 CGTN
 
-👁️ 20K • 👍 197 • 💬 29 • ⏱️ 1:54 • 23h ago
+👁️ 20K • 👍 197 • 💬 29 • ⏱️ 1:54 • 1d ago
 
 ---
 
@@ -216,7 +218,7 @@ War Robots Gameplay: Ravana with Kroko - absolutely OP! My War Robots Creator Li
 
 📺 Manni-Gaming
 
-👁️ 8K • 👍 392 • 💬 62 • ⏱️ 22:06 • 15h ago
+👁️ 8K • 👍 392 • 💬 62 • ⏱️ 22:06 • 16h ago
 
 ---
 
@@ -226,7 +228,7 @@ How do robots work on a cruise ship? In this episode of Engineering the Experien
 
 📺 Royal Caribbean
 
-👁️ 4K • 👍 150 • 💬 13 • ⏱️ 4:51 • 13h ago
+👁️ 4K • 👍 150 • 💬 13 • ⏱️ 4:51 • 15h ago
 
 ---
 

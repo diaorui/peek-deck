@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-03T04:55:01.481352+00:00'
+updated: '2026-04-03T06:12:26.666997+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 03, 2026 at 04:55 UTC  
+**Last Updated:** April 03, 2026 at 06:12 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +3.0%  
-**30d:** -0.8%  
-**90d:** -34.7%  
-**1y:** +13.4%  
+**24h:** +0.1%  
+**7d:** +3.1%  
+**30d:** -0.7%  
+**90d:** -34.6%  
+**1y:** +13.5%  
 
 ---
 
@@ -68,11 +68,19 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion April 03, 2026](https://www.reddit.com/r/ethereum/comments/1sb4b9q/daily_general_discussion_april_03_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1h ago
+
+---
+
 **[Daily General Discussion April 02, 2026](https://www.reddit.com/r/ethereum/comments/1sa85du/daily_general_discussion_april_02_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We recently recorded a PEEPanEIP session on EIP-7904, joined by Jacek Sieka and Maria Inês Oliveira. The conversation covers: Motivation behind the proposal Key design considerations Potential impact on the Ethereum ecosystem Open questions and areas for feedback The goal of PEEPanEIP is to make EIPs more accessible and easier to follow for the broader community - especially for those who may not be deep in the specs but want to stay informed. 🎥 Watch the full video https://youtu.be/CswFnsZTXmI Would love to hear thoughts from others following EIP-7904 or working in similar areas - feedback and perspectives welcome.
 
-13h ago
+14h ago
 
 ---
 
@@ -88,25 +96,25 @@ We recently recorded a PEEPanEIP session on EIP-7904, joined by Jacek Sieka and 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/live/aco5-l_bpOo?si=IZEg8wYNkTUOiGA_) • 17h ago
+🔗 [youtube.com](https://www.youtube.com/live/aco5-l_bpOo?si=IZEg8wYNkTUOiGA_) • 18h ago
 
 ---
 
 **[A Prediction Market Bounty Mechanism - Using Markets as Self-Funding Bounties for High-Value Sales](https://www.reddit.com/r/ethereum/comments/1sarhn7/a_prediction_market_bounty_mechanism_using/)**
 
-🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2039788146133495879) • 9h ago
+🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2039788146133495879) • 10h ago
 
 ---
 
 **[New Partnership: Nodle x PARAGON ID](https://www.reddit.com/r/ethereum/comments/1sall1a/new_partnership_nodle_x_paragon_id/)**
 
-12h ago
+14h ago
 
 ---
 
 **[AI, bots & algorithms](https://www.reddit.com/r/ethereum/comments/1saiwdj/ai_bots_algorithms/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -122,7 +130,7 @@ Two months after Ethereum mainnet launched, Vitalik deployed a 3-contract on-cha
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -134,14 +142,6 @@ Google just moved the quantum threat from decades away to 2029. Taproot exposed 
 
 ---
 
-**[Been digging into old Ethereum contracts from 2015-2019 to find withdrawable ETH that portfolio trackers miss](https://www.reddit.com/r/ethereum/comments/1s8phlv/been_digging_into_old_ethereum_contracts_from/)**
-
-Hello everyone! I've built a tool to help recover ETH stuck in old smart contracts that no longer have frontends. Portfolio trackers like Debank and Zerion don't index these balances. 116 contracts, 76,000+ ETH, 516k depositors with claimable balance. Idex, Etherdelta, DigixDAO, PoWH3D, ENS old registrar, Fomo3d, MoonCatRescue, to name a few. One address alone has 10,000 ETH locked in the old ENS registrar deeds - a deposit from a name auction on governx.eth that was never released. Even Vitalik has 75 ETH to claim! Most of these addresses are dormant, but if you were active on Etheruem between 2015-2019, check your address at https://forgotteneth.com Twitter thread It scans all 116 contracts and crafts the withdrawal transaction(s) for you. https://preview.redd.it/2rv0j4bq7esg1.png?width=2236&format=png&auto=webp&s=0f5c26c5306475ba4de4325cbae72757b3738f05
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -150,7 +150,7 @@ Hello everyone! I've built a tool to help recover ETH stuck in old smart contrac
 
 Naoris Protocol says its blockchain network uses quantum-resistant cryptography, as the wider crypto industry prepares for future threats.
 
-Decrypt • 5h ago
+Decrypt • 7h ago
 
 ---
 
@@ -164,7 +164,23 @@ CoinDesk • 2d ago
 
 **[Google Warns Quantum Computers Could Break Bitcoin and Ethereum in 9 Minutes — Should You Be Worried?](https://www.ccn.com/education/crypto/google-quantum-computers-break-bitcoin-ethereum-9-minutes-1-7m-btc-risk/)**
 
-CCN.com • 2d ago
+ccn.com • 2d ago
+
+---
+
+**[Google Warns $100 Billion Of Ethereum Is At Risk From ‘Quantum Attack’](https://finance.yahoo.com/markets/crypto/articles/google-warns-100-billion-ethereum-133000804.html)**
+
+Google parent company Alphabet (NASDAQ: $GOOGL) is warning that $100 billion U.S. of Ethereum (CRYPTO: $ETH) is at ...
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Ethereum Drops Nearly 5% As Familiar Leverage Setup Plays Out](https://www.tradingview.com/news/newsbtc:45ffe71dd094b:0-ethereum-drops-nearly-5-as-familiar-leverage-setup-plays-out/)**
+
+Data shows the Ethereum Open Interest observed a sharp jump before the cryptocurrency’s price saw a decline of almost 5% over the past day.Ethereum Has Seen Bearish Price Action Over The Last 24 HoursThis week saw some recovery for Ethereum and the wider digital asset sector during its first three…
+
+TradingView • 12m ago
 
 ---
 
@@ -172,7 +188,7 @@ CCN.com • 2d ago
 
 Ethereum is tightening into a critical zone near the $2,000 level as price action continues to compress without clear direction. With volatility steadily declining and pressure building on both sides, the current structure suggests that a decisive move, either a breakout or breakdown, could be just…
 
-TradingView • 55m ago
+TradingView • 2h ago
 
 ---
 
@@ -180,43 +196,29 @@ TradingView • 55m ago
 
 Bitcoin and ethereum lose ground after Trump addresses nation in a prime-time address with mixed messages about Iran war.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
-**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775165700)**
+**[What price will Ethereum hit in April? Trading Odds & Predictions](https://polymarket.com/event/what-price-will-ethereum-hit-in-april-2026)**
 
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+$42,081 has traded on "What price will Ethereum hit in April?" as of April 2, 2026. View real-time odds or trade on The World's Largest Prediction Market™
 
-polymarket.com • 1d ago
+Polymarket • 3d ago
+
+---
+
+**[ETH, Canton, AVAX, Chainlink news: Grayscale research head lays out bets on $19T tokenization wave](https://www.coindesk.com/markets/2026/04/01/grayscale-s-research-head-says-tokenization-will-happen-in-waves-and-explains-how-to-play-it)**
+
+Investors looking to bet on tokenization should think in phases, with institution-friendly networks like Canton likely winning first and Avalanche, Ethereum capturing more upside later, Grayscale's Zach Pandl said.
+
+CoinDesk • 1d ago
 
 ---
 
 **[Global X Launches Ethereum Covered Call ETF Targeting Weekly Distributions](https://www.morningstar.com/news/pr-newswire/20260402ny25001/global-x-launches-ethereum-covered-call-etf-targeting-weekly-distributions)**
 
-Morningstar • 15h ago
-
----
-
-**[Most large cryptocurrencies fall on Solana, Ethereum drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-solana-ethereum-drops-06702da9-e670e788b6b1?gaa_at=eafs&gaa_n=AWEtsqfJLsrneevCliLg9dfTiYKnadWuDHytBnQKcnpqN4rmOpaPq4ShM7Ot&gaa_ts=69cf4b87&gaa_sig=5h0l2hPpVmSISVc-SoJAeOlrVpu8PYDX2DtIhVYPeEFtdt0LA0Wj4lOygWjWEY2xk2vw5bK6FCqjSdplveZjQQ%3D%3D)**
-
-MarketWatch • 14h ago
-
----
-
-**[Current price of Ethereum for April 2, 2026](https://fortune.com/article/price-of-ethereum-04-02-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 13h ago
-
----
-
-**[Why Ethereum is quietly becoming a key layer of Africa’s digital economy](https://africa.businessinsider.com/local/markets/why-ethereum-is-quietly-becoming-a-key-layer-of-africas-digital-economy/qrv474b)**
-
-#FeaturedPost
-
-Business Insider Africa • 2d ago
+morningstar.com • 16h ago
 
 ---
 
@@ -240,7 +242,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 97 • 💬 2 • ⏱️ 5:43 • 14h ago
+👁️ 2K • 👍 97 • 💬 2 • ⏱️ 5:43 • 15h ago
 
 ---
 
@@ -250,7 +252,7 @@ BITCOIN WARNING: Everyone is WRONG About This!!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 3K • 👍 119 • 💬 83 • ⏱️ 20:12 • 6h ago
+👁️ 3K • 👍 119 • 💬 83 • ⏱️ 20:12 • 7h ago
 
 ---
 
@@ -260,7 +262,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 266 • 👍 13 • 💬 3 • ⏱️ 4:34 • 18h ago
+👁️ 266 • 👍 13 • 💬 3 • ⏱️ 4:34 • 19h ago
 
 ---
 
@@ -280,7 +282,7 @@ GET THE BOOK: https://bullmania.com/book FREE TRAINING: https://www.bullmania.co
 
 📺 Ivan on Tech
 
-👁️ 17K • 👍 1K • 💬 73 • ⏱️ 56:09 • 20h ago
+👁️ 17K • 👍 1K • 💬 73 • ⏱️ 56:09 • 21h ago
 
 ---
 
