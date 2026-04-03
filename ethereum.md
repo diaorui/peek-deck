@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-03T17:04:16.112216+00:00'
+updated: '2026-04-03T18:01:11.327341+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- news
 - cryptocurrency
 - videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 03, 2026 at 17:04 UTC  
+**Last Updated:** April 03, 2026 at 18:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $247.98B
+**Market Cap:** $247.42B
 Rank #2
 
 **Circulating Supply:** 120,691,290 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.5%
+-58.6%
 
 **All-Time Low:** $0.43
-+474523.5%
++473391.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Quantum breakthrough papers, Aave v4, Aztec alpha
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-18/) • 5h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-18/) • 6h ago
 
 ---
 
@@ -88,13 +88,13 @@ Quantum breakthrough papers, Aave v4, Aztec alpha
 
 People ask this a lot and most answers are either too optimistic or outdated. Here's what actually works day to day. Direct crypto payments (limited but real) - A small number of merchants accept crypto directly via BitPay or CoinGate. Shows up at checkout alongside card/PayPal. Works in tech, gaming, VPN, some travel. Still niche. Crypto debit cards (most practical for daily use) - Platforms issue Visa/Mastercard cards linked to your crypto account. Spend anywhere that takes Visa, crypto converts to fiat at point of sale. Usually comes with some cashback in platform tokens. Works fine for everyday spending. Stablecoins for transfers - Sending money internationally or paying someone who accepts USDC/USDT is genuinely fast and cheap vs bank wire. More useful than people think for freelance/remote work. Gift cards via Bitrefill (underrated) - Buy gift cards from Amazon, Airbnb, Uber, Steam using crypto. Works everywhere those retailers are accepted. Not seamless but surprisingly broad coverage. Honest reality in 2026: most people still convert to fiat first. Crypto debit cards are the closest thing to seamless daily spending. Several platforms are building bank-integrated crypto cards - worth watching which ones actually ship. What's your setup for spending crypto day to day? Anyone found something that genuinely feels frictionless?
 
-6h ago
+7h ago
 
 ---
 
 **[Is the "Quantum Apocalypse" coming early for ethereum?](https://www.reddit.com/r/ethereum/comments/1sbgp8o/is_the_quantum_apocalypse_coming_early_for/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -116,7 +116,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[A Prediction Market Bounty Mechanism - Using Markets as Self-Funding Bounties for High-Value Sales](https://www.reddit.com/r/ethereum/comments/1sarhn7/a_prediction_market_bounty_mechanism_using/)**
 
-🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2039788146133495879) • 21h ago
+🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2039788146133495879) • 22h ago
 
 ---
 
@@ -148,7 +148,7 @@ Two months after Ethereum mainnet launched, Vitalik deployed a 3-contract on-cha
 
 The foundation deposited the bulk of its planned staking commitment in a single session, completing a program announced in February to turn dormant treasury holdings into a yield-generating position.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -156,7 +156,7 @@ CoinDesk • 5h ago
 
 Naoris Protocol says its blockchain network uses quantum-resistant cryptography, as the wider crypto industry prepares for future threats.
 
-Decrypt • 18h ago
+Decrypt • 19h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 18h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 3h ago
+Fortune • 4h ago
 
 ---
 
@@ -172,7 +172,7 @@ Fortune • 3h ago
 
 Vitalik Buterin ranks #1 on CCN’s Top 101 for 2026 for reshaping Ethereum’s roadmap and maintaining influence without centralized control. His research-driven leadership and layer-2 ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 3h ago
 
 A crypto analyst has made a bold projection, suggesting the Ethereum price could reach a staggering $10,000. According to him, this is the minimum level that ETH could read, underscoring his confidence in the cryptocurrency’s bullish outlook. The analyst has cited strong fundamental and technical i…
 
-TradingView • 1h ago
+TradingView • 2h ago
 
 ---
 
@@ -188,7 +188,7 @@ TradingView • 1h ago
 
 Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 7h ago
+Polymarket • 8h ago
 
 ---
 
@@ -202,7 +202,7 @@ morningstar.com • 1d ago
 
 Ethereum is seeing a correlation between falling reserves and rising stablecoin inflows. Is ETH’s breakdown is just a deleveraging event?
 
-AMBCrypto • 2h ago
+AMBCrypto • 3h ago
 
 ---
 
@@ -230,7 +230,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 793 • 👍 65 • 💬 19 • ⏱️ 10:32 • 6h ago
+👁️ 1K • 👍 86 • 💬 20 • ⏱️ 10:32 • 7h ago
 
 ---
 
@@ -240,7 +240,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 6K • 👍 697 • 💬 50 • ⏱️ 4:25 • 7h ago
+👁️ 9K • 👍 835 • 💬 52 • ⏱️ 4:25 • 8h ago
 
 ---
 
@@ -250,7 +250,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEE
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 268 • ⏱️ 10:45 • 1d ago
+👁️ 40K • 👍 2K • 💬 341 • ⏱️ 10:45 • 1d ago
 
 ---
 
@@ -260,7 +260,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 116 • 👍 8 • 💬 1 • ⏱️ 5:16 • 7h ago
+👁️ 175 • 👍 8 • 💬 1 • ⏱️ 5:16 • 8h ago
 
 ---
 
@@ -274,13 +274,13 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 ---
 
-**[Bitcoin Ethereum Altcoins BUY NOW?? Watch This Chart!!](https://www.youtube.com/watch?v=PN575EkTazs)**
+**[Institutions Thirsty For ETH🔥MASSIVE Ethereum Update!🚀](https://www.youtube.com/watch?v=-ht1A0Z2vIU)**
 
-bitcoin #altcoins #ethereum Crypto All In One Website Hyper Swap: https://www.hyper-swap.io/ New Hyped Upcoming Crypto ...
+This year's EthCC event in Cannes has fielded its first major announcement: the Ethereum Economic Zone. This new effort is ...
 
-📺 Alessandro De Crypto Official
+📺 Paul Barron Network
 
-👁️ 112 • 👍 20 • 💬 20 • ⏱️ 5:28 • 3h ago
+👁️ 34K • 👍 2K • 💬 85 • ⏱️ 13:00 • 2d ago
 
 ---
 
@@ -290,17 +290,27 @@ BITCOIN WARNING: Everyone is WRONG About This!!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 4K • 👍 173 • 💬 185 • ⏱️ 20:12 • 18h ago
+👁️ 5K • 👍 176 • 💬 202 • ⏱️ 20:12 • 19h ago
 
 ---
 
-**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=BGMxnWD-S1Y)**
+**[Live Analysis Future &amp; Options In Bitcoin &amp; Ethereum | Gold Trading Live 3 April 2026 Delta Exchange](https://www.youtube.com/watch?v=BScaFQTIpnQ)**
 
-BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Start your trading journey with XM — a trusted and ...
+Delta Exchange- https://india.delta.exchange/?code=JZYXDO XM account- https://affs.click/TVy1b PARTNER CODE - DEVADON ...
 
-📺 Ashutosh Kumar
+📺 Devansh Rai
 
-👁️ 11K • 👍 1K • 5h ago
+👁️ 5K • 👍 865 • 1h ago
+
+---
+
+**[BlackRock &amp; JP Morgan are Building on Ethereum—Here’s Why](https://www.youtube.com/watch?v=8KiltqYa2Xg)**
+
+BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Join the Inner Circle for exclusive ...
+
+📺 Lark Davis
+
+👁️ 6K • 👍 128 • 💬 7 • ⏱️ 0:47 • 2d ago
 
 ---
 
@@ -310,17 +320,7 @@ Google Quantum AI just dropped a paper that directly names Bitcoin, Ethereum, XR
 
 📺 King Solomon (Ryan Solomon)
 
-👁️ 5K • 👍 467 • 💬 47 • ⏱️ 29:55 • 2d ago
-
----
-
-**[Ethereum &amp; Cardano: Not Yet](https://www.youtube.com/watch?v=1S1XnTwJ2Q8)**
-
-Hang in there everyone! The risk models that say when to accumulate or exit HERE. Free trial ...
-
-📺 Dan Gambardello
-
-👁️ 10K • 👍 626 • 💬 213 • ⏱️ 13:49 • 2d ago
+👁️ 5K • 👍 468 • 💬 47 • ⏱️ 29:55 • 2d ago
 
 ---
 

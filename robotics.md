@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-03T17:04:16.115406+00:00'
+updated: '2026-04-03T18:01:11.330535+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 03, 2026 at 17:04 UTC  
+**Last Updated:** April 03, 2026 at 18:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Appreciate all the feedback and love on the recent videos, here's another clip of the dev process worth sharing. This one starts with an ugly moment, the right leg clips the edge and stumbles on a stair jump. Took a few days to track down the real issue. Turned out to be a mechanical transmission resistance in the hip joint, not a bug in the code. After the fix, clean landing. We're at around stable 30cm (~12")now. Sim does 40 or even higher, but 30 clears real stairs and that's what matters. (Getting to 30 in real life was harder than it sounds) Basic locomotion is getting solid, so next step: giving this little guy some eyes and ears, maybe. Legs first, then brains. sim2real is always humbling!
 
-5h ago
+6h ago
 
 ---
 
@@ -44,7 +44,7 @@ Appreciate all the feedback and love on the recent videos, here's another clip o
 
 l find that RoboBaton mini is good to use. I was originally planning to use Intel's T265, but discovered it had been discontinued. I found RoboBaton Mini on myrobotproject's website. I successfully got it working with my Raspberry Pi. I will open-source the code on GitHub later. I hope everyone can connect with me to discuss and explore other use cases for the Mini.
 
-3h ago
+4h ago
 
 ---
 
@@ -52,7 +52,7 @@ l find that RoboBaton mini is good to use. I was originally planning to use Inte
 
 If human demonstration data proves to be the underlying factor that determines scaling laws in general-purpose robotics, the infrastructure that captures that data will determine how fast we get there. Despite all the research novelty in ChatGPT, its success at its core can be attributed to one foundational fact - the scaling law of transformers. Have transformers made their way into robotics and are we seeing similar scaling laws? The answer is yes. Recent studies showed task completion rates jumping from 30% to 70% when human demonstration data scaled from 1,000 to 20,000 hours — a log-linear trend that mirrors exactly what we saw in language and vision. Labs are racing to train generalist policies - a robot brain that can solve any task under any embodiment. But the library of physical interactions required to train these policies doesn’t exist yet. Solving this data bottleneck is one of the most important problems for the next few years. We’ve seen dozens of companies emerge in this space and noticed the same pattern repeat: every egocentric data company makes tradeoffs between quality, scale, and diversity. I have been working at FPV Labs on the principle that high-quality data is orders of magnitude more valuable than sheer volume. Self-driving cars collect thousands of hours per day, but only a small fraction is useful for training. Studies like RT-2 showed that as little as 1% of data improves task success by 25%. There’s clearly a power law in the downstream impact of data. We spent months obsessing over data quality - building our stack, discarding it, rebuilding it, and iterating until we found a formula that doesn’t compromise quality at scale and laying the infrastructure rails as we embark into this future. We are excited to be building what we think of is the infra layer for the internet archive of data for our robotic companions of the future. Happy to answer questions about our hardware, data methodology, or what we’ve learned so far. fpvlabs.ai
 
-47m ago
+1h ago
 
 ---
 
@@ -64,7 +64,7 @@ If human demonstration data proves to be the underlying factor that determines s
 
 **[Generalist | Introducing GEN-1](https://www.reddit.com/r/robotics/comments/1saoiaj/generalist_introducing_gen1/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -72,13 +72,13 @@ If human demonstration data proves to be the underlying factor that determines s
 
 i need y'all to give me suggestions for the battery part im having two 6v n20 600rpm motors and also the battery is connected to the buck which powers the esp32 the sensors are powered from the esp32 3.3v all the things are working perfectly just the prblm im facing is o hVe 7.4v lipo battery but its too big and bulky for this size and makes it heavier too so can you suggest some batteries (rechargeable) 7.4v thats smaller and compact in size to fit on the upper part (where my thumb is placed)
 
-1h ago
+2h ago
 
 ---
 
 **[Humanoid robots undergoing training](https://www.reddit.com/r/robotics/comments/1sbj504/humanoid_robots_undergoing_training/)**
 
-6m ago
+1h ago
 
 ---
 
@@ -102,7 +102,7 @@ It will be very helpful for me if you did the survey as this is my graduation pr
 
 Hi everyone, I'm an undergraduate who conducted an independent robotics project, and I am planning on submitting a 4-page write-up of my work to a workshop or small conference. Upon looking online, I am not sure where to find conferences to submit to; is there any venue that has options to submit short papers, and would a workshop (such as at IROS) be an applicable place for something like this? Thanks
 
-1h ago
+2h ago
 
 ---
 
@@ -128,7 +128,7 @@ MIT Technology Review • 2d ago
 
 **[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqdNz08usScyqUXAI1MM9uo7IVnrX8N6BctLaFvqif9Wi3I4hpJzWthF&gaa_ts=69cff67b&gaa_sig=crjIgGqNLZu05zCoXhqz9V_Uytof4FwJSrl6vY-VJfgRu38LS9Jfg7wQvm_DJmOS9m2KC3AER54hfM-vGFDocA%3D%3D)**
 
-WSJ • 14h ago
+WSJ • 15h ago
 
 ---
 
@@ -166,7 +166,7 @@ Tech Xplore • 1d ago
 
 "It's just a nice opportunity to really connect with people who aren't in your state," said team co-captain Levi Duteau.
 
-WPTZ • 55m ago
+WPTZ • 1h ago
 
 ---
 
@@ -190,43 +190,13 @@ Hyundai • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[Every Home Will Have a Humanoid Robot in 10 Years](https://www.youtube.com/watch?v=u4NLSzMP8z0)**
+**[Shawn Ryan Tests a Real Humanoid Robot](https://www.youtube.com/watch?v=HWq9cFhTvvQ)**
 
-Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join Support the Shawn ...
-
-📺 Shawn Ryan Clips
-
-👁️ 10K • 👍 334 • 💬 135 • ⏱️ 15:18 • 3d ago
-
----
-
-**[Robotic Frog VS Frog](https://www.youtube.com/watch?v=kwzDGQAzyuw)**
-
-I put REAL animals up against their robotic versions in a series of intense head-to-head challenges: From speed and agility to ...
-
-📺 Alex Turk
-
-👁️ 231K • 👍 2K • 💬 77 • ⏱️ 9:36 • 6d ago
-
----
-
-**[The Real-Life Future of Humanoid Robots](https://www.youtube.com/watch?v=ktwtZNKDV0E)**
-
-Brett Adcock shares his vision for the future of humanoid robots, why he believes synthetic humans will become one of the most ...
+Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In this clip, we break down how this robot sees, ...
 
 📺 Shawn Ryan Show
 
-👁️ 73K • 👍 2K • 💬 685 • ⏱️ 14:05 • 6d ago
-
----
-
-**[Melania Trump Promotes Humanoid Robots as Potential Educators | The View](https://www.youtube.com/watch?v=q6fcoXkiVnQ)**
-
-'The View' co-hosts and Abby Huntsman react to the first lady's sneak peek at the classroom of the future. Subscribe to our ...
-
-📺 The View
-
-👁️ 78K • 👍 1K • 💬 446 • ⏱️ 6:42 • 6d ago
+👁️ 717K • 👍 29K • 💬 5K • ⏱️ 8:48 • 1d ago
 
 ---
 
@@ -236,27 +206,37 @@ Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking
 
 📺 The AI Nexus
 
-👁️ 4K • 👍 173 • 💬 13 • ⏱️ 20:43 • 2d ago
+👁️ 4K • 👍 174 • 💬 13 • ⏱️ 20:43 • 2d ago
 
 ---
 
-**[I broke a robot in China](https://www.youtube.com/watch?v=7U3vjVfwChc)**
+**[The Real-Life Future of Humanoid Robots](https://www.youtube.com/watch?v=ktwtZNKDV0E)**
 
-China is leading the world in humanoid robot shipments. Powered by artificial intelligence, these machines are setting new ...
-
-📺 CGTN
-
-👁️ 26K • 👍 245 • 💬 37 • ⏱️ 1:54 • 1d ago
-
----
-
-**[Shawn Ryan Tests a Real Humanoid Robot](https://www.youtube.com/watch?v=HWq9cFhTvvQ)**
-
-Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In this clip, we break down how this robot sees, ...
+Brett Adcock shares his vision for the future of humanoid robots, why he believes synthetic humans will become one of the most ...
 
 📺 Shawn Ryan Show
 
-👁️ 673K • 👍 28K • 💬 5K • ⏱️ 8:48 • 1d ago
+👁️ 73K • 👍 2K • 💬 687 • ⏱️ 14:05 • 6d ago
+
+---
+
+**[Fat Jinu Does the Robot Trend 🤯](https://www.youtube.com/watch?v=aXaOgdF9C7U)**
+
+rumi #huntrix #kpop #kpopdemonhunters #shorts #celebrity #trend #makeup #mira #zoey #jinu Production Disclosure (Channel: ...
+
+📺 Faces of Culture
+
+👁️ 3.1M • 👍 8K • 💬 7 • ⏱️ 0:04 • 1d ago
+
+---
+
+**[The Floatable, Flyable Robot: GrowHR Explained! 🌊🚁 #RescueRobot  #robotics](https://www.youtube.com/watch?v=9JBZ7rTSYEA)**
+
+Imagine being trapped in a flood. A massive metal robot arrives to help... but it sinks instantly. ⚓️ Now, imagine a 10-pound, ...
+
+📺 BrainyFry
+
+👁️ 1K • 👍 23 • 💬 1 • ⏱️ 1:01 • 6h ago
 
 ---
 
@@ -270,23 +250,43 @@ A new wave of attention is building around Nvidia as the company pushes further 
 
 ---
 
-**[Jen picks humanoid over Melania](https://www.youtube.com/watch?v=TKnzU1XhcNU)**
+**[Shawn Ryan Gets a Real-Life Robot 😳](https://www.youtube.com/watch?v=fQdJb7YzDRc)**
 
-Robot vs. Melania? After Melania Trump brings an AI-powered humanoid to the White House, Jen makes her pick.
+Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join Support the Shawn ...
 
-📺 MS NOW
+📺 Shawn Ryan Show
 
-👁️ 53K • 👍 2K • 💬 296 • ⏱️ 2:01 • 6d ago
+👁️ 1.1M • 👍 17K • 💬 1K • ⏱️ 0:28 • 4d ago
 
 ---
 
-**[China&#39;s Robots Learned Kung Fu. Now They&#39;re Terrifying](https://www.youtube.com/watch?v=UKLvMLtNXpE)**
+**[The Six-Servo Robot Dog - it&#39;s open source!](https://www.youtube.com/watch?v=2eKb_2N0SBI)**
 
-679 million people watched China's robots perform fully autonomous kung fu at the 2026 Spring Festival Gala. Backflips.
+Ad: Check out PCBWay for all your project needs! Get $10 off orders over $30 with code: PCBWay-JamesBruton-10 ...
 
-📺 TechFrontierNow
+📺 James Bruton
 
-👁️ 25K • 👍 635 • 💬 83 • ⏱️ 9:00 • 6d ago
+👁️ 54K • 👍 4K • 💬 183 • ⏱️ 16:17 • 3d ago
+
+---
+
+**[War Robots Most Broken RAVANA Ever!](https://www.youtube.com/watch?v=t67ObSD1yp8)**
+
+War Robots Gameplay: Ravana with Kroko - absolutely OP! My War Robots Creator Link: https://wr.my.games/manni - Code: ...
+
+📺 Manni-Gaming
+
+👁️ 10K • 👍 468 • 💬 73 • ⏱️ 22:06 • 1d ago
+
+---
+
+**[Robotics in the MCU!](https://www.youtube.com/watch?v=F6ILTk4HsHc)**
+
+All titles are now streaming on @disneyplus ▻ SUBSCRIBE to the channel to get notified when new Marvel videos are posted: ...
+
+📺 Marvel Entertainment
+
+👁️ 44K • 👍 3K • 💬 78 • ⏱️ 2:28 • 4d ago
 
 ---
 

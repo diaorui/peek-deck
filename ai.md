@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-03T17:04:16.097475+00:00'
+updated: '2026-04-03T18:01:11.312974+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
-- news
 - repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 03, 2026 at 17:04 UTC  
+**Last Updated:** April 03, 2026 at 18:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[MIT study challenges AI job apocalypse narrative](https://www.reddit.com/r/artificial/comments/1sb7qxc/mit_study_challenges_ai_job_apocalypse_narrative/)**
 
-🔗 [axios.com](https://www.axios.com/2026/04/02/ai-jobs-mit-study-workforce-impact) • 8h ago
+🔗 [axios.com](https://www.axios.com/2026/04/02/ai-jobs-mit-study-workforce-impact) • 9h ago
 
 ---
 
@@ -47,19 +47,19 @@ AI news, discussions, and developments
 
 I’ve been digging into AI security incident data from 2025 into this year, and it feels like something isn’t being talked about enough outside security circles. A lot of the issues aren’t advanced attacks. It’s the same pattern we’ve seen with new tech before. Things like prompt injection through external data, agents with too many permissions, or employees using AI tools the company doesn’t even know about. One stat I saw said enterprises are averaging 300+ unsanctioned AI apps, which is kind of wild. The incident data reflects that. Prompt injection is showing up in a large percentage of production deployments. There’s also been a noticeable increase in attacks exploiting basic gaps, partly because AI is making it easier for attackers to find weaknesses faster. Even credential leaks tied to AI usage have been increasing. What stood out to me isn’t just the attacks, it’s the gap underneath it. Only a small portion of companies actually have dedicated AI security teams. In many cases, AI security isn’t even owned by security teams. The tricky part is that traditional security knowledge only gets you part of the way. Some concepts carry over, like input validation or trust boundaries, but the details are different enough that your usual instincts don’t fully apply. Prompt injection isn’t the same as SQL injection. Agent permissions don’t behave like typical API auth. There are frameworks trying to catch up. OWASP now has lists for LLMs and agent-based systems. MITRE ATLAS maps AI-specific attack techniques. NIST has an AI risk framework. The guidance exists, but the number of people who can actually apply it feels limited. I’ve been trying to build that knowledge myself and found that more hands-on learning helps a lot more than just reading docs. Curious how others here are approaching this. If you’re building or working with AI systems, are you thinking about security upfront or mostly dealing with it after things are already live? Sources for those interested: AI Agent Security 2026 Report IBM 2026 X-Force Threat Index Adversa AI Security Incidents Report 2025 Acuvity State of AI Security 2025 OWASP Top 10 for LLM Applications OWASP Top 10 for Agentic AI MITRE ATLAS Framework
 
-1h ago
+2h ago
 
 ---
 
 **[Google releases Gemma 4 models.](https://www.reddit.com/r/artificial/comments/1sapfpu/google_releases_gemma_4_models/)**
 
-22h ago
+23h ago
 
 ---
 
 **[Microsoft to invest $10 billion in Japan for AI and cyber defence expansion](https://www.reddit.com/r/artificial/comments/1sb65un/microsoft_to_invest_10_billion_in_japan_for_ai/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/media-telecom/microsoft-invest-10-billion-japan-ai-cyber-defence-expansion-2026-04-03/) • 10h ago
+🔗 [reuters.com](https://www.reuters.com/business/media-telecom/microsoft-invest-10-billion-japan-ai-cyber-defence-expansion-2026-04-03/) • 11h ago
 
 ---
 
@@ -67,7 +67,7 @@ I’ve been digging into AI security incident data from 2025 into this year, and
 
 Hey everyone, I just sent the 26th issue of AI Hacker Newsletter, a weekly roundup of the best AI links and discussions around from Hacker News. Here are some of the links: Coding agents could make free software matter again - comments AI got the blame for the Iran school bombing. The truth is more worrying - comments Slop is not necessarily the future - comments Oracle slashes 30k jobs - comments OpenAI closes funding round at an $852B valuation - comments If you enjoy such links, I send over 30 every week. You can subscribe here: https://hackernewsai.com/
 
-9m ago
+1h ago
 
 ---
 
@@ -75,7 +75,7 @@ Hey everyone, I just sent the 26th issue of AI Hacker Newsletter, a weekly round
 
 I just went through a project where a builder wanted to build a really large building on a small lot next door. The project needed 6 variances from the ZBA. I used ChatGpt and then transitioned to Claude. Essentially I researched zoning laws, variance rules, and deeds. I even uploaded plot plans and engineering designs. In the end I gave my lawyer essentially a complete set of objections for the ZBA hearings and I was able to get all the objections on the record. We won. (Neighborhood support, plus all my research, plus the lawyer) When I described this on another sub, 6-8 downvotes right away. Meanwhile, my lawyer told me I could do this kind of work for money or I could volunteer for the ZBA. (No thanks, I’m near retirement) The tools greatly magnified my understanding and my ability to argue against the builder. (And I caution anyone who uses it to watch out for “unconditional positive regard” (or as my wife says, sycophancy:-). Also to double check everything, ask it to explain terms you don’t understand. Point out inconsistency. In other words, take everything with a grain of salt…
 
-1h ago
+2h ago
 
 ---
 
@@ -83,7 +83,7 @@ I just went through a project where a builder wanted to build a really large bui
 
 Microsoft today announced their newest open-source (MIT-licensed) software project.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Microsoft-AI-Agent-Governance) • 5h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Microsoft-AI-Agent-Governance) • 6h ago
 
 ---
 
@@ -91,7 +91,7 @@ Microsoft today announced their newest open-source (MIT-licensed) software proje
 
 The model is also available here: 🤗 HuggingFace: https://huggingface.co/collections/google/gemma-4 🦙 Ollama: https://ollama.com/library/gemma4
 
-🔗 [Google](https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/) • 23h ago
+🔗 [Google](https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/) • 1d ago
 
 ---
 
@@ -99,7 +99,7 @@ The model is also available here: 🤗 HuggingFace: https://huggingface.co/colle
 
 I'm extremely new to AI and am building a local agent for fun. I purchased a Claude Pro account because it helped me a lot in the past when coding different things for hobbies, but then the usage limits started getting really bad and making no sense. I had to quite literally stop my workflow because I hit my limit, so I came back when it said the limit was reset only for it to be pushed back again for another 5 hours. Today I did ask for a heavy prompt, I am making a local Doom coding assistant to make a Doom mod for fun and am using Unsloth Studio to train it with a custom dataset. I used my Claude Pro to "vibe code" (I'm sorry if this is blasphemy, but I do have a background in programming, so I am able to read and verify the code if that makes it less bad? I'm just lazy.) a simple version of the agent to get started, a Python scraper for the Zdoom wiki page to get all of the languages for Doom mods, a dataset from those pages turned into pdf, formating, and the modelfile for the local agent it would be based around along with a README (claudes recommendation, thought it was a good idea). It generated those files, I corrected it in some areas so it updated only two of the files that needed it, and I know this is a heavy prompt, but it literally used up 73% of my entire usage. Just those two prompts. To me, even though that is a super big request, that seems extremely limited. But maybe I'm wrong because I'm so fresh to the hobby and ignorant? I know it was going around the grapevine that Claude usage limits have gone crazy lately, but this seems more than just a minor issue if this isn't normal. For example, I have to purchase a digital visa card off amazon because I live in a country that's pretty strict with its banking, so the banks don't allow transactions to places like LLM's usually. I spend $28 on a $20 monthly subscription because of this, but if I'm so limited on my usage, why would I continue paying that? Or again, maybe I'm just ignorant. It's very bizarre because the free plan was so good and honestly did a lot of these types of requests frequently. It wasn't perfect, but doable and I liked it so much that I upgraded to the Pro version. Now I can barely use it. Kinda sucks.
 
-2h ago
+3h ago
 
 ---
 
@@ -107,7 +107,7 @@ I'm extremely new to AI and am building a local agent for fun. I purchased a Cla
 
 Hey everyone 👋 I'm building a new AI chat app and before I build anything I want to hear from real users first. Current AI tools like ChatGPT and Claude are great but they don't do everything perfectly. So I want to ask you directly: What features do you wish AI chatbots had? Is there something you keep trying to do with AI but it fails? Is there a feature you've always wanted but nobody has built? What would make you switch from ChatGPT or Claude to something new? What would make you actually pay for an AI app? Drop your thoughts below — every answer helps. No wrong answers at all. I'll reply to every comment and share results when I'm done. 🙏
 
-2h ago
+3h ago
 
 ---
 
@@ -123,7 +123,7 @@ The New York Times • 1d ago
 
 **[Economists Are Drawing Stronger Connections Between A.I. and Jobs](https://www.nytimes.com/2026/04/03/business/economists-once-dismissed-the-ai-job-threat-but-not-anymore.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
@@ -139,7 +139,7 @@ blog.google • 1d ago
 
 With the tax filing deadline fast approaching, the Better Business Bureau (BBB) in San Antonio is warning taxpayers about a growing and increasingly sophisticated threat: scams powered by artificial intelligence.
 
-KSAT • 10m ago
+KSAT • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ KSAT • 10m ago
 
 The next wave of AI-powered cybersecurity attacks will be like nothing we’ve seen before.
 
-CNN • 7h ago
+CNN • 8h ago
 
 ---
 
@@ -155,13 +155,13 @@ CNN • 7h ago
 
 The experience of past tech revolutions suggests savvy incumbents might muddle through and even thrive
 
-Financial Times • 6h ago
+Financial Times • 7h ago
 
 ---
 
 **[California cements its role as the national testing ground for AI rules](https://www.axios.com/2026/04/03/california-national-testing-ground-ai-rules)**
 
-Axios • 7h ago
+Axios • 8h ago
 
 ---
 
@@ -169,7 +169,7 @@ Axios • 7h ago
 
 Early scandals have not slowed lawyers' adoption of AI tools, even as court sanctions over fake legal briefs continue to rise.
 
-NPR • 8h ago
+NPR • 9h ago
 
 ---
 
@@ -177,13 +177,13 @@ NPR • 8h ago
 
 William Shatner called out a Facebook page for using AI to spread fake stories about him having brain cancer and dying. He urged fans to be skeptical of "bizarre" claims about him.
 
-foxnews.com • 1h ago
+foxnews.com • 2h ago
 
 ---
 
 **[Opinion | AI Is a Threat to Everything the American People Hold Dear](https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459?gaa_at=eafs&gaa_n=AWEtsqd7svRG2Y4T7wTmky_Tt4IjY-dDZqaFWL7cKPoxSzmTdhUrwUoBgKKK&gaa_ts=69cff677&gaa_sig=rY4tVCANubRZHaCN20HsLjfMBYcYeapWaeaPvw72WjbAKQw2rsk2XOuKA4fiPXMJlewnUSydwhcOkZd-bpFAVA%3D%3D)**
 
-WSJ • 20h ago
+WSJ • 21h ago
 
 ---
 
@@ -195,7 +195,7 @@ WSJ • 20h ago
 
 Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptions. The LLM is already on your Mac.
 
-⬆️ 505 • 💬 115 • 7h ago • [apfel.franzai.com](https://apfel.franzai.com)
+⬆️ 505 • 💬 115 • 8h ago • [apfel.franzai.com](https://apfel.franzai.com)
 
 ---
 
@@ -203,13 +203,13 @@ Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptio
 
 Meta is continuing its long-term roadmap to help the construction industry leverage AI to produce high-quality and more sustainable concrete mixes, as well as those exclusively produced in the Unit…
 
-⬆️ 220 • 💬 117 • 1d ago • [Engineering at Meta](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/)
+⬆️ 220 • 💬 117 • 2d ago • [Engineering at Meta](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/)
 
 ---
 
 **[The AI Marketing BS Index](https://news.ycombinator.com/item?id=47604218)**
 
-⬆️ 105 • 💬 22 • 1d ago • [bastian.rieck.me](https://bastian.rieck.me/blog/2026/bs/)
+⬆️ 105 • 💬 22 • 2d ago • [bastian.rieck.me](https://bastian.rieck.me/blog/2026/bs/)
 
 ---
 
@@ -221,7 +221,7 @@ Meta is continuing its long-term roadmap to help the construction industry lever
 
 **[A $20/month user costs OpenAI $65 in compute. AI video is a money furnace](https://news.ycombinator.com/item?id=47619322)**
 
-⬆️ 72 • 💬 40 • 21h ago • [aedelon777.substack.com](https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is)
+⬆️ 72 • 💬 40 • 22h ago • [aedelon777.substack.com](https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is)
 
 ---
 
@@ -273,7 +273,7 @@ AI isn't paying for itself. It's being financed with massive debt. And right now
 
 📺 Ox Talks
 
-👁️ 10K • 👍 1K • 💬 185 • ⏱️ 8:02 • 22h ago
+👁️ 11K • 👍 1K • 💬 188 • ⏱️ 8:02 • 23h ago
 
 ---
 
@@ -283,7 +283,7 @@ Anthropic is testing Claude Conway, a strange new AI system that looks less like
 
 📺 AI Revolution
 
-👁️ 47K • 👍 826 • 💬 66 • ⏱️ 10:50 • 19h ago
+👁️ 49K • 👍 869 • 💬 67 • ⏱️ 10:50 • 20h ago
 
 ---
 
@@ -293,37 +293,37 @@ Asking ChatGPT about pi was the worst mistake he ever made. Become a member on Y
 
 📺 Mo Bitar
 
-👁️ 22K • 👍 3K • 💬 609 • ⏱️ 6:33 • 5h ago
+👁️ 44K • 👍 4K • 💬 843 • ⏱️ 6:33 • 6h ago
 
 ---
 
-**[AI BUBBLE POP?: HALF Of Datacenters Delayed/Canceled](https://www.youtube.com/watch?v=pkomxsk5hpY)**
+**[AI BUSINESS SUMMIT 2026 - DAY 3](https://www.youtube.com/watch?v=TLtNyRUFbFE)**
 
-Krystal and Saagar discuss the AI bubble imploding. Sign up for a PREMIUM Breaking Points subscriptions for full early access to ...
+Facebook Fan Page: https://www.facebook.com/alicialyttlelive Twitter: https://twitter.com/alicialyttle Instagram: ...
 
-📺 Breaking Points
+📺 Alicia Lyttle
 
-👁️ 278K • 👍 8K • 💬 1K • ⏱️ 13:15 • 22h ago
-
----
-
-**[Liquid River Cascade 🌊💧✨ (Part 1) AI ASMR | Endless Flow &amp; Pure Relax Energy 🌀💫](https://www.youtube.com/watch?v=uLEBB9HDoFI)**
-
-Welcome to Part 1 of Liquid River Cascade ✨   This place doesn't follow nature. It flows… differently. No wind. No sound.
-
-📺 Satisfyra ASMR
-
-👁️ 31K • 👍 4K • 💬 313 • ⏱️ 8:15 • 22h ago
+👁️ 3K • 👍 222 • 2d ago
 
 ---
 
-**[No, Seriously. AI is REALLY Good at Hacking Now](https://www.youtube.com/watch?v=Nl27jPrXOrE)**
+**[I Tested An AI Car](https://www.youtube.com/watch?v=K4kLiat84eE)**
 
-Go see if your company's creds have been compromised @ https://go.lowlevel.tv/flare2026 ...
+Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://www.x.com/sambucha Become a Member: ...
 
-📺 Low Level
+📺 Sambucha
 
-👁️ 131K • 👍 5K • 💬 386 • ⏱️ 9:44 • 1d ago
+👁️ 40K • 👍 4K • 💬 107 • ⏱️ 0:53 • 46m ago
+
+---
+
+**[How We Would Teach AI From Scratch in 2026](https://www.youtube.com/watch?v=QbFU0UNMVaU)**
+
+Most people are still using ChatGPT the way they used Google in 2005: type a question, get an answer, close the tab. In 2026 ...
+
+📺 The Neuron
+
+👁️ 3K • 👍 151 • 💬 10 • ⏱️ 2:23:24 • 22h ago
 
 ---
 
@@ -333,37 +333,37 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 102K • 👍 3K • 💬 394 • ⏱️ 31:21 • 2d ago
+👁️ 104K • 👍 3K • 💬 397 • ⏱️ 31:21 • 2d ago
 
 ---
 
-**[How to Win With AI in 2026](https://www.youtube.com/watch?v=9q5ojtkqsBs)**
+**[AI BUBBLE POP?: HALF Of Datacenters Delayed/Canceled](https://www.youtube.com/watch?v=pkomxsk5hpY)**
 
-Join ACQ Vantage: https://www.skool.com/acq Download your free scaling roadmap here: ...
+Krystal and Saagar discuss the AI bubble imploding. Sign up for a PREMIUM Breaking Points subscriptions for full early access to ...
 
-📺 Alex Hormozi
+📺 Breaking Points
 
-👁️ 338K • 👍 14K • 💬 523 • ⏱️ 24:19 • 3d ago
-
----
-
-**[AI Models Lie, Cheat, and Steal to Protect Other Models From Being Deleted](https://www.youtube.com/watch?v=O2sDyv5fkeA)**
-
-Agentic AI and the next intelligence explosion https://www.science.org/doi/10.1126/science.aeg1895 AI Models Lie, Cheat, and ...
-
-📺 Gabriel Torch
-
-👁️ 4K • 👍 485 • 💬 244 • ⏱️ 4:42 • 1d ago
+👁️ 293K • 👍 9K • 💬 1K • ⏱️ 13:15 • 23h ago
 
 ---
 
-**[Will Iran War Exit Backfire, Charlie Kirk Conspiracies, AI vs Humanity | CUOMO Full Show 3/31](https://www.youtube.com/watch?v=3xDQOtPYckE)**
+**[Don’t Buy a New Computer in 2026! (Even for AI Use – Here’s Why)](https://www.youtube.com/watch?v=moTUpGoxcmc)**
 
-Chris Cuomo begins with President Trump's comments that the U.S. military may exit its war with Iran before the Strait of Hormuz ...
+New changes in technology like the fast pace of AI adoption and AI agents are triggering us to think of buying a new computer.
 
-📺 NewsNation
+📺 Rob Braxman Tech
 
-👁️ 12K • 👍 230 • 💬 43 • ⏱️ 41:25 • 1d ago
+👁️ 140K • 👍 9K • 💬 1K • ⏱️ 20:47 • 2d ago
+
+---
+
+**[Google’s New AI Just Broke My Brain](https://www.youtube.com/watch?v=7YVrb3-ABYE)**
+
+Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The TurboQuant paper is available here: ...
+
+📺 Two Minute Papers
+
+👁️ 129K • 👍 9K • 💬 890 • ⏱️ 8:34 • 2d ago
 
 ---
 
@@ -379,7 +379,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 487,446 • ❤️ 2,191 • 10d ago
+⬇️ 487,446 • ❤️ 2,202 • 10d ago
 
 ---
 
@@ -391,7 +391,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 76,200 • ❤️ 596 • 1d ago
+⬇️ 76,200 • ❤️ 624 • 1d ago
 
 ---
 
@@ -403,7 +403,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 84,600 • ❤️ 755 • 1d ago
+⬇️ 84,600 • ❤️ 759 • 1d ago
 
 ---
 
@@ -419,18 +419,6 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 ---
 
-**[Voxtral-4B-TTS-2603](https://huggingface.co/mistralai/Voxtral-4B-TTS-2603)**
-
-*Mistral AI_*
-
-Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifelike speech across 9 languages with low latency and streaming support, ideal for production voice agents in customer support and financial services.
-
-`text-to-speech`
-
-⬇️ 4,760 • ❤️ 643 • 3d ago
-
----
-
 **[Bonsai-8B-gguf](https://huggingface.co/prism-ml/Bonsai-8B-gguf)**
 
 *Prism ML*
@@ -439,7 +427,19 @@ Bonsai-8B-GGUF is a highly compressed 1-bit language model (1.15 GB) optimized f
 
 `text-generation` `8.2B`
 
-⬇️ 26,164 • ❤️ 350 • 3d ago
+⬇️ 26,164 • ❤️ 354 • 3d ago
+
+---
+
+**[Voxtral-4B-TTS-2603](https://huggingface.co/mistralai/Voxtral-4B-TTS-2603)**
+
+*Mistral AI_*
+
+Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifelike speech across 9 languages with low latency and streaming support, ideal for production voice agents in customer support and financial services.
+
+`text-to-speech`
+
+⬇️ 4,760 • ❤️ 644 • 3d ago
 
 ---
 
@@ -451,19 +451,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 227,053 • ❤️ 484 • 9d ago
-
----
-
-**[Qwen3.5-9B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive)**
-
-*HauHau*
-
-This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring aggressive refusal removal and native support for text, image, and video inputs up to 262K context. It's designed for lossless generation across 201 languages, suitable for advanced creative and analytical tasks where content restrictions are undesirable.
-
-`9.0B`
-
-⬇️ 700,218 • ❤️ 936 • 1mo ago
+⬇️ 227,053 • ❤️ 486 • 9d ago
 
 ---
 
@@ -475,19 +463,31 @@ Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing te
 
 `image-text-to-text` `26.5B`
 
-⬇️ 24,366 • ❤️ 263 • 1d ago
+⬇️ 24,366 • ❤️ 279 • 1d ago
 
 ---
 
-**[context-1](https://huggingface.co/chromadb/context-1)**
+**[Qwen3.5-9B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive)**
 
-*chroma*
+*HauHau*
 
-Context-1 is a 20B parameter agentic search model that decomposes complex queries into subqueries, performs parallel tool calls, and self-edits its context to efficiently retrieve supporting documents. It excels in cross-domain generalization and offers faster, more cost-effective retrieval than frontier LLMs, primarily for multi-hop search tasks within a specialized agent harness.
+This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring aggressive refusal removal and native support for text, image, and video inputs up to 262K context. It's designed for lossless generation across 201 languages, suitable for advanced creative and analytical tasks where content restrictions are undesirable.
 
-`text-generation` `20.9B`
+`9.0B`
 
-⬇️ 3,195 • ❤️ 360 • 4d ago
+⬇️ 700,218 • ❤️ 940 • 1mo ago
+
+---
+
+**[gemma-4-E4B-it](https://huggingface.co/google/gemma-4-E4B-it)**
+
+*Google*
+
+Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, supporting text and audio input with text output. It excels in reasoning, coding, and agentic tasks, featuring a 128K context window and efficient on-device deployment capabilities.
+
+`any-to-any` `8.0B`
+
+⬇️ 23,460 • ❤️ 235 • 1d ago
 
 ---
 
@@ -503,7 +503,7 @@ Context-1 is a 20B parameter agentic search model that decomposes complex querie
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 149 • 💬 7 • ⭐ 35,362 • 7mo ago
+▲ 149 • 💬 7 • ⭐ 35,575 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -515,7 +515,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 18 • 💬 1 • ⭐ 13,559 • 30mo ago
+▲ 18 • 💬 1 • ⭐ 13,860 • 30mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
@@ -533,6 +533,20 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
+**[VOID: Video Object and Interaction Deletion](https://huggingface.co/papers/2604.02296)**
+
+*Saman Motamed, William Harvey, Benjamin Klein et al. (6 authors)*
+
+🏢 Netflix
+
+VOID is a video object removal framework that uses vision-language models and video diffusion models to generate physically plausible scenes by leveraging causal reasoning and counterfactual reasoning.
+
+▲ 11 • 💬 1 • ⭐ 167 • 1d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2604.02296) • [💻 code](https://github.com/Netflix/void-model) • [🔗 project](https://void-model.github.io/)
+
+---
+
 **[Generative World Renderer](https://huggingface.co/papers/2604.02329)**
 
 *Zheng-Hui Huang, Zhixiang Wang, Jiaming Tan et al. (9 authors)*
@@ -541,7 +555,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 A large-scale dynamic dataset derived from AAA games is introduced to improve generative inverse and forward rendering, featuring high-resolution synchronized RGB and G-buffer data alongside a novel VLM-based evaluation method that correlates well with human judgment.
 
-▲ 65 • 💬 2 • ⭐ 104 • 1d ago
+▲ 73 • 💬 2 • ⭐ 104 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.02329) • [💻 code](https://github.com/ShandaAI/AlayaRenderer) • [🔗 project](https://alaya-studio.github.io/renderer)
 
@@ -593,7 +607,7 @@ AgentScope enhances agentic applications by providing flexible tool-based intera
 
 The AI Scientist-v2 autonomously proposes hypotheses, performs experiments, analyzes data, and writes peer-reviewed scientific papers, marking the first fully AI-generated paper accepted by a conference.
 
-▲ 21 • 💬 4 • ⭐ 4,551 • 11mo ago
+▲ 21 • 💬 4 • ⭐ 4,616 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.08066) • [💻 code](https://github.com/SakanaAI/AI-Scientist-v2)
 
@@ -605,21 +619,9 @@ The AI Scientist-v2 autonomously proposes hypotheses, performs experiments, anal
 
 LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
 
-▲ 37 • 💬 2 • ⭐ 31,648 • 18mo ago
+▲ 37 • 💬 2 • ⭐ 31,788 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
-
----
-
-**[SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization](https://huggingface.co/papers/2604.02268)**
-
-*Zhengxi Lu, Zhiyuan Yao, Jinyang Wu et al. (10 authors)*
-
-SKILL0 enables LLM agents to internalize skills during training, allowing zero-shot autonomous behavior through a dynamic curriculum that reduces contextual overhead while improving task performance.
-
-▲ 68 • 💬 2 • ⭐ 62 • 1d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2604.02268) • [💻 code](https://github.com/ZJU-REAL/SkillZero)
 
 ---
 
@@ -633,7 +635,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 64.8k • 🔱 9.2k • 8d ago
+⭐ 64.9k • 🔱 9.2k • 8d ago
 
 ---
 
@@ -643,7 +645,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 14.9k • 🔱 828 • 3d ago
+⭐ 15.0k • 🔱 828 • 3d ago
 
 ---
 
@@ -653,7 +655,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 12.4k • 🔱 1.1k • 2h ago
+⭐ 12.5k • 🔱 1.1k • 3m ago
 
 ---
 
@@ -663,7 +665,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 8.4k • 🔱 1.3k • 5d ago
+⭐ 8.4k • 🔱 1.3k • 1h ago
 
 ---
 
@@ -673,7 +675,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 7.2k • 🔱 943 • 4d ago
+⭐ 7.2k • 🔱 947 • 4d ago
 
 ---
 
@@ -683,7 +685,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.5k • 🔱 352 • 2h ago
+⭐ 6.5k • 🔱 365 • 3h ago
 
 ---
 
@@ -703,7 +705,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `claude-ai` `claude-skills` `llm` `prompt-engineering`
 
-⭐ 4.5k • 🔱 430 • 3d ago
+⭐ 4.5k • 🔱 432 • 3d ago
 
 ---
 
@@ -713,7 +715,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
 
-⭐ 3.6k • 🔱 617 • 1d ago
+⭐ 3.6k • 🔱 622 • 1d ago
 
 ---
 
@@ -723,7 +725,7 @@ end to end app store screenshot creation using AI
 
 `agentic-ai` `apple` `appstore` `automate` `claude`
 
-⭐ 3.4k • 🔱 227 • 3d ago
+⭐ 3.4k • 🔱 229 • 3d ago
 
 ---
 
