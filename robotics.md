@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-03T13:06:23.536637+00:00'
+updated: '2026-04-03T14:12:06.767895+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 03, 2026 at 13:06 UTC  
+**Last Updated:** April 03, 2026 at 14:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,27 @@ Robotics research and industry news
 
 Appreciate all the feedback and love on the recent videos, here's another clip of the dev process worth sharing. This one starts with an ugly moment, the right leg clips the edge and stumbles on a stair jump. Took a few days to track down the real issue. Turned out to be a mechanical transmission resistance in the hip joint, not a bug in the code. After the fix, clean landing. We're at around stable 30cm (~12")now. Sim does 40 or even higher, but 30 clears real stairs and that's what matters. (Getting to 30 in real life was harder than it sounds) Basic locomotion is getting solid, so next step: giving this little guy some eyes and ears, maybe. Legs first, then brains. sim2real is always humbling!
 
-1h ago
+2h ago
 
 ---
 
 **[Autonomous valet robot demonstrating precise self-parking in a real-world setting](https://www.reddit.com/r/robotics/comments/1san0l2/autonomous_valet_robot_demonstrating_precise/)**
 
-20h ago
+21h ago
 
 ---
 
 **[Generalist | Introducing GEN-1](https://www.reddit.com/r/robotics/comments/1saoiaj/generalist_introducing_gen1/)**
 
-19h ago
+20h ago
+
+---
+
+**[RoboBaton mini and Raspberry Pi](https://www.reddit.com/r/robotics/comments/1sbdusb/robobaton_mini_and_raspberry_pi/)**
+
+l find that RoboBaton mini is good to use. I was originally planning to use Intel's T265, but discovered it had been discontinued. I found RoboBaton Mini on myrobotproject's website. I successfully got it working with my Raspberry Pi. I will open-source the code on GitHub later. I hope everyone can connect with me to discuss and explore other use cases for the Mini.
+
+34m ago
 
 ---
 
@@ -56,15 +64,7 @@ Appreciate all the feedback and love on the recent videos, here's another clip o
 
 been working on this little desktop robot prototype called Kitto for a while now. honestly most of the hype right now is just cramming the biggest model possible into a plastic shell. but testing the interaction on this thing... if the timing is off it just feels like a glorified smart speaker. to make it actually feel 'alive' on a desk, the idle animations and the instant switch to a listening state carry like 90% of the weight. tbh we ended up spending way more time tuning the audio-to-viseme mapping for the face than we did tweaking the actual API prompts. current stack is just an esp32s3+esp32p4 (planning to migrate to a linux board soon so we can handle local processing and maybe hook into openclaw). the screen isnt playing pre-rendered video files btw. the mouth movements are code-driven in real-time by analyzing the audio stream. latency is still my biggest headache though. pinging the api, getting the TTS audio back, and triggering the animation states fast enough to not break the illusion is tough on this hardware. its getting there but still a lot of code to fix. definately not pitching this as finished hardware yet, mostly just looking for honest feedback on the HRI approach. curious how you guys are handling TTS latency in your own conversational builds right now?
 
-21h ago
-
----
-
-**[4DOF Controller for an Automated Projector Project](https://www.reddit.com/r/robotics/comments/1sb00oz/4dof_controller_for_an_automated_projector_project/)**
-
-https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printed parts, motorized projector, home decoration, and DIY electronics -- if you know of anyone else that might be interested in this stuff, sharing to others would really help me out! Hope to see you around here or YouTube :)
-
-11h ago
+23h ago
 
 ---
 
@@ -72,13 +72,21 @@ https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printe
 
 Running 3 HC-SR04’s doing object detection and avoidance. Just getting my encoders working. Hoping to be mapping soon. Definitely a fun project.
 
-14h ago
+15h ago
+
+---
+
+**[4DOF Controller for an Automated Projector Project](https://www.reddit.com/r/robotics/comments/1sb00oz/4dof_controller_for_an_automated_projector_project/)**
+
+https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printed parts, motorized projector, home decoration, and DIY electronics -- if you know of anyone else that might be interested in this stuff, sharing to others would really help me out! Hope to see you around here or YouTube :)
+
+12h ago
 
 ---
 
 **[Robotics Studio](https://www.reddit.com/r/robotics/comments/1sapdsp/robotics_studio/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -86,21 +94,13 @@ Running 3 HC-SR04’s doing object detection and avoidance. Just getting my enco
 
 https://xuanbuilds.github.io/stepper-coil-identification-helper/ I understand 99% of you on the sub don't need this, but here is the context: As a beginner, I struggled to connect stepper motors to drivers. The wiring order varies between motors, and the wire colors don’t indicate how they are grouped. Once I understood that a 2-phase bipolar stepper simply consists of two wire pairs forming two coils, the problem became trivial: identify one pair, and the other is immediately known. At that point, you can already connect the motor to a driver such as a DRV8825 and get it running. I built this simple tool to internalize that concept—and to help other beginners get tinkering quickly without needing to read about steppers first. After doing this a few times, it becomes obvious how simple coil identification is, and the helper becomes unnecessary. You’ll need a multimeter with continuity tester.
 
-7h ago
+8h ago
 
 ---
 
 **["Follow Me" Mode: Real-time human tracking with YOLOv8](https://www.reddit.com/r/robotics/comments/1sac61n/follow_me_mode_realtime_human_tracking_with_yolov8/)**
 
 1d ago
-
----
-
-**[April ROS By-The-Bay Meetup at Beckhoff Automation in San Jose with YC companies Innate and Saphira.ai](https://www.reddit.com/r/robotics/comments/1sayp8e/april_ros_bythebay_meetup_at_beckhoff_automation/)**
-
-Please RSVP Here. ROS By-The-Bay is the Bay Area's only meetup exclusively for Robot Operating System (ROS) users! We're holding a special edition of ROS By-The-Bay with our friends at Beckhoff Automation. This event will be held at the Beckhoff Innovation space at: 2665 N First St Suite #310, San Jose, from 6-9pm on Thursday, April 16th. Our guest speakers and events for this meetup include: Vignesh Anand -- co-founder of Innate. Innate is a robotics startup and recent YC grad building the MARS mobile manipulation platform. They'll talk about their prototype development process and how they took their MARS platform from zero to one. Oscar Avatare -- co-founder of Saphira. Saphira is a recent YC grad that helps robotics companies address critical safety and cybersecurity documention requirements like ISO 26262. "This talk explores how robotics teams can move from simulation to real-world deployment while navigating safety standards such as HARA, FMEA, and emerging AI-focused frameworks. Using ROS 2-based systems and scenario-driven simulation, we’ll show how safety risks can be identified, structured, and traced to system behavior—and how AI-assisted workflows can support, rather than replace, engineering judgment in building certifiable robotic systems Pizza and beverages will be provided. Free parking will be available!
-
-12h ago
 
 ---
 
@@ -112,13 +112,13 @@ Please RSVP Here. ROS By-The-Bay is the Bay Area's only meetup exclusively for R
 
 Anvil Robotics, an eight-month-old startup that aims to be the “Legos for robots,” has raised $5.5 million in a seed funding round, it tells Crunchbase News exclusively.
 
-Crunchbase News • 1d ago
+news.crunchbase.com • 1d ago
 
 ---
 
-**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqesEP56Mj7yhUP6qq1vC1MY96Cv1HewnZWIkkfNghYDDMXgt2RV60La&gaa_ts=69cfbeba&gaa_sig=RtG6hWpHGmBlKkh9Gduumvu0rwrGW-Lsv6oZ7Y_pCXRQ20cqkoNQL-GKRJMZN-qIEgXvaAd0tN5KIfo_hO0-nQ%3D%3D)**
+**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqdLyWl4kGL8BRLJCr9FVBdJgk21prXOhFutw13VZCu5alkdxN4rcqD8&gaa_ts=69cfce23&gaa_sig=8REyC7R09B85m-LxxSQaNVOG_p3pyyV-Y5RyIB6KRQKaR4mU8h1M_3ro3gXOM4kht2xI9tgM2klwfCLaF9qhDg%3D%3D)**
 
-WSJ • 10h ago
+WSJ • 11h ago
 
 ---
 
@@ -130,11 +130,15 @@ MIT Technology Review • 2d ago
 
 ---
 
-**[Gill Pratt Says Humanoid Robots’ Moment Is Finally Here](https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa)**
+**[Generalist Is Betting Its Robot-Training Gloves Will Usher In Robotics’ ChatGPT Moment](https://www.forbes.com/sites/annatong/2026/04/02/generalist-is-betting-its-robot-training-gloves-will-usher-in-robotics-chatgpt-moment/)**
 
-The architect of the DARPA Robotics Challenge explains how their brains have caught up
+Forbes • 1d ago
 
-IEEE Spectrum • 21h ago
+---
+
+**[Air-powered artificial muscles could help robots lift 100 times their weight](https://techxplore.com/news/2026-04-air-powered-artificial-muscles-robots.html)**
+
+Tech Xplore • 22h ago
 
 ---
 
@@ -146,9 +150,11 @@ NASA (.gov) • 1d ago
 
 ---
 
-**[Air-powered artificial muscles could help robots lift 100 times their weight](https://techxplore.com/news/2026-04-air-powered-artificial-muscles-robots.html)**
+**[Hyundai Motor Unveils "Next Starts Now" Campaign, Set to Showcase Robotics at FIFA World Cup 2026™](https://www.hyundai.com/worldwide/en/newsroom/detail/hyundai-motor-unveils-next-starts-now-campaign%252C-set-to-showcase-robotics-at-fifa-world-cup-2026%25E2%2584%25A2-0000001147)**
 
-Tech Xplore • 21h ago
+Hyundai Motor Unveils "Next Starts Now" Campaign, Set to Showcase Robotics at FIFA World Cup 2026™
+
+Hyundai • 2d ago
 
 ---
 
@@ -156,29 +162,21 @@ Tech Xplore • 21h ago
 
 The carrier is scaling its use of physical assets powered by AI to strengthen network reliability and improve connectivity with shippers, a FedEx executive said.
 
-Supply Chain Dive • 1d ago
+Supply Chain Dive • 2d ago
 
 ---
 
-**[Hyundai Motor Unveils "Next Starts Now" Campaign, Set to Showcase Robotics at FIFA World Cup 2026™](https://www.hyundai.com/worldwide/en/newsroom/detail/hyundai-motor-unveils-next-starts-now-campaign%252C-set-to-showcase-robotics-at-fifa-world-cup-2026%25E2%2584%25A2-0000001147)**
+**[Local Robotics Teams Raising Funds to Attend World Competition](https://www.newsdakota.com/2026/04/02/local-robotics-teams-raising-funds-to-attend-world-competition/)**
 
-Hyundai Motor Unveils "Next Starts Now" Campaign, Set to Showcase Robotics at FIFA World Cup 2026™
+VALLEY CITY, N.D. (NewsDakota.com) – Two local school districts are sending their robotics teams to the world competition. Valley City Jr/Sr High Coach- Joelle Manlove said Three Geniuses and the New Guy have been invited to compete
 
-Hyundai • 1d ago
+News Dakota • 18h ago
 
 ---
 
 **[Robots learn to ask humans for help](https://www.axios.com/2026/04/01/robots-delivery-serve-tmobile)**
 
 Axios • 1d ago
-
----
-
-**[Italian rehabilitation robotics startup Wearable Robotics raises €5M to expand its arm exoskeleton](https://thenextweb.com/news/wearable-robotics-5m-series-a)**
-
-Wearable Robotics raises €5M led by CDP Venture Capital for its ALEX RS bilateral arm exoskeleton, deployed in 20 countries.
-
-The Next Web • 1h ago
 
 ---
 
@@ -222,7 +220,7 @@ How do robots work on a cruise ship? In this episode of Engineering the Experien
 
 📺 Royal Caribbean
 
-👁️ 5K • 👍 158 • 💬 14 • ⏱️ 4:51 • 22h ago
+👁️ 5K • 👍 158 • 💬 14 • ⏱️ 4:51 • 23h ago
 
 ---
 
@@ -262,7 +260,7 @@ War Robots Gameplay: Ravana with Kroko - absolutely OP! My War Robots Creator Li
 
 📺 Manni-Gaming
 
-👁️ 9K • 👍 440 • 💬 72 • ⏱️ 22:06 • 23h ago
+👁️ 9K • 👍 440 • 💬 72 • ⏱️ 22:06 • 1d ago
 
 ---
 
@@ -272,7 +270,7 @@ During a recent fan meet-and-greet at Disneyland Paris, Olaf the snowman froze u
 
 📺 TODAY
 
-👁️ 7K • 👍 105 • 💬 16 • ⏱️ 1:20 • 20h ago
+👁️ 7K • 👍 105 • 💬 16 • ⏱️ 1:20 • 21h ago
 
 ---
 

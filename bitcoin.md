@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-03T13:06:23.527605+00:00'
+updated: '2026-04-03T14:12:06.758846+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - social
-- videos
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 03, 2026 at 13:06 UTC  
+**Last Updated:** April 03, 2026 at 14:12 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** +0.4%  
-**30d:** -5.9%  
-**90d:** -27.1%  
-**1y:** -20.6%  
+**24h:** -0.0%  
+**7d:** +0.6%  
+**30d:** -5.8%  
+**90d:** -27.0%  
+**1y:** -20.4%  
 
 ---
 
@@ -77,11 +77,11 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Daily Discussion, April 03, 2026](https://www.reddit.com/r/Bitcoin/comments/1sb5hia/daily_discussion_april_03_2026/)**
+**[How to Buy a $2.5 Million Retirement Portfolio for $335,000](https://www.reddit.com/r/Bitcoin/comments/1sb4f02/how_to_buy_a_25_million_retirement_portfolio_for/)**
 
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+My post was removed because of promotional links, they have been removed. This is pure bitcoin discussion. ____ Watching the price drop from $126K in October to the low $60s in February was both educational and frustrating. So I turned that energy into a research sprint: I built the Bitcoin Power Law Observatory, published 13 research papers, and created a suite of retirement planning tools. The result? I think I found Bitcoin's version of the 4% rule. And the math is almost absurd. The logic chain People need to save for the future. The best savings technology is the hardest money. Bitcoin is the hardest money ever created. Therefore people will save in bitcoin. Not everyone knows this yet. Old habits die hard. The power law (Santostasi, expanded by Krueger and Sigman in "Bitcoin One Million") is the best model for how this adoption unfolds. The core relationship: every time bitcoin ages 1.5x, the price goes roughly 10x. Not hype cycles. Compounding network adoption following the same laws we see in city growth, earthquake magnitude, and species evolution. The floor is the breakthrough The power law model shows a trend line with a corridor of possibilities around it. The ceiling is compressing: early cycles hit 10x trend, recent ones barely 2x. But the floor has never been breached. Since 2010, the lower boundary at about 0.43x the trend value has held through every crash, every panic, every obituary. It held when bitcoin crashed from 10x the trend. From 5x. From 3x. With upside volatility structurally compressing, the floor only gets stronger coming down from 2x or less. What does this floor look like in dollar terms? March 2026: $56,400. March 2027: $77,700. March 2028: $105,300. March 2029: $140,500. March 2030: $184,800. The floor value of 1 bitcoin will grow more than $21,000 over the next 12 months. And that dollar growth accelerates every year. That floor growth is your yield. Not interest. Not dividends. Structural adoption growth baked into the math. And it changes everything about retirement planning. The Bitcoin 4% rule The traditional 4% rule says you can withdraw 4% from an S&P portfolio annually without running out. The 4% buffer exists to handle sequence of returns risk: bad early years can permanently damage a retirement. Bitcoin needs a different system. Higher returns but far more volatility. A decelerating growth rate that demands dynamic withdrawals, not fixed percentages. So I based my framework on floor growth alone: If your stack x floor growth > your yearly expenses = financial freedom. This is the most conservative number the model produces. Bitcoin spends only a tiny fraction of its time near the floor. Everything above it is pure upside cushion. The math The floor currently grows at roughly 39% per year (this rate slowly decelerates over decades). At today's price of about $67,000, 5 BTC costs $335,000. Annual floor growth on 5 BTC: approximately $110,000. Under the traditional 4% rule, $100,000/year requires a $2,500,000 S&P portfolio. Same spending power. $335,000 versus $2,500,000. Over 7x more capital efficient. Using the worst case path the power law produces. Three tailwinds Once you cross the floor freedom line, three forces compound in your favor. Volatility decays: the price corridor compresses roughly 20% each halving cycle, so the "storm years" at the start of retirement expire. The floor keeps rising: your safety net grows every day. And your BTC-denominated expenses shrink: you need fewer sats each year to cover the same dollar amount. The risk is front-loaded and finite. I built a Monte Carlo simulator with 100,000 simulations based on 15 years of historical volatility data. The result: the floor-based approach survives the storm years and the margin of safety widens every year you hold. With 20 BTC, survival is 100% across all simulations at $3,000/month withdrawals. Even at 10 BTC, it is 72%. The three tailwinds working together make this more robust than the traditional 4% rule, which has a roughly 95% historical success rate over 30 years. The honest caveats The power law could break. 15 years is not 150 years. The floor growth rate decelerates over time. Black swan events outside model bounds are possible. This framework only works if the power law holds. Nothing is ever 100%. But consider this: bitcoin is currently trading at 1.19x the floor. Just 19% above the worst case. Historically that is an extremely cheap entry. Most of the time bitcoin sits at 2-3x the floor. The premium you pay today is recovered through less than one year of floor growth. Bottom line If you can buy 5 BTC today, you are building the functional equivalent of a $2.5 million traditional retirement portfolio. At a fraction of the cost. Backed not by a fixed percentage rule, but by the structural growth of the most robust boundary in the most predictive model in finance. And right now, bitcoin is trading at just 19% above that floor. The setup is almost too clean. What would you do with a $2.5 million portfolio?
 
-6h ago
+9h ago
 
 ---
 
@@ -89,15 +89,15 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/MWz1jUU5HOw?si=LCio8gsCvoW52OwN) • 1h ago
+🔗 [youtu.be](https://youtu.be/MWz1jUU5HOw?si=LCio8gsCvoW52OwN) • 2h ago
 
 ---
 
-**[What was the first self custody lesson that really hit you with Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1sbcla0/what_was_the_first_self_custody_lesson_that/)**
+**[Daily Discussion, April 03, 2026](https://www.reddit.com/r/Bitcoin/comments/1sb5hia/daily_discussion_april_03_2026/)**
 
-When I first bought Bitcoin, buying felt easy. The part that actually made me slow down was self custody. At the start I thought it was simple, just buy BTC, send it to a wallet, done. But after reading more, I understood how easy it is to mess up one small thing and regret it forever. Wrong address, bad backup, keeping seed phrase in dumb places, rushing a transfer, all that stuff started feeling way more serious than I expected. That was probably the moment Bitcoin felt different to me. Not just something to buy, but something you actually have to learn how to protect. For me, doing a small test transaction first changed everything. Sounds basic, but it made me less careless. What was the first self custody lesson that really hit you? A mistake you almost made? Something you wish you understood earlier? I feel like this part of Bitcoin doesnt get talked about enough by beginners.
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-21m ago
+8h ago
 
 ---
 
@@ -105,7 +105,23 @@ When I first bought Bitcoin, buying felt easy. The part that actually made me sl
 
 Hi so i made a recent post talking about how i dont want to get fucked by the ATO. ive never reported (crypto gains/converts) to the government and especially not familiar how it is with the ATO since im from Denmark. i asked Chatgpt "where can i track my crypto and then report and send everything in one go?". it said a service like Koinly or Cointraciking. Right now im receiving on coinbase. but i do plan on switching to Receiving on "COCA" only as it gives nice cashback bonus of 6%. Quick side note: is there a better place to store crypto, bonus wise etc? but Yeah im confused. i could technically just look at the crypto i sold, but how will i be able to know how much it rose with from the date of purchase? man i cant see how that gonna be possible
 
-4h ago
+5h ago
+
+---
+
+**[bip54.org - Informational site for BIP54's “Consensus Cleanup” softfork proposal](https://www.reddit.com/r/Bitcoin/comments/1sbea6t/bip54org_informational_site_for_bip54s_consensus/)**
+
+With an increasing number of discussions around the BIP54 “Consensus Cleanup” soft fork proposal, I helped put together an information site about BIP54. “Bitcoin has four known vulnerabilities that have gone unfixed for 15 years. BIP54, "Consensus Cleanup", proposes four narrowly-scoped changes to address these issues in Bitcoin's consensus rules that date back to the original version of Bitcoin in 2009.” https://bip54.org/
+
+🔗 [bip54.org](https://bip54.org/) • 16m ago
+
+---
+
+**[Jade classic and SafePal Cypher from The Crypto Merchant](https://www.reddit.com/r/Bitcoin/comments/1sbe56h/jade_classic_and_safepal_cypher_from_the_crypto/)**
+
+I have been procrastinating with getting a cold hardware wallet because unfortunately that is what I do. But today I decided to take some initiative and get one and decided on Jade classic and SafePal Cypher for a tight budget from The Crypto Merchant? What are you alls thoughts or concerns?
+
+22m ago
 
 ---
 
@@ -119,7 +135,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[So many DCA strategies in the sub recently. Here's mine](https://www.reddit.com/r/Bitcoin/comments/1sah1xz/so_many_dca_strategies_in_the_sub_recently_heres/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -127,31 +143,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Would you send the btc to a new address generated on trezor 7, or just set up the new trezor using seed words from original trezor? Any difference in security down the road that way? I think my btc is currently separated on my original trezor as segwit and legacy or something like that.
 
-11h ago
+12h ago
 
 ---
 
-**[90% LTV vs 50% LTV - why the loan-to-value ratio matters way more than the interest rate on a crypto loan](https://www.reddit.com/r/Bitcoin/comments/1sbcx16/90_ltv_vs_50_ltv_why_the_loantovalue_ratio/)**
+**[740 days until the next Bitcoin halving](https://www.reddit.com/r/Bitcoin/comments/1sar9m2/740_days_until_the_next_bitcoin_halving/)**
 
-People shopping for crypto loans compare interest rates. That's the wrong thing to look at first. LTV determines your actual risk exposure and should be the first number you understand. What LTV means in practice - same $10,000 in Bitcoin, two scenarios: 50% LTV: you borrow $5,000. Bitcoin needs to drop 50% before serious liquidation risk. Enormous breathing room through normal market swings. 90% LTV: you borrow $9,000. Bitcoin needs to drop about 10–12% before liquidation warnings start. In crypto that can happen in a day. A 2% difference in interest rate on a 3-month loan costs you maybe $75. Getting liquidated at 90% LTV during a 15% correction costs you your entire position. The math on which one matters more is pretty clear. So why does high LTV exist at all? Two legitimate use cases: you're short-term constrained and plan to repay within weeks before a serious move is likely. Or you qualify for high LTV but actually borrow conservatively - the higher ceiling just means less collateral locked for the same loan amount. Real example: need $5,000 in cash. At 50% LTV you need $10,000 in BTC locked. At 70% LTV you need about $7,100. If you only have $7,500 in BTC, a platform capped at 50% LTV doesn't help you at all. YouHodler's 90% ceiling on 30-day loans isn't an invitation to borrow at 90% - it means if you have $7,500 in BTC you can get $5,000 at ~67% LTV, then stay cautious from there. Rule of thumb: know the BTC price at which your LTV hits 85%. That's your alarm level. Have a plan for that scenario before you open the loan. Anyone managing loans right now? What LTV do you actually stay at vs what you qualify for?
-
-7m ago
-
----
-
-**[Started buying at 128k now sitting at 93k average](https://www.reddit.com/r/Bitcoin/comments/1sa6krz/started_buying_at_128k_now_sitting_at_93k_average/)**
-
-Who else is pumped right now! Part of me wants another big dip so I can keep adding to my stack with DCA and grab even more sats Real talk tho - if youre in this for the long haul like 10+ years why does anyone get upset when the price drops? Makes no sense to me if you actually believe in where this is headed
-
-1d ago
-
----
-
-**[COLDCARD Spending Policy](https://www.reddit.com/r/Bitcoin/comments/1sak438/coldcard_spending_policy/)**
-
-I was playing around with COLDCARD's spending policy and its pretty awesome. You can add rules like spend limits, velocity controls, address whitelists, and even 2FA. Seems like a solid way to add some extra security without making things too complex. Anyone else played around with spending limits on their COLDCARD?
-
-21h ago
+18h ago
 
 ---
 
@@ -163,7 +161,7 @@ I was playing around with COLDCARD's spending policy and its pretty awesome. You
 
 Other major bitcoin miners have been selling their bitcoin holdings to fund their transition to focus on AI.
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
@@ -171,27 +169,13 @@ The Block • 4h ago
 
 The bank predicts new risks.
 
-thestreet.com • 11h ago
+thestreet.com • 12h ago
 
 ---
 
-**[Bitcoin tumbles, crypto momentum fades as Trump extends Iran timeline](https://finance.yahoo.com/video/bitcoin-tumbles-crypto-momentum-fades-as-trump-extends-iran-timeline-152202604.html)**
+**[Stock futures and bitcoin slip, Treasury yields climb, as hot jobs report raises more questions about Fed rate cuts](https://www.marketwatch.com/story/stock-futures-and-bitcoin-slip-treasury-yields-climb-as-hot-jobs-report-raises-more-questions-about-fed-rate-cuts-921ff82f?gaa_at=eafs&gaa_n=AWEtsqftN8jvQVGIQON0mnosnTZ9synDbOajNJAlw_vXxsTCy94ssrWE1KlS&gaa_ts=69cfce21&gaa_sig=HwjNtfVYmAh3KAIjxzleBeQfjN2EQ3Fzpw31esoe8i-2C9hXLcuzN4lJrBLS8ek-hUn-nYqZY5S0_B-IbrAI5w%3D%3D)**
 
-Yahoo Finance Senior Reporter Brooke DiPalma reports on the sharp sell-off in crypto-linked stocks on Thursday, including Coinbase (COIN), Robinhood (HOOD), and Circle Internet Group (CRCL), as fading momentum and shifting investor sentiment trigger a broader pullback.Cryptocurrency bitcoin (BTC-USD) falls back below $67,000 as investors digest President Trump's latest remarks on the Iran war.
-
-Yahoo Finance • 20h ago
-
----
-
-**[Bitcoin retreats to $66.3k as Trump threatens to hit Iran ‘extremely hard’](https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-to-665k-as-trump-threatens-to-hit-iran-extremely-hard-4594610)**
-
-Investing.com • 1d ago
-
----
-
-**[Bitcoin Looks ‘Weak.’ Jobs Report, Iran War Could Change Things for Struggling Cryptos.](https://www.barrons.com/articles/bitcoin-price-crypto-today-jobs-report-iran-12bef1d4?gaa_at=eafs&gaa_n=AWEtsqe2z22jFFi15z2cmPw8PTKnHJeCELUnyC8X9GrLoLQq8olEoZHY5Kvm&gaa_ts=69cfbeb5&gaa_sig=-1B_5YvTUKKRSfBY87iS9tN27paqaIYi4fMsZCSc1n-pbXbwxCapsG-C99QYSDEA75mRTMaksdFethnKRujGSg%3D%3D)**
-
-Barron's • 2h ago
+MarketWatch • 42m ago
 
 ---
 
@@ -199,7 +183,7 @@ Barron's • 2h ago
 
 Bitcoin continued to trade near the $67,000 level just following the strong report.
 
-CoinDesk • 31m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -207,13 +191,19 @@ CoinDesk • 31m ago
 
 Bitcoin dipped while ethereum gained Friday morning after losing ground following President Trump’s prime-time address. Traders are questioning long-term outlooks.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Riot Announces First Quarter 2026 Production and Operations Updates](https://www.riotplatforms.com/riot-announces-first-quarter-2026-production-and-operations-updates/)**
+
+Riot Platforms • 17h ago
 
 ---
 
 **[Man tried to ransom former employer out of $750,000 in Bitcoin after launching a cyber attack, feds say](https://www.nj.com/news/2026/04/man-tried-to-ransom-former-employer-out-of-750000-in-bitcoin-after-launching-a-cyber-attack-feds-say.html)**
 
-NJ.com • 15h ago
+NJ.com • 16h ago
 
 ---
 
@@ -225,11 +215,19 @@ Forbes • 3d ago
 
 ---
 
-**[Some quantum-resistant tokens jump 50% as Google flags risks to Bitcoin security](https://www.coindesk.com/markets/2026/04/01/the-first-winners-of-the-quantum-crypto-debate-are-already-clear-and-some-of-them-are-up-50)**
+**[Naoris Protocol's quantum-resistant blockchain goes live as Bitcoin and Ethereum face 'Q-Day' threats](https://www.coindesk.com/markets/2026/04/03/naoris-protocol-s-quantum-resistance-blockchain-goes-live-as-bitcoin-and-ethereum-face-q-day-threats)**
 
-The so-called quantum-resistant coins rally as traders switch to potential long-term security.
+Naoris debuts its quantum-resistant mainnet, which uses algorithms approved by the U.S. National Institute of Standards and Technology.
 
-CoinDesk • 1d ago
+CoinDesk • 4h ago
+
+---
+
+**[Google researchers just put a new expiration date on Bitcoin](https://mashable.com/article/google-research-bitcoin-cryptography-broken)**
+
+Bitcoin needs to fix this in the next three years.
+
+Mashable • 3d ago
 
 ---
 
@@ -255,13 +253,13 @@ Bitcoin needs to fix this in the next three years.
 
 **[Strive, Tuttle File Leveraged Bitcoin ETF](https://news.ycombinator.com/item?id=47621293)**
 
-⬆️ 4 • 💬 0 • 14h ago • [catenaa.com](https://catenaa.com/markets/cryptocurrencies/strive-tuttle-file-leveraged-etf-tied-to-bitcoin-preferreds/)
+⬆️ 4 • 💬 0 • 15h ago • [catenaa.com](https://catenaa.com/markets/cryptocurrencies/strive-tuttle-file-leveraged-etf-tied-to-bitcoin-preferreds/)
 
 ---
 
 **[Google Paper Warns of Quantum Computing Risk for Bitcoin](https://news.ycombinator.com/item?id=47600418)**
 
-⬆️ 3 • 💬 1 • 1d ago • [wsj.com](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q)
+⬆️ 3 • 💬 1 • 2d ago • [wsj.com](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q)
 
 ---
 
@@ -283,7 +281,7 @@ The first signing system where the private key is a physical key — and can sti
 
 Test your prediction skills against historical data. Draw your forecast and see how you rank.
 
-⬆️ 1 • 💬 0 • 17h ago • [longmarkets.app](https://longmarkets.app/rewinds/rewind-bitcoin-2017)
+⬆️ 1 • 💬 0 • 18h ago • [longmarkets.app](https://longmarkets.app/rewinds/rewind-bitcoin-2017)
 
 ---
 
@@ -303,7 +301,7 @@ Test your prediction skills against historical data. Draw your forecast and see 
 
 A public and free DNS service for a better security and privacy
 
-⬆️ 61 • 💬 12 • 1d ago • [Quad9](https://quad9.net/news/blog/quad9-enables-dns-over-http-3-and-dns-over-quic/)
+⬆️ 61 • 💬 13 • 1d ago • [Quad9](https://quad9.net/news/blog/quad9-enables-dns-over-http-3-and-dns-over-quic/)
 
 ---
 
@@ -317,7 +315,7 @@ Trump speaks… and markets crash again! Bitcoin fell to $66K, and in just 25 mi
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 131 • ⏱️ 36:07 • 12h ago
+👁️ 12K • 👍 1K • 💬 131 • ⏱️ 36:07 • 13h ago
 
 ---
 
@@ -337,7 +335,7 @@ Bitcoin has been around for 17 years. In that time it's been called digital gold
 
 📺 OpTicBigTymeR
 
-👁️ 6K • 👍 368 • 💬 334 • ⏱️ 18:15 • 18h ago
+👁️ 6K • 👍 368 • 💬 334 • ⏱️ 18:15 • 19h ago
 
 ---
 
@@ -367,7 +365,7 @@ Bitcoin #Crypto #Finance Bitcoin is sitting at a critical level, and what happen
 
 📺 The Wolf Of All Streets
 
-👁️ 9K • 👍 418 • 💬 167 • ⏱️ 33:28 • 17h ago
+👁️ 9K • 👍 418 • 💬 167 • ⏱️ 33:28 • 18h ago
 
 ---
 
@@ -377,7 +375,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 3K • 👍 165 • 💬 9 • ⏱️ 26:35 • 18h ago
+👁️ 3K • 👍 165 • 💬 9 • ⏱️ 26:35 • 19h ago
 
 ---
 
@@ -387,7 +385,7 @@ April will be a big month for crypto - ACT NOW! WEEX Poker Party is LIVE: https:
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 235 • ⏱️ 9:31 • 14h ago
+👁️ 31K • 👍 2K • 💬 235 • ⏱️ 9:31 • 15h ago
 
 ---
 
@@ -397,7 +395,7 @@ Global markets are navigating a high stakes tug of war today. Following an addre
 
 📺 Kitco NEWS
 
-👁️ 12K • 👍 388 • 💬 80 • ⏱️ 31:18 • 17h ago
+👁️ 12K • 👍 388 • 💬 80 • ⏱️ 31:18 • 18h ago
 
 ---
 
