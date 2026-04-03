@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-03T14:12:06.764755+00:00'
+updated: '2026-04-03T15:09:16.191441+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
-- cryptocurrency
+- news
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 03, 2026 at 14:12 UTC  
+**Last Updated:** April 03, 2026 at 15:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $247.44B
+**Market Cap:** $247.98B
 Rank #2
 
 **Circulating Supply:** 120,691,290 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.6%
+-58.5%
 
 **All-Time Low:** $0.43
-+473271.7%
++474523.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Quantum breakthrough papers, Aave v4, Aztec alpha
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-18/) • 2h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-18/) • 3h ago
 
 ---
 
@@ -88,7 +88,7 @@ Quantum breakthrough papers, Aave v4, Aztec alpha
 
 People ask this a lot and most answers are either too optimistic or outdated. Here's what actually works day to day. Direct crypto payments (limited but real) - A small number of merchants accept crypto directly via BitPay or CoinGate. Shows up at checkout alongside card/PayPal. Works in tech, gaming, VPN, some travel. Still niche. Crypto debit cards (most practical for daily use) - Platforms issue Visa/Mastercard cards linked to your crypto account. Spend anywhere that takes Visa, crypto converts to fiat at point of sale. Usually comes with some cashback in platform tokens. Works fine for everyday spending. Stablecoins for transfers - Sending money internationally or paying someone who accepts USDC/USDT is genuinely fast and cheap vs bank wire. More useful than people think for freelance/remote work. Gift cards via Bitrefill (underrated) - Buy gift cards from Amazon, Airbnb, Uber, Steam using crypto. Works everywhere those retailers are accepted. Not seamless but surprisingly broad coverage. Honest reality in 2026: most people still convert to fiat first. Crypto debit cards are the closest thing to seamless daily spending. Several platforms are building bank-integrated crypto cards - worth watching which ones actually ship. What's your setup for spending crypto day to day? Anyone found something that genuinely feels frictionless?
 
-3h ago
+4h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We recently recorded a PEEPanEIP session on EIP-7904, joined by Jacek Sieka and Maria Inês Oliveira. The conversation covers: Motivation behind the proposal Key design considerations Potential impact on the Ethereum ecosystem Open questions and areas for feedback The goal of PEEPanEIP is to make EIPs more accessible and easier to follow for the broader community - especially for those who may not be deep in the specs but want to stay informed. 🎥 Watch the full video https://youtu.be/CswFnsZTXmI Would love to hear thoughts from others following EIP-7904 or working in similar areas - feedback and perspectives welcome.
 
-22h ago
+23h ago
 
 ---
 
@@ -118,19 +118,19 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[A Prediction Market Bounty Mechanism - Using Markets as Self-Funding Bounties for High-Value Sales](https://www.reddit.com/r/ethereum/comments/1sarhn7/a_prediction_market_bounty_mechanism_using/)**
 
-🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2039788146133495879) • 18h ago
+🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2039788146133495879) • 19h ago
 
 ---
 
 **[New Partnership: Nodle x PARAGON ID](https://www.reddit.com/r/ethereum/comments/1sall1a/new_partnership_nodle_x_paragon_id/)**
 
-22h ago
+23h ago
 
 ---
 
 **[AI, bots & algorithms](https://www.reddit.com/r/ethereum/comments/1saiwdj/ai_bots_algorithms/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -138,7 +138,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Two months after Ethereum mainnet launched, Vitalik deployed a 3-contract on-chain arbitration system written in Serpent. We just verified all three with exact bytecode matches. The contracts: ArbiterRegistry (0x82afa2c4, block 301,954 - Sep 28, 2015) Arbiters pay 1+ ETH to list themselves as dispute mediators. The fee decays 50% per month using a 3rd-order Taylor series approximation, so inactive arbiters fall in the rankings automatically. Hardcoded EF withdrawal address. Someone called register() again in 2024 - still works. Arbitration (0xe881af13, block 303,316 + 0x7e2d0fe0, block 318,029) Smart escrow with designated arbiters. Two parties create a contract, designate arbiters, and funds auto-transfer when >50% of arbiters vote. Both parties can also instantly surrender to the other side. Vitalik tested it from both his dev address and vitalik.eth. The forensics: The source Vitalik later committed to ethereum/dapp-bin had one line wrong vs what he actually deployed. The ArbiterNotification log had its indexed arguments in reversed order. He fixed the arg order in git after shipping. The chain preserved the original - we had to catch that divergence to get an exact match. How we verified it: Not decompilation. We compiled forward: found the source in ethereum/dapp-bin, identified the exact Serpent compiler commit used (e5a5f875, Sep 26 2015), compiled it, and compared output byte-for-byte against the on-chain code. Full docs + live contract interaction (ABIs published): - https://ethereumhistory.com/contract/0x82afa2c4a686af9344e929f9821f3e8c6e9293ab - https://ethereumhistory.com/contract/0xe881af13bf55c97562fe8d2da2f6ea8e3ff66f98 Verification repos: - https://github.com/cartoonitunes/arbiter-reg-verification - https://github.com/cartoonitunes/arbitration-verification EthereumHistory is a free archive - if you find this useful, you can support it at ethereumhistory.com/donate
 
-1d ago
+2d ago
 
 ---
 
@@ -150,7 +150,7 @@ Two months after Ethereum mainnet launched, Vitalik deployed a 3-contract on-cha
 
 Naoris Protocol says its blockchain network uses quantum-resistant cryptography, as the wider crypto industry prepares for future threats.
 
-Decrypt • 15h ago
+Decrypt • 16h ago
 
 ---
 
@@ -164,7 +164,7 @@ CCN.com • 3d ago
 
 The foundation deposited the bulk of its planned staking commitment in a single session, completing a program announced in February to turn dormant treasury holdings into a yield-generating position.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -172,7 +172,7 @@ CoinDesk • 2h ago
 
 Vitalik Buterin ranks #1 on CCN’s Top 101 for 2026 for reshaping Ethereum’s roadmap and maintaining influence without centralized control. His research-driven leadership and layer-2 ...
 
-Yahoo Finance • 58m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 58m ago
 
 ETH is trading at $2,055, down 58% from its August 2025 all-time high of $4,953, and sitting at a level that has become one of crypto’s most uncomfortable recurring storylines.Trader Ash Crypto and others captured the mood on X with a simple list: every time ETH has touched $2,000 since April 2021…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
@@ -188,7 +188,7 @@ TradingView • 3h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 49m ago
+Fortune • 1h ago
 
 ---
 
@@ -230,7 +230,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 450 • 👍 42 • 💬 15 • ⏱️ 10:32 • 3h ago
+👁️ 793 • 👍 65 • 💬 19 • ⏱️ 10:32 • 4h ago
 
 ---
 
@@ -240,7 +240,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 4K • 👍 509 • 💬 44 • ⏱️ 4:25 • 4h ago
+👁️ 6K • 👍 697 • 💬 50 • ⏱️ 4:25 • 5h ago
 
 ---
 
@@ -250,17 +250,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEE
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 266 • ⏱️ 10:45 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=UEeXKOD4Dls)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 105 • 💬 2 • ⏱️ 5:43 • 23h ago
+👁️ 40K • 👍 2K • 💬 268 • ⏱️ 10:45 • 1d ago
 
 ---
 
@@ -270,7 +260,27 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 108 • 👍 8 • 💬 1 • ⏱️ 5:16 • 4h ago
+👁️ 116 • 👍 8 • 💬 1 • ⏱️ 5:16 • 5h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=UEeXKOD4Dls)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 106 • 💬 2 • ⏱️ 5:43 • 1d ago
+
+---
+
+**[Bitcoin Ethereum Altcoins BUY NOW?? Watch This Chart!!](https://www.youtube.com/watch?v=PN575EkTazs)**
+
+bitcoin #altcoins #ethereum Crypto All In One Website Hyper Swap: https://www.hyper-swap.io/ New Hyped Upcoming Crypto ...
+
+📺 Alessandro De Crypto Official
+
+👁️ 112 • 👍 20 • 💬 20 • ⏱️ 5:28 • 2h ago
 
 ---
 
@@ -280,17 +290,7 @@ BITCOIN WARNING: Everyone is WRONG About This!!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 4K • 👍 165 • 💬 107 • ⏱️ 20:12 • 15h ago
-
----
-
-**[Ethereum Pumped 23% Last Time... But Waiting For THIS Signal Could Yield FAR MORE!](https://www.youtube.com/watch?v=KQC7G3k41ZY)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 436 • 👍 14 • 💬 6 • ⏱️ 6:16 • 1d ago
+👁️ 4K • 👍 173 • 💬 185 • ⏱️ 20:12 • 16h ago
 
 ---
 
@@ -300,17 +300,17 @@ BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Start your trading j
 
 📺 Ashutosh Kumar
 
-👁️ 5K • 👍 615 • 2h ago
+👁️ 11K • 👍 1K • 3h ago
 
 ---
 
-**[Ethereum (ETH) - Análise de hoje, 03/04/2026 #ETH #Ethereum #BTC #bitcoin #XRP #vitalik #ETH](https://www.youtube.com/watch?v=KAtf9vsO98g)**
+**[Google Quantum AI Rates $BTC $ETH $XRP $ALGO $SOL | Fannie Mae Crypto Mortgages | 401k Crypto](https://www.youtube.com/watch?v=4tVQTusXc24)**
 
-ASSINE AGORA Altcoins GEMAS Alert !!! - (R$100/mês): https://pay.hotmart.com/Y93614691E https://degenscan.io #eth #BTC ...
+Google Quantum AI just dropped a paper that directly names Bitcoin, Ethereum, XRP, Algorand, and Solana and rates their ...
 
-📺 Trade with Renato Ulianov
+📺 King Solomon (Ryan Solomon)
 
-👁️ 228 • 👍 55 • 💬 4 • ⏱️ 2:52 • 2h ago
+👁️ 5K • 👍 467 • 💬 47 • ⏱️ 29:55 • 2d ago
 
 ---
 
@@ -320,7 +320,7 @@ Hang in there everyone! The risk models that say when to accumulate or exit HERE
 
 📺 Dan Gambardello
 
-👁️ 10K • 👍 624 • 💬 212 • ⏱️ 13:49 • 2d ago
+👁️ 10K • 👍 626 • 💬 213 • ⏱️ 13:49 • 2d ago
 
 ---
 

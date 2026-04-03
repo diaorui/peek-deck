@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-03T14:12:06.767895+00:00'
+updated: '2026-04-03T15:09:16.194569+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 03, 2026 at 14:12 UTC  
+**Last Updated:** April 03, 2026 at 15:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 Appreciate all the feedback and love on the recent videos, here's another clip of the dev process worth sharing. This one starts with an ugly moment, the right leg clips the edge and stumbles on a stair jump. Took a few days to track down the real issue. Turned out to be a mechanical transmission resistance in the hip joint, not a bug in the code. After the fix, clean landing. We're at around stable 30cm (~12")now. Sim does 40 or even higher, but 30 clears real stairs and that's what matters. (Getting to 30 in real life was harder than it sounds) Basic locomotion is getting solid, so next step: giving this little guy some eyes and ears, maybe. Legs first, then brains. sim2real is always humbling!
 
-2h ago
+3h ago
 
 ---
 
 **[Autonomous valet robot demonstrating precise self-parking in a real-world setting](https://www.reddit.com/r/robotics/comments/1san0l2/autonomous_valet_robot_demonstrating_precise/)**
 
-21h ago
+22h ago
 
 ---
 
 **[Generalist | Introducing GEN-1](https://www.reddit.com/r/robotics/comments/1saoiaj/generalist_introducing_gen1/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -56,7 +56,7 @@ Appreciate all the feedback and love on the recent videos, here's another clip o
 
 l find that RoboBaton mini is good to use. I was originally planning to use Intel's T265, but discovered it had been discontinued. I found RoboBaton Mini on myrobotproject's website. I successfully got it working with my Raspberry Pi. I will open-source the code on GitHub later. I hope everyone can connect with me to discuss and explore other use cases for the Mini.
 
-34m ago
+1h ago
 
 ---
 
@@ -64,7 +64,7 @@ l find that RoboBaton mini is good to use. I was originally planning to use Inte
 
 been working on this little desktop robot prototype called Kitto for a while now. honestly most of the hype right now is just cramming the biggest model possible into a plastic shell. but testing the interaction on this thing... if the timing is off it just feels like a glorified smart speaker. to make it actually feel 'alive' on a desk, the idle animations and the instant switch to a listening state carry like 90% of the weight. tbh we ended up spending way more time tuning the audio-to-viseme mapping for the face than we did tweaking the actual API prompts. current stack is just an esp32s3+esp32p4 (planning to migrate to a linux board soon so we can handle local processing and maybe hook into openclaw). the screen isnt playing pre-rendered video files btw. the mouth movements are code-driven in real-time by analyzing the audio stream. latency is still my biggest headache though. pinging the api, getting the TTS audio back, and triggering the animation states fast enough to not break the illusion is tough on this hardware. its getting there but still a lot of code to fix. definately not pitching this as finished hardware yet, mostly just looking for honest feedback on the HRI approach. curious how you guys are handling TTS latency in your own conversational builds right now?
 
-23h ago
+1d ago
 
 ---
 
@@ -72,7 +72,7 @@ been working on this little desktop robot prototype called Kitto for a while now
 
 Running 3 HC-SR04’s doing object detection and avoidance. Just getting my encoders working. Hoping to be mapping soon. Definitely a fun project.
 
-15h ago
+16h ago
 
 ---
 
@@ -80,13 +80,13 @@ Running 3 HC-SR04’s doing object detection and avoidance. Just getting my enco
 
 https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printed parts, motorized projector, home decoration, and DIY electronics -- if you know of anyone else that might be interested in this stuff, sharing to others would really help me out! Hope to see you around here or YouTube :)
 
-12h ago
+13h ago
 
 ---
 
 **[Robotics Studio](https://www.reddit.com/r/robotics/comments/1sapdsp/robotics_studio/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -94,7 +94,7 @@ https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printe
 
 https://xuanbuilds.github.io/stepper-coil-identification-helper/ I understand 99% of you on the sub don't need this, but here is the context: As a beginner, I struggled to connect stepper motors to drivers. The wiring order varies between motors, and the wire colors don’t indicate how they are grouped. Once I understood that a 2-phase bipolar stepper simply consists of two wire pairs forming two coils, the problem became trivial: identify one pair, and the other is immediately known. At that point, you can already connect the motor to a driver such as a DRV8825 and get it running. I built this simple tool to internalize that concept—and to help other beginners get tinkering quickly without needing to read about steppers first. After doing this a few times, it becomes obvious how simple coil identification is, and the helper becomes unnecessary. You’ll need a multimeter with continuity tester.
 
-8h ago
+9h ago
 
 ---
 
@@ -118,7 +118,7 @@ news.crunchbase.com • 1d ago
 
 **[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqdLyWl4kGL8BRLJCr9FVBdJgk21prXOhFutw13VZCu5alkdxN4rcqD8&gaa_ts=69cfce23&gaa_sig=8REyC7R09B85m-LxxSQaNVOG_p3pyyV-Y5RyIB6KRQKaR4mU8h1M_3ro3gXOM4kht2xI9tgM2klwfCLaF9qhDg%3D%3D)**
 
-WSJ • 11h ago
+WSJ • 12h ago
 
 ---
 
@@ -138,7 +138,7 @@ Forbes • 1d ago
 
 **[Air-powered artificial muscles could help robots lift 100 times their weight](https://techxplore.com/news/2026-04-air-powered-artificial-muscles-robots.html)**
 
-Tech Xplore • 22h ago
+Tech Xplore • 23h ago
 
 ---
 
@@ -184,13 +184,23 @@ Axios • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Xiaomi’s New AI Robot Hand Works Like a REAL Human… This Is INSANE](https://www.youtube.com/watch?v=Ubpk3tOl9gw)**
+**[Every Home Will Have a Humanoid Robot in 10 Years](https://www.youtube.com/watch?v=u4NLSzMP8z0)**
 
-Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking it's human — and that's just the START of what's ...
+Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join Support the Shawn ...
 
-📺 The AI Nexus
+📺 Shawn Ryan Clips
 
-👁️ 4K • 👍 173 • 💬 13 • ⏱️ 20:43 • 2d ago
+👁️ 10K • 👍 334 • 💬 135 • ⏱️ 15:18 • 3d ago
+
+---
+
+**[Robotic Frog VS Frog](https://www.youtube.com/watch?v=kwzDGQAzyuw)**
+
+I put REAL animals up against their robotic versions in a series of intense head-to-head challenges: From speed and agility to ...
+
+📺 Alex Turk
+
+👁️ 231K • 👍 2K • 💬 77 • ⏱️ 9:36 • 6d ago
 
 ---
 
@@ -204,6 +214,46 @@ Brett Adcock shares his vision for the future of humanoid robots, why he believe
 
 ---
 
+**[Melania Trump Promotes Humanoid Robots as Potential Educators | The View](https://www.youtube.com/watch?v=q6fcoXkiVnQ)**
+
+'The View' co-hosts and Abby Huntsman react to the first lady's sneak peek at the classroom of the future. Subscribe to our ...
+
+📺 The View
+
+👁️ 78K • 👍 1K • 💬 446 • ⏱️ 6:42 • 6d ago
+
+---
+
+**[Xiaomi’s New AI Robot Hand Works Like a REAL Human… This Is INSANE](https://www.youtube.com/watch?v=Ubpk3tOl9gw)**
+
+Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking it's human — and that's just the START of what's ...
+
+📺 The AI Nexus
+
+👁️ 4K • 👍 173 • 💬 13 • ⏱️ 20:43 • 2d ago
+
+---
+
+**[I broke a robot in China](https://www.youtube.com/watch?v=7U3vjVfwChc)**
+
+China is leading the world in humanoid robot shipments. Powered by artificial intelligence, these machines are setting new ...
+
+📺 CGTN
+
+👁️ 26K • 👍 245 • 💬 37 • ⏱️ 1:54 • 1d ago
+
+---
+
+**[Shawn Ryan Tests a Real Humanoid Robot](https://www.youtube.com/watch?v=HWq9cFhTvvQ)**
+
+Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In this clip, we break down how this robot sees, ...
+
+📺 Shawn Ryan Show
+
+👁️ 673K • 👍 28K • 💬 5K • ⏱️ 8:48 • 1d ago
+
+---
+
 **[Nvidia Shocked Everyone by Announcing the Smartest AI Robot That Can Do Anything](https://www.youtube.com/watch?v=fW_vymTb2ZM)**
 
 A new wave of attention is building around Nvidia as the company pushes further into advanced robotics with a concept focused ...
@@ -214,73 +264,23 @@ A new wave of attention is building around Nvidia as the company pushes further 
 
 ---
 
-**[Engineering the Experience – How Do Robots Work on a Cruise Ship?](https://www.youtube.com/watch?v=AezeHLJedYc)**
+**[Jen picks humanoid over Melania](https://www.youtube.com/watch?v=TKnzU1XhcNU)**
 
-How do robots work on a cruise ship? In this episode of Engineering the Experience, Royal Caribbean explores the robotics and ...
+Robot vs. Melania? After Melania Trump brings an AI-powered humanoid to the White House, Jen makes her pick.
 
-📺 Royal Caribbean
+📺 MS NOW
 
-👁️ 5K • 👍 158 • 💬 14 • ⏱️ 4:51 • 23h ago
-
----
-
-**[Shawn Ryan Gets a Real-Life Robot 😳](https://www.youtube.com/watch?v=fQdJb7YzDRc)**
-
-Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join Support the Shawn ...
-
-📺 Shawn Ryan Show
-
-👁️ 1.1M • 👍 17K • 💬 1K • ⏱️ 0:28 • 3d ago
+👁️ 53K • 👍 2K • 💬 296 • ⏱️ 2:01 • 6d ago
 
 ---
 
-**[Shawn Ryan Tests a Real Humanoid Robot](https://www.youtube.com/watch?v=HWq9cFhTvvQ)**
+**[China&#39;s Robots Learned Kung Fu. Now They&#39;re Terrifying](https://www.youtube.com/watch?v=UKLvMLtNXpE)**
 
-Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In this clip, we break down how this robot sees, ...
+679 million people watched China's robots perform fully autonomous kung fu at the 2026 Spring Festival Gala. Backflips.
 
-📺 Shawn Ryan Show
+📺 TechFrontierNow
 
-👁️ 651K • 👍 27K • 💬 4K • ⏱️ 8:48 • 1d ago
-
----
-
-**[The Six-Servo Robot Dog - it&#39;s open source!](https://www.youtube.com/watch?v=2eKb_2N0SBI)**
-
-Ad: Check out PCBWay for all your project needs! Get $10 off orders over $30 with code: PCBWay-JamesBruton-10 ...
-
-📺 James Bruton
-
-👁️ 53K • 👍 4K • 💬 182 • ⏱️ 16:17 • 3d ago
-
----
-
-**[War Robots Most Broken RAVANA Ever!](https://www.youtube.com/watch?v=t67ObSD1yp8)**
-
-War Robots Gameplay: Ravana with Kroko - absolutely OP! My War Robots Creator Link: https://wr.my.games/manni - Code: ...
-
-📺 Manni-Gaming
-
-👁️ 9K • 👍 440 • 💬 72 • ⏱️ 22:06 • 1d ago
-
----
-
-**[Olaf Robot Freezes up at Disneyland Paris and Falls Over](https://www.youtube.com/watch?v=QjgAZcS2wFI)**
-
-During a recent fan meet-and-greet at Disneyland Paris, Olaf the snowman froze up and took a tumble in front of shocked fans.
-
-📺 TODAY
-
-👁️ 7K • 👍 105 • 💬 16 • ⏱️ 1:20 • 21h ago
-
----
-
-**[Robotics in the MCU!](https://www.youtube.com/watch?v=F6ILTk4HsHc)**
-
-All titles are now streaming on @disneyplus ▻ SUBSCRIBE to the channel to get notified when new Marvel videos are posted: ...
-
-📺 Marvel Entertainment
-
-👁️ 43K • 👍 3K • 💬 78 • ⏱️ 2:28 • 3d ago
+👁️ 25K • 👍 635 • 💬 83 • ⏱️ 9:00 • 6d ago
 
 ---
 
