@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-03T20:48:54.096819+00:00'
+updated: '2026-04-03T21:35:00.858877+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 03, 2026 at 20:48 UTC  
+**Last Updated:** April 03, 2026 at 21:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/ylRbyff4xKs) • 1h ago
+🔗 [youtu.be](https://youtu.be/ylRbyff4xKs) • 2h ago
 
 ---
 
@@ -94,7 +94,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Why are we still copy-pasting 40-character wallet addresses in 2026? Idea: you do a small test transfer once → both wallets get a shared avatar/character. Next time you send, you just recognize the person visually instead of relying on the address. Kind of like “pairing” wallets. Would this actually reduce mistakes or scams, or is this unnecessary given things like ENS?
 
-1h ago
+2h ago
 
 ---
 
@@ -102,7 +102,7 @@ Why are we still copy-pasting 40-character wallet addresses in 2026? Idea: you d
 
 Quantum breakthrough papers, Aave v4, Aztec alpha
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-18/) • 9h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-18/) • 10h ago
 
 ---
 
@@ -110,7 +110,7 @@ Quantum breakthrough papers, Aave v4, Aztec alpha
 
 People ask this a lot and most answers are either too optimistic or outdated. Here's what actually works day to day. Direct crypto payments (limited but real) - A small number of merchants accept crypto directly via BitPay or CoinGate. Shows up at checkout alongside card/PayPal. Works in tech, gaming, VPN, some travel. Still niche. Crypto debit cards (most practical for daily use) - Platforms issue Visa/Mastercard cards linked to your crypto account. Spend anywhere that takes Visa, crypto converts to fiat at point of sale. Usually comes with some cashback in platform tokens. Works fine for everyday spending. Stablecoins for transfers - Sending money internationally or paying someone who accepts USDC/USDT is genuinely fast and cheap vs bank wire. More useful than people think for freelance/remote work. Gift cards via Bitrefill (underrated) - Buy gift cards from Amazon, Airbnb, Uber, Steam using crypto. Works everywhere those retailers are accepted. Not seamless but surprisingly broad coverage. Honest reality in 2026: most people still convert to fiat first. Crypto debit cards are the closest thing to seamless daily spending. Several platforms are building bank-integrated crypto cards - worth watching which ones actually ship. What's your setup for spending crypto day to day? Anyone found something that genuinely feels frictionless?
 
-10h ago
+11h ago
 
 ---
 
@@ -124,7 +124,7 @@ People ask this a lot and most answers are either too optimistic or outdated. He
 
 **[Is the "Quantum Apocalypse" coming early for ethereum?](https://www.reddit.com/r/ethereum/comments/1sbgp8o/is_the_quantum_apocalypse_coming_early_for/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -152,7 +152,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 The foundation deposited the bulk of its planned staking commitment in a single session, completing a program announced in February to turn dormant treasury holdings into a yield-generating position.
 
-coindesk.com • 8h ago
+coindesk.com • 9h ago
 
 ---
 
@@ -160,7 +160,7 @@ coindesk.com • 8h ago
 
 Naoris Protocol says its blockchain network uses quantum-resistant cryptography, as the wider crypto industry prepares for future threats.
 
-Decrypt • 21h ago
+Decrypt • 22h ago
 
 ---
 
@@ -168,7 +168,7 @@ Decrypt • 21h ago
 
 Bitcoin dipped while ethereum gained Friday morning after losing ground following President Trump’s prime-time address. Traders are questioning long-term outlooks.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 9h ago
 
 The foundation’s latest staking allocation mirrors its biggest-ever single-day move and is a major step-up from its initial February deployment.
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
@@ -184,13 +184,13 @@ The Block • 4h ago
 
 A crypto analyst has made a bold projection, suggesting the Ethereum price could reach a staggering $10,000. According to him, this is the minimum level that ETH could read, underscoring his confidence in the cryptocurrency’s bullish outlook. The analyst has cited strong fundamental and technical i…
 
-TradingView • 5h ago
+TradingView • 6h ago
 
 ---
 
 **[Ethereum’s Quiet Architect Takes the Crown — Why Vitalik Buterin Ranks #1 on CCN’s Top 101 for 2026](https://www.ccn.com/news/crypto/ethereum-vitalik-buterin-claims-rank-1-top-ccn-101-in-crypto-2026/)**
 
-CCN.com • 7h ago
+CCN.com • 8h ago
 
 ---
 
@@ -198,7 +198,7 @@ CCN.com • 7h ago
 
 Charles Schwab is set to launch Schwab Crypto for direct Bitcoin and Ethereum trading, marking a shift from indirect crypto exposure.
 
-Crypto Briefing • 3h ago
+Crypto Briefing • 4h ago
 
 ---
 
@@ -218,7 +218,7 @@ MarketWatch • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 7h ago
+Fortune • 8h ago
 
 ---
 
@@ -232,7 +232,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 100 • 💬 23 • ⏱️ 10:32 • 9h ago
+👁️ 2K • 👍 100 • 💬 23 • ⏱️ 10:32 • 10h ago
 
 ---
 
@@ -242,7 +242,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 10K • 👍 888 • 💬 55 • ⏱️ 4:25 • 10h ago
+👁️ 10K • 👍 888 • 💬 55 • ⏱️ 4:25 • 11h ago
 
 ---
 
@@ -262,7 +262,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 231 • 👍 9 • 💬 1 • ⏱️ 5:16 • 11h ago
+👁️ 231 • 👍 9 • 💬 1 • ⏱️ 5:16 • 12h ago
 
 ---
 
@@ -282,7 +282,7 @@ ETHEREUM : une configuration LONG TERME très OPPORTUNISTE ?   Analyse CRYPTO �
 
 📺 Lexa Moon Crypto
 
-👁️ 400 • 👍 76 • 💬 13 • ⏱️ 13:58 • 2h ago
+👁️ 400 • 👍 76 • 💬 13 • ⏱️ 13:58 • 3h ago
 
 ---
 
@@ -292,7 +292,7 @@ bitcoin #altcoins #ethereum Crypto All In One Website Hyper Swap: https://www.hy
 
 📺 Alessandro De Crypto Official
 
-👁️ 437 • 👍 21 • 💬 21 • ⏱️ 5:28 • 7h ago
+👁️ 437 • 👍 21 • 💬 21 • ⏱️ 5:28 • 8h ago
 
 ---
 
@@ -302,7 +302,7 @@ BITCOIN WARNING: Everyone is WRONG About This!!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 5K • 👍 178 • 💬 280 • ⏱️ 20:12 • 22h ago
+👁️ 5K • 👍 178 • 💬 280 • ⏱️ 20:12 • 23h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-03T20:48:54.082611+00:00'
+updated: '2026-04-03T21:35:00.844711+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 03, 2026 at 20:48 UTC  
+**Last Updated:** April 03, 2026 at 21:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[MIT study challenges AI job apocalypse narrative](https://www.reddit.com/r/artificial/comments/1sb7qxc/mit_study_challenges_ai_job_apocalypse_narrative/)**
 
-🔗 [axios.com](https://www.axios.com/2026/04/02/ai-jobs-mit-study-workforce-impact) • 12h ago
+🔗 [axios.com](https://www.axios.com/2026/04/02/ai-jobs-mit-study-workforce-impact) • 13h ago
 
 ---
 
@@ -55,7 +55,7 @@ I’ve been digging into AI security incident data from 2025 into this year, and
 
 idk if it’s just me but lately i’ve been thinking about how casually we use stuff like chatgpt and claude for everything like coding, random ideas, sometimes even personal things and i don’t think most of us really know what happens to that data after we send it we just kind of assume it’s fine because the tools are useful also saw some discussion recently about AI companies and governments asking for user data (not sure how accurate it was), but it kind of made me think more about this whole thing i’m not saying anything bad is happening, just feels like we’ve gotten comfortable really fast without thinking much about it do you guys filter what you share or just use it normally?
 
-16m ago
+1h ago
 
 ---
 
@@ -63,7 +63,7 @@ idk if it’s just me but lately i’ve been thinking about how casually we use 
 
 There’s been a lot of discussion recently about how expensive AI video generation is compared to text, and it feels like this is more than just an optimization issue. Text models work well because they compress meaning into tokens. Video doesn’t really have an equivalent abstraction yet. Current approaches have to deal with high-dimensional data across many frames, while also keeping objects and motion consistent over time. That makes the problem fundamentally heavier. Instead of predicting the next token, the model is trying to generate something that behaves like a continuous world. The amount of information it has to track and maintain is significantly larger. This shows up directly in cost. More compute per sample, longer inference paths, and stricter consistency requirements all stack up quickly. Even if models improve, that underlying structure does not change easily. It also explains why there is a growing focus on efficiency and representation rather than just pushing output quality. The limitation is not only what the models can generate, but whether they can do it sustainably at scale. At this point, it seems likely that meaningful cost reductions will require a different way of representing video, not just incremental improvements to existing approaches. I’m starting to think we might still be early in how this problem is formulated, rather than just early in model performance.
 
-3h ago
+4h ago
 
 ---
 
@@ -71,7 +71,7 @@ There’s been a lot of discussion recently about how expensive AI video generat
 
 Advice from the study's co-author: "Be aware that it’s not any single post that identifies you, but the combination of small details across many posts. And consider never posting anything you truly don’t want shared with the world.”
 
-🔗 [wjamesau.substack.com](https://wjamesau.substack.com/p/warning-llms-able-to-de-anonymize) • 1h ago
+🔗 [wjamesau.substack.com](https://wjamesau.substack.com/p/warning-llms-able-to-de-anonymize) • 2h ago
 
 ---
 
@@ -85,7 +85,7 @@ Advice from the study's co-author: "Be aware that it’s not any single post tha
 
 I'm extremely new to AI and am building a local agent for fun. I purchased a Claude Pro account because it helped me a lot in the past when coding different things for hobbies, but then the usage limits started getting really bad and making no sense. I had to quite literally stop my workflow because I hit my limit, so I came back when it said the limit was reset only for it to be pushed back again for another 5 hours. Today I did ask for a heavy prompt, I am making a local Doom coding assistant to make a Doom mod for fun and am using Unsloth Studio to train it with a custom dataset. I used my Claude Pro to "vibe code" (I'm sorry if this is blasphemy, but I do have a background in programming, so I am able to read and verify the code if that makes it less bad? I'm just lazy.) a simple version of the agent to get started, a Python scraper for the Zdoom wiki page to get all of the languages for Doom mods, a dataset from those pages turned into pdf, formating, and the modelfile for the local agent it would be based around along with a README (claudes recommendation, thought it was a good idea). It generated those files, I corrected it in some areas so it updated only two of the files that needed it, and I know this is a heavy prompt, but it literally used up 73% of my entire usage. Just those two prompts. To me, even though that is a super big request, that seems extremely limited. But maybe I'm wrong because I'm so fresh to the hobby and ignorant? I know it was going around the grapevine that Claude usage limits have gone crazy lately, but this seems more than just a minor issue if this isn't normal. For example, I have to purchase a digital visa card off amazon because I live in a country that's pretty strict with its banking, so the banks don't allow transactions to places like LLM's usually. I spend $28 on a $20 monthly subscription because of this, but if I'm so limited on my usage, why would I continue paying that? Or again, maybe I'm just ignorant. It's very bizarre because the free plan was so good and honestly did a lot of these types of requests frequently. It wasn't perfect, but doable and I liked it so much that I upgraded to the Pro version. Now I can barely use it. Kinda sucks.
 
-5h ago
+6h ago
 
 ---
 
@@ -99,7 +99,7 @@ I'm extremely new to AI and am building a local agent for fun. I purchased a Cla
 
 I am curious. I work in a bank call centers and is so boring and repetitive the work i m doing. But also eveythin in my call center is so badly done. We have to do 30 things in one call. Open excell. The system is so slow and eveything is so bady placed. I m curious if AI will do any difference in my job in 2030 or after that.
 
-2h ago
+3h ago
 
 ---
 
@@ -107,7 +107,7 @@ I am curious. I work in a bank call centers and is so boring and repetitive the 
 
 As in subject. A lot is being said about power usage, but is the general power net being upgraded to make it more resilient and to somehow balance that out? Thanks.
 
-2h ago
+3h ago
 
 ---
 
@@ -117,7 +117,7 @@ As in subject. A lot is being said about power usage, but is the general power n
 
 **[Economists Are Drawing Stronger Connections Between A.I. and Jobs](https://www.nytimes.com/2026/04/03/business/economists-once-dismissed-the-ai-job-threat-but-not-anymore.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
@@ -133,7 +133,7 @@ bcg.com • 15h ago
 
 A new study tested dozens of AI models on thousands of real job tasks. The results should reassure workers for now.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
@@ -141,7 +141,7 @@ Fortune • 1h ago
 
 Early scandals have not slowed lawyers' adoption of AI tools, even as court sanctions over fake legal briefs continue to rise.
 
-NPR • 11h ago
+NPR • 12h ago
 
 ---
 
@@ -149,7 +149,7 @@ NPR • 11h ago
 
 “When they say, ‘You should be using AI,’ the first thought in your head is: ‘Are you asking me to teach you how to replace me with technology?’” says one studio assistant.
 
-Yahoo • 48m ago
+Yahoo • 1h ago
 
 ---
 
@@ -157,7 +157,7 @@ Yahoo • 48m ago
 
 There are more than 67,000 open software engineering roles at tech companies, up about 30% so far this year, according to TrueUp data.
 
-Business Insider • 1h ago
+Business Insider • 2h ago
 
 ---
 
@@ -187,7 +187,7 @@ Fortune • 11h ago
 
 The next wave of AI-powered cybersecurity attacks will be like nothing we’ve seen before.
 
-cnn.com • 11h ago
+cnn.com • 12h ago
 
 ---
 
@@ -199,7 +199,7 @@ cnn.com • 11h ago
 
 Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptions. The LLM is already on your Mac.
 
-⬆️ 594 • 💬 136 • 11h ago • [apfel.franzai.com](https://apfel.franzai.com)
+⬆️ 594 • 💬 136 • 12h ago • [apfel.franzai.com](https://apfel.franzai.com)
 
 ---
 
@@ -277,7 +277,7 @@ Here's the AI News you probably missed this week. Try Recraft V4 now and experie
 
 📺 Matt Wolfe
 
-👁️ 20K • 👍 1K • 💬 119 • ⏱️ 31:05 • 5h ago
+👁️ 20K • 👍 1K • 💬 119 • ⏱️ 31:05 • 6h ago
 
 ---
 
@@ -297,7 +297,7 @@ Anthropic is testing Claude Conway, a strange new AI system that looks less like
 
 📺 AI Revolution
 
-👁️ 51K • 👍 896 • 💬 70 • ⏱️ 10:50 • 23h ago
+👁️ 51K • 👍 896 • 💬 70 • ⏱️ 10:50 • 1d ago
 
 ---
 
@@ -307,7 +307,7 @@ Asking ChatGPT about pi was the worst mistake he ever made. Become a member on Y
 
 📺 Mo Bitar
 
-👁️ 59K • 👍 5K • 💬 975 • ⏱️ 6:33 • 8h ago
+👁️ 59K • 👍 5K • 💬 975 • ⏱️ 6:33 • 9h ago
 
 ---
 
@@ -327,7 +327,7 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Sambucha
 
-👁️ 154K • 👍 13K • 💬 208 • ⏱️ 0:53 • 3h ago
+👁️ 154K • 👍 13K • 💬 208 • ⏱️ 0:53 • 4h ago
 
 ---
 
@@ -357,7 +357,7 @@ The results are in! Welcome to the finale of Jay vs AI vs Salesman build challen
 
 📺 JayzTwoCents
 
-👁️ 123K • 👍 8K • 💬 968 • ⏱️ 28:22 • 21h ago
+👁️ 123K • 👍 8K • 💬 968 • ⏱️ 28:22 • 22h ago
 
 ---
 
@@ -367,7 +367,7 @@ AI Decoded explores how artificial intelligence is reshaping the future of work 
 
 📺 BBC News
 
-👁️ 14K • 👍 430 • 💬 97 • ⏱️ 26:12 • 7h ago
+👁️ 14K • 👍 430 • 💬 97 • ⏱️ 26:12 • 8h ago
 
 ---
 
@@ -659,7 +659,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 12.5k • 🔱 1.1k • 56m ago
+⭐ 12.5k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -669,7 +669,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 8.4k • 🔱 1.3k • 4h ago
+⭐ 8.4k • 🔱 1.3k • 5h ago
 
 ---
 
@@ -689,7 +689,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.5k • 🔱 368 • 6h ago
+⭐ 6.5k • 🔱 368 • 7h ago
 
 ---
 

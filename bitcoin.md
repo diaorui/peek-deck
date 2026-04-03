@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-03T20:48:54.090917+00:00'
+updated: '2026-04-03T21:35:00.853041+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 03, 2026 at 20:48 UTC  
+**Last Updated:** April 03, 2026 at 21:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[My favorite part of the ride](https://www.reddit.com/r/Bitcoin/comments/1sbes4i/my_favorite_part_of_the_ride/)**
 
-6h ago
+7h ago
 
 ---
 
 **[We’re seeing that at the sovereign level,we’re seeing that across Wall Street and the retail investor outside the US continues to allocate.](https://www.reddit.com/r/Bitcoin/comments/1sbh9v5/were_seeing_that_at_the_sovereign_levelwere/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 With an increasing number of discussions around the BIP54 “Consensus Cleanup” soft fork proposal, I helped put together an information site about BIP54. “Bitcoin has four known vulnerabilities that have gone unfixed for 15 years. BIP54, "Consensus Cleanup", proposes four narrowly-scoped changes to address these issues in Bitcoin's consensus rules that date back to the original version of Bitcoin in 2009.” https://bip54.org/
 
-🔗 [bip54.org](https://bip54.org/) • 6h ago
+🔗 [bip54.org](https://bip54.org/) • 7h ago
 
 ---
 
@@ -101,7 +101,7 @@ With an increasing number of discussions around the BIP54 “Consensus Cleanup�
 
 Watching the price drop from $126K in October to the low $60s in February was both educational and frustrating. So I turned that energy into a research sprint: I built the Bitcoin Power Law Observatory, published 13 research papers, and created a suite of retirement planning tools. The result? I think I found Bitcoin's version of the 4% rule. And the math is almost absurd. The logic chain People need to save for the future. The best savings technology is the hardest money. Bitcoin is the hardest money ever created. Therefore people will save in bitcoin. Not everyone knows this yet. Old habits die hard. The power law (Santostasi, expanded by Krueger and Sigman in "Bitcoin One Million") is the best model for how this adoption unfolds. The core relationship: every time bitcoin ages 1.5x, the price goes roughly 10x. Not hype cycles. Compounding network adoption following the same laws we see in city growth, earthquake magnitude, and species evolution. The floor is the breakthrough The power law model shows a trend line with a corridor of possibilities around it. The ceiling is compressing: early cycles hit 10x trend, recent ones barely 2x. But the floor has never been breached. Since 2010, the lower boundary at about 0.43x the trend value has held through every crash, every panic, every obituary. It held when bitcoin crashed from 10x the trend. From 5x. From 3x. With upside volatility structurally compressing, the floor only gets stronger coming down from 2x or less. What does this floor look like in dollar terms? March 2026: $56,400. March 2027: $77,700. March 2028: $105,300. March 2029: $140,500. March 2030: $184,800. The floor value of 1 bitcoin will grow more than $21,000 over the next 12 months. And that dollar growth accelerates every year. That floor growth is your yield. Not interest. Not dividends. Structural adoption growth baked into the math. And it changes everything about retirement planning. The Bitcoin 4% rule The traditional 4% rule says you can withdraw 4% from an S&P portfolio annually without running out. The 4% buffer exists to handle sequence of returns risk: bad early years can permanently damage a retirement. Bitcoin needs a different system. Higher returns but far more volatility. A decelerating growth rate that demands dynamic withdrawals, not fixed percentages. So I based my framework on floor growth alone: If your stack x floor growth > your yearly expenses = financial freedom. This is the most conservative number the model produces. Bitcoin spends only a tiny fraction of its time near the floor. Everything above it is pure upside cushion. The math The floor currently grows at roughly 39% per year (this rate slowly decelerates over decades). At today's price of about $67,000, 5 BTC costs $335,000. Annual floor growth on 5 BTC: approximately $110,000. Under the traditional 4% rule, $100,000/year requires a $2,500,000 S&P portfolio. Same spending power. $335,000 versus $2,500,000. Over 7x more capital efficient. Using the worst case path the power law produces. Three tailwinds Once you cross the floor freedom line, three forces compound in your favor. Volatility decays: the price corridor compresses roughly 20% each halving cycle, so the "storm years" at the start of retirement expire. The floor keeps rising: your safety net grows every day. And your BTC-denominated expenses shrink: you need fewer sats each year to cover the same dollar amount. The risk is front-loaded and finite. I built a Monte Carlo simulator with 100,000 simulations based on 15 years of historical volatility data. The result: the floor-based approach survives the storm years and the margin of safety widens every year you hold. With 20 BTC, survival is 100% across all simulations at $3,000/month withdrawals. Even at 10 BTC, it is 72%. The three tailwinds working together make this more robust than the traditional 4% rule, which has a roughly 95% historical success rate over 30 years. The honest caveats The power law could break. 15 years is not 150 years. The floor growth rate decelerates over time. Black swan events outside model bounds are possible. This framework only works if the power law holds. Nothing is ever 100%. But consider this: bitcoin is currently trading at 1.19x the floor. Just 19% above the worst case. Historically that is an extremely cheap entry. Most of the time bitcoin sits at 2-3x the floor. The premium you pay today is recovered through less than one year of floor growth. Bottom line If you can buy 5 BTC today, you are building the functional equivalent of a $2.5 million traditional retirement portfolio. At a fraction of the cost. Backed not by a fixed percentage rule, but by the structural growth of the most robust boundary in the most predictive model in finance. And right now, bitcoin is trading at just 19% above that floor. The setup is almost too clean. The tools to verify all of this yourself are free. btcpowerlaw.nl for the research. satsplanner.app for the retirement calculator. What would you do with a $2.5 million portfolio?
 
-16h ago
+17h ago
 
 ---
 
@@ -109,7 +109,7 @@ Watching the price drop from $126K in October to the low $60s in February was bo
 
 I live in Offenburg Germany at the french boarder. I want to buy Crypto wihout KYC in Person with Cash in France or Germany but around my City. Any Ideas?
 
-1h ago
+2h ago
 
 ---
 
@@ -117,7 +117,7 @@ I live in Offenburg Germany at the french boarder. I want to buy Crypto wihout K
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/42vHnf3cikE) • 6h ago
+🔗 [youtu.be](https://youtu.be/42vHnf3cikE) • 7h ago
 
 ---
 
@@ -125,7 +125,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/MWz1jUU5HOw?si=LCio8gsCvoW52OwN) • 8h ago
+🔗 [youtu.be](https://youtu.be/MWz1jUU5HOw?si=LCio8gsCvoW52OwN) • 9h ago
 
 ---
 
@@ -133,7 +133,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-14h ago
+15h ago
 
 ---
 
@@ -141,7 +141,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 A group of Bitcoin developers will do a demo of some slow blocks on the Signet test network on Wednesday. Anyone running a Signet node can participate. Come and see for yourself how long it took for your own hardware to hear about the slow block and validate them! If you don't run a Signet node already, syncing one should be pretty straightforward. It should use about 30GiB of storage, and you can run `-prune` if even that is too much. More details about this demo are available on the Delving Bitcoin thread. If you have questions about this, feel free to shoot in the comments. I'm the one crafting the blocks, and i'll be monitoring this thread till Wednesday to help people participate in the demo.
 
-3h ago
+4h ago
 
 ---
 
@@ -149,7 +149,7 @@ A group of Bitcoin developers will do a demo of some slow blocks on the Signet t
 
 Hi so i made a recent post talking about how i dont want to get fucked by the ATO. ive never reported (crypto gains/converts) to the government and especially not familiar how it is with the ATO since im from Denmark. i asked Chatgpt "where can i track my crypto and then report and send everything in one go?". it said a service like Koinly or Cointraciking. Right now im receiving on coinbase. but i do plan on switching to Receiving on "COCA" only as it gives nice cashback bonus of 6%. Quick side note: is there a better place to store crypto, bonus wise etc? but Yeah im confused. i could technically just look at the crypto i sold, but how will i be able to know how much it rose with from the date of purchase? man i cant see how that gonna be possible
 
-12h ago
+13h ago
 
 ---
 
@@ -167,7 +167,7 @@ Riot Platforms • 1d ago
 
 Other major bitcoin miners have been selling their bitcoin holdings to fund their transition to focus on AI.
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
@@ -183,7 +183,7 @@ TradingView • 7h ago
 
 The bank predicts new risks.
 
-thestreet.com • 18h ago
+thestreet.com • 19h ago
 
 ---
 
@@ -191,7 +191,7 @@ thestreet.com • 18h ago
 
 It has been nearly six months since the flash crypto crash on Oct. 10 last year that wiped out millions of dollars in a single day. Bitcoin (BTC) had hit the all-time high (ATH) of $126,080 only a few days earlier on Oct. 6, but currently, it is trading 47% lower at $66,600.67. However, ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -199,7 +199,7 @@ Yahoo Finance • 2h ago
 
 In the latest interview with Cointelegraph, macro investor and former hedge fund manager James Lavish issued a stark warning to Bitcoin holders and global investors: markets may be pricing in a quick resolution to the Iran conflict — but if that assumption proves wrong, the consequences could be se…
 
-TradingView • 1h ago
+TradingView • 2h ago
 
 ---
 
@@ -207,13 +207,13 @@ TradingView • 1h ago
 
 The financial services giant with almost $12 trillion in client assets is moving closer to direct crypto trading, offering subscription for early access to the Schwab Crypto account.
 
-coindesk.com • 1h ago
+coindesk.com • 2h ago
 
 ---
 
 **[Stock futures and bitcoin slip, Treasury yields climb, as hot jobs report raises more questions about Fed rate cuts](https://www.marketwatch.com/story/stock-futures-and-bitcoin-slip-treasury-yields-climb-as-hot-jobs-report-raises-more-questions-about-fed-rate-cuts-921ff82f?gaa_at=eafs&gaa_n=AWEtsqdiiOK7rZpKR_M-mmNQ9axoGGpQbppunmWpNe_lEZ8wVw8TYFHDilH1&gaa_ts=69d02b1d&gaa_sig=9D49bmPNmGnER3sZs8ou28LQcGtXEa7rq88rErkdmsczwhPfyTc_vcdGvdfVOep1hmfBv1NZddViBH4uGoqQqw%3D%3D)**
 
-MarketWatch • 7h ago
+MarketWatch • 8h ago
 
 ---
 
@@ -225,7 +225,7 @@ Forbes • 1d ago
 
 **[Man tried to ransom former employer out of $750,000 in Bitcoin after launching a cyber attack, feds say](https://www.nj.com/news/2026/04/man-tried-to-ransom-former-employer-out-of-750000-in-bitcoin-after-launching-a-cyber-attack-feds-say.html)**
 
-NJ.com • 22h ago
+NJ.com • 23h ago
 
 ---
 
@@ -237,7 +237,7 @@ NJ.com • 22h ago
 
 Google Quantum AI: Quantum computer could break Bitcoin cryptography with under 500,000 qubits in nine minutes. This will likely only be possible in the 2030s.
 
-⬆️ 11 • 💬 2 • 2h ago • [heise online](https://www.heise.de/en/news/Quantum-computer-researchers-Bitcoin-encryption-breakable-in-a-few-years-11244911.html)
+⬆️ 11 • 💬 2 • 3h ago • [heise online](https://www.heise.de/en/news/Quantum-computer-researchers-Bitcoin-encryption-breakable-in-a-few-years-11244911.html)
 
 ---
 
@@ -261,13 +261,13 @@ Bitcoin needs to fix this in the next three years.
 
 April 03, 2026 - A new $100 million bond deal reveals exactly how traditional finance values BTC as collateral. The numbers are sobering, and the
 
-⬆️ 4 • 💬 2 • 4h ago • [Bitcoin, Altcoins, Crypto News & Financial Market News](https://catenaa.com/markets/cryptocurrencies/moodys-bitcoin-collateral-haircut/)
+⬆️ 4 • 💬 2 • 5h ago • [Bitcoin, Altcoins, Crypto News & Financial Market News](https://catenaa.com/markets/cryptocurrencies/moodys-bitcoin-collateral-haircut/)
 
 ---
 
 **[Strive, Tuttle File Leveraged Bitcoin ETF](https://news.ycombinator.com/item?id=47621293)**
 
-⬆️ 4 • 💬 0 • 21h ago • [catenaa.com](https://catenaa.com/markets/cryptocurrencies/strive-tuttle-file-leveraged-etf-tied-to-bitcoin-preferreds/)
+⬆️ 4 • 💬 0 • 22h ago • [catenaa.com](https://catenaa.com/markets/cryptocurrencies/strive-tuttle-file-leveraged-etf-tied-to-bitcoin-preferreds/)
 
 ---
 
@@ -355,7 +355,7 @@ Trump speaks… and markets crash again! Bitcoin fell to $66K, and in just 25 mi
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 161 • ⏱️ 36:07 • 20h ago
+👁️ 16K • 👍 1K • 💬 161 • ⏱️ 36:07 • 21h ago
 
 ---
 
@@ -385,7 +385,7 @@ April will be a big month for crypto - ACT NOW! WEEX Poker Party is LIVE: https:
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 213 • ⏱️ 9:31 • 22h ago
+👁️ 36K • 👍 2K • 💬 213 • ⏱️ 9:31 • 23h ago
 
 ---
 

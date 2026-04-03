@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-03T20:48:54.100006+00:00'
+updated: '2026-04-03T21:35:00.861952+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 03, 2026 at 20:48 UTC  
+**Last Updated:** April 03, 2026 at 21:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Appreciate all the feedback and love on the recent videos, here's another clip of the dev process worth sharing. This one starts with an ugly moment, the right leg clips the edge and stumbles on a stair jump. Took a few days to track down the real issue. Turned out to be a mechanical transmission resistance in the hip joint, not a bug in the code. After the fix, clean landing. We're at around stable 30cm (~12")now. Sim does 40 or even higher, but 30 clears real stairs and that's what matters. (Getting to 30 in real life was harder than it sounds) Basic locomotion is getting solid, so next step: giving this little guy some eyes and ears, maybe. Legs first, then brains. sim2real is always humbling!
 
-8h ago
+9h ago
 
 ---
 
 **[Humanoid robots undergoing training](https://www.reddit.com/r/robotics/comments/1sbj504/humanoid_robots_undergoing_training/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -50,7 +50,7 @@ Appreciate all the feedback and love on the recent videos, here's another clip o
 
 If human demonstration data proves to be the underlying factor that determines scaling laws in general-purpose robotics, the infrastructure that captures that data will determine how fast we get there. Despite all the research novelty in ChatGPT, its success at its core can be attributed to one foundational fact - the scaling law of transformers. Have transformers made their way into robotics and are we seeing similar scaling laws? The answer is yes. Recent studies showed task completion rates jumping from 30% to 70% when human demonstration data scaled from 1,000 to 20,000 hours — a log-linear trend that mirrors exactly what we saw in language and vision. Labs are racing to train generalist policies - a robot brain that can solve any task under any embodiment. But the library of physical interactions required to train these policies doesn’t exist yet. Solving this data bottleneck is one of the most important problems for the next few years. We’ve seen dozens of companies emerge in this space and noticed the same pattern repeat: every egocentric data company makes tradeoffs between quality, scale, and diversity. I have been working at FPV Labs on the principle that high-quality data is orders of magnitude more valuable than sheer volume. Self-driving cars collect thousands of hours per day, but only a small fraction is useful for training. Studies like RT-2 showed that as little as 1% of data improves task success by 25%. There’s clearly a power law in the downstream impact of data. We spent months obsessing over data quality - building our stack, discarding it, rebuilding it, and iterating until we found a formula that doesn’t compromise quality at scale and laying the infrastructure rails as we embark into this future. We are excited to be building what we think of is the infra layer for the internet archive of data for our robotic companions of the future. Happy to answer questions about our hardware, data methodology, or what we’ve learned so far. fpvlabs.ai
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ i need y'all to give me suggestions for the battery part im having two 6v n20 60
 
 Most people think building a robot is about hardware. It’s not. The real problem is the brain. I’ve been spending time working on neural networks for robotics things like vision, movement control, and terrain understanding. Trying to make them actually usable in real systems, not just something that works in theory. Recently I put together a Fiverr gig around this mainly to start getting real projects and push myself further. If you’re curious how I approach it, you can check it out here Fiverr username : prageeth_ma I’m still growing this, so even just clicking the link helps more than you think. If you're building something or even thinking about it, I’d honestly like to hear about it. robotics #machinelearning #artificialintelligence #engineering #fiverr
 
-1m ago
+47m ago
 
 ---
 
@@ -128,7 +128,7 @@ MIT Technology Review • 2d ago
 
 **[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqeJ1KCTKKoENLXI4knpB4exiOwPRMgp5vMiUM2zoMCwP6REh43D8YY0&gaa_ts=69d02b22&gaa_sig=RfWAw2E4Imgy2dYQX_xSNpWt2ue1jm8DJmOoS5d2gew68HOF0qYh8rsZtnrc2gF_-XoW80CCS4CpNGzhVwCYhg%3D%3D)**
 
-WSJ • 17h ago
+WSJ • 18h ago
 
 ---
 
@@ -144,7 +144,7 @@ IEEE Spectrum • 1d ago
 
 The podcast's guest this week is Chris Matthieu, VP of Developer Ecosystem for RealSense, looking to the future of 3D vision.
 
-The Robot Report • 50m ago
+The Robot Report • 1h ago
 
 ---
 
@@ -234,7 +234,7 @@ Imagine being trapped in a flood. A massive metal robot arrives to help... but i
 
 📺 BrainyFry
 
-👁️ 1K • 👍 23 • 💬 1 • ⏱️ 1:01 • 9h ago
+👁️ 1K • 👍 23 • 💬 1 • ⏱️ 1:01 • 10h ago
 
 ---
 
