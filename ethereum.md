@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-02T23:44:13.609123+00:00'
+updated: '2026-04-03T02:29:02.899615+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
+- news
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 02, 2026 at 23:44 UTC  
+**Last Updated:** April 03, 2026 at 02:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,057.86
+### $2,059.73
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.7%  
-**7d:** +3.4%  
-**30d:** -3.2%  
-**90d:** -34.2%  
-**1y:** +13.3%  
+**24h:** -0.1%  
+**7d:** +3.0%  
+**30d:** -0.9%  
+**90d:** -34.9%  
+**1y:** +13.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $248.09B
+**Market Cap:** $248.02B
 Rank #2
 
-**Circulating Supply:** 120,691,323 ETH
+**Circulating Supply:** 120,691,290 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.4%
+-58.5%
 
 **All-Time Low:** $0.43
-+474726.7%
++474174.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+21h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We recently recorded a PEEPanEIP session on EIP-7904, joined by Jacek Sieka and Maria Inês Oliveira. The conversation covers: Motivation behind the proposal Key design considerations Potential impact on the Ethereum ecosystem Open questions and areas for feedback The goal of PEEPanEIP is to make EIPs more accessible and easier to follow for the broader community - especially for those who may not be deep in the specs but want to stay informed. 🎥 Watch the full video https://youtu.be/CswFnsZTXmI Would love to hear thoughts from others following EIP-7904 or working in similar areas - feedback and perspectives welcome.
 
-8h ago
+10h ago
 
 ---
 
@@ -88,25 +88,25 @@ We recently recorded a PEEPanEIP session on EIP-7904, joined by Jacek Sieka and 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/live/aco5-l_bpOo?si=IZEg8wYNkTUOiGA_) • 12h ago
+🔗 [youtube.com](https://www.youtube.com/live/aco5-l_bpOo?si=IZEg8wYNkTUOiGA_) • 14h ago
 
 ---
 
 **[A Prediction Market Bounty Mechanism - Using Markets as Self-Funding Bounties for High-Value Sales](https://www.reddit.com/r/ethereum/comments/1sarhn7/a_prediction_market_bounty_mechanism_using/)**
 
-🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2039788146133495879) • 4h ago
+🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2039788146133495879) • 6h ago
 
 ---
 
 **[New Partnership: Nodle x PARAGON ID](https://www.reddit.com/r/ethereum/comments/1sall1a/new_partnership_nodle_x_paragon_id/)**
 
-7h ago
+10h ago
 
 ---
 
 **[AI, bots & algorithms](https://www.reddit.com/r/ethereum/comments/1saiwdj/ai_bots_algorithms/)**
 
-9h ago
+12h ago
 
 ---
 
@@ -146,25 +146,25 @@ Hello everyone! I've built a tool to help recover ETH stuck in old smart contrac
 
 ## Google News: "ethereum"
 
+**[Naoris Launches Post-Quantum Blockchain as Bitcoin, Ethereum Devs Scramble to Face Threat](https://decrypt.co/363207/naoris-launches-post-quantum-blockchain-bitcoin-ethereum)**
+
+Naoris Protocol says its blockchain network uses quantum-resistant cryptography, as the wider crypto industry prepares for future threats.
+
+Decrypt • 3h ago
+
+---
+
+**[Google warns five quantum attack paths could put $100 billion on Ethereum at risk](https://www.coindesk.com/tech/2026/03/31/google-warns-five-quantum-attack-paths-could-put-usd100-billion-on-ethereum-at-risk)**
+
+A 57-page whitepaper identifies how future quantum computers could target Ethereum's wallets, smart contracts, staking system, Layer 2 networks and data verification layer, with combined exposure exceeding $100 billion.
+
+coindesk.com • 2d ago
+
+---
+
 **[Google Warns Quantum Computers Could Break Bitcoin and Ethereum in 9 Minutes — Should You Be Worried?](https://www.ccn.com/education/crypto/google-quantum-computers-break-bitcoin-ethereum-9-minutes-1-7m-btc-risk/)**
 
 CCN.com • 2d ago
-
----
-
-**[Tether's USAT Stablecoin Expands Beyond Ethereum Mainnet to Celo](https://decrypt.co/362941/tethers-usat-stablecoin-expands-ethereum-mainnet-celo)**
-
-The Tether-backed USAT stablecoin built for the U.S. market is expanding to Ethereum layer-2 network Celo with help from Google Cloud.
-
-Decrypt • 2d ago
-
----
-
-**[Ethereum Absorbs $1B In An Hour As Trump Signals Escalation](https://www.tradingview.com/news/newsbtc:398431f38094b:0-ethereum-absorbs-1b-in-an-hour-as-trump-signals-escalation/)**
-
-Ethereum is fighting to hold $2,000. The market is volatile. And the reason has nothing to do with on-chain data, exchange flows, or technical levels — it has to do with what Donald Trump said yesterday.Analyst Darkfost has placed the current Ethereum price action in its proper context: this is a g…
-
-TradingView • 2h ago
 
 ---
 
@@ -172,27 +172,35 @@ TradingView • 2h ago
 
 Bitcoin and ethereum lose ground after Trump addresses nation in a prime-time address with mixed messages about Iran war.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 14h ago
 
 ---
 
-**[ETH, Canton, AVAX, Chainlink news: Grayscale research head lays out bets on $19T tokenization wave](https://www.coindesk.com/markets/2026/04/01/grayscale-s-research-head-says-tokenization-will-happen-in-waves-and-explains-how-to-play-it)**
+**[Ethereum Price Crash Update: Analyst Forecasts Fall To $600 If This Happens](https://www.tradingview.com/news/newsbtc:717f71d18094b:0-ethereum-price-crash-update-analyst-forecasts-fall-to-600-if-this-happens/)**
 
-Investors looking to bet on tokenization should think in phases, with institution-friendly networks like Canton likely winning first and Avalanche, Ethereum capturing more upside later, Grayscale's Zach Pandl said.
+Ethereum is currently trading above $2,100 at the start of the new month, but one analyst believes the asset’s next major directional move is based on a single price level: one that, if broken, would invalidate years of macro analysis and cause a price collapse to as low as $900.The Count That Has…
 
-CoinDesk • 1d ago
-
----
-
-**[Most large cryptocurrencies fall on Solana, Ethereum drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-solana-ethereum-drops-06702da9-e670e788b6b1?gaa_at=eafs&gaa_n=AWEtsqdkuDLU8BQoP-O2ypKuipnSatfDeIQGkXw7xQ7NJ7JgvQksiqcH4shO&gaa_ts=69cef81e&gaa_sig=Dj9AG_JXf27QLf9b8Jqzlcc-t5BO2i8bU9FxyJm-0Rkqw-5rZGWk3oA703zIoDDSmCVqq7fc59cwyIUcfiHrvw%3D%3D)**
-
-MarketWatch • 9h ago
+TradingView • 1d ago
 
 ---
 
 **[Global X Launches Ethereum Covered Call ETF Targeting Weekly Distributions](https://www.morningstar.com/news/pr-newswire/20260402ny25001/global-x-launches-ethereum-covered-call-etf-targeting-weekly-distributions)**
 
-Morningstar • 10h ago
+Morningstar • 12h ago
+
+---
+
+**[Most large cryptocurrencies fall on Solana, Ethereum drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-solana-ethereum-drops-06702da9-e670e788b6b1?gaa_at=eafs&gaa_n=AWEtsqfX-z5Wa27w0wWGO7iEfHGKD-FnA394s2x5XjJ0oviDvmSDBNIl4ZYC&gaa_ts=69cf2957&gaa_sig=yoIeFBoN-55fTG68-p9w2uICkQiS9edytutnEL_CJ0UZHnxvcNP6Ux1YHsWC74fNgyCSs1F_egxtC70yjo3Fkg%3D%3D)**
+
+MarketWatch • 12h ago
+
+---
+
+**[Current price of Ethereum for April 2, 2026](https://fortune.com/article/price-of-ethereum-04-02-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 11h ago
 
 ---
 
@@ -204,19 +212,9 @@ africa.businessinsider.com • 2d ago
 
 ---
 
-**[Current price of Ethereum for April 2, 2026](https://fortune.com/article/price-of-ethereum-04-02-2026/)**
+**[Ethereum Price Prediction Targets $10,000 While A New Crypto Is Following Shiba Inu Success](https://financefeeds.com/ethereum-price-prediction-targets-10000-while-a-new-crypto-is-following-shiba-inu-success/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 8h ago
-
----
-
-**[Aave V4 launches on Ethereum mainnet with 'hub-and-spoke' architecture](https://www.theblock.co/post/395617/aave-v4-launches-ethereum-mainnet)**
-
-Aave V4 features a hub-and-spoke architecture that concentrates liquidity to supply a wider range of markets and use cases with credit lines.
-
-The Block • 3d ago
+financefeeds.com • 19h ago
 
 ---
 
@@ -230,7 +228,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEE
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 263 • ⏱️ 10:45 • 1d ago
+👁️ 37K • 👍 2K • 💬 266 • ⏱️ 10:45 • 1d ago
 
 ---
 
@@ -240,7 +238,37 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 90 • 💬 2 • ⏱️ 5:43 • 9h ago
+👁️ 1K • 👍 93 • 💬 2 • ⏱️ 5:43 • 12h ago
+
+---
+
+**[BITCOIN WARNING: Everyone is WRONG About This!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=fuInAy1qrPg)**
+
+BITCOIN WARNING: Everyone is WRONG About This!!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 86 • 💬 75 • ⏱️ 20:12 • 3h ago
+
+---
+
+**[Ethereum Pumped 23% Last Time... But Waiting For THIS Signal Could Yield FAR MORE!](https://www.youtube.com/watch?v=KQC7G3k41ZY)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 420 • 👍 13 • 💬 6 • ⏱️ 6:16 • 1d ago
+
+---
+
+**[BITCOIN AND ETHEREUM: BIG ALERT!!! 🚨🚨 (Iran invasion, Drift, Solana, Altcoins)](https://www.youtube.com/watch?v=tYoARHFq67c)**
+
+GET THE BOOK: https://bullmania.com/book FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, ...
+
+📺 Ivan on Tech
+
+👁️ 17K • 👍 1K • 💬 73 • ⏱️ 56:09 • 17h ago
 
 ---
 
@@ -254,63 +282,13 @@ This year's EthCC event in Cannes has fielded its first major announcement: the 
 
 ---
 
-**[BITCOIN WARNING: Everyone is WRONG About This!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=fuInAy1qrPg)**
-
-BITCOIN WARNING: Everyone is WRONG About This!!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 769 • 👍 73 • 💬 87 • ⏱️ 20:12 • 1h ago
-
----
-
 **[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=6jEeJT0vai0)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 61 • 💬 5 • ⏱️ 4:53 • 22h ago
-
----
-
-**[Ethereum Pumped 23% Last Time... But Waiting For THIS Signal Could Yield FAR MORE!](https://www.youtube.com/watch?v=KQC7G3k41ZY)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 413 • 👍 13 • 💬 6 • ⏱️ 6:16 • 1d ago
-
----
-
-**[BITCOIN AND ETHEREUM: BIG ALERT!!! 🚨🚨 (Iran invasion, Drift, Solana, Altcoins)](https://www.youtube.com/watch?v=tYoARHFq67c)**
-
-GET THE BOOK: https://bullmania.com/book FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, ...
-
-📺 Ivan on Tech
-
-👁️ 17K • 👍 1K • 💬 72 • ⏱️ 56:09 • 14h ago
-
----
-
-**[Ethereum &amp; Cardano: Not Yet](https://www.youtube.com/watch?v=1S1XnTwJ2Q8)**
-
-Hang in there everyone! The risk models that say when to accumulate or exit HERE. Free trial ...
-
-📺 Dan Gambardello
-
-👁️ 10K • 👍 622 • 💬 203 • ⏱️ 13:49 • 2d ago
-
----
-
-**[ETHEREUM, THE FED, AND BITCOIN —(THIS CHANGES EVERYTHING)](https://www.youtube.com/watch?v=69b-uYwAlpY)**
-
-Crypto looks calm… but underneath, everything is moving. The Ethereum Foundation just deployed $46M into staking, shifting ...
-
-📺 CLOCKWISE CRYPTO 
-
-👁️ 13K • 👍 479 • 💬 75 • ⏱️ 9:26 • 2d ago
+👁️ 1K • 👍 61 • 💬 5 • ⏱️ 4:53 • 1d ago
 
 ---
 
@@ -320,7 +298,27 @@ Tangem Cold Storage Crypto Wallet https://geni.us/rpmtangem use code RPM for 10%
 
 📺 Red Panda Mining
 
-👁️ 8K • 👍 689 • 💬 190 • ⏱️ 9:11 • 1d ago
+👁️ 8K • 👍 686 • 💬 141 • ⏱️ 9:11 • 1d ago
+
+---
+
+**[BlackRock &amp; JP Morgan are Building on Ethereum—Here’s Why](https://www.youtube.com/watch?v=8KiltqYa2Xg)**
+
+BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Join the Inner Circle for exclusive ...
+
+📺 Lark Davis
+
+👁️ 5K • 👍 112 • 💬 5 • ⏱️ 0:47 • 2d ago
+
+---
+
+**[BMNR | Ethereum DCA Strategy and Market Update](https://www.youtube.com/watch?v=mkxj4eIgpDU)**
+
+BMNR is continuing to build one of the largest Ethereum treasuries in the world now holding over 4.7 million ETH and a $10.7B ...
+
+📺 The Value Thinker
+
+👁️ 8K • 👍 507 • 💬 55 • ⏱️ 20:46 • 2d ago
 
 ---
 
