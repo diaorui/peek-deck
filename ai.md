@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-03T16:02:50.088997+00:00'
+updated: '2026-04-03T17:04:16.097475+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- repositories
 - social
+- videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 03, 2026 at 16:02 UTC  
+**Last Updated:** April 03, 2026 at 17:04 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,33 +39,7 @@ AI news, discussions, and developments
 
 **[MIT study challenges AI job apocalypse narrative](https://www.reddit.com/r/artificial/comments/1sb7qxc/mit_study_challenges_ai_job_apocalypse_narrative/)**
 
-🔗 [axios.com](https://www.axios.com/2026/04/02/ai-jobs-mit-study-workforce-impact) • 7h ago
-
----
-
-**[Machina Mirabilis: An experiment to see if an LLM trained from scratch on text prior to 1900 can come up with quantum mechanics and relativity.](https://www.reddit.com/r/artificial/comments/1sbg7th/machina_mirabilis_an_experiment_to_see_if_an_llm/)**
-
-🔗 [michaelhla.com](https://michaelhla.com/blog/machina-mirabilis.html) • 52m ago
-
----
-
-**[Google releases Gemma 4 models.](https://www.reddit.com/r/artificial/comments/1sapfpu/google_releases_gemma_4_models/)**
-
-21h ago
-
----
-
-**[Microsoft to invest $10 billion in Japan for AI and cyber defence expansion](https://www.reddit.com/r/artificial/comments/1sb65un/microsoft_to_invest_10_billion_in_japan_for_ai/)**
-
-🔗 [reuters.com](https://www.reuters.com/business/media-telecom/microsoft-invest-10-billion-japan-ai-cyber-defence-expansion-2026-04-03/) • 9h ago
-
----
-
-**[Daily AI News Roundup (Apr 3): OpenAI buys a talk show, Google drops Gemma 4 under Apache 2.0, Claude Code source leaked, Axios npm compromised](https://www.reddit.com/r/artificial/comments/1sbheyi/daily_ai_news_roundup_apr_3_openai_buys_a_talk/)**
-
-Big moves OpenAI acquired TBPN, the founder-led tech/business talk show. Unusual media play — covered by TechCrunch, Ars Technica, and WSJ. Google released Gemma 4 under Apache 2.0. The license shift from their previous terms may matter more than the benchmarks. Direct shot at Chinese open-weights models. Microsoft unveiled three homegrown AI models for speech and image generation — clearly reducing dependence on OpenAI. Security Claude Code source code leaked, triggering enterprise security concerns. VentureBeat published a 5-action checklist for security teams. Axios npm package was trojanized in a supply-chain attack. If your team uses it (most do), worth checking immediately. Granola notes are viewable by anyone with a link by default. PSA if you use it. Product & research Google added Veo, Lyria, and directable AI avatars to Google Vids. Arcee launched Trinity-Large-Thinking — open source, U.S.-made, downloadable enterprise model. AI chatbots are now being used to prescribe/refill psychiatric medications (The Verge). Funding Miravoice raised $6.3M (AI phone survey interviewer) Anvil Robotics raised $5.5M ("Legos for Robots" platform) Full page with sources and links: aibrief.fyi
-
-8m ago
+🔗 [axios.com](https://www.axios.com/2026/04/02/ai-jobs-mit-study-workforce-impact) • 8h ago
 
 ---
 
@@ -73,7 +47,35 @@ Big moves OpenAI acquired TBPN, the founder-led tech/business talk show. Unusual
 
 I’ve been digging into AI security incident data from 2025 into this year, and it feels like something isn’t being talked about enough outside security circles. A lot of the issues aren’t advanced attacks. It’s the same pattern we’ve seen with new tech before. Things like prompt injection through external data, agents with too many permissions, or employees using AI tools the company doesn’t even know about. One stat I saw said enterprises are averaging 300+ unsanctioned AI apps, which is kind of wild. The incident data reflects that. Prompt injection is showing up in a large percentage of production deployments. There’s also been a noticeable increase in attacks exploiting basic gaps, partly because AI is making it easier for attackers to find weaknesses faster. Even credential leaks tied to AI usage have been increasing. What stood out to me isn’t just the attacks, it’s the gap underneath it. Only a small portion of companies actually have dedicated AI security teams. In many cases, AI security isn’t even owned by security teams. The tricky part is that traditional security knowledge only gets you part of the way. Some concepts carry over, like input validation or trust boundaries, but the details are different enough that your usual instincts don’t fully apply. Prompt injection isn’t the same as SQL injection. Agent permissions don’t behave like typical API auth. There are frameworks trying to catch up. OWASP now has lists for LLMs and agent-based systems. MITRE ATLAS maps AI-specific attack techniques. NIST has an AI risk framework. The guidance exists, but the number of people who can actually apply it feels limited. I’ve been trying to build that knowledge myself and found that more hands-on learning helps a lot more than just reading docs. Curious how others here are approaching this. If you’re building or working with AI systems, are you thinking about security upfront or mostly dealing with it after things are already live? Sources for those interested: AI Agent Security 2026 Report IBM 2026 X-Force Threat Index Adversa AI Security Incidents Report 2025 Acuvity State of AI Security 2025 OWASP Top 10 for LLM Applications OWASP Top 10 for Agentic AI MITRE ATLAS Framework
 
-27m ago
+1h ago
+
+---
+
+**[Google releases Gemma 4 models.](https://www.reddit.com/r/artificial/comments/1sapfpu/google_releases_gemma_4_models/)**
+
+22h ago
+
+---
+
+**[Microsoft to invest $10 billion in Japan for AI and cyber defence expansion](https://www.reddit.com/r/artificial/comments/1sb65un/microsoft_to_invest_10_billion_in_japan_for_ai/)**
+
+🔗 [reuters.com](https://www.reuters.com/business/media-telecom/microsoft-invest-10-billion-japan-ai-cyber-defence-expansion-2026-04-03/) • 10h ago
+
+---
+
+**[Oracle slashes 30k jobs, Slop is not necessarily the future, Coding agents could make free software matter again and many other AI links from Hacker News](https://www.reddit.com/r/artificial/comments/1sbj1tx/oracle_slashes_30k_jobs_slop_is_not_necessarily/)**
+
+Hey everyone, I just sent the 26th issue of AI Hacker Newsletter, a weekly roundup of the best AI links and discussions around from Hacker News. Here are some of the links: Coding agents could make free software matter again - comments AI got the blame for the Iran school bombing. The truth is more worrying - comments Slop is not necessarily the future - comments Oracle slashes 30k jobs - comments OpenAI closes funding round at an $852B valuation - comments If you enjoy such links, I send over 30 every week. You can subscribe here: https://hackernewsai.com/
+
+9m ago
+
+---
+
+**[Why the Reddit Hate of AI?](https://www.reddit.com/r/artificial/comments/1sbgpbf/why_the_reddit_hate_of_ai/)**
+
+I just went through a project where a builder wanted to build a really large building on a small lot next door. The project needed 6 variances from the ZBA. I used ChatGpt and then transitioned to Claude. Essentially I researched zoning laws, variance rules, and deeds. I even uploaded plot plans and engineering designs. In the end I gave my lawyer essentially a complete set of objections for the ZBA hearings and I was able to get all the objections on the record. We won. (Neighborhood support, plus all my research, plus the lawyer) When I described this on another sub, 6-8 downvotes right away. Meanwhile, my lawyer told me I could do this kind of work for money or I could volunteer for the ZBA. (No thanks, I’m near retirement) The tools greatly magnified my understanding and my ability to argue against the builder. (And I caution anyone who uses it to watch out for “unconditional positive regard” (or as my wife says, sycophancy:-). Also to double check everything, ask it to explain terms you don’t understand. Point out inconsistency. In other words, take everything with a grain of salt…
+
+1h ago
 
 ---
 
@@ -81,7 +83,7 @@ I’ve been digging into AI security incident data from 2025 into this year, and
 
 Microsoft today announced their newest open-source (MIT-licensed) software project.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Microsoft-AI-Agent-Governance) • 4h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Microsoft-AI-Agent-Governance) • 5h ago
 
 ---
 
@@ -89,23 +91,23 @@ Microsoft today announced their newest open-source (MIT-licensed) software proje
 
 The model is also available here: 🤗 HuggingFace: https://huggingface.co/collections/google/gemma-4 🦙 Ollama: https://ollama.com/library/gemma4
 
-🔗 [Google](https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/) • 22h ago
+🔗 [Google](https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/) • 23h ago
 
 ---
 
-**[I stopped using Claude like a chatbot — 7 prompt shifts that reclaimed 10 hours of my week](https://www.reddit.com/r/artificial/comments/1sbfp99/i_stopped_using_claude_like_a_chatbot_7_prompt/)**
+**[So, what exactly is going on with the Claude usage limits?](https://www.reddit.com/r/artificial/comments/1sbfwrr/so_what_exactly_is_going_on_with_the_claude_usage/)**
 
-Here is the framework I used to turn AI into a high-level collaborator
+I'm extremely new to AI and am building a local agent for fun. I purchased a Claude Pro account because it helped me a lot in the past when coding different things for hobbies, but then the usage limits started getting really bad and making no sense. I had to quite literally stop my workflow because I hit my limit, so I came back when it said the limit was reset only for it to be pushed back again for another 5 hours. Today I did ask for a heavy prompt, I am making a local Doom coding assistant to make a Doom mod for fun and am using Unsloth Studio to train it with a custom dataset. I used my Claude Pro to "vibe code" (I'm sorry if this is blasphemy, but I do have a background in programming, so I am able to read and verify the code if that makes it less bad? I'm just lazy.) a simple version of the agent to get started, a Python scraper for the Zdoom wiki page to get all of the languages for Doom mods, a dataset from those pages turned into pdf, formating, and the modelfile for the local agent it would be based around along with a README (claudes recommendation, thought it was a good idea). It generated those files, I corrected it in some areas so it updated only two of the files that needed it, and I know this is a heavy prompt, but it literally used up 73% of my entire usage. Just those two prompts. To me, even though that is a super big request, that seems extremely limited. But maybe I'm wrong because I'm so fresh to the hobby and ignorant? I know it was going around the grapevine that Claude usage limits have gone crazy lately, but this seems more than just a minor issue if this isn't normal. For example, I have to purchase a digital visa card off amazon because I live in a country that's pretty strict with its banking, so the banks don't allow transactions to places like LLM's usually. I spend $28 on a $20 monthly subscription because of this, but if I'm so limited on my usage, why would I continue paying that? Or again, maybe I'm just ignorant. It's very bizarre because the free plan was so good and honestly did a lot of these types of requests frequently. It wasn't perfect, but doable and I liked it so much that I upgraded to the Pro version. Now I can barely use it. Kinda sucks.
 
-🔗 [Tom's Guide](https://www.tomsguide.com/ai/i-stopped-using-claude-like-a-chatbot-7-prompt-shifts-that-reclaimed-10-hours-of-my-week) • 1h ago
+2h ago
 
 ---
 
-**[Perplexity's "Incognito Mode" is a "sham," lawsuit says](https://www.reddit.com/r/artificial/comments/1sb38mv/perplexitys_incognito_mode_is_a_sham_lawsuit_says/)**
+**[What features do you actually want in an AI chatbot that nobody has built yet?](https://www.reddit.com/r/artificial/comments/1sbflny/what_features_do_you_actually_want_in_an_ai/)**
 
-Google, Meta, and Perplexity accused of sharing millions of chats to increase ad revenue.
+Hey everyone 👋 I'm building a new AI chat app and before I build anything I want to hear from real users first. Current AI tools like ChatGPT and Claude are great but they don't do everything perfectly. So I want to ask you directly: What features do you wish AI chatbots had? Is there something you keep trying to do with AI but it fails? Is there a feature you've always wanted but nobody has built? What would make you switch from ChatGPT or Claude to something new? What would make you actually pay for an AI app? Drop your thoughts below — every answer helps. No wrong answers at all. I'll reply to every comment and share results when I'm done. 🙏
 
-🔗 [Ars Technica](https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/) • 11h ago
+2h ago
 
 ---
 
@@ -119,9 +121,9 @@ The New York Times • 1d ago
 
 ---
 
-**[Economists Once Dismissed the A.I. Job Threat, but Not Anymore](https://www.nytimes.com/2026/04/03/business/economists-once-dismissed-the-ai-job-threat-but-not-anymore.html)**
+**[Economists Are Drawing Stronger Connections Between A.I. and Jobs](https://www.nytimes.com/2026/04/03/business/economists-once-dismissed-the-ai-job-threat-but-not-anymore.html)**
 
-The New York Times • 7h ago
+The New York Times • 2h ago
 
 ---
 
@@ -129,7 +131,15 @@ The New York Times • 7h ago
 
 Gemma 4: our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.
 
-blog.google • 23h ago
+blog.google • 1d ago
+
+---
+
+**[AI tax scams surge ahead of filing deadline, Better Business Bureau says](https://www.ksat.com/news/local/2026/04/03/ai-tax-scams-surge-ahead-of-filing-deadline-better-business-bureau-says/)**
+
+With the tax filing deadline fast approaching, the Better Business Bureau (BBB) in San Antonio is warning taxpayers about a growing and increasingly sophisticated threat: scams powered by artificial intelligence.
+
+KSAT • 10m ago
 
 ---
 
@@ -137,7 +147,7 @@ blog.google • 23h ago
 
 The next wave of AI-powered cybersecurity attacks will be like nothing we’ve seen before.
 
-CNN • 6h ago
+CNN • 7h ago
 
 ---
 
@@ -145,19 +155,13 @@ CNN • 6h ago
 
 The experience of past tech revolutions suggests savvy incumbents might muddle through and even thrive
 
-Financial Times • 5h ago
+Financial Times • 6h ago
 
 ---
 
-**[Opinion | AI Is a Threat to Everything the American People Hold Dear](https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459?gaa_at=eafs&gaa_n=AWEtsqcm7C1dduDreHIu4OmNYDt-hwBMIJAAfceobI8ulQEV2jJwnbGYc0Bh&gaa_ts=69cfe80d&gaa_sig=CxiZQ-YhJovyhrTknJInzTJR6IE5vqHRyLTv8CSw5KB_C90dCfrN2K6ippUjOzjABXrmGf5S8P9p-hgV-tMD_w%3D%3D)**
+**[California cements its role as the national testing ground for AI rules](https://www.axios.com/2026/04/03/california-national-testing-ground-ai-rules)**
 
-WSJ • 19h ago
-
----
-
-**[Scoop: AI music generator Suno opens SF office](https://www.axios.com/local/san-francisco/2026/04/03/suno-ai-music-generator-startup-office-expansion)**
-
-Axios • 2h ago
+Axios • 7h ago
 
 ---
 
@@ -165,23 +169,21 @@ Axios • 2h ago
 
 Early scandals have not slowed lawyers' adoption of AI tools, even as court sanctions over fake legal briefs continue to rise.
 
-NPR • 7h ago
+NPR • 8h ago
 
 ---
 
-**[Chinese chip firms hit record high revenue driven by the AI boom and U.S. curbs](https://www.cnbc.com/2026/04/03/chinese-chip-firms-record-revenue-ai-boom-us-curbs.html)**
+**[William Shatner slams AI fake news claiming he's dying, had heated Erika Kirk confrontation](https://www.foxnews.com/entertainment/william-shatner-slams-ai-fake-news-claiming-hes-dying-heated-erika-kirk-confrontation)**
 
-Chinese chip companies have benefited from strong domestic demand for AI as U.S. tech curbs have bolstered local firms.
+William Shatner called out a Facebook page for using AI to spread fake stories about him having brain cancer and dying. He urged fans to be skeptical of "bizarre" claims about him.
 
-CNBC • 11h ago
+foxnews.com • 1h ago
 
 ---
 
-**[Is It Wrong to Write a Book with A.I.?](https://www.newyorker.com/culture/open-questions/is-it-wrong-to-write-a-book-with-ai)**
+**[Opinion | AI Is a Threat to Everything the American People Hold Dear](https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459?gaa_at=eafs&gaa_n=AWEtsqd7svRG2Y4T7wTmky_Tt4IjY-dDZqaFWL7cKPoxSzmTdhUrwUoBgKKK&gaa_ts=69cff677&gaa_sig=rY4tVCANubRZHaCN20HsLjfMBYcYeapWaeaPvw72WjbAKQw2rsk2XOuKA4fiPXMJlewnUSydwhcOkZd-bpFAVA%3D%3D)**
 
-The horror novel “Shy Girl” was cancelled for being generated at least partly through artificial intelligence. Would we ever accept such a book as art?
-
-The New Yorker • 6h ago
+WSJ • 20h ago
 
 ---
 
@@ -193,7 +195,7 @@ The New Yorker • 6h ago
 
 Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptions. The LLM is already on your Mac.
 
-⬆️ 447 • 💬 93 • 6h ago • [apfel.franzai.com](https://apfel.franzai.com)
+⬆️ 505 • 💬 115 • 7h ago • [apfel.franzai.com](https://apfel.franzai.com)
 
 ---
 
@@ -213,13 +215,13 @@ Meta is continuing its long-term roadmap to help the construction industry lever
 
 **[ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover](https://news.ycombinator.com/item?id=47608155)**
 
-⬆️ 75 • 💬 35 • 1d ago • [old.reddit.com](https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/)
+⬆️ 75 • 💬 36 • 1d ago • [old.reddit.com](https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/)
 
 ---
 
 **[A $20/month user costs OpenAI $65 in compute. AI video is a money furnace](https://news.ycombinator.com/item?id=47619322)**
 
-⬆️ 71 • 💬 40 • 20h ago • [aedelon777.substack.com](https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is)
+⬆️ 72 • 💬 40 • 21h ago • [aedelon777.substack.com](https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is)
 
 ---
 
@@ -249,7 +251,7 @@ More open-source developers are finding that, when used properly, AI can actuall
 
 It gave the leader of a nonprofit involved with it "a very grimy feeling."
 
-⬆️ 46 • 💬 4 • 23h ago • [Gizmodo](https://gizmodo.com/group-pushing-age-verification-requirements-for-ai-turns-out-to-be-sneakily-backed-by-openai-2000741069)
+⬆️ 46 • 💬 4 • 1d ago • [Gizmodo](https://gizmodo.com/group-pushing-age-verification-requirements-for-ai-turns-out-to-be-sneakily-backed-by-openai-2000741069)
 
 ---
 
@@ -271,7 +273,7 @@ AI isn't paying for itself. It's being financed with massive debt. And right now
 
 📺 Ox Talks
 
-👁️ 10K • 👍 1K • 💬 185 • ⏱️ 8:02 • 21h ago
+👁️ 10K • 👍 1K • 💬 185 • ⏱️ 8:02 • 22h ago
 
 ---
 
@@ -281,7 +283,7 @@ Anthropic is testing Claude Conway, a strange new AI system that looks less like
 
 📺 AI Revolution
 
-👁️ 47K • 👍 826 • 💬 66 • ⏱️ 10:50 • 18h ago
+👁️ 47K • 👍 826 • 💬 66 • ⏱️ 10:50 • 19h ago
 
 ---
 
@@ -291,7 +293,7 @@ Asking ChatGPT about pi was the worst mistake he ever made. Become a member on Y
 
 📺 Mo Bitar
 
-👁️ 22K • 👍 3K • 💬 609 • ⏱️ 6:33 • 4h ago
+👁️ 22K • 👍 3K • 💬 609 • ⏱️ 6:33 • 5h ago
 
 ---
 
@@ -301,7 +303,7 @@ Krystal and Saagar discuss the AI bubble imploding. Sign up for a PREMIUM Breaki
 
 📺 Breaking Points
 
-👁️ 278K • 👍 8K • 💬 1K • ⏱️ 13:15 • 21h ago
+👁️ 278K • 👍 8K • 💬 1K • ⏱️ 13:15 • 22h ago
 
 ---
 
@@ -311,7 +313,7 @@ Welcome to Part 1 of Liquid River Cascade ✨   This place doesn't follow nature
 
 📺 Satisfyra ASMR
 
-👁️ 31K • 👍 4K • 💬 313 • ⏱️ 8:15 • 21h ago
+👁️ 31K • 👍 4K • 💬 313 • ⏱️ 8:15 • 22h ago
 
 ---
 
@@ -341,7 +343,7 @@ Join ACQ Vantage: https://www.skool.com/acq Download your free scaling roadmap h
 
 📺 Alex Hormozi
 
-👁️ 338K • 👍 14K • 💬 523 • ⏱️ 24:19 • 2d ago
+👁️ 338K • 👍 14K • 💬 523 • ⏱️ 24:19 • 3d ago
 
 ---
 
@@ -401,7 +403,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 84,600 • ❤️ 755 • 23h ago
+⬇️ 84,600 • ❤️ 755 • 1d ago
 
 ---
 
@@ -651,7 +653,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 12.4k • 🔱 1.1k • 1h ago
+⭐ 12.4k • 🔱 1.1k • 2h ago
 
 ---
 
@@ -681,7 +683,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.5k • 🔱 352 • 1h ago
+⭐ 6.5k • 🔱 352 • 2h ago
 
 ---
 
@@ -721,7 +723,7 @@ end to end app store screenshot creation using AI
 
 `agentic-ai` `apple` `appstore` `automate` `claude`
 
-⭐ 3.4k • 🔱 227 • 2d ago
+⭐ 3.4k • 🔱 227 • 3d ago
 
 ---
 
