@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-04T11:37:23.501853+00:00'
+updated: '2026-04-04T12:58:33.127458+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 04, 2026 at 11:37 UTC  
+**Last Updated:** April 04, 2026 at 12:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** +3.6%  
-**30d:** +3.9%  
-**90d:** -36.3%  
-**1y:** +13.8%  
+**24h:** +0.1%  
+**7d:** +3.3%  
+**30d:** +3.6%  
+**90d:** -36.4%  
+**1y:** +13.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/ylRbyff4xKs) • 16h ago
+🔗 [youtu.be](https://youtu.be/ylRbyff4xKs) • 18h ago
 
 ---
 
@@ -96,7 +96,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Why are we still copy-pasting 40-character wallet addresses in 2026? Idea: you do a small test transfer once → both wallets get a shared avatar/character. Next time you send, you just recognize the person visually instead of relying on the address. Kind of like “pairing” wallets. Would this actually reduce mistakes or scams, or is this unnecessary given things like ENS?
 
-16h ago
+17h ago
 
 ---
 
@@ -118,13 +118,13 @@ People ask this a lot and most answers are either too optimistic or outdated. He
 
 **[They'd never heard of ETH. They described it anyway. I didn't discover Ethereum in a whitepaper. I recognised it. In lectures thirty years old. In voices I still hear.](https://www.reddit.com/r/ethereum/comments/1sbnqtg/theyd_never_heard_of_eth_they_described_it_anyway/)**
 
-15h ago
+17h ago
 
 ---
 
 **[Is the "Quantum Apocalypse" coming early for ethereum?](https://www.reddit.com/r/ethereum/comments/1sbgp8o/is_the_quantum_apocalypse_coming_early_for/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -150,7 +150,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 As investors search for "the next Ethereum," this top cryptocurrency is worth a closer look.
 
-The Motley Fool • 8h ago
+fool.com • 9h ago
 
 ---
 
@@ -158,7 +158,7 @@ The Motley Fool • 8h ago
 
 Financial giant Charles Schwab is set to launch spot buying of Bitcoin and Ethereum by the end of the quarter, the firm said Friday.
 
-Decrypt • 14h ago
+Decrypt • 15h ago
 
 ---
 
@@ -166,7 +166,7 @@ Decrypt • 14h ago
 
 The foundation’s latest staking allocation mirrors its biggest-ever single-day move and is a major step-up from its initial February deployment.
 
-theblock.co • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -182,7 +182,7 @@ Yahoo Finance • 1d ago
 
 Naoris debuts its quantum-resistant mainnet, which uses algorithms approved by the U.S. National Institute of Standards and Technology.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -190,17 +190,11 @@ CoinDesk • 22h ago
 
 Ethereum could outpace Bitcoin by a wide margin over the next four years — at least according to one of the most bullish forecasts to come out of traditional banking. That is the view from Geoff Kendrick, Global Head of Digital Assets Research at Standard Chartered, who laid out the projection in a…
 
-TradingView • 9h ago
+TradingView • 10h ago
 
 ---
 
-**[Should you forget Ethereum and buy this cryptocurrency instead?](https://www.msn.com/en-us/money/topstocks/should-you-forget-ethereum-and-buy-this-cryptocurrency-instead/ar-AA207dA0?ocid=finance-verthp-feeds)**
-
-MSN • 4h ago
-
----
-
-**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775226300)**
+**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775289000)**
 
 Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
@@ -208,9 +202,15 @@ Polymarket • 3d ago
 
 ---
 
-**[Yield Hunters Chase NEOS’s Ethereum Income ETF Even as Ether Slides](https://www.tipranks.com/news/cryptocurrencies/yield-hunters-chase-neoss-ethereum-income-etf-even-as-ether-slides)**
+**[Should you forget Ethereum and buy this cryptocurrency instead?](https://www.msn.com/en-us/money/topstocks/should-you-forget-ethereum-and-buy-this-cryptocurrency-instead/ar-AA207dA0?ocid=finance-verthp-feeds)**
 
-TipRanks • 1d ago
+MSN • 5h ago
+
+---
+
+**[Ethereum Bears Rule the Chart, but 21Shares’ TETH Attracts a Wave of Contrarian Cash](https://www.tipranks.com/news/cryptocurrencies/ethereum-bears-rule-the-chart-but-21shares-teth-attracts-a-wave-of-contrarian-cash)**
+
+TipRanks • 21h ago
 
 ---
 
@@ -218,7 +218,7 @@ TipRanks • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 22h ago
+Fortune • 23h ago
 
 ---
 
@@ -232,7 +232,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 2K • 👍 197 • 💬 10 • ⏱️ 27:08 • 12h ago
+👁️ 2K • 👍 197 • 💬 10 • ⏱️ 27:08 • 14h ago
 
 ---
 
@@ -242,7 +242,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 377 • 👍 13 • 💬 2 • ⏱️ 4:56 • 18h ago
+👁️ 377 • 👍 13 • 💬 2 • ⏱️ 4:56 • 19h ago
 
 ---
 
@@ -272,7 +272,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 259 • 💬 13 • ⏱️ 8:31 • 16h ago
+👁️ 4K • 👍 259 • 💬 13 • ⏱️ 8:31 • 18h ago
 
 ---
 
@@ -282,7 +282,7 @@ Big news in the financial world today! Charles Schwab, a major financial platfor
 
 📺 Myles G Investments
 
-👁️ 1K • 👍 42 • 💬 28 • ⏱️ 0:55 • 11h ago
+👁️ 1K • 👍 42 • 💬 28 • ⏱️ 0:55 • 12h ago
 
 ---
 
@@ -302,7 +302,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 766 • 👍 101 • 💬 9 • ⏱️ 10:15 • 9h ago
+👁️ 766 • 👍 101 • 💬 9 • ⏱️ 10:15 • 10h ago
 
 ---
 
@@ -312,7 +312,7 @@ BITCOIN & CRYPTO WARNING SIGNAL FLASHING NOW!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 4K • 👍 182 • 💬 312 • ⏱️ 14:24 • 11h ago
+👁️ 4K • 👍 182 • 💬 312 • ⏱️ 14:24 • 12h ago
 
 ---
 
@@ -322,7 +322,7 @@ In today's video I break down Bitcoin, Ethereum, stocks, oil, gold, and silver, 
 
 📺 James Crypto Guru
 
-👁️ 1K • 👍 130 • 💬 14 • ⏱️ 8:45 • 12h ago
+👁️ 1K • 👍 130 • 💬 14 • ⏱️ 8:45 • 13h ago
 
 ---
 
