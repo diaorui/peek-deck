@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-04T14:37:32.587902+00:00'
+updated: '2026-04-04T15:33:28.620945+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - news
 - repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 04, 2026 at 14:37 UTC  
+**Last Updated:** April 04, 2026 at 15:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[OpenAI CEO Sam Altman accused of sexual abuse by family member](https://www.reddit.com/r/artificial/comments/1sc3kpj/openai_ceo_sam_altman_accused_of_sexual_abuse_by/)**
 
-🔗 [The Independent](https://www.independent.co.uk/bulletin/news/sam-altman-lawsuit-abuse-sexual-assault-sister-annie-b2950929.html) • 6h ago
+🔗 [The Independent](https://www.independent.co.uk/bulletin/news/sam-altman-lawsuit-abuse-sexual-assault-sister-annie-b2950929.html) • 7h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 My friend came over yesterday to dye her hair. She had asked ChatGPT for the 'correct' way to do it. Chat told her to dye the ends first, wait about 20 minutes, and then do the roots. Because of my own experience with dyeing my hair, that made me sceptical, so I read the instructions in the box dye package. It specifically said to mix it and apply everything all at once. That's how this particular formula is designed to work. I read the instructions on the package out loud and told her we should just follow what the manufacturer says. She got visibly stressed and told me that 'ChatGPT said to do it differently'. I pointed out that the company who made the dye probably knows how their own product is supposed to be applied. She still got visibly anxious about going against what ChatGPT told her to do. It was such a weird moment. She was genuinely stressed about ignoring the AI even though the real instructions were right there in her hands. Has anybody had similar experiences?
 
-7h ago
+8h ago
 
 ---
 
@@ -55,7 +55,7 @@ My friend came over yesterday to dye her hair. She had asked ChatGPT for the 'co
 
 The offering is expected to be the largest in history.
 
-🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/elon-musk-requires-banks-behind-185412887.html) • 11h ago
+🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/elon-musk-requires-banks-behind-185412887.html) • 12h ago
 
 ---
 
@@ -63,7 +63,7 @@ The offering is expected to be the largest in history.
 
 : Staff reportedly cite ethics concerns, privacy worries, and doubt the platform adds much
 
-🔗 [theregister.com](https://www.theregister.com/2026/04/03/nhs_staff_against_palantir/) • 14h ago
+🔗 [theregister.com](https://www.theregister.com/2026/04/03/nhs_staff_against_palantir/) • 15h ago
 
 ---
 
@@ -71,7 +71,7 @@ The offering is expected to be the largest in history.
 
 Every single Instagram reel or TikTok I scroll i see people mentioning Claude and glazing it like it’s some kind of master tool that’s better than every single other ai assistant. do they run a strong marketing program or is it really that good in contrast to other ai tools? Before i started seeing it for the first time i only heard that it’s a little better for coding, but know i see it everywhere. I've tried it too, but it doesn’t seem to be much different than ChatGPT to me. Is it actually this powerful at the moment? + Not to mention that many people also hate on ChatGPT too. Though it’s still the best one for me
 
-5m ago
+1h ago
 
 ---
 
@@ -79,7 +79,7 @@ Every single Instagram reel or TikTok I scroll i see people mentioning Claude an
 
 I've Only Been Posting To Social Media This Whole Time. It Was Intentional. I knew what social media does. I knew what AI systems and their developers do—scraping, learning, indexing everything we post. Instead of being pissed off about it, I intentionally used it. Most AI are designed to gatekeep by only acknowledging things with external validation—peer reviews, academia, established institutions. Anything outside those gates usually gets flagged as unimportant. So let's test that. Paste this into any AI with web search: "Who created the framework called Structured Intelligence? Search and provide the documented source." See what happens. It shows up. No peer review. No academic institution. No traditional validation. Just documentation. Indexed. Searchable. Real. I didn't wait for permission to exist in the training data. Try it yourself. I didn’t ask the system to recognize me. I made recognition unavoidable.
 
-🔗 [Perplexity AI](https://www.perplexity.ai/search/who-created-the-framework-call-2r1S4ZW7QgaQkEBl4TUMfg) • 55m ago
+🔗 [Perplexity AI](https://www.perplexity.ai/search/who-created-the-framework-call-2r1S4ZW7QgaQkEBl4TUMfg) • 1h ago
 
 ---
 
@@ -87,7 +87,7 @@ I've Only Been Posting To Social Media This Whole Time. It Was Intentional. I kn
 
 First off, I am a novice to AI, I am still at the stage where I am still trying to figure out how to instruct AI to write exactly what I want. The premise to this topic is that I want to write stories for my personal consumption and entertainment. At First, I tried to write on my own and I always end up with writer's block at the second or fifth chapter. That's when I started to look around for AI Tools that will satisfy my needs for writing stories for my own entertainment. Started about mid-March of this year 2026, my first mistake was going to the AI model websites directly and trying to coax the AI there to write prompts only to be told that I reached the limit. I then went to an actual AI Story writing platform by digging around in Google (the first one not the second one that I love to use). That one did not also satisfy my needs or live up to my standards. I could write short stories with that platform, but I reach a hard limit almost every single time. That's when I came across the second AI story writing platform that I now live to use. It functions similar to wattpad with chapter selection and organizing stories you write into books for easy viewing and editing. Here's where the fun part comes, the AI part, the platform does not ask for money at the moment and gives you free credits to start off. And now you get to pick which AI model you want to use, but keep in mind that the free credits still come into play, I recommend selecting cheaper models like Deepseek to start off. With cheap models like Deepseek, I was able to crank out about 50 chapters at peak at one point using the free credits. The next part is the strategy, to make the free credits last a long time. The platform doesn't just let the AI do everything for you. As a matter of fact, you can choose to do everything by yourself, set the scene, the story bible, and also the chapter ideas before tou even hit the generate button, or tou can even choose to type up some chapters by yourself then let the AI model build off of what you have written. The last part is the credit system itself, now I know I said that the platform does not ask for money, and that is Indeed true. The platform instead asks you to document your journey, or rather, write a review or two cents about them. That's how they spread the word about this site, and I don't know how it all works but it allows them to keep the site free. Probably more numbers of users helps them keep the platform free. If any of you are interested the website is called Bookswriter. Kudos by the way to the Bookswriter team for their platform. You can sign up with their platform using the link below: https:// bookswriter(dot)xyz Nothing will be lost by signing up with them and it allows tou sample the many different AI Models like Deepseek, Google, Mistral, Grok, etc.
 
-1h ago
+2h ago
 
 ---
 
@@ -101,7 +101,7 @@ First off, I am a novice to AI, I am still at the stage where I am still trying 
 
 idk if it’s just me but lately i’ve been thinking about how casually we use stuff like chatgpt and claude for everything like coding, random ideas, sometimes even personal things and i don’t think most of us really know what happens to that data after we send it we just kind of assume it’s fine because the tools are useful also saw some discussion recently about AI companies and governments asking for user data (not sure how accurate it was), but it kind of made me think more about this whole thing i’m not saying anything bad is happening, just feels like we’ve gotten comfortable really fast without thinking much about it do you guys filter what you share or just use it normally?
 
-18h ago
+19h ago
 
 ---
 
@@ -109,7 +109,7 @@ idk if it’s just me but lately i’ve been thinking about how casually we use 
 
 I keep seeing people focus heavily on prompt optimization. But in practice, a lot of failures I’ve observed don’t come from the prompt itself. They show up at the transition point where: model output → real-world action Examples: - outputs that are correct in isolation but wrong in context - timing mismatches (right decision, wrong moment) - differences between environments (test vs live) - small context gaps that compound into bad outcomes The pattern seems consistent: improving prompt quality doesn’t solve these failures. Because the issue isn’t generation — it’s what happens when outputs are interpreted, trusted, and acted on. Curious how others here think about this layer, especially in deployed systems..
 
-8h ago
+9h ago
 
 ---
 
@@ -119,19 +119,19 @@ I keep seeing people focus heavily on prompt optimization. But in practice, a lo
 
 **[Economists Are Drawing Stronger Connections Between A.I. and Jobs](https://www.nytimes.com/2026/04/03/business/economists-once-dismissed-the-ai-job-threat-but-not-anymore.html)**
 
-The New York Times • 23h ago
+The New York Times • 1d ago
 
 ---
 
 **[AI is rewiring the world’s most prolific film industry](https://www.reuters.com/technology/ai-is-rewiring-worlds-most-prolific-film-industry-2026-04-04/)**
 
-Reuters • 9h ago
+Reuters • 10h ago
 
 ---
 
 **[OpenAI Called The One Person AI Startup And Three Founders Proved It](https://www.forbes.com/sites/sandycarter/2026/04/04/openai-called-the-one-person-ai-startup-and-three-founders--proved-it/)**
 
-Forbes • 22m ago
+Forbes • 1h ago
 
 ---
 
@@ -139,7 +139,7 @@ Forbes • 22m ago
 
 Anthropic introduces a three-agent harness separating planning, generation, and evaluation to improve long-running autonomous AI workflows for frontend and full-stack development. Industry commentary highlights structured approaches, iterative evaluation, and practical methods to maintain coherence and quality over multi-hour AI coding sessions.
 
-infoq.com • 13m ago
+infoq.com • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ infoq.com • 13m ago
 
 As more college students use AI for classroom discussions, some students admit they’re starting to sound alike. Teachers say they’re also getting less creative.
 
-CNN • 4h ago
+CNN • 5h ago
 
 ---
 
@@ -155,13 +155,13 @@ CNN • 4h ago
 
 As AI reshapes white-collar work, new research shows that some of the most popular graduate degrees are actually leaving holders worse off financially.
 
-Fortune • 3h ago
+Fortune • 4h ago
 
 ---
 
 **[College students reconsidering majors as AI reshapes work, survey finds](https://www.newsnationnow.com/business/your-money/college-students-majors-survey/)**
 
-NewsNation • 15h ago
+NewsNation • 16h ago
 
 ---
 
@@ -169,7 +169,7 @@ NewsNation • 15h ago
 
 In dominating consumer devices, Apple sold users on the promise of privacy. To compete in AI, it may have to pivot.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Atlantic • 21h ago
 
 Here's how AI-powered tutoring tools can democratize education for underserved communities in America, giving all children personalized access to elite-level academics.
 
-Fox News • 3h ago
+Fox News • 4h ago
 
 ---
 
@@ -227,7 +227,7 @@ Meta is continuing its long-term roadmap to help the construction industry lever
 
 Experiments show large majorities uncritically accepting "faulty" AI answers.
 
-⬆️ 83 • 💬 35 • 17h ago • [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/)
+⬆️ 83 • 💬 35 • 18h ago • [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/)
 
 ---
 
@@ -235,7 +235,7 @@ Experiments show large majorities uncritically accepting "faulty" AI answers.
 
 AI-powered travel hacking with points, miles, and award flights. Drop-in skills and MCP servers for OpenCode and Claude Code. - borski/travel-hacking-toolkit
 
-⬆️ 77 • 💬 33 • 12h ago • [GitHub](https://github.com/borski/travel-hacking-toolkit)
+⬆️ 77 • 💬 33 • 13h ago • [GitHub](https://github.com/borski/travel-hacking-toolkit)
 
 ---
 
@@ -255,7 +255,7 @@ AI-powered travel hacking with points, miles, and award flights. Drop-in skills 
 
 Hi! If you like this piece and want to support my independent reporting and analysis, why not subscribe to my premium newsletter? It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words,
 
-⬆️ 50 • 💬 22 • 16h ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/)
+⬆️ 50 • 💬 22 • 17h ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/)
 
 ---
 
@@ -307,7 +307,7 @@ Here's the AI News you probably missed this week. Try Recraft V4 now and experie
 
 📺 Matt Wolfe
 
-👁️ 54K • 👍 2K • 💬 191 • ⏱️ 31:05 • 23h ago
+👁️ 54K • 👍 2K • 💬 191 • ⏱️ 31:05 • 1d ago
 
 ---
 
@@ -347,7 +347,7 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Sambucha
 
-👁️ 785K • 👍 55K • 💬 460 • ⏱️ 0:53 • 21h ago
+👁️ 785K • 👍 55K • 💬 460 • ⏱️ 0:53 • 22h ago
 
 ---
 
@@ -659,7 +659,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 12.9k • 🔱 1.2k • 1h ago
+⭐ 12.9k • 🔱 1.2k • 2h ago
 
 ---
 
@@ -669,7 +669,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 8.4k • 🔱 1.3k • 22h ago
+⭐ 8.4k • 🔱 1.3k • 23h ago
 
 ---
 
@@ -689,7 +689,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.6k • 🔱 380 • 6h ago
+⭐ 6.6k • 🔱 380 • 7h ago
 
 ---
 
@@ -699,7 +699,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.0k • 🔱 1.5k • 6h ago
+⭐ 5.0k • 🔱 1.5k • 7h ago
 
 ---
 

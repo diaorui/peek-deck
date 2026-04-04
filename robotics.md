@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-04T14:37:32.605438+00:00'
+updated: '2026-04-04T15:33:28.638691+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 04, 2026 at 14:37 UTC  
+**Last Updated:** April 04, 2026 at 15:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Humanoid robots undergoing training](https://www.reddit.com/r/robotics/comments/1sbj504/humanoid_robots_undergoing_training/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -50,7 +50,7 @@ Appreciate all the feedback and love on the recent videos, here's another clip o
 
 hi, i've been working on browser-based robotics simulation and wanted to get some feedback. as of now, one can control/simulate, unitree g1, h1, go1, bostons, franka panda arm, or create your own robot. we're working on few more things. 1. training module to train policies directly in browser based on behaviour cloning + RL. 2. rent a robot - to see your trainings in simulations vs on real robots in real world, 3. and much more https://reddit.com/link/1sc8t84/video/jc23l5jas5tg1/player
 
-1h ago
+2h ago
 
 ---
 
@@ -58,7 +58,7 @@ hi, i've been working on browser-based robotics simulation and wanted to get som
 
 If human demonstration data proves to be the underlying factor that determines scaling laws in general-purpose robotics, the infrastructure that captures that data will determine how fast we get there. Despite all the research novelty in ChatGPT, its success at its core can be attributed to one foundational fact - the scaling law of transformers. Have transformers made their way into robotics and are we seeing similar scaling laws? The answer is yes. Recent studies showed task completion rates jumping from 30% to 70% when human demonstration data scaled from 1,000 to 20,000 hours — a log-linear trend that mirrors exactly what we saw in language and vision. Labs are racing to train generalist policies - a robot brain that can solve any task under any embodiment. But the library of physical interactions required to train these policies doesn’t exist yet. Solving this data bottleneck is one of the most important problems for the next few years. We’ve seen dozens of companies emerge in this space and noticed the same pattern repeat: every egocentric data company makes tradeoffs between quality, scale, and diversity. I have been working at FPV Labs on the principle that high-quality data is orders of magnitude more valuable than sheer volume. Self-driving cars collect thousands of hours per day, but only a small fraction is useful for training. Studies like RT-2 showed that as little as 1% of data improves task success by 25%. There’s clearly a power law in the downstream impact of data. We spent months obsessing over data quality - building our stack, discarding it, rebuilding it, and iterating until we found a formula that doesn’t compromise quality at scale and laying the infrastructure rails as we embark into this future. We are excited to be building what we think of is the infra layer for the internet archive of data for our robotic companions of the future. Happy to answer questions about our hardware, data methodology, or what we’ve learned so far. fpvlabs.ai
 
-22h ago
+23h ago
 
 ---
 
@@ -74,7 +74,7 @@ l find that RoboBaton mini is good to use. I was originally planning to use Inte
 
 Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 that I've been building. The feedback was really helpful, and I've been heads-down since then working on one of the biggest feature of the framework: Variants and flavors (the ability to define a single communication interface for different pieces of code). The goal hasn't changed: someone new should be able to pick this up and have nodes communicating in about half an hour. I'd love to hear what you think, especially from people who tried it last time.
 
-9h ago
+10h ago
 
 ---
 
@@ -82,7 +82,7 @@ Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 t
 
 Read all of the ROS news on Open Robotics Discourse. Picture is the Innate.bot MARS robot. They're running a hackathon at YCombinator next Saturday.
 
-18h ago
+19h ago
 
 ---
 
@@ -90,7 +90,7 @@ Read all of the ROS news on Open Robotics Discourse. Picture is the Innate.bot M
 
 i need y'all to give me suggestions for the battery part im having two 6v n20 600rpm motors and also the battery is connected to the buck which powers the esp32 the sensors are powered from the esp32 3.3v all the things are working perfectly just the prblm im facing is o hVe 7.4v lipo battery but its too big and bulky for this size and makes it heavier too so can you suggest some batteries (rechargeable) 7.4v thats smaller and compact in size to fit on the upper part (where my thumb is placed)
 
-22h ago
+23h ago
 
 ---
 
@@ -142,7 +142,7 @@ IEEE Spectrum • 2d ago
 
 Spacesuit work and eye checks wrapped up the week for the Expedition 74 crew aboard the International Space Station. The orbital residents also focused on robotics, cargo transfers, and science hardware maintenance at the end of the week.
 
-NASA (.gov) • 17h ago
+NASA (.gov) • 18h ago
 
 ---
 
@@ -156,7 +156,7 @@ fastcompany.com • 1d ago
 
 **[Air-powered artificial muscles could help robots lift 100 times their weight](https://techxplore.com/news/2026-04-air-powered-artificial-muscles-robots.html)**
 
-Tech Xplore • 1d ago
+Tech Xplore • 2d ago
 
 ---
 
@@ -194,7 +194,7 @@ These robots aren't waiting for the future — they're already HERE and doing th
 
 📺 The AI Nexus
 
-👁️ 1K • 👍 65 • 💬 2 • ⏱️ 55:39 • 13h ago
+👁️ 1K • 👍 65 • 💬 2 • ⏱️ 55:39 • 14h ago
 
 ---
 
@@ -244,7 +244,7 @@ How do robots work on a cruise ship? In this episode of Engineering the Experien
 
 📺 Royal Caribbean
 
-👁️ 6K • 👍 186 • 💬 15 • ⏱️ 4:51 • 1d ago
+👁️ 6K • 👍 186 • 💬 15 • ⏱️ 4:51 • 2d ago
 
 ---
 
