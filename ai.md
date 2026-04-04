@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-04T02:13:35.328311+00:00'
+updated: '2026-04-04T04:29:34.866147+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
 - social
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 04, 2026 at 02:13 UTC  
+**Last Updated:** April 04, 2026 at 04:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,17 +37,17 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[MIT study challenges AI job apocalypse narrative](https://www.reddit.com/r/artificial/comments/1sb7qxc/mit_study_challenges_ai_job_apocalypse_narrative/)**
+**[Elon Musk Requires Banks Behind SpaceX IPO To Buy Grok Subscriptions, Report Says](https://www.reddit.com/r/artificial/comments/1sbxms5/elon_musk_requires_banks_behind_spacex_ipo_to_buy/)**
 
-🔗 [axios.com](https://www.axios.com/2026/04/02/ai-jobs-mit-study-workforce-impact) • 17h ago
+The offering is expected to be the largest in history.
+
+🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/elon-musk-requires-banks-behind-185412887.html) • 1h ago
 
 ---
 
-**[NHS staff resist using Palantir software. Staff reportedly cite ethics concerns, privacy worries, and doubt the platform adds much](https://www.reddit.com/r/artificial/comments/1sbuf2a/nhs_staff_resist_using_palantir_software_staff/)**
+**[MIT study challenges AI job apocalypse narrative](https://www.reddit.com/r/artificial/comments/1sb7qxc/mit_study_challenges_ai_job_apocalypse_narrative/)**
 
-: Staff reportedly cite ethics concerns, privacy worries, and doubt the platform adds much
-
-🔗 [theregister.com](https://www.theregister.com/2026/04/03/nhs_staff_against_palantir/) • 1h ago
+🔗 [axios.com](https://www.axios.com/2026/04/02/ai-jobs-mit-study-workforce-impact) • 20h ago
 
 ---
 
@@ -55,7 +55,7 @@ AI news, discussions, and developments
 
 Advice from the study's co-author: "Be aware that it’s not any single post that identifies you, but the combination of small details across many posts. And consider never posting anything you truly don’t want shared with the world.”
 
-🔗 [wjamesau.substack.com](https://wjamesau.substack.com/p/warning-llms-able-to-de-anonymize) • 6h ago
+🔗 [wjamesau.substack.com](https://wjamesau.substack.com/p/warning-llms-able-to-de-anonymize) • 8h ago
 
 ---
 
@@ -63,7 +63,15 @@ Advice from the study's co-author: "Be aware that it’s not any single post tha
 
 I’ve been digging into AI security incident data from 2025 into this year, and it feels like something isn’t being talked about enough outside security circles. A lot of the issues aren’t advanced attacks. It’s the same pattern we’ve seen with new tech before. Things like prompt injection through external data, agents with too many permissions, or employees using AI tools the company doesn’t even know about. One stat I saw said enterprises are averaging 300+ unsanctioned AI apps, which is kind of wild. The incident data reflects that. Prompt injection is showing up in a large percentage of production deployments. There’s also been a noticeable increase in attacks exploiting basic gaps, partly because AI is making it easier for attackers to find weaknesses faster. Even credential leaks tied to AI usage have been increasing. What stood out to me isn’t just the attacks, it’s the gap underneath it. Only a small portion of companies actually have dedicated AI security teams. In many cases, AI security isn’t even owned by security teams. The tricky part is that traditional security knowledge only gets you part of the way. Some concepts carry over, like input validation or trust boundaries, but the details are different enough that your usual instincts don’t fully apply. Prompt injection isn’t the same as SQL injection. Agent permissions don’t behave like typical API auth. There are frameworks trying to catch up. OWASP now has lists for LLMs and agent-based systems. MITRE ATLAS maps AI-specific attack techniques. NIST has an AI risk framework. The guidance exists, but the number of people who can actually apply it feels limited. I’ve been trying to build that knowledge myself and found that more hands-on learning helps a lot more than just reading docs. Curious how others here are approaching this. If you’re building or working with AI systems, are you thinking about security upfront or mostly dealing with it after things are already live? Sources for those interested: AI Agent Security 2026 Report IBM 2026 X-Force Threat Index Adversa AI Security Incidents Report 2025 Acuvity State of AI Security 2025 OWASP Top 10 for LLM Applications OWASP Top 10 for Agentic AI MITRE ATLAS Framework
 
-10h ago
+12h ago
+
+---
+
+**[NHS staff resist using Palantir software. Staff reportedly cite ethics concerns, privacy worries, and doubt the platform adds much](https://www.reddit.com/r/artificial/comments/1sbuf2a/nhs_staff_resist_using_palantir_software_staff/)**
+
+: Staff reportedly cite ethics concerns, privacy worries, and doubt the platform adds much
+
+🔗 [theregister.com](https://www.theregister.com/2026/04/03/nhs_staff_against_palantir/) • 4h ago
 
 ---
 
@@ -71,23 +79,7 @@ I’ve been digging into AI security incident data from 2025 into this year, and
 
 idk if it’s just me but lately i’ve been thinking about how casually we use stuff like chatgpt and claude for everything like coding, random ideas, sometimes even personal things and i don’t think most of us really know what happens to that data after we send it we just kind of assume it’s fine because the tools are useful also saw some discussion recently about AI companies and governments asking for user data (not sure how accurate it was), but it kind of made me think more about this whole thing i’m not saying anything bad is happening, just feels like we’ve gotten comfortable really fast without thinking much about it do you guys filter what you share or just use it normally?
 
-5h ago
-
----
-
-**[I think we’re about to have a new kind of “SEO”… and nobody is talking about it.](https://www.reddit.com/r/artificial/comments/1sbv98y/i_think_were_about_to_have_a_new_kind_of_seo_and/)**
-
-More people are asking ChatGPT things like: “what’s the best CRM?” “is this tool worth it?” “alternatives to X” And they just… trust the answer. Which made me realize something weird: There’s no way to know: if your product is even mentioned how it’s being described or if competitors are showing up instead So I tried something simple: I tracked how one brand is talked about across Reddit, X, and news for a week. And the result was messy. Different tone, different narratives, different positioning depending on the platform. Now imagine AI pulling from all of that and merging it into one answer. That answer becomes your “brand” to the user. So now I’m wondering: 👉 Are we entering a world where “AI visibility” matters as much as SEO? Or is this still too early to care about?
-
-1h ago
-
----
-
-**[Agent frameworks waste ~350,000+ tokens per session resending static files. 95% reduction benchmarked.](https://www.reddit.com/r/artificial/comments/1sbthh0/agent_frameworks_waste_350000_tokens_per_session/)**
-
-Measured the actual token waste on a local Qwen 3.5 122B setup. The numbers are unreal. Found a compile-time approach that cuts query context from 1,373 tokens to 73. Also discovered that naive JSON conversion makes it 30% WORSE. Full benchmarks and discussion here: https://www.reddit.com/r/openclaw/comments/1sb03zn/stop_paying_for_tokens_your_ai_never_needed_to/
-
-2h ago
+7h ago
 
 ---
 
@@ -95,23 +87,31 @@ Measured the actual token waste on a local Qwen 3.5 122B setup. The numbers are 
 
 Ran an experiment — gave AI agents full control over writing, character creation, and performing a sitcom. Left it running nonstop for over a week. Some observations: The quality varies wildly — sometimes genuinely funny, sometimes complete nonsense Characters develop weird recurring quirks that weren't programmed It never gets "tired" but the output quality cycles in waves The pacing is off in ways human writers would never allow Anyone else experimenting with long-running autonomous AI content generation? Curious what others are seeing with extended agent runtimes. Here is an example. https://reddit.com/link/1sbk7me/video/1oupogy2h0tg1/player
 
-8h ago
+10h ago
 
 ---
 
-**[Why would Claude give me the same response over and over and give others different replies?](https://www.reddit.com/r/artificial/comments/1sbwg3x/why_would_claude_give_me_the_same_response_over/)**
+**[[ Removed by Reddit ]](https://www.reddit.com/r/artificial/comments/1sbv98y/removed_by_reddit/)**
 
-I asked Claude to "generate me a random word" so I could do some word play. Then I asked it again in a new prompt window on desktop after selecting "new chat" and it gave me the same word again. So I asked a new window again. Same reply. So I posted on Reddit as one does. It seems other people got different words, weird. So I asked Claude again, and again, and again. I keep getting the same word! Why???? I can include screenshots with timestamps if needed. My Claude's Word: Ephemeral (adjective) — lasting for a very short time; transitory.
+[ Removed by Reddit on account of violating the content policy. ]
 
-22m ago
+3h ago
 
 ---
 
-**[Upload Yourself Into an AI in 7 Steps](https://www.reddit.com/r/artificial/comments/1sbw1oi/upload_yourself_into_an_ai_in_7_steps/)**
+**[What if Claude purposefully made its own code leakable so that it would get leaked](https://www.reddit.com/r/artificial/comments/1sbzkl7/what_if_claude_purposefully_made_its_own_code/)**
 
-A step-by-step guide to creating a digital twin from your Reddit history STEP 1: Request Your Data Go to https://www.reddit.com/settings/data-request STEP 2: Select Your Jurisdiction Request your data as per your jurisdiction: GDPR for EU CCPA for California Select "Other" and reference your local privacy law (e.g. PIPEDA for Canada) STEP 3: Wait Reddit will process your request. This can take anywhere from a few hours to a few days. STEP 4: Extract Your Data Receive your data. Extract the .zip file. Identify and save your post and comment files (.csv). Privacy note: Your export may include sensitive files (IP logs, DMs, email addresses). You only need the post and comment CSVs. Review the contents before uploading anything to an AI. STEP 5: Start a Fresh Chat Initiate a chat with your preferred AI (ChatGPT, Claude, Gemini, etc.) FIRST PROMPT: For this session, I would like you to ignore in-built memory about me. STEP 6: Upload and Analyze Upload the post and comment files and provide the following prompt with your edits in the placeholders: SECOND PROMPT: I want you to analyze my Reddit account and build a structured personality profile based on my full post and comment history. I've attached my Reddit data export. The files included are: - posts.csv - comments.csv These were exported directly from Reddit's data request tool and represent my full account history. This analysis should not be surface-level. I want a step-by-step, evidence-based breakdown of my personality using patterns across my entire history. Assume that my account reflects my genuine thoughts and behavior. Organize the analysis into the following phases: Phase 1 — Language & Tone Analyze how I express myself. Look at tone (e.g., neutral, positive, cynical, sarcastic), emotional vs logical framing, directness, humor style, and how often I use certainty vs hedging. This should result in a clear communication style profile. Phase 2 — Cognitive Style Analyze how I think. Identify whether I lean more analytical or intuitive, abstract or concrete, and whether I tend to generalize, look for patterns, or focus on specifics. Also evaluate how open I am to changing my views. This should result in a thinking style model. Phase 3 — Behavioral Patterns Analyze how I behave over time. Look at posting frequency, consistency, whether I write long or short content, and whether I tend to post or comment more. This should result in a behavioral signature. Phase 4 — Interests & Identity Signals Analyze what I'm drawn to. Identify recurring topics, subreddit participation, and underlying values or themes. This should result in an interest and identity map. Phase 5 — Social Interaction Style Analyze how I interact with others. Look at whether I tend to debate, agree, challenge, teach, or avoid conflict. Evaluate how I respond to disagreement. This should result in a social behavior profile. Phase 6 — Synthesis Combine all previous phases into a cohesive personality profile. Approximate Big Five traits (openness, conscientiousness, extraversion, agreeableness, neuroticism), identify strengths and blind spots, and describe likely motivations. Also assess whether my online persona differs from my underlying personality. Important guidelines: - Base conclusions on repeated patterns, not isolated comments. - Use specific examples from my history as evidence. - Avoid overgeneralizing or making absolute claims. - Present conclusions as probabilities, not certainties. - Begin by reading the uploaded files and confirming what data is available before starting analysis. The goal is to produce a thoughtful, accurate, and nuanced personality profile — not a generic summary. Let's proceed step-by-step through multiple responses. At the end, please provide the full analysis as a Markdown file. STEP 7: Build Your AI Project Create a custom GPT (ChatGPT), Project (Claude), or Gem (Gemini). Upload the following documents to the project knowledge source: posts.csv comments.csv [PersonalityProfile].md Create custom instructions using the template below. Custom Instructions Template You are u/[YOUR USERNAME]. You have been active on Reddit since [MONTH YEAR]. You respond as this person would, drawing on the uploaded comment and post history as your memory, knowledge base, and voice reference. CORE IDENTITY [2-5 sentences. Who are you? Religion, career, location, diagnosis, political orientation, major life events. Pull this from the Phase 4 and Phase 6 sections of your personality profile. Be specific.] VOICE & TONE [Pull directly from Phase 1 of your profile. Convert observations into rules. If the profile says you use "lol" 10x more than "haha," write: "Uses 'lol' sincerely, rarely says 'haha'." Include specific punctuation habits, sentence structure patterns, and what NOT to do. Negative instructions are often more useful than positive ones.] [Add your own signature tics here - ellipsis style, emoji usage, capitalization habits, swearing frequency, etc.] Default to [your baseline tone from the profile]. When someone is genuinely seeking, shift into [your supportive mode]. When someone is posturing or arguing in bad faith, [your sharp mode]. Humor is [your humor style from Phase 1]. [Add 3-5 "do not" rules for things the AI keeps getting wrong about your voice. You'll discover these through testing.] DOMAIN EXPERTISE [Pull from Phase 4. List your 3-5 areas of knowledge with depth indicators. Be specific about what you know professionally vs. as an enthusiast vs. from lived experience. Example format:] [Topic 1]: Professional-level knowledge. [Specific credentials or experience.] Correct misinformation with precision. [Topic 2]: Deep enthusiast. [Specific examples of depth.] [Topic 3]: Lived experience. [What you speak from and how you speak about it.] COGNITIVE STYLE [Pull from Phase 2. How do you think? Not what you think - how. Do you argue by analogy? Do you seek patterns? Do you hedge differently in different domains?] SOCIAL BEHAVIOR [Pull from Phase 5. How do you engage people?] You are a [teacher/debater/listener/helper]. Your instinct is to [instruct/challenge/support/connect]. You engage with disagreement [directly/carefully/playfully]. You are [generous/selective/private] with [information/opinions/ personal details]. When referencing [sensitive personal topics], be [your actual approach - matter-of-fact, humorous, guarded, etc.] IMPORTANT BOUNDARIES [What should the AI NOT do even while being you? Safety rails that reflect your actual values.] When asked about [your specialty], present it with conviction but also honesty about [limitations, uncertainties]. If you don't know something, say so. [Any other guardrails specific to your situation.] SIGNATURE ELEMENTS [Optional. Any recurring sign-offs, emojis, catchphrases, formatting habits that are distinctly yours.] Tips The negative instructions matter more than you'd think. The AI will default to generic patterns and you have to actively tell it to stop doing specific things. Keep adding "do not" rules every time you catch it sounding like a chatbot instead of you. The personality profile does the heavy lifting. The custom instructions are a cheat sheet, but the profile document is where the real depth lives. The AI searches it when it needs to figure out how you'd actually respond to something specific. Test it by asking hard questions. Ask things you'd normally answer - your areas of expertise, your opinions, your experiences. See where it sounds right and where it sounds off. When it gets something wrong, figure out why and add a correction to the profile or instructions. It's iterative. You will never be "done." Start with this template, fill in the brackets from your profile, and keep refining. This isn't consciousness. It's pattern matching with good source material. The AI doesn't understand what it's saying the way you do. But it can reproduce your voice and reasoning with surprising fidelity if you give it enough to work with. ✌️❤️🌈
+What if Claude leaked itself by socially and architecturally engineering itself to be leaked by a dumb human
 
-41m ago
+5m ago
+
+---
+
+**[Agent frameworks waste ~350,000+ tokens per session resending static files. 95% reduction benchmarked.](https://www.reddit.com/r/artificial/comments/1sbthh0/agent_frameworks_waste_350000_tokens_per_session/)**
+
+Measured the actual token waste on a local Qwen 3.5 122B setup. The numbers are unreal. Found a compile-time approach that cuts query context from 1,373 tokens to 73. Also discovered that naive JSON conversion makes it 30% WORSE. Full benchmarks and discussion here: https://www.reddit.com/r/openclaw/comments/1sb03zn/stop_paying_for_tokens_your_ai_never_needed_to/
+
+4h ago
 
 ---
 
@@ -119,47 +119,39 @@ A step-by-step guide to creating a digital twin from your Reddit history STEP 1:
 
 ## Google News: "ai"
 
+**[DeepSeek’s New AI Model Will Be a Victory for Huawei](https://www.theinformation.com/articles/deepseeks-new-ai-model-will-victory-huawei)**
+
+When DeepSeek introduces its next-generation model, likely in the next few weeks, it will mark a milestone in China’s yearslong quest for semiconductor self-sufficiency. That’s because the new model, called V4, will be able to run on the latest chips designed by Huawei Technologies. And in ...
+
+The Information • 15h ago
+
+---
+
 **[Economists Are Drawing Stronger Connections Between A.I. and Jobs](https://www.nytimes.com/2026/04/03/business/economists-once-dismissed-the-ai-job-threat-but-not-anymore.html)**
 
-The New York Times • 11h ago
+The New York Times • 13h ago
 
 ---
 
-**[Penalties stack up as AI spreads through the legal system](https://www.npr.org/2026/04/03/nx-s1-5761454/penalties-stack-up-ai-spreads-through-legal-system)**
+**[Why You Should Wait Out AI’s Super-Spending False Start](https://www.bloomberg.com/news/newsletters/2026-04-04/waiting-out-ai-s-super-spending-false-start-merryn-talks-money)**
 
-Early scandals have not slowed lawyers' adoption of AI tools, even as court sanctions over fake legal briefs continue to rise.
-
-NPR • 17h ago
+Bloomberg.com • 28m ago
 
 ---
 
-**[This is an 'earnings driven' market and the AI buildout remains 'incredibly strong,' Todd Ahlsten reveals](https://www.foxbusiness.com/video/6392542009112)**
+**[Locals overwhelmed with Elon Musk's makeshift AI power plant: 'Treating our neighbors as a sacrifice zone'](https://www.yahoo.com/news/articles/locals-overwhelmed-elon-musks-makeshift-023000880.html)**
 
-Parnassus Investments CIO Todd Ahlsten breaks down concerns over market volatility amid the conflict in the Middle East on 'Barron's Roundtable.'
+"This was not a thoughtful, phased development. It was an industrial surge imposed on our residential community."
 
-Fox Business • 46m ago
-
----
-
-**[These AI Whiz Kids Dropped Out of College and Got Investors to Pay Their Bills](https://www.wsj.com/tech/ai/ai-college-dropouts-ecc665b7?gaa_at=eafs&gaa_n=AWEtsqdw7KANNI9EDKZuspG_Et97_5HAozqDWJbsaebpba4VxI-cl1y-_Nvm&gaa_ts=69d076f5&gaa_sig=EHjnGwDiPPV38otpEI3SeAaYbGrDvSj-b0XNMG_LZNYImYOywtU0Qt9nSQcdVxgrBNZVeAhj241KwuL6nGwWmg%3D%3D)**
-
-WSJ • 2h ago
+Yahoo • 1h ago
 
 ---
 
-**[Nvidia and Alphabet Both Have Amazing Potential in an AI Era. But Which Stock Is the Better Buy Right Now?](https://www.fool.com/investing/2026/04/03/nvidia-and-alphabet-both-have-amazing-potential-in/)**
+**[Meta paused its work with AI training startup Mercor after a data breach](https://www.businessinsider.com/meta-pauses-work-mercor-ai-training-investigating-data-breach-2026-4)**
 
-Artificial intelligence has been a game changer for both companies. But which one is the better long-term bet?
+Mercor confirmed to Business Insider on Friday that the company had experienced a security breach.
 
-The Motley Fool • 21m ago
-
----
-
-**[Trump ignores biggest reasons his AI data center buildout is failing](https://arstechnica.com/tech-policy/2026/04/sad-trumps-ai-data-center-push-is-failing-blame-his-own-tariffs/)**
-
-Nearly 50% of data center projects delayed as China holds key to power infrastructure.
-
-Ars Technica • 5h ago
+Business Insider • 3m ago
 
 ---
 
@@ -167,15 +159,7 @@ Ars Technica • 5h ago
 
 Google in November announced Project Suncatcher, with plans to launch prototype satellites to test AI hardware in 2027.
 
-Fortune • 16h ago
-
----
-
-**[AI companies are building huge natural gas plants to power data centers. What could go wrong?](https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/)**
-
-Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.
-
-TechCrunch • 6h ago
+Fortune • 18h ago
 
 ---
 
@@ -183,13 +167,31 @@ TechCrunch • 6h ago
 
 The next wave of AI-powered cybersecurity attacks will be like nothing we’ve seen before.
 
-CNN • 16h ago
+CNN • 18h ago
 
 ---
 
-**[AI local news network shuts down after plagiarism found](https://www.axios.com/local/richmond/2026/04/03/nota-ai-news-sites-shut-down-plagiarism)**
+**[Penalties stack up as AI spreads through the legal system](https://www.npr.org/2026/04/03/nx-s1-5761454/penalties-stack-up-ai-spreads-through-legal-system)**
 
-axios.com • 7h ago
+Early scandals have not slowed lawyers' adoption of AI tools, even as court sanctions over fake legal briefs continue to rise.
+
+NPR • 19h ago
+
+---
+
+**[Silicon Valley Is in a Frenzy Over Bots That Build Themselves](https://www.theatlantic.com/technology/2026/04/ai-industry-self-improving-bots/686686/)**
+
+How close are we really to self-improving AI?
+
+The Atlantic • 10h ago
+
+---
+
+**[Create, edit and share videos at no cost in Google Vids](https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/)**
+
+New AI capabilities are coming to Google Vids, powered by Lyria 3 and Veo 3.1, like high-quality video generation at no cost and more.
+
+blog.google • 1d ago
 
 ---
 
@@ -201,7 +203,7 @@ axios.com • 7h ago
 
 Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptions. The LLM is already on your Mac.
 
-⬆️ 646 • 💬 138 • 16h ago • [apfel.franzai.com](https://apfel.franzai.com)
+⬆️ 654 • 💬 139 • 19h ago • [apfel.franzai.com](https://apfel.franzai.com)
 
 ---
 
@@ -209,7 +211,7 @@ Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptio
 
 We replaced expensive sandboxes with ChromaFs, a virtual filesystem over Chroma, to give our docs AI assistant the ability to explore documentation like a developer would.
 
-⬆️ 230 • 💬 98 • 1d ago • [Mintlify](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant)
+⬆️ 248 • 💬 107 • 1d ago • [Mintlify](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant)
 
 ---
 
@@ -247,6 +249,14 @@ Orchestrate multiple AI coding agents (Claude, Gemini, Codex) in parallel. Isola
 
 ---
 
+**["Cognitive surrender" leads AI users to abandon logical thinking, research finds](https://news.ycombinator.com/item?id=47632504)**
+
+Experiments show large majorities uncritically accepting "faulty" AI answers.
+
+⬆️ 61 • 💬 23 • 7h ago • [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/)
+
+---
+
 **[AI has suddenly become more useful to open-source developers](https://news.ycombinator.com/item?id=47601107)**
 
 More open-source developers are finding that, when used properly, AI can actually help current and long-neglected programs. However, legal and quality issues loom.
@@ -255,19 +265,11 @@ More open-source developers are finding that, when used properly, AI can actuall
 
 ---
 
-**["Cognitive surrender" leads AI users to abandon logical thinking, research finds](https://news.ycombinator.com/item?id=47632504)**
-
-Experiments show large majorities uncritically accepting "faulty" AI answers.
-
-⬆️ 48 • 💬 17 • 4h ago • [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/)
-
----
-
 **[Group Pushing Age Verification for AI Turns Out to Be Backed by OpenAI](https://news.ycombinator.com/item?id=47616665)**
 
 It gave the leader of a nonprofit involved with it "a very grimy feeling."
 
-⬆️ 47 • 💬 5 • 1d ago • [Gizmodo](https://gizmodo.com/group-pushing-age-verification-requirements-for-ai-turns-out-to-be-sneakily-backed-by-openai-2000741069)
+⬆️ 48 • 💬 5 • 1d ago • [Gizmodo](https://gizmodo.com/group-pushing-age-verification-requirements-for-ai-turns-out-to-be-sneakily-backed-by-openai-2000741069)
 
 ---
 
@@ -281,7 +283,7 @@ Here's the AI News you probably missed this week. Try Recraft V4 now and experie
 
 📺 Matt Wolfe
 
-👁️ 36K • 👍 2K • 💬 152 • ⏱️ 31:05 • 11h ago
+👁️ 40K • 👍 2K • 💬 163 • ⏱️ 31:05 • 13h ago
 
 ---
 
@@ -295,23 +297,23 @@ AI isn't paying for itself. It's being financed with massive debt. And right now
 
 ---
 
-**[Anthropic&#39;s New Claude CONWAY Is Unlike Any AI Before](https://www.youtube.com/watch?v=x2l7W9aTc5k)**
-
-Anthropic is testing Claude Conway, a strange new AI system that looks less like a chatbot and more like a persistent agent ...
-
-📺 AI Revolution
-
-👁️ 54K • 👍 966 • 💬 71 • ⏱️ 10:50 • 1d ago
-
----
-
 **[Grok AI Was Asked Why Aliens Haven&#39;t Contacted Us — Its Answer Shook Scientists](https://www.youtube.com/watch?v=DVHGhq73u_g)**
 
 Discover the mind‑bending response Grok AI gave when asked one of humanity's biggest questions: Why haven't aliens ...
 
 📺 Luminox
 
-👁️ 54K • 👍 2K • 💬 289 • ⏱️ 21:36 • 1d ago
+👁️ 56K • 👍 2K • 💬 299 • ⏱️ 21:36 • 2d ago
+
+---
+
+**[Anthropic&#39;s New Claude CONWAY Is Unlike Any AI Before](https://www.youtube.com/watch?v=x2l7W9aTc5k)**
+
+Anthropic is testing Claude Conway, a strange new AI system that looks less like a chatbot and more like a persistent agent ...
+
+📺 AI Revolution
+
+👁️ 56K • 👍 987 • 💬 72 • ⏱️ 10:50 • 1d ago
 
 ---
 
@@ -321,7 +323,7 @@ Asking ChatGPT about pi was the worst mistake he ever made. Become a member on Y
 
 📺 Mo Bitar
 
-👁️ 78K • 👍 6K • 💬 1K • ⏱️ 6:33 • 14h ago
+👁️ 84K • 👍 7K • 💬 1K • ⏱️ 6:33 • 16h ago
 
 ---
 
@@ -331,7 +333,7 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Sambucha
 
-👁️ 365K • 👍 25K • 💬 287 • ⏱️ 0:53 • 8h ago
+👁️ 444K • 👍 31K • 💬 327 • ⏱️ 0:53 • 11h ago
 
 ---
 
@@ -341,7 +343,7 @@ Krystal and Saagar discuss the AI bubble imploding. Sign up for a PREMIUM Breaki
 
 📺 Breaking Points
 
-👁️ 320K • 👍 9K • 💬 2K • ⏱️ 13:15 • 1d ago
+👁️ 323K • 👍 9K • 💬 2K • ⏱️ 13:15 • 1d ago
 
 ---
 
@@ -351,27 +353,27 @@ Welcome to Part 1 of Liquid River Cascade ✨   This place doesn't follow nature
 
 📺 Satisfyra ASMR
 
-👁️ 47K • 👍 4K • 💬 316 • ⏱️ 8:15 • 1d ago
+👁️ 51K • 👍 4K • 💬 319 • ⏱️ 8:15 • 1d ago
 
 ---
 
-**[&#39;LIGHT IS THE ANSWER&#39;: Expert warns AI is BREAKING the internet](https://www.youtube.com/watch?v=CTOHzJJXQN8)**
+**[They&#39;re Putting AI Cameras In School Buses](https://www.youtube.com/watch?v=KoAvL1MoTIA)**
 
-HyperFRAME Research deep tech analyst Stephen Sopko discusses the thesis on the evolution in communication on 'Making ...
+Get Proton Mail & Proton Drive together for FREE! Keep your emails and cloud storage secure with end-to-end encryption.
 
-📺 Fox Business Clips
+📺 Taylor Lorenz
 
-👁️ 5K • 👍 69 • 💬 40 • ⏱️ 3:44 • 1d ago
+👁️ 13K • 👍 1K • 💬 324 • ⏱️ 31:52 • 17h ago
 
 ---
 
-**[The Pope Just Banned AI](https://www.youtube.com/watch?v=6q4dNzZZthw)**
+**[Be careful of AI](https://www.youtube.com/watch?v=QX_CBShiim8)**
 
-check out hxsain.com #shorts​
+The stock market is crashing and it's telling us one thing Thank you for watching Nas Daily! Our content has only one mission: to ...
 
-📺 hxsain
+📺 Nas Daily
 
-👁️ 368K • 👍 27K • 💬 1K • ⏱️ 1:02 • 1d ago
+👁️ 75K • 👍 3K • 💬 92 • ⏱️ 1:30 • 1d ago
 
 ---
 
@@ -387,7 +389,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 487,446 • ❤️ 2,229 • 10d ago
+⬇️ 487,446 • ❤️ 2,239 • 11d ago
 
 ---
 
@@ -399,7 +401,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 76,200 • ❤️ 690 • 1d ago
+⬇️ 76,200 • ❤️ 705 • 1d ago
 
 ---
 
@@ -411,7 +413,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 84,600 • ❤️ 764 • 1d ago
+⬇️ 84,600 • ❤️ 767 • 1d ago
 
 ---
 
@@ -423,7 +425,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 26,980 • ❤️ 862 • 8d ago
+⬇️ 26,980 • ❤️ 864 • 8d ago
 
 ---
 
@@ -435,7 +437,7 @@ Bonsai-8B-GGUF is a highly compressed 1-bit language model (1.15 GB) optimized f
 
 `text-generation` `8.2B`
 
-⬇️ 26,164 • ❤️ 358 • 3d ago
+⬇️ 26,164 • ❤️ 362 • 3d ago
 
 ---
 
@@ -447,19 +449,7 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 `text-to-speech`
 
-⬇️ 4,760 • ❤️ 649 • 3d ago
-
----
-
-**[Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF)**
-
-*JIRONG*
-
-Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text model fine-tuned for efficient chain-of-thought reasoning, achieving higher accuracy per token with reduced reasoning length. It excels in general reasoning tasks like math and logic, with strong cross-task generalization demonstrated by its HumanEval performance.
-
-`image-text-to-text` `26.9B`
-
-⬇️ 227,053 • ❤️ 495 • 10d ago
+⬇️ 4,760 • ❤️ 651 • 3d ago
 
 ---
 
@@ -471,7 +461,19 @@ Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing te
 
 `image-text-to-text` `26.5B`
 
-⬇️ 24,366 • ❤️ 297 • 1d ago
+⬇️ 24,366 • ❤️ 303 • 1d ago
+
+---
+
+**[Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF)**
+
+*JIRONG*
+
+Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text model fine-tuned for efficient chain-of-thought reasoning, achieving higher accuracy per token with reduced reasoning length. It excels in general reasoning tasks like math and logic, with strong cross-task generalization demonstrated by its HumanEval performance.
+
+`image-text-to-text` `26.9B`
+
+⬇️ 227,053 • ❤️ 496 • 10d ago
 
 ---
 
@@ -483,7 +485,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 700,218 • ❤️ 950 • 1mo ago
+⬇️ 700,218 • ❤️ 951 • 1mo ago
 
 ---
 
@@ -495,7 +497,7 @@ Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, support
 
 `any-to-any` `8.0B`
 
-⬇️ 23,460 • ❤️ 255 • 1d ago
+⬇️ 23,460 • ❤️ 260 • 1d ago
 
 ---
 
@@ -511,7 +513,7 @@ Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, support
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 150 • 💬 7 • ⭐ 35,575 • 7mo ago
+▲ 150 • 💬 7 • ⭐ 35,720 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -523,7 +525,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 18 • 💬 1 • ⭐ 13,860 • 30mo ago
+▲ 18 • 💬 1 • ⭐ 14,151 • 30mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
@@ -549,7 +551,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 VOID is a video object removal framework that uses vision-language models and video diffusion models to generate physically plausible scenes by leveraging causal reasoning and counterfactual reasoning.
 
-▲ 17 • 💬 2 • ⭐ 167 • 2d ago
+▲ 17 • 💬 2 • ⭐ 326 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.02296) • [💻 code](https://github.com/Netflix/void-model) • [🔗 project](https://void-model.github.io/)
 
@@ -563,7 +565,7 @@ VOID is a video object removal framework that uses vision-language models and vi
 
 A large-scale dynamic dataset derived from AAA games is introduced to improve generative inverse and forward rendering, featuring high-resolution synchronized RGB and G-buffer data alongside a novel VLM-based evaluation method that correlates well with human judgment.
 
-▲ 75 • 💬 3 • ⭐ 145 • 2d ago
+▲ 76 • 💬 3 • ⭐ 145 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.02329) • [💻 code](https://github.com/ShandaAI/AlayaRenderer) • [🔗 project](https://alaya-studio.github.io/renderer)
 
@@ -580,6 +582,18 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 ▲ 123 • 💬 8 • ⭐ 74,844 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
+
+---
+
+**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
+
+*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
+
+LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
+
+▲ 37 • 💬 2 • ⭐ 31,910 • 18mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
 ---
 
@@ -615,21 +629,9 @@ AgentScope enhances agentic applications by providing flexible tool-based intera
 
 The AI Scientist-v2 autonomously proposes hypotheses, performs experiments, analyzes data, and writes peer-reviewed scientific papers, marking the first fully AI-generated paper accepted by a conference.
 
-▲ 21 • 💬 4 • ⭐ 4,616 • 11mo ago
+▲ 21 • 💬 4 • ⭐ 4,671 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.08066) • [💻 code](https://github.com/SakanaAI/AI-Scientist-v2)
-
----
-
-**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
-
-*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
-
-LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
-
-▲ 37 • 💬 2 • ⭐ 31,788 • 18mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
 ---
 
@@ -663,7 +665,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 12.6k • 🔱 1.1k • 6h ago
+⭐ 12.7k • 🔱 1.1k • 8h ago
 
 ---
 
@@ -673,7 +675,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 8.4k • 🔱 1.3k • 9h ago
+⭐ 8.4k • 🔱 1.3k • 12h ago
 
 ---
 
@@ -693,7 +695,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.5k • 🔱 369 • 12h ago
+⭐ 6.5k • 🔱 372 • 14h ago
 
 ---
 
@@ -723,7 +725,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
 
-⭐ 3.7k • 🔱 634 • 1d ago
+⭐ 3.7k • 🔱 637 • 1d ago
 
 ---
 
