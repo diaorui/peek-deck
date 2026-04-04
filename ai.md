@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-04T09:06:25.727205+00:00'
+updated: '2026-04-04T10:01:40.405077+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- videos
 - social
 - news
-- videos
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 04, 2026 at 09:06 UTC  
+**Last Updated:** April 04, 2026 at 10:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The offering is expected to be the largest in history.
 
-🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/elon-musk-requires-banks-behind-185412887.html) • 6h ago
+🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/elon-musk-requires-banks-behind-185412887.html) • 7h ago
 
 ---
 
@@ -49,13 +49,13 @@ The offering is expected to be the largest in history.
 
 My friend came over yesterday to dye her hair. She had asked ChatGPT for the 'correct' way to do it. Chat told her to dye the ends first, wait about 20 minutes, and then do the roots. Because of my own experience with dyeing my hair, that made me sceptical, so I read the instructions in the box dye package. It specifically said to mix it and apply everything all at once. That's how this particular formula is designed to work. I read the instructions on the package out loud and told her we should just follow what the manufacturer says. She got visibly stressed and told me that 'ChatGPT said to do it differently'. I pointed out that the company who made the dye probably knows how their own product is supposed to be applied. She still got visibly anxious about going against what ChatGPT told her to do. It was such a weird moment. She was genuinely stressed about ignoring the AI even though the real instructions were right there in her hands. Has anybody had similar experiences?
 
-1h ago
+2h ago
 
 ---
 
 **[OpenAI CEO Sam Altman accused of sexual abuse by family member](https://www.reddit.com/r/artificial/comments/1sc3kpj/openai_ceo_sam_altman_accused_of_sexual_abuse_by/)**
 
-🔗 [The Independent](https://www.independent.co.uk/bulletin/news/sam-altman-lawsuit-abuse-sexual-assault-sister-annie-b2950929.html) • 54m ago
+🔗 [The Independent](https://www.independent.co.uk/bulletin/news/sam-altman-lawsuit-abuse-sexual-assault-sister-annie-b2950929.html) • 1h ago
 
 ---
 
@@ -63,13 +63,13 @@ My friend came over yesterday to dye her hair. She had asked ChatGPT for the 'co
 
 : Staff reportedly cite ethics concerns, privacy worries, and doubt the platform adds much
 
-🔗 [theregister.com](https://www.theregister.com/2026/04/03/nhs_staff_against_palantir/) • 8h ago
+🔗 [theregister.com](https://www.theregister.com/2026/04/03/nhs_staff_against_palantir/) • 9h ago
 
 ---
 
 **[China moves to regulate digital humans , issues draft rules](https://www.reddit.com/r/artificial/comments/1sc3hhu/china_moves_to_regulate_digital_humans_issues/)**
 
-🔗 [thebroadpost.com](https://www.thebroadpost.com/blog/china-moves-to-regulate-digital-humans-issues-draft-rules) • 59m ago
+🔗 [thebroadpost.com](https://www.thebroadpost.com/blog/china-moves-to-regulate-digital-humans-issues-draft-rules) • 1h ago
 
 ---
 
@@ -83,7 +83,7 @@ My friend came over yesterday to dye her hair. She had asked ChatGPT for the 'co
 
 I keep seeing people focus heavily on prompt optimization. But in practice, a lot of failures I’ve observed don’t come from the prompt itself. They show up at the transition point where: model output → real-world action Examples: - outputs that are correct in isolation but wrong in context - timing mismatches (right decision, wrong moment) - differences between environments (test vs live) - small context gaps that compound into bad outcomes The pattern seems consistent: improving prompt quality doesn’t solve these failures. Because the issue isn’t generation — it’s what happens when outputs are interpreted, trusted, and acted on. Curious how others here think about this layer, especially in deployed systems..
 
-2h ago
+3h ago
 
 ---
 
@@ -91,7 +91,7 @@ I keep seeing people focus heavily on prompt optimization. But in practice, a lo
 
 Advice from the study's co-author: "Be aware that it’s not any single post that identifies you, but the combination of small details across many posts. And consider never posting anything you truly don’t want shared with the world.”
 
-🔗 [wjamesau.substack.com](https://wjamesau.substack.com/p/warning-llms-able-to-de-anonymize) • 13h ago
+🔗 [wjamesau.substack.com](https://wjamesau.substack.com/p/warning-llms-able-to-de-anonymize) • 14h ago
 
 ---
 
@@ -99,7 +99,7 @@ Advice from the study's co-author: "Be aware that it’s not any single post tha
 
 I’ve been digging into AI security incident data from 2025 into this year, and it feels like something isn’t being talked about enough outside security circles. A lot of the issues aren’t advanced attacks. It’s the same pattern we’ve seen with new tech before. Things like prompt injection through external data, agents with too many permissions, or employees using AI tools the company doesn’t even know about. One stat I saw said enterprises are averaging 300+ unsanctioned AI apps, which is kind of wild. The incident data reflects that. Prompt injection is showing up in a large percentage of production deployments. There’s also been a noticeable increase in attacks exploiting basic gaps, partly because AI is making it easier for attackers to find weaknesses faster. Even credential leaks tied to AI usage have been increasing. What stood out to me isn’t just the attacks, it’s the gap underneath it. Only a small portion of companies actually have dedicated AI security teams. In many cases, AI security isn’t even owned by security teams. The tricky part is that traditional security knowledge only gets you part of the way. Some concepts carry over, like input validation or trust boundaries, but the details are different enough that your usual instincts don’t fully apply. Prompt injection isn’t the same as SQL injection. Agent permissions don’t behave like typical API auth. There are frameworks trying to catch up. OWASP now has lists for LLMs and agent-based systems. MITRE ATLAS maps AI-specific attack techniques. NIST has an AI risk framework. The guidance exists, but the number of people who can actually apply it feels limited. I’ve been trying to build that knowledge myself and found that more hands-on learning helps a lot more than just reading docs. Curious how others here are approaching this. If you’re building or working with AI systems, are you thinking about security upfront or mostly dealing with it after things are already live? Sources for those interested: AI Agent Security 2026 Report IBM 2026 X-Force Threat Index Adversa AI Security Incidents Report 2025 Acuvity State of AI Security 2025 OWASP Top 10 for LLM Applications OWASP Top 10 for Agentic AI MITRE ATLAS Framework
 
-17h ago
+18h ago
 
 ---
 
@@ -107,7 +107,7 @@ I’ve been digging into AI security incident data from 2025 into this year, and
 
 idk if it’s just me but lately i’ve been thinking about how casually we use stuff like chatgpt and claude for everything like coding, random ideas, sometimes even personal things and i don’t think most of us really know what happens to that data after we send it we just kind of assume it’s fine because the tools are useful also saw some discussion recently about AI companies and governments asking for user data (not sure how accurate it was), but it kind of made me think more about this whole thing i’m not saying anything bad is happening, just feels like we’ve gotten comfortable really fast without thinking much about it do you guys filter what you share or just use it normally?
 
-12h ago
+13h ago
 
 ---
 
@@ -117,13 +117,13 @@ idk if it’s just me but lately i’ve been thinking about how casually we use 
 
 **[Economists Are Drawing Stronger Connections Between A.I. and Jobs](https://www.nytimes.com/2026/04/03/business/economists-once-dismissed-the-ai-job-threat-but-not-anymore.html)**
 
-nytimes.com • 18h ago
+nytimes.com • 19h ago
 
 ---
 
 **[AI is rewiring the world’s most prolific film industry](https://www.reuters.com/technology/ai-is-rewiring-worlds-most-prolific-film-industry-2026-04-04/)**
 
-reuters.com • 4h ago
+reuters.com • 5h ago
 
 ---
 
@@ -131,7 +131,7 @@ reuters.com • 4h ago
 
 TECH AFFAIRS: Research by Israeli cybersecurity company Check Point found a weakness in ChatGPT’s system that could allow someone to extract data without triggering any alarms.
 
-The Jerusalem Post • 1h ago
+The Jerusalem Post • 2h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Jerusalem Post • 1h ago
 
 Tech News News: McKinsey reportedly has a new leadership playbook for the AI era and its message is clear: It's time for companies to cut the extra layers in manageme.
 
-timesofindia.indiatimes.com • 1h ago
+timesofindia.indiatimes.com • 2h ago
 
 ---
 
@@ -155,7 +155,7 @@ blog.google • 1d ago
 
 How close are we really to self-improving AI?
 
-The Atlantic • 15h ago
+The Atlantic • 16h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Atlantic • 15h ago
 
 The next wave of AI-powered cybersecurity attacks will be like nothing we’ve seen before.
 
-CNN • 23h ago
+CNN • 1d ago
 
 ---
 
@@ -171,7 +171,7 @@ CNN • 23h ago
 
 HarperCollins is tapping into AI to bring some of its book franchises to life.
 
-Engadget • 11h ago
+Engadget • 12h ago
 
 ---
 
@@ -179,7 +179,7 @@ Engadget • 11h ago
 
 The danger is not that it will replace human-authored books — but that we stop caring about good writing at all
 
-Financial Times • 5h ago
+Financial Times • 6h ago
 
 ---
 
@@ -187,7 +187,7 @@ Financial Times • 5h ago
 
 The horror novel “Shy Girl” was cancelled for being generated at least partly through artificial intelligence. Would we ever accept such a book as art?
 
-The New Yorker • 23h ago
+The New Yorker • 1d ago
 
 ---
 
@@ -199,7 +199,7 @@ The New Yorker • 23h ago
 
 Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptions. The LLM is already on your Mac.
 
-⬆️ 672 • 💬 140 • 23h ago • [apfel.franzai.com](https://apfel.franzai.com)
+⬆️ 672 • 💬 140 • 1d ago • [apfel.franzai.com](https://apfel.franzai.com)
 
 ---
 
@@ -241,7 +241,7 @@ Meta is continuing its long-term roadmap to help the construction industry lever
 
 Experiments show large majorities uncritically accepting "faulty" AI answers.
 
-⬆️ 75 • 💬 30 • 11h ago • [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/)
+⬆️ 75 • 💬 30 • 12h ago • [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/)
 
 ---
 
@@ -249,7 +249,7 @@ Experiments show large majorities uncritically accepting "faulty" AI answers.
 
 AI-powered travel hacking with points, miles, and award flights. Drop-in skills and MCP servers for OpenCode and Claude Code. - borski/travel-hacking-toolkit
 
-⬆️ 69 • 💬 30 • 6h ago • [GitHub](https://github.com/borski/travel-hacking-toolkit)
+⬆️ 69 • 💬 30 • 7h ago • [GitHub](https://github.com/borski/travel-hacking-toolkit)
 
 ---
 
@@ -279,7 +279,7 @@ Here's the AI News you probably missed this week. Try Recraft V4 now and experie
 
 📺 Matt Wolfe
 
-👁️ 47K • 👍 2K • 💬 175 • ⏱️ 31:05 • 18h ago
+👁️ 47K • 👍 2K • 💬 175 • ⏱️ 31:05 • 19h ago
 
 ---
 
@@ -319,7 +319,7 @@ Asking ChatGPT about pi was the worst mistake he ever made. Become a member on Y
 
 📺 Mo Bitar
 
-👁️ 95K • 👍 7K • 💬 1K • ⏱️ 6:33 • 21h ago
+👁️ 95K • 👍 7K • 💬 1K • ⏱️ 6:33 • 22h ago
 
 ---
 
@@ -339,7 +339,7 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Sambucha
 
-👁️ 637K • 👍 43K • 💬 405 • ⏱️ 0:53 • 15h ago
+👁️ 637K • 👍 43K • 💬 405 • ⏱️ 0:53 • 16h ago
 
 ---
 
@@ -349,7 +349,7 @@ AI Decoded explores how artificial intelligence is reshaping the future of work 
 
 📺 BBC News
 
-👁️ 21K • 👍 574 • 💬 122 • ⏱️ 26:12 • 20h ago
+👁️ 21K • 👍 574 • 💬 122 • ⏱️ 26:12 • 21h ago
 
 ---
 
@@ -369,7 +369,7 @@ This video showcases a symbolic fragment of the extensive traditional Sakha wedd
 
 📺 SNOW RAVEN 
 
-👁️ 5K • 👍 634 • 💬 53 • ⏱️ 4:33 • 17h ago
+👁️ 5K • 👍 634 • 💬 53 • ⏱️ 4:33 • 18h ago
 
 ---
 
@@ -661,7 +661,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 12.8k • 🔱 1.1k • 39m ago
+⭐ 12.8k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -671,7 +671,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 8.4k • 🔱 1.3k • 16h ago
+⭐ 8.4k • 🔱 1.3k • 17h ago
 
 ---
 
@@ -691,7 +691,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.6k • 🔱 375 • 1h ago
+⭐ 6.6k • 🔱 375 • 2h ago
 
 ---
 
@@ -701,7 +701,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.0k • 🔱 1.5k • 45m ago
+⭐ 5.0k • 🔱 1.5k • 1h ago
 
 ---
 
