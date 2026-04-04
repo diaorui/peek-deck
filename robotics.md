@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-04T18:43:49.058405+00:00'
+updated: '2026-04-04T19:31:48.359002+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 04, 2026 at 18:43 UTC  
+**Last Updated:** April 04, 2026 at 19:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Robots are starting to enter one of the most sensitive environments we have.](https://www.reddit.com/r/robotics/comments/1scemxg/robots_are_starting_to_enter_one_of_the_most/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 hi, i've been working on browser-based robotics simulation and wanted to get some feedback. as of now, one can control/simulate, unitree g1, h1, go1, bostons, franka panda arm, or create your own robot. we're working on few more things. 1. training module to train policies directly in browser based on behaviour cloning + RL. 2. rent a robot - to see your trainings in simulations vs on real robots in real world, 3. and much more https://reddit.com/link/1sc8t84/video/jc23l5jas5tg1/player
 
-5h ago
+6h ago
 
 ---
 
@@ -56,7 +56,7 @@ hi, i've been working on browser-based robotics simulation and wanted to get som
 
 i have 3 boards now which are dead ig because the red light in it is lighting up but it not getting connected i am using a 3.7v battery a charging module a touch sensor a 1.3 inch oled it was working fine i was using it from my computer but after some time its not working even if im connection it to my pc
 
-3h ago
+4h ago
 
 ---
 
@@ -64,7 +64,7 @@ i have 3 boards now which are dead ig because the red light in it is lighting up
 
 https://www.youtube.com/@ALMA.GeoffreyAment Chapter 3 Footnote 1. Building an Actuator, a PID Control Loop, and an Ultrasonic Distance sensor to detect and not crash into the ceiling. This will be used in Chapter 3 Desk -- Stay tuned for more!
 
-32m ago
+1h ago
 
 ---
 
@@ -72,7 +72,7 @@ https://www.youtube.com/@ALMA.GeoffreyAment Chapter 3 Footnote 1. Building an Ac
 
 I'm building a CI tool for ROS 2 simulation testing and looking for a few teams to try it out and give feedback. The idea: you connect your GitHub repo, every push runs your existing colcon tests inside a headless Gazebo container on cloud infra. You get a dashboard that shows pass/fail across runs and flags when a test that used to pass starts failing. If it works with colcon test locally, it works here. It's still in beta, and I'm mainly looking for feedback on whether this actually solves a real pain point or if I'm building something nobody needs. Currently supports ROS 2 + Gazebo, working on adding more simulators. If you're on ROS 2 and have simulation tests (or want to but CI for sim feels like too much work), DM me or drop a comment and I'll send you access.
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ Appreciate all the feedback and love on the recent videos, here's another clip o
 
 Hi guys, can u recommend me which sensor i should use in my robotic gripper as a sensing touch of object in fingers, it will be flat contact between object and sensor. I cant decide between velostat or FSR or do you know about some better type ?
 
-3h ago
+4h ago
 
 ---
 
@@ -144,7 +144,7 @@ IEEE Spectrum • 2d ago
 
 Spacesuit work and eye checks wrapped up the week for the Expedition 74 crew aboard the International Space Station. The orbital residents also focused on robotics, cargo transfers, and science hardware maintenance at the end of the week.
 
-NASA (.gov) • 21h ago
+NASA (.gov) • 22h ago
 
 ---
 
@@ -152,7 +152,7 @@ NASA (.gov) • 21h ago
 
 Both of these companies are proven trailblazers.
 
-The Motley Fool • 57m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -182,7 +182,7 @@ University of Cincinnati • 22h ago
 
 The team has won three regional events and competed at the FIRST World Championship three times.
 
-KIMT • 2h ago
+KIMT • 3h ago
 
 ---
 
@@ -196,7 +196,7 @@ Samsung is drawing significant attention with its new concept known as “Galaxy
 
 📺 Carros Show
 
-👁️ 6K • 👍 156 • 💬 8 • ⏱️ 8:25 • 5d ago
+👁️ 6K • 👍 156 • 💬 8 • ⏱️ 8:25 • 6d ago
 
 ---
 
