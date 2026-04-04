@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-04T20:33:48.944864+00:00'
+updated: '2026-04-04T21:33:08.882963+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
+- social
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 04, 2026 at 20:33 UTC  
+**Last Updated:** April 04, 2026 at 21:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1346.49B
+**Market Cap:** $1345.95B
 Rank #1
 
-**Circulating Supply:** 20,011,378 BTC
+**Circulating Supply:** 20,011,434 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--46.6%
+-46.7%
 
 **All-Time Low:** $67.81
-+99146.4%
++99086.0%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Hi, Whats your perspective on this?
 
-6h ago
+7h ago
 
 ---
 
@@ -89,7 +89,7 @@ Hi, Whats your perspective on this?
 
 Hi my father had an Android S20 FE and we cannot figure out his password to get in. We know he had bitcoin from early 2015, any ideas on how to get into it, brute force?
 
-14h ago
+15h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hi my father had an Android S20 FE and we cannot figure out his password to get 
 
 Hi, I don't have a bank account and there isn't any ATMs around me I can use to buy cryptocurrencies. I bought a vanilla card online to buy crypto. How can I do so? Thank you.
 
-8h ago
+9h ago
 
 ---
 
@@ -105,7 +105,7 @@ Hi, I don't have a bank account and there isn't any ATMs around me I can use to 
 
 In my opinion Bitcoin offers various benefits depending on how you use it. For example, the most basic level is holding Bitcoin through an ETF. You can't leave the country with your Bitcoin in just 12 memorized words, it's the most basic way to hold Bitcoin, only using it for the NGU. It's slightly better if you hold Bitcoin on an exchange, at least you could send the BTC to someone else as money. The next level is to hold it in self-custody with KYC. At least you no longer have the risk of the exchange going bankrupt or your accounts being blocked, but you're a slave to the government that knows about your BTC. And the ultimate, best way is to hold it in self-custody without KYC. This is where all the benefits of BTC are unlocked, the most powerful way to fight the system. If you're at the initial levels, I advise you to gradually work your way up to the higher level Bitcoin holding way.
 
-3h ago
+4h ago
 
 ---
 
@@ -113,7 +113,7 @@ In my opinion Bitcoin offers various benefits depending on how you use it. For e
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-14h ago
+15h ago
 
 ---
 
@@ -121,7 +121,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Bitcoin isn’t just about "number go up"—it’s about changing the fundamental architecture of how we fund global conflict. ​For decades, the legacy financial system has allowed governments to engage in endless, "forever" wars through the hidden tax of inflation. When a government can print money at will to fund military expansion, the true cost of war is hidden from the public, devaluing our savings and our future in the process. BITCOIN FIXES THIS! By operating on a fixed supply of 21 million, Bitcoin removes the "money printer" as a primary funding source for war. In a hard-money world, governments have to be honest about their budgets. They can’t just dilute the currency to bankroll destruction; they have to ask the people for taxes, making the cost of conflict transparent and immediate. It’s time to move toward a system that incentivizes production and peace over debt and destruction. Bitcoin is the separation of money and state, and it might be our best shot at ending the cycle of endless war.
 
-19h ago
+20h ago
 
 ---
 
@@ -129,7 +129,7 @@ Bitcoin isn’t just about "number go up"—it’s about changing the fundamenta
 
 Der ausführliche Test des NerdOctaxe Bitcoin Miner. Leistung, Effizienz, Funktionen.
 
-🔗 [renditecloud.com](https://renditecloud.com/2026/03/18/nerdoctaxe-gamma-bitcoin-miner-im-test/) • 2h ago
+🔗 [renditecloud.com](https://renditecloud.com/2026/03/18/nerdoctaxe-gamma-bitcoin-miner-im-test/) • 3h ago
 
 ---
 
@@ -137,7 +137,7 @@ Der ausführliche Test des NerdOctaxe Bitcoin Miner. Leistung, Effizienz, Funkti
 
 At what point do I start running my own node?
 
-20h ago
+21h ago
 
 ---
 
@@ -145,7 +145,7 @@ At what point do I start running my own node?
 
 Hey all, I will try to keep responding to replies on the original post, I got blocked from my own post because I was responding too quickly. Here is the update, and we are wondering which way to go with this as we have the laptop working and the owner says she does remember that the wallet lived on the TOR browser. There are apparently two wallets that were available on TOR at that time: Electrum and Coinwallet. She believes it is Coinwallet. That being said, we don't know much about TOR, but it makes sense to try and access TOR and hopefully Coinwallet on the original laptop, but we can't seem to connect, as it gets to 5% bootstrapping "connecting to directory server" in the log, and "connecting to a relay directory" under the Status bar. Hoping someone could give us some guidance on how to proceed. We loaded TOR on her current laptop, and wasn't sure where to go from there. We also downloaded Coinwallet to her current laptop, running into the passphrase requirement. I believe there should be 12. This brings us to the second avenue of approach, as we found a text file with 30,000 words, groups of numbers and number/letter combinations. About 270 of them are common with the 2048 word list. This list was apparently created by the person that set up the wallet/TOR for her and this person was a cybersecurity expert for the DoD. Might this be able to be parsed/decoded with a program? We entered the first 12 words that appeared on both lists in the order of appearance into the Coinwallet passphrase box on her current laptop with no success. She is going to keep looking around on both drives (it was switched out between the dates of the first and last transactions on the Coinbase exchange log) to see if anything else jogs her memory. Thanks in advance for any help/advice!
 
-12h ago
+13h ago
 
 ---
 
@@ -163,7 +163,7 @@ Hey all, I will try to keep responding to replies on the original post, I got bl
 
 CryptoQuant data shows overall bitcoin demand is contracting at -63,000 BTC per month even as institutional buyers accelerate purchases, with large holders distributing nearly 188,000 BTC over the past year.
 
-coindesk.com • 9h ago
+coindesk.com • 10h ago
 
 ---
 
@@ -171,7 +171,7 @@ coindesk.com • 9h ago
 
 Financial giant Charles Schwab is set to launch spot buying of Bitcoin and Ethereum by the end of the quarter, the firm said Friday.
 
-Decrypt • 23h ago
+Decrypt • 1d ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 1d ago
 
 **[‘You Have Until 2029’—Urgent Musk Bitcoin Warning Spurs Coinbase CEO Flip As Price Crash Fears Swirl](https://www.forbes.com/sites/digital-assets/2026/04/04/you-have-until-2029-urgent-elon-musk-bitcoin-warning-suddenly-triggers-price-crash-fears/)**
 
-Forbes • 8h ago
+Forbes • 9h ago
 
 ---
 
@@ -217,7 +217,7 @@ theblock.co • 1d ago
 
 On-chain data shows the large Bitcoin holders have been participating in a notable amount of loss realization recently, a sign of capitulation.Bitcoin Sharks & Whales See High Values On Realized Loss MetricIn a new post on X, on-chain analytics firm Glassnode has talked about the latest trend in th…
 
-TradingView • 14h ago
+TradingView • 15h ago
 
 ---
 
@@ -321,7 +321,7 @@ Markets cracked, oil surged, Bitcoin dipped, and Larry Fink is warning that a pr
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 94 • ⏱️ 14:11 • 23h ago
+👁️ 18K • 👍 1K • 💬 97 • ⏱️ 14:11 • 1d ago
 
 ---
 
@@ -331,7 +331,27 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 17K • 👍 1K • 💬 21 • ⏱️ 45:08 • 7h ago
+👁️ 25K • 👍 2K • 💬 21 • ⏱️ 45:08 • 8h ago
+
+---
+
+**[WARNING: Bitcoin is 11 Days Away from a MASSIVE Move! (ETH, XRP, SOL, AVAX)](https://www.youtube.com/watch?v=_Eb6fYPj4TY)**
+
+Welcome back to Verified Investing! In today's urgent crypto market update, Chief Market Strategist Gareth Soloway dives deep ...
+
+📺 Gareth Soloway
+
+👁️ 31K • 👍 3K • 💬 231 • ⏱️ 11:47 • 4h ago
+
+---
+
+**[CNBC Today: The Greatest Crypto Bull Run Of Our Lifetime HAPPENING NOW](https://www.youtube.com/watch?v=Q_FFfWvq-z8)**
+
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEEX Poker Party is LIVE ($30k Bonus): ...
+
+📺 Altcoin Daily
+
+👁️ 38K • 👍 2K • 💬 280 • ⏱️ 8:47 • 23h ago
 
 ---
 
@@ -345,23 +365,13 @@ Trump speaks… and markets crash again! Bitcoin fell to $66K, and in just 25 mi
 
 ---
 
-**[WARNING: Bitcoin is 11 Days Away from a MASSIVE Move! (ETH, XRP, SOL, AVAX)](https://www.youtube.com/watch?v=_Eb6fYPj4TY)**
+**[I Was Wrong on Bitcoin (4 Year Cycle)](https://www.youtube.com/watch?v=Wr5JUmUuxrY)**
 
-Welcome back to Verified Investing! In today's urgent crypto market update, Chief Market Strategist Gareth Soloway dives deep ...
+The Bitcoin 4 year cycle somehow continues... here's what's next BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Gareth Soloway
+📺 Lark Davis
 
-👁️ 11K • 👍 1K • 💬 111 • ⏱️ 11:47 • 3h ago
-
----
-
-**[CNBC Today: The Greatest Crypto Bull Run Of Our Lifetime HAPPENING NOW](https://www.youtube.com/watch?v=Q_FFfWvq-z8)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEEX Poker Party is LIVE ($30k Bonus): ...
-
-📺 Altcoin Daily
-
-👁️ 36K • 👍 2K • 💬 266 • ⏱️ 8:47 • 22h ago
+👁️ 12K • 👍 664 • 💬 179 • ⏱️ 12:12 • 8h ago
 
 ---
 
@@ -371,7 +381,7 @@ Welcome back! More Iran announcements over the weekend but Bitcoin is holding up
 
 📺 Aaron Bennett
 
-👁️ 5K • 👍 333 • 💬 180 • ⏱️ 6:51 • 14h ago
+👁️ 5K • 👍 347 • 💬 182 • ⏱️ 6:51 • 15h ago
 
 ---
 
@@ -381,7 +391,7 @@ April will be a big month for crypto - ACT NOW! WEEX Poker Party is LIVE: https:
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 215 • ⏱️ 9:31 • 1d ago
+👁️ 41K • 👍 2K • 💬 216 • ⏱️ 9:31 • 1d ago
 
 ---
 
@@ -391,17 +401,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Buy
 
 📺 Altcoin Daily
 
-👁️ 8K • 👍 244 • 💬 150 • ⏱️ 1:07 • 1d ago
-
----
-
-**[I Was Wrong on Bitcoin (4 Year Cycle)](https://www.youtube.com/watch?v=Wr5JUmUuxrY)**
-
-The Bitcoin 4 year cycle somehow continues... here's what's next BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 9K • 👍 560 • 💬 158 • ⏱️ 12:12 • 7h ago
+👁️ 9K • 👍 248 • 💬 150 • ⏱️ 1:07 • 1d ago
 
 ---
 
@@ -411,7 +411,7 @@ Bitcoin #Crypto #Finance Bitcoin is facing pressure with growing calls for poten
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 850 • 💬 162 • ⏱️ 29:42 • 1d ago
+👁️ 12K • 👍 856 • 💬 163 • ⏱️ 29:42 • 1d ago
 
 ---
 

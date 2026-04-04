@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-04T20:33:48.954013+00:00'
+updated: '2026-04-04T21:33:08.892160+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 04, 2026 at 20:33 UTC  
+**Last Updated:** April 04, 2026 at 21:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 I was brought in to do some work on a pair of R-2000 Fanuc's a few years back and saw this on the safety fencing of the work cell.
 
-1h ago
+2h ago
 
 ---
 
 **[Robots are starting to enter one of the most sensitive environments we have.](https://www.reddit.com/r/robotics/comments/1scemxg/robots_are_starting_to_enter_one_of_the_most/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -50,7 +50,7 @@ I was brought in to do some work on a pair of R-2000 Fanuc's a few years back an
 
 Researchers in the United States have developed air-powered artificial muscles that significantly enhance robots’ strength and mobility. This new technology enables robots to lift and carry loads many times their own weight more efficiently and with greater flexibility.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/artificial-muscles-robot-lift-more-weight) • 1h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/artificial-muscles-robot-lift-more-weight) • 2h ago
 
 ---
 
@@ -58,7 +58,7 @@ Researchers in the United States have developed air-powered artificial muscles t
 
 https://www.youtube.com/@ALMA.GeoffreyAment Chapter 3 Footnote 1. Building an Actuator, a PID Control Loop, and an Ultrasonic Distance sensor to detect and not crash into the ceiling. This will be used in Chapter 3 Desk -- Stay tuned for more!
 
-2h ago
+3h ago
 
 ---
 
@@ -66,7 +66,7 @@ https://www.youtube.com/@ALMA.GeoffreyAment Chapter 3 Footnote 1. Building an Ac
 
 hi, i've been working on browser-based robotics simulation and wanted to get some feedback. as of now, one can control/simulate, unitree g1, h1, go1, bostons, franka panda arm, or create your own robot. we're working on few more things. 1. training module to train policies directly in browser based on behaviour cloning + RL. 2. rent a robot - to see your trainings in simulations vs on real robots in real world, 3. and much more https://reddit.com/link/1sc8t84/video/jc23l5jas5tg1/player
 
-7h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ hi, i've been working on browser-based robotics simulation and wanted to get som
 
 I'm building a CI tool for ROS 2 simulation testing and looking for a few teams to try it out and give feedback. The idea: you connect your GitHub repo, every push runs your existing colcon tests inside a headless Gazebo container on cloud infra. You get a dashboard that shows pass/fail across runs and flags when a test that used to pass starts failing. If it works with colcon test locally, it works here. It's still in beta, and I'm mainly looking for feedback on whether this actually solves a real pain point or if I'm building something nobody needs. Currently supports ROS 2 + Gazebo, working on adding more simulators. If you're on ROS 2 and have simulation tests (or want to but CI for sim feels like too much work), DM me or drop a comment and I'll send you access.
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ I'm building a CI tool for ROS 2 simulation testing and looking for a few teams 
 
 i have 3 boards now which are dead ig because the red light in it is lighting up but it not getting connected i am using a 3.7v battery a charging module a touch sensor a 1.3 inch oled it was working fine i was using it from my computer but after some time its not working even if im connection it to my pc
 
-5h ago
+6h ago
 
 ---
 
@@ -104,7 +104,7 @@ Appreciate all the feedback and love on the recent videos, here's another clip o
 
 Hi guys, can u recommend me which sensor i should use in my robotic gripper as a sensing touch of object in fingers, it will be flat contact between object and sensor. I cant decide between velostat or FSR or do you know about some better type ?
 
-5h ago
+6h ago
 
 ---
 
@@ -138,7 +138,7 @@ IEEE Spectrum • 2d ago
 
 Both of these companies are proven trailblazers.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -146,7 +146,7 @@ The Motley Fool • 2h ago
 
 Spacesuit work and eye checks wrapped up the week for the Expedition 74 crew aboard the International Space Station. The orbital residents also focused on robotics, cargo transfers, and science hardware maintenance at the end of the week.
 
-NASA (.gov) • 23h ago
+NASA (.gov) • 1d ago
 
 ---
 
@@ -168,7 +168,7 @@ Fast Company • 1d ago
 
 UC 1819 Innovation Hub hosts AI Robotics Summit. Various segments, such as aerospace and defense, healthcare, logistics and manufacturing will be on display.
 
-University of Cincinnati • 23h ago
+University of Cincinnati • 1d ago
 
 ---
 
@@ -198,7 +198,7 @@ Samsung is drawing significant attention with its new concept known as “Galaxy
 
 📺 Carros Show
 
-👁️ 6K • 👍 156 • 💬 8 • ⏱️ 8:25 • 6d ago
+👁️ 6K • 👍 157 • 💬 8 • ⏱️ 8:25 • 6d ago
 
 ---
 
@@ -208,7 +208,7 @@ Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In t
 
 📺 Shawn Ryan Show
 
-👁️ 902K • 👍 35K • 💬 5K • ⏱️ 8:48 • 3d ago
+👁️ 915K • 👍 35K • 💬 5K • ⏱️ 8:48 • 3d ago
 
 ---
 
@@ -218,17 +218,7 @@ Brett Adcock is a technology entrepreneur focused on building companies in robot
 
 📺 Shawn Ryan Show
 
-👁️ 505K • 👍 10K • 💬 3K • ⏱️ 2:57:09 • 5d ago
-
----
-
-**[Xiaomi Unveils &quot;Mi Bot&quot; - Robot Assistant That Can Sell Phones](https://www.youtube.com/watch?v=WgxEbw1i_PM)**
-
-Xiaomi is attracting attention with a new concept known as “Mi Bot,” a robotic assistant designed to operate in retail environments ...
-
-📺 Carros Show
-
-👁️ 5K • 👍 101 • 💬 3 • ⏱️ 8:55 • 5d ago
+👁️ 506K • 👍 10K • 💬 3K • ⏱️ 2:57:09 • 5d ago
 
 ---
 
@@ -238,37 +228,35 @@ Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking
 
 📺 The AI Nexus
 
-👁️ 4K • 👍 182 • 💬 13 • ⏱️ 20:43 • 3d ago
+👁️ 4K • 👍 183 • 💬 13 • ⏱️ 20:43 • 3d ago
 
 ---
 
-**[I broke a robot in China](https://www.youtube.com/watch?v=7U3vjVfwChc)**
+**[Xiaomi Unveils &quot;Mi Bot&quot; - Robot Assistant That Can Sell Phones](https://www.youtube.com/watch?v=WgxEbw1i_PM)**
 
-China is leading the world in humanoid robot shipments. Powered by artificial intelligence, these machines are setting new ...
+Xiaomi is attracting attention with a new concept known as “Mi Bot,” a robotic assistant designed to operate in retail environments ...
 
-📺 CGTN
+📺 Carros Show
 
-👁️ 33K • 👍 284 • 💬 57 • ⏱️ 1:54 • 2d ago
-
----
-
-**[Every Home Will Have a Humanoid Robot in 10 Years](https://www.youtube.com/watch?v=u4NLSzMP8z0)**
-
-Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join Support the Shawn ...
-
-📺 Shawn Ryan Clips
-
-👁️ 10K • 👍 337 • 💬 136 • ⏱️ 15:18 • 4d ago
+👁️ 5K • 👍 101 • 💬 3 • ⏱️ 8:55 • 6d ago
 
 ---
 
-**[Robot waifus, RIP Sora, GLM-5.1, AI brain scans, Google realtime voice: AI NEWS](https://www.youtube.com/watch?v=6Il0CJx9yU8)**
+**[Female Robots 🤖 Serving food now 😂](https://www.youtube.com/watch?v=AqxWV9ij4BY)**
 
-HUGE AI NEWS: GLM-5.1, daVinci MagiHuman, ARC-AGI 3, PrismAudio, Matrix Game, & more #ai #ainews #aitools #aivideo ...
+📺 Mike Mizzle
 
-📺 AI Search
+👁️ 137K • 👍 5K • 💬 273 • ⏱️ 0:44 • 2d ago
 
-👁️ 121K • 👍 5K • 💬 539 • ⏱️ 47:29 • 6d ago
+---
+
+**[Fat Jinu Does the Robot Trend 🤯](https://www.youtube.com/watch?v=aXaOgdF9C7U)**
+
+rumi #huntrix #kpop #kpopdemonhunters #shorts #celebrity #trend #makeup #mira #zoey #jinu Production Disclosure (Channel: ...
+
+📺 Faces of Culture
+
+👁️ 4.7M • 👍 11K • 💬 8 • ⏱️ 0:04 • 2d ago
 
 ---
 
@@ -282,13 +270,23 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCkouj
 
 ---
 
-**[Angry Delivery Robots ATTACK Chicago](https://www.youtube.com/watch?v=s377ReXrErY)**
+**[Shawn Ryan SHOCKED—They’re Mass-Producing Human Robots… Like iPhones](https://www.youtube.com/watch?v=-mkpQrPb8d0)**
 
-In this video, I discuss the very scary developments we are seeing out of the city of Chicago, which has appeared to have angered ...
+Shawn Ryan comes into direct contact with a humanoid robot and the CEO who wants to have every family own one.
 
-📺 Actual Justice Warrior
+📺 Aaron Page 
 
-👁️ 39K • 👍 2K • 💬 820 • ⏱️ 11:05 • 3d ago
+👁️ 49K • 👍 2K • 💬 462 • ⏱️ 13:41 • 2d ago
+
+---
+
+**[This Robot Vacuum Has an Arm That Picks Things Up #innovation #robotics #shorts](https://www.youtube.com/watch?v=lIh8EkEaql0)**
+
+Watch this advanced robot vacuum cleaner demonstrate its innovative robotic arm, seamlessly picking up and depositing ...
+
+📺 Just A Dad Approved
+
+👁️ 709 • 👍 26 • 💬 2 • ⏱️ 1:20 • 3h ago
 
 ---
 
