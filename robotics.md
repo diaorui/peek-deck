@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-04T16:37:27.309261+00:00'
+updated: '2026-04-04T17:31:10.643188+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 04, 2026 at 16:37 UTC  
+**Last Updated:** April 04, 2026 at 17:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Humanoid robots undergoing training](https://www.reddit.com/r/robotics/comments/1sbj504/humanoid_robots_undergoing_training/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 i have 3 boards now which are dead ig because the red light in it is lighting up but it not getting connected i am using a 3.7v battery a charging module a touch sensor a 1.3 inch oled it was working fine i was using it from my computer but after some time its not working even if im connection it to my pc
 
-1h ago
+2h ago
 
 ---
 
@@ -58,7 +58,7 @@ Appreciate all the feedback and love on the recent videos, here's another clip o
 
 hi, i've been working on browser-based robotics simulation and wanted to get some feedback. as of now, one can control/simulate, unitree g1, h1, go1, bostons, franka panda arm, or create your own robot. we're working on few more things. 1. training module to train policies directly in browser based on behaviour cloning + RL. 2. rent a robot - to see your trainings in simulations vs on real robots in real world, 3. and much more https://reddit.com/link/1sc8t84/video/jc23l5jas5tg1/player
 
-3h ago
+4h ago
 
 ---
 
@@ -66,7 +66,7 @@ hi, i've been working on browser-based robotics simulation and wanted to get som
 
 Hi guys, can u recommend me which sensor i should use in my robotic gripper as a sensing touch of object in fingers, it will be flat contact between object and sensor. I cant decide between velostat or FSR or do you know about some better type ?
 
-1h ago
+2h ago
 
 ---
 
@@ -90,7 +90,7 @@ l find that RoboBaton mini is good to use. I was originally planning to use Inte
 
 Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 that I've been building. The feedback was really helpful, and I've been heads-down since then working on one of the biggest feature of the framework: Variants and flavors (the ability to define a single communication interface for different pieces of code). The goal hasn't changed: someone new should be able to pick this up and have nodes communicating in about half an hour. I'd love to hear what you think, especially from people who tried it last time.
 
-11h ago
+12h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 t
 
 Read all of the ROS news on Open Robotics Discourse. Picture is the Innate.bot MARS robot. They're running a hackathon at YCombinator next Saturday.
 
-20h ago
+21h ago
 
 ---
 
@@ -146,7 +146,7 @@ Forbes • 2d ago
 
 Spacesuit work and eye checks wrapped up the week for the Expedition 74 crew aboard the International Space Station. The orbital residents also focused on robotics, cargo transfers, and science hardware maintenance at the end of the week.
 
-NASA (.gov) • 19h ago
+NASA (.gov) • 20h ago
 
 ---
 
@@ -206,7 +206,7 @@ Brett Adcock is a technology entrepreneur focused on building companies in robot
 
 📺 Shawn Ryan Show
 
-👁️ 503K • 👍 10K • 💬 3K • ⏱️ 2:57:09 • 4d ago
+👁️ 503K • 👍 10K • 💬 3K • ⏱️ 2:57:09 • 5d ago
 
 ---
 
@@ -274,7 +274,7 @@ Today, Vlad and his friends spend 24 hours with a REAL ROBOT to test how strong,
 
 📺 Vlad
 
-👁️ 355K • 👍 4K • 💬 295 • ⏱️ 9:28 • 5h ago
+👁️ 355K • 👍 4K • 💬 295 • ⏱️ 9:28 • 6h ago
 
 ---
 

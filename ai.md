@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-04T16:37:27.291754+00:00'
+updated: '2026-04-04T17:31:10.625351+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - social
 - news
 - repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 04, 2026 at 16:37 UTC  
+**Last Updated:** April 04, 2026 at 17:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[OpenAI CEO Sam Altman accused of sexual abuse by family member](https://www.reddit.com/r/artificial/comments/1sc3kpj/openai_ceo_sam_altman_accused_of_sexual_abuse_by/)**
 
-🔗 [The Independent](https://www.independent.co.uk/bulletin/news/sam-altman-lawsuit-abuse-sexual-assault-sister-annie-b2950929.html) • 8h ago
+🔗 [The Independent](https://www.independent.co.uk/bulletin/news/sam-altman-lawsuit-abuse-sexual-assault-sister-annie-b2950929.html) • 9h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 My friend came over yesterday to dye her hair. She had asked ChatGPT for the 'correct' way to do it. Chat told her to dye the ends first, wait about 20 minutes, and then do the roots. Because of my own experience with dyeing my hair, that made me sceptical, so I read the instructions in the box dye package. It specifically said to mix it and apply everything all at once. That's how this particular formula is designed to work. I read the instructions on the package out loud and told her we should just follow what the manufacturer says. She got visibly stressed and told me that 'ChatGPT said to do it differently'. I pointed out that the company who made the dye probably knows how their own product is supposed to be applied. She still got visibly anxious about going against what ChatGPT told her to do. It was such a weird moment. She was genuinely stressed about ignoring the AI even though the real instructions were right there in her hands. Has anybody had similar experiences?
 
-9h ago
+10h ago
 
 ---
 
@@ -63,7 +63,7 @@ Every single Instagram reel or TikTok I scroll i see people mentioning Claude an
 
 The offering is expected to be the largest in history.
 
-🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/elon-musk-requires-banks-behind-185412887.html) • 13h ago
+🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/elon-musk-requires-banks-behind-185412887.html) • 14h ago
 
 ---
 
@@ -71,7 +71,7 @@ The offering is expected to be the largest in history.
 
 : Staff reportedly cite ethics concerns, privacy worries, and doubt the platform adds much
 
-🔗 [theregister.com](https://www.theregister.com/2026/04/03/nhs_staff_against_palantir/) • 16h ago
+🔗 [theregister.com](https://www.theregister.com/2026/04/03/nhs_staff_against_palantir/) • 17h ago
 
 ---
 
@@ -87,7 +87,7 @@ TLDR: Nvidia is partnering with 17 major companies to build a platform specifica
 
 First off, I am a novice to AI, I am still at the stage where I am still trying to figure out how to instruct AI to write exactly what I want. The premise to this topic is that I want to write stories for my personal consumption and entertainment. At First, I tried to write on my own and I always end up with writer's block at the second or fifth chapter. That's when I started to look around for AI Tools that will satisfy my needs for writing stories for my own entertainment. Started about mid-March of this year 2026, my first mistake was going to the AI model websites directly and trying to coax the AI there to write prompts only to be told that I reached the limit. I then went to an actual AI Story writing platform by digging around in Google (the first one not the second one that I love to use). That one did not also satisfy my needs or live up to my standards. I could write short stories with that platform, but I reach a hard limit almost every single time. That's when I came across the second AI story writing platform that I now live to use. It functions similar to wattpad with chapter selection and organizing stories you write into books for easy viewing and editing. Here's where the fun part comes, the AI part, the platform does not ask for money at the moment and gives you free credits to start off. And now you get to pick which AI model you want to use, but keep in mind that the free credits still come into play, I recommend selecting cheaper models like Deepseek to start off. With cheap models like Deepseek, I was able to crank out about 50 chapters at peak at one point using the free credits. The next part is the strategy, to make the free credits last a long time. The platform doesn't just let the AI do everything for you. As a matter of fact, you can choose to do everything by yourself, set the scene, the story bible, and also the chapter ideas before tou even hit the generate button, or tou can even choose to type up some chapters by yourself then let the AI model build off of what you have written. The last part is the credit system itself, now I know I said that the platform does not ask for money, and that is Indeed true. The platform instead asks you to document your journey, or rather, write a review or two cents about them. That's how they spread the word about this site, and I don't know how it all works but it allows them to keep the site free. Probably more numbers of users helps them keep the platform free. If any of you are interested the website is called Bookswriter. Kudos by the way to the Bookswriter team for their platform. You can sign up with their platform using the link below: https:// bookswriter(dot)xyz Nothing will be lost by signing up with them and it allows tou sample the many different AI Models like Deepseek, Google, Mistral, Grok, etc.
 
-3h ago
+4h ago
 
 ---
 
@@ -109,7 +109,7 @@ idk if it’s just me but lately i’ve been thinking about how casually we use 
 
 I keep seeing people focus heavily on prompt optimization. But in practice, a lot of failures I’ve observed don’t come from the prompt itself. They show up at the transition point where: model output → real-world action Examples: - outputs that are correct in isolation but wrong in context - timing mismatches (right decision, wrong moment) - differences between environments (test vs live) - small context gaps that compound into bad outcomes The pattern seems consistent: improving prompt quality doesn’t solve these failures. Because the issue isn’t generation — it’s what happens when outputs are interpreted, trusted, and acted on. Curious how others here think about this layer, especially in deployed systems..
 
-10h ago
+11h ago
 
 ---
 
@@ -121,7 +121,7 @@ I keep seeing people focus heavily on prompt optimization. But in practice, a lo
 
 As more college students use AI for classroom discussions, some students admit they’re starting to sound alike. Teachers say they’re also getting less creative.
 
-CNN • 6h ago
+CNN • 7h ago
 
 ---
 
@@ -129,7 +129,7 @@ CNN • 6h ago
 
 In dominating consumer devices, Apple sold users on the promise of privacy. To compete in AI, it may have to pivot.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -137,7 +137,7 @@ CNBC • 4h ago
 
 Modern problems required antiquated solutions.
 
-Yahoo • 37m ago
+Yahoo • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ Yahoo • 37m ago
 
 Some Central Ohio high school students have added "state champions" to their list of accomplishments.
 
-abc6onyourside.com • 43m ago
+abc6onyourside.com • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ Tom's Hardware • 1h ago
 
 **[My Husband Can’t Get a Job. Should I Divorce Him?](https://www.nytimes.com/2026/04/04/business/my-husband-cant-get-a-job-should-i-divorce-him.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
@@ -167,13 +167,13 @@ The New York Times • 7h ago
 
 Private Chinese technology companies — some with ties to the military — are marketing detailed intelligence on movements of U.S. forces in Iran, even as Beijing seeks to keep its distance.
 
-The Washington Post • 36m ago
+The Washington Post • 1h ago
 
 ---
 
 **[AI is rewiring the world’s most prolific film industry](https://www.reuters.com/technology/ai-is-rewiring-worlds-most-prolific-film-industry-2026-04-04/)**
 
-Reuters • 11h ago
+Reuters • 12h ago
 
 ---
 
@@ -189,7 +189,7 @@ The Atlantic • 23h ago
 
 Here's how AI-powered tutoring tools can democratize education for underserved communities in America, giving all children personalized access to elite-level academics.
 
-Fox News • 5h ago
+Fox News • 6h ago
 
 ---
 
@@ -217,7 +217,7 @@ We replaced expensive sandboxes with ChromaFs, a virtual filesystem over Chroma,
 
 Meta is continuing its long-term roadmap to help the construction industry leverage AI to produce high-quality and more sustainable concrete mixes, as well as those exclusively produced in the Unit…
 
-⬆️ 223 • 💬 117 • 2d ago • [Engineering at Meta](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/)
+⬆️ 223 • 💬 117 • 3d ago • [Engineering at Meta](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/)
 
 ---
 
@@ -231,7 +231,7 @@ Meta is continuing its long-term roadmap to help the construction industry lever
 
 Experiments show large majorities uncritically accepting "faulty" AI answers.
 
-⬆️ 87 • 💬 36 • 19h ago • [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/)
+⬆️ 87 • 💬 36 • 20h ago • [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/)
 
 ---
 
@@ -239,7 +239,7 @@ Experiments show large majorities uncritically accepting "faulty" AI answers.
 
 AI-powered travel hacking with points, miles, and award flights. Drop-in skills and MCP servers for OpenCode and Claude Code. - borski/travel-hacking-toolkit
 
-⬆️ 80 • 💬 36 • 14h ago • [GitHub](https://github.com/borski/travel-hacking-toolkit)
+⬆️ 80 • 💬 36 • 15h ago • [GitHub](https://github.com/borski/travel-hacking-toolkit)
 
 ---
 
@@ -259,7 +259,7 @@ AI-powered travel hacking with points, miles, and award flights. Drop-in skills 
 
 Hi! If you like this piece and want to support my independent reporting and analysis, why not subscribe to my premium newsletter? It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words,
 
-⬆️ 50 • 💬 22 • 18h ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/)
+⬆️ 50 • 💬 22 • 19h ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/)
 
 ---
 
@@ -281,7 +281,7 @@ Create Your Own AI Worlds with OpenArt https://youricreates.com/AI-worlds In thi
 
 📺 Youri van Hofwegen
 
-👁️ 4K • 💬 4 • ⏱️ 8:03 • 1h ago
+👁️ 4K • 💬 4 • ⏱️ 8:03 • 2h ago
 
 ---
 
@@ -301,7 +301,7 @@ Check out Suno https://suno.com/?utm_source=Ytamb&utm_medium=isa-does-ai In this
 
 📺 Isa does AI
 
-👁️ 5K • 💬 1 • ⏱️ 10:45 • 2h ago
+👁️ 5K • 💬 1 • ⏱️ 10:45 • 3h ago
 
 ---
 
@@ -371,7 +371,7 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Sambucha
 
-👁️ 844K • 👍 63K • 💬 509 • ⏱️ 0:53 • 23h ago
+👁️ 844K • 👍 63K • 💬 509 • ⏱️ 0:53 • 1d ago
 
 ---
 
@@ -663,7 +663,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 12.9k • 🔱 1.2k • 8m ago
+⭐ 12.9k • 🔱 1.2k • 1h ago
 
 ---
 
@@ -703,7 +703,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.0k • 🔱 1.5k • 8h ago
+⭐ 5.0k • 🔱 1.5k • 9h ago
 
 ---
 
@@ -733,7 +733,7 @@ end to end app store screenshot creation using AI
 
 `agentic-ai` `apple` `appstore` `automate` `claude`
 
-⭐ 3.5k • 🔱 229 • 3d ago
+⭐ 3.5k • 🔱 229 • 4d ago
 
 ---
 
