@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-03T23:35:04.440366+00:00'
+updated: '2026-04-04T02:13:35.342831+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
 - cryptocurrency
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 03, 2026 at 23:35 UTC  
+**Last Updated:** April 04, 2026 at 02:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** +2.9%  
-**30d:** -0.9%  
-**90d:** -34.7%  
-**1y:** +13.3%  
+**24h:** -0.2%  
+**7d:** +3.3%  
+**30d:** +3.6%  
+**90d:** -36.4%  
+**1y:** +13.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $247.43B
+**Market Cap:** $247.64B
 Rank #2
 
-**Circulating Supply:** 120,691,290 ETH
+**Circulating Supply:** 120,691,261 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.5%
+-58.6%
 
 **All-Time Low:** $0.43
-+473599.6%
++473297.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+21h ago
 
 ---
 
@@ -80,21 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/ylRbyff4xKs) • 4h ago
-
----
-
-**[Ethereal news weekly #18 | Quantum breakthrough papers, Aave v4, Aztec alpha](https://www.reddit.com/r/ethereum/comments/1sbawgl/ethereal_news_weekly_18_quantum_breakthrough/)**
-
-Quantum breakthrough papers, Aave v4, Aztec alpha
-
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-18/) • 12h ago
-
----
-
-**[They'd never heard of ETH. They described it anyway. I didn't discover Ethereum in a whitepaper. I recognised it. In lectures thirty years old. In voices I still hear.](https://www.reddit.com/r/ethereum/comments/1sbnqtg/theyd_never_heard_of_eth_they_described_it_anyway/)**
-
-3h ago
+🔗 [youtu.be](https://youtu.be/ylRbyff4xKs) • 7h ago
 
 ---
 
@@ -102,7 +88,15 @@ Quantum breakthrough papers, Aave v4, Aztec alpha
 
 Why are we still copy-pasting 40-character wallet addresses in 2026? Idea: you do a small test transfer once → both wallets get a shared avatar/character. Next time you send, you just recognize the person visually instead of relying on the address. Kind of like “pairing” wallets. Would this actually reduce mistakes or scams, or is this unnecessary given things like ENS?
 
-4h ago
+6h ago
+
+---
+
+**[Ethereal news weekly #18 | Quantum breakthrough papers, Aave v4, Aztec alpha](https://www.reddit.com/r/ethereum/comments/1sbawgl/ethereal_news_weekly_18_quantum_breakthrough/)**
+
+Quantum breakthrough papers, Aave v4, Aztec alpha
+
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-18/) • 14h ago
 
 ---
 
@@ -110,7 +104,19 @@ Why are we still copy-pasting 40-character wallet addresses in 2026? Idea: you d
 
 People ask this a lot and most answers are either too optimistic or outdated. Here's what actually works day to day. Direct crypto payments (limited but real) - A small number of merchants accept crypto directly via BitPay or CoinGate. Shows up at checkout alongside card/PayPal. Works in tech, gaming, VPN, some travel. Still niche. Crypto debit cards (most practical for daily use) - Platforms issue Visa/Mastercard cards linked to your crypto account. Spend anywhere that takes Visa, crypto converts to fiat at point of sale. Usually comes with some cashback in platform tokens. Works fine for everyday spending. Stablecoins for transfers - Sending money internationally or paying someone who accepts USDC/USDT is genuinely fast and cheap vs bank wire. More useful than people think for freelance/remote work. Gift cards via Bitrefill (underrated) - Buy gift cards from Amazon, Airbnb, Uber, Steam using crypto. Works everywhere those retailers are accepted. Not seamless but surprisingly broad coverage. Honest reality in 2026: most people still convert to fiat first. Crypto debit cards are the closest thing to seamless daily spending. Several platforms are building bank-integrated crypto cards - worth watching which ones actually ship. What's your setup for spending crypto day to day? Anyone found something that genuinely feels frictionless?
 
-13h ago
+15h ago
+
+---
+
+**[They'd never heard of ETH. They described it anyway. I didn't discover Ethereum in a whitepaper. I recognised it. In lectures thirty years old. In voices I still hear.](https://www.reddit.com/r/ethereum/comments/1sbnqtg/theyd_never_heard_of_eth_they_described_it_anyway/)**
+
+6h ago
+
+---
+
+**[Is the "Quantum Apocalypse" coming early for ethereum?](https://www.reddit.com/r/ethereum/comments/1sbgp8o/is_the_quantum_apocalypse_coming_early_for/)**
+
+10h ago
 
 ---
 
@@ -118,13 +124,7 @@ People ask this a lot and most answers are either too optimistic or outdated. He
 
 🪙 Jean-Baptiste Say & Irving Fisher — MV = PQ On ETH: M is circulating supply. Q is real on-chain activity — DeFi, RWA, asset settlement. And V — velocity — grows with every new protocol, every L2, every tokenised bond. When V and Q rise, P follows. Accounting identity. Not speculation. "Measure the velocity." 🎯 Jacques Lemoine — the cybernetician Aim where it will be, not where it is. ETH is becoming the global settlement layer for real assets. The feedback loop is already running: more tokenised assets → more velocity → stronger price signal → more institutional adoption. Self-regulating system. It stabilises through use. 🔍Israel Kirzner — entrepreneurial disequilibrium The entrepreneur sees the opportunity before the price does. ETH is the settlement infrastructure of the next financial decade — still priced like a speculative niche asset. That's the gap. ⚖️ Gary Becker — rational behaviour, full stop The staker locking ETH isn't a believer. He's calculating. The validator securing the network isn't an activist. He's optimising yield under lock-in constraints. ETH isn't a movement. It's an incentive mechanism. "Check that incentives are aligned. If they are, the rest follows." They are. ⚡ Joseph Schumpeter — creative destruction SWIFT, correspondent banking, clearing houses — a century of institutional architecture. ETH doesn't improve them. It makes them unnecessary. "Implementation of innovations is difficult." I wrote that in 1994. I'm watching it in 2026. They'd never heard of Ethereum. They described it anyway. ⚛️ Crafted by Lacydon One™ · Forged by Claude AI™ · Contrarian analysis by LeChat™ ⚛️
 
-3h ago
-
----
-
-**[Is the "Quantum Apocalypse" coming early for ethereum?](https://www.reddit.com/r/ethereum/comments/1sbgp8o/is_the_quantum_apocalypse_coming_early_for/)**
-
-8h ago
+6h ago
 
 ---
 
@@ -136,11 +136,9 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Patricio Worthalter (POAP) - Nine years of POAP in EthCC. A founder's journey.](https://www.reddit.com/r/ethereum/comments/1saeywh/patricio_worthalter_poap_nine_years_of_poap_in/)**
+**[A Prediction Market Bounty Mechanism - Using Markets as Self-Funding Bounties for High-Value Sales](https://www.reddit.com/r/ethereum/comments/1sarhn7/a_prediction_market_bounty_mechanism_using/)**
 
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/live/aco5-l_bpOo?si=IZEg8wYNkTUOiGA_) • 1d ago
+🔗 [X (formerly Twitter)](https://x.com/not_pr0/status/2039788146133495879) • 1d ago
 
 ---
 
@@ -148,27 +146,25 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "ethereum"
 
-**[Ethereum Foundation stakes another $93 million ether, reaching its 70,000 ETH target](https://www.coindesk.com/markets/2026/04/03/ethereum-foundation-stakes-another-usd93-million-ether-reaching-its-70-000-eth-target)**
-
-The foundation deposited the bulk of its planned staking commitment in a single session, completing a program announced in February to turn dormant treasury holdings into a yield-generating position.
-
-CoinDesk • 11h ago
-
----
-
-**[Naoris Launches Post-Quantum Blockchain as Bitcoin, Ethereum Devs Scramble to Face Threat](https://decrypt.co/363207/naoris-launches-post-quantum-blockchain-bitcoin-ethereum)**
-
-Naoris Protocol says its blockchain network uses quantum-resistant cryptography, as the wider crypto industry prepares for future threats.
-
-Decrypt • 1d ago
-
----
-
-**[Charles Schwab Is Gearing Up to Offer Bitcoin, Ethereum Spot Trading](https://finance.yahoo.com/markets/crypto/articles/charles-schwab-gearing-offer-bitcoin-211155433.html)**
+**[Charles Schwab Is Gearing Up to Offer Bitcoin, Ethereum Spot Trading](https://decrypt.co/363336/charles-schwab-bitcoin-ethereum-spot-trading)**
 
 Financial giant Charles Schwab is set to launch spot buying of Bitcoin and Ethereum by the end of the quarter, the firm said Friday.
 
-Yahoo Finance • 2h ago
+Decrypt • 5h ago
+
+---
+
+**[Ethereum Foundation stakes $93 million of ether in a day, reaching its 70,000 ETH target](https://www.coindesk.com/markets/2026/04/03/ethereum-foundation-stakes-another-usd93-million-ether-reaching-its-70-000-eth-target)**
+
+The foundation deposited the bulk of its planned staking commitment in a single session, completing a program announced in February to turn dormant treasury holdings into a yield-generating position.
+
+CoinDesk • 14h ago
+
+---
+
+**[Key facts: ETH OI +7.1%; April roadmap, Q1 ETF outflows, gas model, $10k](https://www.tradingview.com/news/tradingview:e87ca0e9ef357:0-key-facts-eth-oi-7-1-april-roadmap-q1-etf-outflows-gas-model-10k/)**
+
+TradingView • 2h ago
 
 ---
 
@@ -176,7 +172,15 @@ Yahoo Finance • 2h ago
 
 The Ethereum Foundation (EF), the non-profit organization that steers development of the Ethereum ecosystem, staked over 45,000 Ether (ETH) on Friday, bringing the total amount staked to about 69,500 ETH, less than 500 coins shy of the Foundation’s 70,000 goal.The EF staked the coins in a series of…
 
-TradingView • 2h ago
+TradingView • 4h ago
+
+---
+
+**[Bitcoin and ethereum price today, Friday, April 3, 2026: Prices are mixed as traders weigh long-term outlook](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-friday-april-3-2026-prices-are-mixed-as-traders-weigh-long-term-outlook-120045802.html)**
+
+Bitcoin dipped while ethereum gained Friday morning after losing ground following President Trump’s prime-time address. Traders are questioning long-term outlooks.
+
+Yahoo Finance • 14h ago
 
 ---
 
@@ -184,21 +188,7 @@ TradingView • 2h ago
 
 The foundation’s latest staking allocation mirrors its biggest-ever single-day move and is a major step-up from its initial February deployment.
 
-The Block • 7h ago
-
----
-
-**[Current price of Ethereum for April 3, 2026](https://fortune.com/article/price-of-ethereum-04-03-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 10h ago
-
----
-
-**[Ethereum’s Quiet Architect Takes the Crown — Why Vitalik Buterin Ranks #1 on CCN’s Top 101 for 2026](https://www.ccn.com/news/crypto/ethereum-vitalik-buterin-claims-rank-1-top-ccn-101-in-crypto-2026/)**
-
-CCN.com • 10h ago
+The Block • 9h ago
 
 ---
 
@@ -208,17 +198,23 @@ Morningstar • 1d ago
 
 ---
 
-**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775219700)**
+**[Ethereum Nerves Show in ETHA as $32 Million Walks Out the Door](https://www.tipranks.com/news/cryptocurrencies/ethereum-nerves-show-in-etha-as-32-million-walks-out-the-door)**
 
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 14h ago
+TipRanks • 16h ago
 
 ---
 
-**[Most large cryptocurrencies fall on Solana, Ethereum drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-on-solana-ethereum-drops-06702da9-e670e788b6b1?gaa_at=eafs&gaa_n=AWEtsqeB1PJY_7C4YwSFHjPIQTb6Z9-UyqwYQHqtQZoZIWE8Zs5_1asGUppO&gaa_ts=69d04415&gaa_sig=foIuyMHjgzI5DaEMRStQ7kEmtXpAiNIlAMmop_pb5aaKzQbA1NqhYZmspSi5zlKyIyuw7johxMhnlCkxHXx0wQ%3D%3D)**
+**[Ethereum Price Prediction: Bitcoin Suisse Targets $7,000 to $9,000 ETH While Pepeto Holders Target 150x From Presale](https://financefeeds.com/ethereum-price-prediction-bitcoin-suisse-targets-7000-to-9000-eth-while-pepeto-holders-target-150x-from-presale/)**
 
-MarketWatch • 1d ago
+FinanceFeeds • 14h ago
+
+---
+
+**[Current price of Ethereum for April 3, 2026](https://fortune.com/article/price-of-ethereum-04-03-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 12h ago
 
 ---
 
@@ -232,27 +228,17 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 193 • 💬 12 • ⏱️ 8:31 • 4h ago
+👁️ 3K • 👍 211 • 💬 13 • ⏱️ 8:31 • 7h ago
 
 ---
 
-**[☠️ Ethereum on the Edge](https://www.youtube.com/watch?v=sQgrv7CeJq8)**
+**[BITCOIN &amp; CRYPTO WARNING SIGNAL FLASHING NOW!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=IgnVxZXqvSI)**
 
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+BITCOIN & CRYPTO WARNING SIGNAL FLASHING NOW!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
 
-📺 Gerhard - Bitcoin Strategy
+📺 Crypto World
 
-👁️ 2K • 👍 104 • 💬 25 • ⏱️ 10:32 • 12h ago
-
----
-
-**[The EXACT Ethereum Signal That Called a 389% Profit Opportunity](https://www.youtube.com/watch?v=CRMSt4b9pXI)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 215 • 👍 9 • 💬 1 • ⏱️ 4:56 • 6h ago
+👁️ 1K • 👍 90 • 💬 215 • ⏱️ 14:24 • 1h ago
 
 ---
 
@@ -262,27 +248,37 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 11K • 👍 938 • 💬 57 • ⏱️ 4:25 • 13h ago
+👁️ 11K • 👍 969 • 💬 58 • ⏱️ 4:25 • 16h ago
 
 ---
 
-**[WHEN EVERYONE HATES BITCOIN &amp; ETH ITS TIME TO BUY](https://www.youtube.com/watch?v=n9SlojULsb0)**
+**[☠️ Ethereum on the Edge](https://www.youtube.com/watch?v=sQgrv7CeJq8)**
 
-In today's video I break down Bitcoin, Ethereum, stocks, oil, gold, and silver, including the key levels, setups, and risk management ...
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
 
-📺 James Crypto Guru
+📺 Gerhard - Bitcoin Strategy
 
-👁️ 83 • 👍 17 • 💬 5 • ⏱️ 8:45 • 12m ago
+👁️ 2K • 👍 106 • 💬 27 • ⏱️ 10:32 • 15h ago
 
 ---
 
-**[Crypto Bull Run Has Started... but everyone&#39;s missing it!](https://www.youtube.com/watch?v=bDQgqJykRDc)**
+**[Altcoins About to Explode Because of This #crypto #bitcoin #ethereum](https://www.youtube.com/watch?v=SA5CxRXt7zU)**
 
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEEX Poker Party is LIVE ($30k Bonus): ...
+Big news in the financial world today! Charles Schwab, a major financial platform, is gearing up to offer Bitcoin and Ethereum ...
 
-📺 Altcoin Daily
+📺 Myles G Investments
 
-👁️ 41K • 👍 2K • 💬 329 • ⏱️ 10:45 • 2d ago
+👁️ 276 • 👍 10 • 💬 2 • ⏱️ 0:55 • 1h ago
+
+---
+
+**[The EXACT Ethereum Signal That Called a 389% Profit Opportunity](https://www.youtube.com/watch?v=CRMSt4b9pXI)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 288 • 👍 9 • 💬 1 • ⏱️ 4:56 • 8h ago
 
 ---
 
@@ -292,7 +288,17 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 164 • 👍 19 • 💬 1 • ⏱️ 27:08 • 55m ago
+👁️ 664 • 👍 104 • 💬 6 • ⏱️ 27:08 • 3h ago
+
+---
+
+**[Crypto Bull Run Has Started... but everyone&#39;s missing it!](https://www.youtube.com/watch?v=bDQgqJykRDc)**
+
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEEX Poker Party is LIVE ($30k Bonus): ...
+
+📺 Altcoin Daily
+
+👁️ 42K • 👍 2K • 💬 329 • ⏱️ 10:45 • 2d ago
 
 ---
 
@@ -302,27 +308,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 275 • 👍 10 • 💬 1 • ⏱️ 5:16 • 14h ago
+👁️ 278 • 👍 10 • 💬 1 • ⏱️ 5:16 • 16h ago
 
 ---
 
-**[BlackRock &amp; JP Morgan are Building on Ethereum—Here’s Why](https://www.youtube.com/watch?v=8KiltqYa2Xg)**
+**[URGENT 🚨 XRP BITCOIN ETHEREUM ‼️ MOTHER OF ALL SHORT SQUEEZES!!!](https://www.youtube.com/watch?v=VxsGChw2a5Y)**
 
-BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Join the Inner Circle for exclusive ...
+1️⃣ *Get Moe's Indicator Today + Discord (Code BREAD 10% OFF EARNER PLUS)* ...
 
-📺 Lark Davis
+📺 Stock Moe
 
-👁️ 6K • 👍 139 • 💬 8 • ⏱️ 0:47 • 2d ago
-
----
-
-**[BITCOIN WARNING: Everyone is WRONG About This!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=fuInAy1qrPg)**
-
-BITCOIN WARNING: Everyone is WRONG About This!!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 5K • 👍 182 • 💬 298 • ⏱️ 20:12 • 1d ago
+👁️ 7K • 👍 594 • 💬 33 • ⏱️ 15:18 • 5h ago
 
 ---
 
