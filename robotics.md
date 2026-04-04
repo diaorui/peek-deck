@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-04T10:59:22.116796+00:00'
+updated: '2026-04-04T11:37:23.505014+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 04, 2026 at 10:59 UTC  
+**Last Updated:** April 04, 2026 at 11:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Appreciate all the feedback and love on the recent videos, here's another clip o
 
 If human demonstration data proves to be the underlying factor that determines scaling laws in general-purpose robotics, the infrastructure that captures that data will determine how fast we get there. Despite all the research novelty in ChatGPT, its success at its core can be attributed to one foundational fact - the scaling law of transformers. Have transformers made their way into robotics and are we seeing similar scaling laws? The answer is yes. Recent studies showed task completion rates jumping from 30% to 70% when human demonstration data scaled from 1,000 to 20,000 hours — a log-linear trend that mirrors exactly what we saw in language and vision. Labs are racing to train generalist policies - a robot brain that can solve any task under any embodiment. But the library of physical interactions required to train these policies doesn’t exist yet. Solving this data bottleneck is one of the most important problems for the next few years. We’ve seen dozens of companies emerge in this space and noticed the same pattern repeat: every egocentric data company makes tradeoffs between quality, scale, and diversity. I have been working at FPV Labs on the principle that high-quality data is orders of magnitude more valuable than sheer volume. Self-driving cars collect thousands of hours per day, but only a small fraction is useful for training. Studies like RT-2 showed that as little as 1% of data improves task success by 25%. There’s clearly a power law in the downstream impact of data. We spent months obsessing over data quality - building our stack, discarding it, rebuilding it, and iterating until we found a formula that doesn’t compromise quality at scale and laying the infrastructure rails as we embark into this future. We are excited to be building what we think of is the infra layer for the internet archive of data for our robotic companions of the future. Happy to answer questions about our hardware, data methodology, or what we’ve learned so far. fpvlabs.ai
 
-18h ago
+19h ago
 
 ---
 
@@ -74,7 +74,7 @@ l find that RoboBaton mini is good to use. I was originally planning to use Inte
 
 Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 that I've been building. The feedback was really helpful, and I've been heads-down since then working on one of the biggest feature of the framework: Variants and flavors (the ability to define a single communication interface for different pieces of code). The goal hasn't changed: someone new should be able to pick this up and have nodes communicating in about half an hour. I'd love to hear what you think, especially from people who tried it last time.
 
-5h ago
+6h ago
 
 ---
 
@@ -128,7 +128,7 @@ WSJ • 1d ago
 
 Humanoid robots begin factory training in China, learning real tasks and signaling a shift toward AI-driven industrial automation.
 
-Interesting Engineering • 22h ago
+Interesting Engineering • 23h ago
 
 ---
 
@@ -176,7 +176,7 @@ The Suffolk Times • 1d ago
 
 The City of Fountains Regional Robotics Competition kicked off Friday morning at Park Hill South High School.
 
-Yahoo • 11h ago
+Yahoo • 12h ago
 
 ---
 
@@ -196,27 +196,7 @@ Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking
 
 📺 The AI Nexus
 
-👁️ 4K • 👍 179 • 💬 13 • ⏱️ 20:43 • 3d ago
-
----
-
-**[Shawn Ryan Tests a Real Humanoid Robot](https://www.youtube.com/watch?v=HWq9cFhTvvQ)**
-
-Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In this clip, we break down how this robot sees, ...
-
-📺 Shawn Ryan Show
-
-👁️ 867K • 👍 33K • 💬 5K • ⏱️ 8:48 • 2d ago
-
----
-
-**[Every Home Will Have a Humanoid Robot in 10 Years](https://www.youtube.com/watch?v=u4NLSzMP8z0)**
-
-Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join Support the Shawn ...
-
-📺 Shawn Ryan Clips
-
-👁️ 10K • 👍 336 • 💬 136 • ⏱️ 15:18 • 4d ago
+👁️ 4K • 👍 177 • 💬 13 • ⏱️ 20:43 • 3d ago
 
 ---
 
@@ -226,37 +206,45 @@ China is leading the world in humanoid robot shipments. Powered by artificial in
 
 📺 CGTN
 
-👁️ 31K • 👍 268 • 💬 56 • ⏱️ 1:54 • 2d ago
+👁️ 31K • 👍 272 • 💬 57 • ⏱️ 1:54 • 2d ago
 
 ---
 
-**[Brett Adcock - Shawn Ryan’s First Interview with a Robot | SRS #292](https://www.youtube.com/watch?v=99pOdGEGu6s)**
+**[Xiaomi Unveils &quot;Mi Bot&quot; - Robot Assistant That Can Sell Phones](https://www.youtube.com/watch?v=WgxEbw1i_PM)**
 
-Brett Adcock is a technology entrepreneur focused on building companies in robotics, artificial intelligence, and aerospace.
+Xiaomi is attracting attention with a new concept known as “Mi Bot,” a robotic assistant designed to operate in retail environments ...
+
+📺 Carros Show
+
+👁️ 5K • 👍 98 • 💬 3 • ⏱️ 8:55 • 5d ago
+
+---
+
+**[Female Robots 🤖 Serving food now 😂](https://www.youtube.com/watch?v=AqxWV9ij4BY)**
+
+📺 Mike Mizzle
+
+👁️ 119K • 👍 4K • 💬 260 • ⏱️ 0:44 • 1d ago
+
+---
+
+**[Fat Jinu Does the Robot Trend 🤯](https://www.youtube.com/watch?v=aXaOgdF9C7U)**
+
+rumi #huntrix #kpop #kpopdemonhunters #shorts #celebrity #trend #makeup #mira #zoey #jinu Production Disclosure (Channel: ...
+
+📺 Faces of Culture
+
+👁️ 4.2M • 👍 10K • 💬 8 • ⏱️ 0:04 • 2d ago
+
+---
+
+**[Shawn Ryan Tests a Real Humanoid Robot](https://www.youtube.com/watch?v=HWq9cFhTvvQ)**
+
+Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In this clip, we break down how this robot sees, ...
 
 📺 Shawn Ryan Show
 
-👁️ 501K • 👍 10K • 💬 3K • ⏱️ 2:57:09 • 4d ago
-
----
-
-**[Shawn Ryan SHOCKED—They’re Mass-Producing Human Robots… Like iPhones](https://www.youtube.com/watch?v=-mkpQrPb8d0)**
-
-Shawn Ryan comes into direct contact with a humanoid robot and the CEO who wants to have every family own one.
-
-📺 Aaron Page 
-
-👁️ 46K • 👍 2K • 💬 427 • ⏱️ 13:41 • 1d ago
-
----
-
-**[Melania Trump unveils bizarre humanoid robot at White House #shorts](https://www.youtube.com/watch?v=VCFDeruodko)**
-
-Become a Member: https://www.davidpakman.com/membership Subscribe to our (FREE) Substack newsletter: ...
-
-📺 David Pakman Show
-
-👁️ 110K • 👍 6K • 💬 779 • ⏱️ 2:37 • 6d ago
+👁️ 873K • 👍 33K • 💬 5K • ⏱️ 8:48 • 2d ago
 
 ---
 
@@ -266,27 +254,37 @@ During a recent fan meet-and-greet at Disneyland Paris, Olaf the snowman froze u
 
 📺 TODAY
 
-👁️ 12K • 👍 172 • 💬 26 • ⏱️ 1:20 • 1d ago
+👁️ 12K • 👍 180 • 💬 28 • ⏱️ 1:20 • 1d ago
 
 ---
 
-**[Robotics in the MCU!](https://www.youtube.com/watch?v=F6ILTk4HsHc)**
+**[Shawn Ryan SHOCKED—They’re Mass-Producing Human Robots… Like iPhones](https://www.youtube.com/watch?v=-mkpQrPb8d0)**
 
-All titles are now streaming on @disneyplus ▻ SUBSCRIBE to the channel to get notified when new Marvel videos are posted: ...
+Shawn Ryan comes into direct contact with a humanoid robot and the CEO who wants to have every family own one.
 
-📺 Marvel Entertainment
+📺 Aaron Page 
 
-👁️ 44K • 👍 3K • 💬 79 • ⏱️ 2:28 • 4d ago
+👁️ 47K • 👍 2K • 💬 430 • ⏱️ 13:41 • 1d ago
 
 ---
 
-**[Robot waifus, RIP Sora, GLM-5.1, AI brain scans, Google realtime voice: AI NEWS](https://www.youtube.com/watch?v=6Il0CJx9yU8)**
+**[War Robots Most Broken RAVANA Ever!](https://www.youtube.com/watch?v=t67ObSD1yp8)**
 
-HUGE AI NEWS: GLM-5.1, daVinci MagiHuman, ARC-AGI 3, PrismAudio, Matrix Game, & more #ai #ainews #aitools #aivideo ...
+War Robots Gameplay: Ravana with Kroko - absolutely OP! My War Robots Creator Link: https://wr.my.games/manni - Code: ...
 
-📺 AI Search
+📺 Manni-Gaming
 
-👁️ 120K • 👍 5K • 💬 537 • ⏱️ 47:29 • 6d ago
+👁️ 12K • 👍 514 • 💬 78 • ⏱️ 22:06 • 1d ago
+
+---
+
+**[The Coolest Robot on the Planet 🤯](https://www.youtube.com/watch?v=t37TaaFsHDM)**
+
+Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join Support the Shawn ...
+
+📺 Shawn Ryan Show
+
+👁️ 942K • 👍 21K • 💬 2K • ⏱️ 0:44 • 3d ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-04T10:59:22.107681+00:00'
+updated: '2026-04-04T11:37:23.495882+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
+- cryptocurrency
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 04, 2026 at 10:59 UTC  
+**Last Updated:** April 04, 2026 at 11:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1339.12B
+**Market Cap:** $1342.57B
 Rank #1
 
-**Circulating Supply:** 20,011,253 BTC
+**Circulating Supply:** 20,011,278 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--46.9%
+-46.8%
 
 **All-Time Low:** $67.81
-+98581.6%
++98845.6%
 
 ---
 
@@ -89,13 +89,13 @@ Bitcoin isn’t just about "number go up"—it’s about changing the fundamenta
 
 At what point do I start running my own node?
 
-10h ago
+11h ago
 
 ---
 
 **[My favorite part of the ride](https://www.reddit.com/r/Bitcoin/comments/1sbes4i/my_favorite_part_of_the_ride/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -103,7 +103,7 @@ At what point do I start running my own node?
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
 
 ---
 
@@ -119,7 +119,7 @@ Hi my father had an Android S20 FE and we cannot figure out his password to get 
 
 [ Removed by Reddit on account of violating the content policy. ]
 
-2h ago
+3h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 4d ago
 
 Financial giant Charles Schwab is set to launch spot buying of Bitcoin and Ethereum by the end of the quarter, the firm said Friday.
 
-Decrypt • 13h ago
+Decrypt • 14h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Motley Fool • 3h ago
 
 Bitcoin BITSTAMP:BTCUSD traders holding 100–10,000 BTC realized losses at an average of $337 million per day in Q1 2026, the worst quarter since 2022, according to data from Glassnode.Key takeaways:BTC whales, sharks realized $30.91 billion loss in 2026Realized Loss tracks the total dollar value of…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
@@ -193,7 +193,7 @@ TradingView • 2h ago
 
 Gold shed billions in March. Bitcoin quietly pulled in more than a billion.Flows Tell A Diverging StoryUS spot Bitcoin exchange-traded funds attracted $1.32 billion in net inflows last month, even as US-based gold ETFs bled $2.92 billion in net outflows over the same period.The gap caught the atten…
 
-TradingView • 1h ago
+TradingView • 2h ago
 
 ---
 
@@ -201,7 +201,7 @@ TradingView • 1h ago
 
 It has been nearly six months since the flash crypto crash on Oct. 10 last year that wiped out millions of dollars in a single day. Bitcoin (BTC) had hit the all-time high (ATH) of $126,080 only a few days earlier on Oct. 6, but currently, it is trading 47% lower at $66,600.67. However, ...
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -215,7 +215,7 @@ thestreet.com • 1d ago
 
 **[Stock futures and bitcoin slip, Treasury yields climb, as hot jobs report raises more questions about Fed rate cuts](https://www.marketwatch.com/story/stock-futures-and-bitcoin-slip-treasury-yields-climb-as-hot-jobs-report-raises-more-questions-about-fed-rate-cuts-921ff82f?gaa_at=eafs&gaa_n=AWEtsqc55NvE7n6LVXlwabaWZRKUYo7QvY5jkDl7B78faCxLim3NDI4IvBe3&gaa_ts=69d0f276&gaa_sig=xQkiOp0WcpKJk5_H9f4yThawjfYKjVJ_XzKwzDQ9i4i4dWmQMqFiKC5ZGNzbhT1__jfSaEF2fDiuPlseN-8dnw%3D%3D)**
 
-MarketWatch • 21h ago
+MarketWatch • 22h ago
 
 ---
 
@@ -229,7 +229,7 @@ Forbes • 1d ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 21h ago
+Fortune • 22h ago
 
 ---
 
@@ -241,7 +241,7 @@ Fortune • 21h ago
 
 Google Quantum AI: Quantum computer could break Bitcoin cryptography with under 500,000 qubits in nine minutes. This will likely only be possible in the 2030s.
 
-⬆️ 15 • 💬 6 • 16h ago • [heise online](https://www.heise.de/en/news/Quantum-computer-researchers-Bitcoin-encryption-breakable-in-a-few-years-11244911.html)
+⬆️ 15 • 💬 6 • 17h ago • [heise online](https://www.heise.de/en/news/Quantum-computer-researchers-Bitcoin-encryption-breakable-in-a-few-years-11244911.html)
 
 ---
 
@@ -265,7 +265,7 @@ Bitcoin needs to fix this in the next three years.
 
 April 03, 2026 - A new $100 million bond deal reveals exactly how traditional finance values BTC as collateral. The numbers are sobering, and the
 
-⬆️ 4 • 💬 2 • 18h ago • [Bitcoin, Altcoins, Crypto News & Financial Market News](https://catenaa.com/markets/cryptocurrencies/moodys-bitcoin-collateral-haircut/)
+⬆️ 4 • 💬 2 • 19h ago • [Bitcoin, Altcoins, Crypto News & Financial Market News](https://catenaa.com/markets/cryptocurrencies/moodys-bitcoin-collateral-haircut/)
 
 ---
 
@@ -319,7 +319,7 @@ Markets cracked, oil surged, Bitcoin dipped, and Larry Fink is warning that a pr
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 882 • 💬 84 • ⏱️ 14:11 • 13h ago
+👁️ 13K • 👍 939 • 💬 87 • ⏱️ 14:11 • 14h ago
 
 ---
 
@@ -329,17 +329,17 @@ Trump speaks… and markets crash again! Bitcoin fell to $66K, and in just 25 mi
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 2K • 💬 172 • ⏱️ 36:07 • 1d ago
+👁️ 19K • 👍 2K • 💬 175 • ⏱️ 36:07 • 1d ago
 
 ---
 
-**[Bitcoin Holders, Here We Go Again!](https://www.youtube.com/watch?v=K-toaTQ2p5o)**
+**[Bitcoin Warning: Bear Flag Forming 💀](https://www.youtube.com/watch?v=Bm6xRrc-TFI)**
 
-Welcome back! More Iran announcements over the weekend but Bitcoin is holding up well. Ledn Loans: Check out Ledn: ...
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Buy, Sell, Trade on Weex ($500 Bonus): ...
 
-📺 Aaron Bennett
+📺 Altcoin Daily
 
-👁️ 1K • 👍 140 • 💬 153 • ⏱️ 6:51 • 5h ago
+👁️ 8K • 👍 230 • 💬 148 • ⏱️ 1:07 • 23h ago
 
 ---
 
@@ -349,7 +349,17 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEE
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 1K • 💬 221 • ⏱️ 8:47 • 12h ago
+👁️ 28K • 👍 2K • 💬 225 • ⏱️ 8:47 • 13h ago
+
+---
+
+**[Bitcoin Holders, Here We Go Again!](https://www.youtube.com/watch?v=K-toaTQ2p5o)**
+
+Welcome back! More Iran announcements over the weekend but Bitcoin is holding up well. Ledn Loans: Check out Ledn: ...
+
+📺 Aaron Bennett
+
+👁️ 2K • 👍 213 • 💬 156 • ⏱️ 6:51 • 5h ago
 
 ---
 
@@ -359,23 +369,7 @@ Bitcoin #Crypto #Finance Bitcoin is sitting at a critical level, and what happen
 
 📺 The Wolf Of All Streets
 
-👁️ 10K • 👍 457 • 💬 218 • ⏱️ 33:28 • 1d ago
-
----
-
-**[The Bank That Never Launches ETFs Just Launched a Bitcoin ETF](https://www.youtube.com/watch?v=nZgF2K4AGLo)**
-
-📺 Natalie Brunell
-
-👁️ 1K • 👍 26 • ⏱️ 0:46 • 12h ago
-
----
-
-**[HUGE CRYPTO MARKET STRUCTURE CLARITY UPDATE TOMORROW? #crypto #cryptocurrency #xrp #bitcoin](https://www.youtube.com/watch?v=ctz2A9SqZws)**
-
-📺 CryptoWendyO
-
-👁️ 8K • 👍 584 • 💬 30 • ⏱️ 2:00 • 1d ago
+👁️ 10K • 👍 460 • 💬 218 • ⏱️ 33:28 • 1d ago
 
 ---
 
@@ -385,17 +379,25 @@ Checkout the Mystery Boxes from Today's Video ➡ https://geni.us/BMMysteryboxes
 
 📺 The Hobbyist Miner
 
-👁️ 1K • 👍 108 • 💬 211 • ⏱️ 16:59 • 22h ago
+👁️ 1K • 👍 112 • 💬 218 • ⏱️ 16:59 • 23h ago
 
 ---
 
-**[All Hell Is Breaking Loose!! Crypto Holders - ACT NOW!](https://www.youtube.com/watch?v=klV3G9sJRqI)**
+**[LIVE: Michael Saylor on Bitcoin Bull Run &amp; MSTR Stock – BTC Price Prediction](https://www.youtube.com/watch?v=jyca__3GkZk)**
 
-April will be a big month for crypto - ACT NOW! WEEX Poker Party is LIVE: https://t.co/fKKfylqM79 ♦️Complete tasks.
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
 
-📺 Altcoin Daily
+📺 Andrew Does Life
 
-👁️ 39K • 👍 2K • 💬 214 • ⏱️ 9:31 • 1d ago
+👁️ 2K • 👍 1K • 44m ago
+
+---
+
+**[HUGE CRYPTO MARKET STRUCTURE CLARITY UPDATE TOMORROW? #crypto #cryptocurrency #xrp #bitcoin](https://www.youtube.com/watch?v=ctz2A9SqZws)**
+
+📺 CryptoWendyO
+
+👁️ 8K • 👍 586 • 💬 30 • ⏱️ 2:00 • 1d ago
 
 ---
 
