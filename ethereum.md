@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-04T21:33:08.889017+00:00'
+updated: '2026-04-04T22:31:35.918275+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 04, 2026 at 21:33 UTC  
+**Last Updated:** April 04, 2026 at 22:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +4.0%  
-**30d:** +4.3%  
-**90d:** -36.0%  
-**1y:** +14.2%  
+**24h:** +0.9%  
+**7d:** +4.4%  
+**30d:** +4.7%  
+**90d:** -35.8%  
+**1y:** +14.7%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
+
+---
+
+**[Russia Couldn’t Ban Bitcoin. So Now It’s Making 20 Million Users Register Their Wallets Instead](https://www.reddit.com/r/ethereum/comments/1scm6rd/russia_couldnt_ban_bitcoin_so_now_its_making_20/)**
+
+Russia submitted a bill requiring residents to report all foreign crypto wallet activity to tax authorities from July 2026. Twenty million users. No exemptions. This is what state capture of crypto looks like.
+
+🔗 [DailyCoinPost](https://dailycoinpost.com/russia-bitcoin-ban-failed-wallet-registration-2026/) • 25m ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Where is everyone trading/storing their crypto specifically eth? I currently am in crypto.com and having issues. I want to pull all my positions and move to another platform. I currently have WeBull and fidelity but don’t want to cram too much into fidelity as I like my eggs spread out. Which platform would you recommend?
 
-4h ago
+5h ago
 
 ---
 
@@ -136,14 +144,6 @@ People ask this a lot and most answers are either too optimistic or outdated. He
 
 ---
 
-**[Daily General Discussion April 02, 2026](https://www.reddit.com/r/ethereum/comments/1sa85du/daily_general_discussion_april_02_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -160,7 +160,7 @@ Decrypt • 1d ago
 
 As investors search for "the next Ethereum," this top cryptocurrency is worth a closer look.
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Motley Fool • 18h ago
 
 On Friday, April 3rd, the Ethereum Foundation staked over 45,000 Ether (ETH) tokens on the smart contract platform. This latest staking action brings the total amount of ETH locked by the foundation to roughly 69,500 coins, about 500 Ethers short of the foundation’s 70,000 staked ETH goal.Ethereum…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
@@ -184,7 +184,7 @@ Yahoo Finance • 1d ago
 
 Naoris debuts its quantum-resistant mainnet, which uses algorithms approved by the U.S. National Institute of Standards and Technology.
 
-coindesk.com • 1d ago
+CoinDesk • 1d ago
 
 ---
 
@@ -192,7 +192,7 @@ coindesk.com • 1d ago
 
 The foundation’s latest staking allocation mirrors its biggest-ever single-day move and is a major step-up from its initial February deployment.
 
-theblock.co • 1d ago
+The Block • 1d ago
 
 ---
 
@@ -214,15 +214,13 @@ Polymarket • 3d ago
 
 Ethereum is flashing a rare market signal, and it’s not showing up in price yet. While the broader crypto market remains stuck in consolidation, ETH
 
-Coinpedia • 8h ago
+Coinpedia • 9h ago
 
 ---
 
-**[I Asked ChatGPT To Explain Ethereum to Me Like I’m 12](https://www.aol.com/articles/asked-chatgpt-explain-ethereum-m-141704271.html)**
+**[Investors ‘Buy the Dip’ in Bitwise Ethereum ETF as $4.3M Flows In Despite Steep ETH Selloff](https://www.tipranks.com/news/cryptocurrencies/investors-buy-the-dip-in-bitwise-ethereum-etf-as-4-3m-flows-in-despite-steep-eth-selloff)**
 
-Confused by ethereum? Here’s a simple, beginner-friendly explanation of how it works, how to invest and whether it’s a good crypto investment, per ChatGPT.
-
-AOL.com • 6h ago
+TipRanks • 6h ago
 
 ---
 
@@ -236,7 +234,7 @@ Welcome back to Verified Investing! In today's urgent crypto market update, Chie
 
 📺 Gareth Soloway
 
-👁️ 31K • 👍 3K • 💬 231 • ⏱️ 11:47 • 4h ago
+👁️ 31K • 👍 3K • 💬 231 • ⏱️ 11:47 • 5h ago
 
 ---
 
@@ -246,7 +244,7 @@ Welcome back to Verified Investing! In today's urgent crypto market update, Chie
 
 📺 Stock Moe
 
-👁️ 12K • 👍 809 • 💬 93 • ⏱️ 11:56 • 9h ago
+👁️ 12K • 👍 809 • 💬 93 • ⏱️ 11:56 • 10h ago
 
 ---
 
@@ -256,7 +254,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 189 • 💬 17 • ⏱️ 10:14 • 8h ago
+👁️ 3K • 👍 189 • 💬 17 • ⏱️ 10:14 • 9h ago
 
 ---
 
@@ -276,7 +274,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 3K • 👍 240 • 💬 14 • ⏱️ 27:08 • 22h ago
+👁️ 3K • 👍 240 • 💬 14 • ⏱️ 27:08 • 23h ago
 
 ---
 
@@ -286,7 +284,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 148 • 👍 9 • 💬 1 • ⏱️ 4:43 • 11h ago
+👁️ 148 • 👍 9 • 💬 1 • ⏱️ 4:43 • 12h ago
 
 ---
 
@@ -296,7 +294,7 @@ In today's video I break down Bitcoin, Ethereum, stocks, oil, gold, and silver, 
 
 📺 James Crypto Guru
 
-👁️ 2K • 👍 146 • 💬 14 • ⏱️ 8:45 • 22h ago
+👁️ 2K • 👍 146 • 💬 14 • ⏱️ 8:45 • 23h ago
 
 ---
 
@@ -326,7 +324,7 @@ Build Your Own ETH Arbitrage Bot with AI in 2026 — Step-by-Step Trading Guide 
 
 📺 Logan Hayes
 
-👁️ 2K • 👍 27 • 💬 1 • ⏱️ 4:24 • 7h ago
+👁️ 2K • 👍 27 • 💬 1 • ⏱️ 4:24 • 8h ago
 
 ---
 
