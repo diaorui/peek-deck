@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-04T17:31:10.633877+00:00'
+updated: '2026-04-04T18:43:49.050499+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - videos
 - social
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 04, 2026 at 17:31 UTC  
+**Last Updated:** April 04, 2026 at 18:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** +2.0%  
-**30d:** -1.1%  
-**90d:** -28.4%  
-**1y:** -19.3%  
+**24h:** +0.6%  
+**7d:** +1.9%  
+**30d:** -1.2%  
+**90d:** -28.5%  
+**1y:** -19.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1348.41B
+**Market Cap:** $1346.49B
 Rank #1
 
-**Circulating Supply:** 20,011,343 BTC
+**Circulating Supply:** 20,011,378 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
 -46.6%
 
 **All-Time Low:** $67.81
-+99271.8%
++99146.4%
 
 ---
 
@@ -81,7 +81,15 @@ Rank #1
 
 Hi, Whats your perspective on this?
 
-3h ago
+4h ago
+
+---
+
+**[How to borrow against your crypto - step by step with real numbers](https://www.reddit.com/r/Bitcoin/comments/1scgjkt/how_to_borrow_against_your_crypto_step_by_step/)**
+
+A lot of explanations of crypto loans are vague or skip the parts that matter. Here's a concrete walkthrough with actual numbers. Step 1: Understand LTV (Loan-to-Value). LTV is the ratio of your loan to your collateral value. Deposit $10,000 in Bitcoin, borrow $5,000 - that's 50% LTV. Most platforms let you borrow 50–90% depending on the asset and loan term. Higher LTV = more cash but less buffer before liquidation. Step 2: Calculate your real liquidation threshold. Real numbers: you deposit $10,000 in BTC, borrow $6,000 (60% LTV). If BTC drops 25%, collateral is now worth $7,500. Loan is still $6,000 - LTV is now 80%. Most platforms warn around 80–85% and liquidate around 90–95%. Starting at 60% LTV, a 33% price drop puts you in danger. Starting at 50% LTV, it takes a 44% drop. That buffer matters enormously. Step 3: Understand loan terms vs LTV. This matters more than people realise. On YouHodler for example: 30-day loans go up to 90% LTV, 60-day up to 70% LTV, 180-day up to 50% LTV. Longer term = lower available LTV = more buffer built in. Choose the term that fits your actual need, not just the one that lets you borrow most. Step 4: Interest rates. Typically 8–15% APR depending on platform and term. On a $5,000 loan at 12% APR for 3 months, you pay about $150 in interest. That's the cost of keeping your crypto position. Step 5: Platform differences. Nexo and Ledn are well-known, offer around 50% LTV on BTC. YouHodler goes up to 90% LTV on 30-day loans, Swiss-regulated. More in r/ YouHodler_Official on the specifics. Step 6: Manage it actively. Not set-and-forget. Check LTV every few days during volatile periods. Most platforms let you add collateral or partially repay to bring LTV down. Have a plan: at what BTC price will you add collateral? At what price will you repay early? TL;DR: Start at 50% LTV or lower, know what price triggers your liquidation, have cash ready to act. The interest is usually your smallest concern - liquidation is the real risk. Questions welcome.
+
+24m ago
 
 ---
 
@@ -89,7 +97,7 @@ Hi, Whats your perspective on this?
 
 Hi my father had an Android S20 FE and we cannot figure out his password to get in. We know he had bitcoin from early 2015, any ideas on how to get into it, brute force?
 
-11h ago
+13h ago
 
 ---
 
@@ -97,7 +105,15 @@ Hi my father had an Android S20 FE and we cannot figure out his password to get 
 
 Hi, I don't have a bank account and there isn't any ATMs around me I can use to buy cryptocurrencies. I bought a vanilla card online to buy crypto. How can I do so? Thank you.
 
-5h ago
+6h ago
+
+---
+
+**[The superior way to hold Bitcoin in my opinion](https://www.reddit.com/r/Bitcoin/comments/1scee93/the_superior_way_to_hold_bitcoin_in_my_opinion/)**
+
+In my opinion Bitcoin offers various benefits depending on how you use it. For example, the most basic level is holding Bitcoin through an ETF. You can't leave the country with your Bitcoin in just 12 memorized words, it's the most basic way to hold Bitcoin, only using it for the NGU. It's slightly better if you hold Bitcoin on an exchange, at least you could send the BTC to someone else as money. The next level is to hold it in self-custody with KYC. At least you no longer have the risk of the exchange going bankrupt or your accounts being blocked, but you're a slave to the government that knows about your BTC. And the ultimate, best way is to hold it in self-custody without KYC. This is where all the benefits of BTC are unlocked, the most powerful way to fight the system. If you're at the initial levels, I advise you to gradually work your way up to the higher level Bitcoin holding way.
+
+1h ago
 
 ---
 
@@ -105,7 +121,7 @@ Hi, I don't have a bank account and there isn't any ATMs around me I can use to 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-11h ago
+12h ago
 
 ---
 
@@ -113,7 +129,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Bitcoin isn’t just about "number go up"—it’s about changing the fundamental architecture of how we fund global conflict. ​For decades, the legacy financial system has allowed governments to engage in endless, "forever" wars through the hidden tax of inflation. When a government can print money at will to fund military expansion, the true cost of war is hidden from the public, devaluing our savings and our future in the process. BITCOIN FIXES THIS! By operating on a fixed supply of 21 million, Bitcoin removes the "money printer" as a primary funding source for war. In a hard-money world, governments have to be honest about their budgets. They can’t just dilute the currency to bankroll destruction; they have to ask the people for taxes, making the cost of conflict transparent and immediate. It’s time to move toward a system that incentivizes production and peace over debt and destruction. Bitcoin is the separation of money and state, and it might be our best shot at ending the cycle of endless war.
 
-16h ago
+17h ago
 
 ---
 
@@ -121,13 +137,7 @@ Bitcoin isn’t just about "number go up"—it’s about changing the fundamenta
 
 At what point do I start running my own node?
 
-17h ago
-
----
-
-**[My favorite part of the ride](https://www.reddit.com/r/Bitcoin/comments/1sbes4i/my_favorite_part_of_the_ride/)**
-
-1d ago
+18h ago
 
 ---
 
@@ -135,23 +145,13 @@ At what point do I start running my own node?
 
 Hey all, I will try to keep responding to replies on the original post, I got blocked from my own post because I was responding too quickly. Here is the update, and we are wondering which way to go with this as we have the laptop working and the owner says she does remember that the wallet lived on the TOR browser. There are apparently two wallets that were available on TOR at that time: Electrum and Coinwallet. She believes it is Coinwallet. That being said, we don't know much about TOR, but it makes sense to try and access TOR and hopefully Coinwallet on the original laptop, but we can't seem to connect, as it gets to 5% bootstrapping "connecting to directory server" in the log, and "connecting to a relay directory" under the Status bar. Hoping someone could give us some guidance on how to proceed. We loaded TOR on her current laptop, and wasn't sure where to go from there. We also downloaded Coinwallet to her current laptop, running into the passphrase requirement. I believe there should be 12. This brings us to the second avenue of approach, as we found a text file with 30,000 words, groups of numbers and number/letter combinations. About 270 of them are common with the 2048 word list. This list was apparently created by the person that set up the wallet/TOR for her and this person was a cybersecurity expert for the DoD. Might this be able to be parsed/decoded with a program? We entered the first 12 words that appeared on both lists in the order of appearance into the Coinwallet passphrase box on her current laptop with no success. She is going to keep looking around on both drives (it was switched out between the dates of the first and last transactions on the Coinbase exchange log) to see if anything else jogs her memory. Thanks in advance for any help/advice!
 
-9h ago
+10h ago
 
 ---
 
-**[Remembered that I got BTC in 2014, can’t find the wallet (blockchain.info)](https://www.reddit.com/r/Bitcoin/comments/1sbpfa5/remembered_that_i_got_btc_in_2014_cant_find_the/)**
+**[My favorite part of the ride](https://www.reddit.com/r/Bitcoin/comments/1sbes4i/my_favorite_part_of_the_ride/)**
 
-Hey guys, I don’t know why but I just remembered that I bought BTC in late 2014. I was out drinking with friends and we talked about something clompletely different, it just hit me. Now the problem, which probably isn’t that rare: I created the wallet on blockchain.info and I know that I saved the keyphrase on an old phone which’s screen is probably smashed but still at home. But I have no idea what my wallet ID is. The only thing I have left is login links (blockchain.info/wallet/long array of numbers and letters) to blockchain.info, which i used to create the wallet and buy BTC. But the website is down/leads to blockchain.com and the login link does nothing here, nor does my email seem to be registered anymore, since I don’t get a reset password mail. I’m not into crypto at all but is there any chance that the coins are still there and I can find out my wallet ID somehow? I don’t know how many BTC would be in there, it’s probably not even a whole coin. But before I look through all my old devices I would like to know if it’s worth it. Thanks in advance!
-
-20h ago
-
----
-
-**[I have an old wallet JSON from 2013, from blockchain.info . How do I access it?](https://www.reddit.com/r/Bitcoin/comments/1sbzyyp/i_have_an_old_wallet_json_from_2013_from/)**
-
-Note: not answering DMs or clicking links I found an old json file while going through my old computer. Im wondering what steps can I take to repopulate this wallet
-
-12h ago
+1d ago
 
 ---
 
@@ -163,7 +163,7 @@ Note: not answering DMs or clicking links I found an old json file while going t
 
 CryptoQuant data shows overall bitcoin demand is contracting at -63,000 BTC per month even as institutional buyers accelerate purchases, with large holders distributing nearly 188,000 BTC over the past year.
 
-CoinDesk • 5h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -171,21 +171,13 @@ CoinDesk • 5h ago
 
 Financial giant Charles Schwab is set to launch spot buying of Bitcoin and Ethereum by the end of the quarter, the firm said Friday.
 
-Decrypt • 20h ago
-
----
-
-**[Cathie Wood has brutal response to 50% Bitcoin crash](https://finance.yahoo.com/markets/crypto/articles/cathie-wood-brutal-response-50-180000044.html)**
-
-It has been nearly six months since the flash crypto crash on Oct. 10 last year that wiped out millions of dollars in a single day. Bitcoin (BTC) had hit the all-time high (ATH) of $126,080 only a few days earlier on Oct. 6, but currently, it is trading 47% lower at $66,600.67. However, ...
-
-Yahoo Finance • 23h ago
+Decrypt • 21h ago
 
 ---
 
 **[‘You Have Until 2029’—Urgent Musk Bitcoin Warning Spurs Coinbase CEO Flip As Price Crash Fears Swirl](https://www.forbes.com/sites/digital-assets/2026/04/04/you-have-until-2029-urgent-elon-musk-bitcoin-warning-suddenly-triggers-price-crash-fears/)**
 
-Forbes • 5h ago
+Forbes • 6h ago
 
 ---
 
@@ -197,17 +189,17 @@ thestreet.com • 1d ago
 
 ---
 
-**[Stock futures and bitcoin slip, Treasury yields climb, as hot jobs report raises more questions about Fed rate cuts](https://www.marketwatch.com/story/stock-futures-and-bitcoin-slip-treasury-yields-climb-as-hot-jobs-report-raises-more-questions-about-fed-rate-cuts-921ff82f?gaa_at=eafs&gaa_n=AWEtsqew-4M4Iuw5ZxcIInWqazLxuXHnVEtMZuVPWsD9ca0_F1pc82L_2Wg7&gaa_ts=69d141ab&gaa_sig=TKC726xplwHkLjhyFDtzly77xgwXiMnq9A8x73YSsfbvQCaUxVEoibLCLglGFU9OfOY_XDak50-lCcAiAMjvFg%3D%3D)**
+**[Stock futures and bitcoin slip, Treasury yields climb, as hot jobs report raises more questions about Fed rate cuts](https://www.marketwatch.com/story/stock-futures-and-bitcoin-slip-treasury-yields-climb-as-hot-jobs-report-raises-more-questions-about-fed-rate-cuts-921ff82f?gaa_at=eafs&gaa_n=AWEtsqdvg6rj2YDPrwv-n1RFXdAfdlqiYN2mf46ze45hvr9MRVD91KfeC-t1&gaa_ts=69d15f4b&gaa_sig=d96sfGlbhh_wFjSL7reCzoN2pVEnTRMIXCli8O68QkE-vP4EIq_c51bWPdAPiqudI8qm_zAazg2684dkZqAItg%3D%3D)**
 
 MarketWatch • 1d ago
 
 ---
 
-**[Current price of Bitcoin for April 3, 2026](https://fortune.com/article/price-of-bitcoin-04-03-2026/)**
+**[Should You Buy Bitcoin While It's Under $100,000? Here's What Prediction Markets Think](https://finance.yahoo.com/markets/crypto/articles/buy-bitcoin-while-under-100-020500929.html)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+Based on prediction market data, a recovery this year for Bitcoin looks unlikely. Crypto investors will need to be patient.
 
-Fortune • 1d ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -219,9 +211,19 @@ The Block • 1d ago
 
 ---
 
-**[Google Paper Warns of Quantum Computing Risk for Bitcoin](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q?gaa_at=eafs&gaa_n=AWEtsqdHQI6_6bvedS_U2rSvwJgDwNYYarxvhQnWGyZijjqRLG0kTnWu-jPt&gaa_ts=69d141ab&gaa_sig=xQhlXrNTwCZAOSmXCycegM2BShYgdKu5DD_x5Z35M-C6BKl0S6_G4x35JrFZQ2zcR374FjuaeQ861A5hnw8fUg%3D%3D)**
+**[Current price of Bitcoin for April 3, 2026](https://fortune.com/article/price-of-bitcoin-04-03-2026/)**
 
-WSJ • 3d ago
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 1d ago
+
+---
+
+**[Bitcoin Sharks & Whales Capitulate: Realized Loss Exceeds $200M](https://www.tradingview.com/news/newsbtc:3ee3df5cd094b:0-bitcoin-sharks-whales-capitulate-realized-loss-exceeds-200m/)**
+
+On-chain data shows the large Bitcoin holders have been participating in a notable amount of loss realization recently, a sign of capitulation.Bitcoin Sharks & Whales See High Values On Realized Loss MetricIn a new post on X, on-chain analytics firm Glassnode has talked about the latest trend in th…
+
+TradingView • 12h ago
 
 ---
 
@@ -229,7 +231,7 @@ WSJ • 3d ago
 
 Charles Schwab is expanding deeper into digital assets, announcing plans for a forthcoming product that will allow clients to buy and sell bitcoin directly.
 
-Bitcoin Magazine • 21h ago
+Bitcoin Magazine • 23h ago
 
 ---
 
@@ -241,7 +243,7 @@ Bitcoin Magazine • 21h ago
 
 Google Quantum AI: Quantum computer could break Bitcoin cryptography with under 500,000 qubits in nine minutes. This will likely only be possible in the 2030s.
 
-⬆️ 15 • 💬 7 • 23h ago • [heise online](https://www.heise.de/en/news/Quantum-computer-researchers-Bitcoin-encryption-breakable-in-a-few-years-11244911.html)
+⬆️ 15 • 💬 7 • 1d ago • [heise online](https://www.heise.de/en/news/Quantum-computer-researchers-Bitcoin-encryption-breakable-in-a-few-years-11244911.html)
 
 ---
 
@@ -319,7 +321,7 @@ Markets cracked, oil surged, Bitcoin dipped, and Larry Fink is warning that a pr
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 94 • ⏱️ 14:11 • 20h ago
+👁️ 17K • 👍 1K • 💬 94 • ⏱️ 14:11 • 21h ago
 
 ---
 
@@ -329,7 +331,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 10K • 👍 974 • 💬 21 • ⏱️ 45:08 • 4h ago
+👁️ 17K • 👍 1K • 💬 21 • ⏱️ 45:08 • 5h ago
 
 ---
 
@@ -339,7 +341,27 @@ Trump speaks… and markets crash again! Bitcoin fell to $66K, and in just 25 mi
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 2K • 💬 177 • ⏱️ 36:07 • 1d ago
+👁️ 21K • 👍 2K • 💬 181 • ⏱️ 36:07 • 1d ago
+
+---
+
+**[WARNING: Bitcoin is 11 Days Away from a MASSIVE Move! (ETH, XRP, SOL, AVAX)](https://www.youtube.com/watch?v=_Eb6fYPj4TY)**
+
+Welcome back to Verified Investing! In today's urgent crypto market update, Chief Market Strategist Gareth Soloway dives deep ...
+
+📺 Gareth Soloway
+
+👁️ 11K • 👍 1K • 💬 111 • ⏱️ 11:47 • 1h ago
+
+---
+
+**[CNBC Today: The Greatest Crypto Bull Run Of Our Lifetime HAPPENING NOW](https://www.youtube.com/watch?v=Q_FFfWvq-z8)**
+
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEEX Poker Party is LIVE ($30k Bonus): ...
+
+📺 Altcoin Daily
+
+👁️ 36K • 👍 2K • 💬 266 • ⏱️ 8:47 • 20h ago
 
 ---
 
@@ -349,17 +371,17 @@ Welcome back! More Iran announcements over the weekend but Bitcoin is holding up
 
 📺 Aaron Bennett
 
-👁️ 4K • 👍 323 • 💬 177 • ⏱️ 6:51 • 11h ago
+👁️ 5K • 👍 333 • 💬 180 • ⏱️ 6:51 • 12h ago
 
 ---
 
-**[The Moment Bitcoin Gets Obvious Is When You&#39;re Too Late](https://www.youtube.com/watch?v=6i1lNY_14M0)**
+**[All Hell Is Breaking Loose!! Crypto Holders - ACT NOW!](https://www.youtube.com/watch?v=klV3G9sJRqI)**
 
-Most people are waiting for Bitcoin to “do something.” That's the mistake. Because by the time price moves… the real opportunity ...
+April will be a big month for crypto - ACT NOW! WEEX Poker Party is LIVE: https://t.co/fKKfylqM79 ♦️Complete tasks.
 
-📺 Tim Talks Finance
+📺 Altcoin Daily
 
-👁️ 3K • 👍 216 • 💬 48 • ⏱️ 12:07 • 23h ago
+👁️ 40K • 👍 2K • 💬 215 • ⏱️ 9:31 • 1d ago
 
 ---
 
@@ -369,17 +391,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Buy
 
 📺 Altcoin Daily
 
-👁️ 8K • 👍 241 • 💬 149 • ⏱️ 1:07 • 1d ago
-
----
-
-**[Bitcoin Fights To Hold This Crucial Level… What Happens Next?](https://www.youtube.com/watch?v=YXIwrjioXLg)**
-
-Bitcoin #Crypto #Finance Bitcoin is sitting at a critical level, and what happens next could shape the entire short-term market.
-
-📺 The Wolf Of All Streets
-
-👁️ 10K • 👍 501 • 💬 208 • ⏱️ 33:28 • 1d ago
+👁️ 8K • 👍 244 • 💬 150 • ⏱️ 1:07 • 1d ago
 
 ---
 
@@ -389,27 +401,17 @@ The Bitcoin 4 year cycle somehow continues... here's what's next BITUNIX TRADE T
 
 📺 Lark Davis
 
-👁️ 5K • 👍 414 • 💬 115 • ⏱️ 12:12 • 4h ago
+👁️ 9K • 👍 560 • 💬 158 • ⏱️ 12:12 • 5h ago
 
 ---
 
-**[Bitcoin: The Beauty of Mathematics (Part 69)](https://www.youtube.com/watch?v=wUhYv3lGk_I)**
+**[PAY ATTENTION: Bitcoin Headed Lower? Banks Signal A Bigger Shift!](https://www.youtube.com/watch?v=EJXmKxgalkc)**
 
-It is time for an update on our beauty of mathematics series about Bitcoin and crypto! Into The Cryptoverse Premium SALE: ...
+Bitcoin #Crypto #Finance Bitcoin is facing pressure with growing calls for potential new lows as macro conditions tighten and ...
 
-📺 Benjamin Cowen
+📺 The Wolf Of All Streets
 
-👁️ 46K • 👍 2K • 💬 104 • ⏱️ 4:47 • 2d ago
-
----
-
-**[LIVE: Michael Saylor on Bitcoin Bull Run &amp; MSTR/STRK/STRF Stocks](https://www.youtube.com/watch?v=h8sQo3ssoRE)**
-
-BTC #Bitcoin #Crypto #MSTR #MichaelSaylor Join Michael Saylor LIVE as we break down the evolving Bitcoin strategy behind ...
-
-📺 Vik's Video Vizuals
-
-👁️ 6K • 👍 4K • 6h ago
+👁️ 11K • 👍 850 • 💬 162 • ⏱️ 29:42 • 1d ago
 
 ---
 

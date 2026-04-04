@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-04T17:31:10.643188+00:00'
+updated: '2026-04-04T18:43:49.058405+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 04, 2026 at 17:31 UTC  
+**Last Updated:** April 04, 2026 at 18:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,6 +32,20 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Robots are starting to enter one of the most sensitive environments we have.](https://www.reddit.com/r/robotics/comments/1scemxg/robots_are_starting_to_enter_one_of_the_most/)**
+
+1h ago
+
+---
+
+**[control/simulate robots in browser with zero setup](https://www.reddit.com/r/robotics/comments/1sc8t84/controlsimulate_robots_in_browser_with_zero_setup/)**
+
+hi, i've been working on browser-based robotics simulation and wanted to get some feedback. as of now, one can control/simulate, unitree g1, h1, go1, bostons, franka panda arm, or create your own robot. we're working on few more things. 1. training module to train policies directly in browser based on behaviour cloning + RL. 2. rent a robot - to see your trainings in simulations vs on real robots in real world, 3. and much more https://reddit.com/link/1sc8t84/video/jc23l5jas5tg1/player
+
+5h ago
+
+---
+
 **[Humanoid robots undergoing training](https://www.reddit.com/r/robotics/comments/1sbj504/humanoid_robots_undergoing_training/)**
 
 1d ago
@@ -42,7 +56,23 @@ Robotics research and industry news
 
 i have 3 boards now which are dead ig because the red light in it is lighting up but it not getting connected i am using a 3.7v battery a charging module a touch sensor a 1.3 inch oled it was working fine i was using it from my computer but after some time its not working even if im connection it to my pc
 
-2h ago
+3h ago
+
+---
+
+**[Large Actuator Sketch to Build](https://www.reddit.com/r/robotics/comments/1scgbvy/large_actuator_sketch_to_build/)**
+
+https://www.youtube.com/@ALMA.GeoffreyAment Chapter 3 Footnote 1. Building an Actuator, a PID Control Loop, and an Ultrasonic Distance sensor to detect and not crash into the ceiling. This will be used in Chapter 3 Desk -- Stay tuned for more!
+
+32m ago
+
+---
+
+**[Looking for early testers for a ROS 2 simulation testing CI tool](https://www.reddit.com/r/robotics/comments/1scewdn/looking_for_early_testers_for_a_ros_2_simulation/)**
+
+I'm building a CI tool for ROS 2 simulation testing and looking for a few teams to try it out and give feedback. The idea: you connect your GitHub repo, every push runs your existing colcon tests inside a headless Gazebo container on cloud infra. You get a dashboard that shows pass/fail across runs and flags when a test that used to pass starts failing. If it works with colcon test locally, it works here. It's still in beta, and I'm mainly looking for feedback on whether this actually solves a real pain point or if I'm building something nobody needs. Currently supports ROS 2 + Gazebo, working on adding more simulators. If you're on ROS 2 and have simulation tests (or want to but CI for sim feels like too much work), DM me or drop a comment and I'll send you access.
+
+1h ago
 
 ---
 
@@ -54,19 +84,11 @@ Appreciate all the feedback and love on the recent videos, here's another clip o
 
 ---
 
-**[control/simulate robots in browser with zero setup](https://www.reddit.com/r/robotics/comments/1sc8t84/controlsimulate_robots_in_browser_with_zero_setup/)**
-
-hi, i've been working on browser-based robotics simulation and wanted to get some feedback. as of now, one can control/simulate, unitree g1, h1, go1, bostons, franka panda arm, or create your own robot. we're working on few more things. 1. training module to train policies directly in browser based on behaviour cloning + RL. 2. rent a robot - to see your trainings in simulations vs on real robots in real world, 3. and much more https://reddit.com/link/1sc8t84/video/jc23l5jas5tg1/player
-
-4h ago
-
----
-
 **[Pressure sensor in gripper](https://www.reddit.com/r/robotics/comments/1scb928/pressure_sensor_in_gripper/)**
 
 Hi guys, can u recommend me which sensor i should use in my robotic gripper as a sensing touch of object in fingers, it will be flat contact between object and sensor. I cant decide between velostat or FSR or do you know about some better type ?
 
-2h ago
+3h ago
 
 ---
 
@@ -86,30 +108,6 @@ l find that RoboBaton mini is good to use. I was originally planning to use Inte
 
 ---
 
-**[PeppyOS v0.6.0: Now with variants and flavors](https://www.reddit.com/r/robotics/comments/1sc0or9/peppyos_v060_now_with_variants_and_flavors/)**
-
-Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 that I've been building. The feedback was really helpful, and I've been heads-down since then working on one of the biggest feature of the framework: Variants and flavors (the ability to define a single communication interface for different pieces of code). The goal hasn't changed: someone new should be able to pick this up and have nodes communicating in about half an hour. I'd love to hear what you think, especially from people who tried it last time.
-
-12h ago
-
----
-
-**[ROS News for the Week of March 31st, 2026](https://www.reddit.com/r/robotics/comments/1sbnizu/ros_news_for_the_week_of_march_31st_2026/)**
-
-Read all of the ROS news on Open Robotics Discourse. Picture is the Innate.bot MARS robot. They're running a hackathon at YCombinator next Saturday.
-
-21h ago
-
----
-
-**[Suggestions for battery](https://www.reddit.com/r/robotics/comments/1sbh2tx/suggestions_for_battery/)**
-
-i need y'all to give me suggestions for the battery part im having two 6v n20 600rpm motors and also the battery is connected to the buck which powers the esp32 the sensors are powered from the esp32 3.3v all the things are working perfectly just the prblm im facing is o hVe 7.4v lipo battery but its too big and bulky for this size and makes it heavier too so can you suggest some batteries (rechargeable) 7.4v thats smaller and compact in size to fit on the upper part (where my thumb is placed)
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -122,9 +120,15 @@ Crunchbase News • 2d ago
 
 ---
 
-**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqf0uNbUUIaNd_1R1IJx8B7QwAAaFI4caEfzDcv1sgvmF8MG_V6VmPZW&gaa_ts=69d141af&gaa_sig=pWlm7-UpaebsdAv05fM23ZTSvjdjEXSVB57pmu8DnFrluossMj1Krjpfi1gVfGO1q1THdadH7m-_95m7s5enOg%3D%3D)**
+**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqdIVQpiTD9ZrBSfIoCdKUT3PJ-AdNC3oylIol9FjumVaT9O5sAJ6bMt&gaa_ts=69d15f50&gaa_sig=FDvXytrl7xZW--PdrvBQjjYwnZPtEDYU8jgBRnkr9DgVEI8DajjIO_nGjdxugu8r5lynDXrynUm_zkLeV2HlBQ%3D%3D)**
 
 WSJ • 1d ago
+
+---
+
+**[Generalist Is Betting Its Robot-Training Gloves Will Usher In Robotics’ ChatGPT Moment](https://www.forbes.com/sites/annatong/2026/04/02/generalist-is-betting-its-robot-training-gloves-will-usher-in-robotics-chatgpt-moment/)**
+
+Forbes • 2d ago
 
 ---
 
@@ -136,17 +140,19 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[Generalist Is Betting Its Robot-Training Gloves Will Usher In Robotics’ ChatGPT Moment](https://www.forbes.com/sites/annatong/2026/04/02/generalist-is-betting-its-robot-training-gloves-will-usher-in-robotics-chatgpt-moment/)**
-
-Forbes • 2d ago
-
----
-
 **[Week Wraps Aboard Station with Spacesuits, Eye Checks, Robotics, and More](https://www.nasa.gov/blogs/spacestation/2026/04/03/week-wraps-aboard-station-with-spacesuits-eye-checks-robotics-and-more/)**
 
 Spacesuit work and eye checks wrapped up the week for the Expedition 74 crew aboard the International Space Station. The orbital residents also focused on robotics, cargo transfers, and science hardware maintenance at the end of the week.
 
-NASA (.gov) • 20h ago
+NASA (.gov) • 21h ago
+
+---
+
+**[Prediction: AI Robotics Will Be a $375 Billion Industry and These 2 Stocks Will Lead It](https://www.fool.com/investing/2026/04/04/prediction-ai-robotics-will-be-a-375-billion-indus/)**
+
+Both of these companies are proven trailblazers.
+
+The Motley Fool • 57m ago
 
 ---
 
@@ -164,31 +170,65 @@ Tech Xplore • 2d ago
 
 ---
 
-**[FedEx’s next AI leap to feature RFID, robotics](https://www.supplychaindive.com/news/fedex-ai-usage-rfid-robotics-network-2/816220/)**
-
-The carrier is scaling its use of physical assets powered by AI to strengthen network reliability and improve connectivity with shippers, a FedEx executive said.
-
-Supply Chain Dive • 3d ago
-
----
-
 **[Robots are coming to the 1819 Innovation Hub](https://www.uc.edu/news/articles/2026/04/robots-are-coming-to-the-1819-innovation-hub.html)**
 
 UC 1819 Innovation Hub hosts AI Robotics Summit. Various segments, such as aerospace and defense, healthcare, logistics and manufacturing will be on display.
 
-University of Cincinnati • 20h ago
+University of Cincinnati • 22h ago
 
 ---
 
-**[Robots learn to ask humans for help](https://www.axios.com/2026/04/01/robots-delivery-serve-tmobile)**
+**[Rochester robotics team opens workshop doors April 11](https://www.kimt.com/news/rochester-robotics-team-opens-workshop-doors-april-11/article_906733d7-5c03-4742-be05-52f9ef062727.html)**
 
-Axios • 2d ago
+The team has won three regional events and competed at the FIRST World Championship three times.
+
+KIMT • 2h ago
 
 ---
 
 ---
 
 ## YouTube Videos: "robotics"
+
+**[Samsung Introduces &quot;Galaxy BOT&quot; — A Humanoid Robot That Can Do Anything](https://www.youtube.com/watch?v=N3eRvZP6oVU)**
+
+Samsung is drawing significant attention with its new concept known as “Galaxy BOT,” a humanoid robot designed to perform a ...
+
+📺 Carros Show
+
+👁️ 6K • 👍 156 • 💬 8 • ⏱️ 8:25 • 5d ago
+
+---
+
+**[Shawn Ryan Tests a Real Humanoid Robot](https://www.youtube.com/watch?v=HWq9cFhTvvQ)**
+
+Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In this clip, we break down how this robot sees, ...
+
+📺 Shawn Ryan Show
+
+👁️ 902K • 👍 35K • 💬 5K • ⏱️ 8:48 • 2d ago
+
+---
+
+**[Brett Adcock - Shawn Ryan’s First Interview with a Robot | SRS #292](https://www.youtube.com/watch?v=99pOdGEGu6s)**
+
+Brett Adcock is a technology entrepreneur focused on building companies in robotics, artificial intelligence, and aerospace.
+
+📺 Shawn Ryan Show
+
+👁️ 505K • 👍 10K • 💬 3K • ⏱️ 2:57:09 • 5d ago
+
+---
+
+**[Xiaomi Unveils &quot;Mi Bot&quot; - Robot Assistant That Can Sell Phones](https://www.youtube.com/watch?v=WgxEbw1i_PM)**
+
+Xiaomi is attracting attention with a new concept known as “Mi Bot,” a robotic assistant designed to operate in retail environments ...
+
+📺 Carros Show
+
+👁️ 5K • 👍 101 • 💬 3 • ⏱️ 8:55 • 5d ago
+
+---
 
 **[Xiaomi’s New AI Robot Hand Works Like a REAL Human… This Is INSANE](https://www.youtube.com/watch?v=Ubpk3tOl9gw)**
 
@@ -200,13 +240,33 @@ Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking
 
 ---
 
-**[Brett Adcock - Shawn Ryan’s First Interview with a Robot | SRS #292](https://www.youtube.com/watch?v=99pOdGEGu6s)**
+**[I broke a robot in China](https://www.youtube.com/watch?v=7U3vjVfwChc)**
 
-Brett Adcock is a technology entrepreneur focused on building companies in robotics, artificial intelligence, and aerospace.
+China is leading the world in humanoid robot shipments. Powered by artificial intelligence, these machines are setting new ...
 
-📺 Shawn Ryan Show
+📺 CGTN
 
-👁️ 503K • 👍 10K • 💬 3K • ⏱️ 2:57:09 • 5d ago
+👁️ 33K • 👍 284 • 💬 57 • ⏱️ 1:54 • 2d ago
+
+---
+
+**[Every Home Will Have a Humanoid Robot in 10 Years](https://www.youtube.com/watch?v=u4NLSzMP8z0)**
+
+Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join Support the Shawn ...
+
+📺 Shawn Ryan Clips
+
+👁️ 10K • 👍 337 • 💬 136 • ⏱️ 15:18 • 4d ago
+
+---
+
+**[Robot waifus, RIP Sora, GLM-5.1, AI brain scans, Google realtime voice: AI NEWS](https://www.youtube.com/watch?v=6Il0CJx9yU8)**
+
+HUGE AI NEWS: GLM-5.1, daVinci MagiHuman, ARC-AGI 3, PrismAudio, Matrix Game, & more #ai #ainews #aitools #aivideo ...
+
+📺 AI Search
+
+👁️ 121K • 👍 5K • 💬 539 • ⏱️ 47:29 • 6d ago
 
 ---
 
@@ -216,75 +276,17 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCkouj
 
 📺 Shawn Ryan Show
 
-👁️ 1.1M • 👍 18K • 💬 1K • ⏱️ 0:28 • 4d ago
+👁️ 1.1M • 👍 18K • 💬 1K • ⏱️ 0:28 • 5d ago
 
 ---
 
-**[Shawn Ryan Tests a Real Humanoid Robot](https://www.youtube.com/watch?v=HWq9cFhTvvQ)**
+**[Angry Delivery Robots ATTACK Chicago](https://www.youtube.com/watch?v=s377ReXrErY)**
 
-Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In this clip, we break down how this robot sees, ...
+In this video, I discuss the very scary developments we are seeing out of the city of Chicago, which has appeared to have angered ...
 
-📺 Shawn Ryan Show
+📺 Actual Justice Warrior
 
-👁️ 892K • 👍 34K • 💬 5K • ⏱️ 8:48 • 2d ago
-
----
-
-**[The Coolest Robot on the Planet 🤯](https://www.youtube.com/watch?v=t37TaaFsHDM)**
-
-Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join Support the Shawn ...
-
-📺 Shawn Ryan Show
-
-👁️ 945K • 👍 22K • 💬 2K • ⏱️ 0:44 • 3d ago
-
----
-
-**[Xiaomi Unveils &quot;Mi Bot&quot; - Robot Assistant That Can Sell Phones](https://www.youtube.com/watch?v=WgxEbw1i_PM)**
-
-Xiaomi is attracting attention with a new concept known as “Mi Bot,” a robotic assistant designed to operate in retail environments ...
-
-📺 Carros Show
-
-👁️ 5K • 👍 100 • 💬 3 • ⏱️ 8:55 • 5d ago
-
----
-
-**[Female Robots 🤖 Serving food now 😂](https://www.youtube.com/watch?v=AqxWV9ij4BY)**
-
-📺 Mike Mizzle
-
-👁️ 127K • 👍 5K • 💬 268 • ⏱️ 0:44 • 2d ago
-
----
-
-**[Fat Jinu Does the Robot Trend 🤯](https://www.youtube.com/watch?v=aXaOgdF9C7U)**
-
-rumi #huntrix #kpop #kpopdemonhunters #shorts #celebrity #trend #makeup #mira #zoey #jinu Production Disclosure (Channel: ...
-
-📺 Faces of Culture
-
-👁️ 4.5M • 👍 11K • 💬 8 • ⏱️ 0:04 • 2d ago
-
----
-
-**[I Spent a Day with the REAL ROBOT!](https://www.youtube.com/watch?v=gGP1lWynxSs)**
-
-Today, Vlad and his friends spend 24 hours with a REAL ROBOT to test how strong, smart and fast it really is! Watch until the end ...
-
-📺 Vlad
-
-👁️ 355K • 👍 4K • 💬 295 • ⏱️ 9:28 • 6h ago
-
----
-
-**[WILL ROBOTS REPLACE SURGEONS?](https://www.youtube.com/watch?v=Y5R_kifCp-8)**
-
-AI Expert Karen Hao speaks on whether if AI & Robotics will actually replace surgeons...
-
-📺 The Diary Of A CEO
-
-👁️ 174K • 👍 4K • 💬 267 • ⏱️ 1:14 • 6d ago
+👁️ 39K • 👍 2K • 💬 820 • ⏱️ 11:05 • 3d ago
 
 ---
 
