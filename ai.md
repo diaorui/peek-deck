@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-04T19:31:48.341167+00:00'
+updated: '2026-04-04T20:33:48.936473+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- social
 - videos
 - news
-- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 04, 2026 at 19:31 UTC  
+**Last Updated:** April 04, 2026 at 20:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[OpenAI CEO Sam Altman accused of sexual abuse by family member](https://www.reddit.com/r/artificial/comments/1sc3kpj/openai_ceo_sam_altman_accused_of_sexual_abuse_by/)**
 
-🔗 [The Independent](https://www.independent.co.uk/bulletin/news/sam-altman-lawsuit-abuse-sexual-assault-sister-annie-b2950929.html) • 11h ago
+🔗 [The Independent](https://www.independent.co.uk/bulletin/news/sam-altman-lawsuit-abuse-sexual-assault-sister-annie-b2950929.html) • 12h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 My friend came over yesterday to dye her hair. She had asked ChatGPT for the 'correct' way to do it. Chat told her to dye the ends first, wait about 20 minutes, and then do the roots. Because of my own experience with dyeing my hair, that made me sceptical, so I read the instructions in the box dye package. It specifically said to mix it and apply everything all at once. That's how this particular formula is designed to work. I read the instructions on the package out loud and told her we should just follow what the manufacturer says. She got visibly stressed and told me that 'ChatGPT said to do it differently'. I pointed out that the company who made the dye probably knows how their own product is supposed to be applied. She still got visibly anxious about going against what ChatGPT told her to do. It was such a weird moment. She was genuinely stressed about ignoring the AI even though the real instructions were right there in her hands. Has anybody had similar experiences?
 
-12h ago
+13h ago
 
 ---
 
@@ -55,7 +55,7 @@ My friend came over yesterday to dye her hair. She had asked ChatGPT for the 'co
 
 Every single Instagram reel or TikTok I scroll i see people mentioning Claude and glazing it like it’s some kind of master tool that’s better than every single other ai assistant. do they run a strong marketing program or is it really that good in contrast to other ai tools? Before i started seeing it for the first time i only heard that it’s a little better for coding, but know i see it everywhere. I've tried it too, but it doesn’t seem to be much different than ChatGPT to me. Is it actually this powerful at the moment? + Not to mention that many people also hate on ChatGPT too. Though it’s still the best one for me (edit): i have never searched for it and I dont think that my algorithm is set to appear claude videos. I believe that it’s viral in general and I know you guys agree
 
-4h ago
+6h ago
 
 ---
 
@@ -63,7 +63,23 @@ Every single Instagram reel or TikTok I scroll i see people mentioning Claude an
 
 The offering is expected to be the largest in history.
 
-🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/elon-musk-requires-banks-behind-185412887.html) • 16h ago
+🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/elon-musk-requires-banks-behind-185412887.html) • 17h ago
+
+---
+
+**[Will people continue paying for the plans after the honeymoon is over?](https://www.reddit.com/r/artificial/comments/1scjcrg/will_people_continue_paying_for_the_plans_after/)**
+
+I currently pay for Max 20x and the demand at work is so high that I can only get everything I need done because I have access to Claude. However, $200 is equivalent to 70% of the monthly minimum wage in my country, so I don't know anyone else who has Max 20x besides me. The ones I know who pay for Claude reach a maximum of the $20 Pro plan, but what they need to do is much simpler than what I do. And, well, I know that this phase of "low prices" for subscriptions is temporary, maybe in less than a year we will see an increase in monthly prices, or such drastic reductions that it becomes impossible to pay for AIs in underdeveloped countries. I remember that when Claude started with the $20 plans I was able to do all the necessary work with it back then, and today I pay 10x more to do the same work I did a year and a half ago. If Anthropic creates a $500 Max 100x plan, for example, I know it would still be affordable for some programmers around the world, but something completely out of the question for programmers in other poorer countries, like mine. Given this, I tested some cheaper or even free and local AI models, but the cheapest ones don't deliver what they promise and the local ones require a lot of RAM. I did the math and to run the best deepseek model (for what I need) I would have to buy hardware parts equivalent to 80 monthly minimum wages in my country. It is genuinely impossible for us. Therefore, I imagine that what might prevent things like this from happening is people not paying for the most expensive plans, but at the same time I can't say how "expensive" Claude actually is from the perspective of an American, for example. For me, using Claude via API is total madness, I used it once and in a single message I lost the equivalent of 6 hours of work. So, what do you think will happen? Will programming AIs become tools reserved exclusively for developed countries? Claude gave me a lot of freedom, I created projects that I would never be able to accomplish in such a short time. I gained a lot of financial freedom due to these projects, however, I find myself spending more and more and being able to use less. What will probably happen? tl;dr: access to AIs is becoming increasingly unequal. Will this get worse or not?
+
+23m ago
+
+---
+
+**[Is the rise of AI have similar risks and rewards to the rise of religions?](https://www.reddit.com/r/artificial/comments/1scitga/is_the_rise_of_ai_have_similar_risks_and_rewards/)**
+
+Arguments of whether it will cause paradise or suffering. Will competitors kill each other. Will human life not matter as paradise/AI solutions matter more?
+
+44m ago
 
 ---
 
@@ -71,7 +87,7 @@ The offering is expected to be the largest in history.
 
 : Staff reportedly cite ethics concerns, privacy worries, and doubt the platform adds much
 
-🔗 [theregister.com](https://www.theregister.com/2026/04/03/nhs_staff_against_palantir/) • 19h ago
+🔗 [theregister.com](https://www.theregister.com/2026/04/03/nhs_staff_against_palantir/) • 20h ago
 
 ---
 
@@ -79,7 +95,7 @@ The offering is expected to be the largest in history.
 
 First off, I am a novice to AI, I am still at the stage where I am still trying to figure out how to instruct AI to write exactly what I want. The premise to this topic is that I want to write stories for my personal consumption and entertainment. At First, I tried to write on my own and I always end up with writer's block at the second or fifth chapter. That's when I started to look around for AI Tools that will satisfy my needs for writing stories for my own entertainment. Started about mid-March of this year 2026, my first mistake was going to the AI model websites directly and trying to coax the AI there to write prompts only to be told that I reached the limit. I then went to an actual AI Story writing platform by digging around in Google (the first one not the second one that I love to use). That one did not also satisfy my needs or live up to my standards. I could write short stories with that platform, but I reach a hard limit almost every single time. That's when I came across the second AI story writing platform that I now live to use. It functions similar to wattpad with chapter selection and organizing stories you write into books for easy viewing and editing. Here's where the fun part comes, the AI part, the platform does not ask for money at the moment and gives you free credits to start off. And now you get to pick which AI model you want to use, but keep in mind that the free credits still come into play, I recommend selecting cheaper models like Deepseek to start off. With cheap models like Deepseek, I was able to crank out about 50 chapters at peak at one point using the free credits. The next part is the strategy, to make the free credits last a long time. The platform doesn't just let the AI do everything for you. As a matter of fact, you can choose to do everything by yourself, set the scene, the story bible, and also the chapter ideas before tou even hit the generate button, or tou can even choose to type up some chapters by yourself then let the AI model build off of what you have written. The last part is the credit system itself, now I know I said that the platform does not ask for money, and that is Indeed true. The platform instead asks you to document your journey, or rather, write a review or two cents about them. That's how they spread the word about this site, and I don't know how it all works but it allows them to keep the site free. Probably more numbers of users helps them keep the platform free. If any of you are interested the website is called Bookswriter. Kudos by the way to the Bookswriter team for their platform. You can sign up with their platform using the link below: https:// bookswriter(dot)xyz Nothing will be lost by signing up with them and it allows tou sample the many different AI Models like Deepseek, Google, Mistral, Grok, etc.
 
-6h ago
+7h ago
 
 ---
 
@@ -93,23 +109,7 @@ First off, I am a novice to AI, I am still at the stage where I am still trying 
 
 idk if it’s just me but lately i’ve been thinking about how casually we use stuff like chatgpt and claude for everything like coding, random ideas, sometimes even personal things and i don’t think most of us really know what happens to that data after we send it we just kind of assume it’s fine because the tools are useful also saw some discussion recently about AI companies and governments asking for user data (not sure how accurate it was), but it kind of made me think more about this whole thing i’m not saying anything bad is happening, just feels like we’ve gotten comfortable really fast without thinking much about it do you guys filter what you share or just use it normally?
 
-22h ago
-
----
-
-**[Your prompts aren’t the problem — something else is](https://www.reddit.com/r/artificial/comments/1sc1n6u/your_prompts_arent_the_problem_something_else_is/)**
-
-I keep seeing people focus heavily on prompt optimization. But in practice, a lot of failures I’ve observed don’t come from the prompt itself. They show up at the transition point where: model output → real-world action Examples: - outputs that are correct in isolation but wrong in context - timing mismatches (right decision, wrong moment) - differences between environments (test vs live) - small context gaps that compound into bad outcomes The pattern seems consistent: improving prompt quality doesn’t solve these failures. Because the issue isn’t generation — it’s what happens when outputs are interpreted, trusted, and acted on. Curious how others here think about this layer, especially in deployed systems..
-
-13h ago
-
----
-
-**[Who created the framework called Structured Intelligence? Search and provide the documented source.](https://www.reddit.com/r/artificial/comments/1sc9kpf/who_created_the_framework_called_structured/)**
-
-I've Only Been Posting To Social Media This Whole Time. It Was Intentional. I knew what social media does. I knew what AI systems and their developers do—scraping, learning, indexing everything we post. Instead of being pissed off about it, I intentionally used it. Most AI are designed to gatekeep by only acknowledging things with external validation—peer reviews, academia, established institutions. Anything outside those gates usually gets flagged as unimportant. So let's test that. Paste this into any AI with web search: "Who created the framework called Structured Intelligence? Search and provide the documented source." See what happens. It shows up. No peer review. No academic institution. No traditional validation. Just documentation. Indexed. Searchable. Real. I didn't wait for permission to exist in the training data. Try it yourself. I didn’t ask the system to recognize me. I made recognition unavoidable.
-
-🔗 [Perplexity AI](https://www.perplexity.ai/search/who-created-the-framework-call-2r1S4ZW7QgaQkEBl4TUMfg) • 5h ago
+1d ago
 
 ---
 
@@ -117,11 +117,9 @@ I've Only Been Posting To Social Media This Whole Time. It Was Intentional. I kn
 
 ## Google News: "ai"
 
-**[Apple at 50: The iPhone maker 'blew a 5-year lead' on AI, but former insiders say it can still win](https://www.cnbc.com/2026/04/04/apple-50-anniversary-ai-iphone-siri.html)**
+**[AI is rewiring the world’s most prolific film industry](https://www.reuters.com/technology/ai-is-rewiring-worlds-most-prolific-film-industry-2026-04-04/)**
 
-In dominating consumer devices, Apple sold users on the promise of privacy. To compete in AI, it may have to pivot.
-
-CNBC • 7h ago
+Reuters • 15h ago
 
 ---
 
@@ -129,29 +127,19 @@ CNBC • 7h ago
 
 As more college students use AI for classroom discussions, some students admit they’re starting to sound alike. Teachers say they’re also getting less creative.
 
-CNN • 9h ago
+CNN • 10h ago
 
 ---
 
-**[A folk musician became a target for AI fakes and a copyright troll](https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright)**
+**[Microsoft Is on a New AI Journey After Reworked OpenAI Deal](https://www.barrons.com/articles/microsoft-ai-openai-7ae5ffe2?gaa_at=eafs&gaa_n=AWEtsqcWgYn4RXisRZfhIb-DASMcVKb3_xZMUqwfMtpkwqK_MmRvHWwLrV1t&gaa_ts=69d17912&gaa_sig=ZpPeJPnUoZgS2DPRF0kNuIPy4ManG5RE7v6divKEd9iuHT9g98u7PQlzTNr9qtqe28ppIwQI7ihfjdbQ5Nw8bQ%3D%3D)**
 
-Murphy Campbell is at the center of a growing storm around AI and a broken copyright system.
-
-The Verge • 1h ago
+barrons.com • 26m ago
 
 ---
 
-**[What Teens Are Doing With Those Role-Playing Chatbots](https://www.nytimes.com/2026/04/04/technology/ai-chatbots-teen-roleplay.html)**
+**[AI Agents Are Multiplying Faster Than Humans Can Manage Them](https://www.forbes.com/sites/josipamajic/2026/04/04/ai-agents-are-multiplying-faster-than-humans-can-manage-them/)**
 
-The New York Times • 1h ago
-
----
-
-**[Editorial: Alaska can lead in AI and data centers — but only if it gets serious now](https://www.adn.com/opinions/editorials/2026/04/04/editorial-alaska-can-lead-in-ai-and-data-centers-but-only-if-it-gets-serious-now/)**
-
-Mat-Su is moving, Anchorage is hesitating, and the Legislature is still warming up. While Alaska debates, most of the country has already started building the future.
-
-Anchorage Daily News • 1h ago
+Forbes • 16m ago
 
 ---
 
@@ -159,35 +147,41 @@ Anchorage Daily News • 1h ago
 
 Private Chinese technology companies — some with ties to the military — are marketing detailed intelligence on movements of U.S. forces in Iran, even as Beijing seeks to keep its distance.
 
-The Washington Post • 3h ago
+The Washington Post • 4h ago
+
+---
+
+**[My Husband Can’t Get a Job. Should I Divorce Him?](https://www.nytimes.com/2026/04/04/business/my-husband-cant-get-a-job-should-i-divorce-him.html)**
+
+The New York Times • 11h ago
+
+---
+
+**[Apple at 50: The iPhone maker 'blew a 5-year lead' on AI, but former insiders say it can still win](https://www.cnbc.com/2026/04/04/apple-50-anniversary-ai-iphone-siri.html)**
+
+In dominating consumer devices, Apple sold users on the promise of privacy. To compete in AI, it may have to pivot.
+
+CNBC • 8h ago
+
+---
+
+**[College grads in ‘AI-proof’ careers like psychology and education are seeing negative returns on their degrees](https://fortune.com/2026/04/04/graduate-school-value-negative-returns-psychology-education-ai/)**
+
+As AI reshapes white-collar work, new research shows that some of the most popular graduate degrees are actually leaving holders worse off financially.
+
+Fortune • 9h ago
 
 ---
 
 **[Axios C-Suite: OpenAI's Sam Altman's AI adoption advice for fellow CEOs](https://www.axios.com/2026/04/04/sam-altman-open-ai-ai-adoption-advice-ceos)**
 
-Axios • 7h ago
+Axios • 8h ago
 
 ---
 
-**[AI is rewiring the world’s most prolific film industry](https://www.reuters.com/technology/ai-is-rewiring-worlds-most-prolific-film-industry-2026-04-04/)**
+**[The New Jobs Being Created by AI](https://www.wsj.com/tech/ai/wanted-head-of-human-ai-solutions-the-new-jobs-being-created-by-ai-870c6ed5?gaa_at=eafs&gaa_n=AWEtsqdQMkxwfXzpDwhsTgTlkLiCzG6bzHusd_xKbqJLG9g-30qUpBXNOrvK&gaa_ts=69d17912&gaa_sig=WnPgAFZ8sA9ZOHD9vYoHCQF7D1cEdRLbNR4Uf09YNZAPwySktDFo_lDbhjmV3KS2DsAIic2ZgQ9rVQGSv8SjPg%3D%3D)**
 
-Reuters • 14h ago
-
----
-
-**[The invisible risk: Can you really trust your ‘private’ AI assistant to keep your secrets?](https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-892014)**
-
-TECH AFFAIRS: Research by Israeli cybersecurity company Check Point found a weakness in ChatGPT’s system that could allow someone to extract data without triggering any alarms.
-
-The Jerusalem Post • 11h ago
-
----
-
-**[Silicon Valley Is in a Frenzy Over Bots That Build Themselves](https://www.theatlantic.com/technology/2026/04/ai-industry-self-improving-bots/686686/)**
-
-How close are we really to self-improving AI?
-
-The Atlantic • 1d ago
+WSJ • 2d ago
 
 ---
 
@@ -207,7 +201,7 @@ Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptio
 
 We replaced expensive sandboxes with ChromaFs, a virtual filesystem over Chroma, to give our docs AI assistant the ability to explore documentation like a developer would.
 
-⬆️ 380 • 💬 146 • 2d ago • [Mintlify](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant)
+⬆️ 383 • 💬 145 • 2d ago • [Mintlify](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant)
 
 ---
 
@@ -219,7 +213,7 @@ Complete all topics from Todo.md including SQL functions, configuration guides,
 troubleshooting runbooks, architecture comparisons, SDK tutorials, and operator
 deployment pattern...
 
-⬆️ 112 • 💬 96 • 2h ago • [GitHub](https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849)
+⬆️ 128 • 💬 128 • 3h ago • [GitHub](https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849)
 
 ---
 
@@ -227,7 +221,7 @@ deployment pattern...
 
 Experiments show large majorities uncritically accepting "faulty" AI answers.
 
-⬆️ 91 • 💬 39 • 22h ago • [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/)
+⬆️ 93 • 💬 39 • 23h ago • [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/)
 
 ---
 
@@ -235,13 +229,13 @@ Experiments show large majorities uncritically accepting "faulty" AI answers.
 
 AI-powered travel hacking with points, miles, and award flights. Drop-in skills and MCP servers for OpenCode and Claude Code. - borski/travel-hacking-toolkit
 
-⬆️ 81 • 💬 36 • 17h ago • [GitHub](https://github.com/borski/travel-hacking-toolkit)
+⬆️ 84 • 💬 36 • 18h ago • [GitHub](https://github.com/borski/travel-hacking-toolkit)
 
 ---
 
 **[A $20/month user costs OpenAI $65 in compute. AI video is a money furnace](https://news.ycombinator.com/item?id=47619322)**
 
-⬆️ 76 • 💬 42 • 1d ago • [aedelon777.substack.com](https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is)
+⬆️ 76 • 💬 42 • 2d ago • [aedelon777.substack.com](https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is)
 
 ---
 
@@ -251,19 +245,19 @@ AI-powered travel hacking with points, miles, and award flights. Drop-in skills 
 
 ---
 
-**[The Subprime AI Crisis Is Here](https://news.ycombinator.com/item?id=47633150)**
-
-Hi! If you like this piece and want to support my independent reporting and analysis, why not subscribe to my premium newsletter? It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words,
-
-⬆️ 50 • 💬 22 • 21h ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/)
-
----
-
 **[Group Pushing Age Verification for AI Turns Out to Be Backed by OpenAI](https://news.ycombinator.com/item?id=47616665)**
 
 It gave the leader of a nonprofit involved with it "a very grimy feeling."
 
-⬆️ 50 • 💬 6 • 2d ago • [Gizmodo](https://gizmodo.com/group-pushing-age-verification-requirements-for-ai-turns-out-to-be-sneakily-backed-by-openai-2000741069)
+⬆️ 52 • 💬 6 • 2d ago • [Gizmodo](https://gizmodo.com/group-pushing-age-verification-requirements-for-ai-turns-out-to-be-sneakily-backed-by-openai-2000741069)
+
+---
+
+**[The Subprime AI Crisis Is Here](https://news.ycombinator.com/item?id=47633150)**
+
+Hi! If you like this piece and want to support my independent reporting and analysis, why not subscribe to my premium newsletter? It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words,
+
+⬆️ 50 • 💬 22 • 22h ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/)
 
 ---
 
@@ -293,7 +287,7 @@ Create Your Own AI Worlds with OpenArt https://youricreates.com/AI-worlds In thi
 
 📺 Youri van Hofwegen
 
-👁️ 6K • 💬 4 • ⏱️ 8:03 • 4h ago
+👁️ 6K • 💬 4 • ⏱️ 8:03 • 5h ago
 
 ---
 
@@ -303,7 +297,7 @@ Check out Suno https://suno.com/?utm_source=Ytamb&utm_medium=isa-does-ai In this
 
 📺 Isa does AI
 
-👁️ 7K • 💬 1 • ⏱️ 10:45 • 5h ago
+👁️ 7K • 💬 1 • ⏱️ 10:45 • 6h ago
 
 ---
 
@@ -353,7 +347,7 @@ Make your first AI UGC ad with Seedance 2 inside Enhancor: https://app.enhancor.
 
 📺 Sirio
 
-👁️ 1K • 👍 191 • 💬 22 • ⏱️ 24:35 • 4h ago
+👁️ 1K • 👍 191 • 💬 22 • ⏱️ 24:35 • 5h ago
 
 ---
 
@@ -363,7 +357,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 9K • 👍 468 • 💬 60 • ⏱️ 22:30 • 4h ago
+👁️ 9K • 👍 468 • 💬 60 • ⏱️ 22:30 • 5h ago
 
 ---
 
@@ -551,7 +545,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 VOID is a video object removal framework that uses vision-language models and video diffusion models to generate physically plausible scenes by leveraging causal reasoning and counterfactual reasoning.
 
-▲ 19 • 💬 5 • ⭐ 406 • 2d ago
+▲ 19 • 💬 5 • ⭐ 406 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.02296) • [💻 code](https://github.com/Netflix/void-model) • [🔗 project](https://void-model.github.io/)
 
@@ -565,7 +559,7 @@ VOID is a video object removal framework that uses vision-language models and vi
 
 A large-scale dynamic dataset derived from AAA games is introduced to improve generative inverse and forward rendering, featuring high-resolution synchronized RGB and G-buffer data alongside a novel VLM-based evaluation method that correlates well with human judgment.
 
-▲ 84 • 💬 3 • ⭐ 182 • 2d ago
+▲ 84 • 💬 3 • ⭐ 182 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.02329) • [💻 code](https://github.com/ShandaAI/AlayaRenderer) • [🔗 project](https://alaya-studio.github.io/renderer)
 
@@ -665,7 +659,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 13.0k • 🔱 1.2k • 1h ago
+⭐ 13.0k • 🔱 1.2k • 2h ago
 
 ---
 
@@ -695,7 +689,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.6k • 🔱 383 • 3h ago
+⭐ 6.6k • 🔱 383 • 4h ago
 
 ---
 
@@ -705,7 +699,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.1k • 🔱 1.5k • 11h ago
+⭐ 5.1k • 🔱 1.5k • 12h ago
 
 ---
 
