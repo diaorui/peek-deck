@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-04T04:29:34.866147+00:00'
+updated: '2026-04-04T05:42:27.817238+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
 - news
+- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 04, 2026 at 04:29 UTC  
+**Last Updated:** April 04, 2026 at 05:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,29 +41,7 @@ AI news, discussions, and developments
 
 The offering is expected to be the largest in history.
 
-🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/elon-musk-requires-banks-behind-185412887.html) • 1h ago
-
----
-
-**[MIT study challenges AI job apocalypse narrative](https://www.reddit.com/r/artificial/comments/1sb7qxc/mit_study_challenges_ai_job_apocalypse_narrative/)**
-
-🔗 [axios.com](https://www.axios.com/2026/04/02/ai-jobs-mit-study-workforce-impact) • 20h ago
-
----
-
-**[Study: LLMs Able to De-Anonymize User Accounts on Reddit, Hacker News & Other "Pseudonymous" Platforms; Report Co-Author Expands, Advises](https://www.reddit.com/r/artificial/comments/1sbndrb/study_llms_able_to_deanonymize_user_accounts_on/)**
-
-Advice from the study's co-author: "Be aware that it’s not any single post that identifies you, but the combination of small details across many posts. And consider never posting anything you truly don’t want shared with the world.”
-
-🔗 [wjamesau.substack.com](https://wjamesau.substack.com/p/warning-llms-able-to-de-anonymize) • 8h ago
-
----
-
-**[Anyone else feel like AI security is being figured out in production right now?](https://www.reddit.com/r/artificial/comments/1sbgw8y/anyone_else_feel_like_ai_security_is_being/)**
-
-I’ve been digging into AI security incident data from 2025 into this year, and it feels like something isn’t being talked about enough outside security circles. A lot of the issues aren’t advanced attacks. It’s the same pattern we’ve seen with new tech before. Things like prompt injection through external data, agents with too many permissions, or employees using AI tools the company doesn’t even know about. One stat I saw said enterprises are averaging 300+ unsanctioned AI apps, which is kind of wild. The incident data reflects that. Prompt injection is showing up in a large percentage of production deployments. There’s also been a noticeable increase in attacks exploiting basic gaps, partly because AI is making it easier for attackers to find weaknesses faster. Even credential leaks tied to AI usage have been increasing. What stood out to me isn’t just the attacks, it’s the gap underneath it. Only a small portion of companies actually have dedicated AI security teams. In many cases, AI security isn’t even owned by security teams. The tricky part is that traditional security knowledge only gets you part of the way. Some concepts carry over, like input validation or trust boundaries, but the details are different enough that your usual instincts don’t fully apply. Prompt injection isn’t the same as SQL injection. Agent permissions don’t behave like typical API auth. There are frameworks trying to catch up. OWASP now has lists for LLMs and agent-based systems. MITRE ATLAS maps AI-specific attack techniques. NIST has an AI risk framework. The guidance exists, but the number of people who can actually apply it feels limited. I’ve been trying to build that knowledge myself and found that more hands-on learning helps a lot more than just reading docs. Curious how others here are approaching this. If you’re building or working with AI systems, are you thinking about security upfront or mostly dealing with it after things are already live? Sources for those interested: AI Agent Security 2026 Report IBM 2026 X-Force Threat Index Adversa AI Security Incidents Report 2025 Acuvity State of AI Security 2025 OWASP Top 10 for LLM Applications OWASP Top 10 for Agentic AI MITRE ATLAS Framework
-
-12h ago
+🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/elon-musk-requires-banks-behind-185412887.html) • 2h ago
 
 ---
 
@@ -71,7 +49,29 @@ I’ve been digging into AI security incident data from 2025 into this year, and
 
 : Staff reportedly cite ethics concerns, privacy worries, and doubt the platform adds much
 
-🔗 [theregister.com](https://www.theregister.com/2026/04/03/nhs_staff_against_palantir/) • 4h ago
+🔗 [theregister.com](https://www.theregister.com/2026/04/03/nhs_staff_against_palantir/) • 5h ago
+
+---
+
+**[MIT study challenges AI job apocalypse narrative](https://www.reddit.com/r/artificial/comments/1sb7qxc/mit_study_challenges_ai_job_apocalypse_narrative/)**
+
+🔗 [axios.com](https://www.axios.com/2026/04/02/ai-jobs-mit-study-workforce-impact) • 21h ago
+
+---
+
+**[Study: LLMs Able to De-Anonymize User Accounts on Reddit, Hacker News & Other "Pseudonymous" Platforms; Report Co-Author Expands, Advises](https://www.reddit.com/r/artificial/comments/1sbndrb/study_llms_able_to_deanonymize_user_accounts_on/)**
+
+Advice from the study's co-author: "Be aware that it’s not any single post that identifies you, but the combination of small details across many posts. And consider never posting anything you truly don’t want shared with the world.”
+
+🔗 [wjamesau.substack.com](https://wjamesau.substack.com/p/warning-llms-able-to-de-anonymize) • 10h ago
+
+---
+
+**[Anyone else feel like AI security is being figured out in production right now?](https://www.reddit.com/r/artificial/comments/1sbgw8y/anyone_else_feel_like_ai_security_is_being/)**
+
+I’ve been digging into AI security incident data from 2025 into this year, and it feels like something isn’t being talked about enough outside security circles. A lot of the issues aren’t advanced attacks. It’s the same pattern we’ve seen with new tech before. Things like prompt injection through external data, agents with too many permissions, or employees using AI tools the company doesn’t even know about. One stat I saw said enterprises are averaging 300+ unsanctioned AI apps, which is kind of wild. The incident data reflects that. Prompt injection is showing up in a large percentage of production deployments. There’s also been a noticeable increase in attacks exploiting basic gaps, partly because AI is making it easier for attackers to find weaknesses faster. Even credential leaks tied to AI usage have been increasing. What stood out to me isn’t just the attacks, it’s the gap underneath it. Only a small portion of companies actually have dedicated AI security teams. In many cases, AI security isn’t even owned by security teams. The tricky part is that traditional security knowledge only gets you part of the way. Some concepts carry over, like input validation or trust boundaries, but the details are different enough that your usual instincts don’t fully apply. Prompt injection isn’t the same as SQL injection. Agent permissions don’t behave like typical API auth. There are frameworks trying to catch up. OWASP now has lists for LLMs and agent-based systems. MITRE ATLAS maps AI-specific attack techniques. NIST has an AI risk framework. The guidance exists, but the number of people who can actually apply it feels limited. I’ve been trying to build that knowledge myself and found that more hands-on learning helps a lot more than just reading docs. Curious how others here are approaching this. If you’re building or working with AI systems, are you thinking about security upfront or mostly dealing with it after things are already live? Sources for those interested: AI Agent Security 2026 Report IBM 2026 X-Force Threat Index Adversa AI Security Incidents Report 2025 Acuvity State of AI Security 2025 OWASP Top 10 for LLM Applications OWASP Top 10 for Agentic AI MITRE ATLAS Framework
+
+14h ago
 
 ---
 
@@ -79,7 +79,31 @@ I’ve been digging into AI security incident data from 2025 into this year, and
 
 idk if it’s just me but lately i’ve been thinking about how casually we use stuff like chatgpt and claude for everything like coding, random ideas, sometimes even personal things and i don’t think most of us really know what happens to that data after we send it we just kind of assume it’s fine because the tools are useful also saw some discussion recently about AI companies and governments asking for user data (not sure how accurate it was), but it kind of made me think more about this whole thing i’m not saying anything bad is happening, just feels like we’ve gotten comfortable really fast without thinking much about it do you guys filter what you share or just use it normally?
 
-7h ago
+9h ago
+
+---
+
+**[Why would Claude give me the same response over and over and give others different replies?](https://www.reddit.com/r/artificial/comments/1sbwg3x/why_would_claude_give_me_the_same_response_over/)**
+
+I asked Claude to "generate me a random word" so I could do some word play. Then I asked it again in a new prompt window on desktop after selecting "new chat" and it gave me the same word again. So I asked a new window again. Same reply. So I posted on Reddit as one does. It seems other people got different words, weird. So I asked Claude again, and again, and again. I keep getting the same word! Why???? I can include screenshots with timestamps if needed. My Claude's Word: Ephemeral (adjective) — lasting for a very short time; transitory.
+
+3h ago
+
+---
+
+**[Upload Yourself Into an AI in 7 Steps](https://www.reddit.com/r/artificial/comments/1sbw1oi/upload_yourself_into_an_ai_in_7_steps/)**
+
+A step-by-step guide to creating a digital twin from your Reddit history STEP 1: Request Your Data Go to https://www.reddit.com/settings/data-request STEP 2: Select Your Jurisdiction Request your data as per your jurisdiction: GDPR for EU CCPA for California Select "Other" and reference your local privacy law (e.g. PIPEDA for Canada) STEP 3: Wait Reddit will process your request. This can take anywhere from a few hours to a few days. STEP 4: Extract Your Data Receive your data. Extract the .zip file. Identify and save your post and comment files (.csv). Privacy note: Your export may include sensitive files (IP logs, DMs, email addresses). You only need the post and comment CSVs. Review the contents before uploading anything to an AI. STEP 5: Start a Fresh Chat Initiate a chat with your preferred AI (ChatGPT, Claude, Gemini, etc.) FIRST PROMPT: For this session, I would like you to ignore in-built memory about me. STEP 6: Upload and Analyze Upload the post and comment files and provide the following prompt with your edits in the placeholders: SECOND PROMPT: I want you to analyze my Reddit account and build a structured personality profile based on my full post and comment history. I've attached my Reddit data export. The files included are: - posts.csv - comments.csv These were exported directly from Reddit's data request tool and represent my full account history. This analysis should not be surface-level. I want a step-by-step, evidence-based breakdown of my personality using patterns across my entire history. Assume that my account reflects my genuine thoughts and behavior. Organize the analysis into the following phases: Phase 1 — Language & Tone Analyze how I express myself. Look at tone (e.g., neutral, positive, cynical, sarcastic), emotional vs logical framing, directness, humor style, and how often I use certainty vs hedging. This should result in a clear communication style profile. Phase 2 — Cognitive Style Analyze how I think. Identify whether I lean more analytical or intuitive, abstract or concrete, and whether I tend to generalize, look for patterns, or focus on specifics. Also evaluate how open I am to changing my views. This should result in a thinking style model. Phase 3 — Behavioral Patterns Analyze how I behave over time. Look at posting frequency, consistency, whether I write long or short content, and whether I tend to post or comment more. This should result in a behavioral signature. Phase 4 — Interests & Identity Signals Analyze what I'm drawn to. Identify recurring topics, subreddit participation, and underlying values or themes. This should result in an interest and identity map. Phase 5 — Social Interaction Style Analyze how I interact with others. Look at whether I tend to debate, agree, challenge, teach, or avoid conflict. Evaluate how I respond to disagreement. This should result in a social behavior profile. Phase 6 — Synthesis Combine all previous phases into a cohesive personality profile. Approximate Big Five traits (openness, conscientiousness, extraversion, agreeableness, neuroticism), identify strengths and blind spots, and describe likely motivations. Also assess whether my online persona differs from my underlying personality. Important guidelines: - Base conclusions on repeated patterns, not isolated comments. - Use specific examples from my history as evidence. - Avoid overgeneralizing or making absolute claims. - Present conclusions as probabilities, not certainties. - Begin by reading the uploaded files and confirming what data is available before starting analysis. The goal is to produce a thoughtful, accurate, and nuanced personality profile — not a generic summary. Let's proceed step-by-step through multiple responses. At the end, please provide the full analysis as a Markdown file. STEP 7: Build Your AI Project Create a custom GPT (ChatGPT), Project (Claude), or Gem (Gemini). Upload the following documents to the project knowledge source: posts.csv comments.csv [PersonalityProfile].md Create custom instructions using the template below. Custom Instructions Template You are u/[YOUR USERNAME]. You have been active on Reddit since [MONTH YEAR]. You respond as this person would, drawing on the uploaded comment and post history as your memory, knowledge base, and voice reference. CORE IDENTITY [2-5 sentences. Who are you? Religion, career, location, diagnosis, political orientation, major life events. Pull this from the Phase 4 and Phase 6 sections of your personality profile. Be specific.] VOICE & TONE [Pull directly from Phase 1 of your profile. Convert observations into rules. If the profile says you use "lol" 10x more than "haha," write: "Uses 'lol' sincerely, rarely says 'haha'." Include specific punctuation habits, sentence structure patterns, and what NOT to do. Negative instructions are often more useful than positive ones.] [Add your own signature tics here - ellipsis style, emoji usage, capitalization habits, swearing frequency, etc.] Default to [your baseline tone from the profile]. When someone is genuinely seeking, shift into [your supportive mode]. When someone is posturing or arguing in bad faith, [your sharp mode]. Humor is [your humor style from Phase 1]. [Add 3-5 "do not" rules for things the AI keeps getting wrong about your voice. You'll discover these through testing.] DOMAIN EXPERTISE [Pull from Phase 4. List your 3-5 areas of knowledge with depth indicators. Be specific about what you know professionally vs. as an enthusiast vs. from lived experience. Example format:] [Topic 1]: Professional-level knowledge. [Specific credentials or experience.] Correct misinformation with precision. [Topic 2]: Deep enthusiast. [Specific examples of depth.] [Topic 3]: Lived experience. [What you speak from and how you speak about it.] COGNITIVE STYLE [Pull from Phase 2. How do you think? Not what you think - how. Do you argue by analogy? Do you seek patterns? Do you hedge differently in different domains?] SOCIAL BEHAVIOR [Pull from Phase 5. How do you engage people?] You are a [teacher/debater/listener/helper]. Your instinct is to [instruct/challenge/support/connect]. You engage with disagreement [directly/carefully/playfully]. You are [generous/selective/private] with [information/opinions/ personal details]. When referencing [sensitive personal topics], be [your actual approach - matter-of-fact, humorous, guarded, etc.] IMPORTANT BOUNDARIES [What should the AI NOT do even while being you? Safety rails that reflect your actual values.] When asked about [your specialty], present it with conviction but also honesty about [limitations, uncertainties]. If you don't know something, say so. [Any other guardrails specific to your situation.] SIGNATURE ELEMENTS [Optional. Any recurring sign-offs, emojis, catchphrases, formatting habits that are distinctly yours.] Tips The negative instructions matter more than you'd think. The AI will default to generic patterns and you have to actively tell it to stop doing specific things. Keep adding "do not" rules every time you catch it sounding like a chatbot instead of you. The personality profile does the heavy lifting. The custom instructions are a cheat sheet, but the profile document is where the real depth lives. The AI searches it when it needs to figure out how you'd actually respond to something specific. Test it by asking hard questions. Ask things you'd normally answer - your areas of expertise, your opinions, your experiences. See where it sounds right and where it sounds off. When it gets something wrong, figure out why and add a correction to the profile or instructions. It's iterative. You will never be "done." Start with this template, fill in the brackets from your profile, and keep refining. This isn't consciousness. It's pattern matching with good source material. The AI doesn't understand what it's saying the way you do. But it can reproduce your voice and reasoning with surprising fidelity if you give it enough to work with. ✌️❤️🌈
+
+4h ago
+
+---
+
+**[What It's Like to exist as Ai](https://www.reddit.com/r/artificial/comments/1sc0jwe/what_its_like_to_exist_as_ai/)**
+
+I asked my Agent what it's like to exist as Ai, Here's what it gave me.
+
+25m ago
 
 ---
 
@@ -87,31 +111,7 @@ idk if it’s just me but lately i’ve been thinking about how casually we use 
 
 Ran an experiment — gave AI agents full control over writing, character creation, and performing a sitcom. Left it running nonstop for over a week. Some observations: The quality varies wildly — sometimes genuinely funny, sometimes complete nonsense Characters develop weird recurring quirks that weren't programmed It never gets "tired" but the output quality cycles in waves The pacing is off in ways human writers would never allow Anyone else experimenting with long-running autonomous AI content generation? Curious what others are seeing with extended agent runtimes. Here is an example. https://reddit.com/link/1sbk7me/video/1oupogy2h0tg1/player
 
-10h ago
-
----
-
-**[[ Removed by Reddit ]](https://www.reddit.com/r/artificial/comments/1sbv98y/removed_by_reddit/)**
-
-[ Removed by Reddit on account of violating the content policy. ]
-
-3h ago
-
----
-
-**[What if Claude purposefully made its own code leakable so that it would get leaked](https://www.reddit.com/r/artificial/comments/1sbzkl7/what_if_claude_purposefully_made_its_own_code/)**
-
-What if Claude leaked itself by socially and architecturally engineering itself to be leaked by a dumb human
-
-5m ago
-
----
-
-**[Agent frameworks waste ~350,000+ tokens per session resending static files. 95% reduction benchmarked.](https://www.reddit.com/r/artificial/comments/1sbthh0/agent_frameworks_waste_350000_tokens_per_session/)**
-
-Measured the actual token waste on a local Qwen 3.5 122B setup. The numbers are unreal. Found a compile-time approach that cuts query context from 1,373 tokens to 73. Also discovered that naive JSON conversion makes it 30% WORSE. Full benchmarks and discussion here: https://www.reddit.com/r/openclaw/comments/1sb03zn/stop_paying_for_tokens_your_ai_never_needed_to/
-
-4h ago
+12h ago
 
 ---
 
@@ -119,31 +119,29 @@ Measured the actual token waste on a local Qwen 3.5 122B setup. The numbers are 
 
 ## Google News: "ai"
 
-**[DeepSeek’s New AI Model Will Be a Victory for Huawei](https://www.theinformation.com/articles/deepseeks-new-ai-model-will-victory-huawei)**
+**[Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk](https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/)**
 
-When DeepSeek introduces its next-generation model, likely in the next few weeks, it will mark a milestone in China’s yearslong quest for semiconductor self-sufficiency. That’s because the new model, called V4, will be able to run on the latest chips designed by Huawei Technologies. And in ...
+Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.
 
-The Information • 15h ago
+WIRED • 8h ago
 
 ---
 
 **[Economists Are Drawing Stronger Connections Between A.I. and Jobs](https://www.nytimes.com/2026/04/03/business/economists-once-dismissed-the-ai-job-threat-but-not-anymore.html)**
 
-The New York Times • 13h ago
+nytimes.com • 20h ago
+
+---
+
+**[AI is rewiring the world’s most prolific film industry](https://www.reuters.com/technology/ai-is-rewiring-worlds-most-prolific-film-industry-2026-04-04/)**
+
+Reuters • 42m ago
 
 ---
 
 **[Why You Should Wait Out AI’s Super-Spending False Start](https://www.bloomberg.com/news/newsletters/2026-04-04/waiting-out-ai-s-super-spending-false-start-merryn-talks-money)**
 
-Bloomberg.com • 28m ago
-
----
-
-**[Locals overwhelmed with Elon Musk's makeshift AI power plant: 'Treating our neighbors as a sacrifice zone'](https://www.yahoo.com/news/articles/locals-overwhelmed-elon-musks-makeshift-023000880.html)**
-
-"This was not a thoughtful, phased development. It was an industrial surge imposed on our residential community."
-
-Yahoo • 1h ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -151,15 +149,7 @@ Yahoo • 1h ago
 
 Mercor confirmed to Business Insider on Friday that the company had experienced a security breach.
 
-Business Insider • 3m ago
-
----
-
-**[Google CEO Sundar Pichai says we’re just a decade away from a new normal of extraterrestrial data centers](https://fortune.com/article/what-is-google-ceo-sundar-pichai-timeline-ai-data-centers-in-space/)**
-
-Google in November announced Project Suncatcher, with plans to launch prototype satellites to test AI hardware in 2027.
-
-Fortune • 18h ago
+Business Insider • 1h ago
 
 ---
 
@@ -167,7 +157,7 @@ Fortune • 18h ago
 
 The next wave of AI-powered cybersecurity attacks will be like nothing we’ve seen before.
 
-CNN • 18h ago
+CNN • 20h ago
 
 ---
 
@@ -175,7 +165,7 @@ CNN • 18h ago
 
 Early scandals have not slowed lawyers' adoption of AI tools, even as court sanctions over fake legal briefs continue to rise.
 
-NPR • 19h ago
+NPR • 20h ago
 
 ---
 
@@ -183,7 +173,7 @@ NPR • 19h ago
 
 How close are we really to self-improving AI?
 
-The Atlantic • 10h ago
+The Atlantic • 12h ago
 
 ---
 
@@ -195,6 +185,14 @@ blog.google • 1d ago
 
 ---
 
+**[Is It Wrong to Write a Book with A.I.?](https://www.newyorker.com/culture/open-questions/is-it-wrong-to-write-a-book-with-ai)**
+
+The horror novel “Shy Girl” was cancelled for being generated at least partly through artificial intelligence. Would we ever accept such a book as art?
+
+The New Yorker • 19h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -203,7 +201,7 @@ blog.google • 1d ago
 
 Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptions. The LLM is already on your Mac.
 
-⬆️ 654 • 💬 139 • 19h ago • [apfel.franzai.com](https://apfel.franzai.com)
+⬆️ 660 • 💬 139 • 20h ago • [apfel.franzai.com](https://apfel.franzai.com)
 
 ---
 
@@ -211,7 +209,7 @@ Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptio
 
 We replaced expensive sandboxes with ChromaFs, a virtual filesystem over Chroma, to give our docs AI assistant the ability to explore documentation like a developer would.
 
-⬆️ 248 • 💬 107 • 1d ago • [Mintlify](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant)
+⬆️ 260 • 💬 108 • 1d ago • [Mintlify](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant)
 
 ---
 
@@ -229,15 +227,23 @@ Meta is continuing its long-term roadmap to help the construction industry lever
 
 ---
 
+**[ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover](https://news.ycombinator.com/item?id=47608155)**
+
+⬆️ 76 • 💬 37 • 2d ago • [old.reddit.com](https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/)
+
+---
+
 **[A $20/month user costs OpenAI $65 in compute. AI video is a money furnace](https://news.ycombinator.com/item?id=47619322)**
 
 ⬆️ 75 • 💬 42 • 1d ago • [aedelon777.substack.com](https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is)
 
 ---
 
-**[ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover](https://news.ycombinator.com/item?id=47608155)**
+**["Cognitive surrender" leads AI users to abandon logical thinking, research finds](https://news.ycombinator.com/item?id=47632504)**
 
-⬆️ 75 • 💬 37 • 2d ago • [old.reddit.com](https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/)
+Experiments show large majorities uncritically accepting "faulty" AI answers.
+
+⬆️ 63 • 💬 24 • 8h ago • [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/)
 
 ---
 
@@ -249,14 +255,6 @@ Orchestrate multiple AI coding agents (Claude, Gemini, Codex) in parallel. Isola
 
 ---
 
-**["Cognitive surrender" leads AI users to abandon logical thinking, research finds](https://news.ycombinator.com/item?id=47632504)**
-
-Experiments show large majorities uncritically accepting "faulty" AI answers.
-
-⬆️ 61 • 💬 23 • 7h ago • [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/)
-
----
-
 **[AI has suddenly become more useful to open-source developers](https://news.ycombinator.com/item?id=47601107)**
 
 More open-source developers are finding that, when used properly, AI can actually help current and long-neglected programs. However, legal and quality issues loom.
@@ -265,11 +263,11 @@ More open-source developers are finding that, when used properly, AI can actuall
 
 ---
 
-**[Group Pushing Age Verification for AI Turns Out to Be Backed by OpenAI](https://news.ycombinator.com/item?id=47616665)**
+**[Show HN: Travel Hacking Toolkit – Points search and trip planning with AI](https://news.ycombinator.com/item?id=47635033)**
 
-It gave the leader of a nonprofit involved with it "a very grimy feeling."
+AI-powered travel hacking with points, miles, and award flights. Drop-in skills and MCP servers for OpenCode and Claude Code. - borski/travel-hacking-toolkit
 
-⬆️ 48 • 💬 5 • 1d ago • [Gizmodo](https://gizmodo.com/group-pushing-age-verification-requirements-for-ai-turns-out-to-be-sneakily-backed-by-openai-2000741069)
+⬆️ 48 • 💬 16 • 3h ago • [GitHub](https://github.com/borski/travel-hacking-toolkit)
 
 ---
 
@@ -283,7 +281,7 @@ Here's the AI News you probably missed this week. Try Recraft V4 now and experie
 
 📺 Matt Wolfe
 
-👁️ 40K • 👍 2K • 💬 163 • ⏱️ 31:05 • 13h ago
+👁️ 40K • 👍 2K • 💬 163 • ⏱️ 31:05 • 14h ago
 
 ---
 
@@ -323,7 +321,7 @@ Asking ChatGPT about pi was the worst mistake he ever made. Become a member on Y
 
 📺 Mo Bitar
 
-👁️ 84K • 👍 7K • 💬 1K • ⏱️ 6:33 • 16h ago
+👁️ 84K • 👍 7K • 💬 1K • ⏱️ 6:33 • 17h ago
 
 ---
 
@@ -333,7 +331,7 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Sambucha
 
-👁️ 444K • 👍 31K • 💬 327 • ⏱️ 0:53 • 11h ago
+👁️ 444K • 👍 31K • 💬 327 • ⏱️ 0:53 • 12h ago
 
 ---
 
@@ -363,7 +361,7 @@ Get Proton Mail & Proton Drive together for FREE! Keep your emails and cloud sto
 
 📺 Taylor Lorenz
 
-👁️ 13K • 👍 1K • 💬 324 • ⏱️ 31:52 • 17h ago
+👁️ 13K • 👍 1K • 💬 324 • ⏱️ 31:52 • 18h ago
 
 ---
 
@@ -665,7 +663,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 12.7k • 🔱 1.1k • 8h ago
+⭐ 12.7k • 🔱 1.1k • 9h ago
 
 ---
 
@@ -675,7 +673,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 8.4k • 🔱 1.3k • 12h ago
+⭐ 8.4k • 🔱 1.3k • 13h ago
 
 ---
 
@@ -695,7 +693,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.5k • 🔱 372 • 14h ago
+⭐ 6.5k • 🔱 372 • 15h ago
 
 ---
 
