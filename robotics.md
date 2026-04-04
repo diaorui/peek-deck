@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-04T13:56:44.758774+00:00'
+updated: '2026-04-04T14:37:32.605438+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 04, 2026 at 13:56 UTC  
+**Last Updated:** April 04, 2026 at 14:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,9 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[I analyzed every public LeRobot dataset on HuggingFace. Almost half would fail training.](https://www.reddit.com/r/robotics/comments/1sc5a3g/i_analyzed_every_public_lerobot_dataset_on/)**
-
-I analyzed every public LeRobot dataset on HuggingFace. Almost half would fail training. Got tired of burning GPU hours on data that looked fine but trained terribly. So I wrote something to check datasets before training — grades A through F based on dead joints, action divergence, episode consistency, etc. Ran it across 45+ public datasets. Some findings: 42% actually ready to train 35% have critical issues (dead servos, contradictory demos) Action divergence is the single biggest predictor of training failure Several high-download datasets have problems nobody's flagged 50 consistent demos reliably beats 200 sloppy ones The thing that surprised me most: datasets with high action divergence (demonstrator doing different things in the same state) fail even with Diffusion Policy. You basically need to filter to one strategy or the policy just averages them into mush. Anyone else checking their data quality before training, or just yolo-ing it?
-
-3h ago
-
----
-
 **[Humanoid robots undergoing training](https://www.reddit.com/r/robotics/comments/1sbj504/humanoid_robots_undergoing_training/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -54,11 +46,19 @@ Appreciate all the feedback and love on the recent videos, here's another clip o
 
 ---
 
+**[control/simulate robots in browser with zero setup](https://www.reddit.com/r/robotics/comments/1sc8t84/controlsimulate_robots_in_browser_with_zero_setup/)**
+
+hi, i've been working on browser-based robotics simulation and wanted to get some feedback. as of now, one can control/simulate, unitree g1, h1, go1, bostons, franka panda arm, or create your own robot. we're working on few more things. 1. training module to train policies directly in browser based on behaviour cloning + RL. 2. rent a robot - to see your trainings in simulations vs on real robots in real world, 3. and much more https://reddit.com/link/1sc8t84/video/jc23l5jas5tg1/player
+
+1h ago
+
+---
+
 **[Infrastructure for training general-purpose robot policies](https://www.reddit.com/r/robotics/comments/1sbi10l/infrastructure_for_training_generalpurpose_robot/)**
 
 If human demonstration data proves to be the underlying factor that determines scaling laws in general-purpose robotics, the infrastructure that captures that data will determine how fast we get there. Despite all the research novelty in ChatGPT, its success at its core can be attributed to one foundational fact - the scaling law of transformers. Have transformers made their way into robotics and are we seeing similar scaling laws? The answer is yes. Recent studies showed task completion rates jumping from 30% to 70% when human demonstration data scaled from 1,000 to 20,000 hours — a log-linear trend that mirrors exactly what we saw in language and vision. Labs are racing to train generalist policies - a robot brain that can solve any task under any embodiment. But the library of physical interactions required to train these policies doesn’t exist yet. Solving this data bottleneck is one of the most important problems for the next few years. We’ve seen dozens of companies emerge in this space and noticed the same pattern repeat: every egocentric data company makes tradeoffs between quality, scale, and diversity. I have been working at FPV Labs on the principle that high-quality data is orders of magnitude more valuable than sheer volume. Self-driving cars collect thousands of hours per day, but only a small fraction is useful for training. Studies like RT-2 showed that as little as 1% of data improves task success by 25%. There’s clearly a power law in the downstream impact of data. We spent months obsessing over data quality - building our stack, discarding it, rebuilding it, and iterating until we found a formula that doesn’t compromise quality at scale and laying the infrastructure rails as we embark into this future. We are excited to be building what we think of is the infra layer for the internet archive of data for our robotic companions of the future. Happy to answer questions about our hardware, data methodology, or what we’ve learned so far. fpvlabs.ai
 
-21h ago
+22h ago
 
 ---
 
@@ -74,7 +74,7 @@ l find that RoboBaton mini is good to use. I was originally planning to use Inte
 
 Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 that I've been building. The feedback was really helpful, and I've been heads-down since then working on one of the biggest feature of the framework: Variants and flavors (the ability to define a single communication interface for different pieces of code). The goal hasn't changed: someone new should be able to pick this up and have nodes communicating in about half an hour. I'd love to hear what you think, especially from people who tried it last time.
 
-8h ago
+9h ago
 
 ---
 
@@ -86,17 +86,17 @@ Read all of the ROS news on Open Robotics Discourse. Picture is the Innate.bot M
 
 ---
 
-**[Autonomous valet robot demonstrating precise self-parking in a real-world setting](https://www.reddit.com/r/robotics/comments/1san0l2/autonomous_valet_robot_demonstrating_precise/)**
-
-1d ago
-
----
-
 **[Suggestions for battery](https://www.reddit.com/r/robotics/comments/1sbh2tx/suggestions_for_battery/)**
 
 i need y'all to give me suggestions for the battery part im having two 6v n20 600rpm motors and also the battery is connected to the buck which powers the esp32 the sensors are powered from the esp32 3.3v all the things are working perfectly just the prblm im facing is o hVe 7.4v lipo battery but its too big and bulky for this size and makes it heavier too so can you suggest some batteries (rechargeable) 7.4v thats smaller and compact in size to fit on the upper part (where my thumb is placed)
 
 22h ago
+
+---
+
+**[Autonomous valet robot demonstrating precise self-parking in a real-world setting](https://www.reddit.com/r/robotics/comments/1san0l2/autonomous_valet_robot_demonstrating_precise/)**
+
+1d ago
 
 ---
 
@@ -118,7 +118,7 @@ Crunchbase News • 2d ago
 
 ---
 
-**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqepJt141IKKxJtWyw2Boizj4blRx6dTCOR-JTJqo42FmS5NsLubQ-RD&gaa_ts=69d10e66&gaa_sig=FNAt-AaLpalZGnan5jaeFQzLD_n5jUDXQ_xlO3sh849auLAgNSKSYDTbg37v2ti8WafrFgddX3ver9YqE3gSTA%3D%3D)**
+**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqdzTo66uV602NA2IH0QTlpBXz_r1S-QIId4Xaf2bKb8NjR_57-bQP6Y&gaa_ts=69d12599&gaa_sig=eG-inkxzp1_p2VbfzIxl1Qnaj0I7IziqVmeTWiWEIHPvajsvVJdy4x0Bpwtl3AFoasnIUsc4_zmr8HReF3GXKQ%3D%3D)**
 
 WSJ • 1d ago
 
@@ -130,11 +130,11 @@ Forbes • 2d ago
 
 ---
 
-**[Gill Pratt Says Humanoid Robots’ Moment Is Finally Here](https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa)**
+**[Video Friday: Digit Learns to Dance—Virtually Overnight](https://spectrum.ieee.org/video-humanoid-dancing)**
 
-The architect of the DARPA Robotics Challenge explains how their brains have caught up
+Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 1d ago
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -150,37 +150,37 @@ NASA (.gov) • 17h ago
 
 From robotic Olaf to reinforcement learning, the company is rethinking how its attractions come to life.
 
-Fast Company • 1d ago
+fastcompany.com • 1d ago
 
 ---
 
-**[US scientists make air-powered muscles that help robots lift 100x their weight](https://interestingengineering.com/ai-robotics/artificial-muscles-robot-lift-more-weight)**
+**[Air-powered artificial muscles could help robots lift 100 times their weight](https://techxplore.com/news/2026-04-air-powered-artificial-muscles-robots.html)**
 
-US researchers have built air-powered muscles that help robots lift 100 times their weight while staying lightweight and untethered.
-
-Interesting Engineering • 18h ago
+Tech Xplore • 1d ago
 
 ---
 
-**[Local Robotics Teams Raising Funds to Attend World Competition](https://www.newsdakota.com/2026/04/02/local-robotics-teams-raising-funds-to-attend-world-competition/)**
+**[North Fork robotics team heads to world championship](https://suffolktimes.timesreview.com/2026/04/north-fork-robotics-team-heads-to-world-championship/)**
 
-VALLEY CITY, N.D. (NewsDakota.com) – Two local school districts are sending their robotics teams to the world competition. Valley City Jr/Sr High Coach- Joelle Manlove said Three Geniuses and the New Guy have been invited to compete
+Team R.I.C.E. 870 will go back to the FIRST world championship for the seventh time after a victory at the L.I. regional competition in March.
 
-News Dakota • 1d ago
-
----
-
-**[Pella High Robotics Team Win at State TSA Championships](https://www.kniakrls.com/2026/04/02/1-of-40-pella-high-robotics-team-win-at-state-tsa-championships/)**
-
-Pella High School Robotics team members competed at the 2026 Iowa Technology Student Association (TSA) State Conference and STEM Competitions, earning multiple top finishes. The team of Peyton Phillips, Kayle Huffaker, Zoe Shaffer, and Lily Steenhoek captured
-
-kniakrls.com • 2d ago
+The Suffolk Times • 1d ago
 
 ---
 
-**[Robots learn to ask humans for help](https://www.axios.com/2026/04/01/robots-delivery-serve-tmobile)**
+**[FedEx’s next AI leap to feature RFID, robotics](https://www.supplychaindive.com/news/fedex-ai-usage-rfid-robotics-network-2/816220/)**
 
-Axios • 2d ago
+The carrier is scaling its use of physical assets powered by AI to strengthen network reliability and improve connectivity with shippers, a FedEx executive said.
+
+Supply Chain Dive • 3d ago
+
+---
+
+**[Robots are coming to the 1819 Innovation Hub](https://www.uc.edu/news/articles/2026/04/robots-are-coming-to-the-1819-innovation-hub.html)**
+
+UC 1819 Innovation Hub hosts AI Robotics Summit. Various segments, such as aerospace and defense, healthcare, logistics and manufacturing will be on display.
+
+University of Cincinnati • 18h ago
 
 ---
 
@@ -194,7 +194,7 @@ These robots aren't waiting for the future — they're already HERE and doing th
 
 📺 The AI Nexus
 
-👁️ 1K • 👍 65 • 💬 2 • ⏱️ 55:39 • 12h ago
+👁️ 1K • 👍 65 • 💬 2 • ⏱️ 55:39 • 13h ago
 
 ---
 

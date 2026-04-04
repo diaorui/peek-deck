@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-04T13:56:44.755595+00:00'
+updated: '2026-04-04T14:37:32.602283+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- videos
 - news
 - cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 04, 2026 at 13:56 UTC  
+**Last Updated:** April 04, 2026 at 14:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +0.1%  
-**7d:** +3.3%  
-**30d:** +3.6%  
-**90d:** -36.4%  
-**1y:** +13.5%  
+**7d:** +3.5%  
+**30d:** +3.8%  
+**90d:** -36.3%  
+**1y:** +13.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -96,7 +96,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Why are we still copy-pasting 40-character wallet addresses in 2026? Idea: you do a small test transfer once → both wallets get a shared avatar/character. Next time you send, you just recognize the person visually instead of relying on the address. Kind of like “pairing” wallets. Would this actually reduce mistakes or scams, or is this unnecessary given things like ENS?
 
-18h ago
+19h ago
 
 ---
 
@@ -124,7 +124,7 @@ People ask this a lot and most answers are either too optimistic or outdated. He
 
 **[Is the "Quantum Apocalypse" coming early for ethereum?](https://www.reddit.com/r/ethereum/comments/1sbgp8o/is_the_quantum_apocalypse_coming_early_for/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -150,7 +150,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 As investors search for "the next Ethereum," this top cryptocurrency is worth a closer look.
 
-fool.com • 10h ago
+fool.com • 11h ago
 
 ---
 
@@ -158,7 +158,15 @@ fool.com • 10h ago
 
 Financial giant Charles Schwab is set to launch spot buying of Bitcoin and Ethereum by the end of the quarter, the firm said Friday.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
+
+---
+
+**[I Asked ChatGPT To Explain Ethereum to Me Like I’m 12](https://uk.finance.yahoo.com/news/asked-chatgpt-explain-ethereum-m-141704920.html)**
+
+Confused by ethereum? Here’s a simple, beginner-friendly explanation of how it works, how to invest and whether it’s a good crypto investment, per ChatGPT.
+
+Yahoo Finance UK • 20m ago
 
 ---
 
@@ -166,15 +174,7 @@ Decrypt • 16h ago
 
 The foundation’s latest staking allocation mirrors its biggest-ever single-day move and is a major step-up from its initial February deployment.
 
-The Block • 21h ago
-
----
-
-**[Bitcoin and ethereum price today, Friday, April 3, 2026: Prices are mixed as traders weigh long-term outlook](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-friday-april-3-2026-prices-are-mixed-as-traders-weigh-long-term-outlook-120045802.html)**
-
-Bitcoin dipped while ethereum gained Friday morning after losing ground following President Trump’s prime-time address. Traders are questioning long-term outlooks.
-
-Yahoo Finance • 1d ago
+The Block • 22h ago
 
 ---
 
@@ -190,27 +190,7 @@ CoinDesk • 1d ago
 
 Ethereum could outpace Bitcoin by a wide margin over the next four years — at least according to one of the most bullish forecasts to come out of traditional banking. That is the view from Geoff Kendrick, Global Head of Digital Assets Research at Standard Chartered, who laid out the projection in a…
 
-TradingView • 11h ago
-
----
-
-**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775289000)**
-
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 3d ago
-
----
-
-**[Should you forget Ethereum and buy this cryptocurrency instead?](https://www.msn.com/en-us/money/topstocks/should-you-forget-ethereum-and-buy-this-cryptocurrency-instead/ar-AA207dA0?ocid=finance-verthp-feeds)**
-
-MSN • 6h ago
-
----
-
-**[Ethereum Bears Rule the Chart, but 21Shares’ TETH Attracts a Wave of Contrarian Cash](https://www.tipranks.com/news/cryptocurrencies/ethereum-bears-rule-the-chart-but-21shares-teth-attracts-a-wave-of-contrarian-cash)**
-
-TipRanks • 22h ago
+TradingView • 12h ago
 
 ---
 
@@ -219,6 +199,26 @@ TipRanks • 22h ago
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
 Fortune • 1d ago
+
+---
+
+**[Should you forget Ethereum and buy this cryptocurrency instead?](https://www.msn.com/en-us/money/topstocks/should-you-forget-ethereum-and-buy-this-cryptocurrency-instead/ar-AA207dA0?ocid=finance-verthp-feeds)**
+
+MSN • 7h ago
+
+---
+
+**[Ethereum Price Prediction: Bitcoin Suisse Targets $7,000 to $9,000 ETH While Pepeto Holders Target 150x From Presale](https://financefeeds.com/ethereum-price-prediction-bitcoin-suisse-targets-7000-to-9000-eth-while-pepeto-holders-target-150x-from-presale/)**
+
+FinanceFeeds • 1d ago
+
+---
+
+**[Bitcoin, XRP, Dogecoin Slide, Ethereum Flat As Trump Signals Iran War To Go On Until 'Objectives' Met: An](https://www.benzinga.com/crypto/cryptocurrency/26/04/51617204/bitcoin-xrp-dogecoin-slide-ethereum-flat-trump-iran-war-btc-accumulation)**
+
+Leading cryptocurrencies fell alongside stock futures on Wednesday evening after President Donald Trump said the U.S. will continue its military campaign against Iran until the objectives are &#8220;fully achieved.&quot;
+
+benzinga.com • 2d ago
 
 ---
 
@@ -232,7 +232,7 @@ Fortune • 1d ago
 
 📺 Stock Moe
 
-👁️ 2K • 👍 330 • 💬 51 • ⏱️ 11:56 • 1h ago
+👁️ 2K • 👍 330 • 💬 51 • ⏱️ 11:56 • 2h ago
 
 ---
 
@@ -262,7 +262,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 563 • 👍 62 • 💬 6 • ⏱️ 10:14 • 54m ago
+👁️ 563 • 👍 62 • 💬 6 • ⏱️ 10:14 • 1h ago
 
 ---
 
@@ -292,7 +292,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 60 • 👍 4 • 💬 5 • ⏱️ 4:43 • 3h ago
+👁️ 60 • 👍 4 • 💬 5 • ⏱️ 4:43 • 4h ago
 
 ---
 
@@ -312,7 +312,7 @@ For Business Inquiries Contact: cryptoknowledgetamilyt@gmail.com My Twitter hand
 
 📺 Crypto Knowledge Tamil
 
-👁️ 81 • 💬 2 • ⏱️ 13:36 • 34m ago
+👁️ 81 • 💬 2 • ⏱️ 13:36 • 1h ago
 
 ---
 
@@ -322,7 +322,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 377 • 👍 13 • 💬 2 • ⏱️ 4:56 • 20h ago
+👁️ 377 • 👍 13 • 💬 2 • ⏱️ 4:56 • 21h ago
 
 ---
 

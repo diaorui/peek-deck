@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-04T13:56:44.749382+00:00'
+updated: '2026-04-04T14:37:32.596351+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- videos
 - news
 - cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 04, 2026 at 13:56 UTC  
+**Last Updated:** April 04, 2026 at 14:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +1.6%  
-**30d:** -1.5%  
-**90d:** -28.7%  
-**1y:** -19.7%  
+**24h:** +0.5%  
+**7d:** +1.7%  
+**30d:** -1.4%  
+**90d:** -28.6%  
+**1y:** -19.6%  
 
 ---
 
@@ -77,6 +77,22 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Daily Discussion, April 04, 2026](https://www.reddit.com/r/Bitcoin/comments/1sc1gw5/daily_discussion_april_04_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+8h ago
+
+---
+
+**[Deceased Father Phone Access/Lost Bitcoin Access](https://www.reddit.com/r/Bitcoin/comments/1sc0x6y/deceased_father_phone_accesslost_bitcoin_access/)**
+
+Hi my father had an Android S20 FE and we cannot figure out his password to get in. We know he had bitcoin from early 2015, any ideas on how to get into it, brute force?
+
+9h ago
+
+---
+
 **[A Bitcoin Revolution!](https://www.reddit.com/r/Bitcoin/comments/1sbv5p7/a_bitcoin_revolution/)**
 
 Bitcoin isn’t just about "number go up"—it’s about changing the fundamental architecture of how we fund global conflict. ​For decades, the legacy financial system has allowed governments to engage in endless, "forever" wars through the hidden tax of inflation. When a government can print money at will to fund military expansion, the true cost of war is hidden from the public, devaluing our savings and our future in the process. BITCOIN FIXES THIS! By operating on a fixed supply of 21 million, Bitcoin removes the "money printer" as a primary funding source for war. In a hard-money world, governments have to be honest about their budgets. They can’t just dilute the currency to bankroll destruction; they have to ask the people for taxes, making the cost of conflict transparent and immediate. It’s time to move toward a system that incentivizes production and peace over debt and destruction. Bitcoin is the separation of money and state, and it might be our best shot at ending the cycle of endless war.
@@ -85,41 +101,25 @@ Bitcoin isn’t just about "number go up"—it’s about changing the fundamenta
 
 ---
 
-**[Daily Discussion, April 04, 2026](https://www.reddit.com/r/Bitcoin/comments/1sc1gw5/daily_discussion_april_04_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-7h ago
-
----
-
 **[Bought large sum of bitcoin](https://www.reddit.com/r/Bitcoin/comments/1sbua0u/bought_large_sum_of_bitcoin/)**
 
 At what point do I start running my own node?
 
-13h ago
-
----
-
-**[Deceased Father Phone Access/Lost Bitcoin Access](https://www.reddit.com/r/Bitcoin/comments/1sc0x6y/deceased_father_phone_accesslost_bitcoin_access/)**
-
-Hi my father had an Android S20 FE and we cannot figure out his password to get in. We know he had bitcoin from early 2015, any ideas on how to get into it, brute force?
-
-8h ago
+14h ago
 
 ---
 
 **[My favorite part of the ride](https://www.reddit.com/r/Bitcoin/comments/1sbes4i/my_favorite_part_of_the_ride/)**
 
-23h ago
+1d ago
 
 ---
 
-**[[ Removed by Reddit ]](https://www.reddit.com/r/Bitcoin/comments/1sc3ptp/removed_by_reddit/)**
+**[Update on lost BTC wallet from 2013 - which way to proceed?](https://www.reddit.com/r/Bitcoin/comments/1sc360e/update_on_lost_btc_wallet_from_2013_which_way_to/)**
 
-[ Removed by Reddit on account of violating the content policy. ]
+Hey all, I will try to keep responding to replies on the original post, I got blocked from my own post because I was responding too quickly. Here is the update, and we are wondering which way to go with this as we have the laptop working and the owner says she does remember that the wallet lived on the TOR browser. There are apparently two wallets that were available on TOR at that time: Electrum and Coinwallet. She believes it is Coinwallet. That being said, we don't know much about TOR, but it makes sense to try and access TOR and hopefully Coinwallet on the original laptop, but we can't seem to connect, as it gets to 5% bootstrapping "connecting to directory server" in the log, and "connecting to a relay directory" under the Status bar. Hoping someone could give us some guidance on how to proceed. We loaded TOR on her current laptop, and wasn't sure where to go from there. We also downloaded Coinwallet to her current laptop, running into the passphrase requirement. I believe there should be 12. This brings us to the second avenue of approach, as we found a text file with 30,000 words, groups of numbers and number/letter combinations. About 270 of them are common with the 2048 word list. This list was apparently created by the person that set up the wallet/TOR for her and this person was a cybersecurity expert for the DoD. Might this be able to be parsed/decoded with a program? We entered the first 12 words that appeared on both lists in the order of appearance into the Coinwallet passphrase box on her current laptop with no success. She is going to keep looking around on both drives (it was switched out between the dates of the first and last transactions on the Coinbase exchange log) to see if anything else jogs her memory. Thanks in advance for any help/advice!
 
-5h ago
+6h ago
 
 ---
 
@@ -135,15 +135,7 @@ Note: not answering DMs or clicking links I found an old json file while going t
 
 Hi, I don't have a bank account and there isn't any ATMs around me I can use to buy cryptocurrencies. I bought a vanilla card online to buy crypto. How can I do so? Thank you.
 
-1h ago
-
----
-
-**[Update on lost BTC wallet from 2013 - which way to proceed?](https://www.reddit.com/r/Bitcoin/comments/1sc360e/update_on_lost_btc_wallet_from_2013_which_way_to/)**
-
-Hey all, I will try to keep responding to replies on the original post, I got blocked from my own post because I was responding too quickly. Here is the update, and we are wondering which way to go with this as we have the laptop working and the owner says she does remember that the wallet lived on the TOR browser. There are apparently two wallets that were available on TOR at that time: Electrum and Coinwallet. She believes it is Coinwallet. That being said, we don't know much about TOR, but it makes sense to try and access TOR and hopefully Coinwallet on the original laptop, but we can't seem to connect, as it gets to 5% bootstrapping "connecting to directory server" in the log, and "connecting to a relay directory" under the Status bar. Hoping someone could give us some guidance on how to proceed. We loaded TOR on her current laptop, and wasn't sure where to go from there. We also downloaded Coinwallet to her current laptop, running into the passphrase requirement. I believe there should be 12. This brings us to the second avenue of approach, as we found a text file with 30,000 words, groups of numbers and number/letter combinations. About 270 of them are common with the 2048 word list. This list was apparently created by the person that set up the wallet/TOR for her and this person was a cybersecurity expert for the DoD. Might this be able to be parsed/decoded with a program? We entered the first 12 words that appeared on both lists in the order of appearance into the Coinwallet passphrase box on her current laptop with no success. She is going to keep looking around on both drives (it was switched out between the dates of the first and last transactions on the Coinbase exchange log) to see if anything else jogs her memory. Thanks in advance for any help/advice!
-
-6h ago
+2h ago
 
 ---
 
@@ -155,15 +147,21 @@ Hey guys, I don’t know why but I just remembered that I bought BTC in late 201
 
 ---
 
+**[We’re seeing that at the sovereign level,we’re seeing that across Wall Street and the retail investor outside the US continues to allocate.](https://www.reddit.com/r/Bitcoin/comments/1sbh9v5/were_seeing_that_at_the_sovereign_levelwere/)**
+
+22h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
 
-**[Here's what 'cracking' bitcoin in 9 minutes by quantum computers actually means](https://www.coindesk.com/tech/2026/03/31/what-does-cracking-bitcoin-in-9-minutes-by-quantum-computers-actually-mean)**
+**[Bitcoin whales are selling the most aggressively on record while ETFs and Strategy keep buying](https://www.coindesk.com/markets/2026/04/03/five-data-sources-say-the-same-thing-about-bitcoin-market-it-s-thinning-from-the-inside)**
 
-Google's quantum paper made headlines with that number. Here's what it means, what's actually at risk, and why 6.9 million bitcoin are more exposed than the rest.
+CryptoQuant data shows overall bitcoin demand is contracting at -63,000 BTC per month even as institutional buyers accelerate purchases, with large holders distributing nearly 188,000 BTC over the past year.
 
-CoinDesk • 4d ago
+CoinDesk • 21h ago
 
 ---
 
@@ -171,7 +169,13 @@ CoinDesk • 4d ago
 
 Cathie Wood weighs in on the ongoing Bitcoin winter.
 
-thestreet.com • 22h ago
+thestreet.com • 23h ago
+
+---
+
+**[‘You Have Until 2029’—Urgent Musk Bitcoin Warning Spurs Coinbase CEO Flip As Price Crash Fears Swirl](https://www.forbes.com/sites/digital-assets/2026/04/04/you-have-until-2029-urgent-elon-musk-bitcoin-warning-suddenly-triggers-price-crash-fears/)**
+
+Forbes • 2h ago
 
 ---
 
@@ -179,7 +183,7 @@ thestreet.com • 22h ago
 
 Amid the ongoing bear market, crypto analyst Darkfost reports that trading activity among Bitcoin retail investors has reached a new low, suggesting a notable decline in participation. However, broader on-chain data provides deeper context to this trend, pointing to a mix of both constructive and c…
 
-TradingView • 1h ago
+TradingView • 2h ago
 
 ---
 
@@ -187,23 +191,13 @@ TradingView • 1h ago
 
 Key takeaways:$2.5 billion in shorts at risk if BTC hits $72,000Bitcoin (BTC) has consistently failed to hit new highs since attempting to reclaim the $75,000 level since March 17.Bearish Bitcoin futures bets have been piling up as the war in Iran pushed oil prices to their highest levels since Jun…
 
-TradingView • 1h ago
+TradingView • 2h ago
 
 ---
 
-**[Trump’s Jobs Report Update vs. Bitcoin’s Worst Retail Participation in 9 Years](https://www.tradingview.com/news/coinpedia:61fe67f8c094b:0-trump-s-jobs-report-update-vs-bitcoin-s-worst-retail-participation-in-9-years/)**
+**[Stock futures and bitcoin slip, Treasury yields climb, as hot jobs report raises more questions about Fed rate cuts](https://www.marketwatch.com/story/stock-futures-and-bitcoin-slip-treasury-yields-climb-as-hot-jobs-report-raises-more-questions-about-fed-rate-cuts-921ff82f?gaa_at=eafs&gaa_n=AWEtsqevBLiy3WnlICou_xv1it8v4klGyiFDH3xaNalE6f9ywErBNurlCk4g&gaa_ts=69d12597&gaa_sig=xgzTsadioWwU3lhswDV-LVv9cxfOnj7p06U9Uhu1kg0m9OEj180oR4RyF7801H3qgpMs80qqWiOKOLXYqqZqCQ%3D%3D)**
 
-On Good Friday, President Trump posted a victory lap on Truth Social. 186,000 private sector jobs added in March. Trade deficit down 52%.  “An enormously powerful engine of Economic Growth,” he wrote. Crypto analyst Lark Davis isn’t buying it.  “Trump’s post is half-truth, half-spin,” he wrote on X…
-
-TradingView • 3h ago
-
----
-
-**[Current price of Bitcoin for April 3, 2026](https://fortune.com/article/price-of-bitcoin-04-03-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 1d ago
+MarketWatch • 1d ago
 
 ---
 
@@ -211,13 +205,7 @@ Fortune • 1d ago
 
 Based on prediction market data, a recovery this year for Bitcoin looks unlikely. Crypto investors will need to be patient.
 
-Yahoo Finance • 11h ago
-
----
-
-**[Stock futures and bitcoin slip, Treasury yields climb, as hot jobs report raises more questions about Fed rate cuts](https://www.marketwatch.com/story/stock-futures-and-bitcoin-slip-treasury-yields-climb-as-hot-jobs-report-raises-more-questions-about-fed-rate-cuts-921ff82f?gaa_at=eafs&gaa_n=AWEtsqd5UbMKdruHgBzzUyP42Z49bgkDwNvFeYwyTO24IUC4Rt-IzUXzbOCw&gaa_ts=69d10e63&gaa_sig=kLisjfDUh3icNgC70KHuGaj4AhXEtunPRp1sMD54WmN5WfivIlhMZ-lLvIxVcTEyOueBY0rIqC2Jwp9ozKpKew%3D%3D)**
-
-MarketWatch • 1d ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -229,9 +217,19 @@ Bitcoin Magazine • 18h ago
 
 ---
 
-**[‘You Have Until 2029’—Urgent Elon Musk Bitcoin Warning Suddenly Triggers Price Crash Fears](https://www.forbes.com/sites/digital-assets/2026/04/02/you-have-until-2029-urgent-elon-musk-bitcoin-warning-suddenly-triggers-price-crash-fears/)**
+**[Current price of Bitcoin for April 3, 2026](https://fortune.com/article/price-of-bitcoin-04-03-2026/)**
 
-Forbes • 2d ago
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 1d ago
+
+---
+
+**[Riot Platforms sells $290 million worth of bitcoin during Q1](https://www.theblock.co/post/396289/riot-platforms-sells-290-million-usd-bitcoin)**
+
+Other major bitcoin miners have been selling their bitcoin holdings to fund their transition to focus on AI.
+
+The Block • 1d ago
 
 ---
 
@@ -243,7 +241,7 @@ Forbes • 2d ago
 
 Google Quantum AI: Quantum computer could break Bitcoin cryptography with under 500,000 qubits in nine minutes. This will likely only be possible in the 2030s.
 
-⬆️ 15 • 💬 6 • 19h ago • [heise online](https://www.heise.de/en/news/Quantum-computer-researchers-Bitcoin-encryption-breakable-in-a-few-years-11244911.html)
+⬆️ 15 • 💬 7 • 20h ago • [heise online](https://www.heise.de/en/news/Quantum-computer-researchers-Bitcoin-encryption-breakable-in-a-few-years-11244911.html)
 
 ---
 
@@ -267,7 +265,7 @@ Bitcoin needs to fix this in the next three years.
 
 April 03, 2026 - A new $100 million bond deal reveals exactly how traditional finance values BTC as collateral. The numbers are sobering, and the
 
-⬆️ 4 • 💬 2 • 21h ago • [Bitcoin, Altcoins, Crypto News & Financial Market News](https://catenaa.com/markets/cryptocurrencies/moodys-bitcoin-collateral-haircut/)
+⬆️ 4 • 💬 2 • 22h ago • [Bitcoin, Altcoins, Crypto News & Financial Market News](https://catenaa.com/markets/cryptocurrencies/moodys-bitcoin-collateral-haircut/)
 
 ---
 
@@ -321,7 +319,7 @@ Markets cracked, oil surged, Bitcoin dipped, and Larry Fink is warning that a pr
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 994 • 💬 91 • ⏱️ 14:11 • 16h ago
+👁️ 15K • 👍 994 • 💬 91 • ⏱️ 14:11 • 17h ago
 
 ---
 
@@ -351,7 +349,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 3K • 👍 274 • ⏱️ 45:08 • 55m ago
+👁️ 3K • 👍 274 • ⏱️ 45:08 • 1h ago
 
 ---
 
@@ -371,7 +369,7 @@ Most people are waiting for Bitcoin to “do something.” That's the mistake. B
 
 📺 Tim Talks Finance
 
-👁️ 3K • 👍 209 • 💬 47 • ⏱️ 12:07 • 19h ago
+👁️ 3K • 👍 209 • 💬 47 • ⏱️ 12:07 • 20h ago
 
 ---
 
