@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-04T22:31:35.912126+00:00'
+updated: '2026-04-04T23:33:19.093713+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
+- news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 04, 2026 at 22:31 UTC  
+**Last Updated:** April 04, 2026 at 23:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** +2.1%  
-**30d:** -1.0%  
-**90d:** -28.3%  
-**1y:** -19.3%  
+**24h:** +0.6%  
+**7d:** +1.9%  
+**30d:** -1.2%  
+**90d:** -28.5%  
+**1y:** -19.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1345.95B
+**Market Cap:** $1347.02B
 Rank #1
 
-**Circulating Supply:** 20,011,434 BTC
+**Circulating Supply:** 20,011,468 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--46.7%
+-46.6%
 
 **All-Time Low:** $67.81
-+99086.0%
++99173.0%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Hi, Whats your perspective on this?
 
-8h ago
+9h ago
 
 ---
 
@@ -89,7 +89,7 @@ Hi, Whats your perspective on this?
 
 Bitcoin needs to fix this in the next three years.
 
-🔗 [Mashable](https://mashable.com/article/google-research-bitcoin-cryptography-broken) • 1h ago
+🔗 [Mashable](https://mashable.com/article/google-research-bitcoin-cryptography-broken) • 2h ago
 
 ---
 
@@ -97,7 +97,7 @@ Bitcoin needs to fix this in the next three years.
 
 Hi my father had an Android S20 FE and we cannot figure out his password to get in. We know he had bitcoin from early 2015, any ideas on how to get into it, brute force?
 
-16h ago
+17h ago
 
 ---
 
@@ -105,31 +105,7 @@ Hi my father had an Android S20 FE and we cannot figure out his password to get 
 
 Hi, I don't have a bank account and there isn't any ATMs around me I can use to buy cryptocurrencies. I bought a vanilla card online to buy crypto. How can I do so? Thank you.
 
-10h ago
-
----
-
-**[A Bitcoin Revolution!](https://www.reddit.com/r/Bitcoin/comments/1sbv5p7/a_bitcoin_revolution/)**
-
-Bitcoin isn’t just about "number go up"—it’s about changing the fundamental architecture of how we fund global conflict. ​For decades, the legacy financial system has allowed governments to engage in endless, "forever" wars through the hidden tax of inflation. When a government can print money at will to fund military expansion, the true cost of war is hidden from the public, devaluing our savings and our future in the process. BITCOIN FIXES THIS! By operating on a fixed supply of 21 million, Bitcoin removes the "money printer" as a primary funding source for war. In a hard-money world, governments have to be honest about their budgets. They can’t just dilute the currency to bankroll destruction; they have to ask the people for taxes, making the cost of conflict transparent and immediate. It’s time to move toward a system that incentivizes production and peace over debt and destruction. Bitcoin is the separation of money and state, and it might be our best shot at ending the cycle of endless war.
-
-21h ago
-
----
-
-**[Daily Discussion, April 04, 2026](https://www.reddit.com/r/Bitcoin/comments/1sc1gw5/daily_discussion_april_04_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-16h ago
-
----
-
-**[The superior way to hold Bitcoin in my opinion](https://www.reddit.com/r/Bitcoin/comments/1scee93/the_superior_way_to_hold_bitcoin_in_my_opinion/)**
-
-In my opinion Bitcoin offers various benefits depending on how you use it. For example, the most basic level is holding Bitcoin through an ETF. You can't leave the country with your Bitcoin in just 12 memorized words, it's the most basic way to hold Bitcoin, only using it for the NGU. It's slightly better if you hold Bitcoin on an exchange, at least you could send the BTC to someone else as money. The next level is to hold it in self-custody with KYC. At least you no longer have the risk of the exchange going bankrupt or your accounts being blocked, but you're a slave to the government that knows about your BTC. And the ultimate, best way is to hold it in self-custody without KYC. This is where all the benefits of BTC are unlocked, the most powerful way to fight the system. If you're at the initial levels, I advise you to gradually work your way up to the higher level Bitcoin holding way.
-
-5h ago
+11h ago
 
 ---
 
@@ -137,7 +113,31 @@ In my opinion Bitcoin offers various benefits depending on how you use it. For e
 
 Der ausführliche Test des NerdOctaxe Bitcoin Miner. Leistung, Effizienz, Funktionen.
 
-🔗 [renditecloud.com](https://renditecloud.com/2026/03/18/nerdoctaxe-gamma-bitcoin-miner-im-test/) • 4h ago
+🔗 [renditecloud.com](https://renditecloud.com/2026/03/18/nerdoctaxe-gamma-bitcoin-miner-im-test/) • 5h ago
+
+---
+
+**[The superior way to hold Bitcoin in my opinion](https://www.reddit.com/r/Bitcoin/comments/1scee93/the_superior_way_to_hold_bitcoin_in_my_opinion/)**
+
+In my opinion Bitcoin offers various benefits depending on how you use it. For example, the most basic level is holding Bitcoin through an ETF. You can't leave the country with your Bitcoin in just 12 memorized words, it's the most basic way to hold Bitcoin, only using it for the NGU. It's slightly better if you hold Bitcoin on an exchange, at least you could send the BTC to someone else as money. The next level is to hold it in self-custody with KYC. At least you no longer have the risk of the exchange going bankrupt or your accounts being blocked, but you're a slave to the government that knows about your BTC. And the ultimate, best way is to hold it in self-custody without KYC. This is where all the benefits of BTC are unlocked, the most powerful way to fight the system. If you're at the initial levels, I advise you to gradually work your way up to the higher level Bitcoin holding way.
+
+6h ago
+
+---
+
+**[A Bitcoin Revolution!](https://www.reddit.com/r/Bitcoin/comments/1sbv5p7/a_bitcoin_revolution/)**
+
+Bitcoin isn’t just about "number go up"—it’s about changing the fundamental architecture of how we fund global conflict. ​For decades, the legacy financial system has allowed governments to engage in endless, "forever" wars through the hidden tax of inflation. When a government can print money at will to fund military expansion, the true cost of war is hidden from the public, devaluing our savings and our future in the process. BITCOIN FIXES THIS! By operating on a fixed supply of 21 million, Bitcoin removes the "money printer" as a primary funding source for war. In a hard-money world, governments have to be honest about their budgets. They can’t just dilute the currency to bankroll destruction; they have to ask the people for taxes, making the cost of conflict transparent and immediate. It’s time to move toward a system that incentivizes production and peace over debt and destruction. Bitcoin is the separation of money and state, and it might be our best shot at ending the cycle of endless war.
+
+22h ago
+
+---
+
+**[Daily Discussion, April 04, 2026](https://www.reddit.com/r/Bitcoin/comments/1sc1gw5/daily_discussion_april_04_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+17h ago
 
 ---
 
@@ -145,7 +145,7 @@ Der ausführliche Test des NerdOctaxe Bitcoin Miner. Leistung, Effizienz, Funkti
 
 At what point do I start running my own node?
 
-22h ago
+23h ago
 
 ---
 
@@ -153,7 +153,7 @@ At what point do I start running my own node?
 
 Hey all, I will try to keep responding to replies on the original post, I got blocked from my own post because I was responding too quickly. Here is the update, and we are wondering which way to go with this as we have the laptop working and the owner says she does remember that the wallet lived on the TOR browser. There are apparently two wallets that were available on TOR at that time: Electrum and Coinwallet. She believes it is Coinwallet. That being said, we don't know much about TOR, but it makes sense to try and access TOR and hopefully Coinwallet on the original laptop, but we can't seem to connect, as it gets to 5% bootstrapping "connecting to directory server" in the log, and "connecting to a relay directory" under the Status bar. Hoping someone could give us some guidance on how to proceed. We loaded TOR on her current laptop, and wasn't sure where to go from there. We also downloaded Coinwallet to her current laptop, running into the passphrase requirement. I believe there should be 12. This brings us to the second avenue of approach, as we found a text file with 30,000 words, groups of numbers and number/letter combinations. About 270 of them are common with the 2048 word list. This list was apparently created by the person that set up the wallet/TOR for her and this person was a cybersecurity expert for the DoD. Might this be able to be parsed/decoded with a program? We entered the first 12 words that appeared on both lists in the order of appearance into the Coinwallet passphrase box on her current laptop with no success. She is going to keep looking around on both drives (it was switched out between the dates of the first and last transactions on the Coinbase exchange log) to see if anything else jogs her memory. Thanks in advance for any help/advice!
 
-14h ago
+15h ago
 
 ---
 
@@ -165,21 +165,29 @@ Hey all, I will try to keep responding to replies on the original post, I got bl
 
 The study analyzed 60-day windows after economic or geopolitical shocks and found that Bitcoin posted stronger returns than gold and the S&P 500 in each period.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
 **[‘You Have Until 2029’—Urgent Musk Bitcoin Warning Spurs Coinbase CEO Flip As Price Crash Fears Swirl](https://www.forbes.com/sites/digital-assets/2026/04/04/you-have-until-2029-urgent-elon-musk-bitcoin-warning-suddenly-triggers-price-crash-fears/)**
 
-Forbes • 10h ago
+Forbes • 11h ago
 
 ---
 
-**[Cathie Wood has brutal response to 50% Bitcoin crash](https://finance.yahoo.com/markets/crypto/articles/cathie-wood-brutal-response-50-180000044.html)**
+**[What Moody's (MCO)'s First Rating of Bitcoin‑Backed Municipal Bonds Means For Shareholders](https://finance.yahoo.com/markets/crypto/articles/moodys-mco-first-rating-bitcoin-221128402.html)**
 
-It has been nearly six months since the flash crypto crash on Oct. 10 last year that wiped out millions of dollars in a single day. Bitcoin (BTC) had hit the all-time high (ATH) of $126,080 only a few days earlier on Oct. 6, but currently, it is trading 47% lower at $66,600.67. However, ...
+Moody’s recently assigned its first-ever credit rating to Bitcoin-backed revenue bonds issued through the New Hampshire Business Finance Authority’s Waverose Finance Project, giving up to US$100,000,000 of 2029 bonds a provisional Ba2 rating backed by Bitcoin collateral custodied by BitGo Bank & Trust. This move extends Moody’s ratings framework into crypto-collateralized municipal debt, highlighting how traditional credit analysis is being applied to digital-asset-backed securities. Next,...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Charles Schwab opens waitlist for direct bitcoin and ether trading, targeting Q2 limited launch](https://www.theblock.co/post/396358/charles-schwab-opens-waitlist-for-direct-bitcoin-and-ether-trading-targeting-q2-limited-launch)**
+
+The service will be unavailable in New York and Louisiana at launch, and fee structure and custody arrangements have not yet been disclosed.
+
+The Block • 46m ago
 
 ---
 
@@ -191,6 +199,20 @@ thestreet.com • 1d ago
 
 ---
 
+**[Stock futures and bitcoin slip, Treasury yields climb, as hot jobs report raises more questions about Fed rate cuts](https://www.marketwatch.com/story/stock-futures-and-bitcoin-slip-treasury-yields-climb-as-hot-jobs-report-raises-more-questions-about-fed-rate-cuts-921ff82f?gaa_at=eafs&gaa_n=AWEtsqd0wDUC1gEkouPiX4yulrw9e1AEI6QQfdTfnWM91vTgWLCM7schgTdr&gaa_ts=69d1a311&gaa_sig=GBLg0etjyBX3DFGzUhQh8LCMfPTN_DssJCLyh_1ufT59sU-2XbE628p8SbWKrnI6Y2w1nEP0B8pwXHPzYTltIA%3D%3D)**
+
+MarketWatch • 1d ago
+
+---
+
+**[Bitcoin Price Breakdown To $45,000: The Levels To Watch Out For Next Steps](https://www.tradingview.com/news/newsbtc:806ab1e34094b:0-bitcoin-price-breakdown-to-45-000-the-levels-to-watch-out-for-next-steps/)**
+
+The Bitcoin price recently broke down to $66,000, and a bearish retest of $69,000 has now been confirmed, two conditions that technical analysis shows are prerequisites for a move to $45,000. With both boxes checked, the path of least resistance is pointing to a considerably lower move, and the lev…
+
+TradingView • 6h ago
+
+---
+
 **[Current price of Bitcoin for April 3, 2026](https://fortune.com/article/price-of-bitcoin-04-03-2026/)**
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
@@ -199,43 +221,17 @@ Fortune • 1d ago
 
 ---
 
-**[Bitcoin price prediction 2030: 5-year bitcoin forecast](https://www.aol.com/bitcoin-price-prediction-2030-5-153022076.html)**
+**[Bitcoin Miner Riot Platforms Sells Over $250 Million Worth of BTC](https://decrypt.co/363255/bitcoin-miner-riot-platforms-sells-250-million-btc)**
 
-Plus500 reports that Bitcoin could reach $150,000 by 2026, $500,000 by 2030, and $1 million by 2033 amid market uncertainties and risks.
-
-AOL.com • 6h ago
-
----
-
-**[Bitcoin Price Prediction as Miners Spend $80,000 to Produce One Bitcoin](https://247wallst.com/investing/2026/04/01/bitcoin-price-prediction-as-miners-spend-80000-to-produce-one-bitcoin/)**
-
-Bitcoin price prediction as miners spent roughly $80,000 to mine one BTC last quarter while Bitcoin trades near $67,000.
-
-24/7 Wall St. • 3d ago
-
----
-
-**[Riot Platforms sells $290 million worth of bitcoin during Q1](https://www.theblock.co/post/396289/riot-platforms-sells-290-million-usd-bitcoin)**
-
-Other major bitcoin miners have been selling their bitcoin holdings to fund their transition to focus on AI.
-
-The Block • 1d ago
-
----
-
-**[Charles Schwab Is Gearing Up to Offer Bitcoin, Ethereum Spot Trading](https://decrypt.co/363336/charles-schwab-bitcoin-ethereum-spot-trading)**
-
-Financial giant Charles Schwab is set to launch spot buying of Bitcoin and Ethereum by the end of the quarter, the firm said Friday.
+Publicly traded Bitcoin miner Riot Platforms sold another $250 million worth of BTC as it strategically pivots into AI.
 
 Decrypt • 1d ago
 
 ---
 
-**[Bitcoin Price Breakdown To $45,000: The Levels To Watch Out For Next Steps](https://www.tradingview.com/news/newsbtc:806ab1e34094b:0-bitcoin-price-breakdown-to-45-000-the-levels-to-watch-out-for-next-steps/)**
+**[Bitcoin Tumbles With Stocks as Trump Signals Harder Iran Strikes](https://www.bloomberg.com/news/articles/2026-04-02/bitcoin-tumbles-with-stocks-as-trump-signals-harder-iran-strikes)**
 
-The Bitcoin price recently broke down to $66,000, and a bearish retest of $69,000 has now been confirmed, two conditions that technical analysis shows are prerequisites for a move to $45,000. With both boxes checked, the path of least resistance is pointing to a considerably lower move, and the lev…
-
-TradingView • 5h ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -277,7 +273,7 @@ April 03, 2026 - A new $100 million bond deal reveals exactly how traditional fi
 
 **[Strive, Tuttle File Leveraged Bitcoin ETF](https://news.ycombinator.com/item?id=47621293)**
 
-⬆️ 4 • 💬 0 • 1d ago • [catenaa.com](https://catenaa.com/markets/cryptocurrencies/strive-tuttle-file-leveraged-etf-tied-to-bitcoin-preferreds/)
+⬆️ 4 • 💬 0 • 2d ago • [catenaa.com](https://catenaa.com/markets/cryptocurrencies/strive-tuttle-file-leveraged-etf-tied-to-bitcoin-preferreds/)
 
 ---
 
@@ -297,7 +293,7 @@ April 03, 2026 - A new $100 million bond deal reveals exactly how traditional fi
 
 The first signing system where the private key is a physical key — and can still transact. Titanium. Not stored digitally. Not protected by firmware.
 
-⬆️ 2 • 💬 1 • 4d ago • [Frozen Security](https://frozensecurity.com/)
+⬆️ 2 • 💬 1 • 5d ago • [Frozen Security](https://frozensecurity.com/)
 
 ---
 
@@ -335,7 +331,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 25K • 👍 2K • 💬 21 • ⏱️ 45:08 • 9h ago
+👁️ 25K • 👍 2K • 💬 21 • ⏱️ 45:08 • 10h ago
 
 ---
 
@@ -345,7 +341,7 @@ Welcome back to Verified Investing! In today's urgent crypto market update, Chie
 
 📺 Gareth Soloway
 
-👁️ 31K • 👍 3K • 💬 231 • ⏱️ 11:47 • 5h ago
+👁️ 31K • 👍 3K • 💬 231 • ⏱️ 11:47 • 6h ago
 
 ---
 
@@ -375,7 +371,7 @@ The Bitcoin 4 year cycle somehow continues... here's what's next BITUNIX TRADE T
 
 📺 Lark Davis
 
-👁️ 12K • 👍 664 • 💬 179 • ⏱️ 12:12 • 9h ago
+👁️ 12K • 👍 664 • 💬 179 • ⏱️ 12:12 • 10h ago
 
 ---
 
@@ -385,7 +381,7 @@ Welcome back! More Iran announcements over the weekend but Bitcoin is holding up
 
 📺 Aaron Bennett
 
-👁️ 5K • 👍 347 • 💬 182 • ⏱️ 6:51 • 16h ago
+👁️ 5K • 👍 347 • 💬 182 • ⏱️ 6:51 • 17h ago
 
 ---
 

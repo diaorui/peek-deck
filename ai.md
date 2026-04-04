@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-04T22:31:35.903671+00:00'
+updated: '2026-04-04T23:33:19.084705+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- repositories
 - videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 04, 2026 at 22:31 UTC  
+**Last Updated:** April 04, 2026 at 23:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[OpenAI CEO Sam Altman accused of sexual abuse by family member](https://www.reddit.com/r/artificial/comments/1sc3kpj/openai_ceo_sam_altman_accused_of_sexual_abuse_by/)**
 
-🔗 [The Independent](https://www.independent.co.uk/bulletin/news/sam-altman-lawsuit-abuse-sexual-assault-sister-annie-b2950929.html) • 14h ago
+🔗 [The Independent](https://www.independent.co.uk/bulletin/news/sam-altman-lawsuit-abuse-sexual-assault-sister-annie-b2950929.html) • 15h ago
 
 ---
 
@@ -47,15 +47,7 @@ AI news, discussions, and developments
 
 My friend came over yesterday to dye her hair. She had asked ChatGPT for the 'correct' way to do it. Chat told her to dye the ends first, wait about 20 minutes, and then do the roots. Because of my own experience with dyeing my hair, that made me sceptical, so I read the instructions in the box dye package. It specifically said to mix it and apply everything all at once. That's how this particular formula is designed to work. I read the instructions on the package out loud and told her we should just follow what the manufacturer says. She got visibly stressed and told me that 'ChatGPT said to do it differently'. I pointed out that the company who made the dye probably knows how their own product is supposed to be applied. She still got visibly anxious about going against what ChatGPT told her to do. It was such a weird moment. She was genuinely stressed about ignoring the AI even though the real instructions were right there in her hands. Has anybody had similar experiences?
 
-15h ago
-
----
-
-**[I am seeing Claude everywhere](https://www.reddit.com/r/artificial/comments/1scaqpe/i_am_seeing_claude_everywhere/)**
-
-Every single Instagram reel or TikTok I scroll i see people mentioning Claude and glazing it like it’s some kind of master tool that’s better than every single other ai assistant. do they run a strong marketing program or is it really that good in contrast to other ai tools? Before i started seeing it for the first time i only heard that it’s a little better for coding, but know i see it everywhere. I've tried it too, but it doesn’t seem to be much different than ChatGPT to me. Is it actually this powerful at the moment? + Not to mention that many people also hate on ChatGPT too. Though it’s still the best one for me (edit): i have never searched for it and I dont think that my algorithm is set to appear claude videos. I believe that it’s viral in general and I know you guys agree
-
-7h ago
+16h ago
 
 ---
 
@@ -63,7 +55,15 @@ Every single Instagram reel or TikTok I scroll i see people mentioning Claude an
 
 Back in the day, I got ChatGPT Plus mostly for work and to help me write better and do stuff faster. But now I use it for almost everything. Like planning things, rewriting things, orgnizing my thoughts, helping me start things when I didn't know where to begin, and even just when I feel mentally tired and don’t want to think so hard, which is kinda becoming more frequent. It helps a lot.. Like a lot a lot. Sometimes I honestly wish it would help me in car repairs, but I guess that's too much in the future lol. I feel way more productive now than I used to be. I get through work faster, I don’t get stuck as much (though sometimes when the context windows shrinks or content gets truncated, quality feels off directly), and I waste less time sitting there overthinking dumb stuff. Between ChatGPT, Claude, and a couple smaller tools I’ve tried, I’ve noticed my whole workflow feels smoother now. I am literally hooked to ChatGPT + Bearbits + Claude Cowork for my work, like I couldn't imagine myself without them (though I'm on ChatGPT Pro + all the other subs that kinda bleed too much money, roughly $350 per month, but the good thing is that I can afford it for now).., AI in general is becoming part of how I think through work now, like slightly panicking when I am *outside* without my meeting transcript app and people ask things that I usually just let AI answer based on my past meetings in literally one click, or when someone asks me to do a presentation without preparing my script beforehand with ChatGPT, or like even the boring things of creating powerpoint slides... This is what kind of worries me. :/ I can feel myself depending on AI more and more., even for small things that maybe I should still be doing with my own *little, not AI-native* brain. Like how to start writing something, how to structure an idea, how to word a message, or even just how to think through something when I feel lazy. And I keep wondering like what does this actually do to us long term? Like for us as humanity overall.. Because yes, it makes life easier. Yes, it makes me more productive. But is it also making usthink less? And if it is, what does that mean for our brains after years of this? What happens if we get too used to not struggling mentally anymore? Like how will 2040 people look like, assuming that we didn't nuke ourselves... I’m not saying AI is bad. I actually love it and use it all the time now. I’m probably already more dependent on it than I want to admit. If it disappeared tomorroow I would feel the difference instantly. I guess we did feel a taste of this when the GPT-4o model disappeared.. I just keep thinking maybe this is helping us a lot, but maybe it’s also changing something deeper in us too. Like not only how we work (which is probably gonna be a fun ride in the upcoming years:)), but how we think, and maybe even how we find meaning in doing things ourselves. PLEASE tell me we are not doomed..
 
-45m ago
+1h ago
+
+---
+
+**[I am seeing Claude everywhere](https://www.reddit.com/r/artificial/comments/1scaqpe/i_am_seeing_claude_everywhere/)**
+
+Every single Instagram reel or TikTok I scroll i see people mentioning Claude and glazing it like it’s some kind of master tool that’s better than every single other ai assistant. do they run a strong marketing program or is it really that good in contrast to other ai tools? Before i started seeing it for the first time i only heard that it’s a little better for coding, but know i see it everywhere. I've tried it too, but it doesn’t seem to be much different than ChatGPT to me. Is it actually this powerful at the moment? + Not to mention that many people also hate on ChatGPT too. Though it’s still the best one for me (edit): i have never searched for it and I dont think that my algorithm is set to appear claude videos. I believe that it’s viral in general and I know you guys agree
+
+9h ago
 
 ---
 
@@ -71,23 +71,7 @@ Back in the day, I got ChatGPT Plus mostly for work and to help me write better 
 
 The offering is expected to be the largest in history.
 
-🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/elon-musk-requires-banks-behind-185412887.html) • 19h ago
-
----
-
-**[Will people continue paying for the plans after the honeymoon is over?](https://www.reddit.com/r/artificial/comments/1scjcrg/will_people_continue_paying_for_the_plans_after/)**
-
-I currently pay for Max 20x and the demand at work is so high that I can only get everything I need done because I have access to Claude. However, $200 is equivalent to 70% of the monthly minimum wage in my country, so I don't know anyone else who has Max 20x besides me. The ones I know who pay for Claude reach a maximum of the $20 Pro plan, but what they need to do is much simpler than what I do. And, well, I know that this phase of "low prices" for subscriptions is temporary, maybe in less than a year we will see an increase in monthly prices, or such drastic reductions that it becomes impossible to pay for AIs in underdeveloped countries. I remember that when Claude started with the $20 plans I was able to do all the necessary work with it back then, and today I pay 10x more to do the same work I did a year and a half ago. If Anthropic creates a $500 Max 100x plan, for example, I know it would still be affordable for some programmers around the world, but something completely out of the question for programmers in other poorer countries, like mine. Given this, I tested some cheaper or even free and local AI models, but the cheapest ones don't deliver what they promise and the local ones require a lot of RAM. I did the math and to run the best deepseek model (for what I need) I would have to buy hardware parts equivalent to 80 monthly minimum wages in my country. It is genuinely impossible for us. Therefore, I imagine that what might prevent things like this from happening is people not paying for the most expensive plans, but at the same time I can't say how "expensive" Claude actually is from the perspective of an American, for example. For me, using Claude via API is total madness, I used it once and in a single message I lost the equivalent of 6 hours of work. So, what do you think will happen? Will programming AIs become tools reserved exclusively for developed countries? Claude gave me a lot of freedom, I created projects that I would never be able to accomplish in such a short time. I gained a lot of financial freedom due to these projects, however, I find myself spending more and more and being able to use less. What will probably happen? tl;dr: access to AIs is becoming increasingly unequal. Will this get worse or not?
-
-2h ago
-
----
-
-**[[P] Cadenza: Connect Wandb logs to agents easily for autonomous research.](https://www.reddit.com/r/artificial/comments/1scmaxt/p_cadenza_connect_wandb_logs_to_agents_easily_for/)**
-
-Wandb CLI and MCP is atrocious to use with agents for full autonomous research loops. They are slow, clunky, and result in context rot. So I built a CLI tool and a Python SDK to make it easy to connect your Wandb projects and runs to your agent (clawed or otherwise). The cli tool works by allowing you to import your wandb projects and structures your runs in a way that makes it easy for agents to get a sense of the solution space of your research project. When projects are imported, only the configs and metrics are analyzed to index and store your runs. When an agent samples from this index, only the most high performing experiments are returned which reduces context rot. You can also change the behavior of the index and your agent to trade-off exploration with exploitation. Open sourcing the cli along with the python sdk to make it easy to use it with any agent. Would love feedback and critique from the community! Github: https://github.com/mylucaai/cadenza Docs: https://myluca.ai/docs Pypi: https://pypi.org/project/cadenza-cli
-
-20m ago
+🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/elon-musk-requires-banks-behind-185412887.html) • 20h ago
 
 ---
 
@@ -95,7 +79,29 @@ Wandb CLI and MCP is atrocious to use with agents for full autonomous research l
 
 Since Last Tuesday night I have been thinking of this problem and it really has hit me hard. Engineers have Cursor. Designers have AI-assisted Figma plugins. But PMs are still manually reading through 50 support tickets, switching between Amplitude and Notion, and writing PRDs by hand. I've been thinking about why AI hasn't meaningfully improved the discovery side of product development — the "what should we build" question — even as it's dramatically accelerated the "how do we build it" side. Curious what this community thinks. Where does your team actually spend the most time in the discovery process? And has anything actually helped?
 
-42m ago
+1h ago
+
+---
+
+**[Will people continue paying for the plans after the honeymoon is over?](https://www.reddit.com/r/artificial/comments/1scjcrg/will_people_continue_paying_for_the_plans_after/)**
+
+I currently pay for Max 20x and the demand at work is so high that I can only get everything I need done because I have access to Claude. However, $200 is equivalent to 70% of the monthly minimum wage in my country, so I don't know anyone else who has Max 20x besides me. The ones I know who pay for Claude reach a maximum of the $20 Pro plan, but what they need to do is much simpler than what I do. And, well, I know that this phase of "low prices" for subscriptions is temporary, maybe in less than a year we will see an increase in monthly prices, or such drastic reductions that it becomes impossible to pay for AIs in underdeveloped countries. I remember that when Claude started with the $20 plans I was able to do all the necessary work with it back then, and today I pay 10x more to do the same work I did a year and a half ago. If Anthropic creates a $500 Max 100x plan, for example, I know it would still be affordable for some programmers around the world, but something completely out of the question for programmers in other poorer countries, like mine. Given this, I tested some cheaper or even free and local AI models, but the cheapest ones don't deliver what they promise and the local ones require a lot of RAM. I did the math and to run the best deepseek model (for what I need) I would have to buy hardware parts equivalent to 80 monthly minimum wages in my country. It is genuinely impossible for us. Therefore, I imagine that what might prevent things like this from happening is people not paying for the most expensive plans, but at the same time I can't say how "expensive" Claude actually is from the perspective of an American, for example. For me, using Claude via API is total madness, I used it once and in a single message I lost the equivalent of 6 hours of work. So, what do you think will happen? Will programming AIs become tools reserved exclusively for developed countries? Claude gave me a lot of freedom, I created projects that I would never be able to accomplish in such a short time. I gained a lot of financial freedom due to these projects, however, I find myself spending more and more and being able to use less. What will probably happen? tl;dr: access to AIs is becoming increasingly unequal. Will this get worse or not?
+
+3h ago
+
+---
+
+**[Simone Weil and Ayn Rand](https://www.reddit.com/r/artificial/comments/1scnnir/simone_weil_and_ayn_rand/)**
+
+23m ago
+
+---
+
+**[[P] Cadenza: Connect Wandb logs to agents easily for autonomous research.](https://www.reddit.com/r/artificial/comments/1scmaxt/p_cadenza_connect_wandb_logs_to_agents_easily_for/)**
+
+Wandb CLI and MCP is atrocious to use with agents for full autonomous research loops. They are slow, clunky, and result in context rot. So I built a CLI tool and a Python SDK to make it easy to connect your Wandb projects and runs to your agent (clawed or otherwise). The cli tool works by allowing you to import your wandb projects and structures your runs in a way that makes it easy for agents to get a sense of the solution space of your research project. When projects are imported, only the configs and metrics are analyzed to index and store your runs. When an agent samples from this index, only the most high performing experiments are returned which reduces context rot. You can also change the behavior of the index and your agent to trade-off exploration with exploitation. Open sourcing the cli along with the python sdk to make it easy to use it with any agent. Would love feedback and critique from the community! Github: https://github.com/mylucaai/cadenza Docs: https://myluca.ai/docs Pypi: https://pypi.org/project/cadenza-cli
+
+1h ago
 
 ---
 
@@ -103,15 +109,7 @@ Since Last Tuesday night I have been thinking of this problem and it really has 
 
 I do a lot of writing and random problem solving for work. Mostly long drafts, edits, and breaking down ideas. Around Jan I kept hitting limits on ChatGPT and Claude at the worst times. Like you are halfway through something, finally in flow, and boom… limit reached. Either wait or switch tools and lose context. I tried paying for a bit but managing multiple subscriptions felt stupid for how often I actually needed them. So I started testing free options properly. Not those listicle type “top 10 AI tools” posts, but actually using them in real tasks. After around 2 to 3 months of trying different stuff, this is what stuck. Google AI Studio is probably the one I use the most now. I found it by accident while searching for Gemini alternatives. The normal Gemini site kept limiting me, but AI Studio felt completely different. I usually dump full notes or messy drafts into it and ask it to clean things up or expand sections. It handles long inputs way better than most free tools I tried. I have not really hit a hard limit there yet during normal use. For research I use Perplexity free. It is not perfect, sometimes the sources are mid, but it is fast enough to get direction. I usually double check important stuff anyway. Claude free I still use, but only when I want that specific tone. Weirdly I noticed the limits reset separately on different browsers. So I just switch between Chrome and Edge when needed. Not a genius hack, just something that ended up working. For anything even slightly sensitive, I use Ollama locally. Setup took me like 10 to 15 minutes after watching one random YouTube video. It is slower, not gonna lie, but no limits and I do not have to worry about uploading private stuff. I also tried a bunch of other tools people hype on Twitter. Some were decent for one or two uses, then just annoying. Either too slow or randomly restricted. Right now this setup covers almost everything I actually do day to day. I still hit limits sometimes, but it is way less frustrating compared to before. I was paying around 60 to 80 dollars earlier. Now it is basically zero, and I am not really missing much for the kind of work I do. I made a full list of all 11 things I tested and what actually worked vs what was overhyped. Did not want to dump everything here.
 
-1h ago
-
----
-
-**[NHS staff resist using Palantir software. Staff reportedly cite ethics concerns, privacy worries, and doubt the platform adds much](https://www.reddit.com/r/artificial/comments/1sbuf2a/nhs_staff_resist_using_palantir_software_staff/)**
-
-: Staff reportedly cite ethics concerns, privacy worries, and doubt the platform adds much
-
-🔗 [theregister.com](https://www.theregister.com/2026/04/03/nhs_staff_against_palantir/) • 22h ago
+2h ago
 
 ---
 
@@ -119,23 +117,39 @@ I do a lot of writing and random problem solving for work. Mostly long drafts, e
 
 ## Google News: "ai"
 
-**[AI is rewiring the world’s most prolific film industry](https://www.reuters.com/technology/ai-is-rewiring-worlds-most-prolific-film-industry-2026-04-04/)**
+**[Apple at 50: The iPhone maker 'blew a 5-year lead' on AI, but former insiders say it can still win](https://www.cnbc.com/2026/04/04/apple-50-anniversary-ai-iphone-siri.html)**
 
-Reuters • 17h ago
+In dominating consumer devices, Apple sold users on the promise of privacy. To compete in AI, it may have to pivot.
+
+CNBC • 11h ago
 
 ---
 
-**[‘Everyone now kind of sounds the same’: How AI is changing college classes](https://www.cnn.com/2026/04/04/health/ai-impact-college-student-thinking-wellness)**
+**[AI is rewiring the world’s most prolific film industry](https://www.reuters.com/technology/ai-is-rewiring-worlds-most-prolific-film-industry-2026-04-04/)**
 
-As more college students use AI for classroom discussions, some students admit they’re starting to sound alike. Teachers say they’re also getting less creative.
+Reuters • 18h ago
 
-CNN • 12h ago
+---
+
+**[Melania Trump Says 'AI Is the Continuation of Human Knowledge's Delivery Evolution' in Op-Ed About Putting AI in Classrooms](https://people.com/melania-trump-says-ai-should-be-in-classrooms-11942980)**
+
+Melania Trump wrote an op-ed in support of AI in schools, published on April 4, stating that students, teachers and families must 'embrace' AI in classrooms to keep the U.S. on par with the world in an 'AI technology-driven future.'
+
+People.com • 1h ago
+
+---
+
+**[Simon Willison Says the 'Dark Factory' Is the Next Big Thing in AI](https://www.businessinsider.com/simon-willison-dark-factory-ai-2026-4)**
+
+Django creator Simon Willison said AI could usher in the "dark factory" era, when bots run everything and there's no need to keep the lights on.
+
+Business Insider • 46m ago
 
 ---
 
 **[Ignore The Doom Talk; AI’s Real Value Only Arises When Humans Step Up](https://www.forbes.com/sites/joemckendrick/2026/04/04/ignore-the-doom-talk-ais-real-value-only-arises-when-humans-step-up/)**
 
-Forbes • 53m ago
+Forbes • 1h ago
 
 ---
 
@@ -143,49 +157,35 @@ Forbes • 53m ago
 
 Private Chinese technology companies — some with ties to the military — are marketing detailed intelligence on movements of U.S. forces in Iran, even as Beijing seeks to keep its distance.
 
-The Washington Post • 6h ago
+The Washington Post • 7h ago
 
 ---
 
 **[My Husband Can’t Get a Job. Should I Divorce Him?](https://www.nytimes.com/2026/04/04/business/my-husband-cant-get-a-job-should-i-divorce-him.html)**
 
-The New York Times • 13h ago
+The New York Times • 14h ago
 
 ---
 
-**[Apple at 50: The iPhone maker 'blew a 5-year lead' on AI, but former insiders say it can still win](https://www.cnbc.com/2026/04/04/apple-50-anniversary-ai-iphone-siri.html)**
+**[My daughter wants a career that survives AI — so I ranked them](https://www.thetimes.com/life-style/parenting/article/ai-proof-careers-advice-ffdrfljdq)**
 
-In dominating consumer devices, Apple sold users on the promise of privacy. To compete in AI, it may have to pivot.
-
-CNBC • 10h ago
+The Times • 2d ago
 
 ---
 
-**[A Yale economist says AGI won’t automate most jobs—because they’re not worth the trouble](https://fortune.com/2026/04/04/ai-jobs-future-not-important-enough-to-be-automated-yale/)**
+**[College grads in ‘AI-proof’ careers like psychology and education are seeing negative returns on their degrees](https://fortune.com/2026/04/04/graduate-school-value-negative-returns-psychology-education-ai/)**
 
-Pascual Restrepo's new NBER paper argues it's not about what AI can do. It's about what AI will bother doing—and most human work doesn't make the cut.
+As AI reshapes white-collar work, new research shows that some of the most popular graduate degrees are actually leaving holders worse off financially.
 
-Fortune • 14h ago
-
----
-
-**[I Uploaded My Blood Work to AI. Am I Oversharing?](https://www.wsj.com/tech/ai/health-data-perplexity-claude-ai-d792a2df?gaa_at=eafs&gaa_n=AWEtsqcOKJl8PLVWkjeH6u0VmEAGmzmyUkk0bb5wrcpZjTTguMfyjbDj9SWD&gaa_ts=69d194b0&gaa_sig=-epHhpV_BfKOXiVhRPZHUh4Lz9YhuCGK3hxdspuCvJKPbvPcpB9_-U1z5XnFmKeICSnDBUXMpVfa7xYrHTU-mw%3D%3D)**
-
-WSJ • 1h ago
+Fortune • 12h ago
 
 ---
 
-**["They operate like slot machines": AI agents are scrambling power users' brains](https://www.axios.com/2026/04/04/ai-agents-burnout-addiction-claude-code-openclaw)**
+**[Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk](https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/)**
 
-Axios • 12h ago
+Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.
 
----
-
-**[FIRST LADY MELANIA TRUMP: AI could improve teaching and help deliver a world-class education to our children](https://www.foxnews.com/opinion/first-lady-melania-trump-ai-could-improve-teaching-help-deliver-world-class-education-children)**
-
-Here's how AI-powered tutoring tools can democratize education for underserved communities in America, giving all children personalized access to elite-level academics.
-
-Fox News • 11h ago
+wired.com • 1d ago
 
 ---
 
@@ -197,7 +197,7 @@ Fox News • 11h ago
 
 Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptions. The LLM is already on your Mac.
 
-⬆️ 701 • 💬 145 • 1d ago • [apfel.franzai.com](https://apfel.franzai.com)
+⬆️ 705 • 💬 145 • 1d ago • [apfel.franzai.com](https://apfel.franzai.com)
 
 ---
 
@@ -205,7 +205,7 @@ Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptio
 
 We replaced expensive sandboxes with ChromaFs, a virtual filesystem over Chroma, to give our docs AI assistant the ability to explore documentation like a developer would.
 
-⬆️ 386 • 💬 147 • 2d ago • [Mintlify](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant)
+⬆️ 390 • 💬 147 • 2d ago • [Mintlify](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant)
 
 ---
 
@@ -217,7 +217,7 @@ Complete all topics from Todo.md including SQL functions, configuration guides,
 troubleshooting runbooks, architecture comparisons, SDK tutorials, and operator
 deployment pattern...
 
-⬆️ 134 • 💬 135 • 5h ago • [GitHub](https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849)
+⬆️ 137 • 💬 139 • 6h ago • [GitHub](https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849)
 
 ---
 
@@ -225,7 +225,7 @@ deployment pattern...
 
 Experiments show large majorities uncritically accepting "faulty" AI answers.
 
-⬆️ 94 • 💬 39 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/)
+⬆️ 95 • 💬 39 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/)
 
 ---
 
@@ -233,7 +233,7 @@ Experiments show large majorities uncritically accepting "faulty" AI answers.
 
 AI-powered travel hacking with points, miles, and award flights. Drop-in skills and MCP servers for OpenCode and Claude Code. - borski/travel-hacking-toolkit
 
-⬆️ 86 • 💬 36 • 20h ago • [GitHub](https://github.com/borski/travel-hacking-toolkit)
+⬆️ 88 • 💬 36 • 21h ago • [GitHub](https://github.com/borski/travel-hacking-toolkit)
 
 ---
 
@@ -281,7 +281,7 @@ Go Get Your Own Oil - Trump-Style Broadway (AI Parody Song)** What happens when 
 
 📺 AI Trailer Home
 
-👁️ 2K • 👍 294 • 💬 42 • ⏱️ 4:56 • 4h ago
+👁️ 2K • 👍 294 • 💬 42 • ⏱️ 4:56 • 5h ago
 
 ---
 
@@ -311,7 +311,7 @@ RSVP for In Person Classes at -- https://www.SiliconDojo.com Support Content at 
 
 📺 Eli the Computer Guy
 
-👁️ 5K • 👍 490 • 💬 113 • ⏱️ 14:41 • 5h ago
+👁️ 5K • 👍 490 • 💬 113 • ⏱️ 14:41 • 6h ago
 
 ---
 
@@ -341,7 +341,7 @@ Create Your Own AI Worlds with OpenArt https://youricreates.com/AI-worlds In thi
 
 📺 Youri van Hofwegen
 
-👁️ 8K • 💬 7 • ⏱️ 8:03 • 7h ago
+👁️ 8K • 💬 7 • ⏱️ 8:03 • 8h ago
 
 ---
 
@@ -361,7 +361,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 16K • 👍 650 • 💬 88 • ⏱️ 22:30 • 7h ago
+👁️ 16K • 👍 650 • 💬 88 • ⏱️ 22:30 • 8h ago
 
 ---
 
@@ -371,7 +371,7 @@ Try i10x: https://i10x.ai?fpr=paul53 Save 15% with code "PJL15" From leaked sour
 
 📺 Paul J Lipsky
 
-👁️ 10K • 👍 453 • 💬 62 • ⏱️ 17:39 • 9h ago
+👁️ 10K • 👍 453 • 💬 62 • ⏱️ 17:39 • 10h ago
 
 ---
 
@@ -665,7 +665,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 13.0k • 🔱 1.2k • 2h ago
+⭐ 13.0k • 🔱 1.2k • 3h ago
 
 ---
 
@@ -695,7 +695,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.6k • 🔱 383 • 6h ago
+⭐ 6.6k • 🔱 383 • 7h ago
 
 ---
 
@@ -705,7 +705,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.1k • 🔱 1.5k • 14h ago
+⭐ 5.1k • 🔱 1.5k • 15h ago
 
 ---
 
@@ -725,7 +725,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
 
-⭐ 3.8k • 🔱 661 • 2d ago
+⭐ 3.8k • 🔱 662 • 2d ago
 
 ---
 

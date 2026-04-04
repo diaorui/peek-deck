@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-04T22:31:35.921551+00:00'
+updated: '2026-04-04T23:33:19.102999+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 04, 2026 at 22:31 UTC  
+**Last Updated:** April 04, 2026 at 23:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 I was brought in to do some work on a pair of R-2000 Fanuc's a few years back and saw this on the safety fencing of the work cell.
 
-3h ago
+4h ago
 
 ---
 
 **[Robots are starting to enter one of the most sensitive environments we have.](https://www.reddit.com/r/robotics/comments/1scemxg/robots_are_starting_to_enter_one_of_the_most/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -50,15 +50,7 @@ I was brought in to do some work on a pair of R-2000 Fanuc's a few years back an
 
 Researchers in the United States have developed air-powered artificial muscles that significantly enhance robots’ strength and mobility. This new technology enables robots to lift and carry loads many times their own weight more efficiently and with greater flexibility.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/artificial-muscles-robot-lift-more-weight) • 3h ago
-
----
-
-**[GS-DroneGym: open-source photorealistic drone simulator + benchmark tooling for VLA research](https://www.reddit.com/r/robotics/comments/1sckilh/gsdronegym_opensource_photorealistic_drone/)**
-
-I’ve open-sourced GS-DroneGym, a drone-first research stack for vision-language-action work. Main idea: instead of only using synthetic assets, it can render observations from 3D Gaussian Splatting scenes, so you can prototype aerial waypoint policies in environments much closer to real visual conditions. Current features: - 6-DOF quadrotor dynamics - waypoint controller for [x, y, z, yaw] - gsplat renderer with CPU fallback - navigation tasks: PointNav, ObjectNav, ObstacleSlalom, DynamicFollow, NarrowCorridor - live viewer with RGB / depth / top-down trajectory - shared trajectory schema + dataset/eval tooling - adapters for GS-DroneGym, LIBERO, and LeRobot-format datasets https://github.com/09Catho/gs-dronegym Please star the repo if you find ut useful I’d especially appreciate feedback on: - sim-to-real usefulness - dataset generation for aerial VLA training - benchmark design for drone navigation
-
-1h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/artificial-muscles-robot-lift-more-weight) • 4h ago
 
 ---
 
@@ -66,7 +58,15 @@ I’ve open-sourced GS-DroneGym, a drone-first research stack for vision-languag
 
 Hey everyone, This was a short 2-day project exploring how a humanoid robot could fit into Muji’s minimal lifestyle philosophy. I focused on human-robot interaction — how the robot should feel, behave, and quietly exist in everyday spaces. Tried to keep everything simple, functional, and consistent with clear product constraints. Would love to hear your thoughts!
 
-28m ago
+1h ago
+
+---
+
+**[GS-DroneGym: open-source photorealistic drone simulator + benchmark tooling for VLA research](https://www.reddit.com/r/robotics/comments/1sckilh/gsdronegym_opensource_photorealistic_drone/)**
+
+I’ve open-sourced GS-DroneGym, a drone-first research stack for vision-language-action work. Main idea: instead of only using synthetic assets, it can render observations from 3D Gaussian Splatting scenes, so you can prototype aerial waypoint policies in environments much closer to real visual conditions. Current features: - 6-DOF quadrotor dynamics - waypoint controller for [x, y, z, yaw] - gsplat renderer with CPU fallback - navigation tasks: PointNav, ObjectNav, ObstacleSlalom, DynamicFollow, NarrowCorridor - live viewer with RGB / depth / top-down trajectory - shared trajectory schema + dataset/eval tooling - adapters for GS-DroneGym, LIBERO, and LeRobot-format datasets https://github.com/09Catho/gs-dronegym Please star the repo if you find ut useful I’d especially appreciate feedback on: - sim-to-real usefulness - dataset generation for aerial VLA training - benchmark design for drone navigation
+
+2h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hey everyone, This was a short 2-day project exploring how a humanoid robot coul
 
 https://www.youtube.com/@ALMA.GeoffreyAment Chapter 3 Footnote 1. Building an Actuator, a PID Control Loop, and an Ultrasonic Distance sensor to detect and not crash into the ceiling. This will be used in Chapter 3 Desk -- Stay tuned for more!
 
-4h ago
+5h ago
 
 ---
 
@@ -82,7 +82,7 @@ https://www.youtube.com/@ALMA.GeoffreyAment Chapter 3 Footnote 1. Building an Ac
 
 hi, i've been working on browser-based robotics simulation and wanted to get some feedback. as of now, one can control/simulate, unitree g1, h1, go1, bostons, franka panda arm, or create your own robot. we're working on few more things. 1. training module to train policies directly in browser based on behaviour cloning + RL. 2. rent a robot - to see your trainings in simulations vs on real robots in real world, 3. and much more https://reddit.com/link/1sc8t84/video/jc23l5jas5tg1/player
 
-9h ago
+10h ago
 
 ---
 
@@ -96,7 +96,7 @@ hi, i've been working on browser-based robotics simulation and wanted to get som
 
 I'm building a CI tool for ROS 2 simulation testing and looking for a few teams to try it out and give feedback. The idea: you connect your GitHub repo, every push runs your existing colcon tests inside a headless Gazebo container on cloud infra. You get a dashboard that shows pass/fail across runs and flags when a test that used to pass starts failing. If it works with colcon test locally, it works here. It's still in beta, and I'm mainly looking for feedback on whether this actually solves a real pain point or if I'm building something nobody needs. Currently supports ROS 2 + Gazebo, working on adding more simulators. If you're on ROS 2 and have simulation tests (or want to but CI for sim feels like too much work), DM me or drop a comment and I'll send you access.
 
-5h ago
+6h ago
 
 ---
 
@@ -104,7 +104,7 @@ I'm building a CI tool for ROS 2 simulation testing and looking for a few teams 
 
 i have 3 boards now which are dead ig because the red light in it is lighting up but it not getting connected i am using a 3.7v battery a charging module a touch sensor a 1.3 inch oled it was working fine i was using it from my computer but after some time its not working even if im connection it to my pc
 
-7h ago
+8h ago
 
 ---
 
@@ -120,7 +120,7 @@ Crunchbase News • 2d ago
 
 ---
 
-**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqcRTf2DYkavbFU36tySgX_tjcQV8-cr_sFAAdI452AmpZmvfjcwSe_x&gaa_ts=69d194b4&gaa_sig=nPaNBUXvsJrQLIC83El1b1DtpqxJjRMuBL0Hb0AFC9wPsnbfsAbxfPTa8aQTP1qEZPPMmJbdF0x3Lu5T2SvIAw%3D%3D)**
+**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqdACXAZeLrDwrRMqsNpgnk1gbn2zfk5ZWrchyv_ox6-CIiE4Ol1KA4r&gaa_ts=69d1a32f&gaa_sig=ln19xpxmnpUpy-Yry6DS30czSuBUKFf18_Xk3sH5al_UQIJGlhhAEW2o2OcSQ0URtmFMY1WYUxzQ_ptzdnEf2Q%3D%3D)**
 
 WSJ • 1d ago
 
@@ -130,7 +130,7 @@ WSJ • 1d ago
 
 Both of these companies are proven trailblazers.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -146,7 +146,7 @@ IEEE Spectrum • 2d ago
 
 Spacesuit work and eye checks wrapped up the week for the Expedition 74 crew aboard the International Space Station. The orbital residents also focused on robotics, cargo transfers, and science hardware maintenance at the end of the week.
 
-NASA (.gov) • 1d ago
+nasa.gov • 1d ago
 
 ---
 
@@ -172,11 +172,11 @@ University of Cincinnati • 1d ago
 
 ---
 
-**[Local Octobots Robotics Team Wins the "Quality Award" at District Competition](https://www.independent.com/2026/04/03/local-octobots-robotics-team-wins-the-quality-award-at-district-competition/)**
+**[North Fork robotics team heads to world championship](https://suffolktimes.timesreview.com/2026/04/north-fork-robotics-team-heads-to-world-championship/)**
 
-Octobots Robotics Team members, Uma Vulliez (Vice Captain) and Alyssa Flores show off the team's "Quality Award" at the FIRST Robotics District Qualifying
+Team R.I.C.E. 870 will go back to the FIRST world championship for the seventh time after a victory at the L.I. regional competition in March.
 
-The Santa Barbara Independent • 1d ago
+The Suffolk Times • 1d ago
 
 ---
 
@@ -286,7 +286,7 @@ Watch this advanced robot vacuum cleaner demonstrate its innovative robotic arm,
 
 📺 Just A Dad Approved
 
-👁️ 709 • 👍 26 • 💬 2 • ⏱️ 1:20 • 4h ago
+👁️ 709 • 👍 26 • 💬 2 • ⏱️ 1:20 • 5h ago
 
 ---
 
