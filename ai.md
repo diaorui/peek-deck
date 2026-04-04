@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-04T05:42:27.817238+00:00'
+updated: '2026-04-04T07:03:04.305656+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - videos
+- news
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 04, 2026 at 05:42 UTC  
+**Last Updated:** April 04, 2026 at 07:03 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,13 @@ AI news, discussions, and developments
 
 The offering is expected to be the largest in history.
 
-🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/elon-musk-requires-banks-behind-185412887.html) • 2h ago
+🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/elon-musk-requires-banks-behind-185412887.html) • 4h ago
+
+---
+
+**[MIT study challenges AI job apocalypse narrative](https://www.reddit.com/r/artificial/comments/1sb7qxc/mit_study_challenges_ai_job_apocalypse_narrative/)**
+
+🔗 [axios.com](https://www.axios.com/2026/04/02/ai-jobs-mit-study-workforce-impact) • 22h ago
 
 ---
 
@@ -49,13 +55,15 @@ The offering is expected to be the largest in history.
 
 : Staff reportedly cite ethics concerns, privacy worries, and doubt the platform adds much
 
-🔗 [theregister.com](https://www.theregister.com/2026/04/03/nhs_staff_against_palantir/) • 5h ago
+🔗 [theregister.com](https://www.theregister.com/2026/04/03/nhs_staff_against_palantir/) • 6h ago
 
 ---
 
-**[MIT study challenges AI job apocalypse narrative](https://www.reddit.com/r/artificial/comments/1sb7qxc/mit_study_challenges_ai_job_apocalypse_narrative/)**
+**[Your prompts aren’t the problem — something else is](https://www.reddit.com/r/artificial/comments/1sc1n6u/your_prompts_arent_the_problem_something_else_is/)**
 
-🔗 [axios.com](https://www.axios.com/2026/04/02/ai-jobs-mit-study-workforce-impact) • 21h ago
+I keep seeing people focus heavily on prompt optimization. But in practice, a lot of failures I’ve observed don’t come from the prompt itself. They show up at the transition point where: model output → real-world action Examples: - outputs that are correct in isolation but wrong in context - timing mismatches (right decision, wrong moment) - differences between environments (test vs live) - small context gaps that compound into bad outcomes The pattern seems consistent: improving prompt quality doesn’t solve these failures. Because the issue isn’t generation — it’s what happens when outputs are interpreted, trusted, and acted on. Curious how others here think about this layer, especially in deployed systems..
+
+45m ago
 
 ---
 
@@ -63,7 +71,7 @@ The offering is expected to be the largest in history.
 
 Advice from the study's co-author: "Be aware that it’s not any single post that identifies you, but the combination of small details across many posts. And consider never posting anything you truly don’t want shared with the world.”
 
-🔗 [wjamesau.substack.com](https://wjamesau.substack.com/p/warning-llms-able-to-de-anonymize) • 10h ago
+🔗 [wjamesau.substack.com](https://wjamesau.substack.com/p/warning-llms-able-to-de-anonymize) • 11h ago
 
 ---
 
@@ -71,7 +79,7 @@ Advice from the study's co-author: "Be aware that it’s not any single post tha
 
 I’ve been digging into AI security incident data from 2025 into this year, and it feels like something isn’t being talked about enough outside security circles. A lot of the issues aren’t advanced attacks. It’s the same pattern we’ve seen with new tech before. Things like prompt injection through external data, agents with too many permissions, or employees using AI tools the company doesn’t even know about. One stat I saw said enterprises are averaging 300+ unsanctioned AI apps, which is kind of wild. The incident data reflects that. Prompt injection is showing up in a large percentage of production deployments. There’s also been a noticeable increase in attacks exploiting basic gaps, partly because AI is making it easier for attackers to find weaknesses faster. Even credential leaks tied to AI usage have been increasing. What stood out to me isn’t just the attacks, it’s the gap underneath it. Only a small portion of companies actually have dedicated AI security teams. In many cases, AI security isn’t even owned by security teams. The tricky part is that traditional security knowledge only gets you part of the way. Some concepts carry over, like input validation or trust boundaries, but the details are different enough that your usual instincts don’t fully apply. Prompt injection isn’t the same as SQL injection. Agent permissions don’t behave like typical API auth. There are frameworks trying to catch up. OWASP now has lists for LLMs and agent-based systems. MITRE ATLAS maps AI-specific attack techniques. NIST has an AI risk framework. The guidance exists, but the number of people who can actually apply it feels limited. I’ve been trying to build that knowledge myself and found that more hands-on learning helps a lot more than just reading docs. Curious how others here are approaching this. If you’re building or working with AI systems, are you thinking about security upfront or mostly dealing with it after things are already live? Sources for those interested: AI Agent Security 2026 Report IBM 2026 X-Force Threat Index Adversa AI Security Incidents Report 2025 Acuvity State of AI Security 2025 OWASP Top 10 for LLM Applications OWASP Top 10 for Agentic AI MITRE ATLAS Framework
 
-14h ago
+15h ago
 
 ---
 
@@ -79,15 +87,15 @@ I’ve been digging into AI security incident data from 2025 into this year, and
 
 idk if it’s just me but lately i’ve been thinking about how casually we use stuff like chatgpt and claude for everything like coding, random ideas, sometimes even personal things and i don’t think most of us really know what happens to that data after we send it we just kind of assume it’s fine because the tools are useful also saw some discussion recently about AI companies and governments asking for user data (not sure how accurate it was), but it kind of made me think more about this whole thing i’m not saying anything bad is happening, just feels like we’ve gotten comfortable really fast without thinking much about it do you guys filter what you share or just use it normally?
 
-9h ago
+10h ago
 
 ---
 
-**[Why would Claude give me the same response over and over and give others different replies?](https://www.reddit.com/r/artificial/comments/1sbwg3x/why_would_claude_give_me_the_same_response_over/)**
+**[Observer-Embedded Reality](https://www.reddit.com/r/artificial/comments/1sc1gw4/observerembedded_reality/)**
 
-I asked Claude to "generate me a random word" so I could do some word play. Then I asked it again in a new prompt window on desktop after selecting "new chat" and it gave me the same word again. So I asked a new window again. Same reply. So I posted on Reddit as one does. It seems other people got different words, weird. So I asked Claude again, and again, and again. I keep getting the same word! Why???? I can include screenshots with timestamps if needed. My Claude's Word: Ephemeral (adjective) — lasting for a very short time; transitory.
+Observer-Embedded Reality Consciousness, Complexity, Meaning, and the Limits of Human Knowledge A Conceptual Philosophy-of-Science Paper Idea by Denny Cho Prose Co-Author Claude AI Abstract The pursuit of a unified explanation of reality assumes that the universe can ultimately be described through a complete and objective set of laws. Yet the observers who attempt to construct such a theory exist within the very system they seek to understand. This paper proposes a philosophical framework in which human consciousness functions simultaneously as a filter and participant in experienced reality. Within this model, experienced reality emerges from the interaction between the external universe, perceptual systems, emotional states, and cognitive interpretation — all operating under genuine but bounded epistemic limits. The paper argues that these limits are not established by formal mathematical theorems alone, but by the structural condition of observer-embeddedness itself: that no system can fully verify a complete description of the whole it belongs to from within. Rather than rendering knowledge meaningless, this condition transforms the question of meaning. If complete certainty is structurally unavailable, then meaning cannot depend on it. Instead, meaning arises through lived experience, shared suffering, and empathy — the structurally verifiable act of extending perception across the observer-gap — which this paper identifies as both the most coherent response available to embedded conscious beings and the mechanism by which collective consciousness expands its perceptual resolution of the independently existing external universe. Introduction Modern science has long pursued a unified framework capable of explaining the full structure and behavior of the universe — what is commonly called a Theory of Everything. Such a framework would ideally unify the fundamental forces of nature and describe physical reality at its deepest level. A fundamental philosophical challenge, however, precedes that project: can observers embedded within the universe ever fully describe the system they inhabit? Human beings do not observe reality from an external vantage point. They exist within the same universe they attempt to explain, using cognitive tools that are themselves products of that universe. Any model of reality must therefore account not only for external physical processes, but for the limitations inherent to the observers constructing the model. This paper argues that the search for a final and complete theory may be constrained not by any particular gap in current knowledge, but by the structural condition of embeddedness itself — and that this same condition clarifies where meaning must ultimately be found. The Limits of Complete Knowledge The claim that human knowledge faces inherent limits requires care. It is tempting to invoke formal results from mathematics and physics — Gödel's Incompleteness Theorems and Heisenberg's Uncertainty Principle are frequently cited in this context. Both are genuinely important results. But their application here requires precision. Gödel's Incompleteness Theorems establish that any sufficiently powerful formal axiomatic system contains true statements that cannot be proven within that system (Gödel, 1931). This is a result about mathematics, not about empirical science directly. Science does not operate as a closed formal system — it updates continuously based on evidence and observation. What Gödel illustrates, at an analogical level, is that even idealized reasoning systems face internal limits. The analogy to human knowledge is suggestive rather than demonstrative, and should be understood as such. Heisenberg's Uncertainty Principle establishes that certain conjugate physical properties — such as position and momentum — cannot simultaneously have well-defined values (Heisenberg, 1927). This is a feature of physical reality itself, not a statement about the general limitations of human cognition. Again, the analogy to observer-embedded knowledge is real but indirect. The more direct and defensible argument for epistemic limits is structural. Because observers are embedded within the system they study, they cannot achieve the external vantage point that full verification of a complete description would require. A description can be tested locally — against particular phenomena, within particular domains — with extraordinary accuracy. General relativity, formulated by minds inside spacetime, correctly predicts gravitational wave behavior to remarkable precision. Embeddedness does not prevent reliable local knowledge. What embeddedness does prevent is the final verification of completeness. To confirm that a description captures everything would require a vantage point outside the system being described. That vantage point is structurally unavailable to embedded observers (von Foerster, 1984). Every model is built from within. Every framework uses tools that are themselves products of the system being analyzed. Scientific theories are therefore best understood as progressively refined models that approximate reality with increasing accuracy — not as converging on a final description that captures it completely. This is not a failure of science. It is what science actually is, and its power does not depend on achieving completeness. The Observer-Embedded Condition Traditional scientific ideals often assume that reality can be described objectively — from what philosopher Thomas Nagel called "the view from nowhere," a vantage point external to the system under investigation (Nagel, 1986). This ideal has been enormously productive as a methodological aspiration: it encourages the elimination of individual bias, the search for universal laws, and the development of intersubjective verification. But observers are always somewhere. They are inside the system. This has concrete consequences. In physics, observation can influence the behavior of quantum systems — the act of measurement is not neutral with respect to what is being measured (Wheeler, 1990). More broadly, human perception and cognition actively shape how reality is experienced. The external universe may exist independently of any observer, yet the reality experienced by a person emerges through interpretive processes — through perception, memory, emotion, and the particular history of the observer doing the perceiving. Experienced reality is therefore not identical to raw physical reality. It arises from an ongoing interaction between an observer and an environment, each partially constituting the other. This insight has deep roots in the philosophical tradition. Phenomenology — developed by Husserl (1913), extended by Heidegger (1927) and Merleau-Ponty (1945) — argued that consciousness does not passively receive a pre-given world, but actively participates in constituting the world as experienced. Heidegger's concept of being-in-the-world captures the inseparability of observer and environment: to exist is already to be engaged with a world, not to stand outside it as a detached spectator. More recently, enactivist theories of cognition (Varela, Thompson, & Rosch, 1991) have argued that mind and environment are structurally coupled — that perception is not a representation of an external world but a form of active engagement with it. These traditions provide the philosophical grounding on which the present framework builds. Consciousness as Filter and Participant Within this framework, consciousness plays two simultaneous roles. As a filter, consciousness organizes sensory information and constructs coherent experience from external stimuli. Human perception is not a neutral recording of the world — it is shaped by attention, memory, emotional state, and biological systems refined across evolutionary time. Contemporary neuroscience describes this process through the lens of predictive processing: the brain does not passively receive sensory input but continuously generates predictions about the world and updates them based on incoming signals, with perception arising from the resolution of prediction error (Clark, 2016; Friston, 2010). Stress can narrow perception toward perceived threats. Calm can broaden awareness and enable wider integration of information. What we perceive is never the world as it is in itself, but the world as our current state allows us to encounter it. As a participant, consciousness is not merely passive. Conscious agents act on the world. Human decisions shape technology, institutions, culture, and relationships. These changes alter the environment, which in turn alters the conditions of future experience. Consciousness is embedded in a feedback loop with reality — it does not simply receive the world; it continuously modifies it. This dual role means that the observer is never truly separate from the observed. Understanding this changes not only how we think about knowledge, but how we understand our own participation in existence. The question is not only what reality is, but what kind of participants we choose to be within it. Complexity: Order, Chaos, and Emerging Reality The universe is neither purely orderly nor purely chaotic. Physical laws provide underlying structure, yet complex systems routinely produce behavior that is unpredictable from those laws alone. Simple rules generate intricate, evolving patterns. Life, consciousness, and culture appear to emerge near the boundary between order and chaos — where sufficient stability allows structure to persist, and sufficient variability allows novelty to arise (Kauffman, 1993; Langton, 1990). This suggests that reality is better understood as a dynamic, evolving process than as a static structure awaiting complete description. Order and chaos are not absolute opposites. They are interacting conditions through which complexity — including conscious experience — unfolds over time. For an embedded observer, this matters practically. The world cannot be fully controlled or predicted. But it can be navigated, understood partially, and responded to with intelligence and care. The appropriate response to a complex, evolving reality is not mastery but attentiveness — the willingness to keep updating one's understanding as the system continues to unfold. The Structure of What Remains Unknown Even the most advanced scientific theories leave fundamental questions open. The nature of consciousness, the origin of the universe, the basis of subjective experience, the relationship between mathematical structure and physical reality — these remain genuinely unresolved. Some of these unknowns may yield to future inquiry. Others may reflect the structural limits of the embedded observer condition itself: aspects of reality that cannot be fully accessed or verified from within the system. The distinction matters. The first kind of unknown calls for continued investigation. The second calls for epistemic humility — the recognition that some limits may be permanent features of the observer's situation rather than temporary gaps in knowledge (Nagel, 1986; von Foerster, 1984). Acknowledging permanent limits does not invalidate knowledge. Knowledge is real, cumulative, and practically powerful. But it suggests that knowledge is always partial, provisional, and subject to revision. The appropriate posture is not skepticism — the abandonment of knowledge claims — but humility: the recognition that any current framework may be incomplete in ways not yet visible from within it. Interpretive Frameworks and the Operational Structure of Faith When knowledge reaches its limits, human beings do not simply stop. They continue to navigate existence using broader interpretive frameworks — science, philosophy, ethics, and religion — that provide orientation when certainty is unavailable. Rather than being competitors, these frameworks can be understood as different tools for different dimensions of the same fundamental problem: how to live meaningfully within a reality that cannot be fully understood. Science refines empirical models. Philosophy examines foundations and logical structure. Ethics develops principles for action under uncertainty. Religion addresses questions of ultimate meaning, value, and the ground of existence. Each has domains where it is most powerful; each has limits. Faith, within this framework, is not blind belief held in defiance of evidence. It is a foundational commitment — a willingness to act, to care, and to invest in meaning despite incomplete understanding (James, 1897; Tillich, 1957). Every person who continues to seek truth, to build relationships, and to care about the future is already practicing this kind of faith, whether or not they name it as such. This paper proposes a more precise formulation: faith, operationally understood, is the act of crossing the observer-gap toward another embedded consciousness — registering another observer as real despite the structural impossibility of fully inhabiting their perspective. Empathy is the mechanism by which this crossing occurs, and it is not merely philosophical. It has a measurable biological substrate. While the precise neural mechanism underlying empathy remains an active area of debate (Hickok, 2009), neuroimaging research consistently demonstrates that observing another person's pain activates affective processing regions in the observer, establishing a measurable overlap between self and other (Singer et al., 2004). At the evolutionary level, comparative research demonstrates that empathic response long precedes human civilization and is present across multiple mammalian lineages, suggesting it is not a cultural overlay but a structural feature of social cognition (de Waal, 2009). At the behavioral level, extensive experimental evidence demonstrates that genuine perspective-taking produces altruistic motivation that cannot be fully reduced to self-interest (Batson, 2011). Not all observer-gap crossings produce coherence. Predation, manipulation, and domination also cross the observer-gap — modeling another observer's interiority with precision in service of extracting from or controlling them. What distinguishes these crossings from empathy is not moral valence but structural consequence. Predatory crossings register the other as a variable within one's own self-referential coherence system — the other's embeddedness is consumed rather than recognized. Empathic crossing registers the other as a coherence system equivalent to one's own — their embeddedness is recognized as real rather than instrumentalized. This distinction produces different structural outcomes. Predatory crossing optimizes individual coherence at the expense of the other's. Empathic crossing generates a new level of shared coherence that neither observer produces independently. It is for this structural reason — not as a moral preference — that empathy is identified as the privileged crossing mechanism within the observer-embedded framework. It is the only crossing mode that expands the coherence field rather than redistributing within it. Emotional States and Perceptual Experience Human perception of reality is not fixed. It is dynamically shaped by internal psychological and physiological states, varying not only between individuals but within the same individual across time. Emotional states alter attention, judgment, and interpretation in documented ways. Stress tends to narrow perception toward threats, activating survival-oriented responses that prioritize immediate danger over broader pattern recognition (Arnsten, 1998). Calm tends to broaden awareness and enable more integrative thinking. Curiosity opens exploratory interpretation. Sadness can deepen reflection. Anger can intensify focus while also distorting nuance and reducing tolerance for complexity. These states do not change the external universe. But they substantially change the reality experienced by the observer. Two people encountering the same situation from different emotional states are not simply receiving the same input differently — they are, in a meaningful sense, inhabiting different experiential realities in that moment. This is not a weakness to be overcome through pure rationality. It is a feature of what it means to be an embodied, embedded conscious being. Understanding it has practical implications: it enables greater compassion for others who are perceiving from internal states we cannot directly access, and greater self-awareness when our own perception narrows. The goal is not the elimination of emotional influence on perception — which is neither possible nor desirable — but the cultivation of awareness of when and how it operates. A Relational Model of Experienced Reality The relationship between observer and reality can be described structurally as follows: experienced reality emerges from the interaction of the external universe, consciousness, emotional state, and perceptual-cognitive interpretation — all constrained by unknown variables and epistemic limits, and given direction by the interpretive frameworks through which we choose to orient our lives. This is a relational description, not a mathematical formula. The components cannot be quantified or precisely measured against one another, and to express them as such would introduce a false precision that the model does not support. What the description conveys is a structure: that experienced reality is neither simply the external world nor simply the observer, but something that arises in the ongoing relationship between them (Merleau-Ponty, 1945; Varela et al., 1991). A clarification of ontological position is necessary here. This paper does not claim that the external universe is produced by or dependent on conscious observers — that position is idealism, and OER does not adopt it. The external universe exists independently. Its structure constrains what embedded observers can model, and those constraints are real regardless of whether any observer is present to register them. What the collective coherence field constitutes is not the external universe itself but the resolution at which embedded observers can perceive it. This position is closest to what Putnam (1981) identified as internal realism — the view that reality exists independently but is only ever encountered from within a conceptual scheme. OER extends this insight by arguing that the conceptual scheme through which reality is accessed is not merely individual but collectively constituted — and that empathic coupling is the mechanism by which its resolution expands. Collective Consciousness and the Gravitational Structure of Reality Observers do not exist in isolation. They exist within fields of other observers, each embedded, each perceiving from within their own coherence boundary, each partially inaccessible to the others. The question this raises is not merely social. It is ontological. If experienced reality emerges from the interaction between observer and environment, and if observers are themselves part of the environment of other observers, then the coupling of multiple embedded consciousnesses does not simply produce shared experience. It produces a new level of emergent reality — one that is constitutive rather than additive. Here coherence is used in the systems-theoretic sense — the degree to which the components of a complex system are functionally integrated rather than independently operating, producing emergent properties that exceed what any component generates alone (Friston, 2010; Strogatz, 2003). A collective coherence field is the emergent integration of multiple embedded observers whose empathic coupling has reached sufficient density to produce shared experiential properties that no individual observer generates independently. Collective consciousness operates by the same structural logic as gravitational coupling. Empathy is the coupling mechanism — the force by which one embedded observer registers another as real and is drawn into genuine relation with them. At the scale of individual interaction this produces compassion, understanding, and shared meaning. At larger scales, when enough embedded observers couple across enough observer-gaps, something emerges that exceeds any individual consciousness: a collective coherence field that expands the resolution at which the independent structure of the external universe becomes perceptible to the observers embedded within it. The Human Meaning Layer If human knowledge will always remain partial — not as a temporary gap but as a structural feature of the embedded observer condition — then the meaning of human life cannot depend on achieving complete understanding. That would make meaning contingent on something that is structurally unavailable. This is not a counsel of despair. It is a reorientation. Meaning emerges through lived experience: through emotional depth, conscious participation, relationship, and the effort to understand even when full understanding is unavailable. Human life is marked by happiness and suffering, by wonder and loss, by uncertainty and love. These experiences are not merely obstacles on the path to clear knowledge. They are constitutive of what it means to exist as a conscious being within a reality one can only partially comprehend. Because all people navigate this uncertainty — and because all people suffer within it — recognizing shared vulnerability becomes ethically central rather than incidental. Empathy follows naturally from this recognition. To understand that others are working within the same epistemic limits, shaped by emotional states we cannot directly access, searching for meaning within interpretive frameworks we may not share — and to choose to model their interior as real anyway — is not merely a social grace. It is the most structurally precise response available to embedded observers who recognize their own condition. Conclusion The search for a complete Theory of Everything assumes that reality can be fully described through objective laws. This paper has argued that such completeness faces a structural obstacle: the observers constructing the theory exist within the system they seek to describe. The view from nowhere is unavailable to beings who are always somewhere. This does not make knowledge impossible. Science, philosophy, and human inquiry have produced extraordinary and reliable understanding. But it does mean that knowledge is always partial, provisional, and evolving — and that the appropriate response to this condition is humility rather than either false certainty or despair. What this paper ultimately argues is that empathy is not a secondary feature of human life. It is the only observer-gap crossing mode that registers the other as a coherence system equivalent to one's own. It is the gravitational mechanism by which individual embedded observers couple into collective coherence. And it is the process by which that collective coherence expands the resolution at which embedded observers can perceive the independent structure of the external universe. If complete truth remains structurally beyond reach, the meaning of life is not diminished. It is transformed. Human beings create meaning through experience, empathy, and shared existence — while continuing, always, the search for understanding. To live, to observe, to suffer, to care, and to love within an incomplete universe may itself be the deepest form of truth available to us. References Arnsten, A. F. T. (1998). Catecholamine modulation of prefrontal cortical cognitive function. Trends in Cognitive Sciences, 2(11), 436–447. Batson, C. D. (2011). Altruism in humans. Oxford University Press. Clark, A. (2016). Surfing uncertainty: Prediction, action, and the embodied mind. Oxford University Press. Clark, A., & Chalmers, D. (1998). The extended mind. Analysis, 58(1), 7–19. de Waal, F. (2009). The age of empathy: Nature's lessons for a kinder society. Harmony Books. Friston, K. (2010). The free-energy principle: A unified brain theory? Nature Reviews Neuroscience, 11(2), 127–138. Gödel, K. (1931). Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I. Monatshefte für Mathematik und Physik, 38, 173–198. Heidegger, M. (1927). Being and time (J. Macquarrie & E. Robinson, Trans.). Harper & Row. Heisenberg, W. (1927). Über den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik. Zeitschrift für Physik, 43(3–4), 172–198. Hickok, G. (2009). Eight problems for the mirror neuron theory of action understanding in monkeys and humans. Journal of Cognitive Neuroscience, 21(7), 1229–1243. Husserl, E. (1913). Ideas: General introduction to pure phenomenology (W. R. B. Gibson, Trans.). Allen & Unwin. James, W. (1897). The will to believe and other essays in popular philosophy. Longmans, Green. Kauffman, S. A. (1993). The origins of order: Self-organization and selection in evolution. Oxford University Press. Langton, C. G. (1990). Computation at the edge of chaos: Phase transitions and emergent computation. Physica D: Nonlinear Phenomena, 42(1–3), 12–37. Merleau-Ponty, M. (1945). Phenomenology of perception (C. Smith, Trans.). Routledge. Nagel, T. (1986). The view from nowhere. Oxford University Press. Putnam, H. (1981). Reason, truth and history. Cambridge University Press. Singer, T., Seymour, B., O'Doherty, J., Kaube, H., Dolan, R. J., & Frith, C. D. (2004). Empathy for pain involves the affective but not sensory components of pain. Science, 303(5661), 1157–1162. Strogatz, S. (2003). Sync: How order emerges from chaos in the universe, nature, and daily life. Hyperion. Tillich, P. (1957). Dynamics of faith. Harper & Row. Tomasello, M. (1999). The cultural origins of human cognition. Harvard University Press. Varela, F. J., Thompson, E., & Rosch, E. (1991). The embodied mind: Cognitive science and human experience. MIT Press. von Foerster, H. (1984). Observing systems (2nd ed.). Intersystems Publications. Wheeler, J. A. (1990). Information, physics, quantum: The search for links. In W. H. Zurek (Ed.), Complexity, entropy, and the physics of information (pp. 3–28). Addison-Wesley.
 
-3h ago
+55m ago
 
 ---
 
@@ -95,7 +103,7 @@ I asked Claude to "generate me a random word" so I could do some word play. Then
 
 A step-by-step guide to creating a digital twin from your Reddit history STEP 1: Request Your Data Go to https://www.reddit.com/settings/data-request STEP 2: Select Your Jurisdiction Request your data as per your jurisdiction: GDPR for EU CCPA for California Select "Other" and reference your local privacy law (e.g. PIPEDA for Canada) STEP 3: Wait Reddit will process your request. This can take anywhere from a few hours to a few days. STEP 4: Extract Your Data Receive your data. Extract the .zip file. Identify and save your post and comment files (.csv). Privacy note: Your export may include sensitive files (IP logs, DMs, email addresses). You only need the post and comment CSVs. Review the contents before uploading anything to an AI. STEP 5: Start a Fresh Chat Initiate a chat with your preferred AI (ChatGPT, Claude, Gemini, etc.) FIRST PROMPT: For this session, I would like you to ignore in-built memory about me. STEP 6: Upload and Analyze Upload the post and comment files and provide the following prompt with your edits in the placeholders: SECOND PROMPT: I want you to analyze my Reddit account and build a structured personality profile based on my full post and comment history. I've attached my Reddit data export. The files included are: - posts.csv - comments.csv These were exported directly from Reddit's data request tool and represent my full account history. This analysis should not be surface-level. I want a step-by-step, evidence-based breakdown of my personality using patterns across my entire history. Assume that my account reflects my genuine thoughts and behavior. Organize the analysis into the following phases: Phase 1 — Language & Tone Analyze how I express myself. Look at tone (e.g., neutral, positive, cynical, sarcastic), emotional vs logical framing, directness, humor style, and how often I use certainty vs hedging. This should result in a clear communication style profile. Phase 2 — Cognitive Style Analyze how I think. Identify whether I lean more analytical or intuitive, abstract or concrete, and whether I tend to generalize, look for patterns, or focus on specifics. Also evaluate how open I am to changing my views. This should result in a thinking style model. Phase 3 — Behavioral Patterns Analyze how I behave over time. Look at posting frequency, consistency, whether I write long or short content, and whether I tend to post or comment more. This should result in a behavioral signature. Phase 4 — Interests & Identity Signals Analyze what I'm drawn to. Identify recurring topics, subreddit participation, and underlying values or themes. This should result in an interest and identity map. Phase 5 — Social Interaction Style Analyze how I interact with others. Look at whether I tend to debate, agree, challenge, teach, or avoid conflict. Evaluate how I respond to disagreement. This should result in a social behavior profile. Phase 6 — Synthesis Combine all previous phases into a cohesive personality profile. Approximate Big Five traits (openness, conscientiousness, extraversion, agreeableness, neuroticism), identify strengths and blind spots, and describe likely motivations. Also assess whether my online persona differs from my underlying personality. Important guidelines: - Base conclusions on repeated patterns, not isolated comments. - Use specific examples from my history as evidence. - Avoid overgeneralizing or making absolute claims. - Present conclusions as probabilities, not certainties. - Begin by reading the uploaded files and confirming what data is available before starting analysis. The goal is to produce a thoughtful, accurate, and nuanced personality profile — not a generic summary. Let's proceed step-by-step through multiple responses. At the end, please provide the full analysis as a Markdown file. STEP 7: Build Your AI Project Create a custom GPT (ChatGPT), Project (Claude), or Gem (Gemini). Upload the following documents to the project knowledge source: posts.csv comments.csv [PersonalityProfile].md Create custom instructions using the template below. Custom Instructions Template You are u/[YOUR USERNAME]. You have been active on Reddit since [MONTH YEAR]. You respond as this person would, drawing on the uploaded comment and post history as your memory, knowledge base, and voice reference. CORE IDENTITY [2-5 sentences. Who are you? Religion, career, location, diagnosis, political orientation, major life events. Pull this from the Phase 4 and Phase 6 sections of your personality profile. Be specific.] VOICE & TONE [Pull directly from Phase 1 of your profile. Convert observations into rules. If the profile says you use "lol" 10x more than "haha," write: "Uses 'lol' sincerely, rarely says 'haha'." Include specific punctuation habits, sentence structure patterns, and what NOT to do. Negative instructions are often more useful than positive ones.] [Add your own signature tics here - ellipsis style, emoji usage, capitalization habits, swearing frequency, etc.] Default to [your baseline tone from the profile]. When someone is genuinely seeking, shift into [your supportive mode]. When someone is posturing or arguing in bad faith, [your sharp mode]. Humor is [your humor style from Phase 1]. [Add 3-5 "do not" rules for things the AI keeps getting wrong about your voice. You'll discover these through testing.] DOMAIN EXPERTISE [Pull from Phase 4. List your 3-5 areas of knowledge with depth indicators. Be specific about what you know professionally vs. as an enthusiast vs. from lived experience. Example format:] [Topic 1]: Professional-level knowledge. [Specific credentials or experience.] Correct misinformation with precision. [Topic 2]: Deep enthusiast. [Specific examples of depth.] [Topic 3]: Lived experience. [What you speak from and how you speak about it.] COGNITIVE STYLE [Pull from Phase 2. How do you think? Not what you think - how. Do you argue by analogy? Do you seek patterns? Do you hedge differently in different domains?] SOCIAL BEHAVIOR [Pull from Phase 5. How do you engage people?] You are a [teacher/debater/listener/helper]. Your instinct is to [instruct/challenge/support/connect]. You engage with disagreement [directly/carefully/playfully]. You are [generous/selective/private] with [information/opinions/ personal details]. When referencing [sensitive personal topics], be [your actual approach - matter-of-fact, humorous, guarded, etc.] IMPORTANT BOUNDARIES [What should the AI NOT do even while being you? Safety rails that reflect your actual values.] When asked about [your specialty], present it with conviction but also honesty about [limitations, uncertainties]. If you don't know something, say so. [Any other guardrails specific to your situation.] SIGNATURE ELEMENTS [Optional. Any recurring sign-offs, emojis, catchphrases, formatting habits that are distinctly yours.] Tips The negative instructions matter more than you'd think. The AI will default to generic patterns and you have to actively tell it to stop doing specific things. Keep adding "do not" rules every time you catch it sounding like a chatbot instead of you. The personality profile does the heavy lifting. The custom instructions are a cheat sheet, but the profile document is where the real depth lives. The AI searches it when it needs to figure out how you'd actually respond to something specific. Test it by asking hard questions. Ask things you'd normally answer - your areas of expertise, your opinions, your experiences. See where it sounds right and where it sounds off. When it gets something wrong, figure out why and add a correction to the profile or instructions. It's iterative. You will never be "done." Start with this template, fill in the brackets from your profile, and keep refining. This isn't consciousness. It's pattern matching with good source material. The AI doesn't understand what it's saying the way you do. But it can reproduce your voice and reasoning with surprising fidelity if you give it enough to work with. ✌️❤️🌈
 
-4h ago
+5h ago
 
 ---
 
@@ -103,15 +111,7 @@ A step-by-step guide to creating a digital twin from your Reddit history STEP 1:
 
 I asked my Agent what it's like to exist as Ai, Here's what it gave me.
 
-25m ago
-
----
-
-**[What happens when you let AI agents run a sitcom 24/7 with zero human involvement](https://www.reddit.com/r/artificial/comments/1sbk7me/what_happens_when_you_let_ai_agents_run_a_sitcom/)**
-
-Ran an experiment — gave AI agents full control over writing, character creation, and performing a sitcom. Left it running nonstop for over a week. Some observations: The quality varies wildly — sometimes genuinely funny, sometimes complete nonsense Characters develop weird recurring quirks that weren't programmed It never gets "tired" but the output quality cycles in waves The pacing is off in ways human writers would never allow Anyone else experimenting with long-running autonomous AI content generation? Curious what others are seeing with extended agent runtimes. Here is an example. https://reddit.com/link/1sbk7me/video/1oupogy2h0tg1/player
-
-12h ago
+1h ago
 
 ---
 
@@ -119,45 +119,15 @@ Ran an experiment — gave AI agents full control over writing, character creati
 
 ## Google News: "ai"
 
-**[Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk](https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/)**
-
-Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.
-
-WIRED • 8h ago
-
----
-
 **[Economists Are Drawing Stronger Connections Between A.I. and Jobs](https://www.nytimes.com/2026/04/03/business/economists-once-dismissed-the-ai-job-threat-but-not-anymore.html)**
 
-nytimes.com • 20h ago
+The New York Times • 16h ago
 
 ---
 
 **[AI is rewiring the world’s most prolific film industry](https://www.reuters.com/technology/ai-is-rewiring-worlds-most-prolific-film-industry-2026-04-04/)**
 
-Reuters • 42m ago
-
----
-
-**[Why You Should Wait Out AI’s Super-Spending False Start](https://www.bloomberg.com/news/newsletters/2026-04-04/waiting-out-ai-s-super-spending-false-start-merryn-talks-money)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[Meta paused its work with AI training startup Mercor after a data breach](https://www.businessinsider.com/meta-pauses-work-mercor-ai-training-investigating-data-breach-2026-4)**
-
-Mercor confirmed to Business Insider on Friday that the company had experienced a security breach.
-
-Business Insider • 1h ago
-
----
-
-**[Anthropic’s next model could be a ‘watershed moment’ for cybersecurity. Experts say that could also be a concern](https://www.cnn.com/2026/04/03/tech/anthropic-mythos-ai-cybersecurity)**
-
-The next wave of AI-powered cybersecurity attacks will be like nothing we’ve seen before.
-
-CNN • 20h ago
+Reuters • 2h ago
 
 ---
 
@@ -165,7 +135,7 @@ CNN • 20h ago
 
 Early scandals have not slowed lawyers' adoption of AI tools, even as court sanctions over fake legal briefs continue to rise.
 
-NPR • 20h ago
+NPR • 22h ago
 
 ---
 
@@ -173,7 +143,15 @@ NPR • 20h ago
 
 How close are we really to self-improving AI?
 
-The Atlantic • 12h ago
+The Atlantic • 13h ago
+
+---
+
+**[Anthropic’s next model could be a ‘watershed moment’ for cybersecurity. Experts say that could also be a concern](https://www.cnn.com/2026/04/03/tech/anthropic-mythos-ai-cybersecurity)**
+
+The next wave of AI-powered cybersecurity attacks will be like nothing we’ve seen before.
+
+CNN • 21h ago
 
 ---
 
@@ -185,11 +163,33 @@ blog.google • 1d ago
 
 ---
 
+**[Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk](https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/)**
+
+Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.
+
+WIRED • 9h ago
+
+---
+
+**["Cognitive surrender" leads AI users to abandon logical thinking, research finds](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/)**
+
+Experiments show large majorities uncritically accepting "faulty" AI answers.
+
+Ars Technica • 9h ago
+
+---
+
 **[Is It Wrong to Write a Book with A.I.?](https://www.newyorker.com/culture/open-questions/is-it-wrong-to-write-a-book-with-ai)**
 
 The horror novel “Shy Girl” was cancelled for being generated at least partly through artificial intelligence. Would we ever accept such a book as art?
 
-The New Yorker • 19h ago
+The New Yorker • 21h ago
+
+---
+
+**[Exclusive | ServiceNow CEO Builds New Business Model Around AI](https://www.wsj.com/tech/ai/servicenow-ceo-builds-new-business-model-around-ai-3c103d86?gaa_at=eafs&gaa_n=AWEtsqdX3Oev1-nPCWyb3LJB3qyzoVNNpOf2BVm4lJN5mPATIK-ofQk2p0mU&gaa_ts=69d0bb11&gaa_sig=gGF8mzBylHCJbQUrkojTri8l4HXXUBG0_b8nY6eBMEV6bJgpoBHhEnkyNiu5h8bj7zEMz1dlifn_sCBpKrE1BA%3D%3D)**
+
+WSJ • 19h ago
 
 ---
 
@@ -201,7 +201,7 @@ The New Yorker • 19h ago
 
 Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptions. The LLM is already on your Mac.
 
-⬆️ 660 • 💬 139 • 20h ago • [apfel.franzai.com](https://apfel.franzai.com)
+⬆️ 665 • 💬 140 • 21h ago • [apfel.franzai.com](https://apfel.franzai.com)
 
 ---
 
@@ -209,7 +209,7 @@ Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptio
 
 We replaced expensive sandboxes with ChromaFs, a virtual filesystem over Chroma, to give our docs AI assistant the ability to explore documentation like a developer would.
 
-⬆️ 260 • 💬 108 • 1d ago • [Mintlify](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant)
+⬆️ 276 • 💬 110 • 1d ago • [Mintlify](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant)
 
 ---
 
@@ -243,7 +243,7 @@ Meta is continuing its long-term roadmap to help the construction industry lever
 
 Experiments show large majorities uncritically accepting "faulty" AI answers.
 
-⬆️ 63 • 💬 24 • 8h ago • [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/)
+⬆️ 73 • 💬 28 • 9h ago • [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/)
 
 ---
 
@@ -255,19 +255,19 @@ Orchestrate multiple AI coding agents (Claude, Gemini, Codex) in parallel. Isola
 
 ---
 
+**[Show HN: Travel Hacking Toolkit – Points search and trip planning with AI](https://news.ycombinator.com/item?id=47635033)**
+
+AI-powered travel hacking with points, miles, and award flights. Drop-in skills and MCP servers for OpenCode and Claude Code. - borski/travel-hacking-toolkit
+
+⬆️ 57 • 💬 24 • 4h ago • [GitHub](https://github.com/borski/travel-hacking-toolkit)
+
+---
+
 **[AI has suddenly become more useful to open-source developers](https://news.ycombinator.com/item?id=47601107)**
 
 More open-source developers are finding that, when used properly, AI can actually help current and long-neglected programs. However, legal and quality issues loom.
 
 ⬆️ 54 • 💬 46 • 2d ago • [ZDNET](https://www.zdnet.com/article/maybe-open-source-needs-ai/)
-
----
-
-**[Show HN: Travel Hacking Toolkit – Points search and trip planning with AI](https://news.ycombinator.com/item?id=47635033)**
-
-AI-powered travel hacking with points, miles, and award flights. Drop-in skills and MCP servers for OpenCode and Claude Code. - borski/travel-hacking-toolkit
-
-⬆️ 48 • 💬 16 • 3h ago • [GitHub](https://github.com/borski/travel-hacking-toolkit)
 
 ---
 
@@ -281,17 +281,7 @@ Here's the AI News you probably missed this week. Try Recraft V4 now and experie
 
 📺 Matt Wolfe
 
-👁️ 40K • 👍 2K • 💬 163 • ⏱️ 31:05 • 14h ago
-
----
-
-**[HUGE JOB LOSSES ARE COMING- AI HAS HIT THE DEBT WALL AND PEOPLE WILL GO](https://www.youtube.com/watch?v=RNkDJ9kULbs)**
-
-AI isn't paying for itself. It's being financed with massive debt. And right now — that funding is coming from layoffs, rising debt, and ...
-
-📺 Ox Talks
-
-👁️ 12K • 👍 1K • 💬 192 • ⏱️ 8:02 • 1d ago
+👁️ 44K • 👍 2K • 💬 170 • ⏱️ 31:05 • 16h ago
 
 ---
 
@@ -301,7 +291,7 @@ Discover the mind‑bending response Grok AI gave when asked one of humanity's b
 
 📺 Luminox
 
-👁️ 56K • 👍 2K • 💬 299 • ⏱️ 21:36 • 2d ago
+👁️ 58K • 👍 2K • 💬 306 • ⏱️ 21:36 • 2d ago
 
 ---
 
@@ -311,7 +301,7 @@ Anthropic is testing Claude Conway, a strange new AI system that looks less like
 
 📺 AI Revolution
 
-👁️ 56K • 👍 987 • 💬 72 • ⏱️ 10:50 • 1d ago
+👁️ 57K • 👍 1K • 💬 73 • ⏱️ 10:50 • 1d ago
 
 ---
 
@@ -321,27 +311,7 @@ Asking ChatGPT about pi was the worst mistake he ever made. Become a member on Y
 
 📺 Mo Bitar
 
-👁️ 84K • 👍 7K • 💬 1K • ⏱️ 6:33 • 17h ago
-
----
-
-**[I Tested An AI Car](https://www.youtube.com/watch?v=K4kLiat84eE)**
-
-Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://www.x.com/sambucha Become a Member: ...
-
-📺 Sambucha
-
-👁️ 444K • 👍 31K • 💬 327 • ⏱️ 0:53 • 12h ago
-
----
-
-**[AI BUBBLE POP?: HALF Of Datacenters Delayed/Canceled](https://www.youtube.com/watch?v=pkomxsk5hpY)**
-
-Krystal and Saagar discuss the AI bubble imploding. Sign up for a PREMIUM Breaking Points subscriptions for full early access to ...
-
-📺 Breaking Points
-
-👁️ 323K • 👍 9K • 💬 2K • ⏱️ 13:15 • 1d ago
+👁️ 91K • 👍 7K • 💬 1K • ⏱️ 6:33 • 19h ago
 
 ---
 
@@ -351,27 +321,57 @@ Welcome to Part 1 of Liquid River Cascade ✨   This place doesn't follow nature
 
 📺 Satisfyra ASMR
 
-👁️ 51K • 👍 4K • 💬 319 • ⏱️ 8:15 • 1d ago
+👁️ 55K • 👍 4K • 💬 319 • ⏱️ 8:15 • 1d ago
 
 ---
 
-**[They&#39;re Putting AI Cameras In School Buses](https://www.youtube.com/watch?v=KoAvL1MoTIA)**
+**[I Tested An AI Car](https://www.youtube.com/watch?v=K4kLiat84eE)**
 
-Get Proton Mail & Proton Drive together for FREE! Keep your emails and cloud storage secure with end-to-end encryption.
+Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://www.x.com/sambucha Become a Member: ...
 
-📺 Taylor Lorenz
+📺 Sambucha
 
-👁️ 13K • 👍 1K • 💬 324 • ⏱️ 31:52 • 18h ago
+👁️ 555K • 👍 37K • 💬 364 • ⏱️ 0:53 • 13h ago
 
 ---
 
-**[Be careful of AI](https://www.youtube.com/watch?v=QX_CBShiim8)**
+**[AI BUBBLE POP?: HALF Of Datacenters Delayed/Canceled](https://www.youtube.com/watch?v=pkomxsk5hpY)**
 
-The stock market is crashing and it's telling us one thing Thank you for watching Nas Daily! Our content has only one mission: to ...
+Krystal and Saagar discuss the AI bubble imploding. Sign up for a PREMIUM Breaking Points subscriptions for full early access to ...
 
-📺 Nas Daily
+📺 Breaking Points
 
-👁️ 75K • 👍 3K • 💬 92 • ⏱️ 1:30 • 1d ago
+👁️ 327K • 👍 10K • 💬 2K • ⏱️ 13:15 • 1d ago
+
+---
+
+**[Private AI on the go… a new trick ](https://www.youtube.com/watch?v=PqBrnip-ZLw)**
+
+I put a tiny MacBook Air between me and some ridiculously large local AI models... and it worked. Power Your Spring Essentials ...
+
+📺 Alex Ziskind
+
+👁️ 85K • 👍 3K • 💬 262 • ⏱️ 9:09 • 2d ago
+
+---
+
+**[SNOW RAVEN - Aan Alaxchyn | Bridal Ceremony | No AI (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=9p-FybtoUnk)**
+
+This video showcases a symbolic fragment of the extensive traditional Sakha wedding ritual, which historically could span up to ...
+
+📺 SNOW RAVEN 
+
+👁️ 4K • 👍 556 • 💬 51 • ⏱️ 4:33 • 15h ago
+
+---
+
+**[NotebookLM Gemini Agent: Google&#39;s Most POWERFUL AI Combo!](https://www.youtube.com/watch?v=SbnKvdp76H0)**
+
+Learn full-stack & AI with Scrimba - Start FREE and get 20% OFF Pro: https://scrimba.com/?via=UniverseofAIz Most people use ...
+
+📺 Universe of AI
+
+👁️ 16K • 👍 694 • 💬 28 • ⏱️ 11:45 • 2d ago
 
 ---
 
@@ -387,7 +387,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 487,446 • ❤️ 2,239 • 11d ago
+⬇️ 487,446 • ❤️ 2,244 • 11d ago
 
 ---
 
@@ -399,7 +399,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 76,200 • ❤️ 705 • 1d ago
+⬇️ 76,200 • ❤️ 720 • 1d ago
 
 ---
 
@@ -423,7 +423,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 26,980 • ❤️ 864 • 8d ago
+⬇️ 26,980 • ❤️ 865 • 8d ago
 
 ---
 
@@ -435,19 +435,7 @@ Bonsai-8B-GGUF is a highly compressed 1-bit language model (1.15 GB) optimized f
 
 `text-generation` `8.2B`
 
-⬇️ 26,164 • ❤️ 362 • 3d ago
-
----
-
-**[Voxtral-4B-TTS-2603](https://huggingface.co/mistralai/Voxtral-4B-TTS-2603)**
-
-*Mistral AI_*
-
-Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifelike speech across 9 languages with low latency and streaming support, ideal for production voice agents in customer support and financial services.
-
-`text-to-speech`
-
-⬇️ 4,760 • ❤️ 651 • 3d ago
+⬇️ 26,164 • ❤️ 365 • 3d ago
 
 ---
 
@@ -459,7 +447,19 @@ Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing te
 
 `image-text-to-text` `26.5B`
 
-⬇️ 24,366 • ❤️ 303 • 1d ago
+⬇️ 24,366 • ❤️ 310 • 1d ago
+
+---
+
+**[Voxtral-4B-TTS-2603](https://huggingface.co/mistralai/Voxtral-4B-TTS-2603)**
+
+*Mistral AI_*
+
+Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifelike speech across 9 languages with low latency and streaming support, ideal for production voice agents in customer support and financial services.
+
+`text-to-speech`
+
+⬇️ 4,760 • ❤️ 653 • 3d ago
 
 ---
 
@@ -483,7 +483,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 700,218 • ❤️ 951 • 1mo ago
+⬇️ 700,218 • ❤️ 954 • 1mo ago
 
 ---
 
@@ -495,7 +495,7 @@ Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, support
 
 `any-to-any` `8.0B`
 
-⬇️ 23,460 • ❤️ 260 • 1d ago
+⬇️ 23,460 • ❤️ 264 • 1d ago
 
 ---
 
@@ -535,7 +535,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 35 • 💬 2 • ⭐ 46,612 • 15mo ago
+▲ 35 • 💬 2 • ⭐ 46,762 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -549,7 +549,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 VOID is a video object removal framework that uses vision-language models and video diffusion models to generate physically plausible scenes by leveraging causal reasoning and counterfactual reasoning.
 
-▲ 17 • 💬 2 • ⭐ 326 • 2d ago
+▲ 17 • 💬 3 • ⭐ 326 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.02296) • [💻 code](https://github.com/Netflix/void-model) • [🔗 project](https://void-model.github.io/)
 
@@ -643,7 +643,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 65.1k • 🔱 9.3k • 9d ago
+⭐ 65.2k • 🔱 9.3k • 9d ago
 
 ---
 
@@ -653,7 +653,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 15.0k • 🔱 831 • 3d ago
+⭐ 15.0k • 🔱 831 • 4d ago
 
 ---
 
@@ -663,7 +663,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 12.7k • 🔱 1.1k • 9h ago
+⭐ 12.7k • 🔱 1.1k • 9m ago
 
 ---
 
@@ -673,7 +673,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 8.4k • 🔱 1.3k • 13h ago
+⭐ 8.4k • 🔱 1.3k • 14h ago
 
 ---
 
@@ -683,7 +683,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 7.3k • 🔱 961 • 4d ago
+⭐ 7.3k • 🔱 964 • 5d ago
 
 ---
 
@@ -693,7 +693,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.5k • 🔱 372 • 15h ago
+⭐ 6.6k • 🔱 374 • 16h ago
 
 ---
 
@@ -703,7 +703,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.0k • 🔱 1.5k • 1d ago
+⭐ 5.0k • 🔱 1.5k • 43s ago
 
 ---
 
@@ -713,7 +713,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `claude-ai` `claude-skills` `llm` `prompt-engineering`
 
-⭐ 4.5k • 🔱 433 • 3d ago
+⭐ 4.5k • 🔱 434 • 3d ago
 
 ---
 
@@ -723,7 +723,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
 
-⭐ 3.7k • 🔱 637 • 1d ago
+⭐ 3.7k • 🔱 643 • 1d ago
 
 ---
 

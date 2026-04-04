@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-04T05:42:27.834756+00:00'
+updated: '2026-04-04T07:03:04.323150+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 04, 2026 at 05:42 UTC  
+**Last Updated:** April 04, 2026 at 07:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Humanoid robots undergoing training](https://www.reddit.com/r/robotics/comments/1sbj504/humanoid_robots_undergoing_training/)**
 
-12h ago
+14h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Appreciate all the feedback and love on the recent videos, here's another clip of the dev process worth sharing. This one starts with an ugly moment, the right leg clips the edge and stumbles on a stair jump. Took a few days to track down the real issue. Turned out to be a mechanical transmission resistance in the hip joint, not a bug in the code. After the fix, clean landing. We're at around stable 30cm (~12")now. Sim does 40 or even higher, but 30 clears real stairs and that's what matters. (Getting to 30 in real life was harder than it sounds) Basic locomotion is getting solid, so next step: giving this little guy some eyes and ears, maybe. Legs first, then brains. sim2real is always humbling!
 
-17h ago
+19h ago
 
 ---
 
@@ -50,7 +50,7 @@ Appreciate all the feedback and love on the recent videos, here's another clip o
 
 If human demonstration data proves to be the underlying factor that determines scaling laws in general-purpose robotics, the infrastructure that captures that data will determine how fast we get there. Despite all the research novelty in ChatGPT, its success at its core can be attributed to one foundational fact - the scaling law of transformers. Have transformers made their way into robotics and are we seeing similar scaling laws? The answer is yes. Recent studies showed task completion rates jumping from 30% to 70% when human demonstration data scaled from 1,000 to 20,000 hours — a log-linear trend that mirrors exactly what we saw in language and vision. Labs are racing to train generalist policies - a robot brain that can solve any task under any embodiment. But the library of physical interactions required to train these policies doesn’t exist yet. Solving this data bottleneck is one of the most important problems for the next few years. We’ve seen dozens of companies emerge in this space and noticed the same pattern repeat: every egocentric data company makes tradeoffs between quality, scale, and diversity. I have been working at FPV Labs on the principle that high-quality data is orders of magnitude more valuable than sheer volume. Self-driving cars collect thousands of hours per day, but only a small fraction is useful for training. Studies like RT-2 showed that as little as 1% of data improves task success by 25%. There’s clearly a power law in the downstream impact of data. We spent months obsessing over data quality - building our stack, discarding it, rebuilding it, and iterating until we found a formula that doesn’t compromise quality at scale and laying the infrastructure rails as we embark into this future. We are excited to be building what we think of is the infra layer for the internet archive of data for our robotic companions of the future. Happy to answer questions about our hardware, data methodology, or what we’ve learned so far. fpvlabs.ai
 
-13h ago
+14h ago
 
 ---
 
@@ -58,7 +58,7 @@ If human demonstration data proves to be the underlying factor that determines s
 
 l find that RoboBaton mini is good to use. I was originally planning to use Intel's T265, but discovered it had been discontinued. I found RoboBaton Mini on myrobotproject's website. I successfully got it working with my Raspberry Pi. I will open-source the code on GitHub later. I hope everyone can connect with me to discuss and explore other use cases for the Mini.
 
-16h ago
+17h ago
 
 ---
 
@@ -66,7 +66,7 @@ l find that RoboBaton mini is good to use. I was originally planning to use Inte
 
 Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 that I've been building. The feedback was really helpful, and I've been heads-down since then working on one of the biggest feature of the framework: Variants and flavors (the ability to define a single communication interface for different pieces of code). The goal hasn't changed: someone new should be able to pick this up and have nodes communicating in about half an hour. I'd love to hear what you think, especially from people who tried it last time.
 
-18m ago
+1h ago
 
 ---
 
@@ -74,7 +74,13 @@ Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 t
 
 Read all of the ROS news on Open Robotics Discourse. Picture is the Innate.bot MARS robot. They're running a hackathon at YCombinator next Saturday.
 
-10h ago
+11h ago
+
+---
+
+**[Autonomous valet robot demonstrating precise self-parking in a real-world setting](https://www.reddit.com/r/robotics/comments/1san0l2/autonomous_valet_robot_demonstrating_precise/)**
+
+1d ago
 
 ---
 
@@ -82,13 +88,7 @@ Read all of the ROS news on Open Robotics Discourse. Picture is the Innate.bot M
 
 i need y'all to give me suggestions for the battery part im having two 6v n20 600rpm motors and also the battery is connected to the buck which powers the esp32 the sensors are powered from the esp32 3.3v all the things are working perfectly just the prblm im facing is o hVe 7.4v lipo battery but its too big and bulky for this size and makes it heavier too so can you suggest some batteries (rechargeable) 7.4v thats smaller and compact in size to fit on the upper part (where my thumb is placed)
 
-14h ago
-
----
-
-**[Autonomous valet robot demonstrating precise self-parking in a real-world setting](https://www.reddit.com/r/robotics/comments/1san0l2/autonomous_valet_robot_demonstrating_precise/)**
-
-1d ago
+15h ago
 
 ---
 
@@ -122,7 +122,13 @@ Crunchbase News • 1d ago
 
 From robotic Olaf to reinforcement learning, the company is rethinking how its attractions come to life.
 
-Fast Company • 19h ago
+Fast Company • 21h ago
+
+---
+
+**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqeNCSf0toyXc7gzOXxPQG331BfT6B8Knk4q3rJl4Zm4EfQ6qMSjBmSk&gaa_ts=69d0bb16&gaa_sig=EDQL-GCvYNh6cFxqtDsMtjHTZX0v9k0jPJoTuiBaMjaWrjuzXJatnFsa1fWzcD4C9dhmaUWe--iaC9DaGroLkA%3D%3D)**
+
+WSJ • 1d ago
 
 ---
 
@@ -130,19 +136,15 @@ Fast Company • 19h ago
 
 People in Nigeria and India are strapping iPhones onto their heads and recording themselves doing chores.
 
-technologyreview.com • 2d ago
+MIT Technology Review • 2d ago
 
 ---
 
-**[Generalist Is Betting Its Robot-Training Gloves Will Usher In Robotics’ ChatGPT Moment](https://www.forbes.com/sites/annatong/2026/04/02/generalist-is-betting-its-robot-training-gloves-will-usher-in-robotics-chatgpt-moment/)**
+**[Video Friday: Digit Learns to Dance—Virtually Overnight](https://spectrum.ieee.org/video-humanoid-dancing)**
 
-Forbes • 1d ago
+Your weekly selection of awesome robot videos
 
----
-
-**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqcX3ssQ7WEIr3JyvcPmOzU_XYYXuyH1vyOdXvNmQybydiqCUu5hLZsw&gaa_ts=69d0a834&gaa_sig=AQMHbRvopIGA2YUxeV6adEKOywb3HqK_Joh4r9WH-JIG9LQiph3Ai0f7yKNBznsIyJC84-Q2jSaPJoM2ncpjQw%3D%3D)**
-
-WSJ • 1d ago
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -150,7 +152,7 @@ WSJ • 1d ago
 
 Spacesuit work and eye checks wrapped up the week for the Expedition 74 crew aboard the International Space Station. The orbital residents also focused on robotics, cargo transfers, and science hardware maintenance at the end of the week.
 
-NASA (.gov) • 8h ago
+NASA (.gov) • 10h ago
 
 ---
 
@@ -158,7 +160,7 @@ NASA (.gov) • 8h ago
 
 A laboratory has been developed which can safely store and analyse samples from space.
 
-BBC • 23h ago
+BBC • 1d ago
 
 ---
 
@@ -172,7 +174,7 @@ Tech Xplore • 1d ago
 
 The City of Fountains Regional Robotics Competition kicked off Friday morning at Park Hill South High School.
 
-Yahoo • 6h ago
+Yahoo • 7h ago
 
 ---
 
@@ -198,41 +200,13 @@ Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking
 
 ---
 
-**[Shawn Ryan Tests a Real Humanoid Robot](https://www.youtube.com/watch?v=HWq9cFhTvvQ)**
+**[I broke a robot in China](https://www.youtube.com/watch?v=7U3vjVfwChc)**
 
-Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In this clip, we break down how this robot sees, ...
+China is leading the world in humanoid robot shipments. Powered by artificial intelligence, these machines are setting new ...
 
-📺 Shawn Ryan Show
+📺 CGTN
 
-👁️ 838K • 👍 32K • 💬 5K • ⏱️ 8:48 • 2d ago
-
----
-
-**[I Tested a Robot Wheelchair… It Passed](https://www.youtube.com/watch?v=UU4L3c6ijdc)**
-
-Saw an autonomous wheelchair at Mayo Clinic… so I stepped in front of it. It stopped instantly. Honestly… better reaction time ...
-
-📺 Todd Swank
-
-👁️ 839 • 👍 5 • ⏱️ 0:21 • 3h ago
-
----
-
-**[Shawn Ryan SHOCKED—They’re Mass-Producing Human Robots… Like iPhones](https://www.youtube.com/watch?v=-mkpQrPb8d0)**
-
-Shawn Ryan comes into direct contact with a humanoid robot and the CEO who wants to have every family own one.
-
-📺 Aaron Page 
-
-👁️ 42K • 👍 2K • 💬 410 • ⏱️ 13:41 • 1d ago
-
----
-
-**[Skyfood, the Robot as a Service 🤖#robotics #robot #furry #startup #engineering](https://www.youtube.com/watch?v=x14HZyTQ1z4)**
-
-📺 Confusion & Mekhy
-
-👁️ 751 • 👍 35 • 💬 20 • ⏱️ 2:03 • 8h ago
+👁️ 31K • 👍 267 • 💬 56 • ⏱️ 1:54 • 2d ago
 
 ---
 
@@ -242,7 +216,27 @@ rumi #huntrix #kpop #kpopdemonhunters #shorts #celebrity #trend #makeup #mira #z
 
 📺 Faces of Culture
 
-👁️ 3.7M • 👍 9K • 💬 7 • ⏱️ 0:04 • 2d ago
+👁️ 3.9M • 👍 9K • 💬 7 • ⏱️ 0:04 • 2d ago
+
+---
+
+**[Shawn Ryan SHOCKED—They’re Mass-Producing Human Robots… Like iPhones](https://www.youtube.com/watch?v=-mkpQrPb8d0)**
+
+Shawn Ryan comes into direct contact with a humanoid robot and the CEO who wants to have every family own one.
+
+📺 Aaron Page 
+
+👁️ 45K • 👍 2K • 💬 421 • ⏱️ 13:41 • 1d ago
+
+---
+
+**[Shawn Ryan Tests a Real Humanoid Robot](https://www.youtube.com/watch?v=HWq9cFhTvvQ)**
+
+Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In this clip, we break down how this robot sees, ...
+
+📺 Shawn Ryan Show
+
+👁️ 859K • 👍 33K • 💬 5K • ⏱️ 8:48 • 2d ago
 
 ---
 
@@ -252,15 +246,25 @@ During a recent fan meet-and-greet at Disneyland Paris, Olaf the snowman froze u
 
 📺 TODAY
 
-👁️ 11K • 👍 160 • 💬 24 • ⏱️ 1:20 • 1d ago
+👁️ 11K • 👍 167 • 💬 25 • ⏱️ 1:20 • 1d ago
 
 ---
 
-**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=2hTTd9-A5Jw)**
+**[Skyfood, the Robot as a Service 🤖#robotics #robot #furry #startup #engineering](https://www.youtube.com/watch?v=x14HZyTQ1z4)**
 
-📺 zhulongfeng 6
+📺 Confusion & Mekhy
 
-👁️ 30K • 👍 133 • 💬 2 • ⏱️ 0:22 • 2d ago
+👁️ 785 • 👍 37 • 💬 20 • ⏱️ 2:03 • 9h ago
+
+---
+
+**[The Coolest Robot on the Planet 🤯](https://www.youtube.com/watch?v=t37TaaFsHDM)**
+
+Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join Support the Shawn ...
+
+📺 Shawn Ryan Show
+
+👁️ 939K • 👍 21K • 💬 2K • ⏱️ 0:44 • 3d ago
 
 ---
 
@@ -274,13 +278,13 @@ All titles are now streaming on @disneyplus ▻ SUBSCRIBE to the channel to get 
 
 ---
 
-**[Brett Adcock - Shawn Ryan’s First Interview with a Robot | SRS #292](https://www.youtube.com/watch?v=99pOdGEGu6s)**
+**[Amazon’s Robot Plan Just Got Bigger](https://www.youtube.com/watch?v=Cdv4BDQp7uQ)**
 
-Brett Adcock is a technology entrepreneur focused on building companies in robotics, artificial intelligence, and aerospace.
+Amazon just added humanoid robots to its stack. Warehouses are about to look very different...
 
-📺 Shawn Ryan Show
+📺 Scott Simson
 
-👁️ 499K • 👍 10K • 💬 3K • ⏱️ 2:57:09 • 4d ago
+👁️ 20K • 👍 2K • 💬 37 • ⏱️ 0:37 • 4d ago
 
 ---
 
