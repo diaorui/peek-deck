@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-04T12:58:33.127458+00:00'
+updated: '2026-04-04T13:56:44.755595+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - news
 - cryptocurrency
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 04, 2026 at 12:58 UTC  
+**Last Updated:** April 04, 2026 at 13:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $247.65B
+**Market Cap:** $247.59B
 Rank #2
 
 **Circulating Supply:** 120,691,261 ETH
@@ -62,7 +62,7 @@ No max supply
 -58.5%
 
 **All-Time Low:** $0.43
-+473747.5%
++473664.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/ylRbyff4xKs) • 18h ago
+🔗 [youtu.be](https://youtu.be/ylRbyff4xKs) • 19h ago
 
 ---
 
@@ -96,7 +96,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Why are we still copy-pasting 40-character wallet addresses in 2026? Idea: you do a small test transfer once → both wallets get a shared avatar/character. Next time you send, you just recognize the person visually instead of relying on the address. Kind of like “pairing” wallets. Would this actually reduce mistakes or scams, or is this unnecessary given things like ENS?
 
-17h ago
+18h ago
 
 ---
 
@@ -118,13 +118,13 @@ People ask this a lot and most answers are either too optimistic or outdated. He
 
 **[They'd never heard of ETH. They described it anyway. I didn't discover Ethereum in a whitepaper. I recognised it. In lectures thirty years old. In voices I still hear.](https://www.reddit.com/r/ethereum/comments/1sbnqtg/theyd_never_heard_of_eth_they_described_it_anyway/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Is the "Quantum Apocalypse" coming early for ethereum?](https://www.reddit.com/r/ethereum/comments/1sbgp8o/is_the_quantum_apocalypse_coming_early_for/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -150,7 +150,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 As investors search for "the next Ethereum," this top cryptocurrency is worth a closer look.
 
-fool.com • 9h ago
+fool.com • 10h ago
 
 ---
 
@@ -158,7 +158,7 @@ fool.com • 9h ago
 
 Financial giant Charles Schwab is set to launch spot buying of Bitcoin and Ethereum by the end of the quarter, the firm said Friday.
 
-Decrypt • 15h ago
+Decrypt • 16h ago
 
 ---
 
@@ -166,7 +166,7 @@ Decrypt • 15h ago
 
 The foundation’s latest staking allocation mirrors its biggest-ever single-day move and is a major step-up from its initial February deployment.
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -182,7 +182,7 @@ Yahoo Finance • 1d ago
 
 Naoris debuts its quantum-resistant mainnet, which uses algorithms approved by the U.S. National Institute of Standards and Technology.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -190,7 +190,7 @@ CoinDesk • 23h ago
 
 Ethereum could outpace Bitcoin by a wide margin over the next four years — at least according to one of the most bullish forecasts to come out of traditional banking. That is the view from Geoff Kendrick, Global Head of Digital Assets Research at Standard Chartered, who laid out the projection in a…
 
-TradingView • 10h ago
+TradingView • 11h ago
 
 ---
 
@@ -204,13 +204,13 @@ Polymarket • 3d ago
 
 **[Should you forget Ethereum and buy this cryptocurrency instead?](https://www.msn.com/en-us/money/topstocks/should-you-forget-ethereum-and-buy-this-cryptocurrency-instead/ar-AA207dA0?ocid=finance-verthp-feeds)**
 
-MSN • 5h ago
+MSN • 6h ago
 
 ---
 
 **[Ethereum Bears Rule the Chart, but 21Shares’ TETH Attracts a Wave of Contrarian Cash](https://www.tipranks.com/news/cryptocurrencies/ethereum-bears-rule-the-chart-but-21shares-teth-attracts-a-wave-of-contrarian-cash)**
 
-TipRanks • 21h ago
+TipRanks • 22h ago
 
 ---
 
@@ -218,7 +218,7 @@ TipRanks • 21h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 23h ago
+Fortune • 1d ago
 
 ---
 
@@ -226,43 +226,13 @@ Fortune • 23h ago
 
 ## YouTube Videos: "ethereum"
 
-**[$12 Trillion Charles Schwab Set To Launch Bitcoin &amp; Ethereum Trading — Huge News For Crypto Now](https://www.youtube.com/watch?v=m0LcanHMDPA)**
+**[XRP BITCOIN ETHEREUM HOLDERS ‼️ WAIT!!!](https://www.youtube.com/watch?v=z23UhPfuDgQ)**
 
-IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
+1️⃣ *Get Moe's Indicator Today + Discord (Code BREAD 10% OFF EARNER PLUS)* ...
 
-📺 The Kenzo Guy
+📺 Stock Moe
 
-👁️ 2K • 👍 197 • 💬 10 • ⏱️ 27:08 • 14h ago
-
----
-
-**[The EXACT Ethereum Signal That Called a 389% Profit Opportunity](https://www.youtube.com/watch?v=CRMSt4b9pXI)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 377 • 👍 13 • 💬 2 • ⏱️ 4:56 • 19h ago
-
----
-
-**[BUY BUY BUY BUY !!!!!!!!](https://www.youtube.com/watch?v=Yt0nxQCJwEY)**
-
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXCarlMoonFerrari Net ...
-
-📺 The Moon Show
-
-👁️ 12K • 👍 1K • 💬 56 • ⏱️ 4:25 • 1d ago
-
----
-
-**[☠️ Ethereum on the Edge](https://www.youtube.com/watch?v=sQgrv7CeJq8)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 2K • 👍 113 • 💬 46 • ⏱️ 10:32 • 1d ago
+👁️ 2K • 👍 330 • 💬 51 • ⏱️ 11:56 • 1h ago
 
 ---
 
@@ -272,17 +242,57 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 259 • 💬 13 • ⏱️ 8:31 • 18h ago
+👁️ 4K • 👍 265 • 💬 13 • ⏱️ 8:31 • 19h ago
 
 ---
 
-**[Altcoins About to Explode Because of This #crypto #bitcoin #ethereum](https://www.youtube.com/watch?v=SA5CxRXt7zU)**
+**[$12 Trillion Charles Schwab Set To Launch Bitcoin &amp; Ethereum Trading — Huge News For Crypto Now](https://www.youtube.com/watch?v=m0LcanHMDPA)**
 
-Big news in the financial world today! Charles Schwab, a major financial platform, is gearing up to offer Bitcoin and Ethereum ...
+IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
 
-📺 Myles G Investments
+📺 The Kenzo Guy
 
-👁️ 1K • 👍 42 • 💬 28 • ⏱️ 0:55 • 12h ago
+👁️ 2K • 👍 205 • 💬 10 • ⏱️ 27:08 • 15h ago
+
+---
+
+**[Ethereum: Next Downside Targets](https://www.youtube.com/watch?v=I2nAm6vJNtE)**
+
+In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
+
+📺 More Crypto Online
+
+👁️ 563 • 👍 62 • 💬 6 • ⏱️ 10:14 • 54m ago
+
+---
+
+**[☠️ Ethereum on the Edge](https://www.youtube.com/watch?v=sQgrv7CeJq8)**
+
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 2K • 👍 114 • 💬 46 • ⏱️ 10:32 • 1d ago
+
+---
+
+**[BUY BUY BUY BUY !!!!!!!!](https://www.youtube.com/watch?v=Yt0nxQCJwEY)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXCarlMoonFerrari Net ...
+
+📺 The Moon Show
+
+👁️ 13K • 👍 1K • 💬 56 • ⏱️ 4:25 • 1d ago
+
+---
+
+**[MAJOR VOLATILITY INCOMING!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=olt2fgU1RGc)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 60 • 👍 4 • 💬 5 • ⏱️ 4:43 • 3h ago
 
 ---
 
@@ -296,33 +306,23 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEE
 
 ---
 
-**[🍞 Yummy Update: CRYPTO NEWS, US Job Report, Ethereum Hatred, Bitcoin Maxis,](https://www.youtube.com/watch?v=eH5SpjPM0vM)**
+**[Ethereum Crash Incoming? Bear Market Bottom Explained | ETH to $1000?](https://www.youtube.com/watch?v=eIXQDT2hPGA)**
 
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+For Business Inquiries Contact: cryptoknowledgetamilyt@gmail.com My Twitter handle: https://twitter.com/CKTAjith Join our ...
 
-📺 🌟yourfriendsommi
+📺 Crypto Knowledge Tamil
 
-👁️ 766 • 👍 101 • 💬 9 • ⏱️ 10:15 • 10h ago
-
----
-
-**[BITCOIN &amp; CRYPTO WARNING SIGNAL FLASHING NOW!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=IgnVxZXqvSI)**
-
-BITCOIN & CRYPTO WARNING SIGNAL FLASHING NOW!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 182 • 💬 312 • ⏱️ 14:24 • 12h ago
+👁️ 81 • 💬 2 • ⏱️ 13:36 • 34m ago
 
 ---
 
-**[WHEN EVERYONE HATES BITCOIN &amp; ETH ITS TIME TO BUY](https://www.youtube.com/watch?v=n9SlojULsb0)**
+**[The EXACT Ethereum Signal That Called a 389% Profit Opportunity](https://www.youtube.com/watch?v=CRMSt4b9pXI)**
 
-In today's video I break down Bitcoin, Ethereum, stocks, oil, gold, and silver, including the key levels, setups, and risk management ...
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
 
-📺 James Crypto Guru
+📺 Trade Confident
 
-👁️ 1K • 👍 130 • 💬 14 • ⏱️ 8:45 • 13h ago
+👁️ 377 • 👍 13 • 💬 2 • ⏱️ 4:56 • 20h ago
 
 ---
 

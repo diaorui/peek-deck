@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-04T12:58:33.113158+00:00'
+updated: '2026-04-04T13:56:44.741112+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
 - repositories
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 04, 2026 at 12:58 UTC  
+**Last Updated:** April 04, 2026 at 13:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[OpenAI CEO Sam Altman accused of sexual abuse by family member](https://www.reddit.com/r/artificial/comments/1sc3kpj/openai_ceo_sam_altman_accused_of_sexual_abuse_by/)**
 
-🔗 [The Independent](https://www.independent.co.uk/bulletin/news/sam-altman-lawsuit-abuse-sexual-assault-sister-annie-b2950929.html) • 4h ago
+🔗 [The Independent](https://www.independent.co.uk/bulletin/news/sam-altman-lawsuit-abuse-sexual-assault-sister-annie-b2950929.html) • 5h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 My friend came over yesterday to dye her hair. She had asked ChatGPT for the 'correct' way to do it. Chat told her to dye the ends first, wait about 20 minutes, and then do the roots. Because of my own experience with dyeing my hair, that made me sceptical, so I read the instructions in the box dye package. It specifically said to mix it and apply everything all at once. That's how this particular formula is designed to work. I read the instructions on the package out loud and told her we should just follow what the manufacturer says. She got visibly stressed and told me that 'ChatGPT said to do it differently'. I pointed out that the company who made the dye probably knows how their own product is supposed to be applied. She still got visibly anxious about going against what ChatGPT told her to do. It was such a weird moment. She was genuinely stressed about ignoring the AI even though the real instructions were right there in her hands. Has anybody had similar experiences?
 
-5h ago
+6h ago
 
 ---
 
@@ -55,7 +55,7 @@ My friend came over yesterday to dye her hair. She had asked ChatGPT for the 'co
 
 The offering is expected to be the largest in history.
 
-🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/elon-musk-requires-banks-behind-185412887.html) • 10h ago
+🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/elon-musk-requires-banks-behind-185412887.html) • 11h ago
 
 ---
 
@@ -63,7 +63,7 @@ The offering is expected to be the largest in history.
 
 : Staff reportedly cite ethics concerns, privacy worries, and doubt the platform adds much
 
-🔗 [theregister.com](https://www.theregister.com/2026/04/03/nhs_staff_against_palantir/) • 12h ago
+🔗 [theregister.com](https://www.theregister.com/2026/04/03/nhs_staff_against_palantir/) • 13h ago
 
 ---
 
@@ -77,7 +77,7 @@ The offering is expected to be the largest in history.
 
 Hey everyone I've set up a self-hosted API gateway using [New-API](QuantumNous/new-ap) to manage and distribute Claude Opus 4.6 access across multiple users. I have more capacity than I personally need right now, so I'm opening it up to a handful of people at 40% below official Anthropic pricing. What you get: - Claude Opus 4.6 full model, no degradation - Usage-based billing pay only for what you consume - Your own API key via the gateway dashboard - No subscription, no minimum spend, no lock-in Why 40% off? I'm not running this as a business. I have spare capacity, I want to offset my infrastructure costs, and if a few people benefit from cheaper Opus access along the way, that's a win for everyone. Free trial judge it yourself: DM me and I'll send you a $5 free credit coupon + a quick setup guide. Swap your API base URL, drop in your key, and you're running in under 5 minutes. Test the speed and quality yourself — if it works for you, top and keep going. If not, no pressure. Slots are limited since this is a personal setup, not a startup. Once capacity fills up I'll stop accepting new users. Drop a comment or DM if interested.
 
-20m ago
+1h ago
 
 ---
 
@@ -85,7 +85,7 @@ Hey everyone I've set up a self-hosted API gateway using [New-API](QuantumNous/n
 
 idk if it’s just me but lately i’ve been thinking about how casually we use stuff like chatgpt and claude for everything like coding, random ideas, sometimes even personal things and i don’t think most of us really know what happens to that data after we send it we just kind of assume it’s fine because the tools are useful also saw some discussion recently about AI companies and governments asking for user data (not sure how accurate it was), but it kind of made me think more about this whole thing i’m not saying anything bad is happening, just feels like we’ve gotten comfortable really fast without thinking much about it do you guys filter what you share or just use it normally?
 
-16h ago
+17h ago
 
 ---
 
@@ -93,7 +93,7 @@ idk if it’s just me but lately i’ve been thinking about how casually we use 
 
 I keep seeing people focus heavily on prompt optimization. But in practice, a lot of failures I’ve observed don’t come from the prompt itself. They show up at the transition point where: model output → real-world action Examples: - outputs that are correct in isolation but wrong in context - timing mismatches (right decision, wrong moment) - differences between environments (test vs live) - small context gaps that compound into bad outcomes The pattern seems consistent: improving prompt quality doesn’t solve these failures. Because the issue isn’t generation — it’s what happens when outputs are interpreted, trusted, and acted on. Curious how others here think about this layer, especially in deployed systems..
 
-6h ago
+7h ago
 
 ---
 
@@ -101,7 +101,7 @@ I keep seeing people focus heavily on prompt optimization. But in practice, a lo
 
 Advice from the study's co-author: "Be aware that it’s not any single post that identifies you, but the combination of small details across many posts. And consider never posting anything you truly don’t want shared with the world.”
 
-🔗 [wjamesau.substack.com](https://wjamesau.substack.com/p/warning-llms-able-to-de-anonymize) • 17h ago
+🔗 [wjamesau.substack.com](https://wjamesau.substack.com/p/warning-llms-able-to-de-anonymize) • 18h ago
 
 ---
 
@@ -109,7 +109,7 @@ Advice from the study's co-author: "Be aware that it’s not any single post tha
 
 I’ve been digging into AI security incident data from 2025 into this year, and it feels like something isn’t being talked about enough outside security circles. A lot of the issues aren’t advanced attacks. It’s the same pattern we’ve seen with new tech before. Things like prompt injection through external data, agents with too many permissions, or employees using AI tools the company doesn’t even know about. One stat I saw said enterprises are averaging 300+ unsanctioned AI apps, which is kind of wild. The incident data reflects that. Prompt injection is showing up in a large percentage of production deployments. There’s also been a noticeable increase in attacks exploiting basic gaps, partly because AI is making it easier for attackers to find weaknesses faster. Even credential leaks tied to AI usage have been increasing. What stood out to me isn’t just the attacks, it’s the gap underneath it. Only a small portion of companies actually have dedicated AI security teams. In many cases, AI security isn’t even owned by security teams. The tricky part is that traditional security knowledge only gets you part of the way. Some concepts carry over, like input validation or trust boundaries, but the details are different enough that your usual instincts don’t fully apply. Prompt injection isn’t the same as SQL injection. Agent permissions don’t behave like typical API auth. There are frameworks trying to catch up. OWASP now has lists for LLMs and agent-based systems. MITRE ATLAS maps AI-specific attack techniques. NIST has an AI risk framework. The guidance exists, but the number of people who can actually apply it feels limited. I’ve been trying to build that knowledge myself and found that more hands-on learning helps a lot more than just reading docs. Curious how others here are approaching this. If you’re building or working with AI systems, are you thinking about security upfront or mostly dealing with it after things are already live? Sources for those interested: AI Agent Security 2026 Report IBM 2026 X-Force Threat Index Adversa AI Security Incidents Report 2025 Acuvity State of AI Security 2025 OWASP Top 10 for LLM Applications OWASP Top 10 for Agentic AI MITRE ATLAS Framework
 
-21h ago
+22h ago
 
 ---
 
@@ -121,7 +121,7 @@ I’ve been digging into AI security incident data from 2025 into this year, and
 
 Here's how AI-powered tutoring tools can democratize education for underserved communities in America, giving all children personalized access to elite-level academics.
 
-Fox News • 1h ago
+Fox News • 2h ago
 
 ---
 
@@ -135,7 +135,7 @@ The New York Times • 1d ago
 
 In dominating consumer devices, Apple sold users on the promise of privacy. To compete in AI, it may have to pivot.
 
-CNBC • 58m ago
+CNBC • 1h ago
 
 ---
 
@@ -143,7 +143,7 @@ CNBC • 58m ago
 
 As more college students use AI for classroom discussions, some students admit they’re starting to sound alike. Teachers say they’re also getting less creative.
 
-CNN • 2h ago
+CNN • 3h ago
 
 ---
 
@@ -157,13 +157,13 @@ Axios • 1h ago
 
 As AI reshapes white-collar work, new research shows that some of the most popular graduate degrees are actually leaving holders worse off financially.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
 **[AI is rewiring the world’s most prolific film industry](https://www.reuters.com/technology/ai-is-rewiring-worlds-most-prolific-film-industry-2026-04-04/)**
 
-Reuters • 7h ago
+Reuters • 8h ago
 
 ---
 
@@ -171,13 +171,13 @@ Reuters • 7h ago
 
 How close are we really to self-improving AI?
 
-The Atlantic • 19h ago
+The Atlantic • 20h ago
 
 ---
 
 **[Why You Should Wait Out AI’s Super-Spending False Start](https://www.bloomberg.com/news/newsletters/2026-04-04/waiting-out-ai-s-super-spending-false-start-merryn-talks-money)**
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -227,7 +227,7 @@ Meta is continuing its long-term roadmap to help the construction industry lever
 
 Experiments show large majorities uncritically accepting "faulty" AI answers.
 
-⬆️ 79 • 💬 35 • 15h ago • [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/)
+⬆️ 79 • 💬 35 • 16h ago • [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/)
 
 ---
 
@@ -247,7 +247,7 @@ Experiments show large majorities uncritically accepting "faulty" AI answers.
 
 AI-powered travel hacking with points, miles, and award flights. Drop-in skills and MCP servers for OpenCode and Claude Code. - borski/travel-hacking-toolkit
 
-⬆️ 75 • 💬 35 • 10h ago • [GitHub](https://github.com/borski/travel-hacking-toolkit)
+⬆️ 75 • 💬 35 • 11h ago • [GitHub](https://github.com/borski/travel-hacking-toolkit)
 
 ---
 
@@ -263,7 +263,7 @@ More open-source developers are finding that, when used properly, AI can actuall
 
 Hi! If you like this piece and want to support my independent reporting and analysis, why not subscribe to my premium newsletter? It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words,
 
-⬆️ 49 • 💬 21 • 14h ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/)
+⬆️ 49 • 💬 21 • 15h ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/)
 
 ---
 
@@ -277,17 +277,7 @@ Discover the mind‑bending response Grok AI gave when asked one of humanity's b
 
 📺 Luminox
 
-👁️ 61K • 👍 2K • 💬 306 • ⏱️ 21:36 • 2d ago
-
----
-
-**[Liquid River Cascade 🌊💧✨ (Part 1) AI ASMR | Endless Flow &amp; Pure Relax Energy 🌀💫](https://www.youtube.com/watch?v=uLEBB9HDoFI)**
-
-Welcome to Part 1 of Liquid River Cascade ✨   This place doesn't follow nature. It flows… differently. No wind. No sound.
-
-📺 Satisfyra ASMR
-
-👁️ 62K • 👍 4K • 💬 320 • ⏱️ 8:15 • 1d ago
+👁️ 62K • 👍 2K • 💬 311 • ⏱️ 21:36 • 2d ago
 
 ---
 
@@ -297,7 +287,17 @@ Anthropic is testing Claude Conway, a strange new AI system that looks less like
 
 📺 AI Revolution
 
-👁️ 58K • 👍 1K • 💬 79 • ⏱️ 10:50 • 1d ago
+👁️ 59K • 👍 1K • 💬 81 • ⏱️ 10:50 • 1d ago
+
+---
+
+**[Liquid River Cascade 🌊💧✨ (Part 1) AI ASMR | Endless Flow &amp; Pure Relax Energy 🌀💫](https://www.youtube.com/watch?v=uLEBB9HDoFI)**
+
+Welcome to Part 1 of Liquid River Cascade ✨   This place doesn't follow nature. It flows… differently. No wind. No sound.
+
+📺 Satisfyra ASMR
+
+👁️ 65K • 👍 4K • 💬 320 • ⏱️ 8:15 • 1d ago
 
 ---
 
@@ -307,7 +307,7 @@ Here's the AI News you probably missed this week. Try Recraft V4 now and experie
 
 📺 Matt Wolfe
 
-👁️ 51K • 👍 2K • 💬 187 • ⏱️ 31:05 • 21h ago
+👁️ 54K • 👍 2K • 💬 191 • ⏱️ 31:05 • 22h ago
 
 ---
 
@@ -317,17 +317,7 @@ Asking ChatGPT about pi was the worst mistake he ever made. Become a member on Y
 
 📺 Mo Bitar
 
-👁️ 100K • 👍 8K • 💬 1K • ⏱️ 6:33 • 1d ago
-
----
-
-**[No, Seriously. AI is REALLY Good at Hacking Now](https://www.youtube.com/watch?v=Nl27jPrXOrE)**
-
-Go see if your company's creds have been compromised @ https://go.lowlevel.tv/flare2026 ...
-
-📺 Low Level
-
-👁️ 142K • 👍 6K • 💬 395 • ⏱️ 9:44 • 2d ago
+👁️ 104K • 👍 8K • 💬 1K • ⏱️ 6:33 • 1d ago
 
 ---
 
@@ -337,7 +327,17 @@ The results are in! Welcome to the finale of Jay vs AI vs Salesman build challen
 
 📺 JayzTwoCents
 
-👁️ 141K • 👍 9K • 💬 1K • ⏱️ 28:22 • 1d ago
+👁️ 142K • 👍 9K • 💬 1K • ⏱️ 28:22 • 1d ago
+
+---
+
+**[Why I Switched From ChatGPT to Claude (without losing anything)](https://www.youtube.com/watch?v=XRU-CjzYt_o)**
+
+Get your FREE AI Prompt Cheatsheet here: https://go.danmartell.com/484Q7tK Are you building an AI software company?
+
+📺 Dan Martell
+
+👁️ 167K • 👍 7K • 💬 664 • ⏱️ 16:07 • 2d ago
 
 ---
 
@@ -347,7 +347,7 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Sambucha
 
-👁️ 739K • 👍 49K • 💬 428 • ⏱️ 0:53 • 19h ago
+👁️ 785K • 👍 55K • 💬 460 • ⏱️ 0:53 • 20h ago
 
 ---
 
@@ -357,17 +357,17 @@ Krystal and Saagar discuss the AI bubble imploding. Sign up for a PREMIUM Breaki
 
 📺 Breaking Points
 
-👁️ 332K • 👍 10K • 💬 2K • ⏱️ 13:15 • 1d ago
+👁️ 336K • 👍 10K • 💬 2K • ⏱️ 13:15 • 1d ago
 
 ---
 
-**[Are humans useless in the AI workspace? | BBC News](https://www.youtube.com/watch?v=6zAgTga9kZw)**
+**[AI Played A War Game. It NUKED Everyone](https://www.youtube.com/watch?v=gV4csF-_yUg)**
 
-AI Decoded explores how artificial intelligence is reshaping the future of work — asking whether jobs will disappear or be ...
+What happens when machines are put in charge of war? A chilling experiment placed advanced AI models in control of nuclear ...
 
-📺 BBC News
+📺 The Infographics Show
 
-👁️ 23K • 👍 618 • 💬 133 • ⏱️ 26:12 • 23h ago
+👁️ 181K • 👍 5K • 💬 1K • ⏱️ 16:40 • 1d ago
 
 ---
 
@@ -383,7 +383,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 524,224 • ❤️ 2,259 • 11d ago
+⬇️ 524,224 • ❤️ 2,268 • 11d ago
 
 ---
 
@@ -395,7 +395,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 287,440 • ❤️ 762 • 2d ago
+⬇️ 287,440 • ❤️ 774 • 2d ago
 
 ---
 
@@ -407,7 +407,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 96,615 • ❤️ 771 • 1d ago
+⬇️ 96,615 • ❤️ 773 • 1d ago
 
 ---
 
@@ -419,7 +419,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 36,635 • ❤️ 908 • 8d ago
+⬇️ 36,635 • ❤️ 909 • 9d ago
 
 ---
 
@@ -431,7 +431,7 @@ Bonsai-8B-GGUF is a highly compressed 1-bit language model (1.15 GB) optimized f
 
 `text-generation` `8.2B`
 
-⬇️ 32,930 • ❤️ 373 • 4d ago
+⬇️ 32,930 • ❤️ 377 • 4d ago
 
 ---
 
@@ -443,7 +443,7 @@ Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing te
 
 `image-text-to-text` `26.5B`
 
-⬇️ 133,224 • ❤️ 323 • 2d ago
+⬇️ 133,224 • ❤️ 331 • 2d ago
 
 ---
 
@@ -455,7 +455,7 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 `text-to-speech`
 
-⬇️ 5,096 • ❤️ 653 • 3d ago
+⬇️ 5,096 • ❤️ 655 • 4d ago
 
 ---
 
@@ -467,19 +467,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 241,087 • ❤️ 497 • 10d ago
-
----
-
-**[Qwen3.5-9B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive)**
-
-*HauHau*
-
-This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring aggressive refusal removal and native support for text, image, and video inputs up to 262K context. It's designed for lossless generation across 201 languages, suitable for advanced creative and analytical tasks where content restrictions are undesirable.
-
-`9.0B`
-
-⬇️ 715,586 • ❤️ 958 • 1mo ago
+⬇️ 241,087 • ❤️ 498 • 10d ago
 
 ---
 
@@ -491,7 +479,19 @@ Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, support
 
 `any-to-any` `8.0B`
 
-⬇️ 108,261 • ❤️ 273 • 2d ago
+⬇️ 108,261 • ❤️ 284 • 2d ago
+
+---
+
+**[Qwen3.5-9B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive)**
+
+*HauHau*
+
+This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring aggressive refusal removal and native support for text, image, and video inputs up to 262K context. It's designed for lossless generation across 201 languages, suitable for advanced creative and analytical tasks where content restrictions are undesirable.
+
+`9.0B`
+
+⬇️ 715,586 • ❤️ 960 • 1mo ago
 
 ---
 
@@ -507,7 +507,7 @@ Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, support
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 150 • 💬 7 • ⭐ 35,720 • 7mo ago
+▲ 150 • 💬 7 • ⭐ 35,908 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -519,7 +519,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 18 • 💬 1 • ⭐ 14,151 • 30mo ago
+▲ 18 • 💬 1 • ⭐ 14,465 • 30mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
@@ -545,7 +545,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 VOID is a video object removal framework that uses vision-language models and video diffusion models to generate physically plausible scenes by leveraging causal reasoning and counterfactual reasoning.
 
-▲ 18 • 💬 3 • ⭐ 326 • 2d ago
+▲ 19 • 💬 5 • ⭐ 406 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.02296) • [💻 code](https://github.com/Netflix/void-model) • [🔗 project](https://void-model.github.io/)
 
@@ -559,7 +559,7 @@ VOID is a video object removal framework that uses vision-language models and vi
 
 A large-scale dynamic dataset derived from AAA games is introduced to improve generative inverse and forward rendering, featuring high-resolution synchronized RGB and G-buffer data alongside a novel VLM-based evaluation method that correlates well with human judgment.
 
-▲ 79 • 💬 3 • ⭐ 182 • 2d ago
+▲ 81 • 💬 3 • ⭐ 182 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.02329) • [💻 code](https://github.com/ShandaAI/AlayaRenderer) • [🔗 project](https://alaya-studio.github.io/renderer)
 
@@ -571,7 +571,7 @@ A large-scale dynamic dataset derived from AAA games is introduced to improve ge
 
 LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
 
-▲ 37 • 💬 2 • ⭐ 31,910 • 18mo ago
+▲ 37 • 💬 2 • ⭐ 32,006 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
@@ -598,7 +598,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 The AI Scientist-v2 autonomously proposes hypotheses, performs experiments, analyzes data, and writes peer-reviewed scientific papers, marking the first fully AI-generated paper accepted by a conference.
 
-▲ 21 • 💬 4 • ⭐ 4,671 • 11mo ago
+▲ 21 • 💬 4 • ⭐ 4,751 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.08066) • [💻 code](https://github.com/SakanaAI/AI-Scientist-v2)
 
@@ -639,7 +639,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 65.3k • 🔱 9.3k • 9d ago
+⭐ 65.4k • 🔱 9.3k • 9d ago
 
 ---
 
@@ -649,7 +649,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 15.0k • 🔱 831 • 4d ago
+⭐ 15.0k • 🔱 832 • 4d ago
 
 ---
 
@@ -659,7 +659,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 12.8k • 🔱 1.1k • 2h ago
+⭐ 12.9k • 🔱 1.2k • 24m ago
 
 ---
 
@@ -669,7 +669,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 8.4k • 🔱 1.3k • 20h ago
+⭐ 8.4k • 🔱 1.3k • 21h ago
 
 ---
 
@@ -679,7 +679,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 7.5k • 🔱 984 • 5d ago
+⭐ 7.5k • 🔱 995 • 5d ago
 
 ---
 
@@ -689,7 +689,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.6k • 🔱 376 • 5h ago
+⭐ 6.6k • 🔱 380 • 6h ago
 
 ---
 
@@ -699,7 +699,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.0k • 🔱 1.5k • 4h ago
+⭐ 5.0k • 🔱 1.5k • 5h ago
 
 ---
 
@@ -709,7 +709,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `claude-ai` `claude-skills` `llm` `prompt-engineering`
 
-⭐ 4.5k • 🔱 436 • 4d ago
+⭐ 4.5k • 🔱 437 • 4d ago
 
 ---
 
@@ -719,7 +719,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
 
-⭐ 3.8k • 🔱 650 • 1d ago
+⭐ 3.8k • 🔱 652 • 1d ago
 
 ---
 

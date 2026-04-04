@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-04T12:58:33.130617+00:00'
+updated: '2026-04-04T13:56:44.758774+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 04, 2026 at 12:58 UTC  
+**Last Updated:** April 04, 2026 at 13:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I analyzed every public LeRobot dataset on HuggingFace. Almost half would fail training. Got tired of burning GPU hours on data that looked fine but trained terribly. So I wrote something to check datasets before training — grades A through F based on dead joints, action divergence, episode consistency, etc. Ran it across 45+ public datasets. Some findings: 42% actually ready to train 35% have critical issues (dead servos, contradictory demos) Action divergence is the single biggest predictor of training failure Several high-download datasets have problems nobody's flagged 50 consistent demos reliably beats 200 sloppy ones The thing that surprised me most: datasets with high action divergence (demonstrator doing different things in the same state) fail even with Diffusion Policy. You basically need to filter to one strategy or the policy just averages them into mush. Anyone else checking their data quality before training, or just yolo-ing it?
 
-2h ago
+3h ago
 
 ---
 
@@ -58,7 +58,7 @@ Appreciate all the feedback and love on the recent videos, here's another clip o
 
 If human demonstration data proves to be the underlying factor that determines scaling laws in general-purpose robotics, the infrastructure that captures that data will determine how fast we get there. Despite all the research novelty in ChatGPT, its success at its core can be attributed to one foundational fact - the scaling law of transformers. Have transformers made their way into robotics and are we seeing similar scaling laws? The answer is yes. Recent studies showed task completion rates jumping from 30% to 70% when human demonstration data scaled from 1,000 to 20,000 hours — a log-linear trend that mirrors exactly what we saw in language and vision. Labs are racing to train generalist policies - a robot brain that can solve any task under any embodiment. But the library of physical interactions required to train these policies doesn’t exist yet. Solving this data bottleneck is one of the most important problems for the next few years. We’ve seen dozens of companies emerge in this space and noticed the same pattern repeat: every egocentric data company makes tradeoffs between quality, scale, and diversity. I have been working at FPV Labs on the principle that high-quality data is orders of magnitude more valuable than sheer volume. Self-driving cars collect thousands of hours per day, but only a small fraction is useful for training. Studies like RT-2 showed that as little as 1% of data improves task success by 25%. There’s clearly a power law in the downstream impact of data. We spent months obsessing over data quality - building our stack, discarding it, rebuilding it, and iterating until we found a formula that doesn’t compromise quality at scale and laying the infrastructure rails as we embark into this future. We are excited to be building what we think of is the infra layer for the internet archive of data for our robotic companions of the future. Happy to answer questions about our hardware, data methodology, or what we’ve learned so far. fpvlabs.ai
 
-20h ago
+21h ago
 
 ---
 
@@ -66,7 +66,7 @@ If human demonstration data proves to be the underlying factor that determines s
 
 l find that RoboBaton mini is good to use. I was originally planning to use Intel's T265, but discovered it had been discontinued. I found RoboBaton Mini on myrobotproject's website. I successfully got it working with my Raspberry Pi. I will open-source the code on GitHub later. I hope everyone can connect with me to discuss and explore other use cases for the Mini.
 
-23h ago
+1d ago
 
 ---
 
@@ -74,7 +74,7 @@ l find that RoboBaton mini is good to use. I was originally planning to use Inte
 
 Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 that I've been building. The feedback was really helpful, and I've been heads-down since then working on one of the biggest feature of the framework: Variants and flavors (the ability to define a single communication interface for different pieces of code). The goal hasn't changed: someone new should be able to pick this up and have nodes communicating in about half an hour. I'd love to hear what you think, especially from people who tried it last time.
 
-7h ago
+8h ago
 
 ---
 
@@ -82,7 +82,7 @@ Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 t
 
 Read all of the ROS news on Open Robotics Discourse. Picture is the Innate.bot MARS robot. They're running a hackathon at YCombinator next Saturday.
 
-17h ago
+18h ago
 
 ---
 
@@ -96,7 +96,7 @@ Read all of the ROS news on Open Robotics Discourse. Picture is the Innate.bot M
 
 i need y'all to give me suggestions for the battery part im having two 6v n20 600rpm motors and also the battery is connected to the buck which powers the esp32 the sensors are powered from the esp32 3.3v all the things are working perfectly just the prblm im facing is o hVe 7.4v lipo battery but its too big and bulky for this size and makes it heavier too so can you suggest some batteries (rechargeable) 7.4v thats smaller and compact in size to fit on the upper part (where my thumb is placed)
 
-21h ago
+22h ago
 
 ---
 
@@ -114,7 +114,7 @@ i need y'all to give me suggestions for the battery part im having two 6v n20 60
 
 Anvil Robotics, an eight-month-old startup that aims to be the “Legos for robots,” has raised $5.5 million in a seed funding round, it tells Crunchbase News exclusively.
 
-Crunchbase News • 1d ago
+Crunchbase News • 2d ago
 
 ---
 
@@ -142,7 +142,7 @@ IEEE Spectrum • 1d ago
 
 Spacesuit work and eye checks wrapped up the week for the Expedition 74 crew aboard the International Space Station. The orbital residents also focused on robotics, cargo transfers, and science hardware maintenance at the end of the week.
 
-NASA (.gov) • 16h ago
+NASA (.gov) • 17h ago
 
 ---
 
@@ -158,7 +158,7 @@ Fast Company • 1d ago
 
 US researchers have built air-powered muscles that help robots lift 100 times their weight while staying lightweight and untethered.
 
-Interesting Engineering • 17h ago
+Interesting Engineering • 18h ago
 
 ---
 
@@ -188,13 +188,13 @@ Axios • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[Xiaomi’s New AI Robot Hand Works Like a REAL Human… This Is INSANE](https://www.youtube.com/watch?v=Ubpk3tOl9gw)**
+**[These New AI Robots Just Unlocked NEW ABILITIES… It’s Getting SCARY](https://www.youtube.com/watch?v=OSFSwiIcEIc)**
 
-Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking it's human — and that's just the START of what's ...
+These robots aren't waiting for the future — they're already HERE and doing things we thought were IMPOSSIBLE. From a ...
 
 📺 The AI Nexus
 
-👁️ 4K • 👍 177 • 💬 13 • ⏱️ 20:43 • 3d ago
+👁️ 1K • 👍 65 • 💬 2 • ⏱️ 55:39 • 12h ago
 
 ---
 
@@ -204,35 +204,27 @@ China is leading the world in humanoid robot shipments. Powered by artificial in
 
 📺 CGTN
 
-👁️ 31K • 👍 272 • 💬 57 • ⏱️ 1:54 • 2d ago
+👁️ 32K • 👍 275 • 💬 57 • ⏱️ 1:54 • 2d ago
 
 ---
 
-**[Xiaomi Unveils &quot;Mi Bot&quot; - Robot Assistant That Can Sell Phones](https://www.youtube.com/watch?v=WgxEbw1i_PM)**
+**[Xiaomi’s New AI Robot Hand Works Like a REAL Human… This Is INSANE](https://www.youtube.com/watch?v=Ubpk3tOl9gw)**
 
-Xiaomi is attracting attention with a new concept known as “Mi Bot,” a robotic assistant designed to operate in retail environments ...
+Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking it's human — and that's just the START of what's ...
 
-📺 Carros Show
+📺 The AI Nexus
 
-👁️ 5K • 👍 98 • 💬 3 • ⏱️ 8:55 • 5d ago
-
----
-
-**[Female Robots 🤖 Serving food now 😂](https://www.youtube.com/watch?v=AqxWV9ij4BY)**
-
-📺 Mike Mizzle
-
-👁️ 119K • 👍 4K • 💬 260 • ⏱️ 0:44 • 1d ago
+👁️ 4K • 👍 182 • 💬 13 • ⏱️ 20:43 • 3d ago
 
 ---
 
-**[Fat Jinu Does the Robot Trend 🤯](https://www.youtube.com/watch?v=aXaOgdF9C7U)**
+**[Brett Adcock - Shawn Ryan’s First Interview with a Robot | SRS #292](https://www.youtube.com/watch?v=99pOdGEGu6s)**
 
-rumi #huntrix #kpop #kpopdemonhunters #shorts #celebrity #trend #makeup #mira #zoey #jinu Production Disclosure (Channel: ...
+Brett Adcock is a technology entrepreneur focused on building companies in robotics, artificial intelligence, and aerospace.
 
-📺 Faces of Culture
+📺 Shawn Ryan Show
 
-👁️ 4.2M • 👍 10K • 💬 8 • ⏱️ 0:04 • 2d ago
+👁️ 502K • 👍 10K • 💬 3K • ⏱️ 2:57:09 • 4d ago
 
 ---
 
@@ -242,7 +234,17 @@ Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In t
 
 📺 Shawn Ryan Show
 
-👁️ 873K • 👍 33K • 💬 5K • ⏱️ 8:48 • 2d ago
+👁️ 881K • 👍 34K • 💬 5K • ⏱️ 8:48 • 2d ago
+
+---
+
+**[Engineering the Experience – How Do Robots Work on a Cruise Ship?](https://www.youtube.com/watch?v=AezeHLJedYc)**
+
+How do robots work on a cruise ship? In this episode of Engineering the Experience, Royal Caribbean explores the robotics and ...
+
+📺 Royal Caribbean
+
+👁️ 6K • 👍 186 • 💬 15 • ⏱️ 4:51 • 1d ago
 
 ---
 
@@ -252,27 +254,7 @@ During a recent fan meet-and-greet at Disneyland Paris, Olaf the snowman froze u
 
 📺 TODAY
 
-👁️ 12K • 👍 180 • 💬 28 • ⏱️ 1:20 • 1d ago
-
----
-
-**[Shawn Ryan SHOCKED—They’re Mass-Producing Human Robots… Like iPhones](https://www.youtube.com/watch?v=-mkpQrPb8d0)**
-
-Shawn Ryan comes into direct contact with a humanoid robot and the CEO who wants to have every family own one.
-
-📺 Aaron Page 
-
-👁️ 47K • 👍 2K • 💬 430 • ⏱️ 13:41 • 1d ago
-
----
-
-**[War Robots Most Broken RAVANA Ever!](https://www.youtube.com/watch?v=t67ObSD1yp8)**
-
-War Robots Gameplay: Ravana with Kroko - absolutely OP! My War Robots Creator Link: https://wr.my.games/manni - Code: ...
-
-📺 Manni-Gaming
-
-👁️ 12K • 👍 514 • 💬 78 • ⏱️ 22:06 • 1d ago
+👁️ 13K • 👍 192 • 💬 31 • ⏱️ 1:20 • 1d ago
 
 ---
 
@@ -282,7 +264,27 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCkouj
 
 📺 Shawn Ryan Show
 
-👁️ 942K • 👍 21K • 💬 2K • ⏱️ 0:44 • 3d ago
+👁️ 943K • 👍 22K • 💬 2K • ⏱️ 0:44 • 3d ago
+
+---
+
+**[Xiaomi Unveils &quot;Mi Bot&quot; - Robot Assistant That Can Sell Phones](https://www.youtube.com/watch?v=WgxEbw1i_PM)**
+
+Xiaomi is attracting attention with a new concept known as “Mi Bot,” a robotic assistant designed to operate in retail environments ...
+
+📺 Carros Show
+
+👁️ 5K • 👍 100 • 💬 3 • ⏱️ 8:55 • 5d ago
+
+---
+
+**[WILL ROBOTS REPLACE SURGEONS?](https://www.youtube.com/watch?v=Y5R_kifCp-8)**
+
+AI Expert Karen Hao speaks on whether if AI & Robotics will actually replace surgeons...
+
+📺 The Diary Of A CEO
+
+👁️ 173K • 👍 4K • 💬 266 • ⏱️ 1:14 • 6d ago
 
 ---
 
