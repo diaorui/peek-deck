@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-04T15:33:28.629462+00:00'
+updated: '2026-04-04T16:37:27.300096+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
+- news
 - cryptocurrency
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 04, 2026 at 15:33 UTC  
+**Last Updated:** April 04, 2026 at 16:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** +1.7%  
-**30d:** -1.4%  
-**90d:** -28.6%  
-**1y:** -19.6%  
+**24h:** +0.8%  
+**7d:** +2.0%  
+**30d:** -1.1%  
+**90d:** -28.4%  
+**1y:** -19.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1344.56B
+**Market Cap:** $1348.41B
 Rank #1
 
-**Circulating Supply:** 20,011,293 BTC
+**Circulating Supply:** 20,011,343 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--46.7%
+-46.6%
 
 **All-Time Low:** $67.81
-+98968.0%
++99271.8%
 
 ---
 
@@ -77,11 +77,11 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Daily Discussion, April 04, 2026](https://www.reddit.com/r/Bitcoin/comments/1sc1gw5/daily_discussion_april_04_2026/)**
+**[Is it a good time now to buy bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1scaokp/is_it_a_good_time_now_to_buy_bitcoin/)**
 
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+Hi, Whats your perspective on this?
 
-9h ago
+2h ago
 
 ---
 
@@ -89,7 +89,23 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Hi my father had an Android S20 FE and we cannot figure out his password to get in. We know he had bitcoin from early 2015, any ideas on how to get into it, brute force?
 
-9h ago
+11h ago
+
+---
+
+**[Is it possible to buy cryptocurrencies with a prepaid vanilla gift card? (No KYC preferred)](https://www.reddit.com/r/Bitcoin/comments/1sc7zqr/is_it_possible_to_buy_cryptocurrencies_with_a/)**
+
+Hi, I don't have a bank account and there isn't any ATMs around me I can use to buy cryptocurrencies. I bought a vanilla card online to buy crypto. How can I do so? Thank you.
+
+4h ago
+
+---
+
+**[Daily Discussion, April 04, 2026](https://www.reddit.com/r/Bitcoin/comments/1sc1gw5/daily_discussion_april_04_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+10h ago
 
 ---
 
@@ -97,7 +113,7 @@ Hi my father had an Android S20 FE and we cannot figure out his password to get 
 
 Bitcoin isn’t just about "number go up"—it’s about changing the fundamental architecture of how we fund global conflict. ​For decades, the legacy financial system has allowed governments to engage in endless, "forever" wars through the hidden tax of inflation. When a government can print money at will to fund military expansion, the true cost of war is hidden from the public, devaluing our savings and our future in the process. BITCOIN FIXES THIS! By operating on a fixed supply of 21 million, Bitcoin removes the "money printer" as a primary funding source for war. In a hard-money world, governments have to be honest about their budgets. They can’t just dilute the currency to bankroll destruction; they have to ask the people for taxes, making the cost of conflict transparent and immediate. It’s time to move toward a system that incentivizes production and peace over debt and destruction. Bitcoin is the separation of money and state, and it might be our best shot at ending the cycle of endless war.
 
-14h ago
+15h ago
 
 ---
 
@@ -105,7 +121,7 @@ Bitcoin isn’t just about "number go up"—it’s about changing the fundamenta
 
 At what point do I start running my own node?
 
-15h ago
+16h ago
 
 ---
 
@@ -119,23 +135,7 @@ At what point do I start running my own node?
 
 Hey all, I will try to keep responding to replies on the original post, I got blocked from my own post because I was responding too quickly. Here is the update, and we are wondering which way to go with this as we have the laptop working and the owner says she does remember that the wallet lived on the TOR browser. There are apparently two wallets that were available on TOR at that time: Electrum and Coinwallet. She believes it is Coinwallet. That being said, we don't know much about TOR, but it makes sense to try and access TOR and hopefully Coinwallet on the original laptop, but we can't seem to connect, as it gets to 5% bootstrapping "connecting to directory server" in the log, and "connecting to a relay directory" under the Status bar. Hoping someone could give us some guidance on how to proceed. We loaded TOR on her current laptop, and wasn't sure where to go from there. We also downloaded Coinwallet to her current laptop, running into the passphrase requirement. I believe there should be 12. This brings us to the second avenue of approach, as we found a text file with 30,000 words, groups of numbers and number/letter combinations. About 270 of them are common with the 2048 word list. This list was apparently created by the person that set up the wallet/TOR for her and this person was a cybersecurity expert for the DoD. Might this be able to be parsed/decoded with a program? We entered the first 12 words that appeared on both lists in the order of appearance into the Coinwallet passphrase box on her current laptop with no success. She is going to keep looking around on both drives (it was switched out between the dates of the first and last transactions on the Coinbase exchange log) to see if anything else jogs her memory. Thanks in advance for any help/advice!
 
-7h ago
-
----
-
-**[I have an old wallet JSON from 2013, from blockchain.info . How do I access it?](https://www.reddit.com/r/Bitcoin/comments/1sbzyyp/i_have_an_old_wallet_json_from_2013_from/)**
-
-Note: not answering DMs or clicking links I found an old json file while going through my old computer. Im wondering what steps can I take to repopulate this wallet
-
-10h ago
-
----
-
-**[Is it possible to buy cryptocurrencies with a prepaid vanilla gift card? (No KYC preferred)](https://www.reddit.com/r/Bitcoin/comments/1sc7zqr/is_it_possible_to_buy_cryptocurrencies_with_a/)**
-
-Hi, I don't have a bank account and there isn't any ATMs around me I can use to buy cryptocurrencies. I bought a vanilla card online to buy crypto. How can I do so? Thank you.
-
-3h ago
+8h ago
 
 ---
 
@@ -143,13 +143,15 @@ Hi, I don't have a bank account and there isn't any ATMs around me I can use to 
 
 Hey guys, I don’t know why but I just remembered that I bought BTC in late 2014. I was out drinking with friends and we talked about something clompletely different, it just hit me. Now the problem, which probably isn’t that rare: I created the wallet on blockchain.info and I know that I saved the keyphrase on an old phone which’s screen is probably smashed but still at home. But I have no idea what my wallet ID is. The only thing I have left is login links (blockchain.info/wallet/long array of numbers and letters) to blockchain.info, which i used to create the wallet and buy BTC. But the website is down/leads to blockchain.com and the login link does nothing here, nor does my email seem to be registered anymore, since I don’t get a reset password mail. I’m not into crypto at all but is there any chance that the coins are still there and I can find out my wallet ID somehow? I don’t know how many BTC would be in there, it’s probably not even a whole coin. But before I look through all my old devices I would like to know if it’s worth it. Thanks in advance!
 
-18h ago
+19h ago
 
 ---
 
-**[We’re seeing that at the sovereign level,we’re seeing that across Wall Street and the retail investor outside the US continues to allocate.](https://www.reddit.com/r/Bitcoin/comments/1sbh9v5/were_seeing_that_at_the_sovereign_levelwere/)**
+**[I have an old wallet JSON from 2013, from blockchain.info . How do I access it?](https://www.reddit.com/r/Bitcoin/comments/1sbzyyp/i_have_an_old_wallet_json_from_2013_from/)**
 
-23h ago
+Note: not answering DMs or clicking links I found an old json file while going through my old computer. Im wondering what steps can I take to repopulate this wallet
+
+11h ago
 
 ---
 
@@ -161,59 +163,43 @@ Hey guys, I don’t know why but I just remembered that I bought BTC in late 201
 
 CryptoQuant data shows overall bitcoin demand is contracting at -63,000 BTC per month even as institutional buyers accelerate purchases, with large holders distributing nearly 188,000 BTC over the past year.
 
-CoinDesk • 22h ago
+CoinDesk • 5h ago
 
 ---
 
-**[Cathie Wood has brutal response to 50% Bitcoin crash](https://www.thestreet.com/crypto/markets/cathie-wood-has-brutal-response-to-50-bitcoin-crash)**
+**[Charles Schwab Is Gearing Up to Offer Bitcoin, Ethereum Spot Trading](https://decrypt.co/363336/charles-schwab-bitcoin-ethereum-spot-trading)**
 
-Cathie Wood weighs in on the ongoing Bitcoin winter.
+Financial giant Charles Schwab is set to launch spot buying of Bitcoin and Ethereum by the end of the quarter, the firm said Friday.
 
-thestreet.com • 1d ago
+Decrypt • 19h ago
+
+---
+
+**[Cathie Wood has brutal response to 50% Bitcoin crash](https://finance.yahoo.com/markets/crypto/articles/cathie-wood-brutal-response-50-180000044.html)**
+
+It has been nearly six months since the flash crypto crash on Oct. 10 last year that wiped out millions of dollars in a single day. Bitcoin (BTC) had hit the all-time high (ATH) of $126,080 only a few days earlier on Oct. 6, but currently, it is trading 47% lower at $66,600.67. However, ...
+
+Yahoo Finance • 22h ago
 
 ---
 
 **[‘You Have Until 2029’—Urgent Musk Bitcoin Warning Spurs Coinbase CEO Flip As Price Crash Fears Swirl](https://www.forbes.com/sites/digital-assets/2026/04/04/you-have-until-2029-urgent-elon-musk-bitcoin-warning-suddenly-triggers-price-crash-fears/)**
 
-Forbes • 3h ago
+Forbes • 4h ago
 
 ---
 
-**[Bitcoin Retail Activity Hits 9-Year Low — Here’s Why](https://www.tradingview.com/news/newsbtc:1665f741f094b:0-bitcoin-retail-activity-hits-9-year-low-here-s-why/)**
+**[Goldman Sachs predicts new low for gold](https://www.thestreet.com/crypto/markets/goldman-sachs-predicts-new-low-for-bitcoin)**
 
-Amid the ongoing bear market, crypto analyst Darkfost reports that trading activity among Bitcoin retail investors has reached a new low, suggesting a notable decline in participation. However, broader on-chain data provides deeper context to this trend, pointing to a mix of both constructive and c…
+The bank predicts new risks.
 
-TradingView • 3h ago
-
----
-
-**[Bitcoin shorts risk $2.5 billion liquidation at $72K: Are bears in danger?](https://www.tradingview.com/news/cointelegraph:65cfd9810094b:0-bitcoin-shorts-risk-2-5-billion-liquidation-at-72k-are-bears-in-danger/)**
-
-Key takeaways:$2.5 billion in shorts at risk if BTC hits $72,000Bitcoin (BTC) has consistently failed to hit new highs since attempting to reclaim the $75,000 level since March 17.Bearish Bitcoin futures bets have been piling up as the war in Iran pushed oil prices to their highest levels since Jun…
-
-TradingView • 3h ago
+thestreet.com • 1d ago
 
 ---
 
-**[Stock futures and bitcoin slip, Treasury yields climb, as hot jobs report raises more questions about Fed rate cuts](https://www.marketwatch.com/story/stock-futures-and-bitcoin-slip-treasury-yields-climb-as-hot-jobs-report-raises-more-questions-about-fed-rate-cuts-921ff82f?gaa_at=eafs&gaa_n=AWEtsqevBLiy3WnlICou_xv1it8v4klGyiFDH3xaNalE6f9ywErBNurlCk4g&gaa_ts=69d12597&gaa_sig=xgzTsadioWwU3lhswDV-LVv9cxfOnj7p06U9Uhu1kg0m9OEj180oR4RyF7801H3qgpMs80qqWiOKOLXYqqZqCQ%3D%3D)**
+**[Stock futures and bitcoin slip, Treasury yields climb, as hot jobs report raises more questions about Fed rate cuts](https://www.marketwatch.com/story/stock-futures-and-bitcoin-slip-treasury-yields-climb-as-hot-jobs-report-raises-more-questions-about-fed-rate-cuts-921ff82f?gaa_at=eafs&gaa_n=AWEtsqew-4M4Iuw5ZxcIInWqazLxuXHnVEtMZuVPWsD9ca0_F1pc82L_2Wg7&gaa_ts=69d141ab&gaa_sig=TKC726xplwHkLjhyFDtzly77xgwXiMnq9A8x73YSsfbvQCaUxVEoibLCLglGFU9OfOY_XDak50-lCcAiAMjvFg%3D%3D)**
 
 MarketWatch • 1d ago
-
----
-
-**[Should You Buy Bitcoin While It's Under $100,000? Here's What Prediction Markets Think](https://finance.yahoo.com/markets/crypto/articles/buy-bitcoin-while-under-100-020500929.html)**
-
-Based on prediction market data, a recovery this year for Bitcoin looks unlikely. Crypto investors will need to be patient.
-
-Yahoo Finance • 13h ago
-
----
-
-**[Charles Schwab Teases Direct Bitcoin Trading With New ‘Schwab Crypto’ Account](https://bitcoinmagazine.com/news/charles-schwab-direct-bitcoin-trading)**
-
-Charles Schwab is expanding deeper into digital assets, announcing plans for a forthcoming product that will allow clients to buy and sell bitcoin directly.
-
-Bitcoin Magazine • 19h ago
 
 ---
 
@@ -233,6 +219,20 @@ The Block • 1d ago
 
 ---
 
+**[Google Paper Warns of Quantum Computing Risk for Bitcoin](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q?gaa_at=eafs&gaa_n=AWEtsqdHQI6_6bvedS_U2rSvwJgDwNYYarxvhQnWGyZijjqRLG0kTnWu-jPt&gaa_ts=69d141ab&gaa_sig=xQhlXrNTwCZAOSmXCycegM2BShYgdKu5DD_x5Z35M-C6BKl0S6_G4x35JrFZQ2zcR374FjuaeQ861A5hnw8fUg%3D%3D)**
+
+WSJ • 3d ago
+
+---
+
+**[Charles Schwab Teases Direct Bitcoin Trading With New ‘Schwab Crypto’ Account](https://bitcoinmagazine.com/news/charles-schwab-direct-bitcoin-trading)**
+
+Charles Schwab is expanding deeper into digital assets, announcing plans for a forthcoming product that will allow clients to buy and sell bitcoin directly.
+
+Bitcoin Magazine • 20h ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
@@ -241,7 +241,7 @@ The Block • 1d ago
 
 Google Quantum AI: Quantum computer could break Bitcoin cryptography with under 500,000 qubits in nine minutes. This will likely only be possible in the 2030s.
 
-⬆️ 15 • 💬 7 • 21h ago • [heise online](https://www.heise.de/en/news/Quantum-computer-researchers-Bitcoin-encryption-breakable-in-a-few-years-11244911.html)
+⬆️ 15 • 💬 7 • 22h ago • [heise online](https://www.heise.de/en/news/Quantum-computer-researchers-Bitcoin-encryption-breakable-in-a-few-years-11244911.html)
 
 ---
 
@@ -265,7 +265,7 @@ Bitcoin needs to fix this in the next three years.
 
 April 03, 2026 - A new $100 million bond deal reveals exactly how traditional finance values BTC as collateral. The numbers are sobering, and the
 
-⬆️ 4 • 💬 2 • 23h ago • [Bitcoin, Altcoins, Crypto News & Financial Market News](https://catenaa.com/markets/cryptocurrencies/moodys-bitcoin-collateral-haircut/)
+⬆️ 4 • 💬 2 • 1d ago • [Bitcoin, Altcoins, Crypto News & Financial Market News](https://catenaa.com/markets/cryptocurrencies/moodys-bitcoin-collateral-haircut/)
 
 ---
 
@@ -283,7 +283,7 @@ April 03, 2026 - A new $100 million bond deal reveals exactly how traditional fi
 
 **[KnexCoin (NEX) soft forked Bitcoin and now Quantum Ready](https://news.ycombinator.com/item?id=47589186)**
 
-⬆️ 2 • 💬 1 • 3d ago • [untraceablex.com](https://www.untraceablex.com)
+⬆️ 2 • 💬 1 • 4d ago • [untraceablex.com](https://www.untraceablex.com)
 
 ---
 
@@ -319,27 +319,7 @@ Markets cracked, oil surged, Bitcoin dipped, and Larry Fink is warning that a pr
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 994 • 💬 91 • ⏱️ 14:11 • 18h ago
-
----
-
-**[$550 Billion Vanishes in Minutes! (Bitcoin Already Knows Why)](https://www.youtube.com/watch?v=la1hjLNE2SM)**
-
-Trump speaks… and markets crash again! Bitcoin fell to $66K, and in just 25 minutes, $550 billion was wiped out after one ...
-
-📺 Simply Bitcoin
-
-👁️ 20K • 👍 2K • 💬 176 • ⏱️ 36:07 • 1d ago
-
----
-
-**[Bitcoin Holders, Here We Go Again!](https://www.youtube.com/watch?v=K-toaTQ2p5o)**
-
-Welcome back! More Iran announcements over the weekend but Bitcoin is holding up well. Ledn Loans: Check out Ledn: ...
-
-📺 Aaron Bennett
-
-👁️ 3K • 👍 293 • 💬 173 • ⏱️ 6:51 • 9h ago
+👁️ 16K • 👍 1K • 💬 94 • ⏱️ 14:11 • 19h ago
 
 ---
 
@@ -349,17 +329,27 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 3K • 👍 274 • ⏱️ 45:08 • 2h ago
+👁️ 10K • 👍 974 • 💬 21 • ⏱️ 45:08 • 3h ago
 
 ---
 
-**[Bitcoin Warning: Bear Flag Forming 💀](https://www.youtube.com/watch?v=Bm6xRrc-TFI)**
+**[$550 Billion Vanishes in Minutes! (Bitcoin Already Knows Why)](https://www.youtube.com/watch?v=la1hjLNE2SM)**
 
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Buy, Sell, Trade on Weex ($500 Bonus): ...
+Trump speaks… and markets crash again! Bitcoin fell to $66K, and in just 25 minutes, $550 billion was wiped out after one ...
 
-📺 Altcoin Daily
+📺 Simply Bitcoin
 
-👁️ 8K • 👍 237 • 💬 149 • ⏱️ 1:07 • 1d ago
+👁️ 20K • 👍 2K • 💬 177 • ⏱️ 36:07 • 1d ago
+
+---
+
+**[Bitcoin Holders, Here We Go Again!](https://www.youtube.com/watch?v=K-toaTQ2p5o)**
+
+Welcome back! More Iran announcements over the weekend but Bitcoin is holding up well. Ledn Loans: Check out Ledn: ...
+
+📺 Aaron Bennett
+
+👁️ 4K • 👍 323 • 💬 177 • ⏱️ 6:51 • 10h ago
 
 ---
 
@@ -369,7 +359,17 @@ Most people are waiting for Bitcoin to “do something.” That's the mistake. B
 
 📺 Tim Talks Finance
 
-👁️ 3K • 👍 209 • 💬 47 • ⏱️ 12:07 • 21h ago
+👁️ 3K • 👍 216 • 💬 48 • ⏱️ 12:07 • 22h ago
+
+---
+
+**[Bitcoin Warning: Bear Flag Forming 💀](https://www.youtube.com/watch?v=Bm6xRrc-TFI)**
+
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Buy, Sell, Trade on Weex ($500 Bonus): ...
+
+📺 Altcoin Daily
+
+👁️ 8K • 👍 241 • 💬 149 • ⏱️ 1:07 • 1d ago
 
 ---
 
@@ -379,17 +379,17 @@ Bitcoin #Crypto #Finance Bitcoin is sitting at a critical level, and what happen
 
 📺 The Wolf Of All Streets
 
-👁️ 10K • 👍 490 • 💬 207 • ⏱️ 33:28 • 1d ago
+👁️ 10K • 👍 501 • 💬 208 • ⏱️ 33:28 • 1d ago
 
 ---
 
-**[LIVE: Michael Saylor on Bitcoin Bull Run &amp; MSTR Stock – BTC Price Prediction](https://www.youtube.com/watch?v=jyca__3GkZk)**
+**[I Was Wrong on Bitcoin (4 Year Cycle)](https://www.youtube.com/watch?v=Wr5JUmUuxrY)**
 
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
+The Bitcoin 4 year cycle somehow continues... here's what's next BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Andrew Does Life
+📺 Lark Davis
 
-👁️ 2K • 👍 1K • 4h ago
+👁️ 5K • 👍 414 • 💬 115 • ⏱️ 12:12 • 3h ago
 
 ---
 
@@ -399,17 +399,17 @@ It is time for an update on our beauty of mathematics series about Bitcoin and c
 
 📺 Benjamin Cowen
 
-👁️ 45K • 👍 2K • 💬 104 • ⏱️ 4:47 • 2d ago
+👁️ 46K • 👍 2K • 💬 104 • ⏱️ 4:47 • 2d ago
 
 ---
 
-**[I Took a RISK on this BITCOIN Box, Was It Worth It?](https://www.youtube.com/watch?v=NodhjnH58Vk)**
+**[LIVE: Michael Saylor on Bitcoin Bull Run &amp; MSTR/STRK/STRF Stocks](https://www.youtube.com/watch?v=h8sQo3ssoRE)**
 
-Checkout the Mystery Boxes from Today's Video ➡ https://geni.us/BMMysteryboxes ⭐Use Check Code "HOBBYIST" for a ...
+BTC #Bitcoin #Crypto #MSTR #MichaelSaylor Join Michael Saylor LIVE as we break down the evolving Bitcoin strategy behind ...
 
-📺 The Hobbyist Miner
+📺 Vik's Video Vizuals
 
-👁️ 2K • 👍 112 • 💬 221 • ⏱️ 16:59 • 1d ago
+👁️ 6K • 👍 4K • 5h ago
 
 ---
 

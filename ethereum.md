@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-04T15:33:28.635420+00:00'
+updated: '2026-04-04T16:37:27.306069+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
+- news
 - cryptocurrency
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 04, 2026 at 15:33 UTC  
+**Last Updated:** April 04, 2026 at 16:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +3.5%  
-**30d:** +3.8%  
-**90d:** -36.3%  
-**1y:** +13.7%  
+**24h:** +0.6%  
+**7d:** +3.9%  
+**30d:** +4.2%  
+**90d:** -36.1%  
+**1y:** +14.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $247.59B
+**Market Cap:** $248.39B
 Rank #2
 
 **Circulating Supply:** 120,691,261 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.5%
+-58.4%
 
 **All-Time Low:** $0.43
-+473664.3%
++475202.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/ylRbyff4xKs) • 20h ago
+🔗 [youtu.be](https://youtu.be/ylRbyff4xKs) • 21h ago
 
 ---
 
@@ -96,7 +96,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Why are we still copy-pasting 40-character wallet addresses in 2026? Idea: you do a small test transfer once → both wallets get a shared avatar/character. Next time you send, you just recognize the person visually instead of relying on the address. Kind of like “pairing” wallets. Would this actually reduce mistakes or scams, or is this unnecessary given things like ENS?
 
-19h ago
+21h ago
 
 ---
 
@@ -118,7 +118,7 @@ People ask this a lot and most answers are either too optimistic or outdated. He
 
 **[They'd never heard of ETH. They described it anyway. I didn't discover Ethereum in a whitepaper. I recognised it. In lectures thirty years old. In voices I still hear.](https://www.reddit.com/r/ethereum/comments/1sbnqtg/theyd_never_heard_of_eth_they_described_it_anyway/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -146,27 +146,27 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Should You Forget Ethereum and Buy This Cryptocurrency Instead?](https://www.fool.com/investing/2026/04/03/should-you-forget-ethereum-and-buy-this-cryptocurr/)**
-
-As investors search for "the next Ethereum," this top cryptocurrency is worth a closer look.
-
-fool.com • 12h ago
-
----
-
 **[Charles Schwab Is Gearing Up to Offer Bitcoin, Ethereum Spot Trading](https://decrypt.co/363336/charles-schwab-bitcoin-ethereum-spot-trading)**
 
 Financial giant Charles Schwab is set to launch spot buying of Bitcoin and Ethereum by the end of the quarter, the firm said Friday.
 
-Decrypt • 18h ago
+Decrypt • 19h ago
 
 ---
 
-**[I Asked ChatGPT To Explain Ethereum to Me Like I’m 12](https://uk.finance.yahoo.com/news/asked-chatgpt-explain-ethereum-m-141704920.html)**
+**[Should You Forget Ethereum and Buy This Cryptocurrency Instead?](https://www.fool.com/investing/2026/04/03/should-you-forget-ethereum-and-buy-this-cryptocurr/)**
+
+As investors search for "the next Ethereum," this top cryptocurrency is worth a closer look.
+
+The Motley Fool • 13h ago
+
+---
+
+**[I Asked ChatGPT To Explain Ethereum to Me Like I’m 12](https://finance.yahoo.com/markets/crypto/articles/asked-chatgpt-explain-ethereum-m-141704920.html)**
 
 Confused by ethereum? Here’s a simple, beginner-friendly explanation of how it works, how to invest and whether it’s a good crypto investment, per ChatGPT.
 
-Yahoo Finance UK • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -174,7 +174,7 @@ Yahoo Finance UK • 1h ago
 
 The foundation’s latest staking allocation mirrors its biggest-ever single-day move and is a major step-up from its initial February deployment.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -190,21 +190,13 @@ CoinDesk • 1d ago
 
 Ethereum could outpace Bitcoin by a wide margin over the next four years — at least according to one of the most bullish forecasts to come out of traditional banking. That is the view from Geoff Kendrick, Global Head of Digital Assets Research at Standard Chartered, who laid out the projection in a…
 
-TradingView • 13h ago
+TradingView • 14h ago
 
 ---
 
-**[Current price of Ethereum for April 3, 2026](https://fortune.com/article/price-of-ethereum-04-03-2026/)**
+**[Investors ‘Buy the Dip’ in Bitwise Ethereum ETF as $4.3M Flows In Despite Steep ETH Selloff](https://www.tipranks.com/news/cryptocurrencies/investors-buy-the-dip-in-bitwise-ethereum-etf-as-4-3m-flows-in-despite-steep-eth-selloff)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 1d ago
-
----
-
-**[Should you forget Ethereum and buy this cryptocurrency instead?](https://www.msn.com/en-us/money/topstocks/should-you-forget-ethereum-and-buy-this-cryptocurrency-instead/ar-AA207dA0?ocid=finance-verthp-feeds)**
-
-MSN • 8h ago
+TipRanks • 52m ago
 
 ---
 
@@ -214,11 +206,19 @@ FinanceFeeds • 1d ago
 
 ---
 
+**[$12 trillion Charles Schwab expected to debut spot Bitcoin, Ethereum trading this quarter](https://cryptobriefing.com/schwab-crypto-launch-bitcoin-ethereum-trading-account/)**
+
+Charles Schwab is set to launch Schwab Crypto for direct Bitcoin and Ethereum trading, marking a shift from indirect crypto exposure.
+
+Crypto Briefing • 23h ago
+
+---
+
 **[Bitcoin, XRP, Dogecoin Slide, Ethereum Flat As Trump Signals Iran War To Go On Until 'Objectives' Met: An](https://www.benzinga.com/crypto/cryptocurrency/26/04/51617204/bitcoin-xrp-dogecoin-slide-ethereum-flat-trump-iran-war-btc-accumulation)**
 
 Leading cryptocurrencies fell alongside stock futures on Wednesday evening after President Donald Trump said the U.S. will continue its military campaign against Iran until the objectives are &#8220;fully achieved.&quot;
 
-benzinga.com • 2d ago
+Benzinga • 2d ago
 
 ---
 
@@ -232,27 +232,7 @@ benzinga.com • 2d ago
 
 📺 Stock Moe
 
-👁️ 2K • 👍 330 • 💬 51 • ⏱️ 11:56 • 3h ago
-
----
-
-**[Ethereum: Bear Market Until the End of the Year](https://www.youtube.com/watch?v=bb-bYsnXgZw)**
-
-In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 265 • 💬 13 • ⏱️ 8:31 • 20h ago
-
----
-
-**[$12 Trillion Charles Schwab Set To Launch Bitcoin &amp; Ethereum Trading — Huge News For Crypto Now](https://www.youtube.com/watch?v=m0LcanHMDPA)**
-
-IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
-
-📺 The Kenzo Guy
-
-👁️ 2K • 👍 205 • 💬 10 • ⏱️ 27:08 • 16h ago
+👁️ 7K • 👍 646 • 💬 84 • ⏱️ 11:56 • 4h ago
 
 ---
 
@@ -262,7 +242,17 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 563 • 👍 62 • 💬 6 • ⏱️ 10:14 • 2h ago
+👁️ 2K • 👍 143 • 💬 14 • ⏱️ 10:14 • 3h ago
+
+---
+
+**[Ethereum: Bear Market Until the End of the Year](https://www.youtube.com/watch?v=bb-bYsnXgZw)**
+
+In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
+
+📺 More Crypto Online
+
+👁️ 4K • 👍 269 • 💬 13 • ⏱️ 8:31 • 21h ago
 
 ---
 
@@ -272,7 +262,17 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 114 • 💬 46 • ⏱️ 10:32 • 1d ago
+👁️ 2K • 👍 115 • 💬 46 • ⏱️ 10:32 • 1d ago
+
+---
+
+**[$12 Trillion Charles Schwab Set To Launch Bitcoin &amp; Ethereum Trading — Huge News For Crypto Now](https://www.youtube.com/watch?v=m0LcanHMDPA)**
+
+IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
+
+📺 The Kenzo Guy
+
+👁️ 3K • 👍 227 • 💬 13 • ⏱️ 27:08 • 17h ago
 
 ---
 
@@ -282,7 +282,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 13K • 👍 1K • 💬 56 • ⏱️ 4:25 • 1d ago
+👁️ 13K • 👍 1K • 💬 57 • ⏱️ 4:25 • 1d ago
 
 ---
 
@@ -292,7 +292,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 60 • 👍 4 • 💬 5 • ⏱️ 4:43 • 5h ago
+👁️ 87 • 👍 6 • ⏱️ 4:43 • 6h ago
 
 ---
 
@@ -302,27 +302,27 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEE
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 327 • ⏱️ 10:45 • 2d ago
+👁️ 42K • 👍 2K • 💬 325 • ⏱️ 10:45 • 2d ago
 
 ---
 
-**[Ethereum Crash Incoming? Bear Market Bottom Explained | ETH to $1000?](https://www.youtube.com/watch?v=eIXQDT2hPGA)**
+**[WHEN EVERYONE HATES BITCOIN &amp; ETH ITS TIME TO BUY](https://www.youtube.com/watch?v=n9SlojULsb0)**
 
-For Business Inquiries Contact: cryptoknowledgetamilyt@gmail.com My Twitter handle: https://twitter.com/CKTAjith Join our ...
+In today's video I break down Bitcoin, Ethereum, stocks, oil, gold, and silver, including the key levels, setups, and risk management ...
 
-📺 Crypto Knowledge Tamil
+📺 James Crypto Guru
 
-👁️ 81 • 💬 2 • ⏱️ 13:36 • 2h ago
+👁️ 2K • 👍 140 • 💬 14 • ⏱️ 8:45 • 17h ago
 
 ---
 
-**[The EXACT Ethereum Signal That Called a 389% Profit Opportunity](https://www.youtube.com/watch?v=CRMSt4b9pXI)**
+**[CRYPTO LIVE TRADING || 4 APRIL  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=cCcLpjoEJHA)**
 
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+join my social platforms for updates and analysis ✓Instagram: ...
 
-📺 Trade Confident
+📺 Aryan trader Live
 
-👁️ 377 • 👍 13 • 💬 2 • ⏱️ 4:56 • 22h ago
+👁️ 5K • 👍 2K • 1h ago
 
 ---
 

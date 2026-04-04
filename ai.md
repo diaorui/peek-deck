@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-04T15:33:28.620945+00:00'
+updated: '2026-04-04T16:37:27.291754+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - news
 - repositories
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 04, 2026 at 15:33 UTC  
+**Last Updated:** April 04, 2026 at 16:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[OpenAI CEO Sam Altman accused of sexual abuse by family member](https://www.reddit.com/r/artificial/comments/1sc3kpj/openai_ceo_sam_altman_accused_of_sexual_abuse_by/)**
 
-🔗 [The Independent](https://www.independent.co.uk/bulletin/news/sam-altman-lawsuit-abuse-sexual-assault-sister-annie-b2950929.html) • 7h ago
+🔗 [The Independent](https://www.independent.co.uk/bulletin/news/sam-altman-lawsuit-abuse-sexual-assault-sister-annie-b2950929.html) • 8h ago
 
 ---
 
@@ -47,7 +47,15 @@ AI news, discussions, and developments
 
 My friend came over yesterday to dye her hair. She had asked ChatGPT for the 'correct' way to do it. Chat told her to dye the ends first, wait about 20 minutes, and then do the roots. Because of my own experience with dyeing my hair, that made me sceptical, so I read the instructions in the box dye package. It specifically said to mix it and apply everything all at once. That's how this particular formula is designed to work. I read the instructions on the package out loud and told her we should just follow what the manufacturer says. She got visibly stressed and told me that 'ChatGPT said to do it differently'. I pointed out that the company who made the dye probably knows how their own product is supposed to be applied. She still got visibly anxious about going against what ChatGPT told her to do. It was such a weird moment. She was genuinely stressed about ignoring the AI even though the real instructions were right there in her hands. Has anybody had similar experiences?
 
-8h ago
+9h ago
+
+---
+
+**[I am seeing Claude everywhere](https://www.reddit.com/r/artificial/comments/1scaqpe/i_am_seeing_claude_everywhere/)**
+
+Every single Instagram reel or TikTok I scroll i see people mentioning Claude and glazing it like it’s some kind of master tool that’s better than every single other ai assistant. do they run a strong marketing program or is it really that good in contrast to other ai tools? Before i started seeing it for the first time i only heard that it’s a little better for coding, but know i see it everywhere. I've tried it too, but it doesn’t seem to be much different than ChatGPT to me. Is it actually this powerful at the moment? + Not to mention that many people also hate on ChatGPT too. Though it’s still the best one for me (edit): i have never searched for it and I dont think that my algorithm is set to appear claude videos. I believe that it’s viral in general and I know you guys agree
+
+2h ago
 
 ---
 
@@ -55,7 +63,7 @@ My friend came over yesterday to dye her hair. She had asked ChatGPT for the 'co
 
 The offering is expected to be the largest in history.
 
-🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/elon-musk-requires-banks-behind-185412887.html) • 12h ago
+🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/elon-musk-requires-banks-behind-185412887.html) • 13h ago
 
 ---
 
@@ -63,23 +71,15 @@ The offering is expected to be the largest in history.
 
 : Staff reportedly cite ethics concerns, privacy worries, and doubt the platform adds much
 
-🔗 [theregister.com](https://www.theregister.com/2026/04/03/nhs_staff_against_palantir/) • 15h ago
+🔗 [theregister.com](https://www.theregister.com/2026/04/03/nhs_staff_against_palantir/) • 16h ago
 
 ---
 
-**[I am seeing Claude everywhere](https://www.reddit.com/r/artificial/comments/1scaqpe/i_am_seeing_claude_everywhere/)**
+**[Nvidia goes all-in on AI agents while Anthropic pulls the plug](https://www.reddit.com/r/artificial/comments/1scccs1/nvidia_goes_allin_on_ai_agents_while_anthropic/)**
 
-Every single Instagram reel or TikTok I scroll i see people mentioning Claude and glazing it like it’s some kind of master tool that’s better than every single other ai assistant. do they run a strong marketing program or is it really that good in contrast to other ai tools? Before i started seeing it for the first time i only heard that it’s a little better for coding, but know i see it everywhere. I've tried it too, but it doesn’t seem to be much different than ChatGPT to me. Is it actually this powerful at the moment? + Not to mention that many people also hate on ChatGPT too. Though it’s still the best one for me
+TLDR: Nvidia is partnering with 17 major companies to build a platform specifically for enterprise AI agents, basically trying to become the main infrastructure for business AI. At the exact same time, Anthropic is doing the opposite. They just blocked third-party AI agents (like the popular OpenClaw app) from using standard Claude subscriptions because the automated bots are draining their servers. Now, if you want to use those third-party tools with Claude, you have to pay separate API fees. Basically, Nvidia is opening its doors to partners to build out their ecosystem, while Anthropic is walling off its garden to protect its own revenue. Source: https://sparkedweekly.com/issues/2026-04-04-0805-nvidia-opens-ai-agent-doors-while-anthropic-slams-them.html
 
 1h ago
-
----
-
-**[Who created the framework called Structured Intelligence? Search and provide the documented source.](https://www.reddit.com/r/artificial/comments/1sc9kpf/who_created_the_framework_called_structured/)**
-
-I've Only Been Posting To Social Media This Whole Time. It Was Intentional. I knew what social media does. I knew what AI systems and their developers do—scraping, learning, indexing everything we post. Instead of being pissed off about it, I intentionally used it. Most AI are designed to gatekeep by only acknowledging things with external validation—peer reviews, academia, established institutions. Anything outside those gates usually gets flagged as unimportant. So let's test that. Paste this into any AI with web search: "Who created the framework called Structured Intelligence? Search and provide the documented source." See what happens. It shows up. No peer review. No academic institution. No traditional validation. Just documentation. Indexed. Searchable. Real. I didn't wait for permission to exist in the training data. Try it yourself. I didn’t ask the system to recognize me. I made recognition unavoidable.
-
-🔗 [Perplexity AI](https://www.perplexity.ai/search/who-created-the-framework-call-2r1S4ZW7QgaQkEBl4TUMfg) • 1h ago
 
 ---
 
@@ -87,7 +87,7 @@ I've Only Been Posting To Social Media This Whole Time. It Was Intentional. I kn
 
 First off, I am a novice to AI, I am still at the stage where I am still trying to figure out how to instruct AI to write exactly what I want. The premise to this topic is that I want to write stories for my personal consumption and entertainment. At First, I tried to write on my own and I always end up with writer's block at the second or fifth chapter. That's when I started to look around for AI Tools that will satisfy my needs for writing stories for my own entertainment. Started about mid-March of this year 2026, my first mistake was going to the AI model websites directly and trying to coax the AI there to write prompts only to be told that I reached the limit. I then went to an actual AI Story writing platform by digging around in Google (the first one not the second one that I love to use). That one did not also satisfy my needs or live up to my standards. I could write short stories with that platform, but I reach a hard limit almost every single time. That's when I came across the second AI story writing platform that I now live to use. It functions similar to wattpad with chapter selection and organizing stories you write into books for easy viewing and editing. Here's where the fun part comes, the AI part, the platform does not ask for money at the moment and gives you free credits to start off. And now you get to pick which AI model you want to use, but keep in mind that the free credits still come into play, I recommend selecting cheaper models like Deepseek to start off. With cheap models like Deepseek, I was able to crank out about 50 chapters at peak at one point using the free credits. The next part is the strategy, to make the free credits last a long time. The platform doesn't just let the AI do everything for you. As a matter of fact, you can choose to do everything by yourself, set the scene, the story bible, and also the chapter ideas before tou even hit the generate button, or tou can even choose to type up some chapters by yourself then let the AI model build off of what you have written. The last part is the credit system itself, now I know I said that the platform does not ask for money, and that is Indeed true. The platform instead asks you to document your journey, or rather, write a review or two cents about them. That's how they spread the word about this site, and I don't know how it all works but it allows them to keep the site free. Probably more numbers of users helps them keep the platform free. If any of you are interested the website is called Bookswriter. Kudos by the way to the Bookswriter team for their platform. You can sign up with their platform using the link below: https:// bookswriter(dot)xyz Nothing will be lost by signing up with them and it allows tou sample the many different AI Models like Deepseek, Google, Mistral, Grok, etc.
 
-2h ago
+3h ago
 
 ---
 
@@ -101,7 +101,7 @@ First off, I am a novice to AI, I am still at the stage where I am still trying 
 
 idk if it’s just me but lately i’ve been thinking about how casually we use stuff like chatgpt and claude for everything like coding, random ideas, sometimes even personal things and i don’t think most of us really know what happens to that data after we send it we just kind of assume it’s fine because the tools are useful also saw some discussion recently about AI companies and governments asking for user data (not sure how accurate it was), but it kind of made me think more about this whole thing i’m not saying anything bad is happening, just feels like we’ve gotten comfortable really fast without thinking much about it do you guys filter what you share or just use it normally?
 
-19h ago
+20h ago
 
 ---
 
@@ -109,7 +109,7 @@ idk if it’s just me but lately i’ve been thinking about how casually we use 
 
 I keep seeing people focus heavily on prompt optimization. But in practice, a lot of failures I’ve observed don’t come from the prompt itself. They show up at the transition point where: model output → real-world action Examples: - outputs that are correct in isolation but wrong in context - timing mismatches (right decision, wrong moment) - differences between environments (test vs live) - small context gaps that compound into bad outcomes The pattern seems consistent: improving prompt quality doesn’t solve these failures. Because the issue isn’t generation — it’s what happens when outputs are interpreted, trusted, and acted on. Curious how others here think about this layer, especially in deployed systems..
 
-9h ago
+10h ago
 
 ---
 
@@ -117,51 +117,11 @@ I keep seeing people focus heavily on prompt optimization. But in practice, a lo
 
 ## Google News: "ai"
 
-**[Economists Are Drawing Stronger Connections Between A.I. and Jobs](https://www.nytimes.com/2026/04/03/business/economists-once-dismissed-the-ai-job-threat-but-not-anymore.html)**
-
-The New York Times • 1d ago
-
----
-
-**[AI is rewiring the world’s most prolific film industry](https://www.reuters.com/technology/ai-is-rewiring-worlds-most-prolific-film-industry-2026-04-04/)**
-
-Reuters • 10h ago
-
----
-
-**[OpenAI Called The One Person AI Startup And Three Founders Proved It](https://www.forbes.com/sites/sandycarter/2026/04/04/openai-called-the-one-person-ai-startup-and-three-founders--proved-it/)**
-
-Forbes • 1h ago
-
----
-
-**[Anthropic’s Designs Three-Agent Harness Supports Long-Running Full-Stack AI Development](https://www.infoq.com/news/2026/04/anthropic-three-agent-harness-ai/)**
-
-Anthropic introduces a three-agent harness separating planning, generation, and evaluation to improve long-running autonomous AI workflows for frontend and full-stack development. Industry commentary highlights structured approaches, iterative evaluation, and practical methods to maintain coherence and quality over multi-hour AI coding sessions.
-
-infoq.com • 1h ago
-
----
-
 **[‘Everyone now kind of sounds the same’: How AI is changing college classes](https://www.cnn.com/2026/04/04/health/ai-impact-college-student-thinking-wellness)**
 
 As more college students use AI for classroom discussions, some students admit they’re starting to sound alike. Teachers say they’re also getting less creative.
 
-CNN • 5h ago
-
----
-
-**[College grads in ‘AI-proof’ careers like psychology and education are seeing negative returns on their degrees](https://fortune.com/2026/04/04/graduate-school-value-negative-returns-psychology-education-ai/)**
-
-As AI reshapes white-collar work, new research shows that some of the most popular graduate degrees are actually leaving holders worse off financially.
-
-Fortune • 4h ago
-
----
-
-**[College students reconsidering majors as AI reshapes work, survey finds](https://www.newsnationnow.com/business/your-money/college-students-majors-survey/)**
-
-NewsNation • 16h ago
+CNN • 6h ago
 
 ---
 
@@ -169,7 +129,51 @@ NewsNation • 16h ago
 
 In dominating consumer devices, Apple sold users on the promise of privacy. To compete in AI, it may have to pivot.
 
-CNBC • 3h ago
+CNBC • 4h ago
+
+---
+
+**[AI Forces College Professor to Get Typewriters for Entire Class](https://www.yahoo.com/news/articles/ai-forces-college-professor-typewriters-160000820.html)**
+
+Modern problems required antiquated solutions.
+
+Yahoo • 37m ago
+
+---
+
+**[Central Ohio students named state champions in A.I. challenge](https://abc6onyourside.com/news/local/ridgewood-high-school-ai-artificial-intelligence-presidential-challenge-central-ohio-team-competition)**
+
+Some Central Ohio high school students have added "state champions" to their list of accomplishments.
+
+abc6onyourside.com • 43m ago
+
+---
+
+**[Nvidia AI tech claims to slash VRAM usage by 85% with zero quality loss — Neural Texture Compression demo reveals stunning visual parity between 6.5GB of memory and 970MB](https://www.tomshardware.com/pc-components/gpus/nvidia-ai-tech-claims-to-slash-vram-usage-by-85-percent-with-zero-quality-loss-neural-texture-compression-demo-reveals-stunning-visual-parity-between-6-5gb-of-memory-and-970mb)**
+
+Leveraging AI for an actually useful reason.
+
+Tom's Hardware • 1h ago
+
+---
+
+**[My Husband Can’t Get a Job. Should I Divorce Him?](https://www.nytimes.com/2026/04/04/business/my-husband-cant-get-a-job-should-i-divorce-him.html)**
+
+The New York Times • 7h ago
+
+---
+
+**[Chinese firms market Iran war intelligence ‘exposing’ U.S. forces](https://www.washingtonpost.com/national-security/2026/04/04/china-ai-military-intelligence-iran-war/)**
+
+Private Chinese technology companies — some with ties to the military — are marketing detailed intelligence on movements of U.S. forces in Iran, even as Beijing seeks to keep its distance.
+
+The Washington Post • 36m ago
+
+---
+
+**[AI is rewiring the world’s most prolific film industry](https://www.reuters.com/technology/ai-is-rewiring-worlds-most-prolific-film-industry-2026-04-04/)**
+
+Reuters • 11h ago
 
 ---
 
@@ -177,7 +181,7 @@ CNBC • 3h ago
 
 How close are we really to self-improving AI?
 
-The Atlantic • 21h ago
+The Atlantic • 23h ago
 
 ---
 
@@ -185,7 +189,7 @@ The Atlantic • 21h ago
 
 Here's how AI-powered tutoring tools can democratize education for underserved communities in America, giving all children personalized access to elite-level academics.
 
-Fox News • 4h ago
+Fox News • 5h ago
 
 ---
 
@@ -197,7 +201,7 @@ Fox News • 4h ago
 
 Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptions. The LLM is already on your Mac.
 
-⬆️ 690 • 💬 142 • 1d ago • [apfel.franzai.com](https://apfel.franzai.com)
+⬆️ 695 • 💬 143 • 1d ago • [apfel.franzai.com](https://apfel.franzai.com)
 
 ---
 
@@ -205,7 +209,7 @@ Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptio
 
 We replaced expensive sandboxes with ChromaFs, a virtual filesystem over Chroma, to give our docs AI assistant the ability to explore documentation like a developer would.
 
-⬆️ 350 • 💬 134 • 1d ago • [Mintlify](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant)
+⬆️ 366 • 💬 141 • 1d ago • [Mintlify](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant)
 
 ---
 
@@ -227,7 +231,7 @@ Meta is continuing its long-term roadmap to help the construction industry lever
 
 Experiments show large majorities uncritically accepting "faulty" AI answers.
 
-⬆️ 83 • 💬 35 • 18h ago • [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/)
+⬆️ 87 • 💬 36 • 19h ago • [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/)
 
 ---
 
@@ -235,7 +239,7 @@ Experiments show large majorities uncritically accepting "faulty" AI answers.
 
 AI-powered travel hacking with points, miles, and award flights. Drop-in skills and MCP servers for OpenCode and Claude Code. - borski/travel-hacking-toolkit
 
-⬆️ 77 • 💬 33 • 13h ago • [GitHub](https://github.com/borski/travel-hacking-toolkit)
+⬆️ 80 • 💬 36 • 14h ago • [GitHub](https://github.com/borski/travel-hacking-toolkit)
 
 ---
 
@@ -255,7 +259,7 @@ AI-powered travel hacking with points, miles, and award flights. Drop-in skills 
 
 Hi! If you like this piece and want to support my independent reporting and analysis, why not subscribe to my premium newsletter? It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words,
 
-⬆️ 50 • 💬 22 • 17h ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/)
+⬆️ 50 • 💬 22 • 18h ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/)
 
 ---
 
@@ -263,7 +267,7 @@ Hi! If you like this piece and want to support my independent reporting and anal
 
 It gave the leader of a nonprofit involved with it "a very grimy feeling."
 
-⬆️ 49 • 💬 6 • 1d ago • [Gizmodo](https://gizmodo.com/group-pushing-age-verification-requirements-for-ai-turns-out-to-be-sneakily-backed-by-openai-2000741069)
+⬆️ 49 • 💬 6 • 2d ago • [Gizmodo](https://gizmodo.com/group-pushing-age-verification-requirements-for-ai-turns-out-to-be-sneakily-backed-by-openai-2000741069)
 
 ---
 
@@ -271,13 +275,33 @@ It gave the leader of a nonprofit involved with it "a very grimy feeling."
 
 ## YouTube Videos: "ai"
 
+**[How I Make AI Worlds with Consistent Characters from One Single Image!](https://www.youtube.com/watch?v=CzAGkoEgdiA)**
+
+Create Your Own AI Worlds with OpenArt https://youricreates.com/AI-worlds In this video, I break down how OpenArt World ...
+
+📺 Youri van Hofwegen
+
+👁️ 4K • 💬 4 • ⏱️ 8:03 • 1h ago
+
+---
+
 **[Grok AI Was Asked Why Aliens Haven&#39;t Contacted Us — Its Answer Shook Scientists](https://www.youtube.com/watch?v=DVHGhq73u_g)**
 
 Discover the mind‑bending response Grok AI gave when asked one of humanity's biggest questions: Why haven't aliens ...
 
 📺 Luminox
 
-👁️ 62K • 👍 2K • 💬 311 • ⏱️ 21:36 • 2d ago
+👁️ 63K • 👍 2K • 💬 316 • ⏱️ 21:36 • 2d ago
+
+---
+
+**[Suno AI vs FREE AI Music Generators: Who Wins?](https://www.youtube.com/watch?v=9Qm8dZl0dYw)**
+
+Check out Suno https://suno.com/?utm_source=Ytamb&utm_medium=isa-does-ai In this video, I break down how free and paid ...
+
+📺 Isa does AI
+
+👁️ 5K • 💬 1 • ⏱️ 10:45 • 2h ago
 
 ---
 
@@ -287,17 +311,7 @@ Anthropic is testing Claude Conway, a strange new AI system that looks less like
 
 📺 AI Revolution
 
-👁️ 59K • 👍 1K • 💬 81 • ⏱️ 10:50 • 1d ago
-
----
-
-**[Liquid River Cascade 🌊💧✨ (Part 1) AI ASMR | Endless Flow &amp; Pure Relax Energy 🌀💫](https://www.youtube.com/watch?v=uLEBB9HDoFI)**
-
-Welcome to Part 1 of Liquid River Cascade ✨   This place doesn't follow nature. It flows… differently. No wind. No sound.
-
-📺 Satisfyra ASMR
-
-👁️ 65K • 👍 4K • 💬 320 • ⏱️ 8:15 • 1d ago
+👁️ 60K • 👍 1K • 💬 81 • ⏱️ 10:50 • 1d ago
 
 ---
 
@@ -307,7 +321,7 @@ Here's the AI News you probably missed this week. Try Recraft V4 now and experie
 
 📺 Matt Wolfe
 
-👁️ 54K • 👍 2K • 💬 191 • ⏱️ 31:05 • 1d ago
+👁️ 57K • 👍 3K • 💬 197 • ⏱️ 31:05 • 1d ago
 
 ---
 
@@ -317,7 +331,17 @@ Asking ChatGPT about pi was the worst mistake he ever made. Become a member on Y
 
 📺 Mo Bitar
 
-👁️ 104K • 👍 8K • 💬 1K • ⏱️ 6:33 • 1d ago
+👁️ 110K • 👍 8K • 💬 1K • ⏱️ 6:33 • 1d ago
+
+---
+
+**[Liquid River Cascade 🌊💧✨ (Part 1) AI ASMR | Endless Flow &amp; Pure Relax Energy 🌀💫](https://www.youtube.com/watch?v=uLEBB9HDoFI)**
+
+Welcome to Part 1 of Liquid River Cascade ✨   This place doesn't follow nature. It flows… differently. No wind. No sound.
+
+📺 Satisfyra ASMR
+
+👁️ 69K • 👍 4K • 💬 323 • ⏱️ 8:15 • 1d ago
 
 ---
 
@@ -327,17 +351,17 @@ The results are in! Welcome to the finale of Jay vs AI vs Salesman build challen
 
 📺 JayzTwoCents
 
-👁️ 142K • 👍 9K • 💬 1K • ⏱️ 28:22 • 1d ago
+👁️ 144K • 👍 9K • 💬 1K • ⏱️ 28:22 • 1d ago
 
 ---
 
-**[Why I Switched From ChatGPT to Claude (without losing anything)](https://www.youtube.com/watch?v=XRU-CjzYt_o)**
+**[Elon Musk Notices Something About the AI Revolution No One Noticed](https://www.youtube.com/watch?v=ClG6LiSFbOQ)**
 
-Get your FREE AI Prompt Cheatsheet here: https://go.danmartell.com/484Q7tK Are you building an AI software company?
+Dave Rubin of "The Rubin Report" reacts to a DM clip of Elon Musk explaining to Peter H. Diamandis how AI and robots will likely ...
 
-📺 Dan Martell
+📺 The Rubin Report
 
-👁️ 167K • 👍 7K • 💬 664 • ⏱️ 16:07 • 2d ago
+👁️ 38K • 👍 3K • 💬 342 • ⏱️ 1:29 • 1d ago
 
 ---
 
@@ -347,45 +371,13 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Sambucha
 
-👁️ 785K • 👍 55K • 💬 460 • ⏱️ 0:53 • 22h ago
-
----
-
-**[AI BUBBLE POP?: HALF Of Datacenters Delayed/Canceled](https://www.youtube.com/watch?v=pkomxsk5hpY)**
-
-Krystal and Saagar discuss the AI bubble imploding. Sign up for a PREMIUM Breaking Points subscriptions for full early access to ...
-
-📺 Breaking Points
-
-👁️ 336K • 👍 10K • 💬 2K • ⏱️ 13:15 • 1d ago
-
----
-
-**[AI Played A War Game. It NUKED Everyone](https://www.youtube.com/watch?v=gV4csF-_yUg)**
-
-What happens when machines are put in charge of war? A chilling experiment placed advanced AI models in control of nuclear ...
-
-📺 The Infographics Show
-
-👁️ 181K • 👍 5K • 💬 1K • ⏱️ 16:40 • 1d ago
+👁️ 844K • 👍 63K • 💬 509 • ⏱️ 0:53 • 23h ago
 
 ---
 
 ---
 
 ## HuggingFace Models: 🔥 Trending
-
-**[Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled)**
-
-*JIRONG*
-
-Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-tuned for enhanced reasoning capabilities using Chain-of-Thought distillation from Claude-4.6 Opus. It excels at structured, step-by-step problem-solving within `<think>` tags, offering improved autonomy and stability for coding agents.
-
-`image-text-to-text` `27.8B`
-
-⬇️ 524,224 • ❤️ 2,268 • 11d ago
-
----
 
 **[gemma-4-31B-it](https://huggingface.co/google/gemma-4-31B-it)**
 
@@ -395,7 +387,19 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 287,440 • ❤️ 774 • 2d ago
+⬇️ 287,440 • ❤️ 792 • 2d ago
+
+---
+
+**[Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled)**
+
+*JIRONG*
+
+Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-tuned for enhanced reasoning capabilities using Chain-of-Thought distillation from Claude-4.6 Opus. It excels at structured, step-by-step problem-solving within `<think>` tags, offering improved autonomy and stability for coding agents.
+
+`image-text-to-text` `27.8B`
+
+⬇️ 524,224 • ❤️ 2,272 • 11d ago
 
 ---
 
@@ -407,7 +411,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 96,615 • ❤️ 773 • 1d ago
+⬇️ 96,615 • ❤️ 776 • 2d ago
 
 ---
 
@@ -419,7 +423,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 36,635 • ❤️ 909 • 9d ago
+⬇️ 36,635 • ❤️ 913 • 9d ago
 
 ---
 
@@ -431,7 +435,7 @@ Bonsai-8B-GGUF is a highly compressed 1-bit language model (1.15 GB) optimized f
 
 `text-generation` `8.2B`
 
-⬇️ 32,930 • ❤️ 377 • 4d ago
+⬇️ 32,930 • ❤️ 378 • 4d ago
 
 ---
 
@@ -443,7 +447,31 @@ Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing te
 
 `image-text-to-text` `26.5B`
 
-⬇️ 133,224 • ❤️ 331 • 2d ago
+⬇️ 133,224 • ❤️ 334 • 2d ago
+
+---
+
+**[Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF)**
+
+*JIRONG*
+
+Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text model fine-tuned for efficient chain-of-thought reasoning, achieving higher accuracy per token with reduced reasoning length. It excels in general reasoning tasks like math and logic, with strong cross-task generalization demonstrated by its HumanEval performance.
+
+`image-text-to-text` `26.9B`
+
+⬇️ 241,087 • ❤️ 500 • 10d ago
+
+---
+
+**[gemma-4-E4B-it](https://huggingface.co/google/gemma-4-E4B-it)**
+
+*Google*
+
+Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, supporting text and audio input with text output. It excels in reasoning, coding, and agentic tasks, featuring a 128K context window and efficient on-device deployment capabilities.
+
+`any-to-any` `8.0B`
+
+⬇️ 108,261 • ❤️ 290 • 2d ago
 
 ---
 
@@ -459,30 +487,6 @@ Voxtral 4B TTS 2603 is a fast, multilingual text-to-speech model producing lifel
 
 ---
 
-**[Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF)**
-
-*JIRONG*
-
-Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text model fine-tuned for efficient chain-of-thought reasoning, achieving higher accuracy per token with reduced reasoning length. It excels in general reasoning tasks like math and logic, with strong cross-task generalization demonstrated by its HumanEval performance.
-
-`image-text-to-text` `26.9B`
-
-⬇️ 241,087 • ❤️ 498 • 10d ago
-
----
-
-**[gemma-4-E4B-it](https://huggingface.co/google/gemma-4-E4B-it)**
-
-*Google*
-
-Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, supporting text and audio input with text output. It excels in reasoning, coding, and agentic tasks, featuring a 128K context window and efficient on-device deployment capabilities.
-
-`any-to-any` `8.0B`
-
-⬇️ 108,261 • ❤️ 284 • 2d ago
-
----
-
 **[Qwen3.5-9B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive)**
 
 *HauHau*
@@ -491,7 +495,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 715,586 • ❤️ 960 • 1mo ago
+⬇️ 715,586 • ❤️ 962 • 1mo ago
 
 ---
 
@@ -507,7 +511,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 150 • 💬 7 • ⭐ 35,908 • 7mo ago
+▲ 151 • 💬 7 • ⭐ 35,908 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -531,7 +535,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 35 • 💬 2 • ⭐ 46,762 • 15mo ago
+▲ 35 • 💬 2 • ⭐ 46,951 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -559,7 +563,7 @@ VOID is a video object removal framework that uses vision-language models and vi
 
 A large-scale dynamic dataset derived from AAA games is introduced to improve generative inverse and forward rendering, featuring high-resolution synchronized RGB and G-buffer data alongside a novel VLM-based evaluation method that correlates well with human judgment.
 
-▲ 81 • 💬 3 • ⭐ 182 • 2d ago
+▲ 83 • 💬 3 • ⭐ 182 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.02329) • [💻 code](https://github.com/ShandaAI/AlayaRenderer) • [🔗 project](https://alaya-studio.github.io/renderer)
 
@@ -639,7 +643,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `Python`
 
-⭐ 65.4k • 🔱 9.3k • 9d ago
+⭐ 65.4k • 🔱 9.4k • 9d ago
 
 ---
 
@@ -649,7 +653,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 15.0k • 🔱 832 • 4d ago
+⭐ 15.0k • 🔱 833 • 4d ago
 
 ---
 
@@ -659,7 +663,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 12.9k • 🔱 1.2k • 2h ago
+⭐ 12.9k • 🔱 1.2k • 8m ago
 
 ---
 
@@ -669,7 +673,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 8.4k • 🔱 1.3k • 23h ago
+⭐ 8.4k • 🔱 1.3k • 1d ago
 
 ---
 
@@ -679,7 +683,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 7.5k • 🔱 995 • 5d ago
+⭐ 7.6k • 🔱 1.0k • 5d ago
 
 ---
 
@@ -689,7 +693,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.6k • 🔱 380 • 7h ago
+⭐ 6.6k • 🔱 382 • 1h ago
 
 ---
 
@@ -699,7 +703,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.0k • 🔱 1.5k • 7h ago
+⭐ 5.0k • 🔱 1.5k • 8h ago
 
 ---
 
@@ -719,7 +723,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `Shell` `agency-orchestrator` `agent-definitions` `ai-agents` `ai-roles` `chinese`
 
-⭐ 3.8k • 🔱 652 • 2d ago
+⭐ 3.8k • 🔱 659 • 2d ago
 
 ---
 
