@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-05T07:55:21.233600+00:00'
+updated: '2026-04-05T08:44:35.931876+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 05, 2026 at 07:55 UTC  
+**Last Updated:** April 05, 2026 at 08:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 To add to the title - At some point in 2009-2012, I used to leave my computer on overnight and while I was at school, mining bitcoin. I can't remember how long for, it could've been for a couple of weeks or potentially months. I only remember it was within this time period because it overlapped with me playing Runescape (lol), and I quit playing in 2012 for 10 years or more. I have sort of moved away from computers although in those days I was interested in gaming and beginner hacking. I was 15-17 and the hacking part is daft looking back at it. But what I'm really trying to say is I used to be fairly computer literate and now, not so much. I've been using macs for 12 years now. So no matter whether it was a week or several months I left it mining overnight etc. for, there is likely a decent amount of bitcoin on the harddrive. I don't have access to the email address I used in those years, I lost it about 5 years ago and seemingly can't recover it. ChatGPT tells me this likely isn't an issue as emails weren't used for sign up in the early days. More advice was to remove the hard drive and back it up on a second hard drive, before opening. Do I have a stab at this myself? How do I do this? Can I plug hard drive into my mac to transfer to a second hard drive? What if the hard drive was wiped? Would it be in any way possible to recover it? If I manage to locate the wallet, will I need to remember the password? I believe it was a long set of random numbers and letters so will never remember unless I also have it saved on the computer somewhere. What are my next steps? Thank you in advance.
 
-4h ago
+5h ago
 
 ---
 
 **[Could it really be that simple?](https://www.reddit.com/r/Bitcoin/comments/1scx8vs/could_it_really_be_that_simple/)**
 
-34m ago
+1h ago
 
 ---
 
@@ -95,7 +95,7 @@ To add to the title - At some point in 2009-2012, I used to leave my computer on
 
 Jack Dorsey teased a potential revival of the Bitcoin faucet tied to “Bitcoin Day,” echoing Gavin Andresen’s 2010 giveaway model.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/jack-dorsey-reveals-bitcoin-faucet) • 1h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/jack-dorsey-reveals-bitcoin-faucet) • 2h ago
 
 ---
 
@@ -103,7 +103,7 @@ Jack Dorsey teased a potential revival of the Bitcoin faucet tied to “Bitcoin 
 
 Just threw on some low budget movie - or what I thought was a movie. Self Custody is a 30min propaganda commercial to scare people away from Self Custody. There's no other reason for this pile of crap to exist.
 
-2h ago
+3h ago
 
 ---
 
@@ -111,7 +111,7 @@ Just threw on some low budget movie - or what I thought was a movie. Self Custod
 
 I want a way which is easier for them to check price and buy more. They aren't tech savvy. confused between CEX and ETF
 
-4h ago
+5h ago
 
 ---
 
@@ -119,7 +119,7 @@ I want a way which is easier for them to check price and buy more. They aren't t
 
 Hi, Whats your perspective on this?
 
-17h ago
+18h ago
 
 ---
 
@@ -127,7 +127,7 @@ Hi, Whats your perspective on this?
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-1h ago
+2h ago
 
 ---
 
@@ -135,7 +135,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Hi, I don't have a bank account and there isn't any ATMs around me I can use to buy cryptocurrencies. I bought a vanilla card online to buy crypto. How can I do so? Thank you.
 
-19h ago
+20h ago
 
 ---
 
@@ -151,7 +151,7 @@ Hi my father had an Android S20 FE and we cannot figure out his password to get 
 
 Bitcoin Sports℠ logos
 
-7h ago
+8h ago
 
 ---
 
@@ -179,7 +179,7 @@ CoinDesk • 4h ago
 
 Guthrie, 84, has been missing since Feb. 1, and despite authorities receiving thousands of tips, her disappearance remains a mystery.
 
-AOL.com • 2h ago
+AOL.com • 3h ago
 
 ---
 
@@ -201,7 +201,7 @@ thestreet.com • 2d ago
 
 **[‘You Have Until 2029’—Urgent Musk Bitcoin Warning Spurs Coinbase CEO Flip As Price Crash Fears Swirl](https://www.forbes.com/sites/digital-assets/2026/04/04/you-have-until-2029-urgent-elon-musk-bitcoin-warning-suddenly-triggers-price-crash-fears/)**
 
-Forbes • 19h ago
+Forbes • 20h ago
 
 ---
 
@@ -209,7 +209,7 @@ Forbes • 19h ago
 
 Bitcoin is showing signs of hesitation at the $66,000 level, with price action slipping into a tight, choppy range. Momentum on the upside continues to fade, and each attempt to push higher is met with weaker follow-through. Beneath the surface, liquidity remains stacked, suggesting the market may…
 
-TradingView • 6h ago
+TradingView • 7h ago
 
 ---
 
@@ -231,7 +231,7 @@ Bloomberg.com • 2d ago
 
 Analyst Michael van de Poppe says Bitcoin's prolonged stagnation below $70,000 could lead to a heavier breakout, while other analysts warn of a potential deeper bear market.
 
-bitbo.io • 13h ago
+bitbo.io • 14h ago
 
 ---
 
@@ -331,7 +331,7 @@ Welcome back to Verified Investing! In today's urgent crypto market update, Chie
 
 📺 Gareth Soloway
 
-👁️ 70K • 👍 4K • 💬 430 • ⏱️ 11:47 • 14h ago
+👁️ 70K • 👍 4K • 💬 430 • ⏱️ 11:47 • 15h ago
 
 ---
 
@@ -351,7 +351,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 39K • 👍 2K • 💬 102 • ⏱️ 45:08 • 18h ago
+👁️ 39K • 👍 2K • 💬 102 • ⏱️ 45:08 • 19h ago
 
 ---
 
@@ -371,7 +371,7 @@ Coinbase just told Washington that Bitcoin doesn't need a tax exemption because 
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 773 • 💬 66 • ⏱️ 17:14 • 10h ago
+👁️ 10K • 👍 773 • 💬 66 • ⏱️ 17:14 • 11h ago
 
 ---
 
@@ -381,7 +381,7 @@ The risk models that say when to accumulate or exit HERE. Free trial https://app
 
 📺 Dan Gambardello
 
-👁️ 11K • 👍 697 • 💬 279 • ⏱️ 12:33 • 18h ago
+👁️ 11K • 👍 697 • 💬 279 • ⏱️ 12:33 • 19h ago
 
 ---
 

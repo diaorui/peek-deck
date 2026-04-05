@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-05T07:55:21.239565+00:00'
+updated: '2026-04-05T08:44:35.937883+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 05, 2026 at 07:55 UTC  
+**Last Updated:** April 05, 2026 at 08:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Russia submitted a bill requiring residents to report all foreign crypto wallet activity to tax authorities from July 2026. Twenty million users. No exemptions. This is what state capture of crypto looks like.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/russia-bitcoin-ban-failed-wallet-registration-2026/) • 9h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/russia-bitcoin-ban-failed-wallet-registration-2026/) • 10h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Where is everyone trading/storing their crypto specifically eth? I currently am in crypto.com and having issues. I want to pull all my positions and move to another platform. I currently have WeBull and fidelity but don’t want to cram too much into fidelity as I like my eggs spread out. Which platform would you recommend?
 
-14h ago
+15h ago
 
 ---
 
@@ -170,7 +170,7 @@ The Motley Fool • 1d ago
 
 Confused by ethereum? Here’s a simple, beginner-friendly explanation of how it works, how to invest and whether it’s a good crypto investment, per ChatGPT.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -202,7 +202,7 @@ Polymarket • 1d ago
 
 Ethereum is flashing a rare market signal, and it’s not showing up in price yet. While the broader crypto market remains stuck in consolidation, ETH
 
-coinpedia.org • 18h ago
+coinpedia.org • 19h ago
 
 ---
 
@@ -210,13 +210,13 @@ coinpedia.org • 18h ago
 
 Charles Schwab plans to launch spot Bitcoin and Ethereum trading through its banking subsidiary in early 2026. The market for Bitcoin surpassing $100,000 by Jun
 
-Crypto Briefing • 5h ago
+Crypto Briefing • 6h ago
 
 ---
 
 **[Ethereum Price Prediction Eyes $5,000 as Foundation Stakes $143M Into ETH While New Crypto Pepeto Nears Binance Listing](https://financefeeds.com/ethereum-price-prediction-eyes-5000-as-foundation-stakes-143m-into-eth-while-new-crypto-pepeto-nears-binance-listing/)**
 
-FinanceFeeds • 7h ago
+FinanceFeeds • 8h ago
 
 ---
 
@@ -238,7 +238,7 @@ Welcome back to Verified Investing! In today's urgent crypto market update, Chie
 
 📺 Gareth Soloway
 
-👁️ 70K • 👍 4K • 💬 430 • ⏱️ 11:47 • 14h ago
+👁️ 70K • 👍 4K • 💬 430 • ⏱️ 11:47 • 15h ago
 
 ---
 
@@ -248,7 +248,7 @@ Welcome back to Verified Investing! In today's urgent crypto market update, Chie
 
 📺 Stock Moe
 
-👁️ 13K • 👍 828 • 💬 95 • ⏱️ 11:56 • 19h ago
+👁️ 13K • 👍 828 • 💬 95 • ⏱️ 11:56 • 20h ago
 
 ---
 
@@ -268,7 +268,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 214 • 💬 18 • ⏱️ 10:14 • 18h ago
+👁️ 4K • 👍 214 • 💬 18 • ⏱️ 10:14 • 19h ago
 
 ---
 
@@ -288,7 +288,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 440 • 👍 58 • ⏱️ 6:21 • 3h ago
+👁️ 440 • 👍 58 • ⏱️ 6:21 • 4h ago
 
 ---
 
@@ -298,7 +298,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 202 • 👍 9 • 💬 1 • ⏱️ 4:43 • 21h ago
+👁️ 202 • 👍 9 • 💬 1 • ⏱️ 4:43 • 22h ago
 
 ---
 

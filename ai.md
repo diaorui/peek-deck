@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-05T07:55:21.225134+00:00'
+updated: '2026-04-05T08:44:35.923228+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
 - repositories
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 05, 2026 at 07:55 UTC  
+**Last Updated:** April 05, 2026 at 08:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[OpenAI CEO Sam Altman accused of sexual abuse by family member](https://www.reddit.com/r/artificial/comments/1sc3kpj/openai_ceo_sam_altman_accused_of_sexual_abuse_by/)**
 
-🔗 [The Independent](https://www.independent.co.uk/bulletin/news/sam-altman-lawsuit-abuse-sexual-assault-sister-annie-b2950929.html) • 23h ago
+🔗 [The Independent](https://www.independent.co.uk/bulletin/news/sam-altman-lawsuit-abuse-sexual-assault-sister-annie-b2950929.html) • 1d ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 AI sycophancy, RLHF bias, and Ender's Foundry simulations shaped Operation Epic Fury. 7 planning assumptions failed in 23 days as the Iran war defied every AI prediction.
 
-🔗 [House of Saud](https://houseofsaud.com/iran-war-ai-psychosis-sycophancy-rlhf/) • 7h ago
+🔗 [House of Saud](https://houseofsaud.com/iran-war-ai-psychosis-sycophancy-rlhf/) • 8h ago
 
 ---
 
@@ -55,7 +55,7 @@ AI sycophancy, RLHF bias, and Ender's Foundry simulations shaped Operation Epic 
 
 I'm a strategy person by background. Two years ago I'd write a recommendation and hand it to a product team. Now.. I describe what I want to Claude and I've got a prototype.. Feels like I'm not the only one crossing lanes though.. the engineers I know are making product calls. Product people are prototyping strategic hypotheses. Strategy people are shipping code. I wrote a more detailed blog on it (which I can share if people want to read) but curious whether people outside of tech are seeing the same pattern. Can you let me know if you're seeing this pattern in your company and what industry you'd say you're in? I'd think this is primarily tech/big tech right now?
 
-1h ago
+2h ago
 
 ---
 
@@ -71,13 +71,13 @@ My friend came over yesterday to dye her hair. She had asked ChatGPT for the 'co
 
 someone opensource an ai agent that autonomously upgraded itself to #1 across multiple domains in < 24 hours…. then open sourced the entire thing but here’s why it actually works: - agents fucking suck, not because of the model, because of their harness (tools, system prompts etc) - Auto agent creates a Meta agent that tweaks your agents harness, runs tests, improves it again - until it’s #1 at its goal - best part: you can set this up for ANY task. in this article he uses it for terminal bench (code) and spreadsheets (financial modelling) - it topped rankings for both :) - secret sauce: he used THE SAME MODEL to evaluate the agent - claude managing claude = better understanding of why it failed and how to improve it humans were the fucking bottleneck and this not only saves you a load of time, it’s just a better way to train them for domain specific tasks https://github.com/kevinrgu/autoagent
 
-32m ago
+1h ago
 
 ---
 
 **[Midjourney has a new offer on the cancel page there is 20 off for 2 months](https://www.reddit.com/r/artificial/comments/1scx7as/midjourney_has_a_new_offer_on_the_cancel_page/)**
 
-36m ago
+1h ago
 
 ---
 
@@ -85,7 +85,7 @@ someone opensource an ai agent that autonomously upgraded itself to #1 across mu
 
 Every single Instagram reel or TikTok I scroll i see people mentioning Claude and glazing it like it’s some kind of master tool that’s better than every single other ai assistant. do they run a strong marketing program or is it really that good in contrast to other ai tools? Before i started seeing it for the first time i only heard that it’s a little better for coding, but know i see it everywhere. I've tried it too, but it doesn’t seem to be much different than ChatGPT to me. Is it actually this powerful at the moment? + Not to mention that many people also hate on ChatGPT too. Though it’s still the best one for me (edit): i have never searched for it and I dont think that my algorithm is set to appear claude videos. I believe that it’s viral in general and I know you guys agree
 
-17h ago
+18h ago
 
 ---
 
@@ -109,7 +109,7 @@ Back in the day, I got ChatGPT Plus mostly for work and to help me write better 
 
 Hola chicos, he creado un agente mayorista que da seguimiento a las conversaciones de clientes potenciales, reserva visitas según una tabla de horarios, rastrea toda la información, escanea clientes potenciales, calcula ofertas y todo está conectado a un flujo de trabajo n8n, cuando llega un cliente potencial, hay una visita reservada, se ejecuta el escáner, etc., te envía un correo electrónico, una notificación de Slack, crea un cliente potencial en Zoho CRM y agrega una fila en Google Sheets, puede manejar compradores y vendedores, algunas personas me preguntaron cuánto les cobro, y aquí está cuando se van, no sé si digo precios tan altos, pero ¿cuánto les cobrarías tú?
 
-3h ago
+4h ago
 
 ---
 
@@ -121,7 +121,7 @@ Hola chicos, he creado un agente mayorista que da seguimiento a las conversacion
 
 In dominating consumer devices, Apple sold users on the promise of privacy. To compete in AI, it may have to pivot.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
@@ -135,7 +135,7 @@ reuters.com • 1d ago
 
 After forgetting the nibbles, turning down my costume requests and emailing GCHQ, ‘Gaskell’ did at least get us to show up
 
-The Guardian • 53m ago
+The Guardian • 1h ago
 
 ---
 
@@ -143,7 +143,7 @@ The Guardian • 53m ago
 
 Videos have targeted Viktor Orbán's election rival, who could unseat him after 16 years in office.
 
-BBC • 8h ago
+BBC • 9h ago
 
 ---
 
@@ -151,13 +151,13 @@ BBC • 8h ago
 
 As more college students use AI for classroom discussions, some students admit they’re starting to sound alike. Teachers say they’re also getting less creative.
 
-CNN • 21h ago
+CNN • 22h ago
 
 ---
 
 **[What Teens Are Doing With Those Role-Playing Chatbots](https://www.nytimes.com/2026/04/04/technology/ai-chatbots-teen-roleplay.html)**
 
-The New York Times • 13h ago
+The New York Times • 14h ago
 
 ---
 
@@ -165,7 +165,7 @@ The New York Times • 13h ago
 
 Washington, April 5 (IANS) Chinese firms are using artificial intelligence and open-source data to track US military movements during the Iran war, raising fresh concerns in Washington about emerging battlefield surveillance risks, a media report sai
 
-NDTV • 6h ago
+NDTV • 7h ago
 
 ---
 
@@ -173,7 +173,7 @@ NDTV • 6h ago
 
 Private Chinese technology companies — some with ties to the military — are marketing detailed intelligence on movements of U.S. forces in Iran, even as Beijing seeks to keep its distance.
 
-The Washington Post • 15h ago
+The Washington Post • 16h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Washington Post • 15h ago
 
 A Pentagon AI program called Project Maven is at the center of the US strikes against Iran and potentially one of the most consequential transformations of modern warfare.
 
-France 24 • 6h ago
+France 24 • 7h ago
 
 ---
 
@@ -189,7 +189,7 @@ France 24 • 6h ago
 
 Pascual Restrepo's new NBER paper argues it's not about what AI can do. It's about what AI will bother doing—and most human work doesn't make the cut.
 
-Fortune • 23h ago
+Fortune • 1d ago
 
 ---
 
@@ -249,7 +249,7 @@ AI-powered travel hacking with points, miles, and award flights. Drop-in skills 
 
 **[Writing Lisp is AI resistant and I'm sad](https://news.ycombinator.com/item?id=47645468)**
 
-⬆️ 61 • 💬 59 • 5h ago • [blog.djhaskin.com](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
+⬆️ 61 • 💬 59 • 6h ago • [blog.djhaskin.com](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
 
 ---
 
@@ -285,7 +285,7 @@ This video was made with financial support from the Center for Al Safety. This v
 
 📺 How to Survive Show
 
-👁️ 3K • 👍 211 • 💬 26 • ⏱️ 19:08 • 16h ago
+👁️ 3K • 👍 211 • 💬 26 • ⏱️ 19:08 • 17h ago
 
 ---
 
@@ -659,7 +659,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 13.1k • 🔱 1.2k • 3m ago
+⭐ 13.1k • 🔱 1.2k • 52m ago
 
 ---
 
@@ -689,7 +689,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.7k • 🔱 386 • 16h ago
+⭐ 6.7k • 🔱 386 • 17h ago
 
 ---
 
@@ -699,7 +699,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.1k • 🔱 1.6k • 23h ago
+⭐ 5.1k • 🔱 1.6k • 1d ago
 
 ---
 
@@ -719,7 +719,7 @@ Autonomous novel writing CLI AI Agent — agents write, audit, and revise novels
 
 `TypeScript` `agent` `ai` `ai-agent` `ai-novel` `ai-writing`
 
-⭐ 3.5k • 🔱 627 • 21h ago
+⭐ 3.5k • 🔱 627 • 22h ago
 
 ---
 
