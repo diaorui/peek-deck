@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-05T09:39:45.881158+00:00'
+updated: '2026-04-05T10:35:10.863702+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 05, 2026 at 09:39 UTC  
+**Last Updated:** April 05, 2026 at 10:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 I was brought in to do some work on a pair of R-2000 Fanuc's a few years back and saw this on the safety fencing of the work cell.
 
-14h ago
+15h ago
 
 ---
 
 **[Robots are starting to enter one of the most sensitive environments we have.](https://www.reddit.com/r/robotics/comments/1scemxg/robots_are_starting_to_enter_one_of_the_most/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -50,7 +50,7 @@ I was brought in to do some work on a pair of R-2000 Fanuc's a few years back an
 
 Hey everyone, This was a short 2-day project exploring how a humanoid robot could fit into Muji’s minimal lifestyle philosophy. I focused on human-robot interaction — how the robot should feel, behave, and quietly exist in everyday spaces. Tried to keep everything simple, functional, and consistent with clear product constraints. Would love to hear your thoughts!
 
-11h ago
+12h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hey everyone, This was a short 2-day project exploring how a humanoid robot coul
 
 Researchers in the United States have developed air-powered artificial muscles that significantly enhance robots’ strength and mobility. This new technology enables robots to lift and carry loads many times their own weight more efficiently and with greater flexibility.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/artificial-muscles-robot-lift-more-weight) • 14h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/artificial-muscles-robot-lift-more-weight) • 15h ago
 
 ---
 
@@ -66,7 +66,7 @@ Researchers in the United States have developed air-powered artificial muscles t
 
 Hi! I’m working on bunch of tools for product design engineers and going to add them under meche.ai Currently I have: printadvisor.ai (material selection, print settings feedback) tolanalysis.com (tolerance stack up, Monte Carlo sim, Cpk analysis) dfmanalysis.com (DFM for CNC, sheet metal) pd.meche.ai (PD interview prep tool) cad.meche.ai (CAD viewer which is beautiful) Please check them and let me know if you have any thoughts/feedback 🙏 I’m planning to build more tools that I can put into use myself and for the community! So far I love building with Claude and Cursor. Feels like a new power got unlocked! 🔓
 
-🔗 [meche.ai](https://meche.ai) • 6h ago
+🔗 [meche.ai](https://meche.ai) • 7h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hi! I’m working on bunch of tools for product design engineers and going to ad
 
 I’ve open-sourced GS-DroneGym, a drone-first research stack for vision-language-action work. Main idea: instead of only using synthetic assets, it can render observations from 3D Gaussian Splatting scenes, so you can prototype aerial waypoint policies in environments much closer to real visual conditions. Current features: - 6-DOF quadrotor dynamics - waypoint controller for [x, y, z, yaw] - gsplat renderer with CPU fallback - navigation tasks: PointNav, ObjectNav, ObstacleSlalom, DynamicFollow, NarrowCorridor - live viewer with RGB / depth / top-down trajectory - shared trajectory schema + dataset/eval tooling - adapters for GS-DroneGym, LIBERO, and LeRobot-format datasets https://github.com/09Catho/gs-dronegym Please star the repo if you find ut useful I’d especially appreciate feedback on: - sim-to-real usefulness - dataset generation for aerial VLA training - benchmark design for drone navigation
 
-12h ago
+13h ago
 
 ---
 
@@ -82,7 +82,7 @@ I’ve open-sourced GS-DroneGym, a drone-first research stack for vision-languag
 
 https://www.youtube.com/@ALMA.GeoffreyAment Chapter 3 Footnote 1. Building an Actuator, a PID Control Loop, and an Ultrasonic Distance sensor to detect and not crash into the ceiling. This will be used in Chapter 3 Desk -- Stay tuned for more!
 
-15h ago
+16h ago
 
 ---
 
@@ -90,7 +90,7 @@ https://www.youtube.com/@ALMA.GeoffreyAment Chapter 3 Footnote 1. Building an Ac
 
 I couldn't find a tool that properly visualized frame transformations, so I built one, and I think it is useful for many others too. What it (currently) does: Degree/radian converter My main focus is robotics, so next up I'm looking to add ROS 2-oriented features — these should for example make it faster to figure out why your transforms aren't doing what you think they should. If you think a feature is missing or have something you'd love to see added, I'm open to requests. https://rotation.dev
 
-18h ago
+19h ago
 
 ---
 
@@ -98,7 +98,7 @@ I couldn't find a tool that properly visualized frame transformations, so I buil
 
 hi, i've been working on browser-based robotics simulation and wanted to get some feedback. as of now, one can control/simulate, unitree g1, h1, go1, bostons, franka panda arm, or create your own robot. we're working on few more things. 1. training module to train policies directly in browser based on behaviour cloning + RL. 2. rent a robot - to see your trainings in simulations vs on real robots in real world, 3. and much more https://reddit.com/link/1sc8t84/video/jc23l5jas5tg1/player
 
-20h ago
+21h ago
 
 ---
 
@@ -116,7 +116,7 @@ hi, i've been working on browser-based robotics simulation and wanted to get som
 
 Both of these companies are proven trailblazers.
 
-The Motley Fool • 14h ago
+The Motley Fool • 15h ago
 
 ---
 
@@ -146,7 +146,7 @@ CNET • 2d ago
 
 This National Robotics Week, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world.
 
-NVIDIA Blog • 16h ago
+NVIDIA Blog • 17h ago
 
 ---
 
@@ -178,7 +178,7 @@ Crunchbase News • 2d ago
 
 Team R.I.C.E. 870 will go back to the FIRST world championship for the seventh time after a victory at the L.I. regional competition in March.
 
-The Suffolk Times • 1d ago
+The Suffolk Times • 2d ago
 
 ---
 
@@ -192,13 +192,21 @@ Tech Xplore • 2d ago
 
 ## YouTube Videos: "robotics"
 
+**[Auto Deodorant dispenser progress #diy #artificialintelligence #engineering #robotics #disability](https://www.youtube.com/watch?v=JuzaKB0lx6k)**
+
+📺 Yard Mon Robotics
+
+👁️ 1K • 👍 41 • 💬 5 • ⏱️ 0:47 • 7h ago
+
+---
+
 **[Shawn Ryan Tests a Real Humanoid Robot](https://www.youtube.com/watch?v=HWq9cFhTvvQ)**
 
 Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In this clip, we break down how this robot sees, ...
 
 📺 Shawn Ryan Show
 
-👁️ 964K • 👍 36K • 💬 6K • ⏱️ 8:48 • 3d ago
+👁️ 973K • 👍 36K • 💬 6K • ⏱️ 8:48 • 3d ago
 
 ---
 
@@ -212,13 +220,33 @@ Samsung is drawing significant attention with its new concept known as “Galaxy
 
 ---
 
+**[Xiaomi Unveils &quot;Mi Bot&quot; - Robot Assistant That Can Sell Phones](https://www.youtube.com/watch?v=WgxEbw1i_PM)**
+
+Xiaomi is attracting attention with a new concept known as “Mi Bot,” a robotic assistant designed to operate in retail environments ...
+
+📺 Carros Show
+
+👁️ 5K • 👍 101 • 💬 3 • ⏱️ 8:55 • 6d ago
+
+---
+
+**[Shawn Ryan SHOCKED—They’re Mass-Producing Human Robots… Like iPhones](https://www.youtube.com/watch?v=-mkpQrPb8d0)**
+
+Shawn Ryan comes into direct contact with a humanoid robot and the CEO who wants to have every family own one.
+
+📺 Aaron Page 
+
+👁️ 53K • 👍 2K • 💬 492 • ⏱️ 13:41 • 2d ago
+
+---
+
 **[Brett Adcock - Shawn Ryan’s First Interview with a Robot | SRS #292](https://www.youtube.com/watch?v=99pOdGEGu6s)**
 
 Brett Adcock is a technology entrepreneur focused on building companies in robotics, artificial intelligence, and aerospace.
 
 📺 Shawn Ryan Show
 
-👁️ 511K • 👍 10K • 💬 3K • ⏱️ 2:57:09 • 5d ago
+👁️ 512K • 👍 10K • 💬 3K • ⏱️ 2:57:09 • 5d ago
 
 ---
 
@@ -232,23 +260,13 @@ Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking
 
 ---
 
-**[Xiaomi Unveils &quot;Mi Bot&quot; - Robot Assistant That Can Sell Phones](https://www.youtube.com/watch?v=WgxEbw1i_PM)**
+**[Live Robot Fighting: Round 3 of NHRL&#39;s KO Show (April 4th)](https://www.youtube.com/watch?v=UODQ1UG790U)**
 
-Xiaomi is attracting attention with a new concept known as “Mi Bot,” a robotic assistant designed to operate in retail environments ...
+Round 3 of The 2026 NHRL Pro World Championship kicks off NOW! The path to crown a champion starts now. Who will take ...
 
-📺 Carros Show
+📺 NHRL
 
-👁️ 5K • 👍 101 • 💬 3 • ⏱️ 8:55 • 6d ago
-
----
-
-**[Shawn Ryan Gets a Real-Life Robot 😳](https://www.youtube.com/watch?v=fQdJb7YzDRc)**
-
-Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join Support the Shawn ...
-
-📺 Shawn Ryan Show
-
-👁️ 1.1M • 👍 18K • 💬 1K • ⏱️ 0:28 • 5d ago
+👁️ 11K • 👍 313 • 💬 4 • ⏱️ 4:56:01 • 11h ago
 
 ---
 
@@ -268,27 +286,7 @@ Welch Labs Book: https://www.welchlabs.com/resources/ai-book-ezrzm-msrmc Book & 
 
 📺 Welch Labs
 
-👁️ 35K • 👍 2K • 💬 111 • ⏱️ 35:02 • 16h ago
-
----
-
-**[All Day Robot Fighting: Round 3 of NHRL&#39;s KO Show is LIVE on April 4th at 2pm](https://www.youtube.com/watch?v=UODQ1UG790U)**
-
-Round 3 of The 2026 NHRL Pro World Championship kicks off NOW! The path to crown a champion starts now. Who will take ...
-
-📺 NHRL
-
-👁️ 10K • 👍 308 • 💬 4 • ⏱️ 4:56:01 • 10h ago
-
----
-
-**[Shawn Ryan SHOCKED—They’re Mass-Producing Human Robots… Like iPhones](https://www.youtube.com/watch?v=-mkpQrPb8d0)**
-
-Shawn Ryan comes into direct contact with a humanoid robot and the CEO who wants to have every family own one.
-
-📺 Aaron Page 
-
-👁️ 52K • 👍 2K • 💬 487 • ⏱️ 13:41 • 2d ago
+👁️ 39K • 👍 2K • 💬 125 • ⏱️ 35:02 • 17h ago
 
 ---
 

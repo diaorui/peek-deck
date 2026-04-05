@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-05T09:39:45.878035+00:00'
+updated: '2026-04-05T10:35:10.860919+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 05, 2026 at 09:39 UTC  
+**Last Updated:** April 05, 2026 at 10:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $245.71B
+**Market Cap:** $246.70B
 Rank #2
 
 **Circulating Supply:** 120,691,238 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.8%
+-58.7%
 
 **All-Time Low:** $0.43
-+470130.7%
++472063.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Russia submitted a bill requiring residents to report all foreign crypto wallet activity to tax authorities from July 2026. Twenty million users. No exemptions. This is what state capture of crypto looks like.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/russia-bitcoin-ban-failed-wallet-registration-2026/) • 11h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/russia-bitcoin-ban-failed-wallet-registration-2026/) • 12h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Where is everyone trading/storing their crypto specifically eth? I currently am in crypto.com and having issues. I want to pull all my positions and move to another platform. I currently have WeBull and fidelity but don’t want to cram too much into fidelity as I like my eggs spread out. Which platform would you recommend?
 
-16h ago
+17h ago
 
 ---
 
@@ -136,7 +136,7 @@ Quantum breakthrough papers, Aave v4, Aztec alpha
 
 People ask this a lot and most answers are either too optimistic or outdated. Here's what actually works day to day. Direct crypto payments (limited but real) - A small number of merchants accept crypto directly via BitPay or CoinGate. Shows up at checkout alongside card/PayPal. Works in tech, gaming, VPN, some travel. Still niche. Crypto debit cards (most practical for daily use) - Platforms issue Visa/Mastercard cards linked to your crypto account. Spend anywhere that takes Visa, crypto converts to fiat at point of sale. Usually comes with some cashback in platform tokens. Works fine for everyday spending. Stablecoins for transfers - Sending money internationally or paying someone who accepts USDC/USDT is genuinely fast and cheap vs bank wire. More useful than people think for freelance/remote work. Gift cards via Bitrefill (underrated) - Buy gift cards from Amazon, Airbnb, Uber, Steam using crypto. Works everywhere those retailers are accepted. Not seamless but surprisingly broad coverage. Honest reality in 2026: most people still convert to fiat first. Crypto debit cards are the closest thing to seamless daily spending. Several platforms are building bank-integrated crypto cards - worth watching which ones actually ship. What's your setup for spending crypto day to day? Anyone found something that genuinely feels frictionless?
 
-1d ago
+2d ago
 
 ---
 
@@ -170,7 +170,7 @@ The Motley Fool • 1d ago
 
 Confused by ethereum? Here’s a simple, beginner-friendly explanation of how it works, how to invest and whether it’s a good crypto investment, per ChatGPT.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -186,7 +186,7 @@ CoinDesk • 1d ago
 
 Adoption of Bitcoin and Ethereum is poised to take a significant step forward as Charles Schwab introduces direct trading for both assets on its platform. As one of the largest financial institutions in the world, managing trillions in client assets, Schwab’s entry into the crypto space represents…
 
-TradingView • 10h ago
+TradingView • 11h ago
 
 ---
 
@@ -210,13 +210,13 @@ The Block • 1d ago
 
 Charles Schwab plans to launch spot Bitcoin and Ethereum trading through its banking subsidiary in early 2026. The market for Bitcoin surpassing $100,000 by Jun
 
-Crypto Briefing • 6h ago
+Crypto Briefing • 7h ago
 
 ---
 
 **[Ethereum Price Prediction Eyes $5,000 as Foundation Stakes $143M Into ETH While New Crypto Pepeto Nears Binance Listing](https://financefeeds.com/ethereum-price-prediction-eyes-5000-as-foundation-stakes-143m-into-eth-while-new-crypto-pepeto-nears-binance-listing/)**
 
-FinanceFeeds • 9h ago
+FinanceFeeds • 10h ago
 
 ---
 
@@ -238,7 +238,7 @@ Welcome back to Verified Investing! In today's urgent crypto market update, Chie
 
 📺 Gareth Soloway
 
-👁️ 70K • 👍 4K • 💬 430 • ⏱️ 11:47 • 16h ago
+👁️ 75K • 👍 4K • 💬 457 • ⏱️ 11:47 • 17h ago
 
 ---
 
@@ -248,7 +248,7 @@ Welcome back to Verified Investing! In today's urgent crypto market update, Chie
 
 📺 Stock Moe
 
-👁️ 13K • 👍 828 • 💬 95 • ⏱️ 11:56 • 21h ago
+👁️ 13K • 👍 829 • 💬 95 • ⏱️ 11:56 • 22h ago
 
 ---
 
@@ -258,7 +258,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 117 • 💬 52 • ⏱️ 10:32 • 1d ago
+👁️ 3K • 👍 118 • 💬 52 • ⏱️ 10:32 • 1d ago
 
 ---
 
@@ -268,17 +268,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 214 • 💬 18 • ⏱️ 10:14 • 20h ago
-
----
-
-**[$12 Trillion Charles Schwab Set To Launch Bitcoin &amp; Ethereum Trading — Huge News For Crypto Now](https://www.youtube.com/watch?v=m0LcanHMDPA)**
-
-IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
-
-📺 The Kenzo Guy
-
-👁️ 3K • 👍 255 • 💬 14 • ⏱️ 27:08 • 1d ago
+👁️ 4K • 👍 220 • 💬 18 • ⏱️ 10:14 • 21h ago
 
 ---
 
@@ -288,27 +278,27 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 440 • 👍 58 • ⏱️ 6:21 • 5h ago
+👁️ 718 • 👍 67 • 💬 8 • ⏱️ 6:21 • 6h ago
 
 ---
 
-**[MAJOR VOLATILITY INCOMING!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=olt2fgU1RGc)**
+**[$12 Trillion Charles Schwab Set To Launch Bitcoin &amp; Ethereum Trading — Huge News For Crypto Now](https://www.youtube.com/watch?v=m0LcanHMDPA)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
 
-📺 Cilinix Crypto
+📺 The Kenzo Guy
 
-👁️ 202 • 👍 9 • 💬 1 • ⏱️ 4:43 • 23h ago
+👁️ 3K • 👍 256 • 💬 14 • ⏱️ 27:08 • 1d ago
 
 ---
 
-**[BUY BUY BUY BUY !!!!!!!!](https://www.youtube.com/watch?v=Yt0nxQCJwEY)**
+**[This Telegram Bot Pays Real Ethereum - Here&#39;s Proof](https://www.youtube.com/watch?v=lwl_SPxijQQ)**
 
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXCarlMoonFerrari Net ...
+I tested how the Telegram + bot + Premium combo really works, and in this video I'll show where the money is, why some setups ...
 
-📺 The Moon Show
+📺 Francesco Berlutti - FreeMan 
 
-👁️ 13K • 👍 1K • 💬 58 • ⏱️ 4:25 • 1d ago
+👁️ 7K • 👍 504 • 💬 496 • ⏱️ 4:56 • 21h ago
 
 ---
 
@@ -322,13 +312,23 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 ---
 
-**[Ethereum AI Trading Bot 2026 — I Let It Trade for 7 Days (Real Results + Full Setup)](https://www.youtube.com/watch?v=dxTUu_Ws09Y)**
+**[BUY BUY BUY BUY !!!!!!!!](https://www.youtube.com/watch?v=Yt0nxQCJwEY)**
 
-Ethereum AI Trading Bot 2026 — I Let It Trade for 7 Days (Real Results + Full Setup) Ethereum Trading bot: https://ethbot.trade/ ...
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXCarlMoonFerrari Net ...
 
-📺 Logan Hayes
+📺 The Moon Show
 
-👁️ 3K • 👍 18 • 💬 15 • ⏱️ 4:24 • 1d ago
+👁️ 14K • 👍 1K • 💬 57 • ⏱️ 4:25 • 2d ago
+
+---
+
+**[MAJOR VOLATILITY INCOMING!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=olt2fgU1RGc)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 204 • 👍 9 • 💬 1 • ⏱️ 4:43 • 1d ago
 
 ---
 
