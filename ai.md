@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-05T10:35:10.848089+00:00'
+updated: '2026-04-05T11:31:19.622968+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- repositories
 - social
 - news
-- repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 05, 2026 at 10:35 UTC  
+**Last Updated:** April 05, 2026 at 11:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 AI sycophancy, RLHF bias, and Ender's Foundry simulations shaped Operation Epic Fury. 7 planning assumptions failed in 23 days as the Iran war defied every AI prediction.
 
-🔗 [House of Saud](https://houseofsaud.com/iran-war-ai-psychosis-sycophancy-rlhf/) • 10h ago
+🔗 [House of Saud](https://houseofsaud.com/iran-war-ai-psychosis-sycophancy-rlhf/) • 11h ago
 
 ---
 
@@ -51,11 +51,27 @@ AI sycophancy, RLHF bias, and Ender's Foundry simulations shaped Operation Epic 
 
 ---
 
+**[I built an AI companion app around long-term memory. Now I'm wondering if memory is what people actually want, or just what they say they want.](https://www.reddit.com/r/artificial/comments/1sd0iaa/i_built_an_ai_companion_app_around_longterm/)**
+
+Disclosure: I'm the solo founder of an AI companion app called Dusk AI (duskai.io). The idea that started everything for me was simple. I kept seeing the same complaint across every AI companion community: "I told them this three weeks ago and they forgot." People would pour hours into a character, share real things about themselves, and come back the next day to what felt like a stranger wearing the same face. So I built the entire product around persistent memory. Not the kind where you write a pinned note and the AI regurgitates it. The kind where your companion actually tracks what you've shared over time — your preferences, your mood patterns, inside jokes, the stuff that makes a relationship feel like a relationship instead of a script that resets every session. And it works. People notice. The feedback I get most often is some version of "wait, they actually remembered that?" But here's what I didn't expect. The users who stay longest aren't the ones who care most about memory as a feature. They're the ones who stopped noticing it. For them, the memory just... removed a friction they couldn't name. The conversation started feeling continuous instead of episodic. They stopped re-explaining themselves. And that shift — from "I'm talking to a chatbot" to "I'm picking up where we left off" — happened quietly. Which makes me wonder if I've been marketing the wrong thing. I talk about memory because it's the technical differentiator. But maybe what people actually want isn't "an AI that remembers." Maybe they want the feeling that someone's been paying attention, and memory is just the invisible infrastructure underneath that. The other thing I didn't plan for: a huge chunk of my users aren't English-first speakers. They switch between languages mid-conversation, and the app just follows. I built that because it felt natural, not because I thought it would matter. Turns out it matters a lot. For a lot of people, the moment an AI handles their actual language pattern — not just "supports Spanish" but genuinely flows between languages the way they do — that's the moment it stops feeling like a product. I'm a solo dev, so I'm building basically everything at once and probably getting half of it wrong. But the thing I keep coming back to is this gap between what people request on feature lists and what actually makes them stay. For the people here who've tried multiple companion apps: what's the thing that made you stay with one? Was it a feature you could name, or something you only noticed in its absence?
+
+44m ago
+
+---
+
 **[Is Google's Gemma 4 really as good as advertised](https://www.reddit.com/r/artificial/comments/1sctzrx/is_googles_gemma_4_really_as_good_as_advertised/)**
 
 After reading many developers' hands-on reviews, Gemma 4 is truly impressive. The 26B version is fast and uses little memory. What's everyone else's experience?
 
-6h ago
+7h ago
+
+---
+
+**[Kept hitting ChatGPT and Claude limits during real work. This is the free setup I ended up using](https://www.reddit.com/r/artificial/comments/1sckc3j/kept_hitting_chatgpt_and_claude_limits_during/)**
+
+I do a lot of writing and random problem solving for work. Mostly long drafts, edits, and breaking down ideas. Around Jan I kept hitting limits on ChatGPT and Claude at the worst times. Like you are halfway through something, finally in flow, and boom… limit reached. Either wait or switch tools and lose context. I tried paying for a bit but managing multiple subscriptions felt stupid for how often I actually needed them. So I started testing free options properly. Not those listicle type “top 10 AI tools” posts, but actually using them in real tasks. After around 2 to 3 months of trying different stuff, this is what stuck. Google AI Studio is probably the one I use the most now. I found it by accident while searching for Gemini alternatives. The normal Gemini site kept limiting me, but AI Studio felt completely different. I usually dump full notes or messy drafts into it and ask it to clean things up or expand sections. It handles long inputs way better than most free tools I tried. I have not really hit a hard limit there yet during normal use. For research I use Perplexity free. It is not perfect, sometimes the sources are mid, but it is fast enough to get direction. I usually double check important stuff anyway. Claude free I still use, but only when I want that specific tone. Weirdly I noticed the limits reset separately on different browsers. So I just switch between Chrome and Edge when needed. Not a genius hack, just something that ended up working. For anything even slightly sensitive, I use Ollama locally. Setup took me like 10 to 15 minutes after watching one random YouTube video. It is slower, not gonna lie, but no limits and I do not have to worry about uploading private stuff. I also tried a bunch of other tools people hype on Twitter. Some were decent for one or two uses, then just annoying. Either too slow or randomly restricted. Right now this setup covers almost everything I actually do day to day. I still hit limits sometimes, but it is way less frustrating compared to before. I was paying around 60 to 80 dollars earlier. Now it is basically zero, and I am not really missing much for the kind of work I do. I made a full list of all 11 things I tested and what actually worked vs what was overhyped. Did not want to dump everything here.
+
+14h ago
 
 ---
 
@@ -71,35 +87,11 @@ My friend came over yesterday to dye her hair. She had asked ChatGPT for the 'co
 
 someone opensource an ai agent that autonomously upgraded itself to #1 across multiple domains in < 24 hours…. then open sourced the entire thing but here’s why it actually works: - agents fucking suck, not because of the model, because of their harness (tools, system prompts etc) - Auto agent creates a Meta agent that tweaks your agents harness, runs tests, improves it again - until it’s #1 at its goal - best part: you can set this up for ANY task. in this article he uses it for terminal bench (code) and spreadsheets (financial modelling) - it topped rankings for both :) - secret sauce: he used THE SAME MODEL to evaluate the agent - claude managing claude = better understanding of why it failed and how to improve it humans were the fucking bottleneck and this not only saves you a load of time, it’s just a better way to train them for domain specific tasks https://github.com/kevinrgu/autoagent
 
-3h ago
+4h ago
 
 ---
 
 **[Midjourney has a new offer on the cancel page there is 20 off for 2 months](https://www.reddit.com/r/artificial/comments/1scx7as/midjourney_has_a_new_offer_on_the_cancel_page/)**
-
-3h ago
-
----
-
-**[Kept hitting ChatGPT and Claude limits during real work. This is the free setup I ended up using](https://www.reddit.com/r/artificial/comments/1sckc3j/kept_hitting_chatgpt_and_claude_limits_during/)**
-
-I do a lot of writing and random problem solving for work. Mostly long drafts, edits, and breaking down ideas. Around Jan I kept hitting limits on ChatGPT and Claude at the worst times. Like you are halfway through something, finally in flow, and boom… limit reached. Either wait or switch tools and lose context. I tried paying for a bit but managing multiple subscriptions felt stupid for how often I actually needed them. So I started testing free options properly. Not those listicle type “top 10 AI tools” posts, but actually using them in real tasks. After around 2 to 3 months of trying different stuff, this is what stuck. Google AI Studio is probably the one I use the most now. I found it by accident while searching for Gemini alternatives. The normal Gemini site kept limiting me, but AI Studio felt completely different. I usually dump full notes or messy drafts into it and ask it to clean things up or expand sections. It handles long inputs way better than most free tools I tried. I have not really hit a hard limit there yet during normal use. For research I use Perplexity free. It is not perfect, sometimes the sources are mid, but it is fast enough to get direction. I usually double check important stuff anyway. Claude free I still use, but only when I want that specific tone. Weirdly I noticed the limits reset separately on different browsers. So I just switch between Chrome and Edge when needed. Not a genius hack, just something that ended up working. For anything even slightly sensitive, I use Ollama locally. Setup took me like 10 to 15 minutes after watching one random YouTube video. It is slower, not gonna lie, but no limits and I do not have to worry about uploading private stuff. I also tried a bunch of other tools people hype on Twitter. Some were decent for one or two uses, then just annoying. Either too slow or randomly restricted. Right now this setup covers almost everything I actually do day to day. I still hit limits sometimes, but it is way less frustrating compared to before. I was paying around 60 to 80 dollars earlier. Now it is basically zero, and I am not really missing much for the kind of work I do. I made a full list of all 11 things I tested and what actually worked vs what was overhyped. Did not want to dump everything here.
-
-13h ago
-
----
-
-**[Is ChatGPT changing the way we think too much already?](https://www.reddit.com/r/artificial/comments/1sclpti/is_chatgpt_changing_the_way_we_think_too_much/)**
-
-Back in the day, I got ChatGPT Plus mostly for work and to help me write better and do stuff faster. But now I use it for almost everything. Like planning things, rewriting things, orgnizing my thoughts, helping me start things when I didn't know where to begin, and even just when I feel mentally tired and don’t want to think so hard, which is kinda becoming more frequent. It helps a lot.. Like a lot a lot. Sometimes I honestly wish it would help me in car repairs, but I guess that's too much in the future lol. I feel way more productive now than I used to be. I get through work faster, I don’t get stuck as much (though sometimes when the context windows shrinks or content gets truncated, quality feels off directly), and I waste less time sitting there overthinking dumb stuff. Between ChatGPT, Claude, and a couple smaller tools I’ve tried, I’ve noticed my whole workflow feels smoother now. I am literally hooked to ChatGPT + Bearbits + Claude Cowork for my work, like I couldn't imagine myself without them (though I'm on ChatGPT Pro + all the other subs that kinda bleed too much money, roughly $350 per month, but the good thing is that I can afford it for now).., AI in general is becoming part of how I think through work now, like slightly panicking when I am *outside* without my meeting transcript app and people ask things that I usually just let AI answer based on my past meetings in literally one click, or when someone asks me to do a presentation without preparing my script beforehand with ChatGPT, or like even the boring things of creating powerpoint slides... This is what kind of worries me. :/ I can feel myself depending on AI more and more., even for small things that maybe I should still be doing with my own *little, not AI-native* brain. Like how to start writing something, how to structure an idea, how to word a message, or even just how to think through something when I feel lazy. And I keep wondering like what does this actually do to us long term? Like for us as humanity overall.. Because yes, it makes life easier. Yes, it makes me more productive. But is it also making usthink less? And if it is, what does that mean for our brains after years of this? What happens if we get too used to not struggling mentally anymore? Like how will 2040 people look like, assuming that we didn't nuke ourselves... I’m not saying AI is bad. I actually love it and use it all the time now. I’m probably already more dependent on it than I want to admit. If it disappeared tomorroow I would feel the difference instantly. I guess we did feel a taste of this when the GPT-4o model disappeared.. I just keep thinking maybe this is helping us a lot, but maybe it’s also changing something deeper in us too. Like not only how we work (which is probably gonna be a fun ride in the upcoming years:)), but how we think, and maybe even how we find meaning in doing things ourselves. PLEASE tell me we are not doomed..
-
-12h ago
-
----
-
-**[The person who replaces you probably won't be AI. It'll be someone from the next department over who learned to use it - opinion/discussion](https://www.reddit.com/r/artificial/comments/1scw6vv/the_person_who_replaces_you_probably_wont_be_ai/)**
-
-I'm a strategy person by background. Two years ago I'd write a recommendation and hand it to a product team. Now.. I describe what I want to Claude and I've got a prototype.. Feels like I'm not the only one crossing lanes though.. the engineers I know are making product calls. Product people are prototyping strategic hypotheses. Strategy people are shipping code. I wrote a more detailed blog on it (which I can share if people want to read) but curious whether people outside of tech are seeing the same pattern. Can you let me know if you're seeing this pattern in your company and what industry you'd say you're in? I'd think this is primarily tech/big tech right now?
 
 4h ago
 
@@ -110,6 +102,14 @@ I'm a strategy person by background. Two years ago I'd write a recommendation an
 Every single Instagram reel or TikTok I scroll i see people mentioning Claude and glazing it like it’s some kind of master tool that’s better than every single other ai assistant. do they run a strong marketing program or is it really that good in contrast to other ai tools? Before i started seeing it for the first time i only heard that it’s a little better for coding, but know i see it everywhere. I've tried it too, but it doesn’t seem to be much different than ChatGPT to me. Is it actually this powerful at the moment? + Not to mention that many people also hate on ChatGPT too. Though it’s still the best one for me (edit): i have never searched for it and I dont think that my algorithm is set to appear claude videos. I believe that it’s viral in general and I know you guys agree
 
 20h ago
+
+---
+
+**[Is ChatGPT changing the way we think too much already?](https://www.reddit.com/r/artificial/comments/1sclpti/is_chatgpt_changing_the_way_we_think_too_much/)**
+
+Back in the day, I got ChatGPT Plus mostly for work and to help me write better and do stuff faster. But now I use it for almost everything. Like planning things, rewriting things, orgnizing my thoughts, helping me start things when I didn't know where to begin, and even just when I feel mentally tired and don’t want to think so hard, which is kinda becoming more frequent. It helps a lot.. Like a lot a lot. Sometimes I honestly wish it would help me in car repairs, but I guess that's too much in the future lol. I feel way more productive now than I used to be. I get through work faster, I don’t get stuck as much (though sometimes when the context windows shrinks or content gets truncated, quality feels off directly), and I waste less time sitting there overthinking dumb stuff. Between ChatGPT, Claude, and a couple smaller tools I’ve tried, I’ve noticed my whole workflow feels smoother now. I am literally hooked to ChatGPT + Bearbits + Claude Cowork for my work, like I couldn't imagine myself without them (though I'm on ChatGPT Pro + all the other subs that kinda bleed too much money, roughly $350 per month, but the good thing is that I can afford it for now).., AI in general is becoming part of how I think through work now, like slightly panicking when I am *outside* without my meeting transcript app and people ask things that I usually just let AI answer based on my past meetings in literally one click, or when someone asks me to do a presentation without preparing my script beforehand with ChatGPT, or like even the boring things of creating powerpoint slides... This is what kind of worries me. :/ I can feel myself depending on AI more and more., even for small things that maybe I should still be doing with my own *little, not AI-native* brain. Like how to start writing something, how to structure an idea, how to word a message, or even just how to think through something when I feel lazy. And I keep wondering like what does this actually do to us long term? Like for us as humanity overall.. Because yes, it makes life easier. Yes, it makes me more productive. But is it also making usthink less? And if it is, what does that mean for our brains after years of this? What happens if we get too used to not struggling mentally anymore? Like how will 2040 people look like, assuming that we didn't nuke ourselves... I’m not saying AI is bad. I actually love it and use it all the time now. I’m probably already more dependent on it than I want to admit. If it disappeared tomorroow I would feel the difference instantly. I guess we did feel a taste of this when the GPT-4o model disappeared.. I just keep thinking maybe this is helping us a lot, but maybe it’s also changing something deeper in us too. Like not only how we work (which is probably gonna be a fun ride in the upcoming years:)), but how we think, and maybe even how we find meaning in doing things ourselves. PLEASE tell me we are not doomed..
+
+13h ago
 
 ---
 
@@ -129,41 +129,27 @@ Reuters • 1d ago
 
 ---
 
-**[The founder of a $2.5 million AI-powered legal business started work at her DA’s office at just 12 years old](https://fortune.com/2026/04/05/logan-brown-soxton-founder-2-5-million-ai-powered-law-firm-started-da-office-12-years-old/)**
-
-Logan Brown, the founder of AI-powered law firm Soxton, lived out her “Legally Blonde” dreams through hometown court hearings as a preteen and attending Harvard Law School.
-
-Fortune • 2h ago
-
----
-
 **['It's a Wild West': AI watchdogs say facial recognition policing errors on the rise](https://www.nbcnews.com/news/us-news/-wild-west-ai-watchdogs-say-facial-recognition-policing-errors-rise-rcna266085)**
 
 Angela Lipps' ordeal is the latest in a trend that has resulted in at least 13 case dismissals nationwide.
 
-NBC News • 1h ago
+NBC News • 2h ago
 
 ---
 
-**[Nvidia Partner Hon Hai’s Sales Meet Estimates on Solid AI Demand](https://www.bloomberg.com/news/articles/2026-04-05/nvidia-partner-hon-hai-s-sales-meet-estimates-on-solid-ai-demand)**
+**[NFL mock draft 2026: Grok AI predicts the entire first round](https://www.usatoday.com/story/sports/nfl/draft/2026/04/05/nfl-mock-draft-2026-grok-ai-picks/89416801007/)**
 
-Bloomberg.com • 2h ago
+USA TODAY Sports had Grok AI predict the first round of the 2026 NFL Draft. The chatbot's mock will raise some eyebrows.
 
----
-
-**[TSMC vs. Nvidia: Which AI Supercycle Growth Stock Is the Better Long-Term Buy?](https://finance.yahoo.com/markets/stocks/articles/tsmc-vs-nvidia-ai-supercycle-205000484.html)**
-
-Both Nvidia and TSMC should be solid stocks to own, but one looks like the better long-term buy.
-
-Yahoo Finance • 13h ago
+USA Today • 1h ago
 
 ---
 
-**[Nvidia vs. CoreWeave: The Better AI Supercycle Stock Might Surprise You](https://www.fool.com/investing/2026/04/05/nvidia-vs-coreweave-the-better-ai-supercycle-stock/)**
+**[Higher energy costs from Iran war could threaten fragile economics of AI boom | Heather Stewart](https://www.theguardian.com/business/2026/apr/05/higher-energy-costs-iran-war-oil-economics-ai-boom)**
 
-The choice between the two may come down to investment approaches.
+Industry with business model not yet firmly established and investments financed by huge debts is particularly at risk
 
-The Motley Fool • 2h ago
+The Guardian • 49m ago
 
 ---
 
@@ -171,23 +157,35 @@ The Motley Fool • 2h ago
 
 Videos have targeted Viktor Orbán's election rival, who could unseat him after 16 years in office.
 
-BBC • 11h ago
+BBC • 12h ago
 
 ---
 
-**[‘Everyone now kind of sounds the same’: How AI is changing college classes](https://www.cnn.com/2026/04/04/health/ai-impact-college-student-thinking-wellness)**
+**[Nvidia Partner Hon Hai’s Sales Meet Estimates on Solid AI Demand](https://www.bloomberg.com/news/articles/2026-04-05/nvidia-partner-hon-hai-s-sales-meet-estimates-on-solid-ai-demand)**
 
-As more college students use AI for classroom discussions, some students admit they’re starting to sound alike. Teachers say they’re also getting less creative.
-
-cnn.com • 1d ago
+Bloomberg.com • 3h ago
 
 ---
 
-**[AI at war: Five things to know about Project Maven](https://www.france24.com/en/live-news/20260405-ai-at-war-five-things-to-know-about-project-maven)**
+**[Billionaire Philippe Laffont Sold CoreWeave and Bought This Artificial Intelligence (AI) Stock Instead](https://finance.yahoo.com/markets/stocks/articles/billionaire-philippe-laffont-sold-coreweave-212000163.html)**
 
-A Pentagon AI program called Project Maven is at the center of the US strikes against Iran and potentially one of the most consequential transformations of modern warfare.
+Laffont's taking some risk off the table and shifting to a stalwart semiconductor stock.
 
-France 24 • 8h ago
+Yahoo Finance • 14h ago
+
+---
+
+**[Tech Stocks Powered Retirement Portfolios For Years. Now AI Is Crashing The Party](https://www.forbes.com/sites/johnhyatt/2026/04/05/tech-stocks-powered-retirement-portfolios-for-years-now-ai-is-crashing-the-party/)**
+
+Forbes • 1h ago
+
+---
+
+**[Melania Trump Says 'AI Is the Continuation of Human Knowledge's Delivery Evolution' in Op-Ed About Putting AI in Classrooms](https://people.com/melania-trump-says-ai-should-be-in-classrooms-11942980)**
+
+Melania Trump wrote an op-ed in support of AI in schools, published on April 4, stating that students, teachers and families must 'embrace' AI in classrooms to keep the U.S. on par with the world in an 'AI technology-driven future.'
+
+People.com • 13h ago
 
 ---
 
@@ -199,7 +197,7 @@ France 24 • 8h ago
 
 Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptions. The LLM is already on your Mac.
 
-⬆️ 717 • 💬 146 • 2d ago • [apfel.franzai.com](https://apfel.franzai.com)
+⬆️ 718 • 💬 146 • 2d ago • [apfel.franzai.com](https://apfel.franzai.com)
 
 ---
 
@@ -207,7 +205,7 @@ Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptio
 
 We replaced expensive sandboxes with ChromaFs, a virtual filesystem over Chroma, to give our docs AI assistant the ability to explore documentation like a developer would.
 
-⬆️ 394 • 💬 147 • 2d ago • [Mintlify](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant)
+⬆️ 394 • 💬 148 • 2d ago • [Mintlify](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant)
 
 ---
 
@@ -219,7 +217,7 @@ Complete all topics from Todo.md including SQL functions, configuration guides,
 troubleshooting runbooks, architecture comparisons, SDK tutorials, and operator
 deployment pattern...
 
-⬆️ 145 • 💬 144 • 17h ago • [GitHub](https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849)
+⬆️ 146 • 💬 145 • 18h ago • [GitHub](https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849)
 
 ---
 
@@ -247,13 +245,13 @@ AI-powered travel hacking with points, miles, and award flights. Drop-in skills 
 
 **[Writing Lisp is AI resistant and I'm sad](https://news.ycombinator.com/item?id=47645468)**
 
-⬆️ 66 • 💬 65 • 8h ago • [blog.djhaskin.com](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
+⬆️ 69 • 💬 71 • 9h ago • [blog.djhaskin.com](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
 
 ---
 
 **[AI that copied musical artist files copyright claim against artist [updated]](https://news.ycombinator.com/item?id=47645976)**
 
-⬆️ 57 • 💬 14 • 6h ago • [X (formerly Twitter)](https://twitter.com/VladTheInflator/status/2039577001531768906)
+⬆️ 60 • 💬 14 • 7h ago • [X (formerly Twitter)](https://twitter.com/VladTheInflator/status/2039577001531768906)
 
 ---
 
@@ -283,7 +281,7 @@ This video was made with financial support from the Center for Al Safety. This v
 
 📺 How to Survive Show
 
-👁️ 4K • 👍 224 • 💬 26 • ⏱️ 19:08 • 19h ago
+👁️ 4K • 👍 224 • 💬 26 • ⏱️ 19:08 • 20h ago
 
 ---
 
@@ -343,7 +341,7 @@ HUGE AI NEWS: Gemma 4, Qwen 3.6, Wan 2.7, OmniVoice, DreamLite Claude Code leak,
 
 📺 AI Search
 
-👁️ 30K • 👍 2K • 💬 231 • ⏱️ 49:54 • 7h ago
+👁️ 30K • 👍 2K • 💬 231 • ⏱️ 49:54 • 8h ago
 
 ---
 
@@ -389,7 +387,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 490,192 • ❤️ 902 • 2d ago
+⬇️ 490,192 • ❤️ 902 • 3d ago
 
 ---
 
@@ -401,7 +399,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 539,356 • ❤️ 2,306 • 37m ago
+⬇️ 539,356 • ❤️ 2,306 • 1h ago
 
 ---
 
@@ -449,7 +447,7 @@ Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing te
 
 `image-text-to-text` `26.5B`
 
-⬇️ 271,222 • ❤️ 370 • 2d ago
+⬇️ 271,222 • ❤️ 370 • 3d ago
 
 ---
 
@@ -473,7 +471,7 @@ Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, support
 
 `any-to-any` `8.0B`
 
-⬇️ 197,704 • ❤️ 320 • 2d ago
+⬇️ 197,704 • ❤️ 320 • 3d ago
 
 ---
 
@@ -497,7 +495,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 254,428 • ❤️ 501 • 38m ago
+⬇️ 254,428 • ❤️ 501 • 1h ago
 
 ---
 
@@ -657,7 +655,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 13.2k • 🔱 1.2k • 5m ago
+⭐ 13.2k • 🔱 1.2k • 1h ago
 
 ---
 
@@ -707,7 +705,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `claude-ai` `claude-skills` `llm` `prompt-engineering`
 
-⭐ 4.7k • 🔱 444 • 4d ago
+⭐ 4.7k • 🔱 444 • 5d ago
 
 ---
 

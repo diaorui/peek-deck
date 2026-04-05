@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-05T10:35:10.855624+00:00'
+updated: '2026-04-05T11:31:19.631353+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - social
 - news
-- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 05, 2026 at 10:35 UTC  
+**Last Updated:** April 05, 2026 at 11:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,970.02
+### $67,035.47
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +0.3%  
-**30d:** -0.4%  
-**90d:** -28.6%  
+**24h:** -0.1%  
+**7d:** +0.4%  
+**30d:** -0.3%  
+**90d:** -28.5%  
 **1y:** -14.5%  
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Could it really be that simple?](https://www.reddit.com/r/Bitcoin/comments/1scx8vs/could_it_really_be_that_simple/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 To add to the title - At some point in 2009-2012, I used to leave my computer on overnight and while I was at school, mining bitcoin. I can't remember how long for, it could've been for a couple of weeks or potentially months. I only remember it was within this time period because it overlapped with me playing Runescape (lol), and I quit playing in 2012 for 10 years or more. I have sort of moved away from computers although in those days I was interested in gaming and beginner hacking. I was 15-17 and the hacking part is daft looking back at it. But what I'm really trying to say is I used to be fairly computer literate and now, not so much. I've been using macs for 12 years now. So no matter whether it was a week or several months I left it mining overnight etc. for, there is likely a decent amount of bitcoin on the harddrive. I don't have access to the email address I used in those years, I lost it about 5 years ago and seemingly can't recover it. ChatGPT tells me this likely isn't an issue as emails weren't used for sign up in the early days. More advice was to remove the hard drive and back it up on a second hard drive, before opening. Do I have a stab at this myself? How do I do this? Can I plug hard drive into my mac to transfer to a second hard drive? What if the hard drive was wiped? Would it be in any way possible to recover it? If I manage to locate the wallet, will I need to remember the password? I believe it was a long set of random numbers and letters so will never remember unless I also have it saved on the computer somewhere. What are my next steps? Thank you in advance.
 
-7h ago
+8h ago
 
 ---
 
@@ -95,7 +95,7 @@ To add to the title - At some point in 2009-2012, I used to leave my computer on
 
 Jack Dorsey teased a potential revival of the Bitcoin faucet tied to “Bitcoin Day,” echoing Gavin Andresen’s 2010 giveaway model.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/jack-dorsey-reveals-bitcoin-faucet) • 4h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/jack-dorsey-reveals-bitcoin-faucet) • 5h ago
 
 ---
 
@@ -103,7 +103,15 @@ Jack Dorsey teased a potential revival of the Bitcoin faucet tied to “Bitcoin 
 
 Just threw on some low budget movie - or what I thought was a movie. Self Custody is a 30min propaganda commercial to scare people away from Self Custody. There's no other reason for this pile of crap to exist.
 
-4h ago
+5h ago
+
+---
+
+**[Just bought 5btc](https://www.reddit.com/r/Bitcoin/comments/1sd1471/just_bought_5btc/)**
+
+i sold my house, and i dont think shares is best to put money in due to the iran war. so i bought 5 btc, hopefully we get to see 120k peak soon :)
+
+9m ago
 
 ---
 
@@ -111,15 +119,7 @@ Just threw on some low budget movie - or what I thought was a movie. Self Custod
 
 I want a way which is easier for them to check price and buy more. They aren't tech savvy. confused between CEX and ETF
 
-7h ago
-
----
-
-**[Is it a good time now to buy bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1scaokp/is_it_a_good_time_now_to_buy_bitcoin/)**
-
-Hi, Whats your perspective on this?
-
-20h ago
+8h ago
 
 ---
 
@@ -127,7 +127,15 @@ Hi, Whats your perspective on this?
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
+
+---
+
+**[Is it a good time now to buy bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1scaokp/is_it_a_good_time_now_to_buy_bitcoin/)**
+
+Hi, Whats your perspective on this?
+
+21h ago
 
 ---
 
@@ -135,15 +143,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 BTC adoption snapshot using 4 Glassnode BTC metrics only. Current reading: - Adoption Index: 1.011 - Active Entities: 163,944 - Non-Zero Addresses: 56,154,672 - Lightning Network Capacity: 4,971.03 BTC - L1 Change-Adjusted Volume: 92,074.70 BTC Method: - exact Glassnode BTC metric pages only - no mixed-source composite - baselines fixed at 2025-01-01 - index = geometric mean of 4 current/baseline ratios Baselines: - Active Entities: 145,000 - Non-Zero Addresses: 52,000,000 - Lightning Network Capacity: 5,358 BTC - L1 Change-Adjusted Volume: 100,000 BTC Ratios: - Active Entities: 1.131 - Non-Zero Addresses: 1.080 - Lightning Capacity: 0.928 - L1 Change-Adjusted Volume: 0.921 Interpretation: - overall adoption snapshot is slightly above the 2025-01-01 baseline - breadth metrics are above baseline - Lightning capacity is below baseline - on-chain adjusted transfer volume is below baseline - the positive breadth signal slightly outweighs the weaker LN and L1 flow readings Data dates used: - AE: 2026-04-04 - NZ: 2026-04-04 - LN: 2026-04-04 - L1: 2026-04-04 Source metrics: - Glassnode entities.ActiveCount - Glassnode addresses.NonZeroCount - Glassnode lightning.NetworkCapacitySum - Glassnode transactions.TransfersVolumeAdjustedSum
 
-1h ago
-
----
-
-**[in theory isn't bitcoin supposed to triple in value because of the high cost of energy?](https://www.reddit.com/r/Bitcoin/comments/1scz4wd/in_theory_isnt_bitcoin_supposed_to_triple_in/)**
-
-as oil prices are going up doesn't that mean bitcoin would be even more valuable because of the cost of energy
-
-1h ago
+2h ago
 
 ---
 
@@ -151,7 +151,7 @@ as oil prices are going up doesn't that mean bitcoin would be even more valuable
 
 Hi, I don't have a bank account and there isn't any ATMs around me I can use to buy cryptocurrencies. I bought a vanilla card online to buy crypto. How can I do so? Thank you.
 
-22h ago
+23h ago
 
 ---
 
@@ -163,37 +163,19 @@ Hi, I don't have a bank account and there isn't any ATMs around me I can use to 
 
 Developers are considering ways to quantum-proof the world's oldest cryptocurrency as the threat of this computing moves beyond a hypothetical.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
 **[‘You Have Until 2029’—Urgent Musk Bitcoin Warning Spurs Coinbase CEO Flip As Price Crash Fears Swirl](https://www.forbes.com/sites/digital-assets/2026/04/04/you-have-until-2029-urgent-elon-musk-bitcoin-warning-suddenly-triggers-price-crash-fears/)**
 
-Forbes • 22h ago
+Forbes • 23h ago
 
 ---
 
-**[Hut 8 (HUT) Valuation Check As It Shifts From Bitcoin Mining To AI And Energy Infrastructure](https://finance.yahoo.com/markets/stocks/articles/hut-8-hut-valuation-check-081416065.html)**
+**[Google Paper Warns of Quantum Computing Risk for Bitcoin](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q?gaa_at=eafs&gaa_n=AWEtsqcv73Z72Vy13d8HbMoTDNmk-v5iY-m79e10CW6v9MwWUdz52IrDMjbA&gaa_ts=69d24b73&gaa_sig=l9wRa2YQDtA2aUd5pq0yJYMygV_gG8o3hVOrbRZPg1153OvpDNMJ0qMUZm7Mv-cK0jv1NHl_1nEPIskT2BOPlg%3D%3D)**
 
-Hut 8 (HUT) is back in focus after its move away from pure Bitcoin mining toward AI and energy infrastructure, supported by a multi year Fluidstack lease and an 8.5 GW development pipeline. See our latest analysis for Hut 8. The share price recently closed at US$48.11, with a 1 day share price return of 1.58% and a 30 day share price return of 2.21%, compared with a 90 day share price return of 17.41% and a 1 year total shareholder return of 322.39%. This suggests that short term momentum has...
-
-Yahoo Finance • 2h ago
-
----
-
-**[FBI's New Lead in Nancy Guthrie Case Involves Traceable Bitcoin Ransom Demands](https://www.aol.com/fbis-lead-nancy-guthrie-case-152452887.html)**
-
-Guthrie, 84, has been missing since Feb. 1, and despite authorities receiving thousands of tips, her disappearance remains a mystery.
-
-AOL.com • 1d ago
-
----
-
-**[Goldman Sachs predicts new low for gold](https://www.thestreet.com/crypto/markets/goldman-sachs-predicts-new-low-for-bitcoin)**
-
-The bank predicts new risks.
-
-thestreet.com • 2d ago
+WSJ • 4d ago
 
 ---
 
@@ -201,7 +183,7 @@ thestreet.com • 2d ago
 
 The service will be unavailable in New York and Louisiana at launch, and fee structure and custody arrangements have not yet been disclosed.
 
-The Block • 11h ago
+theblock.co • 12h ago
 
 ---
 
@@ -217,23 +199,39 @@ Decrypt • 1d ago
 
 Adoption of Bitcoin and Ethereum is poised to take a significant step forward as Charles Schwab introduces direct trading for both assets on its platform. As one of the largest financial institutions in the world, managing trillions in client assets, Schwab’s entry into the crypto space represents…
 
-TradingView • 11h ago
+tradingview.com • 12h ago
 
 ---
 
-**[Bitcoin Stalls At $66,000 As Market Quietly Prepares For A Downside Draw](https://www.tradingview.com/news/newsbtc:843b9be1f094b:0-bitcoin-stalls-at-66-000-as-market-quietly-prepares-for-a-downside-draw/)**
+**[I Tried to Offset Horrible Heating Bills With a Bitcoin Miner](https://www.wired.com/review/heatbit-maxi-pro-bitcoin-miner-heater/)**
 
-Bitcoin is showing signs of hesitation at the $66,000 level, with price action slipping into a tight, choppy range. Momentum on the upside continues to fade, and each attempt to push higher is met with weaker follow-through. Beneath the surface, liquidity remains stacked, suggesting the market may…
+Electricity rates have gotten so atrocious that this Heatbit wants to offset your costs with bitcoin mining. But the math doesn't add up.
 
-TradingView • 9h ago
+wired.com • 27m ago
 
 ---
 
-**[Analysts: Bitcoin Consolidation May Signal Bigger Breakout Ahead](https://bitbo.io/news/bitcoin-consolidation-breakout-analyst/)**
+**[Bitcoin On-Chain Data Hints At Macro Bottom Near $47,960 – Details](https://www.tradingview.com/news/newsbtc:def8a5179094b:0-bitcoin-on-chain-data-hints-at-macro-bottom-near-47-960-details/)**
 
-Analyst Michael van de Poppe says Bitcoin's prolonged stagnation below $70,000 could lead to a heavier breakout, while other analysts warn of a potential deeper bear market.
+The Bitcoin bear market is now six months in and showing no signs of letting up. During this time, a cycle low of $60,000 was established, preceding the present consolidation action being seen. However, bearish sentiments remain at heightened levels, especially considering the disturbed geopolitica…
 
-Bitbo • 16h ago
+tradingview.com • 1h ago
+
+---
+
+**[Hut 8 (HUT) Valuation Check As It Shifts From Bitcoin Mining To AI And Energy Infrastructure](https://finance.yahoo.com/markets/stocks/articles/hut-8-hut-valuation-check-081416065.html)**
+
+Hut 8 (HUT) is back in focus after its move away from pure Bitcoin mining toward AI and energy infrastructure, supported by a multi year Fluidstack lease and an 8.5 GW development pipeline. See our latest analysis for Hut 8. The share price recently closed at US$48.11, with a 1 day share price return of 1.58% and a 30 day share price return of 2.21%, compared with a 90 day share price return of 17.41% and a 1 year total shareholder return of 322.39%. This suggests that short term momentum has...
+
+Yahoo Finance • 3h ago
+
+---
+
+**[FBI's New Lead in Nancy Guthrie Case Involves Traceable Bitcoin Ransom Demands](https://www.aol.com/fbis-lead-nancy-guthrie-case-152452887.html)**
+
+Guthrie, 84, has been missing since Feb. 1, and despite authorities receiving thousands of tips, her disappearance remains a mystery.
+
+AOL.com • 1d ago
 
 ---
 
@@ -333,7 +331,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 41K • 👍 2K • 💬 102 • ⏱️ 45:08 • 21h ago
+👁️ 41K • 👍 2K • 💬 102 • ⏱️ 45:08 • 22h ago
 
 ---
 
@@ -343,7 +341,7 @@ Welcome back to Verified Investing! In today's urgent crypto market update, Chie
 
 📺 Gareth Soloway
 
-👁️ 75K • 👍 4K • 💬 457 • ⏱️ 11:47 • 17h ago
+👁️ 75K • 👍 4K • 💬 457 • ⏱️ 11:47 • 18h ago
 
 ---
 
@@ -363,7 +361,7 @@ Charles Schwab Just Released The Crypto Bulls!! BTC Conference 2026 - 'ALTCOINDA
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 2K • 💬 169 • ⏱️ 12:19 • 14h ago
+👁️ 26K • 👍 2K • 💬 169 • ⏱️ 12:19 • 15h ago
 
 ---
 
@@ -373,7 +371,7 @@ Coinbase just told Washington that Bitcoin doesn't need a tax exemption because 
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 821 • 💬 69 • ⏱️ 17:14 • 13h ago
+👁️ 10K • 👍 821 • 💬 69 • ⏱️ 17:14 • 14h ago
 
 ---
 
@@ -383,7 +381,7 @@ The risk models that say when to accumulate or exit HERE. Free trial https://app
 
 📺 Dan Gambardello
 
-👁️ 12K • 👍 718 • 💬 305 • ⏱️ 12:33 • 21h ago
+👁️ 12K • 👍 718 • 💬 305 • ⏱️ 12:33 • 22h ago
 
 ---
 
