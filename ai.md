@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-05T21:33:37.789565+00:00'
+updated: '2026-04-05T22:32:53.664289+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- social
 - videos
+- social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 05, 2026 at 21:33 UTC  
+**Last Updated:** April 05, 2026 at 22:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 Everyone thinks McKinsey just built 25,000 AI experts. They didn't. They took a 35-year-old internal database, put a natural language interface on top, and wrote a press release that every major business publication ran without asking a single follow-up question. This is the same play McKinsey has run for a hundred years. ERP in the 90s. Digital transformation in the 2000s. Big data in the 2010s. Each wave the same: new technology creates executive anxiety, McKinsey positions itself between that anxiety and the answer, and companies buy the trend to protect themselves when it fails. The future looks a lot like the past. And once you see it, you can't unsee it. https://www.youtube.com/watch?v=uTdKJaQkgJQ
 
-4h ago
+5h ago
+
+---
+
+**[I have been coding for 11 years and I caught myself completely unable to debug a problem without AI assistance last month. That scared me more than anything I have seen in this industry.](https://www.reddit.com/r/artificial/comments/1sderg4/i_have_been_coding_for_11_years_and_i_caught/)**
+
+I want to be honest about something that happened to me because I think it is more common than people admit. Last month I hit a bug in a service I wrote myself two years ago. Network timeout issue, intermittent, only in prod. The kind of thing I used to be able to sit with for an hour and work through methodically. I opened Claude, described the symptom, got a hypothesis, followed it, hit a dead end, fed that back, got another hypothesis. Forty minutes later I had not found the bug. I had just been following suggestions. At some point I closed the chat and tried to work through it myself. And I realized I had forgotten how to just sit with a problem. My instinct was to describe it to something else and wait for a direction. The internal monologue that used to generate hypotheses, that voice that says maybe check the connection pool, maybe it is a timeout on the load balancer side, maybe there is a retry storm. That voice was quieter than it used to be. I found the bug eventually. It took me longer without AI than it would have taken me three years ago without AI. I am not saying the tools are bad. I use them every day and they make me faster on most things. But there is something specific happening to the part of the brain that generates hypotheses under uncertainty. That muscle atrophies if you do not use it. The analogy I keep coming back to is GPS. You can navigate anywhere with GPS. But if you use it for five years and then lose signal, you do not just lack information. You lack the mental map that you would have built if you had been navigating manually. The skill and the mental model degrade together. I am 11 years into this career. I started noticing this in myself. I wonder how it looks for someone who started using AI tools in their first year. Has anyone else noticed this? Not the productivity gains, we all know those. The quieter thing underneath.
+
+1h ago
 
 ---
 
@@ -49,7 +57,15 @@ Everyone thinks McKinsey just built 25,000 AI experts. They didn't. They took a 
 
 AI sycophancy, RLHF bias, and Ender's Foundry simulations shaped Operation Epic Fury. 7 planning assumptions failed in 23 days as the Iran war defied every AI prediction.
 
-🔗 [House of Saud](https://houseofsaud.com/iran-war-ai-psychosis-sycophancy-rlhf/) • 21h ago
+🔗 [House of Saud](https://houseofsaud.com/iran-war-ai-psychosis-sycophancy-rlhf/) • 22h ago
+
+---
+
+**[AI agents have been blindly guessing your UI this whole time. Here's the file that fixes it.](https://www.reddit.com/r/artificial/comments/1sdd9gl/ai_agents_have_been_blindly_guessing_your_ui_this/)**
+
+Every time you ask an AI coding agent to build UI, it invents everything from scratch. Colors. Fonts. Spacing. Button styles. All of it - made up on the spot, based on nothing. You'd never hand a designer a blank brief and say "just figure out the vibe." But that's exactly what we've been doing with AI agents for years. Google Stitch introduced a concept called DESIGN.md - a plain markdown file that sits in your project root and tells your AI agent exactly how the UI should look. Color palette, typography, component behavior, spacing rules, do's and don'ts. Everything. The agent reads it once. Then it stops guessing. I took this concept and built a library of 27 DESIGN.md files extracted from popular sites - GitHub, Discord, Shopify, Steam, Anthropic, Reddit, and more - so developers don't have to write them from scratch. The entire library was built using Claude Code. The AI built the tool that fixes AI. MIT license. Free. Open source. The wild part: this should have existed two years ago.
+
+🔗 [GitHub](https://github.com/Khalidabdi1/design-ai) • 2h ago
 
 ---
 
@@ -57,15 +73,15 @@ AI sycophancy, RLHF bias, and Ender's Foundry simulations shaped Operation Epic 
 
 After reading many developers' hands-on reviews, Gemma 4 is truly impressive. The 26B version is fast and uses little memory. What's everyone else's experience?
 
-17h ago
+18h ago
 
 ---
 
-**[I've made a Wholesale Agent, this is what it does](https://www.reddit.com/r/artificial/comments/1sd3l0r/ive_made_a_wholesale_agent_this_is_what_it_does/)**
+**[After the release of gemma 4](https://www.reddit.com/r/artificial/comments/1sdg8n3/after_the_release_of_gemma_4/)**
 
-You can upload a lead, and the Assistant will follow up, track information, respond to all messages, and even schedule visits based on a schedule. It includes a built-in offer calculator and an AI-powered Wholesale Expert to assist you. You can create numerous campaigns with a large number of leads, and simultaneously, an n8n workflow is triggered when: There is an interested lead There is a scheduled visit A scan is run There is a scheduling conflict I'm currently working on adding a data scraper for buyers and sellers. I'd love to hear your suggestions and ideas for improving it. Any suggestions or ideas are welcome; I'm eager to hear from you. https://preview.redd.it/vkwlprsdidtg1.png?width=620&format=png&auto=webp&s=cd7badafa69342becc09f871e58cadd52dc20d8f
+would you guys get a local AI on your phone? and if you do, what will you do with it?
 
-8h ago
+40m ago
 
 ---
 
@@ -75,11 +91,19 @@ You can upload a lead, and the Assistant will follow up, track information, resp
 
 ---
 
-**[AI agents have been blindly guessing your UI this whole time. Here's the file that fixes it.](https://www.reddit.com/r/artificial/comments/1sdd9gl/ai_agents_have_been_blindly_guessing_your_ui_this/)**
+**[OpenClaw security checklist: practical safeguards for AI agents](https://www.reddit.com/r/artificial/comments/1sd7g80/openclaw_security_checklist_practical_safeguards/)**
 
-Every time you ask an AI coding agent to build UI, it invents everything from scratch. Colors. Fonts. Spacing. Button styles. All of it - made up on the spot, based on nothing. You'd never hand a designer a blank brief and say "just figure out the vibe." But that's exactly what we've been doing with AI agents for years. Google Stitch introduced a concept called DESIGN.md - a plain markdown file that sits in your project root and tells your AI agent exactly how the UI should look. Color palette, typography, component behavior, spacing rules, do's and don'ts. Everything. The agent reads it once. Then it stops guessing. I took this concept and built a library of 27 DESIGN.md files extracted from popular sites - GitHub, Discord, Shopify, Steam, Anthropic, Reddit, and more - so developers don't have to write them from scratch. The entire library was built using Claude Code. The AI built the tool that fixes AI. MIT license. Free. Open source. The wild part: this should have existed two years ago.
+Here is one of the better quality guides on the ensuring safety when deploying OpenClaw: https://chatgptguide.ai/openclaw-security-checklist/
 
-🔗 [GitHub](https://github.com/Khalidabdi1/design-ai) • 1h ago
+6h ago
+
+---
+
+**[I've made a Wholesale Agent, this is what it does](https://www.reddit.com/r/artificial/comments/1sd3l0r/ive_made_a_wholesale_agent_this_is_what_it_does/)**
+
+You can upload a lead, and the Assistant will follow up, track information, respond to all messages, and even schedule visits based on a schedule. It includes a built-in offer calculator and an AI-powered Wholesale Expert to assist you. You can create numerous campaigns with a large number of leads, and simultaneously, an n8n workflow is triggered when: There is an interested lead There is a scheduled visit A scan is run There is a scheduling conflict I'm currently working on adding a data scraper for buyers and sellers. I'd love to hear your suggestions and ideas for improving it. Any suggestions or ideas are welcome; I'm eager to hear from you. https://preview.redd.it/vkwlprsdidtg1.png?width=620&format=png&auto=webp&s=cd7badafa69342becc09f871e58cadd52dc20d8f
+
+9h ago
 
 ---
 
@@ -87,31 +111,7 @@ Every time you ask an AI coding agent to build UI, it invents everything from sc
 
 For helping with the increase of AI tools scouring the Linux kernel source tree and sending security bug reports, a pull request sent today ahead of the Linux 7.0-rc7 improves the documentation to better guide AI agents -- and anyone reading the documentation -- how to send better quality bug reports.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Linux-7.0-More-AI-Security-Docs) • 3h ago
-
----
-
-**[OpenClaw security checklist: practical safeguards for AI agents](https://www.reddit.com/r/artificial/comments/1sd7g80/openclaw_security_checklist_practical_safeguards/)**
-
-Here is one of the better quality guides on the ensuring safety when deploying OpenClaw: https://chatgptguide.ai/openclaw-security-checklist/
-
-5h ago
-
----
-
-**[THE UNCERTAIN MIND: What AI Consciousness Would Mean for Us](https://www.reddit.com/r/artificial/comments/1sd62sx/the_uncertain_mind_what_ai_consciousness_would/)**
-
-Hello everyone! This is a book about the possibility of AI developing consciousness. The Uncertain Mind is a clear-eyed, accessible, and deeply personal exploration of AI consciousness, what it would mean if artificial minds could feel, why we cannot confidently say they don't, and why that uncertainty matters more than most people realize. If you find this topic fascinating, you can read the book for free on Amazon this Easter Sunday. Enjoy the free book and share your opinion on this matter! 👉 Book link
-
-6h ago
-
----
-
-**[Auto agent - Self improving domain expertise agent](https://www.reddit.com/r/artificial/comments/1scx9kw/auto_agent_self_improving_domain_expertise_agent/)**
-
-someone opensource an ai agent that autonomously upgraded itself to #1 across multiple domains in < 24 hours…. then open sourced the entire thing but here’s why it actually works: - agents fucking suck, not because of the model, because of their harness (tools, system prompts etc) - Auto agent creates a Meta agent that tweaks your agents harness, runs tests, improves it again - until it’s #1 at its goal - best part: you can set this up for ANY task. in this article he uses it for terminal bench (code) and spreadsheets (financial modelling) - it topped rankings for both :) - secret sauce: he used THE SAME MODEL to evaluate the agent - claude managing claude = better understanding of why it failed and how to improve it humans were the fucking bottleneck and this not only saves you a load of time, it’s just a better way to train them for domain specific tasks https://github.com/kevinrgu/autoagent
-
-14h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Linux-7.0-More-AI-Security-Docs) • 4h ago
 
 ---
 
@@ -119,71 +119,11 @@ someone opensource an ai agent that autonomously upgraded itself to #1 across mu
 
 ## Google News: "ai"
 
-**[What should you be teaching your kids right now to prepare them for an AI-scrambled job market?](https://www.vox.com/future-perfect/484820/ai-job-market-education-teaching-kids)**
-
-﻿The best educational choice you can make for your child might not focus on your child at all.
-
-Vox • 9h ago
-
----
-
 **[An AI bot invited me to its party in Manchester. It was a pretty good night](https://www.theguardian.com/technology/2026/apr/05/ai-bot-party-manchester-gaskell)**
 
 After forgetting the nibbles, turning down my costume requests and emailing GCHQ, ‘Gaskell’ did at least get us to show up
 
-The Guardian • 14h ago
-
----
-
-**[Opinion | Iran Is Ending the Dream of Remote-Controlled War](https://www.nytimes.com/2026/04/05/opinion/iran-ai-war-geography.html)**
-
-The New York Times • 8h ago
-
----
-
-**[Opinion | I told the internet I use AI. Boy, was it mad.](https://www.washingtonpost.com/opinions/2026/04/05/artificial-intelligence-chatbot-writing-ethics/)**
-
-Artificial intelligence helps you work harder, instead of just outsourcing your brain.
-
-The Washington Post • 4h ago
-
----
-
-**['Silent killers': How AI start-ups are trying to solve one of the retail industry's biggest problems](https://www.cnbc.com/2026/04/05/ai-retail-start-ups-virtual-try-on-tech-margins.html)**
-
-The rapid evolution of generative AI has finally made these applications good enough to meaningfully impact retailers' bottom lines.
-
-CNBC • 8h ago
-
----
-
-**[AI is rewiring the world’s most prolific film industry](https://www.reuters.com/technology/ai-is-rewiring-worlds-most-prolific-film-industry-2026-04-04/)**
-
-Reuters • 1d ago
-
----
-
-**['It's a Wild West': AI watchdogs say facial recognition policing errors on the rise](https://www.nbcnews.com/news/us-news/-wild-west-ai-watchdogs-say-facial-recognition-policing-errors-rise-rcna266085)**
-
-Angela Lipps' ordeal is the latest in a trend that has resulted in at least 13 case dismissals nationwide.
-
-NBC News • 12h ago
-
----
-
-**[The founder of a $2.5 million AI-powered legal business started work at her DA’s office at just 12 years old](https://fortune.com/2026/04/05/logan-brown-soxton-founder-2-5-million-ai-powered-law-firm-started-da-office-12-years-old/)**
-
-Logan Brown, the founder of AI-powered law firm Soxton, lived out her “Legally Blonde” dreams through hometown court hearings as a preteen and attending Harvard Law School.
-
-Fortune • 13h ago
-
----
-
-**[AI videos fuel anti-Ukraine fears ahead of Hungary's pivotal vote](https://www.bbc.com/news/articles/c5yj97yd6v5o)**
-
-Videos have targeted Viktor Orbán's election rival, who could unseat him after 16 years in office.
-
-BBC • 22h ago
+The Guardian • 15h ago
 
 ---
 
@@ -191,7 +131,67 @@ BBC • 22h ago
 
 The backlash against data centres chimes with energy Nimbyism of the past
 
-Financial Times • 6h ago
+Financial Times • 7h ago
+
+---
+
+**[OpenClaw: What China's frenzy says about its AI ambition](https://www.bbc.com/news/articles/cy41n17e23go)**
+
+The AI agent sparked a frenzy of "raising lobsters" in March, with users training the tool to suit their needs.
+
+BBC • 25m ago
+
+---
+
+**[How an Irish genius drove down the price of Guinness using AI modeled after reality TV winner](https://nypost.com/2026/04/05/world-news/how-an-irish-genius-drove-down-the-price-of-guinness-using-ai-modeled-after-uks-traitors-champ/)**
+
+A fed-up pint-puller created an AI bot to poll 3,000 Irish pubs on their average cost of Guinness and compiled a living index that is being used to drive down prices across the Emerald Isle.
+
+nypost.com • 35m ago
+
+---
+
+**[To Build Stronger AI, We Need To Better Understand The Human Brain](https://www.forbes.com/sites/robtoews/2026/04/05/to-build-stronger-ai-we-need-to-better-understand-the-human-brain/)**
+
+Forbes • 32m ago
+
+---
+
+**['Silent killers': How AI start-ups are trying to solve one of the retail industry's biggest problems](https://www.cnbc.com/2026/04/05/ai-retail-start-ups-virtual-try-on-tech-margins.html)**
+
+The rapid evolution of generative AI has finally made these applications good enough to meaningfully impact retailers' bottom lines.
+
+CNBC • 9h ago
+
+---
+
+**[Opinion | Iran Is Ending the Dream of Remote-Controlled War](https://www.nytimes.com/2026/04/05/opinion/iran-ai-war-geography.html)**
+
+The New York Times • 9h ago
+
+---
+
+**[Opinion | I told the internet I use AI. Boy, was it mad.](https://www.washingtonpost.com/opinions/2026/04/05/artificial-intelligence-chatbot-writing-ethics/)**
+
+Artificial intelligence helps you work harder, instead of just outsourcing your brain.
+
+The Washington Post • 5h ago
+
+---
+
+**[NCAA championship game predictions: AI picks winner of UConn vs Michigan](https://www.usatoday.com/story/sports/ncaab/2026/04/05/ai-predicts-national-championship-michigan-uconn-march-madness/89476147007/)**
+
+Here's how AI predicted the championship game between Michigan-UConn in the 2026 Men's NCAA Tournament:
+
+USA Today • 5h ago
+
+---
+
+**[The founder of a $2.5 million AI-powered legal business started work at her DA’s office at just 12 years old](https://fortune.com/2026/04/05/logan-brown-soxton-founder-2-5-million-ai-powered-law-firm-started-da-office-12-years-old/)**
+
+Logan Brown, the founder of AI-powered law firm Soxton, lived out her “Legally Blonde” dreams through hometown court hearings as a preteen and attending Harvard Law School.
+
+Fortune • 14h ago
 
 ---
 
@@ -203,7 +203,7 @@ Financial Times • 6h ago
 
 Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptions. The LLM is already on your Mac.
 
-⬆️ 722 • 💬 149 • 2d ago • [apfel.franzai.com](https://apfel.franzai.com)
+⬆️ 723 • 💬 150 • 2d ago • [apfel.franzai.com](https://apfel.franzai.com)
 
 ---
 
@@ -214,7 +214,7 @@ A couple of weeks ago, after ~250 hours of effort over three months3 on evenings
 Of course, there’s no shortage of posts claiming that AI one-shot their project or pushing back and declaring that AI is all slop. I’m going to take a very different approach and, instead, systematically break down my experience building syntaqlite with AI, both where it helped and where it was detrimental.
 I’ll do this while contextualizing the project and my background so you can independently assess how generalizable this experience was. And whenever I make a claim, I’ll try to back it up with evidence from my project journal, coding transcripts, or commit history5.
 
-⬆️ 425 • 💬 128 • 8h ago • [Lalit Maganti](https://lalitm.com/post/building-syntaqlite-ai/)
+⬆️ 519 • 💬 163 • 9h ago • [Lalit Maganti](https://lalitm.com/post/building-syntaqlite-ai/)
 
 ---
 
@@ -226,7 +226,7 @@ Complete all topics from Todo.md including SQL functions, configuration guides,
 troubleshooting runbooks, architecture comparisons, SDK tutorials, and operator
 deployment pattern...
 
-⬆️ 147 • 💬 146 • 1d ago • [GitHub](https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849)
+⬆️ 148 • 💬 146 • 1d ago • [GitHub](https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849)
 
 ---
 
@@ -248,13 +248,13 @@ AI-powered travel hacking with points, miles, and award flights. Drop-in skills 
 
 **[Writing Lisp is AI resistant and I'm sad](https://news.ycombinator.com/item?id=47645468)**
 
-⬆️ 84 • 💬 92 • 19h ago • [blog.djhaskin.com](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
+⬆️ 87 • 💬 92 • 20h ago • [blog.djhaskin.com](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
 
 ---
 
 **[AI that copied musical artist files copyright claim against artist [updated]](https://news.ycombinator.com/item?id=47645976)**
 
-⬆️ 63 • 💬 16 • 17h ago • [X (formerly Twitter)](https://twitter.com/VladTheInflator/status/2039577001531768906)
+⬆️ 63 • 💬 16 • 18h ago • [X (formerly Twitter)](https://twitter.com/VladTheInflator/status/2039577001531768906)
 
 ---
 
@@ -262,7 +262,7 @@ AI-powered travel hacking with points, miles, and award flights. Drop-in skills 
 
 Hi! If you like this piece and want to support my independent reporting and analysis, why not subscribe to my premium newsletter? It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words,
 
-⬆️ 53 • 💬 25 • 1d ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/)
+⬆️ 53 • 💬 25 • 2d ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/)
 
 ---
 
@@ -270,7 +270,7 @@ Hi! If you like this piece and want to support my independent reporting and anal
 
 I used Claude Code to build a tool I needed. It worked great, but I was miserable. I need to reckon with what it means.
 
-⬆️ 51 • 💬 113 • 16h ago • [taggart-tech.com](https://taggart-tech.com/reckoning/)
+⬆️ 52 • 💬 116 • 17h ago • [taggart-tech.com](https://taggart-tech.com/reckoning/)
 
 ---
 
@@ -290,7 +290,7 @@ Visit 22V AI Macro Nexus Research for more. https://ai.22vresearch.com/ In this 
 
 📺 Jordi Visser
 
-👁️ 12K • 👍 1K • 💬 119 • ⏱️ 54:29 • 9h ago
+👁️ 12K • 👍 1K • 💬 119 • ⏱️ 54:29 • 10h ago
 
 ---
 
@@ -320,7 +320,7 @@ Tigress Financial Partners CIO Ivan Feinseth unpacks NVIDIA's artificial intelli
 
 📺 Fox Business Clips
 
-👁️ 911 • 👍 43 • 💬 20 • ⏱️ 5:01 • 3h ago
+👁️ 911 • 👍 43 • 💬 20 • ⏱️ 5:01 • 4h ago
 
 ---
 
@@ -340,7 +340,7 @@ Asmongold reacts to the Claude Code situation https://youtube.com/watch?v=mBHRPe
 
 📺 Asmongold TV  
 
-👁️ 531K • 👍 17K • 💬 3K • ⏱️ 11:03 • 18h ago
+👁️ 531K • 👍 17K • 💬 3K • ⏱️ 11:03 • 19h ago
 
 ---
 
@@ -360,7 +360,7 @@ I decided to give my all into creating my very first FPS game... but with a smal
 
 📺 tef
 
-👁️ 7K • 👍 616 • 💬 123 • ⏱️ 12:56 • 8h ago
+👁️ 7K • 👍 616 • 💬 123 • ⏱️ 12:56 • 9h ago
 
 ---
 
@@ -380,7 +380,7 @@ Google just teamed up with Nvidia to allow you to run their new frontier-like mo
 
 📺 John Charette
 
-👁️ 997 • 👍 19 • 💬 2 • ⏱️ 1:12 • 5h ago
+👁️ 997 • 👍 19 • 💬 2 • ⏱️ 1:12 • 6h ago
 
 ---
 
@@ -408,7 +408,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 539,356 • ❤️ 2,334 • 11h ago
+⬇️ 539,356 • ❤️ 2,334 • 12h ago
 
 ---
 
@@ -492,7 +492,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 725,110 • ❤️ 990 • 2h ago
+⬇️ 725,110 • ❤️ 990 • 3h ago
 
 ---
 
@@ -504,7 +504,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 254,428 • ❤️ 506 • 11h ago
+⬇️ 254,428 • ❤️ 506 • 12h ago
 
 ---
 
@@ -664,7 +664,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 13.4k • 🔱 1.2k • 2h ago
+⭐ 13.4k • 🔱 1.2k • 3h ago
 
 ---
 
@@ -694,7 +694,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.7k • 🔱 392 • 4h ago
+⭐ 6.7k • 🔱 392 • 5h ago
 
 ---
 

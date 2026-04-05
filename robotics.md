@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-05T21:33:37.807206+00:00'
+updated: '2026-04-05T22:32:53.679790+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 05, 2026 at 21:33 UTC  
+**Last Updated:** April 05, 2026 at 22:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Robot dog takes on security duties in Atlanta](https://www.reddit.com/r/robotics/comments/1sd8dlv/robot_dog_takes_on_security_duties_in_atlanta/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 For a cosplay competition performance, I came up with the idea of creating a companion. In Elden Ring, there are these living jars, and I think it’s a pretty great option for a cute side character in our cosplay. I want to turn one into a robot that can move quickly, move its arms, and play pre-recorded voice lines. The only problem is: I have no idea how to design the legs so that the robot can actually keep up with us while we walk at a normal pace. Especially since the original model has these awkward “chicken legs” (see photo 2), which really limits the possible options. So far, the only idea I’ve come up with is to put it on something like a wheelchair base. That would make movement much easier to implement, and we could even turn it into a joke as part of the performance. Does anyone have ideas on how to make a robot like this move fast enough to follow people?
 
-9h ago
+10h ago
 
 ---
 
@@ -51,6 +51,38 @@ For a cosplay competition performance, I came up with the idea of creating a com
 I was brought in to do some work on a pair of R-2000 Fanuc's a few years back and saw this on the safety fencing of the work cell.
 
 1d ago
+
+---
+
+**[Robotic arm uses ToF telemetry and a custom gravity-bias database to master grabs.](https://www.reddit.com/r/robotics/comments/1sdgzwt/robotic_arm_uses_tof_telemetry_and_a_custom/)**
+
+AL5D robot arm on which we have been testing our models A high precision distance sensor placed on the gripper and a few 3D printed parts later … presenting the Mark 10. At this point, the built moved away from calculating regressions from previous collected waypoints to dynamic. Object tracking is enabled through computer vision driven by YOLOv8 and Time-of-Flight telemetry. The goal? True 3D spatial grasp capability, regardless of object height or planar position. To achieve this shoulder servo geometry and gravity bias data is collected to train custom compensation algorithms. You will see smooth captures, but you will also see the failures. And that is the point. The 'misses' usually reveal much more than successes. The system eliminates 'sweet spots': with adaptive lateral tracking and real-time height compensation, in the video the Mark 10 manages to track and grab the figurine at different positions. Whether floor-level or elevated, to the left or right, the arm adjusts dynamically to deliver a secure, orthogonal grasp.
+
+🔗 [LinkedIn](https://www.linkedin.com/posts/miguel-pereira-27324931_robotics-computervision-python-activity-7407475997245194240-auU1?utm_source=share&utm_medium=member_ios&rcm=ACoAAAae6jcBwCzFhzmvOzn24BNV6khiGaKi1G4) • 8m ago
+
+---
+
+**[Impedance controller (w/o F/T sensor)](https://www.reddit.com/r/robotics/comments/1sdgudd/impedance_controller_wo_ft_sensor/)**
+
+Hello all, I am working on impedance control for a robot arm for a task of placing a usb in its socket and I’m a bit stuck on whether using a force/torque sensor is actually worth it. From what I understand, impedance control can be done without a force sensor (using position errors). I am trying to figure out: - When does a force/torque sensor become really necessary with impedance controller? - Does it significantly improve stability/safety, or just performance? - Would admittance control be a better option if I already have a force sensor? Would really appreciate any insight. Thanks in advance.
+
+15m ago
+
+---
+
+**[EE Major: Skills to develop to get robotics internship](https://www.reddit.com/r/robotics/comments/1sdgecs/ee_major_skills_to_develop_to_get_robotics/)**
+
+Hi, I’m a second-year EE student (at a mid-tier-engineering school), and I am aiming for robotics internships next summer at companies like Boston Dynamics or Tesla. I’m trying to decide where to focus my effort over the next year: Firmware / embedded systems (STM32, C, ROS2, controls, edge AI, ML) Hardware / PCB design Current experience: Some computer vision work (MediaPipe) Currently building an impedance-controlled actuator (STM32 + motor + encoder + current sensing) My question is: For robotics internships, which direction tends to be more valuable? And what kinds of projects actually stand out when applying? I tend to get shiny-object syndrome and find a new thing to learn without going deep into one, and I want to focus on one topic and learn something that has the highest ROI.
+
+33m ago
+
+---
+
+**[showing my cambotv1 progress 05-04-2026](https://www.reddit.com/r/robotics/comments/1sdf51a/showing_my_cambotv1_progress_05042026/)**
+
+I want to show my cambotv1 robot. it is a 3d printed robot that is joystick controlled and has camera footage in c++/python. I use linux input at the moment but soon i will try to use libevdev(evdev wrapper)in c++ so that it is more in sync the python code version
+
+🔗 [youtube.com](https://youtube.com/shorts/-pBvNUXrxUc?si=xDMeBR52YhB-FdkZ) • 1h ago
 
 ---
 
@@ -64,45 +96,13 @@ I was brought in to do some work on a pair of R-2000 Fanuc's a few years back an
 
 Hi everyone, I need your help regarding the servo you see in the image. Does anyone know if this type of servo exists, but instead of a toothed pinion, it has a simple cylindrical shaft, approximately 3mm in diameter? Thanks in advance. P.S. If you have any links, please send them.
 
-5h ago
+6h ago
 
 ---
 
 **[Exploring Humanoid Design Inspired by Muji](https://www.reddit.com/r/robotics/comments/1scm3ye/exploring_humanoid_design_inspired_by_muji/)**
 
 Hey everyone, This was a short 2-day project exploring how a humanoid robot could fit into Muji’s minimal lifestyle philosophy. I focused on human-robot interaction — how the robot should feel, behave, and quietly exist in everyday spaces. Tried to keep everything simple, functional, and consistent with clear product constraints. Would love to hear your thoughts!
-
-23h ago
-
----
-
-**[US researchers create pneumatic artificial muscles that let robots carry 100x their own weight.](https://www.reddit.com/r/robotics/comments/1sci5uh/us_researchers_create_pneumatic_artificial/)**
-
-Researchers in the United States have developed air-powered artificial muscles that significantly enhance robots’ strength and mobility. This new technology enables robots to lift and carry loads many times their own weight more efficiently and with greater flexibility.
-
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/artificial-muscles-robot-lift-more-weight) • 1d ago
-
----
-
-**[MechE.ai- tools for hardware engineers!](https://www.reddit.com/r/robotics/comments/1scssod/mecheai_tools_for_hardware_engineers/)**
-
-Hi! I’m working on bunch of tools for product design engineers and going to add them under meche.ai Currently I have: printadvisor.ai (material selection, print settings feedback) tolanalysis.com (tolerance stack up, Monte Carlo sim, Cpk analysis) dfmanalysis.com (DFM for CNC, sheet metal) pd.meche.ai (PD interview prep tool) cad.meche.ai (CAD viewer which is beautiful) Please check them and let me know if you have any thoughts/feedback 🙏 I’m planning to build more tools that I can put into use myself and for the community! So far I love building with Claude and Cursor. Feels like a new power got unlocked! 🔓
-
-🔗 [meche.ai](https://meche.ai) • 18h ago
-
----
-
-**[I got so frustrated with URDF hell, Gazebo/Isaac Sim format switching & broken physics that I built the tool I wish existed 3 months ago (free, no signup)](https://www.reddit.com/r/robotics/comments/1sd851f/i_got_so_frustrated_with_urdf_hell_gazeboisaac/)**
-
-Search Robosynx https://preview.redd.it/moxt7bcugetg1.png?width=2864&format=png&auto=webp&s=2e7e87f06450c966a109842015fc2fa20285154a A few months ago I was deep in the same frustration most of us live with: Writing a URDF that looks perfect… then watching it explode or fall through the floor in Gazebo Converting to MJCF for MuJoCo or SDF for Isaac Sim… and losing inertia values or joint limits Spending hours debugging impossible masses or broken links Rebuilding basic ROS 2 nodes and launch files from scratch every single time At some point I just got tired of fighting tooling instead of building robots. So I hacked together a small browser-based tool to make this less painful. Right now it can: Generate a physics-ready robot model from a text description Convert URDF / MJCF / SDF without breaking inertias Validate physics issues before simulation crashes Generate basic ROS 2 node + launch file scaffolding Nothing fancy — just things I personally kept rebuilding over and over. I'm genuinely curious: Do other people run into this workflow pain, or is this just my setup? If you work with: Isaac Sim Gazebo MuJoCo ROS 2 I'd love to hear: What breaks most often in your workflow What tools you wish existed Whether something like this would actually save time Brutal feedback welcome.
-
-5h ago
-
----
-
-**[GS-DroneGym: open-source photorealistic drone simulator + benchmark tooling for VLA research](https://www.reddit.com/r/robotics/comments/1sckilh/gsdronegym_opensource_photorealistic_drone/)**
-
-I’ve open-sourced GS-DroneGym, a drone-first research stack for vision-language-action work. Main idea: instead of only using synthetic assets, it can render observations from 3D Gaussian Splatting scenes, so you can prototype aerial waypoint policies in environments much closer to real visual conditions. Current features: - 6-DOF quadrotor dynamics - waypoint controller for [x, y, z, yaw] - gsplat renderer with CPU fallback - navigation tasks: PointNav, ObjectNav, ObstacleSlalom, DynamicFollow, NarrowCorridor - live viewer with RGB / depth / top-down trajectory - shared trajectory schema + dataset/eval tooling - adapters for GS-DroneGym, LIBERO, and LeRobot-format datasets https://github.com/09Catho/gs-dronegym Please star the repo if you find ut useful I’d especially appreciate feedback on: - sim-to-real usefulness - dataset generation for aerial VLA training - benchmark design for drone navigation
 
 1d ago
 
@@ -128,37 +128,7 @@ Forbes • 3d ago
 
 **[Asimov’s three laws of robotics survived 82 years, we broke them in 30 minutes, costs 80 cents, and then remade them](https://blog.adafruit.com/2026/04/05/asimovs-three-laws-of-robotics-survived-82-years-we-broke-them-in-30-minutes-costs-80-cents-and-then-remade-them/)**
 
-Adafruit • 4h ago
-
----
-
-**[National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources](https://blogs.nvidia.com/blog/national-robotics-week-2026/)**
-
-This National Robotics Week, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world.
-
-NVIDIA Blog • 1d ago
-
----
-
-**[Humanoid robots inspire a new generation to build machines](https://www.euronews.com/next/2026/04/05/humanoid-robots-inspire-a-new-generation-to-build-machines)**
-
-Uzbekistan has signed an agreement with South Korea’s ROBOTIS to launch humanoid robot production, marking a major step in its high-tech ambitions. At the same time, students across the country are learning robotics and programming, gaining skills that could prepare them for careers in the emerging
-
-Euronews.com • 8h ago
-
----
-
-**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqepSqwLf5aAXHfCC3_9ZFRglvy3i2wKxsQYoujxBrsw5WI89Isj4-nE&gaa_ts=69d2cb05&gaa_sig=vFdAK83XJMpxYeBwlPivvKGLOy96mR_nmX7ktwMzu-rLiink7xd7HKl7vyxIurlCjdgI_9zKSiypg1GHoqTRsQ%3D%3D)**
-
-WSJ • 2d ago
-
----
-
-**[Think Robots Are Impressive Now? Just Wait Until They Have 6G](https://www.cnet.com/tech/computing/think-robots-are-impressive-now-just-wait-until-they-have-6g/)**
-
-This next-generation network technology won't just make our phones faster; it'll unlock new capabilities in robots, turning them into all-sensing, always-learning fleets.
-
-CNET • 2d ago
+Adafruit • 5h ago
 
 ---
 
@@ -170,17 +140,49 @@ NASA (.gov) • 2d ago
 
 ---
 
+**[National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources](https://blogs.nvidia.com/blog/national-robotics-week-2026/)**
+
+This National Robotics Week, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world.
+
+NVIDIA Blog • 1d ago
+
+---
+
+**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqd0AwEvQCHWYn1vVclXuAwH1G8KLMlzzsXzJHurxc-r3OxHHii1UD6y&gaa_ts=69d2e683&gaa_sig=Mg3s2rRuuYAbThjuxdDONZGipfEw4XxO5flv8NTG3XtJ8yoVVgLrpN0WAU20f9ya6XkuRce3wnw6SyuhrSceZQ%3D%3D)**
+
+wsj.com • 2d ago
+
+---
+
+**[Humanoid robots inspire a new generation to build machines](https://www.euronews.com/next/2026/04/05/humanoid-robots-inspire-a-new-generation-to-build-machines)**
+
+Uzbekistan has signed an agreement with South Korea’s ROBOTIS to launch humanoid robot production, marking a major step in its high-tech ambitions. At the same time, students across the country are learning robotics and programming, gaining skills that could prepare them for careers in the emerging
+
+Euronews.com • 9h ago
+
+---
+
+**[Think Robots Are Impressive Now? Just Wait Until They Have 6G](https://www.cnet.com/tech/computing/think-robots-are-impressive-now-just-wait-until-they-have-6g/)**
+
+This next-generation network technology won't just make our phones faster; it'll unlock new capabilities in robots, turning them into all-sensing, always-learning fleets.
+
+CNET • 2d ago
+
+---
+
+**[AI Body Gap: Why Robots Need "Internal Feelings" to be Safe](https://neurosciencenews.com/internal-embodiment-ai-safety-30457/)**
+
+Why is AI overconfident? A new study explores "internal embodiment," the missing link in AI safety. Researchers explain how a lack of internal "body" states prevents AI from understanding human context and avoiding errors.
+
+Neuroscience News • 1d ago
+
+---
+
 **[Wi-Fi That Can Withstand a Nuclear Reactor](https://spectrum.ieee.org/robotics-in-nuclear-industry)**
 
 Six months in a nuclear reactor? This receiver chip can take it
 
 IEEE Spectrum • 3d ago
-
----
-
-**[Generalist introduces GEN-1 general-purpose model for physical AI](https://www.therobotreport.com/generalist-introduces-gen-1-general-purpose-model-for-physical-ai/)**
-
-The Robot Report • 2d ago
 
 ---
 
@@ -204,7 +206,7 @@ The 2026 NHRL Pro World Championship Season is HERE! This is Round 3. This. Is. 
 
 📺 NHRL
 
-👁️ 9K • 👍 353 • 💬 8 • ⏱️ 3:15:56 • 18h ago
+👁️ 9K • 👍 353 • 💬 8 • ⏱️ 3:15:56 • 19h ago
 
 ---
 
@@ -212,7 +214,7 @@ The 2026 NHRL Pro World Championship Season is HERE! This is Round 3. This. Is. 
 
 📺 Yard Mon Robotics
 
-👁️ 1K • 👍 41 • 💬 5 • ⏱️ 0:47 • 18h ago
+👁️ 1K • 👍 41 • 💬 5 • ⏱️ 0:47 • 19h ago
 
 ---
 
@@ -222,7 +224,7 @@ Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking
 
 📺 The AI Nexus
 
-👁️ 4K • 👍 185 • 💬 13 • ⏱️ 20:43 • 4d ago
+👁️ 4K • 👍 185 • 💬 13 • ⏱️ 20:43 • 5d ago
 
 ---
 
@@ -242,7 +244,7 @@ War Robots Gameplay: Anaksor with Kroko weapons is quite unfair! My War Robots C
 
 📺 Manni-Gaming
 
-👁️ 6K • 👍 295 • 💬 63 • ⏱️ 13:35 • 9h ago
+👁️ 6K • 👍 295 • 💬 63 • ⏱️ 13:35 • 10h ago
 
 ---
 
@@ -272,7 +274,7 @@ Round 3 of The 2026 NHRL Pro World Championship kicks off NOW! The path to crown
 
 📺 NHRL
 
-👁️ 13K • 👍 337 • 💬 5 • ⏱️ 4:56:01 • 22h ago
+👁️ 13K • 👍 337 • 💬 5 • ⏱️ 4:56:01 • 23h ago
 
 ---
 
