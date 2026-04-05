@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-05T20:35:55.044867+00:00'
+updated: '2026-04-05T21:33:37.803977+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
 - news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 05, 2026 at 20:35 UTC  
+**Last Updated:** April 05, 2026 at 21:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $248.97B
+**Market Cap:** $248.56B
 Rank #2
 
 **Circulating Supply:** 120,691,238 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.3%
+-58.4%
 
 **All-Time Low:** $0.43
-+476648.3%
++475613.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey all! Since my earlier post I've been rebuilding from the ground up, and your feedback helped shape everything. ETour V2 is simpler, faster, and more flexible: 1) You can now configure your own lobbies with anywhwere between 2 and 32 players. And you can choose the entry fee per-player, from $0.20 up to 1 ETH. 2) Moves happen in sub-1s (down from ~10s). 3) The fee structure is cleaner too: 95% straight to the winner, and 5% is my cut. No confusing raffle mechanics. And the winner gets more, winner's cut in V1 was only 90% of the pot, now it's 95%! 4) I also put together two docs: a focused whitepaper that explains the why, and a thorough user manual that answers every how question. Further, and very importantly, V2 positions ETour as the perfect platform to play games on-chain over ETH stakes with no middlemen with your friends, crew, or community, rather than a place for random online matchmaking. Which is more honest about what ETour is good at. Happy to answer your questions! Misc: https://etour.games https://etour.games/whitepaper https://etour.games/manual All contracts are verified and available in the footer
 
-6h ago
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey all! Since my earlier post I've been rebuilding from the ground up, and your
 
 Hi all, I build a new kind of cli based solidity debugger you might find useful. During the few days easter break I finally could finish a long standing project I had in mind: a cli based solidity debugger and tracer. I used to use truffle-debug a lot, but the whole project got sunset (and was painfully slow anyways, but thats a different story). Foundry as a successor always made sense to me. Its fast, its git based, its a workhorse, never let me down so far. But I always missed a properly formatted easy to use tracer and debugger like we know it from tenderly, but cli based, with local, text based outputs. I wanted something a human and an LLM can use. So I built soldebug. You give it a transaction hash and it gives you a decoded stack trace: $ soldebug 0xe1c962... --rpc-url https://sepolia.infura.io/v3/... --project-dir ./myproject Transaction 0xe1c962...b53fb6 REVERTED (gas: 29.8K) Call Stack: TestToken.mint(arg0=0xdEadDEAD..., arg1=9e23) <- REVERT REVERT: MaxSupplyExceeded(9e23, 5e23) It replays the transaction locally using revm (same as Foundry), matches contracts from your local Foundry project, resolves proxy implementations (UUPS, transparent proxies), and can fetch external contract ABIs from Etherscan/Sourcify. All in Rust, same style as Foundry itself. It's a first version, really early, but maybe useful for other Ethereum devs. If you find it useful (or not), let me know, or generally, any feedback very welcome.
 
-🔗 [GitHub](https://github.com/tomw1808/soldebug) • 6h ago
+🔗 [GitHub](https://github.com/tomw1808/soldebug) • 7h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi all, I build a new kind of cli based solidity debugger you might find useful.
 
 Russia submitted a bill requiring residents to report all foreign crypto wallet activity to tax authorities from July 2026. Twenty million users. No exemptions. This is what state capture of crypto looks like.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/russia-bitcoin-ban-failed-wallet-registration-2026/) • 22h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/russia-bitcoin-ban-failed-wallet-registration-2026/) • 23h ago
 
 ---
 
@@ -156,7 +156,7 @@ Quantum breakthrough papers, Aave v4, Aztec alpha
 
 Financial giant Charles Schwab is set to launch spot buying of Bitcoin and Ethereum by the end of the quarter, the firm said Friday.
 
-Decrypt • 1d ago
+Decrypt • 2d ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 1d ago
 
 The price of Ethereum has been hovering around $2,000 for nearly a month, with the technical structure showing no clear path to recovery. According to the latest on-chain data, the “King of Altcoin” is witnessing a rare signal that could mean that it is at the beginning of a positive trend.ETH Net…
 
-TradingView • 6h ago
+TradingView • 7h ago
 
 ---
 
@@ -196,7 +196,7 @@ The Block • 2d ago
 
 Algorand's ALGO token has emerged as an unexpected beneficiary of the market’s latest quantum-computing debate.
 
-CryptoSlate • 4h ago
+CryptoSlate • 5h ago
 
 ---
 
@@ -204,7 +204,7 @@ CryptoSlate • 4h ago
 
 The Bitcoin price is experiencing excessive compression as the token remains stuck within a strong bearish trend along with Ethereum & XRP
 
-Coinpedia • 7h ago
+Coinpedia • 8h ago
 
 ---
 
@@ -220,13 +220,13 @@ CoinDesk • 2d ago
 
 Why XRP can't crack the big three: supply pressure, price resistance, and a market cap gap that keeps widening against Bitcoin and Ethereum.
 
-Watcher Guru • 8h ago
+Watcher Guru • 9h ago
 
 ---
 
 **[Investors Buy the Ethereum Dip as TETH Logs Double-Digit Inflow vs. AUM](https://www.tipranks.com/news/cryptocurrencies/investors-buy-the-ethereum-dip-as-teth-logs-double-digit-inflow-vs-aum)**
 
-TipRanks • 4h ago
+TipRanks • 5h ago
 
 ---
 
@@ -240,17 +240,7 @@ Get 5% off the BitBox02 and take your crypto off exchanges → https://bitbox.sw
 
 📺 Crypto Nutshell
 
-👁️ 909 • 👍 88 • 💬 17 • ⏱️ 19:32 • 4h ago
-
----
-
-**[XRP Can NEVER Join Bitcoin, Ethereum &amp; USDT – Here&#39;s the Shocking Reason (Market Cap Gap Exposed](https://www.youtube.com/watch?v=N4k-WN9PQTk)**
-
-XRP Can NEVER Join Bitcoin, Ethereum & USDT – Here's the Shocking Reason (Market Cap Gap Exposed Support The O Show ...
-
-📺 CryptoWendyO
-
-👁️ 1K • 👍 201 • 💬 6 • ⏱️ 13:47 • 3h ago
+👁️ 2K • 👍 150 • 💬 44 • ⏱️ 19:32 • 5h ago
 
 ---
 
@@ -260,17 +250,17 @@ Welcome back to Verified Investing! In today's urgent crypto market update, Chie
 
 📺 Gareth Soloway
 
-👁️ 88K • 👍 5K • 💬 501 • ⏱️ 11:47 • 1d ago
+👁️ 92K • 👍 5K • 💬 494 • ⏱️ 11:47 • 1d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Analysis: Buy the Dip or Stay Patient?](https://www.youtube.com/watch?v=WqAlV8C8i_4)**
+**[XRP Can NEVER Join Bitcoin, Ethereum &amp; USDT – Here&#39;s the Shocking Reason (Market Cap Gap Exposed](https://www.youtube.com/watch?v=N4k-WN9PQTk)**
 
-Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
+XRP Can NEVER Join Bitcoin, Ethereum & USDT – Here's the Shocking Reason (Market Cap Gap Exposed Support The O Show ...
 
-📺 Milk Road
+📺 CryptoWendyO
 
-👁️ 538 • 👍 26 • 💬 82 • ⏱️ 14:17 • 6h ago
+👁️ 4K • 👍 376 • 💬 13 • ⏱️ 13:47 • 4h ago
 
 ---
 
@@ -280,7 +270,17 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 158 • 💬 8 • ⏱️ 12:58 • 6h ago
+👁️ 3K • 👍 185 • 💬 9 • ⏱️ 12:58 • 7h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Analysis: Buy the Dip or Stay Patient?](https://www.youtube.com/watch?v=WqAlV8C8i_4)**
+
+Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
+
+📺 Milk Road
+
+👁️ 778 • 👍 29 • 💬 86 • ⏱️ 14:17 • 7h ago
 
 ---
 
@@ -290,17 +290,27 @@ BITCOIN & ALTCOIN PUMP & DUMP COMING? (Get Ready)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 4K • 👍 196 • 💬 258 • ⏱️ 14:42 • 19h ago
+👁️ 5K • 👍 202 • 💬 313 • ⏱️ 14:42 • 20h ago
 
 ---
 
-**[Crypto Market Crash or Correction | BTC &amp; ETH Price Prediction Today | क्या होगा आगे?](https://www.youtube.com/watch?v=6621RnT8vW8)**
+**[KRYPTO: Jetzt der finale Abverkauf? 😱 Bitcoin, Ethereum | BTC &amp; ETH Analyse &amp; Kursziele](https://www.youtube.com/watch?v=vVwMH6gvRfk)**
 
-BTC & ETH Price Prediction Today | Will Crypto Market Go Up or Down? | Hindi Analysis Premium on Telegram ...
+Werde Teil unserer Community & bring dein Trading auf das nächste Level!* Kostenlos Discord beitreten: ...
 
-📺 Crypto Gyan
+📺 TradingKompass
 
-👁️ 437 • 👍 55 • ⏱️ 5:28 • 5h ago
+👁️ 2K • 👍 226 • 💬 19 • ⏱️ 10:18 • 5h ago
+
+---
+
+**[☠️ Ethereum on the Edge](https://www.youtube.com/watch?v=sQgrv7CeJq8)**
+
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 3K • 👍 120 • 💬 52 • ⏱️ 10:32 • 2d ago
 
 ---
 
@@ -310,27 +320,17 @@ I tested how the Telegram + bot + Premium combo really works, and in this video 
 
 📺 Francesco Berlutti - FreeMan 
 
-👁️ 7K • 👍 508 • 💬 500 • ⏱️ 4:56 • 1d ago
+👁️ 8K • 👍 509 • 💬 500 • ⏱️ 4:56 • 1d ago
 
 ---
 
-**[BEARISH NEWS FOR ETHEREUM🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=C6CruI1dZE0)**
+**[Crypto Market Crash or Correction | BTC &amp; ETH Price Prediction Today | क्या होगा आगे?](https://www.youtube.com/watch?v=6621RnT8vW8)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+BTC & ETH Price Prediction Today | Will Crypto Market Go Up or Down? | Hindi Analysis Premium on Telegram ...
 
-📺 Cilinix Crypto
+📺 Crypto Gyan
 
-👁️ 158 • 👍 11 • ⏱️ 4:29 • 10h ago
-
----
-
-**[BUY BUY BUY BUY !!!!!!!!](https://www.youtube.com/watch?v=Yt0nxQCJwEY)**
-
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXCarlMoonFerrari Net ...
-
-📺 The Moon Show
-
-👁️ 14K • 👍 1K • 💬 56 • ⏱️ 4:25 • 2d ago
+👁️ 670 • 👍 59 • ⏱️ 5:28 • 6h ago
 
 ---
 
