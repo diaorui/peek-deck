@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-05T18:46:37.052485+00:00'
+updated: '2026-04-05T19:34:08.351600+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
+- social
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 05, 2026 at 18:46 UTC  
+**Last Updated:** April 05, 2026 at 19:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey all! Since my earlier post I've been rebuilding from the ground up, and your feedback helped shape everything. ETour V2 is simpler, faster, and more flexible: 1) You can now configure your own lobbies with anywhwere between 2 and 32 players. And you can choose the entry fee per-player, from $0.20 up to 1 ETH. 2) Moves happen in sub-1s (down from ~10s). 3) The fee structure is cleaner too: 95% straight to the winner, and 5% is my cut. No confusing raffle mechanics. And the winner gets more, winner's cut in V1 was only 90% of the pot, now it's 95%! 4) I also put together two docs: a focused whitepaper that explains the why, and a thorough user manual that answers every how question. Further, and very importantly, V2 positions ETour as the perfect platform to play games on-chain over ETH stakes with no middlemen with your friends, crew, or community, rather than a place for random online matchmaking. Which is more honest about what ETour is good at. Happy to answer your questions! Misc: https://etour.games https://etour.games/whitepaper https://etour.games/manual All contracts are verified and available in the footer
 
-4h ago
+5h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey all! Since my earlier post I've been rebuilding from the ground up, and your
 
 Hi all, I build a new kind of cli based solidity debugger you might find useful. During the few days easter break I finally could finish a long standing project I had in mind: a cli based solidity debugger and tracer. I used to use truffle-debug a lot, but the whole project got sunset (and was painfully slow anyways, but thats a different story). Foundry as a successor always made sense to me. Its fast, its git based, its a workhorse, never let me down so far. But I always missed a properly formatted easy to use tracer and debugger like we know it from tenderly, but cli based, with local, text based outputs. I wanted something a human and an LLM can use. So I built soldebug. You give it a transaction hash and it gives you a decoded stack trace: $ soldebug 0xe1c962... --rpc-url https://sepolia.infura.io/v3/... --project-dir ./myproject Transaction 0xe1c962...b53fb6 REVERTED (gas: 29.8K) Call Stack: TestToken.mint(arg0=0xdEadDEAD..., arg1=9e23) <- REVERT REVERT: MaxSupplyExceeded(9e23, 5e23) It replays the transaction locally using revm (same as Foundry), matches contracts from your local Foundry project, resolves proxy implementations (UUPS, transparent proxies), and can fetch external contract ABIs from Etherscan/Sourcify. All in Rust, same style as Foundry itself. It's a first version, really early, but maybe useful for other Ethereum devs. If you find it useful (or not), let me know, or generally, any feedback very welcome.
 
-🔗 [GitHub](https://github.com/tomw1808/soldebug) • 4h ago
+🔗 [GitHub](https://github.com/tomw1808/soldebug) • 5h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi all, I build a new kind of cli based solidity debugger you might find useful.
 
 Russia submitted a bill requiring residents to report all foreign crypto wallet activity to tax authorities from July 2026. Twenty million users. No exemptions. This is what state capture of crypto looks like.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/russia-bitcoin-ban-failed-wallet-registration-2026/) • 20h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/russia-bitcoin-ban-failed-wallet-registration-2026/) • 21h ago
 
 ---
 
@@ -128,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/ylRbyff4xKs) • 1d ago
+🔗 [youtu.be](https://youtu.be/ylRbyff4xKs) • 2d ago
 
 ---
 
@@ -136,7 +136,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Why are we still copy-pasting 40-character wallet addresses in 2026? Idea: you do a small test transfer once → both wallets get a shared avatar/character. Next time you send, you just recognize the person visually instead of relying on the address. Kind of like “pairing” wallets. Would this actually reduce mistakes or scams, or is this unnecessary given things like ENS?
 
-1d ago
+2d ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 1d ago
 
 The price of Ethereum has been hovering around $2,000 for nearly a month, with the technical structure showing no clear path to recovery. According to the latest on-chain data, the “King of Altcoin” is witnessing a rare signal that could mean that it is at the beginning of a positive trend.ETH Net…
 
-TradingView • 4h ago
+TradingView • 5h ago
 
 ---
 
@@ -196,7 +196,7 @@ The Block • 2d ago
 
 Algorand's ALGO token has emerged as an unexpected beneficiary of the market’s latest quantum-computing debate.
 
-CryptoSlate • 2h ago
+CryptoSlate • 3h ago
 
 ---
 
@@ -218,13 +218,13 @@ Coinpedia • 6h ago
 
 **[Investors Buy the Ethereum Dip as TETH Logs Double-Digit Inflow vs. AUM](https://www.tipranks.com/news/cryptocurrencies/investors-buy-the-ethereum-dip-as-teth-logs-double-digit-inflow-vs-aum)**
 
-TipRanks • 2h ago
+TipRanks • 3h ago
 
 ---
 
 **[Top Picks for 2026: Why BlockDAG, Hyperliquid, Ethereum, and Chainlink are the Highest Potential Cryptos](https://financefeeds.com/top-picks-for-2026-why-blockdag-hyperliquid-ethereum-and-chainlink-are-the-highest-potential-cryptos/)**
 
-FinanceFeeds • 1h ago
+FinanceFeeds • 2h ago
 
 ---
 
@@ -238,7 +238,7 @@ Get 5% off the BitBox02 and take your crypto off exchanges → https://bitbox.sw
 
 📺 Crypto Nutshell
 
-👁️ 909 • 👍 88 • 💬 17 • ⏱️ 19:32 • 2h ago
+👁️ 909 • 👍 88 • 💬 17 • ⏱️ 19:32 • 3h ago
 
 ---
 
@@ -248,7 +248,7 @@ XRP Can NEVER Join Bitcoin, Ethereum & USDT – Here's the Shocking Reason (Mark
 
 📺 CryptoWendyO
 
-👁️ 1K • 👍 201 • 💬 6 • ⏱️ 13:47 • 1h ago
+👁️ 1K • 👍 201 • 💬 6 • ⏱️ 13:47 • 2h ago
 
 ---
 
@@ -268,7 +268,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 538 • 👍 26 • 💬 82 • ⏱️ 14:17 • 4h ago
+👁️ 538 • 👍 26 • 💬 82 • ⏱️ 14:17 • 5h ago
 
 ---
 
@@ -278,7 +278,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 158 • 💬 8 • ⏱️ 12:58 • 4h ago
+👁️ 2K • 👍 158 • 💬 8 • ⏱️ 12:58 • 5h ago
 
 ---
 
@@ -288,7 +288,7 @@ BITCOIN & ALTCOIN PUMP & DUMP COMING? (Get Ready)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 4K • 👍 196 • 💬 258 • ⏱️ 14:42 • 17h ago
+👁️ 4K • 👍 196 • 💬 258 • ⏱️ 14:42 • 18h ago
 
 ---
 
@@ -298,7 +298,7 @@ BTC & ETH Price Prediction Today | Will Crypto Market Go Up or Down? | Hindi Ana
 
 📺 Crypto Gyan
 
-👁️ 437 • 👍 55 • ⏱️ 5:28 • 3h ago
+👁️ 437 • 👍 55 • ⏱️ 5:28 • 4h ago
 
 ---
 
@@ -318,7 +318,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 158 • 👍 11 • ⏱️ 4:29 • 8h ago
+👁️ 158 • 👍 11 • ⏱️ 4:29 • 9h ago
 
 ---
 

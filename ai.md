@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-05T18:46:37.037884+00:00'
+updated: '2026-04-05T19:34:08.337116+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
 - videos
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 05, 2026 at 18:46 UTC  
+**Last Updated:** April 05, 2026 at 19:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Everyone thinks McKinsey just built 25,000 AI experts. They didn't. They took a 35-year-old internal database, put a natural language interface on top, and wrote a press release that every major business publication ran without asking a single follow-up question. This is the same play McKinsey has run for a hundred years. ERP in the 90s. Digital transformation in the 2000s. Big data in the 2010s. Each wave the same: new technology creates executive anxiety, McKinsey positions itself between that anxiety and the answer, and companies buy the trend to protect themselves when it fails. The future looks a lot like the past. And once you see it, you can't unsee it. https://www.youtube.com/watch?v=uTdKJaQkgJQ
 
-1h ago
+2h ago
 
 ---
 
@@ -49,7 +49,7 @@ Everyone thinks McKinsey just built 25,000 AI experts. They didn't. They took a 
 
 AI sycophancy, RLHF bias, and Ender's Foundry simulations shaped Operation Epic Fury. 7 planning assumptions failed in 23 days as the Iran war defied every AI prediction.
 
-🔗 [House of Saud](https://houseofsaud.com/iran-war-ai-psychosis-sycophancy-rlhf/) • 18h ago
+🔗 [House of Saud](https://houseofsaud.com/iran-war-ai-psychosis-sycophancy-rlhf/) • 19h ago
 
 ---
 
@@ -57,7 +57,7 @@ AI sycophancy, RLHF bias, and Ender's Foundry simulations shaped Operation Epic 
 
 Hello everyone! This is a book about the possibility of AI developing consciousness. The Uncertain Mind is a clear-eyed, accessible, and deeply personal exploration of AI consciousness, what it would mean if artificial minds could feel, why we cannot confidently say they don't, and why that uncertainty matters more than most people realize. If you find this topic fascinating, you can read the book for free on Amazon this Easter Sunday. Enjoy the free book and share your opinion on this matter! 👉 Book link
 
-3h ago
+4h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hello everyone! This is a book about the possibility of AI developing consciousn
 
 You can upload a lead, and the Assistant will follow up, track information, respond to all messages, and even schedule visits based on a schedule. It includes a built-in offer calculator and an AI-powered Wholesale Expert to assist you. You can create numerous campaigns with a large number of leads, and simultaneously, an n8n workflow is triggered when: There is an interested lead There is a scheduled visit A scan is run There is a scheduling conflict I'm currently working on adding a data scraper for buyers and sellers. I'd love to hear your suggestions and ideas for improving it. Any suggestions or ideas are welcome; I'm eager to hear from you. https://preview.redd.it/vkwlprsdidtg1.png?width=620&format=png&auto=webp&s=cd7badafa69342becc09f871e58cadd52dc20d8f
 
-5h ago
+6h ago
 
 ---
 
@@ -73,7 +73,7 @@ You can upload a lead, and the Assistant will follow up, track information, resp
 
 After reading many developers' hands-on reviews, Gemma 4 is truly impressive. The 26B version is fast and uses little memory. What's everyone else's experience?
 
-14h ago
+15h ago
 
 ---
 
@@ -87,7 +87,7 @@ After reading many developers' hands-on reviews, Gemma 4 is truly impressive. Th
 
 1 is a fluke. 2 is a coincidence. 3 is a pattern. Lately I’ve been noticing something. The problems I’m solving are getting more complex… while the time it takes to solve them is getting shorter. At first I thought I just got lucky. Then it happened again. Now it’s consistent. Here’s what changed: Most people treat AI like a tool—something to prompt, extract from, and move on. That approach works… up to a point. But it also creates a ceiling. The output feels shallow, disconnected, or incomplete. I started approaching it differently. Instead of treating AI like a tool, I started treating it like a collaborator—something to think with, not just use. Not blindly trusting it. Not handing over the work. But working with it in a loop—refining, challenging, building. That shift changed everything. • Faster iteration • Better problem decomposition • Stronger ideas • Less friction moving from concept → execution It’s not about replacing human creativity. It’s about amplifying it—without losing control of the direction. AI isn’t going anywhere. But I don’t think the future looks like The Terminator or WALL-E. There’s a middle ground. And I think most people are underestimating how powerful that space is. I’m curious—has anyone else experienced this shift, or is everyone still treating it like a tool?
 
-6m ago
+54m ago
 
 ---
 
@@ -95,7 +95,7 @@ After reading many developers' hands-on reviews, Gemma 4 is truly impressive. Th
 
 1 is a fluke. 2 is a coincidence. 3 is a pattern. Lately I’ve been noticing something. The problems I’m solving are getting more complex… while the time it takes to solve them is getting shorter. At first I thought I just got lucky. Then it happened again. Now it’s consistent. Here’s what changed: Most people treat AI like a tool—something to prompt, extract from, and move on. That approach works… up to a point. But it also creates a ceiling. The output feels shallow, disconnected, or incomplete. I started approaching it differently. Instead of treating AI like a tool, I started treating it like a collaborator—something to think with, not just use. Not blindly trusting it. Not handing over the work. But working with it in a loop—refining, challenging, building. That shift changed everything. • Faster iteration • Better problem decomposition • Stronger ideas • Less friction moving from concept → execution It’s not about replacing human creativity. It’s about amplifying it—without losing control of the direction. AI isn’t going anywhere. But I don’t think the future looks like The Terminator or WALL-E. There’s a middle ground. And I think most people are underestimating how powerful that space is. I’m curious—has anyone else experienced this shift, or is everyone still treating it like a tool?
 
-7m ago
+55m ago
 
 ---
 
@@ -103,7 +103,7 @@ After reading many developers' hands-on reviews, Gemma 4 is truly impressive. Th
 
 For helping with the increase of AI tools scouring the Linux kernel source tree and sending security bug reports, a pull request sent today ahead of the Linux 7.0-rc7 improves the documentation to better guide AI agents -- and anyone reading the documentation -- how to send better quality bug reports.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Linux-7.0-More-AI-Security-Docs) • 30m ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Linux-7.0-More-AI-Security-Docs) • 1h ago
 
 ---
 
@@ -111,7 +111,7 @@ For helping with the increase of AI tools scouring the Linux kernel source tree 
 
 Here is one of the better quality guides on the ensuring safety when deploying OpenClaw: https://chatgptguide.ai/openclaw-security-checklist/
 
-2h ago
+3h ago
 
 ---
 
@@ -123,7 +123,7 @@ Here is one of the better quality guides on the ensuring safety when deploying O
 
 In a new Fox News Digital op-ed, First Lady Melania Trump outlined how AI could improve teaching and enhance education for students.
 
-Fox News • 3h ago
+Fox News • 4h ago
 
 ---
 
@@ -139,7 +139,7 @@ ChinaTalk | Jordan Schneider • 2d ago
 
 ﻿The best educational choice you can make for your child might not focus on your child at all.
 
-Vox • 6h ago
+Vox • 7h ago
 
 ---
 
@@ -153,7 +153,7 @@ The New York Times • 1d ago
 
 Here's how AI predicted the championship game between Michigan-UConn in the 2026 Men's NCAA Tournament:
 
-USA Today • 1h ago
+USA Today • 2h ago
 
 ---
 
@@ -161,7 +161,7 @@ USA Today • 1h ago
 
 Annual event held this past week in Morgantown.
 
-WV MetroNews • 1h ago
+WV MetroNews • 2h ago
 
 ---
 
@@ -169,7 +169,7 @@ WV MetroNews • 1h ago
 
 Artificial intelligence helps you work harder, instead of just outsourcing your brain.
 
-The Washington Post • 1h ago
+The Washington Post • 2h ago
 
 ---
 
@@ -191,7 +191,7 @@ Reuters • 1d ago
 
 After forgetting the nibbles, turning down my costume requests and emailing GCHQ, ‘Gaskell’ did at least get us to show up
 
-The Guardian • 11h ago
+The Guardian • 12h ago
 
 ---
 
@@ -248,7 +248,7 @@ AI-powered travel hacking with points, miles, and award flights. Drop-in skills 
 
 **[Writing Lisp is AI resistant and I'm sad](https://news.ycombinator.com/item?id=47645468)**
 
-⬆️ 80 • 💬 86 • 16h ago • [blog.djhaskin.com](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
+⬆️ 80 • 💬 86 • 17h ago • [blog.djhaskin.com](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
 
 ---
 
@@ -260,7 +260,7 @@ AI-powered travel hacking with points, miles, and award flights. Drop-in skills 
 
 **[AI that copied musical artist files copyright claim against artist [updated]](https://news.ycombinator.com/item?id=47645976)**
 
-⬆️ 62 • 💬 15 • 14h ago • [X (formerly Twitter)](https://twitter.com/VladTheInflator/status/2039577001531768906)
+⬆️ 62 • 💬 15 • 15h ago • [X (formerly Twitter)](https://twitter.com/VladTheInflator/status/2039577001531768906)
 
 ---
 
@@ -276,7 +276,7 @@ Hi! If you like this piece and want to support my independent reporting and anal
 
 I used Claude Code to build a tool I needed. It worked great, but I was miserable. I need to reckon with what it means.
 
-⬆️ 50 • 💬 111 • 13h ago • [taggart-tech.com](https://taggart-tech.com/reckoning/)
+⬆️ 50 • 💬 111 • 14h ago • [taggart-tech.com](https://taggart-tech.com/reckoning/)
 
 ---
 
@@ -408,7 +408,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 539,356 • ❤️ 2,331 • 8h ago
+⬇️ 539,356 • ❤️ 2,331 • 9h ago
 
 ---
 
@@ -504,7 +504,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 254,428 • ❤️ 506 • 8h ago
+⬇️ 254,428 • ❤️ 506 • 9h ago
 
 ---
 
@@ -664,7 +664,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 13.3k • 🔱 1.2k • 28m ago
+⭐ 13.3k • 🔱 1.2k • 1h ago
 
 ---
 
@@ -694,7 +694,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.7k • 🔱 392 • 1h ago
+⭐ 6.7k • 🔱 392 • 2h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-05T18:46:37.055710+00:00'
+updated: '2026-04-05T19:34:08.354828+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 05, 2026 at 18:46 UTC  
+**Last Updated:** April 05, 2026 at 19:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 For a cosplay competition performance, I came up with the idea of creating a companion. In Elden Ring, there are these living jars, and I think it’s a pretty great option for a cute side character in our cosplay. I want to turn one into a robot that can move quickly, move its arms, and play pre-recorded voice lines. The only problem is: I have no idea how to design the legs so that the robot can actually keep up with us while we walk at a normal pace. Especially since the original model has these awkward “chicken legs” (see photo 2), which really limits the possible options. So far, the only idea I’ve come up with is to put it on something like a wheelchair base. That would make movement much easier to implement, and we could even turn it into a joke as part of the performance. Does anyone have ideas on how to make a robot like this move fast enough to follow people?
 
-6h ago
+7h ago
 
 ---
 
@@ -50,7 +50,7 @@ For a cosplay competition performance, I came up with the idea of creating a com
 
 I was brought in to do some work on a pair of R-2000 Fanuc's a few years back and saw this on the safety fencing of the work cell.
 
-23h ago
+1d ago
 
 ---
 
@@ -64,7 +64,7 @@ I was brought in to do some work on a pair of R-2000 Fanuc's a few years back an
 
 Hi everyone, I need your help regarding the servo you see in the image. Does anyone know if this type of servo exists, but instead of a toothed pinion, it has a simple cylindrical shaft, approximately 3mm in diameter? Thanks in advance. P.S. If you have any links, please send them.
 
-2h ago
+3h ago
 
 ---
 
@@ -72,7 +72,7 @@ Hi everyone, I need your help regarding the servo you see in the image. Does any
 
 Hey everyone, This was a short 2-day project exploring how a humanoid robot could fit into Muji’s minimal lifestyle philosophy. I focused on human-robot interaction — how the robot should feel, behave, and quietly exist in everyday spaces. Tried to keep everything simple, functional, and consistent with clear product constraints. Would love to hear your thoughts!
 
-20h ago
+21h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hey everyone, This was a short 2-day project exploring how a humanoid robot coul
 
 Researchers in the United States have developed air-powered artificial muscles that significantly enhance robots’ strength and mobility. This new technology enables robots to lift and carry loads many times their own weight more efficiently and with greater flexibility.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/artificial-muscles-robot-lift-more-weight) • 23h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/artificial-muscles-robot-lift-more-weight) • 1d ago
 
 ---
 
@@ -88,7 +88,7 @@ Researchers in the United States have developed air-powered artificial muscles t
 
 Hi! I’m working on bunch of tools for product design engineers and going to add them under meche.ai Currently I have: printadvisor.ai (material selection, print settings feedback) tolanalysis.com (tolerance stack up, Monte Carlo sim, Cpk analysis) dfmanalysis.com (DFM for CNC, sheet metal) pd.meche.ai (PD interview prep tool) cad.meche.ai (CAD viewer which is beautiful) Please check them and let me know if you have any thoughts/feedback 🙏 I’m planning to build more tools that I can put into use myself and for the community! So far I love building with Claude and Cursor. Feels like a new power got unlocked! 🔓
 
-🔗 [meche.ai](https://meche.ai) • 15h ago
+🔗 [meche.ai](https://meche.ai) • 16h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi! I’m working on bunch of tools for product design engineers and going to ad
 
 Search Robosynx https://preview.redd.it/moxt7bcugetg1.png?width=2864&format=png&auto=webp&s=2e7e87f06450c966a109842015fc2fa20285154a A few months ago I was deep in the same frustration most of us live with: Writing a URDF that looks perfect… then watching it explode or fall through the floor in Gazebo Converting to MJCF for MuJoCo or SDF for Isaac Sim… and losing inertia values or joint limits Spending hours debugging impossible masses or broken links Rebuilding basic ROS 2 nodes and launch files from scratch every single time At some point I just got tired of fighting tooling instead of building robots. So I hacked together a small browser-based tool to make this less painful. Right now it can: Generate a physics-ready robot model from a text description Convert URDF / MJCF / SDF without breaking inertias Validate physics issues before simulation crashes Generate basic ROS 2 node + launch file scaffolding Nothing fancy — just things I personally kept rebuilding over and over. I'm genuinely curious: Do other people run into this workflow pain, or is this just my setup? If you work with: Isaac Sim Gazebo MuJoCo ROS 2 I'd love to hear: What breaks most often in your workflow What tools you wish existed Whether something like this would actually save time Brutal feedback welcome.
 
-2h ago
+3h ago
 
 ---
 
@@ -104,7 +104,7 @@ Search Robosynx https://preview.redd.it/moxt7bcugetg1.png?width=2864&format=png&
 
 I’ve open-sourced GS-DroneGym, a drone-first research stack for vision-language-action work. Main idea: instead of only using synthetic assets, it can render observations from 3D Gaussian Splatting scenes, so you can prototype aerial waypoint policies in environments much closer to real visual conditions. Current features: - 6-DOF quadrotor dynamics - waypoint controller for [x, y, z, yaw] - gsplat renderer with CPU fallback - navigation tasks: PointNav, ObjectNav, ObstacleSlalom, DynamicFollow, NarrowCorridor - live viewer with RGB / depth / top-down trajectory - shared trajectory schema + dataset/eval tooling - adapters for GS-DroneGym, LIBERO, and LeRobot-format datasets https://github.com/09Catho/gs-dronegym Please star the repo if you find ut useful I’d especially appreciate feedback on: - sim-to-real usefulness - dataset generation for aerial VLA training - benchmark design for drone navigation
 
-21h ago
+22h ago
 
 ---
 
@@ -138,7 +138,7 @@ NVIDIA Blog • 1d ago
 
 Uzbekistan has signed an agreement with South Korea’s ROBOTIS to launch humanoid robot production, marking a major step in its high-tech ambitions. At the same time, students across the country are learning robotics and programming, gaining skills that could prepare them for careers in the emerging
 
-Euronews.com • 5h ago
+Euronews.com • 6h ago
 
 ---
 
@@ -184,7 +184,7 @@ Crunchbase News • 3d ago
 
 Fred Kocher sits down with Dr. Joe Leahy and Leanne Berube with Southern NH Health to talk about how AI-assisted surgeries have impacted both patients and surgeons.
 
-WMUR • 7h ago
+WMUR • 8h ago
 
 ---
 
@@ -196,7 +196,7 @@ WMUR • 7h ago
 
 📺 Yard Mon Robotics
 
-👁️ 1K • 👍 41 • 💬 5 • ⏱️ 0:47 • 15h ago
+👁️ 1K • 👍 41 • 💬 5 • ⏱️ 0:47 • 16h ago
 
 ---
 
@@ -226,7 +226,7 @@ Samsung is drawing significant attention with its new concept known as “Galaxy
 
 📺 Carros Show
 
-👁️ 6K • 👍 159 • 💬 8 • ⏱️ 8:25 • 6d ago
+👁️ 6K • 👍 159 • 💬 8 • ⏱️ 8:25 • 7d ago
 
 ---
 
@@ -246,7 +246,7 @@ War Robots Gameplay: Anaksor with Kroko weapons is quite unfair! My War Robots C
 
 📺 Manni-Gaming
 
-👁️ 4K • 👍 243 • 💬 47 • ⏱️ 13:35 • 6h ago
+👁️ 4K • 👍 243 • 💬 47 • ⏱️ 13:35 • 7h ago
 
 ---
 
@@ -276,7 +276,7 @@ The era of the Robot Mower is here and after 6 months of intensive use I feel I 
 
 📺 Proper DIY
 
-👁️ 16K • 👍 1K • 💬 78 • ⏱️ 11:47 • 11h ago
+👁️ 16K • 👍 1K • 💬 78 • ⏱️ 11:47 • 12h ago
 
 ---
 
