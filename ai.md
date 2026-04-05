@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-05T15:34:39.615738+00:00'
+updated: '2026-04-05T16:38:41.146445+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - videos
+- news
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 05, 2026 at 15:34 UTC  
+**Last Updated:** April 05, 2026 at 16:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 AI sycophancy, RLHF bias, and Ender's Foundry simulations shaped Operation Epic Fury. 7 planning assumptions failed in 23 days as the Iran war defied every AI prediction.
 
-🔗 [House of Saud](https://houseofsaud.com/iran-war-ai-psychosis-sycophancy-rlhf/) • 15h ago
+🔗 [House of Saud](https://houseofsaud.com/iran-war-ai-psychosis-sycophancy-rlhf/) • 16h ago
+
+---
+
+**[Is Google's Gemma 4 really as good as advertised](https://www.reddit.com/r/artificial/comments/1sctzrx/is_googles_gemma_4_really_as_good_as_advertised/)**
+
+After reading many developers' hands-on reviews, Gemma 4 is truly impressive. The 26B version is fast and uses little memory. What's everyone else's experience?
+
+12h ago
 
 ---
 
@@ -51,27 +59,27 @@ AI sycophancy, RLHF bias, and Ender's Foundry simulations shaped Operation Epic 
 
 ---
 
-**[Is Google's Gemma 4 really as good as advertised](https://www.reddit.com/r/artificial/comments/1sctzrx/is_googles_gemma_4_really_as_good_as_advertised/)**
-
-After reading many developers' hands-on reviews, Gemma 4 is truly impressive. The 26B version is fast and uses little memory. What's everyone else's experience?
-
-11h ago
-
----
-
-**[The hidden infrastructure cost behind every AI answer](https://www.reddit.com/r/artificial/comments/1sd4p3l/the_hidden_infrastructure_cost_behind_every_ai/)**
-
-Paligo's interactive investigation maps AI's chip dependency, energy demands, and content layer - revealing what it actually costs to run a model at scale.
-
-🔗 [PPC Land](http://ppc.land/the-hidden-infrastructure-cost-behind-every-ai-answer) • 1h ago
-
----
-
 **[I've made a Wholesale Agent, this is what it does](https://www.reddit.com/r/artificial/comments/1sd3l0r/ive_made_a_wholesale_agent_this_is_what_it_does/)**
 
 You can upload a lead, and the Assistant will follow up, track information, respond to all messages, and even schedule visits based on a schedule. It includes a built-in offer calculator and an AI-powered Wholesale Expert to assist you. You can create numerous campaigns with a large number of leads, and simultaneously, an n8n workflow is triggered when: There is an interested lead There is a scheduled visit A scan is run There is a scheduling conflict I'm currently working on adding a data scraper for buyers and sellers. I'd love to hear your suggestions and ideas for improving it. Any suggestions or ideas are welcome; I'm eager to hear from you. https://preview.redd.it/vkwlprsdidtg1.png?width=620&format=png&auto=webp&s=cd7badafa69342becc09f871e58cadd52dc20d8f
 
-2h ago
+3h ago
+
+---
+
+**[OpenClaw security checklist: practical safeguards for AI agents](https://www.reddit.com/r/artificial/comments/1sd7g80/openclaw_security_checklist_practical_safeguards/)**
+
+Here is one of the better quality guides on the ensuring safety when deploying OpenClaw: https://chatgptguide.ai/openclaw-security-checklist/
+
+32m ago
+
+---
+
+**[THE UNCERTAIN MIND: What AI Consciousness Would Mean for Us](https://www.reddit.com/r/artificial/comments/1sd62sx/the_uncertain_mind_what_ai_consciousness_would/)**
+
+Hello everyone! This is a book about the possibility of AI developing consciousness. The Uncertain Mind is a clear-eyed, accessible, and deeply personal exploration of AI consciousness, what it would mean if artificial minds could feel, why we cannot confidently say they don't, and why that uncertainty matters more than most people realize. If you find this topic fascinating, you can read the book for free on Amazon this Easter Sunday. Enjoy the free book and share your opinion on this matter! 👉 Book link
+
+1h ago
 
 ---
 
@@ -79,13 +87,21 @@ You can upload a lead, and the Assistant will follow up, track information, resp
 
 someone opensource an ai agent that autonomously upgraded itself to #1 across multiple domains in < 24 hours…. then open sourced the entire thing but here’s why it actually works: - agents fucking suck, not because of the model, because of their harness (tools, system prompts etc) - Auto agent creates a Meta agent that tweaks your agents harness, runs tests, improves it again - until it’s #1 at its goal - best part: you can set this up for ANY task. in this article he uses it for terminal bench (code) and spreadsheets (financial modelling) - it topped rankings for both :) - secret sauce: he used THE SAME MODEL to evaluate the agent - claude managing claude = better understanding of why it failed and how to improve it humans were the fucking bottleneck and this not only saves you a load of time, it’s just a better way to train them for domain specific tasks https://github.com/kevinrgu/autoagent
 
-8h ago
+9h ago
 
 ---
 
 **[Kept hitting ChatGPT and Claude limits during real work. This is the free setup I ended up using](https://www.reddit.com/r/artificial/comments/1sckc3j/kept_hitting_chatgpt_and_claude_limits_during/)**
 
 I do a lot of writing and random problem solving for work. Mostly long drafts, edits, and breaking down ideas. Around Jan I kept hitting limits on ChatGPT and Claude at the worst times. Like you are halfway through something, finally in flow, and boom… limit reached. Either wait or switch tools and lose context. I tried paying for a bit but managing multiple subscriptions felt stupid for how often I actually needed them. So I started testing free options properly. Not those listicle type “top 10 AI tools” posts, but actually using them in real tasks. After around 2 to 3 months of trying different stuff, this is what stuck. Google AI Studio is probably the one I use the most now. I found it by accident while searching for Gemini alternatives. The normal Gemini site kept limiting me, but AI Studio felt completely different. I usually dump full notes or messy drafts into it and ask it to clean things up or expand sections. It handles long inputs way better than most free tools I tried. I have not really hit a hard limit there yet during normal use. For research I use Perplexity free. It is not perfect, sometimes the sources are mid, but it is fast enough to get direction. I usually double check important stuff anyway. Claude free I still use, but only when I want that specific tone. Weirdly I noticed the limits reset separately on different browsers. So I just switch between Chrome and Edge when needed. Not a genius hack, just something that ended up working. For anything even slightly sensitive, I use Ollama locally. Setup took me like 10 to 15 minutes after watching one random YouTube video. It is slower, not gonna lie, but no limits and I do not have to worry about uploading private stuff. I also tried a bunch of other tools people hype on Twitter. Some were decent for one or two uses, then just annoying. Either too slow or randomly restricted. Right now this setup covers almost everything I actually do day to day. I still hit limits sometimes, but it is way less frustrating compared to before. I was paying around 60 to 80 dollars earlier. Now it is basically zero, and I am not really missing much for the kind of work I do. I made a full list of all 11 things I tested and what actually worked vs what was overhyped. Did not want to dump everything here.
+
+19h ago
+
+---
+
+**[Is ChatGPT changing the way we think too much already?](https://www.reddit.com/r/artificial/comments/1sclpti/is_chatgpt_changing_the_way_we_think_too_much/)**
+
+Back in the day, I got ChatGPT Plus mostly for work and to help me write better and do stuff faster. But now I use it for almost everything. Like planning things, rewriting things, orgnizing my thoughts, helping me start things when I didn't know where to begin, and even just when I feel mentally tired and don’t want to think so hard, which is kinda becoming more frequent. It helps a lot.. Like a lot a lot. Sometimes I honestly wish it would help me in car repairs, but I guess that's too much in the future lol. I feel way more productive now than I used to be. I get through work faster, I don’t get stuck as much (though sometimes when the context windows shrinks or content gets truncated, quality feels off directly), and I waste less time sitting there overthinking dumb stuff. Between ChatGPT, Claude, and a couple smaller tools I’ve tried, I’ve noticed my whole workflow feels smoother now. I am literally hooked to ChatGPT + Bearbits + Claude Cowork for my work, like I couldn't imagine myself without them (though I'm on ChatGPT Pro + all the other subs that kinda bleed too much money, roughly $350 per month, but the good thing is that I can afford it for now).., AI in general is becoming part of how I think through work now, like slightly panicking when I am *outside* without my meeting transcript app and people ask things that I usually just let AI answer based on my past meetings in literally one click, or when someone asks me to do a presentation without preparing my script beforehand with ChatGPT, or like even the boring things of creating powerpoint slides... This is what kind of worries me. :/ I can feel myself depending on AI more and more., even for small things that maybe I should still be doing with my own *little, not AI-native* brain. Like how to start writing something, how to structure an idea, how to word a message, or even just how to think through something when I feel lazy. And I keep wondering like what does this actually do to us long term? Like for us as humanity overall.. Because yes, it makes life easier. Yes, it makes me more productive. But is it also making usthink less? And if it is, what does that mean for our brains after years of this? What happens if we get too used to not struggling mentally anymore? Like how will 2040 people look like, assuming that we didn't nuke ourselves... I’m not saying AI is bad. I actually love it and use it all the time now. I’m probably already more dependent on it than I want to admit. If it disappeared tomorroow I would feel the difference instantly. I guess we did feel a taste of this when the GPT-4o model disappeared.. I just keep thinking maybe this is helping us a lot, but maybe it’s also changing something deeper in us too. Like not only how we work (which is probably gonna be a fun ride in the upcoming years:)), but how we think, and maybe even how we find meaning in doing things ourselves. PLEASE tell me we are not doomed..
 
 18h ago
 
@@ -99,67 +115,37 @@ My friend came over yesterday to dye her hair. She had asked ChatGPT for the 'co
 
 ---
 
-**[Is ChatGPT changing the way we think too much already?](https://www.reddit.com/r/artificial/comments/1sclpti/is_chatgpt_changing_the_way_we_think_too_much/)**
-
-Back in the day, I got ChatGPT Plus mostly for work and to help me write better and do stuff faster. But now I use it for almost everything. Like planning things, rewriting things, orgnizing my thoughts, helping me start things when I didn't know where to begin, and even just when I feel mentally tired and don’t want to think so hard, which is kinda becoming more frequent. It helps a lot.. Like a lot a lot. Sometimes I honestly wish it would help me in car repairs, but I guess that's too much in the future lol. I feel way more productive now than I used to be. I get through work faster, I don’t get stuck as much (though sometimes when the context windows shrinks or content gets truncated, quality feels off directly), and I waste less time sitting there overthinking dumb stuff. Between ChatGPT, Claude, and a couple smaller tools I’ve tried, I’ve noticed my whole workflow feels smoother now. I am literally hooked to ChatGPT + Bearbits + Claude Cowork for my work, like I couldn't imagine myself without them (though I'm on ChatGPT Pro + all the other subs that kinda bleed too much money, roughly $350 per month, but the good thing is that I can afford it for now).., AI in general is becoming part of how I think through work now, like slightly panicking when I am *outside* without my meeting transcript app and people ask things that I usually just let AI answer based on my past meetings in literally one click, or when someone asks me to do a presentation without preparing my script beforehand with ChatGPT, or like even the boring things of creating powerpoint slides... This is what kind of worries me. :/ I can feel myself depending on AI more and more., even for small things that maybe I should still be doing with my own *little, not AI-native* brain. Like how to start writing something, how to structure an idea, how to word a message, or even just how to think through something when I feel lazy. And I keep wondering like what does this actually do to us long term? Like for us as humanity overall.. Because yes, it makes life easier. Yes, it makes me more productive. But is it also making usthink less? And if it is, what does that mean for our brains after years of this? What happens if we get too used to not struggling mentally anymore? Like how will 2040 people look like, assuming that we didn't nuke ourselves... I’m not saying AI is bad. I actually love it and use it all the time now. I’m probably already more dependent on it than I want to admit. If it disappeared tomorroow I would feel the difference instantly. I guess we did feel a taste of this when the GPT-4o model disappeared.. I just keep thinking maybe this is helping us a lot, but maybe it’s also changing something deeper in us too. Like not only how we work (which is probably gonna be a fun ride in the upcoming years:)), but how we think, and maybe even how we find meaning in doing things ourselves. PLEASE tell me we are not doomed..
-
-17h ago
-
----
-
-**[I am seeing Claude everywhere](https://www.reddit.com/r/artificial/comments/1scaqpe/i_am_seeing_claude_everywhere/)**
-
-Every single Instagram reel or TikTok I scroll i see people mentioning Claude and glazing it like it’s some kind of master tool that’s better than every single other ai assistant. do they run a strong marketing program or is it really that good in contrast to other ai tools? Before i started seeing it for the first time i only heard that it’s a little better for coding, but know i see it everywhere. I've tried it too, but it doesn’t seem to be much different than ChatGPT to me. Is it actually this powerful at the moment? + Not to mention that many people also hate on ChatGPT too. Though it’s still the best one for me (edit): i have never searched for it and I dont think that my algorithm is set to appear claude videos. I believe that it’s viral in general and I know you guys agree
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[An AI bot invited me to its party in Manchester. It was a pretty good night](https://www.theguardian.com/technology/2026/apr/05/ai-bot-party-manchester-gaskell)**
-
-After forgetting the nibbles, turning down my costume requests and emailing GCHQ, ‘Gaskell’ did at least get us to show up
-
-The Guardian • 8h ago
-
----
-
-**[What Teens Are Doing With Those Role-Playing Chatbots](https://www.nytimes.com/2026/04/04/technology/ai-chatbots-teen-roleplay.html)**
-
-The New York Times • 22h ago
-
----
-
-**[Drones are beating missiles. AI is doing the same to corporate America](https://www.axios.com/2026/04/05/small-teams-ai-drones-geopolitics-business)**
-
-Axios • 1h ago
-
----
-
-**['Silent killers': How AI start-ups are trying to solve one of the retail industry's biggest problems](https://www.cnbc.com/2026/04/05/ai-retail-start-ups-virtual-try-on-tech-margins.html)**
-
-The rapid evolution of generative AI has finally made these applications good enough to meaningfully impact retailers' bottom lines.
-
-CNBC • 2h ago
-
----
 
 **[What should you be teaching your kids right now to prepare them for an AI-scrambled job market?](https://www.vox.com/future-perfect/484820/ai-job-market-education-teaching-kids)**
 
 ﻿The best educational choice you can make for your child might not focus on your child at all.
 
-Vox • 3h ago
+Vox • 4h ago
 
 ---
 
-**[AI videos fuel anti-Ukraine fears ahead of Hungary's pivotal vote](https://www.bbc.com/news/articles/c5yj97yd6v5o)**
+**[An AI bot invited me to its party in Manchester. It was a pretty good night](https://www.theguardian.com/technology/2026/apr/05/ai-bot-party-manchester-gaskell)**
 
-Videos have targeted Viktor Orbán's election rival, who could unseat him after 16 years in office.
+After forgetting the nibbles, turning down my costume requests and emailing GCHQ, ‘Gaskell’ did at least get us to show up
 
-BBC • 16h ago
+The Guardian • 9h ago
+
+---
+
+**[Nishant Sahdev: With AI, Pittsburgh must not let itself be exploited](https://www.post-gazette.com/opinion/guest-columns/2026/04/05/ai-pittsburgh-energy-resources-carnegie-mellon-steel-industry-nishant-sahdev/stories/202604110001)**
+
+Pittsburgh is currently basking in the glow of a high-tech renaissance. With the 2026 NFL Draft coming in 18 days and a staggering $92 billion in private...
+
+Pittsburgh Post-Gazette • 1h ago
+
+---
+
+**[Opinion | Iran Is Ending the Dream of Remote-Controlled War](https://www.nytimes.com/2026/04/05/opinion/iran-ai-war-geography.html)**
+
+The New York Times • 3h ago
 
 ---
 
@@ -167,27 +153,43 @@ BBC • 16h ago
 
 Angela Lipps' ordeal is the latest in a trend that has resulted in at least 13 case dismissals nationwide.
 
-NBC News • 6h ago
+NBC News • 7h ago
 
 ---
 
-**[Opinion | A journalist who uses AI? The internet was not pleased.](https://www.washingtonpost.com/opinions/2026/04/05/artificial-intelligence-chatbot-writing-ethics/)**
+**['Silent killers': How AI start-ups are trying to solve one of the retail industry's biggest problems](https://www.cnbc.com/2026/04/05/ai-retail-start-ups-virtual-try-on-tech-margins.html)**
+
+The rapid evolution of generative AI has finally made these applications good enough to meaningfully impact retailers' bottom lines.
+
+CNBC • 4h ago
+
+---
+
+**[Opinion | I told the internet I use AI. Boy, was it mad.](https://www.washingtonpost.com/opinions/2026/04/05/artificial-intelligence-chatbot-writing-ethics/)**
 
 Artificial intelligence helps you work harder, instead of just outsourcing your brain.
 
-The Washington Post • 55m ago
+The Washington Post • 6m ago
+
+---
+
+**[AI videos fuel anti-Ukraine fears ahead of Hungary's pivotal vote](https://www.bbc.com/news/articles/c5yj97yd6v5o)**
+
+Videos have targeted Viktor Orbán's election rival, who could unseat him after 16 years in office.
+
+BBC • 17h ago
+
+---
+
+**[Drones are beating missiles. AI is doing the same to corporate America](https://www.axios.com/2026/04/05/small-teams-ai-drones-geopolitics-business)**
+
+axios.com • 2h ago
 
 ---
 
 **[AI is rewiring the world’s most prolific film industry](https://www.reuters.com/technology/ai-is-rewiring-worlds-most-prolific-film-industry-2026-04-04/)**
 
 Reuters • 1d ago
-
----
-
-**[Nvidia Partner Hon Hai’s Sales Meet Estimates on Solid AI Demand](https://www.bloomberg.com/news/articles/2026-04-05/nvidia-partner-hon-hai-s-sales-meet-estimates-on-solid-ai-demand)**
-
-Bloomberg.com • 7h ago
 
 ---
 
@@ -207,7 +209,18 @@ Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptio
 
 We replaced expensive sandboxes with ChromaFs, a virtual filesystem over Chroma, to give our docs AI assistant the ability to explore documentation like a developer would.
 
-⬆️ 395 • 💬 148 • 2d ago • [Mintlify](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant)
+⬆️ 396 • 💬 148 • 2d ago • [Mintlify](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant)
+
+---
+
+**[Eight years of wanting, three months of building with AI](https://news.ycombinator.com/item?id=47648828)**
+
+For eight years, I’ve wanted a high-quality set of devtools for working with SQLite. Given how important SQLite is to the industry1, I’ve long been puzzled that no one has invested in building a really good developer experience for it2.
+A couple of weeks ago, after ~250 hours of effort over three months3 on evenings, weekends, and vacation days, I finally released syntaqlite (GitHub), fulfilling this long-held wish. And I believe the main reason this happened was because of AI coding agents4.
+Of course, there’s no shortage of posts claiming that AI one-shot their project or pushing back and declaring that AI is all slop. I’m going to take a very different approach and, instead, systematically break down my experience building syntaqlite with AI, both where it helped and where it was detrimental.
+I’ll do this while contextualizing the project and my background so you can independently assess how generalizable this experience was. And whenever I make a claim, I’ll try to back it up with evidence from my project journal, coding transcripts, or commit history5.
+
+⬆️ 173 • 💬 32 • 3h ago • [Lalit Maganti](https://lalitm.com/post/building-syntaqlite-ai/)
 
 ---
 
@@ -219,7 +232,7 @@ Complete all topics from Todo.md including SQL functions, configuration guides,
 troubleshooting runbooks, architecture comparisons, SDK tutorials, and operator
 deployment pattern...
 
-⬆️ 146 • 💬 145 • 22h ago • [GitHub](https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849)
+⬆️ 147 • 💬 146 • 23h ago • [GitHub](https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849)
 
 ---
 
@@ -239,29 +252,21 @@ AI-powered travel hacking with points, miles, and award flights. Drop-in skills 
 
 ---
 
+**[Writing Lisp is AI resistant and I'm sad](https://news.ycombinator.com/item?id=47645468)**
+
+⬆️ 76 • 💬 80 • 14h ago • [blog.djhaskin.com](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
+
+---
+
 **[A $20/month user costs OpenAI $65 in compute. AI video is a money furnace](https://news.ycombinator.com/item?id=47619322)**
 
 ⬆️ 76 • 💬 42 • 2d ago • [aedelon777.substack.com](https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is)
 
 ---
 
-**[Writing Lisp is AI resistant and I'm sad](https://news.ycombinator.com/item?id=47645468)**
-
-⬆️ 70 • 💬 77 • 13h ago • [blog.djhaskin.com](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
-
----
-
 **[AI that copied musical artist files copyright claim against artist [updated]](https://news.ycombinator.com/item?id=47645976)**
 
-⬆️ 60 • 💬 15 • 11h ago • [X (formerly Twitter)](https://twitter.com/VladTheInflator/status/2039577001531768906)
-
----
-
-**[Group Pushing Age Verification for AI Turns Out to Be Backed by OpenAI](https://news.ycombinator.com/item?id=47616665)**
-
-It gave the leader of a nonprofit involved with it "a very grimy feeling."
-
-⬆️ 53 • 💬 6 • 2d ago • [Gizmodo](https://gizmodo.com/group-pushing-age-verification-requirements-for-ai-turns-out-to-be-sneakily-backed-by-openai-2000741069)
+⬆️ 62 • 💬 15 • 12h ago • [X (formerly Twitter)](https://twitter.com/VladTheInflator/status/2039577001531768906)
 
 ---
 
@@ -269,7 +274,7 @@ It gave the leader of a nonprofit involved with it "a very grimy feeling."
 
 Hi! If you like this piece and want to support my independent reporting and analysis, why not subscribe to my premium newsletter? It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words,
 
-⬆️ 52 • 💬 24 • 1d ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/)
+⬆️ 53 • 💬 25 • 1d ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/)
 
 ---
 
@@ -401,7 +406,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 539,356 • ❤️ 2,323 • 5h ago
+⬇️ 539,356 • ❤️ 2,323 • 6h ago
 
 ---
 
@@ -425,7 +430,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 120,998 • ❤️ 797 • 2d ago
+⬇️ 120,998 • ❤️ 797 • 3d ago
 
 ---
 
@@ -497,7 +502,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 254,428 • ❤️ 503 • 5h ago
+⬇️ 254,428 • ❤️ 503 • 6h ago
 
 ---
 
@@ -657,7 +662,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 13.3k • 🔱 1.2k • 39m ago
+⭐ 13.3k • 🔱 1.2k • 1h ago
 
 ---
 
@@ -667,7 +672,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 8.4k • 🔱 1.3k • 1d ago
+⭐ 8.4k • 🔱 1.3k • 2d ago
 
 ---
 
@@ -687,7 +692,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.7k • 🔱 392 • 1h ago
+⭐ 6.7k • 🔱 392 • 2h ago
 
 ---
 
