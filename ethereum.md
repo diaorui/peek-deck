@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-05T13:00:23.014838+00:00'
+updated: '2026-04-05T13:58:26.367589+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 05, 2026 at 13:00 UTC  
+**Last Updated:** April 05, 2026 at 13:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Russia submitted a bill requiring residents to report all foreign crypto wallet activity to tax authorities from July 2026. Twenty million users. No exemptions. This is what state capture of crypto looks like.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/russia-bitcoin-ban-failed-wallet-registration-2026/) • 14h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/russia-bitcoin-ban-failed-wallet-registration-2026/) • 15h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Where is everyone trading/storing their crypto specifically eth? I currently am in crypto.com and having issues. I want to pull all my positions and move to another platform. I currently have WeBull and fidelity but don’t want to cram too much into fidelity as I like my eggs spread out. Which platform would you recommend?
 
-19h ago
+20h ago
 
 ---
 
@@ -170,7 +170,7 @@ The Motley Fool • 1d ago
 
 Confused by ethereum? Here’s a simple, beginner-friendly explanation of how it works, how to invest and whether it’s a good crypto investment, per ChatGPT.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -194,7 +194,7 @@ The Block • 1d ago
 
 Naoris debuts its quantum-resistant mainnet, which uses algorithms approved by the U.S. National Institute of Standards and Technology.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -210,7 +210,7 @@ Polymarket • 1d ago
 
 Charles Schwab’s Bitcoin and Ethereum access shifts as major brokerages integrate crypto, testing demand, flows, and mainstream adoption.
 
-CryptoSlate • 2h ago
+CryptoSlate • 3h ago
 
 ---
 
@@ -240,7 +240,7 @@ Welcome back to Verified Investing! In today's urgent crypto market update, Chie
 
 📺 Gareth Soloway
 
-👁️ 78K • 👍 5K • 💬 474 • ⏱️ 11:47 • 19h ago
+👁️ 78K • 👍 5K • 💬 474 • ⏱️ 11:47 • 20h ago
 
 ---
 
@@ -250,7 +250,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 92 • 👍 9 • ⏱️ 4:29 • 2h ago
+👁️ 92 • 👍 9 • ⏱️ 4:29 • 3h ago
 
 ---
 
@@ -270,7 +270,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 227 • 💬 18 • ⏱️ 10:14 • 23h ago
+👁️ 4K • 👍 227 • 💬 18 • ⏱️ 10:14 • 1d ago
 
 ---
 
@@ -290,7 +290,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 899 • 👍 69 • 💬 8 • ⏱️ 6:21 • 8h ago
+👁️ 899 • 👍 69 • 💬 8 • ⏱️ 6:21 • 9h ago
 
 ---
 

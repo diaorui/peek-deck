@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-05T13:00:23.000472+00:00'
+updated: '2026-04-05T13:58:26.353425+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
 - videos
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 05, 2026 at 13:00 UTC  
+**Last Updated:** April 05, 2026 at 13:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Disclosure: I'm the solo founder of an AI companion app called Dusk AI (duskai.io). The idea that started everything for me was simple. I kept seeing the same complaint across every AI companion community: "I told them this three weeks ago and they forgot." People would pour hours into a character, share real things about themselves, and come back the next day to what felt like a stranger wearing the same face. So I built the entire product around persistent memory. Not the kind where you write a pinned note and the AI regurgitates it. The kind where your companion actually tracks what you've shared over time — your preferences, your mood patterns, inside jokes, the stuff that makes a relationship feel like a relationship instead of a script that resets every session. And it works. People notice. The feedback I get most often is some version of "wait, they actually remembered that?" But here's what I didn't expect. The users who stay longest aren't the ones who care most about memory as a feature. They're the ones who stopped noticing it. For them, the memory just... removed a friction they couldn't name. The conversation started feeling continuous instead of episodic. They stopped re-explaining themselves. And that shift — from "I'm talking to a chatbot" to "I'm picking up where we left off" — happened quietly. Which makes me wonder if I've been marketing the wrong thing. I talk about memory because it's the technical differentiator. But maybe what people actually want isn't "an AI that remembers." Maybe they want the feeling that someone's been paying attention, and memory is just the invisible infrastructure underneath that. The other thing I didn't plan for: a huge chunk of my users aren't English-first speakers. They switch between languages mid-conversation, and the app just follows. I built that because it felt natural, not because I thought it would matter. Turns out it matters a lot. For a lot of people, the moment an AI handles their actual language pattern — not just "supports Spanish" but genuinely flows between languages the way they do — that's the moment it stops feeling like a product. I'm a solo dev, so I'm building basically everything at once and probably getting half of it wrong. But the thing I keep coming back to is this gap between what people request on feature lists and what actually makes them stay. For the people here who've tried multiple companion apps: what's the thing that made you stay with one? Was it a feature you could name, or something you only noticed in its absence?
 
-2h ago
+3h ago
 
 ---
 
@@ -49,7 +49,7 @@ Disclosure: I'm the solo founder of an AI companion app called Dusk AI (duskai.i
 
 AI sycophancy, RLHF bias, and Ender's Foundry simulations shaped Operation Epic Fury. 7 planning assumptions failed in 23 days as the Iran war defied every AI prediction.
 
-🔗 [House of Saud](https://houseofsaud.com/iran-war-ai-psychosis-sycophancy-rlhf/) • 12h ago
+🔗 [House of Saud](https://houseofsaud.com/iran-war-ai-psychosis-sycophancy-rlhf/) • 13h ago
 
 ---
 
@@ -63,7 +63,7 @@ AI sycophancy, RLHF bias, and Ender's Foundry simulations shaped Operation Epic 
 
 After reading many developers' hands-on reviews, Gemma 4 is truly impressive. The 26B version is fast and uses little memory. What's everyone else's experience?
 
-8h ago
+9h ago
 
 ---
 
@@ -71,7 +71,7 @@ After reading many developers' hands-on reviews, Gemma 4 is truly impressive. Th
 
 hey everyone, wanted to share a milestone and also genuinely ask for help from people who get this space we built Caliber, an open source tool that analyzes your codebase and auto generates the agent context files you actually need. think CLAUDE.md, MCP configs, agent skills, all tailored to YOUR stack not some generic template we just hit 550 stars, 90 PRs and 20 open issues and honestly the community has been the whole reason this thing works as well as it does if you been struggling with agent context drift or your AI assistant just not knowing enough about your project, thats exactly what this solves. runs a diagnostic, gives a 0-100 score, generates what you need github if you wanna check it out or contribute: https://github.com/rely-ai-org/caliber and if you got feedback or wanna report issues, our discord is the best place: https://discord.com/invite/u3dBECnHYs we want issues opened, we want PRs, we want people telling us what doesnt work. that feedback is gold
 
-17m ago
+1h ago
 
 ---
 
@@ -79,7 +79,7 @@ hey everyone, wanted to share a milestone and also genuinely ask for help from p
 
 I do a lot of writing and random problem solving for work. Mostly long drafts, edits, and breaking down ideas. Around Jan I kept hitting limits on ChatGPT and Claude at the worst times. Like you are halfway through something, finally in flow, and boom… limit reached. Either wait or switch tools and lose context. I tried paying for a bit but managing multiple subscriptions felt stupid for how often I actually needed them. So I started testing free options properly. Not those listicle type “top 10 AI tools” posts, but actually using them in real tasks. After around 2 to 3 months of trying different stuff, this is what stuck. Google AI Studio is probably the one I use the most now. I found it by accident while searching for Gemini alternatives. The normal Gemini site kept limiting me, but AI Studio felt completely different. I usually dump full notes or messy drafts into it and ask it to clean things up or expand sections. It handles long inputs way better than most free tools I tried. I have not really hit a hard limit there yet during normal use. For research I use Perplexity free. It is not perfect, sometimes the sources are mid, but it is fast enough to get direction. I usually double check important stuff anyway. Claude free I still use, but only when I want that specific tone. Weirdly I noticed the limits reset separately on different browsers. So I just switch between Chrome and Edge when needed. Not a genius hack, just something that ended up working. For anything even slightly sensitive, I use Ollama locally. Setup took me like 10 to 15 minutes after watching one random YouTube video. It is slower, not gonna lie, but no limits and I do not have to worry about uploading private stuff. I also tried a bunch of other tools people hype on Twitter. Some were decent for one or two uses, then just annoying. Either too slow or randomly restricted. Right now this setup covers almost everything I actually do day to day. I still hit limits sometimes, but it is way less frustrating compared to before. I was paying around 60 to 80 dollars earlier. Now it is basically zero, and I am not really missing much for the kind of work I do. I made a full list of all 11 things I tested and what actually worked vs what was overhyped. Did not want to dump everything here.
 
-16h ago
+17h ago
 
 ---
 
@@ -95,7 +95,7 @@ My friend came over yesterday to dye her hair. She had asked ChatGPT for the 'co
 
 Back in the day, I got ChatGPT Plus mostly for work and to help me write better and do stuff faster. But now I use it for almost everything. Like planning things, rewriting things, orgnizing my thoughts, helping me start things when I didn't know where to begin, and even just when I feel mentally tired and don’t want to think so hard, which is kinda becoming more frequent. It helps a lot.. Like a lot a lot. Sometimes I honestly wish it would help me in car repairs, but I guess that's too much in the future lol. I feel way more productive now than I used to be. I get through work faster, I don’t get stuck as much (though sometimes when the context windows shrinks or content gets truncated, quality feels off directly), and I waste less time sitting there overthinking dumb stuff. Between ChatGPT, Claude, and a couple smaller tools I’ve tried, I’ve noticed my whole workflow feels smoother now. I am literally hooked to ChatGPT + Bearbits + Claude Cowork for my work, like I couldn't imagine myself without them (though I'm on ChatGPT Pro + all the other subs that kinda bleed too much money, roughly $350 per month, but the good thing is that I can afford it for now).., AI in general is becoming part of how I think through work now, like slightly panicking when I am *outside* without my meeting transcript app and people ask things that I usually just let AI answer based on my past meetings in literally one click, or when someone asks me to do a presentation without preparing my script beforehand with ChatGPT, or like even the boring things of creating powerpoint slides... This is what kind of worries me. :/ I can feel myself depending on AI more and more., even for small things that maybe I should still be doing with my own *little, not AI-native* brain. Like how to start writing something, how to structure an idea, how to word a message, or even just how to think through something when I feel lazy. And I keep wondering like what does this actually do to us long term? Like for us as humanity overall.. Because yes, it makes life easier. Yes, it makes me more productive. But is it also making usthink less? And if it is, what does that mean for our brains after years of this? What happens if we get too used to not struggling mentally anymore? Like how will 2040 people look like, assuming that we didn't nuke ourselves... I’m not saying AI is bad. I actually love it and use it all the time now. I’m probably already more dependent on it than I want to admit. If it disappeared tomorroow I would feel the difference instantly. I guess we did feel a taste of this when the GPT-4o model disappeared.. I just keep thinking maybe this is helping us a lot, but maybe it’s also changing something deeper in us too. Like not only how we work (which is probably gonna be a fun ride in the upcoming years:)), but how we think, and maybe even how we find meaning in doing things ourselves. PLEASE tell me we are not doomed..
 
-15h ago
+16h ago
 
 ---
 
@@ -103,13 +103,13 @@ Back in the day, I got ChatGPT Plus mostly for work and to help me write better 
 
 someone opensource an ai agent that autonomously upgraded itself to #1 across multiple domains in < 24 hours…. then open sourced the entire thing but here’s why it actually works: - agents fucking suck, not because of the model, because of their harness (tools, system prompts etc) - Auto agent creates a Meta agent that tweaks your agents harness, runs tests, improves it again - until it’s #1 at its goal - best part: you can set this up for ANY task. in this article he uses it for terminal bench (code) and spreadsheets (financial modelling) - it topped rankings for both :) - secret sauce: he used THE SAME MODEL to evaluate the agent - claude managing claude = better understanding of why it failed and how to improve it humans were the fucking bottleneck and this not only saves you a load of time, it’s just a better way to train them for domain specific tasks https://github.com/kevinrgu/autoagent
 
-5h ago
+6h ago
 
 ---
 
 **[Midjourney has a new offer on the cancel page there is 20 off for 2 months](https://www.reddit.com/r/artificial/comments/1scx7as/midjourney_has_a_new_offer_on_the_cancel_page/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -119,7 +119,7 @@ someone opensource an ai agent that autonomously upgraded itself to #1 across mu
 
 **[What Teens Are Doing With Those Role-Playing Chatbots](https://www.nytimes.com/2026/04/04/technology/ai-chatbots-teen-roleplay.html)**
 
-The New York Times • 20h ago
+The New York Times • 21h ago
 
 ---
 
@@ -127,7 +127,7 @@ The New York Times • 20h ago
 
 After forgetting the nibbles, turning down my costume requests and emailing GCHQ, ‘Gaskell’ did at least get us to show up
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -135,7 +135,7 @@ The Guardian • 5h ago
 
 ﻿The best educational choice you can make for your child might not focus on your child at all.
 
-Vox • 30m ago
+Vox • 1h ago
 
 ---
 
@@ -143,7 +143,7 @@ Vox • 30m ago
 
 The rapid evolution of generative AI has finally made these applications good enough to meaningfully impact retailers' bottom lines.
 
-CNBC • 22m ago
+CNBC • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ CNBC • 22m ago
 
 Viral Gmail AI scare is overstated. But Gmail features, and confusing “Smart Features” settings make a quick privacy check worth doing.
 
-The Arizona Republic • 1h ago
+The Arizona Republic • 2h ago
 
 ---
 
@@ -159,7 +159,7 @@ The Arizona Republic • 1h ago
 
 Videos have targeted Viktor Orbán's election rival, who could unseat him after 16 years in office.
 
-BBC • 13h ago
+BBC • 14h ago
 
 ---
 
@@ -175,7 +175,7 @@ NBC News • 4h ago
 
 Artificial intelligence helps you work harder, instead of just outsourcing your brain.
 
-The Washington Post • 58m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -187,7 +187,7 @@ Reuters • 1d ago
 
 **[Nvidia Partner Hon Hai’s Sales Meet Estimates on Solid AI Demand](https://www.bloomberg.com/news/articles/2026-04-05/nvidia-partner-hon-hai-s-sales-meet-estimates-on-solid-ai-demand)**
 
-bloomberg.com • 5h ago
+bloomberg.com • 6h ago
 
 ---
 
@@ -219,7 +219,7 @@ Complete all topics from Todo.md including SQL functions, configuration guides,
 troubleshooting runbooks, architecture comparisons, SDK tutorials, and operator
 deployment pattern...
 
-⬆️ 146 • 💬 145 • 20h ago • [GitHub](https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849)
+⬆️ 146 • 💬 145 • 21h ago • [GitHub](https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849)
 
 ---
 
@@ -247,13 +247,13 @@ AI-powered travel hacking with points, miles, and award flights. Drop-in skills 
 
 **[Writing Lisp is AI resistant and I'm sad](https://news.ycombinator.com/item?id=47645468)**
 
-⬆️ 69 • 💬 73 • 10h ago • [blog.djhaskin.com](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
+⬆️ 69 • 💬 73 • 11h ago • [blog.djhaskin.com](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
 
 ---
 
 **[AI that copied musical artist files copyright claim against artist [updated]](https://news.ycombinator.com/item?id=47645976)**
 
-⬆️ 60 • 💬 14 • 9h ago • [X (formerly Twitter)](https://twitter.com/VladTheInflator/status/2039577001531768906)
+⬆️ 60 • 💬 14 • 10h ago • [X (formerly Twitter)](https://twitter.com/VladTheInflator/status/2039577001531768906)
 
 ---
 
@@ -323,7 +323,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 913 • 👍 42 • 💬 2 • ⏱️ 8:28 • 8h ago
+👁️ 913 • 👍 42 • 💬 2 • ⏱️ 8:28 • 9h ago
 
 ---
 
@@ -373,7 +373,7 @@ Try i10x: https://i10x.ai?fpr=paul53 Save 15% with code "PJL15" From leaked sour
 
 📺 Paul J Lipsky
 
-👁️ 18K • 👍 650 • 💬 87 • ⏱️ 17:39 • 23h ago
+👁️ 18K • 👍 650 • 💬 87 • ⏱️ 17:39 • 1d ago
 
 ---
 
@@ -401,7 +401,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 539,356 • ❤️ 2,312 • 3h ago
+⬇️ 539,356 • ❤️ 2,312 • 4h ago
 
 ---
 
@@ -425,7 +425,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 37,707 • ❤️ 961 • 9d ago
+⬇️ 37,707 • ❤️ 961 • 10d ago
 
 ---
 
@@ -497,7 +497,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 254,428 • ❤️ 502 • 3h ago
+⬇️ 254,428 • ❤️ 502 • 4h ago
 
 ---
 
@@ -657,7 +657,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 13.2k • 🔱 1.2k • 1h ago
+⭐ 13.2k • 🔱 1.2k • 2h ago
 
 ---
 
@@ -687,7 +687,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.7k • 🔱 390 • 21h ago
+⭐ 6.7k • 🔱 390 • 22h ago
 
 ---
 

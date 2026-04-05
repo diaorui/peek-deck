@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-05T13:00:23.008845+00:00'
+updated: '2026-04-05T13:58:26.361714+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 05, 2026 at 13:00 UTC  
+**Last Updated:** April 05, 2026 at 13:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Could it really be that simple?](https://www.reddit.com/r/Bitcoin/comments/1scx8vs/could_it_really_be_that_simple/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 i sold my house, and i dont think shares is best to put money in due to the iran war. so i bought 5 btc, hopefully we get to see 120k peak soon :)
 
-1h ago
+2h ago
 
 ---
 
@@ -95,7 +95,7 @@ i sold my house, and i dont think shares is best to put money in due to the iran
 
 Jack Dorsey teased a potential revival of the Bitcoin faucet tied to “Bitcoin Day,” echoing Gavin Andresen’s 2010 giveaway model.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/jack-dorsey-reveals-bitcoin-faucet) • 6h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/jack-dorsey-reveals-bitcoin-faucet) • 7h ago
 
 ---
 
@@ -103,7 +103,7 @@ Jack Dorsey teased a potential revival of the Bitcoin faucet tied to “Bitcoin 
 
 To add to the title - At some point in 2009-2012, I used to leave my computer on overnight and while I was at school, mining bitcoin. I can't remember how long for, it could've been for a couple of weeks or potentially months. I only remember it was within this time period because it overlapped with me playing Runescape (lol), and I quit playing in 2012 for 10 years or more. I have sort of moved away from computers although in those days I was interested in gaming and beginner hacking. I was 15-17 and the hacking part is daft looking back at it. But what I'm really trying to say is I used to be fairly computer literate and now, not so much. I've been using macs for 12 years now. So no matter whether it was a week or several months I left it mining overnight etc. for, there is likely a decent amount of bitcoin on the harddrive. I don't have access to the email address I used in those years, I lost it about 5 years ago and seemingly can't recover it. ChatGPT tells me this likely isn't an issue as emails weren't used for sign up in the early days. More advice was to remove the hard drive and back it up on a second hard drive, before opening. Do I have a stab at this myself? How do I do this? Can I plug hard drive into my mac to transfer to a second hard drive? What if the hard drive was wiped? Would it be in any way possible to recover it? If I manage to locate the wallet, will I need to remember the password? I believe it was a long set of random numbers and letters so will never remember unless I also have it saved on the computer somewhere. What are my next steps? Thank you in advance.
 
-9h ago
+10h ago
 
 ---
 
@@ -111,7 +111,7 @@ To add to the title - At some point in 2009-2012, I used to leave my computer on
 
 Just threw on some low budget movie - or what I thought was a movie. Self Custody is a 30min propaganda commercial to scare people away from Self Custody. There's no other reason for this pile of crap to exist.
 
-7h ago
+8h ago
 
 ---
 
@@ -119,7 +119,7 @@ Just threw on some low budget movie - or what I thought was a movie. Self Custod
 
 I want a way which is easier for them to check price and buy more. They aren't tech savvy. confused between CEX and ETF
 
-9h ago
+10h ago
 
 ---
 
@@ -127,7 +127,7 @@ I want a way which is easier for them to check price and buy more. They aren't t
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-6h ago
+7h ago
 
 ---
 
@@ -135,7 +135,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Hi, Whats your perspective on this?
 
-22h ago
+23h ago
 
 ---
 
@@ -143,7 +143,7 @@ Hi, Whats your perspective on this?
 
 BTC adoption snapshot using 4 Glassnode BTC metrics only. Current reading: - Adoption Index: 1.011 - Active Entities: 163,944 - Non-Zero Addresses: 56,154,672 - Lightning Network Capacity: 4,971.03 BTC - L1 Change-Adjusted Volume: 92,074.70 BTC Method: - exact Glassnode BTC metric pages only - no mixed-source composite - baselines fixed at 2025-01-01 - index = geometric mean of 4 current/baseline ratios Baselines: - Active Entities: 145,000 - Non-Zero Addresses: 52,000,000 - Lightning Network Capacity: 5,358 BTC - L1 Change-Adjusted Volume: 100,000 BTC Ratios: - Active Entities: 1.131 - Non-Zero Addresses: 1.080 - Lightning Capacity: 0.928 - L1 Change-Adjusted Volume: 0.921 Interpretation: - overall adoption snapshot is slightly above the 2025-01-01 baseline - breadth metrics are above baseline - Lightning capacity is below baseline - on-chain adjusted transfer volume is below baseline - the positive breadth signal slightly outweighs the weaker LN and L1 flow readings Data dates used: - AE: 2026-04-04 - NZ: 2026-04-04 - LN: 2026-04-04 - L1: 2026-04-04 Source metrics: - Glassnode entities.ActiveCount - Glassnode addresses.NonZeroCount - Glassnode lightning.NetworkCapacitySum - Glassnode transactions.TransfersVolumeAdjustedSum
 
-4h ago
+5h ago
 
 ---
 
@@ -151,7 +151,7 @@ BTC adoption snapshot using 4 Glassnode BTC metrics only. Current reading: - Ado
 
 it might be weird to see something like this vague. anyways, I want to learn about the bitcoin and its system. how it work? why its such a big deal, especially in some bad stuffs? why it's the preferable choice over usd or any other currency? i'm just starting to learn about all these. so if anyone can just help me understand it briefly, something kind of starter before diving deep into this world.
 
-33m ago
+1h ago
 
 ---
 
@@ -163,7 +163,7 @@ it might be weird to see something like this vague. anyways, I want to learn abo
 
 Developers are considering ways to quantum-proof the world's oldest cryptocurrency as the threat of this computing moves beyond a hypothetical.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -177,7 +177,7 @@ Forbes • 1d ago
 
 The Google-led study described its hardware assumptions as conservative while withholding full algorithmic detail for security reasons.
 
-jpost.com • 2h ago
+jpost.com • 3h ago
 
 ---
 
@@ -185,7 +185,7 @@ jpost.com • 2h ago
 
 The service will be unavailable in New York and Louisiana at launch, and fee structure and custody arrangements have not yet been disclosed.
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -201,7 +201,7 @@ Decrypt • 1d ago
 
 Adoption of Bitcoin and Ethereum is poised to take a significant step forward as Charles Schwab introduces direct trading for both assets on its platform. As one of the largest financial institutions in the world, managing trillions in client assets, Schwab’s entry into the crypto space represents…
 
-TradingView • 13h ago
+TradingView • 14h ago
 
 ---
 
@@ -209,7 +209,7 @@ TradingView • 13h ago
 
 Electricity rates have gotten so atrocious that this Heatbit wants to offset your costs with bitcoin mining. But the math doesn't add up.
 
-WIRED • 1h ago
+WIRED • 2h ago
 
 ---
 
@@ -217,7 +217,7 @@ WIRED • 1h ago
 
 The Bitcoin bear market is now six months in and showing no signs of letting up. During this time, a cycle low of $60,000 was established, preceding the present consolidation action being seen. However, bearish sentiments remain at heightened levels, especially considering the disturbed geopolitica…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
@@ -225,7 +225,7 @@ TradingView • 2h ago
 
 Bitcoin (BTC) circled $67,000 on Sunday as traders warned of hidden BTC price weakness.Key points:Bitcoin trader waits for sweep of sub-$60,000 lowsData from TradingView showed volatility cooling over the weekend, with BITSTAMP:BTCUSD acting within an increasingly narrow range.On four-hour time fra…
 
-TradingView • 1h ago
+TradingView • 2h ago
 
 ---
 
@@ -233,7 +233,7 @@ TradingView • 1h ago
 
 The Bitcoin price has spent five weeks bouncing between $60,000 and $73,000. BTC rallies when Trump hints at ending the Iran war and crashes when he escalates. Traders keep reacting to his comments, but the real threat to Bitcoin (CRYPTO: BTC) is what happens when the emergency oil reserves keeping global markets together run out. ... Bitcoin Price: The Oil Reserves Keeping Markets Alive Are About to Run Out — Why BTC Could Be in Trouble
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -281,7 +281,7 @@ April 03, 2026 - A new $100 million bond deal reveals exactly how traditional fi
 
 **[Google Paper Warns of Quantum Computing Risk for Bitcoin](https://news.ycombinator.com/item?id=47600418)**
 
-⬆️ 3 • 💬 1 • 3d ago • [wsj.com](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q)
+⬆️ 3 • 💬 1 • 4d ago • [wsj.com](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q)
 
 ---
 
@@ -333,7 +333,7 @@ Welcome back to Verified Investing! In today's urgent crypto market update, Chie
 
 📺 Gareth Soloway
 
-👁️ 78K • 👍 5K • 💬 475 • ⏱️ 11:47 • 19h ago
+👁️ 78K • 👍 5K • 💬 475 • ⏱️ 11:47 • 20h ago
 
 ---
 
@@ -343,7 +343,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 43K • 👍 2K • 💬 102 • ⏱️ 45:08 • 23h ago
+👁️ 43K • 👍 2K • 💬 102 • ⏱️ 45:08 • 1d ago
 
 ---
 
@@ -363,7 +363,7 @@ Charles Schwab Just Released The Crypto Bulls!! BTC Conference 2026 - 'ALTCOINDA
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 2K • 💬 220 • ⏱️ 12:19 • 17h ago
+👁️ 28K • 👍 2K • 💬 220 • ⏱️ 12:19 • 18h ago
 
 ---
 
@@ -383,7 +383,7 @@ The risk models that say when to accumulate or exit HERE. Free trial https://app
 
 📺 Dan Gambardello
 
-👁️ 12K • 👍 731 • 💬 308 • ⏱️ 12:33 • 23h ago
+👁️ 12K • 👍 731 • 💬 308 • ⏱️ 12:33 • 1d ago
 
 ---
 
@@ -393,7 +393,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Vik's Video Vizuals
 
-👁️ 2K • 👍 1K • 26m ago
+👁️ 2K • 👍 1K • 1h ago
 
 ---
 
