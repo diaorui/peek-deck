@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-05T11:31:19.631353+00:00'
+updated: '2026-04-05T13:00:23.008845+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 05, 2026 at 11:31 UTC  
+**Last Updated:** April 05, 2026 at 13:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,035.47
+### $66,758.81
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +0.4%  
-**30d:** -0.3%  
-**90d:** -28.5%  
-**1y:** -14.5%  
+**24h:** -0.7%  
+**7d:** -0.0%  
+**30d:** -0.7%  
+**90d:** -28.8%  
+**1y:** -14.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1340.15B
+**Market Cap:** $1336.15B
 Rank #1
 
-**Circulating Supply:** 20,011,656 BTC
+**Circulating Supply:** 20,011,700 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--46.9%
+-47.0%
 
 **All-Time Low:** $67.81
-+98658.3%
++98361.9%
 
 ---
 
@@ -79,30 +79,6 @@ Rank #1
 
 **[Could it really be that simple?](https://www.reddit.com/r/Bitcoin/comments/1scx8vs/could_it_really_be_that_simple/)**
 
-4h ago
-
----
-
-**[I have found my old computer from my teenage years in my grandfather's attic after thinking he had disposed of it years ago. I need advice on gaining access to my wallet.](https://www.reddit.com/r/Bitcoin/comments/1scst72/i_have_found_my_old_computer_from_my_teenage/)**
-
-To add to the title - At some point in 2009-2012, I used to leave my computer on overnight and while I was at school, mining bitcoin. I can't remember how long for, it could've been for a couple of weeks or potentially months. I only remember it was within this time period because it overlapped with me playing Runescape (lol), and I quit playing in 2012 for 10 years or more. I have sort of moved away from computers although in those days I was interested in gaming and beginner hacking. I was 15-17 and the hacking part is daft looking back at it. But what I'm really trying to say is I used to be fairly computer literate and now, not so much. I've been using macs for 12 years now. So no matter whether it was a week or several months I left it mining overnight etc. for, there is likely a decent amount of bitcoin on the harddrive. I don't have access to the email address I used in those years, I lost it about 5 years ago and seemingly can't recover it. ChatGPT tells me this likely isn't an issue as emails weren't used for sign up in the early days. More advice was to remove the hard drive and back it up on a second hard drive, before opening. Do I have a stab at this myself? How do I do this? Can I plug hard drive into my mac to transfer to a second hard drive? What if the hard drive was wiped? Would it be in any way possible to recover it? If I manage to locate the wallet, will I need to remember the password? I believe it was a long set of random numbers and letters so will never remember unless I also have it saved on the computer somewhere. What are my next steps? Thank you in advance.
-
-8h ago
-
----
-
-**[Jack Dorsey Teases Bitcoin Faucet Revival With “Bitcoin Day” Post](https://www.reddit.com/r/Bitcoin/comments/1scw5no/jack_dorsey_teases_bitcoin_faucet_revival_with/)**
-
-Jack Dorsey teased a potential revival of the Bitcoin faucet tied to “Bitcoin Day,” echoing Gavin Andresen’s 2010 giveaway model.
-
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/jack-dorsey-reveals-bitcoin-faucet) • 5h ago
-
----
-
-**[Self Custody 2026](https://www.reddit.com/r/Bitcoin/comments/1scvioi/self_custody_2026/)**
-
-Just threw on some low budget movie - or what I thought was a movie. Self Custody is a 30min propaganda commercial to scare people away from Self Custody. There's no other reason for this pile of crap to exist.
-
 5h ago
 
 ---
@@ -111,7 +87,31 @@ Just threw on some low budget movie - or what I thought was a movie. Self Custod
 
 i sold my house, and i dont think shares is best to put money in due to the iran war. so i bought 5 btc, hopefully we get to see 120k peak soon :)
 
-9m ago
+1h ago
+
+---
+
+**[Jack Dorsey Teases Bitcoin Faucet Revival With “Bitcoin Day” Post](https://www.reddit.com/r/Bitcoin/comments/1scw5no/jack_dorsey_teases_bitcoin_faucet_revival_with/)**
+
+Jack Dorsey teased a potential revival of the Bitcoin faucet tied to “Bitcoin Day,” echoing Gavin Andresen’s 2010 giveaway model.
+
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/jack-dorsey-reveals-bitcoin-faucet) • 6h ago
+
+---
+
+**[I have found my old computer from my teenage years in my grandfather's attic after thinking he had disposed of it years ago. I need advice on gaining access to my wallet.](https://www.reddit.com/r/Bitcoin/comments/1scst72/i_have_found_my_old_computer_from_my_teenage/)**
+
+To add to the title - At some point in 2009-2012, I used to leave my computer on overnight and while I was at school, mining bitcoin. I can't remember how long for, it could've been for a couple of weeks or potentially months. I only remember it was within this time period because it overlapped with me playing Runescape (lol), and I quit playing in 2012 for 10 years or more. I have sort of moved away from computers although in those days I was interested in gaming and beginner hacking. I was 15-17 and the hacking part is daft looking back at it. But what I'm really trying to say is I used to be fairly computer literate and now, not so much. I've been using macs for 12 years now. So no matter whether it was a week or several months I left it mining overnight etc. for, there is likely a decent amount of bitcoin on the harddrive. I don't have access to the email address I used in those years, I lost it about 5 years ago and seemingly can't recover it. ChatGPT tells me this likely isn't an issue as emails weren't used for sign up in the early days. More advice was to remove the hard drive and back it up on a second hard drive, before opening. Do I have a stab at this myself? How do I do this? Can I plug hard drive into my mac to transfer to a second hard drive? What if the hard drive was wiped? Would it be in any way possible to recover it? If I manage to locate the wallet, will I need to remember the password? I believe it was a long set of random numbers and letters so will never remember unless I also have it saved on the computer somewhere. What are my next steps? Thank you in advance.
+
+9h ago
+
+---
+
+**[Self Custody 2026](https://www.reddit.com/r/Bitcoin/comments/1scvioi/self_custody_2026/)**
+
+Just threw on some low budget movie - or what I thought was a movie. Self Custody is a 30min propaganda commercial to scare people away from Self Custody. There's no other reason for this pile of crap to exist.
+
+7h ago
 
 ---
 
@@ -119,7 +119,7 @@ i sold my house, and i dont think shares is best to put money in due to the iran
 
 I want a way which is easier for them to check price and buy more. They aren't tech savvy. confused between CEX and ETF
 
-8h ago
+9h ago
 
 ---
 
@@ -127,7 +127,7 @@ I want a way which is easier for them to check price and buy more. They aren't t
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-5h ago
+6h ago
 
 ---
 
@@ -135,7 +135,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Hi, Whats your perspective on this?
 
-21h ago
+22h ago
 
 ---
 
@@ -143,15 +143,15 @@ Hi, Whats your perspective on this?
 
 BTC adoption snapshot using 4 Glassnode BTC metrics only. Current reading: - Adoption Index: 1.011 - Active Entities: 163,944 - Non-Zero Addresses: 56,154,672 - Lightning Network Capacity: 4,971.03 BTC - L1 Change-Adjusted Volume: 92,074.70 BTC Method: - exact Glassnode BTC metric pages only - no mixed-source composite - baselines fixed at 2025-01-01 - index = geometric mean of 4 current/baseline ratios Baselines: - Active Entities: 145,000 - Non-Zero Addresses: 52,000,000 - Lightning Network Capacity: 5,358 BTC - L1 Change-Adjusted Volume: 100,000 BTC Ratios: - Active Entities: 1.131 - Non-Zero Addresses: 1.080 - Lightning Capacity: 0.928 - L1 Change-Adjusted Volume: 0.921 Interpretation: - overall adoption snapshot is slightly above the 2025-01-01 baseline - breadth metrics are above baseline - Lightning capacity is below baseline - on-chain adjusted transfer volume is below baseline - the positive breadth signal slightly outweighs the weaker LN and L1 flow readings Data dates used: - AE: 2026-04-04 - NZ: 2026-04-04 - LN: 2026-04-04 - L1: 2026-04-04 Source metrics: - Glassnode entities.ActiveCount - Glassnode addresses.NonZeroCount - Glassnode lightning.NetworkCapacitySum - Glassnode transactions.TransfersVolumeAdjustedSum
 
-2h ago
+4h ago
 
 ---
 
-**[Is it possible to buy cryptocurrencies with a prepaid vanilla gift card? (No KYC preferred)](https://www.reddit.com/r/Bitcoin/comments/1sc7zqr/is_it_possible_to_buy_cryptocurrencies_with_a/)**
+**[understanding bitcoin system for the first time](https://www.reddit.com/r/Bitcoin/comments/1sd2cgu/understanding_bitcoin_system_for_the_first_time/)**
 
-Hi, I don't have a bank account and there isn't any ATMs around me I can use to buy cryptocurrencies. I bought a vanilla card online to buy crypto. How can I do so? Thank you.
+it might be weird to see something like this vague. anyways, I want to learn about the bitcoin and its system. how it work? why its such a big deal, especially in some bad stuffs? why it's the preferable choice over usd or any other currency? i'm just starting to learn about all these. so if anyone can just help me understand it briefly, something kind of starter before diving deep into this world.
 
-23h ago
+33m ago
 
 ---
 
@@ -163,19 +163,21 @@ Hi, I don't have a bank account and there isn't any ATMs around me I can use to 
 
 Developers are considering ways to quantum-proof the world's oldest cryptocurrency as the threat of this computing moves beyond a hypothetical.
 
-CoinDesk • 7h ago
+CoinDesk • 9h ago
 
 ---
 
 **[‘You Have Until 2029’—Urgent Musk Bitcoin Warning Spurs Coinbase CEO Flip As Price Crash Fears Swirl](https://www.forbes.com/sites/digital-assets/2026/04/04/you-have-until-2029-urgent-elon-musk-bitcoin-warning-suddenly-triggers-price-crash-fears/)**
 
-Forbes • 23h ago
+Forbes • 1d ago
 
 ---
 
-**[Google Paper Warns of Quantum Computing Risk for Bitcoin](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q?gaa_at=eafs&gaa_n=AWEtsqcv73Z72Vy13d8HbMoTDNmk-v5iY-m79e10CW6v9MwWUdz52IrDMjbA&gaa_ts=69d24b73&gaa_sig=l9wRa2YQDtA2aUd5pq0yJYMygV_gG8o3hVOrbRZPg1153OvpDNMJ0qMUZm7Mv-cK0jv1NHl_1nEPIskT2BOPlg%3D%3D)**
+**[Google research flags looming quantum threat to cryptocurrencies, with Bitcoin vulnerable in minute](https://www.jpost.com/science/article-892107)**
 
-WSJ • 4d ago
+The Google-led study described its hardware assumptions as conservative while withholding full algorithmic detail for security reasons.
+
+jpost.com • 2h ago
 
 ---
 
@@ -183,7 +185,7 @@ WSJ • 4d ago
 
 The service will be unavailable in New York and Louisiana at launch, and fee structure and custody arrangements have not yet been disclosed.
 
-theblock.co • 12h ago
+The Block • 14h ago
 
 ---
 
@@ -199,7 +201,7 @@ Decrypt • 1d ago
 
 Adoption of Bitcoin and Ethereum is poised to take a significant step forward as Charles Schwab introduces direct trading for both assets on its platform. As one of the largest financial institutions in the world, managing trillions in client assets, Schwab’s entry into the crypto space represents…
 
-tradingview.com • 12h ago
+TradingView • 13h ago
 
 ---
 
@@ -207,7 +209,7 @@ tradingview.com • 12h ago
 
 Electricity rates have gotten so atrocious that this Heatbit wants to offset your costs with bitcoin mining. But the math doesn't add up.
 
-wired.com • 27m ago
+WIRED • 1h ago
 
 ---
 
@@ -215,23 +217,23 @@ wired.com • 27m ago
 
 The Bitcoin bear market is now six months in and showing no signs of letting up. During this time, a cycle low of $60,000 was established, preceding the present consolidation action being seen. However, bearish sentiments remain at heightened levels, especially considering the disturbed geopolitica…
 
-tradingview.com • 1h ago
+TradingView • 2h ago
 
 ---
 
-**[Hut 8 (HUT) Valuation Check As It Shifts From Bitcoin Mining To AI And Energy Infrastructure](https://finance.yahoo.com/markets/stocks/articles/hut-8-hut-valuation-check-081416065.html)**
+**[New Bitcoin price lows 'matter of time' says trader with BTC stuck at $67K](https://www.tradingview.com/news/cointelegraph:87235cda6094b:0-new-bitcoin-price-lows-matter-of-time-says-trader-with-btc-stuck-at-67k/)**
 
-Hut 8 (HUT) is back in focus after its move away from pure Bitcoin mining toward AI and energy infrastructure, supported by a multi year Fluidstack lease and an 8.5 GW development pipeline. See our latest analysis for Hut 8. The share price recently closed at US$48.11, with a 1 day share price return of 1.58% and a 30 day share price return of 2.21%, compared with a 90 day share price return of 17.41% and a 1 year total shareholder return of 322.39%. This suggests that short term momentum has...
+Bitcoin (BTC) circled $67,000 on Sunday as traders warned of hidden BTC price weakness.Key points:Bitcoin trader waits for sweep of sub-$60,000 lowsData from TradingView showed volatility cooling over the weekend, with BITSTAMP:BTCUSD acting within an increasingly narrow range.On four-hour time fra…
 
-Yahoo Finance • 3h ago
+TradingView • 1h ago
 
 ---
 
-**[FBI's New Lead in Nancy Guthrie Case Involves Traceable Bitcoin Ransom Demands](https://www.aol.com/fbis-lead-nancy-guthrie-case-152452887.html)**
+**[Bitcoin Price: The Oil Reserves Keeping Markets Alive Are About to Run Out — Why BTC Could Be in Trouble](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-oil-reserves-keeping-143719236.html)**
 
-Guthrie, 84, has been missing since Feb. 1, and despite authorities receiving thousands of tips, her disappearance remains a mystery.
+The Bitcoin price has spent five weeks bouncing between $60,000 and $73,000. BTC rallies when Trump hints at ending the Iran war and crashes when he escalates. Traders keep reacting to his comments, but the real threat to Bitcoin (CRYPTO: BTC) is what happens when the emergency oil reserves keeping global markets together run out. ... Bitcoin Price: The Oil Reserves Keeping Markets Alive Are About to Run Out — Why BTC Could Be in Trouble
 
-AOL.com • 1d ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -321,17 +323,7 @@ Markets cracked, oil surged, Bitcoin dipped, and Larry Fink is warning that a pr
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 109 • ⏱️ 14:11 • 1d ago
-
----
-
-**[What’s Actually Happening To Bitcoin &amp; The Economy Right Now](https://www.youtube.com/watch?v=S2ziezeoK4E)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 41K • 👍 2K • 💬 102 • ⏱️ 45:08 • 22h ago
+👁️ 20K • 👍 1K • 💬 110 • ⏱️ 14:11 • 1d ago
 
 ---
 
@@ -341,7 +333,17 @@ Welcome back to Verified Investing! In today's urgent crypto market update, Chie
 
 📺 Gareth Soloway
 
-👁️ 75K • 👍 4K • 💬 457 • ⏱️ 11:47 • 18h ago
+👁️ 78K • 👍 5K • 💬 475 • ⏱️ 11:47 • 19h ago
+
+---
+
+**[What’s Actually Happening To Bitcoin &amp; The Economy Right Now](https://www.youtube.com/watch?v=S2ziezeoK4E)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 43K • 👍 2K • 💬 102 • ⏱️ 45:08 • 23h ago
 
 ---
 
@@ -351,7 +353,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEE
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 282 • ⏱️ 8:47 • 1d ago
+👁️ 43K • 👍 2K • 💬 283 • ⏱️ 8:47 • 1d ago
 
 ---
 
@@ -361,7 +363,7 @@ Charles Schwab Just Released The Crypto Bulls!! BTC Conference 2026 - 'ALTCOINDA
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 2K • 💬 169 • ⏱️ 12:19 • 15h ago
+👁️ 28K • 👍 2K • 💬 220 • ⏱️ 12:19 • 17h ago
 
 ---
 
@@ -371,7 +373,7 @@ Coinbase just told Washington that Bitcoin doesn't need a tax exemption because 
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 821 • 💬 69 • ⏱️ 17:14 • 14h ago
+👁️ 11K • 👍 865 • 💬 74 • ⏱️ 17:14 • 16h ago
 
 ---
 
@@ -381,27 +383,17 @@ The risk models that say when to accumulate or exit HERE. Free trial https://app
 
 📺 Dan Gambardello
 
-👁️ 12K • 👍 718 • 💬 305 • ⏱️ 12:33 • 22h ago
+👁️ 12K • 👍 731 • 💬 308 • ⏱️ 12:33 • 23h ago
 
 ---
 
-**[Bitcoin Warning: Bear Flag Forming 💀](https://www.youtube.com/watch?v=Bm6xRrc-TFI)**
+**[LIVE: Michael Saylor on Bitcoin Bull Run &amp; MSTR Stock – BTC Price Prediction](https://www.youtube.com/watch?v=jOJI6SrLcVc)**
 
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Buy, Sell, Trade on Weex ($500 Bonus): ...
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
 
-📺 Altcoin Daily
+📺 Vik's Video Vizuals
 
-👁️ 9K • 👍 256 • 💬 148 • ⏱️ 1:07 • 1d ago
-
----
-
-**[$550 Billion Vanishes in Minutes! (Bitcoin Already Knows Why)](https://www.youtube.com/watch?v=la1hjLNE2SM)**
-
-Trump speaks… and markets crash again! Bitcoin fell to $66K, and in just 25 minutes, $550 billion was wiped out after one ...
-
-📺 Simply Bitcoin
-
-👁️ 22K • 👍 2K • 💬 185 • ⏱️ 36:07 • 2d ago
+👁️ 2K • 👍 1K • 26m ago
 
 ---
 
@@ -411,7 +403,17 @@ Welcome back! More Iran announcements over the weekend but Bitcoin is holding up
 
 📺 Aaron Bennett
 
-👁️ 6K • 👍 393 • 💬 184 • ⏱️ 6:51 • 1d ago
+👁️ 6K • 👍 396 • 💬 185 • ⏱️ 6:51 • 1d ago
+
+---
+
+**[Bitcoin Warning: Bear Flag Forming 💀](https://www.youtube.com/watch?v=Bm6xRrc-TFI)**
+
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Buy, Sell, Trade on Weex ($500 Bonus): ...
+
+📺 Altcoin Daily
+
+👁️ 9K • 👍 257 • 💬 147 • ⏱️ 1:07 • 2d ago
 
 ---
 
