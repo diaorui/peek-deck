@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-05T05:13:16.440204+00:00'
+updated: '2026-04-05T06:42:23.164082+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
-- repositories
 - news
+- repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 05, 2026 at 05:13 UTC  
+**Last Updated:** April 05, 2026 at 06:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[OpenAI CEO Sam Altman accused of sexual abuse by family member](https://www.reddit.com/r/artificial/comments/1sc3kpj/openai_ceo_sam_altman_accused_of_sexual_abuse_by/)**
 
-🔗 [The Independent](https://www.independent.co.uk/bulletin/news/sam-altman-lawsuit-abuse-sexual-assault-sister-annie-b2950929.html) • 21h ago
+🔗 [The Independent](https://www.independent.co.uk/bulletin/news/sam-altman-lawsuit-abuse-sexual-assault-sister-annie-b2950929.html) • 22h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 AI sycophancy, RLHF bias, and Ender's Foundry simulations shaped Operation Epic Fury. 7 planning assumptions failed in 23 days as the Iran war defied every AI prediction.
 
-🔗 [House of Saud](https://houseofsaud.com/iran-war-ai-psychosis-sycophancy-rlhf/) • 4h ago
+🔗 [House of Saud](https://houseofsaud.com/iran-war-ai-psychosis-sycophancy-rlhf/) • 6h ago
 
 ---
 
@@ -55,7 +55,7 @@ AI sycophancy, RLHF bias, and Ender's Foundry simulations shaped Operation Epic 
 
 My friend came over yesterday to dye her hair. She had asked ChatGPT for the 'correct' way to do it. Chat told her to dye the ends first, wait about 20 minutes, and then do the roots. Because of my own experience with dyeing my hair, that made me sceptical, so I read the instructions in the box dye package. It specifically said to mix it and apply everything all at once. That's how this particular formula is designed to work. I read the instructions on the package out loud and told her we should just follow what the manufacturer says. She got visibly stressed and told me that 'ChatGPT said to do it differently'. I pointed out that the company who made the dye probably knows how their own product is supposed to be applied. She still got visibly anxious about going against what ChatGPT told her to do. It was such a weird moment. She was genuinely stressed about ignoring the AI even though the real instructions were right there in her hands. Has anybody had similar experiences?
 
-21h ago
+23h ago
 
 ---
 
@@ -63,7 +63,15 @@ My friend came over yesterday to dye her hair. She had asked ChatGPT for the 'co
 
 I do a lot of writing and random problem solving for work. Mostly long drafts, edits, and breaking down ideas. Around Jan I kept hitting limits on ChatGPT and Claude at the worst times. Like you are halfway through something, finally in flow, and boom… limit reached. Either wait or switch tools and lose context. I tried paying for a bit but managing multiple subscriptions felt stupid for how often I actually needed them. So I started testing free options properly. Not those listicle type “top 10 AI tools” posts, but actually using them in real tasks. After around 2 to 3 months of trying different stuff, this is what stuck. Google AI Studio is probably the one I use the most now. I found it by accident while searching for Gemini alternatives. The normal Gemini site kept limiting me, but AI Studio felt completely different. I usually dump full notes or messy drafts into it and ask it to clean things up or expand sections. It handles long inputs way better than most free tools I tried. I have not really hit a hard limit there yet during normal use. For research I use Perplexity free. It is not perfect, sometimes the sources are mid, but it is fast enough to get direction. I usually double check important stuff anyway. Claude free I still use, but only when I want that specific tone. Weirdly I noticed the limits reset separately on different browsers. So I just switch between Chrome and Edge when needed. Not a genius hack, just something that ended up working. For anything even slightly sensitive, I use Ollama locally. Setup took me like 10 to 15 minutes after watching one random YouTube video. It is slower, not gonna lie, but no limits and I do not have to worry about uploading private stuff. I also tried a bunch of other tools people hype on Twitter. Some were decent for one or two uses, then just annoying. Either too slow or randomly restricted. Right now this setup covers almost everything I actually do day to day. I still hit limits sometimes, but it is way less frustrating compared to before. I was paying around 60 to 80 dollars earlier. Now it is basically zero, and I am not really missing much for the kind of work I do. I made a full list of all 11 things I tested and what actually worked vs what was overhyped. Did not want to dump everything here.
 
-8h ago
+9h ago
+
+---
+
+**[The person who replaces you probably won't be AI. It'll be someone from the next department over who learned to use it - opinion/discussion](https://www.reddit.com/r/artificial/comments/1scw6vv/the_person_who_replaces_you_probably_wont_be_ai/)**
+
+I'm a strategy person by background. Two years ago I'd write a recommendation and hand it to a product team. Now.. I describe what I want to Claude and I've got a prototype.. Feels like I'm not the only one crossing lanes though.. the engineers I know are making product calls. Product people are prototyping strategic hypotheses. Strategy people are shipping code. I wrote a more detailed blog on it (which I can share if people want to read) but curious whether people outside of tech are seeing the same pattern. Can you let me know if you're seeing this pattern in your company and what industry you'd say you're in? I'd think this is primarily tech/big tech right now?
+
+24m ago
 
 ---
 
@@ -71,23 +79,7 @@ I do a lot of writing and random problem solving for work. Mostly long drafts, e
 
 Every single Instagram reel or TikTok I scroll i see people mentioning Claude and glazing it like it’s some kind of master tool that’s better than every single other ai assistant. do they run a strong marketing program or is it really that good in contrast to other ai tools? Before i started seeing it for the first time i only heard that it’s a little better for coding, but know i see it everywhere. I've tried it too, but it doesn’t seem to be much different than ChatGPT to me. Is it actually this powerful at the moment? + Not to mention that many people also hate on ChatGPT too. Though it’s still the best one for me (edit): i have never searched for it and I dont think that my algorithm is set to appear claude videos. I believe that it’s viral in general and I know you guys agree
 
-14h ago
-
----
-
-**[Charging people](https://www.reddit.com/r/artificial/comments/1scu2a6/charging_people/)**
-
-Hola chicos, he creado un agente mayorista que da seguimiento a las conversaciones de clientes potenciales, reserva visitas según una tabla de horarios, rastrea toda la información, escanea clientes potenciales, calcula ofertas y todo está conectado a un flujo de trabajo n8n, cuando llega un cliente potencial, hay una visita reservada, se ejecuta el escáner, etc., te envía un correo electrónico, una notificación de Slack, crea un cliente potencial en Zoho CRM y agrega una fila en Google Sheets, puede manejar compradores y vendedores, algunas personas me preguntaron cuánto les cobro, y aquí está cuando se van, no sé si digo precios tan altos, pero ¿cuánto les cobrarías tú?
-
-52m ago
-
----
-
-**[Is Google's Gemma 4 really as good as advertised](https://www.reddit.com/r/artificial/comments/1sctzrx/is_googles_gemma_4_really_as_good_as_advertised/)**
-
-After reading many developers' hands-on reviews, Gemma 4 is truly impressive. The 26B version is fast and uses little memory. What's everyone else's experience?
-
-55m ago
+16h ago
 
 ---
 
@@ -95,7 +87,23 @@ After reading many developers' hands-on reviews, Gemma 4 is truly impressive. Th
 
 Back in the day, I got ChatGPT Plus mostly for work and to help me write better and do stuff faster. But now I use it for almost everything. Like planning things, rewriting things, orgnizing my thoughts, helping me start things when I didn't know where to begin, and even just when I feel mentally tired and don’t want to think so hard, which is kinda becoming more frequent. It helps a lot.. Like a lot a lot. Sometimes I honestly wish it would help me in car repairs, but I guess that's too much in the future lol. I feel way more productive now than I used to be. I get through work faster, I don’t get stuck as much (though sometimes when the context windows shrinks or content gets truncated, quality feels off directly), and I waste less time sitting there overthinking dumb stuff. Between ChatGPT, Claude, and a couple smaller tools I’ve tried, I’ve noticed my whole workflow feels smoother now. I am literally hooked to ChatGPT + Bearbits + Claude Cowork for my work, like I couldn't imagine myself without them (though I'm on ChatGPT Pro + all the other subs that kinda bleed too much money, roughly $350 per month, but the good thing is that I can afford it for now).., AI in general is becoming part of how I think through work now, like slightly panicking when I am *outside* without my meeting transcript app and people ask things that I usually just let AI answer based on my past meetings in literally one click, or when someone asks me to do a presentation without preparing my script beforehand with ChatGPT, or like even the boring things of creating powerpoint slides... This is what kind of worries me. :/ I can feel myself depending on AI more and more., even for small things that maybe I should still be doing with my own *little, not AI-native* brain. Like how to start writing something, how to structure an idea, how to word a message, or even just how to think through something when I feel lazy. And I keep wondering like what does this actually do to us long term? Like for us as humanity overall.. Because yes, it makes life easier. Yes, it makes me more productive. But is it also making usthink less? And if it is, what does that mean for our brains after years of this? What happens if we get too used to not struggling mentally anymore? Like how will 2040 people look like, assuming that we didn't nuke ourselves... I’m not saying AI is bad. I actually love it and use it all the time now. I’m probably already more dependent on it than I want to admit. If it disappeared tomorroow I would feel the difference instantly. I guess we did feel a taste of this when the GPT-4o model disappeared.. I just keep thinking maybe this is helping us a lot, but maybe it’s also changing something deeper in us too. Like not only how we work (which is probably gonna be a fun ride in the upcoming years:)), but how we think, and maybe even how we find meaning in doing things ourselves. PLEASE tell me we are not doomed..
 
-7h ago
+8h ago
+
+---
+
+**[Charging people](https://www.reddit.com/r/artificial/comments/1scu2a6/charging_people/)**
+
+Hola chicos, he creado un agente mayorista que da seguimiento a las conversaciones de clientes potenciales, reserva visitas según una tabla de horarios, rastrea toda la información, escanea clientes potenciales, calcula ofertas y todo está conectado a un flujo de trabajo n8n, cuando llega un cliente potencial, hay una visita reservada, se ejecuta el escáner, etc., te envía un correo electrónico, una notificación de Slack, crea un cliente potencial en Zoho CRM y agrega una fila en Google Sheets, puede manejar compradores y vendedores, algunas personas me preguntaron cuánto les cobro, y aquí está cuando se van, no sé si digo precios tan altos, pero ¿cuánto les cobrarías tú?
+
+2h ago
+
+---
+
+**[Is Google's Gemma 4 really as good as advertised](https://www.reddit.com/r/artificial/comments/1sctzrx/is_googles_gemma_4_really_as_good_as_advertised/)**
+
+After reading many developers' hands-on reviews, Gemma 4 is truly impressive. The 26B version is fast and uses little memory. What's everyone else's experience?
+
+2h ago
 
 ---
 
@@ -107,14 +115,6 @@ The offering is expected to be the largest in history.
 
 ---
 
-**[Will people continue paying for the plans after the honeymoon is over?](https://www.reddit.com/r/artificial/comments/1scjcrg/will_people_continue_paying_for_the_plans_after/)**
-
-I currently pay for Max 20x and the demand at work is so high that I can only get everything I need done because I have access to Claude. However, $200 is equivalent to 70% of the monthly minimum wage in my country, so I don't know anyone else who has Max 20x besides me. The ones I know who pay for Claude reach a maximum of the $20 Pro plan, but what they need to do is much simpler than what I do. And, well, I know that this phase of "low prices" for subscriptions is temporary, maybe in less than a year we will see an increase in monthly prices, or such drastic reductions that it becomes impossible to pay for AIs in underdeveloped countries. I remember that when Claude started with the $20 plans I was able to do all the necessary work with it back then, and today I pay 10x more to do the same work I did a year and a half ago. If Anthropic creates a $500 Max 100x plan, for example, I know it would still be affordable for some programmers around the world, but something completely out of the question for programmers in other poorer countries, like mine. Given this, I tested some cheaper or even free and local AI models, but the cheapest ones don't deliver what they promise and the local ones require a lot of RAM. I did the math and to run the best deepseek model (for what I need) I would have to buy hardware parts equivalent to 80 monthly minimum wages in my country. It is genuinely impossible for us. Therefore, I imagine that what might prevent things like this from happening is people not paying for the most expensive plans, but at the same time I can't say how "expensive" Claude actually is from the perspective of an American, for example. For me, using Claude via API is total madness, I used it once and in a single message I lost the equivalent of 6 hours of work. So, what do you think will happen? Will programming AIs become tools reserved exclusively for developed countries? Claude gave me a lot of freedom, I created projects that I would never be able to accomplish in such a short time. I gained a lot of financial freedom due to these projects, however, I find myself spending more and more and being able to use less. What will probably happen? tl;dr: access to AIs is becoming increasingly unequal. Will this get worse or not?
-
-9h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -123,7 +123,7 @@ I currently pay for Max 20x and the demand at work is so high that I can only ge
 
 In dominating consumer devices, Apple sold users on the promise of privacy. To compete in AI, it may have to pivot.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
@@ -133,19 +133,19 @@ Reuters • 1d ago
 
 ---
 
-**[Iowa State develops AI tool to help farmers identify and remove pests](https://www.kcci.com/article/iowa-state-develops-ai-tool-to-help-farmers-identify-and-remove-pests/70935087)**
+**[AI at war: Five things to know about Project Maven](https://www.france24.com/en/live-news/20260405-ai-at-war-five-things-to-know-about-project-maven)**
 
-Pest ID allows users to upload photos of weeds or insects to identify them and learn how to remove them.
+A Pentagon AI program called Project Maven is at the center of the US strikes against Iran and potentially one of the most consequential transformations of modern warfare.
 
-KCCI • 1h ago
+France 24 • 5h ago
 
 ---
 
-**[400% gains for AI stocks help drive Hong Kong IPOs to 5-year high](https://www.ft.com/content/77736111-3975-41a7-a0a3-d9d482ea2679)**
+**[Chinese Firms Use AI To Track US Military Moves In Iran War: Report](https://www.ndtv.com/world-news/iran-war-middle-eat-conflict-chinese-firms-use-ai-to-track-us-military-moves-report-11312675)**
 
-Deal backlogs and stricter quality controls are pushing some tech firms back to mainland Chinese listings
+Washington, April 5 (IANS) Chinese firms are using artificial intelligence and open-source data to track US military movements during the Iran war, raising fresh concerns in Washington about emerging battlefield surveillance risks, a media report sai
 
-Financial Times • 1h ago
+NDTV • 1h ago
 
 ---
 
@@ -153,27 +153,21 @@ Financial Times • 1h ago
 
 Private Chinese technology companies — some with ties to the military — are marketing detailed intelligence on movements of U.S. forces in Iran, even as Beijing seeks to keep its distance.
 
-The Washington Post • 13h ago
+The Washington Post • 14h ago
 
 ---
 
-**[AI at war: Five things to know about Project Maven](https://www.france24.com/en/live-news/20260405-ai-at-war-five-things-to-know-about-project-maven)**
+**[‘Everyone now kind of sounds the same’: How AI is changing college classes](https://www.cnn.com/2026/04/04/health/ai-impact-college-student-thinking-wellness)**
 
-A Pentagon AI program called Project Maven is at the center of the US strikes against Iran and potentially one of the most consequential transformations of modern warfare.
+As more college students use AI for classroom discussions, some students admit they’re starting to sound alike. Teachers say they’re also getting less creative.
 
-France 24 • 3h ago
-
----
-
-**[How can Beijing lure top-tier Chinese AI professionals based abroad?](https://www.scmp.com/news/china/politics/article/3349047/how-can-beijing-attract-top-tier-chinese-ai-professionals-based-abroad)**
-
-South China Morning Post • 1h ago
+CNN • 20h ago
 
 ---
 
 **[What Teens Are Doing With Those Role-Playing Chatbots](https://www.nytimes.com/2026/04/04/technology/ai-chatbots-teen-roleplay.html)**
 
-The New York Times • 11h ago
+The New York Times • 13h ago
 
 ---
 
@@ -181,13 +175,21 @@ The New York Times • 11h ago
 
 Videos have targeted Viktor Orbán's election rival, who could unseat him after 16 years in office.
 
-BBC • 5h ago
+BBC • 7h ago
 
 ---
 
 **[Economists Are Drawing Stronger Connections Between A.I. and Jobs](https://www.nytimes.com/2026/04/03/business/economists-once-dismissed-the-ai-job-threat-but-not-anymore.html)**
 
 The New York Times • 1d ago
+
+---
+
+**[A Yale economist says AGI won’t automate most jobs—because they’re not worth the trouble](https://fortune.com/2026/04/04/ai-jobs-future-not-important-enough-to-be-automated-yale/)**
+
+Pascual Restrepo's new NBER paper argues it's not about what AI can do. It's about what AI will bother doing—and most human work doesn't make the cut.
+
+Fortune • 22h ago
 
 ---
 
@@ -199,7 +201,7 @@ The New York Times • 1d ago
 
 Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptions. The LLM is already on your Mac.
 
-⬆️ 711 • 💬 145 • 1d ago • [apfel.franzai.com](https://apfel.franzai.com)
+⬆️ 712 • 💬 146 • 1d ago • [apfel.franzai.com](https://apfel.franzai.com)
 
 ---
 
@@ -207,7 +209,7 @@ Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptio
 
 We replaced expensive sandboxes with ChromaFs, a virtual filesystem over Chroma, to give our docs AI assistant the ability to explore documentation like a developer would.
 
-⬆️ 392 • 💬 147 • 2d ago • [Mintlify](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant)
+⬆️ 393 • 💬 147 • 2d ago • [Mintlify](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant)
 
 ---
 
@@ -219,7 +221,7 @@ Complete all topics from Todo.md including SQL functions, configuration guides,
 troubleshooting runbooks, architecture comparisons, SDK tutorials, and operator
 deployment pattern...
 
-⬆️ 143 • 💬 142 • 12h ago • [GitHub](https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849)
+⬆️ 144 • 💬 144 • 13h ago • [GitHub](https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849)
 
 ---
 
@@ -235,13 +237,19 @@ Experiments show large majorities uncritically accepting "faulty" AI answers.
 
 AI-powered travel hacking with points, miles, and award flights. Drop-in skills and MCP servers for OpenCode and Claude Code. - borski/travel-hacking-toolkit
 
-⬆️ 91 • 💬 37 • 1d ago • [GitHub](https://github.com/borski/travel-hacking-toolkit)
+⬆️ 92 • 💬 37 • 1d ago • [GitHub](https://github.com/borski/travel-hacking-toolkit)
 
 ---
 
 **[A $20/month user costs OpenAI $65 in compute. AI video is a money furnace](https://news.ycombinator.com/item?id=47619322)**
 
 ⬆️ 76 • 💬 42 • 2d ago • [aedelon777.substack.com](https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is)
+
+---
+
+**[Writing Lisp is AI resistant and I'm sad](https://news.ycombinator.com/item?id=47645468)**
+
+⬆️ 59 • 💬 55 • 4h ago • [blog.djhaskin.com](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
 
 ---
 
@@ -257,19 +265,13 @@ It gave the leader of a nonprofit involved with it "a very grimy feeling."
 
 Hi! If you like this piece and want to support my independent reporting and analysis, why not subscribe to my premium newsletter? It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words,
 
-⬆️ 50 • 💬 22 • 1d ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/)
+⬆️ 51 • 💬 24 • 1d ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/)
 
 ---
 
-**[Writing Lisp is AI resistant and I'm sad](https://news.ycombinator.com/item?id=47645468)**
+**[AI that copied musical artist files copyright claim against artist [updated]](https://news.ycombinator.com/item?id=47645976)**
 
-⬆️ 47 • 💬 37 • 3h ago • [blog.djhaskin.com](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
-
----
-
-**[Men are ditching TV for YouTube as AI usage and social media fatigue grow](https://news.ycombinator.com/item?id=47612127)**
-
-⬆️ 46 • 💬 125 • 2d ago • [ofcom.org.uk](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed)
+⬆️ 50 • 💬 12 • 2h ago • [X (formerly Twitter)](https://twitter.com/VladTheInflator/status/2039577001531768906)
 
 ---
 
@@ -283,7 +285,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 28K • 👍 888 • 💬 114 • ⏱️ 22:30 • 14h ago
+👁️ 28K • 👍 888 • 💬 114 • ⏱️ 22:30 • 15h ago
 
 ---
 
@@ -323,7 +325,7 @@ Check out Suno https://suno.com/?utm_source=Ytamb&utm_medium=isa-does-ai In this
 
 📺 Isa does AI
 
-👁️ 9K • 💬 1 • ⏱️ 10:45 • 15h ago
+👁️ 9K • 💬 1 • ⏱️ 10:45 • 16h ago
 
 ---
 
@@ -658,7 +660,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 13.1k • 🔱 1.2k • 9h ago
+⭐ 13.1k • 🔱 1.2k • 10h ago
 
 ---
 
@@ -678,7 +680,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 7.7k • 🔱 1.0k • 5d ago
+⭐ 7.7k • 🔱 1.0k • 6d ago
 
 ---
 
@@ -688,7 +690,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.6k • 🔱 384 • 13h ago
+⭐ 6.6k • 🔱 384 • 15h ago
 
 ---
 
@@ -698,7 +700,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.1k • 🔱 1.5k • 20h ago
+⭐ 5.1k • 🔱 1.5k • 22h ago
 
 ---
 
@@ -728,7 +730,7 @@ Autonomous novel writing CLI AI Agent — agents write, audit, and revise novels
 
 `TypeScript` `agent` `ai` `ai-agent` `ai-novel` `ai-writing`
 
-⭐ 3.5k • 🔱 625 • 19h ago
+⭐ 3.5k • 🔱 625 • 20h ago
 
 ---
 
