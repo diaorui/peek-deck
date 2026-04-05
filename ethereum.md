@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-04T23:33:19.099760+00:00'
+updated: '2026-04-05T02:36:05.282114+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- videos
 - social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 04, 2026 at 23:33 UTC  
+**Last Updated:** April 05, 2026 at 02:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +4.1%  
-**30d:** +4.4%  
-**90d:** -36.0%  
-**1y:** +14.4%  
+**24h:** +0.4%  
+**7d:** +1.7%  
+**30d:** +4.6%  
+**90d:** -37.5%  
+**1y:** +30.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $249.16B
+**Market Cap:** $248.51B
 Rank #2
 
-**Circulating Supply:** 120,691,261 ETH
+**Circulating Supply:** 120,691,238 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.3%
+-58.4%
 
 **All-Time Low:** $0.43
-+476680.6%
++475507.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Russia submitted a bill requiring residents to report all foreign crypto wallet activity to tax authorities from July 2026. Twenty million users. No exemptions. This is what state capture of crypto looks like.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/russia-bitcoin-ban-failed-wallet-registration-2026/) • 1h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/russia-bitcoin-ban-failed-wallet-registration-2026/) • 4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Russia submitted a bill requiring residents to report all foreign crypto wallet 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+21h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Where is everyone trading/storing their crypto specifically eth? I currently am in crypto.com and having issues. I want to pull all my positions and move to another platform. I currently have WeBull and fidelity but don’t want to cram too much into fidelity as I like my eggs spread out. Which platform would you recommend?
 
-6h ago
+9h ago
 
 ---
 
@@ -160,7 +160,7 @@ Decrypt • 1d ago
 
 As investors search for "the next Ethereum," this top cryptocurrency is worth a closer look.
 
-The Motley Fool • 20h ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -168,7 +168,15 @@ The Motley Fool • 20h ago
 
 An interesting technical outlook frames the current Ethereum price action as a range-bound environment on the higher timeframe, where patience is going to dictate the next move. The Ethereum price action is now at a sensitive zone, and according to crypto analyst Minga, the path to a genuine cycle…
 
-TradingView • 1h ago
+TradingView • 4h ago
+
+---
+
+**[Bitcoin And Ethereum Adoption Gets A Boost From Schwab Launch](https://www.tradingview.com/news/newsbtc:3bff3e74e094b:0-bitcoin-and-ethereum-adoption-gets-a-boost-from-schwab-launch/)**
+
+Adoption of Bitcoin and Ethereum is poised to take a significant step forward as Charles Schwab introduces direct trading for both assets on its platform. As one of the largest financial institutions in the world, managing trillions in client assets, Schwab’s entry into the crypto space represents…
+
+TradingView • 3h ago
 
 ---
 
@@ -188,25 +196,11 @@ The Block • 1d ago
 
 ---
 
-**[Naoris Protocol's quantum-resistant blockchain goes live as Bitcoin and Ethereum face 'Q-Day' threats](https://www.coindesk.com/markets/2026/04/03/naoris-protocol-s-quantum-resistance-blockchain-goes-live-as-bitcoin-and-ethereum-face-q-day-threats)**
+**[Ethereum Foundation stakes $93 million of ether in a day, reaching its 70,000 ETH target](https://www.coindesk.com/markets/2026/04/03/ethereum-foundation-stakes-another-usd93-million-ether-reaching-its-70-000-eth-target)**
 
-Naoris debuts its quantum-resistant mainnet, which uses algorithms approved by the U.S. National Institute of Standards and Technology.
+The foundation deposited the bulk of its planned staking commitment in a single session, completing a program announced in February to turn dormant treasury holdings into a yield-generating position.
 
 CoinDesk • 1d ago
-
----
-
-**[Did a whale just scoop $82M in Ethereum? Arkham data points to Tom Lee’s Bitmine](https://www.msn.com/en-us/money/markets/did-a-whale-just-scoop-82m-in-ethereum-arkham-data-points-to-tom-lee-s-bitmine/ar-AA208urI?ocid=finance-verthp-feeds)**
-
-MSN • 5h ago
-
----
-
-**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775317800)**
-
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 3d ago
 
 ---
 
@@ -214,13 +208,23 @@ Polymarket • 3d ago
 
 Ethereum is flashing a rare market signal, and it’s not showing up in price yet. While the broader crypto market remains stuck in consolidation, ETH
 
-Coinpedia • 10h ago
+Coinpedia • 13h ago
 
 ---
 
-**[Investors ‘Buy the Dip’ in Bitwise Ethereum ETF as $4.3M Flows In Despite Steep ETH Selloff](https://www.tipranks.com/news/cryptocurrencies/investors-buy-the-dip-in-bitwise-ethereum-etf-as-4-3m-flows-in-despite-steep-eth-selloff)**
+**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775289000)**
 
-TipRanks • 7h ago
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 3d ago
+
+---
+
+**[I Asked ChatGPT To Explain Ethereum to Me Like I’m 12](https://www.aol.com/articles/asked-chatgpt-explain-ethereum-m-141704271.html)**
+
+Confused by ethereum? Here’s a simple, beginner-friendly explanation of how it works, how to invest and whether it’s a good crypto investment, per ChatGPT.
+
+AOL.com • 5h ago
 
 ---
 
@@ -234,7 +238,7 @@ Welcome back to Verified Investing! In today's urgent crypto market update, Chie
 
 📺 Gareth Soloway
 
-👁️ 31K • 👍 3K • 💬 231 • ⏱️ 11:47 • 6h ago
+👁️ 57K • 👍 4K • 💬 439 • ⏱️ 11:47 • 9h ago
 
 ---
 
@@ -244,17 +248,7 @@ Welcome back to Verified Investing! In today's urgent crypto market update, Chie
 
 📺 Stock Moe
 
-👁️ 12K • 👍 809 • 💬 93 • ⏱️ 11:56 • 11h ago
-
----
-
-**[Ethereum: Next Downside Targets](https://www.youtube.com/watch?v=I2nAm6vJNtE)**
-
-In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 189 • 💬 17 • ⏱️ 10:14 • 10h ago
+👁️ 13K • 👍 826 • 💬 95 • ⏱️ 11:56 • 14h ago
 
 ---
 
@@ -274,37 +268,17 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 3K • 👍 240 • 💬 14 • ⏱️ 27:08 • 1d ago
+👁️ 3K • 👍 249 • 💬 14 • ⏱️ 27:08 • 1d ago
 
 ---
 
-**[MAJOR VOLATILITY INCOMING!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=olt2fgU1RGc)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 148 • 👍 9 • 💬 1 • ⏱️ 4:43 • 13h ago
-
----
-
-**[WHEN EVERYONE HATES BITCOIN &amp; ETH ITS TIME TO BUY](https://www.youtube.com/watch?v=n9SlojULsb0)**
-
-In today's video I break down Bitcoin, Ethereum, stocks, oil, gold, and silver, including the key levels, setups, and risk management ...
-
-📺 James Crypto Guru
-
-👁️ 2K • 👍 146 • 💬 14 • ⏱️ 8:45 • 1d ago
-
----
-
-**[Ethereum: Bear Market Until the End of the Year](https://www.youtube.com/watch?v=bb-bYsnXgZw)**
+**[Ethereum: Next Downside Targets](https://www.youtube.com/watch?v=I2nAm6vJNtE)**
 
 In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 270 • 💬 13 • ⏱️ 8:31 • 1d ago
+👁️ 3K • 👍 202 • 💬 17 • ⏱️ 10:14 • 13h ago
 
 ---
 
@@ -318,13 +292,43 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 ---
 
-**[Build Your Own ETH Arbitrage Bot with AI in 2026 — Step-by-Step Trading Guide 🤖](https://www.youtube.com/watch?v=ZQ0U0vgarKA)**
+**[This Telegram Bot Pays Real Ethereum - Here&#39;s Proof](https://www.youtube.com/watch?v=lwl_SPxijQQ)**
 
-Build Your Own ETH Arbitrage Bot with AI in 2026 — Step-by-Step Trading Guide ETH Platform: https://ethbot.trade/ You ...
+I tested how the Telegram + bot + Premium combo really works, and in this video I'll show where the money is, why some setups ...
+
+📺 Francesco Berlutti - FreeMan 
+
+👁️ 5K • 👍 502 • 💬 496 • ⏱️ 4:56 • 13h ago
+
+---
+
+**[MAJOR VOLATILITY INCOMING!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=olt2fgU1RGc)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 169 • 👍 9 • 💬 1 • ⏱️ 4:43 • 16h ago
+
+---
+
+**[Ethereum: Bear Market Until the End of the Year](https://www.youtube.com/watch?v=bb-bYsnXgZw)**
+
+In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
+
+📺 More Crypto Online
+
+👁️ 4K • 👍 270 • 💬 13 • ⏱️ 8:31 • 1d ago
+
+---
+
+**[Ethereum AI Trading Bot 2026 — I Let It Trade for 7 Days (Real Results + Full Setup)](https://www.youtube.com/watch?v=dxTUu_Ws09Y)**
+
+Ethereum AI Trading Bot 2026 — I Let It Trade for 7 Days (Real Results + Full Setup) Ethereum Trading bot: https://ethbot.trade/ ...
 
 📺 Logan Hayes
 
-👁️ 2K • 👍 27 • 💬 1 • ⏱️ 4:24 • 9h ago
+👁️ 3K • 👍 18 • 💬 15 • ⏱️ 4:24 • 1d ago
 
 ---
 
