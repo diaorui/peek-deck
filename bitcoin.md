@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-05T16:38:41.154729+00:00'
+updated: '2026-04-05T17:32:18.756219+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 05, 2026 at 16:38 UTC  
+**Last Updated:** April 05, 2026 at 17:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Besides Being Easter Sunday - Today is Also Satoshi Nakamoto's 51st Birthday - According To Satoshi's P2P Foundation Profile - Happy Birthday Satoshi! 🥳](https://www.reddit.com/r/Bitcoin/comments/1sd3e1m/besides_being_easter_sunday_today_is_also_satoshi/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 i sold my house, and i dont think shares is best to put money in due to the iran war. so i bought 5 btc, hopefully we get to see 120k peak soon :)
 
-5h ago
+6h ago
 
 ---
 
 **[Could it really be that simple?](https://www.reddit.com/r/Bitcoin/comments/1scx8vs/could_it_really_be_that_simple/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -101,7 +101,7 @@ i sold my house, and i dont think shares is best to put money in due to the iran
 
 To add to the title - At some point in 2009-2012, I used to leave my computer on overnight and while I was at school, mining bitcoin. I can't remember how long for, it could've been for a couple of weeks or potentially months. I only remember it was within this time period because it overlapped with me playing Runescape (lol), and I quit playing in 2012 for 10 years or more. I have sort of moved away from computers although in those days I was interested in gaming and beginner hacking. I was 15-17 and the hacking part is daft looking back at it. But what I'm really trying to say is I used to be fairly computer literate and now, not so much. I've been using macs for 12 years now. So no matter whether it was a week or several months I left it mining overnight etc. for, there is likely a decent amount of bitcoin on the harddrive. I don't have access to the email address I used in those years, I lost it about 5 years ago and seemingly can't recover it. ChatGPT tells me this likely isn't an issue as emails weren't used for sign up in the early days. More advice was to remove the hard drive and back it up on a second hard drive, before opening. Do I have a stab at this myself? How do I do this? Can I plug hard drive into my mac to transfer to a second hard drive? What if the hard drive was wiped? Would it be in any way possible to recover it? If I manage to locate the wallet, will I need to remember the password? I believe it was a long set of random numbers and letters so will never remember unless I also have it saved on the computer somewhere. What are my next steps? Thank you in advance.
 
-13h ago
+14h ago
 
 ---
 
@@ -109,7 +109,7 @@ To add to the title - At some point in 2009-2012, I used to leave my computer on
 
 Just threw on some low budget movie - or what I thought was a movie. Self Custody is a 30min propaganda commercial to scare people away from Self Custody. There's no other reason for this pile of crap to exist.
 
-10h ago
+11h ago
 
 ---
 
@@ -117,7 +117,7 @@ Just threw on some low budget movie - or what I thought was a movie. Self Custod
 
 like i put in a part of my pay check every time but I'll be using some of the money for a trip later this year. should i seperate the trip savings or put it all in btc.
 
-1h ago
+2h ago
 
 ---
 
@@ -125,7 +125,7 @@ like i put in a part of my pay check every time but I'll be using some of the mo
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-10h ago
+11h ago
 
 ---
 
@@ -133,7 +133,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Hi so i store all my crypto in trustwallet, but people recomending me so many different places you can store your crypto. i wanna know Whats actually the number one, non KYC please to store crypto?
 
-1h ago
+2h ago
 
 ---
 
@@ -147,7 +147,7 @@ BTC adoption snapshot using 4 Glassnode BTC metrics only. Current reading: - Ado
 
 **[The Simplest BITCOIN pattern 😱](https://www.reddit.com/r/Bitcoin/comments/1sd88pr/the_simplest_bitcoin_pattern/)**
 
-1m ago
+55m ago
 
 ---
 
@@ -159,7 +159,7 @@ BTC adoption snapshot using 4 Glassnode BTC metrics only. Current reading: - Ado
 
 Developers are considering ways to quantum-proof the world's oldest cryptocurrency as the threat of this computing moves beyond a hypothetical.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 12h ago
 
 The service will be unavailable in New York and Louisiana at launch, and fee structure and custody arrangements have not yet been disclosed.
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -191,7 +191,7 @@ CoinDesk • 1d ago
 
 Bitcoin's correlation with global central bank easing has turned strongly negative since 2024, suggesting BTC now leads rather than lags monetary policy signals.
 
-CoinDesk • 35m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -229,7 +229,7 @@ thestreet.com • 2d ago
 
 Rich Dad Poor Dad author Robert Kiyosaki has argued that the economic shifts set in motion more than five decades ago are now unfolding, advocating for Bitcoin and gold while warning against rising debt, inflation and retirement risks.In a Saturday post on X, Kiyosaki pointed to 1974 as a turning p…
 
-tradingview.com • 4h ago
+tradingview.com • 5h ago
 
 ---
 
@@ -329,7 +329,7 @@ Welcome back to Verified Investing! In today's urgent crypto market update, Chie
 
 📺 Gareth Soloway
 
-👁️ 82K • 👍 5K • 💬 484 • ⏱️ 11:47 • 23h ago
+👁️ 82K • 👍 5K • 💬 484 • ⏱️ 11:47 • 1d ago
 
 ---
 
@@ -359,7 +359,7 @@ Charles Schwab Just Released The Crypto Bulls!! BTC Conference 2026 - 'ALTCOINDA
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 2K • 💬 235 • ⏱️ 12:19 • 20h ago
+👁️ 29K • 👍 2K • 💬 235 • ⏱️ 12:19 • 21h ago
 
 ---
 
@@ -369,7 +369,7 @@ Coinbase just told Washington that Bitcoin doesn't need a tax exemption because 
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 906 • 💬 81 • ⏱️ 17:14 • 19h ago
+👁️ 12K • 👍 906 • 💬 81 • ⏱️ 17:14 • 20h ago
 
 ---
 
