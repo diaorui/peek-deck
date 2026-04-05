@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-05T08:44:35.937883+00:00'
+updated: '2026-04-05T09:39:45.878035+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 05, 2026 at 08:44 UTC  
+**Last Updated:** April 05, 2026 at 09:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,035.48
+### $2,039.73
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** +0.5%  
-**30d:** +3.4%  
-**90d:** -38.2%  
-**1y:** +29.1%  
+**24h:** -0.5%  
+**7d:** +0.9%  
+**30d:** +3.8%  
+**90d:** -37.9%  
+**1y:** +29.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Russia submitted a bill requiring residents to report all foreign crypto wallet activity to tax authorities from July 2026. Twenty million users. No exemptions. This is what state capture of crypto looks like.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/russia-bitcoin-ban-failed-wallet-registration-2026/) • 10h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/russia-bitcoin-ban-failed-wallet-registration-2026/) • 11h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Where is everyone trading/storing their crypto specifically eth? I currently am in crypto.com and having issues. I want to pull all my positions and move to another platform. I currently have WeBull and fidelity but don’t want to cram too much into fidelity as I like my eggs spread out. Which platform would you recommend?
 
-15h ago
+16h ago
 
 ---
 
@@ -170,7 +170,7 @@ The Motley Fool • 1d ago
 
 Confused by ethereum? Here’s a simple, beginner-friendly explanation of how it works, how to invest and whether it’s a good crypto investment, per ChatGPT.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -182,11 +182,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Standard Chartered Sees Bitcoin Exploding To $500K By 2030](https://www.tradingview.com/news/newsbtc:65d76911f094b:0-standard-chartered-sees-bitcoin-exploding-to-500k-by-2030/)**
+**[Bitcoin And Ethereum Adoption Gets A Boost From Schwab Launch](https://www.tradingview.com/news/newsbtc:3bff3e74e094b:0-bitcoin-and-ethereum-adoption-gets-a-boost-from-schwab-launch/)**
 
-Ethereum could outpace Bitcoin by a wide margin over the next four years — at least according to one of the most bullish forecasts to come out of traditional banking. That is the view from Geoff Kendrick, Global Head of Digital Assets Research at Standard Chartered, who laid out the projection in a…
+Adoption of Bitcoin and Ethereum is poised to take a significant step forward as Charles Schwab introduces direct trading for both assets on its platform. As one of the largest financial institutions in the world, managing trillions in client assets, Schwab’s entry into the crypto space represents…
 
-TradingView • 1d ago
+TradingView • 10h ago
 
 ---
 
@@ -198,11 +198,11 @@ Polymarket • 1d ago
 
 ---
 
-**[Ethereum Just Flashed a Rare Signal: What Happens Next?](https://coinpedia.org/price-analysis/ethereum-just-flashed-a-rare-signal-what-happens-next/)**
+**[Ethereum Foundation doubles staked ether, clearing two-thirds of 70,000 ETH target](https://www.theblock.co/post/396297/ethereum-foundation-staked-ethereum-clearing-two-thirds-70000-eth-target)**
 
-Ethereum is flashing a rare market signal, and it’s not showing up in price yet. While the broader crypto market remains stuck in consolidation, ETH
+The foundation’s latest staking allocation mirrors its biggest-ever single-day move and is a major step-up from its initial February deployment.
 
-coinpedia.org • 19h ago
+The Block • 1d ago
 
 ---
 
@@ -216,7 +216,7 @@ Crypto Briefing • 6h ago
 
 **[Ethereum Price Prediction Eyes $5,000 as Foundation Stakes $143M Into ETH While New Crypto Pepeto Nears Binance Listing](https://financefeeds.com/ethereum-price-prediction-eyes-5000-as-foundation-stakes-143m-into-eth-while-new-crypto-pepeto-nears-binance-listing/)**
 
-FinanceFeeds • 8h ago
+FinanceFeeds • 9h ago
 
 ---
 
@@ -238,7 +238,7 @@ Welcome back to Verified Investing! In today's urgent crypto market update, Chie
 
 📺 Gareth Soloway
 
-👁️ 70K • 👍 4K • 💬 430 • ⏱️ 11:47 • 15h ago
+👁️ 70K • 👍 4K • 💬 430 • ⏱️ 11:47 • 16h ago
 
 ---
 
@@ -248,7 +248,7 @@ Welcome back to Verified Investing! In today's urgent crypto market update, Chie
 
 📺 Stock Moe
 
-👁️ 13K • 👍 828 • 💬 95 • ⏱️ 11:56 • 20h ago
+👁️ 13K • 👍 828 • 💬 95 • ⏱️ 11:56 • 21h ago
 
 ---
 
@@ -268,7 +268,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 214 • 💬 18 • ⏱️ 10:14 • 19h ago
+👁️ 4K • 👍 214 • 💬 18 • ⏱️ 10:14 • 20h ago
 
 ---
 
@@ -288,7 +288,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 440 • 👍 58 • ⏱️ 6:21 • 4h ago
+👁️ 440 • 👍 58 • ⏱️ 6:21 • 5h ago
 
 ---
 
@@ -298,7 +298,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 202 • 👍 9 • 💬 1 • ⏱️ 4:43 • 22h ago
+👁️ 202 • 👍 9 • 💬 1 • ⏱️ 4:43 • 23h ago
 
 ---
 
