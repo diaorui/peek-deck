@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-05T06:42:23.181397+00:00'
+updated: '2026-04-05T07:55:21.242764+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 05, 2026 at 06:42 UTC  
+**Last Updated:** April 05, 2026 at 07:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 I was brought in to do some work on a pair of R-2000 Fanuc's a few years back and saw this on the safety fencing of the work cell.
 
-11h ago
+13h ago
 
 ---
 
 **[Robots are starting to enter one of the most sensitive environments we have.](https://www.reddit.com/r/robotics/comments/1scemxg/robots_are_starting_to_enter_one_of_the_most/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -50,7 +50,7 @@ I was brought in to do some work on a pair of R-2000 Fanuc's a few years back an
 
 Hey everyone, This was a short 2-day project exploring how a humanoid robot could fit into Muji’s minimal lifestyle philosophy. I focused on human-robot interaction — how the robot should feel, behave, and quietly exist in everyday spaces. Tried to keep everything simple, functional, and consistent with clear product constraints. Would love to hear your thoughts!
 
-8h ago
+9h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hey everyone, This was a short 2-day project exploring how a humanoid robot coul
 
 Researchers in the United States have developed air-powered artificial muscles that significantly enhance robots’ strength and mobility. This new technology enables robots to lift and carry loads many times their own weight more efficiently and with greater flexibility.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/artificial-muscles-robot-lift-more-weight) • 11h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/artificial-muscles-robot-lift-more-weight) • 12h ago
 
 ---
 
@@ -66,7 +66,7 @@ Researchers in the United States have developed air-powered artificial muscles t
 
 Hi! I’m working on bunch of tools for product design engineers and going to add them under meche.ai Currently I have: printadvisor.ai (material selection, print settings feedback) tolanalysis.com (tolerance stack up, Monte Carlo sim, Cpk analysis) dfmanalysis.com (DFM for CNC, sheet metal) pd.meche.ai (PD interview prep tool) cad.meche.ai (CAD viewer which is beautiful) Please check them and let me know if you have any thoughts/feedback 🙏 I’m planning to build more tools that I can put into use myself and for the community! So far I love building with Claude and Cursor. Feels like a new power got unlocked! 🔓
 
-🔗 [meche.ai](https://meche.ai) • 3h ago
+🔗 [meche.ai](https://meche.ai) • 4h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hi! I’m working on bunch of tools for product design engineers and going to ad
 
 I’ve open-sourced GS-DroneGym, a drone-first research stack for vision-language-action work. Main idea: instead of only using synthetic assets, it can render observations from 3D Gaussian Splatting scenes, so you can prototype aerial waypoint policies in environments much closer to real visual conditions. Current features: - 6-DOF quadrotor dynamics - waypoint controller for [x, y, z, yaw] - gsplat renderer with CPU fallback - navigation tasks: PointNav, ObjectNav, ObstacleSlalom, DynamicFollow, NarrowCorridor - live viewer with RGB / depth / top-down trajectory - shared trajectory schema + dataset/eval tooling - adapters for GS-DroneGym, LIBERO, and LeRobot-format datasets https://github.com/09Catho/gs-dronegym Please star the repo if you find ut useful I’d especially appreciate feedback on: - sim-to-real usefulness - dataset generation for aerial VLA training - benchmark design for drone navigation
 
-9h ago
+10h ago
 
 ---
 
@@ -82,7 +82,7 @@ I’ve open-sourced GS-DroneGym, a drone-first research stack for vision-languag
 
 https://www.youtube.com/@ALMA.GeoffreyAment Chapter 3 Footnote 1. Building an Actuator, a PID Control Loop, and an Ultrasonic Distance sensor to detect and not crash into the ceiling. This will be used in Chapter 3 Desk -- Stay tuned for more!
 
-12h ago
+13h ago
 
 ---
 
@@ -90,7 +90,7 @@ https://www.youtube.com/@ALMA.GeoffreyAment Chapter 3 Footnote 1. Building an Ac
 
 hi, i've been working on browser-based robotics simulation and wanted to get some feedback. as of now, one can control/simulate, unitree g1, h1, go1, bostons, franka panda arm, or create your own robot. we're working on few more things. 1. training module to train policies directly in browser based on behaviour cloning + RL. 2. rent a robot - to see your trainings in simulations vs on real robots in real world, 3. and much more https://reddit.com/link/1sc8t84/video/jc23l5jas5tg1/player
 
-17h ago
+18h ago
 
 ---
 
@@ -100,11 +100,11 @@ hi, i've been working on browser-based robotics simulation and wanted to get som
 
 ---
 
-**[Looking for early testers for a ROS 2 simulation testing CI tool](https://www.reddit.com/r/robotics/comments/1scewdn/looking_for_early_testers_for_a_ros_2_simulation/)**
+**[Rotation converter with proper frame visualization.](https://www.reddit.com/r/robotics/comments/1scbpdp/rotation_converter_with_proper_frame_visualization/)**
 
-I'm building a CI tool for ROS 2 simulation testing and looking for a few teams to try it out and give feedback. The idea: you connect your GitHub repo, every push runs your existing colcon tests inside a headless Gazebo container on cloud infra. You get a dashboard that shows pass/fail across runs and flags when a test that used to pass starts failing. If it works with colcon test locally, it works here. It's still in beta, and I'm mainly looking for feedback on whether this actually solves a real pain point or if I'm building something nobody needs. Currently supports ROS 2 + Gazebo, working on adding more simulators. If you're on ROS 2 and have simulation tests (or want to but CI for sim feels like too much work), DM me or drop a comment and I'll send you access.
+I couldn't find a tool that properly visualized frame transformations, so I built one, and I think it is useful for many others too. What it (currently) does: Degree/radian converter My main focus is robotics, so next up I'm looking to add ROS 2-oriented features — these should for example make it faster to figure out why your transforms aren't doing what you think they should. If you think a feature is missing or have something you'd love to see added, I'm open to requests. https://rotation.dev
 
-13h ago
+16h ago
 
 ---
 
@@ -112,17 +112,17 @@ I'm building a CI tool for ROS 2 simulation testing and looking for a few teams 
 
 ## Google News: "robotics"
 
-**[Prediction: AI Robotics Will Be a $375 Billion Industry and These 2 Stocks Will Lead It](https://www.fool.com/investing/2026/04/04/prediction-ai-robotics-will-be-a-375-billion-indus/)**
+**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqcLb9VZbntifBadZ0HbmMpREOKn3Ir76-j599mjGNuy1SulIxpFbAHg&gaa_ts=69d218d5&gaa_sig=Th-MBmzO3YNsrS0964QN1Edlr-ZQt1R5aWHZgNsr_bTplXYzPsVXySlt58KDz_t2E16ootCot4KuCOcFU_x75g%3D%3D)**
 
-Both of these companies are proven trailblazers.
-
-fool.com • 12h ago
+WSJ • 2d ago
 
 ---
 
-**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqf2LqORlYrc9HMml_ARLtLHlL-p6qW8aV0Wr-QNDWuzK2Ilax8Ux8sd&gaa_ts=69d207c0&gaa_sig=kDtFALiTaAKBHxOvEsRa0wWZ_1R6vD2S1zuF_vXnuJjaC6z0PSdZONvWPcJKocJj1seSaVVrwO8PU-6KAe23cQ%3D%3D)**
+**[Gill Pratt Says Humanoid Robots’ Moment Is Finally Here](https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa)**
 
-WSJ • 2d ago
+The architect of the DARPA Robotics Challenge explains how their brains have caught up
+
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -146,7 +146,7 @@ Crunchbase News • 2d ago
 
 This National Robotics Week, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world.
 
-NVIDIA Blog • 13h ago
+NVIDIA Blog • 14h ago
 
 ---
 
@@ -162,7 +162,7 @@ NASA (.gov) • 1d ago
 
 Six months in a nuclear reactor? This receiver chip can take it
 
-spectrum.ieee.org • 2d ago
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -176,7 +176,7 @@ Tech Xplore • 2d ago
 
 UC 1819 Innovation Hub hosts AI Robotics Summit. Various segments, such as aerospace and defense, healthcare, logistics and manufacturing will be on display.
 
-University of Cincinnati • 1d ago
+uc.edu • 1d ago
 
 ---
 
@@ -192,13 +192,13 @@ The Suffolk Times • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[The Moment that Reset Robotics](https://www.youtube.com/watch?v=2mrGMMmrVNE)**
+**[Shawn Ryan Tests a Real Humanoid Robot](https://www.youtube.com/watch?v=HWq9cFhTvvQ)**
 
-Welch Labs Book: https://www.welchlabs.com/resources/ai-book-ezrzm-msrmc Book & VLA Poster Bundle: ...
+Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In this clip, we break down how this robot sees, ...
 
-📺 Welch Labs
+📺 Shawn Ryan Show
 
-👁️ 30K • 👍 2K • 💬 101 • ⏱️ 35:02 • 13h ago
+👁️ 964K • 👍 36K • 💬 6K • ⏱️ 8:48 • 3d ago
 
 ---
 
@@ -208,7 +208,7 @@ Samsung is drawing significant attention with its new concept known as “Galaxy
 
 📺 Carros Show
 
-👁️ 6K • 👍 159 • 💬 8 • ⏱️ 8:25 • 6d ago
+👁️ 6K • 👍 160 • 💬 8 • ⏱️ 8:25 • 6d ago
 
 ---
 
@@ -218,7 +218,7 @@ Brett Adcock is a technology entrepreneur focused on building companies in robot
 
 📺 Shawn Ryan Show
 
-👁️ 510K • 👍 10K • 💬 3K • ⏱️ 2:57:09 • 5d ago
+👁️ 511K • 👍 10K • 💬 3K • ⏱️ 2:57:09 • 5d ago
 
 ---
 
@@ -258,7 +258,17 @@ rumi #huntrix #kpop #kpopdemonhunters #shorts #celebrity #trend #makeup #mira #z
 
 📺 Faces of Culture
 
-👁️ 4.8M • 👍 12K • 💬 8 • ⏱️ 0:04 • 3d ago
+👁️ 4.9M • 👍 12K • 💬 8 • ⏱️ 0:04 • 3d ago
+
+---
+
+**[The Moment that Reset Robotics](https://www.youtube.com/watch?v=2mrGMMmrVNE)**
+
+Welch Labs Book: https://www.welchlabs.com/resources/ai-book-ezrzm-msrmc Book & VLA Poster Bundle: ...
+
+📺 Welch Labs
+
+👁️ 35K • 👍 2K • 💬 111 • ⏱️ 35:02 • 14h ago
 
 ---
 
@@ -268,7 +278,7 @@ Round 3 of The 2026 NHRL Pro World Championship kicks off NOW! The path to crown
 
 📺 NHRL
 
-👁️ 9K • 👍 304 • 💬 3 • ⏱️ 4:56:01 • 7h ago
+👁️ 10K • 👍 308 • 💬 4 • ⏱️ 4:56:01 • 8h ago
 
 ---
 
@@ -278,17 +288,7 @@ Shawn Ryan comes into direct contact with a humanoid robot and the CEO who wants
 
 📺 Aaron Page 
 
-👁️ 51K • 👍 2K • 💬 486 • ⏱️ 13:41 • 2d ago
-
----
-
-**[They Built Hospitals Just For Robots 🤯](https://www.youtube.com/watch?v=D4GM222AqXA)**
-
-Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join Support the Shawn ...
-
-📺 Shawn Ryan Show
-
-👁️ 103K • 👍 2K • 💬 239 • ⏱️ 0:36 • 4d ago
+👁️ 52K • 👍 2K • 💬 487 • ⏱️ 13:41 • 2d ago
 
 ---
 

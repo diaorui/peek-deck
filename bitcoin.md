@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-05T06:42:23.172376+00:00'
+updated: '2026-04-05T07:55:21.233600+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 05, 2026 at 06:42 UTC  
+**Last Updated:** April 05, 2026 at 07:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,946.65
+### $66,749.61
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +0.0%  
-**30d:** -0.6%  
+**24h:** -0.4%  
+**7d:** -0.0%  
+**30d:** -0.7%  
 **90d:** -28.8%  
 **1y:** -14.8%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1342.94B
+**Market Cap:** $1336.03B
 Rank #1
 
 **Circulating Supply:** 20,011,590 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--46.8%
+-47.0%
 
 **All-Time Low:** $67.81
-+98875.1%
++98363.4%
 
 ---
 
@@ -81,7 +81,13 @@ Rank #1
 
 To add to the title - At some point in 2009-2012, I used to leave my computer on overnight and while I was at school, mining bitcoin. I can't remember how long for, it could've been for a couple of weeks or potentially months. I only remember it was within this time period because it overlapped with me playing Runescape (lol), and I quit playing in 2012 for 10 years or more. I have sort of moved away from computers although in those days I was interested in gaming and beginner hacking. I was 15-17 and the hacking part is daft looking back at it. But what I'm really trying to say is I used to be fairly computer literate and now, not so much. I've been using macs for 12 years now. So no matter whether it was a week or several months I left it mining overnight etc. for, there is likely a decent amount of bitcoin on the harddrive. I don't have access to the email address I used in those years, I lost it about 5 years ago and seemingly can't recover it. ChatGPT tells me this likely isn't an issue as emails weren't used for sign up in the early days. More advice was to remove the hard drive and back it up on a second hard drive, before opening. Do I have a stab at this myself? How do I do this? Can I plug hard drive into my mac to transfer to a second hard drive? What if the hard drive was wiped? Would it be in any way possible to recover it? If I manage to locate the wallet, will I need to remember the password? I believe it was a long set of random numbers and letters so will never remember unless I also have it saved on the computer somewhere. What are my next steps? Thank you in advance.
 
-3h ago
+4h ago
+
+---
+
+**[Could it really be that simple?](https://www.reddit.com/r/Bitcoin/comments/1scx8vs/could_it_really_be_that_simple/)**
+
+34m ago
 
 ---
 
@@ -89,15 +95,15 @@ To add to the title - At some point in 2009-2012, I used to leave my computer on
 
 Jack Dorsey teased a potential revival of the Bitcoin faucet tied to “Bitcoin Day,” echoing Gavin Andresen’s 2010 giveaway model.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/jack-dorsey-reveals-bitcoin-faucet) • 26m ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/jack-dorsey-reveals-bitcoin-faucet) • 1h ago
 
 ---
 
-**[Amazon Prime Propaganda against Self Custody](https://www.reddit.com/r/Bitcoin/comments/1scvhuq/amazon_prime_propaganda_against_self_custody/)**
+**[Self Custody 2026](https://www.reddit.com/r/Bitcoin/comments/1scvioi/self_custody_2026/)**
 
 Just threw on some low budget movie - or what I thought was a movie. Self Custody is a 30min propaganda commercial to scare people away from Self Custody. There's no other reason for this pile of crap to exist.
 
-1h ago
+2h ago
 
 ---
 
@@ -105,7 +111,7 @@ Just threw on some low budget movie - or what I thought was a movie. Self Custod
 
 I want a way which is easier for them to check price and buy more. They aren't tech savvy. confused between CEX and ETF
 
-3h ago
+4h ago
 
 ---
 
@@ -113,13 +119,13 @@ I want a way which is easier for them to check price and buy more. They aren't t
 
 Hi, Whats your perspective on this?
 
-16h ago
+17h ago
 
 ---
 
-**[Self Custody 2026](https://www.reddit.com/r/Bitcoin/comments/1scvioi/self_custody_2026/)**
+**[Daily Discussion, April 05, 2026](https://www.reddit.com/r/Bitcoin/comments/1scvx6u/daily_discussion_april_05_2026/)**
 
-Just threw on some low budget movie - or what I thought was a movie. Self Custody is a 30min propaganda commercial to scare people away from Self Custody. There's no other reason for this pile of crap to exist.
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
 1h ago
 
@@ -129,7 +135,7 @@ Just threw on some low budget movie - or what I thought was a movie. Self Custod
 
 Hi, I don't have a bank account and there isn't any ATMs around me I can use to buy cryptocurrencies. I bought a vanilla card online to buy crypto. How can I do so? Thank you.
 
-18h ago
+19h ago
 
 ---
 
@@ -141,19 +147,11 @@ Hi my father had an Android S20 FE and we cannot figure out his password to get 
 
 ---
 
-**[Daily Discussion, April 05, 2026](https://www.reddit.com/r/Bitcoin/comments/1scvx6u/daily_discussion_april_05_2026/)**
+**[Bitcoin Sports](https://www.reddit.com/r/Bitcoin/comments/1scorlg/bitcoin_sports/)**
 
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+Bitcoin Sports℠ logos
 
-39m ago
-
----
-
-**[The superior way to hold Bitcoin in my opinion](https://www.reddit.com/r/Bitcoin/comments/1scee93/the_superior_way_to_hold_bitcoin_in_my_opinion/)**
-
-In my opinion Bitcoin offers various benefits depending on how you use it. For example, the most basic level is holding Bitcoin through an ETF. You can't leave the country with your Bitcoin in just 12 memorized words, it's the most basic way to hold Bitcoin, only using it for the NGU. It's slightly better if you hold Bitcoin on an exchange, at least you could send the BTC to someone else as money. The next level is to hold it in self-custody with KYC. At least you no longer have the risk of the exchange going bankrupt or your accounts being blocked, but you're a slave to the government that knows about your BTC. And the ultimate, best way is to hold it in self-custody without KYC. This is where all the benefits of BTC are unlocked, the most powerful way to fight the system. If you're at the initial levels, I advise you to gradually work your way up to the higher level Bitcoin holding way.
-
-13h ago
+7h ago
 
 ---
 
@@ -165,31 +163,7 @@ In my opinion Bitcoin offers various benefits depending on how you use it. For e
 
 The service will be unavailable in New York and Louisiana at launch, and fee structure and custody arrangements have not yet been disclosed.
 
-The Block • 7h ago
-
----
-
-**[Bitcoin whales are selling the most aggressively on record while ETFs and Strategy keep buying](https://www.coindesk.com/markets/2026/04/03/five-data-sources-say-the-same-thing-about-bitcoin-market-it-s-thinning-from-the-inside)**
-
-CryptoQuant data shows overall bitcoin demand is contracting at -63,000 BTC per month even as institutional buyers accelerate purchases, with large holders distributing nearly 188,000 BTC over the past year.
-
-CoinDesk • 19h ago
-
----
-
-**[FBI's New Lead in Nancy Guthrie Case Involves Traceable Bitcoin Ransom Demands](https://www.aol.com/fbis-lead-nancy-guthrie-case-152452887.html)**
-
-Guthrie, 84, has been missing since Feb. 1, and despite authorities receiving thousands of tips, her disappearance remains a mystery.
-
-AOL.com • 1h ago
-
----
-
-**[Bitcoin bearish social chatter reaches 5-week high: Santiment](https://www.tradingview.com/news/cointelegraph:3236fe9bb094b:0-bitcoin-bearish-social-chatter-reaches-5-week-high-santiment/)**
-
-Social media bearishness around Bitcoin has reached its highest level since the end of February, according to crypto sentiment platform Santiment.“FUD has crept back in with the community showing a key lack of optimism,” Santiment said in an X post on Saturday, adding that it is “usually a common i…
-
-TradingView • 2h ago
+The Block • 9h ago
 
 ---
 
@@ -197,7 +171,15 @@ TradingView • 2h ago
 
 Developers are considering ways to quantum-proof the world's oldest cryptocurrency as the threat of this computing moves beyond a hypothetical.
 
-CoinDesk • 2h ago
+CoinDesk • 4h ago
+
+---
+
+**[FBI's New Lead in Nancy Guthrie Case Involves Traceable Bitcoin Ransom Demands](https://www.aol.com/fbis-lead-nancy-guthrie-case-152452887.html)**
+
+Guthrie, 84, has been missing since Feb. 1, and despite authorities receiving thousands of tips, her disappearance remains a mystery.
+
+AOL.com • 2h ago
 
 ---
 
@@ -219,23 +201,37 @@ thestreet.com • 2d ago
 
 **[‘You Have Until 2029’—Urgent Musk Bitcoin Warning Spurs Coinbase CEO Flip As Price Crash Fears Swirl](https://www.forbes.com/sites/digital-assets/2026/04/04/you-have-until-2029-urgent-elon-musk-bitcoin-warning-suddenly-triggers-price-crash-fears/)**
 
-Forbes • 18h ago
+Forbes • 19h ago
 
 ---
 
-**[Current price of Bitcoin for April 3, 2026](https://fortune.com/article/price-of-bitcoin-04-03-2026/)**
+**[Bitcoin Stalls At $66,000 As Market Quietly Prepares For A Downside Draw](https://www.tradingview.com/news/newsbtc:843b9be1f094b:0-bitcoin-stalls-at-66-000-as-market-quietly-prepares-for-a-downside-draw/)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+Bitcoin is showing signs of hesitation at the $66,000 level, with price action slipping into a tight, choppy range. Momentum on the upside continues to fade, and each attempt to push higher is met with weaker follow-through. Beneath the surface, liquidity remains stacked, suggesting the market may…
 
-Fortune • 1d ago
+TradingView • 6h ago
 
 ---
 
-**[Bitcoin Miner Riot Platforms Sells Over $250 Million Worth of BTC](https://decrypt.co/363255/bitcoin-miner-riot-platforms-sells-250-million-btc)**
+**[Charles Schwab Is Gearing Up to Offer Bitcoin, Ethereum Spot Trading](https://decrypt.co/363336/charles-schwab-bitcoin-ethereum-spot-trading)**
 
-Publicly traded Bitcoin miner Riot Platforms sold another $250 million worth of BTC as it strategically pivots into AI.
+Financial giant Charles Schwab is set to launch spot buying of Bitcoin and Ethereum by the end of the quarter, the firm said Friday.
 
 Decrypt • 1d ago
+
+---
+
+**[Bitcoin Tumbles With Stocks as Trump Signals Harder Iran Strikes](https://www.bloomberg.com/news/articles/2026-04-02/bitcoin-tumbles-with-stocks-as-trump-signals-harder-iran-strikes)**
+
+Bloomberg.com • 2d ago
+
+---
+
+**[Analysts: Bitcoin Consolidation May Signal Bigger Breakout Ahead](https://bitbo.io/news/bitcoin-consolidation-breakout-analyst/)**
+
+Analyst Michael van de Poppe says Bitcoin's prolonged stagnation below $70,000 could lead to a heavier breakout, while other analysts warn of a potential deeper bear market.
+
+bitbo.io • 13h ago
 
 ---
 
@@ -319,13 +315,13 @@ Test your prediction skills against historical data. Draw your forecast and see 
 
 ## YouTube Videos: "bitcoin"
 
-**[What’s Actually Happening To Bitcoin &amp; The Economy Right Now](https://www.youtube.com/watch?v=S2ziezeoK4E)**
+**[Did Larry Fink’s SHOCKING WARNING Signal the Next Bitcoin Bull Run?](https://www.youtube.com/watch?v=RDhwIqV0csw)**
 
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+Markets cracked, oil surged, Bitcoin dipped, and Larry Fink is warning that a prolonged geopolitical shock could push the world ...
 
-📺 Anthony Pompliano
+📺 Simply Bitcoin
 
-👁️ 37K • 👍 2K • 💬 21 • ⏱️ 45:08 • 17h ago
+👁️ 20K • 👍 1K • 💬 108 • ⏱️ 14:11 • 1d ago
 
 ---
 
@@ -335,17 +331,7 @@ Welcome back to Verified Investing! In today's urgent crypto market update, Chie
 
 📺 Gareth Soloway
 
-👁️ 64K • 👍 4K • 💬 464 • ⏱️ 11:47 • 13h ago
-
----
-
-**[Did Larry Fink’s SHOCKING WARNING Signal the Next Bitcoin Bull Run?](https://www.youtube.com/watch?v=RDhwIqV0csw)**
-
-Markets cracked, oil surged, Bitcoin dipped, and Larry Fink is warning that a prolonged geopolitical shock could push the world ...
-
-📺 Simply Bitcoin
-
-👁️ 19K • 👍 1K • 💬 104 • ⏱️ 14:11 • 1d ago
+👁️ 70K • 👍 4K • 💬 430 • ⏱️ 11:47 • 14h ago
 
 ---
 
@@ -359,31 +345,33 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEE
 
 ---
 
-**[Bitcoin Holders, Here We Go Again!](https://www.youtube.com/watch?v=K-toaTQ2p5o)**
+**[What’s Actually Happening To Bitcoin &amp; The Economy Right Now](https://www.youtube.com/watch?v=S2ziezeoK4E)**
 
-Welcome back! More Iran announcements over the weekend but Bitcoin is holding up well. Ledn Loans: Check out Ledn: ...
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
-📺 Aaron Bennett
+📺 Anthony Pompliano
 
-👁️ 6K • 👍 379 • 💬 183 • ⏱️ 6:51 • 1d ago
-
----
-
-**[What Happens to Bitcoin If the Iran War Escalates? | James Lavish Weighs In](https://www.youtube.com/watch?v=MX8To9K4pLI)**
-
-What happens to Bitcoin if the Iran conflict escalates? In this clip, James Lavish breaks down a potential “black swan” scenario ...
-
-📺 Cointelegraph
-
-👁️ 620 • 👍 4 • ⏱️ 0:34 • 5h ago
+👁️ 39K • 👍 2K • 💬 102 • ⏱️ 45:08 • 18h ago
 
 ---
 
-**[Bitcoin At Quantum Risk From Google](https://www.youtube.com/watch?v=Jc-HDOxUVco)**
+**[Charles Schwab Just Released The Crypto Bulls!!](https://www.youtube.com/watch?v=xYP0tyBJxIg)**
 
-📺 UFD Tech
+Charles Schwab Just Released The Crypto Bulls!! BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc ...
 
-👁️ 117K • 👍 6K • 💬 248 • ⏱️ 0:49 • 15h ago
+📺 Altcoin Daily
+
+👁️ 23K • 👍 2K • 💬 165 • ⏱️ 12:19 • 12h ago
+
+---
+
+**[CRYPTO BETRAYAL!! Did Coinbase Stab Bitcoin in the Back?](https://www.youtube.com/watch?v=C2jqAbbah_o)**
+
+Coinbase just told Washington that Bitcoin doesn't need a tax exemption because "nobody uses Bitcoin for transactions.
+
+📺 Simply Bitcoin
+
+👁️ 10K • 👍 773 • 💬 66 • ⏱️ 17:14 • 10h ago
 
 ---
 
@@ -393,27 +381,37 @@ The risk models that say when to accumulate or exit HERE. Free trial https://app
 
 📺 Dan Gambardello
 
-👁️ 10K • 👍 663 • 💬 278 • ⏱️ 12:33 • 17h ago
+👁️ 11K • 👍 697 • 💬 279 • ⏱️ 12:33 • 18h ago
 
 ---
 
-**[I Was Wrong on Bitcoin (4 Year Cycle)](https://www.youtube.com/watch?v=Wr5JUmUuxrY)**
+**[What Happens to Bitcoin If the Iran War Escalates? | James Lavish Weighs In](https://www.youtube.com/watch?v=MX8To9K4pLI)**
 
-The Bitcoin 4 year cycle somehow continues... here's what's next BITUNIX TRADE THE TOP COINS (available everywhere) ...
+What happens to Bitcoin if the Iran conflict escalates? In this clip, James Lavish breaks down a potential “black swan” scenario ...
 
-📺 Lark Davis
+📺 Cointelegraph
 
-👁️ 16K • 👍 808 • 💬 216 • ⏱️ 12:12 • 17h ago
+👁️ 854 • 👍 4 • ⏱️ 0:34 • 7h ago
 
 ---
 
-**[Bitcoin to Drop Another 30% against Gold?](https://www.youtube.com/watch?v=Xsq6jK4BVzE)**
+**[Bitcoin Holders, Here We Go Again!](https://www.youtube.com/watch?v=K-toaTQ2p5o)**
 
-Bitcoin has already shown relative weakness in this cycle, but the bigger risk may still lie ahead. In this video, we explore the ...
+Welcome back! More Iran announcements over the weekend but Bitcoin is holding up well. Ledn Loans: Check out Ledn: ...
 
-📺 Benjamin Cowen
+📺 Aaron Bennett
 
-👁️ 56K • 👍 3K • 💬 160 • ⏱️ 6:29 • 1d ago
+👁️ 6K • 👍 387 • 💬 184 • ⏱️ 6:51 • 1d ago
+
+---
+
+**[Bitcoin Warning: Bear Flag Forming 💀](https://www.youtube.com/watch?v=Bm6xRrc-TFI)**
+
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Buy, Sell, Trade on Weex ($500 Bonus): ...
+
+📺 Altcoin Daily
+
+👁️ 9K • 👍 254 • 💬 150 • ⏱️ 1:07 • 1d ago
 
 ---
 
