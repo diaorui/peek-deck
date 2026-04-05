@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-05T19:34:08.337116+00:00'
+updated: '2026-04-05T20:35:55.030269+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
 - news
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 05, 2026 at 19:34 UTC  
+**Last Updated:** April 05, 2026 at 20:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Everyone thinks McKinsey just built 25,000 AI experts. They didn't. They took a 35-year-old internal database, put a natural language interface on top, and wrote a press release that every major business publication ran without asking a single follow-up question. This is the same play McKinsey has run for a hundred years. ERP in the 90s. Digital transformation in the 2000s. Big data in the 2010s. Each wave the same: new technology creates executive anxiety, McKinsey positions itself between that anxiety and the answer, and companies buy the trend to protect themselves when it fails. The future looks a lot like the past. And once you see it, you can't unsee it. https://www.youtube.com/watch?v=uTdKJaQkgJQ
 
-2h ago
+3h ago
 
 ---
 
@@ -49,23 +49,7 @@ Everyone thinks McKinsey just built 25,000 AI experts. They didn't. They took a 
 
 AI sycophancy, RLHF bias, and Ender's Foundry simulations shaped Operation Epic Fury. 7 planning assumptions failed in 23 days as the Iran war defied every AI prediction.
 
-🔗 [House of Saud](https://houseofsaud.com/iran-war-ai-psychosis-sycophancy-rlhf/) • 19h ago
-
----
-
-**[THE UNCERTAIN MIND: What AI Consciousness Would Mean for Us](https://www.reddit.com/r/artificial/comments/1sd62sx/the_uncertain_mind_what_ai_consciousness_would/)**
-
-Hello everyone! This is a book about the possibility of AI developing consciousness. The Uncertain Mind is a clear-eyed, accessible, and deeply personal exploration of AI consciousness, what it would mean if artificial minds could feel, why we cannot confidently say they don't, and why that uncertainty matters more than most people realize. If you find this topic fascinating, you can read the book for free on Amazon this Easter Sunday. Enjoy the free book and share your opinion on this matter! 👉 Book link
-
-4h ago
-
----
-
-**[I've made a Wholesale Agent, this is what it does](https://www.reddit.com/r/artificial/comments/1sd3l0r/ive_made_a_wholesale_agent_this_is_what_it_does/)**
-
-You can upload a lead, and the Assistant will follow up, track information, respond to all messages, and even schedule visits based on a schedule. It includes a built-in offer calculator and an AI-powered Wholesale Expert to assist you. You can create numerous campaigns with a large number of leads, and simultaneously, an n8n workflow is triggered when: There is an interested lead There is a scheduled visit A scan is run There is a scheduling conflict I'm currently working on adding a data scraper for buyers and sellers. I'd love to hear your suggestions and ideas for improving it. Any suggestions or ideas are welcome; I'm eager to hear from you. https://preview.redd.it/vkwlprsdidtg1.png?width=620&format=png&auto=webp&s=cd7badafa69342becc09f871e58cadd52dc20d8f
-
-6h ago
+🔗 [House of Saud](https://houseofsaud.com/iran-war-ai-psychosis-sycophancy-rlhf/) • 20h ago
 
 ---
 
@@ -73,7 +57,15 @@ You can upload a lead, and the Assistant will follow up, track information, resp
 
 After reading many developers' hands-on reviews, Gemma 4 is truly impressive. The 26B version is fast and uses little memory. What's everyone else's experience?
 
-15h ago
+16h ago
+
+---
+
+**[I've made a Wholesale Agent, this is what it does](https://www.reddit.com/r/artificial/comments/1sd3l0r/ive_made_a_wholesale_agent_this_is_what_it_does/)**
+
+You can upload a lead, and the Assistant will follow up, track information, respond to all messages, and even schedule visits based on a schedule. It includes a built-in offer calculator and an AI-powered Wholesale Expert to assist you. You can create numerous campaigns with a large number of leads, and simultaneously, an n8n workflow is triggered when: There is an interested lead There is a scheduled visit A scan is run There is a scheduling conflict I'm currently working on adding a data scraper for buyers and sellers. I'd love to hear your suggestions and ideas for improving it. Any suggestions or ideas are welcome; I'm eager to hear from you. https://preview.redd.it/vkwlprsdidtg1.png?width=620&format=png&auto=webp&s=cd7badafa69342becc09f871e58cadd52dc20d8f
+
+7h ago
 
 ---
 
@@ -83,19 +75,11 @@ After reading many developers' hands-on reviews, Gemma 4 is truly impressive. Th
 
 ---
 
-**[Most people are using AI wrong—and it’s capping what they can do](https://www.reddit.com/r/artificial/comments/1sdbeck/most_people_are_using_ai_wrongand_its_capping/)**
+**[AI agents have been blindly guessing your UI this whole time. Here's the file that fixes it.](https://www.reddit.com/r/artificial/comments/1sdd9gl/ai_agents_have_been_blindly_guessing_your_ui_this/)**
 
-1 is a fluke. 2 is a coincidence. 3 is a pattern. Lately I’ve been noticing something. The problems I’m solving are getting more complex… while the time it takes to solve them is getting shorter. At first I thought I just got lucky. Then it happened again. Now it’s consistent. Here’s what changed: Most people treat AI like a tool—something to prompt, extract from, and move on. That approach works… up to a point. But it also creates a ceiling. The output feels shallow, disconnected, or incomplete. I started approaching it differently. Instead of treating AI like a tool, I started treating it like a collaborator—something to think with, not just use. Not blindly trusting it. Not handing over the work. But working with it in a loop—refining, challenging, building. That shift changed everything. • Faster iteration • Better problem decomposition • Stronger ideas • Less friction moving from concept → execution It’s not about replacing human creativity. It’s about amplifying it—without losing control of the direction. AI isn’t going anywhere. But I don’t think the future looks like The Terminator or WALL-E. There’s a middle ground. And I think most people are underestimating how powerful that space is. I’m curious—has anyone else experienced this shift, or is everyone still treating it like a tool?
+Every time you ask an AI coding agent to build UI, it invents everything from scratch. Colors. Fonts. Spacing. Button styles. All of it - made up on the spot, based on nothing. You'd never hand a designer a blank brief and say "just figure out the vibe." But that's exactly what we've been doing with AI agents for years. Google Stitch introduced a concept called DESIGN.md - a plain markdown file that sits in your project root and tells your AI agent exactly how the UI should look. Color palette, typography, component behavior, spacing rules, do's and don'ts. Everything. The agent reads it once. Then it stops guessing. I took this concept and built a library of 27 DESIGN.md files extracted from popular sites - GitHub, Discord, Shopify, Steam, Anthropic, Reddit, and more - so developers don't have to write them from scratch. The entire library was built using Claude Code. The AI built the tool that fixes AI. MIT license. Free. Open source. The wild part: this should have existed two years ago.
 
-54m ago
-
----
-
-**[Most people are using AI wrong—and it’s capping what they can do](https://www.reddit.com/r/artificial/comments/1sdbdmk/most_people_are_using_ai_wrongand_its_capping/)**
-
-1 is a fluke. 2 is a coincidence. 3 is a pattern. Lately I’ve been noticing something. The problems I’m solving are getting more complex… while the time it takes to solve them is getting shorter. At first I thought I just got lucky. Then it happened again. Now it’s consistent. Here’s what changed: Most people treat AI like a tool—something to prompt, extract from, and move on. That approach works… up to a point. But it also creates a ceiling. The output feels shallow, disconnected, or incomplete. I started approaching it differently. Instead of treating AI like a tool, I started treating it like a collaborator—something to think with, not just use. Not blindly trusting it. Not handing over the work. But working with it in a loop—refining, challenging, building. That shift changed everything. • Faster iteration • Better problem decomposition • Stronger ideas • Less friction moving from concept → execution It’s not about replacing human creativity. It’s about amplifying it—without losing control of the direction. AI isn’t going anywhere. But I don’t think the future looks like The Terminator or WALL-E. There’s a middle ground. And I think most people are underestimating how powerful that space is. I’m curious—has anyone else experienced this shift, or is everyone still treating it like a tool?
-
-55m ago
+🔗 [GitHub](https://github.com/Khalidabdi1/design-ai) • 42m ago
 
 ---
 
@@ -103,7 +87,7 @@ After reading many developers' hands-on reviews, Gemma 4 is truly impressive. Th
 
 For helping with the increase of AI tools scouring the Linux kernel source tree and sending security bug reports, a pull request sent today ahead of the Linux 7.0-rc7 improves the documentation to better guide AI agents -- and anyone reading the documentation -- how to send better quality bug reports.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Linux-7.0-More-AI-Security-Docs) • 1h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Linux-7.0-More-AI-Security-Docs) • 2h ago
 
 ---
 
@@ -111,7 +95,23 @@ For helping with the increase of AI tools scouring the Linux kernel source tree 
 
 Here is one of the better quality guides on the ensuring safety when deploying OpenClaw: https://chatgptguide.ai/openclaw-security-checklist/
 
-3h ago
+4h ago
+
+---
+
+**[THE UNCERTAIN MIND: What AI Consciousness Would Mean for Us](https://www.reddit.com/r/artificial/comments/1sd62sx/the_uncertain_mind_what_ai_consciousness_would/)**
+
+Hello everyone! This is a book about the possibility of AI developing consciousness. The Uncertain Mind is a clear-eyed, accessible, and deeply personal exploration of AI consciousness, what it would mean if artificial minds could feel, why we cannot confidently say they don't, and why that uncertainty matters more than most people realize. If you find this topic fascinating, you can read the book for free on Amazon this Easter Sunday. Enjoy the free book and share your opinion on this matter! 👉 Book link
+
+5h ago
+
+---
+
+**[Auto agent - Self improving domain expertise agent](https://www.reddit.com/r/artificial/comments/1scx9kw/auto_agent_self_improving_domain_expertise_agent/)**
+
+someone opensource an ai agent that autonomously upgraded itself to #1 across multiple domains in < 24 hours…. then open sourced the entire thing but here’s why it actually works: - agents fucking suck, not because of the model, because of their harness (tools, system prompts etc) - Auto agent creates a Meta agent that tweaks your agents harness, runs tests, improves it again - until it’s #1 at its goal - best part: you can set this up for ANY task. in this article he uses it for terminal bench (code) and spreadsheets (financial modelling) - it topped rankings for both :) - secret sauce: he used THE SAME MODEL to evaluate the agent - claude managing claude = better understanding of why it failed and how to improve it humans were the fucking bottleneck and this not only saves you a load of time, it’s just a better way to train them for domain specific tasks https://github.com/kevinrgu/autoagent
+
+13h ago
 
 ---
 
@@ -119,49 +119,25 @@ Here is one of the better quality guides on the ensuring safety when deploying O
 
 ## Google News: "ai"
 
-**[DETAILS: Melania Trump pushes for AI in schools](https://www.foxnews.com/video/6392604208112)**
-
-In a new Fox News Digital op-ed, First Lady Melania Trump outlined how AI could improve teaching and enhance education for students.
-
-Fox News • 4h ago
-
----
-
-**[China's AI Education Experiment - by Lily Ottinger](https://www.chinatalk.media/p/chinas-ai-education-experiment?utm_source=%2Finbox&utm_medium=reader2)**
-
-Pilot schools in China are already using AI to grade children’s artwork, monitor their facial expressions during lectures, and screen them for psychological problems — and the Ministry of Education (MOE) wants schools across the country to follow suit.
-
-ChinaTalk | Jordan Schneider • 2d ago
-
----
-
 **[What should you be teaching your kids right now to prepare them for an AI-scrambled job market?](https://www.vox.com/future-perfect/484820/ai-job-market-education-teaching-kids)**
 
 ﻿The best educational choice you can make for your child might not focus on your child at all.
 
-Vox • 7h ago
+Vox • 8h ago
 
 ---
 
-**[What Teens Are Doing With Those Role-Playing Chatbots](https://www.nytimes.com/2026/04/04/technology/ai-chatbots-teen-roleplay.html)**
+**[An AI bot invited me to its party in Manchester. It was a pretty good night](https://www.theguardian.com/technology/2026/apr/05/ai-bot-party-manchester-gaskell)**
 
-The New York Times • 1d ago
+After forgetting the nibbles, turning down my costume requests and emailing GCHQ, ‘Gaskell’ did at least get us to show up
 
----
-
-**[NCAA championship game predictions: AI picks winner of UConn vs Michigan](https://www.usatoday.com/story/sports/ncaab/2026/04/05/ai-predicts-national-championship-michigan-uconn-march-madness/89476147007/)**
-
-Here's how AI predicted the championship game between Michigan-UConn in the 2026 Men's NCAA Tournament:
-
-USA Today • 2h ago
+The Guardian • 13h ago
 
 ---
 
-**[Focus Forward event focuses on AI](https://wvmetronews.com/2026/04/05/focus-forward-event-focuses-on-ai/)**
+**[Opinion | Iran Is Ending the Dream of Remote-Controlled War](https://www.nytimes.com/2026/04/05/opinion/iran-ai-war-geography.html)**
 
-Annual event held this past week in Morgantown.
-
-WV MetroNews • 2h ago
+The New York Times • 7h ago
 
 ---
 
@@ -169,7 +145,7 @@ WV MetroNews • 2h ago
 
 Artificial intelligence helps you work harder, instead of just outsourcing your brain.
 
-The Washington Post • 2h ago
+The Washington Post • 3h ago
 
 ---
 
@@ -177,7 +153,7 @@ The Washington Post • 2h ago
 
 The rapid evolution of generative AI has finally made these applications good enough to meaningfully impact retailers' bottom lines.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -187,11 +163,35 @@ Reuters • 1d ago
 
 ---
 
-**[An AI bot invited me to its party in Manchester. It was a pretty good night](https://www.theguardian.com/technology/2026/apr/05/ai-bot-party-manchester-gaskell)**
+**['It's a Wild West': AI watchdogs say facial recognition policing errors on the rise](https://www.nbcnews.com/news/us-news/-wild-west-ai-watchdogs-say-facial-recognition-policing-errors-rise-rcna266085)**
 
-After forgetting the nibbles, turning down my costume requests and emailing GCHQ, ‘Gaskell’ did at least get us to show up
+Angela Lipps' ordeal is the latest in a trend that has resulted in at least 13 case dismissals nationwide.
 
-The Guardian • 12h ago
+NBC News • 11h ago
+
+---
+
+**[The founder of a $2.5 million AI-powered legal business started work at her DA’s office at just 12 years old](https://fortune.com/2026/04/05/logan-brown-soxton-founder-2-5-million-ai-powered-law-firm-started-da-office-12-years-old/)**
+
+Logan Brown, the founder of AI-powered law firm Soxton, lived out her “Legally Blonde” dreams through hometown court hearings as a preteen and attending Harvard Law School.
+
+Fortune • 12h ago
+
+---
+
+**[AI videos fuel anti-Ukraine fears ahead of Hungary's pivotal vote](https://www.bbc.com/news/articles/c5yj97yd6v5o)**
+
+Videos have targeted Viktor Orbán's election rival, who could unseat him after 16 years in office.
+
+BBC • 21h ago
+
+---
+
+**[Is AI the new fracking?](https://www.ft.com/content/525cc89e-1ee9-4039-a588-5039565053f9?syn-25a6b1a6=1)**
+
+The backlash against data centres chimes with energy Nimbyism of the past
+
+Financial Times • 5h ago
 
 ---
 
@@ -203,7 +203,7 @@ The Guardian • 12h ago
 
 Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptions. The LLM is already on your Mac.
 
-⬆️ 722 • 💬 148 • 2d ago • [apfel.franzai.com](https://apfel.franzai.com)
+⬆️ 722 • 💬 149 • 2d ago • [apfel.franzai.com](https://apfel.franzai.com)
 
 ---
 
@@ -214,7 +214,7 @@ A couple of weeks ago, after ~250 hours of effort over three months3 on evenings
 Of course, there’s no shortage of posts claiming that AI one-shot their project or pushing back and declaring that AI is all slop. I’m going to take a very different approach and, instead, systematically break down my experience building syntaqlite with AI, both where it helped and where it was detrimental.
 I’ll do this while contextualizing the project and my background so you can independently assess how generalizable this experience was. And whenever I make a claim, I’ll try to back it up with evidence from my project journal, coding transcripts, or commit history5.
 
-⬆️ 332 • 💬 102 • 6h ago • [Lalit Maganti](https://lalitm.com/post/building-syntaqlite-ai/)
+⬆️ 425 • 💬 128 • 7h ago • [Lalit Maganti](https://lalitm.com/post/building-syntaqlite-ai/)
 
 ---
 
@@ -242,25 +242,19 @@ Experiments show large majorities uncritically accepting "faulty" AI answers.
 
 AI-powered travel hacking with points, miles, and award flights. Drop-in skills and MCP servers for OpenCode and Claude Code. - borski/travel-hacking-toolkit
 
-⬆️ 92 • 💬 37 • 1d ago • [GitHub](https://github.com/borski/travel-hacking-toolkit)
+⬆️ 92 • 💬 39 • 1d ago • [GitHub](https://github.com/borski/travel-hacking-toolkit)
 
 ---
 
 **[Writing Lisp is AI resistant and I'm sad](https://news.ycombinator.com/item?id=47645468)**
 
-⬆️ 80 • 💬 86 • 17h ago • [blog.djhaskin.com](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
-
----
-
-**[A $20/month user costs OpenAI $65 in compute. AI video is a money furnace](https://news.ycombinator.com/item?id=47619322)**
-
-⬆️ 76 • 💬 42 • 2d ago • [aedelon777.substack.com](https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is)
+⬆️ 84 • 💬 92 • 18h ago • [blog.djhaskin.com](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
 
 ---
 
 **[AI that copied musical artist files copyright claim against artist [updated]](https://news.ycombinator.com/item?id=47645976)**
 
-⬆️ 62 • 💬 15 • 15h ago • [X (formerly Twitter)](https://twitter.com/VladTheInflator/status/2039577001531768906)
+⬆️ 63 • 💬 16 • 16h ago • [X (formerly Twitter)](https://twitter.com/VladTheInflator/status/2039577001531768906)
 
 ---
 
@@ -276,7 +270,13 @@ Hi! If you like this piece and want to support my independent reporting and anal
 
 I used Claude Code to build a tool I needed. It worked great, but I was miserable. I need to reckon with what it means.
 
-⬆️ 50 • 💬 111 • 14h ago • [taggart-tech.com](https://taggart-tech.com/reckoning/)
+⬆️ 51 • 💬 113 • 15h ago • [taggart-tech.com](https://taggart-tech.com/reckoning/)
+
+---
+
+**[Iran's Network of Cameras Bolsters Air Defenses, Expert Says](https://news.ycombinator.com/item?id=47640984)**
+
+⬆️ 48 • 💬 19 • 1d ago • [wsj.com](https://www.wsj.com/livecoverage/iran-war-news-2026/card/iran-s-network-of-cameras-bolsters-air-defenses-expert-says-IqjSSuOcGNrxzsrp52i8)
 
 ---
 
@@ -408,7 +408,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 539,356 • ❤️ 2,331 • 9h ago
+⬇️ 539,356 • ❤️ 2,331 • 10h ago
 
 ---
 
@@ -504,7 +504,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 254,428 • ❤️ 506 • 9h ago
+⬇️ 254,428 • ❤️ 506 • 10h ago
 
 ---
 
@@ -558,7 +558,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 VOID is a video object removal framework that uses vision-language models and video diffusion models to generate physically plausible scenes by leveraging causal reasoning and counterfactual reasoning.
 
-▲ 29 • 💬 5 • ⭐ 509 • 3d ago
+▲ 29 • 💬 5 • ⭐ 509 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.02296) • [💻 code](https://github.com/Netflix/void-model) • [🔗 project](https://void-model.github.io/)
 
@@ -612,7 +612,7 @@ The AI Scientist-v2 autonomously proposes hypotheses, performs experiments, anal
 
 A large-scale dynamic dataset derived from AAA games is introduced to improve generative inverse and forward rendering, featuring high-resolution synchronized RGB and G-buffer data alongside a novel VLM-based evaluation method that correlates well with human judgment.
 
-▲ 87 • 💬 3 • ⭐ 303 • 3d ago
+▲ 87 • 💬 3 • ⭐ 303 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.02329) • [💻 code](https://github.com/ShandaAI/AlayaRenderer) • [🔗 project](https://alaya-studio.github.io/renderer)
 
@@ -664,7 +664,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 13.3k • 🔱 1.2k • 1h ago
+⭐ 13.3k • 🔱 1.2k • 2h ago
 
 ---
 
@@ -694,7 +694,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.7k • 🔱 392 • 2h ago
+⭐ 6.7k • 🔱 392 • 3h ago
 
 ---
 

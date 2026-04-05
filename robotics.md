@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-05T19:34:08.354828+00:00'
+updated: '2026-04-05T20:35:55.048047+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 05, 2026 at 19:34 UTC  
+**Last Updated:** April 05, 2026 at 20:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Robot dog takes on security duties in Atlanta](https://www.reddit.com/r/robotics/comments/1sd8dlv/robot_dog_takes_on_security_duties_in_atlanta/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 For a cosplay competition performance, I came up with the idea of creating a companion. In Elden Ring, there are these living jars, and I think it’s a pretty great option for a cute side character in our cosplay. I want to turn one into a robot that can move quickly, move its arms, and play pre-recorded voice lines. The only problem is: I have no idea how to design the legs so that the robot can actually keep up with us while we walk at a normal pace. Especially since the original model has these awkward “chicken legs” (see photo 2), which really limits the possible options. So far, the only idea I’ve come up with is to put it on something like a wheelchair base. That would make movement much easier to implement, and we could even turn it into a joke as part of the performance. Does anyone have ideas on how to make a robot like this move fast enough to follow people?
 
-7h ago
+8h ago
 
 ---
 
@@ -64,7 +64,7 @@ I was brought in to do some work on a pair of R-2000 Fanuc's a few years back an
 
 Hi everyone, I need your help regarding the servo you see in the image. Does anyone know if this type of servo exists, but instead of a toothed pinion, it has a simple cylindrical shaft, approximately 3mm in diameter? Thanks in advance. P.S. If you have any links, please send them.
 
-3h ago
+4h ago
 
 ---
 
@@ -72,7 +72,7 @@ Hi everyone, I need your help regarding the servo you see in the image. Does any
 
 Hey everyone, This was a short 2-day project exploring how a humanoid robot could fit into Muji’s minimal lifestyle philosophy. I focused on human-robot interaction — how the robot should feel, behave, and quietly exist in everyday spaces. Tried to keep everything simple, functional, and consistent with clear product constraints. Would love to hear your thoughts!
 
-21h ago
+22h ago
 
 ---
 
@@ -88,7 +88,7 @@ Researchers in the United States have developed air-powered artificial muscles t
 
 Hi! I’m working on bunch of tools for product design engineers and going to add them under meche.ai Currently I have: printadvisor.ai (material selection, print settings feedback) tolanalysis.com (tolerance stack up, Monte Carlo sim, Cpk analysis) dfmanalysis.com (DFM for CNC, sheet metal) pd.meche.ai (PD interview prep tool) cad.meche.ai (CAD viewer which is beautiful) Please check them and let me know if you have any thoughts/feedback 🙏 I’m planning to build more tools that I can put into use myself and for the community! So far I love building with Claude and Cursor. Feels like a new power got unlocked! 🔓
 
-🔗 [meche.ai](https://meche.ai) • 16h ago
+🔗 [meche.ai](https://meche.ai) • 17h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi! I’m working on bunch of tools for product design engineers and going to ad
 
 Search Robosynx https://preview.redd.it/moxt7bcugetg1.png?width=2864&format=png&auto=webp&s=2e7e87f06450c966a109842015fc2fa20285154a A few months ago I was deep in the same frustration most of us live with: Writing a URDF that looks perfect… then watching it explode or fall through the floor in Gazebo Converting to MJCF for MuJoCo or SDF for Isaac Sim… and losing inertia values or joint limits Spending hours debugging impossible masses or broken links Rebuilding basic ROS 2 nodes and launch files from scratch every single time At some point I just got tired of fighting tooling instead of building robots. So I hacked together a small browser-based tool to make this less painful. Right now it can: Generate a physics-ready robot model from a text description Convert URDF / MJCF / SDF without breaking inertias Validate physics issues before simulation crashes Generate basic ROS 2 node + launch file scaffolding Nothing fancy — just things I personally kept rebuilding over and over. I'm genuinely curious: Do other people run into this workflow pain, or is this just my setup? If you work with: Isaac Sim Gazebo MuJoCo ROS 2 I'd love to hear: What breaks most often in your workflow What tools you wish existed Whether something like this would actually save time Brutal feedback welcome.
 
-3h ago
+4h ago
 
 ---
 
@@ -104,7 +104,7 @@ Search Robosynx https://preview.redd.it/moxt7bcugetg1.png?width=2864&format=png&
 
 I’ve open-sourced GS-DroneGym, a drone-first research stack for vision-language-action work. Main idea: instead of only using synthetic assets, it can render observations from 3D Gaussian Splatting scenes, so you can prototype aerial waypoint policies in environments much closer to real visual conditions. Current features: - 6-DOF quadrotor dynamics - waypoint controller for [x, y, z, yaw] - gsplat renderer with CPU fallback - navigation tasks: PointNav, ObjectNav, ObstacleSlalom, DynamicFollow, NarrowCorridor - live viewer with RGB / depth / top-down trajectory - shared trajectory schema + dataset/eval tooling - adapters for GS-DroneGym, LIBERO, and LeRobot-format datasets https://github.com/09Catho/gs-dronegym Please star the repo if you find ut useful I’d especially appreciate feedback on: - sim-to-real usefulness - dataset generation for aerial VLA training - benchmark design for drone navigation
 
-22h ago
+23h ago
 
 ---
 
@@ -126,6 +126,12 @@ Forbes • 3d ago
 
 ---
 
+**[Asimov’s three laws of robotics survived 82 years, we broke them in 30 minutes, costs 80 cents, and then remade them](https://blog.adafruit.com/2026/04/05/asimovs-three-laws-of-robotics-survived-82-years-we-broke-them-in-30-minutes-costs-80-cents-and-then-remade-them/)**
+
+Adafruit • 3h ago
+
+---
+
 **[National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources](https://blogs.nvidia.com/blog/national-robotics-week-2026/)**
 
 This National Robotics Week, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world.
@@ -138,13 +144,13 @@ NVIDIA Blog • 1d ago
 
 Uzbekistan has signed an agreement with South Korea’s ROBOTIS to launch humanoid robot production, marking a major step in its high-tech ambitions. At the same time, students across the country are learning robotics and programming, gaining skills that could prepare them for careers in the emerging
 
-Euronews.com • 6h ago
+Euronews.com • 7h ago
 
 ---
 
-**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqclNPR76tHP04mgzTSpuisegFtWmV1_JpzGG-0Sh9se6sZEf-bES4Mz&gaa_ts=69d2b178&gaa_sig=od2iKgNZI2iITFIYccBJuyhNLVhZH9iRJOpApmdWL4EielGCvQ8b_nJWxgJStNDkESdbMdfTthyusGDT1N2F9w%3D%3D)**
+**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqepSqwLf5aAXHfCC3_9ZFRglvy3i2wKxsQYoujxBrsw5WI89Isj4-nE&gaa_ts=69d2cb05&gaa_sig=vFdAK83XJMpxYeBwlPivvKGLOy96mR_nmX7ktwMzu-rLiink7xd7HKl7vyxIurlCjdgI_9zKSiypg1GHoqTRsQ%3D%3D)**
 
-wsj.com • 2d ago
+WSJ • 2d ago
 
 ---
 
@@ -172,19 +178,9 @@ IEEE Spectrum • 3d ago
 
 ---
 
-**[Exclusive: Anvil Robotics Raises $5.5M to Build ‘Legos for Robots’ Platform For Physical AI Teams](https://news.crunchbase.com/robotics/physical-ai-custom-robot-builder-seed-funding-anvil/)**
+**[Generalist introduces GEN-1 general-purpose model for physical AI](https://www.therobotreport.com/generalist-introduces-gen-1-general-purpose-model-for-physical-ai/)**
 
-Anvil Robotics, an eight-month-old startup that aims to be the “Legos for robots,” has raised $5.5 million in a seed funding round, it tells Crunchbase News exclusively.
-
-Crunchbase News • 3d ago
-
----
-
-**[NH's Business: Robotic AI-assisted surgeries](https://www.wmur.com/article/wmur-nh-business-segment-04052026/70936122)**
-
-Fred Kocher sits down with Dr. Joe Leahy and Leanne Berube with Southern NH Health to talk about how AI-assisted surgeries have impacted both patients and surgeons.
-
-WMUR • 8h ago
+The Robot Report • 2d ago
 
 ---
 
@@ -196,7 +192,7 @@ WMUR • 8h ago
 
 📺 Yard Mon Robotics
 
-👁️ 1K • 👍 41 • 💬 5 • ⏱️ 0:47 • 16h ago
+👁️ 1K • 👍 41 • 💬 5 • ⏱️ 0:47 • 17h ago
 
 ---
 
@@ -206,7 +202,7 @@ The 2026 NHRL Pro World Championship Season is HERE! This is Round 3. This. Is. 
 
 📺 NHRL
 
-👁️ 9K • 👍 344 • 💬 7 • ⏱️ 3:15:56 • 16h ago
+👁️ 9K • 👍 344 • 💬 7 • ⏱️ 3:15:56 • 17h ago
 
 ---
 
@@ -216,7 +212,7 @@ Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In t
 
 📺 Shawn Ryan Show
 
-👁️ 1.0M • 👍 37K • 💬 6K • ⏱️ 8:48 • 3d ago
+👁️ 1.0M • 👍 37K • 💬 6K • ⏱️ 8:48 • 4d ago
 
 ---
 
@@ -246,7 +242,7 @@ War Robots Gameplay: Anaksor with Kroko weapons is quite unfair! My War Robots C
 
 📺 Manni-Gaming
 
-👁️ 4K • 👍 243 • 💬 47 • ⏱️ 13:35 • 7h ago
+👁️ 4K • 👍 243 • 💬 47 • ⏱️ 13:35 • 8h ago
 
 ---
 
@@ -276,7 +272,7 @@ The era of the Robot Mower is here and after 6 months of intensive use I feel I 
 
 📺 Proper DIY
 
-👁️ 16K • 👍 1K • 💬 78 • ⏱️ 11:47 • 12h ago
+👁️ 16K • 👍 1K • 💬 78 • ⏱️ 11:47 • 13h ago
 
 ---
 
