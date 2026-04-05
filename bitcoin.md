@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-05T13:58:26.361714+00:00'
+updated: '2026-04-05T14:44:51.187794+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - news
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 05, 2026 at 13:58 UTC  
+**Last Updated:** April 05, 2026 at 14:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,758.81
+### $66,872.36
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** -0.0%  
-**30d:** -0.7%  
-**90d:** -28.8%  
-**1y:** -14.8%  
+**24h:** -0.6%  
+**7d:** +0.2%  
+**30d:** -0.5%  
+**90d:** -28.6%  
+**1y:** -14.6%  
 
 ---
 
@@ -77,25 +77,23 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Could it really be that simple?](https://www.reddit.com/r/Bitcoin/comments/1scx8vs/could_it_really_be_that_simple/)**
-
-6h ago
-
----
-
 **[Just bought 5btc](https://www.reddit.com/r/Bitcoin/comments/1sd1471/just_bought_5btc/)**
 
 i sold my house, and i dont think shares is best to put money in due to the iran war. so i bought 5 btc, hopefully we get to see 120k peak soon :)
 
-2h ago
+3h ago
 
 ---
 
-**[Jack Dorsey Teases Bitcoin Faucet Revival With “Bitcoin Day” Post](https://www.reddit.com/r/Bitcoin/comments/1scw5no/jack_dorsey_teases_bitcoin_faucet_revival_with/)**
+**[Could it really be that simple?](https://www.reddit.com/r/Bitcoin/comments/1scx8vs/could_it_really_be_that_simple/)**
 
-Jack Dorsey teased a potential revival of the Bitcoin faucet tied to “Bitcoin Day,” echoing Gavin Andresen’s 2010 giveaway model.
+7h ago
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/jack-dorsey-reveals-bitcoin-faucet) • 7h ago
+---
+
+**[Besides Being Easter Sunday - Today is Also Satoshi Nakamoto's 51st Birthday - According To Satoshi's P2P Foundation Profile - Happy Birthday Satoshi! 🥳](https://www.reddit.com/r/Bitcoin/comments/1sd3e1m/besides_being_easter_sunday_today_is_also_satoshi/)**
+
+1h ago
 
 ---
 
@@ -103,7 +101,7 @@ Jack Dorsey teased a potential revival of the Bitcoin faucet tied to “Bitcoin 
 
 To add to the title - At some point in 2009-2012, I used to leave my computer on overnight and while I was at school, mining bitcoin. I can't remember how long for, it could've been for a couple of weeks or potentially months. I only remember it was within this time period because it overlapped with me playing Runescape (lol), and I quit playing in 2012 for 10 years or more. I have sort of moved away from computers although in those days I was interested in gaming and beginner hacking. I was 15-17 and the hacking part is daft looking back at it. But what I'm really trying to say is I used to be fairly computer literate and now, not so much. I've been using macs for 12 years now. So no matter whether it was a week or several months I left it mining overnight etc. for, there is likely a decent amount of bitcoin on the harddrive. I don't have access to the email address I used in those years, I lost it about 5 years ago and seemingly can't recover it. ChatGPT tells me this likely isn't an issue as emails weren't used for sign up in the early days. More advice was to remove the hard drive and back it up on a second hard drive, before opening. Do I have a stab at this myself? How do I do this? Can I plug hard drive into my mac to transfer to a second hard drive? What if the hard drive was wiped? Would it be in any way possible to recover it? If I manage to locate the wallet, will I need to remember the password? I believe it was a long set of random numbers and letters so will never remember unless I also have it saved on the computer somewhere. What are my next steps? Thank you in advance.
 
-10h ago
+11h ago
 
 ---
 
@@ -111,15 +109,7 @@ To add to the title - At some point in 2009-2012, I used to leave my computer on
 
 Just threw on some low budget movie - or what I thought was a movie. Self Custody is a 30min propaganda commercial to scare people away from Self Custody. There's no other reason for this pile of crap to exist.
 
-8h ago
-
----
-
-**[Best Way to Buy Bitcoin for My Parents](https://www.reddit.com/r/Bitcoin/comments/1scsrj7/best_way_to_buy_bitcoin_for_my_parents/)**
-
-I want a way which is easier for them to check price and buy more. They aren't tech savvy. confused between CEX and ETF
-
-10h ago
+9h ago
 
 ---
 
@@ -127,15 +117,7 @@ I want a way which is easier for them to check price and buy more. They aren't t
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-7h ago
-
----
-
-**[Is it a good time now to buy bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1scaokp/is_it_a_good_time_now_to_buy_bitcoin/)**
-
-Hi, Whats your perspective on this?
-
-23h ago
+8h ago
 
 ---
 
@@ -143,15 +125,31 @@ Hi, Whats your perspective on this?
 
 BTC adoption snapshot using 4 Glassnode BTC metrics only. Current reading: - Adoption Index: 1.011 - Active Entities: 163,944 - Non-Zero Addresses: 56,154,672 - Lightning Network Capacity: 4,971.03 BTC - L1 Change-Adjusted Volume: 92,074.70 BTC Method: - exact Glassnode BTC metric pages only - no mixed-source composite - baselines fixed at 2025-01-01 - index = geometric mean of 4 current/baseline ratios Baselines: - Active Entities: 145,000 - Non-Zero Addresses: 52,000,000 - Lightning Network Capacity: 5,358 BTC - L1 Change-Adjusted Volume: 100,000 BTC Ratios: - Active Entities: 1.131 - Non-Zero Addresses: 1.080 - Lightning Capacity: 0.928 - L1 Change-Adjusted Volume: 0.921 Interpretation: - overall adoption snapshot is slightly above the 2025-01-01 baseline - breadth metrics are above baseline - Lightning capacity is below baseline - on-chain adjusted transfer volume is below baseline - the positive breadth signal slightly outweighs the weaker LN and L1 flow readings Data dates used: - AE: 2026-04-04 - NZ: 2026-04-04 - LN: 2026-04-04 - L1: 2026-04-04 Source metrics: - Glassnode entities.ActiveCount - Glassnode addresses.NonZeroCount - Glassnode lightning.NetworkCapacitySum - Glassnode transactions.TransfersVolumeAdjustedSum
 
-5h ago
+6h ago
 
 ---
 
-**[understanding bitcoin system for the first time](https://www.reddit.com/r/Bitcoin/comments/1sd2cgu/understanding_bitcoin_system_for_the_first_time/)**
+**[Paris Blockchain Week 2026 — What blockchain innovations do you expect to see?](https://www.reddit.com/r/Bitcoin/comments/1sd43e1/paris_blockchain_week_2026_what_blockchain/)**
 
-it might be weird to see something like this vague. anyways, I want to learn about the bitcoin and its system. how it work? why its such a big deal, especially in some bad stuffs? why it's the preferable choice over usd or any other currency? i'm just starting to learn about all these. so if anyone can just help me understand it briefly, something kind of starter before diving deep into this world.
+Paris Blockchain Week 2026 is coming up and it’s one of the largest global gatherings for the blockchain industry. The event usually brings together developers, institutional investors, startups, regulators, and infrastructure builders to discuss where the space is heading. With everything that happened over the last few years-bridge exploits, the rise of L2 ecosystems, institutional adoption, and increasing regulatory pressure - I’m curious what technologies people think will get the most attention this year. Some areas that seem to be gaining traction: * **Cross-chain interoperability** * **Decentralized identity** * **Tokenization of real-world assets** * **Institutional blockchain infrastructure** * **Protocol-level DeFi vs application-layer DeFi** * **Security models that reduce reliance on centralized bridges** Events like this tend to give a preview of what the industry will focus on for the next cycle. For those following the space closely, what **technical innovations or trends** do you think will dominate discussions at blockchain conferences in 2026?
+
+56m ago
+
+---
+
+**[BTC + NMC Merged Mining Now Live on SoloPool.eu (Testing Open)](https://www.reddit.com/r/Bitcoin/comments/1sd3cvc/btc_nmc_merged_mining_now_live_on_solopooleu/)**
+
+We’ve enabled BTC + NMC merged mining on SoloPool.eu. Stratum is live at: btc.solopool.eu:3337 Mining already works, but the NMC pages/stats are still being finished. If you want to test it: Step 1 — Get a NMC address Download Namecoin Core or Electrum-NMC from namecoin.info Create a wallet and copy your address (starts with N) Step 2 — Update your username Change from: bc1qYourBtcAddress.worker1 To: bc1qYourBtcAddress.worker1.NJctzYourNmcAddress The pool reads the NMC address automatically from the third part. No extra setup needed. If you try it, feedback is welcome.
 
 1h ago
+
+---
+
+**[Is it a good time now to buy bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1scaokp/is_it_a_good_time_now_to_buy_bitcoin/)**
+
+Hi, Whats your perspective on this?
+
+1d ago
 
 ---
 
@@ -163,13 +161,13 @@ it might be weird to see something like this vague. anyways, I want to learn abo
 
 Developers are considering ways to quantum-proof the world's oldest cryptocurrency as the threat of this computing moves beyond a hypothetical.
 
-CoinDesk • 10h ago
+CoinDesk • 2h ago
 
 ---
 
 **[‘You Have Until 2029’—Urgent Musk Bitcoin Warning Spurs Coinbase CEO Flip As Price Crash Fears Swirl](https://www.forbes.com/sites/digital-assets/2026/04/04/you-have-until-2029-urgent-elon-musk-bitcoin-warning-suddenly-triggers-price-crash-fears/)**
 
-Forbes • 1d ago
+forbes.com • 1d ago
 
 ---
 
@@ -177,7 +175,7 @@ Forbes • 1d ago
 
 The Google-led study described its hardware assumptions as conservative while withholding full algorithmic detail for security reasons.
 
-jpost.com • 3h ago
+The Jerusalem Post • 4h ago
 
 ---
 
@@ -197,27 +195,19 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin And Ethereum Adoption Gets A Boost From Schwab Launch](https://www.tradingview.com/news/newsbtc:3bff3e74e094b:0-bitcoin-and-ethereum-adoption-gets-a-boost-from-schwab-launch/)**
+**[Schwab plans spot crypto trading launch in first half of 2026, starting with BTC, ETH](https://www.coindesk.com/business/2026/04/03/schwab-plans-spot-bitcoin-ether-trading-launch-in-first-half-of-2026)**
 
-Adoption of Bitcoin and Ethereum is poised to take a significant step forward as Charles Schwab introduces direct trading for both assets on its platform. As one of the largest financial institutions in the world, managing trillions in client assets, Schwab’s entry into the crypto space represents…
+The financial services giant with almost $12 trillion in client assets is moving closer to direct crypto trading, offering subscription for early access to the Schwab Crypto account.
 
-TradingView • 14h ago
-
----
-
-**[I Tried to Offset Horrible Heating Bills With a Bitcoin Miner](https://www.wired.com/review/heatbit-maxi-pro-bitcoin-miner-heater/)**
-
-Electricity rates have gotten so atrocious that this Heatbit wants to offset your costs with bitcoin mining. But the math doesn't add up.
-
-WIRED • 2h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin On-Chain Data Hints At Macro Bottom Near $47,960 – Details](https://www.tradingview.com/news/newsbtc:def8a5179094b:0-bitcoin-on-chain-data-hints-at-macro-bottom-near-47-960-details/)**
+**[Robert Kiyosaki recommends Bitcoin, gold as 1974 shift comes full circle](https://www.tradingview.com/news/cointelegraph:56b57ef6e094b:0-robert-kiyosaki-recommends-bitcoin-gold-as-1974-shift-comes-full-circle/)**
 
-The Bitcoin bear market is now six months in and showing no signs of letting up. During this time, a cycle low of $60,000 was established, preceding the present consolidation action being seen. However, bearish sentiments remain at heightened levels, especially considering the disturbed geopolitica…
+Rich Dad Poor Dad author Robert Kiyosaki has argued that the economic shifts set in motion more than five decades ago are now unfolding, advocating for Bitcoin and gold while warning against rising debt, inflation and retirement risks.In a Saturday post on X, Kiyosaki pointed to 1974 as a turning p…
 
-TradingView • 3h ago
+TradingView • 2h ago
 
 ---
 
@@ -229,11 +219,19 @@ TradingView • 2h ago
 
 ---
 
+**[Bitcoin price analysis: BTC enters April at its most hated level since the war began](https://www.coindesk.com/markets/2026/04/05/bitcoin-enters-april-at-its-most-hated-level-since-the-war-began)**
+
+Social sentiment, on-chain data, and positioning metrics all hit extremes not seen since late February, even as institutional buying remains elevated.
+
+CoinDesk • 2h ago
+
+---
+
 **[Bitcoin Price: The Oil Reserves Keeping Markets Alive Are About to Run Out — Why BTC Could Be in Trouble](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-oil-reserves-keeping-143719236.html)**
 
 The Bitcoin price has spent five weeks bouncing between $60,000 and $73,000. BTC rallies when Trump hints at ending the Iran war and crashes when he escalates. Traders keep reacting to his comments, but the real threat to Bitcoin (CRYPTO: BTC) is what happens when the emergency oil reserves keeping global markets together run out. ... Bitcoin Price: The Oil Reserves Keeping Markets Alive Are About to Run Out — Why BTC Could Be in Trouble
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -333,7 +331,7 @@ Welcome back to Verified Investing! In today's urgent crypto market update, Chie
 
 📺 Gareth Soloway
 
-👁️ 78K • 👍 5K • 💬 475 • ⏱️ 11:47 • 20h ago
+👁️ 78K • 👍 5K • 💬 475 • ⏱️ 11:47 • 21h ago
 
 ---
 
@@ -373,7 +371,7 @@ Coinbase just told Washington that Bitcoin doesn't need a tax exemption because 
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 865 • 💬 74 • ⏱️ 17:14 • 16h ago
+👁️ 11K • 👍 865 • 💬 74 • ⏱️ 17:14 • 17h ago
 
 ---
 
@@ -393,7 +391,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Vik's Video Vizuals
 
-👁️ 2K • 👍 1K • 1h ago
+👁️ 2K • 👍 1K • 2h ago
 
 ---
 

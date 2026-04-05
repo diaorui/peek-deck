@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-05T13:58:26.370792+00:00'
+updated: '2026-04-05T14:44:51.196833+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 05, 2026 at 13:58 UTC  
+**Last Updated:** April 05, 2026 at 14:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,6 +32,14 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Help me with me robot-concept please!](https://www.reddit.com/r/robotics/comments/1sd2b1t/help_me_with_me_robotconcept_please/)**
+
+For a cosplay competition performance, I came up with the idea of creating a companion. In Elden Ring, there are these living jars, and I think it’s a pretty great option for a cute side character in our cosplay. I want to turn one into a robot that can move quickly, move its arms, and play pre-recorded voice lines. The only problem is: I have no idea how to design the legs so that the robot can actually keep up with us while we walk at a normal pace. Especially since the original model has these awkward “chicken legs” (see photo 2), which really limits the possible options. So far, the only idea I’ve come up with is to put it on something like a wheelchair base. That would make movement much easier to implement, and we could even turn it into a joke as part of the performance. Does anyone have ideas on how to make a robot like this move fast enough to follow people?
+
+2h ago
+
+---
+
 **[It hungers for more.](https://www.reddit.com/r/robotics/comments/1schdz7/it_hungers_for_more/)**
 
 I was brought in to do some work on a pair of R-2000 Fanuc's a few years back and saw this on the safety fencing of the work cell.
@@ -40,17 +48,9 @@ I was brought in to do some work on a pair of R-2000 Fanuc's a few years back an
 
 ---
 
-**[Help me with me robot-concept please!](https://www.reddit.com/r/robotics/comments/1sd2b1t/help_me_with_me_robotconcept_please/)**
-
-For a cosplay competition performance, I came up with the idea of creating a companion. In Elden Ring, there are these living jars, and I think it’s a pretty great option for a cute side character in our cosplay. I want to turn one into a robot that can move quickly, move its arms, and play pre-recorded voice lines. The only problem is: I have no idea how to design the legs so that the robot can actually keep up with us while we walk at a normal pace. Especially since the original model has these awkward “chicken legs” (see photo 2), which really limits the possible options. So far, the only idea I’ve come up with is to put it on something like a wheelchair base. That would make movement much easier to implement, and we could even turn it into a joke as part of the performance. Does anyone have ideas on how to make a robot like this move fast enough to follow people?
-
-1h ago
-
----
-
 **[Robots are starting to enter one of the most sensitive environments we have.](https://www.reddit.com/r/robotics/comments/1scemxg/robots_are_starting_to_enter_one_of_the_most/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -58,7 +58,7 @@ For a cosplay competition performance, I came up with the idea of creating a com
 
 Hey everyone, This was a short 2-day project exploring how a humanoid robot could fit into Muji’s minimal lifestyle philosophy. I focused on human-robot interaction — how the robot should feel, behave, and quietly exist in everyday spaces. Tried to keep everything simple, functional, and consistent with clear product constraints. Would love to hear your thoughts!
 
-15h ago
+16h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hey everyone, This was a short 2-day project exploring how a humanoid robot coul
 
 Researchers in the United States have developed air-powered artificial muscles that significantly enhance robots’ strength and mobility. This new technology enables robots to lift and carry loads many times their own weight more efficiently and with greater flexibility.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/artificial-muscles-robot-lift-more-weight) • 18h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/artificial-muscles-robot-lift-more-weight) • 19h ago
 
 ---
 
@@ -74,7 +74,7 @@ Researchers in the United States have developed air-powered artificial muscles t
 
 Hi! I’m working on bunch of tools for product design engineers and going to add them under meche.ai Currently I have: printadvisor.ai (material selection, print settings feedback) tolanalysis.com (tolerance stack up, Monte Carlo sim, Cpk analysis) dfmanalysis.com (DFM for CNC, sheet metal) pd.meche.ai (PD interview prep tool) cad.meche.ai (CAD viewer which is beautiful) Please check them and let me know if you have any thoughts/feedback 🙏 I’m planning to build more tools that I can put into use myself and for the community! So far I love building with Claude and Cursor. Feels like a new power got unlocked! 🔓
 
-🔗 [meche.ai](https://meche.ai) • 10h ago
+🔗 [meche.ai](https://meche.ai) • 11h ago
 
 ---
 
@@ -90,7 +90,7 @@ I’ve open-sourced GS-DroneGym, a drone-first research stack for vision-languag
 
 https://www.youtube.com/@ALMA.GeoffreyAment Chapter 3 Footnote 1. Building an Actuator, a PID Control Loop, and an Ultrasonic Distance sensor to detect and not crash into the ceiling. This will be used in Chapter 3 Desk -- Stay tuned for more!
 
-19h ago
+20h ago
 
 ---
 
@@ -98,7 +98,7 @@ https://www.youtube.com/@ALMA.GeoffreyAment Chapter 3 Footnote 1. Building an Ac
 
 I couldn't find a tool that properly visualized frame transformations, so I built one, and I think it is useful for many others too. What it (currently) does: Degree/radian converter My main focus is robotics, so next up I'm looking to add ROS 2-oriented features — these should for example make it faster to figure out why your transforms aren't doing what you think they should. If you think a feature is missing or have something you'd love to see added, I'm open to requests. https://rotation.dev
 
-22h ago
+23h ago
 
 ---
 
@@ -114,7 +114,7 @@ I couldn't find a tool that properly visualized frame transformations, so I buil
 
 **[Generalist Is Betting Its Robot-Training Gloves Will Usher In Robotics’ ChatGPT Moment](https://www.forbes.com/sites/annatong/2026/04/02/generalist-is-betting-its-robot-training-gloves-will-usher-in-robotics-chatgpt-moment/)**
 
-Forbes • 3d ago
+forbes.com • 3d ago
 
 ---
 
@@ -122,7 +122,7 @@ Forbes • 3d ago
 
 Anvil Robotics, an eight-month-old startup that aims to be the “Legos for robots,” has raised $5.5 million in a seed funding round, it tells Crunchbase News exclusively.
 
-news.crunchbase.com • 3d ago
+Crunchbase News • 3d ago
 
 ---
 
@@ -130,11 +130,19 @@ news.crunchbase.com • 3d ago
 
 This National Robotics Week, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world.
 
-NVIDIA Blog • 20h ago
+NVIDIA Blog • 21h ago
 
 ---
 
-**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqcgyF_W0nvFVDrVuQATHHTgXqKPpp1Zj6s5fHu6BK6w1v2Njknuj8CE&gaa_ts=69d26053&gaa_sig=ExtVQlGJaopE6_j1mvoNl_Ke0HGpucrxmLAjEsKu6QaEn9kQhHSWIFlcIbcEN1OBXAWDeAQxU0fwdZoIfpDz8g%3D%3D)**
+**[Week Wraps Aboard Station with Spacesuits, Eye Checks, Robotics, and More](https://www.nasa.gov/blogs/spacestation/2026/04/03/week-wraps-aboard-station-with-spacesuits-eye-checks-robotics-and-more/)**
+
+Spacesuit work and eye checks wrapped up the week for the Expedition 74 crew aboard the International Space Station. The orbital residents also focused on robotics, cargo transfers, and science hardware maintenance at the end of the week.
+
+NASA (.gov) • 1d ago
+
+---
+
+**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqco2utgCkfAiLh3tpM_eIJMZfYQw4_PsX17O2TqAKxKw53F4TXtE5pM&gaa_ts=69d278d2&gaa_sig=r9qpUUTXgEw0Hx8ZittPGEe-VAkiWckIRG9-_Hs_4GmTSJe2fvNGyY0_jTC591N6uPcG1ewEY-iu7DiIMJqfhg%3D%3D)**
 
 WSJ • 2d ago
 
@@ -148,19 +156,19 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[Prediction: AI Robotics Will Be a $375 Billion Industry and These 2 Stocks Will Lead It](https://finance.yahoo.com/sectors/technology/articles/prediction-ai-robotics-375-billion-180200804.html)**
+**[Think Robots Are Impressive Now? Just Wait Until They Have 6G](https://www.cnet.com/tech/computing/think-robots-are-impressive-now-just-wait-until-they-have-6g/)**
 
-Both of these companies are proven trailblazers.
+This next-generation network technology won't just make our phones faster; it'll unlock new capabilities in robots, turning them into all-sensing, always-learning fleets.
 
-Yahoo Finance • 19h ago
+CNET • 2d ago
 
 ---
 
-**[Week Wraps Aboard Station with Spacesuits, Eye Checks, Robotics, and More](https://www.nasa.gov/blogs/spacestation/2026/04/03/week-wraps-aboard-station-with-spacesuits-eye-checks-robotics-and-more/)**
+**[Prediction: AI Robotics Will Be a $375 Billion Industry and These 2 Stocks Will Lead It](https://www.fool.com/investing/2026/04/04/prediction-ai-robotics-will-be-a-375-billion-indus/)**
 
-Spacesuit work and eye checks wrapped up the week for the Expedition 74 crew aboard the International Space Station. The orbital residents also focused on robotics, cargo transfers, and science hardware maintenance at the end of the week.
+Both of these companies are proven trailblazers.
 
-NASA (.gov) • 1d ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -168,21 +176,15 @@ NASA (.gov) • 1d ago
 
 Six months in a nuclear reactor? This receiver chip can take it
 
-IEEE Spectrum • 2d ago
+IEEE Spectrum • 3d ago
 
 ---
 
-**[Air-powered artificial muscles could help robots lift 100 times their weight](https://techxplore.com/news/2026-04-air-powered-artificial-muscles-robots.html)**
+**[NH's Business: Robotic AI-assisted surgeries](https://www.wmur.com/article/wmur-nh-business-segment-04052026/70936122)**
 
-Tech Xplore • 2d ago
+Fred Kocher sits down with Dr. Joe Leahy and Leanne Berube with Southern NH Health to talk about how AI-assisted surgeries have impacted both patients and surgeons.
 
----
-
-**['I barely feel like I’m trying' — this expert hiker swapped her muscles for a robotic exoskeleton on her latest mountain-climbing challenge](https://www.techradar.com/health-fitness/i-hiked-the-highest-peaks-in-britain-with-a-robotic-exoskeleton-to-see-if-it-could-supercharge-my-mountain-climbing-heres-what-happened)**
-
-I’ve got Robotic Leg Syndrome
-
-TechRadar • 1d ago
+WMUR • 3h ago
 
 ---
 
@@ -216,7 +218,7 @@ The 2026 NHRL Pro World Championship Season is HERE! This is Round 3. This. Is. 
 
 📺 NHRL
 
-👁️ 8K • 👍 308 • 💬 5 • ⏱️ 3:15:56 • 11h ago
+👁️ 8K • 👍 308 • 💬 5 • ⏱️ 3:15:56 • 12h ago
 
 ---
 
@@ -226,7 +228,7 @@ The 2026 NHRL Pro World Championship Season is HERE! This is Round 3. This. Is. 
 
 📺 Kashtman Expo
 
-👁️ 848 • ⏱️ 0:21 • 2h ago
+👁️ 848 • ⏱️ 0:21 • 3h ago
 
 ---
 
@@ -246,7 +248,7 @@ Welch Labs Book: https://www.welchlabs.com/resources/ai-book-ezrzm-msrmc Book & 
 
 📺 Welch Labs
 
-👁️ 43K • 👍 2K • 💬 133 • ⏱️ 35:02 • 20h ago
+👁️ 43K • 👍 2K • 💬 133 • ⏱️ 35:02 • 21h ago
 
 ---
 
@@ -276,7 +278,7 @@ Round 3 of The 2026 NHRL Pro World Championship kicks off NOW! The path to crown
 
 📺 NHRL
 
-👁️ 12K • 👍 314 • 💬 4 • ⏱️ 4:56:01 • 14h ago
+👁️ 12K • 👍 314 • 💬 4 • ⏱️ 4:56:01 • 15h ago
 
 ---
 

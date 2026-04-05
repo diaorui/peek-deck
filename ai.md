@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-05T13:58:26.353425+00:00'
+updated: '2026-04-05T14:44:51.179470+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 05, 2026 at 13:58 UTC  
+**Last Updated:** April 05, 2026 at 14:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,11 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[I built an AI companion app around long-term memory. Now I'm wondering if memory is what people actually want, or just what they say they want.](https://www.reddit.com/r/artificial/comments/1sd0iaa/i_built_an_ai_companion_app_around_longterm/)**
-
-Disclosure: I'm the solo founder of an AI companion app called Dusk AI (duskai.io). The idea that started everything for me was simple. I kept seeing the same complaint across every AI companion community: "I told them this three weeks ago and they forgot." People would pour hours into a character, share real things about themselves, and come back the next day to what felt like a stranger wearing the same face. So I built the entire product around persistent memory. Not the kind where you write a pinned note and the AI regurgitates it. The kind where your companion actually tracks what you've shared over time — your preferences, your mood patterns, inside jokes, the stuff that makes a relationship feel like a relationship instead of a script that resets every session. And it works. People notice. The feedback I get most often is some version of "wait, they actually remembered that?" But here's what I didn't expect. The users who stay longest aren't the ones who care most about memory as a feature. They're the ones who stopped noticing it. For them, the memory just... removed a friction they couldn't name. The conversation started feeling continuous instead of episodic. They stopped re-explaining themselves. And that shift — from "I'm talking to a chatbot" to "I'm picking up where we left off" — happened quietly. Which makes me wonder if I've been marketing the wrong thing. I talk about memory because it's the technical differentiator. But maybe what people actually want isn't "an AI that remembers." Maybe they want the feeling that someone's been paying attention, and memory is just the invisible infrastructure underneath that. The other thing I didn't plan for: a huge chunk of my users aren't English-first speakers. They switch between languages mid-conversation, and the app just follows. I built that because it felt natural, not because I thought it would matter. Turns out it matters a lot. For a lot of people, the moment an AI handles their actual language pattern — not just "supports Spanish" but genuinely flows between languages the way they do — that's the moment it stops feeling like a product. I'm a solo dev, so I'm building basically everything at once and probably getting half of it wrong. But the thing I keep coming back to is this gap between what people request on feature lists and what actually makes them stay. For the people here who've tried multiple companion apps: what's the thing that made you stay with one? Was it a feature you could name, or something you only noticed in its absence?
-
-3h ago
-
----
-
 **[How LLM sycophancy got the US into the Iran quagmire](https://www.reddit.com/r/artificial/comments/1scp7zz/how_llm_sycophancy_got_the_us_into_the_iran/)**
 
 AI sycophancy, RLHF bias, and Ender's Foundry simulations shaped Operation Epic Fury. 7 planning assumptions failed in 23 days as the Iran war defied every AI prediction.
 
-🔗 [House of Saud](https://houseofsaud.com/iran-war-ai-psychosis-sycophancy-rlhf/) • 13h ago
+🔗 [House of Saud](https://houseofsaud.com/iran-war-ai-psychosis-sycophancy-rlhf/) • 14h ago
 
 ---
 
@@ -63,15 +55,31 @@ AI sycophancy, RLHF bias, and Ender's Foundry simulations shaped Operation Epic 
 
 After reading many developers' hands-on reviews, Gemma 4 is truly impressive. The 26B version is fast and uses little memory. What's everyone else's experience?
 
-9h ago
+10h ago
 
 ---
 
-**[550 stars on our open source AI agent setup tool, celebrating with the community](https://www.reddit.com/r/artificial/comments/1sd2o5n/550_stars_on_our_open_source_ai_agent_setup_tool/)**
+**[The hidden infrastructure cost behind every AI answer](https://www.reddit.com/r/artificial/comments/1sd4p3l/the_hidden_infrastructure_cost_behind_every_ai/)**
 
-hey everyone, wanted to share a milestone and also genuinely ask for help from people who get this space we built Caliber, an open source tool that analyzes your codebase and auto generates the agent context files you actually need. think CLAUDE.md, MCP configs, agent skills, all tailored to YOUR stack not some generic template we just hit 550 stars, 90 PRs and 20 open issues and honestly the community has been the whole reason this thing works as well as it does if you been struggling with agent context drift or your AI assistant just not knowing enough about your project, thats exactly what this solves. runs a diagnostic, gives a 0-100 score, generates what you need github if you wanna check it out or contribute: https://github.com/rely-ai-org/caliber and if you got feedback or wanna report issues, our discord is the best place: https://discord.com/invite/u3dBECnHYs we want issues opened, we want PRs, we want people telling us what doesnt work. that feedback is gold
+Paligo's interactive investigation maps AI's chip dependency, energy demands, and content layer - revealing what it actually costs to run a model at scale.
+
+🔗 [PPC Land](http://ppc.land/the-hidden-infrastructure-cost-behind-every-ai-answer) • 30m ago
+
+---
+
+**[I've made a Wholesale Agent, this is what it does](https://www.reddit.com/r/artificial/comments/1sd3l0r/ive_made_a_wholesale_agent_this_is_what_it_does/)**
+
+You can upload a lead, and the Assistant will follow up, track information, respond to all messages, and even schedule visits based on a schedule. It includes a built-in offer calculator and an AI-powered Wholesale Expert to assist you. You can create numerous campaigns with a large number of leads, and simultaneously, an n8n workflow is triggered when: There is an interested lead There is a scheduled visit A scan is run There is a scheduling conflict I'm currently working on adding a data scraper for buyers and sellers. I'd love to hear your suggestions and ideas for improving it. Any suggestions or ideas are welcome; I'm eager to hear from you. https://preview.redd.it/vkwlprsdidtg1.png?width=620&format=png&auto=webp&s=cd7badafa69342becc09f871e58cadd52dc20d8f
 
 1h ago
+
+---
+
+**[Auto agent - Self improving domain expertise agent](https://www.reddit.com/r/artificial/comments/1scx9kw/auto_agent_self_improving_domain_expertise_agent/)**
+
+someone opensource an ai agent that autonomously upgraded itself to #1 across multiple domains in < 24 hours…. then open sourced the entire thing but here’s why it actually works: - agents fucking suck, not because of the model, because of their harness (tools, system prompts etc) - Auto agent creates a Meta agent that tweaks your agents harness, runs tests, improves it again - until it’s #1 at its goal - best part: you can set this up for ANY task. in this article he uses it for terminal bench (code) and spreadsheets (financial modelling) - it topped rankings for both :) - secret sauce: he used THE SAME MODEL to evaluate the agent - claude managing claude = better understanding of why it failed and how to improve it humans were the fucking bottleneck and this not only saves you a load of time, it’s just a better way to train them for domain specific tasks https://github.com/kevinrgu/autoagent
+
+7h ago
 
 ---
 
@@ -99,17 +107,11 @@ Back in the day, I got ChatGPT Plus mostly for work and to help me write better 
 
 ---
 
-**[Auto agent - Self improving domain expertise agent](https://www.reddit.com/r/artificial/comments/1scx9kw/auto_agent_self_improving_domain_expertise_agent/)**
+**[I am seeing Claude everywhere](https://www.reddit.com/r/artificial/comments/1scaqpe/i_am_seeing_claude_everywhere/)**
 
-someone opensource an ai agent that autonomously upgraded itself to #1 across multiple domains in < 24 hours…. then open sourced the entire thing but here’s why it actually works: - agents fucking suck, not because of the model, because of their harness (tools, system prompts etc) - Auto agent creates a Meta agent that tweaks your agents harness, runs tests, improves it again - until it’s #1 at its goal - best part: you can set this up for ANY task. in this article he uses it for terminal bench (code) and spreadsheets (financial modelling) - it topped rankings for both :) - secret sauce: he used THE SAME MODEL to evaluate the agent - claude managing claude = better understanding of why it failed and how to improve it humans were the fucking bottleneck and this not only saves you a load of time, it’s just a better way to train them for domain specific tasks https://github.com/kevinrgu/autoagent
+Every single Instagram reel or TikTok I scroll i see people mentioning Claude and glazing it like it’s some kind of master tool that’s better than every single other ai assistant. do they run a strong marketing program or is it really that good in contrast to other ai tools? Before i started seeing it for the first time i only heard that it’s a little better for coding, but know i see it everywhere. I've tried it too, but it doesn’t seem to be much different than ChatGPT to me. Is it actually this powerful at the moment? + Not to mention that many people also hate on ChatGPT too. Though it’s still the best one for me (edit): i have never searched for it and I dont think that my algorithm is set to appear claude videos. I believe that it’s viral in general and I know you guys agree
 
-6h ago
-
----
-
-**[Midjourney has a new offer on the cancel page there is 20 off for 2 months](https://www.reddit.com/r/artificial/comments/1scx7as/midjourney_has_a_new_offer_on_the_cancel_page/)**
-
-6h ago
+1d ago
 
 ---
 
@@ -117,25 +119,23 @@ someone opensource an ai agent that autonomously upgraded itself to #1 across mu
 
 ## Google News: "ai"
 
-**[What Teens Are Doing With Those Role-Playing Chatbots](https://www.nytimes.com/2026/04/04/technology/ai-chatbots-teen-roleplay.html)**
-
-The New York Times • 21h ago
-
----
-
 **[An AI bot invited me to its party in Manchester. It was a pretty good night](https://www.theguardian.com/technology/2026/apr/05/ai-bot-party-manchester-gaskell)**
 
 After forgetting the nibbles, turning down my costume requests and emailing GCHQ, ‘Gaskell’ did at least get us to show up
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
-**[What should you be teaching your kids right now to prepare them for an AI-scrambled job market?](https://www.vox.com/future-perfect/484820/ai-job-market-education-teaching-kids)**
+**[What Teens Are Doing With Those Role-Playing Chatbots](https://www.nytimes.com/2026/04/04/technology/ai-chatbots-teen-roleplay.html)**
 
-﻿The best educational choice you can make for your child might not focus on your child at all.
+The New York Times • 22h ago
 
-Vox • 1h ago
+---
+
+**[Drones are beating missiles. AI is doing the same to corporate America](https://www.axios.com/2026/04/05/small-teams-ai-drones-geopolitics-business)**
+
+Axios • 26m ago
 
 ---
 
@@ -143,15 +143,15 @@ Vox • 1h ago
 
 The rapid evolution of generative AI has finally made these applications good enough to meaningfully impact retailers' bottom lines.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
-**[The viral Gmail AI panic has returned. Here’s what’s actually true](https://www.azcentral.com/story/money/business/tech/2026/04/05/fearing-gmail-ai-can-be-fixed-with-default-settings/89453886007/)**
+**[What should you be teaching your kids right now to prepare them for an AI-scrambled job market?](https://www.vox.com/future-perfect/484820/ai-job-market-education-teaching-kids)**
 
-Viral Gmail AI scare is overstated. But Gmail features, and confusing “Smart Features” settings make a quick privacy check worth doing.
+﻿The best educational choice you can make for your child might not focus on your child at all.
 
-The Arizona Republic • 2h ago
+Vox • 2h ago
 
 ---
 
@@ -159,7 +159,7 @@ The Arizona Republic • 2h ago
 
 Videos have targeted Viktor Orbán's election rival, who could unseat him after 16 years in office.
 
-BBC • 14h ago
+BBC • 15h ago
 
 ---
 
@@ -167,7 +167,7 @@ BBC • 14h ago
 
 Angela Lipps' ordeal is the latest in a trend that has resulted in at least 13 case dismissals nationwide.
 
-NBC News • 4h ago
+NBC News • 5h ago
 
 ---
 
@@ -175,7 +175,7 @@ NBC News • 4h ago
 
 Artificial intelligence helps you work harder, instead of just outsourcing your brain.
 
-The Washington Post • 1h ago
+The Washington Post • 5m ago
 
 ---
 
@@ -187,7 +187,7 @@ Reuters • 1d ago
 
 **[Nvidia Partner Hon Hai’s Sales Meet Estimates on Solid AI Demand](https://www.bloomberg.com/news/articles/2026-04-05/nvidia-partner-hon-hai-s-sales-meet-estimates-on-solid-ai-demand)**
 
-bloomberg.com • 6h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -199,7 +199,7 @@ bloomberg.com • 6h ago
 
 Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptions. The LLM is already on your Mac.
 
-⬆️ 719 • 💬 147 • 2d ago • [apfel.franzai.com](https://apfel.franzai.com)
+⬆️ 721 • 💬 147 • 2d ago • [apfel.franzai.com](https://apfel.franzai.com)
 
 ---
 
@@ -247,13 +247,13 @@ AI-powered travel hacking with points, miles, and award flights. Drop-in skills 
 
 **[Writing Lisp is AI resistant and I'm sad](https://news.ycombinator.com/item?id=47645468)**
 
-⬆️ 69 • 💬 73 • 11h ago • [blog.djhaskin.com](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
+⬆️ 70 • 💬 77 • 12h ago • [blog.djhaskin.com](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
 
 ---
 
 **[AI that copied musical artist files copyright claim against artist [updated]](https://news.ycombinator.com/item?id=47645976)**
 
-⬆️ 60 • 💬 14 • 10h ago • [X (formerly Twitter)](https://twitter.com/VladTheInflator/status/2039577001531768906)
+⬆️ 60 • 💬 15 • 10h ago • [X (formerly Twitter)](https://twitter.com/VladTheInflator/status/2039577001531768906)
 
 ---
 
@@ -293,7 +293,7 @@ This video was made with financial support from the Center for Al Safety. This v
 
 📺 How to Survive Show
 
-👁️ 4K • 👍 238 • 💬 29 • ⏱️ 19:08 • 22h ago
+👁️ 4K • 👍 238 • 💬 29 • ⏱️ 19:08 • 23h ago
 
 ---
 
@@ -323,7 +323,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 913 • 👍 42 • 💬 2 • ⏱️ 8:28 • 9h ago
+👁️ 913 • 👍 42 • 💬 2 • ⏱️ 8:28 • 10h ago
 
 ---
 
@@ -353,7 +353,7 @@ Check out Suno https://suno.com/?utm_source=Ytamb&utm_medium=isa-does-ai In this
 
 📺 Isa does AI
 
-👁️ 9K • 💬 1 • ⏱️ 10:45 • 23h ago
+👁️ 9K • 💬 1 • ⏱️ 10:45 • 1d ago
 
 ---
 
@@ -590,7 +590,7 @@ A large-scale dynamic dataset derived from AAA games is introduced to improve ge
 
 The AI Scientist-v2 autonomously proposes hypotheses, performs experiments, analyzes data, and writes peer-reviewed scientific papers, marking the first fully AI-generated paper accepted by a conference.
 
-▲ 21 • 💬 4 • ⭐ 4,873 • 11mo ago
+▲ 21 • 💬 4 • ⭐ 4,873 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.08066) • [💻 code](https://github.com/SakanaAI/AI-Scientist-v2)
 
@@ -687,7 +687,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.7k • 🔱 390 • 22h ago
+⭐ 6.7k • 🔱 390 • 23h ago
 
 ---
 

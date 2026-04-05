@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-05T13:58:26.367589+00:00'
+updated: '2026-04-05T14:44:51.193641+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - videos
 - news
 - cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 05, 2026 at 13:58 UTC  
+**Last Updated:** April 05, 2026 at 14:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.1%  
-**7d:** +0.2%  
-**30d:** +3.1%  
-**90d:** -38.4%  
-**1y:** +28.7%  
+**24h:** -0.5%  
+**7d:** +0.9%  
+**30d:** +3.8%  
+**90d:** -38.0%  
+**1y:** +29.5%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
+
+---
+
+**[Update: I built the first ETH-only, grief-proof tournament infrastructure that's 100% on-chain.](https://www.reddit.com/r/ethereum/comments/1sd47n7/update_i_built_the_first_ethonly_griefproof/)**
+
+Hey all! Since my earlier post I've been rebuilding from the ground up, and your feedback helped shape everything. ETour V2 is simpler, faster, and more flexible: 1) You can now configure your own lobbies with anywhwere between 2 and 32 players. And you can choose the entry fee per-player, from $0.20 up to 1 ETH. 2) Moves happen in sub-1s (down from ~10s). 3) The fee structure is cleaner too: 95% straight to the winner, and 5% is my cut. No confusing raffle mechanics. And the winner gets more, winner's cut in V1 was only 90% of the pot, now it's 95%! 4) I also put together two docs: a focused whitepaper that explains the why, and a thorough user manual that answers every how question. Further, and very importantly, V2 positions ETour as the perfect platform to play games on-chain over ETH stakes with no middlemen with your friends, crew, or community, rather than a place for random online matchmaking. Which is more honest about what ETour is good at. Happy to answer your questions! Misc: https://etour.games https://etour.games/whitepaper https://etour.games/manual All contracts are verified and available in the footer
+
+51m ago
 
 ---
 
@@ -80,7 +88,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Russia submitted a bill requiring residents to report all foreign crypto wallet activity to tax authorities from July 2026. Twenty million users. No exemptions. This is what state capture of crypto looks like.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/russia-bitcoin-ban-failed-wallet-registration-2026/) • 15h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/russia-bitcoin-ban-failed-wallet-registration-2026/) • 16h ago
+
+---
+
+**[A modern CLI based Solidity transaction debugger and tracer](https://www.reddit.com/r/ethereum/comments/1sd4uuk/a_modern_cli_based_solidity_transaction_debugger/)**
+
+Hi all, I build a new kind of cli based solidity debugger you might find useful. During the few days easter break I finally could finish a long standing project I had in mind: a cli based solidity debugger and tracer. I used to use truffle-debug a lot, but the whole project got sunset (and was painfully slow anyways, but thats a different story). Foundry as a successor always made sense to me. Its fast, its git based, its a workhorse, never let me down so far. But I always missed a properly formatted easy to use tracer and debugger like we know it from tenderly, but cli based, with local, text based outputs. I wanted something a human and an LLM can use. So I built soldebug. You give it a transaction hash and it gives you a decoded stack trace: $ soldebug 0xe1c962... --rpc-url https://sepolia.infura.io/v3/... --project-dir ./myproject Transaction 0xe1c962...b53fb6 REVERTED (gas: 29.8K) Call Stack: TestToken.mint(arg0=0xdEadDEAD..., arg1=9e23) <- REVERT REVERT: MaxSupplyExceeded(9e23, 5e23) It replays the transaction locally using revm (same as Foundry), matches contracts from your local Foundry project, resolves proxy implementations (UUPS, transparent proxies), and can fetch external contract ABIs from Etherscan/Sourcify. All in Rust, same style as Foundry itself. It's a first version, really early, but maybe useful for other Ethereum devs. If you find it useful (or not), let me know, or generally, any feedback very welcome.
+
+🔗 [GitHub](https://github.com/tomw1808/soldebug) • 23m ago
 
 ---
 
@@ -96,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Where is everyone trading/storing their crypto specifically eth? I currently am in crypto.com and having issues. I want to pull all my positions and move to another platform. I currently have WeBull and fidelity but don’t want to cram too much into fidelity as I like my eggs spread out. Which platform would you recommend?
 
-20h ago
+21h ago
 
 ---
 
@@ -132,20 +148,6 @@ Quantum breakthrough papers, Aave v4, Aztec alpha
 
 ---
 
-**[How to actually use crypto to buy things in 2026 (realistic breakdown, not the idealistic version)](https://www.reddit.com/r/ethereum/comments/1sb9mzb/how_to_actually_use_crypto_to_buy_things_in_2026/)**
-
-People ask this a lot and most answers are either too optimistic or outdated. Here's what actually works day to day. Direct crypto payments (limited but real) - A small number of merchants accept crypto directly via BitPay or CoinGate. Shows up at checkout alongside card/PayPal. Works in tech, gaming, VPN, some travel. Still niche. Crypto debit cards (most practical for daily use) - Platforms issue Visa/Mastercard cards linked to your crypto account. Spend anywhere that takes Visa, crypto converts to fiat at point of sale. Usually comes with some cashback in platform tokens. Works fine for everyday spending. Stablecoins for transfers - Sending money internationally or paying someone who accepts USDC/USDT is genuinely fast and cheap vs bank wire. More useful than people think for freelance/remote work. Gift cards via Bitrefill (underrated) - Buy gift cards from Amazon, Airbnb, Uber, Steam using crypto. Works everywhere those retailers are accepted. Not seamless but surprisingly broad coverage. Honest reality in 2026: most people still convert to fiat first. Crypto debit cards are the closest thing to seamless daily spending. Several platforms are building bank-integrated crypto cards - worth watching which ones actually ship. What's your setup for spending crypto day to day? Anyone found something that genuinely feels frictionless?
-
-2d ago
-
----
-
-**[They'd never heard of ETH. They described it anyway. I didn't discover Ethereum in a whitepaper. I recognised it. In lectures thirty years old. In voices I still hear.](https://www.reddit.com/r/ethereum/comments/1sbnqtg/theyd_never_heard_of_eth_they_described_it_anyway/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -166,11 +168,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[I Asked ChatGPT To Explain Ethereum to Me Like I’m 12](https://finance.yahoo.com/markets/crypto/articles/asked-chatgpt-explain-ethereum-m-141704920.html)**
+**[Bitcoin and ethereum price today, Friday, April 3, 2026: Prices are mixed as traders weigh long-term outlook](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-friday-april-3-2026-prices-are-mixed-as-traders-weigh-long-term-outlook-120045802.html)**
 
-Confused by ethereum? Here’s a simple, beginner-friendly explanation of how it works, how to invest and whether it’s a good crypto investment, per ChatGPT.
+Bitcoin dipped while ethereum gained Friday morning after losing ground following President Trump’s prime-time address. Traders are questioning long-term outlooks.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -198,19 +200,11 @@ CoinDesk • 2d ago
 
 ---
 
-**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775382000)**
-
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 1d ago
-
----
-
 **[Charles Schwab’s Bitcoin and Ethereum rollout shows crypto is moving deeper into mainstream brokerage accounts](https://cryptoslate.com/charles-schwab-bitcoin-ethereum-mainstream-brokerage/)**
 
 Charles Schwab’s Bitcoin and Ethereum access shifts as major brokerages integrate crypto, testing demand, flows, and mainstream adoption.
 
-CryptoSlate • 3h ago
+cryptoslate.com • 4h ago
 
 ---
 
@@ -222,11 +216,19 @@ Benzinga • 3d ago
 
 ---
 
-**[Bitcoin and ethereum price today, Friday, April 3, 2026: Prices are mixed as traders weigh long-term outlook](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-friday-april-3-2026-prices-are-mixed-as-traders-weigh-long-term-outlook-120045802.html)**
+**[I Asked ChatGPT To Explain Ethereum to Me Like I’m 12](https://finance.yahoo.com/markets/crypto/articles/asked-chatgpt-explain-ethereum-m-141704920.html)**
 
-Bitcoin dipped while ethereum gained Friday morning after losing ground following President Trump’s prime-time address. Traders are questioning long-term outlooks.
+Confused by ethereum? Here’s a simple, beginner-friendly explanation of how it works, how to invest and whether it’s a good crypto investment, per ChatGPT.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin And Ethereum Adoption Gets A Boost From Schwab Launch](https://www.tradingview.com/news/newsbtc:3bff3e74e094b:0-bitcoin-and-ethereum-adoption-gets-a-boost-from-schwab-launch/)**
+
+Adoption of Bitcoin and Ethereum is poised to take a significant step forward as Charles Schwab introduces direct trading for both assets on its platform. As one of the largest financial institutions in the world, managing trillions in client assets, Schwab’s entry into the crypto space represents…
+
+TradingView • 15h ago
 
 ---
 
@@ -240,7 +242,7 @@ Welcome back to Verified Investing! In today's urgent crypto market update, Chie
 
 📺 Gareth Soloway
 
-👁️ 78K • 👍 5K • 💬 474 • ⏱️ 11:47 • 20h ago
+👁️ 78K • 👍 5K • 💬 474 • ⏱️ 11:47 • 21h ago
 
 ---
 
@@ -250,7 +252,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 92 • 👍 9 • ⏱️ 4:29 • 3h ago
+👁️ 92 • 👍 9 • ⏱️ 4:29 • 4h ago
 
 ---
 
@@ -290,7 +292,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 899 • 👍 69 • 💬 8 • ⏱️ 6:21 • 9h ago
+👁️ 899 • 👍 69 • 💬 8 • ⏱️ 6:21 • 10h ago
 
 ---
 
