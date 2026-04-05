@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-05T14:44:51.196833+00:00'
+updated: '2026-04-05T15:34:39.633231+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 05, 2026 at 14:44 UTC  
+**Last Updated:** April 05, 2026 at 15:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 For a cosplay competition performance, I came up with the idea of creating a companion. In Elden Ring, there are these living jars, and I think it’s a pretty great option for a cute side character in our cosplay. I want to turn one into a robot that can move quickly, move its arms, and play pre-recorded voice lines. The only problem is: I have no idea how to design the legs so that the robot can actually keep up with us while we walk at a normal pace. Especially since the original model has these awkward “chicken legs” (see photo 2), which really limits the possible options. So far, the only idea I’ve come up with is to put it on something like a wheelchair base. That would make movement much easier to implement, and we could even turn it into a joke as part of the performance. Does anyone have ideas on how to make a robot like this move fast enough to follow people?
 
-2h ago
+3h ago
 
 ---
 
@@ -44,13 +44,13 @@ For a cosplay competition performance, I came up with the idea of creating a com
 
 I was brought in to do some work on a pair of R-2000 Fanuc's a few years back and saw this on the safety fencing of the work cell.
 
-19h ago
+20h ago
 
 ---
 
 **[Robots are starting to enter one of the most sensitive environments we have.](https://www.reddit.com/r/robotics/comments/1scemxg/robots_are_starting_to_enter_one_of_the_most/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -58,7 +58,7 @@ I was brought in to do some work on a pair of R-2000 Fanuc's a few years back an
 
 Hey everyone, This was a short 2-day project exploring how a humanoid robot could fit into Muji’s minimal lifestyle philosophy. I focused on human-robot interaction — how the robot should feel, behave, and quietly exist in everyday spaces. Tried to keep everything simple, functional, and consistent with clear product constraints. Would love to hear your thoughts!
 
-16h ago
+17h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hey everyone, This was a short 2-day project exploring how a humanoid robot coul
 
 Researchers in the United States have developed air-powered artificial muscles that significantly enhance robots’ strength and mobility. This new technology enables robots to lift and carry loads many times their own weight more efficiently and with greater flexibility.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/artificial-muscles-robot-lift-more-weight) • 19h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/artificial-muscles-robot-lift-more-weight) • 20h ago
 
 ---
 
@@ -74,7 +74,7 @@ Researchers in the United States have developed air-powered artificial muscles t
 
 Hi! I’m working on bunch of tools for product design engineers and going to add them under meche.ai Currently I have: printadvisor.ai (material selection, print settings feedback) tolanalysis.com (tolerance stack up, Monte Carlo sim, Cpk analysis) dfmanalysis.com (DFM for CNC, sheet metal) pd.meche.ai (PD interview prep tool) cad.meche.ai (CAD viewer which is beautiful) Please check them and let me know if you have any thoughts/feedback 🙏 I’m planning to build more tools that I can put into use myself and for the community! So far I love building with Claude and Cursor. Feels like a new power got unlocked! 🔓
 
-🔗 [meche.ai](https://meche.ai) • 11h ago
+🔗 [meche.ai](https://meche.ai) • 12h ago
 
 ---
 
@@ -82,7 +82,7 @@ Hi! I’m working on bunch of tools for product design engineers and going to ad
 
 I’ve open-sourced GS-DroneGym, a drone-first research stack for vision-language-action work. Main idea: instead of only using synthetic assets, it can render observations from 3D Gaussian Splatting scenes, so you can prototype aerial waypoint policies in environments much closer to real visual conditions. Current features: - 6-DOF quadrotor dynamics - waypoint controller for [x, y, z, yaw] - gsplat renderer with CPU fallback - navigation tasks: PointNav, ObjectNav, ObstacleSlalom, DynamicFollow, NarrowCorridor - live viewer with RGB / depth / top-down trajectory - shared trajectory schema + dataset/eval tooling - adapters for GS-DroneGym, LIBERO, and LeRobot-format datasets https://github.com/09Catho/gs-dronegym Please star the repo if you find ut useful I’d especially appreciate feedback on: - sim-to-real usefulness - dataset generation for aerial VLA training - benchmark design for drone navigation
 
-17h ago
+18h ago
 
 ---
 
@@ -90,7 +90,7 @@ I’ve open-sourced GS-DroneGym, a drone-first research stack for vision-languag
 
 https://www.youtube.com/@ALMA.GeoffreyAment Chapter 3 Footnote 1. Building an Actuator, a PID Control Loop, and an Ultrasonic Distance sensor to detect and not crash into the ceiling. This will be used in Chapter 3 Desk -- Stay tuned for more!
 
-20h ago
+21h ago
 
 ---
 
@@ -98,7 +98,7 @@ https://www.youtube.com/@ALMA.GeoffreyAment Chapter 3 Footnote 1. Building an Ac
 
 I couldn't find a tool that properly visualized frame transformations, so I built one, and I think it is useful for many others too. What it (currently) does: Degree/radian converter My main focus is robotics, so next up I'm looking to add ROS 2-oriented features — these should for example make it faster to figure out why your transforms aren't doing what you think they should. If you think a feature is missing or have something you'd love to see added, I'm open to requests. https://rotation.dev
 
-23h ago
+1d ago
 
 ---
 
@@ -130,7 +130,7 @@ Crunchbase News • 3d ago
 
 This National Robotics Week, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world.
 
-NVIDIA Blog • 21h ago
+NVIDIA Blog • 22h ago
 
 ---
 
@@ -152,7 +152,7 @@ WSJ • 2d ago
 
 The architect of the DARPA Robotics Challenge explains how their brains have caught up
 
-IEEE Spectrum • 2d ago
+IEEE Spectrum • 3d ago
 
 ---
 
@@ -184,13 +184,21 @@ IEEE Spectrum • 3d ago
 
 Fred Kocher sits down with Dr. Joe Leahy and Leanne Berube with Southern NH Health to talk about how AI-assisted surgeries have impacted both patients and surgeons.
 
-WMUR • 3h ago
+WMUR • 4h ago
 
 ---
 
 ---
 
 ## YouTube Videos: "robotics"
+
+**[Auto Deodorant dispenser progress #diy #artificialintelligence #engineering #robotics #disability](https://www.youtube.com/watch?v=JuzaKB0lx6k)**
+
+📺 Yard Mon Robotics
+
+👁️ 1K • 👍 40 • 💬 5 • ⏱️ 0:47 • 12h ago
+
+---
 
 **[Samsung Introduces &quot;Galaxy BOT&quot; — A Humanoid Robot That Can Do Anything](https://www.youtube.com/watch?v=N3eRvZP6oVU)**
 
@@ -202,13 +210,23 @@ Samsung is drawing significant attention with its new concept known as “Galaxy
 
 ---
 
+**[Xiaomi Unveils &quot;Mi Bot&quot; - Robot Assistant That Can Sell Phones](https://www.youtube.com/watch?v=WgxEbw1i_PM)**
+
+Xiaomi is attracting attention with a new concept known as “Mi Bot,” a robotic assistant designed to operate in retail environments ...
+
+📺 Carros Show
+
+👁️ 5K • 👍 102 • 💬 3 • ⏱️ 8:55 • 6d ago
+
+---
+
 **[Shawn Ryan Tests a Real Humanoid Robot](https://www.youtube.com/watch?v=HWq9cFhTvvQ)**
 
 Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In this clip, we break down how this robot sees, ...
 
 📺 Shawn Ryan Show
 
-👁️ 979K • 👍 36K • 💬 6K • ⏱️ 8:48 • 3d ago
+👁️ 989K • 👍 37K • 💬 6K • ⏱️ 8:48 • 3d ago
 
 ---
 
@@ -218,37 +236,17 @@ The 2026 NHRL Pro World Championship Season is HERE! This is Round 3. This. Is. 
 
 📺 NHRL
 
-👁️ 8K • 👍 308 • 💬 5 • ⏱️ 3:15:56 • 12h ago
+👁️ 8K • 👍 322 • 💬 6 • ⏱️ 3:15:56 • 12h ago
 
 ---
 
-**[3 Funny Mistakes In Robot Movie 💩 #youtubeshorts #shorts](https://www.youtube.com/watch?v=j7XlrzNhawk)**
+**[Brett Adcock - Shawn Ryan’s First Interview with a Robot | SRS #292](https://www.youtube.com/watch?v=99pOdGEGu6s)**
 
-3 Funny Mistakes In Robot Movie #youtubeshorts #shorts #mistakes #movie #robot.
+Brett Adcock is a technology entrepreneur focused on building companies in robotics, artificial intelligence, and aerospace.
 
-📺 Kashtman Expo
+📺 Shawn Ryan Show
 
-👁️ 848 • ⏱️ 0:21 • 3h ago
-
----
-
-**[Xiaomi Unveils &quot;Mi Bot&quot; - Robot Assistant That Can Sell Phones](https://www.youtube.com/watch?v=WgxEbw1i_PM)**
-
-Xiaomi is attracting attention with a new concept known as “Mi Bot,” a robotic assistant designed to operate in retail environments ...
-
-📺 Carros Show
-
-👁️ 5K • 👍 101 • 💬 3 • ⏱️ 8:55 • 6d ago
-
----
-
-**[The Moment that Reset Robotics](https://www.youtube.com/watch?v=2mrGMMmrVNE)**
-
-Welch Labs Book: https://www.welchlabs.com/resources/ai-book-ezrzm-msrmc Book & VLA Poster Bundle: ...
-
-📺 Welch Labs
-
-👁️ 43K • 👍 2K • 💬 133 • ⏱️ 35:02 • 21h ago
+👁️ 514K • 👍 10K • 💬 3K • ⏱️ 2:57:09 • 5d ago
 
 ---
 
@@ -262,13 +260,13 @@ Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking
 
 ---
 
-**[Brett Adcock - Shawn Ryan’s First Interview with a Robot | SRS #292](https://www.youtube.com/watch?v=99pOdGEGu6s)**
+**[China unveils gun-wielding robot wolf pack that thinks with shared brain](https://www.youtube.com/watch?v=X9eoHMmiXFM)**
 
-Brett Adcock is a technology entrepreneur focused on building companies in robotics, artificial intelligence, and aerospace.
+The Chinese military have unveiled a lethal robot wolf pack capable of carrying machine guns and grenade launchers.
 
-📺 Shawn Ryan Show
+📺 The Sun
 
-👁️ 513K • 👍 10K • 💬 3K • ⏱️ 2:57:09 • 5d ago
+👁️ 30K • 👍 296 • 💬 218 • ⏱️ 1:00 • 6d ago
 
 ---
 
@@ -278,17 +276,17 @@ Round 3 of The 2026 NHRL Pro World Championship kicks off NOW! The path to crown
 
 📺 NHRL
 
-👁️ 12K • 👍 314 • 💬 4 • ⏱️ 4:56:01 • 15h ago
+👁️ 12K • 👍 319 • 💬 4 • ⏱️ 4:56:01 • 16h ago
 
 ---
 
-**[Don&#39;t Waste Money On An Expensive Robot Vacuum!](https://www.youtube.com/watch?v=sMt_jOouNeM)**
+**[Shawn Ryan Gets a Real-Life Robot 😳](https://www.youtube.com/watch?v=fQdJb7YzDRc)**
 
-A flagship robot vacuum might be out your budget. We tested the affordable Dreame D30 Ultra. ✔️ Buy it on Amazon ...
+Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join Support the Shawn ...
 
-📺 Vacuum Nerds
+📺 Shawn Ryan Show
 
-👁️ 3K • 👍 52 • 💬 17 • ⏱️ 8:48 • 1d ago
+👁️ 1.1M • 👍 18K • 💬 1K • ⏱️ 0:28 • 5d ago
 
 ---
 

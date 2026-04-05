@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-05T14:44:51.187794+00:00'
+updated: '2026-04-05T15:34:39.624137+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
 - news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 05, 2026 at 14:44 UTC  
+**Last Updated:** April 05, 2026 at 15:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1336.15B
+**Market Cap:** $1348.68B
 Rank #1
 
-**Circulating Supply:** 20,011,700 BTC
+**Circulating Supply:** 20,011,781 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--47.0%
+-46.4%
 
 **All-Time Low:** $67.81
-+98361.9%
++99472.3%
 
 ---
 
@@ -81,19 +81,19 @@ Rank #1
 
 i sold my house, and i dont think shares is best to put money in due to the iran war. so i bought 5 btc, hopefully we get to see 120k peak soon :)
 
-3h ago
+4h ago
 
 ---
 
 **[Could it really be that simple?](https://www.reddit.com/r/Bitcoin/comments/1scx8vs/could_it_really_be_that_simple/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Besides Being Easter Sunday - Today is Also Satoshi Nakamoto's 51st Birthday - According To Satoshi's P2P Foundation Profile - Happy Birthday Satoshi! 🥳](https://www.reddit.com/r/Bitcoin/comments/1sd3e1m/besides_being_easter_sunday_today_is_also_satoshi/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -101,7 +101,7 @@ i sold my house, and i dont think shares is best to put money in due to the iran
 
 To add to the title - At some point in 2009-2012, I used to leave my computer on overnight and while I was at school, mining bitcoin. I can't remember how long for, it could've been for a couple of weeks or potentially months. I only remember it was within this time period because it overlapped with me playing Runescape (lol), and I quit playing in 2012 for 10 years or more. I have sort of moved away from computers although in those days I was interested in gaming and beginner hacking. I was 15-17 and the hacking part is daft looking back at it. But what I'm really trying to say is I used to be fairly computer literate and now, not so much. I've been using macs for 12 years now. So no matter whether it was a week or several months I left it mining overnight etc. for, there is likely a decent amount of bitcoin on the harddrive. I don't have access to the email address I used in those years, I lost it about 5 years ago and seemingly can't recover it. ChatGPT tells me this likely isn't an issue as emails weren't used for sign up in the early days. More advice was to remove the hard drive and back it up on a second hard drive, before opening. Do I have a stab at this myself? How do I do this? Can I plug hard drive into my mac to transfer to a second hard drive? What if the hard drive was wiped? Would it be in any way possible to recover it? If I manage to locate the wallet, will I need to remember the password? I believe it was a long set of random numbers and letters so will never remember unless I also have it saved on the computer somewhere. What are my next steps? Thank you in advance.
 
-11h ago
+12h ago
 
 ---
 
@@ -117,7 +117,7 @@ Just threw on some low budget movie - or what I thought was a movie. Self Custod
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-8h ago
+9h ago
 
 ---
 
@@ -133,7 +133,7 @@ BTC adoption snapshot using 4 Glassnode BTC metrics only. Current reading: - Ado
 
 Paris Blockchain Week 2026 is coming up and it’s one of the largest global gatherings for the blockchain industry. The event usually brings together developers, institutional investors, startups, regulators, and infrastructure builders to discuss where the space is heading. With everything that happened over the last few years-bridge exploits, the rise of L2 ecosystems, institutional adoption, and increasing regulatory pressure - I’m curious what technologies people think will get the most attention this year. Some areas that seem to be gaining traction: * **Cross-chain interoperability** * **Decentralized identity** * **Tokenization of real-world assets** * **Institutional blockchain infrastructure** * **Protocol-level DeFi vs application-layer DeFi** * **Security models that reduce reliance on centralized bridges** Events like this tend to give a preview of what the industry will focus on for the next cycle. For those following the space closely, what **technical innovations or trends** do you think will dominate discussions at blockchain conferences in 2026?
 
-56m ago
+1h ago
 
 ---
 
@@ -141,7 +141,7 @@ Paris Blockchain Week 2026 is coming up and it’s one of the largest global gat
 
 We’ve enabled BTC + NMC merged mining on SoloPool.eu. Stratum is live at: btc.solopool.eu:3337 Mining already works, but the NMC pages/stats are still being finished. If you want to test it: Step 1 — Get a NMC address Download Namecoin Core or Electrum-NMC from namecoin.info Create a wallet and copy your address (starts with N) Step 2 — Update your username Change from: bc1qYourBtcAddress.worker1 To: bc1qYourBtcAddress.worker1.NJctzYourNmcAddress The pool reads the NMC address automatically from the third part. No extra setup needed. If you try it, feedback is welcome.
 
-1h ago
+2h ago
 
 ---
 
@@ -161,7 +161,7 @@ Hi, Whats your perspective on this?
 
 Developers are considering ways to quantum-proof the world's oldest cryptocurrency as the threat of this computing moves beyond a hypothetical.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -175,7 +175,7 @@ forbes.com • 1d ago
 
 The Google-led study described its hardware assumptions as conservative while withholding full algorithmic detail for security reasons.
 
-The Jerusalem Post • 4h ago
+The Jerusalem Post • 5h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Jerusalem Post • 4h ago
 
 The service will be unavailable in New York and Louisiana at launch, and fee structure and custody arrangements have not yet been disclosed.
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
@@ -207,7 +207,7 @@ CoinDesk • 1d ago
 
 Rich Dad Poor Dad author Robert Kiyosaki has argued that the economic shifts set in motion more than five decades ago are now unfolding, advocating for Bitcoin and gold while warning against rising debt, inflation and retirement risks.In a Saturday post on X, Kiyosaki pointed to 1974 as a turning p…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
@@ -215,7 +215,7 @@ TradingView • 2h ago
 
 Bitcoin (BTC) circled $67,000 on Sunday as traders warned of hidden BTC price weakness.Key points:Bitcoin trader waits for sweep of sub-$60,000 lowsData from TradingView showed volatility cooling over the weekend, with BITSTAMP:BTCUSD acting within an increasingly narrow range.On four-hour time fra…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
@@ -223,7 +223,7 @@ TradingView • 2h ago
 
 Social sentiment, on-chain data, and positioning metrics all hit extremes not seen since late February, even as institutional buying remains elevated.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -259,7 +259,7 @@ Google Research said the necessary resources for quantum computers to break cryp
 
 Bitcoin needs to fix this in the next three years.
 
-⬆️ 5 • 💬 2 • 3d ago • [Mashable](https://mashable.com/article/google-research-bitcoin-cryptography-broken)
+⬆️ 5 • 💬 2 • 4d ago • [Mashable](https://mashable.com/article/google-research-bitcoin-cryptography-broken)
 
 ---
 
@@ -321,7 +321,7 @@ Markets cracked, oil surged, Bitcoin dipped, and Larry Fink is warning that a pr
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 110 • ⏱️ 14:11 • 1d ago
+👁️ 21K • 👍 1K • 💬 111 • ⏱️ 14:11 • 1d ago
 
 ---
 
@@ -331,17 +331,7 @@ Welcome back to Verified Investing! In today's urgent crypto market update, Chie
 
 📺 Gareth Soloway
 
-👁️ 78K • 👍 5K • 💬 475 • ⏱️ 11:47 • 21h ago
-
----
-
-**[What’s Actually Happening To Bitcoin &amp; The Economy Right Now](https://www.youtube.com/watch?v=S2ziezeoK4E)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 43K • 👍 2K • 💬 102 • ⏱️ 45:08 • 1d ago
+👁️ 82K • 👍 5K • 💬 484 • ⏱️ 11:47 • 22h ago
 
 ---
 
@@ -351,7 +341,17 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEE
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 283 • ⏱️ 8:47 • 1d ago
+👁️ 43K • 👍 2K • 💬 284 • ⏱️ 8:47 • 1d ago
+
+---
+
+**[What’s Actually Happening To Bitcoin &amp; The Economy Right Now](https://www.youtube.com/watch?v=S2ziezeoK4E)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 45K • 👍 2K • 💬 102 • ⏱️ 45:08 • 1d ago
 
 ---
 
@@ -361,7 +361,7 @@ Charles Schwab Just Released The Crypto Bulls!! BTC Conference 2026 - 'ALTCOINDA
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 2K • 💬 220 • ⏱️ 12:19 • 18h ago
+👁️ 29K • 👍 2K • 💬 235 • ⏱️ 12:19 • 19h ago
 
 ---
 
@@ -371,7 +371,7 @@ Coinbase just told Washington that Bitcoin doesn't need a tax exemption because 
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 865 • 💬 74 • ⏱️ 17:14 • 17h ago
+👁️ 12K • 👍 906 • 💬 81 • ⏱️ 17:14 • 18h ago
 
 ---
 
@@ -381,7 +381,7 @@ The risk models that say when to accumulate or exit HERE. Free trial https://app
 
 📺 Dan Gambardello
 
-👁️ 12K • 👍 731 • 💬 308 • ⏱️ 12:33 • 1d ago
+👁️ 13K • 👍 746 • 💬 313 • ⏱️ 12:33 • 1d ago
 
 ---
 
@@ -391,7 +391,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Vik's Video Vizuals
 
-👁️ 2K • 👍 1K • 2h ago
+👁️ 5K • 👍 4K • 3h ago
 
 ---
 
@@ -401,7 +401,7 @@ Welcome back! More Iran announcements over the weekend but Bitcoin is holding up
 
 📺 Aaron Bennett
 
-👁️ 6K • 👍 396 • 💬 185 • ⏱️ 6:51 • 1d ago
+👁️ 7K • 👍 402 • 💬 187 • ⏱️ 6:51 • 1d ago
 
 ---
 
@@ -411,7 +411,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Buy
 
 📺 Altcoin Daily
 
-👁️ 9K • 👍 257 • 💬 147 • ⏱️ 1:07 • 2d ago
+👁️ 9K • 👍 259 • 💬 147 • ⏱️ 1:07 • 2d ago
 
 ---
 

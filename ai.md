@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-05T14:44:51.179470+00:00'
+updated: '2026-04-05T15:34:39.615738+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
 - news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 05, 2026 at 14:44 UTC  
+**Last Updated:** April 05, 2026 at 15:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 AI sycophancy, RLHF bias, and Ender's Foundry simulations shaped Operation Epic Fury. 7 planning assumptions failed in 23 days as the Iran war defied every AI prediction.
 
-🔗 [House of Saud](https://houseofsaud.com/iran-war-ai-psychosis-sycophancy-rlhf/) • 14h ago
+🔗 [House of Saud](https://houseofsaud.com/iran-war-ai-psychosis-sycophancy-rlhf/) • 15h ago
 
 ---
 
@@ -55,7 +55,7 @@ AI sycophancy, RLHF bias, and Ender's Foundry simulations shaped Operation Epic 
 
 After reading many developers' hands-on reviews, Gemma 4 is truly impressive. The 26B version is fast and uses little memory. What's everyone else's experience?
 
-10h ago
+11h ago
 
 ---
 
@@ -63,7 +63,7 @@ After reading many developers' hands-on reviews, Gemma 4 is truly impressive. Th
 
 Paligo's interactive investigation maps AI's chip dependency, energy demands, and content layer - revealing what it actually costs to run a model at scale.
 
-🔗 [PPC Land](http://ppc.land/the-hidden-infrastructure-cost-behind-every-ai-answer) • 30m ago
+🔗 [PPC Land](http://ppc.land/the-hidden-infrastructure-cost-behind-every-ai-answer) • 1h ago
 
 ---
 
@@ -71,7 +71,7 @@ Paligo's interactive investigation maps AI's chip dependency, energy demands, an
 
 You can upload a lead, and the Assistant will follow up, track information, respond to all messages, and even schedule visits based on a schedule. It includes a built-in offer calculator and an AI-powered Wholesale Expert to assist you. You can create numerous campaigns with a large number of leads, and simultaneously, an n8n workflow is triggered when: There is an interested lead There is a scheduled visit A scan is run There is a scheduling conflict I'm currently working on adding a data scraper for buyers and sellers. I'd love to hear your suggestions and ideas for improving it. Any suggestions or ideas are welcome; I'm eager to hear from you. https://preview.redd.it/vkwlprsdidtg1.png?width=620&format=png&auto=webp&s=cd7badafa69342becc09f871e58cadd52dc20d8f
 
-1h ago
+2h ago
 
 ---
 
@@ -79,7 +79,7 @@ You can upload a lead, and the Assistant will follow up, track information, resp
 
 someone opensource an ai agent that autonomously upgraded itself to #1 across multiple domains in < 24 hours…. then open sourced the entire thing but here’s why it actually works: - agents fucking suck, not because of the model, because of their harness (tools, system prompts etc) - Auto agent creates a Meta agent that tweaks your agents harness, runs tests, improves it again - until it’s #1 at its goal - best part: you can set this up for ANY task. in this article he uses it for terminal bench (code) and spreadsheets (financial modelling) - it topped rankings for both :) - secret sauce: he used THE SAME MODEL to evaluate the agent - claude managing claude = better understanding of why it failed and how to improve it humans were the fucking bottleneck and this not only saves you a load of time, it’s just a better way to train them for domain specific tasks https://github.com/kevinrgu/autoagent
 
-7h ago
+8h ago
 
 ---
 
@@ -87,7 +87,7 @@ someone opensource an ai agent that autonomously upgraded itself to #1 across mu
 
 I do a lot of writing and random problem solving for work. Mostly long drafts, edits, and breaking down ideas. Around Jan I kept hitting limits on ChatGPT and Claude at the worst times. Like you are halfway through something, finally in flow, and boom… limit reached. Either wait or switch tools and lose context. I tried paying for a bit but managing multiple subscriptions felt stupid for how often I actually needed them. So I started testing free options properly. Not those listicle type “top 10 AI tools” posts, but actually using them in real tasks. After around 2 to 3 months of trying different stuff, this is what stuck. Google AI Studio is probably the one I use the most now. I found it by accident while searching for Gemini alternatives. The normal Gemini site kept limiting me, but AI Studio felt completely different. I usually dump full notes or messy drafts into it and ask it to clean things up or expand sections. It handles long inputs way better than most free tools I tried. I have not really hit a hard limit there yet during normal use. For research I use Perplexity free. It is not perfect, sometimes the sources are mid, but it is fast enough to get direction. I usually double check important stuff anyway. Claude free I still use, but only when I want that specific tone. Weirdly I noticed the limits reset separately on different browsers. So I just switch between Chrome and Edge when needed. Not a genius hack, just something that ended up working. For anything even slightly sensitive, I use Ollama locally. Setup took me like 10 to 15 minutes after watching one random YouTube video. It is slower, not gonna lie, but no limits and I do not have to worry about uploading private stuff. I also tried a bunch of other tools people hype on Twitter. Some were decent for one or two uses, then just annoying. Either too slow or randomly restricted. Right now this setup covers almost everything I actually do day to day. I still hit limits sometimes, but it is way less frustrating compared to before. I was paying around 60 to 80 dollars earlier. Now it is basically zero, and I am not really missing much for the kind of work I do. I made a full list of all 11 things I tested and what actually worked vs what was overhyped. Did not want to dump everything here.
 
-17h ago
+18h ago
 
 ---
 
@@ -103,7 +103,7 @@ My friend came over yesterday to dye her hair. She had asked ChatGPT for the 'co
 
 Back in the day, I got ChatGPT Plus mostly for work and to help me write better and do stuff faster. But now I use it for almost everything. Like planning things, rewriting things, orgnizing my thoughts, helping me start things when I didn't know where to begin, and even just when I feel mentally tired and don’t want to think so hard, which is kinda becoming more frequent. It helps a lot.. Like a lot a lot. Sometimes I honestly wish it would help me in car repairs, but I guess that's too much in the future lol. I feel way more productive now than I used to be. I get through work faster, I don’t get stuck as much (though sometimes when the context windows shrinks or content gets truncated, quality feels off directly), and I waste less time sitting there overthinking dumb stuff. Between ChatGPT, Claude, and a couple smaller tools I’ve tried, I’ve noticed my whole workflow feels smoother now. I am literally hooked to ChatGPT + Bearbits + Claude Cowork for my work, like I couldn't imagine myself without them (though I'm on ChatGPT Pro + all the other subs that kinda bleed too much money, roughly $350 per month, but the good thing is that I can afford it for now).., AI in general is becoming part of how I think through work now, like slightly panicking when I am *outside* without my meeting transcript app and people ask things that I usually just let AI answer based on my past meetings in literally one click, or when someone asks me to do a presentation without preparing my script beforehand with ChatGPT, or like even the boring things of creating powerpoint slides... This is what kind of worries me. :/ I can feel myself depending on AI more and more., even for small things that maybe I should still be doing with my own *little, not AI-native* brain. Like how to start writing something, how to structure an idea, how to word a message, or even just how to think through something when I feel lazy. And I keep wondering like what does this actually do to us long term? Like for us as humanity overall.. Because yes, it makes life easier. Yes, it makes me more productive. But is it also making usthink less? And if it is, what does that mean for our brains after years of this? What happens if we get too used to not struggling mentally anymore? Like how will 2040 people look like, assuming that we didn't nuke ourselves... I’m not saying AI is bad. I actually love it and use it all the time now. I’m probably already more dependent on it than I want to admit. If it disappeared tomorroow I would feel the difference instantly. I guess we did feel a taste of this when the GPT-4o model disappeared.. I just keep thinking maybe this is helping us a lot, but maybe it’s also changing something deeper in us too. Like not only how we work (which is probably gonna be a fun ride in the upcoming years:)), but how we think, and maybe even how we find meaning in doing things ourselves. PLEASE tell me we are not doomed..
 
-16h ago
+17h ago
 
 ---
 
@@ -123,7 +123,7 @@ Every single Instagram reel or TikTok I scroll i see people mentioning Claude an
 
 After forgetting the nibbles, turning down my costume requests and emailing GCHQ, ‘Gaskell’ did at least get us to show up
 
-The Guardian • 7h ago
+The Guardian • 8h ago
 
 ---
 
@@ -135,7 +135,7 @@ The New York Times • 22h ago
 
 **[Drones are beating missiles. AI is doing the same to corporate America](https://www.axios.com/2026/04/05/small-teams-ai-drones-geopolitics-business)**
 
-Axios • 26m ago
+Axios • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ CNBC • 2h ago
 
 ﻿The best educational choice you can make for your child might not focus on your child at all.
 
-Vox • 2h ago
+Vox • 3h ago
 
 ---
 
@@ -159,7 +159,7 @@ Vox • 2h ago
 
 Videos have targeted Viktor Orbán's election rival, who could unseat him after 16 years in office.
 
-BBC • 15h ago
+BBC • 16h ago
 
 ---
 
@@ -167,7 +167,7 @@ BBC • 15h ago
 
 Angela Lipps' ordeal is the latest in a trend that has resulted in at least 13 case dismissals nationwide.
 
-NBC News • 5h ago
+NBC News • 6h ago
 
 ---
 
@@ -175,7 +175,7 @@ NBC News • 5h ago
 
 Artificial intelligence helps you work harder, instead of just outsourcing your brain.
 
-The Washington Post • 5m ago
+The Washington Post • 55m ago
 
 ---
 
@@ -187,7 +187,7 @@ Reuters • 1d ago
 
 **[Nvidia Partner Hon Hai’s Sales Meet Estimates on Solid AI Demand](https://www.bloomberg.com/news/articles/2026-04-05/nvidia-partner-hon-hai-s-sales-meet-estimates-on-solid-ai-demand)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -219,7 +219,7 @@ Complete all topics from Todo.md including SQL functions, configuration guides,
 troubleshooting runbooks, architecture comparisons, SDK tutorials, and operator
 deployment pattern...
 
-⬆️ 146 • 💬 145 • 21h ago • [GitHub](https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849)
+⬆️ 146 • 💬 145 • 22h ago • [GitHub](https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849)
 
 ---
 
@@ -247,13 +247,13 @@ AI-powered travel hacking with points, miles, and award flights. Drop-in skills 
 
 **[Writing Lisp is AI resistant and I'm sad](https://news.ycombinator.com/item?id=47645468)**
 
-⬆️ 70 • 💬 77 • 12h ago • [blog.djhaskin.com](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
+⬆️ 70 • 💬 77 • 13h ago • [blog.djhaskin.com](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
 
 ---
 
 **[AI that copied musical artist files copyright claim against artist [updated]](https://news.ycombinator.com/item?id=47645976)**
 
-⬆️ 60 • 💬 15 • 10h ago • [X (formerly Twitter)](https://twitter.com/VladTheInflator/status/2039577001531768906)
+⬆️ 60 • 💬 15 • 11h ago • [X (formerly Twitter)](https://twitter.com/VladTheInflator/status/2039577001531768906)
 
 ---
 
@@ -277,6 +277,16 @@ Hi! If you like this piece and want to support my independent reporting and anal
 
 ## YouTube Videos: "ai"
 
+**[AI Predicts: The Next Pandemic](https://www.youtube.com/watch?v=0-Jd7FwpWv8)**
+
+This video was made with financial support from the Center for Al Safety. This video is a speculative simulation created for ...
+
+📺 How to Survive Show
+
+👁️ 4K • 👍 248 • 💬 30 • ⏱️ 19:08 • 1d ago
+
+---
+
 **[Anthropic&#39;s New Claude CONWAY Is Unlike Any AI Before](https://www.youtube.com/watch?v=x2l7W9aTc5k)**
 
 Anthropic is testing Claude Conway, a strange new AI system that looks less like a chatbot and more like a persistent agent ...
@@ -287,23 +297,23 @@ Anthropic is testing Claude Conway, a strange new AI system that looks less like
 
 ---
 
-**[AI Predicts: The Next Pandemic](https://www.youtube.com/watch?v=0-Jd7FwpWv8)**
+**[AI Designed Its Own Memory w/ AutoResearchClaw: OmniMEM](https://www.youtube.com/watch?v=jJ3vBj7Xufc)**
 
-This video was made with financial support from the Center for Al Safety. This video is a speculative simulation created for ...
+AutoResearchClaw builds it own AI multimodal Memory system: OmniMEM. All rights w/ authors: OMNIMEM: ...
 
-📺 How to Survive Show
+📺 Discover AI
 
-👁️ 4K • 👍 238 • 💬 29 • ⏱️ 19:08 • 23h ago
+👁️ 3K • 👍 156 • 💬 14 • ⏱️ 42:14 • 1d ago
 
 ---
 
-**[Liquid River Cascade 🌊💧✨ (Part 1) AI ASMR | Endless Flow &amp; Pure Relax Energy 🌀💫](https://www.youtube.com/watch?v=uLEBB9HDoFI)**
+**[Wall Street Just Bet $285 Billion on AI Agents. The Best One Barely Works.](https://www.youtube.com/watch?v=D-Ww1wLIp60)**
 
-Welcome to Part 1 of Liquid River Cascade ✨   This place doesn't follow nature. It flows… differently. No wind. No sound.
+My site: https://natebjones.com Full Story w/ Prompts: ...
 
-📺 Satisfyra ASMR
+📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 99K • 👍 4K • 💬 325 • ⏱️ 8:15 • 2d ago
+👁️ 35K • 👍 1K • 💬 150 • ⏱️ 22:30 • 1d ago
 
 ---
 
@@ -313,17 +323,17 @@ Which dream pool would you dive into? Relax with this oddly satisfying AI ASMR p
 
 📺 Noeva
 
-👁️ 53K • 👍 220 • 💬 10 • ⏱️ 10:32 • 2d ago
+👁️ 56K • 👍 224 • 💬 10 • ⏱️ 10:32 • 2d ago
 
 ---
 
-**[Gemma + Google AI Studio Is Insane!](https://www.youtube.com/watch?v=N8BkZGW65Tw)**
+**[Liquid River Cascade 🌊💧✨ (Part 1) AI ASMR | Endless Flow &amp; Pure Relax Energy 🌀💫](https://www.youtube.com/watch?v=uLEBB9HDoFI)**
 
-Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
+Welcome to Part 1 of Liquid River Cascade ✨   This place doesn't follow nature. It flows… differently. No wind. No sound.
 
-📺 Julian Goldie SEO
+📺 Satisfyra ASMR
 
-👁️ 913 • 👍 42 • 💬 2 • ⏱️ 8:28 • 10h ago
+👁️ 103K • 👍 4K • 💬 326 • ⏱️ 8:15 • 2d ago
 
 ---
 
@@ -333,7 +343,7 @@ Asking ChatGPT about pi was the worst mistake he ever made. Become a member on Y
 
 📺 Mo Bitar
 
-👁️ 143K • 👍 10K • 💬 2K • ⏱️ 6:33 • 2d ago
+👁️ 147K • 👍 10K • 💬 2K • ⏱️ 6:33 • 2d ago
 
 ---
 
@@ -343,7 +353,17 @@ Here's the AI News you probably missed this week. Try Recraft V4 now and experie
 
 📺 Matt Wolfe
 
-👁️ 71K • 👍 3K • 💬 227 • ⏱️ 31:05 • 1d ago
+👁️ 73K • 👍 3K • 💬 230 • ⏱️ 31:05 • 2d ago
+
+---
+
+**[The RESULTS ARE IN! - Jay vs Salesman vs AI!](https://www.youtube.com/watch?v=JMsUbLNyuiw)**
+
+The results are in! Welcome to the finale of Jay vs AI vs Salesman build challenge! Stay tuned for Season 2 where we have to ...
+
+📺 JayzTwoCents
+
+👁️ 155K • 👍 10K • 💬 1K • ⏱️ 28:22 • 2d ago
 
 ---
 
@@ -354,26 +374,6 @@ Check out Suno https://suno.com/?utm_source=Ytamb&utm_medium=isa-does-ai In this
 📺 Isa does AI
 
 👁️ 9K • 💬 1 • ⏱️ 10:45 • 1d ago
-
----
-
-**[The RESULTS ARE IN! - Jay vs Salesman vs AI!](https://www.youtube.com/watch?v=JMsUbLNyuiw)**
-
-The results are in! Welcome to the finale of Jay vs AI vs Salesman build challenge! Stay tuned for Season 2 where we have to ...
-
-📺 JayzTwoCents
-
-👁️ 154K • 👍 10K • 💬 1K • ⏱️ 28:22 • 2d ago
-
----
-
-**[AI News: Claude Leaks, Free Google AI Updates, + ChatGPT CarPlay](https://www.youtube.com/watch?v=Y9BOY4k_zb8)**
-
-Try i10x: https://i10x.ai?fpr=paul53 Save 15% with code "PJL15" From leaked source code to free storage upgrades, this was one ...
-
-📺 Paul J Lipsky
-
-👁️ 18K • 👍 650 • 💬 87 • ⏱️ 17:39 • 1d ago
 
 ---
 
@@ -389,7 +389,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 490,192 • ❤️ 912 • 3d ago
+⬇️ 490,192 • ❤️ 930 • 3d ago
 
 ---
 
@@ -401,7 +401,19 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 539,356 • ❤️ 2,312 • 4h ago
+⬇️ 539,356 • ❤️ 2,323 • 5h ago
+
+---
+
+**[Bonsai-8B-gguf](https://huggingface.co/prism-ml/Bonsai-8B-gguf)**
+
+*Prism ML*
+
+Bonsai-8B-GGUF is a highly compressed 1-bit language model (1.15 GB) optimized for llama.cpp, offering competitive performance with full-precision 8B models. It enables efficient on-device text generation across CUDA, Metal, and CPU platforms with significantly reduced memory and energy consumption.
+
+`text-generation` `8.2B`
+
+⬇️ 38,631 • ❤️ 410 • 5d ago
 
 ---
 
@@ -413,7 +425,7 @@ Cohere Transcribe is a 2B parameter Conformer-based ASR model supporting 14 lang
 
 `automatic-speech-recognition`
 
-⬇️ 120,998 • ❤️ 796 • 2d ago
+⬇️ 120,998 • ❤️ 797 • 2d ago
 
 ---
 
@@ -429,18 +441,6 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 ---
 
-**[Bonsai-8B-gguf](https://huggingface.co/prism-ml/Bonsai-8B-gguf)**
-
-*Prism ML*
-
-Bonsai-8B-GGUF is a highly compressed 1-bit language model (1.15 GB) optimized for llama.cpp, offering competitive performance with full-precision 8B models. It enables efficient on-device text generation across CUDA, Metal, and CPU platforms with significantly reduced memory and energy consumption.
-
-`text-generation` `8.2B`
-
-⬇️ 38,631 • ❤️ 403 • 5d ago
-
----
-
 **[gemma-4-26B-A4B-it](https://huggingface.co/google/gemma-4-26B-A4B-it)**
 
 *Google*
@@ -449,7 +449,7 @@ Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing te
 
 `image-text-to-text` `26.5B`
 
-⬇️ 271,222 • ❤️ 375 • 3d ago
+⬇️ 271,222 • ❤️ 381 • 3d ago
 
 ---
 
@@ -461,7 +461,7 @@ VOID is a video-to-video diffusion model for object and interaction removal, cap
 
 `video-to-video`
 
-⬇️ 0 • ❤️ 343 • 2d ago
+⬇️ 0 • ❤️ 359 • 2d ago
 
 ---
 
@@ -473,7 +473,7 @@ Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, support
 
 `any-to-any` `8.0B`
 
-⬇️ 197,704 • ❤️ 328 • 3d ago
+⬇️ 197,704 • ❤️ 335 • 3d ago
 
 ---
 
@@ -485,7 +485,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 725,110 • ❤️ 979 • 1mo ago
+⬇️ 725,110 • ❤️ 982 • 1mo ago
 
 ---
 
@@ -497,7 +497,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2 is an image-text-to-text mode
 
 `image-text-to-text` `26.9B`
 
-⬇️ 254,428 • ❤️ 502 • 4h ago
+⬇️ 254,428 • ❤️ 503 • 5h ago
 
 ---
 
@@ -537,7 +537,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 36 • 💬 2 • ⭐ 47,109 • 15mo ago
+▲ 36 • 💬 2 • ⭐ 47,302 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -551,7 +551,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 VOID is a video object removal framework that uses vision-language models and video diffusion models to generate physically plausible scenes by leveraging causal reasoning and counterfactual reasoning.
 
-▲ 28 • 💬 5 • ⭐ 509 • 3d ago
+▲ 29 • 💬 5 • ⭐ 509 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.02296) • [💻 code](https://github.com/Netflix/void-model) • [🔗 project](https://void-model.github.io/)
 
@@ -566,20 +566,6 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 ▲ 37 • 💬 2 • ⭐ 32,175 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
-
----
-
-**[Generative World Renderer](https://huggingface.co/papers/2604.02329)**
-
-*Zheng-Hui Huang, Zhixiang Wang, Jiaming Tan et al. (9 authors)*
-
-🏢 Shanda AI Research Tokyo
-
-A large-scale dynamic dataset derived from AAA games is introduced to improve generative inverse and forward rendering, featuring high-resolution synchronized RGB and G-buffer data alongside a novel VLM-based evaluation method that correlates well with human judgment.
-
-▲ 86 • 💬 3 • ⭐ 261 • 3d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2604.02329) • [💻 code](https://github.com/ShandaAI/AlayaRenderer) • [🔗 project](https://alaya-studio.github.io/renderer)
 
 ---
 
@@ -611,6 +597,20 @@ DeepScientist autonomously conducts scientific discovery through Bayesian Optimi
 
 ---
 
+**[Generative World Renderer](https://huggingface.co/papers/2604.02329)**
+
+*Zheng-Hui Huang, Zhixiang Wang, Jiaming Tan et al. (9 authors)*
+
+🏢 Shanda AI Research Tokyo
+
+A large-scale dynamic dataset derived from AAA games is introduced to improve generative inverse and forward rendering, featuring high-resolution synchronized RGB and G-buffer data alongside a novel VLM-based evaluation method that correlates well with human judgment.
+
+▲ 86 • 💬 3 • ⭐ 303 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2604.02329) • [💻 code](https://github.com/ShandaAI/AlayaRenderer) • [🔗 project](https://alaya-studio.github.io/renderer)
+
+---
+
 **[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
 
 *Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
@@ -631,7 +631,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through distributed mechanisms, flexible environments, and user-friendly tools.
 
-▲ 41 • 💬 2 • ⭐ 22,973 • 20mo ago
+▲ 41 • 💬 2 • ⭐ 22,993 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.17789) • [💻 code](https://github.com/modelscope/agentscope)
 
@@ -647,7 +647,7 @@ Enhancements to the AgentScope platform improve scalability, efficiency, and eas
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 15.1k • 🔱 840 • 5d ago
+⭐ 15.1k • 🔱 844 • 5d ago
 
 ---
 
@@ -657,7 +657,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 13.2k • 🔱 1.2k • 2h ago
+⭐ 13.3k • 🔱 1.2k • 39m ago
 
 ---
 
@@ -677,7 +677,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 7.7k • 🔱 1.0k • 6d ago
+⭐ 7.8k • 🔱 1.0k • 6d ago
 
 ---
 
@@ -687,7 +687,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.7k • 🔱 390 • 23h ago
+⭐ 6.7k • 🔱 392 • 1h ago
 
 ---
 
@@ -717,7 +717,7 @@ Autonomous novel writing CLI AI Agent — agents write, audit, and revise novels
 
 `TypeScript` `agent` `ai` `ai-agent` `ai-novel` `ai-writing`
 
-⭐ 3.5k • 🔱 631 • 1d ago
+⭐ 3.5k • 🔱 632 • 1d ago
 
 ---
 
@@ -737,7 +737,7 @@ LIBERATED AI CHAT
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 760 • 10d ago
+⭐ 3.4k • 🔱 762 • 10d ago
 
 ---
 
