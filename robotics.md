@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-05T22:32:53.679790+00:00'
+updated: '2026-04-05T23:35:26.810824+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 05, 2026 at 22:32 UTC  
+**Last Updated:** April 05, 2026 at 23:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Robot dog takes on security duties in Atlanta](https://www.reddit.com/r/robotics/comments/1sd8dlv/robot_dog_takes_on_security_duties_in_atlanta/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 For a cosplay competition performance, I came up with the idea of creating a companion. In Elden Ring, there are these living jars, and I think it’s a pretty great option for a cute side character in our cosplay. I want to turn one into a robot that can move quickly, move its arms, and play pre-recorded voice lines. The only problem is: I have no idea how to design the legs so that the robot can actually keep up with us while we walk at a normal pace. Especially since the original model has these awkward “chicken legs” (see photo 2), which really limits the possible options. So far, the only idea I’ve come up with is to put it on something like a wheelchair base. That would make movement much easier to implement, and we could even turn it into a joke as part of the performance. Does anyone have ideas on how to make a robot like this move fast enough to follow people?
 
-10h ago
+11h ago
 
 ---
 
@@ -54,11 +54,11 @@ I was brought in to do some work on a pair of R-2000 Fanuc's a few years back an
 
 ---
 
-**[Robotic arm uses ToF telemetry and a custom gravity-bias database to master grabs.](https://www.reddit.com/r/robotics/comments/1sdgzwt/robotic_arm_uses_tof_telemetry_and_a_custom/)**
+**[Autonomous Robot Arm with Inverse Kinematics and YOLOV model](https://www.reddit.com/r/robotics/comments/1sdhfcd/autonomous_robot_arm_with_inverse_kinematics_and/)**
 
-AL5D robot arm on which we have been testing our models A high precision distance sensor placed on the gripper and a few 3D printed parts later … presenting the Mark 10. At this point, the built moved away from calculating regressions from previous collected waypoints to dynamic. Object tracking is enabled through computer vision driven by YOLOv8 and Time-of-Flight telemetry. The goal? True 3D spatial grasp capability, regardless of object height or planar position. To achieve this shoulder servo geometry and gravity bias data is collected to train custom compensation algorithms. You will see smooth captures, but you will also see the failures. And that is the point. The 'misses' usually reveal much more than successes. The system eliminates 'sweet spots': with adaptive lateral tracking and real-time height compensation, in the video the Mark 10 manages to track and grab the figurine at different positions. Whether floor-level or elevated, to the left or right, the arm adjusts dynamically to deliver a secure, orthogonal grasp.
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [LinkedIn](https://www.linkedin.com/posts/miguel-pereira-27324931_robotics-computervision-python-activity-7407475997245194240-auU1?utm_source=share&utm_medium=member_ios&rcm=ACoAAAae6jcBwCzFhzmvOzn24BNV6khiGaKi1G4) • 8m ago
+🔗 [youtu.be](https://youtu.be/3QHNelilULQ?is=97gu8OZs77oEzJkH) • 52m ago
 
 ---
 
@@ -66,7 +66,7 @@ AL5D robot arm on which we have been testing our models A high precision distanc
 
 Hello all, I am working on impedance control for a robot arm for a task of placing a usb in its socket and I’m a bit stuck on whether using a force/torque sensor is actually worth it. From what I understand, impedance control can be done without a force sensor (using position errors). I am trying to figure out: - When does a force/torque sensor become really necessary with impedance controller? - Does it significantly improve stability/safety, or just performance? - Would admittance control be a better option if I already have a force sensor? Would really appreciate any insight. Thanks in advance.
 
-15m ago
+1h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hello all, I am working on impedance control for a robot arm for a task of placi
 
 Hi, I’m a second-year EE student (at a mid-tier-engineering school), and I am aiming for robotics internships next summer at companies like Boston Dynamics or Tesla. I’m trying to decide where to focus my effort over the next year: Firmware / embedded systems (STM32, C, ROS2, controls, edge AI, ML) Hardware / PCB design Current experience: Some computer vision work (MediaPipe) Currently building an impedance-controlled actuator (STM32 + motor + encoder + current sensing) My question is: For robotics internships, which direction tends to be more valuable? And what kinds of projects actually stand out when applying? I tend to get shiny-object syndrome and find a new thing to learn without going deep into one, and I want to focus on one topic and learn something that has the highest ROI.
 
-33m ago
+1h ago
 
 ---
 
@@ -82,7 +82,7 @@ Hi, I’m a second-year EE student (at a mid-tier-engineering school), and I am 
 
 I want to show my cambotv1 robot. it is a 3d printed robot that is joystick controlled and has camera footage in c++/python. I use linux input at the moment but soon i will try to use libevdev(evdev wrapper)in c++ so that it is more in sync the python code version
 
-🔗 [youtube.com](https://youtube.com/shorts/-pBvNUXrxUc?si=xDMeBR52YhB-FdkZ) • 1h ago
+🔗 [youtube.com](https://youtube.com/shorts/-pBvNUXrxUc?si=xDMeBR52YhB-FdkZ) • 2h ago
 
 ---
 
@@ -96,7 +96,7 @@ I want to show my cambotv1 robot. it is a 3d printed robot that is joystick cont
 
 Hi everyone, I need your help regarding the servo you see in the image. Does anyone know if this type of servo exists, but instead of a toothed pinion, it has a simple cylindrical shaft, approximately 3mm in diameter? Thanks in advance. P.S. If you have any links, please send them.
 
-6h ago
+7h ago
 
 ---
 
@@ -128,7 +128,7 @@ Forbes • 3d ago
 
 **[Asimov’s three laws of robotics survived 82 years, we broke them in 30 minutes, costs 80 cents, and then remade them](https://blog.adafruit.com/2026/04/05/asimovs-three-laws-of-robotics-survived-82-years-we-broke-them-in-30-minutes-costs-80-cents-and-then-remade-them/)**
 
-Adafruit • 5h ago
+Adafruit • 6h ago
 
 ---
 
@@ -148,9 +148,9 @@ NVIDIA Blog • 1d ago
 
 ---
 
-**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqd0AwEvQCHWYn1vVclXuAwH1G8KLMlzzsXzJHurxc-r3OxHHii1UD6y&gaa_ts=69d2e683&gaa_sig=Mg3s2rRuuYAbThjuxdDONZGipfEw4XxO5flv8NTG3XtJ8yoVVgLrpN0WAU20f9ya6XkuRce3wnw6SyuhrSceZQ%3D%3D)**
+**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqfYajz8OZwcCToGLK3u-xQvI_3oyY0hW4Dlq9kauDzmEcks8I6M7t4R&gaa_ts=69d2f52f&gaa_sig=Qc5ri6edoF8BeA4TpA_rDcmsuR0aQ4yxsz8wqWgewhdHL-lxwCtCTxr4wRdC03pBIKn0DRM4Qd_G3VVF0bvEAA%3D%3D)**
 
-wsj.com • 2d ago
+WSJ • 2d ago
 
 ---
 
@@ -158,7 +158,7 @@ wsj.com • 2d ago
 
 Uzbekistan has signed an agreement with South Korea’s ROBOTIS to launch humanoid robot production, marking a major step in its high-tech ambitions. At the same time, students across the country are learning robotics and programming, gaining skills that could prepare them for careers in the emerging
 
-Euronews.com • 9h ago
+Euronews.com • 10h ago
 
 ---
 
@@ -196,25 +196,7 @@ Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In t
 
 📺 Shawn Ryan Show
 
-👁️ 1.0M • 👍 37K • 💬 6K • ⏱️ 8:48 • 4d ago
-
----
-
-**[EXPLOSIVE Robot Fighting! Prime Time Round 3 of NHRL Pro World Championships (April 4th)](https://www.youtube.com/watch?v=6jkawA7AvPQ)**
-
-The 2026 NHRL Pro World Championship Season is HERE! This is Round 3. This. Is. Prime Time! We are down to the final 8 bots ...
-
-📺 NHRL
-
-👁️ 9K • 👍 353 • 💬 8 • ⏱️ 3:15:56 • 19h ago
-
----
-
-**[Auto Deodorant dispenser progress #diy #artificialintelligence #engineering #robotics #disability](https://www.youtube.com/watch?v=JuzaKB0lx6k)**
-
-📺 Yard Mon Robotics
-
-👁️ 1K • 👍 41 • 💬 5 • ⏱️ 0:47 • 19h ago
+👁️ 1.0M • 👍 38K • 💬 6K • ⏱️ 8:48 • 4d ago
 
 ---
 
@@ -224,7 +206,17 @@ Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking
 
 📺 The AI Nexus
 
-👁️ 4K • 👍 185 • 💬 13 • ⏱️ 20:43 • 5d ago
+👁️ 4K • 👍 187 • 💬 13 • ⏱️ 20:43 • 5d ago
+
+---
+
+**[This Robot&#39;s Skin Can Actually Feel Touch #robotics #robot #innovation #engineering](https://www.youtube.com/watch?v=k9tj5kb3rHI)**
+
+The Chinese company JQ Industries has developed a fabric-based electronic skin, or e-skin, using plant-derived materials to ...
+
+📺 Kalil 4.0
+
+👁️ 292 • 👍 8 • ⏱️ 0:51 • 1h ago
 
 ---
 
@@ -234,7 +226,15 @@ Brett Adcock is a technology entrepreneur focused on building companies in robot
 
 📺 Shawn Ryan Show
 
-👁️ 516K • 👍 10K • 💬 3K • ⏱️ 2:57:09 • 6d ago
+👁️ 517K • 👍 10K • 💬 3K • ⏱️ 2:57:09 • 6d ago
+
+---
+
+**[Auto Deodorant dispenser progress #diy #artificialintelligence #engineering #robotics #disability](https://www.youtube.com/watch?v=JuzaKB0lx6k)**
+
+📺 Yard Mon Robotics
+
+👁️ 1K • 👍 41 • 💬 5 • ⏱️ 0:47 • 20h ago
 
 ---
 
@@ -244,37 +244,17 @@ War Robots Gameplay: Anaksor with Kroko weapons is quite unfair! My War Robots C
 
 📺 Manni-Gaming
 
-👁️ 6K • 👍 295 • 💬 63 • ⏱️ 13:35 • 10h ago
+👁️ 6K • 👍 318 • 💬 68 • ⏱️ 13:35 • 11h ago
 
 ---
 
-**[Shawn Ryan Gets a Real-Life Robot 😳](https://www.youtube.com/watch?v=fQdJb7YzDRc)**
+**[Essential Things to Know Before Buying a Robot Mower!](https://www.youtube.com/watch?v=lbibuVIo84Y)**
 
-Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join Support the Shawn ...
+The era of the Robot Mower is here and after 6 months of intensive use I feel I am now in a position to update everyone on both ...
 
-📺 Shawn Ryan Show
+📺 Proper DIY
 
-👁️ 1.1M • 👍 18K • 💬 1K • ⏱️ 0:28 • 6d ago
-
----
-
-**[Don&#39;t Waste Money On An Expensive Robot Vacuum!](https://www.youtube.com/watch?v=sMt_jOouNeM)**
-
-A flagship robot vacuum might be out your budget. We tested the affordable Dreame D30 Ultra. ✔️ Buy it on Amazon ...
-
-📺 Vacuum Nerds
-
-👁️ 4K • 👍 59 • 💬 20 • ⏱️ 8:48 • 1d ago
-
----
-
-**[Live Robot Fighting: Round 3 of NHRL&#39;s KO Show (April 4th)](https://www.youtube.com/watch?v=UODQ1UG790U)**
-
-Round 3 of The 2026 NHRL Pro World Championship kicks off NOW! The path to crown a champion starts now. Who will take ...
-
-📺 NHRL
-
-👁️ 13K • 👍 337 • 💬 5 • ⏱️ 4:56:01 • 23h ago
+👁️ 19K • 👍 2K • 💬 87 • ⏱️ 11:47 • 16h ago
 
 ---
 
@@ -284,7 +264,27 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCkouj
 
 📺 Shawn Ryan Show
 
-👁️ 106K • 👍 2K • 💬 241 • ⏱️ 0:36 • 5d ago
+👁️ 106K • 👍 2K • 💬 244 • ⏱️ 0:36 • 5d ago
+
+---
+
+**[Don&#39;t Waste Money On An Expensive Robot Vacuum!](https://www.youtube.com/watch?v=sMt_jOouNeM)**
+
+A flagship robot vacuum might be out your budget. We tested the affordable Dreame D30 Ultra. ✔️ Buy it on Amazon ...
+
+📺 Vacuum Nerds
+
+👁️ 4K • 👍 60 • 💬 23 • ⏱️ 8:48 • 1d ago
+
+---
+
+**[The Coolest Robot on the Planet 🤯](https://www.youtube.com/watch?v=t37TaaFsHDM)**
+
+Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join Support the Shawn ...
+
+📺 Shawn Ryan Show
+
+👁️ 958K • 👍 22K • 💬 2K • ⏱️ 0:44 • 5d ago
 
 ---
 

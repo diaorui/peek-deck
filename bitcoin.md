@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-05T22:32:53.671814+00:00'
+updated: '2026-04-05T23:35:26.801609+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 05, 2026 at 22:32 UTC  
+**Last Updated:** April 05, 2026 at 23:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,435.69
+### $69,039.94
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +0.9%  
-**30d:** +0.1%  
-**90d:** -28.2%  
-**1y:** -14.1%  
+**24h:** +2.6%  
+**7d:** +3.3%  
+**30d:** +2.6%  
+**90d:** -26.4%  
+**1y:** -12.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1349.78B
+**Market Cap:** $1381.08B
 Rank #1
 
-**Circulating Supply:** 20,011,896 BTC
+**Circulating Supply:** 20,011,968 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--46.5%
+-45.3%
 
 **All-Time Low:** $67.81
-+99378.0%
++101672.6%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Besides Being Easter Sunday - Today is Also Satoshi Nakamoto's 51st Birthday - According To Satoshi's P2P Foundation Profile - Happy Birthday Satoshi! 🥳](https://www.reddit.com/r/Bitcoin/comments/1sd3e1m/besides_being_easter_sunday_today_is_also_satoshi/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -87,19 +87,19 @@ Rank #1
 
 i sold my house, and i dont think shares is best to put money in due to the iran war. so i bought 5 btc, hopefully we get to see 120k peak soon :)
 
-11h ago
+12h ago
 
 ---
 
 **[Could it really be that simple?](https://www.reddit.com/r/Bitcoin/comments/1scx8vs/could_it_really_be_that_simple/)**
 
-15h ago
+16h ago
 
 ---
 
 **[He has risen…](https://www.reddit.com/r/Bitcoin/comments/1sd6m97/he_has_risen/)**
 
-6h ago
+8h ago
 
 ---
 
@@ -107,7 +107,7 @@ i sold my house, and i dont think shares is best to put money in due to the iran
 
 In an earlier post I explained how the power law floor is an incredible tool for understanding bitcoin growth and volatility. Because if stack * floor growth > yearly expenses = financial freedom. People point out correctly that to ‘harvest’ the floor growth you need to actually sell bitcoin, which in turn reduced your stack and therefore hurts next year’s floor growth. There are two points I would like to make to clarify and then I’m going to show you how it actually works. 1: the floor is always growing 2: the price is almost never actually on the floor Point number 1: the floor grows every day You don’t sell an entire year’s worth of expenses today at $67K. We are currently at 0.51 times trend. Sell as little as possible at this current trend value. Borrowing would actually be wiser, but the math doesn’t need borrowing to work. Let’s say you sell $8,333 every month at the beginning of the month at floor levels. For the next 12 months that would be the following: https://preview.redd.it/koit3ckbwetg1.png?width=1514&format=png&auto=webp&s=6b7b7af43283f11c658c5e12e7dab5b9051d8be8 As you can see the amount of bitcoin sold is going down every month. A reassuring thing. This is actually the adoption happening. But as a commenter correctly pointed out: after 6.1 years, on May 2032, this stack runs out of bitcoin. Which brings me to point number 2. Point number 2: Bitcoin is actually almost never at floor prices Look at the price today: $67K and what is going on in the world? Massive downward pressure from an ATH in October. Fear and greed was below 8 in February, conflicts in Iran. And still bitcoin hovers about 20% above the floor. This is an interesting datapoint. And it is confirmed by historical data: In 2015 the price spent a total of 70 days at the floor. Then it left and didn’t come back for 6 years. In 2022 with FTX and all that the price was 34 days at the floor, then it left after two months. On average the price is at the floor for 10 days per year but it is not evenly distributed per year. Back to our example of 5 BTC allows $100K withdrawals: you run out of bitcoin after 6 years or 72 months of floor price. The price has never remained at the floor for 72 months. And it is not at the floor now. Here’s a table showing what happens when you sell quarterly at different floor values. https://preview.redd.it/89x1d7qcwetg1.png?width=1452&format=png&auto=webp&s=982275021bf1546238c138217d2e3d7684a6dbb0 1x floor depletes after 6 years like we discussed, so does 1.1x two years later. From 1.2x floor you actually kind of make it, but 1.5x and above is really thriving. And anything above is doing great. Now for perspective: how many days per year average was the price above 1.5x floor? 242 days on average. But it’s never average: there is usually a string of multiple years: 586 days in the 2017-2018 bull, 779 days in the 2020-2022 bull, and 801 days in the Nov 2023 to Jan 2026 period. Conclusion: So now you see the floor math in conjunction with the historical power law trend multiples. Together they show that withdrawing $100K from a 5 BTC portfolio is not just possible. It is the most efficient and therefore logical system for retirement. At 1.5x floor your stack survives 10 years and ends at $1.05M. Bitcoin trades above 1.5x floor two thirds of the time. These are really good odds. I am reminded of the principle of a well running factory: it produces top quality products as an average result. Not a heroic one. Not one depending on somebody doing amazing work every day. Just average inputs result in spectacular outcomes. Bitcoin is a retirement factory producing terrific outcomes as the average results. Honest caveat: 5 BTC works when the price is above the floor, which is 97% of the time. But if you want a stack that survives even permanent floor pricing, accounting for the fact that floor growth decelerates over decades, the number is 7 BTC. At 7 BTC your floor growth covers 155% of expenses in year one and the stack never depletes, even in the worst case the model can produce, assuming the power law holds.
 
-4h ago
+5h ago
 
 ---
 
@@ -115,7 +115,7 @@ In an earlier post I explained how the power law floor is an incredible tool for
 
 To add to the title - At some point in 2009-2012, I used to leave my computer on overnight and while I was at school, mining bitcoin. I can't remember how long for, it could've been for a couple of weeks or potentially months. I only remember it was within this time period because it overlapped with me playing Runescape (lol), and I quit playing in 2012 for 10 years or more. I have sort of moved away from computers although in those days I was interested in gaming and beginner hacking. I was 15-17 and the hacking part is daft looking back at it. But what I'm really trying to say is I used to be fairly computer literate and now, not so much. I've been using macs for 12 years now. So no matter whether it was a week or several months I left it mining overnight etc. for, there is likely a decent amount of bitcoin on the harddrive. I don't have access to the email address I used in those years, I lost it about 5 years ago and seemingly can't recover it. ChatGPT tells me this likely isn't an issue as emails weren't used for sign up in the early days. More advice was to remove the hard drive and back it up on a second hard drive, before opening. Do I have a stab at this myself? How do I do this? Can I plug hard drive into my mac to transfer to a second hard drive? What if the hard drive was wiped? Would it be in any way possible to recover it? If I manage to locate the wallet, will I need to remember the password? I believe it was a long set of random numbers and letters so will never remember unless I also have it saved on the computer somewhere. What are my next steps? Thank you in advance.
 
-19h ago
+20h ago
 
 ---
 
@@ -123,7 +123,7 @@ To add to the title - At some point in 2009-2012, I used to leave my computer on
 
 like i put in a part of my pay check every time but I'll be using some of the money for a trip later this year. should i seperate the trip savings or put it all in btc.
 
-7h ago
+8h ago
 
 ---
 
@@ -131,7 +131,7 @@ like i put in a part of my pay check every time but I'll be using some of the mo
 
 Just threw on some low budget movie - or what I thought was a movie. Self Custody is a 30min propaganda commercial to scare people away from Self Custody. There's no other reason for this pile of crap to exist.
 
-16h ago
+17h ago
 
 ---
 
@@ -139,7 +139,7 @@ Just threw on some low budget movie - or what I thought was a movie. Self Custod
 
 Hi so i store all my crypto in trustwallet, but people recomending me so many different places you can store your crypto. i wanna know Whats actually the number one, non KYC please to store crypto?
 
-7h ago
+8h ago
 
 ---
 
@@ -147,7 +147,7 @@ Hi so i store all my crypto in trustwallet, but people recomending me so many di
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-16h ago
+17h ago
 
 ---
 
@@ -159,15 +159,15 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Electricity rates have gotten so atrocious that this Heatbit wants to offset your costs with bitcoin mining. But the math doesn't add up.
 
-WIRED • 11h ago
+WIRED • 12h ago
 
 ---
 
-**[Bitcoin is now front-running the Fed rather than reacting to it. ETFs are the cause](https://www.coindesk.com/markets/2026/04/05/bitcoin-is-now-front-running-the-fed-rather-than-reacting-to-it-etfs-are-the-cause)**
+**[Why the mind-bending physics of quantum computing is terrifying for bitcoin and crypto](https://www.coindesk.com/tech/2026/04/05/a-simple-explainer-on-what-quantum-computing-actually-is-and-why-it-is-terrifying-for-bitcoin)**
 
-Bitcoin's correlation with global central bank easing has turned strongly negative since 2024, suggesting BTC now leads rather than lags monetary policy signals.
+Most simplifies the complex process of quantum computing as "it can be 0 and 1 at the same time." That is not an explanation for why it threatens Bitcoin. This is.
 
-CoinDesk • 6h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -175,7 +175,7 @@ CoinDesk • 6h ago
 
 Here's why Lyulkin suggested not buying bitcoin while Trump is in office.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -183,21 +183,21 @@ Yahoo Finance • 1h ago
 
 A solo bitcoin miner using CKpool collected roughly $210,000 for solving the 312th solo block cracked with the software since its 2014 launch.
 
-The Block • 1h ago
+The Block • 2h ago
 
 ---
 
-**[‘Liberation Day’—Trump Tariff Shock Sends Bitcoin Toward $66K](https://www.forbes.com/sites/boazsobrado/2026/04/05/liberation-day-trump-tariff-shock-sends-bitcoin-toward-66k/)**
+**['I Wouldn't Invest $1'—Hayes Warns $60K Bitcoin Crash Before $250K](https://www.forbes.com/sites/digital-assets/2026/04/05/i-wouldnt-invest-1-hayes-warns-60k-bitcoin-crash-before-250k/)**
 
-Forbes • 4h ago
+Forbes • 3h ago
 
 ---
 
-**[Bitcoin and the US dollar have a 'symbiotic' relationship: BPI exec](https://www.tradingview.com/news/cointelegraph:1590f67cb094b:0-bitcoin-and-the-us-dollar-have-a-symbiotic-relationship-bpi-exec/)**
+**[Goldman Sachs predicts new low for gold](https://www.thestreet.com/crypto/markets/goldman-sachs-predicts-new-low-for-bitcoin)**
 
-US dollar-pegged stablecoins and Bitcoin (BTC) share a “symbiotic” relationship, mutually benefitting from rising adoption, according to Sam Lyman, head of research at Bitcoin Policy Institute (BPI), a Washington DC-based digital asset advocacy organization.“Bitcoin is beneficial to the US system b…
+The bank predicts new risks.
 
-tradingview.com • 5h ago
+thestreet.com • 2d ago
 
 ---
 
@@ -205,7 +205,7 @@ tradingview.com • 5h ago
 
 The service will be unavailable in New York and Louisiana at launch, and fee structure and custody arrangements have not yet been disclosed.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -221,15 +221,15 @@ Bitcoin Magazine • 2d ago
 
 Financial giant Charles Schwab is set to launch spot buying of Bitcoin and Ethereum by the end of the quarter, the firm said Friday.
 
-Decrypt • 2d ago
+decrypt.co • 2d ago
 
 ---
 
-**[FBI's New Lead in Nancy Guthrie Case Involves Traceable Bitcoin Ransom Demands](https://www.aol.com/fbis-lead-nancy-guthrie-case-152452887.html)**
+**[Bitcoin and the US dollar have a 'symbiotic' relationship: BPI exec](https://www.tradingview.com/news/cointelegraph:1590f67cb094b:0-bitcoin-and-the-us-dollar-have-a-symbiotic-relationship-bpi-exec/)**
 
-Guthrie, 84, has been missing since Feb. 1, and despite authorities receiving thousands of tips, her disappearance remains a mystery.
+US dollar-pegged stablecoins and Bitcoin (BTC) share a “symbiotic” relationship, mutually benefitting from rising adoption, according to Sam Lyman, head of research at Bitcoin Policy Institute (BPI), a Washington DC-based digital asset advocacy organization.“Bitcoin is beneficial to the US system b…
 
-AOL.com • 2d ago
+TradingView • 6h ago
 
 ---
 
@@ -271,7 +271,7 @@ April 03, 2026 - A new $100 million bond deal reveals exactly how traditional fi
 
 **[Strive, Tuttle File Leveraged Bitcoin ETF](https://news.ycombinator.com/item?id=47621293)**
 
-⬆️ 4 • 💬 0 • 2d ago • [catenaa.com](https://catenaa.com/markets/cryptocurrencies/strive-tuttle-file-leveraged-etf-tied-to-bitcoin-preferreds/)
+⬆️ 4 • 💬 0 • 3d ago • [catenaa.com](https://catenaa.com/markets/cryptocurrencies/strive-tuttle-file-leveraged-etf-tied-to-bitcoin-preferreds/)
 
 ---
 
@@ -291,7 +291,7 @@ April 03, 2026 - A new $100 million bond deal reveals exactly how traditional fi
 
 The first signing system where the private key is a physical key — and can still transact. Titanium. Not stored digitally. Not protected by firmware.
 
-⬆️ 2 • 💬 1 • 5d ago • [Frozen Security](https://frozensecurity.com/)
+⬆️ 2 • 💬 1 • 6d ago • [Frozen Security](https://frozensecurity.com/)
 
 ---
 
@@ -319,17 +319,27 @@ Follow Gareth: https://x.com/GarethSoloway ✓ Bitunix (no kyc, $10k bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 14K • 👍 1K • 💬 97 • ⏱️ 23:55 • 5h ago
+👁️ 21K • 👍 1K • 💬 120 • ⏱️ 23:55 • 6h ago
 
 ---
 
-**[WARNING: Bitcoin is 11 Days Away from a MASSIVE Move! (ETH, XRP, SOL, AVAX)](https://www.youtube.com/watch?v=_Eb6fYPj4TY)**
+**[Bitcoin: The Dangers of Complacency](https://www.youtube.com/watch?v=fR4y2sCGg1A)**
 
-Welcome back to Verified Investing! In today's urgent crypto market update, Chief Market Strategist Gareth Soloway dives deep ...
+Is Bitcoin entering a dangerous phase of complacency? After periods of volatility, markets often drift into a false sense of ...
 
-📺 Gareth Soloway
+📺 Benjamin Cowen
 
-👁️ 92K • 👍 5K • 💬 494 • ⏱️ 11:47 • 1d ago
+👁️ 13K • 👍 1K • 💬 94 • ⏱️ 16:00 • 2h ago
+
+---
+
+**[The Big Print Is Coming &amp; Bitcoin Will Still Fail You...](https://www.youtube.com/watch?v=cv9sJMGOoR4)**
+
+Could the oil crisis Break Bitcoin? Insider oil tracking just hit $173 a barrel and physical Brent is already at $141. The Big Print is ...
+
+📺 Simply Bitcoin
+
+👁️ 4K • 👍 707 • 💬 113 • ⏱️ 16:01 • 3h ago
 
 ---
 
@@ -343,13 +353,23 @@ Markets cracked, oil surged, Bitcoin dipped, and Larry Fink is warning that a pr
 
 ---
 
+**[WARNING: Bitcoin is 11 Days Away from a MASSIVE Move! (ETH, XRP, SOL, AVAX)](https://www.youtube.com/watch?v=_Eb6fYPj4TY)**
+
+Welcome back to Verified Investing! In today's urgent crypto market update, Chief Market Strategist Gareth Soloway dives deep ...
+
+📺 Gareth Soloway
+
+👁️ 94K • 👍 5K • 💬 505 • ⏱️ 11:47 • 1d ago
+
+---
+
 **[CNBC Today: The Greatest Crypto Bull Run Of Our Lifetime HAPPENING NOW](https://www.youtube.com/watch?v=Q_FFfWvq-z8)**
 
 BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEEX Poker Party is LIVE ($30k Bonus): ...
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 2K • 💬 287 • ⏱️ 8:47 • 2d ago
+👁️ 46K • 👍 2K • 💬 291 • ⏱️ 8:47 • 2d ago
 
 ---
 
@@ -359,17 +379,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 49K • 👍 2K • 💬 102 • ⏱️ 45:08 • 1d ago
-
----
-
-**[CRYPTO BETRAYAL!! Did Coinbase Stab Bitcoin in the Back?](https://www.youtube.com/watch?v=C2jqAbbah_o)**
-
-Coinbase just told Washington that Bitcoin doesn't need a tax exemption because "nobody uses Bitcoin for transactions.
-
-📺 Simply Bitcoin
-
-👁️ 13K • 👍 970 • 💬 84 • ⏱️ 17:14 • 1d ago
+👁️ 50K • 👍 2K • 💬 102 • ⏱️ 45:08 • 1d ago
 
 ---
 
@@ -379,27 +389,7 @@ Charles Schwab Just Released The Crypto Bulls!! BTC Conference 2026 - 'ALTCOINDA
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 211 • ⏱️ 12:19 • 1d ago
-
----
-
-**[$12 Trillion Entering Crypto…While Altcoins Down -90% (Read That Again)](https://www.youtube.com/watch?v=NioGwHApohY)**
-
-The risk models that say when to accumulate or exit HERE. Free trial https://app.cryptocapitalventure.ai Crypto down 90%+ ...
-
-📺 Dan Gambardello
-
-👁️ 14K • 👍 780 • 💬 319 • ⏱️ 12:33 • 1d ago
-
----
-
-**[The Top 6 Massively Bullish 2026 Bitcoin Catalysts!](https://www.youtube.com/watch?v=lPbp3dZCCUY)**
-
-Bitcoin looks boring right up until it violently stops being boring. In this video, I break down 6 massive bullish catalysts for Bitcoin in ...
-
-📺 Swan Bitcoin
-
-👁️ 10K • 👍 535 • 💬 50 • ⏱️ 16:54 • 2d ago
+👁️ 33K • 👍 2K • 💬 213 • ⏱️ 12:19 • 1d ago
 
 ---
 
@@ -409,7 +399,17 @@ Bitcoin what now The HORRIBLE Secret of Backwards Aging Celebrities! https://you
 
 📺 MMCrypto
 
-👁️ 28K • 👍 2K • 💬 462 • ⏱️ 5:05 • 12h ago
+👁️ 29K • 👍 2K • 💬 473 • ⏱️ 5:05 • 13h ago
+
+---
+
+**[$12 Trillion Entering Crypto…While Altcoins Down -90% (Read That Again)](https://www.youtube.com/watch?v=NioGwHApohY)**
+
+The risk models that say when to accumulate or exit HERE. Free trial https://app.cryptocapitalventure.ai Crypto down 90%+ ...
+
+📺 Dan Gambardello
+
+👁️ 15K • 👍 787 • 💬 329 • ⏱️ 12:33 • 1d ago
 
 ---
 
