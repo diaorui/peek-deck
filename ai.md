@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-06T11:27:27.865013+00:00'
+updated: '2026-04-06T12:05:58.158215+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
+- videos
 - repositories
 - social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 06, 2026 at 11:27 UTC  
+**Last Updated:** April 06, 2026 at 12:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I want to be honest about something that happened to me because I think it is more common than people admit. Last month I hit a bug in a service I wrote myself two years ago. Network timeout issue, intermittent, only in prod. The kind of thing I used to be able to sit with for an hour and work through methodically. I opened Claude, described the symptom, got a hypothesis, followed it, hit a dead end, fed that back, got another hypothesis. Forty minutes later I had not found the bug. I had just been following suggestions. At some point I closed the chat and tried to work through it myself. And I realized I had forgotten how to just sit with a problem. My instinct was to describe it to something else and wait for a direction. The internal monologue that used to generate hypotheses, that voice that says maybe check the connection pool, maybe it is a timeout on the load balancer side, maybe there is a retry storm. That voice was quieter than it used to be. I found the bug eventually. It took me longer without AI than it would have taken me three years ago without AI. I am not saying the tools are bad. I use them every day and they make me faster on most things. But there is something specific happening to the part of the brain that generates hypotheses under uncertainty. That muscle atrophies if you do not use it. The analogy I keep coming back to is GPS. You can navigate anywhere with GPS. But if you use it for five years and then lose signal, you do not just lack information. You lack the mental map that you would have built if you had been navigating manually. The skill and the mental model degrade together. I am 11 years into this career. I started noticing this in myself. I wonder how it looks for someone who started using AI tools in their first year. Has anyone else noticed this? Not the productivity gains, we all know those. The quieter thing underneath.
 
-14h ago
+15h ago
 
 ---
 
@@ -49,7 +49,7 @@ I want to be honest about something that happened to me because I think it is mo
 
 I’ve been tracking the companies building primitives specifically for agents rather than humans. The pattern is becoming obvious: every capability a human employee takes for granted is getting rebuilt as an API. Here are some of the companies building for AI agents: AgentMail — agents can have email accounts AgentPhone — agents can have phone numbers Kapso — agents can have WhatsApp numbers Daytona / E2B — agents can have their own computers monid.ai — agents can read social media (X, TikTok, Reddit, LinkedIn, Amazon, Facebook) Browserbase / Browser Use / Hyperbrowser — agents can use web browsers Firecrawl — agents can crawl the web without a browser Mem0 — agents can remember things Kite / Sponge — agents can pay for things Composio — agents can use your SaaS tools Orthogonal — agents can access APIs more easily ElevenLabs / Vapi — agents can have a voice Sixtyfour — agents can search for people and companies Exa — agents can search the web (Google isn’t built for agents) What’s interesting is how quickly this came together. Not long ago, none of this really existed in a usable form. Now you can piece together an agent with identity, memory, communication, and spending in a single afternoon. Feels less like “AI tools” and more like the early version of an agent-native infrastructure stack. Curious if anyone here is actually building on top of this. What are you using? Also probably missing a bunch - drop anything I should add and I’ll keep this updated.
 
-11h ago
+12h ago
 
 ---
 
@@ -65,7 +65,7 @@ Everyone thinks McKinsey just built 25,000 AI experts. They didn't. They took a 
 
 Hello! I tend to use it often and I find it to have valid information when it comes to linguistic or computer related summaries, though it does require a play of words at times. I’m wondering what this Google search AI is good at, what it’s bad at, your opinions on it (especially for learning various topics or getting information, any subject you think it’s good or bad at). What are your opinions for using it for political information? How are your best practices in verifying the validity of the information?? Literally, anything you have to say about it, yap about it in the comments. I use it all the time and it’s the only AI I use explicitly (usually after making a google search and it showing up at the top of my screen every time), besides some of the advanced (non image creation AI) AI parts of Photoshop, such as removing backgrounds. Or any better alternatives out there, or opinions on other AI platforms (free ones mostly), thanks!
 
-2h ago
+3h ago
 
 ---
 
@@ -73,7 +73,7 @@ Hello! I tend to use it often and I find it to have valid information when it co
 
 there's this network that launched recently routing crypto mining hardware toward AI training workloads. miners seem happy with the economics but that's not what i care about my question: is the AI output actually useful? running hardware is easy, producing valuable compute is hard. saw they had some audit confirming high throughput but throughput alone doesn't tell you about quality nobody independent has verified the training output yet afaik. that's the gap that matters. has anyone here looked at how you'd even verify something like that? seems like you'd need to compare against known benchmarks or something
 
-10m ago
+49m ago
 
 ---
 
@@ -81,7 +81,7 @@ there's this network that launched recently routing crypto mining hardware towar
 
 Working on my README.md to make it more accessiable and understood without make it to long. still working through it. project is still under development also. getting closer every day. feedback is much appreciated, Its my first public repo. https://github.com/AIOSAI/AIPass/blob/main/README.md
 
-4h ago
+5h ago
 
 ---
 
@@ -105,7 +105,7 @@ LavaPS displays every running process as a bubble in a lava lamp — bigger = mo
 
 would you guys get a local AI on your phone? and if you do, what will you do with it?
 
-13h ago
+14h ago
 
 ---
 
@@ -141,13 +141,13 @@ Financial Times • 9h ago
 
 AI is helping 911 dispatchers speed up emergency responses, handle non-emergency calls, and translate languages.
 
-USA Today • 26m ago
+USA Today • 1h ago
 
 ---
 
 **[The AI agent buffet is closed](https://www.axios.com/2026/04/06/anthropic-openclaw-subscription-openai)**
 
-Axios • 27m ago
+Axios • 1h ago
 
 ---
 
@@ -155,13 +155,13 @@ Axios • 27m ago
 
 Akamai released a global implementation of Nvidia's AI grid reference design
 
-Fierce Network • 27m ago
+Fierce Network • 1h ago
 
 ---
 
 **[Forget the A.I. Apocalypse. Memes Have Already Nuked Our Culture.](https://www.nytimes.com/2026/04/06/magazine/ai-apocalypse-brain-rot-memes.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
@@ -169,7 +169,7 @@ The New York Times • 2h ago
 
 JPMorgan CEO Jamie Dimon in his annual letter to shareholders noted the country's 250th anniversary and called for a broad recommitment to American ideals.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -177,7 +177,7 @@ CNBC • 1h ago
 
 Chinese satellite images enhanced by artificial intelligence could help Iran target US and allied forces to within a third of a square metre, military analysts say.
 
-Australian Broadcasting Corporation • 3h ago
+Australian Broadcasting Corporation • 4h ago
 
 ---
 
@@ -185,7 +185,7 @@ Australian Broadcasting Corporation • 3h ago
 
 A viral story claims Gmail automatically opted all users into a program that lets Google train its AI on your private emails and attachments.
 
-WTOP • 3h ago
+WTOP • 4h ago
 
 ---
 
@@ -193,7 +193,7 @@ WTOP • 3h ago
 
 For high achievers, professional identity isn't just what you do—it's who you are. AI disruption is about to test that in ways most of us aren't prepared for.
 
-Yahoo • 3h ago
+Yahoo • 4h ago
 
 ---
 
@@ -208,7 +208,7 @@ A couple of weeks ago, after ~250 hours of effort over three months3 on evenings
 Of course, there’s no shortage of posts claiming that AI one-shot their project or pushing back and declaring that AI is all slop. I’m going to take a very different approach and, instead, systematically break down my experience building syntaqlite with AI, both where it helped and where it was detrimental.
 I’ll do this while contextualizing the project and my background so you can independently assess how generalizable this experience was. And whenever I make a claim, I’ll try to back it up with evidence from my project journal, coding transcripts, or commit history5.
 
-⬆️ 800 • 💬 246 • 22h ago • [Lalit Maganti](https://lalitm.com/post/building-syntaqlite-ai/)
+⬆️ 800 • 💬 246 • 23h ago • [Lalit Maganti](https://lalitm.com/post/building-syntaqlite-ai/)
 
 ---
 
@@ -234,7 +234,7 @@ deployment pattern...
 
 On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro. - fikrikarim/parlor
 
-⬆️ 106 • 💬 8 • 17h ago • [GitHub](https://github.com/fikrikarim/parlor)
+⬆️ 106 • 💬 8 • 18h ago • [GitHub](https://github.com/fikrikarim/parlor)
 
 ---
 
@@ -292,7 +292,7 @@ Check out Wispr Flow - https://ref.wisprflow.ai/IshanS In this 1-hour guide, you
 
 📺 Ishan Sharma
 
-👁️ 30K • 👍 2K • 💬 61 • ⏱️ 56:47 • 22h ago
+👁️ 30K • 👍 2K • 💬 61 • ⏱️ 56:47 • 23h ago
 
 ---
 
@@ -312,7 +312,7 @@ garbage video: https://www.youtube.com/watch?v=huXOoaPWDQ0 https://youtu.be/6uKZ
 
 📺 Louis Rossmann
 
-👁️ 92K • 👍 11K • 💬 2K • ⏱️ 9:39 • 13h ago
+👁️ 92K • 👍 11K • 💬 2K • ⏱️ 9:39 • 14h ago
 
 ---
 
@@ -322,7 +322,7 @@ Asking ChatGPT about pi was the worst mistake he ever made. Become a member on Y
 
 📺 Mo Bitar
 
-👁️ 168K • 👍 11K • 💬 2K • ⏱️ 6:33 • 2d ago
+👁️ 168K • 👍 11K • 💬 2K • ⏱️ 6:33 • 3d ago
 
 ---
 
@@ -362,7 +362,7 @@ For decades, science has assumed that Stonehenge was the result of a long evolut
 
 📺 Aline Rogerio
 
-👁️ 1K • 👍 357 • 💬 3 • ⏱️ 23:16 • 17h ago
+👁️ 1K • 👍 357 • 💬 3 • ⏱️ 23:16 • 18h ago
 
 ---
 
@@ -707,7 +707,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `Go` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 6.7k • 🔱 1.1k • 3h ago
+⭐ 6.7k • 🔱 1.1k • 4h ago
 
 ---
 

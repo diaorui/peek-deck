@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-06T11:27:27.882848+00:00'
+updated: '2026-04-06T12:05:58.175747+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 06, 2026 at 11:27 UTC  
+**Last Updated:** April 06, 2026 at 12:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=1jpHzqQYSXU) • 6h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=1jpHzqQYSXU) • 7h ago
 
 ---
 
 **[Robot dog takes on security duties in Atlanta](https://www.reddit.com/r/robotics/comments/1sd8dlv/robot_dog_takes_on_security_duties_in_atlanta/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -56,13 +56,13 @@ For a cosplay competition performance, I came up with the idea of creating a com
 
 **[What is the best Free CAD Software?](https://www.reddit.com/r/robotics/comments/1sdk3zw/what_is_the_best_free_cad_software/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Polka: A unified efficient node for your pointcloud pre-processing](https://www.reddit.com/r/robotics/comments/1sdo3ek/polka_a_unified_efficient_node_for_your/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -70,7 +70,7 @@ For a cosplay competition performance, I came up with the idea of creating a com
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/3QHNelilULQ?is=97gu8OZs77oEzJkH) • 12h ago
+🔗 [youtu.be](https://youtu.be/3QHNelilULQ?is=97gu8OZs77oEzJkH) • 13h ago
 
 ---
 
@@ -118,7 +118,7 @@ Euronews.com • 22h ago
 
 **[Asimov’s three laws of robotics survived 82 years, we broke them in 30 minutes, costs 80 cents, and then remade them](https://blog.adafruit.com/2026/04/05/asimovs-three-laws-of-robotics-survived-82-years-we-broke-them-in-30-minutes-costs-80-cents-and-then-remade-them/)**
 
-Adafruit • 18h ago
+Adafruit • 19h ago
 
 ---
 
@@ -140,7 +140,7 @@ The Motley Fool • 1d ago
 
 **[Indiana researchers study the potential of AI-powered health care](https://www.axios.com/local/indianapolis/2026/04/06/experts-examine-the-potential-of-ai-powered-medical-care-in-indianapolis)**
 
-Axios • 44m ago
+Axios • 1h ago
 
 ---
 
@@ -156,7 +156,7 @@ nasa.gov • 2d ago
 
 Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.
 
-TechCrunch • 21h ago
+TechCrunch • 22h ago
 
 ---
 
@@ -170,7 +170,7 @@ businessinsider.com • 1h ago
 
 **[Resilient actuator shows potential for space-ready soft robots](https://techxplore.com/news/2026-04-resilient-actuator-potential-space-ready.html)**
 
-Tech Xplore • 21h ago
+Tech Xplore • 22h ago
 
 ---
 
@@ -220,7 +220,7 @@ Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking
 
 📺 zhulongfeng 6
 
-👁️ 12K • 👍 69 • ⏱️ 0:21 • 10h ago
+👁️ 12K • 👍 69 • ⏱️ 0:21 • 11h ago
 
 ---
 
@@ -260,7 +260,7 @@ War Robots Gameplay: Anaksor with Kroko weapons is quite unfair! My War Robots C
 
 📺 Manni-Gaming
 
-👁️ 9K • 👍 404 • 💬 83 • ⏱️ 13:35 • 23h ago
+👁️ 9K • 👍 404 • 💬 83 • ⏱️ 13:35 • 1d ago
 
 ---
 

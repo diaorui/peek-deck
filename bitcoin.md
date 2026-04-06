@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-06T11:27:27.873639+00:00'
+updated: '2026-04-06T12:05:58.166613+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- videos
 - cryptocurrency
 - social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 06, 2026 at 11:27 UTC  
+**Last Updated:** April 06, 2026 at 12:05 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[He has risen…](https://www.reddit.com/r/Bitcoin/comments/1sd6m97/he_has_risen/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 I am sat on some savings which I do not use and they gain minimal interest, I have been toying with the idea of investing for a while and I am wondering if It is too late to invest in btc or would now be an ideal time given the current dip? I was thinking about putting a chunk in now and then x amount every month indefinitely and somewhat forgetting about it, and hoping that in 30 years I will have accumulated a bit of profit from it to aid towards retirement. Would this be a wise idea, thinking long term?
 
-11h ago
+12h ago
 
 ---
 
@@ -95,7 +95,7 @@ I am sat on some savings which I do not use and they gain minimal interest, I ha
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-5h ago
+6h ago
 
 ---
 
@@ -121,7 +121,7 @@ In an earlier post I explained how the power law floor is an incredible tool for
 
 **[Bitcoin is the insurance policy I've ever had](https://www.reddit.com/r/Bitcoin/comments/1sdw0kn/bitcoin_is_the_insurance_policy_ive_ever_had/)**
 
-7m ago
+46m ago
 
 ---
 
@@ -129,7 +129,7 @@ In an earlier post I explained how the power law floor is an incredible tool for
 
 Ask (and answer!) away! Here are the general rules: If you'd like to learn something, ask. If you'd like to share knowledge, answer. Any question about Bitcoin is fair game. And don't forget to check out /r/BitcoinBeginners You can sort by new to see the latest questions that may not be answered yet.
 
-4h ago
+5h ago
 
 ---
 
@@ -137,7 +137,7 @@ Ask (and answer!) away! Here are the general rules: If you'd like to learn somet
 
 like i put in a part of my pay check every time but I'll be using some of the money for a trip later this year. should i seperate the trip savings or put it all in btc.
 
-20h ago
+21h ago
 
 ---
 
@@ -163,7 +163,7 @@ CoinDesk • 7h ago
 
 **[Bitcoin, XRP Prices Rise. Why Strategy Can Give Cryptos a Bigger Boost.](https://www.barrons.com/articles/bitcoin-xrp-price-strategy-coinbase-5858d059?gaa_at=eafs&gaa_n=AWEtsqe3rxiNU0B7mu-hPjqgjyaZlX5FwIXap7rNqSvlH5alzWCPO3FgQdHt&gaa_ts=69d39c0a&gaa_sig=Jkcn5SeIIQjIZ1L3u2DKQdXPAdoELQS70PT0druzABQRvuvkYMXehGRQeVaEyO4ATa0ncPsz3Lr6-PdOpI_QkA%3D%3D)**
 
-Barron's • 2h ago
+Barron's • 3h ago
 
 ---
 
@@ -171,7 +171,7 @@ Barron's • 2h ago
 
 Bitcoin price started a decent increase above the $68,000 zone. BTC is now showing positive signs and might gain further if it clears $69,250.Bitcoin Price Gains TractionBitcoin price managed to climb higher above the $67,250 resistance zone. BTC gained pace for a move above the $67,500 and $68,000…
 
-tradingview.com • 8h ago
+tradingview.com • 9h ago
 
 ---
 
@@ -179,13 +179,13 @@ tradingview.com • 8h ago
 
 A solo bitcoin miner using CKpool collected roughly $210,000 for solving the 312th solo block cracked with the software since its 2014 launch.
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
 **[Bitcoin Ticks Up Even as Trump’s Iran War Threats Cloud Markets](https://www.bloomberg.com/news/articles/2026-04-06/bitcoin-ticks-up-even-as-trump-s-iran-war-threats-cloud-markets)**
 
-bloomberg.com • 1h ago
+bloomberg.com • 2h ago
 
 ---
 
@@ -193,7 +193,7 @@ bloomberg.com • 1h ago
 
 If a ceasefire materializes, a relief rally could further benefit risk assets. For now, traders appear to be treating the headlines with skepticism.
 
-CoinDesk • 53m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -207,7 +207,7 @@ tradingview.com • 4h ago
 
 **['I Wouldn't Invest $1'—Hayes Warns $60K Bitcoin Crash Before $250K](https://www.forbes.com/sites/digital-assets/2026/04/05/i-wouldnt-invest-1-hayes-warns-60k-bitcoin-crash-before-250k/)**
 
-Forbes • 15h ago
+Forbes • 16h ago
 
 ---
 
@@ -215,7 +215,7 @@ Forbes • 15h ago
 
 Here's why Lyulkin suggested not buying bitcoin while Trump is in office.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -343,7 +343,7 @@ CHECK OUT UPTRADE! Sign up here ▻ https://uptrade.co/ref/fire-hustle TRADE ON 
 
 📺 FireHustle
 
-👁️ 6K • 👍 426 • 💬 49 • ⏱️ 10:15 • 12h ago
+👁️ 6K • 👍 426 • 💬 49 • ⏱️ 10:15 • 13h ago
 
 ---
 
@@ -353,7 +353,7 @@ BITCOIN: The Calm Before The Storm (Prepare Now)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 7K • 👍 280 • 💬 310 • ⏱️ 18:13 • 11h ago
+👁️ 7K • 👍 280 • 💬 310 • ⏱️ 18:13 • 12h ago
 
 ---
 
@@ -373,7 +373,7 @@ Is Bitcoin entering a dangerous phase of complacency? After periods of volatilit
 
 📺 Benjamin Cowen
 
-👁️ 49K • 👍 3K • 💬 189 • ⏱️ 16:00 • 14h ago
+👁️ 49K • 👍 3K • 💬 189 • ⏱️ 16:00 • 15h ago
 
 ---
 

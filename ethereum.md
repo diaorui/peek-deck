@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-06T11:27:27.879639+00:00'
+updated: '2026-04-06T12:05:58.172573+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- videos
 - cryptocurrency
 - social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 06, 2026 at 11:27 UTC  
+**Last Updated:** April 06, 2026 at 12:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The true bottleneck in Ethereum dApp architecture isn't just on-chain gas, it's the off-chain infrastructure required to read the state. When protocols are designed without considering how data is indexed, they force massive hardware and cost requirements onto the ecosystem. The Blind Spot of Internal Transfers: Standard contract-to-contract ETH transfers (call{value: x}()) don't emit logs. Because they bypass block bloom filters, standard node queries like eth_getLogs miss them entirely. Trade-off: To index these reliably without protocol-level changes, you are forced into EVM tracing (debug_traceTransaction). This is incredibly I/O heavy, essentially requiring dedicated archive nodes or premium RPC tiers. Emitting custom on-chain events for internal transfers is a critical architectural pattern if you develop your own protocol that you want to monitor, it shifts the burden away from expensive execution traces and local state simulations, saving infrastructure operators massive overhead. Infrastructure Resilience vs. WebSockets: For low-latency dApps, eth_subscribe over WebSockets is the standard. However, long-lived WS connections are notoriously flaky and silently drop packets, leading to degraded, out-of-sync frontends. Architecture standard: A resilient Ethereum stack requires a hybrid model. Maintain the WS connection for real-time mempool and head-of-chain detection, but always run a background worker polling eth_getLogs with a sliding block window to patch missed events during WS reconnects. JSON-RPC Network Overhead: Spamming nodes with individual read requests congests RPCs. MulticallV3 batching is mandatory for minimizing network round trips. Trade-off: When wrapping complex calls, using tryAggregate handles partial successes gracefully. However, it significantly increases EVM execution cost due to internal CALL overhead and memory expansion when capturing return data you might discard. If your batch loop is too large, you will hit the strict execution timeouts or global eth_call gas caps enforced by commercial RPCs, causing the node to drop the entire request. Source/Full Breakdown:https://andreyobruchkov1996.substack.com/p/ethereum-dev-hacks-catching-hidden-transfers-real-time-events-and-multicalls-bef7435b9397
 
-11h ago
+12h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey all! Since my earlier post I've been rebuilding from the ground up, and your feedback helped shape everything. ETour V2 is simpler, faster, and more flexible: 1) You can now configure your own lobbies with anywhwere between 2 and 32 players. And you can choose the entry fee per-player, from $0.20 up to 1 ETH. 2) Moves happen in sub-1s (down from ~10s). 3) The fee structure is cleaner too: 95% straight to the winner, and 5% is my cut. No confusing raffle mechanics. And the winner gets more, winner's cut in V1 was only 90% of the pot, now it's 95%! 4) I also put together two docs: a focused whitepaper that explains the why, and a thorough user manual that answers every how question. Further, and very importantly, V2 positions ETour as the perfect platform to play games on-chain over ETH stakes with no middlemen with your friends, crew, or community, rather than a place for random online matchmaking. Which is more honest about what ETour is good at. Happy to answer your questions! Misc: https://etour.games https://etour.games/whitepaper https://etour.games/manual All contracts are verified and available in the footer
 
-21h ago
+22h ago
 
 ---
 
@@ -172,7 +172,7 @@ The Motley Fool • 2d ago
 
 Key Takeaways Charles Schwab has opened signups for updates and possible early access to Schwab Crypto, a forthcoming account for buying and selling Bitcoin and ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 1h ago
 
 Crypto markets are in the green on Monday, with Bitcoin, Ethereum and XRP all posting modest gains after weeks of subdued price action. Bitcoin is trading around $69,137, up 3% in 24 hours. Ethereum has climbed to $2,131, gaining nearly 4%. XRP is holding near $1.33, up roughly 2% on the day.Iran T…
 
-tradingview.com • 6h ago
+tradingview.com • 7h ago
 
 ---
 
@@ -204,13 +204,13 @@ The Block • 2d ago
 
 Why XRP can't crack the big three: supply pressure, price resistance, and a market cap gap that keeps widening against Bitcoin and Ethereum.
 
-Watcher Guru • 23h ago
+Watcher Guru • 1d ago
 
 ---
 
 **[Investors Tiptoe Back Into Grayscale’s Ethereum Mini Trust as ETH Price Slides](https://www.tipranks.com/news/cryptocurrencies/investors-tiptoe-back-into-grayscales-ethereum-mini-trust-as-eth-price-slides)**
 
-TipRanks • 55m ago
+TipRanks • 1h ago
 
 ---
 
@@ -218,7 +218,7 @@ TipRanks • 55m ago
 
 While, Bitcoin ETF saw a mix of outflows and inflows, other altcoin ETFs were also on the same page with more diversified ETFs on the way.
 
-AMBCrypto • 12h ago
+AMBCrypto • 13h ago
 
 ---
 
@@ -260,7 +260,7 @@ BITCOIN: The Calm Before The Storm (Prepare Now)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 7K • 👍 280 • 💬 310 • ⏱️ 18:13 • 11h ago
+👁️ 7K • 👍 280 • 💬 310 • ⏱️ 18:13 • 12h ago
 
 ---
 
@@ -280,7 +280,7 @@ XRP Can NEVER Join Bitcoin, Ethereum & USDT – Here's the Shocking Reason (Mark
 
 📺 CryptoWendyO
 
-👁️ 9K • 👍 568 • 💬 18 • ⏱️ 13:47 • 17h ago
+👁️ 9K • 👍 568 • 💬 18 • ⏱️ 13:47 • 18h ago
 
 ---
 
@@ -290,7 +290,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 96 • ⏱️ 7:06 • 8h ago
+👁️ 1K • 👍 96 • ⏱️ 7:06 • 9h ago
 
 ---
 
@@ -300,7 +300,7 @@ In today's video I break down Bitcoin, Ethereum, stocks, oil, gold, and silver, 
 
 📺 James Crypto Guru
 
-👁️ 1K • 👍 124 • 💬 7 • ⏱️ 14:51 • 11h ago
+👁️ 1K • 👍 124 • 💬 7 • ⏱️ 14:51 • 12h ago
 
 ---
 
@@ -308,7 +308,7 @@ In today's video I break down Bitcoin, Ethereum, stocks, oil, gold, and silver, 
 
 📺 IcedCoffeeMinute
 
-👁️ 1K • 👍 15 • 💬 2 • ⏱️ 0:29 • 6h ago
+👁️ 1K • 👍 15 • 💬 2 • ⏱️ 0:29 • 7h ago
 
 ---
 
@@ -318,7 +318,7 @@ Join the $1K to $100K Trading Challenge! - https://bit.ly/1kto100ktradingchallen
 
 📺 Altcoin Doctor
 
-👁️ 32 • 👍 1 • ⏱️ 9:12 • 9h ago
+👁️ 32 • 👍 1 • ⏱️ 9:12 • 10h ago
 
 ---
 
@@ -328,7 +328,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 1K • 👍 52 • 💬 88 • ⏱️ 14:17 • 21h ago
+👁️ 1K • 👍 52 • 💬 88 • ⏱️ 14:17 • 22h ago
 
 ---
 
