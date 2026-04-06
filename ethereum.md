@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-06T14:49:11.406976+00:00'
+updated: '2026-04-06T15:50:29.334627+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 06, 2026 at 14:49 UTC  
+**Last Updated:** April 06, 2026 at 15:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,144.78
+### $2,164.16
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +5.4%  
-**7d:** +1.9%  
-**30d:** +11.0%  
-**90d:** -32.2%  
-**1y:** +38.2%  
+**24h:** +5.5%  
+**7d:** +2.7%  
+**30d:** +11.8%  
+**90d:** -31.7%  
+**1y:** +39.2%  
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
 **[ZK-powered order book DEXs are quietly becoming the most interesting sector in DeFi. Is anyone else paying attention?](https://www.reddit.com/r/ethereum/comments/1sdxks3/zkpowered_order_book_dexs_are_quietly_becoming/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The true bottleneck in Ethereum dApp architecture isn't just on-chain gas, it's the off-chain infrastructure required to read the state. When protocols are designed without considering how data is indexed, they force massive hardware and cost requirements onto the ecosystem. The Blind Spot of Internal Transfers: Standard contract-to-contract ETH transfers (call{value: x}()) don't emit logs. Because they bypass block bloom filters, standard node queries like eth_getLogs miss them entirely. Trade-off: To index these reliably without protocol-level changes, you are forced into EVM tracing (debug_traceTransaction). This is incredibly I/O heavy, essentially requiring dedicated archive nodes or premium RPC tiers. Emitting custom on-chain events for internal transfers is a critical architectural pattern if you develop your own protocol that you want to monitor, it shifts the burden away from expensive execution traces and local state simulations, saving infrastructure operators massive overhead. Infrastructure Resilience vs. WebSockets: For low-latency dApps, eth_subscribe over WebSockets is the standard. However, long-lived WS connections are notoriously flaky and silently drop packets, leading to degraded, out-of-sync frontends. Architecture standard: A resilient Ethereum stack requires a hybrid model. Maintain the WS connection for real-time mempool and head-of-chain detection, but always run a background worker polling eth_getLogs with a sliding block window to patch missed events during WS reconnects. JSON-RPC Network Overhead: Spamming nodes with individual read requests congests RPCs. MulticallV3 batching is mandatory for minimizing network round trips. Trade-off: When wrapping complex calls, using tryAggregate handles partial successes gracefully. However, it significantly increases EVM execution cost due to internal CALL overhead and memory expansion when capturing return data you might discard. If your batch loop is too large, you will hit the strict execution timeouts or global eth_call gas caps enforced by commercial RPCs, causing the node to drop the entire request. Source/Full Breakdown:https://andreyobruchkov1996.substack.com/p/ethereum-dev-hacks-catching-hidden-transfers-real-time-events-and-multicalls-bef7435b9397
 
-15h ago
+16h ago
 
 ---
 
@@ -154,7 +154,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Algorand's ALGO token has emerged as an unexpected beneficiary of the market’s latest quantum-computing debate.
 
-CryptoSlate • 22h ago
+CryptoSlate • 23h ago
 
 ---
 
@@ -166,19 +166,11 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Bitcoin and ethereum price today, Monday, April 6, 2026: Prices rise amid reports of a proposed Iran war ceasefire](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-monday-april-6-2026-prices-rise-amid-reports-of-a-proposed-iran-war-ceasefire-113813797.html)**
+**[Tom Lee’s BitMine Nears 4% of Ethereum Supply as ETH Price Hits Weekly High](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-nears-4-142958858.html)**
 
-​​Bitcoin and ethereum opened at $68,978.91 and $2,108.78, respectively. Both cryptos rose on Monday morning after news outlets reported on a diplomatic attempt to end the Iran war.
+Publicly traded Ethereum treasury firm BitMine Immersion Technologies added $150 million of ETH last week, boosting its $10.3 billion stash.
 
-Yahoo Finance • 3h ago
-
----
-
-**[Charles Schwab Adds Bitcoin and Ethereum Crypto Trading to Brokerage Platform](https://finance.yahoo.com/markets/crypto/articles/charles-schwab-adds-bitcoin-ethereum-103327771.html)**
-
-Charles Schwab is rolling out direct Bitcoin and Ethereum crypto trading to its brokerage client base, a platform that encompasses 38.9 million active accounts and $12.22 trillion in client assets – in a phased launch beginning in the second quarter of 2026. The offering, branded Schwab Crypto and operated through ...
-
-Yahoo Finance • 4h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -186,15 +178,7 @@ Yahoo Finance • 4h ago
 
 Crypto markets are in the green on Monday, with Bitcoin, Ethereum and XRP all posting modest gains after weeks of subdued price action. Bitcoin is trading around $69,137, up 3% in 24 hours. Ethereum has climbed to $2,131, gaining nearly 4%. XRP is holding near $1.33, up roughly 2% on the day.Iran T…
 
-TradingView • 10h ago
-
----
-
-**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775469300)**
-
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 14h ago
+TradingView • 11h ago
 
 ---
 
@@ -206,6 +190,14 @@ Decrypt • 2d ago
 
 ---
 
+**[Current price of Ethereum for April 6, 2026](https://fortune.com/article/price-of-ethereum-04-06-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 2h ago
+
+---
+
 **[Ethereum Foundation doubles staked ether, clearing two-thirds of 70,000 ETH target](https://www.theblock.co/post/396297/ethereum-foundation-staked-ethereum-clearing-two-thirds-70000-eth-target)**
 
 The foundation’s latest staking allocation mirrors its biggest-ever single-day move and is a major step-up from its initial February deployment.
@@ -214,17 +206,25 @@ The Block • 2d ago
 
 ---
 
-**[Why XRP Can’t Join the Big Three Bitcoin, Ethereum, and USDT](https://watcher.guru/news/why-xrp-cant-join-the-big-three-bitcoin-ethereum-and-usdt)**
+**[Investors Tiptoe Back Into Grayscale’s Ethereum Mini Trust as ETH Price Slides](https://www.tipranks.com/news/cryptocurrencies/investors-tiptoe-back-into-grayscales-ethereum-mini-trust-as-eth-price-slides)**
 
-Why XRP can't crack the big three: supply pressure, price resistance, and a market cap gap that keeps widening against Bitcoin and Ethereum.
-
-Watcher Guru • 1d ago
+TipRanks • 5h ago
 
 ---
 
-**[Investors Tiptoe Back Into Grayscale’s Ethereum Mini Trust as ETH Price Slides](https://www.tipranks.com/news/cryptocurrencies/investors-tiptoe-back-into-grayscales-ethereum-mini-trust-as-eth-price-slides)**
+**[Recap: Here’s how Bitcoin, Ethereum, Solana, and XRP ETFs performed this week](https://ambcrypto.com/recap-heres-how-bitcoin-ethereum-solana-and-xrp-etfs-performed-this-week/)**
 
-TipRanks • 4h ago
+While, Bitcoin ETF saw a mix of outflows and inflows, other altcoin ETFs were also on the same page with more diversified ETFs on the way.
+
+AMBCrypto • 16h ago
+
+---
+
+**[Ethereum Just Flashed a Rare Signal: What Happens Next?](https://coinpedia.org/price-analysis/ethereum-just-flashed-a-rare-signal-what-happens-next/)**
+
+Ethereum is flashing a rare market signal, and it’s not showing up in price yet. While the broader crypto market remains stuck in consolidation, ETH
+
+Coinpedia • 2d ago
 
 ---
 
@@ -238,7 +238,7 @@ This is huge for crypto, bitcoin, ethereum and the rest of the markets!!!!! ----
 
 📺 Thomas Kralow
 
-👁️ 5K • 👍 2K • 💬 20 • ⏱️ 9:21 • 3h ago
+👁️ 5K • 👍 2K • 💬 20 • ⏱️ 9:21 • 4h ago
 
 ---
 
@@ -248,7 +248,7 @@ Get 5% off the BitBox02 and take your crypto off exchanges → https://bitbox.sw
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 273 • 💬 63 • ⏱️ 19:32 • 22h ago
+👁️ 7K • 👍 273 • 💬 63 • ⏱️ 19:32 • 23h ago
 
 ---
 
@@ -258,7 +258,7 @@ BITCOIN: The Calm Before The Storm (Prepare Now)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 8K • 👍 296 • 💬 309 • ⏱️ 18:13 • 14h ago
+👁️ 8K • 👍 296 • 💬 309 • ⏱️ 18:13 • 15h ago
 
 ---
 
@@ -278,7 +278,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 149 • 👍 17 • ⏱️ 4:45 • 4h ago
+👁️ 149 • 👍 17 • ⏱️ 4:45 • 5h ago
 
 ---
 
@@ -288,7 +288,7 @@ XRP Can NEVER Join Bitcoin, Ethereum & USDT – Here's the Shocking Reason (Mark
 
 📺 CryptoWendyO
 
-👁️ 10K • 👍 585 • 💬 76 • ⏱️ 13:47 • 21h ago
+👁️ 10K • 👍 585 • 💬 76 • ⏱️ 13:47 • 22h ago
 
 ---
 
@@ -298,7 +298,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 103 • ⏱️ 7:06 • 11h ago
+👁️ 1K • 👍 103 • ⏱️ 7:06 • 12h ago
 
 ---
 

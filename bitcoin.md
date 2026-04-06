@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-06T14:49:11.402812+00:00'
+updated: '2026-04-06T15:50:29.328660+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 06, 2026 at 14:49 UTC  
+**Last Updated:** April 06, 2026 at 15:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,449.86
+### $69,819.97
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.8%  
-**7d:** +1.7%  
-**30d:** +5.3%  
-**90d:** -24.0%  
-**1y:** -12.2%  
+**24h:** +4.0%  
+**7d:** +2.3%  
+**30d:** +5.8%  
+**90d:** -23.6%  
+**1y:** -11.8%  
 
 ---
 
@@ -81,19 +81,13 @@ Rank #1
 
 Sadly, most of the hard working people still have no idea how the printer keeps stealing their money.
 
-2h ago
+3h ago
 
 ---
 
-**[He has risen…](https://www.reddit.com/r/Bitcoin/comments/1sd6m97/he_has_risen/)**
+**[Bitcoin: The Silent Revolution of Our Generation](https://www.reddit.com/r/Bitcoin/comments/1se0qgj/bitcoin_the_silent_revolution_of_our_generation/)**
 
-23h ago
-
----
-
-**[Apparently Bitcoin Day turned out to be a gimmick](https://www.reddit.com/r/Bitcoin/comments/1sdykoh/apparently_bitcoin_day_turned_out_to_be_a_gimmick/)**
-
-I thought it would be a giveaway like 2010, solve a captcha, and get Bitcoin. But it turned out to be an amazing marketing gimmick by Cash App, Square, and Bitkey. https://btc.day/faq.html
+While the world continues to trust systems that fail time and time again, a new alternative has emerged silent, unstoppable, and incorruptible. Bitcoin is not just technology. It’s not just money. It’s freedom. For the first time in history, a generation has the opportunity to truly own its wealth without intermediaries, without permission, without manipulation. We grew up watching crises unfold, inflation erode the value of our efforts, and rules change in the middle of the game. But now… we have a choice. Bitcoin is more than an asset, it’s a statement. A rejection of centralized control. A step toward individual sovereignty. There may be volatility. There may be doubts. But one thing is certain: The world is changing and Bitcoin is leading that change. Don’t trust, verify. 🧡
 
 1h ago
 
@@ -103,7 +97,13 @@ I thought it would be a giveaway like 2010, solve a captcha, and get Bitcoin. Bu
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-8h ago
+9h ago
+
+---
+
+**[He has risen…](https://www.reddit.com/r/Bitcoin/comments/1sd6m97/he_has_risen/)**
+
+1d ago
 
 ---
 
@@ -111,7 +111,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I am sat on some savings which I do not use and they gain minimal interest, I have been toying with the idea of investing for a while and I am wondering if It is too late to invest in btc or would now be an ideal time given the current dip? I was thinking about putting a chunk in now and then x amount every month indefinitely and somewhat forgetting about it, and hoping that in 30 years I will have accumulated a bit of profit from it to aid towards retirement. Would this be a wise idea, thinking long term?
 
-14h ago
+15h ago
 
 ---
 
@@ -131,7 +131,15 @@ I am sat on some savings which I do not use and they gain minimal interest, I ha
 
 Hey everyone, I recorded a video about Bitcoin key recovery using HEX format. In this case, the keys are represented as 64 hexadecimal characters. The goal is to create more content in the future covering other key formats and wallet structures as well. All the tools shown in the video are open source. That said, I strongly recommend running anything like this on a completely offline computer for safety. Even though the video is fairly amateur in terms of production, I tried to include some of the most advanced tools and techniques currently available for this kind of work. I’d really appreciate any feedback or thoughts from the community.
 
-🔗 [youtu.be](https://youtu.be/X1TDb9FAdY8?si=0q8_rbQ-E1kpGVal) • 6h ago
+🔗 [youtu.be](https://youtu.be/X1TDb9FAdY8?si=0q8_rbQ-E1kpGVal) • 7h ago
+
+---
+
+**[Mentor Monday, April 06, 2026: Ask all your bitcoin questions!](https://www.reddit.com/r/Bitcoin/comments/1sdrnqp/mentor_monday_april_06_2026_ask_all_your_bitcoin/)**
+
+Ask (and answer!) away! Here are the general rules: If you'd like to learn something, ask. If you'd like to share knowledge, answer. Any question about Bitcoin is fair game. And don't forget to check out /r/BitcoinBeginners You can sort by new to see the latest questions that may not be answered yet.
+
+8h ago
 
 ---
 
@@ -139,15 +147,7 @@ Hey everyone, I recorded a video about Bitcoin key recovery using HEX format. In
 
 In an earlier post I explained how the power law floor is an incredible tool for understanding bitcoin growth and volatility. Definitions: Power law: not linear, not exponential, power law is very high growth at the beginning and tapering off year by year but never to zero. Power laws are found in networks like the internet and cities. And networks are generally immortal. Volatility: the power law is a trend line and bitcoin oscillates around it between an upper and lower bound. We see 2 standard deviations down and more up, but it seems like the extreme euphoria of the earlier days are over. Floor: what I find the most interesting statistical observation is the that price never systemically dropped below -2 standard deviations. Price seems to be capped at the downside. This is the marginal network adoption doing its thing: significantly more buyers than sellers at this price point. Trend is roughly time in days to the power of 5.688 check btcpowerlaw.nl for the starter pack so you can do your own discoveries. Floor is 0.432 times trend. Not systemically broken ever. Growing 50 USD and accelerating in USD every day. Now the post: Because if stack * floor growth > yearly expenses = financial freedom. People point out correctly that to ‘harvest’ the floor growth you need to actually sell bitcoin, which in turn reduced your stack and therefore hurts next year’s floor growth. There are two points I would like to make to clarify and then I’m going to show you how it actually works. 1: the floor is always growing 2: the price is almost never actually on the floor Point number 1: the floor grows every day You don’t sell an entire year’s worth of expenses today at $67K. We are currently at 0.51 times trend. Sell as little as possible at this current trend value. Borrowing would actually be wiser, but the math doesn’t need borrowing to work. Let’s say you sell $8,333 every month at the beginning of the month at floor levels. For the next 12 months that would be the following: https://preview.redd.it/koit3ckbwetg1.png?width=1514&format=png&auto=webp&s=6b7b7af43283f11c658c5e12e7dab5b9051d8be8 As you can see the amount of bitcoin sold is going down every month. A reassuring thing. This is actually the adoption happening. But as a commenter correctly pointed out: after 6.1 years, on May 2032, this stack runs out of bitcoin. Which brings me to point number 2. Point number 2: Bitcoin is actually almost never at floor prices Look at the price today: $67K and what is going on in the world? Massive downward pressure from an ATH in October. Fear and greed was below 8 in February, conflicts in Iran. And still bitcoin hovers about 20% above the floor. This is an interesting datapoint. And it is confirmed by historical data: In 2015 the price spent a total of 70 days at the floor. Then it left and didn’t come back for 6 years. In 2022 with FTX and all that the price was 34 days at the floor, then it left after two months. On average the price is at the floor for 10 days per year but it is not evenly distributed per year. Back to our example of 5 BTC allows $100K withdrawals: you run out of bitcoin after 6 years or 72 months of floor price. The price has never remained at the floor for 72 months. And it is not at the floor now. Here’s a table showing what happens when you sell quarterly at different floor values. https://preview.redd.it/89x1d7qcwetg1.png?width=1452&format=png&auto=webp&s=982275021bf1546238c138217d2e3d7684a6dbb0 1x floor depletes after 6 years like we discussed, so does 1.1x two years later. From 1.2x floor you actually kind of make it, but 1.5x and above is really thriving. And anything above is doing great. Now for perspective: how many days per year average was the price above 1.5x floor? 242 days on average. But it’s never average: there is usually a string of multiple years: 586 days in the 2017-2018 bull, 779 days in the 2020-2022 bull, and 801 days in the Nov 2023 to Jan 2026 period. Conclusion: So now you see the floor math in conjunction with the historical power law trend multiples. Together they show that withdrawing $100K from a 5 BTC portfolio is not just possible. It is the most efficient and therefore logical system for retirement. At 1.5x floor your stack survives 10 years and ends at $1.05M. Bitcoin trades above 1.5x floor two thirds of the time. These are really good odds. I am reminded of the principle of a well running factory: it produces top quality products as an average result. Not a heroic one. Not one depending on somebody doing amazing work every day. Just average inputs result in spectacular outcomes. Bitcoin is a retirement factory producing terrific outcomes as the average results. Honest caveat: 5 BTC works when the price is above the floor, which is 97% of the time. But if you want a stack that survives even permanent floor pricing, accounting for the fact that floor growth decelerates over decades, the number is 7 BTC. At 7 BTC your floor growth covers 155% of expenses in year one and the stack never depletes, even in the worst case the model can produce, assuming the power law holds. https://preview.redd.it/ylbcwivo2itg1.png?width=1200&format=png&auto=webp&s=85511ac5b7c2acdc20d436b4c36c047cbee6764a
 
-20h ago
-
----
-
-**[Wie viel Bitcoin sollte man haben?](https://www.reddit.com/r/Bitcoin/comments/1sdzbe0/wie_viel_bitcoin_sollte_man_haben/)**
-
-Wie viel Bitcoins hat man durchschnittlich?
-
-1h ago
+21h ago
 
 ---
 
@@ -155,63 +155,53 @@ Wie viel Bitcoins hat man durchschnittlich?
 
 ## Google News: "bitcoin"
 
-**[Bitcoin must retake $75,000 or risk annihilation to $10,000, analyst says](https://www.coindesk.com/markets/2026/04/06/bitcoin-meltdown-to-usd10-000-remains-likely-unless-prices-reclaim-usd75-000-analyst-says)**
+**[A quantum threat to Bitcoin has some asking the unthinkable](https://fortune.com/crypto/2026/04/06/quantum-computing-satoshi-nakamoto-bitcoin-freeze-wallets/)**
 
-Bloomberg's Mike McGlone has reiterated his forecast that Bitcoin could plunge to $10,000, this time anchoring his outlook to a clear line in the sand: $75,000.
+A hacker with quantum tools could crack open old Bitcoin wallets and flood the market as soon as 2029.
 
-CoinDesk • 1h ago
-
----
-
-**[Lucky solo bitcoin miner beats 1-in-28,000 daily odds to win $210,000 block reward](https://www.theblock.co/post/396366/lucky-solo-bitcoin-miner-beats-1-in-28000-daily-odds-to-win-210000-block-reward)**
-
-A solo bitcoin miner using CKpool collected roughly $210,000 for solving the 312th solo block cracked with the software since its 2014 launch.
-
-The Block • 17h ago
+Fortune • 4h ago
 
 ---
 
-**[Bitcoin Rebounds Near $70K, Charles Schwab To Launch Direct Trading](https://www.investors.com/news/bitcoin-price-rebound-69k-charles-schwab-direct-trading/)**
+**[Bitcoin is now front-running the Fed rather than reacting to it. ETFs are the cause](https://www.coindesk.com/markets/2026/04/05/bitcoin-is-now-front-running-the-fed-rather-than-reacting-to-it-etfs-are-the-cause)**
 
-investors.com • 1h ago
+Bitcoin's correlation with global central bank easing has turned strongly negative since 2024, suggesting BTC now leads rather than lags monetary policy signals.
 
----
-
-**[Charles Schwab Is Gearing Up to Offer Bitcoin, Ethereum Spot Trading](https://decrypt.co/363336/charles-schwab-bitcoin-ethereum-spot-trading)**
-
-Financial giant Charles Schwab is set to launch spot buying of Bitcoin and Ethereum by the end of the quarter, the firm said Friday.
-
-Decrypt • 2d ago
+CoinDesk • 23h ago
 
 ---
 
-**[Charles Schwab opens waitlist for direct bitcoin and ether trading, targeting Q2 limited launch](https://www.theblock.co/post/396358/charles-schwab-opens-waitlist-for-direct-bitcoin-and-ether-trading-targeting-q2-limited-launch)**
+**[Bitcoin Tops $70,000 on Optimism Over Possible Iran Ceasefire](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ticks-even-trump-iran-025044624.html)**
 
-The service will be unavailable in New York and Louisiana at launch, and fee structure and custody arrangements have not yet been disclosed.
+(Bloomberg) -- Bitcoin rose in early trading Monday as investors weighed reports that Iran was seeking a ceasefire in the war, even as US President Donald Trump escalated threats to attack civilian infrastructure.The original cryptocurrency was up as much as 2.8%, trading around $69,300 at 9:35 a.m. in London. Ether, the second-largest digital asset, rose as much as 3.7%. Nearly $200 million of bearish bets were unwound for cryptocurrencies in the last 24 hours, according to Coinglass data.Trump
 
-The Block • 1d ago
-
----
-
-**[Strategy Resumes Bitcoin Treasury Buys With $330M Purchase](https://finance.yahoo.com/markets/crypto/articles/strategy-resumes-bitcoin-treasury-buys-124305854.html)**
-
-The Bitcoin treasury firm reported that the value of its BTC holdings plummeted by $14.4 billion in the first quarter of 2026.
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 6h ago
 
 ---
 
-**[MSTR Stock: Strategy Resumes Bitcoin Buying With $330 Million Purchase](https://www.barrons.com/articles/mstr-stock-price-strategy-microstrategy-buys-bitcoin-155ff8c7?gaa_at=eafs&gaa_n=AWEtsqeZVy-sutKvUnZA8SuPBW8FS5agaMd_UtQmpMx8cfRJYZLc2fx0EAN9&gaa_ts=69d3bdee&gaa_sig=Q476HoDcUsYfBqm7hVogIVJdr-_5atNSbBHrWvXJaOH1Pyakjiu-84AFTZYweZfo_V8m36y2S_H4aGQNn7Ytww%3D%3D)**
+**[Bitcoin (BTC) price rallies on Iran ceasefire talks, Algorand (ALGO) extends gains: Crypto Markets Today](https://www.coindesk.com/markets/2026/04/06/bitcoin-rallies-on-report-of-iran-ceasefire-talks-algorand-extends-gains)**
 
-Barron's • 2h ago
+If a ceasefire materializes, a relief rally could further benefit risk assets. For now, traders appear to be treating the headlines with skepticism.
+
+CoinDesk • 5h ago
 
 ---
 
-**[Michael Saylor's Strategy (MSTR) purchased $330 million of bitcoin last week](https://www.coindesk.com/markets/2026/04/06/strategy-buys-another-4-871-bitcoin-for-usd330-million-as-holdings-near-767-000-btc)**
+**[Bitcoin price today: rises above $69k on reports of potential Iran ceasefire](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-climbs-above-69k-on-reports-on-potential-iran-ceasefire-4597800)**
 
-Last week's purchases were mostly funded via sales of the company's STRC preferred stock.
+Investing.com • 1h ago
 
-CoinDesk • 2h ago
+---
+
+**[Strategy Posts $14.5 Billion Unrealized Loss in First Quarter](https://www.bloomberg.com/news/articles/2026-04-06/strategy-posts-14-5-billion-unrealized-loss-in-first-quarter)**
+
+Bloomberg.com • 2h ago
+
+---
+
+**[Strategy Stock Skyrockets on New Bitcoin Buy Despite $14.5 Billion Quarterly Loss](https://www.tipranks.com/news/strategy-stock-skyrockets-on-new-bitcoin-buy-despite-14-5-billion-quarterly-loss)**
+
+TipRanks • 41m ago
 
 ---
 
@@ -219,13 +209,21 @@ CoinDesk • 2h ago
 
 Strategy (MSTR) buys $330M bitcoin in early April 2026, reports $14.46B unrealized loss and tax benefit—see holdings, funding and stock impact.
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 3h ago
 
 ---
 
-**[Bitcoin Ticks Up Even as Trump’s Iran War Threats Cloud Markets](https://www.bloomberg.com/news/articles/2026-04-06/bitcoin-ticks-up-even-as-trump-s-iran-war-threats-cloud-markets)**
+**['I Wouldn't Invest $1'—Hayes Warns $60K Bitcoin Crash Before $250K](https://www.forbes.com/sites/digital-assets/2026/04/05/i-wouldnt-invest-1-hayes-warns-60k-bitcoin-crash-before-250k/)**
 
-Bloomberg.com • 5h ago
+Forbes • 20h ago
+
+---
+
+**[Lucky solo bitcoin miner beats 1-in-28,000 daily odds to win $210,000 block reward](https://www.theblock.co/post/396366/lucky-solo-bitcoin-miner-beats-1-in-28000-daily-odds-to-win-210000-block-reward)**
+
+A solo bitcoin miner using CKpool collected roughly $210,000 for solving the 312th solo block cracked with the software since its 2014 launch.
+
+The Block • 18h ago
 
 ---
 
@@ -253,7 +251,7 @@ Google Research said the necessary resources for quantum computers to break cryp
 
 Bitcoin needs to fix this in the next three years.
 
-⬆️ 5 • 💬 2 • 4d ago • [Mashable](https://mashable.com/article/google-research-bitcoin-cryptography-broken)
+⬆️ 5 • 💬 2 • 5d ago • [Mashable](https://mashable.com/article/google-research-bitcoin-cryptography-broken)
 
 ---
 
@@ -279,7 +277,7 @@ April 03, 2026 - A new $100 million bond deal reveals exactly how traditional fi
 
 **[KnexCoin (NEX) soft forked Bitcoin and now Quantum Ready](https://news.ycombinator.com/item?id=47589186)**
 
-⬆️ 2 • 💬 1 • 5d ago • [untraceablex.com](https://www.untraceablex.com)
+⬆️ 2 • 💬 1 • 6d ago • [untraceablex.com](https://www.untraceablex.com)
 
 ---
 
@@ -315,7 +313,7 @@ Follow Gareth: https://x.com/GarethSoloway ✓ Bitunix (no kyc, $10k bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 2K • 💬 241 • ⏱️ 23:55 • 21h ago
+👁️ 48K • 👍 2K • 💬 241 • ⏱️ 23:55 • 22h ago
 
 ---
 
@@ -325,7 +323,7 @@ Could the oil crisis Break Bitcoin? Insider oil tracking just hit $173 a barrel 
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 2K • 💬 338 • ⏱️ 16:01 • 18h ago
+👁️ 19K • 👍 2K • 💬 338 • ⏱️ 16:01 • 19h ago
 
 ---
 
@@ -335,7 +333,7 @@ FortisX https://fortisx.fi/kol/aaron - Deposit from $100: Get a 1% bonus - Withd
 
 📺 Aaron Bennett
 
-👁️ 3K • 👍 289 • 💬 186 • ⏱️ 8:24 • 8h ago
+👁️ 3K • 👍 289 • 💬 186 • ⏱️ 8:24 • 9h ago
 
 ---
 
@@ -345,7 +343,7 @@ This is huge for crypto, bitcoin, ethereum and the rest of the markets!!!!! ----
 
 📺 Thomas Kralow
 
-👁️ 5K • 👍 2K • 💬 20 • ⏱️ 9:21 • 3h ago
+👁️ 5K • 👍 2K • 💬 20 • ⏱️ 9:21 • 4h ago
 
 ---
 
@@ -355,7 +353,7 @@ Bitcoin and Crypto markets are heating up, and new opportunities are starting to
 
 📺 Crypto Banter
 
-👁️ 5K • 👍 490 • 💬 23 • ⏱️ 7:43 • 5h ago
+👁️ 5K • 👍 490 • 💬 23 • ⏱️ 7:43 • 6h ago
 
 ---
 
@@ -365,7 +363,7 @@ CHECK OUT UPTRADE! Sign up here ▻ https://uptrade.co/ref/fire-hustle TRADE ON 
 
 📺 FireHustle
 
-👁️ 7K • 👍 456 • 💬 55 • ⏱️ 10:15 • 16h ago
+👁️ 7K • 👍 456 • 💬 55 • ⏱️ 10:15 • 17h ago
 
 ---
 
@@ -375,7 +373,7 @@ Bitcoin #Crypto #Finance Bitcoin uncertainty is rising fast as global instabilit
 
 📺 The Wolf Of All Streets
 
-👁️ 3K • 👍 222 • 2h ago
+👁️ 3K • 👍 222 • 3h ago
 
 ---
 
@@ -385,7 +383,7 @@ BITCOIN: The Calm Before The Storm (Prepare Now)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 8K • 👍 296 • 💬 309 • ⏱️ 18:13 • 14h ago
+👁️ 8K • 👍 296 • 💬 309 • ⏱️ 18:13 • 15h ago
 
 ---
 

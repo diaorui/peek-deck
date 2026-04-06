@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-04-06T14:49:10.993340+00:00"
+          "dateModified": "2026-04-06T15:50:28.816447+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -763,39 +763,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sdyvew/i_built_an_ai_content_engine_that_turns_one_piece/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1sdyvew/i_built_an_ai_content_engine_that_turns_one_piece/" target="_blank" onclick="event.stopPropagation();">I built an AI content engine that turns one piece of content into posts for 9 platforms — fully automated with n8n</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            What it does: You give it any input — a blog URL, a YouTube video, raw text, or just a topic — and it generates optimized posts for 9 platforms at once: Instagram, Twitter/X, LinkedIn, Facebook, TikTok, Reddit, Pinterest, Twitter threads, and email newsletters. Each output is tailored to the platform (hashtags for IG, hooks for TikTok, professional tone for LinkedIn, etc.). It also auto-generates images for visual platforms like Instagram, Facebook, and Pinterest,using AI. Other features: - Topic Research — scans Google, Reddit, YouTube, and news sources, then uses an LLM to identify trending subtopics before generating content - Auto-Discover — if you don't even have a topic, it searches what's trending right now (optionally filtered by niche) and picks the hottest one - Cinematic Ad — upload any photo, pick a style (cinematic, luxury, neon, retro, minimal, natural), and Gemini transforms it into a professional-looking ad - Multi-LLM support — works with Mistral, Groq, OpenAI, Anthropic, and Gemini - History — every generation is saved, exportable as CSV The n8n automation (this is where it gets fun): I connected the whole thing to an n8n workflow so it runs on autopilot: 1. Schedule Trigger — fires daily (or whatever frequency) 2. Google Sheets — reads a row with a topic (or "auto" to let AI pick a trending topic) 3. HTTP Request — hits my /api/auto-generate endpoint, which auto-detects the input type (URL, YouTube link, topic, or "auto") and generates everything 4. Code node — parses the response and extracts each platform's content 5. Google Drive — uploads generated images 6. Update Sheets — marks the row as done with status and links The API handles niche filtering too — so if my sheet says the topic is "auto" and the niche column says "AI", it'll specifically find trending AI topics instead of random viral stuff. Error handling: HTTP Request has retry on fail (2 retries), error outputs route to a separate branch that marks the sheet row as "failed" with the error message, and a global error workflow emails me if anything breaks. Tech stack: - FastAPI backend, vanilla JS frontend - Hosted on Railway - Google Gemini for image generation and cinematic ads - HuggingFace FLUX.1 for platform images - SerpAPI + Reddit + YouTube + NewsAPI for research - SQLite for history - n8n for workflow automation It's not perfect yet — rate limits on free tiers are real — but it's been saving me hours every week. Happy to answer questions. https://preview.redd.it/f8d3ogk3nktg1.png?width=888&format=png&auto=webp&s=dcd3d5e90facd54314f40e799b32cab979dae4bf https://preview.redd.it/j8zl07llmktg1.png?width=946&format=png&auto=webp&s=5c78c12a223d6357cccaed59371e97d5fe4787f5 https://preview.redd.it/5cjas6hkmktg1.png?width=891&format=png&auto=webp&s=288c6964061f531af63fb9717652bececfb63072 https://preview.redd.it/k7e89belmktg1.png?width=1057&format=png&auto=webp&s=8b6cb15cfa267d90a697ba03aed848166976d921 https://preview.redd.it/3w3l70tlmktg1.png?width=1794&format=png&auto=webp&s=6de10434f588b1bf16ae02f542afd770eaa23c3f https://preview.redd.it/a40rh1canktg1.png?width=1920&format=png&auto=webp&s=1d2414c7e653a5f01f12a21a43e69bd4fb4b99ed
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1775482077.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sdt5jn/opinions_on_googles_search_ai_best_practices/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -820,39 +787,6 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1775464525.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sdzcag/last_call_perplexity_replit_github_the_ai_student/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1sdzcag/last_call_perplexity_replit_github_the_ai_student/" target="_blank" onclick="event.stopPropagation();">Last Call: Perplexity, Replit, & GitHub— The AI Student Discounts You're Cheerfully Paying the Tourist Price For</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            If you got a student edu email, these official promos will expire soon.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1775483222.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -912,7 +846,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sdvygv/mining_hardware_doing_ai_training_is_the_output/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1se2oju/a_fun_survey_to_look_at_how_consumers_perceive/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -920,13 +854,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1sdvygv/mining_hardware_doing_ai_training_is_the_output/" target="_blank" onclick="event.stopPropagation();">mining hardware doing AI training - is the output actually useful</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1se2oju/a_fun_survey_to_look_at_how_consumers_perceive/" target="_blank" onclick="event.stopPropagation();">a fun survey to look at how consumers perceive the use of AI in fashion brand marketing. (all ages, all genders)</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            there's this network that launched recently routing crypto mining hardware toward AI training workloads. miners seem happy with the economics but that's not what i care about my question: is the AI output actually useful? running hardware is easy, producing valuable compute is hard. saw they had some audit confirming high throughput but throughput alone doesn't tell you about quality nobody independent has verified the training output yet afaik. that's the gap that matters. has anyone here looked at how you'd even verify something like that? seems like you'd need to compare against known benchmarks or something
+                            Hi r/artificial ! I'm posting on behalf of a friend who is conducting academic research for their dissertation. The survey looks at how consumers perceive the use of AI in fashion brand marketing, and how that affects brand trust, authenticity and purchase intention. It covers things like: •⁠ ⁠AI-generated ads and models •⁠ ⁠Personalised product recommendations •⁠ ⁠Targeted advertising •⁠ ⁠Virtual influencers The survey takes approximately 12–15 minutes and is completely anonymous. All responses are used for academic purposes only. 🔗 https://forms.gle/TEqaViDtmCndq5keA(USE CODE 1) Your perspective is genuinely valuable, thank you in advance. Since it is also a generational comparison, any participation from your family members is also hugely appreciated. Feel free to drop any questions below!
                         </div>
                         
 
@@ -935,7 +869,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1775474202.0"></span>
+                                    <span data-timestamp="1775490585.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -945,21 +879,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sdr3is/rate_my_readmemd/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1se2nxm/cognitive_surrender_leads_ai_users_to_abandon/', '_blank')">
                     <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/bGgX9PwFlDItZELsCOdXPIEHrWrput61rEvzz3xmUoQ.jpeg?width=640&crop=smart&auto=webp&s=5531a9033c2f80afc43bc835d57efa826b5f0920" alt=""Cognitive surrender" leads AI users to abandon logical thinking, research finds" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1sdr3is/rate_my_readmemd/" target="_blank" onclick="event.stopPropagation();">Rate My README.md</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1se2nxm/cognitive_surrender_leads_ai_users_to_abandon/" target="_blank" onclick="event.stopPropagation();">"Cognitive surrender" leads AI users to abandon logical thinking, research finds</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Working on my README.md to make it more accessiable and understood without make it to long. still working through it. project is still under development also. getting closer every day. feedback is much appreciated, Its my first public repo. https://github.com/AIOSAI/AIPass/blob/main/README.md
+                            Experiments show large majorities uncritically accepting "faulty" AI answers.
                         </div>
                         
 
@@ -968,7 +904,88 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1775457052.0"></span>
+                                    <span data-timestamp="1775490548.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>Ars Technica</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sdzcag/last_call_perplexity_replit_github_the_ai_student/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1sdzcag/last_call_perplexity_replit_github_the_ai_student/" target="_blank" onclick="event.stopPropagation();">Last Call: Perplexity, Replit, & GitHub— The AI Student Discounts You're Cheerfully Paying the Tourist Price For</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            If you got a student edu email, these official promos will expire soon.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1775483222.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sdyvew/i_built_an_ai_content_engine_that_turns_one_piece/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1sdyvew/i_built_an_ai_content_engine_that_turns_one_piece/" target="_blank" onclick="event.stopPropagation();">I built an AI content engine that turns one piece of content into posts for 9 platforms — fully automated with n8n</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            What it does: You give it any input — a blog URL, a YouTube video, raw text, or just a topic — and it generates optimized posts for 9 platforms at once: Instagram, Twitter/X, LinkedIn, Facebook, TikTok, Reddit, Pinterest, Twitter threads, and email newsletters. Each output is tailored to the platform (hashtags for IG, hooks for TikTok, professional tone for LinkedIn, etc.). It also auto-generates images for visual platforms like Instagram, Facebook, and Pinterest,using AI. Other features: - Topic Research — scans Google, Reddit, YouTube, and news sources, then uses an LLM to identify trending subtopics before generating content - Auto-Discover — if you don't even have a topic, it searches what's trending right now (optionally filtered by niche) and picks the hottest one - Cinematic Ad — upload any photo, pick a style (cinematic, luxury, neon, retro, minimal, natural), and Gemini transforms it into a professional-looking ad - Multi-LLM support — works with Mistral, Groq, OpenAI, Anthropic, and Gemini - History — every generation is saved, exportable as CSV The n8n automation (this is where it gets fun): I connected the whole thing to an n8n workflow so it runs on autopilot: 1. Schedule Trigger — fires daily (or whatever frequency) 2. Google Sheets — reads a row with a topic (or "auto" to let AI pick a trending topic) 3. HTTP Request — hits my /api/auto-generate endpoint, which auto-detects the input type (URL, YouTube link, topic, or "auto") and generates everything 4. Code node — parses the response and extracts each platform's content 5. Google Drive — uploads generated images 6. Update Sheets — marks the row as done with status and links The API handles niche filtering too — so if my sheet says the topic is "auto" and the niche column says "AI", it'll specifically find trending AI topics instead of random viral stuff. Error handling: HTTP Request has retry on fail (2 retries), error outputs route to a separate branch that marks the sheet row as "failed" with the error message, and a global error workflow emails me if anything breaks. Tech stack: - FastAPI backend, vanilla JS frontend - Hosted on Railway - Google Gemini for image generation and cinematic ads - HuggingFace FLUX.1 for platform images - SerpAPI + Reddit + YouTube + NewsAPI for research - SQLite for history - n8n for workflow automation It's not perfect yet — rate limits on free tiers are real — but it's been saving me hours every week. Happy to answer questions. https://preview.redd.it/f8d3ogk3nktg1.png?width=888&format=png&auto=webp&s=dcd3d5e90facd54314f40e799b32cab979dae4bf https://preview.redd.it/j8zl07llmktg1.png?width=946&format=png&auto=webp&s=5c78c12a223d6357cccaed59371e97d5fe4787f5 https://preview.redd.it/5cjas6hkmktg1.png?width=891&format=png&auto=webp&s=288c6964061f531af63fb9717652bececfb63072 https://preview.redd.it/k7e89belmktg1.png?width=1057&format=png&auto=webp&s=8b6cb15cfa267d90a697ba03aed848166976d921 https://preview.redd.it/3w3l70tlmktg1.png?width=1794&format=png&auto=webp&s=6de10434f588b1bf16ae02f542afd770eaa23c3f https://preview.redd.it/a40rh1canktg1.png?width=1920&format=png&auto=webp&s=1d2414c7e653a5f01f12a21a43e69bd4fb4b99ed
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1775482077.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -1001,7 +1018,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-06T13:51:38.991178+00:00">Updated 2026-04-06T13:51:38.991178+00:00</small>
+        <small data-timestamp="2026-04-06T15:49:57.714384+00:00">Updated 2026-04-06T15:49:57.714384+00:00</small>
     </div>
 </div>
 
@@ -1187,14 +1204,14 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/cmo-today/brands-adopt-no-ai-disclaimers-to-stand-out-amid-the-slop-a92352af?gaa_at=eafs&gaa_n=AWEtsqf73YLP1YIQwow0eGXfZFs__pSGP_CyByS5GIY46m0oJnlqKVbtdWNb&gaa_ts=69d3bdec&gaa_sig=-VbdPnpjJMGkijg7aaW6cD7mDrFbh78moz4vEsH-AlDWkjB-QmojsY6nZi4ph-_v9d00EWE7_xNEDaTtt6Xy3g%3D%3D', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/04/06/magazine/ai-apocalypse-brain-rot-memes.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.wsj.com/cmo-today/brands-adopt-no-ai-disclaimers-to-stand-out-amid-the-slop-a92352af?gaa_at=eafs&gaa_n=AWEtsqf73YLP1YIQwow0eGXfZFs__pSGP_CyByS5GIY46m0oJnlqKVbtdWNb&gaa_ts=69d3bdec&gaa_sig=-VbdPnpjJMGkijg7aaW6cD7mDrFbh78moz4vEsH-AlDWkjB-QmojsY6nZi4ph-_v9d00EWE7_xNEDaTtt6Xy3g%3D%3D" target="_blank" onclick="event.stopPropagation();">Brands Adopt ‘No AI’ Disclaimers to Stand Out Amid the Slop</a>
+                            <a href="https://www.nytimes.com/2026/04/06/magazine/ai-apocalypse-brain-rot-memes.html" target="_blank" onclick="event.stopPropagation();">Forget the A.I. Apocalypse. Memes Have Already Nuked Our Culture.</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1206,9 +1223,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="WSJ" class="news-favicon">
-                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">WSJ</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
                                     
                                 </div>
                                 
@@ -1216,7 +1233,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1775469600.0"></span>
+                                    <span data-timestamp="1775466046.0"></span>
                                 </div>
                                 
                             </div>
@@ -1265,20 +1282,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://ir.datavaultsite.com/news-events/press-releases/detail/444/datavault-ai-ceo-nathaniel-t-bradley-to-deliver-flagship', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/environment/2026/apr/06/ai-environmental-assessments-robodebt-style-failures', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://d1io3yog0oux5.cloudfront.net/_1e6c84a173d4a069ae17f0ff748cfa29/datavaultsite/db/377/2738/social_image_resized.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/a74babc49ca797736c600001769156cfa2351829/282_0_4559_3648/master/4559.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b80796979b10021ce11a7d011b40f5e1');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://ir.datavaultsite.com/news-events/press-releases/detail/444/datavault-ai-ceo-nathaniel-t-bradley-to-deliver-flagship" target="_blank" onclick="event.stopPropagation();">Datavault AI CEO Nathaniel T. Bradley to Deliver Flagship Keynotes on Breakthrough RWA Tokenization at CONV3RGENCE London and AssetRush × Zurich 2026</a>
+                            <a href="https://www.theguardian.com/environment/2026/apr/06/ai-environmental-assessments-robodebt-style-failures" target="_blank" onclick="event.stopPropagation();">Using AI to prepare and evaluate environmental assessments risks ‘robodebt-style’ failures, scientists say</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Building Global Momentum Ahead of Upcoming XRP Tokyo Event PHILADELPHIA, PA / ACCESS Newswire / April 6, 2026 / Datavault AI Inc. ("Datavault AI"…...
+                            Conservationists warn the move could push species closer to extinction and say clearer environmental rules are needed instead
                         </div>
                         
 
@@ -1288,9 +1305,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ir.datavaultsite.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Datavault AI" class="news-favicon">
-                                    <a href="https://ir.datavaultsite.com" target="_blank" onclick="event.stopPropagation();">Datavault AI</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Guardian" class="news-favicon">
+                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
                                     
                                 </div>
                                 
@@ -1298,7 +1315,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1775481547.0"></span>
+                                    <span data-timestamp="1775487660.0"></span>
                                 </div>
                                 
                             </div>
@@ -1306,20 +1323,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.pymnts.com/artificial-intelligence-2/2026/regulators-propose-audit-ready-controls-to-govern-ai/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://fortune.com/2026/04/06/jpmorgan-ceo-jamie-dimon-ai-cut-workweek-3-5-days-gen-z-developing-eq-important/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.pymnts.com/wp-content/uploads/2024/03/AI-regulation.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-1806232652-e1775486353415.jpg?resize=1200,600');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.pymnts.com/artificial-intelligence-2/2026/regulators-propose-audit-ready-controls-to-govern-ai/" target="_blank" onclick="event.stopPropagation();">Regulators Propose Audit-Ready Controls to Govern AI</a>
+                            <a href="https://fortune.com/2026/04/06/jpmorgan-ceo-jamie-dimon-ai-cut-workweek-3-5-days-gen-z-developing-eq-important/" target="_blank" onclick="event.stopPropagation();">JPMorgan CEO Jamie Dimon predicts AI will cut the workweek down to 3.5 days</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Banks and payments companies have spent the past few years embedding artificial intelligence into their core operations. They’ve been running fraud
+                            JPMorgan CEO Jamie Dimon believes that future generations will have more job opportunities, and human skills like curiosity and work ethic will reign supreme in the AI era.
                         </div>
                         
 
@@ -1329,9 +1346,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="PYMNTS.com" class="news-favicon">
-                                    <a href="https://www.pymnts.com" target="_blank" onclick="event.stopPropagation();">PYMNTS.com</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Fortune" class="news-favicon">
+                                    <a href="https://fortune.com" target="_blank" onclick="event.stopPropagation();">Fortune</a>
                                     
                                 </div>
                                 
@@ -1339,7 +1356,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1775482145.0"></span>
+                                    <span data-timestamp="1775487360.0"></span>
                                 </div>
                                 
                             </div>
@@ -1347,55 +1364,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://seekingalpha.com/article/4888628-teradynes-stock-easy-gains-behind-us-airobotics-winner-expensive-here', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1359861498/image_1359861498.jpg?io=getty-c-w1536');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://seekingalpha.com/article/4888628-teradynes-stock-easy-gains-behind-us-airobotics-winner-expensive-here" target="_blank" onclick="event.stopPropagation();">Teradyne's Easy Gains Behind Us - AI/Robotics Winner Expensive Here (NASDAQ:TER)</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Teradyne’s robust growth is fueled by partnerships with TSM and exposure to AI networking, compute, and memory chips. Learn more on TER stock here.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://seekingalpha.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Seeking Alpha" class="news-favicon">
-                                    <a href="https://seekingalpha.com" target="_blank" onclick="event.stopPropagation();">Seeking Alpha</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1775482252.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/04/06/magazine/ai-apocalypse-brain-rot-memes.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.forbes.com/sites/josephcoughlin/2026/04/06/ai-jobs-and-retirement-rethinking-the-new-work-contract/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/04/06/magazine/ai-apocalypse-brain-rot-memes.html" target="_blank" onclick="event.stopPropagation();">Forget the A.I. Apocalypse. Memes Have Already Nuked Our Culture.</a>
+                            <a href="https://www.forbes.com/sites/josephcoughlin/2026/04/06/ai-jobs-and-retirement-rethinking-the-new-work-contract/" target="_blank" onclick="event.stopPropagation();">AI, Jobs And Retirement: Rethinking The New Work Contract</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1407,9 +1383,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The New York Times" class="news-favicon">
-                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Forbes" class="news-favicon">
+                                    <a href="https://www.forbes.com" target="_blank" onclick="event.stopPropagation();">Forbes</a>
                                     
                                 </div>
                                 
@@ -1417,44 +1393,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1775466045.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/04/06/behind-the-curtain-sams-superintelligence-new-deal', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.axios.com/2026/04/06/behind-the-curtain-sams-superintelligence-new-deal" target="_blank" onclick="event.stopPropagation();">Behind the Curtain: Sam's superintelligence New Deal</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Axios" class="news-favicon">
-                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1775468254.0"></span>
+                                    <span data-timestamp="1775489428.0"></span>
                                 </div>
                                 
                             </div>
@@ -1503,6 +1442,43 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/04/06/behind-the-curtain-sams-superintelligence-new-deal', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.axios.com/2026/04/06/behind-the-curtain-sams-superintelligence-new-deal" target="_blank" onclick="event.stopPropagation();">Behind the Curtain: Sam's superintelligence New Deal</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Axios" class="news-favicon">
+                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1775472367.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/04/06/jpmorgan-ceo-jamie-dimon-annual-letter-risks.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108251667-1772479737662-108251667-17683109482025-12-07t025248z_916531167_rc27biax2enq_rtrmadp_0_usa-defense-forum.jpg?v=1772479757&w=1920&h=1080');"></div>
@@ -1544,20 +1520,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://seekingalpha.com/news/4572585-iran-threat-puts-openais-30b-stargate-ai-project-in-crosshairs', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.yahoo.com/news/articles/iran-threatens-complete-utter-annihilation-150245538.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2222092414/image_2222092414.jpg?io=getty-c-w630');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/gvSrqWVWt6pWgJDpXTx1Jw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/toms_hardware_319/e6476f1623c70311e8db085f61033afa');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://seekingalpha.com/news/4572585-iran-threat-puts-openais-30b-stargate-ai-project-in-crosshairs" target="_blank" onclick="event.stopPropagation();">Iran threat puts OpenAI’s $30B Stargate AI project in crosshairs (OPENAI:Private)</a>
+                            <a href="https://www.yahoo.com/news/articles/iran-threatens-complete-utter-annihilation-150245538.html" target="_blank" onclick="event.stopPropagation();">Iran threatens ‘complete and utter annihilation’ of OpenAI's $30B Stargate AI data center in Abu Dhabi — regime posts video with satellite imagery of ChatGPT-maker's premier 1GW data center</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Iran's Islamic Revolutionary Guard Corps spokesperson released a video on April 3 threatening "complete and utter annihilation" of U.S. and Israeli facilities, naming the planned $30B Stargate AI data center in Abu Dhabi as a potential target.
+                            IRGC spokesperson threatens the “complete and utter annihilation” of U.S. and Israeli facilities. Singles out the $30bn Stargate AI data center.
                         </div>
                         
 
@@ -1567,9 +1543,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://seekingalpha.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Seeking Alpha" class="news-favicon">
-                                    <a href="https://seekingalpha.com" target="_blank" onclick="event.stopPropagation();">Seeking Alpha</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo" class="news-favicon">
+                                    <a href="https://www.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo</a>
                                     
                                 </div>
                                 
@@ -1577,7 +1553,48 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1775470107.0"></span>
+                                    <span data-timestamp="1775401365.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.foxnews.com/video/6392638359112', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c453a398-b79e-42b7-9fb8-f4209bdb2b6c/fa9111b6-f7e9-435a-a5a6-56bfc2af1c87/1280x720/match/1024/512/image.jpg?ve=1&tl=1');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.foxnews.com/video/6392638359112" target="_blank" onclick="event.stopPropagation();">Melania Trump promotes AI as education tool</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            First lady Melania Trump promotes artificial intelligence in education, emphasizing the importance of AI fluency for children's future. David Marchick, Dean of Kogod School of Business at American University, talks integrating AI into curriculum.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Fox News" class="news-favicon">
+                                    <a href="https://www.foxnews.com" target="_blank" onclick="event.stopPropagation();">Fox News</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1775477123.0"></span>
                                 </div>
                                 
                             </div>
@@ -1605,7 +1622,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-06T13:51:59.989323+00:00">Updated 2026-04-06T13:51:59.989323+00:00</small>
+        <small data-timestamp="2026-04-06T15:50:20.968315+00:00">Updated 2026-04-06T15:50:20.968315+00:00</small>
     </div>
 </div>
 
@@ -1833,10 +1850,10 @@ I’ll do this while contextualizing the project and my background so you can in
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 838</span>
+                                    <span class="post-points">▲ 864</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 262</span>
+                                    <span style="color: #9ca3af;">💬 274</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1882,10 +1899,10 @@ I’ll do this while contextualizing the project and my background so you can in
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 161</span>
+                                    <span class="post-points">▲ 202</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 13</span>
+                                    <span style="color: #9ca3af;">💬 16</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1935,10 +1952,10 @@ deployment pattern...
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 154</span>
+                                    <span class="post-points">▲ 155</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 147</span>
+                                    <span style="color: #9ca3af;">💬 148</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1949,6 +1966,55 @@ deployment pattern...
                                 
                                 <div class="post-meta-item post-source">
                                     <a href="https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://github.githubassets.com/favicons/favicon.png" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>GitHub</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47655367', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" style="background-image: url('https://opengraph.githubassets.com/46e543c857a81960b6e722de8d1f12d544948bd5b98ac426d15db309f016d10b/kessler/gemma-gem');"></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=47655367" target="_blank" onclick="event.stopPropagation();">Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine. - kessler/gemma-gem
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 118</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 18</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-04-06T00:14:37Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://github.com/kessler/gemma-gem" target="_blank" onclick="event.stopPropagation();">
                                         
                                             
                                             <img src="https://github.githubassets.com/favicons/favicon.png" alt="" class="post-favicon">
@@ -1980,7 +2046,7 @@ deployment pattern...
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 114</span>
+                                    <span class="post-points">▲ 115</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 19</span>
@@ -2000,55 +2066,6 @@ deployment pattern...
                                             
                                         
                                         <span>X (formerly Twitter)</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47655367', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://opengraph.githubassets.com/46e543c857a81960b6e722de8d1f12d544948bd5b98ac426d15db309f016d10b/kessler/gemma-gem');"></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=47655367" target="_blank" onclick="event.stopPropagation();">Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine. - kessler/gemma-gem
-                        </div>
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 108</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 17</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-04-06T00:14:37Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://github.com/kessler/gemma-gem" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://github.githubassets.com/favicons/favicon.png" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>GitHub</span>
                                     </a>
                                 </div>
                                 
@@ -2078,7 +2095,7 @@ deployment pattern...
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 98</span>
+                                    <span class="post-points">▲ 99</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 42</span>
@@ -2172,7 +2189,7 @@ deployment pattern...
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 93</span>
+                                    <span class="post-points">▲ 94</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 95</span>
@@ -2269,7 +2286,7 @@ deployment pattern...
                                     <span class="post-points">▲ 54</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 120</span>
+                                    <span style="color: #9ca3af;">💬 122</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2314,7 +2331,7 @@ deployment pattern...
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-06T13:51:37.046337+00:00">Updated 2026-04-06T13:51:37.046337+00:00</small>
+        <small data-timestamp="2026-04-06T15:49:57.665848+00:00">Updated 2026-04-06T15:49:57.665848+00:00</small>
     </div>
 </div>
 

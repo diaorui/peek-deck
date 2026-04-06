@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-06T14:49:11.409203+00:00'
+updated: '2026-04-06T15:50:29.337805+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 06, 2026 at 14:49 UTC  
+**Last Updated:** April 06, 2026 at 15:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,41 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Singapore Gardens by the Bay to offer robot guide dog to help disabled people](https://www.reddit.com/r/robotics/comments/1se0dfq/singapore_gardens_by_the_bay_to_offer_robot_guide/)**
+
+Most robotics coverage nowadays is focusing on industrial automation or consumer novelty, but this also caught my attention: Singapore's Gardens by the Bay is rolling out a free-to-rent robotic guide dog (built by the Singapore-based firm RoamAssist) for visually impaired visitors in its Flower Dome from Q3 2026. The robot and system are pre-programmed with a full tour route, provide real-time audio guidance on plant exhibits, and are designed for independent navigation with no human escort. They're pairing it with an online sensory map for autistic visitors launching in June. It's not "Boston Dynamics" level of attention but it's a interesting attempt at real-world deployment of "assistant" robotics in a public space. Curious what people here think Article - https://www.straitstimes.com/singapore/gardens-by-the-bay-to-offer-robot-guide-dog-online-sensory-map-for-visitors-with-disabilities
+
+1h ago
+
+---
+
+**[Working on something](https://www.reddit.com/r/robotics/comments/1se01qr/working_on_something/)**
+
+Very first proof of concept. This is going to be fun. It's still a bit slow to progress, I need to optimize a few things. But it gets the idea. Llm writes a few lines of javascript to create the motion and executes it.
+
+1h ago
+
+---
+
+**[Building a Robodog. One leg working well!](https://www.reddit.com/r/robotics/comments/1se0k8i/building_a_robodog_one_leg_working_well/)**
+
+I've been working on a robot dog and wanted to show off my progress. I have a single leg working pretty well now. 3 legs to go! Made with: Motor: Eaglepower 8308 Gearbox: 15:1 Cycloidal that I designed and 3d printed Microcontroller: Teensy 4.1 + CAN bus Motor Controllers: ODrive 3.6 Clone boards from Aliexpress Battery: Ryobi 40v Everything else: bearings, bolts, and printed parts from a Bambu P1S This is a labor of love. My regular day job is a software developer/manager. Mostly focused on learning fast and keeping costs down. I'm having so much fun learning and building this stuff
+
+1h ago
+
+---
+
 **[Autonomous laundry folding robot (ALF-1). Advertised at a $1499 price. I hope it is Legit!](https://www.reddit.com/r/robotics/comments/1sdp8uj/autonomous_laundry_folding_robot_alf1_advertised/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=1jpHzqQYSXU) • 10h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=1jpHzqQYSXU) • 11h ago
 
 ---
 
 **[Robot dog takes on security duties in Atlanta](https://www.reddit.com/r/robotics/comments/1sd8dlv/robot_dog_takes_on_security_duties_in_atlanta/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -50,7 +74,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/_NVhD5L7K5k) • 1h ago
+🔗 [youtu.be](https://youtu.be/_NVhD5L7K5k) • 2h ago
 
 ---
 
@@ -64,13 +88,13 @@ For a cosplay competition performance, I came up with the idea of creating a com
 
 **[What is the best Free CAD Software?](https://www.reddit.com/r/robotics/comments/1sdk3zw/what_is_the_best_free_cad_software/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Polka: A unified efficient node for your pointcloud pre-processing](https://www.reddit.com/r/robotics/comments/1sdo3ek/polka_a_unified_efficient_node_for_your/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -78,45 +102,13 @@ For a cosplay competition performance, I came up with the idea of creating a com
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/3QHNelilULQ?is=97gu8OZs77oEzJkH) • 16h ago
-
----
-
-**[Impedance controller (w/o F/T sensor)](https://www.reddit.com/r/robotics/comments/1sdgudd/impedance_controller_wo_ft_sensor/)**
-
-Hello all, I am working on impedance control for a robot arm for a task of placing a usb in its socket and I’m a bit stuck on whether using a force/torque sensor is actually worth it. From what I understand, impedance control can be done without a force sensor (using position errors). I am trying to figure out: - When does a force/torque sensor become really necessary with impedance controller? - Does it significantly improve stability/safety, or just performance? - Would admittance control be a better option if I already have a force sensor? Would really appreciate any insight. Thanks in advance.
-
-16h ago
-
----
-
-**[It hungers for more.](https://www.reddit.com/r/robotics/comments/1schdz7/it_hungers_for_more/)**
-
-I was brought in to do some work on a pair of R-2000 Fanuc's a few years back and saw this on the safety fencing of the work cell.
-
-1d ago
-
----
-
-**[showing my cambotv1 progress 05-04-2026](https://www.reddit.com/r/robotics/comments/1sdf51a/showing_my_cambotv1_progress_05042026/)**
-
-I want to show my cambotv1 robot. it is a 3d printed robot that is joystick controlled and has camera footage in c++/python. I use linux input at the moment but soon i will try to use libevdev(evdev wrapper)in c++ so that it is more in sync the python code version
-
-🔗 [youtube.com](https://youtube.com/shorts/-pBvNUXrxUc?si=xDMeBR52YhB-FdkZ) • 17h ago
+🔗 [youtu.be](https://youtu.be/3QHNelilULQ?is=97gu8OZs77oEzJkH) • 17h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[Prediction: AI Robotics Will Be a $375 Billion Industry and These 2 Stocks Will Lead It](https://www.fool.com/investing/2026/04/04/prediction-ai-robotics-will-be-a-375-billion-indus/)**
-
-Both of these companies are proven trailblazers.
-
-The Motley Fool • 1d ago
-
----
 
 **[Humanoid robots inspire a new generation to build machines](https://www.euronews.com/next/2026/04/05/humanoid-robots-inspire-a-new-generation-to-build-machines)**
 
@@ -126,15 +118,15 @@ Euronews.com • 1d ago
 
 ---
 
-**[Indiana researchers study the potential of AI-powered health care](https://www.axios.com/local/indianapolis/2026/04/06/experts-examine-the-potential-of-ai-powered-medical-care-in-indianapolis)**
+**[Asimov’s three laws of robotics survived 82 years, we broke them in 30 minutes, costs 80 cents, and then remade them](https://blog.adafruit.com/2026/04/05/asimovs-three-laws-of-robotics-survived-82-years-we-broke-them-in-30-minutes-costs-80-cents-and-then-remade-them/)**
 
-Axios • 4h ago
+Adafruit • 22h ago
 
 ---
 
-**[Asimov’s three laws of robotics survived 82 years, we broke them in 30 minutes, costs 80 cents, and then remade them](https://blog.adafruit.com/2026/04/05/asimovs-three-laws-of-robotics-survived-82-years-we-broke-them-in-30-minutes-costs-80-cents-and-then-remade-them/)**
+**[Indiana researchers study the potential of AI-powered health care](https://www.axios.com/local/indianapolis/2026/04/06/experts-examine-the-potential-of-ai-powered-medical-care-in-indianapolis)**
 
-Adafruit • 21h ago
+Axios • 3h ago
 
 ---
 
@@ -146,19 +138,11 @@ NASA (.gov) • 2d ago
 
 ---
 
-**[In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/)**
-
-Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.
-
-TechCrunch • 1d ago
-
----
-
 **[A Chinese robotics startup with a Tesla Optimus rival is seeking a new chief scientist with an $18 million salary](https://www.businessinsider.com/chinese-robotics-startup-tesla-rival-18-million-salary-chief-scientist-2026-4)**
 
 The race for AI and robotics talent is heating up and getting expensive.
 
-Business Insider • 4h ago
+Business Insider • 5h ago
 
 ---
 
@@ -166,7 +150,7 @@ Business Insider • 4h ago
 
 A group of Paola High School students is taking their engineering talents and displaying them on a world stage. The team is currently ranked #1 in the state of Kansas.
 
-KSHB 41 Kansas City • 15h ago
+KSHB 41 Kansas City • 16h ago
 
 ---
 
@@ -178,11 +162,25 @@ NVIDIA Blog • 1d ago
 
 ---
 
-**[Teradyne's Easy Gains Behind Us - AI/Robotics Winner Expensive Here (NASDAQ:TER)](https://seekingalpha.com/article/4888628-teradynes-stock-easy-gains-behind-us-airobotics-winner-expensive-here)**
+**[Resilient actuator shows potential for space-ready soft robots](https://techxplore.com/news/2026-04-resilient-actuator-potential-space-ready.html)**
 
-Teradyne’s robust growth is fueled by partnerships with TSM and exposure to AI networking, compute, and memory chips. Learn more on TER stock here.
+Tech Xplore • 1d ago
 
-Seeking Alpha • 1h ago
+---
+
+**[Prediction: AI Robotics Will Be a $375 Billion Industry and These 2 Stocks Will Lead It](https://finance.yahoo.com/sectors/technology/articles/prediction-ai-robotics-375-billion-180200804.html)**
+
+Both of these companies are proven trailblazers.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Think Robots Are Impressive Now? Just Wait Until They Have 6G](https://www.cnet.com/tech/computing/think-robots-are-impressive-now-just-wait-until-they-have-6g/)**
+
+This next-generation network technology won't just make our phones faster; it'll unlock new capabilities in robots, turning them into all-sensing, always-learning fleets.
+
+CNET • 3d ago
 
 ---
 
@@ -196,7 +194,7 @@ The world wasn't ready for what 2026 had in store — a wave of humanoid robots 
 
 📺 The AI Nexus
 
-👁️ 3K • 👍 147 • 💬 5 • ⏱️ 16:42 • 15h ago
+👁️ 3K • 👍 147 • 💬 5 • ⏱️ 16:42 • 16h ago
 
 ---
 
@@ -234,7 +232,7 @@ The era of the Robot Mower is here and after 6 months of intensive use I feel I 
 
 📺 zhulongfeng 6
 
-👁️ 26K • 👍 69 • ⏱️ 0:21 • 14h ago
+👁️ 26K • 👍 69 • ⏱️ 0:21 • 15h ago
 
 ---
 
@@ -262,7 +260,7 @@ Brett Adcock is a technology entrepreneur focused on building companies in robot
 
 📺 Robot Julie 
 
-👁️ 19K • 👍 42 • ⏱️ 0:21 • 14h ago
+👁️ 19K • 👍 42 • ⏱️ 0:21 • 15h ago
 
 ---
 
@@ -272,7 +270,7 @@ THANK YOU SO MUCH for watching S3dV's Pacman!!! Music & Sound: Epidemic Sound I 
 
 📺 S3dV
 
-👁️ 9K • 👍 14 • 6h ago
+👁️ 9K • 👍 14 • 7h ago
 
 ---
 
