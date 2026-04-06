@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-06T17:45:42.196803+00:00'
+updated: '2026-04-06T19:02:31.401254+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 06, 2026 at 17:45 UTC  
+**Last Updated:** April 06, 2026 at 19:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,9 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Singapore Gardens by the Bay to offer robot guide dog to help disabled people](https://www.reddit.com/r/robotics/comments/1se0dfq/singapore_gardens_by_the_bay_to_offer_robot_guide/)**
+**[Tesollo DG-5F-S lightweight robotic hand built for humanoid integration](https://www.reddit.com/r/robotics/comments/1se4j5s/tesollo_dg5fs_lightweight_robotic_hand_built_for/)**
 
-Most robotics coverage nowadays is focusing on industrial automation or consumer novelty, but this also caught my attention: Singapore's Gardens by the Bay is rolling out a free-to-rent robotic guide dog (built by the Singapore-based firm RoamAssist) for visually impaired visitors in its Flower Dome from Q3 2026. The robot and system are pre-programmed with a full tour route, provide real-time audio guidance on plant exhibits, and are designed for independent navigation with no human escort. They're pairing it with an online sensory map for autistic visitors launching in June. It's not "Boston Dynamics" level of attention but it's a interesting attempt at real-world deployment of "assistant" robotics in a public space. Curious what people here think Article - https://www.straitstimes.com/singapore/gardens-by-the-bay-to-offer-robot-guide-dog-online-sensory-map-for-visitors-with-disabilities
-
-3h ago
+2h ago
 
 ---
 
@@ -44,7 +42,15 @@ Most robotics coverage nowadays is focusing on industrial automation or consumer
 
 Very first proof of concept. This is going to be fun. It's still a bit slow to progress, I need to optimize a few things. But it gets the idea. Llm writes a few lines of javascript to create the motion and executes it.
 
-3h ago
+4h ago
+
+---
+
+**[Singapore Gardens by the Bay to offer robot guide dog to help disabled people](https://www.reddit.com/r/robotics/comments/1se0dfq/singapore_gardens_by_the_bay_to_offer_robot_guide/)**
+
+Most robotics coverage nowadays is focusing on industrial automation or consumer novelty, but this also caught my attention: Singapore's Gardens by the Bay is rolling out a free-to-rent robotic guide dog (built by the Singapore-based firm RoamAssist) for visually impaired visitors in its Flower Dome from Q3 2026. The robot and system are pre-programmed with a full tour route, provide real-time audio guidance on plant exhibits, and are designed for independent navigation with no human escort. They're pairing it with an online sensory map for autistic visitors launching in June. It's not "Boston Dynamics" level of attention but it's a interesting attempt at real-world deployment of "assistant" robotics in a public space. Curious what people here think Article - https://www.straitstimes.com/singapore/gardens-by-the-bay-to-offer-robot-guide-dog-online-sensory-map-for-visitors-with-disabilities
+
+4h ago
 
 ---
 
@@ -52,7 +58,7 @@ Very first proof of concept. This is going to be fun. It's still a bit slow to p
 
 I've been working on a robot dog and wanted to show off my progress. I have a single leg working pretty well now. 3 legs to go! Made with: Motor: Eaglepower 8308 Gearbox: 15:1 Cycloidal that I designed and 3d printed Microcontroller: Teensy 4.1 + CAN bus Motor Controllers: ODrive 3.6 Clone boards from Aliexpress Battery: Ryobi 40v Everything else: bearings, bolts, and printed parts from a Bambu P1S This is a labor of love. My regular day job is a software developer/manager. Mostly focused on learning fast and keeping costs down. I'm having so much fun learning and building this stuff
 
-3h ago
+4h ago
 
 ---
 
@@ -60,7 +66,7 @@ I've been working on a robot dog and wanted to show off my progress. I have a si
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=1jpHzqQYSXU) • 12h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=1jpHzqQYSXU) • 14h ago
 
 ---
 
@@ -70,11 +76,25 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
+**[Best BTech branch for Robotics + GATE — Mechatronics vs CSE vs EE vs ECE?](https://www.reddit.com/r/robotics/comments/1se6pg1/best_btech_branch_for_robotics_gate_mechatronics/)**
+
+I’m joining BTech (not IIT/NIT) and want to build a career in robotics. I’ve explored basics of electronics, coding, and mechanical integration, so I’m sure about robotics. I was planning to take Mechatronics, but I also want to prepare for GATE and do Masters from a good college. Since there’s no separate Mechatronics paper in GATE, I’m worried it might limit my options. Branches I’m considering: Mechatronics CSE ECE EE My goals: Career in Robotics 🤖 Prepare for GATE Keep flexibility for Masters in Robotics/Automation Which branch would be the safest and best path toward robotics via GATE?
+
+50m ago
+
+---
+
+**[Rodney Brooks: We won't see AGI for 300 years](https://www.reddit.com/r/robotics/comments/1se6glu/rodney_brooks_we_wont_see_agi_for_300_years/)**
+
+58m ago
+
+---
+
 **[News this Week | 10,000 Agibot robot unit milestone and outlook](https://www.reddit.com/r/robotics/comments/1sdzbha/news_this_week_10000_agibot_robot_unit_milestone/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/_NVhD5L7K5k) • 3h ago
+🔗 [youtu.be](https://youtu.be/_NVhD5L7K5k) • 5h ago
 
 ---
 
@@ -86,37 +106,9 @@ For a cosplay competition performance, I came up with the idea of creating a com
 
 ---
 
-**[What is the best Free CAD Software?](https://www.reddit.com/r/robotics/comments/1sdk3zw/what_is_the_best_free_cad_software/)**
-
-17h ago
-
----
-
-**[Polka: A unified efficient node for your pointcloud pre-processing](https://www.reddit.com/r/robotics/comments/1sdo3ek/polka_a_unified_efficient_node_for_your/)**
-
-13h ago
-
----
-
-**[Autonomous Robot Arm with Inverse Kinematics and YOLOV model](https://www.reddit.com/r/robotics/comments/1sdhfcd/autonomous_robot_arm_with_inverse_kinematics_and/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/3QHNelilULQ?is=97gu8OZs77oEzJkH) • 19h ago
-
----
-
 ---
 
 ## Google News: "robotics"
-
-**[Prediction: AI Robotics Will Be a $375 Billion Industry and These 2 Stocks Will Lead It](https://www.fool.com/investing/2026/04/04/prediction-ai-robotics-will-be-a-375-billion-indus/)**
-
-Both of these companies are proven trailblazers.
-
-The Motley Fool • 1d ago
-
----
 
 **[Humanoid robots inspire a new generation to build machines](https://www.euronews.com/next/2026/04/05/humanoid-robots-inspire-a-new-generation-to-build-machines)**
 
@@ -126,11 +118,11 @@ Euronews.com • 1d ago
 
 ---
 
-**[How Gen AI Robots Are Reshaping Services](https://hbr.org/2026/05/how-gen-ai-robots-are-reshaping-services)**
+**[The next darlings of San Francisco’s AI real estate boom: Robots](https://sfstandard.com/2026/04/06/robotics-san-francisco-ai-boom/)**
 
-By incorporating generative AI, robots are evolving from scripted machines to adaptive systems that interpret context, learn from demonstrations, and adjust their behaviors in real time. Advances in large language models and related technologies are helping robots deliver consistent, personalized outcomes at scale. Autonomous vehicles and humanoid factory assistants have shown that robots can handle complex instructions and collaborate with people in physical environments. But to successfully deploy gen-AI-powered robots, companies must choose use cases tied to real labor constraints, design interactions that feel natural, position robots as partners to—rather than replacements for—employees, match robots’ capabilities to task variability, and define success metrics. Privacy, transparency, and safety must also remain priorities as robots gather data and influence decisions.
+Funding data and leasing activity show that companies using the groundbreaking tech on the physical world are having their moment.
 
-Harvard Business Review • 1h ago
+The San Francisco Standard • 6h ago
 
 ---
 
@@ -140,9 +132,11 @@ Adafruit • 1d ago
 
 ---
 
-**[Indiana researchers study the potential of AI-powered health care](https://www.axios.com/local/indianapolis/2026/04/06/experts-examine-the-potential-of-ai-powered-medical-care-in-indianapolis)**
+**[Paola robotics wins prestigious award, earns chance at world title in Houston](https://www.kshb.com/news/local-news/kansas/miami-county/paola-robotics-wins-prestigious-award-earns-chance-at-world-title-in-houston)**
 
-Axios • 5h ago
+A group of Paola High School students is taking their engineering talents and displaying them on a world stage. The team is currently ranked #1 in the state of Kansas.
+
+KSHB 41 Kansas City • 19h ago
 
 ---
 
@@ -150,15 +144,21 @@ Axios • 5h ago
 
 The race for AI and robotics talent is heating up and getting expensive.
 
-Business Insider • 7h ago
+Business Insider • 8h ago
 
 ---
 
-**[Week Wraps Aboard Station with Spacesuits, Eye Checks, Robotics, and More](https://www.nasa.gov/blogs/spacestation/2026/04/03/week-wraps-aboard-station-with-spacesuits-eye-checks-robotics-and-more/)**
+**[Robotics team puts skills on display](https://www.tribtoday.com/news/local-news/2026/04/robotics-team-puts-skills-on-display/)**
 
-Spacesuit work and eye checks wrapped up the week for the Expedition 74 crew aboard the International Space Station. The orbital residents also focused on robotics, cargo transfers, and science hardware maintenance at the end of the week.
+NILES — While the Easter Bunny was nearby greeting young children, local high school students gathered this weekend inside the ...
 
-nasa.gov • 2d ago
+tribtoday.com • 12h ago
+
+---
+
+**[Indiana researchers study the potential of AI-powered health care](https://www.axios.com/local/indianapolis/2026/04/06/experts-examine-the-potential-of-ai-powered-medical-care-in-indianapolis)**
+
+Axios • 7h ago
 
 ---
 
@@ -170,17 +170,19 @@ NVIDIA Blog • 2d ago
 
 ---
 
-**[Paola robotics wins prestigious award, earns chance at world title in Houston](https://www.kshb.com/news/local-news/kansas/miami-county/paola-robotics-wins-prestigious-award-earns-chance-at-world-title-in-houston)**
+**[Week Wraps Aboard Station with Spacesuits, Eye Checks, Robotics, and More](https://www.nasa.gov/blogs/spacestation/2026/04/03/week-wraps-aboard-station-with-spacesuits-eye-checks-robotics-and-more/)**
 
-A group of Paola High School students is taking their engineering talents and displaying them on a world stage. The team is currently ranked #1 in the state of Kansas.
+Spacesuit work and eye checks wrapped up the week for the Expedition 74 crew aboard the International Space Station. The orbital residents also focused on robotics, cargo transfers, and science hardware maintenance at the end of the week.
 
-KSHB 41 Kansas City • 18h ago
+NASA (.gov) • 2d ago
 
 ---
 
-**[Resilient actuator shows potential for space-ready soft robots](https://techxplore.com/news/2026-04-resilient-actuator-potential-space-ready.html)**
+**[How Gen AI Robots Are Reshaping Services](https://hbr.org/2026/05/how-gen-ai-robots-are-reshaping-services)**
 
-Tech Xplore • 1d ago
+By incorporating generative AI, robots are evolving from scripted machines to adaptive systems that interpret context, learn from demonstrations, and adjust their behaviors in real time. Advances in large language models and related technologies are helping robots deliver consistent, personalized outcomes at scale. Autonomous vehicles and humanoid factory assistants have shown that robots can handle complex instructions and collaborate with people in physical environments. But to successfully deploy gen-AI-powered robots, companies must choose use cases tied to real labor constraints, design interactions that feel natural, position robots as partners to—rather than replacements for—employees, match robots’ capabilities to task variability, and define success metrics. Privacy, transparency, and safety must also remain priorities as robots gather data and influence decisions.
+
+Harvard Business Review • 2h ago
 
 ---
 
@@ -194,7 +196,7 @@ The world wasn't ready for what 2026 had in store — a wave of humanoid robots 
 
 📺 The AI Nexus
 
-👁️ 4K • 👍 160 • 💬 5 • ⏱️ 16:42 • 17h ago
+👁️ 4K • 👍 172 • 💬 5 • ⏱️ 16:42 • 19h ago
 
 ---
 
@@ -204,17 +206,7 @@ Welch Labs Book: https://www.welchlabs.com/resources/ai-book-ezrzm-msrmc Book & 
 
 📺 Welch Labs
 
-👁️ 72K • 👍 4K • 💬 192 • ⏱️ 35:02 • 2d ago
-
----
-
-**[Shawn Ryan Tests a Real Humanoid Robot](https://www.youtube.com/watch?v=HWq9cFhTvvQ)**
-
-Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In this clip, we break down how this robot sees, ...
-
-📺 Shawn Ryan Show
-
-👁️ 1.1M • 👍 39K • 💬 6K • ⏱️ 8:48 • 4d ago
+👁️ 73K • 👍 4K • 💬 205 • ⏱️ 35:02 • 2d ago
 
 ---
 
@@ -224,17 +216,7 @@ The era of the Robot Mower is here and after 6 months of intensive use I feel I 
 
 📺 Proper DIY
 
-👁️ 25K • 👍 2K • 💬 109 • ⏱️ 11:47 • 1d ago
-
----
-
-**[The Six-Servo Robot Dog - it&#39;s open source!](https://www.youtube.com/watch?v=2eKb_2N0SBI)**
-
-Ad: Check out PCBWay for all your project needs! Get $10 off orders over $30 with code: PCBWay-JamesBruton-10 ...
-
-📺 James Bruton
-
-👁️ 64K • 👍 4K • 💬 212 • ⏱️ 16:17 • 6d ago
+👁️ 26K • 👍 2K • 💬 109 • ⏱️ 11:47 • 1d ago
 
 ---
 
@@ -248,41 +230,63 @@ Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking
 
 ---
 
-**[Brett Adcock - Shawn Ryan’s First Interview with a Robot | SRS #292](https://www.youtube.com/watch?v=99pOdGEGu6s)**
-
-Brett Adcock is a technology entrepreneur focused on building companies in robotics, artificial intelligence, and aerospace.
-
-📺 Shawn Ryan Show
-
-👁️ 524K • 👍 11K • 💬 3K • ⏱️ 2:57:09 • 7d ago
-
----
-
 **[Such an UNFAIR Build in War Robots…](https://www.youtube.com/watch?v=5lMK2yFLLoM)**
 
 War Robots Gameplay: Anaksor with Kroko weapons is quite unfair! My War Robots Creator Link: https://wr.my.games/manni ...
 
 📺 Manni-Gaming
 
-👁️ 10K • 👍 434 • 💬 86 • ⏱️ 13:35 • 1d ago
+👁️ 11K • 👍 442 • 💬 87 • ⏱️ 13:35 • 1d ago
 
 ---
 
-**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=Jg0ugvR-NYI)**
+**[Don&#39;t Waste Money On An Expensive Robot Vacuum!](https://www.youtube.com/watch?v=sMt_jOouNeM)**
 
-📺 zhulongfeng 6
+A flagship robot vacuum might be out your budget. We tested the affordable Dreame D30 Ultra. ✔️ Buy it on Amazon ...
 
-👁️ 29K • 👍 81 • ⏱️ 0:21 • 17h ago
+📺 Vacuum Nerds
+
+👁️ 5K • 👍 64 • 💬 30 • ⏱️ 8:48 • 2d ago
 
 ---
 
-**[The #1 Ammit Killer In War Robots... Most Broken Build In The Entire Game [We&#39;re Cooked]](https://www.youtube.com/watch?v=a6TJzuC0gxE)**
+**[Automatic Smart Dustbin #arduinouno #sciencproject #arduinoprojects #robot #robotics #smartdustbin](https://www.youtube.com/watch?v=PiyXJ5yI0_A)**
 
-The absolute Ammit Destroyer. This the most broken build in the game and by far the #1 Ammit killer. It has everything to take ...
+Automatic Smart Dustbin #arduinouno #sciencproject #arduinoprojects #robot #robotics #smartdustbin.
 
-📺 PREDATOR WR
+📺 EAZYTRONIC
 
-👁️ 3K • 👍 275 • 💬 42 • ⏱️ 14:53 • 5h ago
+👁️ 4K • 👍 34 • ⏱️ 0:04 • 6h ago
+
+---
+
+**[They turned on this salon robot... and people lost their minds 🤖](https://www.youtube.com/watch?v=WQyQhNsIGpE)**
+
+They turned on this salon robot... and people lost their minds.
+
+📺 TechMirage
+
+👁️ 2.5M • 👍 26K • 💬 198 • ⏱️ 1:11 • 18h ago
+
+---
+
+**[I Spent 100 Hours In China&#39;s Robot City](https://www.youtube.com/watch?v=PXGK_MFShXU)**
+
+I spent 100 hours in the world's most futuristic city! WATCH MORE videos we filmed in China ▸ https://youtu.be/elF_v9sukWU ...
+
+📺 Hafu Go
+
+👁️ 478K • 👍 5K • 💬 217 • ⏱️ 25:46 • 2d ago
+
+---
+
+**[Live Robot Fighting: Round 3 of NHRL&#39;s KO Show (April 4th)](https://www.youtube.com/watch?v=UODQ1UG790U)**
+
+Round 3 of The 2026 NHRL Pro World Championship kicks off NOW! The path to crown a champion starts now. Who will take ...
+
+📺 NHRL
+
+👁️ 19K • 👍 363 • 💬 7 • ⏱️ 4:56:01 • 1d ago
 
 ---
 

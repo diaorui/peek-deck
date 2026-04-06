@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-06T17:45:42.188325+00:00'
+updated: '2026-04-06T19:02:31.393102+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 06, 2026 at 17:45 UTC  
+**Last Updated:** April 06, 2026 at 19:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,212.07
+### $69,825.84
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.2%  
-**7d:** +2.8%  
-**30d:** +6.4%  
-**90d:** -23.2%  
-**1y:** -11.3%  
+**24h:** +3.3%  
+**7d:** +2.3%  
+**30d:** +5.8%  
+**90d:** -23.6%  
+**1y:** -11.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1405.71B
+**Market Cap:** $1398.42B
 Rank #1
 
-**Circulating Supply:** 20,012,246 BTC
+**Circulating Supply:** 20,012,309 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--44.3%
+-44.6%
 
 **All-Time Low:** $67.81
-+103488.0%
++102937.9%
 
 ---
 
@@ -77,17 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Bitcoin is the best insurance policy I've ever had](https://www.reddit.com/r/Bitcoin/comments/1sdxixx/bitcoin_is_the_best_insurance_policy_ive_ever_had/)**
+**[It’s going to 🚀](https://www.reddit.com/r/Bitcoin/comments/1se4g7y/its_going_to/)**
 
-Sadly, most of the hard working people still have no idea how the printer keeps stealing their money.
-
-5h ago
+2h ago
 
 ---
 
 **[Men only have two moods:](https://www.reddit.com/r/Bitcoin/comments/1sdz0lp/men_only_have_two_moods/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -95,15 +93,23 @@ Sadly, most of the hard working people still have no idea how the printer keeps 
 
 While the world continues to trust systems that fail time and time again, a new alternative has emerged silent, unstoppable, and incorruptible. Bitcoin is not just technology. It’s not just money. It’s freedom. For the first time in history, a generation has the opportunity to truly own its wealth without intermediaries, without permission, without manipulation. We grew up watching crises unfold, inflation erode the value of our efforts, and rules change in the middle of the game. But now… we have a choice. Bitcoin is more than an asset, it’s a statement. A rejection of centralized control. A step toward individual sovereignty. There may be volatility. There may be doubts. But one thing is certain: The world is changing and Bitcoin is leading that change. Don’t trust, verify. 🧡
 
-3h ago
+4h ago
 
 ---
 
-**[Strategy bought 333% of daily mined BTC supply in the past month. The absorption rate is accelerating.](https://www.reddit.com/r/Bitcoin/comments/1se2uqu/strategy_bought_333_of_daily_mined_btc_supply_in/)**
+**[Bitcoin is the best insurance policy I've ever had](https://www.reddit.com/r/Bitcoin/comments/1sdxixx/bitcoin_is_the_best_insurance_policy_ive_ever_had/)**
 
-https://preview.redd.it/a23ehrl5eltg1.png?width=785&format=png&auto=webp&s=52e318c30de2bfee6f6670dbc37b093e4c88d552 Some updated numbers on Strategy's buying pace relative to post-halving issuance (3.125 BTC/block, ~450 BTC/day): Historical avg (Aug 2020–present): 361 BTC/day → 80% of daily mined supply Past 1 year: 624 BTC/day → 139% Past 6 months: 715 BTC/day → 159% Past 3 months: 1,042 BTC/day → 232% Past 1 month: 1,500 BTC/day → 333% Latest week (Apr 1–5): 696 BTC/day → 155% (single 4,871 BTC tranche) As of April 5, total holdings sit at 766,970 BTC with a cost basis of $58.02B. The trend line is clear: absorption has been accelerating through 2025 and into 2026. The 1-month window shows Strategy alone was buying more than 3x the entire network's daily output. The latest week pulled back, but that's one buy, not a trend reversal. Chart in the image.
+Sadly, most of the hard working people still have no idea how the printer keeps stealing their money.
 
-1h ago
+6h ago
+
+---
+
+**[How did you guys first discover Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1se70y3/how_did_you_guys_first_discover_bitcoin/)**
+
+Curious how it started for all of us.
+
+39m ago
 
 ---
 
@@ -111,7 +117,7 @@ https://preview.redd.it/a23ehrl5eltg1.png?width=785&format=png&auto=webp&s=52e31
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-11h ago
+13h ago
 
 ---
 
@@ -125,7 +131,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I am sat on some savings which I do not use and they gain minimal interest, I have been toying with the idea of investing for a while and I am wondering if It is too late to invest in btc or would now be an ideal time given the current dip? I was thinking about putting a chunk in now and then x amount every month indefinitely and somewhat forgetting about it, and hoping that in 30 years I will have accumulated a bit of profit from it to aid towards retirement. Would this be a wise idea, thinking long term?
 
-17h ago
+19h ago
 
 ---
 
@@ -141,21 +147,13 @@ I am sat on some savings which I do not use and they gain minimal interest, I ha
 
 ---
 
-**[Educational: Recovering Bitcoin keys in HEX format (advanced tools & techniques)](https://www.reddit.com/r/Bitcoin/comments/1sdslmc/educational_recovering_bitcoin_keys_in_hex_format/)**
-
-Hey everyone, I recorded a video about Bitcoin key recovery using HEX format. In this case, the keys are represented as 64 hexadecimal characters. The goal is to create more content in the future covering other key formats and wallet structures as well. All the tools shown in the video are open source. That said, I strongly recommend running anything like this on a completely offline computer for safety. Even though the video is fairly amateur in terms of production, I tried to include some of the most advanced tools and techniques currently available for this kind of work. I’d really appreciate any feedback or thoughts from the community.
-
-🔗 [youtu.be](https://youtu.be/X1TDb9FAdY8?si=0q8_rbQ-E1kpGVal) • 9h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
 **[Bitcoin Rebounds Near $70,000, Charles Schwab To Launch Direct Trading](https://www.investors.com/news/bitcoin-price-rebound-69k-charles-schwab-direct-trading/)**
 
-Investor's Business Daily • 4h ago
+Investor's Business Daily • 6h ago
 
 ---
 
@@ -175,35 +173,35 @@ Decrypt • 2d ago
 
 ---
 
-**[Michael Saylor's Strategy buys $330 million worth of bitcoin, stock rises](https://finance.yahoo.com/news/michael-saylors-strategy-buys-330-million-worth-of-bitcoin-stock-rises-153457420.html)**
-
-Strategy recorded a $14.5 billion unrealized loss in the first quarter as it continues to accumulate more bitcoin.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Strategy reports $14.5 billion unrealized loss on its bitcoin holdings for Q1 2026](https://www.theblock.co/post/396408/strategy-14-5-billion-unrealized-loss-bitcoin-holdings-q1-2026)**
-
-Strategy's on-paper bitcoin losses generated a $2.42 billion deferred tax asset, according to its latest 8-K filing.
-
-The Block • 3h ago
-
----
-
-**[Strategy buys $330M of bitcoin, records $14.5B unrealized loss for Q1 (MSTR:NASDAQ)](https://seekingalpha.com/news/4572661-strategy-buys-330m-of-bitcoin-records-145b-unrealized-loss-for-q1)**
-
-Strategy (MSTR) buys $330M bitcoin in early April 2026, reports $14.46B unrealized loss and tax benefit—see holdings, funding and stock impact.
-
-Seeking Alpha • 5h ago
-
----
-
 **[Bitcoin climbs above $70,000 as more contrarian bottoming signs emerge](https://www.coindesk.com/markets/2026/04/06/bitcoin-climbs-above-usd70-000-as-more-contrarian-bottoming-signs-emerge)**
 
 Sales of bitcoin by prominent holders and executive exits could give hope to the battered crypto sector.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
+
+---
+
+**[BNY Mellon, Robinhood's Trump Accounts collab; Strategy buys more bitcoin](https://finance.yahoo.com/video/bny-mellon-robinhoods-trump-accounts-collab-strategy-buys-more-bitcoin-181824693.html)**
+
+Yahoo Finance Markets and Data Editor Jared Blikre tracks Monday's top moving stocks and biggest market stories.Strategy (MSTR) stock is rising after the company disclosed buying $330 million worth of bitcoin (BTC-USD).Bank of New York Mellon (BK) stock is in focus on the bank's partnership with Robinhood (HOOD) for the Trump Accounts program.
+
+Yahoo Finance • 44m ago
+
+---
+
+**[The Wallet That Could End Lightning Onboarding Nightmares: SecondHQ’s Bark Is Here](https://bitcoinmagazine.com/business/secondhqs-bark-boasts-new-era-of-bitcoin-payments-drawing-in-former-blockstream-developers)**
+
+One app download and you’re sending Bitcoin lightning-fast with zero channel drama. Grubles left Blockstream to build Bark at SecondHQ — and early signet testers say it’s a game-changer.
+
+Bitcoin Magazine • 27m ago
+
+---
+
+**[Strategy Bitcoin Bet Deepens With Preferred Equity Funding And Huge Unrealized Loss](https://finance.yahoo.com/markets/crypto/articles/strategy-bitcoin-bet-deepens-preferred-181035236.html)**
+
+Strategy Inc, NasdaqGS:MSTR, acquired nearly 4,900 Bitcoin for over US$330 million after a brief pause in purchases. The company used more than US$300 million from its STRC perpetual preferred equity funding to finance the transaction. Strategy disclosed an unrealized loss of US$14.5b in Q1 linked to its Bitcoin holdings and related capital approach. The company remains the largest corporate Bitcoin holder and is influencing sector funding structures. Strategy Inc, NasdaqGS:MSTR, operates...
+
+Yahoo Finance • 51m ago
 
 ---
 
@@ -211,7 +209,7 @@ CoinDesk • 1h ago
 
 Most simplifies the complex process of quantum computing as "it can be 0 and 1 at the same time." That is not an explanation for why it threatens Bitcoin. This is.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -227,7 +225,7 @@ CoinDesk • 1d ago
 
 A hacker with quantum tools could crack open old Bitcoin wallets and flood the market as soon as 2029.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -239,7 +237,7 @@ Yahoo Finance • 6h ago
 
 Google Quantum AI: Quantum computer could break Bitcoin cryptography with under 500,000 qubits in nine minutes. This will likely only be possible in the 2030s.
 
-⬆️ 15 • 💬 7 • 2d ago • [heise online](https://www.heise.de/en/news/Quantum-computer-researchers-Bitcoin-encryption-breakable-in-a-few-years-11244911.html)
+⬆️ 15 • 💬 7 • 3d ago • [heise online](https://www.heise.de/en/news/Quantum-computer-researchers-Bitcoin-encryption-breakable-in-a-few-years-11244911.html)
 
 ---
 
@@ -317,7 +315,7 @@ Follow Gareth: https://x.com/GarethSoloway ✓ Bitunix (no kyc, $10k bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 2K • 💬 316 • ⏱️ 23:55 • 1d ago
+👁️ 53K • 👍 3K • 💬 318 • ⏱️ 23:55 • 1d ago
 
 ---
 
@@ -327,17 +325,7 @@ Bitcoin #Crypto #Finance Bitcoin uncertainty is rising fast as global instabilit
 
 📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 685 • 💬 143 • ⏱️ 1:05:40 • 2h ago
-
----
-
-**[The Big Print Is Coming &amp; Bitcoin Will Still Fail You...](https://www.youtube.com/watch?v=cv9sJMGOoR4)**
-
-Could the oil crisis Break Bitcoin? Insider oil tracking just hit $173 a barrel and physical Brent is already at $141. The Big Print is ...
-
-📺 Simply Bitcoin
-
-👁️ 21K • 👍 2K • 💬 369 • ⏱️ 16:01 • 21h ago
+👁️ 11K • 👍 818 • 💬 183 • ⏱️ 1:05:40 • 4h ago
 
 ---
 
@@ -347,7 +335,17 @@ This is huge for crypto, bitcoin, ethereum and the rest of the markets!!!!! ----
 
 📺 Thomas Kralow
 
-👁️ 11K • 👍 3K • 💬 33 • ⏱️ 9:21 • 6h ago
+👁️ 14K • 👍 3K • 💬 39 • ⏱️ 9:21 • 8h ago
+
+---
+
+**[The Big Print Is Coming &amp; Bitcoin Will Still Fail You...](https://www.youtube.com/watch?v=cv9sJMGOoR4)**
+
+Could the oil crisis Break Bitcoin? Insider oil tracking just hit $173 a barrel and physical Brent is already at $141. The Big Print is ...
+
+📺 Simply Bitcoin
+
+👁️ 22K • 👍 2K • 💬 412 • ⏱️ 16:01 • 22h ago
 
 ---
 
@@ -357,27 +355,7 @@ Bitcoin and Crypto markets are heating up, and new opportunities are starting to
 
 📺 Crypto Banter
 
-👁️ 8K • 👍 559 • 💬 32 • ⏱️ 7:43 • 8h ago
-
----
-
-**[If Professor Jian Xueqin Is Right... Bitcoin Goes NUCLEAR](https://www.youtube.com/watch?v=1HPmGzKyUOk)**
-
-CHECK OUT UPTRADE! Sign up here ▻ https://uptrade.co/ref/fire-hustle TRADE ON BTCC WITH ME! 10% Deposit ...
-
-📺 FireHustle
-
-👁️ 8K • 👍 499 • 💬 58 • ⏱️ 10:15 • 19h ago
-
----
-
-**[Bitcoin Holders: Prepare For A Wild Week](https://www.youtube.com/watch?v=YxvAdiyCRPs)**
-
-FortisX https://fortisx.fi/kol/aaron - Deposit from $100: Get a 1% bonus - Withdraw anytime - Rewards every 24h - No lockups ...
-
-📺 Aaron Bennett
-
-👁️ 4K • 👍 343 • 💬 200 • ⏱️ 8:24 • 11h ago
+👁️ 9K • 👍 580 • 💬 32 • ⏱️ 7:43 • 9h ago
 
 ---
 
@@ -387,7 +365,37 @@ Is Bitcoin entering a dangerous phase of complacency? After periods of volatilit
 
 📺 Benjamin Cowen
 
-👁️ 62K • 👍 4K • 💬 206 • ⏱️ 16:00 • 20h ago
+👁️ 66K • 👍 4K • 💬 209 • ⏱️ 16:00 • 22h ago
+
+---
+
+**[If Professor Jian Xueqin Is Right... Bitcoin Goes NUCLEAR](https://www.youtube.com/watch?v=1HPmGzKyUOk)**
+
+CHECK OUT UPTRADE! Sign up here ▻ https://uptrade.co/ref/fire-hustle TRADE ON BTCC WITH ME! 10% Deposit ...
+
+📺 FireHustle
+
+👁️ 8K • 👍 511 • 💬 69 • ⏱️ 10:15 • 20h ago
+
+---
+
+**[my HONEST 2026 bitcoin price prediction... [you might not like it]](https://www.youtube.com/watch?v=Iknd8WcG44k)**
+
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
+
+📺 Tyler S
+
+👁️ 4K • 👍 394 • 💬 46 • ⏱️ 13:45 • 3h ago
+
+---
+
+**[WARNING: Bitcoin is 11 Days Away from a MASSIVE Move! (ETH, XRP, SOL, AVAX)](https://www.youtube.com/watch?v=_Eb6fYPj4TY)**
+
+Welcome back to Verified Investing! In today's urgent crypto market update, Chief Market Strategist Gareth Soloway dives deep ...
+
+📺 Gareth Soloway
+
+👁️ 106K • 👍 5K • 💬 499 • ⏱️ 11:47 • 2d ago
 
 ---
 
@@ -398,16 +406,6 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 📺 Anthony Pompliano
 
 👁️ 57K • 👍 3K • 💬 106 • ⏱️ 45:08 • 2d ago
-
----
-
-**[CNBC Today: The Greatest Crypto Bull Run Of Our Lifetime HAPPENING NOW](https://www.youtube.com/watch?v=Q_FFfWvq-z8)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEEX Poker Party is LIVE ($30k Bonus): ...
-
-📺 Altcoin Daily
-
-👁️ 49K • 👍 2K • 💬 294 • ⏱️ 8:47 • 2d ago
 
 ---
 
