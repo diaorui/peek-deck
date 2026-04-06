@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-05T23:35:26.810824+00:00'
+updated: '2026-04-06T02:37:07.965360+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 05, 2026 at 23:35 UTC  
+**Last Updated:** April 06, 2026 at 02:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,21 @@ Robotics research and industry news
 
 **[Robot dog takes on security duties in Atlanta](https://www.reddit.com/r/robotics/comments/1sd8dlv/robot_dog_takes_on_security_duties_in_atlanta/)**
 
-6h ago
+9h ago
+
+---
+
+**[What is the best Free CAD Software?](https://www.reddit.com/r/robotics/comments/1sdk3zw/what_is_the_best_free_cad_software/)**
+
+1h ago
+
+---
+
+**[Sharing Enlightment: The experiment's results](https://www.reddit.com/r/robotics/comments/1sdmaj0/sharing_enlightment_the_experiments_results/)**
+
+https://preview.redd.it/4db513rjchtg1.png?width=1371&format=png&auto=webp&s=18e47c8b225141a0aef377fc52db2bda21f3436c Most engineers simulate. Few build. This week: a closed-loop velocity controller on an N20 encoder motor. Here's what two plots taught me that no simulation would. 📊 What I measured vs what I predicted: The ripple in steady-state RPM (±2 RPM) looks like noise. It isn't. It's quantization — 363 counts/rev × 50ms sample window × 71 RPM = only 21 pulses per sample. One extra pulse = a visible RPM spike. Predictable from first principles. Fixable by design. The motor settled at 71 RPM with PWM locked at 100% when the target was 140 RPM. Controller saturated. Motor physically couldn't deliver what was being asked. It kept trying anyway — because proportional control has no way to know it has hit a physical wall. Two engineering lessons no simulation teaches: → Always log PWM alongside your process variable. A saturated controller looks identical to a broken one unless you do. → Quantization error is not random — it is deterministic and calculable before you build. Design your sample rate to your encoder resolution, not the other way around. This is one step in a longer project: a complete motor position controller built from transfer functions and system identification, leading to a 3-axis position-holding underwater vehicle. Every layer is built on measured reality, not assumed parameters. That's the only kind of engineering I know. #ControlSystemsEngineering #EmbeddedSystems #MotorControl #FirmwareDevelopment #RoboticsEngineering #HardwareEngineering #SystemsEngineering https://preview.redd.it/xhtvd6klchtg1.png?width=1459&format=png&auto=webp&s=5ada8ab24f5977e93132c8aee4eeabf257387723
+
+17m ago
 
 ---
 
@@ -42,7 +56,7 @@ Robotics research and industry news
 
 For a cosplay competition performance, I came up with the idea of creating a companion. In Elden Ring, there are these living jars, and I think it’s a pretty great option for a cute side character in our cosplay. I want to turn one into a robot that can move quickly, move its arms, and play pre-recorded voice lines. The only problem is: I have no idea how to design the legs so that the robot can actually keep up with us while we walk at a normal pace. Especially since the original model has these awkward “chicken legs” (see photo 2), which really limits the possible options. So far, the only idea I’ve come up with is to put it on something like a wheelchair base. That would make movement much easier to implement, and we could even turn it into a joke as part of the performance. Does anyone have ideas on how to make a robot like this move fast enough to follow people?
 
-11h ago
+14h ago
 
 ---
 
@@ -58,7 +72,7 @@ I was brought in to do some work on a pair of R-2000 Fanuc's a few years back an
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/3QHNelilULQ?is=97gu8OZs77oEzJkH) • 52m ago
+🔗 [youtu.be](https://youtu.be/3QHNelilULQ?is=97gu8OZs77oEzJkH) • 3h ago
 
 ---
 
@@ -66,15 +80,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Hello all, I am working on impedance control for a robot arm for a task of placing a usb in its socket and I’m a bit stuck on whether using a force/torque sensor is actually worth it. From what I understand, impedance control can be done without a force sensor (using position errors). I am trying to figure out: - When does a force/torque sensor become really necessary with impedance controller? - Does it significantly improve stability/safety, or just performance? - Would admittance control be a better option if I already have a force sensor? Would really appreciate any insight. Thanks in advance.
 
-1h ago
-
----
-
-**[EE Major: Skills to develop to get robotics internship](https://www.reddit.com/r/robotics/comments/1sdgecs/ee_major_skills_to_develop_to_get_robotics/)**
-
-Hi, I’m a second-year EE student (at a mid-tier-engineering school), and I am aiming for robotics internships next summer at companies like Boston Dynamics or Tesla. I’m trying to decide where to focus my effort over the next year: Firmware / embedded systems (STM32, C, ROS2, controls, edge AI, ML) Hardware / PCB design Current experience: Some computer vision work (MediaPipe) Currently building an impedance-controlled actuator (STM32 + motor + encoder + current sensing) My question is: For robotics internships, which direction tends to be more valuable? And what kinds of projects actually stand out when applying? I tend to get shiny-object syndrome and find a new thing to learn without going deep into one, and I want to focus on one topic and learn something that has the highest ROI.
-
-1h ago
+4h ago
 
 ---
 
@@ -82,7 +88,7 @@ Hi, I’m a second-year EE student (at a mid-tier-engineering school), and I am 
 
 I want to show my cambotv1 robot. it is a 3d printed robot that is joystick controlled and has camera footage in c++/python. I use linux input at the moment but soon i will try to use libevdev(evdev wrapper)in c++ so that it is more in sync the python code version
 
-🔗 [youtube.com](https://youtube.com/shorts/-pBvNUXrxUc?si=xDMeBR52YhB-FdkZ) • 2h ago
+🔗 [youtube.com](https://youtube.com/shorts/-pBvNUXrxUc?si=xDMeBR52YhB-FdkZ) • 5h ago
 
 ---
 
@@ -96,15 +102,7 @@ I want to show my cambotv1 robot. it is a 3d printed robot that is joystick cont
 
 Hi everyone, I need your help regarding the servo you see in the image. Does anyone know if this type of servo exists, but instead of a toothed pinion, it has a simple cylindrical shaft, approximately 3mm in diameter? Thanks in advance. P.S. If you have any links, please send them.
 
-7h ago
-
----
-
-**[Exploring Humanoid Design Inspired by Muji](https://www.reddit.com/r/robotics/comments/1scm3ye/exploring_humanoid_design_inspired_by_muji/)**
-
-Hey everyone, This was a short 2-day project exploring how a humanoid robot could fit into Muji’s minimal lifestyle philosophy. I focused on human-robot interaction — how the robot should feel, behave, and quietly exist in everyday spaces. Tried to keep everything simple, functional, and consistent with clear product constraints. Would love to hear your thoughts!
-
-1d ago
+10h ago
 
 ---
 
@@ -120,15 +118,31 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Generalist Is Betting Its Robot-Training Gloves Will Usher In Robotics’ ChatGPT Moment](https://www.forbes.com/sites/annatong/2026/04/02/generalist-is-betting-its-robot-training-gloves-will-usher-in-robotics-chatgpt-moment/)**
+**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqeh61asoyIxNtS2kJFOV7fTvC-6jJgkSTWBcDTgL2YRawZdmVTsREiJ&gaa_ts=69d31fc2&gaa_sig=YWTFLJ2zUsQIp48g8QTNEiVLIziSVOa8uO3Xzxs9fW5tFX__IhJ9l041p3_merihJ6AX8AZAagZDUVKyBj1vPQ%3D%3D)**
 
-Forbes • 3d ago
+WSJ • 2d ago
+
+---
+
+**[Humanoid robots inspire a new generation to build machines](https://www.euronews.com/next/2026/04/05/humanoid-robots-inspire-a-new-generation-to-build-machines)**
+
+Uzbekistan has signed an agreement with South Korea’s ROBOTIS to launch humanoid robot production, marking a major step in its high-tech ambitions. At the same time, students across the country are learning robotics and programming, gaining skills that could prepare them for careers in the emerging
+
+Euronews.com • 13h ago
+
+---
+
+**[Think Robots Are Impressive Now? Just Wait Until They Have 6G](https://www.cnet.com/tech/computing/think-robots-are-impressive-now-just-wait-until-they-have-6g/)**
+
+This next-generation network technology won't just make our phones faster; it'll unlock new capabilities in robots, turning them into all-sensing, always-learning fleets.
+
+CNET • 2d ago
 
 ---
 
 **[Asimov’s three laws of robotics survived 82 years, we broke them in 30 minutes, costs 80 cents, and then remade them](https://blog.adafruit.com/2026/04/05/asimovs-three-laws-of-robotics-survived-82-years-we-broke-them-in-30-minutes-costs-80-cents-and-then-remade-them/)**
 
-Adafruit • 6h ago
+Adafruit • 9h ago
 
 ---
 
@@ -148,28 +162,6 @@ NVIDIA Blog • 1d ago
 
 ---
 
-**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqfYajz8OZwcCToGLK3u-xQvI_3oyY0hW4Dlq9kauDzmEcks8I6M7t4R&gaa_ts=69d2f52f&gaa_sig=Qc5ri6edoF8BeA4TpA_rDcmsuR0aQ4yxsz8wqWgewhdHL-lxwCtCTxr4wRdC03pBIKn0DRM4Qd_G3VVF0bvEAA%3D%3D)**
-
-WSJ • 2d ago
-
----
-
-**[Humanoid robots inspire a new generation to build machines](https://www.euronews.com/next/2026/04/05/humanoid-robots-inspire-a-new-generation-to-build-machines)**
-
-Uzbekistan has signed an agreement with South Korea’s ROBOTIS to launch humanoid robot production, marking a major step in its high-tech ambitions. At the same time, students across the country are learning robotics and programming, gaining skills that could prepare them for careers in the emerging
-
-Euronews.com • 10h ago
-
----
-
-**[Think Robots Are Impressive Now? Just Wait Until They Have 6G](https://www.cnet.com/tech/computing/think-robots-are-impressive-now-just-wait-until-they-have-6g/)**
-
-This next-generation network technology won't just make our phones faster; it'll unlock new capabilities in robots, turning them into all-sensing, always-learning fleets.
-
-CNET • 2d ago
-
----
-
 **[AI Body Gap: Why Robots Need "Internal Feelings" to be Safe](https://neurosciencenews.com/internal-embodiment-ai-safety-30457/)**
 
 Why is AI overconfident? A new study explores "internal embodiment," the missing link in AI safety. Researchers explain how a lack of internal "body" states prevents AI from understanding human context and avoiding errors.
@@ -178,11 +170,17 @@ Neuroscience News • 1d ago
 
 ---
 
-**[Wi-Fi That Can Withstand a Nuclear Reactor](https://spectrum.ieee.org/robotics-in-nuclear-industry)**
+**[Generalist introduces GEN-1 general-purpose model for physical AI](https://www.therobotreport.com/generalist-introduces-gen-1-general-purpose-model-for-physical-ai/)**
 
-Six months in a nuclear reactor? This receiver chip can take it
+The Robot Report • 2d ago
 
-IEEE Spectrum • 3d ago
+---
+
+**[Paola robotics wins prestigious award, earns chance at world title in Houston](https://www.kshb.com/news/local-news/kansas/miami-county/paola-robotics-wins-prestigious-award-earns-chance-at-world-title-in-houston)**
+
+A group of Paola High School students is taking their engineering talents and displaying them on a world stage. The team is currently ranked #1 in the state of Kansas.
+
+KSHB 41 Kansas City • 3h ago
 
 ---
 
@@ -200,23 +198,21 @@ Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In t
 
 ---
 
+**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=Jg0ugvR-NYI)**
+
+📺 zhulongfeng 6
+
+👁️ 745 • 👍 6 • ⏱️ 0:21 • 2h ago
+
+---
+
 **[Xiaomi’s New AI Robot Hand Works Like a REAL Human… This Is INSANE](https://www.youtube.com/watch?v=Ubpk3tOl9gw)**
 
 Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking it's human — and that's just the START of what's ...
 
 📺 The AI Nexus
 
-👁️ 4K • 👍 187 • 💬 13 • ⏱️ 20:43 • 5d ago
-
----
-
-**[This Robot&#39;s Skin Can Actually Feel Touch #robotics #robot #innovation #engineering](https://www.youtube.com/watch?v=k9tj5kb3rHI)**
-
-The Chinese company JQ Industries has developed a fabric-based electronic skin, or e-skin, using plant-derived materials to ...
-
-📺 Kalil 4.0
-
-👁️ 292 • 👍 8 • ⏱️ 0:51 • 1h ago
+👁️ 4K • 👍 188 • 💬 13 • ⏱️ 20:43 • 5d ago
 
 ---
 
@@ -226,15 +222,7 @@ Brett Adcock is a technology entrepreneur focused on building companies in robot
 
 📺 Shawn Ryan Show
 
-👁️ 517K • 👍 10K • 💬 3K • ⏱️ 2:57:09 • 6d ago
-
----
-
-**[Auto Deodorant dispenser progress #diy #artificialintelligence #engineering #robotics #disability](https://www.youtube.com/watch?v=JuzaKB0lx6k)**
-
-📺 Yard Mon Robotics
-
-👁️ 1K • 👍 41 • 💬 5 • ⏱️ 0:47 • 20h ago
+👁️ 519K • 👍 10K • 💬 3K • ⏱️ 2:57:09 • 6d ago
 
 ---
 
@@ -244,27 +232,7 @@ War Robots Gameplay: Anaksor with Kroko weapons is quite unfair! My War Robots C
 
 📺 Manni-Gaming
 
-👁️ 6K • 👍 318 • 💬 68 • ⏱️ 13:35 • 11h ago
-
----
-
-**[Essential Things to Know Before Buying a Robot Mower!](https://www.youtube.com/watch?v=lbibuVIo84Y)**
-
-The era of the Robot Mower is here and after 6 months of intensive use I feel I am now in a position to update everyone on both ...
-
-📺 Proper DIY
-
-👁️ 19K • 👍 2K • 💬 87 • ⏱️ 11:47 • 16h ago
-
----
-
-**[They Built Hospitals Just For Robots 🤯](https://www.youtube.com/watch?v=D4GM222AqXA)**
-
-Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join Support the Shawn ...
-
-📺 Shawn Ryan Show
-
-👁️ 106K • 👍 2K • 💬 244 • ⏱️ 0:36 • 5d ago
+👁️ 7K • 👍 342 • 💬 74 • ⏱️ 13:35 • 14h ago
 
 ---
 
@@ -278,13 +246,43 @@ A flagship robot vacuum might be out your budget. We tested the affordable Dream
 
 ---
 
+**[This Robot&#39;s Skin Can Actually Feel Touch #robotics #robot #innovation #engineering](https://www.youtube.com/watch?v=k9tj5kb3rHI)**
+
+The Chinese company JQ Industries has developed a fabric-based electronic skin, or e-skin, using plant-derived materials to ...
+
+📺 Kalil 4.0
+
+👁️ 480 • 👍 26 • 💬 4 • ⏱️ 0:51 • 4h ago
+
+---
+
+**[Essential Things to Know Before Buying a Robot Mower!](https://www.youtube.com/watch?v=lbibuVIo84Y)**
+
+The era of the Robot Mower is here and after 6 months of intensive use I feel I am now in a position to update everyone on both ...
+
+📺 Proper DIY
+
+👁️ 21K • 👍 2K • 💬 88 • ⏱️ 11:47 • 19h ago
+
+---
+
+**[They Built Hospitals Just For Robots 🤯](https://www.youtube.com/watch?v=D4GM222AqXA)**
+
+Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join Support the Shawn ...
+
+📺 Shawn Ryan Show
+
+👁️ 106K • 👍 2K • 💬 244 • ⏱️ 0:36 • 5d ago
+
+---
+
 **[The Coolest Robot on the Planet 🤯](https://www.youtube.com/watch?v=t37TaaFsHDM)**
 
 Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join Support the Shawn ...
 
 📺 Shawn Ryan Show
 
-👁️ 958K • 👍 22K • 💬 2K • ⏱️ 0:44 • 5d ago
+👁️ 960K • 👍 22K • 💬 2K • ⏱️ 0:44 • 5d ago
 
 ---
 
