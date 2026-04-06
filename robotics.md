@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-06T16:51:17.831246+00:00'
+updated: '2026-04-06T17:45:42.196803+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 06, 2026 at 16:51 UTC  
+**Last Updated:** April 06, 2026 at 17:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Most robotics coverage nowadays is focusing on industrial automation or consumer novelty, but this also caught my attention: Singapore's Gardens by the Bay is rolling out a free-to-rent robotic guide dog (built by the Singapore-based firm RoamAssist) for visually impaired visitors in its Flower Dome from Q3 2026. The robot and system are pre-programmed with a full tour route, provide real-time audio guidance on plant exhibits, and are designed for independent navigation with no human escort. They're pairing it with an online sensory map for autistic visitors launching in June. It's not "Boston Dynamics" level of attention but it's a interesting attempt at real-world deployment of "assistant" robotics in a public space. Curious what people here think Article - https://www.straitstimes.com/singapore/gardens-by-the-bay-to-offer-robot-guide-dog-online-sensory-map-for-visitors-with-disabilities
 
-2h ago
+3h ago
 
 ---
 
@@ -44,7 +44,7 @@ Most robotics coverage nowadays is focusing on industrial automation or consumer
 
 Very first proof of concept. This is going to be fun. It's still a bit slow to progress, I need to optimize a few things. But it gets the idea. Llm writes a few lines of javascript to create the motion and executes it.
 
-2h ago
+3h ago
 
 ---
 
@@ -52,7 +52,7 @@ Very first proof of concept. This is going to be fun. It's still a bit slow to p
 
 I've been working on a robot dog and wanted to show off my progress. I have a single leg working pretty well now. 3 legs to go! Made with: Motor: Eaglepower 8308 Gearbox: 15:1 Cycloidal that I designed and 3d printed Microcontroller: Teensy 4.1 + CAN bus Motor Controllers: ODrive 3.6 Clone boards from Aliexpress Battery: Ryobi 40v Everything else: bearings, bolts, and printed parts from a Bambu P1S This is a labor of love. My regular day job is a software developer/manager. Mostly focused on learning fast and keeping costs down. I'm having so much fun learning and building this stuff
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ For a cosplay competition performance, I came up with the idea of creating a com
 
 **[What is the best Free CAD Software?](https://www.reddit.com/r/robotics/comments/1sdk3zw/what_is_the_best_free_cad_software/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -102,7 +102,7 @@ For a cosplay competition performance, I came up with the idea of creating a com
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/3QHNelilULQ?is=97gu8OZs77oEzJkH) • 18h ago
+🔗 [youtu.be](https://youtu.be/3QHNelilULQ?is=97gu8OZs77oEzJkH) • 19h ago
 
 ---
 
@@ -130,19 +130,19 @@ Euronews.com • 1d ago
 
 By incorporating generative AI, robots are evolving from scripted machines to adaptive systems that interpret context, learn from demonstrations, and adjust their behaviors in real time. Advances in large language models and related technologies are helping robots deliver consistent, personalized outcomes at scale. Autonomous vehicles and humanoid factory assistants have shown that robots can handle complex instructions and collaborate with people in physical environments. But to successfully deploy gen-AI-powered robots, companies must choose use cases tied to real labor constraints, design interactions that feel natural, position robots as partners to—rather than replacements for—employees, match robots’ capabilities to task variability, and define success metrics. Privacy, transparency, and safety must also remain priorities as robots gather data and influence decisions.
 
-Harvard Business Review • 18m ago
+Harvard Business Review • 1h ago
 
 ---
 
 **[Asimov’s three laws of robotics survived 82 years, we broke them in 30 minutes, costs 80 cents, and then remade them](https://blog.adafruit.com/2026/04/05/asimovs-three-laws-of-robotics-survived-82-years-we-broke-them-in-30-minutes-costs-80-cents-and-then-remade-them/)**
 
-Adafruit • 23h ago
+Adafruit • 1d ago
 
 ---
 
 **[Indiana researchers study the potential of AI-powered health care](https://www.axios.com/local/indianapolis/2026/04/06/experts-examine-the-potential-of-ai-powered-medical-care-in-indianapolis)**
 
-Axios • 4h ago
+Axios • 5h ago
 
 ---
 
@@ -150,7 +150,7 @@ Axios • 4h ago
 
 The race for AI and robotics talent is heating up and getting expensive.
 
-Business Insider • 6h ago
+Business Insider • 7h ago
 
 ---
 
@@ -166,7 +166,7 @@ nasa.gov • 2d ago
 
 This National Robotics Week, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world.
 
-NVIDIA Blog • 1d ago
+NVIDIA Blog • 2d ago
 
 ---
 
@@ -174,7 +174,7 @@ NVIDIA Blog • 1d ago
 
 A group of Paola High School students is taking their engineering talents and displaying them on a world stage. The team is currently ranked #1 in the state of Kansas.
 
-KSHB 41 Kansas City • 17h ago
+KSHB 41 Kansas City • 18h ago
 
 ---
 
@@ -204,7 +204,7 @@ Welch Labs Book: https://www.welchlabs.com/resources/ai-book-ezrzm-msrmc Book & 
 
 📺 Welch Labs
 
-👁️ 72K • 👍 4K • 💬 192 • ⏱️ 35:02 • 1d ago
+👁️ 72K • 👍 4K • 💬 192 • ⏱️ 35:02 • 2d ago
 
 ---
 
@@ -254,7 +254,7 @@ Brett Adcock is a technology entrepreneur focused on building companies in robot
 
 📺 Shawn Ryan Show
 
-👁️ 524K • 👍 11K • 💬 3K • ⏱️ 2:57:09 • 6d ago
+👁️ 524K • 👍 11K • 💬 3K • ⏱️ 2:57:09 • 7d ago
 
 ---
 
@@ -272,7 +272,7 @@ War Robots Gameplay: Anaksor with Kroko weapons is quite unfair! My War Robots C
 
 📺 zhulongfeng 6
 
-👁️ 29K • 👍 81 • ⏱️ 0:21 • 16h ago
+👁️ 29K • 👍 81 • ⏱️ 0:21 • 17h ago
 
 ---
 
@@ -282,7 +282,7 @@ The absolute Ammit Destroyer. This the most broken build in the game and by far 
 
 📺 PREDATOR WR
 
-👁️ 3K • 👍 275 • 💬 42 • ⏱️ 14:53 • 4h ago
+👁️ 3K • 👍 275 • 💬 42 • ⏱️ 14:53 • 5h ago
 
 ---
 

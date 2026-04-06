@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-06T16:51:17.822017+00:00'
+updated: '2026-04-06T17:45:42.188325+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- cryptocurrency
+- social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 06, 2026 at 16:51 UTC  
+**Last Updated:** April 06, 2026 at 17:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 Sadly, most of the hard working people still have no idea how the printer keeps stealing their money.
 
-4h ago
+5h ago
 
 ---
 
 **[Men only have two moods:](https://www.reddit.com/r/Bitcoin/comments/1sdz0lp/men_only_have_two_moods/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -95,7 +95,7 @@ Sadly, most of the hard working people still have no idea how the printer keeps 
 
 While the world continues to trust systems that fail time and time again, a new alternative has emerged silent, unstoppable, and incorruptible. Bitcoin is not just technology. It’s not just money. It’s freedom. For the first time in history, a generation has the opportunity to truly own its wealth without intermediaries, without permission, without manipulation. We grew up watching crises unfold, inflation erode the value of our efforts, and rules change in the middle of the game. But now… we have a choice. Bitcoin is more than an asset, it’s a statement. A rejection of centralized control. A step toward individual sovereignty. There may be volatility. There may be doubts. But one thing is certain: The world is changing and Bitcoin is leading that change. Don’t trust, verify. 🧡
 
-2h ago
+3h ago
 
 ---
 
@@ -103,7 +103,7 @@ While the world continues to trust systems that fail time and time again, a new 
 
 https://preview.redd.it/a23ehrl5eltg1.png?width=785&format=png&auto=webp&s=52e318c30de2bfee6f6670dbc37b093e4c88d552 Some updated numbers on Strategy's buying pace relative to post-halving issuance (3.125 BTC/block, ~450 BTC/day): Historical avg (Aug 2020–present): 361 BTC/day → 80% of daily mined supply Past 1 year: 624 BTC/day → 139% Past 6 months: 715 BTC/day → 159% Past 3 months: 1,042 BTC/day → 232% Past 1 month: 1,500 BTC/day → 333% Latest week (Apr 1–5): 696 BTC/day → 155% (single 4,871 BTC tranche) As of April 5, total holdings sit at 766,970 BTC with a cost basis of $58.02B. The trend line is clear: absorption has been accelerating through 2025 and into 2026. The 1-month window shows Strategy alone was buying more than 3x the entire network's daily output. The latest week pulled back, but that's one buy, not a trend reversal. Chart in the image.
 
-55m ago
+1h ago
 
 ---
 
@@ -111,7 +111,7 @@ https://preview.redd.it/a23ehrl5eltg1.png?width=785&format=png&auto=webp&s=52e31
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-10h ago
+11h ago
 
 ---
 
@@ -125,7 +125,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I am sat on some savings which I do not use and they gain minimal interest, I have been toying with the idea of investing for a while and I am wondering if It is too late to invest in btc or would now be an ideal time given the current dip? I was thinking about putting a chunk in now and then x amount every month indefinitely and somewhat forgetting about it, and hoping that in 30 years I will have accumulated a bit of profit from it to aid towards retirement. Would this be a wise idea, thinking long term?
 
-16h ago
+17h ago
 
 ---
 
@@ -145,7 +145,7 @@ I am sat on some savings which I do not use and they gain minimal interest, I ha
 
 Hey everyone, I recorded a video about Bitcoin key recovery using HEX format. In this case, the keys are represented as 64 hexadecimal characters. The goal is to create more content in the future covering other key formats and wallet structures as well. All the tools shown in the video are open source. That said, I strongly recommend running anything like this on a completely offline computer for safety. Even though the video is fairly amateur in terms of production, I tried to include some of the most advanced tools and techniques currently available for this kind of work. I’d really appreciate any feedback or thoughts from the community.
 
-🔗 [youtu.be](https://youtu.be/X1TDb9FAdY8?si=0q8_rbQ-E1kpGVal) • 8h ago
+🔗 [youtu.be](https://youtu.be/X1TDb9FAdY8?si=0q8_rbQ-E1kpGVal) • 9h ago
 
 ---
 
@@ -179,7 +179,7 @@ Decrypt • 2d ago
 
 Strategy recorded a $14.5 billion unrealized loss in the first quarter as it continues to accumulate more bitcoin.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 1h ago
 
 Strategy's on-paper bitcoin losses generated a $2.42 billion deferred tax asset, according to its latest 8-K filing.
 
-The Block • 2h ago
+The Block • 3h ago
 
 ---
 
@@ -195,7 +195,7 @@ The Block • 2h ago
 
 Strategy (MSTR) buys $330M bitcoin in early April 2026, reports $14.46B unrealized loss and tax benefit—see holdings, funding and stock impact.
 
-Seeking Alpha • 4h ago
+Seeking Alpha • 5h ago
 
 ---
 
@@ -203,7 +203,7 @@ Seeking Alpha • 4h ago
 
 Sales of bitcoin by prominent holders and executive exits could give hope to the battered crypto sector.
 
-CoinDesk • 20m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -211,7 +211,7 @@ CoinDesk • 20m ago
 
 Most simplifies the complex process of quantum computing as "it can be 0 and 1 at the same time." That is not an explanation for why it threatens Bitcoin. This is.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -227,7 +227,7 @@ CoinDesk • 1d ago
 
 A hacker with quantum tools could crack open old Bitcoin wallets and flood the market as soon as 2029.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -317,7 +317,7 @@ Follow Gareth: https://x.com/GarethSoloway ✓ Bitunix (no kyc, $10k bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 2K • 💬 316 • ⏱️ 23:55 • 23h ago
+👁️ 51K • 👍 2K • 💬 316 • ⏱️ 23:55 • 1d ago
 
 ---
 
@@ -327,7 +327,7 @@ Bitcoin #Crypto #Finance Bitcoin uncertainty is rising fast as global instabilit
 
 📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 685 • 💬 143 • ⏱️ 1:05:40 • 1h ago
+👁️ 8K • 👍 685 • 💬 143 • ⏱️ 1:05:40 • 2h ago
 
 ---
 
@@ -337,7 +337,7 @@ Could the oil crisis Break Bitcoin? Insider oil tracking just hit $173 a barrel 
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 369 • ⏱️ 16:01 • 20h ago
+👁️ 21K • 👍 2K • 💬 369 • ⏱️ 16:01 • 21h ago
 
 ---
 
@@ -347,7 +347,7 @@ This is huge for crypto, bitcoin, ethereum and the rest of the markets!!!!! ----
 
 📺 Thomas Kralow
 
-👁️ 11K • 👍 3K • 💬 33 • ⏱️ 9:21 • 5h ago
+👁️ 11K • 👍 3K • 💬 33 • ⏱️ 9:21 • 6h ago
 
 ---
 
@@ -357,7 +357,7 @@ Bitcoin and Crypto markets are heating up, and new opportunities are starting to
 
 📺 Crypto Banter
 
-👁️ 8K • 👍 559 • 💬 32 • ⏱️ 7:43 • 7h ago
+👁️ 8K • 👍 559 • 💬 32 • ⏱️ 7:43 • 8h ago
 
 ---
 
@@ -367,7 +367,7 @@ CHECK OUT UPTRADE! Sign up here ▻ https://uptrade.co/ref/fire-hustle TRADE ON 
 
 📺 FireHustle
 
-👁️ 8K • 👍 499 • 💬 58 • ⏱️ 10:15 • 18h ago
+👁️ 8K • 👍 499 • 💬 58 • ⏱️ 10:15 • 19h ago
 
 ---
 
@@ -377,7 +377,7 @@ FortisX https://fortisx.fi/kol/aaron - Deposit from $100: Get a 1% bonus - Withd
 
 📺 Aaron Bennett
 
-👁️ 4K • 👍 343 • 💬 200 • ⏱️ 8:24 • 10h ago
+👁️ 4K • 👍 343 • 💬 200 • ⏱️ 8:24 • 11h ago
 
 ---
 
@@ -387,7 +387,7 @@ Is Bitcoin entering a dangerous phase of complacency? After periods of volatilit
 
 📺 Benjamin Cowen
 
-👁️ 62K • 👍 4K • 💬 206 • ⏱️ 16:00 • 19h ago
+👁️ 62K • 👍 4K • 💬 206 • ⏱️ 16:00 • 20h ago
 
 ---
 

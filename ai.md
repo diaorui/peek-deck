@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-06T16:51:17.813323+00:00'
+updated: '2026-04-06T17:45:42.180674+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
 - social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 06, 2026 at 16:51 UTC  
+**Last Updated:** April 06, 2026 at 17:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Experiments show large majorities uncritically accepting "faulty" AI answers.
 
 A company in eastern China is using an artificial intelligence-powered machine to sort clothes and boost recycling.
 
-🔗 [AP News](https://apnews.com/article/china-recycling-textiles-artificial-intelligence-863551cc54e88da6a7916894cb8980c4) • 5h ago
+🔗 [AP News](https://apnews.com/article/china-recycling-textiles-artificial-intelligence-863551cc54e88da6a7916894cb8980c4) • 6h ago
 
 ---
 
@@ -57,7 +57,7 @@ A company in eastern China is using an artificial intelligence-powered machine t
 
 I want to be honest about something that happened to me because I think it is more common than people admit. Last month I hit a bug in a service I wrote myself two years ago. Network timeout issue, intermittent, only in prod. The kind of thing I used to be able to sit with for an hour and work through methodically. I opened Claude, described the symptom, got a hypothesis, followed it, hit a dead end, fed that back, got another hypothesis. Forty minutes later I had not found the bug. I had just been following suggestions. At some point I closed the chat and tried to work through it myself. And I realized I had forgotten how to just sit with a problem. My instinct was to describe it to something else and wait for a direction. The internal monologue that used to generate hypotheses, that voice that says maybe check the connection pool, maybe it is a timeout on the load balancer side, maybe there is a retry storm. That voice was quieter than it used to be. I found the bug eventually. It took me longer without AI than it would have taken me three years ago without AI. I am not saying the tools are bad. I use them every day and they make me faster on most things. But there is something specific happening to the part of the brain that generates hypotheses under uncertainty. That muscle atrophies if you do not use it. The analogy I keep coming back to is GPS. You can navigate anywhere with GPS. But if you use it for five years and then lose signal, you do not just lack information. You lack the mental map that you would have built if you had been navigating manually. The skill and the mental model degrade together. I am 11 years into this career. I started noticing this in myself. I wonder how it looks for someone who started using AI tools in their first year. Has anyone else noticed this? Not the productivity gains, we all know those. The quieter thing underneath.
 
-19h ago
+20h ago
 
 ---
 
@@ -65,7 +65,7 @@ I want to be honest about something that happened to me because I think it is mo
 
 I’ve been tracking the companies building primitives specifically for agents rather than humans. The pattern is becoming obvious: every capability a human employee takes for granted is getting rebuilt as an API. Here are some of the companies building for AI agents: AgentMail — agents can have email accounts AgentPhone — agents can have phone numbers Kapso — agents can have WhatsApp numbers Daytona / E2B — agents can have their own computers monid.ai — agents can read social media (X, TikTok, Reddit, LinkedIn, Amazon, Facebook) Browserbase / Browser Use / Hyperbrowser — agents can use web browsers Firecrawl — agents can crawl the web without a browser Mem0 — agents can remember things Kite / Sponge — agents can pay for things Composio — agents can use your SaaS tools Orthogonal — agents can access APIs more easily ElevenLabs / Vapi — agents can have a voice Sixtyfour — agents can search for people and companies Exa — agents can search the web (Google isn’t built for agents) What’s interesting is how quickly this came together. Not long ago, none of this really existed in a usable form. Now you can piece together an agent with identity, memory, communication, and spending in a single afternoon. Feels less like “AI tools” and more like the early version of an agent-native infrastructure stack. Curious if anyone here is actually building on top of this. What are you using? Also probably missing a bunch - drop anything I should add and I’ll keep this updated.
 
-17h ago
+18h ago
 
 ---
 
@@ -73,7 +73,7 @@ I’ve been tracking the companies building primitives specifically for agents r
 
 Everyone thinks McKinsey just built 25,000 AI experts. They didn't. They took a 35-year-old internal database, put a natural language interface on top, and wrote a press release that every major business publication ran without asking a single follow-up question. This is the same play McKinsey has run for a hundred years. ERP in the 90s. Digital transformation in the 2000s. Big data in the 2010s. Each wave the same: new technology creates executive anxiety, McKinsey positions itself between that anxiety and the answer, and companies buy the trend to protect themselves when it fails. The future looks a lot like the past. And once you see it, you can't unsee it. https://www.youtube.com/watch?v=uTdKJaQkgJQ
 
-23h ago
+1d ago
 
 ---
 
@@ -81,7 +81,7 @@ Everyone thinks McKinsey just built 25,000 AI experts. They didn't. They took a 
 
 Aura: https://github.com/youngbryan97/aura Aura is not a chatbot with personality prompts. It is a complete cognitive architecture — 60+ interconnected modules forming a unified consciousness stack that runs continuously, maintains internal state between conversations, and exhibits genuine self-modeling, prediction, and affective dynamics. The system implements real algorithms from computational consciousness research, not metaphorical labels on arbitrary values. Key differentiators: Genuine IIT 4.0: Computes actual integrated information (φ) via transition probability matrices, exhaustive bipartition search, and KL-divergence — the real mathematical formalism, not a proxy Closed-loop affective steering: Substrate state modulates LLM inference at the residual stream level (not text injection), creating bidirectional causal coupling between internal state and language generation
 
-45m ago
+1h ago
 
 ---
 
@@ -89,7 +89,7 @@ Aura: https://github.com/youngbryan97/aura Aura is not a chatbot with personalit
 
 Physical AI is emerging as one of the next major industrial battlegrounds, with Japan’s push driven more by necessity than anything else. With workforces shrinking and pressure mounting to sustain productivity, companies are increasingly deploying AI-powered robots across factories, warehouses, and critical infrastructure.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/) • 4h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/) • 5h ago
 
 ---
 
@@ -105,7 +105,7 @@ Hi r/artificial ! I'm posting on behalf of a friend who is conducting academic r
 
 Hello! I tend to use it often and I find it to have valid information when it comes to linguistic or computer related summaries, though it does require a play of words at times. I’m wondering what this Google search AI is good at, what it’s bad at, your opinions on it (especially for learning various topics or getting information, any subject you think it’s good or bad at). What are your opinions for using it for political information? How are your best practices in verifying the validity of the information?? Literally, anything you have to say about it, yap about it in the comments. I use it all the time and it’s the only AI I use explicitly (usually after making a google search and it showing up at the top of my screen every time), besides some of the advanced (non image creation AI) AI parts of Photoshop, such as removing backgrounds. Or any better alternatives out there, or opinions on other AI platforms (free ones mostly), thanks!
 
-8h ago
+9h ago
 
 ---
 
@@ -113,7 +113,7 @@ Hello! I tend to use it often and I find it to have valid information when it co
 
 I'm on Claude Max (the $100/mo plan) and noticed something that surprised me. By Monday noon I had already used 40% of the 20x monthly limit. At that rate I'd exceed it and pay ~R$109 extra before the cycle ends. So I bumped up to the $125 plan just to be safe. For context: I use Claude Code heavily — mostly for automation scripts, browser bots, and some overnight autonomous sessions. I'm not doing anything crazy, just consistent daily work. What made me think was: is this actually expensive compared to alternatives? I've been hearing about Codex CLI (OpenAI's terminal agent) but haven't tried it seriously. For those who've used both: - Does Codex CLI eat through API credits fast for similar tasks? - Is the cost model more predictable? - How does the quality compare for code-heavy workflows? I included a screenshot of my usage dashboard if it helps contextualize. https://i.imgur.com/tEWdrU4.png
 
-1m ago
+55m ago
 
 ---
 
@@ -123,7 +123,7 @@ I'm on Claude Max (the $100/mo plan) and noticed something that surprised me. By
 
 **[A.I. Is on Its Way to Upending Cybersecurity](https://www.nytimes.com/2026/04/06/technology/ai-cybersecurity-hackers.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 1h ago
 
 The AI agent sparked a frenzy of "raising lobsters" in March, with users training the tool to suit their needs.
 
-BBC • 18h ago
+BBC • 19h ago
 
 ---
 
@@ -139,7 +139,7 @@ BBC • 18h ago
 
 Content made you visible. Context made you relevant. Neither one explains why AI is ignoring your brand.
 
-Rolling Stone • 21m ago
+Rolling Stone • 1h ago
 
 ---
 
@@ -147,19 +147,19 @@ Rolling Stone • 21m ago
 
 The U.S. Army has put the 25th Infantry Division at Schofield Barracks at the forefront of testing how it can use AI models and tools on the battlefield.
 
-Honolulu Star-Advertiser • 53m ago
+Honolulu Star-Advertiser • 1h ago
 
 ---
 
 **[Google Exec Uncovers The $100,000+ AI Jobs Boom That’s Hardly Spoken About](https://www.forbes.com/sites/rachelwells/2026/04/06/google-exec-uncovers-the-100000-ai-jobs-boom-thats-hardly-spoken-about/)**
 
-Forbes • 47m ago
+Forbes • 1h ago
 
 ---
 
 **[AI is starting to squeeze entry-level jobs in the D.C.-area](https://www.axios.com/local/washington-dc/2026/04/06/ai-jobs-shift-hits-young-workers-dmv)**
 
-Axios • 6h ago
+Axios • 7h ago
 
 ---
 
@@ -167,7 +167,7 @@ Axios • 6h ago
 
 JPMorgan CEO Jamie Dimon in his annual letter to shareholders noted the country's 250th anniversary and called for a broad recommitment to American ideals.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -175,7 +175,7 @@ CNBC • 6h ago
 
 In his annual shareholder letter, the CEO of JPMorgan Chase acknowledged that AI will cause job losses but seemed to argue the tech will be a net positive.
 
-Fast Company • 41m ago
+Fast Company • 1h ago
 
 ---
 
@@ -183,13 +183,13 @@ Fast Company • 41m ago
 
 JPMorgan CEO Jamie Dimon believes that future generations will have more job opportunities, and human skills like curiosity and work ethic will reign supreme in the AI era.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
 **[OpenAI Advocates Electric Grid, Safety Net Spending for New AI Era](https://www.bloomberg.com/news/articles/2026-04-06/openai-advocates-electric-grid-safety-net-spending-for-new-ai-era)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -212,7 +212,7 @@ I’ll do this while contextualizing the project and my background so you can in
 
 On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro. - fikrikarim/parlor
 
-⬆️ 212 • 💬 21 • 22h ago • [GitHub](https://github.com/fikrikarim/parlor)
+⬆️ 212 • 💬 21 • 23h ago • [GitHub](https://github.com/fikrikarim/parlor)
 
 ---
 
@@ -232,13 +232,13 @@ deployment pattern...
 
 Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine. - kessler/gemma-gem
 
-⬆️ 129 • 💬 18 • 16h ago • [GitHub](https://github.com/kessler/gemma-gem)
+⬆️ 129 • 💬 18 • 17h ago • [GitHub](https://github.com/kessler/gemma-gem)
 
 ---
 
 **[Musician says AI company is cloning her music, filing claims against her](https://news.ycombinator.com/item?id=47653471)**
 
-⬆️ 115 • 💬 19 • 20h ago • [X (formerly Twitter)](https://twitter.com/unlimited_ls/status/2040577536136974444)
+⬆️ 115 • 💬 19 • 21h ago • [X (formerly Twitter)](https://twitter.com/unlimited_ls/status/2040577536136974444)
 
 ---
 
@@ -298,7 +298,7 @@ Best AI Agent Tool is Base44 https://base44.pxf.io/c/6440076/3820726/25619?trafc
 
 📺 Mikey No Code
 
-👁️ 5K • ⏱️ 40:05 • 1h ago
+👁️ 5K • ⏱️ 40:05 • 2h ago
 
 ---
 
@@ -318,7 +318,7 @@ Join our WhatsApp Community Get the latest AI updates, tips, and insights straig
 
 📺 Vaibhav Sisinty
 
-👁️ 7K • 👍 653 • 💬 26 • ⏱️ 16:04 • 1h ago
+👁️ 7K • 👍 653 • 💬 26 • ⏱️ 16:04 • 2h ago
 
 ---
 
@@ -336,7 +336,7 @@ Get Higgsfield Seedance 2.0 today with up to 65% OFF: https://higgsfield.ai/s/se
 
 📺 Don Lemon
 
-👁️ 201K • 👍 15K • 💬 468 • ⏱️ 1:00 • 18h ago
+👁️ 201K • 👍 15K • 💬 468 • ⏱️ 1:00 • 19h ago
 
 ---
 
@@ -356,7 +356,7 @@ Apple's latest paper details a two-step self-distillation method for LLM trainin
 
 📺 AIM Network
 
-👁️ 1K • 👍 49 • 💬 4 • ⏱️ 2:48 • 3h ago
+👁️ 1K • 👍 49 • 💬 4 • ⏱️ 2:48 • 4h ago
 
 ---
 
@@ -366,7 +366,7 @@ In this video, I push a Raspberry Pi 5 to its limits by running Google's Gemma 4
 
 📺 Zero to MVP
 
-👁️ 47K • 👍 1K • 💬 58 • ⏱️ 9:09 • 22h ago
+👁️ 47K • 👍 1K • 💬 58 • ⏱️ 9:09 • 23h ago
 
 ---
 
@@ -376,7 +376,7 @@ garbage video: https://www.youtube.com/watch?v=huXOoaPWDQ0 https://youtu.be/6uKZ
 
 📺 Louis Rossmann
 
-👁️ 124K • 👍 13K • 💬 2K • ⏱️ 9:39 • 19h ago
+👁️ 124K • 👍 13K • 💬 2K • ⏱️ 9:39 • 20h ago
 
 ---
 
@@ -404,7 +404,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 548,344 • ❤️ 2,386 • 14h ago
+⬇️ 548,344 • ❤️ 2,386 • 15h ago
 
 ---
 
@@ -416,7 +416,7 @@ Bonsai-8B-GGUF is a highly compressed 1-bit language model (1.15 GB) optimized f
 
 `text-generation` `8.2B`
 
-⬇️ 45,185 • ❤️ 457 • 9h ago
+⬇️ 45,185 • ❤️ 457 • 10h ago
 
 ---
 
@@ -661,7 +661,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 13.6k • 🔱 1.2k • 9h ago
+⭐ 13.6k • 🔱 1.2k • 10h ago
 
 ---
 
@@ -671,7 +671,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `Go` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 8.8k • 🔱 1.5k • 2h ago
+⭐ 8.8k • 🔱 1.5k • 3h ago
 
 ---
 
@@ -701,7 +701,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.8k • 🔱 401 • 4h ago
+⭐ 6.8k • 🔱 401 • 5h ago
 
 ---
 
@@ -731,7 +731,7 @@ Autonomous novel writing CLI AI Agent — agents write, audit, and revise novels
 
 `TypeScript` `agent` `ai` `ai-agent` `ai-novel` `ai-writing`
 
-⭐ 3.6k • 🔱 659 • 1h ago
+⭐ 3.6k • 🔱 659 • 2h ago
 
 ---
 
