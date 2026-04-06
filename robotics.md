@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-06T10:09:49.765554+00:00'
+updated: '2026-04-06T11:27:27.882848+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 06, 2026 at 10:09 UTC  
+**Last Updated:** April 06, 2026 at 11:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=1jpHzqQYSXU) • 5h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=1jpHzqQYSXU) • 6h ago
 
 ---
 
 **[Robot dog takes on security duties in Atlanta](https://www.reddit.com/r/robotics/comments/1sd8dlv/robot_dog_takes_on_security_duties_in_atlanta/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -50,19 +50,19 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 For a cosplay competition performance, I came up with the idea of creating a companion. In Elden Ring, there are these living jars, and I think it’s a pretty great option for a cute side character in our cosplay. I want to turn one into a robot that can move quickly, move its arms, and play pre-recorded voice lines. The only problem is: I have no idea how to design the legs so that the robot can actually keep up with us while we walk at a normal pace. Especially since the original model has these awkward “chicken legs” (see photo 2), which really limits the possible options. So far, the only idea I’ve come up with is to put it on something like a wheelchair base. That would make movement much easier to implement, and we could even turn it into a joke as part of the performance. Does anyone have ideas on how to make a robot like this move fast enough to follow people?
 
-21h ago
+23h ago
 
 ---
 
 **[What is the best Free CAD Software?](https://www.reddit.com/r/robotics/comments/1sdk3zw/what_is_the_best_free_cad_software/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Polka: A unified efficient node for your pointcloud pre-processing](https://www.reddit.com/r/robotics/comments/1sdo3ek/polka_a_unified_efficient_node_for_your/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -70,7 +70,7 @@ For a cosplay competition performance, I came up with the idea of creating a com
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/3QHNelilULQ?is=97gu8OZs77oEzJkH) • 11h ago
+🔗 [youtu.be](https://youtu.be/3QHNelilULQ?is=97gu8OZs77oEzJkH) • 12h ago
 
 ---
 
@@ -86,7 +86,7 @@ I was brought in to do some work on a pair of R-2000 Fanuc's a few years back an
 
 Hello all, I am working on impedance control for a robot arm for a task of placing a usb in its socket and I’m a bit stuck on whether using a force/torque sensor is actually worth it. From what I understand, impedance control can be done without a force sensor (using position errors). I am trying to figure out: - When does a force/torque sensor become really necessary with impedance controller? - Does it significantly improve stability/safety, or just performance? - Would admittance control be a better option if I already have a force sensor? Would really appreciate any insight. Thanks in advance.
 
-11h ago
+13h ago
 
 ---
 
@@ -94,7 +94,7 @@ Hello all, I am working on impedance control for a robot arm for a task of placi
 
 I want to show my cambotv1 robot. it is a 3d printed robot that is joystick controlled and has camera footage in c++/python. I use linux input at the moment but soon i will try to use libevdev(evdev wrapper)in c++ so that it is more in sync the python code version
 
-🔗 [youtube.com](https://youtube.com/shorts/-pBvNUXrxUc?si=xDMeBR52YhB-FdkZ) • 13h ago
+🔗 [youtube.com](https://youtube.com/shorts/-pBvNUXrxUc?si=xDMeBR52YhB-FdkZ) • 14h ago
 
 ---
 
@@ -112,29 +112,13 @@ I want to show my cambotv1 robot. it is a 3d printed robot that is joystick cont
 
 Uzbekistan has signed an agreement with South Korea’s ROBOTIS to launch humanoid robot production, marking a major step in its high-tech ambitions. At the same time, students across the country are learning robotics and programming, gaining skills that could prepare them for careers in the emerging
 
-Euronews.com • 20h ago
-
----
-
-**[Prediction: AI Robotics Will Be a $375 Billion Industry and These 2 Stocks Will Lead It](https://www.fool.com/investing/2026/04/04/prediction-ai-robotics-will-be-a-375-billion-indus/)**
-
-Both of these companies are proven trailblazers.
-
-The Motley Fool • 1d ago
+Euronews.com • 22h ago
 
 ---
 
 **[Asimov’s three laws of robotics survived 82 years, we broke them in 30 minutes, costs 80 cents, and then remade them](https://blog.adafruit.com/2026/04/05/asimovs-three-laws-of-robotics-survived-82-years-we-broke-them-in-30-minutes-costs-80-cents-and-then-remade-them/)**
 
-blog.adafruit.com • 17h ago
-
----
-
-**[Week Wraps Aboard Station with Spacesuits, Eye Checks, Robotics, and More](https://www.nasa.gov/blogs/spacestation/2026/04/03/week-wraps-aboard-station-with-spacesuits-eye-checks-robotics-and-more/)**
-
-Spacesuit work and eye checks wrapped up the week for the Expedition 74 crew aboard the International Space Station. The orbital residents also focused on robotics, cargo transfers, and science hardware maintenance at the end of the week.
-
-NASA (.gov) • 2d ago
+Adafruit • 18h ago
 
 ---
 
@@ -146,45 +130,71 @@ NVIDIA Blog • 1d ago
 
 ---
 
+**[Prediction: AI Robotics Will Be a $375 Billion Industry and These 2 Stocks Will Lead It](https://www.fool.com/investing/2026/04/04/prediction-ai-robotics-will-be-a-375-billion-indus/)**
+
+Both of these companies are proven trailblazers.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Indiana researchers study the potential of AI-powered health care](https://www.axios.com/local/indianapolis/2026/04/06/experts-examine-the-potential-of-ai-powered-medical-care-in-indianapolis)**
+
+Axios • 44m ago
+
+---
+
+**[Week Wraps Aboard Station with Spacesuits, Eye Checks, Robotics, and More](https://www.nasa.gov/blogs/spacestation/2026/04/03/week-wraps-aboard-station-with-spacesuits-eye-checks-robotics-and-more/)**
+
+Spacesuit work and eye checks wrapped up the week for the Expedition 74 crew aboard the International Space Station. The orbital residents also focused on robotics, cargo transfers, and science hardware maintenance at the end of the week.
+
+nasa.gov • 2d ago
+
+---
+
 **[In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/)**
 
 Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.
 
-TechCrunch • 20h ago
+TechCrunch • 21h ago
+
+---
+
+**[A Chinese robotics startup with a Tesla Optimus rival is seeking a new chief scientist with an $18 million salary](https://www.businessinsider.com/chinese-robotics-startup-tesla-rival-18-million-salary-chief-scientist-2026-4)**
+
+The race for AI and robotics talent is heating up and getting expensive.
+
+businessinsider.com • 1h ago
 
 ---
 
 **[Resilient actuator shows potential for space-ready soft robots](https://techxplore.com/news/2026-04-resilient-actuator-potential-space-ready.html)**
 
-Tech Xplore • 20h ago
+Tech Xplore • 21h ago
 
 ---
 
-**[Can humans and robots peacefully co-exist? Delivery bot CEOs say people are nicer than you'd think.](https://www.businessinsider.com/delivery-robot-mishaps-screw-ups-videos-coco-serve-starship-2026-4)**
+**[Paola robotics wins prestigious award, earns chance at world title in Houston](https://www.kshb.com/news/local-news/kansas/miami-county/paola-robotics-wins-prestigious-award-earns-chance-at-world-title-in-houston)**
 
-CEOs of the largest delivery robot companies say human interference and vandalism doesn't occur as often as people might think.
+A group of Paola High School students is taking their engineering talents and displaying them on a world stage. The team is currently ranked #1 in the state of Kansas.
 
-Business Insider • 1h ago
-
----
-
-**[AI Body Gap: Why Robots Need "Internal Feelings" to be Safe](https://neurosciencenews.com/internal-embodiment-ai-safety-30457/)**
-
-Why is AI overconfident? A new study explores "internal embodiment," the missing link in AI safety. Researchers explain how a lack of internal "body" states prevents AI from understanding human context and avoiding errors.
-
-Neuroscience News • 1d ago
-
----
-
-**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqdX79uR8S_aA-iJD4UEtlxJ1cruT63fQWx_-CWzFxZIcD5zMxMzIcEb&gaa_ts=69d389d7&gaa_sig=gMpTRmePXjEISO7J4F7usq7DeGL_E8eRUCOXwuNPN0Q-XWlH_1ryzIdkY34WDrXrSUMROjswJ7_LrNudJmt_zw%3D%3D)**
-
-WSJ • 3d ago
+kshb.com • 12h ago
 
 ---
 
 ---
 
 ## YouTube Videos: "robotics"
+
+**[The Moment that Reset Robotics](https://www.youtube.com/watch?v=2mrGMMmrVNE)**
+
+Welch Labs Book: https://www.welchlabs.com/resources/ai-book-ezrzm-msrmc Book & VLA Poster Bundle: ...
+
+📺 Welch Labs
+
+👁️ 68K • 👍 3K • 💬 189 • ⏱️ 35:02 • 1d ago
+
+---
 
 **[Shawn Ryan Tests a Real Humanoid Robot](https://www.youtube.com/watch?v=HWq9cFhTvvQ)**
 
@@ -206,13 +216,11 @@ Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking
 
 ---
 
-**[The Moment that Reset Robotics](https://www.youtube.com/watch?v=2mrGMMmrVNE)**
+**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=Jg0ugvR-NYI)**
 
-Welch Labs Book: https://www.welchlabs.com/resources/ai-book-ezrzm-msrmc Book & VLA Poster Bundle: ...
+📺 zhulongfeng 6
 
-📺 Welch Labs
-
-👁️ 67K • 👍 3K • 💬 185 • ⏱️ 35:02 • 1d ago
+👁️ 12K • 👍 69 • ⏱️ 0:21 • 10h ago
 
 ---
 
@@ -222,35 +230,37 @@ Brett Adcock is a technology entrepreneur focused on building companies in robot
 
 📺 Shawn Ryan Show
 
-👁️ 521K • 👍 11K • 💬 3K • ⏱️ 2:57:09 • 6d ago
+👁️ 522K • 👍 11K • 💬 3K • ⏱️ 2:57:09 • 6d ago
 
 ---
 
-**[This Robot&#39;s Skin Can Actually Feel Touch #robotics #robot #innovation #engineering](https://www.youtube.com/watch?v=k9tj5kb3rHI)**
+**[PACMAN AND ROBOT PACMAN VS MONSTER ROBOTS BEST ADVENTURES IN 2024 live edition](https://www.youtube.com/watch?v=D5tTvI7QFb8)**
 
-The Chinese company JQ Industries has developed a fabric-based electronic skin, or e-skin, using plant-derived materials to ...
+THANK YOU SO MUCH for watching S3dV's Pacman!!! Music & Sound: Epidemic Sound I have a licence: ...
 
-📺 Kalil 4.0
+📺 S3dV
 
-👁️ 932 • 👍 48 • 💬 4 • ⏱️ 0:51 • 11h ago
-
----
-
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=KJ0Ka8OICPE)**
-
-📺 Robot Julie 
-
-👁️ 4K • 👍 36 • ⏱️ 0:21 • 9h ago
+👁️ 4K • 👍 6 • 3h ago
 
 ---
 
-**[China unveils gun-wielding robot wolf pack that thinks with shared brain](https://www.youtube.com/watch?v=X9eoHMmiXFM)**
+**[Essential Things to Know Before Buying a Robot Mower!](https://www.youtube.com/watch?v=lbibuVIo84Y)**
 
-The Chinese military have unveiled a lethal robot wolf pack capable of carrying machine guns and grenade launchers.
+The era of the Robot Mower is here and after 6 months of intensive use I feel I am now in a position to update everyone on both ...
 
-📺 The Sun
+📺 Proper DIY
 
-👁️ 30K • 👍 295 • 💬 217 • ⏱️ 1:00 • 6d ago
+👁️ 24K • 👍 2K • 💬 107 • ⏱️ 11:47 • 1d ago
+
+---
+
+**[Such an UNFAIR Build in War Robots…](https://www.youtube.com/watch?v=5lMK2yFLLoM)**
+
+War Robots Gameplay: Anaksor with Kroko weapons is quite unfair! My War Robots Creator Link: https://wr.my.games/manni ...
+
+📺 Manni-Gaming
+
+👁️ 9K • 👍 404 • 💬 83 • ⏱️ 13:35 • 23h ago
 
 ---
 
@@ -264,21 +274,13 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCkouj
 
 ---
 
-**[Don&#39;t Waste Money On An Expensive Robot Vacuum!](https://www.youtube.com/watch?v=sMt_jOouNeM)**
+**[Live Robot Fighting: Round 3 of NHRL&#39;s KO Show (April 4th)](https://www.youtube.com/watch?v=UODQ1UG790U)**
 
-A flagship robot vacuum might be out your budget. We tested the affordable Dreame D30 Ultra. ✔️ Buy it on Amazon ...
+Round 3 of The 2026 NHRL Pro World Championship kicks off NOW! The path to crown a champion starts now. Who will take ...
 
-📺 Vacuum Nerds
+📺 NHRL
 
-👁️ 4K • 👍 62 • 💬 25 • ⏱️ 8:48 • 1d ago
-
----
-
-**[Auto Deodorant dispenser progress #diy #artificialintelligence #engineering #robotics #disability](https://www.youtube.com/watch?v=JuzaKB0lx6k)**
-
-📺 Yard Mon Robotics
-
-👁️ 1K • 👍 42 • 💬 5 • ⏱️ 0:47 • 1d ago
+👁️ 19K • 👍 354 • 💬 5 • ⏱️ 4:56:01 • 1d ago
 
 ---
 
