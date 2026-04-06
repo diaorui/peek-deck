@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-06T13:52:08.974196+00:00'
+updated: '2026-04-06T14:49:11.396780+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - videos
+- repositories
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 06, 2026 at 13:52 UTC  
+**Last Updated:** April 06, 2026 at 14:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I want to be honest about something that happened to me because I think it is more common than people admit. Last month I hit a bug in a service I wrote myself two years ago. Network timeout issue, intermittent, only in prod. The kind of thing I used to be able to sit with for an hour and work through methodically. I opened Claude, described the symptom, got a hypothesis, followed it, hit a dead end, fed that back, got another hypothesis. Forty minutes later I had not found the bug. I had just been following suggestions. At some point I closed the chat and tried to work through it myself. And I realized I had forgotten how to just sit with a problem. My instinct was to describe it to something else and wait for a direction. The internal monologue that used to generate hypotheses, that voice that says maybe check the connection pool, maybe it is a timeout on the load balancer side, maybe there is a retry storm. That voice was quieter than it used to be. I found the bug eventually. It took me longer without AI than it would have taken me three years ago without AI. I am not saying the tools are bad. I use them every day and they make me faster on most things. But there is something specific happening to the part of the brain that generates hypotheses under uncertainty. That muscle atrophies if you do not use it. The analogy I keep coming back to is GPS. You can navigate anywhere with GPS. But if you use it for five years and then lose signal, you do not just lack information. You lack the mental map that you would have built if you had been navigating manually. The skill and the mental model degrade together. I am 11 years into this career. I started noticing this in myself. I wonder how it looks for someone who started using AI tools in their first year. Has anyone else noticed this? Not the productivity gains, we all know those. The quieter thing underneath.
 
-16h ago
+17h ago
 
 ---
 
@@ -49,7 +49,7 @@ I want to be honest about something that happened to me because I think it is mo
 
 A company in eastern China is using an artificial intelligence-powered machine to sort clothes and boost recycling.
 
-🔗 [AP News](https://apnews.com/article/china-recycling-textiles-artificial-intelligence-863551cc54e88da6a7916894cb8980c4) • 2h ago
+🔗 [AP News](https://apnews.com/article/china-recycling-textiles-artificial-intelligence-863551cc54e88da6a7916894cb8980c4) • 3h ago
 
 ---
 
@@ -57,7 +57,7 @@ A company in eastern China is using an artificial intelligence-powered machine t
 
 I’ve been tracking the companies building primitives specifically for agents rather than humans. The pattern is becoming obvious: every capability a human employee takes for granted is getting rebuilt as an API. Here are some of the companies building for AI agents: AgentMail — agents can have email accounts AgentPhone — agents can have phone numbers Kapso — agents can have WhatsApp numbers Daytona / E2B — agents can have their own computers monid.ai — agents can read social media (X, TikTok, Reddit, LinkedIn, Amazon, Facebook) Browserbase / Browser Use / Hyperbrowser — agents can use web browsers Firecrawl — agents can crawl the web without a browser Mem0 — agents can remember things Kite / Sponge — agents can pay for things Composio — agents can use your SaaS tools Orthogonal — agents can access APIs more easily ElevenLabs / Vapi — agents can have a voice Sixtyfour — agents can search for people and companies Exa — agents can search the web (Google isn’t built for agents) What’s interesting is how quickly this came together. Not long ago, none of this really existed in a usable form. Now you can piece together an agent with identity, memory, communication, and spending in a single afternoon. Feels less like “AI tools” and more like the early version of an agent-native infrastructure stack. Curious if anyone here is actually building on top of this. What are you using? Also probably missing a bunch - drop anything I should add and I’ll keep this updated.
 
-14h ago
+15h ago
 
 ---
 
@@ -65,7 +65,7 @@ I’ve been tracking the companies building primitives specifically for agents r
 
 Everyone thinks McKinsey just built 25,000 AI experts. They didn't. They took a 35-year-old internal database, put a natural language interface on top, and wrote a press release that every major business publication ran without asking a single follow-up question. This is the same play McKinsey has run for a hundred years. ERP in the 90s. Digital transformation in the 2000s. Big data in the 2010s. Each wave the same: new technology creates executive anxiety, McKinsey positions itself between that anxiety and the answer, and companies buy the trend to protect themselves when it fails. The future looks a lot like the past. And once you see it, you can't unsee it. https://www.youtube.com/watch?v=uTdKJaQkgJQ
 
-20h ago
+21h ago
 
 ---
 
@@ -73,7 +73,7 @@ Everyone thinks McKinsey just built 25,000 AI experts. They didn't. They took a 
 
 What it does: You give it any input — a blog URL, a YouTube video, raw text, or just a topic — and it generates optimized posts for 9 platforms at once: Instagram, Twitter/X, LinkedIn, Facebook, TikTok, Reddit, Pinterest, Twitter threads, and email newsletters. Each output is tailored to the platform (hashtags for IG, hooks for TikTok, professional tone for LinkedIn, etc.). It also auto-generates images for visual platforms like Instagram, Facebook, and Pinterest,using AI. Other features: - Topic Research — scans Google, Reddit, YouTube, and news sources, then uses an LLM to identify trending subtopics before generating content - Auto-Discover — if you don't even have a topic, it searches what's trending right now (optionally filtered by niche) and picks the hottest one - Cinematic Ad — upload any photo, pick a style (cinematic, luxury, neon, retro, minimal, natural), and Gemini transforms it into a professional-looking ad - Multi-LLM support — works with Mistral, Groq, OpenAI, Anthropic, and Gemini - History — every generation is saved, exportable as CSV The n8n automation (this is where it gets fun): I connected the whole thing to an n8n workflow so it runs on autopilot: 1. Schedule Trigger — fires daily (or whatever frequency) 2. Google Sheets — reads a row with a topic (or "auto" to let AI pick a trending topic) 3. HTTP Request — hits my /api/auto-generate endpoint, which auto-detects the input type (URL, YouTube link, topic, or "auto") and generates everything 4. Code node — parses the response and extracts each platform's content 5. Google Drive — uploads generated images 6. Update Sheets — marks the row as done with status and links The API handles niche filtering too — so if my sheet says the topic is "auto" and the niche column says "AI", it'll specifically find trending AI topics instead of random viral stuff. Error handling: HTTP Request has retry on fail (2 retries), error outputs route to a separate branch that marks the sheet row as "failed" with the error message, and a global error workflow emails me if anything breaks. Tech stack: - FastAPI backend, vanilla JS frontend - Hosted on Railway - Google Gemini for image generation and cinematic ads - HuggingFace FLUX.1 for platform images - SerpAPI + Reddit + YouTube + NewsAPI for research - SQLite for history - n8n for workflow automation It's not perfect yet — rate limits on free tiers are real — but it's been saving me hours every week. Happy to answer questions. https://preview.redd.it/f8d3ogk3nktg1.png?width=888&format=png&auto=webp&s=dcd3d5e90facd54314f40e799b32cab979dae4bf https://preview.redd.it/j8zl07llmktg1.png?width=946&format=png&auto=webp&s=5c78c12a223d6357cccaed59371e97d5fe4787f5 https://preview.redd.it/5cjas6hkmktg1.png?width=891&format=png&auto=webp&s=288c6964061f531af63fb9717652bececfb63072 https://preview.redd.it/k7e89belmktg1.png?width=1057&format=png&auto=webp&s=8b6cb15cfa267d90a697ba03aed848166976d921 https://preview.redd.it/3w3l70tlmktg1.png?width=1794&format=png&auto=webp&s=6de10434f588b1bf16ae02f542afd770eaa23c3f https://preview.redd.it/a40rh1canktg1.png?width=1920&format=png&auto=webp&s=1d2414c7e653a5f01f12a21a43e69bd4fb4b99ed
 
-24m ago
+1h ago
 
 ---
 
@@ -81,7 +81,7 @@ What it does: You give it any input — a blog URL, a YouTube video, raw text, o
 
 Hello! I tend to use it often and I find it to have valid information when it comes to linguistic or computer related summaries, though it does require a play of words at times. I’m wondering what this Google search AI is good at, what it’s bad at, your opinions on it (especially for learning various topics or getting information, any subject you think it’s good or bad at). What are your opinions for using it for political information? How are your best practices in verifying the validity of the information?? Literally, anything you have to say about it, yap about it in the comments. I use it all the time and it’s the only AI I use explicitly (usually after making a google search and it showing up at the top of my screen every time), besides some of the advanced (non image creation AI) AI parts of Photoshop, such as removing backgrounds. Or any better alternatives out there, or opinions on other AI platforms (free ones mostly), thanks!
 
-5h ago
+6h ago
 
 ---
 
@@ -89,7 +89,7 @@ Hello! I tend to use it often and I find it to have valid information when it co
 
 If you got a student edu email, these official promos will expire soon.
 
-5m ago
+1h ago
 
 ---
 
@@ -97,7 +97,7 @@ If you got a student edu email, these official promos will expire soon.
 
 Physical AI is emerging as one of the next major industrial battlegrounds, with Japan’s push driven more by necessity than anything else. With workforces shrinking and pressure mounting to sustain productivity, companies are increasingly deploying AI-powered robots across factories, warehouses, and critical infrastructure.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/) • 1h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/) • 2h ago
 
 ---
 
@@ -105,7 +105,7 @@ Physical AI is emerging as one of the next major industrial battlegrounds, with 
 
 there's this network that launched recently routing crypto mining hardware toward AI training workloads. miners seem happy with the economics but that's not what i care about my question: is the AI output actually useful? running hardware is easy, producing valuable compute is hard. saw they had some audit confirming high throughput but throughput alone doesn't tell you about quality nobody independent has verified the training output yet afaik. that's the gap that matters. has anyone here looked at how you'd even verify something like that? seems like you'd need to compare against known benchmarks or something
 
-2h ago
+3h ago
 
 ---
 
@@ -113,7 +113,7 @@ there's this network that launched recently routing crypto mining hardware towar
 
 Working on my README.md to make it more accessiable and understood without make it to long. still working through it. project is still under development also. getting closer every day. feedback is much appreciated, Its my first public repo. https://github.com/AIOSAI/AIPass/blob/main/README.md
 
-7h ago
+8h ago
 
 ---
 
@@ -123,7 +123,7 @@ Working on my README.md to make it more accessiable and understood without make 
 
 **[Brands Adopt ‘No AI’ Disclaimers to Stand Out Amid the Slop](https://www.wsj.com/cmo-today/brands-adopt-no-ai-disclaimers-to-stand-out-amid-the-slop-a92352af?gaa_at=eafs&gaa_n=AWEtsqf73YLP1YIQwow0eGXfZFs__pSGP_CyByS5GIY46m0oJnlqKVbtdWNb&gaa_ts=69d3bdec&gaa_sig=-VbdPnpjJMGkijg7aaW6cD7mDrFbh78moz4vEsH-AlDWkjB-QmojsY6nZi4ph-_v9d00EWE7_xNEDaTtt6Xy3g%3D%3D)**
 
-WSJ • 3h ago
+WSJ • 4h ago
 
 ---
 
@@ -131,7 +131,7 @@ WSJ • 3h ago
 
 Chinese satellite images enhanced by artificial intelligence could help Iran target US and allied forces to within a third of a square metre, military analysts say.
 
-Australian Broadcasting Corporation • 5h ago
+Australian Broadcasting Corporation • 6h ago
 
 ---
 
@@ -139,7 +139,7 @@ Australian Broadcasting Corporation • 5h ago
 
 Building Global Momentum Ahead of Upcoming XRP Tokyo Event PHILADELPHIA, PA / ACCESS Newswire / April 6, 2026 / Datavault AI Inc. ("Datavault AI"…...
 
-Datavault AI • 33m ago
+Datavault AI • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ Datavault AI • 33m ago
 
 Banks and payments companies have spent the past few years embedding artificial intelligence into their core operations. They’ve been running fraud
 
-PYMNTS.com • 23m ago
+PYMNTS.com • 1h ago
 
 ---
 
@@ -155,19 +155,19 @@ PYMNTS.com • 23m ago
 
 Teradyne’s robust growth is fueled by partnerships with TSM and exposure to AI networking, compute, and memory chips. Learn more on TER stock here.
 
-Seeking Alpha • 21m ago
+Seeking Alpha • 1h ago
 
 ---
 
 **[Forget the A.I. Apocalypse. Memes Have Already Nuked Our Culture.](https://www.nytimes.com/2026/04/06/magazine/ai-apocalypse-brain-rot-memes.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
 **[Behind the Curtain: Sam's superintelligence New Deal](https://www.axios.com/2026/04/06/behind-the-curtain-sams-superintelligence-new-deal)**
 
-Axios • 4h ago
+Axios • 5h ago
 
 ---
 
@@ -175,7 +175,7 @@ Axios • 4h ago
 
 The AI agent sparked a frenzy of "raising lobsters" in March, with users training the tool to suit their needs.
 
-BBC • 15h ago
+BBC • 16h ago
 
 ---
 
@@ -183,7 +183,7 @@ BBC • 15h ago
 
 JPMorgan CEO Jamie Dimon in his annual letter to shareholders noted the country's 250th anniversary and called for a broad recommitment to American ideals.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -191,7 +191,7 @@ CNBC • 3h ago
 
 Iran's Islamic Revolutionary Guard Corps spokesperson released a video on April 3 threatening "complete and utter annihilation" of U.S. and Israeli facilities, naming the planned $30B Stargate AI data center in Abu Dhabi as a potential target.
 
-Seeking Alpha • 3h ago
+Seeking Alpha • 4h ago
 
 ---
 
@@ -214,7 +214,7 @@ I’ll do this while contextualizing the project and my background so you can in
 
 On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro. - fikrikarim/parlor
 
-⬆️ 161 • 💬 13 • 19h ago • [GitHub](https://github.com/fikrikarim/parlor)
+⬆️ 161 • 💬 13 • 20h ago • [GitHub](https://github.com/fikrikarim/parlor)
 
 ---
 
@@ -232,7 +232,7 @@ deployment pattern...
 
 **[Musician says AI company is cloning her music, filing claims against her](https://news.ycombinator.com/item?id=47653471)**
 
-⬆️ 114 • 💬 19 • 17h ago • [X (formerly Twitter)](https://twitter.com/unlimited_ls/status/2040577536136974444)
+⬆️ 114 • 💬 19 • 18h ago • [X (formerly Twitter)](https://twitter.com/unlimited_ls/status/2040577536136974444)
 
 ---
 
@@ -240,7 +240,7 @@ deployment pattern...
 
 Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine. - kessler/gemma-gem
 
-⬆️ 108 • 💬 17 • 13h ago • [GitHub](https://github.com/kessler/gemma-gem)
+⬆️ 108 • 💬 17 • 14h ago • [GitHub](https://github.com/kessler/gemma-gem)
 
 ---
 
@@ -290,7 +290,7 @@ The world wasn't ready for what 2026 had in store — a wave of humanoid robots 
 
 📺 The AI Nexus
 
-👁️ 3K • 👍 147 • 💬 5 • ⏱️ 16:42 • 14h ago
+👁️ 3K • 👍 147 • 💬 5 • ⏱️ 16:42 • 15h ago
 
 ---
 
@@ -300,7 +300,7 @@ You're absolutely right, jail does sound pretty awful! https://x.com/atmoio/stat
 
 📺 Mo Bitar
 
-👁️ 15K • 👍 2K • 💬 384 • ⏱️ 5:39 • 2h ago
+👁️ 15K • 👍 2K • 💬 384 • ⏱️ 5:39 • 3h ago
 
 ---
 
@@ -320,7 +320,7 @@ garbage video: https://www.youtube.com/watch?v=huXOoaPWDQ0 https://youtu.be/6uKZ
 
 📺 Louis Rossmann
 
-👁️ 106K • 👍 12K • 💬 2K • ⏱️ 9:39 • 16h ago
+👁️ 106K • 👍 12K • 💬 2K • ⏱️ 9:39 • 17h ago
 
 ---
 
@@ -350,7 +350,7 @@ Trolling & Rizzing The Cutest Girls ON OMEGLE. Live Stream: https://kick.com/jer
 
 📺 JerqoBeats
 
-👁️ 8K • 👍 521 • 💬 30 • ⏱️ 19:06 • 15h ago
+👁️ 8K • 👍 521 • 💬 30 • ⏱️ 19:06 • 16h ago
 
 ---
 
@@ -406,7 +406,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 548,344 • ❤️ 2,377 • 11h ago
+⬇️ 548,344 • ❤️ 2,377 • 12h ago
 
 ---
 
@@ -418,7 +418,7 @@ Bonsai-8B-GGUF is a highly compressed 1-bit language model (1.15 GB) optimized f
 
 `text-generation` `8.2B`
 
-⬇️ 45,185 • ❤️ 450 • 6h ago
+⬇️ 45,185 • ❤️ 450 • 7h ago
 
 ---
 
@@ -663,7 +663,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 13.6k • 🔱 1.2k • 6h ago
+⭐ 13.6k • 🔱 1.2k • 7h ago
 
 ---
 
@@ -693,7 +693,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `Go` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 7.6k • 🔱 1.3k • 6h ago
+⭐ 7.6k • 🔱 1.3k • 7h ago
 
 ---
 
@@ -703,7 +703,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.8k • 🔱 402 • 1h ago
+⭐ 6.8k • 🔱 402 • 2h ago
 
 ---
 

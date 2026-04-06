@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-06T13:52:08.989593+00:00'
+updated: '2026-04-06T14:49:11.409203+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 06, 2026 at 13:52 UTC  
+**Last Updated:** April 06, 2026 at 14:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=1jpHzqQYSXU) • 9h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=1jpHzqQYSXU) • 10h ago
 
 ---
 
 **[Robot dog takes on security duties in Atlanta](https://www.reddit.com/r/robotics/comments/1sd8dlv/robot_dog_takes_on_security_duties_in_atlanta/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -50,7 +50,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/_NVhD5L7K5k) • 5m ago
+🔗 [youtu.be](https://youtu.be/_NVhD5L7K5k) • 1h ago
 
 ---
 
@@ -64,13 +64,13 @@ For a cosplay competition performance, I came up with the idea of creating a com
 
 **[What is the best Free CAD Software?](https://www.reddit.com/r/robotics/comments/1sdk3zw/what_is_the_best_free_cad_software/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Polka: A unified efficient node for your pointcloud pre-processing](https://www.reddit.com/r/robotics/comments/1sdo3ek/polka_a_unified_efficient_node_for_your/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -78,7 +78,7 @@ For a cosplay competition performance, I came up with the idea of creating a com
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/3QHNelilULQ?is=97gu8OZs77oEzJkH) • 15h ago
+🔗 [youtu.be](https://youtu.be/3QHNelilULQ?is=97gu8OZs77oEzJkH) • 16h ago
 
 ---
 
@@ -86,7 +86,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Hello all, I am working on impedance control for a robot arm for a task of placing a usb in its socket and I’m a bit stuck on whether using a force/torque sensor is actually worth it. From what I understand, impedance control can be done without a force sensor (using position errors). I am trying to figure out: - When does a force/torque sensor become really necessary with impedance controller? - Does it significantly improve stability/safety, or just performance? - Would admittance control be a better option if I already have a force sensor? Would really appreciate any insight. Thanks in advance.
 
-15h ago
+16h ago
 
 ---
 
@@ -102,7 +102,7 @@ I was brought in to do some work on a pair of R-2000 Fanuc's a few years back an
 
 I want to show my cambotv1 robot. it is a 3d printed robot that is joystick controlled and has camera footage in c++/python. I use linux input at the moment but soon i will try to use libevdev(evdev wrapper)in c++ so that it is more in sync the python code version
 
-🔗 [youtube.com](https://youtube.com/shorts/-pBvNUXrxUc?si=xDMeBR52YhB-FdkZ) • 16h ago
+🔗 [youtube.com](https://youtube.com/shorts/-pBvNUXrxUc?si=xDMeBR52YhB-FdkZ) • 17h ago
 
 ---
 
@@ -128,13 +128,13 @@ Euronews.com • 1d ago
 
 **[Indiana researchers study the potential of AI-powered health care](https://www.axios.com/local/indianapolis/2026/04/06/experts-examine-the-potential-of-ai-powered-medical-care-in-indianapolis)**
 
-Axios • 3h ago
+Axios • 4h ago
 
 ---
 
 **[Asimov’s three laws of robotics survived 82 years, we broke them in 30 minutes, costs 80 cents, and then remade them](https://blog.adafruit.com/2026/04/05/asimovs-three-laws-of-robotics-survived-82-years-we-broke-them-in-30-minutes-costs-80-cents-and-then-remade-them/)**
 
-Adafruit • 20h ago
+Adafruit • 21h ago
 
 ---
 
@@ -150,7 +150,7 @@ NASA (.gov) • 2d ago
 
 Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.
 
-TechCrunch • 23h ago
+TechCrunch • 1d ago
 
 ---
 
@@ -158,7 +158,7 @@ TechCrunch • 23h ago
 
 The race for AI and robotics talent is heating up and getting expensive.
 
-Business Insider • 3h ago
+Business Insider • 4h ago
 
 ---
 
@@ -166,7 +166,7 @@ Business Insider • 3h ago
 
 A group of Paola High School students is taking their engineering talents and displaying them on a world stage. The team is currently ranked #1 in the state of Kansas.
 
-KSHB 41 Kansas City • 14h ago
+KSHB 41 Kansas City • 15h ago
 
 ---
 
@@ -182,7 +182,7 @@ NVIDIA Blog • 1d ago
 
 Teradyne’s robust growth is fueled by partnerships with TSM and exposure to AI networking, compute, and memory chips. Learn more on TER stock here.
 
-Seeking Alpha • 21m ago
+Seeking Alpha • 1h ago
 
 ---
 
@@ -196,7 +196,7 @@ The world wasn't ready for what 2026 had in store — a wave of humanoid robots 
 
 📺 The AI Nexus
 
-👁️ 3K • 👍 147 • 💬 5 • ⏱️ 16:42 • 14h ago
+👁️ 3K • 👍 147 • 💬 5 • ⏱️ 16:42 • 15h ago
 
 ---
 
@@ -234,7 +234,7 @@ The era of the Robot Mower is here and after 6 months of intensive use I feel I 
 
 📺 zhulongfeng 6
 
-👁️ 26K • 👍 69 • ⏱️ 0:21 • 13h ago
+👁️ 26K • 👍 69 • ⏱️ 0:21 • 14h ago
 
 ---
 
@@ -262,7 +262,7 @@ Brett Adcock is a technology entrepreneur focused on building companies in robot
 
 📺 Robot Julie 
 
-👁️ 19K • 👍 42 • ⏱️ 0:21 • 13h ago
+👁️ 19K • 👍 42 • ⏱️ 0:21 • 14h ago
 
 ---
 
@@ -272,7 +272,7 @@ THANK YOU SO MUCH for watching S3dV's Pacman!!! Music & Sound: Epidemic Sound I 
 
 📺 S3dV
 
-👁️ 9K • 👍 14 • 5h ago
+👁️ 9K • 👍 14 • 6h ago
 
 ---
 
