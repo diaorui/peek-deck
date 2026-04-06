@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-06T22:00:25.086816+00:00'
+updated: '2026-04-06T22:49:44.958340+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 06, 2026 at 22:00 UTC  
+**Last Updated:** April 06, 2026 at 22:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -88,13 +88,13 @@ Most of my coins are on a Ledger. I've only ever held, never swapped from cold s
 
 A simple question for the community. I was recently asked for me public key (to my metamask wallet) I know that Bitcoin public keys should still be treated with some care as they disclose all transactions to that address in any blockchain explorer Is this the same with Ethereum?
 
-1h ago
+2h ago
 
 ---
 
 **[ZK-powered order book DEXs are quietly becoming the most interesting sector in DeFi. Is anyone else paying attention?](https://www.reddit.com/r/ethereum/comments/1sdxks3/zkpowered_order_book_dexs_are_quietly_becoming/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -102,13 +102,13 @@ A simple question for the community. I was recently asked for me public key (to 
 
 Hi, I used to work as a technical full-stack developer and recently I spent some time investigating this thing everyone's talking about "Quantum computing destroying encryption". Well, there are many remedies already available: Example 1 - for not technical people: https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards Example 2 - for technical people: https://github.com/open-quantum-safe/oqs-provider Most companies / IT projects are not prioritising it only because quantum computing threads might be decades away, and businesses don't execute investments on security unless there is a true threat. That's why your email providers, messaging apps, etc. don't have post-quantum standards implemented (such as: ml-dsa, ml-kem, slh-dsa). Yes. It is more complicated to secure decentralized Crypto than a website, but - anyway most of us use platforms like CoinBase, Kraken, Binance, .. and those holding crypto in one-single physical wallet - are not really the targets here. Anyhow, please, I hope my post helps some of you to be a bit calmer about this topic. I am definitely calmer after my research. Let's not cause panic sell-off. Have a great day everyone!
 
-4h ago
+5h ago
 
 ---
 
 **[Trending Markets just dropped on PolyApex — Trade Markets and Copy Trade Polymarket predictions](https://www.reddit.com/r/ethereum/comments/1se3m2z/trending_markets_just_dropped_on_polyapex_trade/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -116,7 +116,7 @@ Hi, I used to work as a technical full-stack developer and recently I spent some
 
 The true bottleneck in Ethereum dApp architecture isn't just on-chain gas, it's the off-chain infrastructure required to read the state. When protocols are designed without considering how data is indexed, they force massive hardware and cost requirements onto the ecosystem. The Blind Spot of Internal Transfers: Standard contract-to-contract ETH transfers (call{value: x}()) don't emit logs. Because they bypass block bloom filters, standard node queries like eth_getLogs miss them entirely. Trade-off: To index these reliably without protocol-level changes, you are forced into EVM tracing (debug_traceTransaction). This is incredibly I/O heavy, essentially requiring dedicated archive nodes or premium RPC tiers. Emitting custom on-chain events for internal transfers is a critical architectural pattern if you develop your own protocol that you want to monitor, it shifts the burden away from expensive execution traces and local state simulations, saving infrastructure operators massive overhead. Infrastructure Resilience vs. WebSockets: For low-latency dApps, eth_subscribe over WebSockets is the standard. However, long-lived WS connections are notoriously flaky and silently drop packets, leading to degraded, out-of-sync frontends. Architecture standard: A resilient Ethereum stack requires a hybrid model. Maintain the WS connection for real-time mempool and head-of-chain detection, but always run a background worker polling eth_getLogs with a sliding block window to patch missed events during WS reconnects. JSON-RPC Network Overhead: Spamming nodes with individual read requests congests RPCs. MulticallV3 batching is mandatory for minimizing network round trips. Trade-off: When wrapping complex calls, using tryAggregate handles partial successes gracefully. However, it significantly increases EVM execution cost due to internal CALL overhead and memory expansion when capturing return data you might discard. If your batch loop is too large, you will hit the strict execution timeouts or global eth_call gas caps enforced by commercial RPCs, causing the node to drop the entire request. Source/Full Breakdown:https://andreyobruchkov1996.substack.com/p/ethereum-dev-hacks-catching-hidden-transfers-real-time-events-and-multicalls-bef7435b9397
 
-22h ago
+23h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Motley Fool • 2d ago
 
 Ethereum is going to $40,000, Standard Chartered Global Head of Digital Assets Research Geoffrey Kendrick says. He said on an episode of the "Milk Road Macro" podcast released on March 24 that Ethereum will reach the price target by 2030,...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 1h ago
 
 Ethereum Name Service published ENSv2 Alpha Log #4 on April 6th. The update includes improvements to profile loading, accessibility, search, wallet state, and several other fixes across the ENS App and ENS Explorer on Sepolia. Refer to the official tweet by ENS: ENSv2 Alpha Log #4.This week, our te…
 
-tradingview.com • 2h ago
+tradingview.com • 3h ago
 
 ---
 
@@ -184,7 +184,7 @@ tradingview.com • 2h ago
 
 Ethereum has reclaimed $2,100. The level is back. The market that produced the recovery is thinner than it has been all year — and that changes what the recovery means.A CryptoQuant report tracking Ethereum’s liquidity structure on Binance has identified a condition that sits directly beneath the p…
 
-tradingview.com • 59m ago
+tradingview.com • 1h ago
 
 ---
 
@@ -198,7 +198,7 @@ Polymarket • 19h ago
 
 **[BitMine Highlights Massive Ethereum Treasury and NYSE Uplisting](https://www.tipranks.com/news/company-announcements/bitmine-highlights-massive-ethereum-treasury-and-nyse-uplisting)**
 
-TipRanks • 8h ago
+TipRanks • 9h ago
 
 ---
 
@@ -214,7 +214,7 @@ Decrypt • 3d ago
 
 EHCC aims to provide shareholders weekly distributions, acting as a potential mitigator of price volatility for those seeking digital asset exposure.
 
-Seeking Alpha • 6h ago
+Seeking Alpha • 7h ago
 
 ---
 
@@ -222,7 +222,7 @@ Seeking Alpha • 6h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 9h ago
 
 ---
 
@@ -236,7 +236,7 @@ This is huge for crypto, bitcoin, ethereum and the rest of the markets!!!!! ----
 
 📺 Thomas Kralow
 
-👁️ 16K • 👍 3K • 💬 34 • ⏱️ 9:21 • 10h ago
+👁️ 16K • 👍 3K • 💬 34 • ⏱️ 9:21 • 11h ago
 
 ---
 
@@ -246,7 +246,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 2K • 👍 201 • 💬 40 • ⏱️ 11:38 • 5h ago
+👁️ 2K • 👍 201 • 💬 40 • ⏱️ 11:38 • 6h ago
 
 ---
 
@@ -266,7 +266,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 173 • 💬 10 • ⏱️ 13:46 • 5h ago
+👁️ 2K • 👍 173 • 💬 10 • ⏱️ 13:46 • 6h ago
 
 ---
 
@@ -276,7 +276,7 @@ Can you actually get free Ethereum in 2026, or is it all just hype? I decided to
 
 📺 Hitch Insights
 
-👁️ 317 • 👍 621 • 💬 436 • ⏱️ 6:14 • 2h ago
+👁️ 317 • 👍 621 • 💬 436 • ⏱️ 6:14 • 3h ago
 
 ---
 
@@ -306,7 +306,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 374 • 👍 33 • ⏱️ 4:45 • 11h ago
+👁️ 374 • 👍 33 • ⏱️ 4:45 • 12h ago
 
 ---
 
@@ -326,7 +326,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 115 • 👍 5 • 💬 1 • ⏱️ 4:28 • 4h ago
+👁️ 115 • 👍 5 • 💬 1 • ⏱️ 4:28 • 5h ago
 
 ---
 

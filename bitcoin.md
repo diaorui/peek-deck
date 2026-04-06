@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-06T22:00:25.080819+00:00'
+updated: '2026-04-06T22:49:44.951981+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 06, 2026 at 22:00 UTC  
+**Last Updated:** April 06, 2026 at 22:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,13 +87,13 @@ Rank #1
 
 I just know it. So I won't buy just so the rest of you can make some money.
 
-1h ago
+2h ago
 
 ---
 
 **[Men only have two moods:](https://www.reddit.com/r/Bitcoin/comments/1sdz0lp/men_only_have_two_moods/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -101,7 +101,7 @@ I just know it. So I won't buy just so the rest of you can make some money.
 
 While the world continues to trust systems that fail time and time again, a new alternative has emerged silent, unstoppable, and incorruptible. Bitcoin is not just technology. It’s not just money. It’s freedom. For the first time in history, a generation has the opportunity to truly own its wealth without intermediaries, without permission, without manipulation. We grew up watching crises unfold, inflation erode the value of our efforts, and rules change in the middle of the game. But now… we have a choice. Bitcoin is more than an asset, it’s a statement. A rejection of centralized control. A step toward individual sovereignty. There may be volatility. There may be doubts. But one thing is certain: The world is changing and Bitcoin is leading that change. Don’t trust, verify. 🧡
 
-7h ago
+8h ago
 
 ---
 
@@ -109,7 +109,7 @@ While the world continues to trust systems that fail time and time again, a new 
 
 Sadly, most of the hard working people still have no idea how the printer keeps stealing their money.
 
-9h ago
+10h ago
 
 ---
 
@@ -117,7 +117,7 @@ Sadly, most of the hard working people still have no idea how the printer keeps 
 
 Bitcoing is extremely volatile, having thoroughly tanked this year. And yet it is still your best long term store of value play. BTC value vs. Tradfi 2020-2026 Despite the 4-year peak trough cycles, BTC still MASSIVELY outperforms TradFi. And what does that mean to you? LONG TERM Store of Value: Median US home price 2020-2026 One day you'll buy a home with a fraction of your BTC. In fact, you'll easily collateralize your BTC to back the loan - no cap gains tax, lower rates. BTC may not be "money" (currency) yet, but it is a store of value particularly against fiat currencies, as these two charts quickly demonstrate. What are you doing relative to BTC, running for the hills? I'm dollar cost averaging.
 
-3h ago
+4h ago
 
 ---
 
@@ -125,7 +125,7 @@ Bitcoing is extremely volatile, having thoroughly tanked this year. And yet it i
 
 Curious how it started for all of us.
 
-3h ago
+4h ago
 
 ---
 
@@ -133,7 +133,7 @@ Curious how it started for all of us.
 
 There’s a post near the top of this sub right now where someone sent Bitcoin to their Trezor and the wallet showed empty. They panicked. Turns out their Bitcoin wasn’t gone — it was in their passphrase wallet. They hadn’t known they created one. That’s the most common failure pattern in hardware wallet support forums, and it almost never gets explained at setup. Here’s what’s actually happening and three other traps that catch people the same way. The passphrase trap When you set up a Trezor using Trezor Suite, the passphrase feature is on by default. A passphrase — sometimes called the 25th word — creates a completely separate wallet derived from your seed. Any input during setup creates one. An accidental keystroke creates one. If you set a passphrase and don’t write it down, that passphrase is gone forever — and so is everything in that wallet. Your seed phrase alone opens a different, empty wallet. No error message. Nothing to indicate anything is wrong. Trezor’s support forums have dozens of threads that all read identically: “I have my seed, I’ve tried everything, balance is zero.” In most cases the passphrase was set accidentally during initial setup. Different software generates different addresses from the same seed This sounds impossible but it’s documented repeatedly. There are multiple standards for how wallet software derives addresses from a seed phrase — BIP-44, BIP-49, BIP-84 are the common ones — and different apps default to different ones. One user bought Bitcoin through Exodus paired with a Trezor in 2021. Exodus defaulted to P2SH-SegWit (m/49’/0’/0’). Trezor Suite defaults to Native SegWit (m/84’/0’/0’). Four years later, a firmware update forced a reset. The user opened Trezor Suite instead of reconnecting through Exodus. Empty wallet. His Bitcoin was on-chain and accessible — completely invisible to the software he was now using. Valid seed. Right device. Zero balance. This is not a bug. It’s two correct implementations of different standards. Electrum does not speak the same language as your hardware wallet If you ever try to import your Trezor or Ledger seed into Electrum as a backup option, it will show an empty wallet. Electrum uses a proprietary seed format and deliberately does not support BIP-39 — the standard your hardware wallet uses. To get it working you have to click a hidden “Options” button during seed entry, select “BIP39 seed,” then manually enter the derivation path your original wallet used. Without those steps, Electrum opens a valid empty wallet with no explanation. The Electrum developers are aware of this and consider it a feature. What to actually write down alongside your seed phrase The seed is the starting point, not the whole picture. What you also need documented somewhere safe: Which device and software you used to set up the wallet (Trezor Suite, Ledger Live, Electrum, etc.) Whether a passphrase was set — and if yes, exactly what it was, case-sensitive Which address format was used (Legacy, SegWit, Native SegWit, Taproot) — your software may show this during setup The derivation path if you can find it — usually visible in advanced settings That context, stored with your seed backup, is what makes the difference between recovery taking five minutes and recovery being impossible.
 
-35m ago
+1h ago
 
 ---
 
@@ -141,7 +141,7 @@ There’s a post near the top of this sub right now where someone sent Bitcoin t
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-15h ago
+16h ago
 
 ---
 
@@ -159,7 +159,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Options data shows traders are bracing for a sharp bitcoin drop as weak demand and fragile positioning leave the market exposed to a break below key levels, a report from Bitfinex shows.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 2h ago
 
 Strategy's on-paper bitcoin losses generated a $2.42 billion deferred tax asset, according to its latest 8-K filing.
 
-theblock.co • 7h ago
+theblock.co • 8h ago
 
 ---
 
@@ -175,7 +175,7 @@ theblock.co • 7h ago
 
 Strategy recorded a $14.5 billion unrealized loss in the first quarter as it continues to accumulate more bitcoin.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 6h ago
 
 Bitcoin (BTC) is trading within a bear flag pattern that projects a breakdown toward the sub-$50,000 area, or roughly 30% below current levels. However, Michael Saylor’s Strategy could spoil the bears’ plans.Key takeaways:Can Strategy’s BTC buying offset weak technicals?Normally, a bear flag remain…
 
-tradingview.com • 1h ago
+tradingview.com • 2h ago
 
 ---
 
@@ -207,7 +207,7 @@ CoinDesk • 1d ago
 
 A hacker with quantum tools could crack open old Bitcoin wallets and flood the market as soon as 2029.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -215,13 +215,13 @@ Yahoo Finance • 10h ago
 
 Bitcoin needs to fix this in the next three years.
 
-Mashable • 6h ago
+Mashable • 7h ago
 
 ---
 
 **[‘A Major Mistake’—Bitcoin Is Suddenly Braced For A Federal Reserve Price ‘Surprise’](https://www.forbes.com/sites/digital-assets/2026/04/06/bitcoin-is-suddenly-braced-for-a-federal-reserve-price-surprise/)**
 
-Forbes • 10h ago
+Forbes • 11h ago
 
 ---
 
@@ -303,7 +303,7 @@ Test your prediction skills against historical data. Draw your forecast and see 
 
 **[Bitcoin developers are mostly not concerned about quantum risk](https://news.ycombinator.com/item?id=47667515)**
 
-⬆️ 1 • 💬 0 • 22m ago • [murmurationstwo.substack.com](https://murmurationstwo.substack.com/p/bitcoin-developers-are-mostly-not)
+⬆️ 1 • 💬 0 • 1h ago • [murmurationstwo.substack.com](https://murmurationstwo.substack.com/p/bitcoin-developers-are-mostly-not)
 
 ---
 
@@ -317,7 +317,7 @@ This is huge for crypto, bitcoin, ethereum and the rest of the markets!!!!! ----
 
 📺 Thomas Kralow
 
-👁️ 16K • 👍 3K • 💬 34 • ⏱️ 9:21 • 10h ago
+👁️ 16K • 👍 3K • 💬 34 • ⏱️ 9:21 • 11h ago
 
 ---
 
@@ -337,7 +337,7 @@ Bitcoin #Crypto #Finance Bitcoin uncertainty is rising fast as global instabilit
 
 📺 The Wolf Of All Streets
 
-👁️ 13K • 👍 905 • 💬 206 • ⏱️ 1:05:40 • 6h ago
+👁️ 13K • 👍 905 • 💬 206 • ⏱️ 1:05:40 • 7h ago
 
 ---
 
@@ -357,7 +357,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 6K • 👍 476 • 💬 48 • ⏱️ 13:45 • 6h ago
+👁️ 6K • 👍 476 • 💬 48 • ⏱️ 13:45 • 7h ago
 
 ---
 
@@ -367,7 +367,7 @@ Bitcoin and Crypto markets are heating up, and new opportunities are starting to
 
 📺 Crypto Banter
 
-👁️ 9K • 👍 590 • 💬 32 • ⏱️ 7:43 • 12h ago
+👁️ 9K • 👍 590 • 💬 32 • ⏱️ 7:43 • 13h ago
 
 ---
 
@@ -397,7 +397,7 @@ CHECK OUT UPTRADE! Sign up here ▻ https://uptrade.co/ref/fire-hustle TRADE ON 
 
 📺 FireHustle
 
-👁️ 9K • 👍 529 • 💬 58 • ⏱️ 10:15 • 23h ago
+👁️ 9K • 👍 529 • 💬 58 • ⏱️ 10:15 • 1d ago
 
 ---
 

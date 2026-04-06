@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-06T22:00:25.072352+00:00'
+updated: '2026-04-06T22:49:44.942465+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - news
 - repositories
 - videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 06, 2026 at 22:00 UTC  
+**Last Updated:** April 06, 2026 at 22:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Experiments show large majorities uncritically accepting "faulty" AI answers.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/) • 6h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/) • 7h ago
 
 ---
 
@@ -49,7 +49,7 @@ Experiments show large majorities uncritically accepting "faulty" AI answers.
 
 A company in eastern China is using an artificial intelligence-powered machine to sort clothes and boost recycling.
 
-🔗 [AP News](https://apnews.com/article/china-recycling-textiles-artificial-intelligence-863551cc54e88da6a7916894cb8980c4) • 10h ago
+🔗 [AP News](https://apnews.com/article/china-recycling-textiles-artificial-intelligence-863551cc54e88da6a7916894cb8980c4) • 11h ago
 
 ---
 
@@ -65,7 +65,7 @@ I want to be honest about something that happened to me because I think it is mo
 
 https://www.youtube.com/watch?v=p22QeLNHvlc MIT created duplicate AI workers to tackle thousands of different tasks. The verdict? Most of the time AI is still just ‘minimally sufficient’ https://www.semafor.com/article/11/26/2025/deloitte-faces-new-scrutiny-over-ai-generated-mistakes https://www.cbc.ca/news/canada/newfoundland-labrador/nl-deloitte-citations-9.6990216 https://www.fastcompany.com/91417492/deloitte-ai-report-australian-government https://fortune.com/2025/10/07/deloitte-ai-australia-government-report-hallucinations-technology-290000-refund/
 
-1h ago
+2h ago
 
 ---
 
@@ -73,7 +73,7 @@ https://www.youtube.com/watch?v=p22QeLNHvlc MIT created duplicate AI workers to 
 
 Aura: https://github.com/youngbryan97/aura Aura is not a chatbot with personality prompts. It is a complete cognitive architecture — 60+ interconnected modules forming a unified consciousness stack that runs continuously, maintains internal state between conversations, and exhibits genuine self-modeling, prediction, and affective dynamics. The system implements real algorithms from computational consciousness research, not metaphorical labels on arbitrary values. Key differentiators: Genuine IIT 4.0: Computes actual integrated information (φ) via transition probability matrices, exhaustive bipartition search, and KL-divergence — the real mathematical formalism, not a proxy Closed-loop affective steering: Substrate state modulates LLM inference at the residual stream level (not text injection), creating bidirectional causal coupling between internal state and language generation
 
-5h ago
+6h ago
 
 ---
 
@@ -81,7 +81,7 @@ Aura: https://github.com/youngbryan97/aura Aura is not a chatbot with personalit
 
 I’ve been tracking the companies building primitives specifically for agents rather than humans. The pattern is becoming obvious: every capability a human employee takes for granted is getting rebuilt as an API. Here are some of the companies building for AI agents: AgentMail — agents can have email accounts AgentPhone — agents can have phone numbers Kapso — agents can have WhatsApp numbers Daytona / E2B — agents can have their own computers monid.ai — agents can read social media (X, TikTok, Reddit, LinkedIn, Amazon, Facebook) Browserbase / Browser Use / Hyperbrowser — agents can use web browsers Firecrawl — agents can crawl the web without a browser Mem0 — agents can remember things Kite / Sponge — agents can pay for things Composio — agents can use your SaaS tools Orthogonal — agents can access APIs more easily ElevenLabs / Vapi — agents can have a voice Sixtyfour — agents can search for people and companies Exa — agents can search the web (Google isn’t built for agents) What’s interesting is how quickly this came together. Not long ago, none of this really existed in a usable form. Now you can piece together an agent with identity, memory, communication, and spending in a single afternoon. Feels less like “AI tools” and more like the early version of an agent-native infrastructure stack. Curious if anyone here is actually building on top of this. What are you using? Also probably missing a bunch - drop anything I should add and I’ll keep this updated.
 
-22h ago
+23h ago
 
 ---
 
@@ -97,7 +97,7 @@ Everyone thinks McKinsey just built 25,000 AI experts. They didn't. They took a 
 
 Physical AI is emerging as one of the next major industrial battlegrounds, with Japan’s push driven more by necessity than anything else. With workforces shrinking and pressure mounting to sustain productivity, companies are increasingly deploying AI-powered robots across factories, warehouses, and critical infrastructure.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/) • 9h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/) • 10h ago
 
 ---
 
@@ -105,7 +105,7 @@ Physical AI is emerging as one of the next major industrial battlegrounds, with 
 
 The AI use cases that actually stay in my workflow are usually the least cinematic ones. Not magical agents. Not giant demos. Just small repeatable things like cleaning up rough notes, turning a messy idea into a draft, or helping me get unstuck faster. That boring layer compounds way harder than the flashy stuff. What is one unimpressive AI habit you picked up that ended up being genuinely useful?
 
-26m ago
+1h ago
 
 ---
 
@@ -123,7 +123,7 @@ A daily puzzle game with no rules and no instructions. Built on ARC-AGI-3, the b
 
 **[The Big Bang: A.I. Has Created a Code Overload](https://www.nytimes.com/2026/04/06/technology/ai-code-overload.html)**
 
-nytimes.com • 6h ago
+nytimes.com • 7h ago
 
 ---
 
@@ -131,25 +131,25 @@ nytimes.com • 6h ago
 
 The AI agent sparked a frenzy of "raising lobsters" in March, with users training the tool to suit their needs.
 
-bbc.com • 23h ago
+bbc.com • 1d ago
 
 ---
 
 **[Fintech investors are getting more selective about AI](https://www.axios.com/pro/fintech-deals/2026/04/06/fintech-meetup-ai-funding-selectivity)**
 
-Axios • 20m ago
+Axios • 1h ago
 
 ---
 
 **[Protecting Alabama families from AI predators: op-ed](https://www.al.com/news/birmingham/2026/04/protecting-alabama-families-from-ai-predators-op-ed.html)**
 
-AL.com • 42m ago
+AL.com • 1h ago
 
 ---
 
 **[H&R Block Yields 5%. Why Its Stock May Survive AI and IRS Threats.](https://www.barrons.com/articles/hr-block-stock-dividend-yield-ai-irs-direct-file-9dc23646?gaa_at=eafs&gaa_n=AWEtsqfFczastJ8d1zuJxgzsXOZK9R2wS2CWnNYD03ucQicGSBeka1KI5QTO&gaa_ts=69d43054&gaa_sig=jvtJ-x-iZhkj9KwCQWlHah816HR0uUW5d2PhdT28WcrUup40EIiaHFJfhk9lXsa6PY_SH3M1WSU9RGctW4IbaA%3D%3D)**
 
-Barron's • 51m ago
+Barron's • 1h ago
 
 ---
 
@@ -165,13 +165,13 @@ cnbc.com • 12h ago
 
 The AI agents are laughing all the way to the paycheck line.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
 **[This ‘overlooked’ AI stock is a new top pick at Morgan Stanley](https://www.marketwatch.com/story/this-overlooked-ai-stock-is-a-new-top-pick-at-morgan-stanley-54f69403?gaa_at=eafs&gaa_n=AWEtsqeG8ddPeeeveAkoKdB44gJuz8N2zhWg2VIGey2CmxSIIRE0ogggOWY7&gaa_ts=69d43054&gaa_sig=z9aNZKqPIUd6S26naANzN78SXtCus3djtSqM2BpcuMK0TJ7iPOUr6kk6xf0or4-w_NPlqP4xZOzerrB4Ld4aVw%3D%3D)**
 
-MarketWatch • 3h ago
+MarketWatch • 4h ago
 
 ---
 
@@ -228,7 +228,7 @@ deployment pattern...
 
 Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine. - kessler/gemma-gem
 
-⬆️ 140 • 💬 19 • 21h ago • [GitHub](https://github.com/kessler/gemma-gem)
+⬆️ 140 • 💬 19 • 22h ago • [GitHub](https://github.com/kessler/gemma-gem)
 
 ---
 
@@ -262,7 +262,7 @@ AI-powered travel hacking with points, miles, and award flights. Drop-in skills 
 
 Social media users don’t need to endorse a message to spread it. They only need to find it compelling enough to share, writes Renee DiResta.
 
-⬆️ 58 • 💬 63 • 7h ago • [TIME](https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/)
+⬆️ 58 • 💬 63 • 8h ago • [TIME](https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/)
 
 ---
 
@@ -294,7 +294,7 @@ Layoffs are no longer isolated events but an ongoing global trend, especially in
 
 📺 Firstpost
 
-👁️ 13K • 👍 210 • 💬 48 • ⏱️ 6:00 • 4h ago
+👁️ 13K • 👍 210 • 💬 48 • ⏱️ 6:00 • 5h ago
 
 ---
 
@@ -324,7 +324,7 @@ The world wasn't ready for what 2026 had in store — a wave of humanoid robots 
 
 📺 The AI Nexus
 
-👁️ 4K • 👍 177 • 💬 7 • ⏱️ 16:42 • 22h ago
+👁️ 4K • 👍 177 • 💬 7 • ⏱️ 16:42 • 23h ago
 
 ---
 
@@ -344,7 +344,7 @@ I Gave Claude AI Full Access to 1500 TradingView Scalping Strategies… The Resu
 
 📺 Trading with DaviddTech
 
-👁️ 5K • 👍 282 • 💬 176 • ⏱️ 17:23 • 9h ago
+👁️ 5K • 👍 282 • 💬 176 • ⏱️ 17:23 • 10h ago
 
 ---
 
@@ -354,7 +354,7 @@ Apple's latest paper details a two-step self-distillation method for LLM trainin
 
 📺 AIM Network
 
-👁️ 2K • 👍 62 • 💬 6 • ⏱️ 2:48 • 8h ago
+👁️ 2K • 👍 62 • 💬 6 • ⏱️ 2:48 • 9h ago
 
 ---
 
@@ -402,7 +402,7 @@ This image-text-to-text model, Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled, 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 548,344 • ❤️ 2,389 • 19h ago
+⬇️ 548,344 • ❤️ 2,389 • 20h ago
 
 ---
 
@@ -426,7 +426,7 @@ Bonsai-8B-GGUF is a highly compressed 1-bit language model (1.15 GB) optimized f
 
 `text-generation` `8.2B`
 
-⬇️ 45,185 • ❤️ 464 • 14h ago
+⬇️ 45,185 • ❤️ 464 • 15h ago
 
 ---
 
@@ -450,7 +450,7 @@ VOID is a video-to-video diffusion model for object and interaction removal, cap
 
 `video-to-video`
 
-⬇️ 0 • ❤️ 441 • 4h ago
+⬇️ 0 • ❤️ 441 • 5h ago
 
 ---
 
@@ -669,7 +669,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `Go` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 10.2k • 🔱 1.8k • 3h ago
+⭐ 10.2k • 🔱 1.8k • 4h ago
 
 ---
 
@@ -699,7 +699,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.8k • 🔱 401 • 9h ago
+⭐ 6.8k • 🔱 401 • 10h ago
 
 ---
 
@@ -729,7 +729,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 3.8k • 🔱 115 • 3h ago
+⭐ 3.8k • 🔱 115 • 4h ago
 
 ---
 
@@ -739,7 +739,7 @@ Autonomous novel writing CLI AI Agent — agents write, audit, and revise novels
 
 `TypeScript` `agent` `ai` `ai-agent` `ai-novel` `ai-writing`
 
-⭐ 3.6k • 🔱 660 • 6h ago
+⭐ 3.6k • 🔱 660 • 7h ago
 
 ---
 
