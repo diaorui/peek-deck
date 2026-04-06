@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-06T22:49:44.942465+00:00'
+updated: '2026-04-06T23:37:22.476129+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
 - repositories
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 06, 2026 at 22:49 UTC  
+**Last Updated:** April 06, 2026 at 23:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,6 +45,14 @@ Experiments show large majorities uncritically accepting "faulty" AI answers.
 
 ---
 
+**[OpenAI lays out policy vision for a world remade by AI](https://www.reddit.com/r/artificial/comments/1seegdp/openai_lays_out_policy_vision_for_a_world_remade/)**
+
+In a document entitled, "Industrial Policy for the Intelligence Age," OpenAI laid out a slate of "people-first" proposals focused on the arrival of superintelligence.
+
+🔗 [LinkedIn](https://www.linkedin.com/news/story/openai-lays-out-policy-vision-for-a-world-remade-by-ai-8623650/) • 40m ago
+
+---
+
 **[AI machine sorts clothes faster than humans to boost textile recycling in China](https://www.reddit.com/r/artificial/comments/1sdwgvg/ai_machine_sorts_clothes_faster_than_humans_to/)**
 
 A company in eastern China is using an artificial intelligence-powered machine to sort clothes and boost recycling.
@@ -61,11 +69,19 @@ I want to be honest about something that happened to me because I think it is mo
 
 ---
 
-**[AI is struggling to take our jobs](https://www.reddit.com/r/artificial/comments/1seb268/ai_is_struggling_to_take_our_jobs/)**
+**[Three Memory Architectures for AI Companions: pgvector, Scratchpad, and Filesystem](https://www.reddit.com/r/artificial/comments/1seezny/three_memory_architectures_for_ai_companions/)**
 
-https://www.youtube.com/watch?v=p22QeLNHvlc MIT created duplicate AI workers to tackle thousands of different tasks. The verdict? Most of the time AI is still just ‘minimally sufficient’ https://www.semafor.com/article/11/26/2025/deloitte-faces-new-scrutiny-over-ai-generated-mistakes https://www.cbc.ca/news/canada/newfoundland-labrador/nl-deloitte-citations-9.6990216 https://www.fastcompany.com/91417492/deloitte-ai-report-australian-government https://fortune.com/2025/10/07/deloitte-ai-australia-government-report-hallucinations-technology-290000-refund/
+How AI character memory works: three architectures compared — pgvector RAG, LLM-managed scratchpad, and filesystem-based agent context. Persistent memory for AI companions, importance scoring, and retrieval strategies. The hardest problem is knowing what to remember.
 
-2h ago
+🔗 [Emotion Machine](https://www.emotionmachine.com/blog/how-memory-works) • 18m ago
+
+---
+
+**[94.42% on BANKING77 Official Test Split — New Strong 2nd Place with Lightweight Embedding + Rerank (no 7B LLM)](https://www.reddit.com/r/artificial/comments/1seevgd/9442_on_banking77_official_test_split_new_strong/)**
+
+94.42% Accuracy on Banking77 Official Test Split BANKING77-77 is deceptively hard: 77 fine-grained banking intents, noisy real-world queries, and significant class overlap. I’m excited to share that I just hit 94.42% accuracy on the official PolyAI test split using a pure lightweight embedding + example reranking system built inside Seed AutoArch framework. Key numbers: Official test accuracy: 94.42% Macro-F1: 0.9441 Inference: ~225 ms / ~68 MiB Improvement: +0.59pp over the widely-cited 93.83% baseline This puts the result in clear 2nd place on the public leaderboard, only 0.52pp behind the current absolute SOTA (94.94%). No large language models, no 7B+ parameter monsters just efficient embedding + rerank magic. Results, and demo coming very soon on HF Space Happy to answer questions about the high-level approach #BANKING77 #IntentClassification #EfficientAI #SLM
+
+23m ago
 
 ---
 
@@ -73,7 +89,23 @@ https://www.youtube.com/watch?v=p22QeLNHvlc MIT created duplicate AI workers to 
 
 Aura: https://github.com/youngbryan97/aura Aura is not a chatbot with personality prompts. It is a complete cognitive architecture — 60+ interconnected modules forming a unified consciousness stack that runs continuously, maintains internal state between conversations, and exhibits genuine self-modeling, prediction, and affective dynamics. The system implements real algorithms from computational consciousness research, not metaphorical labels on arbitrary values. Key differentiators: Genuine IIT 4.0: Computes actual integrated information (φ) via transition probability matrices, exhaustive bipartition search, and KL-divergence — the real mathematical formalism, not a proxy Closed-loop affective steering: Substrate state modulates LLM inference at the residual stream level (not text injection), creating bidirectional causal coupling between internal state and language generation
 
-6h ago
+7h ago
+
+---
+
+**[Anthropic have signed a deal for multiple gigawatts of next generation TPUs](https://www.reddit.com/r/artificial/comments/1sedfh8/anthropic_have_signed_a_deal_for_multiple/)**
+
+https://www.anthropic.com/news/google-broadcom-partnership-compute
+
+1h ago
+
+---
+
+**[AI is struggling to take our jobs](https://www.reddit.com/r/artificial/comments/1seb268/ai_is_struggling_to_take_our_jobs/)**
+
+https://www.youtube.com/watch?v=p22QeLNHvlc MIT created duplicate AI workers to tackle thousands of different tasks. The verdict? Most of the time AI is still just ‘minimally sufficient’ https://www.semafor.com/article/11/26/2025/deloitte-faces-new-scrutiny-over-ai-generated-mistakes https://www.cbc.ca/news/canada/newfoundland-labrador/nl-deloitte-citations-9.6990216 https://www.fastcompany.com/91417492/deloitte-ai-report-australian-government https://fortune.com/2025/10/07/deloitte-ai-australia-government-report-hallucinations-technology-290000-refund/
+
+2h ago
 
 ---
 
@@ -85,99 +117,65 @@ I’ve been tracking the companies building primitives specifically for agents r
 
 ---
 
-**[McKinsey's AI Lie Explains What's Happening to Work](https://www.reddit.com/r/artificial/comments/1sd90xu/mckinseys_ai_lie_explains_whats_happening_to_work/)**
-
-Everyone thinks McKinsey just built 25,000 AI experts. They didn't. They took a 35-year-old internal database, put a natural language interface on top, and wrote a press release that every major business publication ran without asking a single follow-up question. This is the same play McKinsey has run for a hundred years. ERP in the 90s. Digital transformation in the 2000s. Big data in the 2010s. Each wave the same: new technology creates executive anxiety, McKinsey positions itself between that anxiety and the answer, and companies buy the trend to protect themselves when it fails. The future looks a lot like the past. And once you see it, you can't unsee it. https://www.youtube.com/watch?v=uTdKJaQkgJQ
-
-1d ago
-
----
-
-**[Japan is adopting robotics and physical AI, with a model where startups innovate and corporations provide scale](https://www.reddit.com/r/artificial/comments/1sdx5ih/japan_is_adopting_robotics_and_physical_ai_with_a/)**
-
-Physical AI is emerging as one of the next major industrial battlegrounds, with Japan’s push driven more by necessity than anything else. With workforces shrinking and pressure mounting to sustain productivity, companies are increasingly deploying AI-powered robots across factories, warehouses, and critical infrastructure.
-
-🔗 [TechCrunch](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/) • 10h ago
-
----
-
-**[The AI stuff that sticks is usually the least cinematic](https://www.reddit.com/r/artificial/comments/1secbue/the_ai_stuff_that_sticks_is_usually_the_least/)**
-
-The AI use cases that actually stay in my workflow are usually the least cinematic ones. Not magical agents. Not giant demos. Just small repeatable things like cleaning up rough notes, turning a messy idea into a draft, or helping me get unstuck faster. That boring layer compounds way harder than the flashy stuff. What is one unimpressive AI habit you picked up that ended up being genuinely useful?
-
-1h ago
-
----
-
-**[I turned ARC-AGI-3 into a daily browser game.](https://www.reddit.com/r/artificial/comments/1se9nad/i_turned_arcagi3_into_a_daily_browser_game/)**
-
-A daily puzzle game with no rules and no instructions. Built on ARC-AGI-3, the benchmark AI can't solve (yet).
-
-🔗 [arcaptcha.io](https://arcaptcha.io/) • 2h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[The Big Bang: A.I. Has Created a Code Overload](https://www.nytimes.com/2026/04/06/technology/ai-code-overload.html)**
 
-nytimes.com • 7h ago
+The New York Times • 7h ago
 
 ---
 
-**[OpenClaw: What China's frenzy says about its AI ambition](https://www.bbc.com/news/articles/cy41n17e23go)**
+**[Tech companies are cutting jobs and betting on AI. The payoff is far from guaranteed](https://www.theguardian.com/technology/2026/apr/06/tech-layoffs-ai-work)**
 
-The AI agent sparked a frenzy of "raising lobsters" in March, with users training the tool to suit their needs.
+AI experts say we’re living in an experiment that may fundamentally change the model of work
 
-bbc.com • 1d ago
-
----
-
-**[Fintech investors are getting more selective about AI](https://www.axios.com/pro/fintech-deals/2026/04/06/fintech-meetup-ai-funding-selectivity)**
-
-Axios • 1h ago
+The Guardian • 1h ago
 
 ---
 
-**[Protecting Alabama families from AI predators: op-ed](https://www.al.com/news/birmingham/2026/04/protecting-alabama-families-from-ai-predators-op-ed.html)**
+**[CNBC's The China Connection newsletter: Why AI isn't replacing jobs in China (yet)](https://www.cnbc.com/2026/04/07/ai-jobs-layoffs-us-china-engineers-hiring.html)**
 
-AL.com • 1h ago
+Rapid adoption of artificial intelligence has many in Silicon Valley reeling from news of layoffs. Engineers in China appear to be more insulated.
 
----
-
-**[H&R Block Yields 5%. Why Its Stock May Survive AI and IRS Threats.](https://www.barrons.com/articles/hr-block-stock-dividend-yield-ai-irs-direct-file-9dc23646?gaa_at=eafs&gaa_n=AWEtsqfFczastJ8d1zuJxgzsXOZK9R2wS2CWnNYD03ucQicGSBeka1KI5QTO&gaa_ts=69d43054&gaa_sig=jvtJ-x-iZhkj9KwCQWlHah816HR0uUW5d2PhdT28WcrUup40EIiaHFJfhk9lXsa6PY_SH3M1WSU9RGctW4IbaA%3D%3D)**
-
-Barron's • 1h ago
+CNBC • 34m ago
 
 ---
 
-**[JPMorgan CEO Jamie Dimon in annual letter cites risks in geopolitics, AI and private markets](https://www.cnbc.com/2026/04/06/jpmorgan-ceo-jamie-dimon-annual-letter-risks.html)**
+**[Samsung flags eight-fold jump in Q1 profit as AI chip demand drives up prices](https://finance.yahoo.com/sectors/technology/articles/samsung-flags-eight-fold-jump-224457617.html)**
 
-JPMorgan CEO Jamie Dimon in his annual letter to shareholders noted the country's 250th anniversary and called for a broad recommitment to American ideals.
+Samsung Electronics on Tuesday projected a record-high first-quarter profit, up more than eightfold from a year ‌earlier and well above expectations as booming demand for artificial intelligence ‌infrastructure caused supply bottlenecks and drove chip prices higher.  The world's largest memory chipmaker estimated an ​operating profit of 57.2 trillion won ($37.92 billion) for the January to March period, compared with an LSEG SmartEstimate of 40.6 trillion won and a more than eight-fold jump from 6.69 trillion won a year earlier.  Samsung has emerged as one of the major ⁠beneficiaries of the AI data centre boom that has constrained supply for traditional chips used in smartphones, PCs and game consoles and led to a near-doubling in ​chip prices ​in the first quarter alone.
 
-cnbc.com • 12h ago
-
----
-
-**[AI agents have stolen a lot of jobs from humans over the past year: Chart](https://finance.yahoo.com/news/ai-agents-have-stolen-a-lot-of-jobs-from-humans-over-the-past-year-chart-114816365.html)**
-
-The AI agents are laughing all the way to the paycheck line.
-
-Yahoo Finance • 11h ago
+finance.yahoo.com • 52m ago
 
 ---
 
-**[This ‘overlooked’ AI stock is a new top pick at Morgan Stanley](https://www.marketwatch.com/story/this-overlooked-ai-stock-is-a-new-top-pick-at-morgan-stanley-54f69403?gaa_at=eafs&gaa_n=AWEtsqeG8ddPeeeveAkoKdB44gJuz8N2zhWg2VIGey2CmxSIIRE0ogggOWY7&gaa_ts=69d43054&gaa_sig=z9aNZKqPIUd6S26naANzN78SXtCus3djtSqM2BpcuMK0TJ7iPOUr6kk6xf0or4-w_NPlqP4xZOzerrB4Ld4aVw%3D%3D)**
+**[AI-backed super PAC expands into multiple GOP primaries after claiming early wins](https://www.foxnews.com/politics/ai-backed-super-pac-expands-multiple-gop-primaries-claiming-early-wins)**
 
-MarketWatch • 4h ago
+Leading the Future, a pro-AI super PAC backed by tech executives, announced $1.5 million in spending to support three GOP candidates in key midterm primaries.
+
+Fox News • 36m ago
 
 ---
 
-**[Brands Adopt ‘No AI’ Disclaimers to Stand Out Amid the Slop](https://www.wsj.com/cmo-today/brands-adopt-no-ai-disclaimers-to-stand-out-amid-the-slop-a92352af?gaa_at=eafs&gaa_n=AWEtsqdu-nj_kPruXBTPY6mQw0lj164d8ASzs48PCJE4p77ZAyhim7jt8O8U&gaa_ts=69d43054&gaa_sig=AHkA1Vr_GopoGn-ssXHH0MYvYp2kPzCes_VOV2c4t1Idd9J2pQkoiyEZgl1f2g6YTh0JmvBTURkYZ6xjYQawwg%3D%3D)**
+**[Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute](https://www.anthropic.com/news/google-broadcom-partnership-compute)**
 
-WSJ • 12h ago
+Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+
+Anthropic • 1h ago
+
+---
+
+**[The AI agent buffet is closed](https://www.axios.com/2026/04/06/anthropic-openclaw-subscription-openai)**
+
+Axios • 12h ago
+
+---
+
+**[Brands Adopt ‘No AI’ Disclaimers to Stand Out Amid the Slop](https://www.wsj.com/cmo-today/brands-adopt-no-ai-disclaimers-to-stand-out-amid-the-slop-a92352af?gaa_at=eafs&gaa_n=AWEtsqd-tos93EhkWRyKvBsNsI4fUE9hs5jlWt7XV-k2nX2h7KM6IrLw0Ne3&gaa_ts=69d44713&gaa_sig=lquNddeTo_XsX2Tvkt_99SEXz-t2u1ppzGPh1kX0S5D0VdWnq1NVw4gYsOZ-Q6gwdAQveiMmOQqpDfUWOjQYRQ%3D%3D)**
+
+WSJ • 13h ago
 
 ---
 
@@ -185,7 +183,13 @@ WSJ • 12h ago
 
 We’ve been reporting on cybersecurity for years. As President Donald Trump and his Cabinet say artificial intelligence will transform the nation, the messaging isn’t new. It follows a familiar pattern.
 
-ProPublica • 13h ago
+ProPublica • 14h ago
+
+---
+
+**[This ‘overlooked’ AI stock is a new top pick at Morgan Stanley](https://www.marketwatch.com/story/this-overlooked-ai-stock-is-a-new-top-pick-at-morgan-stanley-54f69403?gaa_at=eafs&gaa_n=AWEtsqexSRxJljLekQjNVqUSEo0gUh19-amR4rDa6ZgYzF_yxlHZkShBG4us&gaa_ts=69d44713&gaa_sig=TcCRP6O0LZPBAconcCLa-V6p0KCgURGLSnWwA8DBcHZyNCkkWKIa20vop-RdRdVqt1gmanTgLuCcFfIN53K8rg%3D%3D)**
+
+MarketWatch • 5h ago
 
 ---
 
@@ -200,7 +204,7 @@ A couple of weeks ago, after ~250 hours of effort over three months3 on evenings
 Of course, there’s no shortage of posts claiming that AI one-shot their project or pushing back and declaring that AI is all slop. I’m going to take a very different approach and, instead, systematically break down my experience building syntaqlite with AI, both where it helped and where it was detrimental.
 I’ll do this while contextualizing the project and my background so you can independently assess how generalizable this experience was. And whenever I make a claim, I’ll try to back it up with evidence from my project journal, coding transcripts, or commit history5.
 
-⬆️ 908 • 💬 285 • 1d ago • [Lalit Maganti](https://lalitm.com/post/building-syntaqlite-ai/)
+⬆️ 910 • 💬 286 • 1d ago • [Lalit Maganti](https://lalitm.com/post/building-syntaqlite-ai/)
 
 ---
 
@@ -208,7 +212,7 @@ I’ll do this while contextualizing the project and my background so you can in
 
 On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro. - fikrikarim/parlor
 
-⬆️ 257 • 💬 28 • 1d ago • [GitHub](https://github.com/fikrikarim/parlor)
+⬆️ 261 • 💬 29 • 1d ago • [GitHub](https://github.com/fikrikarim/parlor)
 
 ---
 
@@ -228,7 +232,7 @@ deployment pattern...
 
 Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine. - kessler/gemma-gem
 
-⬆️ 140 • 💬 19 • 22h ago • [GitHub](https://github.com/kessler/gemma-gem)
+⬆️ 141 • 💬 20 • 23h ago • [GitHub](https://github.com/kessler/gemma-gem)
 
 ---
 
@@ -240,7 +244,7 @@ Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API k
 
 **[Writing Lisp is AI resistant and I'm sad](https://news.ycombinator.com/item?id=47645468)**
 
-⬆️ 96 • 💬 97 • 1d ago • [blog.djhaskin.com](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
+⬆️ 96 • 💬 98 • 1d ago • [blog.djhaskin.com](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
 
 ---
 
@@ -249,6 +253,14 @@ Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API k
 AI-powered travel hacking with points, miles, and award flights. Drop-in skills and MCP servers for OpenCode and Claude Code. - borski/travel-hacking-toolkit
 
 ⬆️ 95 • 💬 41 • 2d ago • [GitHub](https://github.com/borski/travel-hacking-toolkit)
+
+---
+
+**[AI singer now occupies eleven spots on iTunes singles chart](https://news.ycombinator.com/item?id=47662596)**
+
+iTunes was really bamboozled on April Fools Day. Dallas Little, content creator, unleashed four more songs by his AI creation, Eddie Dalton. Now Little has ELEVEN spots on the iTunes top 100. He also has the number three album on iTunes! All by a singer named “Eddie Dalton,” who does not exist. He’s Little’s Artificial […]
+
+⬆️ 71 • 💬 83 • 7h ago • [Showbiz411](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive)
 
 ---
 
@@ -262,15 +274,7 @@ AI-powered travel hacking with points, miles, and award flights. Drop-in skills 
 
 Social media users don’t need to endorse a message to spread it. They only need to find it compelling enough to share, writes Renee DiResta.
 
-⬆️ 58 • 💬 63 • 8h ago • [TIME](https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/)
-
----
-
-**[I used AI. It worked. I hated it](https://news.ycombinator.com/item?id=47646277)**
-
-I used Claude Code to build a tool I needed. It worked great, but I was miserable. I need to reckon with what it means.
-
-⬆️ 54 • 💬 123 • 1d ago • [taggart-tech.com](https://taggart-tech.com/reckoning/)
+⬆️ 58 • 💬 76 • 9h ago • [TIME](https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/)
 
 ---
 
@@ -278,73 +282,23 @@ I used Claude Code to build a tool I needed. It worked great, but I was miserabl
 
 ## YouTube Videos: "ai"
 
-**[5 AI Agent Use Cases I’d Start Today to Make Money Online](https://www.youtube.com/watch?v=tvrvAj6mNdY)**
+**[AI is Now CHOOSING Targets. The Kill Chain is BROKEN](https://www.youtube.com/watch?v=aFrtbDCJuNA)**
 
-Best AI Agent Tool is Base44 https://base44.pxf.io/c/6440076/3820726/25619?trafcat=agent&sharedid=agent3 ✓ FREE ...
+War is now moving faster than human thought, and as the U.S. conflict with Iran heats up, AI combat systems are being relied in a ...
 
-📺 Mikey No Code
+📺 The Infographics Show
 
-👁️ 11K • 💬 6 • ⏱️ 40:05 • 7h ago
-
----
-
-**[AI Layoffs: Why People in Their 40s Are the Hardest Hit Group | Vantage on Firstpost | N18G](https://www.youtube.com/watch?v=m_9b9bYrNc0)**
-
-Layoffs are no longer isolated events but an ongoing global trend, especially in the technology sector. Since 2022, job cuts have ...
-
-📺 Firstpost
-
-👁️ 13K • 👍 210 • 💬 48 • ⏱️ 6:00 • 5h ago
+👁️ 26K • 👍 1K • 💬 226 • ⏱️ 18:34 • 3h ago
 
 ---
 
-**[The 5 Levels of Consistent Characters (And How to Level Up)](https://www.youtube.com/watch?v=GVIF67IldTI)**
+**[Alibaba&#39;s Free AI Just Changed Everything](https://www.youtube.com/watch?v=9PiWPeROmZw)**
 
-Master Consistency https://www.openart.ai/home?utm_source=tolt&utm_medium=affiliate&ref=consistent-characters In this ...
+Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
-📺 Roboverse
+📺 Julian Goldie SEO
 
-👁️ 4K • 💬 2 • ⏱️ 8:47 • 8h ago
-
----
-
-**[This AI just leaked its own code..](https://www.youtube.com/watch?v=EAaRzLjQiAU)**
-
-Asmongold reacts to the Claude Code situation https://youtube.com/watch?v=mBHRPeg8zPU ▻ Asmongold's Twitch: ...
-
-📺 Asmongold TV  
-
-👁️ 693K • 👍 20K • 💬 3K • ⏱️ 11:03 • 1d ago
-
----
-
-**[These NEW Human-Like AI Robots of 2026 Just SHOCKED the World!](https://www.youtube.com/watch?v=FOfieag6fi4)**
-
-The world wasn't ready for what 2026 had in store — a wave of humanoid robots so advanced, so eerily lifelike, that the line ...
-
-📺 The AI Nexus
-
-👁️ 4K • 👍 177 • 💬 7 • ⏱️ 16:42 • 23h ago
-
----
-
-**[We Bought MORE Ai Shopping Scams So You Don’t Have To](https://www.youtube.com/watch?v=UExYNu5j1uo)**
-
-Squarespace ▻ Head to http://squarespace.com/corridorcrew to save 10% off your first purchase! Corridor Big Frig Mugs ...
-
-📺 Corridor Crew
-
-👁️ 627K • 👍 32K • 💬 2K • ⏱️ 20:43 • 1d ago
-
----
-
-**[I Gave Claude AI Full Access to 1500 TradingView Scalping Strategies… The Results Are Insane](https://www.youtube.com/watch?v=VD2TC8Ifl0w)**
-
-I Gave Claude AI Full Access to 1500 TradingView Scalping Strategies… The Results Are InsaneAI trading just reached a ...
-
-📺 Trading with DaviddTech
-
-👁️ 5K • 👍 282 • 💬 176 • ⏱️ 17:23 • 10h ago
+👁️ 8K • 👍 287 • 💬 27 • ⏱️ 6:58 • 14h ago
 
 ---
 
@@ -354,17 +308,27 @@ Apple's latest paper details a two-step self-distillation method for LLM trainin
 
 📺 AIM Network
 
-👁️ 2K • 👍 62 • 💬 6 • ⏱️ 2:48 • 9h ago
+👁️ 3K • 👍 66 • 💬 6 • ⏱️ 2:48 • 10h ago
 
 ---
 
-**[How I Make AI Worlds with Consistent Characters from One Single Image!](https://www.youtube.com/watch?v=CzAGkoEgdiA)**
+**[This AI just leaked its own code..](https://www.youtube.com/watch?v=EAaRzLjQiAU)**
 
-Create Your Own AI Worlds with OpenArt https://youricreates.com/AI-worlds In this video, I break down how OpenArt World ...
+Asmongold reacts to the Claude Code situation https://youtube.com/watch?v=mBHRPeg8zPU ▻ Asmongold's Twitch: ...
 
-📺 Youri van Hofwegen
+📺 Asmongold TV  
 
-👁️ 12K • 💬 9 • ⏱️ 8:03 • 2d ago
+👁️ 714K • 👍 21K • 💬 3K • ⏱️ 11:03 • 1d ago
+
+---
+
+**[These NEW Human-Like AI Robots of 2026 Just SHOCKED the World!](https://www.youtube.com/watch?v=FOfieag6fi4)**
+
+The world wasn't ready for what 2026 had in store — a wave of humanoid robots so advanced, so eerily lifelike, that the line ...
+
+📺 The AI Nexus
+
+👁️ 5K • 👍 182 • 💬 10 • ⏱️ 16:42 • 23h ago
 
 ---
 
@@ -374,7 +338,47 @@ Hello guys and gals, it's me Mutahar again! This time we take a look at what app
 
 📺 SomeOrdinaryGamers
 
-👁️ 389K • 👍 16K • 💬 2K • ⏱️ 20:44 • 1d ago
+👁️ 397K • 👍 16K • 💬 2K • ⏱️ 20:44 • 1d ago
+
+---
+
+**[We Bought MORE Ai Shopping Scams So You Don’t Have To](https://www.youtube.com/watch?v=UExYNu5j1uo)**
+
+Squarespace ▻ Head to http://squarespace.com/corridorcrew to save 10% off your first purchase! Corridor Big Frig Mugs ...
+
+📺 Corridor Crew
+
+👁️ 663K • 👍 33K • 💬 2K • ⏱️ 20:43 • 1d ago
+
+---
+
+**[Google AI Just Made ChatGPT and Claude Obsolete  (+ 13 Top AI Updates)](https://www.youtube.com/watch?v=cLSWcxKHl8g)**
+
+Join our WhatsApp Community Get the latest AI updates, tips, and insights straight to your inbox: https://link.stayingahead.ai/YT13 ...
+
+📺 Vaibhav Sisinty
+
+👁️ 55K • 👍 2K • 💬 92 • ⏱️ 16:04 • 8h ago
+
+---
+
+**[This New AI Might Be the Most Useful One Yet: CoWork](https://www.youtube.com/watch?v=hkGSbJnhqhc)**
+
+Abacus just released CoWork, and this might be one of the most useful AI desktop tools we've seen in a while. Instead of acting ...
+
+📺 AI Revolution
+
+👁️ 13K • 👍 490 • 💬 26 • ⏱️ 9:05 • 1d ago
+
+---
+
+**[REPORT THIS VIDEO: AI is ruining youtube](https://www.youtube.com/watch?v=Ku3OMJsLzwU)**
+
+garbage video: https://www.youtube.com/watch?v=huXOoaPWDQ0 https://youtu.be/6uKZ84zwJI0 https://youtu.be/iwc5HKnOmGg ...
+
+📺 Louis Rossmann
+
+👁️ 149K • 👍 15K • 💬 2K • ⏱️ 9:39 • 1d ago
 
 ---
 
@@ -390,7 +394,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 678,740 • ❤️ 1,136 • 4d ago
+⬇️ 678,740 • ❤️ 1,147 • 4d ago
 
 ---
 
@@ -402,7 +406,7 @@ This image-text-to-text model, Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled, 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 548,344 • ❤️ 2,389 • 20h ago
+⬇️ 548,344 • ❤️ 2,398 • 21h ago
 
 ---
 
@@ -414,7 +418,7 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 `text-generation` `6.4B`
 
-⬇️ 13,727 • ❤️ 477 • 2d ago
+⬇️ 13,727 • ❤️ 486 • 2d ago
 
 ---
 
@@ -426,7 +430,7 @@ Bonsai-8B-GGUF is a highly compressed 1-bit language model (1.15 GB) optimized f
 
 `text-generation` `8.2B`
 
-⬇️ 45,185 • ❤️ 464 • 15h ago
+⬇️ 45,185 • ❤️ 468 • 16h ago
 
 ---
 
@@ -438,7 +442,7 @@ Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing te
 
 `image-text-to-text` `26.5B`
 
-⬇️ 476,612 • ❤️ 450 • 4d ago
+⬇️ 476,612 • ❤️ 452 • 4d ago
 
 ---
 
@@ -450,7 +454,7 @@ VOID is a video-to-video diffusion model for object and interaction removal, cap
 
 `video-to-video`
 
-⬇️ 0 • ❤️ 441 • 5h ago
+⬇️ 0 • ❤️ 449 • 6h ago
 
 ---
 
@@ -462,7 +466,7 @@ Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, support
 
 `any-to-any` `8.0B`
 
-⬇️ 321,152 • ❤️ 405 • 4d ago
+⬇️ 321,152 • ❤️ 408 • 4d ago
 
 ---
 
@@ -474,7 +478,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 38,388 • ❤️ 1,015 • 11d ago
+⬇️ 38,388 • ❤️ 1,017 • 11d ago
 
 ---
 
@@ -486,7 +490,7 @@ OmniVoice is a massively multilingual, zero-shot text-to-speech model supporting
 
 `text-to-speech`
 
-⬇️ 64,509 • ❤️ 292 • 1d ago
+⬇️ 64,509 • ❤️ 296 • 1d ago
 
 ---
 
@@ -498,7 +502,7 @@ Gemma 4 E2B-it is an instruction-tuned, multimodal (text, image, audio) LLM from
 
 `any-to-any` `5.1B`
 
-⬇️ 237,266 • ❤️ 285 • 4d ago
+⬇️ 237,266 • ❤️ 287 • 4d ago
 
 ---
 
@@ -558,21 +562,6 @@ VOID is a video object removal framework that uses vision-language models and vi
 
 ---
 
-**[DeepScientist: Advancing Frontier-Pushing Scientific Findings
-  Progressively](https://huggingface.co/papers/2509.26603)**
-
-*Yixuan Weng, Minjun Zhu, Qiujie Xie et al. (7 authors)*
-
-🏢 Text Intelligence Lab of Westlake University
-
-DeepScientist autonomously conducts scientific discovery through Bayesian Optimization, surpassing human state-of-the-art methods on multiple AI tasks.
-
-▲ 18 • 💬 4 • ⭐ 1,540 • 6mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.26603) • [💻 code](https://github.com/ResearAI/DeepScientist) • [🔗 project](https://ai-researcher.net)
-
----
-
 **[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
 
 *Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
@@ -582,6 +571,21 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 ▲ 38 • 💬 2 • ⭐ 32,389 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
+
+---
+
+**[DeepScientist: Advancing Frontier-Pushing Scientific Findings
+  Progressively](https://huggingface.co/papers/2509.26603)**
+
+*Yixuan Weng, Minjun Zhu, Qiujie Xie et al. (7 authors)*
+
+🏢 Text Intelligence Lab of Westlake University
+
+DeepScientist autonomously conducts scientific discovery through Bayesian Optimization, surpassing human state-of-the-art methods on multiple AI tasks.
+
+▲ 18 • 💬 4 • ⭐ 1,585 • 6mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.26603) • [💻 code](https://github.com/ResearAI/DeepScientist) • [🔗 project](https://ai-researcher.net)
 
 ---
 
@@ -606,7 +610,7 @@ The AI Scientist-v2 autonomously proposes hypotheses, performs experiments, anal
 
 A large-scale dynamic dataset derived from AAA games is introduced to improve generative inverse and forward rendering, featuring high-resolution synchronized RGB and G-buffer data alongside a novel VLM-based evaluation method that correlates well with human judgment.
 
-▲ 88 • 💬 4 • ⭐ 373 • 5d ago
+▲ 88 • 💬 4 • ⭐ 396 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.02329) • [💻 code](https://github.com/ShandaAI/AlayaRenderer) • [🔗 project](https://alaya-studio.github.io/renderer)
 
@@ -633,7 +637,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 50 • 💬 1 • ⭐ 75,421 • 31mo ago
+▲ 50 • 💬 1 • ⭐ 75,477 • 31mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -649,7 +653,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 15.3k • 🔱 854 • 6d ago
+⭐ 15.3k • 🔱 855 • 6d ago
 
 ---
 
@@ -659,7 +663,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 13.6k • 🔱 1.2k • 4h ago
+⭐ 13.6k • 🔱 1.2k • 5h ago
 
 ---
 
@@ -669,7 +673,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `Go` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 10.2k • 🔱 1.8k • 4h ago
+⭐ 10.9k • 🔱 2.0k • 5h ago
 
 ---
 
@@ -699,7 +703,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.8k • 🔱 401 • 10h ago
+⭐ 6.8k • 🔱 401 • 11h ago
 
 ---
 
@@ -719,7 +723,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `claude-ai` `claude-skills` `llm` `prompt-engineering`
 
-⭐ 4.8k • 🔱 458 • 6d ago
+⭐ 4.8k • 🔱 459 • 6d ago
 
 ---
 
@@ -729,7 +733,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 3.8k • 🔱 115 • 4h ago
+⭐ 4.0k • 🔱 119 • 2h ago
 
 ---
 
@@ -739,7 +743,7 @@ Autonomous novel writing CLI AI Agent — agents write, audit, and revise novels
 
 `TypeScript` `agent` `ai` `ai-agent` `ai-novel` `ai-writing`
 
-⭐ 3.6k • 🔱 660 • 7h ago
+⭐ 3.6k • 🔱 661 • 7h ago
 
 ---
 

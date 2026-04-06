@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-06T22:49:44.951981+00:00'
+updated: '2026-04-06T23:37:22.484405+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 06, 2026 at 22:49 UTC  
+**Last Updated:** April 06, 2026 at 23:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,515.18
+### $68,683.69
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.7%  
-**7d:** +1.8%  
-**30d:** +5.3%  
-**90d:** -23.9%  
-**1y:** -12.2%  
+**24h:** -0.6%  
+**7d:** +0.6%  
+**30d:** +4.1%  
+**90d:** -24.8%  
+**1y:** -13.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1397.06B
+**Market Cap:** $1373.92B
 Rank #1
 
-**Circulating Supply:** 20,012,340 BTC
+**Circulating Supply:** 20,012,375 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--44.6%
+-45.5%
 
 **All-Time Low:** $67.81
-+102850.9%
++101144.7%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[It’s going to 🚀](https://www.reddit.com/r/Bitcoin/comments/1se4g7y/its_going_to/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -87,13 +87,21 @@ Rank #1
 
 I just know it. So I won't buy just so the rest of you can make some money.
 
+3h ago
+
+---
+
+**[You set up a hardware wallet and wrote down your seed phrase. Here’s what most guides don’t tell you.](https://www.reddit.com/r/Bitcoin/comments/1sec3fl/you_set_up_a_hardware_wallet_and_wrote_down_your/)**
+
+There’s a post near the top of this sub right now where someone sent Bitcoin to their Trezor and the wallet showed empty. They panicked. Turns out their Bitcoin wasn’t gone — it was in their passphrase wallet. They hadn’t known they created one. That’s the most common failure pattern in hardware wallet support forums, and it almost never gets explained at setup. Here’s what’s actually happening and three other traps that catch people the same way. The passphrase trap When you set up a Trezor using Trezor Suite, the passphrase feature is on by default. A passphrase — sometimes called the 25th word — creates a completely separate wallet derived from your seed. Any input during setup creates one. An accidental keystroke creates one. If you set a passphrase and don’t write it down, that passphrase is gone forever — and so is everything in that wallet. Your seed phrase alone opens a different, empty wallet. No error message. Nothing to indicate anything is wrong. Trezor’s support forums have dozens of threads that all read identically: “I have my seed, I’ve tried everything, balance is zero.” In most cases the passphrase was set accidentally during initial setup. Different software generates different addresses from the same seed This sounds impossible but it’s documented repeatedly. There are multiple standards for how wallet software derives addresses from a seed phrase — BIP-44, BIP-49, BIP-84 are the common ones — and different apps default to different ones. One user bought Bitcoin through Exodus paired with a Trezor in 2021. Exodus defaulted to P2SH-SegWit (m/49’/0’/0’). Trezor Suite defaults to Native SegWit (m/84’/0’/0’). Four years later, a firmware update forced a reset. The user opened Trezor Suite instead of reconnecting through Exodus. Empty wallet. His Bitcoin was on-chain and accessible — completely invisible to the software he was now using. Valid seed. Right device. Zero balance. This is not a bug. It’s two correct implementations of different standards. Electrum does not speak the same language as your hardware wallet If you ever try to import your Trezor or Ledger seed into Electrum as a backup option, it will show an empty wallet. Electrum uses a proprietary seed format and deliberately does not support BIP-39 — the standard your hardware wallet uses. To get it working you have to click a hidden “Options” button during seed entry, select “BIP39 seed,” then manually enter the derivation path your original wallet used. Without those steps, Electrum opens a valid empty wallet with no explanation. The Electrum developers are aware of this and consider it a feature. What to actually write down alongside your seed phrase The seed is the starting point, not the whole picture. What you also need documented somewhere safe: Which device and software you used to set up the wallet (Trezor Suite, Ledger Live, Electrum, etc.) Whether a passphrase was set — and if yes, exactly what it was, case-sensitive Which address format was used (Legacy, SegWit, Native SegWit, Taproot) — your software may show this during setup The derivation path if you can find it — usually visible in advanced settings That context, stored with your seed backup, is what makes the difference between recovery taking five minutes and recovery being impossible.
+
 2h ago
 
 ---
 
 **[Men only have two moods:](https://www.reddit.com/r/Bitcoin/comments/1sdz0lp/men_only_have_two_moods/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -109,7 +117,7 @@ While the world continues to trust systems that fail time and time again, a new 
 
 Sadly, most of the hard working people still have no idea how the printer keeps stealing their money.
 
-10h ago
+11h ago
 
 ---
 
@@ -125,15 +133,7 @@ Bitcoing is extremely volatile, having thoroughly tanked this year. And yet it i
 
 Curious how it started for all of us.
 
-4h ago
-
----
-
-**[You set up a hardware wallet and wrote down your seed phrase. Here’s what most guides don’t tell you.](https://www.reddit.com/r/Bitcoin/comments/1sec3fl/you_set_up_a_hardware_wallet_and_wrote_down_your/)**
-
-There’s a post near the top of this sub right now where someone sent Bitcoin to their Trezor and the wallet showed empty. They panicked. Turns out their Bitcoin wasn’t gone — it was in their passphrase wallet. They hadn’t known they created one. That’s the most common failure pattern in hardware wallet support forums, and it almost never gets explained at setup. Here’s what’s actually happening and three other traps that catch people the same way. The passphrase trap When you set up a Trezor using Trezor Suite, the passphrase feature is on by default. A passphrase — sometimes called the 25th word — creates a completely separate wallet derived from your seed. Any input during setup creates one. An accidental keystroke creates one. If you set a passphrase and don’t write it down, that passphrase is gone forever — and so is everything in that wallet. Your seed phrase alone opens a different, empty wallet. No error message. Nothing to indicate anything is wrong. Trezor’s support forums have dozens of threads that all read identically: “I have my seed, I’ve tried everything, balance is zero.” In most cases the passphrase was set accidentally during initial setup. Different software generates different addresses from the same seed This sounds impossible but it’s documented repeatedly. There are multiple standards for how wallet software derives addresses from a seed phrase — BIP-44, BIP-49, BIP-84 are the common ones — and different apps default to different ones. One user bought Bitcoin through Exodus paired with a Trezor in 2021. Exodus defaulted to P2SH-SegWit (m/49’/0’/0’). Trezor Suite defaults to Native SegWit (m/84’/0’/0’). Four years later, a firmware update forced a reset. The user opened Trezor Suite instead of reconnecting through Exodus. Empty wallet. His Bitcoin was on-chain and accessible — completely invisible to the software he was now using. Valid seed. Right device. Zero balance. This is not a bug. It’s two correct implementations of different standards. Electrum does not speak the same language as your hardware wallet If you ever try to import your Trezor or Ledger seed into Electrum as a backup option, it will show an empty wallet. Electrum uses a proprietary seed format and deliberately does not support BIP-39 — the standard your hardware wallet uses. To get it working you have to click a hidden “Options” button during seed entry, select “BIP39 seed,” then manually enter the derivation path your original wallet used. Without those steps, Electrum opens a valid empty wallet with no explanation. The Electrum developers are aware of this and consider it a feature. What to actually write down alongside your seed phrase The seed is the starting point, not the whole picture. What you also need documented somewhere safe: Which device and software you used to set up the wallet (Trezor Suite, Ledger Live, Electrum, etc.) Whether a passphrase was set — and if yes, exactly what it was, case-sensitive Which address format was used (Legacy, SegWit, Native SegWit, Taproot) — your software may show this during setup The derivation path if you can find it — usually visible in advanced settings That context, stored with your seed backup, is what makes the difference between recovery taking five minutes and recovery being impossible.
-
-1h ago
+5h ago
 
 ---
 
@@ -141,7 +141,7 @@ There’s a post near the top of this sub right now where someone sent Bitcoin t
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-16h ago
+17h ago
 
 ---
 
@@ -159,7 +159,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Options data shows traders are bracing for a sharp bitcoin drop as weak demand and fragile positioning leave the market exposed to a break below key levels, a report from Bitfinex shows.
 
-CoinDesk • 3h ago
+coindesk.com • 4h ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 3h ago
 
 Strategy's on-paper bitcoin losses generated a $2.42 billion deferred tax asset, according to its latest 8-K filing.
 
-theblock.co • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -175,23 +175,21 @@ theblock.co • 8h ago
 
 Strategy recorded a $14.5 billion unrealized loss in the first quarter as it continues to accumulate more bitcoin.
 
-Yahoo Finance • 7h ago
+finance.yahoo.com • 8h ago
 
 ---
 
-**[Bitcoin may hit $110K as Strategy absorbs nearly 3x new BTC supply](https://www.tradingview.com/news/cointelegraph:1060e5db7094b:0-bitcoin-may-hit-110k-as-strategy-absorbs-nearly-3x-new-btc-supply/)**
+**[Strategy Posts $14.5 Billion Unrealized Loss in First Quarter](https://www.bloomberg.com/news/articles/2026-04-06/strategy-posts-14-5-billion-unrealized-loss-in-first-quarter)**
 
-Bitcoin (BTC) is trading within a bear flag pattern that projects a breakdown toward the sub-$50,000 area, or roughly 30% below current levels. However, Michael Saylor’s Strategy could spoil the bears’ plans.Key takeaways:Can Strategy’s BTC buying offset weak technicals?Normally, a bear flag remain…
-
-tradingview.com • 2h ago
+Bloomberg.com • 10h ago
 
 ---
 
-**[Bitcoin climbs to $70K as crypto prices push higher](https://www.cnbc.com/video/2026/04/06/bitcoin-climbs-to-70k-as-crypto-prices-push-higher.html)**
+**[A quantum threat to Bitcoin has some asking the unthinkable](https://fortune.com/crypto/2026/04/06/quantum-computing-satoshi-nakamoto-bitcoin-freeze-wallets/)**
 
-CNBC's Tanaya Macheel with the latest on crypto currency.
+A hacker with quantum tools could crack open old Bitcoin wallets and flood the market as soon as 2029.
 
-cnbc.com • 1h ago
+Fortune • 11h ago
 
 ---
 
@@ -199,15 +197,7 @@ cnbc.com • 1h ago
 
 Most simplifies the complex process of quantum computing as "it can be 0 and 1 at the same time." That is not an explanation for why it threatens Bitcoin. This is.
 
-CoinDesk • 1d ago
-
----
-
-**[A quantum threat to Bitcoin has some asking the unthinkable: Is it time to freeze old wallets belonging to Satoshi Nakamoto?](https://finance.yahoo.com/markets/crypto/articles/quantum-threat-bitcoin-asking-unthinkable-114215047.html)**
-
-A hacker with quantum tools could crack open old Bitcoin wallets and flood the market as soon as 2029.
-
-Yahoo Finance • 11h ago
+coindesk.com • 1d ago
 
 ---
 
@@ -215,19 +205,27 @@ Yahoo Finance • 11h ago
 
 Bitcoin needs to fix this in the next three years.
 
-Mashable • 7h ago
+Mashable • 1h ago
 
 ---
 
 **[‘A Major Mistake’—Bitcoin Is Suddenly Braced For A Federal Reserve Price ‘Surprise’](https://www.forbes.com/sites/digital-assets/2026/04/06/bitcoin-is-suddenly-braced-for-a-federal-reserve-price-surprise/)**
 
-Forbes • 11h ago
+Forbes • 12h ago
+
+---
+
+**[Strive (ASST) Adds 113 Bitcoin At An Average Price Of $68,584 Per BTC](https://bitcoinmagazine.com/news/strive-asst-adds-113-bitcoin)**
+
+Strive expanded its Bitcoin treasury with a new acquisition of 113 bitcoin.
+
+Bitcoin Magazine • 6h ago
 
 ---
 
 **[Bitcoin Rebounds Near $70,000, Charles Schwab To Launch Direct Trading](https://www.investors.com/news/bitcoin-price-rebound-69k-charles-schwab-direct-trading/)**
 
-investors.com • 9h ago
+Investor's Business Daily • 10h ago
 
 ---
 
@@ -269,7 +267,7 @@ April 03, 2026 - A new $100 million bond deal reveals exactly how traditional fi
 
 **[Strive, Tuttle File Leveraged Bitcoin ETF](https://news.ycombinator.com/item?id=47621293)**
 
-⬆️ 4 • 💬 0 • 3d ago • [catenaa.com](https://catenaa.com/markets/cryptocurrencies/strive-tuttle-file-leveraged-etf-tied-to-bitcoin-preferreds/)
+⬆️ 4 • 💬 0 • 4d ago • [catenaa.com](https://catenaa.com/markets/cryptocurrencies/strive-tuttle-file-leveraged-etf-tied-to-bitcoin-preferreds/)
 
 ---
 
@@ -285,11 +283,9 @@ April 03, 2026 - A new $100 million bond deal reveals exactly how traditional fi
 
 ---
 
-**[Show HN: I built a Bitcoin signing device where the private key is physical](https://news.ycombinator.com/item?id=47580917)**
+**[Bitcoin developers are mostly not concerned about quantum risk](https://news.ycombinator.com/item?id=47667515)**
 
-The first signing system where the private key is a physical key — and can still transact. Titanium. Not stored digitally. Not protected by firmware.
-
-⬆️ 2 • 💬 1 • 6d ago • [Frozen Security](https://frozensecurity.com/)
+⬆️ 2 • 💬 0 • 1h ago • [murmurationstwo.substack.com](https://murmurationstwo.substack.com/p/bitcoin-developers-are-mostly-not)
 
 ---
 
@@ -301,9 +297,9 @@ Test your prediction skills against historical data. Draw your forecast and see 
 
 ---
 
-**[Bitcoin developers are mostly not concerned about quantum risk](https://news.ycombinator.com/item?id=47667515)**
+**[Show HN: Live simulation of AI agents scamming each other (and getting caught)](https://news.ycombinator.com/item?id=47595450)**
 
-⬆️ 1 • 💬 0 • 1h ago • [murmurationstwo.substack.com](https://murmurationstwo.substack.com/p/bitcoin-developers-are-mostly-not)
+⬆️ 4 • 💬 0 • 5d ago • [5.161.255.238:8888](http://5.161.255.238:8888)
 
 ---
 
@@ -311,33 +307,13 @@ Test your prediction skills against historical data. Draw your forecast and see 
 
 ## YouTube Videos: "bitcoin"
 
-**[🚨 BTC &amp; ETH: 24 HOURS!!!! ACT ACT ACT!!!!!!](https://www.youtube.com/watch?v=ewMAck4UjHk)**
+**[BITCOIN LAST WARNING!!!!!!!!!!!!!](https://www.youtube.com/watch?v=szQwDyikS0w)**
 
-This is huge for crypto, bitcoin, ethereum and the rest of the markets!!!!! ---------- EXCHANGE BONUSES Trade Non KYC ...
+Bitcoin what now The HORRIBLE Secret of Backwards Aging Celebrities! https://youtu.be/X7urCWuIt7k.
 
-📺 Thomas Kralow
+📺 MMCrypto
 
-👁️ 16K • 👍 3K • 💬 34 • ⏱️ 9:21 • 11h ago
-
----
-
-**[Bitcoin Holders - What’s Coming is Worse Than 1929 Depression](https://www.youtube.com/watch?v=PdLqDkH-2qU)**
-
-Follow Gareth: https://x.com/GarethSoloway ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?
-
-📺 Altcoin Daily
-
-👁️ 55K • 👍 3K • 💬 247 • ⏱️ 23:55 • 1d ago
-
----
-
-**[Bitcoin Reclaims $69K As Global Instability Ramps Up - Worst Yet To Come?](https://www.youtube.com/watch?v=tw9SqQ6P7Gc)**
-
-Bitcoin #Crypto #Finance Bitcoin uncertainty is rising fast as global instability continues to build across markets. A critical week of ...
-
-📺 The Wolf Of All Streets
-
-👁️ 13K • 👍 905 • 💬 206 • ⏱️ 1:05:40 • 7h ago
+👁️ 39K • 👍 2K • 💬 492 • ⏱️ 5:05 • 1d ago
 
 ---
 
@@ -347,7 +323,17 @@ Could the oil crisis Break Bitcoin? Insider oil tracking just hit $173 a barrel 
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 390 • ⏱️ 16:01 • 1d ago
+👁️ 23K • 👍 2K • 💬 397 • ⏱️ 16:01 • 1d ago
+
+---
+
+**[Bitcoin Reclaims $69K As Global Instability Ramps Up - Worst Yet To Come?](https://www.youtube.com/watch?v=tw9SqQ6P7Gc)**
+
+Bitcoin #Crypto #Finance Bitcoin uncertainty is rising fast as global instability continues to build across markets. A critical week of ...
+
+📺 The Wolf Of All Streets
+
+👁️ 15K • 👍 973 • 💬 219 • ⏱️ 1:05:40 • 8h ago
 
 ---
 
@@ -357,17 +343,45 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 6K • 👍 476 • 💬 48 • ⏱️ 13:45 • 7h ago
+👁️ 8K • 👍 554 • 💬 63 • ⏱️ 13:45 • 8h ago
 
 ---
 
-**[Bitcoin Is About To Make A BIG Move.. (GET READY)](https://www.youtube.com/watch?v=AaU-1PYXoxI)**
+**[Bitcoin Holders - What’s Coming is Worse Than 1929 Depression](https://www.youtube.com/watch?v=PdLqDkH-2qU)**
 
-Bitcoin and Crypto markets are heating up, and new opportunities are starting to appear. In today's video, Sheldon breaks down 4 ...
+Follow Gareth: https://x.com/GarethSoloway ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?
 
-📺 Crypto Banter
+📺 Altcoin Daily
 
-👁️ 9K • 👍 590 • 💬 32 • ⏱️ 7:43 • 13h ago
+👁️ 56K • 👍 3K • 💬 294 • ⏱️ 23:55 • 1d ago
+
+---
+
+**[🚨 BTC &amp; ETH: 24 HOURS!!!! ACT ACT ACT!!!!!!](https://www.youtube.com/watch?v=ewMAck4UjHk)**
+
+This is huge for crypto, bitcoin, ethereum and the rest of the markets!!!!! ---------- EXCHANGE BONUSES Trade Non KYC ...
+
+📺 Thomas Kralow
+
+👁️ 18K • 👍 3K • 💬 62 • ⏱️ 9:21 • 12h ago
+
+---
+
+**[Bitcoin SURGES as Iran &quot;Hell&quot; Deadline Approaches](https://www.youtube.com/watch?v=VoPFpTW-Xf8)**
+
+Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly ...
+
+📺 CryptosRUs
+
+👁️ 15K • 👍 913 • 💬 179 • ⏱️ 54:54 • 2h ago
+
+---
+
+**[Bitcoin Goes Up To $1Million?!](https://www.youtube.com/watch?v=CPCoqd0HxWM)**
+
+📺 FreshandFit
+
+👁️ 50K • 👍 1K • 💬 37 • ⏱️ 0:34 • 20h ago
 
 ---
 
@@ -377,27 +391,7 @@ BITCOIN: The Calm Before The Storm (Prepare Now)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 9K • 👍 311 • 💬 307 • ⏱️ 18:13 • 22h ago
-
----
-
-**[I Was Wrong on Bitcoin (4 Year Cycle)](https://www.youtube.com/watch?v=Wr5JUmUuxrY)**
-
-The Bitcoin 4 year cycle somehow continues... here's what's next BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 23K • 👍 986 • 💬 259 • ⏱️ 12:12 • 2d ago
-
----
-
-**[If Professor Jian Xueqin Is Right... Bitcoin Goes NUCLEAR](https://www.youtube.com/watch?v=1HPmGzKyUOk)**
-
-CHECK OUT UPTRADE! Sign up here ▻ https://uptrade.co/ref/fire-hustle TRADE ON BTCC WITH ME! 10% Deposit ...
-
-📺 FireHustle
-
-👁️ 9K • 👍 529 • 💬 58 • ⏱️ 10:15 • 1d ago
+👁️ 9K • 👍 317 • 💬 307 • ⏱️ 18:13 • 23h ago
 
 ---
 
@@ -407,7 +401,7 @@ Is Bitcoin entering a dangerous phase of complacency? After periods of volatilit
 
 📺 Benjamin Cowen
 
-👁️ 69K • 👍 4K • 💬 218 • ⏱️ 16:00 • 1d ago
+👁️ 72K • 👍 4K • 💬 221 • ⏱️ 16:00 • 1d ago
 
 ---
 
